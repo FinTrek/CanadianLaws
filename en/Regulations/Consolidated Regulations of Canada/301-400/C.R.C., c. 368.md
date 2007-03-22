@@ -20,20 +20,20 @@ Enabling authorities:
 
 ***business hours***, in relation to a Division Office, means the hours during which the Division Office is open to the public from Monday to Friday, holidays excepted, as posted by that Division Office. (*heures d’ouverture*)
 
-***directive*** means a directive issued by the Superintendent pursuant to subsection 5(4) of the Act. (*instructions*)
+***directive*** means a directive issued by the Superintendent pursuant to subsection 5(4) of the Act. (*instructions*)
 
 ***Division Office*** means the office of the Superintendent, Department of Industry, for the bankruptcy division in which the proceedings were commenced. (*bureau de division*)
 
-***judge*** means a judge of a court having jurisdiction in bankruptcy under sections 183 to 186 of the Act. (*juge*)
+***judge*** means a judge of a court having jurisdiction in bankruptcy under sections 183 to 186 of the Act. (*juge*)
 
-***petition*** means a petition for a receiving order. (*pétition*)
+***petition***[Repealed, SOR/2007-61, s. 1]
 
-***registrar*** means a person appointed or assigned as a registrar in bankruptcy under section 184 of the Act. (*registraire*)
+***registrar*** means a person appointed or assigned as a registrar in bankruptcy under section 184 of the Act. (*registraire*)
 
 ***tariff*** means the tariff of costs set out in the schedule. (*tarif*)
 
-***taxing officer*** means the registrar or other officer appointed or assigned under section 184 of the Act for the taxation or fixing of costs or the passing of accounts. (*fonctionnaire taxateur*) 
-> SOR/92-579, s. 2; SOR/98-240, s. 1.
+***taxing officer*** means the registrar or other officer appointed or assigned under section 184 of the Act for the taxation or fixing of costs or the passing of accounts. (*fonctionnaire taxateur*)
+> SOR/92-579, s. 2; SOR/98-240, s. 1; SOR/2007-61, s. 1.
 
 
 
@@ -42,8 +42,8 @@ Enabling authorities:
 ## General
 
 
-**2** Documents that by the Act are to be prescribed must be in the form prescribed, with such modifications as the circumstances require and subject to any deviations permitted by section 32 of the [Interpretation Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-21.md), and must be used in proceedings under the Act.
-> SOR/92-579, s. 3; SOR/98-240, s. 1.
+**2** Documents that by the Act are to be prescribed must be in the form prescribed, with any modifications that the circumstances require and subject to any deviations permitted by section 32 of the [Interpretation Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-21.md), and must be used in proceedings under the Act.
+> SOR/92-579, s. 3; SOR/98-240, s. 1; SOR/2007-61, s. 2(E).
 
 
 
@@ -54,8 +54,8 @@ Enabling authorities:
 
 
 
-**4** Where a period of less than six days is provided for the doing of an act or the initiating of a proceeding under the Act or these Rules, calculation of the period does not include Saturdays or holidays.
-> SOR/98-240, s. 1.
+**4** If a period of less than six days is provided for the doing of an act or the initiating of a proceeding under the Act or these Rules, calculation of the period does not include Saturdays or holidays.
+> SOR/98-240, s. 1; SOR/2007-61, s. 63(E).
 
 
 
@@ -79,13 +79,13 @@ Enabling authorities:
 - **(1)** Unless otherwise provided in the Act or these Rules, every notice or other document given or sent pursuant to the Act or these Rules must be served, delivered personally, or sent by mail, courier, facsimile or electronic transmission.
 
 - **(2)** Unless otherwise provided in these Rules, every notice or other document given or sent pursuant to the Act or these Rules
-	- **(a)** must be received by the addressee at least four days before the event to which it relates, where it is served, delivered personally, or sent by facsimile or electronic transmission; or
-	- **(b)** must be sent to the addressee at least 10 days before the event to which it relates, where it is sent by mail or by courier.
+	- **(a)** must be received by the addressee at least four days before the event to which it relates, if it is served, delivered personally, or sent by facsimile or electronic transmission; or
+	- **(b)** must be sent to the addressee at least 10 days before the event to which it relates, if it is sent by mail or by courier.
 
 - **(3)** A trustee, receiver or administrator who gives or sends a notice or other document shall prepare an affidavit, or obtain proof, that it was given or sent, and shall retain the affidavit or proof in their files.
 
-- **(4)** The court may, on an *ex parte* application, exempt any person from the application of subsection (2) or order such terms and conditions as the court considers appropriate, including a change in the time limits.
-> SOR/98-240, s. 1.
+- **(4)** The court may, on an *ex parte* application, exempt any person from the application of subsection (2) or order any terms and conditions that the court considers appropriate, including a change in the time limits.
+> SOR/98-240, s. 1; SOR/2007-61, ss. 3(E), 63(E).
 
 
 
@@ -96,8 +96,8 @@ Enabling authorities:
 
 
 
-**8** An interim receiver, a trustee, an administrator of a consumer proposal, an official receiver or a representative of the Superintendent is not required to be represented by legal counsel when appearing before a registrar on any court proceeding under the Act.
-> SOR/98-240, s. 1.
+**8** An interim receiver, a trustee, an administrator of a consumer proposal, an official receiver or a representative of the Superintendent is not required to be represented by a barrister or solicitor or, in the Province of Quebec, an advocate when appearing before a registrar on any court proceeding under the Act.
+> SOR/98-240, s. 1; SOR/2007-61, s. 4(E).
 
 
 
@@ -110,22 +110,22 @@ Enabling authorities:
 
 - **(1)** All proceedings used in court must be dated and entitled in the name of the court in which they are used, together with the words “in Bankruptcy and Insolvency”.
 
-- **(2)** Every document used in the filing of a petition or used after the filing of an assignment must be entitled “In the Matter of the Bankruptcy of...”.
+- **(2)** Every document used in the filing of a bankruptcy application or used after the filing of an assignment must be entitled “In the Matter of the Bankruptcy of ...”.
 
-- **(3)** Every document used in the filing of a proposal before bankruptcy must be entitled “In the Matter of the Proposal of...”.
+- **(3)** Every document used in the filing of a proposal before bankruptcy must be entitled “In the Matter of the Proposal of ...”.
 
-- **(4)** Every document used in the course of a receivership must be entitled “In the Matter of the Receivership of...”.
+- **(4)** Every document used in the course of a receivership must be entitled “In the Matter of the Receivership of ...”.
 
-- **(5)** Unless the Chief Justice, Associate Chief Justice or Commissioner, as the case may be, referred to in section 184 of the Act otherwise directs, every document that is required to be filed in court must first be filed at the office of the registrar.
+- **(5)** Unless the Chief Justice, Associate Chief Justice or Commissioner, as the case may be, referred to in section 184 of the Act otherwise directs, every document that is required to be filed in court must first be filed at the office of the registrar.
 
-- **(6)** Where the court deems necessary that any notice be sent to the Superintendent in any proceeding before it, a copy of that notice shall be sent to the Division Office.
-> SOR/98-240, s. 1.
-
-
+- **(6)** If the court deems necessary that any notice be sent to the Superintendent in any proceeding before it, a copy of that notice shall be sent to the Division Office.
+> SOR/98-240, s. 1; SOR/2007-61, s. 63(E), 64.
 
 
-**10** Where any proceedings are transferred from one court to another court under subsection 187(7) or (10) of the Act, the registrar of the former court shall send the file to the registrar of the latter court, with a copy of the order of transfer attached to it.
-> SOR/98-240, s. 1.
+
+
+**10** If any proceedings are transferred from one court to another court under subsection 187(7) or (10) of the Act, the registrar of the former court shall send the file to the registrar of the latter court, with a copy of the order of transfer attached to it.
+> SOR/98-240, s. 1; SOR/2007-61, s. 63(E).
 
 
 
@@ -175,30 +175,30 @@ Enabling authorities:
 ## Search, Seizure and Arrest
 
 
-**15** A warrant issued under the Act, including a warrant of seizure and a search warrant, must be executed by the sheriff.
-> SOR/98-240, s. 1.
+**15** A warrant issued under the Act, including a warrant of seizure and a search warrant, must be executed by the executing officer.
+> SOR/98-240, s. 1; SOR/2007-61, s. 5(E).
 
 
 
 
 **16** 
 
-- **(1)** A bankrupt or other person who is apprehended under section 166 of the Act shall be kept in the place of custody set out in the warrant, pending the order of the court.
+- **(1)** A bankrupt or other person who is apprehended under section 166 of the Act shall be kept in the place of custody set out in the warrant, pending the order of the court.
 
-- **(2)** As soon as a bankrupt or other person has been handed over to the authority at a place of custody, the person who made the apprehension under section 166 of the Act or the arrest under section 168 of the Act shall so report to the court.
+- **(2)** As soon as a bankrupt or other person has been handed over to the authority at a place of custody, the person who made the apprehension under section 166 of the Act or the arrest under section 168 of the Act shall so report to the court.
 
-- **(3)** After the report mentioned in subsection (2) is made, the court may make an order fixing a time and place for the examination of the bankrupt or other person by the official receiver, where section 166 of the Act applies, or by the court, where section 168 of the Act applies.
+- **(3)** After the report mentioned in subsection (2) is made, the court may make an order fixing a time and place for the examination of the bankrupt or other person by the official receiver, if section 166 of the Act applies, or by the court, if section 168 of the Act applies.
 
-- **(4)** As soon as a time and place are set for the examination of a bankrupt or other person by the official receiver pursuant to subsection (3), the registrar shall so notify the official receiver and the trustee.
+- **(4)** As soon as a time and place are set for the examination of a bankrupt or other person by the official receiver pursuant to subsection (3), the registrar shall so notify the official receiver and the trustee.
 
-- **(5)** As soon as a time and place are set for the examination of a bankrupt, other than an examination referred to in subsection (4), the registrar shall so notify the trustee and the person who applied for the examination.
-> SOR/98-240, s. 1.
-
-
+- **(5)** As soon as a time and place are set for the examination of a bankrupt, other than an examination referred to in subsection (4), the registrar shall so notify the trustee and the person who applied for the examination.
+> SOR/98-240, s. 1; SOR/2007-61, s. 63(E).
 
 
-**17** Subject to any contrary order of the court, a person in possession or control of any property seized pursuant to the Act or these Rules shall forthwith deliver it to the trustee or the interim receiver.
-> SOR/98-240, s. 1.
+
+
+**17** Subject to any contrary order of the court, a person in possession or control of any property seized under the Act or these Rules shall immediately deliver it to the trustee or the interim receiver.
+> SOR/98-240, s. 1; SOR/2007-61, s. 6(E).
 
 
 
@@ -234,10 +234,10 @@ Enabling authorities:
 
 **21** In determining the amount of costs to be allowed, the taxing officer shall determine whether
 - **(a)** the legal services have been duly rendered;
-- **(b)** the charges are reasonable and, where applicable, are in accordance with the tariff;
+- **(b)** the charges are reasonable and, if applicable, are in accordance with the tariff;
 - **(c)** the legal services rendered are accounted for, and are not services that should have been rendered by the trustee; and
-- **(d)** the legal services have been authorized and approved in accordance with the Act, where the Act so requires.
-> SOR/98-240, s. 1.
+- **(d)** the legal services have been authorized and approved in accordance with the Act, if the Act so requires.
+> SOR/98-240, s. 1; SOR/2007-61, s. 63(E).
 
 
 
@@ -248,18 +248,18 @@ Enabling authorities:
 
 
 
-**23** The court may, on *ex parte* application by a trustee, order a solicitor to submit a bill of costs to the trustee, or to bring the bill of costs into court to be taxed, and, if the solicitor fails to comply, the court may, on *ex parte* application by the trustee, order that the trustee distribute the proceeds of the estate that the trustee possesses without regard to the solicitor’s bill of costs.
-> SOR/98-240, s. 1.
+**23** The court may, on *ex parte* application by a trustee, order a barrister or solicitor or, in the Province of Quebec, an advocate to submit a bill of costs to the trustee, or to bring the bill of costs into court to be taxed, and, if the barrister, solicitor or advocate fails to comply, the court may, on *ex parte* application by the trustee, order that the trustee distribute the proceeds of the estate that the trustee possesses without regard to the barrister, solicitor or advocate’s bill of costs.
+> SOR/98-240, s. 1; SOR/2007-61, s. 7.
 
 
 
 
 **24** 
 
-- **(1)** The solicitor shall give to the trustee, to any other person who is liable for payment of the bill of costs and, on request, to the Division Office, a notice of the time and place of the taxation, at least 10 days before the day set for the taxation.
+- **(1)** The barrister or solicitor or, in the Province of Quebec, the advocate shall give to the trustee, to any other person who is liable for payment of the bill of costs and, on request, to the Division Office, a notice of the time and place of the taxation, at least 10 days before the day set for the taxation.
 
-- **(2)** A certified copy of the bill of costs to be presented for taxation must be attached to the notice referred to in subsection (1).
-> SOR/98-240, s. 1.
+- **(2)** A certified copy of the bill of costs to be presented for taxation must be attached to the notice referred to in subsection (1).
+> SOR/98-240, s. 1; SOR/2007-61, s. 8.
 
 
 
@@ -276,10 +276,10 @@ Enabling authorities:
 
 **26** 
 
-- **(1)** Where a trustee believes that, by reason of subsection 197(7) or (8) of the Act, the claimant is not entitled to a part of a bill of costs that has been taxed, the trustee shall withhold payment of that part.
+- **(1)** If a trustee believes that, by reason of subsection 197(7) or (8) of the Act, the claimant is not entitled to a part of a bill of costs that has been taxed, the trustee shall withhold payment of that part.
 
 - **(2)** If it appears to the trustee that the amount approved by the taxing officer is excessive, the trustee shall, on giving 10 days notice to the opposite party, apply to the court to have the taxation of the bill of costs reviewed.
-> SOR/98-240, s. 1.
+> SOR/98-240, s. 1; SOR/2007-61, s. 63(E).
 
 
 
@@ -288,8 +288,8 @@ Enabling authorities:
 ## Fees of Court Officers
 
 
-**27** Where the amount of the fees payable to a court officer is contested, the judge shall fix the amount.
-> SOR/98-240, s. 1.
+**27** If the amount of the fees payable to a court officer is contested, the judge shall fix the amount.
+> SOR/98-240, s. 1; SOR/2007-61, s. 63(E).
 
 
 
@@ -326,10 +326,10 @@ Enabling authorities:
 
 **31** 
 
-- **(1)** An appeal to a court of appeal referred to in subsection 183(2) of the Act must be made by filing a notice of appeal at the office of the registrar of the court appealed from, within 10 days after the day of the order or decision appealed from, or within such further time as a judge of the court of appeal stipulates.
+- **(1)** An appeal to a court of appeal referred to in subsection 183(2) of the Act must be made by filing a notice of appeal at the office of the registrar of the court appealed from, within 10 days after the day of the order or decision appealed from, or within such further time as a judge of the court of appeal stipulates.
 
-- **(2)** Where an appeal is brought under paragraph 193(e) of the Act, the notice of appeal must include the application for leave to appeal.
-> SOR/98-240, s. 1.
+- **(2)** If an appeal is brought under paragraph 193(e) of the Act, the notice of appeal must include the application for leave to appeal.
+> SOR/98-240, s. 1; SOR/2007-61, s. 63(E).
 
 
 
@@ -417,16 +417,16 @@ Enabling authorities:
 
 **43** 
 
-- **(1)** Subject to subsection (2), where trustees have a responsibility to sell property in connection with a proposal or bankruptcy, they shall not sell the property, directly or indirectly,
-	- **(a)** to their employees or agents, or persons not dealing at arms’ length with the trustees;
+- **(1)** Subject to subsection (2), if trustees have a responsibility to sell property in connection with a proposal or bankruptcy, they shall not sell the property, directly or indirectly,
+	- **(a)** to their employees, agents or mandataries, or persons not dealing at arms’ length with the trustees;
 	- **(b)** to other trustees or, knowingly, to employees of other trustees; or
-	- **(c)** to related persons of the trustees or, knowingly, to related persons of the persons referred to in paragraph (a) or (b).
+	- **(c)** to related persons of the trustees or, knowingly, to related persons of the persons referred to in paragraph (a) or (b).
 
-- **(2)** Where trustees have a responsibility to act in accordance with subsection (1), they may sell property in connection with a proposal or bankruptcy to the persons set out in paragraph (1)(a), (b) or (c), if the property is offered for sale
+- **(2)** If trustees have a responsibility to act in accordance with subsection (1), they may sell property in connection with a proposal or bankruptcy to the persons set out in paragraph (1)(a), (b) or (c), if the property is offered for sale
 	- **(a)** at the same time as it is offered to the public;
 	- **(b)** at the same price as it is offered to the public; and
 	- **(c)** during the normal course of business of the bankrupt or debtor.
-> SOR/98-240, s. 1.
+> SOR/98-240, s. 1; SOR/2007-61, ss. 9(E), 63(E).
 
 
 
@@ -489,8 +489,8 @@ Enabling authorities:
 
 
 
-**52** Trustees, in the course of their professional engagements, shall apply due care to ensure that the actions carried out by their agents, employees or any persons hired by the trustees on a contract basis are carried out in accordance with the same professional standards that those trustees themselves are required to follow in relation to that professional engagement.
-> SOR/98-240, s. 1.
+**52** Trustees, in the course of their professional engagements, shall apply due care to ensure that the actions carried out by their employees, agents or mandataries or any persons hired by the trustees on a contract basis are carried out in accordance with the same professional standards that those trustees themselves are required to follow in relation to that professional engagement.
+> SOR/98-240, s. 1; SOR/2007-61, s. 10(E).
 
 
 
@@ -505,8 +505,8 @@ Enabling authorities:
 ## Appointment and Substitution of Trustees
 
 
-**54** A certificate of the official receiver, or a certified copy thereof, is admissible in any proceeding under the Act as evidence of the appointment or substitution of a trustee, without proof of the authenticity of the signature or of the official character of the signatory.
-> SOR/98-240, s. 1.
+**54** A certificate of the official receiver, or a certified copy of it, is admissible in any proceeding under the Act as evidence of the appointment or substitution of a trustee, without proof of the authenticity of the signature or of the official character of the signatory.
+> SOR/98-240, s. 1; SOR/2007-61, s. 11(E).
 
 
 
@@ -537,8 +537,8 @@ However, the court may order that the notice is not required to be given to the 
 
 
 
-**57** Where a bankrupt who is being examined pursuant to subsection 161(1) of the Act cannot speak fluently in the official language in which the examination is being conducted, the trustee shall arrange for the services, at the examination, of an interpreter approved by the official receiver.
-> SOR/98-240, s. 1.
+**57** If a bankrupt who is being examined pursuant to subsection 161(1) of the Act cannot speak fluently in the official language in which the examination is being conducted, the trustee shall arrange for the services, at the examination, of an interpreter approved by the official receiver.
+> SOR/98-240, s. 1; SOR/2007-61, s. 63(E).
 
 
 
@@ -591,8 +591,8 @@ However, the court may order that the notice is not required to be given to the 
 ### General
 
 
-**60** Where, pursuant to subsection 152(4) of the Act, the Superintendent gives a letter of comment to the trustee, the trustee shall, within 30 days after receiving the letter, apply to the taxing officer for a date for a taxation hearing.
-> SOR/92-579, s. 9; SOR/98-240, s. 1.
+**60** If, pursuant to subsection 152(4) of the Act, the Superintendent gives a letter of comment to the trustee, the trustee shall, within 30 days after receiving the letter, apply to the taxing officer for a date for a taxation hearing.
+> SOR/92-579, s. 9; SOR/98-240, s. 1; SOR/2007-61, s. 63(E).
 
 
 
@@ -627,8 +627,8 @@ However, the court may order that the notice is not required to be given to the 
 **62** The trustee of the estate of a bankrupt under summary administration shall apply for taxation of the trustee’s accounts and for the discharge of the trustee by sending to the Division Office
 - **(a)** the trustee’s final statement of receipts and disbursements, in prescribed form;
 - **(b)** the dividend sheet, showing the dividends paid or to be paid to the creditors of the bankrupt; and
-- **(c)** where inspectors have been appointed by the creditors, the trustee’s final statement of receipts and disbursements showing approval by the inspectors’ signature or, where there is no such approval, showing the reasons for the non-approval.
-> SOR/98-240, s. 1.
+- **(c)** if inspectors have been appointed by the creditors, the trustee’s final statement of receipts and disbursements showing approval by the inspectors’ signature or, if there is no approval, showing the reasons for the non-approval.
+> SOR/98-240, s. 1; SOR/2007-61, s. 12(E).
 
 
 
@@ -641,16 +641,16 @@ However, the court may order that the notice is not required to be given to the 
 
 **64** 
 
-- **(1)** Where the Superintendent’s letter of comment states that the Superintendent is not requesting the taxation of the trustee’s accounts, the trustee shall, within 30 days after receipt of the letter of comment, send to each creditor who has proved a claim a notice of taxation of the trustee’s accounts and discharge of the trustee, in prescribed form, attaching
+- **(1)** If the Superintendent’s letter of comment states that the Superintendent is not requesting the taxation of the trustee’s accounts, the trustee shall, within 30 days after receipt of the letter of comment, send to each creditor who has proved a claim a notice of taxation of the trustee’s accounts and discharge of the trustee, in prescribed form, attaching
 	- **(a)** a copy of the trustee’s final statement of receipts and disbursements;
 	- **(b)** a copy of the dividend sheet, showing the dividends paid or to be paid to the creditors of the bankrupt; and
 	- **(c)** the final dividend that is owed to the creditor, if the trustee is satisfied that no creditor will object to the taxation of the trustee’s accounts and the discharge of the trustee.
 
-- **(2)** A creditor may, within 30 days after the day on which the notice referred to in subsection (1) is sent, object to the taxation of the trustee’s accounts and the discharge of the trustee by
+- **(2)** A creditor may, within 30 days after the day on which the notice referred to in subsection (1) is sent, object to the taxation of the trustee’s accounts and the discharge of the trustee by
 	- **(a)** serving a notice of objection on the trustee or sending a notice of objection to the trustee by registered mail or courier;
 	- **(b)** filing a copy of the notice of objection with the registrar, along with any applicable fee provided by the tariff; and
 	- **(c)** sending a copy of the notice of objection to the Division Office.
-> SOR/81-646, s. 4; SOR/92-579, s. 11(F); SOR/98-240, s. 1.
+> SOR/81-646, s. 4; SOR/92-579, s. 11(F); SOR/98-240, s. 1; SOR/2007-61, s. 63(E).
 
 
 
@@ -661,29 +661,29 @@ However, the court may order that the notice is not required to be given to the 
 
 **65** 
 
-- **(1)** Where a trustee receives no notice of objection within the time limit set out in subsection 64(2), the trustee shall
+- **(1)** If a trustee receives no notice of objection within the time limit set out in subsection 64(2), the trustee shall
 	- **(a)** at the expiration of that time limit, take the trustee’s fee;
 	- **(b)** at the expiration of that time limit, if the trustee has not already done so, send a final dividend to each creditor to whom one is owed; and
 	- **(c)** within three months after the day on which the notice referred to in subsection 64(1) is sent,
-		- **(i)** close the bank account used in administering the estate of the bankrupt, if that account is not a consolidated account, or, where the account is a consolidated account, ensure that all estate funds have been withdrawn from it,
+		- **(i)** close the bank account used in administering the estate of the bankrupt, if that account is not a consolidated account, or, if the account is a consolidated account, ensure that all estate funds have been withdrawn from it,
 		- **(ii)** remit any unclaimed dividends and undistributed funds to the Superintendent, and
 		- **(iii)** send to the Division Office a certificate of compliance and deemed discharge, in prescribed form.
 
 - **(2)** A trustee is deemed to be discharged on meeting the requirements of paragraphs (1)(b) and (c).
 
-- **(3)** Where a trustee receives a notice of objection within the time limit set out in subsection 64(2), the trustee shall
+- **(3)** If a trustee receives a notice of objection within the time limit set out in subsection 64(2), the trustee shall
 	- **(a)** advise the Division Office of the objection;
 	- **(b)** obtain a hearing date from the registrar; and
 	- **(c)** within 30 days after the day on which the notice of objection is received, send the objecting creditor a notice of hearing, which notice must be sent at least 30 days before the date of the hearing and must be in prescribed form.
-> SOR/81-646, s. 4; SOR/98-240, s. 1.
+> SOR/81-646, s. 4; SOR/98-240, s. 1; SOR/2007-61, s. 63(E).
 
 
 
 
 **66** 
 
-- **(1)** Where the Superintendent issues a letter of comment pursuant to section 63 requesting the taxation of a trustee’s accounts, the trustee shall, after obtaining a hearing date from the registrar and within 30 days after the day of receipt of the letter of comment, send to each creditor who has proved a claim and to the Division Office
-	- **(a)** a notice of hearing for the taxation of the trustee’s accounts and the discharge of the trustee, in prescribed form, which notice must be sent at least 30 days before the date of the hearing;
+- **(1)** If the Superintendent issues a letter of comment pursuant to section 63 requesting the taxation of a trustee’s accounts, the trustee shall, after obtaining a hearing date from the registrar and within 30 days after the day of receipt of the letter of comment, send to each creditor who has proved a claim and to the Division Office
+	- **(a)** a notice of hearing for the taxation of the trustee’s accounts and the discharge of the trustee, in prescribed form, which notice must be sent at least 30 days before the date of the hearing;
 	- **(b)** a copy of the trustee’s final statement of receipts and disbursements; and
 	- **(c)** a copy of the dividend sheet, showing the dividends paid or to be paid to the creditors of the bankrupt.
 
@@ -691,7 +691,7 @@ However, the court may order that the notice is not required to be given to the 
 	- **(a)** serving a notice of objection on the trustee or sending a notice of objection to the trustee by registered mail or courier, which notice of objection must be received by the trustee before the start of the hearing;
 	- **(b)** filing a copy of the notice of objection with the registrar, along with any applicable fee provided by the tariff; and
 	- **(c)** sending a copy of the notice of objection to the Division Office.
-> SOR/98-240, s. 1.
+> SOR/98-240, s. 1; SOR/2007-61, s. 63(E).
 
 
 
@@ -700,27 +700,27 @@ However, the court may order that the notice is not required to be given to the 
 
 - **(1)** At the time of the hearing, the registrar shall consider the creditors’ objections and the letter of comment issued by the Superintendent, and shall tax the trustee’s accounts accordingly.
 
-- **(2)** Where the registrar taxes a trustee’s accounts as submitted, the trustee shall
+- **(2)** If the registrar taxes a trustee’s accounts as submitted, the trustee shall
 	- **(a)** take the trustee’s fee as taxed;
 	- **(b)** send a final dividend to each creditor to whom one is owed; and
 	- **(c)** within two months after the date of the taxation order,
-		- **(i)** close the bank account used in administering the estate of the bankrupt, if that account is not a consolidated account, or, where the account is a consolidated account, ensure that all estate funds have been withdrawn from it,
+		- **(i)** close the bank account used in administering the estate of the bankrupt, if that account is not a consolidated account, or, if the account is a consolidated account, ensure that all estate funds have been withdrawn from it,
 		- **(ii)** remit any unclaimed dividends and undistributed funds to the Superintendent, and
 		- **(iii)** send to the Division Office a certificate of compliance and deemed discharge, in prescribed form.
 
-- **(3)** A trustee is deemed to be discharged on meeting the requirements of paragraphs (2)(b) and (c).
+- **(3)** A trustee is deemed to be discharged on meeting the requirements of paragraphs (2)(b) and (c).
 
-- **(4)** Where the registrar taxes a trustee’s accounts otherwise than as submitted, the trustee shall
+- **(4)** If the registrar taxes a trustee’s accounts otherwise than as submitted, the trustee shall
 	- **(a)** take the trustee’s fee as taxed;
 	- **(b)** send a final dividend to each creditor to whom one is owed, in accordance with the taxation order; and
 	- **(c)** within two months after the date of the taxation order,
-		- **(i)** close the bank account used in administering the estate of the bankrupt if that account is not a consolidated account or, where the account is a consolidated account, ensure that all estate funds have been withdrawn from it,
+		- **(i)** close the bank account used in administering the estate of the bankrupt if that account is not a consolidated account or, if the account is a consolidated account, ensure that all estate funds have been withdrawn from it,
 		- **(ii)** remit any unclaimed dividends and undistributed funds to the Superintendent,
 		- **(iii)** send to the Division Office and to each creditor a revised final statement of receipts and disbursements, a revised dividend sheet and a copy of the taxation order, and
 		- **(iv)** send to the Division Office and to the registrar a certificate of compliance and deemed discharge, in prescribed form.
 
-- **(5)** A trustee is deemed to be discharged on meeting the requirements of paragraphs (4)(b) and (c).
-> SOR/98-240, s. 1.
+- **(5)** A trustee is deemed to be discharged on meeting the requirements of paragraphs (4)(b) and (c).
+> SOR/98-240, s. 1; SOR/2007-61, s. 63(E).
 
 
 
@@ -733,76 +733,78 @@ However, the court may order that the notice is not required to be given to the 
 
 - **(1)** Unless the court orders otherwise, a trustee shall keep, for at least four years after the date of the trustee’s discharge, the books, records and documents relating to the administration of that estate.
 
-- **(2)** Unless the court orders otherwise, the trustee shall, after being discharged, send to the latest known address of the debtor, bankrupt or officer of the bankrupt corporation, a written notice, unless there is a written waiver giving up the right to be notified, that they or their representative may, within the 30 days following the sending of the notice, take back any of the debtor’s or bankrupt’s books, records and documents to which subsection (1) does not apply.
+- **(2)** Unless the court orders otherwise, the trustee shall, after being discharged, send to the latest known address of the debtor, bankrupt or officer of the bankrupt corporation, a written notice, unless there is a written waiver giving up the right to be notified, that they or their representative may, within the 30 days following the sending of the notice, take back any of the debtor’s or bankrupt’s books, records and documents to which subsection (1) does not apply.
 
-- **(3)** Where no person has taken back the books, records and documents within 30 days after the sending of the notice or the giving of the waiver referred to in subsection (2), the trustee may dispose of them.
+- **(3)** If no person has taken back the books, records and documents within 30 days after the sending of the notice or the giving of the waiver referred to in subsection (2), the trustee may dispose of them.
 
-- **(4)** Documents on which a solicitor has a lien shall be returned to the solicitor on completion of the administration of the estate to which the documents relate.
-> SOR/98-240, s. 1.
-
-
+- **(4)** Documents on which legal counsel has a lien or a right of retention shall be returned to the legal counsel on completion of the administration of the estate to which the documents relate.
+> SOR/98-240, s. 1; SOR/2007-61, ss. 13, 63(E).
 
 
 
-## Petition for Receiving Order
 
 
-**69** No petition filed with the registrar in the judicial district of the locality of the debtor may be served pursuant to subsection 70(1) unless the court has signed it and affixed to it the seal of the court.
-> SOR/98-240, s. 1.
+## Application for Bankruptcy Order
+> SOR/2007-61, s. 14.
+
+
+
+**69** No bankruptcy application filed with the registrar in the judicial district of the locality of the debtor may be served pursuant to subsection 70(1) unless the court has signed it and affixed to it the seal of the court.
+> SOR/98-240, s. 1; SOR/2007-61, s. 64.
 
 
 
 
 **70** 
 
-- **(1)** A notice indicating the time and place of the hearing of the petition, together with a certified copy of the petition and of the affidavit referred to in subsection 43(3) of the Act, must be served on the debtor, on the trustee named in the petition and on the Division Office at least 10 days, or such shorter period as the court may order, before the hearing.
+- **(1)** A notice indicating the time and place of the hearing of the bankruptcy application, together with a certified copy of the application and of the affidavit referred to in subsection 43(3) of the Act, must be served on the debtor, on the trustee named in the application and on the Division Office at least 10 days, or any shorter period that the court may order, before the hearing.
 
-- **(2)** A copy of every petition served in accordance with this section must forthwith be filed at the office of the registrar and at the Division Office.
+- **(2)** A copy of every bankruptcy application served in accordance with this section must immediately be filed at the office of the registrar and at the Division Office.
 
 - **(3)** Subject to section 71, service on the debtor under subsection (1) must be effected by personal service.
 
 - **(4)** For the purposes of paragraph 256(3)(c) of the Act, the interval is 10 days.
-> SOR/98-240, s. 1.
+> SOR/98-240, s. 1; SOR/2007-61, s. 15.
 
 
 
 
 **71** 
 
-- **(1)** Where the court determines that service of documents cannot, for cause, be effected by personal service as required by subsection 70(3), the court shall make an order stating the manner of service of the documents.
+- **(1)** If the court determines that service of documents cannot, for cause, be effected by personal service as required by subsection 70(3), the court shall make an order stating the manner of service of the documents.
 
-- **(2)** As soon as an order is made pursuant to subsection (1), the documents shall be served together with the order.
-> SOR/98-240, s. 1.
-
-
-
-
-**72** Service of a petition must be proved by affidavit or bailiff’s return of service, attached to the original petition and filed with the court at least two days before the date of the hearing set out in the petition.
-> SOR/98-240, s. 1.
+- **(2)** As soon as an order is made pursuant to subsection (1), the documents shall be served together with the order.
+> SOR/98-240, s. 1; SOR/2007-61, s. 63(E).
 
 
 
 
-**73** In the case of a deceased debtor, service of a petition must be effected on the debtor’s legal representative or liquidator.
-> SOR/98-240, s. 1.
+**72** Service of a bankruptcy application must be proved by affidavit or bailiff’s return of service, attached to the original application and filed with the court at least two days before the date of the hearing set out in the application.
+> SOR/98-240, s. 1; SOR/2007-61, s. 16.
 
 
 
 
-**74** A debtor who contests a petition shall file with the court in which the petition was filed a notice setting out the contested allegations contained in the petition, the grounds for contesting them and the debtor’s address, and shall serve a copy of the notice on the petitioning creditor or their solicitor at least two days before the date of the hearing set out in the petition.
-> SOR/98-240, s. 1.
+**73** In the case of a deceased debtor, service of a bankruptcy application must be effected on the executor or administrator of the estate or the liquidator of the deceased debtor’s succession.
+> SOR/98-240, s. 1; SOR/2007-61, s. 16.
 
 
 
 
-**75** If a debtor who has filed a notice under section 74 does not appear at the hearing of the petition, the court may make a receiving order based on the allegations contained in the petition if the court considers those allegations sufficient.
-> SOR/92-579, s. 13; SOR/98-240, s. 1.
+**74** A debtor who contests a bankruptcy application shall file with the court in which the application was filed a notice setting out the contested allegations contained in the application, the grounds for contesting them and the debtor’s address, and shall serve a copy of the notice on the applicant or their barrister or solicitor or, in the Province of Quebec, their advocate, at least two days before the date of the hearing set out in the application.
+> SOR/98-240, s. 1; SOR/2007-61, s. 16.
 
 
 
 
-**76** Where the hearing of a petition has been stayed for the trial of an issue in dispute on a question of fact, the registrar shall, as soon as the issue has been determined, on the application of the debtor or the petitioner, fix a time and place for the resumption of the proceedings on the petition, and the party who makes the application shall give the other party at least two days notice of the time and place fixed by the registrar.
-> SOR/98-240, s. 1.
+**75** If a debtor who has filed a notice under section 74 does not appear at the hearing of the bankruptcy application, the court may make a bankruptcy order based on the allegations contained in the application if the court considers those allegations to be sufficient.
+> SOR/92-579, s. 13; SOR/98-240, s. 1; SOR/2007-61, s. 16.
+
+
+
+
+**76** If the hearing of a bankruptcy application has been stayed for the trial of an issue in dispute on a question of fact, the registrar shall, as soon as the issue has been determined, on the application of the debtor or the applicant, fix a time and place for the resumption of the hearing, and the party who makes the application shall give the other party at least two days’ notice of the time and place fixed by the registrar.
+> SOR/98-240, s. 1; SOR/2007-61, s. 16.
 
 
 
@@ -821,8 +823,8 @@ However, the court may order that the notice is not required to be given to the 
 
 
 
-**78** Where a petition is dismissed, the court may, on application presented within 30 days after the day of the dismissal, give judgment with respect to any claim for damages, or with respect to any claim other than a claim for damages arising out of the appointment of an interim receiver, and may make such further orders as the court sees fit.
-> SOR/98-240, s. 1.
+**78** If a bankruptcy application is dismissed, the court may, on application presented within 30 days after the day of the dismissal, give judgment with respect to any claim for damages, or with respect to any claim other than a claim for damages arising out of the appointment of an interim receiver, and may make any orders that the court sees fit.
+> SOR/98-240, s. 1; SOR/2007-61, s. 17.
 
 
 
@@ -850,18 +852,18 @@ However, the court may order that the notice is not required to be given to the 
 
 
 
-**81** Where no objection is filed within 30 days after the giving of the notice referred to in subsection 79(1), the interim receiver’s accounts are deemed to have been taxed and the interim receiver is deemed to be discharged, unless the court requires that the accounts be taxed on their own merit.
-> SOR/92-579, s. 15; SOR/98-240, s. 1.
+**81** If no objection is filed within 30 days after the giving of the notice referred to in subsection 79(1), the interim receiver’s accounts are deemed to have been taxed and the interim receiver is deemed to be discharged, unless the court requires that the accounts be taxed on their own merit.
+> SOR/92-579, s. 15; SOR/98-240, s. 1; SOR/2007-61, s. 63(E).
 
 
 
 
 **82** 
 
-- **(1)** Where an objection is filed within 30 days after the giving of the notice referred to in subsection 79(1), the interim receiver shall, within 10 days after the filing of the objection, apply to the court for a date for a hearing, and shall send a notice of the date of the hearing to the objecting party.
+- **(1)** If an objection is filed within 30 days after the giving of the notice referred to in subsection 79(1), the interim receiver shall, within 10 days after the filing of the objection, apply to the court for a date for a hearing, and shall send a notice of the date of the hearing to the objecting party.
 
 - **(2)** The court, at the hearing, shall tax the interim receiver’s accounts on their own merit and may discharge the interim receiver, who shall send the Division Office a copy of the court order relating to the taxation and discharge.
-> SOR/78-389, s. 3; SOR/92-579, s. 15; SOR/98-240, s. 1.
+> SOR/78-389, s. 3; SOR/92-579, s. 15; SOR/98-240, s. 1; SOR/2007-61, s. 63(E).
 
 
 
@@ -871,25 +873,25 @@ However, the court may order that the notice is not required to be given to the 
 
 
 
-## Receiving Orders
+## Bankruptcy Orders
 
 
 **83** 
 
-- **(1)** The petitioning creditor shall, as soon as possible and not later than two days after a receiving order is made under subsection 43(6) of the Act, serve, deliver personally or send by courier, facsimile or electronic transmission a copy of the receiving order to the trustee appointed under subsection 43(9) of the Act.
+- **(1)** The applicant shall, as soon as possible and not later than two days after a bankruptcy order is made under subsection 43(6) of the Act, serve, deliver personally or send by courier, facsimile or electronic transmission a copy of the order to the trustee appointed under subsection 43(9) of the Act.
 
-- **(2)** Within two days after receiving the copy of the receiving order, the trustee shall serve a copy of the receiving order on the bankrupt and send a copy to the Division Office.
-> SOR/98-240, s. 1.
+- **(2)** Within two days after receiving the copy of the bankruptcy order, the trustee shall serve a copy of the order on the bankrupt and send a copy to the Division Office.
+> SOR/98-240, s. 1; SOR/2007-61, s. 18.
 
 
 
 
 **84** 
 
-- **(1)** An application to revoke a receiving order or to stay proceedings may be made to the court if a notice of the application, together with copies of supporting affidavits, is served on the petitioning creditor and the trustee and is filed with the Division Office.
+- **(1)** An application to revoke a bankruptcy order or to stay proceedings may be made to the court if a notice of the application, together with copies of supporting affidavits, is served on the applicant and the trustee and is filed with the Division Office.
 
-- **(2)** Pending the hearing of the application mentioned in subsection (1), the court may make an interim order staying the whole or any part of the proceedings.
-> SOR/98-240, s. 1.
+- **(2)** Pending the hearing of the application mentioned in subsection (1), the court may make an interim order staying the whole or any part of the proceedings.
+> SOR/98-240, s. 1; SOR/2007-61, s. 19.
 
 
 
@@ -922,12 +924,12 @@ However, the court may order that the notice is not required to be given to the 
 
 - **(1)** Subject to subsection (2), the trustee shall file with the court, before or immediately after the first meeting of the creditors of a bankrupt, a copy of the following documents:
 	- **(a)** the assignment that was filed with the official receiver pursuant to subsection 49(3) of the Act;
-	- **(b)** the preliminary statement of affairs that accompanied the assignment when it was filed with the official receiver, if such a preliminary statement of affairs was prepared;
+	- **(b)** the preliminary statement of affairs that accompanied the assignment when it was filed with the official receiver, if a preliminary statement of affairs was prepared;
 	- **(c)** the statement of affairs that was filed with the official receiver; and
 	- **(d)** the minutes of the first meeting of creditors.
 
 - **(2)** In the case of the estate of a bankrupt under summary administration, the trustee is not required to file with the court the documents referred to in paragraphs (1)(a) to (d) unless the court orders the trustee to do so.
-> SOR/92-579, s. 20; SOR/98-240, s. 1.
+> SOR/92-579, s. 20; SOR/98-240, s. 1; SOR/2007-61, s. 20(E).
 
 
 
@@ -954,8 +956,8 @@ However, the court may order that the notice is not required to be given to the 
 ## Proposals
 
 
-**89** Where a trustee has received a proposal made under subsection 50(1) of the Act, the trustee shall file a copy of it with the official receiver.
-> SOR/98-240, s. 1.
+**89** If a trustee has received a proposal made under subsection 50(1) of the Act, the trustee shall file a copy of it with the official receiver.
+> SOR/98-240, s. 1; SOR/2007-61, s. 63(E).
 
 
 
@@ -1006,16 +1008,16 @@ The projection has been prepared solely for the purpose described in Note ______
 
 
 
-**94** Where an official receiver, pursuant to paragraph 57(b) or 61(2)(b) or subsection 63(6) of the Act, issues a certificate of assignment, the official receiver shall forthwith
+**94** If an official receiver, under paragraph 57(b) or 61(2)(b) or subsection 63(6) of the Act, issues a certificate of assignment, the official receiver shall immediately
 - **(a)** send a copy of it to the trustee acting with respect to the proposal; and
 - **(b)** file it with the court.
-> SOR/98-240, s. 1.
+> SOR/98-240, s. 1; SOR/2007-61, s. 21(E).
 
 
 
 
-**95** The notice to disclaim a lease that is given by an insolvent person to a landlord pursuant to subsection 65.2(1) of the Act must be in prescribed form and must be given in the manner provided for in the lease or, in the absence of such a provision in the lease, must be served or be sent by registered mail or courier.
-> SOR/98-240, s. 1.
+**95** The notice to disclaim or resiliate a lease that is given by an insolvent person to a lessor under subsection 65.2(1) of the Act must be in prescribed form and must be given in the manner provided for in the lease or, in the absence of such a provision in the lease, must be served or be sent by registered mail or courier.
+> SOR/98-240, s. 1; SOR/2007-61, s. 22(E).
 
 
 
@@ -1036,8 +1038,8 @@ The projection has been prepared solely for the purpose described in Note ______
 
 
 
-**97** For the purposes of subsection 66.17(1) of the Act, the manner in which a creditor who has proved a claim may indicate to the administrator assent to or dissent from the consumer proposal is in person, by personal delivery, by agent, by proxy, by mail, by facsimile or by electronic transmission.
-> SOR/98-240, s. 1.
+**97** For the purposes of subsection 66.17(1) of the Act, the manner in which a creditor who has proved a claim may indicate to the administrator assent to or dissent from the consumer proposal is in person, by personal delivery, by agent or mandatary, by proxy, by mail, by facsimile or by electronic transmission.
+> SOR/98-240, s. 1; SOR/2007-61, s. 23(E).
 
 
 
@@ -1045,8 +1047,8 @@ The projection has been prepared solely for the purpose described in Note ______
 **98** The administrator of a consumer proposal shall apply for taxation of accounts and for discharge by sending to the Division Office
 - **(a)** the administrator’s final statement of receipts and disbursements, in prescribed form;
 - **(b)** a dividend sheet, showing the dividends paid or to be paid to the creditors under the consumer proposal; and
-- **(c)** where inspectors have been appointed by the creditors, a copy of the minutes of the meeting of inspectors at which the inspectors approved or refused to approve the administrator’s final statement of receipts and disbursements and the dividend sheet.
-> SOR/98-240, s. 1.
+- **(c)** if inspectors have been appointed by the creditors, a copy of the minutes of the meeting of inspectors at which the inspectors approved or refused to approve the administrator’s final statement of receipts and disbursements and the dividend sheet.
+> SOR/98-240, s. 1; SOR/2007-61, s. 63(E).
 
 
 
@@ -1059,43 +1061,43 @@ The projection has been prepared solely for the purpose described in Note ______
 
 **100** 
 
-- **(1)** Where the Superintendent’s letter of comment states that the Superintendent is not requesting the taxation of the administrator’s accounts, the administrator shall, within 30 days after receipt of the letter of comment, send to each creditor who has proved a claim a notice of taxation of the administrator’s accounts and discharge of the administrator, in prescribed form, attaching
+- **(1)** If the Superintendent’s letter of comment states that the Superintendent is not requesting the taxation of the administrator’s accounts, the administrator shall, within 30 days after receipt of the letter of comment, send to each creditor who has proved a claim a notice of taxation of the administrator’s accounts and discharge of the administrator, in prescribed form, attaching
 	- **(a)** a copy of the administrator’s final statement of receipts and disbursements;
 	- **(b)** a copy of the dividend sheet, showing the dividends paid or to be paid to the creditors under the consumer proposal; and
 	- **(c)** the final dividend that is owed to the creditor, if the administrator is satisfied that no creditor will object to the taxation of the administrator’s accounts and the discharge of the administrator.
 
-- **(2)** A creditor may, within 30 days after the day on which the notice referred to in subsection (1) is sent, object to the taxation of the administrator’s accounts and the discharge of the administrator by
+- **(2)** A creditor may, within 30 days after the day on which the notice referred to in subsection (1) is sent, object to the taxation of the administrator’s accounts and the discharge of the administrator by
 	- **(a)** serving a notice of objection on the administrator or sending a notice of objection to the administrator by registered mail or courier;
 	- **(b)** filing a copy of the notice of objection with the registrar, along with any applicable fee provided by the tariff; and
 	- **(c)** sending a copy of the notice of objection to the Division Office.
-> SOR/78-389, s. 4; SOR/98-240, s. 1.
+> SOR/78-389, s. 4; SOR/98-240, s. 1; SOR/2007-61, s. 63(E).
 
 
 
 
 **101** 
 
-- **(1)** Where the administrator receives no notice of objection within the time limit set out in subsection 100(2), the administrator shall, within three months after the day on which the notice referred to in subsection 100(1) is sent,
+- **(1)** If the administrator receives no notice of objection within the time limit set out in subsection 100(2), the administrator shall, within three months after the day on which the notice referred to in subsection 100(1) is sent,
 	- **(a)** if the administrator has not already done so, send each creditor the final dividend that is owed to them;
-	- **(b)** close the bank account used in administering the consumer proposal, if that account is not a consolidated account, or, where the account is a consolidated account, ensure that all funds governed by the consumer proposal have been withdrawn from it;
+	- **(b)** close the bank account used in administering the consumer proposal, if that account is not a consolidated account, or, if the account is a consolidated account, ensure that all funds governed by the consumer proposal have been withdrawn from it;
 	- **(c)** remit any unclaimed dividends and undistributed funds to the Superintendent; and
 	- **(d)** send to the Division Office a certificate of compliance and deemed discharge, in prescribed form.
 
 - **(2)** The administrator is deemed to be discharged on meeting the requirements of subsection (1).
 
-- **(3)** Where the administrator receives a notice of objection within the time limit set out in subsection 100(2), the administrator shall
+- **(3)** If the administrator receives a notice of objection within the time limit set out in subsection 100(2), the administrator shall
 	- **(a)** advise the Division Office of the objection;
 	- **(b)** obtain a hearing date from the registrar; and
 	- **(c)** within 30 days after the day on which the notice of objection is received, send the objecting creditor a notice of hearing, which notice must be sent at least 30 days before the date of the hearing and must be in prescribed form.
-> SOR/78-389, s. 5; SOR/98-240, s. 1.
+> SOR/78-389, s. 5; SOR/98-240, s. 1; SOR/2007-61, s. 63(E).
 
 
 
 
 **102** 
 
-- **(1)** Where the Superintendent issues a letter of comment pursuant to section 99 requesting the taxation of an administrator’s accounts, the administrator shall, after obtaining a hearing date from the registrar and within 30 days after the day of receipt of the letter of comment, send to each creditor who has proved a claim and to the Division Office
-	- **(a)** a notice of hearing for the taxation of the administrator’s accounts and the discharge of the administrator, in prescribed form, which notice must be sent at least 30 days before the date of the hearing;
+- **(1)** If the Superintendent issues a letter of comment pursuant to section 99 requesting the taxation of an administrator’s accounts, the administrator shall, after obtaining a hearing date from the registrar and within 30 days after the day of receipt of the letter of comment, send to each creditor who has proved a claim and to the Division Office
+	- **(a)** a notice of hearing for the taxation of the administrator’s accounts and the discharge of the administrator, in prescribed form, which notice must be sent at least 30 days before the date of the hearing;
 	- **(b)** a copy of the administrator’s final statement of receipts and disbursements; and
 	- **(c)** a copy of the dividend sheet, showing the dividends paid or to be paid to the creditors under the consumer proposal.
 
@@ -1103,7 +1105,7 @@ The projection has been prepared solely for the purpose described in Note ______
 	- **(a)** serving a notice of objection on the administrator or sending a notice of objection to the administrator by registered mail or courier, which notice of objection must be received by the administrator before the start of the hearing;
 	- **(b)** filing a copy of the notice of objection with the registrar, along with any applicable fee provided by the tariff; and
 	- **(c)** sending a copy of the notice of objection to the Division Office.
-> SOR/98-240, s. 1.
+> SOR/98-240, s. 1; SOR/2007-61, s. 63(E).
 
 
 
@@ -1112,25 +1114,25 @@ The projection has been prepared solely for the purpose described in Note ______
 
 - **(1)** At the time of the hearing, the registrar shall consider the creditors’ objections and the letter of comment issued by the Superintendent, and shall tax the administrator’s accounts accordingly.
 
-- **(2)** Where the registrar taxes an administrator’s accounts as submitted, the administrator shall, within two months after the date of the taxation order,
+- **(2)** If the registrar taxes an administrator’s accounts as submitted, the administrator shall, within two months after the date of the taxation order,
 	- **(a)** send each creditor the final dividend that is owed to them;
-	- **(b)** close the bank account used in administering the consumer proposal, if that account is not a consolidated account, or, where the account is a consolidated account, ensure that all funds governed by the consumer proposal have been withdrawn from it;
+	- **(b)** close the bank account used in administering the consumer proposal, if that account is not a consolidated account, or, if the account is a consolidated account, ensure that all funds governed by the consumer proposal have been withdrawn from it;
 	- **(c)** remit any unclaimed dividends and undistributed funds to the Superintendent; and
 	- **(d)** send to the Division Office a certificate of compliance and deemed discharge, in prescribed form.
 
-- **(3)** The administrator is deemed to be discharged on meeting the requirements of subsection (2).
+- **(3)** The administrator is deemed to be discharged on meeting the requirements of subsection (2).
 
-- **(4)** Where the registrar taxes an administrator’s accounts otherwise than as submitted, the administrator shall
+- **(4)** If the registrar taxes an administrator’s accounts otherwise than as submitted, the administrator shall
 	- **(a)** adjust the administrator’s fee as taxed and, if that fee was reduced by the taxation, reimburse the difference to the bank account used in administering the consumer proposal; and
 	- **(b)** within two months after the date of the taxation order,
 		- **(i)** send each creditor the final dividend that is owed to them, in accordance with the taxation order,
-		- **(ii)** close the bank account used in administering the consumer proposal, if that account is not a consolidated account, or, where the account is a consolidated account, ensure that all funds governed by the consumer proposal have been withdrawn from it,
+		- **(ii)** close the bank account used in administering the consumer proposal, if that account is not a consolidated account, or, if the account is a consolidated account, ensure that all funds governed by the consumer proposal have been withdrawn from it,
 		- **(iii)** remit any unclaimed dividends and undistributed funds to the Superintendent,
 		- **(iv)** send to the Division Office and to each creditor a revised final statement of receipts and disbursements, a revised dividend sheet and a copy of the taxation order, and
 		- **(v)** send to the Division Office and to the registrar a certificate of compliance and deemed discharge, in prescribed form.
 
-- **(5)** The administrator is deemed to be discharged on meeting the requirements of subsection (4).
-> SOR/98-240, s. 1.
+- **(5)** The administrator is deemed to be discharged on meeting the requirements of subsection (4).
+> SOR/98-240, s. 1; SOR/2007-61, s. 63(E).
 
 
 
@@ -1141,18 +1143,18 @@ The projection has been prepared solely for the purpose described in Note ______
 
 **104** 
 
-- **(1)** In this section, ***contributory*** has the same meaning as in section 77 of the Act.
+- **(1)** In this section, ***contributory*** has the same meaning as in section 77 of the Act.
 
-- **(2)** The trustee may at any time, by written notice, demand payment from a contributory, within 30 days after the day of service or sending of the notice, of the amount that the contributory is liable to contribute under subsection 77(1) of the Act. The notice must include the relevant information on the contributory’s right of dispute under subsection (4).
+- **(2)** The trustee may at any time, by written notice, demand payment from a contributory, within 30 days after the day of service or sending of the notice, of the amount that the contributory is liable to contribute under subsection 77(1) of the Act. The notice must include the relevant information on the contributory’s right of dispute under subsection (4).
 
-- **(3)** The notice under subsection (2) must be served personally on the contributory, or sent by registered mail or courier to the contributory’s latest known address or the address shown in the stock register or other books of the bankrupt corporation.
+- **(3)** The notice under subsection (2) must be served personally on the contributory, or sent by registered mail or courier to the contributory’s latest known address or the address shown in the stock register or other books of the bankrupt corporation.
 
-- **(4)** Within the 30 days after the day on which notice was served or sent, the contributory may dispute their liability, in whole or in part, in respect of the amount to be contributed, by giving the trustee a written notice of dispute setting out the disputed items and the grounds for disputing them and, thereafter, except with leave of the court, the contributory may not plead any other ground of dispute in any proceedings brought against the contributory by the trustee.
+- **(4)** Within the 30 days after the day on which notice was served or sent, the contributory may dispute their liability, in whole or in part, in respect of the amount to be contributed, by giving the trustee a written notice of dispute setting out the disputed items and the grounds for disputing them and, after this notice is given, except with leave of the court, the contributory may not plead any other ground of dispute in any proceedings brought against the contributory by the trustee.
 
-- **(5)** Where the amount to be contributed is not paid, or a notice of dispute is not sent, within the 30 day period referred to in subsection (4), the trustee may take *ex parte* proceedings for the recovery of the amount from the contributory in question.
+- **(5)** If the amount to be contributed is not paid, or a notice of dispute is not sent, within the 30 day period referred to in subsection (4), the trustee may take *ex parte* proceedings for the recovery of the amount from the contributory in question.
 
-- **(6)** When the trustee receives a notice of dispute, the trustee may apply to the court to decide the issue and, within 10 days after making that application, shall send the contributory a notice of hearing of the application.
-> SOR/98-240, s. 1; SOR/2005-284, s. 7(F).
+- **(6)** When the trustee receives a notice of dispute, the trustee may apply to the court to decide the issue and, within 10 days after making that application, shall send the contributory a notice of hearing of the application.
+> SOR/98-240, s. 1; SOR/2005-284, s. 7(F); SOR/2007-61, ss. 24(E), 63(E).
 
 
 
@@ -1181,7 +1183,7 @@ The projection has been prepared solely for the purpose described in Note ______
 
 - **(6)** The mediation must be held at the Division Office, at any other place that is designated by the mediator, or, if the mediation is conducted otherwise than with all parties physically present, at any combination of places necessary for that purpose.
 
-- **(7)** The mediator shall send a copy of the notice of the mediation, in prescribed form, to the bankrupt, to the trustee and to any creditor who requested mediation, at least 15 days, or such shorter period as may be agreed to by all the parties concerned, before the date set for the mediation.
+- **(7)** The mediator shall send a copy of the notice of the mediation, in prescribed form, to the bankrupt, to the trustee and to any creditor who requested mediation, at least 15 days, or any shorter period that may be agreed to by all the parties concerned, before the date set for the mediation.
 
 - **(8)** If, at any time before the mediation has started, the mediator believes on reasonable grounds that the mediation cannot proceed at the time scheduled, the mediator shall reschedule it, setting a new time and place.
 
@@ -1207,7 +1209,7 @@ The projection has been prepared solely for the purpose described in Note ______
 	- **(f)** in the case of a mediation requested by a creditor under subsection 170.1(5) of the Act, a party, other than the trustee, who was informed of the mediation in accordance with subsection (7) or (11) fails to appear at the mediation and the mediator believes on reasonable grounds that the non-appearance is a delaying tactic or is intended to bring the mediation into disrepute; or
 	- **(g)** in any case other than the one referred to in paragraph (f), a party, other than a creditor, who was informed of the mediation in accordance with subsection (7) or (11) fails to appear at the mediation and the mediator believes on reasonable grounds that the non-appearance is a delaying tactic or is intended to bring the mediation into disrepute.
 
-- **(13)** Notwithstanding paragraphs (9)(b) and (d) and (12)(d) and (f), the absence of one or more creditors who requested mediation, or the inability of one or more creditors who requested mediation to continue the mediation, is not a ground for adjourning or cancelling the mediation if at least one creditor who requested mediation is present at the mediation, or is able to continue the mediation, as the case may be.
+- **(13)** Despite paragraphs (9)(b) and (d) and (12)(d) and (f), the absence of one or more creditors who requested mediation, or the inability of one or more creditors who requested mediation to continue the mediation, is not a ground for adjourning or cancelling the mediation if at least one creditor who requested mediation is present at the mediation, or is able to continue the mediation, as the case may be.
 
 - **(14)** In the case of a mediation under section 170.1 of the Act, if all of the creditors who requested the mediation cause the cancellation of the mediation under paragraph (12)(e),
 	- **(a)** the opposition to discharge on the part of each of those creditors on a ground referred to in paragraph 173(1)(m) or (n) of the Act is deemed withdrawn; and
@@ -1229,7 +1231,7 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 - **(19)** All payments made by a bankrupt under a mediation settlement agreement must be made to the trustee and deposited into the estate account.
 
 - **(20)** If the parties fail to reach agreement at the mediation, the mediator shall issue a notice in prescribed form to the effect that the issues submitted to mediation under subsection 68(6) or (7) or 170.1(5), as the case may be, of the Act were not resolved, and shall send that notice to the Division Office and the parties.
-> SOR/98-240, s. 1.
+> SOR/98-240, s. 1; SOR/2007-61, s. 25(E).
 
 
 
@@ -1240,10 +1242,10 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 
 **106** 
 
-- **(1)** A trustee who makes an application to the court under subsection 68(10) of the Act shall forthwith send to the Division Office a copy of the application, and of any order of the court made under that subsection.
+- **(1)** A trustee who makes an application to the court under subsection 68(10) of the Act shall immediately send to the Division Office a copy of the application, and of any order of the court made under that subsection.
 
-- **(2)** A creditor who, pursuant to a court order made under subsection 38(1) of the Act, makes an application to the court under subsection 68(10) of the Act shall forthwith send to the Division Office a copy of the application, and of any order of the court made under the latter subsection.
-> SOR/98-240, s. 1.
+- **(2)** A creditor who, pursuant to a court order made under subsection 38(1) of the Act, makes an application to the court under subsection 68(10) of the Act shall immediately send to the Division Office a copy of the application, and of any order of the court made under the latter subsection.
+> SOR/98-240, s. 1; SOR/2007-61, s. 65(E).
 
 
 
@@ -1256,8 +1258,10 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 ## Settlements and Preferences
 
 
-**107** Where land, any structure on land, or any interest relating thereto is the object of litigation under sections 91 to 100 of the Act, the registrar may, once a copy of the statement of claim, signed by the plaintiff’s legal counsel, is filed with the court, issue a certificate of *lis pendens* and, if the plaintiff is unsuccessful in whole or in part, a certificate of disallowance.
-> SOR/98-240, s. 1.
+**107** The registrar may
+- **(a)** in the Province of Quebec, if an immovable or any right relating to it is the object of litigation under sections 91 to 100 of the Act, authorize the plaintiff to apply for the registration of a notice of advance registration in the appropriate register after a copy of the demand signed by the plaintiff’s advocate is filed with the court; and
+- **(b)** in any other province, if real property or any interest relating to it is the object of litigation under sections 91 to 100 of the Act, issue a certificate of *lis pendens* after a copy of the statement of claim signed by the plaintiff’s barrister or solicitor is filed with the court, and, if the plaintiff is unsuccessful in whole or in part, issue a certificate of disallowance.
+> SOR/98-240, s. 1; SOR/2007-61, s. 26.
 
 
 
@@ -1272,14 +1276,14 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 
 - **(2)** For the purposes of subparagraph 155(d.1)(ii) of the Act, a notice must be sent by mail, courier, facsimile or electronic transmission to the persons referred to in subsection 102(1) of the Act at least 10 days before the day of the first meeting of creditors.
 
-- **(3)** Where a bankrupt cannot speak fluently in the official language in which the meeting of creditors is being conducted, the trustee shall arrange for the services of an interpreter approved by the chairperson of the meeting.
-> SOR/98-240, s. 1.
+- **(3)** If a bankrupt cannot speak fluently in the official language in which the meeting of creditors is being conducted, the trustee shall arrange for the services of an interpreter approved by the chairperson of the meeting.
+> SOR/98-240, s. 1; SOR/2007-61, s. 63(E).
 
 
 
 
-**109** Where a partnership is bankrupt, the creditors of the partnership and of each bankrupt partner shall be convened collectively for the first meeting of creditors.
-> SOR/98-240, s. 1.
+**109** If a partnership is bankrupt, the creditors of the partnership and of each bankrupt partner shall be convened collectively for the first meeting of creditors.
+> SOR/98-240, s. 1; SOR/2007-61, s. 63(E).
 
 
 
@@ -1318,8 +1322,8 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 ## Notice of Disallowance or of Valuation
 
 
-**113** The notice of disallowance or notice of valuation provided by a trustee pursuant to subsection 135(3) of the Act to a person whose claim, right to a priority, or security has been disallowed or on which a valuation has been made, in whole or in part, must be served, or sent by registered mail or courier.
-> SOR/85-325, s. 1; SOR/87-380, s. 1; SOR/98-240, s. 1.
+**113** The notice of disallowance or notice of valuation provided by a trustee under subsection 135(3) of the Act to a person whose claim, right to a prior rank, or security has been disallowed or on which a valuation has been made, in whole or in part, must be served, or sent by registered mail or courier.
+> SOR/85-325, s. 1; SOR/87-380, s. 1; SOR/98-240, s. 1; SOR/2007-61, s. 27(E).
 
 
 
@@ -1342,8 +1346,8 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 ## Examinations
 
 
-**115** Examinations, other than those pursuant to section 159 or 161 of the Act, shall be held before a registrar, before a person who is qualified to hold examinations for discovery or examinations of judgment debtors or before any other person that the court may on *ex parte* application order, and shall be conducted in accordance with the rules of court in civil cases.
-> SOR/85-167, s. 1; SOR/85-1162, s. 1(E); SOR/90-83, s. 1; SOR/92-579, s. 29; SOR/96-473, s. 1; SOR/98-240, s. 1; SOR/2005-284, s. 8.
+**115** Examinations, other than those under section 159 or 161 of the Act, shall be held before a registrar, before a person who is qualified to hold examinations for discovery, examinations of judgment debtors or examinations of debtors after judgment or before any other person that the court may, on *ex parte* application, order, and shall be conducted in accordance with the rules of court in civil cases.
+> SOR/85-167, s. 1; SOR/85-1162, s. 1(E); SOR/90-83, s. 1; SOR/92-579, s. 29; SOR/96-473, s. 1; SOR/98-240, s. 1; SOR/2005-284, s. 8; SOR/2007-61, s. 28.
 
 
 
@@ -1355,10 +1359,10 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 		- **(i)** resides,
 		- **(ii)** was served with the appointment for examination, or
 		- **(iii)** resided or carried on business on the day of the bankruptcy; or
-	- **(b)** at such place as the court may on *ex parte* application order.
+	- **(b)** at any place that the court may, on *ex parte* application, order.
 
 - **(2)** The court may, on application, set the time of an examination.
-> SOR/92-579, s. 30; SOR/98-240, s. 1.
+> SOR/92-579, s. 30; SOR/98-240, s. 1; SOR/2007-61, s. 29(E).
 
 
 
@@ -1379,24 +1383,24 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 
 
 
-**119** The court may, on an application for the discharge of a bankrupt, cause the bankrupt to be brought before the court for examination.
-> SOR/92-579, s. 30; SOR/98-240, s. 1.
+**119** The court may, on an application for the discharge of a bankrupt, summon the bankrupt to appear for examination.
+> SOR/92-579, s. 30; SOR/98-240, s. 1; SOR/2007-61, s. 30.
 
 
 
 
 **120** 
 
-- **(1)** Where an order of discharge is made conditional on the bankrupt’s consenting to judgment in favour of the trustee for the whole or any part of the balance of the bankrupt’s debts, the judgment shall be filed in the court in the bankruptcy district or division in which the order of discharge is granted.
+- **(1)** If an order of discharge is made conditional on the bankrupt’s consenting to judgment in favour of the trustee for the whole or any part of the balance of the bankrupt’s debts, the judgment shall be filed in the court in the bankruptcy district or division in which the order of discharge is granted.
 
-- **(2)** If the bankrupt does not give the consent referred to in subsection (1) within 10 days after the date of the conditional order of discharge, the court may, on application by the trustee, revoke the conditional order of discharge or make such other order as the court considers appropriate.
-> SOR/92-579, s. 30; SOR/98-240, s. 1.
-
-
+- **(2)** If the bankrupt does not give the consent referred to in subsection (1) within 10 days after the date of the conditional order of discharge, the court may, on application by the trustee, revoke the conditional order of discharge or make any other order that the court considers appropriate.
+> SOR/92-579, s. 30; SOR/98-240, s. 1; SOR/2007-61, ss. 31(E), 63(E).
 
 
-**121** Where a bankrupt applies to the court to modify the terms of an order of discharge pursuant to subsection 172(3) of the Act, the bankrupt shall send a notice of the time and place of the hearing of the application, at least 10 days before the day of the hearing, to the trustee, the Division Office and every creditor who has proved their claim, at their latest known address.
-> SOR/92-579, s. 30; SOR/98-240, s. 1.
+
+
+**121** If a bankrupt applies to the court to modify the terms of an order of discharge pursuant to subsection 172(3) of the Act, the bankrupt shall send a notice of the time and place of the hearing of the application, at least 10 days before the day of the hearing, to the trustee, the Division Office and every creditor who has proved their claim, at their latest known address.
+> SOR/92-579, s. 30; SOR/98-240, s. 1; SOR/2007-61, s. 63(E).
 
 
 
@@ -1407,18 +1411,18 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 
 **122** 
 
-- **(1)** For the purposes of subsection 11.1(1) of the Act, the Superintendent,
-	- **(a)** in keeping or causing to be kept a public record of each proposal, shall keep the files relating to it for at least 10 years after the date on which a certificate of full performance of the proposal is given pursuant to section 65.3 or 66.38 of the Act;
+- **(1)** For the purposes of subsection 11.1(1) of the Act, the Superintendent,
+	- **(a)** in keeping or causing to be kept a public record of each proposal, shall keep the files relating to it for at least 10 years after the date on which a certificate of full performance of the proposal is given pursuant to section 65.3 or 66.38 of the Act;
 	- **(b)** in keeping or causing to be kept a public record of each bankruptcy of an individual, shall keep the files relating to it
-		- **(i)** for at least 10 years after the date on which the trustee of the bankrupt’s estate is discharged under subsection 41(2) of the Act, or is deemed to be discharged pursuant to these Rules, and
-		- **(ii)** where the bankrupt has not been granted an absolute order of discharge under subsection 172(1) of the Act at the end of the period referred to in subparagraph (i), until the bankrupt has been granted that order;
-	- **(c)** in keeping or causing to be kept a public record of each bankruptcy of a corporation, shall keep the files relating to it for at least 10 years after the date on which the trustee of the bankrupt’s estate is discharged under subsection 41(2) of the Act;
-	- **(d)** in keeping or causing to be kept a public record of each licence issued to a trustee, shall keep the files relating to it for at least 30 years after the date of expiry of the licence;
-	- **(e)** in keeping or causing to be kept a public record of each appointment or designation by the Superintendent of a person to administer consumer proposals, shall keep the files relating to it for at least 30 years after the date on which the appointment or designation ceases to have effect; and
-	- **(f)** in keeping or causing to be kept a public record of each notice sent to the Superintendent by a receiver pursuant to subsection 245(1) of the Act, shall keep the files relating to it for at least 10 years after the date on which the notice is received by the Superintendent.
+		- **(i)** for at least 10 years after the date on which the trustee of the bankrupt’s estate is discharged under subsection 41(2) of the Act, or is deemed to be discharged pursuant to these Rules, and
+		- **(ii)** if the bankrupt has not been granted an absolute order of discharge under subsection 172(1) of the Act at the end of the period referred to in subparagraph (i), until the bankrupt has been granted that order;
+	- **(c)** in keeping or causing to be kept a public record of each bankruptcy of a corporation, shall keep the files relating to it for at least 10 years after the date on which the trustee of the bankrupt’s estate is discharged under subsection 41(2) of the Act;
+	- **(d)** in keeping or causing to be kept a public record of each licence issued to a trustee, shall keep the files relating to it for at least 30 years after the date of expiry of the licence;
+	- **(e)** in keeping or causing to be kept a public record of each appointment or designation by the Superintendent of a person to administer consumer proposals, shall keep the files relating to it for at least 30 years after the date on which the appointment or designation ceases to have effect; and
+	- **(f)** in keeping or causing to be kept a public record of each notice sent to the Superintendent by a receiver pursuant to subsection 245(1) of the Act, shall keep the files relating to it for at least 10 years after the date on which the notice is received by the Superintendent.
 
-- **(2)** For the purposes of subsection 11.1(2) of the Act, the Superintendent shall keep or cause to be kept such other records relating to the administration of the Act as the Superintendent deems advisable, for at least six years after the date on which they are opened.
-> SOR/92-579, s. 30; SOR/98-240, s. 1.
+- **(2)** For the purposes of subsection 11.1(2) of the Act, the Superintendent shall keep or cause to be kept any other records relating to the administration of the Act that the Superintendent deems advisable, for at least six years after the date on which they are opened.
+> SOR/92-579, s. 30; SOR/98-240, s. 1; SOR/2007-61, ss. 32(E), 63(E).
 
 
 
@@ -1429,22 +1433,22 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 
 **123** 
 
-- **(1)** Subject to subsection (2) and (3), the rate of levy payable on all payments, pursuant to section 147 of the Act, is
-	- **(a)** five per cent, where the amount of payments is $1,000,000 or less;
-	- **(b)** five per cent of the first $1,000,000, plus one and one-quarter per cent of the amount in excess of $1,000,000, where the amount of payments exceeds $1,000,000 but is not more than $2,000,000; or
-	- **(c)** five per cent of the first $1,000,000, one and one-quarter per cent of the second $1,000,000, plus one-quarter of one per cent of the amount in excess of $2,000,000, where the amount of payments exceeds $2,000,000.
+- **(1)** Subject to subsection (2) and (3), the rate of levy payable on all payments, pursuant to section 147 of the Act, is
+	- **(a)** five per cent, if the amount of payments is $1,000,000 or less;
+	- **(b)** five per cent of the first $1,000,000, plus one and one-quarter per cent of the amount in excess of $1,000,000, if the amount of payments exceeds $1,000,000 but is not more than $2,000,000; or
+	- **(c)** five per cent of the first $1,000,000, one and one-quarter per cent of the second $1,000,000, plus one-quarter of one per cent of the amount in excess of $2,000,000, if the amount of payments exceeds $2,000,000.
 
 - **(2)** The rate of levy payable in a proposal is
-	- **(a)** five per cent, where the amount of payments is $1,000,000 or less;
-	- **(b)** five per cent of the first $1,000,000, plus one and one-quarter per cent of the amount in excess of $1,000,000, where the amount of payments exceeds $1,000,000 but is not more than $2,000,000; or
-	- **(c)** five per cent of the first $1,000,000, one and one-quarter per cent of the second $1,000,000, plus zero per cent of the amount in excess of $2,000,000, where the amount of payments exceeds $2,000,000.
+	- **(a)** five per cent, if the amount of payments is $1,000,000 or less;
+	- **(b)** five per cent of the first $1,000,000, plus one and one-quarter per cent of the amount in excess of $1,000,000, if the amount of payments exceeds $1,000,000 but is not more than $2,000,000; or
+	- **(c)** five per cent of the first $1,000,000, one and one-quarter per cent of the second $1,000,000, plus zero per cent of the amount in excess of $2,000,000, if the amount of payments exceeds $2,000,000.
 
 - **(3)** The rate of levy payable for an estate under summary administration is
-	- **(a)** 100 per cent, where the amount of payments is $200 or less; or
-	- **(b)** 100 per cent of the first $200 plus zero per cent of the amount in excess of $200, where the amount of payments exceeds $200.
+	- **(a)** 100 per cent, if the amount of payments is $200 or less; or
+	- **(b)** 100 per cent of the first $200 plus zero per cent of the amount in excess of $200, if the amount of payments exceeds $200.
 
-- **(4)** The rate of levy set out in subsection (3) applies to all estates under summary administration for which the final statement of receipts and disbursements has been received by the Division Office on or after the date of coming into force of that subsection.
-> SOR/92-579, s. 30; SOR/98-240, s. 1; SOR/2001-155, s. 1.
+- **(4)** The rate of levy set out in subsection (3) applies to all estates under summary administration for which the final statement of receipts and disbursements has been received by the Division Office on or after the date of coming into force of that subsection.
+> SOR/92-579, s. 30; SOR/98-240, s. 1; SOR/2001-155, s. 1; SOR/2007-61, s. 63(E).
 
 
 
@@ -1477,11 +1481,11 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 
 
 
-**127** The final report and statement of accounts that are required by subsection 246(3) of the Act to be prepared by a receiver forthwith after completion of their duties as receiver must contain the following information:
+**127** The final report and statement of accounts that are required by subsection 246(3) of the Act to be prepared by a receiver immediately after completion of their duties as receiver must contain the following information:
 - **(a)** the final statement of receipts and disbursements;
 - **(b)** details of the manner of distribution of the proceeds realized from the property of which the receiver had taken possession or control; and
 - **(c)** details of the disposition of any property of which the receiver had taken possession or control and that is not accounted for in the final statement of receipts and disbursements.
-> SOR/98-240, s. 1.
+> SOR/98-240, s. 1; SOR/2007-61, ss. 33(F), 65(E).
 
 
 
@@ -1552,10 +1556,10 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 
 **131** 
 
-- **(1)** For the purposes of paragraph 66.12(6)(b) of the Act, the fees and expenses in respect of counselling are $85 per session where counselling is provided on an individual basis, and $25 per person per session where counselling is provided on a group basis.
+- **(1)** For the purposes of paragraph 66.12(6)(b) of the Act, the fees and expenses in respect of counselling are $85 per session if counselling is provided on an individual basis, and $25 per person per session if counselling is provided on a group basis.
 
-- **(2)** For the purposes of subsection 157.1(1) of the Act, the costs of counselling are $85 per session where counselling is provided on an individual basis, and $25 per person per session where counselling is provided on a group basis.
-> SOR/98-240, s. 1.
+- **(2)** For the purposes of subsection 157.1(1) of the Act, the costs of counselling are $85 per session if counselling is provided on an individual basis, and $25 per person per session if counselling is provided on a group basis.
+> SOR/98-240, s. 1; SOR/2007-61, s. 63(E).
 
 
 
@@ -1563,13 +1567,13 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 **132** 
 
 - **(1)** The total fee to file all documents relating to an estate with the official receiver is as follows:
-	- **(a)** $75 for an estate under summary administration in respect of an individual bankrupt who has never before been bankrupt under the laws of Canada or of any jurisdiction prescribed under section 168.1 of the Act and, in the case of any other bankruptcy, $150, payable at the time of filing an assignment pursuant to subsection 49(3) of the Act or at the time of the making of a receiving order pursuant to subsection 43(6) of the Act;
-	- **(b)** in the case of a proposal made by an insolvent person, $150, payable at the time of filing a copy of the proposal pursuant to subsection 62(1) of the Act;
-	- **(c)** in the case of a consumer proposal made by a consumer debtor, $100, payable at the time of filing a copy of the consumer proposal pursuant to paragraph 66.13(2)(d) of the Act; and
-	- **(d)** if the official receiver directs, pursuant to subsection 49(8) of the Act, that subsection 49(6) of the Act ceases to apply in respect of a bankrupt, $75, payable at the time of the official receiver’s direction.
+	- **(a)** $75 for an estate under summary administration in respect of an individual bankrupt who has never before been bankrupt under the laws of Canada or of any jurisdiction prescribed under section 168.1 of the Act and, in the case of any other bankruptcy, $150, payable at the time of filing an assignment under subsection 49(3) of the Act or at the time of the making of a bankruptcy order under subsection 43(6) of the Act;
+	- **(b)** in the case of a proposal made by an insolvent person, $150, payable at the time of filing a copy of the proposal pursuant to subsection 62(1) of the Act;
+	- **(c)** in the case of a consumer proposal made by a consumer debtor, $100, payable at the time of filing a copy of the consumer proposal pursuant to paragraph 66.13(2)(d) of the Act; and
+	- **(d)** if the official receiver directs, pursuant to subsection 49(8) of the Act, that subsection 49(6) of the Act ceases to apply in respect of a bankrupt, $75, payable at the time of the official receiver’s direction.
 
-- **(2)** The fees set out in paragraphs (1)(a), (c) and (d) apply to all documents filed on or after the coming into force of those paragraphs.
-> SOR/98-240, s. 1; SOR/2001-155, s. 2.
+- **(2)** The fees set out in paragraphs (1)(a), (c) and (d) apply to all documents filed on or after the coming into force of those paragraphs.
+> SOR/98-240, s. 1; SOR/2001-155, s. 2; SOR/2007-61, s. 34.
 
 
 
@@ -1592,12 +1596,12 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 
 
 
-**135** For the purposes of subsection 120(5) of the Act, the fees per meeting that may be paid to an inspector, to be determined on the net receipts as calculated by subtracting the payments to secured creditors from the amount of total receipts received by the trustee, are as follows:
-- **(a)** $10, where the estate has net receipts of less than $10,000;
-- **(b)** $20, where the estate has net receipts of $10,000 or more but less than $50,000;
-- **(c)** $30, where the estate has net receipts of $50,000 or more but less than $100,000; or
-- **(d)** $40, where the estate has net receipts of $100,000 or more.
-> SOR/98-240, s. 1; SOR/99-416, s. 1.
+**135** For the purposes of subsection 120(5) of the Act, the fees per meeting that may be paid to an inspector, to be determined on the net receipts as calculated by subtracting the payments to secured creditors from the amount of total receipts received by the trustee, are as follows:
+- **(a)** $10, if the estate has net receipts of less than $10,000;
+- **(b)** $20, if the estate has net receipts of $10,000 or more but less than $50,000;
+- **(c)** $30, if the estate has net receipts of $50,000 or more but less than $100,000; or
+- **(d)** $40, if the estate has net receipts of $100,000 or more.
+> SOR/98-240, s. 1; SOR/99-416, s. 1; SOR/2007-61, s. 63(E).
 
 
 
@@ -1630,7 +1634,7 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 
 
 ### **SCHEDULE** 
-**(Section 1)**
+**(Section 1 and paragraphs 128(2)(c) and 129(1)(f))**
 
 **PART I** 
 ## Tariff of Costs
@@ -1644,17 +1648,17 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 </tr>
 <tr>
 <td>1</td>
-<td>For petition or assignment </td>
+<td>For bankruptcy application or assignment </td>
 <td>$4.00</td>
 </tr>
 <tr>
 <td>2</td>
-<td>To present, oppose or attend upon petition </td>
+<td>To present, oppose or attend upon bankruptcy application </td>
 <td>4.00</td>
 </tr>
 <tr>
 <td>3</td>
-<td>To present, oppose or attend upon application to court for approval of proposal </td>
+<td>To present, oppose or attend on application or motion to institute proceeding to court for approval of proposal </td>
 <td>4.00</td>
 </tr>
 <tr>
@@ -1664,7 +1668,7 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 </tr>
 <tr>
 <td>5</td>
-<td>To support or oppose a motion or application to court or chambers </td>
+<td>To support or oppose an application or motion to court or chambers </td>
 <td>4.00</td>
 </tr>
 <tr>
@@ -1703,12 +1707,12 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 </tr>
 <tr>
 <td>11</td>
-<td>Statement of claim or defence or any pleadings instructed by the court or a judge to be drawn </td>
+<td>Statement of claim, motion to institute proceeding, defence or any pleading instructed by the court or a judge to be drawn </td>
 <td>6.00</td>
 </tr>
 <tr>
 <td>12</td>
-<td>Petition or assignment </td>
+<td>Bankruptcy application or assignment </td>
 <td>6.00</td>
 </tr>
 <tr>
@@ -1718,7 +1722,7 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 </tr>
 <tr>
 <td>14</td>
-<td>Any other document commencing a proceeding not commenced by petition or statement of claim and any document in answer to same </td>
+<td>Any other document commencing a proceeding not commenced by bankruptcy application, statement of claim or motion to institute proceeding and any document in answer to same </td>
 <td>6.00</td>
 </tr>
 <tr>
@@ -1761,12 +1765,12 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 </tr>
 <tr>
 <td>20</td>
-<td>Statement of claim, defence or other pleading </td>
+<td>Statement of claim, motion to institute proceeding, defence or other pleading </td>
 <td>3.00</td>
 </tr>
 <tr>
 <td>21</td>
-<td>Petition or assignment </td>
+<td>Bankruptcy application or assignment </td>
 <td>3.00</td>
 </tr>
 <tr>
@@ -1776,7 +1780,7 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 </tr>
 <tr>
 <td>23</td>
-<td>Any other document commencing a proceeding not commenced by a petition or a statement of claim and any document in answer to same </td>
+<td>Any other document commencing a proceeding not commenced by bankruptcy application, statement of claim or motion to institute proceeding and any document in answer to same </td>
 <td>3.00</td>
 </tr>
 <tr>
@@ -1812,7 +1816,7 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 <table>
 <tr>
 <td>29</td>
-<td>Every writ, warrant, certificate of judgment or *lis pendens*, including instructions, drawing and attendance to issue, register and deliver the same </td>
+<td>Every writ, warrant, certificate of judgment or *lis pendens* or notice of advance registration, including instructions, drawing and attendance to issue, register and deliver the same </td>
 <td>10.00</td>
 </tr>
 <tr>
@@ -1843,13 +1847,13 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 <table>
 <tr>
 <td>34</td>
-<td>Service of petition or other document by which any proceeding is commenced </td>
-<td>  3.00</td>
+<td>Service of bankruptcy application or other document by which any proceeding is commenced </td>
+<td>3.00</td>
 </tr>
 <tr>
 <td>35</td>
-<td>If served at over 2 miles from nearest place of business or office of solicitor serving same, for each mile beyond 2, each way </td>
-<td>  0.30</td>
+<td>If served at over 2 miles from nearest place of business or office of barrister or solicitor or, in the Province of Quebec, advocate serving same, for each mile beyond 2, each way </td>
+<td>0.30</td>
 </tr>
 <tr>
 <td>36</td>
@@ -1859,7 +1863,7 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 <tr>
 <td>37</td>
 <td>Attending to serve any other document </td>
-<td>  2.00</td>
+<td>2.00</td>
 </tr>
 </table>
 
@@ -1870,12 +1874,12 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 <tr>
 <td>38</td>
 <td>Drawing brief </td>
-<td>5.00</td>
+<td>   5.00</td>
 </tr>
 <tr>
 <td>39</td>
 <td>Every additional folio over five </td>
-<td>0.20</td>
+<td>   0.20</td>
 </tr>
 </table>
 
@@ -1885,8 +1889,8 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 <table>
 <tr>
 <td>40</td>
-<td>Copies of petitions, pleadings, notices, demands, minutes, orders, judgments, appointments, subpoenas and any other document when no other provision is made and copies are properly allowable, per folio, for each copy </td>
-<td>0.10</td>
+<td>Copies of bankruptcy applications, pleadings, notices, demands, minutes, orders, judgments, appointments, subpoenas and any other document when no other provision is made and copies are properly allowable, per folio, for each copy </td>
+<td>   0.10</td>
 </tr>
 </table>
 
@@ -1947,7 +1951,7 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 </tr>
 <tr>
 <td>49</td>
-<td>Consultation with counsel, where proper, in the discretion of the taxing officer, per hour, not to exceed </td>
+<td>Consultation with counsel, if proper, in the discretion of the taxing officer, per hour, not to exceed </td>
 <td>10.00</td>
 </tr>
 <tr>
@@ -1957,7 +1961,7 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 </tr>
 <tr>
 <td>51</td>
-<td>To obtain or give undertaking to defend when service accepted by solicitor </td>
+<td>To obtain or give undertaking to defend when service accepted by barrister or solicitor or, in the Province of Quebec, advocate </td>
 <td>2.00</td>
 </tr>
 <tr>
@@ -1967,7 +1971,7 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 </tr>
 <tr>
 <td>53</td>
-<td>Attending to procure evidence for the trial or petition, in addition to all proper travelling expenses, per hour </td>
+<td>Attending to procure evidence for the trial or bankruptcy application, in addition to all proper travelling expenses, per hour </td>
 <td>5.00</td>
 </tr>
 <tr>
@@ -1981,7 +1985,7 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 </tr>
 <tr>
 <td>55</td>
-<td>Attendances, correspondence, etc., incurred through negotiations by a defendant creditor or debtor to gain time, or in the endeavour to compromise or settle the action, petition or proceeding, such allowance as the taxing officer considers proper.</td>
+<td>Attendances, correspondence, etc., incurred through negotiations by a defendant creditor or debtor to gain time, or in the endeavour to compromise or settle the action, bankruptcy application or proceeding, such allowance as the taxing officer considers proper.</td>
 <td></td>
 </tr>
 </table>
@@ -2008,12 +2012,12 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 </table>
 
 
-### Bonds
+### Security for Costs
 
 <table>
 <tr>
 <td>58</td>
-<td>Upon giving of any bond in any proceeding, including drawing and engrossing same, and all affidavits and copies, and necessary attendances and taking of affidavits in discretion of taxing officer but not to exceed </td>
+<td>On giving of any security for costs in any proceeding, including drawing and engrossing same, and all affidavits and copies, and necessary attendances and taking of affidavits in discretion of taxing officer but not to exceed </td>
 <td>20.00</td>
 </tr>
 </table>
@@ -2058,12 +2062,12 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 </tr>
 <tr>
 <td>65</td>
-<td>Attending for any praecipe order </td>
+<td>Attending for any praecipe order or any order of the Office of the Court </td>
 <td>2.00</td>
 </tr>
 <tr>
 <td>66</td>
-<td>Any praecipe order </td>
+<td>Any praecipe order or order of the Office of the Court </td>
 <td>2.00</td>
 </tr>
 </table>
@@ -2082,7 +2086,7 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 <td>2.00</td>
 </tr>
 <tr>
-<td>(c) Praecipe to pay in or obtain out of court </td>
+<td>(c) Praecipe or order of the Office of the Court to pay in or obtain out of court </td>
 <td>1.00</td>
 </tr>
 <tr>
@@ -2098,7 +2102,7 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 <td>2.00</td>
 </tr>
 <tr>
-<td>(g) Praecipe for certificate of account </td>
+<td>(g) Praecipe or order of the Office of the Court for certificate of account </td>
 <td>1.00</td>
 </tr>
 <tr>
@@ -2147,7 +2151,7 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 </table>
 
 
-### Counsel Fees
+### Barristers’ or Solicitors’ or, in the Province of Quebec, Advocates’ Fees
 
 <table>
 <tr>
@@ -2155,11 +2159,11 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 </tr>
 <tr>
 <td>73</td>
-<td>(a) Statement of claim, defence, or any other pleading </td>
+<td>(a) Statement of claim, motion to institute proceeding, defence, or any other pleading </td>
 <td>10.00</td>
 </tr>
 <tr>
-<td>(b) Petition </td>
+<td>(b) Bankruptcy application </td>
 <td>10.00</td>
 </tr>
 <tr>
@@ -2179,7 +2183,7 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 <td>10.00</td>
 </tr>
 <tr>
-<td>(g) Application in connection with any proposal </td>
+<td>(g) Application or motion to institute proceeding in connection with any proposal </td>
 <td>10.00</td>
 </tr>
 <tr>
@@ -2192,12 +2196,12 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 </tr>
 <tr>
 <td>74</td>
-<td>Attendance of counsel on examination for discovery, cross-examination on affidavits, examination of witness on motion, examination of witness *de bene esse*, examination of bankrupt, or any similar examination, per hour, not to exceed </td>
+<td>Attendance of barrister or solicitor or, in the Province of Quebec, advocate on examination for discovery, cross-examination on affidavits, examination of witness on motion, examination of witness *de bene esse*, examination of bankrupt, or any similar examination, per hour, not to exceed </td>
 <td>10.00</td>
 </tr>
 <tr>
 <td>75</td>
-<td>Consultation with solicitor of client where proper, in the opinion of the taxing officer, per hour, not to exceed </td>
+<td>Consultation with barrister or solicitor or, in the Province of Quebec, advocate of client if proper, in the opinion of the taxing officer, per hour, not to exceed </td>
 <td>10.00</td>
 </tr>
 <tr>
@@ -2220,23 +2224,18 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 </tr>
 <tr>
 <td>78</td>
-<td>On *ex parte* motion or application before a judge </td>
+<td>On *ex parte* application or motion before a judge </td>
 <td>20.00</td>
 </tr>
 <tr>
 <td>79</td>
-<td>Attendance on opposed motion or application to registrar </td>
+<td>Attendance on opposed application or motion to registrar </td>
 <td>20.00</td>
 </tr>
 <tr>
 <td>80</td>
-<td>On *ex parte* motion or application to registrar </td>
+<td>Both of above items may be increased in the discretion of the taxing officer </td>
 <td>15.00</td>
-</tr>
-<tr>
-<td></td>
-<td>Both of above items may be increased in the discretion of the taxing officer.</td>
-<td></td>
 </tr>
 <tr>
 <td>81</td>
@@ -2255,11 +2254,11 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 </tr>
 <tr>
 <td>84</td>
-<td>Counsel fee with brief on</td>
+<td>Barrister or solicitor or, in the Province of Quebec, advocate fee with brief on</td>
 <td></td>
 </tr>
 <tr>
-<td>(a) Petition </td>
+<td>(a) Bankruptcy application </td>
 <td>75.00</td>
 </tr>
 <tr>
@@ -2287,28 +2286,28 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 <td></td>
 </tr>
 <tr>
-<td>For second counsel, where allowed by a judge, 2/3 of the fees allowed under this item to first counsel.</td>
+<td>For second barrister or solicitor or, in the Province of Quebec, advocate, if allowed by a judge, 2/3 of the fees allowed under this item to first barrister, solicitor or advocate</td>
 <td></td>
 </tr>
 <tr>
 <td>85</td>
-<td>Counsel fee for services rendered in or out of court in settling or compromising a claim or proceedings or endeavouring to do so is in the discretion of the taxing officer and may be calculated by way of commission or percentage on amount recovered or defended or on value of property concerned or such other basis as the taxing officer considers proper.</td>
+<td>Barrister or solicitor or, in the Province of Quebec, advocate fee for services rendered in or out of court in settling or compromising a claim or proceedings or endeavouring to do so is in the discretion of the taxing officer and may be calculated by way of commission or percentage on amount recovered or defended or on value of property concerned or any other basis as the taxing officer considers proper.</td>
 <td></td>
 </tr>
 <tr>
 <td>86</td>
-<td>Where fees or allowances are in the discretion of the taxing officer or may be reduced or increased in his discretion, he shall have regard to all the circumstances including the importance of the matter, the time occupied, the general conduct and success of the proceedings, the competence exhibited and the preparation of any written argument required.</td>
+<td>If fees or allowances are in the discretion of the taxing officer or may be reduced or increased in his discretion, he shall have regard to all the circumstances including the importance of the matter, the time occupied, the general conduct and success of the proceedings, the competence exhibited and the preparation of any written argument required.</td>
 <td></td>
 </tr>
 <tr>
 <td>87</td>
-<td>The taxing officer may, in his discretion, allow fair and reasonable fees and allowances for necessary and proper services rendered by solicitors and counsel for which no fees or allowances are provided by the tariff.</td>
+<td>The taxing officer may, in their discretion, allow fair and reasonable fees and allowances for necessary and proper services rendered by barristers or solicitors or, in the Province of Quebec, advocates for which no fees or allowances are provided by the tariff.</td>
 <td></td>
 </tr>
 </table>
 
 
-### Solicitors’ Fees on Collection of Accounts
+### Barristers’ or Solicitors’ or, in the Province of Quebec, Advocates’ Fees on Collection of Accounts
 
 <table>
 <tr>
@@ -2354,7 +2353,7 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 <table>
 <tr>
 <td>89</td>
-<td>Fees and allowances as in the county or district court or cour de magistrat.</td>
+<td>Fees and allowances payable to witnesses shall be those in effect within each province or territory.</td>
 <td></td>
 </tr>
 </table>
@@ -2389,7 +2388,7 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 </tr>
 <tr>
 <td>2</td>
-<td>No fee shall be paid by the trustee where</td>
+<td>No fee shall be paid by the trustee if</td>
 <td></td>
 </tr>
 <tr>
@@ -2399,7 +2398,7 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 <td></td>
 </tr>
 <tr>
-<td>**(b)** the debtor has become bankrupt following a receiving order granted under subsection 43(9) of the Act, has filed an assignment under subsection 50(4.1) of the Act or is deemed to have made an assignment under subsection 50.4(8) or (11), paragraph 57(a) or subsection 61(2) or 63(4) of the Act.
+<td>**(b)** the debtor has become bankrupt following a bankruptcy order made under subsection 43(6) of the Act, has filed an assignment under subsection 50(4.1) of the Act or is deemed to have made an assignment under subsection 50.4(8) or (11), paragraph 57(a) or subsection 61(2) or 63(4) of the Act.
 
 </td>
 <td></td>
@@ -2416,13 +2415,13 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 <td></td>
 </tr>
 <tr>
-<td>**(a)** for all Court services to be rendered to the trustee in a general scheme proposal (Division I of Part III of the Act), a single fee of 
+<td>**(a)** for all Court services to be rendered to the trustee in a general scheme proposal (Division I of Part III of the Act), a single fee of 
 
 </td>
 <td>$150</td>
 </tr>
 <tr>
-<td>**(b)** for all Court services to be rendered to the administrator in a consumer proposal (Division II of Part III of the Act), a single fee of 
+<td>**(b)** for all Court services to be rendered to the administrator in a consumer proposal (Division II of Part III of the Act), a single fee of 
 
 </td>
 <td>$50</td>
@@ -2439,7 +2438,7 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 <td></td>
 </tr>
 <tr>
-<td>**(a)** a petition for a receiving order 
+<td>**(a)** an application for a bankruptcy order 
 
 </td>
 <td>$150</td>
@@ -2493,7 +2492,7 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 <td>$50</td>
 </tr>
 <tr>
-<td>**(h)** taxing a solicitor’s bill of legal services costs for
+<td>**(h)** taxing a bill of legal services costs for
 
 </td>
 <td></td>
@@ -2623,11 +2622,11 @@ plus postage.
 
 **3** Printed proof of debt and proxy forms at cost:
 
-Where the court considers that the amount of remuneration allowed to the trustee is sufficient to compensate him adequately for all services rendered to the estate, the court may disallow the foregoing disbursements either in whole or in part.
+If the court considers that the amount of remuneration allowed to the trustee is sufficient to compensate him adequately for all services rendered to the estate, the court may disallow the foregoing disbursements either in whole or in part.
 
 
 
-Where a court officer performs a service for which no fee is provided in this tariff, the court may allow a fee in an amount equal to the fee in this tariff for the service most nearly analogous or comparable to the services rendered, or where no fee can be found herein applicable to the particular service rendered, according to the tariff in effect in other civil matters in the court.
+If a court officer performs a service for which no fee is provided in this tariff, the court may allow a fee in an amount equal to the fee in this tariff for the service most nearly analogous or comparable to the services rendered, or if no fee can be found herein applicable to the particular service rendered, according to the tariff in effect in other civil matters in the court.
 
 
 
@@ -2641,7 +2640,7 @@ No disbursements are payable to trustees in respect of
 
 
 
-**(c)** notices under section 120,
+**(c)** notices under section 120,
 
 
 
@@ -2662,7 +2661,7 @@ No disbursements are payable to trustees in respect of
 
 
 
-> SOR/78-389, s. 6; SOR/96-473, ss. 2 to 4; SOR/98-240, s. 2.
+> SOR/78-389, s. 6; SOR/96-473, ss. 2 to 4; SOR/98-240, s. 2; SOR/2007-61, ss. 35 to 39, 40(F), 41, 42, 43 to 44(F), 45, 46 to 47(F), 48, 49 to 50(E), 51 to 53, 54(F), 55 to 58, 59(E), 60 to 62, 63(E), 64, 66(F), 67.
 
 
 
