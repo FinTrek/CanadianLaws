@@ -18,22 +18,22 @@ Autorités habilitantes :
 
 ***bureau de division*** Le bureau du surintendant, du ministère de l’Industrie, pour la division de faillite dans laquelle les procédures ont été intentées. (*Division Office*)
 
-***fonctionnaire taxateur*** Registraire ou autre fonctionnaire nommé ou désigné en vertu de l’article 184 de la Loi pour taxer ou fixer les frais ou approuver les comptes. (*taxing officer*)
+***fonctionnaire taxateur*** Registraire ou autre fonctionnaire nommé ou désigné en vertu de l’article 184 de la Loi pour taxer ou fixer les frais ou approuver les comptes. (*taxing officer*)
 
 ***heures d’ouverture*** Heures durant lesquelles le bureau de division est ouvert au public du lundi au vendredi, à l’exclusion des jours fériés, telles qu’affichées à ce bureau. (*business hours*)
 
-***instructions*** Instructions données par le surintendant en vertu du paragraphe 5(4) de la Loi. (*directive*)
+***instructions*** Instructions données par le surintendant en vertu du paragraphe 5(4) de la Loi. (*directive*)
 
-***juge*** Juge du tribunal ayant compétence en matière de faillite en vertu des articles 183 à 186 de la Loi. (*judge*)
+***juge*** Juge du tribunal ayant compétence en matière de faillite en vertu des articles 183 à 186 de la Loi. (*judge*)
 
 ***Loi*** La [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md). (*Act*)
 
-***pétition*** Pétition en vue d’obtenir une ordonnance de séquestre. (*petition*)
+***pétition***[Abrogée, DORS/2007-61, art. 1]
 
-***registraire*** Registraire en matière de faillite nommé ou désigné en vertu de l’article 184 de la Loi. (*registrar*)
+***registraire*** Registraire en matière de faillite nommé ou désigné en vertu de l’article 184 de la Loi. (*registrar*)
 
-***tarif*** Le tarif des frais figurant à l’annexe. (*tariff*) 
-> DORS/92-579, art. 2; DORS/98-240, art. 1.
+***tarif*** Le tarif des frais figurant à l’annexe. (*tariff*)
+> DORS/92-579, art. 2; DORS/98-240, art. 1; DORS/2007-61, art. 1.
 
 
 
@@ -42,8 +42,8 @@ Autorités habilitantes :
 ## Dispositions générales
 
 
-**2** Les documents à prescrire au titre de la Loi sont en la forme prescrite, avec les adaptations nécessaires et les différences de présentation permises par l’article 32 de la [Loi d’interprétation](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-21.md), et sont utilisés dans les procédures engagées sous le régime de la Loi.
-> DORS/92-579, art. 3; DORS/98-240, art. 1.
+**2** Les documents à prescrire au titre de la Loi sont en la forme prescrite, avec les adaptations nécessaires et les différences de présentation permises par l’article 32 de la [Loi d’interprétation](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-21.md), et sont utilisés dans les procédures engagées sous le régime de la Loi.
+> DORS/92-579, art. 3; DORS/98-240, art. 1; DORS/2007-61, art. 2(A).
 
 
 
@@ -55,7 +55,7 @@ Autorités habilitantes :
 
 
 **4** Lorsqu’un délai de moins de six jours est prévu pour accomplir un acte ou intenter une procédure en vertu de la Loi ou des présentes règles, les samedis et les jours fériés n’entrent pas dans le calcul du délai.
-> DORS/98-240, art. 1.
+> DORS/98-240, art. 1; DORS/2007-61, art. 63(A).
 
 
 
@@ -80,12 +80,12 @@ Autorités habilitantes :
 
 - **(2)** Sauf disposition contraire des présentes règles, les avis et autres documents à remettre ou à envoyer sous le régime des présentes règles :
 	- **a)** doivent être reçus par le destinataire au moins quatre jours avant l’événement auquel ils se rapportent, s’ils sont signifiés, remis en mains propres ou envoyés par télécopieur ou par transmission électronique;
-	- **b)** doivent être envoyés au destinataire au moins 10 jours avant l’événement auquel ils se rapportent, s’ils sont envoyés par courrier ou par service de messagerie.
+	- **b)** doivent être envoyés au destinataire au moins 10 jours avant l’événement auquel ils se rapportent, s’ils sont envoyés par courrier ou par service de messagerie.
 
 - **(3)** Le syndic, le séquestre ou l’administrateur qui remet ou envoie un avis ou tout autre document doit remplir un affidavit ou obtenir une preuve à cet effet, et conserver l’affidavit ou la preuve dans ses dossiers.
 
-- **(4)** Le tribunal peut, sur demande *ex parte*, dispenser toute personne de l’application du paragraphe (2) ou ordonner les modalités d’application qu’il juge indiquées, notamment un délai différent.
-> DORS/98-240, art. 1.
+- **(4)** Le tribunal peut, sur demande *ex parte*, dispenser toute personne de l’application du paragraphe (2) ou ordonner les modalités d’application qu’il juge indiquées, notamment un délai différent.
+> DORS/98-240, art. 1; DORS/2007-61, art. 3(A) et 63(A).
 
 
 
@@ -97,7 +97,7 @@ Autorités habilitantes :
 
 
 **8** Le séquestre intérimaire, le syndic, l’administrateur d’une proposition de consommateur, le séquestre officiel ou le représentant du surintendant n’ont pas à être représentés par un avocat lorsqu’ils comparaissent devant le registraire au sujet d’une procédure judiciaire engagée sous le régime de la Loi.
-> DORS/98-240, art. 1.
+> DORS/98-240, art. 1; DORS/2007-61, art. 4(A).
 
 
 
@@ -110,22 +110,22 @@ Autorités habilitantes :
 
 - **(1)** Tous les actes de procédure présentés devant le tribunal sont datés et portent en titre le nom du tribunal visé et la mention « En matière de faillite et d’insolvabilité ».
 
-- **(2)** Les documents utilisés lors du dépôt d’une pétition ou après le dépôt d’une cession portent le titre « Dans l’affaire de la faillite de... ».
+- **(2)** Les documents utilisés lors du dépôt d’une requête en faillite ou après le dépôt d’une cession portent le titre « Dans l’affaire de la faillite de ... ».
 
-- **(3)** Les documents utilisés lors du dépôt d’une proposition antérieure à la faillite portent le titre « Dans l’affaire de la proposition de... ».
+- **(3)** Les documents utilisés lors du dépôt d’une proposition antérieure à la faillite portent le titre « Dans l’affaire de la proposition de ... ».
 
-- **(4)** Les documents relatifs à une mise sous séquestre portent le titre « Dans l’affaire de la mise sous séquestre de... ».
+- **(4)** Les documents relatifs à une mise sous séquestre portent le titre « Dans l’affaire de la mise sous séquestre de ... ».
 
-- **(5)** À moins que le juge en chef, le juge en chef adjoint ou le commissaire, selon le cas, visé à l’article 184 de la Loi n’en ordonne autrement, les documents à déposer auprès du tribunal sont déposés au préalable au bureau du registraire.
+- **(5)** À moins que le juge en chef, le juge en chef adjoint ou le commissaire, selon le cas, visé à l’article 184 de la Loi n’en ordonne autrement, les documents à déposer auprès du tribunal sont déposés au préalable au bureau du registraire.
 
 - **(6)** Si le tribunal juge qu’il est nécessaire, dans toute procédure dont il est saisi, d’envoyer un avis au surintendant, une copie de cet avis est envoyée au bureau de division.
-> DORS/98-240, art. 1.
+> DORS/98-240, art. 1; DORS/2007-61, art. 63(A) et 64.
 
 
 
 
-**10** En cas de renvoi des procédures d’un tribunal à un autre conformément aux paragraphes 187(7) ou (10) de la Loi, le registraire du premier tribunal fait parvenir le dossier au registraire du second tribunal en y joignant une copie de l’ordonnance de renvoi.
-> DORS/98-240, art. 1.
+**10** En cas de renvoi des procédures d’un tribunal à un autre conformément aux paragraphes 187(7) ou (10) de la Loi, le registraire du premier tribunal fait parvenir le dossier au registraire du second tribunal en y joignant une copie de l’ordonnance de renvoi.
+> DORS/98-240, art. 1; DORS/2007-61, art. 63(A).
 
 
 
@@ -176,29 +176,29 @@ Autorités habilitantes :
 
 
 **15** L’huissier-exécutant est chargé de l’exécution de tout mandat, notamment de saisie ou de perquisition, délivré en vertu de la Loi.
-> DORS/98-240, art. 1.
+> DORS/98-240, art. 1; DORS/2007-61, art. 5(A).
 
 
 
 
 **16** 
 
-- **(1)** Le failli ou toute autre personne appréhendé en vertu de l’article 166 de la Loi est gardé au lieu de détention indiqué dans le mandat jusqu’à ce que le tribunal rende son ordonnance.
+- **(1)** Le failli ou toute autre personne appréhendé en vertu de l’article 166 de la Loi est gardé au lieu de détention indiqué dans le mandat jusqu’à ce que le tribunal rende son ordonnance.
 
-- **(2)** La personne qui a appréhendé ou arrêté le failli ou toute autre personne en vertu des articles 166 ou 168 de la Loi fait rapport au tribunal dès qu’elle l’a remis aux responsables du lieu de détention.
+- **(2)** La personne qui a appréhendé ou arrêté le failli ou toute autre personne en vertu des articles 166 ou 168 de la Loi fait rapport au tribunal dès qu’elle l’a remis aux responsables du lieu de détention.
 
-- **(3)** Après que le rapport mentionné au paragraphe (2) a été fait, le tribunal peut rendre une ordonnance fixant les date, heure et lieu où le failli ou la personne subira, en cas d’application de l’article 166 de la Loi, l’interrogatoire devant le séquestre officiel ou, en cas d’application de l’article 168 de la Loi, l’interrogatoire devant le tribunal.
+- **(3)** Après que le rapport mentionné au paragraphe (2) a été fait, le tribunal peut rendre une ordonnance fixant les date, heure et lieu où le failli ou la personne subira, en cas d’application de l’article 166 de la Loi, l’interrogatoire devant le séquestre officiel ou, en cas d’application de l’article 168 de la Loi, l’interrogatoire devant le tribunal.
 
-- **(4)** Dès que les date, heure et lieu de l’interrogatoire du failli ou de la personne devant le séquestre officiel ont été fixés en application du paragraphe (3), le registraire en avise le séquestre officiel et le syndic.
+- **(4)** Dès que les date, heure et lieu de l’interrogatoire du failli ou de la personne devant le séquestre officiel ont été fixés en application du paragraphe (3), le registraire en avise le séquestre officiel et le syndic.
 
-- **(5)** Dès que les date, heure et lieu de l’interrogatoire du failli, autre que l’interrogatoire visé au paragraphe (4), ont été fixés, le registraire en avise le syndic et la personne qui a demandé l’interrogatoire.
-> DORS/98-240, art. 1.
+- **(5)** Dès que les date, heure et lieu de l’interrogatoire du failli, autre que l’interrogatoire visé au paragraphe (4), ont été fixés, le registraire en avise le syndic et la personne qui a demandé l’interrogatoire.
+> DORS/98-240, art. 1; DORS/2007-61, art. 63(A).
 
 
 
 
 **17** Sauf ordonnance contraire du tribunal, quiconque a en sa possession ou sous sa garde des biens saisis en vertu de la Loi ou des présentes règles les remet sans délai au syndic ou au séquestre intérimaire.
-> DORS/98-240, art. 1.
+> DORS/98-240, art. 1; DORS/2007-61, art. 6(A).
 
 
 
@@ -237,7 +237,7 @@ Autorités habilitantes :
 - **b)** les frais sont raisonnables et, le cas échéant, conformes au tarif;
 - **c)** les services juridiques rendus sont justifiés et ne relèvent pas des attributions du syndic;
 - **d)** le cas échéant, les services juridiques ont été autorisés et approuvés conformément à la Loi.
-> DORS/98-240, art. 1.
+> DORS/98-240, art. 1; DORS/2007-61, art. 63(A).
 
 
 
@@ -248,18 +248,18 @@ Autorités habilitantes :
 
 
 
-**23** Le tribunal peut, sur demande *ex parte* du syndic, ordonner au conseiller juridique de présenter son mémoire de frais au syndic ou de le lui produire pour taxation. Si le conseiller juridique ne se conforme pas à l’ordonnance, le tribunal peut, sur demande *ex parte* du syndic, ordonner au syndic de faire la distribution du produit de l’actif entre ses mains sans égard au mémoire de frais du conseiller juridique.
-> DORS/98-240, art. 1.
+**23** Le tribunal peut, sur demande *ex parte* du syndic, ordonner à l’avocat de présenter son mémoire de frais au syndic ou de le lui produire pour taxation. Si l’avocat ne se conforme pas à l’ordonnance, le tribunal peut, sur demande *ex parte* du syndic, ordonner au syndic de faire la distribution du produit de l’actif entre ses mains sans égard au mémoire de frais de l’avocat.
+> DORS/98-240, art. 1; DORS/2007-61, art. 7.
 
 
 
 
 **24** 
 
-- **(1)** Au moins 10 jours avant la date de la taxation, le conseiller juridique envoie au syndic, à toute autre personne responsable du paiement des frais et, sur demande, au bureau de division, un avis indiquant les date, heure et lieu de la taxation.
+- **(1)** Au moins dix jours avant la date de la taxation, l’avocat envoie au syndic, à toute autre personne responsable du paiement des frais et, sur demande, au bureau de division, un avis indiquant les date, heure et lieu de la taxation.
 
 - **(2)** Une copie certifiée conforme du mémoire de frais présenté pour taxation est jointe à l’avis.
-> DORS/98-240, art. 1.
+> DORS/98-240, art. 1; DORS/2007-61, art. 8.
 
 
 
@@ -279,7 +279,7 @@ Autorités habilitantes :
 - **(1)** Une fois le mémoire de frais taxé, le syndic refuse d’en payer une partie s’il croit que le réclamant n’y a pas droit par l’effet des paragraphes 197(7) ou (8) de la Loi.
 
 - **(2)** Si le syndic estime que les montants taxés par le fonctionnaire taxateur sont trop élevés, il demande au tribunal, après avoir donné à la partie adverse un préavis de 10 jours, la révision de la taxation du mémoire de frais.
-> DORS/98-240, art. 1.
+> DORS/98-240, art. 1; DORS/2007-61, art. 63(A).
 
 
 
@@ -289,7 +289,7 @@ Autorités habilitantes :
 
 
 **27** En cas de contestation des honoraires payables à un fonctionnaire du tribunal, le juge en fixe le montant.
-> DORS/98-240, art. 1.
+> DORS/98-240, art. 1; DORS/2007-61, art. 63(A).
 
 
 
@@ -326,10 +326,10 @@ Autorités habilitantes :
 
 **31** 
 
-- **(1)** Un appel est formé devant une cour d’appel visée au paragraphe 183(2) de la Loi par le dépôt d’un avis d’appel au bureau du registraire du tribunal ayant rendu l’ordonnance ou la décision portée en appel, dans les 10 jours qui suivent le jour de l’ordonnance ou de la décision, ou dans tel autre délai fixé par un juge de la cour d’appel.
+- **(1)** Un appel est formé devant une cour d’appel visée au paragraphe 183(2) de la Loi par le dépôt d’un avis d’appel au bureau du registraire du tribunal ayant rendu l’ordonnance ou la décision portée en appel, dans les 10 jours qui suivent le jour de l’ordonnance ou de la décision, ou dans tel autre délai fixé par un juge de la cour d’appel.
 
-- **(2)** En cas d’application de l’alinéa 193e) de la Loi, l’avis d’appel est accompagné de la demande d’autorisation d’appel.
-> DORS/98-240, art. 1.
+- **(2)** En cas d’application de l’alinéa 193e) de la Loi, l’avis d’appel est accompagné de la demande d’autorisation d’appel.
+> DORS/98-240, art. 1; DORS/2007-61, art. 63(A).
 
 
 
@@ -417,16 +417,16 @@ Autorités habilitantes :
 
 **43** 
 
-- **(1)** Sous réserve du paragraphe (2), lorsque le syndic a la responsabilité de vendre des biens dans le cadre d’une proposition ou d’une faillite, il ne les vend, ni directement ni indirectement :
+- **(1)** Sous réserve du paragraphe (2), lorsque le syndic a la responsabilité de vendre des biens dans le cadre d’une proposition ou d’une faillite, il ne les vend, ni directement ni indirectement :
 	- **a)** à ses employés, à ses mandataires ou à des personnes ne traitant pas à distance avec lui;
 	- **b)** à un autre syndic ou, sciemment, aux employés de ce dernier;
-	- **c)** aux personnes liées à lui ou, sciemment, aux personnes liées à celles mentionnées aux alinéas a) ou b).
+	- **c)** aux personnes liées à lui ou, sciemment, aux personnes liées à celles mentionnées aux alinéas a) ou b).
 
-- **(2)** Lorsque le syndic a la responsabilité d’agir conformément au paragraphe (1), il peut vendre des biens dans le cadre d’une proposition ou d’une faillite aux personnes mentionnées aux alinéas (1)a), b) ou c), dans la mesure où ces biens sont offerts en vente :
+- **(2)** Lorsque le syndic a la responsabilité d’agir conformément au paragraphe (1), il peut vendre des biens dans le cadre d’une proposition ou d’une faillite aux personnes mentionnées aux alinéas (1)a), b) ou c), dans la mesure où ces biens sont offerts en vente :
 	- **a)** en même temps qu’ils sont offerts au public;
 	- **b)** à un prix égal à celui auquel ils sont offerts au public;
 	- **c)** dans le cours normal des affaires du failli ou du débiteur.
-> DORS/98-240, art. 1.
+> DORS/98-240, art. 1; DORS/2007-61, art. 9(A) et 63(A).
 
 
 
@@ -490,7 +490,7 @@ Autorités habilitantes :
 
 
 **52** Dans toute activité professionnelle, le syndic veille avec prudence et diligence à ce que les actes accomplis par ses mandataires, ses employés ou toute personne engagée par lui à contrat respectent les mêmes normes professionnelles qu’il aurait lui-même à appliquer relativement à cette activité.
-> DORS/98-240, art. 1.
+> DORS/98-240, art. 1; DORS/2007-61, art. 10(A).
 
 
 
@@ -506,7 +506,7 @@ Autorités habilitantes :
 
 
 **54** Dans les procédures intentées sous le régime de la Loi, le certificat du séquestre officiel ou la copie certifiée conforme de celui-ci constitue une preuve admissible de la nomination ou de la substitution d’un syndic sans qu’il soit nécessaire de prouver l’authenticité de la signature ou la qualité officielle du signataire.
-> DORS/98-240, art. 1.
+> DORS/98-240, art. 1; DORS/2007-61, art. 11(A).
 
 
 
@@ -537,8 +537,8 @@ Toutefois, le tribunal peut rendre une ordonnance dispensant de l’envoi d’un
 
 
 
-**57** Lorsque le failli interrogé conformément au paragraphe 161(1) de la Loi ne parle pas couramment celle des langues officielles dans laquelle se déroule l’interrogatoire, le syndic retient pour l’interrogatoire les services d’un interprète agréé par le séquestre officiel.
-> DORS/98-240, art. 1.
+**57** Lorsque le failli interrogé conformément au paragraphe 161(1) de la Loi ne parle pas couramment celle des langues officielles dans laquelle se déroule l’interrogatoire, le syndic retient pour l’interrogatoire les services d’un interprète agréé par le séquestre officiel.
+> DORS/98-240, art. 1; DORS/2007-61, art. 63(A).
 
 
 
@@ -591,8 +591,8 @@ Toutefois, le tribunal peut rendre une ordonnance dispensant de l’envoi d’un
 ### Dispositions générales
 
 
-**60** Lorsque le surintendant remet une lettre de commentaires au syndic conformément au paragraphe 152(4) de la Loi, celui-ci s’adresse au fonctionnaire taxateur, dans les 30 jours suivant la réception de la lettre, pour obtenir une date d’audition de la taxation.
-> DORS/92-579, art. 9; DORS/98-240, art. 1.
+**60** Lorsque le surintendant remet une lettre de commentaires au syndic conformément au paragraphe 152(4) de la Loi, celui-ci s’adresse au fonctionnaire taxateur, dans les 30 jours suivant la réception de la lettre, pour obtenir une date d’audition de la taxation.
+> DORS/92-579, art. 9; DORS/98-240, art. 1; DORS/2007-61, art. 63(A).
 
 
 
@@ -628,7 +628,7 @@ Toutefois, le tribunal peut rendre une ordonnance dispensant de l’envoi d’un
 - **a)** l’état définitif des recettes et des débours, établi en la forme prescrite;
 - **b)** le bordereau de dividende indiquant les dividendes payés ou à payer aux créanciers du failli;
 - **c)** dans le cas où des inspecteurs ont été nommés par les créanciers, l’état définitif des recettes et des débours établi par le syndic, sur lequel figure la signature des inspecteurs faisant foi de leur approbation ou, à défaut de celle-ci, les raisons de leur désapprobation.
-> DORS/98-240, art. 1.
+> DORS/98-240, art. 1; DORS/2007-61, art. 12(A).
 
 
 
@@ -641,16 +641,16 @@ Toutefois, le tribunal peut rendre une ordonnance dispensant de l’envoi d’un
 
 **64** 
 
-- **(1)** Si la lettre de commentaires du surintendant indique qu’il ne demande pas la taxation des comptes du syndic, celui-ci envoie, dans les 30 jours suivant la réception de la lettre, aux créanciers qui ont prouvé leur réclamation, un avis de la taxation de ses comptes et de sa libération, établi en la forme prescrite et accompagné de ce qui suit :
+- **(1)** Si la lettre de commentaires du surintendant indique qu’il ne demande pas la taxation des comptes du syndic, celui-ci envoie, dans les 30 jours suivant la réception de la lettre, aux créanciers qui ont prouvé leur réclamation, un avis de la taxation de ses comptes et de sa libération, établi en la forme prescrite et accompagné de ce qui suit :
 	- **a)** une copie de son état définitif des recettes et des débours;
 	- **b)** une copie du bordereau de dividende indiquant les dividendes payés ou à payer aux créanciers du failli;
 	- **c)** le dividende définitif qui revient au créancier, si le syndic est convaincu qu’il n’y aura pas d’opposition de la part des créanciers à la taxation de ses comptes et à sa libération.
 
-- **(2)** Tout créancier peut s’opposer à la taxation des comptes et à la libération du syndic en prenant les mesures suivantes dans les 30 jours suivant la date d’envoi de l’avis visé au paragraphe (1) :
+- **(2)** Tout créancier peut s’opposer à la taxation des comptes et à la libération du syndic en prenant les mesures suivantes dans les 30 jours suivant la date d’envoi de l’avis visé au paragraphe (1) :
 	- **a)** il signifie au syndic ou lui envoie par courrier recommandé ou par service de messagerie un avis d’opposition;
 	- **b)** il dépose auprès du registraire une copie de l’avis d’opposition accompagnée d’un paiement représentant les frais applicables selon le tarif;
 	- **c)** il envoie une copie de l’avis d’opposition au bureau de division.
-> DORS/81-646, art. 4; DORS/92-579, art. 11(F); DORS/98-240, art. 1.
+> DORS/81-646, art. 4; DORS/92-579, art. 11(F); DORS/98-240, art. 1; DORS/2007-61, art. 63(A).
 
 
 
@@ -675,14 +675,14 @@ Toutefois, le tribunal peut rendre une ordonnance dispensant de l’envoi d’un
 	- **a)** il en avise le bureau de division;
 	- **b)** il obtient du registraire une date d’audition;
 	- **c)** dans les 30 jours suivant la date de réception de l’avis d’opposition, il envoie au créancier qui s’oppose un avis d’audition. Cet avis, établi en la forme prescrite, est envoyé au moins 30 jours avant la date d’audition.
-> DORS/81-646, art. 4; DORS/98-240, art. 1.
+> DORS/81-646, art. 4; DORS/98-240, art. 1; DORS/2007-61, art. 63(A).
 
 
 
 
 **66** 
 
-- **(1)** Si le surintendant remet, conformément à l’article 63, une lettre de commentaires indiquant qu’il demande la taxation des comptes du syndic, celui-ci, après avoir obtenu une date d’audition du registraire, envoie dans les 30 jours suivant la date de réception de la lettre les documents suivants aux créanciers qui ont prouvé leur réclamation et au bureau de division :
+- **(1)** Si le surintendant remet, conformément à l’article 63, une lettre de commentaires indiquant qu’il demande la taxation des comptes du syndic, celui-ci, après avoir obtenu une date d’audition du registraire, envoie dans les 30 jours suivant la date de réception de la lettre les documents suivants aux créanciers qui ont prouvé leur réclamation et au bureau de division :
 	- **a)** un avis d’audition de la taxation de ses comptes et de sa demande de libération, établi en la forme prescrite; cet avis est envoyé au moins 30 jours avant la date d’audition;
 	- **b)** une copie de son état définitif des recettes et des débours;
 	- **c)** une copie du bordereau de dividende indiquant les dividendes payés ou à payer aux créanciers du failli.
@@ -691,7 +691,7 @@ Toutefois, le tribunal peut rendre une ordonnance dispensant de l’envoi d’un
 	- **a)** il signifie au syndic ou lui envoie par courrier recommandé ou par service de messagerie un avis d’opposition qui doit lui parvenir avant le début de l’audition;
 	- **b)** il dépose auprès du registraire une copie de l’avis d’opposition accompagnée d’un paiement représentant les frais applicables selon le tarif;
 	- **c)** il envoie une copie de l’avis d’opposition au bureau de division.
-> DORS/98-240, art. 1.
+> DORS/98-240, art. 1; DORS/2007-61, art. 63(A).
 
 
 
@@ -708,7 +708,7 @@ Toutefois, le tribunal peut rendre une ordonnance dispensant de l’envoi d’un
 		- **(ii)** il remet au surintendant les dividendes non réclamés et les fonds non distribués,
 		- **(iii)** il envoie au bureau de division un certificat de conformité et de libération présumée, établi en la forme prescrite.
 
-- **(3)** Le syndic est réputé libéré dès qu’il a pris les mesures visées aux alinéas (2)b) et c).
+- **(3)** Le syndic est réputé libéré dès qu’il a pris les mesures visées aux alinéas (2)b) et c).
 
 - **(4)** Si le registraire taxe les comptes du syndic autrement que dans l’état où ils ont été soumis, le syndic prend les mesures suivantes :
 	- **a)** il prélève ses honoraires tels qu’ils ont été taxés;
@@ -719,8 +719,8 @@ Toutefois, le tribunal peut rendre une ordonnance dispensant de l’envoi d’un
 		- **(iii)** il envoie au bureau de division et à chaque créancier l’état définitif révisé des recettes et des débours, le bordereau de dividende révisé et une copie de l’ordonnance de taxation,
 		- **(iv)** il envoie au bureau de division et au registraire un certificat de conformité et de libération présumée, établi en la forme prescrite.
 
-- **(5)** Le syndic est réputé libéré dès qu’il a pris les mesures visées aux alinéas (4)b) et c).
-> DORS/98-240, art. 1.
+- **(5)** Le syndic est réputé libéré dès qu’il a pris les mesures visées aux alinéas (4)b) et c).
+> DORS/98-240, art. 1; DORS/2007-61, art. 63(A).
 
 
 
@@ -733,36 +733,38 @@ Toutefois, le tribunal peut rendre une ordonnance dispensant de l’envoi d’un
 
 - **(1)** Sauf ordonnance contraire du tribunal, le syndic conserve pendant au moins les quatre ans suivant la date de sa libération les livres, registres et documents concernant l’administration de l’actif.
 
-- **(2)** Sauf ordonnance contraire du tribunal, le syndic envoie après sa libération un avis écrit au débiteur, au failli ou à un dirigeant de la personne morale en faillite — à moins d’avoir reçu une renonciation écrite à l’avis — à sa dernière adresse connue, l’informant que lui ou son mandataire peut, dans les 30 jours suivant l’envoi de l’avis, reprendre les livres, registres et documents lui appartenant qui ne sont pas visés par le paragraphe (1).
+- **(2)** Sauf ordonnance contraire du tribunal, le syndic envoie après sa libération un avis écrit au débiteur, au failli ou à un dirigeant de la personne morale en faillite — à moins d’avoir reçu une renonciation écrite à l’avis — à sa dernière adresse connue, l’informant que lui ou son représentant peut, dans les trente jours suivant l’envoi de l’avis, reprendre les livres, registres et documents lui appartenant qui ne sont pas visés par le paragraphe (1).
 
-- **(3)** Si personne ne reprend ces livres, registres et documents dans les 30 jours suivant l’envoi de l’avis ou la réception de la renonciation mentionnés au paragraphe (2), le syndic peut s’en départir.
+- **(3)** Si personne ne reprend ces livres, registres et documents dans les 30 jours suivant l’envoi de l’avis ou la réception de la renonciation mentionnés au paragraphe (2), le syndic peut s’en départir.
 
-- **(4)** Les documents sur lesquels le conseiller juridique a des droits lui sont remis lorsque l’administration de l’actif auquel ils se rapportent est terminée.
-> DORS/98-240, art. 1.
-
-
+- **(4)** Les documents sur lesquels le conseiller juridique a un droit de rétention ou un privilège lui sont remis après que l’administration de l’actif auquel ils se rapportent est terminée.
+> DORS/98-240, art. 1; DORS/2007-61, art. 13 et 63(A).
 
 
 
-## Pétition en vue d’une ordonnance de séquestre
 
 
-**69** Une pétition déposée auprès du registraire dans le district judiciaire de la localité du débiteur ne peut être signifiée selon le paragraphe 70(1) que si elle porte la signature et le sceau du tribunal.
-> DORS/98-240, art. 1.
+## Requête en faillite
+> [DORS/2007-61, art. 14]
+
+
+
+**69** Une requête en faillite déposée auprès du registraire dans le district judiciaire de la localité du débiteur ne peut être signifiée selon le paragraphe 70(1) que si elle porte la signature et le sceau du tribunal.
+> DORS/98-240, art. 1; DORS/2007-61, art. 64.
 
 
 
 
 **70** 
 
-- **(1)** Un avis indiquant les date, heure et lieu de l’audition de la pétition ainsi qu’une copie certifiée conforme de la pétition et de l’affidavit visé au paragraphe 43(3) de la Loi sont signifiés au débiteur, au syndic nommé dans la pétition et au bureau de division au moins 10 jours avant l’audition, ou dans le délai plus court fixé par le tribunal.
+- **(1)** Un avis indiquant les date, heure et lieu de l’audition de la requête en faillite ainsi qu’une copie certifiée conforme de cette requête et de l’affidavit visé au paragraphe 43(3) de la Loi sont signifiés au débiteur, au syndic nommé dans la requête et au bureau de division au moins dix jours avant l’audition, ou dans le délai plus court fixé par le tribunal.
 
-- **(2)** Une copie de la pétition est déposée sans délai, une fois signifiée conformément au présent article, au bureau du registraire et au bureau de division.
+- **(2)** Une copie de la requête en faillite est déposée sans délai, une fois signifiée conformément au présent article, au bureau du registraire et au bureau de division.
 
 - **(3)** Sous réserve de l’article 71, la signification au débiteur se fait par signification à personne.
 
 - **(4)** Pour l’application du paragraphe 256(3) de la Loi, la période prescrite est de 10 jours.
-> DORS/98-240, art. 1.
+> DORS/98-240, art. 1; DORS/2007-61, art. 15.
 
 
 
@@ -772,37 +774,37 @@ Toutefois, le tribunal peut rendre une ordonnance dispensant de l’envoi d’un
 - **(1)** Lorsque le tribunal estime que les documents ne peuvent être signifiés à personne au débiteur pour un motif valable, il rend une ordonnance indiquant la manière de les signifier.
 
 - **(2)** Les documents sont dès lors signifiés, accompagnés de l’ordonnance.
-> DORS/98-240, art. 1.
+> DORS/98-240, art. 1; DORS/2007-61, art. 63(A).
 
 
 
 
-**72** La preuve de la signification d’une pétition est établie par un affidavit ou par le procès-verbal de signification de l’huissier. Cette preuve, jointe à la pétition originale, est déposée auprès du tribunal au moins deux jours avant la date d’audition indiquée dans la pétition.
-> DORS/98-240, art. 1.
+**72** La preuve de la signification d’une requête en faillite est établie par un affidavit ou par le procès-verbal de signification de l’huissier. Cette preuve, jointe à la requête originale, est déposée auprès du tribunal au moins deux jours avant la date d’audition indiquée dans la requête.
+> DORS/98-240, art. 1; DORS/2007-61, art. 16.
 
 
 
 
-**73** En cas de décès du débiteur, la signification de la pétition peut être faite à son représentant légal ou au liquidateur.
-> DORS/98-240, art. 1.
+**73** En cas de décès du débiteur, la signification de la requête en faillite peut être faite au liquidateur ou à l’administrateur de sa succession ou à son exécuteur testamentaire.
+> DORS/98-240, art. 1; DORS/2007-61, art. 16.
 
 
 
 
-**74** Le débiteur qui conteste une pétition dépose auprès du tribunal où celle-ci a été déposée un avis indiquant les allégations contestées, les motifs de sa contestation et son adresse; il en signifie copie au créancier pétitionnaire ou à son conseiller juridique au moins deux jours avant la date d’audition indiquée dans la pétition.
-> DORS/98-240, art. 1.
+**74** Le débiteur qui conteste une requête en faillite dépose auprès du tribunal où celle-ci a été déposée un avis indiquant les allégations contestées, les motifs de sa contestation et son adresse; il en signifie copie au requérant ou à son avocat, au moins deux jours avant la date d’audition indiquée dans la requête.
+> DORS/98-240, art. 1; DORS/2007-61, art. 16.
 
 
 
 
-**75** Si le débiteur qui a déposé un avis de contestation ne se présente pas à l’audition de la pétition, le tribunal peut rendre l’ordonnance de séquestre en se fondant sur les allégations contenues dans la pétition s’il les juge suffisantes.
-> DORS/92-579, art. 13; DORS/98-240, art. 1.
+**75** Si le débiteur qui a déposé un avis de contestation ne se présente pas à l’audition de la requête en faillite, le tribunal peut rendre l’ordonnance de faillite en se fondant sur les allégations contenues dans la requête s’il les juge suffisantes.
+> DORS/92-579, art. 13; DORS/98-240, art. 1; DORS/2007-61, art. 16.
 
 
 
 
-**76** En cas de suspension de l’audition de la pétition pour l’instruction d’un litige sur une question de fait, dès que la décision est rendue, le registraire, sur demande du débiteur ou du pétitionnaire, fixe les date, heure et lieu de la continuation de l’audition; la partie ayant fait la demande donne à l’autre partie un préavis d’au moins deux jours des date, heure et lieu fixés par le registraire.
-> DORS/98-240, art. 1.
+**76** Si l’audition de la requête en faillite a été suspendue pour l’instruction d’un litige sur une question de fait, dès que la décision est rendue, le registraire, sur demande du débiteur ou du requérant, fixe les date, heure et lieu de la reprise de l’audition. La partie ayant fait la demande donne à l’autre partie un préavis d’au moins deux jours des date, heure et lieu fixés par le registraire.
+> DORS/98-240, art. 1; DORS/2007-61, art. 16.
 
 
 
@@ -821,8 +823,8 @@ Toutefois, le tribunal peut rendre une ordonnance dispensant de l’envoi d’un
 
 
 
-**78** En cas de rejet de la pétition, le tribunal peut, sur demande présentée dans les 30 jours suivant celui du rejet, rendre son jugement à l’égard de toute réclamation en dommages-intérêts ou de toute autre réclamation, autre qu’en dommages-intérêts, découlant de la nomination d’un séquestre intérimaire et rendre toute autre ordonnance qu’il juge indiquée.
-> DORS/98-240, art. 1.
+**78** En cas de rejet de la requête en faillite, le tribunal peut, sur demande présentée dans les trente jours suivant celui du rejet, rendre son jugement à l’égard de toute réclamation en dommages-intérêts ou de toute autre réclamation, autre qu’en dommages-intérêts, découlant de la nomination d’un séquestre intérimaire et rendre toute autre ordonnance qu’il juge indiquée.
+> DORS/98-240, art. 1; DORS/2007-61, art. 17.
 
 
 
@@ -850,18 +852,18 @@ Toutefois, le tribunal peut rendre une ordonnance dispensant de l’envoi d’un
 
 
 
-**81** Lorsqu’aucune opposition n’est déposée dans les 30 jours suivant l’envoi de l’avis visé au paragraphe 79(1), les comptes du séquestre intérimaire sont réputés taxés et celui-ci est réputé libéré, à moins que le tribunal n’exige que les comptes soient taxés au mérite.
-> DORS/92-579, art. 15; DORS/98-240, art. 1.
+**81** Lorsqu’aucune opposition n’est déposée dans les 30 jours suivant l’envoi de l’avis visé au paragraphe 79(1), les comptes du séquestre intérimaire sont réputés taxés et celui-ci est réputé libéré, à moins que le tribunal n’exige que les comptes soient taxés au mérite.
+> DORS/92-579, art. 15; DORS/98-240, art. 1; DORS/2007-61, art. 63(A).
 
 
 
 
 **82** 
 
-- **(1)** Lorsqu’une opposition est déposée dans les 30 jours suivant l’envoi de l’avis visé au paragraphe 79(1), le séquestre intérimaire demande au tribunal, dans les 10 jours suivant le dépôt de l’opposition, de fixer une date d’audition et envoie un avis de cette date à la partie qui s’oppose.
+- **(1)** Lorsqu’une opposition est déposée dans les 30 jours suivant l’envoi de l’avis visé au paragraphe 79(1), le séquestre intérimaire demande au tribunal, dans les 10 jours suivant le dépôt de l’opposition, de fixer une date d’audition et envoie un avis de cette date à la partie qui s’oppose.
 
 - **(2)** Lors de l’audition, le tribunal procède à la taxation au mérite des comptes du séquestre intérimaire et peut libérer celui-ci. Le séquestre intérimaire envoie alors au bureau de division une copie de l’ordonnance du tribunal portant sur la taxation de ses comptes et sa libération.
-> DORS/78-389, art. 3; DORS/92-579, art. 15; DORS/98-240, art. 1.
+> DORS/78-389, art. 3; DORS/92-579, art. 15; DORS/98-240, art. 1; DORS/2007-61, art. 63(A).
 
 
 
@@ -871,25 +873,25 @@ Toutefois, le tribunal peut rendre une ordonnance dispensant de l’envoi d’un
 
 
 
-## Ordonnance de séquestre
+## Ordonnance de faillite
 
 
 **83** 
 
-- **(1)** Le plus tôt possible dans les deux jours après que le tribunal a rendu l’ordonnance de séquestre en vertu du paragraphe 43(6) de la Loi, le créancier pétitionnaire signifie, remet en mains propres ou envoie par service de messagerie, par télécopieur ou par transmission électronique une copie de l’ordonnance de séquestre au syndic nommé aux termes du paragraphe 43(9) de la Loi.
+- **(1)** Le plus tôt possible dans les deux jours suivant la date où l’ordonnance de faillite est rendue en vertu du paragraphe 43(6) de la Loi, le requérant signifie, remet en mains propres ou envoie par service de messagerie, par télécopieur ou par transmission électronique une copie de l’ordonnance de faillite au syndic nommé aux termes du paragraphe 43(9) de la Loi.
 
-- **(2)** Dans les deux jours suivant la réception d’une copie de l’ordonnance de séquestre, le syndic en signifie une copie au failli et en envoie une autre au bureau de division.
-> DORS/98-240, art. 1.
+- **(2)** Dans les deux jours suivant la réception d’une copie de l’ordonnance de faillite, le syndic en signifie une copie au failli et en envoie une autre au bureau de division.
+> DORS/98-240, art. 1; DORS/2007-61, art. 18.
 
 
 
 
 **84** 
 
-- **(1)** Une demande de révocation de l’ordonnance de séquestre ou de suspension des procédures peut être présentée au tribunal si un avis à cet effet, accompagné d’une copie des affidavits à l’appui de la demande, est signifié au créancier pétitionnaire et au syndic et est déposé au bureau de division.
+- **(1)** Une demande de révocation de l’ordonnance de faillite ou de suspension des procédures peut être présentée au tribunal, si un avis à cet effet, accompagné d’une copie des affidavits à l’appui de la demande, est signifié au requérant et au syndic et est déposé au bureau de division.
 
 - **(2)** En attendant l’instruction de la demande de révocation, le tribunal peut rendre une ordonnance intérimaire suspendant tout ou partie des procédures.
-> DORS/98-240, art. 1.
+> DORS/98-240, art. 1; DORS/2007-61, art. 19.
 
 
 
@@ -927,7 +929,7 @@ Toutefois, le tribunal peut rendre une ordonnance dispensant de l’envoi d’un
 	- **d)** le procès-verbal de la première assemblée des créanciers.
 
 - **(2)** Dans le cas où l’actif du failli fait l’objet d’une administration sommaire, le syndic n’est pas tenu de déposer auprès du tribunal les documents visés aux alinéas (1)a) à d), à moins que celui-ci ne lui ordonne de le faire.
-> DORS/92-579, art. 20; DORS/98-240, art. 1.
+> DORS/92-579, art. 20; DORS/98-240, art. 1; DORS/2007-61, art. 20(A).
 
 
 
@@ -954,8 +956,8 @@ Toutefois, le tribunal peut rendre une ordonnance dispensant de l’envoi d’un
 ## Propositions concordataires
 
 
-**89** Lorsque le syndic reçoit une proposition visée au paragraphe 50(1) de la Loi, il en dépose une copie auprès du séquestre officiel.
-> DORS/98-240, art. 1.
+**89** Lorsque le syndic reçoit une proposition visée au paragraphe 50(1) de la Loi, il en dépose une copie auprès du séquestre officiel.
+> DORS/98-240, art. 1; DORS/2007-61, art. 63(A).
 
 
 
@@ -1009,13 +1011,13 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 **94** Le séquestre officiel qui, conformément aux alinéas 57b) ou 61(2)b) ou au paragraphe 63(6) de la Loi, délivre un certificat de cession :
 - **a)** en envoie sans délai une copie au syndic agissant relativement à la proposition;
 - **b)** en dépose sans délai une copie auprès du tribunal.
-> DORS/98-240, art. 1.
+> DORS/98-240, art. 1; DORS/2007-61, art. 21(A).
 
 
 
 
 **95** Le préavis de résiliation du bail que donne la personne insolvable au locateur conformément au paragraphe 65.2(1) de la Loi est établi en la forme prescrite et est communiqué de la manière indiquée dans le bail ou, à défaut d’une telle indication, est soit signifié, soit envoyé par courrier recommandé ou par service de messagerie.
-> DORS/98-240, art. 1.
+> DORS/98-240, art. 1; DORS/2007-61, art. 22(A).
 
 
 
@@ -1036,8 +1038,8 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 
 
 
-**97** Pour l’application du paragraphe 66.17(1) de la Loi, le créancier qui a prouvé une réclamation indique à l’administrateur son approbation ou sa désapprobation de la proposition de consommateur en personne, par mandataire, par procuration ou par un message remis en mains propres ou envoyé par courrier, par télécopieur ou par transmission électronique.
-> DORS/98-240, art. 1.
+**97** Pour l’application du paragraphe 66.17(1) de la Loi, le créancier qui a prouvé une réclamation indique à l’administrateur son approbation ou sa désapprobation de la proposition de consommateur en personne, par mandataire, par procuration ou par un message remis en mains propres ou envoyé par courrier, par télécopieur ou par transmission électronique.
+> DORS/98-240, art. 1; DORS/2007-61, art. 23(A).
 
 
 
@@ -1046,7 +1048,7 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 - **a)** l’état définitif des recettes et des débours, établi en la forme prescrite;
 - **b)** le bordereau de dividende indiquant les dividendes payés ou à payer aux créanciers aux termes de la proposition de consommateur;
 - **c)** dans le cas où des inspecteurs ont été nommés par les créanciers, une copie du procès-verbal de la réunion des inspecteurs à laquelle l’état définitif des recettes et des débours et le bordereau de dividende établis par l’administrateur ont été approuvés ou refusés.
-> DORS/98-240, art. 1.
+> DORS/98-240, art. 1; DORS/2007-61, art. 63(A).
 
 
 
@@ -1059,16 +1061,16 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 
 **100** 
 
-- **(1)** Si la lettre de commentaires du surintendant indique qu’il ne demande pas la taxation des comptes de l’administrateur, celui-ci envoie, dans les 30 jours suivant la réception de la lettre, aux créanciers qui ont prouvé leur réclamation, un avis de la taxation de ses comptes et de sa libération, établi en la forme prescrite et accompagné de ce qui suit :
+- **(1)** Si la lettre de commentaires du surintendant indique qu’il ne demande pas la taxation des comptes de l’administrateur, celui-ci envoie, dans les 30 jours suivant la réception de la lettre, aux créanciers qui ont prouvé leur réclamation, un avis de la taxation de ses comptes et de sa libération, établi en la forme prescrite et accompagné de ce qui suit :
 	- **a)** une copie de son état définitif des recettes et des débours;
 	- **b)** une copie du bordereau de dividende indiquant les dividendes payés ou à payer aux créanciers aux termes de la proposition de consommateur;
 	- **c)** le dividende définitif qui revient au créancier, si l’administrateur est convaincu qu’il n’y aura pas d’opposition de la part des créanciers à la taxation de ses comptes et à sa libération.
 
-- **(2)** Tout créancier peut s’opposer à la taxation des comptes et à la libération de l’administrateur en prenant les mesures suivantes dans les 30 jours suivant la date d’envoi de l’avis visé au paragraphe (1) :
+- **(2)** Tout créancier peut s’opposer à la taxation des comptes et à la libération de l’administrateur en prenant les mesures suivantes dans les 30 jours suivant la date d’envoi de l’avis visé au paragraphe (1) :
 	- **a)** il signifie à l’administrateur ou lui envoie par courrier recommandé ou par service de messagerie un avis d’opposition;
 	- **b)** il dépose auprès du registraire une copie de l’avis d’opposition accompagnée d’un paiement représentant les frais applicables selon le tarif;
 	- **c)** il envoie une copie de l’avis d’opposition au bureau de division.
-> DORS/78-389, art. 4; DORS/98-240, art. 1.
+> DORS/78-389, art. 4; DORS/98-240, art. 1; DORS/2007-61, art. 63(A).
 
 
 
@@ -1087,15 +1089,15 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 	- **a)** il en avise le bureau de division;
 	- **b)** il obtient du registraire une date d’audition;
 	- **c)** dans les 30 jours suivant la date de réception de l’avis d’opposition, il envoie au créancier qui s’oppose un avis d’audition. Cet avis, établi en la forme prescrite, est envoyé au moins 30 jours avant la date d’audition.
-> DORS/78-389, art. 5; DORS/98-240, art. 1.
+> DORS/78-389, art. 5; DORS/98-240, art. 1; DORS/2007-61, art. 63(A).
 
 
 
 
 **102** 
 
-- **(1)** Si le surintendant remet, conformément à l’article 99, une lettre de commentaires indiquant qu’il demande la taxation des comptes de l’administrateur, celui-ci, après avoir obtenu une date d’audition du registraire, envoie dans les 30 jours suivant la date de réception de la lettre les documents suivants aux créanciers qui ont prouvé leur réclamation et au bureau de division :
-	- **a)** un avis d’audition de la taxation de ses comptes et de sa libération, établi en la forme prescrite; cet avis est envoyé au moins 30 jours avant la date d’audition;
+- **(1)** Si le surintendant remet, conformément à l’article 99, une lettre de commentaires indiquant qu’il demande la taxation des comptes de l’administrateur, celui-ci, après avoir obtenu une date d’audition du registraire, envoie dans les 30 jours suivant la date de réception de la lettre les documents suivants aux créanciers qui ont prouvé leur réclamation et au bureau de division :
+	- **a)** un avis d’audition de la taxation de ses comptes et de sa libération, établi en la forme prescrite; cet avis est envoyé au moins 30 jours avant la date d’audition;
 	- **b)** une copie de son état définitif des recettes et des débours;
 	- **c)** une copie du bordereau de dividende indiquant les dividendes payés ou à payer aux créanciers aux termes de la proposition de consommateur.
 
@@ -1103,7 +1105,7 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 	- **a)** il signifie à l’administrateur ou lui envoie par courrier recommandé ou par service de messagerie un avis d’opposition qui doit lui parvenir avant le début de l’audition;
 	- **b)** il dépose auprès du registraire une copie de l’avis d’opposition accompagnée d’un paiement représentant les frais applicables selon le tarif;
 	- **c)** il envoie une copie de l’avis d’opposition au bureau de division.
-> DORS/98-240, art. 1.
+> DORS/98-240, art. 1; DORS/2007-61, art. 63(A).
 
 
 
@@ -1118,7 +1120,7 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 	- **c)** il remet au surintendant les dividendes non réclamés et les fonds non distribués;
 	- **d)** il envoie au bureau de division un certificat de conformité et de libération présumée, établi en la forme prescrite.
 
-- **(3)** L’administrateur est réputé libéré dès qu’il a pris les mesures visées au paragraphe (2).
+- **(3)** L’administrateur est réputé libéré dès qu’il a pris les mesures visées au paragraphe (2).
 
 - **(4)** Si le registraire taxe les comptes de l’administrateur autrement que dans l’état où ils ont été soumis, l’administrateur prend les mesures suivantes :
 	- **a)** il rajuste ses honoraires tels qu’ils ont été taxés et, s’ils ont été taxés à la baisse, il rembourse l’excédent en le versant au compte en banque servant à l’administration de la proposition de consommateur;
@@ -1129,8 +1131,8 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 		- **(iv)** il envoie au bureau de division et à chaque créancier l’état définitif révisé des recettes et des débours, le bordereau de dividende révisé et une copie de l’ordonnance de taxation,
 		- **(v)** il envoie au bureau de division et au registraire un certificat de conformité et de libération présumée, établi en la forme prescrite.
 
-- **(5)** L’administrateur est réputé libéré dès qu’il a pris les mesures visées au paragraphe (4).
-> DORS/98-240, art. 1.
+- **(5)** L’administrateur est réputé libéré dès qu’il a pris les mesures visées au paragraphe (4).
+> DORS/98-240, art. 1; DORS/2007-61, art. 63(A).
 
 
 
@@ -1141,18 +1143,18 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 
 **104** 
 
-- **(1)** Dans le présent article, ***contributaire*** s’entend au sens de l’article 77 de la Loi.
+- **(1)** Dans le présent article, ***contributaire*** s’entend au sens de l’article 77 de la Loi.
 
-- **(2)** Le syndic peut exiger à tout moment, par un avis écrit, que le contributaire verse, dans les 30 jours suivant la date de signification ou d’envoi de l’avis, le montant qu’il est tenu de verser en application du paragraphe 77(1) de la Loi. L’avis présente au contributaire l’information nécessaire à l’établissement de sa contestation selon les règles énoncées au paragraphe (4).
+- **(2)** Le syndic peut exiger à tout moment, par un avis écrit, que le contributaire verse, dans les 30 jours suivant la date de signification ou d’envoi de l’avis, le montant qu’il est tenu de verser en application du paragraphe 77(1) de la Loi. L’avis présente au contributaire l’information nécessaire à l’établissement de sa contestation selon les règles énoncées au paragraphe (4).
 
 - **(3)** L’avis est donné au contributaire soit par signification à personne, soit par envoi par courrier recommandé ou par service de messagerie à sa dernière adresse connue ou à l’adresse indiquée dans le registre des actionnaires ou tout autre registre de la personne morale en faillite.
 
-- **(4)** Le contributaire peut, dans les 30 jours suivant la date de signification ou d’envoi de l’avis, contester, en tout ou en partie, sa responsabilité à l’égard du montant à contribuer, en envoyant au syndic un avis écrit indiquant les postes contestés et ses motifs; il ne peut par la suite, sauf avec l’autorisation du tribunal, apporter d’autres motifs de contestation lors de procédures intentées contre lui par le syndic.
+- **(4)** Le contributaire peut, dans les 30 jours suivant la date de signification ou d’envoi de l’avis, contester, en tout ou en partie, sa responsabilité à l’égard du montant à contribuer, en envoyant au syndic un avis écrit indiquant les postes contestés et ses motifs; il ne peut par la suite, sauf avec l’autorisation du tribunal, apporter d’autres motifs de contestation lors de procédures intentées contre lui par le syndic.
 
-- **(5)** Si, dans le délai prévu au paragraphe (4), le contributaire ne verse pas le montant exigé ou n’envoie pas d’avis de contestation, le syndic peut intenter une action *ex parte* en recouvrement du montant.
+- **(5)** Si, dans le délai prévu au paragraphe (4), le contributaire ne verse pas le montant exigé ou n’envoie pas d’avis de contestation, le syndic peut intenter une action *ex parte* en recouvrement du montant.
 
-- **(6)** Sur réception d’un avis de contestation, le syndic peut demander au tribunal de trancher la question; il envoie alors un avis de l’audition de la demande au contributaire dans les 10 jours après avoir présenté celle-ci.
-> DORS/98-240, art. 1; DORS/2005-284, art. 7(F).
+- **(6)** Sur réception d’un avis de contestation, le syndic peut demander au tribunal de trancher la question; il envoie alors un avis de l’audition de la demande au contributaire dans les 10 jours après avoir présenté celle-ci.
+> DORS/98-240, art. 1; DORS/2005-284, art. 7(F); DORS/2007-61, art. 24(A) et 63(A).
 
 
 
@@ -1228,7 +1230,7 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 - **(19)** Les paiements faits par un failli dans le cadre d’une entente de médiation sont versés au syndic et déposés dans le compte de l’actif.
 
 - **(20)** Si les parties ne parviennent pas à une entente dans le cadre de la médiation, le médiateur émet un avis, en la forme prescrite, portant que la médiation demandée pour l’application des paragraphes 68(6) ou (7) ou 170.1(5) de la Loi a échoué, et envoie cet avis au bureau de division et aux parties.
-> DORS/98-240, art. 1.
+> DORS/98-240, art. 1; DORS/2007-61, art. 25(A).
 
 
 
@@ -1239,10 +1241,10 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 
 **106** 
 
-- **(1)** Le syndic qui présente une demande au tribunal en vertu du paragraphe 68(10) de la Loi envoie sans délai au bureau de division une copie de cette demande et de l’ordonnance rendue par le tribunal en vertu de ce paragraphe, le cas échéant.
+- **(1)** Le syndic qui présente une demande au tribunal en vertu du paragraphe 68(10) de la Loi envoie sans délai au bureau de division une copie de cette demande et de l’ordonnance rendue par le tribunal en vertu de ce paragraphe, le cas échéant.
 
-- **(2)** Le créancier qui, par suite d’une ordonnance rendue par le tribunal en application du paragraphe 38(1) de la Loi, présente une demande à celui-ci en vertu du paragraphe 68(10) de la Loi envoie sans délai au bureau de division une copie de cette demande et de l’ordonnance rendue par le tribunal en vertu de ce dernier paragraphe, le cas échéant.
-> DORS/98-240, art. 1.
+- **(2)** Le créancier qui, par suite d’une ordonnance rendue par le tribunal en application du paragraphe 38(1) de la Loi, présente une demande à celui-ci en vertu du paragraphe 68(10) de la Loi envoie sans délai au bureau de division une copie de cette demande et de l’ordonnance rendue par le tribunal en vertu de ce dernier paragraphe, le cas échéant.
+> DORS/98-240, art. 1; DORS/2007-61, art. 65(A).
 
 
 
@@ -1255,8 +1257,10 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 ## Dispositions et traitement préférentiel
 
 
-**107** Lorsqu’un terrain, ses dépendances ou tout droit s’y rattachant font l’objet d’un litige aux termes des articles 91 à 100 de la Loi, le registraire peut, sur dépôt auprès du tribunal d’une copie de la demande signée par le conseiller juridique du demandeur, délivrer un certificat de litispendance et, en cas de rejet partiel ou total de la demande, délivrer un certificat de rejet.
-> DORS/98-240, art. 1.
+**107** Le registraire peut :
+- **a)** dans la province de Québec, lorsqu’un immeuble ou un droit s’y rattachant font l’objet d’un litige aux termes des articles 91 à 100 de la Loi, autoriser, sur dépôt auprès du tribunal d’une copie de la demande signée par l’avocat du demandeur, le demandeur à requérir l’inscription d’un avis de préinscription au registre approprié;
+- **b)** dans les autres provinces, lorsqu’un bien réel ou un intérêt s’y rattachant font l’objet d’un litige aux termes des articles 91 à 100 de la Loi, délivrer un certificat de litispendance sur dépôt auprès du tribunal d’une copie de la demande signée par l’avocat du demandeur et, en cas de rejet partiel ou total de la demande, délivrer un certificat de rejet.
+> DORS/98-240, art. 1; DORS/2007-61, art. 26.
 
 
 
@@ -1272,13 +1276,13 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 - **(2)** Pour l’application de l’alinéa 155d.1) de la Loi, un avis est envoyé aux personnes indiquées au paragraphe 102(1) de la Loi au moins 10 jours avant la date de la première assemblée des créanciers par courrier, par service de messagerie, par télécopieur ou par transmission électronique.
 
 - **(3)** Lorsque le failli ne peut parler couramment celle des langues officielles dans laquelle se déroule l’assemblée des créanciers, le syndic retient pour l’assemblée les services d’un interprète agréé par le président de celle-ci.
-> DORS/98-240, art. 1.
+> DORS/98-240, art. 1; DORS/2007-61, art. 63(A).
 
 
 
 
 **109** En cas de faillite d’une société de personnes, les créanciers de la société et de chacun des associés faillis sont convoqués collectivement à la première assemblée des créanciers.
-> DORS/98-240, art. 1.
+> DORS/98-240, art. 1; DORS/2007-61, art. 63(A).
 
 
 
@@ -1317,8 +1321,8 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 ## Avis de rejet ou d’évaluation
 
 
-**113** L’avis de rejet ou l’avis d’évaluation donné par le syndic, conformément au paragraphe 135(3) de la Loi, à l’intéressé dont la réclamation, le droit à un rang prioritaire ou la garantie ou la sûreté a été rejeté ou évalué, en tout ou en partie, est soit signifié, soit envoyé par courrier recommandé ou par service de messagerie.
-> DORS/85-325, art. 1; DORS/87-380, art. 1; DORS/98-240, art. 1.
+**113** L’avis de rejet ou l’avis d’évaluation donné par le syndic, conformément au paragraphe 135(3) de la Loi, à l’intéressé dont la réclamation, le droit à un rang prioritaire ou la garantie ou la sûreté a été rejeté ou évalué, en tout ou en partie, est soit signifié, soit envoyé par courrier recommandé ou par service de messagerie.
+> DORS/85-325, art. 1; DORS/87-380, art. 1; DORS/98-240, art. 1; DORS/2007-61, art. 27(A).
 
 
 
@@ -1341,8 +1345,8 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 ## Interrogatoires
 
 
-**115** Les interrogatoires, sauf ceux prévus aux articles 159 et 161 de la Loi, se déroulent devant le registraire, devant toute personne autorisée à mener des interrogatoires préalables ou des interrogatoires de débiteurs judiciaires ou devant toute autre personne que le tribunal désigne par ordonnance sur demande *ex parte*, et sont tenus conformément aux règles du tribunal applicables aux instances civiles.
-> DORS/85-167, art. 1; DORS/85-1162, art. 1(A); DORS/90-83, art. 1; DORS/92-579, art. 29; DORS/96-473, art. 1; DORS/98-240, art. 1; DORS/2005-284, art. 8.
+**115** Les interrogatoires, sauf ceux prévus aux articles 159 et 161 de la Loi, se déroulent devant le registraire, devant toute personne autorisée à mener des interrogatoires préalables, des interrogatoires du débiteur après jugement ou des interrogatoires de débiteurs judiciaires ou devant toute autre personne que le tribunal désigne par ordonnance sur demande *ex parte*, et sont tenus conformément aux règles du tribunal applicables aux instances civiles.
+> DORS/85-167, art. 1; DORS/85-1162, art. 1(A); DORS/90-83, art. 1; DORS/92-579, art. 29; DORS/96-473, art. 1; DORS/98-240, art. 1; DORS/2005-284, art. 8; DORS/2007-61, art. 28.
 
 
 
@@ -1357,7 +1361,7 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 	- **b)** au lieu que le tribunal fixe sur demande *ex parte*.
 
 - **(2)** Le tribunal peut, sur demande, fixer les date et heure de tout interrogatoire.
-> DORS/92-579, art. 30; DORS/98-240, art. 1.
+> DORS/92-579, art. 30; DORS/98-240, art. 1; DORS/2007-61, art. 29(A).
 
 
 
@@ -1378,8 +1382,8 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 
 
 
-**119** Le tribunal peut, sur réception d’une demande de libération du failli, faire assigner le failli devant le tribunal pour interrogatoire.
-> DORS/92-579, art. 30; DORS/98-240, art. 1.
+**119** Le tribunal peut, sur réception d’une demande de libération du failli, assigner celui-ci pour interrogatoire.
+> DORS/92-579, art. 30; DORS/98-240, art. 1; DORS/2007-61, art. 30.
 
 
 
@@ -1388,14 +1392,14 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 
 - **(1)** Lorsqu’une ordonnance de libération est subordonnée à la condition que le failli consente au jugement en faveur du syndic pour tout ou partie du solde des dettes du failli, le jugement est déposé au tribunal de la division de faillite ou du district dans lequel l’ordonnance de libération a été accordée.
 
-- **(2)** Si le failli ne donne pas son consentement dans les 10 jours suivant la date de l’ordonnance, le tribunal peut, à la demande du syndic, révoquer l’ordonnance de libération ou rendre l’ordonnance qu’il estime indiquée.
-> DORS/92-579, art. 30; DORS/98-240, art. 1.
+- **(2)** Si le failli ne donne pas son consentement dans les 10 jours suivant la date de l’ordonnance, le tribunal peut, à la demande du syndic, révoquer l’ordonnance de libération ou rendre l’ordonnance qu’il estime indiquée.
+> DORS/92-579, art. 30; DORS/98-240, art. 1; DORS/2007-61, art. 31(A) et 63(A).
 
 
 
 
-**121** Le failli qui demande au tribunal de modifier l’ordonnance de libération en application du paragraphe 172(3) de la Loi envoie au syndic, au bureau de division et à chaque créancier ayant prouvé sa réclamation, à sa dernière adresse connue, un avis indiquant les date, heure et lieu de l’audition de la demande, au moins 10 jours avant la date de celle-ci.
-> DORS/92-579, art. 30; DORS/98-240, art. 1.
+**121** Le failli qui demande au tribunal de modifier l’ordonnance de libération en application du paragraphe 172(3) de la Loi envoie au syndic, au bureau de division et à chaque créancier ayant prouvé sa réclamation, à sa dernière adresse connue, un avis indiquant les date, heure et lieu de l’audition de la demande, au moins 10 jours avant la date de celle-ci.
+> DORS/92-579, art. 30; DORS/98-240, art. 1; DORS/2007-61, art. 63(A).
 
 
 
@@ -1406,18 +1410,18 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 
 **122** 
 
-- **(1)** Pour l’application du paragraphe 11.1(1) de la Loi, le surintendant :
-	- **a)** lorsqu’il conserve ou fait conserver un registre public des propositions, y conserve chaque dossier se rattachant à une proposition pendant au moins les 10 ans suivant la date de la remise, en application des articles 65.3 ou 66.38 de la Loi, du certificat d’exécution intégrale de la proposition;
+- **(1)** Pour l’application du paragraphe 11.1(1) de la Loi, le surintendant :
+	- **a)** lorsqu’il conserve ou fait conserver un registre public des propositions, y conserve chaque dossier se rattachant à une proposition pendant au moins les 10 ans suivant la date de la remise, en application des articles 65.3 ou 66.38 de la Loi, du certificat d’exécution intégrale de la proposition;
 	- **b)** lorsqu’il conserve ou fait conserver un registre public des faillites des particuliers, y conserve chaque dossier se rattachant à une telle faillite :
-		- **(i)** pendant au moins les 10 ans suivant la date de la libération, selon le paragraphe 41(2) de la Loi, du syndic à l’égard de l’actif du failli, ou la date de sa libération présumée selon les présentes règles,
-		- **(ii)** dans le cas où le failli n’a pas obtenu une ordonnance de libération absolue en application du paragraphe 172(1) de la Loi pendant la période prévue au sous-alinéa (i), tant que cette ordonnance n’est pas rendue;
-	- **c)** lorsqu’il conserve ou fait conserver un registre public des faillites des personnes morales, y conserve chaque dossier se rattachant à une telle faillite pendant au moins les 10 ans suivant la date de la libération, selon le paragraphe 41(2) de la Loi, du syndic à l’égard de l’actif du failli;
-	- **d)** lorsqu’il conserve ou fait conserver un registre public des licences délivrées aux syndics, y conserve chaque dossier se rattachant à la délivrance d’une licence pendant au moins les 30 ans suivant la date d’expiration de la licence;
-	- **e)** lorsqu’il conserve ou fait conserver un registre public des nominations ou désignations d’administrateurs effectuées par le surintendant pour les propositions de consommateur, y conserve chaque dossier se rattachant à une nomination ou à une désignation pendant au moins les 30 ans suivant la fin du mandat de l’administrateur;
-	- **f)** lorsqu’il conserve ou fait conserver un registre public des avis expédiés au surintendant par les séquestres au titre du paragraphe 245(1) de la Loi, y conserve chaque dossier se rattachant à un tel avis pendant au moins les 10 ans suivant la date de la réception de l’avis par le surintendant.
+		- **(i)** pendant au moins les 10 ans suivant la date de la libération, selon le paragraphe 41(2) de la Loi, du syndic à l’égard de l’actif du failli, ou la date de sa libération présumée selon les présentes règles,
+		- **(ii)** dans le cas où le failli n’a pas obtenu une ordonnance de libération absolue en application du paragraphe 172(1) de la Loi pendant la période prévue au sous-alinéa (i), tant que cette ordonnance n’est pas rendue;
+	- **c)** lorsqu’il conserve ou fait conserver un registre public des faillites des personnes morales, y conserve chaque dossier se rattachant à une telle faillite pendant au moins les 10 ans suivant la date de la libération, selon le paragraphe 41(2) de la Loi, du syndic à l’égard de l’actif du failli;
+	- **d)** lorsqu’il conserve ou fait conserver un registre public des licences délivrées aux syndics, y conserve chaque dossier se rattachant à la délivrance d’une licence pendant au moins les 30 ans suivant la date d’expiration de la licence;
+	- **e)** lorsqu’il conserve ou fait conserver un registre public des nominations ou désignations d’administrateurs effectuées par le surintendant pour les propositions de consommateur, y conserve chaque dossier se rattachant à une nomination ou à une désignation pendant au moins les 30 ans suivant la fin du mandat de l’administrateur;
+	- **f)** lorsqu’il conserve ou fait conserver un registre public des avis expédiés au surintendant par les séquestres au titre du paragraphe 245(1) de la Loi, y conserve chaque dossier se rattachant à un tel avis pendant au moins les 10 ans suivant la date de la réception de l’avis par le surintendant.
 
-- **(2)** Pour l’application du paragraphe 11.1(2) de la Loi, le surintendant conserve ou fait conserver les autres dossiers qu’il estime indiqués concernant l’application de la Loi pendant au moins les six ans suivant la date de leur ouverture.
-> DORS/92-579, art. 30; DORS/98-240, art. 1.
+- **(2)** Pour l’application du paragraphe 11.1(2) de la Loi, le surintendant conserve ou fait conserver les autres dossiers qu’il estime indiqués concernant l’application de la Loi pendant au moins les six ans suivant la date de leur ouverture.
+> DORS/92-579, art. 30; DORS/98-240, art. 1; DORS/2007-61, art. 32(A) et 63(A).
 
 
 
@@ -1428,7 +1432,7 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 
 **123** 
 
-- **(1)** Sous réserve des paragraphes (2) et (3), le taux de prélèvement effectué, conformément à l’article 147 de la Loi, sur tout paiement est de :
+- **(1)** Sous réserve des paragraphes (2) et (3), le taux de prélèvement effectué, conformément à l’article 147 de la Loi, sur tout paiement est de :
 	- **a)** cinq pour cent, dans le cas des paiements d’au plus 1 000 000 $;
 	- **b)** cinq pour cent pour le premier million de dollars et un et un quart pour cent pour le montant en sus de 1 000 000 $, dans le cas des paiements supérieurs à 1 000 000 $ mais ne dépassant pas 2 000 000 $;
 	- **c)** cinq pour cent pour le premier million de dollars, un et un quart pour cent pour le deuxième million de dollars et un quart pour cent pour le montant en sus de 2 000 000 $, dans le cas des paiements supérieurs à 2 000 000 $.
@@ -1442,8 +1446,8 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 	- **a)** cent pour cent, dans le cas des paiements d’au plus 200 $;
 	- **b)** cent pour cent pour les deux cents premiers dollars et zéro pour cent pour le montant en sus de 200 $, dans le cas des paiements supérieurs à 200 $.
 
-- **(4)** Le taux de prélèvement fixé au paragraphe (3) s’applique à toute administration sommaire dont l’état définitif des recettes et des débours est reçu par le bureau de division à la date d’entrée en vigueur de ce paragraphe ou après cette date.
-> DORS/92-579, art. 30; DORS/98-240, art. 1; DORS/2001-155, art. 1.
+- **(4)** Le taux de prélèvement fixé au paragraphe (3) s’applique à toute administration sommaire dont l’état définitif des recettes et des débours est reçu par le bureau de division à la date d’entrée en vigueur de ce paragraphe ou après cette date.
+> DORS/92-579, art. 30; DORS/98-240, art. 1; DORS/2001-155, art. 1; DORS/2007-61, art. 63(A).
 
 
 
@@ -1476,11 +1480,11 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 
 
 
-**127** Le rapport définitif et l’état de comptes établis par le séquestre conformément au paragraphe 246(3) de la Loi dès la fin de son mandat contiennent les renseignements suivants :
+**127** Le rapport définitif et l’état de comptes établis par le séquestre conformément au paragraphe 246(3) de la Loi dès la fin de son mandat contiennent les renseignements suivants :
 - **a)** l’état définitif des recettes et des débours;
 - **b)** des précisions sur le mode de distribution du produit tiré des biens dont il a pris la possession ou le contrôle;
-- **c)** le détail de l’aliénation de tout bien dont il a pris la possession ou le contrôle et qui n’est pas mentionné dans l’état définitif des recettes et des débours.
-> DORS/98-240, art. 1.
+- **c)** le détail relatif à la disposition de tout bien dont il a pris la possession ou le contrôle et qui n’est pas mentionné dans l’état définitif des recettes et des débours.
+> DORS/98-240, art. 1; DORS/2007-61, art. 33(F) et 65(A).
 
 
 
@@ -1551,10 +1555,10 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 
 **131** 
 
-- **(1)** Pour l’application de l’alinéa 66.12(6)b) de la Loi, les honoraires et dépenses se rapportant aux consultations sont de 85 $ par séance de consultation individuelle et de 25 $ par personne pour chaque séance de consultation en groupe.
+- **(1)** Pour l’application de l’alinéa 66.12(6)b) de la Loi, les honoraires et dépenses se rapportant aux consultations sont de 85 $ par séance de consultation individuelle et de 25 $ par personne pour chaque séance de consultation en groupe.
 
-- **(2)** Pour l’application du paragraphe 157.1(1) de la Loi, les frais des consultations sont de 85 $ par séance de consultation individuelle et de 25 $ par personne pour chaque séance de consultation en groupe.
-> DORS/98-240, art. 1.
+- **(2)** Pour l’application du paragraphe 157.1(1) de la Loi, les frais des consultations sont de 85 $ par séance de consultation individuelle et de 25 $ par personne pour chaque séance de consultation en groupe.
+> DORS/98-240, art. 1; DORS/2007-61, art. 63(A).
 
 
 
@@ -1562,13 +1566,13 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 **132** 
 
 - **(1)** Les frais forfaitaires de dépôt, auprès du séquestre officiel, de tous les documents concernant un actif sont les suivants :
-	- **a)** dans le cas de l’administration sommaire d’un actif d’un particulier qui fait faillite pour la première fois sous le régime du droit canadien ou de tout pays prescrit en application de l’article 168.1 de la Loi, 75 $ ou, dans le cas de toute autre faillite, 150 $, payables lors du dépôt d’une cession aux termes du paragraphe 49(3) de la Loi ou lorsqu’une ordonnance de séquestre est rendue aux termes du paragraphe 43(6) de la Loi;
-	- **b)** dans le cas d’une proposition faite par une personne insolvable, 150 $, payables lors du dépôt d’une copie de la proposition aux termes du paragraphe 62(1) de la Loi;
-	- **c)** dans le cas d’une proposition de consommateur faite par un débiteur consommateur, 100 $, payables lors du dépôt d’une copie de la proposition aux termes de l’alinéa 66.13(2)d) de la Loi;
-	- **d)** dans le cas où le séquestre officiel ordonne, conformément au paragraphe 49(8) de la Loi, que cesse de s’appliquer au failli le paragraphe 49(6) de la Loi, 75 $, payables au moment où est ordonnée cette mesure.
+	- **a)** dans le cas de l’administration sommaire d’un actif d’un particulier qui fait faillite pour la première fois sous le régime du droit canadien ou de tout pays prescrit en application de l’article 168.1 de la Loi, 75 $ ou, dans le cas de toute autre faillite, 150 $, à payer lors du dépôt d’une cession aux termes du paragraphe 49(3) de la Loi ou lorsqu’une ordonnance de faillite est rendue aux termes du paragraphe 43(6) de la Loi;
+	- **b)** dans le cas d’une proposition faite par une personne insolvable, 150 $, payables lors du dépôt d’une copie de la proposition aux termes du paragraphe 62(1) de la Loi;
+	- **c)** dans le cas d’une proposition de consommateur faite par un débiteur consommateur, 100 $, payables lors du dépôt d’une copie de la proposition aux termes de l’alinéa 66.13(2)d) de la Loi;
+	- **d)** dans le cas où le séquestre officiel ordonne, conformément au paragraphe 49(8) de la Loi, que cesse de s’appliquer au failli le paragraphe 49(6) de la Loi, 75 $, payables au moment où est ordonnée cette mesure.
 
-- **(2)** Les frais forfaitaires fixés aux alinéas (1)a), c) et d) s’appliquent au dépôt de documents fait à la date d’entrée en vigueur de ces alinéas ou après cette date.
-> DORS/98-240, art. 1; DORS/2001-155, art. 2.
+- **(2)** Les frais forfaitaires fixés aux alinéas (1)a), c) et d) s’appliquent au dépôt de documents fait à la date d’entrée en vigueur de ces alinéas ou après cette date.
+> DORS/98-240, art. 1; DORS/2001-155, art. 2; DORS/2007-61, art. 34.
 
 
 
@@ -1591,12 +1595,12 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 
 
 
-**135** Pour l’application du paragraphe 120(5) de la Loi, les honoraires que peut recevoir l’inspecteur pour chaque assemblée, calculés sur les recettes nettes qu’on obtient en soustrayant les paiements aux créanciers garantis du montant des recettes totales reçues par le syndic, sont de :
+**135** Pour l’application du paragraphe 120(5) de la Loi, les honoraires que peut recevoir l’inspecteur pour chaque assemblée, calculés sur les recettes nettes qu’on obtient en soustrayant les paiements aux créanciers garantis du montant des recettes totales reçues par le syndic, sont de :
 - **a)** 10 $, dans le cas d’un actif comportant des recettes nettes de moins de 10 000 $;
 - **b)** 20 $, dans le cas d’un actif comportant des recettes nettes de 10 000 $ ou plus et de moins de 50 000 $;
 - **c)** 30 $, dans le cas d’un actif comportant des recettes nettes de 50 000 $ ou plus et de moins de 100 000 $;
 - **d)** 40 $, dans le cas d’un actif comportant des recettes nettes de 100 000 $ ou plus.
-> DORS/98-240, art. 1; DORS/99-416, art. 1.
+> DORS/98-240, art. 1; DORS/99-416, art. 1; DORS/2007-61, art. 63(A).
 
 
 
@@ -1629,7 +1633,7 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 
 
 ### **ANNEXE** 
-**(article 1)**
+**(article 1 et alinéas 128(2)c) et 129(1)f)**
 
 **PARTIE I** 
 ## Tarif des frais
@@ -1643,17 +1647,17 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 </tr>
 <tr>
 <td>1</td>
-<td>Pour pétition ou cession </td>
+<td>Pour requête en faillite ou cession </td>
 <td>4,00 $</td>
 </tr>
 <tr>
 <td>2</td>
-<td>Pour présentation, opposition ou vacation relativement à la pétition </td>
+<td>Pour présentation, opposition ou vacation relativement à la requête en faillite </td>
 <td>4,00</td>
 </tr>
 <tr>
 <td>3</td>
-<td>Pour présentation, opposition ou vacation relativement à la requête à la cour pour approbation d’une proposition </td>
+<td>Pour présentation, opposition ou vacation relativement à la requête introductive d’instance à la cour pour approbation d’une proposition </td>
 <td>4,00</td>
 </tr>
 <tr>
@@ -1663,7 +1667,7 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 </tr>
 <tr>
 <td>5</td>
-<td>Pour appuyer ou opposer une motion ou requête à la cour ou en référé </td>
+<td>Pour appuyer ou opposer une requête ou une motion à la cour ou en référé </td>
 <td>4,00</td>
 </tr>
 <tr>
@@ -1702,12 +1706,12 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 </tr>
 <tr>
 <td>11</td>
-<td>Déclaration ou défense ou autres plaidoiries dont rédaction est ordonnée par le tribunal ou un juge </td>
+<td>Requête introductive d’instance, déclaration ou défense ou autres plaidoiries dont la rédaction est ordonnée par le tribunal ou un juge </td>
 <td>6,00</td>
 </tr>
 <tr>
 <td>12</td>
-<td>Pétition ou cession </td>
+<td>Requête en faillite ou cession </td>
 <td>6,00</td>
 </tr>
 <tr>
@@ -1717,12 +1721,12 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 </tr>
 <tr>
 <td>14</td>
-<td>Tout autre document commençant une procédure qui ne s’ouvre pas par pétition ou déclaration, et tout document en réponse </td>
+<td>Tout autre document commençant une procédure qui ne s’ouvre pas par requête en faillite, requête introductive d’instance ou déclaration, et tout document en réponse </td>
 <td>6,00</td>
 </tr>
 <tr>
 <td>15</td>
-<td>Avis de motion, objection ou contestation </td>
+<td>Avis de requête, motion, objection ou contestation </td>
 <td>4,00</td>
 </tr>
 <tr>
@@ -1760,12 +1764,12 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 </tr>
 <tr>
 <td>20</td>
-<td>Déclaration, défense ou autre plaidoirie </td>
+<td>Requête introductive d’instance, déclaration, défense ou autre plaidoirie </td>
 <td>3,00</td>
 </tr>
 <tr>
 <td>21</td>
-<td>Pétition ou cession </td>
+<td>Requête en faillite ou cession </td>
 <td>3,00</td>
 </tr>
 <tr>
@@ -1775,12 +1779,12 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 </tr>
 <tr>
 <td>23</td>
-<td>Tout autre document commençant une procédure qui ne s’ouvre pas par pétition ou déclaration et tout document en réponse </td>
+<td>Tout autre document commençant une procédure qui ne s’ouvre pas par requête en faillite, requête introductive d’instance ou déclaration, et tout document en réponse </td>
 <td>3,00</td>
 </tr>
 <tr>
 <td>24</td>
-<td>Avis de motion, objection ou contestation </td>
+<td>Avis de requête, motion, objection ou contestation </td>
 <td>2,00</td>
 </tr>
 <tr>
@@ -1795,7 +1799,7 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 </tr>
 <tr>
 <td>27</td>
-<td>Avis de produire ou d’admettre </td>
+<td>Avis de produire, avis de reconnaître la véracité ou demande d’aveux </td>
 <td>2,00</td>
 </tr>
 <tr>
@@ -1811,7 +1815,7 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 <table>
 <tr>
 <td>29</td>
-<td>Tout bref, mandat, certificat de jugement ou litispendance, y compris les instructions, rédactions et vacations pour les obtenir, enregistrer et délivrer </td>
+<td>Tout bref, mandat, certificat de jugement, avis de préinscription ou certificat de litispendance, y compris les instructions, rédactions et vacations pour les obtenir, enregistrer et délivrer </td>
 <td>10,00</td>
 </tr>
 <tr>
@@ -1842,17 +1846,17 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 <table>
 <tr>
 <td>34</td>
-<td>Signification de la pétition ou autre document par lequel commence toute procédure </td>
+<td>Signification de la requête en faillite ou autre document par lequel commence toute procédure </td>
 <td>3,00</td>
 </tr>
 <tr>
 <td>35</td>
-<td>Si la signification s’effectue à plus de 2 milles du bureau ou du lieu d’affaires le plus rapproché du procureur effectuant la signification, par mille, en plus de 2, chaque trajet </td>
+<td>Si la signification s’effectue à plus de 2 milles du bureau ou du lieu d’affaires le plus rapproché de l’avocat effectuant la signification, par mille, en plus de 2, chaque trajet </td>
 <td>0,30</td>
 </tr>
 <tr>
 <td>36</td>
-<td>Pour signification en dehors de la juridiction,l’allocation que l’officier taxateur juge convenable.</td>
+<td>Pour signification en dehors de la juridiction, l’allocation que l’officier taxateur juge convenable.</td>
 <td></td>
 </tr>
 <tr>
@@ -1884,8 +1888,8 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 <table>
 <tr>
 <td>40</td>
-<td>Copies de pétitions, plaidoiries, demandes, minutes, ordonnances, jugements, assignations, citations et tous autres documents quand il n’y est pas autrement pourvu et que les copies sont dûment allouables, par folio, pour chaque copie </td>
-<td>  0,10</td>
+<td>Copies de requêtes en faillite, plaidoiries, demandes, minutes, ordonnances, jugements, assignations, citations et tous autres documents quand il n’y est pas autrement pourvu et que les copies sont dûment allouables, par folio, pour chaque copie </td>
+<td>0,10</td>
 </tr>
 </table>
 
@@ -1895,7 +1899,7 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 <table>
 <tr>
 <td>41</td>
-<td>Avis d’admettre ou de produire </td>
+<td>Avis de produire, avis de reconnaître la véracité ou demande d’aveux </td>
 <td>2,00</td>
 </tr>
 <tr>
@@ -1935,12 +1939,12 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 <table>
 <tr>
 <td>47</td>
-<td>Vacation à la suite de la signification d’un avis de produire ou d’admettre, ou d’un avis prescrit par quelque loi </td>
+<td>Vacation à la suite de la signification d’un avis de produire, d’un avis de reconnaître la véracité ou d’une demande d’aveux, ou d’un avis prescrit par quelque loi </td>
 <td>2,00</td>
 </tr>
 <tr>
 <td>48</td>
-<td>Vacation pour obtenir une autorisation spéciale aux fins de signifier un avis de motion ou d’appel, à la discrétion de l’officier taxateur </td>
+<td>Vacation pour obtenir une autorisation spéciale aux fins de signifier un avis de requête, de motion ou d’appel, à la discrétion de l’officier taxateur </td>
 <td>3,00</td>
 </tr>
 <tr>
@@ -1955,7 +1959,7 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 </tr>
 <tr>
 <td>51</td>
-<td>Pour obtenir ou prendre un engagement de défendre si la signification est acceptée par le procureur </td>
+<td>Pour obtenir ou prendre un engagement de défendre si la signification est acceptée par l’avocat </td>
 <td>2,00</td>
 </tr>
 <tr>
@@ -1965,7 +1969,7 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 </tr>
 <tr>
 <td>53</td>
-<td>Vacation pour obtenir la preuve pour l’instruction ou la pétition, en plus de tous les frais réguliers de déplacement, par heure </td>
+<td>Vacation pour obtenir la preuve pour l’instruction ou la requête en faillite, en plus de tous les frais réguliers de déplacement, par heure </td>
 <td>5,00</td>
 </tr>
 <tr>
@@ -1974,12 +1978,13 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 <td>5,00</td>
 </tr>
 <tr>
+<td></td>
 <td>Peut être réduit ou augmenté à la discrétion de l’officier taxateur.</td>
 <td></td>
 </tr>
 <tr>
 <td>55</td>
-<td>Vacations, correspondance, etc., résultant de négociations de la part d’un défendeur, créancier ou débiteur, pour gagner du temps, ou dans le but d’effectuer un compromis ou règlement de l’action, pétition ou procédure, l’allocation que l’officier taxateur juge convenable.</td>
+<td>Vacations, correspondance, etc., résultant de négociations de la part d’un défendeur, créancier ou débiteur, pour gagner du temps, ou dans le but d’effectuer un compromis ou règlement de l’action, requête en faillite ou procédure, l’allocation que l’officier taxateur juge convenable.</td>
 <td></td>
 </tr>
 </table>
@@ -2006,12 +2011,12 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 </table>
 
 
-### Cautionnements
+### Caution pour frais
 
 <table>
 <tr>
 <td>58</td>
-<td>Pour fournir tout cautionnement dans quelque procédure, y compris la rédaction et le grossoyage, tous les affidavits, les copies, les vacations requises et recevoir les affidavits, à la discrétion de l’officier taxateur mais n’excédant pas </td>
+<td>Pour fournir une caution pour frais dans quelque procédure, y compris la rédaction et la préparation d’un document grossoyé, tous les affidavits, les copies, les vacations requises et recevoir les affidavits, à la discrétion de l’officier taxateur mais n’excédant pas </td>
 <td>20,00</td>
 </tr>
 </table>
@@ -2047,7 +2052,7 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 <tr>
 <td>63</td>
 <td>Vacation pour rédiger la minute par heure, au plus </td>
-<td>10,00</td>
+<td>0,00</td>
 </tr>
 <tr>
 <td>64</td>
@@ -2145,7 +2150,7 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 </table>
 
 
-### Honoraires de conseil
+### Honoraires d’avocats
 
 <table>
 <tr>
@@ -2153,15 +2158,15 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 </tr>
 <tr>
 <td>73</td>
-<td>a) Déclaration, défense ou toute autre plaidoirie </td>
+<td>a) Requête introductive d’instance, déclaration, défense ou toute autre plaidoirie </td>
 <td>10,00</td>
 </tr>
 <tr>
-<td>b) Pétition </td>
+<td>b) Requête en faillite </td>
 <td>10,00</td>
 </tr>
 <tr>
-<td>c) Avis de motion spécial </td>
+<td>c) Avis de requête ou de motion spécial </td>
 <td>10,00</td>
 </tr>
 <tr>
@@ -2177,7 +2182,7 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 <td>10,00</td>
 </tr>
 <tr>
-<td>g) Requête relative à quelque proposition </td>
+<td>g) Requête introductive d’instance relative à quelque proposition </td>
 <td>10,00</td>
 </tr>
 <tr>
@@ -2190,12 +2195,12 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 </tr>
 <tr>
 <td>74</td>
-<td>Vacation du conseil pour enquête préalable, interrogatoire contradictoire sur affidavit, interrogatoire de témoin sur motion, interrogatoire de témoin *de bene esse*, interrogatoire du failli, ou tout interrogatoire analogue, par heure, au plus </td>
+<td>Vacation de l’avocat pour enquête préalable, interrogatoire contradictoire sur affidavit, interrogatoire de témoin sur requête ou motion, interrogatoire de témoin de *bene esse*, interrogatoire du failli, ou tout interrogatoire analogue, par heure, au plus </td>
 <td>10,00</td>
 </tr>
 <tr>
 <td>75</td>
-<td>Sur consultation avec le procureur ou le client, si convenable, à la discrétion de l’officier taxateur, par heure, au plus </td>
+<td>Sur consultation avec l’avocat ou le client, si convenable, à la discrétion de l’officier taxateur, par heure, au plus </td>
 <td>10,00</td>
 </tr>
 <tr>
@@ -2209,7 +2214,7 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 </tr>
 <tr>
 <td>77</td>
-<td>Sur motion contestée devant un juge </td>
+<td>Sur requête ou motion contestée devant un juge </td>
 <td>40,00</td>
 </tr>
 <tr>
@@ -2218,22 +2223,18 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 </tr>
 <tr>
 <td>78</td>
-<td>Sur motion ou requête *ex parte* devant un juge </td>
+<td>Sur requête ou motion *ex parte* devant un juge </td>
 <td>20,00</td>
 </tr>
 <tr>
 <td>79</td>
-<td>Vacation sur motion ou requête contestée devant le registraire </td>
+<td>Vacation sur requête ou motion contestée devant le registraire </td>
 <td>20,00</td>
 </tr>
 <tr>
 <td>80</td>
-<td>Sur motion ou requête *ex parte* devant le registraire </td>
+<td>Sur requête ou motion *ex parte* devant le registraire </td>
 <td>15,00</td>
-</tr>
-<tr>
-<td>Les deux honoraires susdits peuvent être augmentés à la discrétion de l’officier taxateur.</td>
-<td></td>
 </tr>
 <tr>
 <td>81</td>
@@ -2252,11 +2253,11 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 </tr>
 <tr>
 <td>84</td>
-<td>Honoraire de conseil avec le dossier sur</td>
+<td>Honoraire d’avocat avec le dossier sur</td>
 <td></td>
 </tr>
 <tr>
-<td>a) Pétition </td>
+<td>a) Requête en faillite </td>
 <td>75,00</td>
 </tr>
 <tr>
@@ -2284,12 +2285,12 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 <td></td>
 </tr>
 <tr>
-<td>Pour un second conseil, si le juge le permet, il est alloué les 2/3 des honoraires consentis au premier conseil en vertu de cet article.</td>
+<td>Pour un second avocat, si le juge le permet, il est alloué les 2/3 des honoraires consentis au premier avocat en vertu de cet article.</td>
 <td></td>
 </tr>
 <tr>
 <td>85</td>
-<td>Un honoraire de conseil pour services rendus en cour ou hors de cour pour effectuer le règlement ou le compromis d’une réclamation ou d’une procédure, ou pour toute tentative dans ce but, est à la discrétion de l’officier taxateur et peut être calculé à titre de commission ou pourcentage sur la somme recouvrée ou faisant l’objet de la défense, ou sur la valeur des biens en cause, ou sur toute autre base que l’officier taxateur juge convenable.</td>
+<td>Un honoraire d’avocat pour services rendus en cour ou hors de cour pour effectuer le règlement ou le compromis d’une réclamation ou d’une procédure, ou pour toute tentative dans ce but, est à la discrétion de l’officier taxateur et peut être calculé à titre de commission ou pourcentage sur la somme recouvrée ou faisant l’objet de la défense, ou sur la valeur des biens en cause, ou sur toute autre base que l’officier taxateur juge convenable.</td>
 <td></td>
 </tr>
 <tr>
@@ -2299,7 +2300,7 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 </tr>
 <tr>
 <td>87</td>
-<td>L’officier taxateur peut à sa discrétion allouer des honoraires et allocations justes et raisonnables pour des services nécessaires et convenables qui ont été rendus par des procureurs et conseils lorsque le tarif ne pourvoit à aucun honoraire ou allocation.</td>
+<td>L’officier taxateur peut à sa discrétion allouer des honoraires et allocations justes et raisonnables pour des services nécessaires et convenables qui ont été rendus par des avocats lorsque le tarif ne pourvoit à aucun honoraire ou allocation.</td>
 <td></td>
 </tr>
 </table>
@@ -2351,7 +2352,7 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 <table>
 <tr>
 <td>89</td>
-<td>Les honoraires et allocations selon le tarif de la cour de comté, la cour de district ou la cour de magistrat.</td>
+<td>Les honoraires et allocations à payer aux témoins sont ceux en vigueur dans chaque province ou territoire.</td>
 <td></td>
 </tr>
 </table>
@@ -2396,7 +2397,7 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 <td></td>
 </tr>
 <tr>
-<td>**b)** le débiteur a été mis en faillite à la suite d’une ordonnance de séquestre rendue en vertu du paragraphe 43(9) de la Loi, a déposé une cession conformément au paragraphe 50(4.1) de la Loi ou est réputé avoir fait une cession selon les paragraphes 50.4(8) ou (11), l’alinéa 57a) ou les paragraphes 61(2) ou 63(4) de la Loi.
+<td>**b)** le débiteur a été mis en faillite à la suite d’une ordonnance de faillite rendue en vertu du paragraphe 43(6) de la Loi, a déposé une cession conformément au paragraphe 50(4.1) de la Loi ou est réputé avoir fait une cession selon les paragraphes 50.4(8) ou (11), l’alinéa 57a) ou les paragraphes 61(2) ou 63(4) de la Loi.
 
 </td>
 <td></td>
@@ -2419,7 +2420,7 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 <td>150 $</td>
 </tr>
 <tr>
-<td>**b)** dans le cas de l’administrateur, pour tous les services judiciaires fournis dans le cadre d’une proposition de consommateur (section II de la partie III de la Loi), un droit unique de 
+<td>**b)** dans le cas de l’administrateur, pour tous les services judiciaires fournis dans le cadre d’une proposition de consommateur (section II de la partie III de la Loi), un droit unique de 
 
 </td>
 <td>50 $</td>
@@ -2436,43 +2437,43 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 <td></td>
 </tr>
 <tr>
-<td>**a)** requête en vue d’une ordonnance de séquestre 
+<td>**a)** requête en vue d’une ordonnance de faillite 
 
 </td>
 <td>150 $</td>
 </tr>
 <tr>
-<td>**b)** requête pour la nomination d’un séquestre intérimaire 
+<td>**b)** requête ou motion pour la nomination d’un séquestre intérimaire 
 
 </td>
 <td>50 $</td>
 </tr>
 <tr>
-<td>**c)** requête selon les articles 248 ou 249 de la Loi 
+<td>**c)** requête ou motion selon les articles 248 ou 249 de la Loi 
 
 </td>
 <td>50 $</td>
 </tr>
 <tr>
-<td>**d)** requête pour mode spécial de signification 
+<td>**d)** requête ou motion pour mode spécial de signification 
 
 </td>
 <td>10 $</td>
 </tr>
 <tr>
-<td>**e)** toute autre requête :
+<td>**e)** toute autre requête ou motion :
 
 </td>
 <td></td>
 </tr>
 <tr>
-<td>**(i)** dans une faillite ordinaire ou une proposition visée à la section I de la partie III de la Loi 
+<td>**(i)** dans une faillite ordinaire ou une proposition visée à la section I de la partie III de la Loi 
 
 </td>
 <td>50 $</td>
 </tr>
 <tr>
-<td>**(ii)** dans une faillite sommaire ou une proposition visée à la section II de la partie III de la Loi 
+<td>**(ii)** dans une faillite sommaire ou une proposition visée à la section II de la partie III de la Loi 
 
 </td>
 <td>10 $</td>
@@ -2600,15 +2601,15 @@ le coût de l’impression et du port, ou, s’il est moindre
 
 
 
-**l)** pour les 100 premiers avis et autres documents, 0,07 $ par folio,
+**l)** pour les 100 premiers avis et autres documents, 0,07 $ par folio,
 
 
 
-**m)** pour les 200 avis suivants et autres documents, 0,05 $ par folio,
+**m)** pour les 200 avis suivants et autres documents, 0,05 $ par folio,
 
 
 
-**n)** pour toute quantité dépassant 300 avis et autres documents, 0,02 $ par folio,
+**n)** pour toute quantité dépassant 300 avis et autres documents, 0,02 $ par folio,
 
 
 
@@ -2638,7 +2639,7 @@ Aucun déboursé n’est payable aux syndics à l’égard
 
 
 
-**c)** des avis prévus à l’article 120,
+**c)** des avis prévus à l’article 120,
 
 
 
@@ -2659,7 +2660,7 @@ Aucun déboursé n’est payable aux syndics à l’égard
 
 
 
-> DORS/78-389, art. 6; DORS/96-473, art. 2 à 4; DORS/98-240, art. 2.
+> DORS/78-389, art. 6; DORS/96-473, art. 2 à 4; DORS/98-240, art. 2; DORS/2007-61, art. 35 à 39, 40(F), 41, 42, 43(F), 44(F), 45, 46(F), 47(F), 48, 49(A), 50(A), 51 à 53, 54(F), 55 à 58, 59(A), 60 à 62, 63(A), 64, 66(F) et 67.
 
 
 
