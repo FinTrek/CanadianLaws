@@ -22120,15 +22120,11 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 
 ### **SCHEDULE I** 
 **(Section 14)**
-## As at June 1, 2006
+## As at December 31, 2006
 <table>
 <tr>
 <th>Name of Bank</th>
 <th>Head Office</th>
-</tr>
-<tr>
-<td>Amicus Bank</td>
-<td>Ontario</td>
 </tr>
 <tr>
 <td>Bank of Montreal</td>
@@ -22141,6 +22137,10 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 <tr>
 <td>Bank West</td>
 <td>Alberta</td>
+</tr>
+<tr>
+<td>BCPBank Canada</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Bridgewater Bank</td>
@@ -22167,7 +22167,7 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 <td>Ontario</td>
 </tr>
 <tr>
-<td>Dundee Wealth Bank</td>
+<td>Dundee Bank of Canada</td>
 <td>Ontario</td>
 </tr>
 <tr>
@@ -22216,14 +22216,14 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 </tr>
 </table>
 
-> 1991, c. 46, Sch. I; 2005, c. 54, s. 139; Canada Gazette Part I, Volume 140, page 1760.
+> 1991, c. 46, Sch. I; 2005, c. 54, s. 139; Canada Gazette Part I, Volume 141, page 790.
 
 
 
 
 ### **SCHEDULE II** 
 **(Section 14)**
-## As at June 1, 2006
+## As at December 31, 2006
 <table>
 <tr>
 <th>Name of Bank</th>
@@ -22258,10 +22258,6 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 <td>Ontario</td>
 </tr>
 <tr>
-<td>BCPBank Canada</td>
-<td>Ontario</td>
-</tr>
-<tr>
 <td>BNP Paribas (Canada)</td>
 <td>Quebec</td>
 </tr>
@@ -22290,15 +22286,11 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 <td>Ontario</td>
 </tr>
 <tr>
-<td>International Commercial Bank of Cathay (Canada)</td>
+<td>J.P. Morgan Bank Canada</td>
 <td>Ontario</td>
 </tr>
 <tr>
 <td>J.P. Morgan Canada</td>
-<td>Ontario</td>
-</tr>
-<tr>
-<td>J.P. Morgan Bank Canada</td>
 <td>Ontario</td>
 </tr>
 <tr>
@@ -22307,6 +22299,10 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 </tr>
 <tr>
 <td>MBNA Canada Bank</td>
+<td>Ontario</td>
+</tr>
+<tr>
+<td>Mega International Commercial Bank (Canada)</td>
 <td>Ontario</td>
 </tr>
 <tr>
@@ -22331,14 +22327,14 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 </tr>
 </table>
 
-> 1991, c. 46, Sch. II; 2005, c. 54, s. 139; Canada Gazette Part I, Volume 140, page 1760.
+> 1991, c. 46, Sch. II; 2005, c. 54, s. 139; Canada Gazette Part I, Volume 141, page 790.
 
 
 
 
 ### **SCHEDULE III** 
 **(Section 14.1)**
-## As at June 1, 2006
+## As at December 31, 2006
 <table>
 <tr>
 <td>Name of Authorized Foreign Bank (FB)</td>
@@ -22443,6 +22439,12 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 <td>Ontario</td>
 </tr>
 <tr>
+<td>The Northern Trust Company</td>
+<td>The Northern Trust Company, Canada Branch</td>
+<td>Full-service</td>
+<td>Ontario</td>
+</tr>
+<tr>
 <td>Ohio Savings Bank</td>
 <td>Ohio Savings Bank, Canadian Branch</td>
 <td>Lending</td>
@@ -22493,7 +22495,7 @@ so long as it does not use, in any language, the word “bank”, “banker” o
 </table>
 
 
-<a name='c54_SchIII_e'><sup>*</sup></a>: An FBB whose order is subject to the restrictions and requirements referred to in subsection 524(2) of the  Bank Act, is referred to as a “lending” branch.<br />
-> 1999, c. 28, s. 75; 2005, c. 54, s. 139; Canada Gazette Part I, Volume 140, page 1760.
+<a name='c54_SchIII_e'><sup>*</sup></a>: An FBB, whose order is subject to the restrictions and requirements referred to in subsection 524(2) of the Bank Act, is referred to as a “lending” branch.<br />
+> 1999, c. 28, s. 75; 2005, c. 54, s. 139; Canada Gazette Part I, Volume 141, page 790.
 
 
