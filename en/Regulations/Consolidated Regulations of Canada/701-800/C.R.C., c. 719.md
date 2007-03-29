@@ -31,7 +31,7 @@ Enabling authorities:
 - **(3)** Despite items 3, 6 and 13 of the Schedule, if a person under one year of age has been issued a travel document valid for a period of three years or less, that person may obtain, before the expiry date of the original document, another travel document without paying a fee if the travel document to be replaced is returned at the same time as the application for the new travel document.
 
 - **(4)** The fees set out in paragraphs 18(a) and (b) and in item 19 of the schedule do not apply in respect of a person who requests any of the passport services referred to in those provisions in order to travel outside Canada in support of any humanitarian operation conducted in response to a natural disaster or human conflict, including rescue, relief and reconstruction operations, if the person provides an official document to the Passport Office from an appropriate authority attesting to the person’s participation in the humanitarian operation.
-> SOR/2001-535, s. 1.
+> SOR/2001-535, s. 1; SOR/2007-68, s. 1(F).
 
 
 
@@ -264,6 +264,6 @@ where
 </tr>
 </table>
 
-> SOR/80-368, s. 1; SOR/82-909, s. 1; SOR/88-53, s. 1; SOR/92-49, s. 1; SOR/2001-535, s. 3.
+> SOR/80-368, s. 1; SOR/82-909, s. 1; SOR/88-53, s. 1; SOR/92-49, s. 1; SOR/2001-535, s. 3; SOR/2007-68, s. 2(F).
 
 
