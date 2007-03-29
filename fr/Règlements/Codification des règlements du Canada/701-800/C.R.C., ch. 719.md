@@ -28,10 +28,10 @@ Autorités habilitantes :
 
 - **(2)** Si le Bureau des passeports doit, pour fournir un ou plusieurs services de passeports mentionnés à l’un des articles 1 à 17 de l’annexe dans le délai exigé par le bénéficiaire du service, ouvrir, au Canada, un bureau de délivrance de passeports en dehors des heures normales de travail, le bénéficiaire doit payer le droit additionnel indiqué à l’article 19 de l’annexe.
 
-- **(3)** Malgré les articles 3, 6 et 13 de l’annexe, la personne de moins de un an qui détient un document de voyage d’une durée de validité d’au plus trois ans peut, avant l’expiration de celui-ci, en obtenir un autre sans payer de droit, si le titre de voyage à remplacer est remis au moment de la demande.
+- **(3)** Malgré les articles 3, 6 et 13 de l’annexe, la personne de moins de un an qui détient un document de voyage d’une durée de validité d’au plus trois ans peut, avant l’expiration de celui-ci, en obtenir un autre sans payer de droit, si le document de voyage à remplacer est remis au moment de la demande.
 
 - **(4)** Les droits visés aux alinéas 18a) et b) et à l’article 19 de l’annexe ne s’appliquent pas à la personne qui demande la prestation de l’un des services de passeports qui y sont visés dans le but de voyager à l’extérieur du Canada dans le cadre de toute opération de service humanitaire — y compris le sauvetage, le secours et la reconstruction — menée à la suite d’un désastre naturel ou d’un conflit, si la personne fournit au Bureau des passeports un document officiel émanant de l’autorité compétente et attestant sa participation à l’opération de service humanitaire.
-> DORS/2001-535, art. 1.
+> DORS/2001-535, art. 1; DORS/2007-68, art. 1(F).
 
 
 
@@ -216,7 +216,7 @@ où :
 </tr>
 <tr>
 <td>14</td>
-<td>Prorogation — sauf à des fins officielles — d’un passeport ou document de voyage</td>
+<td>Prorogation d’un passeport — sauf à des fins officielles — ou d’un document de voyage</td>
 <td>12,00</td>
 </tr>
 <tr>
@@ -264,6 +264,6 @@ où :
 </tr>
 </table>
 
-> DORS/80-368, art. 1; DORS/82-909, art. 1; DORS/88-53, art. 1; DORS/92-49, art. 1; DORS/2001-535, art. 3.
+> DORS/80-368, art. 1; DORS/82-909, art. 1; DORS/88-53, art. 1; DORS/92-49, art. 1; DORS/2001-535, art. 3; DORS/2007-68, art. 2(F).
 
 
