@@ -1,6 +1,6 @@
 > [Aller à la version anglaise](/en/Acts/Statutes%20of%20Canada/2004/c.%2015.md)
 
-# Loi modifiant certaines lois fédérales et édictant des mesures de mise en oeuvre de la convention sur les armes biologiques ou à toxines, en vue de renforcer la sécurité publique
+# Loi de 2002 sur la sécurité publique
 
 **L.C. 2004, ch. 15**
 
@@ -11,7 +11,7 @@ Sanctionnée sur le 6 mai 2004
 
 
 
-Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
 
 
@@ -174,7 +174,7 @@ Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des c
 
 
 **PARTIE 5** 
-## Loi sur le ministère de la Citoyenneté et de l’Immigration
+## Loi sur le ministère de la citoyenneté et de l’immigration
 
 
 **33** [Modification]
@@ -415,7 +415,7 @@ Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des c
 
 
 **PARTIE 14** 
-## Loi sur l’Office national de l’énergie
+## Loi sur l’office national de l’énergie
 
 
 **82** [Modification]
@@ -582,7 +582,7 @@ Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des c
 
 
 
-#### Loi sur l'accès à l'information
+#### Loi sur l’accès à l’information
 
 
 **107** [Modification]
@@ -614,7 +614,7 @@ Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des c
 
 
 
-#### Loi sur le Tribunal d'appel des transports du Canada
+#### Loi sur le Tribunal d’appel des transports du Canada
 
 
 **111** [Modifications]
@@ -644,7 +644,7 @@ Sa Majesté, sur l'avis et avec le consentement du Sénat et de la Chambre des c
 
 - **(2)** Tout alinéa, sous-alinéa ou autre partie de la définition de ***infraction*** , à l’article 183 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), dans sa version édictée par l’article 108 de la présente loi, entre en vigueur à la date ou aux dates fixées par décret.
 
-<a name='P-31.5_s112_f'><sup>*</sup></a>: [Note : Articles 1 et 109 à 111.1 en vigueur à la sanction le 6 mai 2004; articles 24, 25, 95, 96, 98 et 107, partie 1, sauf l’article 4.82, édictée par l’article 5 et alinéa 8.1(1)c) et paragraphes 8.1(2) à (7), édictés par l’article 104, en vigueur le 11 mai 2004, a5 TR/2004-51; la définition de ***état d’urgence*** au paragraphe 2(1), édictée par l’article 74 et articles 75, 76 et 79 en vigueur le 21 mai 2004, *voir* TR/2004-57; articles 97, 100 et 101 en vigueur le 1<sup>er</sup> juin 2004, *voir* TR/2004-53; articles 33 et 70 à 72 en vigueur le 28 juin 2004, *voir* TR/2004-66; partie 3 en vigueur le 1<sup>er</sup> octobre 2004, *voir* TR/2004-115; articles 34, 66 à 69, 99, 102 et 103 en vigueur le 13 octobre 2004, *voir* TR/2004-137; article 11.1, édicté par l’article 73, en vigueur le 1<sup>er</sup> décembre 2004, *voir* TR/2004-114; articles 82 à 93 en vigueur le 20 avril 2005, *voir* TR/2005-37.]<br />
+<a name='P-31.5_s112_f'><sup>*</sup></a>: [Note : Articles 1 et 109 à 111.1 en vigueur à la sanction le 6 mai 2004; articles 24, 25, 95, 96, 98 et 107, partie 1, sauf l’article 4.82, édictée par l’article 5 et alinéa 8.1(1)c) et paragraphes 8.1(2) à (7), édictés par l’article 104, en vigueur le 11 mai 2004, *voir* TR/2004-51; la définition de ***état d’urgence*** au paragraphe 2(1), édictée par l’article 74 et articles 75, 76 et 79 en vigueur le 21 mai 2004, *voir* TR/2004-57; articles 97, 100 et 101 en vigueur le 1<sup>er</sup> juin 2004, *voir* TR/2004-53; articles 33 et 70 à 72 en vigueur le 28 juin 2004, *voir* TR/2004-66; partie 3 en vigueur le 1<sup>er</sup> octobre 2004, *voir* TR/2004-115; articles 34, 66 à 69, 99, 102 et 103 en vigueur le 13 octobre 2004, *voir* TR/2004-137; article 11.1, édicté par l’article 73, en vigueur le 1<sup>er</sup> décembre 2004, *voir* TR/2004-114; articles 82 à 93 en vigueur le 20 avril 2005, *voir* TR/2005-37; partie 8 en vigueur le 31 mars 2007, *voir* TR/2007-32.]<br />
 
 
 
