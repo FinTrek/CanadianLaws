@@ -1,6 +1,6 @@
 > [Aller à la version anglaise](/en/Acts/Statutes%20of%20Canada/1997/c.%2040.md)
 
-# Loi sur l'Office d'investissement du régime de pensions du Canada
+# Loi sur l’Office d’investissement du régime de pensions du Canada
 
 **L.C. 1997, ch. 40**
 
@@ -37,17 +37,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***entité*** Personne morale, fiducie, société de personnes, fonds, organisation ou association non dotée de la personnalité morale, de même que Sa Majesté du chef du Canada ou d’une province et ses organismes et le gouvernement d’un pays étranger ou de l’une de ses subdivisions politiques et ses organismes.
+***entité*** Personne morale, fiducie, société de personnes, fonds, organisation ou association non dotée de la personnalité morale, de même que Sa Majesté du chef du Canada ou d’une province et ses organismes et le gouvernement d’un pays étranger ou de l’une de ses subdivisions politiques et ses organismes. (*entity*)
 
-***filiale*** Personne morale appartenant à cent pour cent à l’Office, soit directement, soit par l’intermédiaire de filiales dont chacune appartient à cent pour cent, même indirectement, à l’Office.
+***filiale*** Personne morale appartenant à cent pour cent à l’Office, soit directement, soit par l’intermédiaire de filiales dont chacune appartient à cent pour cent, même indirectement, à l’Office. (*subsidiary*)
 
-***ministre*** Le ministre des Finances.
+***ministre*** Le ministre des Finances. (*Minister*)
 
-***ministre provincial compétent*** Le ministre de qui relève au premier chef l’administration des finances de la province.
+***ministre provincial compétent*** Le ministre de qui relève au premier chef l’administration des finances de la province. (*appropriate provincial Minister*)
 
-***Office*** L’Office d’investissement du régime de pensions du Canada constitué en vertu de l’article 3.
+***Office*** L’Office d’investissement du régime de pensions du Canada constitué en vertu de l’article 3. (*Board*)
 
-***province participante*** S’entend d’une province autre qu’un territoire ou autre qu’une province instituant un régime général de pensions au sens du paragraphe 3(1) du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md).
+***province participante*** S’entend d’une province autre qu’un territoire ou autre qu’une province instituant un régime général de pensions au sens du paragraphe 3(1) du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md). (*participating province*)
 
 ***titre désigné***
 - **a)** Soit une obligation qui :
@@ -55,8 +55,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **(ii)** à l’égard du Canada, en est une du gouvernement du Canada et, à l’égard d’une province, en est une du gouvernement de celle-ci, ou en est une d’un mandataire de Sa Majesté du chef de la province, garantie, quant au principal et à l’intérêt, par le gouvernement de la province,
 	- **(iii)** satisfait aux conditions énoncées à l’article 111 du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md) dans sa version antérieure au 1<sup>er</sup> avril 1998;
 - **b)** soit une obligation qui :
-	- **(i)** le 1<sup>er</sup> avril 1998 ou après cette date, est achetée par le ministre des Finances en application de l’article 110 du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md),
-	- **(ii)** en est une du gouvernement d’une province ou en est une d’un mandataire de Sa Majesté du chef de la province, garantie, quant au principal et à l’intérêt, par le gouvernement de la province.
+	- **(i)** le 1<sup>er</sup> avril 1998 ou après cette date, soit a été achetée par le ministre des Finances en application de l’article 110 du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), soit est achetée par l’Office en application de l’article 6.1,
+	- **(ii)** en est une du gouvernement d’une province ou en est une d’un mandataire de Sa Majesté du chef de la province, garantie, quant au principal et à l’intérêt, par le gouvernement de la province. (*designated security*)
 
 ***tribunal***
 - **a)** La Cour de l’Ontario (Division générale);
@@ -64,7 +64,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **c)** la Cour suprême de la Nouvelle-Écosse ou de la Colombie-Britannique;
 - **d)** la Cour du Banc de la Reine du Nouveau-Brunswick, du Manitoba, de la Saskatchewan ou de l’Alberta;
 - **e)** la Section de première instance de la Cour suprême de l’Île-du-Prince-Édouard ou de Terre-Neuve;
-- **f)** la Cour suprême du Yukon, la Cour suprême des Territoires du Nord-Ouest ou la Cour de justice du Nunavut.
+- **f)** la Cour suprême du Yukon, la Cour suprême des Territoires du Nord-Ouest ou la Cour de justice du Nunavut. (*court*)
 > 1997, ch. 40, art. 2; 1999, ch. 3, art. 19; 2002, ch. 7, art. 112(A); 2003, ch. 5, art. 12.
 
 
@@ -148,6 +148,60 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Validité des actes**
 
 - **(3)** Les actes de l’Office, notamment en matière de transfert de biens, ne sont pas nuls au seul motif qu’ils ont été accomplis sans pouvoir habilitant.
+
+
+
+
+## Titres désignés
+
+
+
+**Remplacement de titre**
+
+**6.1** 
+
+- **(1)** À l’échéance d’un titre désigné d’une province qui a été émis avant le 1<sup>er</sup> janvier 1998, l’Office achète un autre titre émis par la province si le ministre provincial compétent lui en fait la demande par écrit au moins trente jours avant la date de l’échéance.
+
+**Principal**
+
+- **(2)** La valeur nominale d’un nouveau titre ne peut être supérieure au principal impayé du titre désigné arrivant à échéance.
+
+**Durée**
+
+- **(3)** Le nouveau titre est émis pour vingt ans.
+
+**Intérêts**
+
+- **(4)** Les intérêts sur le nouveau titre sont au taux fixé par l’Office, conformément à tout accord qu’il a conclu avec le ministre. Le taux est à un niveau sensiblement égal à celui que la province serait tenue de payer si elle empruntait la même somme pour la même période pour un titre émis sur le marché financier libre.
+
+**Conditions**
+
+- **(5)** Le nouveau titre est contracté envers l’Office ou payable à celui-ci; le titre est émis comme n’étant ni négociable, ni transférable, ni cessible.
+
+**Rachat de titres à la demande d’une province**
+
+- **(6)** L’Office rachète un titre désigné en tout ou en partie avant échéance si, à la fois :
+	- **a)** le ministre provincial compétent lui en fait la demande par écrit au moins trente jours avant la date de rachat proposée;
+	- **b)** le ministre provincial compétent accepte de payer ce qui suit à la date de rachat proposée :
+		- **(i)** le principal et l’intérêt dus et non encore payés à cette date,
+		- **(ii)** l’intérêt sur le principal racheté accumulé jusqu’à cette date,
+		- **(iii)** une somme égale à la valeur actualisée du principal racheté impayé et de l’intérêt sur celui-ci.
+
+**Valeur actualisée des titres**
+
+- **(7)** La valeur actualisée du principal racheté impayé est calculée par actualisation des versements en fonction d’un taux d’intérêt, fixé par l’Office conformément à tout accord qu’il a conclu avec le ministre des Finances, qui correspond :
+	- **a)** si le titre désigné à racheter a été émis avant le 1<sup>er</sup> janvier 1998, à un taux sensiblement égal à celui que le gouvernement du Canada serait tenu de payer s’il empruntait le montant du principal à racheter, pour une période égale au reste de l’échéance, en émettant un titre sur le marché financier libre;
+	- **b)** si le titre désigné à racheter a été émis le 1<sup>er</sup> janvier 1998 ou après cette date, à un taux sensiblement égal à celui que la province serait tenue de payer si elle empruntait le montant du principal à racheter, pour une période égale au reste de l’échéance, en émettant un titre sur le marché financier libre.
+
+**Unification des titres**
+
+- **(8)** À la demande du trésorier provincial ou d’un autre semblable fonctionnaire d’une province, l’Office peut accepter, à la place d’une série de titres désignés de cette province achetés au cours de toute période ininterrompue d’au plus douze mois, sur paiement de l’intérêt couru sur ces titres, une autre garantie de cette province d’un montant égal à l’ensemble alors en circulation des titres désignés de cette série, laquelle garantie porte intérêt à un taux que fixe l’Office.
+
+**Obligation garantie par le gouvernement provincial**
+
+- **(9)** Le titre acheté par l’Office en application du présent article doit être une obligation du gouvernement d’une province ou une obligation d’un mandataire de Sa Majesté du chef de la province, garantie, quant au principal et à l’intérêt, par ce gouvernement.
+> 2003, ch. 5, art. 14.
+
 
 
 
@@ -1138,7 +1192,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Responsabilité de l’Office**
 
-**56** L’Office verse au Trésor les sommes exigées en vertu des paragraphes 108.1(2) et 113(1.1) du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md). Ces sommes sont portées au crédit du compte du régime de pensions du Canada ouvert en application du paragraphe 108(1) de cette loi.
+**56** 
+
+- **(1)** L’Office verse au Trésor les sommes exigées en vertu des paragraphes 108.1(2) et 113(1.1) du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md). Ces sommes sont portées au crédit du compte du régime de pensions du Canada ouvert en application du paragraphe 108(1) de cette loi.
+
+**Transfert des titres**
+
+- **(2)** L’Office transfère au ministre les titres désignés d’une province ou du Canada que celui-ci exige en vertu du paragraphe 113(1.1) du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md).
 > 1997, ch. 40, art. 56; 2003, ch. 5, art. 18.
 
 
