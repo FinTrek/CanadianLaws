@@ -408,11 +408,13 @@ Ces biens sont des biens dans lesquels Sa Majesté a un droit de bénéficiaire 
 
 **21** 
 
-- **(1)** La somme dont un transporteur aérien autorisé est redevable au receveur général en vertu de la présente loi est réputée nulle si le total des sommes dont il est ainsi redevable est égal ou inférieur à 2 $.
+- **(1)** La somme dont un transporteur aérien autorisé est redevable au receveur général en vertu de la présente loi est réputée nulle si le total des sommes dont il est ainsi redevable est égal ou inférieur à 2 $.
 
 **Sommes minimes**
 
-- **(2)** Dans le cas où le total des sommes à payer par le ministre à un transporteur aérien autorisé en vertu de la présente loi est égal ou inférieur à 2 $, le ministre n’est pas tenu de les verser. Il peut toutefois les déduire d’une somme dont le transporteur est redevable.
+- **(2)** Si, à un moment donné, le total des sommes à payer par le ministre à un transporteur aérien autorisé en vertu de la présente loi est égal ou inférieur à 2 $, le ministre peut les déduire de toute somme dont le transporteur est alors redevable à Sa Majesté. Toutefois, si le transporteur n’est alors redevable d’aucune somme à Sa Majesté, les sommes à payer par le ministre sont réputées nulles.
+> 2002, ch. 9, art. 5 « 21 »; 2006, ch. 4, art. 99.
+
 
 
 
@@ -502,11 +504,17 @@ Ces biens sont des biens dans lesquels Sa Majesté a un droit de bénéficiaire 
 
 **27** 
 
-- **(1)** La personne qui ne verse pas une somme au receveur général selon les modalités prévues sous le régime de la présente loi est tenue de payer des intérêts, au taux réglementaire, calculés et composés quotidiennement sur cette somme pour la période commençant le lendemain de l’expiration du délai de versement et se terminant le jour du versement. Le présent paragraphe ne s’applique pas à la pénalité imposée en vertu du paragraphe 53(1).
+- **(1)** La personne qui ne verse pas une somme au receveur général selon les modalités prévues sous le régime de la présente loi est tenue de payer des intérêts, au taux réglementaire, calculés et composés quotidiennement sur cette somme pour la période commençant le lendemain de l’expiration du délai de versement et se terminant le jour du versement.
 
 **Paiement des intérêts composés**
 
 - **(2)** Pour l’application du paragraphe (1), les intérêts qui sont composés un jour donné sur la somme impayée d’une personne sont réputés être à payer par elle au receveur général à la fin du jour donné. Si la personne ne paie pas ces intérêts au plus tard à la fin du jour suivant, ils sont ajoutés à la somme impayée à la fin du jour donné.
+
+**Renonciation**
+
+- **(3)** Si le ministre met une personne en demeure de verser dans un délai précis la totalité des sommes dont elle est redevable en vertu de la présente loi à la date de la mise en demeure, et que la personne s’exécute, il doit renoncer aux intérêts qui s’appliqueraient par ailleurs au montant visé par la mise en demeure pour la période commençant le lendemain de la date de la mise en demeure et se terminant le jour du versement.
+> 2002, ch. 9, art. 5 « 27 »; 2006, ch. 4, art. 101.
+
 
 
 
@@ -527,7 +535,15 @@ Ces biens sont des biens dans lesquels Sa Majesté a un droit de bénéficiaire 
 
 **Renonciation ou réduction — intérêts**
 
-**30** Le ministre peut, en tout temps, réduire les intérêts à payer par une personne en application de la présente loi, ou y renoncer.
+**30** 
+
+- **(1)** Le ministre peut, au plus tard le jour qui suit de dix années civiles la fin d’un mois d’exercice d’une personne, réduire les intérêts à payer par celle-ci en application de la présente loi sur toute somme dont elle est redevable en vertu de la présente loi pour le mois, ou y renoncer.
+
+**Intérêts sur somme réduite ou à laquelle il est renoncé**
+
+- **(2)** Si une personne a payé un montant d’intérêts que le ministre a réduit en tout ou en partie, ou auquel il a renoncé en tout ou en partie, en vertu du paragraphe (1), le ministre verse, sur la partie du montant qui a fait l’objet de la réduction ou de la renonciation, des intérêts calculés au taux réglementaire pour la période commençant le trentième jour suivant le jour où il a reçu, d’une manière qu’il juge acceptable, une demande en vue de l’application de ce paragraphe et se terminant le jour où la partie de montant est remboursée à la personne.
+> 2002, ch. 9, art. 5 « 30 »; 2006, ch. 4, art. 102.
+
 
 
 
@@ -773,11 +789,13 @@ Ces biens sont des biens dans lesquels Sa Majesté a un droit de bénéficiaire 
 
 **Restriction**
 
-- **(4)** Le remboursement n’est versé qu’une fois présentés au ministre l’ensemble des déclarations et autres registres à produire en vertu de la présente loi.
+- **(4)** Le remboursement n’est versé qu’une fois présentés au ministre l’ensemble des déclarations et autres registres dont il a connaissance et qui sont à produire en vertu de la présente loi, de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) et de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md).
 
 **Intérêts**
 
 - **(5)** Le ministre paie à la personne à qui une somme est remboursée des intérêts au taux réglementaire calculés sur la somme pour la période commençant le trentième jour suivant la production de la demande de remboursement et se terminant le jour où le remboursement est versé.
+> 2002, ch. 9, art. 5 « 40 »; 2006, ch. 4, art. 104.
+
 
 
 
@@ -1114,19 +1132,13 @@ Ces biens sont des biens dans lesquels Sa Majesté a un droit de bénéficiaire 
 
 
 
-**Pénalité**
+**Défaut de produire une déclaration**
 
-**53** 
+**53** Quiconque omet de produire une déclaration pour un mois d’exercice selon les modalités prévues sous le régime de la présente loi est tenu de payer une pénalité égale à la somme des montants suivants :
+- **a)** le montant correspondant à 1 % du total des sommes représentant chacune une somme qui est à verser pour le mois d’exercice, mais qui ne l’a pas été au plus tard à la date limite où la déclaration devait être produite;
+- **b)** le produit du quart du montant déterminé selon l’alinéa a) par le nombre de mois entiers, jusqu’à concurrence de douze, compris dans la période commençant à la date limite où la déclaration devait être produite et se terminant le jour où elle est effectivement produite.
+> 2002, ch. 9, art. 5 « 53 »; 2006, ch. 4, art. 105.
 
-- **(1)** Sous réserve des autres dispositions du présent article et de l’article 54, la personne qui omet de verser une somme au receveur général selon les modalités prévues sous le régime de la présente loi doit payer, sur la somme impayée, une pénalité de 6 % par année composée quotidiennement et calculée pour la période commençant le lendemain de la date limite pour le versement de la somme et se terminant le jour de son versement.
-
-**Aucune pénalité en cas de garantie**
-
-- **(2)** Si, un jour donné, le ministre détient une garantie aux termes de l’article 73 relativement à une somme exigible d’une personne en vertu de la présente loi, la pénalité prévue au présent article ne s’applique le jour donné que dans la mesure où le total des sommes exigibles de la personne en vertu de la présente loi qui sont impayées ce jour-là dépasse la valeur de la garantie au moment où le ministre l’a acceptée.
-
-**Renonciation**
-
-- **(3)** Si le ministre met une personne en demeure de verser dans un délai précis la totalité des sommes exigibles en vertu de la présente loi à la date de la mise en demeure, et que la personne s’exécute, il doit renoncer aux pénalités et intérêts qui s’appliqueraient par ailleurs au montant visé par la mise en demeure pour la période commençant le lendemain de la mise en demeure et se terminant le jour du versement.
 
 
 
@@ -1137,7 +1149,15 @@ Ces biens sont des biens dans lesquels Sa Majesté a un droit de bénéficiaire 
 
 **Renonciation ou annulation — pénalités**
 
-**55** Le ministre peut annuler la pénalité à payer par une personne en application de l’article 53, ou y renoncer.
+**55** 
+
+- **(1)** Le ministre peut, au plus tard le jour qui suit de dix années civiles la fin d’un mois d’exercice d’une personne, annuler toute pénalité à payer par celle-ci en application de l’article 53 pour le mois, ou y renoncer.
+
+**Intérêts sur somme annulée ou à laquelle il est renoncé**
+
+- **(2)** Si une personne a payé un montant de pénalité que le ministre a annulé, ou auquel il a renoncé, en vertu du paragraphe (1), le ministre verse des intérêts sur le montant payé par la personne, pour la période commençant le trentième jour suivant le jour où il a reçu, d’une manière qu’il juge acceptable, une demande en vue de l’application de ce paragraphe et se terminant le jour où le montant est remboursé à la personne.
+> 2002, ch. 9, art. 5 « 55 »; 2006, ch. 4, art. 107.
+
 
 
 
@@ -1360,16 +1380,13 @@ Ces biens sont des biens dans lesquels Sa Majesté a un droit de bénéficiaire 
 
 **72** 
 
-- **(1)** Les définitions qui suivent s'appliquent au présent article.
+- **(1)** Les définitions qui suivent s’appliquent au présent article.
 
-***action*** Toute action en recouvrement d'une dette fiscale d'une personne, y compris les procédures judiciaires et toute mesure prise par le ministre en vertu de l'un des articles 74 à 79.
+***action*** Toute action en recouvrement d’une dette fiscale d’une personne, y compris les procédures judiciaires et toute mesure prise par le ministre en vertu de l’un des articles 74 à 79.
 
+***dette fiscale*** Toute somme exigible d’une personne sous le régime de la présente loi.
 
-***dette fiscale*** Toute somme exigible d'une personne sous le régime de la présente loi.
-
-
-***représentant légal*** Syndic de faillite, cessionnaire, liquidateur, curateur, séquestre de tout genre, fiduciaire, héritier, administrateur du bien d'autrui, liquidateur de succession, exécuteur testamentaire, conseil ou autre personne semblable, qui administre, liquide ou contrôle, en qualité de représentant ou de fiduciaire, les biens, les affaires, les activités commerciales ou les actifs qui appartiennent ou appartenaient à une personne ou à sa succession, ou qui sont ou étaient détenus pour leur compte, ou qui, en cette qualité, s'en occupe de toute autre façon.
-
+***représentant légal*** Syndic de faillite, cessionnaire, liquidateur, curateur, séquestre de tout genre, fiduciaire, héritier, administrateur du bien d’autrui, liquidateur de succession, exécuteur testamentaire, conseil ou autre personne semblable, qui administre, liquide ou contrôle, en qualité de représentant ou de fiduciaire, les biens, les affaires, les activités commerciales ou les actifs qui appartiennent ou appartenaient à une personne ou à sa succession, ou qui sont ou étaient détenus pour leur compte, ou qui, en cette qualité, s’en occupe de toute autre façon.
 
 **Créances de Sa Majesté**
 
@@ -1377,64 +1394,49 @@ Ces biens sont des biens dans lesquels Sa Majesté a un droit de bénéficiaire 
 
 **Procédures judiciaires**
 
-- **(2)** Une procédure judiciaire en vue du recouvrement de la dette fiscale d'une personne à l'égard d'une somme pouvant faire l'objet d'une cotisation aux termes de la présente loi ne peut être intentée par le ministre que si, au moment où la procédure est intentée, la personne a fait l'objet d'une cotisation pour cette somme ou peut en faire l'objet.
+- **(2)** Une procédure judiciaire en vue du recouvrement de la dette fiscale d’une personne à l’égard d’une somme pouvant faire l’objet d’une cotisation aux termes de la présente loi ne peut être intentée par le ministre que si, au moment où la procédure est intentée, la personne a fait l’objet d’une cotisation pour cette somme ou peut en faire l’objet.
 
 **Prescription**
 
-- **(2.1)** Une action en recouvrement d'une dette fiscale ne peut être entreprise par le ministre après l'expiration du délai de prescription pour le recouvrement de la dette.
+- **(2.1)** Une action en recouvrement d’une dette fiscale ne peut être entreprise par le ministre après l’expiration du délai de prescription pour le recouvrement de la dette.
 
 **Délai de prescription**
 
-- **(2.2)** Le délai de prescription pour le recouvrement d'une dette fiscale d'une personne :
-	- **a)
-** commence à courir :
-		- **(i)** si un avis de cotisation, ou un avis visé au paragraphe 80(1), concernant la dette est, selon le cas, posté, ou posté ou signifié, à la personne après le 3 mars 2004, le dernier en date des jours où l'un de ces avis est posté ou signifié,
-		- **(ii)** si aucun des avis visés au sous-alinéa (i) n'a été posté ou signifié et que le premier jour où le ministre peut entreprendre une action en recouvrement de la dette est postérieur au 3 mars 2004, ce même jour,
+- **(2.2)** Le délai de prescription pour le recouvrement d’une dette fiscale d’une personne :
+	- **a)** commence à courir :
+		- **(i)** si un avis de cotisation, ou un avis visé au paragraphe 80(1), concernant la dette est, selon le cas, posté, ou posté ou signifié, à la personne après le 3 mars 2004, le dernier en date des jours où l’un de ces avis est posté ou signifié,
+		- **(ii)** si aucun des avis visés au sous-alinéa (i) n’a été posté ou signifié et que le premier jour où le ministre peut entreprendre une action en recouvrement de la dette est postérieur au 3 mars 2004, ce même jour,
 		- **(iii)** dans les autres cas, le 4 mars 2004;
-	- **b)
-** prend fin, sous réserve du paragraphe (2.6), dix ans après le jour de son début.
+	- **b)** prend fin, sous réserve du paragraphe (2.6), dix ans après le jour de son début.
 
 **Reprise du délai de prescription**
 
-- **(2.3)** Le délai de prescription pour le recouvrement d'une dette fiscale d'une personne recommence à courir — et prend fin, sous réserve du paragraphe (2.6), dix ans plus tard — le jour, antérieur à celui où il prendrait fin par ailleurs, où, selon le cas :
-	- **a)
-** la personne reconnaît la dette conformément au paragraphe (2.4);
-	- **b)
-** le ministre entreprend une action en recouvrement de la dette;
-	- **c)
-** le ministre établit, en vertu des paragraphes 75(8) ou 81(4), une cotisation à l'égard d'une autre personne concernant la dette.
+- **(2.3)** Le délai de prescription pour le recouvrement d’une dette fiscale d’une personne recommence à courir — et prend fin, sous réserve du paragraphe (2.6), dix ans plus tard — le jour, antérieur à celui où il prendrait fin par ailleurs, où, selon le cas :
+	- **a)** la personne reconnaît la dette conformément au paragraphe (2.4);
+	- **b)** le ministre entreprend une action en recouvrement de la dette;
+	- **c)** le ministre établit, en vertu des paragraphes 75(8) ou 81(4), une cotisation à l’égard d’une autre personne concernant la dette.
 
 **Reconnaissance de dette fiscale**
 
-- **(2.4)** Se reconnaît débitrice d'une dette fiscale la personne qui, selon le cas :
-	- **a)
-** promet, par écrit, de régler la dette;
-	- **b)
-** reconnaît la dette par écrit, que cette reconnaissance soit ou non rédigée en des termes qui permettent de déduire une promesse de règlement et renferme ou non un refus de payer;
-	- **c)
-** fait un paiement au titre de la dette, y compris un prétendu paiement fait au moyen d'un titre négociable qui fait l'objet d'un refus de paiement.
+- **(2.4)** Se reconnaît débitrice d’une dette fiscale la personne qui, selon le cas :
+	- **a)** promet, par écrit, de régler la dette;
+	- **b)** reconnaît la dette par écrit, que cette reconnaissance soit ou non rédigée en des termes qui permettent de déduire une promesse de règlement et renferme ou non un refus de payer;
+	- **c)** fait un paiement au titre de la dette, y compris un prétendu paiement fait au moyen d’un titre négociable qui fait l’objet d’un refus de paiement.
 
 **Mandataire ou représentant légal**
 
-- **(2.5)** Pour l'application du présent article, la reconnaissance faite par le mandataire ou le représentant légal d'une personne a la même valeur que si elle était faite par la personne.
+- **(2.5)** Pour l’application du présent article, la reconnaissance faite par le mandataire ou le représentant légal d’une personne a la même valeur que si elle était faite par la personne.
 
 **Prorogation du délai de prescription**
 
-- **(2.6)** Le nombre de jours où au moins un des faits suivants se vérifie prolonge d'autant la durée du délai de prescription :
-	- **a)
-** le ministre a accepté et détient une garantie pour le paiement de la dette fiscale;
-	- **b)
-** la personne, qui résidait au Canada à la date applicable visée à l'alinéa (2.2)
-a) relativement à la dette fiscale, est un non-résident;
-	- **c)
-** l'une des actions que le ministre peut exercer par ailleurs relativement à la dette fiscale est limitée ou interdite en vertu d'une disposition quelconque de la 
-Loi sur la faillite et l'insolvabilité, de la 
-[Loi sur les arrangements avec les créanciers des compagnies](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-36.md) ou de la 
-Loi sur la médiation en matière d'endettement agricole.
+- **(2.6)** Le nombre de jours où au moins un des faits suivants se vérifie prolonge d’autant la durée du délai de prescription :
+	- **a)** le ministre a accepté et détient une garantie pour le paiement de la dette fiscale;
+	- **b)** la personne, qui résidait au Canada à la date applicable visée à l’alinéa (2.2)a) relativement à la dette fiscale, est un non-résident;
+	- **c)** l’une des actions que le ministre peut exercer par ailleurs relativement à la dette fiscale est limitée ou interdite en vertu d’une disposition quelconque de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md), de la [Loi sur les arrangements avec les créanciers des compagnies](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-36.md) ou de la [Loi sur la médiation en matière d’endettement agricole](/fr/Lois/Lois%20du%20Canada/1997/ch.%2021.md).
 
 **Cotisation avant recouvrement**
 
-- **(3)** Le ministre ne peut, outre exiger des intérêts aux termes de l’article 27 ou une pénalité aux termes de l’article 53, prendre de mesures de recouvrement aux termes des articles 74 à 79 relativement à une somme susceptible de cotisation selon la présente loi que si la somme a fait l’objet d’une cotisation.
+- **(3)** Le ministre ne peut, outre exiger des intérêts aux termes de l’article 27, prendre des mesures de recouvrement aux termes des articles 74 à 79 relativement à une somme susceptible de cotisation selon la présente loi que si la somme a fait l’objet d’une cotisation.
 
 **Intérêts à la suite de jugements**
 
@@ -1443,7 +1445,7 @@ Loi sur la médiation en matière d'endettement agricole.
 **Frais de justice**
 
 - **(5)** Dans le cas où une somme doit être payée par une personne à Sa Majesté en exécution d’une ordonnance, d’un jugement ou d’une décision d’un tribunal concernant l’attribution des frais de justice relatifs à une question régie par la présente loi, les articles 73 à 80 s’appliquent à la somme comme si elle était exigible en vertu de la présente loi.
-> 2002, ch. 9, art. 5 « 72 »; 2004, ch. 22, art. 45.
+> 2002, ch. 9, art. 5 « 72 »; 2004, ch. 22, art. 45; 2006, ch. 4, art. 111.
 
 
 
