@@ -12,11 +12,7 @@
 
 
 
-## 
-
-
-
-### Short Title
+## Short Title
 
 
 
@@ -27,7 +23,7 @@
 
 
 
-### Interpretation
+## Interpretation
 
 
 
@@ -43,69 +39,79 @@ beginning at a point on the southwesterly shore of Chedabucto Bay near Red Head,
 
 
 
+***Chairperson*** means the President of the Atlantic Canada Opportunities Agency appointed pursuant to subsection 11(1) of the [Atlantic Canada Opportunities Agency Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2041%20(4th%20Supp.).md);
+
+***Chief Executive Officer*** means the Chief Executive Officer of the Corporation appointed under subsection 28(1);
+
 ***Corporation*** means the Enterprise Cape Breton Corporation;
 
-***Minister*** means such member of the Queen’s Privy Council for Canada as is designated by the Governor in Council as the Minister for the purposes of the [Atlantic Canada Opportunities Agency Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2041%20(4th%20Supp.).md);
+***Minister*** means such member of the Queen’s Privy Council for Canada as is designated by the Governor in Council as the Minister for the purposes of the [Atlantic Canada Opportunities Agency Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2041%20(4th%20Supp.).md).
 
-***President*** means the President of the Atlantic Canada Opportunities Agency appointed pursuant to subsection 11(1) of the [Atlantic Canada Opportunities Agency Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2041%20(4th%20Supp.).md);
+***President***[Repealed, 2006, c. 9, s. 247]
 
-***Vice-President*** means the Vice-President of the Corporation appointed pursuant to subsection 28(1).
-
-
-
-
-### Corporation Established
-
-
-
-**Corporation established**
-
-**27** A corporation is hereby established to be called the Enterprise Cape Breton Corporation, consisting of a Board of Directors comprised of the President, the Vice-President and five other directors to be appointed in the manner provided in subsection 28(2).
+***Vice-President***[Repealed, 2006, c. 9, s. 247]
+> R.S., 1985, c. 41 (4th Supp.), s. 26; 2006, c. 9, s. 247.
 
 
 
 
-**Vice-President**
+
+## Corporation Continued
+
+
+
+**Composition**
+
+**27** The Enterprise Cape Breton Corporation is continued as a corporation consisting of a Board of Directors comprising the Chairperson, a Chief Executive Officer and five other directors appointed in accordance with subsection 28(2).
+> R.S., 1985, c. 41 (4th Supp.), s. 27; 2006, c. 9, s. 248.
+
+
+
+
+
+**Appointment of Chief Executive Officer**
 
 **28** 
 
-- **(1)** The Vice-President shall be appointed by the Governor in Council for such term as the Governor in Council deems appropriate and may be removed at any time by the Governor in Council.
+- **(1)** The Chief Executive Officer shall be appointed by the Governor in Council for a term that the Governor in Council considers appropriate, and may be removed at any time by the Governor in Council.
 
-**Directors**
+**Appointment of directors**
 
-- **(2)** Each director, other than the President and the Vice-President, shall be appointed by the Minister, with the approval of the Governor in Council, to hold office for such term, not exceeding three years, as will ensure, as far as possible, the expiration in any one year of the terms of office of not more than one-half of the directors, but may be removed at any time by the Minister, with the approval of the Governor in Council.
+- **(2)** Each director, other than the Chairperson and the Chief Executive Officer, shall be appointed by the Minister, with the approval of the Governor in Council, to hold office for a term not exceeding four years that will ensure, as far as possible, the expiration in any one year of the terms of office of not more than one half of the directors. Each director may be removed at any time by the Minister, with the approval of the Governor in Council.
 
 **Re-appointment**
 
-- **(3)** The Vice-President is eligible for re-appointment on the expiration of a term of office, but, notwithstanding subsection 105(3) of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), any other director who has served two consecutive terms is not, during the twelve months following the completion of a second term, eligible for appointment except as President or Vice-President.
+- **(3)** The Chief Executive Officer is eligible for re-appointment on the expiration of a term of office. Notwithstanding subsection 105(3) of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), any other director who has served two consecutive terms is not, during the twelve months following the completion of a second term, eligible for appointment except as Chairperson or Chief Executive Officer.
 
 **Vacancy**
 
 - **(4)** A vacancy on the Board does not impair the right of the remaining directors to act but where any such vacancy occurs it shall be filled as soon as practicable by appointment in the manner provided in this section.
+> R.S., 1985, c. 41 (4th Supp.), s. 28; 2006, c. 9, s. 249.
 
 
 
 
-**President to preside at meetings**
 
-**29** The President shall preside at meetings of the Board but in the event of the absence or incapacity of the President, or if the office of President is vacant, the Vice-President shall preside at such meetings.
+**Chairperson to preside**
+
+**29** The Chairperson shall preside at meetings of the Board, but in the event of the absence or incapacity of the Chairperson or a vacancy in that office, the Chief Executive Officer shall preside.
+> R.S., 1985, c. 41 (4th Supp.), s. 29; 2006, c. 9, s. 250.
 
 
 
 
-**Management vested in President**
+
+**Authority of Chief Executive Officer**
 
 **30** 
 
-- **(1)** The President is the chief executive officer of the Corporation and has, on behalf of the Board, the direction and control of the business of the Corporation with authority to act in the conduct of the business of the Corporation in all matters that are not by this Part or by the by-laws of the Corporation specifically reserved to be done by the Board.
+- **(1)** The Chief Executive Officer of the Corporation has, on behalf of the Board, the direction and control of the business of the Corporation with authority to act in the conduct of that business in all matters that are not by this Part or by the by-laws of the Corporation specifically reserved to be done by the Board.
 
-**Vice-President to be chief operating officer**
+**Absence or incapacity**
 
-- **(2)** The Vice-President is the chief operating officer of the Corporation and has, on behalf of the President, the direction and control of the day-to-day operations of the Corporation with authority to act in the conduct of the business of the Corporation in all matters that are not by this Part or by the by-laws of the Corporation specifically reserved to be done by the Board or the President.
+- **(2)** In the event of the absence or incapacity of the Chief Executive Officer or a vacancy in that office, the Board shall authorize another officer or director of the Corporation to act as the Chief Executive Officer, but no person may act as such for a period exceeding sixty days without the approval of the Governor in Council.
+> R.S., 1985, c. 41 (4th Supp.), s. 30; 2006, c. 9, s. 250.
 
-**Absence or incapacity of Vice-President**
-
-- **(3)** In the event of the absence or incapacity of the Vice-President, or if the office of Vice-President is vacant, the Board shall authorize an officer or director of the Corporation to act as the Vice-President for the time being, but no person so authorized by the Board has authority to act as Vice-President for a period exceeding sixty days without the approval of the Governor in Council.
 
 
 
@@ -114,11 +120,13 @@ beginning at a point on the southwesterly shore of Chedabucto Bay near Red Head,
 
 **31** 
 
-- **(1)** The Vice-President shall be paid by the Corporation a salary to be fixed by the Governor in Council and the other directors, other than the President, shall be paid by the Corporation such fees for attendances at meetings of the Board or any committee thereof as are fixed by the Governor in Council.
+- **(1)** The Chief Executive Officer shall be paid by the Corporation a salary to be fixed by the Governor in Council. The other directors, except the Chairperson, shall be paid by the Corporation the fees fixed by the Governor in Council for attendance at meetings of the Board or any committee of the Board.
 
 **Expenses**
 
-- **(2)** Each director other than the President is entitled to be paid by the Corporation such travel and living expenses incurred in the performance of duties as such as are fixed by by-law of the Corporation.
+- **(2)** Each director other than the Chairperson is entitled to be paid by the Corporation the travel and living expenses incurred in the performance of the director’s duties that are fixed by by-law of the Corporation.
+> R.S., 1985, c. 41 (4th Supp.), s. 31; 2006, c. 9, s. 251.
+
 
 
 
@@ -136,7 +144,7 @@ beginning at a point on the southwesterly shore of Chedabucto Bay near Red Head,
 
 
 
-### Objects and Powers
+## Objects and Powers
 
 
 
@@ -178,7 +186,7 @@ beginning at a point on the southwesterly shore of Chedabucto Bay near Red Head,
 
 
 
-### Financial Provisions
+## Financial Provisions
 
 
 
@@ -219,7 +227,7 @@ beginning at a point on the southwesterly shore of Chedabucto Bay near Red Head,
 
 
 
-### General
+## General
 
 
 
@@ -235,10 +243,12 @@ beginning at a point on the southwesterly shore of Chedabucto Bay near Red Head,
 **39** The Board may make by-laws
 - **(a)** respecting the calling of meetings of the Board;
 - **(b)** respecting the conduct of business at meetings of the Board and the establishment of committees thereof, the delegation of duties to those committees and the fixing of quorums for meetings of the Board and committees thereof;
-- **(c)** fixing the travel and living expenses to be paid to directors other than the President;
+- **(c)** fixing the travel and living expenses to be paid to directors other than the Chairperson;
 - **(d)** respecting the duties and conduct of the directors, officers and employees of the Corporation and the terms and conditions of employment of officers and employees of the Corporation;
-- **(e)** respecting the establishment, management and administration of a pension fund for the Vice-President, the officers and employees of the Corporation and dependants of those persons, the contributions thereto to be made by the Corporation and the investment of the pension fund moneys thereof; and
+- **(e)** respecting the establishment, management and administration of a pension fund for the Chief Executive Officer and the officers and employees of the Corporation and dependants of those persons, the contributions to be made to the fund by the Corporation and the investment of the pension fund moneys; and
 - **(f)** generally for the conduct and management of the affairs of the Corporation.
+> R.S., 1985, c. 41 (4th Supp.), s. 39; 2006, c. 9, s. 252.
+
 
 
 
@@ -285,7 +295,7 @@ beginning at a point on the southwesterly shore of Chedabucto Bay near Red Head,
 
 
 
-### Transitional
+## Transitional
 
 
 
