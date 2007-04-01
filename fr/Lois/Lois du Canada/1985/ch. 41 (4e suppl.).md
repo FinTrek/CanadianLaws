@@ -41,67 +41,75 @@
 
 ***ministre*** Le membre du Conseil privé de la Reine pour le Canada chargé par le gouverneur en conseil de l’application de la [Loi sur l’Agence de promotion économique du Canada atlantique](/fr/Lois/Lois%20du%20Canada/1985/ch.%2041%20(4e%20suppl.).md).
 
+***premier dirigeant*** Le premier dirigeant de la Société nommé en vertu du paragraphe 28(1).
+
 ***président*** Le président de l’Agence de promotion économique du Canada atlantique nommé en vertu du paragraphe 11(1) de la [Loi sur l’Agence de promotion économique du Canada atlantique](/fr/Lois/Lois%20du%20Canada/1985/ch.%2041%20(4e%20suppl.).md).
 
 ***Société*** La Société d’expansion du Cap-Breton.
 
-***vice-président*** Le vice-président de la Société nommé en vertu du paragraphe 28(1).
+***vice-président***[Abrogée, 2006, ch. 9, art. 247]
+> L.R. (1985), ch. 41 (4<sup>e</sup> suppl.), art. 26; 2006, ch. 9, art. 247.
 
 
 
 
-## Constitution de la Société
+
+## Maintien de la société
 
 
 
 **Composition**
 
-**27** Est constituée la Société d’expansion du Cap-Breton, dotée de la personnalité morale et formée d’un conseil d’administration de sept membres, dont le président de l’Agence de promotion économique du Canada atlantique et le vice-président, nommés conformément au paragraphe 28(2).
+**27** Est maintenue la Société d’expansion du Cap-Breton, dotée de la personnalité morale et formée d’un conseil d’administration comprenant le président, le premier dirigeant et cinq autres administrateurs nommés conformément au paragraphe 28(2).
+> L.R. (1985), ch. 41 (4<sup>e</sup> suppl.), art. 27; 2006, ch. 9, art. 248.
 
 
 
 
-**Vice-président**
+
+**Premier dirigeant**
 
 **28** 
 
-- **(1)** Le gouverneur en conseil nomme à titre amovible le vice-président pour le mandat qu’il estime indiqué.
+- **(1)** Le gouverneur en conseil nomme à titre amovible le premier dirigeant pour le mandat qu’il estime indiqué.
 
 **Autres administrateurs**
 
-- **(2)** Le ministre, avec l’approbation du gouverneur en conseil, nomme à titre amovible chacun des autres administrateurs pour un mandat maximal de trois ans; les nominations sont faites, dans la mesure du possible, de façon que, chaque année, la moitié au plus des mandats arrive à expiration. Il peut les révoquer en cours de mandat avec l’approbation du gouverneur en conseil.
+- **(2)** Le ministre, avec l’approbation du gouverneur en conseil, nomme à titre amovible chacun des administrateurs, à l’exception du président et du premier dirigeant, pour un mandat maximal de quatre ans; les nominations sont faites, dans la mesure du possible, de façon que, chaque année, la moitié au plus des mandats arrive à expiration. Il peut les révoquer en cours de mandat avec l’approbation du gouverneur en conseil.
 
 **Reconduction**
 
-- **(3)** Le mandat du vice-président peut être reconduit. Par contre, malgré le paragraphe 105(3) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) et sauf s’il s’agit d’occuper le poste de président ou vice-président, les autres administrateurs ne peuvent, après une première reconduction, être nommés de nouveau qu’après douze mois suivant la fin de leur second mandat.
+- **(3)** Le mandat du premier dirigeant peut être reconduit. Par contre, malgré le paragraphe 105(3) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) et sauf s’il s’agit d’occuper le poste de président ou de premier dirigeant, les autres administrateurs ne peuvent, après une première reconduction, être nommés de nouveau qu’après douze mois suivant la fin de leur second mandat.
 
 **Vacance**
 
 - **(4)** Une vacance au sein du conseil n’entrave pas le fonctionnement de la Société, mais le poste vacant doit être rempli dès que possible conformément au présent article.
+> L.R. (1985), ch. 41 (4<sup>e</sup> suppl.), art. 28; 2006, ch. 9, art. 249.
+
 
 
 
 
 **Présidence des réunions**
 
-**29** Le président — ou, en cas d’absence ou d’empêchement de celui-ci ou de vacance de son poste, le vice-président — préside les réunions du conseil.
+**29** Le président — ou, en cas d’absence ou d’empêchement de celui-ci ou de vacance de son poste, le premier dirigeant — préside les réunions du conseil.
+> L.R. (1985), ch. 41 (4<sup>e</sup> suppl.), art. 29; 2006, ch. 9, art. 250.
 
 
 
 
-**Fonctions du président**
+
+**Fonctions du premier dirigeant**
 
 **30** 
 
-- **(1)** Le président est le premier dirigeant de la Société; à ce titre et au nom du conseil, il assure la direction de la Société. Il est investi à cet effet des pouvoirs qui ne sont pas expressément réservés au conseil par la présente partie ou les règlements administratifs de la Société.
+- **(1)** Le premier dirigeant, au nom du conseil, assure la direction de la Société. Il est investi à cet effet des pouvoirs qui ne sont pas expressément réservés au conseil par la présente partie ou les règlements administratifs de la Société.
 
-**Fonctions du vice-président**
+**Absence ou empêchement du premier dirigeant**
 
-- **(2)** Le vice-président est le directeur général de la Société; à ce titre et au nom du président, il assure la direction quotidienne des activités de la Société. Il est investi à cet effet des pouvoirs qui ne sont pas expressément réservés au conseil ou au président par la présente partie ou les règlements administratifs de la Société.
+- **(2)** En cas d’absence ou d’empêchement du premier dirigeant ou de vacance de son poste, le conseil autorise un autre dirigeant ou administrateur de la Société à exercer ses attributions. La durée de l’intérim est, sauf prorogation approuvée par le gouverneur en conseil, limitée à soixante jours.
+> L.R. (1985), ch. 41 (4<sup>e</sup> suppl.), art. 30; 2006, ch. 9, art. 250.
 
-**Absence ou empêchement du vice-président**
-
-- **(3)** En cas d’absence ou d’empêchement du vice-président ou de vacance de son poste, le conseil autorise un autre dirigeant ou administrateur de la Société à exercer la vice-présidence. La durée de l’intérim est, sauf prorogation approuvée par le gouverneur en conseil, limitée à soixante jours.
 
 
 
@@ -110,11 +118,13 @@
 
 **31** 
 
-- **(1)** Le vice-président reçoit de la Société le traitement que fixe le gouverneur en conseil. Les autres administrateurs, à l’exception du président, reçoivent de la Société, pour leur présence aux réunions du conseil ou de tout comité de celui-ci, la rétribution fixée par le gouverneur en conseil.
+- **(1)** Le premier dirigeant reçoit de la Société le traitement que fixe le gouverneur en conseil. Les autres administrateurs, à l’exception du président, reçoivent de la Société, pour leur présence aux réunions du conseil ou de tout comité de celui-ci, la rétribution fixée par le gouverneur en conseil.
 
 **Indemnités**
 
 - **(2)** Les administrateurs, à l’exception du président, sont indemnisés, conformément aux règlements administratifs de la Société, des frais de déplacement et de séjour engagés pour l’accomplissement de leurs fonctions.
+> L.R. (1985), ch. 41 (4<sup>e</sup> suppl.), art. 31; 2006, ch. 9, art. 251.
+
 
 
 
@@ -233,8 +243,10 @@
 - **b)** le déroulement de ses réunions, la création de comités en son sein, la délégation d’attributions à ces comités et la fixation du quorum à ses réunions et à celles des comités;
 - **c)** les indemnités à verser aux administrateurs, à l’exception du président, pour leurs frais de déplacement et de séjour;
 - **d)** les responsabilités professionnelles et morales des administrateurs et du personnel, ainsi que les conditions d’emploi de celui-ci;
-- **e)** la création et la gestion d’une caisse de retraite pour le vice-président et le personnel de la Société ainsi que les personnes à leur charge, les cotisations à verser par la Société à cette caisse et le placement des fonds de la caisse;
+- **e)** la création et la gestion d’une caisse de retraite pour le premier dirigeant et le personnel de la Société ainsi que les personnes à leur charge, les cotisations à verser par la Société à cette caisse et le placement des fonds de la caisse;
 - **f)** de façon générale, le fonctionnement de la Société.
+> L.R. (1985), ch. 41 (4<sup>e</sup> suppl.), art. 39; 2006, ch. 9, art. 252.
+
 
 
 
