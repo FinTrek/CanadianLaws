@@ -37,38 +37,38 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **2** The definitions in this section apply in this Act.
 
-***appropriate provincial Minister***, in respect of a province, means the province’s minister of the Crown who has primary responsibility for that province’s finances.
+***appropriate provincial Minister***, in respect of a province, means the province’s minister of the Crown who has primary responsibility for that province’s finances. (*ministre provincial compétent*)
 
-***Board*** means the Canada Pension Plan Investment Board established by section 3.
+***Board*** means the Canada Pension Plan Investment Board established by section 3. (*Office*)
 
-Version anglaise seulement***by-law*** means a by-law of the Board.
+***by-law*** means a by-law of the Board. (***Version anglaise seulement***)
 
-***court*** means
+***court*** means
 - **(a)** in the Province of Ontario, the Ontario Court (General Division);
 - **(b)** in the Province of Quebec, the Superior Court of the Province;
 - **(c)** in the Provinces of Nova Scotia and British Columbia, the Supreme Court of the Province;
 - **(d)** in the Provinces of New Brunswick, Manitoba, Saskatchewan and Alberta, the Court of Queen’s Bench for the Province;
 - **(e)** in the Provinces of Prince Edward Island and Newfoundland, the trial division of the Supreme Court of the Province; and
-- **(f)** the Supreme Court of Yukon, the Supreme Court of the Northwest Territories and the Nunavut Court of Justice.
+- **(f)** the Supreme Court of Yukon, the Supreme Court of the Northwest Territories and the Nunavut Court of Justice. (*tribunal*)
 
-***designated security*** means
+***designated security*** means
 - **(a)** an obligation
 	- **(i)** that, before April 1, 1998, was held to the credit of the Canada Pension Plan Investment Fund, as established under subsection 109(1) of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md),
 	- **(ii)** that, as applied to Canada, is an obligation of the Government of Canada and, as applied to a province, is an obligation of the government of the province or an obligation of any agent of Her Majesty in right of the province that is guaranteed as to principal and interest by that government, and
 	- **(iii)** that complies with the conditions that were set out in section 111 of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md) as that section read immediately before April 1, 1998; or
 - **(b)** an obligation that
-	- **(i)** is, on or after April 1, 1998, purchased by the Minister of Finance under section 110 of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), and
-	- **(ii)** is an obligation of the government of a province or an obligation of any agent of Her Majesty in right of a province that is guaranteed as to principal and interest by that government.
+	- **(i)** on or after April 1, 1998, was purchased by the Minister of Finance under section 110 of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md) or is purchased by the Board under section 6.1, and
+	- **(ii)** is an obligation of the government of a province or an obligation of any agent of Her Majesty in right of a province that is guaranteed as to principal and interest by that government. (*titre désigné*)
 
-***entity*** means a body corporate, a trust, a partnership, a fund, an unincorporated association or organization, Her Majesty in right of Canada or of a province or an agency of Her Majesty in right of Canada or of a province and the government of a foreign country or any political subdivision or agency of the government of a foreign country.
+***entity*** means a body corporate, a trust, a partnership, a fund, an unincorporated association or organization, Her Majesty in right of Canada or of a province or an agency of Her Majesty in right of Canada or of a province and the government of a foreign country or any political subdivision or agency of the government of a foreign country. (*entité*)
 
-***Minister*** means the Minister of Finance.
+***Minister*** means the Minister of Finance. (*ministre*)
 
-***participating province*** means a province other than
+***participating province*** means a province other than
 - **(a)** a territory; and
-- **(b)** a province providing a comprehensive pension plan as defined in subsection 3(1) of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md).
+- **(b)** a province providing a comprehensive pension plan as defined in subsection 3(1) of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md). (*province participante*)
 
-***subsidiary*** means a corporation that is wholly owned by the Board directly or indirectly through any number of subsidiaries each of which is wholly owned directly or indirectly by the Board.
+***subsidiary*** means a corporation that is wholly owned by the Board directly or indirectly through any number of subsidiaries each of which is wholly owned directly or indirectly by the Board. (*filiale*)
 > 1997, c. 40, s. 2; 1999, c. 3, s. 19; 2002, c. 7, s. 112(E); 2003, c. 5, s. 12.
 
 
@@ -152,6 +152,60 @@ Version anglaise seulement***by-law*** means a by-law of the Board.
 **No invalidity**
 
 - **(3)** No act of the Board, including a transfer of property, is invalid by reason only that the Board was without the capacity or power to so act.
+
+
+
+
+## Designated Securities
+
+
+
+**Replacement security**
+
+**6.1** 
+
+- **(1)** On the maturity of a designated security of a province that was issued before January 1, 1998, the Board shall purchase another security issued by that province if the Board is requested to do so, in writing, by the appropriate provincial Minister of that province at least 30 days before the date of maturity.
+
+**Principal amount**
+
+- **(2)** The principal amount of the replacement security shall be not more than the principal outstanding under the maturing designated security.
+
+**Term to maturity**
+
+- **(3)** The replacement security shall be for a term of 20 years.
+
+**Interest**
+
+- **(4)** The replacement security shall bear interest at a rate fixed by the Board, in accordance with any agreement entered into between the Board and the Minister. The rate shall be substantially the same as the interest rate that the province would be required to pay if it were to borrow the same amount for the same term through the issuance of a security on the public capital market.
+
+**Features of replacement security**
+
+- **(5)** The replacement security shall be issued to or payable to the Board and shall be expressed to be not negotiable and not transferable or assignable.
+
+**Redemption at request of province**
+
+- **(6)** The Board shall redeem a designated security in whole or in part before maturity if
+	- **(a)** the Board is requested to do so, in writing, by the appropriate provincial Minister of a province at least 30 days before the proposed redemption date; and
+	- **(b)** the appropriate provincial Minister has agreed to pay on the proposed redemption date
+		- **(i)** any payments of principal or interest due on or before the proposed redemption date but not yet paid,
+		- **(ii)** interest on the principal amount being redeemed accrued to the proposed redemption date, and
+		- **(iii)** an amount equal to the present value of the remaining instalments of principal being redeemed and interest on that principal.
+
+**Calculation of present value**
+
+- **(7)** For the purposes of subparagraph (6)(b)(iii), the present value shall be calculated by discounting the instalments of principal being redeemed and interest on that principal using an interest rate fixed by the Board, in accordance with any agreement entered into between the Board and the Minister of Finance. In fixing that rate, the Board shall choose a rate that
+	- **(a)** if the designated security to be redeemed was issued before January 1, 1998, is substantially the same as the rate that the Government of Canada would be required to pay if it were to borrow the principal amount being redeemed for a term equal to the remaining term of that designated security through the issuance of a security on the public capital market; or
+	- **(b)** if the designated security to be redeemed was issued on or after January 1, 1998, is substantially the same as the rate that the province would be required to pay if it were to borrow the principal amount being redeemed for a term equal to the remaining term of that designated security through the issuance of a security on the public capital market.
+
+**Consolidation of securities**
+
+- **(8)** At the request of the provincial treasurer or other similar officer of a province, the Board may accept in the place of any series of designated securities of that province acquired during any consecutive period of not more than twelve months, on payment of any interest then accrued on the securities, another security of that province that is in an amount equal to the aggregate amount then outstanding of the designated securities of that series, and that bears interest at a rate determined by the Board.
+
+**Obligation guaranteed by the provincial government**
+
+- **(9)** Any security purchased by the Board under this section must be an obligation of the government of a province or an obligation of an agent of Her Majesty in right of a province that is guaranteed as to principal and interest by that government.
+> 2003, c. 5, s. 14.
+
 
 
 
@@ -1156,7 +1210,13 @@ except where the person has knowledge that the facts asserted are true.
 
 **Duty of Board**
 
-**56** The Board shall pay into the Consolidated Revenue Fund, for credit to the Canada Pension Plan Account established under subsection 108(1) of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), any amount required under subsection 108.1(2) or 113(1.1) of that Act.
+**56** 
+
+- **(1)** The Board shall pay into the Consolidated Revenue Fund, for credit to the Canada Pension Plan Account established under subsection 108(1) of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), any amount required under subsection 108.1(2) or 113(1.1) of that Act.
+
+**Transfer of securities**
+
+- **(2)** The Board shall transfer to the Minister any designated securities of a province or of Canada that the Minister requires under subsection 113(1.1) of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md).
 > 1997, c. 40, s. 56; 2003, c. 5, s. 18.
 
 
