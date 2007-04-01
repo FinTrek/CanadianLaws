@@ -2606,8 +2606,8 @@ where
 
 **Amounts payable of $2 or less in total**
 
-- **(2)** If, at any time, the total of all amounts payable by the Minister to a person under this Act does not exceed two dollars, the Minister shall apply those amounts against any amount owing, at that time, by the person to Her Majesty under this Act. However, if the person, at that time, does not owe any amount to Her Majesty, those amounts are deemed to be nil.
-> 2002, c. 22, s. 165; 2003, c. 15, s. 91.
+- **(2)** If, at any time, the total of all amounts payable by the Minister to a person under this Act does not exceed two dollars, the Minister may apply those amounts against any amount owing, at that time, by the person to Her Majesty. However, if the person, at that time, does not owe any amount to Her Majesty, those amounts are deemed to be nil.
+> 2002, c. 22, s. 165; 2003, c. 15, s. 91; 2006, c. 4, s. 113.
 
 
 
@@ -2710,7 +2710,9 @@ where
 
 **Waiving or reducing interest**
 
-**173** The Minister may at any time waive or reduce any interest payable by a person under this Act.
+**173** The Minister may, on or before the day that is ten calendar years after the day an amount was required to be paid by a person under this Act, waive or reduce any interest on the amount payable by the person under section 170.
+> 2002, c. 22, s. 173; 2006, c. 4, s. 116.
+
 
 
 
@@ -2914,11 +2916,11 @@ where
 		- **(ii)** if the assessment is in respect of interest or other amount, the day on which the interest or other amount became payable by the person,
 	- **(b)** the refund was not claimed by the person in an application filed before the day on which notice of the assessment is sent to the person, and
 	- **(c)** the refund would be payable to the person if it were claimed in an application under this Act filed on the day on which notice of the assessment is sent to the person or would be disallowed if it were claimed in that application only because the period for claiming the refund expired before that day,
-the Minister shall, unless otherwise requested by the person, apply all or part of the refund against that duty, interest or other amount that is payable as if the person had, on the particular day, paid the amount so applied on account of that duty, interest or other amount.
+the Minister shall apply all or part of the refund against that duty, interest or other amount that is payable as if the person had, on the particular day, paid the amount so applied on account of that duty, interest or other amount.
 
 **Application of overpayment**
 
-- **(4)** If, in assessing the duty payable by a person for a fiscal month of the person, the Minister determines that there is an overpayment of duty payable for the month, unless the assessment is made in the circumstances described in paragraph 191(4)(a) or (b) after the time otherwise limited for the assessment under paragraph 191(1)(a), the Minister shall, unless otherwise requested by the person,
+- **(4)** If, in assessing the duty payable by a person for a fiscal month of the person, the Minister determines that there is an overpayment of duty payable for the month, unless the assessment is made in the circumstances described in paragraph 191(4)(a) or (b) after the time otherwise limited for the assessment under paragraph 191(1)(a), the Minister shall
 	- **(a)** apply
 		- **(i)** all or part of the overpayment
 against
@@ -2940,7 +2942,7 @@ and ending on the day on which the refund is paid to the person.
 
 **Application of payment**
 
-- **(5)** If, in assessing the duty payable by a person for a fiscal month of the person or an amount (in this subsection referred to as the “overdue amount”) payable by a person under this Act, all or part of a refund is not applied under subsection (3) against that duty payable or overdue amount, except if the assessment is made in the circumstances described in paragraph 191(4)(a) or (b) after the time otherwise limited for the assessment under paragraph 191(1)(a), the Minister shall, unless otherwise requested by the person,
+- **(5)** If, in assessing the duty payable by a person for a fiscal month of the person or an amount (in this subsection referred to as the “overdue amount”) payable by a person under this Act, all or part of a refund is not applied under subsection (3) against that duty payable or overdue amount, except if the assessment is made in the circumstances described in paragraph 191(4)(a) or (b) after the time otherwise limited for the assessment under paragraph 191(1)(a), the Minister shall
 	- **(a)** apply
 		- **(i)** all or part of the refund that was not applied under subsection (3)
 against
@@ -2962,9 +2964,7 @@ and ending on the day on which the refund is paid to the person.
 
 **Limitation on refunding overpayments**
 
-- **(6)** An overpayment of duty payable for a fiscal month of a person and interest on the overpayment shall not be applied under paragraph (4)(b) or refunded under paragraph (4)(c) unless the person has, before the day on which notice of the assessment is sent to the person, filed all returns or other records that the person was required to file with
-	- **(a)** the Minister under this Act, the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) and the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md); or
-	- **(b)** the Minister of Public Safety and Emergency Preparedness under the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md).
+- **(6)** An overpayment of duty payable for a fiscal month of a person and interest on the overpayment shall not be applied under paragraph (4)(b) or refunded under paragraph (4)(c) unless the person has, before the day on which notice of the assessment is sent to the person, filed all returns and other records of which the Minister has knowledge and that the person was required to file with the Minister under this Act, the [Air Travellers Security Charge Act](/en/Acts/Statutes%20of%20Canada/2002/c.%209,%20s.%205.md), the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) and the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
 
 **Limitation**
 
@@ -2972,9 +2972,7 @@ and ending on the day on which the refund is paid to the person.
 	- **(a)** shall not be applied under paragraph (5)(b) against an amount (in this paragraph referred to as the “outstanding amount”) that is payable by a person unless the refund would have been payable to the person as a refund if the person had claimed it in an application under this Act filed on the day on which the person defaulted in paying the outstanding amount and, in the case of a payment under section 176, if that section allowed the person to claim the payment within four years after the person paid the amount in respect of which the payment would be so payable; and
 	- **(b)** shall not be refunded under paragraph (5)(c) unless
 		- **(i)** the refund would have been payable to the person as a refund if the person had claimed it in an application under this Act filed on the day on which notice of the assessment is sent to the person, and
-		- **(ii)** the person has, before the day on which notice of the assessment is sent to him or her, filed all returns or other records that the person was required to file
-			- **(A)** with the Minister under this Act, the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) and the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), or
-			- **(B)** with the Minister of Public Safety and Emergency Preparedness under the Customs Act.
+		- **(ii)** the person has filed all returns and other records of which the Minister has knowledge and that the person was required to file with the Minister under this Act, the [Air Travellers Security Charge Act](/en/Acts/Statutes%20of%20Canada/2002/c.%209,%20s.%205.md), the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) and the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) before the day on which notice of the assessment is sent to the person.
 
 **Deemed claim or application**
 
@@ -2991,12 +2989,16 @@ and ending on the day on which the refund is paid to the person.
 		- **(iii)** the day on which the amount was paid by the person; and
 	- **(b)** ends on the day on which the refund is paid.
 
+**Refund of interest or penalty**
+
+- **(9.1)** Despite subsection (9), if a person has paid an amount of interest or penalty and the Minister waives or reduces that amount under section 173 or 255.1, as the case may be, the Minister shall refund the amount of the waiver or reduction to the person, together with interest on the amount of the waiver or reduction at the prescribed rate for the period beginning on the day that is 30 days after the day on which the Minister received a request in a manner satisfactory to the Minister to apply that section and ending on the day on which the refund is paid.
+
 **Meaning of “overpayment of duty payable”**
 
 - **(10)** In this section, “overpayment of duty payable” of a person for a fiscal month of the person means the amount, if any, by which the total of all amounts paid by the person on account of duty payable for the month exceeds the total of
 	- **(a)** the duty payable for the month, and
 	- **(b)** all amounts paid to the person under this Act as a refund for the month.
-> 2002, c. 22, s. 188; 2005, c. 38, ss. 95, 145.
+> 2002, c. 22, s. 188; 2005, c. 38, ss. 95, 145; 2006, c. 4, s. 117.
 
 
 
@@ -3018,15 +3020,12 @@ and ending on the day on which the refund is paid to the person.
 
 **Restriction**
 
-- **(4)** A refund shall not be paid until the person has filed with the Minister or the Minister of Public Safety and Emergency Preparedness, all returns or other records that are required to be filed under this Act, the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), the 
-[Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), the 
-[Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) and the 
-[Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
+- **(4)** A refund shall not be paid until the person has filed with the Minister all returns and other records of which the Minister has knowledge and that are required to be filed under this Act, the [Air Travellers Security Charge Act](/en/Acts/Statutes%20of%20Canada/2002/c.%209,%20s.%205.md), the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) and the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
 
 **Interest**
 
 - **(5)** If a refund is paid to a person, the Minister shall pay interest at the prescribed rate to the person on the refund for the period beginning on the day that is 30 days after the day on which the application for the refund is filed with the Minister and ending on the day on which the refund is paid.
-> 2002, c. 22, s. 189; 2005, c. 38, ss. 96, 145.
+> 2002, c. 22, s. 189; 2005, c. 38, ss. 96, 145; 2006, c. 4, s. 118.
 
 
 
@@ -4374,11 +4373,13 @@ exceeds
 
 **254** 
 
-- **(1)** A penalty that a person is liable to pay under any of sections 233 to 253 may be imposed by the Minister by serving on the person a written notice of the imposed penalty or by sending the notice by registered or certified mail to the person’s last known address.
+- **(1)** A penalty that a person is liable to pay under any of sections 233 to 253, other than section 251.1, may be imposed by the Minister by serving on the person a written notice of the imposed penalty or by sending the notice by registered or certified mail to the person’s last known address.
 
 **Penalty is in addition to other sanction**
 
 - **(2)** A penalty may be imposed in addition to a seizure or forfeiture of a thing or the suspension or cancellation of a licence or registration under this Act that arises from the same event as the contravention in respect of which the penalty is imposed.
+> 2002, c. 22, s. 254; 2006, c. 4, s. 120.
+
 
 
 
@@ -4386,6 +4387,15 @@ exceeds
 **When penalty becomes payable**
 
 **255** The amount of a penalty imposed on a person under section 254 is payable by the person to the Receiver General at the time it is imposed.
+
+
+
+
+**Waiving or reducing failure to file penalty**
+
+**255.1** The Minister may, on or before the day that is ten calendar years after the end of a fiscal month of a person, waive or reduce any penalty payable by the person under section 251.1 in respect of a return for the fiscal month.
+> 2006, c. 4, s. 121.
+
 
 
 
@@ -5018,7 +5028,7 @@ exceeds
 	- **(b)** certify the amount under section 288;
 	- **(c)** require a person to make a payment under subsection 289(1);
 	- **(d)** require an institution or a person to make a payment under subsection 289(2);
-	- **(e)** require the retention of the amount by way of deduction or set-off under section 290;
+	- **(e)** [Repealed, 2006, c. 4, s. 122]
 	- **(f)** require a person to turn over moneys under subsection 292(1); or
 	- **(g)** give a notice, issue a certificate or make a direction under subsection 293(1).
 
@@ -5049,6 +5059,8 @@ exceeds
 **No restriction on collection of large amounts**
 
 - **(8)** Despite subsections (1) to (7), if, at any time, the total of all amounts that a person has been assessed under this Act and that remain unpaid exceeds $1,000,000, the Minister may collect up to 50% of the total.
+> 2002, c. 22, s. 286; 2006, c. 4, s. 122.
+
 
 
 
