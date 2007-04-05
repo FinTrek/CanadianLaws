@@ -37,37 +37,37 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***activité contrôlée*** Sous réserve du paragraphe 8(6), l’une ou l’autre des activités ci-après liées à l’exploitation d’un système de télédétection spatiale :
+***activité contrôlée*** Sous réserve du paragraphe 8(6), l’une ou l’autre des activités ci-après liées à l’exploitation d’un système de télédétection spatiale :
 - **a)** la formulation ou le fait de donner des commandes à tout satellite de télédétection faisant partie du système;
 - **b)** la réception de données brutes provenant d’un tel satellite;
 - **c)** le stockage, le traitement ou la distribution de données brutes obtenues au moyen du système;
-- **d)** la mise en place ou l’emploi de procédés de cryptographie en ce qui touche les communications avec un tel satellite, ou de mesures d’assurance de l’information à l’égard du système.
+- **d)** la mise en place ou l’emploi de procédés de cryptographie en ce qui touche les communications avec un tel satellite, ou de mesures d’assurance de l’information à l’égard du système. (*controlled activity*)
 
-***assurance de l’information*** Protection de l’information et des systèmes d’information au moyen de mesures en garantissant l’accessibilité, l’intégrité, l’authentification, la confidentialité et la non-répudiation.
+***assurance de l’information*** Protection de l’information et des systèmes d’information au moyen de mesures en garantissant l’accessibilité, l’intégrité, l’authentification, la confidentialité et la non-répudiation. (*information assurance*)
 
-***données brutes*** Les données de détection obtenues au moyen d’un satellite de télédétection et les données auxiliaires nécessaires à la production de produits dérivés à partir des données de détection, qui ne sont pas devenues, en raison de leur traitement, des produits dérivés.
+***données brutes*** Les données de détection obtenues au moyen d’un satellite de télédétection et les données auxiliaires nécessaires à la production de produits dérivés à partir des données de détection, qui ne sont pas devenues, en raison de leur traitement, des produits dérivés. (*raw data*)
 
-***licence*** Licence délivrée en vertu du paragraphe 8(1).
+***licence*** Licence délivrée en vertu du paragraphe 8(1). (*licence*)
 
-***ministre*** Sous réserve de l’article 3, le ministre des Affaires étrangères.
+***ministre*** Sous réserve de l’article 3, le ministre des Affaires étrangères. (*Minister*)
 
-***participant autorisé*** Personne désignée dans la licence aux termes de l’alinéa 8(5)b).
+***participant autorisé*** Personne désignée dans la licence aux termes de l’alinéa 8(5)b). (*system participant*)
 
-***personne*** Sont compris parmi les personnes les sociétés de personnes, les gouvernements, les organismes gouvernementaux et les organisations non dotées de la personnalité morale.
+***personne*** Sont compris parmi les personnes les sociétés de personnes, les gouvernements, les organismes gouvernementaux et les organisations non dotées de la personnalité morale. (*person*)
 
-***produit dérivé*** Image ou donnée obtenue par le traitement de données brutes.
+***produit dérivé*** Image ou donnée obtenue par le traitement de données brutes. (*remote sensing product*)
 
-***satellite de télédétection*** Satellite qui peut faire de la détection de la surface terrestre au moyen d’ondes électromagnétiques.
+***satellite de télédétection*** Satellite qui peut faire de la détection de la surface terrestre au moyen d’ondes électromagnétiques. (*remote sensing satellite*)
 
-***système agréé*** Système de télédétection spatiale pour lequel une licence d’exploitation a été délivrée.
+***système agréé*** Système de télédétection spatiale pour lequel une licence d’exploitation a été délivrée. (*licensed system*)
 
-***système de télédétection spatiale*** Système se composant :
+***système de télédétection spatiale*** Système se composant :
 - **a)** d’une part, d’un ou de plusieurs satellites de télédétection et du centre de contrôle de mission ainsi que des autres installations utilisées pour exploiter les satellites;
-- **b)** d’autre part, des installations utilisées pour la réception, le stockage, le traitement ou la distribution des données brutes obtenues au moyen des satellites, et ce même après qu’ils ne sont plus exploités.
+- **b)** d’autre part, des installations utilisées pour la réception, le stockage, le traitement ou la distribution des données brutes obtenues au moyen des satellites, et ce même après qu’ils ne sont plus exploités. (*remote sensing space system*)
 
-***titulaire de licence*** Le détenteur de la licence.
+***titulaire de licence*** Le détenteur de la licence. (*licensee*)
 
-***traitement*** Eu égard aux règlements, ce qui a pour effet de rendre substantiellement impossible toute reconstitution des données brutes à partir des produits dérivés obtenus au moyen de celles-ci.
+***traitement*** Eu égard aux règlements, ce qui a pour effet de rendre substantiellement impossible toute reconstitution des données brutes à partir des produits dérivés obtenus au moyen de celles-ci. (*transform*)
 
 
 
@@ -340,9 +340,9 @@ Il donne à l’intéressé un avis de l’ordre et lui accorde la possibilité 
 
 - **(2)** Le ministre de la Défense nationale peut en faire de même s’il a des motifs raisonnables de croire que l’obtention d’un tel service est souhaitable pour la défense du Canada ou la sécurité des Forces canadiennes.
 
-**Ordre du solliciteur général du Canada**
+**Ordre du ministre de la Sécurité publique et de la Protection civile**
 
-- **(3)** Le solliciteur général du Canada peut ordonner au titulaire de licence de fournir tout service au moyen du système agréé :
+- **(3)** Le ministre de la Sécurité publique et de la Protection civile peut ordonner au titulaire de licence de fournir tout service au moyen du système agréé :
 	- **a)** à la Gendarmerie royale du Canada, s’il a des motifs raisonnables de croire que l’obtention du service est souhaitable pour l’exercice par les membres de celle-ci des fonctions visées au paragraphe 6(1) de la [Loi sur les infractions en matière de sécurité](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-7.md);
 	- **b)** au Service canadien du renseignement de sécurité, s’il a des motifs raisonnables de croire que l’obtention du service est souhaitable pour l’exercice par celui-ci des fonctions visées par la [Loi sur le Service canadien du renseignement de sécurité](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-23.md);
 	- **c)** à Sa Majesté du chef du Canada, s’il a des motifs raisonnables de croire que l’obtention du service est souhaitable en ce qui touche la protection des infrastructures essentielles ou les mesures et interventions d’urgence.
@@ -362,6 +362,8 @@ Il donne à l’intéressé un avis de l’ordre et lui accorde la possibilité 
 **Avis et observations**
 
 - **(7)** Le ministre en question donne au titulaire de licence un avis de l’ordre et lui accorde la possibilité de présenter ses observations dans les quinze jours suivant l’avis ou le délai plus long qu’il précise. L’avis peut avoir un effet immédiat.
+> 2005, ch. 45, art. 15 et 46.
+
 
 
 
@@ -533,12 +535,14 @@ Il donne à l’intéressé un avis de l’ordre et lui accorde la possibilité 
 	- **a)** ne peut pas déléguer les pouvoirs prévus au paragraphe 14(2);
 	- **b)** ne peut déléguer les pouvoirs prévus au paragraphe 15(2) qu’au sous-ministre ou au chef d’état-major de la défense.
 
-**Solliciteur général du Canada**
+**Ministre de la Sécurité publique et de la Protection civile**
 
-- **(3)** Le solliciteur général du Canada ne peut déléguer :
+- **(3)** Le ministre de la Sécurité publique et de la Protection civile ne peut déléguer :
 	- **a)** les pouvoirs prévus à l’alinéa 15(3)a) qu’au commissaire de la Gendarmerie royale du Canada;
 	- **b)** les pouvoirs prévus à l’alinéa 15(3)b) qu’au directeur du Service canadien du renseignement de sécurité;
-	- **c)** les pouvoirs prévus à l’alinéa 15(3)c) qu’au sous-solliciteur général du Canada.
+	- **c)** les pouvoirs prévus à l’alinéa 15(3)c) qu’au sous-ministre de la Sécurité publique et de la Protection civile.
+> 2005, ch. 45, art. 21 et 46.
+
 
 
 
@@ -905,6 +909,6 @@ Il lui fait signifier avis de la décision prise au titre de l’alinéa b) et l
 
 <sup><a href='#R-5.4_s47_f'>[*]</a></sup>**47** La présente loi, à l’exception de l’article 46, entre en vigueur à la date fixée par décret.
 
-<a name='R-5.4_s47_f'><sup>*</sup></a>: [Note : Article 46 en vigueur à la sanction le 25 novembre 2005.]<br />
+<a name='R-5.4_s47_f'><sup>*</sup></a>: [Note : Article 46 en vigueur à la sanction le 25 novembre 2005; loi, à l’exception de l’article 46, en vigueur le 5 avril 2007, *voir* TR/2007-47.]<br />
 
 
