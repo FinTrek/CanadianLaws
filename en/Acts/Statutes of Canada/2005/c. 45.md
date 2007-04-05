@@ -43,35 +43,35 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(c)** storing, processing or distributing raw data from the system;
 - **(d)** establishing or using
 	- **(i)** cryptography in communications with a remote sensing satellite of the system, or
-	- **(ii)** information assurance measures for the system.
+	- **(ii)** information assurance measures for the system. (*activité contrôlée*)
 
-***information assurance*** means the protection of information and information systems by ensuring their availability, integrity, authentication, confidentiality and non-repudiation.
+***information assurance*** means the protection of information and information systems by ensuring their availability, integrity, authentication, confidentiality and non-repudiation. (*assurance de l’information*)
 
-***licence*** means a licence issued under subsection 8(1).
+***licence*** means a licence issued under subsection 8(1). (*licence*)
 
-***licensed system*** means a remote sensing space system for whose operation a licence has been issued.
+***licensed system*** means a remote sensing space system for whose operation a licence has been issued. (*système agréé*)
 
-***licensee*** means a person who is the holder of a licence.
+***licensee*** means a person who is the holder of a licence. (*titulaire de licence*)
 
-***Minister***, subject to section 3, means the Minister of Foreign Affairs.
+***Minister***, subject to section 3, means the Minister of Foreign Affairs. (*ministre*)
 
-***person*** includes a partnership, a government, a government agency and an unincorporated organization.
+***person*** includes a partnership, a government, a government agency and an unincorporated organization. (*personne*)
 
-Version anglaise seulement***prescribed*** means prescribed by the regulations.
+***prescribed*** means prescribed by the regulations. (***Version anglaise seulement***)
 
-***raw data*** means sensor data from a remote sensing satellite, and any auxiliary data required to produce remote sensing products from the sensor data, that have not been transformed into a remote sensing product.
+***raw data*** means sensor data from a remote sensing satellite, and any auxiliary data required to produce remote sensing products from the sensor data, that have not been transformed into a remote sensing product. (*données brutes*)
 
-***remote sensing product*** means an image or data produced from raw data in any way that transforms the raw data.
+***remote sensing product*** means an image or data produced from raw data in any way that transforms the raw data. (*produit dérivé*)
 
-***remote sensing satellite*** means a satellite that is capable of sensing the surface of the Earth through the use of electromagnetic waves.
+***remote sensing satellite*** means a satellite that is capable of sensing the surface of the Earth through the use of electromagnetic waves. (*satellite de télédétection*)
 
-***remote sensing space system*** means
+***remote sensing space system*** means
 - **(a)** one or more remote sensing satellites and the mission control centre and other facilities used to operate the satellites; and
-- **(b)** the facilities used to receive, store, process or distribute raw data from the satellites, even after the satellites themselves are no longer in operation.
+- **(b)** the facilities used to receive, store, process or distribute raw data from the satellites, even after the satellites themselves are no longer in operation. (*système de télédétection spatiale*)
 
-***system participant*** means a person who is designated in a licence condition referred to in paragraph 8(5)(b).
+***system participant*** means a person who is designated in a licence condition referred to in paragraph 8(5)(b). (*participant autorisé*)
 
-***transform***, with respect to raw data, means, having regard to the regulations, to so process them that it is substantially impossible to reconstitute them from the resulting remote sensing product.
+***transform***, with respect to raw data, means, having regard to the regulations, to so process them that it is substantially impossible to reconstitute them from the resulting remote sensing product. (*traitement*)
 
 
 
@@ -344,9 +344,9 @@ The order may be effective immediately on notice to the person, but the Minister
 
 - **(2)** The Minister of National Defence may make an order requiring a licensee to provide to Her Majesty in right of Canada any service through the licensed system that that minister believes on reasonable grounds is desirable for the defence of Canada or the safety of Canadian Forces.
 
-**Order of Solicitor General**
+**Order of Minister of Public Safety and Emergency Preparedness**
 
-- **(3)** The Solicitor General of Canada may make an order requiring a licensee to provide any service through the licensed system
+- **(3)** The Minister of Public Safety and Emergency Preparedness may make an order requiring a licensee to provide any service through the licensed system
 	- **(a)** to the Royal Canadian Mounted Police that that minister believes on reasonable grounds is desirable for the fulfilment of its members’ responsibilities under subsection 6(1) of the [Security Offences Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-7.md);
 	- **(b)** to the Canadian Security Intelligence Service that that minister believes on reasonable grounds is desirable for the fulfilment of its duties and functions under the [Canadian Security Intelligence Service Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-23.md); or
 	- **(c)** to Her Majesty in right of Canada that that minister believes on reasonable grounds is desirable for critical infrastructure protection or emergency preparedness.
@@ -366,6 +366,8 @@ The order may be effective immediately on notice to the person, but the Minister
 **Notice and opportunity to make representations**
 
 - **(7)** An order made under this section may take effect immediately on notice to the licensee, but the minister making the order shall give to the licensee an opportunity — during a period of 15 days after the notice or any longer period that the minister specifies — to make representations regarding it.
+> 2005, c. 45, ss. 15, 46.
+
 
 
 
@@ -537,12 +539,14 @@ The order may be effective immediately on notice to the person, but the Minister
 	- **(a)** may not delegate the exercise of that minister’s powers under subsection 14(2); and
 	- **(b)** may delegate only to his or her deputy minister or the Chief of the Defence Staff the exercise of that minister’s powers under subsection 15(2).
 
-**Solicitor General**
+**Minister of Public Safety and Emergency Preparedness**
 
-- **(3)** The Solicitor General of Canada may delegate only to
+- **(3)** The Minister of Public Safety and Emergency Preparedness may delegate only to
 	- **(a)** the Commissioner of the Royal Canadian Mounted Police the exercise of that minister’s powers under paragraph 15(3)(a);
 	- **(b)** the Director of the Canadian Security Intelligence Service the exercise of that minister’s powers under paragraph 15(3)(b); and
-	- **(c)** the Deputy Solicitor General of Canada the exercise of that minister’s powers under paragraph 15(3)(c).
+	- **(c)** the Deputy Minister of Public Safety and Emergency Preparedness the exercise of that minister’s powers under paragraph 15(3)(c).
+> 2005, c. 45, ss. 21, 46.
+
 
 
 
@@ -909,6 +913,6 @@ The enforcement officer shall cause notice of any decision made under paragraph 
 
 <sup><a href='#R-5.4_e_s47'>[*]</a></sup>**47** This Act, other than section 46, comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='R-5.4_e_s47'><sup>*</sup></a>: [Note: Section 46 in force on assent November 25, 2005.]<br />
+<a name='R-5.4_e_s47'><sup>*</sup></a>: [Note: Section 46 in force on assent November 25, 2005; Act, other than section 46, in force April 5, 2007, *see* SI/2007-47.]<br />
 
 
