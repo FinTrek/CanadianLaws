@@ -27,6 +27,8 @@ que les fonctionnaires ont un devoir de loyauté envers leur employeur et béné
 que le gouvernement du Canada s’engage à adopter une charte des valeurs du service public énonçant les valeurs qui guident les fonctionnaires dans leur conduite et leurs activités professionnelles,
 
 
+> 2005, ch. 46, art. 59(A)..
+
 
 Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
@@ -88,9 +90,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **e)** toute menace à cet égard.
 
 ***secteur public***
-- **a)** Les ministères et secteurs de l’administration publique fédérale figurant à l’annexe I de la [Loi sur les relations de travail dans la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-35.md);
-- **b)** les organismes figurant aux annexes I.1, II et III de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md);
-- **c)** les sociétés d’État et autres organismes publics figurant à l’annexe 1.
+- **a)** Les ministères figurant à l’annexe I de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) et les autres secteurs de l’administration publique fédérale figurant aux annexes I.1 à V de cette loi;
+- **b)** les sociétés d’État et autres organismes publics figurant à l’annexe 1.
 
 Sous réserve des articles 52 et 53, la présente définition ne s’applique toutefois pas au Service canadien du renseignement de sécurité, au Centre de la sécurité des télécommunications et aux Forces canadiennes.
 
@@ -99,7 +100,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 **Prise de représailles**
 
 - **(2)** Pour l’application de la présente loi, la mention de la personne ayant exercé des représailles vaut mention de la personne qui en a ordonné l’exercice.
-> 2005, ch. 46, art. 2; 2006, ch. 9, art. 194.
+> 2005, ch. 46, art. 2 et 59; 2006, ch. 9, art. 194.
 
 
 
@@ -1663,8 +1664,8 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 **Exceptions**
 
 - **(2)** Le paragraphe (1) ne s’applique pas :
-	- **a) ** au commissaire et aux personnes qui agissent en son nom ou sous son autorité, en ce qui concerne sa participation aux procédures devant le Tribunal;
-	- **b) ** à la personne chargée d’enquêter sur une plainte en vertu de l’article 19.7, en ce qui concerne son enquête.
+	- **a)** au commissaire et aux personnes qui agissent en son nom ou sous son autorité, en ce qui concerne sa participation aux procédures devant le Tribunal;
+	- **b)** à la personne chargée d’enquêter sur une plainte en vertu de l’article 19.7, en ce qui concerne son enquête.
 > 2005, ch. 46, art. 46; 2006, ch. 9, art. 216.
 
 
@@ -1874,7 +1875,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 
 
 
-### Loi sur l’accès à l’information
+### [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md)
 
 
 **55** [Modification]
@@ -1886,7 +1887,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 
 
 
-### Loi sur la preuve au Canada
+### [Loi sur la preuve au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-5.md)
 
 
 **56** [Modification]
@@ -1926,7 +1927,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 
 
 
-### Loi sur la protection des renseignements personnels et les documents électroniques
+### [Loi sur la protection des renseignements personnels et les documents électroniques](/fr/Lois/Lois%20du%20Canada/2000/ch.%205.md)
 
 
 **57** [Modification]
@@ -1934,7 +1935,7 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 
 
 
-### Loi sur la protection des renseignements personnels
+### [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md)
 
 
 **58** [Modification]
@@ -1964,11 +1965,11 @@ Sous réserve des articles 52 et 53, la présente définition ne s’applique to
 
 **Décret**
 
-***60** 
+**60** 
 
-- **(1)** Sous réserve du paragraphe (2), les dispositions de la présente loi, à l’exception de l’article 59, entrent en vigueur à la date ou aux dates fixées par décret.
+- <sup><a href='#P-31.9_s60-1_f'>[*]</a></sup>**(1)** Sous réserve du paragraphe (2), les dispositions de la présente loi, à l’exception de l’article 59, entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='P-31.9_s60-1_f'><sup>*</sup></a>: [Note : Article 59 en vigueur à la sanction le 25 novembre 2005.]<br />
+<a name='P-31.9_s60-1_f'><sup>*</sup></a>: [Note : Article 59 en vigueur à la sanction le 25 novembre 2005; loi, à l’exception de l’article 59 et de la mention « Office d’investissement du régime de pensions du Canada » figurant à l’annexe 1, en vigueur le 15 avril 2007, *voir* TR/2007-43.]<br />
 
 **Office d’investissement du régime de pensions du Canada**
 
@@ -1994,7 +1995,10 @@ Fondation canadienne des relations raciales<br />- <i>Canadian Race Relations Fo
 
 Office d’investissement des régimes de pensions du secteur public<br />- <i>Public Sector Pension Investment Board</i>
 
+
 Office d’investissement du régime de pensions du Canada<br />- <i>Canada Pension Plan Investment Board</i>
+
+
 
 Société Radio-Canada<br />- <i>Canadian Broadcasting Corporation</i>
 
