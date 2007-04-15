@@ -338,8 +338,9 @@ In either case, the organization shall, no later than thirty days after the date
 	- **(a)** the information is protected by solicitor-client privilege;
 	- **(b)** to do so would reveal confidential commercial information;
 	- **(c)** to do so could reasonably be expected to threaten the life or security of another individual;
-	- **(c.1)** the information was collected under paragraph 7(1)(b); or
-	- **(d)** the information was generated in the course of a formal dispute resolution process.
+	- **(c.1)** the information was collected under paragraph 7(1)(b);
+	- **(d)** the information was generated in the course of a formal dispute resolution process; or
+	- **(e)** the information was created for the purpose of making a disclosure under the [Public Servants Disclosure Protection Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2046.md) or in the course of an investigation into a disclosure under that Act.
 However, in the circumstances described in paragraph (b) or (c), if giving access to the information would reveal confidential commercial information or could reasonably be expected to threaten the life or security of another individual, as the case may be, and that information is severable from the record containing any other information for which access is requested, the organization shall give the individual access after severing.
 
 **Limit**
@@ -349,7 +350,7 @@ However, in the circumstances described in paragraph (b) or (c), if giving acces
 **Notice**
 
 - **(5)** If an organization decides not to give access to personal information in the circumstances set out in paragraph (3)(c.1), the organization shall, in writing, so notify the Commissioner, and shall include in the notification any information that the Commissioner may specify.
-> 2000, c. 5, s. 9, c. 17, s. 97; 2001, c. 41, s. 82.
+> 2000, c. 5, s. 9, c. 17, s. 97; 2001, c. 41, s. 82; 2005, c. 46, s. 57; 2006, c. 9, s. 223.
 
 
 
