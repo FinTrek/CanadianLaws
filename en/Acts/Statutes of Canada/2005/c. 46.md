@@ -16,7 +16,7 @@ Assented to on 25 November 2005
 
 Recognizing that
 
-the public service of Canada is an important national institution and is part of the essential framework of Canadian parliamentary democracy;
+the federal public administration is an important national institution and is part of the essential framework of Canadian parliamentary democracy;
 
 it is in the public interest to maintain and enhance public confidence in the integrity of public servants;
 
@@ -26,6 +26,8 @@ public servants owe a duty of loyalty to their employer and enjoy the right to f
 
 the Government of Canada commits to establishing a Charter of Values of Public Service setting out the values that should guide public servants in their work and professional conduct;
 
+
+> 2005, c. 46, s. 59(E)..
 
 
 Her Majesty, by and with the advice and consent of the Senate and House of Commons of Canada, enacts as follows:
@@ -75,9 +77,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(d)** when lawfully required to do so.
 
 ***public sector*** means
-- **(a)** the departments and other portions of the public service of Canada named in Schedule I to the [Public Service Staff Relations Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-35.md);
-- **(b)** the bodies named in Schedules I.1, II and III to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md); and
-- **(c)** the Crown corporations and the other public bodies named in Schedule 1.
+- **(a)** the departments named in Schedule I to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) and the other portions of the federal public administration named in Schedules I.1 to V to that Act; and
+- **(b)** the Crown corporations and the other public bodies set out in Schedule 1.
 
 However, subject to sections 52 and 53, ***public sector*** does not include the Canadian Forces, the Canadian Security Intelligence Service or the Communications Security Establishment.
 
@@ -99,7 +100,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 **Taking a reprisal**
 
 - **(2)** Every reference in this Act to a person who has taken a reprisal includes a person who has directed the reprisal to be taken.
-> 2005, c. 46, s. 2; 2006, c. 9, s. 194.
+> 2005, c. 46, ss. 2, 59; 2006, c. 9, s. 194.
 
 
 
@@ -1876,7 +1877,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 
 
 
-### Access to Information Act
+### [Access to Information Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-1.md)
 
 
 **55** [Amendment]
@@ -1888,7 +1889,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 
 
 
-### Canada Evidence Act
+### [Canada Evidence Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-5.md)
 
 
 **56** [Amendment]
@@ -1928,7 +1929,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 
 
 
-### Personal Information Protection and Electronic Documents Act
+### [Personal Information Protection and Electronic Documents Act](/en/Acts/Statutes%20of%20Canada/2000/c.%205.md)
 
 
 **57** [Amendment]
@@ -1936,7 +1937,7 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 
 
 
-### Privacy Act
+### [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md)
 
 
 **58** [Amendment]
@@ -1966,11 +1967,11 @@ However, subject to sections 52 and 53, ***public sector*** does not include the
 
 **Order in council**
 
-***60** 
+**60** 
 
-- **(1)** Subject to subsection (2), the provisions of this Act, other than section 59, come into force on a day or days to be fixed by order of the Governor in Council.
+- <sup><a href='#P-31.9_e_s60_1'>[*]</a></sup>**(1)** Subject to subsection (2), the provisions of this Act, other than section 59, come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='P-31.9_e_s60_1'><sup>*</sup></a>: [Note: Section 59 in force on assent November 25, 2005.]<br />
+<a name='P-31.9_e_s60_1'><sup>*</sup></a>: [Note: Section 59 in force on assent November 25, 2005; Act, other than section 59 and the reference to the “Canada Pension Plan Investment Board” in Schedule I, in force April 15, 2007, *see* SI/2007-43.]<br />
 
 **Canada Pension Plan Investment Board**
 
@@ -1988,7 +1989,10 @@ Bank of Canada<br />- <i>Banque du Canada</i>
 
 Canada Council for the Arts<br />- <i>Conseil des Arts du Canada</i>
 
+
 Canada Pension Plan Investment Board<br />- <i>Office d’investissement du régime de pensions du Canada</i>
+
+
 
 Canadian Broadcasting Corporation<br />- <i>Société Radio-Canada</i>
 
