@@ -331,7 +331,8 @@ Dans l’un ou l’autre cas, l’organisation envoie au demandeur, dans les tre
 	- **b)** la communication révélerait des renseignements commerciaux confidentiels;
 	- **c)** elle risquerait vraisemblablement de nuire à la vie ou la sécurité d’un autre individu;
 	- **c.1)** les renseignements ont été recueillis au titre de l’alinéa 7(1)b);
-	- **d)** les renseignements ont été fournis uniquement à l’occasion d’un règlement officiel des différends.
+	- **d)** les renseignements ont été fournis uniquement à l’occasion d’un règlement officiel des différends;
+	- **e)** les renseignements ont été créés en vue de faire une divulgation au titre de la [Loi sur la protection des fonctionnaires divulgateurs d’actes répréhensibles](/fr/Lois/Lois%20du%20Canada/2005/ch.%2046.md) ou dans le cadre d’une enquête menée sur une divulgation en vertu de cette loi.
 Toutefois, dans les cas visés aux alinéas b) ou c), si les renseignements commerciaux confidentiels ou les renseignements dont la communication risquerait vraisemblablement de nuire à la vie ou la sécurité d’un autre individu peuvent être retranchés du document en cause, l’organisation est tenue de faire la communication en retranchant ces renseignements.
 
 **Non-application**
@@ -341,7 +342,7 @@ Toutefois, dans les cas visés aux alinéas b) ou c), si les renseignements comm
 **Avis**
 
 - **(5)** Si elle décide de ne pas communiquer les renseignements dans le cas visé à l’alinéa (3)c.1), l’organisation en avise par écrit le commissaire et lui fournit les renseignements qu’il peut préciser.
-> 2000, ch. 5, art. 9, ch. 17, art. 97; 2001, ch. 41, art. 82.
+> 2000, ch. 5, art. 9, ch. 17, art. 97; 2001, ch. 41, art. 82; 2005, ch. 46, art. 57; 2006, ch. 9, art. 223.
 
 
 
