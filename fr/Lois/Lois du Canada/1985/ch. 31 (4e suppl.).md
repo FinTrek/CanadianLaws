@@ -389,9 +389,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(3)** Cette obligation vise notamment :
 	- **a)** le commissariat aux langues officielles;
 	- **b)** le bureau du directeur général des élections;
+	- **b.1)** le commissariat à l’intégrité du secteur public;
 	- **c)** le bureau du vérificateur général;
 	- **d)** le commissariat à l’information;
 	- **e)** le commissariat à la protection de la vie privée.
+> L.R. (1985), ch. 31 (4<sup>e</sup> suppl.), art. 24; 2005, ch. 46, art. 56.5; 2006, ch. 9, art. 222.
+
 
 
 
