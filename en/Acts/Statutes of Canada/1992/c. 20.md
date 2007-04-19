@@ -1955,7 +1955,9 @@ but does not include a person whose only sentence is a sentence being served int
 
 **Complementary legislation**
 
-- **(3)** Subsection (2) does not apply in a province until a day fixed by order of the Governor in Council made after the enactment of a provincial Act authorizing the Board to exercise the jurisdiction referred to in that subsection.
+- <sup><a href='#fn_Ind11D2_hq_2231'>[*]</a></sup>**(3)** Subsection (2) does not apply in a province until a day fixed by order of the Governor in Council made after the enactment of a provincial Act authorizing the Board to exercise the jurisdiction referred to in that subsection.
+
+<a name='fn_Ind11D2_hq_2231'><sup>*</sup></a>: Note: Subsection 108(2) applies in the Province of British Columbia as of April 19, 2007, *see* SI/2007-51.]<br />
 
 **Where subsection (3) does not apply**
 
