@@ -7186,11 +7186,11 @@ and shall contain not less than seven per cent absolute alcohol by volume.
 
 
 **B.06.002** No person shall sell a food, other than a synthetic colour, mixture, preparation or flavouring preparation, that contains, when prepared for consumption according to label directions, more than
-- **(a)** 300 parts per million of Allura Red, Amaranth, Erythrosine, Tartrazine, Sunset Yellow FCF or Indigotine or any combination of those colours;
+- **(a)** 300 parts per million of Allura Red, Amaranth, Erythrosine, Indigotine, Sunset Yellow FCF or Tartrazine or any combination of those colours unless a higher maximum level of use is specified in column III of item 3 of Table III to section B.16.100;
 - **(b)** 100 parts per million of Fast Green FCF or Brilliant Blue FCF or any combination of those colours;
 - **(c)** 300 parts per million of any combination of the synthetic colours named in paragraphs (a) and (b) within the limits set by those paragraphs; or
-- **(d)** 150 parts per million of Ponceau SX. 
-> SOR/80-500, s. 2; SOR/84-440, s. 2; SOR/86-178, s. 1(F).
+- **(d)** 150 parts per million of Ponceau SX.
+> SOR/80-500, s. 2; SOR/84-440, s. 2; SOR/86-178, s. 1(F); SOR/2007-75, s. 1.
 
 
 
@@ -9482,12 +9482,13 @@ per gram, as determined by official method MFO-14, Microbiological Examination o
 	- **(v)** pH adjusting agents,
 	- **(vi)** microcrystalline cellulose or a stabilizing agent or both in an amount that will not exceed 0.5 per cent of the ice cream made from the mix,
 	- **(vii)** a sequestering agent,
-	- **(viii)** salt, and
+	- **(viii)** salt,
 	- **(ix)** not more than one per cent added edible casein or edible caseinates; and
+	- **(x)** propylene glycol mono fatty acid esters in an amount that will not exceed 0.35 per cent of the ice cream made from the mix and sorbitan tristearate in an amount that will not exceed 0.035 per cent of the ice cream made from the mix; and
 - **(c)** shall contain not less than
 	- **(i)** 36 per cent solids, and
 	- **(ii)** 10 per cent milk fat or, where cocoa or chocolate syrup has been added, eight per cent milk fat. 
-> SOR/92-400, s. 11; SOR/97-543, s. 2(F).
+> SOR/92-400, s. 11; SOR/97-543, s. 2(F); SOR/2007-75, s. 2.
 
 
 
@@ -17832,6 +17833,14 @@ Tartrazine
 <td>0.15% (Residues of sunset yellow FCF in sausage prepared with such casings not to exceed 15 p.p.m.)</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td>(7)</td>
+<td>Cheese-flavoured corn snacks (sunset yellow FCF only)</td>
+<td>(7)</td>
+<td>600 p.p.m. singly. If used in combination with other colours listed in column I of this item and of item 4 of this table, the maximum level of use is 300 p.p.m. in accordance with paragraph B.06.002(c)</td>
+</tr>
+<tr>
 <td>4</td>
 <td>Brilliant Blue FCF
 
@@ -17893,7 +17902,7 @@ Fast Green FCF
 </tr>
 </table>
 
->  SOR/79-752, s. 5; SOR/80-500, s. 6; SOR/82-596, s. 3; SOR/84-440, s. 4; SOR/84-602, s. 1; SOR/89-198, ss. 6 to 10; SOR/92-725, s. 5; SOR/93-466, s. 2; SOR/94-689, s. 2(F); SOR/95-434, s. 1; SOR/95-493, s. 1; SOR/97-516, s. 4; SOR/98-580, s. 1(F); SOR/99-96, s. 1; SOR/2000-50, s. 1; SOR/2000-146, ss. 1 to 3..
+>  SOR/79-752, s. 5; SOR/80-500, s. 6; SOR/82-596, s. 3; SOR/84-440, s. 4; SOR/84-602, s. 1; SOR/89-198, ss. 6 to 10; SOR/92-725, s. 5; SOR/93-466, s. 2; SOR/94-689, s. 2(F); SOR/95-434, s. 1; SOR/95-493, s. 1; SOR/97-516, s. 4; SOR/98-580, s. 1(F); SOR/99-96, s. 1; SOR/2000-50, s. 1; SOR/2000-146, ss. 1 to 3; SOR/2007-75, s. 3..
 
 
 
@@ -18346,6 +18355,14 @@ Glycan
 <td>Cream for whipping, heat-treated above 100°C</td>
 <td>(5)</td>
 <td>0.005%</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(6)</td>
+<td>A blend of prepared fish and prepared meat referred to in paragraph B.21.006(n)</td>
+<td>(6)</td>
+<td>0.06 %</td>
 </tr>
 <tr>
 <td>C.12</td>
@@ -19750,14 +19767,17 @@ Polysorbate 65
 </tr>
 <tr>
 <td>P.14</td>
-<td>Propylene Glycol
-
-Mono Fatty Acid Esters
-
-</td>
+<td>Propylene Glycol Mono Fatty Acid Esters</td>
+<td>(1)</td>
+<td>Ice cream mix</td>
+<td>(1)</td>
+<td>0.35% of the ice cream made from the mix</td>
+</tr>
+<tr>
 <td></td>
+<td>(2)</td>
 <td>Unstandardized foods</td>
-<td></td>
+<td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
@@ -20217,6 +20237,14 @@ Mono Fatty Acid Esters
 <td>1.0%</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td>(9)</td>
+<td>Puddings</td>
+<td>(9)</td>
+<td>0.5%</td>
+</tr>
+<tr>
 <td>S.18A</td>
 <td>Sorbitan trioleate</td>
 <td></td>
@@ -20238,6 +20266,20 @@ Mono Fatty Acid Esters
 <td>Unstandardized confectionery coatings and unstandardized moulded confectionery products for use as a confectionery or in baking</td>
 <td>(2)</td>
 <td>1.0% If any combination of Polyoxyethylene (20) sorbitan monostearate, Polyoxyethylene (20) sorbitan tristearate or Sorbitan monostearate are also used, the total must not exceed 1.0%</td>
+</tr>
+<tr>
+<td></td>
+<td>(3)</td>
+<td>Ice cream mix</td>
+<td>(3)</td>
+<td>0.035% of the ice cream made from the mix</td>
+</tr>
+<tr>
+<td></td>
+<td>(4)</td>
+<td>Unstandardized frozen desserts</td>
+<td>(4)</td>
+<td>0.035%</td>
 </tr>
 <tr>
 <td>S.19</td>
@@ -20312,6 +20354,14 @@ Mono Fatty Acid Esters
 <td>0.5%, in accordance with the requirements of sections B.08.035, B.08.037, B.08.038, B.08.039, B.08.041.3, B.08.041.4, B.08.041.6, B.08.041.7 and B.08.041.8</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td>(8)</td>
+<td>Comminuted prepared fish or prepared meat, other than lumpfish caviar; Comminuted preserved fish or preserved meat (Division 21)</td>
+<td>(8)</td>
+<td>0.75 %</td>
+</tr>
+<tr>
 <td>X.1</td>
 <td>Xanthan Gum</td>
 <td>(1)</td>
@@ -20382,7 +20432,7 @@ Mono Fatty Acid Esters
 </tr>
 </table>
 
->  SOR/78-403, ss. 5(F) to 13(F), 14 to 16, 17(F) to 21(F), 22; SOR/78-656, ss. 14, 15; SOR/78-876, s. 2; SOR/79-660, ss. 5 to 10; SOR/79-752, s. 6; SOR/80-501, s. 4; SOR/81-60, ss. 7 to 10; SOR/81-565, ss. 4, 5; SOR/81-934, ss. 2 to 6; SOR/82-383, s. 9; SOR/82-1071, ss. 9 to 16; SOR/83-932, ss. 3, 4; SOR/84-300, s. 50(E); SOR/84-602, s. 2; SOR/84-801, s. 3; SOR/85-179, ss. 2 to 4; SOR/85-623, s. 3(E); SOR/88-99, s. 3; SOR/88-419, ss. 2, 3; SOR/90-87, s. 9; SOR/91-710, s. 1; SOR/92-64, s. 1; SOR/92-93, s. 2; SOR/92-344, s. 1; SOR/93-466, ss. 3, 4; SOR/94-38, s. 2; SOR/94-567, s. 2; SOR/94-689, s. 2(F); SOR/96-160, s. 2; SOR/96-376, s. 1; SOR/96-497, s. 1; SOR/96-499, s. 1; SOR/97-29, s. 1; SOR/97-263, ss. 4 to 10; SOR/98-580, s. 1(F); SOR/2000-353, s. 7(F); SOR/2005-316, s. 1; SOR/2005-395, ss. 1 to 4, 5(F); SOR/2006-91, ss. 4, 5..
+>  SOR/78-403, ss. 5(F) to 13(F), 14 to 16, 17(F) to 21(F), 22; SOR/78-656, ss. 14, 15; SOR/78-876, s. 2; SOR/79-660, ss. 5 to 10; SOR/79-752, s. 6; SOR/80-501, s. 4; SOR/81-60, ss. 7 to 10; SOR/81-565, ss. 4, 5; SOR/81-934, ss. 2 to 6; SOR/82-383, s. 9; SOR/82-1071, ss. 9 to 16; SOR/83-932, ss. 3, 4; SOR/84-300, s. 50(E); SOR/84-602, s. 2; SOR/84-801, s. 3; SOR/85-179, ss. 2 to 4; SOR/85-623, s. 3(E); SOR/88-99, s. 3; SOR/88-419, ss. 2, 3; SOR/90-87, s. 9; SOR/91-710, s. 1; SOR/92-64, s. 1; SOR/92-93, s. 2; SOR/92-344, s. 1; SOR/93-466, ss. 3, 4; SOR/94-38, s. 2; SOR/94-567, s. 2; SOR/94-689, s. 2(F); SOR/96-160, s. 2; SOR/96-376, s. 1; SOR/96-497, s. 1; SOR/96-499, s. 1; SOR/97-29, s. 1; SOR/97-263, ss. 4 to 10; SOR/98-580, s. 1(F); SOR/2000-353, s. 7(F); SOR/2005-316, s. 1; SOR/2005-395, ss. 1 to 4, 5(F); SOR/2006-91, ss. 4, 5; SOR/2007-75, ss. 4 to 6; SOR/2007-76, ss. 1, 2..
 
 
 
@@ -21744,7 +21794,7 @@ Mono Fatty Acid Esters
 </tr>
 </table>
 
->  SOR/78-402, s. 6; SOR/78-876, s. 3; SOR/79-662, ss. 14 to 17; SOR/80-501, s. 4; SOR/80-632, s. 5; SOR/81-60, s. 11; SOR/81-934, ss. 7 to 10; SOR/82-383, s. 10; SOR/82-566, s. 2; SOR/82-1071, s. 17; SOR/84-302, s. 4; SOR/84-762, ss. 8, 9; SOR/84-801, s. 4; SOR/86-89, ss. 4 to 6; SOR/86-1112, s. 4; SOR/87-254, s. 2; SOR/87-640, s. 7; SOR/88-281, s. 1; SOR/90-24, ss. 1 to 3; SOR/90-87, ss. 10 to 12; SOR/90-469, s. 3; SOR/91-124, s. 5(F); SOR/91-487, s. 1; SOR/91-691, s. 1; SOR/92-63, s. 4; SOR/92-94, s. 4; SOR/92-195, s. 1; SOR/92-197, s. 9; SOR/92-231, s. 1; SOR/92-518, s. 1; SOR/92-591, s. 2(F); SOR/94-29, s. 1; SOR/94-182, s. 1; SOR/94-212, s. 9; SOR/94-417, s. 2; SOR/94-552, s. 1; SOR/94-689, s. 2; SOR/94-712, s. 1; SOR/95-65, s. 1; SOR/95-183, s. 9; SOR/95-525, ss. 1, 2; SOR/96-375, s. 1; SOR/97-81, s. 1; SOR/97-82, s. 1; SOR/97-122, ss. 4(F), 5; SOR/97-508, ss. 1, 2; SOR/97-513, s. 1; SOR/97-558, s. 4; SOR/98-454, s. 1; SOR/98-458, ss. 6, 7(F); SOR/2000-336, ss. 3 to 5; SOR/2000-417, s. 4; SOR/2003-130, s. 4; SOR/2004-84, s. 1; SOR/2005-98, ss. 4 to 7, 8(F); SOR/2005-394, ss. 1 to 6..
+>  SOR/78-402, s. 6; SOR/78-876, s. 3; SOR/79-662, ss. 14 to 17; SOR/80-501, s. 4; SOR/80-632, s. 5; SOR/81-60, s. 11; SOR/81-934, ss. 7 to 10; SOR/82-383, s. 10; SOR/82-566, s. 2; SOR/82-1071, s. 17; SOR/84-302, s. 4; SOR/84-762, ss. 8, 9; SOR/84-801, s. 4; SOR/86-89, ss. 4 to 6; SOR/86-1112, s. 4; SOR/87-254, s. 2; SOR/87-640, s. 7; SOR/88-281, s. 1; SOR/90-24, ss. 1 to 3; SOR/90-87, ss. 10 to 12; SOR/90-469, s. 3; SOR/91-124, s. 5(F); SOR/91-487, s. 1; SOR/91-691, s. 1; SOR/92-63, s. 4; SOR/92-94, s. 4; SOR/92-195, s. 1; SOR/92-197, s. 9; SOR/92-231, s. 1; SOR/92-518, s. 1; SOR/92-591, s. 2(F); SOR/94-29, s. 1; SOR/94-182, s. 1; SOR/94-212, s. 9; SOR/94-417, s. 2; SOR/94-552, s. 1; SOR/94-689, s. 2; SOR/94-712, s. 1; SOR/95-65, s. 1; SOR/95-183, s. 9; SOR/95-525, ss. 1, 2; SOR/96-375, s. 1; SOR/97-81, s. 1; SOR/97-82, s. 1; SOR/97-122, ss. 4(F), 5;SOR/97-508, ss. 1, 2; SOR/97-513, s. 1; SOR/97-558, s. 4; SOR/98-454, s. 1; SOR/98-458, ss. 6, 7(F); SOR/2000-336, ss. 3 to 5; SOR/2000-417, s. 4; SOR/2003-130, s. 4; SOR/2004-84, s. 1; SOR/2005-98, ss. 4 to 7, 8(F); SOR/2005-394, ss. 1 to 6..
 
 
 
@@ -22644,6 +22694,88 @@ No.
 <td>Stabilizing and thickening agent</td>
 <td>(10)</td>
 <td>0.2%</td>
+</tr>
+<tr>
+<td>C.13.1</td>
+<td>Cellulose, Powdered</td>
+<td>(1)</td>
+<td>Batter and breading</td>
+<td>(1)</td>
+<td>Bulking agent</td>
+<td>(1)</td>
+<td>1%</td>
+</tr>
+<tr>
+<td></td>
+<td>(2)</td>
+<td>Canapé toast</td>
+<td>(2)</td>
+<td>Bulking agent</td>
+<td>(2)</td>
+<td>2%</td>
+</tr>
+<tr>
+<td></td>
+<td>(3)</td>
+<td>Confectionery (Calorie-reduced)</td>
+<td>(3)</td>
+<td>Bulking agent</td>
+<td>(3)</td>
+<td>25%</td>
+</tr>
+<tr>
+<td></td>
+<td>(4)</td>
+<td>Unstandardized edible ices</td>
+<td>(4)</td>
+<td>Bulking agent</td>
+<td>(4)</td>
+<td>3%</td>
+</tr>
+<tr>
+<td></td>
+<td>(5)</td>
+<td>Fillings</td>
+<td>(5)</td>
+<td>Bulking agent</td>
+<td>(5)</td>
+<td>0.5%</td>
+</tr>
+<tr>
+<td></td>
+<td>(6)</td>
+<td>Foods sold in tablet form</td>
+<td>(6)</td>
+<td>Bulking agent</td>
+<td>(6)</td>
+<td>50%</td>
+</tr>
+<tr>
+<td></td>
+<td>(7)</td>
+<td>Icings</td>
+<td>(7)</td>
+<td>Bulking agent</td>
+<td>(7)</td>
+<td>1%</td>
+</tr>
+<tr>
+<td></td>
+<td>(8)</td>
+<td>Seasonings</td>
+<td>(8)</td>
+<td>Bulking agent</td>
+<td>(8)</td>
+<td>3%</td>
+</tr>
+<tr>
+<td></td>
+<td>(9)</td>
+<td>Sweet baked goods</td>
+<td>(9)</td>
+<td>Bulking agent</td>
+<td>(9)</td>
+<td>8%</td>
 </tr>
 <tr>
 <td>C.14A</td>
@@ -23861,7 +23993,7 @@ No.
 </tr>
 </table>
 
->  SOR/78-401, s. 3; SOR/78-403, ss. 23 to 25; SOR/78-876, s. 4; SOR/79-660, s. 13; SOR/79-752, s. 8; SOR/80-632, ss. 6 to 13; SOR/81-83, s. 4; SOR/81-617, s. 3; SOR/81-934, ss. 11, 12; SOR/82-566, ss. 3, 4; SOR/82-1071, ss. 18 to 20; SOR/83-410, s. 3; SOR/83-584, s. 1; SOR/83-932, ss. 5, 6; SOR/84-17, s. 6; SOR/84-441, s. 1; SOR/84-602, s. 3; SOR/84-762, s. 10; SOR/84-801, ss. 5, 6; SOR/86-1112, s. 5; SOR/86-1125, s. 2; SOR/87-469, s. 1; SOR/87-640, s. 8; SOR/88-419, s. 4; SOR/88-534, ss. 5, 6; SOR/89-175, s. 2; SOR/89-197, s. 1; SOR/89-198, s. 11; SOR/89-555, ss. 2, 3; SOR/91-90, s. 2; SOR/91-124, ss. 6 to 9; SOR/91-149, s. 3; SOR/91-186, s. 1; SOR/91-409, s. 7; SOR/91-527, s. 4; SOR/92-229, s. 1; SOR/92-344, ss. 2 to 4; SOR/93-276, ss. 4 to 11; SOR/94-416, s. 1; SOR/94-227, ss. 5 to 10; SOR/94-689, s. 2(F); SOR/94-723, s. 1; SOR/96-260, s. 1; SOR/96-378, s. 1; SOR/97-509, s. 1; SOR/98-580, s. 1(F); SOR/99-97, s. 1; SOR/99-420, s. 11(F); SOR/2000-353, s. 8(F); SOR/2001-94, s. 3; SOR/2005-316, ss. 2(F), 3; SOR/2006-91, ss. 6 to 12..
+>  SOR/78-401, s. 3; SOR/78-403, ss. 23 to 25; SOR/78-876, s. 4; SOR/79-660, s. 13; SOR/79-752, s. 8; SOR/80-632, ss. 6 to 13; SOR/81-83, s. 4; SOR/81-617, s. 3; SOR/81-934, ss. 11, 12; SOR/82-566, ss. 3, 4; SOR/82-1071, ss. 18 to 20; SOR/83-410, s. 3; SOR/83-584, s. 1; SOR/83-932, ss. 5, 6; SOR/84-17, s. 6; SOR/84-441, s. 1; SOR/84-602, s. 3; SOR/84-762, s. 10; SOR/84-801, ss. 5, 6; SOR/86-1112, s. 5; SOR/86-1125, s. 2; SOR/87-469, s. 1; SOR/87-640, s. 8; SOR/88-419, s. 4; SOR/88-534, ss. 5, 6; SOR/89-175, s. 2; SOR/89-197, s. 1; SOR/89-198, s. 11; SOR/89-555, ss. 2, 3; SOR/91-90, s. 2; SOR/91-124, ss. 6 to 9; SOR/91-149, s. 3; SOR/91-186, s. 1; SOR/91-409, s. 7; SOR/91-527, s. 4; SOR/92-229, s. 1; SOR/92-344, ss. 2 to 4; SOR/93-276, ss. 4 to 11; SOR/94-416, s. 1; SOR/94-227, ss. 5 to 10; SOR/94-689, s. 2(F); SOR/94-723, s. 1; SOR/96-260, s. 1; SOR/96-378, s. 1;SOR/97-509, s. 1; SOR/98-580, s. 1(F); SOR/99-97, s. 1; SOR/99-420, s. 11(F); SOR/2000-353, s. 8(F); SOR/2001-94, s. 3; SOR/2005-316, ss. 2(F), 3; SOR/2006-91, ss. 6 to 12; SOR/2007-75, s. 7..
 
 
 
@@ -24179,7 +24311,7 @@ No.
 <td>**(1)** A blend of prepared fish and prepared meat referred to in paragraph B.21.006(n)
 
 </td>
-<td>**(1)** 3.5%
+<td>**(1)** 6.0 %
 
 </td>
 </tr>
@@ -24375,7 +24507,7 @@ No.
 </tr>
 </table>
 
->  SOR/93-276, s. 12; SOR/94-625, s. 5; SOR/94-689, s. 2(F); SOR/94-779, s. 3; SOR/97-512, ss. 3, 4; SOR/2004-261, s. 2..
+>  SOR/93-276, s. 12; SOR/94-625, s. 5; SOR/94-689, s. 2(F); SOR/94-779, s. 3; SOR/97-512, ss. 3, 4; SOR/2004-261, s. 2; SOR/2007-76, s. 3..
 
 
 
@@ -24753,7 +24885,7 @@ No.
 <td>C.14</td>
 <td>Citric Acid</td>
 <td>(1)</td>
-<td>Ale; Apple (or rhubarb) and (naming the fruit) jam; Beer; Canned artichokes; Canned asparagus; Canned bean sprouts; Canned chili peppers; Canned mushrooms; Canned onions; Canned pears; Canned shellfish; Canned spring mackerel; Cider; Cottage cheese; Creamed cottage cheese; Egg white (albumen) and yolk; Liquid, dried or frozen whole egg; Fig marmalade; Fig marmalade with pectin; French dressing; Frozen cooked shrimp; Frozen (naming the fruit); Gelatin; Grape juice; Honey wine; Ice cream mix; Ice milk mix; (naming the fruit) Jam; (naming the fruit) Jam with pectin; (naming the fruit) Jelly; (naming the fruit) Jelly with pectin; Light beer; Malt liquor; (naming the citrus fruit) Marmalade; (naming the citrus fruit) Marmalade with pectin; Mayonnaise; Mincemeat; Olives; Peach nectar; Pear nectar; Pineapple marmalade; Pineapple marmalade with pectin; Porter; Salad dressing; Sherbet; Stout; Tomatoes; Wine</td>
+<td>Ale; Apple (or rhubarb) and (naming the fruit) jam; Beer; Canned artichokes; Canned asparagus; Canned bean sprouts; Canned chili peppers; Canned mushrooms; Canned onions; Canned pears; Canned shellfish; Canned spring mackerel; Cider; Cottage cheese; Creamed cottage cheese; Egg white (albumen) and yolk; Liquid, dried or frozen whole egg; Fig marmalade; Fig marmalade with pectin; French dressing; Frozen cooked shrimp; Frozen (naming the fruit); Gelatin; Grape juice; Honey wine; Ice cream mix; Ice milk mix; (naming the fruit) Jam; (naming the fruit) Jam with pectin; (naming the fruit) Jelly; (naming the fruit) Jelly with pectin; Light beer; Malt liquor; (naming the citrus fruit) Marmalade; (naming the citrus fruit) Marmalade with pectin; Mayonnaise; Mincemeat; Olives; Peach nectar; Pear nectar;Pineapple marmalade; Pineapple marmalade with pectin; Porter; Salad dressing; Sherbet; Stout; Tomatoes; Wine</td>
 <td>(1)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -25414,9 +25546,16 @@ No.
 <tr>
 <td>S.7</td>
 <td>Sodium Bisulphate</td>
-<td></td>
+<td>(1)</td>
 <td>Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
+<td>(1)</td>
+<td>Good Manufacturing Practice</td>
+</tr>
+<tr>
 <td></td>
+<td>(2)</td>
+<td>Unstandardized bakery products</td>
+<td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
@@ -25683,7 +25822,7 @@ No.
 </tr>
 </table>
 
->  SOR/78-874, s. 4; SOR/79-660, ss. 14 to 17; SOR/79-664, ss. 3 to 13; SOR/79-752, s. 9; SOR/80-501, s. 4; SOR/86-1112, ss. 6 to 8; SOR/92-106, s. 1; SOR/92-344, s. 5; SOR/94-689, s. 2(F); SOR/95-281, ss. 2 to 5; SOR/95-436, ss. 2, 3; SOR/97-263, ss. 11 to 25; SOR/97-561, s. 3; SOR/98-580, s. 1(F); SOR/2001-94, s. 3; SOR/2006-91, ss. 13 to 20..
+>  SOR/78-874, s. 4; SOR/79-660, ss. 14 to 17; SOR/79-664, ss. 3 to 13; SOR/79-752, s. 9; SOR/80-501, s. 4; SOR/86-1112, ss. 6 to 8; SOR/92-106, s. 1; SOR/92-344, s. 5; SOR/94-689, s. 2(F); SOR/95-281, ss. 2 to 5; SOR/95-436, ss. 2, 3; SOR/97-263, ss. 11 to 25; SOR/97-561, s. 3; SOR/98-580, s. 1(F); SOR/2001-94, s. 3; SOR/2006-91, ss. 13 to 20; SOR/2007-75, s. 8..
 
 
 
@@ -27283,7 +27422,7 @@ No.
 <td>25 p.p.m. calculated as the anhydrous form</td>
 </tr>
 <tr>
-<td>Ethylenediamine- tetraacetate</td>
+<td>Ethylenediaminetetraacetate</td>
 <td>(2)</td>
 <td>French dressing; Mayonnaise; Salad dressing; Unstandardized dressings and sauces</td>
 <td>(2)</td>
@@ -27409,7 +27548,7 @@ No.
 </tr>
 <tr>
 <td>D.1</td>
-<td>Disodium Ethylenediaminetetra- acetate</td>
+<td>Disodium Ethylenediaminetetraacetate</td>
 <td>(1)</td>
 <td>Dressing and sauces</td>
 <td>(1)</td>
@@ -27449,7 +27588,7 @@ No.
 <td>D.2</td>
 <td>Disodium EDTA</td>
 <td></td>
-<td>Same foods as listed for Disodium Ethylenediaminete-traacetate</td>
+<td>Same foods as listed for Disodium Ethylenediaminetetraacetate</td>
 <td></td>
 <td>Same levels as prescribed for Disodium Ethylenediaminetetraacetate</td>
 </tr>
@@ -29173,7 +29312,7 @@ and shall have
 
 
 
-**B.21.006** [S]. Prepared fish or prepared meat shall be the whole or comminuted food prepared from fresh or preserved fish or meat respectively, may be canned or cooked, and may,
+**B.21.006** **[S].** Prepared fish or prepared meat shall be the whole or comminuted food prepared from fresh or preserved fish or meat respectively, may be canned or cooked, and may,
 - **(a)** in the case of lobster paste and fish roe (caviar), contain food colour;
 - **(b)** in the case of canned shellfish, canned spring mackerel and frozen cooked shrimp, contain citric acid or lemon juice;
 - **(c)** in the case of fish paste, contain filler, fish binder, monoglycerides or mono and diglycerides;
@@ -29190,9 +29329,10 @@ and shall have
 - **(n)** in the case of a blend of prepared fish and prepared meat that has the appearance and taste of the flesh of a marine or freshwater animal, contain filler, fish binder, whole egg, egg-white, egg-yolk, food colour, gelling or stabilizing agents, texture-modifying agents, natural and artificial flavouring preparations, pH-adjusting agents, sweetener and, in a proportion not exceeding two per cent of the blend, a legume;
 - **(o)** in the case of crustaceans, contain potassium bisulphite, potassium metabisulphite, sodium bisulphite, sodium dithionite, sodium metabisulphite, sodium sulphite or sulphurous acid;
 - **(p)** in the case of frozen crustaceans and molluscs, contain calcium oxide and sodium hydroxide;
-- **(q)** in the case of frozen pre-cooked battered or breaded fish products, contain citric acid at a level of use not exceeding 0.1 per cent; and
-- **(r)** in the case of canned clams, contain sodium erythorbate at a level of use not exceeding 350 parts per million.
-> SOR/80-13, s. 9; SOR/81-60, s. 12; SOR/84-602, s. 4; SOR/86-1020, s. 2; SOR/89-197, s. 2; SOR/92-344, s. 6; SOR/93-276, s. 13; SOR/94-141, s. 2; SOR/94-567, s. 3; SOR/94-689, s. 2(E); SOR/97-151, s. 27; SOR/97-562, s. 3; SOR/2005-316, s. 12.
+- **(q)** in the case of frozen pre-cooked battered or breaded fish products, contain citric acid at a level of use not exceeding 0.1 per cent;
+- **(r)** in the case of canned clams, contain sodium erythorbate at a level of use not exceeding 350 parts per million; and
+- **(s)** in the case of comminuted products, other than lumpfish caviar, contain tragacanth gum at a level of use not exceeding 0.75 per cent.
+> SOR/80-13, s. 9; SOR/81-60, s. 12; SOR/84-602, s. 4; SOR/86-1020, s. 2; SOR/89-197, s. 2; SOR/92-344, s. 6; SOR/93-276, s. 13; SOR/94-141, s. 2; SOR/94-567, s. 3; SOR/94-689, s. 2(E); SOR/97-151, s. 27; SOR/97-562, s. 3; SOR/2005-316, s. 12; SOR/2007-76, s. 4.
 
 
 
@@ -29221,12 +29361,13 @@ and shall have
 
 
 
-**B.21.021** [S]. Preserved fish or preserved meat shall be cooked or uncooked fish or meat that is dried, salted, pickled, cured or smoked and may contain Class I Preservatives, dextrose, glucose, spices, sugar and vinegar, and
+**B.21.021** **[S].** Preserved fish or preserved meat shall be cooked or uncooked fish or meat that is dried, salted, pickled, cured or smoked and may contain Class I Preservatives, dextrose, glucose, spices, sugar and vinegar, and
 - **(a)** dried fish that has been smoked or salted, and cold-processed smoked and salted fish paste may contain sorbic acid or its salts;
 - **(b)** smoked fish may contain food colour;
-- **(c)** packaged fish and meat products that are marinated or otherwise cold-processed may contain saunderswood (sandalwood), benzoic acid or its salts, methyl-p-hydroxy benzoate and propyl-p-hydroxy benzoate; and
-- **(d)** salted anchovy, salted scad and salted shrimp may contain erythrosine in such amount as will result in the finished product containing not more than 125 parts per million of erythrosine. 
-> SOR/95-493, s. 2; SOR/97-562, s. 4(F).
+- **(c)** packaged fish and meat products that are marinated or otherwise cold-processed may contain saunderswood (sandalwood), benzoic acid or its salts, methyl-p-hydroxy benzoate and propyl-p-hydroxy benzoate;
+- **(d)** salted anchovy, salted scad and salted shrimp may contain erythrosine in such amount as will result in the finished product containing not more than 125 parts per million of erythrosine; and
+- **(e)** comminuted products may contain tragacanth gum at a level of use not exceeding 0.75 per cent.
+> SOR/95-493, s. 2; SOR/97-562, s. 4(F); SOR/2007-76, s. 5.
 
 
 
