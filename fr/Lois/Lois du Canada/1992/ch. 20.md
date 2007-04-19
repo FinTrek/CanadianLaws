@@ -1793,7 +1793,9 @@ La présente définition ne vise toutefois pas la personne qui, en application d
 
 **Entrée en vigueur**
 
-- **(3)** Le paragraphe (2) ne s’applique dans la province qu’à la date fixée par décret du gouverneur en conseil pris après l’adoption d’une loi provinciale autorisant la Commission à exercer la compétence que lui confère ce paragraphe.
+- <sup><a href='#nbp_Ind4AF9_hq_2173'>[*]</a></sup>**(3)** Le paragraphe (2) ne s’applique dans la province qu’à la date fixée par décret du gouverneur en conseil pris après l’adoption d’une loi provinciale autorisant la Commission à exercer la compétence que lui confère ce paragraphe.
+
+<a name='nbp_Ind4AF9_hq_2173'><sup>*</sup></a>: [Note : Paragraphe 108(2) s’applique dans la province de la Colombie-Britannique à compter du 19 avril 2007, *voir* TR/2007-51.]<br />
 
 **Non-application du paragraphe (3)**
 
