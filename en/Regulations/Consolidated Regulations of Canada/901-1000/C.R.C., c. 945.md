@@ -8619,8 +8619,9 @@ except any such expenditure incurred by a corporation that derives all or substa
 	- **(g)** the name and address of the donor including, in the case of an individual, his first name and initial;
 	- **(h)** the amount that is
 		- **(i)** the amount of a cash donation, or
-		- **(ii)** where the donation is a gift of property other than cash, the amount that is the fair market value of the property at the time that the gift was made; and
-	- **(i)** the signature, as provided in subsection (2) or (3), of a responsible individual who has been authorized by the organization to acknowledge donations.
+		- **(ii)** where the donation is a gift of property other than cash, the amount that is the fair market value of the property at the time that the gift was made;
+	- **(i)** the signature, as provided in subsection (2) or (3), of a responsible individual who has been authorized by the organization to acknowledge donations; and
+	- **(j)** the name and Internet website of the Canada Revenue Agency.
 
 - **(1.1)** Every official receipt issued by another recipient of a gift shall contain a statement that it is an official receipt for income tax purposes and shall show clearly in such a manner that it cannot readily be altered,
 	- **(a)** the name and address of the other recipient of the gift;
@@ -8635,8 +8636,9 @@ except any such expenditure incurred by a corporation that derives all or substa
 	- **(g)** the name and address of the donor including, in the case of an individual, his first name and initial;
 	- **(h)** the amount that is
 		- **(i)** the amount of a cash donation, or
-		- **(ii)** where the donation is a gift of property other than cash, the amount that is the fair market value of the property at the time that the gift was made; and
-	- **(i)** the signature, as provided in subsection (2) or (3.1), of a responsible individual who has been authorized by the other recipient of the gift to acknowledge donations.
+		- **(ii)** where the donation is a gift of property other than cash, the amount that is the fair market value of the property at the time that the gift was made;
+	- **(i)** the signature, as provided in subsection (2) or (3.1), of a responsible individual who has been authorized by the other recipient of the gift to acknowledge donations; and
+	- **(j)** the name and Internet website of the Canada Revenue Agency.
 
 - **(2)** Except as provided in subsection (3) or (3.1), every official receipt shall be signed personally by an individual referred to in paragraph (1)(i) or (1.1)(i).
 
@@ -8661,7 +8663,7 @@ the official receipts may bear a facsimile signature.
 	- **(b)** the year during which the donation was received, or
 	- **(c)** the amount of the donation,
 was incorrectly or illegibly entered shall be regarded as spoiled.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-269, s. 3.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-269, s. 3; SOR/2007-74, s. 1.
 
 
 
@@ -8699,8 +8701,10 @@ section 3501 shall not apply and the copy of the portion of the return, relating
 ### Prescribed Donees
 
 
-**3504** For the purposes of subparagraph 110.1(3)(a)(ii) and paragraph 118.1(6)(b) of the Act, The Nature Conservancy, a charity established in the United States, is a prescribed donee.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/86-488, s. 6; SOR/94-140, s. 11; SOR/94-686, s. 51(F).
+**3504** For the purposes of subparagraph 110.1(3)(a)(ii) and paragraph 118.1(6)(b) of the Act, the following are prescribed donees:
+- **(a)** Friends of the Nature Conservancy of Canada, Inc., a charity established in the United States; and
+- **(b)** The Nature Conservancy, a charity established in the United States.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/86-488, s. 6; SOR/94-140, s. 11; SOR/94-686, s. 51(F); SOR/2007-74, s. 2.
 
 
 
