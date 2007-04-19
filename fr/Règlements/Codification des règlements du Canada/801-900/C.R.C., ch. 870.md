@@ -7308,12 +7308,12 @@ et il doit contenir au moins sept pour cent d’alcool absolu en volume.
 
 
 
-**B.06.002** Il est interdit de vendre un aliment, à l'exclusion d'un colorant synthétique, d'un mélange, d'une préparation ou d'une préparation aromatisante, qui est destiné à la consommation selon le mode d'emploi figurant sur l'étiquette et qui renferme
-- **a)** plus de 300 parties par million de rouge allura, d'amaranthe, d'érythrosine, de tartrazine, de jaune soleil FCF, d'indigotine ou d'un mélange de ces colorants;
-- **b)** plus de 100 parties par million de vert solide FCF, de bleu brillant FCF, ou d'un mélange de ces colorants;
-- **c)** plus de 300 parties par million d'un mélange des colorants synthétiques visés aux alinéas a) et b) dans les limites qui y sont prévues; ou
+**B.06.002** Il est interdit de vendre un aliment, à l’exclusion d’un colorant synthétique, d’un mélange, d’une préparation ou d’une préparation aromatisante, qui est destiné à la consommation selon le mode d’emploi figurant sur l’étiquette et qui renferme
+- **a)** plus de 300 parties par million d’amaranthe, d’érythrosine, d’indigotine, de jaune soleil FCF, de rouge allura, de tartrazine ou d’un mélange de ces colorants, à moins qu’une limite de tolérance plus élevée soit indiquée dans la colonne III de l’article 3 du tableau III de l’article B.16.100;
+- **b)** plus de 100 parties par million de vert solide FCF, de bleu brillant FCF, ou d’un mélange de ces colorants;
+- **c)** plus de 300 parties par million d’un mélange des colorants synthétiques visés aux alinéas a) et b) dans les limites qui y sont prévues; ou
 - **d)** plus de 150 parties par million de ponceau SX.
-> DORS/80-500, art. 2; DORS/84-440, art. 2; DORS/86-178, art. 1(F).
+> DORS/80-500, art. 2; DORS/84-440, art. 2; DORS/86-178, art. 1(F); DORS/2007-75, art. 1.
 
 
 
@@ -9609,11 +9609,12 @@ par gramme, après analyse selon la méthode officielle MFO-14, « Examen micro
 	- **(vi)** de la cellulose microcristalline ou un agent stabilisateur, ou les deux, en quantité telle que la crème glacée, faite du mélange, n'en contiendra pas plus de 0,5 pour cent,
 	- **(vii)** un chélateur ou agent séquestrant,
 	- **(viii)** du sel,
-	- **(ix)** au plus un pour cent de caséine comestible ou de caséinates comestibles ajoutés;
+	- **(ix)** au plus un pour cent de caséine comestible ou de caséinates comestibles ajoutés,
+	- **(x)** des esters monoacides gras de propylèneglycol en quantité telle que la crème glacée, faite du mélange, n’en contiendra pas plus de 0,35 pour cent et du tristéarate de sorbitan en quantité telle que la crème glacée, faite du mélange, n’en contiendra pas plus de 0,035 pour cent;
 - **c)** doit renfermer au moins
 	- **(i)** 36 pour cent de solides, et
 	- **(ii)** 10 pour cent de gras de lait ou, si du cacao ou du sirop de chocolat ont été ajoutés, huit pour cent de gras de lait.
-> DORS/92-400, art. 11; DORS/97-543, art. 2(F).
+> DORS/92-400, art. 11; DORS/97-543, art. 2(F); DORS/2007-75, art. 2.
 
 
 
@@ -18077,6 +18078,14 @@ Tartrazine
 </td>
 </tr>
 <tr>
+<td>**(7)** Grignotines de maïs à saveur de fromage (jaune soleil FCF seulement)
+
+</td>
+<td>**(7)** 600 p.p.m. isolément. Si combiné avec d’autres colorants nommés à la colonne I du présent article et de l’article 4 du présent tableau, la limite de tolérance permise est de 300 p.p.m. conformément à l’alinéa B.06.002c)
+
+</td>
+</tr>
+<tr>
 <td>4</td>
 <td>Bleu brillant FCF
 
@@ -18146,7 +18155,7 @@ Vert solide FCF
 </tr>
 </table>
 
->  DORS/79-752, art. 5; DORS/80-500, art. 6; DORS/82-596, art. 3; DORS/84-440, art. 4; DORS/84-602, art. 1; DORS/89-198, art. 6 à 10; DORS/92-725, art. 5; DORS/93-466, art. 2; DORS/94-689, art. 2(F); DORS/95-434, art. 1; DORS/95-493, art. 1; DORS/97-516, art. 4; DORS/98-580, art. 1(F); DORS/99-96, art. 1; DORS/2000-50, art. 1; DORS/2000-146, art. 1 à 3..
+>  DORS/79-752, art. 5; DORS/80-500, art. 6; DORS/82-596, art. 3; DORS/84-440, art. 4; DORS/84-602, art. 1; DORS/89-198, art. 6 à 10; DORS/92-725, art. 5; DORS/93-466, art. 2; DORS/94-689, art. 2(F); DORS/95-434, art. 1; DORS/95-493, art. 1; DORS/97-516, art. 4; DORS/98-580, art. 1(F); DORS/99-96, art. 1; DORS/2000-50, art. 1; DORS/2000-146, art. 1 à 3; DORS/2007-75, art. 3..
 
 
 
@@ -18647,6 +18656,16 @@ Vert solide FCF
 
 </td>
 <td>**(5)** 0,005 %
+
+</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>**(6)** Mélange de poisson et de viande préparés visé à l’alinéa B.21.006n)
+
+</td>
+<td>**(6)** 0,06 %
 
 </td>
 </tr>
@@ -20384,10 +20403,20 @@ Vert solide FCF
 <tr>
 <td>P.14</td>
 <td>Esters monoacides gras de propylèneglycol</td>
-<td>Aliments non normalisés
+<td>**(1)** Mélange pour crème glacée
 
 </td>
-<td>Bonnes pratiques industrielles
+<td>**(1)** 0,35 % de la crème glacée faite du mélange
+
+</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>**(2)** Aliments non normalisés
+
+</td>
+<td>**(2)** Bonnes pratiques industrielles
 
 </td>
 </tr>
@@ -20995,6 +21024,16 @@ Vert solide FCF
 </td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td>**(9)** Poudings
+
+</td>
+<td>**(9)** 0,5 %
+
+</td>
+</tr>
+<tr>
 <td>S.18A</td>
 <td>Trioléate de  sorbitan</td>
 <td>Boyaux de saucisse
@@ -21021,6 +21060,26 @@ Vert solide FCF
 
 </td>
 <td>**(2)** 1 %, si l'on emploie aussi un mélange de n'importe quel des ingrédients suivants : monostéarate polyoxyéthylénique (20) de sorbitan, tristéarate polyoxyéthylénique (20) de sorbitan ou monostéarate de sorbitan, le total ne doit pas dépasser 1 %
+
+</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>**(3)** Mélange pour crème glacée
+
+</td>
+<td>**(3)** 0,035 % de la crème glacée faite du mélange
+
+</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>**(4)** Desserts congelés non normalisés
+
+</td>
+<td>**(4)** 0,035 %
 
 </td>
 </tr>
@@ -21119,6 +21178,16 @@ Vert solide FCF
 </td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td>**(8)** Poisson et viande préparés déchiquetés, sauf le caviar de lompe; poisson de salaison et chair de poisson de salaison déchiquetés (Titre 21)
+
+</td>
+<td>**(8)** 0,75 %
+
+</td>
+</tr>
+<tr>
 <td>X.1</td>
 <td>Gomme xanthane</td>
 <td>**(1)** Sauce vinaigrette; sauce à salade; aliments non normalisés
@@ -21210,7 +21279,7 @@ Vert solide FCF
 </tr>
 </table>
 
-> DORS/78-403, art. 5(F) à 13(F), 14 à 16, 17(F) à 21(F) et 22; DORS/78-656, art. 14 et 15; DORS/78-876, art. 2; DORS/79-660, art. 5 à 10; DORS/79-752, art. 6; DORS/80-501, art. 4; DORS/81-60, art. 7 à 10; DORS/81-565, art. 4 et 5; DORS/81-934, art. 2 à 6; DORS/82-383, art. 9; DORS/82-1071, art. 9 à 16; DORS/83-932, art. 3 et 4; DORS/84-300, art. 50(A); DORS/84-602, art. 2; DORS/84-801, art. 3; DORS/85-179, art. 2 à 4; DORS/85-623, art. 3(A); DORS/88-99, art. 3; DORS/88-419, art. 2 et 3; DORS/90-87, art. 9; DORS/91-710, art. 1; DORS/92-64, art. 1; DORS/92-93, art. 2; DORS/92-344, art. 1; DORS/93-466, art. 3 et 4; DORS/94-38, art. 2; DORS/94-567, art. 2; DORS/94-689, art. 2(F); DORS/96-160, art. 2; DORS/96-376, art. 1; DORS/96-497, art. 1; DORS/96-499, art. 1; DORS/97-29, art. 1; DORS/97-263, art. 4 à 10; DORS/98-580, art. 1(F); DORS/2000-353, art. 7(F); DORS/2005-316, art. 1; DORS/2005-395, art. 1(F), 2 à 4 et 5(F); DORS/2006-91, art. 4 et 5..
+> DORS/78-403, art. 5(F) à 13(F), 14 à 16, 17(F) à 21(F) et 22; DORS/78-656, art. 14 et 15; DORS/78-876, art. 2; DORS/79-660, art. 5 à 10; DORS/79-752, art. 6; DORS/80-501, art. 4; DORS/81-60, art. 7 à 10; DORS/81-565, art. 4 et 5; DORS/81-934, art. 2 à 6; DORS/82-383, art. 9; DORS/82-1071, art. 9 à 16; DORS/83-932, art. 3 et 4; DORS/84-300, art. 50(A); DORS/84-602, art. 2; DORS/84-801, art. 3; DORS/85-179, art. 2 à 4; DORS/85-623, art. 3(A); DORS/88-99, art. 3; DORS/88-419, art. 2 et 3; DORS/90-87, art. 9; DORS/91-710, art. 1; DORS/92-64, art. 1; DORS/92-93, art. 2; DORS/92-344, art. 1; DORS/93-466, art. 3 et 4; DORS/94-38, art. 2; DORS/94-567, art. 2; DORS/94-689, art. 2(F); DORS/96-160, art. 2; DORS/96-376, art. 1; DORS/96-497, art. 1; DORS/96-499, art. 1; DORS/97-29, art. 1; DORS/97-263, art. 4 à 10; DORS/98-580, art. 1(F); DORS/2000-353, art. 7(F); DORS/2005-316, art. 1; DORS/2005-395, art. 1(F), 2 à 4 et 5(F); DORS/2006-91, art. 4 et 5; DORS/2007-75, art. 4 à 6; DORS/2007-76, art. 1 et 2..
 
 
 
@@ -24248,6 +24317,88 @@ Vert solide FCF
 <td>0,2 %</td>
 </tr>
 <tr>
+<td>C.13.1</td>
+<td>Cellulose en poudre</td>
+<td>(1)</td>
+<td>Pâte à frire et chapelure</td>
+<td>(1)</td>
+<td>Agent de remplissage</td>
+<td>(1)</td>
+<td> 1 %</td>
+</tr>
+<tr>
+<td></td>
+<td>(2)</td>
+<td>Biscottes</td>
+<td>(2)</td>
+<td>Agent de remplissage</td>
+<td>(2)</td>
+<td> 2 %</td>
+</tr>
+<tr>
+<td></td>
+<td>(3)</td>
+<td>Produits de confiserie à teneur réduite en calories (plus pauvre en Calories)</td>
+<td>(3)</td>
+<td>Agent de remplissage</td>
+<td>(3)</td>
+<td> 25 %</td>
+</tr>
+<tr>
+<td></td>
+<td>(4)</td>
+<td>Glaces comestibles non normalisées</td>
+<td>(4)</td>
+<td>Agent de remplissage</td>
+<td>(4)</td>
+<td> 3 %</td>
+</tr>
+<tr>
+<td></td>
+<td>(5)</td>
+<td>Garnitures</td>
+<td>(5)</td>
+<td>Agent de remplissage</td>
+<td>(5)</td>
+<td> 0,5 %</td>
+</tr>
+<tr>
+<td></td>
+<td>(6)</td>
+<td>Aliments vendus sous forme de comprimés</td>
+<td>(6)</td>
+<td>Agent de remplissage</td>
+<td>(6)</td>
+<td> 50 %</td>
+</tr>
+<tr>
+<td></td>
+<td>(7)</td>
+<td>Glaçages</td>
+<td>(7)</td>
+<td>Agent de remplissage</td>
+<td>(7)</td>
+<td> 1 %</td>
+</tr>
+<tr>
+<td></td>
+<td>(8)</td>
+<td>Assaisonnements</td>
+<td>(8)</td>
+<td>Agent de remplissage</td>
+<td>(8)</td>
+<td> 3 %</td>
+</tr>
+<tr>
+<td></td>
+<td>(9)</td>
+<td>Produits de boulangerie sucrés</td>
+<td>(9)</td>
+<td>Agent de remplissage</td>
+<td>(9)</td>
+<td> 8 %</td>
+</tr>
+<tr>
 <td>C.14A</td>
 <td>Chloropenta-  fluoréthane</td>
 <td></td>
@@ -25497,7 +25648,7 @@ Vert solide FCF
 </tr>
 </table>
 
->  DORS/78-401, art. 3; DORS/78-403, art. 23 à 25; DORS/78-876, art. 4; DORS/79-660, art. 13; DORS/79-752, art. 8; DORS/80-632, art. 6 à 13; DORS/81-83, art. 4; DORS/81-617, art. 3; DORS/81-934, art. 11 et 12; DORS/82-566, art. 3 et 4; DORS/82-1071, art. 18 à 20; DORS/83-410, art. 3; DORS/83-584, art. 1; DORS/83-932, art. 5 et 6; DORS/84-17, art. 6; DORS/84-441, art. 1; DORS/84-602, art. 3; DORS/84-762, art. 10; DORS/84-801, art. 5 et 6; DORS/86-1112, art. 5; DORS/86-1125, art. 2; DORS/87-469, art. 1; DORS/87-640, art. 8; DORS/88-419, art. 4; DORS/88-534, art. 5 et 6; DORS/89-175, art. 2; DORS/89-197, art. 1; DORS/89-198, art. 11; DORS/89-555, art. 2 et 3; DORS/91-90, art. 2; DORS/91-124, art. 6 à 9; DORS/91-149, art. 3; DORS/91-186, art. 1; DORS/91-409, art. 7; DORS/91-527, art. 4; DORS/92-229, art. 1; DORS/92-344, art. 2 à 4; DORS/93-276, art. 4 à 11; DORS/94-416, art. 1; DORS/94-227, art. 5 à 10; DORS/94-689, art. 2(F); DORS/94-723, art. 1; DORS/96-260, art. 1; DORS/96-378, art. 1; DORS/97-509, art. 1; DORS/98-580, art. 1(F); DORS/99-97, art. 1; DORS/99-420, art. 11(F); DORS/2000-353, art. 8(F); DORS/2001-94, art. 3; DORS/2005-316, art. 2(F) et 3; DORS/2006-91, art. 6 à 12.
+>  DORS/78-401, art. 3; DORS/78-403, art. 23 à 25; DORS/78-876, art. 4; DORS/79-660, art. 13; DORS/79-752, art. 8; DORS/80-632, art. 6 à 13; DORS/81-83, art. 4; DORS/81-617, art. 3; DORS/81-934, art. 11 et 12; DORS/82-566, art. 3 et 4; DORS/82-1071, art. 18 à 20; DORS/83-410, art. 3; DORS/83-584, art. 1; DORS/83-932, art. 5 et 6; DORS/84-17, art. 6; DORS/84-441, art. 1; DORS/84-602, art. 3; DORS/84-762, art. 10; DORS/84-801, art. 5 et 6; DORS/86-1112, art. 5; DORS/86-1125, art. 2; DORS/87-469, art. 1; DORS/87-640, art. 8; DORS/88-419, art. 4; DORS/88-534, art. 5 et 6; DORS/89-175, art. 2; DORS/89-197, art. 1; DORS/89-198, art. 11; DORS/89-555, art. 2 et 3; DORS/91-90, art. 2; DORS/91-124, art. 6 à 9; DORS/91-149, art. 3; DORS/91-186, art. 1; DORS/91-409, art. 7; DORS/91-527, art. 4; DORS/92-229, art. 1; DORS/92-344, art. 2 à 4; DORS/93-276, art. 4 à 11; DORS/94-416, art. 1; DORS/94-227, art. 5 à 10; DORS/94-689, art. 2(F); DORS/94-723, art. 1; DORS/96-260, art. 1; DORS/96-378, art. 1; DORS/97-509, art. 1; DORS/98-580, art. 1(F); DORS/99-97, art. 1; DORS/99-420, art. 11(F); DORS/2000-353, art. 8(F); DORS/2001-94, art. 3; DORS/2005-316, art. 2(F) et 3; DORS/2006-91, art. 6 à 12; DORS/2007-75, art. 7..
 
 
 
@@ -25844,7 +25995,7 @@ Vert solide FCF
 <td>**(1)** Mélange de poisson et de viande préparés visé à l'alinéa B.21.006n)
 
 </td>
-<td>**(1)** 3,5 %
+<td>**(1)** 6,0 %
 
 </td>
 </tr>
@@ -26025,7 +26176,7 @@ Vert solide FCF
 </tr>
 </table>
 
->  DORS/93-276, art. 12; DORS/94-625, art. 5; DORS/94-689, art. 2(F); DORS/94-779, art. 3; DORS/97-512, art. 3 et 4; DORS/2004-261, art. 2..
+>  DORS/93-276, art. 12; DORS/94-625, art. 5; DORS/94-689, art. 2(F); DORS/94-779, art. 3; DORS/97-512, art. 3 et 4; DORS/2004-261, art. 2; DORS/2007-76, art. 3..
 
 
 
@@ -27118,9 +27269,16 @@ Vert solide FCF
 <tr>
 <td>S.7</td>
 <td>Bisulfate de sodium</td>
-<td></td>
+<td>(1)</td>
 <td>Ale; bière; bière légère; liqueur de malt; porter; stout</td>
+<td>(1) </td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
 <td></td>
+<td>(2)</td>
+<td>Produits de boulangerie non normalisés</td>
+<td>(2) </td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
@@ -27407,7 +27565,7 @@ Vert solide FCF
 </tr>
 </table>
 
->  DORS/78-874, art. 4; DORS/79-660, art. 14 à 17; DORS/79-664, art. 3 à 13; DORS/79-752, art. 9; DORS/80-501, art. 4; DORS/86-1112, art. 6 à 8; DORS/92-106, art. 1; DORS/92-344, art. 5; DORS/94-689, art. 2(F); DORS/95-281, art. 2 à 5; DORS/95-436, art. 2 et 3; DORS/97-263, art. 11 à 25; DORS/97-561, art. 3; DORS/98-580, art. 1(F); DORS/2001-94, art. 3; DORS/2006-91, art. 13 à 20..
+>  DORS/78-874, art. 4; DORS/79-660, art. 14 à 17; DORS/79-664, art. 3 à 13; DORS/79-752, art. 9; DORS/80-501, art. 4; DORS/86-1112, art. 6 à 8; DORS/92-106, art. 1; DORS/92-344, art. 5; DORS/94-689, art. 2(F); DORS/95-281, art. 2 à 5; DORS/95-436, art. 2 et 3; DORS/97-263, art. 11 à 25; DORS/97-561, art. 3; DORS/98-580, art. 1(F); DORS/2001-94, art. 3; DORS/2006-91, art. 13 à 20; DORS/2007-75, art. 8..
 
 
 
@@ -29644,7 +29802,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td>D.1</td>
-<td>Versenate (éthylènediamine-tétracétate) disodique</td>
+<td>Versenate (Éthylènediaminetétracétate) disodique</td>
 <td>**(1)** Sauces et condiments
 
 </td>
@@ -31366,7 +31524,7 @@ Vert solide FCF
 </tr>
 </table>
 
->  DORS/78-403, art. 26 et 27; DORS/82-383, art. 12; DORS/82-406, art. 1; DORS/82-913, art. 5; DORS/82-1071, art. 21 et 22; DORS/84-541, art. 1; DORS/86-89, art. 8 et 9; DORS/86-178, art. 4 à 7; DORS/86-1112, art. 9; DORS/90-667, art. 1; DORS/94-689, art. 2; DORS/96-259, art. 1; DORS/96-377, art. 1.
+> DORS/78-403, art. 26 et 27; DORS/82-383, art. 12; DORS/82-406, art. 1; DORS/82-913, art. 5; DORS/82-1071, art. 21 et 22; DORS/84-541, art. 1; DORS/86-89, art. 8 et 9; DORS/86-178, art. 4 à 7; DORS/86-1112, art. 9; DORS/90-667, art. 1; DORS/94-689, art. 2; DORS/96-259, art. 1; DORS/96-377, art. 1.
 
 
 
@@ -31732,26 +31890,27 @@ il doit présenter les caractéristiques suivantes :
 
 
 
-**B.21.006** [N]. Le poisson et la viande préparés doivent être l'aliment entier ou déchiqueté préparé à partir du poisson ou de la viande, selon le cas, frais ou en conserve; ils peuvent être cuits ou en conserve et peuvent,
-- **a)** dans le cas de pâte de homard et d'oeufs de poisson (caviar), contenir un colorant pour aliments;
-- **b)** dans le cas des crevettes cuites congelées, des crustacés en conserve, des maquereaux en conserve et des mollusques en conserve, contenir de l'acide citrique ou du jus de citron;
+**B.21.006** **[N].** Le poisson et la viande préparés doivent être l’aliment entier ou déchiqueté préparé à partir du poisson ou de la viande, selon le cas, frais ou en conserve; ils peuvent être cuits ou en conserve et peuvent,
+- **a)** dans le cas de pâte de homard et d’oeufs de poisson (caviar), contenir un colorant pour aliments;
+- **b)** dans le cas des crevettes cuites congelées, des crustacés en conserve, des maquereaux en conserve et des mollusques en conserve, contenir de l’acide citrique ou du jus de citron;
 - **c)** dans le cas de pâte de poisson, contenir un remplissage, un liant à poisson, des monoglycérides ou des mono et diglycérides;
-- **d)** dans le cas des conserves de saumon, de thon, de homard, de chair de crabe et de crevettes, contenir de l'éthylènediaminetétracétate disodique de calcium (EDTA disodique de calcium) et du sulfate d'aluminium;
-- **e)** dans le cas du thon en conserve, contenir de l'acide ascorbique;
+- **d)** dans le cas des conserves de saumon, de thon, de homard, de chair de crabe et de crevettes, contenir de l’éthylènediaminetétracétate disodique de calcium (EDTA disodique de calcium) et du sulfate d’aluminium;
+- **e)** dans le cas du thon en conserve, contenir de l’acide ascorbique;
 - **f)** dans le cas des fruits de mer en conserve, contenir de l’hexamétaphosphate de sodium, du pyrophosphate acide de sodium ou du tripolyphosphate de sodium, seul ou en association, la quantité totale de phosphate ajouté, calculé sous forme de phosphate dibasique de sodium, ne devant pas dépasser 0,5 %;
 - **g)** contenir un arôme de fumée liquide ou un arôme de fumée liquide concentré;
-- **h)** contenir de l'huile comestible, un bouillon végétal, de la sauce tomate ou de la purée de tomates;
-- **i)** contenir un gélifiant (agent gélatinisant), si l'expression « en gelée » figure, comme partie intégrante du nom usuel, sur l'espace principal de l'étiquette;
+- **h)** contenir de l’huile comestible, un bouillon végétal, de la sauce tomate ou de la purée de tomates;
+- **i)** contenir un gélifiant (agent gélatinisant), si l’expression « en gelée » figure, comme partie intégrante du nom usuel, sur l’espace principal de l’étiquette;
 - **j)** contenir du sel;
-- **k)** dans le cas des conserves d'escargots, des conserves d'escargots de mer et des conserves de palourdes, contenir du versénate (éthylènediamine tétracétate) de calcium disodique;
+- **k)** dans le cas des conserves d’escargots, des conserves d’escargots de mer et des conserves de palourdes, contenir du versénate (éthylènediamine tétracétate) de calcium disodique;
 - **l)** dans le cas de miettes de thon en conserve, contenir du sulfite de sodium;
 - **m)** dans le cas du caviar de lompe, contenir de la gomme adragante;
-- **n)** dans le cas d'un mélange de poisson et de viande préparés qui a l'apparence et le goût de la chair d'animaux marins ou d'animaux d'eau douce, contenir du remplissage, un liant à poisson, de l'oeuf entier, du blanc d'oeuf, du jaune d'oeuf, un colorant alimentaire, des agents gélatinisants ou stabilisants, des agents modifiant la texture, des préparations aromatisantes naturelles, des préparations aromatisantes artificielles, des agents rajusteurs du pH, de l'édulcorant et, dans une proportion ne dépassant pas deux pour cent du mélange, des légumineuses;
-- **o)** dans le cas des crustacés, contenir du bisulfite de potassium, du bisulfite de sodium, du dithionite de sodium, du métabisulfite de potassium, du métabisulfite de sodium, du sulfite de sodium ou de l'anhydride sulfureux;
-- **p)** dans le cas des crustacés et mollusques congelés, contenir de l'oxyde de calcium et de l'hydroxyde de sodium;
-- **q)** dans le cas de produits congelés de poisson pré-cuit pané, contenir de l'acide citrique en une quantité n'excédant pas la limite de tolérance de 0,1 pour cent.
-- **r)** dans le cas des clams en conserve, contenir de l’érythorbate de sodium en une quantité n’excédant pas la limite de tolérance de 350 parties par million.
-> DORS/80-13, art. 9; DORS/81-60, art. 12; DORS/84-602, art. 4; DORS/86-1020, art. 2; DORS/89-197, art. 2; DORS/92-344, art. 6; DORS/93-276, art. 13; DORS/94-141, art. 2; DORS/94-567, art. 3; DORS/94-689, art. 2(A); DORS/97-151, art. 27; DORS/97-562, art. 3; DORS/2005-316, art. 12.
+- **n)** dans le cas d’un mélange de poisson et de viande préparés qui a l’apparence et le goût de la chair d’animaux marins ou d’animaux d’eau douce, contenir du remplissage, un liant à poisson, de l’oeuf entier, du blanc d’oeuf, du jaune d’oeuf, un colorant alimentaire, des agents gélatinisants ou stabilisants, des agents modifiant la texture, des préparations aromatisantes naturelles, des préparations aromatisantes artificielles, des agents rajusteurs du pH, de l’édulcorant et, dans une proportion ne dépassant pas deux pour cent du mélange, des légumineuses;
+- **o)** dans le cas des crustacés, contenir du bisulfite de potassium, du bisulfite de sodium, du dithionite de sodium, du métabisulfite de potassium, du métabisulfite de sodium, du sulfite de sodium ou de l’anhydride sulfureux;
+- **p)** dans le cas des crustacés et mollusques congelés, contenir de l’oxyde de calcium et de l’hydroxyde de sodium;
+- **q)** dans le cas de produits congelés de poisson pré-cuit pané, contenir de l’acide citrique en une quantité n’excédant pas la limite de tolérance de 0,1 pour cent;
+- **r)** dans le cas des clams en conserve, contenir de l’érythorbate de sodium en une quantité n’excédant pas la limite de tolérance de 350 parties par million;
+- **s)** dans le cas des produits déchiquetés, sauf le caviar de lompe, contenir de la gomme adragante en une quantité n’excédant pas la limite de tolérance de 0,75 pour cent.
+> DORS/80-13, art. 9; DORS/81-60, art. 12; DORS/84-602, art. 4; DORS/86-1020, art. 2; DORS/89-197, art. 2; DORS/92-344, art. 6; DORS/93-276, art. 13; DORS/94-141, art. 2; DORS/94-567, art. 3; DORS/94-689, art. 2(A); DORS/97-151, art. 27; DORS/97-562, art. 3; DORS/2005-316, art. 12; DORS/2007-76, art. 4.
 
 
 
@@ -31780,12 +31939,13 @@ il doit présenter les caractéristiques suivantes :
 
 
 
-**B.21.021** [N]. Le poisson de salaison et la chair de poisson de salaison doivent être du poisson ou de la chair de poisson, à l'état cru ou cuit, qui ont été desséchés, salés, marinés, saumurés ou fumés; ils peuvent renfermer un agent de conservation de la catégorie I, du dextrose, du glucose, des épices, du sucre et du vinaigre, et
+**B.21.021** **[N].** Le poisson de salaison et la chair de poisson de salaison doivent être du poisson ou de la chair de poisson, à l'état cru ou cuit, qui ont été desséchés, salés, marinés, saumurés ou fumés; ils peuvent renfermer un agent de conservation de la catégorie I, du dextrose, du glucose, des épices, du sucre et du vinaigre, et
 - **a)** le poisson desséché qui a été salé ou fumé et la pâte de poisson fumé et salé conditionnée à froid peuvent renfermer de l'acide sorbique et ses sels;
 - **b)** le poisson fumé peut renfermer un colorant pour aliments;
 - **c)** les produits de poisson ou de chair de poisson emballés, marinés ou conditionnés à froid par une autre méthode peuvent renfermer du bois de santal, de l'acide benzoïque ou ses sels, du méthyl-p-hydroxy-bensoate et du propyl-p-hydroxy-bensoate;
-- **d)** l'anchois salé, le chinchard salé et la crevette salée peuvent contenir de l'érythrosine en telle quantité que le produit fini renferme au plus 125 parties par million d'érythrosine.
-> DORS/95-493, art. 2; DORS/97-562, art. 4(F).
+- **d)** l'anchois salé, le chinchard salé et la crevette salée peuvent contenir de l'érythrosine en telle quantité que le produit fini renferme au plus 125 parties par million d'érythrosine;
+- **e)** les produits déchiquetés peuvent contenir de la gomme adragante en une quantité n’excédant pas la limite de tolérance de 0,75 pour cent.
+> DORS/95-493, art. 2; DORS/97-562, art. 4(F); DORS/2007-76, art. 5.
 
 
 
