@@ -8562,7 +8562,7 @@ le total des montants au titre du traitement ou du salaire du particulier qui pe
 
 **3501** 
 
-- **(1)** Tout reçu officiel délivré par une organisation enregistrée doit énoncer que ledit reçu est un reçu officiel aux fins de l’impôt sur le revenu et indiquer clairement, de façon qu’ils ne puissent être modifiés facilement, les détails suivants :
+- **(1)** Tout reçu officiel délivré par une organisation enregistrée doit énoncer qu’il s’agit d’un reçu officiel aux fins de l’impôt sur le revenu et indiquer clairement, de façon à ce qu’ils ne puissent être modifiés facilement, les détails suivants :
 	- **a)** le nom et l’adresse au Canada de l’organisation ainsi qu’ils sont enregistrés auprès du ministre;
 	- **b)** le numéro d’enregistrement attribué par le ministre à l’organisation;
 	- **c)** le numéro de série du reçu;
@@ -8576,10 +8576,11 @@ le total des montants au titre du traitement ou du salaire du particulier qui pe
 	- **g)** le nom et l’adresse du donateur y compris, dans le cas d’un particulier, son prénom et son initiale;
 	- **h)** le montant qui correspond
 		- **(i)** au montant du don en espèces, ou
-		- **(ii)** lorsque le don est un don de biens autres que des espèces, à la juste valeur marchande du bien au moment où le don a été fait; et
-	- **i)** la signature, ainsi qu’il est prévu au paragraphe (2) ou (3), d’un particulier compétent qui a été autorisé par l’organisation à accuser réception des dons.
+		- **(ii)** lorsque le don est un don de biens autres que des espèces, à la juste valeur marchande du bien au moment où le don a été fait;
+	- **i)** la signature, ainsi qu’il est prévu au paragraphe (2) ou (3), d’un particulier compétent qui a été autorisé par l’organisation à accuser réception des dons;
+	- **j)** le nom de l’Agence du revenu du Canada et l’adresse de son site Internet.
 
-- **(1.1)** Tout reçu officiel délivré par un autre bénéficiaire d’un don doit énoncer que ledit reçu est un reçu officiel aux fins de l’impôt sur le revenu et indiquer clairement, de façon à ce qu’il ne puisse pas facilement être modifié,
+- **(1.1)** Tout reçu officiel délivré par un autre bénéficiaire d’un don doit énoncer qu’il s’agit d’un reçu officiel aux fins de l’impôt sur le revenu et indiquer clairement, de façon à ce qu’ils ne puissent être modifiés facilement, les détails suivants :
 	- **a)** le nom et l’adresse de l’autre bénéficiaire d’un don;
 	- **b)** le numéro de série du reçu;
 	- **c)** le lieu ou l’endroit où le reçu a été délivré;
@@ -8592,8 +8593,9 @@ le total des montants au titre du traitement ou du salaire du particulier qui pe
 	- **g)** le nom et l’adresse du donateur, y compris, dans le cas d’un particulier, son prénom et son initial;
 	- **h)** le montant qui correspond
 		- **(i)** au montant du don en espèces, ou
-		- **(ii)** lorsque le don est un don de biens autres que des espèces, à la juste valeur marchande du bien au moment où le don a été fait; et
-	- **i)** la signature, ainsi qu’il est prévu au paragraphe (2) ou (3.1), d’un particulier responsable qui a été autorisé par l’autre bénéficiaire d’un don à accuser réception des dons.
+		- **(ii)** lorsque le don est un don de biens autres que des espèces, à la juste valeur marchande du bien au moment où le don a été fait;
+	- **i)** la signature, ainsi qu’il est prévu au paragraphe (2) ou (3.1), d’un particulier responsable qui a été autorisé par l’autre bénéficiaire d’un don à accuser réception des dons;
+	- **j)** le nom de l’Agence du revenu du Canada et l’adresse de son site Internet.
 
 - **(2)** Sous réserve du paragraphe (3) ou (3.1), tout reçu officiel doit être signé personnellement par un particulier visé à l’alinéa (1)i) ou (1.1)i).
 
@@ -8611,14 +8613,14 @@ les reçus officiels peuvent porter une signature autographiée.
 
 - **(4)** Un reçu officiel délivré pour remplacer un reçu officiel délivré antérieurement doit indiquer clairement qu’il remplace le reçu initial et, en plus de son propre numéro de série, il doit aussi indiquer le numéro de série du reçu qui avait été délivré en premier.
 
-- **(5)** Une formule de reçu officiel qui est gâchée doit porter l’inscription «annulée» et cette formule ainsi que son duplicata doivent être conservés par l’organisation enregistrée ou par l’autre bénéficiaire d’un don en tant que partie de ses registres.
+- **(5)** Une formule de reçu officiel qui est gâchée doit porter l’inscription « annulée » et cette formule ainsi que son duplicata doivent être conservés par l’organisation enregistrée ou par l’autre bénéficiaire d’un don en tant que partie de ses registres.
 
 - **(6)** Toute formule de reçu officiel sur laquelle
 	- **a)** le jour auquel le don a été reçu,
 	- **b)** l’année dans laquelle le don a été reçu, ou
 	- **c)** le montant du don,
 a été inscrit de façon inexacte ou illisible doit être considérée comme gâchée.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/81-269, art. 3.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/81-269, art. 3; DORS/2007-74, art. 1.
 
 
 
@@ -8655,8 +8657,10 @@ a été inscrit de façon inexacte ou illisible doit être considérée comme g�
 ### Donataires prescrits
 
 
-**3504** Est un donataire visé pour l’application des alinéas 110.1(3)b) et 118.1(6)b) de la Loi *The Nature Conservancy*, organisme de bienfaisance établi aux États-Unis.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/86-488, art. 6; DORS/94-140, art. 11; DORS/94-686, art. 51(F).
+**3504** Les organismes ci-après sont des donataires visés pour l’application des alinéas 110.1(3)b) et 118.1(6)b) de la Loi :
+- **a)** Friends of the Nature Conservancy of Canada, Inc., organisme de bienfaisance établi aux États-Unis;
+- **b)** The Nature Conservancy, organisme de bienfaisance établi aux États-Unis.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/86-488, art. 6; DORS/94-140, art. 11; DORS/94-686, art. 51(F); DORS/2007-74, art. 2.
 
 
 
