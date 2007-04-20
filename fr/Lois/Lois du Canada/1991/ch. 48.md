@@ -48,7 +48,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ,  ou ,  or ***administrateur*** Indépendamment de son titre, la personne physique qui fait fonction d’administrateur d’une personne morale; ***conseil d’administration*** ou ***conseil*** s’entend de l’ensemble des administrateurs d’une personne morale.
 
-***adresse enregistrée*** Dernière adresse postale selon le registre des associés de l’association, dans le cas d’un associé, ou selon le registre central des valeurs mobilières de l’association, dans le cas d’un actionnaire.
+***adresse enregistrée***
+- **a)** Dans le cas de l’associé d’une association, dernière adresse postale selon le registre des associés de l’association;
+- **b)** dans le cas de l’actionnaire d’une association, dernière adresse postale selon le registre central des valeurs mobilières de l’association;
+- **c)** dans le cas de toute autre personne relativement à une association de détail, dernière adresse postale selon les livres du bureau en cause.
 
 ***affaires internes*** Les relations entre une association, les entités de son groupe et leurs associés, actionnaires, administrateurs et dirigeants, à l’exclusion de leur activité commerciale.
 
@@ -218,7 +221,7 @@ French version only***association n’ayant pas fait appel au public*** S’ente
 ***vérificateur*** S’entend notamment d’un cabinet de comptables.
 
  et ***véritable propriétaire*** Est considéré comme tel le propriétaire de valeurs mobilières inscrites au nom d’un ou de plusieurs intermédiaires, notamment d’un fiduciaire ou d’un mandataire; ***propriété effective*** s’entend du droit du véritable propriétaire.
-> 1991, ch. 48, art. 2, 496 et 497; 1992, ch. 51, art. 31; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 24, ch. 28, art. 115; 2000, ch. 12, art. 84; 2001, ch. 9, art. 248, ch. 27, art. 234; 2002, ch. 7, art. 136(A); 2005, ch. 54, art. 140.
+> 1991, ch. 48, art. 2, 496 et 497; 1992, ch. 51, art. 31; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 24, ch. 28, art. 115; 2000, ch. 12, art. 84; 2001, ch. 9, art. 248, ch. 27, art. 234; 2002, ch. 7, art. 136(A); 2005, ch. 54, art. 140; 2007, ch. 6, art. 135.
 
 
 
@@ -347,7 +350,7 @@ French version only***association n’ayant pas fait appel au public*** S’ente
 
 
 
-**Action concertée : droits de vote**
+**Action concertée : droits de vote**
 
 **10** 
 
@@ -361,33 +364,45 @@ French version only***association n’ayant pas fait appel au public*** S’ente
 
 - **(3)** Si, à son avis, il est raisonnable de conclure à l’existence d’une entente, d’un accord ou d’un engagement au sens du paragraphe (1), le surintendant peut décider que les associés en cause se sont entendus pour agir ensemble ou de concert.
 
+**Contravention**
+
+- **(4)** Tout associé contrevient à l’article 52 s’il convient d’agir avec d’autres associés — ou de concert avec ceux-ci — de sorte qu’un seul associé réputé tel contrevient à cet article.
+> 1991, ch. 48, art. 10; 2007, ch. 6, art. 136.
 
 
 
-**Action concertée : actions**
+
+
+**Action concertée : actions**
 
 **11** 
 
-- **(1)** Pour l’application de la partie VIII, sont réputées être une seule personne qui acquiert à titre de véritable propriétaire le nombre total des actions d’une association ou des actions ou titres de participation d’une entité dont elles ont la propriété effective les personnes qui, en vertu d’une entente, d’un accord ou d’un engagement — formel ou informel, oral ou écrit — conviennent d’agir ensemble ou de concert à l’égard :
+- **(1)** Pour l’application de la partie VIII, sont réputées être une seule personne qui acquiert à titre de véritable propriétaire le nombre total des actions d’une association ou des actions ou titres de participation d’une entité dont elles ont la propriété effective les personnes qui, en vertu d’une entente, d’un accord ou d’un engagement — formel ou informel, oral ou écrit — conviennent d’agir ensemble ou de concert à l’égard :
 	- **a)** soit d’actions de l’association dont elles sont les véritables propriétaires;
 	- **b)** soit d’actions ou de titres de participation — dans le cas de l’entité qui détient la propriété effective d’actions de l’association — dont elles sont les véritables propriétaires;
 	- **c)** soit d’actions ou de titres de participation — dans le cas d’une entité qui contrôle une entité qui détient la propriété effective d’actions de l’association — dont elles sont les véritables propriétaires.
 
 **Idem**
 
-- **(2)** Sans que soit limitée la portée générale du paragraphe (1), est réputé être un accord, une entente ou un engagement au sens de ce paragraphe tout accord, entente ou engagement permettant à chacune des personnes qui sont les véritables propriétaires d’actions d’une association ou d’actions ou titres de participation de l’entité visée aux alinéas (1)b) ou c) :
+- **(2)** Sans que soit limitée la portée générale du paragraphe (1), est réputé être un accord, une entente ou un engagement au sens de ce paragraphe tout accord, entente ou engagement permettant à chacune des personnes qui sont les véritables propriétaires d’actions d’une association ou d’actions ou titres de participation de l’entité visée aux alinéas (1)b) ou c) :
 	- **a)** soit d’opposer — personnellement ou par délégué — son veto à une proposition soumise au conseil d’administration;
 	- **b)** soit d’empêcher l’approbation de toute proposition soumise au conseil d’administration en l’absence de son consentement ou de celui de son délégué.
 
 **Exceptions**
 
-- **(3)** Pour l’application du présent article, les personnes sont présumées ne pas s’être entendues pour agir ensemble ou de concert uniquement du fait :
+- **(3)** Pour l’application du présent article, les personnes sont présumées ne pas s’être entendues pour agir ensemble ou de concert uniquement du fait :
 	- **a)** qu’une est le fondé de pouvoir d’une ou de plusieurs autres de ces personnes à l’égard des actions ou titres de participation visés au paragraphe (1);
 	- **b)** qu’elles exercent les droits de vote attachés aux actions ou titres de participation visés au paragraphe (1) de la même façon.
 
 **Désignation**
 
 - **(4)** Si, à son avis, il est raisonnable de conclure à l’existence d’une entente, d’un accord ou d’un engagement au sens des paragraphes (1) ou (2), le surintendant peut décider que les personnes en cause se sont entendues pour agir ensemble ou de concert.
+
+**Contravention**
+
+- **(5)** Toute personne contrevient à une disposition de la partie VIII si elle convient d’agir avec d’autres personnes — ou de concert avec celles-ci — de sorte qu’une seule personne réputée telle contrevient à la disposition.
+> 1991, ch. 48, art. 11; 2007, ch. 6, art. 137.
+
 
 
 
@@ -544,12 +559,16 @@ French version only***association n’ayant pas fait appel au public*** S’ente
 
 **22** 
 
-- **(1)** Sous réserve du paragraphe (2), les associations ne peuvent exercer leurs activités après le 24 avril 2007; toutefois, si le Parlement est dissous à cette date ou au cours des trois mois qui précèdent, elles peuvent exercer leurs activités jusqu’à cent quatre-vingts jours après le premier jour de la première session de la législature suivante.
+- **(1)** Sous réserve des paragraphes (2) et (3), les associations ne peuvent exercer leurs activités après la date du cinquième anniversaire de l’entrée en vigueur du présent article.
 
 **Prorogation**
 
 - **(2)** Le gouverneur en conseil peut, par décret, proroger jusqu’à concurrence de six mois la période au cours de laquelle les associations peuvent exercer leurs activités. Un seul décret peut être pris aux termes du présent paragraphe.
-> 1991, ch. 48, art. 22; 1997, ch. 15, art. 116; 2001, ch. 9, art. 254; 2006, ch. 4, art. 200.
+
+**Exception**
+
+- **(3)** Si le Parlement est dissous à la date du cinquième anniversaire de l’entrée en vigueur du présent article, au cours des trois mois qui la précèdent ou au cours de la période prévue au paragraphe (2), les associations peuvent exercer leurs activités jusqu’à cent quatre-vingts jours après le premier jour de la première session de la législature suivante.
+> 1991, ch. 48, art. 22; 1997, ch. 15, art. 116; 2001, ch. 9, art. 254; 2006, ch. 4, art. 200; 2007, ch. 6, art. 138.
 
 
 
@@ -579,9 +598,9 @@ French version only***association n’ayant pas fait appel au public*** S’ente
 - **a)** soit une association;
 - **b)** soit des personnes à qui l’adhésion à l’association est réservée au titre de la partie IV et qui comportent au moins :
 	- **(i)** ou bien deux centrales non constituées dans la même province,
-	- **(ii)** ou bien dix coopératives locales non constituées dans la même province,
+	- **(ii)** ou bien deux coopératives locales non constituées dans la même province,
 	- **(iii)** ou bien deux confédérations non constituées dans la même province.
-> 1991, ch. 48, art. 24; 2001, ch. 9, art. 256.
+> 1991, ch. 48, art. 24; 2001, ch. 9, art. 256; 2007, ch. 6, art. 139.
 
 
 
@@ -780,15 +799,24 @@ French version only***association n’ayant pas fait appel au public*** S’ente
 
 **Effets de la prorogation**
 
-**31.6** Les règles suivantes s’appliquent à toute personne morale prorogée comme association sous le régime de la présente partie :
-- **a)** les biens de la personne morale appartiennent à l’association;
-- **b)** l’association assume les obligations de la personne morale;
-- **c)** aucune atteinte n’est portée aux causes d’action déjà nées à l’égard de la personne morale;
-- **d)** les procédures civiles, criminelles ou administratives engagées par ou contre la personne morale peuvent être continuées par ou contre l’association;
-- **e)** toute décision judiciaire ou quasi judiciaire rendue en faveur de la personne morale ou contre elle est exécutoire à l’égard de l’association;
-- **f)** les personnes qui, à la date de prorogation, détenaient des valeurs de la personne morale conservent tous les droits et privilèges qu’elles avaient à cette date — leur exercice étant dès lors assujetti à la présente loi — et continuent d’assumer les obligations qui en découlent;
-- **g)** les règlements administratifs de la personne morale deviennent, sous réserve de leur compatibilité avec la présente loi, ceux de l’association.
-> 2001, ch. 9, art. 258.
+**31.6** 
+
+- **(1)** Les règles suivantes s’appliquent à toute personne morale prorogée comme association sous le régime de la présente partie :
+	- **a)** les biens de la personne morale appartiennent à l’association;
+	- **b)** l’association assume les obligations de la personne morale;
+	- **c)** aucune atteinte n’est portée aux causes d’action déjà nées à l’égard de la personne morale;
+	- **d)** les procédures civiles, criminelles ou administratives engagées par ou contre la personne morale peuvent être continuées par ou contre l’association;
+	- **e)** toute décision judiciaire ou quasi judiciaire rendue en faveur de la personne morale ou contre elle est exécutoire à l’égard de l’association;
+	- **f)** les personnes qui, à la date de prorogation, détenaient des valeurs de la personne morale conservent tous les droits et privilèges qu’elles avaient à cette date — leur exercice étant dès lors assujetti à la présente loi — et continuent d’assumer les obligations qui en découlent;
+	- **g)** les règlements administratifs de la personne morale deviennent, sous réserve de leur compatibilité avec la présente loi, ceux de l’association.
+
+**Parts sociales**
+
+- **(2)** La prorogation d’une personne morale en association a les effets suivants :
+	- **a) ** les actions ordinaires de la personne morale sont réputées être des parts sociales auxquelles sont rattachés les droits, privilèges et restrictions précisés dans la présente loi;
+	- **b) ** les détenteurs des actions ordinaires de la personne morale sont réputés être les associés de l’association;
+	- **c) ** est nulle toute convention qui est intervenue avant la prorogation et aux termes de laquelle les détenteurs d’actions ordinaires de la personne morale ont convenu d’exercer les droits de vote se rattachant à ces actions de la manière qui y est prévue.
+> 2001, ch. 9, art. 258; 2007, ch. 6, art. 140.
 
 
 
@@ -798,16 +826,16 @@ French version only***association n’ayant pas fait appel au public*** S’ente
 
 **31.7** 
 
-- **(1)** Par dérogation à toute autre disposition de la présente loi ou à ses règlements, le ministre peut, par arrêté pris sur recommandation du surintendant, autoriser l’association à laquelle ont été délivrées des lettres patentes de prorogation dans le cadre de l’article 31.3 à :
+- **(1)** Par dérogation à toute autre disposition de la présente loi ou à ses règlements, le ministre peut, par arrêté pris sur recommandation du surintendant, autoriser l’association à laquelle ont été délivrées des lettres patentes de prorogation dans le cadre de l’article 31.3 à :
 	- **a)** exercer toute activité précisée dans l’arrêté et interdite par ailleurs par la présente loi mais à laquelle la personne morale prorogée se livrait à la date de la demande de lettres patentes;
 	- **b)** maintenir en circulation des titres de créance dont la présente loi n’autorise pas l’émission, dans la mesure où ils étaient déjà en circulation à la date de la demande;
 	- **c)** détenir des éléments d’actif prohibés par la présente loi mais qui, à la date de la demande, appartenaient à la personne morale prorogée;
 	- **d)** acquérir et détenir des éléments d’actif prohibés par la présente loi, dans le cas où la personne morale prorogée était obligée, à la date de la demande, de les acquérir;
-	- **e)** tenir à l’étranger les livres et registres dont la présente loi exige la tenue au Canada, ainsi que tenir et traiter à l’étranger les renseignements et données se rapportant à leur tenue et à leur conservation.
+	- **e)** tenir à l’étranger les livres et registres dont la présente loi exige la tenue au Canada.
 
 **Durée des exceptions**
 
-- **(2)** L’arrêté précise la période de validité de l’autorisation, qui ne peut excéder :
+- **(2)** L’arrêté précise la période de validité de l’autorisation, qui ne peut excéder :
 	- **a)** dans les cas visés à l’alinéa (1)a), trente jours à partir de la date de délivrance des lettres patentes ou, si l’activité découle d’accords existant à cette date, la date d’expiration de ces accords;
 	- **b)** dans les cas visés à l’alinéa (1)b), dix ans;
 	- **c)** dans les autres cas, deux ans.
@@ -819,7 +847,7 @@ French version only***association n’ayant pas fait appel au public*** S’ente
 **Restriction**
 
 - **(4)** Le ministre ne peut pas délivrer d’autorisation qui serait encore valable plus de dix ans après la date d’obtention par l’association de l’agrément de fonctionnement dans les cas visés aux alinéas (1)c) et d); dans les cas visés à l’alinéa (1)b), il ne peut le faire que s’il est convaincu, sur la foi de la déposition sous serment d’un dirigeant de l’association, que celle-ci sera dans l’incapacité juridique de racheter les titres de créance visés par l’autorisation encore en circulation à l’expiration de ce délai.
-> 2001, ch. 9, art. 258.
+> 2001, ch. 9, art. 258; 2007, ch. 6, art. 141.
 
 
 
@@ -833,38 +861,42 @@ French version only***association n’ayant pas fait appel au public*** S’ente
 
 **32** 
 
-- **(1)** L’association peut :
-	- **a)** demander des lettres patentes de prorogation en société de fiducie ou de prêt aux termes du paragraphe 33(1) de la Loi sur les sociétés de fiducie ou de prêt ou de fusion et prorogation en société de fiducie ou de prêt aux termes de l’article 228 et du paragraphe 234(1) de cette loi;
-	- **b)** demander des lettres patentes de prorogation en banque aux termes du paragraphe 35(1) de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md) ou de fusion et prorogation en banque aux termes de l’article 223 ou du paragraphe 229(1) de cette loi;
-	- **c)** demander des lettres patentes de prorogation en société de portefeuille bancaire aux termes du paragraphe 684(1) de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md) ou de fusion et prorogation en société de portefeuille bancaire aux termes de l’article 803 ou du paragraphe 809(1) de cette loi;
-	- **d)** demander, avec l’agrément écrit du ministre, le certificat de prorogation prévu à l’article 187 de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md);
-	- **e)** demander, dans le cadre de l’article 285 de la [Loi canadienne sur les coopératives](/fr/Lois/Lois%20du%20Canada/1998/ch.%201.md) et avec l’agrément du ministre, un certificat de prorogation ou un certificat de prorogation et un certificat de fusion.
+- **(1)** L’association peut demander :
+	- **a)** la délivrance de lettres patentes de prorogation en banque ou en société de portefeuille bancaire en vertu de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md) ou de lettres patentes de fusion et prorogation en banque ou en société de portefeuille bancaire en vertu de cette loi;
+	- **b)** avec l’agrément écrit du ministre, la délivrance d’un certificat de prorogation en société en vertu de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md);
+	- **c)** avec l’agrément écrit du ministre, la délivrance d’un certificat de prorogation en coopérative en vertu de la [Loi canadienne sur les coopératives](/fr/Lois/Lois%20du%20Canada/1998/ch.%201.md) ou d’un certificat de prorogation et d’un certificat de fusion en coopérative en vertu de cette loi;
+	- **d)** la délivrance de lettres patentes de prorogation en société — exception faite d’une société mutuelle — ou en société de portefeuille d’assurances en vertu de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md) ou de lettres patentes de fusion et de prorogation en société — exception faite d’une société mutuelle — ou en société de portefeuille d’assurances en vertu de cette loi;
+	- **e)** la délivrance de lettres patentes de prorogation en société en vertu de la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md) ou de lettres patentes de fusion et prorogation en société en vertu de cette loi.
 
-**Conditions suspensives**
+**Conditions préalables à l’agrément**
 
-- **(2)** Le ministre ne peut donner son agrément dans le cadre des alinéas (1)d) ou e) que s’il est convaincu que les conditions suivantes sont réunies :
-	- **a)** la demande de prorogation a été autorisée par résolution extraordinaire des associés;
-	- **b)** l’association ne détient pas de dépôts assurés en vertu de la [Loi sur la Société d’assurance-dépôts du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-3.md).
-> 1991, ch. 48, art. 32; 1998, ch. 1, art. 382; 2001, ch. 9, art. 259.
-
-
-
-
-
-**Effet du certificat**
-
-**33** À la date indiquée sur les lettres patentes ou les certificats de prorogation visés à l’un ou l’autre des alinéas 32(1)a) à e), la personne morale prorogée devient assujettie à la loi visée à l’alinéa applicable et la présente loi cesse de s’appliquer à son égard.
-> 1991, ch. 48, art. 33; 1998, ch. 1, art. 382; 2001, ch. 9, art. 259.
-
-
-
-
+- **(2)** L’agrément visé aux alinéas (1)b) ou c) ne peut être donné que si le ministre est convaincu que :
+	- **a)** l’association a fait publier une fois par semaine pendant quatre semaines consécutives, dans la Gazette du Canada et dans un journal à grand tirage paraissant au lieu du siège de l’association ou dans les environs, un préavis de son intention de faire la demande d’agrément;
+	- **b)** la demande a été autorisée par résolution extraordinaire;
+	- **c)** l’association ne détient pas de dépôts, à l’exception des dépôts qui sont faits par un associé, une personne qui la contrôle ou une personne qui détient un intérêt substantiel dans une catégorie d’actions de l’association et qui ne sont pas assurés par la Société d’assurance-dépôts du Canada.
 
 **Retrait de la demande**
 
-**34** Les administrateurs de l’association peuvent, si cette faculté leur est accordée par les associés dans la résolution extraordinaire autorisant la demande des lettres patentes ou certificats de prorogation visés à l’un ou l’autre des alinéas 32(1)a) à e), retirer celle-ci avant qu’il n’y soit donné suite.
-> 1991, ch. 48, art. 34; 2001, ch. 9, art. 259.
+- **(3)** Les administrateurs de l’association peuvent, si cette faculté leur est accordée dans la résolution extraordinaire autorisant la demande de certificat ou de lettres patentes, retirer celle-ci avant qu’il n’y soit donné suite.
 
+**Restriction : prorogation en vertu d’autres régimes**
+
+- **(4)** L’association ne peut demander la prorogation ou la fusion et la prorogation, selon le cas, si ce n’est en conformité avec le paragraphe (1).
+> 1991, ch. 48, art. 32; 1998, ch. 1, art. 382; 2001, ch. 9, art. 259; 2007, ch. 6, art. 142.
+
+
+
+
+
+**Cessation**
+
+**33** En cas de délivrance d’un certificat ou de lettres patentes par suite d’une demande faite par l’association en vertu de l’article 32, la présente loi cesse de s’appliquer à celle-ci à la date de prise d’effet du certificat ou des lettres patentes.
+> 1991, ch. 48, art. 33; 1998, ch. 1, art. 382; 2001, ch. 9, art. 259; 2007, ch. 6, art. 142.
+
+
+
+
+**34** [Abrogé, 2007, ch. 6, art. 142]
 
 
 
@@ -895,11 +927,12 @@ French version only***association n’ayant pas fait appel au public*** S’ente
 
 **Dénomination**
 
-**36** La dénomination sociale d’une association doit comporter :
-- **a)** soit les termes « coopérative », « cooperative » ou tout autre terme exprimant son activité, ou toute combinaison de ces termes ou de dérivés de ceux-ci;
-- **b)** soit les termes « fédération de caisses populaires », « central credit union », « credit union central », ou toute combinaison de ces termes ou de dérivés de ceux-ci;
-- **c)** soit les termes spécifiés par le ministre ou toute combinaison de ces termes ou de dérivés de ceux-ci.
-> 1991, ch. 48, art. 36; 2001, ch. 9, art. 260.
+**36** La dénomination sociale d’une association doit comporter :
+- **a)** soit les termes « coopérative » ou « *cooperative* » et tout autre terme exprimant la nature financière de son activité;
+- **b)** soit les termes « fédération de caisses populaires », « *central credit union* » ou « *credit union central* »;
+- **c)** soit toute combinaison de ces termes ou de dérivés de ceux-ci;
+- **d)** soit les termes spécifiés par le ministre.
+> 1991, ch. 48, art. 36; 2001, ch. 9, art. 260; 2007, ch. 6, art. 143.
 
 
 
@@ -907,8 +940,8 @@ French version only***association n’ayant pas fait appel au public*** S’ente
 
 **Association faisant partie d’un groupe**
 
-**37** Par dérogation à l’article 35, l’association qui est du même groupe qu’une autre entité peut, une fois obtenu le consentement de celle-ci et l’agrément du surintendant, adopter une dénomination sociale à peu près identique à celle de l’entité ou être constituée en personne morale sous une telle dénomination.
-> 1991, ch. 48, art. 37; 1996, ch. 6, art. 50; 2001, ch. 9, art. 261.
+**37** Par dérogation à l’article 35, l’association qui est du même groupe qu’une autre entité peut, une fois obtenu son consentement, adopter une dénomination sociale à peu près identique à celle de l’entité ou être constituée en personne morale sous une telle dénomination.
+> 1991, ch. 48, art. 37; 1996, ch. 6, art. 50; 2001, ch. 9, art. 261; 2007, ch. 6, art. 143.
 
 
 
@@ -1104,13 +1137,13 @@ French version only***association n’ayant pas fait appel au public*** S’ente
 - **(1)** L’effectif de l’association doit comporter :
 	- **a)** soit au moins une association;
 	- **b)** soit au moins deux centrales non constituées dans la même province;
-	- **c)** soit au moins dix coopératives locales non constituées dans la même province;
+	- **c)** soit au moins deux coopératives locales non constituées dans la même province;
 	- **d)** soit au moins deux confédérations non constituées dans la même province.
 
 **Cas où l’effectif n’est pas conforme**
 
 - **(2)** Si son effectif n’est pas conforme au paragraphe (1), l’association prend sans délai les mesures nécessaires en vue soit de demander un certificat de prorogation dans le cadre du paragraphe 32(1), soit de procéder à sa dissolution ou liquidation sous le régime de la partie VII.
-> 1991, ch. 48, art. 50; 1998, ch. 1, art. 384; 2001, ch. 9, art. 265.
+> 1991, ch. 48, art. 50; 1998, ch. 1, art. 384; 2001, ch. 9, art. 265; 2007, ch. 6, art. 144.
 
 
 
@@ -1352,7 +1385,7 @@ French version only***association n’ayant pas fait appel au public*** S’ente
 
 
 
-**Obligation : parts sociales**
+**Obligation : parts sociales**
 
 **67** 
 
@@ -1376,13 +1409,15 @@ French version only***association n’ayant pas fait appel au public*** S’ente
 
 **Teneur du certificat de part sociale**
 
-- **(6)** Tout certificat de part sociale émis par l’association après l’entrée en vigueur du présent article doit comporter :
+- **(6)** Tout certificat de part sociale émis par l’association après l’entrée en vigueur du présent article doit comporter :
 	- **a)** la dénomination sociale;
 	- **b)** la mention qu’elle est régie par la Loi sur les associations coopératives de crédit;
 	- **c)** le nom du titulaire;
 	- **d)** la mention que le certificat représente des parts sociales de l’association et le nombre de celles-ci;
 	- **e)** la mention de son incessibilité sans l’autorisation du conseil d’administration;
 	- **f)** la mention que les parts peuvent être assujetties à un privilège en faveur de l’association pour les sommes qui lui sont dues.
+> 1991, ch. 48, art. 67; 2007, ch. 6, art. 145(A).
+
 
 
 
@@ -1457,7 +1492,7 @@ French version only***association n’ayant pas fait appel au public*** S’ente
 **Documents à envoyer au surintendant**
 
 - **(5)** Lorsqu’ils prennent les mesures autorisées en vertu de l’alinéa (1)b), les administrateurs doivent, avant d’émettre des actions, envoyer au surintendant un exemplaire du règlement administratif afférent et lui communiquer tous détails sur les actions qui seront émises.
-> 1991, ch. 48, art. 71; 2005, ch. 54, art. 146.
+> 1991, ch. 48, art. 71; 2005, ch. 54, art. 146; 2007, ch. 6, art. 146(A).
 
 
 
@@ -1658,17 +1693,25 @@ French version only***association n’ayant pas fait appel au public*** S’ente
 
 - **(4)** La prise d’effet de la résolution extraordinaire est subordonnée à l’agrément écrit du surintendant.
 
+**Exception**
+
+- **(4.1)** Un tel agrément n’est pas nécessaire si, à la fois :
+	- **a)** la réduction du capital déclaré est due uniquement à des changements apportés aux principes comptables visés au paragraphe 292(4);
+	- **b)** aucun remboursement du capital n’est versé aux associés ou aux actionnaires du fait de la réduction.
+
 **Condition préalable**
 
 - **(5)** Le surintendant ne peut approuver la résolution extraordinaire que si, d’une part, celle-ci lui a été présentée dans les trois mois qui suivent son adoption et, d’autre part, un exemplaire de la résolution et un avis d’intention de la demande d’agrément ont été publiés dans la Gazette du Canada.
 
 **Pièces justificatives**
 
-- **(6)** La demande d’agrément est accompagnée des pièces prouvant l’adoption et la publication de la résolution extraordinaire et précisant :
+- **(6)** La demande d’agrément est accompagnée des pièces prouvant l’adoption et la publication de la résolution extraordinaire et précisant :
 	- **a)** le nombre de parts sociales et d’actions émises et en circulation de l’association;
 	- **b)** le résultat du vote des associés ou par catégories d’actions;
 	- **c)** l’actif et le passif de l’association;
 	- **d)** les motifs de la réduction projetée.
+> 1991, ch. 48, art. 82; 2007, ch. 6, art. 148.
+
 
 
 
@@ -1734,11 +1777,11 @@ French version only***association n’ayant pas fait appel au public*** S’ente
 
 **86** 
 
-- **(1)** Les administrateurs de l’association peuvent déclarer un dividende, qui peut être payé soit par l’émission de parts sociales entièrement libérées aux associés ou d’actions entièrement libérées aux associés ou aux actionnaires ou par l’octroi d’options ou de droits d’acquérir de telles valeurs, soit, sous réserve des paragraphes (4) et (5), en argent ou en biens; le dividende payable en argent peut être payé en monnaie étrangère.
+- **(1)** Les administrateurs de l’association peuvent déclarer un dividende, qui peut être payé soit par l’émission de parts sociales entièrement libérées aux associés ou d’actions entièrement libérées aux associés ou aux actionnaires ou par l’octroi d’options ou de droits d’acquérir de telles valeurs, soit, sous réserve du paragraphe (4), en argent ou en biens; le dividende payable en argent peut être payé en monnaie étrangère.
 
 **Avis au surintendant**
 
-- **(2)** Les administrateurs notifient au surintendant la déclaration de dividendes au moins dix jours avant la date fixée pour leur versement.
+- **(2)** Les administrateurs notifient au surintendant la déclaration de dividendes au moins quinze jours avant la date fixée pour leur versement.
 
 **Dividendes**
 
@@ -1748,10 +1791,8 @@ French version only***association n’ayant pas fait appel au public*** S’ente
 
 - **(4)** Toute déclaration ou tout versement de dividendes est prohibé s’il existe des motifs valables de croire que, ce faisant, l’association contrevient, ou contreviendra, aux règlements ou aux instructions visés à l’article 409.
 
-**Non-versement de dividendes**
-
-- **(5)** La déclaration ou le versement de dividendes au cours d’un exercice donné doivent être agréés par le surintendant s’ils font en sorte que, à la date de la déclaration, le montant total des dividendes déclarés par l’association au cours de l’exercice dépasse la somme de ses bénéfices nets pour la partie écoulée de l’exercice et de ses bénéfices nets non répartis pour les deux exercices précédents.
-> 1991, ch. 48, art. 86; 2001, ch. 9, art. 272.
+- **(5)** [Abrogé, 2007, ch. 6, art. 149]
+> 1991, ch. 48, art. 86; 2001, ch. 9, art. 272; 2007, ch. 6, art. 149.
 
 
 
@@ -3359,8 +3400,8 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Résidence**
 
-- **(2)** Au moins les deux tiers des administrateurs d’une association doivent, au moment de leur élection ou nomination, être des résidents canadiens.
-> 1991, ch. 48, art. 169; 2001, ch. 9, art. 276.
+- **(2)** La majorité des administrateurs d’une association doivent, au moment de leur élection ou nomination, être des résidents canadiens.
+> 1991, ch. 48, art. 169; 2001, ch. 9, art. 276; 2007, ch. 6, art. 150.
 
 
 
@@ -4331,7 +4372,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **221** 
 
-- **(1)** Les associés peuvent, par résolution extraordinaire, prendre, modifier ou révoquer les règlements administratifs de la façon prévue au paragraphe (2) et aux articles 222 à 225 afin :
+- **(1)** Les associés peuvent, par résolution extraordinaire, prendre, modifier ou révoquer les règlements administratifs de la façon prévue au paragraphe (2) et aux articles 222 à 225 afin :
 	- **a)** de modifier le nombre maximal, s’il en est, d’actions de toute catégorie que l’association est autorisée à émettre;
 	- **b)** de créer des catégories d’actions;
 	- **c)** de modifier la désignation de tout ou partie de ses actions, et d’ajouter, de modifier ou de supprimer tous droits, privilèges, restrictions et conditions, y compris le droit à des dividendes accumulés, concernant tout ou partie de ses actions, émises ou non;
@@ -4346,8 +4387,16 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Date d’entrée en vigueur**
 
-- **(2)** L’entrée en vigueur des règlements administratifs pris au titre de l’alinéa (1)i.1), ou de leurs modifications ou révocations, est subordonnée à l’agrément du surintendant.
-> 1991, ch. 48, art. 221; 2001, ch. 9, art. 283; 2005, ch. 54, art. 183.
+- **(2)** L’entrée en vigueur des règlements administratifs concernant le changement de la dénomination sociale de l’association est subordonnée à l’agrément du surintendant.
+
+**Lettres patentes**
+
+- **(3)** En cas de changement de la dénomination sociale de l’association, ou de la province, au Canada, où se trouve son siège, le surintendant peut délivrer des lettres patentes pour que l’acte constitutif soit modifié en conséquence.
+
+**Effet des lettres patentes**
+
+- **(4)** Les lettres patentes prennent effet à la date indiquée.
+> 1991, ch. 48, art. 221; 2001, ch. 9, art. 283; 2005, ch. 54, art. 183; 2007, ch. 6, art. 151.
 
 
 
@@ -4452,9 +4501,11 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 
 
-**Approbation du ministre**
+**Approbation du surintendant**
 
-**228** L’approbation prévue au paragraphe 229(4) est sans effet si, au préalable, le ministre n’a pas approuvé la convention de fusion par écrit.
+**228** L’approbation prévue au paragraphe 229(4) est sans effet si, au préalable, le surintendant n’a pas approuvé la convention de fusion par écrit.
+> 1991, ch. 48, art. 228; 2007, ch. 6, art. 152.
+
 
 
 
@@ -4582,7 +4633,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **233** 
 
-- **(1)** À la date figurant sur les lettres patentes :
+- **(1)** À la date figurant sur les lettres patentes :
 	- **a)** la fusion et prorogation des requérants en une seule et même association prend effet;
 	- **b)** les biens de chaque requérant appartiennent à l’association issue de la fusion;
 	- **c)** l’association issue de la fusion est responsable des obligations de chaque requérant;
@@ -4598,17 +4649,17 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Disposition transitoire**
 
-- **(3)** Malgré toute disposition contraire de la présente loi ou des règlements, le gouverneur en conseil peut, par décret pris sur proposition du ministre, autoriser l’association ayant reçu des lettres patentes sous le régime du paragraphe 232(1) à :
+- **(3)** Malgré toute disposition contraire de la présente loi ou des règlements, le gouverneur en conseil peut, par décret pris sur proposition du ministre, autoriser l’association ayant reçu des lettres patentes sous le régime du paragraphe 232(1) à :
 	- **a)** exercer une activité commerciale précisée dans le décret interdite par ailleurs par la présente loi mais qu’exerçaient à la date du dépôt de la demande de lettres patentes une ou plusieurs des personnes morales fusionnantes;
 	- **b)** maintenir en circulation les titres de créance que la présente loi n’autorise pas l’association à émettre, dans la mesure où ils étaient déjà en circulation à la date du dépôt de la demande de lettres patentes;
 	- **c)** [Abrogé, 1994, ch. 47, art. 52]
 	- **d)** détenir des éléments d’actif prohibés par la présente loi mais que détenaient, à la date du dépôt de la demande de lettres patentes, une ou plusieurs des personnes morales fusionnantes;
 	- **e)** acquérir et détenir des éléments d’actif dont l’acquisition et la détention sont interdites à une association par la présente loi, si une ou plusieurs des personnes morales fusionnantes se trouvaient dans l’obligation, à la date du dépôt de la demande de lettres patentes, de les acquérir;
-	- **f)** tenir à l’étranger les livres et registres dont la présente loi exige la tenue au Canada et tenir et traiter à l’étranger les renseignements et les données se rapportant à la tenue et à la conservation de ces livres et registres.
+	- **f)** tenir à l’étranger les livres et registres dont la présente loi exige la tenue au Canada.
 
 **Durée des exceptions**
 
-- **(4)** L’autorisation accordée en vertu de l’un des alinéas (3)a) à f) doit préciser la période de validité, laquelle ne peut excéder :
+- **(4)** L’autorisation accordée en vertu de l’un des alinéas (3)a) à f) doit préciser la période de validité, laquelle ne peut excéder :
 	- **a)** dans les cas visés à l’alinéa (3)a), trente jours à partir de la date de délivrance des lettres patentes ou, lorsque les activités découlent d’ententes existant à la date de délivrance des lettres patentes, la date d’expiration des ententes;
 	- **b)** dans les cas visés à l’alinéa (3)b), dix ans;
 	- **c)** deux ans dans les autres cas.
@@ -4619,10 +4670,10 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Réserve**
 
-- **(6)** Le gouverneur en conseil ne peut accorder d’autorisation qui serait encore valable plus de dix ans :
+- **(6)** Le gouverneur en conseil ne peut accorder d’autorisation qui serait encore valable plus de dix ans :
 	- **a)** après la date d’obtention par l’association de l’agrément de fonctionnement dans les cas visés à l’alinéa (3)b), à moins qu’il n’estime, sur la foi d’une déposition sous serment d’un dirigeant de celle-ci, qu’il sera juridiquement impossible à l’association de racheter les titres de créance encore en circulation à l’expiration de ce délai et qui font l’objet de l’autorisation;
 	- **b)** après la date de délivrance des lettres patentes dans les cas visés aux alinéas (3)d) et e).
-> 1991, ch. 48, art. 233; 1994, ch. 47, art. 52.
+> 1991, ch. 48, art. 233; 1994, ch. 47, art. 52; 2007, ch. 6, art. 153.
 
 
 
@@ -4655,10 +4706,10 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 
 
-**Envoi de convention au ministre**
+**Envoi de convention au surintendant**
 
-**233.2** La convention de vente doit être communiquée au ministre avant d’être soumise aux associés et aux actionnaires de l’association vendeuse conformément au paragraphe 233.3(1).
-> 2001, ch. 9, art. 289.
+**233.2** La convention de vente doit être communiquée au surintendant avant d’être soumise aux associés et aux actionnaires de l’association vendeuse conformément au paragraphe 233.3(1).
+> 2001, ch. 9, art. 289; 2007, ch. 6, art. 154.
 
 
 
@@ -4752,7 +4803,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **235** 
 
-- **(1)** L’association tient des livres où figurent :
+- **(1)** L’association tient des livres où figurent :
 	- **a)** l’acte constitutif, les règlements administratifs et leurs modifications;
 	- **b)** les procès-verbaux des assemblées et les résolutions des associés et des actionnaires;
 	- **c)** les renseignements visés aux alinéas 432(1)a) et c) à g) et figurant dans l’ensemble des relevés envoyés au surintendant conformément à l’article 432;
@@ -4761,7 +4812,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Autres livres**
 
-- **(2)** Outre les livres mentionnés au paragraphe (1), l’association tient de façon adéquate :
+- **(2)** Outre les livres mentionnés au paragraphe (1), l’association tient de façon adéquate :
 	- **a)** des livres comptables;
 	- **b)** des livres contenant les procès-verbaux des réunions de son conseil d’administration et de ses comités ainsi que les résolutions qui y sont adoptées;
 	- **c)** des livres où figurent, pour chaque associé ou client sur une base journalière, les renseignements relatifs aux opérations entre elle et celui-ci, ainsi que le solde créditeur ou débiteur du client.
@@ -4769,6 +4820,8 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 **Livres des associations prorogées et antérieure**
 
 - **(3)** Pour l’application de l’alinéa (1)b) et du paragraphe (2), « livres » s’entend, dans le cas des personnes morales fusionnées et prorogées comme association en vertu de la présente loi, des documents similaires qu’elles devaient légalement tenir avant leur fusion et, dans le cas de l’association antérieure, de ceux qu’elle devait légalement tenir avant l’entrée en vigueur du présent article.
+> 1991, ch. 48, art. 235; 2007, ch. 6, art. 155(A).
+
 
 
 
@@ -4891,32 +4944,16 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 
 
-**Lieu de conservation et traitement des données**
+**Lieu de conservation et de traitement des données**
 
 **242** 
 
-- **(1)** Sous réserve du paragraphe (3), l’association doit conserver et traiter au Canada tous les renseignements ou données se rapportant à la tenue et à la conservation des livres visés à l’article 235 ou du registre central des valeurs mobilières, sauf si le surintendant a, aux conditions qu’il estime indiquées, exempté l’association de l’application du présent article.
-
-**Copies**
-
-- **(2)** Sous réserve des paragraphes (3) et (4), l’association peut conserver à l’étranger des exemplaires des livres visés à l’article 235 ou du registre central des valeurs mobilières, et y traiter les renseignements et les données afférents.
-
-**Renseignements à fournir au surintendant**
-
-- **(3)** Le cas visé au paragraphe (2) échéant, l’association en informe le surintendant et lui fournit une liste des exemplaires conservés à l’étranger et une description du traitement à l’étranger des renseignements et des données s’y rapportant, ainsi que les autres renseignements que le surintendant peut exiger.
-
-**Traitement des renseignements au Canada**
-
-- **(4)** S’il estime que la conservation à l’étranger des exemplaires ou que le fait de traiter à l’étranger les renseignements et données s’y rapportant, constitue un obstacle à l’exécution de ses fonctions ou s’il est avisé que cela n’est pas, selon le ministre, dans l’intérêt national, le surintendant ordonne à l’association d’y procéder au Canada.
+- **(1)** S’il estime que la conservation dans un pays étranger des exemplaires de livres visés à l’article 235 ou du registre central des valeurs mobilières de l’association ou le fait de traiter dans un pays étranger les renseignements et données se rapportant à la tenue et à la conservation des livres ou du registre constitue un obstacle à l’exécution des fonctions qui lui sont conférées en vertu de la présente loi, ou s’il est avisé que cela n’est pas, selon le ministre, dans l’intérêt national, le surintendant ordonne à l’association de s’abstenir de se livrer à ces activités dans ce pays ou de ne s’y livrer qu’au Canada.
 
 **Obligation de se conformer**
 
-- **(5)** L’association doit sans délai exécuter l’ordre visé au paragraphe (4).
-
-**Directives**
-
-- **(6)** Le surintendant doit donner des directives sur les circonstances qui peuvent justifier l’exemption visée au paragraphe (1).
-> 1991, ch. 48, art. 242; 2001, ch. 9, art. 291; 2005, ch. 54, art. 189.
+- **(2)** L’association doit exécuter sans délai l’ordre visé au paragraphe (1).
+> 1991, ch. 48, art. 242; 2001, ch. 9, art. 291; 2005, ch. 54, art. 189; 2007, ch. 6, art. 156.
 
 
 
@@ -5400,8 +5437,10 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **Qualités requises pour être fiduciaire**
 
-**284** Au moins un des fiduciaires nommés doit être soit une société de fiducie constituée sous le régime de la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md), soit une personne morale constituée sous le régime d’une loi provinciale et autorisée à exercer l’activité d’un fiduciaire.
-> 1991, ch. 48, art. 284 et 496.
+**284** Au moins un des fiduciaires nommés doit être :
+- **a)** soit une société de fiducie au sens du paragraphe 57(2) de la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md);
+- **b)** soit une personne morale constituée sous le régime d’une loi provinciale et autorisée à exercer l’activité d’un fiduciaire.
+> 1991, ch. 48, art. 284 et 496; 2007, ch. 6, art. 157.
 
 
 
@@ -6611,22 +6650,22 @@ Le cas échéant, tout associé ou actionnaire peut demander au tribunal d’imp
 
 **354** 
 
-- **(1)** Il est interdit à une personne ou à l’entité qu’elle contrôle d’acquérir, sans l’agrément du ministre, des actions d’une association ou le contrôle d’une entité qui détient de telles actions si l’acquisition :
+- **(1)** Il est interdit à une personne ou à l’entité qu’elle contrôle d’acquérir, sans l’agrément du ministre, des actions d’une association ou le contrôle d’une entité qui détient de telles actions si l’acquisition, selon le cas :
 	- **a)** lui confère un intérêt substantiel dans une catégorie d’actions de l’association en question;
 	- **b)** augmente l’intérêt substantiel qu’elle détient déjà.
 
 **Assimilation**
 
-- **(2)** Dans le cas où une fusion, un regroupement ou une réorganisation confère à l’entité qui en est issue un intérêt substantiel dans une catégorie d’actions d’une association, cette entité est réputée acquérir un intérêt substantiel dans cette catégorie d’actions de l’association et cette acquisition requiert l’agrément du ministre.
+- **(2)** Dans le cas où l’entité issue d’une fusion, d’un regroupement ou d’une réorganisation aurait un intérêt substantiel dans une catégorie d’actions d’une association, cette entité est réputée se voir conférer, dans le cadre d’une acquisition qui requiert l’agrément prévu au paragraphe (1), un intérêt substantiel dans cette catégorie d’actions.
 
 **Exemption**
 
 - **(3)** Sur demande de l’association, le surintendant peut soustraire à l’application du présent article et de l’article 355 toute catégorie de ses actions qui ne représente pas plus de trente pour cent de ses capitaux propres.
 
-**Définition de « capitaux propres »**
+**Définition de capitaux propres**
 
 - **(4)** Pour l’application du présent article, ***capitaux propres*** s’entend au sens des règlements.
-> 1991, ch. 48, art. 354; 1993, ch. 34, art. 54; 2001, ch. 9, art. 297.
+> 1991, ch. 48, art. 354; 1993, ch. 34, art. 54; 2001, ch. 9, art. 297; 2007, ch. 6, art. 158.
 
 
 
@@ -6634,8 +6673,14 @@ Le cas échéant, tout associé ou actionnaire peut demander au tribunal d’imp
 
 **Interdiction d’acquérir sans l’agrément du ministre**
 
-**354.1** Il est interdit à une personne d’acquérir le contrôle, au sens de l’alinéa 3(1)e), d’une association sans l’agrément préalable du ministre.
-> 2001, ch. 9, art. 298.
+**354.1** 
+
+- **(1)** Il est interdit à une personne d’acquérir, sans l’agrément du ministre, le contrôle, au sens de l’alinéa 3(1)e), d’une association.
+
+**Assimilation**
+
+- **(2)** Dans le cas où l’entité issue d’une fusion, d’un regroupement ou d’une réorganisation aurait le contrôle, au sens de l’alinéa 3(1)e), d’une association, cette entité est réputée en acquérir, dans le cadre d’une acquisition qui requiert l’agrément prévu au paragraphe (1), le contrôle au sens de cet alinéa.
+> 2001, ch. 9, art. 298; 2007, ch. 6, art. 159.
 
 
 
@@ -7131,20 +7176,20 @@ Le cas échéant, tout associé ou actionnaire peut demander au tribunal d’imp
 
 
 
-**Restrictions : hypothèques**
+**Restrictions : hypothèques**
 
 **382.1** 
 
-- **(1)** Il est interdit à l’association de détail de faire garantir par un immeuble résidentiel situé au Canada un prêt consenti au Canada pour l’achat, la rénovation ou l’amélioration de cet immeuble, ou de renouveler un tel prêt, si la somme de celui-ci et du solde impayé de toute hypothèque de rang égal ou supérieur excède soixante-quinze pour cent de la valeur de l’immeuble au moment du prêt.
+- **(1)** Il est interdit à l’association de détail de faire garantir par un immeuble résidentiel situé au Canada un prêt consenti au Canada pour l’achat, la rénovation ou l’amélioration de cet immeuble, ou de renouveler un tel prêt, si la somme de celui-ci et du solde impayé de toute hypothèque de rang égal ou supérieur excède quatre-vingts pour cent de la valeur de l’immeuble au moment du prêt.
 
 **Exception**
 
-- **(2)** Le paragraphe (1) ne s’applique pas :
+- **(2)** Le paragraphe (1) ne s’applique pas :
 	- **a)** au prêt consenti ou garanti en vertu de la [Loi nationale sur l’habitation](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-11.md) ou de toute autre loi fédérale aux termes de laquelle est fixée une limite différente sur la valeur de l’immeuble qui constitue l’objet de la garantie;
 	- **b)** au prêt dont le remboursement, en ce qui touche le montant excédant le plafond fixé au paragraphe (1), est garanti ou assuré par un organisme gouvernemental ou par un assureur privé agréé par le surintendant;
 	- **c)** à l’acquisition par l’association, d’une entité, de valeurs mobilières émises ou garanties par celle-ci et qui confèrent une sûreté sur un immeuble résidentiel soit en faveur d’un fiduciaire soit de toute autre manière, ou aux prêts consentis par l’association à l’entité en contrepartie de l’émission des valeurs mobilières en question;
 	- **d)** au prêt garanti par une hypothèque consentie à l’association en garantie du paiement du prix de vente d’un bien qu’elle aliène, y compris par suite de l’exercice d’un droit hypothécaire.
-> 2001, ch. 9, art. 311.
+> 2001, ch. 9, art. 311; 2007, ch. 6, art. 161.
 
 
 
@@ -7154,16 +7199,16 @@ Le cas échéant, tout associé ou actionnaire peut demander au tribunal d’imp
 
 **383** 
 
-- **(1)** L'association est tenue de se conformer aux principes que son conseil d'administration a le devoir d'établir en ce qui concerne la constitution de sûretés pour garantir l'exécution de ses obligations et l'acquisition d'un droit de propriété effective sur des biens grevés d'une sûreté.
+- **(1)** L’association est tenue de se conformer aux principes que son conseil d’administration a le devoir d’établir en ce qui concerne la constitution de sûretés pour garantir l’exécution de ses obligations et l’acquisition d’un droit de propriété effective sur des biens grevés d’une sûreté.
 
 **Ordonnance de modification**
 
-- **(2)** Le surintendant peut, par ordonnance, obliger l'association à modifier ces principes selon les modalités qu'il précise dans l'arrêté.
+- **(2)** Le surintendant peut, par ordonnance, obliger l’association à modifier ces principes selon les modalités qu’il précise dans l’ordonnance.
 
 **Obligation de se conformer**
 
-- **(3)** L'association est tenue de se conformer à l'ordonnance visée au paragraphe (2) dans le délai que lui fixe le surintendant.
-> 1991, ch. 48, art. 383; 2001, ch. 9, art. 311.
+- **(3)** L’association est tenue de se conformer à l’ordonnance visée au paragraphe (2) dans le délai que lui fixe le surintendant.
+> 1991, ch. 48, art. 383; 2001, ch. 9, art. 311; 2007, ch. 6, art. 162(F).
 
 
 
@@ -7254,14 +7299,30 @@ Dans le cas d’une telle réclamation, les fonds ainsi déposés peuvent être 
 
 **385.03** 
 
-- **(1)** Au plus tard le 31 décembre de chaque année, l’association de détail verse à la Banque du Canada le montant du dépôt ou de l’effet en cause, plus éventuellement les intérêts calculés conformément aux modalités y afférentes, dans les situations suivantes :
+- **(1)** Au plus tard le 31 décembre de chaque année, l’association de détail verse à la Banque du Canada le montant du dépôt ou de l’effet en cause, plus éventuellement les intérêts calculés conformément aux modalités y afférentes, dans les situations suivantes :
 	- **a)** un dépôt a été fait au Canada, est payable au Canada en monnaie canadienne et n’a fait l’objet, pendant une période de dix ans, d’aucun mouvement — opération, demande ou accusé de réception d’un état de compte par le déposant — , et ce depuis l’échéance du terme dans le cas d’un dépôt à terme ou, dans le cas de tout autre dépôt, depuis la date de la dernière opération ou, si elle est postérieure, celle de la dernière demande ou du dernier accusé de réception d’un état de compte;
-	- **b)** un chèque, une traite ou une lettre de change — y compris un tel effet tiré par un de ses bureaux sur un autre de ses bureaux mais à l’exclusion de l’effet émis en paiement d’un dividende sur son capital — payable au Canada en monnaie canadienne a été émis, visé ou accepté par elle au Canada et aucun paiement n’a été fait à cet égard pendant une période de dix ans depuis la dernière des dates suivantes : émission, visa, acceptation ou échéance.
+	- **b)** un chèque, une traite ou une lettre de change — y compris un tel effet tiré par un de ses bureaux sur un autre de ses bureaux mais à l’exclusion de l’effet émis en paiement d’un dividende sur son capital — payable au Canada en monnaie canadienne a été émis, visé ou accepté par elle au Canada et aucun paiement n’a été fait à cet égard pendant une période de dix ans depuis la dernière des dates suivantes : émission, visa, acceptation ou échéance.
 Le versement libère l’association de toute responsabilité à l’égard du dépôt ou de l’effet.
 
 **Détails à fournir**
 
-- **(2)** Lors du versement, l’association de détail est tenue, pour chaque dépôt ou effet, de fournir à la Banque du Canada les renseignements mis à jour énumérés aux paragraphes 431.1(3) ou 431.2(2).
+- **(2)** Lors du versement, l’association de détail est tenue, pour chaque dépôt ou effet, de fournir à la Banque du Canada, dans la mesure où elle en a connaissance, les renseignements mis à jour suivants :
+	- **a)** dans le cas d’un dépôt :
+		- **(i)** le nom du titulaire du dépôt,
+		- **(ii)** son adresse enregistrée,
+		- **(iii)** le solde du dépôt,
+		- **(iv)** le bureau de l’association où la dernière opération concernant le dépôt a eu lieu et la date de celle-ci;
+	- **b)** dans le cas d’un effet :
+		- **(i)** le nom de la personne à qui ou à la demande de qui l’effet a été émis, visé ou accepté,
+		- **(ii)** son adresse enregistrée,
+		- **(iii)** le nom du bénéficiaire de l’effet,
+		- **(iv)** le montant et la date de l’effet,
+		- **(v)** le nom du lieu où l’effet était à payer,
+		- **(vi)** le bureau de l’association où l’effet a été émis, visé ou accepté.
+
+**Cartes et délégations de signature**
+
+- **(2.1)** Elle fournit, sur demande écrite de la Banque du Canada, des copies des cartes et délégations de signature afférentes pour chaque dépôt ou effet à l’égard duquel le versement a été fait. Si elle n’en possède pas pour un dépôt ou un effet relatif à la demande, elle en informe la Banque du Canada.
 
 **Paiement au réclamant**
 
@@ -7274,7 +7335,7 @@ Le versement libère l’association de toute responsabilité à l’égard du d
 **Application du paragraphe (1)**
 
 - **(5)** Le paragraphe (1) ne s’applique qu’aux dépôts faits, et aux chèques, traites et lettres de change émis, visés ou acceptés après son entrée en vigueur.
-> 2001, ch. 9, art. 313.
+> 2001, ch. 9, art. 313; 2007, ch. 6, art. 163.
 
 
 
@@ -7288,11 +7349,17 @@ Le versement libère l’association de toute responsabilité à l’égard du d
 
 **Date d’exigibilité de l’avis**
 
-- **(2)** L’avis doit être donné au cours du mois de janvier qui suit la fin de la première période de deux ans, puis de cinq ans :
+- **(2)** L’avis doit être envoyé au cours du mois de janvier qui suit la fin de la première période de deux ans, de cinq ans, puis de neuf ans :
 	- **a)** postérieure à l’échéance, dans le cas d’un dépôt à terme fixe;
 	- **b)** pendant laquelle il n’y a eu aucune opération ni demande ou accusé de réception d’un état de compte par le déposant, dans le cas des autres dépôts;
 	- **c)** pendant laquelle l’effet est resté impayé, dans le cas d’un chèque, d’une traite ou d’une lettre de change.
-> 2001, ch. 9, art. 313.
+
+**Notification de transfert à la Banque du Canada**
+
+- **(3)** L’avis envoyé au cours du mois de janvier qui suit la fin de la première période de neuf ans déterminée en application de l’alinéa (2)a), b) ou c), selon le cas, doit en outre :
+	- **a)** [Non en vigueur]
+	- **b)** donner l’adresse postale et les sites Web où peut être obtenue l’information concernant la présentation d’une demande de paiement du dépôt ou de l’effet impayé.
+> 2001, ch. 9, art. 313; 2007, ch. 6, art. 164.
 
 
 
@@ -7580,7 +7647,7 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **385.22** 
 
-- **(1)** L’association de détail est tenue :
+- **(1)** L’association de détail est tenue :
 	- **a)** d’établir une procédure d’examen des réclamations de personnes qui lui ont demandé ou qui ont obtenu d’elle des produits ou services au Canada;
 	- **b)** de désigner un préposé — dirigeant ou autre agent — à la mise en oeuvre de la procédure;
 	- **c)** de désigner un ou plusieurs autres préposés — dirigeant ou autre agent — aux réclamations.
@@ -7588,7 +7655,18 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 **Dépôt**
 
 - **(2)** L’association dépose auprès du commissaire un double de la procédure.
-> 2001, ch. 9, art. 313.
+
+**Mise à la disposition du public de la procédure**
+
+- **(3)** L’association de détail met à la disposition du public la procédure à la fois :
+	- **a)** dans ses bureaux où sont offerts des produits ou services au Canada, sous forme de brochure;
+	- **b)** sur ceux de ses sites Web où sont offerts des produits ou services au Canada;
+	- **c)** dans un document écrit à envoyer à quiconque lui en fait la demande.
+
+**Renseignements**
+
+- **(4)** L’association de détail doit accompagner la procédure qu’elle met à la disposition du public des renseignements — fixés par règlement — sur la façon de communiquer avec l’Agence.
+> 2001, ch. 9, art. 313; 2007, ch. 6, art. 166.
 
 
 
@@ -7658,6 +7736,15 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 
 
+**Règlements : retenue des fonds**
+
+**385.251** Le gouverneur en conseil peut prendre des règlements concernant la période maximale pendant laquelle l’association de détail peut, avant de permettre au titulaire du compte d’y avoir accès, retenir les fonds à l’égard des chèques ou autres effets qui appartiennent à des catégories qu’il précise et qui sont déposés à tout bureau ou point de service réglementaire au Canada.
+> 2007, ch. 6, art. 168.
+
+
+
+
+
 **Règlements**
 
 **385.26** Le gouverneur en conseil peut, par règlement :
@@ -7673,15 +7760,15 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 
 
-**Avis de fermeture de succursale**
+**Avis de fermeture de bureau**
 
 **385.27** 
 
-- **(1)** Sous réserve des règlements pris en vertu du paragraphe (5), l’association membre qui a au Canada une succursale dans laquelle elle ouvre des comptes de dépôt de détail et procède à la sortie de fonds pour ses clients par l’intermédiaire d’une personne physique donne un préavis — conforme à ces règlements — de la fermeture de la succursale ou de la cessation de l’une ou l’autre de ces activités.
+- **(1)** Sous réserve des règlements pris en vertu du paragraphe (5), l’association membre qui a au Canada un bureau dans lequel elle ouvre des comptes de dépôt de détail et procède à la sortie de fonds pour ses clients par l’intermédiaire d’une personne physique donne un préavis — conforme à ces règlements — de la fermeture du bureau ou de la cessation de l’une ou l’autre de ces activités.
 
 **Réunion**
 
-- **(2)** Après la remise du préavis, mais avant la fermeture de la succursale ou la cessation d’activités, le commissaire peut, dans les cas prévus par règlement, exiger que l’association membre convoque et tienne une réunion de ses représentants et de ceux de l’Agence ainsi que de tout autre intéressé faisant partie de la collectivité locale en vue de discuter de la fermeture ou de la cessation d’activités visée.
+- **(2)** Après la remise du préavis, mais avant la fermeture du bureau ou la cessation d’activités, le commissaire doit, dans les cas prévus par règlement, exiger de l’association membre qu’elle convoque et tienne une réunion de ses représentants et de ceux de l’Agence ainsi que de tout autre intéressé faisant partie de la collectivité locale en vue de discuter de la fermeture ou de la cessation d’activités visée, notamment des autres modes de prestation des services offerts par l’association membre et des mesures visant à aider les clients du bureau à faire face à la fermeture ou à la cessation d’activités.
 
 **Règles de convocation**
 
@@ -7697,7 +7784,7 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 	- **a)** désigner le destinataire du préavis mentionné au paragraphe (1) et prévoir les renseignements qui doivent y figurer, ainsi que les modalités de temps et de forme de la communication de cet avis, lesquelles peuvent varier dans les cas précisés par règlement;
 	- **b)** prévoir les cas où l’association membre n’est pas tenue de donner le préavis visé au paragraphe (1) et les cas où le commissaire peut l’exempter de le donner, ainsi que ceux où le commissaire peut modifier les modalités de temps et de forme de la communication de l’avis prévue par règlement pris en vertu de l’alinéa a);
 	- **c)** prévoir, pour l’application du paragraphe (2), les cas où une réunion peut être convoquée.
-> 2001, ch. 9, art. 313.
+> 2001, ch. 9, art. 313; 2007, ch. 6, art. 169.
 
 
 
@@ -7710,10 +7797,10 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 	- **(i)** à leurs produits ou services, ou catégories réglementaires de ceux-ci,
 	- **(ii)** à leurs règles de conduite, procédures et pratiques ayant trait à la fourniture de ces produits ou services, ou catégories réglementaires de ceux-ci,
 	- **(iii)** aux interdictions ou obligations qui leur sont imposées aux termes d’une disposition visant les consommateurs,
-	- **(iv)** à toute autre question en ce qui touche leurs relations avec leurs clients ou le public;
+	- **(iv)** à toute autre question en ce qui touche leurs relations ou celles de leurs employés ou représentants avec leurs clients ou le public;
 - **b)** les modalités de temps, de lieu et de forme de la communication, ainsi que le destinataire de celle-ci;
 - **c)** le contenu et la forme de la publicité relative aux questions visées à l’alinéa a).
-> 2001, ch. 9, art. 313.
+> 2001, ch. 9, art. 313; 2007, ch. 6, art. 170.
 
 
 
@@ -7870,6 +7957,11 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 ***filiale réglementaire*** La filiale qui fait partie d’une catégorie de filiales prévue par règlement.
 
+***fonds d’investissement à capital fixe*** Entité dont l’activité se limite au placement de ses fonds de façon à offrir des services de diversification de placements et de gestion professionnelle aux détenteurs de ses titres et dont les titres : 
+- **a)** sont diffusés au public en nombre fixe dans le cadre d’une émission faite en vertu d’un prospectus provisoire, d’un prospectus, d’un prospectus simplifié ou d’un document de même nature, conformément aux lois d’une province ou d’un pays étranger;
+- **b)** sont négociés en bourse ou sur les marchés hors cote;
+- **c)** font l’objet, à une date d’échéance fixe, d’une liquidation dont le produit est réparti proportionnellement entre les détenteurs de titres.
+
  ou ***prêt*** ou ***emprunt*** Tout arrangement pour obtenir des fonds ou du crédit, à l’exception des placements dans les valeurs mobilières; y sont assimilés notamment l’acceptation et l’endossement ou autre garantie ainsi que le dépôt, le crédit-bail, le contrat de vente conditionnelle et la convention de rachat.
 
 ***prêt commercial*** Selon le cas :
@@ -7921,7 +8013,7 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 - **(3)** La présente partie ne s’applique pas :
 	- **a)** à la détention d’une sûreté sur un bien immeuble, sauf si celle-ci est considérée comme un intérêt immobilier au titre de l’alinéa 403a);
 	- **b)** à la détention d’une sûreté sur les titres d’une entité.
-> 1991, ch. 48, art. 386; 1993, ch. 34, art. 55(F); 1997, ch. 15, art. 140; 2001, ch. 9, art. 314.
+> 1991, ch. 48, art. 386; 1993, ch. 34, art. 55(F); 1997, ch. 15, art. 140; 2001, ch. 9, art. 314; 2007, ch. 6, art. 171.
 
 
 
@@ -7968,7 +8060,15 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 **Exception : fait involontaire**
 
 - **(5)** L’association est réputée ne pas contrevenir au paragraphe (1) quand elle acquiert le contrôle d’une entité ou acquiert ou augmente un intérêt de groupe financier dans une entité en raison uniquement d’un événement dont elle n’est pas maître.
-> 1991, ch. 48, art. 388; 1997, ch. 15, art. 141; 2001, ch. 9, art. 314.
+
+**Application d’une autre disposition**
+
+- **(6)** Malgré l’acquisition par elle du contrôle d’une entité ou d’un intérêt de groupe financier dans une entité au titre d’une disposition de la présente partie, l’association peut continuer à contrôler l’entité ou à détenir l’intérêt de groupe financier comme si elle avait procédé à l’acquisition au titre d’une autre disposition de la présente partie, pourvu que les conditions prévues par cette autre disposition soient respectées.
+
+**Assimilation**
+
+- **(7)** Si elle décide d’exercer le pouvoir prévu au paragraphe (6), l’association est réputée acquérir le contrôle ou l’intérêt de groupe financier au titre de l’autre disposition.
+> 1991, ch. 48, art. 388; 1997, ch. 15, art. 141; 2001, ch. 9, art. 314; 2007, ch. 6, art. 172.
 
 
 
@@ -8003,7 +8103,7 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 	- **e)** une société de fiducie, de prêt ou d’assurances constituée en personne morale ou formée sous le régime d’une loi provinciale;
 	- **f)** une société coopérative de crédit constituée en personne morale ou formée et réglementée sous le régime d’une loi provinciale;
 	- **g)** une entité constituée en personne morale ou formée sous le régime d’une loi fédérale ou provinciale et dont l’activité principale est le commerce des valeurs mobilières;
-	- **h)** une entité qui est constituée en personne morale ou formée et réglementée autrement que sous le régime d’une loi fédérale ou provinciale et qui exerce principalement, à l’étranger, des activités qui, au Canada, seraient des opérations bancaires, l’activité d’une société coopérative de crédit, l’assurance, la prestation de services fiduciaires ou le commerce de valeurs mobilières.
+	- **h)** une entité qui est constituée en personne morale ou formée et réglementée autrement que sous le régime d’une loi fédérale ou provinciale et qui exerce principalement, à l’étranger, des activités commerciales qui, au Canada, seraient des opérations bancaires, l’activité d’une société coopérative de crédit, des opérations d’assurance, la prestation de services fiduciaires ou le commerce de valeurs mobilières.
 
 **Placements autorisés**
 
@@ -8019,7 +8119,7 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 	- **d)** toute activité qu’une association de détail peut exercer, autre qu’une activité visée aux alinéas a) ou e), se rapportant :
 		- **(i)** soit à la vente, la promotion, la livraison ou la distribution d’un service ou d’un produit financiers fournis par l’association ou un membre de son groupe,
 		- **(ii)** soit, si l’activité commerciale de l’entité consiste, en grande partie, en une activité visée au sous-alinéa (i), à la vente, la promotion, la livraison ou la distribution d’un service ou d’un produit financiers d’une entité dont l’activité commerciale principale consiste en la prestation de services financiers;
-	- **e)** les activités visées aux définitions de « entité s’occupant de fonds mutuels », « courtier de fonds mutuels » ou « courtier immobilier » au paragraphe 386(1);
+	- **e)** les activités visées aux définitions de ***courtier de fonds mutuels***, ***courtier immobilier*** , ***entité s’occupant de fonds mutuels*** ou ***fonds d’investissement à capital fixe*** au paragraphe 386(1);
 	- **f)** les activités prévues par règlement, pourvu qu’elles s’exercent, le cas échéant, selon les modalités fixées par règlement.
 
 **Restriction**
@@ -8033,18 +8133,28 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 		- **(ii)** dans le cas où l’entité n’est pas contrôlée par l’association, l’acquisition par l’association elle-même d’un intérêt de groupe financier dans l’autre entité serait permise aux termes des paragraphes (1) ou (2) ou 388(2), des alinéas 388(3)b) ou c) ou du paragraphe 388(4);
 	- **e)** des activités prévues par règlement.
 
+**Exception**
+
+- **(3.1)** Malgré l’alinéa (3)a), l’association peut acquérir le contrôle d’une entité qui exerce des activités de fiduciaire et y est autorisée par les lois d’une province ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité si celle-ci est, selon le cas :
+	- **a)** un fonds d’investissement à capital fixe;
+	- **b)** une entité s’occupant de fonds mutuels;
+	- **c)** une entité dont l’activité commerciale est limitée à l’une ou l’autre des activités suivantes :
+		- **(i)** les activités d’un courtier de fonds mutuels,
+		- **(ii)** les services qu’une association est autorisée à fournir dans le cadre du paragraphe 376(2),
+		- **(iii)** la prestation de services de conseil en placement et de gestion de portefeuille.
+
 **Contrôle**
 
 - **(4)** Sous réserve du paragraphe (8) et des règlements, les règles suivantes s’appliquent à l’acquisition par l’association du contrôle des entités suivantes et à l’acquisition ou à l’augmentation par elle d’un intérêt de groupe financier dans ces entités :
 	- **a)** s’agissant d’une entité visée aux alinéas (1)a) à h), elle ne peut le faire que si :
 		- **(i)** soit elle la contrôle ou en acquiert de la sorte le contrôle, au sens de l’alinéa 3(1)e),
 		- **(ii)** soit elle est autorisée par règlement pris en vertu de l’alinéa 396a) à acquérir ou augmenter l’intérêt;
-	- **b)** s’agissant d’une entité qui exerce une activité visée à l’alinéa (2)a) et qui exerce, dans le cadre de ses activités commerciales, des activités d’intermédiaire financier comportant des risques importants de crédit ou de marché, notamment une entité s’occupant d’affacturage, une entité s’occupant de crédit-bail ou une entité s’occupant de financement, elle ne peut le faire que si :
+	- **b)** s’agissant d’une entité dont les activités commerciales comportent une activité visée à l’alinéa (2)a) et qui exerce, dans le cadre de ses activités commerciales, des activités d’intermédiaire financier comportant des risques importants de crédit ou de marché, notamment une entité s’occupant d’affacturage, une entité s’occupant de crédit-bail ou une entité s’occupant de financement, elle ne peut le faire que si :
 		- **(i)** soit elle la contrôle ou en acquiert de la sorte le contrôle, au sens de l’alinéa 3(1)e),
-		- **(ii)** soit elle est autorisée par règlement pris en vertu de l’alinéa 396a) à acquérir ou augmenter l’intérêt;
-	- **c)** s’agissant d’une entité qui exerce une activité visée à l’alinéa (2)b), y compris une entité s’occupant de financement spécial, elle ne peut le faire que si :
+		- **(ii)** soit elle est autorisée par règlement pris en vertu de l’alinéa 396a) à acquérir ou à augmenter l’intérêt;
+	- **c)** s’agissant d’une entité dont les activités commerciales comportent une activité visée à l’alinéa (2)b), y compris une entité s’occupant de financement spécial, elle ne peut le faire que si :
 		- **(i)** soit elle la contrôle ou en acquiert de la sorte le contrôle, au sens de l’alinéa 3(1)e),
-		- **(ii)** soit elle est autorisée par règlement pris en vertu de l’alinéa 396a) à acquérir ou augmenter l’intérêt,
+		- **(ii)** soit elle est autorisée par règlement pris en vertu de l’alinéa 396a) à acquérir ou à augmenter l’intérêt,
 		- **(iii)** soit, sous réserve des modalités éventuellement fixées par règlement, les activités de l’entité ne comportent pas l’acquisition ou la détention du contrôle d’une entité visée aux alinéas a) ou b) ou d’une entité qui n’est pas une entité admissible, ni d’actions ou de titres de participation dans celle-ci.
 
 **Agrément du ministre**
@@ -8055,7 +8165,8 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 		- **(i)** une entité s’occupant d’affacturage,
 		- **(ii)** une entité s’occupant de crédit-bail;
 	- **c)** acquérir le contrôle d’une entité dont l’activité commerciale comporte des activités visées à l’alinéa (2)d) ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité;
-	- **d)** acquérir le contrôle d’une entité qui exerce des activités visées aux alinéas 376(1)g) ou h) ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité;
+	- **d)** acquérir le contrôle d’une entité qui exerce au Canada des activités visées à l’alinéa 376(1)g) ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité;
+	- **d.1)** acquérir le contrôle d’une entité qui exerce des activités visées à l’alinéa 376(1)h) ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité;
 	- **e)** acquérir le contrôle d’une entité qui exerce des activités prévues par règlement d’application de l’alinéa (2)f) ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité.
 
 **Agrément du surintendant**
@@ -8065,7 +8176,7 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 **Exception**
 
 - **(7)** Le paragraphe (6) ne s’applique pas à une opération dans l’un ou l’autre des cas suivants :
-	- **a)** l’entité dont le contrôle est acquis exerce une activité visée à l’alinéa (2)b) mais n’est pas une entité s’occupant de financement spécial;
+	- **a)** l’entité dont le contrôle est acquis n’est pas une entité s’occupant de financement spécial et le seul motif pour lequel l’agrément serait exigé, n’eût été le présent paragraphe, est l’exercice par elle d’une activité visée à l’alinéa (2)b);
 	- **b)** les activités de l’entité dont le contrôle est acquis se limitent aux activités qu’exercent une entité s’occupant d’affacturage ou une entité s’occupant de crédit-bail;
 	- **c)** le ministre a agréé l’opération dans le cadre du paragraphe (5) ou il est réputé l’avoir agréée dans le cadre du paragraphe 391(1).
 
@@ -8086,7 +8197,7 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 **Présomption d’agrément**
 
 - **(11)** Si l’association contrôle, au sens des alinéas 3(1)a), b), c) ou d), une entité, les paragraphes (5) et (6) ne s’appliquent pas aux augmentations postérieures par l’association de son intérêt de groupe financier dans l’entité tant qu’elle continue de la contrôler.
-> 1991, ch. 48, art. 390; 1997, ch. 15, art. 142; 1999, ch. 28, art. 116; 2001, ch. 9, art. 314.
+> 1991, ch. 48, art. 390; 1997, ch. 15, art. 142; 1999, ch. 28, art. 116; 2001, ch. 9, art. 314; 2007, ch. 6, art. 173.
 
 
 
@@ -8152,14 +8263,14 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **Placement provisoire**
 
-- **(4)** L’association qui, au moyen d’un placement provisoire, acquiert le contrôle ou acquiert ou augmente un intérêt de groupe financier dans un cas où l’agrément du ministre est requis dans le cadre du paragraphe 390(5) doit, dans les quatre-vingt-dix jours qui suivent l’acquisition :
-	- **a)** soit demander l’agrément du ministre pour continuer à détenir le contrôle ou l’intérêt pour la période précisée par le ministre ou pour une période indéterminée, aux conditions que celui-ci estime indiquées;
+- **(4)** L’association qui, au moyen d’un placement provisoire, acquiert le contrôle ou acquiert ou augmente un intérêt de groupe financier dans un cas où l’agrément du ministre aurait été requis dans le cadre du paragraphe 390(5) si le contrôle avait été acquis ou l’intérêt de groupe financier acquis ou augmenté au titre de l’article 390 doit, dans les quatre-vingt-dix jours qui suivent l’acquisition :
+	- **a)** soit demander l’agrément du ministre pour continuer à détenir le contrôle ou l’intérêt pour la période précisée par le ministre ou pour une période indéterminée, aux conditions que celui-ci estime appropriées;
 	- **b)** soit prendre les mesures nécessaires pour éliminer le contrôle ou ne plus détenir un intérêt de groupe financier à l’expiration des quatre-vingt-dix jours.
 
 **Placement provisoire**
 
-- **(5)** Si l’association, au moyen d’un placement provisoire, acquiert le contrôle ou acquiert ou augmente un intérêt de groupe financier dans un cas où l’agrément du surintendant est requis dans le cadre du paragraphe 390(6), le surintendant peut, sur demande, autoriser l’association à conserver le contrôle de l’entité ou l’intérêt de groupe financier pour une période indéterminée, aux conditions qu’il estime indiquées.
-> 1991, ch. 48, art. 393; 2001, ch. 9, art. 314.
+- **(5)** Si l’association, au moyen d’un placement provisoire, acquiert le contrôle ou acquiert ou augmente un intérêt de groupe financier dans un cas où l’agrément du surintendant aurait été requis dans le cadre du paragraphe 390(6) si le contrôle avait été acquis ou l’intérêt de groupe financier acquis ou augmenté au titre de l’article 390, le surintendant peut, sur demande, autoriser l’association à conserver le contrôle de l’entité ou l’intérêt de groupe financier pour une période indéterminée, aux conditions qu’il estime appropriées.
+> 1991, ch. 48, art. 393; 2001, ch. 9, art. 314; 2007, ch. 6, art. 174.
 
 
 
@@ -8169,11 +8280,12 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **394** 
 
-- **(1)** Par dérogation aux autres dispositions de la présente partie, lorsqu’elle ou une de ses filiales a consenti un prêt à une entité et que s’est produit un défaut prévu dans l’accord conclu entre l’association ou une de ses filiales et l’entité relativement au prêt et aux autres documents en fixant les modalités, l’association peut acquérir, selon le cas :
+- **(1)** Par dérogation aux autres dispositions de la présente partie, lorsqu’elle ou une de ses filiales a consenti un prêt à une entité et que s’est produit un défaut prévu dans l’accord conclu entre l’association ou une de ses filiales et l’entité relativement au prêt et aux autres documents en fixant les modalités, l’association peut acquérir, selon le cas :
 	- **a)** si l’entité est une personne morale, tout ou partie de ses actions;
 	- **b)** si elle est une entité non constituée en personne morale, tout ou partie de ses titres de participation;
 	- **c)** tout ou partie des actions ou des titres de participation des entités qui sont du même groupe que l’entité en question;
-	- **d)** tout ou partie des actions de la personne morale dont l’activité principale est de détenir des actions ou des titres de participation de l’entité ou des entités de son groupe, ou des éléments d’actif acquis de ces dernières.
+	- **d)** tout ou partie des actions de la personne morale dont l’activité principale est de détenir des actions ou des titres de participation de l’entité ou des entités de son groupe, ou des éléments d’actif acquis de ces dernières;
+	- **e)** tout ou partie des titres de participation d’une entité dont l’activité principale consiste à détenir des actions ou des titres de participation de l’entité ou des entités de son groupe ou des éléments d’actif acquis de ces dernières.
 
 **Obligation d’éliminer l’intérêt**
 
@@ -8187,7 +8299,7 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 - **(4)** Le surintendant peut, sur demande, accorder à une association une ou plusieurs prolongations des délais prévus aux paragraphes (2) ou (3) de la durée et aux conditions qu’il estime indiquées.
 
-**Exception : entités contrôlées par un gouvernement étranger**
+**Exception : entités contrôlées par un gouvernement étranger**
 
 - **(5)** Par dérogation aux autres dispositions de la présente partie, lorsqu’elle a consenti un prêt à un gouvernement d’un pays étranger ou à une entité contrôlée par celui-ci, ou qu’elle détient un titre de créance d’un tel gouvernement ou d’une telle entité, et que s’est produit un défaut prévu dans l’accord conclu entre eux relativement au prêt ou au titre de créance et aux autres documents en fixant les modalités, l’association peut acquérir tout ou partie des actions ou titres de participation de l’entité ou de toute autre entité désignée par ce gouvernement si l’acquisition fait partie d’un programme de réaménagement de la dette publique du même gouvernement.
 
@@ -8198,7 +8310,7 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 **Exception**
 
 - **(7)** L’association qui, dans le cadre du paragraphe (1), acquiert le contrôle d’une entité qu’elle serait par ailleurs autorisée à acquérir en vertu de l’article 390 ou acquiert ou augmente un intérêt de groupe financier qu’elle serait par ailleurs autorisée à acquérir ou augmenter en vertu de cet article peut continuer à détenir le contrôle ou l’intérêt pour une période indéterminée si elle obtient l’agrément écrit du ministre avant l’expiration des délais prévus aux paragraphes (2) ou (3) et prolongés, le cas échéant, aux termes du paragraphe (4).
-> 1991, ch. 48, art. 394; 1997, ch. 15, art. 143; 2001, ch. 9, art. 314.
+> 1991, ch. 48, art. 394; 1997, ch. 15, art. 143; 2001, ch. 9, art. 314; 2007, ch. 6, art. 175.
 
 
 
@@ -8390,7 +8502,7 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **406** 
 
-- **(1)** Il est interdit à l’association — et celle-ci doit l’interdire à ses filiales — sans l’agrément du surintendant, d’acquérir des éléments d’actif auprès d’une personne ou de céder des éléments d’actif à une personne si :
+- **(1)** Il est interdit à l’association — et celle-ci doit l’interdire à ses filiales — sans l’agrément du surintendant, d’acquérir des éléments d’actif auprès d’une personne ou de céder des éléments d’actif à une personne si :
 ```
 A + B > C
 ```
@@ -8399,36 +8511,40 @@ où :
 - **B** la valeur de tous les éléments d’actif que l’association et ses filiales ont acquis auprès de cette personne ou cédés à celle-ci pendant la période de douze mois précédant la date d’acquisition ou de cession;
 - **C** dix pour cent de la valeur totale de l’actif de l’association figurant dans le dernier rapport annuel établi avant la date d’acquisition ou de cession.
 
+**Agrément dans le cadre d’une ou de plusieurs opérations**
+
+- **(1.1)** Le surintendant peut, pour l’application du paragraphe (1), agréer une opération ou une série d’opérations liée à l’acquisition ou à la cession d’éléments d’actif pouvant être conclue avec une personne ou avec plusieurs personnes faisant partie d’une catégorie déterminée, qu’elles soient connues ou non au moment de l’octroi de l’agrément.
+
 **Restriction**
 
-- **(2)** L’interdiction prévue au paragraphe (1) ne s’applique pas à l’opération ou la série d’opérations effectuées entre l’association et un de ses associés.
+- **(2)** Le paragraphe (1) ne s’applique pas à l’opération ou à la série d’opérations intervenue entre l’association et un de ses associés.
 
 **Exception**
 
-- **(3)** L’interdiction prévue au paragraphe (1) ne s’applique toutefois pas :
-	- **a)** aux éléments d’actif qui consistent en titres de créance visés aux sous-alinéas b)(i) à (vi) de la définition de « prêt commercial  » au paragraphe 386(1);
-	- **b)** aux opérations ou séries d’opérations intervenues entre l’association et une autre institution financière à la suite de la participation de l’association et de l’institution à la syndication de prêts.
+- **(3)** Le paragraphe (1) ne s’applique pas :
+	- **a)** aux éléments d’actif qui consistent en titres de créance visés aux sous-alinéas b)(i) à (vi) de la définition de ***prêt commercial*** au paragraphe 386(1);
+	- **b)** aux éléments d’actif acquis ou cédés dans le cadre d’une opération ou d’une série d’opérations intervenue entre l’association et une autre institution financière à la suite de la participation de l’association et de l’institution à la syndication de prêts;
+	- **c)** aux éléments d’actif achetés ou vendus dans le cadre d’une convention de vente approuvée par le ministre en vertu de l’article 233.5;
+	- **d)** aux actions ou aux titres de participation d’une entité dans un cas où l’agrément du ministre est requis dans le cadre de la partie VIII ou du paragraphe 390(5) ou dans un cas où l’agrément du surintendant est requis dans le cadre du paragraphe 390(6);
+	- **e)** aux éléments d’actif, autres que des biens immeubles, acquis ou aliénés conformément à des arrangements approuvés par le surintendant dans le cadre du paragraphe 418(3);
+	- **f)** aux éléments d’actif acquis ou aliénés avec l’agrément du surintendant dans le cadre du paragraphe 418(3.1).
 
-**Exception**
-
-- **(4)** L’agrément du surintendant n’est pas nécessaire dans l’un ou l’autre des cas suivants :
-	- **a)** la vente des éléments d’actif se fait dans le cadre d’une convention de vente agréée par le ministre en vertu de l’article 233.5;
-	- **b)** l’association ou l’une de ses filiales acquiert les actions ou des titres de participation d’une entité dans un cas où l’agrément du ministre est requis dans le cadre de la partie VIII ou du paragraphe 390(5) ou dans un cas où l’agrément du surintendant est requis dans le cadre du paragraphe 390(6).
+- **(4)** [Abrogé, 2007, ch. 6, art. 176]
 
 **Calcul de la valeur des éléments d’actif**
 
-- **(5)** Pour le calcul de l’élément A de la formule figurant au paragraphe (1), la valeur des éléments d’actif est :
+- **(5)** Pour le calcul de l’élément A de la formule figurant au paragraphe (1), la valeur des éléments d’actif est :
 	- **a)** dans le cas où les éléments sont acquis, leur prix d’achat ou, s’il s’agit d’actions ou de titres de participation d’une entité dont les éléments d’actif figureront au rapport annuel de l’association après l’acquisition, la juste valeur marchande de ces éléments d’actif;
-	- **b)** dans le cas où les éléments sont cédés, la valeur comptable des éléments figurant au dernier rapport annuel de l’association établi avant la date de cession ou, s’il s’agit d’actions ou de titres de participation d’une entité dont les éléments d’actif figuraient au dernier rapport annuel établi avant la date de cession, la valeur des éléments figurant dans le rapport annuel.
+	- **b)** dans le cas où les éléments sont cédés, la valeur des éléments qui est visée au dernier rapport annuel de l’association établi avant la cession ou, si la valeur n’est pas visée à ce rapport, la valeur qui serait visée au dernier rapport si celui-ci avait été établi avant la cession selon les principes comptables visés au paragraphe 292(4).
 
-**Sens de « valeur de tous les éléments d’actif »**
+**Sens de valeur de tous les éléments d’actif**
 
 - **(6)** Pour l’application du paragraphe (1), la valeur de tous les éléments d’actif acquis par une association et ses filiales au cours de la période de douze mois visée au paragraphe (1) est leur prix d’achat ou, s’il s’agit d’actions ou de titres de participation d’une entité dont les éléments d’actif figureront au rapport annuel de l’association après l’acquisition, la juste valeur marchande de ces éléments d’actif à la date d’acquisition.
 
-**Sens de « valeur de tous les éléments d’actif »**
+**Valeur de tous les éléments d’actif**
 
-- **(7)** Pour l’application du paragraphe (1), la valeur de tous les éléments d’actif cédés par une association et ses filiales au cours de la période de douze mois visée au paragraphe (1) est la valeur comptable des éléments figurant au dernier rapport annuel de l’association établi avant la date de cession ou, s’il s’agit d’actions ou de titres de participation d’une entité dont les éléments d’actif figuraient au dernier rapport annuel établi avant la date de cession, la valeur des éléments de l’entité figurant dans le rapport annuel.
-> 1991, ch. 48, art. 406; 1997, ch. 15, art. 149; 2001, ch. 9, art. 314.
+- **(7)** Pour l’application du paragraphe (1), la valeur de tous les éléments d’actif cédés par une association et ses filiales au cours de la période de douze mois visée au paragraphe (1) est le total de la valeur de chacun de ces éléments qui est visée au dernier rapport annuel de l’association établi avant la cession de l’élément ou, si elle n’est pas visée à ce rapport, qui serait visée au dernier rapport si celui-ci avait été établi avant la cession selon les principes comptables visés au paragraphe 292(4).
+> 1991, ch. 48, art. 406; 1997, ch. 15, art. 149; 2001, ch. 9, art. 314; 2007, ch. 6, art. 176.
 
 
 
@@ -8608,11 +8724,11 @@ cependant, après cette date, le montant du prêt ou du placement qui se trouve 
 
 
 
-**Définition de « opération »**
+**Définition de opération**
 
 **412** 
 
-- **(1)** Pour l’application de la présente partie, sont assimilés à une opération avec un apparenté :
+- **(1)** Pour l’application de la présente partie, sont assimilés à une opération avec un apparenté :
 	- **a)** la garantie consentie en son nom;
 	- **b)** le placement effectué dans ses valeurs mobilières;
 	- **c)** l’acquisition, notamment par cession, d’un prêt consenti à celui-ci par un tiers;
@@ -8622,9 +8738,15 @@ cependant, après cette date, le montant du prêt ou du placement qui se trouve 
 
 - **(2)** Pour l’application de la présente partie, l’exécution d’une obligation liée à une opération, y compris le paiement d’intérêts sur un prêt ou un dépôt, fait partie de celle-ci et ne constitue pas une opération distincte.
 
-**Définition de « prêt »**
+**Définition de prêt**
 
 - **(3)** Pour l’application de la présente partie, sont assimilés à un prêt, le dépôt, le crédit-bail, le contrat de vente conditionnelle, la convention de rachat et toute autre entente similaire en vue d’obtenir des fonds ou du crédit, à l’exception du placement dans des valeurs mobilières et de la signature d’une acceptation, d’un endossement ou d’une autre garantie.
+
+**Titre ou valeur mobilière d’un apparenté**
+
+- **(4)** Pour l’application de la présente partie, est assimilée à un titre ou à une valeur mobilière d’un apparenté une option négociable par tradition ou transfert qui permet d’exiger la livraison d’un nombre précis d’actions à un prix et dans un délai déterminés.
+> 1991, ch. 48, art. 412; 2007, ch. 6, art. 177.
+
 
 
 
@@ -8696,7 +8818,7 @@ cependant, après cette date, le montant du prêt ou du placement qui se trouve 
 
 **Vente d’éléments d’actif**
 
-- **(2)** Sous réserve de l’article 406, l’association peut vendre des éléments d’actif à un apparenté dans les cas suivants :
+- **(2)** Sous réserve de l’article 406, l’association peut vendre des éléments d’actif à un apparenté dans les cas suivants :
 	- **a)** la contrepartie est entièrement payée en argent;
 	- **b)** il existe pour ces éléments d’actif un marché actif.
 
@@ -8710,10 +8832,14 @@ cependant, après cette date, le montant du prêt ou du placement qui se trouve 
 
 **Location de produits ou locaux**
 
-- **(4)** Si la contrepartie est payée en argent, l’association peut :
+- **(4)** Si la contrepartie est payée en argent, l’association peut :
 	- **a)** soit prendre à bail d’un apparenté des éléments d’actif qu’elle utilise dans le cadre normal de son activité commerciale;
 	- **b)** soit lui donner à bail des éléments d’actif.
-> 1991, ch. 48, art. 418; 2001, ch. 9, art. 317.
+
+**Approbation : article 233.5**
+
+- **(5)** Une association peut acquérir des éléments d’actif d’un apparenté ou les aliéner en sa faveur dans le cadre d’une convention de vente approuvée par le ministre en vertu de l’article 233.5.
+> 1991, ch. 48, art. 418; 2001, ch. 9, art. 317; 2007, ch. 6, art. 178.
 
 
 
@@ -8723,10 +8849,10 @@ cependant, après cette date, le montant du prêt ou du placement qui se trouve 
 
 **419** 
 
-- **(1)** Est également permise toute opération entre l’association et un apparenté qui consiste en :
+- **(1)** Est également permise toute opération entre l’association et un apparenté qui consiste en :
 	- **a)** un contrat écrit pour l’achat par elle de services utilisés dans le cadre normal de son activité commerciale, sous réserve du paragraphe (2);
 	- **a.1)** sous réserve du paragraphe (4) et si elle est une association de détail, la prestation par elle de services, à l’exception des prêts ou garanties, qu’une association offre normalement au public;
-	- **b)** un contrat écrit avec une institution financière ou une entité dans laquelle elle est autorisée à détenir un intérêt de groupe financier en vertu de l’article 390 en vue :
+	- **b)** un contrat écrit avec une institution financière ou une entité dans laquelle elle est autorisée à détenir un intérêt de groupe financier en vertu de l’article 390 en vue :
 		- **(i)** d’offrir le réseau de services fournis par l’association, l’institution ou l’entité,
 		- **(ii)** du renvoi d’une personne soit par l’association à l’institution financière ou à l’entité, soit par l’institution financière ou l’entité à l’association;
 	- **c)** un contrat écrit en vue de régimes de retraite ou d’autres avantages liés aux fonctions d’administrateur ou à l’emploi des dirigeants et employés de l’association et de ses filiales, ainsi que leur gestion ou mise en oeuvre;
@@ -8736,14 +8862,14 @@ cependant, après cette date, le montant du prêt ou du placement qui se trouve 
 
 - **(2)** Si l’association a conclu un contrat conformément à l’alinéa (1)a) et que le contrat a pour effet, compte tenu de tous les autres contrats conclus par elle, de confier la totalité ou quasi-totalité des responsabilités de gestion de l’association à des personnes qui n’en sont pas des employés, le surintendant peut, par ordonnance, s’il juge la situation inacceptable, enjoindre à l’association de prendre, dans le délai et selon les modalités qui y sont prévus, toutes les mesures nécessaires pour que les responsabilités de gestion essentielles au fonctionnement de l’association soient assumées par des employés de celle-ci.
 
-**Société de services**
+**Exception**
 
-- **(3)** Par dérogation au paragraphe 413(2), l’association est réputée ne pas avoir effectué indirectement une opération visée par la présente partie si l’opération est effectuée par une société de services, au sens du paragraphe 386(1), contrôlée par l’association et que l’opération a été effectuée à des conditions au moins aussi favorables pour l’association que les conditions du marché au sens du paragraphe 425(2).
+- **(3)** Par dérogation au paragraphe 413(2), l’association est réputée ne pas avoir effectué indirectement une opération visée par la présente partie si l’opération est effectuée par une entité qui est contrôlée par l’association et dont l’activité commerciale se limite à l’activité visée à l’alinéa 390(2)c), et que l’opération a été effectuée à des conditions au moins aussi favorables pour l’association que les conditions du marché au sens du paragraphe 425(2).
 
 **Exceptions**
 
 - **(4)** Pour l’application de l’alinéa (1)a.1), sont exclues de la prestation de services les opérations de prêt ou de garantie.
-> 1991, ch. 48, art. 419; 1997, ch. 15, art. 152; 2001, ch. 9, art. 318.
+> 1991, ch. 48, art. 419; 1997, ch. 15, art. 152; 2001, ch. 9, art. 318; 2007, ch. 6, art. 179.
 
 
 
@@ -8947,70 +9073,15 @@ si l’opération avait pour effet de porter à plus de cinquante pour cent de s
 
 
 
-
-**Relevé des dépôts non réclamés**
-
-**431.1** 
-
-- **(1)** Dans les soixante jours qui suivent la fin de chaque année civile, l’association de détail fournit au surintendant, en la forme qu’il précise, un relevé au 31 décembre de tous les dépôts effectués auprès d’elle au Canada, en monnaie canadienne, qui n’ont fait l’objet d’aucune opération et pour lesquels aucun état de compte n’a été demandé ou reconnu par le déposant au cours d’une période d’au moins neuf ans.
-
-**Calcul de la période**
-
-- **(2)** La période en question, qui se termine à la date du relevé, a pour point de départ :
-	- **a)** dans le cas des dépôts à terme, l’échéance du terme;
-	- **b)** dans le cas des autres dépôts, soit la date de la dernière opération, soit, si elle lui est postérieure, celle où le déposant a, pour la dernière fois, demandé ou reconnu un état de compte.
-
-**Teneur du relevé**
-
-- **(3)** Le relevé doit indiquer, dans la mesure où l’association en a connaissance :
-	- **a)** le nom du titulaire de chaque dépôt;
-	- **b)** l’adresse enregistrée de chacun d’eux;
-	- **c)** le solde de chacun des dépôts;
-	- **d)** le bureau de l’association où la dernière opération concernant le dépôt a eu lieu et la date de celle-ci.
-
-**Solde inférieur à cent dollars**
-
-- **(4)** L’association n’est toutefois pas tenue de fournir les renseignements énoncés au paragraphe (3) dans le cas où le solde de l’ensemble des dépôts inscrits au nom du titulaire est inférieur à cent dollars.
-> 2001, ch. 9, art. 324.
+**431.1** [Abrogé, 2007, ch. 6, art. 180]
 
 
 
-
-
-**Relevé des effets non réclamés**
-
-**431.2** 
-
-- **(1)** Dans les soixante jours qui suivent la fin de chaque année civile, l’association de détail fournit au surintendant, en la forme qu’il précise, un relevé au 31 décembre de tous les effets négociables, y compris les effets tirés par un de ses bureaux sur un autre de ceux-ci mais à l’exclusion des effets émis en paiement d’un dividende sur son capital, payables au Canada, en monnaie canadienne, qui ont été émis, visés ou acceptés par elle dans ses bureaux au Canada, et pour lesquels aucun paiement n’a été fait pendant une période d’au moins neuf ans, laquelle se termine à la date du relevé et a pour point de départ la date de la dernière des opérations suivantes : émission, visa, acceptation ou échéance.
-
-**Teneur du relevé**
-
-- **(2)** Le relevé doit indiquer, dans la mesure où l’association en a connaissance :
-	- **a)** le nom de chaque personne à qui, ou à la demande de qui, chaque effet a été émis, visé ou accepté;
-	- **b)** l’adresse enregistrée de chacune de ces personnes;
-	- **c)** le nom du bénéficiaire de chaque effet;
-	- **d)** le montant et la date de chaque effet;
-	- **e)** le nom du lieu où chaque effet était payable;
-	- **f)** le bureau de l’association où chaque effet a été émis, visé ou accepté.
-
-**Effet inférieur à cent dollars**
-
-- **(3)** L’association n’est toutefois pas tenue de fournir les renseignements énoncés au paragraphe (2) dans le cas où le montant de l’effet est inférieur à cent dollars.
-
-**Mandat-poste**
-
-- **(4)** L’association peut également omettre ces renseignements relativement aux mandats auxquels le paragraphe (1) s’applique.
-> 2001, ch. 9, art. 324.
+**431.2** [Abrogé, 2007, ch. 6, art. 180]
 
 
 
-
-
-**Mention obligatoire de la valeur globale**
-
-**431.3** Même en cas d’omission des renseignements devant normalement figurer dans les relevés visés aux paragraphes 431.1(1) ou 431.2(1), l’association de détail doit préciser la valeur globale des dépôts ou effets en cause.
-> 2001, ch. 9, art. 324.
-
+**431.3** [Abrogé, 2007, ch. 6, art. 180]
 
 
 
@@ -9096,12 +9167,7 @@ si l’opération avait pour effet de porter à plus de cinquante pour cent de s
 
 
 
-
-**Publicité**
-
-**435.2** Le surintendant doit faire publier dans la Gazette du Canada les renseignements figurant dans les relevés visés aux articles 431.1 et 431.2 dans les soixante jours qui suivent l’expiration du délai prévu par la présente loi pour leur production.
-> 2001, ch. 9, art. 327.
-
+**435.2** [Abrogé, 2007, ch. 6, art. 181]
 
 
 
@@ -9670,42 +9736,114 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 
 
-### Agréments : conditions et engagements
+### Agréments
 
 
 
-**Définition de « agrément »**
+**Définition de agrément**
 
-**459.2** 
+**459.2** Aux articles 459.3 à 459.8, ***agrément*** s’entend notamment de toute approbation, désignation, consentement, accord, arrêté, ordonnance, exemption, dispense, prorogation ou prolongation ou autre autorisation accordée sous le régime de la présente loi par le ministre ou le surintendant, selon le cas; y est assimilée la délivrance de lettres patentes.
+> 2001, ch. 9, art. 337; 2007, ch. 6, art. 182.
 
-- **(1)** Au présent article, ***agrément*** s’entend notamment de toute approbation, consentement, accord, arrêté, ordonnance, exemption, dispense, prorogation ou prolongation ou autre autorisation accordée en vertu de la présente loi, par le ministre ou le surintendant, selon le cas; y est assimilée la délivrance de lettres patentes.
 
-**Ministre : conditions et engagements**
 
-- **(2)** Sans préjudice de toute autre mesure fondée sur la présente loi, le ministre peut subordonner l’octroi de son agrément à la réalisation des conditions et engagements qu’il estime nécessaires, notamment ceux que précise le surintendant afin de mettre en oeuvre des mesures visant à maintenir ou à améliorer la santé financière de toute institution financière régie par une loi fédérale et visée par l’agrément ou susceptible d’être touchée par celui-ci.
 
-**Surintendant : conditions et engagements**
 
-- **(3)** Sans préjudice de toute autre mesure fondée sur la présente loi, le surintendant peut subordonner l’octroi de son agrément à la réalisation des conditions et engagements qu’il estime nécessaires.
+**Facteurs : ministre**
 
-**Effet de la non-réalisation des conditions ou engagements**
+**459.3** 
 
-- **(4)** Sauf disposition contraire expresse de la présente loi, la non-réalisation des conditions ou engagements auxquels l’agrément est subordonné aux termes d’une disposition quelconque de la présente loi ne rend pas celui-ci nul pour autant.
+- **(1)** Outre les facteurs et conditions prévus par la présente loi qui sont liés à l’octroi d’un agrément, le ministre peut prendre en compte tous les facteurs qu’il estime pertinents dans les circonstances avant d’octroyer son agrément, notamment :
+	- **a)** la sécurité nationale;
+	- **b)** les relations internationales du Canada et ses obligations juridiques internationales.
 
-**Non-réalisation**
+**Facteurs : surintendant**
 
-- **(5)** Sans préjudice de toute autre mesure fondée sur la présente loi, en cas de non-réalisation par une personne des conditions ou engagements auxquels l’agrément est subordonné aux termes d’une disposition quelconque de la présente loi, le ministre ou le surintendant, selon le cas, peut :
-	- **a)** soit révoquer, suspendre ou modifier l’agrément;
-	- **b)** soit demander au tribunal une ordonnance enjoignant à cette personne de se conformer aux conditions ou engagements, le tribunal pouvant alors acquiescer à la demande et rendre toute autre ordonnance qu’il juge indiquée.
+- **(2)** Outre les facteurs et conditions prévus par la présente loi qui sont liés à l’octroi d’un agrément et les considérations de prudence qu’il estime pertinentes dans les circonstances, le surintendant peut, avant d’octroyer son agrément, prendre en compte :
+	- **a)** la sécurité nationale;
+	- **b)** les relations internationales du Canada et ses obligations juridiques internationales.
+> 2007, ch. 6, art. 182.
+
+
+
+
+
+**Ministre : conditions et engagements**
+
+**459.4** 
+
+- **(1)** Sans préjudice de toute autre mesure fondée sur la présente loi, le ministre peut subordonner l’octroi de son agrément à la réalisation des conditions et engagements qu’il estime appropriés, notamment ceux que précise le surintendant afin de mettre en oeuvre des mesures visant à maintenir ou à améliorer la santé financière de toute institution financière régie par une loi fédérale et visée par l’agrément ou susceptible d’être touchée par celui-ci.
+
+**Surintendant : conditions et engagements**
+
+- **(2)** Sans préjudice de toute autre mesure fondée sur la présente loi, le surintendant peut subordonner l’octroi de son agrément à la réalisation des conditions et engagements qu’il estime appropriés.
+> 2007, ch. 6, art. 182.
+
+
+
+
+
+**Révocation, suspension ou modification de l’agrément du ministre**
+
+**459.5** 
+
+- **(1)** Le ministre peut révoquer, suspendre ou modifier son agrément s’il l’estime indiqué. Pour ce faire, il peut prendre en compte tous les facteurs qu’il estime pertinents dans les circonstances, notamment :
+	- **a)** la sécurité nationale;
+	- **b)** les relations internationales du Canada et ses obligations juridiques internationales.
+
+**Révocation, suspension ou modification de l’agrément du surintendant**
+
+- **(2)** Le surintendant peut révoquer, suspendre ou modifier son agrément s’il l’estime indiqué. Pour ce faire, il peut prendre en compte les considérations de prudence qu’il estime pertinentes dans les circonstances et les éléments suivants :
+	- **a)** la sécurité nationale;
+	- **b)** les relations internationales du Canada et ses obligations juridiques internationales.
 
 **Observations**
 
-- **(6)** Avant de prendre une mesure en application du paragraphe (5), le ministre ou le surintendant, selon le cas, accorde aux intéressés la possibilité de présenter des observations.
+- **(3)** Avant de prendre une mesure en application du présent article, le ministre ou le surintendant, selon le cas, accorde aux intéressés la possibilité de présenter des observations.
+> 2007, ch. 6, art. 182.
+
+
+
+
+
+**Effet de la non-réalisation des conditions ou engagements**
+
+**459.6** 
+
+- **(1)** Sauf disposition contraire expresse de la présente loi, la non-réalisation des conditions ou engagements auxquels l’agrément est subordonné aux termes d’une disposition quelconque de la présente loi ne rend pas celui-ci nul pour autant.
+
+**Non-réalisation**
+
+- **(2)** Sans préjudice de toute autre mesure fondée sur la présente loi, en cas de non-réalisation par une personne des conditions ou engagements auxquels l’agrément est subordonné aux termes d’une disposition quelconque de la présente loi, le ministre ou le surintendant, selon le cas, peut :
+	- **a)** révoquer, suspendre ou modifier l’agrément;
+	- **b)** demander au tribunal une ordonnance enjoignant à cette personne de se conformer aux conditions ou engagements, le tribunal pouvant alors acquiescer à la demande et rendre toute autre ordonnance qu’il juge opportune.
+
+**Observations**
+
+- **(3)** Avant de prendre une mesure en application du paragraphe (2), le ministre ou le surintendant, selon le cas, accorde aux intéressés la possibilité de présenter des observations.
 
 **Révocation, suspension ou modification**
 
-- **(7)** Sur demande des intéressés, le ministre ou le surintendant, selon le cas, peut révoquer, suspendre ou modifier les conditions qu’il a imposées ou révoquer ou suspendre les engagements qu’il a exigés ou en approuver la modification.
-> 2001, ch. 9, art. 337.
+- **(4)** Sur demande des intéressés, le ministre ou le surintendant, selon le cas, peut révoquer, suspendre ou modifier les conditions qu’il a imposées, ou révoquer ou suspendre les engagements qu’il a exigés ou en approuver la modification.
+> 2007, ch. 6, art. 182.
+
+
+
+
+
+**Autres agréments**
+
+**459.7** Le ministre ou le surintendant peut, s’il l’estime indiqué, accorder en un seul acte plusieurs agréments, à l’exception des lettres patentes. Le cas échéant, il peut préciser une date distincte pour la prise d’effet de chacun des agréments.
+> 2007, ch. 6, art. 182.
+
+
+
+
+
+**Pouvoirs du surintendant à l’égard des avis d’intention**
+
+**459.8** Le surintendant peut, sur demande, soustraire l’auteur ou les auteurs d’une demande d’agrément aux dispositions de la présente loi relatives à la publication d’un avis d’intention concernant les demandes d’agrément et y substituer toute condition qu’il juge appropriée.
+> 2007, ch. 6, art. 182.
 
 
 
@@ -9737,10 +9875,10 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **461.1** 
 
-- **(1)** Doivent être accompagnées des renseignements et documents que peut exiger le surintendant les demandes suivantes qui lui sont présentées :
+- **(1)** Doivent être accompagnées des renseignements et documents que peut exiger le surintendant les demandes suivantes qui lui sont présentées :
 	- **a)** les demandes d’agrément, d’approbation ou d’autorisation visées aux paragraphes 74(1), 80(2), 82(4), 86(5), 87(1), 177(1), 221(2), 385(1), 390(6) ou (10), 393(1) ou (2) ou 406(1), au sous-alinéa 411(2)a)(iv), à l’article 414 ou aux paragraphes 418(3) ou (3.1);
 	- **b)** les demandes d’accord visées au paragraphe 79(1);
-	- **c)** les demandes d’exemption ou de dispense visées aux paragraphes 166.05(3) ou 242(1);
+	- **c)** les demandes de dispense visées au paragraphe 166.05(3);
 	- **d)** les demandes de prorogation visées aux paragraphes 393(3) ou (5), 394(4) ou 395(4).
 
 **Accusé de réception**
@@ -9749,7 +9887,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Avis au demandeur**
 
-- **(3)** Sous réserve du paragraphe (4), le surintendant envoie au demandeur, dans les trente jours suivant la date de réception :
+- **(3)** Sous réserve du paragraphe (4), le surintendant envoie au demandeur, dans les trente jours suivant la date de réception :
 	- **a)** soit un avis d’agrément de la demande, assorti éventuellement des conditions ou modalités qu’il juge utiles;
 	- **b)** soit, s’il n’est pas convaincu que la demande devrait être agréée, un avis en ce sens.
 
@@ -9760,7 +9898,44 @@ Elle lui communique également les renseignements personnels qui les concernent 
 **Présomption**
 
 - **(5)** Le défaut d’envoyer l’avis prévu au paragraphe (3) et, s’il y a lieu, celui prévu au paragraphe (4) dans le délai imparti vaut agrément de la demande et octroi de l’agrément, de l’approbation, de l’autorisation, de l’accord, de l’exemption, de la dispense ou de la prorogation de délai visés par la demande, même si ceux-ci doivent être donnés par écrit.
-> 2001, ch. 9, art. 338.
+> 2001, ch. 9, art. 338; 2007, ch. 6, art. 183.
+
+
+
+
+
+### Demandes relatives à certains agréments
+
+
+
+**Demandes relatives à certains agréments**
+
+**461.2** 
+
+- **(1)** Toute demande visant l’obtention de l’agrément écrit préalable du ministre faite dans le cadre de l’un ou l’autre des alinéas 376(1)g) et h) et 390(5)c), d) et d.1) est présentée au surintendant et contient les renseignements, documents et éléments de preuve pouvant être exigés par lui.
+
+**Accusé de réception**
+
+- **(2)** S’il estime que la demande est complète, le surintendant la transmet, accompagnée de son analyse, au ministre et adresse au demandeur un accusé de réception précisant la date où elle a été transmise au ministre.
+
+**Demande incomplète**
+
+- **(3)** Dans le cas contraire, le surintendant envoie au demandeur un avis précisant les renseignements manquants à lui communiquer.
+
+**Avis au demandeur**
+
+- **(4)** Sous réserve du paragraphe (5), le ministre envoie au demandeur, dans les trente jours suivant la date visée au paragraphe (2) :
+	- **a)** soit un avis d’agrément de la demande;
+	- **b)** soit, s’il n’est pas convaincu que la demande devrait être agréée, un avis de refus.
+
+**Prorogation**
+
+- **(5)** Dans le cas où l’examen de la demande ne peut se faire dans le délai fixé au paragraphe (4), le ministre envoie, avant l’expiration de celui-ci, un avis en informant le demandeur et précisant le nouveau délai.
+
+**Présomption**
+
+- **(6)** Le ministre est réputé avoir agréé la demande s’il omet d’envoyer l’avis prévu au paragraphe (4) et, s’il y a lieu, celui prévu au paragraphe (5) dans le délai imparti.
+> 2007, ch. 6, art. 184.
 
 
 
@@ -9850,6 +10025,10 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 - **(1)** Commet une infraction quiconque contrevient sans motif valable à la présente loi ou à ses règlements.
 
+**Renseignements faux ou trompeurs**
+
+- **(1.1)** Commet une infraction quiconque, relativement à toute question visée par la présente loi ou ses règlements, communique sciemment des renseignements faux ou trompeurs.
+
 **Préférence donnée à un créancier**
 
 - **(2)** Commet une infraction tout administrateur, dirigeant ou employé d’une association qui volontairement accorde, ou consent d’accorder, de manière frauduleuse, irrégulière ou injuste, à un créancier de l’association une préférence sur d’autres créanciers, en lui donnant des garanties ou en changeant la nature de sa créance, ou de toute autre manière.
@@ -9861,6 +10040,8 @@ Elle lui communique également les renseignements personnels qui les concernent 
 **Utilisation du nom**
 
 - **(4)** Sauf dans la mesure permise par les règlements, commet une infraction quiconque utilise le nom d’une association dans un prospectus, une offre, une circulaire d’offre publique d’achat, une annonce d’opération sur des valeurs mobilières ou tout autre document portant sur une telle opération.
+> 1991, ch. 48, art. 465; 2007, ch. 6, art. 185.
+
 
 
 
