@@ -488,7 +488,11 @@ shall be deemed to be an agreement, commitment or understanding referred to in s
 **Designation**
 
 - **(4)** Where in the opinion of the Superintendent it is reasonable to conclude that an agreement, commitment or understanding referred to in subsections (1) and (2) exists by or among two or more persons, the Superintendent may designate those persons as persons who have agreed to act jointly or in concert.
-> 1991, c. 45, s. 9; 2001, c. 9, s. 483.
+
+**Contravention**
+
+- **(5)** A person contravenes a provision of Part VII if the person agrees to act jointly or in concert with one or more other persons in such a manner that a deemed single person contravenes the provision.
+> 1991, c. 45, s. 9; 2001, c. 9, s. 483; 2007, c. 6, s. 337.
 
 
 
@@ -673,12 +677,16 @@ and that is not discontinued under this Act.
 
 **20** 
 
-- **(1)** Subject to subsection (2), companies shall not carry on business after April 24, 2007, except that if Parliament dissolves on that day or at any time within the three-month period before that day, companies may continue to carry on business until the day that is one hundred and eighty days after the first day of the first session of the next Parliament.
+- **(1)** Subject to subsections (2) and (3), companies shall not carry on business after the day that is the fifth anniversary of the day on which this section comes into force.
 
 **Extension**
 
 - **(2)** The Governor in Council may, by order, extend by up to six months the time during which companies may continue to carry on business. No more than one order may be made under this subsection.
-> 1991, c. 45, s. 20; 1997, c. 15, s. 341; 2001, c. 9, s. 484; 2006, c. 4, s. 202.
+
+**Exception**
+
+- **(3)** If Parliament dissolves on the fifth anniversary of the day on which this section comes into force, on any day within the three-month period before that anniversary or on any day within an extension under subsection (2), companies may continue to carry on business for 180 days after the first day of the first session of the next Parliament.
+> 1991, c. 45, s. 20; 1997, c. 15, s. 341; 2001, c. 9, s. 484; 2006, c. 4, s. 202; 2007, c. 6, s. 338.
 
 
 
@@ -912,7 +920,7 @@ and that is not discontinued under this Act.
 	- **(c)** [Repealed, 1994, c. 47, s. 202]
 	- **(d)** hold assets that a company is not otherwise permitted by this Act to hold if the assets were held by the body corporate continued as the company at the time the application for the letters patent was made;
 	- **(e)** acquire and hold assets that a company is not otherwise permitted by this Act to acquire or hold if the body corporate continued as the company was obliged, at the time the application for the letters patent was made, to acquire those assets; and
-	- **(f)** maintain outside Canada any records or registers required by this Act to be maintained in Canada and maintain and process outside Canada information and data relating to the preparation and maintenance of such records or registers.
+	- **(f)** maintain outside Canada any records or registers required by this Act to be maintained in Canada.
 
 **Duration**
 
@@ -930,7 +938,7 @@ and that is not discontinued under this Act.
 - **(4)** The Minister shall not grant to a company any permission
 	- **(a)** with respect to matters described in paragraph (1)(b), that purports to be effective more than ten years after the date of the approval for the company to commence and carry on business, unless the Minister is satisfied on the basis of evidence on oath provided by an officer of the company that the company will not be able at law to redeem at the end of the ten years the outstanding debt obligations to which the permission relates; and
 	- **(b)** with respect to matters referred to in paragraphs (1)(d) and (e), that purports to be effective more than ten years after the date of the approval for the company to commence and carry on business.
-> 1991, c. 45, s. 37; 1994, c. 47, s. 202; 1997, c. 15, s. 342; 1999, c. 31, s. 213(F).
+> 1991, c. 45, s. 37; 1994, c. 47, s. 202; 1997, c. 15, s. 342; 1999, c. 31, s. 213(F); 2007, c. 6, s. 339.
 
 
 
@@ -945,42 +953,43 @@ and that is not discontinued under this Act.
 **38** 
 
 - **(1)** A company may
-	- **(a)** apply, with the approval in writing of the Minister, for a certificate of continuance under section 187 of the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md);
-	- **(b)** apply for letters patent continuing the company as a bank under subsection 35(1) of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md) or amalgamating and continuing the company as a bank under subsections 223(1) and 229(1) of that Act; or
-	- **(c)** apply for letters patent continuing the company as an association under subsection 31.1(1) of the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md) if
-		- **(i)** the company’s shareholders are limited to entities incorporated or formed by or under an Act of Parliament or of the legislature of a province that are, in the opinion of the Minister, operating as credit unions or cooperative associations, and
-		- **(ii)** the application for letters patent complies with prescribed terms and conditions, if any are prescribed.
+	- **(a)** apply, under the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md), for letters patent continuing the company as a bank or a bank holding company under that Act, or amalgamating and continuing the company as a bank or a bank holding company under that Act;
+	- **(b)** apply, with the approval in writing of the Minister, under the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md), for a certificate of continuance as a corporation under that Act;
+	- **(c)** apply, with the approval in writing of the Minister, under the [Canada Cooperatives Act](/en/Acts/Statutes%20of%20Canada/1998/c.%201.md), for a certificate of continuance, or a certificate of continuance and a certificate of amalgamation, as a cooperative under that Act;
+	- **(d)** apply, under the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md), for letters patent continuing the company as an association under that Act, or amalgamating and continuing the company as an association under that Act; or
+	- **(e)** apply, under the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md), for letters patent continuing the company as a company (other than a mutual company) or an insurance holding company under that Act, or amalgamating and continuing the company as a company (other than a mutual company) or an insurance holding company under that Act.
 
 **Conditions for approval**
 
-- **(2)** No approval referred to in paragraph (1)(a) may be given to a company unless the Minister is satisfied that
-	- **(a)** the application has been authorized by a special resolution;
-	- **(b)** the company
-		- **(i)** holds no deposits that are insured under the [Canada Deposit Insurance Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-3.md), and
-		- **(ii)** is not carrying on any of the fiduciary activities referred to in section 412;
-and
-	- **(c)** unless authorized pursuant to section 48, the company will not use the word “fiduciaire”, “fiduciary”, “fiducie”, “loan”, “loanco”, “prêt”, “trust” or “trustco” in its name after a certificate of continuance in respect of the company is issued under the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md).
-> 1991, c. 45, ss. 38, 559; 1994, c. 24, s. 34(F); 1997, c. 15, s. 343; 2001, c. 9, s. 487.
-
-
-
-
-
-**Effect of certificate or letters patent**
-
-**39** On the day specified in
-- **(a)** the certificate of continuance issued under the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md), or
-- **(b)** the letters patent issued under the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md),
-pursuant to an application referred to in subsection 38(1), the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md) or the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md), as the case may be, applies and this Act ceases to apply to the body corporate continued under that Act.
-> 1991, c. 45, s. 39; 1994, c. 24, s. 34(F).
-
-
-
-
+- **(2)** The approval referred to in paragraph (1)(b) or (c) may be given only if the Minister is satisfied that
+	- **(a)** the company has published, once a week for four consecutive weeks in the Canada Gazette and in a newspaper in general circulation at or near the place where the head office of the company is situated, a notice of its intention to apply for the approval;
+	- **(b)** the company is not carrying on any of the fiduciary activities referred to in section 412;
+	- **(c)** unless the company is a subsidiary of another company and it uses the name of the other company in its name as permitted by section 48, the company will not use the word “*fiduciaire*”, “fiduciary”, “*fiducie*”, “loan”, “loanco”, “prêt”, “trust” or “trustco” in its name after the certificate referred to in that paragraph is issued;
+	- **(d)** the company does not hold deposits, other than deposits that are made by a person who controls the company or by a person who has a significant interest in a class of shares of the company and that are not insured by the Canada Deposit Insurance Corporation; and
+	- **(e)** the application has been authorized by a special resolution.
 
 **Withdrawing application**
 
-**40** Where a special resolution authorizing the application for a certificate or for letters patent referred to in subsection 38(1) so states, the directors of a company may, without further approval of the shareholders, withdraw the application before it is acted on.
+- **(3)** If a special resolution authorizing the application for the certificate or letters patent so states, the directors of the company may, without further approval of the shareholders, withdraw the application before it is acted on.
+
+**Restriction on other transfers**
+
+- **(4)** A company may not apply to be continued, or to be amalgamated and continued, as the case may be, as a body corporate other than one referred to in subsection (1).
+> 1991, c. 45, ss. 38, 559; 1994, c. 24, s. 34(F); 1997, c. 15, s. 343; 2001, c. 9, s. 487; 2007, c. 6, s. 340.
+
+
+
+
+
+**Act ceases to apply**
+
+**39** If a company applies for a certificate or letters patent referred to in section 38 in accordance with that section and the certificate is given or the letters patent are issued, this Act ceases to apply to the company as of the day the certificate or the letters patent take effect.
+> 1991, c. 45, s. 39; 1994, c. 24, s. 34(F); 2007, c. 6, s. 340.
+
+
+
+
+**40** [Repealed, 2007, c. 6, s. 340]
 
 
 
@@ -1021,8 +1030,8 @@ except where the trade-mark or trade name is being changed or the body corporate
 
 **Affiliated company**
 
-**43** Despite section 41, a company that is affiliated with another entity may, with the consent of that entity and the approval of the Superintendent, be incorporated with, or change its name to, substantially the same name as that of the affiliated entity.
-> 1991, c. 45, s. 43; 1996, c. 6, s. 113; 2001, c. 9, s. 488.
+**43** Despite section 41, a company that is affiliated with another entity may, with the consent of that entity, be incorporated with, or change its name to, substantially the same name as that of the affiliated entity.
+> 1991, c. 45, s. 43; 1996, c. 6, s. 113; 2001, c. 9, s. 488; 2007, c. 6, s. 341.
 
 
 
@@ -1482,8 +1491,8 @@ but before making any such further order the Superintendent shall provide the co
 
 **Material to Superintendent**
 
-- **(5)** If the directors exercise their authority under paragraph (1)(b), the directors shall, before the issue of shares of the series, send to the Superintendent a copy of the by-law authorizing the directors to fix the rights, privileges, restrictions and conditions of those shares and shall provide the Superintendent with particulars of the proposed series of shares.
-> 1991, c. 45, s. 65; 2005, c. 54, s. 373.
+- **(5)** If the directors exercise their authority under paragraph (1)(b), the directors shall, before the issue of shares of the series, send to the Superintendent particulars of the series of shares and a copy of the by-law that granted the authority to the directors.
+> 1991, c. 45, s. 65; 2005, c. 54, s. 373; 2007, c. 6, s. 342(E).
 
 
 
@@ -1727,6 +1736,12 @@ where the security interest is nominal or immaterial when measured by criteria e
 
 - **(4)** A special resolution to reduce the stated capital of a company has no effect until it is approved in writing by the Superintendent.
 
+**Exception**
+
+- **(4.1)** Subsection (4) does not apply if
+	- **(a)** the reduction in the stated capital is made solely as a result of changes made to the accounting principles referred to in subsection 313(4); and
+	- **(b)** there is to be no return of capital to shareholders as a result of the reduction.
+
 **Conditions for approval**
 
 - **(5)** No approval to reduce the stated capital of a company may be given by the Superintendent unless application therefor is made within three months after the time of the passing of the special resolution and a copy of the special resolution, together with a notice of intention to apply for approval, has been published in the Canada Gazette.
@@ -1739,6 +1754,8 @@ where the security interest is nominal or immaterial when measured by criteria e
 	- **(c)** the company’s assets and liabilities, and
 	- **(d)** the reason why the company seeks the reduction of capital
 shall be submitted to the Superintendent at the time of the application for approval of the special resolution.
+> 1991, c. 45, s. 78; 2007, c. 6, s. 344.
+
 
 
 
@@ -1804,11 +1821,11 @@ shall be submitted to the Superintendent at the time of the application for appr
 
 **82** 
 
-- **(1)** The directors of a company may declare and a company may pay a dividend by issuing fully paid shares of the company or options or rights to acquire fully paid shares of the company and, subject to subsections (4) and (5), the directors of a company may declare and a company may pay a dividend in money or property, and where a dividend is to be paid in money, the dividend may be paid in a currency other than the currency of Canada.
+- **(1)** The directors of a company may declare and a company may pay a dividend by issuing fully paid shares of the company or options or rights to acquire fully paid shares of the company and, subject to subsection (4), the directors of a company may declare and a company may pay a dividend in money or property, and where a dividend is to be paid in money, the dividend may be paid in a currency other than the currency of Canada.
 
 **Notice to Superintendent**
 
-- **(2)** The directors of a company shall notify the Superintendent of the declaration of a dividend at least ten days prior to the day fixed for its payment.
+- **(2)** The directors of a company shall notify the Superintendent of the declaration of a dividend at least 15 days before the day fixed for its payment.
 
 **Share dividend**
 
@@ -1818,10 +1835,8 @@ shall be submitted to the Superintendent at the time of the application for appr
 
 - **(4)** The directors of a company shall not declare and a company shall not pay a dividend if there are reasonable grounds for believing that the company is, or the payment would cause the company to be, in contravention of any regulation referred to in subsection 473(1) or (2) or any direction made pursuant to subsection 473(3).
 
-**When dividend not to be declared**
-
-- **(5)** The directors of a company shall not declare and a company shall not pay a dividend in any financial year without the approval of the Superintendent if, on the day the dividend is declared, the total of all dividends declared by the company in that year would exceed the aggregate of the company’s net income up to that day in that year and of its retained net income for the preceding two financial years.
-> 1991, c. 45, s. 82; 2001, c. 9, s. 494.
+- **(5)** [Repealed, 2007, c. 6, s. 345]
+> 1991, c. 45, s. 82; 2001, c. 9, s. 494; 2007, c. 6, s. 345.
 
 
 
@@ -3456,8 +3471,8 @@ but does not include
 
 **Residency requirement**
 
-- **(2)** At least one half of the directors of a company that is a subsidiary of a foreign institution or of a prescribed holding body corporate of a foreign institution and at least two thirds of the directors of any other company must be, at the time of each director’s election or appointment, resident Canadians.
-> 1991, c. 45, s. 163; 2001, c. 9, s. 498.
+- **(2)** At least one half of the directors of a company that is a subsidiary of a foreign institution or of a prescribed holding body corporate of a foreign institution and a majority of the directors of any other company must be, at the time of each director’s election or appointment, resident Canadians.
+> 1991, c. 45, s. 163; 2001, c. 9, s. 498; 2007, c. 6, s. 346.
 
 
 
@@ -4625,8 +4640,16 @@ of the directors present are resident Canadians.
 
 **Effective date of by-law**
 
-- **(3)** A by-law, or an amendment to or a repeal of a by-law, made under subsection (1) is not effective until it is confirmed or confirmed as amended by the shareholders under subsection (2) and, in the case of by-laws referred to in paragraph (1)(i.1), approved by the Superintendent.
-> 1991, c. 45, s. 222; 2001, c. 9, s. 507; 2005, c. 54, s. 411.
+- **(3)** A by-law, or an amendment to or a repeal of a by-law, made under subsection (1) is not effective until it is confirmed or confirmed as amended by the shareholders under subsection (2) and, in the case of by-laws respecting a change to the name of the company, approved by the Superintendent.
+
+**Letters patent**
+
+- **(4)** If the name of a company or the province in Canada in which the head office of the company is situated is changed under this section, the Superintendent may issue letters patent to amend the company’s incorporating instrument accordingly.
+
+**Effect of letters patent**
+
+- **(5)** Letters patent issued under subsection (4) become effective on the day stated in the letters patent.
+> 1991, c. 45, s. 222; 2001, c. 9, s. 507; 2005, c. 54, s. 411; 2007, c. 6, s. 347.
 
 
 
@@ -4738,9 +4761,11 @@ the Minister may issue letters patent amalgamating and continuing the applicants
 
 
 
-**Approval of agreement by Minister**
+**Approval of agreement by Superintendent**
 
-**230** An amalgamation agreement shall be submitted to the Minister for approval and any approval of such an agreement pursuant to subsection 231(4) by the holders of any class or series of shares of an applicant is invalid unless, prior to the date of the approval, the Minister has approved the agreement in writing.
+**230** An amalgamation agreement must be submitted to the Superintendent for approval and any approval of the agreement under subsection 231(4) by the holders of any class or series of shares of an applicant is invalid unless, before the date of the approval, the Superintendent has approved the agreement in writing.
+> 1991, c. 45, s. 230; 2007, c. 6, s. 348.
+
 
 
 
@@ -4892,7 +4917,7 @@ the Minister may issue letters patent amalgamating and continuing the applicants
 	- **(c)** [Repealed, 1994, c. 47, s. 204]
 	- **(d)** hold assets that a company is not otherwise permitted by this Act to hold if the assets were held by one or more of the amalgamating bodies corporate at the time the application for the letters patent was made;
 	- **(e)** acquire and hold assets that a company is not otherwise permitted by this Act to acquire or hold if one or more of the amalgamating bodies corporate were obliged, at the time the application for the letters patent was made, to acquire those assets;
-	- **(f)** maintain outside Canada any records or registers required by this Act to be maintained in Canada and maintain and process, outside Canada, information and data relating to the preparation and maintenance of such records or registers; and
+	- **(f)** maintain outside Canada any records or registers required by this Act to be maintained in Canada; and
 	- **(g)** where one or more of the applicants that applied for the letters patent was a trust company pursuant to subsection 57(2) and the amalgamated company is not a trust company pursuant to subsection 57(2), hold guaranteed trust money that was held by the trust company or companies immediately prior to the amalgamation on condition that the amalgamated company
 		- **(i)** repay, or transfer to deposit accounts with the amalgamated company, each deposit of guaranteed trust money that is payable on demand or after notice within such period after the amalgamation as may be specified in the order of the Governor in Council, and
 		- **(ii)** not renew or extend the term of any guaranteed investment certificate for which the amalgamated company has assumed liability under this section.
@@ -4913,7 +4938,7 @@ the Minister may issue letters patent amalgamating and continuing the applicants
 - **(4)** The Minister shall not grant to a company any permission
 	- **(a)** with respect to matters described in paragraph (1)(b), that purports to be effective more than ten years after the date of the approval for the company to commence and carry on business, unless the Minister is satisfied on the basis of evidence on oath provided by an officer of the company that the company will not be able at law to redeem at the end of the ten years the outstanding debt obligations to which the permission relates; and
 	- **(b)** with respect to matters described in paragraphs (1)(d) and (e), that purports to be effective more than ten years after the date of issue of the letters patent.
-> 1991, c. 45, s. 236; 1994, c. 47, s. 204; 1997, c. 15, s. 364.
+> 1991, c. 45, s. 236; 1994, c. 47, s. 204; 1997, c. 15, s. 364; 2007, c. 6, s. 349.
 
 
 
@@ -4946,9 +4971,11 @@ the Minister may issue letters patent amalgamating and continuing the applicants
 
 
 
-**Agreement to Minister**
+**Agreement to Superintendent**
 
-**238** A sale agreement shall be submitted to the Minister prior to the sending of the sale agreement to shareholders of the selling company under subsection 239(1).
+**238** A sale agreement must be submitted to the Superintendent before it is sent to shareholders of the selling company under subsection 239(1).
+> 1991, c. 45, s. 238; 2007, c. 6, s. 350.
+
 
 
 
@@ -5044,7 +5071,7 @@ the Minister may issue letters patent amalgamating and continuing the applicants
 	- **(a)** its incorporating instrument and the by-laws of the company and all amendments thereto;
 	- **(b)** minutes of meetings and resolutions of shareholders;
 	- **(c)** the information referred to in paragraphs 499(1)(a), (c) and (e) to (h) contained in all returns provided to the Superintendent pursuant to section 499;
-	- **(d)** particulars of any authorizations, designations, conditions and limitations established by the Superintendent pursuant to subsection 57(1), (3) or (4) or 58(1) or that are from time to time applicable to the company; and
+	- **(d)** particulars of any authorizations, designations, conditions and limitations established by the Superintendent under subsection 57(1), (3) or (4) or 58(1) that are from time to time applicable to the company; and
 	- **(e)** particulars of exceptions granted under section 37 or 236 that are from time to time applicable to the company.
 
 **Additional records**
@@ -5061,7 +5088,7 @@ the Minister may issue letters patent amalgamating and continuing the applicants
 	- **(a)** in the case of a body corporate continued as a company under this Act, “records” includes similar records required by law to be maintained by the body corporate before it was so continued;
 	- **(b)** in the case of a body corporate amalgamated and continued as a company under this Act, “records” includes similar records required by law to be maintained by the body corporate before it was so amalgamated; and
 	- **(c)** in the case of a former-Act company, “records” includes similar records required by law to be maintained by the company before the coming into force of this section.
-> 1991, c. 45, s. 243; 1997, c. 15, s. 365(E).
+> 1991, c. 45, s. 243; 1997, c. 15, s. 365(E); 2007, c. 6, s. 351(E).
 
 
 
@@ -5116,9 +5143,9 @@ the Minister may issue letters patent amalgamating and continuing the applicants
 	- **(c)** an undertaking that the basic list and any supplemental lists obtained pursuant to subsections (5) and (6) will not be used except as permitted under section 247,
 and, if the applicant is an entity, the affidavit shall be made by a director or an officer of the entity, or any person acting in a similar capacity.
 
-**Entitlement to list**
+**Entitlement**
 
-- **(3)** A shareholder, policyholder who is entitled to vote or creditor of a company or their personal representative — or if the company is a distributing company, any person — is entitled to a basic list of shareholders of the company.
+- **(3)** A shareholder or creditor of a company or their personal representative — or if the company is a distributing company, any person — is entitled to a basic list of shareholders of the company.
 
 **Basic list**
 
@@ -5136,7 +5163,7 @@ and, if the applicant is an entity, the affidavit shall be made by a director or
 - **(6)** A company or its agent shall provide a supplemental list of shareholders required under subsection (5)
 	- **(a)** within ten days following the date the basic list is provided, where the information relates to changes that took place prior to that date; and
 	- **(b)** within ten days following the day to which the supplemental list relates, where the information relates to changes that took place on or after the date the basic list was provided.
-> 1991, c. 45, s. 245; 2005, c. 54, s. 416.
+> 1991, c. 45, s. 245; 2005, c. 54, s. 416; 2007, c. 6, ss. 352(E), 451(E).
 
 
 
@@ -5190,36 +5217,16 @@ the registers and records required or authorized by this Act to be prepared and 
 
 
 
-**Location and processing of information or data**
+**Requirement to maintain copies and process information in Canada**
 
 **250** 
 
-- **(1)** Subject to subsection (3), a company shall maintain and process in Canada any information or data relating to the preparation or maintenance of the records referred to in section 243 or of its central securities register unless the Superintendent has, subject to any terms and conditions that the Superintendent considers appropriate, exempted the company from the application of this section.
-
-**Copies**
-
-- **(2)** Subject to subsections (4) and (5), the company may maintain copies of the records referred to in section 243 or of its central securities register outside Canada and may process outside Canada any information or data relating to those copies.
-
-**Foreign records**
-
-- **(3)** Subsection (1) does not apply in respect of a branch of the company outside Canada or in respect of customers of such a branch.
-
-**Information for Superintendent**
-
-- **(4)** Where a company, in accordance with subsection (2), maintains outside Canada copies of any records referred to in subsection (1) or further processes information or data relating to those copies outside Canada, the company shall so inform the Superintendent and provide the Superintendent with a list of those copies maintained outside Canada and a description of the further processing of information or data relating to those copies outside Canada and such other information as the Superintendent may require from time to time.
-
-**Processing information in Canada**
-
-- **(5)** If the Superintendent is at any time of the opinion that the maintenance outside Canada of any copies referred to in subsection (4), or the further processing of information or data relating to any such copies outside Canada, is incompatible with the fulfilment of the Superintendent’s responsibilities under this Act or the Superintendent is advised by the Minister that, in the opinion of the Minister, such maintenance or further processing is not in the national interest, the Superintendent shall direct the company to maintain those copies, or to further process information or data relating to those copies, in Canada.
+- **(1)** If the Superintendent is of the opinion that it is incompatible with the fulfilment of the Superintendent’s responsibilities under this Act for a company to maintain, in another country, copies of records referred to in section 243 or of its central securities register or for a company to process, in another country, information or data relating to the preparation and maintenance of those records or of its central securities register — or if the Superintendent is advised by the Minister that, in the opinion of the Minister, it is not in the national interest for a company to do any of those activities in another country — the Superintendent shall direct the company to not maintain those copies, or to not process the information or data, as the case may be, in that other country or to maintain those copies or to process the information or data only in Canada.
 
 **Company to comply**
 
-- **(6)** A company shall forthwith comply with any direction issued under subsection (5).
-
-**Guidelines**
-
-- **(7)** The Superintendent shall issue guidelines respecting the circumstances under which an exemption referred to in subsection (1) may be available.
-> 1991, c. 45, s. 250; 2001, c. 9, s. 512; 2005, c. 54, s. 417.
+- **(2)** A company shall without delay comply with any direction issued under subsection (1).
+> 1991, c. 45, s. 250; 2001, c. 9, s. 512; 2005, c. 54, s. 417; 2007, c. 6, s. 353.
 
 
 
@@ -7360,14 +7367,14 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 **Amalgamation, etc., constitutes acquisition**
 
-- **(2)** Where, as a result of an amalgamation, merger or reorganization, the entity that results therefrom would have a significant interest in a class of shares of a company, that entity shall be deemed to be acquiring a significant interest in that class of shares of the company through an acquisition for which the approval of the Minister is required pursuant to subsection (1).
+- **(2)** If the entity that would result from an amalgamation, a merger or a reorganization would have a significant interest in a class of shares of a company, the entity is deemed to be acquiring a significant interest in that class of shares of the company through an acquisition for which the approval of the Minister is required under subsection (1).
 
 **Exemption**
 
 - **(3)** On application by a company, the Superintendent may exempt from the application of this section and section 376 any class of non-voting shares of the company if the aggregate book value of the shares of the class is not more than 30 per cent of the aggregate book value of all the outstanding shares of the company.
 
 - **(4) and (5)** [Repealed, 2001, c. 9, s. 518]
-> 1991, c. 45, s. 375; 2001, c. 9, s. 518.
+> 1991, c. 45, s. 375; 2001, c. 9, s. 518; 2007, c. 6, s. 354.
 
 
 
@@ -7375,8 +7382,14 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 **No acquisition of control without approval**
 
-**375.1** No person shall acquire control, within the meaning of paragraph 3(1)(d), of a company, without the prior approval of the Minister.
-> 1997, c. 15, s. 372; 2001, c. 9, s. 519.
+**375.1** 
+
+- **(1)** No person shall acquire control, within the meaning of paragraph 3(1)(d), of a company without the approval of the Minister.
+
+**Amalgamation, etc., constitutes acquisition**
+
+- **(2)** If the entity that would result from an amalgamation, a merger or a reorganization would control, within the meaning of paragraph 3(1)(d), a company, the entity is deemed to be acquiring control, within the meaning of that paragraph, of the company through an acquisition for which the approval of the Minister is required under subsection (1).
+> 1997, c. 15, s. 372; 2001, c. 9, s. 519; 2007, c. 6, s. 355.
 
 
 
@@ -7482,12 +7495,12 @@ of shares of that class of shares of the company, or of control of an entity tha
 
 **Determination of day**
 
-- **(2)** If the company has equity of one billion dollars or more on the day it comes into existence, the day referred to in subsection (1) is the day that is three years after that day and, in the case of any other company, the day referred to in subsection (1) is the day that is three years after the day of the first annual meeting of the shareholders of the company held after the equity of the company first reaches one billion dollars.
+- **(2)** If the company has equity of two billion dollars or more on the day it comes into existence, the day referred to in subsection (1) is the day that is three years after that day and, in the case of any other company, the day referred to in subsection (1) is the day that is three years after the day of the first annual meeting of the shareholders of the company held after the equity of the company first reaches two billion dollars.
 
 **Extension**
 
 - **(3)** If general market conditions so warrant and the Minister is satisfied that a company has used its best efforts to be in compliance with this section on the day determined under subsection (2), the Minister may specify a later day as the day from and after which the company must comply with subsection (1).
-> 1991, c. 45, s. 379; 2001, c. 9, s. 521.
+> 1991, c. 45, s. 379; 2001, c. 9, s. 521; 2007, c. 6, s. 356.
 
 
 
@@ -7587,14 +7600,14 @@ section 380 shall not apply in respect of that company until the expiration of s
 
 **384** 
 
-- **(1)** Subject to subsection (2) and sections 376 and 385, section 379 does not apply in respect of a company if a person acquires control of a company with equity of one billion dollars or more through the purchase or other acquisition of all or any number of the shares of the company by the person or by any entity controlled by the person.
+- **(1)** Subject to subsection (2) and sections 376 and 385, section 379 does not apply in respect of the company if a person acquires control of a company with equity of two billion dollars or more through the purchase or other acquisition of all or any number of the shares of the company by the person or by any entity controlled by the person.
 
 **Undertaking required**
 
 - **(2)** Subsection (1) applies only if the person provides the Minister with an undertaking satisfactory to the Minister to do all things necessary so that, within three years after the acquisition, or any other period that the Minister may specify, the company has voting shares that carry at least 35 per cent of the voting rights attached to all of the outstanding voting shares of the company and that are
 	- **(a)** shares of one or more classes of shares that are listed and posted for trading on a recognized stock exchange in Canada; and
 	- **(b)** shares none of which is beneficially owned by a person who is a major shareholder of the company in respect of the voting shares of the company or by any entity that is controlled by a person who is a major shareholder of the company in respect of such shares.
-> 1991, c. 45, s. 384; 2001, c. 9, s. 524.
+> 1991, c. 45, s. 384; 2001, c. 9, s. 524; 2007, c. 6, s. 357.
 
 
 
@@ -8093,7 +8106,7 @@ no person shall, in person or by proxy, exercise the voting rights attached to t
 
 **418** 
 
-- **(1)** A company shall not make a loan in Canada on the security of residential property in Canada for the purpose of purchasing, renovating or improving that property, or refinance such a loan, if the amount of the loan, together with the amount then outstanding of any mortgage having an equal or prior claim against the property, would exceed 75 per cent of the value of the property at the time of the loan.
+- **(1)** A company shall not make a loan in Canada on the security of residential property in Canada for the purpose of purchasing, renovating or improving that property, or refinance such a loan, if the amount of the loan, together with the amount then outstanding of any mortgage having an equal or prior claim against the property, would exceed 80 per cent of the value of the property at the time of the loan.
 
 **Exception**
 
@@ -8104,7 +8117,7 @@ no person shall, in person or by proxy, exercise the voting rights attached to t
 	- **(d)** a loan secured by a mortgage where
 		- **(i)** the mortgage is taken back by the company on a property disposed of by the company, including where the disposition is by way of a realization of a security interest, and
 		- **(ii)** the mortgage secures payment of an amount payable to the company for the property.
-> 1991, c. 45, s. 418; 1997, c. 15, s. 377.
+> 1991, c. 45, s. 418; 1997, c. 15, s. 377; 2007, c. 6, s. 359.
 
 
 
@@ -8123,7 +8136,7 @@ no person shall, in person or by proxy, exercise the voting rights attached to t
 **Compliance**
 
 - **(3)** A company shall comply with an order made under subsection (2) within the time specified in the order.
-> 1991, c. 45, s. 419; 1999, c. 31, s. 219(E); 2001, c. 9, s. 534.
+> 1991, c. 45, s. 419; 1999, c. 31, s. 219(E); 2001, c. 9, s. 534; 2007, c. 6, s. 360(F).
 
 
 
@@ -8245,9 +8258,25 @@ and, in the case of any such claim so made, the money so deposited may be paid t
 	- **(b)** a cheque, draft or bill of exchange (including any such instrument drawn by one branch of a company on another branch of the company but not including such an instrument issued in payment of a dividend on the capital of a company) payable in Canada in Canadian currency has been issued, certified or accepted by a company in Canada and no payment has been made in respect thereof for a period of ten years after the date of issue, certification, acceptance or maturity, whichever is later,
 the company shall pay to the Bank of Canada not later than December 31 in each year an amount equal to the principal amount of the deposit or instrument, plus interest, if any, calculated in accordance with the terms of the deposit or instrument, and payment accordingly discharges the company from all liability in respect of the deposit or instrument.
 
-**Particulars**
+**Provision of information**
 
-- **(2)** A company shall, on making a payment pursuant to subsection (1), provide the Bank of Canada, for each deposit or instrument in respect of which the payment is made, with all the particulars of the deposit or instrument listed in subsection 496(3) or 497(2), as the case may be, current as of the day the payment is made.
+- **(2)** A company shall, on making a payment under subsection (1), provide the Bank of Canada, for each deposit or instrument in respect of which the payment is made, with the following information current as of the day the payment is made, in so far as it is known to the company:
+	- **(a)** in the case of a deposit,
+		- **(i)** the name of the depositor in whose name the deposit is held,
+		- **(ii)** the recorded address of the depositor,
+		- **(iii)** the outstanding amount of the deposit, and
+		- **(iv)** the branch of the company at which the last transaction took place in respect of the deposit, and the date of that last transaction; and
+	- **(b)** in the case of an instrument,
+		- **(i)** the name of the person to whom or at whose request the instrument was issued, certified or accepted,
+		- **(ii)** the recorded address of that person,
+		- **(iii)** the name of the payee of the instrument,
+		- **(iv)** the amount and date of the instrument,
+		- **(v)** the name of the place where the instrument was payable, and
+		- **(vi)** the branch of the company at which the instrument was issued, certified or accepted.
+
+**Copies of signature cards and signing authorities**
+
+- **(2.1)** A company shall, on written request by the Bank of Canada, provide the Bank of Canada with copies of signature cards and signing authorities relating to any deposit or instrument in respect of which it has made a payment under subsection (1). If it does not have any with respect to a deposit or instrument to which the request relates, it shall so inform the Bank of Canada.
 
 **Payment to claimant**
 
@@ -8266,7 +8295,7 @@ the company shall pay to the Bank of Canada not later than December 31 in each y
 **Application**
 
 - **(6)** This section shall not apply until the day that is eight years after the day on which this section comes into force.
-> 1991, c. 45, s. 424; 1993, c. 34, s. 127.
+> 1991, c. 45, s. 424; 1993, c. 34, s. 127; 2007, c. 6, s. 361.
 
 
 
@@ -8287,6 +8316,15 @@ at the person’s recorded address, a notice stating that the deposit or instrum
 	- **(a)** in the case of a deposit made for a fixed period, after the fixed period has terminated;
 	- **(b)** in the case of any other deposit, in respect of which no transaction has taken place and no statement of account has been requested or acknowledged by the creditor; and
 	- **(c)** in the case of a cheque, draft or bill of exchange, in respect of which the instrument has remained unpaid.
+
+**When notice to be sent**
+
+- **(3)** The notice must be sent during the month of January next following the end of the first two-year period, during the month of January next following the end of the first five-year period and also during the month of January next following the end of the first nine-year period
+	- **(a)** [Not in force]
+	- **(b)** in the case of any other deposit, in respect of which no transaction has taken place and no statement of account has been requested or acknowledged by the creditor; and
+	- **(c)** [Not in force]
+> 1991, c. 45, s. 425; 2007, c. 6, s. 362.
+
 
 
 
@@ -8576,7 +8614,18 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 **Procedures to be filed with Commissioner**
 
 - **(2)** A company shall file with the Commissioner a copy of its procedures established under paragraph (1)(a).
-> 1991, c. 45, s. 441; 1997, c. 15, s. 382; 2001, c. 9, s. 545.
+
+**How procedures to be made available**
+
+- **(3)** A company shall make its procedures established under paragraph (1)(a) available
+	- **(a)** in the form of a brochure, at its branches where products or services are offered in Canada;
+	- **(b)** on its websites through which products or services are offered in Canada; and
+	- **(c)** in written format to be sent to any person who requests them.
+
+**Information on contacting Agency**
+
+- **(4)** A company shall also make prescribed information on how to contact the Agency available whenever it makes its procedures established under paragraph (1)(a) available under subsection (3).
+> 1991, c. 45, s. 441; 1997, c. 15, s. 382; 2001, c. 9, s. 545; 2007, c. 6, s. 364.
 
 
 
@@ -8648,6 +8697,15 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 
 
 
+**Regulations respecting the holding of funds**
+
+**443.1** The Governor in Council may make regulations respecting the maximum period during which a company may hold funds in respect of specified classes of cheques or other instruments that are deposited into an account at a branch or prescribed point of service in Canada before permitting the customer in whose name the account is kept to access the funds.
+> 2007, c. 6, s. 366.
+
+
+
+
+
 **Regulations re customer information**
 
 **444** The Governor in Council may make regulations
@@ -8675,7 +8733,7 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 
 **Pre-closure meeting**
 
-- **(2)** After notice is given but before the branch is closed or ceases to carry on the activities, the Commissioner may, in prescribed situations, require the company to convene and hold a meeting between representatives of the company, representatives of the Agency and interested parties in the vicinity of the branch in order to exchange views about the closing or cessation of activities.
+- **(2)** After notice is given but before the branch is closed or ceases to carry on the activities, the Commissioner shall, in prescribed situations, require the company to convene and hold a meeting between representatives of the company, representatives of the Agency and interested parties in the vicinity of the branch in order to exchange views about the closing or cessation of activities, including, but not limited to, alternative service delivery by the company and measures to help the branch’s customers adjust to the closing or cessation of activities.
 
 **Meeting details**
 
@@ -8691,7 +8749,7 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 	- **(a)** the manner and time, which may vary according to circumstances specified in the regulation, in which notice shall be given under subsection (1), to whom it shall be given and the information to be included;
 	- **(b)** circumstances in which a member company is not required to give notice under subsection (1), circumstances in which the Commissioner may exempt a member company from the requirement to give notice under that subsection, and circumstances in which the Commissioner may vary the manner and time in which notice is required to be given under any regulation made under paragraph (a); and
 	- **(c)** circumstances in which a meeting may be convened under subsection (2).
-> 2001, c. 9, s. 548.
+> 2001, c. 9, s. 548; 2007, c. 6, s. 367.
 
 
 
@@ -8731,10 +8789,10 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 	- **(i)** any product or service or prescribed class of products or services offered by them,
 	- **(ii)** any of their policies, procedures or practices relating to the offer by them of any product or service or prescribed class of products or services,
 	- **(iii)** anything they are required to do or to refrain from doing under a consumer provision, and
-	- **(iv)** any other matter that may affect their dealings with customers or the public;
+	- **(iv)** any other matter that may affect their dealings, or their employees’ or representatives’ dealings, with customers or the public;
 - **(b)** the manner, place and time in which, and the persons to whom information is to be disclosed; and
 - **(c)** the content and form of any advertisement by companies or any prescribed class of companies relating to any matter referred to in paragraph (a).
-> 2001, c. 9, s. 548.
+> 2001, c. 9, s. 548; 2007, c. 6, s. 368.
 
 
 
@@ -8859,6 +8917,11 @@ is sufficient justification and authority for giving effect to the transmission 
 
 - **(1)** The following definitions apply in this Part.
 
+***closed-end fund*** means an entity whose activities are limited to investing the funds of the entity so as to provide investment diversification and professional investment management to the holders of its securities, and whose securities are 
+- **(a)** fixed in number and distributed to the public in an offering under a preliminary prospectus, prospectus, short-form prospectus or similar document in accordance with the laws of a province or a foreign jurisdiction;
+- **(b)** traded on an exchange or an over-the-counter market; and
+- **(c)** liquidated on a fixed future termination date, the proceeds of which are allocated to the holders of the securities on a proportional basis.
+
 ***commercial loan*** means
 - **(a)** any loan made or acquired by a company, other than
 	- **(i)** a loan to a natural person in an amount of two hundred and fifty thousand dollars or less,
@@ -8945,7 +9008,7 @@ is sufficient justification and authority for giving effect to the transmission 
 	- **(a)** money or other assets held in trust by a company, other than guaranteed trust money and assets held in respect thereof;
 	- **(b)** the holding of a security interest in real property, unless the security interest is prescribed pursuant to paragraph 467(a) to be an interest in real property; or
 	- **(c)** the holding of a security interest in securities of an entity.
-> 1991, c. 45, ss. 449, 560; 1993, c. 34, s. 128(F); 1997, c. 15, s. 386; 2001, c. 9, s. 550.
+> 1991, c. 45, ss. 449, 560; 1993, c. 34, s. 128(F); 1997, c. 15, s. 386; 2001, c. 9, s. 550; 2007, c. 6, s. 369.
 
 
 
@@ -8992,7 +9055,15 @@ is sufficient justification and authority for giving effect to the transmission 
 **Exception: uncontrolled event**
 
 - **(5)** A company is deemed not to contravene subsection (1) if the company acquires control of, or acquires or increases a substantial investment in, an entity solely as the result of an event not within the control of the company.
-> 1991, c. 45, s. 451; 1997, c. 15, s. 387; 2001, c. 9, s. 550.
+
+**Application of other provision**
+
+- **(6)** Despite having acquired control of, or a substantial investment in, an entity under a particular provision of this Part, a company may continue to control the entity or hold the substantial investment in the entity as though it had made the acquisition under another provision of this Part so long as the conditions of that other provision are met.
+
+**Timing of deemed acquisition**
+
+- **(7)** If a company decides to exercise its right under subsection (6), the company is deemed to be acquiring the control or the substantial investment under the other provision.
+> 1991, c. 45, s. 451; 1997, c. 15, s. 387; 2001, c. 9, s. 550; 2007, c. 6, s. 370.
 
 
 
@@ -9019,7 +9090,7 @@ is sufficient justification and authority for giving effect to the transmission 
 
 **453** 
 
-- **(1)** Subject to subsections (6) to (8) and Part XI, a company may acquire control of, or acquire or increase a substantial investment in
+- **(1)** Subject to subsections (4) to (6) and Part XI, a company may acquire control of, or acquire or increase a substantial investment in
 	- **(a)** a company;
 	- **(b)** a bank;
 	- **(c)** a bank holding company;
@@ -9045,7 +9116,7 @@ is sufficient justification and authority for giving effect to the transmission 
 	- **(d)** engaging in any activity that a company is permitted to engage in, other than an activity referred to in paragraph (a) or (e), that relates to
 		- **(i)** the promotion, sale, delivery or distribution of a financial product or financial service that is provided by the company or any member of the company’s group, or
 		- **(ii)** if a significant portion of the business of the entity involves an activity referred to in subparagraph (i), the promotion, sale, delivery or distribution of a financial product or financial service that is provided by any other entity that is primarily engaged in the business of providing financial services;
-	- **(e)** engaging in the activities referred to in the definition “mutual fund entity” or “mutual fund distribution entity” in subsection 449(1); and
+	- **(e)** engaging in the activities referred to in the definition ***closed-end fund***, ***mutual fund distribution entity*** or ***mutual fund entity*** in subsection 449(1); and
 	- **(f)** engaging in prescribed activities, under prescribed terms and conditions, if any are prescribed.
 
 **Restriction**
@@ -9060,6 +9131,16 @@ is sufficient justification and authority for giving effect to the transmission 
 		- **(i)** in the case of an entity that is controlled by the company, the company itself would be permitted under this Part to acquire a substantial investment in the other entity, or
 		- **(ii)** in the case of an entity that is not controlled by the company, the company itself would be permitted to acquire a substantial investment in the other entity under subsection (1) or (2) or 451(2), paragraph 451(3)(b) or (c) or subsection 451(4); or
 	- **(g)** any prescribed activity.
+
+**Exception**
+
+- **(3.1)** Despite paragraph (3)(d), a company may acquire control of, or acquire or increase a substantial investment in, any entity that acts as a trustee of a trust if the entity has been authorized under the laws of a province to act as a trustee of a trust and the entity is
+	- **(a)** a closed-end fund;
+	- **(b)** a mutual fund entity; or
+	- **(c)** an entity whose business is limited to engaging in one or more of the following:
+		- **(i)** the activities of a mutual fund distribution entity,
+		- **(ii)** any activity that a company is permitted to engage in under paragraph 410(1)(d.1), and
+		- **(iii)** the provision of investment counselling services and portfolio management services.
 
 **Control**
 
@@ -9083,7 +9164,8 @@ is sufficient justification and authority for giving effect to the transmission 
 		- **(i)** a factoring entity, or
 		- **(ii)** a financial leasing entity;
 	- **(c)** acquire control of, or acquire or increase a substantial investment in, an entity whose business includes one or more of the activities referred to in paragraph (2)(d);
-	- **(d)** acquire control of, or acquire or increase a substantial investment in, an entity that engages in an activity described in paragraph 410(1)(c) or (c.1); or
+	- **(d)** acquire control of, or acquire or increase a substantial investment in, an entity that engages in Canada in an activity described in paragraph 410(1)(c);
+	- **(d.1)** acquire control of, or acquire or increase a substantial investment in, an entity that engages in an activity described in paragraph 410(1)(c.1); or
 	- **(e)** acquire control of, or acquire or increase a substantial investment in, an entity engaging in an activity prescribed for the purposes of paragraph (2)(f).
 
 **Superintendent’s approval**
@@ -9093,7 +9175,7 @@ is sufficient justification and authority for giving effect to the transmission 
 **Exception**
 
 - **(7)** Subsection (6) does not apply in respect of a particular transaction if
-	- **(a)** the company is acquiring control of an entity whose business includes an activity referred to in paragraph (2)(b), other than a specialized financing entity;
+	- **(a)** the company is acquiring control of an entity, other than a specialized financing entity, and the only reason for which the company would, but for this subsection, require approval for the acquisition is that the entity carries on activities referred to in paragraph (2)(b);
 	- **(b)** the company is acquiring control of an entity whose activities are limited to the activities of a factoring entity or a financial leasing entity; or
 	- **(c)** the Minister has approved the transaction under subsection (5) or is deemed to have approved it under subsection 454(1).
 
@@ -9114,7 +9196,7 @@ is sufficient justification and authority for giving effect to the transmission 
 **Subsections do not apply**
 
 - **(11)** If a company controls, within the meaning of paragraph 3(1)(a), (b) or (c), an entity, subsections (5) and (6) do not apply in respect of any subsequent increases by the company of its substantial investment in the entity so long as the company continues to control the entity.
-> 1991, c. 45, s. 453; 1997, c. 15, s. 388; 1999, c. 28, s. 141; 2001, c. 9, s. 550.
+> 1991, c. 45, s. 453; 1997, c. 15, s. 388; 1999, c. 28, s. 141; 2001, c. 9, s. 550; 2007, c. 6, s. 371.
 
 
 
@@ -9180,14 +9262,14 @@ is sufficient justification and authority for giving effect to the transmission 
 
 **Temporary investment**
 
-- **(4)** If a company, by way of temporary investment, acquires control of, or acquires or increases a substantial investment in, an entity for which the approval of the Minister under subsection 453(5) is required, the company must, within 90 days after acquiring control or after acquiring or increasing the substantial investment,
+- **(4)** If a company, by way of temporary investment, acquires control of, or acquires or increases a substantial investment in, an entity for which the approval of the Minister would have been required under subsection 453(5) if the company had acquired the control, or acquired or increased the substantial investment, under section 453, the company must, within 90 days after acquiring control or after acquiring or increasing the substantial investment,
 	- **(a)** apply to the Minister for approval to retain control of the entity or to continue to hold the substantial investment in the entity for a period specified by the Minister or for an indeterminate period on any terms and conditions that the Minister considers appropriate; or
 	- **(b)** do all things necessary to ensure that, on the expiry of the 90 days, it no longer controls the entity or does not have a substantial investment in the entity.
 
 **Indeterminate extension**
 
-- **(5)** If a company, by way of temporary investment, acquires control of, or acquires or increases a substantial investment in, an entity for which the approval of the Superintendent under subsection 453(6) is required, the Superintendent may, in the case of any particular company that makes an application under this subsection, permit the company to retain control of the entity or to continue to hold the substantial investment in the entity for an indeterminate period, on any terms and conditions that the Superintendent considers necessary.
-> 1991, c. 45, s. 456; 2001, c. 9, s. 550.
+- **(5)** If a company, by way of temporary investment, acquires control of, or acquires or increases a substantial investment in, an entity for which the approval of the Superintendent would have been required under subsection 453(6) if the company had acquired the control, or acquired or increased the substantial investment, under section 453, the Superintendent may, on application, permit the company to retain control of the entity or to continue to hold the substantial investment in the entity for an indeterminate period, on any terms and conditions that the Superintendent considers appropriate.
+> 1991, c. 45, s. 456; 2001, c. 9, s. 550; 2007, c. 6, s. 372.
 
 
 
@@ -9200,8 +9282,9 @@ is sufficient justification and authority for giving effect to the transmission 
 - **(1)** Despite anything in this Part, if a company or any of its subsidiaries has made a loan to an entity and, under the terms of the agreement between the company, or any of its subsidiaries, and the entity with respect to the loan and any other documents governing the terms of the loan, a default has occurred, the company may acquire
 	- **(a)** if the entity is a body corporate, all or any of the shares of the body corporate;
 	- **(b)** if the entity is an unincorporated entity, all or any of the ownership interests in the entity;
-	- **(c)** all or any of the shares or all or any of the ownership interests in any entity that is an affiliate of the entity; or
-	- **(d)** all or any of the shares of a body corporate that is primarily engaged in holding shares of, ownership interests in or assets acquired from the entity or any of its affiliates.
+	- **(c)** all or any of the shares or all or any of the ownership interests in any entity that is an affiliate of the entity;
+	- **(d)** all or any of the shares of a body corporate that is primarily engaged in holding shares of, ownership interests in or assets acquired from the entity or any of its affiliates; or
+	- **(e)** all or any of the ownership interests in any entity that is primarily engaged in holding shares of, ownership interests in or assets acquired from the entity or any of its affiliates.
 
 **Obligation of company**
 
@@ -9226,7 +9309,7 @@ is sufficient justification and authority for giving effect to the transmission 
 **Exception**
 
 - **(7)** If, under subsection (1), a company acquires control of, or acquires or increases a substantial investment in, an entity that it would otherwise be permitted to acquire or increase under section 453, the company may retain control of the entity or continue to hold the substantial investment for an indeterminate period if the approval in writing of the Minister is obtained before the end of the period referred to in subsection (2) or (3), including any extension of it granted under subsection (4).
-> 1991, c. 45, s. 457; 1997, c. 15, s. 389; 2001, c. 9, s. 550.
+> 1991, c. 45, s. 457; 1997, c. 15, s. 389; 2001, c. 9, s. 550; 2007, c. 6, s. 373.
 
 
 
@@ -9461,24 +9544,28 @@ where
 - **B** is the total value of all assets that the company and its subsidiaries acquired from or transferred to that person in the twelve months ending immediately before the acquisition or transfer; and
 - **C** is ten per cent of the total value of the assets of the company, as shown in the last annual statement of the company prepared before the acquisition or transfer.
 
-**Exception**
+**Approval of series of transactions**
 
-- **(2)** The prohibition in subsection (1) does not apply in respect of
-	- **(a)** an asset that is a debt obligation referred to in subparagraphs (b)(i) to (v) of the definition “commercial loan” in subsection 449(1); or
-	- **(b)** a transaction or series of transactions by a company with another financial institution as a result of the company’s participation in one or more syndicated loans with that financial institution.
+- **(1.1)** The Superintendent may, for the purposes of subsection (1), approve a transaction or series of transactions relating to the acquisition or transfer of assets that may be entered into with a person, or with persons of any class of persons, regardless of whether those persons are known at the time of the granting of the approval or not.
 
-**Exception**
+**Exceptions**
 
-- **(3)** The approval of the Superintendent is not required if
-	- **(a)** the company sells assets under a sale agreement that is approved by the Minister under section 241;
-	- **(b)** the company or its subsidiary acquires shares of, or ownership interests in, an entity for which the approval of the Minister under Part VII or subsection 453(5) is required or the approval of the Superintendent under subsection 453(6) is required; or
-	- **(c)** the transaction has been approved by the Minister under subsection 678(1) of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md) or subsection 715(1) of the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md).
+- **(2)** Subsection (1) does not apply in respect of
+	- **(a)** an asset that is a debt obligation referred to in subparagraphs (b)(i) to (v) of the definition ***commercial loan*** in subsection 449(1);
+	- **(b)** assets acquired or transferred under a transaction or series of transactions by the company with another financial institution as a result of the company’s participation in one or more syndicated loans with that financial institution;
+	- **(c)** assets purchased or sold under a sale agreement that is approved by the Minister under section 241;
+	- **(d)** shares of, or ownership interests in, an entity for which the approval of the Minister under Part VII or subsection 453(5) is required or the approval of the Superintendent under subsection 453(6) is required;
+	- **(e)** assets that are acquired or transferred under a transaction that has been approved by the Minister under subsection 678(1) of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md) or subsection 715(1) of the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md);
+	- **(f)** assets, other than real property, acquired or disposed of under an arrangement that has been approved by the Superintendent under subsection 482(3); or
+	- **(g)** assets acquired or disposed of with the approval of the Superintendent under subsection 482(4).
+
+- **(3)** [Repealed, 2007, c. 6, s. 374]
 
 **Value of assets**
 
 - **(4)** For the purposes of “A” in subsection (1), the value of the assets is
 	- **(a)** in the case of assets that are acquired, the purchase price of the assets or, if the assets are shares of, or ownership interests in, an entity the assets of which will be included in the annual statement of the company after the acquisition, the fair market value of the assets; and
-	- **(b)** in the case of assets that are transferred, the book value of the assets as stated in the last annual statement of the company prepared before the transfer, or if the assets are shares of, or ownership interests in, an entity the assets of which were included in the last annual statement of the company before the transfer, the value of the assets as stated in the annual statement.
+	- **(b)** in the case of assets that are transferred, the value of the assets as reported in the last annual statement of the company prepared before the transfer or, if the value of the assets is not reported in that annual statement, the value of the assets as it would be reported in the annual statement of the company if the annual statement had been prepared, in accordance with the accounting principles referred to in subsection 313(4), immediately before the transfer.
 
 **Total value of all assets**
 
@@ -9486,8 +9573,8 @@ where
 
 **Total value of all assets**
 
-- **(6)** For the purposes of subsection (1), the total value of all assets that the company or any of its subsidiaries has transferred during the period of twelve months referred to in subsection (1) is the book value of the assets as stated in the last annual statement of the company prepared before the transfer, or if the assets are shares of, or ownership interests in, an entity the assets of which were included in the last annual statement of the company before the transfer, the value of the assets of the entity as stated in the annual statement.
-> 1991, c. 45, s. 470; 1997, c. 15, s. 396; 2001, c. 9, s. 550.
+- **(6)** For the purposes of subsection (1), the total value of all assets that the company or any of its subsidiaries has transferred during the 12-month period referred to in subsection (1) is the total of the value of each of those assets as reported in the last annual statement of the company prepared before the transfer of the asset or, if the value of any of those assets is not reported in that annual statement, as it would be reported in the annual statement of the company if the annual statement had been prepared, in accordance with the accounting principles referred to in subsection 313(4), immediately before the transfer of the asset.
+> 1991, c. 45, s. 470; 1997, c. 15, s. 396; 2001, c. 9, s. 550; 2007, c. 6, s. 374.
 
 
 
@@ -9679,9 +9766,15 @@ and shall comply with any regulations in relation thereto.
 
 - **(2)** For the purposes of this Part, the fulfilment of an obligation under the terms of any transaction, including the payment of interest on a loan or deposit, is part of the transaction, and not a separate transaction.
 
-**Meaning of “loan”**
+**Meaning of loan**
 
 - **(3)** For the purposes of this Part, ***loan*** includes a deposit, a financial lease, a conditional sales contract, a repurchase agreement and any other similar arrangement for obtaining funds or credit, but does not include investments in securities or the making of an acceptance, endorsement or other guarantee.
+
+**Security of a related party**
+
+- **(4)** For the purposes of this Part, ***security*** of a related party includes an option, transferable by delivery, to demand delivery of a specified number or amount of shares of the related party at a fixed price within a specified time.
+> 1991, c. 45, s. 476; 2007, c. 6, s. 375.
+
 
 
 
@@ -9775,6 +9868,12 @@ and shall comply with any regulations in relation thereto.
 	- **(b)** to a related party of the company,
 if the lease payments are made in money.
 
+**Approval under section 241**
+
+- **(6)** A company may acquire any assets from, or dispose of any assets to, a related party of the company under a sale agreement that is approved by the Minister under section 241.
+> 1991, c. 45, s. 482; 2007, c. 6, s. 376.
+
+
 
 
 
@@ -9795,14 +9894,14 @@ if the lease payments are made in money.
 
 - **(2)** Where a company has entered into a contract pursuant to paragraph (1)(a) and the contract, when taken together with all other such contracts entered into by the company, results in all or substantially all of the management functions of the company being exercised by persons who are not employees of the company, the Superintendent may, by order, if the Superintendent considers that result to be inappropriate, require the company, within such time as may be specified in the order, to take all steps necessary to ensure that management functions that are integral to the carrying on of business by the company are exercised by employees of the company to the extent specified in the order.
 
-**Service corporations**
+**Exception**
 
-- **(3)** Notwithstanding subsection 477(2), a company is deemed not to have indirectly entered into a transaction in respect of which this Part applies if the transaction is entered into by a service corporation, as defined in subsection 449(1), that is controlled by the company and the transaction is on terms and conditions at least as favourable to the company as market terms and conditions, as defined in subsection 489(2).
+- **(3)** Despite subsection 477(2), a company is deemed not to have indirectly entered into a transaction in respect of which this Part applies if the transaction is entered into by an entity that is controlled by the company and the business of which is limited to the activity referred to in 453(2)(c) and the transaction is on terms and conditions at least as favourable to the company as market terms and conditions, as defined in subsection 489(2).
 
 **Loans or guarantees not included**
 
 - **(4)** The provision of services, for the purposes of paragraph (1)(b), does not include the making of loans or guarantees.
-> 1991, c. 45, s. 483; 1997, c. 15, s. 400.
+> 1991, c. 45, s. 483; 1997, c. 15, s. 400; 2007, c. 6, s. 377.
 
 
 
@@ -9856,7 +9955,7 @@ A + B > C
 ```
 where
 - **A** is the value of the assets;
-- **B** is the total value of all assets that the company directly or indirectly acquired from, or directly or indirectly transferred to, that related party in the twelve months ending immediately before the acquisition or transfer; and
+- **B** is the total value of all assets that the company directly or indirectly acquired from, or directly or indirectly transferred to, that related party in the 12 months ending immediately before the acquisition or transfer, other than assets acquired by or transferred to the company under transactions permitted by section 478; and
 - **C** is five per cent, or the percentage that may be prescribed, of the total value of the assets of the company, as shown in the last annual statement of the company prepared before the acquisition or transfer.
 
 **Exception**
@@ -9866,7 +9965,7 @@ where
 **Exception**
 
 - **(3)** The approval of the Superintendent is not required if
-	- **(a)** the company sells assets under a sale agreement that is approved by the Minister under section 241; or
+	- **(a)** the company purchases or sells assets under a sale agreement that is approved by the Minister under section 241; or
 	- **(b)** the company or its subsidiary acquires shares of, or ownership interests in, an entity for which the approval of the Minister under Part VII or subsection 453(5) is required or the approval of the Superintendent under subsection 453(6) is required.
 
 **Value of assets**
@@ -9882,7 +9981,7 @@ where
 **Total value of all assets**
 
 - **(6)** For the purposes of subsection (1), the total value of all assets that the company or any of its subsidiaries has transferred during the period of twelve months referred to in subsection (1) is the book value of the assets as stated in the last annual statement of the company prepared before the transfer or, if the assets are shares of, or ownership interests in, an entity the assets of which were included in the last annual statement of the company before the transfer, the value of the assets of the entity as stated in the annual statement.
-> 2001, c. 9, s. 552.
+> 2001, c. 9, s. 552; 2007, c. 6, s. 378.
 
 
 
@@ -10095,85 +10194,15 @@ would exceed 50 per cent of the regulatory capital of the company.
 
 
 
-
-**Report of unclaimed deposits**
-
-**496** 
-
-- **(1)** A company shall, within sixty days after the end of each calendar year, provide the Superintendent with a return, in such form as the Superintendent may determine, as of the end of that calendar year, in respect of all deposits made with the company in Canada in Canadian currency for which no transaction has taken place and no statement of account has been requested or acknowledged by the depositors during a period of nine years or more.
-
-**Period**
-
-- **(2)** The period referred to in subsection (1) shall be calculated
-	- **(a)** in the case of a deposit made for a fixed period, from the day on which the fixed period terminated, and
-	- **(b)** in the case of any other deposit, from the day on which the last transaction took place or a statement of account was last requested or acknowledged by the depositor, whichever is later,
-until the date of the return under that subsection.
-
-**Content of return**
-
-- **(3)** A return made under subsection (1) shall show, in so far as is known to the company,
-	- **(a)** the name of each depositor in whose name each deposit is held;
-	- **(b)** the recorded address of each such depositor;
-	- **(c)** the outstanding amount of each deposit; and
-	- **(d)** the branch of the company at which the last transaction took place in respect of the deposit, and the date thereof.
-
-**Amounts under one hundred dollars**
-
-- **(4)** Where the total outstanding amount of deposits in the name of a depositor is less than one hundred dollars, the company may omit the particulars in respect thereof required by subsection (3) from the return required by subsection (1).
-
-**Application of subsection (1)**
-
-- **(5)** Subsection (1) applies only in respect of deposits made after May 31, 1990.
-
-**Application**
-
-- **(6)** This section does not apply until June 1, 1999.
-> 1991, c. 45, s. 496; 1993, c. 34, s. 129.
+**496** [Repealed, 2007, c. 6, s. 379]
 
 
 
-
-
-**Return on unclaimed bills of exchange**
-
-**497** 
-
-- **(1)** A company shall, within sixty days after the end of each calendar year, provide the Superintendent with a return, in such form as the Superintendent may determine, as of the end of that calendar year, in respect of all negotiable instruments (including instruments drawn by one branch of the company on another branch of the company but not including instruments issued in payment of a dividend on the capital of the company) payable in Canada in Canadian currency that have been issued, certified or accepted by the company at branches of the company in Canada and for which no payment has been made for a period of nine years or more calculated from the date of issue, certification, acceptance or maturity, whichever is the latest, until the date of the return.
-
-**Content of return**
-
-- **(2)** A return made under subsection (1) shall show, in so far as is known to the company,
-	- **(a)** the name of each person to whom or at whose request each instrument was issued, certified or accepted;
-	- **(b)** the recorded address of each such person;
-	- **(c)** the name of the payee of each instrument;
-	- **(d)** the amount and date of each instrument;
-	- **(e)** the name of the place where each instrument was payable; and
-	- **(f)** the branch of the company at which each instrument was issued, certified or accepted.
-
-**Amounts under one hundred dollars**
-
-- **(3)** Where the amount of an instrument in respect of which subsection (1) applies is less than one hundred dollars, the company may omit the particulars in respect thereof required by subsection (2) from the return required by subsection (1).
-
-**Money orders**
-
-- **(4)** A company may omit from a return required by subsection (1) the particulars required by subsection (2) in respect of any money order in respect of which subsection (1) applies.
-
-**Application of subsection (1)**
-
-- **(5)** Subsection (1) applies only in respect of negotiable instruments issued, certified or accepted after May 31, 1990.
-
-**Application**
-
-- **(6)** This section does not apply until June 1, 1999.
-> 1991, c. 45, s. 497; 1993, c. 34, s. 130.
+**497** [Repealed, 2007, c. 6, s. 379]
 
 
 
-
-
-**Total to be reported**
-
-**498** Where a company, pursuant to subsection 496(4) or 497(3) or (4), omits from a return required by subsection 496(1) or 497(1) the particulars of any deposit or instrument, the total of the amounts of all deposits or instruments that have been so omitted shall be reported in the return.
+**498** [Repealed, 2007, c. 6, s. 379]
 
 
 
@@ -10262,7 +10291,7 @@ the company shall forthwith provide the Superintendent with such information as 
 
 **503** 
 
-- **(1)** Subject to sections 504 and 504.1, all information regarding the business or affairs of a company, or regarding a person dealing with a company, that is obtained by the Superintendent, or by any person acting under the direction of the Superintendent, as a result of the administration or enforcement of any Act of Parliament, and all information prepared from that information, is confidential and shall be treated accordingly.
+- **(1)** Subject to section 504.1, all information regarding the business or affairs of a company, or regarding a person dealing with a company, that is obtained by the Superintendent, or by any person acting under the direction of the Superintendent, as a result of the administration or enforcement of any Act of Parliament, and all information prepared from that information, is confidential and shall be treated accordingly.
 
 **Disclosure permitted**
 
@@ -10272,7 +10301,7 @@ the company shall forthwith provide the Superintendent with such information as 
 	- **(a.1)** to the Canada Deposit Insurance Corporation for purposes related to its operation; and
 	- **(b)** to the Deputy Minister of Finance or any officer of the Department of Finance authorized in writing by the Deputy Minister of Finance or to the Governor of the Bank of Canada or any officer of the Bank of Canada authorized in writing by the Governor of the Bank of Canada, for the purposes of policy analysis related to the regulation of financial institutions,
 if the Superintendent is satisfied that the information will be treated as confidential by the agency, body or person to whom it is disclosed.
-> 1991, c. 45, s. 503; 1996, c. 6, s. 122; 1997, c. 15, s. 406; 2001, c. 9, s. 557.
+> 1991, c. 45, s. 503; 1996, c. 6, s. 122; 1997, c. 15, s. 406; 2001, c. 9, s. 557; 2007, c. 6, s. 380.
 
 
 
@@ -10286,14 +10315,7 @@ if the Superintendent is satisfied that the information will be treated as confi
 
 
 
-
-**Publication**
-
-**504** The Superintendent shall cause to be published
-- **(a)** in the Canada Gazette, the information contained in each of the returns made under sections 496 and 497 within sixty days after the expiration of the time provided by this Act for providing the return.
-- **(b)** [Repealed, 1996, c. 6, s. 123]
-> 1991, c. 45, s. 504; 1996, c. 6, s. 123.
-
+**504** [Repealed, 2007, c. 6, s. 381]
 
 
 
@@ -10888,42 +10910,114 @@ is, in the absence of evidence to the contrary, proof of the facts so certified 
 
 
 
-### Approvals: Terms, Conditions and Undertakings
+### Approvals
 
 
 
-**Definition of “approval”**
+**Definition of approval**
 
-**527.2** 
+**527.2** In sections 527.3 to 527.8, ***approval*** includes any consent, designation, order, exemption, extension or other permission granted by the Minister or the Superintendent under this Act, and includes the issuance of letters patent.
+> 2001, c. 9, s. 567; 2007, c. 6, s. 382.
 
-- **(1)** In this section, ***approval*** includes any consent, order, exemption, extension or other permission granted by the Minister or the Superintendent under this Act, and includes the issuance of letters patent.
+
+
+
+
+**Matters to take into account — Minister**
+
+**527.3** 
+
+- **(1)** In addition to any matters or conditions provided for in this Act that are relevant to the granting of an approval, the Minister may, in considering whether to grant the approval, take into account all matters that he or she considers relevant in the circumstances, including
+	- **(a)** national security; and
+	- **(b)** Canada’s international relations and its international legal obligations.
+
+**Matters to take into account — Superintendent**
+
+- **(2)** In addition to any matters or conditions provided for in this Act that are relevant to the granting of an approval and to any prudential considerations that the Superintendent considers relevant in the circumstances, the Superintendent may, in considering whether to grant the approval, take into account
+	- **(a)** national security; and
+	- **(b)** Canada’s international relations and its international legal obligations.
+> 2007, c. 6, s. 382.
+
+
+
+
 
 **Minister — terms, conditions and undertakings**
 
-- **(2)** In addition to any other action that may be taken under this Act, the Minister may, in granting an approval, impose such terms and conditions or require such undertaking as the Minister considers necessary, including any terms, conditions or undertaking specified by the Superintendent to maintain or improve the safety and soundness of any financial institution regulated under an Act of Parliament and to which the approval relates or that may be affected by it.
+**527.4** 
+
+- **(1)** In addition to any other action that may be taken under this Act, the Minister may, in granting an approval, impose any terms and conditions or require any undertaking that the Minister considers appropriate, including any terms, conditions or undertakings specified by the Superintendent to maintain or improve the safety and soundness of any financial institution regulated under an Act of Parliament to which the approval relates or that might be affected by it.
 
 **Superintendent — terms, conditions and undertakings**
 
-- **(3)** In addition to any other action that may be taken under this Act, the Superintendent may, in granting an approval, impose such terms and conditions or require such undertaking as the Superintendent considers necessary.
+- **(2)** In addition to any other action that may be taken under this Act, the Superintendent may, in granting an approval, impose any terms and conditions or require any undertaking that the Superintendent considers appropriate.
+> 2007, c. 6, s. 382.
 
-**Effect of non-compliance on approval**
 
-- **(4)** Unless otherwise expressly provided in this Act, a failure to comply with a term or condition or an undertaking imposed or required under any provision of this Act does not invalidate the approval to which the term, condition or undertaking relates.
 
-**Non-compliance**
 
-- **(5)** In addition to any other action that may be taken under this Act, in case of non-compliance by a person with a term, condition or undertaking imposed or required under any provision of this Act, the Minister or Superintendent, as the case may be, may
-	- **(a)** revoke, suspend or amend the approval to which the term, condition or undertaking relates; or
-	- **(b)** apply to a court for an order directing the person to comply with the term, condition or undertaking, and on such application the court may so order and make any other order it thinks fit.
+
+**Revocation, suspension or amendment of approval — Minister**
+
+**527.5** 
+
+- **(1)** The Minister may revoke, suspend or amend any approval granted by the Minister if he or she considers it appropriate to do so. In deciding whether to take any of those actions, the Minister may take into account all matters that he or she considers relevant in the circumstances, including
+	- **(a)** national security; and
+	- **(b)** Canada’s international relations and its international legal obligations.
+
+**Revocation, suspension or amendment of approval — Superintendent**
+
+- **(2)** The Superintendent may revoke, suspend or amend any approval granted by the Superintendent if he or she considers it appropriate to do so. In deciding whether to take any of those actions, the Superintendent may take into account any prudential considerations that he or she considers relevant in the circumstances and
+	- **(a)** national security; and
+	- **(b)** Canada’s international relations and its international legal obligations.
 
 **Representations**
 
-- **(6)** Before taking any action under subsection (5), the Minister or the Superintendent, as the case may be, shall afford the person concerned a reasonable opportunity to make representations.
+- **(3)** Before taking any action under this section, the Minister or the Superintendent, as the case may be, shall give the person concerned a reasonable opportunity to make representations.
+> 2007, c. 6, s. 382.
+
+
+
+
+
+**Effect of non-compliance on approval**
+
+**527.6** 
+
+- **(1)** Unless otherwise expressly provided in this Act, a failure to comply with a term, condition or undertaking imposed or required under any provision of this Act does not invalidate the approval to which the term, condition or undertaking relates.
+
+**Non-compliance**
+
+- **(2)** In addition to any other action that may be taken under this Act, in the case of non-compliance by a person with a term, condition or undertaking imposed or required under any provision of this Act, the Minister or the Superintendent, as the case may be, may
+	- **(a)** revoke, suspend or amend the approval to which the term, condition or undertaking relates; or
+	- **(b)** apply to a court for an order directing the person to comply with the term, condition or undertaking, and on such an application the court may make the order and any other order that it thinks fit.
+
+**Representations**
+
+- **(3)** Before taking any action under subsection (2), the Minister or the Superintendent, as the case may be, shall give the person concerned a reasonable opportunity to make representations.
 
 **Revocation, suspension or amendment**
 
-- **(7)** At the request of the person concerned, the Minister or the Superintendent, as the case may be, may revoke, suspend or amend any terms or conditions imposed by him or her or may revoke or suspend an undertaking given to him or her or approve its amendment.
-> 2001, c. 9, s. 567.
+- **(4)** At the request of the person concerned, the Minister or the Superintendent, as the case may be, may revoke, suspend or amend any terms or conditions imposed by him or her and may revoke or suspend an undertaking given to him or her or approve its amendment.
+> 2007, c. 6, s. 382.
+
+
+
+
+
+**Multiple approval — other approvals**
+
+**527.7** The Minister or the Superintendent may grant more than one approval, other than letters patent, in a single instrument if he or she considers it appropriate to do so, and if the Minister or Superintendent does so, he or she may specify different effective dates for each of the approvals.
+> 2007, c. 6, s. 382.
+
+
+
+
+
+**Exemption in relation to notices of intention**
+
+**527.8** The Superintendent may, on application, exempt an applicant or applicants from the provisions of this Act respecting the publication of a notice of intention in respect of applications for approvals and impose any terms and conditions respecting the publication of the notice of intention that he or she considers appropriate.
+> 2007, c. 6, s. 382.
 
 
 
@@ -10958,7 +11052,7 @@ is, in the absence of evidence to the contrary, proof of the facts so certified 
 - **(1)** The following applications to the Superintendent must contain the information, material and evidence that the Superintendent may require:
 	- **(a)** applications for approval under subsection 68(1), 75(2), 78(4), 82(5), 83(1), 174(1), 222(3), 421(1), 453(6) or (10), 456(1) or (2) or 470(1), subparagraph 475(2)(b)(vi), section 478 or subsection 482(3) or (4) or 483.3(1);
 	- **(b)** applications for consent under subsection 74(1);
-	- **(c)** applications for exemptions under subsection 160.05(3) or 250(1); and
+	- **(c)** applications for exemptions under subsection 160.05(3); and
 	- **(d)** applications for extensions of time under subsection 456(3) or (5), 457(4) or 458(4).
 
 **Receipt**
@@ -10978,7 +11072,44 @@ is, in the absence of evidence to the contrary, proof of the facts so certified 
 **Deemed approval**
 
 - **(5)** If the applicant does not receive the notice required by subsection (3) and, where applicable, subsection (4), within the required period, the Superintendent is deemed to have approved the application and granted the approval, consent, extension or exemption to which the application relates, regardless of whether the approval, consent, extension or exemption is to be in writing or not.
-> 2001, c. 9, s. 568.
+> 2001, c. 9, s. 568; 2007, c. 6, s. 383.
+
+
+
+
+
+### Applications for Certain Approvals
+
+
+
+**Application for certain approvals**
+
+**529.2** 
+
+- **(1)** An application for the prior written approval of the Minister in respect of paragraph 410(1)(c) or (c.1) or 453(5)(c), (d) or (d.1) must be filed with the Superintendent and contain the information, material and evidence that the Superintendent may require.
+
+**Certification of receipt of application**
+
+- **(2)** If, in the opinion of the Superintendent, the application contains all the required information, the Superintendent must refer it to the Minister, together with his or her analysis in relation to the application, and send a receipt to the applicant certifying the date on which the application was referred to the Minister.
+
+**Incomplete application**
+
+- **(3)** If, in the opinion of the Superintendent, the application is incomplete, the Superintendent must send a notice to the applicant specifying the information required by the Superintendent to complete it.
+
+**Notice of decision**
+
+- **(4)** Subject to subsection (5), the Minister must, within 30 days after the certified date referred to in subsection (2), send to the applicant
+	- **(a)** a notice approving the application; or
+	- **(b)** if the Minister is not satisfied that the application should be approved, a notice to that effect.
+
+**Extension of period**
+
+- **(5)** If the Minister is unable to complete the consideration of an application within the 30-day period, the Minister must, within that period, send a notice to the applicant informing the applicant that the Minister has extended the period for a further period set out in the notice.
+
+**Deemed approval**
+
+- **(6)** If the Minister does not send the notice referred to in subsection (4) or, where applicable, subsection (5), within the required period, the Minister is deemed to have approved the application.
+> 2007, c. 6, s. 384.
 
 
 
@@ -11067,6 +11198,10 @@ is, in the absence of evidence to the contrary, proof of the facts so certified 
 
 - **(1)** Every person who, without reasonable cause, contravenes any provision of this Act or the regulations is guilty of an offence.
 
+**False or misleading information**
+
+- **(1.1)** Every person who knowingly provides false or misleading information in relation to any matter under this Act or the regulations is guilty of an offence.
+
 **Undue preference to creditor**
 
 - **(2)** Every director, officer or employee of a company who wilfully gives or concurs in giving to any creditor of the company any fraudulent, undue or unfair preference over other creditors, by giving security to the creditor, by changing the nature of the creditor’s claim or otherwise, is guilty of an offence.
@@ -11078,6 +11213,8 @@ is, in the absence of evidence to the contrary, proof of the facts so certified 
 **Use of name**
 
 - **(4)** Except to the extent permitted by the regulations, every person who uses the name of a company in a prospectus, offering memorandum, takeover bid circular, advertisement for a transaction related to securities or in any other document in connection with a transaction related to securities is guilty of an offence.
+> 1991, c. 45, s. 533; 2007, c. 6, s. 385.
+
 
 
 
