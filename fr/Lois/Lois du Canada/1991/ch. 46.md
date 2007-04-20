@@ -69,7 +69,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 Sont exclues de la présente définition les filiales des banques figurant à l’annexe I dans sa version antérieure à l’entrée en vigueur de l’article 184 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md), sauf les banques visées par le paragraphe 378(2).
 
-***banque étrangère autorisée*** Banque étrangère ayant fait l’objet de l’arrêté prévu au paragraphe 524(1).
+***banque étrangère autorisée*** Banque étrangère faisant l’objet de l’arrêté prévu au paragraphe 524(1).
 
 ***banque étrangère d’un non-membre de l’OMC*** Banque étrangère qui n’est pas contrôlée par un résident d’un membre de l’OMC.
 
@@ -103,7 +103,7 @@ French version only***banque n’ayant pas fait appel au public*** S’entend d�
 
 ***entité*** Personne morale, fiducie, société de personnes, fonds, toute organisation ou association non dotée de la personnalité morale, Sa Majesté du chef du Canada ou d’une province et ses organismes et le gouvernement d’un pays étranger ou de l’une de ses subdivisions politiques et ses organismes.
 
-***entité canadienne*** Entité constituée en personne morale ou formée sous le régime d’une loi fédérale ou provinciale et qui exerce son activité commerciale, directement ou non, au Canada.
+***entité canadienne*** Entité constituée en personne morale ou formée sous le régime d’une loi fédérale ou provinciale, ou formée autrement au Canada et qui exerce son activité commerciale au Canada.
 
 ***envoyer*** A également le sens de remettre.
 
@@ -248,7 +248,7 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 - **f)** la Cour suprême du Yukon, la Cour suprême des Territoires du Nord-Ouest ou la Cour de justice du Nunavut.
 
  et ***véritable propriétaire*** Est considéré comme tel le propriétaire de valeurs mobilières inscrites au nom d’un ou de plusieurs intermédiaires, notamment d’un fiduciaire ou d’un mandataire; ***propriété effective*** s’entend du droit du véritable propriétaire.
-> 1991, ch. 46, art. 2 et 572, ch. 47, art. 756, ch. 48, art. 494; 1992, ch. 51, art. 29; 1993, ch. 34, art. 5(F), ch. 44, art. 22; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 14, ch. 28, art. 1; 2000, ch. 12, art. 3; 2001, ch. 9, art. 35, ch. 27, art. 206; 2002, ch. 7, art. 81(A); 2005, ch. 54, art. 1.
+> 1991, ch. 46, art. 2 et 572, ch. 47, art. 756, ch. 48, art. 494; 1992, ch. 51, art. 29; 1993, ch. 34, art. 5(F), ch. 44, art. 22; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 14, ch. 28, art. 1; 2000, ch. 12, art. 3; 2001, ch. 9, art. 35, ch. 27, art. 206; 2002, ch. 7, art. 81(A); 2005, ch. 54, art. 1; 2007, ch. 6, art. 1.
 
 
 
@@ -404,27 +404,31 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 
 **9** 
 
-- **(1)** Pour l’application de la partie VII et de la section 7 de la partie XV, sont réputées être une seule personne qui acquiert à titre de véritable propriétaire le nombre total des actions d’une banque ou d’une société de portefeuille bancaire ou des actions ou titres de participation d’une entité dont elles ont la propriété effective les personnes qui, en vertu d’une entente, d’un accord ou d’un engagement — formel ou informel, oral ou écrit — conviennent d’agir ensemble ou de concert à l’égard :
+- **(1)** Pour l’application de la partie VII et de la section 7 de la partie XV, sont réputées être une seule personne qui acquiert à titre de véritable propriétaire le nombre total des actions d’une banque ou d’une société de portefeuille bancaire ou des actions ou titres de participation d’une entité dont elles ont la propriété effective les personnes qui, en vertu d’une entente, d’un accord ou d’un engagement — formel ou informel, oral ou écrit — conviennent d’agir ensemble ou de concert à l’égard :
 	- **a)** soit d’actions de la banque ou de la société de portefeuille bancaire dont elles sont les véritables propriétaires;
 	- **b)** soit d’actions ou de titres de participation — dans le cas de l’entité qui détient la propriété effective d’actions de la banque ou de la société de portefeuille bancaire — dont elles sont les véritables propriétaires;
 	- **c)** soit d’actions ou de titres de participation — dans le cas d’une entité qui contrôle une entité qui détient la propriété effective d’actions de la banque ou de la société de portefeuille bancaire — dont elles sont les véritables propriétaires.
 
 **Action concertée**
 
-- **(2)** Sans que soit limitée la portée générale du paragraphe (1), est réputé être un accord, une entente ou un engagement au sens de ce paragraphe tout accord, entente ou engagement permettant à chacune des personnes qui sont les véritables propriétaires d’actions d’une banque ou d’une société de portefeuille bancaire ou d’actions ou titres de participation de l’entité visée aux alinéas (1)b) ou c) :
+- **(2)** Sans que soit limitée la portée générale du paragraphe (1), est réputé être un accord, une entente ou un engagement au sens de ce paragraphe tout accord, entente ou engagement permettant à chacune des personnes qui sont les véritables propriétaires d’actions d’une banque ou d’une société de portefeuille bancaire ou d’actions ou titres de participation de l’entité visée aux alinéas (1)b) ou c) :
 	- **a)** soit d’opposer — personnellement ou par délégué — son veto à une proposition soumise au conseil d’administration de la banque ou de la société de portefeuille bancaire;
 	- **b)** soit d’empêcher l’approbation de toute proposition soumise au conseil d’administration de la banque ou de la société de portefeuille bancaire en l’absence de son consentement ou de celui de son délégué.
 
 **Exceptions**
 
-- **(3)** Pour l’application du présent article, les personnes sont présumées ne pas s’être entendues pour agir ensemble ou de concert uniquement du fait :
+- **(3)** Pour l’application du présent article, les personnes sont présumées ne pas s’être entendues pour agir ensemble ou de concert uniquement du fait :
 	- **a)** qu’une est le fondé de pouvoir d’une ou de plusieurs autres de ces personnes à l’égard des actions ou titres de participation visés au paragraphe (1);
 	- **b)** qu’elles exercent les droits de vote attachés aux actions ou titres de participation visés au paragraphe (1) de la même façon.
 
 **Désignation**
 
 - **(4)** Si, à son avis, il est raisonnable de conclure à l’existence d’une entente, d’un accord ou d’un engagement au sens des paragraphes (1) ou (2), le surintendant peut décider que les personnes en cause se sont entendues pour agir ensemble ou de concert.
-> 1991, ch. 46, art. 9; 2001, ch. 9, art. 41.
+
+**Contravention**
+
+- **(5)** Toute personne contrevient à une disposition de la partie VII ou de la section 7 de la partie XV si elle convient d’agir avec d’autres personnes — ou de concert avec celles-ci — de sorte qu’une seule personne réputée telle contrevient à la disposition.
+> 1991, ch. 46, art. 9; 2001, ch. 9, art. 41; 2007, ch. 6, art. 2.
 
 
 
@@ -532,31 +536,32 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 
 **14** 
 
-- **(1)** Sous réserve des autres dispositions de la présente loi :
-	- **a)** les renseignements suivants doivent figurer à l’annexe I :
+- **(1)** Sous réserve des autres dispositions de la présente loi :
+	- **a)** les renseignements suivants doivent figurer à l’annexe I :
 		- **(i)** la dénomination sociale de chaque banque qui figurait aux annexes I ou II dans leur version antérieure à l’entrée en vigueur de l’article 184 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md) et qui n’était pas la filiale d’une banque étrangère,
 		- **(ii)** la dénomination sociale de chaque banque constituée ou formée sous le régime de la présente loi et qui n’est pas la filiale d’une banque étrangère,
 		- **(iii)** la province où se trouve le siège de chacune de ces banques;
-	- **b)** les renseignements suivants doivent figurer à l’annexe II :
+	- **b)** les renseignements suivants doivent figurer à l’annexe II :
 		- **(i)** la dénomination sociale de chaque banque qui figurait à l’annexe II dans sa version antérieure à l’entrée en vigueur de l’article 184 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md) et qui était la filiale d’une banque étrangère,
 		- **(ii)** la dénomination sociale de chaque banque constituée ou formée sous le régime de la présente loi et qui est la filiale d’une banque étrangère,
 		- **(iii)** la province où se trouve le siège de chacune de ces banques.
 
 **Modification des annexes**
 
-- **(2)** Les modifications nécessaires sont effectuées aux annexes I et II dans les cas suivants :
+- **(2)** Les modifications nécessaires sont effectuées aux annexes I et II dans les cas suivants :
 	- **a)** constitution d’une banque;
 	- **b)** prorogation d’une personne morale comme banque;
 	- **c)** fusion d’une ou de plusieurs personnes morales en banque;
 	- **d)** changement de dénomination sociale de la banque;
 	- **e)** déplacement du siège de la banque;
 	- **f)** acquisition par la banque de la qualité de filiale d’une banque étrangère ou perte d’une telle qualité;
-	- **g)** dissolution de la banque.
+	- **g)** dissolution de la banque;
+	- **h)** prorogation — ou fusion et prorogation — d’une banque comme personne morale régie par une autre loi fédérale.
 
 **Avis**
 
 - **(3)** Le surintendant doit, dans les soixante jours suivant la fin de chaque année où l’annexe I ou II est modifiée, faire publier un avis dans la Gazette du Canada reproduisant le texte complet de l’annexe I ou II dans sa forme modifiée à la fin de l’année.
-> 1991, ch. 46, art. 14; 2001, ch. 9, art. 43; 2005, ch. 54, art. 4.
+> 1991, ch. 46, art. 14; 2001, ch. 9, art. 43; 2005, ch. 54, art. 4; 2007, ch. 6, art. 3.
 
 
 
@@ -678,12 +683,16 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 
 **21** 
 
-- **(1)** Sous réserve du paragraphe (2), les banques ne peuvent exercer leurs activités ni les banques étrangères autorisées leurs activités au Canada après le 24 avril 2007; toutefois, si le Parlement est dissous à cette date ou au cours des trois mois qui précèdent, elles peuvent exercer leurs activités jusqu’à cent quatre-vingts jours après le premier jour de la première session de la législature suivante.
+- **(1)** Sous réserve des paragraphes (2) et (3), les banques ne peuvent exercer leurs activités ni les banques étrangères autorisées leurs activités au Canada après la date du cinquième anniversaire de l’entrée en vigueur du présent article.
 
 **Prorogation**
 
 - **(2)** Le gouverneur en conseil peut, par décret, proroger jusqu’à concurrence de six mois la période au cours de laquelle les banques peuvent exercer leurs activités et les banques étrangères autorisées leurs activités au Canada. Un seul décret peut être pris aux termes du présent paragraphe.
-> 1991, ch. 46, art. 21; 1997, ch. 15, art. 2; 1999, ch. 28, art. 9; 2001, ch. 9, art. 44; 2006, ch. 4, art. 199.
+
+**Exception**
+
+- **(3)** Si le Parlement est dissous à la date du cinquième anniversaire de l’entrée en vigueur du présent article, au cours des trois mois qui la précèdent ou au cours de la période prévue au paragraphe (2), les banques peuvent exercer leurs activités et les banques étrangères autorisées leurs activités au Canada jusqu’à cent quatre-vingts jours après le premier jour de la première session de la législature suivante.
+> 1991, ch. 46, art. 21; 1997, ch. 15, art. 2; 1999, ch. 28, art. 9; 2001, ch. 9, art. 44; 2006, ch. 4, art. 199; 2007, ch. 6, art. 4.
 
 
 
@@ -963,7 +972,7 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 	- **c)** [Abrogé, 1994, ch. 47, art. 14]
 	- **d)** détenir des éléments d’actif prohibés par la présente loi mais qui, à la date de la demande, appartenaient à la personne morale prorogée comme banque;
 	- **e)** acquérir et détenir des éléments d’actif prohibés par la présente loi, dans le cas où la personne morale prorogée comme banque était obligée, à la date de la demande, de les acquérir;
-	- **f)** tenir à l’étranger les livres et registres dont la présente loi exige la tenue au Canada, ainsi que tenir et traiter à l’étranger les renseignements et données se rapportant à leur tenue et à leur conservation.
+	- **f)** tenir à l’étranger les livres et registres dont la présente loi exige la tenue au Canada.
 
 **Durée des exceptions**
 
@@ -979,7 +988,7 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 **Restriction**
 
 - **(4)** Le ministre ne peut pas délivrer d’autorisation qui serait encore valable plus de dix ans après la date d’obtention par la banque de l’agrément de fonctionnement dans les cas visés aux alinéas (1)d) et e); dans les cas visés à l’alinéa (1)b), il ne peut le faire que s’il est convaincu, sur la foi de la déposition sous serment d’un dirigeant de la banque, que celle-ci sera dans l’incapacité juridique de racheter les titres de créance visés par l’autorisation encore en circulation à l’expiration de ce délai.
-> 1991, ch. 46, art. 39; 1994, ch. 47, art. 14; 1997, ch. 15, art. 3.
+> 1991, ch. 46, art. 39; 1994, ch. 47, art. 14; 1997, ch. 15, art. 3; 2007, ch. 6, art. 5.
 
 
 
@@ -989,19 +998,41 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 
 
 
+**Prorogation en vertu d’autres lois fédérales**
+
+**39.1** 
+
+- **(1)** La banque peut demander :
+	- **a)** avec l’agrément écrit du ministre, la délivrance d’un certificat de prorogation en société en vertu de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md);
+	- **b)** avec l’agrément écrit du ministre, la délivrance d’un certificat de prorogation en coopérative en vertu de la [Loi canadienne sur les coopératives](/fr/Lois/Lois%20du%20Canada/1998/ch.%201.md) ou d’un certificat de prorogation et d’un certificat de fusion en coopérative en vertu de cette loi;
+	- **c)** la délivrance de lettres patentes de prorogation en association en vertu de la [Loi sur les associations coopératives de crédit](/fr/Lois/Lois%20du%20Canada/1991/ch.%2048.md) ou de lettres patentes de fusion et prorogation en association en vertu de cette loi;
+	- **d)** la délivrance de lettres patentes de prorogation en société ou société de portefeuille d’assurances, sauf en société mutuelle, en vertu de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md) ou de lettres patentes de fusion et de prorogation en société ou société de portefeuille d’assurances, sauf en société mutuelle, en vertu de cette loi;
+	- **e)** la délivrance de lettres patentes de prorogation en société en vertu de la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md) ou de lettres patentes de fusion et prorogation en société en vertu de cette loi.
+
+**Conditions préalables à l’agrément**
+
+- **(2)** L’agrément visé aux alinéas (1)a) ou b) ne peut être accordé que si le ministre est convaincu que :
+	- **a)** la banque a fait publier une fois par semaine pendant quatre semaines consécutives, dans la Gazette du Canada et dans un journal à grand tirage paraissant au lieu du siège de la banque ou dans les environs, un préavis de son intention de faire la demande d’agrément;
+	- **b)** la demande a été autorisée par résolution extraordinaire;
+	- **c)** la banque ne détient pas de dépôts, à l’exception des dépôts qui sont faits par une personne qui la contrôle ou qui détient un intérêt substantiel dans une catégorie d’actions de la banque et qui ne sont pas assurés par la Société d’assurance-dépôts du Canada.
+
+**Retrait de la demande**
+
+- **(3)** Les administrateurs de la banque peuvent, si cette faculté leur est accordée par les actionnaires dans la résolution extraordinaire autorisant la demande de certificat ou de lettres patentes, retirer celle-ci avant qu’il n’y soit donné suite.
+
+**Restriction : prorogation en vertu d’autres régimes**
+
+- **(4)** La banque ne peut demander la prorogation ou la fusion et la prorogation, selon le cas, si ce n’est en conformité avec le paragraphe (1).
+> 1991, ch. 46, art. 574; 1997, ch. 15, art. 4; 1999, ch. 28, art. 11; 2001, ch. 9, art. 50; 2007, ch. 6, art. 6.
+
+
+
+
+
 **Cessation**
 
-**39.1** Dans le cas où les articles 39.2 ou 402.1 s’appliquent à une banque, la présente loi cesse de s’appliquer à la banque à la date précisée dans les lettres patentes prorogeant la banque comme société, délivrées sous le régime des paragraphes 33(1) ou 234(1), selon le cas, de la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md), et cette autre loi s’applique à la société prorogée à cette date.
-> 1991, ch. 46, art. 574; 1997, ch. 15, art. 4; 1999, ch. 28, art. 11; 2001, ch. 9, art. 50.
-
-
-
-
-
-**Demande de prorogation**
-
-**39.2** La banque peut demander des lettres patentes la prorogeant comme société aux termes du paragraphe 33(1) de la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md) ou des lettres patentes de fusion et prorogation en société aux termes de l’article 228 ou du paragraphe 234(1) de cette loi.
-> 1997, ch. 15, art. 4; 2001, ch. 9, art. 50.
+**39.2** En cas de délivrance d’un certificat ou de lettres patentes par suite d’une demande faite par la banque en vertu de l’article 39.1, la présente loi cesse de s’appliquer à celle-ci à la date de prise d’effet du certificat ou des lettres patentes.
+> 1997, ch. 15, art. 4; 2001, ch. 9, art. 50; 2007, ch. 6, art. 6.
 
 
 
@@ -1027,8 +1058,8 @@ French version only***société de portefeuille bancaire n’ayant pas fait appe
 
 **Banque faisant partie d’un groupe**
 
-**41** Par dérogation à l’article 40, la banque qui est du même groupe qu’une autre entité peut, une fois obtenu le consentement de celle-ci et l’agrément du surintendant, adopter une dénomination sociale à peu près identique à celle de l’entité ou être constituée en personne morale sous une telle dénomination.
-> 1991, ch. 46, art. 41; 1996, ch. 6, art. 1; 2001, ch. 9, art. 52.
+**41** Par dérogation à l’article 40, la banque qui est du même groupe qu’une autre entité peut, une fois obtenu son consentement, adopter une dénomination sociale à peu près identique à celle de l’entité ou être constituée en personne morale sous une telle dénomination.
+> 1991, ch. 46, art. 41; 1996, ch. 6, art. 1; 2001, ch. 9, art. 52; 2007, ch. 6, art. 7.
 
 
 
@@ -1434,7 +1465,7 @@ Par dérogation à toute disposition contraire de la présente loi ou des règle
 **Documents à envoyer au surintendant**
 
 - **(5)** Lorsqu’ils prennent les mesures autorisées en vertu de l’alinéa (1)b), les administrateurs doivent, avant d’émettre des actions d’une série, envoyer au surintendant un exemplaire du règlement administratif afférent et lui communiquer tous détails sur les séries qui seront émises.
-> 1991, ch. 46, art. 62; 2005, ch. 54, art. 8.
+> 1991, ch. 46, art. 62; 2005, ch. 54, art. 8; 2007, ch. 6, art. 8(A).
 
 
 
@@ -1643,6 +1674,12 @@ Par dérogation à toute disposition contraire de la présente loi ou des règle
 
 - **(4)** La prise d’effet de la résolution extraordinaire est subordonnée à l’agrément écrit du surintendant.
 
+**Exception**
+
+- **(4.1)** Un tel agrément n’est pas nécessaire si, à la fois :
+	- **a)** la réduction du capital déclaré est due uniquement à des changements apportés aux principes comptables visés au paragraphe 308(4);
+	- **b)** aucun remboursement du capital n’est versé aux actionnaires du fait de la réduction.
+
 **Condition préalable**
 
 - **(5)** Le surintendant ne peut approuver la résolution extraordinaire que si, d’une part, celle-ci lui a été présentée dans les trois mois qui suivent son adoption et, d’autre part, un exemplaire de la résolution et un avis d’intention de la demande d’agrément ont été publiés dans la Gazette du Canada.
@@ -1654,6 +1691,8 @@ Par dérogation à toute disposition contraire de la présente loi ou des règle
 	- **b)** le résultat du vote par catégories d’actions;
 	- **c)** l’actif et le passif de la banque;
 	- **d)** les motifs de la réduction projetée.
+> 1991, ch. 46, art. 75; 2007, ch. 6, art. 10.
+
 
 
 
@@ -1719,11 +1758,11 @@ Par dérogation à toute disposition contraire de la présente loi ou des règle
 
 **79** 
 
-- **(1)** Les administrateurs de la banque peuvent déclarer un dividende, qui peut être payé soit par l’émission d’actions entièrement libérées ou par l’octroi d’options ou de droits d’acquérir de telles actions, soit, sous réserve des paragraphes (4) et (5), en argent ou en biens; le dividende payable en argent peut être payé en monnaie étrangère.
+- **(1)** Les administrateurs de la banque peuvent déclarer un dividende, qui peut être payé par l’émission d’actions entièrement libérées ou par l’octroi d’options ou de droits d’acquérir de telles actions ou, sous réserve du paragraphe (4), en argent ou en biens; le dividende payable en argent peut être payé en monnaie étrangère.
 
 **Avis au surintendant**
 
-- **(2)** Les administrateurs notifient au surintendant la déclaration de dividendes au moins dix jours avant la date fixée pour leur versement.
+- **(2)** Les administrateurs notifient au surintendant la déclaration de dividendes au moins quinze jours avant la date fixée pour leur versement.
 
 **Dividendes-actions**
 
@@ -1733,10 +1772,8 @@ Par dérogation à toute disposition contraire de la présente loi ou des règle
 
 - **(4)** Toute déclaration ou tout versement de dividendes est prohibé s’il existe des motifs valables de croire que, ce faisant, la banque contrevient, ou contreviendra, aux règlements ou aux instructions visés à l’article 485.
 
-**Non-versement de dividendes**
-
-- **(5)** La déclaration et le versement de dividendes au cours d’un exercice donné doivent être agréés par le surintendant s’ils font en sorte que, à la date de la déclaration, le montant total des dividendes déclarés par la banque au cours de l’exercice dépasse la somme de ses bénéfices nets pour la partie écoulée de l’exercice et de ses bénéfices nets non répartis pour les deux exercices précédents.
-> 1991, ch. 46, art. 79; 2001, ch. 9, art. 61.
+- **(5)** [Abrogé, 2007, ch. 6, art. 11]
+> 1991, ch. 46, art. 79; 2001, ch. 9, art. 61; 2007, ch. 6, art. 11.
 
 
 
@@ -2696,12 +2733,12 @@ Est exclus de la présente définition le document attestant un dépôt.
 
 **Nombre de voix possibles**
 
-- **(1.1)** La banque dont les capitaux propres sont égaux ou supérieurs à cinq milliards de dollars doit indiquer dans l’avis le nombre de voix possibles, au sens du paragraphe 156.09(1), qui, à la date permettant de déterminer les actionnaires qui ont le droit d’être avisés de l’assemblée, peuvent être exprimées pour chaque vote devant être tenu à l’assemblée.
+- **(1.1)** La banque dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars doit indiquer dans l’avis le nombre de voix possibles, au sens du paragraphe 156.09(1), qui, à la date permettant de déterminer les actionnaires qui ont le droit d’être avisés de l’assemblée, peuvent être exprimées pour chaque vote devant être tenu à l’assemblée.
 
 **Publication dans un journal**
 
 - **(2)** Dans le cas où une catégorie quelconque d’actions de la banque est cotée dans une bourse de valeurs mobilières reconnue au Canada, avis des date, heure et lieu de l’assemblée doit également être publié une fois par semaine pendant au moins quatre semaines consécutives avant sa tenue dans un journal à grand tirage au lieu du siège de la banque et en chaque lieu au Canada où soit elle a un agent de transfert, soit il est possible d’inscrire tout transfert de ses actions.
-> 1991, ch. 46, art. 138; 2001, ch. 9, art. 63; 2005, ch. 54, art. 18.
+> 1991, ch. 46, art. 138; 2001, ch. 9, art. 63; 2005, ch. 54, art. 18; 2007, ch. 6, art. 132.
 
 
 
@@ -3284,15 +3321,15 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 
 
-**Définition de « voix possibles »**
+**Définition de voix possibles**
 
 **156.09** 
 
-- **(1)** Pour l’application du présent article, « voix possibles » s’entend du nombre total de voix qui peuvent être exprimées par les actionnaires ou les détenteurs d’actions d’une catégorie ou série quelconque, selon le cas, ou en leur nom, sur une question particulière, calculé abstraction faite du paragraphe (2).
+- **(1)** Pour l’application du présent article, ***voix possibles*** s’entend du nombre total de voix qui peuvent être exprimées par les actionnaires ou les détenteurs d’actions d’une catégorie ou série quelconque, selon le cas, ou en leur nom, sur une question particulière, calculé abstraction faite du paragraphe (2).
 
 **Restriction**
 
-- **(2)** Lors d’une assemblée des actionnaires d’une banque dont les capitaux propres sont égaux ou supérieurs à cinq milliards de dollars, il est interdit à toute personne, ou à toute entité qu’elle contrôle, d’exprimer au total sur une question particulière, dans le cadre d’un vote des actionnaires ou des détenteurs de catégories ou séries d’actions, un nombre de voix supérieur à vingt pour cent des voix possibles sur la question.
+- **(2)** Lors d’une assemblée des actionnaires d’une banque dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars, il est interdit à toute personne, ou à toute entité qu’elle contrôle, d’exprimer au total sur une question particulière, dans le cadre d’un vote des actionnaires ou des détenteurs de catégories ou séries d’actions, un nombre de voix supérieur à vingt pour cent des voix possibles sur la question.
 
 **Fondé de pouvoir**
 
@@ -3333,7 +3370,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 **Désignation par le ministre**
 
 - **(12)** Pour l’application du présent article, le ministre peut, pour une banque donnée, désigner plusieurs personnes qui sont partie à l’entente, l’accord ou l’engagement prévu à l’article 9 comme ne constituant qu’une seule personne.
-> 2001, ch. 9, art. 67.
+> 2001, ch. 9, art. 67; 2007, ch. 6, art. 132.
 
 
 
@@ -3406,8 +3443,8 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Résidence**
 
-- **(2)** Au moins la moitié des administrateurs de la banque qui est la filiale d’une banque étrangère et au moins les deux tiers des administrateurs de toute autre banque doivent, au moment de leur élection ou nomination, être des résidents canadiens.
-> 1991, ch. 46, art. 159; 2001, ch. 9, art. 69.
+- **(2)** Au moins la moitié des administrateurs de la banque qui est la filiale d’une banque étrangère et la majorité des administrateurs de toute autre banque doivent, au moment de leur élection ou nomination, être des résidents canadiens.
+> 1991, ch. 46, art. 159; 2001, ch. 9, art. 69; 2007, ch. 6, art. 12.
 
 
 
@@ -3599,7 +3636,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Exception**
 
-- **(3.1)** Le paragraphe (2) ne s’applique pas aux banques à participation multiple dont les capitaux propres sont égaux ou supérieurs à cinq milliards de dollars ni à celles auxquelles s’applique le paragraphe 378(1).
+- **(3.1)** Le paragraphe (2) ne s’applique pas aux banques à participation multiple dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars ni à celles auxquelles s’applique le paragraphe 378(1).
 
 **Élection transitoire**
 
@@ -3610,7 +3647,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 **Exception**
 
 - **(5)** La présente loi n’a pas pour effet d’empêcher les détenteurs d’actions d’une catégorie ou série d’avoir le droit exclusif d’élire un ou plusieurs administrateurs.
-> 1991, ch. 46, art. 168; 1997, ch. 15, art. 14; 2001, ch. 9, art. 73; 2005, ch. 54, art. 33.
+> 1991, ch. 46, art. 168; 1997, ch. 15, art. 14; 2001, ch. 9, art. 73; 2005, ch. 54, art. 33; 2007, ch. 6, art. 132.
 
 
 
@@ -4572,8 +4609,16 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Date d’entrée en vigueur**
 
-- **(3)** L’entrée en vigueur des règlements administratifs, ou de leurs modifications ou révocations, est subordonnée à leur confirmation préalable par les actionnaires conformément au paragraphe (2) et, dans le cas de l’alinéa (1)i.1), à l’approbation du surintendant.
-> 1991, ch. 46, art. 217; 2001, ch. 9, art. 82; 2005, ch. 54, art. 46.
+- **(3)** L’entrée en vigueur des règlements administratifs ou de leurs modifications ou révocations est subordonnée à leur confirmation préalable par les actionnaires conformément au paragraphe (2) et, dans le cas d’un règlement administratif concernant le changement de la dénomination sociale de la banque, à l’approbation du surintendant.
+
+**Lettres patentes**
+
+- **(4)** En cas de changement de la dénomination sociale de la banque, ou de la province, au Canada, où se trouve son siège, le surintendant peut délivrer des lettres patentes pour que l’acte constitutif soit modifié en conséquence.
+
+**Effet des lettres patentes**
+
+- **(5)** Les lettres patentes prennent effet à la date indiquée.
+> 1991, ch. 46, art. 217; 2001, ch. 9, art. 82; 2005, ch. 54, art. 46; 2007, ch. 6, art. 13.
 
 
 
@@ -4663,11 +4708,11 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Réserve**
 
-- **(3)** Par dérogation au paragraphe (1), dans le cas où la banque issue de la fusion est une banque dont les capitaux propres sont égaux ou supérieurs à cinq milliards de dollars, le ministre ne peut délivrer de lettres patentes que si elle est :
+- **(3)** Par dérogation au paragraphe (1), dans le cas où la banque issue de la fusion est une banque dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars, le ministre ne peut délivrer de lettres patentes que si elle est :
 	- **a)** soit à participation multiple;
 	- **b)** soit contrôlée, au sens des alinéas 3(1)a) et d), par une banque ou une société de portefeuille bancaire à participation multiple qui contrôlait l’un des requérants au moment de la présentation de la requête;
 	- **c)** soit contrôlée, au sens de l’alinéa 3(1)d), par une société de portefeuille d’assurances à participation multiple, par une institution financière canadienne admissible — autre qu’une banque — , au sens du paragraphe 370(1), ou par une institution étrangère admissible, au sens du même paragraphe, qui contrôlait l’un des requérants au moment de la présentation de la requête.
-> 1991, ch. 46, art. 223; 2001, ch. 9, art. 84.
+> 1991, ch. 46, art. 223; 2001, ch. 9, art. 84; 2007, ch. 6, art. 132.
 
 
 
@@ -4700,9 +4745,11 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 
 
-**Approbation du ministre**
+**Approbation du surintendant**
 
-**225** L’approbation prévue au paragraphe 226(4) est sans effet si, au préalable, le ministre n’a pas approuvé la convention de fusion par écrit.
+**225** L’approbation prévue au paragraphe 226(4) est sans effet si, au préalable, le surintendant n’a pas approuvé la convention de fusion par écrit.
+> 1991, ch. 46, art. 225; 2007, ch. 6, art. 14.
+
 
 
 
@@ -4860,7 +4907,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 	- **c)** [Abrogé, 1994, ch. 47, art. 16]
 	- **d)** détenir des éléments d’actif prohibés par la présente loi mais que détenaient, à la date du dépôt de la demande de lettres patentes, une ou plusieurs des personnes morales fusionnantes;
 	- **e)** acquérir et détenir des éléments d’actif dont l’acquisition et la détention sont interdites à une banque par la présente loi, si une ou plusieurs des personnes morales fusionnantes se trouvaient dans l’obligation, à la date du dépôt de la demande de lettres patentes, de les acquérir;
-	- **f)** tenir à l’étranger les livres et registres dont la présente loi exige la tenue au Canada et tenir et traiter à l’étranger les renseignements et les données se rapportant à la tenue et à la conservation de ces livres et registres.
+	- **f)** tenir à l’étranger les livres et registres dont la présente loi exige la tenue au Canada.
 
 **Durée des exceptions**
 
@@ -4878,7 +4925,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 - **(4)** Le ministre ne peut accorder d’autorisation qui serait encore valable plus de dix ans :
 	- **a)** après la date d’obtention par la banque de l’agrément de fonctionnement dans les cas visés à l’alinéa (1)b), à moins qu’il n’estime, sur la foi d’une déposition sous serment d’un dirigeant de celle-ci, qu’il sera juridiquement impossible à la banque de racheter les titres de créance encore en circulation à l’expiration de ce délai et qui font l’objet de l’autorisation;
 	- **b)** après la date de délivrance des lettres patentes dans les cas visés aux alinéas (1)d) et e).
-> 1991, ch. 46, art. 231; 1994, ch. 47, art. 16; 1997, ch. 15, art. 28.
+> 1991, ch. 46, art. 231; 1994, ch. 47, art. 16; 1997, ch. 15, art. 28; 2007, ch. 6, art. 15.
 
 
 
@@ -4907,9 +4954,11 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 
 
-**Envoi de convention au ministre**
+**Envoi de convention au surintendant**
 
-**233** La convention de vente doit être communiquée au ministre avant d’être soumise aux actionnaires de la banque vendeuse conformément au paragraphe 234(1).
+**233** La convention de vente doit être communiquée au surintendant avant d’être soumise aux actionnaires de la banque vendeuse conformément au paragraphe 234(1).
+> 1991, ch. 46, art. 233; 2007, ch. 6, art. 16.
+
 
 
 
@@ -5144,36 +5193,16 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 
 
-**Lieu de conservation et traitement des données**
+**Lieu de conservation et de traitement des données**
 
 **245** 
 
-- **(1)** Sous réserve du paragraphe (3), la banque doit conserver et traiter au Canada tous les renseignements ou données se rapportant à la tenue et à la conservation des livres visés à l’article 238 ou du registre central des valeurs mobilières, sauf si le surintendant a, aux conditions qu’il estime indiquées, exempté la banque de l’application du présent article.
-
-**Copies**
-
-- **(2)** Sous réserve des paragraphes (4) et (5), la banque peut conserver à l’étranger des exemplaires des livres visés à l’article 238 ou du registre central des valeurs mobilières, et y traiter les renseignements et les données afférents.
-
-**Exception**
-
-- **(3)** Le paragraphe (1) ne s’applique pas à l’égard des succursales de la banque qui sont situées à l’étranger ou des clients de celles-ci.
-
-**Renseignements à fournir au surintendant**
-
-- **(4)** Le cas visé au paragraphe (2) échéant, la banque en informe le surintendant et lui fournit une liste des exemplaires conservés à l’étranger et une description du traitement à l’étranger des renseignements et des données s’y rapportant, ainsi que les autres renseignements que le surintendant peut exiger.
-
-**Traitement des renseignements au Canada**
-
-- **(5)** S’il estime que la conservation à l’étranger des exemplaires ou que le fait de traiter à l’étranger les renseignements et données s’y rapportant, constitue un obstacle à l’exécution de ses fonctions ou s’il est avisé que cela n’est pas, selon le ministre, dans l’intérêt national, le surintendant ordonne à la banque d’y procéder au Canada.
+- **(1)** S’il estime que la conservation dans un pays étranger des exemplaires de livres visés à l’article 238 ou du registre central des valeurs mobilières de la banque ou le fait de traiter dans un pays étranger les renseignements et données se rapportant à la tenue et à la conservation des livres ou du registre constitue un obstacle à l’exécution des fonctions qui lui sont conférées en vertu de la présente loi, ou s’il est avisé que cela n’est pas, selon le ministre, dans l’intérêt national, le surintendant ordonne à la banque de s’abstenir de se livrer à ces activités dans ce pays ou de ne s’y livrer qu’au Canada.
 
 **Obligation de se conformer**
 
-- **(6)** La banque doit sans délai exécuter l’ordre visé au paragraphe (5).
-
-**Directives**
-
-- **(7)** Le surintendant doit donner des directives sur les circonstances qui peuvent justifier l’exemption visée au paragraphe (1).
-> 1991, ch. 46, art. 245; 2001, ch. 9, art. 89; 2005, ch. 54, art. 52.
+- **(2)** La banque doit exécuter sans délai l’ordre visé au paragraphe (1).
+> 1991, ch. 46, art. 245; 2001, ch. 9, art. 89; 2005, ch. 54, art. 52; 2007, ch. 6, art. 17.
 
 
 
@@ -6061,10 +6090,10 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **Qualités requises pour être fiduciaire**
 
-**300** Au moins un des fiduciaires nommés doit être :
-- **a)** soit une société de fiducie régie par la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md);
+**300** Au moins un des fiduciaires nommés doit être :
+- **a)** soit une société de fiducie au sens du paragraphe 57(2) de la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md);
 - **b)** soit une personne morale constituée sous le régime d’une loi provinciale et autorisée à exercer l’activité d’un fiduciaire.
-> 1991, ch. 46, art. 300 et 577.
+> 1991, ch. 46, art. 300 et 577; 2007, ch. 6, art. 18.
 
 
 
@@ -7359,18 +7388,18 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 
 
-**Acquisition d’un intérêt substantiel**
+**Restrictions à l’acquisition**
 
 **373** 
 
-- **(1)** Sous réserve des autres dispositions de la présente partie, il est interdit à une personne — ou à l’entité qu’elle contrôle — d’acquérir, sans l’agrément du ministre, des actions d’une banque ou le contrôle d’une entité qui détient de telles actions si l’acquisition :
+- **(1)** Sous réserve des autres dispositions de la présente partie, il est interdit à une personne — ou à l’entité qu’elle contrôle — d’acquérir, sans l’agrément du ministre, des actions d’une banque ou le contrôle d’une entité qui détient de telles actions si l’acquisition, selon le cas :
 	- **a)** lui confère un intérêt substantiel dans une catégorie d’actions de la banque en question;
 	- **b)** augmente l’intérêt substantiel qu’elle détient déjà.
 
 **Assimilation**
 
-- **(2)** Dans le cas où une fusion, un regroupement ou une réorganisation confère à l’entité qui en est issue un intérêt substantiel dans une catégorie quelconque d’actions d’une banque, cette entité est réputée acquérir un intérêt substantiel dans cette catégorie d’actions de la banque et cette acquisition requiert l’agrément du ministre.
-> 1991, ch. 46, art. 373; 1994, ch. 47, art. 17; 1997, ch. 15, art. 37(A); 2001, ch. 9, art. 98.
+- **(2)** Dans le cas où l’entité issue d’une fusion, d’un regroupement ou d’une réorganisation aurait un intérêt substantiel dans une catégorie d’actions d’une banque, cette entité est réputée se voir conférer, dans le cadre d’une acquisition qui requiert l’agrément prévu au paragraphe (1), un intérêt substantiel dans cette catégorie d’actions.
+> 1991, ch. 46, art. 373; 1994, ch. 47, art. 17; 1997, ch. 15, art. 37(A); 2001, ch. 9, art. 98; 2007, ch. 6, art. 19.
 
 
 
@@ -7384,37 +7413,37 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **374** 
 
-- **(1)** Il est interdit d’être un actionnaire important d’une banque dont les capitaux propres sont égaux ou supérieurs à cinq milliards de dollars.
+- **(1)** Il est interdit d’être un actionnaire important d’une banque dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars.
 
 **Exception — banque à participation multiple**
 
-- **(2)** Le paragraphe (1) ne s’applique pas à la banque à participation multiple qui contrôlait, au sens des alinéas 3(1)a) et d), la banque dont les capitaux propres sont égaux ou supérieurs à cinq milliards de dollars au moment où les capitaux propres ont atteint ce montant et n’a pas cessé de la contrôler, au sens des mêmes alinéas, depuis.
+- **(2)** Le paragraphe (1) ne s’applique pas à la banque à participation multiple qui contrôlait, au sens des alinéas 3(1)a) et d), la banque dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars au moment où les capitaux propres ont atteint ce montant et n’a pas cessé de la contrôler, au sens des mêmes alinéas, depuis.
 
 **Exception — société de portefeuille bancaire à participation multiple**
 
-- **(3)** Le paragraphe (1) ne s’applique pas à la société de portefeuille bancaire à participation multiple qui contrôle, au sens des alinéas 3(1)a) et d), la banque dont les capitaux propres sont égaux ou supérieurs à cinq milliards de dollars dans les cas suivants :
-	- **a)** elle contrôlait la banque, au sens des mêmes alinéas, au moment où les capitaux propres de celle-ci ont atteint le montant de cinq milliards de dollars et n’a pas cessé de la contrôler, au sens des mêmes alinéas, depuis;
+- **(3)** Le paragraphe (1) ne s’applique pas à la société de portefeuille bancaire à participation multiple qui contrôle, au sens des alinéas 3(1)a) et d), la banque dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars dans les cas suivants :
+	- **a)** elle contrôlait la banque, au sens des mêmes alinéas, au moment où les capitaux propres de celle-ci ont atteint le montant de huit milliards de dollars et n’a pas cessé de la contrôler, au sens des mêmes alinéas, depuis;
 	- **b)** elle a acquis le contrôle, au sens des mêmes alinéas, de la banque en vertu des articles 677 ou 678 et elle n’a pas cessé de la contrôler, au sens des mêmes alinéas, depuis la date où elle en a acquis le contrôle;
 	- **c)** la banque était la filiale d’une banque dont elle est la prorogation dans le cadre de l’article 684 et elle n’a pas cessé de contrôler, au sens des mêmes alinéas, la banque depuis le moment où la prorogation a pris effet.
 
 **Exception — sociétés de portefeuille d’assurances et certaines institutions**
 
-- **(4)** Le paragraphe (1) ne s’applique pas aux entités ci-après qui contrôlaient, au sens de l’alinéa 3(1)d), la banque dont les capitaux propres sont égaux ou supérieurs à cinq milliards de dollars au moment où les capitaux propres ont atteint ce montant et qui n’ont pas cessé de la contrôler, au sens du même alinéa, depuis :
+- **(4)** Le paragraphe (1) ne s’applique pas aux entités ci-après qui contrôlaient, au sens de l’alinéa 3(1)d), la banque dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars au moment où les capitaux propres ont atteint ce montant et qui n’ont pas cessé de la contrôler, au sens du même alinéa, depuis :
 	- **a)** une société de portefeuille d’assurances à participation multiple;
 	- **b)** une institution financière canadienne admissible autre qu’une banque;
 	- **c)** une institution étrangère admissible.
 
 **Exception — autres entités**
 
-- **(5)** Le paragraphe (1) ne s’applique pas aux personnes qui contrôlent, au sens des alinéas 3(1)a) et d), la banque dont les capitaux propres sont égaux ou supérieurs à cinq milliards de dollars et qui sont elles-mêmes contrôlées, au sens des mêmes alinéas, par une banque à participation multiple à laquelle le paragraphe (2) s’applique, ou une société de portefeuille bancaire à participation multiple à laquelle le paragraphe (3) s’applique, qui contrôle la banque.
+- **(5)** Le paragraphe (1) ne s’applique pas aux personnes qui contrôlent, au sens des alinéas 3(1)a) et d), la banque dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars et qui sont elles-mêmes contrôlées, au sens des mêmes alinéas, par une banque à participation multiple à laquelle le paragraphe (2) s’applique, ou une société de portefeuille bancaire à participation multiple à laquelle le paragraphe (3) s’applique, qui contrôle la banque.
 
 **Exception — autres entités**
 
-- **(6)** Le paragraphe (1) ne s’applique pas aux personnes qui contrôlent, au sens de l’alinéa 3(1)d), la banque dont les capitaux propres sont égaux ou supérieurs à cinq milliards de dollars et qui sont elles-mêmes contrôlées, au sens du même alinéa, par l’une ou l’autre des entités suivantes :
+- **(6)** Le paragraphe (1) ne s’applique pas aux personnes qui contrôlent, au sens de l’alinéa 3(1)d), la banque dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars et qui sont elles-mêmes contrôlées, au sens du même alinéa, par l’une ou l’autre des entités suivantes :
 	- **a)** une société de portefeuille d’assurances à participation multiple à laquelle le paragraphe (4) s’applique et qui contrôle la banque;
 	- **b)** une institution financière canadienne admissible — autre qu’une banque — à laquelle le paragraphe (4) s’applique et qui contrôle la banque;
 	- **c)** une institution étrangère admissible à laquelle le paragraphe (4) s’applique et qui contrôle la banque.
-> 1991, ch. 46, art. 374, ch. 48, art. 494; 2001, ch. 9, art. 98.
+> 1991, ch. 46, art. 374, ch. 48, art. 494; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132.
 
 
 
@@ -7424,7 +7453,7 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **374.1** 
 
-- **(1)** Malgré l’article 374, si la banque dont les capitaux propres sont égaux ou supérieurs à cinq milliards de dollars est issue d’une fusion, la personne qui est un actionnaire important à la date de prise d’effet des lettres patentes de fusion est tenue de prendre les mesures nécessaires pour que, à l’expiration de l’année qui suit cette date ou du délai plus court précisé par le ministre, elle ne soit plus un actionnaire important de la banque.
+- **(1)** Malgré l’article 374, si la banque dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars est issue d’une fusion, la personne qui est un actionnaire important à la date de prise d’effet des lettres patentes de fusion est tenue de prendre les mesures nécessaires pour que, à l’expiration de l’année qui suit cette date ou du délai plus court précisé par le ministre, elle ne soit plus un actionnaire important de la banque.
 
 **Exception — banque ou société de portefeuille bancaire à participation multiple**
 
@@ -7451,7 +7480,7 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 **Prorogation du délai**
 
 - **(6)** Si les conditions générales du marché le justifient et s’il est convaincu que la personne a fait de son mieux pour se conformer au paragraphe (1) dans le délai imparti, le ministre peut reculer la date à compter de laquelle elle devra se conformer à ce paragraphe.
-> 2001, ch. 9, art. 98.
+> 2001, ch. 9, art. 98; 2007, ch. 6, art. 132.
 
 
 
@@ -7461,7 +7490,7 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **375** 
 
-- **(1)** La personne qui est un actionnaire important d’une banque dont les capitaux propres sont inférieurs à cinq milliards de dollars est tenue, si le montant des capitaux propres de la banque passe à cinq milliards de dollars ou plus, de prendre les mesures nécessaires pour que, à l’expiration des trois ans qui suivent le moment où le montant est atteint, elle ne soit plus un actionnaire important de la banque.
+- **(1)** La personne qui est un actionnaire important d’une banque dont les capitaux propres sont inférieurs à huit milliards de dollars est tenue, si le montant des capitaux propres de la banque passe à huit milliards de dollars ou plus, de prendre les mesures nécessaires pour que, à l’expiration des trois ans qui suivent le moment où le montant est atteint, elle ne soit plus un actionnaire important de la banque.
 
 **Exception**
 
@@ -7470,7 +7499,7 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 **Prorogation du délai**
 
 - **(3)** Si les conditions générales du marché le justifient et s’il est convaincu que la personne a fait de son mieux pour se conformer au paragraphe (1) dans le délai imparti, le ministre peut reculer la date à compter de laquelle elle devra se conformer à ce paragraphe.
-> 1991, ch. 46, art. 375; 2001, ch. 9, art. 98.
+> 1991, ch. 46, art. 375; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132.
 
 
 
@@ -7480,7 +7509,7 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **376** 
 
-- **(1)** La banque à participation multiple dont les capitaux propres sont égaux ou supérieurs à cinq milliards de dollars et qui contrôle une autre banque est tenue, si une personne devient un actionnaire important de l’autre banque ou d’une entité qui la contrôle aussi, de prendre les mesures nécessaires pour que, à l’expiration de l’année qui suit la date à laquelle la personne est devenue actionnaire important :
+- **(1)** La banque à participation multiple dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars et qui contrôle une autre banque est tenue, si une personne devient un actionnaire important de l’autre banque ou d’une entité qui la contrôle aussi, de prendre les mesures nécessaires pour que, à l’expiration de l’année qui suit la date à laquelle la personne est devenue actionnaire important :
 	- **a)** soit elle cesse de contrôler l’autre banque;
 	- **b)** soit l’autre banque ou l’entité n’ait plus d’autre actionnaire important qu’elle ou une entité qu’elle contrôle.
 
@@ -7491,7 +7520,7 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 **Prorogation du délai**
 
 - **(3)** Si les conditions générales du marché le justifient et s’il est convaincu que la banque à participation multiple a fait de son mieux pour se conformer au paragraphe (1) dans le délai imparti, le ministre peut reculer la date à compter de laquelle elle devra se conformer à ce paragraphe.
-> 1991, ch. 46, art. 376; 2001, ch. 9, art. 98.
+> 1991, ch. 46, art. 376; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132.
 
 
 
@@ -7501,14 +7530,14 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **376.01** 
 
-- **(1)** Par dérogation au paragraphe 376(1), la banque à participation multiple dont les capitaux propres sont égaux ou supérieurs à cinq milliards de dollars et qui contrôle une autre banque à laquelle ce paragraphe ne s’applique pas en raison du paragraphe 376(2) est tenue, si les capitaux propres de l’autre banque passent à deux cent cinquante millions de dollars ou plus ou au montant prévu par règlement et si à la date où le montant est atteint une personne est un actionnaire important de l’autre banque ou d’une entité qui la contrôle aussi, de prendre les mesures nécessaires pour que, à l’expiration des trois ans qui suivent cette date :
+- **(1)** Par dérogation au paragraphe 376(1), la banque à participation multiple dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars et qui contrôle une autre banque à laquelle ce paragraphe ne s’applique pas en raison du paragraphe 376(2) est tenue, si les capitaux propres de l’autre banque passent à deux cent cinquante millions de dollars ou plus ou au montant prévu par règlement et si à la date où le montant est atteint une personne est un actionnaire important de l’autre banque ou d’une entité qui la contrôle aussi, de prendre les mesures nécessaires pour que, à l’expiration des trois ans qui suivent cette date :
 	- **a)** soit elle cesse de contrôler l’autre banque;
 	- **b)** soit l’autre banque ou l’entité n’ait plus d’autre actionnaire important qu’elle-même ou une entité qu’elle contrôle.
 
 **Prorogation du délai**
 
 - **(2)** Si les conditions générales du marché le justifient et s’il est convaincu que la banque à participation multiple a fait de son mieux pour se conformer au paragraphe (1) dans le délai imparti, le ministre peut reculer la date à compter de laquelle elle devra se conformer à ce paragraphe.
-> 2001, ch. 9, art. 98.
+> 2001, ch. 9, art. 98; 2007, ch. 6, art. 132.
 
 
 
@@ -7516,8 +7545,8 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **Intérêt substantiel**
 
-**376.1** Il est interdit à toute personne ayant un intérêt substantiel dans une catégorie quelconque des actions d’une banque à participation multiple dont les capitaux propres sont égaux ou supérieurs à cinq milliards de dollars d’avoir un intérêt substantiel dans une catégorie quelconque des actions d’une filiale de celle-ci qui est aussi une banque ou qui est une société de portefeuille bancaire.
-> 1991, ch. 46, art. 578; 1997, ch. 15, art. 39; 1999, ch. 28, art. 19; 2001, ch. 9, art. 98.
+**376.1** Il est interdit à toute personne ayant un intérêt substantiel dans une catégorie quelconque des actions d’une banque à participation multiple dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars d’avoir un intérêt substantiel dans une catégorie quelconque des actions d’une filiale de celle-ci qui est aussi une banque ou qui est une société de portefeuille bancaire.
+> 1991, ch. 46, art. 578; 1997, ch. 15, art. 39; 1999, ch. 28, art. 19; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132.
 
 
 
@@ -7525,8 +7554,8 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **Intérêt substantiel**
 
-**376.2** Il est interdit à toute personne ayant un intérêt substantiel dans une catégorie quelconque des actions d’une banque d’avoir un intérêt substantiel dans une catégorie quelconque des actions d’une banque à participation multiple, ou d’une société de portefeuille bancaire à participation multiple, dont les capitaux propres sont égaux ou supérieurs à cinq milliards de dollars et qui contrôle la banque.
-> 2001, ch. 9, art. 98.
+**376.2** Il est interdit à toute personne ayant un intérêt substantiel dans une catégorie quelconque des actions d’une banque d’avoir un intérêt substantiel dans une catégorie quelconque des actions d’une banque à participation multiple, ou d’une société de portefeuille bancaire à participation multiple, dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars et qui contrôle la banque.
+> 2001, ch. 9, art. 98; 2007, ch. 6, art. 132.
 
 
 
@@ -7536,12 +7565,12 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **377** 
 
-- **(1)** Il est interdit à toute personne de contrôler, au sens de l’alinéa 3(1)d), une banque dont les capitaux propres sont égaux ou supérieurs à cinq milliards de dollars.
+- **(1)** Il est interdit à toute personne de contrôler, au sens de l’alinéa 3(1)d), une banque dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars.
 
 **Exception — banque à participation multiple**
 
 - **(2)** Le paragraphe (1) ne s’applique pas à la personne à laquelle s’applique l’un ou l’autre des paragraphes 374(2) à (6).
-> 1991, ch. 46, art. 377; 2001, ch. 9, art. 98.
+> 1991, ch. 46, art. 377; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132.
 
 
 
@@ -7549,8 +7578,14 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **Restriction — contrôle**
 
-**377.1** Il est interdit, sans l’agrément préalable du ministre, d’acquérir le contrôle, au sens de l’alinéa 3(1)d), d’une banque dont les capitaux propres sont inférieurs à cinq milliards de dollars.
-> 2001, ch. 9, art. 98.
+**377.1** 
+
+- **(1)** Il est interdit d’acquérir, sans l’agrément du ministre, le contrôle, au sens de l’alinéa 3(1)d), d’une banque dont les capitaux propres sont inférieurs à huit milliards de dollars.
+
+**Assimilation**
+
+- **(2)** Dans le cas où l’entité issue d’une fusion, d’un regroupement ou d’une réorganisation aurait le contrôle, au sens de l’alinéa 3(1)d), d’une banque dont les capitaux propres sont inférieurs à huit milliards de dollars, cette entité est réputée acquérir, dans le cadre d’une acquisition qui requiert l’agrément prévu au paragraphe (1), le contrôle au sens de cet alinéa.
+> 2001, ch. 9, art. 98; 2007, ch. 6, art. 20.
 
 
 
@@ -7560,12 +7595,16 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **378** 
 
-- **(1)** La banque qui figurait à l’annexe I dans sa version antérieure à l’entrée en vigueur de l’article 184 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md) et dont les capitaux propres étaient inférieurs à cinq milliards de dollars à cette date est réputée, pour l’application des articles 138, 156.09, 374, 376, 376.01, 376.1, 376.2, 377, 380 et 382, du paragraphe 383(2), de l’article 385 et du paragraphe 396(2), être une banque dont les capitaux propres sont égaux ou supérieurs à cinq milliards de dollars.
+- **(1)** La banque qui figurait à l’annexe I dans sa version antérieure au 24 octobre 2001 et dont les capitaux propres étaient inférieurs à cinq milliards de dollars à cette date est réputée, pour l’application des articles 138, 156.09, 374, 376, 376.01, 376.1, 376.2, 377, 380 et 382, du paragraphe 383(2), de l’article 385 et du paragraphe 396(2), être une banque dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars.
+
+**Demande — fusion**
+
+- **(2)** Si la banque a fait une demande de lettres patentes de fusion et qu’elles sont délivrées pour faire suite à la demande, la banque issue de la fusion est réputée être visée par le paragraphe (1).
 
 **Demande d’exemption**
 
-- **(2)** Le paragraphe (1) cesse de s’appliquer à la banque dont les capitaux propres sont toujours inférieurs à cinq milliards de dollars si le ministre le décide.
-> 1991, ch. 46, art. 378; 2001, ch. 9, art. 98.
+- **(3)** Le paragraphe (1) cesse de s’appliquer à la banque dont les capitaux propres sont inférieurs à huit milliards de dollars si le ministre le décide.
+> 1991, ch. 46, art. 378; 2001, ch. 9, art. 98; 2007, ch. 6, art. 20.
 
 
 
@@ -7604,8 +7643,8 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **Exemption**
 
-**380** Sur demande d’une banque — sauf une banque dont les capitaux propres sont égaux ou supérieurs à cinq milliards de dollars — , le surintendant peut soustraire à l’application des articles 373 et 379 toute catégorie d’actions sans droit de vote de la banque dont la valeur comptable ne représente pas plus de trente pour cent de la valeur comptable des actions en circulation de la banque.
-> 1991, ch. 46, art. 380; 2001, ch. 9, art. 98.
+**380** Sur demande d’une banque — sauf une banque dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars — , le surintendant peut soustraire à l’application des articles 373 et 379 toute catégorie d’actions sans droit de vote de la banque dont la valeur comptable ne représente pas plus de trente pour cent de la valeur comptable des actions en circulation de la banque.
+> 1991, ch. 46, art. 380; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132.
 
 
 
@@ -7624,7 +7663,7 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **382** 
 
-- **(1)** Par dérogation aux articles 373 et 379, l’agrément du ministre n’est pas nécessaire dans le cas où une personne qui détient un intérêt substantiel dans une catégorie d’actions d’une banque dont les capitaux propres sont inférieurs à cinq milliards de dollars — ou une entité qu’elle contrôle — acquiert des actions de cette catégorie ou acquiert le contrôle d’une entité qui détient de telles actions et que l’acquisition de ces actions ou du contrôle de l’entité ne porte pas son intérêt à un pourcentage supérieur à celui qui est précisé aux paragraphes (2) ou (3), selon le cas.
+- **(1)** Par dérogation aux articles 373 et 379, l’agrément du ministre n’est pas nécessaire dans le cas où une personne qui détient un intérêt substantiel dans une catégorie d’actions d’une banque dont les capitaux propres sont inférieurs à huit milliards de dollars — ou une entité qu’elle contrôle — acquiert des actions de cette catégorie ou acquiert le contrôle d’une entité qui détient de telles actions et que l’acquisition de ces actions ou du contrôle de l’entité ne porte pas son intérêt à un pourcentage supérieur à celui qui est précisé aux paragraphes (2) ou (3), selon le cas.
 
 **Pourcentage**
 
@@ -7649,7 +7688,7 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 - **(5)** Le gouverneur en conseil peut, par règlement :
 	- **a)** soustraire à l’application de l’alinéa (4)c) l’acquisition d’un intérêt substantiel dans une catégorie d’actions de la banque par une entité contrôlée par la personne;
 	- **b)** soustraire à l’application de l’alinéa (4)d) l’augmentation — dans un pourcentage supérieur à celui précisé aux paragraphes (2) ou (3), selon le cas — de l’intérêt substantiel d’une entité contrôlée par la personne dans une catégorie d’actions de la banque.
-> 1991, ch. 46, art. 382; 2001, ch. 9, art. 98.
+> 1991, ch. 46, art. 382; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132.
 
 
 
@@ -7665,8 +7704,8 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **Exception**
 
-- **(2)** L’alinéa (1)a) ne s’applique pas à la banque dont les capitaux propres sont égaux ou supérieurs à cinq milliards de dollars.
-> 1991, ch. 46, art. 383; 2001, ch. 9, art. 98.
+- **(2)** L’alinéa (1)a) ne s’applique pas à la banque dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars.
+> 1991, ch. 46, art. 383; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132.
 
 
 
@@ -7685,20 +7724,20 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **385** 
 
-- **(1)** À compter de la date fixée à son égard conformément au présent article, chaque banque dont les capitaux propres sont égaux ou supérieurs à un milliard de dollars mais inférieurs à cinq milliards de dollars doit avoir un nombre d’actions conférant au moins trente-cinq pour cent des droits de vote attachés à l’ensemble de ses actions en circulation et qui :
+- **(1)** À compter de la date fixée à son égard conformément au présent article, chaque banque dont les capitaux propres sont égaux ou supérieurs à deux milliards de dollars mais inférieurs à huit milliards de dollars doit avoir un nombre d’actions conférant au moins trente-cinq pour cent des droits de vote attachés à l’ensemble de ses actions en circulation et qui :
 	- **a)** d’une part, sont des actions d’une ou de plusieurs catégories cotées et négociables dans une bourse reconnue au Canada;
 	- **b)** d’autre part, sont des actions dont aucune personne qui est un actionnaire important à l’égard de ses actions avec droit de vote ni aucune entité contrôlée par une telle personne n’a la propriété effective.
 
 **Date applicable**
 
 - **(2)** La date applicable aux termes du paragraphe (1) se situe :
-	- **a)** dans le cas d’une banque dont les capitaux propres sont égaux ou supérieurs à un milliard de dollars mais inférieurs à cinq milliards de dollars à la date où elle est constituée en banque, trois ans après cette date;
-	- **b)** dans les autres cas, trois ans après la première assemblée annuelle des actionnaires suivant le moment où les capitaux propres de la banque ont atteint pour la première fois un milliard de dollars.
+	- **a)** dans le cas d’une banque dont les capitaux propres sont égaux ou supérieurs à deux milliards de dollars mais inférieurs à huit milliards de dollars à la date où elle est constituée en banque, trois ans après cette date;
+	- **b)** dans les autres cas, trois ans après la première assemblée annuelle des actionnaires suivant le moment où les capitaux propres de la banque ont atteint pour la première fois deux milliards de dollars.
 
 **Prolongation**
 
 - **(3)** Le ministre peut, si les conditions générales du marché le justifient et s’il est convaincu que la banque a fait de son mieux pour se conformer au présent article à la date fixée aux termes du paragraphe (2), reculer la date à compter de laquelle elle devra se conformer au paragraphe (1).
-> 1991, ch. 46, art. 385; 2001, ch. 9, art. 98.
+> 1991, ch. 46, art. 385; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132 et 133.
 
 
 
@@ -7706,8 +7745,8 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **Obligation en matière de détention publique**
 
-**385.1** La banque dont les capitaux propres passent à cinq milliards de dollars ou plus reste régie par l’article 385 jusqu’à ce que personne, sauf cas d’application des paragraphes 374(2) à (6), n’en soit un actionnaire important.
-> 2001, ch. 9, art. 98.
+**385.1** La banque dont les capitaux propres passent à huit milliards de dollars ou plus reste régie par l’article 385 jusqu’à ce que personne, sauf cas d’application des paragraphes 374(2) à (6), n’en soit un actionnaire important.
+> 2001, ch. 9, art. 98; 2007, ch. 6, art. 132.
 
 
 
@@ -7734,8 +7773,8 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **Augmentation du capital**
 
-**387** L’article 385 ne s’applique pas, pendant la période spécifiée par le surintendant, à la banque dont les capitaux propres sont égaux ou supérieurs à un milliard de dollars mais inférieurs à cinq milliards de dollars et à laquelle il a imposé, par ordonnance, une augmentation de capital s’il y a eu émission et acquisition d’actions selon les modalités prévues dans l’ordonnance.
-> 1991, ch. 46, art. 387; 2001, ch. 9, art. 98.
+**387** L’article 385 ne s’applique pas, pendant la période spécifiée par le surintendant, à la banque dont les capitaux propres sont égaux ou supérieurs à deux milliards de dollars mais inférieurs à huit milliards de dollars et à laquelle il a imposé, par ordonnance, une augmentation de capital s’il y a eu émission et acquisition d’actions selon les modalités prévues dans l’ordonnance.
+> 1991, ch. 46, art. 387; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132 et 133.
 
 
 
@@ -7838,12 +7877,12 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **393** 
 
-- **(1)** Par dérogation aux articles 374 et 377, une banque ou une société de portefeuille bancaire à participation multiple peut être un actionnaire important d’une banque dont les capitaux propres sont égaux ou supérieurs à cinq milliards de dollars et cesser de la contrôler au sens des alinéas 3(1)a) et d) si elle a conclu un accord avec le ministre prévoyant les mesures qu’elle doit prendre pour cesser d’être un actionnaire important dans le délai précisé dans l’accord.
+- **(1)** Par dérogation aux articles 374 et 377, une banque ou une société de portefeuille bancaire à participation multiple peut être un actionnaire important d’une banque dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars et cesser de la contrôler au sens des alinéas 3(1)a) et d) si elle a conclu un accord avec le ministre prévoyant les mesures qu’elle doit prendre pour cesser d’être un actionnaire important dans le délai précisé dans l’accord.
 
 **Prorogation du délai**
 
 - **(2)** Si les conditions générales du marché le justifient et s’il est convaincu que la banque ou la société de portefeuille bancaire, selon le cas, a fait de son mieux pour se conformer au paragraphe (1) dans le délai imparti, le ministre peut reculer la date à compter de laquelle elle devra se conformer à ce paragraphe.
-> 1991, ch. 46, art. 393; 2001, ch. 9, art. 98.
+> 1991, ch. 46, art. 393; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132.
 
 
 
@@ -7853,12 +7892,12 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **393.1** 
 
-- **(1)** Par dérogation aux articles 374 et 377, une institution étrangère admissible, une institution financière canadienne admissible autre qu’une banque ou une société de portefeuille d’assurances à participation multiple peut être un actionnaire important d’une banque dont les capitaux propres sont égaux ou supérieurs à cinq milliards de dollars et cesser de la contrôler, au sens de l’alinéa 3(1)d), si elle a conclu un accord avec le ministre prévoyant les mesures qu’elle doit prendre pour cesser d’être un actionnaire important dans le délai précisé dans l’accord.
+- **(1)** Par dérogation aux articles 374 et 377, une institution étrangère admissible, une institution financière canadienne admissible autre qu’une banque ou une société de portefeuille d’assurances à participation multiple peut être un actionnaire important d’une banque dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars et cesser de la contrôler, au sens de l’alinéa 3(1)d), si elle a conclu un accord avec le ministre prévoyant les mesures qu’elle doit prendre pour cesser d’être un actionnaire important dans le délai précisé dans l’accord.
 
 **Prorogation du délai**
 
 - **(2)** Si les conditions générales du marché le justifient et s’il est convaincu que l’institution ou la société de portefeuille d’assurances, selon le cas, a fait de son mieux pour se conformer au paragraphe (1) dans le délai imparti, le ministre peut reculer la date à compter de laquelle elle devra se conformer à ce paragraphe.
-> 2001, ch. 9, art. 98.
+> 2001, ch. 9, art. 98; 2007, ch. 6, art. 132.
 
 
 
@@ -7868,14 +7907,14 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **394** 
 
-- **(1)** La personne morale qui est une institution financière admissible mais non une banque et qui contrôle, au sens de l’alinéa 3(1)d), une banque dont les capitaux propres sont égaux ou supérieurs à cinq milliards de dollars est tenue, si elle perd la qualité d’institution financière admissible, de prendre les mesures nécessaires pour que, à l’expiration de l’année qui suit la date de la perte de qualité :
+- **(1)** La personne morale qui est une institution financière admissible mais non une banque et qui contrôle, au sens de l’alinéa 3(1)d), une banque dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars est tenue, si elle perd la qualité d’institution financière admissible, de prendre les mesures nécessaires pour que, à l’expiration de l’année qui suit la date de la perte de qualité :
 	- **a)** elle cesse de contrôler, au sens de l’alinéa 3(1)d), la banque;
 	- **b)** elle ne soit plus un actionnaire important de la banque.
 
 **Prorogation du délai**
 
 - **(2)** Si les conditions générales du marché le justifient et s’il est convaincu que la personne morale a fait de son mieux pour se conformer au paragraphe (1) dans le délai imparti, le ministre peut reculer la date à compter de laquelle elle devra se conformer à ce paragraphe.
-> 1991, ch. 46, art. 394; 2001, ch. 9, art. 98.
+> 1991, ch. 46, art. 394; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132.
 
 
 
@@ -7904,28 +7943,28 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **396** 
 
-- **(1)** Pour décider s’il approuve ou non une opération nécessitant l’agrément aux termes de l’article 373, le ministre, sous réserve du paragraphe (2), prend en considération tous les facteurs qu’il estime indiqués, notamment :
+- **(1)** Pour décider s’il approuve ou non une opération nécessitant l’agrément aux termes de l’article 373, le ministre, sous réserve du paragraphe (2), prend en considération tous les facteurs qu’il estime indiqués, notamment :
 	- **a)** la nature et l’importance des moyens financiers du ou des demandeurs pour le soutien financier continu de la banque;
 	- **b)** le sérieux et la faisabilité de leurs plans pour la conduite et l’expansion futures de l’activité de la banque;
 	- **c)** leur expérience et leur dossier professionnel;
 	- **d)** leur moralité et leur intégrité et, s’agissant de personnes morales, leur réputation pour ce qui est de leur exploitation selon des normes élevées de moralité et d’intégrité;
 	- **e)** la compétence et l’expérience des personnes devant exploiter la banque, afin de déterminer si elles sont aptes à participer à l’exploitation d’une institution financière et à exploiter la banque de manière responsable;
 	- **f)** les conséquences de toute intégration des activités et des entreprises du ou des demandeurs et de celles de la banque sur la conduite de ces activités et entreprises;
-	- **g)** l’avis du surintendant quant à l’influence que pourrait avoir la structure organisationnelle projetée du ou des demandeurs et des membres de son ou de leur groupe sur la réglementation et la supervision de la banque, compte tenu :
+	- **g)** l’avis du surintendant quant à l’influence que pourrait avoir la structure organisationnelle projetée du ou des demandeurs et des membres de son ou de leur groupe sur la réglementation et la supervision de la banque, compte tenu :
 		- **(i)** d’une part, de la nature et de l’étendue des activités projetées de prestation de services financiers de la banque et des membres de son groupe,
 		- **(ii)** d’autre part, de la nature et de l’étendue de la réglementation et de la supervision liées aux activités projetées de prestation de services financiers des membres du groupe de la banque;
 	- **h)** l’intérêt du système financier canadien.
 
 **Exception**
 
-- **(2)** Sous réserve du paragraphe 377(1), le ministre ne tient compte que du facteur mentionné à l’alinéa (1)d) dans les cas où l’opération aurait pour effet la détention :
-	- **a)** de plus de dix mais d’au plus vingt pour cent d’une catégorie d’actions avec droit de vote en circulation d’une banque à participation multiple dont les capitaux propres sont égaux ou supérieurs à cinq milliards de dollars;
+- **(2)** Sous réserve du paragraphe 377(1), le ministre ne tient compte que du facteur mentionné à l’alinéa (1)d) dans les cas où l’opération aurait pour effet la détention :
+	- **a)** de plus de dix mais d’au plus vingt pour cent d’une catégorie d’actions avec droit de vote en circulation d’une banque à participation multiple dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars;
 	- **b)** de plus de dix mais d’au plus trente pour cent d’une catégorie d’actions sans droit de vote en circulation d’une telle banque.
 
 **Traitement favorable**
 
-- **(3)** Lorsque l’opération a pour effet de faire d’une banque la filiale d’une banque étrangère, au sens des alinéas a) à f) de la définition de « banque étrangère  » à l’article 2, qui est une banque étrangère d’un non-membre de l’OMC, le ministre ne peut l’approuver que s’il est convaincu que les banques régies par la présente loi bénéficient ou bénéficieront d’un traitement aussi favorable sur le territoire où la banque étrangère exerce principalement son activité, directement ou par l’intermédiaire d’une filiale.
-> 1991, ch. 46, art. 396; 2001, ch. 9, art. 98.
+- **(3)** Lorsque l’opération a pour effet de faire d’une banque la filiale d’une banque étrangère, au sens des alinéas a) à f) de la définition de ***banque étrangère*** à l’article 2, qui est une banque étrangère d’un non-membre de l’OMC, le ministre ne peut l’approuver que s’il est convaincu que les banques régies par la présente loi bénéficient ou bénéficieront d’un traitement aussi favorable sur le territoire où la banque étrangère exerce principalement son activité, directement ou par l’intermédiaire d’une filiale.
+> 1991, ch. 46, art. 396; 2001, ch. 9, art. 98; 2007, ch. 6, art. 132.
 
 
 
@@ -7948,12 +7987,12 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **398** 
 
-- **(1)** Lorsque, à son avis, la demande faite dans le cadre de la présente partie est complète, le surintendant la transmet sans délai au ministre et adresse au demandeur un accusé de réception précisant la date de celle-ci.
+- **(1)** Lorsque, à son avis, la demande faite dans le cadre de la présente partie est complète, le surintendant la transmet sans délai au ministre et adresse au demandeur un accusé de réception précisant la date où elle a été reçue.
 
 **Demande incomplète**
 
 - **(2)** Dans le cas contraire, le surintendant envoie au demandeur un avis précisant les renseignements manquants à lui communiquer.
-> 1991, ch. 46, art. 398; 2001, ch. 9, art. 98.
+> 1991, ch. 46, art. 398; 2001, ch. 9, art. 98; 2007, ch. 6, art. 21(F).
 
 
 
@@ -8085,8 +8124,8 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **Autorisation**
 
-**402.1** Dans le cas où le paragraphe 402(1) s’applique, le ministre peut, à la demande de la banque en cause, autoriser celle-ci à demander sa prorogation comme société sous le régime de la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md) au lieu ou en plus de prendre l’arrêté prévu à ce paragraphe.
-> 1991, ch. 46, art. 579.
+**402.1** Dans le cas où le paragraphe 402(1) s’applique, le ministre peut, à la demande de la banque en cause, autoriser celle-ci à demander sa prorogation comme personne morale sous le régime d’une loi fédérale visée au paragraphe 39.1(1), au lieu ou en plus de prendre l’arrêté prévu au paragraphe 402(1).
+> 1991, ch. 46, art. 579; 2007, ch. 6, art. 22.
 
 
 
@@ -8261,36 +8300,37 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **413** 
 
-- **(1)** Il est interdit à la banque d’accepter des dépôts au Canada, sauf :
+- **(1)** Il est interdit à la banque d’accepter des dépôts au Canada, sauf :
 	- **a)** si elle est une institution membre au sens de l’article 2 de la [Loi sur la Société d’assurance-dépôts du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-3.md);
-	- **b)** si, n’étant pas une institution membre, elle a été autorisée à le faire au titre du paragraphe 26.03(1) de cette loi.
+	- **b)** si, n’étant pas une institution membre, elle a été autorisée à le faire au titre du paragraphe 26.03(1) de cette loi;
+	- **c)** si elle est autorisée, au titre de son agrément de fonctionnement, à accepter des dépôts uniquement en conformité avec le paragraphe (3).
 
 - **(2)** [Abrogé, 2001, ch. 9, art. 102]
 
 **Obligation de la banque**
 
-- **(3)** La banque visée à l’alinéa (1)b) doit s’assurer que les dépôts payables au Canada qu’elle détient satisfont en tout temps, après le trentième jour suivant l’autorisation visée à cet alinéa, à l’équation suivante :
+- **(3)** La banque visée aux alinéas (1)b) ou c) doit s’assurer que les dépôts payables au Canada qu’elle détient satisfont en tout temps, après le trentième jour suivant l’autorisation visée à cet alinéa, à l’équation suivante :
 ```
 A/B ≤ 0,01
 ```
 où :
-- **A** représente le total de la somme de tous les dépôts de moins de 150 000 $, calculée sur une base quotidienne, détenus par cette banque durant les trente derniers jours;
-- **B** le total de la somme de tous les dépôts détenus par cette banque, calculée sur une base quotidienne, pour chacun de ces trente jours.
+- **A** représente le total de la somme de tous les dépôts de moins de 150 000 $, calculée sur une base quotidienne, détenus par cette banque durant les trente derniers jours;
+- **B** représente le total de la somme de tous les dépôts détenus par cette banque, calculée sur une base quotidienne, pour chacun de ces trente jours.
 
 **Taux de change**
 
 - **(4)** Le taux de change applicable pour déterminer le montant en dollars canadiens d’un dépôt fait en devises étrangères est déterminé conformément aux règles visées au paragraphe 26.03(2) de la [Loi sur la Société d’assurance-dépôts du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-3.md).
 
-**Sens de « dépôt »**
+**Sens de dépôt**
 
-- **(5)** Dans le paragraphe (3), « dépôt » s’entend au sens que lui donne, dans le cadre de l’assurance-dépôts, l’annexe de la [Loi sur la Société d’assurance-dépôts du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-3.md), exception faite des paragraphes 2(2), (5) et (6) de celle-ci. Ne sont toutefois pas considérés comme des dépôts les dépôts prévus par les règlements.
+- **(5)** Dans le paragraphe (3), ***dépôt*** s’entend au sens que lui donne, dans le cadre de l’assurance-dépôts, l’annexe de la [Loi sur la Société d’assurance-dépôts du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-3.md), exception faite des paragraphes 2(2), (5) et (6) de celle-ci. Ne sont toutefois pas considérés comme des dépôts les dépôts prévus par les règlements.
 
 **Règlements**
 
-- **(6)** Le gouverneur en conseil peut, par règlement :
+- **(6)** Le gouverneur en conseil peut, par règlement :
 	- **a)** prévoir les dépôts visés au paragraphe (5);
 	- **b)** prévoir les modalités et conditions relatives à l’acceptation de ces dépôts.
-> 1991, ch. 46, art. 413; 1997, ch. 15, art. 43; 1999, ch. 28, art. 21.1; 2001, ch. 9, art. 102.
+> 1991, ch. 46, art. 413; 1997, ch. 15, art. 43; 1999, ch. 28, art. 21.1; 2001, ch. 9, art. 102; 2007, ch. 6, art. 23.
 
 
 
@@ -8321,16 +8361,16 @@ où :
 
 **413.2** 
 
-- **(1)** Sous réserve des règlements, la banque visée par l’alinéa 413(1)b) ne peut, dans le cadre de l’exercice de ses activités au Canada, faire fonction de mandataire pour l’acceptation d’un dépôt de moins de 150 000 $ payable au Canada.
+- **(1)** Sous réserve des règlements, la banque visée aux alinéas 413(1)b) ou c) ne peut, dans le cadre de l’exercice de ses activités au Canada, faire fonction de mandataire pour l’acceptation d’un dépôt de moins de 150 000 $ payable au Canada.
 
-**Définition de « dépôt »**
+**Définition de dépôt**
 
-- **(2)** Au paragraphe (1), « dépôt » s’entend au sens du paragraphe 413(5).
+- **(2)** Pour l’application du présent article, ***dépôt*** s’entend au sens du paragraphe 413(5).
 
 **Règlements**
 
-- **(3)** Le gouverneur en conseil peut, par règlement, régir les circonstances dans lesquelles une banque visée par le paragraphe (1) peut faire fonction de mandataire pour l’acceptation d’un dépôt de moins de 150 000 $ payable au Canada et les modalités selon lesquelles elle peut ce faire.
-> 2001, ch. 9, art. 104.
+- **(3)** Le gouverneur en conseil peut, par règlement, régir les circonstances dans lesquelles une banque visée par le paragraphe (1) peut faire fonction de mandataire pour l’acceptation d’un dépôt de moins de 150 000 $ payable au Canada et les modalités selon lesquelles elle peut ce faire.
+> 2001, ch. 9, art. 104; 2007, ch. 6, art. 25.
 
 
 
@@ -8340,7 +8380,7 @@ où :
 
 **413.3** 
 
-- **(1)** Sous réserve des règlements, la banque visée par l’alinéa 413(1)b) ne peut exercer ses activités au Canada dans les mêmes locaux qu’une institution membre, au sens de l’article 2 de la [Loi sur la Société d’assurance-dépôts du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-3.md), qui fait partie de son groupe.
+- **(1)** Sous réserve des règlements, la banque visée aux alinéas 413(1)b) ou c) ne peut exercer ses activités au Canada dans les mêmes locaux qu’une institution membre, au sens de l’article 2 de la [Loi sur la Société d’assurance-dépôts du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-3.md), qui fait partie de son groupe.
 
 **Exception**
 
@@ -8348,14 +8388,14 @@ où :
 
 **Interdiction relative aux locaux adjacents**
 
-- **(3)** Sous réserve des règlements, la banque visée par l’alinéa 413(1)b) ne peut exercer ses activités au Canada dans des locaux adjacents à ceux d’un bureau ou d’une succursale d’une institution membre, au sens de l’article 2 de la [Loi sur la Société d’assurance-dépôts du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-3.md), qui fait partie de son groupe que si elle indique clairement à ses clients que ses activités et les locaux où elle les exerce sont distincts de ceux de l’institution membre.
+- **(3)** Sous réserve des règlements, la banque visée aux alinéas 413(1)b) ou c) ne peut exercer ses activités au Canada dans des locaux adjacents à ceux d’un bureau ou d’une succursale d’une institution membre, au sens de l’article 2 de la [Loi sur la Société d’assurance-dépôts du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-3.md), qui fait partie de son groupe que si elle indique clairement à ses clients que ses activités et les locaux où elle les exerce sont distincts de ceux de l’institution membre.
 
 **Règlements**
 
-- **(4)** Le gouverneur en conseil peut, par règlement :
-	- **a)** régir les circonstances dans lesquelles une banque visée par l’alinéa 413(1)b) peut exercer ses activités au Canada dans les mêmes locaux qu’une institution membre visée par le paragraphe (1) ainsi que les modalités afférentes;
-	- **b)** régir les circonstances dans lesquelles une banque visée par l’alinéa 413(1)b) peut exercer ses activités au Canada dans des locaux adjacents à ceux d’un bureau ou d’une succursale d’une institution membre visée par le paragraphe (3) ainsi que les modalités afférentes.
-> 2001, ch. 9, art. 104.
+- **(4)** Le gouverneur en conseil peut, par règlement :
+	- **a)** régir les circonstances dans lesquelles une banque visée aux alinéas 413(1)b) ou c) peut exercer ses activités au Canada dans les mêmes locaux qu’une institution membre visée par le paragraphe (1) ainsi que les modalités afférentes;
+	- **b)** régir les circonstances dans lesquelles une banque visée aux alinéas 413(1)b) ou c) peut exercer ses activités au Canada dans des locaux adjacents à ceux d’un bureau ou d’une succursale d’une institution membre visée par le paragraphe (3) ainsi que les modalités afférentes.
+> 2001, ch. 9, art. 104; 2007, ch. 6, art. 26.
 
 
 
@@ -8425,20 +8465,20 @@ où :
 
 
 
-**Restrictions : hypothèques**
+**Restrictions : hypothèques**
 
 **418** 
 
-- **(1)** Il est interdit à la banque de faire garantir par un immeuble résidentiel situé au Canada un prêt consenti au Canada pour l’achat, la rénovation ou l’amélioration de cet immeuble, ou de renouveler un tel prêt, si la somme de celui-ci et du solde impayé de toute hypothèque de rang égal ou supérieur excède soixante-quinze pour cent de la valeur de l’immeuble au moment du prêt.
+- **(1)** Il est interdit à la banque de faire garantir par un immeuble résidentiel situé au Canada un prêt consenti au Canada pour l’achat, la rénovation ou l’amélioration de cet immeuble, ou de renouveler un tel prêt, si la somme de celui-ci et du solde impayé de toute hypothèque de rang égal ou supérieur excède quatre-vingts pour cent de la valeur de l’immeuble au moment du prêt.
 
 **Exception**
 
-- **(2)** Le paragraphe (1) ne s’applique pas :
+- **(2)** Le paragraphe (1) ne s’applique pas :
 	- **a)** au prêt consenti ou garanti en vertu de la [Loi nationale sur l’habitation](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-11.md) ou de toute autre loi fédérale aux termes de laquelle est fixée une limite différente sur la valeur de l’immeuble qui constitue l’objet de la garantie;
 	- **b)** au prêt dont le remboursement, en ce qui touche le montant excédant le plafond fixé au paragraphe (1), est garanti ou assuré par un organisme gouvernemental ou par un assureur privé agréé par le surintendant;
 	- **c)** à l’acquisition par la banque d’une entité, de valeurs mobilières émises ou garanties par celle-ci et qui confèrent une sûreté sur un immeuble résidentiel soit en faveur d’un fiduciaire soit de toute autre manière, ou aux prêts consentis par la banque à l’entité en contrepartie de l’émission des valeurs mobilières en question;
 	- **d)** au prêt garanti par une hypothèque consentie à la banque en garantie du paiement du prix de vente d’un bien qu’elle aliène, y compris par suite de l’exercice d’un droit hypothécaire.
-> 1991, ch. 46, art. 418; 1997, ch. 15, art. 46.
+> 1991, ch. 46, art. 418; 1997, ch. 15, art. 46; 2007, ch. 6, art. 27.
 
 
 
@@ -9061,14 +9101,30 @@ Dans le cas d’une telle réclamation, les fonds ainsi déposés peuvent être 
 
 **438** 
 
-- **(1)** Au plus tard le 31 décembre de chaque année, la banque verse à la Banque du Canada le montant du dépôt ou de l’effet en cause, plus éventuellement les intérêts calculés conformément aux modalités y afférentes, dans les situations suivantes :
+- **(1)** Au plus tard le 31 décembre de chaque année, la banque verse à la Banque du Canada le montant du dépôt ou de l’effet en cause, plus éventuellement les intérêts calculés conformément aux modalités y afférentes, dans les situations suivantes :
 	- **a)** un dépôt a été fait au Canada, est payable au Canada en monnaie canadienne et n’a fait l’objet, pendant une période de dix ans, d’aucun mouvement — opération, demande ou accusé de réception d’un état de compte par le déposant — , et ce depuis l’échéance du terme dans le cas d’un dépôt à terme ou, dans le cas de tout autre dépôt, depuis la date de la dernière opération ou, si elle est postérieure, celle de la dernière demande ou du dernier accusé de réception d’un état de compte;
-	- **b)** un chèque, une traite ou une lettre de change — y compris un tel effet tiré par une de ses succursales sur une autre de ses succursales mais à l’exclusion de l’effet émis en paiement d’un dividende sur son capital — payable au Canada en monnaie canadienne a été émis, visé ou accepté par elle au Canada et aucun paiement n’a été fait à cet égard pendant une période de dix ans depuis la dernière des dates suivantes : émission, visa, acceptation ou échéance.
+	- **b)** un chèque, une traite ou une lettre de change — y compris un tel effet tiré par une de ses succursales sur une autre de ses succursales mais à l’exclusion de l’effet émis en paiement d’un dividende sur son capital — payable au Canada en monnaie canadienne a été émis, visé ou accepté par elle au Canada et aucun paiement n’a été fait à cet égard pendant une période de dix ans depuis la dernière des dates suivantes : émission, visa, acceptation ou échéance.
 Le versement libère la banque de toute responsabilité à l’égard du dépôt ou de l’effet.
 
 **Détails à fournir**
 
-- **(2)** Lors du versement, la banque est tenue, pour chaque dépôt ou effet, de fournir à la Banque du Canada les renseignements mis à jour énumérés aux paragraphes 629(3) ou 630(2).
+- **(2)** Lors du versement, la banque est tenue, pour chaque dépôt ou effet, de fournir à la Banque du Canada, dans la mesure où elle en a connaissance, les renseignements mis à jour suivants :
+	- **a)** dans le cas d’un dépôt :
+		- **(i)** le nom du titulaire du dépôt,
+		- **(ii)** son adresse enregistrée,
+		- **(iii)** le solde du dépôt,
+		- **(iv)** la succursale de la banque dans laquelle la dernière opération concernant le dépôt a eu lieu et la date de celle-ci;
+	- **b)** dans le cas d’un effet :
+		- **(i)** le nom de la personne à qui ou à la demande de qui l’effet a été émis, visé ou accepté,
+		- **(ii)** son adresse enregistrée,
+		- **(iii)** le nom du bénéficiaire de l’effet,
+		- **(iv)** le montant et la date de l’effet,
+		- **(v)** le nom du lieu où l’effet était à payer,
+		- **(vi)** la succursale de la banque où l’effet a été émis, visé ou accepté.
+
+**Cartes et délégations de signature**
+
+- **(2.1)** La banque lui fournit, sur demande écrite de la Banque du Canada, des copies des cartes et délégations de signature afférentes pour chaque dépôt ou effet à l’égard duquel le versement a été fait. Si elle n’en possède pas pour un dépôt ou un effet relatif à la demande, elle en informe la Banque du Canada.
 
 **Paiement au réclamant**
 
@@ -9080,10 +9136,10 @@ Le versement libère la banque de toute responsabilité à l’égard du dépôt
 
 **Application du paragraphe (1)**
 
-- **(5)** Le paragraphe (1) ne s’applique qu’aux dépôts faits, et aux chèques, traites et lettres de change émis, visés ou acceptés :
+- **(5)** Le paragraphe (1) ne s’applique qu’aux dépôts faits, et aux chèques, traites et lettres de change émis, visés ou acceptés :
 	- **a)** pendant les dix ans qui précèdent l’entrée en vigueur du présent article;
 	- **b)** depuis l’entrée en vigueur du présent article.
-> 1991, ch. 46, art. 438; 1999, ch. 28, art. 23.
+> 1991, ch. 46, art. 438; 1999, ch. 28, art. 23; 2007, ch. 6, art. 29.
 
 
 
@@ -9097,10 +9153,18 @@ Le versement libère la banque de toute responsabilité à l’égard du dépôt
 
 **Date d’exigibilité de l’avis**
 
-- **(2)** L’avis doit être donné au cours du mois de janvier qui suit la fin de la première période de deux ans, puis de cinq ans :
+- **(2)** L’avis doit être envoyé au cours du mois de janvier qui suit la fin de la première période de deux ans, de cinq ans, puis de neuf ans :
 	- **a)** postérieure à l’échéance, dans le cas d’un dépôt à terme fixe;
 	- **b)** pendant laquelle il n’y a eu aucune opération ni demande ou accusé de réception d’un état de compte par le déposant, dans le cas des autres dépôts;
 	- **c)** pendant laquelle l’effet est resté impayé, dans le cas d’un chèque, d’une traite ou d’une lettre de change.
+
+**Notification de transfert à la Banque du Canada**
+
+- **(3)** L’avis envoyé au cours du mois de janvier qui suit la fin de la première période de neuf ans déterminée en application des alinéas (2)a) à c), selon le cas, doit en outre :
+	- **a)** [Non en vigueur]
+	- **b)** donner l’adresse postale et les sites Web où peut être obtenue l’information concernant la présentation d’une demande de paiement du dépôt ou de l’effet impayé.
+> 1991, ch. 46, art. 439; 2007, ch. 6, art. 30.
+
 
 
 
@@ -9416,17 +9480,26 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **455** 
 
-- **(1)** La banque est tenue :
+- **(1)** La banque est tenue :
 	- **a)** d’établir une procédure d’examen des réclamations de personnes qui lui ont demandé ou qui ont obtenu d’elle des produits ou services au Canada;
-		- **(i)** au traitement des frais à payer pour leur compte de dépôt, pour les arrangements visés au paragraphe 452(3) ou pour leur carte de crédit, de débit ou de paiement,
-		- **(ii)** à la divulgation ou au mode de calcul du coût d’emprunt à l’égard d’un prêt consenti par elle;
 	- **b)** de désigner un préposé — dirigeant ou autre agent — à la mise en oeuvre de la procédure;
 	- **c)** de désigner un ou plusieurs autres préposés — dirigeant ou autre agent — aux réclamations.
 
 **Dépôt**
 
 - **(2)** La banque dépose auprès du commissaire un double de la procédure.
-> 1991, ch. 46, art. 455; 1997, ch. 15, art. 52; 2001, ch. 9, art. 120.
+
+**Mise à la disposition du public de la procédure**
+
+- **(3)** La banque met à la disposition du public la procédure à la fois :
+	- **a)** dans ses succursales où sont offerts des produits ou services au Canada, sous forme de brochure;
+	- **b)** sur ceux de ses sites Web où sont offerts des produits ou services au Canada;
+	- **c)** dans un document écrit à envoyer à quiconque lui en fait la demande.
+
+**Renseignements**
+
+- **(4)** La banque doit accompagner la procédure qu’elle met à la disposition du public des renseignements — fixés par règlement — sur la façon de communiquer avec l’Agence.
+> 1991, ch. 46, art. 455; 1997, ch. 15, art. 52; 2001, ch. 9, art. 120; 2007, ch. 6, art. 32.
 
 
 
@@ -9540,6 +9613,15 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 
 
+**Règlements : retenue des fonds**
+
+**458.2** Le gouverneur en conseil peut prendre des règlements concernant la période maximale pendant laquelle la banque peut, avant de permettre au titulaire du compte d’y avoir accès, retenir les fonds à l’égard des chèques ou autres effets qui appartiennent à des catégories qu’il précise et qui sont déposés à toute succursale ou tout point de service réglementaire au Canada.
+> 2007, ch. 6, art. 34.
+
+
+
+
+
 **Règlements**
 
 **459** Le gouverneur en conseil peut, par règlement :
@@ -9573,9 +9655,9 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 - **(4)** La banque peut exiger qu’un produit ou service obtenu par un emprunteur auprès d’une personne donnée en garantie d’un prêt qu’elle lui consent soit approuvé par elle. L’approbation ne peut être refusée sans justification.
 
-**Divulgation**
+**Communication**
 
-- **(4.1)** La banque communique à ses clients et au public l’interdiction visée au paragraphe (1) par déclaration, rédigée en langage simple, clair et concis, qu’elle affiche et met à leur disposition dans toutes ses succursales et dans tous ses points de service réglementaires au Canada.
+- **(4.1)** La banque communique à ses clients et au public l’interdiction visée au paragraphe (1) par déclaration, rédigée en langage simple, clair et concis, qu’elle affiche et met à leur disposition dans celles de ses succursales et sur ceux de ses sites Web où sont offerts des produits ou services au Canada et dans tous ses points de service réglementaires au Canada.
 
 **Règlements**
 
@@ -9584,7 +9666,7 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 **Règlements**
 
 - **(5)** Le gouverneur en conseil peut, par règlement, préciser des comportements qui constituent ou non l’exercice de pressions indues.
-> 1997, ch. 15, art. 55; 1999, ch. 28, art. 24.1(F); 2001, ch. 9, art. 124.
+> 1997, ch. 15, art. 55; 1999, ch. 28, art. 24.1(F); 2001, ch. 9, art. 124; 2007, ch. 6, art. 35.
 
 
 
@@ -9598,7 +9680,7 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **Réunion**
 
-- **(2)** Après la remise du préavis, mais avant la fermeture de la succursale ou la cessation d’activités, le commissaire peut, dans les cas prévus par règlement, exiger que la banque convoque et tienne une réunion de ses représentants et de ceux de l’Agence ainsi que de tout autre intéressé faisant partie de la collectivité locale en vue de discuter de la fermeture ou de la cessation d’activités visée.
+- **(2)** Après la remise du préavis, mais avant la fermeture de la succursale ou la cessation d’activités, le commissaire doit, dans les cas prévus par règlement, exiger de la banque qu’elle convoque et tienne une réunion de ses représentants et de ceux de l’Agence ainsi que de tout autre intéressé faisant partie de la collectivité locale en vue de discuter de la fermeture ou de la cessation d’activités visée, notamment des autres modes de prestation des services offerts par la banque et des mesures visant à aider les clients de la succursale à faire face à la fermeture ou à la cessation d’activités.
 
 **Règles de convocation**
 
@@ -9614,7 +9696,7 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 	- **a)** désigner le destinataire du préavis mentionné au paragraphe (1) et prévoir les renseignements qui doivent y figurer, ainsi que les modalités de temps et de forme de la communication de cet avis, lesquelles peuvent varier dans les cas précisés par règlement;
 	- **b)** prévoir les cas où la banque n’est pas tenue de donner le préavis visé au paragraphe (1) et les cas où le commissaire peut l’exempter de le donner, ainsi que ceux où le commissaire peut modifier les modalités de temps et de forme de la communication de l’avis prévues par règlement pris en vertu de l’alinéa a);
 	- **c)** prévoir, pour l’application du paragraphe (2), les cas où une réunion peut être convoquée.
-> 2001, ch. 9, art. 125.
+> 2001, ch. 9, art. 125; 2007, ch. 6, art. 36.
 
 
 
@@ -9654,10 +9736,10 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 	- **(i)** à leurs produits ou services, ou catégories réglementaires de ceux-ci,
 	- **(ii)** à leurs règles de conduite, procédures et pratiques ayant trait à la fourniture de ces produits ou services, ou catégories réglementaires de ceux-ci,
 	- **(iii)** aux interdictions ou obligations qui leur sont imposées aux termes d’une disposition visant les consommateurs,
-	- **(iv)** à toute autre question en ce qui touche leurs relations avec leurs clients ou le public;
+	- **(iv)** à toute autre question en ce qui touche leurs relations ou celles de leurs employés ou représentants avec leurs clients ou le public;
 - **b)** les modalités de temps, de lieu et de forme de la communication, ainsi que le destinataire de celle-ci;
 - **c)** le contenu et la forme de la publicité relative aux questions visées à l’alinéa a).
-> 2001, ch. 9, art. 125.
+> 2001, ch. 9, art. 125; 2007, ch. 6, art. 37.
 
 
 
@@ -9824,6 +9906,11 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 
 ***filiale réglementaire*** La filiale qui fait partie d’une catégorie de filiales prévue par règlement.
 
+***fonds d’investissement à capital fixe*** Entité dont l’activité se limite au placement de ses fonds de façon à offrir des services de diversification de placements et de gestion professionnelle aux détenteurs de ses titres et dont les titres : 
+- **a)** sont diffusés au public en nombre fixe dans le cadre d’une émission faite en vertu d’un prospectus provisoire, d’un prospectus, d’un prospectus simplifié ou d’un document de même nature, conformément aux lois d’une province ou d’un pays étranger;
+- **b)** sont négociés en bourse ou sur les marchés hors cote;
+- **c)** font l’objet, à une date d’échéance fixe, d’une liquidation dont le produit est réparti proportionnellement entre les détenteurs de titres.
+
  ou ***prêt*** ou ***emprunt*** Tout arrangement pour obtenir des fonds ou du crédit, à l’exception des placements dans les valeurs mobilières; y sont assimilés notamment l’acceptation et l’endossement ou autre garantie ainsi que le dépôt, le crédit-bail, le contrat de vente conditionnelle et la convention de rachat.
 
 ***véhicule à moteur*** Véhicule motorisé conçu pour être utilisé principalement sur la voie publique pour le transport de personnes ou de choses, à l’exclusion des :
@@ -9843,7 +9930,7 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 - **(3)** La présente partie ne s’applique pas :
 	- **a)** à la détention d’une sûreté sur un bien immeuble, sauf si celle-ci est considérée comme un intérêt immobilier au titre de l’alinéa 479a);
 	- **b)** à la détention d’une sûreté sur les titres d’une entité.
-> 1991, ch. 46, art. 464 et 603; 1993, ch. 34, art. 9(F); 1997, ch. 15, art. 56; 2001, ch. 9, art. 127.
+> 1991, ch. 46, art. 464 et 603; 1993, ch. 34, art. 9(F); 1997, ch. 15, art. 56; 2001, ch. 9, art. 127; 2007, ch. 6, art. 38.
 
 
 
@@ -9890,7 +9977,15 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 **Exception : fait involontaire**
 
 - **(5)** La banque est réputée ne pas contrevenir au paragraphe (1) quand elle acquiert le contrôle d’une entité ou acquiert ou augmente un intérêt de groupe financier dans une entité en raison uniquement d’un événement dont elle n’est pas maître.
-> 1991, ch. 46, art. 466; 1997, ch. 15, art. 57; 2001, ch. 9, art. 127.
+
+**Application d’une autre disposition**
+
+- **(6)** Malgré l’acquisition par elle du contrôle d’une entité ou d’un intérêt de groupe financier dans une entité au titre d’une disposition de la présente partie, la banque peut continuer à contrôler l’entité ou à détenir l’intérêt de groupe financier comme si elle avait procédé à l’acquisition au titre d’une autre disposition de la présente partie, pourvu que les conditions prévues à cette autre disposition soient respectées.
+
+**Assimilation**
+
+- **(7)** Si elle décide d’exercer le pouvoir prévu au paragraphe (6), la banque est réputée acquérir le contrôle ou l’intérêt de groupe financier au titre de l’autre disposition.
+> 1991, ch. 46, art. 466; 1997, ch. 15, art. 57; 2001, ch. 9, art. 127; 2007, ch. 6, art. 39.
 
 
 
@@ -9917,7 +10012,7 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 
 **468** 
 
-- **(1)** Sous réserve des paragraphes (4) à (6) et de la partie XI, la banque peut acquérir le contrôle des entités suivantes ou acquérir ou augmenter un intérêt de groupe financier dans ces entités :
+- **(1)** Sous réserve des paragraphes (4) à (6) et de la partie XI, la banque peut acquérir le contrôle des entités suivantes ou acquérir ou augmenter un intérêt de groupe financier dans ces entités :
 	- **a)** une banque;
 	- **b)** une société de portefeuille bancaire;
 	- **c)** une personne morale régie par la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md);
@@ -9927,62 +10022,73 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 	- **g)** une société de fiducie, de prêt ou d’assurances constituée en personne morale ou formée sous le régime d’une loi provinciale;
 	- **h)** une société coopérative de crédit constituée en personne morale ou formée et réglementée sous le régime d’une loi provinciale;
 	- **i)** une entité constituée en personne morale ou formée sous le régime d’une loi fédérale ou provinciale et dont l’activité principale est le commerce des valeurs mobilières;
-	- **j)** une entité qui est constituée en personne morale ou formée et réglementée autrement que sous le régime d’une loi fédérale ou provinciale et qui exerce principalement, à l’étranger, des activités qui, au Canada, seraient des opérations bancaires, l’activité d’une société coopérative de crédit, l’assurance, la prestation de services fiduciaires ou le commerce de valeurs mobilières.
+	- **j)** une entité qui est constituée en personne morale ou formée et réglementée autrement que sous le régime d’une loi fédérale ou provinciale et qui exerce principalement, à l’étranger, des activités commerciales qui, au Canada, seraient des opérations bancaires, l’activité d’une société coopérative de crédit, des opérations d’assurance, la prestation de services fiduciaires ou le commerce de valeurs mobilières.
 
 **Placements autorisés**
 
-- **(2)** Sous réserve des paragraphes (3) à (6) et de la partie XI, la banque peut acquérir le contrôle d’une entité, autre qu’une entité visée aux alinéas (1)a) à j), dont l’activité commerciale se limite à une ou plusieurs des activités suivantes ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité :
+- **(2)** Sous réserve des paragraphes (3) à (6) et de la partie XI, la banque peut acquérir le contrôle d’une entité, autre qu’une entité visée aux alinéas (1)a) à j), dont l’activité commerciale se limite à une ou plusieurs des activités suivantes ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité :
 	- **a)** la prestation de services financiers qu’une banque est autorisée à fournir dans le cadre des alinéas 409(2)a) à d) ou toute autre activité qu’une banque est autorisée à exercer dans le cadre des articles 410 ou 411;
 	- **b)** la détention et l’acquisition d’actions ou d’autres titres de participation dans des entités dans lesquelles une banque est autorisée, dans le cadre de la présente partie, à acquérir ou détenir de tels actions ou titres;
-	- **c)** la prestation de services aux seules entités suivantes — à la condition qu’ils soient aussi fournis à la banque elle-même ou à un membre de son groupe :
+	- **c)** la prestation de services aux seules entités suivantes — à la condition qu’ils soient aussi fournis à la banque elle-même ou à un membre de son groupe :
 		- **(i)** la banque elle-même,
 		- **(ii)** un membre de son groupe,
 		- **(iii)** une entité dont l’activité commerciale principale consiste en la prestation de services financiers,
 		- **(iv)** une entité admissible dans laquelle une entité visée au sous-alinéa (iii) a un intérêt de groupe financier,
 		- **(v)** une personne visée par règlement — pourvu que la prestation se fasse selon les modalités éventuellement fixées par règlement;
-	- **d)** toute activité qu’une banque peut exercer, autre qu’une activité visée aux alinéas a) ou e), se rapportant :
+	- **d)** toute activité qu’une banque peut exercer, autre qu’une activité visée aux alinéas a) ou e), se rapportant :
 		- **(i)** soit à la vente, la promotion, la livraison ou la distribution d’un service ou d’un produit financiers fournis par la banque ou un membre de son groupe,
 		- **(ii)** soit, si l’activité commerciale de l’entité consiste, en grande partie, en une activité visée au sous-alinéa (i), à la vente, la promotion, la livraison ou la distribution d’un service ou d’un produit financiers d’une entité dont l’activité commerciale principale consiste en la prestation de services financiers;
-	- **e)** les activités visées aux définitions de « entité s’occupant de fonds mutuels », « courtier de fonds mutuels » ou « courtier immobilier » au paragraphe 464(1);
+	- **e)** les activités visées aux définitions de ***courtier de fonds mutuels***, ***courtier immobilier***, ***entité s’occupant de fonds mutuels*** ou ***fonds d’investissement à capital fixe*** au paragraphe 464(1);
 	- **f)** les activités prévues par règlement, pourvu qu’elles s’exercent selon les modalités éventuellement fixées par règlement.
 
 **Restriction**
 
-- **(3)** La banque ne peut acquérir le contrôle d’une entité dont l’activité commerciale comporte une activité visée aux alinéas (2)a) à e), ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité, si l’entité accepte des dépôts dans le cadre de son activité commerciale ou si les activités de l’entité comportent :
+- **(3)** La banque ne peut acquérir le contrôle d’une entité dont l’activité commerciale comporte une activité visée aux alinéas (2)a) à e), ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité, si l’entité accepte des dépôts dans le cadre de son activité commerciale ou si les activités de l’entité comportent :
 	- **a)** des activités que la banque est empêchée d’exercer par les articles 412, 417 et 418;
 	- **b)** le commerce des valeurs mobilières, sauf dans la mesure où elle peut le faire dans le cadre de l’alinéa (2)e) ou une banque peut le faire dans le cadre de l’alinéa 409(2)c);
 	- **c)** dans les cas où l’entité exerce les activités d’une entité s’occupant de financement ou d’une autre entité visée par règlement, des activités que la banque est empêchée d’exercer par l’article 416;
-	- **d)** l’acquisition du contrôle d’une autre entité, ou l’acquisition ou la détention d’un intérêt de groupe financier dans celle-ci, sauf si :
+	- **d)** l’acquisition du contrôle d’une autre entité, ou l’acquisition ou la détention d’un intérêt de groupe financier dans celle-ci, sauf si :
 		- **(i)** dans le cas où l’entité est contrôlée par la banque, l’acquisition par la banque elle-même d’un intérêt de groupe financier dans l’autre entité serait permise aux termes de la présente partie,
 		- **(ii)** dans le cas où l’entité n’est pas contrôlée par la banque, l’acquisition par la banque elle-même d’un intérêt de groupe financier dans l’autre entité serait permise aux termes des paragraphes (1) ou (2) ou 466(2), des alinéas 466(3)b) ou c) ou du paragraphe 466(4);
 	- **e)** des activités prévues par règlement.
 
+**Exception**
+
+- **(3.1)** Malgré l’alinéa (3)a), la banque peut acquérir le contrôle d’une entité qui exerce des activités de fiduciaire et y est autorisée par les lois d’une province ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité si celle-ci est, selon le cas :
+	- **a)** un fonds d’investissement à capital fixe;
+	- **b)** une entité s’occupant de fonds mutuels;
+	- **c)** une entité dont l’activité commerciale est limitée à l’une ou l’autre des activités suivantes :
+		- **(i)** les activités d’un courtier de fonds mutuels,
+		- **(ii)** les services qu’une banque est autorisée à fournir dans le cadre de l’alinéa 410(1)c.2),
+		- **(iii)** la prestation de services de conseil en placement et de gestion de portefeuille.
+
 **Contrôle**
 
-- **(4)** Sous réserve du paragraphe (8) et des règlements, les règles suivantes s’appliquent à l’acquisition par la banque du contrôle des entités suivantes et à l’acquisition ou à l’augmentation par elle d’un intérêt de groupe financier dans ces entités :
-	- **a)** s’agissant d’une entité visée aux alinéas (1)a) ou b), elle ne peut le faire que si :
+- **(4)** Sous réserve du paragraphe (8) et des règlements, les règles suivantes s’appliquent à l’acquisition par la banque du contrôle des entités suivantes et à l’acquisition ou à l’augmentation par elle d’un intérêt de groupe financier dans ces entités :
+	- **a)** s’agissant d’une entité visée aux alinéas (1)a) ou b), elle ne peut le faire que si :
 		- **(i)** soit elle la contrôle ou en acquiert de la sorte le contrôle, au sens des alinéas 3(1)a) et d),
 		- **(ii)** soit elle est autorisée par règlement pris en vertu de l’alinéa 474a) à acquérir ou augmenter l’intérêt;
-	- **b)** s’agissant d’une entité visée aux alinéas (1)c) à j), elle ne peut le faire que si :
+	- **b)** s’agissant d’une entité visée aux alinéas (1)c) à j), elle ne peut le faire que si :
 		- **(i)** soit elle la contrôle ou en acquiert de la sorte le contrôle, au sens de l’alinéa 3(1)d),
 		- **(ii)** soit elle est autorisée par règlement pris en vertu de l’alinéa 474a) à acquérir ou augmenter l’intérêt;
-	- **c)** s’agissant d’une entité qui exerce une activité visée à l’alinéa (2)a) et qui exerce, dans le cadre de son activité commerciale, des activités d’intermédiaire financier comportant des risques importants de crédit ou de marché, notamment une entité s’occupant d’affacturage, une entité s’occupant de crédit-bail ou une entité s’occupant de financement, elle ne peut le faire que si :
+	- **c)** s’agissant d’une entité dont l’activité commerciale comporte une activité visée à l’alinéa (2)a) et qui exerce, dans le cadre de son activité commerciale, des activités d’intermédiaire financier comportant des risques importants de crédit ou de marché, notamment une entité s’occupant d’affacturage, une entité s’occupant de crédit-bail ou une entité s’occupant de financement, elle ne peut le faire que si :
 		- **(i)** soit elle la contrôle ou en acquiert de la sorte le contrôle, au sens de l’alinéa 3(1)d),
 		- **(ii)** soit elle est autorisée par règlement pris en vertu de l’alinéa 474a) à acquérir ou augmenter l’intérêt;
-	- **d)** s’agissant d’une entité qui exerce une activité visée à l’alinéa (2)b), y compris une entité s’occupant de financement spécial, elle ne peut le faire que si :
+	- **d)** s’agissant d’une entité dont l’activité commerciale comporte une activité visée à l’alinéa (2)b), y compris une entité s’occupant de financement spécial, elle ne peut le faire que si :
 		- **(i)** soit elle la contrôle ou en acquiert de la sorte le contrôle, au sens de l’alinéa 3(1)d),
 		- **(ii)** soit elle est autorisée par règlement pris en vertu de l’alinéa 474a) à acquérir ou augmenter l’intérêt,
 		- **(iii)** soit, sous réserve des modalités éventuellement fixées par règlement, les activités de l’entité ne comportent pas l’acquisition ou la détention du contrôle d’une entité visée à l’un ou l’autre des alinéas a) à c) ou d’une entité qui n’est pas une entité admissible, ni d’actions ou de titres de participation dans celle-ci.
 
 **Agrément du ministre**
 
-- **(5)** Sous réserve des règlements, la banque ne peut, sans avoir obtenu au préalable l’agrément écrit du ministre :
+- **(5)** Sous réserve des règlements, la banque ne peut, sans avoir obtenu au préalable l’agrément écrit du ministre :
 	- **a)** acquérir auprès d’une personne qui n’est pas un membre de son groupe le contrôle d’une entité visée aux alinéas (1)g) à i);
-	- **b)** acquérir, auprès d’une entité visée aux alinéas (1)a) à f) qui n’est pas un membre de son groupe, le contrôle d’une entité visée à l’alinéa (1)j) ou (4)c), autre qu’une entité dont les activités se limitent aux activités qu’exercent les entités suivantes :
+	- **b)** acquérir, auprès d’une entité visée aux alinéas (1)a) à f) qui n’est pas un membre de son groupe, le contrôle d’une entité visée à l’alinéa (1)j) ou (4)c), autre qu’une entité dont les activités se limitent aux activités qu’exercent les entités suivantes :
 		- **(i)** une entité s’occupant d’affacturage,
 		- **(ii)** une entité s’occupant de crédit-bail;
 	- **c)** acquérir le contrôle d’une entité dont l’activité commerciale comporte des activités visées à l’alinéa (2)d) ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité;
-	- **d)** acquérir le contrôle d’une entité qui exerce des activités visées aux alinéas 410(1)c) ou c.1) ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité;
+	- **d)** acquérir le contrôle d’une entité qui exerce au Canada des activités visées à l’alinéa 410(1)c) ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité;
+	- **d.1)** acquérir le contrôle d’une entité qui exerce des activités visées à l’alinéa 410(1)c.1) ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité;
 	- **e)** acquérir le contrôle d’une entité qui exerce des activités prévues par règlement d’application de l’alinéa (2)f) ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité.
 
 **Agrément du surintendant**
@@ -9991,8 +10097,8 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 
 **Exception**
 
-- **(7)** Le paragraphe (6) ne s’applique pas à une opération dans l’un ou l’autre des cas suivants :
-	- **a)** l’entité dont le contrôle est acquis exerce une activité visée à l’alinéa (2)b) mais n’est pas une entité s’occupant de financement spécial;
+- **(7)** Le paragraphe (6) ne s’applique pas à une opération dans l’un ou l’autre des cas suivants :
+	- **a)** l’entité dont le contrôle est acquis n’est pas une entité s’occupant de financement spécial et le seul motif pour lequel l’agrément serait exigé, n’eût été le présent paragraphe, est l’exercice par elle d’une activité visée à l’alinéa (2)b);
 	- **b)** les activités de l’entité dont le contrôle est acquis se limitent aux activités qu’exercent une entité s’occupant d’affacturage ou une entité s’occupant de crédit-bail;
 	- **c)** le ministre a agréé l’opération dans le cadre du paragraphe (5) ou il est réputé l’avoir agréée dans le cadre du paragraphe 469(1).
 
@@ -10010,14 +10116,14 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 
 **Aliénation d’actions**
 
-- **(11)** La banque qui contrôle une entité en vertu du paragraphe (4) peut, avec l’agrément préalable du surintendant donné par écrit, se départir du contrôle tout en maintenant dans celle-ci un intérêt de groupe financier si :
+- **(11)** La banque qui contrôle une entité en vertu du paragraphe (4) peut, avec l’agrément préalable du surintendant donné par écrit, se départir du contrôle tout en maintenant dans celle-ci un intérêt de groupe financier si :
 	- **a)** soit elle-même y est autorisée par règlement pris en vertu de l’alinéa 474c);
 	- **b)** soit l’entité remplit les conditions visées au sous-alinéa (4)d)(iii).
 
 **Présomption d’agrément**
 
 - **(12)** Si la banque contrôle, au sens des alinéas 3(1)a), b) ou c), une entité, les paragraphes (5) et (6) ne s’appliquent pas aux augmentations postérieures par la banque de son intérêt de groupe financier dans l’entité tant qu’elle continue de la contrôler.
-> 1991, ch. 46, art. 468; 1997, ch. 15, art. 58; 1999, ch. 28, art. 26; 2001, ch. 9, art. 127.
+> 1991, ch. 46, art. 468; 1997, ch. 15, art. 58; 1999, ch. 28, art. 26; 2001, ch. 9, art. 127; 2007, ch. 6, art. 40 et 134(F).
 
 
 
@@ -10083,14 +10189,14 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 
 **Placement provisoire**
 
-- **(4)** La banque qui, au moyen d’un placement provisoire, acquiert le contrôle ou acquiert ou augmente un intérêt de groupe financier dans un cas où l’agrément du ministre est requis dans le cadre du paragraphe 468(5) doit, dans les quatre-vingt-dix jours qui suivent l’acquisition :
-	- **a)** soit demander l’agrément du ministre pour continuer à détenir le contrôle ou l’intérêt pour la période précisée par le ministre ou pour une période indéterminée, aux conditions que celui-ci estime indiquées;
+- **(4)** La banque qui, au moyen d’un placement provisoire, acquiert le contrôle ou acquiert ou augmente un intérêt de groupe financier dans un cas où l’agrément du ministre aurait été requis dans le cadre du paragraphe 468(5) si le contrôle avait été acquis ou l’intérêt de groupe financier acquis ou augmenté au titre de l’article 468 doit, dans les quatre-vingt-dix jours qui suivent l’acquisition :
+	- **a)** soit demander l’agrément du ministre pour continuer à détenir le contrôle ou l’intérêt pour la période précisée par le ministre ou pour une période indéterminée, aux conditions que celui-ci estime appropriées;
 	- **b)** soit prendre les mesures nécessaires pour éliminer le contrôle ou ne plus détenir un intérêt de groupe financier à l’expiration des quatre-vingt-dix jours.
 
 **Placement provisoire**
 
-- **(5)** Si la banque, au moyen d’un placement provisoire, acquiert le contrôle ou acquiert ou augmente un intérêt de groupe financier dans un cas où l’agrément du surintendant est requis dans le cadre du paragraphe 468(6), le surintendant peut, sur demande, autoriser la banque à conserver le contrôle de l’entité ou l’intérêt de groupe financier pour une période indéterminée, aux conditions qu’il estime indiquées.
-> 1991, ch. 46, art. 471; 2001, ch. 9, art. 127.
+- **(5)** Si la banque, au moyen d’un placement provisoire, acquiert le contrôle ou acquiert ou augmente un intérêt de groupe financier dans un cas où l’agrément du surintendant aurait été requis dans le cadre du paragraphe 468(6) si le contrôle avait été acquis ou l’intérêt de groupe financier acquis ou augmenté au titre de l’article 468, le surintendant peut, sur demande, autoriser la banque à conserver le contrôle de l’entité ou l’intérêt de groupe financier pour une période indéterminée, aux conditions qu’il estime appropriées.
+> 1991, ch. 46, art. 471; 2001, ch. 9, art. 127; 2007, ch. 6, art. 41.
 
 
 
@@ -10100,11 +10206,12 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 
 **472** 
 
-- **(1)** Par dérogation aux autres dispositions de la présente partie, lorsqu’elle ou une de ses filiales ont consenti un prêt à une entité et que s’est produit un défaut prévu dans l’accord conclu entre la banque ou sa filiale et l’entité relativement au prêt et aux autres documents en fixant les modalités, la banque peut acquérir, selon le cas :
+- **(1)** Par dérogation aux autres dispositions de la présente partie, lorsqu’elle ou une de ses filiales ont consenti un prêt à une entité et que s’est produit un défaut prévu dans l’accord conclu entre la banque ou sa filiale et l’entité relativement au prêt et aux autres documents en fixant les modalités, la banque peut acquérir, selon le cas :
 	- **a)** si l’entité est une personne morale, tout ou partie de ses actions;
 	- **b)** si elle est une entité non constituée en personne morale, tout ou partie de ses titres de participation;
 	- **c)** tout ou partie des actions ou des titres de participation des entités qui sont du même groupe — au sens de l’article 2 — que l’entité en question;
-	- **d)** tout ou partie des actions de la personne morale dont l’activité principale est de détenir des actions ou des titres de participation de l’entité ou des entités de son groupe — au sens de l’article 2 — , ou des éléments d’actif acquis de ces dernières.
+	- **d)** tout ou partie des actions de la personne morale dont l’activité principale est de détenir des actions ou des titres de participation de l’entité ou des entités de son groupe — au sens de l’article 2 — , ou des éléments d’actif acquis de ces dernières;
+	- **e)** tout ou partie des titres de participation d’une entité dont l’activité principale consiste à détenir des actions ou des titres de participation de l’entité ou des entités de son groupe ou des éléments d’actif acquis de ces dernières.
 
 **Obligation d’éliminer l’intérêt**
 
@@ -10118,7 +10225,7 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 
 - **(4)** Le surintendant peut, sur demande, accorder à une banque une ou plusieurs prolongations du délai prévu aux paragraphes (2) ou (3) de la durée et aux conditions qu’il estime indiquées.
 
-**Exception : entités contrôlées par un gouvernement étranger**
+**Exception : entités contrôlées par un gouvernement étranger**
 
 - **(5)** Par dérogation aux autres dispositions de la présente partie, lorsqu’elle a consenti un prêt à un gouvernement d’un pays étranger ou à une entité contrôlée par celui-ci, ou qu’elle détient un titre de créance d’un tel gouvernement ou d’une telle entité, et que s’est produit un défaut prévu dans l’accord conclu entre eux relativement au prêt ou au titre de créance et aux autres documents en fixant les modalités, la banque peut acquérir tout ou partie des actions ou titres de participation de l’entité ou de toute autre entité désignée par ce gouvernement si l’acquisition fait partie d’un programme de réaménagement de la dette publique du même gouvernement.
 
@@ -10129,7 +10236,7 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 **Exception**
 
 - **(7)** La banque qui, dans le cadre du paragraphe (1), acquiert le contrôle d’une entité qu’elle serait par ailleurs autorisée à acquérir en vertu de l’article 468 ou acquiert ou augmente un intérêt de groupe financier qu’elle serait par ailleurs autorisée à acquérir ou augmenter en vertu de cet article peut continuer à détenir le contrôle ou l’intérêt pour une période indéterminée si elle obtient l’agrément écrit du ministre avant l’expiration du délai prévu aux paragraphes (2) ou (3) et prolongé, le cas échéant, aux termes du paragraphe (4).
-> 1991, ch. 46, art. 472; 1997, ch. 15, art. 59; 2001, ch. 9, art. 127.
+> 1991, ch. 46, art. 472; 1997, ch. 15, art. 59; 2001, ch. 9, art. 127; 2007, ch. 6, art. 42.
 
 
 
@@ -10308,7 +10415,7 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 
 **482** 
 
-- **(1)** Il est interdit à la banque — et celle-ci doit l’interdire à ses filiales — sans l’agrément du surintendant, d’acquérir des éléments d’actif auprès d’une personne ou de céder des éléments d’actif à une personne si :
+- **(1)** Il est interdit à la banque — et celle-ci doit l’interdire à ses filiales — sans l’agrément du surintendant, d’acquérir des éléments d’actif auprès d’une personne ou de céder des éléments d’actif à une personne si :
 ```
 A + B > C
 ```
@@ -10317,15 +10424,19 @@ où :
 - **B** la valeur de tous les éléments d’actif que la banque et ses filiales ont acquis auprès de cette personne ou cédés à celle-ci pendant la période de douze mois précédant la date d’acquisition ou de cession;
 - **C** dix pour cent de la valeur totale de l’actif de la banque figurant dans le dernier rapport annuel établi avant la date d’acquisition ou de cession.
 
+**Agrément dans le cadre d’une ou de plusieurs opérations**
+
+- **(1.1)** Le surintendant peut, pour l’application du paragraphe (1), agréer une opération ou une série d’opérations liée à l’acquisition ou à la cession d’éléments d’actif pouvant être conclue avec une personne ou avec plusieurs personnes faisant partie d’une catégorie déterminée, qu’elles soient connues ou non au moment de l’octroi de l’agrément.
+
 **Exception**
 
-- **(2)** Cette interdiction ne s’applique toutefois pas :
-	- **a)** aux éléments d’actif qui consistent en titres de créance :
+- **(2)** Le paragraphe (1) ne s’applique pas :
+	- **a)** aux éléments d’actif qui consistent en titres de créance :
 		- **(i)** soit garantis par une institution financière, sauf la banque,
 		- **(ii)** soit pleinement garantis par des dépôts auprès d’une institution financière, y compris la banque,
 		- **(iii)** soit pleinement garantis par des titres de créance garantis par une institution financière, sauf la banque;
-	- **b)** aux éléments d’actif qui consistent en titres de créance émis :
-		- **(i)** par les entités suivantes, ou un de leurs organismes :
+	- **b)** aux éléments d’actif qui consistent en titres de créance émis :
+		- **(i)** par les entités suivantes, ou un de leurs organismes :
 			- **(A)** le gouvernement du Canada,
 			- **(B)** le gouvernement d’une province,
 			- **(C)** une municipalité,
@@ -10334,29 +10445,29 @@ où :
 	- **c)** aux éléments d’actif qui consistent en titres de créance garantis par un gouvernement, une municipalité ou un organisme visé à l’alinéa b) ou pleinement garantis par des titres émis par eux;
 	- **d)** aux éléments d’actif qui consistent en titres de créance qui sont largement distribués, au sens des règlements;
 	- **e)** aux éléments d’actif qui consistent en titres de créance d’une entité contrôlée par la banque;
-	- **f)** aux opérations ou séries d’opérations intervenues entre la banque et une autre institution financière à la suite de la participation de la banque et de l’institution à la syndication de prêts.
+	- **f)** aux éléments d’actif acquis ou cédés dans le cadre d’une opération ou d’une série d’opérations intervenue entre la banque et une autre institution financière à la suite de la participation de la banque et de l’institution à la syndication de prêts;
+	- **g)** aux éléments d’actif achetés ou vendus dans le cadre d’une convention de vente approuvée par le ministre en vertu de l’article 236;
+	- **h)** aux actions ou aux titres de participation d’une entité dans un cas où l’agrément du ministre est requis dans le cadre de la partie VII ou du paragraphe 468(5) ou dans un cas où l’agrément du surintendant est requis dans le cadre du paragraphe 468(6);
+	- **i)** aux éléments d’actif acquis ou cédés dans le cadre d’une opération approuvée par le ministre en vertu du paragraphe 678(1) de la présente loi ou du paragraphe 715(1) de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md);
+	- **j)** aux éléments d’actif, autres que des biens immeubles, acquis ou aliénés conformément à des arrangements approuvés par le surintendant dans le cadre du paragraphe 494(3);
+	- **k)** aux éléments d’actif acquis ou aliénés avec l’agrément du surintendant dans le cadre du paragraphe 494(4).
 
-**Exception**
-
-- **(3)** L’agrément du surintendant n’est pas nécessaire dans l’un ou l’autre des cas suivants :
-	- **a)** la vente des éléments d’actif se fait dans le cadre d’une convention de vente approuvée par le ministre en vertu de l’article 236;
-	- **b)** la banque ou l’une de ses filiales acquiert les actions ou des titres de participation d’une entité dans un cas où l’agrément du ministre est requis dans le cadre de la partie VII ou du paragraphe 468(5) ou dans un cas où l’agrément du surintendant est requis dans le cadre du paragraphe 468(6);
-	- **c)** l’opération a été approuvée par le ministre dans le cadre du paragraphe 678(1) de la présente loi ou du paragraphe 715(1) de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md).
+- **(3)** [Abrogé, 2007, ch. 6, art. 43]
 
 **Calcul de la valeur des éléments d’actif**
 
-- **(4)** Pour le calcul de l’élément A de la formule figurant au paragraphe (1), la valeur des éléments d’actif est :
+- **(4)** Pour le calcul de l’élément A de la formule figurant au paragraphe (1), la valeur des éléments d’actif est :
 	- **a)** dans le cas où les éléments sont acquis, leur prix d’achat ou, s’il s’agit d’actions ou de titres de participation d’une entité dont les éléments d’actif figureront au rapport annuel de la banque après l’acquisition, la juste valeur marchande de ces éléments d’actif;
-	- **b)** dans le cas où les éléments sont cédés, la valeur comptable des éléments figurant au dernier rapport annuel de la banque établi avant la date de cession ou, s’il s’agit d’actions ou de titres de participation d’une entité dont les éléments d’actif figuraient au dernier rapport annuel établi avant la date de cession, la valeur des éléments figurant dans le rapport annuel.
+	- **b)** dans le cas où les éléments sont cédés, la valeur des éléments qui est visée au dernier rapport annuel de la banque établi avant la cession ou, si la valeur n’est pas visée à ce rapport, la valeur qui serait visée au dernier rapport si celui-ci avait été établi avant la cession selon les principes comptables visés au paragraphe 308(4).
 
-**Sens de « valeur de tous les éléments d’actif »**
+**Sens de valeur de tous les éléments d’actif**
 
 - **(5)** Pour l’application du paragraphe (1), la valeur de tous les éléments d’actif acquis par une banque et ses filiales au cours de la période de douze mois visée au paragraphe (1) est leur prix d’achat ou, s’il s’agit d’actions ou de titres de participation d’une entité dont les éléments d’actif figureront au rapport annuel de la banque après l’acquisition, la juste valeur marchande de ces éléments d’actif à la date d’acquisition.
 
-**Sens de « valeur de tous les éléments d’actif »**
+**Valeur de tous les éléments d’actif**
 
-- **(6)** Pour l’application du paragraphe (1), la valeur de tous les éléments d’actif cédés par une banque et ses filiales au cours de la période de douze mois visée au paragraphe (1) est la valeur comptable des éléments figurant au dernier rapport annuel de la banque établi avant la date de cession ou, s’il s’agit d’actions ou de titres de participation d’une entité dont les éléments d’actif figuraient au dernier rapport annuel établi avant la date de cession, la valeur des éléments de l’entité figurant dans le rapport annuel.
-> 1991, ch. 46, art. 482; 1997, ch. 15, art. 66; 2001, ch. 9, art. 127.
+- **(6)** Pour l’application du paragraphe (1), la valeur de tous les éléments d’actif cédés par une banque et ses filiales au cours de la période de douze mois visée au paragraphe (1) est le total de la valeur de chacun de ces éléments qui est visée au dernier rapport annuel de la banque établi avant la cession de l’élément ou, si elle n’est pas visée à ce rapport, qui serait visée au dernier rapport si celui-ci avait été établi avant la cession selon les principes comptables visés au paragraphe 308(4).
+> 1991, ch. 46, art. 482; 1997, ch. 15, art. 66; 2001, ch. 9, art. 127; 2007, ch. 6, art. 43.
 
 
 
@@ -10530,11 +10641,11 @@ cependant, après cette date, le montant du prêt ou du placement qui se trouve 
 
 
 
-**Sens de « opération »**
+**Sens de opération**
 
 **488** 
 
-- **(1)** Pour l’application de la présente partie, sont assimilés à une opération avec un apparenté :
+- **(1)** Pour l’application de la présente partie, sont assimilés à une opération avec un apparenté :
 	- **a)** la garantie consentie en son nom;
 	- **b)** le placement effectué dans ses valeurs mobilières;
 	- **c)** l’acquisition, notamment par cession, d’un prêt consenti à celui-ci par un tiers;
@@ -10544,9 +10655,15 @@ cependant, après cette date, le montant du prêt ou du placement qui se trouve 
 
 - **(2)** Pour l’application de la présente partie, l’exécution d’une obligation liée à une opération, y compris le paiement d’intérêts sur un prêt ou un dépôt, fait partie de celle-ci et ne constitue pas une opération distincte.
 
-**Sens de « prêt »**
+**Sens de prêt**
 
 - **(3)** Pour l’application de la présente partie, sont assimilés à un prêt, le dépôt, le crédit-bail, le contrat de vente conditionnelle, la convention de rachat et toute autre entente similaire en vue d’obtenir des fonds ou du crédit, à l’exception du placement dans des valeurs mobilières et de la signature d’une acceptation, d’un endossement ou d’une autre garantie.
+
+**Titre ou valeur mobilière d’un apparenté**
+
+- **(4)** Pour l’application de la présente partie, est assimilée à un titre ou à une valeur mobilière d’un apparenté une option négociable par tradition ou transfert qui permet d’exiger la livraison d’un nombre précis d’actions à un prix et dans un délai déterminés.
+> 1991, ch. 46, art. 488; 2007, ch. 6, art. 44.
+
 
 
 
@@ -10618,7 +10735,7 @@ cependant, après cette date, le montant du prêt ou du placement qui se trouve 
 
 **Vente d’éléments d’actif**
 
-- **(2)** Sous réserve de l’article 482, la banque peut vendre des éléments d’actif à un apparenté dans les cas suivants :
+- **(2)** Sous réserve de l’article 482, la banque peut vendre des éléments d’actif à un apparenté dans les cas suivants :
 	- **a)** la contrepartie est entièrement payée en argent;
 	- **b)** il existe pour ces éléments d’actif un marché actif.
 
@@ -10632,9 +10749,15 @@ cependant, après cette date, le montant du prêt ou du placement qui se trouve 
 
 **Location de produits ou locaux**
 
-- **(5)** Si la contrepartie est payée en argent, la banque peut :
+- **(5)** Si la contrepartie est payée en argent, la banque peut :
 	- **a)** soit prendre à bail d’un apparenté des éléments d’actif qu’elle utilise dans le cadre normal de son activité commerciale;
 	- **b)** soit lui donner à bail des éléments d’actif.
+
+**Approbation : article 236**
+
+- **(6)** Une banque peut acquérir des éléments d’actif d’un apparenté ou les aliéner en sa faveur dans le cadre d’une convention de vente approuvée par le ministre en vertu de l’article 236.
+> 1991, ch. 46, art. 494; 2007, ch. 6, art. 45.
+
 
 
 
@@ -10643,10 +10766,10 @@ cependant, après cette date, le montant du prêt ou du placement qui se trouve 
 
 **495** 
 
-- **(1)** Est également permise toute opération entre la banque et un apparenté qui consiste en :
+- **(1)** Est également permise toute opération entre la banque et un apparenté qui consiste en :
 	- **a)** un contrat écrit pour l’achat par elle de services utilisés dans le cadre normal de son activité commerciale, sous réserve du paragraphe (2);
 	- **b)** sous réserve du paragraphe (4), la prestation de services habituellement offerts au public par la banque dans le cadre normal de son activité commerciale;
-	- **c)** un contrat écrit avec une institution financière ou une entité dans laquelle elle est autorisée à détenir un intérêt de groupe financier en vertu de l’article 468 en vue :
+	- **c)** un contrat écrit avec une institution financière ou une entité dans laquelle elle est autorisée à détenir un intérêt de groupe financier en vertu de l’article 468 en vue :
 		- **(i)** d’offrir le réseau des services fournis par la banque ou l’institution financière ou l’entité,
 		- **(ii)** du renvoi d’une personne soit par la banque à l’institution financière ou à l’entité, soit par l’institution financière ou l’entité à la banque;
 	- **d)** un contrat écrit en vue de régimes de retraite ou d’autres avantages liés aux fonctions d’administrateur ou à l’emploi des dirigeants et employés de la banque et de ses filiales, ainsi que de leur gestion ou mise en oeuvre;
@@ -10656,14 +10779,14 @@ cependant, après cette date, le montant du prêt ou du placement qui se trouve 
 
 - **(2)** Si la banque a conclu un contrat conformément à l’alinéa (1)a) et que le contrat a pour effet, compte tenu de tous les autres contrats conclus par elle, de confier la totalité ou quasi-totalité des responsabilités de gestion de la banque à des personnes qui n’en sont pas des employés, le surintendant peut, par ordonnance, s’il juge la situation inacceptable enjoindre à la banque de prendre, dans le délai et selon les modalités qui y sont prévus, toutes les mesures nécessaires pour que les responsabilités de gestion essentielles au fonctionnement de la banque soient assumées par des employés de celle-ci.
 
-**Société de services**
+**Exception**
 
-- **(3)** Par dérogation au paragraphe 489(2), la banque est réputée ne pas avoir effectué indirectement une opération visée par la présente partie si l’opération est effectuée par une société de services, au sens du paragraphe 464(1), contrôlée par la banque et que l’opération a été effectuée à des conditions au moins aussi favorables pour la banque que les conditions du marché au sens du paragraphe 501(2).
+- **(3)** Par dérogation au paragraphe 489(2), la banque est réputée ne pas avoir effectué indirectement une opération visée par la présente partie si l’opération est effectuée par une entité qui est contrôlée par la banque et dont l’activité commerciale se limite à l’activité visée à l’alinéa 468(2)c), et que l’opération a été effectuée à des conditions au moins aussi favorables pour la banque que les conditions du marché au sens du paragraphe 501(2).
 
 **Services**
 
 - **(4)** Pour l’application de l’alinéa (1)b), sont exclues de la prestation de services les opérations de prêt ou de garantie.
-> 1991, ch. 46, art. 495; 1997, ch. 15, art. 70.
+> 1991, ch. 46, art. 495; 1997, ch. 15, art. 70; 2007, ch. 6, art. 46.
 
 
 
@@ -10711,13 +10834,13 @@ cependant, après cette date, le montant du prêt ou du placement qui se trouve 
 
 **495.3** 
 
-- **(1)** Malgré le paragraphe 494(3), il est interdit à la banque, sans l’agrément du surintendant et de son comité de révision, d’acquérir directement ou indirectement des éléments d’actif auprès d’un apparenté avec lequel le paragraphe 495.1(1) l’autorise à effectuer une opération mais qui n’est pas une institution financière fédérale ou de céder directement ou indirectement des éléments d’actif à cet apparenté si :
+- **(1)** Malgré le paragraphe 494(3), il est interdit à la banque, sans l’agrément du surintendant et de son comité de révision, d’acquérir directement ou indirectement des éléments d’actif auprès d’un apparenté avec lequel le paragraphe 495.1(1) l’autorise à effectuer une opération mais qui n’est pas une institution financière fédérale ou de céder directement ou indirectement des éléments d’actif à cet apparenté si :
 ```
 A + B > C
 ```
 où :
 - **A** représente la valeur des éléments d’actif;
-- **B** la valeur de tous les éléments d’actif que la banque a acquis auprès de cet apparenté ou cédés à celui-ci pendant la période de douze mois précédant la date d’acquisition ou de cession;
+- **B** la valeur de tous les éléments d’actif que la banque a acquis auprès de cet apparenté ou cédés à celui-ci pendant la période de douze mois précédant la date d’acquisition ou de cession, sauf ceux qu’elle a acquis ou qui lui ont été transférés dans le cadre de toute opération visée à l’article 490.
 - **C** cinq pour cent — ou, si un autre pourcentage est fixé par règlement, le pourcentage fixé par règlement — de la valeur totale de l’actif de la banque figurant dans le dernier rapport annuel établi avant la date d’acquisition ou de cession.
 
 **Exception**
@@ -10726,24 +10849,24 @@ où :
 
 **Exception**
 
-- **(3)** L’agrément du surintendant n’est pas nécessaire dans l’un ou l’autre des cas suivants :
-	- **a)** la vente des éléments d’actif se fait dans le cadre d’une convention de vente approuvée par le ministre en vertu de l’article 236;
+- **(3)** L’agrément du surintendant n’est pas nécessaire dans l’un ou l’autre des cas suivants :
+	- **a)** l’achat ou la vente des éléments d’actif se fait dans le cadre d’une convention de vente approuvée par le ministre en vertu de l’article 236;
 	- **b)** la banque ou l’une de ses filiales acquiert les actions ou des titres de participation d’une entité dans un cas où l’agrément du ministre est requis dans le cadre de la partie VII ou du paragraphe 468(5) ou dans un cas où l’agrément du surintendant est requis dans le cadre du paragraphe 468(6).
 
 **Calcul de la valeur des éléments d’actif**
 
-- **(4)** Pour le calcul de l’élément A de la formule figurant au paragraphe (1), la valeur des éléments d’actif est :
+- **(4)** Pour le calcul de l’élément A de la formule figurant au paragraphe (1), la valeur des éléments d’actif est :
 	- **a)** dans le cas où les éléments sont acquis, leur prix d’achat ou, s’il s’agit d’actions ou de titres de participation d’une entité dont les éléments d’actif figureront au rapport annuel de la banque après l’acquisition, la juste valeur marchande de ces éléments d’actif;
 	- **b)** dans le cas où les éléments sont cédés, la valeur comptable des éléments figurant au dernier rapport annuel de la banque établi avant la date de cession ou, s’il s’agit d’actions ou de titres de participation d’une entité dont les éléments d’actif figuraient au dernier rapport annuel établi avant la date de cession, la valeur des éléments figurant dans le rapport annuel.
 
-**Sens de « valeur de tous les éléments d’actif »**
+**Sens de valeur de tous les éléments d’actif**
 
 - **(5)** Pour l’application du paragraphe (1), la valeur de tous les éléments d’actif acquis par une banque et ses filiales au cours de la période de douze mois visée au paragraphe (1) est leur prix d’achat ou, s’il s’agit d’actions ou de titres de participation d’une entité dont les éléments d’actif figureront au rapport annuel de la banque après l’acquisition, la juste valeur marchande de ces éléments d’actif à la date d’acquisition.
 
-**Sens de « valeur de tous les éléments d’actif »**
+**Sens de valeur de tous les éléments d’actif**
 
 - **(6)** Pour l’application du paragraphe (1), la valeur de tous les éléments d’actif cédés par une banque et ses filiales au cours de la période de douze mois visée au paragraphe (1) est la valeur comptable des éléments figurant au dernier rapport annuel de la banque établi avant la date de cession ou, s’il s’agit d’actions ou de titres de participation d’une entité dont les éléments d’actif figuraient au dernier rapport annuel établi avant la date de cession, la valeur des éléments de l’entité figurant dans le rapport annuel.
-> 2001, ch. 9, art. 129.
+> 2001, ch. 9, art. 129; 2007, ch. 6, art. 47.
 
 
 
@@ -10977,7 +11100,7 @@ si l’opération avait pour effet de porter à plus de cinquante pour cent de s
 - **b)** agir à titre d’agent financier;
 - **c)** fournir des services de conseil en placement et de gestion de portefeuille;
 - **d)** émettre des cartes de paiement, de crédit ou de débit et, conjointement avec d’autres établissements, y compris les institutions financières, utiliser un système de telles cartes;
-- **e)** exercer les activités visées aux définitions de ***entité s’occupant de fonds mutuels*** ou ***courtier de fonds mutuels*** au paragraphe 464(1);
+- **e)** exercer les activités visées aux définitions de ***courtier de fonds mutuels***, ***entité s’occupant de fonds mutuels*** ou ***fonds d’investissement à capital fixe*** au paragraphe 464(1);
 - **f)** exercer les activités prévues par règlement, pourvu qu’elles s’exercent selon les modalités éventuellement fixées par règlement;
 - **g)** exercer les activités visées à l’un des alinéas a) à f) à titre de mandataire d’une entité visée à l’un de ces alinéas ou des alinéas 468(1)a) à j);
 - **h)** acquérir ou détenir le contrôle, ou devenir un propriétaire important, d’une entité visée à l’un des alinéas a) à g) ou 468(1)a) à j).
@@ -11105,7 +11228,7 @@ Toutefois, l’entité canadienne n’est pas un tel établissement du simple fa
 **Publication**
 
 - **(19)** Le ministre publie dans la Gazette du Canada avis de la prise de l’arrêté visé à l’alinéa (17)b) ou au paragraphe (18).
-> 1991, ch. 46, art. 507; 1997, ch. 15, art. 76; 1999, ch. 28, art. 27; 2001, ch. 9, art. 132.
+> 1991, ch. 46, art. 507; 1997, ch. 15, art. 76; 1999, ch. 28, art. 27; 2001, ch. 9, art. 132; 2007, ch. 6, art. 48.
 
 
 
@@ -11505,12 +11628,25 @@ Toutefois, l’entité canadienne n’est pas un tel établissement du simple fa
 
 
 
+**Dénomination du bureau de représentation**
+
+**522.011** Si la dénomination qui sert ou servira à identifier le bureau de représentation de la banque étrangère est visée par l’un des alinéas 530(1)a) à e), le surintendant peut, selon le cas :
+- **a)** refuser l’accord visé à l’alinéa 522a);
+- **b)** imposer des restrictions sur l’utilisation de la dénomination au Canada;
+- **c)** enjoindre à la banque étrangère de modifier la dénomination.
+> 2007, ch. 6, art. 57.
+
+
+
+
+
 **Annulation de l’immatriculation**
 
-**522.02** Le surintendant peut, par ordonnance, annuler l’immatriculation d’un bureau de représentation d’une banque étrangère dans les cas suivants :
-- **a)** la banque le demande;
-- **b)** il estime que le fonctionnement du bureau ou la conduite de son personnel ne satisfont pas aux règles visées à l’alinéa 522a).
-> 2001, ch. 9, art. 132.
+**522.02** Le surintendant peut annuler l’immatriculation d’un bureau de représentation d’une banque étrangère dans les cas suivants :
+- **a)** la banque étrangère le demande;
+- **b)** il estime que le fonctionnement du bureau ou la conduite de son personnel ne satisfont pas aux règles visées à l’alinéa 522a);
+- **c)** il estime que la banque étrangère ne se conforme pas à la restriction imposée au titre de l’alinéa 522.011b) ou à la décision prise au titre de l’alinéa 522.011c).
+> 2001, ch. 9, art. 132; 2007, ch. 6, art. 57.
 
 
 
@@ -12307,15 +12443,19 @@ Elle doit toutefois prendre les mesures nécessaires pour éliminer le contrôle
 
 **528** 
 
-- **(1)** Le ministre peut, sur demande de la banque étrangère autorisée, et par un autre arrêté :
-	- **a)** modifier la dénomination qu’elle peut utiliser pour l’exercice de ses activités au Canada, ou la province où se trouvera son bureau principal, figurant dans tout arrêté pris dans le cadre du paragraphe 524(1) ou du présent article;
+- **(1)** Le ministre peut, sur demande de la banque étrangère autorisée, et par un autre arrêté :
+	- **a)** [Abrogé, 2007, ch. 6, art. 75]
 	- **b)** ajouter des dispositions ou conditions en application des paragraphes 527(2) et (3) ou modifier ou supprimer les dispositions ou conditions qui figurent dans tout arrêté pris dans le cadre du paragraphe 524(1) ou du présent article;
 	- **c)** ajouter les restrictions et exigences visées au paragraphe 524(2) ou les supprimer.
+
+**Modification de la dénomination**
+
+- **(1.1)** Le surintendant peut par ordonnance, sur demande de la banque étrangère autorisée, modifier la dénomination qu’elle peut utiliser pour l’exercice de ses activités au Canada, ou changer la province où se trouve son bureau principal, figurant dans tout arrêté prévu au paragraphe 524(1) ou dans tout arrêté ou ordonnance prévu au présent article.
 
 **Préavis**
 
 - **(2)** La banque étrangère autorisée doit, avant de présenter une demande dans le cadre du paragraphe (1), faire publier un préavis à cet effet dans la Gazette du Canada au moins une fois par semaine pendant quatre semaines consécutives, ainsi que dans un journal à grand tirage paraissant au lieu où est situé son bureau principal ou dans les environs.
-> 1991, ch. 46, art. 528; 1999, ch. 28, art. 35; 2005, ch. 54, art. 80.
+> 1991, ch. 46, art. 528; 1999, ch. 28, art. 35; 2005, ch. 54, art. 80; 2007, ch. 6, art. 75.
 
 
 
@@ -12325,24 +12465,24 @@ Elle doit toutefois prendre les mesures nécessaires pour éliminer le contrôle
 
 **529** 
 
-- **(1)** Par dérogation à toute autre disposition de la présente loi ou de ses règlements mais sous réserve des autres dispositions du présent article, le ministre peut, par arrêté pris sur recommandation du surintendant, autoriser la banque étrangère autorisée à :
+- **(1)** Par dérogation à toute autre disposition de la présente loi ou de ses règlements mais sous réserve des autres dispositions du présent article, le ministre peut, par arrêté pris sur recommandation du surintendant, autoriser la banque étrangère autorisée à :
 	- **a)** exercer toute activité précisée dans l’arrêté et interdite par ailleurs par la présente partie;
 	- **b)** maintenir des éléments de passif prohibés par la présente partie, dans la mesure où la banque étrangère autorisée ou une entité de son groupe les avait déjà à la date de la demande faite en vue d’obtenir l’arrêté visé au paragraphe 524(1);
 	- **c)** détenir des éléments d’actif prohibés par la présente partie mais qui, à la date de la demande faite en vue d’obtenir l’arrêté visé au paragraphe 524(1), étaient détenus par la banque étrangère autorisée ou par une entité de son groupe;
 	- **d)** acquérir et détenir des éléments d’actif prohibés par la présente partie, dans le cas où la banque étrangère autorisée était obligée, à la date de la demande faite en vue d’obtenir l’arrêté visé au paragraphe 524(1), de les acquérir;
 	- **e)** [Abrogé, 2001, ch. 9, art. 136]
-	- **f)** dans le cas de la banque étrangère autorisée qui n’est pas assujettie aux restrictions et exigences visées au paragraphe 524(2), exercer ses activités au Canada sans devoir déposer des éléments d’actif d’une valeur minimale de cinq millions de dollars conformément aux sous-alinéas 534(3)a)(ii) et 582(1)b)(i) si la banque étrangère autorisée continue de détenir un intérêt de groupe financier dans une banque qui est la filiale d’une banque étrangère ou dans une société régie par la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md) et si le ministre a agréé une demande de liquidation et de dissolution volontaires à leur égard conformément à l’article 344 de la présente loi ou à l’article 349 de la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md), selon le cas;
-	- **g)** tenir à l’étranger les livres et registres dont la présente loi exige la tenue au Canada, ainsi que tenir et traiter à l’étranger les renseignements et données se rapportant à leur tenue et à leur conservation.
+	- **f)** dans le cas de la banque étrangère autorisée qui n’est pas assujettie aux restrictions et exigences visées au paragraphe 524(2), exercer ses activités au Canada sans devoir déposer des éléments d’actif d’une valeur minimale de cinq millions de dollars conformément aux sous-alinéas 534(3)a)(ii) et 582(1)b)(i) si la banque étrangère autorisée continue de détenir un intérêt de groupe financier dans une banque qui est la filiale d’une banque étrangère ou dans une société régie par la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md) et si le ministre a agréé une demande de lettres patentes de dissolution à leur égard conformément à l’article 344 de la présente loi ou à l’article 349 de la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md), selon le cas;
+	- **g)** tenir à l’étranger les livres et registres dont la présente loi exige la tenue au Canada.
 
 **Restrictions**
 
-- **(2)** L’arrêté visé au paragraphe (1) ne peut avoir pour effet d’autoriser la banque étrangère autorisée :
+- **(2)** L’arrêté visé au paragraphe (1) ne peut avoir pour effet d’autoriser la banque étrangère autorisée :
 	- **a)** si elle ne fait pas l’objet des restrictions et exigences visées au paragraphe 524(2), à contrevenir à l’article 545;
 	- **b)** si elle fait l’objet des restrictions et exigences visées au paragraphe 524(2), à accepter des dépôts de façon à contrevenir à l’article 540.
 
 **Durée des exceptions**
 
-- **(3)** L’arrêté précise la période de validité de l’autorisation, qui ne peut excéder :
+- **(3)** L’arrêté précise la période de validité de l’autorisation, qui ne peut excéder :
 	- **a)** dans les cas visés à l’alinéa (1)a), trente jours à partir de la date de prise d’effet de l’arrêté visé au paragraphe 524(1) ou, lorsque l’activité découle d’accords existant à cette date, la date d’expiration de ces accords;
 	- **b)** dans les cas visés à l’alinéa (1)b), dix ans;
 	- **c)** deux ans dans les autres cas.
@@ -12354,7 +12494,7 @@ Elle doit toutefois prendre les mesures nécessaires pour éliminer le contrôle
 **Restriction**
 
 - **(5)** Le ministre ne peut pas délivrer d’autorisation qui serait encore valable plus de dix ans après la date de prise d’effet de l’ordonnance d’agrément visée au paragraphe 534(1) applicable à la banque étrangère autorisée dans les cas visés aux alinéas (1)c) et d); dans les cas visés à l’alinéa (1)b), il ne peut le faire que s’il est convaincu, sur la foi de la déposition sous serment d’un dirigeant de la banque étrangère autorisée, que celle-ci sera dans l’incapacité juridique d’acquitter les éléments de passif visés par l’autorisation à l’expiration de ce délai; dans les cas visés à l’alinéa (1)f), il ne peut délivrer d’autorisation qui serait valable plus de sept ans après l’ordonnance d’agrément.
-> 1991, ch. 46, art. 529; 1999, ch. 28, art. 35; 2001, ch. 9, art. 136.
+> 1991, ch. 46, art. 529; 1999, ch. 28, art. 35; 2001, ch. 9, art. 136; 2007, ch. 6, art. 76.
 
 
 
@@ -12364,7 +12504,7 @@ Elle doit toutefois prendre les mesures nécessaires pour éliminer le contrôle
 
 **530** 
 
-- **(1)** L’arrêté visé aux paragraphes 524(1) ou 528(1) ne peut prévoir une dénomination :
+- **(1)** L’arrêté prévu au paragraphe 524(1) ou l’ordonnance prévue au paragraphe 528(1.1) ne peut prévoir une dénomination :
 	- **a)** dont une loi fédérale interdit l’utilisation;
 	- **b)** qui, selon le surintendant, est fausse ou trompeuse;
 	- **c)** qui est identique à la marque de commerce, au nom commercial ou à la dénomination sociale d’une personne morale existants ou qui, selon le surintendant, est à peu près identique à ceux-ci ou leur est similaire au point de prêter à confusion, sauf si, d’une part, la dénomination, la marque ou le nom est en voie d’être changé ou la personne morale est en cours de dissolution et, d’autre part, le consentement de celle-ci à cet égard lui est signifié selon les modalités qu’il peut exiger;
@@ -12373,8 +12513,8 @@ Elle doit toutefois prendre les mesures nécessaires pour éliminer le contrôle
 
 **Dénomination interdite par ailleurs**
 
-- **(2)** L’arrêté prévu aux paragraphes 524(1) ou 528(1) peut prévoir l’emploi dans une dénomination d’un mot visé à l’article 47 de la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md).
-> 1991, ch. 46, art. 530; 1999, ch. 28, art. 35; 2001, ch. 9, art. 137.
+- **(2)** L’arrêté prévu au paragraphe 524(1) ou l’ordonnance prévue au paragraphe 528(1.1) peut prévoir l’emploi, dans une dénomination, d’un mot visé à l’article 47 de la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md).
+> 1991, ch. 46, art. 530; 1999, ch. 28, art. 35; 2001, ch. 9, art. 137; 2007, ch. 6, art. 77.
 
 
 
@@ -12382,8 +12522,8 @@ Elle doit toutefois prendre les mesures nécessaires pour éliminer le contrôle
 
 **Publicité de la dénomination**
 
-**531** La dénomination sociale de la banque étrangère autorisée et toute autre dénomination énoncée dans l’arrêté visé aux paragraphes 524(1) ou 528(1) doivent figurer lisiblement sur tous les documents établis par elle ou en son nom — notamment les contrats, factures, effets négociables — qui constatent des droits ou obligations à l’égard des tiers.
-> 1991, ch. 46, art. 531; 1996, ch. 6, art. 10; 1997, ch. 15, art. 87; 1999, ch. 28, art. 35.
+**531** La dénomination sociale de la banque étrangère autorisée et toute autre dénomination énoncée dans l’arrêté prévu au paragraphe 524(1) ou l’ordonnance prévue au paragraphe 528(1.1) doivent figurer lisiblement sur tous les documents établis par elle ou en son nom — notamment les contrats, factures, effets négociables — qui constatent des droits ou obligations à l’égard des tiers.
+> 1991, ch. 46, art. 531; 1996, ch. 6, art. 10; 1997, ch. 15, art. 87; 1999, ch. 28, art. 35; 2007, ch. 6, art. 78.
 
 
 
@@ -12398,7 +12538,7 @@ Elle doit toutefois prendre les mesures nécessaires pour éliminer le contrôle
 **Invalidation**
 
 - **(2)** Le surintendant peut invalider la dénomination de la banque étrangère autorisée qui ne se conforme pas à l’ordonnance dans les soixante jours qui suivent sa signification et lui attribuer une autre dénomination qui constituera, tant qu’elle ne sera pas modifiée conformément à l’article 528, celle de la banque étrangère autorisée.
-> 1991, ch. 46, art. 532; 1996, ch. 6, art. 11; 1999, ch. 28, art. 35.
+> 1991, ch. 46, art. 532; 1996, ch. 6, art. 11; 1999, ch. 28, art. 35; 2007, ch. 6, art. 79(A).
 
 
 
@@ -12412,12 +12552,12 @@ Elle doit toutefois prendre les mesures nécessaires pour éliminer le contrôle
 
 **533** 
 
-- **(1)** Sous réserve de l’article 531 et du paragraphe (2), la banque étrangère autorisée peut exercer ses activités au Canada sous un nom autre que la dénomination énoncée dans l’arrêté visé aux paragraphes 524(1) ou 528(1).
+- **(1)** Sous réserve de l’article 531 et du paragraphe (2), la banque étrangère autorisée peut exercer ses activités au Canada sous un nom autre que la dénomination énoncée dans l’arrêté prévu au paragraphe 524(1) ou l’ordonnance prévue au paragraphe 528(1.1).
 
 **Interdiction**
 
 - **(2)** Dans le cas où la banque étrangère autorisée exerce ses activités au Canada sous un autre nom que la dénomination énoncée dans l’arrêté, le surintendant peut, par ordonnance, lui interdire d’utiliser cet autre nom s’il est d’avis que celui-ci est visé par l’un des alinéas 530(1)a) à e).
-> 1991, ch. 46, art. 533; 1999, ch. 28, art. 35.
+> 1991, ch. 46, art. 533; 1999, ch. 28, art. 35; 2007, ch. 6, art. 80.
 
 
 
@@ -12490,16 +12630,16 @@ Il doit toutefois auparavant donner à la banque étrangère autorisée la possi
 
 **535** 
 
-- **(1)** La banque étrangère autorisée maintient en permanence un bureau principal dans la province mentionnée dans l’arrêté visé aux paragraphes 524(1) ou 528(1).
+- **(1)** La banque étrangère autorisée maintient en permanence un bureau principal dans la province mentionnée dans l’arrêté prévu au paragraphe 524(1) ou l’ordonnance prévue au paragraphe 528(1.1).
 
 **Changement d’adresse**
 
-- **(2)** La banque étrangère autorisée peut changer l’adresse de son bureau principal dans les limites de la province mentionnée dans l’arrêté visé aux paragraphes 524(1) ou 528(1).
+- **(2)** La banque étrangère autorisée peut changer l’adresse de son bureau principal dans les limites de la province mentionnée dans l’arrêté prévu au paragraphe 524(1) ou l’ordonnance prévue au paragraphe 528(1.1).
 
 **Avis de changement**
 
 - **(3)** La banque étrangère autorisée envoie dans les quinze jours un avis du changement d’adresse au surintendant.
-> 1991, ch. 46, art. 535; 1999, ch. 28, art. 35; 2005, ch. 54, art. 81.
+> 1991, ch. 46, art. 535; 1999, ch. 28, art. 35; 2005, ch. 54, art. 81; 2007, ch. 6, art. 81.
 
 
 
@@ -12592,7 +12732,7 @@ Il doit toutefois auparavant donner à la banque étrangère autorisée la possi
 		- **(i)** soit pour la fourniture d’information principalement de nature financière ou économique,
 		- **(ii)** soit pour la fourniture d’information relative aux activités d’une entité dans laquelle une banque est autorisée à acquérir un intérêt de groupe financier dans le cadre de l’article 468 ou aux activités d’une entité canadienne acquise ou détenue dans le cadre de l’article 522.08,
 		- **(iii)** soit à une fin réglementaire ou dans des circonstances réglementaires;
-	- **b.3)** fournir des services spéciaux de gestion commerciale, ou des services de consultation, prévus par règlement;
+	- **b.3)** fournir, aux conditions éventuellement fixées par règlement, des services spéciaux de gestion commerciale ou des services de consultation;
 	- **c)** faire la promotion d’articles et de services auprès des titulaires de cartes de paiement, de crédit ou de débit délivrées par elle;
 	- **d)** vendre des billets :
 		- **(i)** y compris de loterie, à titre de service public non lucratif pour des fêtes ou activités spéciales, temporaires, à caractère non commercial et d’intérêt local, municipal, provincial ou national,
@@ -12611,7 +12751,7 @@ Il doit toutefois auparavant donner à la banque étrangère autorisée la possi
 	- **a)** prévoir ce que la banque étrangère autorisée peut ou ne peut pas faire dans le cadre de l’exercice des activités visées aux alinéas (1)b.1) à b.3);
 	- **b)** assortir de conditions cet exercice et la prestation des services financiers visés à l’alinéa 538(2)a) qui sont des services de planification financière ou des services visés à l’alinéa 538(2)c);
 	- **c)** prévoir les circonstances dans lesquelles la banque étrangère autorisée peut être exemptée de l’obligation d’obtenir au préalable l’agrément du ministre pour exercer une activité visée aux alinéas (1)b.1) ou b.2).
-> 1991, ch. 46, art. 539; 1996, ch. 6, art. 16; 1999, ch. 28, art. 35; 2001, ch. 9, art. 139.
+> 1991, ch. 46, art. 539; 1996, ch. 6, art. 16; 1999, ch. 28, art. 35; 2001, ch. 9, art. 139; 2007, ch. 6, art. 82.
 
 
 
@@ -12714,16 +12854,16 @@ au moyen d’instruments financiers qui ne peuvent être vendus ni négociés pa
 
 **543** 
 
-- **(1)** Sous réserve des articles 540, 546 et 549, la banque étrangère autorisée peut, au Canada :
+- **(1)** Sous réserve des articles 540, 546 et 549, la banque étrangère autorisée peut, au Canada :
 	- **a)** soit faire fonction de mandataire pour la prestation de tout service offert par une institution financière, par une entité dans laquelle une banque est autorisée à acquérir un intérêt de groupe financier dans le cadre de l’article 468 ou par une entité canadienne acquise ou détenue dans le cadre de l’article 522.08 et conclure une entente en vue de sa prestation;
-	- **b)** soit renvoyer toute personne à l’institution financière ou à la personne morale visée à l’alinéa a).
+	- **b)** soit renvoyer toute personne à une telle institution financière ou entité.
 
 **Règlement**
 
-- **(2)** Le gouverneur en conseil peut, par règlement, régir la divulgation :
+- **(2)** Le gouverneur en conseil peut, par règlement, régir la divulgation :
 	- **a)** du nom de la personne pour laquelle la banque étrangère autorisée agit à titre de mandataire en vertu du paragraphe (1);
 	- **b)** des éventuelles commissions perçues par la banque étrangère autorisée à titre de mandataire en vertu de ce paragraphe.
-> 1991, ch. 46, art. 543; 1996, ch. 6, art. 17; 1999, ch. 28, art. 35; 2001, ch. 9, art. 142.
+> 1991, ch. 46, art. 543; 1996, ch. 6, art. 17; 1999, ch. 28, art. 35; 2001, ch. 9, art. 142; 2007, ch. 6, art. 84.
 
 
 
@@ -12872,20 +13012,20 @@ où :
 
 
 
-**Restrictions : hypothèques**
+**Restrictions : hypothèques**
 
 **551** 
 
-- **(1)** Il est interdit à la banque étrangère autorisée de faire garantir par un immeuble résidentiel situé au Canada un prêt consenti au Canada pour l’achat, la rénovation ou l’amélioration de cet immeuble, ou de renouveler un tel prêt, si la somme de celui-ci et du solde impayé de toute hypothèque de rang égal ou supérieur excède soixante-quinze pour cent de la valeur de l’immeuble au moment du prêt.
+- **(1)** Il est interdit à la banque étrangère autorisée de faire garantir par un immeuble résidentiel situé au Canada un prêt consenti au Canada pour l’achat, la rénovation ou l’amélioration de cet immeuble, ou de renouveler un tel prêt, si la somme de celui-ci et du solde impayé de toute hypothèque de rang égal ou supérieur excède quatre-vingts pour cent de la valeur de l’immeuble au moment du prêt.
 
 **Exception**
 
-- **(2)** Le paragraphe (1) ne s’applique pas :
+- **(2)** Le paragraphe (1) ne s’applique pas :
 	- **a)** au prêt consenti ou garanti en vertu de la [Loi nationale sur l’habitation](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-11.md) ou de toute autre loi fédérale aux termes de laquelle est fixée une limite différente sur la valeur de l’immeuble qui constitue l’objet de la garantie;
 	- **b)** au prêt dont le remboursement, en ce qui touche le montant excédant le plafond fixé au paragraphe (1), est garanti ou assuré par un organisme gouvernemental ou par un assureur privé agréés par le surintendant;
 	- **c)** à l’acquisition par la banque étrangère autorisée d’une entité, de valeurs mobilières émises ou garanties par celle-ci et qui confèrent une sûreté sur un immeuble résidentiel soit en faveur d’un fiduciaire soit de toute autre manière, ou aux prêts consentis par la banque étrangère autorisée à l’entité en contrepartie de l’émission des valeurs mobilières en question;
 	- **d)** au prêt garanti par une hypothèque consentie à la banque étrangère autorisée en garantie du paiement du prix de vente d’un bien qu’elle aliène, y compris par suite de l’exercice d’un droit hypothécaire.
-> 1991, ch. 46, art. 551; 1999, ch. 28, art. 35.
+> 1991, ch. 46, art. 551; 1999, ch. 28, art. 35; 2007, ch. 6, art. 86.
 
 
 
@@ -12985,14 +13125,30 @@ Dans le cas d’une telle réclamation, les fonds ainsi déposés peuvent être 
 
 **557** 
 
-- **(1)** Au plus tard le 31 décembre de chaque année, la banque étrangère autorisée verse à la Banque du Canada le montant du dépôt ou de l’effet en cause, plus éventuellement les intérêts calculés conformément aux modalités y afférentes, dans les situations suivantes :
+- **(1)** Au plus tard le 31 décembre de chaque année, la banque étrangère autorisée verse à la Banque du Canada le montant du dépôt ou de l’effet en cause, plus éventuellement les intérêts calculés conformément aux modalités y afférentes, dans les situations suivantes :
 	- **a)** un dépôt a été fait au Canada, est payable au Canada en monnaie canadienne et n’a fait l’objet, pendant une période de dix ans, d’aucun mouvement — opération, demande ou accusé de réception d’un état de compte par le déposant — , et ce depuis l’échéance du terme dans le cas d’un dépôt à terme ou, dans le cas de tout autre dépôt, depuis la date de la dernière opération ou, si elle est postérieure, celle de la dernière demande ou du dernier accusé de réception d’un état de compte;
-	- **b)** un chèque, une traite ou une lettre de change — y compris un tel effet tiré par une de ses succursales sur une autre de ses succursales mais à l’exclusion de l’effet émis en paiement d’un dividende sur son capital — payable au Canada en monnaie canadienne a été émis, visé ou accepté par elle au Canada et aucun paiement n’a été fait à cet égard pendant une période de dix ans depuis la dernière des dates suivantes : émission, visa, acceptation ou échéance.
+	- **b)** un chèque, une traite ou une lettre de change — y compris un tel effet tiré par une de ses succursales sur une autre de ses succursales mais à l’exclusion de l’effet émis en paiement d’un dividende sur son capital — payable au Canada en monnaie canadienne a été émis, visé ou accepté par elle au Canada et aucun paiement n’a été fait à cet égard pendant une période de dix ans depuis la dernière des dates suivantes : émission, visa, acceptation ou échéance.
 Le versement libère la banque étrangère autorisée de toute responsabilité à l’égard du dépôt ou de l’effet.
 
 **Détails à fournir**
 
-- **(2)** Lors du versement, la banque étrangère autorisée est tenue, pour chaque dépôt ou effet, de fournir à la Banque du Canada les renseignements mis à jour énumérés aux paragraphes 602(3) ou 603(2).
+- **(2)** Lors du versement, la banque étrangère autorisée est tenue, pour chaque dépôt ou effet, de fournir à la Banque du Canada, dans la mesure où elle en a connaissance, les renseignements mis à jour suivants :
+	- **a)** dans le cas d’un dépôt :
+		- **(i)** le nom du titulaire du dépôt,
+		- **(ii)** son adresse enregistrée,
+		- **(iii)** le solde du dépôt,
+		- **(iv)** la succursale de la banque étrangère autorisée dans laquelle la dernière opération concernant le dépôt a eu lieu et la date de celle-ci;
+	- **b)** dans le cas d’un effet :
+		- **(i)** le nom de la personne à qui ou à la demande de qui l’effet a été émis, visé ou accepté,
+		- **(ii)** son adresse enregistrée,
+		- **(iii)** le nom du bénéficiaire de l’effet,
+		- **(iv)** le montant et la date de l’effet,
+		- **(v)** le nom du lieu où l’effet était à payer,
+		- **(vi)** la succursale de la banque étrangère autorisée où l’effet a été émis, visé ou accepté.
+
+**Cartes et délégations de signature**
+
+- **(2.1)** La banque étrangère autorisée lui fournit, sur demande écrite de la Banque du Canada, des copies des cartes et délégations de signature afférentes pour chaque dépôt ou effet à l’égard duquel le versement a été fait. Si elle n’en possède pas pour un dépôt ou un effet relatif à la demande, elle en informe la Banque du Canada.
 
 **Paiement au réclamant**
 
@@ -13001,7 +13157,7 @@ Le versement libère la banque étrangère autorisée de toute responsabilité �
 **Exécution de l’obligation**
 
 - **(4)** L’exécution de l’obligation imposée par le paragraphe (3) à la Banque du Canada peut être poursuivie par voie d’action intentée contre celle-ci devant un tribunal de la province dans laquelle le dépôt ou l’effet était payable.
-> 1991, ch. 46, art. 557; 1999, ch. 28, art. 35.
+> 1991, ch. 46, art. 557; 1999, ch. 28, art. 35; 2007, ch. 6, art. 87.
 
 
 
@@ -13015,11 +13171,17 @@ Le versement libère la banque étrangère autorisée de toute responsabilité �
 
 **Date d’exigibilité de l’avis**
 
-- **(2)** L’avis doit être donné au cours du mois de janvier qui suit la fin de la première période de deux ans, puis de cinq ans :
+- **(2)** L’avis doit être envoyé au cours du mois de janvier qui suit la fin de la première période de deux ans, de cinq ans, puis de neuf ans :
 	- **a)** postérieure à l’échéance, dans le cas d’un dépôt à terme fixe;
 	- **b)** pendant laquelle il n’y a eu aucune opération ni demande ou accusé de réception d’un état de compte par le déposant, dans le cas des autres dépôts;
 	- **c)** pendant laquelle l’effet est resté impayé, dans le cas d’un chèque, d’une traite ou d’une lettre de change.
-> 1991, ch. 46, art. 558 et 580; 1996, ch. 6, art. 20; 1999, ch. 28, art. 35.
+
+**Notification de transfert à la Banque du Canada**
+
+- **(3)** L’avis envoyé au cours du mois de janvier qui suit la fin de la première période de neuf ans déterminée en application des alinéas (2)a) à c), selon le cas, doit en outre :
+	- **a)** [non en vigueur]
+	- **b)** donner l’adresse postale et les sites Web où peut être obtenue l’information concernant la présentation d’une demande de paiement du dépôt ou de l’effet impayé.
+> 1991, ch. 46, art. 558 et 580; 1996, ch. 6, art. 20; 1999, ch. 28, art. 35; 2007, ch. 6, art. 88.
 
 
 
@@ -13291,7 +13453,7 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **573** 
 
-- **(1)** La banque étrangère autorisée est tenue :
+- **(1)** La banque étrangère autorisée est tenue :
 	- **a)** d’établir une procédure d’examen des réclamations de personnes qui lui ont demandé ou qui ont obtenu d’elle des produits ou services;
 	- **b)** de désigner un préposé — dirigeant ou employé se trouvant au Canada — à la mise en oeuvre de la procédure;
 	- **c)** de désigner un ou plusieurs autres préposés — dirigeant ou employé se trouvant au Canada — aux réclamations.
@@ -13299,7 +13461,18 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 **Dépôt**
 
 - **(2)** La banque étrangère autorisée dépose auprès du commissaire un double de la procédure.
-> 1991, ch. 46, art. 573; 1999, ch. 28, art. 35; 2001, ch. 9, art. 155.
+
+**Mise à la disposition du public de la procédure**
+
+- **(3)** La banque étrangère autorisée met à la disposition du public la procédure à la fois :
+	- **a)** dans ses succursales où sont offerts des produits ou services au Canada, sous forme de brochure;
+	- **b)** sur ceux de ses sites Web où sont offerts des produits ou services au Canada;
+	- **c)** dans un document écrit à envoyer à quiconque lui en fait la demande.
+
+**Renseignements**
+
+- **(4)** La banque étrangère autorisée doit accompagner la procédure qu’elle met à la disposition du public des renseignements — fixés par règlement — sur la façon de communiquer avec l’Agence.
+> 1991, ch. 46, art. 573; 1999, ch. 28, art. 35; 2001, ch. 9, art. 155; 2007, ch. 6, art. 90.
 
 
 
@@ -13402,9 +13575,9 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 - **(4)** La banque étrangère autorisée peut exiger qu’un produit ou service obtenu par un emprunteur auprès d’une personne donnée en garantie d’un prêt qu’elle lui consent soit approuvé par elle. L’approbation ne peut être refusée sans justification.
 
-**Divulgation**
+**Communication**
 
-- **(4.1)** La banque étrangère autorisée communique à ses clients et au public l’interdiction visée au paragraphe (1) par déclaration, rédigée en langage simple, clair et concis, qu’elle affiche et met à leur disposition dans toutes ses succursales et dans tous ses points de service réglementaires au Canada.
+- **(4.1)** La banque étrangère autorisée communique à ses clients et au public l’interdiction visée au paragraphe (1) par déclaration, rédigée en langage simple, clair et concis, qu’elle affiche et met à leur disposition dans celles de ses succursales où sont offerts des produits ou services et sur ceux de ses sites Web où sont offerts des produits ou services au Canada et dans tous ses points de service réglementaires au Canada.
 
 **Règlements**
 
@@ -13413,7 +13586,7 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 **Règlements**
 
 - **(5)** Le gouverneur en conseil peut, par règlement, préciser des comportements qui constituent ou non l’exercice de pressions indues.
-> 1999, ch. 28, art. 35; 2001, ch. 9, art. 158.
+> 1999, ch. 28, art. 35; 2001, ch. 9, art. 158; 2007, ch. 6, art. 92.
 
 
 
@@ -13426,10 +13599,10 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 	- **(i)** à leurs produits ou services, ou catégories réglementaires de ceux-ci,
 	- **(ii)** à leurs règles de conduite, procédures et pratiques ayant trait à la fourniture de ces produits ou services, ou catégories réglementaires de ceux-ci,
 	- **(iii)** aux interdictions ou obligations qui leur sont imposées aux termes d’une disposition visant les consommateurs,
-	- **(iv)** à toute autre question en ce qui touche leurs relations avec leurs clients ou le public;
+	- **(iv)** à toute autre question en ce qui touche leurs relations ou celles de leurs employés ou représentants avec leurs clients ou le public;
 - **b)** les modalités de temps, de lieu et de forme de la communication, ainsi que le destinataire de celle-ci;
 - **c)** le contenu et la forme de la publicité relative aux questions visées à l’alinéa a).
-> 2001, ch. 9, art. 159.
+> 2001, ch. 9, art. 159; 2007, ch. 6, art. 93.
 
 
 
@@ -13627,8 +13800,8 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 
 **Conditions à remplir**
 
-- **(2)** Est apte à exercer la fonction de vérificateur le cabinet de comptables qui répond aux exigences suivantes :
-	- **a)** au moins deux de ses membres :
+- **(2)** Est apte à exercer la fonction de vérificateur le cabinet de comptables qui répond aux exigences suivantes :
+	- **a)** au moins deux de ses membres :
 		- **(i)** sont membres en règle d’un institut ou d’une association de comptables constitués en personne morale sous le régime d’une loi provinciale,
 		- **(ii)** possèdent chacun cinq ans d’expérience au niveau supérieur dans l’exécution de la vérification d’institutions financières,
 		- **(iii)** résident habituellement au Canada,
@@ -13637,12 +13810,12 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 
 **Indépendance**
 
-- **(3)** Pour l’application du paragraphe (2) :
+- **(3)** Pour l’application du paragraphe (2) :
 	- **a)** l’indépendance est une question de fait;
 	- **b)** le membre d’un cabinet de comptables est réputé ne pas être indépendant de la banque étrangère autorisée si lui-même, son associé ou le cabinet de comptables lui-même :
 		- **(i)** soit est l’associé, l’administrateur, le dirigeant ou l’employé de la banque étrangère autorisée ou d’une entité de son groupe ou est l’associé d’un des administrateurs, dirigeants ou employés de la banque étrangère autorisée ou d’une entité de son groupe,
 		- **(ii)** soit possède à titre de véritable propriétaire ou contrôle, directement ou indirectement, un intérêt important dans des actions de la banque étrangère autorisée ou d’une entité de son groupe,
-		- **(iii)** soit a été séquestre, séquestre-gérant, liquidateur ou syndic de faillite de toute entité du groupe dont fait partie la banque étrangère autorisée dans les deux ans précédant la date de la proposition de la nomination du cabinet à titre de vérificateur, sauf si l’entité est une filiale de la banque étrangère autorisée acquise conformément au paragraphe 519(2).
+		- **(iii)** soit a été séquestre, séquestre-gérant, liquidateur ou syndic de faillite de toute entité du groupe dont fait partie la banque étrangère autorisée dans les deux ans précédant la date de la proposition de la nomination du cabinet à titre de vérificateur, sauf si l’entité est une filiale de la banque étrangère autorisée acquise conformément à l’article 522.15.
 
 **Associé**
 
@@ -13659,7 +13832,7 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 **Poste déclaré vacant**
 
 - **(6)** Dans le cas visé au paragraphe (5), faute de désignation dans les trente jours de la cessation des fonctions du membre, le poste de vérificateur est déclaré vacant.
-> 1991, ch. 46, art. 585; 1999, ch. 28, art. 35; 2005, ch. 54, art. 82.
+> 1991, ch. 46, art. 585; 1999, ch. 28, art. 35; 2005, ch. 54, art. 82; 2007, ch. 6, art. 94.
 
 
 
@@ -13907,8 +14080,8 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 
 **Application des articles 244 à 247**
 
-**598** L’article 244, les paragraphes 245(1), (2) et (4) à (7) et les articles 246 et 247 s’appliquent aux banques étrangères autorisées, avec les adaptations nécessaires, la mention des livres, aux paragraphes 245(1) et 246(1), valant mention des documents et renseignements visés au paragraphe 597(1).
-> 1991, ch. 46, art. 598; 1999, ch. 28, art. 35.
+**598** Les articles 244 à 247 s’appliquent aux banques étrangères autorisées, avec les adaptations nécessaires, la mention des livres, au paragraphe 245(1) et à l’alinéa 246(1)a), valant mention des documents et renseignements visés au paragraphe 597(1).
+> 1991, ch. 46, art. 598; 1999, ch. 28, art. 35; 2007, ch. 6, art. 95.
 
 
 
@@ -13926,7 +14099,7 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 
 **Condition de la libération**
 
-- **(2)** Sauf disposition contraire de la présente loi, la libération des éléments d’actif visés au paragraphe (1) est subordonnée :
+- **(2)** Sauf disposition contraire de la présente loi, la libération des éléments d’actif visés au paragraphe (1) est subordonnée :
 	- **a)** à l’acquittement par la banque étrangère autorisée, ou à la prise de dispositions par elle pour l’acquittement, de la totalité des dettes liées à l’exercice de ses activités au Canada ou à la cession de ses dettes à une banque, à une autre banque étrangère autorisée, dans le cadre de l’exercice de ses activités au Canada, ou à une personne morale régie par la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md);
 	- **b)** à la fourniture de la preuve de la publication — durant quatre semaines consécutives dans la Gazette du Canada, et dans au moins un journal à grand tirage paraissant au lieu de son bureau principal ou dans les environs — d’un avis faisant savoir qu’elle demandera au surintendant de libérer ses éléments d’actif à la date qui y est précisée, laquelle doit être d’au moins six semaines postérieure à celle de l’avis, et invitant les déposants et créanciers qui y seraient opposés à faire acte d’opposition auprès du surintendant, au plus tard à la date fixée.
 
@@ -13940,8 +14113,8 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 
 **Cessation d’effet des arrêtés et ordonnances**
 
-- **(5)** Les arrêtés visés aux paragraphes 524(1) ou 528(1) et l’ordonnance d’agrément prévue au paragraphe 534(1) cessent d’avoir effet au moment de la libération des éléments d’actif en vertu du paragraphe (3).
-> 1991, ch. 46, art. 599; 1999, ch. 28, art. 35.
+- **(5)** Les arrêtés prévus aux paragraphes 524(1) ou 528(1) et les ordonnances visées aux paragraphes 528(1.1) et 534(1) cessent d’avoir effet au moment de la libération des éléments d’actif prévue au paragraphe (3).
+> 1991, ch. 46, art. 599; 1999, ch. 28, art. 35; 2007, ch. 6, art. 96.
 
 
 
@@ -13970,82 +14143,25 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 
 - **(1)** La banque étrangère autorisée établit, en ce qui touche l’exercice de ses activités au Canada, un état de sa situation et de ses affaires à la fin de chaque exercice; cet état indique ses actif et passif ainsi que ses recettes et dépenses au cours de l’exercice et donne tout autre renseignement que le surintendant estime nécessaire.
 
-**Forme et dépôt de l’état annuel**
-
-- **(2)** L’état annuel est envoyé au surintendant, en la forme que celui-ci détermine, dans les soixante jours qui suivent la fin de l’exercice pour lequel il a été établi.
+- **(2)** [Abrogé, 2007, ch. 6, art. 97]
 
 **Principes comptables**
 
 - **(3)** L’état annuel est établi selon les principes comptables visés au paragraphe 308(4).
-> 1991, ch. 46, art. 601; 1999, ch. 28, art. 35.
+> 1991, ch. 46, art. 601; 1999, ch. 28, art. 35; 2007, ch. 6, art. 97.
 
 
 
 
-
-**Relevé des dépôts non réclamés**
-
-**602** 
-
-- **(1)** Dans les soixante jours qui suivent la fin de chaque année civile, la banque étrangère autorisée fournit au surintendant, en la forme qu’il précise, un relevé au 31 décembre de tous les dépôts effectués auprès d’elle au Canada, en monnaie canadienne, qui n’ont fait l’objet d’aucun mouvement — opération ou demande ou accusé de réception d’un état de compte par le déposant — au cours d’une période d’au moins neuf ans.
-
-**Calcul de la période**
-
-- **(2)** La période en question, qui se termine à la date du relevé, a pour point de départ :
-	- **a)** dans le cas des dépôts à terme, l’échéance du terme;
-	- **b)** dans le cas des autres dépôts, soit la date de la dernière opération, soit, si elle lui est postérieure, celle où le déposant a, pour la dernière fois, demandé un état de compte ou en a accusé réception.
-
-**Teneur du relevé**
-
-- **(3)** Le relevé doit indiquer, dans la mesure où la banque étrangère autorisée en a connaissance :
-	- **a)** le nom du titulaire de chaque dépôt;
-	- **b)** son adresse enregistrée;
-	- **c)** le solde de chacun des dépôts;
-	- **d)** la succursale de la banque étrangère autorisée dans laquelle la dernière opération concernant le dépôt a eu lieu et la date de celle-ci.
-
-**Solde inférieur à cent dollars**
-
-- **(4)** La banque étrangère autorisée n’est toutefois pas tenue de fournir les renseignements énoncés au paragraphe (3) dans le cas où le solde de l’ensemble des dépôts inscrits au nom du titulaire est inférieur à cent dollars.
-> 1991, ch. 46, art. 602; 1999, ch. 28, art. 35.
+**602** [Abrogé, 2007, ch. 6, art. 98]
 
 
 
-
-
-**Relevé des effets non réclamés**
-
-**603** 
-
-- **(1)** Dans les soixante jours qui suivent la fin de chaque année civile, la banque étrangère autorisée fournit au surintendant, en la forme qu’il précise, un relevé au 31 décembre de tous les effets négociables, y compris les effets tirés par une de ses succursales sur une autre de celles-ci mais à l’exclusion des effets émis en paiement d’un dividende sur son capital, payables au Canada, en monnaie canadienne, qui ont été émis, visés ou acceptés par elle dans ses succursales, et pour lesquels aucun paiement n’a été fait pendant une période de neuf ans ou plus, à la date du relevé et dont le point de départ est la dernière des dates suivantes : émission, visa, acceptation ou échéance.
-
-**Teneur du relevé**
-
-- **(2)** Le relevé doit indiquer, dans la mesure où la banque étrangère autorisée en a connaissance :
-	- **a)** le nom de chaque personne à qui, ou à la demande de qui, chaque effet a été émis, visé ou accepté;
-	- **b)** son adresse enregistrée;
-	- **c)** le nom du bénéficiaire de chaque effet;
-	- **d)** le montant et la date de chaque effet;
-	- **e)** le nom du lieu où chaque effet était payable;
-	- **f)** la succursale de la banque étrangère autorisée où chaque effet a été émis, visé ou accepté.
-
-**Effet de moins de cent dollars**
-
-- **(3)** La banque étrangère autorisée n’est toutefois pas tenue de fournir les renseignements énoncés au paragraphe (2) dans le cas où le montant de l’effet est inférieur à cent dollars.
-
-**Mandat-poste**
-
-- **(4)** La banque étrangère autorisée peut également omettre ces renseignements relativement aux mandats auxquels le paragraphe (1) s’applique.
-> 1991, ch. 46, art. 603; 1999, ch. 28, art. 35.
+**603** [Abrogé, 2007, ch. 6, art. 98]
 
 
 
-
-
-**Mention obligatoire de la valeur globale**
-
-**604** Même en cas d’omission des renseignements devant normalement figurer dans les relevés visés aux paragraphes 602(1) ou 603(1), la banque étrangère autorisée doit préciser la valeur globale des dépôts ou effets en cause.
-> 1991, ch. 46, art. 604; 1999, ch. 28, art. 35.
-
+**604** [Abrogé, 2007, ch. 6, art. 98]
 
 
 
@@ -14075,16 +14191,16 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 
 **606** 
 
-- **(1)** Sous réserve des articles 608 et 609, sont confidentiels et doivent être traités comme tels les renseignements concernant l’activité commerciale et les affaires internes de la banque étrangère autorisée ou concernant une personne faisant affaire avec elle et obtenus par le surintendant ou par toute autre personne agissant sous ses ordres, dans le cadre de l’application d’une loi fédérale, de même que ceux qui sont tirés de tels renseignements.
+- **(1)** Sous réserve de l’article 609, sont confidentiels et doivent être traités comme tels les renseignements concernant l’activité commerciale et les affaires internes de la banque étrangère autorisée ou concernant une personne faisant affaire avec elle et obtenus par le surintendant ou par toute autre personne agissant sous ses ordres, dans le cadre de l’application d’une loi fédérale, de même que ceux qui sont tirés de tels renseignements.
 
 **Communication autorisée**
 
-- **(2)** S’il est convaincu que les renseignements seront considérés comme confidentiels par leur destinataire, le surintendant peut toutefois les communiquer :
+- **(2)** S’il est convaincu que les renseignements seront considérés comme confidentiels par leur destinataire, le surintendant peut toutefois les communiquer :
 	- **a)** à une agence ou à un organisme gouvernemental qui réglemente ou supervise des institutions financières, à des fins liées à la réglementation ou à la supervision;
 	- **b)** à une autre agence ou à un autre organisme qui réglemente ou supervise des institutions financières, à des fins liées à la réglementation ou à la supervision;
 	- **c)** à la Société d’assurance-dépôts du Canada pour l’accomplissement de ses fonctions;
 	- **d)** au sous-ministre des Finances, ou à tout fonctionnaire du ministère des Finances que celui-ci a délégué par écrit pour l’analyse de la politique en matière de réglementation des institutions financières ou au gouverneur de la Banque du Canada, ou à tout fonctionnaire de la Banque du Canada que celui-ci a délégué par écrit pour cette même analyse.
-> 1999, ch. 28, art. 35; 2001, ch. 9, art. 164.
+> 1999, ch. 28, art. 35; 2001, ch. 9, art. 164; 2007, ch. 6, art. 99.
 
 
 
@@ -14098,12 +14214,7 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 
 
 
-
-**Publicité**
-
-**608** Le surintendant doit faire publier dans la Gazette du Canada les renseignements figurant aux relevés visés aux articles 602 et 603, dans les soixante jours qui suivent l’expiration du délai prévu par la présente loi pour leur production.
-> 1999, ch. 28, art. 35.
-
+**608** [Abrogé, 2007, ch. 6, art. 100]
 
 
 
@@ -14372,20 +14483,20 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 
 **619** 
 
-- **(1)** Sous réserve des autres dispositions de la présente loi, le surintendant peut, dans les circonstances visées au paragraphe (2), en ce qui concerne la banque étrangère autorisée ou les activités que celle-ci exerce au Canada :
+- **(1)** Sous réserve des autres dispositions de la présente loi, le surintendant peut, dans les circonstances visées au paragraphe (2), en ce qui concerne la banque étrangère autorisée ou les activités que celle-ci exerce au Canada :
 	- **a)** prendre le contrôle pendant au plus seize jours des éléments d’actif de la banque étrangère autorisée;
 	- **b)** sauf avis contraire du ministre fondé sur l’intérêt public, en prendre le contrôle pour plus de seize jours ou continuer d’en assumer le contrôle au-delà de ce terme.
 
 **Circonstances permettant la prise de contrôle**
 
-- **(2)** Le surintendant peut prendre le contrôle visé au paragraphe (1) à l’égard de la banque étrangère autorisée :
+- **(2)** Le surintendant peut prendre le contrôle visé au paragraphe (1) à l’égard de la banque étrangère autorisée :
 	- **a)** qui a omis de payer une dette exigible ou qui, à son avis, ne pourra payer ses dettes au fur et à mesure qu’elles deviendront exigibles;
 	- **b)** qui, dans le cadre de l’exercice de ses activités au Canada, a omis de payer une dette exigible ou qui, à son avis, ne pourra payer ses dettes au fur et à mesure qu’elles deviendront exigibles;
 	- **c)** [Abrogé, 2001, ch. 9, art. 170]
 	- **d)** qui, à son avis, n’a pas un actif suffisant dans le cadre des activités qu’elle exerce au Canada pour assurer une protection adéquate à ses déposants et créanciers dans le cadre de ces activités;
 	- **e)** dont un élément d’actif qui est lié à l’exercice de ses activités au Canada ou qu’elle administre et qui figure dans ses livres n’est pas, à son avis, correctement pris en compte;
 	- **f)** qui n’a pas suivi une ordonnance prise par le surintendant en vertu de l’article 617;
-	- **g)** où, à son avis, il existe une autre situation qui risque de porter un préjudice réel aux intérêts de ses déposants ou créanciers à l’égard de ses activités au Canada, ou aux propriétaires des éléments d’actif qu’elle administre dans le cadre de ses activités au Canada, y compris l’existence de procédures engagées à l’égard de sa société mère au titre du droit relatif à la faillite ou à l’insolvabilité.
+	- **g)** à l’égard de laquelle, à son avis, il existe une autre situation qui risque de porter un préjudice réel aux intérêts de ses déposants ou créanciers à l’égard de ses activités au Canada, ou à ceux des propriétaires des éléments d’actif qu’elle administre dans le cadre de ses activités au Canada, y compris l’existence de procédures engagées au Canada ou à l’étranger à son égard ou à l’égard de sa société mère au titre du droit relatif à la faillite ou à l’insolvabilité.
 
 **Avis**
 
@@ -14397,14 +14508,14 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 
 **Pouvoirs du surintendant**
 
-- **(5)** Lorsque le surintendant a le contrôle des éléments d’actif de la banque étrangère autorisée visés au paragraphe (1) :
+- **(5)** Lorsque le surintendant a le contrôle des éléments d’actif de la banque étrangère autorisée visés au paragraphe (1) :
 	- **a)** il est interdit à la banque étrangère autorisée et à toute personne qui agit au nom de celle-ci de faire quelque opération que ce soit à l’égard des éléments d’actif de la banque sans l’approbation préalable du surintendant ou de son délégué;
 	- **b)** il est interdit à toute personne qui agit au nom de la banque étrangère autorisée d’avoir accès à l’encaisse ou aux valeurs mobilières détenues par elle au Canada sans y avoir été préalablement autorisée par le surintendant ou son délégué.
 
 **Aide**
 
 - **(6)** Le surintendant peut nommer une ou plusieurs personnes pour l’aider à gérer les éléments d’actif dont il a le contrôle dans le cadre de l’alinéa (1)b).
-> 1999, ch. 28, art. 35; 2001, ch. 9, art. 170.
+> 1999, ch. 28, art. 35; 2001, ch. 9, art. 170; 2007, ch. 6, art. 101.
 
 
 
@@ -14527,70 +14638,15 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 
 
 
-
-**Relevé des dépôts non réclamés**
-
-**629** 
-
-- **(1)** Dans les soixante jours qui suivent la fin de chaque année civile, la banque fournit au surintendant, en la forme qu’il précise, un relevé au 31 décembre de tous les dépôts effectués auprès d’elle au Canada, en monnaie canadienne, qui n’ont fait l’objet d’aucune opération et pour lesquels aucun état de compte n’a été demandé ou reconnu par le déposant au cours d’une période d’au moins neuf ans.
-
-**Calcul de la période**
-
-- **(2)** La période en question, qui se termine à la date du relevé, a pour point de départ :
-	- **a)** dans le cas des dépôts à terme, l’échéance du terme;
-	- **b)** dans le cas des autres dépôts, soit la date de la dernière opération, soit, si elle lui est postérieure, celle où le déposant a, pour la dernière fois, demandé ou reconnu un état de compte.
-
-**Teneur du relevé**
-
-- **(3)** Le relevé doit indiquer, dans la mesure où la banque en a connaissance :
-	- **a)** le nom du titulaire de chaque dépôt;
-	- **b)** l’adresse enregistrée de chacun d’eux;
-	- **c)** le solde de chacun des dépôts;
-	- **d)** la succursale de la banque dans laquelle la dernière opération concernant le dépôt a eu lieu et la date de celle-ci.
-
-**Solde inférieur à cent dollars**
-
-- **(4)** La banque n’est toutefois pas tenue de fournir les renseignements énoncés au paragraphe (3) dans le cas où le solde de l’ensemble des dépôts inscrits au nom du titulaire est inférieur à cent dollars.
-> 1999, ch. 28, art. 36.
+**629** [Abrogé, 2007, ch. 6, art. 102]
 
 
 
-
-
-**Relevé des effets non réclamés**
-
-**630** 
-
-- **(1)** Dans les soixante jours qui suivent la fin de chaque année civile, la banque fournit au surintendant, en la forme qu’il précise, un relevé au 31 décembre de tous les effets négociables, y compris les effets tirés par une de ses succursales sur une autre de celles-ci mais à l’exclusion des effets émis en paiement d’un dividende sur son capital, payables au Canada, en monnaie canadienne, qui ont été émis, visés ou acceptés par elle dans ses succursales au Canada, et pour lesquels aucun paiement n’a été fait pendant une période de neuf ans ou plus, à la date du relevé et dont le point de départ est la dernière des dates suivantes : émission, visa, acceptation ou échéance.
-
-**Teneur du relevé**
-
-- **(2)** Le relevé doit indiquer, dans la mesure où la banque en a connaissance :
-	- **a)** le nom de chaque personne à qui, ou à la demande de qui, chaque effet a été émis, visé ou accepté;
-	- **b)** l’adresse enregistrée de chacune de ces personnes;
-	- **c)** le nom du bénéficiaire de chaque effet;
-	- **d)** le montant et la date de chaque effet;
-	- **e)** le nom du lieu où chaque effet était payable;
-	- **f)** la succursale de la banque où chaque effet a été émis, visé ou accepté.
-
-**Effet de moins de cent dollars**
-
-- **(3)** La banque n’est toutefois plus tenue de fournir les renseignements énoncés au paragraphe (2) dans le cas où le montant de l’effet est inférieur à cent dollars.
-
-**Mandat-poste**
-
-- **(4)** La banque peut également omettre ces renseignements relativement aux mandats auxquels le paragraphe (1) s’applique.
-> 1999, ch. 28, art. 36.
+**630** [Abrogé, 2007, ch. 6, art. 102]
 
 
 
-
-
-**Mention obligatoire de la valeur globale**
-
-**631** Même en cas d’omission des renseignements devant normalement figurer dans les relevés visés aux paragraphes 629(1) ou 630(1), la banque doit préciser la valeur globale des dépôts ou effets en cause.
-> 1999, ch. 28, art. 37.
-
+**631** [Abrogé, 2007, ch. 6, art. 102]
 
 
 
@@ -14679,16 +14735,16 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 
 **636** 
 
-- **(1)** Sous réserve des articles 638 et 639, sont confidentiels et doivent être traités comme tels les renseignements concernant l’activité commerciale et les affaires internes de la banque ou de la banque étrangère, ou concernant une personne faisant affaire avec elles, et obtenus par le surintendant ou par toute autre personne agissant sous ses ordres, dans le cadre de l’application d’une loi fédérale, de même que ceux qui sont tirés de tels renseignements.
+- **(1)** Sous réserve de l’article 639, sont confidentiels et doivent être traités comme tels les renseignements concernant l’activité commerciale et les affaires internes de la banque ou de la banque étrangère, ou concernant une personne faisant affaire avec elles, et obtenus par le surintendant ou par toute autre personne agissant sous ses ordres, dans le cadre de l’application d’une loi fédérale, de même que ceux qui sont tirés de tels renseignements.
 
 **Communication autorisée**
 
-- **(2)** S’il est convaincu que les renseignements seront considérés comme confidentiels par leur destinataire, le surintendant peut toutefois les communiquer :
+- **(2)** S’il est convaincu que les renseignements seront considérés comme confidentiels par leur destinataire, le surintendant peut toutefois les communiquer :
 	- **a)** à une agence ou à un organisme gouvernemental qui réglemente ou supervise des institutions financières, à des fins liées à la réglementation ou à la supervision;
 	- **a.01)** à une autre agence ou à un autre organisme qui réglemente ou supervise des institutions financières, à des fins liées à la réglementation ou à la supervision;
 	- **a.1)** à la Société d’assurance-dépôts du Canada pour l’accomplissement de ses fonctions;
 	- **b)** au sous-ministre des Finances, ou à tout fonctionnaire du ministère des Finances que celui-ci a délégué par écrit pour l’analyse de la politique en matière de la réglementation des institutions financières ou au gouverneur de la Banque du Canada, ou à tout fonctionnaire de la Banque du Canada que celui-ci a délégué par écrit pour cette même analyse.
-> 1999, ch. 28, art. 41; 2001, ch. 9, art. 174.
+> 1999, ch. 28, art. 41; 2001, ch. 9, art. 174; 2007, ch. 6, art. 103.
 
 
 
@@ -14702,12 +14758,7 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 
 
 
-
-**Publicité**
-
-**638** Le surintendant doit faire publier dans la Gazette du Canada les renseignements figurant aux relevés visés aux articles 629 et 630, dans les soixante jours qui suivent l’expiration du délai prévu par la présente loi pour leur production.
-> 1999, ch. 28, art. 43.
-
+**638** [Abrogé, 2007, ch. 6, art. 104]
 
 
 
@@ -15299,12 +15350,16 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **670** 
 
-- **(1)** Sous réserve du paragraphe (2), les sociétés de portefeuille bancaires ne peuvent exercer leurs activités après le 24 avril 2007; toutefois, si le Parlement est dissous à cette date ou au cours des trois mois qui précèdent, elles peuvent exercer leurs activités jusqu’à cent quatre-vingts jours après le premier jour de la première session de la législature suivante.
+- **(1)** Sous réserve des paragraphes (2) et (3), les sociétés de portefeuille bancaires ne peuvent exercer leurs activités après la date du cinquième anniversaire de l’entrée en vigueur du présent article.
 
 **Prorogation**
 
 - **(2)** Le gouverneur en conseil peut, par décret, proroger jusqu’à concurrence de six mois la période au cours de laquelle les sociétés de portefeuille bancaires peuvent exercer leurs activités. Un seul décret peut être pris aux termes du présent paragraphe.
-> 1999, ch. 28, art. 65; 2001, ch. 9, art. 183; 2006, ch. 4, art. 199.1.
+
+**Exception**
+
+- **(3)** Si le Parlement est dissous à la date du cinquième anniversaire de l’entrée en vigueur du présent article, au cours des trois mois qui la précèdent ou au cours de la période prévue au paragraphe (2), les sociétés de portefeuille bancaires peuvent exercer leurs activités jusqu’à cent quatre-vingts jours après le premier jour de la première session de la législature suivante.
+> 1999, ch. 28, art. 65; 2001, ch. 9, art. 183; 2006, ch. 4, art. 199.1; 2007, ch. 6, art. 105.
 
 
 
@@ -15432,19 +15487,19 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **678** 
 
-- **(1)** Sur demande présentée conformément aux règlements par une banque pour mettre en oeuvre une proposition visant à constituer une société de portefeuille bancaire qui soit la société mère de la banque, à proroger une personne morale en une société de portefeuille bancaire qui soit la société mère de la banque ou à fusionner plusieurs personnes morales et à les proroger en une société de portefeuille bancaire qui soit la société mère de la banque — et à opérer toute autre modification de structure à l’égard de la banque, notamment l’échange d’actions de la banque contre des actions de la société de portefeuille bancaire — , le ministre peut, pour mettre en oeuvre la proposition :
+- **(1)** Sur demande présentée conformément aux règlements par une banque pour mettre en oeuvre une proposition visant à constituer une société de portefeuille bancaire qui soit la société mère de la banque, à proroger une personne morale en une société de portefeuille bancaire qui soit la société mère de la banque ou à fusionner plusieurs personnes morales et à les proroger en une société de portefeuille bancaire qui soit la société mère de la banque — et à opérer toute autre modification de structure à l’égard de la banque, notamment l’échange d’actions de la banque contre des actions de la société de portefeuille bancaire — , le ministre peut, pour mettre en oeuvre la proposition :
 	- **a)** inclure dans les lettres patentes de la société de portefeuille bancaire délivrées en vertu des articles 671, 684 ou 809 toute clause qu’il estime indiquée;
 	- **b)** par dérogation aux autres dispositions de la présente loi précisées par règlement pris en vertu de l’alinéa (2)e), donner tout agrément qu’il estime nécessaire.
 
 **Règlements**
 
-- **(2)** Le gouverneur en conseil peut, par règlement :
-	- **a)** régir les demandes visées au paragraphe (1), notamment en ce qui concerne leur forme et les renseignements qu’elles doivent contenir, et autoriser le surintendant à demander des renseignements supplémentaires;
+- **(2)** Le gouverneur en conseil peut, par règlement :
+	- **a)** régir les demandes visées au paragraphe (1), notamment en ce qui concerne leur forme et les renseignements qu’elles doivent contenir, et autoriser la demande de renseignements supplémentaires;
 	- **b)** régir les propositions visées au paragraphe (1), notamment en ce qui concerne les renseignements qu’elles doivent contenir et les délais applicables aux opérations qu’elles prévoient;
 	- **c)** régir la procédure à suivre par la banque qui fait la demande;
 	- **d)** régir l’approbation, la confirmation et l’autorisation, y compris par les actionnaires, de tout ou partie des propositions visées au paragraphe (1), notamment les modalités et les conséquences de l’approbation, de la confirmation et de l’autorisation;
 	- **e)** préciser des dispositions de la présente loi pour l’application de l’alinéa (1)b).
-> 1999, ch. 28, art. 72; 2001, ch. 9, art. 183.
+> 1999, ch. 28, art. 72; 2001, ch. 9, art. 183; 2007, ch. 6, art. 106.
 
 
 
@@ -15576,16 +15631,16 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **688** 
 
-- **(1)** Par dérogation à toute autre disposition de la présente loi ou à ses règlements, le ministre peut, par arrêté pris sur recommandation du surintendant, autoriser la société de portefeuille bancaire à laquelle ont été délivrées des lettres patentes en vertu du paragraphe 684(1) à :
+- **(1)** Par dérogation à toute autre disposition de la présente loi ou à ses règlements, le ministre peut, par arrêté pris sur recommandation du surintendant, autoriser la société de portefeuille bancaire à laquelle ont été délivrées des lettres patentes en vertu du paragraphe 684(1) à :
 	- **a)** exercer toute activité précisée dans l’arrêté et interdite par ailleurs par la présente loi mais à laquelle la personne morale prorogée se livrait à la date du dépôt de la demande de lettres patentes;
 	- **b)** maintenir en circulation des titres de créance dont la présente loi n’autorise pas l’émission, dans la mesure où ils étaient déjà en circulation à la date de la demande;
 	- **c)** détenir des éléments d’actif prohibés par la présente loi mais qui, à la date de la demande, appartenaient à la personne morale prorogée;
 	- **d)** acquérir et détenir des éléments d’actif prohibés par la présente loi, dans le cas où la personne morale prorogée était obligée, à la date de la demande, de les acquérir;
-	- **e)** tenir à l’étranger les livres et registres dont la présente loi exige la tenue au Canada, ainsi que tenir et traiter à l’étranger les renseignements et données se rapportant à leur tenue et à leur conservation.
+	- **e)** tenir à l’étranger les livres et registres dont la présente loi exige la tenue au Canada.
 
 **Durée des exceptions**
 
-- **(2)** L’arrêté précise la période de validité de l’autorisation, qui ne peut excéder :
+- **(2)** L’arrêté précise la période de validité de l’autorisation, qui ne peut excéder :
 	- **a)** dans les cas visés à l’alinéa (1)a), trente jours à partir de la date de prise d’effet des lettres patentes ou, lorsque l’activité découle d’accords existant à cette date, la date d’expiration de ces accords;
 	- **b)** dans les cas visés à l’alinéa (1)b), dix ans;
 	- **c)** deux ans dans les autres cas.
@@ -15597,7 +15652,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 **Restriction**
 
 - **(4)** Le ministre ne peut pas délivrer d’autorisation qui serait encore valable plus de dix ans après la date de prise d’effet des lettres patentes dans les cas visés aux alinéas (1)c) et d); dans les cas visés à l’alinéa (1)b), il ne peut le faire que s’il est convaincu, sur la foi de la déposition sous serment d’un dirigeant de la société de portefeuille bancaire, que celle-ci sera dans l’incapacité juridique de racheter les titres de créance visés par l’autorisation encore en circulation à l’expiration de ce délai.
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 107.
 
 
 
@@ -15611,12 +15666,12 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **689** 
 
-- **(1)** La société de portefeuille bancaire peut, avec l’agrément écrit du ministre, demander d’être prorogée en une personne morale régie par une autre loi fédérale ou provinciale.
+- **(1)** La société de portefeuille bancaire ne peut demander d’être prorogée qu’en personne morale régie par une autre loi fédérale ou provinciale et ne peut le faire qu’avec l’agrément écrit du ministre.
 
 **Conditions suspensives**
 
 - **(2)** Le ministre ne peut donner son agrément que s’il est convaincu que la demande de prorogation a été autorisée par résolution extraordinaire.
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 108.
 
 
 
@@ -15679,10 +15734,10 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Société de portefeuille bancaire faisant partie d’un groupe**
 
-**694** Par dérogation à l’article 693 mais sous réserve de l’article 695, la société de portefeuille bancaire qui est du même groupe qu’une autre entité peut, une fois obtenu le consentement de celle-ci et l’agrément du surintendant :
+**694** Par dérogation à l’article 693 mais sous réserve de l’article 695, la société de portefeuille bancaire qui est du même groupe qu’une autre entité peut, une fois obtenu le consentement de celle-ci :
 - **a)** adopter une dénomination sociale à peu près identique à celle de l’entité ou être constituée en personne morale sous une telle dénomination;
 - **b)** sous réserve des modalités fixées par règlement, exercer une activité ou se faire connaître sous un nom, autre que sa dénomination sociale, à peu près identique à la dénomination sociale de l’entité ou à tout autre nom sous lequel l’entité exerce son activité ou est connue.
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 109.
 
 
 
@@ -15919,7 +15974,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 **Documents à envoyer au surintendant**
 
 - **(5)** Lorsqu’ils prennent les mesures autorisées en vertu de l’alinéa (1)b), les administrateurs doivent, avant d’émettre des actions d’une série, envoyer au surintendant un exemplaire du règlement administratif afférent et lui communiquer tous détails sur les séries qui seront émises.
-> 2001, ch. 9, art. 183; 2005, ch. 54, art. 86.
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 86; 2007, ch. 6, art. 110(A).
 
 
 
@@ -16135,18 +16190,24 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 - **(4)** La prise d’effet de la résolution extraordinaire est subordonnée à l’agrément écrit du surintendant.
 
+**Exception**
+
+- **(4.1)** Un tel agrément n’est pas nécessaire si, à la fois :
+	- **a)** la réduction du capital déclaré est due uniquement à des changements apportés aux principes comptables visés au paragraphe 308(4);
+	- **b)** aucun remboursement du capital n’est versé aux actionnaires du fait de la réduction.
+
 **Condition préalable**
 
 - **(5)** Le surintendant ne peut agréer la résolution extraordinaire que si, d’une part, celle-ci lui a été présentée dans les trois mois qui suivent son adoption et, d’autre part, un exemplaire de la résolution et un avis d’intention de la demande d’agrément ont été publiés dans la Gazette du Canada.
 
 **Pièces justificatives**
 
-- **(6)** La demande d’agrément est accompagnée des pièces prouvant l’adoption et la publication de la résolution extraordinaire et précisant :
+- **(6)** La demande d’agrément est accompagnée des pièces prouvant l’adoption et la publication de la résolution extraordinaire et précisant :
 	- **a)** le nombre d’actions émises et en circulation de la société;
 	- **b)** le résultat du vote par catégories d’actions;
 	- **c)** l’actif et le passif de la société;
 	- **d)** les motifs de la réduction projetée.
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 112.
 
 
 
@@ -16223,7 +16284,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Avis au surintendant**
 
-- **(2)** Les administrateurs notifient au surintendant la déclaration de dividendes au moins dix jours avant la date fixée pour leur versement.
+- **(2)** Les administrateurs notifient au surintendant la déclaration de dividendes au moins quinze jours avant la date fixée pour leur versement.
 
 **Dividendes-actions**
 
@@ -16232,7 +16293,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 **Non-versement de dividendes**
 
 - **(4)** Toute déclaration ou tout versement de dividendes est prohibé s’il existe des motifs valables de croire que, ce faisant, la société contrevient, ou contreviendra, aux règlements visés aux paragraphes 949(1) ou (2) ou à l’ordonnance visée au paragraphe 949(3).
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 113.
 
 
 
@@ -16369,12 +16430,12 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Nombre de voix possibles**
 
-- **(2)** La société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à cinq milliards de dollars doit indiquer dans l’avis le nombre de voix possibles, au sens du paragraphe 156.09(1), qui, à la date permettant de déterminer les actionnaires qui ont le droit d’être avisés de l’assemblée, peuvent être exprimées pour chaque vote devant être tenu à l’assemblée.
+- **(2)** La société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars doit indiquer dans l’avis le nombre de voix possibles, au sens du paragraphe 156.09(1), qui, à la date permettant de déterminer les actionnaires qui ont le droit d’être avisés de l’assemblée, peuvent être exprimées pour chaque vote devant être tenu à l’assemblée.
 
 **Publication dans un journal**
 
 - **(3)** Dans le cas où une catégorie quelconque d’actions de la société de portefeuille bancaire est cotée dans une bourse de valeurs mobilières reconnue au Canada, avis des date, heure et lieu de l’assemblée doit également être publié une fois par semaine pendant au moins quatre semaines consécutives avant sa tenue dans un journal à grand tirage au lieu du siège de la société et en chaque lieu au Canada où soit elle a un agent de transfert, soit il est possible d’inscrire tout transfert de ses actions.
-> 2001, ch. 9, art. 183; 2005, ch. 54, art. 93.
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 93; 2007, ch. 6, art. 132.
 
 
 
@@ -16837,8 +16898,8 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Résidence**
 
-- **(2)** Au moins la moitié des administrateurs de la société de portefeuille bancaire qui est la filiale d’une banque étrangère et au moins les deux tiers des administrateurs des autres sociétés de portefeuille bancaires doivent, au moment de leur élection ou nomination, être des résidents canadiens.
-> 2001, ch. 9, art. 183.
+- **(2)** Au moins la moitié des administrateurs de la société de portefeuille bancaire qui est la filiale d’une banque étrangère et la majorité des administrateurs des autres sociétés de portefeuille bancaires doivent, au moment de leur élection ou nomination, être des résidents canadiens.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 114.
 
 
 
@@ -16983,7 +17044,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Exception**
 
-- **(4)** Le paragraphe (2) ne s’applique pas à la société de portefeuille bancaire à participation multiple dont les capitaux propres sont égaux ou supérieurs à cinq milliards de dollars ni à celle qui contrôle une banque à laquelle le paragraphe 378(1) s’applique.
+- **(4)** Le paragraphe (2) ne s’applique pas à la société de portefeuille bancaire à participation multiple dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars ni à celle qui contrôle une banque à laquelle le paragraphe 378(1) s’applique.
 
 **Élection transitoire**
 
@@ -16994,7 +17055,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 **Exception**
 
 - **(6)** La présente partie n’a pas pour effet d’empêcher les détenteurs d’actions d’une catégorie ou série d’avoir le droit exclusif d’élire un ou plusieurs administrateurs.
-> 2001, ch. 9, art. 183; 2005, ch. 54, art. 104.
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 104; 2007, ch. 6, art. 132.
 
 
 
@@ -17873,11 +17934,11 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Réserve**
 
-- **(3)** Par dérogation au paragraphe (1), dans le cas où la société de portefeuille bancaire issue de la fusion est une société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à cinq milliards de dollars, le ministre ne peut délivrer de lettres patentes que si elle est :
+- **(3)** Par dérogation au paragraphe (1), dans le cas où la société de portefeuille bancaire issue de la fusion est une société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars, le ministre ne peut délivrer de lettres patentes que si elle est :
 	- **a)** soit à participation multiple;
 	- **b)** soit contrôlée, au sens des alinéas 3(1)a) et d), par une banque à participation multiple ou une société de portefeuille bancaire à participation multiple qui contrôlait l’un des requérants au moment de la présentation de la demande;
 	- **c)** soit contrôlée, au sens de l’alinéa 3(1)d), par une société de portefeuille d’assurances à participation multiple, par une institution financière canadienne admissible — autre qu’une banque — , au sens du paragraphe 370(1), ou par une institution étrangère admissible, au sens du même paragraphe, qui contrôlait l’un des requérants au moment de la présentation de la demande.
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132.
 
 
 
@@ -17910,10 +17971,10 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 
 
-**Approbation du ministre**
+**Approbation du surintendant**
 
-**805** L’approbation prévue au paragraphe 806(4) est sans effet si, au préalable, le ministre n’a pas approuvé la convention de fusion par écrit.
-> 2001, ch. 9, art. 183.
+**805** L’approbation prévue au paragraphe 806(4) est sans effet si, au préalable, le surintendant n’a pas approuvé la convention de fusion par écrit.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 115.
 
 
 
@@ -18069,16 +18130,16 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **812** 
 
-- **(1)** Malgré toute disposition contraire de la présente loi ou des règlements, le ministre peut, par arrêté pris sur recommandation du surintendant, autoriser la société de portefeuille bancaire ayant reçu les lettres patentes à :
+- **(1)** Malgré toute disposition contraire de la présente loi ou des règlements, le ministre peut, par arrêté pris sur recommandation du surintendant, autoriser la société de portefeuille bancaire ayant reçu les lettres patentes à :
 	- **a)** exercer une activité commerciale précisée dans l’arrêté interdite par ailleurs par la présente loi mais qu’exerçaient à la date du dépôt de la demande de lettres patentes une ou plusieurs des personnes morales fusionnantes;
 	- **b)** maintenir en circulation les titres de créance que la présente loi n’autorise pas la société à émettre, dans la mesure où ils étaient déjà en circulation à la date du dépôt de la demande de lettres patentes;
 	- **c)** détenir des éléments d’actif prohibés par la présente loi mais que détenaient, à la date du dépôt de la demande de lettres patentes, une ou plusieurs des personnes morales fusionnantes;
 	- **d)** acquérir et détenir des éléments d’actif dont l’acquisition et la détention sont interdites à une société de portefeuille bancaire par la présente loi, si une ou plusieurs des personnes morales fusionnantes se trouvaient dans l’obligation, à la date du dépôt de la demande de lettres patentes, de les acquérir;
-	- **e)** tenir à l’étranger les livres et registres dont la présente loi exige la tenue au Canada et tenir et traiter à l’étranger les renseignements et les données se rapportant à la tenue et à la conservation de ces livres et registres.
+	- **e)** tenir à l’étranger les livres et registres dont la présente loi exige la tenue au Canada.
 
 **Durée des exceptions**
 
-- **(2)** L’autorisation accordée en vertu du paragraphe (1) doit préciser la période de validité, laquelle ne peut excéder :
+- **(2)** L’autorisation accordée en vertu du paragraphe (1) doit préciser la période de validité, laquelle ne peut excéder :
 	- **a)** dans les cas visés à l’alinéa (1)a), trente jours à partir de la date de délivrance des lettres patentes ou, lorsque les activités découlent d’ententes existant à la date de délivrance des lettres patentes, la date d’expiration des ententes;
 	- **b)** dans les cas visés à l’alinéa (1)b), dix ans;
 	- **c)** deux ans dans les autres cas.
@@ -18089,10 +18150,10 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Réserve**
 
-- **(4)** Le ministre ne peut accorder d’autorisation qui serait encore valable plus de dix ans :
+- **(4)** Le ministre ne peut accorder d’autorisation qui serait encore valable plus de dix ans :
 	- **a)** après la date de prise d’effet des lettres patentes de fusion dans les cas visés à l’alinéa (1)b), à moins qu’il n’estime, sur la foi d’une déposition sous serment d’un dirigeant de la société, qu’il lui sera juridiquement impossible de racheter les titres de créance encore en circulation à l’expiration de ce délai et qui font l’objet de l’autorisation;
 	- **b)** après la date de prise d’effet des lettres patentes dans les cas visés aux alinéas (1)c) et d).
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 116.
 
 
 
@@ -18317,32 +18378,16 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 
 
-**Lieu de conservation et traitement des données**
+**Lieu de conservation et de traitement des données**
 
 **822** 
 
-- **(1)** Sous réserve du paragraphe (3), la société de portefeuille bancaire doit conserver et traiter au Canada tous les renseignements ou données se rapportant à la tenue et à la conservation des livres visés à l’article 815 ou du registre central des valeurs mobilières, sauf si le surintendant a, aux conditions qu’il estime indiquées, exempté la société de l’application du présent article.
-
-**Copies**
-
-- **(2)** Sous réserve des paragraphes (3) et (4), la société peut conserver à l’étranger des exemplaires des livres visés à l’article 815 ou du registre central des valeurs mobilières, et y traiter les renseignements et les données afférents.
-
-**Renseignements à fournir au surintendant**
-
-- **(3)** Le cas visé au paragraphe (2) échéant, la société en informe le surintendant et lui fournit une liste des exemplaires conservés à l’étranger et une description du traitement à l’étranger des renseignements et des données s’y rapportant, ainsi que les autres renseignements que le surintendant peut exiger.
-
-**Traitement des renseignements au Canada**
-
-- **(4)** S’il estime que la conservation à l’étranger des exemplaires ou que le fait de traiter à l’étranger les renseignements et données s’y rapportant constitue un obstacle à l’exécution de ses fonctions ou s’il est avisé que cela n’est pas, selon le ministre, dans l’intérêt national, le surintendant ordonne à la société d’y procéder au Canada.
+- **(1)** S’il estime que la conservation dans un pays étranger des exemplaires de livres visés à l’article 815 ou du registre central des valeurs mobilières de la société de portefeuille bancaire ou le fait de traiter dans un pays étranger les renseignements et données se rapportant à la tenue et à la conservation des livres ou du registre constitue un obstacle à l’exécution des fonctions qui lui sont conférées en vertu de la présente loi, ou s’il est avisé que cela n’est pas, selon le ministre, dans l’intérêt national, le surintendant ordonne à la société de portefeuille bancaire de s’abstenir de se livrer à ces activités dans ce pays ou de ne s’y livrer qu’au Canada.
 
 **Obligation de se conformer**
 
-- **(5)** La société doit sans délai exécuter l’ordre visé au paragraphe (4).
-
-**Directives**
-
-- **(6)** Le surintendant doit donner des directives sur les circonstances qui peuvent justifier l’exemption visée au paragraphe (1).
-> 2001, ch. 9, art. 183; 2005, ch. 54, art. 122.
+- **(2)** La société de portefeuille bancaire doit exécuter sans délai l’ordre visé au paragraphe (1).
+> 2001, ch. 9, art. 183; 2005, ch. 54, art. 122; 2007, ch. 6, art. 117.
 
 
 
@@ -19275,18 +19320,18 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 
 
 
-**Acquisition d’un intérêt substantiel**
+**Restrictions à l’acquisition**
 
 **875** 
 
-- **(1)** Sous réserve de l’article 876, il est interdit à une personne — ou à l’entité qu’elle contrôle — d’acquérir, sans l’agrément du ministre, des actions d’une société de portefeuille bancaire ou le contrôle d’une entité qui détient de telles actions si l’acquisition :
+- **(1)** Sous réserve de l’article 876, il est interdit à une personne — ou à l’entité qu’elle contrôle — d’acquérir, sans l’agrément du ministre, des actions d’une société de portefeuille bancaire ou le contrôle d’une entité qui détient de telles actions si l’acquisition, selon le cas :
 	- **a)** lui confère un intérêt substantiel dans une catégorie d’actions de la société de portefeuille bancaire en question;
 	- **b)** augmente l’intérêt substantiel qu’elle détient déjà.
 
 **Assimilation**
 
-- **(2)** Dans le cas où une fusion, un regroupement ou une réorganisation confère à l’entité qui en est issue un intérêt substantiel dans une catégorie d’actions d’une société de portefeuille bancaire, cette entité est réputée acquérir un intérêt substantiel dans cette catégorie d’actions de la société de portefeuille bancaire et cette acquisition requiert l’agrément du ministre.
-> 2001, ch. 9, art. 183.
+- **(2)** Dans le cas où l’entité issue d’une fusion, d’un regroupement ou d’une réorganisation aurait un intérêt substantiel dans une catégorie d’actions d’une société de portefeuille bancaire, cette entité est réputée se voir conférer, dans le cadre d’une acquisition qui requiert l’agrément prévu au paragraphe (1), un intérêt substantiel dans cette catégorie d’actions.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 118.
 
 
 
@@ -19296,34 +19341,34 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 
 **876** 
 
-- **(1)** Il est interdit à toute personne d’être un actionnaire important d’une société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à cinq milliards de dollars.
+- **(1)** Il est interdit à toute personne d’être un actionnaire important d’une société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars.
 
 **Exception — banque à participation multiple**
 
-- **(2)** Le paragraphe (1) ne s’applique pas à la banque à participation multiple qui contrôlait, au sens des alinéas 3(1)a) et d), la société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à cinq milliards de dollars au moment où les capitaux propres ont atteint ce montant et n’a pas cessé de la contrôler, au sens des mêmes alinéas, depuis.
+- **(2)** Le paragraphe (1) ne s’applique pas à la banque à participation multiple qui contrôlait, au sens des alinéas 3(1)a) et d), la société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars au moment où les capitaux propres ont atteint ce montant et n’a pas cessé de la contrôler, au sens des mêmes alinéas, depuis.
 
 **Exception — sociétés de portefeuille bancaires à participation multiple**
 
-- **(3)** Le paragraphe (1) ne s’applique pas à la société de portefeuille bancaire à participation multiple qui contrôle, au sens des alinéas 3(1)a) et d), la société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à cinq milliards de dollars si elle la contrôlait, au sens des mêmes alinéas, au moment où les capitaux propres de celle-ci ont atteint ce montant et n’a pas cessé de la contrôler, au sens des mêmes alinéas, depuis.
+- **(3)** Le paragraphe (1) ne s’applique pas à la société de portefeuille bancaire à participation multiple qui contrôle, au sens des alinéas 3(1)a) et d), la société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars si elle la contrôlait, au sens des mêmes alinéas, au moment où les capitaux propres de celle-ci ont atteint ce montant et n’a pas cessé de la contrôler, au sens des mêmes alinéas, depuis.
 
 **Exception — sociétés de portefeuille d’assurances et certaines institutions**
 
-- **(4)** Le paragraphe (1) ne s’applique pas aux entités suivantes qui contrôlaient, au sens de l’alinéa 3(1)d), la société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à cinq milliards de dollars au moment où les capitaux propres ont atteint ce montant et qui n’ont pas cessé de la contrôler, au sens du même alinéa, depuis :
+- **(4)** Le paragraphe (1) ne s’applique pas aux entités suivantes qui contrôlaient, au sens de l’alinéa 3(1)d), la société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars au moment où les capitaux propres ont atteint ce montant et qui n’ont pas cessé de la contrôler, au sens du même alinéa, depuis :
 	- **a)** une société de portefeuille d’assurances à participation multiple;
 	- **b)** une institution financière canadienne admissible autre qu’une banque;
 	- **c)** une institution étrangère admissible.
 
 **Exception — autres entités**
 
-- **(5)** Le paragraphe (1) ne s’applique pas aux personnes qui contrôlent, au sens des alinéas 3(1)a) et d), la société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à cinq milliards de dollars et qui sont elles-mêmes contrôlées, au sens des mêmes alinéas, par une banque à participation multiple visée au paragraphe (2), ou une société de portefeuille bancaire à participation multiple visée au paragraphe (3), qui contrôle la société de portefeuille bancaire.
+- **(5)** Le paragraphe (1) ne s’applique pas aux personnes qui contrôlent, au sens des alinéas 3(1)a) et d), la société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars et qui sont elles-mêmes contrôlées, au sens des mêmes alinéas, par une banque à participation multiple visée au paragraphe (2), ou une société de portefeuille bancaire à participation multiple visée au paragraphe (3), qui contrôle la société de portefeuille bancaire.
 
 **Exception — autres entités**
 
-- **(6)** Le paragraphe (1) ne s’applique pas aux personnes qui contrôlent, au sens de l’alinéa 3(1)d), la société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à cinq milliards de dollars et qui sont elles-mêmes contrôlées, au sens du même alinéa, par l’une ou l’autre des entités suivantes :
+- **(6)** Le paragraphe (1) ne s’applique pas aux personnes qui contrôlent, au sens de l’alinéa 3(1)d), la société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars et qui sont elles-mêmes contrôlées, au sens du même alinéa, par l’une ou l’autre des entités suivantes :
 	- **a)** une société de portefeuille d’assurances à participation multiple visée au paragraphe (4) qui contrôle la société de portefeuille bancaire;
 	- **b)** une institution financière canadienne admissible — autre qu’une banque — visée au paragraphe (4) qui contrôle la société de portefeuille bancaire;
 	- **c)** une institution étrangère admissible visée au paragraphe (4) qui contrôle la société de portefeuille bancaire.
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132.
 
 
 
@@ -19333,7 +19378,7 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 
 **877** 
 
-- **(1)** Malgré l’article 876, si la société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à cinq milliards de dollars est issue d’une fusion, la personne qui est un actionnaire important à la date de prise d’effet des lettres patentes de fusion est tenue de prendre les mesures nécessaires pour que, à l’expiration de l’année qui suit cette date ou dans le délai plus court précisé par le ministre, elle ne soit plus un actionnaire important de la société.
+- **(1)** Malgré l’article 876, si la société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars est issue d’une fusion, la personne qui est un actionnaire important à la date de prise d’effet des lettres patentes de fusion est tenue de prendre les mesures nécessaires pour que, à l’expiration de l’année qui suit cette date ou dans le délai plus court précisé par le ministre, elle ne soit plus un actionnaire important de la société.
 
 **Exception — banque ou société de portefeuille bancaire à participation multiple**
 
@@ -19360,7 +19405,7 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 **Prorogation du délai**
 
 - **(6)** Si les conditions générales du marché le justifient et s’il est convaincu que la personne a fait de son mieux pour se conformer au paragraphe (1) dans le délai imparti, le ministre peut reculer la date à compter de laquelle elle devra se conformer à ce paragraphe.
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132.
 
 
 
@@ -19370,7 +19415,7 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 
 **878** 
 
-- **(1)** La personne qui est un actionnaire important d’une société de portefeuille bancaire dont les capitaux propres sont inférieurs à cinq milliards de dollars est tenue, si le montant des capitaux propres de la société de portefeuille bancaire passe à cinq milliards de dollars ou plus, de prendre les mesures nécessaires pour que, à l’expiration des trois ans qui suivent le moment où le montant est atteint, elle ne soit plus un actionnaire important de la société de portefeuille bancaire.
+- **(1)** La personne qui est un actionnaire important d’une société de portefeuille bancaire dont les capitaux propres sont inférieurs à huit milliards de dollars est tenue, si le montant des capitaux propres de la société de portefeuille bancaire passe à huit milliards de dollars ou plus, de prendre les mesures nécessaires pour que, à l’expiration des trois ans qui suivent le moment où le montant est atteint, elle ne soit plus un actionnaire important de la société de portefeuille bancaire.
 
 **Exception**
 
@@ -19379,7 +19424,7 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 **Prorogation du délai**
 
 - **(3)** Si les conditions générales du marché le justifient et s’il est convaincu que la personne a fait de son mieux pour se conformer au paragraphe (1) dans le délai imparti, le ministre peut reculer la date à compter de laquelle elle devra se conformer à ce paragraphe.
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132.
 
 
 
@@ -19389,7 +19434,7 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 
 **879** 
 
-- **(1)** La société de portefeuille bancaire à participation multiple dont les capitaux propres sont égaux ou supérieurs à cinq milliards de dollars et qui contrôle une banque ou une entité qui contrôle aussi la banque est tenue, si une personne devient un actionnaire important de la banque ou d’une entité qui contrôle aussi la banque, de prendre les mesures nécessaires pour que, à l’expiration de l’année qui suit la date à laquelle la personne est devenue actionnaire important :
+- **(1)** La société de portefeuille bancaire à participation multiple dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars et qui contrôle une banque ou une entité qui contrôle aussi la banque est tenue, si une personne devient un actionnaire important de la banque ou d’une entité qui contrôle aussi la banque, de prendre les mesures nécessaires pour que, à l’expiration de l’année qui suit la date à laquelle la personne est devenue actionnaire important :
 	- **a)** soit elle cesse de contrôler la banque;
 	- **b)** soit la banque ou l’entité n’ait plus d’autre actionnaire important qu’elle ou une entité qu’elle contrôle.
 
@@ -19400,7 +19445,7 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 **Prorogation du délai**
 
 - **(3)** Si les conditions générales du marché le justifient et s’il est convaincu que la société de portefeuille bancaire à participation multiple a fait de son mieux pour se conformer au paragraphe (1) dans le délai imparti, le ministre peut reculer la date à compter de laquelle elle devra se conformer à ce paragraphe.
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132.
 
 
 
@@ -19410,14 +19455,14 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 
 **879.1** 
 
-- **(1)** Par dérogation au paragraphe 879(1), la société de portefeuille bancaire à participation multiple dont les capitaux propres sont égaux ou supérieurs à cinq milliards de dollars et qui contrôle une banque à laquelle ce paragraphe ne s’applique pas en raison du paragraphe 879(2) est tenue, si les capitaux propres de la banque passent à deux cent cinquante millions de dollars ou plus ou au montant prévu par règlement et si à la date où le montant est atteint une personne est un actionnaire important de la banque ou d’une entité qui la contrôle aussi, de prendre les mesures nécessaires pour que, à l’expiration des trois ans qui suivent cette date :
+- **(1)** Par dérogation au paragraphe 879(1), la société de portefeuille bancaire à participation multiple dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars et qui contrôle une banque à laquelle ce paragraphe ne s’applique pas en raison du paragraphe 879(2) est tenue, si les capitaux propres de la banque passent à deux cent cinquante millions de dollars ou plus ou au montant prévu par règlement et si à la date où le montant est atteint une personne est un actionnaire important de la banque ou d’une entité qui la contrôle aussi, de prendre les mesures nécessaires pour que, à l’expiration des trois ans qui suivent cette date :
 	- **a)** soit elle cesse de contrôler la banque;
 	- **b)** soit la banque ou l’entité n’ait plus d’autre actionnaire important qu’elle-même ou une entité qu’elle contrôle.
 
 **Prorogation du délai**
 
 - **(2)** Si les conditions générales du marché le justifient et s’il est convaincu que la société de portefeuille bancaire à participation multiple a fait de son mieux pour se conformer au paragraphe (1) dans le délai imparti, le ministre peut reculer la date à compter de laquelle elle devra se conformer à ce paragraphe.
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132.
 
 
 
@@ -19425,8 +19470,8 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 
 **Intérêt substantiel**
 
-**880** Il est interdit à toute personne ayant un intérêt substantiel dans une catégorie quelconque d’actions d’une société de portefeuille bancaire à participation multiple dont les capitaux propres sont égaux ou supérieurs à cinq milliards de dollars d’avoir un intérêt substantiel dans une catégorie quelconque d’actions d’une filiale de celle-ci qui est aussi une société de portefeuille bancaire ou qui est une banque.
-> 2001, ch. 9, art. 183.
+**880** Il est interdit à toute personne ayant un intérêt substantiel dans une catégorie quelconque d’actions d’une société de portefeuille bancaire à participation multiple dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars d’avoir un intérêt substantiel dans une catégorie quelconque d’actions d’une filiale de celle-ci qui est aussi une société de portefeuille bancaire ou qui est une banque.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132.
 
 
 
@@ -19434,8 +19479,8 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 
 **Intérêt substantiel**
 
-**881** Il est interdit à toute personne ayant un intérêt substantiel dans une catégorie quelconque d’actions d’une société de portefeuille bancaire d’avoir un intérêt substantiel dans une catégorie quelconque d’actions d’une banque à participation multiple, ou d’une société de portefeuille bancaire à participation multiple, dont les capitaux propres sont égaux ou supérieurs à cinq milliards de dollars qui contrôle la société de portefeuille bancaire.
-> 2001, ch. 9, art. 183.
+**881** Il est interdit à toute personne ayant un intérêt substantiel dans une catégorie quelconque d’actions d’une société de portefeuille bancaire d’avoir un intérêt substantiel dans une catégorie quelconque d’actions d’une banque à participation multiple, ou d’une société de portefeuille bancaire à participation multiple, dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars qui contrôle la société de portefeuille bancaire.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132.
 
 
 
@@ -19445,12 +19490,12 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 
 **882** 
 
-- **(1)** Il est interdit à une personne de contrôler, au sens de l’alinéa 3(1)d), une société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à cinq milliards de dollars.
+- **(1)** Il est interdit à une personne de contrôler, au sens de l’alinéa 3(1)d), une société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars.
 
 **Exception — banque à participation multiple**
 
 - **(2)** Le paragraphe (1) ne s’applique pas à la personne si elle est visée à l’un ou l’autre des paragraphes 876(2) à (6).
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132.
 
 
 
@@ -19458,8 +19503,14 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 
 **Restriction — contrôle**
 
-**883** Il est interdit, sans l’agrément préalable du ministre, d’acquérir le contrôle, au sens de l’alinéa 3(1)d), d’une société de portefeuille bancaire dont les capitaux propres sont inférieurs à cinq milliards de dollars.
-> 2001, ch. 9, art. 183.
+**883** 
+
+- **(1)** Il est interdit d’acquérir, sans l’agrément du ministre, le contrôle, au sens de l’alinéa 3(1)d), d’une société de portefeuille bancaire dont les capitaux propres sont inférieurs à huit milliards de dollars.
+
+**Assimilation**
+
+- **(2)** Dans le cas où l’entité issue d’une fusion, d’un regroupement ou d’une réorganisation aurait le contrôle, au sens de l’alinéa 3(1)d), d’une société de portefeuille bancaire dont les capitaux propres sont inférieurs à huit milliards de dollars, cette entité est réputée acquérir, dans le cadre d’une acquisition qui requiert l’agrément prévu au paragraphe (1), le contrôle au sens de cet alinéa.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 119.
 
 
 
@@ -19467,8 +19518,8 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 
 **Contrôle de banques auxquelles s’applique le paragraphe 378(1)**
 
-**884** La société de portefeuille bancaire dont les capitaux propres sont inférieurs à cinq milliards de dollars et qui contrôle une banque à laquelle le paragraphe 378(1) s’applique est réputée, pour l’application des articles 156.09, 727, 876, 879, 879.1, 880, 881, 882, 888 et 890, du paragraphe 891(2), de l’article 893 et du paragraphe 906(2), être une société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à cinq milliards de dollars.
-> 2001, ch. 9, art. 183.
+**884** La société de portefeuille bancaire dont les capitaux propres sont inférieurs à huit milliards de dollars et qui contrôle une banque à laquelle le paragraphe 378(1) s’applique est réputée, pour l’application des articles 156.09, 727, 876, 879, 879.1, 880, 881, 882, 888 et 890, du paragraphe 891(2), de l’article 893 et du paragraphe 906(2), être une société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132.
 
 
 
@@ -19507,8 +19558,8 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 
 **Exemption**
 
-**888** Sur demande d’une société de portefeuille bancaire — sauf une société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à cinq milliards de dollars — , le surintendant peut soustraire à l’application des articles 875 et 887 toute catégorie d’actions sans droit de vote de la société de portefeuille bancaire dont la valeur comptable ne représente pas plus de trente pour cent de la valeur comptable des actions en circulation de la société de portefeuille bancaire.
-> 2001, ch. 9, art. 183.
+**888** Sur demande d’une société de portefeuille bancaire — sauf une société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars — , le surintendant peut soustraire à l’application des articles 875 et 887 toute catégorie d’actions sans droit de vote de la société de portefeuille bancaire dont la valeur comptable ne représente pas plus de trente pour cent de la valeur comptable des actions en circulation de la société de portefeuille bancaire.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132.
 
 
 
@@ -19527,7 +19578,7 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 
 **890** 
 
-- **(1)** Par dérogation aux articles 875 et 887, l’agrément du ministre n’est pas nécessaire dans le cas où une personne qui détient un intérêt substantiel dans une catégorie d’actions d’une société de portefeuille bancaire dont les capitaux propres sont inférieurs à cinq milliards de dollars — ou une entité qu’elle contrôle — acquiert des actions de cette catégorie ou acquiert le contrôle d’une entité qui détient de telles actions et que l’acquisition de ces actions ou du contrôle de l’entité ne porte pas son intérêt à un pourcentage supérieur à celui qui est précisé aux paragraphes (2) ou (3), selon le cas.
+- **(1)** Par dérogation aux articles 875 et 887, l’agrément du ministre n’est pas nécessaire dans le cas où une personne qui détient un intérêt substantiel dans une catégorie d’actions d’une société de portefeuille bancaire dont les capitaux propres sont inférieurs à huit milliards de dollars — ou une entité qu’elle contrôle — acquiert des actions de cette catégorie ou acquiert le contrôle d’une entité qui détient de telles actions et que l’acquisition de ces actions ou du contrôle de l’entité ne porte pas son intérêt à un pourcentage supérieur à celui qui est précisé aux paragraphes (2) ou (3), selon le cas.
 
 **Pourcentage**
 
@@ -19552,7 +19603,7 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 - **(5)** Le gouverneur en conseil peut, par règlement :
 	- **a)** soustraire à l’application de l’alinéa (4)c) l’acquisition d’un intérêt substantiel dans une catégorie d’actions de la société de portefeuille bancaire par une entité contrôlée par la personne;
 	- **b)** soustraire à l’application de l’alinéa (4)d) l’augmentation — dans un pourcentage supérieur à celui précisé aux paragraphes (2) ou (3), selon le cas — de l’intérêt substantiel d’une entité contrôlée par la personne dans une catégorie d’actions de la société de portefeuille bancaire.
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132.
 
 
 
@@ -19568,8 +19619,8 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 
 **Exception**
 
-- **(2)** L’alinéa (1)a) ne s’applique pas à la société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à cinq milliards de dollars.
-> 2001, ch. 9, art. 183.
+- **(2)** L’alinéa (1)a) ne s’applique pas à la société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132.
 
 
 
@@ -19588,20 +19639,20 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 
 **893** 
 
-- **(1)** À compter de la date fixée à son égard conformément au présent article, chaque société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à un milliard de dollars mais inférieurs à cinq milliards de dollars doit avoir un nombre d’actions conférant au moins trente-cinq pour cent des droits de vote attachés à l’ensemble de ses actions en circulation et qui :
+- **(1)** À compter de la date fixée à son égard conformément au présent article, chaque société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à deux milliards de dollars mais inférieurs à huit milliards de dollars doit avoir un nombre d’actions conférant au moins trente-cinq pour cent des droits de vote attachés à l’ensemble de ses actions en circulation et qui :
 	- **a)** d’une part, sont des actions d’une ou plusieurs catégories cotées et négociables dans une bourse reconnue au Canada;
 	- **b)** d’autre part, sont des actions dont aucune personne qui est un actionnaire important à l’égard de ses actions avec droit de vote ni aucune entité contrôlée par une telle personne n’a la propriété effective.
 
 **Date applicable**
 
 - **(2)** La date applicable aux termes du paragraphe (1) se situe :
-	- **a)** dans le cas d’une société de portefeuille bancaire qui a des capitaux propres égaux ou supérieurs à un milliard de dollars mais inférieurs à cinq milliards de dollars à la date où elle est constituée en société de portefeuille bancaire, dans les trois ans suivant cette date;
-	- **b)** dans les autres cas, trois ans après la première assemblée annuelle des actionnaires suivant le moment où les capitaux propres de la société de portefeuille bancaire ont atteint pour la première fois un milliard de dollars.
+	- **a)** dans le cas d’une société de portefeuille bancaire qui a des capitaux propres égaux ou supérieurs à deux milliards de dollars mais inférieurs à huit milliards de dollars à la date où elle est constituée en société de portefeuille bancaire, dans les trois ans suivant cette date;
+	- **b)** dans les autres cas, trois ans après la première assemblée annuelle des actionnaires suivant le moment où les capitaux propres de la société de portefeuille bancaire ont atteint pour la première fois deux milliards de dollars.
 
 **Prolongation**
 
 - **(3)** Le ministre peut, si les conditions générales du marché le justifient et s’il est convaincu que la société de portefeuille bancaire a fait de son mieux pour se conformer au présent article à la date fixée aux termes du paragraphe (2), reculer la date à compter de laquelle la société de portefeuille bancaire devra se conformer au paragraphe (1).
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132 et 133.
 
 
 
@@ -19609,8 +19660,8 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 
 **Obligation en matière de détention publique**
 
-**894** La société de portefeuille bancaire dont les capitaux propres passent à cinq milliards de dollars ou plus reste régie par l’article 893 jusqu’à ce que personne, sauf cas d’application des paragraphes 876(2) à (6), ne soit un actionnaire important.
-> 2001, ch. 9, art. 183.
+**894** La société de portefeuille bancaire dont les capitaux propres passent à huit milliards de dollars ou plus reste régie par l’article 893 jusqu’à ce que personne, sauf cas d’application des paragraphes 876(2) à (6), ne soit un actionnaire important.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132.
 
 
 
@@ -19637,8 +19688,8 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 
 **Augmentation du capital**
 
-**896** L’article 893 ne s’applique pas, pendant la période spécifiée par le surintendant, à la société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à un milliard de dollars mais inférieurs à cinq milliards de dollars et à laquelle il a imposé, par ordonnance, une augmentation de capital s’il y a eu émission et acquisition d’actions selon les modalités prévues dans l’ordonnance.
-> 2001, ch. 9, art. 183.
+**896** L’article 893 ne s’applique pas, pendant la période spécifiée par le surintendant, à la société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à deux milliards de dollars mais inférieurs à huit milliards de dollars et à laquelle il a imposé, par ordonnance, une augmentation de capital s’il y a eu émission et acquisition d’actions selon les modalités prévues dans l’ordonnance.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132 et 133.
 
 
 
@@ -19741,12 +19792,12 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 
 **902** 
 
-- **(1)** Par dérogation aux articles 876 et 882, une banque ou une société de portefeuille bancaire à participation multiple peut être un actionnaire important d’une société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à cinq milliards de dollars et cesser de la contrôler au sens des alinéas 3(1)a) et d) si elle a conclu un accord avec le ministre prévoyant les mesures qu’elle doit prendre pour cesser d’être un actionnaire important dans le délai précisé dans l’accord.
+- **(1)** Par dérogation aux articles 876 et 882, une banque ou une société de portefeuille bancaire à participation multiple peut être un actionnaire important d’une société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars et cesser de la contrôler au sens des alinéas 3(1)a) et d) si elle a conclu un accord avec le ministre prévoyant les mesures qu’elle doit prendre pour cesser d’être un actionnaire important dans le délai précisé dans l’accord.
 
 **Prorogation du délai**
 
 - **(2)** Si les conditions générales du marché le justifient et s’il est convaincu que la banque ou la société de portefeuille bancaire, selon le cas, a fait de son mieux pour se conformer au paragraphe (1) dans le délai imparti, le ministre peut reculer la date à compter de laquelle l’institution financière devra se conformer à ce paragraphe.
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132.
 
 
 
@@ -19756,12 +19807,12 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 
 **903** 
 
-- **(1)** Par dérogation aux articles 876 et 882, une institution étrangère admissible, une institution financière canadienne admissible — autre qu’une banque — ou une société de portefeuille d’assurances à participation multiple peut être un actionnaire important d’une société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à cinq milliards de dollars et cesser d’en avoir le contrôle, au sens de l’alinéa 3(1)d), si elle a conclu un accord avec le ministre prévoyant les mesures qu’elle doit prendre pour cesser d’être un actionnaire important dans le délai précisé dans l’accord.
+- **(1)** Par dérogation aux articles 876 et 882, une institution étrangère admissible, une institution financière canadienne admissible — autre qu’une banque — ou une société de portefeuille d’assurances à participation multiple peut être un actionnaire important d’une société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars et cesser d’en avoir le contrôle, au sens de l’alinéa 3(1)d), si elle a conclu un accord avec le ministre prévoyant les mesures qu’elle doit prendre pour cesser d’être un actionnaire important dans le délai précisé dans l’accord.
 
 **Prorogation du délai**
 
 - **(2)** Si les conditions générales du marché le justifient et s’il est convaincu que l’institution ou la société de portefeuille d’assurances a fait de son mieux pour se conformer au paragraphe (1) dans le délai imparti, le ministre peut reculer la date à compter de laquelle elle devra se conformer à ce paragraphe.
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132.
 
 
 
@@ -19771,14 +19822,14 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 
 **904** 
 
-- **(1)** La personne morale qui est une institution financière admissible mais non une banque et qui contrôle, au sens de l’alinéa 3(1)d), une société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à cinq milliards de dollars est tenue, si elle perd la qualité d’institution financière admissible, de prendre les mesures nécessaires pour que, à l’expiration de l’année qui suit la date de la perte de qualité :
+- **(1)** La personne morale qui est une institution financière admissible mais non une banque et qui contrôle, au sens de l’alinéa 3(1)d), une société de portefeuille bancaire dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars est tenue, si elle perd la qualité d’institution financière admissible, de prendre les mesures nécessaires pour que, à l’expiration de l’année qui suit la date de la perte de qualité :
 	- **a)** elle cesse de contrôler, au sens de l’alinéa 3(1)d), la société de portefeuille bancaire;
 	- **b)** elle ne soit plus un actionnaire important de la société de portefeuille bancaire.
 
 **Prorogation du délai**
 
 - **(2)** Si les conditions générales du marché le justifient et s’il est convaincu que la personne morale a fait de son mieux pour se conformer au paragraphe (1) dans le délai imparti, le ministre peut reculer la date à compter de laquelle elle devra se conformer à ce paragraphe.
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132.
 
 
 
@@ -19807,7 +19858,7 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 
 **906** 
 
-- **(1)** Pour décider s’il approuve ou non une opération nécessitant l’agrément aux termes de l’article 875, le ministre, sous réserve du paragraphe (2), prend en considération tous les facteurs qu’il estime indiqués, notamment :
+- **(1)** Pour décider s’il approuve ou non une opération nécessitant l’agrément aux termes de l’article 875, le ministre, sous réserve du paragraphe (2), prend en considération tous les facteurs qu’il estime indiqués, notamment :
 	- **a)** la nature et l’importance des moyens financiers du ou des demandeurs pour le soutien financier continu de toute banque qui est une filiale de la société de portefeuille bancaire;
 	- **b)** le sérieux et la faisabilité de leurs plans pour la conduite et l’expansion futures de l’activité de toute banque qui est une filiale de la société de portefeuille bancaire;
 	- **c)** leur expérience et leur dossier professionnel;
@@ -19818,14 +19869,14 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 
 **Exception**
 
-- **(2)** Sous réserve du paragraphe 882(1), le ministre ne tient compte que du facteur mentionné à l’alinéa (1)d) dans les cas où l’opération aurait pour effet la détention :
-	- **a)** de plus de dix mais d’au plus vingt pour cent d’une catégorie d’actions avec droit de vote en circulation d’une société de portefeuille bancaire à participation multiple dont les capitaux propres sont égaux ou supérieurs à cinq milliards de dollars;
+- **(2)** Sous réserve du paragraphe 882(1), le ministre ne tient compte que du facteur mentionné à l’alinéa (1)d) dans les cas où l’opération aurait pour effet la détention :
+	- **a)** de plus de dix mais d’au plus vingt pour cent d’une catégorie d’actions avec droit de vote en circulation d’une société de portefeuille bancaire à participation multiple dont les capitaux propres sont égaux ou supérieurs à huit milliards de dollars;
 	- **b)** de plus de dix mais d’au plus trente pour cent d’une catégorie d’actions sans droit de vote en circulation d’une telle société de portefeuille bancaire.
 
 **Traitement favorable**
 
-- **(3)** Lorsque l’opération a pour effet de faire d’une société de portefeuille bancaire la filiale d’une banque étrangère, au sens des alinéas a) à f) de la définition de « banque étrangère » à l’article 2, qui est une banque étrangère d’un non-membre de l’OMC, le ministre ne peut l’approuver que s’il est convaincu que les sociétés de portefeuille bancaires régies par la présente loi bénéficient ou bénéficieront d’un traitement aussi favorable sur le territoire où la banque étrangère exerce principalement son activité, directement ou par l’intermédiaire d’une filiale.
-> 2001, ch. 9, art. 183.
+- **(3)** Lorsque l’opération a pour effet de faire d’une société de portefeuille bancaire la filiale d’une banque étrangère, au sens des alinéas a) à f) de la définition de  ***banque étrangère*** à l’article 2, qui est une banque étrangère d’un non-membre de l’OMC, le ministre ne peut l’approuver que s’il est convaincu que les sociétés de portefeuille bancaires régies par la présente loi bénéficient ou bénéficieront d’un traitement aussi favorable sur le territoire où la banque étrangère exerce principalement son activité, directement ou par l’intermédiaire d’une filiale.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 132.
 
 
 
@@ -19844,12 +19895,12 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 
 **908** 
 
-- **(1)** Lorsque, à son avis, la demande faite dans le cadre de la présente section est complète, le surintendant la transmet sans délai au ministre et adresse au demandeur un accusé de réception précisant la date de celle-ci.
+- **(1)** Lorsque, à son avis, la demande faite dans le cadre de la présente section est complète, le surintendant la transmet sans délai au ministre et adresse au demandeur un accusé de réception précisant la date où elle a été reçue.
 
 **Demande incomplète**
 
 - **(2)** Dans le cas contraire, le surintendant envoie au demandeur un avis précisant les renseignements manquants à lui communiquer.
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 120(F).
 
 
 
@@ -20194,7 +20245,15 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 **Exception : fait involontaire**
 
 - **(4)** La société de portefeuille bancaire est réputée ne pas contrevenir au paragraphe (1) quand elle acquiert le contrôle d’une entité ou acquiert ou augmente un intérêt de groupe financier dans une entité en raison uniquement d’un événement dont elle n’est pas maître.
-> 2001, ch. 9, art. 183.
+
+**Application d’une autre disposition**
+
+- **(5)** Malgré l’acquisition par elle du contrôle d’une entité ou d’un intérêt de groupe financier dans une entité au titre d’une disposition de la présente partie, la société de portefeuille bancaire peut continuer à contrôler l’entité ou à détenir l’intérêt de groupe financier comme si elle avait procédé à l’acquisition au titre d’une autre disposition de la présente partie, pourvu que les conditions prévues par cette autre disposition soient respectées.
+
+**Assimilation**
+
+- **(6)** Si elle décide d’exercer le pouvoir prévu au paragraphe (5), la société de portefeuille bancaire est réputée acquérir le contrôle ou l’intérêt de groupe financier au titre de l’autre disposition.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 121.
 
 
 
@@ -20231,7 +20290,7 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 	- **g)** une société de fiducie, de prêt ou d’assurances constituée en personne morale ou formée sous le régime d’une loi provinciale;
 	- **h)** une société coopérative de crédit constituée en personne morale ou formée et réglementée sous le régime d’une loi provinciale;
 	- **i)** une entité constituée en personne morale ou formée sous le régime d’une loi fédérale ou provinciale et dont l’activité principale est le commerce des valeurs mobilières;
-	- **j)** une entité qui est constituée en personne morale ou formée et réglementée autrement que sous le régime d’une loi fédérale ou provinciale et qui exerce principalement, à l’étranger, des activités qui, au Canada, seraient des opérations bancaires, l’activité d’une société coopérative de crédit, l’assurance, la prestation de services fiduciaires ou le commerce de valeurs mobilières.
+	- **j)** une entité qui est constituée en personne morale ou formée et réglementée autrement que sous le régime d’une loi fédérale ou provinciale et qui exerce principalement, à l’étranger, des activités commerciales qui, au Canada, seraient des opérations bancaires, l’activité d’une société coopérative de crédit, des opérations d’assurance, la prestation de services fiduciaires ou le commerce de valeurs mobilières.
 
 **Placements autorisés**
 
@@ -20247,7 +20306,7 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 	- **d)** toute activité qu’une banque peut exercer, autre qu’une activité visée aux alinéas a) ou e), se rapportant :
 		- **(i)** soit à la vente, la promotion, la livraison ou la distribution d’un service ou d’un produit financiers fournis par un membre du groupe de la société de portefeuille bancaire,
 		- **(ii)** soit, si l’activité commerciale de l’entité consiste, en grande partie, en une activité visée au sous-alinéa (i), à la vente, la promotion, la livraison ou la distribution d’un service ou d’un produit financiers d’une entité dont l’activité commerciale principale consiste en la prestation de services financiers;
-	- **e)** les activités visées aux définitions de « entité s’occupant de fonds mutuels », « courtier de fonds mutuels » ou « courtier immobilier » au paragraphe 464(1);
+	- **e)** les activités visées aux définitions de ***courtier de fonds mutuels***, ***courtier immobilier***, ***entité s’occupant de fonds mutuels*** ou ***fonds d’investissement à capital fixe*** au paragraphe 464(1);
 	- **f)** les activités prévues par règlement, pourvu qu’elles s’exercent selon les modalités éventuellement fixées par règlement.
 
 **Restriction**
@@ -20261,6 +20320,16 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 		- **(ii)** dans le cas où l’entité n’est pas contrôlée par la société de portefeuille bancaire, l’acquisition par une banque d’un intérêt de groupe financier dans l’autre entité serait permise aux termes du paragraphe 466(2), des alinéas 466(3)b) ou c) ou des paragraphes 466(4) ou 468(1) ou (2);
 	- **e)** des activités prévues par règlement.
 
+**Exception**
+
+- **(3.1)** Malgré l’alinéa (3)a), la société de portefeuille bancaire peut acquérir le contrôle d’une entité qui exerce des activités de fiduciaire et y est autorisée par les lois d’une province ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité si celle-ci est, selon le cas :
+	- **a)** un fonds d’investissement à capital fixe;
+	- **b)** une entité s’occupant de fonds mutuels;
+	- **c)** une entité dont l’activité commerciale est limitée à l’une ou l’autre des activités suivantes :
+		- **(i)** les activités d’un courtier de fonds mutuels,
+		- **(ii)** les services qu’une banque est autorisée à fournir dans le cadre de l’alinéa 410(1)c.2),
+		- **(iii)** la prestation de services de conseil en placement et de gestion de portefeuille.
+
 **Contrôle**
 
 - **(4)** Sous réserve du paragraphe (8) et des règlements, les règles suivantes s’appliquent à l’acquisition par la société de portefeuille bancaire du contrôle des entités suivantes et à l’acquisition ou à l’augmentation par elle d’un intérêt de groupe financier dans ces entités :
@@ -20270,10 +20339,10 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 	- **b)** s’agissant d’une entité visée aux alinéas (1)c) à j), elle ne peut le faire que si :
 		- **(i)** soit elle la contrôle ou en acquiert de la sorte le contrôle, au sens de l’alinéa 3(1)d),
 		- **(ii)** soit elle est autorisée par règlement pris en vertu de l’alinéa 936a) à acquérir ou augmenter l’intérêt;
-	- **c)** s’agissant d’une entité qui exerce une activité visée à l’alinéa (2)a) et qui exerce, dans le cadre de son activité commerciale, des activités d’intermédiaire financier comportant des risques importants de crédit ou de marché, notamment une entité s’occupant d’affacturage, une entité s’occupant de crédit-bail ou une entité s’occupant de financement, elle ne peut le faire que si :
+	- **c)** s’agissant d’une entité dont l’activité commerciale comporte une activité visée à l’alinéa (2)a) et qui exerce, dans le cadre de son activité commerciale, des activités d’intermédiaire financier comportant des risques importants de crédit ou de marché, notamment une entité s’occupant d’affacturage, une entité s’occupant de crédit-bail ou une entité s’occupant de financement, elle ne peut le faire que si :
 		- **(i)** soit elle la contrôle ou en acquiert de la sorte le contrôle, au sens de l’alinéa 3(1)d),
 		- **(ii)** soit elle est autorisée par règlement pris en vertu de l’alinéa 936a) à acquérir ou augmenter l’intérêt;
-	- **d)** s’agissant d’une entité qui exerce une activité visée à l’alinéa (2)b), y compris une entité s’occupant de financement spécial, elle ne peut le faire que si :
+	- **d)** s’agissant d’une entité dont l’activité commerciale comporte une activité visée à l’alinéa (2)b), y compris une entité s’occupant de financement spécial, elle ne peut le faire que si :
 		- **(i)** soit elle la contrôle ou en acquiert de la sorte le contrôle, au sens de l’alinéa 3(1)d),
 		- **(ii)** soit elle est autorisée par règlement pris en vertu de l’alinéa 936a) à acquérir ou augmenter l’intérêt,
 		- **(iii)** soit, sous réserve des modalités éventuellement fixées par règlement, les activités de l’entité ne comportent pas l’acquisition ou la détention du contrôle d’une entité visée à l’un ou l’autre des alinéas a) à c) ou d’une entité qui n’est pas une entité admissible, ni d’actions ou de titres de participation dans celle-ci.
@@ -20286,7 +20355,8 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 		- **(i)** une entité s’occupant d’affacturage,
 		- **(ii)** une entité s’occupant de crédit-bail;
 	- **c)** acquérir le contrôle d’une entité dont l’activité commerciale comporte des activités visées à l’alinéa (2)d) ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité;
-	- **d)** acquérir le contrôle d’une entité qui exerce des activités visées aux alinéas 410(1)c) ou c.1) ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité;
+	- **d)** acquérir le contrôle d’une entité qui exerce au Canada des activités visées à l’alinéa 410(1)c) ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité;
+	- **d.1)** acquérir le contrôle d’une entité qui exerce des activités visées à l’alinéa 410(1)c.1) ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité;
 	- **e)** acquérir le contrôle d’une entité qui exerce des activités prévues par règlement d’application de l’alinéa (2)f) ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité.
 
 **Agrément du surintendant**
@@ -20296,7 +20366,7 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 **Exception**
 
 - **(7)** Le paragraphe (6) ne s’applique pas à une opération dans l’un ou l’autre des cas suivants :
-	- **a)** l’entité dont le contrôle est acquis exerce une activité visée à l’alinéa (2)b) mais n’est pas une entité s’occupant de financement spécial;
+	- **a)** l’entité dont le contrôle est acquis n’est pas une entité s’occupant de financement spécial et le seul motif pour lequel l’agrément serait exigé, n’eût été le présent paragraphe, est l’exercice par elle d’une activité visée à l’alinéa (2)b);
 	- **b)** les activités de l’entité dont le contrôle est acquis se limitent aux activités qu’exercent une entité s’occupant d’affacturage ou une entité s’occupant de crédit-bail;
 	- **c)** le ministre a agréé l’opération dans le cadre du paragraphe (5) ou il est réputé l’avoir agréée dans le cadre du paragraphe 931(1).
 
@@ -20321,7 +20391,7 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 **Présomption d’agrément**
 
 - **(12)** Si la société de portefeuille bancaire contrôle, au sens des alinéas 3(1)a), b) ou c), une entité, les paragraphes (5) et (6) ne s’appliquent pas aux augmentations postérieures par la société de portefeuille bancaire de son intérêt de groupe financier dans l’entité tant qu’elle continue de la contrôler.
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 122 et 134(F).
 
 
 
@@ -20383,14 +20453,14 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 
 **Placement provisoire**
 
-- **(3)** La société de portefeuille bancaire qui, au moyen d’un placement provisoire, acquiert le contrôle ou acquiert ou augmente un intérêt de groupe financier dans un cas où l’agrément du ministre est requis dans le cadre du paragraphe 930(5) doit, dans les quatre-vingt-dix jours qui suivent l’acquisition :
-	- **a)** soit demander l’agrément du ministre pour continuer à détenir le contrôle ou l’intérêt pour la période précisée par le ministre ou pour une période indéterminée, aux conditions que celui-ci estime indiquées;
+- **(3)** La société de portefeuille bancaire qui, au moyen d’un placement provisoire, acquiert le contrôle ou acquiert ou augmente un intérêt de groupe financier dans un cas où l’agrément du ministre aurait été requis dans le cadre du paragraphe 930(5) si le contrôle avait été acquis ou l’intérêt de groupe financier acquis ou augmenté au titre de l’article 930 doit, dans les quatre-vingt-dix jours qui suivent l’acquisition :
+	- **a)** soit demander l’agrément du ministre pour continuer à détenir le contrôle ou l’intérêt pour la période précisée par le ministre ou pour une période indéterminée, aux conditions que celui-ci estime appropriées;
 	- **b)** soit prendre les mesures nécessaires pour éliminer le contrôle ou ne plus détenir un intérêt de groupe financier à l’expiration des quatre-vingt-dix jours.
 
 **Placement provisoire**
 
-- **(4)** Si la société de portefeuille bancaire, au moyen d’un placement provisoire, acquiert le contrôle ou acquiert ou augmente un intérêt de groupe financier dans un cas où l’agrément du surintendant est requis dans le cadre du paragraphe 930(6), le surintendant peut, sur demande, autoriser la société de portefeuille bancaire à conserver le contrôle de l’entité ou l’intérêt de groupe financier pour une période indéterminée, aux conditions qu’il estime indiquées.
-> 2001, ch. 9, art. 183.
+- **(4)** Si la société de portefeuille bancaire, au moyen d’un placement provisoire, acquiert le contrôle ou acquiert ou augmente un intérêt de groupe financier dans un cas où l’agrément du surintendant aurait été requis dans le cadre du paragraphe 930(6) si le contrôle avait été acquis ou l’intérêt de groupe financier acquis ou augmenté au titre de l’article 930, le surintendant peut, sur demande, autoriser la société de portefeuille bancaire à conserver le contrôle de l’entité ou l’intérêt de groupe financier pour une période indéterminée, aux conditions qu’il estime appropriées.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 123.
 
 
 
@@ -20596,7 +20666,7 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 
 **944** 
 
-- **(1)** Il est interdit à la société de portefeuille bancaire — et celle-ci doit l’interdire à ses filiales — sans l’agrément du surintendant, d’acquérir des éléments d’actif auprès d’une personne ou de céder des éléments d’actif à une personne si :
+- **(1)** Il est interdit à la société de portefeuille bancaire — et celle-ci doit l’interdire à ses filiales — sans l’agrément du surintendant, d’acquérir des éléments d’actif auprès d’une personne ou de céder des éléments d’actif à une personne si :
 ```
 A + B > C
 ```
@@ -20605,15 +20675,19 @@ où :
 - **B** la valeur de tous les éléments d’actif que la société de portefeuille bancaire et ses filiales ont acquis auprès de cette personne ou cédés à celle-ci pendant la période de douze mois précédant la date d’acquisition ou de cession;
 - **C** dix pour cent de la valeur totale de l’actif de la société de portefeuille bancaire figurant dans le dernier rapport annuel établi avant la date d’acquisition ou de cession.
 
+**Agrément dans le cadre d’une ou de plusieurs opérations**
+
+- **(1.1)** Le surintendant peut, pour l’application du paragraphe (1), agréer une opération ou une série d’opérations liée à l’acquisition ou à la cession d’éléments d’actif pouvant être conclue avec une personne ou avec plusieurs personnes faisant partie d’une catégorie déterminée, qu’elles soient connues ou non au moment de l’octroi de l’agrément.
+
 **Exception**
 
-- **(2)** Cette interdiction ne s’applique toutefois pas :
-	- **a)** aux éléments d’actif qui consistent en titres de créance :
+- **(2)** Le paragraphe (1) ne s’applique pas :
+	- **a)** aux éléments d’actif qui consistent en titres de créance :
 		- **(i)** soit garantis par une institution financière,
 		- **(ii)** soit pleinement garantis par des dépôts auprès d’une institution financière,
 		- **(iii)** soit pleinement garantis par des titres de créance garantis par une institution financière;
-	- **b)** aux éléments d’actif qui consistent en titres de créance émis :
-		- **(i)** par les entités suivantes, ou un de leurs organismes :
+	- **b)** aux éléments d’actif qui consistent en titres de créance émis :
+		- **(i)** par les entités suivantes, ou un de leurs organismes :
 			- **(A)** le gouvernement du Canada,
 				- **(B)** le gouvernement d’une province,
 				- **(C)** une municipalité,
@@ -20622,28 +20696,28 @@ où :
 	- **c)** aux éléments d’actif qui consistent en titres de créance garantis par un gouvernement, une municipalité ou un organisme visé à l’alinéa b) ou pleinement garantis par des titres émis par eux;
 	- **d)** aux éléments d’actif qui consistent en titres de créance qui sont largement distribués, au sens des règlements;
 	- **e)** aux éléments d’actif qui consistent en titres de créance d’une entité contrôlée par la société de portefeuille bancaire;
-	- **f)** aux opérations ou séries d’opérations intervenues entre la filiale d’une société de portefeuille bancaire et une institution financière à la suite de la participation de la filiale et de l’institution à la syndication de prêts.
+	- **f)** aux éléments d’actif acquis ou cédés dans le cadre d’une opération ou d’une série d’opérations intervenue entre la filiale d’une société de portefeuille bancaire et une institution financière à la suite de la participation de la filiale et de l’institution à la syndication de prêts.
 
 **Exception**
 
-- **(3)** L’agrément du surintendant n’est pas nécessaire dans l’un ou l’autre des cas suivants :
+- **(3)** L’agrément du surintendant n’est pas nécessaire dans l’un ou l’autre des cas suivants :
 	- **a)** la société de portefeuille bancaire ou l’une de ses filiales acquiert les actions ou des titres de participation d’une entité dans un cas où l’agrément du ministre est requis dans le cadre de la section 7 ou du paragraphe 930(5) ou dans un cas où l’agrément du surintendant est requis dans le cadre du paragraphe 930(6);
 	- **b)** l’opération a été approuvée par le ministre dans le cadre du paragraphe 678(1) de la présente loi ou du paragraphe 715(1) de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md).
 
 **Calcul de la valeur des éléments d’actif**
 
-- **(4)** Pour le calcul de l’élément A de la formule figurant au paragraphe (1), la valeur des éléments d’actif est :
+- **(4)** Pour le calcul de l’élément A de la formule figurant au paragraphe (1), la valeur des éléments d’actif est :
 	- **a)** dans le cas où les éléments sont acquis, leur prix d’achat ou, s’il s’agit d’actions ou de titres de participation d’une entité dont les éléments d’actif figureront au rapport annuel de la société de portefeuille bancaire après l’acquisition, la juste valeur marchande de ces éléments d’actif;
-	- **b)** dans le cas où les éléments sont cédés, la valeur comptable des éléments figurant au dernier rapport annuel de la société de portefeuille bancaire établi avant la date de cession ou, s’il s’agit d’actions ou de titres de participation d’une entité dont les éléments d’actif figuraient au dernier rapport annuel établi avant la date de cession, la valeur des éléments figurant dans le rapport annuel.
+	- **b)** dans le cas où les éléments sont cédés, la valeur des éléments qui est visée au dernier rapport annuel de la société de portefeuille bancaire établi avant la cession ou, si la valeur n’est pas visée à ce rapport, la valeur qui serait visée au dernier rapport si celui-ci avait été établi avant la cession selon les principes comptables visés au paragraphe 840(4).
 
-**Sens de « valeur de tous les éléments d’actif »**
+**Sens de valeur de tous les éléments d’actif**
 
 - **(5)** Pour l’application du paragraphe (1), la valeur de tous les éléments d’actif acquis par une société de portefeuille bancaire et ses filiales au cours de la période de douze mois visée au paragraphe (1) est leur prix d’achat ou, s’il s’agit d’actions ou de titres de participation d’une entité dont les éléments d’actif figureront au rapport annuel de la société de portefeuille bancaire après l’acquisition, la juste valeur marchande de ces éléments d’actif à la date d’acquisition.
 
-**Sens de « valeur de tous les éléments d’actif »**
+**Valeur de tous les éléments d’actif**
 
-- **(6)** Pour l’application du paragraphe (1), la valeur de tous les éléments d’actif cédés par une société de portefeuille bancaire et ses filiales au cours de la période de douze mois visée au paragraphe (1) est la valeur comptable des éléments figurant au dernier rapport annuel de la société de portefeuille bancaire établi avant la date de cession ou, s’il s’agit d’actions ou de titres de participation d’une entité dont les éléments d’actif figuraient au dernier rapport annuel établi avant la date de cession, la valeur des éléments de l’entité figurant dans le rapport annuel.
-> 2001, ch. 9, art. 183.
+- **(6)** Pour l’application du paragraphe (1), la valeur de tous les éléments d’actif cédés par une société de portefeuille bancaire et ses filiales au cours de la période de douze mois visée au paragraphe (1) est le total de la valeur de chacun de ces éléments qui est visée au dernier rapport annuel de la société établi avant la cession de l’élément ou, si elle n’est pas visée à ce rapport, qui serait visée au dernier rapport, si celui-ci avait été établi avant la cession selon les principes comptables visés au paragraphe 840(4).
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 124.
 
 
 
@@ -21221,42 +21295,114 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 
 
-### Agréments : conditions et engagements
+### Agréments
 
 
 
-**Définition de « agrément »**
+**Définition de agrément**
 
-**973** 
+**973** Aux articles 973.01 à 973.06, ***agrément*** s’entend notamment de toute approbation, désignation, consentement, accord, arrêté, ordonnance, exemption, dispense, prorogation ou prolongation ou autre autorisation accordée sous le régime de la présente loi, par le ministre ou le surintendant, selon le cas; y est assimilée la délivrance de lettres patentes.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 125.
 
-- **(1)** Au présent article, « agrément » s’entend notamment de toute approbation, consentement, accord, arrêté, ordonnance, exemption, dispense, prorogation ou prolongation ou autre autorisation accordée en vertu de la présente loi, par le ministre ou le surintendant, selon le cas; y est assimilée la délivrance de lettres patentes.
 
-**Ministre : conditions et engagements**
 
-- **(2)** Sans préjudice de toute autre mesure fondée sur la présente loi, le ministre peut subordonner l’octroi de son agrément à la réalisation des conditions et engagements qu’il estime nécessaires, notamment ceux que précise le surintendant afin de mettre en oeuvre des mesures visant à maintenir ou à améliorer la santé financière de toute institution financière régie par une loi fédérale et visée par l’agrément ou susceptible d’être touchée par celui-ci.
 
-**Surintendant : conditions et engagements**
 
-- **(3)** Sans préjudice de toute autre mesure fondée sur la présente loi, le surintendant peut subordonner l’octroi de son agrément à la réalisation des conditions et engagements qu’il estime nécessaires.
+**Facteurs : ministre**
 
-**Effet de la non-réalisation des conditions ou engagements**
+**973.01** 
 
-- **(4)** Sauf disposition contraire expresse de la présente loi, la non-réalisation des conditions ou engagements auxquels l’agrément est subordonné aux termes d’une disposition quelconque de la présente loi ne rend pas celui-ci nul pour autant.
+- **(1)** Outre les facteurs et conditions prévus par la présente loi qui sont liés à l’octroi d’un agrément, le ministre peut prendre en compte tous les facteurs qu’il estime pertinents dans les circonstances avant d’octroyer son agrément, notamment :
+	- **a)** la sécurité nationale;
+	- **b)** les relations internationales du Canada et ses obligations juridiques internationales.
 
-**Non-réalisation**
+**Facteurs : surintendant**
 
-- **(5)** Sans préjudice de toute autre mesure fondée sur la présente loi, en cas de non-réalisation par une personne des conditions ou engagements auxquels l’agrément est subordonné aux termes d’une disposition quelconque de la présente loi, le ministre ou le surintendant, selon le cas, peut :
-	- **a)** soit révoquer, suspendre ou modifier l’agrément;
-	- **b)** soit demander au tribunal une ordonnance enjoignant à cette personne de se conformer aux conditions ou engagements, le tribunal pouvant alors acquiescer à la demande et rendre toute autre ordonnance qu’il juge indiquée.
+- **(2)** Outre les facteurs et conditions prévus par la présente loi qui sont liés à l’octroi d’un agrément et les considérations de prudence qu’il estime pertinentes dans les circonstances, le surintendant peut, avant d’octroyer son agrément, prendre en compte :
+	- **a)** la sécurité nationale;
+	- **b)** les relations internationales du Canada et ses obligations juridiques internationales.
+> 2007, ch. 6, art. 125.
+
+
+
+
+
+**Ministre : conditions et engagements**
+
+**973.02** 
+
+- **(1)** Sans préjudice de toute autre mesure fondée sur la présente loi, le ministre peut subordonner l’octroi de son agrément à la réalisation des conditions et engagements qu’il estime appropriés, notamment ceux que précise le surintendant afin de mettre en oeuvre des mesures visant à maintenir ou à améliorer la santé financière de toute institution financière régie par une loi fédérale et visée par l’agrément ou susceptible d’être touchée par celui-ci.
+
+**Surintendant : conditions et engagements**
+
+- **(2)** Sans préjudice de toute autre mesure fondée sur la présente loi, le surintendant peut subordonner l’octroi de son agrément à la réalisation des conditions et engagements qu’il estime appropriés.
+> 2007, ch. 6, art. 125.
+
+
+
+
+
+**Révocation, suspension ou modification de l’agrément du ministre**
+
+**973.03** 
+
+- **(1)** Le ministre peut révoquer, suspendre ou modifier son agrément s’il l’estime indiqué. Pour ce faire, il peut prendre en compte tous les facteurs qu’il estime pertinents dans les circonstances, notamment :
+	- **a)** la sécurité nationale;
+	- **b)** les relations internationales du Canada et ses obligations juridiques internationales.
+
+**Révocation, suspension ou modification de l’agrément du surintendant**
+
+- **(2)** Le surintendant peut révoquer, suspendre ou modifier son agrément s’il l’estime indiqué. Pour ce faire, il peut prendre en compte les considérations de prudence qu’il estime pertinentes dans les circonstances et les éléments suivants :
+	- **a)** la sécurité nationale;
+	- **b)** les relations internationales du Canada et ses obligations juridiques internationales.
 
 **Observations**
 
-- **(6)** Avant de prendre une mesure en application du paragraphe (5), le ministre ou le surintendant, selon le cas, accorde aux intéressés la possibilité de présenter des observations.
+- **(3)** Avant de prendre une mesure en application du présent article, le ministre ou le surintendant, selon le cas, accorde aux intéressés la possibilité de présenter des observations.
+> 2007, ch. 6, art. 125.
+
+
+
+
+
+**Effet de la non-réalisation des conditions ou engagements**
+
+**973.04** 
+
+- **(1)** Sauf disposition contraire expresse de la présente loi, la non-réalisation des conditions ou engagements auxquels l’agrément est subordonné aux termes d’une disposition quelconque de la présente loi ne rend pas celui-ci nul pour autant.
+
+**Non-réalisation**
+
+- **(2)** Sans préjudice de toute autre mesure fondée sur la présente loi, en cas de non-réalisation par une personne des conditions ou engagements auxquels l’agrément est subordonné aux termes d’une disposition quelconque de la présente loi, le ministre ou le surintendant, selon le cas, peut :
+	- **a)** révoquer, suspendre ou modifier l’agrément;
+	- **b)** demander au tribunal une ordonnance enjoignant à cette personne de se conformer aux conditions ou engagements, le tribunal pouvant alors acquiescer à la demande et rendre toute autre ordonnance qu’il juge opportune.
+
+**Observations**
+
+- **(3)** Avant de prendre une mesure en application du paragraphe (2), le ministre ou le surintendant, selon le cas, accorde aux intéressés la possibilité de présenter des observations.
 
 **Révocation, suspension ou modification**
 
-- **(7)** Sur demande des intéressés, le ministre ou le surintendant, selon le cas, peut révoquer, suspendre ou modifier les conditions qu’il a imposées ou révoquer ou suspendre les engagements qu’il a exigés ou en approuver la modification.
-> 2001, ch. 9, art. 183.
+- **(4)** Sur demande des intéressés, le ministre ou le surintendant, selon le cas, peut révoquer, suspendre ou modifier les conditions qu’il a imposées ou révoquer ou suspendre les engagements qu’il a exigés ou en approuver la modification.
+> 2007, ch. 6, art. 125.
+
+
+
+
+
+**Autres agréments**
+
+**973.05** Le ministre ou le surintendant peut, s’il l’estime indiqué, accorder en un seul acte plusieurs agréments, à l’exception des lettres patentes. Le cas échéant, il peut préciser une date distincte pour la prise d’effet de chacun des agréments.
+> 2007, ch. 6, art. 125.
+
+
+
+
+
+**Pouvoirs du surintendant à l’égard des avis d’intention**
+
+**973.06** Le surintendant peut, sur demande, soustraire l’auteur ou les auteurs d’une demande d’agrément aux dispositions de la présente loi relatives à la publication d’un avis d’intention concernant les demandes d’agrément et y substituer toute condition qu’il juge appropriée.
+> 2007, ch. 6, art. 125.
 
 
 
@@ -21311,15 +21457,15 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **976** 
 
-- **(1)** Doivent être accompagnées des renseignements et documents que peut exiger le surintendant les demandes suivantes qui lui sont présentées :
+- **(1)** Doivent être accompagnées des renseignements, documents et éléments de preuve que peut exiger le surintendant les demandes suivantes qui lui sont présentées :
 	- **a)** les demandes d’agrément, d’approbation ou d’autorisation visées aux paragraphes 65(1), 72(2), 75(4), 79(5), 80(1), 170(1), 217(3), 421(1), 468(6) ou (11), 471(1) ou (2) ou 482(1), au sous-alinéa 487(2)a)(vi), à l’article 490 ou aux paragraphes 494(3) ou (4), 495.3(1), 553.1(1), 709(1), 716(2), 718(4), 723(1), 758(1), 924(1), 930(6) ou (11), 933(1) ou 944(1);
 	- **b)** les demandes d’accord visées aux paragraphes 71(1) ou 715(1);
-	- **c)** les demandes d’exemption ou de dispense visées aux paragraphes 156.05(3), 245(1) ou 822(1);
+	- **c)** les demandes de dispense visées au paragraphe 156.05(3);
 	- **d)** les demandes de prorogation visées aux paragraphes 471(3) ou (5), 472(4), 473(4), 933(2) ou (4), 934(3) ou 935(3).
 
 **Accusé de réception**
 
-- **(2)** Le surintendant adresse sans délai au demandeur un accusé de réception précisant la date de celle-ci.
+- **(2)** Le surintendant adresse sans délai au demandeur un accusé de réception précisant la date où la demande a été reçue.
 
 **Avis au demandeur**
 
@@ -21334,7 +21480,49 @@ Elle lui communique également les renseignements personnels qui les concernent 
 **Présomption**
 
 - **(5)** Le défaut d’envoyer l’avis prévu au paragraphe (3) et, s’il y a lieu, celui prévu au paragraphe (4) dans le délai imparti vaut agrément de la demande et octroi de l’agrément, de l’approbation, de l’autorisation, de l’accord, de l’exemption, de la dispense ou de la prorogation de délai visés par la demande, même si ceux-ci doivent être donnés par écrit.
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 126.
+
+
+
+
+
+### Demandes relatives à certains agréments
+
+
+
+**Demandes relatives à certains agréments**
+
+**976.1** 
+
+- **(1)** Toute demande visant l’obtention de l’agrément écrit préalable du ministre faite dans le cadre de l’une ou l’autre des dispositions ci-après est présentée au surintendant et contient les renseignements, documents et éléments de preuve pouvant être exigés par lui :
+	- **a)** les alinéas 410(1)c) et c.1);
+	- **b)** les alinéas 468(5)c), d) et d.1);
+	- **c)** les alinéas 522.22(1)c), d) et d.1);
+	- **d)** les alinéas 539(1)b.1) et b.2);
+	- **e)** les alinéas 930(5)c), d) et d.1).
+
+**Accusé de réception**
+
+- **(2)** S’il estime que la demande est complète, le surintendant la transmet, accompagnée de son analyse, au ministre et adresse au demandeur un accusé de réception précisant la date où elle a été transmise au ministre.
+
+**Demande incomplète**
+
+- **(3)** Dans le cas contraire, le surintendant envoie au demandeur un avis précisant les renseignements manquants à lui communiquer.
+
+**Avis au demandeur**
+
+- **(4)** Sous réserve du paragraphe (5), le ministre envoie au demandeur, dans les trente jours suivant la date visée au paragraphe (2) :
+	- **a)** soit un avis d’agrément de la demande;
+	- **b)** soit, s’il n’est pas convaincu que la demande devrait être agréée, un avis de refus.
+
+**Prorogation**
+
+- **(5)** Dans le cas où l’examen de la demande ne peut se faire dans le délai fixé au paragraphe (4), le ministre envoie, avant l’expiration de celui-ci, un avis en informant le demandeur et précisant le nouveau délai.
+
+**Présomption**
+
+- **(6)** Le ministre est réputé avoir agréé la demande s’il omet d’envoyer l’avis prévu au paragraphe (4) et, s’il y a lieu, celui prévu au paragraphe (5) dans le délai imparti.
+> 2007, ch. 6, art. 127.
 
 
 
@@ -21423,6 +21611,15 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **980** Commet une infraction quiconque contrevient sans motif valable à la présente loi ou à ses règlements.
 > 2001, ch. 9, art. 183.
+
+
+
+
+
+**Renseignements faux ou trompeurs**
+
+**980.1** Commet une infraction toute personne qui, relativement à toute question visée par la présente loi ou ses règlements, communique sciemment des renseignements faux ou trompeurs.
+> 2007, ch. 6, art. 128.
 
 
 
@@ -21662,20 +21859,20 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 
 
-**Ordonnance : banques**
+**Ordonnance : banques**
 
 **989** 
 
 - **(1)** Le surintendant, le plaignant ou le créancier de la banque ou de la société de portefeuille bancaire peut, en plus de tous ses autres droits, demander au tribunal une ordonnance enjoignant à celle-ci ou à ceux de ses administrateurs, dirigeants, employés ou mandataires qui ne respectent pas la présente loi ou ses règlements — sauf les dispositions visant les consommateurs — , l’acte constitutif ou les règlements administratifs de s’y conformer, ou leur interdisant d’y contrevenir; le tribunal peut acquiescer à la demande et rendre toute autre ordonnance qu’il juge indiquée.
 
-**Ordonnance : banques étrangères autorisées**
+**Ordonnance : banques étrangères autorisées**
 
-- **(2)** Le surintendant, le plaignant ou le créancier de la banque étrangère autorisée peut, en plus de tous ses autres droits, demander au tribunal une ordonnance enjoignant à celle-ci ou à ceux de ses administrateurs, dirigeants, employés ou mandataires qui ne respectent pas la présente loi ou ses règlements — sauf les dispositions visant les consommateurs — , l’arrêté prévu aux paragraphes 524(1) ou 528(1) ou l’ordonnance d’agrément visée au paragraphe 534(1) applicables à la banque étrangère autorisée de s’y conformer, ou leur interdisant d’y contrevenir; le tribunal peut acquiescer à la demande et rendre toute autre ordonnance qu’il juge indiquée.
+- **(2)** Le surintendant, le plaignant ou le créancier de la banque étrangère autorisée peut, en plus de tous ses autres droits, demander au tribunal une ordonnance enjoignant à celle-ci ou à ceux de ses administrateurs, dirigeants, employés ou mandataires qui ne respectent pas la présente loi ou ses règlements — sauf les dispositions visant les consommateurs —, l’arrêté prévu aux paragraphes 524(1) ou 528(1) ou l’ordonnance prévue aux paragraphes 528(1.1) ou 534(1) applicables à la banque étrangère autorisée de s’y conformer, ou leur interdisant d’y contrevenir; le tribunal peut acquiescer à la demande et rendre toute autre ordonnance qu’il juge opportune.
 
 **Dispositions visant les consommateurs**
 
 - **(3)** Le commissaire ou un plaignant peut, en plus de tous ses autres droits, demander au tribunal une ordonnance enjoignant à la banque ou à la banque étrangère autorisée ou à ceux de ses administrateurs, dirigeants, employés ou mandataires qui ne respectent pas les dispositions visant les consommateurs applicables de s’y conformer, ou leur interdisant d’y contrevenir; le tribunal peut acquiescer à la demande et rendre toute autre ordonnance qu’il juge indiquée.
-> 2001, ch. 9, art. 183.
+> 2001, ch. 9, art. 183; 2007, ch. 6, art. 130.
 
 
 
@@ -21711,7 +21908,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <table>
 <tr>
 <th>Dénomination sociale de la banque</th>
-<th>Siège social</th>
+<th>Siège</th>
 </tr>
 <tr>
 <td>Banque de Montréal</td>
@@ -21803,7 +22000,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 </tr>
 </table>
 
-> 1991, ch. 46, ann. I; 2005, ch. 54, art. 139; Gazette du Canada Partie I, volume 141, page 790.
+> 1991, ch. 46, ann. I; 2005, ch. 54, art. 139; Gazette du Canada Partie I, volume 141, page 790; 2007, ch. 6, art. 131(F).
 
 
 
@@ -21814,7 +22011,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <table>
 <tr>
 <th>Dénomination sociale de la banque</th>
-<th>Siège social</th>
+<th>Siège</th>
 </tr>
 <tr>
 <td>Banque ABN AMRO du Canada</td>
@@ -21914,7 +22111,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 </tr>
 </table>
 
-> 1991, ch. 46, ann. II; 2005, ch. 54, art. 139; Gazette du Canada Partie I, volume 141, page 790.
+> 1991, ch. 46, ann. II; 2005, ch. 54, art. 139; Gazette du Canada Partie I, volume 141, page 790; 2007, ch. 6, art. 131(F).
 
 
 
