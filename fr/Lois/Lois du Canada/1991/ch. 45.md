@@ -368,27 +368,31 @@ French version only***société n’ayant pas fait appel au public*** S’entend
 
 **9** 
 
-- **(1)** Pour l’application de la partie VII, sont réputées être une seule personne qui acquiert à titre de véritable propriétaire le nombre total des actions d’une société ou des actions ou titres de participation d’une entité dont elles ont la propriété effective les personnes qui, en vertu d’une entente, d’un accord ou d’un engagement — formel ou informel, oral ou écrit — conviennent d’agir ensemble ou de concert à l’égard :
+- **(1)** Pour l’application de la partie VII, sont réputées être une seule personne qui acquiert à titre de véritable propriétaire le nombre total des actions d’une société ou des actions ou titres de participation d’une entité dont elles ont la propriété effective les personnes qui, en vertu d’une entente, d’un accord ou d’un engagement — formel ou informel, oral ou écrit — conviennent d’agir ensemble ou de concert à l’égard :
 	- **a)** soit d’actions de la société dont elles sont les véritables propriétaires;
 	- **b)** soit d’actions ou de titres de participation — dans le cas de l’entité qui détient la propriété effective d’actions de la société — dont elles sont les véritables propriétaires;
 	- **c)** soit d’actions ou de titres de participation — dans le cas d’une entité qui contrôle une entité qui détient la propriété effective d’actions de la société — dont elles sont les véritables propriétaires.
 
 **Idem**
 
-- **(2)** Sans que soit limitée la portée générale du paragraphe (1), est réputé être un accord, une entente ou un engagement au sens de ce paragraphe tout accord, entente ou engagement permettant à chacune des personnes qui sont les véritables propriétaires d’actions d’une société ou d’actions ou titres de participation de l’entité visée aux alinéas (1)b) ou c) :
+- **(2)** Sans que soit limitée la portée générale du paragraphe (1), est réputé être un accord, une entente ou un engagement au sens de ce paragraphe tout accord, entente ou engagement permettant à chacune des personnes qui sont les véritables propriétaires d’actions d’une société ou d’actions ou titres de participation de l’entité visée aux alinéas (1)b) ou c) :
 	- **a)** soit d’opposer — personnellement ou par délégué — son veto à une proposition soumise au conseil d’administration de la société;
 	- **b)** soit d’empêcher l’approbation de toute proposition soumise au conseil d’administration de la société en l’absence de son consentement ou de celui de son délégué.
 
 **Exceptions**
 
-- **(3)** Pour l’application du présent article, les personnes sont présumées ne pas s’être entendues pour agir ensemble ou de concert uniquement du fait :
+- **(3)** Pour l’application du présent article, les personnes sont présumées ne pas s’être entendues pour agir ensemble ou de concert uniquement du fait :
 	- **a)** qu’une est le fondé de pouvoir d’une ou de plusieurs autres de ces personnes à l’égard des actions ou titres de participation visés au paragraphe (1);
 	- **b)** qu’elles exercent les droits de vote attachés aux actions ou titres de participation visés au paragraphe (1) de la même façon.
 
 **Désignation**
 
 - **(4)** Si, à son avis, il est raisonnable de conclure à l’existence d’une entente, d’un accord ou d’un engagement au sens des paragraphes (1) ou (2), le surintendant peut décider que les personnes en cause se sont entendues pour agir ensemble ou de concert.
-> 1991, ch. 45, art. 9; 2001, ch. 9, art. 483.
+
+**Contravention**
+
+- **(5)** Toute personne contrevient à une disposition de la partie VII si elle convient d’agir avec d’autres personnes — ou de concert avec celles-ci — de sorte qu’une seule personne réputée telle contrevient à la disposition.
+> 1991, ch. 45, art. 9; 2001, ch. 9, art. 483; 2007, ch. 6, art. 337.
 
 
 
@@ -556,12 +560,16 @@ French version only***société n’ayant pas fait appel au public*** S’entend
 
 **20** 
 
-- **(1)** Sous réserve du paragraphe (2), les sociétés ne peuvent exercer leurs activités après le 24 avril 2007; toutefois, si le Parlement est dissous à cette date ou au cours des trois mois qui précèdent, elles peuvent exercer leurs activités jusqu’à cent quatre-vingts jours après le premier jour de la première session de la législature suivante.
+- **(1)** Sous réserve des paragraphes (2) et (3), les sociétés ne peuvent exercer leurs activités après la date du cinquième anniversaire de l’entrée en vigueur du présent article.
 
 **Prorogation**
 
 - **(2)** Le gouverneur en conseil peut, par décret, proroger jusqu’à concurrence de six mois la période au cours de laquelle les sociétés peuvent exercer leurs activités. Un seul décret peut être pris aux termes du présent paragraphe.
-> 1991, ch. 45, art. 20; 1997, ch. 15, art. 341; 2001, ch. 9, art. 484; 2006, ch. 4, art. 202.
+
+**Exception**
+
+- **(3)** Si le Parlement est dissous à la date du cinquième anniversaire de l’entrée en vigueur du présent article, au cours des trois mois qui la précèdent ou au cours de la période prévue au paragraphe (2), les sociétés peuvent exercer leurs activités jusqu’à cent quatre-vingts jours après le premier jour de la première session de la législature suivante.
+> 1991, ch. 45, art. 20; 1997, ch. 15, art. 341; 2001, ch. 9, art. 484; 2006, ch. 4, art. 202; 2007, ch. 6, art. 338.
 
 
 
@@ -795,7 +803,7 @@ French version only***société n’ayant pas fait appel au public*** S’entend
 	- **c)** [Abrogé, 1994, ch. 47, art. 202]
 	- **d)** détenir des éléments d’actif prohibés par la présente loi mais qui, à la date de la demande, appartenaient à la personne morale prorogée comme société;
 	- **e)** acquérir et détenir des éléments d’actif prohibés par la présente loi, dans le cas où la personne morale prorogée comme société était obligée, à la date de la demande, de les acquérir;
-	- **f)** tenir à l’étranger les livres et registres dont la présente loi exige la tenue au Canada, ainsi que tenir et traiter à l’étranger les renseignements et données se rapportant à leur tenue et à leur conservation.
+	- **f)** tenir à l’étranger les livres et registres dont la présente loi exige la tenue au Canada.
 
 **Durée des exceptions**
 
@@ -811,7 +819,7 @@ French version only***société n’ayant pas fait appel au public*** S’entend
 **Restriction**
 
 - **(4)** Le ministre ne peut pas délivrer d’autorisation qui serait encore valable plus de dix ans après la date d’obtention par la société de l’agrément de fonctionnement dans les cas visés aux alinéas (1)d) et e); dans les cas visés à l’alinéa (1)b), il ne peut le faire que s’il est convaincu, sur la foi de la déposition sous serment d’un dirigeant de la société, que celle-ci sera dans l’incapacité juridique de racheter les titres de créance visés par l’autorisation encore en circulation à l’expiration de ce délai.
-> 1991, ch. 45, art. 37; 1994, ch. 47, art. 202; 1997, ch. 15, art. 342; 1999, ch. 31, art. 213(F).
+> 1991, ch. 45, art. 37; 1994, ch. 47, art. 202; 1997, ch. 15, art. 342; 1999, ch. 31, art. 213(F); 2007, ch. 6, art. 339.
 
 
 
@@ -825,39 +833,44 @@ French version only***société n’ayant pas fait appel au public*** S’entend
 
 **38** 
 
-- **(1)** La société peut :
-	- **a)** demander, avec l’agrément écrit du ministre, le certificat de prorogation visé à l’article 187 de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md);
-	- **b)** demander des lettres patentes de prorogation en banque aux termes du paragraphe 35(1) de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md) ou de fusion et prorogation en banque aux termes des paragraphes 223(1) et 229(1) de la même loi;
-	- **c)** demander des lettres patentes de prorogation en association aux termes du paragraphe 31.1(1) de la [Loi sur les associations coopératives de crédit](/fr/Lois/Lois%20du%20Canada/1991/ch.%2048.md) si, à la fois :
-		- **(i)** elle n’a comme actionnaires que des entités — constituées ou formées sous le régime d’une loi fédérale ou provinciale — qui, de l’avis du ministre, exercent leurs activités à titre de caisse de crédit ou d’association coopérative,
-		- **(ii)** la demande des lettres patentes de prorogation est conforme aux éventuelles conditions réglementaires applicables.
+- **(1)** La société peut demander :
+	- **a)** la délivrance de lettres patentes de prorogation en banque ou en société de portefeuille bancaire en vertu de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md) ou de lettres patentes de fusion et prorogation en banque ou en société de portefeuille bancaire en vertu de cette loi;
+	- **b)** avec l’agrément écrit du ministre, la délivrance d’un certificat de prorogation en société en vertu de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md);
+	- **c)** avec l’agrément écrit du ministre, la délivrance d’un certificat de prorogation en coopérative en vertu de la [Loi canadienne sur les coopératives](/fr/Lois/Lois%20du%20Canada/1998/ch.%201.md) ou d’un certificat de prorogation et d’un certificat de fusion en coopérative en vertu de cette loi;
+	- **d)** la délivrance de lettres patentes de prorogation en association en vertu de la [Loi sur les associations coopératives de crédit](/fr/Lois/Lois%20du%20Canada/1991/ch.%2048.md) ou de lettres patentes de fusion et prorogation en association en vertu de cette loi;
+	- **e)** la délivrance de lettres patentes de prorogation en société — exception faite d’une société mutuelle — ou en société de portefeuille d’assurances aux termes de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md) ou de lettres patentes de fusion et prorogation en société — exception faite d’une société mutuelle — ou en société de portefeuille d’assurances en vertu de cette loi.
 
-**Conditions suspensives**
+**Conditions préalables à l’agrément**
 
-- **(2)** Le ministre ne peut donner son agrément dans le cadre de l’alinéa (1)a) que s’il est convaincu que :
-	- **a)** la demande de prorogation a été autorisée par résolution extraordinaire;
-	- **b)** la société, à la fois :
-		- **(i)** ne détient pas de dépôts assurés en vertu de la [Loi sur la Société d’assurance-dépôts du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-3.md),
-		- **(ii)** n’exerce pas les activités fiduciaires visées à l’article 412;
-	- **c)** sauf autorisation prévue à l’article 48, la société s’est engagée à ne pas utiliser les mots « fiduciaire », « fiduciary », « fiducie », « loan », « loanco », « prêt », « trust » ou « trustco » dans sa dénomination sociale après l’obtention du certificat de prorogation.
-> 1991, ch. 45, art. 38 et 559; 1994, ch. 24, art. 34(F); 1997, ch. 15, art. 343; 2001, ch. 9, art. 487.
-
-
-
-
-
-**Effet du certificat ou des lettres patentes**
-
-**39** À la date indiquée, soit sur le certificat de prorogation, soit sur les lettres patentes, la personne morale prorogée devient respectivement assujettie à la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md) ou la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md) et la présente loi cesse de s’appliquer à son égard.
-> 1991, ch. 45, art. 39; 1994, ch. 24, art. 34(F).
-
-
-
-
+- **(2)** L’agrément visé aux alinéas (1)b) ou c) ne peut être donné que si le ministre est convaincu :
+	- **a)** que la société a fait publier une fois par semaine pendant quatre semaines consécutives, dans la Gazette du Canada et dans un journal à grand tirage paraissant au lieu du siège de la société ou dans les environs, un préavis de son intention de faire la demande d’agrément;
+	- **b)** qu’elle n’exerce pas les activités fiduciaires visées à l’article 412;
+	- **c)** sauf si elle est une filiale d’une autre société et qu’elle utilise dans sa dénomination sociale celle de l’autre société en conformité avec l’article 48, qu’elle s’est engagée à ne pas utiliser les mots « fiduciaire », « *fiduciary* », « fiducie », « *loan* », « *loanco* », « prêt », « *trust* » ou « *trustco* » dans sa dénomination sociale après la délivrance du certificat visé à cet alinéa;
+	- **d)** qu’elle ne détient pas de dépôts, à l’exception des dépôts qui sont faits par une personne qui la contrôle ou qui détient un intérêt substantiel dans une catégorie d’actions de la société et qui ne sont pas assurés par la Société d’assurance-dépôts du Canada;
+	- **e)** que la demande a été autorisée par résolution extraordinaire.
 
 **Retrait de la demande**
 
-**40** Les administrateurs de la société peuvent, si cette faculté leur est accordée par les actionnaires dans la résolution extraordinaire autorisant la demande de certificat ou de lettres patentes, retirer celle-ci avant qu’il n’y soit donné suite.
+- **(3)** Les administrateurs de la société peuvent, si cette faculté leur est accordée par les actionnaires dans la résolution extraordinaire autorisant la demande de certificat ou de lettres patentes, retirer celle-ci avant qu’il n’y soit donné suite.
+
+**Restriction : prorogation en vertu d’autres régimes**
+
+- **(4)** La société ne peut demander la prorogation ou la fusion et la prorogation, selon le cas, si ce n’est en conformité avec le paragraphe (1).
+> 1991, ch. 45, art. 38 et 559; 1994, ch. 24, art. 34(F); 1997, ch. 15, art. 343; 2001, ch. 9, art. 487; 2007, ch. 6, art. 340.
+
+
+
+
+
+**Cessation**
+
+**39** En cas de délivrance d’un certificat ou de lettres patentes par suite d’une demande faite par la société en vertu de l’article 38, la présente loi cesse de s’appliquer à celle-ci à la date de prise d’effet du certificat ou des lettres patentes.
+> 1991, ch. 45, art. 39; 1994, ch. 24, art. 34(F); 2007, ch. 6, art. 340.
+
+
+
+
+**40** [Abrogé, 2007, ch. 6, art. 340]
 
 
 
@@ -895,8 +908,8 @@ French version only***société n’ayant pas fait appel au public*** S’entend
 
 **Société faisant partie d’un groupe**
 
-**43** Par dérogation à l’article 41, la société qui est du même groupe qu’une autre entité peut, une fois obtenu le consentement de celle-ci et l’agrément du surintendant, adopter une dénomination sociale à peu près identique à celle de l’entité ou être constituée en personne morale sous une telle dénomination.
-> 1991, ch. 45, art. 43; 1996, ch. 6, art. 113; 2001, ch. 9, art. 488.
+**43** Par dérogation à l’article 41, la société qui est du même groupe qu’une autre entité peut, une fois obtenu son consentement, adopter une dénomination sociale à peu près identique à celle de l’entité ou être constituée en personne morale sous une telle dénomination.
+> 1991, ch. 45, art. 43; 1996, ch. 6, art. 113; 2001, ch. 9, art. 488; 2007, ch. 6, art. 341.
 
 
 
@@ -1334,7 +1347,7 @@ Il doit cependant auparavant donner à la société la possibilité de lui prés
 **Documents à envoyer au surintendant**
 
 - **(5)** Lorsqu’ils prennent les mesures autorisées en vertu de l’alinéa (1)b), les administrateurs doivent, avant d’émettre des actions d’une série, envoyer au surintendant un exemplaire du règlement administratif afférent et lui communiquer tous détails sur les séries qui seront émises.
-> 1991, ch. 45, art. 65; 2005, ch. 54, art. 373.
+> 1991, ch. 45, art. 65; 2005, ch. 54, art. 373; 2007, ch. 6, art. 342(A).
 
 
 
@@ -1569,17 +1582,25 @@ Il doit cependant auparavant donner à la société la possibilité de lui prés
 
 - **(4)** La prise d’effet de la résolution extraordinaire est subordonnée à l’agrément écrit du surintendant.
 
+**Exception**
+
+- **(4.1)** Un tel agrément n’est pas nécessaire si, à la fois :
+	- **a)** la réduction du capital déclaré est due uniquement à des changements apportés aux principes comptables visés au paragraphe 313(4);
+	- **b)** aucun remboursement du capital n’est versé aux actionnaires du fait de la réduction.
+
 **Condition préalable**
 
 - **(5)** Le surintendant ne peut approuver la résolution extraordinaire que si, d’une part, celle-ci lui a été présentée dans les trois mois qui suivent son adoption et, d’autre part, un exemplaire de la résolution et un avis d’intention de la demande d’agrément ont été publiés dans la Gazette du Canada.
 
 **Pièces justificatives**
 
-- **(6)** La demande d’agrément est accompagnée des pièces prouvant l’adoption et la publication de la résolution extraordinaire et précisant :
+- **(6)** La demande d’agrément est accompagnée des pièces prouvant l’adoption et la publication de la résolution extraordinaire et précisant :
 	- **a)** le nombre d’actions émises et en circulation de la société;
 	- **b)** le résultat du vote par catégories d’actions;
 	- **c)** l’actif et le passif de la société;
 	- **d)** les motifs de la réduction projetée.
+> 1991, ch. 45, art. 78; 2007, ch. 6, art. 344.
+
 
 
 
@@ -1645,11 +1666,11 @@ Il doit cependant auparavant donner à la société la possibilité de lui prés
 
 **82** 
 
-- **(1)** Les administrateurs de la société peuvent déclarer un dividende, qui peut être payé soit par l’émission d’actions entièrement libérées ou par l’octroi d’options ou de droits d’acquérir de telles actions, soit, sous réserve des paragraphes (4) et (5), en argent ou en biens; le dividende payable en argent peut être payé en monnaie étrangère.
+- **(1)** Les administrateurs de la société peuvent déclarer un dividende, qui peut être payé soit par l’émission d’actions entièrement libérées ou par l’octroi d’options ou de droits d’acquérir de telles actions, soit, sous réserve du paragraphe (4), en argent ou en biens; le dividende payable en argent peut être payé en monnaie étrangère.
 
 **Avis au surintendant**
 
-- **(2)** Les administrateurs notifient au surintendant la déclaration de dividendes au moins dix jours avant la date fixée pour leur versement.
+- **(2)** Les administrateurs notifient au surintendant la déclaration de dividendes au moins quinze jours avant la date fixée pour leur versement.
 
 **Dividendes-actions**
 
@@ -1659,10 +1680,8 @@ Il doit cependant auparavant donner à la société la possibilité de lui prés
 
 - **(4)** Toute déclaration ou tout versement de dividendes est prohibé s’il existe des motifs valables de croire que, ce faisant, la société contrevient, ou contreviendra, aux règlements ou aux instructions visés à l’article 473.
 
-**Non-versement de dividendes**
-
-- **(5)** La déclaration et le versement de dividendes au cours d’un exercice donné doivent être agréés par le surintendant s’ils font en sorte que, à la date de la déclaration, le montant total des dividendes déclarés par la société au cours de l’exercice dépasse la somme de ses bénéfices nets pour la partie écoulée de l’exercice et de ses bénéfices nets non répartis pour les deux exercices précédents.
-> 1991, ch. 45, art. 82; 2001, ch. 9, art. 494.
+- **(5)** [Abrogé, 2007, ch. 6, art. 345]
+> 1991, ch. 45, art. 82; 2001, ch. 9, art. 494; 2007, ch. 6, art. 345.
 
 
 
@@ -3278,8 +3297,8 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Résidence**
 
-- **(2)** Au moins la moitié des administrateurs de la société qui est la filiale soit d’une institution étrangère, soit de la société mère — visée par règlement — d’une institution étrangère et au moins les deux tiers des administrateurs de toute autre société doivent, au moment de leur élection ou nomination, être des résidents canadiens.
-> 1991, ch. 45, art. 163; 2001, ch. 9, art. 498.
+- **(2)** Au moins la moitié des administrateurs de la société qui est la filiale soit d’une institution étrangère, soit de la société mère — visée par règlement — d’une institution étrangère et la majorité des administrateurs de toute autre société doivent, au moment de leur élection ou nomination, être des résidents canadiens.
+> 1991, ch. 45, art. 163; 2001, ch. 9, art. 498; 2007, ch. 6, art. 346.
 
 
 
@@ -4416,7 +4435,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **222** 
 
-- **(1)** Le conseil d’administration peut prendre, modifier ou révoquer les règlements administratifs de la façon prévue aux paragraphes (2) et (3) et aux articles 223 à 227 afin :
+- **(1)** Le conseil d’administration peut prendre, modifier ou révoquer les règlements administratifs de la façon prévue aux paragraphes (2) et (3) et aux articles 223 à 227 afin :
 	- **a)** de modifier le nombre maximal, s’il en est, d’actions de toute catégorie que la société est autorisée à émettre;
 	- **b)** de créer des catégories d’actions;
 	- **c)** de modifier la désignation de tout ou partie de ses actions, et d’ajouter, de modifier ou de supprimer tous droits, privilèges, restrictions et conditions, y compris le droit à des dividendes accumulés, concernant tout ou partie de ses actions, émises ou non;
@@ -4435,8 +4454,16 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Date d’entrée en vigueur**
 
-- **(3)** L’entrée en vigueur des règlements administratifs, ou de leurs modifications ou révocations, est subordonnée à leur confirmation préalable par les actionnaires conformément au paragraphe (2) et, dans le cas de l’alinéa (1)i.1), à l’approbation du surintendant.
-> 1991, ch. 45, art. 222; 2001, ch. 9, art. 507; 2005, ch. 54, art. 411.
+- **(3)** L’entrée en vigueur des règlements administratifs ou de leurs modifications ou révocations est subordonnée à leur confirmation préalable par les actionnaires conformément au paragraphe (2) et, dans le cas d’un règlement administratif concernant le changement de la dénomination sociale de la société, à l’approbation du surintendant.
+
+**Lettres patentes**
+
+- **(4)** En cas de changement de la dénomination sociale de la société, ou de la province, au Canada, où se trouve son siège, le surintendant peut délivrer des lettres patentes pour que l’acte constitutif soit modifié en conséquence.
+
+**Effet des lettres patentes**
+
+- **(5)** Les lettres patentes prennent effet à la date indiquée.
+> 1991, ch. 45, art. 222; 2001, ch. 9, art. 507; 2005, ch. 54, art. 411; 2007, ch. 6, art. 347.
 
 
 
@@ -4544,9 +4571,11 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 
 
-**Approbation du ministre**
+**Approbation du surintendant**
 
-**230** L’approbation prévue au paragraphe 231(4) est sans effet si, au préalable, le ministre n’a pas approuvé la convention de fusion par écrit.
+**230** L’approbation prévue au paragraphe 231(4) est sans effet si, au préalable, le surintendant n’a pas approuvé la convention de fusion par écrit.
+> 1991, ch. 45, art. 230; 2007, ch. 6, art. 348.
+
 
 
 
@@ -4692,20 +4721,20 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **236** 
 
-- **(1)** Malgré toute disposition contraire de la présente loi ou des règlements, le ministre peut, par arrêté pris sur recommandation du surintendant, autoriser la société ayant reçu les lettres patentes à :
+- **(1)** Malgré toute disposition contraire de la présente loi ou des règlements, le ministre peut, par arrêté pris sur recommandation du surintendant, autoriser la société ayant reçu les lettres patentes à :
 	- **a)** exercer une activité commerciale précisée dans l’arrêté interdite par ailleurs par la présente loi mais qu’exerçaient à la date du dépôt de la demande de lettres patentes une ou plusieurs des personnes morales fusionnantes;
 	- **b)** maintenir en circulation les titres de créance que la présente loi n’autorise pas la société à émettre, dans la mesure où ils étaient déjà en circulation à la date du dépôt de la demande de lettres patentes;
 	- **c)** [Abrogé, 1994, ch. 47, art. 204]
 	- **d)** détenir des éléments d’actif prohibés par la présente loi mais que détenaient, à la date du dépôt de la demande de lettres patentes, une ou plusieurs des personnes morales fusionnantes;
 	- **e)** acquérir et détenir des éléments d’actif dont l’acquisition et la détention sont interdites à une société par la présente loi, si une ou plusieurs des personnes morales fusionnantes se trouvaient dans l’obligation, à la date du dépôt de la demande de lettres patentes, de les acquérir;
-	- **f)** tenir à l’étranger les livres et registres dont la présente loi exige la tenue au Canada et tenir et traiter à l’étranger les renseignements et les données se rapportant à la tenue et à la conservation de ces livres et registres;
-	- **g)** lorsqu’un ou plusieurs requérants étaient une société de fiducie au sens du paragraphe 57(2) et que la société issue de la fusion n’en est pas une, détenir des fonds en fiducie garantie détenus par cette ou ces sociétés de fiducie avant la fusion à condition que la société issue de la fusion :
+	- **f)** tenir à l’étranger les livres et registres dont la présente loi exige la tenue au Canada;
+	- **g)** lorsqu’un ou plusieurs requérants étaient une société de fiducie au sens du paragraphe 57(2) et que la société issue de la fusion n’en est pas une, détenir des fonds en fiducie garantie détenus par cette ou ces sociétés de fiducie avant la fusion à condition que la société issue de la fusion :
 		- **(i)** d’une part, rembourse ou verse à un compte de dépôts tous les fonds en fiducie garantie payables sur demande ou, après avis, dans le délai spécifié par décret du gouverneur en conseil après la fusion,
 		- **(ii)** d’autre part, ne renouvelle ni ne prolonge la période de validité de tout certificat de placement garanti dont elle a assumé le paiement aux termes du présent article.
 
 **Durée des exceptions**
 
-- **(2)** L’autorisation accordée en vertu de l’un des alinéas (1)a) à f) doit préciser la période de validité, laquelle ne peut excéder :
+- **(2)** L’autorisation accordée en vertu de l’un des alinéas (1)a) à f) doit préciser la période de validité, laquelle ne peut excéder :
 	- **a)** dans les cas visés à l’alinéa (1)a), trente jours à partir de la date de délivrance des lettres patentes ou, lorsque les activités découlent d’ententes existant à la date de délivrance des lettres patentes, la date d’expiration des ententes;
 	- **b)** dans les cas visés à l’alinéa (1)b), dix ans;
 	- **c)** deux ans dans les autres cas.
@@ -4716,10 +4745,10 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Réserve**
 
-- **(4)** Le ministre ne peut accorder d’autorisation qui serait encore valable plus de dix ans :
+- **(4)** Le ministre ne peut accorder d’autorisation qui serait encore valable plus de dix ans :
 	- **a)** après la date d’obtention par la société de l’agrément de fonctionnement dans les cas visés à l’alinéa (1)b), à moins qu’il n’estime, sur la foi d’une déposition sous serment d’un dirigeant de celle-ci, qu’il sera juridiquement impossible à la société de racheter les titres de créance encore en circulation à l’expiration de ce délai et qui font l’objet de l’autorisation;
 	- **b)** après la date de délivrance des lettres patentes dans les cas visés aux alinéas (1)d) et e).
-> 1991, ch. 45, art. 236; 1994, ch. 47, art. 204; 1997, ch. 15, art. 364.
+> 1991, ch. 45, art. 236; 1994, ch. 47, art. 204; 1997, ch. 15, art. 364; 2007, ch. 6, art. 349.
 
 
 
@@ -4752,9 +4781,11 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 
 
-**Envoi de convention au ministre**
+**Envoi de convention au surintendant**
 
-**238** La convention de vente doit être communiquée au ministre avant d’être soumise aux actionnaires de la société vendeuse conformément au paragraphe 239(1).
+**238** La convention de vente doit être communiquée au surintendant avant d’être soumise aux actionnaires de la société vendeuse conformément au paragraphe 239(1).
+> 1991, ch. 45, art. 238; 2007, ch. 6, art. 350.
+
 
 
 
@@ -4846,7 +4877,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **243** 
 
-- **(1)** La société tient des livres où figurent :
+- **(1)** La société tient des livres où figurent :
 	- **a)** l’acte constitutif, les règlements administratifs et leurs modifications;
 	- **b)** les procès-verbaux des assemblées et les résolutions des actionnaires;
 	- **c)** les renseignements visés aux alinéas 499(1)a), c) et e) à h) et figurant dans l’ensemble des relevés envoyés au surintendant conformément à l’article 499;
@@ -4855,7 +4886,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Autres livres**
 
-- **(2)** Outre les livres mentionnés au paragraphe (1), la société tient de façon adéquate :
+- **(2)** Outre les livres mentionnés au paragraphe (1), la société tient de façon adéquate :
 	- **a)** des livres comptables;
 	- **b)** des livres contenant les procès-verbaux des réunions de son conseil d’administration et de ses comités ainsi que les résolutions qui y sont adoptées;
 	- **c)** des livres concernant ses activités fiduciaires;
@@ -4863,11 +4894,11 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Livre des sociétés prorogées et antérieures**
 
-- **(3)** Pour l’application de l’alinéa (1)b) et du paragraphe (2), « livre » s’entend :
+- **(3)** Pour l’application de l’alinéa (1)b) et du paragraphe (2), « livre » s’entend :
 	- **a)** dans le cas des personnes morales prorogées comme société en vertu de la présente loi, des documents similaires qu’elles devaient légalement tenir avant leur prorogation;
 	- **b)** dans le cas des personnes morales fusionnées et prorogées comme société en vertu de la présente loi, des documents similaires qu’elles devaient légalement tenir avant leur fusion;
 	- **c)** dans le cas des sociétés antérieures, des documents similaires qu’elles devaient légalement tenir avant l’entrée en vigueur du présent article.
-> 1991, ch. 45, art. 243; 1997, ch. 15, art. 365(A).
+> 1991, ch. 45, art. 243; 1997, ch. 15, art. 365(A); 2007, ch. 6, art. 351(A).
 
 
 
@@ -4916,7 +4947,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Teneur de la déclaration**
 
-- **(2)** La demande doit être accompagnée d’une déclaration sous serment énonçant :
+- **(2)** La demande doit être accompagnée d’une déclaration sous serment énonçant :
 	- **a)** les nom et adresse du requérant;
 	- **b)** les nom et adresse, aux fins de signification, de l’entité éventuellement requérante;
 	- **c)** l’engagement de n’utiliser que conformément à l’article 247 la liste principale des actionnaires et les listes supplétives obtenues en vertu des paragraphes (5) et (6).
@@ -4928,7 +4959,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **Liste principale**
 
-- **(4)** La liste principale des actionnaires mise à jour au moins dix jours avant la réception de la déclaration sous serment énonce :
+- **(4)** La liste principale des actionnaires mise à jour au moins dix jours avant la réception de la déclaration sous serment énonce :
 	- **a)** les noms des actionnaires;
 	- **b)** le nombre d’actions détenues par chaque actionnaire;
 	- **c)** l’adresse de chaque actionnaire telle qu’elle figure dans les livres.
@@ -4939,10 +4970,10 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **Remise des listes supplétives**
 
-- **(6)** La société ou son mandataire remet les listes supplétives :
+- **(6)** La société ou son mandataire remet les listes supplétives :
 	- **a)** dans les dix jours suivant la remise de la liste principale, si les modifications sont antérieures à la date de la remise;
 	- **b)** sinon, dans les dix jours suivant la date indiquée dans la dernière liste supplétive.
-> 1991, ch. 45, art. 245; 2005, ch. 54, art. 416.
+> 1991, ch. 45, art. 245; 2005, ch. 54, art. 416; 2007, ch. 6, art. 352(A) et 451(A).
 
 
 
@@ -4995,36 +5026,16 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 
 
-**Lieu de conservation et traitement des données**
+**Lieu de conservation et de traitement des données**
 
 **250** 
 
-- **(1)** Sous réserve du paragraphe (3), la société doit conserver et traiter au Canada tous les renseignements ou données se rapportant à la tenue et à la conservation des livres visés à l’article 243 ou du registre central des valeurs mobilières, sauf si le surintendant a, aux conditions qu’il estime indiquées, exempté la société de l’application du présent article.
-
-**Copies**
-
-- **(2)** Sous réserve des paragraphes (4) et (5), la société peut conserver à l’étranger des exemplaires des livres visés à l’article 243 ou du registre central des valeurs mobilières, et y traiter les renseignements et les données afférents.
-
-**Exception**
-
-- **(3)** Le paragraphe (1) ne s’applique pas à l’égard des succursales de la société qui sont situées à l’étranger ou des clients de celles-ci.
-
-**Renseignements à fournir au surintendant**
-
-- **(4)** Le cas visé au paragraphe (2) échéant, la société en informe le surintendant et lui fournit une liste des exemplaires conservés à l’étranger et une description du traitement à l’étranger des renseignements et des données s’y rapportant, ainsi que les autres renseignements que le surintendant peut exiger.
-
-**Traitement des renseignements au Canada**
-
-- **(5)** S’il estime que la conservation à l’étranger des exemplaires ou que le fait de traiter à l’étranger les renseignements et données s’y rapportant, constitue un obstacle à l’exécution de ses fonctions ou s’il est avisé que cela n’est pas, selon le ministre, dans l’intérêt national, le surintendant ordonne à la société d’y procéder au Canada.
+- **(1)** S’il estime que la conservation dans un pays étranger des exemplaires de livres visés à l’article 243 ou du registre central des valeurs mobilières de la société ou le fait de traiter dans un pays étranger les renseignements et données se rapportant à la tenue et à la conservation des livres ou du registre constitue un obstacle à l’exécution des fonctions qui lui sont conférées en vertu de la présente loi, ou s’il est avisé que cela n’est pas, selon le ministre, dans l’intérêt national, le surintendant ordonne à la société de s’abstenir de se livrer à ces activités dans ce pays ou de ne s’y livrer qu’au Canada.
 
 **Obligation de se conformer**
 
-- **(6)** La société doit sans délai exécuter l’ordre visé au paragraphe (5).
-
-**Directives**
-
-- **(7)** Le surintendant doit donner des directives sur les circonstances qui peuvent justifier l’exemption visée au paragraphe (1).
-> 1991, ch. 45, art. 250; 2001, ch. 9, art. 512; 2005, ch. 54, art. 417.
+- **(2)** La société doit exécuter sans délai l’ordre visé au paragraphe (1).
+> 1991, ch. 45, art. 250; 2001, ch. 9, art. 512; 2005, ch. 54, art. 417; 2007, ch. 6, art. 353.
 
 
 
@@ -7148,20 +7159,20 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **375** 
 
-- **(1)** Il est interdit à une personne — ou à l’entité qu’elle contrôle — d’acquérir, sans l’agrément du ministre, des actions d’une société ou le contrôle d’une entité qui détient de telles actions si l’acquisition :
+- **(1)** Il est interdit à une personne — ou à l’entité qu’elle contrôle — d’acquérir, sans l’agrément du ministre, des actions d’une société ou le contrôle d’une entité qui détient de telles actions si l’acquisition, selon le cas :
 	- **a)** lui confère un intérêt substantiel dans une catégorie d’actions de la société en question;
 	- **b)** augmente l’intérêt substantiel qu’elle détient déjà.
 
 **Assimilation**
 
-- **(2)** Dans le cas où une fusion, un regroupement ou une réorganisation confère à l’entité qui en est issue un intérêt substantiel dans une catégorie d’actions d’une société, cette entité est réputée acquérir un intérêt substantiel dans cette catégorie d’actions de la société et cette acquisition requiert l’agrément du ministre.
+- **(2)** Dans le cas où l’entité issue d’une fusion, d’un regroupement ou d’une réorganisation aurait un intérêt substantiel dans une catégorie d’actions d’une société, cette entité est réputée se voir conférer, dans le cadre d’une acquisition qui requiert l’agrément prévu au paragraphe (1), un intérêt substantiel dans cette catégorie d’actions.
 
 **Exemption**
 
 - **(3)** Sur demande d’une société, le surintendant peut soustraire à l’application du présent article et de l’article 376 toute catégorie d’actions sans droit de vote de la société dont la valeur comptable ne représente pas plus de trente pour cent de la valeur comptable des actions en circulation de la société.
 
 - **(4) et (5)** [Abrogés, 2001, ch. 9, art. 518]
-> 1991, ch. 45, art. 375; 2001, ch. 9, art. 518.
+> 1991, ch. 45, art. 375; 2001, ch. 9, art. 518; 2007, ch. 6, art. 354.
 
 
 
@@ -7169,8 +7180,14 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **Interdiction d’acquérir sans l’agrément du ministre**
 
-**375.1** Il est interdit à une personne d’acquérir le contrôle, au sens de l’alinéa 3(1)d), d’une société sans l’agrément préalable du ministre.
-> 1997, ch. 15, art. 372; 2001, ch. 9, art. 519.
+**375.1** 
+
+- **(1)** Il est interdit à une personne d’acquérir, sans l’agrément du ministre, le contrôle, au sens de l’alinéa 3(1)d), d’une société.
+
+**Assimilation**
+
+- **(2)** Dans le cas où l’entité issue d’une fusion, d’un regroupement ou d’une réorganisation aurait le contrôle, au sens de l’alinéa 3(1)d), d’une société, cette entité est réputée en acquérir, dans le cadre d’une acquisition qui requiert l’agrément prévu au paragraphe (1), le contrôle au sens de cet alinéa.
+> 1997, ch. 15, art. 372; 2001, ch. 9, art. 519; 2007, ch. 6, art. 355.
 
 
 
@@ -7248,18 +7265,18 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **379** 
 
-- **(1)** À compter de la date fixée à son égard conformément au présent article, chaque société doit avoir un nombre d’actions conférant au moins trente-cinq pour cent des droits de vote attachés à l’ensemble de ses actions en circulation, et qui :
+- **(1)** À compter de la date fixée à son égard conformément au présent article, chaque société doit avoir un nombre d’actions conférant au moins trente-cinq pour cent des droits de vote attachés à l’ensemble de ses actions en circulation, et qui :
 	- **a)** d’une part, sont des actions d’une ou plusieurs catégories cotées et négociables dans une bourse reconnue au Canada;
 	- **b)** d’autre part, sont des actions dont aucune personne qui est un actionnaire important à l’égard de ses actions avec droit de vote ni aucune entité contrôlée par une telle personne n’a la propriété effective.
 
 **Détermination de la date**
 
-- **(2)** Dans le cas d’une société dont les capitaux propres sont égaux ou supérieurs à un milliard de dollars à la date de sa constitution, la date applicable se situe trois ans après cette date; dans les autres cas, la date applicable se situe trois ans après la première assemblée annuelle des actionnaires de la société suivant le moment où les capitaux propres de celle-ci ont atteint pour la première fois un milliard de dollars.
+- **(2)** Dans le cas d’une société dont les capitaux propres sont égaux ou supérieurs à deux milliards de dollars à la date de sa constitution, la date applicable se situe trois ans après cette date; dans les autres cas, la date applicable se situe trois ans après la première assemblée annuelle des actionnaires de la société suivant le moment où les capitaux propres de celle-ci ont atteint pour la première fois deux milliards de dollars.
 
 **Prolongation**
 
 - **(3)** Le ministre peut, si les conditions générales du marché le justifient et s’il est convaincu que la société a fait de son mieux pour se conformer au présent article à la date fixée aux termes du paragraphe (2), reculer la date à compter de laquelle la société devra se conformer au paragraphe (1).
-> 1991, ch. 45, art. 379; 2001, ch. 9, art. 521.
+> 1991, ch. 45, art. 379; 2001, ch. 9, art. 521; 2007, ch. 6, art. 356.
 
 
 
@@ -7358,14 +7375,14 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **384** 
 
-- **(1)** Sous réserve du paragraphe (2) et des articles 376 et 385, l’article 379 ne s’applique pas à la société ayant des capitaux propres d’au moins un milliard de dollars et dont une personne ou une entité qu’elle contrôle prend le contrôle en acquérant tout ou partie de ses actions.
+- **(1)** Sous réserve du paragraphe (2) et des articles 376 et 385, l’article 379 ne s’applique pas à la société dont les capitaux propres sont égaux ou supérieurs à deux milliards de dollars et dont le contrôle est acquis, au moyen de l’acquisition de tout ou partie de ses actions, par une personne ou une entité que celle-ci contrôle.
 
 **Engagement préalable**
 
-- **(2)** L’application du paragraphe (1) est toutefois subordonnée à l’engagement envers le ministre par la personne concernée de prendre toutes les mesures nécessaires pour que, dans les trois ans qui suivent l’acquisition de la société ou dans le délai fixé par le ministre, la société ait un nombre d’actions qui confèrent au moins trente-cinq pour cent des droits de vote attachés à l’ensemble de ses actions en circulation et qui :
+- **(2)** L’application du paragraphe (1) est toutefois subordonnée à l’engagement envers le ministre par la personne concernée de prendre toutes les mesures nécessaires pour que, dans les trois ans qui suivent l’acquisition de la société ou dans le délai fixé par le ministre, la société ait un nombre d’actions qui confèrent au moins trente-cinq pour cent des droits de vote attachés à l’ensemble de ses actions en circulation et qui :
 	- **a)** d’une part, sont des actions d’une ou plusieurs catégories cotées et négociables dans une bourse reconnue au Canada;
 	- **b)** d’autre part, sont des actions dont aucune personne qui est un actionnaire important à l’égard de ses actions avec droit de vote ni aucune entité contrôlée par une telle personne n’a la propriété effective.
-> 1991, ch. 45, art. 384; 2001, ch. 9, art. 524.
+> 1991, ch. 45, art. 384; 2001, ch. 9, art. 524; 2007, ch. 6, art. 357.
 
 
 
@@ -7840,20 +7857,20 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 
 
-**Restrictions : hypothèques**
+**Restrictions : hypothèques**
 
 **418** 
 
-- **(1)** Il est interdit à la société de faire garantir par un immeuble résidentiel situé au Canada un prêt consenti au Canada pour l’achat, la rénovation ou l’amélioration de cet immeuble, ou de renouveler un tel prêt, si la somme de celui-ci et du solde impayé de toute hypothèque de rang égal ou supérieur excède soixante-quinze pour cent de la valeur de l’immeuble au moment du prêt.
+- **(1)** Il est interdit à la société de faire garantir par un immeuble résidentiel situé au Canada un prêt consenti au Canada pour l’achat, la rénovation ou l’amélioration de cet immeuble, ou de renouveler un tel prêt, si la somme de celui-ci et du solde impayé de toute hypothèque de rang égal ou supérieur excède quatre-vingts pour cent de la valeur de l’immeuble au moment du prêt.
 
 **Exception**
 
-- **(2)** Le paragraphe (1) ne s’applique pas :
+- **(2)** Le paragraphe (1) ne s’applique pas :
 	- **a)** au prêt consenti ou garanti en vertu de la [Loi nationale sur l’habitation](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-11.md) ou de toute autre loi fédérale aux termes de laquelle est fixée une limite différente sur la valeur de l’immeuble qui constitue l’objet de la garantie;
 	- **b)** au prêt dont le remboursement, en ce qui touche le montant excédant le plafond fixé au paragraphe (1), est garanti ou assuré par un organisme gouvernemental ou par un assureur privé agréé par le surintendant;
 	- **c)** à l’acquisition par la société, d’une entité, de valeurs mobilières émises ou garanties par celle-ci et qui confèrent une sûreté sur un immeuble résidentiel soit en faveur d’un fiduciaire soit de toute autre manière, ou aux prêts consentis par la société à l’entité en contrepartie de l’émission des valeurs mobilières en question;
 	- **d)** au prêt garanti par une hypothèque consentie à la société en garantie du paiement du prix de vente d’un bien qu’elle aliène, y compris par suite de l’exercice d’un droit hypothécaire.
-> 1991, ch. 45, art. 418; 1997, ch. 15, art. 377.
+> 1991, ch. 45, art. 418; 1997, ch. 15, art. 377; 2007, ch. 6, art. 359.
 
 
 
@@ -7863,16 +7880,16 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **419** 
 
-- **(1)** La société est tenue de se conformer aux principes que son conseil d'administration a le devoir d'établir en ce qui concerne la constitution de sûretés pour garantir l'exécution de ses obligations et l'acquisition d'un droit de propriété effective sur des biens grevés d'une sûreté.
+- **(1)** La société est tenue de se conformer aux principes que son conseil d’administration a le devoir d’établir en ce qui concerne la constitution de sûretés pour garantir l’exécution de ses obligations et l’acquisition d’un droit de propriété effective sur des biens grevés d’une sûreté.
 
-**Arrêté de modification**
+**Ordonnance de modification**
 
-- **(2)** Le surintendant peut, par arrêté, ordonner à la société de modifier ces principes selon les modalités qu'il précise dans l'arrêté.
+- **(2)** Le surintendant peut, par ordonnance, enjoindre à la société de modifier ces principes selon les modalités qu’il précise dans l’ordonnance.
 
 **Obligation de se conformer**
 
-- **(3)** La société est tenue de se conformer à l'arrêté visé au paragraphe (2) dans le délai que lui fixe le surintendant.
-> 1991, ch. 45, art. 419; 1999, ch. 31, art. 219(A); 2001, ch. 9, art. 534.
+- **(3)** La société est tenue de se conformer à l’ordonnance visée au paragraphe (2) dans le délai que lui fixe le surintendant.
+> 1991, ch. 45, art. 419; 1999, ch. 31, art. 219(A); 2001, ch. 9, art. 534; 2007, ch. 6, art. 360(F).
 
 
 
@@ -7985,14 +8002,30 @@ Dans le cas d’une telle réclamation, les fonds ainsi déposés peuvent être 
 
 **424** 
 
-- **(1)** Au plus tard le 31 décembre de chaque année, la société verse à la Banque du Canada le montant du dépôt ou de l’effet en cause, plus éventuellement les intérêts calculés conformément aux modalités y afférentes, dans les situations suivantes :
+- **(1)** Au plus tard le 31 décembre de chaque année, la société verse à la Banque du Canada le montant du dépôt ou de l’effet en cause, plus éventuellement les intérêts calculés conformément aux modalités y afférentes, dans les situations suivantes :
 	- **a)** un dépôt a été fait au Canada, est payable au Canada en monnaie canadienne et n’a fait l’objet, pendant une période de dix ans d’aucun mouvement — opération, demande ou accusé de réception d’un état de compte par le déposant — , et ce depuis l’échéance du terme dans le cas d’un dépôt à terme ou, dans le cas de tout autre dépôt, depuis la date de la dernière opération ou, si elle est postérieure, celle de la dernière demande ou du dernier accusé de réception d’un état de compte;
-	- **b)** un chèque, une traite ou une lettre de change — y compris un tel effet tiré par un de ses bureaux sur un autre de ses bureaux mais à l’exclusion de l’effet émis en paiement d’un dividende sur son capital — payable au Canada en monnaie canadienne a été émis, visé ou accepté par elle au Canada et aucun paiement n’a été fait à cet égard pendant une période de dix ans depuis la dernière des dates suivantes : émission, visa, acceptation ou échéance.
+	- **b)** un chèque, une traite ou une lettre de change — y compris un tel effet tiré par un de ses bureaux sur un autre de ses bureaux mais à l’exclusion de l’effet émis en paiement d’un dividende sur son capital — payable au Canada en monnaie canadienne a été émis, visé ou accepté par elle au Canada et aucun paiement n’a été fait à cet égard pendant une période de dix ans depuis la dernière des dates suivantes : émission, visa, acceptation ou échéance.
 Le versement libère la société de toute responsabilité à l’égard du dépôt ou de l’effet.
 
 **Détails à fournir**
 
-- **(2)** Lors du versement, la société est tenue, pour chaque dépôt ou effet, de fournir à la Banque du Canada les renseignements mis à jour énumérés aux paragraphes 496(3) ou 497(2).
+- **(2)** Lors du versement, la société est tenue, pour chaque dépôt ou effet, de fournir à la Banque du Canada, dans la mesure où elle en a connaissance, les renseignements mis à jour suivants :
+	- **a)** dans le cas d’un dépôt :
+		- **(i)** le nom du titulaire du dépôt,
+		- **(ii)** son adresse enregistrée,
+		- **(iii)** le solde du dépôt,
+		- **(iv)** le bureau de la société dans lequel la dernière opération concernant le dépôt a eu lieu et la date de celle-ci;
+	- **b)** dans le cas d’un effet :
+		- **(i)** le nom de la personne à qui ou à la demande de qui l’effet a été émis, visé ou accepté,
+		- **(ii)** son adresse enregistrée,
+		- **(iii)** le nom du bénéficiaire de l’effet,
+		- **(iv)** le montant et la date de l’effet,
+		- **(v)** le nom du lieu où l’effet était à payer,
+		- **(vi)** le bureau de la société où l’effet a été émis, visé ou accepté.
+
+**Cartes et délégations de signature**
+
+- **(2.1)** La société lui fournit, sur demande écrite de la Banque du Canada, des copies des cartes et délégations de signature afférentes pour chaque dépôt ou effet à l’égard duquel le versement a été fait. Si elle n’en possède pas pour un dépôt ou un effet relatif à la demande, elle en informe la Banque du Canada.
 
 **Paiement au réclamant**
 
@@ -8009,7 +8042,7 @@ Le versement libère la société de toute responsabilité à l’égard du dép
 **Application**
 
 - **(6)** Le présent article ne s’applique qu’après huit ans suivant son entrée en vigueur.
-> 1991, ch. 45, art. 424; 1993, ch. 34, art. 127.
+> 1991, ch. 45, art. 424; 1993, ch. 34, art. 127; 2007, ch. 6, art. 361.
 
 
 
@@ -8023,10 +8056,19 @@ Le versement libère la société de toute responsabilité à l’égard du dép
 
 **Date d’exigibilité de l’avis**
 
-- **(2)** L’avis doit être donné au cours du mois de janvier qui suit la fin de la première période de deux ans, puis de cinq ans :
+- **(2)** L’avis doit être donné au cours du mois de janvier qui suit la fin de la première période de deux ans, puis de cinq ans :
 	- **a)** postérieure à l’échéance, dans le cas d’un dépôt à terme fixe;
 	- **b)** pendant laquelle il n’y a eu aucune opération ni demande ou accusé de réception d’un état de compte par le déposant, dans le cas des autres dépôts;
 	- **c)** pendant laquelle l’effet est resté impayé, dans le cas d’un chèque, d’une traite ou d’une lettre de change.
+
+**Date d’exigibilité de l’avis**
+
+- **(3)** L’avis doit être envoyé au cours du mois de janvier qui suit la fin de la première période de deux ans, de cinq ans, puis de neuf ans :
+	- **a)** [non en vigueur]
+	- **b)** pendant laquelle il n’y a eu aucune opération ni demande ou accusé de réception d’un état de compte par le déposant, dans le cas des autres dépôts.
+	- **c)** [non en vigueur]
+> 1991, ch. 45, art. 425; 2007, ch. 6, art. 362.
+
 
 
 
@@ -8305,7 +8347,7 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **441** 
 
-- **(1)** La société est tenue :
+- **(1)** La société est tenue :
 	- **a)** d’établir une procédure d’examen des réclamations de personnes qui lui ont demandé ou qui ont obtenu d’elle des produits ou services au Canada;
 	- **b)** de désigner un préposé — dirigeant ou autre agent — à la mise en oeuvre de la procédure;
 	- **c)** de désigner un ou plusieurs autres préposés — dirigeant ou autre agent — aux réclamations.
@@ -8313,7 +8355,18 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 **Dépôt**
 
 - **(2)** La société dépose auprès du commissaire un double de la procédure.
-> 1991, ch. 45, art. 441; 1997, ch. 15, art. 382; 2001, ch. 9, art. 545.
+
+**Mise à la disposition du public de la procédure**
+
+- **(3)** La société met à la disposition du public la procédure à la fois :
+	- **a)** dans ses bureaux où sont offerts des produits ou services au Canada, sous forme de brochure;
+	- **b)** sur ceux de ses sites Web où sont offerts des produits ou services au Canada;
+	- **c)** dans un document écrit à envoyer à quiconque lui en fait la demande.
+
+**Renseignements**
+
+- **(4)** La société doit accompagner la procédure qu’elle met à la disposition du public des renseignements — fixés par règlement — sur la façon de communiquer avec l’Agence.
+> 1991, ch. 45, art. 441; 1997, ch. 15, art. 382; 2001, ch. 9, art. 545; 2007, ch. 6, art. 364.
 
 
 
@@ -8383,6 +8436,15 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 
 
+**Règlements : retenue des fonds**
+
+**443.1** Le gouverneur en conseil peut prendre des règlements concernant la période maximale pendant laquelle la société peut, avant de permettre au titulaire du compte d’y avoir accès, retenir les fonds à l’égard des chèques ou autres effets qui appartiennent à des catégories qu’il précise et qui sont déposés à tout bureau ou point de service réglementaire au Canada.
+> 2007, ch. 6, art. 366.
+
+
+
+
+
 **Règlements**
 
 **444** Le gouverneur en conseil peut, par règlement :
@@ -8398,15 +8460,15 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 
 
-**Avis de fermeture de succursale**
+**Avis de fermeture de bureau**
 
 **444.1** 
 
-- **(1)** Sous réserve de règlements pris en vertu du paragraphe (5), la société membre qui a au Canada une succursale dans laquelle elle ouvre des comptes de dépôt de détail et procède à la sortie de fonds pour ses clients par l’intermédiaire d’une personne physique donne un préavis — conforme à ces règlements — de la fermeture de la succursale ou de la cessation de l’une ou l’autre de ces activités.
+- **(1)** Sous réserve des règlements pris en vertu du paragraphe (5), la société membre qui a au Canada un bureau dans lequel elle ouvre des comptes de dépôt de détail et procède à la sortie de fonds pour ses clients par l’intermédiaire d’une personne physique donne un préavis — conforme à ces règlements — de la fermeture du bureau ou de la cessation de l’une ou l’autre de ces activités.
 
 **Réunion**
 
-- **(2)** Après la remise du préavis, mais avant la fermeture de la succursale ou la cessation d’activités, le commissaire peut, dans les cas prévus par règlement, exiger que la société convoque et tienne une réunion de ses représentants et de ceux de l’Agence ainsi que de tout autre intéressé faisant partie de la collectivité locale en vue de discuter de la fermeture ou de la cessation d’activités visée.
+- **(2)** Après la remise du préavis, mais avant la fermeture du bureau ou la cessation d’activités, le commissaire doit, dans les cas prévus par règlement, exiger de la société qu’elle convoque et tienne une réunion de ses représentants et de ceux de l’Agence ainsi que de tout autre intéressé faisant partie de la collectivité locale en vue de discuter de la fermeture ou de la cessation d’activités visée, notamment des autres modes de prestation des services offerts par la société et des mesures visant à aider les clients du bureau à faire face à la fermeture ou à la cessation d’activités.
 
 **Règles de convocation**
 
@@ -8422,7 +8484,7 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 	- **a)** désigner le destinataire du préavis mentionné au paragraphe (1) et prévoir les renseignements qui doivent y figurer, ainsi que les modalités de temps et de forme de la communication de cet avis, lesquelles peuvent varier dans les cas précisés par règlement;
 	- **b)** prévoir les cas où la société membre n’est pas tenue de donner le préavis visé au paragraphe (1) et les cas où le commissaire peut l’exempter de le donner, ainsi que ceux où le commissaire peut modifier les modalités de temps et de forme de la communication de l’avis prévues par règlement pris en vertu de l’alinéa a);
 	- **c)** prévoir, pour l’application du paragraphe (2), les cas où une réunion peut être convoquée.
-> 2001, ch. 9, art. 548.
+> 2001, ch. 9, art. 548; 2007, ch. 6, art. 367.
 
 
 
@@ -8462,10 +8524,10 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 	- **(i)** à leurs produits ou services, ou catégories réglementaires de ceux-ci,
 	- **(ii)** à leurs règles de conduite, procédures et pratiques ayant trait à la fourniture de ces produits ou services, ou catégories réglementaires de ceux-ci,
 	- **(iii)** aux interdictions ou obligations qui leur sont imposées aux termes d’une disposition visant les consommateurs,
-	- **(iv)** à toute autre question en ce qui touche leurs relations avec leurs clients ou le public;
+	- **(iv)** à toute autre question en ce qui touche leurs relations ou celles de leurs employés ou représentants avec leurs clients ou le public;
 - **b)** les modalités de temps, de lieu et de forme de la communication, ainsi que le destinataire de celle-ci;
 - **c)** le contenu et la forme de la publicité relative aux questions visées à l’alinéa a).
-> 2001, ch. 9, art. 548.
+> 2001, ch. 9, art. 548; 2007, ch. 6, art. 368.
 
 
 
@@ -8615,6 +8677,11 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 
 ***filiale réglementaire*** La filiale qui fait partie d’une catégorie de filiales prévue par règlement.
 
+***fonds d’investissement à capital fixe*** Entité dont l’activité se limite au placement de ses fonds de façon à offrir des services de diversification de placements et de gestion professionnelle aux détenteurs de ses titres et dont les titres : 
+- **a)** sont diffusés au public en nombre fixe dans le cadre d’une émission faite en vertu d’un prospectus provisoire, d’un prospectus, d’un prospectus simplifié ou d’un document de même nature, conformément aux lois d’une province ou d’un pays étranger;
+- **b)** sont négociés en bourse ou sur les marchés hors cote;
+- **c)** font l’objet, à une date d’échéance fixe, d’une liquidation dont le produit est réparti proportionnellement entre les détenteurs de titres.
+
  ou ***prêt*** ou ***emprunt*** Tout arrangement pour obtenir des fonds ou du crédit, à l’exception des placements dans les valeurs mobilières; y sont assimilés notamment l’acceptation et l’endossement ou autre garantie ainsi que le dépôt, le crédit-bail, le contrat de vente conditionnelle et la convention de rachat.
 
 ***prêt commercial*** Selon le cas :
@@ -8665,7 +8732,7 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 	- **a)** à l’argent ou aux autres éléments d’actif détenus par la société à titre de fiduciaire, à l’exception des fonds en fiducie garantie et des éléments d’actif détenus à leur égard;
 	- **b)** à la détention d’une sûreté sur un bien immeuble, sauf si celle-ci est considérée comme un intérêt immobilier au titre de l’alinéa 467a);
 	- **c)** à la détention d’une sûreté sur les titres d’une entité.
-> 1991, ch. 45, art. 449 et 560; 1993, ch. 34, art. 128(F); 1997, ch. 15, art. 386; 2001, ch. 9, art. 550.
+> 1991, ch. 45, art. 449 et 560; 1993, ch. 34, art. 128(F); 1997, ch. 15, art. 386; 2001, ch. 9, art. 550; 2007, ch. 6, art. 369.
 
 
 
@@ -8712,7 +8779,15 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 **Exception : fait involontaire**
 
 - **(5)** La société est réputée ne pas contrevenir au paragraphe (1) quand elle acquiert le contrôle d’une entité ou acquiert ou augmente un intérêt de groupe financier dans une entité en raison uniquement d’un événement dont elle n’est pas maître.
-> 1991, ch. 45, art. 451; 1997, ch. 15, art. 387; 2001, ch. 9, art. 550.
+
+**Application d’une autre disposition**
+
+- **(6)** Malgré l’acquisition par elle du contrôle d’une entité ou d’un intérêt de groupe financier dans une entité au titre d’une disposition de la présente partie, la société peut continuer à contrôler l’entité ou à détenir l’intérêt de groupe financier comme si elle avait procédé à l’acquisition au titre d’une autre disposition de la présente partie, pourvu que les conditions prévues par cette autre disposition soient respectées.
+
+**Assimilation**
+
+- **(7)** Si elle décide d’exercer le pouvoir prévu au paragraphe (6), la société est réputée acquérir le contrôle ou l’intérêt de groupe financier au titre de l’autre disposition.
+> 1991, ch. 45, art. 451; 1997, ch. 15, art. 387; 2001, ch. 9, art. 550; 2007, ch. 6, art. 370.
 
 
 
@@ -8739,7 +8814,7 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 
 **453** 
 
-- **(1)** Sous réserve des paragraphes (6) à (8) et de la partie XI, la société peut acquérir le contrôle des entités suivantes ou acquérir ou augmenter un intérêt de groupe financier dans ces entités :
+- **(1)** Sous réserve des paragraphes (4) à (6) et de la partie XI, la société peut acquérir le contrôle des entités ci-après ou acquérir ou augmenter un intérêt de groupe financier dans ces entités :
 	- **a)** une société;
 	- **b)** une banque;
 	- **c)** une société de portefeuille bancaire;
@@ -8749,7 +8824,7 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 	- **g)** une société de fiducie, de prêt ou d’assurances constituée en personne morale ou formée sous le régime d’une loi provinciale;
 	- **h)** une société coopérative de crédit constituée en personne morale ou formée et réglementée sous le régime d’une loi provinciale;
 	- **i)** une entité constituée en personne morale ou formée sous le régime d’une loi fédérale ou provinciale et dont l’activité principale est le commerce des valeurs mobilières;
-	- **j)** une entité qui est constituée en personne morale ou formée et réglementée autrement que sous le régime d’une loi fédérale ou provinciale et qui exerce principalement, à l’étranger, des activités qui, au Canada, seraient des opérations bancaires, l’activité d’une société coopérative de crédit, l’assurance, la prestation de services fiduciaires ou le commerce de valeurs mobilières.
+	- **j)** une entité qui est constituée en personne morale ou formée et réglementée autrement que sous le régime d’une loi fédérale ou provinciale et qui exerce principalement, à l’étranger, des activités commerciales qui, au Canada, seraient des opérations bancaires, l’activité d’une société coopérative de crédit, des opérations d’assurance, la prestation de services fiduciaires ou le commerce de valeurs mobilières.
 
 **Placements autorisés**
 
@@ -8765,7 +8840,7 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 	- **d)** toute activité qu’une société peut exercer, autre qu’une activité visée aux alinéas a) ou e), se rapportant :
 		- **(i)** soit à la vente, la promotion, la livraison ou la distribution d’un service ou d’un produit financiers fournis par la société ou un membre de son groupe,
 		- **(ii)** soit, si l’activité commerciale de l’entité consiste, en grande partie, en une activité visée au sous-alinéa (i), à la vente, la promotion, la livraison ou la distribution d’un service ou d’un produit financiers d’une entité dont l’activité commerciale principale consiste en la prestation de services financiers;
-	- **e)** les activités visées aux définitions de « entité s’occupant de fonds mutuels » ou « courtier de fonds mutuels » au paragraphe 449(1);
+	- **e)** les activités visées aux définitions de ***courtier de fonds mutuels***, ***entité s’occupant de fonds mutuels*** ou ***fonds d’investissement à capital fixe*** au paragraphe 449(1);
 	- **f)** les activités prévues par règlement, pourvu qu’elles s’exercent selon les modalités éventuellement fixées par règlement.
 
 **Restriction**
@@ -8781,18 +8856,28 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 		- **(ii)** dans le cas où l’entité n’est pas contrôlée par la société, l’acquisition par la société elle-même d’un intérêt de groupe financier dans l’autre entité serait permise aux termes des paragraphes (1) ou (2) ou 451(2), des alinéas 451(3)b) ou c) ou du paragraphe 451(4);
 	- **g)** des activités prévues par règlement.
 
+**Exception**
+
+- **(3.1)** Malgré l’alinéa (3)d), la société peut acquérir le contrôle d’une entité qui exerce des activités de fiduciaire et y est autorisée par les lois d’une province ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité si celle-ci est, selon le cas :
+	- **a)** un fonds d’investissement à capital fixe;
+	- **b)** une entité s’occupant de fonds mutuels;
+	- **c)** une entité dont l’activité commerciale est limitée à l’une ou l’autre des activités suivantes :
+		- **(i)** les activités d’un courtier de fonds mutuels,
+		- **(ii)** les services qu’une société est autorisée à fournir dans le cadre de l’alinéa 410(1)d.1),
+		- **(iii)** la prestation de services de conseil en placement et de gestion de portefeuille.
+
 **Contrôle**
 
 - **(4)** Sous réserve du paragraphe (8) et des règlements, les règles suivantes s’appliquent à l’acquisition par la société du contrôle des entités suivantes et à l’acquisition ou à l’augmentation par elle d’un intérêt de groupe financier dans ces entités :
 	- **a)** s’agissant d’une entité visée aux alinéas (1)a) à j), elle ne peut le faire que si :
 		- **(i)** soit elle la contrôle ou en acquiert de la sorte le contrôle, au sens de l’alinéa 3(1)d),
 		- **(ii)** soit elle est autorisée par règlement pris en vertu de l’alinéa 459a) à acquérir ou augmenter l’intérêt;
-	- **b)** s’agissant d’une entité qui exerce une activité visée à l’alinéa (2)a) et qui exerce, dans le cadre de son activité commerciale, des activités d’intermédiaire financier comportant des risques importants de crédit ou de marché, notamment une entité s’occupant d’affacturage, une entité s’occupant de crédit-bail ou une entité s’occupant de financement, elle ne peut le faire que si :
+	- **b)** s’agissant d’une entité dont l’activité commerciale comporte une activité visée à l’alinéa (2)a) et qui exerce, dans le cadre de son activité commerciale, des activités d’intermédiaire financier comportant des risques importants de crédit ou de marché, notamment une entité s’occupant d’affacturage, une entité s’occupant de crédit-bail ou une entité s’occupant de financement, elle ne peut le faire que si :
 		- **(i)** soit elle la contrôle ou en acquiert de la sorte le contrôle, au sens de l’alinéa 3(1)d),
-		- **(ii)** soit elle est autorisée par règlement pris en vertu de l’alinéa 459a) à acquérir ou augmenter l’intérêt;
-	- **c)** s’agissant d’une entité qui exerce une activité visée à l’alinéa (2)b), y compris une entité s’occupant de financement spécial, elle ne peut le faire que si :
+		- **(ii)** soit elle est autorisée par règlement pris en vertu de l’alinéa 459a) à acquérir ou à augmenter l’intérêt;
+	- **c)** s’agissant d’une entité dont l’activité commerciale comporte une activité visée à l’alinéa (2)b), y compris une entité s’occupant de financement spécial, elle ne peut le faire que si :
 		- **(i)** soit elle la contrôle ou en acquiert de la sorte le contrôle, au sens de l’alinéa 3(1)d),
-		- **(ii)** soit elle est autorisée par règlement pris en vertu de l’alinéa 459a) à acquérir ou augmenter l’intérêt,
+		- **(ii)** soit elle est autorisée par règlement pris en vertu de l’alinéa 459a) à acquérir ou à augmenter l’intérêt,
 		- **(iii)** soit, sous réserve des modalités éventuellement fixées par règlement, les activités de l’entité ne comportent pas l’acquisition ou la détention du contrôle d’une entité visée aux alinéas a) ou b) ou d’une entité qui n’est pas une entité admissible, ni d’actions ou de titres de participation dans celle-ci.
 
 **Agrément du ministre**
@@ -8803,7 +8888,8 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 		- **(i)** une entité s’occupant d’affacturage,
 		- **(ii)** une entité s’occupant de crédit-bail;
 	- **c)** acquérir le contrôle d’une entité dont l’activité commerciale comporte des activités visées à l’alinéa (2)d) ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité;
-	- **d)** acquérir le contrôle d’une entité qui exerce des activités visées aux alinéas 410(1)c) ou c.1) ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité;
+	- **d)** acquérir le contrôle d’une entité qui exerce au Canada des activités visées à l’alinéa 410(1)c) ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité;
+	- **d.1)** acquérir le contrôle d’une entité qui exerce des activités visées à l’alinéa 410(1)c.1) ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité;
 	- **e)** acquérir le contrôle d’une entité qui exerce des activités prévues par règlement d’application de l’alinéa (2)f) ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité.
 
 **Agrément du surintendant**
@@ -8813,7 +8899,7 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 **Exception**
 
 - **(7)** Le paragraphe (6) ne s’applique pas à une opération dans l’un ou l’autre des cas suivants :
-	- **a)** l’entité dont le contrôle est acquis exerce une activité visée à l’alinéa (2)b) mais n’est pas une entité s’occupant de financement spécial;
+	- **a)** l’entité dont le contrôle est acquis n’est pas une entité s’occupant de financement spécial et le seul motif pour lequel l’agrément serait exigé, n’eût été le présent paragraphe, est l’exercice par elle d’une activité visée à l’alinéa (2)b);
 	- **b)** les activités de l’entité dont le contrôle est acquis se limitent aux activités qu’exercent une entité s’occupant d’affacturage ou une entité s’occupant de crédit-bail;
 	- **c)** le ministre a agréé l’opération dans le cadre du paragraphe (5) ou il est réputé l’avoir agréée dans le cadre du paragraphe 454(1).
 
@@ -8834,7 +8920,7 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 **Présomption d’agrément**
 
 - **(11)** Si la société contrôle, au sens des alinéas 3(1)a), b) ou c), une entité, les paragraphes (5) et (6) ne s’appliquent pas aux augmentations postérieures par la société de son intérêt de groupe financier dans l’entité tant qu’elle continue de la contrôler.
-> 1991, ch. 45, art. 453; 1997, ch. 15, art. 388; 1999, ch. 28, art. 141; 2001, ch. 9, art. 550.
+> 1991, ch. 45, art. 453; 1997, ch. 15, art. 388; 1999, ch. 28, art. 141; 2001, ch. 9, art. 550; 2007, ch. 6, art. 371.
 
 
 
@@ -8900,14 +8986,14 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 
 **Placement provisoire**
 
-- **(4)** La société qui, au moyen d’un placement provisoire, acquiert le contrôle ou acquiert ou augmente un intérêt de groupe financier dans un cas où l’agrément du ministre est requis dans le cadre du paragraphe 453(5) doit, dans les quatre-vingt-dix jours qui suivent l’acquisition :
-	- **a)** soit demander l’agrément du ministre pour continuer à détenir le contrôle ou l’intérêt pour la période précisée par le ministre ou pour une période indéterminée, aux conditions que celui-ci estime indiquées;
+- **(4)** La société qui, au moyen d’un placement provisoire, acquiert le contrôle ou acquiert ou augmente un intérêt de groupe financier dans un cas où l’agrément du ministre aurait été requis dans le cadre du paragraphe 453(5) si le contrôle avait été acquis ou l’intérêt de groupe financier acquis ou augmenté au titre de l’article 453 doit, dans les quatre-vingt-dix jours qui suivent l’acquisition :
+	- **a)** soit demander l’agrément du ministre pour continuer à détenir le contrôle ou l’intérêt pour la période précisée par le ministre ou pour une période indéterminée, aux conditions que celui-ci estime appropriées;
 	- **b)** soit prendre les mesures nécessaires pour éliminer le contrôle ou ne plus détenir un intérêt de groupe financier à l’expiration des quatre-vingt-dix jours.
 
 **Placement provisoire**
 
-- **(5)** Si la société, au moyen d’un placement provisoire, acquiert le contrôle ou acquiert ou augmente un intérêt de groupe financier dans un cas où l’agrément du surintendant est requis dans le cadre du paragraphe 453(6), le surintendant peut, sur demande, autoriser la société à conserver le contrôle de l’entité ou l’intérêt de groupe financier pour une période indéterminée, aux conditions qu’il estime indiquées.
-> 1991, ch. 45, art. 456; 2001, ch. 9, art. 550.
+- **(5)** Si la société, au moyen d’un placement provisoire, acquiert le contrôle ou acquiert ou augmente un intérêt de groupe financier dans un cas où l’agrément du surintendant aurait été requis dans le cadre du paragraphe 453(6) si le contrôle avait été acquis ou l’intérêt de groupe financier acquis ou augmenté au titre de l’article 453, le surintendant peut, sur demande, autoriser la société à conserver le contrôle de l’entité ou l’intérêt de groupe financier pour une période indéterminée, aux conditions qu’il estime appropriées.
+> 1991, ch. 45, art. 456; 2001, ch. 9, art. 550; 2007, ch. 6, art. 372.
 
 
 
@@ -8917,11 +9003,12 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 
 **457** 
 
-- **(1)** Par dérogation aux autres dispositions de la présente partie, lorsqu’elle ou une de ses filiales ont consenti un prêt à une entité et que s’est produit un défaut prévu dans l’accord conclu entre la société ou sa filiale et l’entité relativement au prêt et aux autres documents en fixant les modalités, la société peut acquérir, selon le cas :
+- **(1)** Par dérogation aux autres dispositions de la présente partie, lorsqu’elle ou une de ses filiales ont consenti un prêt à une entité et que s’est produit un défaut prévu dans l’accord conclu entre la société ou sa filiale et l’entité relativement au prêt et aux autres documents en fixant les modalités, la société peut acquérir, selon le cas :
 	- **a)** si l’entité est une personne morale, tout ou partie de ses actions;
 	- **b)** si elle est une entité non constituée en personne morale, tout ou partie de ses titres de participation;
 	- **c)** tout ou partie des actions ou des titres de participation des entités qui sont du même groupe — au sens de l’article 2 — que l’entité en question;
-	- **d)** tout ou partie des actions de la personne morale dont l’activité principale est de détenir des actions ou des titres de participation de l’entité ou des entités de son groupe — au sens de l’article 2 — , ou des éléments d’actif acquis de ces dernières.
+	- **d)** tout ou partie des actions de la personne morale dont l’activité principale est de détenir des actions ou des titres de participation de l’entité ou des entités de son groupe — au sens de l’article 2 — , ou des éléments d’actif acquis de ces dernières;
+	- **e)** tout ou partie des titres de participation d’une entité dont l’activité principale consiste à détenir des actions ou des titres de participation de l’entité ou des entités de son groupe ou des éléments d’actif acquis de ces dernières.
 
 **Obligation d’éliminer l’intérêt**
 
@@ -8935,7 +9022,7 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 
 - **(4)** Le surintendant peut, sur demande, accorder à une société une ou plusieurs prolongations du délai prévu aux paragraphes (2) ou (3) de la durée et aux conditions qu’il estime indiquées.
 
-**Exception : entités contrôlées par un gouvernement étranger**
+**Exception : entités contrôlées par un gouvernement étranger**
 
 - **(5)** Par dérogation aux autres dispositions de la présente partie, lorsqu’elle a consenti un prêt à un gouvernement d’un pays étranger ou à une entité contrôlée par celui-ci, ou qu’elle détient un titre de créance d’un tel gouvernement ou d’une telle entité, et que s’est produit un défaut prévu dans l’accord conclu entre eux relativement au prêt ou au titre de créance et aux autres documents en fixant les modalités, la société peut acquérir tout ou partie des actions ou titres de participation de l’entité ou de toute autre entité désignée par ce gouvernement si l’acquisition fait partie d’un programme de réaménagement de la dette publique du même gouvernement.
 
@@ -8946,7 +9033,7 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 **Exception**
 
 - **(7)** La société qui, dans le cadre du paragraphe (1), acquiert le contrôle d’une entité qu’elle serait par ailleurs autorisée à acquérir en vertu de l’article 453 ou acquiert ou augmente un intérêt de groupe financier qu’elle serait par ailleurs autorisée à acquérir ou augmenter en vertu de cet article peut continuer à détenir le contrôle ou l’intérêt pour une période indéterminée si elle obtient l’agrément écrit du ministre avant l’expiration du délai prévu aux paragraphes (2) ou (3) et prolongé, le cas échéant, aux termes du paragraphe (4).
-> 1991, ch. 45, art. 457; 1997, ch. 15, art. 389; 2001, ch. 9, art. 550.
+> 1991, ch. 45, art. 457; 1997, ch. 15, art. 389; 2001, ch. 9, art. 550; 2007, ch. 6, art. 373.
 
 
 
@@ -9156,7 +9243,7 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 
 **470** 
 
-- **(1)** Il est interdit à la société — et celle-ci doit l’interdire à ses filiales — sans l’agrément du surintendant, d’acquérir des éléments d’actif auprès d’une personne ou de céder des éléments d’actif à une personne si :
+- **(1)** Il est interdit à la société — et celle-ci doit l’interdire à ses filiales — sans l’agrément du surintendant, d’acquérir des éléments d’actif auprès d’une personne ou de céder des éléments d’actif à une personne si :
 ```
 A + B > C
 ```
@@ -9165,33 +9252,37 @@ où :
 - **B** la valeur de tous les éléments d’actif que la société et ses filiales ont acquis auprès de cette personne ou cédés à celle-ci pendant la période de douze mois précédant la date d’acquisition ou de cession;
 - **C** dix pour cent de la valeur totale de l’actif de la société figurant dans le dernier rapport annuel établi avant la date d’acquisition ou de cession.
 
-**Exception**
+**Agrément dans le cadre d’une ou de plusieurs opérations**
 
-- **(2)** L’interdiction prévue au paragraphe (1) ne s’applique toutefois pas :
-	- **a)** aux éléments d’actif qui consistent en titres de créance visés aux sous-alinéas b)(i) à (v) de la définition de « prêt commercial » au paragraphe 449(1);
-	- **b)** aux opérations ou séries d’opérations intervenues entre la société et une autre institution financière à la suite de la participation de la société et de l’institution à la syndication de prêts.
+- **(1.1)** Le surintendant peut, pour l’application du paragraphe (1), agréer une opération ou une série d’opérations liée à l’acquisition ou à la cession d’éléments d’actif pouvant être conclue avec une personne ou avec plusieurs personnes faisant partie d’une catégorie déterminée, qu’elles soient connues ou non au moment de l’octroi de l’agrément.
 
-**Exception**
+**Exceptions**
 
-- **(3)** L’agrément du surintendant n’est pas nécessaire dans l’un ou l’autre des cas suivants :
-	- **a)** la vente des éléments d’actif se fait dans le cadre d’une convention de vente approuvée par le ministre en vertu de l’article 241;
-	- **b)** la société ou l’une de ses filiales acquièrent les actions ou des titres de participation d’une entité dans un cas où l’agrément du ministre est requis dans le cadre de la partie VII ou du paragraphe 453(5) ou dans un cas où l’agrément du surintendant est requis dans le cadre du paragraphe 453(6);
-	- **c)** l’opération a été approuvée par le ministre dans le cadre du paragraphe 678(1) de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md) ou du paragraphe 715(1) de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md).
+- **(2)** Le paragraphe (1) ne s’applique pas :
+	- **a)** aux éléments d’actif qui consistent en titres de créance visés aux sous-alinéas b)(i) à (v) de la définition de ***prêt commercial*** au paragraphe 449(1);
+	- **b)** aux éléments d’actif acquis ou cédés dans le cadre d’une opération ou d’une série d’opérations intervenue entre la société et une autre institution financière à la suite de la participation de la société et de l’institution à la syndication de prêts;
+	- **c)** aux éléments d’actif achetés ou vendus dans le cadre d’une convention de vente approuvée par le ministre en vertu de l’article 241;
+	- **d)** aux actions ou aux titres de participation d’une entité dans un cas où l’agrément du ministre est requis dans le cadre de la partie VII ou du paragraphe 453(5) ou dans un cas où l’agrément du surintendant est requis dans le cadre du paragraphe 453(6);
+	- **e)** aux éléments d’actif acquis ou cédés dans le cadre d’une opération approuvée par le ministre en vertu du paragraphe 678(1) de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md) ou du paragraphe 715(1) de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md);
+	- **f)** aux éléments d’actif, autres que des biens immeubles, acquis ou aliénés conformément à des arrangements approuvés par le surintendant dans le cadre du paragraphe 482(3);
+	- **g)** aux éléments d’actif acquis ou aliénés avec l’agrément du surintendant dans le cadre du paragraphe 482(4).
+
+- **(3)** [Abrogé, 2007, ch. 6, art. 374]
 
 **Calcul de la valeur des éléments d’actif**
 
-- **(4)** Pour le calcul de l’élément A de la formule figurant au paragraphe (1), la valeur des éléments d’actif est :
+- **(4)** Pour le calcul de l’élément A de la formule figurant au paragraphe (1), la valeur des éléments d’actif est :
 	- **a)** dans le cas où les éléments sont acquis, leur prix d’achat ou, s’il s’agit d’actions ou de titres de participation d’une entité dont les éléments d’actif figureront au rapport annuel de la société après l’acquisition, la juste valeur marchande de ces éléments d’actif;
-	- **b)** dans le cas où les éléments sont cédés, la valeur comptable des éléments figurant au dernier rapport annuel de la société établi avant la date de cession ou, s’il s’agit d’actions ou de titres de participation d’une entité dont les éléments d’actif figuraient au dernier rapport annuel établi avant la date de cession, la valeur des éléments figurant dans le rapport annuel.
+	- **b)** dans le cas où les éléments sont cédés, la valeur des éléments qui est visée au dernier rapport annuel de la société établi avant la cession ou, si la valeur n’est pas visée à ce rapport, la valeur qui serait visée au dernier rapport si celui-ci avait été établi avant la cession selon les principes comptables visés au paragraphe 313(4).
 
-**Sens de « valeur de tous les éléments d’actif »**
+**Sens de valeur de tous les éléments d’actif**
 
 - **(5)** Pour l’application du paragraphe (1), la valeur de tous les éléments d’actif acquis par une société et ses filiales au cours de la période de douze mois visée au paragraphe (1) est leur prix d’achat ou, s’il s’agit d’actions ou de titres de participation d’une entité dont les éléments d’actif figureront au rapport annuel de la société après l’acquisition, la juste valeur marchande de ces éléments d’actif à la date d’acquisition.
 
-**Sens de « valeur de tous les éléments d’actif »**
+**Valeur de tous les éléments d’actif**
 
-- **(6)** Pour l’application du paragraphe (1), la valeur de tous les éléments d’actif cédés par une société et ses filiales au cours de la période de douze mois visée au paragraphe (1) est la valeur comptable des éléments figurant au dernier rapport annuel de la société établi avant la date de cession ou, s’il s’agit d’actions ou de titres de participation d’une entité dont les éléments d’actif figuraient au dernier rapport annuel établi avant la date de cession, la valeur des éléments de l’entité figurant dans le rapport annuel.
-> 1991, ch. 45, art. 470; 1997, ch. 15, art. 396; 2001, ch. 9, art. 550.
+- **(6)** Pour l’application du paragraphe (1), la valeur de tous les éléments d’actif cédés par une société et ses filiales au cours de la période de douze mois visée au paragraphe (1) est le total de la valeur de chacun de ces éléments qui est visée au dernier rapport annuel de la société établi avant la cession de l’élément ou, si elle n’est pas visée à ce rapport, qui serait visée au dernier rapport si celui-ci avait été établi avant la cession selon les principes comptables visés au paragraphe 313(4).
+> 1991, ch. 45, art. 470; 1997, ch. 15, art. 396; 2001, ch. 9, art. 550; 2007, ch. 6, art. 374.
 
 
 
@@ -9364,11 +9455,11 @@ cependant, après cette date, le montant du prêt ou du placement qui se trouve 
 
 
 
-**Sens de « opération »**
+**Sens de opération**
 
 **476** 
 
-- **(1)** Pour l’application de la présente partie, sont assimilés à une opération avec un apparenté :
+- **(1)** Pour l’application de la présente partie, sont assimilés à une opération avec un apparenté :
 	- **a)** la garantie consentie en son nom;
 	- **b)** le placement effectué dans ses valeurs mobilières;
 	- **c)** l’acquisition, notamment par cession, d’un prêt consenti à celui-ci par un tiers;
@@ -9378,9 +9469,15 @@ cependant, après cette date, le montant du prêt ou du placement qui se trouve 
 
 - **(2)** Pour l’application de la présente partie, l’exécution d’une obligation liée à une opération, y compris le paiement d’intérêts sur un prêt ou un dépôt, fait partie de celle-ci et ne constitue pas une opération distincte.
 
-**Sens de « prêt »**
+**Sens de prêt**
 
 - **(3)** Pour l’application de la présente partie, sont assimilés à un prêt, le dépôt, le crédit-bail, le contrat de vente conditionnelle, la convention de rachat et toute autre entente similaire en vue d’obtenir des fonds ou du crédit, à l’exception du placement dans des valeurs mobilières et de la signature d’une acceptation, d’un endossement ou d’une autre garantie.
+
+**Titre ou valeur mobilière d’un apparenté**
+
+- **(4)** Pour l’application de la présente partie, est assimilée à un titre ou à une valeur mobilière d’un apparenté une option négociable par tradition ou transfert qui permet d’exiger la livraison d’un nombre précis d’actions à un prix et dans un délai déterminés.
+> 1991, ch. 45, art. 476; 2007, ch. 6, art. 375.
+
 
 
 
@@ -9452,7 +9549,7 @@ cependant, après cette date, le montant du prêt ou du placement qui se trouve 
 
 **Vente d’éléments d’actif**
 
-- **(2)** Sous réserve de l’article 470, la société peut vendre des éléments d’actif à un apparenté dans les cas suivants :
+- **(2)** Sous réserve de l’article 470, la société peut vendre des éléments d’actif à un apparenté dans les cas suivants :
 	- **a)** la contrepartie est entièrement payée en argent;
 	- **b)** il existe pour ces éléments d’actif un marché actif.
 
@@ -9466,9 +9563,15 @@ cependant, après cette date, le montant du prêt ou du placement qui se trouve 
 
 **Location de produits ou locaux**
 
-- **(5)** Si la contrepartie est payée en argent, la société peut :
+- **(5)** Si la contrepartie est payée en argent, la société peut :
 	- **a)** soit prendre à bail d’un apparenté des éléments d’actif qu’elle utilise dans le cadre normal de son activité commerciale;
 	- **b)** soit lui donner à bail des éléments d’actif.
+
+**Approbation : article 241**
+
+- **(6)** Une société peut acquérir des éléments d’actif d’un apparenté ou les aliéner en sa faveur dans le cadre d’une convention de vente approuvée par le ministre en vertu de l’article 241.
+> 1991, ch. 45, art. 482; 2007, ch. 6, art. 376.
+
 
 
 
@@ -9477,10 +9580,10 @@ cependant, après cette date, le montant du prêt ou du placement qui se trouve 
 
 **483** 
 
-- **(1)** Est également permise toute opération entre la société et un apparenté qui consiste en :
+- **(1)** Est également permise toute opération entre la société et un apparenté qui consiste en :
 	- **a)** un contrat écrit pour l’achat par elle de services utilisés dans le cadre normal de son activité commerciale, sous réserve du paragraphe (2);
 	- **b)** sous réserve du paragraphe (4), la prestation par elle de services, à l’exception des prêts ou garanties, habituellement offerts au public par la société dans le cadre normal de son activité commerciale;
-	- **c)** un contrat écrit avec une institution financière ou une entité dans laquelle elle est autorisée à détenir un intérêt de groupe financier en vertu de l’article 453 en vue :
+	- **c)** un contrat écrit avec une institution financière ou une entité dans laquelle elle est autorisée à détenir un intérêt de groupe financier en vertu de l’article 453 en vue :
 		- **(i)** d’offrir le réseau des services fournis par la société ou l’institution financière ou l’entité,
 		- **(ii)** du renvoi d’une personne soit par la société à l’institution financière ou à l’entité, soit par l’institution financière ou l’entité à la société;
 	- **d)** un contrat écrit en vue de régimes de retraite ou d’autres avantages liés aux fonctions d’administrateur ou à l’emploi des dirigeants et employés de la société et de ses filiales, ainsi que leur gestion ou mise en oeuvre;
@@ -9490,14 +9593,14 @@ cependant, après cette date, le montant du prêt ou du placement qui se trouve 
 
 - **(2)** Si la société a conclu un contrat conformément à l’alinéa (1)a) et que le contrat a pour effet, compte tenu de tous les autres contrats conclus par elle, de confier la totalité ou quasi-totalité des responsabilités de gestion de la société à des personnes qui n’en sont pas des employés, le surintendant peut, par ordonnance, s’il juge la situation inacceptable, enjoindre à la société de prendre, dans le délai et selon les modalités qui y sont prévus, toutes les mesures nécessaires pour que les responsabilités de gestion essentielles au fonctionnement de la société soient assumées par des employés de celle-ci.
 
-**Société de services**
+**Exception**
 
-- **(3)** Par dérogation au paragraphe 477(2), la société est réputée ne pas avoir effectué indirectement une opération visée par la présente partie si l’opération est effectuée par une société de services, au sens du paragraphe 449(1), contrôlée par la société et que l’opération a été effectuée à des conditions au moins aussi favorables pour la société que les conditions du marché, au sens du paragraphe 489(2).
+- **(3)** Par dérogation au paragraphe 477(2), la société est réputée ne pas avoir effectué indirectement une opération visée par la présente partie si l’opération est effectuée par une entité qui est contrôlée par la société et dont l’activité commerciale se limite à l’activité visée à l’alinéa 453(2)c), et que l’opération a été effectuée à des conditions au moins aussi favorables pour la société que les conditions du marché, au sens du paragraphe 489(2).
 
 **Exceptions**
 
 - **(4)** Pour l’application de l’alinéa (1)b), sont exclues de la prestation de services les opérations de prêt ou de garantie.
-> 1991, ch. 45, art. 483; 1997, ch. 15, art. 400.
+> 1991, ch. 45, art. 483; 1997, ch. 15, art. 400; 2007, ch. 6, art. 377.
 
 
 
@@ -9545,13 +9648,13 @@ cependant, après cette date, le montant du prêt ou du placement qui se trouve 
 
 **483.3** 
 
-- **(1)** Malgré le paragraphe 482(3), il est interdit à la société, sans l’autorisation du surintendant et de son comité de révision, d’acquérir directement ou indirectement des éléments d’actif auprès d’un apparenté avec lequel le paragraphe 483.1(1) l’autorise à effectuer une opération mais qui n’est pas une institution financière fédérale ou de céder directement ou indirectement des éléments d’actif à cet apparenté si :
+- **(1)** Malgré le paragraphe 482(3), il est interdit à la société, sans l’autorisation du surintendant et de son comité de révision, d’acquérir directement ou indirectement des éléments d’actif auprès d’un apparenté avec lequel le paragraphe 483.1(1) l’autorise à effectuer une opération mais qui n’est pas une institution financière fédérale ou de céder directement ou indirectement des éléments d’actif à cet apparenté si :
 ```
 A + B > C
 ```
 où :
 - **A** représente la valeur des éléments d’actif;
-- **B** la valeur de tous les éléments d’actif que la société a acquis auprès de cet apparenté ou cédés à celui-ci pendant la période de douze mois précédant la date d’acquisition ou de cession;
+- **B** la valeur de tous les éléments d’actif que la société a acquis auprès de cet apparenté ou cédés à celui-ci pendant la période de douze mois précédant la date d’acquisition ou de cession, sauf ceux qu’elle a acquis ou qui lui ont été transférés dans le cadre de toute opération visée à l’article 478;
 - **C** cinq pour cent — ou si un autre pourcentage est fixé par règlement, le pourcentage fixé par règlement — de la valeur totale de l’actif de la société figurant dans le dernier rapport annuel établi avant la date d’acquisition ou de cession.
 
 **Exception**
@@ -9560,24 +9663,24 @@ où :
 
 **Exception**
 
-- **(3)** L’agrément du surintendant n’est pas nécessaire dans l’un ou l’autre des cas suivants :
-	- **a)** la vente des éléments d’actif se fait dans le cadre d’une convention de vente approuvée par le ministre en vertu de l’article 241;
+- **(3)** L’agrément du surintendant n’est pas nécessaire dans l’un ou l’autre des cas suivants :
+	- **a)** l’achat ou la vente des éléments d’actif se fait dans le cadre d’une convention de vente approuvée par le ministre en vertu de l’article 241;
 	- **b)** la société ou l’une de ses filiales acquiert les actions ou des titres de participation d’une entité dans un cas où l’agrément du ministre est requis dans le cadre de la partie VII ou du paragraphe 453(5) ou dans un cas où l’agrément du surintendant est requis dans le cadre du paragraphe 453(6).
 
 **Calcul de la valeur des éléments d’actif**
 
-- **(4)** Pour le calcul de l’élément A de la formule figurant au paragraphe (1), la valeur des éléments d’actif est :
+- **(4)** Pour le calcul de l’élément A de la formule figurant au paragraphe (1), la valeur des éléments d’actif est :
 	- **a)** dans le cas où les éléments sont acquis, leur prix d’achat ou, s’il s’agit d’actions ou de titres de participation d’une entité dont les éléments d’actif figureront au rapport annuel de la société après l’acquisition, la juste valeur marchande de ces éléments d’actif;
 	- **b)** dans le cas où les éléments sont cédés, la valeur comptable des éléments figurant au dernier rapport annuel de la société établi avant la date de cession ou, s’il s’agit d’actions ou de titres de participation d’une entité dont les éléments d’actif figuraient au dernier rapport annuel établi avant la date de cession, la valeur des éléments figurant dans le rapport annuel.
 
-**Sens de « valeur de tous les éléments d’actif »**
+**Sens de valeur de tous les éléments d’actif**
 
 - **(5)** Pour l’application du paragraphe (1), la valeur de tous les éléments d’actif acquis par une société et ses filiales au cours de la période de douze mois visée au paragraphe (1) est leur prix d’achat ou, s’il s’agit d’actions ou de titres de participation d’une entité dont les éléments d’actif figureront au rapport annuel de la société après l’acquisition, la juste valeur marchande de ces éléments d’actif à la date d’acquisition.
 
-**Sens de « valeur de tous les éléments d’actif »**
+**Sens de valeur de tous les éléments d’actif**
 
 - **(6)** Pour l’application du paragraphe (1), la valeur de tous les éléments d’actif cédés par une société et ses filiales au cours de la période de douze mois visée au paragraphe (1) est la valeur comptable des éléments figurant au dernier rapport annuel de la société établi avant la date de cession ou, s’il s’agit d’actions ou de titres de participation d’une entité dont les éléments d’actif figuraient au dernier rapport annuel établi avant la date de cession, la valeur des éléments de l’entité figurant dans le rapport annuel.
-> 2001, ch. 9, art. 552.
+> 2001, ch. 9, art. 552; 2007, ch. 6, art. 378.
 
 
 
@@ -9781,84 +9884,15 @@ si l’opération avait pour effet de porter à plus de cinquante pour cent de s
 
 
 
-
-**Relevé des dépôts non réclamés**
-
-**496** 
-
-- **(1)** Dans les soixante jours qui suivent la fin de chaque année civile, la société fournit au surintendant, en la forme qu’il précise, un relevé au 31 décembre de tous les dépôts effectués auprès d’elle au Canada, en monnaie canadienne, qui n’ont fait l’objet d’aucune opération et pour lesquels aucun état de compte n’a été demandé ou reconnu par le déposant au cours d’une période d’au moins neuf ans.
-
-**Calcul de la période**
-
-- **(2)** La période en question, qui se termine à la date du relevé, a pour point de départ :
-	- **a)** dans le cas des dépôts à terme, l’échéance du terme;
-	- **b)** dans le cas des autres dépôts, soit la date de la dernière opération, soit, si elle lui est postérieure, celle où le déposant a, pour la dernière fois, demandé ou reconnu un état de compte.
-
-**Teneur du relevé**
-
-- **(3)** Le relevé doit indiquer, dans la mesure où la société en a connaissance :
-	- **a)** le nom du titulaire de chaque dépôt;
-	- **b)** l’adresse enregistrée de chacun d’eux;
-	- **c)** le solde de chacun des dépôts;
-	- **d)** le bureau de la société dans lequel la dernière opération concernant le dépôt a eu lieu et la date de celle-ci.
-
-**Solde inférieur à cent dollars**
-
-- **(4)** La société n’est toutefois pas tenue de fournir les renseignements énoncés au paragraphe (3) dans le cas où le solde de l’ensemble des dépôts inscrits au nom du titulaire est inférieur à cent dollars.
-
-**Application du paragraphe (1)**
-
-- **(5)** Le paragraphe (1) ne s’applique qu’aux dépôts faits après le 31 mai 1990.
-
-**Application**
-
-- **(6)** Le présent article ne s’applique qu’à partir du 1<sup>er</sup> juin 1999.
-> 1991, ch. 45, art. 496; 1993, ch. 34, art. 129.
+**496** [Abrogé, 2007, ch. 6, art. 379]
 
 
 
-
-
-**Relevé des effets non réclamés**
-
-**497** 
-
-- **(1)** Dans les soixante jours qui suivent la fin de chaque année civile, la société fournit au surintendant, en la forme qu’il précise, un relevé au 31 décembre de tous les effets négociables, y compris les effets tirés par un de ses bureaux sur un autre de ceux-ci mais à l’exclusion des effets émis en paiement d’un dividende sur son capital, payables au Canada, en monnaie canadienne, qui ont été émis, visés ou acceptés par elle dans ses bureaux au Canada, et pour lesquels aucun paiement n’a été fait pendant une période de neuf ans ou plus, à la date du relevé et dont le point de départ est la dernière des dates suivantes : émission, visa, acceptation ou échéance.
-
-**Teneur du relevé**
-
-- **(2)** Le relevé doit indiquer, dans la mesure où la société en a connaissance :
-	- **a)** le nom de chaque personne à qui, ou à la demande de qui, chaque effet a été émis, visé ou accepté;
-	- **b)** l’adresse enregistrée de chacune de ces personnes;
-	- **c)** le nom du bénéficiaire de chaque effet;
-	- **d)** le montant et la date de chaque effet;
-	- **e)** le nom du lieu où chaque effet était payable;
-	- **f)** le bureau de la société où chaque effet a été émis, visé ou accepté.
-
-**Effet de moins de cent dollars**
-
-- **(3)** La société n’est toutefois plus tenue de fournir les renseignements énoncés au paragraphe (2) dans le cas où le montant de l’effet est inférieur à cent dollars.
-
-**Mandat-poste**
-
-- **(4)** La société peut également omettre ces renseignements relativement aux mandats auxquels le paragraphe (1) s’applique.
-
-**Application du paragraphe (1)**
-
-- **(5)** Le paragraphe (1) ne s’applique qu’aux effets négociables émis, visés ou acceptés après le 31 mai 1990.
-
-**Application**
-
-- **(6)** Le présent article ne s’applique qu’à partir du 1<sup>er</sup> juin 1999.
-> 1991, ch. 45, art. 497; 1993, ch. 34, art. 130.
+**497** [Abrogé, 2007, ch. 6, art. 379]
 
 
 
-
-
-**Mention obligatoire de la valeur globale**
-
-**498** Même en cas d’omission des renseignements devant normalement figurer dans les relevés visés aux paragraphes 496(1) ou 497(1), la société doit préciser la valeur globale des dépôts ou effets en cause.
+**498** [Abrogé, 2007, ch. 6, art. 379]
 
 
 
@@ -9943,16 +9977,16 @@ si l’opération avait pour effet de porter à plus de cinquante pour cent de s
 
 **503** 
 
-- **(1)** Sous réserve des articles 504 et 504.1, sont confidentiels et doivent être traités comme tels les renseignements concernant l’activité commerciale et les affaires internes de la société ou concernant une personne faisant affaire avec elle et obtenus par le surintendant ou par toute autre personne agissant sous ses ordres, dans le cadre de l’application d’une loi fédérale, de même que ceux qui sont tirés de tels renseignements.
+- **(1)** Sous réserve de l’article 504.1, sont confidentiels et doivent être traités comme tels les renseignements concernant l’activité commerciale et les affaires internes de la société ou concernant une personne faisant affaire avec elle et obtenus par le surintendant ou par toute autre personne agissant sous ses ordres, dans le cadre de l’application d’une loi fédérale, de même que ceux qui sont tirés de tels renseignements.
 
 **Communication autorisée**
 
-- **(2)** S’il est convaincu que les renseignements seront considérés comme confidentiels par leur destinataire, le surintendant peut toutefois les communiquer :
+- **(2)** S’il est convaincu que les renseignements seront considérés comme confidentiels par leur destinataire, le surintendant peut toutefois les communiquer :
 	- **a)** à une agence ou à un organisme gouvernemental qui réglemente ou supervise des institutions financières, à des fins liées à la réglementation ou à la supervision;
 	- **a.01)** à une autre agence ou à un autre organisme qui réglemente ou supervise des institutions financières, à des fins liées à la réglementation ou à la supervision;
 	- **a.1)** à la Société d’assurance-dépôts du Canada pour l’accomplissement de ses fonctions;
 	- **b)** au sous-ministre des Finances, ou à tout fonctionnaire du ministère des Finances que celui-ci a délégué par écrit pour l’analyse de la politique en matière de la réglementation des institutions financières ou au gouverneur de la Banque du Canada, ou à tout fonctionnaire de la Banque du Canada que celui-ci a délégué par écrit pour cette même analyse.
-> 1991, ch. 45, art. 503; 1996, ch. 6, art. 122; 1997, ch. 15, art. 406; 2001, ch. 9, art. 557.
+> 1991, ch. 45, art. 503; 1996, ch. 6, art. 122; 1997, ch. 15, art. 406; 2001, ch. 9, art. 557; 2007, ch. 6, art. 380.
 
 
 
@@ -9966,14 +10000,7 @@ si l’opération avait pour effet de porter à plus de cinquante pour cent de s
 
 
 
-
-**Publicité**
-
-**504** Le surintendant doit faire publier :
-- **a)** dans la Gazette du Canada, les renseignements figurant aux relevés visés aux articles 496 et 497, dans les soixante jours qui suivent l’expiration du délai prévu par la présente loi pour leur production.
-- **b)** [Abrogé, 1996, ch. 6, art. 123]
-> 1991, ch. 45, art. 504; 1996, ch. 6, art. 123.
-
+**504** [Abrogé, 2007, ch. 6, art. 381]
 
 
 
@@ -10547,42 +10574,114 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 
 
-### Agréments : conditions et engagements
+### Agréments
 
 
 
-**Définition de « agrément »**
+**Définition de agrément**
 
-**527.2** 
+**527.2** Aux articles 527.3 à 527.8, ***agrément*** s’entend notamment de toute approbation, désignation, consentement, accord, arrêté, ordonnance, exemption, dispense, prorogation ou prolongation ou autre autorisation accordée sous le régime de la présente loi, par le ministre ou le surintendant, selon le cas; y est assimilée la délivrance de lettres patentes.
+> 2001, ch. 9, art. 567; 2007, ch. 6, art. 382.
 
-- **(1)** Au présent article, ***agrément*** s’entend notamment de toute approbation, consentement, accord, arrêté, ordonnance, exemption, dispense, prorogation ou prolongation ou autre autorisation accordée en vertu de la présente loi, par le ministre ou le surintendant, selon le cas; y est assimilée la délivrance de lettres patentes.
 
-**Ministre : conditions et engagements**
 
-- **(2)** Sans préjudice de toute autre mesure fondée sur la présente loi, le ministre peut subordonner l’octroi de son agrément à la réalisation des conditions et engagements qu’il estime nécessaires, notamment ceux que précise le surintendant afin de mettre en oeuvre des mesures visant à maintenir ou à améliorer la santé financière de toute institution financière régie par une loi fédérale et visée par l’agrément ou susceptible d’être touchée par celui-ci.
 
-**Surintendant : conditions et engagements**
 
-- **(3)** Sans préjudice de toute autre mesure fondée sur la présente loi, le surintendant peut subordonner l’octroi de son agrément à la réalisation des conditions et engagements qu’il estime nécessaires.
+**Facteurs : ministre**
 
-**Effet de la non-réalisation des conditions ou engagements**
+**527.3** 
 
-- **(4)** Sauf disposition contraire expresse de la présente loi, la non-réalisation des conditions ou engagements auxquels l’agrément est subordonné aux termes d’une disposition quelconque de la présente loi ne rend pas celui-ci nul pour autant.
+- **(1)** Outre les facteurs et conditions prévus par la présente loi qui sont liés à l’octroi d’un agrément, le ministre peut prendre en compte tous les facteurs qu’il estime pertinents dans les circonstances avant d’octroyer son agrément, notamment :
+	- **a)** la sécurité nationale;
+	- **b)** les relations internationales du Canada et ses obligations juridiques internationales.
 
-**Non-réalisation**
+**Facteurs : surintendant**
 
-- **(5)** Sans préjudice de toute autre mesure fondée sur la présente loi, en cas de non-réalisation par une personne des conditions ou engagements auxquels l’agrément est subordonné aux termes d’une disposition quelconque de la présente loi, le ministre ou le surintendant, selon le cas, peut :
-	- **a)** soit révoquer, suspendre ou modifier l’agrément;
-	- **b)** soit demander au tribunal une ordonnance enjoignant à cette personne de se conformer aux conditions ou engagements, le tribunal pouvant alors acquiescer à la demande et rendre toute autre ordonnance qu’il juge indiquée.
+- **(2)** Outre les facteurs et conditions prévus par la présente loi qui sont liés à l’octroi d’un agrément et les considérations de prudence qu’il estime pertinentes dans les circonstances, le surintendant peut, avant d’octroyer son agrément, prendre en compte :
+	- **a)** la sécurité nationale;
+	- **b)** les relations internationales du Canada et ses obligations juridiques internationales.
+> 2007, ch. 6, art. 382.
+
+
+
+
+
+**Ministre : conditions et engagements**
+
+**527.4** 
+
+- **(1)** Sans préjudice de toute autre mesure fondée sur la présente loi, le ministre peut subordonner l’octroi de son agrément à la réalisation des conditions et engagements qu’il estime appropriés, notamment ceux que précise le surintendant afin de mettre en oeuvre des mesures visant à maintenir ou à améliorer la santé financière de toute institution financière régie par une loi fédérale et visée par l’agrément ou susceptible d’être touchée par celui-ci.
+
+**Surintendant : conditions et engagements**
+
+- **(2)** Sans préjudice de toute autre mesure fondée sur la présente loi, le surintendant peut subordonner l’octroi de son agrément à la réalisation des conditions et engagements qu’il estime appropriés.
+> 2007, ch. 6, art. 382.
+
+
+
+
+
+**Révocation, suspension ou modification de l’agrément du ministre**
+
+**527.5** 
+
+- **(1)** Le ministre peut révoquer, suspendre ou modifier son agrément s’il l’estime indiqué. Pour ce faire, il peut prendre en compte tous les facteurs qu’il estime pertinents dans les circonstances, notamment :
+	- **a)** la sécurité nationale;
+	- **b)** les relations internationales du Canada et ses obligations juridiques internationales.
+
+**Révocation, suspension ou modification de l’agrément du surintendant**
+
+- **(2)** Le surintendant peut révoquer, suspendre ou modifier son agrément s’il l’estime indiqué. Pour ce faire, il peut prendre en compte les considérations de prudence qu’il estime pertinentes dans les circonstances et les éléments suivants :
+	- **a)** la sécurité nationale;
+	- **b)** les relations internationales du Canada et ses obligations juridiques internationales.
 
 **Observations**
 
-- **(6)** Avant de prendre une mesure en application du paragraphe (5), le ministre ou le surintendant, selon le cas, accorde aux intéressés la possibilité de présenter des observations.
+- **(3)** Avant de prendre une mesure en application du présent article, le ministre ou le surintendant, selon le cas, accorde aux intéressés la possibilité de présenter des observations.
+> 2007, ch. 6, art. 382.
+
+
+
+
+
+**Effet de la non-réalisation des conditions ou engagements**
+
+**527.6** 
+
+- **(1)** Sauf disposition contraire expresse de la présente loi, la non-réalisation des conditions ou engagements auxquels l’agrément est subordonné aux termes d’une disposition quelconque de la présente loi ne rend pas celui-ci nul pour autant.
+
+**Non-réalisation**
+
+- **(2)** Sans préjudice de toute autre mesure fondée sur la présente loi, en cas de non-réalisation par une personne des conditions ou engagements auxquels l’agrément est subordonné aux termes d’une disposition quelconque de la présente loi, le ministre ou le surintendant, selon le cas, peut :
+	- **a)** révoquer, suspendre ou modifier l’agrément;
+	- **b)** demander au tribunal une ordonnance enjoignant à cette personne de se conformer aux conditions ou engagements, le tribunal pouvant alors acquiescer à la demande et rendre toute autre ordonnance qu’il juge opportune.
+
+**Observations**
+
+- **(3)** Avant de prendre une mesure en application du paragraphe (2), le ministre ou le surintendant, selon le cas, accorde aux intéressés la possibilité de présenter des observations.
 
 **Révocation, suspension ou modification**
 
-- **(7)** Sur demande des intéressés, le ministre ou le surintendant, selon le cas, peut révoquer, suspendre ou modifier les conditions qu’il a imposées ou révoquer ou suspendre les engagements qu’il a exigés ou en approuver la modification.
-> 2001, ch. 9, art. 567.
+- **(4)** Sur demande des intéressés, le ministre ou le surintendant, selon le cas, peut révoquer, suspendre ou modifier les conditions qu’il a imposées, ou révoquer ou suspendre les engagements qu’il a exigés ou en approuver la modification.
+> 2007, ch. 6, art. 382.
+
+
+
+
+
+**Autres agréments**
+
+**527.7** Le ministre ou le surintendant peut, s’il l’estime indiqué, accorder en un seul acte plusieurs agréments, à l’exception des lettres patentes. Le cas échéant, il peut préciser une date distincte pour la prise d’effet de chacun des agréments.
+> 2007, ch. 6, art. 382.
+
+
+
+
+
+**Pouvoirs du surintendant à l’égard des avis d’intention**
+
+**527.8** Le surintendant peut, sur demande, soustraire l’auteur ou les auteurs d’une demande d’agrément aux dispositions de la présente loi relatives à la publication d’un avis d’intention concernant les demandes d’agrément et y substituer toute condition qu’il juge appropriée.
+> 2007, ch. 6, art. 382.
 
 
 
@@ -10614,10 +10713,10 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **529.1** 
 
-- **(1)** Doivent être accompagnées des renseignements et documents que peut exiger le surintendant les demandes suivantes qui lui sont présentées :
+- **(1)** Doivent être accompagnées des renseignements et documents que peut exiger le surintendant les demandes suivantes qui lui sont présentées :
 	- **a)** les demandes d’agrément, d’approbation ou d’autorisation visées aux paragraphes 68(1), 75(2), 78(4), 82(5), 83(1), 174(1), 222(3), 421(1), 453(6) ou (10), 456(1) ou (2) ou 470(1), au sous-alinéa 475(2)b)(vi), à l’article 478 ou aux paragraphes 482(3) ou (4) ou 483.3(1);
 	- **b)** les demandes d’accord visées au paragraphe 74(1);
-	- **c)** les demandes d’exemption ou de dispense visées aux paragraphes 160.05(3) ou 250(1);
+	- **c)** les demandes de dispense visées au paragraphe 160.05(3);
 	- **d)** les demandes de prorogation visées aux paragraphes 456(3) ou (5), 457(4) ou 458(4).
 
 **Accusé de réception**
@@ -10626,7 +10725,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Avis au demandeur**
 
-- **(3)** Sous réserve du paragraphe (4), le surintendant envoie au demandeur, dans les trente jours suivant la date de réception :
+- **(3)** Sous réserve du paragraphe (4), le surintendant envoie au demandeur, dans les trente jours suivant la date de réception :
 	- **a)** soit un avis d’agrément de la demande, assorti éventuellement des conditions ou modalités qu’il juge utiles;
 	- **b)** soit, s’il n’est pas convaincu que la demande devrait être agréée, un avis en ce sens.
 
@@ -10637,7 +10736,44 @@ Elle lui communique également les renseignements personnels qui les concernent 
 **Présomption**
 
 - **(5)** Le défaut d’envoyer l’avis prévu au paragraphe (3) et, s’il y a lieu, celui prévu au paragraphe (4) dans le délai imparti vaut agrément de la demande et octroi de l’agrément, de l’approbation, de l’autorisation, de l’accord, de l’exemption, de la dispense ou de la prorogation de délai visés par la demande, même si ceux-ci doivent être donnés par écrit.
-> 2001, ch. 9, art. 568.
+> 2001, ch. 9, art. 568; 2007, ch. 6, art. 383.
+
+
+
+
+
+### Demandes relatives à certains agréments
+
+
+
+**Demandes relatives à certains agréments**
+
+**529.2** 
+
+- **(1)** Toute demande visant l’obtention de l’agrément écrit préalable du ministre faite dans le cadre de l’un ou l’autre des alinéas 410(1)c) et c.1) et 453(5)c), d) et d.1) est présentée au surintendant et contient les renseignements, documents et éléments de preuve pouvant être exigés par lui.
+
+**Accusé de réception**
+
+- **(2)** S’il estime que la demande est complète, le surintendant la transmet, accompagnée de son analyse, au ministre et adresse au demandeur un accusé de réception précisant la date où elle a été transmise au ministre.
+
+**Demande incomplète**
+
+- **(3)** Dans le cas contraire, le surintendant envoie au demandeur un avis précisant les renseignements manquants à lui communiquer.
+
+**Avis au demandeur**
+
+- **(4)** Sous réserve du paragraphe (5), le ministre envoie au demandeur, dans les trente jours suivant la date visée au paragraphe (2) :
+	- **a)** soit un avis d’agrément de la demande;
+	- **b)** soit, s’il n’est pas convaincu que la demande devrait être agréée, un avis de refus.
+
+**Prorogation**
+
+- **(5)** Dans le cas où l’examen de la demande ne peut se faire dans le délai fixé au paragraphe (4), le ministre envoie, avant l’expiration de celui-ci, un avis en informant le demandeur et précisant le nouveau délai.
+
+**Présomption**
+
+- **(6)** Le ministre est réputé avoir agréé la demande s’il omet d’envoyer l’avis prévu au paragraphe (4) et, s’il y a lieu, celui prévu au paragraphe (5) dans le délai imparti.
+> 2007, ch. 6, art. 384.
 
 
 
@@ -10726,6 +10862,10 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 - **(1)** Commet une infraction quiconque contrevient sans motif valable à la présente loi ou à ses règlements.
 
+**Renseignements faux ou trompeurs**
+
+- **(1.1)** Commet une infraction quiconque, relativement à toute question visée par la présente loi ou ses règlements, communique sciemment des renseignements faux ou trompeurs.
+
 **Préférence donnée à un créancier**
 
 - **(2)** Commet une infraction tout administrateur, dirigeant ou employé d’une société qui volontairement accorde, ou consent d’accorder, de manière frauduleuse, irrégulière ou injuste, à un créancier de la société une préférence sur d’autres créanciers, en lui donnant des garanties ou en changeant la nature de sa créance, ou de toute autre manière.
@@ -10737,6 +10877,8 @@ Elle lui communique également les renseignements personnels qui les concernent 
 **Utilisation du nom**
 
 - **(4)** Sauf dans la mesure permise par les règlements, commet une infraction quiconque utilise le nom d’une société dans un prospectus, une offre, une circulaire d’offre publique d’achat, une annonce d’opération sur des valeurs mobilières ou tout autre document portant sur une telle opération.
+> 1991, ch. 45, art. 533; 2007, ch. 6, art. 385.
+
 
 
 
