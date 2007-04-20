@@ -94,9 +94,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** S’il est d’avis qu’un système de compensation et de règlement peut, de par son fonctionnement, poser un risque systémique, le gouverneur de la banque peut, si le ministre croit qu’il est dans l’intérêt public de le faire, assujettir ce système à la présente partie.
 
+**Révocation**
+
+- **(2)** S’il est d’avis que le système de compensation et de règlement ne pose plus de risque systémique, le gouverneur de la banque peut, si le ministre croit qu’il est dans l’intérêt public de le faire, cesser de l’assujettir à la présente partie.
+
 **Avis et publication préalables**
 
-- **(2)** Il avise au préalable par écrit la chambre de compensation de sa décision et en fait publier le texte dans la Gazette du Canada.
+- **(3)** Il avise au préalable par écrit la chambre de compensation de la décision qu’il prend au titre du paragraphe (1) ou (2) et en fait publier le texte dans la Gazette du Canada.
+> 1996, ch. 6, art. 162 (ann., art. 4); 2007, ch. 6, art. 441.
+
 
 
 
@@ -325,13 +331,13 @@ La directive, qui précise, le cas échéant, les délais impartis, ordonne aux 
 
 ***chambre spécialisée*** Outre les entités désignées en vertu du paragraphe (2) :
 - **a)** la Corporation canadienne de compensation de produits dérivés, constituée en vertu de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md);
-- **b)** La Caisse canadienne de dépôt de valeurs Limitée, issue d’une fusion effectuée sous le régime de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md);
+- **b)** les Services de dépôt et de compensation CDS inc., constituée sous le régime de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md);
 - **c)** la WCE Clearing Corporation, constituée en vertu de la Loi sur les corporations, chapitre C225 des Lois réadoptées du Manitoba de 1987.
 
 ***membre*** Personne qui a recours aux services d’une chambre spécialisée.
 
 ***reliquat net*** Le montant obtenu une fois la compensation opérée entre une chambre spécialisée et un membre, selon les modalités prévues par l’accord de compensation.
-> 2002, ch. 14, art. 1.
+> 2002, ch. 14, art. 1; 2007, ch. 6, art. 442.
 
 
 
