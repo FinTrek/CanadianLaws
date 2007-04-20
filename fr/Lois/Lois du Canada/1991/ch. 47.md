@@ -114,10 +114,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***institution étrangère d’un non-membre de l’OMC*** Institution étrangère qui n’est pas contrôlée par un résident d’un membre de l’OMC.
 
-***institution financière*** Selon le cas :
+***institution financière*** Selon le cas :
 - **a)** une société ou une société de secours;
 - **b)** une banque ou une banque étrangère autorisée, au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md);
-- **c)** une personne morale régie par la Loi sur les sociétés de fiducie*et de de prêt*;
+- **c)** une personne morale régie par la Loi sur les sociétés de fiducie et de de prêt;
 - **d)** une association régie par la [Loi sur les associations coopératives de crédit](/fr/Lois/Lois%20du%20Canada/1991/ch.%2048.md) ou une coopérative de crédit centrale ayant fait l’objet de l’ordonnance prévue au paragraphe 473(1) de cette loi;
 - **e)** une société de fiducie, de prêt ou d’assurances constituée en personne morale par une loi provinciale;
 - **f)** une société coopérative de crédit constituée en personne morale et régie par une loi provinciale;
@@ -126,7 +126,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***institution financière canadienne*** Institution financière constituée en personne morale ou formée sous le régime d’une loi fédérale ou provinciale.
 
-***institution financière fédérale*** Selon le cas :
+***institution financière fédérale*** Selon le cas :
 - **a)** société d’assurances ou société de secours;
 - **b)** banque;
 - **c)** personne morale régie par la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md);
@@ -148,17 +148,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***personne morale*** Toute personne morale, indépendamment de son lieu ou mode de constitution.
 
-***plaignant*** En ce qui a trait à une société ou à toute question la concernant :
+***plaignant*** En ce qui a trait à une société ou à toute question la concernant :
 - **a)** soit le détenteur inscrit ou le véritable propriétaire, ancien ou actuel, de valeurs mobilières de la société ou d’entités du même groupe;
 - **a.1)** soit le souscripteur habile à voter aux assemblées des souscripteurs ou des actionnaires et des souscripteurs de la société;
 - **b)** soit tout administrateur ou dirigeant, ancien ou actuel, de la société ou d’entités du même groupe;
 - **c)** soit toute autre personne qui, d’après le tribunal, a qualité pour présenter les demandes visées aux articles 371, 375 ou 1031.
 
-***police*** Document écrit — en une seule ou plusieurs pièces — constatant le contrat d’assurance ou de réassurance ou, dans le cas d’une société de secours, le contrat d’assurance — attesté ou non par une pièce écrite — et tout certificat d’association se rattachant de quelque manière à l’assurance. Est assimilé à la police le contrat de rente.
+***police*** Document écrit — en une seule ou plusieurs pièces — constatant le contrat d’assurance ou de réassurance ou, dans le cas d’une société de secours, le contrat d’assurance — attesté ou non par une pièce écrite — et tout certificat d’association se rattachant de quelque manière à l’assurance. Sont assimilés à la police le contrat de rente et le contrat d’assurance mixte.
 
 ***police à participation*** Police donnant droit à son souscripteur de participer aux bénéfices de la société.
 
-***police au Canada*** Selon qu’il s’agit d’assurance-vie, d’assurance-incendie ou de toute autre branche d’assurance, respectivement :
+***police au Canada*** Selon qu’il s’agit d’assurance-vie, d’assurance-incendie ou de toute autre branche d’assurance, respectivement :
 - **a)** une police sur la vie d’une personne résidant au Canada à la date de l’émission;
 - **b)** une police sur des biens situés au Canada;
 - **c)** une police couvrant des risques situés habituellement au Canada à la date de l’émission.
@@ -175,7 +175,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***représentant personnel*** Personne agissant en lieu et place d’une autre, notamment un fiduciaire, un exécuteur testamentaire, un administrateur, un comité, un tuteur, un curateur, un cessionnaire, un séquestre ou un mandataire.
 
-***résident canadien*** Selon le cas :
+***résident canadien*** Selon le cas :
 - **a)** le citoyen canadien résidant habituellement au Canada;
 - **b)** le citoyen canadien qui ne réside pas habituellement au Canada, mais fait partie d’une catégorie de personnes prévue par règlement;
 - **c)** le résident permanent au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) qui réside habituellement au Canada, à l’exclusion de celui qui y a résidé de façon habituelle pendant plus d’un an après avoir acquis pour la première fois le droit de demander la citoyenneté canadienne.
@@ -194,9 +194,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***société antérieure*** Personne morale régie par une ou plusieurs dispositions des parties I, II, III, IV ou VI, ou des deux, et VII de la Loi sur les compagnies d’assurance canadiennes et britanniques à l’entrée en vigueur de l’article 13 et non dissoute par la présente loi.
 
-***société d’assurances multirisques*** Société ou société provinciale qui n’est pas une société d’assurance-vie.
+***société d’assurance maritime*** Société constituée à seule fin de garantir des risques dans la branche assurance maritime. 
 
-***société d’assurance-vie*** Société ou société provinciale autorisée à garantir des risques dans la branche assurance-vie, à l’exclusion de celle qui est également autorisée à garantir des risques dans toute branche autre que l’assurance accidents et maladie, l’assurance-accidents, l’assurance accidents corporels, l’assurance-maladie et l’assurance perte d’emploi.
+***société d’assurances multirisques*** Société ou société provinciale qui n’est pas une société d’assurance-vie ou une société d’assurance maritime.
+
+***société d’assurance-vie*** Société ou société provinciale autorisée à garantir des risques dans la branche assurance-vie, à l’exclusion de celle qui est également autorisée à garantir des risques dans toute branche autre que l’assurance accidents et maladie, l’assurance protection de crédit et les autres produits approuvés.
 
 ***société de portefeuille bancaire*** Personne morale constituée ou formée sous le régime de la partie XV de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md).
 
@@ -210,13 +212,11 @@ French version only***société de portefeuille d’assurances n’ayant pas fai
 
 ***société de secours mutuel*** Personne morale sans capital social possédant un système représentatif de gouvernement, constituée à des fins de fraternité, de bienfaisance ou religieuses, entre autres, pour assurer exclusivement ses membres, leurs époux ou conjoints de fait ou leurs enfants.
 
-***société étrangère*** Une des entités suivantes autorisée à garantir des risques au Canada par ordonnance du surintendant prise en vertu de la partie XIII :
-- **a)** personne morale constituée ailleurs qu’au Canada;
-- **b)** association ou groupe d’échange, au sens de cette partie.
+***société étrangère*** Entité faisant l’objet de l’agrément prévu au paragraphe 574(1).
 
 ***société mère*** S’entend au sens de l’article 4.
 
-***société mutuelle*** Selon le cas :
+***société mutuelle*** Selon le cas :
 - **a)** société constituée ou prorogée en société mutuelle sous le régime de la présente loi;
 - **b)** société antérieure qui, à l’entrée en vigueur du présent alinéa, n’a pas d’actions émises et en circulation;
 - **c)** société transformée en société mutuelle en vertu des articles 226 à 236.
@@ -225,7 +225,7 @@ Est exclue de la présente définition la société mutuelle transformée en soc
 
 French version only***société n’ayant pas fait appel au public*** S’entend d’une société autre qu’une société ayant fait appel au public.
 
-***société provinciale*** Sous réserve du paragraphe (1.1), les sociétés suivantes ou, si celles-ci changent de nom, les sociétés qui leur succèdent :
+***société provinciale*** Sous réserve du paragraphe (1.1), les sociétés suivantes ou, si celles-ci changent de nom, les sociétés qui leur succèdent :
 - **a)** [Abrogé, 2001, ch. 9, art. 345]
 - **b)** Antigonish Farmers’ Mutual Fire Insurance Company;
 - **c)** Clare Mutual Insurance Company;
@@ -295,7 +295,7 @@ French version only***souscripteur*** Titulaire d’une police.
 **Participation multiple**
 
 - **(4)** Pour l’application de la présente loi, est à participation multiple la personne morale qui n’a aucun actionnaire important.
-> 1991, ch. 47, art. 2 et 758, ch. 48, art. 495; 1992, ch. 51, art. 55; 1996, ch. 6, art. 66; 1997, ch. 15, art. 165; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 70, ch. 28, art. 118; 2000, ch. 12, art. 153; 2001, ch. 9, art. 345, ch. 27, art. 255; 2002, ch. 7, art. 187(A); 2005, ch. 54, art. 214.
+> 1991, ch. 47, art. 2 et 758, ch. 48, art. 495; 1992, ch. 51, art. 55; 1996, ch. 6, art. 66; 1997, ch. 15, art. 165; 1998, ch. 30, art. 13(F) et 15(A); 1999, ch. 3, art. 70, ch. 28, art. 118; 2000, ch. 12, art. 153; 2001, ch. 9, art. 345, ch. 27, art. 255; 2002, ch. 7, art. 187(A); 2005, ch. 54, art. 214; 2007, ch. 6, art. 186.
 
 
 
@@ -418,27 +418,31 @@ French version only***souscripteur*** Titulaire d’une police.
 
 **9** 
 
-- **(1)** Pour l’application de la partie VII et de la section 7 de la partie XVII, sont réputées être une seule personne qui acquiert à titre de véritable propriétaire le nombre total des actions d’une société ou d’une société de portefeuille d’assurances ou des actions ou titres de participation d’une entité dont elles ont la propriété effective les personnes qui, en vertu d’une entente, d’un accord ou d’un engagement — formel ou informel, oral ou écrit — conviennent d’agir ensemble ou de concert à l’égard :
+- **(1)** Pour l’application de la partie VII et de la section 7 de la partie XVII, sont réputées être une seule personne qui acquiert à titre de véritable propriétaire le nombre total des actions d’une société ou d’une société de portefeuille d’assurances ou des actions ou titres de participation d’une entité dont elles ont la propriété effective les personnes qui, en vertu d’une entente, d’un accord ou d’un engagement — formel ou informel, oral ou écrit — conviennent d’agir ensemble ou de concert à l’égard :
 	- **a)** soit d’actions de la société ou de la société de portefeuille d’assurances dont elles sont les véritables propriétaires;
 	- **b)** soit d’actions ou de titres de participation — dans le cas de l’entité qui détient la propriété effective d’actions de la société ou de la société de portefeuille d’assurances — dont elles sont les véritables propriétaires;
 	- **c)** soit d’actions ou de titres de participation — dans le cas d’une entité qui contrôle une entité qui détient la propriété effective d’actions de la société ou de la société de portefeuille d’assurances — dont elles sont les véritables propriétaires.
 
 **Action concertée**
 
-- **(2)** Sans que soit limitée la portée générale du paragraphe (1), est réputé être un accord, une entente ou un engagement au sens de ce paragraphe tout accord, entente ou engagement permettant à chacune des personnes qui sont les véritables propriétaires d’actions d’une société ou d’une société de portefeuille d’assurances ou d’actions ou titres de participation de l’entité visée aux alinéas (1)b) ou c) :
+- **(2)** Sans que soit limitée la portée générale du paragraphe (1), est réputé être un accord, une entente ou un engagement au sens de ce paragraphe tout accord, entente ou engagement permettant à chacune des personnes qui sont les véritables propriétaires d’actions d’une société ou d’une société de portefeuille d’assurances ou d’actions ou titres de participation de l’entité visée aux alinéas (1)b) ou c) :
 	- **a)** soit d’opposer — personnellement ou par délégué — son veto à une proposition soumise au conseil d’administration de la société ou de la société de portefeuille d’assurances;
 	- **b)** soit d’empêcher l’approbation de toute proposition soumise au conseil d’administration de la société ou de la société de portefeuille d’assurances en l’absence de son consentement ou de celui de son délégué.
 
 **Exceptions**
 
-- **(3)** Pour l’application du présent article, les personnes sont présumées ne pas s’être entendues pour agir ensemble ou de concert uniquement du fait :
+- **(3)** Pour l’application du présent article, les personnes sont présumées ne pas s’être entendues pour agir ensemble ou de concert uniquement du fait :
 	- **a)** qu’une est le fondé de pouvoir d’une ou de plusieurs autres de ces personnes à l’égard des actions ou titres de participation visés au paragraphe (1);
 	- **b)** qu’elles exercent les droits de vote attachés aux actions ou titres de participation visés au paragraphe (1) de la même façon.
 
 **Désignation**
 
 - **(4)** Si, à son avis, il est raisonnable de conclure à l’existence d’une entente, d’un accord ou d’un engagement au sens des paragraphes (1) ou (2), le surintendant peut décider que les personnes en cause se sont entendues pour agir ensemble ou de concert.
-> 1991, ch. 47, art. 9; 2001, ch. 9, art. 350.
+
+**Contravention**
+
+- **(5)** Toute personne contrevient à une disposition de la partie VII ou de la section 7 de la partie XVII si elle convient d’agir avec d’autres personnes — ou de concert avec celles-ci — de sorte qu’une seule personne réputée telle contrevient à la disposition.
+> 1991, ch. 47, art. 9; 2001, ch. 9, art. 350; 2007, ch. 6, art. 187.
 
 
 
@@ -547,13 +551,15 @@ French version only***souscripteur*** Titulaire d’une police.
 
 - **(5)** L’inclusion dans une branche de l’assurance de responsabilité visée au paragraphe (4) confère l’assurance contre tous dommages ou frais liés au sinistre générateur de la responsabilité dont doit répondre l’assureur.
 
-**Rentes viagères**
+**Assurance mixte**
 
-- **(6)** La branche de l’assurance-vie comporte le versement d’une rente viagère.
+- **(6)** La branche de l’assurance-vie vise notamment le contrat d’assurance mixte aux termes duquel l’assureur s’engage à verser une somme à une date ultérieure déterminée ou à déterminer, si l’assuré est alors vivant, ou au décès de celui-ci, s’il survient avant cette date.
 
 **Modification**
 
 - **(7)** Le gouverneur en conseil peut, par décret, modifier les paragraphes (3) à (5) et l’annexe.
+> 1991, ch. 47, art. 12; 2007, ch. 6, art. 188.
+
 
 
 
@@ -668,12 +674,16 @@ French version only***souscripteur*** Titulaire d’une police.
 
 **21** 
 
-- **(1)** Sous réserve du paragraphe (2), les sociétés ne peuvent exercer leurs activités après le 24 avril 2007; toutefois, si le Parlement est dissous à cette date ou au cours des trois mois qui précèdent, elles peuvent exercer leurs activités jusqu’à cent quatre-vingts jours après le premier jour de la première session de la législature suivante.
+- **(1)** Sous réserve des paragraphes (2) et (3), les sociétés ne peuvent exercer leurs activités ni les sociétés étrangères leurs activités au Canada après la date du cinquième anniversaire de l’entrée en vigueur du présent article.
 
 **Prorogation**
 
-- **(2)** Le gouverneur en conseil peut, par décret, proroger jusqu’à concurrence de six mois la période au cours de laquelle les sociétés peuvent exercer leurs activités. Un seul décret peut être pris aux termes du présent paragraphe.
-> 1991, ch. 47, art. 21; 1997, ch. 15, art. 168; 2001, ch. 9, art. 353; 2006, ch. 4, art. 201.
+- **(2)** Le gouverneur en conseil peut, par décret, proroger jusqu’à concurrence de six mois la période au cours de laquelle les sociétés peuvent exercer leurs activités et les sociétés étrangères leurs activités au Canada. Un seul décret peut être pris aux termes du présent paragraphe.
+
+**Exception**
+
+- **(3)** Si le Parlement est dissous à la date du cinquième anniversaire de l’entrée en vigueur du présent article, au cours des trois mois qui la précèdent ou au cours de la période prévue au paragraphe (2), les sociétés peuvent exercer leurs activités et les sociétés étrangères leurs activités au Canada jusqu’à cent quatre-vingts jours après le premier jour de la première session de la législature suivante.
+> 1991, ch. 47, art. 21; 1997, ch. 15, art. 168; 2001, ch. 9, art. 353; 2006, ch. 4, art. 201; 2007, ch. 6, art. 189.
 
 
 
@@ -1002,17 +1012,17 @@ French version only***souscripteur*** Titulaire d’une police.
 
 **38** 
 
-- **(1)** Par dérogation à toute autre disposition de la présente loi ou de ses règlements, le ministre peut, par arrêté pris sur recommandation du surintendant, autoriser la société ou la société de secours à laquelle ont été délivrées des lettres patentes en vertu des paragraphes 34(1) ou (2) à :
+- **(1)** Par dérogation à toute autre disposition de la présente loi ou de ses règlements, le ministre peut, par arrêté pris sur recommandation du surintendant, autoriser la société ou la société de secours à laquelle ont été délivrées des lettres patentes en vertu des paragraphes 34(1) ou (2) à :
 	- **a)** exercer toute activité précisée dans l’arrêté et interdite par ailleurs par la présente loi mais à laquelle la personne morale prorogée se livrait à la date du dépôt de la demande de lettres patentes;
 	- **b)** maintenir en circulation des titres de créance dont la présente loi n’autorise pas l’émission, dans la mesure où ils étaient déjà en circulation à la date de la demande;
 	- **c)** [Abrogé, 1994, ch. 47, art. 119]
 	- **d)** détenir des éléments d’actif prohibés par la présente loi mais qui, à la date de la demande, appartenaient à la personne morale prorogée;
 	- **e)** acquérir et détenir des éléments d’actif prohibés par la présente loi, dans le cas où la personne morale prorogée était obligée, à la date de la demande, de les acquérir;
-	- **f)** tenir à l’étranger les livres et registres dont la présente loi exige la tenue au Canada, ainsi que tenir et traiter à l’étranger les renseignements et données se rapportant à leur tenue et à leur conservation.
+	- **f)** tenir à l’étranger les livres et registres dont la présente loi exige la tenue au Canada.
 
 **Durée des exceptions**
 
-- **(2)** L’arrêté précise la période de validité de l’autorisation, qui ne peut excéder :
+- **(2)** L’arrêté précise la période de validité de l’autorisation, qui ne peut excéder :
 	- **a)** dans les cas visés à l’alinéa (1)a), trente jours à partir de la date de délivrance des lettres patentes ou, lorsque l’activité découle d’accords existant à cette date, la date d’expiration de ces accords;
 	- **b)** dans les cas visés à l’alinéa (1)b), dix ans;
 	- **c)** deux ans dans les autres cas.
@@ -1024,7 +1034,7 @@ French version only***souscripteur*** Titulaire d’une police.
 **Restriction**
 
 - **(4)** Le ministre ne peut pas délivrer d’autorisation qui serait encore valable plus de dix ans après la date d’obtention par la société ou la société de secours de l’agrément de fonctionnement dans les cas visés aux alinéas (1)d) et e); dans les cas visés à l’alinéa (1)b), il ne peut le faire que s’il est convaincu, sur la foi de la déposition sous serment d’un dirigeant de la société ou de la société de secours, que celle-ci sera dans l’incapacité juridique de racheter les titres de créance visés par l’autorisation encore en circulation à l’expiration de ce délai.
-> 1991, ch. 47, art. 38; 1994, ch. 47, art. 119; 1997, ch. 15, art. 176.
+> 1991, ch. 47, art. 38; 1994, ch. 47, art. 119; 1997, ch. 15, art. 176; 2007, ch. 6, art. 190.
 
 
 
@@ -1038,36 +1048,47 @@ French version only***souscripteur*** Titulaire d’une police.
 
 **39** 
 
-- **(1)** La société peut :
-	- **a)** demander, avec l’agrément écrit du ministre, le certificat de prorogation visé à l’article 187 de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md);
-	- **b)** demander des lettres patentes de prorogation en banque aux termes du paragraphe 35(1) de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md) ou de fusion et prorogation en banque aux termes des paragraphes 223(1) et 229(1) de cette loi.
+- **(1)** La société peut demander :
+	- **a)** la délivrance de lettres patentes de prorogation en banque ou en société de portefeuille bancaire en vertu de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md) ou de lettres patentes de fusion et prorogation en banque ou en société de portefeuille bancaire en vertu de cette loi;
+	- **b)** avec l’agrément écrit du ministre, la délivrance d’un certificat de prorogation en société en vertu de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md);
+	- **c)** avec l’agrément écrit du ministre, la délivrance d’un certificat de prorogation en coopérative en vertu de la [Loi canadienne sur les coopératives](/fr/Lois/Lois%20du%20Canada/1998/ch.%201.md) ou d’un certificat de prorogation et d’un certificat de fusion en coopérative en vertu de cette loi;
+	- **d)** la délivrance de lettres patentes de prorogation en association en vertu de la [Loi sur les associations coopératives de crédit](/fr/Lois/Lois%20du%20Canada/1991/ch.%2048.md) ou de lettres patentes de fusion et prorogation en association en vertu de cette loi;
+	- **e)** la délivrance de lettres patentes de prorogation en société en vertu de la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md) ou de lettres patentes de fusion et prorogation en société en vertu de cette loi.
 
 **Prorogation sous le régime d’autres lois fédérales — sociétés de secours**
 
-- **(1.1)** La société de secours peut en outre, avec l’agrément écrit du ministre :
-	- **a)** demander, dans le cadre de l’article 156 de la [Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md), l’émission de lettres patentes la constituant en une corporation sous le régime de la partie II de cette loi;
-	- **b)** demander, dans le cadre de l’article 285 de la [Loi canadienne sur les coopératives](/fr/Lois/Lois%20du%20Canada/1998/ch.%201.md), un certificat de prorogation ou un certificat de prorogation et un certificat de fusion.
+- **(2)** La société de secours peut en outre, avec l’agrément écrit du ministre, demander, dans le cadre de la [Loi sur les corporations canadiennes](/fr/Lois/Lois%20du%20Canada/1970/ch.%20C-32.md), l’émission de lettres patentes la constituant en corporation sous le régime de la partie II de cette loi.
 
-**Conditions**
+**Conditions préalables à l’agrément**
 
-- **(2)** Le ministre ne peut donner son agrément dans le cadre de l’alinéa (1)a) et du paragraphe (1.1) que s’il est convaincu que les conditions suivantes sont réunies :
-	- **a)** la demande a été autorisée par résolution extraordinaire;
-	- **b)** la société a rempli toutes ses obligations aux termes de ses polices d’assurance, ou a pris les mesures nécessaires pour les remplir;
-	- **c)** sauf si elle est visée aux alinéas 47(2)b) ou c), la société s’est engagée à ne pas utiliser le mot « assurance », « assurances » ou « insurance » dans sa dénomination sociale après l’obtention du certificat ou des lettres patentes prévus aux paragraphes (1) ou (1.1).
+- **(3)** L’agrément visé aux alinéas (1)b) ou c) et au paragraphe (2) ne peut être donné que si le ministre est convaincu que :
+	- **a)** la société a fait publier une fois par semaine pendant quatre semaines consécutives, dans la Gazette du Canada et dans un journal à grand tirage paraissant au lieu du siège de la société ou dans les environs, un préavis de son intention de faire la demande d’agrément;
+	- **b)** elle a acquitté les engagements qu’elle a pris aux termes de ses polices ou a constitué une provision suffisante à cette fin;
+	- **c)** elle s’est engagée, sauf si elle est visée aux alinéas 47(2)b) ou c), à s’abstenir d’utiliser les mots « assurance », « assurances » et « *insurance* » dans sa dénomination sociale après la délivrance du certificat ou des lettres patentes applicables;
+	- **d)** la demande a été autorisée par résolution extraordinaire.
 
 **Retrait de la demande**
 
-- **(3)** Les administrateurs de la société peuvent, si cette faculté leur est accordée par les actionnaires, les souscripteurs habiles à exercer leur droit de vote ou les membres dans la résolution extraordinaire autorisant la demande de certificat ou de lettres patentes, retirer celle-ci avant qu’il n’y soit donné suite.
+- **(4)** Les administrateurs de la société peuvent, si cette faculté leur est accordée par les actionnaires, les souscripteurs habiles à exercer leur droit de vote ou les membres dans la résolution extraordinaire autorisant la demande de certificat ou de lettres patentes, retirer celle-ci avant qu’il n’y soit donné suite.
 
-**Date de cessation d’application de la présente loi**
+**Restriction : prorogation en vertu d’autres régimes**
 
-- **(4)** À la date indiquée sur le certificat ou les lettres patentes, la présente loi cesse de s’appliquer à la personne morale à qui ils ont été délivrés.
-> 1991, ch. 47, art. 39 et 759; 1994, ch. 24, art. 34(F); 2001, ch. 9, art. 358.
-
-
+- **(5)** La société ne peut demander la prorogation ou la fusion et la prorogation, selon le cas, si ce n’est en conformité avec le paragraphe (1) ou (2).
+> 1991, ch. 47, art. 39 et 759; 1994, ch. 24, art. 34(F); 2001, ch. 9, art. 358; 2007, ch. 6, art. 191.
 
 
-**40. et 41** [Abrogés, 2001, ch. 9, art. 358]
+
+
+
+**Cessation**
+
+**40** En cas de délivrance d’un certificat ou de lettres patentes par suite d’une demande faite par la société en vertu de l’article 39, la présente loi cesse de s’appliquer à celle-ci à la date de prise d’effet du certificat ou des lettres patentes.
+> 1991, ch. 47, art. 40; 2001, ch. 9, art. 358; 2007, ch. 6, art. 191.
+
+
+
+
+**41** [Abrogé, 2001, ch. 9, art. 358]
 
 
 
@@ -1098,8 +1119,8 @@ French version only***souscripteur*** Titulaire d’une police.
 
 **Société faisant partie d’un groupe**
 
-**43** Par dérogation à l’article 42, la société qui est du même groupe qu’une autre entité peut, une fois obtenu le consentement de celle-ci et l’agrément du surintendant, adopter une dénomination sociale à peu près identique à celle de l’entité ou être constituée en personne morale sous une telle dénomination.
-> 1991, ch. 47, art. 43; 1996, ch. 6, art. 68; 2001, ch. 9, art. 360.
+**43** Par dérogation à l’article 42, la société qui est du même groupe qu’une autre entité peut, une fois obtenu son consentement, adopter une dénomination sociale à peu près identique à celle de l’entité ou être constituée en personne morale sous une telle dénomination.
+> 1991, ch. 47, art. 43; 1996, ch. 6, art. 68; 2001, ch. 9, art. 360; 2007, ch. 6, art. 192.
 
 
 
@@ -1296,12 +1317,12 @@ French version only***souscripteur*** Titulaire d’une police.
 
 **Assurance maritime**
 
-- **(6)** La société, autre qu’une société de secours, peut assurer des risques de la branche assurance maritime sans l’agrément prévu au paragraphe (1).
+- **(6)** La société, autre qu’une société d’assurance maritime, peut assurer des risques dans la branche assurance maritime sans l’agrément prévu au paragraphe (1).
 
 **Disposition transitoire**
 
 - **(7)** Dans le délai suivant l’entrée en vigueur du présent article que le gouverneur en conseil peut fixer par décret, la société antérieure et la société de secours antérieure qui ont effectué chez le receveur général le dépôt de valeurs visé aux articles 76 ou 82 de la Loi sur les compagnies d’assurance canadiennes et britanniques en demandent le remboursement.
-> 1991, ch. 47, art. 52; 1997, ch. 15, art. 178.
+> 1991, ch. 47, art. 52; 1997, ch. 15, art. 178; 2007, ch. 6, art. 193.
 
 
 
@@ -1322,16 +1343,12 @@ French version only***souscripteur*** Titulaire d’une police.
 
 **Interdiction de payer les frais avant l’agrément**
 
-**54** 
+**54** Tant que la société n’a pas reçu l’agrément, il lui est interdit de payer ses dépenses de constitution et d’organisation sur les fonds procurés par le capital versé et les intérêts afférents, sauf en ce qui concerne, et ce pour une somme raisonnable :
+- **a)** la rémunération de deux dirigeants au plus;
+- **b)** les frais d’émission d’actions;
+- **c)** les dépenses de secrétariat, de services juridiques, de comptabilité et d’aménagement — en un seul endroit — de bureaux, ainsi que les frais de bureau, de publicité, de papeterie, d’affranchissement et de déplacement.
+> 1991, ch. 47, art. 54; 2007, ch. 6, art. 194.
 
-- **(1)** Sous réserve du paragraphe (2), tant qu’elle n’a pas reçu l’agrément, il est interdit à la société de payer ses dépenses de constitution et d’organisation sur les fonds procurés par le capital versé et les intérêts y afférents, sauf en ce qui concerne, et ce pour un montant raisonnable :
-	- **a)** la rémunération de deux dirigeants au plus;
-	- **b)** les frais d’émission d’actions;
-	- **c)** les dépenses de secrétariat, de services juridiques, de comptabilité et d’aménagement — en un seul endroit — de bureaux, ainsi que les frais de bureau, de publicité, de papeterie, d’affranchissement et de déplacement.
-
-**Exception**
-
-- **(2)** Le paragraphe (1) ne s’applique pas à la société, autre qu’une société de secours, constituée à la seule fin de garantir des risques de la branche assurance maritime.
 
 
 
@@ -1598,7 +1615,7 @@ Il doit cependant auparavant donner à la société la possibilité de lui prés
 **Documents à envoyer au surintendant**
 
 - **(5)** Lorsqu’ils prennent les mesures autorisées en vertu de l’alinéa (1)b), les administrateurs doivent, avant d’émettre des actions d’une série, envoyer au surintendant un exemplaire du règlement administratif afférent et lui communiquer tous détails sur les séries qui seront émises.
-> 1991, ch. 47, art. 66; 2005, ch. 54, art. 220.
+> 1991, ch. 47, art. 66; 2005, ch. 54, art. 220; 2007, ch. 6, art. 195(A).
 
 
 
@@ -1759,11 +1776,13 @@ Il doit cependant auparavant donner à la société la possibilité de lui prés
 
 **Restriction**
 
-- **(2)** La société ne peut toutefois faire aucun versement en vue d’acheter ou de racheter les actions qu’elle a émises, s’il existe des motifs valables de croire que ce faisant elle contrevient, ou contreviendra, aux règlements visés aux paragraphes 515(1), (2), 516(1) ou (2) ou aux instructions visées aux paragraphes 515(3) ou 516(4).
+- **(2)** La société ne peut toutefois faire aucun versement en vue d’acheter ou de racheter les actions qu’elle a émises, s’il existe des motifs valables de croire que ce faisant elle contrevient ou contreviendra au paragraphe 515(1), aux règlements pris en vertu du paragraphe 515(2) ou à l’ordonnance prise en vertu du paragraphe 515(3).
 
 **Donation d’actions**
 
 - **(3)** La société peut accepter toute donation d’actions, mais ne peut limiter ni supprimer l’obligation de les libérer autrement qu’en conformité avec l’article 79.
+> 1991, ch. 47, art. 75; 2007, ch. 6, art. 196.
+
 
 
 
@@ -1824,7 +1843,7 @@ Il doit cependant auparavant donner à la société la possibilité de lui prés
 
 **Limite**
 
-- **(2)** La réduction est toutefois interdite s’il y a des motifs valables de croire que la société contrevient, ou contreviendra de ce fait, aux règlements ou aux instructions visés aux articles 515 ou 516.
+- **(2)** La réduction est toutefois interdite s’il existe des motifs valables de croire que la société contrevient ou contreviendra de ce fait au paragraphe 515(1), aux règlements pris en vertu du paragraphe 515(2) ou à l’ordonnance prise en vertu du paragraphe 515(3).
 
 **Teneur de la résolution extraordinaire**
 
@@ -1834,17 +1853,25 @@ Il doit cependant auparavant donner à la société la possibilité de lui prés
 
 - **(4)** La prise d’effet de la résolution extraordinaire est subordonnée à l’agrément écrit du surintendant.
 
+**Exception**
+
+- **(4.1)** Un tel agrément n’est pas nécessaire si, à la fois :
+	- **a)** la réduction du capital déclaré est due uniquement à des changements apportés aux principes comptables visés au paragraphe 331(4);
+	- **b)** aucun remboursement du capital n’est versé aux actionnaires ou aux souscripteurs du fait de la réduction.
+
 **Condition préalable**
 
 - **(5)** Le surintendant ne peut approuver la résolution extraordinaire que si, d’une part, celle-ci lui a été présentée dans les trois mois qui suivent son adoption et, d’autre part, un exemplaire de la résolution et un avis d’intention de la demande d’agrément ont été publiés dans la Gazette du Canada.
 
 **Pièces justificatives**
 
-- **(6)** La demande d’agrément est accompagnée des pièces prouvant l’adoption et la publication de la résolution extraordinaire et précisant :
+- **(6)** La demande d’agrément est accompagnée des pièces prouvant l’adoption et la publication de la résolution extraordinaire et précisant :
 	- **a)** le nombre d’actions émises et en circulation de la société;
 	- **b)** le résultat du vote des souscripteurs et du vote par catégories d’actions;
 	- **c)** l’actif et le passif de la société;
 	- **d)** les motifs de la réduction projetée.
+> 1991, ch. 47, art. 79; 2007, ch. 6, art. 198.
+
 
 
 
@@ -1910,11 +1937,11 @@ Il doit cependant auparavant donner à la société la possibilité de lui prés
 
 **83** 
 
-- **(1)** Les administrateurs de la société peuvent déclarer un dividende, qui peut être payé soit par l’émission d’actions entièrement libérées ou par l’octroi d’options ou de droits d’acquérir de telles actions, soit, sous réserve des paragraphes (4) et (5), en espèces ou en biens; le dividende payable en argent peut être payé en monnaie étrangère.
+- **(1)** Les administrateurs de la société peuvent déclarer un dividende, qui peut être payé soit par l’émission d’actions entièrement libérées ou par l’octroi d’options ou de droits d’acquérir de telles actions, soit, sous réserve du paragraphe (4), en argent ou en biens; le dividende payable en argent peut être payé en monnaie étrangère.
 
 **Avis au surintendant**
 
-- **(2)** Les administrateurs notifient au surintendant la déclaration de dividendes au moins dix jours avant la date fixée pour leur versement.
+- **(2)** Les administrateurs notifient au surintendant la déclaration de dividendes au moins quinze jours avant la date fixée pour leur versement.
 
 **Dividendes-actions**
 
@@ -1922,14 +1949,12 @@ Il doit cependant auparavant donner à la société la possibilité de lui prés
 
 **Non-versement de dividendes**
 
-- **(4)** Toute déclaration ou tout versement de dividendes est prohibé s’il existe des motifs valables de croire que, ce faisant, la société contrevient, ou contreviendra, aux règlements visés aux paragraphes 515(1), (2), 516(1) ou (2) ou aux instructions visées aux paragraphes 515(3) ou 516(4).
+- **(4)** Toute déclaration ou tout versement de dividendes est interdit s’il existe des motifs valables de croire que, ce faisant, la société contrevient ou contreviendra au paragraphe 515(1), aux règlements pris en vertu du paragraphe 515(2) ou à l’ordonnance prise en vertu du paragraphe 515(3).
 
-**Non-versement de dividendes**
-
-- **(5)** La déclaration et le versement de dividendes au cours d’un exercice donné doivent être agréés par le surintendant s’ils font en sorte que, à la date de la déclaration, le montant total des dividendes déclarés par la société au cours de l’exercice dépasse la somme de ses bénéfices nets pour la partie écoulée de l’exercice et de ses bénéfices nets non répartis pour les deux exercices précédents.
+- **(5)** [Abrogé, 2007, ch. 6, art. 199]
 
 - **(6) à (8)** [Abrogés, 1997, ch. 15, art. 184]
-> 1991, ch. 47, art. 83; 1997, ch. 15, art. 184; 2001, ch. 9, art. 369.
+> 1991, ch. 47, art. 83; 1997, ch. 15, art. 184; 2001, ch. 9, art. 369; 2007, ch. 6, art. 199.
 
 
 
@@ -3980,8 +4005,8 @@ Les circulaires sont adressées au vérificateur, aux actionnaires ou aux souscr
 
 **Résidence**
 
-- **(2)** Au moins la moitié des administrateurs de la société qui est la filiale soit d’une institution étrangère, soit de la société mère — visée par règlement — d’une institution étrangère et au moins les deux tiers des administrateurs des autres sociétés doivent, au moment de leur élection ou nomination, être des résidents canadiens.
-> 1991, ch. 47, art. 167; 2001, ch. 9, art. 376.
+- **(2)** Au moins la moitié des administrateurs de la société qui est la filiale soit d’une institution étrangère, soit de la société mère — visée par règlement — d’une institution étrangère et la majorité des administrateurs des autres sociétés doivent, au moment de leur élection ou nomination, être des résidents canadiens.
+> 1991, ch. 47, art. 167; 2001, ch. 9, art. 376; 2007, ch. 6, art. 201.
 
 
 
@@ -5248,13 +5273,15 @@ Les circulaires sont adressées au vérificateur, aux actionnaires ou aux souscr
 
 **Critères d’approbation**
 
-- **(2)** Avant de donner son approbation, le ministre doit prendre en considération tous les facteurs qu’il estime pertinents et être convaincu à la fois :
+- **(2)** Avant de donner son approbation, le ministre doit prendre en considération tous les facteurs qu’il estime pertinents et être convaincu à la fois :
 	- **a)** que la proposition a été approuvée par les actionnaires et les souscripteurs conformément à l’article 228;
 	- **b)** qu’il est raisonnable d’escompter que la transformation de la société en société mutuelle se fera dans les conditions fixées par la proposition et conformément aux articles 230 à 236;
-	- **c)** qu’il n’y a pas lieu de croire que par suite de sa transformation la société ne se conformerait plus aux règlements visés aux paragraphes 515(1) et (2) et 516(1) et (2) ou aux instructions établies au titre du paragraphe 515(3) ou 516(4);
+	- **c)** qu’il n’y a pas lieu de croire que par suite de sa transformation la société ne se conformerait plus au paragraphe 515(1), aux règlements pris en vertu du paragraphe 515(2) ou à l’ordonnance prise en vertu du paragraphe 515(3);
 	- **d)** que le capital déclaré de la société a cessé d’être un facteur important pour la sauvegarde des intérêts des souscripteurs eu égard à la qualité et au montant de l’actif de la société, à son excédent par rapport à ses engagements, à la nature de son activité et à toutes autres considérations qu’il estime indiquées;
 	- **e)** que le prix fixé par le conseil d’administration pour l’acquisition des actions ordinaires de la société aux termes de la proposition est juste et équitable en l’occurrence;
 	- **f)** que la proposition est dans l’intérêt du système financier canadien.
+> 1991, ch. 47, art. 229; 2007, ch. 6, art. 202.
+
 
 
 
@@ -5297,9 +5324,11 @@ Les circulaires sont adressées au vérificateur, aux actionnaires ou aux souscr
 
 **Critères d’approbation**
 
-**233** Le surintendant approuve l’acquisition des actions s’il est convaincu que :
-- **a)** d’une part, celle-ci n’empêche pas la société de se conformer aux règlements visés aux paragraphes 515(1) et (2) et 516(1) et (2) ou aux instructions établies au titre des paragraphes 515(3) ou 516(4);
+**233** Le surintendant approuve l’acquisition des actions s’il est convaincu que :
+- **a)** d’une part, celle-ci n’empêche pas la société de se conformer au paragraphe 515(1), aux règlements pris en vertu du paragraphe 515(2) ou à l’ordonnance prise en vertu du paragraphe 515(3);
 - **b)** d’autre part, le capital déclaré de la société a cessé d’être un facteur important pour la sauvegarde des intérêts de ses souscripteurs eu égard à la qualité et au montant de son actif, à son excédent par rapport à ses engagements, à la nature de son activité et à toutes autres considérations qu’il estime indiquées.
+> 1991, ch. 47, art. 233; 2007, ch. 6, art. 203.
+
 
 
 
@@ -5454,7 +5483,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires ou aux souscr
 
 **238** 
 
-- **(1)** Le conseil d’administration peut prendre, modifier ou révoquer les règlements administratifs de la façon prévue aux paragraphes (2) et (3) et aux articles 239 à 244 afin :
+- **(1)** Le conseil d’administration peut prendre, modifier ou révoquer les règlements administratifs de la façon prévue aux paragraphes (2) et (3) et aux articles 239 à 244 afin :
 	- **a)** de modifier le nombre maximal, s’il en est, d’actions de toute catégorie que la société est autorisée à émettre;
 	- **b)** de créer des catégories d’actions;
 	- **c)** de modifier la désignation de tout ou partie de ses actions, et d’ajouter, de modifier ou de supprimer tous droits, privilèges, restrictions et conditions, y compris le droit à des dividendes accumulés, concernant tout ou partie de ses actions, émises ou non;
@@ -5482,8 +5511,16 @@ Les circulaires sont adressées au vérificateur, aux actionnaires ou aux souscr
 
 **Date d’entrée en vigueur**
 
-- **(3)** L’entrée en vigueur des règlements administratifs, ou de leurs modifications ou révocations, est subordonnée à leur confirmation préalable par les actionnaires et souscripteurs conformément au paragraphe (2) et, dans le cas de l’alinéa (1)i.1), à l’approbation du surintendant.
-> 1991, ch. 47, art. 238; 1997, ch. 15, art. 217; 2001, ch. 9, art. 388; 2005, ch. 54, art. 260.
+- **(3)** L’entrée en vigueur des règlements administratifs ou de leurs modifications ou révocations est subordonnée à leur confirmation préalable par les actionnaires et souscripteurs conformément au paragraphe (2) et, dans le cas d’un règlement administratif concernant le changement de la dénomination sociale de la société, à l’approbation du surintendant.
+
+**Lettres patentes**
+
+- **(4)** En cas de changement de la dénomination sociale de la société, ou de la province, au Canada, où se trouve son siège, le surintendant peut délivrer des lettres patentes pour que l’acte constitutif soit modifié en conséquence.
+
+**Effet des lettres patentes**
+
+- **(5)** Les lettres patentes prennent effet à la date indiquée.
+> 1991, ch. 47, art. 238; 1997, ch. 15, art. 217; 2001, ch. 9, art. 388; 2005, ch. 54, art. 260; 2007, ch. 6, art. 204.
 
 
 
@@ -5636,16 +5673,16 @@ Les circulaires sont adressées au vérificateur, aux actionnaires ou aux souscr
 
 
 
-**Approbation du ministre**
+**Approbation du surintendant**
 
 **247** 
 
-- **(1)** L’approbation prévue au paragraphe 248(5) est sans effet si, au préalable, le ministre n’a pas approuvé par écrit la convention de fusion.
+- **(1)** L’approbation prévue au paragraphe 248(5) est sans effet si, au préalable, le surintendant n’a pas approuvé par écrit la convention de fusion.
 
 **Rapport d’un actuaire indépendant**
 
-- **(2)** La convention de fusion soumise au ministre pour approbation doit être accompagnée du rapport d’un actuaire indépendant la concernant.
-> 1991, ch. 47, art. 247; 1997, ch. 15, art. 220(A).
+- **(2)** La convention de fusion soumise au surintendant pour approbation doit être accompagnée du rapport d’un actuaire indépendant la concernant.
+> 1991, ch. 47, art. 247; 1997, ch. 15, art. 220(A); 2007, ch. 6, art. 205.
 
 
 
@@ -5821,17 +5858,17 @@ Les circulaires sont adressées au vérificateur, aux actionnaires ou aux souscr
 
 **253** 
 
-- **(1)** Malgré toute disposition contraire de la présente loi ou des règlements, le ministre peut, par arrêté pris sur recommandation du surintendant, autoriser la société ou la société de secours ayant reçu les lettres patentes à :
+- **(1)** Malgré toute disposition contraire de la présente loi ou des règlements, le ministre peut, par arrêté pris sur recommandation du surintendant, autoriser la société ou la société de secours ayant reçu les lettres patentes à :
 	- **a)** exercer une activité commerciale précisée dans l’arrêté interdite par ailleurs par la présente loi mais qu’exerçaient à la date du dépôt de la demande de lettres patentes une ou plusieurs des personnes morales fusionnantes;
 	- **b)** maintenir en circulation les titres de créance que la présente loi n’autorise pas la société ou la société de secours à émettre, dans la mesure où ils étaient déjà en circulation à la date du dépôt de la demande de lettres patentes;
 	- **c)** [Abrogé, 1994, ch. 47, art. 121]
 	- **d)** détenir des éléments d’actif prohibés par la présente loi mais que détenaient, à la date du dépôt de la demande de lettres patentes, une ou plusieurs des personnes morales fusionnantes;
 	- **e)** acquérir et détenir des éléments d’actif dont l’acquisition et la détention sont interdites à une société ou à une société de secours par la présente loi, si une ou plusieurs des personnes morales fusionnantes se trouvaient dans l’obligation, à la date du dépôt de la demande de lettres patentes, de les acquérir;
-	- **f)** tenir à l’étranger les livres et registres dont la présente loi exige la tenue au Canada et tenir et traiter à l’étranger les renseignements et les données se rapportant à la tenue et à la conservation de ces livres et registres.
+	- **f)** tenir à l’étranger les livres et registres dont la présente loi exige la tenue au Canada.
 
 **Durée des exceptions**
 
-- **(2)** L’autorisation accordée en vertu du paragraphe (1) doit préciser la période de validité, laquelle ne peut excéder :
+- **(2)** L’autorisation accordée en vertu du paragraphe (1) doit préciser la période de validité, laquelle ne peut excéder :
 	- **a)** dans les cas visés à l’alinéa (1)a), trente jours à partir de la date de délivrance des lettres patentes ou, lorsque les activités découlent d’ententes existant à la date de délivrance des lettres patentes, la date d’expiration des ententes;
 	- **b)** dans les cas visés à l’alinéa (1)b), dix ans;
 	- **c)** deux ans dans les autres cas.
@@ -5842,10 +5879,10 @@ Les circulaires sont adressées au vérificateur, aux actionnaires ou aux souscr
 
 **Réserve**
 
-- **(4)** Le ministre ne peut accorder d’autorisation qui serait encore valable plus de dix ans :
+- **(4)** Le ministre ne peut accorder d’autorisation qui serait encore valable plus de dix ans :
 	- **a)** après la date d’obtention par la société ou la société de secours de l’agrément de fonctionnement dans les cas visés à l’alinéa (1)b), à moins qu’il n’estime, sur la foi d’une déposition sous serment d’un dirigeant de celle-ci, qu’il sera juridiquement impossible à la société ou à la société de secours de racheter les titres de créance encore en circulation à l’expiration de ce délai et qui font l’objet de l’autorisation;
 	- **b)** après la date de délivrance des lettres patentes dans les cas visés aux alinéas (1)d) et e).
-> 1991, ch. 47, art. 253; 1994, ch. 47, art. 121; 1997, ch. 15, art. 225.
+> 1991, ch. 47, art. 253; 1994, ch. 47, art. 121; 1997, ch. 15, art. 225; 2007, ch. 6, art. 206.
 
 
 
@@ -5859,61 +5896,67 @@ Les circulaires sont adressées au vérificateur, aux actionnaires ou aux souscr
 
 **254** 
 
-- **(1)** La société ou société de secours ne peut, sauf aux termes du présent article et dans le cas d’une ordonnance visée au paragraphe 678.5(1) :
-	- **a)** transférer tout ou partie de ses polices ou à se réassurer contre tout ou partie des risques qu’elle garantit;
-	- **b)** acheter ou réassurer tout ou partie des polices d’une personne morale;
-	- **c)** vendre la totalité ou quasi-totalité de ses éléments d’actif.
+- **(1)** La société ou société de secours ne peut, sauf aux termes du présent article et dans le cas d’une ordonnance visée au paragraphe 678.5(1) :
+	- **a)** se réassurer, aux fins de prise en charge, contre tout ou partie des risques qu’elle accepte aux termes de ses polices;
+	- **b)** vendre la totalité ou quasi-totalité de ses éléments d’actif.
+	- **c)** [Abrogé, 2007, ch. 6, art. 207]
 
 **Approbation du ministre**
 
-- **(2)** La société ou société de secours peut, avec l’approbation du ministre :
-	- **a)** transférer tout ou partie de ses polices à une société, société de secours ou société étrangère autorisée à faire des opérations dans les branches d’assurance en cause — ou à se réassurer auprès d’une telle société, société de secours ou société étrangère contre tout ou partie des risques qu’elle garantit;
-	- **a.1)** se réassurer aux fins d’indemnisation auprès d’une personne morale constituée sous le régime d’une loi provinciale et autorisée à faire des opérations dans les branches d’assurance en cause contre tout ou partie des risques qu’elle garantit;
-	- **a.2)** transférer tout ou partie de ses polices à une personne morale constituée sous le régime des lois provinciales et autorisée à faire des opérations dans les branches d’assurance en cause;
-	- **a.3)** se réassurer aux fins de prise en charge auprès d’une personne morale constituée sous le régime des lois provinciales et autorisée à faire des opérations dans les branches d’assurance en cause contre tout ou partie des risques qu’elle garantit, dans le cas où le surintendant a conclu des arrangements relatifs à la réassurance soit avec le fonctionnaire ou l’organisme public compétent responsable de la supervision de la personne morale, soit avec la personne morale, soit avec les deux;
-	- **b)** transférer tout ou partie de ses polices, autres que ses polices au Canada, à une autre personne morale ou à se réassurer auprès d’une autre personne morale contre tout ou partie des risques qu’elle garantit, autres que ceux qui sont afférents à ses polices au Canada;
-	- **c)** acheter ou réassurer tout ou partie des polices d’une personne morale;
-	- **d)** vendre la totalité ou quasi-totalité de ses éléments d’actif.
+- **(2)** La société ou la société de secours peut, avec l’approbation du ministre :
+	- **a)** se réassurer, aux fins de prise en charge, contre la totalité ou quasi-totalité des risques qu’elle accepte aux termes de ses polices auprès d’une ou de plusieurs des entités suivantes :
+		- **(i)** une société ou une société de secours,
+		- **(ii)** une société étrangère à la condition que celle-ci réassure au Canada ces risques,
+		- **(iii)** une personne morale constituée ou formée sous le régime des lois provinciales lorsque le surintendant a conclu des arrangements relatifs à la réassurance soit avec le fonctionnaire ou l’organisme public compétent responsable de la supervision de la personne morale, soit avec la personne morale, soit avec les deux,
+		- **(iv)** une entité qui est autorisée à réassurer ces risques, si ces risques étaient acceptés à l’extérieur du Canada par la société ou la société de secours;
+	- **b)** vendre la totalité ou quasi-totalité de ses éléments d’actif.
+
+**Approbation du surintendant**
+
+- **(2.01)** La société ou la société de secours peut, avec l’approbation du surintendant, se réassurer, aux fins de prise en charge, contre moins que la quasi-totalité des risques qu’elle accepte aux termes de ses polices, auprès d’une ou de plusieurs des entités suivantes :
+	- **a)** une société ou une société de secours;
+	- **b)** une société étrangère à la condition que celle-ci réassure au Canada ces risques;
+	- **c)** une personne morale constituée ou formée sous le régime des lois provinciales lorsque le surintendant a conclu des arrangements relatifs à la réassurance soit avec le fonctionnaire ou l’organisme public compétent responsable de la supervision de la personne morale, soit avec la personne morale, soit avec les deux;
+	- **d)** une entité qui est autorisée à réassurer ces risques, si ces risques étaient acceptés à l’extérieur du Canada par la société ou la société de secours.
 
 **Opérations prévues par règlement**
 
-- **(2.1)** L’approbation du ministre n’est pas nécessaire si l’opération visée au paragraphe (2) est une opération réglementaire ou fait partie d’une catégorie d’opérations prévue par règlement.
+- **(2.1)** L’approbation du ministre ou du surintendant n’est pas nécessaire dans le cas d’une opération réglementaire ou d’une opération faisant partie d’une catégorie d’opérations prévue par règlement.
 
 **Procédure**
 
-- **(3)** Avant qu’une demande d’approbation ne soit adressée au ministre, un avis de l’intention de la présenter doit être publié dans la Gazette du Canada et dans un journal à grand tirage au lieu du siège de la société ou société de secours, spécifiant la date à partir de laquelle elle pourra être présentée, au moins trente jours après la publication de l’avis.
+- **(3)** Au moins trente jours avant qu’une demande d’approbation ne soit présentée au ministre ou au surintendant, un avis de l’intention de la présenter doit être publié par la société ou la société de secours dans la Gazette du Canada et dans un journal à grand tirage au lieu ou près du lieu du siège de la société ou de la société de secours, précisant la date à partir de laquelle elle pourra être présentée.
 
 **Renseignements**
 
 - **(4)** Le surintendant peut ordonner à la société ou société de secours qui publie l’avis de communiquer à ses actionnaires, souscripteurs et membres les renseignements qu’il exige.
 
+**Rapport d’un actuaire indépendant**
+
+- **(4.1)** La demande d’approbation visée à l’alinéa (2)a) est, si le surintendant le demande, accompagnée du rapport d’un actuaire indépendant.
+
 **Examen**
 
-- **(5)** Durant au moins trente jours suivant la publication de l’avis, la société ou société de secours permet l’examen de l’entente relative à l’opération soumise à l’approbation du ministre par ses actionnaires, souscripteurs et membres qui se présentent à son siège social et en fournit une copie à chacun de ceux-ci qui en font la demande par écrit.
+- **(5)** Durant au moins trente jours suivant la publication de l’avis, la société ou la société de secours permet l’examen de l’accord relatif à l’opération soumise à l’approbation du ministre ou du surintendant par ses actionnaires, souscripteurs et membres qui se présentent à son siège et en fournit une copie à chacun de ceux-ci qui en font la demande par écrit.
 
 **Période d’examen plus courte**
 
 - **(6)** Dans le cas où il estime que cela sert au mieux les intérêts d’un groupe de souscripteurs visés par l’opération, le surintendant peut réduire les périodes de trente jours visées aux paragraphes (3) et (5).
-> 1991, ch. 47, art. 254; 1997, ch. 15, art. 226; 2001, ch. 9, art. 393.
+> 1991, ch. 47, art. 254; 1997, ch. 15, art. 226; 2001, ch. 9, art. 393; 2007, ch. 6, art. 207.
 
 
 
 
 
-**Capital**
+**Prise d’effet**
 
-**255** Le ministre ne peut approuver l’opération visée au paragraphe 254(2) lorsque celle-ci empêcherait une société ou société de secours partie à l’opération de se conformer aux règlements visés aux paragraphes 515(1) et (2) et 516(1) et (2) ou aux ordonnances visées aux paragraphes 515(3) ou 516(4).
-> 1991, ch. 47, art. 255; 1997, ch. 15, art. 227.
-
-
+**255** L’opération visée aux paragraphes 254(2) ou (2.01) n’a effet que sur approbation du ministre ou, selon le cas, du surintendant.
+> 1991, ch. 47, art. 255; 1997, ch. 15, art. 227; 2007, ch. 6, art. 208.
 
 
 
-**Exemption de la réassurance ordinaire**
 
-**256** Les articles 254 et 255 ne s’appliquent pas à l’opération de réassurance effectuée par la société ou société de secours dans le cours normal de son activité.
-> 1991, ch. 47, art. 256; 1997, ch. 15, art. 227.
-
+**256** [Abrogé, 2007, ch. 6, art. 208]
 
 
 
@@ -5922,7 +5965,15 @@ Les circulaires sont adressées au vérificateur, aux actionnaires ou aux souscr
 
 **257** 
 
-- **(1)** La société ou la société de secours qui se propose de transférer ou de se réassurer contre tout ou partie substantielle des risques qu’elle garantit ou de vendre tout ou partie substantielle de son actif doit soumettre le projet d’opération, pour approbation, à l’assemblée des actionnaires et des souscripteurs habiles à voter ou des membres et, sous réserve du paragraphe (3), aux détenteurs d’actions de chaque catégorie ou série.
+- **(1)** La société ou la société de secours qui se propose de transférer la totalité ou quasi-totalité de ses polices, de se réassurer, aux fins de prise en charge, contre la totalité ou quasi-totalité des risques qu’elle accepte aux termes de ses polices ou de vendre la totalité ou quasi-totalité de ses éléments d’actif doit soumettre l’opération, pour approbation, à l’assemblée des actionnaires et des souscripteurs habiles à voter ou des membres et, sous réserve du paragraphe (3), aux détenteurs d’actions de chaque catégorie ou série.
+
+**Avis au surintendant**
+
+- **(1.1)** La société ou la société de secours qui se propose de transférer la totalité ou quasi-totalité de ses polices doit en donner avis au surintendant.
+
+**Renseignements**
+
+- **(1.2)** Après avoir reçu l’avis, le surintendant peut lui ordonner de communiquer à ses actionnaires, souscripteurs et membres les renseignements qu’il exige.
 
 **Droit de vote**
 
@@ -5946,21 +5997,21 @@ Les circulaires sont adressées au vérificateur, aux actionnaires ou aux souscr
 
 **Demande au ministre**
 
-- **(7)** La société ou la société de secours doit, dans les trois mois suivant l’adoption prévue au paragraphe (5), soumettre l’opération à l’approbation du ministre sauf en cas d’annulation prévue par le paragraphe (6).
+- **(7)** La société ou la société de secours doit, dans les trois mois suivant l’adoption prévue au paragraphe (5), soumettre l’opération, autre que le transfert de la totalité ou quasi-totalité de ses polices, à l’approbation du ministre sauf en cas d’annulation prévue au paragraphe (6).
 
 **Non-application**
 
 - **(8)** Le présent article ne s’applique pas dans les cas où le transfert ou la réassurance se font en vertu d’une ordonnance prévue au paragraphe 678.5(1).
-> 1991, ch. 47, art. 257; 1997, ch. 15, art. 227; 2001, ch. 9, art. 394.
+> 1991, ch. 47, art. 257; 1997, ch. 15, art. 227; 2001, ch. 9, art. 394; 2007, ch. 6, art. 209.
 
 
 
 
 
-**Approbation par le ministre**
+**Règlement**
 
-**258** L’opération visée aux paragraphes 254(2) ou 257(1) n’a effet que sur approbation du ministre.
-> 1991, ch. 47, art. 258; 1997, ch. 15, art. 227.
+**258** Le gouverneur en conseil peut, pour l’application des articles 254 ou 257, prendre des règlements prévoyant les cas où une société ou une société de secours est réputée se réassurer, aux fins de prise en charge, contre des risques qu’elle accepte aux termes de ses polices.
+> 1991, ch. 47, art. 258; 1997, ch. 15, art. 227; 2007, ch. 6, art. 210.
 
 
 
@@ -5998,7 +6049,7 @@ Les circulaires sont adressées au vérificateur, aux actionnaires ou aux souscr
 
 **261** 
 
-- **(1)** La société tient des livres où figurent :
+- **(1)** La société tient des livres où figurent :
 	- **a)** l’acte constitutif, les règlements administratifs et leurs modifications;
 	- **b)** les procès-verbaux des assemblées et les résolutions des actionnaires ou titulaires de police;
 	- **c)** les renseignements visés aux alinéas 668(1)a), c) et e) à h) et figurant dans l’ensemble des relevés envoyés au surintendant conformément à l’article 668;
@@ -6007,18 +6058,18 @@ Les circulaires sont adressées au vérificateur, aux actionnaires ou aux souscr
 
 **Autres livres**
 
-- **(2)** Outre les livres mentionnés au paragraphe (1), la société tient de façon adéquate :
+- **(2)** Outre les livres mentionnés au paragraphe (1), la société tient de façon adéquate :
 	- **a)** des livres comptables;
 	- **b)** des livres contenant les procès-verbaux des réunions de son conseil d’administration et de ses comités ainsi que les résolutions qui y sont adoptées;
 	- **c)** des livres où figurent, pour chaque client ou réclamant aux termes d’une police, les renseignements relatifs au montant dû à la société, et à la nature de ses engagements envers lui.
 
 **Livre des sociétés prorogées et antérieures**
 
-- **(3)** Pour l’application de l’alinéa (1)b) et du paragraphe (2), « livre » s’entend :
+- **(3)** Pour l’application de l’alinéa (1)b) et du paragraphe (2), ***livre*** s’entend :
 	- **a)** dans le cas des personnes morales prorogées comme société en vertu de la présente loi, des documents similaires qu’elles devaient légalement tenir avant leur prorogation;
 	- **b)** dans le cas des personnes morales fusionnées et prorogées comme société en vertu de la présente loi, des documents similaires qu’elles devaient légalement tenir avant leur fusion;
 	- **c)** dans le cas des sociétés antérieures, des documents similaires qu’elles devaient légalement tenir avant l’entrée en vigueur du présent article.
-> 1991, ch. 47, art. 261; 1997, ch. 15, art. 228(A).
+> 1991, ch. 47, art. 261; 1997, ch. 15, art. 228(A); 2007, ch. 6, art. 211(A).
 
 
 
@@ -6150,36 +6201,16 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 
 
-**Lieu de conservation et traitement des données**
+**Lieu de conservation et de traitement des données**
 
 **268** 
 
-- **(1)** Sous réserve du paragraphe (3), la société doit conserver et traiter au Canada tous les renseignements ou données se rapportant à la tenue et à la conservation des livres visés à l’article 261 ou du registre central des valeurs mobilières, sauf si le surintendant a, aux conditions qu’il estime indiquées, exempté la société de l’application du présent article.
-
-**Copies**
-
-- **(2)** Sous réserve des paragraphes (4) et (5), la société peut conserver à l’étranger des exemplaires des livres visés à l’article 261 ou du registre central des valeurs mobilières, et y traiter les renseignements et les données afférents.
-
-**Exception**
-
-- **(3)** Le paragraphe (1) ne s’applique pas à l’égard des succursales de la société qui sont situées à l’étranger ou des clients de celles-ci.
-
-**Renseignements à fournir au surintendant**
-
-- **(4)** Le cas visé au paragraphe (2) échéant, la société en informe le surintendant et lui fournit une liste des exemplaires conservés à l’étranger et une description du traitement à l’étranger des renseignements et des données s’y rapportant, ainsi que les autres renseignements que le surintendant peut exiger.
-
-**Traitement des renseignements au Canada**
-
-- **(5)** S’il estime que la conservation à l’étranger des exemplaires ou que le fait de traiter à l’étranger les renseignements et données s’y rapportant, constitue un obstacle à l’exécution de ses fonctions ou s’il est avisé que cela n’est pas, selon le ministre, dans l’intérêt national, le surintendant ordonne à la société d’y procéder au Canada.
+- **(1)** S’il estime que la conservation dans un pays étranger des exemplaires de livres visés à l’article 261 ou du registre central des valeurs mobilières de la société ou le fait de traiter dans un pays étranger les renseignements et données se rapportant à la tenue et à la conservation des livres ou du registre constitue un obstacle à l’exécution des fonctions qui lui sont conférées en vertu de la présente loi, ou s’il est avisé que cela n’est pas, selon le ministre, dans l’intérêt national, le surintendant ordonne à la société de s’abstenir de se livrer à ces activités dans ce pays ou de ne s’y livrer qu’au Canada.
 
 **Obligation de se conformer**
 
-- **(6)** La société doit sans délai exécuter l’ordre visé au paragraphe (5).
-
-**Directives**
-
-- **(7)** Le surintendant doit donner des directives sur les circonstances qui peuvent justifier l’exemption visée au paragraphe (1).
-> 1991, ch. 47, art. 268; 2001, ch. 9, art. 396; 2005, ch. 54, art. 267.
+- **(2)** La société doit exécuter sans délai l’ordre visé au paragraphe (1).
+> 1991, ch. 47, art. 268; 2001, ch. 9, art. 396; 2005, ch. 54, art. 267; 2007, ch. 6, art. 212.
 
 
 
@@ -7068,10 +7099,10 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 **Qualités requises pour être fiduciaire**
 
-**323** Au moins un des fiduciaires nommés doit être une personne morale :
-- **a)** régie par la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md);
-- **b)** soit constituée sous le régime d’une loi provinciale et autorisée à exercer l’activité d’un fiduciaire.
-> 1991, ch. 47, art. 323 et 758.
+**323** Au moins un des fiduciaires nommés doit être :
+- **a)** soit une société de fiducie au sens du paragraphe 57(2) de la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md);
+- **b)** soit une personne morale constituée sous le régime d’une loi provinciale et autorisée à exercer l’activité d’un fiduciaire.
+> 1991, ch. 47, art. 323 et 758; 2007, ch. 6, art. 213.
 
 
 
@@ -7546,7 +7577,7 @@ Remplit également les conditions de nomination le cabinet de comptables qui dé
 
 **346** 
 
-- **(1)** Le vérificateur de la société procède à l’examen qu’il estime nécessaire pour faire rapport sur le rapport annuel et sur les états financiers qui doivent, aux termes de la présente loi, être présentés aux actionnaires et aux souscripteurs, à l’exception des états financiers ou des parties d’états financiers se rapportant à la période visée au sous-alinéa 331(1)a)(ii).
+- **(1)** Le vérificateur de la société procède à l’examen qu’il estime nécessaire pour faire rapport sur le rapport annuel et sur les états financiers qui doivent, aux termes de la présente loi, être présentés aux actionnaires et aux souscripteurs, à l’exception des états financiers ou des parties d’états financiers se rapportant à la période visée au sous-alinéa 331(1)a)(ii).
 
 **Normes applicables**
 
@@ -7554,9 +7585,15 @@ Remplit également les conditions de nomination le cabinet de comptables qui dé
 
 **Évaluation de l’actuaire**
 
-- **(3)** Le vérificateur peut, pour son examen, utiliser l’évaluation de l’actuaire de la société quant :
+- **(3)** Le vérificateur peut, pour son examen, utiliser l’évaluation de l’actuaire de la société ou de tout autre actuaire quant :
 	- **a)** aux engagements actuariels et autres de la société liés aux polices à la fin de l’exercice;
 	- **b)** à l’augmentation des engagements actuariels de la société au cours de l’exercice.
+
+**Normes actuarielles**
+
+- **(4)** L’évaluation faite par un actuaire autre que celui de la société ne peut être utilisée par le vérificateur que si elle a été faite conformément aux normes actuarielles généralement reconnues, avec les modifications déterminées par le surintendant, et à toute autre instruction donnée par le surintendant.
+> 1991, ch. 47, art. 346; 2007, ch. 6, art. 214.
+
 
 
 
@@ -8556,17 +8593,17 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **407** 
 
-- **(1)** Il est interdit à une personne — ou à l’entité qu’elle contrôle — d’acquérir, sans l’agrément du ministre, des actions d’une société ou le contrôle d’une entité qui détient de telles actions si l’acquisition :
+- **(1)** Il est interdit à une personne — ou à l’entité qu’elle contrôle — d’acquérir, sans l’agrément du ministre, des actions d’une société ou le contrôle d’une entité qui détient de telles actions si l’acquisition, selon le cas :
 	- **a)** lui confère un intérêt substantiel dans une catégorie d’actions de la société en question;
 	- **b)** augmente l’intérêt substantiel qu’elle détient déjà.
 
 **Assimilation**
 
-- **(2)** Dans le cas où une fusion, un regroupement ou une réorganisation confère à l’entité qui en est issue un intérêt substantiel dans une catégorie d’actions d’une société, cette entité est réputée acquérir un intérêt substantiel dans cette catégorie d’actions de la société et cette acquisition requiert l’agrément du ministre.
+- **(2)** Dans le cas où l’entité issue d’une fusion, d’un regroupement ou d’une réorganisation aurait un intérêt substantiel dans une catégorie d’actions d’une société, cette entité est réputée se voir conférer, dans le cadre d’une acquisition qui requiert l’agrément prévu au paragraphe (1), un intérêt substantiel dans cette catégorie d’actions.
 
 **Exemption**
 
-- **(3)** Sur demande d’une société — sauf une société transformée à l’égard de laquelle les paragraphes (4) ou (11) s’appliquent ou une société à laquelle les paragraphes (5) ou (12) s’appliquent — , le surintendant peut soustraire à l’application du paragraphe (1) et de l’article 408 toute catégorie d’actions sans droit de vote de la société :
+- **(3)** Sur demande d’une société — sauf une société transformée à l’égard de laquelle les paragraphes (4) ou (11) s’appliquent ou une société à laquelle les paragraphes (5) ou (12) s’appliquent —, le surintendant peut soustraire à l’application du paragraphe (1) et de l’article 408 toute catégorie d’actions sans droit de vote de la société :
 	- **a)** dont la valeur comptable ne représente pas plus de trente pour cent de la valeur comptable des actions en circulation de la société;
 	- **b)** dans le cas d’une société mutuelle, dont la valeur comptable ne représente pas plus de trente pour cent du total de la valeur comptable des actions en circulation de la société et de son excédent.
 
@@ -8576,13 +8613,13 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **Exception — société à participation multiple**
 
-- **(5)** Le paragraphe (4) ne s’applique pas à la société à participation multiple qui contrôle, au sens de l’alinéa 3(1)d), la société transformée et qui remplit l’une ou l’autre des conditions suivantes :
+- **(5)** Le paragraphe (4) ne s’applique pas à la société à participation multiple qui contrôle, au sens de l’alinéa 3(1)d), la société transformée et qui remplit l’une ou l’autre des conditions suivantes :
 	- **a)** elle la contrôlait, au sens du même alinéa, à la date de prise d’effet des lettres patentes de transformation et n’a pas cessé de la contrôler, au sens du même alinéa, depuis;
 	- **b)** elle a acquis le contrôle, au sens du même alinéa, de la société transformée conformément aux articles 28.1 ou 28.2 et elle n’a pas cessé de contrôler, au sens du même alinéa, la société transformée depuis la date où elle a acquis le contrôle.
 
 **Exception — société de portefeuille d’assurances à participation multiple**
 
-- **(6)** Le paragraphe (4) ne s’applique pas à la société de portefeuille d’assurances à participation multiple qui contrôle, au sens de l’alinéa 3(1)d), la société transformée et qui remplit l’une ou l’autre des conditions suivantes :
+- **(6)** Le paragraphe (4) ne s’applique pas à la société de portefeuille d’assurances à participation multiple qui contrôle, au sens de l’alinéa 3(1)d), la société transformée et qui remplit l’une ou l’autre des conditions suivantes :
 	- **a)** elle a acquis le contrôle, au sens du même alinéa, de la société transformée ou de la société à laquelle le paragraphe (5) s’applique, selon le cas, en vertu des articles 714 ou 715 et elle n’a pas cessé de contrôler, au sens du même alinéa, la société transformée depuis la date où elle a acquis le contrôle;
 	- **b)** la société transformée était la filiale de la société à laquelle le paragraphe (5) s’applique et dont la société de portefeuille d’assurances est, en vertu de l’article 721, la prorogation et elle n’a pas cessé de contrôler, au sens du même alinéa, la société transformée depuis le moment où la prorogation a pris effet.
 
@@ -8608,13 +8645,13 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **Exception**
 
-- **(12)** Le paragraphe (11) ne s’applique pas à la société qui contrôle la société transformée, au sens de l’alinéa 3(1)d), si personne ne détient un intérêt substantiel dans une catégorie quelconque de ses actions et si :
+- **(12)** Le paragraphe (11) ne s’applique pas à la société qui contrôle la société transformée, au sens de l’alinéa 3(1)d), si personne ne détient un intérêt substantiel dans une catégorie quelconque de ses actions et si :
 	- **a)** soit elle contrôlait la société transformée à la date de prise d’effet des lettres patentes de transformation et n’a pas cessé de la contrôler, au sens du même alinéa, depuis;
 	- **b)** soit elle a acquis le contrôle, au sens du même alinéa, de la société transformée dans le cadre des articles 28.1 ou 28.2 et elle n’a pas cessé de contrôler, au sens du même alinéa, la société transformée depuis la date où elle a acquis le contrôle.
 
 **Exception — société de portefeuille d’assurances**
 
-- **(13)** Le paragraphe (11) ne s’applique pas à la société de portefeuille d’assurances qui contrôle la société transformée, au sens de l’alinéa 3(1)d), si personne ne détient un intérêt substantiel dans une catégorie quelconque de ses actions et si :
+- **(13)** Le paragraphe (11) ne s’applique pas à la société de portefeuille d’assurances qui contrôle la société transformée, au sens de l’alinéa 3(1)d), si personne ne détient un intérêt substantiel dans une catégorie quelconque de ses actions et si :
 	- **a)** soit elle a acquis le contrôle, au sens du même alinéa, de la société transformée ou de la société à laquelle le paragraphe (12) s’applique, selon le cas, en vertu des articles 714 ou 715 et elle n’a pas cessé de contrôler, au sens du même alinéa, la société transformée depuis la date où elle a acquis le contrôle;
 	- **b)** soit la société transformée était la filiale de la société à laquelle le paragraphe (12) s’applique et dont la société de portefeuille d’assurances est, en vertu de l’article 721, la prorogation et elle n’a pas cessé de contrôler, au sens du même alinéa, la société transformée depuis le moment où la prorogation a pris effet.
 
@@ -8632,18 +8669,18 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **Présomptions**
 
-- **(17)** Pour l’application de la présente loi, les règles suivantes s’appliquent dans les cas où le ministre déclare, par arrêté, que le paragraphe (4) ne s’applique plus à l’égard d’une société donnée :
+- **(17)** Pour l’application de la présente loi, les règles suivantes s’appliquent dans les cas où le ministre déclare, par arrêté, que le paragraphe (4) ne s’applique plus à l’égard d’une société donnée :
 	- **a)** cette société est réputée, à la date de prise d’effet de l’arrêté, ne plus être une société à l’égard de laquelle le paragraphe (4) s’applique;
 	- **b)** la société à participation multiple qui contrôle, au sens de l’alinéa 3(1)d), cette société dans les circonstances visées au paragraphe (5) est réputée, à la date de prise d’effet de l’arrêté, ne plus être une société à laquelle le paragraphe (5) s’applique;
 	- **c)** la société de portefeuille d’assurances à participation multiple qui contrôle, au sens de l’alinéa 3(1)d), cette société dans les circonstances visées au paragraphe (6) est réputée, à la date de prise d’effet de l’arrêté, ne plus être une société de portefeuille d’assurances à laquelle le paragraphe (6) s’applique.
 
 **Présomptions**
 
-- **(18)** Pour l’application de la présente loi, les règles suivantes s’appliquent une fois écoulés les deux ans suivant le 31 décembre 1999 :
+- **(18)** Pour l’application de la présente loi, les règles suivantes s’appliquent une fois écoulés les deux ans suivant le 31 décembre 1999 :
 	- **a)** une société transformée dont l’excédent et la part des actionnaires minoritaires étaient, au total, inférieurs à cinq milliards de dollars mais égaux ou supérieurs à un milliard de dollars dans le dernier rapport annuel établi avant la date de prise d’effet des lettres patentes de transformation est réputée ne plus être une société à l’égard de laquelle le paragraphe (11) s’applique;
 	- **b)** la société qui contrôle, au sens de l’alinéa 3(1)d), la société transformée visée à l’alinéa a) dans les circonstances visées au paragraphe (12) est réputée ne plus être une société à laquelle le paragraphe (12) s’applique;
 	- **c)** la société de portefeuille d’assurances qui contrôle, au sens de l’alinéa 3(1)d), la société visée à l’alinéa a) dans les circonstances visées au paragraphe (13) est réputée ne plus être une société de portefeuille d’assurances à laquelle le paragraphe (13) s’applique.
-> 1991, ch. 47, art. 407; 1993, ch. 34, art. 79; 1997, ch. 15, art. 241; 1999, ch. 1, art. 7; 2001, ch. 9, art. 401.
+> 1991, ch. 47, art. 407; 1993, ch. 34, art. 79; 1997, ch. 15, art. 241; 1999, ch. 1, art. 7; 2001, ch. 9, art. 401; 2007, ch. 6, art. 215.
 
 
 
@@ -8728,8 +8765,14 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **Interdiction d’acquérir sans l’agrément du ministre**
 
-**407.1** Il est interdit à une personne d’acquérir le contrôle d’une société, au sens de l’alinéa 3(1)d), sans obtenir au préalable l’autorisation écrite du ministre.
-> 1997, ch. 15, art. 242.
+**407.1** 
+
+- **(1)** Il est interdit à une personne d’acquérir, sans l’agrément du ministre, le contrôle, au sens de l’alinéa 3(1)d), d’une société.
+
+**Assimilation**
+
+- **(2)** Dans le cas où l’entité issue d’une fusion, d’un regroupement ou d’une réorganisation aurait le contrôle, au sens de l’alinéa 3(1)d), d’une société, cette entité est réputée en acquérir, dans le cadre d’une acquisition qui requiert l’agrément prévu au paragraphe (1), le contrôle au sens de cet alinéa.
+> 1997, ch. 15, art. 242; 2007, ch. 6, art. 216.
 
 
 
@@ -8864,18 +8907,18 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **411** 
 
-- **(1)** À compter de la date fixée à son égard conformément au présent article, chaque société doit avoir un nombre d’actions conférant au moins trente-cinq pour cent des droits de vote attachés à l’ensemble de ses actions en circulation, et qui :
+- **(1)** À compter de la date fixée à son égard conformément au présent article, chaque société doit avoir un nombre d’actions conférant au moins trente-cinq pour cent des droits de vote attachés à l’ensemble de ses actions en circulation, et qui :
 	- **a)** d’une part, sont des actions d’une ou plusieurs catégories cotées et négociables dans une bourse reconnue au Canada;
 	- **b)** d’autre part, sont des actions dont aucune personne qui est un actionnaire important à l’égard de ses actions avec droit de vote ni aucune entité contrôlée par une telle personne n’a la propriété effective.
 
 **Détermination de la date**
 
-- **(2)** Dans le cas d’une société dont les capitaux propres sont égaux ou supérieurs à un milliard de dollars à la date de sa constitution, la date applicable se situe trois ans après cette date; dans les autres cas, la date applicable se situe trois ans après la première assemblée annuelle des actionnaires et souscripteurs de la société suivant le moment où les capitaux propres de celle-ci ont atteint pour la première fois un milliard de dollars.
+- **(2)** Dans le cas d’une société dont les capitaux propres sont égaux ou supérieurs à deux milliards de dollars à la date de sa constitution, la date applicable se situe trois ans après cette date; dans les autres cas, la date applicable se situe trois ans après la première assemblée annuelle des actionnaires et souscripteurs de la société suivant le moment où les capitaux propres de celle-ci ont atteint pour la première fois deux milliards de dollars.
 
 **Prolongation**
 
 - **(3)** Le ministre peut, si les conditions générales du marché le justifient et s’il est convaincu que la société a fait de son mieux pour se conformer au présent article à la date fixée aux termes du paragraphe (2), reculer la date à compter de laquelle la société devra se conformer au paragraphe (1).
-> 1991, ch. 47, art. 411; 2001, ch. 9, art. 406.
+> 1991, ch. 47, art. 411; 2001, ch. 9, art. 406; 2007, ch. 6, art. 335.
 
 
 
@@ -8980,14 +9023,14 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **416** 
 
-- **(1)** Sous réserve du paragraphe (2) et des articles 408 et 417, l’article 411 ne s’applique pas à la société ayant des capitaux propres d’au moins un milliard de dollars et dont une personne ou une entité qu’elle contrôle prend le contrôle en acquérant tout ou partie de ses actions.
+- **(1)** Sous réserve du paragraphe (2) et des articles 408 et 417, l’article 411 ne s’applique pas à la société ayant des capitaux propres d’au moins deux milliards de dollars et dont une personne ou une entité qu’elle contrôle prend le contrôle en acquérant tout ou partie de ses actions.
 
 **Engagement préalable**
 
-- **(2)** L’application du paragraphe (1) est toutefois subordonnée à l’engagement envers le ministre par la personne concernée de prendre toutes les mesures nécessaires pour que, dans les trois ans qui suivent l’acquisition de la société ou dans le délai fixé par le ministre, la société ait un nombre d’actions qui confèrent au moins trente-cinq pour cent des droits de vote attachés à l’ensemble de ses actions en circulation et qui :
+- **(2)** L’application du paragraphe (1) est toutefois subordonnée à l’engagement envers le ministre par la personne concernée de prendre toutes les mesures nécessaires pour que, dans les trois ans qui suivent l’acquisition de la société ou dans le délai fixé par le ministre, la société ait un nombre d’actions qui confèrent au moins trente-cinq pour cent des droits de vote attachés à l’ensemble de ses actions en circulation et qui :
 	- **a)** d’une part, sont des actions d’une ou plusieurs catégories cotées et négociables dans une bourse reconnue au Canada;
 	- **b)** d’autre part, sont des actions dont aucune personne qui est un actionnaire important à l’égard de ses actions avec droit de vote ni aucune entité contrôlée par une telle personne n’a la propriété effective.
-> 1991, ch. 47, art. 416; 2001, ch. 9, art. 409.
+> 1991, ch. 47, art. 416; 2001, ch. 9, art. 409; 2007, ch. 6, art. 335.
 
 
 
@@ -9355,21 +9398,21 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **441** 
 
-- **(1)** La société peut en outre :
+- **(1)** La société peut en outre :
 	- **a)** agir en qualité de mandataire pour des acheteurs, des vendeurs, des créanciers ou débiteurs hypothécaires, des locataires ou des bailleurs de biens immeubles et fournir des services de consultation et d’évaluation en matière de biens immeubles;
 	- **b)** détenir ou gérer des biens immeubles ou effectuer toutes opérations à leur égard;
 	- **c)** fournir au Canada à des entités dans lesquelles elle détient un intérêt de groupe financier des services de traitement de données qu’elle a établis pour son propre usage et qui font partie intégrante de ses activités, à la condition que celles-ci ne fournissent pas de services de traitement de données à d’autres personnes;
-	- **(d)** à l’étranger ou, à la condition d’obtenir au préalable l’agrément écrit du ministre, au Canada, exercer les activités suivantes :
-		- **(i)** la collecte, la manipulation et la transmission d’information principalement de nature financière ou économique ou relative à l’activité commerciale des entités admissibles, au sens du paragraphe 490(1), ou encore précisée par arrêté du ministre,
+	- **(d)** à l’étranger ou, à la condition d’obtenir au préalable l’agrément écrit du ministre, au Canada, exercer les activités suivantes :
+		- **(i)** la collecte, la manipulation et la transmission d’information principalement de nature financière ou économique ou relative à l’activité commerciale des entités admissibles, au sens du paragraphe 490(1), ou encore précisée par arrêté du ministre,
 		- **(ii)** la prestation de services consultatifs ou autres en matière de conception, de développement ou de mise sur pied de systèmes de gestion de l’information,
 		- **(iii)** la conception, le développement ou la commercialisation de logiciels,
-		- **(iv)** accessoirement à toute activité visée aux sous-alinéas (i) à (iii) qu’elle exerce, la conception, le développement, la fabrication ou la vente de matériel informatique indispensable à la prestation de services d’information liés à l’activité commerciale des institutions financières ou de services financiers;
-	- **d.1)** à la condition d’obtenir au préalable l’agrément écrit du ministre, s’occuper, notamment en les concevant, les développant, les détenant, les gérant, les fabriquant ou les vendant, de systèmes de transmission de données, de sites d’information, de moyens de communication ou de plateformes informatiques ou portails d’information qui sont utilisés :
+		- **(iv)** accessoirement à toute activité visée aux sous-alinéas (i) à (iii) qu’elle exerce, la conception, le développement, la fabrication ou la vente de matériel informatique indispensable à la prestation de services d’information liés à l’activité commerciale des institutions financières ou de services financiers;
+	- **d.1)** à la condition d’obtenir au préalable l’agrément écrit du ministre, s’occuper, notamment en les concevant, les développant, les détenant, les gérant, les fabriquant ou les vendant, de systèmes de transmission de données, de sites d’information, de moyens de communication ou de plateformes informatiques ou portails d’information qui sont utilisés :
 		- **(i)** soit pour la fourniture d’information principalement de nature financière ou économique,
-		- **(ii)** soit pour la fourniture d’information relative à l’activité commerciale des entités admissibles, au sens du paragraphe 490(1),
+		- **(ii)** soit pour la fourniture d’information relative à l’activité commerciale des entités admissibles, au sens du paragraphe 490(1),
 		- **(iii)** soit à une fin réglementaire ou dans des circonstances réglementaires;
 	- **e)** faire la promotion d’articles et de services auprès des titulaires de cartes de paiement, de crédit ou de débit délivrées par elle;
-	- **f)** vendre des billets :
+	- **f)** vendre des billets :
 		- **(i)** y compris de loterie, à titre de service public non lucratif pour des fêtes ou activités spéciales, temporaires, à caractère non commercial et d’intérêt local, municipal, provincial ou national,
 		- **(ii)** de transport en commun urbain,
 		- **(iii)** d’une loterie parrainée par le gouvernement fédéral, un gouvernement provincial ou une administration municipale, ou encore par tout organisme de l’un ou l’autre;
@@ -9382,7 +9425,7 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **Conditions**
 
-- **(2)** L’autorisation visée à l’alinéa (1)h) est assujettie aux conditions fixées par le ministre.
+- **(2)** L’autorisation visée à l’alinéa (1)h) est assujettie aux conditions fixées par le ministre.
 
 **Interdiction**
 
@@ -9390,11 +9433,11 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **Règlements**
 
-- **(4)** Le gouverneur en conseil peut, par règlement :
-	- **a)** prévoir ce que la société peut ou ne peut pas faire dans le cadre de l’exercice des activités visées aux alinéas (1)d) et d.1) et au paragraphe (1.1);
-	- **b)** assortir de conditions cet exercice et la prestation des services financiers visés aux alinéas (1)a) et 440(2)b);
-	- **c)** prévoir les circonstances dans lesquelles la société peut être exemptée de l’obligation d’obtenir au préalable l’agrément du ministre pour exercer une activité visée aux alinéas (1)d) ou d.1).
-> 1991, ch. 47, art. 441; 1993, ch. 34, art. 80(F); 1994, ch. 26, art. 41(F); 1997, ch. 15, art. 247; 2001, ch. 9, art. 416.
+- **(4)** Le gouverneur en conseil peut, par règlement :
+	- **a)** prévoir ce que la société peut ou ne peut pas faire dans le cadre de l’exercice des activités visées aux alinéas (1)d) et d.1) et au paragraphe (1.1);
+	- **b)** assortir de conditions cet exercice et la prestation des services financiers visés aux alinéas (1)a) et 440(2)b);
+	- **c)** prévoir les circonstances dans lesquelles la société peut être exemptée de l’obligation d’obtenir au préalable l’agrément du ministre pour exercer une activité visée aux alinéas (1)d) ou d.1).
+> 1991, ch. 47, art. 441; 1993, ch. 34, art. 80(F); 1994, ch. 26, art. 41(F); 1997, ch. 15, art. 247; 2001, ch. 9, art. 416; 2007, ch. 6, art. 217(A).
 
 
 
@@ -9450,16 +9493,13 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **Interdiction de changement d’activité**
 
-**445** Le surintendant ne peut prendre ni modifier l’ordonnance d’agrément de la société pour l’autoriser à garantir des risques à la fois dans la branche assurance-vie et dans toute branche autre que l’assurance accidents et maladie, l’assurance-accidents, l’assurance accidents corporels, l’assurance-maladie et l’assurance perte d’emploi.
-> 1991, ch. 47, art. 445; 1997, ch. 15, art. 248.
+**445** Le surintendant ne peut prendre ni modifier l’ordonnance d’agrément de la société pour l’autoriser à garantir des risques à la fois dans la branche assurance-vie et dans toute branche autre que l’assurance accidents et maladie, l’assurance protection de crédit et les autres produits approuvés.
+> 1991, ch. 47, art. 445; 1997, ch. 15, art. 248; 2007, ch. 6, art. 218.
 
 
 
 
-
-**Maintien de certaines sociétés de réassurance mixtes**
-
-**446** Malgré l’article 445, les paragraphes 443(2) et 444(2) autorisent la société dont le certificat délivré au titre de la partie III de la Loi sur les compagnies d’assurance canadiennes et britanniques ou une autre autorisation de fonctionnement limitent les opérations d’assurance à la réassurance à la fois dans la branche de l’assurance-vie et dans toute branche autre que l’assurance accidents et maladie, l’assurance-accidents, l’assurance accidents corporels et l’assurance-maladie à poursuivre ses opérations de réassurance.
+**446** [Abrogé, 2007, ch. 6, art. 218]
 
 
 
@@ -9473,9 +9513,11 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 
 
-**Restriction : rentes**
+**Restriction : rentes et assurance mixte**
 
-**448** Il est interdit à la société d’assurances multirisques de conclure des contrats de rente.
+**448** Il est interdit à la société d’assurances multirisques ou à la société d’assurance maritime de conclure des contrats de rente ou d’assurance mixte.
+> 1991, ch. 47, art. 448; 2007, ch. 6, art. 219.
+
 
 
 
@@ -9484,20 +9526,20 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **449** 
 
-- **(1)** Il incombe à la société ayant des polices en cours au Canada d’une branche d’assurance donnée de devenir et de demeurer membre de l’association d’indemnisation désignée par arrêté du ministre pour cette branche.
+- **(1)** Il incombe à la société garantissant des risques dans une branche d’assurance donnée de devenir et de demeurer membre de l’association d’indemnisation désignée par arrêté du ministre pour cette branche.
 
 **Qualification**
 
-- **(1.1)** Seule peut être désignée, aux termes du paragraphe (1), l’association d’indemnisation qui est en mesure, de l’avis du ministre, d’imposer à ses membres une cotisation d’au moins 0,85 % de la moyenne annuelle des primes reçues pour des polices jugées admissibles par l’association.
+- **(1.1)** Seule peut être désignée, aux termes du paragraphe (1), l’association d’indemnisation qui est en mesure, de l’avis du ministre, d’imposer une cotisation à ses membres.
 
 **Exceptions**
 
-- **(2)** Le paragraphe (1) ne s’applique pas :
+- **(2)** Le paragraphe (1) ne s’applique pas :
 	- **a)** aux sociétés dont l’activité est limitée à la réassurance;
 	- **b)** relativement à toute branche d’assurance que le ministre estime suffisamment protégée par un autre régime d’indemnisation;
-	- **c)** à la garantie de risques dans la branche incendie par les sociétés qui participent au Fonds mutuel d’assurance-incendie;
+	- **c)** à la garantie par les sociétés qui participent au Fonds mutuels d’assurance-incendie des risques contre les pertes ou dommages matériels causés par le feu, la foudre, une déflagration ou la fumée ou par la rupture d’un extincteur automatique ou de tout autre matériel ou système de protection contre l’incendie, ou par toute fuite en provenant;
 	- **d)** relativement à toute branche d’assurance pour laquelle le ministre n’a pas désigné d’association d’indemnisation.
-> 1991, ch. 47, art. 449; 1994, ch. 26, art. 42(A); 1996, ch. 6, art. 79.
+> 1991, ch. 47, art. 449; 1994, ch. 26, art. 42(A); 1996, ch. 6, art. 79; 2007, ch. 6, art. 220.
 
 
 
@@ -9509,7 +9551,9 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **Caisses séparées limitées aux sociétés d’assurance-vie**
 
-**450** Il est interdit aux sociétés d’assurances multirisques soit d’émettre des polices, soit de recevoir ou de garder, à la demande du souscripteur ou du bénéficiaire d’une police, les participations ou bonis ou le capital assuré payables au rachat ou à l’échéance de la police ou au décès de la personne dont la vie est assurée, si le montant des engagements de la société liés aux polices ou à l’égard des sommes reçues ou gardées varie en fonction de la valeur marchande d’un groupe spécifié d’éléments d’actif.
+**450** Il est interdit aux sociétés d’assurances multirisques ou aux sociétés d’assurance maritime soit d’émettre des polices, soit de recevoir ou de garder, à la demande du souscripteur ou du bénéficiaire d’une police, les participations ou bonis ou le capital assuré à verser au rachat ou à l’échéance de la police ou au décès de la personne dont la vie est assurée, si le montant des engagements de la société liés aux polices ou à l’égard des sommes reçues ou gardées varie en fonction de la valeur marchande d’un groupe particulier d’éléments d’actif.
+> 1991, ch. 47, art. 450; 2007, ch. 6, art. 221.
+
 
 
 
@@ -9532,7 +9576,9 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **Virements des caisses séparées**
 
-**453** La société peut, avec l’approbation du surintendant, reverser sur le compte d’origine tout montant, à sa valeur actuelle, dont le virement a été effectué aux termes de l’article 452.
+**453** La société peut reverser sur le compte d’origine tout montant, à sa valeur actuelle, dont le virement a été effectué en vertu de l’article 452.
+> 1991, ch. 47, art. 453; 2007, ch. 6, art. 222.
+
 
 
 
@@ -9599,15 +9645,15 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **Versement aux actionnaires sur le compte de participation**
 
-**461** La société à capital-actions peut verser à ses actionnaires, ou virer à un compte — sauf un compte des actionnaires participants au sens de l’article 83.01 — sur lequel peut être prélevé un versement à ceux-ci, des sommes prélevées sur un compte de participation si, à la fois :
-- **a)** la totalité des sommes en question pour l’exercice ne dépasse pas le pourcentage de la partie des bénéfices du compte de participation destinée par les administrateurs à être distribuée pour l’exercice aux actionnaires et aux souscripteurs avec participation, pourcentage qui ne peut pas dépasser le chiffre, exprimé en pourcentage, qui représente la totalité des montants suivants divisée par la somme des soldes d’ouverture pour l’exercice de tous les comptes de participation :
-	- **(i)** 10 multiplié par la somme des soldes d’ouverture pour l’exercice de tous les comptes de participation de la société pour la tranche de ces comptes allant jusqu’à deux cent cinquante millions de dollars,
-	- **(ii)** 7,5 multiplié par la somme des soldes d’ouverture pour l’exercice de tous les comptes de participation de la société pour la tranche de ces comptes supérieure à deux cent cinquante millions mais inférieure à cinq cent millions de dollars,
-	- **(iii)** 5 multiplié par la somme des soldes d’ouverture pour l’exercice de tous les comptes de participation de la société pour la tranche de ces comptes supérieure à cinq cent millions mais inférieure à un milliard de dollars,
-	- **(iv)** 2,5 multiplié par la somme des soldes d’ouverture pour l’exercice de tous les comptes de participation de la société pour la tranche de ces comptes supérieure à un milliard de dollars;
-- **b)** elle verse des participations ou bonis à ses souscripteurs avec participation sur les bénéfices du compte de participation pour l’exercice conformément à la politique en la matière élaborée aux termes de l’alinéa 165(2)e);
-- **c)** de l’avis de l’actuaire de la société, le versement aux actionnaires ou le virement à un compte sur lequel peut être prélevé un versement à ceux-ci n’entraverait pas de façon marquée la capacité de la société, d’une part, de se conformer à la politique visée ci-dessus et, d’autre part, de maintenir le niveau ou les taux des participations ou bonis versés à ses souscripteurs avec participation.
-> 1991, ch. 47, art. 461; 1997, ch. 15, art. 251.
+**461** La société à capital-actions peut, au cours de l’exercice ou dans les six mois suivant la fin de l’exercice, verser à ses actionnaires, ou virer à un compte — sauf un compte des actionnaires participants au sens de l’article 83.01 — sur lequel peut être prélevé un versement à ceux-ci, des sommes prélevées sur un compte de participation si, à la fois :
+- **a)** la totalité des sommes en question pour cet exercice ne dépasse pas le pourcentage de la partie des bénéfices du compte de participation destinée par les administrateurs à être distribuée pour cet exercice aux actionnaires et aux souscripteurs avec participation, pourcentage qui ne peut pas dépasser le chiffre, exprimé en pourcentage, qui représente la totalité des sommes ci-après divisée par la somme des soldes d’ouverture pour cet exercice de tous les comptes de participation :
+	- **(i)** 10 multiplié par la somme des soldes d’ouverture pour cet exercice de tous les comptes de participation de la société pour la tranche de ces comptes allant jusqu’à deux cent cinquante millions de dollars,
+	- **(ii)** 7,5 multiplié par la somme des soldes d’ouverture pour cet exercice de tous les comptes de participation de la société pour la tranche de ces comptes supérieure à deux cent cinquante millions mais inférieure à cinq cent millions de dollars,
+	- **(iii)** 5 multiplié par la somme des soldes d’ouverture pour cet exercice de tous les comptes de participation de la société pour la tranche de ces comptes supérieure à cinq cent millions mais inférieure à un milliard de dollars,
+	- **(iv)** 2,5 multiplié par la somme des soldes d’ouverture pour cet exercice de tous les comptes de participation de la société pour la tranche de ces comptes supérieure à un milliard de dollars;
+- **b)** elle verse des participations ou des bonis à ses souscripteurs avec participation sur les bénéfices du compte de participation pour cet exercice conformément à la politique en la matière élaborée aux termes de l’alinéa 165(2)e);
+- **c)** de l’avis de l’actuaire de la société, le versement aux actionnaires ou le virement à un compte sur lequel peut être prélevé un versement à ceux-ci n’entraverait pas de façon marquée la capacité de la société, d’une part, de se conformer à la politique visée ci-dessus et, d’autre part, de maintenir le niveau ou les taux des participations ou des bonis versés à ses souscripteurs avec participation.
+> 1991, ch. 47, art. 461; 1997, ch. 15, art. 251; 2007, ch. 6, art. 223.
 
 
 
@@ -9615,12 +9661,12 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **Prélèvements sur les comptes de participation**
 
-**462** Seules peuvent être prélevées sur des comptes de participation visés à l’article 456 :
-- **a)** les sommes virées aux caisses séparées aux termes des articles 461 et 463;
+**462** Seules peuvent être prélevées sur des comptes de participation visés à l’article 456 :
+- **a)** les sommes virées en vertu des articles 461 et 463;
 - **b)** les sommes virées à l’égard des virements ou de la réassurance de tout ou partie des polices à participation à l’égard desquelles le compte de participation est tenu;
-- **c)** avec l’agrément du surintendant, les sommes virées qu’il est raisonnable d’attribuer à des sources non liées aux polices à participation à l’égard desquelles le compte de participation est tenu;
+- **c)** avec l’agrément du surintendant, les sommes virées qu’il est raisonnable d’attribuer à des sources non liées aux polices à participation à l’égard desquelles le compte de participation est tenu ou a été tenu, à la condition que le prélèvement, de l’avis de l’actuaire de la société, n’entrave pas de façon marquée la capacité de la société de se conformer à sa politique de fixation de la participation et des bonis à verser aux souscripteurs avec participation, de maintenir le niveau ou les taux des participations ou des bonis versés à ses souscripteurs avec participation ou de faire face à ses engagements aux termes de ses polices à participation;
 - **d)** les sommes virées à l’égard de la transformation d’une société mutuelle en société avec actions ordinaires.
-> 1991, ch. 47, art. 462; 1997, ch. 15, art. 252; 1999, ch. 1, art. 8.
+> 1991, ch. 47, art. 462; 1997, ch. 15, art. 252; 1999, ch. 1, art. 8; 2007, ch. 6, art. 224.
 
 
 
@@ -9665,7 +9711,9 @@ où :
 
 **Cas d’interdiction**
 
-- **(3)** L’attribution, sauf le paiement ou l’autre exécution visés au paragraphe (1), est interdite s’il y a des motifs raisonnables de croire que la société contrevient — ou contreviendrait si elle avait lieu — aux règlements visés aux paragraphes 515(1) ou (2) ou à une ordonnance prise aux termes du paragraphe 515(3).
+- **(3)** L’attribution, sauf le paiement ou l’autre exécution visés au paragraphe (1), est interdite s’il y a des motifs valables de croire que la société contrevient — ou contreviendrait si elle avait lieu — au paragraphe 515(1), aux règlements pris en vertu du paragraphe 515(2) ou à l’ordonnance prise en vertu du paragraphe 515(3).
+> 1991, ch. 47, art. 464; 2007, ch. 6, art. 225.
+
 
 
 
@@ -9678,11 +9726,13 @@ où :
 
 **465** 
 
-- **(1)** Le gouverneur en conseil peut, par règlement, limiter la réassurance par une société contre des risques garantis par elle.
+- **(1)** Le gouverneur en conseil peut, par règlement, limiter la réassurance par une société contre des risques acceptés par elle aux termes de ses polices.
 
 **Délégation de pouvoirs discrétionnaires**
 
 - **(2)** Les règlements pris aux termes du paragraphe (1) peuvent autoriser le surintendant à procéder par ordonnance pour régler les questions ou exercer les pouvoirs discrétionnaires qu’ils précisent.
+> 1991, ch. 47, art. 465; 2007, ch. 6, art. 226.
+
 
 
 
@@ -9718,16 +9768,16 @@ où :
 
 **469** 
 
-- **(1)** Il est interdit à la société de faire garantir par un immeuble résidentiel situé au Canada un prêt consenti au Canada pour l’achat, la rénovation ou l’amélioration de cet immeuble, ou de renouveler un tel prêt, si la somme de celui-ci et du solde impayé de toute hypothèque de rang égal ou supérieur excède soixante-quinze pour cent de la valeur de l’immeuble au moment du prêt.
+- **(1)** Il est interdit à la société de faire garantir par un immeuble résidentiel situé au Canada un prêt consenti au Canada pour l’achat, la rénovation ou l’amélioration de cet immeuble, ou de renouveler un tel prêt, si la somme de celui-ci et du solde impayé de toute hypothèque de rang égal ou supérieur excède quatre-vingts pour cent de la valeur de l’immeuble au moment du prêt.
 
 **Exception**
 
-- **(2)** Le paragraphe (1) ne s’applique pas :
+- **(2)** Le paragraphe (1) ne s’applique pas :
 	- **a)** au prêt consenti ou garanti en vertu de la [Loi nationale sur l’habitation](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-11.md) ou de toute autre loi fédérale aux termes de laquelle est fixée une limite différente sur la valeur de l’immeuble qui constitue l’objet de la garantie;
 	- **b)** au prêt dont le remboursement, en ce qui touche le montant excédant le plafond fixé au paragraphe (1), est garanti ou assuré par un organisme fédéral ou par un assureur privé agréé par le surintendant;
 	- **c)** à l’acquisition par la société de valeurs mobilières émises ou garanties par une entité et qui confèrent une sûreté sur un immeuble résidentiel soit en faveur d’un fiduciaire soit de toute autre manière, ni aux prêts consentis par la société à l’entité en contrepartie de l’émission des valeurs mobilières en question;
 	- **d)** au prêt garanti par une hypothèque consentie à une société en garantie du prix de vente d’un bien qu’elle aliène, y compris par suite de l’exercice d’un droit hypothécaire.
-> 1991, ch. 47, art. 469; 1997, ch. 15, art. 253.
+> 1991, ch. 47, art. 469; 1997, ch. 15, art. 253; 2007, ch. 6, art. 227.
 
 
 
@@ -9839,13 +9889,15 @@ où :
 
 
 
-### Restrictions particulières aux sociétés d’assurances multirisques
+### Restrictions particulières aux sociétés d’assurances multirisques et aux sociétés d’assurance maritime
 
 
 
 **Restriction générale**
 
-**476** La société d’assurances multirisques ne peut contracter une dette au moyen d’un titre de créance — au sens accordé à cette expression par les règlements — ni autoriser ses filiales réglementaires à le faire, ni émettre d’actions autres que des actions ordinaires, si par suite de ces opérations la somme de la totalité des titres de créance de la société — déterminée selon les modalités réglementaires — et de son capital déclaré dépasse le pourcentage réglementaire de son actif total.
+**476** La société d’assurances multirisques ou la société d’assurance maritime ne peut contracter une dette au moyen d’un titre de créance — au sens accordé à cette expression par les règlements — ni autoriser ses filiales réglementaires à le faire, ni émettre d’actions autres que des actions ordinaires, si par suite de ces opérations la somme de la totalité des titres de créance de la société — déterminée selon les modalités réglementaires — et de son capital déclaré dépasse le pourcentage réglementaire de son actif total.
+> 1991, ch. 47, art. 476; 2007, ch. 6, art. 228.
+
 
 
 
@@ -9854,14 +9906,12 @@ où :
 
 **477** 
 
-- **(1)** Il est interdit à la société d’assurances multirisques de garantir le paiement ou le remboursement d’une somme d’argent, sauf si la personne au nom de qui elle fournit la garantie est l’une de ses filiales et s’est engagée inconditionnellement envers elle à lui en remettre le plein montant.
+- **(1)** Il est interdit à la société d’assurances multirisques ou à la société d’assurance maritime de garantir le paiement ou le remboursement d’une somme d’argent, sauf si la personne au nom de qui elle fournit la garantie est l’une de ses filiales et s’est engagée inconditionnellement envers elle à lui en remettre le plein montant.
 
-- **(2)** [Abrogé, 1997, ch. 15, art. 255]
+**Précision**
 
-**Idem**
-
-- **(3)** Le paragraphe (1) ne s’applique pas à la garantie par la société d’un risque assimilable à un risque dans la branche d’assurance spécifiée dans son ordonnance d’agrément.
-> 1991, ch. 47, art. 477; 1997, ch. 15, art. 255; 2001, ch. 9, art. 422.
+- **(2)** Le paragraphe (1) ne s’applique pas à la garantie par la société d’un risque assimilable à un risque dans la branche d’assurance précisée dans son ordonnance d’agrément.
+> 1991, ch. 47, art. 477; 1997, ch. 15, art. 255; 2001, ch. 9, art. 422; 2007, ch. 6, art. 228.
 
 
 
@@ -9869,7 +9919,9 @@ où :
 
 **Crédit-bail**
 
-**478** Il est interdit à la société d’assurances multirisques d’exercer au Canada toute activité de crédit-bail mobilier.
+**478** Il est interdit à la société d’assurances multirisques ou à la société d’assurance maritime d’exercer au Canada toute activité de crédit-bail mobilier.
+> 1991, ch. 47, art. 478; 2007, ch. 6, art. 228.
+
 
 
 
@@ -9993,6 +10045,8 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 **Coût d’emprunt des avances**
 
 **484** Si est prévu par règlement le mode de communication du coût d’emprunt d’une avance garantie par une police ou par la valeur de rachat de celle-ci, la société ne peut consentir à un souscripteur telle avance sans lui faire savoir, avant ou au moment de l’octroi et en la forme réglementaire, le coût d’emprunt, calculé et exprimé en conformité avec les règlements.
+> 1991, ch. 47, art. 484; 2007, ch. 6, art. 229(A).
+
 
 
 
@@ -10027,12 +10081,22 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **486** 
 
-- **(1)** En ce qui concerne les réclamations, la société est tenue, d’une part, d’établir une procédure d’examen des réclamations de personnes qui lui ont demandé ou qui ont obtenu d’elle des produits ou services au Canada et, d’autre part, de désigner un préposé — dirigeant ou autre agent — à sa mise en oeuvre et, un ou plusieurs autres au traitement des réclamations.
+- **(1)** En ce qui concerne les réclamations, la société est tenue, d’une part, d’établir une procédure d’examen des réclamations de personnes qui lui ont demandé ou qui ont obtenu d’elle des produits ou services au Canada et, d’autre part, de désigner un dirigeant ou un employé pour la mise en oeuvre de cette procédure et un ou plusieurs autres pour le traitement des réclamations.
 
 **Dépôt**
 
 - **(2)** La société dépose auprès du commissaire un double de la procédure.
-> 1991, ch. 47, art. 486; 1997, ch. 15, art. 260; 2001, ch. 9, art. 424.
+
+**Mise à la disposition du public de la procédure**
+
+- **(3)** La société met à la disposition du public la procédure à la fois :
+	- **a)** sur ceux de ses sites Web où sont offerts des produits ou services au Canada;
+	- **b)** dans un document écrit à envoyer à quiconque lui en fait la demande.
+
+**Renseignements**
+
+- **(4)** La société doit accompagner la procédure qu’elle met à la disposition du public des renseignements — fixés par règlement — sur la façon de communiquer avec l’Agence.
+> 1991, ch. 47, art. 486; 1997, ch. 15, art. 260; 2001, ch. 9, art. 424; 2007, ch. 6, art. 230.
 
 
 
@@ -10132,10 +10196,10 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 	- **(i)** à leurs produits ou services, ou catégories réglementaires de ceux-ci,
 	- **(ii)** à leurs règles de conduite, procédures et pratiques ayant trait à la fourniture de ces produits ou services, ou catégories réglementaires de ceux-ci,
 	- **(iii)** aux interdictions ou obligations qui leur sont imposées aux termes d’une disposition visant les consommateurs,
-	- **(iv)** à toute autre question en ce qui touche leurs relations avec leurs clients ou le public;
+	- **(iv)** à toute autre question en ce qui touche leurs relations ou celles de leurs employés ou représentants avec leurs clients ou le public;
 - **b)** les modalités de temps, de lieu et de forme de la communication, ainsi que le destinataire de celle-ci;
 - **c)** le contenu et la forme de la publicité relative aux questions visées à l’alinéa a).
-> 2001, ch. 9, art. 425.
+> 2001, ch. 9, art. 425; 2007, ch. 6, art. 231.
 
 
 
@@ -10180,6 +10244,11 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 - **b)** ses titres autorisent leurs détenteurs à recevoir, sur demande ou dans le délai spécifié après la demande, un montant calculé sur la base d’un droit proportionnel à tout ou partie des capitaux propres de l’émetteur, y compris tout fonds distinct ou compte en fiducie.
 
 ***filiale réglementaire*** La filiale qui fait partie d’une catégorie de filiales prévue par règlement.
+
+***fonds d’investissement à capital fixe*** Entité dont l’activité se limite au placement de ses fonds de façon à offrir des services de diversification de placements et de gestion professionnelle aux détenteurs de ses titres et dont les titres : 
+- **a)** sont diffusés au public en nombre fixe dans le cadre d’une émission faite en vertu d’un prospectus provisoire, d’un prospectus, d’un prospectus simplifié ou d’un document de même nature, conformément aux lois d’une province ou d’un pays étranger;
+- **b)** sont négociés en bourse ou sur les marchés hors cote;
+- **c)** font l’objet, à une date d’échéance fixe, d’une liquidation dont le produit est réparti proportionnellement entre les détenteurs de titres.
 
  ou ***prêt*** ou ***emprunt*** Tout arrangement pour obtenir des fonds ou du crédit, à l’exception des placements dans les valeurs mobilières; y sont assimilés notamment l’acceptation et l’endossement ou autre garantie ainsi que le dépôt, le crédit-bail, le contrat de vente conditionnelle et la convention de rachat et l’avance garantie par une police ou par la valeur de rachat de celle-ci.
 
@@ -10231,7 +10300,7 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 - **(3)** Dans la présente partie, la mention de l’actif ou du passif de la société ne comprend pas :
 	- **a)** l’actif de la caisse séparée tenue aux termes de l’article 451;
 	- **b)** les éléments du passif de la société liés aux polices et sommes à l’égard desquelles cette caisse est tenue.
-> 1991, ch. 47, art. 490 et 760; 1993, ch. 34, art. 81(F); 1997, ch. 15, art. 264; 2001, ch. 9, art. 426.
+> 1991, ch. 47, art. 490 et 760; 1993, ch. 34, art. 81(F); 1997, ch. 15, art. 264; 2001, ch. 9, art. 426; 2007, ch. 6, art. 233.
 
 
 
@@ -10290,7 +10359,15 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 **Exception : fait involontaire**
 
 - **(5)** La société est réputée ne pas contrevenir au paragraphe (1) quand elle acquiert le contrôle d’une entité ou acquiert ou augmente un intérêt de groupe financier dans une entité en raison uniquement d’un événement dont elle n’est pas maître.
-> 1991, ch. 47, art. 493; 1997, ch. 15, art. 265; 2001, ch. 9, art. 426.
+
+**Application d’une autre disposition**
+
+- **(6)** Malgré l’acquisition par elle du contrôle d’une entité ou d’un intérêt de groupe financier dans une entité au titre d’une disposition de la présente partie, la société peut continuer à contrôler l’entité ou à détenir l’intérêt de groupe financier comme si elle avait procédé à l’acquisition au titre d’une autre disposition de la présente partie, pourvu que les conditions prévues par cette autre disposition soient respectées.
+
+**Assimilation**
+
+- **(7)** Si elle décide d’exercer le pouvoir prévu au paragraphe (6), la société est réputée acquérir le contrôle ou l’intérêt de groupe financier au titre de l’autre disposition.
+> 1991, ch. 47, art. 493; 1997, ch. 15, art. 265; 2001, ch. 9, art. 426; 2007, ch. 6, art. 234.
 
 
 
@@ -10327,7 +10404,7 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 	- **g)** une société de fiducie, de prêt ou d’assurance constituée en personne morale ou formée sous le régime d’une loi provinciale;
 	- **h)** une société coopérative de crédit constituée en personne morale ou formée et réglementée sous le régime d’une loi provinciale;
 	- **i)** une entité constituée en personne morale ou formée sous le régime d’une loi fédérale ou provinciale et dont l’activité principale est le commerce des valeurs mobilières;
-	- **j)** une entité qui est constituée en personne morale ou formée et réglementée autrement que sous le régime d’une loi fédérale ou provinciale et qui exerce principalement, à l’étranger, des activités qui, au Canada, seraient des opérations bancaires, l’activité d’une société coopérative de crédit, l’assurance, la prestation de services fiduciaires ou le commerce de valeurs mobilières.
+	- **j)** une entité qui est constituée en personne morale ou formée et réglementée autrement que sous le régime d’une loi fédérale ou provinciale et qui exerce principalement, à l’étranger, des activités commerciales qui, au Canada, seraient des opérations bancaires, l’activité d’une société coopérative de crédit, des opérations d’assurance, la prestation de services fiduciaires ou le commerce de valeurs mobilières.
 
 **Placements autorisés — sociétés d’assurance-vie**
 
@@ -10343,7 +10420,7 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 	- **d)** toute activité qu’une société d’assurance-vie peut exercer, autre qu’une activité visée aux alinéas a) ou e), se rapportant :
 		- **(i)** soit à la vente, la promotion, la livraison ou la distribution d’un service ou d’un produit financiers fournis par la société d’assurance-vie ou un membre de son groupe,
 		- **(ii)** soit, si l’activité commerciale de l’entité consiste, en grande partie, en une activité visée au sous-alinéa (i), à la vente, la promotion, la livraison ou la distribution d’un service ou d’un produit financiers d’une entité dont l’activité commerciale principale consiste en la prestation de services financiers;
-	- **e)** les activités visées aux définitions de « entité s’occupant de fonds mutuels » ou « courtier de fonds mutuels » au paragraphe 490(1);
+	- **e)** les activités visées aux définitions de ***courtier de fonds mutuels***, ***entité s’occupant de fonds mutuels*** ou ***fonds d’investissement à capital fixe*** au paragraphe 490(1);
 	- **f)** les activités prévues par règlement, pourvu qu’elles s’exercent selon les modalités éventuellement fixées par règlement.
 
 **Restriction**
@@ -10357,28 +10434,38 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 		- **(ii)** dans le cas où l’entité n’est pas contrôlée par la société, l’acquisition par la société elle-même d’un intérêt de groupe financier dans l’autre entité serait permise aux termes des paragraphes (1) ou (2) ou 493(2), des alinéas 493(3)b) ou c) ou du paragraphe 493(4);
 	- **e)** des activités prévues par règlement.
 
-**Placements autorisés — sociétés d’assurances multirisques**
+**Exception**
 
-- **(4)** Sous réserve des paragraphes (5) à (8) et de la partie XI, la société d’assurances multirisques peut acquérir le contrôle d’une entité, autre qu’une entité visée aux alinéas (1)a) à j), dont l’activité commerciale se limite à une ou plusieurs des activités suivantes ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité :
-	- **a)** la prestation de services financiers ou toute autre activité qu’une société d’assurances multirisques est autorisée à exercer dans le cadre du paragraphe 440(2) ou des articles 441 ou 442, à l’exception de l’alinéa 441(1)h);
-	- **b)** la détention et l’acquisition d’actions ou d’autres titres de participation dans des entités dans lesquelles une société d’assurances multirisques est autorisée, dans le cadre de la présente partie, à acquérir ou détenir de tels actions ou titres;
-	- **c)** la prestation de services aux seules entités suivantes — à la condition qu’ils soient aussi fournis à la société elle-même ou à un membre de son groupe :
+- **(3.1)** Malgré l’alinéa (3)a), la société d’assurance-vie peut acquérir le contrôle d’une entité qui exerce des activités de fiduciaire et y est autorisée par les lois d’une province ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité si celle-ci est, selon le cas :
+	- **a)** un fonds d’investissement à capital fixe;
+	- **b)** une entité s’occupant de fonds mutuels;
+	- **c)** une entité dont l’activité commerciale est limitée à l’une ou l’autre des activités suivantes :
+		- **(i)** les activités d’un courtier de fonds mutuels,
+		- **(ii)** les services qu’une société est autorisée à fournir dans le cadre du paragraphe 441(1.1),
+		- **(iii)** la prestation de services de conseil en placement et de gestion de portefeuille.
+
+**Placements autorisés — sociétés d’assurances multirisques et sociétés d’assurance maritime**
+
+- **(4)** Sous réserve des paragraphes (5) à (8) et de la partie XI, la société d’assurances multirisques ou la société d’assurance maritime peut acquérir le contrôle d’une entité — autre que celle visée à l’un des alinéas (1)a) à j) — dont l’activité commerciale se limite à une ou plusieurs des activités ci-après ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité :
+	- **a)** la prestation de services financiers qu’une société d’assurances multirisques ou une société d’assurance maritime est autorisée à fournir dans le cadre du paragraphe 440(2) ou des articles 441 ou 442, à l’exception de l’alinéa 441(1)h), ou toute autre activité qu’elle est autorisée à exercer dans le cadre de ces dispositions;
+	- **b)** la détention et l’acquisition d’actions ou d’autres titres de participation dans des entités dans lesquelles une société d’assurances multirisques ou une société d’assurance maritime est autorisée, dans le cadre de la présente partie, à acquérir ou détenir de tels actions ou titres;
+	- **c)** la prestation de services aux seules entités ci-après — à la condition qu’ils soient aussi fournis à la société elle-même ou à un membre de son groupe :
 		- **(i)** la société elle-même,
 		- **(ii)** un membre de son groupe,
-		- **(iii)** une entité dont l’activité commerciale principale consiste en la prestation de services financiers,
+		- **(iii)** une entité dont l’activité commerciale principale consiste dans la prestation de services financiers,
 		- **(iv)** une entité admissible dans laquelle une entité visée au sous-alinéa (iii) a un intérêt de groupe financier,
-		- **(v)** une personne visée par règlement — pourvu que la prestation se fasse selon les modalités éventuellement fixées par règlement;
-	- **d)** toute activité qu’une société d’assurances multirisques peut exercer, autre qu’une activité visée aux alinéas a) ou e), se rapportant :
-		- **(i)** soit à la vente, la promotion, la livraison ou la distribution d’un service ou d’un produit financiers fournis par la société d’assurances multirisques ou un membre de son groupe,
-		- **(ii)** soit, si l’activité commerciale de l’entité consiste, en grande partie, en une activité visée au sous-alinéa (i), à la vente, la promotion, la livraison ou la distribution d’un service ou d’un produit financiers d’une entité dont l’activité commerciale principale consiste en la prestation de services financiers;
-	- **e)** les activités visées aux définitions de « entité s’occupant de fonds mutuels » ou « courtier de fonds mutuels » au paragraphe 490(1);
-	- **f)** les activités prévues par règlement, pourvu qu’elles s’exercent selon les modalités éventuellement fixées par règlement.
+		- **(v)** une personne visée par règlement, à condition que la prestation se fasse selon les modalités éventuellement fixées par règlement;
+	- **d)** toute activité qu’une société d’assurances multirisques ou une société d’assurance maritime peut exercer, autre qu’une activité visée aux alinéas a) ou e), se rapportant :
+		- **(i)** soit à la vente, à la promotion, à la livraison ou à la distribution d’un service ou d’un produit financiers fournis par la société ou un membre de son groupe,
+		- **(ii)** soit, si l’activité commerciale de l’entité consiste, en grande partie, en une activité visée au sous-alinéa (i), à la vente, à la promotion, à la livraison ou à la distribution d’un service ou d’un produit financiers d’une entité dont l’activité commerciale principale consiste dans la prestation de services financiers;
+	- **e)** les activités visées aux définitions de ***courtier de fonds mutuels***, ***entité s’occupant de fonds mutuels*** ou ***fonds d’investissement à capital fixe*** au paragraphe 490(1);
+	- **f)** les activités prévues par règlement, à condition qu’elles s’exercent selon les modalités éventuellement fixées par règlement.
 
 **Restriction**
 
-- **(5)** La société d’assurances multirisques ne peut acquérir le contrôle d’une entité dont l’activité commerciale comporte une activité visée aux alinéas (4)a) à e), ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité, si l’entité accepte des dépôts dans le cadre de son activité commerciale ou si les activités de l’entité comportent :
+- **(5)** La société d’assurances multirisques ou la société d’assurance maritime ne peut acquérir le contrôle d’une entité dont l’activité commerciale comporte une activité visée à l’un des alinéas (4)a) à e), ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité, si l’entité accepte des dépôts dans le cadre de son activité commerciale ou si ses activités comportent :
 	- **a)** des activités qu’une société est empêchée d’exercer par les articles 466, 469 et 478;
-	- **b)** le commerce des valeurs mobilières, sauf dans la mesure où elle peut le faire dans le cadre de l’alinéa (2)e) ou une société peut le faire dans le cadre de l’alinéa 440(2)b);
+	- **b)** le commerce des valeurs mobilières, sauf dans la mesure où elle peut le faire dans le cadre de l’alinéa (4)e) ou une société peut le faire dans le cadre de l’alinéa 440(2)b);
 	- **c)** des activités d’intermédiaire financier comportant des risques importants de crédit ou de marché, notamment celles d’une entité s’occupant d’affacturage, d’une entité s’occupant de crédit-bail ou d’une entité s’occupant de financement;
 	- **c.1)** des activités d’une entité s’occupant de financement spécial;
 	- **d)** l’acquisition du contrôle d’une autre entité, ou l’acquisition ou la détention d’un intérêt de groupe financier dans celle-ci, sauf si :
@@ -10386,16 +10473,25 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 		- **(ii)** dans le cas où l’entité n’est pas contrôlée par la société, l’acquisition par la société elle-même d’un intérêt de groupe financier dans l’autre entité serait permise aux termes des paragraphes (1) ou (4) ou 493(2) ou des alinéas 493(3)b) ou c);
 	- **e)** des activités prévues par règlement.
 
+**Exception**
+
+- **(5.1)** Malgré l’alinéa (5)a), la société d’assurances multirisques ou la société d’assurance maritime peut acquérir le contrôle d’une entité qui exerce des activités de fiduciaire et y est autorisée par les lois d’une province ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité si celle-ci est, selon le cas :
+	- **a)** un fonds d’investissement à capital fixe;
+	- **b)** une entité s’occupant de fonds mutuels;
+	- **c)** une entité dont l’activité commerciale est limitée à l’une ou l’autre des activités suivantes :
+		- **(i)** les activités d’un courtier de fonds mutuels,
+		- **(ii)** la prestation de services de conseil en placement et de gestion de portefeuille.
+
 **Contrôle**
 
 - **(6)** Sous réserve du paragraphe (10) et des règlements, les règles suivantes s’appliquent à l’acquisition par la société du contrôle des entités suivantes et à l’acquisition ou à l’augmentation par elle d’un intérêt de groupe financier dans ces entités :
 	- **a)** s’agissant d’une entité visée aux alinéas (1)a) à j), elle ne peut le faire que si :
 		- **(i)** soit elle la contrôle ou en acquiert de la sorte le contrôle, au sens de l’alinéa 3(1)d),
 		- **(ii)** soit elle est autorisée par règlement pris en vertu de l’alinéa 501a) à acquérir ou augmenter l’intérêt;
-	- **b)** s’agissant d’une entité qui exerce une activité visée à l’alinéa (2)a) et qui exerce, dans le cadre de son activité commerciale, des activités d’intermédiaire financier comportant des risques importants de crédit ou de marché, notamment une entité s’occupant d’affacturage, une entité s’occupant de crédit-bail ou une entité s’occupant de financement, elle ne peut le faire que si :
+	- **b)** s’agissant d’une entité dont l’activité commerciale comporte une activité visée à l’alinéa (2)a) et qui exerce, dans le cadre de son activité commerciale, des activités d’intermédiaire financier comportant des risques importants de crédit ou de marché, notamment une entité s’occupant d’affacturage, une entité s’occupant de crédit-bail ou une entité s’occupant de financement, elle ne peut le faire que si :
 		- **(i)** soit elle la contrôle ou en acquiert de la sorte le contrôle, au sens de l’alinéa 3(1)d),
 		- **(ii)** soit elle est autorisée par règlement pris en vertu de l’alinéa 501a) à acquérir ou augmenter l’intérêt;
-	- **c)** s’agissant d’une entité qui exerce une activité visée aux alinéas (2)b) ou (4)b), y compris une entité s’occupant de financement spécial, elle ne peut le faire que si :
+	- **c)** s’agissant d’une entité dont l’activité commerciale comporte une activité visée aux alinéas (2)b) ou (4)b), y compris une entité s’occupant de financement spécial, elle ne peut le faire que si :
 		- **(i)** soit elle la contrôle ou en acquiert de la sorte le contrôle, au sens de l’alinéa 3(1)d),
 		- **(ii)** soit elle est autorisée par règlement pris en vertu de l’alinéa 501a) à acquérir ou augmenter l’intérêt,
 		- **(iii)** soit, sous réserve des modalités éventuellement fixées par règlement, les activités de l’entité ne comportent pas l’acquisition ou la détention du contrôle d’une entité visée aux alinéas a) ou b) ou d’une entité qui n’est pas une entité admissible, ni d’actions ou de titres de participation dans celle-ci.
@@ -10408,7 +10504,8 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 		- **(i)** une entité s’occupant d’affacturage,
 		- **(ii)** une entité s’occupant de crédit-bail;
 	- **c)** acquérir le contrôle d’une entité dont l’activité commerciale comporte des activités visées à l’alinéa (2)d) ou (4)d) ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité;
-	- **d)** acquérir le contrôle d’une entité qui exerce des activités visées aux alinéas 441(1)d) ou d.1) ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité;
+	- **d)** acquérir le contrôle d’une entité qui exerce au Canada des activités visées à l’alinéa 441(1)d) ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité;
+	- **d.1)** acquérir le contrôle d’une entité qui exerce des activités visées à l’alinéa 441(1)d.1) ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité;
 	- **e)** acquérir le contrôle d’une entité qui exerce des activités prévues par règlement d’application de l’alinéa (2)f) ou (4)f) ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité.
 
 **Agrément du surintendant**
@@ -10418,7 +10515,7 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 **Exception**
 
 - **(9)** Le paragraphe (8) ne s’applique pas à une opération dans l’un ou l’autre des cas suivants :
-	- **a)** l’entité dont le contrôle est acquis exerce une activité visée aux alinéas (2)b) ou (4)b) mais n’est pas une entité s’occupant de financement spécial;
+	- **a)** l’entité dont le contrôle est acquis n’est pas une entité s’occupant de financement spécial et le seul motif pour lequel l’agrément serait exigé, n’eût été le présent paragraphe, est l’exercice par elle d’une activité visée à l’alinéa (2)b) ou (4)b);
 	- **b)** les activités de l’entité dont le contrôle est acquis se limitent aux activités qu’exercent une entité s’occupant d’affacturage ou une entité s’occupant de crédit-bail;
 	- **c)** le ministre a agréé l’opération dans le cadre du paragraphe (7) ou il est réputé l’avoir agréée dans le cadre du paragraphe 496(1).
 
@@ -10439,7 +10536,7 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 **Présomption d’agrément**
 
 - **(13)** Si la société contrôle, au sens des alinéas 3(1)a), b) ou c), une entité, les paragraphes (7) et (8) ne s’appliquent pas aux augmentations postérieures par la société de son intérêt de groupe financier dans l’entité tant qu’elle continue de la contrôler.
-> 1991, ch. 47, art. 495; 1997, ch. 15, art. 266; 1999, ch. 28, art. 122; 2001, ch. 9, art. 426.
+> 1991, ch. 47, art. 495; 1997, ch. 15, art. 266; 1999, ch. 28, art. 122; 2001, ch. 9, art. 426; 2007, ch. 6, art. 235 et 336(F).
 
 
 
@@ -10505,14 +10602,14 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **Placement provisoire**
 
-- **(4)** La société qui, au moyen d’un placement provisoire, acquiert le contrôle ou acquiert ou augmente un intérêt de groupe financier dans un cas où l’agrément du ministre est requis dans le cadre du paragraphe 495(7) doit, dans les quatre-vingt-dix jours qui suivent l’acquisition :
-	- **a)** soit demander l’agrément du ministre pour continuer à détenir le contrôle ou l’intérêt pour la période précisée par le ministre ou pour une période indéterminée, aux conditions que celui-ci estime indiquées;
+- **(4)** La société qui, au moyen d’un placement provisoire, acquiert le contrôle ou acquiert ou augmente un intérêt de groupe financier dans un cas où l’agrément du ministre aurait été requis dans le cadre du paragraphe 495(7) si le contrôle avait été acquis ou l’intérêt de groupe financier acquis ou augmenté au titre de l’article 495 doit, dans les quatre-vingt-dix jours qui suivent l’acquisition :
+	- **a)** soit demander l’agrément du ministre pour continuer à détenir le contrôle ou l’intérêt pour la période précisée par le ministre ou pour une période indéterminée, aux conditions que celui-ci estime appropriées;
 	- **b)** soit prendre les mesures nécessaires pour éliminer le contrôle ou ne plus détenir un intérêt de groupe financier à l’expiration des quatre-vingt-dix jours.
 
 **Placement provisoire**
 
-- **(5)** Si la société, au moyen d’un placement provisoire, acquiert le contrôle ou acquiert ou augmente un intérêt de groupe financier dans un cas où l’agrément du surintendant est requis dans le cadre du paragraphe 495(8), le surintendant peut, sur demande, autoriser la société à conserver le contrôle de l’entité ou l’intérêt de groupe financier pour une période indéterminée, aux conditions qu’il estime indiquées.
-> 1991, ch. 47, art. 498; 2001, ch. 9, art. 426.
+- **(5)** Si la société, au moyen d’un placement provisoire, acquiert le contrôle ou acquiert ou augmente un intérêt de groupe financier dans un cas où l’agrément du surintendant aurait été requis dans le cadre du paragraphe 495(8) si le contrôle avait été acquis ou l’intérêt de groupe financier acquis ou augmenté au titre de l’article 495, le surintendant peut, sur demande, autoriser la société à conserver le contrôle de l’entité ou l’intérêt de groupe financier pour une période indéterminée, aux conditions qu’il estime appropriées.
+> 1991, ch. 47, art. 498; 2001, ch. 9, art. 426; 2007, ch. 6, art. 236.
 
 
 
@@ -10522,11 +10619,12 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **499** 
 
-- **(1)** Par dérogation aux autres dispositions de la présente partie, lorsqu’elle ou une de ses filiales ont consenti un prêt à une entité et que s’est produit un défaut prévu dans l’accord conclu entre la société ou sa filiale et l’entité relativement au prêt et aux autres documents en fixant les modalités, la société peut acquérir, selon le cas :
+- **(1)** Par dérogation aux autres dispositions de la présente partie, lorsqu’elle ou une de ses filiales ont consenti un prêt à une entité et que s’est produit un défaut prévu dans l’accord conclu entre la société ou sa filiale et l’entité relativement au prêt et aux autres documents en fixant les modalités, la société peut acquérir, selon le cas :
 	- **a)** si l’entité est une personne morale, tout ou partie de ses actions;
 	- **b)** si elle est une entité non constituée en personne morale, tout ou partie de ses titres de participation;
 	- **c)** tout ou partie des actions ou des titres de participation des entités qui sont du même groupe — au sens du paragraphe 2(1) — que l’entité en question;
-	- **d)** tout ou partie des actions de la personne morale dont l’activité principale est de détenir des actions ou des titres de participation de l’entité ou des entités de son groupe — au sens du paragraphe 2(1) — , ou des éléments d’actif acquis de ces dernières.
+	- **d)** tout ou partie des actions de la personne morale dont l’activité principale est de détenir des actions ou des titres de participation de l’entité ou des entités de son groupe — au sens du paragraphe 2(1) —, ou des éléments d’actif acquis de ces dernières;
+	- **e)** tout ou partie des titres de participation d’une entité dont l’activité principale consiste à détenir des actions ou des titres de participation de l’entité ou des entités de son groupe ou des éléments d’actif acquis de ces dernières.
 
 **Obligation d’éliminer l’intérêt**
 
@@ -10540,7 +10638,7 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 - **(4)** Le surintendant peut, sur demande, accorder à une société une ou plusieurs prolongations du délai prévu aux paragraphes (2) ou (3) de la durée et aux conditions qu’il estime indiquées.
 
-**Exception : entités contrôlées par un gouvernement étranger**
+**Exception : entités contrôlées par un gouvernement étranger**
 
 - **(5)** Par dérogation aux autres dispositions de la présente partie, lorsqu’elle a consenti un prêt à un gouvernement d’un pays étranger ou à une entité contrôlée par celui-ci, ou qu’elle détient un titre de créance d’un tel gouvernement ou d’une telle entité, et que s’est produit un défaut prévu dans l’accord conclu entre eux relativement au prêt ou au titre de créance et aux autres documents en fixant les modalités, la société peut acquérir tout ou partie des actions ou titres de participation de l’entité ou de toute autre entité désignée par ce gouvernement si l’acquisition fait partie d’un programme de réaménagement de la dette publique du même gouvernement.
 
@@ -10551,7 +10649,7 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 **Exception**
 
 - **(7)** La société qui, dans le cadre du paragraphe (1), acquiert le contrôle d’une entité qu’elle serait par ailleurs autorisée à acquérir en vertu de l’article 495 ou acquiert ou augmente un intérêt de groupe financier qu’elle serait par ailleurs autorisée à acquérir ou augmenter en vertu de cet article peut continuer à détenir le contrôle ou l’intérêt pour une période indéterminée si elle obtient l’agrément écrit du ministre avant l’expiration du délai prévu aux paragraphes (2) ou (3) et prolongé, le cas échéant, aux termes du paragraphe (4).
-> 1991, ch. 47, art. 499; 1997, ch. 15, art. 267; 2001, ch. 9, art. 426.
+> 1991, ch. 47, art. 499; 1997, ch. 15, art. 267; 2001, ch. 9, art. 426; 2007, ch. 6, art. 237.
 
 
 
@@ -10649,14 +10747,14 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 
 
-### Prêts commerciaux et à la consommation : sociétés d’assurances multirisques
+### Prêts commerciaux et à la consommation : sociétés d’assurances multirisques et sociétés d’assurance maritime
 
 
 
 **Limite relative aux prêts commerciaux et à la consommation**
 
-**505** Il est interdit à la société d’assurances multirisques — et celle-ci doit l’interdire à ses filiales réglementaires — soit de consentir ou d’acquérir des prêts commerciaux ou des prêts à des personnes physiques, soit d’acquérir le contrôle d’une entité admissible qui détient de tels prêts lorsque le total de la valeur de tels prêts détenus par elle et ses filiales réglementaires excède — ou excéderait de ce fait — le pourcentage réglementaire de l’actif total de la société.
-> 1991, ch. 47, art. 505; 2001, ch. 9, art. 426.
+**505** Il est interdit à la société d’assurances multirisques ou à la société d’assurance maritime — et celle-ci doit l’interdire à ses filiales réglementaires — soit de consentir ou d’acquérir des prêts commerciaux ou des prêts à des personnes physiques, soit d’acquérir le contrôle d’une entité admissible qui détient de tels prêts lorsque le total de la valeur de tels prêts détenus par elle et ses filiales réglementaires excède — ou excéderait de ce fait — le pourcentage réglementaire de l’actif total de la société.
+> 1991, ch. 47, art. 505; 2001, ch. 9, art. 426; 2007, ch. 6, art. 238.
 
 
 
@@ -10766,7 +10864,7 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **512** 
 
-- **(1)** Il est interdit à la société — et celle-ci doit l’interdire à ses filiales — sans l’agrément du surintendant, d’acquérir des éléments d’actif auprès d’une personne ou de céder des éléments d’actif à une personne si :
+- **(1)** Il est interdit à la société — et celle-ci doit l’interdire à ses filiales — sans l’agrément du surintendant, d’acquérir des éléments d’actif auprès d’une personne ou de céder des éléments d’actif à une personne si :
 ```
 A + B > C
 ```
@@ -10775,33 +10873,37 @@ où :
 - **B** la valeur de tous les éléments d’actif que la société et ses filiales ont acquis auprès de cette personne ou cédés à celle-ci pendant la période de douze mois précédant la date d’acquisition ou de cession;
 - **C** dix pour cent de la valeur totale de l’actif de la société figurant dans le dernier rapport annuel établi avant la date d’acquisition ou de cession.
 
-**Exception**
+**Agrément dans le cadre d’une ou de plusieurs opérations**
 
-- **(2)** L’interdiction prévue au paragraphe (1) ne s’applique toutefois pas :
-	- **a)** aux éléments d’actif qui consistent en titres de créance visés aux sous-alinéas b)(i) à (v) de la définition de « prêt commercial » au paragraphe 490(1);
-	- **b)** aux opérations ou séries d’opérations intervenues entre la société et une autre institution financière à la suite de la participation de la société et de l’institution à la syndication de prêts.
+- **(1.1)** Le surintendant peut, pour l’application du paragraphe (1), agréer une opération ou une série d’opérations liée à l’acquisition ou à la cession d’éléments d’actif pouvant être conclue avec une personne ou avec plusieurs personnes faisant partie d’une catégorie déterminée, qu’elles soient connues ou non au moment de l’octroi de l’agrément.
 
 **Exception**
 
-- **(3)** L’agrément du surintendant n’est pas nécessaire dans l’un ou l’autre des cas suivants :
-	- **a)** la vente des éléments d’actif se fait dans le cadre d’une convention de vente approuvée par le ministre en vertu du paragraphe 254(2);
-	- **b)** la société ou l’une de ses filiales acquièrent les actions ou des titres de participation d’une entité dans un cas où l’agrément du ministre est requis dans le cadre de la partie VII ou du paragraphe 495(7) ou dans un cas où l’agrément du surintendant est requis dans le cadre du paragraphe 495(8);
-	- **c)** l’opération a été approuvée par le ministre dans le cadre du paragraphe 715(1) de la présente loi ou du paragraphe 678(1) de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md).
+- **(2)** Le paragraphe (1) ne s’applique pas :
+	- **a)** aux éléments d’actif qui consistent en titres de créance visés aux sous-alinéas b)(i) à (v) de la définition de ***prêt commercial*** au paragraphe 490(1);
+	- **b)** aux éléments d’actif acquis ou cédés dans le cadre d’une opération ou d’une série d’opérations intervenue entre la société et une autre institution financière à la suite de la participation de la société et de l’institution à la syndication de prêts;
+	- **c)** aux éléments d’actif acquis ou cédés dans le cadre d’une opération approuvée par le ministre ou le surintendant en vertu du paragraphe 254(2) ou (2.01);
+	- **d)** aux actions ou aux titres de participation d’une entité dans un cas où l’agrément du ministre est requis dans le cadre de la partie VII ou du paragraphe 495(7) ou dans un cas où l’agrément du surintendant est requis dans le cadre du paragraphe 495(8);
+	- **e)** aux éléments d’actif acquis ou cédés dans le cadre d’une opération approuvée par le ministre en vertu du paragraphe 715(1) de la présente loi ou du paragraphe 678(1) de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md);
+	- **f)** aux éléments d’actif, autres que des biens immeubles, acquis ou aliénés conformément à des arrangements approuvés par le surintendant dans le cadre du paragraphe 527(3);
+	- **g)** aux éléments d’actif acquis ou aliénés avec l’agrément du surintendant dans le cadre du paragraphe 527(4).
+
+- **(3)** [Abrogé, 2007, ch. 6, art. 239]
 
 **Calcul de la valeur des éléments d’actif**
 
-- **(4)** Pour le calcul de l’élément A de la formule figurant au paragraphe (1), la valeur des éléments d’actif est :
+- **(4)** Pour le calcul de l’élément A de la formule figurant au paragraphe (1), la valeur des éléments d’actif est :
 	- **a)** dans le cas où les éléments sont acquis, leur prix d’achat ou, s’il s’agit d’actions ou de titres de participation d’une entité dont les éléments d’actif figureront au rapport annuel de la société après l’acquisition, la juste valeur marchande de ces éléments d’actif;
-	- **b)** dans le cas où les éléments sont cédés, la valeur comptable des éléments figurant au dernier rapport annuel de la société établi avant la date de cession ou, s’il s’agit d’actions ou de titres de participation d’une entité dont les éléments d’actif figuraient au dernier rapport annuel établi avant la date de cession, la valeur des éléments figurant dans le rapport annuel.
+	- **b)** dans le cas où les éléments sont cédés, la valeur des éléments qui est visée au dernier rapport annuel de la société établi avant la cession ou, si la valeur n’est pas visée à ce rapport, la valeur qui serait visée au dernier rapport si celui-ci avait été établi avant la cession selon les principes comptables visés au paragraphe 331(4).
 
-**Sens de « valeur de tous les éléments d’actif »**
+**Sens de valeur de tous les éléments d’actif**
 
 - **(5)** Pour l’application du paragraphe (1), la valeur de tous les éléments d’actif acquis par une société et ses filiales au cours de la période de douze mois visée au paragraphe (1) est leur prix d’achat ou, s’il s’agit d’actions ou de titres de participation d’une entité dont les éléments d’actif figureront au rapport annuel de la société après l’acquisition, la juste valeur marchande de ces éléments d’actif à la date d’acquisition.
 
-**Sens de « valeur de tous les éléments d’actif »**
+**Valeur de tous les éléments d’actif**
 
-- **(6)** Pour l’application du paragraphe (1), la valeur de tous les éléments d’actif cédés par une société et ses filiales au cours de la période de douze mois visée au paragraphe (1) est la valeur comptable des éléments figurant au dernier rapport annuel de la société établi avant la date de cession ou, s’il s’agit d’actions ou de titres de participation d’une entité dont les éléments d’actif figuraient au dernier rapport annuel établi avant la date de cession, la valeur des éléments de l’entité figurant dans le rapport annuel.
-> 1991, ch. 47, art. 512; 1997, ch. 15, art. 274; 2001, ch. 9, art. 426.
+- **(6)** Pour l’application du paragraphe (1), la valeur de tous les éléments d’actif cédés par une société et ses filiales au cours de la période de douze mois visée au paragraphe (1) est le total de la valeur de chacun de ces éléments qui est visée au dernier rapport annuel de la société établi avant la cession de l’élément ou, si elle n’est pas visée à ce rapport, qui serait visée au dernier rapport, si celui-ci avait été établi avant la cession selon les principes comptables visés au paragraphe 331(4).
+> 1991, ch. 47, art. 512; 1997, ch. 15, art. 274; 2001, ch. 9, art. 426; 2007, ch. 6, art. 239.
 
 
 
@@ -10855,37 +10957,7 @@ cependant, après cette date, le montant du prêt ou du placement qui se trouve 
 
 
 
-
-**Sociétés d’assurances multirisques**
-
-**516** 
-
-- **(1)** La société d’assurances multirisques est tenue, pour son fonctionnement, de se conformer aux règlements relatifs au maintien obligatoire d’éléments d’actif d’une valeur donnée et en conséquence de maintenir des éléments d’actif dont la valeur totale la plus élevée — déterminée selon les principes comptables visés au paragraphe 331(4) ou sur la base de la valeur marchande — est au moins égale au montant obtenu en soustrayant, de la totalité des montants énumérés ci-dessous, le montant calculé selon la formule réglementaire pour les risques contre lesquels la société est réassurée :
-	- **a)** la réserve pour les engagements actuariels ou autres de la société liés aux polices, dont le montant est calculé de la même façon que celui de la réserve mentionnée dans l’état annuel exigé en vertu de l’article 665;
-	- **b)** les autres engagements de la société;
-	- **c)** le montant calculé selon la formule réglementaire dont les éléments comprennent, à l’égard d’une catégorie réglementaire de polices, les postes suivants :
-		- **(i)** la portion non acquise des primes reçues,
-		- **(ii)** la provision pour sinistres réalisés mais non réglés,
-		- **(iii)** le produit des primes reçues au cours de l’année précédente,
-		- **(iv)** les sinistres réalisés au cours de la période réglementaire.
-
-**Règlements et lignes directrices**
-
-- **(2)** Le gouverneur en conseil peut prendre des règlements et le surintendant donner des lignes directrices concernant le maintien par les sociétés d’assurances multirisques d’éléments d’actif d’une valeur donnée.
-
-**Délégation de pouvoirs discrétionnaires**
-
-- **(3)** Les règlements pris aux termes du paragraphe (2) peuvent autoriser le surintendant à procéder par ordonnance pour régler les questions ou exercer les pouvoirs discrétionnaires qu’ils précisent.
-
-**Ordonnance du surintendant**
-
-- **(4)** Même si la société d’assurances multirisques se conforme aux règlements et aux lignes directrices visés au paragraphe (2), le surintendant peut, par ordonnance, lui enjoindre d’augmenter son actif.
-
-**Idem**
-
-- **(5)** La société d’assurances multirisques est tenue de se conformer à toute ordonnance prise aux termes du paragraphe (4) dans le délai que lui fixe le surintendant.
-> 1991, ch. 47, art. 516; 1996, ch. 6, art. 82; 1997, ch. 15, art. 275.
-
+**516** [Abrogé, 2007, ch. 6, art. 240]
 
 
 
@@ -10982,9 +11054,11 @@ cependant, après cette date, le montant du prêt ou du placement qui se trouve 
 
 **Idem**
 
-- **(2)** La présente partie ne s’applique pas :
-	- **a)** aux éléments d’actif d’une caisse séparée maintenue aux termes de l’article 451 si toutes les polices à l’égard desquelles la caisse est maintenue sont détenues par une seule personne ou si toutes les sommes à l’égard desquelles elle est maintenue sont retenues sur instruction d’une seule personne;
-	- **b)** à l’émission par la société d’actions de toute catégorie si celles-ci ont été totalement libérées en numéraire ou si l’émission a été effectuée, selon le cas :
+- **(2)** La présente partie ne s’applique pas :
+	- **a)** aux éléments d’actif d’une caisse séparée maintenue en application de l’article 451 si, selon le cas :
+		- **(i)** toutes les polices à l’égard desquelles la caisse est maintenue sont détenues par une seule personne ou si toutes les sommes à l’égard desquelles elle est maintenue sont retenues sur instruction d’une seule personne;
+		- **(ii)** l’actif de la caisse est composé, dans les mêmes proportions, des valeurs mobilières sur lesquelles se fonde un indice boursier généralement reconnu;
+	- **b)** à l’émission par la société d’actions de toute catégorie si celles-ci ont été totalement libérées en numéraire ou si l’émission a été effectuée, selon le cas :
 		- **(i)** conformément aux dispositions prévoyant la conversion d’autres valeurs mobilières émises et en circulation en actions de cette catégorie,
 		- **(ii)** à titre de dividende,
 		- **(iii)** en échange d’actions d’une personne morale prorogée comme société sous le régime de la partie III,
@@ -10998,41 +11072,47 @@ cependant, après cette date, le montant du prêt ou du placement qui se trouve 
 
 **Exception**
 
-- **(3)** L’alinéa (2)d) n’a pas pour effet de soustraire à l’application de la présente partie la rémunération :
+- **(3)** L’alinéa (2)d) n’a pas pour effet de soustraire à l’application de la présente partie la rémunération :
 	- **a)** pour la prestation de services dans le cas visé à l’alinéa 528(1)a);
 	- **b)** pour les fonctions accomplies en dehors du cadre normal de l’activité commerciale de la société.
 
 **Société mère — exception**
 
-- **(4)** La société mère de la société n’est pas apparentée à celle-ci si la société mère est une institution financière canadienne visée aux alinéas a) à d) de la définition de « institution financière » au paragraphe 2(1).
+- **(4)** La société mère de la société n’est pas apparentée à celle-ci si la société mère est une institution financière canadienne visée aux alinéas a) à d) de la définition de ***institution financière*** au paragraphe 2(1).
 
 **Exception**
 
 - **(5)** Dans les cas où, en raison du paragraphe (4), une société mère n’est pas apparentée à la société, l’entité dans laquelle la société mère a un intérêt de groupe financier n’est pas apparentée à la société si aucun apparenté de la société n’a un intérêt de groupe financier dans l’entité autrement que par l’effet du contrôle de la société mère.
-> 1991, ch. 47, art. 519, ch. 48, art. 495; 1997, ch. 15, art. 278; 2001, ch. 9, art. 428.
+> 1991, ch. 47, art. 519, ch. 48, art. 495; 1997, ch. 15, art. 278; 2001, ch. 9, art. 428; 2007, ch. 6, art. 241.
 
 
 
 
 
-**Sens de « opération »**
+**Sens de opération**
 
 **520** 
 
-- **(1)** Pour l’application de la présente partie, sont assimilés à une opération avec un apparenté :
+- **(1)** Pour l’application de la présente partie, sont assimilés à une opération avec un apparenté :
 	- **a)** la garantie consentie en son nom;
 	- **b)** le placement effectué dans ses valeurs mobilières;
 	- **c)** l’acquisition, notamment par cession, d’un prêt consenti à celui-ci par un tiers;
 	- **d)** la constitution d’une sûreté sur ses valeurs mobilières;
-	- **e)** la réassurance avec un apparenté contre un risque garanti par la société.
+	- **e)** la réassurance avec un apparenté contre des risques acceptés par la société aux termes de ses polices.
 
 **Interprétation**
 
 - **(2)** Pour l’application de la présente partie, l’exécution d’une obligation liée à une opération, y compris le paiement d’intérêts sur un prêt ou un dépôt et le paiement ou l’avance fait aux termes d’une police, fait partie de celle-ci et ne constitue pas une opération distincte.
 
-**Sens de « prêt »**
+**Sens de prêt**
 
 - **(3)** Pour l’application de la présente partie, sont assimilés à un prêt, le dépôt, le crédit-bail, le contrat de vente conditionnelle, la convention de rachat et toute autre entente similaire en vue d’obtenir des fonds ou du crédit, à l’exception du placement dans des valeurs mobilières et de la signature d’une acceptation, d’un endossement ou d’une autre garantie.
+
+**Titre ou valeur mobilière d’un apparenté**
+
+- **(4)** Pour l’application de la présente partie, est assimilée à un titre ou à une valeur mobilière d’un apparenté une option négociable par tradition ou transfert qui permet d’exiger la livraison d’un nombre précis d’actions à un prix et dans un délai déterminés.
+> 1991, ch. 47, art. 520; 2007, ch. 6, art. 242.
+
 
 
 
@@ -11077,18 +11157,28 @@ cependant, après cette date, le montant du prêt ou du placement qui se trouve 
 
 **523** 
 
-- **(1)** La société peut, sous réserve du paragraphe (2) et de la section III de la partie VI, se réassurer avec un apparenté contre les risques qu’elle garantit.
+- **(1)** La société peut, sous réserve du paragraphe (2) et de la section III de la partie VI, se réassurer avec un apparenté contre les risques qu’elle accepte aux termes de ses polices.
 
-**Approbation nécessaire**
+**Restrictions — apparentés**
 
-- **(2)** La société ne peut se réassurer avec un apparenté autre qu’une société ou une société étrangère qu’avec l’approbation du surintendant.
+- **(2)** Sauf approbation du surintendant, la société ne peut faire réassurer les risques acceptés par elle aux termes de ses polices par un de ses apparentés que si celui-ci est :
+	- **a)** soit une société;
+	- **b)** soit une société étrangère, à la condition que celle-ci réassure au Canada ces risques.
+
+**Exception**
+
+- **(3)** L’approbation visée au paragraphe (2) n’est pas requise si l’opération a été approuvée par le ministre ou le surintendant en vertu du paragraphe 254(2) ou (2.01);
+> 1991, ch. 47, art. 523; 2007, ch. 6, art. 243.
+
 
 
 
 
 **Risques d’un apparenté**
 
-**524** La société peut, sous réserve de la section III de la partie VI, réassurer les risques garantis par un apparenté.
+**524** La société peut, sous réserve de la section III de la partie VI, réassurer les risques acceptés par un apparenté.
+> 1991, ch. 47, art. 524; 2007, ch. 6, art. 244(F).
+
 
 
 
@@ -11125,7 +11215,7 @@ cependant, après cette date, le montant du prêt ou du placement qui se trouve 
 
 **Vente d’éléments d’actif**
 
-- **(2)** Sous réserve de l’article 512, la société peut vendre des éléments d’actif à un apparenté dans les cas suivants :
+- **(2)** Sous réserve de l’article 512, la société peut vendre des éléments d’actif à un apparenté dans les cas suivants :
 	- **a)** la contrepartie est entièrement payée en argent;
 	- **b)** il existe pour ces éléments d’actif un marché actif.
 
@@ -11139,9 +11229,15 @@ cependant, après cette date, le montant du prêt ou du placement qui se trouve 
 
 **Location de produits ou locaux**
 
-- **(5)** Si la contrepartie est payée en argent, la société peut :
+- **(5)** Si la contrepartie est payée en argent, la société peut :
 	- **a)** soit prendre à bail d’un apparenté des éléments d’actif qu’elle utilise dans le cadre normal de son activité commerciale;
 	- **b)** soit lui donner à bail des éléments d’actif.
+
+**Approbation : paragraphe 254(2) ou (2.01)**
+
+- **(6)** Une société peut acquérir des éléments d’actif d’un apparenté ou les aliéner en sa faveur dans le cadre d’une opération approuvée par le ministre ou le surintendant en vertu du paragraphe 254(2) ou (2.01).
+> 1991, ch. 47, art. 527; 2007, ch. 6, art. 245.
+
 
 
 
@@ -11150,10 +11246,10 @@ cependant, après cette date, le montant du prêt ou du placement qui se trouve 
 
 **528** 
 
-- **(1)** Est également permise toute opération entre la société et un apparenté qui consiste en :
+- **(1)** Est également permise toute opération entre la société et un apparenté qui consiste en :
 	- **a)** un contrat écrit pour l’achat par elle de services utilisés dans le cadre normal de son activité commerciale, sous réserve du paragraphe (2);
 	- **b)** sous réserve du paragraphe (4), la prestation de service habituellement offerts au public par la société dans le cadre normal de son activité commerciale;
-	- **c)** un contrat écrit avec une institution financière ou une entité dans laquelle elle est autorisée à détenir un intérêt de groupe financier en vertu de l’article 495 en vue :
+	- **c)** un contrat écrit avec une institution financière ou une entité dans laquelle elle est autorisée à détenir un intérêt de groupe financier en vertu de l’article 495 en vue :
 		- **(i)** d’offrir le réseau des services fournis par la société ou l’institution financière ou l’entité,
 		- **(ii)** du renvoi d’une personne soit par la société à l’institution financière ou à l’entité, soit par l’institution financière ou l’entité à la société;
 	- **d)** un contrat écrit en vue de régimes de retraite ou d’autres avantages liés aux fonctions d’administrateur ou à l’emploi des dirigeants et employés de la société et de ses filiales, ainsi que leur gestion ou mise en oeuvre;
@@ -11163,14 +11259,14 @@ cependant, après cette date, le montant du prêt ou du placement qui se trouve 
 
 - **(2)** Si la société a conclu un contrat conformément à l’alinéa (1)a) et que le contrat a pour effet, compte tenu de tous les autres contrats conclus par elle, de confier la totalité ou quasi-totalité des responsabilités de gestion de la société à des personnes qui n’en sont pas des employés, le surintendant peut, par ordonnance, s’il juge la situation inacceptable, enjoindre à la société de prendre, dans le délai et selon les modalités qui y sont prévus, toutes les mesures nécessaires pour que les responsabilités de gestion essentielles au fonctionnement de la société soient assumées par des employés de celle-ci.
 
-**Société de services**
+**Exception**
 
-- **(3)** Par dérogation au paragraphe 521(2), la société est réputée ne pas avoir effectué indirectement une opération visée par la présente partie si l’opération est effectuée par une société de services, au sens du paragraphe 490(1), contrôlée par la société et que l’opération a été effectuée à des conditions au moins aussi favorables pour la société que les conditions du marché au sens du paragraphe 534(2).
+- **(3)** Par dérogation au paragraphe 521(2), la société est réputée ne pas avoir effectué indirectement une opération visée par la présente partie si l’opération est effectuée par une entité qui est contrôlée par la société et dont l’activité commerciale se limite à l’activité visée à l’alinéa 495(2)c), et que l’opération a été effectuée à des conditions au moins aussi favorables pour la société que les conditions du marché au sens du paragraphe 534(2).
 
 **Services**
 
 - **(4)** Pour l’application de l’alinéa (1)b), sont exclues de la prestation de services les opérations de prêt ou de garantie.
-> 1991, ch. 47, art. 528; 1997, ch. 15, art. 279.
+> 1991, ch. 47, art. 528; 1997, ch. 15, art. 279; 2007, ch. 6, art. 246.
 
 
 
@@ -11218,13 +11314,13 @@ cependant, après cette date, le montant du prêt ou du placement qui se trouve 
 
 **528.3** 
 
-- **(1)** Malgré le paragraphe 527(3), il est interdit à la société, sans l’autorisation du surintendant et de son comité de révision, d’acquérir directement ou indirectement des éléments d’actif auprès d’un apparenté avec lequel le paragraphe 528.1(1) l’autorise à effectuer une opération mais qui n’est pas une institution financière fédérale ou de céder directement ou indirectement des éléments d’actif à cet apparenté si :
+- **(1)** Malgré le paragraphe 527(3), il est interdit à la société, sans l’autorisation du surintendant et de son comité de révision, d’acquérir directement ou indirectement des éléments d’actif auprès d’un apparenté avec lequel le paragraphe 528.1(1) l’autorise à effectuer une opération mais qui n’est pas une institution financière fédérale ou de céder directement ou indirectement des éléments d’actif à cet apparenté si :
 ```
 A + B > C
 ```
 où :
 - **A** représente la valeur des éléments d’actif;
-- **B** la valeur de tous les éléments d’actif que la société a acquis auprès de cet apparenté ou cédés à celui-ci pendant la période de douze mois précédant la date d’acquisition ou de cession;
+- **B** la valeur de tous les éléments d’actif que la société a acquis auprès de cet apparenté ou cédés à celui-ci pendant la période de douze mois précédant la date d’acquisition ou de cession, sauf ceux qu’elle a acquis ou qui lui ont été transférés dans le cadre de toute opération visée à l’article 522;
 - **C** cinq pour cent — ou si un autre pourcentage est fixé par règlement, le pourcentage fixé par règlement — de la valeur totale de l’actif de la société figurant dans le dernier rapport annuel établi avant la date d’acquisition ou de cession.
 
 **Exception**
@@ -11233,24 +11329,24 @@ où :
 
 **Exception**
 
-- **(3)** L’agrément du surintendant n’est pas nécessaire dans l’un ou l’autre des cas suivants :
-	- **a)** la vente des éléments d’actif se fait dans le cadre d’une convention de vente approuvée par le ministre en vertu du paragraphe 254(2);
+- **(3)** L’agrément du surintendant n’est pas requis aux termes du présent article dans l’un ou l’autre des cas suivants :
+	- **a)** l’acquisition ou la cession des éléments d’actif se fait dans le cadre d’une opération approuvée par le ministre ou le surintendant en vertu du paragraphe 254(2) ou (2.01);
 	- **b)** la société ou l’une de ses filiales acquièrent les actions ou des titres de participation d’une entité dans un cas où l’agrément du ministre est requis dans le cadre de la partie VII ou du paragraphe 495(7) ou dans un cas où l’agrément du surintendant est requis dans le cadre du paragraphe 495(8).
 
 **Calcul de la valeur des éléments d’actif**
 
-- **(4)** Pour le calcul de l’élément A de la formule figurant au paragraphe (1), la valeur des éléments d’actif est :
+- **(4)** Pour le calcul de l’élément A de la formule figurant au paragraphe (1), la valeur des éléments d’actif est :
 	- **a)** dans le cas où les éléments sont acquis, leur prix d’achat ou, s’il s’agit d’actions ou de titres de participation d’une entité dont les éléments d’actif figureront au rapport annuel de la société après l’acquisition, la juste valeur marchande de ces éléments d’actif;
 	- **b)** dans le cas où les éléments sont cédés, la valeur comptable des éléments figurant au dernier rapport annuel de la société établi avant la date de cession ou, s’il s’agit d’actions ou de titres de participation d’une entité dont les éléments d’actif figuraient au dernier rapport annuel établi avant la date de cession, la valeur des éléments figurant dans le rapport annuel.
 
-**Sens de « valeur de tous les éléments d’actif »**
+**Sens de valeur de tous les éléments d’actif**
 
 - **(5)** Pour l’application du paragraphe (1), la valeur de tous les éléments d’actif acquis par une société et ses filiales au cours de la période de douze mois visée au paragraphe (1) est leur prix d’achat ou, s’il s’agit d’actions ou de titres de participation d’une entité dont les éléments d’actif figureront au rapport annuel de la société après l’acquisition, la juste valeur marchande de ces éléments d’actif à la date d’acquisition.
 
-**Sens de « valeur de tous les éléments d’actif »**
+**Sens de valeur de tous les éléments d’actif**
 
 - **(6)** Pour l’application du paragraphe (1), la valeur de tous les éléments d’actif cédés par une société et ses filiales au cours de la période de douze mois visée au paragraphe (1) est la valeur comptable des éléments figurant au dernier rapport annuel de la société établi avant la date de cession ou, s’il s’agit d’actions ou de titres de participation d’une entité dont les éléments d’actif figuraient au dernier rapport annuel établi avant la date de cession, la valeur des éléments de l’entité figurant dans le rapport annuel.
-> 2001, ch. 9, art. 429.
+> 2001, ch. 9, art. 429; 2007, ch. 6, art. 247.
 
 
 
@@ -11554,7 +11650,7 @@ si l’opération avait pour effet de porter à plus de cinquante pour cent de s
 
 **Virements des caisses séparées**
 
-- **(4)** La société de secours peut, avec l’approbation du surintendant, reverser sur le compte d’origine tout montant, à sa valeur actuelle, dont le virement a été effectué aux termes du paragraphe (3).
+- **(4)** La société de secours peut reverser sur le compte d’origine toute somme, à sa valeur actuelle, dont le virement a été effectué aux termes du paragraphe (3).
 
 **Demandes de règlement sur l’actif de la caisse séparée**
 
@@ -11567,7 +11663,7 @@ si l’opération avait pour effet de porter à plus de cinquante pour cent de s
 **Actif insuffisant**
 
 - **(7)** Si l’actif en question ne suffit pas à régler le montant minimal que la société de secours convient de payer en vertu de la police ou à l’égard de la somme, la créance a, sur le reste de l’actif de la société de secours, le rang mentionné au paragraphe 161(2) de la [Loi sur les liquidations et les restructurations](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-11.md).
-> 1997, ch. 15, art. 285.
+> 1997, ch. 15, art. 285; 2007, ch. 6, art. 248.
 
 
 
@@ -11577,40 +11673,40 @@ si l’opération avait pour effet de porter à plus de cinquante pour cent de s
 
 **542.04** 
 
-- **(1)** Le gouverneur en conseil peut, par règlement, limiter la réassurance par une société de secours contre des risques qu’elle garantit.
+- **(1)** Le gouverneur en conseil peut, par règlement, limiter la réassurance par une société de secours contre des risques qu’elle accepte aux termes de ses polices.
 
 **Délégation de pouvoirs discrétionnaires**
 
 - **(2)** Les règlements pris aux termes du paragraphe (1) peuvent autoriser le surintendant à procéder par ordonnance pour régler les questions ou exercer les pouvoirs discrétionnaires qu’ils précisent.
-> 1997, ch. 15, art. 285.
+> 1997, ch. 15, art. 285; 2007, ch. 6, art. 249.
 
 
 
 
 
-**Restriction : rentes**
+**Restriction : rentes et assurance mixte**
 
-**542.05** La société de secours ne peut conclure des contrats de rente au Canada que si elle est autorisée à garantir des risques dans la branche assurance-vie.
-> 1997, ch. 15, art. 285.
-
-
+**542.05** La société de secours ne peut conclure des contrats de rente ou d’assurance mixte que si elle est autorisée à garantir des risques dans la branche assurance-vie.
+> 1997, ch. 15, art. 285; 2007, ch. 6, art. 250.
 
 
 
-**Hypothèques**
+
+
+**Restrictions : hypothèques**
 
 **542.06** 
 
-- **(1)** Il est interdit à la société de secours de faire garantir par un immeuble résidentiel situé au Canada un prêt consenti au Canada pour l’achat, la rénovation ou l’amélioration de cet immeuble, ou de renouveler un tel prêt, si la somme de celui-ci et du solde impayé de toute hypothèque de rang égal ou supérieur excède soixante-quinze pour cent de la valeur de l’immeuble au moment du prêt.
+- **(1)** Il est interdit à la société de secours de faire garantir par un immeuble résidentiel situé au Canada un prêt consenti au Canada pour l’achat, la rénovation ou l’amélioration de cet immeuble, ou de renouveler un tel prêt, si la somme de celui-ci et du solde impayé de toute hypothèque de rang égal ou supérieur excède quatre-vingts pour cent de la valeur de l’immeuble au moment du prêt.
 
 **Exception**
 
-- **(2)** Le paragraphe (1) ne s’applique pas :
+- **(2)** Le paragraphe (1) ne s’applique pas :
 	- **a)** au prêt consenti ou garanti en vertu de la [Loi nationale sur l’habitation](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-11.md) ou de toute autre loi fédérale aux termes de laquelle est fixée une limite différente sur la valeur de l’immeuble qui constitue l’objet de la garantie;
 	- **b)** au prêt dont le remboursement, en ce qui touche le montant excédant le plafond fixé au paragraphe (1), est garanti ou assuré par un organisme gouvernemental ou par un assureur privé agréés par le surintendant;
 	- **c)** à l’acquisition par la société de secours de valeurs mobilières émises ou garanties par une entité et qui confèrent une sûreté sur un immeuble résidentiel soit en faveur d’un fiduciaire soit de toute autre manière, ni aux prêts consentis par la société de secours à l’entité en contrepartie de l’émission des valeurs mobilières en question;
 	- **d)** au prêt garanti par une hypothèque consentie à la société de secours en garantie du prix de vente d’un bien qu’elle aliène, y compris par suite de l’exercice d’un droit hypothécaire.
-> 1997, ch. 15, art. 285.
+> 1997, ch. 15, art. 285; 2007, ch. 6, art. 251.
 
 
 
@@ -11898,7 +11994,15 @@ si l’opération avait pour effet de porter à plus de cinquante pour cent de s
 **Exception : fait involontaire**
 
 - **(4)** La société de secours est réputée ne pas contrevenir au paragraphe (1) quand elle acquiert le contrôle d’une entité ou acquiert ou augmente un intérêt de groupe financier dans une entité en raison uniquement d’un événement dont elle n’est pas maître.
-> 1991, ch. 47, art. 552; 1997, ch. 15, art. 290; 1999, ch. 31, art. 144; 2001, ch. 9, art. 437.
+
+**Application d’une autre disposition**
+
+- **(5)** Malgré l’acquisition par elle du contrôle d’une entité ou d’un intérêt de groupe financier dans une entité au titre d’une disposition de la présente partie, la société de secours peut continuer à contrôler l’entité ou à détenir l’intérêt de groupe financier comme si elle avait procédé à l’acquisition au titre d’une autre disposition de la présente partie, pourvu que les conditions prévues par cette autre disposition soient respectées.
+
+**Assimilation**
+
+- **(6)** Si elle décide d’exercer le pouvoir prévu au paragraphe (5), la société de secours est réputée acquérir le contrôle ou l’intérêt de groupe financier au titre de l’autre disposition.
+> 1991, ch. 47, art. 552; 1997, ch. 15, art. 290; 1999, ch. 31, art. 144; 2001, ch. 9, art. 437; 2007, ch. 6, art. 252.
 
 
 
@@ -11924,45 +12028,55 @@ si l’opération avait pour effet de porter à plus de cinquante pour cent de s
 
 **554** 
 
-- **(1)** Sous réserve des paragraphes (4) et (5), la société de secours peut acquérir le contrôle des entités suivantes ou acquérir ou augmenter un intérêt de groupe financier dans ces entités :
+- **(1)** Sous réserve des paragraphes (4) et (5), la société de secours peut acquérir le contrôle des entités suivantes ou acquérir ou augmenter un intérêt de groupe financier dans ces entités :
 	- **a)** une société ou société de secours;
 	- **b)** une société d’assurances constituée en personne morale ou formée sous le régime d’une loi provinciale;
-	- **c)** une entité qui est constituée ou formée et réglementée autrement que sous le régime d’une loi fédérale ou provinciale et qui exerce principalement, à l’étranger, des activités qui, au Canada, seraient l’assurance.
+	- **c)** une entité qui est constituée ou formée et réglementée autrement que sous le régime d’une loi fédérale ou provinciale et qui exerce principalement, à l’étranger, des activités commerciales qui, au Canada, seraient des opérations d’assurance.
 
 **Placements autorisés**
 
-- **(2)** Sous réserve des paragraphes (3) à (5), la société de secours peut acquérir le contrôle d’une entité, autre qu’une entité visée aux alinéas (1)a) à c), dont l’activité commerciale se limite à une ou plusieurs des activités suivantes ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité :
+- **(2)** Sous réserve des paragraphes (3) à (5), la société de secours peut acquérir le contrôle d’une entité, autre qu’une entité visée aux alinéas (1)a) à c), dont l’activité commerciale se limite à une ou plusieurs des activités suivantes ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité :
 	- **a)** la prestation de services financiers ou toute autre activité qu’une société d’assurances multirisques est autorisée à exercer dans le cadre du paragraphe 440(2) ou des articles 441 ou 442, à l’exception de l’alinéa 441(1)h);
 	- **b)** la détention et l’acquisition d’actions ou d’autres titres de participation dans des entités dans lesquelles une société de secours est autorisée, dans le cadre de la présente partie, à acquérir ou détenir de tels actions ou titres;
-	- **c)** la prestation de services aux seules entités suivantes — à la condition qu’ils soient aussi fournis à la société de secours elle-même ou à un membre de son groupe :
+	- **c)** la prestation de services aux seules entités suivantes — à la condition qu’ils soient aussi fournis à la société de secours elle-même ou à un membre de son groupe :
 		- **(i)** la société de secours elle-même,
 		- **(ii)** un membre de son groupe,
 		- **(iii)** une entité dont l’activité commerciale principale consiste en la prestation de services financiers,
 		- **(iv)** une entité admissible dans laquelle une entité visée au sous-alinéa (iii) a un intérêt de groupe financier,
 		- **(v)** une personne visée par règlement — pourvu que la prestation se fasse selon les modalités éventuellement fixées par règlement;
-	- **d)** toute activité qu’une société de secours peut exercer, autre qu’une activité visée aux alinéas a) ou e), se rapportant :
+	- **d)** toute activité qu’une société de secours peut exercer, autre qu’une activité visée aux alinéas a) ou e), se rapportant :
 		- **(i)** soit à la vente, la promotion, la livraison ou la distribution d’un service ou d’un produit financiers fournis par la société de secours ou un membre de son groupe,
 		- **(ii)** soit, si l’activité commerciale de l’entité consiste, en grande partie, en une activité visée au sous-alinéa (i), à la vente, la promotion, la livraison ou la distribution d’un service ou d’un produit financiers d’une entité dont l’activité commerciale principale consiste en la prestation de services financiers;
-	- **e)** les activités visées aux définitions de « entité s’occupant de fonds mutuels » ou « courtier de fonds mutuels » au paragraphe 490(1);
+	- **e)** les activités visées aux définitions de ***courtier de fonds mutuels***, ***entité s’occupant de fonds mutuels*** ou ***fonds d’investissement à capital fixe*** au paragraphe 490(1);
 	- **f)** les activités prévues par règlement, pourvu qu’elles s’exercent selon les modalités éventuellement fixées par règlement.
 
 **Restriction**
 
-- **(3)** La société de secours ne peut acquérir le contrôle d’une entité dont l’activité commerciale comporte une activité visée aux alinéas (2)a) à e), ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité, si l’entité accepte des dépôts dans le cadre de son activité commerciale ou si les activités de l’entité comportent :
+- **(3)** La société de secours ne peut acquérir le contrôle d’une entité dont l’activité commerciale comporte une activité visée aux alinéas (2)a) à e), ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité, si l’entité accepte des dépôts dans le cadre de son activité commerciale ou si les activités de l’entité comportent :
 	- **a)** des activités qu’une société d’assurances multirisques est empêchée d’exercer par les articles 466, 469 ou 478;
 	- **b)** toute activité d’intermédiaire financier comportant des risques importants de crédit ou de marché, notamment celle d’une entité s’occupant d’affacturage, d’une entité s’occupant de crédit-bail ou d’une entité s’occupant de financement;
 	- **b.1)** des activités d’une entité s’occupant de financement spécial;
 	- **c)** le commerce des valeurs mobilières, sauf dans la mesure où elle peut le faire dans le cadre de l’alinéa (2)e) ou une société peut le faire dans le cadre de l’alinéa 440(2)b);
-	- **d)** l’acquisition du contrôle d’une autre entité, ou l’acquisition ou la détention d’un intérêt de groupe financier dans celle-ci, sauf si :
+	- **d)** l’acquisition du contrôle d’une autre entité, ou l’acquisition ou la détention d’un intérêt de groupe financier dans celle-ci, sauf si :
 		- **(i)** dans le cas où l’entité est contrôlée par la société de secours, l’acquisition par la société de secours elle-même d’un intérêt de groupe financier dans l’autre entité serait permise aux termes de la présente partie,
 		- **(ii)** dans le cas où l’entité n’est pas contrôlée par la société de secours, l’acquisition par la société de secours elle-même d’un intérêt de groupe financier dans l’autre entité serait permise aux termes des paragraphes (1) ou (2) ou 552(2) ou des alinéas 552(3)b) ou c);
 	- **e)** des activités prévues par règlement.
 
+**Exception**
+
+- **(3.1)** Malgré l’alinéa (3)a), la société de secours peut acquérir le contrôle d’une entité qui exerce des activités de fiduciaire et y est autorisée par les lois d’une province ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité si celle-ci est, selon le cas :
+	- **a)** un fonds d’investissement à capital fixe;
+	- **b)** une entité s’occupant de fonds mutuels;
+	- **c)** une entité dont l’activité commerciale est limitée à l’une ou l’autre des activités suivantes :
+		- **(i)** les activités d’un courtier de fonds mutuels,
+		- **(ii)** les services qu’une société est autorisée à fournir dans le cadre du paragraphe 441(1.1),
+		- **(iii)** la prestation de services de conseil en placement et de gestion de portefeuille.
+
 **Contrôle**
 
-- **(4)** Sous réserve du paragraphe (6) et des règlements, les règles suivantes s’appliquent à l’acquisition par la société de secours du contrôle des entités suivantes et à l’acquisition ou à l’augmentation par elle d’un intérêt de groupe financier dans ces entités :
+- **(4)** Sous réserve du paragraphe (6) et des règlements, les règles suivantes s’appliquent à l’acquisition par la société de secours du contrôle des entités suivantes et à l’acquisition ou à l’augmentation par elle d’un intérêt de groupe financier dans ces entités :
 	- **a)** s’agissant d’une entité visée à l’un des alinéas (1)a) à c), elle ne peut le faire que si elle la contrôle ou en acquiert de la sorte le contrôle, au sens de l’alinéa 3(1)d);
-	- **b)** s’agissant d’une entité qui exerce une activité visée à l’alinéa (2)b), elle ne peut le faire que si :
+	- **b)** s’agissant d’une entité dont l’activité commerciale comporte une activité visée à l’alinéa (2)b), elle ne peut le faire que si :
 		- **(i)** soit elle la contrôle ou en acquiert de la sorte le contrôle, au sens de l’alinéa 3(1)d),
 		- **(ii)** soit, sous réserve des modalités éventuellement fixées par règlement, les activités de l’entité ne comportent pas l’acquisition ou la détention du contrôle d’une entité visée à l’alinéa a) ou d’une entité qui n’est pas une entité admissible, ni d’actions ou de titres de participation dans celle-ci.
 
@@ -11984,10 +12098,10 @@ si l’opération avait pour effet de porter à plus de cinquante pour cent de s
 
 **Règlements**
 
-- **(9)** Le gouverneur en conseil peut, par règlement :
+- **(9)** Le gouverneur en conseil peut, par règlement :
 	- **a)** pour l’application du paragraphe (4), autoriser l’acquisition du contrôle ou l’acquisition ou l’augmentation des intérêts de groupe financier, ou préciser les circonstances dans lesquelles ce paragraphe ne s’applique pas ou préciser les sociétés de secours ou autres entités, notamment selon les activités qu’elles exercent, auxquelles ce paragraphe ne s’applique pas;
 	- **b)** pour l’application du paragraphe (5), autoriser l’acquisition du contrôle ou l’acquisition ou l’augmentation des intérêts de groupe financier, ou préciser les circonstances dans lesquelles ce paragraphe ne s’applique pas ou préciser les sociétés de secours ou autres entités, notamment selon les activités qu’elles exercent, auxquelles ce paragraphe ne s’applique pas.
-> 1991, ch. 47, art. 554; 1997, ch. 15, art. 291; 2001, ch. 9, art. 437.
+> 1991, ch. 47, art. 554; 1997, ch. 15, art. 291; 2001, ch. 9, art. 437; 2007, ch. 6, art. 253 et 336(F).
 
 
 
@@ -12047,10 +12161,10 @@ si l’opération avait pour effet de porter à plus de cinquante pour cent de s
 
 **Placement provisoire**
 
-- **(4)** La société de secours qui, au moyen d’un placement provisoire, acquiert le contrôle ou acquiert ou augmente un intérêt de groupe financier dans un cas où l’agrément du ministre est requis dans le cadre du paragraphe 554(5) doit, dans les quatre-vingt-dix jours qui suivent l’acquisition :
-	- **a)** soit demander l’agrément du ministre pour continuer à détenir le contrôle ou l’intérêt pour la période précisée par le ministre ou pour une période indéterminée, aux conditions que celui-ci estime indiquées;
-	- **b)** soit prendre les mesures nécessaires pour que l’intérêt soit éliminé à l’expiration des quatre-vingt-dix jours.
-> 1991, ch. 47, art. 557; 2001, ch. 9, art. 437.
+- **(4)** La société de secours qui, au moyen d’un placement provisoire, acquiert le contrôle ou acquiert ou augmente un intérêt de groupe financier dans un cas où l’agrément du ministre aurait été requis dans le cadre du paragraphe 554(5) si le contrôle avait été acquis ou l’intérêt de groupe financier acquis ou augmenté au titre de l’article 554 doit, dans les quatre-vingt-dix jours qui suivent l’acquisition :
+	- **a)** soit demander l’agrément du ministre pour continuer à détenir le contrôle ou l’intérêt pour la période précisée par le ministre ou pour une période indéterminée, aux conditions que celui-ci estime appropriées;
+	- **b)** soit prendre les mesures nécessaires pour éliminer le contrôle ou ne plus détenir un intérêt de groupe financier à l’expiration des quatre-vingt-dix jours.
+> 1991, ch. 47, art. 557; 2001, ch. 9, art. 437; 2007, ch. 6, art. 254.
 
 
 
@@ -12261,7 +12375,7 @@ si l’opération avait pour effet de porter à plus de cinquante pour cent de s
 
 **569** 
 
-- **(1)** Il est interdit à la société de secours — et celle-ci doit l’interdire à ses filiales — sans l’agrément du surintendant, d’acquérir des éléments d’actif auprès d’une personne ou de céder des éléments d’actif à une personne si :
+- **(1)** Il est interdit à la société de secours — et celle-ci doit l’interdire à ses filiales — sans l’agrément du surintendant, d’acquérir des éléments d’actif auprès d’une personne ou de céder des éléments d’actif à une personne si :
 ```
 A + B > C
 ```
@@ -12270,32 +12384,36 @@ où :
 - **B** la valeur de tous les éléments d’actif que la société de secours et ses filiales ont acquis auprès de cette personne ou cédés à celle-ci pendant la période de douze mois précédant la date d’acquisition ou de cession;
 - **C** dix pour cent de la valeur totale de l’actif de la société de secours figurant dans le dernier rapport annuel établi avant la date d’acquisition ou de cession.
 
+**Agrément dans le cadre d’une ou de plusieurs opérations**
+
+- **(1.1)** Le surintendant peut, pour l’application du paragraphe (1), agréer une opération ou une série d’opérations liée à l’acquisition ou à la cession d’éléments d’actif pouvant être conclue avec une personne ou avec plusieurs personnes faisant partie d’une catégorie déterminée, qu’elles soient connues ou non au moment de l’octroi de l’agrément.
+
 **Exception**
 
-- **(2)** L’interdiction prévue au paragraphe (1) ne s’applique toutefois pas :
-	- **a)** aux éléments d’actif qui consistent en titres de créance visés aux sous-alinéas b)(i) à (v) de la définition de « prêt commercial » au paragraphe 490(1);
+- **(2)** Le paragraphe (1) ne s’applique pas :
+	- **a)** aux éléments d’actif qui consistent en titres de créance visés aux sous-alinéas b)(i) à (v) de la définition de ***prêt commercial*** au paragraphe 490(1);
 	- **b)** aux opérations ou séries d’opérations intervenues entre la société de secours et une autre institution financière à la suite de la participation de la société de secours et de l’institution à la syndication de prêts.
 
 **Exception**
 
-- **(3)** L’agrément du surintendant n’est pas nécessaire dans l’un ou l’autre des cas suivants :
-	- **a)** la vente des éléments d’actif se fait dans le cadre d’une convention de vente approuvée par le ministre en vertu du paragraphe 254(2);
+- **(3)** L’agrément du surintendant n’est pas requis aux termes du présent article dans l’un ou l’autre des cas suivants :
+	- **a)** la vente ou la cession des éléments d’actif se fait dans le cadre d’une opération approuvée par le ministre ou le surintendant en vertu du paragraphe 254(2) ou (2.01);
 	- **b)** la société de secours ou l’une de ses filiales acquièrent les actions ou des titres de participation d’une entité dans un cas où l’agrément du ministre est requis dans le cadre de la partie VII ou du paragraphe 554(5).
 
 **Calcul de la valeur des éléments d’actif**
 
-- **(4)** Pour le calcul de l’élément A de la formule figurant au paragraphe (1), la valeur des éléments d’actif est :
+- **(4)** Pour le calcul de l’élément A de la formule figurant au paragraphe (1), la valeur des éléments d’actif est :
 	- **a)** dans le cas où les éléments sont acquis, leur prix d’achat ou, s’il s’agit d’actions ou de titres de participation d’une entité dont les éléments d’actif figureront au rapport annuel de la société de secours après l’acquisition, la juste valeur marchande de ces éléments d’actif;
-	- **b)** dans le cas où les éléments sont cédés, la valeur comptable des éléments figurant au dernier rapport annuel de la société de secours établi avant la date de cession ou, s’il s’agit d’actions ou de titres de participation d’une entité dont les éléments d’actif figuraient au dernier rapport annuel établi avant la date de cession, la valeur des éléments figurant dans le rapport annuel.
+	- **b)** dans le cas où les éléments sont cédés, la valeur des éléments qui est visée au dernier rapport annuel de la société de secours établi avant la cession ou, si la valeur n’est pas visée à ce rapport, la valeur qui serait visée au dernier rapport si celui-ci avait été établi avant la cession selon les principes comptables visés au paragraphe 331(4).
 
-**Sens de « valeur de tous les éléments d’actif »**
+**Sens de valeur de tous les éléments d’actif**
 
 - **(5)** Pour l’application du paragraphe (1), la valeur de tous les éléments d’actif acquis par une société de secours et ses filiales au cours de la période de douze mois visée au paragraphe (1) est leur prix d’achat ou, s’il s’agit d’actions ou de titres de participation d’une entité dont les éléments d’actif figureront au rapport annuel de la société de secours après l’acquisition, la juste valeur marchande de ces éléments d’actif à la date d’acquisition.
 
-**Sens de « valeur de tous les éléments d’actif »**
+**Valeur de tous les éléments d’actif**
 
-- **(6)** Pour l’application du paragraphe (1), la valeur de tous les éléments d’actif cédés par une société de secours et ses filiales au cours de la période de douze mois visée au paragraphe (1) est la valeur comptable des éléments figurant au dernier rapport annuel de la société de secours établi avant la date de cession ou, s’il s’agit d’actions ou de titres de participation d’une entité dont les éléments d’actif figuraient au dernier rapport annuel établi avant la date de cession, la valeur des éléments de l’entité figurant dans le rapport annuel.
-> 1991, ch. 47, art. 569; 2001, ch. 9, art. 440.
+- **(6)** Pour l’application du paragraphe (1), la valeur de tous les éléments d’actif cédés par une société de secours et ses filiales au cours de la période de douze mois visée au paragraphe (1) est le total de la valeur de chacun de ces éléments qui est visée au dernier rapport annuel de la société de secours établi avant la cession de l’élément ou, si elle n’est pas visée à ce rapport, qui serait visée au dernier rapport, si celui-ci avait été établi avant la cession selon les principes comptables visés au paragraphe 331(4).
+> 1991, ch. 47, art. 569; 2001, ch. 9, art. 440; 2007, ch. 6, art. 255.
 
 
 
@@ -12849,22 +12967,26 @@ Le cas échéant, tout membre ou fondateur peut demander au tribunal d’imposer
 
 **571** Les définitions qui suivent s’appliquent à la présente partie.
 
-***agence principale*** Le bureau principal de la société étrangère au Canada.
+***agence principale*** Le bureau principal de la société étrangère au Canada. (*chief agency*)
 
-***agent principal*** L’individu nommé en vertu du paragraphe 579(3) et désigné comme tel dans la procuration mentionnée à l’alinéa 579(1)b).
+***agent principal*** L’individu nommé en vertu du paragraphe 579(3) et désigné comme tel dans la procuration mentionnée à l’alinéa 579(1)b). (*chief agent*)
 
-***association*** Association de personnes formée en pays étranger suivant le plan connu sous le nom de Lloyd’s et d’après lequel chaque membre qui participe à une police devient responsable pour une part définie, limitée ou proportionnelle de la totalité de la somme payable aux termes de la police.
+***association*** Association de personnes formée en pays étranger suivant le plan connu sous le nom de Lloyd’s et d’après lequel chaque membre qui participe à une police devient responsable pour une part définie, limitée ou proportionnelle de la totalité de la somme payable aux termes de la police. (*association*)
 
-***groupe d’échange*** Groupe de personnes formé en pays étranger en vue d’échanger entre elles des contrats réciproques d’indemnité ou d’interassurance par l’entremise du même fondé de pouvoir, lorsque le bureau principal du groupe est en pays étranger.
+***entité étrangère*** Entité constituée en personne morale ou formée sous le régime de la législation d’un pays étranger. Est également visée par la présente définition une association et un groupe d’échange. (*foreign entity*)
 
-***société d’assurances multirisques étrangère*** Société étrangère autre qu’une société d’assurance-vie étrangère.
+***groupe d’échange*** Groupe de personnes formé en pays étranger en vue d’échanger entre elles des contrats réciproques d’indemnité ou d’interassurance par l’entremise du même fondé de pouvoir, lorsque le bureau principal du groupe est en pays étranger. (*exchange*)
 
-***société d’assurance-vie étrangère*** Société étrangère agréée par le surintendant pour garantir au Canada des risques dans la branche assurance-vie.
+***société d’assurance maritime étrangère*** Société autorisée à garantir uniquement des risques dans la branche assurance maritime. (*foreign marine company*)
+
+***société d’assurances multirisques étrangère*** Société étrangère autre qu’une société d’assurance-vie étrangère ou qu’une société d’assurance maritime étrangère. (*foreign property and casualty company*)
+
+***société d’assurance-vie étrangère*** Société étrangère autorisée à garantir des risques dans la branche assurance-vie. (*foreign life company*)
 
 ***société de secours***[Abrogée, 1997, ch. 15, art. 299]
 
-***société de secours étrangère*** Société de secours mutuel constituée ailleurs qu’au Canada.
-> 1991, ch. 47, art. 571; 1996, ch. 6, art. 83.1; 1997, ch. 15, art. 299.
+***société de secours étrangère*** Société de secours mutuel constituée ailleurs qu’au Canada. (*foreign fraternal benefit society*)
+> 1991, ch. 47, art. 571; 1996, ch. 6, art. 83.1; 1997, ch. 15, art. 299; 2007, ch. 6, art. 256.
 
 
 
@@ -12894,32 +13016,32 @@ Le cas échéant, tout membre ou fondateur peut demander au tribunal d’imposer
 
 
 
-### Garantie de risques au Canada
+### Garantie de risques
 
 
 
-**Ordonnance d’autorisation**
+**Restriction : garantie des risques sans autorisation**
 
 **573** 
 
-- **(1)** La personne morale constituée ailleurs qu’au Canada, notamment une association et un groupe d’échange, ne peut, au Canada, garantir des risques sans obtenir l’agrément délivré par ordonnance du surintendant.
+- **(1)** Une entité étrangère ne peut garantir au Canada des risques sans obtenir l’agrément délivré par ordonnance en vertu du paragraphe 574(1).
 
-**Restrictions**
+**Restrictions : risques ne correspondant pas aux branches d’assurance précisées**
 
-- **(2)** Il est interdit à la société étrangère de garantir au Canada des risques ne correspondant pas aux branches d’assurance précisées dans son ordonnance d’agrément.
+- **(2)** Il est interdit à la société étrangère de garantir au Canada des risques ne correspondant pas aux branches d’assurance précisées dans l’ordonnance prévue au paragraphe (1).
 
-**Restriction : rentes**
+**Restriction : rentes et assurance mixte**
 
-- **(3)** Sauf autorisation de garantir au Canada des risques dans la branche assurance-vie, il est interdit à la société étrangère de conclure, au Canada, des contrats de rente.
+- **(3)** Sauf autorisation de garantir au Canada des risques dans la branche assurance-vie, il est interdit à la société étrangère de conclure, au Canada, des contrats de rente ou d’assurance mixte.
 
 **Maintien des restrictions**
 
-- **(4)** Sont assimilés à un agrément de durée indéterminée et assorti de l’autorisation prévue au paragraphe (1) le certificat d’enregistrement délivré à une personne morale constituée ailleurs qu’au Canada, notamment une association et un échange, au titre de la Loi sur les compagnies d’assurance étrangères ou de la partie VIII de la Loi sur les companies d’assurance canadiennes et britanniques ou une autre autorisation de fonctionnement qui ne sont pas encore expirés ou n’ont pas fait l’objet d’un retrait avant l’entrée en vigueur de la présente partie; les conditions et restrictions qui y sont énoncées demeurent en vigueur.
+- **(4)** Sont assimilés à un agrément prévu au paragraphe 574(1) le certificat d’enregistrement délivré à une entité étrangère au titre de la Loi sur les compagnies d’assurance étrangères ou de la partie VIII de la Loi sur les compagnies d’assurance canadiennes et britanniques ou une autre autorisation de fonctionnement qui ne sont pas encore expirés ou n’ont pas fait l’objet d’un retrait avant le 1<sup>er</sup> juin 1992; les conditions et restrictions qui y sont énoncées demeurent en vigueur.
 
 **Maintien des branches d’assurance**
 
-- **(5)** La branche d’assurance énoncée dans le certificat d’enregistrement ou l’autre autorisation de fonctionnement visés au paragraphe (4) est réputée énoncée dans l’agrément autorisant la société étrangère à garantir des risques au Canada.
-> 1991, ch. 47, art. 573; 1997, ch. 15, art. 300(F).
+- **(5)** La branche d’assurance énoncée dans le certificat d’enregistrement ou l’autre autorisation de fonctionnement visés au paragraphe (4) est réputée être énoncée dans l’agrément autorisant la société étrangère à garantir au Canada des risques.
+> 1991, ch. 47, art. 573; 1997, ch. 15, art. 300(F); 2007, ch. 6, art. 259.
 
 
 
@@ -12929,14 +13051,12 @@ Le cas échéant, tout membre ou fondateur peut demander au tribunal d’imposer
 
 **574** 
 
-- **(1)** Sous réserve des autres dispositions de la présente partie, le surintendant peut, avec l’approbation du ministre, délivrer l’agrément autorisant la personne morale constituée ailleurs qu’au Canada, notamment l’association et le groupe d’échange, qui lui en fait la demande, à garantir des risques au Canada.
+- **(1)** Sous réserve des autres dispositions de la présente partie, le surintendant peut, avec l’approbation du ministre, délivrer par ordonnance l’agrément autorisant l’entité étrangère qui lui en fait la demande à garantir au Canada des risques.
 
 **Traitement national**
 
-- **(2)** Le ministre ne donne son approbation que s’il est convaincu que :
-	- **a)** d’une part, l’activité de la personne morale sera bénéfique pour le système financier canadien;
-	- **b)** d’autre part, dans les cas où la demande est faite par une personne morale qui n’est pas constituée au Canada et qui n’est pas contrôlée par un résident d’un membre de l’OMC, les sociétés régies par la présente loi bénéficient ou bénéficieront d’un traitement aussi favorable sur le territoire où la personne morale exerce principalement son activité, directement ou par l’intermédiaire d’une filiale.
-> 1991, ch. 47, art. 574; 1999, ch. 28, art. 125. .
+- **(2)** Dans le cas où la demande est faite par une entité étrangère qui n’est pas contrôlée par un résident d’un membre de l’OMC, le ministre ne donne son approbation que s’il est convaincu que les sociétés régies par la présente loi bénéficient ou bénéficieront d’un traitement aussi favorable sur le territoire où l’entité étrangère exerce principalement son activité, directement ou par l’intermédiaire d’une filiale.
+> 1991, ch. 47, art. 574; 1999, ch. 28, art. 125. ; 2007, ch. 6, art. 260.
 
 
 
@@ -12946,8 +13066,8 @@ Le cas échéant, tout membre ou fondateur peut demander au tribunal d’imposer
 
 **575** 
 
-- **(1)** Ne peut être délivré l’agrément autorisant une personne morale à garantir des risques au Canada sous une raison sociale :
-	- **a)** identique à une dénomination sociale dont une loi fédérale interdit l’utilisation;
+- **(1)** L’ordonnance prévue au paragraphe 574(1) ne peut autoriser l’utilisation d’une raison sociale :
+	- **a)** qui est identique à une dénomination sociale dont une loi fédérale interdit l’utilisation;
 	- **b)** qui, selon le surintendant, est fausse ou trompeuse;
 	- **c)** qui est identique à la marque de commerce, au nom commercial ou à la dénomination sociale d’une personne morale existants ou qui, selon le surintendant, est à peu près identique à ceux-ci ou leur est similaire au point de prêter à confusion, sauf si, d’une part, la dénomination, la marque ou le nom est en voie d’être changé ou la personne morale est en cours de dissolution et, d’autre part, le consentement de celle-ci à cet égard lui est signifié selon les modalités qu’il peut exiger;
 	- **d)** qui est identique au nom sous lequel une entité exerce son activité ou est connue, ou qui, selon le surintendant, est à peu près identique à celui-ci ou lui est similaire au point de prêter à confusion avec ce nom;
@@ -12955,12 +13075,12 @@ Le cas échéant, tout membre ou fondateur peut demander au tribunal d’imposer
 
 **Société faisant partie d’un groupe**
 
-- **(2)** Par dérogation au paragraphe (1), la société étrangère qui est du même groupe qu’une autre entité, au sens du paragraphe 6(2), peut, une fois obtenu le consentement de celle-ci, être agréée sous une raison sociale identique ou à peu près identique à la dénomination sociale de l’entité.
+- **(2)** Par dérogation au paragraphe (1), l’entité étrangère qui est du même groupe qu’une autre entité, au sens du paragraphe 6(2), peut, une fois obtenu le consentement de celle-ci, être agréée en vertu du paragraphe 574(1) sous une raison sociale identique ou à peu près identique à la dénomination sociale de l’entité.
 
-**Représentation auprès du ministre**
+**Représentation auprès du surintendant**
 
-- **(3)** S’il ne délivre pas l’agrément, pour l’un des motifs énoncés au paragraphe (1), le surintendant, par avis écrit en ce sens, fournit à la personne morale ayant présenté la demande et à toute autre partie intéressée l’occasion de faire des représentations à cet égard.
-> 1991, ch. 47, art. 575; 1996, ch. 6, art. 84; 1997, ch. 15, art. 301.
+- **(3)** S’il ne délivre pas l’agrément pour l’un des motifs énoncés au paragraphe (1), le surintendant, par avis écrit en ce sens, fournit à l’entité étrangère ayant présenté la demande et à toute autre partie intéressée l’occasion de présenter des observations à cet égard.
+> 1991, ch. 47, art. 575; 1996, ch. 6, art. 84; 1997, ch. 15, art. 301; 2007, ch. 6, art. 260.
 
 
 
@@ -12972,10 +13092,8 @@ Le cas échéant, tout membre ou fondateur peut demander au tribunal d’imposer
 
 - **(1)** Sous réserve du paragraphe 575(1), le surintendant peut, sur demande de la société étrangère, approuver toute proposition visant à changer la raison sociale sous laquelle celle-ci garantit des risques.
 
-**Préavis**
-
-- **(2)** La société étrangère doit, avant de présenter au surintendant toute demande de changement de raison sociale, en faire publier un préavis à cet effet dans la Gazette du Canada au moins une fois par semaine pendant quatre semaines consécutives, ainsi que dans un journal à grand tirage paraissant au lieu où est située son agence principale ou dans les environs.
-> 1991, ch. 47, art. 576; 1996, ch. 6, art. 84.
+- **(2)** [Abrogé, 2007, ch. 6, art. 261]
+> 1991, ch. 47, art. 576; 1996, ch. 6, art. 84; 2007, ch. 6, art. 261.
 
 
 
@@ -12985,12 +13103,12 @@ Le cas échéant, tout membre ou fondateur peut demander au tribunal d’imposer
 
 **577** 
 
-- **(1)** Le surintendant peut, par ordonnance, forcer la société étrangère qui, notamment par inadvertance, a reçu une raison sociale interdite par l’article 575 à la modifier sans délai.
+- **(1)** Le surintendant peut, par ordonnance, forcer la société étrangère qui, même par inadvertance, a été autorisée par une ordonnance prévue au paragraphe 574(1) à garantir des risques sous une raison sociale interdite par l’article 575, à modifier celle-ci sans délai.
 
 **Invalidation**
 
 - **(2)** Le surintendant peut invalider la raison sociale de la société étrangère qui ne se conforme pas à l’ordonnance dans les soixante jours qui suivent sa signification et lui attribuer une raison sociale qui constituera, tant qu’elle ne sera pas modifiée conformément au paragraphe 576(1), la raison sociale sous laquelle elle garantit des risques.
-> 1991, ch. 47, art. 577; 1996, ch. 6, art. 84.
+> 1991, ch. 47, art. 577; 1996, ch. 6, art. 84; 2007, ch. 6, art. 262.
 
 
 
@@ -13017,26 +13135,24 @@ Le cas échéant, tout membre ou fondateur peut demander au tribunal d’imposer
 
 **579** 
 
-- **(1)** La demande d’agrément prévue par la présente partie est déposée au bureau du surintendant avec les renseignements, documents ou pièces justificatives que celui-ci peut exiger, notamment :
-	- **a)** le ou les documents relatifs à la constitution de la personne morale et plus précisément, dans le cas où celle-ci n’est ni une association ni un groupe d’échange, une copie de son acte constitutif certifiée par le dirigeant responsable de l’original;
-	- **b)** la procuration au nom de l’agent principal, nommé aux termes du paragraphe (3), établie en la forme que le surintendant peut exiger;
-	- **c)** l’état, en la forme que le surintendant peut exiger, de la situation financière et des opérations d’assurance de la personne morale, ainsi que les autres états ou renseignements que celui-ci peut exiger quant à sa solvabilité et à ses moyens de faire face à tous ses engagements;
-	- **d)** la preuve, jugée satisfaisante par le surintendant, que la personne morale est autorisée, en vertu des lois du pays où elle est constituée, à garantir dans ce pays des risques de chaque branche d’assurance qu’elle souhaite pouvoir garantir au Canada;
-	- **e)** s’il s’agit d’une société de secours étrangère :
-		- **(i)** le rapport de l’actuaire nommé par celle-ci présentant, en la forme détaillée exigée par le surintendant, les résultats de l’évaluation actuarielle, au 31 décembre précédent ou à la date ultérieure éventuellement précisée par le surintendant, de chacune des caisses de bénéfices tenues par la société, compte tenu de ses engagements futurs et des contributions qui sont éventuellement destinées à ces caisses,
-		- **(ii)** la déclaration de l’actuaire confirmant que, à son avis, l’actif que la société peut affecter à chaque caisse, établi à la valeur agréée par le surintendant, est suffisant, en y ajoutant les primes, les sommes dues et autres contributions à recevoir ultérieurement des membres, selon les taux en vigueur à la date de l’évaluation, pour garantir le paiement à échéance de tous les engagements de la caisse, sans déduction ni réduction;
-	- **f)** une copie de la résolution établissant les principes, normes et procédures en matière de placement et de prêt auxquels la personne morale s’engage à se conformer avec le paragraphe 615(1).
+- **(1)** La demande d’agrément visée au paragraphe 574(1) est déposée au bureau du surintendant avec les renseignements, documents ou pièces justificatives que celui-ci peut exiger, notamment :
+	- **a)** le ou les documents relatifs à la constitution de l’entité étrangère;
+	- **b)** la procuration au nom de l’agent principal nommé aux termes du paragraphe (3), établie en la forme que le surintendant peut exiger;
+	- **c)** l’état, en la forme que le surintendant peut exiger, de la situation financière et des opérations d’assurance de l’entité étrangère, ainsi que les autres états ou renseignements que celui-ci peut exiger quant à sa solvabilité et à ses moyens de faire face à tous ses engagements;
+	- **d)** la preuve, jugée satisfaisante par le surintendant, que l’entité étrangère est autorisée, en vertu des lois du pays où elle est constituée ou formée, à garantir dans ce pays des risques de chaque branche d’assurance qu’elle souhaite pouvoir garantir au Canada;
+	- **e)** s’il s’agit d’une société de secours étrangère :
+		- **(i)** le rapport de l’actuaire nommé par celle-ci présentant, en la forme que peut exiger le surintendant, les résultats de l’évaluation actuarielle, au 31 décembre précédent ou à la date ultérieure éventuellement précisée par le surintendant, de chacune des caisses de bénéfices tenues par la société, compte tenu de ses engagements futurs et des contributions qui sont éventuellement destinées à ces caisses,
+		- **(ii)** la déclaration de l’actuaire confirmant que, à son avis, l’actif que la société peut affecter à chaque caisse, établi à la valeur acceptée par le surintendant, est suffisant, ainsi que les primes, les sommes dues et autres contributions à recevoir ultérieurement des membres, selon les taux en vigueur à la date de l’évaluation, pour garantir le paiement à échéance de tous les engagements de la caisse, sans déduction ni réduction;
+	- **f)** une copie de la résolution établissant les principes, normes et procédures en matière de placement et de prêt auxquels l’entité étrangère est tenue de se conformer en vertu du paragraphe 615(1).
 
 **Contenu de la procuration**
 
-- **(2)** La procuration visée à l’alinéa (1)b) comporte les éléments suivants :
-	- **a)** la déclaration de l’adresse précise à laquelle est ou sera située l’agence principale de la personne morale;
-	- **b)** l’autorisation expresse habilitant l’agent principal à recevoir du ministre et du surintendant tous les avis prévus par les lois du Canada.
+- **(2)** La procuration visée à l’alinéa (1)b) comporte l’autorisation expresse habilitant l’agent principal à recevoir du ministre et du surintendant tous les avis prévus par les lois du Canada.
 
 **Nomination de l’agent principal**
 
 - **(3)** La société étrangère est tenue de nommer une personne physique résidant habituellement au Canada pour agir comme son agent principal pour l’application de la présente partie.
-> 1991, ch. 47, art. 579; 1997, ch. 15, art. 302.
+> 1991, ch. 47, art. 579; 1997, ch. 15, art. 302; 2007, ch. 6, art. 264.
 
 
 
@@ -13044,7 +13160,9 @@ Le cas échéant, tout membre ou fondateur peut demander au tribunal d’imposer
 
 **Publicité**
 
-**580** Préalablement au dépôt de sa demande et au moins une fois par semaine pendant quatre semaines consécutives, la personne morale publie, en la forme que le surintendant estime satisfaisante, un avis de son intention dans la Gazette du Canada et dans un journal à grand tirage paraissant au lieu prévu pour son agence principale ou dans les environs.
+**580** Préalablement au dépôt de la demande visée au paragraphe 579(1) et au moins une fois par semaine pendant quatre semaines consécutives, l’entité étrangère publie, en la forme que le surintendant estime satisfaisante, un avis de son intention dans la Gazette du Canada et dans un journal à grand tirage paraissant au lieu prévu pour son agence principale ou dans les environs si l’agrément prévu au paragraphe 574(1) lui est octroyé.
+> 1991, ch. 47, art. 580; 2007, ch. 6, art. 265.
+
 
 
 
@@ -13053,23 +13171,15 @@ Le cas échéant, tout membre ou fondateur peut demander au tribunal d’imposer
 
 **581** 
 
-- **(1)** Le surintendant ne délivre l’agrément prévu par la présente partie à la personne morale que si celle-ci a établi, à sa satisfaction, que les conditions pertinentes imposées par la présente loi ont été remplies, notamment :
+- **(1)** Le surintendant ne prend l’ordonnance prévue au paragraphe 574(1) que si l’entité étrangère a établi, à sa satisfaction, que les conditions pertinentes imposées par la présente loi ont été remplies, notamment :
 	- **a)** le placement en fiducie d’éléments d’actif de la valeur réglementaire;
-	- **b)** la nomination d’un actuaire conformément à l’article 623 et d’un vérificateur conformément à l’article 633 pour ses opérations d’assurance au Canada;
-	- **c)** la province où se trouvera le siège de son agence principale.
+	- **b)** la nomination d’un actuaire conformément à l’article 623 et d’un vérificateur conformément à l’article 633;
+	- **c)** l’établissement de son agence principale.
 
 **Conditions**
 
-- **(2)** L’agrément peut aussi être assorti des conditions ou restrictions compatibles avec la présente loi que le surintendant juge utiles à l’égard des opérations d’assurance de la société étrangère au Canada.
-
-**Disposition transitoire**
-
-- **(3)** Dans le délai suivant l’entrée en vigueur du présent article que le gouverneur en conseil peut fixer par décret, la société étrangère qui a effectué chez le receveur général le dépôt de valeurs visé aux articles 7 ou 25 de la Loi sur les compagnies d’assurance étrangères ou aux articles 196 ou 219 de la Loi sur les compagnies d’assurance canadiennes et britanniques en demande le remboursement.
-
-**Actif au Canada**
-
-- **(4)** Jusqu’à son remboursement, le dépôt de valeurs visé au paragraphe (3) est réputé faire partie de l’actif au Canada de la société étrangère pour le compte de laquelle celui-ci est effectué.
-> 1991, ch. 47, art. 581; 2005, ch. 54, art. 299.
+- **(2)** L’ordonnance peut aussi être assortie des conditions ou restrictions compatibles avec la présente loi que le surintendant juge appropriées.
+> 1991, ch. 47, art. 581; 2005, ch. 54, art. 299; 2007, ch. 6, art. 265.
 
 
 
@@ -13084,17 +13194,21 @@ Le cas échéant, tout membre ou fondateur peut demander au tribunal d’imposer
 **Admissibilité d’autres valeurs**
 
 - **(2)** D’autres titres sont toutefois également admissibles, aux conditions et à la valeur acceptée que fixe le surintendant.
+> 1991, ch. 47, art. 582; 2007, ch. 6, art. 266(A).
+
 
 
 
 
 **Teneur**
 
-**583** L’ordonnance d’agrément doit mentionner les éléments d’information suivants :
-- **a)** la raison sociale sous laquelle la société étrangère garantit des risques au Canada;
+**583** L’ordonnance prévue au paragraphe 574(1) doit mentionner les éléments d’information suivants :
+- **a)** la raison sociale de la société étrangère et, le cas échéant, celle sous laquelle elle est autorisée à garantir des risques;
 - **b)** la date de prise d’effet de l’agrément;
 - **c)** les branches d’assurance dans lesquelles la société est autorisée à garantir des risques;
-- **d)** les conditions ou restrictions compatibles avec la présente loi, liées aux opérations d’assurance de la société au Canada, que le surintendant juge utiles.
+- **d)** les conditions ou restrictions compatibles avec la présente loi que le surintendant juge appropriées.
+> 1991, ch. 47, art. 583; 2007, ch. 6, art. 267.
+
 
 
 
@@ -13103,19 +13217,21 @@ Le cas échéant, tout membre ou fondateur peut demander au tribunal d’imposer
 
 **584** 
 
-- **(1)** La société étrangère est tenue de faire paraître un avis de l’ordonnance d’agrément dans un journal à grand tirage publié au siège de son agence principale ou dans les environs.
+- **(1)** La société étrangère est tenue de faire paraître un avis de l’ordonnance prévue au paragraphe 574(1) dans un journal à grand tirage publié au lieu où est située son agence principale ou dans les environs.
 
 **Avis dans la Gazette du Canada**
 
 - **(2)** Le surintendant fait publier un avis de l’ordonnance d’agrément dans la Gazette du Canada.
+> 1991, ch. 47, art. 584; 2007, ch. 6, art. 268.
+
 
 
 
 
 **Publication de la liste**
 
-**585** Le surintendant fait publier trimestriellement dans la Gazette du Canada une liste des sociétés étrangères, des branches d’assurance dans lesquelles chacune est autorisée à garantir des risques, le nom de leur agent principal et la province où se trouve le siège de leur agence principale.
-> 1991, ch. 47, art. 585; 2005, ch. 54, art. 300.
+**585** Sauf indication contraire prévue dans les règlements, le surintendant fait publier trimestriellement dans la Gazette du Canada une liste des sociétés étrangères, des branches d’assurance dans lesquelles chacune est autorisée à garantir des risques, le nom de leur agent principal et la province où se trouve le siège de leur agence principale.
+> 1991, ch. 47, art. 585; 2005, ch. 54, art. 300; 2007, ch. 6, art. 269.
 
 
 
@@ -13125,14 +13241,17 @@ Le cas échéant, tout membre ou fondateur peut demander au tribunal d’imposer
 
 **586** 
 
-- **(1)** Le surintendant peut à tout moment, toujours par ordonnance, modifier l’agrément :
-	- **a)** en précisant les branches additionnelles dans lesquelles la société étrangère peut garantir des risques;
-	- **b)** en l’assortissant des conditions ou restrictions compatibles avec la présente loi, liées aux opérations d’assurance de la société étrangère au Canada, qu’il estime utiles;
-	- **c)** en modifiant ou annulant toute autorisation particulière qui y est prévue ou toute condition ou restriction y figurant.
-Il doit cependant auparavant donner à la société étrangère la possibilité de lui présenter ses observations à cet égard.
+- **(1)** Le surintendant peut à tout moment, toujours par ordonnance, modifier l’agrément prévu au paragraphe 574(1) :
+	- **a)** en y précisant les branches additionnelles dans lesquelles la société étrangère peut garantir des risques;
+	- **b)** en l’assortissant des conditions ou restrictions compatibles avec la présente loi qu’il estime appropriées;
+	- **c)** en modifiant ou en annulant toute autorisation particulière qui y est prévue ou toute condition ou restriction y figurant.
 
-- **(2) à (6)** [Abrogés, 1996, ch. 6, art. 85]
-> 1991, ch. 47, art. 586; 1996, ch. 6, art. 85.
+**Observations**
+
+- **(2)** Il doit cependant au préalable donner à la société étrangère la possibilité de lui présenter ses observations à cet égard.
+
+- **(3) à (6)** [Abrogés, 1996, ch. 6, art. 85]
+> 1991, ch. 47, art. 586; 1996, ch. 6, art. 85; 2007, ch. 6, art. 270.
 
 
 
@@ -13203,19 +13322,21 @@ Il doit cependant auparavant donner à la société étrangère la possibilité 
 
 **588** 
 
-- **(1)** Dans le cas où son ordonnance d’agrément l’autorise seulement à réassurer des risques dans certaines branches d’assurance, la société étrangère doit limiter ses opérations d’assurance à la réassurance.
+- **(1)** Dans le cas où l’ordonnance prévue au paragraphe 574(1) l’autorise seulement à réassurer des risques dans certaines branches d’assurance, la société étrangère doit limiter ses opérations d’assurance à la réassurance de ces risques.
 
 **Maintien des restrictions**
 
-- **(2)** Toute condition, énoncée dans un certificat d’enregistrement délivré au titre de la Loi sur les compagnies d’assurance étrangères ou de la partie VIII de la Loi sur les compagnies d’assurance canadiennes et britanniques ou dans une autre autorisation de fonctionnement qui limitent la société étrangère à la réassurance de risques dans certaines branches d’assurance et qui ne sont pas encore expirés ou n’ont pas fait l’objet d’un retrait avant l’entrée en vigueur de la présente partie, est réputée énoncée dans l’ordonnance d’agrément de la société.
+- **(2)** Toute condition, énoncée dans un certificat d’enregistrement délivré au titre de la Loi sur les compagnies d’assurance étrangères ou de la partie VIII de la Loi sur les compagnies d’assurance canadiennes et britanniques ou dans une autre autorisation de fonctionnement qui limitent la société étrangère à la réassurance de risques dans certaines branches d’assurance et qui ne sont pas encore expirés ou n’ont pas fait l’objet d’un retrait avant le 1<sup>er</sup> juin 1992, est réputée être énoncée dans l’ordonnance.
+> 1991, ch. 47, art. 588; 2007, ch. 6, art. 272.
+
 
 
 
 
 **Interdiction de changement d’activité**
 
-**589** Le surintendant ne peut prendre ni modifier l’ordonnance d’agrément de la société étrangère pour l’autoriser à garantir des risques au Canada à la fois dans la branche assurance-vie et dans toute branche autre que l’assurance accidents et maladie, l’assurance-accidents, l’assurance accidents corporels, l’assurance-maladie et l’assurance perte d’emploi.
-> 1991, ch. 47, art. 589; 1997, ch. 15, art. 304.
+**589** Le surintendant ne peut prendre ni modifier l’ordonnance prévue au paragraphe 574(1) pour autoriser la société étrangère à garantir des risques à la fois dans la branche assurance-vie et dans toute branche autre que l’assurance accidents et maladie, l’assurance protection de crédit et les autres produits approuvés.
+> 1991, ch. 47, art. 589; 1997, ch. 15, art. 304; 2007, ch. 6, art. 272.
 
 
 
@@ -13225,11 +13346,13 @@ Il doit cependant auparavant donner à la société étrangère la possibilité 
 
 **590** 
 
-- **(1)** Malgré l’article 589, les paragraphes 573(4) et 588(2) autorisent la société étrangère dont le certificat délivré au titre de la Loi sur les compagnies d’assurance étrangères ou de la partie VIII de la Loi sur les compagnies d’assurance canadiennes et britanniques ou une autre autorisation de fonctionnement limitent l’activité à l’assurance de risques au Canada à la fois dans la branche assurance-vie et dans toute branche autre que l’assurance accidents et maladie, l’assurance-accidents, l’assurance accidents corporels et l’assurance-maladie à poursuivre ses opérations d’assurance.
+- **(1)** Malgré l’article 589, les paragraphes 573(4) et 588(2) autorisent la société étrangère dont le certificat délivré au titre de la Loi sur les compagnies d’assurance étrangères ou de la partie VIII de la Loi sur les compagnies d’assurance canadiennes et britanniques ou une autre autorisation de fonctionnement limitent l’activité à l’assurance de risques à la fois dans la branche assurance-vie et dans toute branche autre que l’assurance accidents et maladie, l’assurance-accidents, l’assurance accidents corporels et l’assurance-maladie à poursuivre ses opérations d’assurance.
 
 **Comptes et caisses séparés**
 
 - **(2)** La société étrangère qui garantit des risques à la fois dans la branche assurance-vie et dans les branches assurance accidents et maladie, assurance-accidents, assurance accidents corporels et assurance-maladie tient à l’égard de ses opérations dans ces branches des comptes et des caisses séparés de ceux qu’elle tient à l’égard de ses opérations dans toute autre branche.
+> 1991, ch. 47, art. 590; 2007, ch. 6, art. 273.
+
 
 
 
@@ -13238,20 +13361,20 @@ Il doit cependant auparavant donner à la société étrangère la possibilité 
 
 **591** 
 
-- **(1)** Il incombe à la société étrangère ayant des polices en cours au Canada d’une branche d’assurance donnée de devenir et de demeurer membre de l’association d’indemnisation désignée par arrêté du ministre pour cette branche.
+- **(1)** Il incombe à la société étrangère garantissant des risques dans une branche d’assurance donnée de devenir et de demeurer membre de l’association d’indemnisation désignée par arrêté du ministre pour cette branche.
 
 **Qualification**
 
-- **(1.1)** Seule peut être désignée, aux termes du paragraphe (1), l’association d’indemnisation qui est en mesure, de l’avis du ministre, d’imposer à ses membres une cotisation d’au moins 0,85 % de la moyenne annuelle des primes reçues pour des polices jugées admissibles par l’association.
+- **(1.1)** Seule peut être désignée, aux termes du paragraphe (1), l’association d’indemnisation qui est en mesure, de l’avis du ministre, d’imposer à ses membres une cotisation d’au moins 0,85 % de la moyenne annuelle des primes reçues pour des polices jugées admissibles par l’association.
 
 **Exceptions**
 
-- **(2)** Le paragraphe (1) ne s’applique pas :
+- **(2)** Le paragraphe (1) ne s’applique pas :
 	- **a)** aux sociétés étrangères dont les opérations d’assurance sont limitées à la réassurance;
 	- **b)** relativement à toute branche d’assurance que le ministre estime suffisamment protégée par un autre régime d’indemnisation;
-	- **c)** à la garantie de risques au Canada dans la branche assurance-incendie par les sociétés étrangères qui participent au Fonds mutuel d’assurance-incendie;
-	- **d)** à la société étrangère qui est soit une société de secours étrangère, soit un groupe d’échange réciproque ou d’interassurance.
-> 1991, ch. 47, art. 591; 1996, ch. 6, art. 86; 1997, ch. 15, art. 305.
+	- **c)** à la garantie au Canada des risques contre les pertes ou dommages matériels causés par le feu, la foudre, une déflagration ou la fumée ou la rupture ou la fuite d’extincteurs automatiques ou d’autres matériels ou systèmes de protection contre l’incendie par les sociétés étrangères qui participent au Fonds mutuel d’assurance-incendie;
+	- **d)** à la société étrangère qui est soit une société de secours étrangère, soit un groupe d’échange.
+> 1991, ch. 47, art. 591; 1996, ch. 6, art. 86; 1997, ch. 15, art. 305; 2007, ch. 6, art. 274.
 
 
 
@@ -13301,11 +13424,13 @@ Il doit cependant auparavant donner à la société étrangère la possibilité 
 
 **596** 
 
-- **(1)** Le gouverneur en conseil peut, par règlement à l’égard des polices au Canada d’une société étrangère, limiter la réassurance par une société contre des risques garantis par elle au Canada.
+- **(1)** Le gouverneur en conseil peut, par règlement, à l’égard des polices des sociétés étrangères, limiter la réassurance contre des risques qu’elles acceptent aux termes de leurs polices.
 
 **Délégation de pouvoirs discrétionnaires**
 
 - **(2)** Les règlements pris aux termes du paragraphe (1) peuvent autoriser le surintendant à procéder par ordonnance pour régler les questions ou exercer les pouvoirs discrétionnaires qu’ils précisent.
+> 1991, ch. 47, art. 596; 2007, ch. 6, art. 277.
+
 
 
 
@@ -13441,7 +13566,9 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **Coût d’emprunt des avances**
 
-**602** Si est prévu par règlement le mode de communication du coût d’emprunt d’une avance garantie par une police ou par la valeur de rachat de celle-ci, la société étrangère ne peut consentir au souscripteur d’une police au Canada telle avance sans lui faire savoir, avant ou au moment de l’octroi et en la forme réglementaire, le coût d’emprunt, calculé et exprimé en conformité avec les règlements.
+**602** Si est prévu par règlement le mode de communication du coût d’emprunt d’une avance garantie par une police ou par la valeur de rachat de celle-ci, la société étrangère ne peut consentir au souscripteur d’une police telle avance sans lui faire savoir, avant ou au moment de l’octroi et en la forme réglementaire, le coût d’emprunt, calculé et exprimé en conformité avec les règlements.
+> 1991, ch. 47, art. 602; 2007, ch. 6, art. 279.
+
 
 
 
@@ -13476,12 +13603,22 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **604** 
 
-- **(1)** La société étrangère est tenue, d’une part, d’établir une procédure d’examen des réclamations de personnes au Canada qui lui ont demandé ou qui ont obtenu d’elle des produits ou services au Canada et, d’autre part, de désigner un préposé — dirigeant ou autre agent — à sa mise en oeuvre et, un ou plusieurs autres au traitement des réclamations.
+- **(1)** La société étrangère est tenue, d’une part, d’établir une procédure d’examen des réclamations de personnes qui lui ont demandé ou qui ont obtenu d’elle des produits ou services au Canada et, d’autre part, de désigner un dirigeant, employé ou mandataire au Canada pour la mise en oeuvre de cette procédure et un ou plusieurs autres pour le traitement des réclamations.
 
 **Dépôt**
 
 - **(2)** La société étrangère dépose auprès du commissaire un double de la procédure.
-> 1991, ch. 47, art. 604; 1997, ch. 15, art. 311; 2001, ch. 9, art. 444.
+
+**Mise à la disposition du public de la procédure**
+
+- **(3)** La société étrangère met à la disposition du public la procédure à la fois :
+	- **a)** sur ceux de ses sites Web où sont offerts des produits ou services au Canada;
+	- **b)** dans un document écrit à envoyer à quiconque lui en fait la demande.
+
+**Renseignements**
+
+- **(4)** La société étrangère doit accompagner la procédure qu’elle met à la disposition du public des renseignements — fixés par règlement — sur la façon de communiquer avec l’Agence.
+> 1991, ch. 47, art. 604; 1997, ch. 15, art. 311; 2001, ch. 9, art. 444; 2007, ch. 6, art. 280.
 
 
 
@@ -13489,8 +13626,8 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **Obligation d’adhésion**
 
-**604.1** Si, dans une province, aucune règle de droit de cette province n’assujettit une société étrangère à l’autorité d’une organisation qui examine les réclamations de personnes qui ont demandé ou obtenu des produits ou services de sociétés étrangères dans cette province, elle est tenue de devenir membre d’une organisation qu’elle ne contrôle pas et qui examine de telles réclamations lorsque les personnes sont insatisfaites des conclusions de la procédure d’examen établie en application du paragraphe 604(1).
-> 2001, ch. 9, art. 444.
+**604.1** Si, dans une province, aucune règle de droit de cette province n’assujettit une société étrangère à l’autorité d’une organisation qui examine les réclamations de personnes qui ont demandé ou obtenu des produits ou services de sociétés étrangères dans cette province, elle est tenue de devenir membre d’une organisation au Canada qu’elle ne contrôle pas et qui examine de telles réclamations lorsque les personnes sont insatisfaites des conclusions de la procédure d’examen établie en application du paragraphe 604(1).
+> 2001, ch. 9, art. 444; 2007, ch. 6, art. 281.
 
 
 
@@ -13500,14 +13637,14 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **605** 
 
-- **(1)** La société étrangère est tenue de remettre, conformément aux règlements, aux personnes au Canada qui lui demandent des produits ou services au Canada ou à qui elle en fournit, les renseignements — fixés par règlement — sur la façon de communiquer avec l’Agence lorsqu’elles présentent des réclamations portant sur les arrangements visés au paragraphe 601(3), les cartes de crédit, de débit ou de paiement visées au paragraphe 601(2), la divulgation ou le mode de calcul du coût d’emprunt pour un prêt remboursable au Canada ou pour l’avance garantie par une police au Canada ou consentie en contrepartie de la valeur de rachat de celle-ci ou sur les autres obligations de la société étrangère découlant d’une disposition visant les consommateurs.
+- **(1)** La société étrangère est tenue de remettre, conformément aux règlements, aux personnes au Canada qui lui demandent des produits ou services au Canada ou à qui elle en fournit, les renseignements — fixés par règlement — sur la façon de communiquer avec l’Agence lorsqu’elles présentent des réclamations portant sur les arrangements visés au paragraphe 601(3), les cartes de crédit, de débit ou de paiement visées au paragraphe 601(2), la divulgation ou le mode de calcul du coût d’emprunt pour un prêt remboursable au Canada ou pour l’avance garantie par une police ou consentie en contrepartie de la valeur de rachat de celle-ci ou sur les autres obligations de la société étrangère découlant d’une disposition visant les consommateurs.
 
 **Rapport**
 
 - **(2)** Le commissaire prépare un rapport, à inclure dans celui qui est prévu à l’article 34 de la [Loi sur l’Agence de la consommation en matière financière du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%209.md), concernant :
 	- **a)** les procédures d’examen des réclamations établies par les sociétés étrangères en application du paragraphe 604(1);
 	- **b)** le nombre et la nature des réclamations qui ont été présentées à l’Agence par des personnes qui ont soit demandé des produits ou services à une société étrangère, soit obtenu des produits ou services d’une société étrangère.
-> 1991, ch. 47, art. 605; 1997, ch. 15, art. 312; 2001, ch. 9, art. 444.
+> 1991, ch. 47, art. 605; 1997, ch. 15, art. 312; 2001, ch. 9, art. 444; 2007, ch. 6, art. 282.
 
 
 
@@ -13554,10 +13691,28 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 	- **(i)** à leurs produits ou services, ou catégories réglementaires de ceux-ci,
 	- **(ii)** à leurs règles de conduite, procédures et pratiques ayant trait à la fourniture de ces produits ou services, ou catégories réglementaires de ceux-ci,
 	- **(iii)** aux interdictions ou obligations qui leur sont imposées aux termes d’une disposition visant les consommateurs,
-	- **(iv)** à toute autre question en ce qui touche leurs relations avec leurs clients ou le public;
+	- **(iv)** à toute autre question en ce qui touche leurs relations ou celles de leurs employés ou représentants avec leurs clients ou le public;
 - **b)** les modalités de temps, de lieu et de forme de la communication, ainsi que le destinataire de celle-ci;
 - **c)** le contenu et la forme de la publicité relative aux questions visées à l’alinéa a).
-> 2001, ch. 9, art. 445.
+> 2001, ch. 9, art. 445; 2007, ch. 6, art. 283.
+
+
+
+
+
+**Exceptions**
+
+**607.2** 
+
+- **(1)** Les articles 598 à 607.1 ne s’appliquent pas à la société étrangère si les conditions suivantes sont réunies :
+	- **a)** l’ordonnance prévue au paragraphe 574(1) l’autorise seulement à réassurer des risques dans certaines branches d’assurance;
+	- **b)** la société a présenté une déclaration au commissaire attestant qu’elle ne traite pas avec un groupe de consommateurs prévu par règlement;
+	- **c)** elle continue, par la suite, de ne pas traiter avec ce groupe.
+
+**Avis au commissaire**
+
+- **(2)** Si elle traite, par la suite, avec ce groupe, elle en avise le commissaire.
+> 2007, ch. 6, art. 284.
 
 
 
@@ -13617,10 +13772,6 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 
 
-### Règlements
-
-
-
 **Gouverneur en conseil**
 
 **610** 
@@ -13639,10 +13790,6 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 > 1991, ch. 47, art. 610; 2001, ch. 9, art. 447(A).
 
 
-
-
-
-### Actif au Canada
 
 
 
@@ -13677,23 +13824,25 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **612** 
 
-- **(1)** Ne peuvent être placés en fiducie par une société étrangère les éléments d’actif suivants :
+- **(1)** Ne peuvent être placés en fiducie par une société étrangère les éléments d’actif suivants :
 	- **a)** les valeurs mobilières émises par la société ou une filiale de celle-ci, ou les titres de créance de l’une ou l’autre société;
 	- **b)** les immeubles situés à l’étranger, ou les rentes foncières ou hypothèques sur ceux-ci;
 	- **c)** les actions ou titres de participation d’une entité, qu’elle que soit leur dénomination, en une quantité telle qu’ils constitueraient un intérêt de groupe financier dans cette entité, sans égard aux actions ou titres de participation détenus par une autre entité;
-	- **d)** le prêt consenti au Canada — garanti par un immeuble résidentiel situé au Canada — pour l’achat, la rénovation ou l’amélioration de cet immeuble, si la somme de celui-ci et du solde impayé de toute hypothèque de rang égal ou supérieur excède soixante-quinze pour cent de la valeur de l’immeuble au moment du prêt.
+	- **d)** le prêt consenti au Canada — garanti par un immeuble résidentiel situé au Canada — pour l’achat, la rénovation ou l’amélioration de cet immeuble, si la somme de celui-ci et du solde impayé de toute hypothèque de rang égal ou supérieur excède quatre-vingts pour cent de la valeur de l’immeuble au moment du prêt.
 
 **Exception**
 
-- **(2)** Malgré les alinéas (1)a) et c), la société étrangère peut placer en fiducie un intérêt de groupe financier dans les actions d’une société immobilière, au sens du paragraphe 490(1).
+- **(2)** Malgré les alinéas (1)a) et c), la société étrangère peut placer en fiducie un intérêt de groupe financier dans une entité dont l’activité principale consiste, selon le cas :
+	- **a)** à détenir ou à gérer des biens immeubles ou à effectuer toutes opérations à leur égard;
+	- **b)** à détenir des actions ou des titres de participation d’une entité dont l’activité principale est celle visée à l’alinéa a).
 
 **Idem**
 
-- **(3)** Malgré l’alinéa (1)d), la société étrangère peut placer en fiducie :
+- **(3)** Malgré l’alinéa (1)d), la société étrangère peut placer en fiducie :
 	- **a)** le prêt consenti ou garanti en vertu de la [Loi nationale sur l’habitation](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-11.md) ou de toute autre loi fédérale aux termes de laquelle est fixée une limite différente sur la valeur de l’immeuble qui constitue l’objet de la garantie;
 	- **b)** le prêt dont le remboursement, en ce qui touche le montant excédant le plafond fixé au paragraphe (1), est garanti ou assuré par un organisme gouvernemental ou par un assureur privé agréé par le surintendant;
 	- **c)** les valeurs mobilières émises ou garanties par une entité et qui confèrent une sûreté sur un immeuble résidentiel soit en faveur d’un fiduciaire, soit de toute autre manière, ou les prêts consentis par la société à l’entité en contrepartie de l’émission des valeurs mobilières en question.
-> 1991, ch. 47, art. 612; 1993, ch. 34, art. 85(A); 1997, ch. 15, art. 315.
+> 1991, ch. 47, art. 612; 1993, ch. 34, art. 85(A); 1997, ch. 15, art. 315; 2007, ch. 6, art. 290.
 
 
 
@@ -13718,13 +13867,13 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **614** 
 
-- **(1)** Les articles 612 et 615 à 620 ne s’appliquent pas aux éléments d’actif d’une caisse séparée tenue aux termes de l’article 593.
+- **(1)** Les articles 612 et 615 à 620 ne s’appliquent pas aux éléments d’actif d’une société étrangère qui sont détenus à l’égard d’une caisse séparée tenue en application de l’article 593.
 
-**Exclusion de l’actif et du passif des caisses séparées**
+**Exclusion du passif des caisses séparées**
 
-- **(2)** La mention, aux articles 615 à 620, de l’actif au Canada ou du passif au Canada de la société étrangère ne comprend pas :
-	- **a)** les éléments d’actif d’une caisse séparée tenue aux termes de l’article 593;
-	- **b)** les éléments de passif de la société étrangère liés aux polices et sommes à l’égard desquelles une telle caisse est tenue.
+- **(2)** La mention, aux articles 615 à 619 et aux règlements visés à l’article 620, de l’actif au Canada ou du passif au Canada de la société étrangère ne comprend pas les éléments de passif de la société étrangère liés aux polices et sommes à l’égard desquelles une caisse séparée est tenue en application de l’article 593.
+> 1991, ch. 47, art. 614; 2007, ch. 6, art. 291.
+
 
 
 
@@ -13843,10 +13992,10 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **Exception**
 
-**622** La société étrangère peut placer en fiducie l’élément d’actif acquis par l’opération visée aux articles 522 à 533, si, à la fois :
+**622** La société étrangère peut placer en fiducie l’élément d’actif acquis par l’opération visée à l’un des articles 524 à 533 si, à la fois :
 - **a)** l’opération a été conclue à des conditions au moins aussi favorables pour elle que les conditions du marché, au sens du paragraphe 534(2);
 - **b)** au moment du placement en fiducie, la société en donne avis au surintendant, en la forme réglementaire.
-> 1991, ch. 47, art. 622; 1997, ch. 15, art. 316.
+> 1991, ch. 47, art. 622; 1997, ch. 15, art. 316; 2007, ch. 6, art. 293.
 
 
 
@@ -14051,6 +14200,19 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 
 
+#### Définitions
+
+
+
+**Définitions**
+
+**632.1** Pour l’application des articles 634 à 643, ***cabinet de comptables*** et ***membre*** s’entendent au sens de l’article 336.
+> 2007, ch. 6, art. 294.
+
+
+
+
+
 #### Nomination
 
 
@@ -14076,7 +14238,7 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **634** 
 
-- **(1)** Peut être nommée vérificateur la personne physique qui est un comptable :
+- **(1)** Peut être nommée vérificateur la personne physique qui est un comptable :
 	- **a)** membre en règle d’un institut ou d’une association de comptables constitués en personne morale sous le régime d’une loi provinciale;
 	- **b)** possédant cinq ans d’expérience au niveau supérieur dans l’exécution de la vérification d’institutions financières;
 	- **c)** résidant habituellement au Canada;
@@ -14085,7 +14247,7 @@ Remplit également les conditions de nomination le cabinet de comptables qui dé
 
 **Indépendance**
 
-- **(2)** Pour l’application du paragraphe (1) :
+- **(2)** Pour l’application du paragraphe (1) :
 	- **a)** l’indépendance est une question de fait;
 	- **b)** la personne est réputée ne pas être indépendante de la société étrangère si elle-même, son associé ou le cabinet de comptables dont elle est membre :
 		- **(i)** soit est l’associé, l’administrateur, le dirigeant ou l’employé de la société étrangère ou d’une entité de son groupe ou est l’associé d’un des administrateurs, dirigeants ou employés de la société étrangère ou d’une entité de son groupe,
@@ -14109,7 +14271,7 @@ Remplit également les conditions de nomination le cabinet de comptables qui dé
 **Poste déclaré vacant**
 
 - **(5)** Dans le cas visé au paragraphe (4), faute de désignation dans les trente jours de la cessation des fonctions du membre, le poste de vérificateur est déclaré vacant.
-> 1991, ch. 47, art. 634; 2005, ch. 54, art. 302.
+> 1991, ch. 47, art. 634; 2005, ch. 54, art. 302; 2007, ch. 6, art. 295(A).
 
 
 
@@ -14597,16 +14759,12 @@ Il doit cependant auparavant donner à la société la possibilité de lui prés
 
 - **(2)** La société étrangère établit, en ce qui touche ses opérations d’assurance au Canada, un état de sa situation et de ses affaires à la fin de chaque exercice; cet état indique ses actif et passif ainsi que ses recettes et dépenses au cours de l’exercice et donne tout autre renseignement que le surintendant estime nécessaire.
 
-**Forme et dépôt de l’état annuel**
-
-- **(3)** L’état annuel est envoyé au surintendant, en la forme que celui-ci détermine, dans l’année qui suit celle pour laquelle il a été établi :
-	- **a)** dans le cas d’une société, société étrangère ou société provinciale pour laquelle l’ordonnance du surintendant limite les opérations d’assurance à la réassurance, au plus tard le cent cinquième jour;
-	- **b)** dans le cas de toute autre société, au plus tard le soixantième jour.
+- **(3)** [Abrogé, 2007, ch. 6, art. 299]
 
 **Principes comptables**
 
 - **(4)** L’état annuel est établi selon les principes comptables visés au paragraphe 331(4).
-> 1991, ch. 47, art. 665; 1997, ch. 15, art. 322.
+> 1991, ch. 47, art. 665; 1997, ch. 15, art. 322; 2007, ch. 6, art. 299.
 
 
 
@@ -14920,13 +15078,13 @@ Il doit cependant auparavant donner à la société la possibilité de lui prés
 
 **678.1** 
 
-- **(1)** Le présent article s’applique à la société, société de secours ou société provinciale :
+- **(1)** Le présent article s’applique à la société, société de secours ou société provinciale :
 	- **a)** soit avisée par le surintendant de son assujettissement au présent article dans les cas où elle est visée par des mesures prises pour maintenir ou améliorer sa santé financière, lesquelles mesures figurent dans un accord prudentiel conclu en vertu de l’article 675.1 ou dans un engagement qu’elle a donné au surintendant, ou prennent la forme de conditions ou restrictions accessoires à l’ordonnance d’agrément lui permettant de commencer à fonctionner;
-	- **b)** soit visée par une décision prise aux termes de l’article 676 ou par une ordonnance prise en application du paragraphe 515(3) ou en application du paragraphe 516(4).
+	- **b)** soit visée par une décision prise en vertu de l’article 676 ou par une ordonnance prise au titre du paragraphe 515(3).
 
 **Renseignements à communiquer**
 
-- **(2)** La société, société de secours ou société provinciale communique au surintendant le nom :
+- **(2)** La société, société de secours ou société provinciale communique au surintendant le nom :
 	- **a)** des candidats à une élection ou à une nomination au conseil d’administration;
 	- **b)** des personnes qu’elle a choisies pour être nommées à un poste de cadre dirigeant;
 	- **c)** de toute personne nouvellement élue au poste d’administrateur à une assemblée des actionnaires et de titulaires de police dont la candidature n’avait pas été proposée par une personne occupant un poste de gestion.
@@ -14934,13 +15092,13 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Préavis**
 
-- **(3)** Les renseignements doivent parvenir au surintendant :
+- **(3)** Les renseignements doivent parvenir au surintendant :
 	- **a)** dans le cas d’une personne visée aux alinéas (2)a) ou b), au moins trente jours avant la date prévue pour l’élection ou la nomination ou dans le délai plus court fixé par le surintendant;
 	- **b)** dans le cas d’une personne visée à l’alinéa (2)c), dans les quinze jours suivant la date de l’élection de celle-ci.
 
 **Absence de qualification**
 
-- **(4)** Le surintendant peut par ordonnance, en se fondant sur la compétence, l’expérience, le dossier professionnel, la conduite, la personnalité ou la moralité des personnes en cause :
+- **(4)** Le surintendant peut par ordonnance, en se fondant sur la compétence, l’expérience, le dossier professionnel, la conduite, la personnalité ou la moralité des personnes en cause :
 	- **a)** dans les cas visés aux alinéas (2)a) ou b), écarter le nom de celles qui, à son avis, ne sont pas qualifiées pour occuper un poste d’administrateur ou de cadre dirigeant;
 	- **b)** dans le cas visé à l’alinéa (2)c), destituer du poste d’administrateur celles qu’il n’estime pas qualifiées.
 
@@ -14954,10 +15112,10 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Interdiction**
 
-- **(6)** Il est interdit :
+- **(6)** Il est interdit :
 	- **a)** aux personnes assujetties à une ordonnance prise en vertu de l’alinéa (4)a) de se faire élire ou nommer au poste pour lequel elles n’ont pas été jugées qualifiées et à la société, société de secours ou société provinciale de permettre qu’elles se fassent élire ou nommer;
 	- **b)** aux personnes assujetties à une ordonnance prise en vertu de l’alinéa (4)b) de continuer à occuper le poste d’administrateur et à la société, société de secours ou société provinciale de les laisser continuer d’occuper le poste.
-> 1996, ch. 6, art. 95; 2001, ch. 9, art. 460.
+> 1996, ch. 6, art. 95; 2001, ch. 9, art. 460; 2007, ch. 6, art. 300.
 
 
 
@@ -14967,12 +15125,12 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **678.2** 
 
-- **(1)** Le surintendant peut, par ordonnance, destituer une personne de son poste d’administrateur ou de cadre dirigeant d’une société, société de secours ou société provinciale s’il est d’avis, en se fondant sur un ou plusieurs des éléments ci-après, qu’elle n’est pas qualifiée pour occuper ce poste :
+- **(1)** Le surintendant peut, par ordonnance, destituer une personne de son poste d’administrateur ou de cadre dirigeant d’une société, société de secours ou société provinciale s’il est d’avis, en se fondant sur un ou plusieurs des éléments ci-après, qu’elle n’est pas qualifiée pour occuper ce poste :
 	- **a)** sa compétence, son expérience, son dossier professionnel, sa conduite, sa personnalité ou sa moralité;
-	- **b)** le fait qu’elle a contrevenu ou a contribué par son action ou sa négligence à contrevenir :
+	- **b)** le fait qu’elle a contrevenu ou a contribué par son action ou sa négligence à contrevenir :
 		- **(i)** à la présente loi ou à ses règlements,
 		- **(ii)** à une décision prise aux termes de l’article 676,
-		- **(iii)** à une ordonnance prise en vertu du paragraphe 515(3) ou 516(4),
+		- **(iii)** à une ordonnance prise en vertu du paragraphe 515(3),
 		- **(iv)** aux conditions ou restrictions accessoires à l’ordonnance d’agrément permettant à la société, société de secours ou société provinciale de commencer à fonctionner,
 		- **(v)** à un accord prudentiel conclu en vertu de l’article 675.1 ou à un engagement que la société, société de secours ou société provinciale a donné au surintendant.
 
@@ -15007,7 +15165,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 **Appel non suspensif**
 
 - **(9)** L’appel n’est pas suspensif.
-> 2001, ch. 9, art. 461.
+> 2001, ch. 9, art. 461; 2007, ch. 6, art. 301.
 
 
 
@@ -15017,8 +15175,8 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **678.3** 
 
-- **(1)** Le présent article s’applique à la société étrangère :
-	- **a)** soit avisée par le surintendant de son assujettissement au présent article dans les cas où elle est visée par des mesures visant à protéger les intérêts de ses souscripteurs et créanciers à l’égard de ses opérations d’assurance au Canada, lesquelles mesures figurent dans un accord prudentiel conclu en vertu de l’article 675.1 ou dans un engagement qu’elle a donné au surintendant, ou prennent la forme de conditions ou restrictions accessoires à l’ordonnance d’agrément l’autorisant à garantir des risques au Canada;
+- **(1)** Le présent article s’applique à la société étrangère :
+	- **a)** soit avisée par le surintendant de son assujettissement au présent article dans les cas où elle est visée par des mesures visant à protéger les intérêts de ses souscripteurs et créanciers à l’égard de ses opérations d’assurance au Canada, lesquelles mesures figurent dans un accord prudentiel conclu en vertu de l’article 675.1 ou dans un engagement qu’elle a donné au surintendant, ou prennent la forme de conditions ou restrictions accessoires à l’ordonnance prise au titre du paragraphe 574(1);
 	- **b)** soit visée par une décision prise aux termes de l’article 676 ou par une ordonnance prise en vertu du paragraphe 608(4) ou 609(2).
 
 **Renseignements à communiquer**
@@ -15044,7 +15202,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 **Interdiction**
 
 - **(7)** Il est interdit à la personne assujettie à une ordonnance prise en vertu du paragraphe (4) de se faire nommer au poste d’agent principal et à la société étrangère de permettre qu’elle se fasse nommer.
-> 2001, ch. 9, art. 461.
+> 2001, ch. 9, art. 461; 2007, ch. 6, art. 302.
 
 
 
@@ -15054,13 +15212,13 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **678.4** 
 
-- **(1)** Le surintendant peut, par ordonnance, destituer l’agent principal d’une société étrangère s’il est d’avis, en se fondant sur un ou plusieurs des éléments ci-après, qu’il n’est pas qualifié pour occuper le poste :
+- **(1)** Le surintendant peut, par ordonnance, destituer l’agent principal d’une société étrangère s’il est d’avis, en se fondant sur un ou plusieurs des éléments ci-après, qu’il n’est pas qualifié pour occuper le poste :
 	- **a)** sa compétence, son expérience, son dossier professionnel, sa conduite, sa personnalité ou sa moralité;
-	- **b)** le fait qu’il a contrevenu ou a contribué par son action ou sa négligence à contrevenir :
+	- **b)** le fait qu’il a contrevenu ou a contribué par son action ou sa négligence à contrevenir :
 		- **(i)** à la présente loi ou à ses règlements,
 		- **(ii)** à une décision prise aux termes de l’article 676,
 		- **(iii)** à une ordonnance prise en vertu du paragraphe 608(4) ou 609(2),
-		- **(iv)** aux conditions ou restrictions accessoires à l’ordonnance d’agrément autorisant la société étrangère à garantir des risques au Canada,
+		- **(iv)** aux conditions ou restrictions accessoires à l’ordonnance prise au titre du paragraphe 574(1),
 		- **(v)** à un accord prudentiel conclu en vertu de l’article 675.1 ou à un engagement que la société étrangère a donné au surintendant.
 
 **Risque de préjudice**
@@ -15094,7 +15252,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 **Appel non suspensif**
 
 - **(9)** L’appel n’est pas suspensif.
-> 2001, ch. 9, art. 461.
+> 2001, ch. 9, art. 461; 2007, ch. 6, art. 303.
 
 
 
@@ -15108,7 +15266,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **678.5** 
 
-- **(1)** Dans les cas où la société de secours se trouve dans l’une ou l’autre des circonstances visées aux alinéas 679(1.1)a) à e) ou g), le surintendant peut par ordonnance et aux conditions qu’il précise, obliger celle-ci à transférer tout ou partie de ses polices à une société, société de secours ou société étrangère, ou personne morale constituée sous le régime des lois provinciales, autorisée à faire des opérations dans les branches d’assurance en cause ou à se réassurer auprès d’une telle société, société de secours, société étrangère ou personne morale.
+- **(1)** Dans les cas où la société de secours se trouve dans l’une ou l’autre des circonstances visées aux alinéas 679(1.1)a) à e) ou g), le surintendant peut par ordonnance et aux conditions qu’il précise, obliger celle-ci à transférer tout ou partie de ses polices à une société, à une société de secours ou à une société étrangère, ou à une personne morale constituée ou formée sous le régime des lois provinciales, qui est autorisée à faire des opérations dans les branches d’assurance en cause ou à se réassurer contre tout ou partie des risques qu’elle accepte aux termes de ses polices auprès d’une telle société, société de secours, société étrangère ou personne morale.
 
 **Obligation de se conformer**
 
@@ -15117,17 +15275,17 @@ Elle lui communique également les renseignements personnels qui les concernent 
 **Observations**
 
 - **(3)** Le surintendant ne peut prendre l’ordonnance visée au paragraphe (1) sans donner la possibilité à la société de secours de présenter ses observations à cet égard.
-> 2001, ch. 9, art. 462.
+> 2001, ch. 9, art. 462; 2007, ch. 6, art. 304.
 
 
 
 
 
-**Ordonnance de transfert de polices ou de réassurance — société étrangère qui est une société de secours**
+**Ordonnance de transfert de polices ou de réassurance — société de secours étrangère**
 
 **678.6** 
 
-- **(1)** Dans les cas où une société étrangère qui est une société de secours mutuel se trouve dans l’une ou l’autre des circonstances visées aux alinéas 679(1.2)a) à d) ou f), le surintendant peut, par ordonnance et aux conditions qu’il précise, obliger celle-ci à transférer tout ou partie de ses polices au Canada à une société, société de secours ou société étrangère, ou personne morale constituée sous le régime des lois provinciales, autorisée à faire des opérations dans les branches d’assurance en cause ou à se réassurer pour les risques découlant de ses polices au Canada auprès d’une telle société, société de secours, société étrangère ou personne morale.
+- **(1)** Dans les cas où une société de secours étrangère se trouve dans l’une ou l’autre des circonstances visées aux alinéas 679(1.2)a) à d) ou f), le surintendant peut, par ordonnance et aux conditions qu’il précise, obliger celle-ci à transférer tout ou partie de ses polices liées à ses opérations d’assurance au Canada à une société, à une société de secours ou à une société étrangère, ou à une personne morale constituée ou formée sous le régime des lois provinciales, qui est autorisée à faire des opérations dans les branches d’assurance en cause ou à se réassurer contre tout ou partie des risques qu’elle accepte aux termes de ses polices auprès d’une telle société, société de secours, société étrangère ou personne morale.
 
 **Obligation de se conformer**
 
@@ -15136,7 +15294,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 **Observations**
 
 - **(3)** Le surintendant ne peut prendre l’ordonnance visée au paragraphe (1) sans donner la possibilité à la société étrangère de présenter ses observations à cet égard.
-> 2001, ch. 9, art. 462.
+> 2001, ch. 9, art. 462; 2007, ch. 6, art. 305.
 
 
 
@@ -15146,30 +15304,30 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **679** 
 
-- **(1)** Sous réserve des autres dispositions de la présente loi, le surintendant, dans les circonstances visées aux paragraphes (1.1) ou (1.2) selon qu’il s’agit, dans le premier cas, d’une société, une société de secours ou une société provinciale ou, dans le deuxième cas, d’une société étrangère, peut :
+- **(1)** Sous réserve des autres dispositions de la présente loi, le surintendant, dans les circonstances visées aux paragraphes (1.1) ou (1.2) selon qu’il s’agit, dans le premier cas, d’une société, une société de secours ou une société provinciale ou, dans le deuxième cas, d’une société étrangère, peut :
 	- **a)** prendre le contrôle pendant au plus seize jours de l’actif de la société, société de secours ou société provinciale et des éléments d’actif qu’elle administre ou, dans le cas d’une société étrangère, de son actif au Canada ainsi que de ses autres éléments d’actif se trouvant au Canada sous le contrôle de son agent principal, y compris les sommes reçues ou à recevoir pour ses activités d’assurances au Canada;
 	- **b)** sauf avis contraire du ministre fondé sur l’intérêt public, prendre le contrôle pour plus de seize jours de l’actif de la société, la société de secours ou la société provinciale visée à l’alinéa a) et des éléments d’actif qu’elle administre, continuer d’en assumer le contrôle au-delà de ce terme ou prendre le contrôle de la société, de la société de secours ou de la société provinciale.
 
 **Circonstances permettant la prise de contrôle**
 
-- **(1.1)** Le surintendant peut prendre le contrôle visé au paragraphe (1) à l’égard d’une société, société de secours ou société provinciale :
+- **(1.1)** Le surintendant peut prendre le contrôle visé au paragraphe (1) à l’égard d’une société, société de secours ou société provinciale :
 	- **a)** qui a omis de payer une dette exigible ou ne pourra, à son avis, payer ses dettes au fur et à mesure qu’elles deviendront exigibles;
 	- **b)** [Abrogé, 2001, ch. 9, art. 463]
 	- **c)** qui n’a pas un actif suffisant, à son avis, pour assurer une protection adéquate à ses souscripteurs et créanciers;
 	- **d)** dont un élément d’actif figurant dans ses livres ou qu’elle administre n’est pas, à son avis, correctement pris en compte;
 	- **e)** dont le capital réglementaire a, à son avis, atteint un seuil ou se dégrade au point où ses souscripteurs ou ses créanciers risquent d’être lésés;
-	- **f)** qui n’a pas suivi l’ordonnance qu’il a prise en vertu du paragraphe 515(3) lui enjoignant d’augmenter son capital ou l’ordonnance qu’il a prise en vertu des paragraphes 516(4) ou 678.5(1);
+	- **f)** qui n’a pas suivi l’ordonnance qu’il a prise au titre du paragraphe 515(3) lui enjoignant d’augmenter son capital ou l’ordonnance qu’il a prise au titre du paragraphe 678.5(1);
 	- **g)** où, à son avis, il existe une autre situation qui risque de porter un préjudice réel aux intérêts de ses souscripteurs ou créanciers, ou aux propriétaires des éléments d’actif qu’elle administre, y compris l’existence de procédures engagées, au Canada ou à l’étranger, à l’égard de sa société mère au titre du droit relatif à la faillite ou à l’insolvabilité.
 
 **Société étrangère**
 
-- **(1.2)** Le surintendant peut prendre le contrôle de l’actif — visé au paragraphe (1) — d’une société étrangère :
+- **(1.2)** Le surintendant peut prendre le contrôle de l’actif — visé au paragraphe (1) — d’une société étrangère :
 	- **a)** qui, relativement à ses activités d’assurances au Canada, a omis de payer une dette exigible ou ne pourra, à son avis, payer ses dettes au fur et à mesure qu’elles deviendront exigibles;
 	- **b)** [Abrogé, 2001, ch. 9, art. 463]
-	- **c)** qui n’a pas un actif au Canada suffisant, à son avis, pour assurer une protection adéquate à ses souscripteurs et créanciers au Canada;
+	- **c)** qui n’a pas un actif suffisant au Canada, à son avis, pour assurer une protection adéquate à ses souscripteurs et créanciers à l’égard de ses opérations d’assurance au Canada;
 	- **d)** dont un élément d’actif figurant dans ses livres et se rapportant à ses activités d’assurances au Canada n’est pas, à son avis, correctement pris en compte;
 	- **e)** qui n’a pas suivi l’ordonnance qu’il a prise en vertu du paragraphe 608(4) lui enjoignant d’accroître l’excédent de son actif au Canada sur son passif au Canada ou l’ordonnance qu’il a prise en vertu des paragraphes 609(2) ou 678.6(1);
-	- **f)** où, à son avis, il existe une autre situation qui risque de porter un préjudice réel aux intérêts de ses souscripteurs ou créanciers au Canada, ou aux propriétaires des éléments d’actif qu’elle administre au Canada, y compris l’existence de procédures engagées, au Canada ou à l’étranger, à l’égard de sa société mère au titre du droit relatif à la faillite ou à l’insolvabilité.
+	- **f)** à l’égard de laquelle, à son avis, il existe une autre situation qui risque de porter un préjudice réel aux intérêts de ses souscripteurs ou créanciers à l’égard de ses opérations d’assurance au Canada, ou à ceux des propriétaires des éléments d’actif qu’elle administre au Canada, y compris l’existence de procédures engagées, au Canada ou à l’étranger, à son égard ou à l’égard de sa société mère au titre du droit relatif à la faillite ou à l’insolvabilité.
 
 **Avis**
 
@@ -15177,14 +15335,14 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **Objectifs du surintendant**
 
-- **(2)** Après avoir pris le contrôle de l’actif d’une société en vertu du paragraphe (1), le surintendant peut prendre toutes les mesures utiles pour protéger les droits et intérêts des souscripteurs et créanciers de la société ou, dans le cas d’une société étrangère, de ses souscripteurs et créanciers au Canada.
+- **(2)** Après avoir pris le contrôle de l’actif d’une société en vertu du paragraphe (1), le surintendant peut prendre toutes les mesures utiles pour protéger les droits et intérêts des souscripteurs et créanciers de la société ou, dans le cas d’une société étrangère, de ses souscripteurs et créanciers à l’égard de ses opérations d’assurance au Canada.
 
 **Pouvoirs du surintendant**
 
-- **(3)** Lorsque le surintendant a le contrôle de l’actif de la société visé au paragraphe (1) :
+- **(3)** Lorsque le surintendant a le contrôle de l’actif de la société visé au paragraphe (1) :
 	- **a)** celle-ci ne peut consentir, acquérir ou céder de prêt, ni faire d’achat, de vente ou d’échange de valeurs mobilières, ni procéder à des sorties ou virements de fonds de quelque sorte que ce soit, sans l’approbation préalable du surintendant ou de son délégué;
 	- **b)** aucun administrateur, dirigeant ou employé de la société ni l’agent principal de la société étrangère, n’a accès à l’encaisse ou aux valeurs mobilières détenues par la société, à moins d’être accompagné d’un délégué du surintendant, ou d’y avoir été préalablement autorisé par le surintendant ou son délégué.
-> 1991, ch. 47, art. 679; 1996, ch. 6, art. 96; 1997, ch. 15, art. 326; 2001, ch. 9, art. 463.
+> 1991, ch. 47, art. 679; 1996, ch. 6, art. 96; 1997, ch. 15, art. 326; 2001, ch. 9, art. 463; 2007, ch. 6, art. 306.
 
 
 
@@ -15251,28 +15409,23 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **686** 
 
-- **(1)** Avant le 31 décembre de chaque année, le surintendant établit :
+- **(1)** Avant le 31 décembre de chaque année, le surintendant établit :
 	- **a)** le montant total des dépenses occasionnées à son bureau pendant l’exercice précédent par le contrôle de la société ou, dans le cas de la société étrangère, le contrôle, aux termes de l’alinéa 679(1)b), de son actif ainsi que par la liquidation de la société ou, dans le cas d’une société étrangère, de ses activités d’assurances au Canada, y compris les sommes payées à titre soit d’intérêts sur les emprunts faits par la première ou en son nom pour satisfaire à ses engagements, soit de frais de résiliation de contrats de location ou de travail et autres frais semblables;
-	- **b)** pour toutes les sociétés, la part des dépenses visées à l’alinéa a) liée à l’assurance accidents et maladie, à l’assurance-accidents, à l’assurance accidents corporels, à l’assurance-maladie, à l’assurance-vie et aux rentes, à l’assurance hypothécaire, à l’assurance spéciale et à l’assurance multirisques en multipliant ces dépenses par :
+	- **b)** pour toutes les sociétés, la part des dépenses visées à l’alinéa a) liée à ses polices d’assurance accidents et maladie, à ses polices d’assurance-vie et de rentes et à ses autres polices en multipliant ces dépenses par :
 ```
-A/F, B/F, C/F, D/F et E/F, respectivement où :
+A/D, B/D et C/D, respectivement,
 ```
-
-- **A, B, C, D et E** représentent le produit total brut — déterminé par le surintendant — des primes respectivement reçues, pendant la période mentionnée ci-dessous, pour :
-	- **(i)** ses polices d’assurance accidents et maladie, d’assurance-accidents, d’assurance accidents corporels et d’assurance-maladie,
+où :
+- **A, B et C** représentent le produit brut total — déterminé par le surintendant — des primes respectivement reçues, pendant la période mentionnée ci-dessous, pour :
+	- **(i)** ses polices d’assurance accidents et maladie,
 	- **(ii)** ses polices d’assurance-vie et de rentes,
-	- **(iii)** ses polices d’assurance hypothécaire,
-	- **(iv)** ses polices d’assurance spéciale,
-	- **(v)** ses autres polices,
-et où :
-
-
-- **F** représente le produit brut total — déterminé par le surintendant — des primes reçues pendant les cinq années qui précèdent soit la première au cours de laquelle le surintendant prend le contrôle ou, dans le cas d’une société étrangère, le contrôle de son actif au Canada, soit, si elle est antérieure, celle où a été prise à l’encontre de la société une ordonnance de liquidation judiciaire.
+	- **(iii)** ses autres polices;
+- **D** représente le produit brut total — déterminé par le surintendant — des primes reçues pendant les cinq années qui précèdent soit la première année au cours de laquelle le surintendant prend le contrôle ou, dans le cas d’une société étrangère, le contrôle de son actif au Canada, soit, si elle est antérieure, l’année où a été prise à l’encontre de la société une ordonnance de liquidation judiciaire.
 
 **Caractère définitif**
 
 - **(2)** Pour l’application du présent article et des articles 687 et 688, l’établissement des montants prévu par le paragraphe (1) a un caractère irrévocable.
-> 1991, ch. 47, art. 686; 1996, ch. 6, art. 98.
+> 1991, ch. 47, art. 686; 1996, ch. 6, art. 98; 2007, ch. 6, art. 307.
 
 
 
@@ -15280,21 +15433,15 @@ et où :
 
 **Cotisation**
 
-**687** 
-
-- **(1)** Dans les meilleurs délais après l’établissement de la part visée à l’alinéa 686(1)b), le surintendant, sous réserve des autres dispositions du présent article et dans la mesure et en la forme prévues par règlement du gouverneur en conseil, doit imposer :
-	- **a)** sur la part établie à l’alinéa 686(1)b), une cotisation à chaque société non concernée par les dépenses en question, dans le rapport suivant :
+**687** Dans les meilleurs délais après l’établissement de la part visée à l’alinéa 686(1)b), le surintendant, sous réserve des autres dispositions du présent article et dans la mesure et en la forme prévues par règlement du gouverneur en conseil, doit imposer sur cette part, une cotisation à chaque société non concernée par les dépenses en question, dans le rapport suivant :
 ```
 A/B
 ```
 où :
-- **A** représente les primes nettes reçues au cours de l’année précédente par la société pour les polices d’assurance accidents et maladie, d’assurance-accidents, d’assurance accidents corporels et d’assurance-maladie, d’assurance-vie et de rentes ou les autres polices, à l’exception de celles d’assurance hypothécaire ou spéciale;
-- **B** la somme des primes nettes reçues au cours de l’année précédente par toutes les sociétés, à l’exception de celles concernées par les dépenses, pour les mêmes polices;
-	- **b)** sur la part relative à l’assurance hypothécaire et à l’assurance spéciale, une cotisation à toutes les sociétés concernées par les dépenses.
+- **A** représente les primes nettes reçues au cours de l’année précédente par la société pour les polices d’assurance accidents et maladie, d’assurance-vie et de rentes ou les autres polices;
+- **B** la somme des primes nettes reçues au cours de l’année précédente par toutes les sociétés, à l’exception de celles concernées par les dépenses, pour les mêmes polices.
+> 1991, ch. 47, art. 687; 2007, ch. 6, art. 308.
 
-**Imputation des cotisations**
-
-- **(2)** Les cotisations imposées aux termes de l’alinéa (1)b) sont à la charge des sociétés visées.
 
 
 
@@ -15309,14 +15456,14 @@ où :
 
 - **(2)** Les définitions qui suivent s’appliquent au présent article et aux articles 686 et 687.
 
-***assurance spéciale*** Branche d’assurance désignée comme telle par règlement du gouverneur en conseil pour l’application du présent article et des articles 686 et 687, compte tenu de la nature de l’assurance, des catégories de personnes assurées aux termes de polices de cette branche, de même que du nombre de sociétés opérant dans celle-ci.
+***assurance spéciale***[Abrogée, 2007, ch. 6, art. 309]
 
 ***primes nettes*** Le produit brut des primes, déduction faite de ce qui suit :
 - **a)** les primes de réassurance payées ou payables à l’égard de risques garantis par la société dans ses polices au Canada;
 - **b)** le montant des participations versées ou allouées par la société à ses souscripteurs au Canada.
 
 ***produit brut*** En matière de primes, le revenu procuré à une société par ses polices au Canada, calculé sans réduction à l’égard des primes de réassurance payées ou payables.
-> 1991, ch. 47, art. 688; 1997, ch. 15, art. 327.
+> 1991, ch. 47, art. 688; 1997, ch. 15, art. 327; 2007, ch. 6, art. 309.
 
 
 
@@ -15583,12 +15730,16 @@ où :
 
 **707** 
 
-- **(1)** Sous réserve du paragraphe (2), les sociétés de portefeuille d’assurances ne peuvent exercer leurs activités après le 24 avril 2007; toutefois, si le Parlement est dissous à cette date ou au cours des trois mois qui précèdent, elles peuvent exercer leurs activités jusqu’à cent quatre-vingts jours après le premier jour de la première session de la législature suivante.
+- **(1)** Sous réserve des paragraphes (2) et (3), les sociétés de portefeuille d’assurances ne peuvent exercer leurs activités après la date du cinquième anniversaire de l’entrée en vigueur du présent article.
 
 **Prorogation**
 
 - **(2)** Le gouverneur en conseil peut, par décret, proroger jusqu’à concurrence de six mois la période au cours de laquelle les sociétés de portefeuille d’assurances peuvent exercer leurs activités. Un seul décret peut être pris aux termes du présent paragraphe.
-> 1991, ch. 47, art. 707; 1997, ch. 15, art. 332; 2001, ch. 9, art. 465; 2006, ch. 4, art. 201.1.
+
+**Exception**
+
+- **(3)** Si le Parlement est dissous à la date du cinquième anniversaire de l’entrée en vigueur du présent article, au cours des trois mois qui la précèdent ou au cours de la période prévue au paragraphe (2), les sociétés de portefeuille d’assurances peuvent exercer leurs activités jusqu’à cent quatre-vingts jours après le premier jour de la première session de la législature suivante.
+> 1991, ch. 47, art. 707; 1997, ch. 15, art. 332; 2001, ch. 9, art. 465; 2006, ch. 4, art. 201.1; 2007, ch. 6, art. 310.
 
 
 
@@ -15866,16 +16017,16 @@ où :
 
 **725** 
 
-- **(1)** Par dérogation à toute autre disposition de la présente loi ou à ses règlements, le ministre peut, par arrêté pris sur recommandation du surintendant, autoriser la société de portefeuille d’assurances à laquelle ont été délivrées des lettres patentes en vertu du paragraphe 721(1) à :
+- **(1)** Par dérogation à toute autre disposition de la présente loi ou à ses règlements, le ministre peut, par arrêté pris sur recommandation du surintendant, autoriser la société de portefeuille d’assurances à laquelle ont été délivrées des lettres patentes en vertu du paragraphe 721(1) à :
 	- **a)** exercer toute activité précisée dans l’arrêté et interdite par ailleurs par la présente loi mais à laquelle la personne morale prorogée se livrait à la date du dépôt de la demande de lettres patentes;
 	- **b)** maintenir en circulation des titres de créance dont la présente loi n’autorise pas l’émission, dans la mesure où ils étaient déjà en circulation à la date de la demande;
 	- **c)** détenir des éléments d’actif prohibés par la présente loi mais qui, à la date de la demande, appartenaient à la personne morale prorogée;
 	- **d)** acquérir et détenir des éléments d’actif prohibés par la présente loi, dans le cas où la personne morale prorogée était obligée, à la date de la demande, de les acquérir;
-	- **e)** tenir à l’étranger les livres et registres dont la présente loi exige la tenue au Canada, ainsi que tenir et traiter à l’étranger les renseignements et données se rapportant à leur tenue et à leur conservation.
+	- **e)** tenir à l’étranger les livres et registres dont la présente loi exige la tenue au Canada.
 
 **Durée des exceptions**
 
-- **(2)** L’arrêté précise la période de validité de l’autorisation, qui ne peut excéder :
+- **(2)** L’arrêté précise la période de validité de l’autorisation, qui ne peut excéder :
 	- **a)** dans les cas visés à l’alinéa (1)a), trente jours à partir de la date de prise d’effet des lettres patentes ou, lorsque l’activité découle d’accords existant à cette date, la date d’expiration de ces accords;
 	- **b)** dans les cas visés à l’alinéa (1)b), dix ans;
 	- **c)** deux ans dans les autres cas.
@@ -15887,7 +16038,7 @@ où :
 **Restriction**
 
 - **(4)** Le ministre ne peut pas délivrer d’autorisation qui serait encore valable plus de dix ans après la date de prise d’effet des lettres patentes de prorogation dans les cas visés aux alinéas (1)c) et d); dans les cas visés à l’alinéa (1)b), il ne peut le faire que s’il est convaincu, sur la foi de la déposition sous serment d’un dirigeant de la société de portefeuille d’assurances, que celle-ci sera dans l’incapacité juridique de racheter les titres de créance visés par l’autorisation encore en circulation à l’expiration de ce délai.
-> 1991, ch. 47, art. 725; 2001, ch. 9, art. 465.
+> 1991, ch. 47, art. 725; 2001, ch. 9, art. 465; 2007, ch. 6, art. 311.
 
 
 
@@ -15901,12 +16052,12 @@ où :
 
 **726** 
 
-- **(1)** La société de portefeuille d’assurances peut, avec l’agrément écrit du ministre, demander d’être prorogée en une personne morale régie par une autre loi fédérale ou provinciale.
+- **(1)** La société de portefeuille d’assurances ne peut demander d’être prorogée qu’en personne morale régie par une autre loi fédérale ou provinciale et ne peut le faire qu’avec l’agrément écrit du ministre.
 
 **Condition suspensive**
 
 - **(2)** Le ministre ne peut donner son agrément que s’il est convaincu que la demande de prorogation a été autorisée par résolution extraordinaire.
-> 1991, ch. 47, art. 726; 2001, ch. 9, art. 465.
+> 1991, ch. 47, art. 726; 2001, ch. 9, art. 465; 2007, ch. 6, art. 312.
 
 
 
@@ -15969,10 +16120,10 @@ où :
 
 **Société de portefeuille d’assurances faisant partie d’un groupe**
 
-**731** Par dérogation à l’article 730 mais sous réserve de l’article 732, la société de portefeuille d’assurances qui est du même groupe qu’une autre entité peut, une fois obtenu le consentement de celle-ci et l’agrément du surintendant :
+**731** Par dérogation à l’article 730 mais sous réserve de l’article 732, la société de portefeuille d’assurances qui est du même groupe qu’une autre entité peut, une fois obtenu le consentement de celle-ci :
 - **a)** adopter une dénomination sociale à peu près identique à celle de l’entité ou être constituée en personne morale sous une telle dénomination;
 - **b)** sous réserve des modalités fixées par règlement, exercer une activité ou se faire connaître sous un nom, autre que sa dénomination sociale, à peu près identique à la dénomination sociale de l’entité ou à tout autre nom sous lequel l’entité exerce son activité ou est connue.
-> 1991, ch. 47, art. 731; 2001, ch. 9, art. 465.
+> 1991, ch. 47, art. 731; 2001, ch. 9, art. 465; 2007, ch. 6, art. 313.
 
 
 
@@ -16245,7 +16396,7 @@ où :
 **Documents à envoyer au surintendant**
 
 - **(5)** Lorsqu’ils prennent les mesures autorisées en vertu de l’alinéa (1)b), les administrateurs doivent, avant d’émettre des actions d’une série, envoyer au surintendant un exemplaire du règlement administratif afférent et lui communiquer tous détails sur les séries qui seront émises.
-> 1991, ch. 47, art. 745; 2001, ch. 9, art. 465; 2005, ch. 54, art. 307.
+> 1991, ch. 47, art. 745; 2001, ch. 9, art. 465; 2005, ch. 54, art. 307; 2007, ch. 6, art. 314(A).
 
 
 
@@ -16402,12 +16553,12 @@ où :
 
 **Restriction**
 
-- **(2)** La société de portefeuille d’assurances ne peut toutefois faire aucun versement en vue d’acheter ou de racheter les actions qu’elle a émises, s’il existe des motifs valables de croire que ce faisant elle contrevient, ou contreviendra, aux règlements visés aux paragraphes 992(1) ou (2) ou à l’ordonnance visée au paragraphe 992(3).
+- **(2)** La société de portefeuille d’assurances ne peut toutefois faire aucun versement en vue d’acheter ou de racheter les actions qu’elle a émises, s’il existe des motifs valables de croire que ce faisant elle contrevient ou contreviendra au paragraphe 992(1), aux règlements pris en vertu du paragraphe 992(2) ou à l’ordonnance prise en vertu du paragraphe 992(3).
 
 **Donation d’actions**
 
 - **(3)** La société de portefeuille d’assurances peut accepter toute donation d’actions, mais ne peut limiter ni supprimer l’obligation de les libérer autrement qu’en conformité avec l’article 757.
-> 1991, ch. 47, art. 754; 2001, ch. 9, art. 465.
+> 1991, ch. 47, art. 754; 2001, ch. 9, art. 465; 2007, ch. 6, art. 315.
 
 
 
@@ -16451,7 +16602,7 @@ où :
 
 **Limite**
 
-- **(2)** La réduction est toutefois interdite s’il y a des motifs valables de croire que la société de portefeuille d’assurances contrevient, ou contreviendra de ce fait, aux règlements visés aux paragraphes 992(1) ou (2) ou à l’ordonnance visée au paragraphe 992(3).
+- **(2)** La réduction est toutefois interdite s’il existe des motifs valables de croire que la société de portefeuille d’assurances contrevient ou contreviendra de ce fait au paragraphe 992(1), aux règlements pris en vertu du paragraphe 992(2) ou à l’ordonnance prise en vertu du paragraphe 992(3).
 
 **Teneur de la résolution extraordinaire**
 
@@ -16461,18 +16612,24 @@ où :
 
 - **(4)** La prise d’effet de la résolution extraordinaire est subordonnée à l’agrément écrit du surintendant.
 
+**Exception**
+
+- **(4.1)** Un tel agrément n’est pas nécessaire si, à la fois :
+	- **a)** la réduction du capital déclaré est due uniquement à des changements apportés aux principes comptables visés au paragraphe 331(4);
+	- **b)** aucun remboursement du capital n’est versé aux actionnaires du fait de la réduction.
+
 **Condition préalable**
 
 - **(5)** Le surintendant ne peut approuver la résolution extraordinaire que si, d’une part, celle-ci lui a été présentée dans les trois mois qui suivent son adoption et, d’autre part, un exemplaire de la résolution et un avis d’intention de la demande d’agrément ont été publiés dans la Gazette du Canada.
 
 **Pièces justificatives**
 
-- **(6)** La demande d’agrément est accompagnée des pièces prouvant l’adoption et la publication de la résolution extraordinaire et précisant :
+- **(6)** La demande d’agrément est accompagnée des pièces prouvant l’adoption et la publication de la résolution extraordinaire et précisant :
 	- **a)** le nombre d’actions émises et en circulation de la société de portefeuille d’assurances;
 	- **b)** le résultat du vote par catégories d’actions;
 	- **c)** l’actif et le passif de la société de portefeuille d’assurances;
 	- **d)** les motifs de la réduction projetée.
-> 1991, ch. 47, art. 757; 2001, ch. 9, art. 465.
+> 1991, ch. 47, art. 757; 2001, ch. 9, art. 465; 2007, ch. 6, art. 317.
 
 
 
@@ -16549,7 +16706,7 @@ où :
 
 **Avis au surintendant**
 
-- **(2)** Les administrateurs notifient au surintendant la déclaration de dividendes au moins dix jours avant la date fixée pour leur versement.
+- **(2)** Les administrateurs notifient au surintendant la déclaration de dividendes au moins quinze jours avant la date fixée pour leur versement.
 
 **Dividendes-actions**
 
@@ -16557,8 +16714,8 @@ où :
 
 **Non-versement de dividendes**
 
-- **(4)** Toute déclaration ou tout versement de dividendes est prohibé s’il existe des motifs valables de croire que, ce faisant, la société de portefeuille d’assurances contrevient, ou contreviendra, aux règlements visés aux paragraphes 992(1) ou (2) ou à l’ordonnance visée au paragraphe 992(3).
-> 1991, ch. 47, art. 761; 2001, ch. 9, art. 465.
+- **(4)** Toute déclaration ou tout versement de dividendes est interdit s’il existe des motifs valables de croire que, ce faisant, la société de portefeuille d’assurances contrevient ou contreviendra au paragraphe 992(1), aux règlements pris en vertu du paragraphe 992(2) ou à l’ordonnance prise en vertu du paragraphe 992(3).
+> 1991, ch. 47, art. 761; 2001, ch. 9, art. 465; 2007, ch. 6, art. 318.
 
 
 
@@ -17482,8 +17639,8 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Résidence**
 
-- **(2)** Au moins la moitié des administrateurs de la société de portefeuille d’assurances qui est la filiale d’une institution étrangère et au moins les deux tiers des administrateurs des autres sociétés de portefeuille d’assurances doivent, au moment de leur élection ou nomination, être des résidents canadiens.
-> 2001, ch. 9, art. 465.
+- **(2)** Au moins la moitié des administrateurs de la société de portefeuille d’assurances qui est la filiale d’une institution étrangère et la majorité des administrateurs des autres sociétés de portefeuille d’assurances doivent, au moment de leur élection ou nomination, être des résidents canadiens.
+> 2001, ch. 9, art. 465; 2007, ch. 6, art. 319.
 
 
 
@@ -18656,10 +18813,10 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 
 
-**Approbation du ministre**
+**Approbation du surintendant**
 
-**859** L’approbation prévue au paragraphe 860(4) est sans effet si, au préalable, le ministre n’a pas approuvé par écrit la convention de fusion.
-> 2001, ch. 9, art. 465.
+**859** L’approbation prévue au paragraphe 860(4) est sans effet si, au préalable, le surintendant n’a pas approuvé par écrit la convention de fusion.
+> 2001, ch. 9, art. 465; 2007, ch. 6, art. 320.
 
 
 
@@ -18826,16 +18983,16 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **866** 
 
-- **(1)** Malgré toute disposition contraire de la présente loi ou des règlements, le ministre peut, par arrêté pris sur recommandation du surintendant, autoriser la société de portefeuille d’assurances ayant reçu les lettres patentes à :
+- **(1)** Malgré toute disposition contraire de la présente loi ou des règlements, le ministre peut, par arrêté pris sur recommandation du surintendant, autoriser la société de portefeuille d’assurances ayant reçu les lettres patentes à :
 	- **a)** exercer une activité commerciale précisée dans l’arrêté interdite par ailleurs par la présente loi mais qu’exerçaient à la date du dépôt de la demande de lettres patentes une ou plusieurs des personnes morales fusionnantes;
 	- **b)** maintenir en circulation les titres de créance que la présente loi n’autorise pas la société de portefeuille d’assurances à émettre, dans la mesure où ils étaient déjà en circulation à la date du dépôt de la demande de lettres patentes;
 	- **c)** détenir des éléments d’actif prohibés par la présente loi mais que détenaient, à la date du dépôt de la demande de lettres patentes, une ou plusieurs des personnes morales fusionnantes;
 	- **d)** acquérir et détenir des éléments d’actif dont l’acquisition et la détention sont interdites à une société de portefeuille d’assurances par la présente loi, si une ou plusieurs des personnes morales fusionnantes se trouvaient dans l’obligation, à la date du dépôt de la demande de lettres patentes, de les acquérir;
-	- **e)** tenir à l’étranger les livres et registres dont la présente loi exige la tenue au Canada et tenir et traiter à l’étranger les renseignements et les données se rapportant à la tenue et à la conservation de ces livres et registres.
+	- **e)** tenir à l’étranger les livres et registres dont la présente loi exige la tenue au Canada.
 
 **Durée des exceptions**
 
-- **(2)** L’autorisation accordée en vertu du paragraphe (1) doit préciser la période de validité, laquelle ne peut excéder :
+- **(2)** L’autorisation accordée en vertu du paragraphe (1) doit préciser la période de validité, laquelle ne peut excéder :
 	- **a)** dans les cas visés à l’alinéa (1)a), trente jours à partir de la date de délivrance des lettres patentes ou, lorsque les activités découlent d’ententes existant à la date de délivrance des lettres patentes, la date d’expiration des ententes;
 	- **b)** dans les cas visés à l’alinéa (1)b), dix ans;
 	- **c)** deux ans dans les autres cas.
@@ -18846,10 +19003,10 @@ Les circulaires sont adressées au vérificateur, aux actionnaires faisant l’o
 
 **Réserve**
 
-- **(4)** Le ministre ne peut accorder d’autorisation qui serait encore valable plus de dix ans :
+- **(4)** Le ministre ne peut accorder d’autorisation qui serait encore valable plus de dix ans :
 	- **a)** après la date de prise d’effet des lettres patentes de fusion dans les cas visés à l’alinéa (1)b), à moins qu’il n’estime, sur la foi d’une déposition sous serment d’un dirigeant de la société de portefeuille d’assurances, qu’il sera juridiquement impossible à celle-ci de racheter les titres de créance encore en circulation à l’expiration de ce délai et qui font l’objet de l’autorisation;
 	- **b)** après la date de prise d’effet des lettres patentes de fusion dans les cas visés aux alinéas (1)c) et d).
-> 2001, ch. 9, art. 465.
+> 2001, ch. 9, art. 465; 2007, ch. 6, art. 321.
 
 
 
@@ -19071,32 +19228,16 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 
 
-**Lieu de conservation et traitement des données**
+**Lieu de conservation et de traitement des données**
 
 **876** 
 
-- **(1)** Sous réserve du paragraphe (3), la société de portefeuille d’assurances doit conserver et traiter au Canada tous les renseignements ou données se rapportant à la tenue et à la conservation des livres visés à l’article 869 ou du registre central des valeurs mobilières, sauf si le surintendant a, aux conditions qu’il estime indiquées, exempté la société de l’application du présent article.
-
-**Copies**
-
-- **(2)** Sous réserve des paragraphes (3) et (4), la société peut conserver à l’étranger des exemplaires des livres visés à l’article 869 ou du registre central des valeurs mobilières, et y traiter les renseignements et les données afférents.
-
-**Renseignements à fournir au surintendant**
-
-- **(3)** Le cas visé au paragraphe (2) échéant, la société de portefeuille d’assurances en informe le surintendant et lui fournit une liste des exemplaires conservés à l’étranger et une description du traitement à l’étranger des renseignements et des données s’y rapportant, ainsi que les autres renseignements que le surintendant peut exiger.
-
-**Traitement des renseignements au Canada**
-
-- **(4)** S’il estime que la conservation à l’étranger des exemplaires ou que le fait de traiter à l’étranger les renseignements et données s’y rapportant constitue un obstacle à l’exécution de ses fonctions ou s’il est avisé que cela n’est pas, selon le ministre, dans l’intérêt national, le surintendant ordonne à la société de portefeuille d’assurances d’y procéder au Canada.
+- **(1)** S’il estime que la conservation dans un pays étranger des exemplaires de livres visés à l’article 869 ou du registre central des valeurs mobilières de la société de portefeuille d’assurances ou le fait de traiter dans un pays étranger les renseignements et données se rapportant à la tenue et à la conservation des livres ou du registre constitue un obstacle à l’exécution des fonctions qui lui sont conférées en vertu de la présente loi, ou s’il est avisé que cela n’est pas, selon le ministre, dans l’intérêt national, le surintendant ordonne à la société de portefeuille d’assurances de s’abstenir de se livrer à ces activités dans ce pays ou de ne s’y livrer qu’au Canada.
 
 **Obligation de se conformer**
 
-- **(5)** La société de portefeuille d’assurances doit sans délai exécuter l’ordre visé au paragraphe (4).
-
-**Directives**
-
-- **(6)** Le surintendant doit donner des directives sur les circonstances qui peuvent justifier l’exemption visée au paragraphe (1).
-> 2001, ch. 9, art. 465; 2005, ch. 54, art. 346.
+- **(2)** La société de portefeuille d’assurances doit exécuter sans délai l’ordre visé au paragraphe (1).
+> 2001, ch. 9, art. 465; 2005, ch. 54, art. 346; 2007, ch. 6, art. 322.
 
 
 
@@ -20084,17 +20225,17 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 
 **927** 
 
-- **(1)** Il est interdit à une personne — ou à l’entité qu’elle contrôle — d’acquérir, sans l’agrément du ministre, des actions d’une société de portefeuille d’assurances ou le contrôle d’une entité qui détient de telles actions si l’acquisition :
+- **(1)** Il est interdit à une personne — ou à l’entité qu’elle contrôle — d’acquérir, sans l’agrément du ministre, des actions d’une société de portefeuille d’assurances ou le contrôle d’une entité qui détient de telles actions si l’acquisition, selon le cas :
 	- **a)** lui confère un intérêt substantiel dans une catégorie d’actions de la société de portefeuille d’assurances en question;
 	- **b)** augmente l’intérêt substantiel qu’elle détient déjà.
 
 **Assimilation**
 
-- **(2)** Dans le cas où une fusion, un regroupement ou une réorganisation confère à l’entité qui en est issue un intérêt substantiel dans une catégorie d’actions d’une société de portefeuille d’assurances, cette entité est réputée acquérir un intérêt substantiel dans cette catégorie d’actions de la société de portefeuille d’assurances et cette acquisition requiert l’agrément du ministre.
+- **(2)** Dans le cas où l’entité issue d’une fusion, d’un regroupement ou d’une réorganisation aurait un intérêt substantiel dans une catégorie d’actions d’une société de portefeuille d’assurances, cette entité est réputée se voir conférer, dans le cadre d’une acquisition qui requiert l’agrément prévu au paragraphe (1), un intérêt substantiel dans cette catégorie d’actions.
 
 **Exemption**
 
-- **(3)** Sur demande d’une société de portefeuille d’assurances — sauf une société de portefeuille d’assurances à l’égard de laquelle les paragraphes (4) ou (6) s’appliquent — , le surintendant peut soustraire à l’application du paragraphe (1) et de l’article 934 toute catégorie d’actions sans droit de vote de la société de portefeuille d’assurances dont la valeur comptable ne représente pas plus de trente pour cent de la valeur comptable des actions en circulation de la société de portefeuille d’assurances.
+- **(3)** Sur demande d’une société de portefeuille d’assurances — sauf une société de portefeuille d’assurances à l’égard de laquelle les paragraphes (4) ou (6) s’appliquent —, le surintendant peut soustraire à l’application du paragraphe (1) et de l’article 934 toute catégorie d’actions sans droit de vote de la société de portefeuille d’assurances dont la valeur comptable ne représente pas plus de trente pour cent de la valeur comptable des actions en circulation de la société de portefeuille d’assurances.
 
 **Restrictions**
 
@@ -20107,7 +20248,7 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 **Restrictions**
 
 - **(6)** Malgré le paragraphe (1), il est interdit à toute personne, avant que ne se soient écoulés deux ans depuis le 31 décembre 1999, d’avoir un intérêt substantiel dans une catégorie quelconque d’actions d’une société de portefeuille d’assurances à laquelle le paragraphe 407(13) s’applique.
-> 2001, ch. 9, art. 465.
+> 2001, ch. 9, art. 465; 2007, ch. 6, art. 323.
 
 
 
@@ -20195,8 +20336,14 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 
 **Interdiction d’acquérir sans l’agrément du ministre**
 
-**932** Il est interdit à une personne d’acquérir le contrôle d’une société de portefeuille d’assurances, au sens de l’alinéa 3(1)d), sans l’agrément préalable du ministre.
-> 2001, ch. 9, art. 465.
+**932** 
+
+- **(1)** Il est interdit à une personne d’acquérir, sans l’agrément du ministre, le contrôle, au sens de l’alinéa 3(1)d), d’une société de portefeuille d’assurances.
+
+**Assimilation**
+
+- **(2)** Dans le cas où l’entité issue d’une fusion, d’un regroupement ou d’une réorganisation aurait le contrôle, au sens de l’alinéa 3(1)d), d’une société de portefeuille d’assurances, cette entité est réputée en acquérir, dans le cadre d’une acquisition qui requiert l’agrément prévu au paragraphe (1), le contrôle au sens de cet alinéa.
+> 2001, ch. 9, art. 465; 2007, ch. 6, art. 324.
 
 
 
@@ -20289,20 +20436,20 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 
 **938** 
 
-- **(1)** À compter de la date fixée à son égard conformément au présent article, chaque société de portefeuille d’assurances doit avoir un nombre d’actions conférant au moins trente-cinq pour cent des droits de vote attachés à l’ensemble de ses actions en circulation, et qui :
+- **(1)** À compter de la date fixée à son égard conformément au présent article, chaque société de portefeuille d’assurances doit avoir un nombre d’actions conférant au moins trente-cinq pour cent des droits de vote attachés à l’ensemble de ses actions en circulation, et qui :
 	- **a)** d’une part, sont des actions d’une ou plusieurs catégories cotées et négociables dans une bourse reconnue au Canada;
 	- **b)** d’autre part, sont des actions dont aucune personne qui est un actionnaire important à l’égard de ses actions avec droit de vote ni aucune entité contrôlée par une telle personne n’a la propriété effective.
 
 **Détermination de la date**
 
-- **(2)** La date applicable se situe trois ans après :
-	- **a)** dans le cas d’une société de portefeuille d’assurances dont les capitaux propres sont égaux ou supérieurs à un milliard de dollars, la date de sa constitution;
-	- **b)** dans les autres cas, la première assemblée annuelle des actionnaires suivant le moment où les capitaux propres de la société de portefeuille d’assurances ont atteint pour la première fois un milliard de dollars.
+- **(2)** La date applicable se situe trois ans après :
+	- **a)** dans le cas d’une société de portefeuille d’assurances dont les capitaux propres sont égaux ou supérieurs à deux milliards de dollars, la date de sa constitution;
+	- **b)** dans les autres cas, la première assemblée annuelle des actionnaires suivant le moment où les capitaux propres de la société de portefeuille d’assurances ont atteint pour la première fois deux milliards de dollars.
 
 **Prolongation**
 
 - **(3)** Le ministre peut, si les conditions générales du marché le justifient et s’il est convaincu que la société de portefeuille d’assurances a fait de son mieux pour se conformer au présent article à la date fixée aux termes du paragraphe (2), reculer la date à compter de laquelle la société de portefeuille d’assurances devra se conformer au paragraphe (1).
-> 2001, ch. 9, art. 465.
+> 2001, ch. 9, art. 465; 2007, ch. 6, art. 335.
 
 
 
@@ -20380,14 +20527,14 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 
 **943** 
 
-- **(1)** Sous réserve du paragraphe (2) et des articles 934 et 944, l’article 938 ne s’applique pas à la société de portefeuille d’assurances ayant des capitaux propres d’au moins un milliard de dollars et dont une personne ou une entité qu’elle contrôle prend le contrôle en acquérant tout ou partie de ses actions.
+- **(1)** Sous réserve du paragraphe (2) et des articles 934 et 944, l’article 938 ne s’applique pas à la société de portefeuille d’assurances ayant des capitaux propres d’au moins deux milliards de dollars et dont une personne ou une entité qu’elle contrôle prend le contrôle en acquérant tout ou partie de ses actions.
 
 **Engagement préalable**
 
-- **(2)** L’application du paragraphe (1) est toutefois subordonnée à l’engagement envers le ministre par la personne concernée de prendre toutes les mesures nécessaires pour que, dans les trois ans qui suivent ou dans le délai fixé par le ministre, la société de portefeuille d’assurances ait un nombre d’actions qui confèrent au moins trente-cinq pour cent des droits de vote attachés à l’ensemble de ses actions en circulation et qui :
+- **(2)** L’application du paragraphe (1) est toutefois subordonnée à l’engagement envers le ministre par la personne concernée de prendre toutes les mesures nécessaires pour que, dans les trois ans qui suivent ou dans le délai fixé par le ministre, la société de portefeuille d’assurances ait un nombre d’actions qui confèrent au moins trente-cinq pour cent des droits de vote attachés à l’ensemble de ses actions en circulation et qui :
 	- **a)** d’une part, sont des actions d’une ou plusieurs catégories cotées et négociables dans une bourse reconnue au Canada;
 	- **b)** d’autre part, sont des actions dont aucune personne qui est un actionnaire important à l’égard de ses actions avec droit de vote ni aucune entité contrôlée par une telle personne n’a la propriété effective.
-> 2001, ch. 9, art. 465.
+> 2001, ch. 9, art. 465; 2007, ch. 6, art. 335.
 
 
 
@@ -20837,7 +20984,15 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 **Exception : fait involontaire**
 
 - **(4)** La société de portefeuille d’assurances est réputée ne pas contrevenir au paragraphe (1) quand elle acquiert le contrôle d’une entité ou acquiert ou augmente un intérêt de groupe financier dans une entité en raison uniquement d’un événement dont elle n’est pas maître.
-> 2001, ch. 9, art. 465.
+
+**Application d’une autre disposition**
+
+- **(5)** Malgré l’acquisition par elle du contrôle d’une entité ou d’un intérêt de groupe financier dans une entité au titre d’une disposition de la présente partie, la société de portefeuille d’assurances peut continuer à contrôler l’entité ou à détenir l’intérêt de groupe financier comme si elle avait procédé à l’acquisition au titre d’une autre disposition de la présente partie, pourvu que les conditions prévues par cette autre disposition soient respectées.
+
+**Assimilation**
+
+- **(6)** Si elle décide d’exercer le pouvoir prévu au paragraphe (5), la société de portefeuille d’assurances est réputée acquérir le contrôle ou l’intérêt de groupe financier au titre de l’autre disposition.
+> 2001, ch. 9, art. 465; 2007, ch. 6, art. 325.
 
 
 
@@ -20874,7 +21029,7 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 	- **g)** une société de fiducie, de prêt ou d’assurances constituée en personne morale ou formée sous le régime d’une loi provinciale;
 	- **h)** une société coopérative de crédit constituée en personne morale ou formée et réglementée sous le régime d’une loi provinciale;
 	- **i)** une entité constituée en personne morale ou formée sous le régime d’une loi fédérale ou provinciale et dont l’activité principale est le commerce des valeurs mobilières;
-	- **j)** une entité qui est constituée en personne morale ou formée et réglementée autrement que sous le régime d’une loi fédérale ou provinciale et qui exerce principalement, à l’étranger, des activités qui, au Canada, seraient des opérations bancaires, l’activité d’une société coopérative de crédit, l’assurance, la prestation de services fiduciaires ou le commerce de valeurs mobilières.
+	- **j)** une entité qui est constituée en personne morale ou formée et réglementée autrement que sous le régime d’une loi fédérale ou provinciale et qui exerce principalement, à l’étranger, des activités commerciales qui, au Canada, seraient des opérations bancaires, l’activité d’une société coopérative de crédit, des opérations d’assurance, la prestation de services fiduciaires ou le commerce de valeurs mobilières.
 
 **Placements autorisés**
 
@@ -20890,7 +21045,7 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 	- **d)** toute activité qu’une société d’assurance-vie peut exercer, autre qu’une activité visée aux alinéas a) ou e), se rapportant :
 		- **(i)** soit à la vente, la promotion, la livraison ou la distribution d’un service ou d’un produit financiers fournis par un membre du groupe de la société de portefeuille d’assurances,
 		- **(ii)** soit, si l’activité commerciale de l’entité consiste, en grande partie, en une activité visée au sous-alinéa (i), à la vente, la promotion, la livraison ou la distribution d’un service ou d’un produit financiers d’une entité dont l’activité commerciale principale consiste en la prestation de services financiers;
-	- **e)** les activités visées aux définitions de « entité s’occupant de fonds mutuels » ou « courtier de fonds mutuels » au paragraphe 490(1);
+	- **e)** les activités visées aux définitions de ***courtier de fonds mutuels***, ***entité s’occupant de fonds mutuels*** ou ***fonds d’investissement à capital fixe*** au paragraphe 490(1);
 	- **f)** les activités prévues par règlement, pourvu qu’elles s’exercent selon les modalités éventuellement fixées par règlement.
 
 **Restriction**
@@ -20904,16 +21059,26 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 		- **(ii)** dans le cas où l’entité n’est pas contrôlée par la société de portefeuille d’assurances, l’acquisition par une société d’un intérêt de groupe financier dans l’autre entité serait permise aux termes du paragraphe 493(2), des alinéas 493(3)b) ou c) ou des paragraphes 493(4) ou 495(1) ou (2);
 	- **e)** des activités prévues par règlement.
 
+**Exception**
+
+- **(3.1)** Malgré l’alinéa (3)a), la société de portefeuille d’assurances peut acquérir le contrôle d’une entité qui exerce des activités de fiduciaire et y est autorisée par les lois d’une province ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité, si elle est, selon le cas :
+	- **a)** un fonds d’investissement à capital fixe;
+	- **b)** une entité s’occupant de fonds mutuels;
+	- **c)** une entité dont l’activité commerciale est limitée à l’une ou l’autre des activités suivantes :
+		- **(i)** les activités d’un courtier de fonds mutuels,
+		- **(ii)** les services qu’une société est autorisée à fournir dans le cadre du paragraphe 441(1.1),
+		- **(iii)** la prestation de services de conseil en placement et de gestion de portefeuille.
+
 **Contrôle**
 
 - **(4)** Sous réserve du paragraphe (8) et des règlements, les règles suivantes s’appliquent à l’acquisition par la société de portefeuille d’assurances du contrôle des entités suivantes et à l’acquisition ou à l’augmentation par elle d’un intérêt de groupe financier dans ces entités :
 	- **a)** s’agissant d’une entité visée aux alinéas (1)a) à j), elle ne peut le faire que si :
 		- **(i)** soit elle la contrôle ou en acquiert de la sorte le contrôle, au sens de l’alinéa 3(1)d),
 		- **(ii)** soit elle est autorisée par règlement pris en vertu de l’alinéa 977a) à acquérir ou augmenter l’intérêt;
-	- **b)** s’agissant d’une entité qui exerce une activité visée à l’alinéa (2)a) et qui exerce, dans le cadre de son activité commerciale, des activités d’intermédiaire financier comportant des risques importants de crédit ou de marché, notamment une entité s’occupant d’affacturage, une entité s’occupant de crédit-bail ou une entité s’occupant de financement, elle ne peut le faire que si :
+	- **b)** s’agissant d’une entité dont l’activité commerciale comporte une activité visée à l’alinéa (2)a) et qui exerce, dans le cadre de son activité commerciale, des activités d’intermédiaire financier comportant des risques importants de crédit ou de marché, notamment une entité s’occupant d’affacturage, une entité s’occupant de crédit-bail ou une entité s’occupant de financement, elle ne peut le faire que si :
 		- **(i)** soit elle la contrôle ou en acquiert de la sorte le contrôle, au sens de l’alinéa 3(1)d);
 		- **(ii)** soit elle est autorisée par règlement pris en vertu de l’alinéa 977a) à acquérir ou augmenter l’intérêt;
-	- **c)** s’agissant d’une entité qui exerce une activité visée à l’alinéa (2)b), y compris une entité s’occupant de financement spécial, elle ne peut le faire que si :
+	- **c)** s’agissant d’une entité dont l’activité commerciale comporte une activité visée à l’alinéa (2)b), y compris une entité s’occupant de financement spécial, elle ne peut le faire que si :
 		- **(i)** soit elle la contrôle ou en acquiert de la sorte le contrôle, au sens de l’alinéa 3(1)d),
 		- **(ii)** soit elle est autorisée par règlement pris en vertu de l’alinéa 977a) à acquérir ou augmenter l’intérêt,
 		- **(iii)** soit, sous réserve des modalités éventuellement fixées par règlement, les activités de l’entité ne comportent pas l’acquisition ou la détention du contrôle d’une entité visée aux alinéas a) ou b) ou d’une entité qui n’est pas une entité admissible, ni d’actions ou de titres de participation dans celle-ci.
@@ -20926,7 +21091,8 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 		- **(i)** une entité s’occupant d’affacturage,
 		- **(ii)** une entité s’occupant de crédit-bail;
 	- **c)** acquérir le contrôle d’une entité dont l’activité commerciale comporte des activités visées à l’alinéa (2)d) ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité;
-	- **d)** acquérir le contrôle d’une entité qui exerce des activités visées aux alinéas 441(1)d) ou d.1) ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité;
+	- **d)** acquérir le contrôle d’une entité qui exerce au Canada des activités visées à l’alinéa 441(1)d) ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité;
+	- **d.1)** acquérir le contrôle d’une entité qui exerce des activités visées à l’alinéa 441(1)d.1) ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité;
 	- **e)** acquérir le contrôle d’une entité qui exerce des activités prévues par règlement d’application de l’alinéa (2)f) ou acquérir ou augmenter un intérêt de groupe financier dans une telle entité.
 
 **Agrément du surintendant**
@@ -20936,7 +21102,7 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 **Exception**
 
 - **(7)** Le paragraphe (6) ne s’applique pas à une opération dans l’un ou l’autre des cas suivants :
-	- **a)** l’entité dont le contrôle est acquis exerce une activité visée à l’alinéa (2)b) mais n’est pas une entité s’occupant de financement spécial;
+	- **a)** l’entité dont le contrôle est acquis n’est pas une entité s’occupant de financement spécial et le seul motif pour lequel l’agrément serait exigé, n’eût été le présent paragraphe, est l’exercice par elle d’une activité visée à l’alinéa (2)b);
 	- **b)** les activités de l’entité dont le contrôle est acquis se limitent aux activités qu’exercent une entité s’occupant d’affacturage ou une entité s’occupant de crédit-bail;
 	- **c)** le ministre a agréé l’opération dans le cadre du paragraphe (5) ou il est réputé l’avoir agréée dans le cadre du paragraphe 972(1).
 
@@ -20957,7 +21123,7 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 **Présomption d’agrément**
 
 - **(11)** Si la société de portefeuille d’assurances contrôle, au sens des alinéas 3(1)a), b) ou c), une entité, les paragraphes (5) et (6) ne s’appliquent pas aux augmentations postérieures par la société de portefeuille d’assurances de son intérêt de groupe financier dans l’entité tant qu’elle continue de la contrôler.
-> 2001, ch. 9, art. 465.
+> 2001, ch. 9, art. 465; 2007, ch. 6, art. 326 et 336(F).
 
 
 
@@ -21019,14 +21185,14 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 
 **Placement provisoire**
 
-- **(3)** La société de portefeuille d’assurances qui, au moyen d’un placement provisoire, acquiert le contrôle ou acquiert ou augmente un intérêt de groupe financier dans un cas où l’agrément du ministre est requis dans le cadre du paragraphe 971(5) doit, dans les quatre-vingt-dix jours qui suivent l’acquisition :
-	- **a)** soit demander l’agrément du ministre pour continuer à détenir le contrôle ou l’intérêt pour la période précisée par le ministre ou pour une période indéterminée, aux conditions que celui-ci estime indiquées;
+- **(3)** La société de portefeuille d’assurances qui, au moyen d’un placement provisoire, acquiert le contrôle ou acquiert ou augmente un intérêt de groupe financier dans un cas où l’agrément du ministre aurait été requis dans le cadre du paragraphe 971(5) si le contrôle avait été acquis ou l’intérêt de groupe financier acquis ou augmenté au titre de l’article 971 doit, dans les quatre-vingt-dix jours qui suivent l’acquisition :
+	- **a)** soit demander l’agrément du ministre pour continuer à détenir le contrôle ou l’intérêt pour la période précisée par le ministre ou pour une période indéterminée, aux conditions que celui-ci estime appropriées;
 	- **b)** soit prendre les mesures nécessaires pour éliminer le contrôle ou ne plus détenir un intérêt de groupe financier à l’expiration des quatre-vingt-dix jours.
 
 **Placement provisoire**
 
-- **(4)** Si la société de portefeuille d’assurances, au moyen d’un placement provisoire, acquiert le contrôle ou acquiert ou augmente un intérêt de groupe financier dans un cas où l’agrément du surintendant est requis dans le cadre du paragraphe 971(6), le surintendant peut, sur demande, autoriser la société de portefeuille d’assurances à conserver le contrôle de l’entité ou l’intérêt de groupe financier pour une période indéterminée, aux conditions qu’il estime indiquées.
-> 2001, ch. 9, art. 465.
+- **(4)** Si la société de portefeuille d’assurances, au moyen d’un placement provisoire, acquiert le contrôle ou acquiert ou augmente un intérêt de groupe financier dans un cas où l’agrément du surintendant aurait été requis dans le cadre du paragraphe 971(6) si le contrôle avait été acquis ou l’intérêt de groupe financier acquis ou augmenté au titre de l’article 971, le surintendant peut, sur demande, autoriser la société de portefeuille d’assurances à conserver le contrôle de l’entité ou l’intérêt de groupe financier pour une période indéterminée, aux conditions qu’il estime appropriées.
+> 2001, ch. 9, art. 465; 2007, ch. 6, art. 327.
 
 
 
@@ -21255,7 +21421,7 @@ Ces documents doivent contenir les renseignements et les détails que le conseil
 
 **987** 
 
-- **(1)** Il est interdit à la société de portefeuille d’assurances — et celle-ci doit l’interdire à ses filiales — sans l’agrément du surintendant, d’acquérir des éléments d’actif auprès d’une personne ou de céder des éléments d’actif à une personne si :
+- **(1)** Il est interdit à la société de portefeuille d’assurances — et celle-ci doit l’interdire à ses filiales — sans l’agrément du surintendant, d’acquérir des éléments d’actif auprès d’une personne ou de céder des éléments d’actif à une personne si :
 ```
 A + B > C
 ```
@@ -21264,32 +21430,36 @@ où :
 - **B** la valeur de tous les éléments d’actif que la société de portefeuille d’assurances et ses filiales ont acquis auprès de cette personne ou cédés à celle-ci pendant la période de douze mois précédant la date d’acquisition ou de cession;
 - **C** dix pour cent de la valeur totale de l’actif de la société de portefeuille d’assurances figurant dans le dernier rapport annuel établi avant la date d’acquisition ou de cession.
 
-**Exception**
+**Agrément dans le cadre d’une ou de plusieurs opérations**
 
-- **(2)** L’interdiction prévue au paragraphe (1) ne s’applique toutefois pas :
-	- **a)** aux éléments d’actif qui consistent en titres de créance visés aux sous-alinéas b)(i) à (v) de la définition de « prêt commercial » au paragraphe 490(1);
-	- **b)** aux opérations ou séries d’opérations intervenues entre une filiale de la société de portefeuille d’assurances et une institution financière à la suite de la participation de la filiale et de l’institution à la syndication de prêts.
+- **(1.1)** Le surintendant peut, pour l’application du paragraphe (1), agréer une opération ou une série d’opérations liée à l’acquisition ou à la cession d’éléments d’actif pouvant être conclue avec une personne ou avec plusieurs personnes faisant partie d’une catégorie déterminée, qu’elles soient connues ou non au moment de l’octroi de l’agrément.
 
 **Exception**
 
-- **(3)** L’agrément du surintendant n’est pas nécessaire dans l’un ou l’autre des cas suivants :
+- **(2)** Le paragraphe (1) ne s’applique pas :
+	- **a)** aux éléments d’actif qui consistent en titres de créance visés aux sous-alinéas b)(i) à (v) de la définition de ***prêt commercial*** au paragraphe 490(1);
+	- **b)** aux éléments d’actif acquis ou cédés dans le cadre d’une opération ou d’une série d’opérations intervenue entre une filiale de la société de portefeuille d’assurances et une institution financière à la suite de la participation de la filiale et de l’institution à la syndication de prêts.
+
+**Exception**
+
+- **(3)** L’agrément du surintendant n’est pas nécessaire dans l’un ou l’autre des cas suivants :
 	- **a)** la société de portefeuille d’assurances ou l’une de ses filiales acquiert les actions ou des titres de participation d’une entité dans un cas où l’agrément du ministre est requis dans le cadre de la section 7 ou du paragraphe 971(5) ou dans un cas où l’agrément du surintendant est requis dans le cadre du paragraphe 971(6);
 	- **b)** l’opération a été approuvée par le ministre dans le cadre du paragraphe 715(1) de la présente loi ou du paragraphe 678(1) de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md).
 
 **Calcul de la valeur des éléments d’actif**
 
-- **(4)** Pour le calcul de l’élément A de la formule figurant au paragraphe (1), la valeur des éléments d’actif est :
+- **(4)** Pour le calcul de l’élément A de la formule figurant au paragraphe (1), la valeur des éléments d’actif est :
 	- **a)** dans le cas où les éléments sont acquis, leur prix d’achat ou, s’il s’agit d’actions ou de titres de participation d’une entité dont les éléments d’actif figureront au rapport annuel de la société de portefeuille d’assurances après l’acquisition, la juste valeur marchande de ces éléments d’actif;
-	- **b)** dans le cas où les éléments sont cédés, la valeur comptable des éléments figurant au dernier rapport annuel de la société de portefeuille d’assurances établi avant la date de cession ou, s’il s’agit d’actions ou de titres de participation d’une entité dont les éléments d’actif figuraient au dernier rapport annuel établi avant la date de cession, la valeur des éléments figurant dans le rapport annuel.
+	- **b)** dans le cas où les éléments sont cédés, la valeur des éléments qui est visée au dernier rapport annuel de la société de portefeuille d’assurances établi avant la cession ou, si la valeur n’est pas visée à ce rapport, la valeur qui serait visée au dernier rapport si celui-ci avait été établi avant la cession selon les principes comptables visés au paragraphe 887(4).
 
-**Sens de « valeur de tous les éléments d’actif »**
+**Sens de valeur de tous les éléments d’actif**
 
 - **(5)** Pour l’application du paragraphe (1), la valeur de tous les éléments d’actif acquis par une société de portefeuille d’assurances et ses filiales au cours de la période de douze mois visée au paragraphe (1) est leur prix d’achat ou, s’il s’agit d’actions ou de titres de participation d’une entité dont les éléments d’actif figureront au rapport annuel de la société de portefeuille d’assurances après l’acquisition, la juste valeur marchande de ces éléments d’actif à la date d’acquisition.
 
-**Sens de « valeur de tous les éléments d’actif »**
+**Valeur de tous les éléments d’actif**
 
-- **(6)** Pour l’application du paragraphe (1), la valeur de tous les éléments d’actif cédés par une société de portefeuille d’assurances et ses filiales au cours de la période de douze mois visée au paragraphe (1) est la valeur comptable des éléments figurant au dernier rapport annuel de la société de portefeuille d’assurances établi avant la date de cession ou, s’il s’agit d’actions ou de titres de participation d’une entité dont les éléments d’actif figuraient au dernier rapport annuel établi avant la date de cession, la valeur des éléments de l’entité figurant dans le rapport annuel.
-> 2001, ch. 9, art. 465.
+- **(6)** Pour l’application du paragraphe (1), la valeur de tous les éléments d’actif cédés par une société de portefeuille d’assurances et ses filiales au cours de la période de douze mois visée au paragraphe (1) est le total de la valeur de chacun de ces éléments qui est visée au dernier rapport annuel de la société établi avant la cession de l’élément ou, si elle n’est pas visée à ce rapport, qui serait visée au dernier rapport, si celui-ci avait été établi avant la cession selon les principes comptables visés au paragraphe 887(4).
+> 2001, ch. 9, art. 465; 2007, ch. 6, art. 328.
 
 
 
@@ -21337,23 +21507,23 @@ cependant, après cette date, le montant du prêt ou du placement qui se trouve 
 
 **991** 
 
-- **(1)** L’entité ne s’occupant pas d’assurances dont une partie des activités consiste à fournir des services financiers ne peut contracter un emprunt au Canada auprès du public sans indiquer qu’elle n’est pas réglementée au Canada au même titre qu’une institution financière.
+- **(1)** L’entité ne s’occupant pas d’assurances dont une partie des activités commerciales consiste à fournir des services financiers ne peut contracter un emprunt au Canada auprès du public sans indiquer qu’elle n’est pas réglementée au Canada au même titre qu’une institution financière.
 
 **Modalités de communication**
 
-- **(2)** La communication doit se faire :
+- **(2)** La communication doit se faire :
 	- **a)** soit dans un prospectus, une circulaire d’information, une offre ou un document semblable relatif à l’emprunt ou, en l’absence d’un tel document, dans une déclaration remise au prêteur;
 	- **b)** soit selon les modalités fixées par règlement.
 
 **Exclusion de certains emprunts**
 
-- **(3)** Le paragraphe (1) ne s’applique pas :
+- **(3)** Le paragraphe (1) ne s’applique pas :
 	- **a)** aux emprunts appartenant à une catégorie ou à un genre prévus par règlement et aux emprunts contractés dans les circonstances prévues par règlement ou de la manière prévue par règlement;
-	- **b)** sauf disposition contraire des règlements, aux emprunts de 150 000 $ ou plus contractés auprès d’une personne et aux emprunts contractés par l’émission de titres dont la valeur nominale est de 150 000 $ ou plus.
+	- **b)** sauf disposition contraire des règlements, aux emprunts de 150 000 $ ou plus contractés auprès d’une personne et aux emprunts contractés par l’émission de titres dont la valeur nominale est de 150 000 $ ou plus.
 
 **Exception**
 
-- **(4)** Le paragraphe (1) ne s’applique pas si l’entité ne s’occupant pas d’assurances est :
+- **(4)** Le paragraphe (1) ne s’applique pas si l’entité ne s’occupant pas d’assurances est :
 	- **a)** une société de portefeuille d’assurances ou une société de portefeuille bancaire;
 	- **b)** une banque;
 	- **c)** une entité contrôlée par une société de portefeuille bancaire ou dans laquelle celle-ci détient un intérêt de groupe financier;
@@ -21361,7 +21531,7 @@ cependant, après cette date, le montant du prêt ou du placement qui se trouve 
 	- **e)** une institution financière visée à l’alinéa g) de la définition de ce terme à l’article 2;
 	- **f)** une entité visée aux alinéas 971(1)f) ou h);
 	- **g)** une entité visée par règlement.
-> 2001, ch. 9, art. 465.
+> 2001, ch. 9, art. 465; 2007, ch. 6, art. 329(F).
 
 
 
@@ -21862,42 +22032,114 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 
 
-### Agréments : conditions et engagements
+### Agréments
 
 
 
-**Définition de « agrément »**
+**Définition de agrément**
 
-**1016** 
+**1016** Aux articles 1016.1 à 1016.6, ***agrément*** s’entend notamment de toute approbation, désignation, consentement, accord, arrêté, ordonnance, exemption, dispense, prorogation ou prolongation ou autre autorisation accordée sous le régime de la présente loi, par le ministre ou le surintendant, selon le cas; y est assimilée la délivrance de lettres patentes.
+> 2001, ch. 9, art. 465; 2007, ch. 6, art. 330.
 
-- **(1)** Au présent article, ***agrément*** s’entend notamment de toute approbation, consentement, accord, arrêté, ordonnance, exemption, dispense, prorogation ou prolongation ou autre autorisation accordée en vertu de la présente loi, par le ministre ou le surintendant, selon le cas; y est assimilée la délivrance de lettres patentes.
 
-**Ministre : conditions et engagements**
 
-- **(2)** Sans préjudice de toute autre mesure fondée sur la présente loi, le ministre peut subordonner l’octroi de son agrément à la réalisation des conditions et engagements qu’il estime nécessaires, notamment ceux que précise le surintendant afin de mettre en oeuvre des mesures visant à maintenir ou à améliorer la santé financière de toute institution financière régie par une loi fédérale et visée par l’agrément ou susceptible d’être touchée par celui-ci.
 
-**Surintendant : conditions et engagements**
 
-- **(3)** Sans préjudice de toute autre mesure fondée sur la présente loi, le surintendant peut subordonner l’octroi de son agrément à la réalisation des conditions et engagements qu’il estime nécessaires.
+**Facteurs : ministre**
 
-**Effet de la non-réalisation des conditions ou engagements**
+**1016.1** 
 
-- **(4)** Sauf disposition contraire expresse de la présente loi, la non-réalisation des conditions ou engagements auxquels l’agrément est subordonné aux termes d’une disposition quelconque de la présente loi ne rend pas celui-ci nul pour autant.
+- **(1)** Outre les facteurs et conditions prévus par la présente loi qui sont liés à l’octroi d’un agrément, le ministre peut prendre en compte tous les facteurs qu’il estime pertinents dans les circonstances avant d’octroyer son agrément, notamment :
+	- **a)** la sécurité nationale;
+	- **b)** les relations internationales du Canada et ses obligations juridiques internationales.
 
-**Non-réalisation**
+**Facteurs : surintendant**
 
-- **(5)** Sans préjudice de toute autre mesure fondée sur la présente loi, en cas de non-réalisation par une personne des conditions ou engagements auxquels l’agrément est subordonné aux termes d’une disposition quelconque de la présente loi, le ministre ou le surintendant, selon le cas, peut :
-	- **a)** soit révoquer, suspendre ou modifier l’agrément;
-	- **b)** soit demander au tribunal une ordonnance enjoignant à cette personne de se conformer aux conditions ou engagements, le tribunal pouvant alors acquiescer à la demande et rendre toute autre ordonnance qu’il juge indiquée.
+- **(2)** Outre les facteurs et conditions prévus par la présente loi qui sont liés à l’octroi d’un agrément et les considérations de prudence qu’il estime pertinentes dans les circonstances, le surintendant peut, avant d’octroyer son agrément, prendre en compte :
+	- **a)** la sécurité nationale;
+	- **b)** les relations internationales du Canada et ses obligations juridiques internationales.
+> 2007, ch. 6, art. 330.
+
+
+
+
+
+**Ministre : conditions et engagements**
+
+**1016.2** 
+
+- **(1)** Sans préjudice de toute autre mesure fondée sur la présente loi, le ministre peut subordonner l’octroi de son agrément à la réalisation des conditions et engagements qu’il estime appropriés, notamment ceux que précise le surintendant afin de mettre en oeuvre des mesures visant à maintenir ou à améliorer la santé financière de toute institution financière régie par une loi fédérale et visée par l’agrément ou susceptible d’être touchée par celui-ci.
+
+**Surintendant : conditions et engagements**
+
+- **(2)** Sans préjudice de toute autre mesure fondée sur la présente loi, le surintendant peut subordonner l’octroi de son agrément à la réalisation des conditions et engagements qu’il estime appropriés.
+> 2007, ch. 6, art. 330.
+
+
+
+
+
+**Révocation, suspension ou modification de l’agrément du ministre**
+
+**1016.3** 
+
+- **(1)** Le ministre peut révoquer, suspendre ou modifier son agrément s’il l’estime indiqué. Pour ce faire, il peut prendre en compte tous les facteurs qu’il estime pertinents dans les circonstances, notamment :
+	- **a)** la sécurité nationale;
+	- **b)** les relations internationales du Canada et ses obligations juridiques internationales.
+
+**Révocation, suspension ou modification de l’agrément du surintendant**
+
+- **(2)** Le surintendant peut révoquer, suspendre ou modifier son agrément s’il l’estime indiqué. Pour ce faire, il peut prendre en compte les considérations de prudence qu’il estime pertinentes dans les circonstances et les éléments suivants :
+	- **a)** la sécurité nationale;
+	- **b)** les relations internationales du Canada et ses obligations juridiques internationales.
 
 **Observations**
 
-- **(6)** Avant de prendre une mesure en application du paragraphe (5), le ministre ou le surintendant, selon le cas, accorde aux intéressés la possibilité de présenter des observations.
+- **(3)** Avant de prendre une mesure en application du présent article, le ministre ou le surintendant, selon le cas, accorde aux intéressés la possibilité de présenter des observations.
+> 2007, ch. 6, art. 330.
+
+
+
+
+
+**Effet de la non-réalisation des conditions ou engagements**
+
+**1016.4** 
+
+- **(1)** Sauf disposition contraire expresse de la présente loi, la non-réalisation des conditions ou engagements auxquels l’agrément est subordonné aux termes d’une disposition quelconque de la présente loi ne rend pas celui-ci nul pour autant.
+
+**Non-réalisation**
+
+- **(2)** Sans préjudice de toute autre mesure fondée sur la présente loi, en cas de non-réalisation par une personne des conditions ou engagements auxquels l’agrément est subordonné aux termes d’une disposition quelconque de la présente loi, le ministre ou le surintendant, selon le cas, peut :
+	- **a)** révoquer, suspendre ou modifier l’agrément;
+	- **b)** demander au tribunal une ordonnance enjoignant à cette personne de se conformer aux conditions ou engagements, le tribunal pouvant alors acquiescer à la demande et rendre toute autre ordonnance qu’il juge opportune.
+
+**Observations**
+
+- **(3)** Avant de prendre une mesure en application du paragraphe (2), le ministre ou le surintendant, selon le cas, accorde aux intéressés la possibilité de présenter des observations.
 
 **Révocation, suspension ou modification**
 
-- **(7)** Sur demande des intéressés, le ministre ou le surintendant, selon le cas, peut révoquer, suspendre ou modifier les conditions qu’il a imposées ou révoquer ou suspendre les engagements qu’il a exigés ou en approuver la modification.
-> 2001, ch. 9, art. 465.
+- **(4)** Sur demande des intéressés, le ministre ou le surintendant, selon le cas, peut révoquer, suspendre ou modifier les conditions qu’il a imposées, ou révoquer ou suspendre les engagements qu’il a exigés ou en approuver la modification.
+> 2007, ch. 6, art. 330.
+
+
+
+
+
+**Autres agréments**
+
+**1016.5** Le ministre ou le surintendant peut, s’il l’estime indiqué, accorder en un seul acte plusieurs agréments, à l’exception des lettres patentes. Le cas échéant, il peut préciser une date distincte pour la prise d’effet de chacun des agréments.
+> 2007, ch. 6, art. 330.
+
+
+
+
+
+**Pouvoirs du surintendant à l’égard des avis d’intention**
+
+**1016.6** Le surintendant peut, sur demande, soustraire l’auteur ou les auteurs d’une demande d’agrément aux dispositions de la présente loi relatives à la publication d’un avis d’intention concernant les demandes d’agrément et y substituer toute condition qu’il juge appropriée.
+> 2007, ch. 6, art. 330.
 
 
 
@@ -21936,7 +22178,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 - **(1)** Doivent être accompagnées des renseignements et documents que peut exiger le surintendant les demandes suivantes qui lui sont présentées :
 	- **a)** les demandes d’agrément, d’approbation ou d’autorisation visées aux paragraphes 69(1), 76(2), 79(4), 83(5), 84(1), 178(1) ou 238(3), à l’article 453, aux paragraphes 472(1), 495(8) ou (12), 498(1) ou (2) ou 512(1), au sous-alinéa 519(2)b)(vi), à l’article 522, aux paragraphes 523(2), 527(3) ou (4), 528.3(1) ou 542.03(4), à l’article 542.09 ou aux paragraphes 544.1(2), 557(1) ou (2), 569(1), 597(1), 748(1), 755(2), 757(4), 762(1), 805(1), 851(3), 964(1), 971(6) ou (10), 974(1) ou 987(1);
 	- **b)** les demandes d’accord visées aux paragraphes 75(1) ou 754(1);
-	- **c)** les demandes de dispense ou d’exemption visées aux paragraphes 164.04(3), 268(1), 789(3) ou 876(1);
+	- **c)** les demandes de dispense visées aux paragraphes 164.04(3) ou 789(3);
 	- **d)** les demandes de prorogation de délai visées aux paragraphes 498(3) ou (5), 499(4), 500(4), 557(3) ou (5), 558(4), 559(4), 974(2) ou (4), 975(3) ou 976(3).
 
 **Accusé de réception**
@@ -21956,7 +22198,49 @@ Elle lui communique également les renseignements personnels qui les concernent 
 **Présomption**
 
 - **(5)** Le défaut d’envoyer l’avis prévu au paragraphe (3) et, s’il y a lieu, celui prévu au paragraphe (4) dans le délai imparti vaut agrément de la demande et octroi de l’agrément, de l’approbation, de l’autorisation, de l’accord, de l’exemption, de la dispense ou de la prorogation de délai visés par la demande, même si ceux-ci doivent être donnés par écrit.
-> 2001, ch. 9, art. 465.
+> 2001, ch. 9, art. 465; 2007, ch. 6, art. 331.
+
+
+
+
+
+### Demandes relatives à certains agréments
+
+
+
+**Demandes relatives à certains agréments**
+
+**1019.1** 
+
+- **(1)** Toute demande visant l’obtention de l’agrément écrit préalable du ministre faite dans le cadre de l’une ou l’autre des dispositions ci-après est présentée au surintendant et contient les renseignements, documents et éléments de preuve pouvant être exigés par lui :
+	- **a)** les alinéas 441(1)d), d.1) et h);
+	- **b)** les alinéas 495(7)c), d) et d.1);
+	- **c)** l’alinéa 542(2)a);
+	- **d)** le paragraphe 554(5), en ce qui concerne une entité qui exerce une activité visée à l’article 441;
+	- **e)** les alinéas 971(5)c), d) et d.1).
+
+**Accusé de réception**
+
+- **(2)** S’il estime que la demande est complète, le surintendant la transmet, accompagnée de son analyse, au ministre et adresse au demandeur un accusé de réception précisant la date où elle a été transmise au ministre.
+
+**Demande incomplète**
+
+- **(3)** Dans le cas contraire, le surintendant envoie au demandeur un avis précisant les renseignements manquants à lui communiquer.
+
+**Avis au demandeur**
+
+- **(4)** Sous réserve du paragraphe (5), le ministre envoie au demandeur, dans les trente jours suivant la date visée au paragraphe (2) :
+	- **a)** soit un avis d’agrément de la demande;
+	- **b)** soit, s’il n’est pas convaincu que la demande devrait être agréée, un avis de refus.
+
+**Prorogation**
+
+- **(5)** Dans le cas où l’examen de la demande ne peut se faire dans le délai fixé au paragraphe (4), le ministre envoie, avant l’expiration de celui-ci, un avis en informant le demandeur et précisant le nouveau délai.
+
+**Présomption**
+
+- **(6)** Le ministre est réputé avoir agréé la demande s’il omet d’envoyer l’avis prévu au paragraphe (4) et, s’il y a lieu, celui prévu au paragraphe (5) dans le délai imparti.
+> 2007, ch. 6, art. 332.
 
 
 
@@ -22046,6 +22330,15 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **1023** Commet une infraction quiconque contrevient sans motif valable à la présente loi ou à ses règlements.
 > 2001, ch. 9, art. 465.
+
+
+
+
+
+**Renseignements faux ou trompeurs**
+
+**1023.1** Commet une infraction quiconque, relativement à toute question visée par la présente loi ou ses règlements, communique sciemment des renseignements faux ou trompeurs.
+> 2007, ch. 6, art. 333.
 
 
 
@@ -22198,219 +22491,74 @@ Elle lui communique également les renseignements personnels qui les concernent 
 **(article 12)**
 ## Branches d’assurance
 
-**accidents et maladieaccident and sickness insurance**
 
-***accidents et maladie*** Selon le cas :
+***accidents et maladie*** accident and sickness insurance Selon le cas :
+- **a)** assurance contre la perte résultant de blessures corporelles ou du décès d’une personne causés par un accident;
+- **b)** assurance aux termes de laquelle l’assureur s’engage à verser une ou plusieurs sommes en cas de blessures corporelles ou de décès d’une personne causés par un accident;
+- **c)** assurance contre la perte résultant de la maladie ou de l’invalidité d’une personne, à l’exclusion de toute perte résultant du décès de la personne par suite de la maladie, dans la mesure où cette maladie ou invalidité n’a pas été causée par un accident;
+- **d)** assurance aux termes de laquelle l’assureur s’engage à verser une ou plusieurs sommes en cas de maladie ou d’invalidité d’une personne non causée par un accident;
+- **e)** assurance aux termes de laquelle l’assureur s’engage à verser une somme pour les soins de santé d’une personne, notamment les soins dentaires et préventifs.
 
-**a)** assurance contre la perte résultant de blessures corporelles ou du décès d’une personne causés par un accident;
-
-
-
-**b)** assurance aux termes de laquelle l’assureur s’engage à verser une ou plusieurs sommes en cas de blessures corporelles ou de décès d’une personne causés par un accident;
-
-
-
-**c)** assurance contre la perte résultant de la maladie ou de l’invalidité d’une personne, à l’exclusion de toute perte résultant du décès de la personne par suite de la maladie, dans la mesure où cette maladie ou invalidité n’a pas été causée par un accident;
-
-
-
-**d)** assurance aux termes de laquelle l’assureur s’engage à verser une ou plusieurs sommes en cas de maladie ou d’invalidité d’une personne non causée par un accident;
-
-
-
-**e)** assurance aux termes de laquelle l’assureur s’engage à verser une somme pour les soins de santé d’une personne, notamment les soins dentaires et préventifs.
-
-
-
-
-
-**assurance-aviationaircraft insurance**
-
-***assurance-aviation*** Selon le cas :
-
-**a)** assurance de responsabilité pour blessures corporelles ou décès d’une personne ou pour perte ou dommage matériels, causés par un avion ou par son utilisation;
-
-
-
-**b)** assurance contre la perte d’un avion ou de son utilisation ou contre le dommage causé à un avion.
-
-
-
-
-
-**assurance de biensproperty insurance**
+***assurance-aviation*** Selon le cas :
+- **a)** assurance de responsabilité pour blessures corporelles ou décès d’une personne ou pour perte ou dommage matériels, causés par un avion ou par son utilisation;
+- **b)** assurance contre la perte d’un avion ou de son utilisation ou contre le dommage causé à un avion.
 
 ***assurance de biens*** Assurance contre la perte de biens ou le dommage causé à ceux-ci, y compris l’assurance contre les pertes causées par contrefaçon ou falsification.
 
+***assurance-vie*** Assurance dont le produit est versé, selon le cas :
+- **a)** au décès;
+- **b)** à la survenance d’un événement ou d’une éventualité liée à la vie humaine;
+- **c)** à une date ultérieure déterminée ou à déterminer;
+- **d)** pour une période se rattachant à la vie humaine.
 
+Sont notamment visées l’assurance aux termes de laquelle l’assureur s’engage à verser une somme supplémentaire en cas de décès accidentel de l’assuré, celle aux termes de laquelle il s’engage à verser une somme ou à accorder d’autres avantages si l’assuré devient invalide à la suite de blessures corporelles ou de maladies, de même que celle aux termes de laquelle il s’engage à verser une rente viagère ou ce qui serait une rente viagère — si ce n’était la possibilité d’effectuer des versements périodiques inégaux — pour une période qui dépend en tout ou en partie de la durée de la vie de la personne concernée.
 
-**assurance-vielife insurance**
-
-***assurance-vie*** Assurance dont le produit est versé, selon le cas :
-
-**a)** au décès;
-
-
-
-**b)** à la survenance d’un événement ou d’une éventualité liée à la vie humaine;
-
-
-
-**c)** à une date ultérieure déterminée ou à déterminer;
-
-
-
-**d)** pour une période se rattachant à la vie humaine.
-
-
-
-Sont notamment visées l’assurance aux termes de laquelle l’assureur s’engage à verser une somme supplémentaire en cas de décès accidentel de l’assuré, celle aux termes de laquelle il s’engage à verser une somme ou à accorder d’autres avantages si l’assuré devient invalide à la suite de blessures corporelles ou de maladie, de même que celle aux termes de laquelle il s’engage à verser des fonds de dotation à une date ultérieure déterminée ou à déterminer, si l’assuré est alors vivant, ou au décès de celui-ci, si le décès survient avant cette date.
-
-
-
-
-
-**automobileautomobile insurance**
-
-***automobile*** Selon le cas :
-
-**a)** assurance de responsabilité pour blessures corporelles ou décès d’une personne ou pour perte ou dommage matériels, causés par un véhicule automobile ou par son utilisation ou son fonctionnement;
-
-
-
-**b)** assurance contre la perte d’un véhicule automobile ou de son utilisation ou contre le dommage causé à un véhicule automobile;
-
-
-
-**c)** assurance visée aux alinéas a) ou b) de la catégorie accidents et maladie dans le cas où l’accident est causé par un véhicule automobile ou par son utilisation ou son fonctionnement, qu’il y ait ou non responsabilité, et que la police garantit la responsabilité pour blessures corporelles ou décès d’une personne causés par un véhicule automobile ou par son utilisation ou son fonctionnement.
-
-
-
-
-
-**autres produits approuvésother approved products insurance**
+***automobile*** Selon le cas :
+- **a)** assurance de responsabilité pour blessures corporelles ou décès d’une personne ou pour perte ou dommage matériels, causés par un véhicule automobile ou par son utilisation ou son fonctionnement;
+- **b)** assurance contre la perte d’un véhicule automobile ou de son utilisation ou contre le dommage causé à un véhicule automobile;
+- **c)** assurance visée aux alinéas a) ou b) de la catégorie accidents et maladie dans le cas où l’accident est causé par un véhicule automobile ou par son utilisation ou son fonctionnement, qu’il y ait ou non responsabilité, et que la police garantit la responsabilité pour blessures corporelles ou décès d’une personne causés par un véhicule automobile ou par son utilisation ou son fonctionnement.
 
 ***autres produits approuvés*** Assurance contre les risques qui ne sont pas couverts par les assurances appartenant à toute autre catégorie.
 
-
-
-**cautionsurety insurance**
-
 ***caution*** Assurance aux termes de laquelle l’assureur s’engage à garantir la bonne exécution d’un contrat ou d’un engagement ou le paiement d’une pénalité ou d’une indemnité en cas de défaillance.
 
-
-
-**chaudières et panne de machinesboiler and machinery insurance**
-
-***chaudières et panne de machines*** Selon le cas :
-
-**a)** assurance de responsabilité pour blessures corporelles ou décès d’une personne ou pour perte ou dommage matériels, ou assurance contre la perte ou le dommage matériels, causés soit par l’explosion ou la rupture d’un appareil à pression de tout genre ou des tuyaux, des moteurs ou des machines liés à cet appareil ou actionnés par celui-ci, soit par un accident survenant à un tel appareil ou à l’un ou l’autre de ces éléments;
-
-
-
-**b)** assurance de responsabilité pour blessures corporelles ou décès d’une personne ou pour perte ou dommage matériels, ou assurance contre la perte ou le dommage matériels, causés par la panne d’une machine.
-
-
-
-
-
-**créditcredit insurance**
+***chaudières et panne de machines*** Selon le cas :
+- **a)** assurance de responsabilité pour blessures corporelles ou décès d’une personne ou pour perte ou dommage matériels, ou assurance contre la perte ou le dommage matériels, causés soit par l’explosion ou la rupture d’un appareil à pression de tout genre ou des tuyaux, des moteurs ou des machines liés à cet appareil ou actionnés par celui-ci, soit par un accident survenant à un tel appareil ou à l’un ou l’autre de ces éléments;
+- **b)** assurance de responsabilité pour blessures corporelles ou décès d’une personne ou pour perte ou dommage matériels, ou assurance contre la perte ou le dommage matériels, causés par la panne d’une machine.
 
 ***crédit*** Assurance garantissant un créancier contre la perte résultant de l’insolvabilité ou de la défaillance du débiteur.
 
-
-
-**détournementsfidelity insurance**
-
 ***détournements*** Assurance contre la perte causée par le vol, l’abus de confiance ou les malversations commis par une personne qui occupe un poste de confiance, ou assurance aux termes de laquelle l’assureur s’engage à garantir la bonne exécution des fonctions d’une charge.
-
-
-
-**frais juridiqueslegal expenses insurance**
 
 ***frais juridiques*** Assurance couvrant les frais exposés par une ou plusieurs personnes pour des services juridiques spécifiés dans la police, y compris les honoraires ou autres frais liés à la prestation des services.
 
-
-
-**grêlehail insurance**
-
 ***grêle*** Assurance contre la perte de récoltes sur pied ou le dommage à de telles récoltes, causés par la grêle.
-
-
-
-**hypothèquemortgage insurance**
 
 ***hypothèque*** Assurance contre la perte causée par la défaillance du bénéficiaire d’un prêt garanti par une hypothèque, une charge ou toute autre sûreté sur un bien immeuble.
 
+***incendie***[Abrogée, 2007, ch. 6, art. 334]
 
+***maritime*** Assurance de responsabilité pour blessures corporelles ou décès d’une personne ou pour perte ou dommage matériels, survenant soit au cours d’un voyage ou d’une expédition en mer ou sur une voie d’eau intérieure, soit à l’occasion d’un retard dans le cadre d’un tel voyage ou d’une telle expédition ou au cours d’un transport connexe qui ne se fait pas sur l’eau, ou assurance contre toute perte ou dommage matériels subis dans l’un ou l’autre de ces cas.
 
-**incendiefire insurance**
+***maritimes et fluviales***[Abrogée, 2007, ch. 6, art. 334]
 
-***incendie*** Assurance contre la perte ou le dommage matériels causés par le feu, la foudre, une déflagration ou la fumée ou par la rupture ou la fuite d’un extincteur automatique ou de tout autre matériel de protection contre l’incendie.
-
-
-
-**maritimes et fluvialesmarine insurance**
-
-***maritimes et fluviales*** Assurance de responsabilité pour blessures corporelles ou décès d’une personne ou pour perte ou dommage matériels, survenant soit au cours d’un voyage ou d’une expédition en mer ou sur une voie d’eau intérieure, soit à l’occasion d’un retard dans le cadre d’un tel voyage ou d’une telle expédition ou au cours d’un transport connexe qui ne se fait pas sur l’eau, ou assurance contre toute perte ou dommage matériels subis dans l’un ou l’autre de ces cas.
-
-
-
-**perte d’emploiloss of employment insurance**
-
-***perte d’emploi*** Assurance contre la perte involontaire d’un emploi aux termes de laquelle l’indemnisation se limite à tout ou partie des dettes de la personne qui perd son emploi.
-
-
-
-**protection de créditcredit protection insurance**
+***perte d’emploi***[Abrogée, 2007, ch. 6, art. 334]
 
 ***protection de crédit*** Assurance aux termes de laquelle l’assureur s’engage à payer, entièrement ou partiellement, les soldes créditeurs ou les dettes d’un particulier en cas d’insuffisance réelle ou éventuelle de son revenu ou de réduction réelle ou éventuelle de sa capacité de gagner un revenu.
 
+***responsabilité*** L’une des assurances ci-après, à l’exclusion des assurances appartenant à une autre catégorie :
+- **a)** assurance de responsabilité pour blessures corporelles, invalidité ou décès d’une personne, notamment un employé;
+- **b)** assurance de responsabilité pour perte ou dommage matériels;
+- **c)** assurance couvrant les dépenses occasionnées par suite de blessures corporelles causées à une personne autre que l’assuré ou un membre de sa famille, qu’il y ait ou non responsabilité, si la police prévoit expressément l’assurance visée à l’alinéa a).
+
+***titres*** Assurance contre la perte ou le dommage résultant, selon le cas :
+- **a)** de l’existence d’une charge, d’une hypothèque, d’une servitude, d’un privilège ou de toute autre restriction sur un bien immeuble;
+- **b)** de l’existence d’une charge, d’une hypothèque, d’un privilège, d’un nantissement, d’un grèvement ou de toute autre restriction sur un bien meuble;
+- **c)** d’un vice entachant la validité d’un document attestant la création d’une restriction visée aux alinéas a) ou b);
+- **d)** d’un vice entachant la validité d’un titre de propriété;
+- **e)** de toute autre situation qui influe sur le titre de propriété ou le droit d’utilisation et de jouissance des biens.
 
 
-**responsabilitéliability insurance**
-
-***responsabilité*** L’une des assurances ci-après, à l’exclusion des assurances appartenant à une autre catégorie :
-
-**a)** assurance de responsabilité pour blessures corporelles, invalidité ou décès d’une personne, notamment un employé;
-
-
-
-**b)** assurance de responsabilité pour perte ou dommage matériels;
-
-
-
-**c)** assurance couvrant les dépenses occasionnées par suite de blessures corporelles causées à une personne autre que l’assuré ou un membre de sa famille, qu’il y ait ou non responsabilité, si la police prévoit expressément l’assurance visée à l’alinéa a).
-
-
-
-
-
-**titrestitle insurance**
-
-***titres*** Assurance contre la perte ou le dommage résultant, selon le cas :
-
-**a)** de l’existence d’une charge, d’une hypothèque, d’une servitude, d’un privilège ou de toute autre restriction sur un bien immeuble;
-
-
-
-**b)** de l’existence d’une charge, d’une hypothèque, d’un privilège, d’un nantissement, d’un grèvement ou de toute autre restriction sur un bien meuble;
-
-
-
-**c)** d’un vice entachant la validité d’un document attestant la création d’une restriction visée aux alinéas a) ou b);
-
-
-
-**d)** d’un vice entachant la validité d’un titre de propriété;
-
-
-
-**e)** de toute autre situation qui influe sur le titre de propriété ou le droit d’utilisation et de jouissance des biens.
-
-
-
-
-> 1991, ch. 47, ann.; 1997, ch. 15, art. 333; DORS/2006-157.
+> 1991, ch. 47, ann.; 1997, ch. 15, art. 333; DORS/2006-157; 2007, ch. 6, art. 334.
 
 
