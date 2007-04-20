@@ -88,7 +88,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(b)** a director or an officer, or a former director or officer, of the company or any of its affiliates, or
 - **(c)** any other person who, in the discretion of a court, is a proper person to make an application under section 371, 375 or 1031;
 
-***consumer provision*** means a provision referred to in paragraph (c) of the definition "consumer provision" in section 2 of the [Financial Consumer Agency of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%209.md);
+***consumer provision*** means a provision referred to in paragraph (c) of the definition “consumer provision” in section 2 of the [Financial Consumer Agency of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%209.md);
 
 ***converted company*** means a mutual company that has been converted under this Act into a company with common shares;
 
@@ -130,11 +130,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***financial year***, in respect of a foreign company, means a calendar year;
 
-***foreign company*** means
-- **(a)** a body corporate incorporated elsewhere than in Canada under the laws of a foreign country, and
-- **(b)** an association or an exchange, within the meaning of Part XIII,
-
-the insurance of risks in Canada by which has been approved by order of the Superintendent under Part XIII;
+***foreign company*** means an entity that is the subject of an order made under subsection 574(1);
 
 ***foreign institution*** means an entity that is
 - **(a)** engaged in the business of banking, the trust, loan or insurance business, the business of a cooperative credit society or the business of dealing in securities or is otherwise engaged primarily in the business of providing financial services, and
@@ -178,7 +174,9 @@ the insurance of risks in Canada by which has been approved by order of the Supe
 
 ***letters patent***, in respect of an instrument authorized to be issued under this Act, means letters patent in a form approved by the Superintendent;
 
-***life company*** means a company or a provincial company that is permitted to insure risks falling within the class of life insurance, other than a company or a provincial company that is also permitted to insure risks falling within any other class of insurance other than accident and sickness insurance, accident insurance, personal accident insurance, sickness insurance and loss of employment insurance;
+***life company*** means a company or a provincial company that is permitted to insure risks falling within the class of life insurance, other than a company or a provincial company that is also permitted to insure risks falling within any other class of insurance other than accident and sickness insurance, credit protection insurance and other approved products insurance;
+
+***marine company*** means a company that is incorporated for the sole purpose of insuring risks within the class of marine insurance;
 
 ***Minister*** means the Minister of Finance;
 
@@ -209,7 +207,7 @@ and that is not converted into a company with common shares under this Act;
 
 ***personal representative*** means a person who stands in place of and represents another person and, without limiting the generality of the foregoing, includes, as the circumstances require, a trustee, an executor, an administrator, a committee, a guardian, a tutor, a curator, an assignee, a receiver, an agent or an attorney of any person;
 
-***policy*** means any written contract of insurance or reinsurance whether contained in one or more documents and, in the case of insurance in a fraternal benefit society, any contract of insurance whether evidenced by a written document or not and any certificate of membership relating in any way to insurance, and includes any annuity contract;
+***policy*** means any written contract of insurance or reinsurance whether contained in one or more documents and, in the case of insurance in a fraternal benefit society, any contract of insurance whether evidenced by a written document or not and any certificate of membership relating in any way to insurance, and includes any annuity contract and any endowment insurance contract;
 
 ***policy in Canada*** means
 - **(a)** with respect to life insurance, a policy on the life of a person resident in Canada at the time the policy was issued,
@@ -220,7 +218,7 @@ and that is not converted into a company with common shares under this Act;
 
 Version anglaise seulement***prescribed*** means prescribed by regulation;
 
-***property and casualty company*** means a company or a provincial company that is not a life company;
+***property and casualty company*** means a company or a provincial company that is not a life company or a marine company;
 
 ***provincial company*** means, subject to subsection (1.1),
 - **(a)** [Repealed, 2001, c. 9, s. 345]
@@ -311,7 +309,7 @@ but does not include a policy;
 **Widely held**
 
 - **(4)** For the purposes of this Act, a body corporate is widely held if it has no major shareholder.
-> 1991, c. 47, ss. 2, 758, c. 48, s. 495; 1992, c. 51, s. 55; 1996, c. 6, s. 66; 1997, c. 15, s. 165; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 70, c. 28, s. 118; 2000, c. 12, s. 153; 2001, c. 9, s. 345, c. 27, s. 255; 2002, c. 7, s. 187(E); 2005, c. 54, s. 214.
+> 1991, c. 47, ss. 2, 758, c. 48, s. 495; 1992, c. 51, s. 55; 1996, c. 6, s. 66; 1997, c. 15, s. 165; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 70, c. 28, s. 118; 2000, c. 12, s. 153; 2001, c. 9, s. 345, c. 27, s. 255; 2002, c. 7, s. 187(E); 2005, c. 54, s. 214; 2007, c. 6, s. 186.
 
 
 
@@ -463,7 +461,11 @@ is deemed to be an agreement, commitment or understanding referred to in subsect
 **Designation**
 
 - **(4)** Where in the opinion of the Superintendent it is reasonable to conclude that an agreement, commitment or understanding referred to in subsections (1) and (2) exists by or among two or more persons, the Superintendent may designate those persons as persons who have agreed to act jointly or in concert.
-> 1991, c. 47, s. 9; 2001, c. 9, s. 350.
+
+**Contravention**
+
+- **(5)** A person contravenes a provision of Part VII or Division 7 of Part XVII if the person agrees to act jointly or in concert with one or more other persons in such a manner that a deemed single person contravenes the provision.
+> 1991, c. 47, s. 9; 2001, c. 9, s. 350; 2007, c. 6, s. 187.
 
 
 
@@ -587,13 +589,15 @@ the acquisition is deemed to cause the person to increase a substantial investme
 
 - **(5)** A class of insurance that includes insurance against liability arising out of bodily injury to, or the death of, a natural person or the loss of, or damage to, property includes insurance against loss, damage or expenses incident to a claim giving rise to that liability.
 
-**Life annuities**
+**Endowments**
 
-- **(6)** The class of life insurance includes the issuance of any annuity where the liability thereon is contingent on the death of a person.
+- **(6)** The class of life insurance includes the issuance of endowment insurance the funds of which are to be paid at a fixed or determinable future time if the person whose life is insured is then alive or at the person’s death if the person dies before that time.
 
 **Amendment**
 
 - **(7)** The Governor in Council may, by order, amend subsections (3) to (5) and the schedule.
+> 1991, c. 47, s. 12; 2007, c. 6, s. 188.
+
 
 
 
@@ -714,12 +718,16 @@ and that is not discontinued under this Act.
 
 **21** 
 
-- **(1)** Subject to subsection (2), companies and societies shall not carry on business after April 24, 2007, except that if Parliament dissolves on that day or at any time within the three-month period before that day, companies and societies may continue to carry on business until the day that is one hundred and eighty days after the first day of the first session of the next Parliament.
+- **(1)** Subject to subsections (2) and (3), companies and societies shall not carry on business, and foreign companies shall not carry on business in Canada, after the day that is the fifth anniversary of the day on which this section comes into force.
 
 **Extension**
 
-- **(2)** The Governor in Council may, by order, extend by up to six months the time during which companies and societies may continue to carry on business. No more than one order may be made under this subsection.
-> 1991, c. 47, s. 21; 1997, c. 15, s. 168; 2001, c. 9, s. 353; 2006, c. 4, s. 201.
+- **(2)** The Governor in Council may, by order, extend by up to six months the time during which companies and societies may continue to carry on business and foreign companies may continue to carry on business in Canada. No more than one order may be made under this subsection.
+
+**Exception**
+
+- **(3)** If Parliament dissolves on the fifth anniversary of the day on which this section comes into force, on any day within the three-month period before that anniversary or on any day within an extension under subsection (2), companies and societies may continue to carry on business, and foreign companies may continue to carry on business in Canada, for 180 days after the first day of the first session of the next Parliament.
+> 1991, c. 47, s. 21; 1997, c. 15, s. 168; 2001, c. 9, s. 353; 2006, c. 4, s. 201; 2007, c. 6, s. 189.
 
 
 
@@ -1054,7 +1062,7 @@ and that is not discontinued under this Act.
 	- **(c)** [Repealed, 1994, c. 47, s. 119]
 	- **(d)** hold assets that the company or society would not otherwise be permitted by this Act to hold, if the assets were held by the body corporate continued as the company or society at the time the application for the letters patent was made;
 	- **(e)** acquire and hold assets that the company or society would not otherwise be permitted by this Act to acquire or hold, if the body corporate continued as the company or society was obliged, at the time the application for the letters patent was made, to acquire those assets; and
-	- **(f)** maintain outside Canada any records or registers required by this Act to be maintained in Canada and maintain and process outside Canada information and data relating to the preparation and maintenance of such records or registers.
+	- **(f)** maintain outside Canada any records or registers required by this Act to be maintained in Canada.
 
 **Duration**
 
@@ -1072,7 +1080,7 @@ and that is not discontinued under this Act.
 - **(4)** The Minister shall not grant to a company or society any permission
 	- **(a)** with respect to matters described in paragraph (1)(b), that purports to be effective more than ten years after the date of the approval for the company or society to commence and carry on business, unless the Minister is satisfied on the basis of evidence on oath provided by an officer of the company or society that the company or society will not be able at law to redeem at the end of the ten years the outstanding debt obligations to which the permission relates; and
 	- **(b)** with respect to matters described in paragraphs (1)(d) and (e), that purports to be effective more than ten years after the date of the approval for the company or society to commence and carry on business.
-> 1991, c. 47, s. 38; 1994, c. 47, s. 119; 1997, c. 15, s. 176.
+> 1991, c. 47, s. 38; 1994, c. 47, s. 119; 1997, c. 15, s. 176; 2007, c. 6, s. 190.
 
 
 
@@ -1087,35 +1095,46 @@ and that is not discontinued under this Act.
 **39** 
 
 - **(1)** A company or society may
-	- **(a)** apply, with the approval in writing of the Minister, for a certificate of continuance under section 187 of the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md); or
-	- **(b)** apply for letters patent continuing the company or society as a bank under subsection 35(1) of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md) or amalgamating and continuing the company or society as a bank under subsections 223(1) and 229(1) of that Act.
+	- **(a)** apply, under the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md), for letters patent continuing the company or society as a bank or a bank holding company under that Act, or amalgamating and continuing the company or society as a bank or a bank holding company under that Act;
+	- **(b)** apply, with the approval in writing of the Minister, under the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md) for a certificate of continuance as a corporation under that Act;
+	- **(c)** apply, with the approval in writing of the Minister, under the [Canada Cooperatives Act](/en/Acts/Statutes%20of%20Canada/1998/c.%201.md) for a certificate of continuance, or a certificate of continuance and a certificate of amalgamation, as a cooperative under that Act;
+	- **(d)** apply, under the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md), for letters patent continuing the company or society as an association under that Act, or amalgamating and continuing the company or society as an association under that Act; or
+	- **(e)** apply, under the [Trust and Loan Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2045.md), for letters patent continuing the company or society as a company under that Act, or amalgamating and continuing the company or society as a company under of that Act.
 
 **Transferring to other federal Acts — societies**
 
-- **(1.1)** A society may also, with the approval in writing of the Minister,
-	- **(a)** apply, under section 156 of the [Canada Corporations Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20C-32.md), for letters patent creating it as a corporation under Part II of that Act; or
-	- **(b)** apply, under section 285 of the [Canada Cooperatives Act](/en/Acts/Statutes%20of%20Canada/1998/c.%201.md), for a certificate of continuance, or a certificate of continuance and a certificate of amalgamation, under that Act.
+- **(2)** A society may also, with the approval in writing of the Minister, apply under the [Canada Corporations Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20C-32.md), for letters patent creating it as a corporation under Part II of that Act.
 
 **Conditions for approval**
 
-- **(2)** No approval referred to in paragraph (1)(a) may be given to a company or society and no approval referred to in subsection (1.1) may be given to a society unless the Minister is satisfied that
-	- **(a)** the application has been authorized by a special resolution;
-	- **(b)** the company or society has discharged, or provided for the discharge of, all its policy liabilities; and
-	- **(c)** unless the company or society is an entity referred to in paragraph 47(2)(b) or (c), the company or society will not use the word “assurance”, “assurances” or “insurance” in its name after a certificate or letters patent referred to in subsection (1) or (1.1) are issued in respect of the company or society.
+- **(3)** The approval referred to in paragraph (1)(b) or (c) or subsection (2) may be given only if the Minister is satisfied that
+	- **(a)** the company or society has published, once a week for four consecutive weeks in the Canada Gazette and in a newspaper in general circulation at or near the place where the head office of the company or society is situated, a notice of its intention to apply for the approval;
+	- **(b)** the company or society has discharged, or provided for the discharge of, all its policy liabilities;
+	- **(c)** the company or society will not, unless it is an entity referred to in paragraph 47(2)(b) or (c), use the word “*assurance*”, “*assurances*” or “insurance” in its name after the certificate or letters patent are issued in respect of the company or society; and
+	- **(d)** the application has been authorized by a special resolution.
 
 **Withdrawing application**
 
-- **(3)** If a special resolution authorizing the application for the certificate or letters patent so states, the directors of a company or society may, without further approval of the shareholders, policyholders entitled to vote or members, withdraw the application before it is acted on.
+- **(4)** If a special resolution authorizing the application for the certificate or letters patent so states, the directors of a company or society may, without further approval of the shareholders, policyholders entitled to vote or members, withdraw the application before it is acted on.
 
-**Day this Act ceases to apply**
+**Restriction on other transfers**
 
-- **(4)** On the day specified in the certificate or letters patent, this Act ceases to apply to the body corporate to which the certificate or letters patent relate.
-> 1991, c. 47, ss. 39, 759; 1994, c. 24, s. 34(F); 2001, c. 9, s. 358.
-
-
+- **(5)** A company or society may not apply to be continued, or to be amalgamated and continued, as the case may be, as a body corporate other than one referred to in subsection (1) or (2).
+> 1991, c. 47, ss. 39, 759; 1994, c. 24, s. 34(F); 2001, c. 9, s. 358; 2007, c. 6, s. 191.
 
 
-**40. and 41** [Repealed, 2001, c. 9, s. 358]
+
+
+
+**Act ceases to apply**
+
+**40** If a company or society applies for a certificate or letters patent referred to in section 39 in accordance with that section and the certificate is given or the letters patent are issued, this Act ceases to apply to the company or society as of the day the certificate or the letters patent take effect.
+> 1991, c. 47, s. 40; 2001, c. 9, s. 358; 2007, c. 6, s. 191.
+
+
+
+
+**41** [Repealed, 2001, c. 9, s. 358]
 
 
 
@@ -1149,8 +1168,8 @@ except where the trade-mark or trade name is being changed or the body corporate
 
 **Affiliated company or society**
 
-**43** Despite section 42, a company or society that is affiliated with another entity may, with the consent of that entity and the approval of the Superintendent, be incorporated with, or change its name to, substantially the same name as that of the affiliated entity.
-> 1991, c. 47, s. 43; 1996, c. 6, s. 68; 2001, c. 9, s. 360.
+**43** Despite section 42, a company or society that is affiliated with another entity may, with the consent of that entity, be incorporated with, or change its name to, substantially the same name as that of the affiliated entity.
+> 1991, c. 47, s. 43; 1996, c. 6, s. 68; 2001, c. 9, s. 360; 2007, c. 6, s. 192.
 
 
 
@@ -1366,12 +1385,12 @@ the entity shall not control the company on the later of
 
 **Marine insurance**
 
-- **(6)** A company may insure risks in the class of marine insurance without an order under subsection (1).
+- **(6)** A company that is not a marine company may insure risks in the class of marine insurance without an order under subsection (1).
 
 **Transitional**
 
 - **(7)** Every former-Act company and former-Act society that deposited securities with the Receiver General pursuant to section 76 or 82 of the Canadian and British Insurance Companies Act shall apply for the return of those securities within such period following the coming into force of this section as may be fixed by order of the Governor in Council.
-> 1991, c. 47, s. 52; 1997, c. 15, s. 178.
+> 1991, c. 47, s. 52; 1997, c. 15, s. 178; 2007, c. 6, s. 193.
 
 
 
@@ -1392,16 +1411,12 @@ the entity shall not control the company on the later of
 
 **No payments before order**
 
-**54** 
+**54** Until an order approving the commencement and carrying on of business is made in respect of a company or society, the company or society shall not make any payment on account of incorporation or organization expenses out of moneys received from the paid-in capital of the company or society and interest on those moneys, except reasonable sums
+- **(a)** for the remuneration of not more than two officers;
+- **(b)** for the payment of costs related to the issue of shares; and
+- **(c)** for the payment of clerical assistance, legal services, accounting services, office accommodation at one location, office expenses, advertising, stationery, postage and travel expenses.
+> 1991, c. 47, s. 54; 2007, c. 6, s. 194.
 
-- **(1)** Subject to subsection (2), until an order approving the commencement and carrying on of business is made for a company or society, the company or society shall not make any payment on account of incorporation or organization expenses out of moneys received from the paid-in capital of the company or society and interest thereon, except reasonable sums
-	- **(a)** for the remuneration of not more than two officers;
-	- **(b)** for the payment of costs related to the issue of shares of the company; and
-	- **(c)** for the payment of clerical assistance, legal services, accounting services, office accommodation at one location, office expenses, advertising, stationery, postage and travel expenses.
-
-**Exception**
-
-- **(2)** Subsection (1) does not apply in respect of any company incorporated for the sole purpose of insuring risks in the class of marine insurance.
 
 
 
@@ -1672,8 +1687,8 @@ no part of the moneys of the company or society shall be used for the payment of
 
 **Material to Superintendent**
 
-- **(5)** If the directors exercise their authority under paragraph (1)(b), the directors shall, before the issue of shares of the series, send to the Superintendent a copy of the by-law authorizing the directors to fix the rights, privileges, restrictions and conditions of those shares and shall provide the Superintendent with particulars of the proposed series of shares.
-> 1991, c. 47, s. 66; 2005, c. 54, s. 220.
+- **(5)** If the directors exercise their authority under paragraph (1)(b), the directors shall, before the issue of shares of the series, send to the Superintendent particulars of the series of shares and a copy of the by-law that granted the authority to the directors.
+> 1991, c. 47, s. 66; 2005, c. 54, s. 220; 2007, c. 6, s. 195(E).
 
 
 
@@ -1840,11 +1855,13 @@ continue to apply in respect of that share.
 
 **Restrictions on purchase and redemption**
 
-- **(2)** A company shall not make any payment to purchase or redeem any shares issued by it if there are reasonable grounds for believing that the company is, or the payment would cause the company to be, in contravention of any regulation referred to in any of subsections 515(1) and (2) and 516(1) and (2) or any direction made pursuant to subsection 515(3) or 516(4).
+- **(2)** A company shall not make any payment to purchase or redeem any shares issued by it if there are reasonable grounds for believing that the company is, or the payment would cause the company to be, in contravention of subsection 515(1), any regulation made under subsection 515(2) or any order made under subsection 515(3).
 
 **Donated shares**
 
 - **(3)** A company may accept from any shareholder a share of the company surrendered to it as a gift, but may not extinguish or reduce a liability in respect of an amount unpaid on any such share except in accordance with section 79.
+> 1991, c. 47, s. 75; 2007, c. 6, s. 196.
+
 
 
 
@@ -1910,7 +1927,7 @@ where the security interest is nominal or immaterial when measured by criteria e
 
 **Limitation**
 
-- **(2)** A company shall not reduce its stated capital by special resolution if there are reasonable grounds for believing that the company is, or the reduction would cause the company to be, in contravention of any regulation referred to in any of subsections 515(1) and (2) and 516(1) and (2) or in any direction made pursuant to subsection 515(3) or 516(4).
+- **(2)** A company shall not reduce its stated capital by special resolution if there are reasonable grounds for believing that the company is, or the reduction would cause the company to be, in contravention of subsection 515(1), any regulation made under subsection 515(2) or any order made under subsection 515(3).
 
 **Contents of special resolution**
 
@@ -1919,6 +1936,12 @@ where the security interest is nominal or immaterial when measured by criteria e
 **Approval by Superintendent**
 
 - **(4)** A special resolution to reduce the stated capital of a company has no effect until it is approved in writing by the Superintendent.
+
+**Exception**
+
+- **(4.1)** Subsection (4) does not apply if
+	- **(a)** the reduction in the stated capital is made solely as a result of changes made to the accounting principles referred to in subsection 331(4); and
+	- **(b)** there is to be no return of capital to shareholders or policyholders as a result of the reduction.
 
 **Conditions for approval**
 
@@ -1932,6 +1955,8 @@ where the security interest is nominal or immaterial when measured by criteria e
 	- **(c)** the company’s assets and liabilities, and
 	- **(d)** the reason why the company seeks the reduction of capital
 shall be submitted to the Superintendent at the time of the application for approval of the special resolution.
+> 1991, c. 47, s. 79; 2007, c. 6, s. 198.
+
 
 
 
@@ -1997,11 +2022,11 @@ shall be submitted to the Superintendent at the time of the application for appr
 
 **83** 
 
-- **(1)** The directors of a company may declare and a company may pay a dividend by issuing fully paid shares of the company or options or rights to acquire fully paid shares of the company and, subject to subsections (4) and (5), the directors of a company may declare and a company may pay a dividend in money or property, and, where a dividend is to be paid in money, the dividend may be paid in a currency other than the currency of Canada.
+- **(1)** The directors of a company may declare and a company may pay a dividend by issuing fully paid shares of the company or options or rights to acquire fully paid shares of the company and, subject to subsection (4), the directors of a company may declare and a company may pay a dividend in money or property, and, if a dividend is to be paid in money, the dividend may be paid in a currency other than the currency of Canada.
 
 **Notice to Superintendent**
 
-- **(2)** The directors of a company shall notify the Superintendent of the declaration of a dividend at least ten days prior to the day fixed for its payment.
+- **(2)** The directors of a company shall notify the Superintendent of the declaration of a dividend at least 15 days before the day fixed for its payment.
 
 **Share dividend**
 
@@ -2009,14 +2034,12 @@ shall be submitted to the Superintendent at the time of the application for appr
 
 **When dividend not to be declared**
 
-- **(4)** The directors of a company shall not declare and a company shall not pay a dividend if there are reasonable grounds for believing that the company is, or the payment would cause the company to be, in contravention of any regulation referred to in any of subsections 515(1) and (2) and 516(1) and (2) or in any direction made pursuant to subsection 515(3) or 516(4).
+- **(4)** The directors of a company shall not declare and a company shall not pay a dividend if there are reasonable grounds for believing that the company is, or the payment would cause the company to be, in contravention of subsection 515(1), any regulation made under subsection 515(2) or any order made under subsection 515(3).
 
-**When dividend not to be declared**
-
-- **(5)** The directors of a company shall not declare and a company shall not pay a dividend in any financial year without the approval of the Superintendent if, on the day the dividend is declared, the total of all dividends declared by the company in that year would exceed the aggregate of the company’s net income up to that day in that year and its retained net income for the preceding two financial years.
+- **(5)** [Repealed, 2007, c. 6, s. 199]
 
 - **(6) to (8)** [Repealed, 1997, c. 15, s. 184]
-> 1991, c. 47, s. 83; 1997, c. 15, s. 184; 2001, c. 9, s. 369.
+> 1991, c. 47, s. 83; 1997, c. 15, s. 184; 2001, c. 9, s. 369; 2007, c. 6, s. 199.
 
 
 
@@ -4092,8 +4115,8 @@ but does not include
 
 **Residency requirement**
 
-- **(2)** At least one half of the directors of a company that is a subsidiary of a foreign institution or of a prescribed holding body corporate of a foreign institution and at least two thirds of the directors of any other company must be, at the time of each director’s election or appointment, resident Canadians.
-> 1991, c. 47, s. 167; 2001, c. 9, s. 376.
+- **(2)** At least one half of the directors of a company that is a subsidiary of a foreign institution or of a prescribed holding body corporate of a foreign institution and a majority of the directors of any other company must be, at the time of each director’s election or appointment, resident Canadians.
+> 1991, c. 47, s. 167; 2001, c. 9, s. 376; 2007, c. 6, s. 201.
 
 
 
@@ -5381,10 +5404,12 @@ of the directors present are resident Canadians.
 - **(2)** In determining whether to approve a mutualization proposal, the Minister shall consider all matters that the Minister considers relevant and may not approve the proposal unless satisfied that
 	- **(a)** the proposal was approved by the shareholders and policyholders pursuant to section 228;
 	- **(b)** the conversion of the company into a mutual company may reasonably be expected to be achieved under the terms of the proposal and in accordance with this section and sections 230 to 236;
-	- **(c)** there are no reasonable grounds for believing that the conversion would cause the company to be in contravention of any regulation referred to in any of subsections 515(1) and (2) and 516(1) and (2) or in any direction made pursuant to subsection 515(3) or 516(4);
+	- **(c)** there are no reasonable grounds for believing that the conversion would cause the company to be in contravention of subsection 515(1), any regulation made under subsection 515(2) or any order made under subsection 515(3);
 	- **(d)** the stated capital of the company has ceased to be an important factor in safeguarding the interests of the policyholders of the company, having regard to the quality and amount of the assets of the company, the surplus of the company relative to its liabilities, the nature of the business carried on by the company and any other considerations deemed by the Minister to be relevant;
 	- **(e)** the price fixed by the directors for the purchase or other acquisition of the common shares of the company under the proposal is fair and reasonable in the circumstances; and
 	- **(f)** the proposal is in the best interests of the financial system in Canada.
+> 1991, c. 47, s. 229; 2007, c. 6, s. 202.
+
 
 
 
@@ -5428,8 +5453,10 @@ of the directors present are resident Canadians.
 **Criteria for approval**
 
 **233** The Superintendent shall approve the purchase or other acquisition of shares pursuant to a mutualization proposal if the Superintendent is satisfied that
-- **(a)** the purchase or other acquisition of shares would not cause the company to be in contravention of any regulation referred to in any of subsections 515(1) and (2) and 516(1) and (2) or in any direction made pursuant to subsection 515(3) or 516(4); and
+- **(a)** the purchase or other acquisition of shares would not cause the company to be in contravention of subsection 515(1), any regulation made under subsection 515(2) or any order made under subsection 515(3); and
 - **(b)** the stated capital of the shares has, in the opinion of the Superintendent, ceased to be an important factor in safeguarding the interests of the policyholders of the company, having regard to the quality and amount of the assets of the company, the surplus of the company relative to its liabilities, the nature of the business carried on by the company and any other considerations deemed by the Superintendent to be relevant.
+> 1991, c. 47, s. 233; 2007, c. 6, s. 203.
+
 
 
 
@@ -5618,8 +5645,16 @@ of the directors present are resident Canadians.
 
 **Effective date of by-law**
 
-- **(3)** A by-law, or an amendment to or a repeal of a by-law, made under subsection (1) is not effective until it is confirmed or confirmed as amended by the shareholders and policyholders under subsection (2) and, in the case of a by-law referred to in paragraph (1)(i.1), approved by the Superintendent.
-> 1991, c. 47, s. 238; 1997, c. 15, s. 217; 2001, c. 9, s. 388; 2005, c. 54, s. 260.
+- **(3)** A by-law, or an amendment to or a repeal of a by-law, made under subsection (1) is not effective until it is confirmed or confirmed as amended by the shareholders and policyholders under subsection (2) and, in the case of a by-law respecting a change to the name of the company, approved by the Superintendent.
+
+**Letters patent**
+
+- **(4)** If the name of a company or the province in Canada in which the head office of the company is situated is changed under this section, the Superintendent may issue letters patent to amend the company’s incorporating instrument accordingly.
+
+**Effect of letters patent**
+
+- **(5)** Letters patent issued under subsection (4) become effective on the day stated in the letters patent.
+> 1991, c. 47, s. 238; 1997, c. 15, s. 217; 2001, c. 9, s. 388; 2005, c. 54, s. 260; 2007, c. 6, s. 204.
 
 
 
@@ -5772,16 +5807,16 @@ of the directors present are resident Canadians.
 
 
 
-**Approval of agreement by Minister**
+**Approval of agreement by Superintendent**
 
 **247** 
 
-- **(1)** An amalgamation agreement shall be submitted to the Minister for approval. Any approval of the agreement under subsection 248(5) by the shareholders, policyholders or members of an applicant is invalid unless, before the date of the approval, the Minister approves the agreement in writing.
+- **(1)** An amalgamation agreement must be submitted to the Superintendent for approval and any approval of the agreement under subsection 248(5) by the shareholders, policyholders or members of an applicant is invalid unless, before the date of the approval, the Superintendent has approved the agreement in writing.
 
 **Report of independent actuary**
 
-- **(2)** An amalgamation agreement submitted to the Minister for approval must be accompanied by the report of an independent actuary on the agreement.
-> 1991, c. 47, s. 247; 1997, c. 15, s. 220(E).
+- **(2)** An amalgamation agreement submitted to the Superintendent for approval must be accompanied by the report of an independent actuary on the agreement.
+> 1991, c. 47, s. 247; 1997, c. 15, s. 220(E); 2007, c. 6, s. 205.
 
 
 
@@ -5974,7 +6009,7 @@ may amalgamate and continue as one company without complying with sections 246 t
 	- **(c)** [Repealed, 1994, c. 47, s. 121]
 	- **(d)** hold assets that the company or society would not otherwise be permitted by this Act to hold, if the assets were held by one or more of the amalgamating bodies corporate at the time the application for the letters patent was made;
 	- **(e)** acquire and hold assets that the company or society would not otherwise be permitted by this Act to acquire or hold, if one or more of the amalgamating bodies corporate were obliged, at the time the application for the letters patent was made, to acquire those assets; and
-	- **(f)** maintain outside Canada any records or registers required by this Act to be maintained in Canada and maintain and process, outside Canada, information and data relating to the preparation and maintenance of such records or registers.
+	- **(f)** maintain outside Canada any records or registers required by this Act to be maintained in Canada.
 
 **Duration of exceptions**
 
@@ -5992,7 +6027,7 @@ may amalgamate and continue as one company without complying with sections 246 t
 - **(4)** The Minister shall not grant to a company or society any permission
 	- **(a)** with respect to matters described in paragraph (1)(b), that purports to be effective more than ten years after the date of the approval for the company or society to commence and carry on business, unless the Minister is satisfied on the basis of evidence on oath provided by an officer of the company or society that the company or society will not be able at law to redeem at the end of the ten years the outstanding debt obligations to which the permission relates; and
 	- **(b)** with respect to matters described in paragraphs (1)(d) and (e), that purports to be effective more than ten years after the date of issue of the letters patent.
-> 1991, c. 47, s. 253; 1994, c. 47, s. 121; 1997, c. 15, s. 225.
+> 1991, c. 47, s. 253; 1994, c. 47, s. 121; 1997, c. 15, s. 225; 2007, c. 6, s. 206.
 
 
 
@@ -6007,66 +6042,66 @@ may amalgamate and continue as one company without complying with sections 246 t
 **254** 
 
 - **(1)** Except in accordance with this section or an order made under subsection 678.5(1), a company or society shall not
-	- **(a)** transfer all or any portion of its policies or cause itself to be reinsured against all or any portion of the risks undertaken by it;
-	- **(b)** purchase or reinsure all or any portion of the policies of any body corporate; or
-	- **(c)** sell all or substantially all of its assets.
+	- **(a)** cause itself to be reinsured, on an assumption basis, against all or any portion of the risks undertaken under its policies; or
+	- **(b)** sell all or substantially all of its assets.
+	- **(c)** [Repealed, 2007, c. 6, s. 207]
 
 **Approval of the Minister**
 
 - **(2)** A company or society may, with the approval of the Minister,
-	- **(a)** transfer all or any portion of its policies to, or cause itself to be reinsured against all or any portion of the risks undertaken by it by, any company, society or foreign company that is authorized to transact the classes of insurance to be so transferred or reinsured;
-	- **(a.1)** cause itself to be reinsured, on an indemnity basis, against all or any portion of the risks undertaken by it by any body corporate incorporated under the laws of a province that is authorized to transact the classes of insurance to be reinsured;
-	- **(a.2)** transfer all or any portion of its policies to any body corporate incorporated under the laws of a province that is authorized to transact the classes of insurance being transferred;
-	- **(a.3)** cause itself to be reinsured, on an assumption basis, against all or any portion of the risks undertaken by it by any body corporate incorporated under the laws of a province that is authorized to transact the classes of insurance to be reinsured if the Superintendent has entered into satisfactory arrangements concerning the reinsurance with
-		- **(i)** the appropriate official or public body responsible for the supervision of the body corporate,
-		- **(ii)** the body corporate, or
-		- **(iii)** the appropriate official or public body and the body corporate;
-	- **(b)** transfer all or any portion of its policies, other than its policies in Canada, to any other body corporate or cause itself to be reinsured by any other body corporate against all or any portion of the risks undertaken by it, other than risks in respect of its policies in Canada;
-	- **(c)** purchase or reinsure all or any portion of the policies of any body corporate; or
-	- **(d)** sell all or substantially all of its assets.
+	- **(a)** cause itself to be reinsured, on an assumption basis, against all or substantially all of the risks undertaken under its policies, by one or more of the following entities:
+		- **(i)** a company or society,
+		- **(ii)** a foreign company that, in Canada, reinsures those risks,
+		- **(iii)** a body corporate incorporated or formed by or under the laws of a province, if the Superintendent has entered into satisfactory arrangements concerning the reinsurance with either or both of the body corporate and the appropriate official or public body responsible for the supervision of the body corporate, or
+		- **(iv)** an entity that is authorized to reinsure those risks, if the risks were undertaken outside Canada by the company or society; or
+	- **(b)** sell all or substantially all of its assets.
+
+**Approval of the Superintendent**
+
+- **(2.01)** A company or society may, with the approval of the Superintendent, cause itself to be reinsured, on an assumption basis, against less than substantially all of the risks undertaken under its policies, by one or more of the following entities:
+	- **(a)** a company or society;
+	- **(b)** a foreign company that, in Canada, reinsures those risks;
+	- **(c)** a body corporate incorporated or formed by or under the laws of a province, if the Superintendent has entered into satisfactory arrangements concerning the reinsurance with either or both of the body corporate and the appropriate official or public body responsible for the supervision of the body corporate; or
+	- **(d)** an entity that is authorized to reinsure those risks, if the risks were undertaken outside Canada by the company or society.
 
 **Prescribed transactions**
 
-- **(2.1)** The Minister’s approval is not required for a transaction described in subsection (2) if it is a prescribed transaction or a transaction in a prescribed class of transactions.
+- **(2.1)** The approval of the Minister or Superintendent is not required for a prescribed transaction or a transaction in a prescribed class of transactions.
 
 **Procedure**
 
-- **(3)** Before any application is made for the approval of the Minister under subsection (2), a notice of intention to make the application shall be published
-	- **(a)** in the Canada Gazette, and
-	- **(b)** in a newspaper in general circulation in the place where the head office of the company or society is situated,
-stating the day on or after which the application will be made, that day being at least thirty days after the date of publication of the notice.
+- **(3)** The company or society must, at least 30 days before it applies for the Minister’s or Superintendent’s approval, publish a notice in the Canada Gazette and in a newspaper in general circulation at or near the place where the head office of the company or society is situated stating the day on or after which it will apply.
 
 **Information**
 
 - **(4)** Where a company or society publishes a notice referred to in subsection (3), the Superintendent may direct the company or society to provide its shareholders, policyholders and members with such information as the Superintendent may require.
 
+**Report of independent actuary**
+
+- **(4.1)** An application for approval under paragraph (2)(a) must, if the Superintendent so requires, be accompanied by the report of an independent actuary on the proposed reinsurance agreement.
+
 **Inspection**
 
-- **(5)** Where a company or society publishes a notice referred to in subsection (3), it must make the agreement for the transaction that the Minister is asked to approve available at its head office for the inspection of its shareholders, policyholders and members for at least thirty days after the publication of the notice and must provide a copy of the agreement to any shareholder, policyholder or member who requests one by writing to the head office of the company or society.
+- **(5)** If a company or society publishes a notice referred to in subsection (3), it must make the agreement for the transaction that the Minister or Superintendent is asked to approve available at its head office for the inspection of its shareholders, policyholders and members for at least 30 days after the publication of the notice and must provide a copy of the agreement to any shareholder, policyholder or member who requests one by writing to the head office of the company or society.
 
 **Superintendent may shorten periods**
 
-- **(6)** Where the Superintendent is of the opinion that it is in the best interests of a group of policyholders affected by the transaction that the Minister is asked to approve, the Superintendent may shorten the periods of thirty days referred to in subsections (3) and (5).
-> 1991, c. 47, s. 254; 1997, c. 15, s. 226; 2001, c. 9, s. 393.
+- **(6)** If the Superintendent is of the opinion that it is in the best interests of a group of policyholders affected by the transaction that the Minister or the Superintendent is asked to approve, the Superintendent may shorten the periods of 30 days referred to in subsections (3) and (5).
+> 1991, c. 47, s. 254; 1997, c. 15, s. 226; 2001, c. 9, s. 393; 2007, c. 6, s. 207.
 
 
 
 
 
-**Capital to be unimpaired**
+**Taking of effect of approval**
 
-**255** The Minister shall not approve a transaction under subsection 254(2) if the transaction would cause any company or society that would be a party to the transaction to be in contravention of any regulation referred to in subsection 515(1) or (2) or 516(1) or (2) or of any direction made under subsection 515(3) or 516(4).
-> 1991, c. 47, s. 255; 1997, c. 15, s. 227.
-
-
+**255** A transaction referred to in subsection 254(2) or (2.01) has no effect until it has been approved by the Minister or the Superintendent, as the case may be.
+> 1991, c. 47, s. 255; 1997, c. 15, s. 227; 2007, c. 6, s. 208.
 
 
 
-**Ordinary reinsurance exempted**
 
-**256** Sections 254 and 255 do not apply in respect of reinsurance transactions entered into by a company or society in the ordinary course of its business.
-> 1991, c. 47, s. 256; 1997, c. 15, s. 227.
-
+**256** [Repealed, 2007, c. 6, s. 208]
 
 
 
@@ -6075,11 +6110,15 @@ stating the day on or after which the application will be made, that day being a
 
 **257** 
 
-- **(1)** A company or society proposing to
-	- **(a)** transfer all or substantially all of its policies,
-	- **(b)** cause itself to be reinsured against all or substantially all of the risks undertaken by it, or
-	- **(c)** sell all or substantially all of its assets
-shall submit the proposal for approval to a meeting of the shareholders and policyholders who are entitled to vote, or to a meeting of members, and, subject to subsection (3), to the holders of each class or series of shares.
+- **(1)** A company or society proposing to transfer all or substantially all of its policies, to cause itself to be reinsured, on an assumption basis, against all or substantially all of the risks undertaken under its policies, or to sell all or substantially all of its assets shall submit the proposal for approval to a meeting of the shareholders and policyholders who are entitled to vote, or to a meeting of members, and, subject to subsection (3), to the holders of each class or series of shares.
+
+**Notice to Superintendent**
+
+- **(1.1)** A company or society proposing to transfer all or substantially all of its policies must give notice of the proposal to the Superintendent.
+
+**Information**
+
+- **(1.2)** After receiving the notice, the Superintendent may direct the company or society to provide its shareholders, policyholders and members with any information that the Superintendent may require.
 
 **Right to vote**
 
@@ -6103,21 +6142,21 @@ shall submit the proposal for approval to a meeting of the shareholders and poli
 
 **Application to Minister**
 
-- **(7)** Unless a transaction is abandoned in accordance with subsection (6), the company or society shall, within three months after the approval of the transaction in accordance with subsection (5), apply to the Minister for approval of the transaction.
+- **(7)** Except in the case of a transaction to transfer all or substantially all of a company’s or society’s policies, the company or society shall, within three months after the approval of the transaction in accordance with subsection (5), apply to the Minister for approval of the transaction, unless the transaction is abandoned in accordance with subsection (6).
 
 **When section does not apply**
 
 - **(8)** This section does not apply if the transfer or reinsurance is made under an order made under subsection 678.5(1).
-> 1991, c. 47, s. 257; 1997, c. 15, s. 227; 2001, c. 9, s. 394.
+> 1991, c. 47, s. 257; 1997, c. 15, s. 227; 2001, c. 9, s. 394; 2007, c. 6, s. 209.
 
 
 
 
 
-**Approval by Minister**
+**Regulations**
 
-**258** A transaction referred to in subsection 254(2) or 257(1) has no effect until it has been approved by the Minister.
-> 1991, c. 47, s. 258; 1997, c. 15, s. 227.
+**258** The Governor in Council may, for the purposes of section 254 or 257, make regulations respecting the circumstances in which companies or societies are deemed to be causing themselves to be reinsured, on an assumption basis, against risks undertaken under their policies.
+> 1991, c. 47, s. 258; 1997, c. 15, s. 227; 2007, c. 6, s. 210.
 
 
 
@@ -6159,7 +6198,7 @@ shall submit the proposal for approval to a meeting of the shareholders and poli
 	- **(a)** its incorporating instrument and the by-laws of the company and all amendments thereto;
 	- **(b)** minutes of meetings and resolutions of shareholders or policyholders;
 	- **(c)** the information referred to in paragraphs 668(1)(a), (c) and (e) to (h) contained in all returns provided to the Superintendent pursuant to section 668;
-	- **(d)** particulars of any authorizations, conditions and limitations established by the Superintendent pursuant to subsection 58(1) or (2) or 59(1) or that are from time to time applicable to the company; and
+	- **(d)** particulars of any authorizations, conditions and limitations established by the Superintendent under subsection 58(1) or (2) or 59(1) that are from time to time applicable to the company; and
 	- **(e)** particulars of exceptions granted under section 38 or 253 that are from time to time applicable to the company.
 
 **Additional records**
@@ -6172,10 +6211,10 @@ shall submit the proposal for approval to a meeting of the shareholders and poli
 **Former-Act and continued companies**
 
 - **(3)** For the purposes of paragraph (1)(b) and subsection (2),
-	- **(a)** in the case of a body corporate continued as a company under this Act, “records” includes similar records required by law to be maintained by the body corporate before it was so continued;
-	- **(b)** in the case of a body corporate amalgamated and continued as a company under this Act, “records” includes similar records required by law to be maintained by the body corporate before it was so amalgamated; and
-	- **(c)** in the case of a former-Act company, “records” includes similar records required by law to be maintained by the company before the coming into force of this section.
-> 1991, c. 47, s. 261; 1997, c. 15, s. 228(E).
+	- **(a)** in the case of a body corporate continued as a company under this Act, ***records*** includes similar records required by law to be maintained by the body corporate before it was so continued;
+	- **(b)** in the case of a body corporate amalgamated and continued as a company under this Act, ***records*** includes similar records required by law to be maintained by the body corporate before it was so amalgamated; and
+	- **(c)** in the case of a former-Act company, ***records*** includes similar records required by law to be maintained by the company before the coming into force of this section.
+> 1991, c. 47, s. 261; 1997, c. 15, s. 228(E); 2007, c. 6, s. 211(E).
 
 
 
@@ -6308,36 +6347,16 @@ the registers and records required or authorized by this Act to be prepared and 
 
 
 
-**Location and processing of information or data**
+**Requirement to maintain copies and process information in Canada**
 
 **268** 
 
-- **(1)** Subject to subsection (3), a company shall maintain and process in Canada any information or data relating to the preparation or maintenance of the records referred to in section 261 or of its central securities register unless the Superintendent has, subject to any terms and conditions that the Superintendent considers appropriate, exempted the company from the application of this section.
-
-**Copies**
-
-- **(2)** Subject to subsections (4) and (5), the company may maintain copies of the records referred to in section 261 or of its central securities register outside Canada and may process outside Canada any information or data relating to those copies.
-
-**Foreign records**
-
-- **(3)** Subsection (1) does not apply in respect of an office of the company outside Canada or in respect of customers of such an office.
-
-**Information for Superintendent**
-
-- **(4)** Where a company, in accordance with subsection (2), maintains outside Canada copies of any records referred to in subsection (1) or further processes information or data relating to those copies outside Canada, the company shall so inform the Superintendent and provide the Superintendent with a list of those copies maintained outside Canada and a description of the further processing of information or data relating to those copies outside Canada and such other information as the Superintendent may require from time to time.
-
-**Processing information in Canada**
-
-- **(5)** If the Superintendent is at any time of the opinion that the maintenance outside Canada of any copies referred to in subsection (4), or the further processing of information or data relating to any such copies outside Canada, is incompatible with the fulfilment of the Superintendent’s responsibilities under this Act or the Superintendent is advised by the Minister that, in the opinion of the Minister, such maintenance or further processing is not in the national interest, the Superintendent shall direct the company to maintain those copies, or to further process information or data relating to those copies, in Canada.
+- **(1)** If the Superintendent is of the opinion that it is incompatible with the fulfilment of the Superintendent’s responsibilities under this Act for a company to maintain, in another country, copies of records referred to in section 261 or of its central securities register or for a company to process, in another country, information or data relating to the preparation and maintenance of those records or of its central securities register — or if the Superintendent is advised by the Minister that, in the opinion of the Minister, it is not in the national interest for a company to do any of those activities in another country — the Superintendent shall direct the company to not maintain those copies, or to not process the information or data, as the case may be, in that other country or to maintain those copies or to process the information or data only in Canada.
 
 **Company to comply**
 
-- **(6)** A company shall forthwith comply with any direction issued under subsection (5).
-
-**Guidelines**
-
-- **(7)** The Superintendent shall issue guidelines respecting the circumstances under which an exemption referred to in subsection (1) may be available.
-> 1991, c. 47, s. 268; 2001, c. 9, s. 396; 2005, c. 54, s. 267.
+- **(2)** A company shall without delay comply with any direction issued under subsection (1).
+> 1991, c. 47, s. 268; 2001, c. 9, s. 396; 2005, c. 54, s. 267; 2007, c. 6, s. 212.
 
 
 
@@ -7225,10 +7244,10 @@ the registers and records required or authorized by this Act to be prepared and 
 
 **Trustee qualifications**
 
-**323** A trustee, or at least one of the trustees if more than one is appointed, must be a body corporate
-- **(a)** to which the [Trust and Loan Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2045.md) applies; or
-- **(b)** that is incorporated by or under an Act of the legislature of a province and authorized to carry on business as a trustee.
-> 1991, c. 47, ss. 323, 758.
+**323** A trustee, or at least one of the trustees if more than one is appointed, must be
+- **(a)** a trust company pursuant to subsection 57(2) of the [Trust and Loan Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2045.md); or
+- **(b)** a body corporate that is incorporated by or under an Act of the legislature of a province and authorized to carry on business as a trustee.
+> 1991, c. 47, ss. 323, 758; 2007, c. 6, s. 213.
 
 
 
@@ -7707,17 +7726,23 @@ shall submit to the company and the Superintendent a written statement giving th
 
 **346** 
 
-- **(1)** The auditor of a company shall make such examination as the auditor considers necessary to enable the auditor to report on the annual statement and on other financial statements required by this Act to be placed before the shareholders and policyholders, except such annual statements or parts thereof as relate to the period referred to in subparagraph 331(1)(a)(ii).
+- **(1)** The auditor of a company shall make such examination as the auditor considers necessary to enable the auditor to report on the annual statement and on other financial statements required by this Act to be placed before the shareholders and policyholders, except such annual statements or parts thereof as relate to the period referred to in subparagraph 331(1)(a)(ii).
 
 **Auditing standards**
 
-- **(2)** The auditor’s examination referred to in subsection (1) shall, except as otherwise specified by the Superintendent, be conducted in accordance with generally accepted auditing standards, the primary source of which is the Handbook of the Canadian Institute of Chartered Accountants.
+- **(2)** The auditor’s examination referred to in subsection (1) shall, except as otherwise specified by the Superintendent, be conducted in accordance with generally accepted auditing standards, the primary source of which is the Handbook of the Canadian Institute of Chartered Accountants.
 
 **Reliance on actuary**
 
-- **(3)** An auditor of a company may, in conducting the examination referred to in subsection (1), use the valuation by the actuary of the company of
+- **(3)** An auditor of a company may, in conducting the examination referred to in subsection (1), use the valuation by the actuary of the company, or by any other actuary, of
 	- **(a)** the actuarial and other policy liabilities of the company as at the end of a financial year; and
 	- **(b)** the increase in the actuarial liabilities of the company for a financial year.
+
+**Actuarial practices**
+
+- **(4)** A valuation by an actuary other than the actuary of the company may be used only if it was done in accordance with generally accepted actuarial practice and with any changes that may have been determined by the Superintendent and by following any additional directions that may have been made by the Superintendent.
+> 1991, c. 47, s. 346; 2007, c. 6, s. 214.
+
 
 
 
@@ -8729,7 +8754,7 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 **Amalgamation, etc., constitutes acquisition**
 
-- **(2)** Where, as a result of an amalgamation, merger or reorganization, the entity that results therefrom would have a significant interest in a class of shares of a company, that entity shall be deemed to be acquiring a significant interest in that class of shares of the company through an acquisition for which the approval of the Minister is required pursuant to subsection (1).
+- **(2)** If the entity that would result from an amalgamation, a merger or a reorganization would have a significant interest in a class of shares of a company, the entity is deemed to be acquiring a significant interest in that class of shares of the company through an acquisition for which the approval of the Minister is required under subsection (1).
 
 **Exemption**
 
@@ -8812,7 +8837,7 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 	- **(a)** a converted company having an aggregate of surplus and minority interests in an amount that is one billion dollars or more but less than five billion dollars, according to its last annual statement dated before the effective date of the letters patent of conversion of the converted company is deemed to no longer be a company in respect of which subsection (11) applies;
 	- **(b)** a company that controls, within the meaning of paragraph 3(1)(d), a converted company referred to in paragraph (a) in the circumstances referred to in subsection (12) is deemed to no longer be a company to which subsection (12) applies; and
 	- **(c)** an insurance holding company that controls, within the meaning of paragraph 3(1)(d), a converted company referred to in paragraph (a) in the circumstances referred to in subsection (13) is deemed to no longer be an insurance holding company to which subsection (13) applies.
-> 1991, c. 47, s. 407; 1993, c. 34, s. 79; 1997, c. 15, s. 241; 1999, c. 1, s. 7; 2001, c. 9, s. 401.
+> 1991, c. 47, s. 407; 1993, c. 34, s. 79; 1997, c. 15, s. 241; 1999, c. 1, s. 7; 2001, c. 9, s. 401; 2007, c. 6, s. 215.
 
 
 
@@ -8897,8 +8922,14 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 **No acquisition of control without approval**
 
-**407.1** No person shall acquire control of a company within the meaning of paragraph 3(1)(d) without the prior written approval of the Minister.
-> 1997, c. 15, s. 242.
+**407.1** 
+
+- **(1)** No person shall acquire control, within the meaning of paragraph 3(1)(d), of a company without the approval of the Minister.
+
+**Amalgamation, etc., constitutes acquisition**
+
+- **(2)** If the entity that would result from an amalgamation, a merger or a reorganization would control, within the meaning of paragraph 3(1)(d), a company, the entity is deemed to be acquiring control, within the meaning of that paragraph, of the company through an acquisition for which the approval of the Minister is required under subsection (1).
+> 1997, c. 15, s. 242; 2007, c. 6, s. 216.
 
 
 
@@ -9046,12 +9077,12 @@ the company is entitled to assume that no person is acquiring or increasing a si
 
 **Determination of day**
 
-- **(2)** If the company has equity of one billion dollars or more on the day it comes into existence, the day referred to in subsection (1) is the day that is three years after that day and, in the case of any other company, the day referred to in subsection (1) is the day that is three years after the day of the first annual meeting of the shareholders and policyholders of the company held after the equity of the company first reaches one billion dollars.
+- **(2)** If the company has equity of two billion dollars or more on the day it comes into existence, the day referred to in subsection (1) is the day that is three years after that day and, in the case of any other company, the day referred to in subsection (1) is the day that is three years after the day of the first annual meeting of the shareholders and policyholders of the company held after the equity of the company first reaches two billion dollars.
 
 **Extension**
 
 - **(3)** If general market conditions so warrant and the Minister is satisfied that a company has used its best efforts to be in compliance with this section on the day determined under subsection (2), the Minister may specify a later day as the day from and after which the company must comply with subsection (1).
-> 1991, c. 47, s. 411; 2001, c. 9, s. 406.
+> 1991, c. 47, s. 411; 2001, c. 9, s. 406; 2007, c. 6, s. 335.
 
 
 
@@ -9157,14 +9188,14 @@ section 412 shall not apply in respect of that company until the expiration of s
 
 **416** 
 
-- **(1)** Subject to subsection (2) and sections 408 and 417, section 411 does not apply in respect of a company if a person acquires control of a company with equity of one billion dollars or more through the purchase or other acquisition of all or any number of the shares of the company by the person or by any entity controlled by the person.
+- **(1)** Subject to subsection (2) and sections 408 and 417, section 411 does not apply in respect of a company if a person acquires control of a company with equity of two billion dollars or more through the purchase or other acquisition of all or any number of the shares of the company by the person or by any entity controlled by the person.
 
 **Undertaking required**
 
 - **(2)** Subsection (1) applies only if the person provides the Minister with an undertaking satisfactory to the Minister to do all things necessary so that, within three years after the acquisition, or any other period that the Minister may specify, the company has voting shares that carry at least 35 per cent of the voting rights attached to all of the outstanding voting shares of the company and that are
 	- **(a)** shares of one or more classes of shares that are listed and posted for trading on a recognized stock exchange in Canada; and
 	- **(b)** shares none of which is beneficially owned by a person who is a major shareholder of the company in respect of the voting shares of the company or by any entity that is controlled by a person who is a major shareholder of the company in respect of such shares.
-> 1991, c. 47, s. 416; 2001, c. 9, s. 409.
+> 1991, c. 47, s. 416; 2001, c. 9, s. 409; 2007, c. 6, s. 335.
 
 
 
@@ -9548,14 +9579,14 @@ no person shall, in person or by proxy, exercise the voting rights attached to t
 	- **(d)** outside Canada, or with the prior written approval of the Minister, in Canada, engage in any of the following activities, namely,
 		- **(i)** collecting, manipulating and transmitting
 			- **(A)** information that is primarily financial or economic in nature,
-			- **(B)** information that relates to the business of a permitted entity, as defined in subsection 490(1), or
+			- **(B)** information that relates to the business of a permitted entity, as defined in subsection 490(1), or
 			- **(C)** any other information that the Minister may, by order, specify,
 		- **(ii)** providing advisory or other services in the design, development or implementation of information management systems,
 		- **(iii)** designing, developing or marketing computer software, and
-		- **(iv)** designing, developing, manufacturing or selling, as an ancillary activity to any activity referred to in any of subparagraphs (i) to (iii) that the company is engaging in, computer equipment integral to the provision of information services related to the business of financial institutions or to the provision of financial services;
+		- **(iv)** designing, developing, manufacturing or selling, as an ancillary activity to any activity referred to in any of subparagraphs (i) to (iii) that the company is engaging in, computer equipment integral to the provision of information services related to the business of financial institutions or to the provision of financial services;
 	- **(d.1)** with the prior written approval of the Minister, develop, design, hold, manage, manufacture, sell or otherwise deal with data transmission systems, information sites, communication devices or information platforms or portals that are used
 		- **(i)** to provide information that is primarily financial or economic in nature,
-		- **(ii)** to provide information that relates to the business of a permitted entity, as defined in subsection 490(1), or
+		- **(ii)** to provide information that relates to the business of a permitted entity, as defined in subsection 490(1), or
 		- **(iii)** for a prescribed purpose or in prescribed circumstances;
 	- **(e)** promote merchandise and services to the holders of any payment, credit or charge card issued by the company;
 	- **(f)** engage in the sale of
@@ -9573,11 +9604,11 @@ no person shall, in person or by proxy, exercise the voting rights attached to t
 
 **Additional activities — life companies**
 
-- **(1.1)** A life company may engage under prescribed terms and conditions, if any are prescribed, in specialized business management or advisory services.
+- **(1.1)** A life company may engage, under prescribed terms and conditions, if any are prescribed, in specialized business management or advisory services.
 
 **Terms and conditions**
 
-- **(2)** A consent given under paragraph (1)(h) is subject to the terms and conditions imposed by the Minister.
+- **(2)** A consent given under paragraph (1)(h) is subject to the terms and conditions imposed by the Minister.
 
 **Restriction**
 
@@ -9586,12 +9617,12 @@ no person shall, in person or by proxy, exercise the voting rights attached to t
 **Regulations**
 
 - **(4)** The Governor in Council may make regulations
-	- **(a)** respecting what a company may or may not do with respect to the carrying on of the activities referred to in any of paragraphs (1)(d) and (d.1) and subsection (1.1);
+	- **(a)** respecting what a company may or may not do with respect to the carrying on of the activities referred to in any of paragraphs (1)(d) and (d.1) and subsection (1.1);
 	- **(b)** imposing terms and conditions in respect of
-		- **(i)** the provision of services referred to in paragraphs (1)(a) and 440(2)(b), and
-		- **(ii)** the carrying on of the activities referred to in any of paragraphs (1)(d) and (d.1) and subsection (1.1); and
-	- **(c)** respecting the circumstances in which companies may be exempted from the requirement to obtain the approval of the Minister before carrying on a particular activity referred to in paragraph (1)(d) or (d.1).
-> 1991, c. 47, s. 441; 1993, c. 34, s. 80(F); 1994, c. 26, s. 41(F); 1997, c. 15, s. 247; 2001, c. 9, s. 416.
+		- **(i)** the provision of services referred to in paragraphs (1)(a) and 440(2)(b), and
+		- **(ii)** the carrying on of the activities referred to in any of paragraphs (1)(d) and (d.1) and subsection (1.1); and
+	- **(c)** respecting the circumstances in which companies may be exempted from the requirement to obtain the approval of the Minister before carrying on a particular activity referred to in paragraph (1)(d) or (d.1).
+> 1991, c. 47, s. 441; 1993, c. 34, s. 80(F); 1994, c. 26, s. 41(F); 1997, c. 15, s. 247; 2001, c. 9, s. 416; 2007, c. 6, s. 217(E).
 
 
 
@@ -9649,16 +9680,13 @@ no person shall, in person or by proxy, exercise the voting rights attached to t
 
 **No new composite companies**
 
-**445** The Superintendent may not make or vary an order approving the commencement and carrying on of business by a company if the company would as a result be permitted to insure both risks falling within the class of life insurance and risks falling within any other class of insurance other than accident and sickness insurance, accident insurance, personal accident insurance, sickness insurance and loss of employment insurance.
-> 1991, c. 47, s. 445; 1997, c. 15, s. 248.
+**445** The Superintendent may not make or vary an order approving the commencement and carrying on of business by a company if the company would as a result be permitted to insure both risks falling within the class of life insurance and risks falling within any other class of insurance other than accident and sickness insurance, credit protection insurance and other approved products insurance.
+> 1991, c. 47, s. 445; 1997, c. 15, s. 248; 2007, c. 6, s. 218.
 
 
 
 
-
-**Saving for composite reinsurance companies**
-
-**446** Notwithstanding section 445, subsections 443(2) and 444(2) permit a company to which was issued under Part III of the Canadian and British Insurance Companies Act a certificate of registry or other authorization specifying both risks falling within the class of life insurance and risks falling within some other class of insurance, other than accident and sickness insurance, accident insurance, personal accident insurance and sickness insurance, but limiting the company to the reinsurance of those risks, to reinsure but not to otherwise insure those risks.
+**446** [Repealed, 2007, c. 6, s. 218]
 
 
 
@@ -9672,9 +9700,11 @@ no person shall, in person or by proxy, exercise the voting rights attached to t
 
 
 
-**Annuities restricted to life companies**
+**Annuities and endowment insurance restricted to life companies**
 
-**448** A property and casualty company shall not issue annuities.
+**448** Property and casualty companies and marine companies shall not issue annuities or policies of endowment insurance.
+> 1991, c. 47, s. 448; 2007, c. 6, s. 219.
+
 
 
 
@@ -9683,20 +9713,20 @@ no person shall, in person or by proxy, exercise the voting rights attached to t
 
 **449** 
 
-- **(1)** Every company that has outstanding policies in Canada of a class shall become and remain a member of any compensation association designated by order of the Minister for that class of insurance.
+- **(1)** Every company that is insuring risks that fall within a class of insurance shall become and remain a member of any compensation association designated by order of the Minister for that class of insurance.
 
 **Designation limitation**
 
-- **(1.1)** A compensation association shall not be designated under subsection (1) unless, in the opinion of the Minister, it has the authority to levy an assessment on each of its members of not less than eighty-five one hundredths of one per cent of the member’s average annual premium income from policies that are eligible for compensation from the association.
+- **(1.1)** A compensation association shall not be designated under subsection (1) unless, in the opinion of the Minister, it has the authority to levy an assessment on each of its members.
 
 **Exceptions**
 
 - **(2)** Subsection (1) does not apply
 	- **(a)** to a company that may reinsure but may not otherwise insure risks;
 	- **(b)** in respect of a class of insurance that, in the opinion of the Minister, is adequately covered by some other compensation plan;
-	- **(c)** in respect of the insurance of risks falling within the class of fire insurance by a company that is a member of the Fire Mutuals Guarantee Fund; or
+	- **(c)** in respect of the insurance against the loss of, or damage to, property caused by fire, by lightning, by an explosion due to ignition, by smoke or by breakage of or leakage from a sprinkler, from other fire protection equipment or from another fire protection system by a company that is a member of the Fire Mutuals Guarantee Fund; or
 	- **(d)** in respect of a class of insurance for which the Minister has not designated a compensation association.
-> 1991, c. 47, s. 449; 1994, c. 26, s. 42(E); 1996, c. 6, s. 79.
+> 1991, c. 47, s. 449; 1994, c. 26, s. 42(E); 1996, c. 6, s. 79; 2007, c. 6, s. 220.
 
 
 
@@ -9708,10 +9738,9 @@ no person shall, in person or by proxy, exercise the voting rights attached to t
 
 **Segregated funds restricted to life companies**
 
-**450** A property and casualty company shall not
-- **(a)** issue policies, or
-- **(b)** accept or retain on the direction of a policyholder or beneficiary policy dividends or bonuses, or policy proceeds that are payable on the surrender or maturity of the policy or on the death of the person whose life is insured,
-where the liabilities of the company in respect of the policies or the amounts accepted or retained vary in amount depending on the market value of a fund consisting of a specified group of assets.
+**450** A property and casualty company, or a marine company, shall not issue policies — or accept or retain, on the direction of a policyholder or beneficiary, policy dividends or bonuses, or policy proceeds that are payable on the surrender or maturity of the policy or on the death of the person whose life is insured — if the liabilities of the company in respect of the policies or the amounts accepted or retained vary in amount depending on the market value of a fund consisting of a specified group of assets.
+> 1991, c. 47, s. 450; 2007, c. 6, s. 221.
+
 
 
 
@@ -9736,7 +9765,9 @@ where the liabilities of the company in respect of the policies or the amounts a
 
 **Transfers from segregated funds**
 
-**453** A company may, with the approval of the Superintendent, return the current value of an amount transferred pursuant to section 452 to the account from which the amount was transferred.
+**453** A company may return the current value of an amount transferred under section 452 to the account from which the amount was transferred.
+> 1991, c. 47, s. 453; 2007, c. 6, s. 222.
+
 
 
 
@@ -9809,22 +9840,22 @@ but
 
 **Payments to shareholders from participating account**
 
-**461** A company that has share capital may, from a participating account maintained pursuant to section 456, make a payment to its shareholders, or transfer an amount to an account (other than a participating shareholder account as defined in section 83.01) from which a payment can be made to its shareholders, if
-- **(a)** the aggregate of the amounts so paid or transferred in respect of a financial year does not exceed the percentage of the portion of the profits of the participating account that is determined by the directors as the portion to be distributed for the financial year to the shareholders and participating policyholders, which percentage shall not exceed the number, expressed as a percentage, that is the aggregate of
+**461** A company that has share capital may, from a participating account maintained pursuant to section 456, in a financial year and at any time within six months after the end of that financial year, make a payment to its shareholders, or transfer an amount to an account (other than a participating shareholder account as defined in section 83.01) from which a payment can be made to its shareholders, if
+- **(a)** the aggregate of the amounts so paid or transferred in that financial year does not exceed the percentage of the portion of the profits of the participating account that is determined by the directors as the portion to be distributed for that financial year to the shareholders and participating policyholders, which percentage shall not exceed the number, expressed as a percentage, that is the aggregate of
 	- **(i)** 10 multiplied by the lesser of
-		- **(A)** the sum of the opening balances for the financial year of all participating accounts of the company, and
+		- **(A)** the sum of the opening balances for that financial year of all participating accounts of the company, and
 		- **(B)** two hundred and fifty million dollars,
 	- **(ii)** 7.5 multiplied by the amount, if any, by which the lesser of
-		- **(A)** the sum of the opening balances for the financial year of all participating accounts of the company, and
+		- **(A)** the sum of the opening balances for that financial year of all participating accounts of the company, and
 		- **(B)** five hundred million dollarsexceeds two hundred and fifty million dollars,
 	- **(iii)** 5 multiplied by the amount, if any, by which the lesser of
-		- **(A)** the sum of the opening balances for the financial year of all participating accounts of the company, and
+		- **(A)** the sum of the opening balances for that financial year of all participating accounts of the company, and
 		- **(B)** one billion dollarsexceeds five hundred million dollars, and
-	- **(iv)** 2.5 multiplied by the amount, if any, by which the sum of the opening balances for the financial year of all participating accounts of the company exceeds one billion dollars,
-divided by the sum of the opening balances for the financial year of all the participating accounts;
-- **(b)** the company pays dividends or bonuses to its participating policyholders out of the profits of the participating account for the financial year in accordance with its dividend or bonus policy established pursuant to paragraph 165(2)(e); and
+	- **(iv)** 2.5 multiplied by the amount, if any, by which the sum of the opening balances for that financial year of all participating accounts of the company exceeds one billion dollars,
+divided by the sum of the opening balances for that financial year of all the participating accounts;
+- **(b)** the company pays dividends or bonuses to its participating policyholders out of the profits of the participating account for that financial year in accordance with its dividend or bonus policy established pursuant to paragraph 165(2)(e); and
 - **(c)** the payment to the shareholders, or the transfer to the account from which a payment can be made to the shareholders, would not, in the opinion of the actuary of the company, materially affect the company’s ability to continue to comply with its dividend or bonus policy or to maintain the levels or rates of dividends or bonuses paid to the company’s participating policyholders.
-> 1991, c. 47, s. 461; 1997, c. 15, s. 251.
+> 1991, c. 47, s. 461; 1997, c. 15, s. 251; 2007, c. 6, s. 223.
 
 
 
@@ -9835,9 +9866,9 @@ divided by the sum of the opening balances for the financial year of all the par
 **462** The only transfers that may be made from a participating account maintained pursuant to section 456 are
 - **(a)** transfers made pursuant to sections 461 and 463;
 - **(b)** transfers made in respect of transfers or reinsurance of all or any portion of the participating policies in respect of which the participating account is maintained;
-- **(c)** transfers, with the approval of the Superintendent, of amounts that can reasonably be attributed to sources not related to the participating policies in respect of which the account is maintained; and
+- **(c)** transfers, with the approval of the Superintendent, of amounts that can be reasonably attributed to sources not related to the participating policies in respect of which the account is or has been maintained, if the transfer would not, in the opinion of the actuary of the company, materially affect the company’s ability to continue to comply with its dividend or bonus policy, maintain the levels or rates of dividends or bonuses paid to the company’s participating policyholders or meet the company’s obligations under its participating policies; and
 - **(d)** transfers made in respect of the conversion of a mutual company into a company with common shares.
-> 1991, c. 47, s. 462; 1997, c. 15, s. 252; 1999, c. 1, s. 8.
+> 1991, c. 47, s. 462; 1997, c. 15, s. 252; 1999, c. 1, s. 8; 2007, c. 6, s. 224.
 
 
 
@@ -9882,7 +9913,9 @@ where
 
 **When dividend not to be declared**
 
-- **(3)** The directors of a company shall not declare a dividend, bonus or other benefit to participating policyholders if there are reasonable grounds for believing that the company is, or the payment or other satisfaction would cause the company to be, in contravention of any regulation referred to in subsection 515(1) or (2) or any direction made pursuant to subsection 515(3).
+- **(3)** The directors of a company shall not declare a dividend, bonus or other benefit to participating policyholders if there are reasonable grounds for believing that the company is, or the payment or other satisfaction would cause the company to be, in contravention of subsection 515(1), any regulation made under subsection 515(2) or any order made under subsection 515(3).
+> 1991, c. 47, s. 464; 2007, c. 6, s. 225.
+
 
 
 
@@ -9895,11 +9928,13 @@ where
 
 **465** 
 
-- **(1)** The Governor in Council may make regulations limiting the extent to which a company may cause itself to be reinsured against risks undertaken by it.
+- **(1)** The Governor in Council may make regulations limiting the extent to which a company may cause itself to be reinsured against risks undertaken under its policies.
 
 **Regulation may provide for discretion**
 
 - **(2)** A regulation made pursuant to subsection (1) may provide that the Superintendent may, by order, determine the matters or exercise the discretion that the regulation may specify.
+> 1991, c. 47, s. 465; 2007, c. 6, s. 226.
+
 
 
 
@@ -9937,7 +9972,7 @@ where
 
 **469** 
 
-- **(1)** A company shall not make a loan in Canada on the security of residential property in Canada for the purpose of purchasing, renovating or improving that property, or refinance such a loan, if the amount of the loan, together with the amount then outstanding of any mortgage having an equal or prior claim against the property, would exceed 75 per cent of the value of the property at the time of the loan.
+- **(1)** A company shall not make a loan in Canada on the security of residential property in Canada for the purpose of purchasing, renovating or improving that property, or refinance such a loan, if the amount of the loan, together with the amount then outstanding of any mortgage having an equal or prior claim against the property, would exceed 80 per cent of the value of the property at the time of the loan.
 
 **Exception**
 
@@ -9948,7 +9983,7 @@ where
 	- **(d)** a loan secured by a mortgage where
 		- **(i)** the mortgage is taken back by the company on a property disposed of by the company, including where the disposition is by way of a realization of a security interest, and
 		- **(ii)** the mortgage secures payment of an amount payable to the company for the property.
-> 1991, c. 47, s. 469; 1997, c. 15, s. 253.
+> 1991, c. 47, s. 469; 1997, c. 15, s. 253; 2007, c. 6, s. 227.
 
 
 
@@ -10062,13 +10097,15 @@ where
 
 
 
-### Restrictions Specific to Property and Casualty Companies
+### Restrictions Specific to Property and Casualty Companies and Marine Companies
 
 
 
 **General restriction**
 
-**476** A property and casualty company shall not, and shall not permit its prescribed subsidiaries to, enter into any debt obligation, within the meaning assigned to that expression by the regulations, or issue any share, other than a common share, if as a result the aggregate of the total debt obligations of the company, determined in the prescribed manner, and the stated capital of the company would exceed the prescribed percentage of the total assets of the company.
+**476** A property and casualty company, or a marine company, shall not, and shall not permit its prescribed subsidiaries to, enter into any debt obligation, within the meaning assigned to that expression by the regulations, or issue any share, other than a common share, if as a result the aggregate of the total debt obligations of the company, determined in the prescribed manner, and the stated capital of the company would exceed the prescribed percentage of the total assets of the company.
+> 1991, c. 47, s. 476; 2007, c. 6, s. 228.
+
 
 
 
@@ -10077,14 +10114,12 @@ where
 
 **477** 
 
-- **(1)** A property and casualty company shall not guarantee on behalf of any person the payment or repayment of any sum of money unless the person on whose behalf the company has undertaken to guarantee the payment or repayment is a subsidiary of the company and has an unqualified obligation to reimburse the company for the full amount of the payment or repayment to be guaranteed.
+- **(1)** A property and casualty company, or a marine company, shall not guarantee on behalf of any person the payment or repayment of any sum of money unless the person on whose behalf the company has undertaken to guarantee the payment or repayment is a subsidiary of the company and has an unqualified obligation to reimburse the company for the full amount of the payment or repayment to be guaranteed.
 
-- **(2)** [Repealed, 1997, c. 15, s. 255]
+**Saving**
 
-**Idem**
-
-- **(3)** Subsection (1) does not prevent a property and casualty company from insuring a risk falling within a class of insurance that is specified in the order of the Superintendent approving the commencement and carrying on of business by the company.
-> 1991, c. 47, s. 477; 1997, c. 15, s. 255; 2001, c. 9, s. 422.
+- **(2)** Subsection (1) does not prevent a property and casualty company, or a marine company, from insuring a risk falling within a class of insurance that is specified in the order of the Superintendent approving the commencement and carrying on of business by the company.
+> 1991, c. 47, s. 477; 1997, c. 15, s. 255; 2001, c. 9, s. 422; 2007, c. 6, s. 228.
 
 
 
@@ -10092,7 +10127,9 @@ where
 
 **Restriction on leasing**
 
-**478** A property and casualty company shall not engage in Canada in any financial leasing of personal property.
+**478** A property and casualty company, or a marine company, shall not engage in Canada in any financial leasing of personal property.
+> 1991, c. 47, s. 478; 2007, c. 6, s. 228.
+
 
 
 
@@ -10215,7 +10252,9 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 
 **Disclosing borrowing costs — advances**
 
-**484** Where regulations have been made respecting the manner in which the cost of borrowing is to be disclosed in respect of an advance on the security or against the cash surrender value of a policy in Canada, a company shall not make such an advance unless the cost of borrowing, as calculated and expressed in accordance with the regulations, has, in the prescribed manner, been disclosed by the company or otherwise as prescribed to the policyholder at or before the time when the advance is made.
+**484** If regulations have been made respecting the manner in which the cost of borrowing is to be disclosed in respect of an advance on the security or against the cash surrender value of a policy, a company shall not make such an advance unless the cost of borrowing, as calculated and expressed in accordance with the regulations, has, in the prescribed manner, been disclosed by the company or otherwise as prescribed to the policyholder at or before the time when the advance is made.
+> 1991, c. 47, s. 484; 2007, c. 6, s. 229(E).
+
 
 
 
@@ -10261,7 +10300,17 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 **Procedures to be filed with Commissioner**
 
 - **(2)** A company shall file with the Commissioner a copy of its procedures established under paragraph (1)(a).
-> 1991, c. 47, s. 486; 1997, c. 15, s. 260; 2001, c. 9, s. 424.
+
+**How procedures to be made available**
+
+- **(3)** A company shall make its procedures established under paragraph (1)(a) available
+	- **(a)** on its websites through which products or services are offered in Canada; and
+	- **(b)** in written format to be sent to any person who requests them.
+
+**Information on contacting Agency**
+
+- **(4)** A company shall also make prescribed information on how to contact the Agency available whenever it makes its procedures established under paragraph (1)(a) available under subsection (3).
+> 1991, c. 47, s. 486; 1997, c. 15, s. 260; 2001, c. 9, s. 424; 2007, c. 6, s. 230.
 
 
 
@@ -10367,10 +10416,10 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 	- **(i)** any product or service or prescribed class of products or services offered by them,
 	- **(ii)** any of their policies, procedures or practices relating to the offer by them of any product or service or prescribed class of products or services,
 	- **(iii)** anything they are required to do or to refrain from doing under a consumer provision, and
-	- **(iv)** any other matter that may affect their dealings with customers or the public;
+	- **(iv)** any other matter that may affect their dealings, or their employees’ or representatives’ dealings, with customers or the public;
 - **(b)** the manner, place and time in which, and the persons to whom information is to be disclosed; and
 - **(c)** the content and form of any advertisement by companies or any prescribed class of companies relating to any matter referred to in paragraph (a).
-> 2001, c. 9, s. 425.
+> 2001, c. 9, s. 425; 2007, c. 6, s. 231.
 
 
 
@@ -10390,6 +10439,11 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 **490** 
 
 - **(1)** The definitions in this subsection apply in this Part.
+
+***closed-end fund*** means an entity whose activities are limited to investing the funds of the entity so as to provide investment diversification and professional investment management to the holders of its securities, and whose securities are 
+- **(a)** fixed in number and distributed to the public in an offering under a preliminary prospectus, prospectus, short-form prospectus or similar document in accordance with the laws of a province or a foreign jurisdiction;
+- **(b)** traded on an exchange or an over-the-counter market; and
+- **(c)** liquidated on a fixed future termination date, the proceeds of which are allocated to the holders of the securities on a proportional basis.
 
 ***commercial loan*** means
 - **(a)** any loan made or acquired by a company, other than
@@ -10477,7 +10531,7 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 - **(3)** A reference in this Part to the assets or liabilities of a company does not include
 	- **(a)** assets of a segregated fund maintained pursuant to section 451; or
 	- **(b)** liabilities of the company under the policies and for the amounts in respect of which such a fund is maintained.
-> 1991, c. 47, ss. 490, 760; 1993, c. 34, s. 81(F); 1997, c. 15, s. 264; 2001, c. 9, s. 426.
+> 1991, c. 47, ss. 490, 760; 1993, c. 34, s. 81(F); 1997, c. 15, s. 264; 2001, c. 9, s. 426; 2007, c. 6, s. 233.
 
 
 
@@ -10536,7 +10590,15 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 **Exception: uncontrolled event**
 
 - **(5)** A company is deemed not to contravene subsection (1) if the company acquires control of, or acquires or increases a substantial investment in, an entity solely as the result of an event not within the control of the company.
-> 1991, c. 47, s. 493; 1997, c. 15, s. 265; 2001, c. 9, s. 426.
+
+**Application of other provision**
+
+- **(6)** Despite having acquired control of, or a substantial investment in, an entity under a particular provision of this Part, a company may continue to control the entity or hold the substantial investment in the entity as though it had made the acquisition under another provision of this Part so long as the conditions of that other provision are met.
+
+**Timing of deemed acquisition**
+
+- **(7)** If a company decides to exercise its right under subsection (6), the company is deemed to be acquiring the control or the substantial investment under the other provision.
+> 1991, c. 47, s. 493; 1997, c. 15, s. 265; 2001, c. 9, s. 426; 2007, c. 6, s. 234.
 
 
 
@@ -10589,7 +10651,7 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 	- **(d)** engaging in any activity that a life company is permitted to engage in, other than an activity referred to in paragraph (a) or (e), that relates to
 		- **(i)** the promotion, sale, delivery or distribution of a financial product or financial service that is provided by the life company or any member of the life company’s group, or
 		- **(ii)** if a significant portion of the business of the entity involves an activity referred to in subparagraph (i), the promotion, sale, delivery or distribution of a financial product or financial service that is provided by any other entity that is primarily engaged in the business of providing financial services;
-	- **(e)** engaging in the activities referred to in the definition “mutual fund entity” or “mutual fund distribution entity” in subsection 490(1); and
+	- **(e)** engaging in the activities referred to in the definition ***closed-end fund***, ***mutual fund distribution entity*** or ***mutual fund entity*** in subsection 490(1); and
 	- **(f)** engaging in prescribed activities, under prescribed terms and conditions, if any are prescribed.
 
 **Restriction — life company**
@@ -10603,34 +10665,53 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 		- **(ii)** in the case of an entity that is not controlled by the company, the company itself would be permitted to acquire a substantial investment in the other entity under subsection (1) or (2) or 493(2), paragraph 493(3)(b) or (c) or subsection 493(4); or
 	- **(e)** any prescribed activity.
 
-**Permitted investments — property and casualty companies**
+**Exception**
 
-- **(4)** Subject to subsections (5) to (8) and Part XI, a property and casualty company may acquire control of, or acquire or increase a substantial investment in, an entity, other than an entity referred to in any of paragraphs (1)(a) to (j), whose business is limited to one or more of the following:
-	- **(a)** engaging in any financial service activity or in any other activity that a property and casualty company is permitted to engage in under subsection 440(2) or section 441 or 442, other than paragraph 441(1)(h);
-	- **(b)** acquiring or holding shares of, or ownership interests in, entities in which a property and casualty company is permitted under this Part to hold or acquire;
+- **(3.1)** Despite paragraph (3)(a), a life company may acquire control of, or acquire or increase a substantial investment in, any entity that acts as a trustee of a trust if the entity has been authorized under the laws of a province to act as a trustee of a trust and the entity is
+	- **(a)** a closed-end fund;
+	- **(b)** a mutual fund entity; or
+	- **(c)** an entity whose business is limited to engaging in one or more of the following:
+		- **(i)** the activities of a mutual fund distribution entity,
+		- **(ii)** any activity that a company is permitted to engage in under subsection 441(1.1), and
+		- **(iii)** the provision of investment counselling services and portfolio management services.
+
+**Permitted investments — property and casualty companies and marine companies**
+
+- **(4)** Subject to subsections (5) to (8) and Part XI, a property and casualty company, or a marine company, may acquire control of, or acquire or increase a substantial investment in, an entity, other than an entity referred to in any of paragraphs (1)(a) to (j), whose business is limited to one or more of the following:
+	- **(a)** engaging in any financial service activity or in any other activity that a property and casualty company, or a marine company, is permitted to engage in under subsection 440(2) or section 441 or 442, other than paragraph 441(1)(h);
+	- **(b)** acquiring or holding shares of, or ownership interests in, entities in which a property and casualty company, or a marine company, is permitted under this Part to hold or acquire;
 	- **(c)** engaging in the provision of any services exclusively to any or all of the following, so long as the entity is providing those services to the company or any member of the company’s group:
 		- **(i)** the company,
 		- **(ii)** any member of the company’s group,
 		- **(iii)** any entity that is primarily engaged in the business of providing financial services,
 		- **(iv)** any permitted entity in which an entity referred to in subparagraph (iii) has a substantial investment, or
 		- **(v)** any prescribed person, if it is doing so under prescribed terms and conditions, if any are prescribed;
-	- **(d)** engaging in any activity that a property and casualty company is permitted to engage in, other than an activity referred to in paragraph (a) or (e), that relates to
-		- **(i)** the promotion, sale, delivery or distribution of a financial product or financial service that is provided by the property and casualty company or any member of the property and casualty company’s group, or
+	- **(d)** engaging in any activity that a property and casualty company, or a marine company, is permitted to engage in, other than an activity referred to in paragraph (a) or (e), that relates to
+		- **(i)** the promotion, sale, delivery or distribution of a financial product or financial service that is provided by the company or any member of the company’s group, or
 		- **(ii)** if a significant portion of the business of the entity involves an activity referred to in subparagraph (i), the promotion, sale, delivery or distribution of a financial product or financial service that is provided by any other entity that is primarily engaged in the business of providing financial services;
-	- **(e)** engaging in the activities referred to in the definition “mutual fund entity” or “mutual fund distribution entity” in subsection 490(1); and
+	- **(e)** engaging in the activities referred to in the definition ***closed-end fund***, ***mutual fund distribution entity*** or ***mutual fund entity*** in subsection 490(1); and
 	- **(f)** engaging in prescribed activities, under prescribed terms and conditions, if any are prescribed.
 
-**Restriction — property and casualty company**
+**Restriction — property and casualty companies and marine companies**
 
-- **(5)** A property and casualty company may not acquire control of, or acquire or increase a substantial investment in, an entity whose business includes any activity referred to in any of paragraphs (4)(a) to (e) if the entity engages in the business of accepting deposit liabilities or if the activities of the entity include
+- **(5)** A property and casualty company, or a marine company, may not acquire control of, or acquire or increase a substantial investment in, an entity whose business includes any activity referred to in any of paragraphs (4)(a) to (e) if the entity engages in the business of accepting deposit liabilities or if the activities of the entity include
 	- **(a)** activities that a company is not permitted to engage in under any of sections 466, 469 and 478;
-	- **(b)** dealing in securities, except as may be permitted under paragraph (2)(e) or as may be permitted to a company under paragraph 440(2)(b);
+	- **(b)** dealing in securities, except as may be permitted under paragraph (4)(e) or as may be permitted to a company under paragraph 440(2)(b);
 	- **(c)** any financial intermediary activity that exposes the entity to material market or credit risk, including the activities of a finance entity, a factoring entity and a financial leasing entity;
 	- **(c.1)** the activities of a specialized financing entity;
 	- **(d)** acquiring control of or acquiring or holding a substantial investment in another entity unless
 		- **(i)** in the case of an entity that is controlled by the company, the company itself would be permitted under this Part to acquire a substantial investment in the other entity, or
 		- **(ii)** in the case of an entity that is not controlled by the company, the company itself would be permitted to acquire a substantial investment in the other entity under subsection (1) or (4) or 493(2) or paragraph 493(3)(b) or (c); or
 	- **(e)** any prescribed activity.
+
+**Exception**
+
+- **(5.1)** Despite paragraph (5)(a), a property and casualty company, or a marine company, may acquire control of, or acquire or increase a substantial investment in, any entity that acts as a trustee of a trust if the entity has been authorized under the laws of a province to act as a trustee of a trust and the entity is
+	- **(a)** a closed-end fund;
+	- **(b)** a mutual fund entity; or
+	- **(c)** an entity whose business is limited to engaging in one or more of the following:
+		- **(i)** the activities of a mutual fund distribution entity, and
+		- **(ii)** the provision of investment counselling services and portfolio management services.
 
 **Control**
 
@@ -10654,7 +10735,8 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 		- **(i)** a factoring entity, or
 		- **(ii)** a financial leasing entity;
 	- **(c)** acquire control of, or acquire or increase a substantial investment in, an entity whose business includes one or more of the activities referred to in paragraph (2)(d) or (4)(d);
-	- **(d)** acquire control of, or acquire or increase a substantial investment in, an entity that engages in an activity described in paragraph 441(1)(d) or (d.1); or
+	- **(d)** acquire control of, or acquire or increase a substantial investment in, an entity that engages in Canada in an activity described in paragraph 441(1)(d);
+	- **(d.1)** acquire control of, or acquire or increase a substantial investment in, an entity that engages in an activity described in paragraph 441(1)(d.1); or
 	- **(e)** acquire control of, or acquire or increase a substantial investment in, an entity engaging in an activity prescribed for the purposes of paragraph (2)(f) or (4)(f).
 
 **Superintendent’s approval**
@@ -10664,7 +10746,7 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 **Exception**
 
 - **(9)** Subsection (8) does not apply in respect of a particular transaction if
-	- **(a)** the company is acquiring control of an entity whose business includes an activity referred to in paragraph (2)(b) or (4)(b), other than a specialized financing entity;
+	- **(a)** the company is acquiring control of an entity, other than a specialized financing entity, and the only reason for which the company would, but for this subsection, require approval for the acquisition is that the entity carries on activities referred to in paragraph (2)(b) or (4)(b);
 	- **(b)** the company is acquiring control of an entity whose activities are limited to the activities of a factoring entity or a financial leasing entity; or
 	- **(c)** the Minister has approved the transaction under subsection (7) or is deemed to have approved it under subsection 496(1).
 
@@ -10685,7 +10767,7 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 **Subsections do not apply**
 
 - **(13)** If a company controls, within the meaning of paragraph 3(1)(a), (b) or (c), an entity, subsections (7) and (8) do not apply in respect of any subsequent increases by the company of its substantial investment in the entity so long as the company continues to control the entity.
-> 1991, c. 47, s. 495; 1997, c. 15, s. 266; 1999, c. 28, s. 122; 2001, c. 9, s. 426.
+> 1991, c. 47, s. 495; 1997, c. 15, s. 266; 1999, c. 28, s. 122; 2001, c. 9, s. 426; 2007, c. 6, ss. 235, 336(F).
 
 
 
@@ -10751,14 +10833,14 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 
 **Temporary investment**
 
-- **(4)** If a company, by way of temporary investment, acquires control of, or acquires or increases a substantial investment in, an entity for which the approval of the Minister under subsection 495(7) is required, the company must, within 90 days after acquiring control or after acquiring or increasing the substantial investment,
+- **(4)** If a company, by way of temporary investment, acquires control of, or acquires or increases a substantial investment in, an entity for which the approval of the Minister would have been required under subsection 495(7) if the company had acquired the control, or acquired or increased the substantial investment, under section 495, the company must, within 90 days after acquiring control or after acquiring or increasing the substantial investment,
 	- **(a)** apply to the Minister for approval to retain control of the entity or to continue to hold the substantial investment in the entity for a period specified by the Minister or for an indeterminate period on any terms and conditions that the Minister considers appropriate; or
 	- **(b)** do all things necessary to ensure that, on the expiry of the 90 days, it no longer controls the entity or does not have a substantial investment in the entity.
 
 **Indeterminate extension**
 
-- **(5)** If a company, by way of temporary investment, acquires control of, or acquires or increases a substantial investment in, an entity for which the approval of the Superintendent under subsection 495(8) is required, the Superintendent may, in the case of any particular company that makes an application under this subsection, permit the company to retain control of the entity or to continue to hold the substantial investment in the entity for an indeterminate period, on any terms and conditions that the Superintendent considers necessary.
-> 1991, c. 47, s. 498; 2001, c. 9, s. 426.
+- **(5)** If a company, by way of temporary investment, acquires control of, or acquires or increases a substantial investment in, an entity for which the approval of the Superintendent would have been required under subsection 495(8) if the company had acquired the control, or acquired or increased the substantial investment, under section 495, the Superintendent may, on application, permit the company to retain control of the entity or to continue to hold the substantial investment in the entity for an indeterminate period, on any terms and conditions that the Superintendent considers appropriate.
+> 1991, c. 47, s. 498; 2001, c. 9, s. 426; 2007, c. 6, s. 236.
 
 
 
@@ -10771,8 +10853,9 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 - **(1)** Despite anything in this Part, if a company or any of its subsidiaries has made a loan to an entity and, under the terms of the agreement between the company, or any of its subsidiaries, and the entity with respect to the loan and any other documents governing the terms of the loan, a default has occurred, the company may acquire
 	- **(a)** if the entity is a body corporate, all or any of the shares of the body corporate;
 	- **(b)** if the entity is an unincorporated entity, all or any of the ownership interests in the entity;
-	- **(c)** all or any of the shares or all or any of the ownership interests in any entity that is an affiliate of the entity; or
-	- **(d)** all or any of the shares of a body corporate that is primarily engaged in holding shares of, ownership interests in or assets acquired from the entity or any of its affiliates.
+	- **(c)** all or any of the shares or all or any of the ownership interests in any entity that is an affiliate of the entity;
+	- **(d)** all or any of the shares of a body corporate that is primarily engaged in holding shares of, ownership interests in or assets acquired from the entity or any of its affiliates; or
+	- **(e)** all or any of the ownership interests in any entity that is primarily engaged in holding shares of, ownership interests in or assets acquired from the entity or any of its affiliates.
 
 **Obligation of company**
 
@@ -10797,7 +10880,7 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 **Exception**
 
 - **(7)** If, under subsection (1), a company acquires control of, or acquires or increases a substantial investment in, an entity that it would otherwise be permitted to acquire or increase under section 495, the company may retain control of the entity or continue to hold the substantial investment for an indeterminate period if the approval in writing of the Minister is obtained before the end of the period referred to in subsection (2) or (3), including any extension of it granted under subsection (4).
-> 1991, c. 47, s. 499; 1997, c. 15, s. 267; 2001, c. 9, s. 426.
+> 1991, c. 47, s. 499; 1997, c. 15, s. 267; 2001, c. 9, s. 426; 2007, c. 6, s. 237.
 
 
 
@@ -10896,17 +10979,14 @@ if the investment or interest is acquired through the realization of a security 
 
 
 
-### Consumer and Commercial Lending by Property and Casualty Companies
+### Consumer and Commercial Lending by Property and Casualty Companies and Marine Companies
 
 
 
-**Lending limit — property and casualty companies**
+**Lending limit — property and casualty companies and marine companies**
 
-**505** A property and casualty company shall not, and shall not permit its prescribed subsidiaries to,
-- **(a)** make or acquire a commercial loan or a loan to a natural person, or
-- **(b)** acquire control of a permitted entity that holds commercial loans or loans to natural persons
-if the aggregate value of all such loans held by the company and its prescribed subsidiaries exceeds, or the making or acquisition of the loan or the acquisition of control of the permitted entity would cause the aggregate value of all such loans held by the company and its prescribed subsidiaries to exceed, the prescribed percentage of the total assets of the company.
-> 1991, c. 47, s. 505; 2001, c. 9, s. 426.
+**505** A property and casualty company, or a marine company, shall not, and shall not permit its prescribed subsidiaries to, make or acquire a commercial loan or a loan to a natural person, or acquire control of a permitted entity that holds commercial loans or loans to natural persons, if the aggregate value of all such loans held by the company and its prescribed subsidiaries exceeds, or the making or acquisition of the loan or the acquisition of control of the permitted entity would cause the aggregate value of all such loans held by the company and its prescribed subsidiaries to exceed, the prescribed percentage of the total assets of the company.
+> 1991, c. 47, s. 505; 2001, c. 9, s. 426; 2007, c. 6, s. 238.
 
 
 
@@ -11039,24 +11119,28 @@ where
 - **B** is the total value of all assets that the company and its subsidiaries acquired from or transferred to that person in the twelve months ending immediately before the acquisition or transfer; and
 - **C** is ten per cent of the total value of the assets of the company, as shown in the last annual statement of the company prepared before the acquisition or transfer.
 
-**Exception**
+**Approval of series of transactions**
 
-- **(2)** The prohibition in subsection (1) does not apply in respect of
-	- **(a)** an asset that is a debt obligation referred to in subparagraphs (b)(i) to (v) of the definition “commercial loan” in subsection 490(1); or
-	- **(b)** a transaction or series of transactions by a company with another financial institution as a result of the company’s participation in one or more syndicated loans with that financial institution.
+- **(1.1)** The Superintendent may, for the purposes of subsection (1), approve a transaction or series of transactions relating to the acquisition or transfer of assets that may be entered into with a person, or with persons of any class of persons, regardless of whether those persons are known at the time of the granting of the approval or not.
 
 **Exception**
 
-- **(3)** The approval of the Superintendent is not required if
-	- **(a)** the company sells assets under a sale agreement that is approved by the Minister under subsection 254(2);
-	- **(b)** the company or its subsidiary acquires shares of, or ownership interests in, an entity for which the approval of the Minister under Part VII or subsection 495(7) is required or the approval of the Superintendent under subsection 495(8) is required; or
-	- **(c)** the transaction has been approved by the Minister under subsection 715(1) of this Act or subsection 678(1) of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md).
+- **(2)** Subsection (1) does not apply in respect of
+	- **(a)** an asset that is a debt obligation referred to in subparagraphs (b)(i) to (v) of the definition ***commercial loan*** in subsection 490(1);
+	- **(b)** assets that are acquired or transferred under a transaction or series of transactions by a company with another financial institution as a result of the company’s participation in one or more syndicated loans with that financial institution;
+	- **(c)** assets that are acquired or transferred under a transaction that is approved by the Minister or the Superintendent under subsection 254(2) or (2.01);
+	- **(d)** shares of, or ownership interests in, an entity for which the approval of the Minister under Part VII or subsection 495(7) is required or the approval of the Superintendent under subsection 495(8) is required;
+	- **(e)** assets that are acquired or transferred under a transaction approved by the Minister under subsection 715(1) of this Act or subsection 678(1) of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md);
+	- **(f)** assets, other than real property, acquired or disposed of under an arrangement that has been approved by the Superintendent under subsection 527(3); or
+	- **(g)** assets acquired or disposed of with the approval of the Superintendent under subsection 527(4).
+
+- **(3)** [Repealed, 2007, c. 6, s. 239]
 
 **Value of assets**
 
 - **(4)** For the purposes of “A” in subsection (1), the value of the assets is
 	- **(a)** in the case of assets that are acquired, the purchase price of the assets or, if the assets are shares of, or ownership interests in, an entity the assets of which will be included in the annual statement of the company after the acquisition, the fair market value of the assets; and
-	- **(b)** in the case of assets that are transferred, the book value of the assets as stated in the last annual statement of the company prepared before the transfer, or if the assets are shares of, or ownership interests in, an entity the assets of which were included in the last annual statement of the company before the transfer, the value of the assets as stated in the annual statement.
+	- **(b)** in the case of assets that are transferred, the value of the assets as reported in the last annual statement of the company prepared before the transfer or, if the value of the assets is not reported in that annual statement, the value of the assets as it would be reported in the annual statement of the company if the annual statement had been prepared, in accordance with the accounting principles referred to in subsection 331(4), immediately before the transfer.
 
 **Total value of all assets**
 
@@ -11064,8 +11148,8 @@ where
 
 **Total value of all assets**
 
-- **(6)** For the purposes of subsection (1), the total value of all assets that the company or any of its subsidiaries has transferred during the period of twelve months referred to in subsection (1) is the book value of the assets as stated in the last annual statement of the company prepared before the transfer or, if the assets are shares of, or ownership interests in, an entity the assets of which were included in the last annual statement of the company before the transfer, the value of the assets of the entity as stated in the annual statement.
-> 1991, c. 47, s. 512; 1997, c. 15, s. 274; 2001, c. 9, s. 426.
+- **(6)** For the purposes of subsection (1), the total value of all assets that the company or any of its subsidiaries has transferred during the 12-month period referred to in subsection (1) is the total of the value of each of those assets as reported in the last annual statement of the company prepared before the transfer of the asset or, if the value of any of those assets is not reported in that annual statement, as it would be reported in the annual statement of the company if the annual statement had been prepared, in accordance with the accounting principles referred to in subsection 331(4), immediately before the transfer of the asset.
+> 1991, c. 47, s. 512; 1997, c. 15, s. 274; 2001, c. 9, s. 426; 2007, c. 6, s. 239.
 
 
 
@@ -11119,38 +11203,7 @@ But if the loan or investment would be precluded or limited by this Part, the am
 
 
 
-
-**Adequacy of assets — property and casualty companies**
-
-**516** 
-
-- **(1)** A property and casualty company shall, in relation to its operations, maintain assets the total value of which, when determined in accordance with the accounting principles referred to in subsection 331(4), or when determined on the basis of the market value of those assets, whichever way produces the greater total value, is at least equal to the amount calculated by subtracting from the total of the following amounts an amount in respect of risks against which the company is reinsured that is determined in accordance with the prescribed formula:
-	- **(a)** a reserve for actuarial and other policy liabilities of the company the amount of which is determined on the same basis as the reserve included in the annual statement required under section 665,
-	- **(b)** the other liabilities of the company, and
-	- **(c)** an amount determined in accordance with the prescribed formula the elements of which include amounts in respect of one or more of the following in respect of a prescribed class of policies, namely,
-		- **(i)** unearned premiums,
-		- **(ii)** provision for claims incurred but unpaid,
-		- **(iii)** premium income during the preceding year, and
-		- **(iv)** claims incurred during the prescribed period,
-and shall comply with any regulations in relation to the requirement to maintain assets of a particular value.
-
-**Regulations and guidelines**
-
-- **(2)** The Governor in Council may make regulations and the Superintendent may make guidelines respecting the maintenance by property and casualty companies of assets of a particular value.
-
-**Regulation may provide for discretion**
-
-- **(3)** A regulation made pursuant to subsection (2) may provide that the Superintendent may, by order, determine the matters or exercise the discretion that the regulations may specify.
-
-**Directives**
-
-- **(4)** Notwithstanding that a property and casualty company is complying with regulations or guidelines made under subsection (2), the Superintendent may, by order, direct the company to increase its assets.
-
-**Compliance**
-
-- **(5)** A property and casualty company shall comply with an order made under subsection (4) within such time as the Superintendent specifies therein.
-> 1991, c. 47, s. 516; 1996, c. 6, s. 82; 1997, c. 15, s. 275.
-
+**516** [Repealed, 2007, c. 6, s. 240]
 
 
 
@@ -11248,7 +11301,9 @@ and shall comply with any regulations in relation to the requirement to maintain
 **Idem**
 
 - **(2)** This Part does not apply in respect of
-	- **(a)** assets of a segregated fund maintained pursuant to section 451 where all the policies in respect of which the fund is maintained are held by one person or all the amounts in respect of which it is maintained are retained on the direction of one person;
+	- **(a)** assets of a segregated fund maintained pursuant to section 451 if
+		- **(i)** all the policies in respect of which the fund is maintained are held by one person or all the amounts in respect of which it is maintained are retained on the direction of one person, or
+		- **(ii)** the assets of the fund reflect the securities upon which a generally recognized market index is based and the weighting of those securities in that index;
 	- **(b)** the issue by the company of shares of any class when fully paid for in money or when issued
 		- **(i)** in accordance with any provisions for the conversion of other issued and outstanding securities of the company into shares of that class,
 		- **(ii)** as a share dividend,
@@ -11269,18 +11324,18 @@ and shall comply with any regulations in relation to the requirement to maintain
 
 **Exception for holding body corporate**
 
-- **(4)** A holding body corporate of a company is not a related party of the company if the holding body corporate is a Canadian financial institution that is referred to in any of paragraphs (a) to (d) of the definition “financial institution” in subsection 2(1).
+- **(4)** A holding body corporate of a company is not a related party of the company if the holding body corporate is a Canadian financial institution that is referred to in any of paragraphs (a) to (d) of the definition ***financial institution*** in subsection 2(1).
 
 **Substantial investment — related party exception**
 
 - **(5)** Where a holding body corporate of a company is, because of subsection (4), not a related party of the company, any entity in which the holding body corporate has a substantial investment is not a related party of the company if no related party of the company has a substantial investment in the entity otherwise than through the control of the holding body corporate.
-> 1991, c. 47, s. 519, c. 48, s. 495; 1997, c. 15, s. 278; 2001, c. 9, s. 428.
+> 1991, c. 47, s. 519, c. 48, s. 495; 1997, c. 15, s. 278; 2001, c. 9, s. 428; 2007, c. 6, s. 241.
 
 
 
 
 
-**Meaning of “transaction”**
+**Meaning of transaction**
 
 **520** 
 
@@ -11289,15 +11344,21 @@ and shall comply with any regulations in relation to the requirement to maintain
 	- **(b)** making an investment in any securities of the related party;
 	- **(c)** taking an assignment of or otherwise acquiring a loan made by a third party to the related party;
 	- **(d)** taking a security interest in the securities of the related party; and
-	- **(e)** causing the company to be reinsured by the related party against any risk undertaken by the company.
+	- **(e)** causing the company to be reinsured by the related party against any risk undertaken by the company under its policies.
 
 **Interpretation**
 
 - **(2)** For the purposes of this Part, the fulfilment of an obligation under the terms of any transaction, including the payment of interest on a loan or deposit and the making of a payment or an advance under a policy, is part of the transaction, and not a separate transaction.
 
-**Meaning of “loan”**
+**Meaning of loan**
 
 - **(3)** For the purposes of this Part, ***loan*** includes a deposit, a financial lease, a conditional sales contract, a repurchase agreement and any other similar arrangement for obtaining funds or credit, but does not include investments in securities or the making of an acceptance, endorsement or other guarantee.
+
+**Security of a related party**
+
+- **(4)** For the purposes of this Part, ***security*** of a related party includes an option, transferable by delivery, to demand delivery of a specified number or amount of shares of the related party at a fixed price within a specified time.
+> 1991, c. 47, s. 520; 2007, c. 6, s. 242.
+
 
 
 
@@ -11342,11 +11403,19 @@ and shall comply with any regulations in relation to the requirement to maintain
 
 **523** 
 
-- **(1)** A company may, subject to subsection (2) and to Division III of Part VI, cause itself to be reinsured by a related party of the company against any risk undertaken by the company.
+- **(1)** A company may, subject to subsection (2) and to Division III of Part VI, cause itself to be reinsured by a related party of the company against any risk undertaken by the company under its policies.
 
-**Approval necessary**
+**Restriction re related parties**
 
-- **(2)** A company may cause itself to be reinsured by a related party of the company that is not a company or a foreign company only with the approval of the Superintendent.
+- **(2)** Except with the approval of the Superintendent, a company may cause itself to be reinsured in respect of risks undertaken under its policies by a related party of the company only if the related party is
+	- **(a)** a company; or
+	- **(b)** a foreign company that, in Canada, reinsures those risks.
+
+**Exception**
+
+- **(3)** The approval of the Superintendent under subsection (2) is not required if the reinsurance transaction was approved by the Minister or the Superintendent under subsection 254(2) or (2.01).
+> 1991, c. 47, s. 523; 2007, c. 6, s. 243.
+
 
 
 
@@ -11354,6 +11423,8 @@ and shall comply with any regulations in relation to the requirement to maintain
 **Risks of related party**
 
 **524** A company may, subject to Division III of Part VI, reinsure any risks undertaken by a related party of the company.
+> 1991, c. 47, s. 524; 2007, c. 6, s. 244(F).
+
 
 
 
@@ -11413,6 +11484,12 @@ where the liabilities of the company in respect of the policies or the amounts a
 	- **(b)** to a related party of the company,
 if the lease payments are made in money.
 
+**Approval under subsection 254(2) or (2.01)**
+
+- **(6)** A company or society may acquire any assets from, or dispose of any assets to, a related party of the company under a transaction that is approved by the Minister or the Superintendent under subsection 254(2) or (2.01).
+> 1991, c. 47, s. 527; 2007, c. 6, s. 245.
+
+
 
 
 
@@ -11433,14 +11510,14 @@ if the lease payments are made in money.
 
 - **(2)** Where a company has entered into a contract pursuant to paragraph (1)(a) and the contract, when taken together with all other such contracts entered into by the company, results in all or substantially all of the management functions of the company being exercised by persons who are not employees of the company, the Superintendent may, by order, if the Superintendent considers that result to be inappropriate, require the company, within such time as may be specified in the order, to take all steps necessary to ensure that management functions that are integral to the carrying on of business by the company are exercised by employees of the company to the extent specified in the order.
 
-**Service corporations**
+**Exception**
 
-- **(3)** Notwithstanding subsection 521(2), a company is deemed not to have indirectly entered into a transaction in respect of which this Part applies if the transaction is entered into by a service corporation, as defined in subsection 490(1), that is controlled by the company and the transaction is on terms and conditions at least as favourable to the company as market terms and conditions, as defined in subsection 534(2).
+- **(3)** Despite subsection 521(2), a company is deemed not to have indirectly entered into a transaction in respect of which this Part applies if the transaction is entered into by an entity that is controlled by the company and the business of which is limited to the activity referred to in paragraph 495(2)(c) and the transaction is on terms and conditions at least as favourable to the company as market terms and conditions, as defined in subsection 534(2).
 
 **Services**
 
 - **(4)** The provision of services, for the purposes of paragraph (1)(b), does not include the making of loans or guarantees.
-> 1991, c. 47, s. 528; 1997, c. 15, s. 279.
+> 1991, c. 47, s. 528; 1997, c. 15, s. 279; 2007, c. 6, s. 246.
 
 
 
@@ -11494,7 +11571,7 @@ A + B > C
 ```
 where
 - **A** is the value of the assets;
-- **B** is the total value of all assets that the company directly or indirectly acquired from, or directly or indirectly transferred to, that related party in the twelve months ending immediately before the acquisition or transfer; and
+- **B** is the total value of all assets that the company directly or indirectly acquired from, or directly or indirectly transferred to, that related party in the 12 months ending immediately before the acquisition or transfer, other than assets acquired by or transferred to the company under transactions permitted by section 522; and
 - **C** is five per cent, or the percentage that may be prescribed, of the total value of the assets of the company, as shown in the last annual statement of the company prepared before the acquisition or transfer.
 
 **Exception**
@@ -11503,8 +11580,8 @@ where
 
 **Exception**
 
-- **(3)** The approval of the Superintendent is not required if
-	- **(a)** the company sells assets under a sale agreement that is approved by the Minister under subsection 254(2); or
+- **(3)** The approval of the Superintendent under this section is not required if
+	- **(a)** the company acquires or transfers assets under a transaction that is approved by the Minister or the Superintendent under subsection 254(2) or (2.01);
 	- **(b)** the company or its subsidiary acquires shares of, or ownership interests in, an entity for which the approval of the Minister under Part VII or subsection 495(7) is required or the approval of the Superintendent under subsection 495(8) is required.
 
 **Value of assets**
@@ -11520,7 +11597,7 @@ where
 **Total value of all assets**
 
 - **(6)** For the purposes of subsection (1), the total value of all assets that the company or any of its subsidiaries has transferred during the period of twelve months referred to in subsection (1) is the book value of the assets as stated in the last annual statement of the company prepared before the transfer or, if the assets are shares of, or ownership interests in, an entity the assets of which were included in the last annual statement of the company before the transfer, the value of the assets of the entity as stated in the annual statement.
-> 2001, c. 9, s. 429.
+> 2001, c. 9, s. 429; 2007, c. 6, s. 247.
 
 
 
@@ -11839,7 +11916,7 @@ would exceed 50 per cent of the regulatory capital of the company.
 
 **Transfers from segregated funds**
 
-- **(4)** A society may, with the approval of the Superintendent, return the current value of an amount transferred under subsection (3) to the account from which the amount was transferred.
+- **(4)** A society may return the current value of an amount transferred under subsection (3) to the account from which the amount was transferred.
 
 **Claims against segregated funds**
 
@@ -11852,7 +11929,7 @@ would exceed 50 per cent of the regulatory capital of the company.
 **Where fund cannot satisfy claim**
 
 - **(7)** To the extent that the assets of the fund are insufficient to satisfy the liability of a society under a policy or for an amount in respect of which a segregated fund is maintained under subsection (2), that liability gives rise to a claim against the assets of the society, other than the assets of that fund, and that claim has the priority referred to in subsection 161(2) of the [Winding-up and Restructuring Act](/en/Acts/Revised%20Statutes%20of%20Canada/W/W-11.md).
-> 1997, c. 15, s. 285.
+> 1997, c. 15, s. 285; 2007, c. 6, s. 248.
 
 
 
@@ -11862,21 +11939,21 @@ would exceed 50 per cent of the regulatory capital of the company.
 
 **542.04** 
 
-- **(1)** The Governor in Council may make regulations limiting the extent to which a society may cause itself to be reinsured against risks undertaken by it.
+- **(1)** The Governor in Council may make regulations limiting the extent to which a society may cause itself to be reinsured against risks undertaken under its policies.
 
 **Regulation may delegate to Superintendent**
 
 - **(2)** A regulation made under subsection (1) may provide that the Superintendent may, by order, determine the matters or exercise the discretion that the regulation specifies.
-> 1997, c. 15, s. 285.
+> 1997, c. 15, s. 285; 2007, c. 6, s. 249.
 
 
 
 
 
-**Annuities restriction**
+**Restriction on issuance of annuities and endowment insurance**
 
-**542.05** A society may issue annuities in Canada only if it is authorized to insure risks within the class of life insurance.
-> 1997, c. 15, s. 285.
+**542.05** A society may issue annuities or policies of endowment insurance only if it is authorized to insure risks within the class of life insurance.
+> 1997, c. 15, s. 285; 2007, c. 6, s. 250.
 
 
 
@@ -11886,7 +11963,7 @@ would exceed 50 per cent of the regulatory capital of the company.
 
 **542.06** 
 
-- **(1)** A society shall not make a loan in Canada on the security of residential property in Canada for the purpose of purchasing, renovating or improving the property, if the amount of the loan, together with the amount then outstanding of any mortgage having an equal or prior claim against the property, would exceed seventy-five per cent of the value of the property at the time of the loan.
+- **(1)** A society shall not make a loan in Canada on the security of residential property in Canada for the purpose of purchasing, renovating or improving the property, if the amount of the loan, together with the amount then outstanding of any mortgage having an equal or prior claim against the property, would exceed 80 per cent of the value of the property at the time of the loan.
 
 **Exception**
 
@@ -11897,7 +11974,7 @@ would exceed 50 per cent of the regulatory capital of the company.
 	- **(d)** a loan secured by a mortgage where
 		- **(i)** the mortgage is taken back by the society on a property disposed of by the society, including where the disposition is by way of the realization of a security interest, and
 		- **(ii)** the mortgage secures payment of an amount payable to the society for the property.
-> 1997, c. 15, s. 285.
+> 1997, c. 15, s. 285; 2007, c. 6, s. 251.
 
 
 
@@ -12191,7 +12268,15 @@ the society shall forthwith provide the Superintendent with such information as 
 **Exception: uncontrolled event**
 
 - **(4)** A society is deemed not to contravene subsection (1) if the society acquires control of, or acquires or increases a substantial investment in, an entity solely as the result of an event not within the control of the society.
-> 1991, c. 47, s. 552; 1997, c. 15, s. 290; 1999, c. 31, s. 144; 2001, c. 9, s. 437.
+
+**Application of other provision**
+
+- **(5)** Despite having acquired control of, or a substantial investment in, an entity under a particular provision of this Part, a society may continue to control the entity or hold the substantial investment in the entity as though it had made the acquisition under another provision of this Part so long as the conditions of that other provision are met.
+
+**Timing of deemed acquisition**
+
+- **(6)** If a society decides to exercise its right under subsection (5), the society is deemed to be acquiring the control or the substantial investment under the other provision.
+> 1991, c. 47, s. 552; 1997, c. 15, s. 290; 1999, c. 31, s. 144; 2001, c. 9, s. 437; 2007, c. 6, s. 252.
 
 
 
@@ -12236,7 +12321,7 @@ the society shall forthwith provide the Superintendent with such information as 
 	- **(d)** engaging in any activity that a society is permitted to engage in, other than an activity referred to in paragraph (a) or (e), that relates to
 		- **(i)** the promotion, sale, delivery or distribution of a financial product or financial service that is provided by the society or any member of the society’s group, or
 		- **(ii)** if a significant portion of the business of the entity involves an activity referred to in subparagraph (i), the promotion, sale, delivery or distribution of a financial product or financial service that is provided by any other entity that is primarily engaged in the business of providing financial services;
-	- **(e)** engaging in the activities referred to in the definition “mutual fund entity” or “mutual fund distribution entity” in subsection 490(1); and
+	- **(e)** engaging in the activities referred to in the definition ***closed-end fund***, ***mutual fund distribution entity*** or ***mutual fund entity*** in subsection 490(1); and
 	- **(f)** engaging in prescribed activities, under prescribed terms and conditions, if any are prescribed.
 
 **Restriction**
@@ -12250,6 +12335,16 @@ the society shall forthwith provide the Superintendent with such information as 
 		- **(i)** in the case of an entity that is controlled by the society, the society itself would be permitted under this Part to acquire a substantial investment in the other entity, or
 		- **(ii)** in the case of an entity that is not controlled by the society, the society itself would be permitted to acquire a substantial investment in the other entity under subsection (1) or (2) or 552(2) or paragraph 552(3)(b) or (c); or
 	- **(e)** any prescribed activity.
+
+**Exception**
+
+- **(3.1)** Despite paragraph (3)(a), a society may acquire control of, or acquire or increase a substantial investment in, any entity that acts as a trustee of a trust if the entity has been authorized under the laws of a province to act as a trustee of a trust and the entity is
+	- **(a)** a closed-end fund;
+	- **(b)** a mutual fund entity; or
+	- **(c)** an entity whose business is limited to engaging in one or more of the following:
+		- **(i)** the activities of a mutual fund distribution entity,
+		- **(ii)** any activity that a company is permitted to engage in under subsection 441(1.1), and
+		- **(iii)** the provision of investment counselling services and portfolio management services.
 
 **Control**
 
@@ -12280,7 +12375,7 @@ the society shall forthwith provide the Superintendent with such information as 
 - **(9)** The Governor in Council may make regulations
 	- **(a)** for the purposes of subsection (4), permitting the acquisition of control or the acquisition or increase of substantial investments, or prescribing the circumstances under which that subsection does not apply or the societies or other entities in respect of which that subsection does not apply, including prescribing societies or other entities on the basis of the activities they engage in; and
 	- **(b)** for the purposes of subsection (5), permitting the acquisition of control or the acquisition or increase of substantial investments, or prescribing the circumstances under which that subsection does not apply or the societies or other entities in respect of which that subsection does not apply, including prescribing societies or other entities on the basis of the activities they engage in.
-> 1991, c. 47, s. 554; 1997, c. 15, s. 291; 2001, c. 9, s. 437.
+> 1991, c. 47, s. 554; 1997, c. 15, s. 291; 2001, c. 9, s. 437; 2007, c. 6, ss. 253, 336(F).
 
 
 
@@ -12340,10 +12435,10 @@ the society shall forthwith provide the Superintendent with such information as 
 
 **Temporary investment**
 
-- **(4)** If a society, by way of temporary investment, acquires control of, or acquires or increases a substantial investment in, an entity for which the approval of the Minister under subsection 554(5) is required, the society must, within 90 days after acquiring control or after acquiring or increasing the substantial investment,
+- **(4)** If a society, by way of temporary investment, acquires control of, or acquires or increases a substantial investment in, an entity for which the approval of the Minister would have been required under subsection 554(5) if the society had acquired the control, or acquired or increased the substantial investment, under section 554, the society must, within 90 days after acquiring control or after acquiring or increasing the substantial investment,
 	- **(a)** apply to the Minister for approval to retain control of the entity or to continue to hold the substantial investment in the entity for a period specified by the Minister or for an indeterminate period on any terms and conditions that the Minister considers appropriate; or
 	- **(b)** do all things necessary to ensure that, on the expiry of the 90 days, it no longer controls the entity or does not have a substantial investment in the entity.
-> 1991, c. 47, s. 557; 2001, c. 9, s. 437.
+> 1991, c. 47, s. 557; 2001, c. 9, s. 437; 2007, c. 6, s. 254.
 
 
 
@@ -12578,23 +12673,27 @@ where
 - **B** is the total value of all assets that the society and its subsidiaries acquired from or transferred to that person in the twelve months ending immediately before the acquisition or transfer; and
 - **C** is ten per cent of the total value of the assets of the society, as shown in the last annual statement of the society prepared before the acquisition or transfer.
 
+**Approval of series of transactions**
+
+- **(1.1)** The Superintendent may, for the purposes of subsection (1), approve a transaction or series of transactions relating to the acquisition or transfer of assets that may be entered into with a person, or with persons of any class of persons, regardless of whether those persons are known at the time of the granting of the approval or not.
+
 **Exception**
 
-- **(2)** The prohibition in subsection (1) does not apply in respect of
+- **(2)** Subsection (1) does not apply in respect of
 	- **(a)** an asset that is a debt obligation referred to in subparagraphs (b)(i) to (v) of the definition “commercial loan” in subsection 490(1); or
 	- **(b)** a transaction or series of transactions by a society with another financial institution as a result of the society’s participation in one or more syndicated loans with that financial institution.
 
 **Exception**
 
-- **(3)** The approval of the Superintendent is not required if
-	- **(a)** the society sells assets under a sale agreement that is approved by the Minister under subsection 254(2); or
+- **(3)** The approval of the Superintendent under this section is not required if
+	- **(a)** the society sells or transfers assets under a transaction that is approved by the Minister or the Superintendent under subsection 254(2) or (2.01);
 	- **(b)** the society or its subsidiary acquires shares of, or ownership interests in, an entity for which the approval of the Minister under Part VII or subsection 554(5) is required.
 
 **Value of assets**
 
 - **(4)** For the purposes of “A” in subsection (1), the value of the assets is
 	- **(a)** in the case of assets that are acquired, the purchase price of the assets or, if the assets are shares of, or ownership interests in, an entity the assets of which will be included in the annual statement of the society after the acquisition, the fair market value of the assets; and
-	- **(b)** in the case of assets that are transferred, the book value of the assets as stated in the last annual statement of the society prepared before the transfer or, if the assets are shares of, or ownership interests in, an entity the assets of which were included in the last annual statement of the society before the transfer, the value of the assets as stated in the annual statement.
+	- **(b)** in the case of assets that are transferred, the value of the assets as reported in the last annual statement of the society prepared before the transfer or, if the value of the assets is not reported in that annual statement, the value of the assets as it would be reported in the annual statement of the society if the annual statement had been prepared, in accordance with the accounting principles referred to in subsection 331(4), immediately before the transfer.
 
 **Total value of all assets**
 
@@ -12602,8 +12701,8 @@ where
 
 **Total value of all assets**
 
-- **(6)** For the purposes of subsection (1), the total value of all assets that the society or any of its subsidiaries has transferred during the period of twelve months referred to in subsection (1) is the book value of the assets as stated in the last annual statement of the society prepared before the transfer or, if the assets are shares of, or ownership interests in, an entity the assets of which were included in the last annual statement of the society before the transfer, the value of the assets of the entity as stated in the annual statement.
-> 1991, c. 47, s. 569; 2001, c. 9, s. 440.
+- **(6)** For the purposes of subsection (1), the total value of all assets that the society or any of its subsidiaries has transferred during the 12-month period referred to in subsection (1) is the total of the value of each of those assets as reported in the last annual statement of the society prepared before the transfer of the asset or, if the value of any of those assets is not reported in that annual statement, as it would be reported in the annual statement of the society if the annual statement had been prepared, in accordance with the accounting principles referred to in subsection 331(4), immediately before the transfer of the asset.
+> 1991, c. 47, s. 569; 2001, c. 9, s. 440; 2007, c. 6, s. 255.
 
 
 
@@ -13159,22 +13258,26 @@ made before the coming into force of this Part but, if the loan or investment wo
 
 **571** In this Part,
 
-***association*** means an association of persons formed in a foreign country on the plan known as Lloyd’s, whereby each member of the association participating in a policy becomes liable for a stated, limited or proportionate part of the whole amount payable under the policy;
+***association*** means an association of persons formed in a foreign country on the plan known as Lloyd’s, whereby each member of the association participating in a policy becomes liable for a stated, limited or proportionate part of the whole amount payable under the policy; (*association*)
 
-***chief agency*** means the principal office of a foreign company in Canada;
+***chief agency*** means the principal office of a foreign company in Canada; (*agence principale*)
 
-***chief agent***, in respect of a foreign company, means the natural person appointed pursuant to subsection 579(3) and named as such in the power of attorney referred to in paragraph 579(1)(b);
+***chief agent***, in respect of a foreign company, means the natural person appointed pursuant to subsection 579(3) and named as such in the power of attorney referred to in paragraph 579(1)(b); (*agent principal*)
 
-***exchange*** means a group of persons formed in a foreign country for the purpose of exchanging reciprocal contracts of indemnity or inter-insurance with each other through the same attorney, where the principal office of the exchange is in a foreign country;
+***exchange*** means a group of persons formed in a foreign country for the purpose of exchanging reciprocal contracts of indemnity or inter-insurance with each other through the same attorney, where the principal office of the exchange is in a foreign country; (*groupe d’échange*)
 
-***foreign fraternal benefit society*** means a fraternal benefit society incorporated outside Canada;
+***foreign entity*** means an entity incorporated or formed by or under the laws of a country other than Canada, and includes an association and an exchange; (*entité étrangère*)
 
-***foreign life company*** means a foreign company that is authorized by order of the Superintendent to insure risks in Canada that fall within the class of life insurance;
+***foreign fraternal benefit society*** means a fraternal benefit society incorporated outside Canada; (*société de secours étrangère*)
 
-***foreign property and casualty company*** means a foreign company other than a foreign life company;
+***foreign life company*** means a foreign company that is authorized to insure risks that fall within the class of life insurance; (*société d’assurance-vie étrangère*)
+
+***foreign marine company*** means a foreign company that is authorized to solely insure risks within the class of marine insurance; (*société d’assurance maritime étrangère*)
+
+***foreign property and casualty company*** means a foreign company other than a foreign life company or a foreign marine company. (*société d’assurances multirisques étrangère*)
 
 ***fraternal benefit society***[Repealed, 1997, c. 15, s. 299]
-> 1991, c. 47, s. 571; 1996, c. 6, s. 83.1; 1997, c. 15, s. 299.
+> 1991, c. 47, s. 571; 1996, c. 6, s. 83.1; 1997, c. 15, s. 299; 2007, c. 6, s. 256.
 
 
 
@@ -13204,32 +13307,32 @@ made before the coming into force of this Part but, if the loan or investment wo
 
 
 
-### Insurance of Risks in Canada
+### Insurance of Risks
 
 
 
-**Order permitting the insurance of risks in Canada**
+**Restriction on insuring of risks unless authorized**
 
 **573** 
 
-- **(1)** A body corporate incorporated elsewhere than in Canada, including an association and an exchange, shall not in Canada insure a risk unless the Superintendent has, by order, approved the insurance in Canada of risks by the body corporate.
+- **(1)** A foreign entity shall not insure in Canada a risk unless it is authorized by order made under subsection 574(1).
 
 **Restriction to specified classes of insurance**
 
-- **(2)** A foreign company shall not in Canada insure a risk unless the risk falls within a class of insurance that is specified in the order of the Superintendent approving the insuring in Canada of risks by the foreign company.
+- **(2)** A foreign company shall not insure in Canada a risk unless the risk falls within a class of insurance that is specified in the order made under subsection 574(1) in respect of the foreign company.
 
-**Annuities restricted to foreign life companies**
+**Restriction on issuance of annuities or endowment insurance**
 
-- **(3)** Unless authorized to insure in Canada risks falling within the class of life insurance, a foreign company shall not issue annuities in Canada.
+- **(3)** Unless authorized to insure in Canada risks falling within the class of life insurance, a foreign company shall not issue annuities or policies of endowment insurance in Canada.
 
 **Transitional**
 
-- **(4)** A certificate of registry issued to a body corporate incorporated elsewhere than in Canada, including an association and an exchange, under the Foreign Insurance Companies Act or Part VIII of the Canadian and British Insurance Companies Act, or any other authorization, that had not expired or been withdrawn before the coming into force of this Part is deemed to be an order of the Superintendent of indeterminate duration under subsection (1) and the body corporate remains subject to any and all other conditions and limitations contained in the certificate or other authorization.
+- **(4)** A certificate of registry issued to a foreign entity under the Foreign Insurance Companies Act or Part VIII of the Canadian and British Insurance Companies Act, or any other authorization, that had not expired or been withdrawn before June 1, 1992 is deemed to be an order made under subsection 574(1) and the foreign entity remains subject to any and all other conditions and limitations contained in the certificate or other authorization.
 
 **Continuance of certificate limitations**
 
 - **(5)** A class of insurance specified in a certificate of registry or other authorization referred to in subsection (4) is deemed to be specified in an order of the Superintendent approving the insuring in Canada of risks by the foreign company.
-> 1991, c. 47, s. 573; 1997, c. 15, s. 300(F).
+> 1991, c. 47, s. 573; 1997, c. 15, s. 300(F); 2007, c. 6, s. 259.
 
 
 
@@ -13239,14 +13342,12 @@ made before the coming into force of this Part but, if the loan or investment wo
 
 **574** 
 
-- **(1)** On application by a body corporate incorporated elsewhere than in Canada, including an association and an exchange, the Superintendent may, with the approval of the Minister but subject to the other provisions of this Part, make an order approving the insuring in Canada of risks by the body corporate.
+- **(1)** On application by a foreign entity, the Superintendent may, with the approval of the Minister but subject to the other provisions of this Part, make an order approving the insuring in Canada of risks by the foreign entity.
 
 **Reciprocal treatment**
 
-- **(2)** The Minister shall not approve the making of an order under subsection (1) unless the Minister is satisfied that
-	- **(a)** the body corporate will be capable of making a contribution to the financial system in Canada; and
-	- **(b)** if the application is made by a body corporate incorporated elsewhere than in Canada that is not controlled by a WTO Member resident, treatment as favourable for companies to which this Act applies exists or will be provided in the jurisdiction in which the body corporate principally carries on business, either directly or through a subsidiary.
-> 1991, c. 47, s. 574; 1999, c. 28, s. 125.
+- **(2)** If the application is made by a foreign entity that is not controlled by a WTO Member resident, the Minister shall not approve the making of an order under subsection (1) unless the Minister is satisfied that treatment as favourable for companies to which this Act applies exists or will be provided in the jurisdiction in which the foreign entity principally carries on business, either directly or through a subsidiary.
+> 1991, c. 47, s. 574; 1999, c. 28, s. 125; 2007, c. 6, s. 260.
 
 
 
@@ -13256,23 +13357,23 @@ made before the coming into force of this Part but, if the loan or investment wo
 
 **575** 
 
-- **(1)** No order shall be made approving the insuring in Canada of risks by a body corporate where the name under which the body corporate is to insure risks
+- **(1)** An order made under subsection 574(1) may not provide for the use of a name that
 	- **(a)** is prohibited by an Act of Parliament;
 	- **(b)** is, in the opinion of the Superintendent, deceptively misdescriptive;
 	- **(c)** is the same as or, in the opinion of the Superintendent, substantially the same as or confusingly similar to, any existing trade-mark, trade name or corporate name of a body corporate, except where
 		- **(i)** the trade-mark or trade name is being changed or the body corporate is being dissolved or is changing its corporate name, and
-		- **(ii)** consent to the use of the trade-mark, trade name or corporate name is signified to the Superintendent in such manner as the Superintendent may require;
+		- **(ii)** consent to the use of the trade-mark, trade name or corporate name is signified to the Superintendent in any manner that the Superintendent may require;
 	- **(d)** is the same as or, in the opinion of the Superintendent, substantially the same as or confusingly similar to, the known name under or by which any entity carries on business or is identified; or
 	- **(e)** is reserved under section 45 for a company or society or proposed company or society.
 
-**Affiliated company**
+**Affiliated entity**
 
-- **(2)** Notwithstanding subsection (1), an order may be made by the Superintendent approving the insuring in Canada of risks by a body corporate under a name that is the same or substantially the same as that of an entity with which the body corporate is affiliated, within the meaning of subsection 6(2), if that other entity consents to the use of the name.
+- **(2)** Despite subsection (1), an order made under subsection 574(1) may provide for the use of a name that is the same or substantially the same as that of an entity with which the foreign entity is affiliated, within the meaning of subsection 6(2), if that other entity consents to the use of the name.
 
 **Representations to Superintendent**
 
-- **(3)** Before deciding not to make an order referred to in subsection (1) for one of the reasons specified in that subsection, the Superintendent shall, by a notice in writing to that effect, give the body corporate and any other interested party an opportunity to make representations.
-> 1991, c. 47, s. 575; 1996, c. 6, s. 84; 1997, c. 15, s. 301.
+- **(3)** If the Superintendent does not make an order for one of the reasons specified in subsection (1), he or she must, by a notice in writing to that effect, give the foreign entity and any other interested party an opportunity to make representations.
+> 1991, c. 47, s. 575; 1996, c. 6, s. 84; 1997, c. 15, s. 301; 2007, c. 6, s. 260.
 
 
 
@@ -13284,25 +13385,23 @@ made before the coming into force of this Part but, if the loan or investment wo
 
 - **(1)** On the application of a foreign company, the Superintendent may, subject to subsection 575(1), by further order, change the name under which a foreign company insures risks.
 
-**Notice of intention**
-
-- **(2)** Before an application is made to the Superintendent pursuant to subsection (1) to change the name under which a foreign company insures risks, a notice of intention to make the application must be published by the applicant at least once a week for a period of four consecutive weeks in the Canada Gazette and in a newspaper of general circulation at or near the place where the chief agency of the foreign company is situated.
-> 1991, c. 47, s. 576; 1996, c. 6, s. 84.
+- **(2)** [Repealed, 2007, c. 6, s. 261]
+> 1991, c. 47, s. 576; 1996, c. 6, s. 84; 2007, c. 6, s. 261.
 
 
 
 
 
-**Directing change of name**
+**Direction to change of name**
 
 **577** 
 
-- **(1)** If through inadvertence or otherwise a foreign company is permitted to insure risks under a name specified in the order of the Superintendent approving the insuring in Canada of risks by the foreign company that is prohibited by section 575, the Superintendent may, by order, direct the foreign company to change the name under which it insures risks and the foreign company shall comply with that direction.
+- **(1)** If through inadvertence or otherwise a foreign company is permitted by an order made under subsection 574(1) to insure risks under a name that is prohibited by section 575, the Superintendent may direct the foreign company to change the name without delay.
 
 **Revoking name**
 
 - **(2)** Where a foreign company has been directed under subsection (1) to change the name under which it insures risks and has not, within sixty days after the service of the direction, changed that name to a name that is not prohibited by this Part, the Superintendent may revoke the name under which the foreign company insures risks and assign to it a name and, until changed in accordance with subsection 576(1), the name under which the foreign company is to insure risks is thereafter the name so assigned.
-> 1991, c. 47, s. 577; 1996, c. 6, s. 84.
+> 1991, c. 47, s. 577; 1996, c. 6, s. 84; 2007, c. 6, s. 262.
 
 
 
@@ -13329,26 +13428,24 @@ made before the coming into force of this Part but, if the loan or investment wo
 
 **579** 
 
-- **(1)** An application under this Part for an order approving the insuring in Canada of risks by a body corporate must be filed with the Superintendent, together with such information, material and evidence as the Superintendent may require, including
-	- **(a)** documents relating to the constitution of the body corporate, including, in the case of a body corporate that is neither an association nor an exchange, a copy of its incorporating instrument certified by the officer in charge of the original incorporating instrument;
-	- **(b)** a power of attorney to the chief agent of the body corporate in Canada appointed pursuant to subsection (3), in such form as the Superintendent may require;
-	- **(c)** a statement, in such form as the Superintendent may require, of the financial condition of the body corporate and of the business of insurance undertaken by the body corporate, and such additional statements or information as the Superintendent may require as to its solvency and its ability to meet all of its obligations;
-	- **(d)** evidence satisfactory to the Superintendent that the body corporate is authorized under the laws of the country where it is incorporated to insure risks within each class of insurance in Canada that that body corporate has applied to insure;
+- **(1)** An application for an order under subsection 574(1) must be filed with the Superintendent, together with the information, material and evidence that the Superintendent may require, including
+	- **(a)** documents relating to the constitution of the foreign entity;
+	- **(b)** a power of attorney to the chief agent appointed under subsection (3), in the form that the Superintendent may require;
+	- **(c)** a statement, in the form that the Superintendent may require, of the financial condition of the foreign entity and of the business of insurance undertaken by the foreign entity, and any additional statements or information that the Superintendent may require as to its solvency and its ability to meet all of its obligations;
+	- **(d)** evidence satisfactory to the Superintendent that the foreign entity is authorized under the laws of the country where it is incorporated or formed to insure risks within each class of insurance in Canada that that foreign entity has applied to insure;
 	- **(e)** in the case of a foreign fraternal benefit society,
-		- **(i)** a report of an actuary appointed by the foreign fraternal benefit society, in such form as the Superintendent may require, on the results of an actuarial valuation made by the actuary, as of the preceding December 31 or as of any later date specified by the Superintendent, of each of the benefit funds maintained by the foreign fraternal benefit society, having regard to the prospective liabilities of and contributions to each fund, and
+		- **(i)** a report of an actuary appointed by the foreign fraternal benefit society, in the form that the Superintendent may require, on the results of an actuarial valuation made by the actuary, as of the preceding December 31 or as of any later date specified by the Superintendent, of each of the benefit funds maintained by the foreign fraternal benefit society, having regard to the prospective liabilities of and contributions to each fund, and
 		- **(ii)** the opinion of the actuary that the assets of the foreign fraternal benefit society applicable to each fund, taken at the value accepted by the Superintendent, together with the premiums, dues and other contributions to be received after the date of the valuation from the members according to the scale in force at the date of the valuation, are sufficient to provide for the payment at maturity of all of the obligations of the fund without deduction or abatement; and
-	- **(f)** a copy of the resolution respecting the investment and lending policies, standards and procedures that the body corporate is to establish and adhere to in accordance with subsection 615(1).
+	- **(f)** a copy of the resolution respecting the investment and lending policies, standards and procedures that the foreign entity is to establish and adhere to in accordance with subsection 615(1).
 
 **Contents of power of attorney**
 
-- **(2)** A power of attorney referred to in paragraph (1)(b) must
-	- **(a)** contain the address of the chief agency of the body corporate; and
-	- **(b)** expressly authorize the chief agent to receive all notices under the laws of Canada from the Minister or the Superintendent.
+- **(2)** A power of attorney referred to in paragraph (1)(b) must expressly authorize the chief agent to receive all notices under the laws of Canada from the Minister or the Superintendent.
 
 **Appointment of chief agent**
 
 - **(3)** A foreign company shall appoint a natural person who is ordinarily resident in Canada to be its chief agent for the purposes of this Part.
-> 1991, c. 47, s. 579; 1997, c. 15, s. 302.
+> 1991, c. 47, s. 579; 1997, c. 15, s. 302; 2007, c. 6, s. 264.
 
 
 
@@ -13356,7 +13453,9 @@ made before the coming into force of this Part but, if the loan or investment wo
 
 **Publishing notice of intention**
 
-**580** Before filing an application referred to in subsection 579(1), the body corporate shall, at least once a week for a period of four consecutive weeks, publish, in a form satisfactory to the Superintendent, a notice of intention to make the application in the Canada Gazette and in a newspaper in general circulation at or near the place where the chief agency in Canada of the body corporate is to be situated.
+**580** Before filing an application referred to in subsection 579(1), a foreign entity must, at least once a week for four consecutive weeks, publish, in a form satisfactory to the Superintendent, a notice of intention to make the application in the Canada Gazette and in a newspaper in general circulation at or near the place where its chief agency is to be situated if it is granted an order under subsection 574(1).
+> 1991, c. 47, s. 580; 2007, c. 6, s. 265.
+
 
 
 
@@ -13365,24 +13464,15 @@ made before the coming into force of this Part but, if the loan or investment wo
 
 **581** 
 
-- **(1)** The Superintendent shall not make an order under this Part approving the insuring of risks by a body corporate until it has been shown to the satisfaction of the Superintendent that the body corporate has
-	- **(a)** vested in trust assets having a prescribed value,
-	- **(b)** appointed an actuary pursuant to section 623 and an auditor pursuant to section 633 for its insurance business in Canada, and
-	- **(c)** established the province in which its chief agency will be situated,
-and that all other relevant requirements of this Act have been complied with.
+- **(1)** The Superintendent shall not make an order under subsection 574(1) in respect of a foreign entity until it has been shown to the satisfaction of the Superintendent that all relevant requirements of this Act have been complied with and that the foreign entity has
+	- **(a)** vested in trust assets having a prescribed value;
+	- **(b)** appointed an actuary under section 623 and an auditor under section 633; and
+	- **(c)** established its chief agency.
 
 **Conditions of order**
 
-- **(2)** An order approving the insuring in Canada of risks by a foreign company may contain such conditions and limitations that are consistent with this Act and relate to the insurance business in Canada of the foreign company as the Superintendent deems expedient.
-
-**Transitional**
-
-- **(3)** A foreign company that deposited securities with the Receiver General pursuant to section 7 or 25 of the Foreign Insurance Companies Act or section 196 or 219 of the Canadian and British Insurance Companies Act shall apply for the return of those securities within such period following the coming into force of this section as may be fixed by order of the Governor in Council.
-
-**Assets in Canada**
-
-- **(4)** The securities referred to in subsection (3) are, until returned to the foreign company that deposited them, deemed to form part of the assets in Canada of that foreign company.
-> 1991, c. 47, s. 581; 2005, c. 54, s. 299.
+- **(2)** The order may contain any conditions or limitations that are consistent with this Act and that the Superintendent considers appropriate.
+> 1991, c. 47, s. 581; 2005, c. 54, s. 299; 2007, c. 6, s. 265.
 
 
 
@@ -13392,22 +13482,26 @@ and that all other relevant requirements of this Act have been complied with.
 
 **582** 
 
-- **(1)** The assets of a body corporate to be vested in trust pursuant to paragraph 581(1)(a) are to consist of unencumbered securities of or guaranteed by Canada or a province.
+- **(1)** The assets of a foreign entity to be vested in trust are to consist of unencumbered securities of or guaranteed by Canada or a province.
 
 **Other permissible securities**
 
-- **(2)** The assets of a body corporate to be so vested in trust may also consist of other securities at the accepted value and on the conditions established by the Superintendent.
+- **(2)** The assets of a foreign entity to be vested in trust may also consist of other securities at the accepted value and on the conditions established by the Superintendent.
+> 1991, c. 47, s. 582; 2007, c. 6, s. 266(E).
+
 
 
 
 
 **Contents of order**
 
-**583** There shall be set out in an order approving the insuring in Canada of risks by a foreign company
-- **(a)** the name under which the foreign company is to insure risks;
+**583** An order made under subsection 574(1) in respect of a foreign company must set out
+- **(a)** the name of the foreign company and, if different, the name under which it is authorized to insure risks;
 - **(b)** the day on which the order becomes effective;
 - **(c)** the classes of insurance risks that the foreign company is authorized to insure; and
-- **(d)** the conditions or limitations that are consistent with this Act, relate to the insurance business in Canada of the foreign company and are deemed expedient by the Superintendent.
+- **(d)** the conditions or limitations that are consistent with this Act that are considered appropriate by the Superintendent.
+> 1991, c. 47, s. 583; 2007, c. 6, s. 267.
+
 
 
 
@@ -13416,23 +13510,25 @@ and that all other relevant requirements of this Act have been complied with.
 
 **584** 
 
-- **(1)** On the making of an order approving the insuring in Canada of risks by a foreign company, the foreign company shall publish a notice of the making of the order in a newspaper in general circulation at or near the place where the chief agency of the foreign company is located.
+- **(1)** On the making of an order under subsection 574(1) in respect of a foreign company, the foreign company must publish a notice of the making of the order in a newspaper in general circulation at or near the place where its chief agency is located.
 
 **Notice in Canada Gazette**
 
 - **(2)** The Superintendent shall cause to be published in the Canada Gazette a notice of the making of the order referred to in subsection (1).
+> 1991, c. 47, s. 584; 2007, c. 6, s. 268.
+
 
 
 
 
 **Publication of list**
 
-**585** The Superintendent shall cause to be published quarterly in the Canada Gazette a list of
+**585** Unless the regulations provide otherwise, the Superintendent shall cause to be published quarterly in the Canada Gazette a list of
 - **(a)** foreign companies;
 - **(b)** the classes of insurance specified in the orders of the Superintendent approving the insurance of risks by them;
 - **(c)** their chief agents; and
 - **(d)** the province in which their chief agencies are situated.
-> 1991, c. 47, s. 585; 2005, c. 54, s. 300.
+> 1991, c. 47, s. 585; 2005, c. 54, s. 300; 2007, c. 6, s. 269.
 
 
 
@@ -13442,14 +13538,17 @@ and that all other relevant requirements of this Act have been complied with.
 
 **586** 
 
-- **(1)** In respect of an order approving the insuring in Canada of risks by a foreign company, the Superintendent may at any time, by further order,
-	- **(a)** specify additional classes of insurance risks that the foreign company is authorized to insure,
-	- **(b)** make the order subject to conditions or limitations that are consistent with this Act, relate to the insurance business in Canada of the foreign company and are deemed expedient by the Superintendent, or
-	- **(c)** amend or revoke any authorization contained in the order or any condition or limitation to which the order is subject,
-but before making any such further order the Superintendent shall give the foreign company an opportunity to make representations regarding that further order.
+- **(1)** In respect of an order made under subsection 574(1) in respect of a foreign company, the Superintendent may at any time, by further order,
+	- **(a)** specify additional classes of insurance risks that the foreign company is authorized to insure;
+	- **(b)** make the order subject to conditions or limitations that are consistent with this Act and that are considered appropriate by the Superintendent; or
+	- **(c)** amend or revoke any authorization contained in the order or any condition or limitation to which the order is subject.
 
-- **(2) to (6)** [Repealed, 1996, c. 6, s. 85]
-> 1991, c. 47, s. 586; 1996, c. 6, s. 85.
+**Representations**
+
+- **(2)** Before making any such further order, the Superintendent must give the foreign company an opportunity to make representations regarding that further order.
+
+- **(3) to (6)** [Repealed, 1996, c. 6, s. 85]
+> 1991, c. 47, s. 586; 1996, c. 6, s. 85; 2007, c. 6, s. 270.
 
 
 
@@ -13523,19 +13622,21 @@ but before making any such further order the Superintendent shall give the forei
 
 **588** 
 
-- **(1)** A foreign company may reinsure, but shall not otherwise insure, a risk falling within a class of insurance specified in the order of the Superintendent approving the insuring of risks by the foreign company if the order limits the foreign company to the reinsurance of those risks.
+- **(1)** A foreign company may reinsure, but shall not otherwise insure, a risk falling within a class of insurance specified in the order made under subsection 574(1) in respect of the foreign company if the order limits the foreign company to the reinsurance of those risks.
 
 **Continuation of certificate conditions**
 
-- **(2)** A condition that limits a foreign company to the reinsurance of risks falling within a class of insurance and that is contained in a certificate of registry issued under the Foreign Insurance Companies Act or under Part VIII of the Canadian and British Insurance Companies Act, or in any other authorization, that had not expired or been withdrawn before the coming into force of this Part is deemed to be a condition in an order of the Superintendent approving the insurance of risks by the foreign company.
+- **(2)** A condition that limits a foreign company to the reinsurance of risks falling within a class of insurance and that is contained in a certificate of registry issued under the Foreign Insurance Companies Act or under Part VIII of the Canadian and British Insurance Companies Act, or in any other authorization, that had not expired or been withdrawn before June 1, 1992 is deemed to be a condition in an order made under subsection 574(1) in respect of the foreign company.
+> 1991, c. 47, s. 588; 2007, c. 6, s. 272.
+
 
 
 
 
 **No new foreign composite companies**
 
-**589** The Superintendent may not make or vary an order approving the insuring in Canada of risks by a foreign company if the foreign company would as a result be permitted to insure both risks falling within the class of life insurance and risks falling within any other class of insurance other than accident and sickness insurance, accident insurance, personal accident insurance, sickness insurance and loss of employment insurance.
-> 1991, c. 47, s. 589; 1997, c. 15, s. 304.
+**589** The Superintendent may not make or vary an order made under subsection 574(1) in respect of a foreign company if the foreign company would as a result be permitted to insure both risks falling within the class of life insurance and risks falling within any other class of insurance other than accident and sickness insurance, credit protection insurance and other approved products insurance.
+> 1991, c. 47, s. 589; 1997, c. 15, s. 304; 2007, c. 6, s. 272.
 
 
 
@@ -13545,11 +13646,13 @@ but before making any such further order the Superintendent shall give the forei
 
 **590** 
 
-- **(1)** Notwithstanding section 589, subsections 573(4) and 588(2) permit a foreign company to which was issued under the Foreign Insurance Companies Act or Part VIII of the Canadian and British Insurance Companies Act a certificate of registry or other authorization specifying both risks in Canada falling within the class of life insurance and risks in Canada falling within some other class of insurance, other than accident and sickness insurance, accident insurance, personal accident insurance and sickness insurance, to insure those risks.
+- **(1)** Despite section 589, subsections 573(4) and 588(2) permit a foreign company to which was issued under the Foreign Insurance Companies Act or Part VIII of the Canadian and British Insurance Companies Act a certificate of registry or other authorization specifying both risks falling within the class of life insurance and risks falling within some other class of insurance, other than accident and sickness insurance, accident insurance, personal accident insurance and sickness insurance, to insure those risks.
 
 **Separate accounts for life insurance**
 
 - **(2)** A foreign company referred to in subsection (1) shall maintain an account and funds in respect of the insurance of risks falling within the classes of life insurance and accident and sickness insurance, accident insurance, personal accident insurance and sickness insurance separately from those maintained in respect of the insurance of risks falling within any other class of insurance.
+> 1991, c. 47, s. 590; 2007, c. 6, s. 273.
+
 
 
 
@@ -13558,7 +13661,7 @@ but before making any such further order the Superintendent shall give the forei
 
 **591** 
 
-- **(1)** Every foreign company that has outstanding policies in Canada of a class of insurance shall become and remain a member of any compensation association designated by order of the Minister for that class of insurance.
+- **(1)** Every foreign company that is insuring risks that fall within a class of insurance shall become and remain a member of any compensation association designated by order of the Minister for that class of insurance.
 
 **Designation limitation**
 
@@ -13569,9 +13672,9 @@ but before making any such further order the Superintendent shall give the forei
 - **(2)** Subsection (1) does not apply
 	- **(a)** to a foreign company that may reinsure but may not otherwise insure risks;
 	- **(b)** in respect of a class of insurance that, in the opinion of the Minister, is adequately covered by some other compensation plan for that class of insurance;
-	- **(c)** in respect of the insuring in Canada of risks falling within the class of fire insurance by a foreign company that is a member of the Fire Mutuals Guarantee Fund; or
-	- **(d)** to a foreign company that is a foreign fraternal benefit society or a reciprocal or inter-insurance exchange.
-> 1991, c. 47, s. 591; 1996, c. 6, s. 86; 1997, c. 15, s. 305.
+	- **(c)** in respect of the insuring in Canada of risks against the loss of, or damage to, property caused by fire, by lightning, by an explosion due to ignition, by smoke or by breakage of or leakage from a sprinkler, from other fire protection equipment or from another fire protection system by a foreign company that is a member of the Fire Mutuals Guarantee Fund; or
+	- **(d)** to a foreign company that is a foreign fraternal benefit society or an exchange.
+> 1991, c. 47, s. 591; 1996, c. 6, s. 86; 1997, c. 15, s. 305; 2007, c. 6, s. 274.
 
 
 
@@ -13629,11 +13732,13 @@ but
 
 **596** 
 
-- **(1)** The Governor in Council may, in respect of policies in Canada of a foreign company, make regulations limiting the extent to which the foreign company may cause itself to be reinsured against risks in Canada undertaken by it.
+- **(1)** The Governor in Council may make regulations limiting the extent to which foreign companies may cause themselves to be reinsured against risks undertaken under their policies.
 
 **Regulation may provide for discretion**
 
 - **(2)** A regulation made pursuant to subsection (1) may provide that the Superintendent may, by order, determine the matters or exercise the discretion that the regulation may specify.
+> 1991, c. 47, s. 596; 2007, c. 6, s. 277.
+
 
 
 
@@ -13769,7 +13874,9 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 
 **Disclosing borrowing costs — advances**
 
-**602** Where regulations have been made respecting the manner in which the cost of borrowing is to be disclosed in respect of an advance on the security or against the cash surrender value of a policy in Canada, a foreign company shall not make such an advance unless the cost of borrowing, as calculated and expressed in accordance with the regulations, has, in the prescribed manner, been disclosed by the foreign company or otherwise as prescribed to the policyholder at or before the time when the advance is made.
+**602** If regulations have been made respecting the manner in which the cost of borrowing is to be disclosed in respect of an advance on the security or against the cash surrender value of a policy, a foreign company shall not make such an advance unless the cost of borrowing, as calculated and expressed in accordance with the regulations, has, in the prescribed manner, been disclosed by the foreign company or otherwise as prescribed to the policyholder at or before the time when the advance is made.
+> 1991, c. 47, s. 602; 2007, c. 6, s. 279.
+
 
 
 
@@ -13808,14 +13915,24 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 **604** 
 
 - **(1)** A foreign company shall
-	- **(a)** establish procedures for dealing with complaints made by persons in Canada having requested or received products or services in Canada from the foreign company;
-	- **(b)** designate an officer or employee of the foreign company to be responsible for implementing those procedures; and
-	- **(c)** designate one or more officers or employees of the foreign company to receive and deal with those complaints.
+	- **(a)** establish procedures for dealing with complaints made by persons having requested or received products or services in Canada from the foreign company;
+	- **(b)** designate one of its officers or employees in Canada, or an agent in Canada, to be responsible for implementing those procedures; and
+	- **(c)** designate one or more of its officers or employees in Canada, or agents in Canada, to receive and deal with those complaints.
 
 **Procedures to be filed with Commissioner**
 
 - **(2)** A foreign company shall file with the Commissioner a copy of its procedures established under paragraph (1)(a).
-> 1991, c. 47, s. 604; 1997, c. 15, s. 311; 2001, c. 9, s. 444.
+
+**How procedures to be made available**
+
+- **(3)** A foreign company shall make its procedures established under paragraph (1)(a) available
+	- **(a)** on its websites through which products or services are offered in Canada; and
+	- **(b)** in written format to be sent to any person who requests them.
+
+**Information on contacting Agency**
+
+- **(4)** A foreign company shall also make prescribed information on how to contact the Agency available whenever it makes its procedures established under paragraph (1)(a) available under subsection (3).
+> 1991, c. 47, s. 604; 1997, c. 15, s. 311; 2001, c. 9, s. 444; 2007, c. 6, s. 280.
 
 
 
@@ -13823,8 +13940,8 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 
 **Obligation to be member of complaints body**
 
-**604.1** In any province, if there is no law of the province that makes a foreign company subject to the jurisdiction of an organization that deals with complaints made by persons having requested or received products or services in the province from a foreign company, the foreign company shall be a member of an organization that is not controlled by it and that deals with those complaints that have not been resolved to the satisfaction of the persons under procedures established by foreign companies under paragraph 604(1)(a).
-> 2001, c. 9, s. 444.
+**604.1** In any province, if there is no law of the province that makes a foreign company subject to the jurisdiction of an organization that deals with complaints made by persons having requested or received products or services in the province from a foreign company, the foreign company shall be a member of an organization in Canada that is not controlled by it and that deals with those complaints that have not been resolved to the satisfaction of the persons under procedures established under paragraph 604(1)(a).
+> 2001, c. 9, s. 444; 2007, c. 6, s. 281.
 
 
 
@@ -13834,14 +13951,14 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 
 **605** 
 
-- **(1)** A foreign company shall, in the prescribed manner, provide a person in Canada requesting or receiving a product or service in Canada from it with prescribed information on how to contact the Agency if the person has a complaint about an arrangement referred to in subsection 601(3), a payment, credit or charge card referred to in subsection 601(2), the disclosure of or manner of calculating the cost of borrowing in respect of a loan repayable in Canada or an advance on the security or against the cash surrender value of a policy in Canada, or about any other obligation of the foreign company under a consumer provision.
+- **(1)** A foreign company shall, in the prescribed manner, provide a person in Canada requesting or receiving a product or service in Canada from it with prescribed information on how to contact the Agency if the person has a complaint about an arrangement referred to in subsection 601(3), a payment, credit or charge card referred to in subsection 601(2), the disclosure of or manner of calculating the cost of borrowing in respect of a loan repayable in Canada or an advance on the security or against the cash surrender value of a policy, or about any other obligation of the foreign company under a consumer provision.
 
 **Report**
 
 - **(2)** The Commissioner shall prepare a report, to be included in the report referred to in section 34 of the [Financial Consumer Agency of Canada Act](/en/Acts/Statutes%20of%20Canada/2001/c.%209.md), respecting
 	- **(a)** procedures for dealing with complaints established by foreign companies pursuant to paragraph 604(1)(a); and
 	- **(b)** the number and nature of complaints that have been brought to the attention of the Agency by persons who have requested or received a product or service from a foreign company.
-> 1991, c. 47, s. 605; 1997, c. 15, s. 312; 2001, c. 9, s. 444.
+> 1991, c. 47, s. 605; 1997, c. 15, s. 312; 2001, c. 9, s. 444; 2007, c. 6, s. 282.
 
 
 
@@ -13894,10 +14011,28 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 	- **(i)** any product or service or prescribed class of products or services offered by them,
 	- **(ii)** any of their policies, procedures or practices relating to the offer by them of any product or service or prescribed class of products or services,
 	- **(iii)** anything they are required to do or to refrain from doing under a consumer provision, and
-	- **(iv)** any other matter that may affect their dealings with customers or the public;
+	- **(iv)** any other matter that may affect their dealings, or their employees’ or representatives’ dealings, with customers or the public;
 - **(b)** the manner, place and time in which, and the persons to whom, information is to be disclosed; and
 - **(c)** the content and form of any advertisement by foreign companies or any prescribed class of foreign companies relating to any matter referred to in paragraph (a).
-> 2001, c. 9, s. 445.
+> 2001, c. 9, s. 445; 2007, c. 6, s. 283.
+
+
+
+
+
+**Provisions that do not apply**
+
+**607.2** 
+
+- **(1)** Sections 598 to 607.1 do not apply in respect of a foreign company if
+	- **(a)** the order made under subsection 574(1) in respect of the foreign company restricts it to the reinsurance of risks within a class of insurance specified in the order;
+	- **(b)** the foreign company has provided the Commissioner with a declaration stating that it is not dealing with a prescribed group of consumers; and
+	- **(c)** after providing the declaration, the foreign company continues to not deal with that prescribed group.
+
+**Notice if action taken that causes provisions to apply**
+
+- **(2)** The foreign company must give notice to the Commissioner if it subsequently deals with the prescribed group referred to in the declaration.
+> 2007, c. 6, s. 284.
 
 
 
@@ -13957,10 +14092,6 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 
 
 
-### Regulations
-
-
-
 **Regulations**
 
 **610** 
@@ -13979,10 +14110,6 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 > 1991, c. 47, s. 610; 2001, c. 9, s. 447(E).
 
 
-
-
-
-### Assets in Canada
 
 
 
@@ -14021,11 +14148,13 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 	- **(a)** securities issued by or debt obligations of the foreign company or one of its affiliates;
 	- **(b)** real property, or ground rents or mortgages on real property, situated outside Canada;
 	- **(c)** shares or ownership interests, however designated, in any entity in such number as would constitute a substantial investment in that entity without regard to any shares or ownership interests held by any other entity; or
-	- **(d)** a loan in Canada on the security of residential property in Canada for the purpose of purchasing, renovating or improving that property, if the amount of the loan, together with the amount then outstanding of any mortgage having an equal or prior claim against the property, would exceed 75 per cent of the value of the property at the time of the loan.
+	- **(d)** a loan made in Canada on the security of residential property in Canada for the purpose of purchasing, renovating or improving that property, if the amount of the loan, together with the amount then outstanding of any mortgage having an equal or prior claim against the property, would exceed 80 per cent of the value of the property at the time of the loan.
 
 **Exception**
 
-- **(2)** Notwithstanding paragraphs (1)(a) and (c), a foreign company may vest in trust a substantial investment in the shares of a real property corporation, as defined in subsection 490(1).
+- **(2)** Despite paragraphs (1)(a) and (c), a foreign company may vest in trust a substantial investment in an entity that is primarily engaged in
+	- **(a)** holding, managing or otherwise dealing with real property; or
+	- **(b)** holding shares or ownership interests in entities that are primarily engaged in any of the activities referred to in paragraph (a).
 
 **Idem**
 
@@ -14033,7 +14162,7 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 	- **(a)** a loan made or guaranteed under the [National Housing Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-11.md) or any other Act of Parliament by or pursuant to which a different limit on the value of property on the security of which the foreign company may make a loan is established;
 	- **(b)** a loan if repayment of the amount of the loan that exceeds the maximum amount set out in subsection (1) is guaranteed or insured by a government agency or a private insurer approved by the Superintendent; or
 	- **(c)** securities issued or guaranteed by an entity that are secured on any residential property, whether in favour of a trustee or otherwise, or a loan made by the foreign company to the entity against the issue of such securities.
-> 1991, c. 47, s. 612; 1993, c. 34, s. 85(E); 1997, c. 15, s. 315.
+> 1991, c. 47, s. 612; 1993, c. 34, s. 85(E); 1997, c. 15, s. 315; 2007, c. 6, s. 290.
 
 
 
@@ -14058,13 +14187,13 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 
 **614** 
 
-- **(1)** Sections 612 and 615 to 620 do not apply in respect of assets of a segregated fund maintained pursuant to section 593.
+- **(1)** Sections 612 and 615 to 620 do not apply in respect of assets of a foreign company held in relation to a segregated fund maintained pursuant to section 593.
 
-**Exclusion of assets and liabilities of segregated funds**
+**Exclusion of liabilities of segregated funds**
 
-- **(2)** A reference in sections 615 to 620 to the assets in Canada or the liabilities in Canada of a foreign company does not include
-	- **(a)** assets of a segregated fund maintained pursuant to section 593; or
-	- **(b)** liabilities of the foreign company for the policies and amounts in respect of which such a fund is maintained.
+- **(2)** A reference in sections 615 to 619 and in regulations made under section 620 to the assets in Canada or the liabilities in Canada of a foreign company does not include liabilities of the foreign company for the policies and amounts in respect of which a segregated fund is maintained pursuant to section 593.
+> 1991, c. 47, s. 614; 2007, c. 6, s. 291.
+
 
 
 
@@ -14184,10 +14313,10 @@ shall not at any time exceed the respective prescribed percentage of the value o
 
 **Exception**
 
-**622** A foreign company may vest in trust an asset if the asset was acquired through a transaction described in sections 522 to 533 and
+**622** A foreign company may vest in trust an asset if the asset was acquired through a transaction described in any of sections 524 to 533 and
 - **(a)** the transaction was entered into on terms and conditions that are at least as favourable to the foreign company as market terms and conditions, as defined in subsection 534(2); and
 - **(b)** the foreign company files a notice of the vesting with the Superintendent on vesting the asset in trust.
-> 1991, c. 47, s. 622; 1997, c. 15, s. 316.
+> 1991, c. 47, s. 622; 1997, c. 15, s. 316; 2007, c. 6, s. 293.
 
 
 
@@ -14393,6 +14522,19 @@ as are, in the opinion of the actuary, necessary to enable the actuary to perfor
 
 
 
+#### Interpretation
+
+
+
+**Definitions**
+
+**632.1** In sections 634 to 643, the expressions ***firm of accountants*** and ***member*** have the meanings assigned to those expressions by section 336.
+> 2007, c. 6, s. 294.
+
+
+
+
+
 #### Appointment
 
 
@@ -14443,7 +14585,7 @@ as are, in the opinion of the actuary, necessary to enable the actuary to perfor
 
 **Notice of designation**
 
-- **(3)** Within fifteen days after the appointment of a firm of accountants as auditor of a foreign company, the foreign company and the firm of accountants shall jointly designate a member of the firm who meets the qualifications described in subsection (1) to conduct the audit of the foreign company on behalf of the firm and shall forthwith notify the Superintendent in writing of the designation.
+- **(3)** Within 15 days after the appointment of a firm of accountants as auditor of a foreign company, the foreign company and the firm of accountants shall jointly designate a member of the firm who meets the qualifications described in subsection (1) to conduct the audit of the foreign company on behalf of the firm and the foreign company shall without delay notify the Superintendent in writing of the designation.
 
 **New designation**
 
@@ -14452,7 +14594,7 @@ as are, in the opinion of the actuary, necessary to enable the actuary to perfor
 **Deemed vacancy**
 
 - **(5)** In any case where subsection (4) applies and a designation is not made pursuant to that subsection within thirty days after the designated member ceases to conduct the audit of the foreign company, there shall be deemed to be a vacancy in the office of auditor of the foreign company.
-> 1991, c. 47, s. 634; 2005, c. 54, s. 302.
+> 1991, c. 47, s. 634; 2005, c. 54, s. 302; 2007, c. 6, s. 295(E).
 
 
 
@@ -14952,16 +15094,12 @@ the provincial company shall forthwith provide the Superintendent with such info
 
 - **(2)** A foreign company, in respect of its insurance business in Canada, shall prepare annually a return of the condition and affairs of the foreign company as at the end of each financial year, showing its assets and liabilities and its income and expenditures during that financial year together with such other information as the Superintendent may deem necessary.
 
-**Form and filing of annual return**
-
-- **(3)** The annual return shall be in such form as the Superintendent determines and shall be filed with the Superintendent on or before
-	- **(a)** one hundred and five days after the end of the financial year in respect of which the return is prepared, in the case of a company, foreign company or provincial company the order of the Superintendent approving the commencement and carrying on of business for which limits the company, foreign company or provincial company to the reinsurance of risks; or
-	- **(b)** sixty days after the end of the financial year in respect of which the return is prepared, in the case of any other company, society, foreign company or provincial company.
+- **(3)** [Repealed, 2007, c. 6, s. 299]
 
 **Accounting principles**
 
 - **(4)** The annual return shall be prepared in accordance with the accounting principles referred to in subsection 331(4).
-> 1991, c. 47, s. 665; 1997, c. 15, s. 322.
+> 1991, c. 47, s. 665; 1997, c. 15, s. 322; 2007, c. 6, s. 299.
 
 
 
@@ -15296,7 +15434,7 @@ the Superintendent may, in addition to any other action that may be taken under 
 	- **(a)** that has been notified by the Superintendent that this section applies to it where the company, society or provincial company is subject to measures designed to maintain or improve its safety and soundness, which measures
 		- **(i)** have been specified by the Superintendent by way of conditions or limitations in respect of the order approving the commencement and carrying on of its business, or
 		- **(ii)** are contained in a prudential agreement entered into under section 675.1 or an undertaking given by the company, society or provincial company to the Superintendent; or
-	- **(b)** that is the subject of a direction made under section 676 or an order made under subsection 515(3) or 516(4).
+	- **(b)** that is the subject of a direction made under section 676 or an order made under subsection 515(3).
 
 **Information to be provided**
 
@@ -15331,7 +15469,7 @@ together with such other information about the background, business record and e
 - **(6)** Where an order has been made under subsection (4)
 	- **(a)** disqualifying a person from being elected or appointed to a position, the person shall not be, and the company, society or provincial company shall not permit the person to be, elected or appointed to the position; or
 	- **(b)** removing a director from office, the person shall not continue to hold, and the company, society or provincial company shall not permit the person to continue to hold, office as a director.
-> 1996, c. 6, s. 95; 2001, c. 9, s. 460.
+> 1996, c. 6, s. 95; 2001, c. 9, s. 460; 2007, c. 6, s. 300.
 
 
 
@@ -15346,7 +15484,7 @@ together with such other information about the background, business record and e
 	- **(b)** because the person has contravened or, by action or negligence, has contributed to the contravention of
 		- **(i)** this Act or the regulations made under it,
 		- **(ii)** a direction made under section 676,
-		- **(iii)** an order made under subsection 515(3) or 516(4),
+		- **(iii)** an order made under subsection 515(3),
 		- **(iv)** a condition or limitation in respect of the order approving the commencement and carrying on of business by the company, society or provincial company, or
 		- **(v)** a prudential agreement entered into under section 675.1 or an undertaking given by the company, society or provincial company to the Superintendent.
 
@@ -15381,7 +15519,7 @@ together with such other information about the background, business record and e
 **Order not stayed by appeal**
 
 - **(9)** A removal order is not stayed by an appeal.
-> 2001, c. 9, s. 461.
+> 2001, c. 9, s. 461; 2007, c. 6, s. 301.
 
 
 
@@ -15393,7 +15531,7 @@ together with such other information about the background, business record and e
 
 - **(1)** This section applies only in respect of a foreign company
 	- **(a)** that has been notified by the Superintendent that this section applies to it where the foreign company is subject to measures designed to protect the interests of its policyholders and creditors in respect of its insurance business in Canada, which measures
-		- **(i)** have been specified by the Superintendent by way of conditions or limitations in respect of the order approving the insuring in Canada of risks by the foreign company, or
+		- **(i)** have been specified by the Superintendent by way of conditions or limitations in respect of the order made under subsection 574(1) in respect of the foreign company, or
 		- **(ii)** are contained in a prudential agreement entered into under section 675.1 or an undertaking given by the foreign company to the Superintendent; or
 	- **(b)** that is the subject of a direction made under section 676 or an order made under subsection 608(4) or 609(2).
 
@@ -15420,7 +15558,7 @@ together with such other information about the background, business record and e
 **Prohibition**
 
 - **(7)** If an order is made under subsection (4) disqualifying a person from being appointed as chief agent, the person shall not be, and the foreign company shall not permit the person to be, appointed to that position.
-> 2001, c. 9, s. 461.
+> 2001, c. 9, s. 461; 2007, c. 6, s. 302.
 
 
 
@@ -15436,7 +15574,7 @@ together with such other information about the background, business record and e
 		- **(i)** this Act or the regulations made under it,
 		- **(ii)** a direction made under section 676,
 		- **(iii)** an order made under subsection 608(4) or 609(2),
-		- **(iv)** a condition or limitation in respect of the order approving the insuring in Canada of risks by the foreign company, or
+		- **(iv)** a condition or limitation in respect of the order made under subsection 574(1) in respect of the foreign company, or
 		- **(v)** a prudential agreement entered into under section 675.1 or an undertaking given by the foreign company to the Superintendent.
 
 **Risk of prejudice**
@@ -15470,7 +15608,7 @@ together with such other information about the background, business record and e
 **Order not stayed by appeal**
 
 - **(9)** A removal order is not stayed by an appeal.
-> 2001, c. 9, s. 461.
+> 2001, c. 9, s. 461; 2007, c. 6, s. 303.
 
 
 
@@ -15484,7 +15622,7 @@ together with such other information about the background, business record and e
 
 **678.5** 
 
-- **(1)** If the circumstances described in any of paragraphs 679(1.1)(a) to (e) or (g) exist in respect of a society, the Superintendent may, by order, subject to any terms and conditions the Superintendent may specify, direct it to transfer all or any portion of its policies to, or cause itself to be reinsured against all or any portion of the risks undertaken by it by, any company, society, foreign company or body corporate incorporated under the laws of a province that is authorized to transact the classes of insurance to be so transferred or reinsured.
+- **(1)** If the circumstances described in any of paragraphs 679(1.1)(a) to (e) or (g) exist in respect of a society, the Superintendent may, by order, subject to any terms and conditions the Superintendent may specify, direct it to transfer all or any portion of its policies to, or cause itself to be reinsured, against all or any portion of the risks undertaken under its policies, by any company, society, foreign company or body corporate incorporated or formed by or under the laws of a province that is authorized to transact the classes of insurance to be so transferred or reinsured.
 
 **Compliance**
 
@@ -15493,17 +15631,17 @@ together with such other information about the background, business record and e
 **Opportunity for representations**
 
 - **(3)** No order shall be issued to a society under subsection (1) unless the society is provided with a reasonable opportunity to make representations in respect of the matter.
-> 2001, c. 9, s. 462.
+> 2001, c. 9, s. 462; 2007, c. 6, s. 304.
 
 
 
 
 
-**Direction to transfer policies or to reinsure risks — foreign company that is a fraternal benefit society**
+**Direction to transfer policies or to reinsure risks — foreign fraternal benefit society**
 
 **678.6** 
 
-- **(1)** If the circumstances described in any of paragraphs 679(1.2)(a) to (d) or (f) exist in respect of a foreign company that is a fraternal benefit society, the Superintendent may, by order, subject to any terms and conditions the Superintendent may specify, direct it to transfer all or any portion of its policies in Canada to, or cause itself to be reinsured against all or any portion of the risks undertaken by it in respect of its policies in Canada by, any company, society, foreign company or body corporate incorporated under the laws of a province that is authorized to transact the classes of insurance to be so transferred or reinsured.
+- **(1)** If the circumstances described in any of paragraphs 679(1.2)(a) to (d) or (f) exist in respect of a foreign fraternal benefit society, the Superintendent may, by order, subject to any terms and conditions the Superintendent may specify, direct it to transfer all or any portion of its policies in respect of its insurance business in Canada to, or cause itself to be reinsured, against all or any portion of the risks undertaken under those policies, by any company, society, foreign company or body corporate incorporated or formed by or under the laws of a province that is authorized to transact the classes of insurance to be so transferred or reinsured.
 
 **Compliance**
 
@@ -15512,7 +15650,7 @@ together with such other information about the background, business record and e
 **Opportunity for representations**
 
 - **(3)** No order shall be issued to a foreign company under subsection (1) unless the foreign company is provided with a reasonable opportunity to make representations in respect of the matter.
-> 2001, c. 9, s. 462.
+> 2001, c. 9, s. 462; 2007, c. 6, s. 305.
 
 
 
@@ -15537,7 +15675,7 @@ together with such other information about the background, business record and e
 	- **(c)** the assets of the company, society or provincial company are not, in the opinion of the Superintendent, sufficient to give adequate protection to its policyholders and creditors;
 	- **(d)** any asset appearing on the books or records of the company, society or provincial company or held under its administration is not, in the opinion of the Superintendent, satisfactorily accounted for;
 	- **(e)** the regulatory capital of the company, society or provincial company has, in the opinion of the Superintendent, reached a level or is eroding in a manner that may detrimentally affect its policyholders or creditors;
-	- **(f)** the company, society or provincial company has failed to comply with an order of the Superintendent made under subsection 515(3) to increase its capital or with an order of the Superintendent made under subsection 516(4) or 678.5(1); or
+	- **(f)** the company, society or provincial company has failed to comply with an order of the Superintendent made under subsection 515(3) to increase its capital or with an order of the Superintendent made under subsection 678.5(1); or
 	- **(g)** in the opinion of the Superintendent, any other state of affairs exists in respect of the company, society or provincial company that may be materially prejudicial to the interests of the company’s, society’s or provincial company’s policyholders or creditors or the owners of any assets under the company’s, society’s or provincial company’s administration, including where proceedings under a law relating to bankruptcy or insolvency have been commenced in Canada or elsewhere in respect of the holding body corporate of the company or provincial company.
 
 **Circumstances re foreign company**
@@ -15545,10 +15683,10 @@ together with such other information about the background, business record and e
 - **(1.2)** Control by the Superintendent under subsection (1) may be taken in respect of a foreign company where
 	- **(a)** in respect of its insurance business in Canada, it has failed to pay its liabilities or, in the opinion of the Superintendent, will not be able to pay its liabilities as they become due and payable;
 	- **(b)** [Repealed, 2001, c. 9, s. 463]
-	- **(c)** its assets in Canada are not, in the opinion of the Superintendent, sufficient to give adequate protection to its policyholders and creditors in Canada;
+	- **(c)** its assets in Canada are not, in the opinion of the Superintendent, sufficient to give adequate protection to its policyholders and creditors in respect of its insurance business in Canada;
 	- **(d)** any asset relating to its insurance business in Canada appearing on the books or records of the foreign company is not, in the opinion of the Superintendent, satisfactorily accounted for;
 	- **(e)** it has failed to comply with an order of the Superintendent made under subsection 608(4) to increase the margin of its assets in Canada over its liabilities in Canada or with an order of the Superintendent made under subsection 609(2) or 678.6(1); or
-	- **(f)** in the opinion of the Superintendent, any other state of affairs exists in respect of the foreign company that may be materially prejudicial to the interests of the foreign company’s policyholders or creditors in Canada or the owners of any assets under the foreign company’s administration in Canada, including where proceedings under a law relating to bankruptcy or insolvency have been commenced in Canada or elsewhere in respect of the holding body corporate of the foreign company.
+	- **(f)** in the opinion of the Superintendent, any other state of affairs exists in respect of the foreign company that may be materially prejudicial to the interests of the foreign company’s policyholders or creditors in respect of its insurance business in Canada, or to the interests of the owners of any assets under the foreign company’s administration in Canada, including where proceedings under a law relating to bankruptcy or insolvency have been commenced in Canada or elsewhere in respect of the foreign company or its holding body corporate.
 
 **Notice of proposed action**
 
@@ -15556,7 +15694,7 @@ together with such other information about the background, business record and e
 
 **Objectives of Superintendent**
 
-- **(2)** Where the Superintendent has, pursuant to subsection (1), control of the assets of a company, society, provincial company or foreign company referred to in that subsection, the Superintendent may do all things necessary or expedient to protect the rights and interests of the policyholders and creditors of the company, society or provincial company or the policyholders and creditors in Canada of the foreign company.
+- **(2)** If the Superintendent has, under subsection (1), control of the assets of a company, society, provincial company or foreign company referred to in that subsection, the Superintendent may do all things necessary or expedient to protect the rights and interests of the policyholders and creditors of the company, society or provincial company or the policyholders and creditors in respect of the foreign company’s insurance business in Canada.
 
 **Powers of Superintendent**
 
@@ -15565,7 +15703,7 @@ together with such other information about the background, business record and e
 	- **(b)** no director, officer or employee of the company, society, provincial company or foreign company nor the chief agent of the foreign company shall have access to any cash or securities held by the company, society, provincial company or foreign company unless
 		- **(i)** a representative of the Superintendent accompanies the director, officer or employee or the chief agent, or
 		- **(ii)** the access is previously authorized by the Superintendent or the Superintendent’s representative.
-> 1991, c. 47, s. 679; 1996, c. 6, s. 96; 1997, c. 15, s. 326; 2001, c. 9, s. 463.
+> 1991, c. 47, s. 679; 1996, c. 6, s. 96; 1997, c. 15, s. 326; 2001, c. 9, s. 463; 2007, c. 6, s. 306.
 
 
 
@@ -15645,23 +15783,21 @@ stating that the Superintendent is of the opinion that the circumstances leading
 		- **(ii)** exercising control of the assets of a foreign company pursuant to subparagraph 679(1)(b)(i) or (ii),
 		- **(iii)** carrying out as liquidator the winding-up of a company, society or provincial company or of the insurance business in Canada of a foreign company,
 including amounts paid as interest charges on money borrowed by or on behalf of the company, society or provincial company to meet its requirements for liquid funds or as the cost of terminating leases or employment contracts or other similar expenses; and
-	- **(b)** ascertain the accident and sickness insurance, accident insurance, personal accident insurance and sickness insurance portion, the life insurance and annuity portion, the mortgage insurance portion, the special insurance portion and the property and casualty insurance portion of the expenses described in paragraph (a) that were incurred in respect of the company, society, foreign company or provincial company by multiplying those expenses by
+	- **(b)** ascertain the portion of the expenses described in paragraph (a) that were incurred by the company, society, foreign company or provincial company in respect of its policies of accident and sickness insurance, its policies of life insurance and annuity and its other policies by multiplying those expenses by
 ```
-A/F, B/F, C/F, D/F and E/F, respectively, where
+A/D, B/D and C/D, respectively,
 ```
-
-- **A, B, C, D and E** represent the total of the gross premium income of the company, society, foreign company or provincial company, as determined by the Superintendent, in respect of
-	- **(i)** its policies of accident and sickness insurance, accident insurance, personal accident insurance and sickness insurance,
-	- **(ii)** its policies of life insurance and annuities,
-	- **(iii)** its policies of mortgage insurance,
-	- **(iv)** its policies of special insurance, and
-	- **(v)** its policies, other than its policies of accident and sickness insurance, accident insurance, personal accident insurance and sickness insurance, life insurance and annuities, mortgage insurance and special insurance,respectively, during the period referred to in element F, and
-- **F**  represents the total of the gross premium income of the company, society, foreign company or provincial company, as determined by the Superintendent, during the period of five calendar years preceding the first to occur of the calendar year in which the Superintendent took control of the company, society or provincial company, or in the case of a foreign company, the assets, and that in which a winding-up order was issued in respect of the company, society, foreign company or provincial company.
+where
+- **A, B and C** represent the total of the gross premium income of the company, society, foreign company or provincial company, as determined by the Superintendent, in respect of
+	- **(i)** its policies of accident and sickness insurance,
+	- **(ii)** its policies of life insurance and annuities, and
+	- **(iii)** its other policies,respectively, during the period referred to in the description of D, and
+- **D** represents the total of the gross premium income of the company, society, foreign company or provincial company, as determined by the Superintendent, during the period of five calendar years preceding the first to occur of the calendar year in which the Superintendent took control of the company, society or provincial company, or in the case of a foreign company, the assets, and that in which a winding-up order was issued in respect of the company, society, foreign company or provincial company.
 
 **Amounts conclusive**
 
 - **(2)** The amounts ascertained by the Superintendent pursuant to subsection (1) are final and conclusive for the purposes of this section and sections 687 and 688.
-> 1991, c. 47, s. 686; 1996, c. 6, s. 98.
+> 1991, c. 47, s. 686; 1996, c. 6, s. 98; 2007, c. 6, s. 307.
 
 
 
@@ -15669,27 +15805,21 @@ A/F, B/F, C/F, D/F and E/F, respectively, where
 
 **Assessment**
 
-**687** 
-
-- **(1)** As soon as possible after ascertaining the portions described in paragraph 686(1)(b), the Superintendent shall, subject to this section and to the extent and in the manner that the Governor in Council may prescribe,
-	- **(a)** assess the accident and sickness insurance, accident insurance, personal accident insurance and sickness insurance portion, the life insurance and annuity portion and the property and casualty insurance portion against each company, society, foreign company and provincial company, other than the company, society, foreign company or provincial company in respect of which the expenses were incurred, in the following proportion:
+**687** As soon as possible after ascertaining the portions described in paragraph 686(1)(b), the Superintendent shall, subject to this section and to the extent and in the manner that the Governor in Council may prescribe, assess those portions against each company, society, foreign company and provincial company, other than the company, society, foreign company or provincial company in respect of which the expenses were incurred, in the following proportion:
 ```
 A/B
 ```
 where
 - **A** represents the net premiums during the immediately preceding calendar year of the company, society, foreign company or provincial company from
-	- **(i)** policies of accident and sickness insurance, accident insurance, personal accident insurance and sickness insurance,
-	- **(ii)** policies of life insurance and annuities, or
-	- **(iii)** policies, other than policies of accident and sickness insurance, accident insurance, personal accident insurance and sickness insurance, life insurance and annuities, mortgage insurance and special insurance, and
+- **(i)** policies of accident and sickness insurance,
+- **(ii)** policies of life insurance and annuities, or
+- **(iii)** other policies; and
 - **B** represents the total net premiums during the immediately preceding calendar year of all companies, societies, foreign companies and provincial companies, other than the company, society, foreign company or provincial company in respect of which the expenses were incurred, from
-	- **(iv)** policies of accident and sickness insurance, accident insurance, personal accident insurance and sickness insurance,
-	- **(v)** policies of life insurance and annuities, or
-	- **(vi)** policies, other than policies of accident and sickness insurance, accident insurance, personal accident insurance and sickness insurance, life insurance and annuities, mortgage insurance and special insurance; and
-	- **(b)** assess the mortgage insurance portion and the special insurance portion against the company, society, foreign company or provincial company in respect of which they were incurred.
+- **(i)** policies of accident and sickness insurance,
+- **(ii)** policies of life insurance and annuities, or
+- **(iii)** other policies.
+> 1991, c. 47, s. 687; 2007, c. 6, s. 308.
 
-**Expenses charged**
-
-- **(2)** The portions of expenses assessed under paragraph (1)(b) shall be charged to and paid by the company, society, foreign company or provincial company in respect of which the expenses were incurred.
 
 
 
@@ -15710,8 +15840,8 @@ where
 - **(a)** premiums paid or payable in respect of the reinsurance of risks undertaken by the company, society, foreign company or provincial company in its policies in Canada, and
 - **(b)** dividends paid or allowed by the company, society, foreign company or provincial company to its policyholders in Canada;
 
-***special insurance*** means a class of insurance designated by regulations made by the Governor in Council as special insurance for the purposes of this section and sections 686 and 687, having regard to the nature of the insurance, the classes of persons insured under policies of that class of insurance and the number of companies, societies, foreign companies and provincial companies insuring risks falling within that class.
-> 1991, c. 47, s. 688; 1997, c. 15, s. 327.
+***special insurance***[Repealed, 2007, c. 6, s. 309]
+> 1991, c. 47, s. 688; 1997, c. 15, s. 327; 2007, c. 6, s. 309.
 
 
 
@@ -15978,12 +16108,16 @@ where
 
 **707** 
 
-- **(1)** Subject to subsection (2), insurance holding companies shall not carry on business after April 24, 2007, except that if Parliament dissolves on that day or at any time within the three-month period before that day, insurance holding companies may continue to carry on business until the day that is one hundred and eighty days after the first day of the first session of the next Parliament.
+- **(1)** Subject to subsections (2) and (3), insurance holding companies shall not carry on business after the day that is the fifth anniversary of the day on which this section comes into force.
 
 **Extension**
 
 - **(2)** The Governor in Council may, by order, extend by up to six months the time during which insurance holding companies may continue to carry on business. No more than one order may be made under this subsection.
-> 1991, c. 47, s. 707; 1997, c. 15, s. 332; 2001, c. 9, s. 465; 2006, c. 4, s. 201.1.
+
+**Exception**
+
+- **(3)** If Parliament dissolves on the fifth anniversary of the day on which this section comes into force, on any day within the three-month period before that anniversary or on any day within an extension under subsection (2), insurance holding companies may continue to carry on business for 180 days after the first day of the first session of the next Parliament.
+> 1991, c. 47, s. 707; 1997, c. 15, s. 332; 2001, c. 9, s. 465; 2006, c. 4, s. 201.1; 2007, c. 6, s. 310.
 
 
 
@@ -16266,7 +16400,7 @@ where
 	- **(b)** continue to have issued and outstanding debt obligations the issue of which is not authorized by this Act if the debt obligations were outstanding at the time the application for the letters patent was made;
 	- **(c)** hold assets that the insurance holding company would not otherwise be permitted by this Act to hold, if the assets were held by the body corporate continued as the insurance holding company at the time the application for the letters patent was made;
 	- **(d)** acquire and hold assets that the insurance holding company would not otherwise be permitted by this Act to acquire or hold, if the body corporate continued as the insurance holding company was obliged, at the time the application for the letters patent was made, to acquire those assets; and
-	- **(e)** maintain outside Canada any records or registers required by this Act to be maintained in Canada and maintain and process outside Canada information and data relating to the preparation and maintenance of such records or registers.
+	- **(e)** maintain outside Canada any records or registers required by this Act to be maintained in Canada.
 
 **Duration**
 
@@ -16284,7 +16418,7 @@ where
 - **(4)** The Minister shall not grant to an insurance holding company any permission
 	- **(a)** with respect to matters described in paragraph (1)(b), that purports to be effective more than ten years after the effective date of the letters patent of continuance issued to continue the insurance holding company under this Part, unless the Minister is satisfied on the basis of evidence on oath provided by an officer of the insurance holding company that the insurance holding company will not be able at law to redeem at the end of the ten years the outstanding debt obligations to which the permission relates; and
 	- **(b)** with respect to matters described in paragraphs (1)(c) and (d), that purports to be effective more than ten years after the effective date of the letters patent of continuance issued to continue the insurance holding company under this Part.
-> 1991, c. 47, s. 725; 2001, c. 9, s. 465.
+> 1991, c. 47, s. 725; 2001, c. 9, s. 465; 2007, c. 6, s. 311.
 
 
 
@@ -16298,12 +16432,12 @@ where
 
 **726** 
 
-- **(1)** An insurance holding company may, with the approval in writing of the Minister, apply to be continued as a body corporate under any other Act of Parliament or any Act of the legislature of a province.
+- **(1)** An insurance holding company may apply to be continued only as a body corporate under any other Act of Parliament or any Act of the legislature of a province, and it may do so only with the approval in writing of the Minister.
 
 **Conditions for approval**
 
 - **(2)** No approval referred to in subsection (1) may be given to an insurance holding company unless the Minister is satisfied that the application of the insurance holding company has been authorized by a special resolution.
-> 1991, c. 47, s. 726; 2001, c. 9, s. 465.
+> 1991, c. 47, s. 726; 2001, c. 9, s. 465; 2007, c. 6, s. 312.
 
 
 
@@ -16369,10 +16503,10 @@ except where the trade-mark or trade name is being changed or the body corporate
 
 **Affiliated insurance holding company**
 
-**731** Despite section 730 and subject to section 732, an insurance holding company that is affiliated with another entity may, with the consent of that entity and the approval of the Superintendent,
+**731** Despite section 730 and subject to section 732, an insurance holding company that is affiliated with another entity may, with the consent of that entity,
 - **(a)** be incorporated with, or change its name to, substantially the same name as that of the affiliated entity; or
 - **(b)** subject to any terms and conditions that may be prescribed, carry on business under or identify itself by a name, other than its corporate name, that is substantially the same as the corporate name of the affiliated entity or that is another name under which or with which the affiliated entity carries on business or otherwise identifies itself.
-> 1991, c. 47, s. 731; 2001, c. 9, s. 465.
+> 1991, c. 47, s. 731; 2001, c. 9, s. 465; 2007, c. 6, s. 313.
 
 
 
@@ -16657,8 +16791,8 @@ the entity shall not control the insurance holding company one year after the da
 
 **Material to Superintendent**
 
-- **(5)** If the directors exercise their authority under paragraph (1)(b), the directors shall, before the issue of shares of the series, send to the Superintendent a copy of the by-law authorizing the directors to fix the rights, privileges, restrictions and conditions of those shares and shall provide the Superintendent with particulars of the proposed series of shares.
-> 1991, c. 47, s. 745; 2001, c. 9, s. 465; 2005, c. 54, s. 307.
+- **(5)** If the directors exercise their authority under paragraph (1)(b), the directors shall, before the issue of shares of the series, send to the Superintendent particulars of the series of shares and a copy of the by-law that granted the authority to the directors.
+> 1991, c. 47, s. 745; 2001, c. 9, s. 465; 2005, c. 54, s. 307; 2007, c. 6, s. 314(E).
 
 
 
@@ -16817,12 +16951,12 @@ the entity shall not control the insurance holding company one year after the da
 
 **Restrictions on purchase and redemption**
 
-- **(2)** An insurance holding company shall not make any payment to purchase or redeem any shares issued by it if there are reasonable grounds for believing that it is, or the payment would cause it to be, in contravention of a regulation referred to in subsection 992(1) or (2) or a direction made under subsection 992(3).
+- **(2)** An insurance holding company shall not make any payment to purchase or redeem any shares issued by it if there are reasonable grounds for believing that it is, or the payment would cause it to be, in contravention of subsection 992(1), any regulation made under subsection 992(2) or any order made under subsection 992(3).
 
 **Donated shares**
 
 - **(3)** An insurance holding company may accept from any shareholder a share of the insurance holding company surrendered to it as a gift, but may not extinguish or reduce a liability in respect of an amount unpaid on any such share except in accordance with section 757.
-> 1991, c. 47, s. 754; 2001, c. 9, s. 465.
+> 1991, c. 47, s. 754; 2001, c. 9, s. 465; 2007, c. 6, s. 315.
 
 
 
@@ -16866,7 +17000,7 @@ the entity shall not control the insurance holding company one year after the da
 
 **Limitation**
 
-- **(2)** An insurance holding company shall not reduce its stated capital by special resolution if there are reasonable grounds for believing that the insurance holding company is, or the reduction would cause the insurance holding company to be, in contravention of a regulation referred to in subsection 992(1) or (2) or in a direction made under subsection 992(3).
+- **(2)** An insurance holding company shall not reduce its stated capital by special resolution if there are reasonable grounds for believing that the insurance holding company is, or the reduction would cause the insurance holding company to be, in contravention of subsection 992(1), any regulation made under subsection 992(2) or any order made under subsection 992(3).
 
 **Contents of special resolution**
 
@@ -16875,6 +17009,12 @@ the entity shall not control the insurance holding company one year after the da
 **Approval by Superintendent**
 
 - **(4)** A special resolution to reduce the stated capital of an insurance holding company has no effect until it is approved in writing by the Superintendent.
+
+**Exception**
+
+- **(4.1)** Subsection (4) does not apply if
+	- **(a)** the reduction in the stated capital is made solely as a result of changes made to the accounting principles referred to in subsection 331(4); and
+	- **(b)** there is to be no return of capital to shareholders as a result of the reduction.
 
 **Conditions for approval**
 
@@ -16888,7 +17028,7 @@ the entity shall not control the insurance holding company one year after the da
 	- **(c)** the insurance holding company’s assets and liabilities, and
 	- **(d)** the reason why the insurance holding company seeks the reduction of capital
 shall be submitted to the Superintendent at the time of the application for approval of the special resolution.
-> 1991, c. 47, s. 757; 2001, c. 9, s. 465.
+> 1991, c. 47, s. 757; 2001, c. 9, s. 465; 2007, c. 6, s. 317.
 
 
 
@@ -16965,7 +17105,7 @@ shall be submitted to the Superintendent at the time of the application for appr
 
 **Notice to Superintendent**
 
-- **(2)** The directors of an insurance holding company shall notify the Superintendent of the declaration of a dividend at least ten days prior to the day fixed for its payment.
+- **(2)** The directors of an insurance holding company shall notify the Superintendent of the declaration of a dividend at least 15 days before the day fixed for its payment.
 
 **Share dividend**
 
@@ -16973,8 +17113,8 @@ shall be submitted to the Superintendent at the time of the application for appr
 
 **When dividend not to be declared**
 
-- **(4)** The directors of an insurance holding company shall not declare and an insurance holding company shall not pay a dividend if there are reasonable grounds for believing that the insurance holding company is, or the payment would cause the insurance holding company to be, in contravention of a regulation referred to in subsection 992(1) or (2) or in a direction made under subsection 992(3).
-> 1991, c. 47, s. 761; 2001, c. 9, s. 465.
+- **(4)** The directors of an insurance holding company shall not declare and an insurance holding company shall not pay a dividend if there are reasonable grounds for believing that the insurance holding company is, or the payment would cause the insurance holding company to be, in contravention of subsection 992(1), any regulation made under subsection 992(2) or any order made under subsection 992(3).
+> 1991, c. 47, s. 761; 2001, c. 9, s. 465; 2007, c. 6, s. 318.
 
 
 
@@ -17905,8 +18045,8 @@ but does not include
 
 **Residency requirement**
 
-- **(2)** At least one half of the directors of an insurance holding company that is a subsidiary of a foreign institution and at least two thirds of the directors of any other insurance holding company must be, at the time of each director’s election or appointment, resident Canadians.
-> 2001, c. 9, s. 465.
+- **(2)** At least one half of the directors of an insurance holding company that is a subsidiary of a foreign institution and a majority of the directors of any other insurance holding company must be, at the time of each director’s election or appointment, resident Canadians.
+> 2001, c. 9, s. 465; 2007, c. 6, s. 319.
 
 
 
@@ -19089,10 +19229,10 @@ of the directors present are resident Canadians.
 
 
 
-**Approval of agreement by Minister**
+**Approval of agreement by Superintendent**
 
-**859** An amalgamation agreement shall be submitted to the Minister for approval. Any approval of the agreement under subsection 860(4) by the shareholders of an applicant is invalid unless, before the date of the approval, the Minister approves the agreement in writing.
-> 2001, c. 9, s. 465.
+**859** An amalgamation agreement must be submitted to the Superintendent for approval and any approval of the agreement under subsection 860(4) by the shareholders of an applicant is invalid unless, before the date of the approval, the Superintendent has approved the agreement in writing.
+> 2001, c. 9, s. 465; 2007, c. 6, s. 320.
 
 
 
@@ -19271,7 +19411,7 @@ and
 	- **(b)** continue to have issued and outstanding debt obligations the issue of which is not authorized by this Act if the debt obligations were outstanding at the time the application for the letters patent was made;
 	- **(c)** hold assets that the insurance holding company would not otherwise be permitted by this Act to hold, if the assets were held by one or more of the amalgamating bodies corporate at the time the application for the letters patent was made;
 	- **(d)** acquire and hold assets that the insurance holding company would not otherwise be permitted by this Act to acquire or hold, if one or more of the amalgamating bodies corporate were obliged, at the time the application for the letters patent was made, to acquire those assets; and
-	- **(e)** maintain outside Canada any records or registers required by this Act to be maintained in Canada and maintain and process, outside Canada, information and data relating to the preparation and maintenance of such records or registers.
+	- **(e)** maintain outside Canada any records or registers required by this Act to be maintained in Canada.
 
 **Duration of exceptions**
 
@@ -19289,7 +19429,7 @@ and
 - **(4)** The Minister shall not grant to an insurance holding company any permission
 	- **(a)** with respect to matters described in paragraph (1)(b), that purports to be effective more than ten years after the effective date of the letters patent of amalgamation issued to effect the amalgamation, unless the Minister is satisfied on the basis of evidence on oath provided by an officer of the insurance holding company that the insurance holding company will not be able at law to redeem at the end of the ten years the outstanding debt obligations to which the permission relates; and
 	- **(b)** with respect to matters described in paragraphs (1)(c) and (d), that purports to be effective more than ten years after the effective date of the letters patent of amalgamation issued to effect the amalgamation.
-> 2001, c. 9, s. 465.
+> 2001, c. 9, s. 465; 2007, c. 6, s. 321.
 
 
 
@@ -19512,32 +19652,16 @@ the registers and records required or authorized by this Part to be prepared and
 
 
 
-**Location and processing of information or data**
+**Requirement to maintain copies and process information in Canada**
 
 **876** 
 
-- **(1)** Subject to subsection (3), an insurance holding company shall maintain and process in Canada any information or data relating to the preparation or maintenance of the records referred to in section 869 or of its central securities register unless the Superintendent has, subject to any terms and conditions that the Superintendent considers appropriate, exempted the insurance holding company from the application of this section.
+- **(1)** If the Superintendent is of the opinion that it is incompatible with the fulfilment of the Superintendent’s responsibilities under this Act for an insurance holding company to maintain, in another country, copies of records referred to in section 869 or of its central securities register or for an insurance holding company to process, in another country, information or data relating to the preparation and maintenance of those records or of its central securities register — or if the Superintendent is advised by the Minister that, in the opinion of the Minister, it is not in the national interest for an insurance holding company to do any of those activities in another country — the Superintendent shall direct the insurance holding company to not maintain those copies, or to not process the information or data, as the case may be, in that other country or to maintain those copies or to process the information or data only in Canada.
 
-**Copies**
+**Insurance holding company**
 
-- **(2)** Subject to subsections (3) and (4), the insurance holding company may maintain copies of the records referred to in section 869 or of its central securities register outside Canada and may process outside Canada any information or data relating to those copies.
-
-**Information for Superintendent**
-
-- **(3)** Where an insurance holding company, in accordance with subsection (2), maintains outside Canada copies of any records referred to in subsection (1) or further processes information or data relating to those copies outside Canada, the insurance holding company shall so inform the Superintendent and provide the Superintendent with a list of those copies maintained outside Canada and a description of the further processing of information or data relating to those copies outside Canada and such other information as the Superintendent may require from time to time.
-
-**Processing information in Canada**
-
-- **(4)** If the Superintendent is at any time of the opinion that the maintenance outside Canada of any copies referred to in subsection (3), or the further processing of information or data relating to any such copies outside Canada, is incompatible with the fulfilment of the Superintendent’s responsibilities under this Part or the Superintendent is advised by the Minister that, in the opinion of the Minister, such maintenance or further processing is not in the national interest, the Superintendent shall direct the insurance holding company to maintain those copies, or to further process information or data relating to those copies, in Canada.
-
-**Insurance holding company to comply**
-
-- **(5)** An insurance holding company shall forthwith comply with any direction issued under subsection (4).
-
-**Guidelines**
-
-- **(6)** The Superintendent shall issue guidelines respecting the circumstances under which an exemption referred to in subsection (1) may be available.
-> 2001, c. 9, s. 465; 2005, c. 54, s. 346.
+- **(2)** An insurance holding company shall without delay comply with any direction issued under subsection (1).
+> 2001, c. 9, s. 465; 2005, c. 54, s. 346; 2007, c. 6, s. 322.
 
 
 
@@ -20539,7 +20663,7 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 
 **Amalgamation, etc., constitutes acquisition**
 
-- **(2)** Where, as a result of an amalgamation, merger or reorganization, the entity that results therefrom would have a significant interest in a class of shares of an insurance holding company, that entity shall be deemed to be acquiring a significant interest in that class of shares of the insurance holding company through an acquisition for which the approval of the Minister is required pursuant to subsection (1).
+- **(2)** If the entity that would result from an amalgamation, a merger or a reorganization would have a significant interest in a class of shares of an insurance holding company, the entity is deemed to be acquiring a significant interest in that class of shares of the insurance holding company through an acquisition for which the approval of the Minister is required under subsection (1).
 
 **Exemption**
 
@@ -20556,7 +20680,7 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 **Limitations on share holdings**
 
 - **(6)** Despite subsection (1), until a day that is two years after December 31, 1999, no person may have a significant interest in any class of shares of an insurance holding company to which subsection 407(13) applies.
-> 2001, c. 9, s. 465.
+> 2001, c. 9, s. 465; 2007, c. 6, s. 323.
 
 
 
@@ -20644,8 +20768,14 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 
 **No acquisition of control without approval**
 
-**932** No person shall acquire control, within the meaning of paragraph 3(1)(d), of an insurance holding company without the prior approval of the Minister.
-> 2001, c. 9, s. 465.
+**932** 
+
+- **(1)** No person shall acquire control, within the meaning of paragraph 3(1)(d), of an insurance holding company without the approval of the Minister.
+
+**Amalgamation, etc., constitutes acquisition**
+
+- **(2)** If the entity that would result from an amalgamation, a merger or a reorganization would control, within the meaning of paragraph 3(1)(d), an insurance holding company, the entity is deemed to be acquiring control, within the meaning of that paragraph, of the insurance holding company through an acquisition for which the approval of the Minister is required under subsection (1).
+> 2001, c. 9, s. 465; 2007, c. 6, s. 324.
 
 
 
@@ -20751,12 +20881,12 @@ the insurance holding company is entitled to assume that no person is acquiring 
 
 **Determination of day**
 
-- **(2)** If the insurance holding company has equity of one billion dollars or more on the day it comes into existence, the day referred to in subsection (1) is the day that is three years after that day and, in the case of any other insurance holding company, the day referred to in subsection (1) is the day that is three years after the day of the first annual meeting of the shareholders of the insurance holding company held after the equity of the insurance holding company first reaches one billion dollars.
+- **(2)** If the insurance holding company has equity of two billion dollars or more on the day it comes into existence, the day referred to in subsection (1) is the day that is three years after that day and, in the case of any other insurance holding company, the day referred to in subsection (1) is the day that is three years after the day of the first annual meeting of the shareholders of the insurance holding company held after the equity of the insurance holding company first reaches two billion dollars.
 
 **Extension**
 
 - **(3)** If general market conditions so warrant and the Minister is satisfied that an insurance holding company has used its best efforts to be in compliance with this section on the day determined under subsection (2), the Minister may specify a later day as the day from and after which the insurance holding company must comply with subsection (1).
-> 2001, c. 9, s. 465.
+> 2001, c. 9, s. 465; 2007, c. 6, s. 335.
 
 
 
@@ -20834,14 +20964,14 @@ the insurance holding company is entitled to assume that no person is acquiring 
 
 **943** 
 
-- **(1)** Subject to subsection (2) and sections 934 and 944, section 938 does not apply in respect of an insurance holding company if a person acquires control of an insurance holding company with equity of one billion dollars or more through the purchase or other acquisition of all or any number of the shares of the insurance holding company by the person or by any entity controlled by the person.
+- **(1)** Subject to subsection (2) and sections 934 and 944, section 938 does not apply in respect of an insurance holding company if a person acquires control of an insurance holding company with equity of two billion dollars or more through the purchase or other acquisition of all or any number of the shares of the insurance holding company by the person or by any entity controlled by the person.
 
 **Undertaking required**
 
 - **(2)** Subsection (1) applies only if the person provides the Minister with an undertaking satisfactory to the Minister to do all things necessary so that, within three years after the acquisition, or any other period that the Minister may specify, the insurance holding company has voting shares that carry at least 35 per cent of the voting rights attached to all of the outstanding voting shares of the insurance holding company and that are
 	- **(a)** shares of one or more classes of shares that are listed and posted for trading on a recognized stock exchange in Canada; and
 	- **(b)** shares none of which is beneficially owned by a person who is a major shareholder of the insurance holding company in respect of the voting shares of the insurance holding company or by any entity that is controlled by a person who is a major shareholder of the insurance holding company in respect of such shares.
-> 2001, c. 9, s. 465.
+> 2001, c. 9, s. 465; 2007, c. 6, s. 335.
 
 
 
@@ -21300,7 +21430,15 @@ no person shall, in person or by proxy, exercise the voting rights attached to t
 **Exception: uncontrolled event**
 
 - **(4)** An insurance holding company is deemed not to contravene subsection (1) if the insurance holding company acquires control of, or acquires or increases a substantial investment in, an entity solely as the result of an event not within the control of the insurance holding company.
-> 2001, c. 9, s. 465.
+
+**Application of other provision**
+
+- **(5)** Despite having acquired control of, or a substantial investment in, an entity under a particular provision of this Part, an insurance holding company may continue to control the entity or hold the substantial investment in the entity as though it had made the acquisition under another provision of this Part so long as the conditions of that other provision are met.
+
+**Timing of deemed acquisition**
+
+- **(6)** If an insurance holding company decides to exercise its right under subsection (5), the insurance holding company is deemed to be acquiring the control or the substantial investment under the other provision.
+> 2001, c. 9, s. 465; 2007, c. 6, s. 325.
 
 
 
@@ -21353,7 +21491,7 @@ no person shall, in person or by proxy, exercise the voting rights attached to t
 	- **(d)** engaging in any activity that a life company is permitted to engage in, other than an activity referred to in paragraph (a) or (e), that relates to
 		- **(i)** the promotion, sale, delivery or distribution of a financial product or financial service that is provided by any member of the insurance holding company’s group, or
 		- **(ii)** if a significant portion of the business of the entity involves an activity referred to in subparagraph (i), the promotion, sale, delivery or distribution of a financial product or financial service that is provided by any other entity that is primarily engaged in the business of providing financial services;
-	- **(e)** engaging in the activities referred to in the definition “mutual fund entity” or “mutual fund distribution entity” as defined in subsection 490(1); and
+	- **(e)** engaging in the activities referred to in the definition ***closed-end fund***, ***mutual fund distribution entity*** or ***mutual fund entity*** as defined in subsection 490(1); and
 	- **(f)** engaging in prescribed activities, under prescribed terms and conditions, if any are prescribed.
 
 **Restriction**
@@ -21366,6 +21504,16 @@ no person shall, in person or by proxy, exercise the voting rights attached to t
 		- **(i)** in the case of an entity that is controlled by the insurance holding company, a company would be permitted under Part IX to acquire a substantial investment in the other entity, or
 		- **(ii)** in the case of an entity that is not controlled by the insurance holding company, a company would be permitted to acquire a substantial investment in the other entity under subsection 493(2), paragraph 493(3)(b) or (c) or subsection 493(4) or 495(1) or (2); or
 	- **(e)** any prescribed activity.
+
+**Exception**
+
+- **(3.1)** Despite paragraph (3)(a), an insurance holding company may acquire control of, or acquire or increase a substantial investment in, any entity that acts as a trustee of a trust if the entity has been authorized under the laws of a province to act as a trustee of a trust and the entity is
+	- **(a)** a closed-end fund;
+	- **(b)** a mutual fund entity; or
+	- **(c)** an entity whose business is limited to engaging in one or more of the following:
+		- **(i)** the activities of a mutual fund distribution entity,
+		- **(ii)** any activity that a company is permitted to engage in under subsection 441(1.1), and
+		- **(iii)** the provision of investment counselling services and portfolio management services.
 
 **Control**
 
@@ -21389,7 +21537,8 @@ no person shall, in person or by proxy, exercise the voting rights attached to t
 		- **(i)** a factoring entity, or
 		- **(ii)** a financial leasing entity;
 	- **(c)** acquire control of, or acquire or increase a substantial investment in, an entity whose business includes one or more of the activities referred to in paragraph (2)(d);
-	- **(d)** acquire control of, or acquire or increase a substantial investment in, an entity that engages in an activity described in paragraph 441(1)(d) or (d.1); or
+	- **(d)** acquire control of, or acquire or increase a substantial investment in, an entity that engages in Canada in an activity described in paragraph 441(1)(d);
+	- **(d.1)** acquire control of, or acquire or increase a substantial investment in, an entity that engages in an activity described in paragraph 441(1)(d.1); or
 	- **(e)** acquire control of, or acquire or increase a substantial investment in, an entity engaging in an activity prescribed for the purposes of paragraph (2)(f).
 
 **Superintendent’s approval**
@@ -21399,7 +21548,7 @@ no person shall, in person or by proxy, exercise the voting rights attached to t
 **Exception**
 
 - **(7)** Subsection (6) does not apply in respect of a particular transaction if
-	- **(a)** the insurance holding company is acquiring control of an entity whose business includes an activity referred to in paragraph (2)(b), other than a specialized financing entity;
+	- **(a)** the insurance holding company is acquiring control of an entity, other than a specialized financing entity, and the only reason for which the insurance holding company would, but for this subsection, require approval for the acquisition is that the entity carries on activities referred to in paragraph (2)(b);
 	- **(b)** the insurance holding company is acquiring control of an entity whose activities are limited to the activities of a factoring entity or a financial leasing entity; or
 	- **(c)** the Minister has approved the transaction under subsection (5) or is deemed to have approved it under subsection 972(1).
 
@@ -21420,7 +21569,7 @@ no person shall, in person or by proxy, exercise the voting rights attached to t
 **Subsections do not apply**
 
 - **(11)** If an insurance holding company controls, within the meaning of paragraph 3(1)(a), (b) or (c) an entity, subsections (5) and (6) do not apply in respect of any subsequent increases by the insurance holding company of its substantial investment in the entity so long as the insurance holding company continues to control the entity.
-> 2001, c. 9, s. 465.
+> 2001, c. 9, s. 465; 2007, c. 6, ss. 326, 336(F).
 
 
 
@@ -21482,14 +21631,14 @@ no person shall, in person or by proxy, exercise the voting rights attached to t
 
 **Temporary investment**
 
-- **(3)** If an insurance holding company, by way of temporary investment, acquires control of, or acquires or increases a substantial investment in, an entity for which the approval of the Minister under subsection 971(5) is required, the insurance holding company must, within 90 days after acquiring control or after acquiring or increasing the substantial investment,
+- **(3)** If an insurance holding company, by way of temporary investment, acquires control of, or acquires or increases a substantial investment in, an entity for which the approval of the Minister would have been required under subsection 971(5) if the insurance holding company had acquired the control, or acquired or increased the substantial investment, under section 971, the insurance holding company must, within 90 days after acquiring control or after acquiring or increasing the substantial investment,
 	- **(a)** apply to the Minister for approval to retain control of the entity or to continue to hold the substantial investment in the entity for a period specified by the Minister or for an indeterminate period on any terms and conditions that the Minister considers appropriate; or
 	- **(b)** do all things necessary to ensure that, on the expiry of the 90 days, it no longer controls the entity or does not have a substantial investment in the entity.
 
 **Indeterminate extension**
 
-- **(4)** If an insurance holding company, by way of temporary investment, acquires control of, or acquires or increases a substantial investment in, an entity for which the approval of the Superintendent under subsection 971(6) is required, the Superintendent may, in the case of any particular insurance holding company that makes an application under this subsection, permit the insurance holding company to retain control of the entity or to continue to hold the substantial investment in the entity for an indeterminate period, on any terms and conditions that the Superintendent considers necessary.
-> 2001, c. 9, s. 465.
+- **(4)** If an insurance holding company, by way of temporary investment, acquires control of, or acquires or increases a substantial investment in, an entity for which the approval of the Superintendent would have been required under subsection 971(6) if the insurance holding company had acquired the control, or acquired or increased the substantial investment, under section 971, the Superintendent may, on application, permit the insurance holding company to retain control of the entity or to continue to hold the substantial investment in the entity for an indeterminate period, on any terms and conditions that the Superintendent considers appropriate.
+> 2001, c. 9, s. 465; 2007, c. 6, s. 327.
 
 
 
@@ -21741,11 +21890,15 @@ where
 - **B** is the total value of all assets that the insurance holding company and its subsidiaries acquired from or transferred to that person in the twelve months ending immediately before the acquisition or transfer; and
 - **C** is ten per cent of the total value of the assets of the insurance holding company, as shown in the last annual statement of the insurance holding company prepared before the acquisition or transfer.
 
+**Approval of series of transactions**
+
+- **(1.1)** The Superintendent may, for the purposes of subsection (1), approve a transaction or series of transactions relating to the acquisition or transfer of assets that may be entered into with a person, or with persons of any class of persons, regardless of whether those persons are known at the time of the granting of the approval or not.
+
 **Exception**
 
-- **(2)** The prohibition referred to in subsection (1) does not apply to
-	- **(a)** an asset that is a debt obligation referred to in subparagraphs (b)(i) to (v) of the definition “commercial loan” in subsection 490(1); or
-	- **(b)** a transaction or series of transactions by a subsidiary of the insurance holding company with a financial institution as a result of the subsidiary’s participation in one or more syndicated loans with that financial institution.
+- **(2)** Subsection (1) does not apply in respect of
+	- **(a)** an asset that is a debt obligation referred to in subparagraphs (b)(i) to (v) of the definition ***commercial loan*** in subsection 490(1); or
+	- **(b)** assets acquired or transferred under a transaction or series of transactions by a subsidiary of the insurance holding company with a financial institution as a result of the subsidiary’s participation in one or more syndicated loans with that financial institution.
 
 **Exception**
 
@@ -21757,7 +21910,7 @@ where
 
 - **(4)** For the purposes of “A” in subsection (1), the value of the assets is
 	- **(a)** in the case of assets that are acquired, the purchase price of the assets or, if the assets are shares of, or ownership interests in, an entity the assets of which will be included in the annual statement of the insurance holding company after the acquisition, the fair market value of the assets; and
-	- **(b)** in the case of assets that are transferred, the book value of the assets as stated in the last annual statement of the insurance holding company prepared before the transfer, or if the assets are shares of, or ownership interests in, an entity the assets of which were included in the last annual statement of the insurance holding company before the transfer, the value of the assets as stated in the annual statement.
+	- **(b)** in the case of assets that are transferred, the value of the assets as reported in the last annual statement of the insurance holding company prepared before the transfer or, if the value of the assets is not reported in that annual statement, the value of the assets as it would be reported in the annual statement of the insurance holding company if the annual statement had been prepared, in accordance with the accounting principles referred to in subsection 887(4), immediately before the transfer.
 
 **Total value of all assets**
 
@@ -21765,8 +21918,8 @@ where
 
 **Total value of all assets**
 
-- **(6)** For the purposes of subsection (1), the total value of all assets that the insurance holding company or any of its subsidiaries has transferred during the period of twelve months referred to in subsection (1) is the book value of the assets as stated in the last annual statement of the insurance holding company prepared before the transfer, or if the assets are shares of, or ownership interests in, an entity the assets of which were included in the last annual statement of the insurance holding company before the transfer, the value of the assets of the entity as stated in the annual statement.
-> 2001, c. 9, s. 465.
+- **(6)** For the purposes of subsection (1), the total value of all assets that the insurance holding company or any of its subsidiaries has transferred during the 12-month period referred to in subsection (1) is the total of the value of each of those assets as reported in the last annual statement of the insurance holding company prepared before the transfer of the asset or, if the value of any of those assets is not reported in that annual statement, as it would be reported in the annual statement of the insurance holding company if the annual statement had been prepared, in accordance with the accounting principles referred to in subsection 887(4), immediately before the transfer of the asset.
+> 2001, c. 9, s. 465; 2007, c. 6, s. 328.
 
 
 
@@ -21837,10 +21990,10 @@ But if the loan or investment would be precluded or limited by this Division, th
 	- **(b)** a bank;
 	- **(c)** an entity that is controlled by a bank holding company or in which a bank holding company has a substantial investment;
 	- **(d)** a trust, loan or insurance corporation incorporated under an Act of Parliament or of the legislature of a province;
-	- **(e)** a financial institution that is described in paragraph (g) of the definition “financial institution” in section 2;
+	- **(e)** a financial institution that is described in paragraph (g) of the definition ***financial institution*** in section 2;
 	- **(f)** an entity referred to in paragraph 971(1)(f) or (h); or
 	- **(g)** a prescribed entity.
-> 2001, c. 9, s. 465.
+> 2001, c. 9, s. 465; 2007, c. 6, s. 329(F).
 
 
 
@@ -22353,42 +22506,114 @@ together with such other information about the background, business record and e
 
 
 
-### Approvals: Terms, Conditions and Undertakings
+### Approvals
 
 
 
-**Definition of “approval”**
+**Definition of approval**
 
-**1016** 
+**1016** In sections 1016.1 to 1016.6, ***approval*** includes any consent, designation, order, exemption, extension or other permission granted by the Minister or the Superintendent under this Act, and includes the issuance of letters patent.
+> 2001, c. 9, s. 465; 2007, c. 6, s. 330.
 
-- **(1)** In this section, ***approval*** includes any consent, order, exemption, extension or other permission granted by the Minister or the Superintendent under this Act, and includes the issuance of letters patent.
+
+
+
+
+**Matters to take into account — Minister**
+
+**1016.1** 
+
+- **(1)** In addition to any matters or conditions provided for in this Act that are relevant to the granting of an approval, the Minister may, in considering whether to grant the approval, take into account all matters that he or she considers relevant in the circumstances, including
+	- **(a)** national security; and
+	- **(b)** Canada’s international relations and its international legal obligations.
+
+**Matters to take into account — Superintendent**
+
+- **(2)** In addition to any matters or conditions provided for in this Act that are relevant to the granting of an approval and to any prudential considerations that the Superintendent considers relevant in the circumstances, the Superintendent may, in considering whether to grant the approval, take into account
+	- **(a)** national security; and
+	- **(b)** Canada’s international relations and its international legal obligations.
+> 2007, c. 6, s. 330.
+
+
+
+
 
 **Minister — terms, conditions and undertakings**
 
-- **(2)** In addition to any other action that may be taken under this Act, the Minister may, in granting an approval, impose such terms and conditions or require such undertaking as the Minister considers necessary, including any terms, conditions or undertaking specified by the Superintendent to maintain or improve the safety and soundness of any financial institution regulated under an Act of Parliament and to which the approval relates or that may be affected by it.
+**1016.2** 
+
+- **(1)** In addition to any other action that may be taken under this Act, the Minister may, in granting an approval, impose any terms and conditions or require any undertaking that the Minister considers appropriate, including any terms, conditions or undertakings specified by the Superintendent to maintain or improve the safety and soundness of any financial institution regulated under an Act of Parliament to which the approval relates or that might be affected by it.
 
 **Superintendent — terms, conditions and undertakings**
 
-- **(3)** In addition to any other action that may be taken under this Act, the Superintendent may, in granting an approval, impose such terms and conditions or require such undertaking as the Superintendent considers necessary.
+- **(2)** In addition to any other action that may be taken under this Act, the Superintendent may, in granting an approval, impose any terms and conditions or require any undertaking that the Superintendent considers appropriate.
+> 2007, c. 6, s. 330.
 
-**Effect of non-compliance on approval**
 
-- **(4)** Unless otherwise expressly provided in this Act, a failure to comply with a term or condition or an undertaking imposed or required under any provision of this Act does not invalidate the approval to which the term, condition or undertaking relates.
 
-**Non-compliance**
 
-- **(5)** In addition to any other action that may be taken under this Act, in case of non-compliance by a person with a term, condition or undertaking imposed or required under any provision of this Act, the Minister or Superintendent, as the case may be, may
-	- **(a)** revoke, suspend or amend the approval to which the term, condition or undertaking relates; or
-	- **(b)** apply to a court for an order directing the person to comply with the term, condition or undertaking, and on such application the court may so order and make any other order it thinks fit.
+
+**Revocation, suspension or amendment of approval — Minister**
+
+**1016.3** 
+
+- **(1)** The Minister may revoke, suspend or amend any approval granted by the Minister if he or she considers it appropriate to do so. In deciding whether to take any of those actions, the Minister may take into account all matters that he or she considers relevant in the circumstances, including
+	- **(a)** national security; and
+	- **(b)** Canada’s international relations and its international legal obligations.
+
+**Revocation, suspension or amendment of approval — Superintendent**
+
+- **(2)** The Superintendent may revoke, suspend or amend any approval granted by the Superintendent if he or she considers it appropriate to do so. In deciding whether to take any of those actions, the Superintendent may take into account any prudential considerations that he or she considers relevant in the circumstances and
+	- **(a)** national security; and
+	- **(b)** Canada’s international relations and its international legal obligations.
 
 **Representations**
 
-- **(6)** Before taking any action under subsection (5), the Minister or the Superintendent, as the case may be, shall afford the person concerned a reasonable opportunity to make representations.
+- **(3)** Before taking any action under this section, the Minister or the Superintendent, as the case may be, shall give the person concerned a reasonable opportunity to make representations.
+> 2007, c. 6, s. 330.
+
+
+
+
+
+**Effect of non-compliance on approval**
+
+**1016.4** 
+
+- **(1)** Unless otherwise expressly provided in this Act, a failure to comply with a term, condition or undertaking imposed or required under any provision of this Act does not invalidate the approval to which the term, condition or undertaking relates.
+
+**Non-compliance**
+
+- **(2)** In addition to any other action that may be taken under this Act, in the case of non-compliance by a person with a term, condition or undertaking imposed or required under any provision of this Act, the Minister or the Superintendent, as the case may be, may
+	- **(a)** revoke, suspend or amend the approval to which the term, condition or undertaking relates; or
+	- **(b)** apply to a court for an order directing the person to comply with the term, condition or undertaking, and on such an application the court may make the order and any other order that it thinks fit.
+
+**Representations**
+
+- **(3)** Before taking any action under subsection (2), the Minister or the Superintendent, as the case may be, shall give the person concerned a reasonable opportunity to make representations.
 
 **Revocation, suspension or amendment**
 
-- **(7)** At the request of the person concerned, the Minister or the Superintendent, as the case may be, may revoke, suspend or amend any terms or conditions imposed by him or her or may revoke or suspend an undertaking given to him or her or approve its amendment.
-> 2001, c. 9, s. 465.
+- **(4)** At the request of the person concerned, the Minister or the Superintendent, as the case may be, may revoke, suspend or amend any terms or conditions imposed by him or her and may revoke or suspend an undertaking given to him or her or approve its amendment.
+> 2007, c. 6, s. 330.
+
+
+
+
+
+**Multiple approval — other approvals**
+
+**1016.5** The Minister or the Superintendent may grant more than one approval, other than letters patent, in a single instrument if he or she considers it appropriate to do so, and if the Minister or Superintendent does so, he or she may specify different effective dates for each of the approvals.
+> 2007, c. 6, s. 330.
+
+
+
+
+
+**Exemption in relation to notices of intention**
+
+**1016.6** The Superintendent may, on application, exempt an applicant or applicants from the provisions of this Act respecting the publication of a notice of intention in respect of applications for approvals and impose any terms and conditions respecting the publication of the notice of intention that he or she considers appropriate.
+> 2007, c. 6, s. 330.
 
 
 
@@ -22427,7 +22652,7 @@ together with such other information about the background, business record and e
 - **(1)** The following applications to the Superintendent must contain the information, material and evidence that the Superintendent may require:
 	- **(a)** applications for approval under subsection 69(1), 76(2), 79(4), 83(5), 84(1), 178(1) or 238(3), section 453, subsection 472(1), 495(8) or (12), 498(1) or (2) or 512(1), subparagraph 519(2)(b)(vi), section 522, subsection 523(2), 527(3) or (4), 528.3(1) or 542.03(4), section 542.09 or subsection 544.1(2), 557(1) or (2), 569(1), 597(1), 748(1), 755(2), 757(4), 762(1), 805(1), 851(3), 964(1), 971(6) or (10), 974(1) or 987(1);
 	- **(b)** applications for consent under subsection 75(1) or 754(1);
-	- **(c)** applications for exemptions under subsection 164.04(3), 268(1), 789(3) or 876(1); and
+	- **(c)** applications for exemptions under subsection 164.04(3) or 789(3); and
 	- **(d)** applications for extensions of time under subsection 498(3) or (5), 499(4), 500(4), 557(3) or (5), 558(4), 559(4), 974(2) or (4), 975(3) or 976(3).
 
 **Receipt**
@@ -22447,7 +22672,49 @@ together with such other information about the background, business record and e
 **Deemed approval**
 
 - **(5)** If the applicant does not receive the notice required by subsection (3) or, where applicable, subsection (4), within the required period, the Superintendent is deemed to have approved the application and granted the approval, consent, exemption or extension to which the application relates, regardless of whether the approval, consent, extension or exemption is to be in writing or not.
-> 2001, c. 9, s. 465.
+> 2001, c. 9, s. 465; 2007, c. 6, s. 331.
+
+
+
+
+
+### Applications for Certain Approvals
+
+
+
+**Application for certain approvals**
+
+**1019.1** 
+
+- **(1)** An application for the prior written approval of the Minister in respect of any of the following provisions must be filed with the Superintendent and contain the information, material and evidence that the Superintendent may require:
+	- **(a)** paragraphs 441(1)(d), (d.1) and (h);
+	- **(b)** paragraphs 495(7)(c), (d) and (d.1);
+	- **(c)** paragraph 542(2)(a);
+	- **(d)** subsection 554(5), in relation to an entity that is engaging in any activity referred to in section 441; and
+	- **(e)** paragraphs 971(5)(c), (d) and (d.1).
+
+**Certification of receipt of application**
+
+- **(2)** If, in the opinion of the Superintendent, the application contains all the required information, the Superintendent must refer it to the Minister, together with his or her analysis in relation to the application, and send a receipt to the applicant certifying the date on which the application was referred to the Minister.
+
+**Incomplete application**
+
+- **(3)** If, in the opinion of the Superintendent, the application is incomplete, the Superintendent must send a notice to the applicant specifying the information required by the Superintendent to complete it.
+
+**Notice of decision**
+
+- **(4)** Subject to subsection (5), the Minister must, within 30 days after the certified date referred to in subsection (2), send to the applicant
+	- **(a)** a notice approving the application; or
+	- **(b)** if the Minister is not satisfied that the application should be approved, a notice to that effect.
+
+**Extension of period**
+
+- **(5)** If the Minister is unable to complete the consideration of an application within the 30-day period, the Minister must, within that period, send a notice to the applicant informing the applicant that the Minister has extended the period for a further period set out in the notice.
+
+**Deemed approval**
+
+- **(6)** If the Minister does not send the notice referred to in subsection (4) or, where applicable, subsection (5), within the required period, the Minister is deemed to have approved the application.
+> 2007, c. 6, s. 332.
 
 
 
@@ -22537,6 +22804,15 @@ together with such other information about the background, business record and e
 
 **1023** Every person who, without reasonable cause, contravenes any provision of this Act or the regulations is guilty of an offence.
 > 2001, c. 9, s. 465.
+
+
+
+
+
+**False or misleading information**
+
+**1023.1** Every person who knowingly provides false or misleading information in relation to any matter under this Act or the regulations is guilty of an offence.
+> 2007, c. 6, s. 333.
 
 
 
@@ -22689,263 +22965,83 @@ together with such other information about the background, business record and e
 **(Section 12)**
 ## Classes of Insurance
 
-**accident and sickness insuranceaccidents et maladie**
 
 ***accident and sickness insurance*** means insurance
-
-**(a)** against loss resulting from bodily injury to, or the death of, a person caused by an accident;
-
-
-
-**(b)** under which an insurer undertakes to pay a sum or sums of money in the event of bodily injury to, or the death of, a person caused by an accident;
-
-
-
-**(c)** against loss resulting from the sickness or disability of a person not caused by an accident, but excludes loss resulting from the death of the person as a consequence of sickness;
-
-
-
-**(d)** under which an insurer undertakes to pay a sum or sums of money in the event of the sickness or disability of a person not caused by an accident; or
-
-
-
-**(e)** under which an insurer undertakes to pay a sum of money in respect of the health care —  including dental care and preventative care —  of a person.
-
-
-
-
-
-**aircraft insuranceassurance-aviation**
+- **(a)** against loss resulting from bodily injury to, or the death of, a person caused by an accident;
+- **(b)** under which an insurer undertakes to pay a sum or sums of money in the event of bodily injury to, or the death of, a person caused by an accident;
+- **(c)** against loss resulting from the sickness or disability of a person not caused by an accident, but excludes loss resulting from the death of the person as a consequence of sickness;
+- **(d)** under which an insurer undertakes to pay a sum or sums of money in the event of the sickness or disability of a person not caused by an accident; or
+- **(e)** under which an insurer undertakes to pay a sum of money in respect of the health care — including dental care and preventative care — of a person.
 
 ***aircraft insurance*** means insurance against
-
-**(a)** liability arising out of bodily injury to, or the death of, a person, or the loss of, or damage to, property, in each case caused by an aircraft or the use of an aircraft; or
-
-**(b)** the loss of, the loss of use of, or damage to, an aircraft.
-
-
-
-
-
-
-
-**automobile insuranceautomobile**
+- **(a)** liability arising out of bodily injury to, or the death of, a person, or the loss of, or damage to, property, in each case caused by an aircraft or the use of an aircraft; or
+- **(b)** the loss of, the loss of use of, or damage to, an aircraft.
 
 ***automobile insurance*** means insurance
-
-**(a)** against liability arising out of bodily injury to, or the death of, a person, or the loss of, or damage to, property, in each case caused by an automobile or the use or operation of an automobile;
-
-
-
-**(b)** against the loss of, the loss of use of, or damage to, an automobile; or
-
-
-
-**(c)** that falls within paragraph (a) or (b) of the class of accident and sickness insurance, if the accident is caused by an automobile or the use or operation of an automobile, whether or not liability exists in respect of the accident, and the policy includes insurance against liability arising out of bodily injury to, or the death of, a person caused by an automobile or the use or operation of an automobile.
-
-
-
-
-
-**boiler and machinery insurancechaudières et panne de machines**
+- **(a)** against liability arising out of bodily injury to, or the death of, a person, or the loss of, or damage to, property, in each case caused by an automobile or the use or operation of an automobile;
+- **(b)** against the loss of, the loss of use of, or damage to, an automobile; or
+- **(c)** that falls within paragraph (a) or (b) of the class of accident and sickness insurance, if the accident is caused by an automobile or the use or operation of an automobile, whether or not liability exists in respect of the accident, and the policy includes insurance against liability arising out of bodily injury to, or the death of, a person caused by an automobile or the use or operation of an automobile.
 
 ***boiler and machinery insurance*** means insurance
-
-**(a)** against liability arising out of bodily injury to, or the death of, a person, or the loss of, or damage to, property, or against the loss of, or damage to, property, in each case caused by the explosion or rupture of, or accident to, pressure vessels of any kind or pipes, engines and machinery connected to or operated by those pressure vessels; or
-
-
-
-**(b)** against liability arising out of bodily injury to, or the death of, a person, or the loss of, or damage to, property, or against the loss of, or damage to, property, in each case caused by a breakdown of machinery.
-
-
-
-
-
-**credit insurancecrédit**
+- **(a)** against liability arising out of bodily injury to, or the death of, a person, or the loss of, or damage to, property, or against the loss of, or damage to, property, in each case caused by the explosion or rupture of, or accident to, pressure vessels of any kind or pipes, engines and machinery connected to or operated by those pressure vessels; or
+- **(b)** against liability arising out of bodily injury to, or the death of, a person, or the loss of, or damage to, property, or against the loss of, or damage to, property, in each case caused by a breakdown of machinery.
 
 ***credit insurance*** means insurance against loss to a person who has granted credit if the loss is the result of the insolvency or default of the person to whom the credit was given.
 
-
-
-**credit protection insuranceprotection de crédit**
-
 ***credit protection insurance*** means insurance under which an insurer undertakes to pay off credit balances or debts of an individual, in whole or in part, in the event of an impairment or potential impairment in the individual’s income or ability to earn an income.
 
-
-
-**fidelity insurancedétournements**
-
 ***fidelity insurance*** means
+- **(a)** insurance against loss caused by the theft, the abuse of trust or the unfaithful performance of duties, by a person in a position of trust; and
+- **(b)** insurance under which an insurer undertakes to guarantee the proper fulfilment of the duties of an office.
 
-**(a)** insurance against loss caused by the theft, the abuse of trust or the unfaithful performance of duties, by a person in a position of trust; and
-
-
-
-**(b)** insurance under which an insurer undertakes to guarantee the proper fulfilment of the duties of an office.
-
-
-
-
-
-**fire insuranceincendie**
-
-***fire insurance*** means insurance against the loss of, or damage to, property caused by fire, lightning, an explosion due to ignition, smoke or the breakage of, or the leakage from, a sprinkler or other fire protection equipment or system.
-
-
-
-**hail insurancegrêle**
+***fire insurance***[Repealed, 2007, c. 6, s. 334]
 
 ***hail insurance*** means insurance against the loss of, or damage to, crops in the field caused by hail.
 
-
-
-**legal expense insurancefrais juridiques**
-
-***legal expense insurance*** means insurance against the costs incurred by a person or persons for legal services specified in the policy, including any retainer and fees incurred for the services, and other costs incurred in respect of the provision of the services.
-
-
-
-**liability insuranceresponsabilité**
+***legal expenses insurance*** means insurance against the costs incurred by a person or persons for legal services specified in the policy, including any retainer and fees incurred for the services, and other costs incurred in respect of the provision of the services.
 
 ***liability insurance*** means insurance, other than insurance that falls within another class of insurance,
-
-**(a)** against liability arising out of bodily injury to, or the disability or death of, a person, including an employee;
-
-
-
-**(b)** against liability arising out of the loss of, or damage to, property; or
-
-
-
-**(c)** if the policy includes the insurance described in paragraph (a), against expenses arising out of bodily injury to a person other than the insured or a member of the insured’s family, whether or not liability exists.
-
-
-
-
-
-**life insuranceassurance-vie**
+- **(a)** against liability arising out of bodily injury to, or the disability or death of, a person, including an employee;
+- **(b)** against liability arising out of the loss of, or damage to, property; or
+- **(c)** if the policy includes the insurance described in paragraph (a), against expenses arising out of bodily injury to a person other than the insured or a member of the insured’s family, whether or not liability exists.
 
 ***life insurance***
+- **(a)** means any insurance that is payable
+	- **(i)** on death,
+	- **(ii)** on the happening of an event or contingency dependent on human life,
+	- **(iii)** at a fixed or determinable future time, or
+	- **(iv)** for a term dependent on human life; and
+- **(b)** without restricting the generality of paragraph (a), includes insurance under which an insurer
+	- **(i)** undertakes to pay an additional sum of money in the event of the death by accident of the person whose life is insured,
+	- **(ii)** undertakes to pay a sum of money or to provide other benefits in the event that the person whose life is insured becomes disabled as a result of bodily injury or disease, or
+	- **(iii)** undertakes to provide an annuity — or what would be an annuity except that the periodic payments may be unequal in amount — for a term dependent solely or partly on the life of a person.
 
-**(a)** means any insurance that is payable
-
-**(i)** on death,
-
-**(ii)** on the happening of an event or contingency dependent on human life,
-
-**(iii)** at a fixed or determinable future time, or
-
-**(iv)** for a term dependent on human life; and
-
-
-
-
-
-
-
-
-
-
-
-**(b)** without restricting the generality of paragraph (a), includes insurance under which an insurer
-
-**(i)** undertakes to pay an additional sum of money in the event of the death by accident of the person whose life is insured,
-
-**(ii)** undertakes to pay a sum of money or to provide other benefits in the event that the person whose life is insured becomes disabled as a result of bodily injury or disease, or
-
-**(iii)** undertakes to pay endowment funds at a fixed or determinable future time if the person whose life is insured is then alive, or at the person’s death if they die before that time.
-
-
-
-
-
-
-
-
-
-
-
-**loss of employment insuranceperte d’emploi**
-
-***loss of employment insurance*** means insurance against the involuntary loss of employment by a person, the limit of which insurance is all or part of the debt of the person.
-
-
-
-**marine insurancemaritimes et fluviales**
+***loss of employment insurance***[Repealed, 2007, c. 6, s. 334]
 
 ***marine insurance*** means insurance against
-
-**(a)** liability arising out of
-
-
-
-**(i)** bodily injury to, or the death of, a person, or
-
-
-
-**(ii)** the loss of, or damage to, property, or
-
-
-
-**(b)** the loss of, or damage to, property,
-
-
+- **(a)** liability arising out of
+	- **(i)** bodily injury to, or the death of, a person, or
+	- **(ii)** the loss of, or damage to, property, or
+- **(b)** the loss of, or damage to, property,
 
 occurring during a voyage or marine adventure at sea or on an inland waterway, or during a delay or a transit other than by water that is incidental to a voyage or marine adventure at sea or on an inland waterway.
 
-
-
-
-
-**mortgage insurancehypothèque**
-
 ***mortgage insurance*** means insurance against loss caused by default on the part of a borrower under a loan secured by a mortgage or charge on, or other security interest in, real property.
-
-
-
-**other approved products insuranceautres produits approuvés**
 
 ***other approved products insurance*** means insurance against risks that do not fall within another class of insurance.
 
-
-
-**property insuranceassurances de biens**
-
 ***property insurance*** means insurance against the loss of, or damage to, property and includes insurance against loss caused by forgery.
-
-
-
-**surety insurancecaution**
 
 ***surety insurance*** means insurance under which an insurer undertakes to guarantee the due performance of a contract or undertaking or the payment of a penalty or indemnity for any default.
 
-
-
-**title insurancetitres**
-
 ***title insurance*** means insurance against loss or damage caused by
-
-**(a)** the existence of a mortgage, charge, lien, encumbrance, servitude or any other restriction on real property;
-
-
-
-**(b)** the existence of a mortgage, charge, lien, pledge, encumbrance or any other restriction on personal property;
-
+- **(a)** the existence of a mortgage, charge, lien, encumbrance, servitude or any other restriction on real property;
+- **(b)** the existence of a mortgage, charge, lien, pledge, encumbrance or any other restriction on personal property;
+- **(c)** a defect in any document that evidences the creation of any restriction referred to in paragraph (a) or (b);
+- **(d)** a defect in the title to property; or
+- **(e)** any other matter affecting the title to property or affecting the right to the use and enjoyment of property.
 
 
-**(c)** a defect in any document that evidences the creation of any restriction referred to in paragraph (a) or (b);
-
-
-
-**(d)** a defect in the title to property; or
-
-
-
-**(e)** any other matter affecting the title to property or affecting the right to the use and enjoyment of property.
-
-
-
-
-> 1991, c. 47, Sch.; 1997, c. 15, s. 333; SOR/2006–157.
+> 1991, c. 47, Sch.; 1997, c. 15, s. 333; SOR/2006–157; 2007, c. 6, s. 334.
 
 
