@@ -197,8 +197,9 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 ***real property*** includes a leasehold interest in real property;
 
 ***recorded address*** means
-- **(a)** in relation to a member of an association, the latest postal address of the member according to the members register of the association, and
-- **(b)** in relation to a shareholder of an association, the latest postal address of the person according to the central securities register of the association;
+- **(a)** in relation to a member of an association, the latest postal address of the member according to the members register of the association,
+- **(b)** in relation to a shareholder of an association, the latest postal address of the person according to the central securities register of the association, and
+- **(c)** in relation to any other person in respect of a retail association, the latest postal address of the person according to the records of the branch concerned;
 
 ***registered form***, in respect of a security, means a security in registered form as determined in accordance with subsection 90(4);
 
@@ -244,7 +245,7 @@ Version anglaise seulement***share*** does not include a membership share;
 ***transfer***, in respect of securities, includes a transmission by operation of law;
 
 ***voting share*** means a share of any class of shares of a body corporate carrying voting rights under all circumstances or by reason of an event that has occurred and is continuing or by reason of a condition that has been fulfilled.
-> 1991, c. 48, ss. 2, 496, 497; 1992, c. 51, s. 31; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 24, c. 28, s. 115; 2000, c. 12, s. 84; 2001, c. 9, s. 248, c. 27, s. 234; 2002, c. 7, s. 136(E); 2005, c. 54, s. 140.
+> 1991, c. 48, ss. 2, 496, 497; 1992, c. 51, s. 31; 1998, c. 30, ss. 13(F), 15(E); 1999, c. 3, s. 24, c. 28, s. 115; 2000, c. 12, s. 84; 2001, c. 9, s. 248, c. 27, s. 234; 2002, c. 7, s. 136(E); 2005, c. 54, s. 140; 2007, c. 6, s. 135.
 
 
 
@@ -396,6 +397,12 @@ in such number as to increase the percentage of shares of that class that are be
 
 - **(3)** Where in the opinion of the Superintendent it is reasonable to conclude that an agreement, commitment or understanding referred to in subsection (1) exists by or among two or more members, the Superintendent may designate those members as members who have agreed to act jointly or in concert.
 
+**Contravention**
+
+- **(4)** A member contravenes section 52 if the member agrees to act jointly or in concert with one or more other members in such a manner that a deemed single member contravenes that section.
+> 1991, c. 48, s. 10; 2007, c. 6, s. 136.
+
+
 
 
 
@@ -425,6 +432,12 @@ shall be deemed to be an agreement, commitment or understanding referred to in s
 **Designation**
 
 - **(4)** Where in the opinion of the Superintendent it is reasonable to conclude that an agreement, commitment or understanding referred to in subsections (1) and (2) exists by or among two or more persons, the Superintendent may designate those persons as persons who have agreed to act jointly or in concert.
+
+**Contravention**
+
+- **(5)** A person contravenes a provision of Part VIII if the person agrees to act jointly or in concert with one or more other persons in such a manner that a deemed single person contravenes the provision.
+> 1991, c. 48, s. 11; 2007, c. 6, s. 137.
+
 
 
 
@@ -588,12 +601,16 @@ the acquisition is deemed to cause the person to increase a substantial investme
 
 **22** 
 
-- **(1)** Subject to subsection (2), associations shall not carry on business after April 24, 2007, except that if Parliament dissolves on that day or at any time within the three-month period before that day, associations may continue to carry on business until the day that is one hundred and eighty days after the first day of the first session of the next Parliament.
+- **(1)** Subject to subsections (2) and (3), associations shall not carry on business after the day that is the fifth anniversary of the day on which this section comes into force.
 
 **Extension**
 
 - **(2)** The Governor in Council may, by order, extend by up to six months the time during which associations may continue to carry on business. No more than one order may be made under this subsection.
-> 1991, c. 48, s. 22; 1997, c. 15, s. 116; 2001, c. 9, s. 254; 2006, c. 4, s. 200.
+
+**Exception**
+
+- **(3)** If Parliament dissolves on the fifth anniversary of the day on which this section comes into force, on any day within the three-month period before that anniversary or on any day within an extension under subsection (2), associations may continue to carry on business for 180 days after the first day of the first session of the next Parliament.
+> 1991, c. 48, s. 22; 1997, c. 15, s. 116; 2001, c. 9, s. 254; 2006, c. 4, s. 200; 2007, c. 6, s. 138.
 
 
 
@@ -623,9 +640,9 @@ the acquisition is deemed to cause the person to increase a substantial investme
 - **(a)** an association; or
 - **(b)** persons who are entitled to be members of an association under Part IV that include at least
 	- **(i)** two central cooperative credit societies not all of which are incorporated under the laws of one province,
-	- **(ii)** ten local cooperative credit societies not all of which are incorporated under the laws of one province, or
+	- **(ii)** two local cooperative credit societies not all of which are incorporated under the laws of one province, or
 	- **(iii)** two or more leagues not all of which are incorporated under the laws of one province.
-> 1991, c. 48, s. 24; 2001, c. 9, s. 256.
+> 1991, c. 48, s. 24; 2001, c. 9, s. 256; 2007, c. 6, s. 139.
 
 
 
@@ -824,15 +841,24 @@ the acquisition is deemed to cause the person to increase a substantial investme
 
 **Effects of continuance**
 
-**31.6** Where a body corporate is continued as an association,
-- **(a)** the property of the body corporate continues to be the property of the association;
-- **(b)** the association continues to be liable for the obligations of the body corporate;
-- **(c)** an existing cause of action or claim by or against the body corporate or any liability of the body corporate to prosecution is unaffected;
-- **(d)** a civil, criminal or administrative action or proceeding pending by or against the body corporate may continue to be prosecuted by or against the association;
-- **(e)** a conviction against, or any ruling, order or judgment in favour of or against the body corporate may be enforced by or against the association;
-- **(f)** a person who, on the day the body corporate becomes an association, was the holder of a security issued by the body corporate is not deprived of any right or privilege available to the person at that time in respect of the security or relieved of any liability in respect of the security, but any such right or privilege may be exercised only in accordance with this Act; and
-- **(g)** the by-laws of the body corporate, except those that are in conflict with this Act, continue as the by-laws of the association.
-> 2001, c. 9, s. 258.
+**31.6** 
+
+- **(1)** Where a body corporate is continued as an association,
+	- **(a)** the property of the body corporate continues to be the property of the association;
+	- **(b)** the association continues to be liable for the obligations of the body corporate;
+	- **(c)** an existing cause of action or claim by or against the body corporate or any liability of the body corporate to prosecution is unaffected;
+	- **(d)** a civil, criminal or administrative action or proceeding pending by or against the body corporate may continue to be prosecuted by or against the association;
+	- **(e)** a conviction against, or any ruling, order or judgment in favour of or against the body corporate may be enforced by or against the association;
+	- **(f)** a person who, on the day the body corporate becomes an association, was the holder of a security issued by the body corporate is not deprived of any right or privilege available to the person at that time in respect of the security or relieved of any liability in respect of the security, but any such right or privilege may be exercised only in accordance with this Act; and
+	- **(g)** the by-laws of the body corporate, except those that are in conflict with this Act, continue as the by-laws of the association.
+
+**Membership shares**
+
+- **(2)** When a body corporate is continued as an association,
+	- **(a)** its common shares are deemed to be membership shares to which are attached the rights, privileges and restrictions set out in this Act;
+	- **(b)** the holders of the common shares of the body corporate are deemed to be the members of the association; and
+	- **(c)** any agreement made before continuance under which the holders of any common shares of the body corporate have agreed to vote those shares in a manner provided in the agreement is of no effect.
+> 2001, c. 9, s. 258; 2007, c. 6, s. 140.
 
 
 
@@ -847,7 +873,7 @@ the acquisition is deemed to cause the person to increase a substantial investme
 	- **(b)** continue to have issued and outstanding debt obligations the issue of which is not authorized by this Act if the debt obligations were outstanding at the time the application for the letters patent was made;
 	- **(c)** hold assets that an association is not otherwise permitted by this Act to hold if the assets were held by the body corporate continued as the association at the time the application for the letters patent was made;
 	- **(d)** acquire and hold assets that an association is not otherwise permitted by this Act to acquire or hold if the body corporate continued as the association was obliged, at the time the application for the letters patent was made, to acquire those assets; and
-	- **(e)** maintain outside Canada any records or registers required by this Act to be maintained in Canada and maintain and process outside Canada information and data relating to the preparation and maintenance of those records or registers.
+	- **(e)** maintain outside Canada any records or registers required by this Act to be maintained in Canada.
 
 **Duration**
 
@@ -865,7 +891,7 @@ the acquisition is deemed to cause the person to increase a substantial investme
 - **(4)** The Minister shall not grant to an association a permission
 	- **(a)** with respect to matters described in paragraph (1)(b), that purports to be effective more than ten years after the date of the approval for the association to commence and carry on business, unless the Minister is satisfied on the basis of evidence on oath provided by an officer of the association that the association will not be able at law to redeem at the end of the ten years the outstanding debt obligations to which the permission relates; and
 	- **(b)** with respect to matters referred to in paragraphs (1)(c) and (d), that purports to be effective more than ten years after the date of the approval for the association to commence and carry on business.
-> 2001, c. 9, s. 258.
+> 2001, c. 9, s. 258; 2007, c. 6, s. 141.
 
 
 
@@ -880,37 +906,41 @@ the acquisition is deemed to cause the person to increase a substantial investme
 **32** 
 
 - **(1)** An association may
-	- **(a)** apply for letters patent continuing the association as a company under subsection 33(1) of the [Trust and Loan Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2045.md) or amalgamating and continuing the association as a company under section 228 and subsection 234(1) of that Act;
-	- **(b)** apply for letters patent continuing the association as a bank under subsection 35(1) of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md) or amalgamating and continuing the association as a bank under section 223 and subsection 229(1) of that Act;
-	- **(c)** apply for letters patent continuing the association as a bank holding company under subsection 684(1) of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md) or amalgamating and continuing the association as a bank holding company under section 803 and subsection 809(1) of that Act;
-	- **(d)** with the approval of the Minister, apply for a certificate of continuance under section 187 of the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md); or
-	- **(e)** with the approval of the Minister, apply for a certificate of continuance, or a certificate of continuance and a certificate of amalgamation, under section 285 of the [Canada Cooperatives Act](/en/Acts/Statutes%20of%20Canada/1998/c.%201.md).
+	- **(a)** apply, under the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md), for letters patent continuing the association as a bank or a bank holding company under that Act, or amalgamating and continuing the company as a bank or a bank holding company under that Act;
+	- **(b)** apply, with the approval in writing of the Minister, under the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md) for a certificate of continuance as a corporation under that Act;
+	- **(c)** apply, with the approval in writing of the Minister, under the [Canada Cooperatives Act](/en/Acts/Statutes%20of%20Canada/1998/c.%201.md) for a certificate of continuance, or a certificate of continuance and a certificate of amalgamation, as a cooperative under that Act;
+	- **(d)** apply, under the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md), for letters patent continuing the association as a company (other than a mutual company) or an insurance holding company under that Act, or amalgamating and continuing the association as a company (other than a mutual company) or an insurance holding company under that Act; or
+	- **(e)** apply, under the [Trust and Loan Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2045.md), for letters patent continuing the association as a company under that Act, or amalgamating and continuing the association as a company under that Act.
 
 **Conditions for approval**
 
-- **(2)** No approval referred to in paragraph (1)(d) or (e) may be given to an association unless the Minister is satisfied that
-	- **(a)** the application has been authorized by a special resolution of the members; and
-	- **(b)** the association holds no deposits that are insured under the [Canada Deposit Insurance Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-3.md).
-> 1991, c. 48, s. 32; 1998, c. 1, s. 382; 2001, c. 9, s. 259.
-
-
-
-
-
-**Effect of letters patent or certificate**
-
-**33** On the day specified in the letters patent or certificate of continuance referred to in any of paragraphs 32(1)(a) to (e), the Act referred to in the relevant paragraph applies and this Act ceases to apply to the body corporate continued under that Act.
-> 1991, c. 48, s. 33; 1998, c. 1, s. 382; 2001, c. 9, s. 259.
-
-
-
-
+- **(2)** The approval referred to in paragraph (1)(b) or (c) may be given only if the Minister is satisfied that
+	- **(a)** the association has published, once a week for four consecutive weeks in the Canada Gazette and in a newspaper in general circulation at or near the place where the head office of the association is situated, a notice of its intention to apply for the approval;
+	- **(b)** the application has been authorized by a special resolution; and
+	- **(c)** the association does not hold deposits, other than deposits that are made by a member, a person who controls the association or a person who has a significant interest in a class of shares of the association and that are not insured by the Canada Deposit Insurance Corporation.
 
 **Withdrawing application**
 
-**34** If a special resolution authorizing the application for letters patent or a certificate of continuance referred to in any of paragraphs 32(1)(a) to (e) so states, the directors of an association may, without further approval of the members, withdraw the application before it is acted on.
-> 1991, c. 48, s. 34; 2001, c. 9, s. 259.
+- **(3)** If a special resolution authorizing the application for the certificate or letters patent so states, the directors of the association may, without further approval, withdraw the application before it is acted on.
 
+**Restriction on other transfers**
+
+- **(4)** An association may not apply to be continued, or to be amalgamated and continued, as the case may be, as a body corporate other than one referred to in subsection (1).
+> 1991, c. 48, s. 32; 1998, c. 1, s. 382; 2001, c. 9, s. 259; 2007, c. 6, s. 142.
+
+
+
+
+
+**Act ceases to apply**
+
+**33** If an association applies for a certificate or letters patent referred to in section 32 in accordance with that section and the certificate is given or the letters patent are issued, this Act ceases to apply to the association as of the day the certificate or the letters patent take effect.
+> 1991, c. 48, s. 33; 1998, c. 1, s. 382; 2001, c. 9, s. 259; 2007, c. 6, s. 142.
+
+
+
+
+**34** [Repealed, 2007, c. 6, s. 142]
 
 
 
@@ -945,11 +975,11 @@ except where the trade-mark or trade name is being changed or the body corporate
 **Name**
 
 **36** The name of an association shall include
-- **(a)** the word “cooperative” or “coopérative”, along with another word or expression indicating the financial nature of the association,
-- **(b)** the phrase “central credit union”, “credit union central” or “fédération de caisses populaires”, or
-- **(c)** any word or phrase specified by the Minister
-or any combination or derivative thereof.
-> 1991, c. 48, s. 36; 2001, c. 9, s. 260.
+- **(a)** the word “cooperative” or “*coopérative*”, along with another word or expression indicating the financial nature of the association;
+- **(b)** the phrase “central credit union”, “credit union central” or “*fédération de caisses populaires*”;
+- **(c)** any combination or derivative of words and phrases referred to in paragraphs (a) and (b); or
+- **(d)** any word or phrase specified by the Minister.
+> 1991, c. 48, s. 36; 2001, c. 9, s. 260; 2007, c. 6, s. 143.
 
 
 
@@ -957,8 +987,8 @@ or any combination or derivative thereof.
 
 **Affiliated entity**
 
-**37** Despite section 35, an association that is affiliated with another entity may, with the consent of that entity and the approval of the Superintendent, be incorporated with, or change its name to, substantially the same name as that of the affiliated entity.
-> 1991, c. 48, s. 37; 1996, c. 6, s. 50; 2001, c. 9, s. 261.
+**37** Despite section 35, an association that is affiliated with another entity may, with the consent of that entity, be incorporated with, or change its name to, substantially the same name as that of the affiliated entity.
+> 1991, c. 48, s. 37; 1996, c. 6, s. 50; 2001, c. 9, s. 261; 2007, c. 6, s. 143.
 
 
 
@@ -1159,7 +1189,7 @@ that is prohibited by section 35, the Superintendent may, by order, direct the a
 - **(1)** The membership in an association must include at least
 	- **(a)** an association;
 	- **(b)** two central cooperative credit societies not all of which are incorporated under the laws of one province;
-	- **(c)** ten local cooperative credit societies not all of which are incorporated under the laws of one province; or
+	- **(c)** two local cooperative credit societies not all of which are incorporated under the laws of one province; or
 	- **(d)** two or more leagues not all of which are incorporated under the laws of one province.
 
 **Where minimum not attained**
@@ -1167,7 +1197,7 @@ that is prohibited by section 35, the Superintendent may, by order, direct the a
 - **(2)** If, at any time, the membership in an association is not in accordance with subsection (1), the association shall without delay take the steps that are necessary to
 	- **(a)** apply for a certificate of continuation or letters patent referred to in subsection 32(1); or
 	- **(b)** liquidate and dissolve the association under Part VII.
-> 1991, c. 48, s. 50; 1998, c. 1, s. 384; 2001, c. 9, s. 265.
+> 1991, c. 48, s. 50; 1998, c. 1, s. 384; 2001, c. 9, s. 265; 2007, c. 6, s. 144.
 
 
 
@@ -1425,7 +1455,7 @@ but before making any such further order the Superintendent shall provide the as
 **Rights**
 
 - **(2)** The membership shares of an association confer on the holders thereof equal rights, including equal rights to
-	- **(a)** receive dividends declared on the shares; and
+	- **(a)** receive dividends declared on the membership shares; and
 	- **(b)** receive the remaining property of the association on dissolution.
 
 **Designation of shares**
@@ -1449,6 +1479,8 @@ but before making any such further order the Superintendent shall provide the as
 	- **(d)** a statement that the certificate represents membership shares in the association, and the number of such membership shares;
 	- **(e)** a statement that the certificate is not transferable without the approval of the Board of Directors of the association; and
 	- **(f)** that there may be a lien on the membership shares represented by the certificate in favour of the association for indebtedness to the association.
+> 1991, c. 48, s. 67; 2007, c. 6, s. 145(E).
+
 
 
 
@@ -1524,8 +1556,8 @@ but before making any such further order the Superintendent shall provide the as
 
 **Material to Superintendent**
 
-- **(5)** If the directors exercise their authority under paragraph (1)(b), the directors shall, before the issue of shares, send to the Superintendent a copy of the by-law authorizing the directors to fix the rights, privileges, restrictions and conditions of those shares and shall provide the Superintendent with particulars of the proposed shares.
-> 1991, c. 48, s. 71; 2005, c. 54, s. 146.
+- **(5)** If the directors exercise their authority under paragraph (1)(b), the directors shall, before the issue of shares of the series, send to the Superintendent particulars of the series of shares and a copy of the by-law that granted the authority to the directors.
+> 1991, c. 48, s. 71; 2005, c. 54, s. 146; 2007, c. 6, s. 146(E).
 
 
 
@@ -1730,6 +1762,12 @@ but before making any such further order the Superintendent shall provide the as
 
 - **(4)** A special resolution to reduce the stated capital of an association has no effect until it is approved in writing by the Superintendent.
 
+**Exception**
+
+- **(4.1)** Subsection (4) does not apply if
+	- **(a)** the reduction in the stated capital is made solely as a result of changes made to the accounting principles referred to in subsection 292(4); and
+	- **(b)** there is to be no return of capital to members or shareholders as a result of the reduction.
+
 **Conditions for approval**
 
 - **(5)** No approval to reduce the stated capital of an association may be given by the Superintendent unless application therefor is made within three months after the time of the passing of the special resolution and a copy of the special resolution, together with a notice of intention to apply for approval, has been published in the Canada Gazette.
@@ -1742,6 +1780,8 @@ but before making any such further order the Superintendent shall provide the as
 	- **(c)** the association’s assets and liabilities, and
 	- **(d)** the reason why the association seeks the reduction of capital
 shall be submitted to the Superintendent at the time of the application for approval of the special resolution.
+> 1991, c. 48, s. 82; 2007, c. 6, s. 148.
+
 
 
 
@@ -1807,11 +1847,11 @@ shall be submitted to the Superintendent at the time of the application for appr
 
 **86** 
 
-- **(1)** The directors of an association may declare and an association may pay a dividend by issuing fully paid membership shares or options or rights to acquire membership shares to members or fully paid shares or options or rights to acquire fully paid shares to members or shareholders and, subject to subsections (4) and (5), the directors of an association may declare and an association may pay a dividend in money or property, and if a dividend is to be paid in money, the dividend may be paid in a currency other than the currency of Canada.
+- **(1)** The directors of an association may declare and an association may pay a dividend by issuing fully paid membership shares or options or rights to acquire membership shares to members or fully paid shares or options or rights to acquire fully paid shares to members or shareholders and, subject to subsection (4), the directors of an association may declare and an association may pay a dividend in money or property, and if a dividend is to be paid in money, the dividend may be paid in a currency other than the currency of Canada.
 
 **Notice to Superintendent**
 
-- **(2)** The directors of an association shall notify the Superintendent of the declaration of a dividend at least ten days prior to the day fixed for its payment.
+- **(2)** The directors of an association shall notify the Superintendent of the declaration of a dividend at least 15 days before the day fixed for its payment.
 
 **Dividend**
 
@@ -1821,10 +1861,8 @@ shall be submitted to the Superintendent at the time of the application for appr
 
 - **(4)** The directors of an association shall not declare and an association shall not pay a dividend if there are reasonable grounds for believing that the association is, or the payment would cause the association to be, in contravention of any regulation referred to in subsection 409(1) or (2) or any direction made pursuant to subsection 409(3).
 
-**When dividend not to be declared**
-
-- **(5)** The directors of an association shall not declare and an association shall not pay a dividend in any financial year without the approval of the Superintendent if, on the day the dividend is declared, the total of all dividends declared by the association in that year would exceed the aggregate of the association’s net income up to that day in that year and its retained net income for the preceding two financial years.
-> 1991, c. 48, s. 86; 2001, c. 9, s. 272.
+- **(5)** [Repealed, 2007, c. 6, s. 149]
+> 1991, c. 48, s. 86; 2001, c. 9, s. 272; 2007, c. 6, s. 149.
 
 
 
@@ -3450,8 +3488,8 @@ but does not include
 
 **Residency requirement**
 
-- **(2)** At least two thirds of the directors of an association must be, at the time of each director’s election or appointment, resident Canadians.
-> 1991, c. 48, s. 169; 2001, c. 9, s. 276.
+- **(2)** The majority of the directors of an association must be, at the time of each director’s election or appointment, resident Canadians.
+> 1991, c. 48, s. 169; 2001, c. 9, s. 276; 2007, c. 6, s. 150.
 
 
 
@@ -4449,8 +4487,16 @@ is entitled to submit to the association a written statement giving the reasons 
 
 **Effective date of by-law**
 
-- **(2)** A by-law, or an amendment to or a repeal of a by-law, made under paragraph (1)(i.1) is not effective until it is approved by the Superintendent.
-> 1991, c. 48, s. 221; 2001, c. 9, s. 283; 2005, c. 54, s. 183.
+- **(2)** A by-law respecting a change to the name of the association is not effective until it is approved by the Superintendent.
+
+**Letters patent**
+
+- **(3)** If the name of an association or the province in Canada in which the head office of the association is situated is changed under this section, the Superintendent may issue letters patent to amend the association’s incorporating instrument accordingly.
+
+**Effect of letters patent**
+
+- **(4)** Letters patent issued under subsection (3) become effective on the day stated in the letters patent.
+> 1991, c. 48, s. 221; 2001, c. 9, s. 283; 2005, c. 54, s. 183; 2007, c. 6, s. 151.
 
 
 
@@ -4555,9 +4601,11 @@ is entitled to submit to the association a written statement giving the reasons 
 
 
 
-**Approval of agreement by Minister**
+**Approval of agreement by Superintendent**
 
-**228** An amalgamation agreement shall be submitted to the Minister for approval and any approval of such an agreement pursuant to subsection 229(4) by the members and the holders of any class or series of shares of an applicant is invalid unless, prior to the date of the approval, the Minister has approved the agreement in writing.
+**228** An amalgamation agreement must be submitted to the Superintendent for approval and any approval of the agreement under subsection 229(4) by the members and the holders of any class or series of shares of an applicant is invalid unless, before the date of the approval, the Superintendent has approved the agreement in writing.
+> 1991, c. 48, s. 228; 2007, c. 6, s. 152.
+
 
 
 
@@ -4707,7 +4755,7 @@ is entitled to submit to the association a written statement giving the reasons 
 	- **(c)** [Repealed, 1994, c. 47, s. 52]
 	- **(d)** hold assets that an association is not otherwise permitted by this Act to hold if the assets were held by one or more of the amalgamating bodies corporate at the time the application for the letters patent was made;
 	- **(e)** acquire and hold assets that an association is not otherwise permitted by this Act to acquire or hold if one or more of the amalgamating bodies corporate were obliged, at the time the application for the letters patent was made, to acquire those assets; and
-	- **(f)** maintain outside Canada any records or registers required by this Act to be maintained in Canada and maintain and process, outside Canada, information and data relating to the preparation and maintenance of such records or registers.
+	- **(f)** maintain outside Canada any records or registers required by this Act to be maintained in Canada.
 
 **Duration of exceptions**
 
@@ -4725,7 +4773,7 @@ is entitled to submit to the association a written statement giving the reasons 
 - **(6)** The Governor in Council shall not grant to an association any permission
 	- **(a)** with respect to matters described in paragraph (3)(b) that purports to be effective more than ten years after the date of the approval for the association to commence and carry on business unless the Governor in Council is satisfied on the basis of evidence on oath provided by an officer of the association that the association will not be able at law to redeem at the end of the ten years the outstanding debt obligations to which the permission relates; and
 	- **(b)** with respect to matters described in paragraphs (3)(d) and (e) that purports to be effective more than ten years after the date of issue of the letters patent.
-> 1991, c. 48, s. 233; 1994, c. 47, s. 52.
+> 1991, c. 48, s. 233; 1994, c. 47, s. 52; 2007, c. 6, s. 153.
 
 
 
@@ -4758,10 +4806,10 @@ is entitled to submit to the association a written statement giving the reasons 
 
 
 
-**Agreement to Minister**
+**Agreement to Superintendent**
 
-**233.2** A sale agreement must be submitted to the Minister before the sending of the sale agreement to members and shareholders of the selling association under subsection 233.3(1).
-> 2001, c. 9, s. 289.
+**233.2** A sale agreement must be sent to the Superintendent before it is submitted to members and shareholders of the selling association under subsection 233.3(1).
+> 2001, c. 9, s. 289; 2007, c. 6, s. 154.
 
 
 
@@ -4859,7 +4907,7 @@ is entitled to submit to the association a written statement giving the reasons 
 	- **(a)** its incorporating instrument and the by-laws of the association and all amendments thereto;
 	- **(b)** minutes of meetings and resolutions of members and shareholders;
 	- **(c)** the information referred to in paragraphs 432(1)(a) and (c) to (g) contained in all returns provided to the Superintendent pursuant to section 432;
-	- **(d)** particulars of any authorizations, conditions and limitations established by the Superintendent pursuant to section 61 or subsection 62(1) or that are from time to time applicable to the association; and
+	- **(d)** particulars of any authorizations, conditions and limitations established by the Superintendent under section 61 or subsection 62(1) that are from time to time applicable to the association; and
 	- **(e)** written approvals of the Minister and the Superintendent relating to special resolutions of members and shareholders and changes in the by-laws of the association.
 
 **Additional records**
@@ -4874,6 +4922,8 @@ is entitled to submit to the association a written statement giving the reasons 
 - **(3)** For the purposes of paragraph (1)(b) and subsection (2),
 	- **(a)** in the case of a body corporate amalgamated and continued as an association under this Act, “records” includes similar records required by law to be maintained by the body corporate before it was so amalgamated; and
 	- **(b)** in the case of the former-Act association, “records” includes similar records required by law to be maintained by the association before the coming into force of this section.
+> 1991, c. 48, s. 235; 2007, c. 6, s. 155(E).
+
 
 
 
@@ -4997,32 +5047,16 @@ the registers and records required or authorized by this Act to be prepared and 
 
 
 
-**Location and processing of information or data**
+**Requirement to maintain copies and process information in Canada**
 
 **242** 
 
-- **(1)** Subject to subsection (3), an association shall maintain and process in Canada any information or data relating to the preparation or maintenance of the records referred to in section 235 or of its central securities register unless the Superintendent has, subject to any terms and conditions that the Superintendent considers appropriate, exempted the association from the application of this section.
-
-**Copies**
-
-- **(2)** Subject to subsections (3) and (4), the association may maintain copies of the records referred to in section 235 or of its central securities register outside Canada and may process outside Canada any information or data relating to those copies.
-
-**Information for Superintendent**
-
-- **(3)** Where an association, in accordance with subsection (2), maintains outside Canada copies of any records referred to in subsection (1) or further processes information or data relating to those copies outside Canada, the association shall so inform the Superintendent and provide the Superintendent with a list of those copies maintained outside Canada and a description of the further processing of information or data relating to those copies outside Canada and such other information as the Superintendent may require from time to time.
-
-**Processing information in Canada**
-
-- **(4)** If the Superintendent is at any time of the opinion that the maintenance outside Canada of any copies referred to in subsection (3), or the further processing of information or data relating to any such copies outside Canada, is incompatible with the fulfilment of the Superintendent’s responsibilities under this Act or the Superintendent is advised by the Minister that, in the opinion of the Minister, such maintenance or further processing is not in the national interest, the Superintendent shall direct the association to maintain those copies, or to further process information or data relating to those copies, in Canada.
+- **(1)** If the Superintendent is of the opinion that it is incompatible with the fulfilment of the Superintendent’s responsibilities under this Act for an association to maintain, in another country, copies of records referred to in section 235 or of its central securities register or for an association to process, in another country, information or data relating to the preparation and maintenance of those records or of its central securities register — or if the Superintendent is advised by the Minister that, in the opinion of the Minister, it is not in the national interest for an association to do any of those activities in another country — the Superintendent shall direct the association to not maintain those copies, or to not process the information or data, as the case may be, in that other country or to maintain those copies or to process the information or data only in Canada.
 
 **Association to comply**
 
-- **(5)** An association shall forthwith comply with any direction issued under subsection (4).
-
-**Guidelines**
-
-- **(6)** The Superintendent shall issue guidelines respecting the circumstances under which an exemption referred to in subsection (1) may be available.
-> 1991, c. 48, s. 242; 2001, c. 9, s. 291; 2005, c. 54, s. 189.
+- **(2)** An association shall without delay comply with any direction issued under subsection (1).
+> 1991, c. 48, s. 242; 2001, c. 9, s. 291; 2005, c. 54, s. 189; 2007, c. 6, s. 156.
 
 
 
@@ -5505,8 +5539,10 @@ but does not include a membership share. (*action*)
 
 **Trustee qualifications**
 
-**284** A trustee, or at least one of the trustees if more than one is appointed, must be a trust company incorporated under the [Trust and Loan Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2045.md), or a body corporate that is incorporated under the laws of a province and authorized to carry on business as a trustee.
-> 1991, c. 48, ss. 284, 496.
+**284** A trustee, or at least one of the trustees if more than one is appointed, must be
+- **(a)** a trust company pursuant to subsection 57(2) of the [Trust and Loan Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2045.md); or
+- **(b)** a body corporate that is incorporated under the laws of a province and authorized to carry on business as a trustee.
+> 1991, c. 48, ss. 284, 496; 2007, c. 6, s. 157.
 
 
 
@@ -6735,16 +6771,16 @@ a member or shareholder may apply to the court for an order requiring the distri
 
 **Amalgamation, etc., constitutes acquisition**
 
-- **(2)** Where, as a result of an amalgamation, merger or reorganization, the entity that results therefrom would have a significant interest in a class of shares of an association, that entity shall be deemed to be acquiring a significant interest in that class of shares of the association through an acquisition for which the approval of the Minister is required pursuant to subsection (1).
+- **(2)** If the entity that would result from an amalgamation, a merger or a reorganization would have a significant interest in a class of shares of an association, the entity is deemed to be acquiring a significant interest in that class of shares of the association through an acquisition for which the approval of the Minister is required under subsection (1).
 
 **Exemption**
 
 - **(3)** On application by an association, the Superintendent may exempt from the application of this section and section 355 any class of shares of the association that do not amount to more than 30% of the equity of the association.
 
-**Definition of “equity”**
+**Definition of equity**
 
 - **(4)** For the purposes of this section, ***equity***, in respect of an association, means its equity as determined in accordance with the regulations.
-> 1991, c. 48, s. 354; 1993, c. 34, s. 54; 2001, c. 9, s. 297.
+> 1991, c. 48, s. 354; 1993, c. 34, s. 54; 2001, c. 9, s. 297; 2007, c. 6, s. 158.
 
 
 
@@ -6752,8 +6788,14 @@ a member or shareholder may apply to the court for an order requiring the distri
 
 **No acquisition of control without approval**
 
-**354.1** No person shall acquire control, within the meaning of paragraph 3(1)(e), of an association without the prior approval of the Minister.
-> 2001, c. 9, s. 298.
+**354.1** 
+
+- **(1)** No person shall acquire control, within the meaning of paragraph 3(1)(e), of an association without the approval of the Minister.
+
+**Amalgamation, etc., constitutes acquisition**
+
+- **(2)** If the entity that would result from an amalgamation, a merger or a reorganization would control, within the meaning of paragraph 3(1)(e), an association, the entity is deemed to be acquiring control, within the meaning of that paragraph, of the association through an acquisition for which the approval of the Minister is required under subsection (1).
+> 2001, c. 9, s. 298; 2007, c. 6, s. 159.
 
 
 
@@ -7298,7 +7340,7 @@ of shares of that class of shares of the association, or of control of an entity
 
 **382.1** 
 
-- **(1)** A retail association shall not make a loan in Canada on the security of residential property in Canada for the purpose of purchasing, renovating or improving that property, or refinance such a loan, if the amount of the loan, together with the amount then outstanding of any mortgage having an equal or prior claim against the property, would exceed 75% of the value of the property at the time of the loan.
+- **(1)** A retail association shall not make a loan in Canada on the security of residential property in Canada for the purpose of purchasing, renovating or improving that property, or refinance such a loan, if the amount of the loan, together with the amount then outstanding of any mortgage having an equal or prior claim against the property, would exceed 80 per cent of the value of the property at the time of the loan.
 
 **Exception**
 
@@ -7309,7 +7351,7 @@ of shares of that class of shares of the association, or of control of an entity
 	- **(d)** a loan secured by a mortgage where
 		- **(i)** the mortgage is taken back by the association on a property disposed of by the association, including where the disposition is by way of a realization of a security interest, and
 		- **(ii)** the mortgage secures payment of an amount payable to the association for the property.
-> 2001, c. 9, s. 311.
+> 2001, c. 9, s. 311; 2007, c. 6, s. 161.
 
 
 
@@ -7328,7 +7370,7 @@ of shares of that class of shares of the association, or of control of an entity
 **Compliance**
 
 - **(3)** An association shall comply with an order made under subsection (2) within the time specified in the order.
-> 1991, c. 48, s. 383; 2001, c. 9, s. 311.
+> 1991, c. 48, s. 383; 2001, c. 9, s. 311; 2007, c. 6, s. 162(F).
 
 
 
@@ -7428,9 +7470,25 @@ If such a claim is made, the money so deposited may be paid to the depositor wit
 	- **(b)** a cheque, draft or bill of exchange (including any such instrument drawn by one branch of a retail association on another branch of the association but not including such an instrument issued in payment of a dividend on the capital of an association) payable in Canada in Canadian currency has been issued, certified or accepted by an association in Canada and no payment has been made in respect of the instrument for a period of ten years after the date of issue, certification, acceptance or maturity, whichever is later,
 the retail association shall pay to the Bank of Canada not later than December 31 in each year an amount equal to the principal amount of the deposit or instrument, plus interest, if any, calculated in accordance with the terms of the deposit or instrument, and payment accordingly discharges the association from all liability in respect of the deposit or instrument.
 
-**Particulars**
+**Provision of information**
 
-- **(2)** A retail association shall, on making a payment under subsection (1), provide the Bank of Canada, for each deposit or instrument in respect of which the payment is made, with all the particulars of the deposit or instrument listed in subsection 431.1(3) or 431.2(2), as the case may be, current as of the day the payment is made.
+- **(2)** A retail association shall, on making a payment under subsection (1), provide the Bank of Canada, for each deposit or instrument in respect of which the payment is made, with the following information current as of the day the payment is made, in so far as it is known to the retail association:
+	- **(a)** in the case of a deposit,
+		- **(i)** the name of the depositor in whose name the deposit is held,
+		- **(ii)** the recorded address of the depositor,
+		- **(iii)** the outstanding amount of the deposit, and
+		- **(iv)** the branch of the association at which the last transaction took place in respect of the deposit, and the date of that last transaction; and
+	- **(b)** in the case of an instrument,
+		- **(i)** the name of the person to whom or at whose request the instrument was issued, certified or accepted;
+		- **(ii)** the recorded address of that person;
+		- **(iii)** the name of the payee of the instrument;
+		- **(iv)** the amount and date of the instrument;
+		- **(v)** the name of the place where the instrument was payable; and
+		- **(vi)** the branch of the association at which the instrument was issued, certified or accepted.
+
+**Copies of signature cards and signing authorities**
+
+- **(2.1)** A retail association shall, on written request by the Bank of Canada, provide the Bank of Canada with copies of any signature cards and signing authorities relating to any deposit or instrument in respect of which it has made a payment under subsection (1). If it does not have any with respect to a deposit or instrument to which the request relates, it shall so inform the Bank of Canada.
 
 **Payment to claimant**
 
@@ -7445,7 +7503,7 @@ the retail association shall pay to the Bank of Canada not later than December 3
 **Application of subsection (1)**
 
 - **(5)** Subsection (1) applies only in respect of deposits made, and cheques, drafts and bills of exchange issued, certified or accepted, after the day that subsection comes into force.
-> 2001, c. 9, s. 313.
+> 2001, c. 9, s. 313; 2007, c. 6, s. 163.
 
 
 
@@ -7457,13 +7515,19 @@ the retail association shall pay to the Bank of Canada not later than December 3
 
 - **(1)** A retail association shall mail to each person, insofar as is known to the association, to whom a deposit referred to in paragraph 385.03(1)(a) is payable, or to whom or at whose request an instrument referred to in paragraph 385.03(1)(b) was issued, certified or accepted, at the person’s recorded address, a notice stating that the deposit or instrument remains unpaid.
 
-**When notice to be given**
+**When notice to be sent**
 
-- **(2)** A notice required by subsection (1) must be given during the month of January next following the end of the first two year period, and also during the month of January next following the end of the first five year period,
+- **(2)** The notice must be sent during the month of January next following the end of the first two-year period, during the month of January next following the end of the first five-year period and also during the month of January next following the end of the first nine-year period
 	- **(a)** in the case of a deposit made for a fixed period, after the fixed period has terminated;
 	- **(b)** in the case of any other deposit in respect of which no transaction has taken place and no statement of account has been requested or acknowledged by the creditor; and
 	- **(c)** in the case of a cheque, draft or bill of exchange, in respect of which the instrument has remained unpaid.
-> 2001, c. 9, s. 313.
+
+**Notification of transfer to the Bank of Canada**
+
+- **(3)** The notice to be sent during the month of January next following the end of the first nine-year period determined under paragraphs (2)(a) to (c), as the case may be, must also
+	- **(a)** [Not in force]
+	- **(b)** include the mailing address and websites where information can be obtained on how to claim the unpaid deposit or instrument.
+> 2001, c. 9, s. 313; 2007, c. 6, s. 164.
 
 
 
@@ -7762,7 +7826,18 @@ For those purposes, however, “cost of borrowing” does not include any charge
 **Procedures to be filed with Commissioner**
 
 - **(2)** A retail association shall file with the Commissioner a copy of its procedures established under paragraph (1)(a).
-> 2001, c. 9, s. 313.
+
+**How procedures to be made available**
+
+- **(3)** A retail association shall make its procedures established under paragraph (1)(a) available
+	- **(a)** in the form of a brochure, at its branches where products or services are offered in Canada;
+	- **(b)** on its websites through which products or services are offered in Canada; and
+	- **(c)** in written format to be sent to any person who requests them.
+
+**Information on contacting Agency**
+
+- **(4)** A retail association shall also make prescribed information on how to contact the Agency available whenever it makes its procedures established under paragraph (1)(a) available under subsection (3).
+> 2001, c. 9, s. 313; 2007, c. 6, s. 166.
 
 
 
@@ -7834,6 +7909,15 @@ For those purposes, however, “cost of borrowing” does not include any charge
 
 
 
+**Regulations respecting the holding of funds**
+
+**385.251** The Governor in Council may make regulations respecting the maximum period during which a retail association may hold funds in respect of specified classes of cheques or other instruments that are deposited into an account at a branch or prescribed point of service in Canada before permitting the customer in whose name the account is kept to access the funds.
+> 2007, c. 6, s. 168.
+
+
+
+
+
 **Regulations re customer information**
 
 **385.26** The Governor in Council may make regulations
@@ -7861,7 +7945,7 @@ For those purposes, however, “cost of borrowing” does not include any charge
 
 **Pre-closure meeting**
 
-- **(2)** After notice is given but before the branch is closed or ceases to carry on the activities, the Commissioner may, in prescribed situations, require the member association to convene and hold a meeting between representatives of the member association, representatives of the Agency and interested parties in the vicinity of the branch in order to exchange views about the closing or cessation of activities.
+- **(2)** After notice is given but before the branch is closed or ceases to carry on the activities, the Commissioner shall, in prescribed situations, require the member association to convene and hold a meeting between representatives of the member association, representatives of the Agency and interested parties in the vicinity of the branch in order to exchange views about the closing or cessation of activities, including, but not limited to, alternative service delivery by the member association and measures to help the branch’s customers adjust to the closing or cessation of activities.
 
 **Meeting details**
 
@@ -7877,7 +7961,7 @@ For those purposes, however, “cost of borrowing” does not include any charge
 	- **(a)** the manner and time, which may vary according to circumstances specified in the regulation, in which notice shall be given under subsection (1), to whom it shall be given and the information to be included;
 	- **(b)** circumstances in which a member association is not required to give notice under subsection (1), circumstances in which the Commissioner may exempt a member association from the requirement to give notice under that subsection, and circumstances in which the Commissioner may vary the manner and time in which notice is required to be given under any regulation made under paragraph (a); and
 	- **(c)** circumstances in which a meeting may be convened under subsection (2).
-> 2001, c. 9, s. 313.
+> 2001, c. 9, s. 313; 2007, c. 6, s. 169.
 
 
 
@@ -7890,10 +7974,10 @@ For those purposes, however, “cost of borrowing” does not include any charge
 	- **(i)** any product or service or prescribed class of products or services offered by them,
 	- **(ii)** any of their policies, procedures or practices relating to the offer by them of any product or service or prescribed class of products or services,
 	- **(iii)** anything they are required to do or to refrain from doing under a consumer provision, and
-	- **(iv)** any other matter that may affect their dealings with customers or the public;
+	- **(iv)** any other matter that may affect their dealings, or their employees’ or representatives’ dealings, with customers or the public;
 - **(b)** the manner, place and time in which and the persons to whom information is to be disclosed; and
 - **(c)** the content and form of any advertisement, by retail associations or any prescribed class of retail associations, relating to any matter referred to in paragraph (a).
-> 2001, c. 9, s. 313.
+> 2001, c. 9, s. 313; 2007, c. 6, s. 170.
 
 
 
@@ -8022,6 +8106,11 @@ is sufficient justification and authority for giving effect to the transmission 
 
 - **(1)** The following definitions apply in this Part.
 
+***closed-end fund*** means an entity whose activities are limited to investing the funds of the entity so as to provide investment diversification and professional investment management to the holders of its securities, and whose securities are 
+- **(a)** fixed in number and distributed to the public in an offering under a preliminary prospectus, prospectus, short-form prospectus or similar document in accordance with the laws of a province or a foreign jurisdiction;
+- **(b)** traded on an exchange or an over-the-counter market; and
+- **(c)** liquidated on a fixed future termination date, the proceeds of which are allocated to the holders of the securities on a proportional basis.
+
 ***commercial loan*** means
 - **(a)** any loan made or acquired by an association, other than
 	- **(i)** a loan to a natural person in an amount of two hundred and fifty thousand dollars or less,
@@ -8113,7 +8202,7 @@ is sufficient justification and authority for giving effect to the transmission 
 - **(3)** This Part does not apply in respect of
 	- **(a)** the holding of a security interest in real property, unless the security interest is prescribed under paragraph 403(a) to be an interest in real property; or
 	- **(b)** the holding of a security interest in securities of an entity.
-> 1991, c. 48, s. 386; 1993, c. 34, s. 55(F); 1997, c. 15, s. 140; 2001, c. 9, s. 314.
+> 1991, c. 48, s. 386; 1993, c. 34, s. 55(F); 1997, c. 15, s. 140; 2001, c. 9, s. 314; 2007, c. 6, s. 171.
 
 
 
@@ -8160,7 +8249,15 @@ is sufficient justification and authority for giving effect to the transmission 
 **Exception: uncontrolled event**
 
 - **(5)** An association is deemed not to contravene subsection (1) if the association acquires control of, or acquires or increases a substantial investment in, an entity solely as the result of an event not within the control of the association.
-> 1991, c. 48, s. 388; 1997, c. 15, s. 141; 2001, c. 9, s. 314.
+
+**Application of other provision**
+
+- **(6)** Despite having acquired control of, or a substantial investment in, an entity under a particular provision of this Part, an association may continue to control the entity or hold the substantial investment in the entity as though it had made the acquisition under another provision of this Part so long as the conditions of that other provision are met.
+
+**Timing of deemed acquisition**
+
+- **(7)** If an association decides to exercise its right under subsection (6), the association is deemed to be acquiring the control or the substantial investment under the other provision.
+> 1991, c. 48, s. 388; 1997, c. 15, s. 141; 2001, c. 9, s. 314; 2007, c. 6, s. 172.
 
 
 
@@ -8211,7 +8308,7 @@ is sufficient justification and authority for giving effect to the transmission 
 	- **(d)** engaging in any activity that a retail association is permitted to engage in, other than an activity referred to in paragraph (a) or (e), that relates to
 		- **(i)** the promotion, sale, delivery or distribution of a financial product or financial service that is provided by the association or any member of the association’s group, or
 		- **(ii)** if a significant portion of the business of the entity involves an activity referred to in subparagraph (i), the promotion, sale, delivery or distribution of a financial product or financial service that is provided by any other entity that is primarily engaged in the business of providing financial services;
-	- **(e)** engaging in the activities referred to in the definition “mutual fund entity”, “mutual fund distribution entity” or “real property brokerage entity” in subsection 386(1); and
+	- **(e)** engaging in the activities referred to in the definition ***closed-end fund***, ***mutual fund distribution entity***, ***mutual fund entity*** or ***real property brokerage entity*** in subsection 386(1); and
 	- **(f)** engaging in prescribed activities, under prescribed terms and conditions, if any are prescribed.
 
 **Restriction**
@@ -8224,6 +8321,16 @@ is sufficient justification and authority for giving effect to the transmission 
 		- **(i)** in the case of an entity that is controlled by the association, the association itself would be permitted under this Part to acquire a substantial investment in the other entity, or
 		- **(ii)** in the case of an entity that is not controlled by the association, the association itself would be permitted to acquire a substantial investment in the other entity under subsection (1) or (2) or 388(2), paragraph 388(3)(b) or (c) or subsection 388(4); or
 	- **(e)** any prescribed activity.
+
+**Exception**
+
+- **(3.1)** Despite paragraph (3)(a), an association may acquire control of, or acquire or increase a substantial investment in, any entity that acts as a trustee of a trust if the entity has been authorized under the laws of a province to act as a trustee of a trust and the entity is
+	- **(a)** a closed-end fund;
+	- **(b)** a mutual fund entity; or
+	- **(c)** an entity whose business is limited to engaging in one or more of the following:
+		- **(i)** the activities of a mutual fund distribution entity,
+		- **(ii)** any activity that an association is permitted to engage in under subsection 376(2), and
+		- **(iii)** the provision of investment counselling services and portfolio management services.
 
 **Control**
 
@@ -8247,7 +8354,8 @@ is sufficient justification and authority for giving effect to the transmission 
 		- **(i)** a factoring entity, or
 		- **(ii)** a financial leasing entity;
 	- **(c)** acquire control of, or acquire or increase a substantial investment in, an entity whose business includes one or more of the activities referred to in paragraph (2)(d);
-	- **(d)** acquire control of, or acquire or increase a substantial investment in, an entity that engages in an activity described in paragraph 376(1)(g) or (h); or
+	- **(d)** acquire control of, or acquire or increase a substantial investment in, an entity that engages in Canada in an activity described in paragraph 376(1)(g);
+	- **(d.1)** acquire control of, or acquire or increase a substantial investment in, an entity that engages in an activity described in paragraph 376(1)(h); or
 	- **(e)** acquire control of, or acquire or increase a substantial investment in, an entity engaging in an activity prescribed for the purposes of paragraph (2)(f).
 
 **Superintendent’s approval**
@@ -8257,7 +8365,7 @@ is sufficient justification and authority for giving effect to the transmission 
 **Exception**
 
 - **(7)** Subsection (6) does not apply in respect of a particular transaction if
-	- **(a)** the association is acquiring control of an entity whose business includes an activity referred to in paragraph (2)(b), other than a specialized financing entity;
+	- **(a)** the association is acquiring control of an entity, other than a specialized financing entity, and the only reason for which the association would, but for this subsection, require approval for the acquisition is that the entity carries on activities referred to in paragraph (2)(b);
 	- **(b)** the association is acquiring control of an entity whose activities are limited to the activities of a factoring entity or a financial leasing entity; or
 	- **(c)** the Minister has approved the transaction under subsection (5) or is deemed to have approved it under subsection 391(1).
 
@@ -8278,7 +8386,7 @@ is sufficient justification and authority for giving effect to the transmission 
 **Subsections do not apply**
 
 - **(11)** If an association controls, within the meaning of paragraph 3(1)(a), (b), (c) or (d), an entity, subsections (5) and (6) do not apply in respect of any subsequent increases by the association of its substantial investment in the entity so long as the association continues to control the entity.
-> 1991, c. 48, s. 390; 1997, c. 15, s. 142; 1999, c. 28, s. 116; 2001, c. 9, s. 314.
+> 1991, c. 48, s. 390; 1997, c. 15, s. 142; 1999, c. 28, s. 116; 2001, c. 9, s. 314; 2007, c. 6, s. 173.
 
 
 
@@ -8344,14 +8452,14 @@ is sufficient justification and authority for giving effect to the transmission 
 
 **Temporary investment**
 
-- **(4)** If an association, by way of temporary investment, acquires control of, or acquires or increases a substantial investment in, an entity for which the approval of the Minister under subsection 390(5) is required, the association must, within 90 days after acquiring control or after acquiring or increasing the substantial investment,
+- **(4)** If an association, by way of temporary investment, acquires control of, or acquires or increases a substantial investment in, an entity for which the approval of the Minister would have been required under subsection 390(5) if the association had acquired the control, or acquired or increased the substantial investment, under section 390, the association must, within 90 days after acquiring control or after acquiring or increasing the substantial investment,
 	- **(a)** apply to the Minister for approval to retain control of the entity or to continue to hold the substantial investment in the entity for a period specified by the Minister or for an indeterminate period on any terms and conditions that the Minister considers appropriate; or
 	- **(b)** do all things necessary to ensure that, on the expiry of the 90 days, it no longer controls the entity or does not have a substantial investment in the entity.
 
 **Indeterminate extension**
 
-- **(5)** If an association, by way of temporary investment, acquires control of, or acquires or increases a substantial investment in, an entity for which the approval of the Superintendent under subsection 390(6) is required, the Superintendent may, in the case of any particular association that makes an application under this subsection, permit the association to retain control of the entity or to continue to hold the substantial investment in the entity for an indeterminate period, on any terms and conditions that the Superintendent considers necessary.
-> 1991, c. 48, s. 393; 2001, c. 9, s. 314.
+- **(5)** If an association, by way of temporary investment, acquires control of, or acquires or increases a substantial investment in, an entity for which the approval of the Superintendent would have been required under subsection 390(6) if the association had acquired the control, or acquired or increased the substantial investment, under section 390, the Superintendent may, on application, permit the association to retain control of the entity or to continue to hold the substantial investment in the entity for an indeterminate period, on any terms and conditions that the Superintendent considers appropriate.
+> 1991, c. 48, s. 393; 2001, c. 9, s. 314; 2007, c. 6, s. 174.
 
 
 
@@ -8364,8 +8472,9 @@ is sufficient justification and authority for giving effect to the transmission 
 - **(1)** Despite anything in this Part, if an association or any of its subsidiaries has made a loan to an entity and, under the terms of the agreement between the association, or any of its subsidiaries, and the entity with respect to the loan and any other documents governing the terms of the loan, a default has occurred, the association may acquire
 	- **(a)** if the entity is a body corporate, all or any of the shares of the body corporate;
 	- **(b)** if the entity is an unincorporated entity, all or any of the ownership interests in the entity;
-	- **(c)** all or any of the shares or all or any of the ownership interests in any entity that is an affiliate of the entity; or
-	- **(d)** all or any of the shares of a body corporate that is primarily engaged in holding shares of, ownership interests in or assets acquired from the entity or any of its affiliates.
+	- **(c)** all or any of the shares or all or any of the ownership interests in any entity that is an affiliate of the entity;
+	- **(d)** all or any of the shares of a body corporate that is primarily engaged in holding shares of, ownership interests in or assets acquired from the entity or any of its affiliates; or
+	- **(e)** all or any of the ownership interests in any entity that is primarily engaged in holding shares of, ownership interests in or assets acquired from the entity or any of its affiliates.
 
 **Obligation of association**
 
@@ -8390,7 +8499,7 @@ is sufficient justification and authority for giving effect to the transmission 
 **Exception**
 
 - **(7)** If, under subsection (1), an association acquires control of, or acquires or increases a substantial investment in, an entity that it would otherwise be permitted to acquire or increase under section 390, the association may retain control of the entity or continue to hold the substantial investment for an indeterminate period, if the approval in writing of the Minister is obtained before the end of the period referred to in subsection (2) or (3), including any extension of it granted under subsection (4).
-> 1991, c. 48, s. 394; 1997, c. 15, s. 143; 2001, c. 9, s. 314.
+> 1991, c. 48, s. 394; 1997, c. 15, s. 143; 2001, c. 9, s. 314; 2007, c. 6, s. 175.
 
 
 
@@ -8608,27 +8717,31 @@ where
 - **B** is the total value of all assets that the association and its subsidiaries acquired from or transferred to that person in the twelve months ending immediately before the acquisition or transfer; and
 - **C** is ten per cent of the total value of the assets of the association, as shown in the last annual statement of the association prepared before the acquisition or transfer.
 
-**Restriction**
+**Approval of series of transactions**
 
-- **(2)** The prohibition in subsection (1) does not apply in respect of a transaction or series of transactions between an association and a member of the association.
-
-**Exception**
-
-- **(3)** The prohibition in subsection (1) does not apply in respect of
-	- **(a)** an asset that is a debt obligation referred to in subparagraphs (b)(i) to (vi) of the definition “commercial loan” in subsection 386(1); or
-	- **(b)** a transaction or series of transactions by an association with another financial institution as a result of the association’s participation in one or more syndicated loans with that financial institution.
+- **(1.1)** The Superintendent may, for the purposes of subsection (1), approve a transaction or series of transactions relating to the acquisition or transfer of assets that may be entered into with a person, or with persons of any class of persons, regardless of whether those persons are known at the time of the granting of the approval or not.
 
 **Exception**
 
-- **(4)** The approval of the Superintendent is not required if
-	- **(a)** the association sells assets under a sale agreement that is approved by the Minister under section 233.5; or
-	- **(b)** the association or its subsidiary acquires shares of, or ownership interests in, an entity for which the approval of the Minister under Part VIII or subsection 390(5) is required or the approval of the Superintendent under subsection 390(6) is required.
+- **(2)** Subsection (1) does not apply in respect of a transaction or series of transactions between an association and a member of the association.
+
+**Exception**
+
+- **(3)** Subsection (1) does not apply in respect of
+	- **(a)** an asset that is a debt obligation referred to in subparagraphs (b)(i) to (vi) of the definition ***commercial loan*** in subsection 386(1);
+	- **(b)** assets acquired or transferred under a transaction or series of transactions by an association with another financial institution as a result of the association’s participation in one or more syndicated loans with that financial institution;
+	- **(c)** assets purchased or sold under a sale agreement that is approved by the Minister under section 233.5;
+	- **(d)** shares of, or ownership interests in, an entity for which the approval of the Minister under Part VIII or subsection 390(5) is required or the approval of the Superintendent under subsection 390(6) is required;
+	- **(e)** assets, other than real property, acquired or disposed of under an arrangement that has been approved by the Superintendent under subsection 418(3); or
+	- **(f)** assets acquired or disposed of with the approval of the Superintendent under subsection 418(3.1).
+
+- **(4)** [Repealed, 2007, c. 6, s. 176]
 
 **Value of assets**
 
 - **(5)** For the purposes of “A” in subsection (1), the value of the assets is
 	- **(a)** in the case of assets that are acquired, the purchase price of the assets or, if the assets are shares of, or ownership interests in, an entity the assets of which will be included in the annual statement of the association after the acquisition, the fair market value of the assets; and
-	- **(b)** in the case of assets that are transferred, the book value of the assets as stated in the last annual statement of the association prepared before the transfer, or, if the assets are shares of, or ownership interests in, an entity the assets of which were included in the last annual statement of the association before the transfer, the value of the assets as stated in the annual statement.
+	- **(b)** in the case of assets that are transferred, the value of the assets as reported in the last annual statement of the association prepared before the transfer or, if the value of the assets is not reported in that annual statement, the value of the assets as it would be reported in the annual statement of the association if the annual statement had been prepared, in accordance with the accounting principles referred to in subsection 292(4), immediately before the transfer.
 
 **Total value of all assets**
 
@@ -8636,8 +8749,8 @@ where
 
 **Total value of all assets**
 
-- **(7)** For the purposes of subsection (1), the total value of all assets that the association or any of its subsidiaries has transferred during the period of twelve months referred to in subsection (1) is the book value of the assets as stated in the last annual statement of the association prepared before the transfer, or, if the assets are shares of, or ownership interests in, an entity the assets of which were included in the last annual statement of the association before the transfer, the value of the assets of the entity as stated in the annual statement.
-> 1991, c. 48, s. 406; 1997, c. 15, s. 149; 2001, c. 9, s. 314.
+- **(7)** For the purposes of subsection (1), the total value of all assets that the association or any of its subsidiaries has transferred during the 12-month period referred to in subsection (1) is the total of the value of each of those assets as reported in the last annual statement of the association prepared before the transfer of the asset or, if the value of any of those assets is not reported in that annual statement, as it would be reported in the annual statement of the association if the annual statement had been prepared, in accordance with the accounting principles referred to in subsection 292(4), immediately before the transfer of the asset.
+> 1991, c. 48, s. 406; 1997, c. 15, s. 149; 2001, c. 9, s. 314; 2007, c. 6, s. 176.
 
 
 
@@ -8822,7 +8935,7 @@ and shall comply with any regulations in relation thereto.
 
 
 
-**Meaning of “transaction”**
+**Meaning of transaction**
 
 **412** 
 
@@ -8836,9 +8949,15 @@ and shall comply with any regulations in relation thereto.
 
 - **(2)** For the purposes of this Part, the fulfilment of an obligation under the terms of any transaction, including the payment of interest on a loan or deposit, is part of the transaction, and not a separate transaction.
 
-**Meaning of “loan”**
+**Meaning of loan**
 
 - **(3)** For the purposes of this Part, ***loan*** includes a deposit, a financial lease, a conditional sales contract, a repurchase agreement and any other similar arrangement for obtaining funds or credit, but does not include investments in securities or the making of an acceptance, endorsement or other guarantee.
+
+**Security of a related party**
+
+- **(4)** For the purposes of this Part, ***security*** of a related party includes an option, transferable by delivery, to demand delivery of a specified number or amount of shares of the related party at a fixed price within a specified time.
+> 1991, c. 48, s. 412; 2007, c. 6, s. 177.
+
 
 
 
@@ -8931,7 +9050,11 @@ and shall comply with any regulations in relation thereto.
 	- **(a)** from a related party of the association for use in the ordinary course of business of the association, or
 	- **(b)** to a related party of the association,
 if the lease payments are made in money.
-> 1991, c. 48, s. 418; 2001, c. 9, s. 317.
+
+**Approval under section 233.5**
+
+- **(5)** An association may acquire any assets from, or dispose of any assets to, a related party of the association under a sale agreement that is approved by the Minister under section 233.5.
+> 1991, c. 48, s. 418; 2001, c. 9, s. 317; 2007, c. 6, s. 178.
 
 
 
@@ -8954,14 +9077,14 @@ if the lease payments are made in money.
 
 - **(2)** Where an association has entered into a contract pursuant to paragraph (1)(a) and the contract, when taken together with all other such contracts entered into by the association, results in all or substantially all of the management functions of the association being exercised by persons who are not employees of the association, the Superintendent may, by order, if the Superintendent considers that result to be inappropriate, require the association, within such time as may be specified in the order, to take all steps necessary to ensure that management functions that are integral to the carrying on of business by the association are exercised by employees of the association to the extent specified in the order.
 
-**Service corporations**
+**Exception**
 
-- **(3)** Notwithstanding subsection 413(2), an association is deemed not to have indirectly entered into a transaction in respect of which this Part applies if the transaction is entered into by a service corporation, as defined in subsection 386(1), that is controlled by the association and the transaction is on terms and conditions at least as favourable to the association as market terms and conditions, as defined in subsection 425(2).
+- **(3)** Despite subsection 413(2), an association is deemed not to have indirectly entered into a transaction in respect of which this Part applies if the transaction is entered into by an entity that is controlled by the association and the business of which is limited to the activity referred to in paragraph 390(2)(c) and the transaction is on terms and conditions at least as favourable to the association as market terms and conditions, as defined in subsection 425(2).
 
 **Loans or guarantees not included**
 
 - **(4)** The provision of services, for the purposes of paragraph (1)(a.1), does not include the making of loans or guarantees.
-> 1991, c. 48, s. 419; 1997, c. 15, s. 152; 2001, c. 9, s. 318.
+> 1991, c. 48, s. 419; 1997, c. 15, s. 152; 2001, c. 9, s. 318; 2007, c. 6, s. 179.
 
 
 
@@ -9174,71 +9297,15 @@ would exceed 50 per cent of the regulatory capital of the association.
 
 
 
-
-**Report of unclaimed deposits**
-
-**431.1** 
-
-- **(1)** A retail association shall, within sixty days after the end of each calendar year, provide the Superintendent with a return, in the form that the Superintendent may determine, as of the end of that calendar year, in respect of all deposits made with the association in Canada in Canadian currency for which no transaction has taken place and no statement of account has been requested or acknowledged by the depositors during a period of nine years or more.
-
-**Period**
-
-- **(2)** The period referred to in subsection (1) shall be calculated
-	- **(a)** in the case of a deposit made for a fixed period, from the day on which the fixed period terminated, and
-	- **(b)** in the case of any other deposit, from the day on which the last transaction took place or a statement of account was last requested or acknowledged by the depositor, whichever is later,
-until the date of the return under that subsection.
-
-**Content of return**
-
-- **(3)** A return made under subsection (1) must show, insofar as is known to the association,
-	- **(a)** the name of each depositor in whose name each deposit is held;
-	- **(b)** the recorded address of each such depositor;
-	- **(c)** the outstanding amount of each deposit; and
-	- **(d)** the branch of the association at which the last transaction took place in respect of the deposit, and the date of that transaction.
-
-**Amounts under one hundred dollars**
-
-- **(4)** If the total outstanding amount of deposits in the name of a depositor is less than one hundred dollars, the association may omit the particulars in respect thereof required by subsection (3) from the return required by subsection (1).
-> 2001, c. 9, s. 324.
+**431.1** [Repealed, 2007, c. 6, s. 180]
 
 
 
-
-
-**Return on unclaimed bills of exchange**
-
-**431.2** 
-
-- **(1)** A retail association shall, within sixty days after the end of each calendar year, provide the Superintendent with a return, in the form that the Superintendent may determine, as of the end of that calendar year, in respect of all negotiable instruments (including instruments drawn by one branch of the association on another branch of the association but not including instruments issued in payment of a dividend on the capital of the association) payable in Canada in Canadian currency that have been issued, certified or accepted by the association at branches of the association in Canada and for which no payment has been made for a period of nine years or more calculated from the date of issue, certification, acceptance or maturity, whichever is the latest, until the date of the return.
-
-**Content of return**
-
-- **(2)** A return made under subsection (1) must show, insofar as is known to the association,
-	- **(a)** the name of each person to whom or at whose request each instrument was issued, certified or accepted;
-	- **(b)** the recorded address of each such person;
-	- **(c)** the name of the payee of each instrument;
-	- **(d)** the amount and date of each instrument;
-	- **(e)** the name of the place where each instrument was payable; and
-	- **(f)** the branch of the association at which each instrument was issued, certified or accepted.
-
-**Amounts under one hundred dollars**
-
-- **(3)** If the amount of an instrument in respect of which subsection (1) applies is less than one hundred dollars, the association may omit the particulars in respect thereof required by subsection (2) from the return required by subsection (1).
-
-**Money orders**
-
-- **(4)** A retail association may omit from a return required by subsection (1) the particulars required by subsection (2) in respect of any money order in respect of which subsection (1) applies.
-> 2001, c. 9, s. 324.
+**431.2** [Repealed, 2007, c. 6, s. 180]
 
 
 
-
-
-**Total to be reported**
-
-**431.3** If a retail association, under subsection 431.1(4) or 431.2(3) or (4), omits from a return required by subsection 431.1(1) or 431.2(1) the particulars of any deposit or instrument, the total of the amounts of all deposits or instruments that have been so omitted must be reported in the return.
-> 2001, c. 9, s. 324.
-
+**431.3** [Repealed, 2007, c. 6, s. 180]
 
 
 
@@ -9331,12 +9398,7 @@ if the Superintendent is satisfied that the information will be treated as confi
 
 
 
-
-**Publication**
-
-**435.2** The Superintendent shall cause to be published in the Canada Gazette the information contained in each of the returns made under sections 431.1 and 431.2 within sixty days after the expiration of the time provided by this Act for providing the return.
-> 2001, c. 9, s. 327.
-
+**435.2** [Repealed, 2007, c. 6, s. 181]
 
 
 
@@ -9928,42 +9990,114 @@ is, in the absence of evidence to the contrary, proof of the facts so certified 
 
 
 
-### Approvals: Terms, Conditions and Undertakings
+### Approvals
 
 
 
-**Definition of “approval”**
+**Definition of approval**
 
-**459.2** 
+**459.2** In sections 459.3 to 459.8, ***approval*** includes any consent, designation, order, exemption, extension or other permission granted by the Minister or the Superintendent under this Act, and includes the issuance of letters patent.
+> 2001, c. 9, s. 337; 2007, c. 6, s. 182.
 
-- **(1)** In this section, ***approval*** includes any consent, order, exemption, extension or other permission granted by the Minister or the Superintendent under this Act, and includes the issuance of letters patent.
+
+
+
+
+**Matters to take into account — Minister**
+
+**459.3** 
+
+- **(1)** In addition to any matters or conditions provided for in this Act that are relevant to the granting of an approval, the Minister may, in considering whether to grant the approval, take into account all matters that he or she considers relevant in the circumstances, including
+	- **(a)** national security; and
+	- **(b)** Canada’s international relations and its international legal obligations.
+
+**Matters to take into account — Superintendent**
+
+- **(2)** In addition to any matters or conditions provided for in this Act that are relevant to the granting of an approval and to any prudential considerations that the Superintendent considers relevant in the circumstances, the Superintendent may, in considering whether to grant the approval, take into account
+	- **(a)** national security; and
+	- **(b)** Canada’s international relations and its international legal obligations.
+> 2007, c. 6, s. 182.
+
+
+
+
 
 **Minister — terms, conditions and undertakings**
 
-- **(2)** In addition to any other action that may be taken under this Act, the Minister may, in granting an approval, impose such terms and conditions or require such undertaking as the Minister considers necessary, including any terms, conditions or undertaking specified by the Superintendent to maintain or improve the safety and soundness of any financial institution regulated under an Act of Parliament and to which the approval relates or that may be affected by it.
+**459.4** 
+
+- **(1)** In addition to any other action that may be taken under this Act, the Minister may, in granting an approval, impose any terms and conditions or require any undertaking that the Minister considers appropriate, including any terms, conditions or undertakings specified by the Superintendent to maintain or improve the safety and soundness of any financial institution regulated under an Act of Parliament to which the approval relates or that might be affected by it.
 
 **Superintendent — terms, conditions and undertakings**
 
-- **(3)** In addition to any other action that may be taken under this Act, the Superintendent may, in granting an approval, impose such terms and conditions or require such undertaking as the Superintendent considers necessary.
+- **(2)** In addition to any other action that may be taken under this Act, the Superintendent may, in granting an approval, impose any terms and conditions or require any undertaking that the Superintendent considers appropriate.
+> 2007, c. 6, s. 182.
 
-**Effect of non-compliance on approval**
 
-- **(4)** Unless otherwise expressly provided in this Act, a failure to comply with a term or condition or an undertaking imposed or required under any provision of this Act does not invalidate the approval to which the term, condition or undertaking relates.
 
-**Non-compliance**
 
-- **(5)** In addition to any other action that may be taken under this Act, in case of non-compliance by a person with a term, condition or undertaking imposed or required under any provision of this Act, the Minister or Superintendent, as the case may be, may
-	- **(a)** revoke, suspend or amend the approval to which the term, condition or undertaking relates; or
-	- **(b)** apply to a court for an order directing the person to comply with the term, condition or undertaking, and on such application the court may so order and make any other order it thinks fit.
+
+**Revocation, suspension or amendment of approval — Minister**
+
+**459.5** 
+
+- **(1)** The Minister may revoke, suspend or amend any approval granted by the Minister if he or she considers it appropriate to do so. In deciding whether to take any of those actions, the Minister may take into account all matters that he or she considers relevant in the circumstances, including
+	- **(a)** national security; and
+	- **(b)** Canada’s international relations and its international legal obligations.
+
+**Revocation, suspension or amendment of approval — Superintendent**
+
+- **(2)** The Superintendent may revoke, suspend or amend any approval granted by the Superintendent if he or she considers it appropriate to do so. In deciding whether to take any of those actions, the Superintendent may take into account any prudential considerations that he or she considers relevant in the circumstances and
+	- **(a)** national security; and
+	- **(b)** Canada’s international relations and its international legal obligations.
 
 **Representations**
 
-- **(6)** Before taking any action under subsection (5), the Minister or the Superintendent, as the case may be, shall afford the person concerned a reasonable opportunity to make representations.
+- **(3)** Before taking any action under this section, the Minister or the Superintendent, as the case may be, shall give the person concerned a reasonable opportunity to make representations.
+> 2007, c. 6, s. 182.
+
+
+
+
+
+**Effect of non-compliance on approval**
+
+**459.6** 
+
+- **(1)** Unless otherwise expressly provided in this Act, a failure to comply with a term, condition or undertaking imposed or required under any provision of this Act does not invalidate the approval to which the term, condition or undertaking relates.
+
+**Non-compliance**
+
+- **(2)** In addition to any other action that may be taken under this Act, in the case of non-compliance by a person with a term, condition or undertaking imposed or required under any provision of this Act, the Minister or the Superintendent, as the case may be, may
+	- **(a)** revoke, suspend or amend the approval to which the term, condition or undertaking relates; or
+	- **(b)** apply to a court for an order directing the person to comply with the term, condition or undertaking, and on such an application the court may make the order and any other order that it thinks fit.
+
+**Representations**
+
+- **(3)** Before taking any action under subsection (2), the Minister or the Superintendent, as the case may be, shall give the person concerned a reasonable opportunity to make representations.
 
 **Revocation, suspension or amendment**
 
-- **(7)** At the request of the person concerned, the Minister or the Superintendent, as the case may be, may revoke, suspend or amend any terms or conditions imposed by him or her or may revoke or suspend an undertaking given to him or her or approve its amendment.
-> 2001, c. 9, s. 337.
+- **(4)** At the request of the person concerned, the Minister or the Superintendent, as the case may be, may revoke, suspend or amend any terms or conditions imposed by him or her and may revoke or suspend an undertaking given to him or her or approve its amendment.
+> 2007, c. 6, s. 182.
+
+
+
+
+
+**Multiple approval — other approvals**
+
+**459.7** The Minister or the Superintendent may grant more than one approval, other than letters patent, in a single instrument if he or she considers it appropriate to do so, and if the Minister or Superintendent does so, he or she may specify different effective dates for each of the approvals.
+> 2007, c. 6, s. 182.
+
+
+
+
+
+**Exemption in relation to notices of intention**
+
+**459.8** The Superintendent may, on application, exempt an applicant or applicants from the provisions of this Act respecting the publication of a notice of intention in respect of applications for approvals and impose any terms and conditions respecting the publication of the notice of intention that he or she considers appropriate.
+> 2007, c. 6, s. 182.
 
 
 
@@ -9998,7 +10132,7 @@ is, in the absence of evidence to the contrary, proof of the facts so certified 
 - **(1)** The following applications to the Superintendent must contain the information, material and evidence that the Superintendent may require:
 	- **(a)** applications for approval under subsection 74(1), 80(2), 82(4), 86(5), 87(1), 177(1), 221(2), 385(1), 390(6) or (10), 393(1) or (2) or 406(1), subparagraph 411(2)(a)(iv), section 414 or subsection 418(3) or (3.1);
 	- **(b)** applications for consent under subsection 79(1);
-	- **(c)** applications for exemptions under subsection 166.05(3) or 242(1); and
+	- **(c)** applications for exemptions under subsection 166.05(3); and
 	- **(d)** applications for extensions of time under subsection 393(3) or (5), 394(4) or 395(4).
 
 **Receipt**
@@ -10018,7 +10152,44 @@ is, in the absence of evidence to the contrary, proof of the facts so certified 
 **Deemed approval**
 
 - **(5)** If the applicant does not receive the notice required by subsection (3) and, where applicable, subsection (4), within the required period, the Superintendent is deemed to have approved the application and granted the approval, consent, extension or exemption to which the application relates, regardless of whether the approval, consent, extension or exemption is to be in writing or not.
-> 2001, c. 9, s. 338.
+> 2001, c. 9, s. 338; 2007, c. 6, s. 183.
+
+
+
+
+
+### Applications for Certain Approvals
+
+
+
+**Application for certain approvals**
+
+**461.2** 
+
+- **(1)** An application for the prior written approval of the Minister in respect of paragraph 376(1)(g) or (h) or 390(5)(c), (d) or (d.1) must be filed with the Superintendent and contain the information, material and evidence that the Superintendent may require.
+
+**Certification of receipt of application**
+
+- **(2)** If, in the opinion of the Superintendent, the application contains all the required information, the Superintendent must refer it to the Minister, together with his or her analysis in relation to the application, and send a receipt to the applicant certifying the date on which the application was referred to the Minister.
+
+**Incomplete application**
+
+- **(3)** If, in the opinion of the Superintendent, the application is incomplete, the Superintendent must send a notice to the applicant specifying the information required by the Superintendent to complete it.
+
+**Notice of decision**
+
+- **(4)** Subject to subsection (5), the Minister must, within 30 days after the certified date referred to in subsection (2), send to the applicant
+	- **(a)** a notice approving the application; or
+	- **(b)** if the Minister is not satisfied that the application should be approved, a notice to that effect.
+
+**Extension of period**
+
+- **(5)** If the Minister is unable to complete the consideration of an application within the 30-day period, the Minister must, within that period, send a notice to the applicant informing the applicant that the Minister has extended the period for a further period set out in the notice.
+
+**Deemed approval**
+
+- **(6)** If the Minister does not send the notice referred to in subsection (4) or, if applicable, subsection (5), within the required period, the Minister is deemed to have approved the application.
+> 2007, c. 6, s. 184.
 
 
 
@@ -10108,6 +10279,10 @@ is, in the absence of evidence to the contrary, proof of the facts so certified 
 
 - **(1)** Every person who, without reasonable cause, contravenes any provision of this Act or the regulations is guilty of an offence.
 
+**False or misleading information**
+
+- **(1.1)** Every person who knowingly provides false or misleading information in relation to any matter under this Act or the regulations is guilty of an offence.
+
 **Undue preference to creditor**
 
 - **(2)** Every director, officer or employee of an association who wilfully gives or concurs in giving to any creditor of the association any fraudulent, undue or unfair preference over other creditors, by giving security to the creditor, by changing the nature of the creditor’s claim or otherwise, is guilty of an offence.
@@ -10119,6 +10294,8 @@ is, in the absence of evidence to the contrary, proof of the facts so certified 
 **Use of name**
 
 - **(4)** Except to the extent permitted by the regulations, every person who uses the name of an association in a prospectus, offering memorandum, takeover bid circular, advertisement for a transaction related to securities or in any other document in connection with a transaction related to securities is guilty of an offence.
+> 1991, c. 48, s. 465; 2007, c. 6, s. 185.
+
 
 
 
