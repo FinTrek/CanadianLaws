@@ -11,7 +11,7 @@ Sanctionnée sur le 1 février 2007
 
 
 
-Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
 
 
@@ -37,17 +37,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***entité*** Personne morale, société de personnes, fiducie, coentreprise ou organisation ou association non dotée de la personnalité morale.
+***entité*** Personne morale, société de personnes, fiducie, coentreprise ou organisation ou association non dotée de la personnalité morale. (*entity*)
 
-***ministre*** Le ministre des Transports.
+***ministre*** Le ministre des Transports. (*Minister*)
 
-***modification*** Sont notamment visés la conversion, l’agrandissement et le changement d’usage du pont ou tunnel international; ne sont toutefois pas visés son exploitation, son entretien et sa réparation.
+***modification*** Sont notamment visés la conversion, l’agrandissement et le changement d’usage du pont ou tunnel international; ne sont toutefois pas visés son exploitation, son entretien et sa réparation. (*alteration*)
 
-***pont ou tunnel international*** Tout ou partie du pont ou du tunnel reliant tout lieu au Canada à un lieu hors du Canada, y compris les approches et installations connexes.
+***pont ou tunnel international*** Tout ou partie du pont ou du tunnel reliant tout lieu au Canada à un lieu hors du Canada, y compris les approches et installations connexes. (*international bridge or tunnel*)
 
-***titre*** Dans le cas d’une personne morale, action de toute catégorie ou titre de créance sur cette dernière, ainsi que le bon de souscription correspondant, mais à l’exclusion des dépôts effectués auprès d’une institution financière ou des documents les attestant; dans le cas de toute autre entité, les titres de participation ou titres de créance afférents.
+***titre*** Dans le cas d’une personne morale, action de toute catégorie ou titre de créance sur cette dernière, ainsi que le bon de souscription correspondant, mais à l’exclusion des dépôts effectués auprès d’une institution financière ou des documents les attestant; dans le cas de toute autre entité, les titres de participation ou titres de créance afférents. (*security*)
 
-***titre de créance*** Toute preuve d’une créance sur l’entité ou d’une garantie donnée par elle, avec ou sans sûreté, et notamment une obligation, une débenture ou un billet.
+***titre de créance*** Toute preuve d’une créance sur l’entité ou d’une garantie donnée par elle, avec ou sans sûreté, et notamment une obligation, une débenture ou un billet. (*debt obligation*)
 
 
 
@@ -869,7 +869,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Demandes : construction ou modification**
+**Demandes : construction ou modification**
 
 **57** Il est entendu que la présente loi s’applique aux demandes visant la construction ou la modification d’un pont ou tunnel international qui ont été présentées à un ministère ou organisme fédéral avant l’entrée en vigueur du présent article.
 
@@ -901,9 +901,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Décret**
 
-<sup><a href='#nbp_Ind80C1_hq_16233'>[*]</a></sup>**60** Les dispositions de la présente loi entrent en vigueur à la date ou aux dates fixées par décret.
+<sup><a href='#nbp_Ind9DC1_hq_16232'>[*]</a></sup>**60** Les dispositions de la présente loi entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='nbp_Ind80C1_hq_16233'><sup>*</sup></a>: [Note : Loi non en vigueur.]<br />
+<a name='nbp_Ind9DC1_hq_16232'><sup>*</sup></a>: [Note : Loi en vigueur le 25 avril 2007, *voir* TR/2007-50.]<br />
 
 
 
@@ -1058,7 +1058,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **49** Loi relative au pont de Queenston, S.C. 1959, ch. 53
 
 
-**50** [Loi sur l’Administration du pont Blue Water](/fr/Lois/Lois%20du%20Canada/1964-65/ch.%206.md), S.C. 1964-65, ch. 6
+**50** [Loi sur l’Administration du pont Blue Water](/fr/Lois/Lois%20du%20Canada/1964-65/ch.%206.md), S.C. 1964-65, ch. 6
 
 
 **51** Loi sur le pont de Milltown, S.C. 1966-67, ch. 9
@@ -1067,7 +1067,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **52** [Loi sur l’Administration du pont Fort-Falls](/fr/Lois/Lois%20du%20Canada/1970-71-72/ch.%2051.md), S.C. 1970-71-72, ch. 51
 
 
-**53** Loi concernant l’acquisition, l’exploitation et l’aliénation du Tunnel Windsor-Détroit par la cité de Windsor, S.C. 1987, ch. 55
+**53** Loi concernant l’acquisition, l’exploitation et l’aliénation du Tunnel Windsor-Détroit par la cité de Windsor, S.C. 1987, ch. 55
 
 
 
