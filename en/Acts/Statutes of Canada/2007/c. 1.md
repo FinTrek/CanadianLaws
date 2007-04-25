@@ -37,19 +37,19 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **2** The following definitions apply in this Act.
 
-***alteration*** includes a conversion, an extension and a change in the use of an international bridge or tunnel but does not include its operation, maintenance and repair.
+***alteration*** includes a conversion, an extension and a change in the use of an international bridge or tunnel but does not include its operation, maintenance and repair. (*modification*)
 
-***debt obligation*** means a bond, debenture, note or other evidence of indebtedness or guarantee of an entity, whether secured or unsecured.
+***debt obligation*** means a bond, debenture, note or other evidence of indebtedness or guarantee of an entity, whether secured or unsecured. (*titre de créance*)
 
-***entity*** means a corporation, partnership, trust, joint venture or unincorporated association or organization.
+***entity*** means a corporation, partnership, trust, joint venture or unincorporated association or organization. (*entité*)
 
-***international bridge or tunnel*** means a bridge or tunnel, or any part of it, that connects any place in Canada to any place outside Canada, and includes the approaches and facilities related to the bridge or tunnel.
+***international bridge or tunnel*** means a bridge or tunnel, or any part of it, that connects any place in Canada to any place outside Canada, and includes the approaches and facilities related to the bridge or tunnel. (*pont ou tunnel international*)
 
-***Minister*** means the Minister of Transport. 
+***Minister*** means the Minister of Transport.  (*ministre*)
 
-***security*** means 
+***security*** means 
 - **(a)** in relation to a corporation, a share of any class of shares of the corporation or a debt obligation of the corporation, and includes a warrant of the corporation, but does not include a deposit with a financial institution or any instrument evidencing such a deposit; and
-- **(b)** in relation to any other entity, any ownership interest in or debt obligation of the entity.
+- **(b)** in relation to any other entity, any ownership interest in or debt obligation of the entity. (*titre*)
 
 
 
@@ -914,9 +914,9 @@ The judge shall include in the order a declaration of the nature and extent of t
 
 **Order in council**
 
-<sup><a href='#fn_Ind413D_hq_16767'>[*]</a></sup>**60** The provisions of this Act come into force on a day or days to be fixed by order of the Governor in Council.
+<sup><a href='#fn_Ind482D_hq_16766'>[*]</a></sup>**60** The provisions of this Act come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind413D_hq_16767'><sup>*</sup></a>: [Note: Act not in force.]<br />
+<a name='fn_Ind482D_hq_16766'><sup>*</sup></a>: [Note: Act in force April 25, 2007, *see* SI/2007-50.]<br />
 
 
 
@@ -1080,7 +1080,7 @@ The judge shall include in the order a declaration of the nature and extent of t
 **52** [Fort-Falls Bridge Authority Act](/en/Acts/Statutes%20of%20Canada/1970-71-72/c.%2051.md), S.C. 1970-71-72, c. 51
 
 
-**53** An Act respecting the acquisition, operation and disposal of the Windsor-Detroit Tunnel by the City of Windsor, S.C. 1987, c. 55
+**53** An Act respecting the acquisition, operation and disposal of the Windsor-Detroit Tunnel by the City of Windsor, S.C. 1987, c. 55
 
 
 
