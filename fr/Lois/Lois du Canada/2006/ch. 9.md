@@ -1773,7 +1773,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - <sup><a href='#fn_Ind40AF_hq_1748'>[*]</a></sup>**(1)** Sous réserve du paragraphe (2), les articles 239 à 242, 244, 246 à 253 et 261, les paragraphes 262(1) et (3) et les articles 263 à 266, 269, 283 à 289 et 295 entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='fn_Ind40AF_hq_1748'><sup>*</sup></a>: [Note : Articles 239 à 242 non en vigueur; articles 244, 246, 261, paragraphes 262(1) et (3) et articles 263 à 266, 269 et 295 en vigueur le 1<sup>er</sup> mars 2007, *voir* TR/2007-15; articles 247 à 253 en vigueur le 1<sup>er</sup> avril 2007, *voir* TR/2007-28; articles 283 à 289 en vigueur le 1<sup>er</sup> avril 2007, *voir* TR/2007-29; les autres dispositions, sauf paragraphe 262(2), en vigueur à la sanction le 12 décembre 2006.]<br />
+<a name='fn_Ind40AF_hq_1748'><sup>*</sup></a>: [Note : Articles 244, 246, 261, paragraphes 262(1) et (3) et articles 263 à 266, 269 et 295 en vigueur le 1<sup>er</sup> mars 2007, *voir* TR/2007-15; articles 247 à 253 en vigueur le 1<sup>er</sup> avril 2007, *voir* TR/2007-28; articles 283 à 289 en vigueur le 1<sup>er</sup> avril 2007, *voir* TR/2007-29; articles 239 à 242 en vigueur le 27 avril 2007, *voir* TR/2007-30; les autres dispositions, sauf paragraphe 262(2), en vigueur à la sanction le 12 décembre 2006.]<br />
 
 **Décret**
 
