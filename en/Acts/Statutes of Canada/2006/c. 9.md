@@ -1773,7 +1773,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - <sup><a href='#fn_Ind6531_hq_1752'>[*]</a></sup>**(1)** Subject to subsection (2), sections 239 to 242, 244, 246 to 253 and 261, subsections 262(1) and (3) and sections 263 to 266, 269, 283 to 289 and 295 come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind6531_hq_1752'><sup>*</sup></a>: [Note: Sections 239 to 242 not in force; sections 244, 246, 261, subsections 262(1) and (3) and sections 263 to 266, 269 and 295 in force March 1, 2007, *see* SI/2007-15; sections 247 to 253 in force April 1, 2007, *see* SI/2007-28; sections 283 to 289 in force April 1, 2007, *see* SI/2007-29; remainder of provisions, except subsection 262(2), in force on assent December 12, 2006.]<br />
+<a name='fn_Ind6531_hq_1752'><sup>*</sup></a>: [Note: Sections 244, 246, 261, subsections 262(1) and (3) and sections 263 to 266, 269 and 295 in force March 1, 2007, *see* SI/2007-15; sections 247 to 253 in force April 1, 2007, *see* SI/2007-28; sections 283 to 289 in force April 1, 2007, *see* SI/2007-29; sections 239 to 242 in force April 27, 2007, *see* SI/2007-30; remainder of provisions, except subsection 262(2), in force on assent December 12, 2006.]<br />
 
 **Order in council**
 
