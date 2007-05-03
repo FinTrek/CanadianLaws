@@ -14,7 +14,9 @@ Autorités habilitantes :
 ## Titre abrégé
 
 
-**1** Règlement de pilotage des Grands lacs.
+**1** Règlement de pilotage des Grands Lacs.
+> DORS/2007-95, art. 1(F).
+
 
 
 
@@ -42,14 +44,14 @@ Autorités habilitantes :
 
 ***président***[Abrogée, DORS/2004-215, art. 1]
 
-***région*** désigne la région de l'Administration de pilotage des Grands lacs décrite dans l'annexe de la Loi; (*region*)
+***région*** désigne la région de l'Administration de pilotage des Grands Lacs décrite dans l'annexe de la Loi; (*region*)
 
 ***surveillant***[Abrogée, DORS/2004-215, art. 1]
 
 ***tonneaux de jauge brute au registre*** s'entend de la jauge brute mentionnée sur le certificat d'immatriculation ou le certificat de jauge d'un navire et, lorsque le navire a plus d'une jauge brute au registre, de la jauge brute au registre la plus forte; (*gross registered tons*)
 
 ***vice-président***[Abrogée, DORS/2004-215, art. 1]
-> DORS/2004-215, art. 1.
+> DORS/2004-215, art. 1; DORS/2007-95, art. 3(F).
 
 
 
@@ -90,17 +92,17 @@ Autorités habilitantes :
 			- **(B)** dans les limites d'un port;
 	- **c)** un navire
 		- **(i)** qui a été inspecté et pour lequel un certificat a été délivré par le Bureau d'inspection des navires à vapeur établi en vertu de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md),
-		- **(ii)** qui navigue uniquement dans les Grands lacs ou les eaux intérieures du Canada, sauf lors d'occasionnels voyages de cabotage, et
+		- **(ii)** qui navigue uniquement dans les Grands Lacs ou les eaux intérieures du Canada, sauf lors d'occasionnels voyages de cabotage, et
 		- **(iii)** qui est sous le commandement d'un capitaine ou d'un officier de pont
 			- **(A)** qui est un membre régulier de l'équipage du navire,
 			- **(B)** qui détient un certificat de capacité de la classe et de la catégorie appropriées, délivré par le ministre des Transports ou reconnu par lui aux fins du paragraphe 130(1) de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md), et
 			- **(C)** qui possède un certificat délivré par le propriétaire du navire au cours des 12 derniers mois, qui atteste que le capitaine ou l'officier de pont a effectué dans la zone de pilotage obligatoire où le navire navigue, au moins 10 voyages d'aller au cours des trois années précédant la date du certificat;
 	- **d)** un navire
-		- **(i)** qui navigue uniquement dans les Grands lacs ou les eaux intérieures du Canada, sauf lors d'occasionnels voyages de cabotage, et
+		- **(i)** qui navigue uniquement dans les Grands Lacs ou les eaux intérieures du Canada, sauf lors d'occasionnels voyages de cabotage, et
 		- **(ii)** qui est sous le commandement d'un capitaine ou d'un officier de pont qui détient un certificat de compétence ou un document similaire délivré en vertu des lois des États-Unis, qui l'autorise à avoir le commandement du navire dans la zone de pilotage obligatoire où celui-ci navigue.
 
 - **(2)** Lorsque plusieurs navires sont poussés ou remorqués et que leur longueur totale, y compris celle des câbles de remorque, est de 79,25 mètres ou plus, chacun de ces navires est assujetti au pilotage obligatoire. 
-> DORS/79-48, art. 1; DORS/81-63, art. 1; DORS/83-256, art. 1.
+> DORS/79-48, art. 1; DORS/81-63, art. 1; DORS/83-256, art. 1; DORS/2007-95, art. 3(F).
 
 
 
@@ -143,7 +145,9 @@ Autorités habilitantes :
 
 - **(1)** Sous réserve du paragraphe (2), lorsque les eaux canadiennes sont contiguës à celles des États-Unis, un navire assujetti au pilotage obligatoire peut être placé sous la conduite d'une personne dûment autorisée à piloter par une administration compétente des États-Unis.
 
-- **(2)** Le paragraphe (1) ne s'applique pas à moins que les titulaires d'un brevet ou d'un certificat de pilotage attribué en vertu de la Loi et de tout règlement d'application de la Loi ne reçoivent du gouvernement des États-Unis une autorisation semblable pour les eaux américaines des Grands lacs, leurs eaux de communication et leurs eaux tributaires et pour les eaux du Saint-Laurent, en direction de l'est jusqu'à Saint-Régis dans la province de Québec.
+- **(2)** Le paragraphe (1) ne s'applique pas à moins que les titulaires d'un brevet ou d'un certificat de pilotage attribué en vertu de la Loi et de tout règlement d'application de la Loi ne reçoivent du gouvernement des États-Unis une autorisation semblable pour les eaux américaines des Grands Lacs, leurs eaux de communication et leurs eaux tributaires et pour les eaux du Saint-Laurent, en direction de l'est jusqu'à Saint-Régis dans la province de Québec.
+> DORS/2007-95, art. 3(F).
+
 
 
 
@@ -171,6 +175,22 @@ Autorités habilitantes :
 - **(1)** Sous réserve du paragraphe (2), le propriétaire, l'agent ou le capitaine d'un navire qui a besoin des services d'un pilote doit donner un préavis au plus proche bureau de pilotes de l'Administration de l'heure à laquelle le pilote devra monter à bord au moins 12 heures avant le moment où les services de pilote sont requis et doit en confirmer l'heure quatre heures avant le moment où le pilote doit se trouver à bord.
 
 - **(2)** Un fonctionnaire de l'Administration peut donner dispense du préavis qu'exige le paragraphe (1).
+
+
+
+
+## Relève de pilotes à l’écluse iroquois
+
+
+**8.1** 
+
+- **(1)** Tout navire qui est sous la conduite d’un pilote breveté et qui transite par la circonscription internationale nº 1 effectue la relève de celui-ci à l’écluse Iroquois si :
+	- **a)** dans le cas d’un voyage remontant, le transit du navire pour se rendre au point d’appel nº 7 à partir du pont de Valleyfield est d’une durée supérieure à 1 heure 16 minutes;
+	- **b)** dans le cas d’un voyage descendant, le transit du navire pour se rendre au haut-fond Crossover à partir du cap Vincent est d’une durée supérieure à 3 heures 56 minutes.
+
+- **(2)** Le paragraphe (1) ne s’applique pas s’il n’y a aucun pilote breveté disponible pour la relève à l’écluse Iroquois.
+> DORS/2007-95, art. 2.
+
 
 
 
