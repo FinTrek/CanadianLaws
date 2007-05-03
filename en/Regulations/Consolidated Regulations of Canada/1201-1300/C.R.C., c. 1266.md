@@ -15,6 +15,8 @@ Enabling authorities:
 
 
 **1** These Regulations may be cited as the Great Lakes Pilotage Regulations.
+> SOR/2007-95, s. 1(F).
+
 
 
 
@@ -49,7 +51,7 @@ Enabling authorities:
 ***supervisor*** [Repealed, SOR/2004-215, s. 1]
 
 ***Vice-Chairman*** [Repealed, SOR/2004-215, s. 1]
-> SOR/2004-215, s. 1.
+> SOR/2004-215, s. 1; SOR/2007-95, s. 3(F).
 
 
 
@@ -100,7 +102,7 @@ Enabling authorities:
 		- **(ii)** is under the conduct of a master or deck watch officer who holds a certificate of competency or similar document issued pursuant to the laws of the United States that authorizes that person to have the conduct of the ship within the compulsory pilotage area in which the ship is navigating.
 
 - **(2)** Where two or more ships are being pushed or towed and the total length of those ships including the length of the towing lines is equal to or exceeds 79.25 m, each of those ships is subject to compulsory pilotage.
-> SOR/79-48, s. 1; SOR/81-63, s. 1; SOR/83-256, s. 1.
+> SOR/79-48, s. 1; SOR/81-63, s. 1; SOR/83-256, s. 1; SOR/2007-95, s. 3(F).
 
 
 
@@ -144,6 +146,8 @@ Enabling authorities:
 - **(1)** Subject to subsection (2), where Canadian waters are contiguous with waters of the United States, a ship subject to compulsory pilotage may be under the conduct of a person who is duly authorized to have such conduct by an appropriate authority of the United States.
 
 - **(2)** Subsection (1) does not apply unless persons holding licences or pilotage certificates under the Act and any regulations made pursuant to the Act are granted similar authority by the Government of the United States for the United States waters of the Great Lakes, their connecting and tributary waters and the St. Lawrence River as far east as St. Regis in the Province of Quebec.
+> SOR/2007-95, s. 3(F).
+
 
 
 
@@ -171,6 +175,22 @@ Enabling authorities:
 - **(1)** Subject to subsection (2), the owner, agent or master of a ship that requires the services of a pilot shall advise a person at the nearest pilot office of the Authority of the time the pilot will be required to be on board the ship at least 12 hours before the pilot is so required, and shall confirm the time four hours before the pilot is so required.
 
 - **(2)** A notice required by subsection (1) may be waived with the permission of an officer of the Authority.
+
+
+
+
+## Exchange of Pilots at Iroquois Lock
+
+
+**8.1** 
+
+- **(1)** A ship that is under the conduct of a licensed pilot and is transiting International District No. 1 shall exchange pilots at Iroquois Lock if
+	- **(a)** in respect of an upbound voyage, the ship takes longer than 1 hour and 16 minutes to transit from Valleyfield Bridge to Calling-In Point No. 7; or
+	- **(b)** in respect of a downbound voyage, the ship takes longer than 3 hours and 56 minutes to transit from Cape Vincent to Crossover Shoal.
+
+- **(2)** Subsection (1) does not apply if no licensed pilots are available for an exchange at Iroquois Lock.
+> SOR/2007-95, s. 2.
+
 
 
 
