@@ -1817,31 +1817,34 @@ if the contributor returns to any duties or training referred to in paragraph (a
 ### Operational Service
 
 
-**53** For the purposes of the definition “operational service” in section 24.1 of the Act and of sections 54 to 58, operational service is
+**53** The following are designated as operational service for the purposes of the definition ***operational service*** in section 24.1 of the Act and of sections 54, 57 and 58:
 - **(a)** any service by a person who is employed by the Correctional Service of Canada and whose principal place of work is other than
 	- **(i)** the national headquarters or a regional headquarters of the Correctional Service of Canada,
-	- **(ii)** the offices of the Commissioner of Corrections, or
-	- **(iii)** a Regional Correctional Staff College or any other institution that provides similar training to Correctional Service of Canada employees; and
-- **(b)** any period of absence by a person from service described in paragraph (a)
-	- **(i)** of less than six months during which the person is employed in the Public Service other than in the Correctional Service of Canada and after which the person returns to service referred to in paragraph (a), or
-	- **(ii)** of two years or less during which the person remains employed by the Correctional Service of Canada.
-> SOR/94-259, s. 1.
+	- **(ii)** the offices of the Commissioner of the Correctional Service of Canada, or
+	- **(iii)** a Regional Staff College of the Correctional Service of Canada or any other institution that provides training to Correctional Service of Canada employees similar to that provided by a Regional Staff College;
+- **(b)** any period of temporary absence of less than six months during which the person is employed in the public service other than in the Correctional Service of Canada, at the end of which the person returns to the service referred to in paragraph (a); and
+- **(c)** any period of temporary absence of two years or less during which the person is not employed in the service referred to in paragraph (a) but remains employed by the Correctional Service of Canada.
+> SOR/94-259, s. 1; SOR/2007-106, s. 1.
 
 
 
 
 **54** 
 
-- **(1)** Subject to subsection (2), a person who has been employed in operational service that is pensionable service for one or more periods totalling 10 or more years and who ceases to be employed in operational service but continues to be employed by the Correctional Service of Canada shall be deemed to be employed in operational service while the person continues to be employed by the Correctional Service of Canada if the person so elects before the later of
-	- **(a)** the day that is 90 days after the person ceases to be employed in operational service, and
-	- **(b)** the day that is 90 days after the day on which a notice from the deputy head confirming the date on which the person ceased, or will cease, to be employed in operational service is sent to the person.
+- **(1)** A person is deemed to be employed in operational service while employed by the Correctional Service of Canada if the person
+	- **(a)** was less than 35 years of age when the person first became employed in operational service on the condition that, if at that time the person was at least 30 years of age, the person had less than five years of pensionable service that is not operational service;
+	- **(b)** was employed in operational service that is pensionable service for one or more periods totalling at least 10 years;
+	- **(c)** has ceased to be employed in operational service; and
+	- **(d)** has made an election to be so deemed before the 90th day after the later of
+		- **(i)** the day on which the person ceases to be employed in operational service, and
+		- **(ii)** the day on which a notice is sent to the person from the deputy head confirming the date on which the person ceased to be employed in operational service.
 
-- **(2)** The total of periods of operational service that is pensionable service referred to in subsection (1) shall not include
-	- **(a)** any period of absence referred to in subparagraph 53(b)(i); or
-	- **(b)** any portion of a period of absence referred to in subparagraph 53(b)(ii) that is in excess of six months.
+- **(2)** Any period referred to in paragraph 53(b), and any portion of a period referred to in paragraph 53(c) that is in excess of six months, is not counted as operational service under paragraph (1)(b).
 
-- **(3)** An election under subsection (1) takes effect on the day following the day on which the person ceases to be employed in operational service and is irrevocable.
-> SOR/94-259, s. 1.
+- **(3)** The election takes effect on the day following the day on which the person ceases to be employed in operational service.
+
+- **(4)** The election is irrevocable and remains in effect until the day before the day on which the person again becomes employed in operational service or until the day on which the person ceases to be employed by the Correctional Service of Canada.
+> SOR/94-259, s. 1; SOR/2007-106, s. 2.
 
 
 
@@ -1852,44 +1855,38 @@ if the contributor returns to any duties or training referred to in paragraph (a
 
 **55** 
 
-- **(1)** Subject to subsection (2), the amount required, pursuant to subsection 24.4(1) of the Act, to be contributed to the Superannuation Account by a person referred to in that subsection is an amount equal to 1.25 per cent of the person’s salary.
+- **(1)** Subject to subsection (3), the amount required to be contributed under subsection 24.4(1) of the Act is 0.62 per cent of the person’s salary.
 
-- **(2)** A person referred to in subsection 24.4(1) of the Act who is absent on leave without pay shall contribute to the Superannuation Account, in addition to any amount payable pursuant to section 7,
-	- **(a)** in respect of the first three months of the period of absence, the amount referred to in subsection (1); and
-	- **(b)** in respect of any portion of the remainder of the period of absence in respect of which the person has not made an election under subsection 5.3(2) of the Act,
-		- **(i)** where the person is absent in the circumstances set out in subsection 7(2) or (3), the amount referred to in subsection (1), and
-		- **(ii)** in any other case, an amount equal to double the amount referred to in subsection (1).
-> SOR/94-259, s. 1.
+- **(2)** The persons to whom subsection 24.4(1) of the Act does not apply are those who do not meet the conditions set out in subsection 54(1).
+
+- **(3)** The contribution that a person on leave without pay who does meet those conditions shall pay, in addition to any amount payable under section 7, is the following:
+	- **(a)** in respect of the first three months of the leave, the amount referred to in subsection (1) that the person would have had to pay if the person had not been on leave; and
+	- **(b)** in respect of the remainder of the leave, if the person has not made an election under subsection 5.3(1) of the Act,
+		- **(i)** where the person is on leave without pay as referred to in subsection 7(2) or (3), the amount referred to in paragraph (a), and
+		- **(ii)** in any other case, an amount equal to double that amount.
+> SOR/94-259, s. 1; SOR/2007-106, ss. 3, 4.
 
 
 
 
-**56** For the purposes of subsection 24.4(2) of the Act, the following are classes of persons to whom subsection 24.4(1) of the Act does not apply:
-- **(a)** persons who, on the day of coming into force of section 24.4 of the Act, would have been entitled to an immediate annuity under paragraph 13(1)(a) or subparagraph 13(1)(c)(i) of the Act if those persons had ceased to be employed in the Public Service at that time;
-- **(b)** persons who, at the time of becoming employed in operational service, are or were 35 years of age or older, and whose age, in years, minus the aggregate of
-	- **(i)** the number of years of operational service that is pensionable service to their credit, and
-	- **(ii)** the number of years of previous operational service in respect of which they may elect to contribute, pursuant to clause 6(1)(b)(iii)(I) of the Act,
-is equal to or greater than 35; and
-- **(c)** persons who, at the time of becoming employed in operational service,
-	- **(i)** are or were at least 30 years of age but less than 35 years of age, and
-	- **(ii)** have or had five or more years of pensionable service that is not operational service to their credit.
-> SOR/94-259, s. 1.
-
+**56** [Repealed, SOR/2007-106, s. 5]
 
 
 
 **57** 
 
-- **(1)** For the purposes of sections 24.2 and 24.3 of the Act, operational service that occurred on or after the day of coming into force of those sections and in respect of which a person has made an election pursuant to section 6 of the Act is operational service that is pensionable service to the credit of the person only if the person further elects, while employed in operational service, to contribute to the Superannuation Account an additional amount determined in accordance with subsection (2), together with interest within the meaning of subsection 7(2) of the Act.
+- **(1)** In this section and in section 58, ***actual operational service*** means the service and the periods of absence designated as operational service under section 53 and ***deemed operational service*** means any period during which a person is deemed to be employed in operational service under section 54.
 
-- **(2)** For the purposes of subsection (1), the additional contribution of a person who elects to contribute in respect of previous operational service described in that subsection shall be in an amount equal to the amount that the person would have been required, pursuant to section 55, to contribute in respect of that service, based on the salary authorized to be paid to the person
-	- **(a)** where the person so elects within one year after the day on which the person most recently became employed in operational service, on the day on which the person most recently became employed in operational service; or
-	- **(b)** in any other case, on the day on which the person so elects.
+- **(2)** Actual and deemed operational service that occurred on or after March 18, 1994 and in respect of which a person has made an election under subparagraph 6(1)(b)(iii) of the Act is pensionable service to the credit of the person, for the purposes of sections 24.2 and 24.3 of the Act, only if the person further elects, while employed in operational service, to contribute an additional amount determined in accordance with subsection (3), together with interest within the meaning of subsection 7(2) of the Act.
 
-- **(3)** An amount payable pursuant to subsection (1) shall be paid
-	- **(a)** in a lump sum, at the time the election referred to in subsection (2) is made; or
+- **(3)** The additional amount shall be equal to the amount that the person would have been required to contribute in respect of that service under section 55 as it read at the time the service occurred, based on the salary authorized to be paid to the person
+	- **(a)** on the day on which the person most recently became employed in actual operational service, if the person makes the election within one year after that day; or
+	- **(b)** in any other case, on the day on which the person makes the election.
+
+- **(4)** The additional amount and the interest shall be paid, at the person’s option,
+	- **(a)** in a lump sum, at the time the election is made; or
 	- **(b)** by deduction from the person’s salary or from any benefits payable to the person under the Act, in approximately equal instalments.
-> SOR/94-259, s. 1; SOR/97-490, s. 5(F).
+> SOR/94-259, s. 1; SOR/97-490, s. 5(F); SOR/2007-106, s. 6.
 
 
 
@@ -1900,14 +1897,57 @@ is equal to or greater than 35; and
 
 **58** 
 
-- **(1)** For the purposes of section 24.2 of the Act, a person referred to in that section is entitled, on ceasing to be employed in the Public Service, at the person’s option and in lieu of any benefit to which that person is entitled under subsection 13(1) of the Act in respect of operational service,
-	- **(a)** if the person is 50 years of age or older at the time the person ceases to be employed in operational service and has 25 or more years of operational service that is pensionable service to the person’s credit, to an immediate annuity in respect of that service; or
-	- **(b)** if the person is 45 years of age or older at the time the person ceases to be employed in operational service and has 20 or more years of operational service that is pensionable service to the person’s credit, to an annual allowance in respect of that service, payable immediately, equal to the amount of the deferred annuity to which the person is entitled under subsection 13(1) of the Act in respect of that service, less an amount equal to the product obtained by multiplying five per cent of the amount of that deferred annuity by the greater of
-		- **(i)** 50 minus the age, in years, of the person at the time of the option, calculated to the nearest one tenth of a year, and
-		- **(ii)** 25 minus the number of years of operational service that is pensionable service to the person’s credit, calculated to the nearest one tenth of a year.
+- **(1)** The years of service referred to in subsection (2) shall only include service that is pensionable service to the person’s credit.
 
-- **(2)** A person referred to in paragraph (1)(a) who does not exercise an option under subsection (1) or under subsection 13(1) of the Act within one year after ceasing to be employed in the Public Service shall be deemed to have opted under subsection (1) to receive an immediate annuity.
-> SOR/94-259, s. 1.
+- **(2)** The benefit to which a person who exercises the option under section 24.2 of the Act is entitled, in respect of service referred to in each of the following paragraphs, is the following:
+	- **(a)** if the person has at least 25 years of actual operational service, an immediate annuity;
+	- **(b)** if the person has at least 20, but less than 25, years of actual operational service, an annual allowance equal to an amount determined by the formula
+```
+A - (A × 5% × B)
+```
+where
+- **A** is the amount of the deferred annuity to which the person would be entitled in respect of that service under subsection 13(1) of the Act, and
+- **B** is 25 minus the number of years of actual operational service, rounded to the nearest 1/10 of a year;
+	- **(c)** if the person is at least 50 years of age when the person ceases to be employed in operational service and has at least 25 years of actual and deemed operational service, an immediate annuity;
+	- **(d)** if the person is at least 50 years of age when the person ceases to be employed in operational service and has at least 20, but less than 25, years of actual and deemed operational service, an annual allowance equal to an amount determined by the formula
+```
+A - (A × 5% × B)
+```
+where
+- **A** is the amount of the deferred annuity to which the person would be entitled in respect of that service under subsection 13(1) of the Act, and
+- **B** is 25 minus the number of years of actual and deemed operational service, rounded to the nearest 1/10 of a year;
+	- **(e)** if the person is at least 45, but less than 50, years of age when the person ceases to be employed in operational service and has at least 20 years of such service including at least 10, but less than 20, years of actual operational service, in addition to some deemed operational service, an annual allowance equal to an amount determined by the formula
+```
+A - (A × 5% × B)
+```
+where
+- **A** is the amount of the deferred annuity to which the person would be entitled in respect of that service under subsection 13(1) of the Act, and
+- **B** is the greater of
+	- **(i)** 50 minus their age in years, rounded to the nearest 1/10 of a year, at the time the person exercises the option, and
+	- **(ii)** 25 minus the total number of years of actual and deemed operational service, rounded to the nearest 1/10 of a year;
+	- **(f)** if the person is at least 45, but less than 50, years of age when the person ceases to be employed in operational service and has at least 20, but less than 25, years of actual operational service, in addition to some deemed operational service, an annual allowance equal to an amount equal to the greater of
+		- **(i)** the sum of
+			- **(A)** the amount of annual allowance determined in accordance with the formula set out in paragraph (b), and
+			- **(B)** the amount of annual allowance determined by the formula
+```
+A - (A × 5% × B)
+```
+where
+- **A** is the amount of the deferred annuity to which the person would be entitled in respect of the deemed operational service under subsection 13(1) of the Act, and
+- **B** is the greater of
+			- **(I)** 50 minus their age in years, rounded to the nearest 1/10 of a year, at the time the person exercises the option, and
+			- **(II)** 25 minus the total number of years of actual and deemed operational service, rounded to the nearest 1/10 of a year, and
+		- **(ii)** the amount of the annual allowance determined in accordance with the formula set out in paragraph (e); or
+	- **(g)** if the person is at least 45, but less than 50, years of age when the person ceases to be employed in operational service, is entitled to an immediate annuity under paragraph (a) and has some deemed operational service, an annual allowance equal to an amount determined by the formula
+```
+A - (A × 5% × B)
+```
+where
+- **A** is the amount of the deferred annuity to which the person would be entitled in respect of that service under subsection 13(1) of the Act, and
+- **B** is 50 minus their age in years, rounded to the nearest 1/10 of a year, at the time the person exercises the option.
+
+- **(3)** A person who would be entitled to an immediate annuity under paragraph (2)(a) or (c) and who does not exercise the option referred to in subparagraph 13(1)(c)(ii) or section 13.01 or 24.2 of the Act within one year after ceasing to be employed in the public service is deemed to have exercised the option under the latter section.
+> SOR/94-259, s. 1; SOR/2007-106, ss. 7, 8.
 
 
 
