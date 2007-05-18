@@ -1814,31 +1814,34 @@ si le contributeur reprend lesdites fonctions ou ladite formation immédiatement
 ### Service opérationnel
 
 
-**53** Pour l’application de la définition de ***service opérationnel*** à l’article 24.1 de la Loi et des articles 54 à 58, sont désignés comme service opérationnel :
-- **a)** tout service effectué par une personne qui est employée par le Service correctionnel du Canada et dont le principal lieu de travail n’est pas :
+**53** Pour l’application de la définition de ***service opérationnel*** à l’article 24.1 de la Loi et des articles 54, 57 et 58, sont désignés comme service opérationnel :
+- **a)** le service effectué par la personne qui travaille pour le Service correctionnel du Canada et dont le principal lieu de travail n’est pas :
 	- **(i)** l’administration centrale ou une administration régionale du Service correctionnel du Canada,
 	- **(ii)** les bureaux du commissaire du Service correctionnel du Canada,
-	- **(iii)** un collège du personnel du Service correctionnel du Canada ou tout autre établissement offrant une formation similaire aux employés de ce service;
-- **b)** toute période d’absence du service visé à l’alinéa a) :
-	- **(i)** d’une durée de moins de six mois, durant laquelle la personne est employée dans la fonction publique ailleurs que dans le Service correctionnel du Canada et à la fin de laquelle elle réintègre le service visé à l’alinéa a),
-	- **(ii)** d’une durée d’au plus deux ans, durant laquelle la personne demeure à l’emploi du Service correctionnel du Canada.
-> DORS/94-259, art. 1.
+	- **(iii)** un collège régional du personnel du Service correctionnel du Canada ou tout autre établissement offrant aux employés de ce service une formation analogue à celle qu’offre un collège régional;
+- **b)** toute période d’absence temporaire de moins de six mois durant laquelle la personne travaille dans la fonction publique ailleurs qu’au Service correctionnel du Canada, et à la fin de laquelle elle recommence à effectuer le service visé à l’alinéa a);
+- **c)** toute période d’absence temporaire d’au plus deux ans durant laquelle la personne n’effectue pas le service visé à l’alinéa a) mais continue à travailler pour le Service correctionnel du Canada.
+> DORS/94-259, art. 1; DORS/2007-106, art. 1.
 
 
 
 
 **54** 
 
-- **(1)** Sous réserve du paragraphe (2), la personne qui a été affectée au service opérationnel qui constitue du service ouvrant droit à pension durant une ou plusieurs périodes totalisant au moins 10 ans et qui cesse d’y être affectée tout en demeurant employée du Service correctionnel du Canada est réputée affectée au service opérationnel tant qu’elle reste ainsi employée, si elle en fait le choix avant le dernier en date des jours suivants :
-	- **a)** le 90<sup>e</sup> jour suivant la cessation de son affectation au service opérationnel;
-	- **b)** le 90<sup>e</sup> jour suivant celui où l’avis du sous-ministre confirmant la date de la cessation de son affectation au service opérationnel est envoyé à la personne.
+- **(1)** La personne qui remplit les conditions ci-après est réputée être affectée au service opérationnel tant qu’elle travaille pour le Service correctionnel du Canada :
+	- **a)** elle était âgée de moins de trente-cinq ans lorsqu’elle a été affectée au service opérationnel pour la première fois et, si elle était alors âgée de trente ans ou plus, comptait à son crédit moins de cinq années de service ouvrant droit à pension qui ne constituaient pas du service opérationnel;
+	- **b)** elle a effectué du service opérationnel qui constitue du service ouvrant droit à pension durant une ou plusieurs périodes totalisant au moins dix ans;
+	- **c)** elle a cessé d’y être affectée;
+	- **d)** elle fait le choix d’être réputée y être affectée avant le dernier en date des jours suivants :
+		- **(i)** le 90<sup>e</sup> jour suivant la cessation de son affectation,
+		- **(ii)** le 90<sup>e</sup> jour suivant celui où lui est envoyé l’avis du sous-ministre confirmant la date de la cessation de son affectation.
 
-- **(2)** Le total des périodes de service opérationnel qui constitue du service ouvrant droit à pension visé au paragraphe (1) ne comprend :
-	- **a)** aucune période d’absence visée au sous-alinéa 53b)(i);
-	- **b)** ni la fraction d’une période d’absence visée au sous-alinéa 53b)(ii) qui excède six mois.
+- **(2)** Dans le calcul du service opérationnel visé à l’alinéa (1)b), il n’est tenu compte ni de la période visée à l’alinéa 53b) ni de la fraction de la période visée à l’alinéa 53c) qui excède six mois.
 
-- **(3)** Le choix visé au paragraphe (1) prend effet le lendemain du jour où la personne cesse d’être affectée au service opérationnel; il est irrévocable.
-> DORS/94-259, art. 1.
+- **(3)** Le choix vaut à compter du lendemain du jour où la personne cesse d’être affectée au service opérationnel.
+
+- **(4)** Il est irrévocable; toutefois, il n’est effectif que jusqu’à la veille du jour où la personne est de nouveau affectée au service opérationnel ou jusqu’au jour où elle cesse de travailler pour le Service correctionnel du Canada.
+> DORS/94-259, art. 1; DORS/2007-106, art. 2.
 
 
 
@@ -1849,43 +1852,38 @@ si le contributeur reprend lesdites fonctions ou ladite formation immédiatement
 
 **55** 
 
-- **(1)** Sous réserve du paragraphe (2), la contribution que la personne visée au paragraphe 24.4(1) de la Loi est tenue de verser au compte de pension de retraite aux termes de ce paragraphe est égale à 1,25 pour cent de son traitement.
+- **(1)** Sous réserve du paragraphe (3), la contribution que la personne visée au paragraphe 24.4(1) de la Loi est tenue de payer correspond à 0,62 % de son traitement.
 
-- **(2)** Lorsque la personne visée au paragraphe 24.4(1) de la Loi est absente en congé non payé, elle est tenue de verser au compte de pension de retraite, en sus de tout montant payable aux termes de l’article 7 :
-	- **a)** à l’égard des trois premiers mois de la période d’absence, la contribution prévue au paragraphe (1);
-	- **b)** à l’égard du reliquat de la période d’absence pour lequel elle n’a pas effectué le choix visé au paragraphe 5.3(2) de la Loi :
-		- **(i)** dans le cas où elle est absente dans les circonstances visées aux paragraphes 7(2) ou (3), la contribution prévue au paragraphe (1),
-		- **(ii)** dans tout autre cas, le double de la contribution prévue au paragraphe (1).
-> DORS/94-259, art. 1.
+- **(2)** Les personnes auxquelles le paragraphe 24.4(1) de la Loi ne s’applique pas sont celles qui ne remplissent pas les conditions visées au paragraphe 54(1).
+
+- **(3)** La contribution qu’est tenue de payer, en sus de toute somme à verser aux termes de l’article 7, la personne qui remplit ces conditions et qui est en congé non payé est la suivante :
+	- **a)** pour les trois premiers mois de la période de congé, la contribution qu’elle aurait dû payer aux termes du paragraphe (1) si elle n’avait pas été en congé;
+	- **b)** pour le reliquat de la période de congé, si elle n’a pas effectué le choix visé au paragraphe 5.3(1) de la Loi :
+		- **(i)** s’il s’agit d’un congé visé au paragraphe 7(2) ou (3), la contribution visée à l’alinéa a),
+		- **(ii)** dans tout autre cas, le double de cette contribution.
+> DORS/94-259, art. 1; DORS/2007-106, art. 3 et 4.
 
 
 
 
-**56** Pour l’application du paragraphe 24.4(2) de la Loi, les catégories de personnes auxquelles le paragraphe 24.4(1) de la Loi ne s’applique pas sont les suivantes :
-- **a)** les personnes qui, à la date d’entrée en vigueur de l’article 24.4 de la Loi, auraient eu droit à une pension immédiate en vertu de l’alinéa 13(1)a) ou du sous-alinéa 13(1)c)(i) de la Loi si elles avaient cessé d’être employées dans la fonction publique à cette date;
-- **b)** les personnes qui étaient ou sont âgées de 35 ans ou plus au moment de leur affectation au service opérationnel et à l’égard desquelles la différence entre l’âge en années et la somme des nombres suivants est égale ou supérieure à 35 :
-	- **(i)** le nombre d’années de service opérationnel qui constitue du service ouvrant droit à pension porté à leur crédit,
-	- **(ii)** le nombre d’années correspondant à toute période antérieure de service opérationnel à l’égard de laquelle elles peuvent choisir de contribuer aux termes de la division 6(1)b)(iii)(I) de la Loi;
-- **c)** les personnes qui, au moment de leur affectation au service opérationnel :
-	- **(i)** étaient ou sont âgées d’au moins 30 ans mais de moins de 35 ans,
-	- **(ii)** comptaient ou comptent à leur crédit au moins cinq ans de service ouvrant droit à pension qui ne constitue pas du service opérationnel.
-> DORS/94-259, art. 1.
-
+**56** [Abrogé, DORS/2007-106, art. 5]
 
 
 
 **57** 
 
-- **(1)** Pour l’application des articles 24.2 et 24.3 de la Loi, le service opérationnel qu’une personne a effectué depuis la date d’entrée en vigueur de ces articles et pour lequel elle exerce un choix en vertu de l’article 6 de la Loi ne peut constituer du service ouvrant droit à pension porté à son crédit que si, pendant qu’elle est employée dans le service opérationnel, elle choisit en outre de verser au compte de pension de retraite la contribution supplémentaire déterminée conformément au paragraphe (2), ainsi que les intérêts au sens du paragraphe 7(2) de la Loi.
+- **(1)** Pour l’application du présent article et de l’article 58, ***service opérationnel effectif*** s’entend du service et des périodes d’absence désignés comme service opérationnel à l’article 53 et ***service opérationnel  équivalent***, de toute période durant laquelle la personne est réputée être affectée au service opérationnel aux termes de l’article 54.
 
-- **(2)** La contribution supplémentaire mentionnée au paragraphe (1) est égale au montant que la personne aurait été tenue de verser aux termes de l’article 55 à l’égard du service opérationnel antérieur visé à ce paragraphe, calculé sur le traitement autorisé à lui être payé :
-	- **a)** à la date du début de sa dernière affectation au service opérationnel, si elle choisit de contribuer dans l’année suivant le début de cette affectation;
-	- **b)** à la date où elle a choisi de contribuer, dans tout autre cas.
+- **(2)** Le service opérationnel effectif et équivalent qu’une personne a effectué à compter du 18 mars 1994 et pour lequel elle exerce un choix en vertu du sous-alinéa 6(1)b)(iii) de la Loi ne peut, pour l’application des articles 24.2 et 24.3 de la Loi, constituer du service ouvrant droit à pension porté à son crédit que si, pendant qu’elle est affectée au service opérationnel, elle choisit en outre de verser la contribution supplémentaire déterminée conformément au paragraphe (3), ainsi que les intérêts au sens du paragraphe 7(2) de la Loi.
 
-- **(3)** Le montant payable selon le paragraphe (1) est acquitté :
-	- **a)** soit en une somme forfaitaire au moment de l’exercice du choix mentionné au paragraphe (2);
-	- **b)** soit par versements sensiblement égaux retenus sur le traitement de la personne ou déduits de toute prestation qui lui est payable aux termes de la Loi.
-> DORS/94-259, art. 1; DORS/97-490, art. 5(F).
+- **(3)** La contribution supplémentaire correspond à la somme qu’elle aurait été tenue de payer à l’égard de ce service aux termes de l’article 55, dans sa version applicable lorsqu’elle a effectué le service, calculé sur le traitement qu’on était autorisé à lui payer :
+	- **a)** à la date du début de sa dernière affectation au service opérationnel effectif, si elle fait le choix dans l’année suivant le début de cette affectation;
+	- **b)** à la date où elle fait le choix, dans les autres cas.
+
+- **(4)** Elle verse la contribution supplémentaire et les intérêts, à son choix :
+	- **a)** soit en une somme forfaitaire au moment du choix;
+	- **b)** soit par versements sensiblement égaux retenus sur son traitement ou déduits de toute prestation à lui verser aux termes de la Loi.
+> DORS/94-259, art. 1; DORS/97-490, art. 5(F); DORS/2007-106, art. 6.
 
 
 
@@ -1896,14 +1894,57 @@ si le contributeur reprend lesdites fonctions ou ladite formation immédiatement
 
 **58** 
 
-- **(1)** Pour l’application de l’article 24.2 de la Loi, la personne visée à cet article a le droit, à son choix, lors de la cessation de son emploi dans la fonction publique, de recevoir en remplacement des prestations auxquelles elle a droit en vertu du paragraphe 13(1) de la Loi à l’égard du service opérationnel :
-	- **a)** si elle est âgée de 50 ans ou plus au moment de la cessation de son emploi dans le service opérationnel et a à son crédit au moins 25 ans de service opérationnel qui constitue du service ouvrant droit à pension, une pension immédiate à l’égard de ce service;
-	- **b)** si elle est âgée de 45 ans ou plus au moment de la cessation de son emploi dans le service opérationnel et a à son crédit au moins 20 ans de service opérationnel qui constitue du service ouvrant droit à pension, une allocation annuelle à l’égard de ce service, payable immédiatement et égale au montant de la pension différée à laquelle elle a droit en vertu du paragraphe 13(1) de la Loi à l’égard de ce service, diminué du produit obtenu par la multiplication de cinq pour cent du montant de la pension différée par le plus élevé des nombres suivants :
-		- **(i)** 50 moins son âge en années lors de l’exercice de son choix, arrondi à un dixième d’année près,
-		- **(ii)** 25 moins le nombre d’années de service opérationnel ouvrant droit à pension, arrondi à un dixième d’année près.
+- **(1)** Les années de service visées au paragraphe (2) ne comprennent que le service qui constitue du service ouvrant droit à pension au crédit de la personne.
 
-- **(2)** La personne visée à l’alinéa (1)a) qui n’exerce pas de choix sous le régime du paragraphe (1) ou du paragraphe 13(1) de la Loi dans l’année suivant la cessation de son emploi dans la fonction publique est réputée avoir choisi la pension immédiate selon le paragraphe (1).
-> DORS/94-259, art. 1.
+- **(2)** La prestation à laquelle a droit, à l’égard du service visé à chacun des alinéas ci-après, la personne qui fait le choix visé à l’article 24.2 de la Loi est la suivante :
+	- **a)** si elle compte au moins vingt-cinq années de service opérationnel effectif, une pension immédiate;
+	- **b)** si elle compte au moins vingt années mais moins de vingt-cinq années de service opérationnel effectif, une allocation annuelle dont le montant correspond au résultat de la formule suivante :
+```
+A - (A × 5 % × B)
+```
+où :
+- **A** représente le montant de la pension différée à laquelle elle aurait droit en vertu du paragraphe 13(1) de la Loi à l’égard de ce service,
+- **B** vingt-cinq moins le nombre d’années de service opérationnel effectif, arrondi au dixième d’année près;
+	- **c)** si elle est âgée d’au moins cinquante ans lors de la cessation de son affectation au service opérationnel et compte au moins vingt-cinq années de service opérationnel effectif et équivalent, une pension immédiate;
+	- **d)** si elle est âgée d’au moins cinquante ans lors de la cessation de son affectation au service opérationnel et compte au moins vingt années mais moins de vingt-cinq années de service opérationnel effectif et équivalent, une allocation annuelle dont le montant correspond au résultat de la formule suivante :
+```
+A - (A × 5 % × B)
+```
+où :
+- **A** représente le montant de la pension différée à laquelle elle aurait droit en vertu du paragraphe 13(1) de la Loi à l’égard de ce service,
+- **B** vingt-cinq moins le nombre d’années de service opérationnel effectif et équivalent, arrondi au dixième d’année près;
+	- **e)** si elle est âgée d’au moins quarante-cinq ans mais d’au plus quarante-neuf ans lors de la cessation de son affectation au service opérationnel et compte au moins vingt années de service opérationnel — comprenant au moins dix années mais moins de vingt années de service opérationnel effectif de même que du service opérationnel équivalent —, une allocation annuelle dont le montant correspond au résultat de la formule suivante :
+```
+A - (A × 5 % × B)
+```
+où :
+- **A** représente le montant de la pension différée à laquelle elle aurait droit en vertu du paragraphe 13(1) de la Loi à l’égard de ce service,
+- **B** la plus élevée des valeurs suivantes :
+	- **(i)** cinquante moins son âge en années, arrondi au dixième d’année près, lorsqu’elle fait le choix,
+	- **(ii)** vingt-cinq moins le nombre total d’années de service opérationnel effectif et équivalent, arrondi au dixième d’année près;
+	- **f)** si elle est âgée d’au moins quarante-cinq ans mais d’au plus quarante-neuf ans lors de la cessation de son affectation au service opérationnel et compte au moins vingt années mais moins de vingt-cinq années de service opérationnel effectif de même que du service opérationnel équivalent, une allocation annuelle dont le montant correspond à la plus élevée des valeurs suivantes :
+		- **(i)** le total de ce qui suit :
+			- **(A)** l’allocation annuelle dont le montant est établi selon la formule qui figure à l’alinéa b),
+			- **(B)** l’allocation annuelle dont le montant correspond au résultat de la formule suivante :
+```
+A - (A × 5 % × B)
+```
+où :
+- **A** représente le montant de la pension différée à laquelle elle aurait droit en vertu du paragraphe 13(1) de la Loi à l’égard du service opérationnel équivalent,
+- **B** la plus élevée des valeurs suivantes :
+			- **(I)** cinquante moins son âge en années, arrondi au dixième d’année près, lorsqu’elle fait le choix,
+			- **(II)** vingt-cinq moins le nombre total d’années de service opérationnel effectif et équivalent, arrondi au dixième d’année près,
+		- **(ii)** l’allocation annuelle dont le montant est établi selon la formule qui figure à l’alinéa e);
+	- **g)** si elle est âgée d’au moins quarante-cinq ans mais d’au plus quarante-neuf ans lors de la cessation de son affectation au service opérationnel, a droit à une pension immédiate au titre de l’alinéa a) et compte à son crédit du service opérationnel équivalent, une allocation annuelle dont le montant correspond au résultat de la formule suivante :
+```
+A - (A × 5 % × B)
+```
+où :
+- **A** représente le montant de la pension différée à laquelle elle aurait droit en vertu du paragraphe 13(1) de la Loi à l’égard de ce service,
+- **B**  cinquante moins son âge en années, arrondi au dixième d’année près, lorsqu’elle fait le choix.
+
+- **(3)** La personne qui aurait droit à une pension immédiate au titre de l’alinéa (2)a) ou c) mais qui ne fait pas le choix visé au sous-alinéa 13(1)c)(ii) ou aux articles 13.01 ou 24.2 de la Loi au plus tard un an après la cessation de son emploi dans la fonction publique est réputée avoir fait le choix visé à ce dernier article.
+> DORS/94-259, art. 1; DORS/2007-106, art. 7 et 8.
 
 
 
