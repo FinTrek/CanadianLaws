@@ -219,7 +219,7 @@ Autorités habilitantes :
 	- **a)** pendant une période cumulative de plus de huit heures entre 9 h et 23 h;
 	- **b)** en tout temps entre 23 h et 9 h le lendemain.
 
-- **(2)** Le ministre peut délivrer un permis si les conditions suivantes sont réunies :
+- **(2)** Le ministre délivre un permis pour l’une des périodes maximales prévues aux paragraphes (3) ou (4) si les conditions suivantes sont réunies :
 	- **a)** le propriétaire ou le conducteur du bâtiment présente au ministre une demande signée qui comprend les renseignements suivants :
 		- **(i)** le nombre de jours pendant lesquels le bâtiment mouillerait,
 		- **(ii)** les nom et adresse permanente du demandeur,
@@ -236,14 +236,14 @@ Autorités habilitantes :
 	- **a)** dans le cas d’un permis délivré pendant l’été, 14 jours moins le nombre de jours complets ou partiels où le bâtiment mouillait au cours des 30 jours avant la date de la demande;
 	- **b)** dans le cas d’un permis délivré pendant l’hiver, 21 jours moins le nombre de jours complets ou partiels où le bâtiment mouillait au cours des 40 jours avant la date de la demande.
 
-- **(5)** Il est interdit de faire mouiller un bâtiment au-delà de la période mentionnée dans le permis.
+- **(5)** [Abrogé, DORS/2007-117, art. 2]
 
 - **(6)** Le présent article ne s’applique pas :
 	- **a)** aux agents d’exécution;
 	- **b)** aux employés ou mandataires de la Couronne, d’une province, d’un district régional ou d’une municipalité au cours de l’exercice de leurs fonctions.
 
 - **(7)** Le bâtiment qui mouille dans les eaux de la baie de False Creek décrites au paragraphe (1) immédiatement avant l’entrée en vigueur du présent article n’est pas assujetti au paragraphe (1) durant une période de 30 jours.
-> DORS/2005-405, art. 1.
+> DORS/2005-405, art. 1; DORS/2007-117, art. 1 et 2.
 
 
 
