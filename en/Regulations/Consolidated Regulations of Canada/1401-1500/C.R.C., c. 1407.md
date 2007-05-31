@@ -219,7 +219,7 @@ Enabling authorities:
 	- **(a)** for a cumulative period of more than 8 hours from 9:00 a.m. to 11:00 p.m.; or
 	- **(b)** anytime from 11:00 p.m. to 9:00 a.m. of the following day.
 
-- **(2)** The Minister may issue a permit if
+- **(2)** The Minister shall issue a permit for a maximum period set out in subsection (3) or (4) if
 	- **(a)** the owner or operator of a vessel submits to the Minister a signed application providing the following information:
 		- **(i)** the number of days that the vessel would be anchored,
 		- **(ii)** the name and permanent address of the applicant,
@@ -236,14 +236,14 @@ Enabling authorities:
 	- **(a)** for permits issued in the summer, 14 days less the number of full or partial days that the vessel was anchored during the 30 days before the day of application; and
 	- **(b)** for permits issued in the winter, 21 days less the number of full or partial days that the vessel was anchored during the 40 days before the day of application.
 
-- **(5)** No person shall anchor a vessel beyond the period set out in the permit.
+- **(5)** [Repealed, SOR/2007-117, s. 2]
 
 - **(6)** This section does not apply to
 	- **(a)** an enforcement officer; or
 	- **(b)** an employee or agent of the Crown or of a province, regional district or municipality acting within the scope of their duties.
 
 - **(7)** A vessel anchored in the waters of False Creek described in subsection (1) immediately before the coming into force of this section shall not be subject to subsection (1) for a period of 30 days.
-> SOR/2005–405, s. 1.
+> SOR/2005-405, s. 1; SOR/2007-117, ss. 1, 2.
 
 
 
