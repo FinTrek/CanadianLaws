@@ -541,7 +541,7 @@ Est compris dans cette définition tout autre tribunal d’une province dont les
 
 **17** 
 
-- **(1)** Le tribunal compétent peut rendre une ordonnance qui modifie, suspend ou annule, rétroactivement ou pour l’avenir :
+- **(1)** Le tribunal compétent peut rendre une ordonnance qui modifie, suspend ou annule, rétroactivement ou pour l’avenir :
 	- **a)** une ordonnance alimentaire ou telle de ses dispositions, sur demande des ex-époux ou de l’un d’eux;
 	- **b)** une ordonnance de garde ou telle de ses dispositions, sur demande des ex-époux ou de l’un d’eux ou de toute autre personne.
 
@@ -565,6 +565,10 @@ Est compris dans cette définition tout autre tribunal d’une province dont les
 
 - **(5)** Avant de rendre une ordonnance modificative de l’ordonnance de garde, le tribunal doit s’assurer qu’il est survenu un changement dans les ressources, les besoins ou, d’une façon générale, dans la situation de l’enfant à charge depuis le prononcé de l’ordonnance de garde ou de la dernière ordonnance modificative de celle-ci et, le cas échéant, ne tient compte que de l’intérêt de l’enfant, défini en fonction de ce changement, en rendant l’ordonnance modificative.
 
+**Ordonnance modificative**
+
+- **(5.1)** Pour les besoins du paragraphe (5), la maladie en phase terminale ou l’état critique d’un ex-époux constitue un changement dans la situation de l’enfant à charge; le tribunal rend alors une ordonnance modificative relative à l’accès auprès de l’enfant qui est dans l’intérêt de celui-ci.
+
 **Conduite**
 
 - **(6)** En rendant une ordonnance modificative, le tribunal ne tient pas compte d’une conduite qui n’aurait pu être prise en considération lors du prononcé de l’ordonnance dont la modification a été demandée.
@@ -575,7 +579,7 @@ Est compris dans cette définition tout autre tribunal d’une province dont les
 
 **Ententes, ordonnances, jugements, etc.**
 
-- **(6.2)** En rendant une ordonnance modificative d’une ordonnance alimentaire au profit d’un enfant, le tribunal peut, par dérogation au paragraphe (6.1), fixer un montant différent de celui qui serait déterminé conformément aux lignes directrices applicables s’il est convaincu, à la fois :
+- **(6.2)** En rendant une ordonnance modificative d’une ordonnance alimentaire au profit d’un enfant, le tribunal peut, par dérogation au paragraphe (6.1), fixer un montant différent de celui qui serait déterminé conformément aux lignes directrices applicables s’il est convaincu, à la fois :
 	- **a)** que des dispositions spéciales d’un jugement, d’une ordonnance ou d’une entente écrite relatifs aux obligations financières des époux ou au partage ou au transfert de leurs biens accordent directement ou indirectement un avantage à un enfant pour qui les aliments sont demandés, ou que des dispositions spéciales ont été prises pour lui accorder autrement un avantage;
 	- **b)** que le montant déterminé conformément aux lignes directrices applicables serait inéquitable eu égard à ces dispositions.
 
@@ -593,7 +597,7 @@ Est compris dans cette définition tout autre tribunal d’une province dont les
 
 **Objectifs de l’ordonnance modificative de l’ordonnance alimentaire au profit d’un époux**
 
-- **(7)** L’ordonnance modificative de l’ordonnance alimentaire au profit d’un époux vise :
+- **(7)** L’ordonnance modificative de l’ordonnance alimentaire au profit d’un époux vise :
 	- **a)** à prendre en compte les avantages ou inconvénients économiques qui découlent pour les ex-époux du mariage ou de son échec;
 	- **b)** à répartir entre eux les conséquences économiques qui découlent du soin de tout enfant à charge, en sus de toute obligation alimentaire relative à tout enfant à charge;
 	- **c)** à remédier à toute difficulté économique que l’échec du mariage leur cause;
@@ -607,14 +611,14 @@ Est compris dans cette définition tout autre tribunal d’une province dont les
 
 **Restriction**
 
-- **(10)** Par dérogation au paragraphe (1), le tribunal ne peut modifier l’ordonnance alimentaire au profit d’un époux dont la durée de validité est déterminée ou dépend d’un événement précis, sur demande présentée après l’échéance de son terme ou après la survenance de cet événement, en vue de la reprise de la fourniture des aliments, que s’il est convaincu des faits suivants :
+- **(10)** Par dérogation au paragraphe (1), le tribunal ne peut modifier l’ordonnance alimentaire au profit d’un époux dont la durée de validité est déterminée ou dépend d’un événement précis, sur demande présentée après l’échéance de son terme ou après la survenance de cet événement, en vue de la reprise de la fourniture des aliments, que s’il est convaincu des faits suivants :
 	- **a)** l’ordonnance modificative s’impose pour remédier à une difficulté économique causée par un changement visé au paragraphe (4.1) et lié au mariage;
 	- **b)** la nouvelle situation, si elle avait existé à l’époque où l’ordonnance alimentaire au profit d’un époux ou la dernière ordonnance modificative de celle-ci a été rendue, aurait vraisemblablement donné lieu à une ordonnance différente.
 
 **Copie de l’ordonnance**
 
 - **(11)** Le tribunal qui rend une ordonnance modificative d’une ordonnance alimentaire ou de garde rendue par un autre tribunal envoie à celui-ci une copie, certifiée conforme par un de ses juges ou fonctionnaires, de l’ordonnance modificative.
-> L.R. (1985), ch. 3 (2<sup>e</sup> suppl.), art. 17; 1997, ch. 1, art. 5
+> L.R. (1985), ch. 3 (2<sup>e</sup> suppl.), art. 17; 1997, ch. 1, art. 5; 2007, ch. 14, art. 1
 
 
 
