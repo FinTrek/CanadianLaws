@@ -566,6 +566,10 @@ the court may order that the divorce takes effect at such earlier time as it con
 
 - **(5)** Before the court makes a variation order in respect of a custody order, the court shall satisfy itself that there has been a change in the condition, means, needs or other circumstances of the child of the marriage occurring since the making of the custody order or the last variation order made in respect of that order, as the case may be, and, in making the variation order, the court shall take into consideration only the best interests of the child as determined by reference to that change.
 
+**Variation order**
+
+- **(5.1)** For the purposes of subsection (5), a former spouse’s terminal illness or critical condition shall be considered a change of circumstances of the child of the marriage, and the court shall make a variation order in respect of access that is in the best interests of the child.
+
 **Conduct**
 
 - **(6)** In making a variation order, the court shall not take into consideration any conduct that under this Act could not have been considered in making the order in respect of which the variation order is sought.
@@ -615,7 +619,7 @@ the court may order that the divorce takes effect at such earlier time as it con
 **Copy of order**
 
 - **(11)** Where a court makes a variation order in respect of a support order or a custody order made by another court, it shall send a copy of the variation order, certified by a judge or officer of the court, to that other court.
-> R.S., 1985, c. 3 (2nd Supp.), s. 17; 1997, c. 1, s. 5
+> R.S., 1985, c. 3 (2nd Supp.), s. 17; 1997, c. 1, s. 5; 2007, c. 14, s. 1
 
 
 
