@@ -1583,7 +1583,7 @@ sur
 		- **(iv)** dont les modalités exigent ce qui suit, dès que le contrat de rente satisfait aux exigences du présent alinéa :
 			- **(A)** les versements prévus par le contrat sont des versements de rente égaux, effectués à des intervalles réguliers et au moins une fois par année, sous réserve du droit du détenteur de varier la fréquence et le montant de ces versements au cours d’une année d’imposition sans changer la valeur actuelle, au début de l’année, du total des versements à faire au cours de cette année en vertu du contrat,
 			- **(B)** les versements de rente sont payables soit pour une durée déterminée, soit :
-				- **(I)** s’il s’agit d’un particulier, à l’exception d’une fiducie, pour la durée de vie du premier détenteur ou jusqu’au dernier en date du jour du décès du premier détenteur ou de celui de son époux, son conjoint de fait, son frère ou sa soeur (appelé « survivant » dans le présent sous-alinéa),
+				- **(I)** s’il s’agit d’un particulier, à l’exception d’une fiducie, pour la durée de vie du premier détenteur ou jusqu’à la date de son décès ou, si elle est postérieure, la date du décès de son époux ou conjoint de fait, de son ex-époux ou ancien conjoint de fait, de son frère ou de sa sœur (appelé « survivant » au présent sous-alinéa),
 				- **(II)** s’il s’agit d’une fiducie déterminée, pour la durée de vie de l’époux ou du conjoint de fait qui est en droit de recevoir le revenu de la fiducie,
 			- **(C)** dans le cas où la période d’étalement des versements de rente est d’une durée garantie ou déterminée, celle-ci ne dépasse pas la date à laquelle les personnes suivantes auraient atteint l’âge de 91 ans si elles avaient survécu :
 				- **(I)** s’il s’agit d’une rente réversible, le moins âgé du premier détenteur ou du survivant,
@@ -1609,12 +1609,10 @@ sur
 	- **a)** une autre personne détient le contrat en fiducie pour lui;
 	- **b)** il a acquis le contrat dans le cadre d’une police d’assurance-vie collective temporaire par laquelle une assurance-vie est souscrite sur la vie d’une autre personne au titre, dans l’occupation ou en vertu de la charge, de l’emploi, d’une ancienne charge ou d’un ancien emploi de cette autre personne.
 
-- **(4)** Les définitions qui suivent s’appliquent au présent article.
+- **(4)** Pour l’application du présent article, est rentier en vertu d’un contrat de rente à un moment donné la personne qui est en droit de recevoir des versements en vertu du contrat à ce moment.
 
-***époux*** Est assimilé à un époux un particulier qui est partie, avec un autre de sexe opposé, à un mariage annulable ou nul. (*spouse*)
-
-***rentier*** Personne qui est en droit de recevoir des versements en vertu d’un contrat de rente. (*annuitant*)
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/82-499, art. 3; DORS/83-865, art. 5; DORS/86-488, art. 1; DORS/88-165, art. 2; DORS/88-319, art. 1; DORS/94-415, art. 1; DORS/94-686, art. 2(F); DORS/2001-188, art. 3; DORS/2001-216, art. 10(F).
+- **(5)** Pour l’application du présent article, est assimilé à l’époux ou à l’ex-époux d’un particulier donné le particulier qui est partie, avec lui, à un mariage nul ou annulable.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/82-499, art. 3; DORS/83-865, art. 5; DORS/86-488, art. 1; DORS/88-165, art. 2; DORS/88-319, art. 1; DORS/94-415, art. 1; DORS/94-686, art. 2(F); DORS/2001-188, art. 3; DORS/2001-216, art. 10(F); DORS/2007-116, art. 1.
 
 
 
@@ -3973,7 +3971,7 @@ ce rajout ou cette modification sont réputés, à moins d’indication contrair
 #### Choix de faire certains transferts
 
 
-- **(2c)** Lorsqu’un contribuable a acquis, après le 25 mai 1976, la totalité ou une partie d’un bien d’une catégorie de l’annexe II (dans le présent paragraphe appelée «catégorie actuelle») et que les biens ou une partie de ces biens, s’ils avaient été acquis avant le 26 mai 1976, auraient fait partie d’une catégorie différente de l’annexe II, (dans le présent paragraphe appelée «ancienne catégorie») et
+- **(2c)** Lorsqu’un contribuable a acquis, après le 25 mai 1976, la totalité ou une partie d’un bien d’une catégorie de l’annexe II (dans le présent paragraphe appelée « catégorie actuelle ») et que les biens ou une partie de ces biens, s’ils avaient été acquis avant le 26 mai 1976, auraient fait partie d’une catégorie différente de l’annexe II, (dans le présent paragraphe appelée « ancienne catégorie ») et
 	- **a)** qu’il a été obligé d’acquérir les biens en vertu d’une entente écrite conclue avant le 26 mai 1976,
 	- **b)** qu’il avait commencé la construction, la fabrication ou la production des biens avant le 26 mai 1976 ou que la construction, la fabrication ou la production des biens était commencée en vertu d’une entente écrite conclue par lui avant le 26 mai 1976, ou
 	- **c)** qu’il a acquis les biens au plus tard le 31 décembre 1976 ou qu’il était obligé d’acquérir les biens en vertu d’une entente écrite conclue au plus tard le 31 décembre 1976, si
@@ -3983,12 +3981,12 @@ le contribuable peut, dans une lettre jointe à la déclaration de son revenu d�
 	- **d)** les biens, ou la partie de ceux-ci, acquis après le 25 mai 1976 de la catégorie actuelle à l’ancienne catégorie; ou
 	- **e)** la partie des biens acquise avant le 26 mai 1976, de l’ancienne catégorie à la catégorie actuelle.
 
-- **(2d)** Lorsqu’un contribuable :
-	- **a)** d’une part, dispose d’un bien (appelé «ancien bien» au présent paragraphe) d’une catégorie de l’annexe II (appelée «ancienne catégorie» au présent paragraphe),
-	- **b)** d’autre part, avant la fin de l’année d’imposition où l’ancien bien fait l’objet de la disposition, acquiert un bien (appelé «nouveau bien» au présent paragraphe) d’une catégorie de l’annexe II (appelée «catégorie actuelle» au présent paragraphe) et que la catégorie actuelle n’est :
+- **(2d)** Lorsqu’un contribuable :
+	- **a)** d’une part, dispose d’un bien (appelé « ancien bien » au présent paragraphe) d’une catégorie de l’annexe II (appelée « ancienne catégorie » au présent paragraphe),
+	- **b)** d’autre part, avant la fin de l’année d’imposition où l’ancien bien fait l’objet de la disposition, acquiert un bien (appelé « nouveau bien » au présent paragraphe) d’une catégorie de l’annexe II (appelée « catégorie actuelle » au présent paragraphe) et que la catégorie actuelle n’est :
 		- **(i)** ni l’ancienne catégorie,
 		- **(ii)** une catégorie distincte visée à l’article 1101, compte non tenu du paragraphe 1101(5d),
-de sorte que :
+de sorte que :
 	- **c)** d’une part, l’ancien bien aurait été compris dans la catégorie actuelle s’il avait été acquis à la fois au moment de l’acquisition du nouveau bien et de la personne de laquelle celui-ci a été acquis,
 	- **d)** d’autre part, le nouveau bien aurait été compris dans l’ancienne catégorie s’il avait été acquis à la fois au moment de l’acquisition de l’ancien bien et de la personne de laquelle celui-ci a été acquis,
 le contribuable peut choisir de transférer l’ancien bien de l’ancienne catégorie à la catégorie actuelle au cours de l’année de la disposition. Ce choix doit être fait par lettre jointe à la déclaration de revenu que le contribuable produit auprès du ministre conformément à l’article 150 de la Loi pour l’année d’imposition où l’ancien bien a fait l’objet d’une disposition. Il est entendu que le transfert est réputé avoir été fait avant la disposition du bien.
@@ -4027,8 +4025,8 @@ le contribuable peut choisir de transférer l’ancien bien de l’ancienne cat�
 
 - **(4)** Le choix prévu aux alinéas 1102(8)d) ou (9)d) et au présent article entre en vigueur le premier jour de l’année d’imposition qu’il vise et s’applique à cette année ainsi qu’aux années d’imposition postérieures.
 
-- **(5)** Un choix en vertu du paragraphe (1) ou (2) s’exerce par l’envoi, sous pli recommandé, d’une lettre adressée au bureau de district où le contribuable produit habituellement les déclarations requises par l’article 150 de la Loi.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-377, art. 9; DORS/82-265, art. 3; DORS/83-340, art. 3; DORS/90-22, art. 4; DORS/91-196, art. 3; DORS/91-673, art. 3; DORS/94-170, art. 3; DORS/97-377, art. 3; DORS/2005-371, art. 3.
+- **(5)** Le choix prévu aux paragraphes (1) ou (2) se fait par l’envoi, par courrier recommandé, d’une lettre à cet effet au centre fiscal où le contribuable produit habituellement les déclarations requises par l’article 150 de la Loi.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-377, art. 9; DORS/82-265, art. 3; DORS/83-340, art. 3; DORS/90-22, art. 4; DORS/91-196, art. 3; DORS/91-673, art. 3; DORS/94-170, art. 3; DORS/97-377, art. 3; DORS/2005-371, art. 3; DORS/2007-116, art. 2.
 
 
 
@@ -5444,7 +5442,7 @@ sont toutefois exclus du total des frais d’aménagement déterminés :
 - **(3)** Pour l’application de l’alinéa (1)g), ***éolienne à des fins d’essai*** s’entend d’une installation fixe consistant en un système de conversion de l’énergie cinétique du vent qui, si ce n’était le présent article, serait compris dans la catégorie 43.1 de l’annexe II par l’effet de son sous-alinéa d)(v) ou dans la catégorie 43.2 de cette annexe par l’effet de son alinéa b), si le ministre, en consultation avec le ministre des Ressources naturelles, établit que l’installation répond aux conditions suivantes :
 	- **a)** l’installation fait partie d’un parc d’éoliennes existant ou projeté du contribuable, et l’énergie électrique produite à partir du vent par l’installation, et par les autres éoliennes d’essai du parc, n’excède pas :
 		- **(i)** le tiers de la capacité nominale prévue du parc, selon les plaques signalétiques, si, à la fois :
-			- **(A)** le ministre des Ressources naturelles est d’avis que la capacité nominale prévue du parc est limitée sur le plan technique ou scientifique,
+			- **(A)** le ministre des Ressources naturelles établit que la capacité nominale prévue du parc est limitée sur le plan technique ou scientifique,
 			- **(B)** la capacité nominale prévue du parc n’excède pas six mégawatts,
 		- **(ii)** 20 % de la capacité nominale prévue du parc, selon les plaques signalétiques, dans les autres cas;
 	- **b)** le parc ne partage pas, avec quelque autre projet, de point d’interconnexion à un réseau de transport ou de distribution d’énergie électrique;
@@ -5460,7 +5458,7 @@ sont toutefois exclus du total des frais d’aménagement déterminés :
 	- **f)** aucun autre système de conversion de l’énergie cinétique du vent n’est installé dans un périmètre de 1 500 mètres de l’installation tant que le niveau d’énergie électrique que celle-ci produit à partir du vent n’a pas été vérifié pendant un minimum de 120 jours civils.
 
 - **(4)** Il est entendu que les frais liés aux énergies renouvelables et à l’économie d’énergie au Canada comprennent les dépenses engagées par le contribuable pour acquérir une installation fixe consistant en un système de conversion de l’énergie cinétique du vent seulement si l’installation est visée à l’alinéa (1)g).
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2000-327, art. 4; DORS/2005-266, art. 1; DORS/2006-117, art. 5.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2000-327, art. 4; DORS/2005-266, art. 1; DORS/2006-117, art. 5; DORS/2007-116, art. 3.
 
 
 
@@ -6002,13 +6000,13 @@ toutefois, le résultat de ce calcul en ce qui a trait à la prime pour la deuxi
 
 - **(2)** Un choix exercé en vertu du pararaphe 144(4.2) de la Loi par le fiduciaire d’une fiducie régie par un régime de participation des employés aux bénéfices s’effectue en produisant la formule prescrite en double exemplaire auprès du ministre au plus tard le dernier jour d’une année d’imposition de la fiducie, relativement à toute immobilisation réputée avoir fait l’objet d’une disposition au cours de ladite année d’imposition en raison du choix.
 
-- **(3)** Un choix en vertu du paragraphe 144(10) de la Loi s’effectue en adressant les documents suivants par courrier recommandé au sous-ministre du Revenu national pour l’impôt, à Ottawa :
+- **(3)** Le choix prévu au paragraphe 144(10) de la Loi se fait par l’envoi des documents ci-après par courrier recommandé au commissaire du revenu à Ottawa :
 	- **a)** une lettre de l’employeur déclarant qu’il choisit de faire reconnaître l’arrangement comme régime de participation des employés aux bénéfices;
 	- **b)** si l’employeur est une société,
 		- **(i)** lorsque les administrateurs de la société sont légalement habilités à administrer les affaires de la société, une copie certifiée de la résolution autorisant l’exercice du choix, et
 		- **(ii)** lorsque les administrateurs de la société ne sont pas légalement habilités à administrer les affaires de la société, une copie certifiée de l’autorisation relative à l’exercice du choix par une ou plusieurs personnes légalement habilitées à administrer les affaires de la société; et
 	- **c)** une copie de la convention et de toute convention supplémentaire établissant le régime.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-686, art. 69(F) et 79(F).
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-686, art. 69(F) et 79(F); DORS/2007-116, art. 4.
 
 
 
@@ -6022,11 +6020,11 @@ toutefois, le résultat de ce calcul en ce qui a trait à la prime pour la deuxi
 #### Agrément
 
 
-**1501** Pour l’application de la définition de ***régime de participation différée aux bénéfices*** au paragraphe 147(1) de la Loi, la demande d’agrément d’un régime se fait par envoi, en recommandé, au sous-ministre du Revenu national, Impôt, à Ottawa, des documents suivants :
+**1501** Pour l’application de la définition de ***régime de participation différée aux bénéfices*** au paragraphe 147(1) de la Loi, la demande d’agrément d’un régime se fait par l’envoi des documents ci-après par courrier recommandé au commissaire du revenu à Ottawa :
 - **a)** une lettre du fiduciaire et de l’employeur par laquelle ils demandent l’agrément du régime à titre de régime de participation différée aux bénéfices;
 - **b)** si l’employeur est une société, une copie certifiée de la résolution des administrateurs autorisant la présentation de la demande;
 - **c)** copie de la convention et de toute convention supplémentaire instituant le régime.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 4; DORS/94-686, art. 79(F).
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 4; DORS/94-686, art. 79(F); DORS/2007-116, art. 5.
 
 
 
@@ -6288,7 +6286,7 @@ qui est en sus
 
 - **(2)** Le contribuable peut révoquer par écrit un choix exercé en conformité du paragraphe (1), mais lorsqu’un contribuable a fait une révocation, en conformité du présent paragraphe, il ne pourra exercer un autre choix en vertu du paragraphe (1) qu’avec l’assentiment du ministre.
 
-- **(3)** Le prix unitaire à l’égard d’un animal d’une catégorie particulière d’animaux doit être établi conformément aux règles suivantes :
+- **(3)** Le prix unitaire à l’égard d’un animal d’une catégorie particulière d’animaux doit être établi conformément aux règles suivantes :
 	- **a)** lorsque des animaux d’une catégorie d’animaux particulière figuraient à l’inventaire d’un contribuable, à la fin de l’année d’imposition précédant immédiatement la première année à l’égard de laquelle le contribuable a exercé un choix en vertu du paragraphe (1), on calcule le prix unitaire d’un animal de cette catégorie en divisant la valeur totale de tous les animaux de la catégorie, figurant à l’inventaire de l’année précédente, par le nombre des animaux de la catégorie figurant à cet inventaire;
 	- **b)** en tout autre cas, le prix unitaire d’un animal d’une catégorie est établi par le ministre eu égard, entre autres choses, aux prix unitaires des animaux d’une catégorie comparable d’animaux ayant servi à évaluer les inventaires d’autres contribuables du district.
 
@@ -6296,13 +6294,13 @@ qui est en sus
 
 - **(5)** Dans le présent article,
 
-***animal enregistré*** signifie un animal pour lequel un certificat d’enregistrement a été délivré par le préposé à l’enregistrement de la race à laquelle l’animal appartient, ou par le chef de l’Enregistrement national du bétail; (*registered animal*)
+***animal enregistré*** signifie un animal pour lequel un certificat d’enregistrement a été délivré par le préposé à l’enregistrement de la race à laquelle l’animal appartient, ou par le chef de l’Enregistrement national du bétail; (*registered animal*)
 
-***catégorie d’animaux*** signifie un groupe d’animaux d’une espèce particulière répartis suivant l’âge, la race ou un autre classement reconnu, comme le contribuable le détermine au moment où il exerce un choix en vertu du présent article; (*class of animal*)
+***catégorie d’animaux*** signifie un groupe d’animaux d’une espèce particulière répartis suivant l’âge, la race ou un autre classement reconnu, comme le contribuable le détermine au moment où il exerce un choix en vertu du présent article; (*class of animal*)
 
-***district*** signifie le territoire desservi par un bureau de district de la Division de l’Impôt du ministère du Revenu national; (*district*)
-la mention d’une «année d’imposition» est censée être la mention de l’exercice d’une entreprise.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-686, art. 17(F) et 81(F).
+***district*** désigne le territoire desservi par un centre fiscal de l’Agence du revenu du Canada; (*district*)
+la mention d’une « année d’imposition » est censée être la mention de l’exercice d’une entreprise.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-686, art. 17(F) et 81(F); DORS/2007-116, art. 6.
 
 
 
@@ -7900,13 +7898,13 @@ dépasse
 
 - **(4)** Lorsqu’un particulier résidait au Canada le dernier jour d’une année d’imposition et a exercé une entreprise dans un autre pays à toute époque de l’année, son revenu gagné pendant l’année d’imposition dans cet autre pays est son revenu pour l’année provenant de l’exercice d’une entreprise, gagné dans l’autre pays et établi ainsi qu’il est exposé plus loin dans la présente partie.
 
-- **(5)** Dans le présent article, la mention du « dernier jour d’une année d’imposition » vaut mention de l’un ou l’autre des jours ci-après, selon le cas :
-	- **a)** du « dernier jour de l’année où il a résidé au Canada », dans le cas d’un particulier qui résidait au Canada à toute époque de l’année mais qui a cessé d’y résider avant la fin de l’année;
-	- **b)** du « jour dans l’année où il aurait cessé de résider au Canada si la Loi était lue compte non tenu de ses alinéas 250(1)d.1) à f) », dans le cas d’un particulier visé à l’alinéa 250(1)d.1) de la Loi ou de son époux, conjoint de fait ou enfant qui, à la fois :
-		- **(i)** a résidé au Canada à toute époque de l’année,
-		- **(ii)** aurait, si ce n’était des alinéas 250(1)d.1) à f) de la Loi, cessé de résider au Canada avant la fin de l’année,
-		- **(iii)** est, en vertu d’au moins un des alinéas 250(1)d.1) à f) de la Loi, réputé avoir été un résident du Canada toute l’année.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/81-799, art. 1; DORS/2001-188, art. 4.
+- **(5)** Au présent article, le passage « dernier jour d’une année d’imposition » vaut mention, dans les cas ci-après, de ce qui suit :
+	- **a)** « dernier jour de l’année où il a résidé au Canada », dans le cas d’un particulier qui résidait au Canada à un moment de l’année mais qui a cessé d’y résider avant la fin de l’année;
+	- **b)** « jour de l’année où il aurait cessé de résider au Canada si la Loi s’appliquait compte non tenu de ses alinéas 250(1)d.1) et f) », dans le cas d’un particulier visé à l’alinéa 250(1)d.1) de la Loi, ou de son époux, conjoint de fait ou enfant, qui, à la fois :
+		- **(i)** était résident au Canada à un moment de l’année,
+		- **(ii)** aurait cessé d’être résident au Canada avant la fin de l’année si la Loi s’appliquait compte non tenu de ses alinéas 250(1)d.1) et f),
+		- **(iii)** est réputé, en vertu des alinéas 250(1)d.1) ou f) de la Loi, avoir été résident au Canada tout au long de l’année.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/81-799, art. 1; DORS/2001-188, art. 4; DORS/2007-116, art. 7.
 
 
 
@@ -8203,38 +8201,13 @@ où
 
 **2800** 
 
-- **(1)** Tout choix fait en vertu du paragraphe 104(14) de la Loi à l’égard d’une année d’imposition s’exerce par la production auprès du ministre des documents suivants :
-	- **a)** une pièce
-		- **(i)** indiquant l’exercice du choix à l’égard de l’année,
-		- **(ii)** désignant la fraction du revenu accumulé à l’égard de laquelle le choix est exercé, et
-		- **(iii)** portant la signature du bénéficiaire privilégié et d’un fiduciaire autorisé à exercer le choix; et
-	- **b)** une pièce signée par le fiduciaire et indiquant le calcul du montant de la part revenant au bénéficiaire privilégié accumulé de la fiducie pour l’année, conformément à l’alinéa 104(15)a), b) ou c) de la Loi, selon le cas, ainsi que tout renseignement au sujet des stipulations de la fiducie et de son administration qui peut être nécessaire à cette fin.
+- **(1)** Le choix pour une année d’imposition, prévu au paragraphe 104(14) de la Loi, se fait par la présentation au ministre d’un écrit qui, à la fois :
+	- **a)** fait état du choix fait pour l’année;
+	- **b)** fait état de la partie du revenu accumulé à l’égard de laquelle le choix est fait;
+	- **c)** porte la signature du bénéficiaire privilégié et d’un fiduciaire autorisé à faire le choix.
 
-- **(2)** Les documents mentionnés au paragraphe (1) doivent être produits dans les 90 jours de la fin de l’année d’imposition de la fiducie à l’égard de laquelle le choix mentionné au paragraphe (1) est exercé.
-
-- **(2.1)** Malgré le paragraphe (2), si une fiducie fait le choix prévu au paragraphe 110.6(19) de la Loi à l’égard de son année d’imposition qui comprend le 22 février 1994, les documents mentionnés au paragraphe (1) ayant trait à cette année doivent être produits au plus tard le jour où le formulaire concernant ce choix doit être présenté au ministre.
-
-- **(3)** Aux fins de l’alinéa 104(15)c) de la Loi, la part discrétionnaire d’un bénéficiaire privilégié d’une fiducie, dans le revenu accumulé de la fiducie pour une année d’imposition, est un montant déterminé comme suit :
-	- **a)** lorsque l’auteur de la fiducie est un particulier et son conjoint, que les deux sont vivants à la fin de l’année et que les deux pourraient avoir droit à une part du revenu accumulé de la fiducie, la part discrétionnaire
-		- **(i)** du particulier est au revenu accumulé de la fiducie pour l’année ce que la juste valeur marchande des biens qu’il a remis est au total de la juste valeur marchande des biens qu’il a remis et la juste valeur marchande des biens remis par son conjoint (ces justes valeurs marchandes étant déterminées respectivement à la date de la remise),
-		- **(ii)** du conjoint est au revenu accumulé de la fiducie pour l’année ce que la juste valeur marchande des biens qu’il a remis est au total de la juste valeur marchande des biens remis par le particulier et de la juste valeur marchande des biens remis par son conjoint (ces justes valeurs marchandes étant déterminées respectivement à la date de la remise), et
-		- **(iii)** de tout autre bénéficiaire qui est un bénéficiaire privilégié de la fiducie est nulle;
-	- **b)** lorsque l’auteur de la fiducie est un particulier et son conjoint, que les deux sont vivants à la fin de l’année, mais qu’un seul pourrait avoir droit à une part du revenu accumulé de la fiducie, la part discrétionnaire
-		- **(i)** du particulier ou de son conjoint, selon le cas, qui pourrait avoir droit à une part du revenu accumulé de la fiducie est le revenu accumulé de la fiducie pour l’année, et
-		- **(ii)** de tout autre bénéficiaire qui est un bénéficiaire privilégié de la fiducie est nulle;
-	- **c)** lorsque l’auteur de la fiducie est un particulier et son conjoint, qu’un seul est vivant à la fin de l’année et que celui qui est vivant pourrait avoir droit à une part du revenu accumulé de la fiducie, la part discrétionnaire
-		- **(i)** du particulier ou de son conjoint, selon le cas, qui est vivant à la fin de l’année est le revenu accumulé de la fiducie pour l’année, et
-		- **(ii)** de tout autre bénéficiaire qui est un bénéficiaire privilégié de la fiducie est nulle;
-	- **d)** lorsque, dans un cas non prévu à l’alinéa a), b) ou c), l’auteur de la fiducie pourrait avoir droit à une part du revenu accumulé de la fiducie et est vivant à la fin de l’année, la part discrétionnaire
-		- **(i)** de l’auteur est le revenu accumulé de la fiducie pour l’année, et
-		- **(ii)** de tout autre bénéficiaire qui est un bénéficiaire privilégié de la fiducie est nulle;
-	- **e)** lorsque, dans un cas, non prévu à l’alinéa a), b) ou c), le conjoint de l’auteur de la fiducie pourrait avoir droit à une part du revenu accumulé de la fiducie, mais non l’auteur, et que le conjoint est vivant à la fin de l’année, la part discrétionnaire
-		- **(i)** du conjoint est le revenu accumulé de la fiducie pour l’année, et
-		- **(ii)** de tout autre bénéficiaire qui est un bénéficiaire privilégié de la fiducie est nulle; et
-	- **f)** dans tout autre cas, la part discrétionnaire d’un bénéficiaire privilégié vivant à la fin de l’année est le montant obtenu en divisant le revenu accumulé de la fiducie pour l’année par le nombre de bénéficiaires privilégiés de la fiducie qui sont vivants à la fin de l’année et qui pourraient avoir droit à une part du revenu accumulé de la fiducie.
-
-- **(4)** Aux alinéas 3a) à e), l’expression «avoir droit à une part du revenu accumulé de la fiducie» ne comprend pas un droit découlant du décès d’un particulier qui aurait autrement droit à une part du revenu accumulé de la fiducie.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2001-164, art. 1.
+- **(2)** L’écrit doit être produit dans les 90 jours suivant la fin de l’année d’imposition de la fiducie à l’égard de laquelle le choix mentionné au paragraphe (1) est fait.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2001-164, art. 1; DORS/2007-116, art. 8.
 
 
 
@@ -11871,24 +11844,8 @@ si la contrepartie totale à recevoir à la conversion ou à l’échange du tit
 
 
 
-**6500** 
-
-- **(1)** Pour l’application de l’alinéa 73(1)d) et du sous-alinéa 148(8)a)(iii) de la Loi,
-
-***catégorie prescrite de personnes*** désigne les personnes visées au sous-alinéa 14b)(i) de la loi dite The Family Law Reform Act, 1978, S.O. 1978, ch. 2, de la province d’Ontario; (*prescribed class of persons*)
-
-***dispositions prescrites d’une loi provinciale*** désignent l’alinéa 19(1)c) et l’article 52 de la loi dite The Family Law Reform Act, 1978, S.O. 1978, ch. 2, de la province d’Ontario. (*prescribed provisions of the law of a province*)
-
-- **(2)** Aux fins du paragraphe 73(1.1) de la Loi,
-
-***dispositions prescrites d’une loi provinciale*** désignent
-- **a)** les articles 7 et 9 de la loi dite The Matrimonial Property Act, S.A. 1978, ch. 22, de la province d’Alberta;
-- **b)** les articles 43, 51 et 52 de la loi dite Family Relations Act, R.S.B.C. 1979, ch. 121 de la Province de la Colombie-Britannique.
-- **c)** les articles 13, 16 et 17 de la loi dite The Marital Property Act, S.M. 1978, ch. 24-Cap. M45, de la province du Manitoba;
-- **d)** les articles 4, 6, 7 et 8 et l’alinéa 19(1)c) de la loi dite The Family Law Reform Act, 1978, S.O. 1978, ch. 2, de la province d’Ontario;
-- **e)** les articles 5, 7, 8 et 9 de la loi dite Family Law Reform Act, S.P.E.I. 1978, ch. 6, de la province de l’Île-du-Prince-Édouard; et
-- **f)** les articles 5, 8, 21 et 22, le paragraphe 23(4) et les articles 26 et 42 de la loi dite The Matrimonial Property Act, S.S. 1979, ch. M-6.1, de la province de la Saskatchewan. (*prescribed provisions of the law of a province*)
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/80-245, art. 1; DORS/81-118, art. 1; DORS/82-214, art. 1; DORS/86-488, art. 8.
+**6500** [Abrogé, DORS/2007-116, art. 9]
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/80-245, art. 1; DORS/81-118, art. 1; DORS/82-214, art. 1; DORS/86-488, art. 8; DORS/2007-116, art. 9.
 
 
 
@@ -12134,8 +12091,8 @@ sauf dans les cas où le mécanisme ou le régime ou la série d’opérations q
 
 
 
-**6803** Pour l’application de la définition de ***mécanisme de retraite étranger*** au paragraphe 248(1) de la Loi, est un régime ou mécanisme visé le régime ou mécanisme auquel s’appliquent les alinéas 408a), b) ou h) du Internal Revenue Code of 1986 des États-Unis avec ses modifications successives.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-692, art. 1.
+**6803** Pour l’application de la définition de ***mécanisme de retraite étranger*** au paragraphe 248(1) de la Loi, est un régime ou mécanisme visé le régime ou mécanisme auquel s’appliquent les alinéas 408a), b) ou h) de la loi des États-Unis intitulée Internal Revenue Code of 1986, et leurs modifications successives.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-692, art. 1; DORS/2007-116, art. 10.
 
 
 
@@ -13210,7 +13167,7 @@ Par ailleurs, si la personne réside dans un pays qui a conclu avec le Canada un
 le particulier est réputé participer au régime ou à la disposition, selon le cas, tout au long de la période allant du moment du paiement ou de l’acquisition, selon le cas, jusqu’à son décès.
 
 - **(13)** Pour l’application de la présente partie et de la partie LXXXV, le particulier auquel une prestation doit ou peut être assurée aux termes d’une disposition à prestations déterminées d’un régime de pension agréé du fait que la totalité ou une partie d’un surplus actuariel afférent à la disposition peut ou doit lui être attribuée est réputé ne pas avoir le droit de recevoir la prestation aux termes de la disposition tant qu’elle n’est pas assurée aux termes de celle-ci.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/95-64, art. 1; DORS/99-9, art. 4; DORS/2003-328, art. 5; DORS/2005-264, art. 16.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/95-64, art. 1; DORS/99-9, art. 4; DORS/2003-328, art. 5; DORS/2005-264, art. 16; DORS/2007-116, art. 11(A).
 
 
 
@@ -13225,7 +13182,7 @@ le particulier est réputé participer au régime ou à la disposition, selon le
 
 **8301** 
 
-- **(1)** Pour l’application du paragraphe 248(1) de la Loi, « facteur d’équivalence » d’un particulier pour une année civile quant à un employeur s’entend, sous réserve des alinéas 8308(4)d) et (5)c), du total des montants représentant chacun :
+- **(1)** Pour l’application du paragraphe 248(1) de la Loi, ***facteur d’équivalence*** d’un particulier pour une année civile quant à un employeur s’entend, sous réserve des alinéas 8308(4)d) et (5)c), du total des montants représentant chacun :
 	- **a)** le crédit de pension du particulier pour l’année quant à l’employeur dans le cadre d’un régime de participation différée aux bénéfices ou de la disposition à cotisations ou à prestations déterminées d’un régime de pension agréé;
 	- **b)** le crédit de pension du particulier pour l’année quant à l’employeur dans le cadre d’un régime étranger, calculé selon l’article 8308.1;
 	- **c)** le crédit de pension du particulier pour l’année quant à l’employeur dans le cadre d’un mécanisme de retraite déterminé, calculé selon l’article 8308.3.
@@ -13249,7 +13206,7 @@ où :
 
 
 - **(2.1)** Les conditions à remplir pour l’application de l’élément B de la formule figurant au paragraphe (2) sont les suivantes :
-	- **a)** le total des sommes dont chacune représenterait le crédit de pension du particulier pour l’année civile quant à l’employeur dans le cadre d’un régime de participation différée aux bénéfices, si le libellé de l’élément B de la formule figurant au paragraphe (2) était «zéro.», est, à la fois :
+	- **a)** le total des sommes dont chacune représenterait le crédit de pension du particulier pour l’année civile quant à l’employeur dans le cadre d’un régime de participation différée aux bénéfices, si le libellé de l’élément B de la formule figurant au paragraphe (2) était « zéro. », est, à la fois :
 		- **(i)** égal ou inférieur à la somme représentant 50 % du plafond des cotisations déterminées pour l’année,
 		- **(ii)** supérieur à la somme représentant 18 % de la somme qui correspondrait à la rétribution que le particulier reçoit de l’employeur pour l’année si la définition de ***rétribution*** au paragraphe 147.1(1) de la Loi s’appliquait compte non tenu de son alinéa b),
 		- **(iii)** égal ou inférieur à la somme représentant 18 % de la somme qui correspondrait à la rétribution que le particulier a reçue de l’employeur pour l’année précédente si la définition de ***rétribution*** au paragraphe 147.1(1) de la Loi s’appliquait compte non tenu de son alinéa b);
@@ -13258,7 +13215,7 @@ où :
 #### Droits non acquis au retrait d’un régime de participation différée aux bénéfices
 
 
-- **(3)** Pour l’application du paragraphe (1) et de la partie LXXXV ainsi que du paragraphe 147(5.1) de la Loi, le crédit de pension d’un particulier pour une année civile postérieure à 1989 dans le cadre d’un régime de participation différée aux bénéfices quant à un employeur qui participe au régime au profit du particulier est nul si les conditions suivantes sont réunies :
+- **(3)** Pour l’application du paragraphe (1) et de la partie LXXXV ainsi que du paragraphe 147(5.1) de la Loi, le crédit de pension d’un particulier pour une année civile postérieure à 1989 dans le cadre d’un régime de participation différée aux bénéfices quant à un employeur qui participe au régime au profit du particulier est nul si les conditions suivantes sont réunies :
 	- **a)** le particulier a cessé d’être au service de l’employeur au cours de l’année et avant 1997;
 	- **b)** par suite de la cessation de son emploi, le particulier a cessé au cours de l’année d’avoir droit aux prestations (exception faite d’une prestation de remboursement) prévues par le régime;
 	- **c)** le particulier n’avait droit, à la fin de l’année, à aucune prestation aux termes du régime ou n’avait droit qu’à une prestation de remboursement;
@@ -13267,16 +13224,16 @@ où :
 #### Crédit de pension — disposition à cotisations déterminées
 
 
-- **(4)** Pour l’application du paragraphe (1) et de la partie LXXXV ainsi que du paragraphe 147.1(9) de la Loi, et sous réserve des paragraphes (4.1) et (8) et 8304(2), le crédit de pension d’un particulier pour une année civile quant à un employeur dans le cadre de la disposition à cotisations déterminées d’un régime de pension agréé correspond au total des montants représentant chacun, selon le cas :
-	- **a)** une cotisation — à l’exception d’une cotisation facultative versée par le particulier en 1990, d’une cotisation exclue et d’une cotisation visée aux alinéas 8308(6)e) ou g) — versée au cours de l’année aux termes de la disposition :
+- **(4)** Pour l’application du paragraphe (1) et de la partie LXXXV ainsi que du paragraphe 147.1(9) de la Loi, et sous réserve des paragraphes (4.1) et (8) et 8304(2), le crédit de pension d’un particulier pour une année civile quant à un employeur dans le cadre de la disposition à cotisations déterminées d’un régime de pension agréé correspond au total des montants représentant chacun, selon le cas :
+	- **a)** une cotisation — à l’exception d’une cotisation facultative versée par le particulier en 1990, d’une cotisation exclue et d’une cotisation visée aux alinéas 8308(6)e) ou g) — versée au cours de l’année aux termes de la disposition :
 		- **(i)** soit par le particulier, sauf dans la mesure où elle n’est pas versée relativement à son emploi auprès de l’employeur et est incluse dans le calcul de son crédit de pension pour l’année quant à un autre employeur qui participe au régime,
 		- **(ii)** soit par l’employeur pour le particulier;
-	- **b)** la fraction d’un montant attribué au particulier au cours de l’année qui est imputable :
+	- **b)** la fraction d’un montant attribué au particulier au cours de l’année qui est imputable :
 		- **(i)** soit aux montants perdus dans le cadre de la disposition ou aux revenus y afférents,
 		- **(ii)** soit à un surplus afférent à la disposition,
 		- **(ii.1)** soit à un bien transféré à la disposition relativement au surplus actuariel afférent à une disposition à prestations déterminées du régime ou d’un autre régime de pension agréé,
 		- **(ii.2)** soit à un bien transféré à la disposition relativement au surplus afférent, selon le cas, à une autre disposition à cotisations déterminées du régime ou à une disposition à cotisations déterminées d’un autre régime de pension agréé,
-sauf dans la mesure où, selon le cas :
+sauf dans la mesure où, selon le cas :
 		- **(iii)** elle est incluse dans le calcul du crédit de pension du particulier pour l’année quant à un autre employeur qui participe au régime,
 		- **(iv)** elle est versée au particulier au cours de l’année,
 		- **(v)** si l’année en question est 1990, elle est imputable à des montants perdus avant 1990 ou aux revenus y afférents.
@@ -13285,21 +13242,21 @@ Le crédit de pension du particulier est nul si l’année en question est anté
 #### Crédit de pension fondé sur les montants attribués — Disposition à cotisations déterminées
 
 
-- **(4.1)** Le crédit de pension dans le cadre de la disposition à cotisations déterminées d’un régime de pension est déterminé selon la méthode visée à l’alinéa b) si les conditions suivantes sont réunies :
+- **(4.1)** Le crédit de pension dans le cadre de la disposition à cotisations déterminées d’un régime de pension est déterminé selon la méthode visée à l’alinéa b) si les conditions suivantes sont réunies :
 	- **a)** selon les modalités de la disposition, la méthode d’attribution des cotisations est telle que les cotisations versées par un employeur pour le compte d’un particulier donné peuvent être attribuées à un autre particulier;
 	- **b)** sur demande écrite de l’administrateur du régime, le ministre a approuvé par écrit une méthode de calcul des crédits de pension dans le cadre de la disposition qui, pour chaque particulier, tient compte des montants attribués à celui-ci.
 
 #### Crédit de pension — disposition à prestations déterminées d’un régime interentreprises déterminé
 
 
-- **(5)** Pour l’application de la présente partie et de la partie LXXXV ainsi que du paragraphe 147.1(9) de la Loi, le crédit de pension d’un particulier pour une année civile quant à un employeur dans le cadre de la disposition à prestations déterminées d’un régime de pension agréé qui est un régime interentreprises déterminé au cours de l’année correspond au total des montants suivants :
-	- **a)** l’ensemble des montants représentant chacun une cotisation (sauf une cotisation exclue et sauf dans la mesure où la cotisation n’est pas versée relativement à l’emploi du particulier auprès de l’employeur et est incluse dans le calcul du crédit de pension du particulier pour l’année quant à un autre employeur qui participe au régime) que le particulier verse aux termes de la disposition :
-		- **(i)** soit au cours de l’année en question pour l’une ou l’autre des années suivantes :
+- **(5)** Pour l’application de la présente partie et de la partie LXXXV ainsi que du paragraphe 147.1(9) de la Loi, le crédit de pension d’un particulier pour une année civile quant à un employeur dans le cadre de la disposition à prestations déterminées d’un régime de pension agréé qui est un régime interentreprises déterminé au cours de l’année correspond au total des montants suivants :
+	- **a)** l’ensemble des montants représentant chacun une cotisation (sauf une cotisation exclue et sauf dans la mesure où la cotisation n’est pas versée relativement à l’emploi du particulier auprès de l’employeur et est incluse dans le calcul du crédit de pension du particulier pour l’année quant à un autre employeur qui participe au régime) que le particulier verse aux termes de la disposition :
+		- **(i)** soit au cours de l’année en question pour l’une ou l’autre des années suivantes :
 			- **(A)** cette année,
 			- **(B)** une année du régime se terminant pendant cette année (à l’exception de la partie d’une année du régime qui est antérieure à 1990),
 		- **(ii)** soit au cours du mois de janvier de l’année en question (sauf s’il s’agit de janvier 1990), pour l’année civile précédente;
 	- **b)** l’ensemble des montants représentant chacun une cotisation que l’employeur verse au cours de l’année aux termes de la disposition, dans la mesure où il est raisonnable de considérer que la cotisation est fonction soit du nombre d’heures travaillées par le particulier, soit d’une autre unité de mesure qui lui est propre;
-	- **c)** le montant calculé selon la formule suivante :
+	- **c)** le montant calculé selon la formule suivante :
 ```
 (A / B) × (C - B)
 ```
@@ -13312,14 +13269,14 @@ Le crédit de pension du particulier est nul si l’année en question est anté
 #### Crédit de pension — disposition à prestations déterminées
 
 
-- **(6)** Pour l’application de la présente partie et de la partie LXXXV et du paragraphe 147.1(9) de la Loi, et sous réserve des paragraphes (7), (8) et (10) et des articles 8304 et 8308, le crédit de pension d’un particulier pour une année civile quant à un employeur dans le cadre d’une disposition à prestations déterminées d’un régime de pension agréé donné (sauf un régime qui est un régime interentreprises déterminé au cours de l’année) correspond au montant applicable suivant :
-	- **a)** si l’année est postérieure à 1989, le montant obtenu par la formule suivante :
+- **(6)** Pour l’application de la présente partie et de la partie LXXXV et du paragraphe 147.1(9) de la Loi, et sous réserve des paragraphes (7), (8) et (10) et des articles 8304 et 8308, le crédit de pension d’un particulier pour une année civile quant à un employeur dans le cadre d’une disposition à prestations déterminées d’un régime de pension agréé donné (sauf un régime qui est un régime interentreprises déterminé au cours de l’année) correspond au montant applicable suivant :
+	- **a)** si l’année est postérieure à 1989, le montant obtenu par la formule suivante :
 ```
 A - B
 ```
 où 
 - **A** représente neuf fois le droit à pension du particulier pour l’année quant à l’employeur dans le cadre de la disposition,
-- **B** l’excédent éventuel du montant de réduction du FE pour l’année sur le total des montants représentant chacun la valeur de l’élément B déterminée selon le présent alinéa aux fins du calcul du crédit de pension du particulier pour l’année quant à l’un des employeurs suivants :
+- **B** l’excédent éventuel du montant de réduction du FE pour l’année sur le total des montants représentant chacun la valeur de l’élément B déterminée selon le présent alinéa aux fins du calcul du crédit de pension du particulier pour l’année quant à l’un des employeurs suivants :
 	- **(i)** l’employeur dans le cadre d’une autre disposition à prestations déterminées d’un régime de pension agréé,
 	- **(ii)** un autre employeur — ayant un lien de dépendance avec l’employeur à un moment de l’année — dans le cadre d’une disposition à prestations déterminées d’un régime de pension agréé,
 	- **(iii)** un autre employeur dans le cadre d’une disposition à prestations déterminées du régime donné;
@@ -13328,20 +13285,20 @@ où
 #### Crédit de pension — disposition à prestations déterminées d’un régime interentreprises
 
 
-- **(7)** Les règles suivantes s’appliquent au calcul du crédit de pension d’un particulier pour une année civile dans le cadre de la disposition à prestations déterminées d’un régime de pension agréé qui est un régime interentreprises (mais non un régime interentreprises déterminé) au cours de l’année, sauf dans la mesure où le ministre renonce, par écrit, à les appliquer au régime :
+- **(7)** Les règles suivantes s’appliquent au calcul du crédit de pension d’un particulier pour une année civile dans le cadre de la disposition à prestations déterminées d’un régime de pension agréé qui est un régime interentreprises (mais non un régime interentreprises déterminé) au cours de l’année, sauf dans la mesure où le ministre renonce, par écrit, à les appliquer au régime :
 	- **a)** lorsque le particulier est au service de plus d’un employeur participant au cours de l’année, son crédit de pension pour l’année quant à un employeur donné dans le cadre de la disposition est calculé comme s’il n’était au service d’aucun autre employeur participant;
-	- **b)** l’élément B de la formule figurant à l’alinéa (6)a) est remplacé par ce qui suit :
-- **« B** le montant obtenu par la formule suivante :
+	- **b)** l’élément B de la formule figurant à l’alinéa (6)a) est remplacé par ce qui suit :
+- **« B** le montant obtenu par la formule suivante :
 ```
 (C × D) - E
 ```
-où :
+où :
 - **C** représente le montant de réduction du FE pour l’année,
 - **D** 
 	- **(i)** si le participant a rendu des services à l’employeur à plein temps tout au long de l’année, un,
 	- **(ii)** sinon, la fraction, ne dépassant pas un, qui représente la proportion des services que le participant est réputé, aux fins du calcul des prestations viagères qui lui sont assurées aux termes de la disposition, avoir rendus à l’employeur au cours de l’année par rapport aux services qu’il lui aurait alors rendus s’il lui avait rendu des services à plein temps tout au long de l’année,
 - **E** le total des montants représentant chacun la valeur de l’élément B déterminée selon le présent alinéa aux fins du calcul du crédit de pension du particulier pour l’année quant à l’employeur dans le cadre d’une autre disposition à prestations déterminées du régime; »;
-	- **c)** lorsqu’une partie de l’année constitue une période de services réduits du particulier, le crédit de pension du particulier pour l’année quant à chaque employeur participant dans le cadre de la disposition correspond au total des montants suivants :
+	- **c)** lorsqu’une partie de l’année constitue une période de services réduits du particulier, le crédit de pension du particulier pour l’année quant à chaque employeur participant dans le cadre de la disposition correspond au total des montants suivants :
 		- **(i)** le crédit de pension qui serait calculé si aucune prestation (sauf les prestations imputables à des services rendus par le particulier) n’était acquise à celui-ci pour des périodes de services réduits,
 		- **(ii)** le crédit de pension qui serait calculé si les seules prestations acquises au particulier étaient celles visant des périodes de services réduits, sauf celles qui sont imputables à des services qu’il a rendus au cours de telles périodes;
 	- **d)** le paragraphe (10) ne s’applique pas.
@@ -13349,21 +13306,21 @@ où :
 #### Droits non acquis au retrait d’un régime de pension agréé
 
 
-- **(8)** Pour l’application de la présente partie et de la partie LXXXV ainsi que du paragraphe 147.1(9) de la Loi, et sous réserve du paragraphe (9), lorsque les conditions suivantes sont réunies :
+- **(8)** Pour l’application de la présente partie et de la partie LXXXV ainsi que du paragraphe 147.1(9) de la Loi, et sous réserve du paragraphe (9), lorsque les conditions suivantes sont réunies :
 	- **a)** un particulier a cessé au cours d’une année civile postérieure à 1989 et antérieure à 1997 d’être au service d’un employeur qui participait à un régime de pension agréé à son profit,
 	- **b)** par suite de la cessation de son emploi, le particulier a cessé au cours de l’année d’avoir droit aux prestations (exception faite d’une prestation de remboursement) prévues par la disposition à cotisations ou à prestations déterminées du régime,
 	- **c)** le particulier n’avait droit, à la fin de l’année, à aucune prestation aux termes de la disposition ou n’avait droit qu’à une prestation de remboursement,
 	- **d)** aucune prestation, outre une prestation de remboursement, n’a été versée pour le particulier aux termes de la disposition,
-le crédit de pension du particulier pour l’année quant à l’employeur dans le cadre de la disposition correspond au montant suivant :
+le crédit de pension du particulier pour l’année quant à l’employeur dans le cadre de la disposition correspond au montant suivant :
 	- **e)** s’il s’agit d’une disposition à cotisations déterminées, le total des montants représentant chacun une cotisation — à l’exception d’une cotisation facultative versée par le particulier en 1990, d’une cotisation exclue et d’une cotisation visée à l’alinéa 8308(6)e) — que le particulier a versée au cours de l’année aux termes de la disposition, sauf dans la mesure où elle n’a pas été versée relativement à son emploi auprès de l’employeur et est incluse dans le calcul de son crédit de pension pour l’année quant à un autre employeur qui participe au régime,
-	- **f)** s’il s’agit d’une disposition à prestations déterminées, le moins élevé des montants suivants :
+	- **f)** s’il s’agit d’une disposition à prestations déterminées, le moins élevé des montants suivants :
 		- **(i)** le crédit de pension qui serait calculé si le présent paragraphe ne s’appliquait pas,
 		- **(ii)** le total des montants représentant chacun une cotisation (sauf une cotisation exclue) que le particulier a versée au cours de l’année et pour l’année aux termes de la disposition, sauf dans la mesure où elle n’a pas été versée relativement à l’emploi du particulier auprès de l’employeur et est incluse dans le calcul du crédit de pension du particulier pour l’année quant à un autre employeur qui participe au régime.
 
 #### Régime interentreprises
 
 
-- **(9)** Le paragraphe (8) ne s’applique au régime de pension agréé qui est un régime interentreprises au cours d’une année civile que si les conditions suivantes sont réunies :
+- **(9)** Le paragraphe (8) ne s’applique au régime de pension agréé qui est un régime interentreprises au cours d’une année civile que si les conditions suivantes sont réunies :
 	- **a)** le régime n’est pas un régime interentreprises déterminé au cours de l’année;
 	- **b)** si le régime comporte une disposition à prestations déterminées, le ministre a renoncé par écrit à appliquer l’alinéa (7)b) au régime pour l’année;
 	- **c)** le ministre a accepté par écrit que le paragraphe (8) s’applique au régime pour l’année.
@@ -13371,22 +13328,22 @@ le crédit de pension du particulier pour l’année quant à l’employeur dans
 #### Disposition transitoire — compensation des cotisations déterminées
 
 
-- **(10)** Lorsque les conditions suivantes sont réunies :
+- **(10)** Lorsque les conditions suivantes sont réunies :
 	- **a)** est soustrait dans le calcul des prestations viagères prévues par la disposition à prestations déterminées d’un régime de pension agréé (à l’exception d’un régime interentreprises déterminé), tout au long de la période commençant le 1<sup>er</sup> janvier 1981 et se terminant le 31 décembre d’une année civile donnée postérieure à 1989 et antérieure à l’an 2000, le montant des prestations viagères prévues par la disposition à cotisations déterminées de ce régime ou d’un autre régime de pension agréé,
 	- **b)** les prestations viagères prévues par la disposition à prestations déterminées sont calculées sensiblement de la même manière à la fin de l’année donnée qu’à la fin de 1989,
-	- **c)** le montant des cotisations qu’un employeur a versé pour chaque particulier et chaque année civile antérieure à 1990 aux termes de la disposition à cotisations déterminées ne dépasse pas 3 500 $,
-le crédit de pension d’un particulier pour l’année donnée quant à un employeur dans le cadre de la disposition à prestations déterminées correspond à l’excédent éventuel du montant visé à l’alinéa d) sur le montant visé à l’alinéa e) :
+	- **c)** le montant des cotisations qu’un employeur a versé pour chaque particulier et chaque année civile antérieure à 1990 aux termes de la disposition à cotisations déterminées ne dépasse pas 3 500 $,
+le crédit de pension d’un particulier pour l’année donnée quant à un employeur dans le cadre de la disposition à prestations déterminées correspond à l’excédent éventuel du montant visé à l’alinéa d) sur le montant visé à l’alinéa e) :
 	- **d)** le montant qui, sans le présent paragraphe, représenterait le crédit de pension du particulier;
-	- **e)** le moins élevé des montants suivants :
-		- **(i)** 2 500 $,
-		- **(ii)** le montant calculé selon la formule suivante :
+	- **e)** le moins élevé des montants suivants :
+		- **(i)** 2 500 $,
+		- **(ii)** le montant calculé selon la formule suivante :
 ```
 1/10 × (A - (B × C))
 ```
 où 
 - **A** représente le solde du compte des cotisations déterminées du particulier à la fin de 1989;
 - **B** le total des nombres représentant chacun la durée (en années et fractions d’année) d’une période, se terminant avant 1990, de services validables du particulier dans le cadre de la disposition à prestations déterminées qui ne fait pas partie d’une semblable période de plus longue durée;
-- **C** le montant qui représenterait le crédit de pension du particulier pour 1989 quant à l’employeur dans le cadre de la disposition à prestations déterminées s’il n’était pas tenu compte du passage « si l’année est postérieure à 1989 » à l’alinéa (6)a) ni de l’alinéa (6)b).
+- **C** le montant qui représenterait le crédit de pension du particulier pour 1989 quant à l’employeur dans le cadre de la disposition à prestations déterminées s’il n’était pas tenu compte du passage « si l’année est postérieure à 1989 » à l’alinéa (6)a) ni de l’alinéa (6)b).
 
 #### Versement réputé de cotisations
 
@@ -13396,14 +13353,14 @@ où
 #### Cotisations indirectes
 
 
-- **(12)** Pour l’application de la présente partie et de la partie LXXXIV, lorsqu’un syndicat ou une association d’employeurs (appelés «entité cotisante» au présent paragraphe et aux paragraphes (13) et (14)) verse des cotisations à un régime de pension agréé, les règles suivantes s’appliquent :
+- **(12)** Pour l’application de la présente partie et de la partie LXXXIV, lorsqu’un syndicat ou une association d’employeurs (appelés « entité cotisante » au présent paragraphe et aux paragraphes (13) et (14)) verse des cotisations à un régime de pension agréé, les règles suivantes s’appliquent :
 	- **a)** la partie d’un paiement (déterminée en conformité avec le paragraphe (13) le cas échéant) qu’un employeur ou un particulier fait à l’entité cotisante et qu’il est raisonnable de considérer comme se rapportant au régime est réputée être une cotisation que l’employeur ou le particulier a versée au régime au moment où il a fait le paiement à l’entité cotisante;
 	- **b)** le paragraphe (11) ne s’applique pas à la cotisation réputée versée au régime en application de l’alinéa a).
 
 #### Répartition des paiements
 
 
-- **(13)** Pour l’application du paragraphe (12), lorsqu’un employeur ou un particulier fait des paiements au cours d’une année civile à une entité cotisante afin que celle-ci puisse verser des cotisations à un régime de pension agréé, l’entité cotisante doit, si les paiements ne sont pas entièrement destinés au régime :
+- **(13)** Pour l’application du paragraphe (12), lorsqu’un employeur ou un particulier fait des paiements au cours d’une année civile à une entité cotisante afin que celle-ci puisse verser des cotisations à un régime de pension agréé, l’entité cotisante doit, si les paiements ne sont pas entièrement destinés au régime :
 	- **a)** déterminer, d’une manière qui est raisonnable dans les circonstances, la partie de chaque paiement qui se rapporte au régime;
 	- **b)** faire cette détermination de façon que toutes les cotisations qu’elle verse au régime, sauf celles qu’elle verse à titre d’employeur ou d’ancien employeur de participants au régime, soient considérées comme financées par des paiements que l’employeur ou le particulier lui a faits;
 	- **c)** s’il s’agit de paiements faits par un employeur, aviser celui-ci par écrit, au plus tard le 31 janvier de l’année civile subséquente, de la partie de chaque paiement qui se rapporte au régime ou de la méthode suivie pour déterminer cette partie;
@@ -13412,7 +13369,7 @@ où
 #### Conséquences de l’inobservation
 
 
-- **(14)** Les règles suivantes s’appliquent lorsqu’une entité cotisante ne remplit pas les exigences du paragraphe (13) en ce qui concerne les paiements qui lui sont faits au cours d’une année civile pour lui permettre de verser des cotisations à un régime de pension agréé :
+- **(14)** Les règles suivantes s’appliquent lorsqu’une entité cotisante ne remplit pas les exigences du paragraphe (13) en ce qui concerne les paiements qui lui sont faits au cours d’une année civile pour lui permettre de verser des cotisations à un régime de pension agréé :
 	- **a)** le régime devient, le 1<sup>er</sup> février de l’année civile subséquente, un régime dont l’agrément peut être retiré;
 	- **b)** le ministre peut faire les déterminations visées au paragraphe (13) que l’entité cotisante omet de faire, ou fait en contravention des règles énoncées à ce paragraphe.
 
@@ -13425,7 +13382,7 @@ où
 
 
 - **(16)** Sauf disposition contraire expresse dans la présente partie, le calcul du crédit de pension d’un particulier pour une année civile ne tient pas compte des opérations, événements et circonstances qui se produisent après la fin de l’année.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/95-64, art. 2; DORS/96-311, art. 6; DORS/99-9, art. 5; DORS/2003-328, art. 6; DORS/2005-264, art. 17.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/95-64, art. 2; DORS/96-311, art. 6; DORS/99-9, art. 5; DORS/2003-328, art. 6; DORS/2005-264, art. 17; DORS/2007-116, art. 12(A).
 
 
 
@@ -14207,8 +14164,8 @@ où
 #### Montant prescrit applicable aux personnes rattachées
 
 
-- **(2)** Pour l’application de l’élément B de chacun des alinéas 146(1)g.1) et l) ainsi que du paragraphe 204.2(1.1) de la Loi, le moins élevé de 18 pour cent du revenu gagné, au sens de l’alinéa 146(1)c) de la Loi, d’un particulier pour 1990, et de 11 500 $ est un montant prescrit quant au particulier pour une année civile postérieure à 1990 si les conditions suivantes sont réunies :
-	- **a)** à un moment donné de l’année, le particulier commence :
+- **(2)** Pour l’application de l’élément B des formules figurant aux définitions de ***déductions inutilisées au titre des REER*** et ***maximum déductible au titre des REER*** au paragraphe 146(1) de la Loi, et de l’élément B de la formule figurant à l’alinéa 204.2(1.1)b) de la Loi, le montant correspondant à 18 % du revenu gagné, au sens du paragraphe 146(1) de la Loi, d’un particulier pour 1990 ou, si elle est moins élevée, la somme de 11 500 $ est un montant prescrit quant au particulier pour une année civile postérieure à 1990 si les conditions suivantes sont réunies :
+	- **a)** à un moment donné de l’année, le particulier commence :
 		- **(i)** soit à participer à un régime de pension agréé,
 		- **(ii)** soit à acquérir des prestations viagères dans le cadre de la disposition à prestations déterminées d’un régime de pension agréé après une période au cours de laquelle il n’en acquérait pas;
 	- **b)** le particulier est rattaché au moment donné, ou l’était après 1989, à un employeur qui participe au régime pour son compte;
@@ -14218,21 +14175,21 @@ où
 #### Rémunération visant les années antérieures
 
 
-- **(3)** Lorsque le particulier qui a droit à des prestations aux termes de la disposition à prestations déterminées d’un régime de pension agréé reçoit une rémunération à un moment donné d’une année civile donnée au cours de laquelle il n’a pas effectué de services validables dans le cadre de la disposition et que cette rémunération est assimilée, aux fins du calcul des prestations prévues par la disposition, à de la rémunération reçue au cours d’une ou plusieurs années civiles antérieures à l’année civile donnée pour des services rendus au cours de ces années antérieures, les règles suivantes s’appliquent :
+- **(3)** Lorsque le particulier qui a droit à des prestations aux termes de la disposition à prestations déterminées d’un régime de pension agréé reçoit une rémunération à un moment donné d’une année civile donnée au cours de laquelle il n’a pas effectué de services validables dans le cadre de la disposition et que cette rémunération est assimilée, aux fins du calcul des prestations prévues par la disposition, à de la rémunération reçue au cours d’une ou plusieurs années civiles antérieures à l’année civile donnée pour des services rendus au cours de ces années antérieures, les règles suivantes s’appliquent :
 	- **a)** la partie de la rémunération qui est assimilée, aux termes de la disposition, à de la rémunération reçue au cours d’une année civile antérieure pour des services rendus au cours de cette année est réputée, aux fins du calcul, au moment donné et à tout moment postérieur, du droit à pension révisé du particulier dans le cadre de la disposition, avoir été reçue au cours de cette année antérieure pour des services rendus au cours de cette année;
-	- **b)** le crédit de pension du particulier pour l’année donnée quant à un employeur dans le cadre de la disposition correspond au total des montants suivants :
+	- **b)** le crédit de pension du particulier pour l’année donnée quant à un employeur dans le cadre de la disposition correspond au total des montants suivants :
 		- **(i)** le montant qui correspondrait par ailleurs à ce crédit pour l’année donnée,
 		- **(ii)** le montant qui représenterait, si le paiement de la rémunération constituait un fait lié aux services passés, le facteur d’équivalence pour services passés provisoire (ou une estimation raisonnable de celui-ci, établie selon des modalités que le ministre juge acceptables) du particulier quant à l’employeur, rattaché au paiement de la rémunération.
 
 #### Période de services réduits — prestations rétroactives
 
 
-- **(4)** Lorsque les conditions suivantes sont réunies :
-	- **a)** par suite d’un fait lié aux services passés, des prestations de retraite (appelées «prestations rétroactives» au présent paragraphe) sont assurées à un particulier aux termes de la disposition à prestations déterminées d’un régime de pension agréé (sauf un régime qui est un régime interentreprises déterminé) pour une période de services réduits du particulier,
+- **(4)** Lorsque les conditions suivantes sont réunies :
+	- **a)** par suite d’un fait lié aux services passés, des prestations de retraite (appelées « prestations rétroactives » au présent paragraphe) sont assurées à un particulier aux termes de la disposition à prestations déterminées d’un régime de pension agréé (sauf un régime qui est un régime interentreprises déterminé) pour une période de services réduits du particulier,
 	- **b)** la période de services réduits n’était pas, avant le fait lié aux services passés, une période de services validables du particulier dans le cadre de la disposition,
 	- **c)** le fait lié aux services passés se produit au plus tard le 30 avril de l’année suivant l’année civile où prend fin la période complète de services réduits du particulier, qui comprend la période de services réduits en question,
-les règles suivantes s’appliquent :
-	- **d)** chaque facteur d’équivalence du particulier quant à un employeur pour une année antérieure à l’année civile où le fait lié aux services passés s’est produit est réputé égal au total des montants suivants, et toujours l’avoir été :
+les règles suivantes s’appliquent :
+	- **d)** chaque facteur d’équivalence du particulier quant à un employeur pour une année antérieure à l’année civile où le fait lié aux services passés s’est produit est réputé égal au total des montants suivants, et toujours l’avoir été :
 		- **(i)** le montant qui représenterait par ailleurs le facteur d’équivalence du particulier pour l’année quant à l’employeur,
 		- **(ii)** la fraction du facteur d’équivalence pour services passés provisoire du particulier quant à l’employeur, rattaché au fait lié aux services passés, qu’il est raisonnable de considérer comme imputable à des prestations rétroactives pour l’année;
 	- **e)** chaque facteur d’équivalence pour services passés provisoire du particulier quant à un employeur, rattaché au fait lié aux services passés, est réputé égal, sauf pour l’application du présent paragraphe, à la fraction du montant, représentant ce facteur par ailleurs, qu’il est raisonnable de considérer comme n’étant pas imputable à des prestations rétroactives.
@@ -14240,21 +14197,21 @@ les règles suivantes s’appliquent :
 #### Période de services réduits — cotisations rétroactives
 
 
-- **(5)** Lorsque les conditions suivantes sont réunies :
-	- **a)** un particulier, ou un employeur pour celui-ci, verse une cotisation (appelée «cotisation rétroactive» au présent paragraphe) aux termes de la disposition à cotisations déterminées d’un régime de pension agréé pour la période d’une année civile donnée qui est une période de services réduits du particulier,
+- **(5)** Lorsque les conditions suivantes sont réunies :
+	- **a)** un particulier, ou un employeur pour celui-ci, verse une cotisation (appelée « cotisation rétroactive » au présent paragraphe) aux termes de la disposition à cotisations déterminées d’un régime de pension agréé pour la période d’une année civile donnée qui est une période de services réduits du particulier,
 	- **b)** la cotisation rétroactive est versée après l’année donnée et au plus tard le 30 avril de l’année suivant l’année civile où prend fin la période complète de services réduits du particulier qui comprend la période de services réduits en question,
-les règles suivantes s’appliquent :
+les règles suivantes s’appliquent :
 	- **c)** chaque facteur d’équivalence du particulier quant à un employeur pour l’année donnée est réputé égal, et toujours avoir été égal, au montant qui représenterait ce facteur si la cotisation rétroactive avait été versée à la fin de l’année donnée;
 	- **d)** pour déterminer le facteur d’équivalence du particulier pour une année postérieure à l’année donnée, la cotisation rétroactive est réputée avoir été versée à la fin de l’année donnée et non postérieurement.
 
 #### Engagement à verser des cotisations rétroactives
 
 
-- **(6)** Lorsque les conditions suivantes sont réunies :
+- **(6)** Lorsque les conditions suivantes sont réunies :
 	- **a)** un particulier s’engage par écrit à verser une cotisation aux termes de la disposition à cotisations déterminées d’un régime de pension agréé,
 	- **b)** l’engagement est pris auprès de l’administrateur du régime ou d’un employeur qui y participe,
 	- **c)** les règles énoncées au paragraphe (5) s’appliqueraient à la cotisation si elle était versée au moment où le particulier prend l’engagement,
-les présomptions suivantes s’appliquent dans le cadre de la présente partie :
+les présomptions suivantes s’appliquent dans le cadre de la présente partie :
 	- **d)** le particulier est réputé avoir versé la cotisation au régime au moment où il a pris l’engagement;
 	- **e)** si le particulier verse ultérieurement tout ou partie de la cotisation au régime en conformité avec l’engagement, le montant ainsi versé constitue, pour l’application des alinéas 8301(4)a) et (8)e), une cotisation visée au présent alinéa,
 	- **f)** toute cotisation qu’un employeur est tenu de verser dans le cadre de la disposition à cotisations déterminées, à la condition que le particulier verse celle qu’il s’est engagé à verser et à laquelle le paragraphe (5) s’appliquerait si l’employeur la versait au moment où le particulier s’engage à le faire, est réputée avoir été versée par l’employeur à ce moment;
@@ -14263,10 +14220,10 @@ les présomptions suivantes s’appliquent dans le cadre de la présente partie 
 #### Employé en détachement
 
 
-- **(7)** Lorsque, conformément à une entente conclue entre un employeur donné qui est un employeur participant relativement à un régime de pension et un autre employeur qui, en l’absence du présent paragraphe, ne serait pas un employeur participant relativement au régime, les conditions suivantes sont réunies :
+- **(7)** Lorsque, conformément à une entente conclue entre un employeur donné qui est un employeur participant relativement à un régime de pension et un autre employeur qui, en l’absence du présent paragraphe, ne serait pas un employeur participant relativement au régime, les conditions suivantes sont réunies :
 	- **a)** un employé de l’employeur donné rend des services à l’autre employeur en contrepartie d’une rémunération que ce dernier lui verse,
 	- **b)** pendant que l’employé rend des services à l’autre employeur, l’employé continue d’acquérir des prestations aux termes d’une disposition à prestations déterminées du régime ou l’employeur donné continue de verser, pour l’employé, des cotisations aux termes d’une disposition à cotisations déterminées du régime,
-les règles suivantes s’appliquent :
+les règles suivantes s’appliquent :
 	- **c)** pour l’application de la définition de ***employeur participant***, au paragraphe 147.1(1) de la Loi, relativement au régime, l’autre employeur est un employeur visé par règlement,
 	- **d)** pour l’application de la présente partie, la fraction des prestations acquises à l’employé pour une année aux termes d’une disposition à prestations déterminées du régime qu’il est raisonnable de considérer comme imputable à son emploi auprès de chacun des employeurs est déterminée en fonction de la rémunération qu’il a reçue de chacun d’eux pendant l’année;
 	- **e)** pour l’application de la présente partie, la fraction des cotisations que l’employeur donné verse aux termes d’une disposition à cotisations déterminées du régime, qu’il est raisonnable de considérer comme se rapportant à la rémunération que l’employé a reçue de l’autre employeur, est réputée être constituée de cotisations versées par ce dernier.
@@ -14274,19 +14231,19 @@ les règles suivantes s’appliquent :
 #### Régime de remplacement
 
 
-- **(8)** Malgré les autres dispositions de la présente partie, à l’exception de l’article 8310, lorsque les conditions suivantes sont réunies :
-	- **a)** toutes les prestations assurées à un particulier aux termes de la disposition à prestations déterminées (appelée «ancienne disposition» au présent paragraphe) d’un régime de pension agréé sont remplacées au cours d’une année civile par des prestations identiques assurées aux termes de la disposition à prestations déterminées d’un autre régime de pension agréé,
-	- **b)** le remplacement des prestations découle du transfert de l’emploi du particulier auprès d’un employeur (appelé «ancien employeur» au présent paragraphe) à un autre employeur (appelé «employeur remplaçant» au présent paragraphe),
+- **(8)** Malgré les autres dispositions de la présente partie, à l’exception de l’article 8310, lorsque les conditions suivantes sont réunies :
+	- **a)** toutes les prestations assurées à un particulier aux termes de la disposition à prestations déterminées (appelée « ancienne disposition » au présent paragraphe) d’un régime de pension agréé sont remplacées au cours d’une année civile par des prestations identiques assurées aux termes de la disposition à prestations déterminées d’un autre régime de pension agréé,
+	- **b)** le remplacement des prestations découle du transfert de l’emploi du particulier auprès d’un employeur (appelé « ancien employeur » au présent paragraphe) à un autre employeur (appelé « employeur remplaçant » au présent paragraphe),
 	- **c)** le ministre accepte par écrit d’appliquer le présent paragraphe relativement à ce remplacement,
 les facteurs d’équivalence du particulier pour l’année quant à l’ancien employeur et à l’employeur remplaçant sont calculés comme si toutes les prestations assurées au particulier aux termes de l’ancienne disposition étaient imputables à l’emploi auprès de l’employeur remplaçant et non à celui auprès de l’ancien employeur.
 
 #### Prestations spéciales en cas de réduction des effectifs
 
 
-- **(9)** Chaque crédit de pension d’un particulier dans le cadre de la disposition à prestations déterminées d’un régime de pension agréé et chacun de ses facteurs d’équivalence pour services passés provisoires sont calculés compte non tenu des prestations viagères assurées au particulier dans le cadre de la disposition lorsque les conditions suivantes sont réunies :
+- **(9)** Chaque crédit de pension d’un particulier dans le cadre de la disposition à prestations déterminées d’un régime de pension agréé et chacun de ses facteurs d’équivalence pour services passés provisoires sont calculés compte non tenu des prestations viagères assurées au particulier dans le cadre de la disposition lorsque les conditions suivantes sont réunies :
 	- **a)** les prestations ne sont pas conformes à la condition énoncée au sous-alinéa 8503(3)a);
 	- **b)** les prestations sont permises par le seul effet du paragraphe 8505(3).
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/95-64, art. 6.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/95-64, art. 6; DORS/2007-116, art. 13.
 
 
 
@@ -14766,11 +14723,11 @@ chaque employeur qui participe au régime au profit du particulier et auquel cel
 ### Retraits admissibles
 
 
-**8407** Lorsque les conditions suivantes sont réunies :
-- **a)** un particulier qui a retiré un montant d’un régime enregistré d’épargne-retraite dont il est rentier, au sens de l’alinéa 146(1)a) de la Loi, au moment du retrait fournit à l’émetteur du régime, au sens de l’alinéa 146(1)c.1) de la Loi, au cours de l’année civile du retrait ou d’une des deux années civiles suivantes, le formulaire prescrit visé au sous-alinéa 8307(3)a)(ii) accompagné d’une demande le priant de remplir le formulaire relativement au retrait,
+**8407** Lorsque les conditions suivantes sont réunies :
+- **a)** un particulier qui a retiré une somme d’un régime enregistré d’épargne-retraite dont il est le rentier, au sens du paragraphe 146(1) de la Loi, au moment du retrait fournit à l’émetteur, au sens du même paragraphe, du régime au cours de l’année civile du retrait ou d’une des deux années civiles suivantes, le formulaire prescrit visé au sous-alinéa 8307(3)a)(ii), accompagné d’une pièce lui demandant de remplir le formulaire relativement au retrait;
 - **b)** au moment de la réception de la demande, l’émetteur n’a pas transmis au particulier deux copies de la déclaration de renseignements qu’il est tenu de produire en application du paragraphe 214(1) relativement au retrait, et ne les lui transmet pas dans les 30 jours suivant cette réception,
 l’émetteur remplit, dans les 30 jours suivant la réception de la demande, les parties du formulaire qu’il est tenu de remplir, selon le formulaire, relativement au retrait et retourne le formulaire au particulier.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/2007-116, art. 14.
 
 
 
@@ -14942,7 +14899,7 @@ Pour l’application du présent paragraphe :
 
 - **(4)** Pour l’application de la présente partie, le cadre ou fonctionnaire qui reçoit une rémunération en raison de sa charge est réputé, pour toute période au cours de laquelle il occupe cette charge, être au service de la personne qui lui verse la rémunération et rendre des services à cette personne.
 
-- **(5)** Pour l’application de la présente partie, est assimilé à un époux un particulier qui est partie, avec un autre de sexe opposé, à un mariage annulable ou nul.
+- **(5)** Pour l’application de la présente partie, est assimilé à l’époux ou à l’ex-époux d’un particulier donné le particulier qui est partie, avec lui, à un mariage nul ou annulable.
 
 - **(6)** Pour déterminer une variable prévue par la présente partie, une période n’est comptée dans un ensemble de périodes qui remplissent certaines conditions que si elle ne fait pas partie d’une période plus longue qui remplit les mêmes conditions.
 
@@ -14956,7 +14913,7 @@ Pour l’application du présent paragraphe :
 	- **a)** pour déterminer si les prestations de participant sont permises par la présente partie, il n’est pas tenu compte des prestations de non-participant;
 	- **b)** pour déterminer si les prestations de non-participant sont permises par la présente partie, il n’est pas tenu compte des prestations de participant;
 	- **c)** pour calculer le facteur d’équivalence, le facteur d’équivalence rectifié ou le facteur d’équivalence pour services passés du particulier en vertu de la partie LXXXIII, il n’est pas tenu compte des prestations de non-participant.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/94-686, art. 76(F), 78(F) et 79(F); DORS/95-64, art. 8; DORS/99-9, art. 19; DORS/2001-67, art. 5; DORS/2001-188, art. 8; DORS/2003-328, art. 7; DORS/2005-264, art. 24.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/94-686, art. 76(F), 78(F) et 79(F); DORS/95-64, art. 8; DORS/99-9, art. 19; DORS/2001-67, art. 5; DORS/2001-188, art. 8; DORS/2003-328, art. 7; DORS/2005-264, art. 24; DORS/2007-116, art. 15.
 
 
 
@@ -15272,7 +15229,7 @@ où
 		- **(iii)** les prestations au survivant sont payables pour une période commençant au plus tard au dernier en date des jours suivants et se terminant au décès du bénéficiaire :
 			- **(A)** le jour qui marque le premier anniversaire du décès du participant,
 			- **(B)** le 31 décembre de l’année civile où le particulier atteint l’âge de 69 ans,
-		- **(iv)** les prestations au survivant seraient conformes à l’alinéa a) si l’époux ou le conjoint de fait survivant participait au régime,
+		- **(iv)** les prestations au survivant seraient conformes à l’alinéa a) si le bénéficiaire participait au régime,
 		- **(v)** la valeur actualisée, au moment du décès du participant, de toutes les prestations prévues par suite de son décès ne dépasse pas la valeur actualisée, immédiatement avant son décès, de toutes les prestations qui lui étaient acquises aux termes de la disposition le jour de son décès;
 
 #### Prestation préretraite au survivant — période garantie
@@ -15610,7 +15567,7 @@ les présomptions suivantes s’appliquent aux fins des conditions énoncées au
 		- **(i)** soit après le 10 décembre 1989,
 		- **(ii)** soit avant le 11 décembre 1989 lorsqu’elle n’a pas été approuvée par le ministre avant cette date aux termes de l’alinéa 20(1)s) de la Loi;
 	- **c)** il est raisonnable de considérer que l’employeur, en accord avec le participant, a versé la totalité, ou presque, de la partie de la cotisation qui se rapporte aux prestations pour services passés au lieu de payer au participant un montant ou autre prestation auquel il aurait droit par ailleurs.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/95-64, art. 11; DORS/99-9, art. 22; DORS/2001-67, art. 6; DORS/2001-188, art. 11 et 14 à 16; DORS/2003-396, art. 1; DORS/2005-264, art. 27.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/95-64, art. 11; DORS/99-9, art. 22; DORS/2001-67, art. 6; DORS/2001-188, art. 11 et 14 à 16; DORS/2003-396, art. 1; DORS/2005-264, art. 27; DORS/2007-116, art. 16(F).
 
 
 
@@ -16440,19 +16397,19 @@ la condition énoncée à l’alinéa 8503(3)a) ne s’applique pas à la fracti
 
 **8512** 
 
-- **(1)** Pour l’application du paragraphe 147.1(2) de la Loi, la demande d’agrément d’un régime de pension se fait par envoi en recommandé, au sous-ministre du Revenu national, Impôt, à Ottawa, des documents suivants :
+- **(1)** Pour l’application du paragraphe 147.1(2) de la Loi, la demande d’agrément d’un régime de pension se fait par l’envoi des documents ci-après par courrier recommandé au commissaire du revenu à Ottawa :
 	- **a)** une demande sur formulaire prescrit contenant les renseignements prescrits;
 	- **b)** des copies certifiées du texte du régime et des autres documents qui en énoncent les modalités;
 	- **c)** des copies certifiées des actes de fiducie, contrats d’assurance et autres documents concernant le financement des prestations prévues par le régime;
 	- **d)** des copies certifiées de toutes les conventions concernant le régime;
 	- **e)** des copies certifiées des résolutions et règlements concernant les documents visés aux alinéas b) à d).
 
-- **(2)** En cas de modification, après 1988, d’un régime de pension agréé, du mécanisme de financement des prestations qu’il prévoit ou d’un document le concernant présenté au ministre, l’administrateur du régime envoie les documents suivants au sous-ministre du Revenu national, Impôt, à Ottawa dans les 60 jours suivant la date de la modification :
+- **(2)** En cas de modification d’un régime de pension agréé, du mécanisme de financement des prestations qu’il prévoit ou d’un document le concernant présenté au ministre, l’administrateur du régime envoie les documents ci-après au commissaire du revenu à Ottawa, dans les 60 jours suivant la date de la modification :
 	- **a)** un formulaire prescrit contenant les renseignements prescrits;
 	- **b)** des copies certifiées de tous les documents concernant la modification.
 
-- **(3)** Pour l’application du paragraphe 147.1(4) de la Loi, la demande d’acceptation de la modification à un régime de pension agréé est faite selon les modalités réglementaires lorsque les documents visés au paragraphe (2) sont envoyés en recommandé au sous-ministre du Revenu national, Impôt, à Ottawa.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7.
+- **(3)** Pour l’application du paragraphe 147.1(4) de la Loi, la demande d’acceptation de la modification d’un régime de pension agréé est faite selon les modalités réglementaires lorsque les documents visés au paragraphe (2) sont envoyés par courrier recommandé au commissaire du revenu à Ottawa.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/2007-116, art. 17.
 
 
 
@@ -17188,7 +17145,7 @@ sur le total des montants représentant chacun :
 	- **(iii)** dont aucune partie du revenu ne peut être versée aux propriétaires, membres, actionnaires, fiduciaires ou disposants de l’organisme, ni servir à leur avantage personnel, sauf si le versement est fait en règlement de services rendus ou représente un montant auquel l’alinéa 56(1)n) de la Loi s’applique quant au bénéficiaire,
 	- **(iv)** dont toutes les ressources sont consacrées aux activités et objectifs exposés dans sa plus récente demande de désignation présentée au ministre des Communications conformément à l’alinéa 149.1(6.4)a) de la Loi,
 	- **(v)** dont plus de la moitié des administrateurs, fiduciaires, dirigeants ou autres responsables n’ont entre eux aucun lien de dépendance,
-	- **(vi)** dont pas plus de 50 pour cent des biens ne lui ont été apportés ou autrement versés par une même personne ou par les membres d’un groupe de personnes ayant entre elles un lien de dépendance; pour l’application du présent sous-alinéa, la mention d’une personne ou des membres d’un groupe ne vise pas Sa Majesté du chef du Canada ou d’une province, les municipalités et les organismes de bienfaisance enregistrés (sauf les cercles, les sociétés et les associations visés à l’alinéa 149(1)l) de la Loi et les fondations privées, au sens de l’alinéa 149.1(1)f) de la Loi;
+	- **(vi)** dont au plus 50 % des biens qui lui ont été fournis ou versés, de quelque façon, l’ont été par une personne ou par les membres d’un groupe de personnes ayant entre elles un lien de dépendance; pour l’application du présent sous-alinéa, ne sont pas assimilés à une personne ou aux membres d’un groupe Sa Majesté du chef du Canada ou d’une province, une municipalité, un organisme de bienfaisance enregistré qui n’est pas une fondation privée ou tout cercle et ou toute association visés à l’alinéa 149(1)l) de la Loi;
 - **b)** les activités de l’organisme se limitent à une ou plusieurs des activités suivantes :
 	- **(i)** la promotion d’une ou de plusieurs formes d’expression artistique,
 	- **(ii)** la réalisation de recherches sur une ou plusieurs formes d’expression artistique,
@@ -17201,7 +17158,7 @@ sur le total des montants représentant chacun :
 	- **(ix)** le maintien, en tant que service d’information, de centres de ressources et de banques de données se rapportant au milieu artistique ou au secteur représenté,
 	- **(x)** la diffusion de renseignements sur le milieu artistique ou le secteur représenté,
 	- **(xi)** le versement de montants auxquels l’alinéa 56(1)n) de la Loi s’applique quant au bénéficiaire et se rapportant au milieu artistique ou au secteur représenté.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-140, art. 16; DORS/94-686, art. 51(F).
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-140, art. 16; DORS/94-686, art. 51(F); DORS/2007-116, art. 18.
 
 
 
