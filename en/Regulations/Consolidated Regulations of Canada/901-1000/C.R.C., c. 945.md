@@ -1581,13 +1581,13 @@ is of
 		- **(i)** under which annuity payments have commenced in the taxation year or a preceding taxation year,
 		- **(ii)** issued by a corporation described in any of paragraphs 39(5)(b) to (d) or clause 146(1)(j)(ii)(B) of the Act, a life insurance corporation, a registered charity or a corporation (other than a mutual fund corporation or a mortgage investment corporation) the principal business of which is the making of loans (which corporation or charity is in this section referred to as an “issuer”),
 		- **(iii)** each holder of which
-			- **(A)** is an individual, other than a trust that is neither a testamentary trust nor a trust described in paragraph 104(4)(a) of the Act (in this paragraph referred to as a “specified trust”),
+			- **(A)** is an individual, other than a trust that is neither a trust described in paragraph 104(4)(a) of the Act (in this paragraph referred to as a “specified trust”) nor a testamentary trust,
 			- **(B)** is an annuitant under the contract, and
 			- **(C)** throughout the taxation year, dealt at arm’s length with the issuer,
 		- **(iv)** the terms and conditions of which require that, from the time the contract meets the requirements of this paragraph,
 			- **(A)** all payments made out of the contract be equal annuity payments made at regular intervals but not less frequently than annually, subject to the holder’s right to vary the frequency and quantum of payments to be made out of the contract in any taxation year without altering the present value at the beginning of the year of the total payments to be made in that year out of the contract,
 			- **(B)** the annuity payments thereunder continue for a fixed term or
-				- **(I)** if the holder is an individual (other than a trust), for the life of the first holder or until the later of the death of the first holder and the death of any one of the spouse, common-law partner, former spouse, former common-law partner, brothers and sisters (in this subparagraph referred to as “the survivor”) of the first holder, or
+				- **(I)** if the holder is an individual (other than a trust), for the life of the first holder or until the day of the later of the death of the first holder and the death of any of the spouse, common-law partner, former spouse, former common-law partner, brothers and sisters (in this subparagraph referred to as “the survivor”) of the first holder, or
 				- **(II)** if the holder is a specified trust, for the life of the spouse or common-law partner who is entitled to receive the income of the trust,
 			- **(C)** where the annuity payments are to be made over a term that is guaranteed or fixed, the guaranteed or fixed term not extend beyond the time at which
 				- **(I)** in the case of a joint and last survivor annuity, the younger of the first holder and the survivor,
@@ -1613,12 +1613,10 @@ is of
 	- **(a)** the contract is held by another person in trust for the annuitant; or
 	- **(b)** the contract was acquired by the annuitant under a group term life insurance policy under which life insurance was effected on the life of another person in respect of, in the course of, or by virtue of the office or employment or former office or employment of that other person.
 
-- **(4)** In this section,
+- **(4)** In this section, ***annuitant*** under an annuity contract, at any time, means a person who, at that time, is entitled to receive annuity payments under the contract.
 
-***annuitant*** under an annuity contract, at any time, means a person who, at that time, is entitled to receive annuity payments under the contract; (*rentier*)
-
-***spouse*** of a particular individual includes another individual of the opposite sex who is a party to a void or voidable marriage with the particular individual. (*époux*)
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/82-499, s. 3; SOR/83-865, s. 5; SOR/86-488, s. 1; SOR/88-165, s. 2; SOR/88-319, s. 1; SOR/94-415, s. 1; SOR/94-686, s. 2(F); SOR/2001-188, s. 3; SOR/2001-216, s. 10(F).
+- **(5)** For the purpose of this section, ***spouse*** and ***former spouse*** of a particular individual include another individual who is a party to a void or voidable marriage with the particular individual.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/82-499, s. 3; SOR/83-865, s. 5; SOR/86-488, s. 1; SOR/88-165, s. 2; SOR/88-319, s. 1; SOR/94-415, s. 1; SOR/94-686, s. 2(F); SOR/2001-188, s. 3; SOR/2001-216, s. 10(F); SOR/2007-116, s. 1.
 
 
 
@@ -4041,8 +4039,8 @@ the taxpayer may, by letter attached to the return of income of the taxpayer fil
 
 - **(4)** An election under paragraph 1102(8)(d) or (9)(d) or this section shall be effective from the first day of the taxation year in respect of which the election is made and shall continue to be effective for all subsequent taxation years.
 
-- **(5)** An election under subsection (1) or (2) shall be made by registered letter addressed to the District Office at which the taxpayer customarily files the returns required by section 150 of the Act.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-377, s. 9; SOR/82-265, s. 3; SOR/83-340, s. 3; SOR/90-22, s. 4; SOR/91-196, s. 3; SOR/91-673, s. 3; SOR/94-170, s. 3; SOR/97-377, s. 3; SOR/2005-371, s. 3.
+- **(5)** An election under subsection (1) or (2) shall be made by sending a letter to that effect by registered mail to the Tax Centre at which the taxpayer customarily files the returns required by section 150 of the Act.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-377, s. 9; SOR/82-265, s. 3; SOR/83-340, s. 3; SOR/90-22, s. 4; SOR/91-196, s. 3; SOR/91-673, s. 3; SOR/94-170, s. 3; SOR/97-377, s. 3; SOR/2005-371, s. 3; SOR/2007-116, s. 2.
 
 
 
@@ -5461,7 +5459,7 @@ other than
 - **(3)** For the purpose of paragraph (1)(g), ***test wind turbine*** means a fixed location device that is a wind energy conversion system that would, if this Part were read without reference to this section, be property included in Class 43.1 in Schedule II because of subparagraph (d)(v) of that Class, or in Class 43.2 in Schedule II because of paragraph (b) of that Class, in respect of which the Minister, in consultation with the Minister of Natural Resources, determines that
 	- **(a)** the device is installed as part of a wind farm project of the taxpayer at which the electrical energy produced from wind by the device, and by all other test wind turbines that are part of the project, does not exceed
 		- **(i)** one third of the project’s planned nameplate capacity if
-			- **(A)** in the opinion of the Minister of Natural Resources, the project’s planned nameplate capacity is limited from an engineering or scientific perspective, and
+			- **(A)** the Minister of Natural Resources determines that the project’s planned nameplate capacity is limited from an engineering or scientific perspective, and
 			- **(B)** the project’s planned nameplate capacity does not exceed six megawatts, or
 		- **(ii)** 20% of the project’s planned nameplate capacity, in any other case;
 	- **(b)** the project does not share with any other project a point of interconnection to an electrical energy transmission or distribution system;
@@ -5477,7 +5475,7 @@ other than
 	- **(f)** no other wind energy conversion system is installed within 1500 metres of the device until the level of electrical energy produced from wind by the device has been tested for at least 120 calendar days.
 
 - **(4)** For greater certainty, a Canadian Renewable and Conservation Expense includes an expense incurred by a taxpayer to acquire a fixed location device that is a wind energy conversion system only if the device is described in paragraph (1)(g).
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2000-327, s. 4; SOR/2005-266, s. 1; SOR/2006-117, s. 5.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2000-327, s. 4; SOR/2005-266, s. 1; SOR/2006-117, s. 5; SOR/2007-116, s. 3.
 
 
 
@@ -6023,13 +6021,13 @@ exceeds
 
 - **(2)** An election under subsection 144(4.2) of the Act by the trustee of a trust governed by an employees profit sharing plan shall be made by filing with the Minister the prescribed form in duplicate on or before the last day of a taxation year of the trust in respect of any capital property deemed to have been disposed of in that taxation year by virtue of the election.
 
-- **(3)** An election under subsection 144(10) of the Act shall be made by forwarding by registered mail to the Deputy Minister of National Revenue for Taxation at Ottawa the following documents:
+- **(3)** An election under subsection 144(10) of the Act shall be made by sending the following documents by registered mail to the Commissioner of Revenue at Ottawa:
 	- **(a)** a letter from the employer stating that he elects to have the arrangement qualify as an employees profit sharing plan;
 	- **(b)** if the employer is a corporation,
 		- **(i)** where the directors of the corporation are legally entitled to administer the affairs of the corporation, a certified copy of their resolution authorizing the election to be made, and
 		- **(ii)** where the directors of the corporation are not legally entitled to administer the affairs of the corporation, a certified copy of the authorization of the making of the election by the person or persons legally entitled to administer the affairs of the corporation; and
 	- **(c)** a copy of the agreement and any supplementary agreement setting out the plan.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-686, ss. 69(F), 79(F).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-686, ss. 69(F), 79(F); SOR/2007-116, s. 4.
 
 
 
@@ -6043,11 +6041,11 @@ exceeds
 #### Registration of Plans
 
 
-**1501** For the purposes of the definition ***deferred profit sharing plan*** in subsection 147(1) of the Act, an application for registration of a plan shall be made by forwarding by registered mail to the Deputy Minister of National Revenue for Taxation at Ottawa the following documents:
+**1501** For the purpose of the definition ***deferred profit sharing plan*** in subsection 147(1) of the Act, an application for registration of a plan shall be made by sending the following documents by registered mail to the Commissioner of Revenue at Ottawa:
 - **(a)** a letter from the trustee and the employer whereby the trustee and the employer apply for the registration of the plan as a deferred profit sharing plan;
 - **(b)** if the employer is a corporation, a certified copy of a resolution of the directors authorizing the application to be made; and
 - **(c)** a copy of the agreement and any supplementary agreement setting out the plan.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 4, SOR/94-686, s. 79(F).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 4; SOR/94-686, s. 79(F); SOR/2007-116, s. 5.
 
 
 
@@ -6317,13 +6315,13 @@ exceeds
 
 - **(5)** In this section,
 
-***class of animal*** means a group of animals of a particular species segregated on the basis of age, breed or other recognized division, as determined by the taxpayer at the time of election under this section; (*catégorie d’animaux*)
+***class of animal*** means a group of animals of a particular species segregated on the basis of age, breed or other recognized division, as determined by the taxpayer at the time of election under this section; (*catégorie d’animaux*)
 
-***district*** means the territory served by a District Office of the Taxation Division of the Department of National Revenue; (*district*)
+***district*** means the territory served by a Tax Centre of the Canada Revenue Agency; (*district*)
 
-***registered animal*** means an animal for which a certificate of registration has been issued by the registrar of the breed to which the animal belongs or by the registrar of the Canadian National Livestock Records; (*animal enregistré*)
+***registered animal*** means an animal for which a certificate of registration has been issued by the registrar of the breed to which the animal belongs or by the registrar of the Canadian National Livestock Records; (*animal enregistré*)
 a reference to “taxation year” shall be deemed to include a reference to the fiscal period of a business.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-686, ss. 17(F), 81(F).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-686, ss. 17(F), 81(F); SOR/2007-116, s. 6.
 
 
 
@@ -7941,11 +7939,11 @@ exceeds
 
 - **(5)** In this section, a reference to the “last day of a taxation year” is deemed to be a reference to
 	- **(a)** the “last day in the year on which the individual resided in Canada”, in the case of an individual who resided in Canada at any time in the year but ceased to reside in Canada before the end of the year; and
-	- **(b)** the “day in the year on which the individual would have ceased to reside in Canada, if the Act were read without reference to paragraphs 250(1)(d.1) to (f) of the Act,”, in the case of a particular individual described in paragraph 250(1)(d.1) of the Act, or of another individual who is a spouse, common-law partner or child of the particular individual, who
-		- **(i)** resided in Canada at any time in the year,
-		- **(ii)** would have ceased to reside in Canada before the end of the year, if the Act were read without reference to paragraphs 250(1)(d.1) to (f) of the Act, and
-		- **(iii)** is, pursuant to any of paragraphs 250(1)(d.1) to (f) of the Act, deemed to have been a resident of Canada throughout the year.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-799, s. 1; SOR/2001-188, s. 4.
+	- **(b)** the “day in the year on which the individual would have ceased to reside in Canada, if the Act were read without reference to paragraphs 250(1)(d.1) and (f) of the Act,”, in the case of a particular individual described in paragraph 250(1)(d.1) of the Act, or of another individual who is a spouse, common-law partner or child of the particular individual, who
+		- **(i)** was resident in Canada at any time in the year,
+		- **(ii)** would have ceased to be resident in Canada before the end of the year, if the Act were read without reference to paragraphs 250(1)(d.1) and (f) of the Act, and
+		- **(iii)** is, pursuant to paragraph 250(1)(d.1) or (f) of the Act, deemed to have been resident in Canada throughout the year.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-799, s. 1; SOR/2001-188, s. 4; SOR/2007-116, s. 7.
 
 
 
@@ -8245,38 +8243,13 @@ exceeds
 
 **2800** 
 
-- **(1)** Any election under subsection 104(14) of the Act in respect of a taxation year shall be made by filing with the Minister the following documents:
-	- **(a)** a statement
-		- **(i)** making the election in respect of the year,
-		- **(ii)** designating the part of the accumulating income in respect of which the election is being made, and
-		- **(iii)** signed by the preferred beneficiary and a trustee having the authority to make the election; and
-	- **(b)** a statement signed by the trustee showing the computation of the amount of the preferred beneficiary’s share in the accumulating income of the trust for the year in accordance with paragraph 104(15)(a), (b) or (c) of the Act, as the case may be, together with such information concerning the provisions of the trust and its administration as is necessary for this purpose.
+- **(1)** Any election under subsection 104(14) of the Act in respect of a taxation year shall be made by filing with the Minister a written statement
+	- **(a)** in which the election in respect of the year is made;
+	- **(b)** in which is designated the part of the accumulating income in respect of which the election is being made; and
+	- **(c)** that is signed by the preferred beneficiary and a trustee having the authority to make the election.
 
-- **(2)** The documents referred to in subsection (1) shall be filed within 90 days from the end of the trust’s taxation year in respect of which the election referred to in subsection (1) is made.
-
-- **(2.1)** Notwithstanding subsection (2), if a trust elects under subsection 110.6(19) of the Act in respect of the taxation year of the trust that includes February 22, 1994, the documents referred to in subsection (1) in respect of that year shall be filed on or before the day on or before which the election under subsection 110.6(19) of the Act is required to be filed with the Minister.
-
-- **(3)** For the purposes of paragraph 104(15)(c) of the Act, the discretionary share of a particular preferred beneficiary under a trust of the trust’s accumulating income for a taxation year shall be an amount determined as follows:
-	- **(a)** where the settlor of the trust is an individual and his spouse, both of whom are alive at the end of the year and both of whom may be entitled to share in the accumulating income of the trust, the discretionary share
-		- **(i)** of the individual is that proportion of the accumulating income of the trust for the year that the fair market value of the property contributed by the individual is of the aggregate of the fair market value of the property contributed by the individual and the fair market value of the property contributed by his spouse (such fair market values being determined in respect of each contribution at the time of the making of that contribution),
-		- **(ii)** of the spouse is that proportion of the accumulating income of the trust for the year that the fair market value of the property contributed by the spouse is of the aggregate of the fair market value of the property contributed by the individual and the fair market value of the property contributed by his spouse (such fair market values being determined in respect of each contribution at the time of the making of that contribution), and
-		- **(iii)** of any other beneficiary who is a preferred beneficiary under the trust is nil;
-	- **(b)** where the settlor of the trust is an individual and his spouse, both of whom are alive at the end of the year but only one of whom may be entitled to share in the accumulating income of the trust, the discretionary share
-		- **(i)** of the individual or his spouse, as the case may be, who may be entitled to share in the accumulating income of the trust is the accumulating income of the trust for the year, and
-		- **(ii)** of any other beneficiary who is a preferred beneficiary under the trust is nil;
-	- **(c)** where the settlor of the trust is an individual and his spouse, only one of whom is alive at the end of the year, and the one who is alive may be entitled to share in the accumulating income of the trust, the discretionary share
-		- **(i)** of the individual or his spouse, as the case may be, who is alive at the end of the year is the accumulating income of the trust for the year, and
-		- **(ii)** of any other beneficiary who is a preferred beneficiary under the trust is nil;
-	- **(d)** where, in any case not described in paragraph (a), (b) or (c), the settlor of the trust may be entitled to share in the accumulating income of the trust and is alive at the end of the year, the discretionary share
-		- **(i)** of the settlor is the accumulating income of the trust for the year, and
-		- **(ii)** of any other beneficiary who is a preferred beneficiary under the trust is nil;
-	- **(e)** where, in any case not described in paragraph (a), (b) or (c), the spouse of the settlor of the trust may be entitled to share in the accumulating income of the trust, but the settlor may not, and the spouse is alive at the end of the year, the discretionary share
-		- **(i)** of the spouse is the accumulating income of the trust for the year, and
-		- **(ii)** of any other beneficiary who is a preferred beneficiary under the trust is nil; and
-	- **(f)** in any other case, the discretionary share of a preferred beneficiary alive at the end of the year is the amount obtained by dividing the accumulating income of the trust for the year by the number of preferred beneficiaries under the trust alive at the end of the year who may be entitled to share in the accumulating income of the trust.
-
-- **(4)** In paragraphs (3)(a) to (e), the phrase “entitled to share in the accumulating income of the trust” does not include any entitlement that arises by reason of the death of any individual who would otherwise be entitled to share in the accumulating income of the trust.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2001-164, s. 1.
+- **(2)** The statement shall be filed within 90 days after the end of the trust’s taxation year in respect of which the election referred to in subsection (1) is made.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2001-164, s. 1; SOR/2007-116, s. 8.
 
 
 
@@ -11963,22 +11936,8 @@ where all the consideration receivable upon a conversion or exchange of the obli
 
 
 
-**6500** 
-
-- **(1)** For the purposes of paragraph 73(1)(d) and subparagraph 148(8)(a)(iii) of the Act,
-
-***prescribed class of persons*** means persons referred to in subparagraph 14(b)(i) of The Family Law Reform Act, 1978, S.O. 1978, c. 2, of the Province of Ontario; (*catégorie prescrite de personnes*)
-
-***prescribed provisions of the law of a province*** means paragraph 19(1)(c) and section 52 of The Family Law Reform Act, 1978, S.O. 1978, c. 2, of the Province of Ontario. (*dispositions prescrites d’une loi provinciale*)
-
-- **(2)** For the purposes of subsection 73(1.1) of the Act, ***prescribed provisions of the law of a province*** means
-	- **(a)** sections 7 and 9 of The Matrimonial Property Act, S.A. 1978, c. 22, of the Province of Alberta;
-	- **(b)** sections 43, 51 and 52 of the Family Relations Act, R.S.B.C. 1979, c. 121, of the Province of British Columbia;
-	- **(c)** sections 13, 16 and 17 of The Marital Property Act, S.M. 1978, c. 24-Cap. M45 of the Province of Manitoba;
-	- **(d)** sections 4, 6, 7 and 8 and paragraph 19(1)(c) of The Family Law Reform Act, 1978, S.O. 1978, c. 2, of the Province of Ontario;
-	- **(e)** sections 5, 7, 8 and 9 of the Family Law Reform Act, S.P.E.I. 1978, c. 6, of the Province of Prince Edward Island; and
-	- **(f)** sections 5, 8, 21 and 22, subsection 23(4) and sections 26 and 42 of The Matrimonial Property Act, S.S. 1979, c. M-6.1, of the Province of Saskatchewan.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/80-245, s. 1; SOR/81-118, s. 1; SOR/82-214, s. 1; SOR/86-488, s. 8.
+**6500** [Repealed, SOR/2007-116, s. 9]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/80-245, s. 1; SOR/81-118, s. 1; SOR/82-214, s. 1; SOR/86-488, s. 8; SOR/2007-116, s. 9.
 
 
 
@@ -12225,8 +12184,8 @@ unless, by reason of the arrangement or a series of transactions that includes t
 
 
 
-**6803** For the purposes of the definition ***foreign retirement arrangement*** in subsection 248(1) of the Act, a prescribed plan or arrangement is a plan or arrangement to which subsection 408(a), (b) or (h) of the United States Internal Revenue Code of 1986, as amended from time to time, applies.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-692, s. 1.
+**6803** For the purposes of the definition ***foreign retirement arrangement*** in subsection 248(1) of the Act, a prescribed plan or arrangement is a plan or arrangement to which subsection 408(a), (b) or (h) of the United States’ Internal Revenue Code of 1986, as amended from time to time, applies.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-692, s. 1; SOR/2007-116, s. 10.
 
 
 
@@ -13259,12 +13218,12 @@ the limit shall be disregarded for the purpose of determining whether the provis
 - **(b)** there is a change to the way in which retirement benefits provided to an individual under a defined benefit provision of a pension plan in respect of a period before the time the transaction, event or circumstance occurs are determined, including a change that is applicable only in specified circumstances, or
 - **(c)** there is a change in the value of an indexing or other automatic adjustment that enters into the determination of the amount of an individual’s retirement benefits under a defined benefit provision of a pension plan in respect of a period before the time the value of the adjustment changes; (*fait lié aux services passés*)
 
-***period of reduced services*** of an individual means, in connection with a defined benefit or money purchase provision of a registered pension plan, a period that consists of one or more periods each of which is
+***period of reduced services*** of an individual means, in connection with a benefit provision of a registered pension plan, a period that consists of one or more periods each of which is
 - **(a)** an eligible period of reduced pay or temporary absence of the individual with respect to an employer who participates under the provision, or
 - **(b)** a period of disability of the individual; (*période de services réduits*)
 
 ***refund benefit*** means
-- **(a)** with respect to an individual and a money purchase or defined benefit provision of a pension plan, a return of contributions made by the individual under the provision, and
+- **(a)** with respect to an individual and a benefit provision of a pension plan, a return of contributions made by the individual under the provision, and
 - **(b)** with respect to an individual and a deferred profit sharing plan, a return of contributions made by the individual to the plan,
 
 and includes any interest (computed at a rate not exceeding a reasonable rate) payable in respect of those contributions. (*prestation de remboursement*)
@@ -13313,7 +13272,7 @@ shall be deemed to be a contribution made under the provision by the employer wi
 the individual is deemed to continue, from the time of the payment or acquisition, as the case may be, until the individual’s death, to be a member in relation to the plan or provision, as the case may be.
 
 - **(13)** For the purposes of this Part and Part LXXXV, where a benefit is to be provided, or may be provided, to an individual under a defined benefit provision of a registered pension plan as a consequence of an allocation that is to be made, or may be made, to the individual of all or part of an actuarial surplus under the provision, the individual is considered not to have any right to receive the benefit under the provision until the time at which the benefit becomes provided under the provision.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 1; SOR/99-9, s. 4; SOR/2003-328, s. 5; SOR/2005-264, s. 16.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 1; SOR/99-9, s. 4; SOR/2003-328, s. 5; SOR/2005-264, s. 16; SOR/2007-116, s. 11(E).
 
 
 
@@ -13457,7 +13416,7 @@ where
 
 - **(8)** For the purposes of this Part and Part LXXXV and subsection 147.1(9) of the Act, and subject to subsection (9), where
 	- **(a)** an individual ceased in a calendar year after 1989 and before 1997 to be employed by an employer who participated in a registered pension plan for the benefit of the individual,
-	- **(b)** as a consequence of the termination of employment, the individual ceased in the year to have any rights to benefits (other than a right to a refund benefit) under a money purchase or defined benefit provision of the plan,
+	- **(b)** as a consequence of the termination of employment, the individual ceased in the year to have any rights to benefits (other than a right to a refund benefit) under a benefit provision of the plan,
 	- **(c)** the individual was not entitled to benefits under the provision at the end of the year, or was entitled only to a refund benefit, and
 	- **(d)** no benefit has been paid under the provision with respect to the individual, other than a refund benefit,
 the individual’s pension credit under the provision for the year with respect to the employer is
@@ -13532,7 +13491,7 @@ where
 
 
 - **(16)** Except as otherwise expressly provided in this Part, each pension credit of an individual for a calendar year shall be determined without regard to any transactions, events or circumstances that occur subsequent to the year.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 2; SOR/96-311, s. 6; SOR/99-9, s. 5; SOR/2003-328, s. 6; SOR/2005-264, s. 17.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 2; SOR/96-311, s. 6; SOR/99-9, s. 5; SOR/2003-328, s. 6; SOR/2005-264, s. 17; SOR/2007-116, s. 12(E).
 
 
 
@@ -14338,7 +14297,7 @@ where A, C, D and R have the same values as they have at the particular time for
 	- **(b)** the individual is connected at the particular time, or was connected at any time after 1989, with an employer who participates in the plan for the benefit of the individual,
 	- **(c)** the individual did not have a pension adjustment for 1990 that was greater than nil, and
 	- **(d)** this subsection did not apply before the particular time to prescribe an amount with respect to the individual,
-an amount equal to the lesser of $11,500 and 18 per cent of the individual’s earned income (within the meaning assigned by paragraph 146(1)(c) of the Act) for 1990 is prescribed with respect to the individual for the year for the purpose of the description of B in paragraphs 146(1)(g.1) and (l) and subsection 204.2(1.1) of the Act.
+an amount equal to the lesser of $11,500 and 18% of the individual’s earned income (as defined in subsection 146(1) of the Act) for 1990 is prescribed with respect to the individual for the calendar year that includes the particular time for the purposes of the descriptions of B in the definitions ***RRSP deduction limit*** and ***unused RRSP deduction room*** in subsection 146(1) of the Act and the description of B in paragraph 204.2(1.1)(b) of the Act.
 
 #### Remuneration for Prior Years
 
@@ -14412,7 +14371,7 @@ the individual’s pension adjustments for the year with respect to the former e
 	- **(a)** lifetime retirement benefits that do not comply with the condition in paragraph 8503(3)(a) are provided to an individual under a defined benefit provision of a registered pension plan, and
 	- **(b)** the benefits are permissible only by reason of subsection 8505(3),
 each pension credit of the individual under the provision and each provisional PSPA of the individual shall be determined without regard to the lifetime retirement benefits.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 6.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 6; SOR/2007-116, s. 13.
 
 
 
@@ -14896,10 +14855,10 @@ each employer who participates in the plan for the benefit of the individual and
 
 
 **8407** Where
-- **(a)** an individual who has withdrawn an amount from a registered retirement savings plan under which the individual was the annuitant (within the meaning assigned by paragraph 146(1)(a) of the Act) at the time of the withdrawal provides the issuer (within the meaning assigned by paragraph 146(1)(c.1) of the Act) of the plan, in the calendar year in which the amount was withdrawn or in either of the 2 immediately following calendar years, with the prescribed form referred to in subparagraph 8307(3)(a)(ii) accompanied by a request that the issuer complete the form in respect of the withdrawal, and
+- **(a)** an individual who has withdrawn an amount from a registered retirement savings plan under which the individual was, at the time of the withdrawal, the annuitant (as defined in subsection 146(1) of the Act) provides to the issuer (as defined in subsection 146(1) of the Act) of the plan, in the calendar year in which the amount was withdrawn or one of the two immediately following calendar years, the prescribed form referred to in subparagraph 8307(3)(a)(ii) accompanied by a request that the issuer complete the form in respect of the withdrawal, and
 - **(b)** the issuer has not, at the time of receipt of the request, forwarded to the individual 2 copies of the information return required by subsection 214(1) to be made by the issuer in respect of the withdrawal, and does not, within 30 days after receipt of the request, forward to the individual 2 copies of that return,
 the issuer shall, within 30 days after receipt of the request, complete those portions of the form that the form indicates are required to be completed by the issuer in respect of the withdrawal and return the form to the individual.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/2007-116, s. 14.
 
 
 
@@ -15074,7 +15033,7 @@ and, for the purposes of this subsection,
 
 - **(4)** For the purposes of this Part, an officer who receives remuneration for holding an office shall, for any period that the officer holds the office, be deemed to render services to, and to be in the service of, the person from whom the officer receives the remuneration.
 
-- **(5)** For the purposes of this Part, a spouse of a particular individual includes another individual of the opposite sex who is a party to a void or voidable marriage with the particular individual.
+- **(5)** For the purpose of this Part, ***spouse*** and ***former spouse*** of a particular individual include another individual who is a party to a void or voidable marriage with the particular individual.
 
 - **(6)** Where this Part provides that an amount is to be determined by aggregating the durations of periods that satisfy specified conditions, a period shall be included in determining the aggregate only if it is not part of a longer period that satisfies the conditions.
 
@@ -15089,7 +15048,7 @@ shall be deemed to be a contribution made under the provision on behalf of the i
 	- **(a)** for the purpose of determining whether the member benefits are permissible under this Part, the non-member benefits shall be disregarded;
 	- **(b)** for the purpose of determining whether the non-member benefits are permissible under this Part, the member benefits shall be disregarded; and
 	- **(c)** for the purpose of determining a pension adjustment, pension adjustment reversal or provisional past service pension adjustment of the individual under Part LXXXIII, the non-member benefits shall be disregarded.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/94-686, ss. 76(F), 78(F), 79(F); SOR/95-64, s. 8; SOR/99-9, s. 19; SOR/2001-67, s. 5; SOR/2001-188, s. 8; SOR/2003-328, s. 7; SOR/2005-264, s. 24.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/94-686, ss. 76(F), 78(F), 79(F); SOR/95-64, s. 8; SOR/99-9, s. 19; SOR/2001-67, s. 5; SOR/2001-188, s. 8; SOR/2003-328, s. 7; SOR/2005-264, s. 24; SOR/2007-116, s. 15.
 
 
 
@@ -15745,7 +15704,7 @@ the following rules apply for the purposes of the conditions in subsection 8504(
 		- **(ii)** before December 11, 1989 where the contribution has not, before that date, been approved by the Minister under paragraph 20(1)(s) of the Act, and
 	- **(c)** it is reasonable to consider that all or substantially all of such portion of the contribution as is in respect of past service benefits was paid by the employer, with the consent of the member, in lieu of a payment or other benefit to which the member would otherwise be entitled,
 the plan becomes, for the purposes of paragraph 147.1(11)(c) of the Act, a revocable plan on the later of December 11, 1989 and the day immediately before the day on which the contribution is made.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 11; SOR/99-9, s. 22; SOR/2001-67, s. 6; SOR/2001-188, ss. 11, 14 to 16; SOR/2003-396, s. 1; SOR/2005-264, s. 27.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 11; SOR/99-9, s. 22; SOR/2001-67, s. 6; SOR/2001-188, ss. 11, 14 to 16; SOR/2003-396, s. 1; SOR/2005-264, s. 27; SOR/2007-116, s. 16(F).
 
 
 
@@ -16586,19 +16545,19 @@ the condition in paragraph 8503(3)(a) does not apply in respect of such portion 
 
 **8512** 
 
-- **(1)** For the purposes of subsection 147.1(2) of the Act, an application for registration of a pension plan shall be made by forwarding by registered mail to the Deputy Minister of National Revenue for Taxation at Ottawa, the following documents:
+- **(1)** For the purpose of subsection 147.1(2) of the Act, an application for registration of a pension plan shall be made by sending the following documents by registered mail to the Commissioner of Revenue at Ottawa:
 	- **(a)** an application in prescribed form containing prescribed information;
 	- **(b)** certified copies of the plan text and any other documents that contain terms of the plan;
 	- **(c)** certified copies of all trust deeds, insurance contracts and other documents that relate to the funding of benefits under the plan;
 	- **(d)** certified copies of all agreements that relate to the plan; and
 	- **(e)** certified copies of all resolutions and by-laws that relate to the documents referred to in paragraphs (b) to (d).
 
-- **(2)** Where, after 1988, an amendment is made to a registered pension plan, to the arrangement for funding benefits under the plan or to a document that has been filed with the Minister in respect of the plan, the plan administrator shall, within 60 days after the day on which the amendment is made, forward to the Deputy Minister of National Revenue for Taxation at Ottawa
+- **(2)** Where an amendment is made to a registered pension plan, to the arrangement for funding benefits under the plan or to a document that has been filed with the Minister in respect of the plan, within 60 days after the day on which the amendment is made, the plan administrator shall send to the Commissioner of Revenue at Ottawa
 	- **(a)** a prescribed form containing prescribed information; and
 	- **(b)** certified copies of all documents that relate to the amendment.
 
-- **(3)** For the purposes of subsection 147.1(4) of the Act, an application for the acceptance of an amendment to a registered pension plan is made in prescribed manner where the documents that are required by subsection (2) are forwarded by registered mail to the Deputy Minister of National Revenue for Taxation at Ottawa.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7.
+- **(3)** For the purpose of subsection 147.1(4) of the Act, an application for the acceptance of an amendment to a registered pension plan is made in prescribed manner if the documents that are required by subsection (2) are sent by registered mail to the Commissioner of Revenue at Ottawa.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/2007-116, s. 17.
 
 
 
@@ -17339,7 +17298,7 @@ exceeds
 	- **(iii)** no part of the income of which may be payable to, or otherwise available for the personal benefit of, any proprietor, member, shareholder, trustee, or settlor of the organization, except where the payment is for services rendered or is an amount to which paragraph 56(1)(n) of the Act applies in respect of the recipient,
 	- **(iv)** all of the resources of which are devoted to the activities and objects described in its application for its last designation by the Minister of Communications pursuant to paragraph 149.1(6.4)(a) of the Act,
 	- **(v)** more than 50 per cent of the directors, trustees, officers or other officials of which deal with each other at arm’s length, and
-	- **(vi)** no more than 50 per cent of the property of which at any time has been contributed or otherwise paid into the organization by one person or by members of a group of persons who do not deal with each other at arm’s length and, for the purposes of this subparagraph, a reference to any person or to members of a group does not include a reference to Her Majesty in right of Canada or a province, a municipality, or a registered charity (other than a club, society or association described in paragraph 149(1)(l) of the Act or a private foundation as that term is defined in paragraph 149.1(1)(f) of the Act); and
+	- **(vi)** no more than 50% of the property of which at any time has been contributed or otherwise paid into the organization by one person or members of a group of persons who do not deal with each other at arm’s length and, for the purpose of this subparagraph, a reference to any person or to members of a group does not include a reference to Her Majesty in Right of Canada or a province, a municipality, a registered charity that is not a private foundation or any club, society or association described in paragraph 149(1)(l) of the Act; and
 - **(b)** the activities of the organization are confined to one or more of
 	- **(i)** promoting one or more art forms,
 	- **(ii)** conducting research into one or more art forms,
@@ -17352,7 +17311,7 @@ exceeds
 	- **(ix)** acting as an information centre by maintaining resource libraries and data bases relating to the arts community or the sector represented by the organization,
 	- **(x)** disseminating information relating to the arts community or the sector represented by the organization, and
 	- **(xi)** paying amounts to which paragraph 56(1)(n) of the Act applies in respect of the recipient and which relate to the arts community or the sector represented by the organization.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-140, s. 16; SOR/94-686, s. 51(F).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-140, s. 16; SOR/94-686, s. 51(F); SOR/2007-116, s. 18.
 
 
 
