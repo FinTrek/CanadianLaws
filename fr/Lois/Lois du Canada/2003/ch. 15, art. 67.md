@@ -749,6 +749,17 @@ où :
 </td>
 </tr>
 <tr>
+<td>Lower Kootenay
+
+</td>
+<td>Council of Lower Kootenay
+
+</td>
+<td>Réserves de Lower Kootenay, sauf la réserve désignée comme St. Mary's No. 1A.
+
+</td>
+</tr>
+<tr>
 <td>Montagnais Essipit
 
 </td>
@@ -767,6 +778,17 @@ où :
 
 </td>
 <td>Réserve de Muskeg Lake
+
+</td>
+</tr>
+<tr>
+<td>Première Nation Akisqnuk (aussi connue sous les noms de Columbia Lake Indian Band et de ?Akisq'nuk First Nation)
+
+</td>
+<td>Conseil de la Première Nation Akisqnuk
+
+</td>
+<td>Réserves de Columbia Lake, sauf la réserve désignée comme St. Mary's No. 1A.
 
 </td>
 </tr>
@@ -914,6 +936,17 @@ où :
 </td>
 </tr>
 <tr>
+<td>St. Mary's
+
+</td>
+<td>Council of St. Mary's
+
+</td>
+<td>Réserves de St. Mary's, sauf la réserve désignée comme St.Â Mary's No. 1A.Mary's No. 1A.
+
+</td>
+</tr>
+<tr>
 <td>Tla-o-qui-aht
 
 </td>
@@ -932,6 +965,17 @@ où :
 
 </td>
 <td>Terres tlichos et collectivité tlicho au sens de l’accord sur les revendications territoriales et l’autonomie gouvernementale conclu entre le peuple tlicho, le gouvernement des Territoires du Nord-Ouest et le gouvernement du Canada, signé le 25 août 2003 et approuvé, mis en vigueur et déclaré valide par la [Loi sur les revendications territoriales et l’autonomie gouvernementale du peuple tlicho](/fr/Lois/Lois%20du%20Canada/2005/ch.%201.md), ainsi que ses modifications éventuelles
+
+</td>
+</tr>
+<tr>
+<td>Tobacco Plains
+
+</td>
+<td>Council of Tobacco Plains
+
+</td>
+<td>Réserves des Tobacco Plains, sauf la réserve désignée comme St. Mary's No. 1A.
 
 </td>
 </tr>
@@ -970,7 +1014,7 @@ où :
 </tr>
 </table>
 
-> 2003, ch. 15, s. 67 « ann. »; DORS/2004-281; 2005, ch. 19, art. 11; DORS/2005-363; DORS/2006-201, 294.
+> 2003, ch. 15, s. 67 « ann. »; DORS/2004-281; 2005, ch. 19, art. 11; DORS/2005-363; DORS/2006-201, 294; DORS/2007-111.
 
 
 
