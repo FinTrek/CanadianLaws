@@ -39,65 +39,65 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***agent de campagne à la direction*** 			 Personne nommée au titre du paragraphe 435.08(1), y compris l’agent financier d’un candidat à la direction. 
+***agent de campagne à la direction*** Personne nommée au titre du paragraphe 435.08(1), y compris l’agent financier d’un candidat à la direction.
 
-***agent de circonscription*** 			 Personne nommée au titre du paragraphe 403.09(1), y compris l’agent financier d’une association enregistrée. 
+***agent de circonscription*** Personne nommée au titre du paragraphe 403.09(1), y compris l’agent financier d’une association enregistrée.
 
-***agent enregistré*** 			 Personne visée à l’article 375, y compris l’agent principal d’un parti enregistré. 
+***agent enregistré*** Personne visée à l’article 375, y compris l’agent principal d’un parti enregistré.
 
-***agent officiel*** 			 L’agent officiel qu’un candidat nomme pour se conformer au paragraphe 83(1). 
+***agent officiel*** L’agent officiel qu’un candidat nomme pour se conformer au paragraphe 83(1).
 
-***agent principal*** 			 Personne mentionnée dans la demande d’enregistrement d’un parti politique au titre de l’alinéa 366(2) h). 
+***agent principal*** Personne mentionnée dans la demande d’enregistrement d’un parti politique au titre de l’alinéa 366(2)h).
 
-***annulé*** 			 S’agissant du bulletin de vote ou du bulletin de vote spécial au sens de l’article 177 : 
+***annulé*** S’agissant du bulletin de vote ou du bulletin de vote spécial au sens de l’article 177 :
 - **a)** le bulletin de vote qui n’a pas été déposé dans l’urne mais que le scrutateur a trouvé sali ou imprimé incorrectement;
 - **b)** le bulletin de vote annulé dans le cadre des paragraphes 152(1), 171(1) — dans la mesure où il prévoit l’application du paragraphe 152(1) aux bureaux de vote par anticipation — , 213(4), 242(1) ou 258(3).
 
-***appartenance politique*** 			 En ce qui touche un candidat, la désignation du parti politique qui le soutient ou la désignation « indépendant », selon le cas, mentionnée dans son acte de candidature conformément au sous-alinéa 66(1) a)(v). 
+***appartenance politique*** En ce qui touche un candidat, la désignation du parti politique qui le soutient ou la désignation « indépendant », selon le cas, mentionnée dans son acte de candidature conformément au sous-alinéa 66(1)a)(v).
 
-***arbitre*** 			 Personne nommée en vertu du paragraphe 332(1). 
+***arbitre*** Personne nommée en vertu du paragraphe 332(1).
 
-***association de circonscription*** 			 Regroupement des membres d’un parti politique dans une circonscription. 
+***association de circonscription*** Regroupement des membres d’un parti politique dans une circonscription.
 
-***association enregistrée*** 			 			 			 Association de circonscription inscrite dans le registre des associations de circonscription prévu à l’article 403.08. 
+***association enregistrée*** Association de circonscription inscrite dans le registre des associations de circonscription prévu à l’article 403.08.
 
-***bref*** 			 Bref d’élection. 
+***bref*** Bref d’élection.
 
-***bureau de scrutin*** 			 Lieu établi pour le vote des électeurs en vertu des articles 120, 122, 125, 205, 206, 207, 253 ou 255. 
+***bureau de scrutin*** Lieu établi pour le vote des électeurs en vertu des articles 120, 122, 125, 205, 206, 207, 253 ou 255.
 
-***bureau de vote par anticipation*** 			 Bureau de vote établi en vertu du paragraphe 168(3). 
+***bureau de vote par anticipation*** Bureau de vote établi en vertu du paragraphe 168(3).
 
-***candidat*** 			 Personne dont la candidature à une élection a été confirmée au titre du paragraphe 71(1) mais qui ne s’est pas encore conformée, ou dont l’agent officiel ne s’est pas conformé, relativement à cette élection, aux articles 451 à 463 et 471 à 475. 
+***candidat*** Personne dont la candidature à une élection a été confirmée au titre du paragraphe 71(1) mais qui ne s’est pas encore conformée, ou dont l’agent officiel ne s’est pas conformé, relativement à cette élection, aux articles 451 à 463 et 471 à 475.
 
-***candidat à la direction*** 			 Personne inscrite dans le registre des candidats à la direction prévu à l’article 435.07, mais qui ne s’est pas encore conformée — ou dont l’agent financier ne s’est pas encore conformé — , relativement à cette course, aux articles 435.3 à 435.47. 
+***candidat à la direction*** Personne inscrite dans le registre des candidats à la direction prévu à l’article 435.07, mais qui ne s’est pas encore conformée — ou dont l’agent financier ne s’est pas encore conformé — , relativement à cette course, aux articles 435.3 à 435.47.
 
-***candidat à l’investiture*** 			 Personne dont le nom figure dans le rapport déposé au titre de l’alinéa 478.02(1) c) relativement à une course à l’investiture, mais qui ne s’est pas encore conformée — ou dont l’agent financier ne s’est pas encore conformé — , relativement à cette course, aux articles 478.23 à 478.42. 
+***candidat à l’investiture*** Personne dont le nom figure dans le rapport déposé au titre de l’alinéa 478.02(1)c) relativement à une course à l’investiture, mais qui ne s’est pas encore conformée — ou dont l’agent financier ne s’est pas encore conformé — , relativement à cette course, aux articles 478.23 à 478.42.
 
-***circonscription*** 			 Division territoriale représentée par un député à la Chambre des communes. 
+***circonscription*** Division territoriale représentée par un député à la Chambre des communes.
 
-***clôture des candidatures*** L’heure limite prévue au paragraphe 70(2). 
+***clôture des candidatures*** L’heure limite prévue au paragraphe 70(2).
 
-***commissaire*** Le commissaire aux élections fédérales nommé au titre de l’article 509. 
+***commissaire*** Le commissaire aux élections fédérales nommé au titre de l’article 509.
 
-***conjoint de fait*** La personne qui vit avec la personne en cause dans une relation conjugale depuis au moins un an. 
+***conjoint de fait*** La personne qui vit avec la personne en cause dans une relation conjugale depuis au moins un an.
 
-***contribution*** Toute contribution monétaire et toute contribution non monétaire. 
+***contribution*** Toute contribution monétaire et toute contribution non monétaire.
 
-***contribution monétaire*** Toute somme d’argent offerte et non remboursable. 
+***contribution monétaire*** Toute somme d’argent offerte et non remboursable.
 
-***contribution non monétaire*** La valeur commerciale d’un service, sauf d’un travail bénévole, ou de biens ou de l’usage de biens ou d’argent, s’ils sont fournis sans frais ou à un prix inférieur à leur valeur commerciale. 
+***contribution non monétaire*** La valeur commerciale d’un service, sauf d’un travail bénévole, ou de biens ou de l’usage de biens ou d’argent, s’ils sont fournis sans frais ou à un prix inférieur à leur valeur commerciale.
 
-***course à la direction*** Compétition en vue de la désignation du chef d’un parti enregistré. 
+***course à la direction*** Compétition en vue de la désignation du chef d’un parti enregistré.
 
-***course à l’investiture*** Compétition visant à choisir la personne qui sera proposée à un parti enregistré en vue de l’obtention de son soutien comme candidat dans une circonscription. 
+***course à l’investiture*** Compétition visant à choisir la personne qui sera proposée à un parti enregistré en vue de l’obtention de son soutien comme candidat dans une circonscription.
 
-***dépense de campagne à la direction*** Dépense raisonnable entraînée par une course à la direction et engagée par un candidat à la direction ou pour son compte pendant la course, y compris toute dépense personnelle de celui-ci au sens de l’article 435.03. 
+***dépense de campagne à la direction*** Dépense raisonnable entraînée par une course à la direction et engagée par un candidat à la direction ou pour son compte pendant la course, y compris toute dépense personnelle de celui-ci au sens de l’article 435.03.
 
 ***dépense de campagne d’investiture*** Dépense raisonnable entraînée par une course à l’investiture et engagée par un candidat à l’investiture ou pour son compte pendant la course, y compris toute dépense personnelle de celui-ci au sens de l’article 478.01.
 
-***dépouillement judiciaire*** S’entend du dépouillement effectué dans le cadre de la partie 14. 
+***dépouillement judiciaire*** S’entend du dépouillement effectué dans le cadre de la partie 14.
 
-***député*** Membre de la Chambre des communes. 
+***député*** Membre de la Chambre des communes.
 
 ***documents électoraux***
 - **a)** Le bref et le rapport figurant à l’endos;
@@ -113,19 +113,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **(v)** un paquet contenant la liste électorale utilisée au bureau de scrutin, les autorisations écrites des représentants des candidats et, le cas échéant, les certificats de transfert utilisés,
 	- **(vi)** un paquet contenant les certificats d’inscription.
 
-***électeur*** Personne qui a qualité d’électeur en vertu de l’article 3. 
+***électeur*** Personne qui a qualité d’électeur en vertu de l’article 3.
 
-***élection*** L’élection d’un député à la Chambre des communes. 
+***élection*** L’élection d’un député à la Chambre des communes.
 
-***élection partielle*** Élection autre qu’une élection générale. 
+***élection partielle*** Élection autre qu’une élection générale.
 
-***fonctionnaire électoral*** Personne visée au paragraphe 22(1). 
+***fonctionnaire électoral*** Personne visée au paragraphe 22(1).
 
-***jour de clôture*** Le jour prévu à l’article 69. 
+***jour de clôture*** Le jour prévu à l’article 69.
 
-***jour du scrutin*** Le jour fixé pour la tenue du scrutin dans le cadre de l’alinéa 57(1) c). 
+***jour du scrutin*** Le jour fixé pour la tenue du scrutin dans le cadre de l’alinéa 57(1)c).
 
-***juge*** Lorsque cette expression est employée pour définir le magistrat à qui des pouvoirs spécifiques sont conférés : 
+***juge*** Lorsque cette expression est employée pour définir le magistrat à qui des pouvoirs spécifiques sont conférés :
 - **a)** relativement à la province d’Ontario, un juge de la Cour supérieure de justice;
 - **b)** relativement à la province de Québec, un juge de la cour supérieure du Québec;
 - **c)** relativement aux provinces de la Nouvelle-Écosse et de la Colombie-Britannique, un juge de la Cour suprême de la province;
@@ -139,51 +139,51 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **(ii)** s’il y a plus d’un juge exerçant une telle juridiction, le doyen,
 	- **(iii)** si aucun juge n’exerce cette juridiction, tout juge désigné à cette fin par le ministre de la Justice.
 
-***liste électorale*** Liste dressée pour une section de vote et indiquant les nom, prénoms et adresses municipale et postale de chaque électeur. 
+***liste électorale*** Liste dressée pour une section de vote et indiquant les nom, prénoms et adresses municipale et postale de chaque électeur.
 
-***liste électorale officielle*** Liste électorale dressée par le directeur du scrutin au titre de l’article 106. 
+***liste électorale officielle*** Liste électorale dressée par le directeur du scrutin au titre de l’article 106.
 
-***liste électorale préliminaire*** Liste électorale dressée par le directeur général des élections au titre du paragraphe 93(1). 
+***liste électorale préliminaire*** Liste électorale dressée par le directeur général des élections au titre du paragraphe 93(1).
 
-***liste électorale révisée*** Liste électorale dressée par le directeur du scrutin au titre de l’article 105. 
+***liste électorale révisée*** Liste électorale dressée par le directeur du scrutin au titre de l’article 105.
 
-***ministre*** Le membre du Conseil privé de la Reine pour le Canada désigné par le gouverneur en conseil pour la présente loi. 
+***ministre*** Le membre du Conseil privé de la Reine pour le Canada désigné par le gouverneur en conseil pour la présente loi.
 
-***parti admissible*** Parti admissible à l’enregistrement conformément à l’article 368. 
+***parti admissible*** Parti admissible à l’enregistrement conformément à l’article 368.
 
-***parti enregistré*** Parti politique inscrit à titre de parti enregistré au registre des partis prévu à l’article 374. 
+***parti enregistré*** Parti politique inscrit à titre de parti enregistré au registre des partis prévu à l’article 374.
 
 ***parti politique*** Organisation dont l’un des objectifs essentiels consiste à participer aux affaires publiques en soutenant la candidature et en appuyant l’élection d’un ou de plusieurs de ses membres.
 
-***période électorale*** La période commençant à la délivrance du bref et se terminant le jour du scrutin ou, le cas échéant, le jour où le bref est retiré dans le cadre du paragraphe 59(1) ou, conformément à l’article 551, est réputé l’être. 
+***période électorale*** La période commençant à la délivrance du bref et se terminant le jour du scrutin ou, le cas échéant, le jour où le bref est retiré dans le cadre du paragraphe 59(1) ou, conformément à l’article 551, est réputé l’être.
 
-***prescrit*** Autorisé par le directeur général des élections, en ce qui concerne un formulaire ou un serment. 
+***prescrit*** Autorisé par le directeur général des élections, en ce qui concerne un formulaire ou un serment.
 
-***publication périodique*** Journal, magazine ou autre périodique publié périodiquement ou par parties ou par numéros et contenant des nouvelles publiques, des renseignements ou des reportages d’événements, ou encore des annonces. 
+***publication périodique*** Journal, magazine ou autre périodique publié périodiquement ou par parties ou par numéros et contenant des nouvelles publiques, des renseignements ou des reportages d’événements, ou encore des annonces.
 
-***radiodiffuseur*** Titulaire d’une licence, attribuée par le Conseil de la radiodiffusion et des télécommunications canadiennes sous le régime de la [Loi sur la radiodiffusion](/fr/Lois/Lois%20du%20Canada/1991/ch.%2011.md), l’autorisant à exploiter une entreprise de programmation. 
+***radiodiffuseur*** Titulaire d’une licence, attribuée par le Conseil de la radiodiffusion et des télécommunications canadiennes sous le régime de la [Loi sur la radiodiffusion](/fr/Lois/Lois%20du%20Canada/1991/ch.%2011.md), l’autorisant à exploiter une entreprise de programmation.
 
-***radiodiffusion*** S’entend de la radiodiffusion, au sens du paragraphe 2(1) de la [Loi sur la radiodiffusion](/fr/Lois/Lois%20du%20Canada/1991/ch.%2011.md), réglementée et surveillée par le Conseil de la radiodiffusion et des télécommunications canadiennes en application de l’article 5 de cette loi. 
+***radiodiffusion*** S’entend de la radiodiffusion, au sens du paragraphe 2(1) de la [Loi sur la radiodiffusion](/fr/Lois/Lois%20du%20Canada/1991/ch.%2011.md), réglementée et surveillée par le Conseil de la radiodiffusion et des télécommunications canadiennes en application de l’article 5 de cette loi.
 
-***Registre des électeurs*** Registre tenu au titre de l’article 44. 
+***Registre des électeurs*** Registre tenu au titre de l’article 44.
 
-***renseignements personnels*** S’entend au sens de l’article 3 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md). 
+***renseignements personnels*** S’entend au sens de l’article 3 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md).
 
-***section de vote*** Zone territoriale visée à l’article 538. 
+***section de vote*** Zone territoriale visée à l’article 538.
 
-***serment*** Sont assimilées à un serment l’affirmation solennelle et la déclaration solennelle. 
+***serment*** Sont assimilées à un serment l’affirmation solennelle et la déclaration solennelle.
 
-***travail bénévole*** Services fournis sans rémunération par une personne en dehors de ses heures normales de travail, à l’exclusion de ceux qui sont fournis par une personne travaillant à son compte et pour lesquels elle demande habituellement une rémunération. 
+***travail bénévole*** Services fournis sans rémunération par une personne en dehors de ses heures normales de travail, à l’exclusion de ceux qui sont fournis par une personne travaillant à son compte et pour lesquels elle demande habituellement une rémunération.
 
-***valeur commerciale*** En ce qui concerne la fourniture de biens ou de services ou l’usage de biens ou d’argent, le prix le plus bas exigé pour une même quantité de biens ou de services de la même nature ou pour le même usage de biens ou d’argent, au moment de leur fourniture, par : 
+***valeur commerciale*** En ce qui concerne la fourniture de biens ou de services ou l’usage de biens ou d’argent, le prix le plus bas exigé pour une même quantité de biens ou de services de la même nature ou pour le même usage de biens ou d’argent, au moment de leur fourniture, par :
 - **a)** leur fournisseur, dans le cas où il exploite une entreprise qui les fournit;
 - **b)** une autre personne qui les fournit sur une échelle commerciale dans la région où ils ont été fournis, dans le cas où leur fournisseur n’exploite pas une telle entreprise.
 
-***vote par anticipation*** Scrutin tenu dans le cadre de la partie 10. 
+***vote par anticipation*** Scrutin tenu dans le cadre de la partie 10.
 
 **Absence de valeur commerciale**
 
-- **(2)** Pour l’application de la présente loi, la valeur commerciale d’un bien ou service est réputée nulle si, à la fois :
+- **(2)** Pour l’application de la présente loi, à l’exclusion de l’article 92.2, la valeur commerciale d’un bien ou service est réputée nulle si, à la fois :
 	- **a)** la personne qui le fournit n’exploite pas une entreprise qui les fournit;
 	- **b)** le prix exigé est de 200 $ ou moins.
 
@@ -198,7 +198,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Renvois descriptifs**
 
 - **(5)** Dans la présente loi, les mots entre parenthèses qui, dans un but purement descriptif d’une matière donnée, suivent dans une disposition un renvoi à une autre disposition de la présente loi ou d’une autre loi ne font pas partie de la disposition et y sont insérés pour la seule commodité de la consultation.
-> 2000, ch. 9, art. 2, ch. 12, art. 40; 2001, ch. 21, art. 1; 2002, ch. 7, art. 90; 2003, ch. 19, art. 1; 2004, ch. 24, art. 1.
+> 2000, ch. 9, art. 2, ch. 12, art. 40; 2001, ch. 21, art. 1; 2002, ch. 7, art. 90; 2003, ch. 19, art. 1; 2004, ch. 24, art. 1; 2006, ch. 9, art. 39.
 
 
 
@@ -1750,6 +1750,147 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Fausse déclaration**
 
 **92** Il est interdit de publier sciemment une fausse déclaration au sujet du désistement d’un candidat.
+
+
+
+
+### Cadeaux et autres avantages
+
+
+
+**Définition de candidat**
+
+**92.1** Pour l’application des articles 92.2 à 92.6, la qualité de candidat est réputée acquise dès que, selon le cas :
+- **a)** l’intéressé obtient l’investiture;
+- **b)** le bref est délivré pour l’élection.
+> 2006, ch. 9, art. 40.
+
+
+
+
+
+**Interdiction**
+
+**92.2** 
+
+- **(1)** Il est interdit au candidat d’accepter un cadeau ou autre avantage dont il serait raisonnable de penser qu’il a été donné pour influer sur l’exercice de sa charge de député, s’il est élu, durant la période qui :
+	- **a)** commence à la date où il est réputé être devenu candidat;
+	- **b)** se termine le jour où il se désiste conformément au paragraphe 74(1), à la date où il devient député, s’il a été élu, ou le jour du scrutin dans tous les autres cas.
+
+**Exception**
+
+- **(2)** Toutefois, le candidat peut accepter un cadeau ou autre avantage qui provient d’un parent ou qui est une marque normale ou habituelle de courtoisie ou de protocole.
+
+**Déclaration**
+
+- **(3)** Il incombe au candidat de déclarer au directeur général des élections tous les cadeaux ou autres avantages qu’il a acceptés au cours de la période visée au paragraphe (1) et dont il retire un gain de plus de 500 $ ou, s’ils proviennent d’un même donateur, un gain total de plus de 500 $, à l’exception de ceux qui proviennent d’un parent ou qui lui sont dévolus par disposition testamentaire inconditionnelle et non discrétionnaire. La déclaration, établie en la forme prescrite, comporte les renseignements suivants :
+	- **a)** la nature de chaque cadeau ou avantage, sa valeur commerciale et, le cas échéant, le prix auquel il a été fourni au candidat;
+	- **b)** les nom et adresse de chaque donateur;
+	- **c)** les circonstances dans lesquelles le cadeau ou l’avantage a été donné.
+
+**Précision**
+
+- **(4)** Pour l’application du paragraphe (3), le gain retiré par le candidat d’un service, d’un bien ou de l’usage d’un bien ou d’argent est la différence entre la valeur commerciale du service, du bien ou de l’usage et le prix, le cas échéant, auquel il lui a été fourni.
+
+**Délai**
+
+- **(5)** Le candidat dépose la déclaration auprès du directeur général des élections dans les quatre mois suivant :
+	- **a)** soit le jour du scrutin;
+	- **b)** soit la publication d’un avis annonçant que le bref délivré pour l’élection a été retiré ou est réputé avoir été retiré.
+
+**Définitions**
+
+- **(6)** Les définitions qui suivent s’appliquent au présent article.
+
+***cadeau ou autre avantage*** S’entend :
+- **a)** de toute somme, si son remboursement n’est pas obligatoire;
+- **b)** de tout service ou de tout bien ou de l’usage d’un bien ou d’argent, s’ils sont fournis sans frais ou à un prix inférieur à leur valeur commerciale.
+
+Cependant, la présente définition ne vise pas les contributions versées à l’agent officiel du candidat par un donateur admissible au titre de la partie 18 qui ne dépassent pas les plafonds fixés dans cette partie, ni la fourniture de produits et services ou les cessions de fonds visées à l’article 404.2.
+
+***parent*** Toute personne apparentée au candidat par les liens du mariage, d’une union de fait, de la filiation ou de l’adoption ou encore liée à lui par affinité.
+
+***union de fait*** Relation qui existe entre deux personnes qui vivent ensemble dans une relation conjugale depuis au moins un an.
+> 2006, ch. 9, art. 40.
+
+
+
+
+
+**Prorogation du délai ou correction : directeur général des élections**
+
+**92.3** 
+
+- **(1)** Sur demande écrite du candidat, le directeur général des élections peut autoriser :
+	- **a)** la prorogation du délai prévu pour déposer la déclaration;
+	- **b)** la correction de la déclaration dans le délai qu’il fixe.
+
+**Délais**
+
+- **(2)** La demande fondée sur l’alinéa (1)a) est à présenter dans le délai prévu au paragraphe 92.2(5) et celle fondée sur l’alinéa (1)b), dès que le candidat prend connaissance de la nécessité d’apporter une correction.
+
+**Motifs**
+
+- **(3)** Le directeur général des élections ne peut toutefois agréer la demande que s’il est convaincu par la preuve écrite que les circonstances y ayant donné lieu ont pour cause, selon le cas :
+	- **a)** la maladie du demandeur;
+	- **b)** une inadvertance ou une véritable erreur de fait.
+> 2006, ch. 9, art. 40.
+
+
+
+
+
+**Prorogation du délai ou correction : juge**
+
+**92.4** 
+
+- **(1)** Le candidat peut demander à un juge habile à procéder au dépouillement judiciaire du scrutin de rendre une ordonnance autorisant la prorogation du délai prévu pour déposer la déclaration ou la correction de celle-ci. La demande est notifiée au directeur général des élections.
+
+**Délais**
+
+- **(2)** Elle peut être présentée dans les deux semaines suivant, selon le cas :
+	- **a)** le rejet de la demande de prorogation ou de correction;
+	- **b)** l’expiration du délai prorogé ou fixé au titre du paragraphe 92.3(1).
+
+**Motifs**
+
+- **(3)** Le juge ne peut rendre l’ordonnance que s’il est convaincu de l’existence de l’un ou l’autre des motifs visés au paragraphe 92.3(3).
+
+**Conditions**
+
+- **(4)** Il peut assortir l’ordonnance des conditions qu’il estime nécessaires à l’application de la présente loi.
+> 2006, ch. 9, art. 40.
+
+
+
+
+
+**Conservation des déclarations**
+
+**92.5** 
+
+- **(1)** Le directeur général des élections conserve en sa possession les déclarations qui lui sont transmises par le candidat pendant au moins un an après le retour du bref délivré pour l’élection.
+
+**Confidentialité**
+
+- **(2)** Il incombe au directeur général des élections d’assurer la confidentialité des déclarations qui lui sont ainsi transmises.
+
+**Exception**
+
+- **(3)** Les déclarations peuvent toutefois être examinées par le commissaire. Elles peuvent en outre être communiquées au directeur des poursuites pénales et produites par ce dernier dans le cadre de toute poursuite intentée pour infraction à la présente loi.
+> 2006, ch. 9, art. 40.
+
+
+
+
+
+**Interdiction : déclaration fausse ou incomplète**
+
+**92.6** Il est interdit au candidat de déposer auprès du directeur général des élections une déclaration :
+- **a)** dont il sait ou devrait normalement savoir qu’elle contient des renseignements faux ou trompeurs sur un point important;
+- **b)** qui ne contient pas, pour l’essentiel, tous les renseignements prévus au paragraphe 92.2(3).
+> 2006, ch. 9, art. 40.
+
 
 
 
@@ -7649,13 +7790,27 @@ La demande est notifiée au directeur général des élections.
 
 - **(1)** Sont considérés comme une contribution pour l’application de la présente loi les fonds d’un particulier qui sont affectés à sa campagne à titre de candidat, de candidat à la direction ou de candidat à l’investiture.
 
-**Exclusions : partis, associations ou candidats**
+**Exclusions (produits et services) : partis, associations ou candidats**
 
-- **(2)** Est permise et ne constitue pas une contribution pour l’application de la présente loi la fourniture de produits ou de services ou la cession de fonds :
+- **(2)** Est permise et ne constitue pas une contribution pour l’application de la présente loi la fourniture de produits ou de services :
 	- **a)** par un parti enregistré à une de ses associations de circonscription ou à un candidat qu’il soutient;
 	- **b)** par une association enregistrée au parti enregistré auquel elle est affiliée, à une autre association enregistrée du parti ou à un candidat que le parti soutient;
 	- **c)** par un candidat au parti enregistré qui le soutient ou à une association enregistrée du parti;
 	- **d)** par un candidat à sa campagne à titre de candidat à l’investiture pour la même élection.
+
+**Exclusions (cessions de fonds) : partis, associations ou candidats**
+
+- **(2.1)** Est permise et ne constitue pas une contribution pour l’application de la présente loi la cession de fonds :
+	- **a)** par un parti enregistré à une de ses associations de circonscription;
+	- **b)** par une association enregistrée au parti enregistré auquel elle est affiliée ou à une autre association enregistrée du parti;
+	- **c)** par un candidat au parti enregistré qui le soutient ou à une association enregistrée du parti;
+	- **d)** par un candidat à sa campagne à titre de candidat à l’investiture pour la même élection.
+
+**Cession de fonds, autres que des fonds en fiducie : parti enregistré**
+
+- **(2.2)** Est permise et ne constitue pas une contribution pour l’application de la présente loi la cession de fonds, à l’exclusion de fonds détenus en fiducie, par :
+	- **a)** un parti enregistré à un candidat qu’il soutient;
+	- **b)** une association enregistrée à un candidat que le parti enregistré auquel elle est affiliée soutient.
 
 **Exclusions : candidats à la direction et à l’investiture**
 
@@ -11106,7 +11261,7 @@ La demande est notifiée au directeur général des élections.
 
 **486** 
 
-- **(1)** Commet une infraction le candidat qui contrevient aux paragraphes 83(1) (défaut de nommer un agent officiel) ou 83(2) (défaut de nommer un vérificateur) ou à l’article 87 (défaut de nommer un remplaçant à l’agent officiel ou au vérificateur).
+- **(1)** Commet une infraction le candidat qui contrevient aux paragraphes 83(1) (défaut de nommer un agent officiel) ou 83(2) (défaut de nommer un vérificateur), à l’article 87 (défaut de nommer un remplaçant à l’agent officiel ou au vérificateur), aux paragraphes 92.2(1) (accepter un cadeau ou autre avantage) ou 92.2(5) (défaut de déposer la déclaration dans le délai prévu) ou à l’alinéa 92.6b) (déclaration incomplète).
 
 **Infraction exigeant une intention — déclaration sommaire**
 
@@ -11114,11 +11269,16 @@ La demande est notifiée au directeur général des élections.
 
 **Infraction exigeant une intention — double procédure**
 
-- **(3)** Commet une infraction quiconque :
-	- **a)** contrevient à l’article 89 (signature d’un acte de candidature par une personne inéligible);
-	- **b)** contrevient volontairement aux paragraphes 90(1) ou (2) (agir comme agent officiel ou vérificateur d’un candidat sans être admissible);
-	- **c)** contrevient à l’article 91 (fausse déclaration à propos d’un candidat);
-	- **d)** contrevient à l’article 92 (publication d’une fausse déclaration relative à un désistement).
+- **(3)** Commet une infraction :
+	- **a)** quiconque contrevient à l’article 89 (signature d’un acte de candidature par une personne inéligible);
+	- **b)** quiconque contrevient volontairement aux paragraphes 90(1) ou (2) (agir comme agent officiel ou vérificateur d’un candidat sans être admissible);
+	- **c)** quiconque contrevient à l’article 91 (fausse déclaration à propos d’un candidat);
+	- **d)** quiconque contrevient à l’article 92 (publication d’une fausse déclaration relative à un désistement);
+	- **e)** le candidat qui contrevient volontairement au paragraphe 92.2(1) (accepter un cadeau ou autre avantage);
+	- **f)** le candidat qui contrevient volontairement au paragraphe 92.2(5) (défaut de déposer la déclaration dans le délai prévu);
+	- **g)** le candidat qui contrevient à l’alinéa 92.6a) (déclaration contenant des renseignements faux ou trompeurs) ou contrevient sciemment à l’alinéa 92.6b) (déclaration incomplète).
+> 2000, ch. 9, art. 486; 2006, ch. 9, art. 56.
+
 
 
 
@@ -11694,6 +11854,7 @@ La demande est notifiée au directeur général des élections.
 	- **d)** le candidat ou l’agent officiel d’un candidat qui contrevient à l’alinéa 56b) (fausse déclaration destinée à faire radier une personne du Registre des électeurs);
 	- **e)** le candidat ou l’agent officiel d’un candidat qui contrevient aux alinéas 56c) ou d) (actions interdites relatives au Registre des électeurs);
 	- **f)** quiconque contrevient à l’article 89 (signature d’un acte de candidature par une personne inéligible);
+	- **f.1)** le candidat qui contrevient volontairement au paragraphe 92.2(1) (accepter un cadeau ou autre avantage);
 	- **g)** quiconque contrevient aux alinéas 111a), d) ou e) (actions interdites relatives à une liste électorale);
 	- **h)** quiconque contrevient à l’alinéa 167(1)a) (demander un bulletin de vote sous un faux nom);
 	- **i)** le candidat ou l’agent officiel d’un candidat qui commet l’infraction visée au paragraphe 481(1) (offre d’un pot-de-vin).
@@ -11703,6 +11864,8 @@ La demande est notifiée au directeur général des élections.
 - **(3)** Toute personne qui commet une infraction constituant une manoeuvre frauduleuse ou un acte illégal aux termes de la présente loi est, pendant les sept ans qui suivent la déclaration de culpabilité dans le cas d’une manoeuvre frauduleuse et pendant les cinq ans qui suivent cette déclaration dans le cas d’un acte illégal, en sus de toute autre peine que la présente loi prévoit à l’égard de cette infraction :
 	- **a)** inéligible à être candidat et inhabile à siéger à la Chambre des communes;
 	- **b)** inhabile à remplir une charge dont la Couronne ou le gouverneur en conseil nomme le titulaire.
+> 2000, ch. 9, art. 502; 2006, ch. 9, art. 58.
+
 
 
 
