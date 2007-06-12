@@ -41,55 +41,37 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***advance poll*** means a vote held under Part 10.
 
-
 ***advance polling station*** means a polling station established under subsection 168(3).
 
+***broadcaster*** means a person who is licensed by the Canadian Radio-television and Telecommunications Commission under the [Broadcasting Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2011.md) to carry on a programming undertaking.
 
-***broadcaster*** means a person who is licensed by the Canadian Radio-television and Telecommunications Commission under the 
-[Broadcasting Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2011.md) to carry on a programming undertaking.
-
-
-***broadcasting*** means broadcasting, as defined in subsection 2(1) of the 
-[Broadcasting Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2011.md), that is regulated and supervised by the Canadian Radio-television and Telecommunications Commission pursuant to section 5 of that Act.
-
+***broadcasting*** means broadcasting, as defined in subsection 2(1) of the [Broadcasting Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2011.md), that is regulated and supervised by the Canadian Radio-television and Telecommunications Commission pursuant to section 5 of that Act.
 
 ***Broadcasting Arbitrator*** means the person appointed as Broadcasting Arbitrator under subsection 332(1).
 
-
 ***by-election*** means an election other than a general election.
-
 
 ***candidate*** means a person whose nomination as a candidate at an election has been confirmed under subsection 71(1) and who, or whose official agent, has not complied with sections 451 to 463 and 471 to 475 in respect of that election.
 
-
 ***chief agent***, in respect of a registered party, means the chief agent named in the application for registration as required by paragraph 366(2)(h).
-
 
 ***close of nominations*** means the deadline for the receipt of nominations set out in subsection 70(2).
 
-
 ***closing day for nominations*** means the day referred to in section 69.
 
-
 ***commercial value***, in relation to property or a service, means the lowest amount charged at the time that it was provided for the same kind and quantity of property or service or for the same usage of property or money, by
-
 - **(a)** the person who provided it, if the person is in the business of providing that property or service; or
 - **(b)** another person who provides that property or service on a commercial basis in the area where it was provided, if the person who provided the property or service is not in that business.
 
 ***Commissioner*** means the Commissioner of Canada Elections appointed under section 509.
 
-
 ***common-law partner***, in relation to an individual, means a person who is cohabiting with the individual in a conjugal relationship, having so cohabited for a period of at least one year.
-
 
 ***contribution*** means a monetary contribution or a non-monetary contribution.
 
-
 ***election*** means an election of a member to serve in the House of Commons.
 
-
 ***election documents*** means the following documents:
-
 - **(a)** the writ with the return of the election endorsed on it;
 - **(b)** the nomination papers filed by the candidates;
 - **(c)** the reserve supply of undistributed blank ballot papers;
@@ -105,27 +87,19 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***election officer*** means a person referred to in subsection 22(1).
 
-
 ***election period*** means the period beginning with the issue of the writ and ending on polling day or, where the writ is withdrawn under subsection 59(1) or is deemed to be withdrawn under section 551, on the day that the writ is withdrawn or deemed to be withdrawn.
-
 
 ***elector*** means a person who is qualified as an elector under section 3.
 
-
 ***electoral district*** means a place or territorial area that is represented by a member in the House of Commons.
-
 
 ***electoral district agent*** means a person appointed under subsection 403.09(1), and includes the financial agent of a registered association.
 
-
 ***electoral district association*** means an association of members of a political party in an electoral district.
-
 
 ***eligible party*** means a political party that satisfies the criteria set out in section 368.
 
-
 ***judge***, when used to define the judicial officer on whom is conferred specific powers, means
-
 - **(a)** in relation to the Province of Ontario, a judge of the Superior Court of Justice;
 - **(b)** in relation to the Province of Quebec, a judge of the Superior Court of Quebec;
 - **(c)** in relation to the Provinces of Nova Scotia and British Columbia, a judge of the Supreme Court of the Province;
@@ -141,107 +115,75 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***leadership campaign agent*** means a person appointed under subsection 435.08(1), and includes the financial agent of a leadership contestant.
 
-
 ***leadership campaign expense*** means an expense reasonably incurred by or on behalf of a leadership contestant during a leadership contest as an incidence of the contest, including a personal expense as defined in section 435.03.
-
 
 ***leadership contest*** means a competition for the selection of the leader of a registered party.
 
-
 ***leadership contestant*** means a person who has been registered in the registry of leadership contestants referred to in section 435.07 and who, or whose financial agent, has not yet complied with sections 435.3 to 435.47 in respect of that leadership contest.
-
 
 ***list of electors*** means the list showing the surname, given names, civic address and mailing address of every elector in a polling division.
 
-
 ***member*** means a member of the House of Commons.
-
 
 ***Minister*** means the member of the Queen’s Privy Council for Canada designated by the Governor in Council for the purposes of this Act.
 
-
 ***monetary contribution*** means an amount of money provided that is not repayable.
-
 
 ***nomination campaign expense*** means an expense reasonably incurred by or on behalf of a nomination contestant during a nomination contest as an incidence of the contest, including a personal expense as defined in section 478.01.
 
-
 ***nomination contest*** means a competition for the selection of a person to be proposed to a registered party for its endorsement as its candidate in an electoral district.
-
 
 ***nomination contestant*** means a person named as a nomination contestant in a nomination contest report filed in accordance with paragraph 478.02(1)(c) who, or whose financial agent, has not yet complied with sections 478.23 to 478.42 in respect of that nomination contest.
 
-
 ***non-monetary contribution*** means the commercial value of a service, other than volunteer labour, or of property or of the use of property or money to the extent that they are provided without charge or at less than their commercial value.
-
 
 ***oath*** includes a solemn affirmation and a statutory declaration.
 
-
 ***official agent*** means the official agent appointed by a candidate as required by subsection 83(1).
-
 
 ***official list of electors*** means the list of electors prepared by the returning officer under section 106.
 
-
 ***periodical publication*** means a paper, magazine or periodical that is published periodically or in parts or numbers and that contains public news, intelligence or reports of events, or advertisements.
 
-
-***personal information*** means personal information as defined in section 3 of the 
-[Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md).
-
+***personal information*** means personal information as defined in section 3 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md).
 
 ***political affiliation***, in respect of a candidate, means the name of the political party that has endorsed him or her or the word “independent”, as the case may be, included in the nomination paper in accordance with subparagraph 66(1)(a)(v).
-
 
 ***political party*** means an organization one of whose fundamental purposes is to participate in public affairs by endorsing one or more of its members as candidates and supporting their election.
 
 ***polling day***, in relation to an election, means the date fixed under paragraph 57(1)(c) for voting at the election.
 
-
 ***polling division*** means a polling division referred to in section 538.
-
 
 ***polling station*** means a place established under section 120, 122, 125, 205, 206, 207, 253 or 255 for electors to cast their votes.
 
-
 ***preliminary list of electors*** means the list of electors prepared by the Chief Electoral Officer under subsection 93(1).
-
 
 ***prescribed***, in relation to a form or an oath, means one that is authorized by the Chief Electoral Officer.
 
-
 ***recount*** means a recount of votes by a judge under Part 14.
 
-
 ***registered agent***, in relation to a registered party, means a person referred to in section 375 and includes the chief agent of the registered party.
-
 
 ***registered association*** means an electoral district association registered in the registry of electoral district associations referred to in section 403.08.
 
 ***registered party*** means a political party that is entered in the registry of parties referred to in section 374 as a registered party.
 
-
 ***Register of Electors*** means the Register of Electors established under section 44.
-
 
 ***revised list of electors*** means the list of electors prepared by the returning officer under section 105.
 
-
 ***spoiled***, in relation to a ballot or a special ballot as defined in section 177, means
-
 - **(a)** one that has not been deposited in the ballot box but has been found by the deputy returning officer to be soiled or improperly printed; or
 - **(b)** one that is dealt with under subsection 152(1), including in relation to advance polls by virtue of subsection 171(1), or subsection 213(4), 242(1) or 258(3).
 
 ***volunteer labour*** means any service provided free of charge by a person outside their working hours, but does not include such a service provided by a person who is self-employed if the service is one that is normally charged for by that person.
 
-
 ***writ*** means a writ of election.
-
 
 **No commercial value**
 
-- **(2)** For the purposes of this Act, the commercial value of property or a service is deemed to be nil if
+- **(2)** For the purposes of this Act, other than section 92.2, the commercial value of property or a service is deemed to be nil if
 	- **(a)** it is provided by a person who is not in the business of providing that property or those services; and
 	- **(b)** the amount charged for it is $200 or less.
 
@@ -256,7 +198,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Descriptive cross-references**
 
 - **(5)** If, in any provision of this Act, a reference to another provision of this Act or a provision of any other Act is followed by words in parentheses that are or purport to be descriptive of the subject-matter of the provision referred to, those words form no part of the provision in which they occur but are inserted for convenience of reference only.
-> 2000, c. 9, s. 2, c. 12, s. 40; 2001, c. 21, s. 1; 2002, c. 7, s. 90; 2003, c. 19, s. 1; 2004, c. 24, s. 1.
+> 2000, c. 9, s. 2, c. 12, s. 40; 2001, c. 21, s. 1; 2002, c. 7, s. 90; 2003, c. 19, s. 1; 2004, c. 24, s. 1; 2006, c. 9, s. 39.
 
 
 
@@ -1819,6 +1761,149 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **False statement of withdrawal of candidate**
 
 **92** No person shall knowingly publish a false statement of the withdrawal of a candidate.
+
+
+
+
+### Gifts and Other Advantages
+
+
+
+**Definition of candidate**
+
+**92.1** For the purposes of sections 92.2 to 92.6, a candidate is deemed to have become a candidate on the earlier of
+- **(a)** the day on which he or she is selected at a nomination contest, and
+- **(b)** the day on which the writ is issued for the election.
+> 2006, c. 9, s. 40.
+
+
+
+
+
+**Prohibition**
+
+**92.2** 
+
+- **(1)** No candidate shall accept any gift or other advantage that might reasonably be seen to have been given to influence him or her in the performance of his or her duties and functions as a member, were the candidate to be elected, during the period that
+	- **(a)** begins on the day on which he or she becomes a candidate; and
+	- **(b)** ends on the day on which he or she withdraws, in the case of a candidate who withdraws in accordance with subsection 74(1), on the day on which he or she becomes a member, in the case of a candidate who is elected, and on polling day, in any other case.
+
+**Exception**
+
+- **(2)** Despite subsection (1), a candidate may accept a gift or other advantage that is given by a relative or as a normal expression of courtesy or protocol.
+
+**Statement of candidate**
+
+- **(3)** The candidate shall provide the Chief Electoral Officer with a statement in the prescribed form that discloses, in respect of all gifts or other advantages that the candidate accepted during the period referred to in subsection (1) whose benefit to the candidate exceeds $500 or, if accepted from the same person or entity in that period, exceeds a total of $500, other than gifts or other advantages given by relatives or made by way of an unconditional, non-discretionary testamentary disposition,
+	- **(a)** the nature of each gift or other advantage, its commercial value and the cost, if any, to the candidate;
+	- **(b)** the name and address of the person or entity giving the gift or other advantage; and
+	- **(c)** the circumstances under which the gift or other advantage was given.
+
+**Clarification**
+
+- **(4)** For the purposes of subsection (3), the benefit to a candidate of a gift or other advantage that is a service or property, or the use of property or money, is the difference between the commercial value of the service or property or the use of the property or money and the cost, if any, to the candidate.
+
+**Period for providing statement**
+
+- **(5)** The candidate shall provide the statement to the Chief Electoral Officer within four months after
+	- **(a)** polling day; or
+	- **(b)** the publication of a notice of the withdrawal or deemed withdrawal of the writ for the election.
+
+**Definitions**
+
+- **(6)** The following definitions apply in this section.
+
+***common-law partnership*** means the relationship between two persons who are cohabiting in a conjugal relationship, having so cohabited for a period of at least one year.
+
+***gift or other advantage*** means
+- **(a)** an amount of money if there is no obligation to repay it; and
+- **(b)** a service or property, or the use of property or money, that is provided without charge or at less than its commercial value.
+
+It does not include a contribution made by an eligible individual under Part 18 to the official agent of a candidate that does not exceed the limits set out in that Part, or a provision of goods or services or a transfer of funds under section 404.2.
+
+***relative***, in respect of a candidate, means a person related to the candidate by marriage, common-law partnership, birth, adoption or affinity.
+> 2006, c. 9, s. 40.
+
+
+
+
+
+**Extension or correction — Chief Electoral Officer**
+
+**92.3** 
+
+- **(1)** The Chief Electoral Officer, on the written application of a candidate, may authorize
+	- **(a)** the extension of the period provided in subsection 92.2(5); or
+	- **(b)** the correction, within a specified period, of the statement referred to in subsection 92.2(3).
+
+**Deadline**
+
+- **(2)** An application may be made
+	- **(a)** under paragraph (1)(a), within the period provided in subsection 92.2(5); and
+	- **(b)** under paragraph (1)(b), as soon as the candidate becomes aware of the need for correction.
+
+**Grounds**
+
+- **(3)** The Chief Electoral Officer may not authorize an extension or correction unless he or she is satisfied by the evidence submitted by the candidate in writing that the circumstances giving rise to the application arose by reason of
+	- **(a)** the illness of the candidate; or
+	- **(b)** inadvertence or an honest mistake of fact.
+> 2006, c. 9, s. 40.
+
+
+
+
+
+**Extension or correction — judge**
+
+**92.4** 
+
+- **(1)** A candidate may apply to a judge who is competent to conduct a recount for an order authorizing an extension referred to in paragraph 92.3(1)(a) or a correction referred to in paragraph 92.3(1)(b). The applicant shall notify the Chief Electoral Officer of the application.
+
+**Deadline**
+
+- **(2)** An application may be made within two weeks after
+	- **(a)** the rejection of an application, made in accordance with section 92.3, for the extension or correction; or
+	- **(b)** the expiry of the extended period or specified period authorized under paragraph 92.3(1)(a) or (b).
+
+**Grounds**
+
+- **(3)** A judge may not grant an order unless he or she is satisfied that the circumstances giving rise to the application arose by reason of a factor referred to in either paragraph 92.3(3)(a) or (b).
+
+**Contents of order**
+
+- **(4)** An order under subsection (1) may require that the candidate satisfy any condition that the judge considers necessary for carrying out the purposes of this Act.
+> 2006, c. 9, s. 40.
+
+
+
+
+
+**Chief Electoral Officer to retain statements**
+
+**92.5** 
+
+- **(1)** The Chief Electoral Officer shall retain in his or her possession the statements referred to in subsection 92.2(3) for at least one year after the return of the writ for the election.
+
+**Information to be kept confidential**
+
+- **(2)** The Chief Electoral Officer shall keep confidential the statements provided under subsection 92.2(3).
+
+**Exception**
+
+- **(3)** Subsection (2) does not prohibit the Commissioner from inspecting the statements referred to in that subsection, and any of those statements may be provided to the Director of Public Prosecutions and produced by that Director for the purpose of a prosecution for an offence under this Act.
+> 2006, c. 9, s. 40.
+
+
+
+
+
+**Prohibition — false, misleading or incomplete statement**
+
+**92.6** No candidate shall provide the Chief Electoral Officer with a statement referred to in subsection 92.2(3) that
+- **(a)** the candidate knows or ought reasonably to know contains a material statement that is false or misleading; or
+- **(b)** does not substantially set out the information required by that subsection.
+> 2006, c. 9, s. 40.
+
 
 
 
@@ -7743,13 +7828,27 @@ The applicant shall notify the Chief Electoral Officer of the application.
 
 - **(1)** Any money that is used for a candidate’s, leadership contestant’s or nomination contestant’s campaign out of the candidate’s or contestant’s own funds is considered to be a contribution for the purposes of this Act.
 
-**Exclusions — party, registered associations and candidates**
+**Exclusion for goods and services — registered parties, registered associations and candidates**
 
-- **(2)** A provision of goods or services or a transfer of funds is permitted and is not a contribution for the purposes of this Act if it is
+- **(2)** A provision of goods or services is permitted and is not a contribution for the purposes of this Act if it is
 	- **(a)** from a registered party to an electoral district association of the party or a candidate endorsed by the party;
 	- **(b)** from a registered association to the party with which it is affiliated, another registered association of the party or a candidate endorsed by the party;
 	- **(c)** from a candidate endorsed by a registered party to the party or a registered association of the party; or
 	- **(d)** from a candidate to himself or herself in his or her capacity as a nomination contestant in respect of the same election.
+
+**Exclusion for funds — registered parties, registered associations and candidates**
+
+- **(2.1)** A transfer of funds is permitted and is not a contribution for the purposes of this Act if it is
+	- **(a)** from a registered party to an electoral district association of the party;
+	- **(b)** from a registered association to the party with which it is affiliated or another registered association of the party;
+	- **(c)** from a candidate endorsed by a registered party to the party or a registered association of the party; or
+	- **(d)** from a candidate to himself or herself in his or her capacity as a nomination contestant in respect of the same election.
+
+**Exclusion for funds other than trust funds — registered parties and registered associations**
+
+- **(2.2)** A transfer of funds, other than trust funds, is permitted and is not a contribution for the purposes of this Act if it is
+	- **(a)** from a registered party to a candidate endorsed by the party; or
+	- **(b)** from a registered association to a candidate endorsed by the party with which the association is affiliated.
 
 **Exclusions — leadership contestants and nomination contestants**
 
@@ -11213,7 +11312,7 @@ The contestant or his or her financial agent shall notify the Chief Electoral Of
 
 **486** 
 
-- **(1)** Every candidate who contravenes subsection 83(1) (failure to appoint official agent) or 83(2) (failure to appoint auditor) or section 87 (failure to appoint a replacement official agent or auditor) is guilty of an offence.
+- **(1)** Every candidate who contravenes subsection 83(1) (failure to appoint official agent) or 83(2) (failure to appoint auditor), section 87 (failure to appoint a replacement official agent or auditor), subsection 92.2(1) (accepting prohibited gift or other advantage) or 92.2(5) (failure to provide statement within required period) or paragraph 92.6(b) (providing incomplete statement) is guilty of an offence.
 
 **Offences requiring intent — summary conviction**
 
@@ -11224,8 +11323,13 @@ The contestant or his or her financial agent shall notify the Chief Electoral Of
 - **(3)** Every person is guilty of an offence who
 	- **(a)** contravenes section 89 (signing of nomination paper when ineligible);
 	- **(b)** wilfully contravenes subsection 90(1) (ineligible person acting as official agent) or 90(2) (ineligible person acting as auditor);
-	- **(c)** contravenes section 91 (making false statement re candidate); or
-	- **(d)** contravenes section 92 (publication of false statement of withdrawal of candidate).
+	- **(c)** contravenes section 91 (making false statement re candidate);
+	- **(d)** contravenes section 92 (publication of false statement of withdrawal of candidate);
+	- **(e)** being a candidate, wilfully contravenes subsection 92.2(1) (accepting prohibited gift or other advantage);
+	- **(f)** being a candidate, wilfully contravenes subsection 92.2(5) (failure to provide statement within required period); or
+	- **(g)** being a candidate, contravenes paragraph 92.6(a) (providing statement containing false or misleading information) or knowingly contravenes paragraph 92.6(b) (providing incomplete statement).
+> 2000, c. 9, s. 486; 2006, c. 9, s. 56.
+
 
 
 
@@ -11801,6 +11905,7 @@ The contestant or his or her financial agent shall notify the Chief Electoral Of
 	- **(d)** being a candidate or an official agent of a candidate, contravenes paragraph 56(b) (making false statement to have person deleted from Register of Electors);
 	- **(e)** being a candidate or an official agent of a candidate, contravenes paragraph 56(c) or (d) (forbidden acts re Register of Electors);
 	- **(f)** contravenes section 89 (signing of nomination paper when ineligible);
+	- **(f.1)** being a candidate, wilfully contravenes subsection 92.2(1) (accepting prohibited gift or other advantage);
 	- **(g)** contravenes paragraph 111(a), (d) or (e) (forbidden acts re list of electors);
 	- **(h)** contravenes paragraph 167(1)(a) (apply for a ballot under false name); or
 	- **(i)** being a candidate or an official agent of a candidate, commits an offence under subsection 481(1) (offering bribe).
@@ -11810,6 +11915,8 @@ The contestant or his or her financial agent shall notify the Chief Electoral Of
 - **(3)** Any person who is convicted of having committed an offence that is an illegal practice or a corrupt practice under this Act shall, in addition to any other punishment for that offence prescribed by this Act, in the case of an illegal practice, during the next five years or, in the case of a corrupt practice, during the next seven years, after the date of their being so convicted, not be entitled to
 	- **(a)** be elected to or sit in the House of Commons; or
 	- **(b)** hold any office in the nomination of the Crown or of the Governor in Council.
+> 2000, c. 9, s. 502; 2006, c. 9, s. 58.
+
 
 
 
