@@ -334,13 +334,13 @@ Enabling authorities:
 
 **24** 
 
-- **(1)** The label of a cosmetic that presents an avoidable hazard must include adequate directions for safe use.
+- **(1)** The label of a cosmetic that presents an avoidable hazard must include directions for safe use.
 
 - **(2)** For the purpose of subsection (1), ***avoidable hazard*** means a threat of injury to the health of the user of a cosmetic that can be
 	- **(a)** predicted from the cosmetic’s composition, the toxicology of its ingredients and the site of its application;
 	- **(b)** reasonably anticipated during normal use; and
 	- **(c)** eliminated by specified limitations on the usage of the cosmetic.
-> SOR/89-228, s. 5; SOR/2004-244, s. 12.
+> SOR/89-228, s. 5; SOR/2004-244, s. 12; SOR/2007-150, s. 1(E).
 
 
 
@@ -603,10 +603,10 @@ Enabling authorities:
 
 - **(2)** A manufacturer who does not submit the evidence requested under subsection (1) shall cease to sell the cosmetic after the day specified in the request.
 
-- **(3)** If the Minister is of the opinion that the evidence submitted by a manufacturer under subsection (1) is not sufficient, the Minister shall notify the manufacturer in writing to that effect, and the manufacturer shall cease to sell the cosmetic until the manufacturer
+- **(3)** If the Minister determines that the evidence submitted by a manufacturer under subsection (1) is not sufficient, the Minister must notify the manufacturer in writing to that effect, and the manufacturer must cease to sell the cosmetic until the manufacturer
 	- **(a)** has submitted further evidence to the Minister; and
 	- **(b)** has been notified in writing by the Minister that the further evidence is sufficient.
-> SOR/2004-244, s. 20.
+> SOR/2004-244, s. 20; SOR/2007-150, s. 2.
 
 
 
@@ -625,83 +625,61 @@ Enabling authorities:
 	- **(a)** the name and address of the manufacturer that appears on the label of the cosmetic in accordance with section 20;
 	- **(b)** the name under which the cosmetic is sold;
 	- **(c)** the function of the cosmetic;
-	- **(d)** a list of the cosmetic’s ingredients and, for each ingredient, its exact concentration or the concentration range that includes its concentration, as set out in the table to this section;
+	- **(d)** a list of the cosmetic’s ingredients and, for each ingredient, either its exact concentration or the concentration range that includes the concentration of that ingredient, the latter of which may only be indicated by setting out either the applicable concentration range set out in column 1 of the table to this section or the number in column 2 that corresponds to the applicable concentration range set out in column 1;
 	- **(e)** the form of the cosmetic;
 	- **(f)** the name and address in Canada of the manufacturer, importer or distributor;
 	- **(g)** if the cosmetic was not manufactured or formulated by the person whose name appears on the label, the name and address of the person who manufactured or formulated it; and
 	- **(h)** the name and title of the person who signed the notification referred to in paragraph (1)(a).
-#### TABLE/TABLEAU
+#### TABLE
 <table>
 <tr>
-<th>Number/Chiffre</th>
 <th></th>
-<th>Range/Concentration</th>
+<th>Column 1</th>
+<th>Column 2</th>
+</tr>
+<tr>
+<th>Item</th>
+<th>Concentration range</th>
+<th>Corresponding number</th>
 </tr>
 <tr>
 <td>1</td>
-<td>over</td>
-<td>30% to 100%/</td>
-</tr>
-<tr>
-<td>de</td>
-<td>30% à 100%</td>
+<td>More than 30 % up to 100 %</td>
+<td>1</td>
 </tr>
 <tr>
 <td>2</td>
-<td>over</td>
-<td>10% to 30%/</td>
-</tr>
-<tr>
-<td>de</td>
-<td>10% à 30%</td>
+<td>More than 10 % but not more than 30 %</td>
+<td>2</td>
 </tr>
 <tr>
 <td>3</td>
-<td>over</td>
-<td>3% to 10%/</td>
-</tr>
-<tr>
-<td>de</td>
-<td>3% à 10%</td>
+<td>More than 3 % but not more than 10 %</td>
+<td>3</td>
 </tr>
 <tr>
 <td>4</td>
-<td>over</td>
-<td>1% to 3%/</td>
-</tr>
-<tr>
-<td>de</td>
-<td>1% à 3%</td>
+<td>More than 1 % but not more than 3 %</td>
+<td>4</td>
 </tr>
 <tr>
 <td>5</td>
-<td>over</td>
-<td>0.3% to 1%/</td>
-</tr>
-<tr>
-<td>de</td>
-<td>0.3% à 1%</td>
+<td>More than 0.3 % but not more than 1 %</td>
+<td>5</td>
 </tr>
 <tr>
 <td>6</td>
-<td>over</td>
-<td>0.1% to 0.3%/</td>
-</tr>
-<tr>
-<td>de</td>
-<td>0.1% à 0.3%</td>
+<td>More than 0.1 % but not more than 0.3 %</td>
+<td>6</td>
 </tr>
 <tr>
 <td>7</td>
-<td></td>
-<td>0.1% or less/</td>
-</tr>
-<tr>
-<td>0.1% ou moins</td>
+<td>More than 0 % but not more than 0.1 %</td>
+<td>7</td>
 </tr>
 </table>
 
-> SOR/2004-244, s. 21.
+> SOR/2004-244, s. 21; SOR/2007-150, s. 3.
 
 
 
