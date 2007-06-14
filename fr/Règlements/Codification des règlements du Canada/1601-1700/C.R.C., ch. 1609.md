@@ -69,9 +69,9 @@ Autorités habilitantes :
 - **b)** au plus 1 % de tout autre élément. (*tin shot*)
 
 ***grenaille de tungstène-bronze-fer*** Grenaille contenant, en poids :
-- **a)** au moins 50 % de tungstène;
-- **b)** au moins 3 % d’étain;
-- **c)** au moins 0,5 % de fer;
+- **a)** au plus 90 % de tungstène;
+- **b)** au plus 90 % d’étain;
+- **c)** au plus 90 % de fer;
 - **d)** au plus 45 % de cuivre;
 - **e)** au plus 1 % de tout autre élément. (*tungsten-bronze-iron shot*)
 
@@ -80,10 +80,17 @@ Autorités habilitantes :
 - **b)** au plus 55 % de tungstène;
 - **c)** au plus 1 % de tout autre élément. (*tungsten-iron shot*)
 
-***grenaille de tungstène-nickel-fer*** Grenaille contenant en poids :
-- **a)** au moins 50 % de tungstène;
-- **b)** au moins 15 % de fer;
-- **c)** au plus 35 % de nickel;
+***grenaille de tungstène-fer-nickel-cuivre*** Grenaille contenant, en poids :
+- **a)** de 40 % à 76 % de tungstène;
+- **b)** de 10 % à 37 % de fer;
+- **c)** de 9 % à 16 % de cuivre;
+- **d)** de 5 % à 7 % de nickel;
+- **e)** au plus 1 % de plomb ou de zinc. (*tungsten-iron-nickel-copper shot*)
+
+***grenaille de tungstène-nickel-fer*** Grenaille contenant, en poids :
+- **a)** au plus 90 % de tungstène;
+- **b)** au plus 90 % de fer;
+- **c)** au plus 40 % de nickel;
 - **d)** au plus 1 % de tout autre élément. (*tungsten-nickel-iron shot*)
 
 ***grenaille de tungstène-polymère*** Grenaille contenant en poids :
@@ -91,7 +98,7 @@ Autorités habilitantes :
 - **b)** au plus 7 % de Nylon 6 ou de Nylon 11;
 - **c)** au plus 1 % de tout autre élément ou composé. (*tungsten-polymer shot*)
 
-***grenaille non toxique*** Grenaille à matrice de tungstène, grenaille d’acier, grenaille de bismuth, grenaille d’étain, grenaille de tungstène-bronze-fer, grenaille de tungstène-fer, grenaille de tungstène-nickel-fer ou grenaille de tungstène-polymère. (*non-toxic shot*)
+***grenaille non toxique*** Grenaille à matrice de tungstène, grenaille d’acier, grenaille de bismuth, grenaille d’étain, grenaille de tungstène-bronze-fer, grenaille de tungstène-fer, grenaille de tungstène-fer-nickel-cuivre, grenaille de tungstène-nickel-fer ou grenaille de tungstène-polymère. (*non-toxic shot*)
 
 ***Loi*** La [Loi sur les espèces sauvages du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-9.md). (*Act*)
 
@@ -114,7 +121,7 @@ Autorités habilitantes :
 ***turlutte en plomb*** Amorce lestée qui sert à la pêche et qui contient plus de un pour cent de plomb en poids. (*lead jig*)
 
 ***végétal*** Végétal appartenant à une espèce sauvage ainsi qu’un végétal qui ne s’en différencie pas aisément. (*plant*) 
-> DORS/78-408, art. 1; DORS/78-466, art. 1(F); DORS/85-227, art. 1; DORS/94-594, art. 4 et 10; DORS/95-78, art. 1; DORS/96-442, art. 1; DORS/97-439, art. 1; DORS/99-95, art. 1; DORS/2001-322, art. 1; DORS/2003-226, art. 1; DORS/2005-124, art. 1.
+> DORS/78-408, art. 1; DORS/78-466, art. 1(F); DORS/85-227, art. 1; DORS/94-594, art. 4 et 10; DORS/95-78, art. 1; DORS/96-442, art. 1; DORS/97-439, art. 1; DORS/99-95, art. 1; DORS/2001-322, art. 1; DORS/2003-226, art. 1; DORS/2005-124, art. 1; DORS/2007-138, art. 1.
 
 
 
