@@ -17424,75 +17424,75 @@ exceeds
 
 ### **SCHEDULE I** 
 **(Sections 100, 102 and 106)**
-## Ranges of Remuneration and Total Remuneration
+## Ranges of Remuneration and of Total Remuneration
 **1** For the purposes of paragraph 102(1)(c), the ranges of remuneration for each pay period in a taxation year shall be determined as follows:
-- **(a)** in respect of a daily pay period, the ranges of remuneration shall commence at $36 and increase in increments of $2 for each range up to and including $143.99;
-- **(b)** in respect of a weekly pay period, the ranges of remuneration shall commence at $165 and increase in increments of
-	- **(i)** $2 for each range up to and including $272.99,
-	- **(ii)** $4 for each range from $273 to $492.99,
-	- **(iii)** $8 for each range from $493 to $932.99,
-	- **(iv)** $12 for each range from $933 to $1,592.99,
-	- **(v)** $16 for each range from $1,593 to $2,472.99, and
-	- **(vi)** $20 for each range from $2,473 to $3,572.99;
-- **(c)** in respect of a bi-weekly pay period, the ranges of remuneration shall commence at $330 and increase in increments of
-	- **(i)** $4 for each range up to and including $545.99,
-	- **(ii)** $8 for each range from $546 to $985.99,
-	- **(iii)** $16 for each range from $986 to $1,865.99,
-	- **(iv)** $24 for each range from $1,866 to $3,185.99,
-	- **(v)** $32 for each range from $3,186 to $4,945.99, and
-	- **(vi)** $40 for each range from $4,946 to $7,145.99;
-- **(d)** in respect of a semi-monthly pay period, the ranges of remuneration shall commence at $358 and increase in increments of
-	- **(i)** $4 for each range up to and including $573.99,
-	- **(ii)** $8 for each range from $574 to $1,013.99,
-	- **(iii)** $18 for each range from $1,014 to $2,003.99,
-	- **(iv)** $26 for each range from $2,004 to $3,433.99,
-	- **(v)** $34 for each range from $3,434 to $5,303.99, and
-	- **(vi)** $44 for each range from $5,304 to $7,723.99;
-- **(e)** in respect of 12 monthly pay periods, the ranges of remuneration shall commence at $715 and increase in increments of
-	- **(i)** $8 for each range up to and including $1,146.99,
-	- **(ii)** $18 for each range from $1,147 to $2,136.99,
-	- **(iii)** $34 for each range from $2,137 to $4,006.99,
-	- **(iv)** $52 for each range from $4,007 to $6,866.99,
-	- **(v)** $70 for each range from $6,867 to $10,716.99, and
-	- **(vi)** $86 for each range from $10,717 to $15,446.99;
-- **(f)** in respect of 10 monthly pay periods, the ranges of remuneration shall commence at $857 and increase in increments of
-	- **(i)** $10 for each range up to and including $1,396.99,
-	- **(ii)** $20 for each range from $1,397 to $2,496.99,
-	- **(iii)** $42 for each range from $2,497 to $4,806.99,
-	- **(iv)** $62 for each range from $4,807 to $8,216.99,
-	- **(v)** $84 for each range from $8,217 to $12,836.99, and
-	- **(vi)** $104 for each range from $12,837 to $18,556.99;
-- **(g)** in respect of four-week pay periods, the ranges of remuneration shall commence at $660 and increase in increments of
-	- **(i)** $8 for each range up to and including $1,091.99,
-	- **(ii)** $16 for each range from $1,092 to $1,971.99,
-	- **(iii)** $32 for each range from $1,972 to $3,731.99,
-	- **(iv)** $48 for each range from $3,732 to $6,371.99,
-	- **(v)** $64 for each range from $6,372 to $9,891.99, and
-	- **(vi)** $80 for each range from $9,892 to $14,291.99; and
-- **(h)** in respect of 22 pay periods per annum, the ranges of remuneration shall commence at $390 and increase in increments of
-	- **(i)** $6 for each range up to and including $713.99,
-	- **(ii)** $10 for each range from $714 to $1,263.99,
-	- **(iii)** $18 for each range from $1,264 to $2,253.99,
-	- **(iv)** $28 for each range from $2,254 to $3,793.99,
-	- **(v)** $38 for each range from $3,794 to $5,883.99, and
-	- **(vi)** $48 for each range from $5,884 to $8,523.99.
+- **(a)** in respect of a daily pay period, the ranges of remuneration shall commence at $44 and increase in increments of $2 for each range up to and including $151.99;
+- **(b)** in respect of a weekly pay period, the ranges of remuneration shall commence at $202 and increase in increments of
+	- **(i)** $2 for each range up to and including $309.99,
+	- **(ii)** $4 for each range from $310 to $529.99,
+	- **(iii)** $8 for each range from $530 to $969.99,
+	- **(iv)** $12 for each range from $970 to $1,629.99,
+	- **(v)** $16 for each range from $1,630 to $2,509.99,
+	- **(vi)** $20 for each range from $2,510 to $3,609.99;
+- **(c)** in respect of a bi-weekly pay period, the ranges of remuneration shall commence at $403 and increase in increments of
+	- **(i)** $4 for each range up to and including $618.99,
+	- **(ii)** $8 for each range from $619 to $1,058.99,
+	- **(iii)** $16 for each range from $1,059 to $1,938.99,
+	- **(iv)** $24 for each range from $1,939 to $3,258.99,
+	- **(v)** $32 for each range from $3,259 to $5,018.99,
+	- **(vi)** $40 for each range from $5,019 to $7,218.99;
+- **(d)** in respect of a semi-monthly pay period, the ranges of remuneration shall commence at $437 and increase in increments of
+	- **(i)** $4 for each range up to and including $652.99,
+	- **(ii)** $8 for each range from $653 to $1,092.99,
+	- **(iii)** $18 for each range from $1,093 to $2,082.99,
+	- **(iv)** $26 for each range from $2,083 to $3,512.99,
+	- **(v)** $34 for each range from $3,513 to $5,382.99,
+	- **(vi)** $44 for each range from $5,383 to $7,802.99;
+- **(e)** in respect of 12 monthly pay periods, the ranges of remuneration shall commence at $873 and increase in increments of
+	- **(i)** $8 for each range up to and including $1,304.99,
+	- **(ii)** $18 for each range from $1,305 to $2,294.99,
+	- **(iii)** $34 for each range from $2,295 to $4,164.99,
+	- **(iv)** $52 for each range from $4,165 to $7,024.99,
+	- **(v)** $70 for each range from $7,025 to $10,874.99,
+	- **(vi)** $86 for each range from $10,875 to $15,604.99;
+- **(f)** in respect of 10 monthly pay periods, the ranges of remuneration shall commence at $1,048 and increase in increments of
+	- **(i)** $10 for each range up to and including $1,587.99,
+	- **(ii)** $20 for each range from $1,588 to $2,687.99,
+	- **(iii)** $42 for each range from $2,688 to $4,997.99,
+	- **(iv)** $62 for each range from $4,998 to $8,407.99,
+	- **(v)** $84 for each range from $8,408 to $13,027.99,
+	- **(vi)** $104 for each range from $13,028 to $18,747.99;
+- **(g)** in respect of four-week pay periods, the ranges of remuneration shall commence at $806 and increase in increments of
+	- **(i)** $8 for each range up to and including $1,237.99,
+	- **(ii)** $16 for each range from $1,238 to $2,117.99,
+	- **(iii)** $32 for each range from $2,118 to $3,877.99,
+	- **(iv)** $48 for each range from $3,878 to $6,517.99,
+	- **(v)** $64 for each range from $6,518 to $10,037.99,
+	- **(vi)** $80 for each range from $10,038 to $14,437.99;
+- **(h)** in respect of 22 pay periods per annum, the ranges of remuneration shall commence at $477 and increase in increments of
+	- **(i)** $6 for each range up to and including $800.99,
+	- **(ii)** $10 for each range from $801 to $1,350.99,
+	- **(iii)** $18 for each range from $1,351 to $2,340.99,
+	- **(iv)** $28 for each range from $2,341 to $3,880.99,
+	- **(v)** $38 for each range from $3,881 to $5,970.99,
+	- **(vi)** $48 for each range from $5,971 to $8,610.99.
 
 
 **2** For the purposes of paragraph 102(1)(d), the mid-point of the range of amount of personal credits for a taxation year shall be as follows:
-- **(a)** from $0 to $8,148, $8,148;
-- **(b)** from $8,148.01 to $9,955, $9,051.50;
-- **(c)** from $9,955.01 to $11,762, $10,858.50;
-- **(d)** from $11,762.01 to $13,569, $12,665.50;
-- **(e)** from $13,569.01 to $15,376, $14,472.50;
-- **(f)** from $15,376.01 to $17,183, $16,279.50;
-- **(g)** from $17,183.01 to $18,990, $18,086.50;
-- **(h)** from $18,990.01 to $20,797, $19,893.50;
-- **(i)** from $20,797.01 to $22,604, $21,700.50;
-- **(j)** from $22,604.01 to $24,411, $23,507.50; and
-- **(k)** for amounts in excess of $24,411, the amount of the personal credits.
+- **(a)** from $0 to $8,929, $8,929;
+- **(b)** from $8,929.01 to $10,817, $9,873.00;
+- **(c)** from $10,817.01 to $12,705, $11,761.00;
+- **(d)** from $12,705.01 to $14,593, $13,649.00;
+- **(e)** from $14,593.01 to $16,481, $15,537.00;
+- **(f)** from $16,481.01 to $18,369, $17,425.00;
+- **(g)** from $18,369.01 to $20,257, $19,313.00;
+- **(h)** from $20,257.01 to $22,145, $21,201.00;
+- **(i)** from $22,145.01 to $24,033, $23,089.00;
+- **(j)** from $24,033.01 to $25,921, $24,977.00;
+- **(k)** for amounts in excess of $25,921, the amount of the personal credits.
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-331, s. 4; SOR/78-449, s. 5; SOR/78-625, s. 3; SOR/79-359, s. 3; SOR/79-694, s. 3; SOR/80-187, s. 2; SOR/80-683, s. 4; SOR/80-941, s. 6; SOR/81-471, s. 7; SOR/81-596, s. 1; SOR/83-349, s. 5; SOR/83-360, s. 2; SOR/83-692, s. 8; SOR/84-223, s. 2; SOR/84-913, s. 4; SOR/84-968, s. 1; SOR/85-453, s. 4; SOR/86-629, s. 4; SOR/86-949, s. 1; SOR/87-471, s. 4; SOR/88-310, s. 3; SOR/89-508, s. 7; SOR/90-161, s. 3; SOR/91-279, ss. 3, 4; SOR/91-536, s. 4; SOR/92-138, s. 3; SOR/92-667, ss. 4, 5; SOR/94-569, s. 3; SOR/96-206, s. 1; SOR/99-18, ss. 2, 3; SOR/2000-10, ss. 2, 3; SOR/2000-329, ss. 2, 3; SOR/2001-221, ss. 7, 8; SOR/2005-123, s. 6; SOR/2005-185, s. 4.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-331, s. 4; SOR/78-449, s. 5; SOR/78-625, s. 3; SOR/79-359, s. 3; SOR/79-694, s. 3; SOR/80-187, s. 2; SOR/80-683, s. 4; SOR/80-941, s. 6; SOR/81-471, s. 7; SOR/81-596, s. 1; SOR/83-349, s. 5; SOR/83-360, s. 2; SOR/83-692, s. 8; SOR/84-223, s. 2; SOR/84-913, s. 4; SOR/84-968, s. 1; SOR/85-453, s. 4; SOR/86-629, s. 4; SOR/86-949, s. 1; SOR/87-471, s. 4; SOR/88-310, s. 3; SOR/89-508, s. 7; SOR/90-161, s. 3; SOR/91-279, ss. 3, 4; SOR/91-536, s. 4; SOR/92-138, s. 3; SOR/92-667, ss. 4, 5; SOR/94-569, s. 3; SOR/96-206, s. 1; SOR/99-18, ss. 2, 3; SOR/2000-10, ss. 2, 3; SOR/2000-329, ss. 2, 3; SOR/2001-221, ss. 7, 8; SOR/2005-123, s. 6; SOR/2005-185, s. 4; SOR/2007-149, s. 1.
 
 
 
