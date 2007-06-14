@@ -340,7 +340,7 @@ Autorités habilitantes :
 	- **a)** être prévue d’après la composition du cosmétique, la toxicologie des ingrédients et le lieu d’application du cosmétique;
 	- **b)** être raisonnablement prévisible au cours d’une utilisation normale;
 	- **c)** être éliminée en limitant de façon spécifique l’utilisation du cosmétique.
-> DORS/89-228, art. 5; DORS/2004-244, art. 12.
+> DORS/89-228, art. 5; DORS/2004-244, art. 12; DORS/2007-150, art. 1(A).
 
 
 
@@ -603,10 +603,10 @@ Extrêmement inflammable
 
 - **(2)** Le fabricant qui ne fournit pas les preuves demandées en vertu du paragraphe (1) suspend la vente du cosmétique le jour suivant l’expiration du délai précisé.
 
-- **(3)** Le ministre qui estime que les preuves fournies par le fabricant, selon le paragraphe (1), sont insuffisantes en avise le fabricant par écrit et ce dernier suspend la vente du cosmétique jusqu’à ce que les conditions ci-après soient remplies :
+- **(3)** S’il conclut que les preuves fournies selon le paragraphe (1) sont insuffisantes, le ministre en avise le fabricant par écrit et ce dernier est alors tenu de suspendre la vente du cosmétique jusqu’à ce que les conditions ci-après soient remplies :
 	- **a)** le fabricant fournit des preuves supplémentaires au ministre;
 	- **b)** il reçoit un avis écrit du ministre indiquant que les preuves supplémentaires sont suffisantes.
-> DORS/2004-244, art. 20.
+> DORS/2004-244, art. 20; DORS/2007-150, art. 2.
 
 
 
@@ -618,90 +618,68 @@ Extrêmement inflammable
 **30** 
 
 - **(1)** Le fabricant ou l’importateur remet au ministre, dans les dix jours suivant la vente initiale d’un cosmétique, les documents suivants :
-	- **a)** une déclaration sur une formule obtenue du ministre et signée par le fabricant, l’importateur ou par une personne autorisée à le faire en son nom, indiquant son intention de continuer la vente du cosmétique au Canada et contenant les renseignements prévus au paragraphe (2);
+	- **a)** une déclaration sur une formule obtenue du ministre et signée par le fabricant ou l’importateur, selon le cas, ou par toute personne autorisée à le faire en son nom, indiquant s’il a l’intention de continuer la vente du cosmétique au Canada et contenant les renseignements prévus au paragraphe (2);
 	- **b)** un exemplaire ou une télécopie des étiquettes et de tout feuillet devant comporter les renseignements exigés en vertu des articles 22 à 24.
 
 - **(2)** Les renseignements nécessaires à l’application de l’alinéa (1)a) sont les suivants :
 	- **a)** le nom et l’adresse du fabricant figurant sur l’étiquette du cosmétique, conformément à l’article 20;
 	- **b)** le nom sous lequel le cosmétique est vendu;
 	- **c)** la fonction du cosmétique;
-	- **d)** la liste des ingrédients contenus dans le cosmétique et la concentration exacte ou approximative de chacun de ces ingrédients, cette dernière pouvant être indiquée selon le chiffre correspondant à la concentration du cosmétique et figurant au tableau du présent article;
+	- **d)** la liste des ingrédients contenus dans le cosmétique et, pour chacun d’entre eux, sa concentration exacte ou la plage de concentration dans laquelle il se situe, cette dernière pouvant seulement être indiquée selon la plage de concentration appropriée figurant à la colonne 1 du tableau du présent article ou selon l’équivalent numérique correspondant figurant à la colonne 2;
 	- **e)** l’état de la matière formant le cosmétique;
 	- **f)** le nom et l’adresse au Canada du fabricant, de l’importateur ou du distributeur;
 	- **g)** lorsque la personne dont le nom figure sur l’étiquette du cosmétique n’a pas fabriqué ou préparé la formule du cosmétique, le nom et l’adresse de la personne ayant fabriqué le cosmétique ou préparé la formule;
 	- **h)** le nom et le titre de la personne qui a signé la déclaration visée à l’alinéa (1)a).
-#### TABLE/TABLEAU
+#### TABLEAU
 <table>
 <tr>
-<th>Number/Chiffre</th>
 <th></th>
-<th>Range/Concentration</th>
+<th>Colonne 1</th>
+<th>Colonne 2</th>
+</tr>
+<tr>
+<th>Article</th>
+<th>Plage de concentration</th>
+<th>Équivalent numérique correspondant</th>
 </tr>
 <tr>
 <td>1</td>
-<td>over</td>
-<td>30% to 100%/</td>
-</tr>
-<tr>
-<td>de</td>
-<td>30% à 100%</td>
+<td>Supérieur à 30 %, jusqu’à 100 %</td>
+<td>1</td>
 </tr>
 <tr>
 <td>2</td>
-<td>over</td>
-<td>10% to 30%/</td>
-</tr>
-<tr>
-<td>de</td>
-<td>10% à 30%</td>
+<td>Supérieur à 10 %, sans dépasser 30 %</td>
+<td>2</td>
 </tr>
 <tr>
 <td>3</td>
-<td>over</td>
-<td>3% to 10%/</td>
-</tr>
-<tr>
-<td>de</td>
-<td>3% à 10%</td>
+<td>Supérieur à 3 %, sans dépasser 10 %</td>
+<td>3</td>
 </tr>
 <tr>
 <td>4</td>
-<td>over</td>
-<td>1% to 3%/</td>
-</tr>
-<tr>
-<td>de</td>
-<td>1% à 3%</td>
+<td>Supérieur à 1 %, sans dépasser 3 %</td>
+<td>4</td>
 </tr>
 <tr>
 <td>5</td>
-<td>over</td>
-<td>0.3% to 1%/</td>
-</tr>
-<tr>
-<td>de</td>
-<td>0.3% à 1%</td>
+<td>Supérieur à 0,3 %, sans dépasser 1 %</td>
+<td>5</td>
 </tr>
 <tr>
 <td>6</td>
-<td>over</td>
-<td>0.1% to 0.3%/</td>
-</tr>
-<tr>
-<td>de</td>
-<td>0.1% à 0.3%</td>
+<td>Supérieur à 0,1 %, sans dépasser 0,3 %</td>
+<td>6</td>
 </tr>
 <tr>
 <td>7</td>
-<td></td>
-<td>0.1% or less/</td>
-</tr>
-<tr>
-<td>0.1% ou moins</td>
+<td>Supérieur à 0 %, sans dépasser 0,1 %</td>
+<td>7</td>
 </tr>
 </table>
 
-> DORS/2004-244, art. 21.
+> DORS/2004-244, art. 21; DORS/2007-150, art. 3.
 
 
 
