@@ -292,28 +292,28 @@ Autorités habilitantes :
 **26** 
 
 - **(1)** La somme déterminée par tonne métrique que la Commission est tenue, aux termes de l’alinéa 32(1)b) de la Loi, de payer aux producteurs pour le blé du grade de base Blé roux de printemps n<sup>o</sup> 1 de l’Ouest canadien (teneur en protéines de 12,5 %) qui est vendu et livré à la Commission pendant la période de mise en commun se terminant le 31 juillet 2007 est la suivante :
-	- **a)** 178,25 $ s’il est à l’état sec;
-	- **b)** 170,25 $ s’il est à l’état gourd;
-	- **c)** 162,75 $ s’il est à l’état humide;
-	- **d)** 170,25 $ s’il est à l’état sec, rejeté en raison de pierres;
-	- **e)** 162,25 $ s’il est à l’état gourd, rejeté en raison de pierres;
-	- **f)** 154,75 $ s’il est à l’état humide, rejeté en raison de pierres.
+	- **a)** 194,25 $ s’il est à l’état sec;
+	- **b)** 186,25 $ s’il est à l’état gourd;
+	- **c)** 178,75 $ s’il est à l’état humide;
+	- **d)** 186,25 $ s’il est à l’état sec, rejeté en raison de pierres;
+	- **e)** 178,25 $ s’il est à l’état gourd, rejeté en raison de pierres;
+	- **f)** 170,75 $ s’il est à l’état humide, rejeté en raison de pierres.
 
 - **(2)** La somme déterminée par tonne métrique que la Commission est tenue, aux termes de l’alinéa 32(1)b) de la Loi, de payer aux producteurs pour le blé du grade de base Blé dur ambré n<sup>o</sup> 1 de l’Ouest canadien (teneur en protéines de 12,5 %) qui est vendu et livré à la Commission pendant la période de mise en commun se terminant le 31 juillet 2007 est la suivante :
-	- **a)** 175 $ s’il est à l’état sec;
-	- **b)** 167 $ s’il est à l’état gourd;
-	- **c)** 159,50 $ s’il est à l’état humide;
-	- **d)** 167 $ s’il est à l’état sec, rejeté en raison de pierres;
-	- **e)** 159 $ s’il est à l’état gourd, rejeté en raison de pierres;
-	- **f)** 151,50 $ s’il est à l’état humide, rejeté en raison de pierres.
+	- **a)** 194 $ s’il est à l’état sec;
+	- **b)** 186 $ s’il est à l’état gourd;
+	- **c)** 178,50 $ s’il est à l’état humide;
+	- **d)** 186 $ s’il est à l’état sec, rejeté en raison de pierres;
+	- **e)** 178 $ s’il est à l’état gourd, rejeté en raison de pierres;
+	- **f)** 170,50 $ s’il est à l’état humide, rejeté en raison de pierres.
 
-- **(3)** La somme déterminée par tonne métrique que la Commission est tenue, aux termes de l’alinéa 32(1)b) et de l’article 47 de la Loi, de payer aux producteurs pour l’orge du grade de base n<sup>o</sup> 1 de l’Ouest canadien qui est vendue et livrée à la Commission pendant la période de mise en commun commençant le 1<sup>er</sup> février 2007 et se terminant le 31 juillet 2007 est la suivante :
-	- **a)** 110,50 $ si elle est à l’état sec;
-	- **b)** 103,50 $ si elle est à l’état gourd;
-	- **c)** 97 $ si elle est à l’état humide;
-	- **d)** 105,50 $ si elle est à l’état sec, rejetée en raison de pierres;
-	- **e)** 98,50 $ si elle est à l’état gourd, rejetée en raison de pierres;
-	- **f)** 92 $ si elle est à l’état humide, rejetée en raison de pierres.
+- **(3)** La somme déterminée par tonne métrique que la Commission est tenue, aux termes de l’alinéa 32(1)b) et de l’article 47 de la Loi, de payer aux producteurs pour l’orge du grade de base n<sup>o</sup> 1 de l’Ouest canadien qui est vendue et livrée à la Commission pendant la période de mise en commun se terminant le 31 juillet 2007 est la suivante :
+	- **a)** 130,50 $ si elle est à l’état sec;
+	- **b)** 123,50 $ si elle est à l’état gourd;
+	- **c)** 117 $ si elle est à l’état humide;
+	- **d)** 125,50 $ si elle est à l’état sec, rejetée en raison de pierres;
+	- **e)** 118,50 $ si elle est à l’état gourd, rejetée en raison de pierres;
+	- **f)** 112 $ si elle est à l’état humide, rejetée en raison de pierres.
 
 - **(4)** La somme déterminée par tonne métrique que la Commission est tenue, aux termes de l’alinéa 32(1)b) et de l’article 47 de la Loi, de payer aux producteurs pour l’orge du grade de base Extra spéciale à deux rangs de l’Ouest canadien qui est choisie et acceptée comme malt d’orge ou pour la production de l’orge mondé ou perlé et qui est vendue et livrée à la Commission pendant la période de mise en commun se terminant le 31 juillet 2007 est la suivante :
 	- **a)** 184 $ si elle est à l’état sec;
@@ -323,7 +323,7 @@ Autorités habilitantes :
 - **(5)** Lorsqu’une personne, autre que le producteur, qui a été autorisée par la Commission conformément au paragraphe 24(1) de la Loi livre du blé ou de l’orge à un silo ou à un wagon, la Commission paie à cette personne, sans délivrer de certificat de producteur, la somme par tonne fixée par le présent règlement pour le blé ou l’orge du même grade, conformément à l’alinéa 32(1)b) de la Loi.
 
 - **(6) et (7)** [Abrogés, DORS/90-442, art. 1]
-> DORS/78-76, art. 1; DORS/78-571, art. 1; DORS/79-239, art. 1; DORS/79-536, art. 1; DORS/79-723, art. 1; DORS/80-602, art. 1; DORS/80-884, art. 1; DORS/81-94, art. 1; DORS/81-579, art. 1; DORS/82-752, art. 1; DORS/83-630, art. 1; DORS/83-811, art. 1; DORS/84-174, art. 1; DORS/84-495, art. 1; DORS/84-642, art. 1; DORS/84-908, art. 1; DORS/85-413, art. 1; DORS/86-480, art. 1; DORS/87-454, art. 1; DORS/87-610, art. 1; DORS/88-226, art. 1; DORS/88-373, art. 1; DORS/88-587, art. 1; DORS/89-139, art. 1; DORS/89-281, art. 8; DORS/89-362, art. 1; DORS/89-476, art. 1; DORS/90-71, art. 1; DORS/90-442, art. 1; DORS/91-9, art. 1; DORS/91-467, art. 1; DORS/91-684, art. 1; DORS/92-55, art. 1; DORS/92-212, art. 1; DORS/92-470, art. 1; DORS/92-617, art. 1; DORS/93-32, art. 1; DORS/93-278, art. 1; DORS/93-390, art. 6; DORS/93-406, art. 1; DORS/93-519, art. 1; DORS/94-26, art. 1; DORS/94-230, art. 1; DORS/94-244, art. 1; DORS/94-412, art. 1; DORS/94-521, art. 1; DORS/94-522, art. 1; DORS/94-644, art. 1; DORS/94-756, art. 1; DORS/95-61, art. 1; DORS/95-88, art. 1; DORS/95-224, art. 1; DORS/95-324, art. 1; DORS/95-383, art. 1; DORS/95-480, art. 1; DORS/95-481, art. 1; DORS/95-511, art. 1; DORS/95-554, art. 1; DORS/95-555, art. 1; DORS/96-157, art. 1; DORS/96-264, art. 1; DORS/96-382, art. 1; DORS/96-392, art. 1; DORS/97-113, art. 1; DORS/97-223, art. 1; DORS/97-315, art. 1; DORS/97-361, art. 1; DORS/97-396, art. 1; DORS/97-431, art. 1; DORS/98-14, art. 1; DORS/98-109, art. 1; DORS/98-263, art. 1; DORS/98-384, art. 1; DORS/98-404, art. 1; DORS/99-24, art. 1; DORS/99-36, art. 1; DORS/99-104, art. 1; DORS/99-307, art. 1; DORS/99-341, art. 1; DORS/99-391, art. 1(A); DORS/99-430, art. 1; DORS/2000-23, art. 1; DORS/2000-64, art. 1; DORS/2000-171, art. 1; DORS/2000-295, art. 1; DORS/2000-321, art. 1; DORS/2001-21, art. 1; DORS/2001-137, art. 1; DORS/2001-151, art. 1; DORS/2001-240, art. 1; DORS/2001-267, art. 1; DORS/2001-333, art. 1; DORS/2001-488, art. 1; DORS/2002-28, art. 1; DORS/2002-139, art. 1; DORS/2002-248, art. 1; DORS/2002-285, art. 1; DORS/2002-328, art. 1; DORS/2002-433, art. 1; DORS/2003-287, art. 1; DORS/2003-418, art. 1; DORS/2004-41, art. 1; DORS/2004-134, art. 1; DORS/2004-173, art. 1; DORS/2005-21, art. 1; DORS/2005-36, art. 1; DORS/2005-140, art. 1; DORS/2005-233, art. 1; DORS/2005-349, art. 1; DORS/2006-22, art. 1; DORS/2006-55, art. 1; DORS/2006-171, art. 1; DORS/2006-172, art. 1; DORS/2006-263, art. 1; DORS/2006-346, art. 1; DORS/2007-21, art. 1; DORS/2007-56, art. 1.
+> DORS/78-76, art. 1; DORS/78-571, art. 1; DORS/79-239, art. 1; DORS/79-536, art. 1; DORS/79-723, art. 1; DORS/80-602, art. 1; DORS/80-884, art. 1; DORS/81-94, art. 1; DORS/81-579, art. 1; DORS/82-752, art. 1; DORS/83-630, art. 1; DORS/83-811, art. 1; DORS/84-174, art. 1; DORS/84-495, art. 1; DORS/84-642, art. 1; DORS/84-908, art. 1; DORS/85-413, art. 1; DORS/86-480, art. 1; DORS/87-454, art. 1; DORS/87-610, art. 1; DORS/88-226, art. 1; DORS/88-373, art. 1; DORS/88-587, art. 1; DORS/89-139, art. 1; DORS/89-281, art. 8; DORS/89-362, art. 1; DORS/89-476, art. 1; DORS/90-71, art. 1; DORS/90-442, art. 1; DORS/91-9, art. 1; DORS/91-467, art. 1; DORS/91-684, art. 1; DORS/92-55, art. 1; DORS/92-212, art. 1; DORS/92-470, art. 1; DORS/92-617, art. 1; DORS/93-32, art. 1; DORS/93-278, art. 1; DORS/93-390, art. 6; DORS/93-406, art. 1; DORS/93-519, art. 1; DORS/94-26, art. 1; DORS/94-230, art. 1; DORS/94-244, art. 1; DORS/94-412, art. 1; DORS/94-521, art. 1; DORS/94-522, art. 1; DORS/94-644, art. 1; DORS/94-756, art. 1; DORS/95-61, art. 1; DORS/95-88, art. 1; DORS/95-224, art. 1; DORS/95-324, art. 1; DORS/95-383, art. 1; DORS/95-480, art. 1; DORS/95-481, art. 1; DORS/95-511, art. 1; DORS/95-554, art. 1; DORS/95-555, art. 1; DORS/96-157, art. 1; DORS/96-264, art. 1; DORS/96-382, art. 1; DORS/96-392, art. 1; DORS/97-113, art. 1; DORS/97-223, art. 1; DORS/97-315, art. 1; DORS/97-361, art. 1; DORS/97-396, art. 1; DORS/97-431, art. 1; DORS/98-14, art. 1; DORS/98-109, art. 1; DORS/98-263, art. 1; DORS/98-384, art. 1; DORS/98-404, art. 1; DORS/99-24, art. 1; DORS/99-36, art. 1; DORS/99-104, art. 1; DORS/99-307, art. 1; DORS/99-341, art. 1; DORS/99-391, art. 1(A); DORS/99-430, art. 1; DORS/2000-23, art. 1; DORS/2000-64, art. 1; DORS/2000-171, art. 1; DORS/2000-295, art. 1; DORS/2000-321, art. 1; DORS/2001-21, art. 1; DORS/2001-137, art. 1; DORS/2001-151, art. 1; DORS/2001-240, art. 1; DORS/2001-267, art. 1; DORS/2001-333, art. 1; DORS/2001-488, art. 1; DORS/2002-28, art. 1; DORS/2002-139, art. 1; DORS/2002-248, art. 1; DORS/2002-285, art. 1; DORS/2002-328, art. 1; DORS/2002-433, art. 1; DORS/2003-287, art. 1; DORS/2003-418, art. 1; DORS/2004-41, art. 1; DORS/2004-134, art. 1; DORS/2004-173, art. 1; DORS/2005-21, art. 1; DORS/2005-36, art. 1; DORS/2005-140, art. 1; DORS/2005-233, art. 1; DORS/2005-349, art. 1; DORS/2006-22, art. 1; DORS/2006-55, art. 1; DORS/2006-171, art. 1; DORS/2006-172, art. 1; DORS/2006-263, art. 1; DORS/2006-346, art. 1; DORS/2007-21, art. 1; DORS/2007-56, art. 1; DORS/2007-132, art. 1.
 
 
 
