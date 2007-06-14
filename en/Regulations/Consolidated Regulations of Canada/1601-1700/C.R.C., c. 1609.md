@@ -57,7 +57,7 @@ Enabling authorities:
 
 ***Minister***[Repealed, SOR/94-594, s. 4]
 
-***non-toxic shot*** means bismuth shot, steel shot, tin shot, tungsten-bronze-iron shot, tungsten-iron shot, tungsten-matrix shot, tungsten-nickel-iron shot or tungsten-polymer shot; (*grenaille non toxique*)
+***non-toxic shot*** means bismuth shot, steel shot, tin shot, tungsten-bronze-iron shot, tungsten-iron shot, tungsten-iron-nickel-copper shot, tungsten-matrix shot, tungsten-nickel-iron shot or tungsten-polymer shot; (*grenaille non toxique*)
 
 ***permit***[Repealed, SOR/94-594, s. 4]
 
@@ -78,11 +78,18 @@ Enabling authorities:
 - **(b)** not more than 1% each of any other element; (*grenaille d’étain*)
 
 ***tungsten-bronze-iron shot*** means shotgun pellets consisting of, by weight,
-- **(a)** at least 50 per cent tungsten,
-- **(b)** at least 3 per cent tin,
-- **(c)** at least 0.5 per cent iron,
-- **(d)** not more than 45 per cent copper, and
-- **(e)** not more than 1 per cent each of any other element; (*grenaille de tungstène-bronze-fer*)
+- **(a)** not more than 90% tungsten,
+- **(b)** not more than 90% tin,
+- **(c)** not more than 90% iron,
+- **(d)** not more than 45% copper, and
+- **(e)** not more than 1% each of any other element; (*grenaille de tungstène-bronze-fer*)
+
+***tungsten-iron-nickel-copper shot*** means shotgun pellets consisting of, by weight,
+- **(a)** 40 to 76% tungsten,
+- **(b)** 10 to 37% iron,
+- **(c)** 9 to 16% copper,
+- **(d)** 5 to 7% nickel, and
+- **(e)** not more than 1% lead or zinc; (*grenaille de tungstène-fer-nickel-cuivre*)
 
 ***tungsten-iron shot*** means shotgun pellets consisting, by weight, of
 - **(a)** at least 45% iron,
@@ -96,10 +103,10 @@ Enabling authorities:
 - **(d)** not more than 5% ethylene methacrylic acid copolymer, and
 - **(e)** not more than 1% each of any other element or compound; (*grenaille à matrice de tungstène*)
 
-***tungsten-nickel-iron shot*** means shotgun pellets consisting, by weight, of
-- **(a)** at least 50% tungsten,
-- **(b)** at least 15% iron,
-- **(c)** not more than 35% nickel, and
+***tungsten-nickel-iron shot*** means shotgun pellets consisting of, by weight,
+- **(a)** not more than 90% tungsten,
+- **(b)** not more than 90% iron,
+- **(c)** not more than 40% nickel, and
 - **(d)** not more than 1% each of any other element; (*grenaille de tungstène-nickel-fer*)
 
 ***tungsten-polymer shot*** means shotgun pellets consisting, by weight, of
@@ -112,7 +119,7 @@ Enabling authorities:
 ***wildlife area*** means an area of public lands set out in Schedule I. (*réserve d’espèces sauvages*) 
 
 ***wildlife area officer***[Repealed, SOR/94-594, s. 4]
-> SOR/78-408, s. 1; SOR/78-466, s. 1(F); SOR/85-227, s. 1; SOR/94-594, ss. 4, 10; SOR/95-78, s. 1; SOR/96-442, s. 1; SOR/97-439, s. 1; SOR/99-95, s. 1; SOR/2001-322, s. 1; SOR/2003-226, s. 1; SOR/2005-124, s. 1.
+> SOR/78-408, s. 1; SOR/78-466, s. 1(F); SOR/85-227, s. 1; SOR/94-594, ss. 4, 10; SOR/95-78, s. 1; SOR/96-442, s. 1; SOR/97-439, s. 1; SOR/99-95, s. 1; SOR/2001-322, s. 1; SOR/2003-226, s. 1; SOR/2005-124, s. 1; SOR/2007-138, s. 1.
 
 
 
