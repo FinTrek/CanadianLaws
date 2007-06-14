@@ -17273,73 +17273,73 @@ sur le total des montants représentant chacun :
 **(articles 100, 102 et 106)**
 ## Paliers de rémunération et de rémunération totale
 **1** Pour l’application de l’alinéa 102(1)c), les paliers de rémunération pour chaque période de paie dans une année d’imposition sont déterminés ainsi :
-- **a)** à l’égard d’une période de paie d’un jour, les paliers de rémunération commencent à 36 $ et augmentent par tranches de 2 $ pour chaque palier jusqu’à 143,99 $;
-- **b)** à l’égard d’une période de paie d’une semaine, les paliers de rémunération commencent à 165 $ et augmentent par tranches de :
-	- **(i)** 2 $ pour chaque palier jusqu’à 272,99 $,
-	- **(ii)** 4 $ pour chaque palier de 273 $ à 492,99 $,
-	- **(iii)** 8 $ pour chaque palier de 493 $ à 932,99 $,
-	- **(iv)** 12 $ pour chaque palier de 933 $ à 1 592,99 $,
-	- **(v)** 16 $ pour chaque palier de 1 593 $ à 2 472,99 $,
-	- **(vi)** 20 $ pour chaque palier de 2 473 $ à 3 572,99 $;
-- **c)** à l’égard d’une période de paie de deux semaines, les paliers de rémunération commencent à 330 $ et augmentent par tranches de :
-	- **(i)** 4 $ pour chaque palier jusqu’à 545,99 $,
-	- **(ii)** 8 $ pour chaque palier de 546 $ à 985,99 $,
-	- **(iii)** 16 $ pour chaque palier de 986 $ à 1 865,99 $,
-	- **(iv)** 24 $ pour chaque palier de 1 866 $ à 3 185,99 $,
-	- **(v)** 32 $ pour chaque palier de 3 186 $ à 4 945,99 $,
-	- **(vi)** 40 $ pour chaque palier de 4 946 $ à 7 145,99 $;
-- **d)** à l’égard d’une période de paie semi-mensuelle, les paliers de rémunération commencent à 358 $ et augmentent par tranches de :
-	- **(i)** 4 $ pour chaque palier jusqu’à 573,99 $,
-	- **(ii)** 8 $ pour chaque palier de 574 $ à 1 013,99 $,
-	- **(iii)** 18 $ pour chaque palier de 1 014 $ à 2 003,99 $,
-	- **(iv)** 26 $ pour chaque palier de 2 004 $ à 3 433,99 $,
-	- **(v)** 34 $ pour chaque palier de 3 434 $ à 5 303,99 $,
-	- **(vi)** 44 $ pour chaque palier de 5 304 $ à 7 723,99 $;
-- **e)** à l’égard de 12 périodes de paie d’un mois, les paliers de rémunération commencent à 715 $ et augmentent par tranches de :
-	- **(i)** 8 $ pour chaque palier jusqu’à 1 146,99 $,
-	- **(ii)** 18 $ pour chaque palier de 1 147 $ à 2 136,99 $,
-	- **(iii)** 34 $ pour chaque palier de 2 137 $ à 4 006,99 $,
-	- **(iv)** 52 $ pour chaque palier de 4 007 $ à 6 866,99 $,
-	- **(v)** 70 $ pour chaque palier de 6 867 $ à 10 716,99 $,
-	- **(vi)** 86 $ pour chaque palier de 10 717 $ à 15 446,99 $;
-- **f)** à l’égard de 10 périodes de paie d’un mois, les paliers de rémunération commencent à 857 $ et augmentent par tranches de :
-	- **(i)** 10 $ pour chaque palier jusqu’à 1 396,99 $,
-	- **(ii)** 20 $ pour chaque palier de 1 397 $ à 2 496,99 $,
-	- **(iii)** 42 $ pour chaque palier de 2 497 $ à 4 806,99 $,
-	- **(iv)** 62 $ pour chaque palier de 4 807 à 8 216,99 $,
-	- **(v)** 84 $ pour chaque palier de 8 217 $ à 12 836,99 $,
-	- **(vi)** 104 $ pour chaque palier de 12 837 $ à 18 556,99 $;
-- **g)** à l’égard de périodes de paie de quatre semaines, les paliers de rémunération commencent à 660 $ et augmentent par tranches de :
-	- **(i)** 8 $ pour chaque palier jusqu’à 1 091,99 $,
-	- **(ii)** 16 $ pour chaque palier de 1 092 $ à 1 971,99 $,
-	- **(iii)** 32 $ pour chaque palier de 1 972 $ à 3 731,99 $,
-	- **(iv)** 48 $ pour chaque palier de 3 732 $ à 6 371,99 $,
-	- **(v)** 64 $ pour chaque palier de 6 372 $ à 9 891,99 $,
-	- **(vi)** 80 $ pour chaque palier de 9 892 $ à 14 291,99 $;
-- **h)** à l’égard de 22 périodes de paie par année, les paliers de rémunération commencent à 390 $ et augmentent par tranches de :
-	- **(i)** 6 $ pour chaque palier jusqu’à 713,99 $,
-	- **(ii)** 10 $ pour chaque palier de 714 $ à 1 263,99 $,
-	- **(iii)** 18 $ pour chaque palier de 1 264 $ à 2 253,99 $,
-	- **(iv)** 28 $ pour chaque palier de 2 254 $ à 3 793,99 $,
-	- **(v)** 38 $ pour chaque palier de 3 794 $ à 5 883,99 $,
-	- **(vi)** 48 $ pour chaque palier de 5 884 $ à 8 523,99 $.
+- **a)** à l’égard d’une période de paie d’un jour, les paliers de rémunération commencent à 44 $ et augmentent par tranches de 2 $ pour chaque palier jusqu’à 151,99 $;
+- **b)** à l’égard d’une période de paie d’une semaine, les paliers de rémunération commencent à 202 $ et augmentent par tranches de :
+	- **(i)** 2 $ pour chaque palier jusqu’à 309,99 $,
+	- **(ii)** 4 $ pour chaque palier de 310 $ à 529,99 $,
+	- **(iii)** 8 $ pour chaque palier de 530 $ à 969,99 $,
+	- **(iv)** 12 $ pour chaque palier de 970 $ à 1 629,99 $,
+	- **(v)** 16 $ pour chaque palier de 1 630 $ à 2 509,99 $,
+	- **(vi)** 20 $ pour chaque palier de 2 510 $ à 3 609,99 $;
+- **c)** à l’égard d’une période de paie de deux semaines, les paliers de rémunération commencent à 403 $ et augmentent par tranches de :
+	- **(i)** 4 $ pour chaque palier jusqu’à 618,99 $,
+	- **(ii)** 8 $ pour chaque palier de 619 $ à 1 058,99 $,
+	- **(iii)** 16 $ pour chaque palier de 1 059 $ à 1 938,99 $,
+	- **(iv)** 24 $ pour chaque palier de 1 939 $ à 3 258,99 $,
+	- **(v)** 32 $ pour chaque palier de 3 259 $ à 5 018,99 $,
+	- **(vi)** 40 $ pour chaque palier de 5 019 $ à 7 218,99 $;
+- **d)** à l’égard d’une période de paie semi-mensuelle, les paliers de rémunération commencent à 437 $ et augmentent par tranches de :
+	- **(i)** 4 $ pour chaque palier jusqu’à 652,99 $,
+	- **(ii)** 8 $ pour chaque palier de 653 $ à 1 092,99 $,
+	- **(iii)** 18 $ pour chaque palier de 1 093 $ à 2 082,99 $,
+	- **(iv)** 26 $ pour chaque palier de 2 083 $ à 3 512,99 $,
+	- **(v)** 34 $ pour chaque palier de 3 513 $ à 5 382,99 $,
+	- **(vi)** 44 $ pour chaque palier de 5 383 $ à 7 802,99 $;
+- **e)** à l’égard de 12 périodes de paie d’un mois, les paliers de rémunération commencent à 873 $ et augmentent par tranches de :
+	- **(i)** 8 $ pour chaque palier jusqu’à 1 304,99 $,
+	- **(ii)** 18 $ pour chaque palier de 1 305 $ à 2 294,99 $,
+	- **(iii)** 34 $ pour chaque palier de 2 295 $ à 4 164,99 $,
+	- **(iv)** 52 $ pour chaque palier de 4 165 $ à 7 024,99 $,
+	- **(v)** 70 $ pour chaque palier de 7 025 $ à 10 874,99 $,
+	- **(vi)** 86 $ pour chaque palier de 10 875 $ à 15 604,99 $;
+- **f)** à l’égard de 10 périodes de paie d’un mois, les paliers de rémunération commencent à 1 048 $ et augmentent par tranches de :
+	- **(i)** 10 $ pour chaque palier jusqu’à 1 587,99 $,
+	- **(ii)** 20 $ pour chaque palier de 1 588 $ à 2 687,99 $,
+	- **(iii)** 42 $ pour chaque palier de 2 688 $ à 4 997,99 $,
+	- **(iv)** 62 $ pour chaque palier de 4 998 $ à 8 407,99 $,
+	- **(v)** 84 $ pour chaque palier de 8 408 $ à 13 027,99 $,
+	- **(vi)** 104 $ pour chaque palier de 13 028 $ à 18 747,99 $;
+- **g)** à l’égard de périodes de paie de quatre semaines, les paliers de rémunération commencent à 806 $ et augmentent par tranches de :
+	- **(i)** 8 $ pour chaque palier jusqu’à 1 237,99 $,
+	- **(ii)** 16 $ pour chaque palier de 1 238 $ à 2 117,99 $,
+	- **(iii)** 32 $ pour chaque palier de 2 118 $ à 3 877,99 $,
+	- **(iv)** 48 $ pour chaque palier de 3 878 $ à 6 517,99 $,
+	- **(v)** 64 $ pour chaque palier de 6 518 $ à 10 037,99 $,
+	- **(vi)** 80 $ pour chaque palier de 10 038 $ à 14 437,99 $;
+- **h)** à l’égard de 22 périodes de paie par année, les paliers de rémunération commencent à 477 $ et augmentent par tranches de :
+	- **(i)** 6 $ pour chaque palier jusqu’à 800,99 $,
+	- **(ii)** 10 $ pour chaque palier de 801 $ à 1 350,99 $,
+	- **(iii)** 18 $ pour chaque palier de 1 351 $ à 2 340,99 $,
+	- **(iv)** 28 $ pour chaque palier de 2 341 $ à 3 880,99 $,
+	- **(v)** 38 $ pour chaque palier de 3 881 $ à 5 970,99 $,
+	- **(vi)** 48 $ pour chaque palier de 5 971 $ à 8 610,99 $.
 
 
 **2** Pour l’application de l’alinéa 102(1)d), le point milieu des paliers de montants des crédits d’impôt personnels pour l’année est établi ainsi :
-- **a)** de 0 $ à 8 148 $, 8 148 $;
-- **b)** de 8 148,01 $ à 9 955 $, 9 051,50 $;
-- **c)** de 9 955,01 $ à 11 762 $, 10 858,50 $;
-- **d)** de 11 762,01 $ à 13 569 $, 12 665,50 $;
-- **e)** de 13 569,01 $ à 15 376 $, 14 472,50 $;
-- **f)** de 15 376,01 $ à 17 183 $, 16 279,50 $;
-- **g)** de 17 183,01 $ à 18 990 $, 18 086,50 $;
-- **h)** de 18 990,01 $ à 20 797 $, 19 893,50 $;
-- **i)** de 20 797,01 $ à 22 604 $, 21 700,50 $;
-- **j)** de 22 604,01 $ à 24 411 $, 23 507,50 $;
-- **k)** pour les montants qui excèdent 24 411 $, le montant des crédits d’impôt personnels.
+- **a)** de 0 $ à 8 929 $, 8 929 $;
+- **b)** de 8 929,01 $ à 10 817 $, 9 873,00 $;
+- **c)** de 10 817,01 $ à 12 705 $, 11 761,00 $;
+- **d)** de 12 705,01 $ à 14 593 $, 13 649,00 $;
+- **e)** de 14 593,01 $ à 16 481 $, 15 537,00 $;
+- **f)** de 16 481,01 $ à 18 369 $, 17 425,00 $;
+- **g)** de 18 369,01 $ à 20 257 $, 19 313,00 $;
+- **h)** de 20 257,01 $ à 22 145 $, 21 201,00 $;
+- **i)** de 22 145,01 $ à 24 033 $, 23 089,00 $;
+- **j)** de 24 033,01 $ à 25 921 $, 24 977,00 $;
+- **k)** pour les montants qui excèdent 25 921 $, le montant des crédits d’impôt personnels.
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-331, art. 4; DORS/78-449, art. 5; DORS/78-625, art. 3; DORS/79-359, art. 3; DORS/79-694, art. 3; DORS/80-187, art. 2; DORS/80-683, art. 4; DORS/80-941, art. 6; DORS/81-471, art. 7; DORS/81-596, art. 1; DORS/83-349, art. 5; DORS/83-360, art. 2; DORS/83-692, art. 8; DORS/84-223, art. 2; DORS/84-913, art. 4; DORS/84-968, art. 1; DORS/85-453, art. 4; DORS/86-629, art. 4; DORS/86-949, art. 1; DORS/87-471, art. 4; DORS/88-310, art. 3; DORS/89-508, art. 7; DORS/90-161, art. 3; DORS/91-279, art. 3 et 4; DORS/91-536, art. 4; DORS/92-138, art. 3; DORS/92-667, art. 4 et 5; DORS/94-569, art. 3; DORS/96-206, art. 1; DORS/99-18, art. 2 et 3; DORS/2000-10, art. 2 et 3; DORS/2000-329, art. 2 et 3; DORS/2001-221, art. 7 et 8; DORS/2005-123, art. 6; DORS/2005-185, art. 4.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-331, art. 4; DORS/78-449, art. 5; DORS/78-625, art. 3; DORS/79-359, art. 3; DORS/79-694, art. 3; DORS/80-187, art. 2; DORS/80-683, art. 4; DORS/80-941, art. 6; DORS/81-471, art. 7; DORS/81-596, art. 1; DORS/83-349, art. 5; DORS/83-360, art. 2; DORS/83-692, art. 8; DORS/84-223, art. 2; DORS/84-913, art. 4; DORS/84-968, art. 1; DORS/85-453, art. 4; DORS/86-629, art. 4; DORS/86-949, art. 1; DORS/87-471, art. 4; DORS/88-310, art. 3; DORS/89-508, art. 7; DORS/90-161, art. 3; DORS/91-279, art. 3 et 4; DORS/91-536, art. 4; DORS/92-138, art. 3; DORS/92-667, art. 4 et 5; DORS/94-569, art. 3; DORS/96-206, art. 1; DORS/99-18, art. 2 et 3; DORS/2000-10, art. 2 et 3; DORS/2000-329, art. 2 et 3; DORS/2001-221, art. 7 et 8; DORS/2005-123, art. 6; DORS/2005-185, art. 4; DORS/2007-149, art. 1.
 
 
 
