@@ -279,32 +279,28 @@ La présente définition exclut la société mutuelle, au sens de la [Loi sur le
 
 **Assimilation**
 
-<sup><a href='#A-10.1_fr-02'>[*]</a></sup>**10.1** 
+**10.1** 
 
-- **(1)** Le projet d’acquisition décrit dans la lettre du 21 décembre 1999 envoyée par la société 853350 Alberta Ltd. et Air Canada au ministre des Transports est réputé être une transaction agréée par le gouverneur en conseil au titre du paragraphe 56.2(6) de la [Loi sur les transports au Canada](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md) à la date d’entrée en vigueur de ce paragraphe.
-
-<a name='A-10.1_fr-02'><sup>*</sup></a>: [Note : Paragraphe 56.2(6) de la [Loi sur les transports au Canada](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md) en vigueur le 5 juillet 2000, *voir* TR/2000-59.]<br />
+- **(1)** Le projet d’acquisition décrit dans la lettre du 21 décembre 1999 envoyée par la société 853350 Alberta Ltd. et Air Canada au ministre des Transports est réputé être une transaction agréée par le gouverneur en conseil au titre du paragraphe 53.2(7) de la [Loi sur les transports au Canada](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md) à la date d’entrée en vigueur de ce paragraphe.
 
 **Assimilation**
 
-- **(2)** Les engagements pris envers le ministre des Transports par la société 853350 Alberta Ltd. et Air Canada dans la lettre mentionnée au paragraphe (1) sont réputés être des modalités de l’agrément visé au paragraphe 56.2(6) de la [Loi sur les transports au Canada](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md) portant sur des questions relatives aux transports nationaux et les engagements pris par elles envers le commissaire de la concurrence et figurant à l’annexe A de la lettre de celui-ci, datée du 21 décembre 1999, à l’égard du projet d’acquisition visé au paragraphe (1) sont réputés être des modalités de cet agrément portant sur l’éventuel empêchement ou diminution de la concurrence.
+- **(2)** Les engagements pris envers le ministre des Transports par la société 853350 Alberta Ltd. et Air Canada dans la lettre mentionnée au paragraphe (1) sont réputés être des conditions de l’agrément visé au paragraphe 53.2(7) de la [Loi sur les transports au Canada](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md) portant sur des questions relatives aux transports nationaux et les engagements pris par elles envers le commissaire de la concurrence et figurant à l’annexe A de la lettre de celui-ci, datée du 21 décembre 1999, à l’égard du projet d’acquisition visé au paragraphe (1) sont réputés être des conditions de cet agrément portant sur l’empêchement ou la diminution éventuels de la concurrence.
 
 **Présomption**
 
-- <sup><a href='#A-10.1_fr-03'>[*]</a></sup>**(3)** Pour l’application des articles 45 et 61 de la [Loi sur la concurrence](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-34.md), les sociétés Canadian Airlines Corporation, les Lignes aériennes Canadien International ltée et les Lignes aériennes Canadien Régional ltée sont réputées appartenir au groupe d’Air Canada à l’égard de tout ce qu’elles accomplissent après le 21 décembre 1999 et avant l’entrée en vigueur du présent paragraphe ou la cessation d’effet des engagements mentionnés au paragraphe (2), la première en date étant à retenir.
-
-<a name='A-10.1_fr-03'><sup>*</sup></a>: [Note : Paragraphe 10.1(3) en vigueur le 5 juillet 2000, *voir* TR/2000-59.]<br />
+- **(3)** Pour l’application des articles 45 et 61 de la [Loi sur la concurrence](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-34.md), les sociétés Canadian Airlines Corporation, les Lignes aériennes Canadien International ltée et les Lignes aériennes Canadien Régional ltée sont réputées appartenir au groupe d’Air Canada à l’égard de tout ce qu’elles accomplissent après le 21 décembre 1999 et avant l’entrée en vigueur du présent paragraphe ou la cessation d’effet des engagements mentionnés au paragraphe (2), la première en date étant à retenir.
 
 **Cessation d’effet des engagements**
 
-- **(4)** Le gouverneur en conseil peut, par décret, déclarer que la société 853350 Alberta Ltd. et Air Canada ne sont pas assujetties aux modalités mentionnées au paragraphe (2) si les engagements cessent d’avoir effet et ne reprennent pas effet dans les circonstances prévues :
+- **(4)** Le gouverneur en conseil peut, par décret, déclarer que la société 853350 Alberta Ltd. et Air Canada ne sont pas assujetties aux conditions mentionnées au paragraphe (2) si les engagements cessent d’avoir effet et ne reprennent pas effet dans les circonstances prévues :
 	- **a)** soit au paragraphe intitulé « Date d’effet » de la lettre mentionnée au paragraphe (1);
 	- **b)** soit à l’engagement #15 figurant dans l’annexe A mentionnée au paragraphe (2).
 
 **Effet du décret**
 
 - **(5)** La prise du décret visé au paragraphe (4) entraîne l’annulation de l’agrément visé au paragraphe (1) et la cessation d’effet de la certification visée à l’alinéa 94c) de la [Loi sur la concurrence](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-34.md) à l’égard de l’acquisition visée.
-> 2000, ch. 15, art. 19.
+> 2000, ch. 15, art. 19; 2007, ch. 19, art. 59.
 
 
 
