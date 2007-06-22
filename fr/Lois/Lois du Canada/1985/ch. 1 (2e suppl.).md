@@ -57,7 +57,7 @@
 
 ***Canada***[Abrogée, 1996, ch. 31, art. 73]
 
-***certificat d’origine*** Le formulaire réglementaire — prévu au paragraphe 35.1(1) et assujetti aux règlements d’application de l’alinéa 35.1(4) b) — de justification de l’origine de marchandises faisant l’objet d’une demande de traitement tarifaire préférentiel découlant d’un accord de libre-échange.
+***certificat d’origine*** Le formulaire réglementaire — prévu au paragraphe 35.1(1) et assujetti aux règlements d’application de l’alinéa 35.1(4)b) — de justification de l’origine de marchandises faisant l’objet d’une demande de traitement tarifaire préférentiel découlant d’un accord de libre-échange.
 
 ***Chili*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
 
@@ -79,7 +79,7 @@
 
 ***données*** Toute forme de représentation d’informations ou de notions.
 
-***droits*** Les droits ou taxes imposés, en vertu de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md), de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md), du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md)  ou de toute autre loi fédérale, sur les marchandises importées. En sont exclues, pour l’application du paragraphe 3(1), des alinéas 59(3) b ) et 65(1) b ), des articles 69 et 73 et des paragraphes 74(1), 75(2) et 76(1), les taxes imposées en vertu de la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md).
+***droits*** Les droits ou taxes imposés, en vertu de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md), de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md), du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) ou de toute autre loi fédérale, sur les marchandises importées. En sont exclues, pour l’application du paragraphe 3(1), des alinéas 59(3)b) et 65(1)b), des articles 69 et 73 et des paragraphes 74(1), 75(2) et 76(1), les taxes imposées en vertu de la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md).
 
 ***eaux intérieures***[Abrogée, 1996, ch. 31, art. 73]
 
@@ -137,6 +137,8 @@
 
 ***personne*** Particulier, société de personnes, personne morale, fiducie ou succession, ainsi que l’organisme qui est un syndicat, un club, une association, une commission ou autre organisation, ces notions étant visées dans des formulations générales, impersonnelles ou comportant des pronoms ou adjectifs indéfinis.
 
+***préparation assujettie à des restrictions*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md).
+
 ***président*** Le président de l’Agence, nommé en application du paragraphe 7(1) de la [Loi sur l’Agence des services frontaliers du Canada](/fr/Lois/Lois%20du%20Canada/2005/ch.%2038.md).
 
 ***produit du tabac*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md).
@@ -171,6 +173,8 @@
 ***traitement tarifaire préférentiel de l’ALÉCI*** Le bénéfice des taux de droits de douane du tarif de l’Accord Canada — Israël au titre du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
 
 ***traitement tarifaire préférentiel de l’ALÉNA*** Le bénéfice des taux de droits de douane du tarif des États-Unis, du tarif du Mexique ou du taux du tarif Mexique — États-Unis au titre du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
+
+***utilisateur agréé*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md).
 
 ***valeur en douane*** La valeur des marchandises déterminée conformément aux articles 45 à 56.
 
@@ -227,7 +231,7 @@
 **Délégation par le ministre du Revenu national**
 
 - **(6)** Le ministre du Revenu national peut autoriser toute personne employée par l’Agence du revenu du Canada ou par l’Agence, nommément ou au titre de son appartenance à une catégorie donnée, à exercer les pouvoirs et fonctions, y compris les pouvoirs et fonctions judiciaires ou quasi-judiciaires, qui lui sont conférés en vertu de la présente loi.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 2, ch. 41 (3<sup>e</sup> suppl.), art. 118; 1988, ch. 65, art. 66; 1990, ch. 45, art. 19; 1992, ch. 28, art. 1; 1993, ch. 25, art. 68, ch. 27, art. 213, ch. 44, art. 81; 1994, ch. 13, art. 7; 1995, ch. 15, art. 24, ch. 41, art. 1; 1996, ch. 31, art. 73, ch. 33, art. 28; 1997, ch. 14, art. 35, ch. 36, art. 147; 1998, ch. 19, art. 262; 1999, ch. 17, art. 123; 2001, ch. 25, art. 1, ch. 28, art. 26; 2002, ch. 22, art. 328; 2005, ch. 38, art. 60 et 145.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 2, ch. 41 (3<sup>e</sup> suppl.), art. 118; 1988, ch. 65, art. 66; 1990, ch. 45, art. 19; 1992, ch. 28, art. 1; 1993, ch. 25, art. 68, ch. 27, art. 213, ch. 44, art. 81; 1994, ch. 13, art. 7; 1995, ch. 15, art. 24, ch. 41, art. 1; 1996, ch. 31, art. 73, ch. 33, art. 28; 1997, ch. 14, art. 35, ch. 36, art. 147; 1998, ch. 19, art. 262; 1999, ch. 17, art. 123; 2001, ch. 25, art. 1, ch. 28, art. 26; 2002, ch. 22, art. 328; 2005, ch. 38, art. 60 et 145; 2007, ch. 18, art. 135.
 
 
 
@@ -3086,12 +3090,17 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 
 **Vente des marchandises retenues**
 
-- **(3)** Le ministre peut, sur préavis écrit de trente jours envoyé au débiteur à sa dernière adresse connue, ordonner la vente aux enchères publiques, par voie d’adjudication ou par le ministre des Travaux publics et des Services gouvernementaux conformément à la [Loi sur les biens de surplus de la Couronne](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-27.md) et sous réserve des règlements applicables, des marchandises importées ou déclarées pour l’exportation par ou pour le débiteur, ou tout moyen de transport, et retenues en vertu des paragraphes (1) et (2).
+- **(3)** Sous réserve des règlements applicables, le ministre peut, sur préavis écrit de trente jours envoyé au débiteur à sa dernière adresse connue, ordonner que toute marchandise importée ou déclarée pour l’exportation par ou pour le débiteur, ou tout moyen de transport, retenu en vertu des paragraphes (1) ou (2) soit vendu :
+	- **a)** s’il s’agit de spiritueux ou d’alcool spécialement dénaturé, à un titulaire de licence de spiritueux;
+	- **b)** s’il s’agit de vin, à un titulaire de licence de vin;
+	- **c)** s’il s’agit de tabac en feuilles ou d’un produit du tabac, à un titulaire de licence de tabac;
+	- **d)** s’il s’agit d’une préparation assujettie à des restrictions, à un utilisateur agréé;
+	- **e)** dans les autres cas, aux enchères publiques, par voie d’adjudication ou par le ministre des Travaux publics et des Services gouvernementaux conformément à la [Loi sur les biens de surplus de la Couronne](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-27.md).
 
 **Produit de la vente**
 
 - **(4)** Le produit de la vente est affecté au paiement des sommes dont le débiteur est redevable, des frais supportés par Sa Majesté du chef du Canada relativement aux marchandises vendues et des droits frappant celles-ci, le solde éventuel étant versé au débiteur.
-> 2001, ch. 25, art. 58.
+> 2001, ch. 25, art. 58; 2007, ch. 18, art. 136.
 
 
 
@@ -4580,8 +4589,8 @@ Cette pénalité est égale soit au double du total des droits qui seraient paya
 
 **Pas de restitution**
 
-- **(2)** Malgré le paragraphe (1), les spiritueux, le vin, l'alcool spécialement dénaturé, le tabac en feuilles et les produits du tabac qui sont saisis en vertu de la présente loi ne sont restitués au saisi ou à une autre personne que s'ils ont été saisis par erreur.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 117; 1995, ch. 41, art. 31; 1997, ch. 36, art. 185; 2002, ch. 22, art. 338.
+- **(2)** Malgré le paragraphe (1), les spiritueux, le vin, l’alcool spécialement dénaturé, les préparations assujetties à des restrictions, le tabac en feuilles et les produits du tabac qui sont saisis en vertu de la présente loi ne sont restitués au saisi ou à une autre personne que s’ils ont été saisis par erreur.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 117; 1995, ch. 41, art. 31; 1997, ch. 36, art. 185; 2002, ch. 22, art. 338; 2007, ch. 18, art. 137.
 
 
 
@@ -4630,7 +4639,8 @@ Cette pénalité est égale soit au double du total des droits qui seraient paya
 - **(1.1)** Sous réserve des règlements, les marchandises ci-après ne peuvent être vendues qu’aux personnes indiquées :
 	- **a)** spiritueux et alcool spécialement dénaturé : titulaires de licence de spiritueux;
 	- **b)** vin : titulaires de licence de vin;
-	- **c)** tabac en feuilles et produits du tabac : titulaires de licence de tabac.
+	- **c)** tabac en feuilles et produits du tabac : titulaires de licence de tabac;
+	- **d)** préparations assujetties à des restrictions : utilisateurs agréés.
 
 **Produit de la vente**
 
@@ -4641,7 +4651,7 @@ Cette pénalité est égale soit au double du total des droits qui seraient paya
 - **(3)** S’il est impossible de restituer des marchandises à une personne qui y aurait droit par ailleurs, il lui est versé la somme suivante :
 	- **a)** si les marchandises ont été vendues, le produit de la vente;
 	- **b)** sinon, la somme représentant la valeur des marchandises.
-> 1994, ch. 37, art. 9; 2002, ch. 22, art. 339.
+> 1994, ch. 37, art. 9; 2002, ch. 22, art. 339; 2007, ch. 18, art. 138.
 
 
 
@@ -5180,7 +5190,7 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 
 **142** 
 
-- **(1)** Sauf s'il s'agit de spiritueux, d'alcool spécialement dénaturé, de vin, de tabac en feuilles ou de produits du tabac, il est disposé des objets qui, en vertu de la présente loi, sont abandonnés au profit de Sa Majesté du chef du Canada ou confisqués à titre définitif :
+- **(1)** Sauf s’il s’agit de spiritueux, d’alcool spécialement dénaturé, de préparations assujetties à des restrictions, de vin, de tabac en feuilles ou de produits du tabac, il est disposé des objets qui, en vertu de la présente loi, sont abandonnés au profit de Sa Majesté du chef du Canada ou confisqués à titre définitif :
 	- **a)** par exportation, dans les cas où le ministre l’estime indiqué;
 	- **b)** selon les instructions du ministre, vente exclue, dans les cas où leur importation est prohibée ou lorsque celui-ci les estime impropres à la vente ou d’une valeur qui n’en justifie pas la vente;
 	- **c)** par vente aux enchères publiques, par voie d’adjudication ou par le ministre des Travaux publics et des Services gouvernementaux en application de la [Loi sur les biens de surplus de la Couronne](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-27.md), sous réserve des règlements applicables.
@@ -5188,7 +5198,7 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 **Suppression des droits**
 
 - **(2)** Les marchandises dont il est disposé conformément au paragraphe (1) cessent dès lors d’être frappées de droits.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 142; 1996, ch. 16, art. 60; 2002, ch. 22, art. 340.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 142; 1996, ch. 16, art. 60; 2002, ch. 22, art. 340; 2007, ch. 18, art. 139.
 
 
 
@@ -5198,15 +5208,16 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 
 **142.1** 
 
-- **(1)** Le ministre peut vendre ou détruire les spiritueux, l'alcool spécialement dénaturé, le vin, le tabac en feuilles ou les produits du tabac qui, en vertu de la présente loi, ont été abandonnés ou confisqués à titre définitif, ou autrement en disposer.
+- **(1)** Le ministre peut vendre ou détruire les spiritueux, l’alcool spécialement dénaturé, les préparations assujetties à des restrictions, le vin, le tabac en feuilles ou les produits du tabac qui, en vertu de la présente loi, ont été abandonnés ou confisqués à titre définitif, ou autrement en disposer.
 
 **Restriction**
 
-- **(2)** Sous réserve des règlements, les marchandises ci-après ne peuvent être vendues qu'aux personnes indiquées :
-	- **a) ** spiritueux et alcool spécialement dénaturé : titulaires de licence de spiritueux;
-	- **b) ** vin : titulaires de licence de vin;
-	- **c) ** tabac en feuilles et produits du tabac : titulaires de licence de tabac.
-> 2002, ch. 22, art. 341.
+- **(2)** Sous réserve des règlements, les marchandises ci-après ne peuvent être vendues qu’aux personnes indiquées :
+	- **a)** spiritueux et alcool spécialement dénaturé : titulaires de licence de spiritueux;
+	- **b)** vin : titulaires de licence de vin;
+	- **c)** tabac en feuilles et produits du tabac : titulaires de licence de tabac;
+	- **d)** préparations assujetties à des restrictions : utilisateurs agréés.
+> 2002, ch. 22, art. 341; 2007, ch. 18, art. 140.
 
 
 
@@ -5617,6 +5628,7 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 	- **g)** fixer le mode de vérification de la teneur alcoolique des vins, spiritueux et autres boissons alcoolisées en vue d’en déterminer le classement tarifaire;
 	- **h)** préciser, dans des cas ou catégories de cas donnés, le mode de réglementation du cabotage et, aux conditions qu’il estime indiquées, exempter les caboteurs de dispositions de la présente loi qu’il juge inopportun de leur appliquer;
 	- **h.1)** définir les termes qui s’entendent au sens du règlement selon une disposition de la présente loi;
+	- **h.2)** prévoir la vente d’alcool, de produits du tabac, de tabac en feuilles, d’alcool spécialement dénaturé ou de préparations assujetties à des restrictions retenus, saisis, abandonnés ou confisqués en vertu de la présente loi;
 	- **i)** prendre toute mesure d’ordre réglementaire prévue par une disposition de la présente loi;
 	- **j)** prendre toute mesure d’application de la présente loi.
 
@@ -5637,7 +5649,7 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 - **(2)** Le gouverneur en conseil peut, par règlement et sur recommandation du ministre des Finances, fixer un taux d’intérêt ou établir des règles de fixation d’un taux d’intérêt pour l’application d’une disposition de la présente loi.
 
 - **(3) et (4)** [Abrogés, 2001, ch. 25, art. 85]
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 164; 1988, ch. 65, art. 81; 1992, ch. 28, art. 30, ch. 31, art. 22; 1993, ch. 44, art. 108; 1994, ch. 47, art. 72; 1995, ch. 41, art. 36; 1996, ch. 33, art. 40; 1997, ch. 14, art. 47; 1998, ch. 19, art. 264; 2001, ch. 25, art. 85, ch. 28, art. 30.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 164; 1988, ch. 65, art. 81; 1992, ch. 28, art. 30, ch. 31, art. 22; 1993, ch. 44, art. 108; 1994, ch. 47, art. 72; 1995, ch. 41, art. 36; 1996, ch. 33, art. 40; 1997, ch. 14, art. 47; 1998, ch. 19, art. 264; 2001, ch. 25, art. 85, ch. 28, art. 30; 2007, ch. 18, art. 141.
 
 
 
