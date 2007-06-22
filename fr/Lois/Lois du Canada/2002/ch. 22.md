@@ -37,6 +37,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
+***accord international désigné*** La Convention concernant l’assistance administrative mutuelle en matière fiscale, conclue à Strasbourg le 25 janvier 1988, et ses modifications successives.
+
 ***administration des alcools*** Régie, commission ou organisme public autorisé par les lois d’une province à vendre des boissons enivrantes.
 
 ***Agence*** L’Agence du revenu du Canada, prorogée par le paragraphe 4(1) de la [Loi sur l’Agence du revenu du Canada](/fr/Lois/Lois%20du%20Canada/1999/ch.%2017.md).
@@ -71,7 +73,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***cigarette*** Comprend tout rouleau ou article de forme tubulaire destiné à être fumé qui n’est pas un cigare ou un bâtonnet de tabac. Chaque tranche de 76 mm d’une cigarette dépassant 102 mm de longueur, ainsi que la fraction restante, le cas échéant, compte pour une cigarette.
 
-***commerçant de tabac*** À l’exclusion du titulaire de licence de tabac, personne qui, sans en prendre matériellement possession, achète pour revente, vend ou offre en vente du tabac en feuilles sur lequel aucun droit n’est imposé en vertu de la présente loi.
+***commerçant de tabac*** À l’exclusion du titulaire de licence de tabac, personne qui achète pour revente, vend ou offre en vente du tabac en feuilles sur lequel aucun droit n’est imposé en vertu de la présente loi.
 
 ***commerçant de tabac agréé*** Titulaire de l’agrément de commerçant de tabac délivré en vertu de l’article 14.
 
@@ -143,7 +145,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***marché des marchandises acquittées*** Le marché des marchandises relativement auxquelles un droit, sauf le droit spécial, est exigible.
 
-***marquer*** Apposer, en la forme et selon les modalités autorisées par le ministre, une mention portant :
+***marquer*** Apposer, en la forme et selon les modalités prévues par règlement, une mention portant :
 - **a)** dans le cas d’un contenant spécial de spiritueux, qu’il est destiné :
 	- **(i)** soit à être livré à un utilisateur autorisé et à être utilisé par lui,
 	- **(ii)** soit à être livré à un centre de remplissage libre-service et à y être utilisé;
@@ -168,6 +170,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***préparation approuvée***
 - **a)** Produit à base d’alcool fabriqué par un utilisateur agréé conformément à une formule qu’il a fait approuver par le ministre;
 - **b)** produit importé qui, de l’avis du ministre, serait un produit visé à l’alinéa a) s’il était fabriqué au Canada par un utilisateur agréé.
+
+***préparation assujettie à des restrictions*** Préparation approuvée qui, en raison de la condition ou de la restriction que le ministre a imposée à son égard en vertu de l’article 143, est réservée à l’usage des utilisateurs agréés ou à l’exportation.
 
 ***préposé***
 - **a)** Toute personne nommée ou employée relativement à l’exécution ou au contrôle d’application de la présente loi;
@@ -204,8 +208,9 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 - **c)** le vinaigre;
 - **d)** l’alcool dénaturé;
 - **e)** l’alcool spécialement dénaturé;
-- **f)** une préparation approuvée;
-- **g)** un produit fabriqué à partir d’une matière ou d’une substance visée aux alinéas b) à f), ou contenant une telle matière ou substance, qui ne peut être consommé comme boisson.
+- **f)** l’huile de fusel ou d’autres déchets provenant du processus de distillation;
+- **g)** toute préparation approuvée;
+- **h)** tout produit fabriqué à partir d’une matière ou d’une substance visée aux alinéas b) à g), ou contenant une telle matière ou substance, qui ne peut être consommé comme boisson.
 
 ***tabac en feuilles*** Tabac non fabriqué, ou les feuilles et tiges de la plante.
 
@@ -244,7 +249,7 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 - **c)** boisson visée aux alinéas a) ou b) qui est fortifiée jusqu’à concurrence de 22,9 % d’alcool éthylique absolu par volume.
 
 ***vinerie libre-service*** Local d’un exploitant autorisé de vinerie libre-service que le ministre a désigné à titre de vinerie libre-service de l’exploitant.
-> 2002, ch. 22, art. 2; 2005, ch. 38, art. 92.
+> 2002, ch. 22, art. 2; 2005, ch. 38, art. 92; 2007, ch. 18, art. 67.
 
 
 
@@ -422,7 +427,7 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 - **(1)** Sous réserve des règlements, le ministre peut délivrer, sur demande :
 	- **a)** une licence de spiritueux, autorisant son titulaire à produire ou à emballer des spiritueux;
 	- **b)** une licence de vin, autorisant son titulaire à produire ou à emballer du vin;
-	- **c)** un agrément d’utilisateur, autorisant son titulaire à utiliser de l’alcool en vrac ou de l’alcool emballé non acquitté;
+	- **c)** un agrément d’utilisateur, autorisant son titulaire à utiliser de l’alcool en vrac, de l’alcool emballé non acquitté ou une préparation assujettie à des restrictions;
 	- **d)** une licence de tabac, autorisant son titulaire à fabriquer des produits du tabac;
 	- **e)** un agrément de commerçant de tabac, autorisant son titulaire à exercer les activités d’un commerçant de tabac.
 
@@ -432,7 +437,15 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 
 **Activité exclue**
 
-- **(3)** La personne qui est réputée avoir produit des spiritueux par l’effet du paragraphe 131(2) ne peut, de ce seul fait, obtenir la licence mentionnée à l’alinéa (1)a).
+- **(3)** Nul n’a droit à la licence mentionnée à l’alinéa (1)a) du seul fait, selon le cas :
+	- **a)** qu’il est réputé avoir produit des spiritueux par l’effet de l’article 131.2;
+	- **b)** qu’il a produit des spiritueux en vue ou par suite de l’analyse de la composition d’une substance contenant de l’alcool éthylique absolu.
+
+**Délivrance d’une licence de vin**
+
+- **(4)** Sous réserve des règlements, le ministre peut délivrer, à tout titulaire de licence de spiritueux et d’agrément d’utilisateur qui en fait la demande, une licence de vin l’autorisant à fortifier le vin.
+> 2002, ch. 22, art. 14; 2007, ch. 18, art. 68.
+
 
 
 
@@ -461,7 +474,9 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 
 **Autorisation — alcool**
 
-**17** Sous réserve des règlements, le ministre peut délivrer à la personne qui en fait la demande l’autorisation d’entreposer ou de transporter de l’alcool en vrac ou de l’alcool spécialement dénaturé.
+**17** Sous réserve des règlements, le ministre peut délivrer à la personne qui en fait la demande l’autorisation d’entreposer ou de transporter de l’alcool en vrac, de l’alcool spécialement dénaturé ou une préparation assujettie à des restrictions.
+> 2002, ch. 22, art. 17; 2007, ch. 18, art. 69.
+
 
 
 
@@ -487,7 +502,7 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 
 **19** 
 
-- **(1)** Sous réserve des règlements, le ministre peut délivrer, sur demande, l’agrément d’exploitant d’entrepôt d’accise à la personne qui n’est pas un vendeur au détail d’alcool l’autorisant à posséder dans son entrepôt d’accise de l’alcool emballé non acquitté ou des produits du tabac non estampillés.
+- **(1)** Sous réserve des règlements, le ministre peut délivrer, sur demande, l’agrément d’exploitant d’entrepôt d’accise à la personne qui n’est pas un vendeur au détail d’alcool l’autorisant à posséder dans son entrepôt d’accise de l’alcool emballé non acquitté ou des cigares ou du tabac fabriqué non estampillés.
 
 **Vendeurs au détail d’alcool admissibles**
 
@@ -495,6 +510,8 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 	- **a)** les titulaires de licence d’alcool;
 	- **b)** les administrations des alcools;
 	- **c)** les personnes qui fournissent des marchandises conformément au [Règlement sur les provisions de bord](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/96/40.md).
+> 2002, ch. 22, art. 19; 2007, ch. 18, art. 70.
+
 
 
 
@@ -507,7 +524,7 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 
 **20** 
 
-- **(1)** Sous réserve des règlements, le ministre peut délivrer, sur demande, l’agrément d’exploitant d’entrepôt d’accise spécial à la personne qui est autorisée par un titulaire de licence de tabac à être la seule personne, mis à part le titulaire de licence, à pouvoir distribuer à des représentants accrédités des produits du tabac fabriqués par le titulaire de licence.
+- **(1)** Sous réserve des règlements, le ministre peut délivrer, sur demande, l’agrément d’exploitant d’entrepôt d’accise spécial à la personne qui est autorisée par un titulaire de licence de tabac à être la seule personne, mis à part le titulaire de licence, à pouvoir distribuer à des représentants accrédités du tabac fabriqué, ou des cigares, fabriqués par le titulaire de licence.
 
 **Un agrément par personne**
 
@@ -516,21 +533,25 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 **Un local par agrément**
 
 - **(3)** Le ministre ne peut désigner plus d’un local d’un exploitant agréé d’entrepôt d’accise spécial à titre d’entrepôt d’accise spécial.
+> 2002, ch. 22, art. 20; 2007, ch. 18, art. 71.
 
 
 
 
-**Retour de produits du tabac**
+
+**Retour de tabac**
 
 **21** 
 
-- **(1)** Lorsqu’une personne cesse d’être autorisée par un titulaire de licence de tabac à distribuer à des représentants accrédités des produits du tabac fabriqués par le titulaire de licence, les règles suivantes s’appliquent :
-	- **a)** la personne doit aussitôt retourner les produits du tabac entreposés dans son entrepôt d’accise spécial à l’entrepôt d’accise du titulaire de licence;
+- **(1)** Si une personne cesse d’être autorisée par un titulaire de licence de tabac à distribuer à des représentants accrédités du tabac fabriqué, ou des cigares, fabriqués par le titulaire de licence, les règles suivantes s’appliquent :
+	- **a)** la personne doit aussitôt retourner le tabac ou les cigares entreposés dans son entrepôt d’accise spécial à l’entrepôt d’accise du titulaire de licence;
 	- **b)** le titulaire de licence doit aussitôt aviser le ministre par écrit que la personne a cessé d’être ainsi autorisée.
 
 **Révocation**
 
-- **(2)** Le ministre révoque l’agrément d’exploitant d’entrepôt d’accise spécial de la personne si elle n’est plus autorisée par quelque titulaire de licence de tabac que ce soit à distribuer des produits du tabac à des représentants accrédités.
+- **(2)** Le ministre révoque l’agrément d’exploitant d’entrepôt d’accise spécial de la personne si elle n’est plus autorisée par quelque titulaire de licence de tabac que ce soit à distribuer du tabac fabriqué ou des cigares à des représentants accrédités.
+> 2002, ch. 22, art. 21; 2007, ch. 18, art. 72.
+
 
 
 
@@ -577,6 +598,15 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 
 
 
+**[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
+
+**24.1** Il est entendu que les licences, agréments et autorisations délivrés en vertu de la présente loi ne sont pas des textes réglementaires pour l’application de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md).
+> 2007, ch. 18, art. 73.
+
+
+
+
+
 **PARTIE 3** 
 ## Tabac
 
@@ -598,11 +628,13 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 
 **Exceptions — fabrication à des fins personnelles**
 
-- **(3)** Il est permis au particulier non titulaire de licence de tabac de fabriquer des produits du tabac :
-	- **a)** à partir de tabac en feuilles emballé ou de tabac fabriqué emballé sur lequel le droit afférent a été acquitté, si les produits sont destinés à son usage personnel;
-	- **b)** à partir de tabac en feuilles cultivé sur le bien-fonds où il réside, si :
-		- **(i)** d’une part, les produits sont destinés à son usage personnel ou celui des membres de sa famille âgés de dix-huit ans ou plus qui résident avec lui,
+- **(3)** Il est permis au particulier non titulaire de licence de tabac de fabriquer du tabac fabriqué ou des cigares :
+	- **a)** à partir de tabac en feuilles emballé ou de tabac fabriqué emballé sur lesquels le droit afférent a été acquitté, si le tabac ou les cigares sont destinés à son usage personnel;
+	- **b)** à partir de tabac en feuilles cultivé sur le bien-fonds où il réside, si :
+		- **(i)** d’une part, le tabac ou les cigares sont destinés à son usage personnel ou à celui des membres de sa famille âgés de dix-huit ans ou plus qui résident avec lui,
 		- **(ii)** d’autre part, la quantité fabriquée au cours d’une année ne dépasse pas 15 kg pour chaque personne visée au sous-alinéa (i).
+> 2002, ch. 22, art. 25; 2007, ch. 18, art. 74.
+
 
 
 
@@ -634,8 +666,31 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 **Exceptions**
 
 - **(2)** Le paragraphe (1) ne s’applique pas au titulaire de licence de tabac qui sort de ses locaux :
-	- **a)** du tabac en feuilles pour le retourner au tabaculteur, le livrer à un autre titulaire de licence de tabac ou l’exporter;
+	- **a)** du tabac en feuilles pour :
+		- **(i)** le retourner au commerçant de tabac agréé ou au tabaculteur,
+		- **(ii)** le livrer à un autre titulaire de licence de tabac,
+		- **(iii)** l’exporter;
 	- **b)** du tabac partiellement fabriqué pour le livrer à un autre titulaire de licence de tabac ou l’exporter.
+> 2002, ch. 22, art. 28; 2007, ch. 18, art. 75.
+
+
+
+
+
+**Sortie illégale des locaux du commerçant de tabac**
+
+**28.1** 
+
+- **(1)** Il est interdit de sortir du tabac en feuilles des locaux du commerçant de tabac agréé.
+
+**Exception**
+
+- **(2)** Le paragraphe (1) ne s’applique pas au commerçant de tabac agréé qui sort du tabac en feuilles de ses locaux pour :
+	- **a)** le retourner au tabaculteur;
+	- **b)** le livrer à un autre commerçant de tabac agréé ou à un titulaire de licence de tabac;
+	- **c)** l’exporter.
+> 2007, ch. 18, art. 76.
+
 
 
 
@@ -659,11 +714,14 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 **Exceptions**
 
 - **(2)** Le paragraphe (1) ne s’applique pas :
-	- **a)** au titulaire de licence de tabac;
+	- **a)** au titulaire de licence de tabac ni au commerçant de tabac agréé;
 	- **b)** à la possession de tabac en feuilles :
 		- **(i)** dans un entrepôt de stockage ou un entrepôt d’attente par l’exploitant agréé,
-		- **(ii)** par un organisme établi par une loi provinciale de commercialisation du tabac en feuilles cultivé dans la province;
-	- **c)** à la vente, l’offre de vente ou l’achat de tabac en feuilles par un commerçant de tabac agréé.
+		- **(ii)** par un organisme établi par une loi provinciale de commercialisation du tabac en feuilles cultivé dans la province,
+		- **(iii)** par la personne visée par règlement qui transporte le tabac dans les circonstances et selon les modalités prévues par règlement.
+	- **c)** [Abrogé, 2007, ch. 18, art. 77]
+> 2002, ch. 22, art. 30; 2007, ch. 18, art. 77.
+
 
 
 
@@ -673,10 +731,12 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 **31** Le tabaculteur ne contrevient pas aux articles 26 ou 30 du seul fait qu’il fait le commerce ou a en sa possession :
 - **a)** du tabac en feuilles qu’il cultive sur sa propriété pour le vendre à un titulaire de licence de tabac ou à un commerçant de tabac agréé, ou en disposer autrement au profit d’un titulaire de licence de tabac, si le tabac est soit sur sa propriété, soit en cours de transport par ses soins :
 	- **(i)** relativement à son séchage,
-	- **(ii)** pour être livré à un titulaire de licence de tabac, ou retourné par lui,
+	- **(ii)** pour être livré à un titulaire de licence de tabac ou à un commerçant de tabac agréé, ou retourné par lui,
 	- **(iii)** pour être livré à un organisme établi par une loi provinciale de commercialisation du tabac en feuilles cultivé dans la province, ou retourné par lui;
 - **b)** du tabac en feuilles cultivé par une autre personne, si le tabaculteur exploite sur sa propriété un séchoir à tabac et que le tabac ne soit en sa possession qu’en vue d’être séché et aussitôt retourné à l’autre personne ou exporté en conformité avec l’alinéa c);
 - **c)** du tabac en feuilles destiné à l’exportation, si le tabaculteur a l’autorisation écrite du ministre et remplit les conditions que celui-ci estime indiquées.
+> 2002, ch. 22, art. 31; 2007, ch. 18, art. 78.
+
 
 
 
@@ -690,41 +750,46 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 **Exceptions — possession**
 
 - **(2)** Le paragraphe (1) ne s’applique pas à la possession de produits du tabac dans les cas suivants :
-	- **a)** ils sont en la possession d’un titulaire de licence de tabac et se trouvent au lieu de leur fabrication ou dans l’entrepôt d’accise du titulaire;
+	- **a)** ils sont en la possession d’un titulaire de licence de tabac et se trouvent au lieu de leur fabrication;
+	- **a.1)** s’agissant de tabac fabriqué ou de cigares, ils sont en la possession du titulaire de licence de tabac qui les a fabriqués et se trouvent dans son entrepôt d’accise;
 	- **b)** s’agissant de cigares ou de tabac fabriqué importé, ils sont en la possession d’un exploitant agréé d’entrepôt d’accise et se trouvent dans son entrepôt;
-	- **c)** ils sont en la possession d’un exploitant agréé d’entrepôt d’accise spécial, se trouvent dans son entrepôt et font partie des produits du tabac qu’il est autorisé, en vertu de la présente loi, à distribuer;
-	- **d)** ils sont en la possession d’une personne visée par règlement, qui les transportent dans les circonstances et selon les modalités prévues par règlement;
-	- **e)** s’agissant de produits du tabac importés, ils sont en la possession d’un exploitant agréé d’entrepôt de stockage ou d’un exploitant agréé d’entrepôt d’attente et se trouvent dans leur entrepôt;
+	- **c)** s’agissant de tabac fabriqué ou de cigares, ils sont en la possession d’un exploitant agréé d’entrepôt d’accise spécial — qui est autorisé, en vertu de la présente loi, à les distribuer — et se trouvent dans son entrepôt;
+	- **d)** s’agissant de produits du tabac importés, ils sont en la possession d’une personne visée par règlement, qui les transporte dans les circonstances et selon les modalités prévues par règlement;
+	- **d.1)** s’agissant de tabac fabriqué, ou de cigares, fabriqués au Canada, ils sont en la possession d’une personne visée par règlement, qui les transporte dans les circonstances et selon les modalités prévues par règlement;
+	- **e)** s’agissant de produits du tabac importés, ils sont en la possession d’un exploitant agréé d’entrepôt d’attente et se trouvent dans son entrepôt;
+	- **e.1)** s’agissant de cigares ou de tabac fabriqué importés, ils sont en la possession d’un exploitant agréé d’entrepôt de stockage et se trouvent dans son entrepôt;
 	- **f)** s’agissant de cigares, ils sont en la possession d’un exploitant agréé de boutique hors taxes et se trouvent dans sa boutique;
 	- **g)** s’agissant de tabac fabriqué importé, il est en la possession d’un exploitant agréé de boutique hors taxes qui est titulaire de l’agrément délivré en vertu de l’article 22 et se trouve dans sa boutique;
-	- **h)** ils sont en la possession d’un représentant accrédité, pour son usage personnel ou officiel;
+	- **h)** s’agissant de tabac fabriqué ou de cigares, ils sont en la possession d’un représentant accrédité, pour son usage personnel ou officiel;
 	- **i)** s’agissant de cigares ou de tabac fabriqué importé, ils sont en la possession d’une personne à titre de provisions de bord et leurs acquisition et possession par cette personne sont conformes au [Règlement sur les provisions de bord](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/96/40.md);
 	- **j)** ils sont en la possession d’un particulier qui les a importés pour son usage personnel, en quantités ne dépassant pas les limites fixées par règlement;
-	- **k)** ils sont en la possession d’un particulier qui les a fabriqués conformément au paragraphe 25(3).
+	- **k)** s’agissant de tabac fabriqué ou de cigares, ils sont en la possession du particulier qui les a fabriqués conformément au paragraphe 25(3).
 
 **Exceptions — vente ou offre de vente**
 
 - **(3)** Le paragraphe (1) ne s’applique pas dans les circonstances suivantes :
-	- **a)** un titulaire de licence de tabac vend ou offre en vente un produit du tabac qu’il exporte conformément à la présente loi;
+	- **a)** un titulaire de licence de tabac vend ou offre en vente du tabac fabriqué ou des cigares qu’il exporte conformément à la présente loi;
 	- **b)** un titulaire de licence de tabac vend ou offre en vente :
-		- **(i)** un produit du tabac à un exploitant agréé d’entrepôt d’accise spécial, si le produit fait partie des produits du tabac que celui-ci est autorisé, en vertu de la présente loi, à distribuer,
-		- **(ii)** un produit du tabac à un représentant accrédité, pour son usage personnel ou officiel,
+		- **(i)** du tabac fabriqué ou des cigares à l’exploitant agréé d’entrepôt d’accise spécial qui est autorisé, en vertu de la présente loi, à les distribuer,
+		- **(ii)** du tabac fabriqué ou des cigares à un représentant accrédité, pour son usage personnel ou officiel,
 		- **(iii)** des cigares à un exploitant agréé d’entrepôt d’accise, pour qu’ils soient livrés à titre de provisions de bord conformément au [Règlement sur les provisions de bord](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/96/40.md),
 		- **(iv)** des cigares à une boutique hors taxes, pour qu’ils soient vendus ou offerts en vente conformément à la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md),
 		- **(v)** des cigares à titre de provisions de bord conformément au [Règlement sur les provisions de bord](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/96/40.md);
-	- **c)** un exploitant agréé d’entrepôt d’accise spécial vend ou offre en vente un produit du tabac à un représentant accrédité, pour son usage personnel ou officiel, si le produit fait partie des produits du tabac que l’exploitant est autorisé, en vertu de la présente loi, à distribuer;
+	- **c)** un exploitant agréé d’entrepôt d’accise spécial vend ou offre en vente à un représentant accrédité, pour son usage personnel ou officiel, du tabac fabriqué ou des cigares que l’exploitant est autorisé, en vertu de la présente loi, à distribuer;
 	- **d)** un exploitant agréé d’entrepôt d’accise vend ou offre en vente, selon le cas :
-		- **(i)** un produit du tabac importé qu’il exporte conformément à la présente loi,
-		- **(ii)** un produit du tabac importé à un représentant accrédité, pour son usage personnel ou officiel, ou à une boutique hors taxes,
+		- **(i)** des cigares ou du tabac fabriqué importés qu’il exporte conformément à la présente loi,
+		- **(ii)** des cigares ou du tabac fabriqué importés à un représentant accrédité, pour son usage personnel ou officiel, ou à une boutique hors taxes,
 		- **(iii)** des cigares ou du tabac fabriqué importé, à titre de provisions de bord conformément au [Règlement sur les provisions de bord](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/96/40.md);
 	- **e)** un exploitant agréé de boutique hors taxes vend ou offre en vente des cigares conformément à la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md);
 	- **f)** un exploitant agréé de boutique hors taxes qui est titulaire de l’agrément délivré en vertu de l’article 22 vend ou offre en vente du tabac fabriqué importé conformément à la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md);
-	- **g)** un exploitant agréé d’entrepôt de stockage vend ou offre en vente un produit du tabac importé qu’il exporte conformément à la présente loi;
-	- **h)** un exploitant agréé d’entrepôt de stockage vend ou offre en vente un produit du tabac importé :
+	- **g)** un exploitant agréé d’entrepôt de stockage vend ou offre en vente des cigares ou du tabac fabriqué importés, qu’il exporte conformément à la présente loi;
+	- **h)** un exploitant agréé d’entrepôt de stockage vend ou offre en vente des cigares ou du tabac fabriqué importés :
 		- **(i)** soit à un représentant accrédité, pour son usage personnel ou officiel,
 		- **(ii)** soit à une boutique hors taxes, pour qu’il soit vendu ou offert en vente conformément à la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md),
 		- **(iii)** soit à titre de provisions de bord conformément au [Règlement sur les provisions de bord](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/96/40.md);
 	- **i)** une personne vend ou offre en vente des cigares ou du tabac fabriqué importé à titre de provisions de bord conformément au [Règlement sur les provisions de bord](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/96/40.md).
+> 2002, ch. 22, art. 32; 2007, ch. 18, art. 79.
+
 
 
 
@@ -761,9 +826,11 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 
 - **(2)** Le paragraphe (1) ne s’applique pas à ce qui suit :
 	- **a)** le tabac partiellement fabriqué qui est importé par un titulaire de licence de tabac pour une étape ultérieure de fabrication par lui;
-	- **b)** les produits du tabac qu’un titulaire de licence de tabac est autorisé à importer en vertu du paragraphe 41(2);
+	- **b)** le tabac fabriqué ou les cigares qu’un titulaire de licence de tabac est autorisé à importer en vertu du paragraphe 41(2);
 	- **c)** les produits du tabac qui sont importés par un particulier pour son usage personnel, en quantités ne dépassant pas les limites fixées par règlement;
-	- **d)** le tabac en feuilles qui est importé par un titulaire de licence de tabac.
+	- **d)** le tabac en feuilles qui est importé par un titulaire de licence de tabac ou par un commerçant de tabac agréé.
+> 2002, ch. 22, art. 35; 2007, ch. 18, art. 80.
+
 
 
 
@@ -775,9 +842,11 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 
 
 
-**Entreposage de produits du tabac non estampillés**
+**Entreposage de produits non estampillés**
 
-**37** Le titulaire de licence de tabac qui n’estampille pas un produit du tabac fabriqué au Canada doit aussitôt le déposer dans son entrepôt d’accise.
+**37** Le titulaire de licence de tabac qui n’estampille pas du tabac fabriqué, ou des cigares, fabriqués au Canada doit aussitôt les déposer dans son entrepôt d’accise.
+> 2002, ch. 22, art. 37; 2007, ch. 18, art. 81.
+
 
 
 
@@ -786,28 +855,30 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 
 **38** 
 
-- **(1)** Les contenants de produits du tabac ne peuvent être déposés dans un entrepôt d’accise que si les mentions obligatoires et autres mentions prévues par règlement y ont été imprimées ou apposées.
+- **(1)** Sous réserve des paragraphes (3) et (4), les contenants de tabac fabriqué ou de cigares ne peuvent être déposés dans un entrepôt d’accise que si les mentions obligatoires et autres mentions prévues par règlement y ont été imprimées ou apposées.
 
 **Mentions obligatoires — produits importés**
 
-- **(2)** Il est interdit de livrer des contenants de produits du tabac importés qui ne portent pas les mentions obligatoires et autres mentions prévues par règlement :
+- **(2)** Sous réserve du paragraphe (3), il est interdit de livrer des contenants de cigares ou de tabac fabriqué importés qui ne portent pas les mentions obligatoires et autres mentions prévues par règlement :
 	- **a)** à une boutique hors taxes pour les vendre ou les offrir en vente conformément à la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md);
 	- **b)** à un représentant accrédité;
 	- **c)** à un entrepôt de stockage.
 
-**Exception — produits du tabac visés par règlement**
+**Exception — tabac fabriqué visé par règlement**
 
-- **(3)** Les paragraphes (1) et (2) ne s’appliquent pas aux produits du tabac d’une appellation commerciale qui n’est pas habituellement vendue au Canada et qui est visée par le règlement.
+- **(3)** Les mentions obligatoires n’ont pas à être imprimées ou apposées sur les contenants de tabac fabriqué d’une appellation commerciale qui n’est pas habituellement vendue au Canada et qui est visée par règlement.
 
 **Exception — cigarettes visées par règlement**
 
-- **(4)** Le paragraphe (1) ne s’applique pas aux cigarettes d’un type donné ou d’une composition donnée qui sont fabriquées au Canada puis exportées sous une appellation commerciale qui est également celle de cigarettes d’un type différent ou d’une composition différente, fabriquées et vendues au Canada, si les cigarettes du type donné ou de la composition donnée, à la fois :
+- **(4)** Les mentions obligatoires n’ont pas à être imprimées ou apposées sur les contenants de cigarettes d’un type donné ou d’une composition donnée qui sont fabriquées au Canada puis exportées sous une appellation commerciale qui est également celle de cigarettes d’un type différent ou d’une composition différente, fabriquées et vendues au Canada, si les cigarettes du type donné ou de la composition donnée, à la fois :
 	- **a)** sont visées par règlement lorsqu’elles sont exportées sous l’appellation en question;
 	- **b)** n’ont jamais été vendues au Canada sous cette appellation ou sous une autre.
 
 **Distinction entre les cigarettes**
 
 - **(5)** Pour l’application du paragraphe (4), la cigarette d’un type donné ou d’une composition donnée vendue sous une appellation commerciale donnée peut être considérée comme différente d’une autre cigarette vendue sous la même appellation s’il est raisonnable de la considérer ainsi compte tenu des propriétés physiques de l’une et l’autre avant et pendant la consommation.
+> 2002, ch. 22, art. 38; 2007, ch. 18, art. 82.
+
 
 
 
@@ -840,7 +911,9 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 
 **Importation de tabac pour nouvelle façon ou destruction**
 
-- **(2)** Le ministre peut autoriser le titulaire de licence de tabac à importer, pour nouvelle façon ou destruction par ce dernier conformément au paragraphe (1), des produits du tabac qu’il a fabriqués au Canada.
+- **(2)** Le ministre peut autoriser le titulaire de licence de tabac à importer, pour nouvelle façon ou destruction par ce dernier conformément au paragraphe (1), du tabac fabriqué, ou des cigares, qu’il a fabriqués au Canada.
+> 2002, ch. 22, art. 41; 2007, ch. 18, art. 83.
+
 
 
 
@@ -897,7 +970,9 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 
 **Exonération — tabac en feuilles**
 
-**46** Le tabac en feuilles qui est importé par un titulaire de licence de tabac pour fabrication par lui est exonéré du droit imposé en vertu de l’article 42.
+**46** Le tabac en feuilles qui est importé par un titulaire de licence de tabac ou par un commerçant de tabac agréé est exonéré du droit imposé en vertu de l’article 42.
+> 2002, ch. 22, art. 46; 2007, ch. 18, art. 84.
+
 
 
 
@@ -935,9 +1010,9 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 
 - **(1)** Les définitions qui suivent s’appliquent au présent article.
 
-***tabac de marque étrangère*** Tabac fabriqué qui, par l’effet de l’article 58, est exonéré du droit spécial imposé en vertu de l’article 56.
+***tabac de marque étrangère*** Tabac fabriqué qui, par l’effet de l’article 58, est exonéré du droit spécial imposé en vertu de l’article 56. (*foreign brand tobacco*)
 
-***tabac fabriqué canadien*** Tabac fabriqué qui est fabriqué au Canada, à l’exclusion du tabac partiellement fabriqué et du tabac de marque étrangère.
+***tabac fabriqué canadien*** Tabac fabriqué qui est fabriqué au Canada, à l’exclusion du tabac partiellement fabriqué et du tabac de marque étrangère. (*Canadian manufactured tobacco*)
 
 **Catégories de tabac fabriqué canadien**
 
@@ -948,7 +1023,7 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 
 **Sortie interdite**
 
-- **(3)** Il est interdit de sortir d’un entrepôt d’accise ou d’un entrepôt d’accise spécial des produits du tabac fabriqués au Canada.
+- **(3)** Il est interdit de sortir d’un entrepôt d’accise ou d’un entrepôt d’accise spécial du tabac fabriqué, ou des cigares, fabriqués au Canada.
 
 **Exceptions — tabac fabriqué canadien**
 
@@ -985,36 +1060,42 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 
 **Sortie d’entrepôt pour nouvelle façon ou destruction**
 
-- **(10)** Sous réserve des règlements, les produits du tabac fabriqués au Canada peuvent être sortis de l’entrepôt d’accise du titulaire de licence de tabac qui les a fabriqués en vue d’être façonnés de nouveau ou détruits par lui conformément à l’article 41.
+- **(10)** Sous réserve des règlements, le tabac fabriqué, ou les cigares, fabriqués au Canada peuvent être sortis de l’entrepôt d’accise du titulaire de licence de tabac qui les a fabriqués en vue d’être façonnés de nouveau ou détruits par lui conformément à l’article 41.
 
 **Sortie d’un entrepôt d’accise spécial — représentants accrédités**
 
 - **(11)** Sous réserve des règlements, le tabac fabriqué canadien et les cigares peuvent être sortis d’un entrepôt d’accise spécial en vue d’être livrés à un représentant accrédité, pour son usage personnel ou officiel, si l’exploitant agréé d’entrepôt d’accise spécial est autorisé, en vertu de la présente loi, à les distribuer.
+> 2002, ch. 22, art. 50; 2007, ch. 18, art. 85.
 
 
 
 
-**Sortie de produits du tabac importés**
+
+**Sortie de tabac importé**
 
 **51** 
 
-- **(1)** Il est interdit de sortir d’un entrepôt d’accise des produits du tabac importés.
+- **(1)** Il est interdit de sortir d’un entrepôt d’accise des cigares ou du tabac fabriqué importés.
 
 **Exceptions**
 
-- **(2)** Sous réserve des règlements, les produits du tabac importés peuvent être sortis d’un entrepôt d’accise aux fins suivantes :
+- **(2)** Sous réserve des règlements, les cigares et le tabac fabriqué importés peuvent être sortis d’un entrepôt d’accise aux fins suivantes :
 	- **a)** leur livraison à un autre entrepôt d’accise;
 	- **b)** leur livraison à un représentant accrédité, pour son usage personnel ou officiel;
 	- **c)** leur livraison à titre de provisions de bord conformément au [Règlement sur les provisions de bord](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/96/40.md);
 	- **d)** leur livraison à une boutique hors taxes pour vente ou offre de vente conformément à la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md);
 	- **e)** leur exportation par l’exploitant agréé d’entrepôt d’accise conformément à la présente loi.
+> 2002, ch. 22, art. 51; 2007, ch. 18, art. 86.
+
 
 
 
 
 **Restriction — entrepôt d’accise spécial**
 
-**52** Il est interdit à l’exploitant agréé d’entrepôt d’accise spécial d’entreposer dans son entrepôt, autrement que pour les vendre et les distribuer à un représentant accrédité pour son usage personnel ou officiel, des produits du tabac fabriqués au Canada.
+**52** Il est interdit à l’exploitant agréé d’entrepôt d’accise spécial d’entreposer dans son entrepôt, autrement que pour les vendre et les distribuer à un représentant accrédité pour son usage personnel ou officiel, du tabac fabriqué, ou des cigares, fabriqués au Canada.
+> 2002, ch. 22, art. 52; 2007, ch. 18, art. 87.
+
 
 
 
@@ -1225,6 +1306,15 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 
 
 
+**Importations — administration provinciale**
+
+**59.1** L’alcool qui est importé dans les circonstances visées au paragraphe 3(1) de la [Loi sur l’importation des boissons enivrantes](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-3.md) est réputé, pour l’application de la présente loi et du paragraphe 21.2(3) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md), avoir été importé par la personne qui en aurait été l’importateur en l’absence de ce paragraphe 3(1) et non par Sa Majesté du chef d’une province ou une administration des alcools.
+> 2007, ch. 18, art. 88.
+
+
+
+
+
 **Interdiction — production et emballage de spiritueux**
 
 **60** 
@@ -1233,7 +1323,11 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 
 **Exception**
 
-- **(2)** Le paragraphe (1) ne s’applique pas à l’emballage de spiritueux effectué par un acheteur, à partir d’un contenant spécial marqué, dans un centre de remplissage libre-service.
+- **(2)** Le paragraphe (1) ne s’applique pas :
+	- **a)** à l’emballage de spiritueux effectué par un acheteur, à partir d’un contenant spécial marqué, dans un centre de remplissage libre-service;
+	- **b)** à la production de spiritueux en vue ou par suite de l’analyse de la composition d’une substance contenant de l’alcool éthylique absolu.
+> 2002, ch. 22, art. 60; 2007, ch. 18, art. 89.
+
 
 
 
@@ -1242,7 +1336,10 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 
 **61** Il est interdit de posséder un alambic ou autre matériel pouvant servir à la production de spiritueux dans l’intention de produire des spiritueux, à moins :
 - **a)** d’être titulaire d’une licence de spiritueux;
-- **b)** d’avoir présenté une demande de licence de spiritueux, qui est pendante.
+- **b)** d’avoir présenté une demande de licence de spiritueux, qui est pendante;
+- **c)** de posséder l’alambic ou le matériel dans le seul but de produire des spiritueux en vue ou par suite de l’analyse de la composition d’une substance contenant de l’alcool éthylique absolu.
+> 2002, ch. 22, art. 61; 2007, ch. 18, art. 90.
+
 
 
 
@@ -1259,6 +1356,15 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 	- **a)** à la production de vin par un particulier, pour son usage personnel;
 	- **b)** à l’emballage du vin visé à l’alinéa a) par un particulier, pour son usage personnel;
 	- **c)** à l’emballage de vin effectué par un acheteur, à partir d’un contenant spécial marqué, dans un centre de remplissage libre-service.
+
+
+
+
+**Interdiction — fortification du vin**
+
+**62.1** Il est interdit d’utiliser des spiritueux en vrac pour fortifier le vin en vrac, sauf dans la mesure permise selon l’article 130.
+> 2007, ch. 18, art. 91.
+
 
 
 
@@ -1286,12 +1392,14 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 
 **Application — alcool en transit et transbordé**
 
-**66** Les articles 67 à 72, 74, 76, 80, 85, 88, 97 à 100 et 102 ne s’appliquent ni à l’alcool importé ni à l’alcool spécialement dénaturé importé qui font l’objet de l’une des opérations suivantes conformément à la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md), au [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) et à leurs règlements :
+**66** Les articles 67 à 72, 75, 76, 80, 85, 88, 97 à 100 et 102 ne s’appliquent ni à l’alcool importé ni à l’alcool spécialement dénaturé importé qui font l’objet de l’une des opérations suivantes conformément à la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md), au [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) et à leurs règlements :
 - **a)** ils sont transportés entre deux endroits à l’étranger par un transporteur cautionné;
 - **b)** ils sont entreposés dans un entrepôt de stockage, ou dans un entrepôt d’attente, en vue d’être livrés à un endroit à l’étranger;
 - **c)** ils sont transportés par un transporteur cautionné :
 	- **(i)** soit d’un endroit à l’étranger à un entrepôt de stockage, ou à un entrepôt d’attente, en vue d’être livrés à un endroit à l’étranger,
 	- **(ii)** soit d’un entrepôt de stockage ou d’un entrepôt d’attente à un endroit à l’étranger.
+> 2002, ch. 22, art. 66; 2007, ch. 18, art. 92.
+
 
 
 
@@ -1355,10 +1463,13 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 	- **a)** le titulaire de licence de spiritueux ou l’utilisateur agréé qui possède des spiritueux en vrac qui ont été produits ou importés par un titulaire de licence de spiritueux;
 	- **b)** le titulaire de licence de vin ou l’utilisateur agréé qui possède du vin en vrac qui a été produit ou importé par un titulaire de licence de vin;
 	- **c)** l’utilisateur agréé qui possède de l’alcool en vrac qu’il a importé;
+	- **c.1)** la personne qui, ayant produit des spiritueux en vrac en vue ou par suite de l’analyse de la composition d’une substance contenant de l’alcool éthylique absolu, possède ces spiritueux pendant la période d’analyse;
 	- **d)** le détenteur autorisé d’alcool qui possède, en vue de son entreposage ou transport, de l’alcool en vrac qui a été produit ou importé par un titulaire de licence d’alcool ou importé par un utilisateur agréé;
 	- **e)** l’exploitant agréé d’entrepôt d’attente qui possède dans son entrepôt de l’alcool en vrac qui a été importé par une personne autorisée en vertu de la présente loi;
 	- **f)** l’exploitant autorisé de vinerie libre-service qui possède du vin en vrac qu’un particulier a produit, pour son usage personnel, dans la vinerie de l’exploitant;
 	- **g)** le particulier qui possède moins de 500 L de vin en vrac qui a été légalement produit dans une résidence ou une vinerie libre-service pour l’usage personnel d’un particulier.
+> 2002, ch. 22, art. 70; 2007, ch. 18, art. 93.
+
 
 
 
@@ -1389,33 +1500,39 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 - **a)** son utilisation dans une préparation approuvée;
 - **b)** son utilisation dans un procédé au moyen duquel l’alcool éthylique absolu est détruit dans la mesure approuvée par le ministre;
 - **c)** son utilisation dans la production de vinaigre;
-- **d)** son utilisation en conformité avec les articles 130 ou 131;
+- **d)** son utilisation en conformité avec les articles 130, 131 ou 131.1;
 - **e)** son retour :
 	- **(i)** s’il s’agit d’alcool retourné dans les circonstances visées aux alinéas 105(1)a) ou 114(1)a), au titulaire de licence mentionné à ces alinéas,
 	- **(ii)** sinon, au titulaire de licence d’alcool qui l’a fourni;
 - **f)** sous réserve de l’article 76, son exportation;
 - **g)** son utilisation à des fins d’analyse de la manière approuvée par le ministre;
 - **h)** sa destruction de la manière approuvée par le ministre.
+> 2002, ch. 22, art. 73; 2007, ch. 18, art. 94.
+
+
+
+
+
+**Disposition — spiritueux en vrac**
+
+**74** Quiconque possède des spiritueux en vrac produits en vue ou par suite de l’analyse de la composition d’une substance contenant de l’alcool éthylique absolu est tenu de les détruire ou d’en disposer, aussitôt l’analyse achevée, de la manière approuvée par le ministre.
+> 2002, ch. 22, art. 74; 2007, ch. 18, art. 95.
+
 
 
 
 
 **Importation — spiritueux en vrac**
 
-**74** 
+**75** 
 
 - **(1)** Il est interdit d’importer des spiritueux en vrac sans être titulaire de licence de spiritueux, utilisateur agréé ou, si les spiritueux sont dans un contenant spécial, exploitant agréé d’entrepôt d’accise qui agit conformément à l’article 80.
 
 **Importation — vin en vrac**
 
 - **(2)** Il est interdit d’importer du vin en vrac sans être titulaire de licence de vin, utilisateur agréé ou, si le vin est dans un contenant spécial, exploitant agréé d’entrepôt d’accise qui agit conformément à l’article 85.
+> 2002, ch. 22, art. 75; 2007, ch. 18, art. 95.
 
-
-
-
-**Importations — administration provinciale**
-
-**75** L’alcool en vrac qui est importé dans les circonstances visées au paragraphe 3(1) de la [Loi sur l’importation des boissons enivrantes](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-3.md) est réputé, pour l’application de la présente loi, avoir été importé par la personne qui en aurait été l’importateur en l’absence de ce paragraphe et non par Sa Majesté du chef d’une province ou une administration des alcools.
 
 
 
@@ -1575,7 +1692,9 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 		- **(v)** toute personne, à titre de provisions de bord, à condition que l’acquisition et la possession de l’alcool par la personne soient conformes au [Règlement sur les provisions de bord](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/96/40.md);
 	- **f)** si l’alcool est importé en vue d’être fourni à un transporteur aérien à qui une licence pour l’exploitation d’un service aérien international a été délivrée conformément aux articles 69 ou 73 de la [Loi sur les transports au Canada](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md), un exploitant agréé d’entrepôt de stockage, dans son entrepôt;
 	- **g)** si l’alcool est importé par un particulier conformément à la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) et au [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) pour son usage personnel, un particulier;
-	- **h)** si l’alcool consiste en vin qui est produit et emballé par un particulier pour son usage personnel, un particulier.
+	- **h)** si l’alcool consiste en vin qui est produit et emballé par un particulier pour son usage personnel, un particulier;
+	- **i)** si l’alcool consiste en vin visé aux alinéas 135(2)a) ou b), toute personne;
+	- **j)** si l’alcool consiste en vin produit ou emballé par un titulaire de licence de vin qui a été sorti de l’entrepôt d’accise de celui-ci en vue d’être offert gratuitement à des particuliers sous forme d’échantillon à consommer là où le titulaire produit ou emballe du vin, le titulaire ou ces particuliers, à cet endroit.
 
 **Exceptions — contenants spéciaux**
 
@@ -1584,6 +1703,8 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 	- **b)** la personne visée par règlement qui transporte l’alcool dans les circonstances et selon les modalités prévues par règlement;
 	- **c)** si le contenant est importé, un exploitant agréé d’entrepôt d’attente, dans son entrepôt;
 	- **d)** s’il s’agit d’un contenant spécial de spiritueux qui est marqué de façon à indiquer qu’il est destiné à être livré à un utilisateur autorisé et à être utilisé par lui, un utilisateur autorisé, pour utilisation conformément à son autorisation.
+> 2002, ch. 22, art. 88; 2007, ch. 18, art. 96 et 157.
+
 
 
 
@@ -1644,6 +1765,28 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 **Retrait de vin d’un contenant retourné**
 
 - **(2)** Si l’exploitant d’un centre de remplissage libre-service retourne un contenant spécial de vin marqué à l’exploitant agréé d’entrepôt d’accise qui le lui a fourni, ce dernier peut retirer le vin du contenant en vue de le détruire de la manière approuvée par le ministre.
+
+
+
+
+### Préparations assujetties à des restrictions
+
+
+
+**Restriction — utilisateur agréé**
+
+**93.1** Il est interdit à l’utilisateur agréé d’utiliser une préparation assujettie à des restrictions, ou d’en disposer, d’une manière non conforme aux conditions ou restrictions imposées par le ministre selon l’article 143.
+> 2007, ch. 18, art. 97.
+
+
+
+
+
+**Interdiction — possession d’une préparation assujettie à des restrictions**
+
+**93.2** Il est interdit à quiconque n’est pas utilisateur agréé ou détenteur autorisé d’alcool de posséder une préparation assujettie à des restrictions.
+> 2007, ch. 18, art. 97.
+
 
 
 
@@ -1927,6 +2070,15 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 
 **Fin de la responsabilité**
 
+**117.1** Dans le cas où du vin en vrac sert à produire des spiritueux en vrac, le titulaire de licence de vin ou l’utilisateur agréé qui était responsable du vin avant qu’il ne serve à produire les spiritueux cesse d’en être responsable au moment de la production des spiritueux.
+> 2007, ch. 18, art. 98.
+
+
+
+
+
+**Fin de la responsabilité**
+
 **118** La personne qui est responsable de vin en vrac cesse d’en être responsable dans les cas suivants :
 - **a)** le vin est utilisé pour soi et le droit afférent est acquitté;
 - **b)** il est utilisé pour soi dans une préparation approuvée;
@@ -2072,13 +2224,37 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 
 **Mélange de vin et de spiritueux**
 
-**131** 
+**131** L’utilisateur agréé qui est également titulaire de licence de spiritueux peut mélanger du vin en vrac avec des spiritueux pour obtenir des spiritueux.
+> 2002, ch. 22, art. 131; 2007, ch. 18, art. 99.
 
-- **(1)** L’utilisateur agréé qui est également titulaire de licence de spiritueux peut mélanger du vin en vrac avec des spiritueux pour obtenir des spiritueux.
 
-**Mélange assimilé à la production de spiritueux**
 
-- **(2)** Les spiritueux obtenus sont réputés être produits au moment du mélange, et les spiritueux ayant été mélangés avec le vin sont exonérés du droit imposé en vertu de l’article 122 ou perçu en vertu de l’article 21.1 du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
+
+
+**Production de spiritueux à partir de vin**
+
+**131.1** L’utilisateur agréé qui est également titulaire de licence de spiritueux peut utiliser du vin en vrac pour produire des spiritueux.
+> 2007, ch. 18, art. 99.
+
+
+
+
+
+**Production de spiritueux — vin**
+
+**131.2** 
+
+- **(1)** Dans le cas où des spiritueux sont obtenus du mélange de vin et de spiritueux en vrac :
+	- **a)** les spiritueux mélangés avec le vin sont exonérés du droit imposé en vertu de l’article 122 ou en vertu de l’article 21.1 du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md);
+	- **b)** les spiritueux obtenus du mélange sont réputés être produits au moment du mélange.
+
+**Production de spiritueux — autres substances**
+
+- **(2)** Dans le cas où des spiritueux sont obtenus du mélange de spiritueux en vrac ou de vin en vrac et d’une matière ou substance, autre que des spiritueux ou du vin, contenant de l’alcool éthylique absolu :
+	- **a)** les spiritueux mélangés avec la matière ou substance sont exonérés du droit imposé en vertu de l’article 122 ou en vertu de l’article 21.1 du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md);
+	- **b)** les spiritueux obtenus du mélange sont réputés être produits au moment du mélange.
+> 2007, ch. 18, art. 99.
+
 
 
 
@@ -2148,7 +2324,9 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 - **(2)** Le paragraphe (1) ne s’applique pas :
 	- **a)** au vin produit au Canada qui est composé entièrement de produits agricoles ou végétaux cultivés au Canada;
 	- **a.1)** au vin produit et emballé par un particulier pour son usage personnel;
-	- **b)** au vin produit par un titulaire de licence de vin et emballé par lui au cours d’un de ses mois d’exercice, si ses ventes de produits qui sont assujettis au droit prévu au paragraphe (1), ou qui l’auraient été en l’absence du présent paragraphe, au cours des douze mois précédant ce mois n’ont pas dépassé 50 000 $.
+	- **b)** au vin produit par un titulaire de licence de vin et emballé par ou pour lui au cours d’un mois d’exercice si :
+		- **(i)** d’une part, ses ventes totales de produits qui ont été assujettis au droit prévu au paragraphe (1), ou qui l’auraient été en l’absence du présent paragraphe, au cours de l’exercice terminé avant le mois en cause n’ont pas dépassé 50 000 $,
+		- **(ii)** d’autre part, ses ventes totales des mêmes produits pour la partie de l’exercice comprenant le mois en cause qui est antérieure à ce mois n’ont pas dépassé 50 000 $.
 
 **Moment de l’imposition**
 
@@ -2161,7 +2339,7 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 **Droit exigible de l’exploitant agréé d’entrepôt d’accise**
 
 - **(5)** Dans le cas où un exploitant agréé d’entrepôt d’accise devient redevable, en vertu de l’article 140, du droit sur le vin, la personne tenue de payer ce droit en vertu du paragraphe (4) cesse d’en être redevable.
-> 2002, ch. 22, art. 135; 2007, ch. 2, art. 57.
+> 2002, ch. 22, art. 135; 2007, ch. 2, art. 57, ch. 18, art. 100.
 
 
 
@@ -2169,7 +2347,19 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 
 **Droit exigible à la sortie de l’entrepôt**
 
-**136** Le droit sur le vin emballé qui est sorti d’un entrepôt d’accise en vue de son entrée dans le marché des marchandises acquittées est exigible, au moment de la sortie, de l’exploitant agréé d’entrepôt d’accise.
+**136** 
+
+- **(1)** Sous réserve du paragraphe (2), le droit sur le vin emballé qui est sorti d’un entrepôt d’accise en vue de son entrée dans le marché des marchandises acquittées est exigible au moment de la sortie et est payable par l’exploitant agréé d’entrepôt d’accise.
+
+**Sortie pour vente en consignation**
+
+- **(2)** Le vin emballé que le petit titulaire de licence de vin a produit ou emballé puis sorti de son entrepôt d’accise pour le livrer, en vue de sa vente en consignation, à un magasin de vente au détail qui est exploité pour le compte de plusieurs petits titulaires de licence de vin et qui n’est pas situé dans les locaux d’un titulaire de licence de vin est réputé être sorti de l’entrepôt en vue de son entrée dans le marché des marchandises acquittées au moment de sa vente.
+
+**Sens de petit titulaire de licence de vin**
+
+- **(3)** Pour l’application du présent article, est un petit titulaire de licence de vin au cours d’un exercice le titulaire de licence de vin qui a vendu au plus 60 000 litres de vin au cours de l’exercice précédent.
+> 2002, ch. 22, art. 136; 2007, ch. 18, art. 101.
+
 
 
 
@@ -2187,12 +2377,15 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 
 - **(1)** Un droit est exigible sur le vin emballé non acquitté qu’un exploitant agréé d’entrepôt d’accise ou un utilisateur agréé a reçu, mais dont il ne peut rendre compte :
 	- **a)** comme se trouvant, selon le cas, dans son entrepôt ou son local déterminé;
+	- **a.1)** comme se trouvant, s’il s’agit de vin emballé visé au paragraphe 136(2), dans le magasin mentionné à ce paragraphe;
 	- **b)** comme ayant été sorti, utilisé ou détruit conformément à la présente loi;
 	- **c)** comme ayant été perdu dans les circonstances prévues par règlement, si l’exploitant ou l’utilisateur remplit toute condition prévue par règlement.
 
 **Moment du paiement**
 
 - **(2)** Le droit est exigible de l’exploitant ou de l’utilisateur au moment où il ne peut être rendu compte du vin.
+> 2002, ch. 22, art. 138; 2007, ch. 18, art. 102.
+
 
 
 
@@ -2283,11 +2476,14 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 - **(2)** Le droit n’est pas exigible sur l’alcool emballé non acquitté qui est, selon le cas :
 	- **a)** utilisé à des fins d’analyse par un exploitant agréé d’entrepôt d’accise ou un utilisateur agréé, de la manière approuvée par le ministre;
 	- **b)** détruit par un exploitant agréé d’entrepôt d’accise ou un utilisateur agréé, de la manière approuvée par le ministre;
-	- **c)** utilisé par un utilisateur agréé dans un procédé au moyen duquel l’alcool éthylique absolu est détruit dans la mesure approuvée par le ministre.
+	- **c)** utilisé par un utilisateur agréé dans un procédé au moyen duquel l’alcool éthylique absolu est détruit dans la mesure approuvée par le ministre;
+	- **d)** s’agissant de vin, utilisé pour soi par l’exploitant agréé d’entrepôt d’accise qui est aussi le titulaire de licence de vin ayant produit ou emballé le vin, lequel est offert gratuitement à des particuliers sous forme d’échantillon à consommer là où le titulaire produit ou emballe du vin.
 
 **Droit non exigible — analyse ou destruction**
 
 - **(3)** Le droit n’est pas exigible sur l’alcool en vrac ou sur l’alcool emballé non acquitté qui est utilisé à des fins d’analyse ou détruit par le ministre.
+> 2002, ch. 22, art. 145; 2007, ch. 18, art. 103.
+
 
 
 
@@ -2332,6 +2528,12 @@ où :
 **Droit non exigible — contenant spécial de vin**
 
 - **(3)** Le droit n’est pas exigible sur le vin importé dans un contenant spécial marqué qui est sorti d’un entrepôt d’accise en vue d’être exporté par l’exploitant agréé d’entrepôt d’accise conformément à la présente loi.
+
+**Droit non exigible — échantillons de vin**
+
+- **(4)** Le droit n’est pas exigible sur le vin emballé non acquitté, sauf s’il s’agit de vin se trouvant dans un contenant spécial marqué, qui est sorti de l’entrepôt d’accise du titulaire de licence de vin qui l’a produit ou emballé, si le vin est destiné à être offert gratuitement à des particuliers sous forme d’échantillon à consommer là où le titulaire produit ou emballe du vin.
+> 2002, ch. 22, art. 147; 2007, ch. 18, art. 104.
+
 
 
 
@@ -2406,7 +2608,9 @@ où :
 		- **(v)** sa livraison à une boutique hors taxes, pour vente, conformément à la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md), à des personnes qui sont sur le point de quitter le Canada,
 		- **(vi)** sa livraison à un utilisateur agréé,
 		- **(vii)** sa livraison à un utilisateur autorisé, pour utilisation conformément aux modalités de son autorisation,
-		- **(viii)** son exportation;
+		- **(viii)** sa livraison, s’il s’agit de vin emballé visé au paragraphe 136(2), au magasin mentionné à ce paragraphe,
+		- **(ix)** son exportation;
+	- **a.1)** du vin emballé non acquitté, sauf s’il s’agit de vin se trouvant dans un contenant spécial marqué, si l’entrepôt est celui du titulaire de licence de vin qui a produit ou emballé le vin et si le vin est destiné à être offert gratuitement à des particuliers à titre d’échantillon à consommer là où le titulaire produit ou emballe du vin;
 	- **b)** un contenant spécial de vin marqué non acquitté, aux fins suivantes :
 		- **(i)** sa livraison à un autre entrepôt d’accise,
 		- **(ii)** son entrée dans le marché des marchandises acquittées, pour livraison à un centre de remplissage libre-service;
@@ -2415,6 +2619,8 @@ où :
 		- **(ii)** s’il est marqué de façon à indiquer qu’il est destiné à être livré à un utilisateur autorisé et à être utilisé par lui, sa livraison à un tel utilisateur pour utilisation conformément aux modalités de son autorisation,
 		- **(iii)** s’il est marqué de façon à indiquer qu’il est destiné à être livré à un centre de remplissage libre-service et à y être utilisé, son entrée dans le marché des marchandises acquittées pour livraison à un tel centre;
 	- **d)** un contenant spécial d’alcool marqué non acquitté importé, pour exportation.
+> 2002, ch. 22, art. 151; 2007, ch. 18, art. 105.
+
 
 
 
@@ -2429,6 +2635,15 @@ où :
 **Retour d’alcool non acquitté**
 
 **153** L’alcool emballé non acquitté qui a été sorti d’un entrepôt d’accise conformément à l’article 147 et qui est retourné à un tel entrepôt dans les conditions prévues par règlement peut être déposé dans l’entrepôt à titre d’alcool emballé non acquitté.
+
+
+
+
+**Retour de vin non acquitté**
+
+**153.1** Le vin emballé non acquitté qui a été sorti d’un entrepôt d’accise en vertu du sous-alinéa 151(2)a)(viii) et qui est retourné à cet entrepôt dans les conditions prévues par règlement sans avoir été mis sur le marché des marchandises acquittées peut être déposé dans l’entrepôt à titre de vin emballé non acquitté.
+> 2007, ch. 18, art. 106.
+
 
 
 
@@ -2521,16 +2736,12 @@ où :
 
 **Déclaration**
 
-**160** 
+**160** Tout titulaire de licence ou d’agrément aux termes de la présente loi doit, au plus tard le dernier jour du premier mois suivant chacun de ses mois d’exercice :
+- **a)** présenter au ministre, en la forme et selon les modalités autorisées par celui-ci, une déclaration pour ce mois d’exercice;
+- **b)** calculer, dans la déclaration, le total des droits qu’il doit payer pour ce mois d’exercice;
+- **c)** verser ce total au receveur général.
+> 2002, ch. 22, art. 160; 2007, ch. 18, art. 107.
 
-- **(1)** Tout titulaire de licence ou d’agrément aux termes de la présente loi doit, au plus tard le dernier jour du premier mois suivant chacun de ses mois d’exercice :
-	- **a)** présenter au ministre, en la forme et selon les modalités autorisées par celui-ci, une déclaration pour ce mois d’exercice;
-	- **b)** calculer, dans la déclaration, le total des droits qu’il doit payer pour ce mois d’exercice;
-	- **c)** verser ce total au receveur général.
-
-**Exception**
-
-- **(2)** Le paragraphe (1) ne s’applique pas aux commerçants de tabac agréés.
 
 
 
@@ -2703,8 +2914,8 @@ où :
 
 **Renonciation ou réduction — intérêts**
 
-**173** Le ministre peut, au plus tard le jour qui suit de dix années civiles le jour où une somme devait être payée par une personne en application de la présente loi, réduire les intérêts à payer sur la somme exigible de la personne aux termes de l’article 170, ou y renoncer.
-> 2002, ch. 22, art. 173; 2006, ch. 4, art. 116.
+**173** Le ministre peut, au plus tard le jour donné qui suit de dix années civiles le jour où une somme devait être payée par une personne en application de la présente loi ou sur demande de la personne présentée au plus tard le jour donné, réduire les intérêts à payer sur la somme exigible de la personne aux termes de l’article 170, ou y renoncer.
+> 2002, ch. 22, art. 173; 2006, ch. 4, art. 116; 2007, ch. 18, art. 108.
 
 
 
@@ -2756,8 +2967,10 @@ où :
 **Restriction**
 
 **177** Une somme n’est pas remboursée ou payée à une personne en vertu de la présente loi dans la mesure où il est raisonnable de considérer, selon le cas :
-- **a)** qu’elle a déjà été remboursée, versée ou payée à la personne, ou déduite d’une somme dont elle est redevable, en vertu de la présente loi ou d’une autre loi fédérale;
+- **a)** qu’elle a déjà été remboursée, versée ou payée à la personne, ou déduite d’une somme dont elle est redevable à Sa Majesté, en vertu de la présente loi ou d’une autre loi fédérale;
 - **b)** que la personne a demandé le remboursement, le paiement ou la remise de la somme en question en vertu d’une autre loi fédérale.
+> 2002, ch. 22, art. 177; 2007, ch. 18, art. 109.
+
 
 
 
@@ -2792,6 +3005,15 @@ où :
 **Produits du tabac façonnés de nouveau ou détruits**
 
 **181** Le ministre peut rembourser à un titulaire de licence de tabac le droit payé sur un produit du tabac qui est façonné de nouveau ou détruit par le titulaire de licence conformément à l’article 41 si celui-ci en fait la demande dans les deux ans suivant la nouvelle façon ou la destruction du produit.
+
+
+
+
+**Tabac fabriqué importé détruit**
+
+**181.1** Le ministre peut rembourser à l’exploitant agréé de boutique hors taxes le droit spécial imposé en vertu de l’article 53 et payé sur le tabac fabriqué importé que l’exploitant détruit conformément à la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) si celui-ci en fait la demande dans les deux ans suivant la destruction du tabac.
+> 2007, ch. 18, art. 110.
+
 
 
 
@@ -2947,7 +3169,9 @@ comme si la personne avait versé, le jour postérieur visé au sous-alinéa (ii
 
 **Restriction — paiements en trop**
 
-- **(6)** Un paiement en trop de droits exigibles pour le mois d’exercice d’une personne et les intérêts afférents ne sont appliqués conformément à l’alinéa (4)b) ou remboursés conformément à l’alinéa (4)c) que si la personne a produit, avant le jour où l’avis de cotisation lui est envoyé, l’ensemble des déclarations et autres registres dont le ministre a connaissance et que la personne était tenue de lui présenter en vertu de la présente loi, de la [Loi sur le droit pour la sécurité des passagers du transport aérien](/fr/Lois/Lois%20du%20Canada/2002/ch.%209,%20art.%205.md), de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md), de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) et de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md).
+- **(6)** Un paiement en trop de droits exigibles pour le mois d’exercice d’une personne et les intérêts afférents ne sont appliqués conformément à l’alinéa (4)b) ou remboursés conformément à l’alinéa (4)c) que si la personne a produit, avant le jour où l’avis de cotisation lui est envoyé, l’ensemble des déclarations et autres registres dont le ministre a connaissance et que la personne était tenue de présenter :
+	- **a)** soit au ministre en vertu de la présente loi, de la [Loi sur le droit pour la sécurité des passagers du transport aérien](/fr/Lois/Lois%20du%20Canada/2002/ch.%209,%20art.%205.md), de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) et de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md);
+	- **b)** soit au ministre de la Sécurité publique et de la Protection civile en vertu de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md).
 
 **Restriction**
 
@@ -2955,7 +3179,9 @@ comme si la personne avait versé, le jour postérieur visé au sous-alinéa (ii
 	- **a)** d’une part, ne sont appliqués conformément à l’alinéa (5)b) en réduction d’une somme (appelée « somme impayée » au présent alinéa) qui est exigible d’une personne que dans le cas où le montant de remboursement aurait été payable à la personne à titre de remboursement si celle-ci en avait fait la demande aux termes de la présente loi le jour où elle a omis de verser la somme impayée et, dans le cas d’un paiement prévu à l’article 176, si cet article lui avait permis de demander le paiement dans les quatre ans suivant le jour où elle a versé la somme relativement à laquelle le paiement serait ainsi exigible;
 	- **b)** d’autre part, ne sont remboursés en application de l’alinéa (5)c) que dans le cas où, à la fois :
 		- **(i)** le montant de remboursement aurait été payable à la personne à titre de remboursement si celle-ci en avait fait la demande aux termes de la présente loi le jour où l’avis de cotisation lui est envoyé,
-		- **(ii)** la personne a produit l’ensemble des déclarations et autres registres dont le ministre a connaissance et qu’elle était tenue de lui présenter en vertu de la présente loi, de la [Loi sur le droit pour la sécurité des passagers du transport aérien](/fr/Lois/Lois%20du%20Canada/2002/ch.%209,%20art.%205.md), de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md), de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) et de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) avant le jour où l’avis de cotisation lui est envoyé.
+		- **(ii)** avant le jour où l’avis de cotisation lui est envoyé, la personne a produit l’ensemble des déclarations et autres registres dont le ministre a connaissance et qu’elle était tenue de présenter :
+			- **(A)** soit au ministre en vertu de la présente loi, de la [Loi sur le droit pour la sécurité des passagers du transport aérien](/fr/Lois/Lois%20du%20Canada/2002/ch.%209,%20art.%205.md), de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) et de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md),
+			- **(B)** soit au ministre de la Sécurité publique et de la Protection civile en vertu de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md).
 
 **Présomption de déduction ou d’application**
 
@@ -2981,7 +3207,7 @@ comme si la personne avait versé, le jour postérieur visé au sous-alinéa (ii
 - **(10)** Au présent article, le paiement en trop de droits exigibles d’une personne pour un mois d’exercice correspond à l’excédent éventuel du total des sommes payées par la personne au titre des droits exigibles pour le mois sur la somme des montants suivants :
 	- **a)** les droits exigibles pour le mois;
 	- **b)** les sommes remboursées à la personne pour le mois en vertu de la présente loi.
-> 2002, ch. 22, art. 188; 2005, ch. 38, art. 95 et 145; 2006, ch. 4, art. 117.
+> 2002, ch. 22, art. 188; 2005, ch. 38, art. 95 et 145; 2006, ch. 4, art. 117; 2007, ch. 18, art. 111.
 
 
 
@@ -3003,12 +3229,12 @@ comme si la personne avait versé, le jour postérieur visé au sous-alinéa (ii
 
 **Restriction**
 
-- **(4)** Un montant de remboursement n’est versé qu’une fois présentés au ministre l’ensemble des déclarations et autres registres dont celui-ci a connaissance et qui sont à produire en vertu de la présente loi, de la [Loi sur le droit pour la sécurité des passagers du transport aérien](/fr/Lois/Lois%20du%20Canada/2002/ch.%209,%20art.%205.md), de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md), de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) et de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md).
+- **(4)** Un montant de remboursement n’est versé qu’une fois présentés au ministre ou au ministre de la Sécurité publique et de la Protection civile l’ensemble des déclarations et autres registres dont le ministre a connaissance et qui sont à produire en vertu de la présente loi, de la [Loi sur le droit pour la sécurité des passagers du transport aérien](/fr/Lois/Lois%20du%20Canada/2002/ch.%209,%20art.%205.md), de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md), de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) et de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md).
 
 **Intérêts**
 
 - **(5)** Le ministre paie à la personne à qui une somme est remboursée des intérêts au taux réglementaire calculés sur la somme pour la période commençant le trentième jour suivant la production de la demande de remboursement et se terminant le jour où le remboursement est effectué.
-> 2002, ch. 22, art. 189; 2005, ch. 38, art. 96 et 145; 2006, ch. 4, art. 118.
+> 2002, ch. 22, art. 189; 2005, ch. 38, art. 96 et 145; 2006, ch. 4, art. 118; 2007, ch. 18, art. 112.
 
 
 
@@ -3190,9 +3416,9 @@ comme si la personne avait versé, le jour postérieur visé au sous-alinéa (ii
 
 - **(3)** La demande, accompagnée d’un exemplaire de l’avis d’opposition, est livrée ou envoyée au chef des Appels d’un bureau des services fiscaux ou d’un centre fiscal de l’Agence.
 
-**Acceptation**
+**Demande non conforme**
 
-- **(4)** Le ministre peut faire droit à la demande qui n’a pas été faite en conformité avec le paragraphe (3).
+- **(4)** Le ministre peut recevoir la demande qui n’a pas été faite en conformité avec le paragraphe (3).
 
 **Obligations du ministre**
 
@@ -3207,9 +3433,11 @@ comme si la personne avait versé, le jour postérieur visé au sous-alinéa (ii
 - **(7)** Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
 	- **a)** la demande est présentée dans l’année suivant l’expiration du délai imparti pour faire opposition;
 	- **b)** la personne démontre ce qui suit :
-		- **(i)** dans le délai d’opposition imparti, elle n’a pu ni agir ni mandater quelqu’un pour agir en son nom, et avait véritablement l’intention de faire opposition à la cotisation,
+		- **(i)** dans le délai d’opposition imparti, elle n’a pu ni agir ni mandater quelqu’un pour agir en son nom, ou elle avait véritablement l’intention de faire opposition à la cotisation,
 		- **(ii)** compte tenu des raisons indiquées dans la demande et des circonstances en l’espèce, il est juste et équitable de faire droit à la demande,
 		- **(iii)** la demande a été présentée dès que les circonstances l’ont permis.
+> 2002, ch. 22, art. 196; 2007, ch. 18, art. 113.
+
 
 
 
@@ -3247,9 +3475,11 @@ comme si la personne avait versé, le jour postérieur visé au sous-alinéa (ii
 - **(6)** Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
 	- **a)** la demande prévue au paragraphe 196(1) a été présentée dans l’année suivant l’expiration du délai imparti pour faire opposition;
 	- **b)** la personne démontre ce qui suit :
-		- **(i)** dans le délai d’opposition imparti, elle n’a pu ni agir ni mandater quelqu’un pour agir en son nom, et avait véritablement l’intention de faire opposition à la cotisation,
+		- **(i)** dans le délai d’opposition imparti, elle n’a pu ni agir ni mandater quelqu’un pour agir en son nom, ou elle avait véritablement l’intention de faire opposition à la cotisation,
 		- **(ii)** compte tenu des raisons indiquées dans la demande prévue au présent article et des circonstances en l’espèce, il est juste et équitable de faire droit à la demande,
 		- **(iii)** la demande prévue au paragraphe 196(1) a été présentée dès que les circonstances l’ont permis.
+> 2002, ch. 22, art. 197; 2007, ch. 18, art. 114.
+
 
 
 
@@ -3296,10 +3526,12 @@ comme si la personne avait versé, le jour postérieur visé au sous-alinéa (ii
 - **(5)** Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
 	- **a)** la demande a été présentée dans l’année suivant l’expiration du délai d’appel imparti;
 	- **b)** la personne démontre ce qui suit :
-		- **(i)** dans le délai d’appel imparti, elle n’a pu ni agir ni mandater quelqu’un pour agir en son nom, et avait véritablement l’intention d’interjeter appel,
+		- **(i)** dans le délai d’appel imparti, elle n’a pu ni agir ni mandater quelqu’un pour agir en son nom, ou elle avait véritablement l’intention d’interjeter appel,
 		- **(ii)** compte tenu des raisons indiquées dans la demande et des circonstances en l’espèce, il est juste et équitable de faire droit à la demande,
 		- **(iii)** la demande a été présentée dès que les circonstances l’ont permis,
 		- **(iv)** l’appel est raisonnablement fondé.
+> 2002, ch. 22, art. 199; 2007, ch. 18, art. 115.
+
 
 
 
@@ -3471,7 +3703,7 @@ comme si la personne avait versé, le jour postérieur visé au sous-alinéa (ii
 
 **208** 
 
-- **(1)** Malgré les autres dispositions de la présente loi, le ministre peut, sous réserve du paragraphe (2) et pour l’exécution ou le contrôle d’application de la présente loi, par avis signifié à personne ou envoyé par courrier recommandé ou certifié, exiger d’une personne qu’elle lui livre, dans le délai raisonnable que précise l’avis :
+- **(1)** Malgré les autres dispositions de la présente loi, le ministre peut, sous réserve du paragraphe (2) et pour l’exécution ou le contrôle d’application d’un accord international désigné ou de la présente loi, par avis signifié à personne ou envoyé par courrier recommandé ou certifié, exiger d’une personne qu’elle lui livre, dans le délai raisonnable que précise l’avis :
 	- **a)** tout renseignement ou tout renseignement supplémentaire, y compris une déclaration selon la présente loi;
 	- **b)** des registres.
 
@@ -3496,6 +3728,8 @@ comme si la personne avait versé, le jour postérieur visé au sous-alinéa (ii
 **Pouvoir de révision**
 
 - **(6)** À l’audition de la requête, le juge peut annuler l’autorisation accordée antérieurement s’il n’est pas convaincu de l’existence des conditions prévues aux alinéas (3)a) et b). Il peut la confirmer ou la modifier s’il est convaincu de leur existence.
+> 2002, ch. 22, art. 208; 2007, ch. 18, art. 116.
+
 
 
 
@@ -3629,7 +3863,7 @@ N’est pas un renseignement confidentiel le renseignement qui ne révèle pas, 
 		- **(ii)** à un fonctionnaire, mais uniquement en vue de la mise à exécution de la politique fiscale ou en vue de l’exécution ou du contrôle d’application de la Loi sur l’assurance-chômage, du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md) ou d’une loi fédérale qui prévoit l’imposition ou la perception d’un impôt, d’une taxe ou d’un droit,
 		- **(iii)** à un fonctionnaire, mais uniquement en vue de l’exécution ou du contrôle d’application d’une loi provinciale qui prévoit l’imposition ou la perception d’un impôt, d’une taxe ou d’un droit,
 		- **(iv)** à un fonctionnaire provincial, mais uniquement en vue de la formulation ou de l’évaluation de la politique fiscale,
-		- **(v)** à un fonctionnaire d’un ministère ou organisme fédéral ou provincial, quant aux nom, adresse et profession d’une personne et à la taille et au genre de son entreprise, mais uniquement en vue de permettre à ce ministère ou à cet organisme de recueillir des données statistiques pour la recherche et l’analyse,
+		- **(v)** à un fonctionnaire d’un ministère ou organisme fédéral ou provincial, quant aux nom, adresse, numéro de téléphone et profession d’une personne et à la taille et au genre de son entreprise, mais uniquement en vue de permettre à ce ministère ou à cet organisme de recueillir des données statistiques pour la recherche et l’analyse,
 		- **(vi)** à un fonctionnaire, mais uniquement en vue de procéder, par voie de compensation, à la retenue, sur toute somme due par Sa Majesté, de tout montant égal à une créance :
 			- **(A)** soit de Sa Majesté,
 			- **(B)** soit de Sa Majesté du chef d’une province s’il s’agit de taxes ou d’impôts provinciaux visés par une entente entre le Canada et la province aux termes de laquelle le Canada est autorisé à percevoir les impôts ou taxes à payer à la province,
@@ -3642,7 +3876,9 @@ N’est pas un renseignement confidentiel le renseignement qui ne révèle pas, 
 	- **k)** fournir un renseignement confidentiel à un policier, au sens du paragraphe 462.48(17) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), mais uniquement en vue de déterminer si une infraction visée à cette loi a été commise ou en vue du dépôt d’une dénonciation ou d’un acte d’accusation, si, à la fois :
 		- **(i)** il est raisonnable de considérer que le renseignement est nécessaire pour confirmer les circonstances dans lesquelles une infraction au [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) peut avoir été commise, ou l’identité d’une personne pouvant avoir commis une infraction, à l’égard d’un fonctionnaire ou de toute personne qui lui est liée,
 		- **(ii)** le fonctionnaire est ou était chargé de l’application ou de l’exécution de la présente loi,
-		- **(iii)** il est raisonnable de considérer que l’infraction est liée à l’application ou à l’exécution de la présente loi.
+		- **(iii)** il est raisonnable de considérer que l’infraction est liée à l’application ou à l’exécution de la présente loi;
+	- **l)** fournir un renseignement confidentiel, ou en permettre l’examen ou l’accès, mais uniquement pour l’application d’une disposition figurant dans un accord international désigné;
+	- **m)** fournir un renseignement confidentiel à toute personne, mais uniquement en vue de permettre au statisticien en chef, au sens de l’article 2 de la [Loi sur la statistique](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-19.md), de fournir à un organisme de la statistique d’une province des données portant sur les activités d’entreprise exercées dans la province, à condition que le renseignement soit utilisé par l’organisme uniquement aux fins de recherche et d’analyse et que l’organisme soit autorisé en vertu des lois de la province à recueillir, pour son propre compte, le même renseignement ou un renseignement semblable relativement à ces activités.
 
 **Mesures visant à prévenir l’utilisation ou la divulgation non autorisées d’un renseignement**
 
@@ -3671,7 +3907,7 @@ N’est pas un renseignement confidentiel le renseignement qui ne révèle pas, 
 **Sursis**
 
 - **(11)** L’application de l’ordonnance ou de la directive objet d’un appel est différée jusqu’au prononcé du jugement.
-> 2002, ch. 22, art. 211; 2005, ch. 38, art. 97 et 145.
+> 2002, ch. 22, art. 211; 2005, ch. 38, art. 97 et 145; 2007, ch. 18, art. 117.
 
 
 
@@ -3835,7 +4071,7 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 
 **217** 
 
-- **(1)** Quiconque contrevient aux articles 63 ou 73, aux paragraphes 78(1) ou 83(1) ou aux articles 90 ou 96 commet une infraction passible, sur déclaration de culpabilité :
+- **(1)** Quiconque contrevient aux articles 63 ou 73, aux paragraphes 78(1) ou 83(1) ou aux articles 90, 93.1, 93.2 ou 96 commet une infraction passible, sur déclaration de culpabilité :
 	- **a)** par mise en accusation, d’une amende au moins égale à la somme déterminée selon le paragraphe (2), sans dépasser la somme déterminée selon le paragraphe (3), et d’un emprisonnement maximal de cinq ans, ou de l’une de ces peines;
 	- **b)** par procédure sommaire, d’une amende au moins égale à la somme déterminée selon le paragraphe (2), sans dépasser 100 000 $ ou, si elle est moins élevée, la somme déterminée selon le paragraphe (3), et d’un emprisonnement maximal de dix-huit mois, ou de l’une de ces peines.
 
@@ -3845,7 +4081,7 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 	- **a)** la somme des produits suivants :
 		- **(i)** le produit de 11,696 $ par le nombre de litres d’alcool éthylique absolu dans les spiritueux auxquels l’infraction se rapporte,
 		- **(ii)** le produit de 0,62 $ par le nombre de litres de vin auxquels l’infraction se rapporte,
-		- **(iii)** le produit de 10 $ par le nombre de litres d’alcool dénaturé ou d’alcool spécialement dénaturé auxquels l’infraction se rapporte;
+		- **(iii)** le produit de 10 $ par le nombre de litres d’alcool spécialement dénaturé ou de préparation assujettie à des restrictions auxquels l’infraction se rapporte;
 	- **b)** 1 000 $, s’il s’agit d’un acte criminel, et 500 $, s’il s’agit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire.
 
 **Amende maximale**
@@ -3854,9 +4090,9 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 	- **a)** la somme des produits suivants :
 		- **(i)** le produit de 23,392 $ par le nombre de litres d’alcool éthylique absolu dans les spiritueux auxquels l’infraction se rapporte,
 		- **(ii)** le produit de 1,24 $ par le nombre de litres de vin auxquels l’infraction se rapporte,
-		- **(iii)** le produit de 20 $ par le nombre de litres d’alcool dénaturé ou d’alcool spécialement dénaturé auxquels l’infraction se rapporte;
+		- **(iii)** le produit de 20 $ par le nombre de litres d’alcool spécialement dénaturé ou de préparation assujettie à des restrictions auxquels l’infraction se rapporte;
 	- **b)** 2 000 $, s’il s’agit d’un acte criminel, et 1 000 $, s’il s’agit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire.
-> 2002, ch. 22, art. 217; 2006, ch. 4, art. 44.
+> 2002, ch. 22, art. 217; 2006, ch. 4, art. 44; 2007, ch. 18, art. 118.
 
 
 
@@ -3866,7 +4102,7 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 
 **218** 
 
-- **(1)** Quiconque contrevient à l’un des articles 67, 69 à 72, 74 et 88 ou des paragraphes 101(1) et (2) commet une infraction passible, sur déclaration de culpabilité :
+- **(1)** Quiconque contrevient à l’un des articles 67, 69 à 72, 75 et 88 ou des paragraphes 101(1) et (2) commet une infraction passible, sur déclaration de culpabilité :
 	- **a)** par mise en accusation, d’une amende au moins égale à la somme déterminée selon le paragraphe (2), sans dépasser la somme déterminée selon le paragraphe (3), et d’un emprisonnement maximal de cinq ans, ou de l’une de ces peines;
 	- **b)** par procédure sommaire, d’une amende au moins égale à la somme déterminée selon le paragraphe (2), sans dépasser 500 000 $ ou, si elle est moins élevée, la somme déterminée selon le paragraphe (3), et d’un emprisonnement maximal de dix-huit mois, ou de l’une de ces peines.
 
@@ -3885,7 +4121,7 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 		- **(i)** le produit de 35,088 $ par le nombre de litres d’alcool éthylique absolu dans les spiritueux auxquels l’infraction se rapporte,
 		- **(ii)** le produit de 1,86 $ par le nombre de litres de vin auxquels l’infraction se rapporte;
 	- **b)** 2 000 $, s’il s’agit d’un acte criminel, et 1 000 $, s’il s’agit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire.
-> 2002, ch. 22, art. 218; 2006, ch. 4, art. 45.
+> 2002, ch. 22, art. 218; 2006, ch. 4, art. 45; 2007, ch. 18, art. 119.
 
 
 
@@ -3953,12 +4189,14 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 **Communication non autorisée de renseignements**
 
 - **(2)** Commet une infraction passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 5 000 $ et d’un emprisonnement maximal de douze mois, ou de l’une de ces peines :
-	- **a)** toute personne à qui un renseignement confidentiel est fourni à une fin précise en conformité avec les alinéas 211(6)b), d) ou h) et qui, sciemment, utilise ce renseignement, le fournit ou en permet la fourniture ou l’accès à une autre fin;
+	- **a)** toute personne à qui un renseignement confidentiel est fourni à une fin précise en conformité avec les alinéas 211(6)b), d), h), l) ou m) et qui, sciemment, utilise ce renseignement, le fournit ou en permet la fourniture ou l’accès à une autre fin;
 	- **b)** tout fonctionnaire à qui un renseignement confidentiel a été fourni à une fin précise en conformité avec les alinéas 211(6)a), e) ou f) et qui, sciemment, utilise ce renseignement, le fournit ou en permet la fourniture ou l’accès à une autre fin.
 
 **Définitions**
 
-- **(3)** Au présent article, « fonctionnaire » et « renseignement confidentiel » s’entendent au sens du paragraphe 211(1).
+- **(3)** Au présent article, ***fonctionnaire*** et  ***renseignement confidentiel*** s’entendent au sens du paragraphe 211(1).
+> 2002, ch. 22, art. 221; 2007, ch. 18, art. 120.
+
 
 
 
@@ -4099,9 +4337,11 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 
 
 
-**Contravention — art. 38, 40, 41, 49, 61, 99, 149 et 151**
+**Contravention — art. 38, 40, 41, 49, 61, 62.1, 99, 149 ou 151**
 
-**234** Quiconque contrevient aux articles 38, 40, 41, 49, 61, 99, 149 ou 151 est passible d’une pénalité maximale de 25 000 $.
+**234** Quiconque contrevient aux articles 38, 40, 41, 49, 61, 62.1, 99, 149 ou 151 est passible d’une pénalité maximale de 25 000 $.
+> 2002, ch. 22, art. 234; 2007, ch. 18, art. 121.
+
 
 
 
@@ -4117,9 +4357,11 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 
 **236** 
 
-- **(1)** Est passible d’une pénalité le titulaire de licence de tabac qui, en ce qui concerne le tabac fabriqué sur lequel le droit prévu à l’article 42 a été imposé au taux figurant aux alinéas 1a), 2a) ou 3a) de l’annexe 1 :
-	- **a)** soit livre le tabac ailleurs qu’à une boutique hors taxes ou un entrepôt de stockage ou autrement que pour utilisation à titre de provisions de bord conformément au [Règlement sur les provisions de bord](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/96/40.md);
-	- **b)** soit exporte le tabac autrement que pour livraison à une boutique hors taxes à l’étranger ou autrement qu’à titre de provisions de bord à l’étranger.
+- **(1)** Est passible d’une pénalité le titulaire de licence de tabac ou l’exploitant agréé d’entrepôt de stockage qui, en ce qui concerne le tabac fabriqué sur lequel le droit prévu à l’article 42 a été imposé au taux figurant aux alinéas 1a), 2a) ou 3a) de l’annexe 1 :
+	- **a)** s’agissant du titulaire de licence de tabac :
+		- **(i)** soit livre le tabac ailleurs qu’à une boutique hors taxes ou un entrepôt de stockage ou autrement que pour utilisation à titre de provisions de bord conformément au [Règlement sur les provisions de bord](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/96/40.md),
+		- **(ii)** soit exporte le tabac autrement que pour livraison à une boutique hors taxes à l’étranger ou autrement qu’à titre de provisions de bord à l’étranger;
+	- **b)** s’agissant de l’exploitant agréé d’entrepôt de stockage, livre le tabac autrement que pour utilisation à titre de provisions de bord conformément au [Règlement sur les provisions de bord](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/96/40.md).
 
 **Pénalité**
 
@@ -4128,6 +4370,8 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 		- **(i)** le droit qui aurait été imposé en vertu de l’article 42 sur le tabac si le taux applicable de droit avait été celui qui figure aux alinéas 1b), 2b) ou 3b) de l’annexe 1,
 		- **(ii)** le droit qui a été imposé en vertu de l’article 42 sur le tabac;
 	- **b)** le droit spécial qui était exigible en vertu de l’alinéa 56(1)b) sur le tabac.
+> 2002, ch. 22, art. 236; 2007, ch. 18, art. 122.
+
 
 
 
@@ -4136,27 +4380,29 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 
 **237** 
 
-- **(1)** L’exploitant agréé d’entrepôt d’accise est passible d’une pénalité égale au montant représentant 200 % des droits imposés sur l’alcool emballé qui a été sorti de son entrepôt à une fin visée à l’article 147, mais qui n’a pas été livré ou exporté, selon le cas, à cette fin.
+- **(1)** L’exploitant agréé d’entrepôt d’accise est passible d’une pénalité égale au montant représentant 200 % des droits imposés sur l’alcool emballé qui a été sorti de son entrepôt à une fin visée à l’article 147, mais qui n’a pas été livré, exporté ou offert, selon le cas, à cette fin.
 
 **Réaffectation de tabac exempt de droits**
 
-- **(2)** Le titulaire de licence de tabac est passible d’une pénalité égale au montant représentant 200 % des droits qui ont été imposés sur le produit du tabac fabriqué au Canada qui a été sorti de son entrepôt d’accise à une fin visée aux paragraphes 50(4), (7) ou (8), mais qui n’a été pas été livré ou exporté, selon le cas, à cette fin.
+- **(2)** Le titulaire de licence de tabac est passible d’une pénalité égale au montant représentant 200 % des droits qui ont été imposés sur le produit du tabac fabriqué au Canada qui a été sorti de son entrepôt d’accise à une fin visée aux paragraphes 50(4), (7) ou (8), mais qui n’a été pas été livré ou exporté, selon le cas, à cette fin.
 
 **Réaffectation de cigares exempts de droits**
 
-- **(3)** L’exploitant agréé d’entrepôt d’accise est passible d’une pénalité égale au montant représentant 200 % des droits qui ont été imposés sur les cigares fabriqués au Canada qui ont été sortis de son entrepôt d’accise à une fin visée au paragraphe 50(9), mais qui n’ont pas été livrés à cette fin.
+- **(3)** L’exploitant agréé d’entrepôt d’accise est passible d’une pénalité égale au montant représentant 200 % des droits qui ont été imposés sur les cigares fabriqués au Canada qui ont été sortis de son entrepôt d’accise à une fin visée au paragraphe 50(9), mais qui n’ont pas été livrés à cette fin.
 
 **Réaffectation de tabac exempt de droits**
 
-- **(4)** L’exploitant agréé d’entrepôt d’accise spécial est passible d’une pénalité égale au montant représentant 200 % des droits qui ont été imposés sur le produit du tabac fabriqué au Canada qui a été sorti de son entrepôt d’accise spécial à une fin visée au paragraphe 50(11), mais qui n’a pas été livré à cette fin.
+- **(4)** L’exploitant agréé d’entrepôt d’accise spécial est passible d’une pénalité égale au montant représentant 200 % des droits qui ont été imposés sur le produit du tabac fabriqué au Canada qui a été sorti de son entrepôt d’accise spécial à une fin visée au paragraphe 50(11), mais qui n’a pas été livré à cette fin.
 
 **Réaffectation de tabac importé**
 
-- **(5)** L’exploitant agréé d’entrepôt d’accise est passible d’une pénalité égale au montant représentant 200 % des droits qui ont été imposés sur le produit du tabac importé qui a été sorti de son entrepôt d’accise à une fin visée au paragraphe 51(2), mais qui n’a pas été livré ou exporté, selon le cas, à cette fin.
+- **(5)** L’exploitant agréé d’entrepôt d’accise est passible d’une pénalité égale au montant représentant 200 % des droits qui ont été imposés sur le produit du tabac importé qui a été sorti de son entrepôt d’accise à une fin visée au paragraphe 51(2), mais qui n’a pas été livré ou exporté, selon le cas, à cette fin.
 
 **Exception**
 
 - **(6)** Le titulaire de licence ou d’agrément qui serait par ailleurs passible d’une pénalité prévue au présent article ne l’est pas s’il établit à la satisfaction du ministre que, après avoir été sorti de son entrepôt d’accise ou de son entrepôt d’accise spécial, l’alcool ou le produit du tabac y a été retourné.
+> 2002, ch. 22, art. 237; 2007, ch. 18, art. 123.
+
 
 
 
@@ -4208,12 +4454,31 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 
 
 
-**Contravention — art. 73, 76 et 89 à 91**
+**Contravention — art. 73, 74 ou 90**
 
-**243** Quiconque contrevient à l’un des articles 73, 76 et 89 à 91 est passible de la pénalité suivante :
+**243** 
+
+- **(1)** Sauf en cas d’application des articles 239, 241, 242 ou 243.1 ou du paragraphe (2), quiconque contrevient aux articles 73, 74 ou 90 est passible de la pénalité suivante :
+	- **a)** si la contravention se rapporte à des spiritueux, le montant représentant 200 % des droits imposés sur les spiritueux;
+	- **b)** si la contravention se rapporte à du vin, 1,24 $ le litre de vin.
+
+**Contravention de l’art. 73 ou 90 par l’utilisateur agréé**
+
+- **(2)** Tout utilisateur agréé qui, en contravention des articles 73 ou 90, exporte de l’alcool, l’utilise pour soi ou le met en la possession de quiconque est passible de la pénalité suivante :
+	- **a)** si la contravention se rapporte à des spiritueux, les droits imposés sur les spiritueux;
+	- **b)** si la contravention se rapporte à du vin, 0,62 $ le litre de vin.
+> 2002, ch. 22, art. 243; 2006, ch. 4, art. 47; 2007, ch. 18, art. 124.
+
+
+
+
+
+**Contravention — art. 76, 89 ou 91**
+
+**243.1** Quiconque contrevient aux articles 76, 89 ou 91 est passible de la pénalité suivante :
 - **a)** si la contravention se rapporte à des spiritueux, les droits imposés sur les spiritueux;
 - **b)** si la contravention se rapporte à du vin, 0,62 $ le litre de vin.
-> 2002, ch. 22, art. 243; 2006, ch. 4, art. 47.
+> 2007, ch. 18, art. 124.
 
 
 
@@ -4243,6 +4508,15 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 **Possession non autorisée, etc., d’alcool spécialement dénaturé**
 
 **247** Quiconque contrevient à l’un des articles 96 à 98, 100, 102 et 103 est passible d’une pénalité de 10 $ le litre sur l’alcool spécialement dénaturé auquel la contravention se rapporte.
+
+
+
+
+**Possession non autorisée d’une préparation assujettie à des restrictions**
+
+**247.1** Quiconque contrevient aux articles 93.1 ou 93.2 est passible d’une pénalité de 10 $ le litre de préparation assujettie à des restrictions à laquelle la contravention se rapporte.
+> 2007, ch. 18, art. 125.
+
 
 
 
@@ -4348,8 +4622,8 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 
 **Renonciation ou réduction — pénalité pour défaut de production**
 
-**255.1** Le ministre peut, au plus tard le jour qui suit de dix années civiles la fin d’un mois d’exercice d’une personne, réduire toute pénalité exigible de celle-ci aux termes de l’article 251.1 pour le mois au titre d’une déclaration, ou y renoncer.
-> 2006, ch. 4, art. 121.
+**255.1** Le ministre peut, au plus tard le jour qui suit de dix années civiles la fin d’un mois d’exercice d’une personne ou sur demande de la personne présentée au plus tard ce jour-là, réduire toute pénalité exigible de la personne aux termes de l’article 251.1 pour le mois au titre d’une déclaration, ou y renoncer.
+> 2006, ch. 4, art. 121; 2007, ch. 18, art. 126.
 
 
 
@@ -4523,7 +4797,9 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 
 **Pas de restitution**
 
-**264** Malgré les autres dispositions de la présente loi, l’alcool, l’alcool spécialement dénaturé, le tabac en feuilles et les produits du tabac qui sont saisis en vertu de l’article 260 ne sont restitués au saisi ou à une autre personne que s’ils ont été saisis par erreur.
+**264** Malgré les autres dispositions de la présente loi, l’alcool, l’alcool spécialement dénaturé, la préparation assujettie à des restrictions, le tabac en feuilles et les produits du tabac qui sont saisis en vertu de l’article 260 ne sont restitués au saisi ou à une autre personne que s’ils ont été saisis par erreur.
+> 2002, ch. 22, art. 264; 2007, ch. 18, art. 127.
+
 
 
 
@@ -4548,13 +4824,16 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 - **(2)** Sous réserve des règlements, le ministre peut vendre les produits suivants :
 	- **a)** les spiritueux ou l’alcool spécialement dénaturé saisis, mais seulement à un titulaire de licence de spiritueux;
 	- **b)** le vin saisi, mais seulement à un titulaire de licence de vin;
-	- **c)** le tabac en feuilles ou les produits du tabac saisis, mais seulement à un titulaire de licence de tabac.
+	- **c)** le tabac en feuilles ou les produits du tabac saisis, mais seulement à un titulaire de licence de tabac;
+	- **d)** les préparations assujetties à des restrictions saisies, mais seulement à un utilisateur agréé.
 
 **Versement d’une compensation**
 
 - **(3)** S’il est impossible de restituer une chose à une personne qui y aurait droit par ailleurs, il lui est versé :
 	- **a)** en cas de vente de la chose, le produit de la vente;
 	- **b)** dans les autres cas, une somme égale à la valeur de la chose au moment de la saisie, déterminée par le ministre.
+> 2002, ch. 22, art. 266; 2007, ch. 18, art. 128.
+
 
 
 
@@ -5355,9 +5634,11 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 
 - **(6)** Les définitions qui suivent s’appliquent au présent article.
 
-***conjoint de fait*** La personne qui vit avec la personne en cause dans une relation conjugale depuis au moins un an.
+***conjoint de fait*** La personne qui est le conjoint de fait d’un particulier à un moment donné pour l’application de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md).
 
 ***union de fait*** Relation qui existe entre deux conjoints de fait.
+> 2002, ch. 22, art. 297; 2007, ch. 18, art. 129.
+
 
 
 
@@ -5532,7 +5813,7 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 	- **k)** prévoir les frais à payer pour obtenir une licence, un agrément ou une autorisation ou la manière de les déterminer;
 	- **l)** obliger toute catégorie de personnes à produire des déclarations concernant toute catégorie de renseignements nécessaires à l’exécution et au contrôle d’application de la présente loi;
 	- **m)** obliger toute personne à aviser le ministre de son numéro d’assurance sociale;
-	- **n)** prévoir la vente, en vertu de l’article 266, d’alcool, de produits du tabac, de tabac en feuilles ou d’alcool spécialement dénaturé saisis en vertu de l’article 260;
+	- **n)** prévoir la vente, en vertu de l’article 266, d’alcool, de produits du tabac, de tabac en feuilles, d’alcool spécialement dénaturé ou de préparations assujetties à des restrictions saisis en vertu de l’article 260;
 	- **o)** prendre toute mesure d’ordre réglementaire prévue par la présente loi;
 	- **p)** prendre toute autre mesure d’application de la présente loi.
 
@@ -5543,6 +5824,12 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 	- **b)** il corrige une disposition ambiguë ou erronée, non conforme à un objet de la présente loi;
 	- **c)** il procède d’une modification de la présente loi applicable avant qu’il ne soit publié dans la Gazette du Canada;
 	- **d)** il met en oeuvre une mesure — budgétaire ou non — annoncée publiquement, auquel cas, si les alinéas a), b) et c) ne s’appliquent pas par ailleurs, il ne peut avoir d’effet avant la date où la mesure est ainsi annoncée.
+
+**Incorporation par renvoi**
+
+- **(3)** Peut être incorporé par renvoi dans un règlement pris en vertu de la présente loi tout document — quelle que soit sa provenance —, soit dans sa version à une date donnée, soit avec ses modifications successives.
+> 2002, ch. 22, art. 304; 2007, ch. 18, art. 130.
+
 
 
 
@@ -5738,6 +6025,21 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 
 
 
+**Règlement sur les distilleries — application transitoire**
+
+**315.1** 
+
+- **(1)** Les articles 7, 8, 9, 12 et 15 du Règlement sur les distilleries, C.R.C., ch. 569, s’appliquent, avec les adaptations nécessaires, dans le cas où ils auraient été applicables en toutes circonstances au cours de la période commençant le 1<sup>er</sup> juillet 2003 et se terminant le 1<sup>er</sup> juillet 2009 s’ils avaient été en vigueur, dans leur version du 30 juin 2003, et si l’article 1.1 de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md) n’avait pas été édicté.
+
+**Règlement ministériel sur les distilleries — application transitoire**
+
+- **(2)** Les articles 13 et 14 du Règlement ministériel sur les distilleries, C.R.C., ch. 570, s’appliquent, avec les adaptations nécessaires, dans le cas où ils auraient été applicables en toutes circonstances au cours de la période commençant le 1<sup>er</sup> juillet 2003 et se terminant le 1<sup>er</sup> juillet 2009 s’ils avaient été en vigueur, dans leur version du 30 juin 2003, et si l’article 1.1 de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md) n’avait pas été édicté.
+> 2007, ch. 18, art. 131.
+
+
+
+
+
 **Traitement transitoire des produits du tabac fabriqués au Canada**
 
 **316** 
@@ -5761,6 +6063,15 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 
 
 
+**Remboursement pour produit du tabac façonné de nouveau ou détruit**
+
+**316.1** Si le droit imposé en vertu de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md) et la taxe imposée en vertu de l’article 23 de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) sur un produit du tabac fabriqué au Canada sont devenus exigibles avant la date de mise en oeuvre, mais que le titulaire de licence de tabac en vertu de la présente loi — muni, avant cette date, d’une licence de fabrication de ce produit en vertu de ces lois — façonne de nouveau ou détruit le produit, à cette date ou par la suite, d’une manière autorisée par le ministre, l’article 181 s’applique comme si ce droit et cette taxe étaient des droits payés en vertu de la présente loi.
+> 2007, ch. 18, art. 132.
+
+
+
+
+
 **Traitement transitoire des produits du tabac importés**
 
 **317** Les règles ci-après s’appliquent au produit du tabac importé :
@@ -5769,6 +6080,15 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 	- **(ii)** la présente loi et la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) s’appliquent au produit comme s’il avait été importé au Canada à cette date;
 - **b)** si le produit a été estampillé ou marqué conformément à la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), il est réputé avoir été estampillé ou marqué, selon le cas, conformément à la présente loi;
 - **c)** la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md) et les parties III, VI et VII de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) cessent de s’appliquer au produit.
+
+
+
+
+**Tabac importé livré à une boutique hors taxes avant la date de mise en oeuvre**
+
+**317.1** Si l’exploitant agréé de boutique hors taxes possède, à la date de mise en oeuvre, du tabac fabriqué importé sur lequel la taxe prévue à l’article 23.12 de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) a été payée et qu’aucune demande de remboursement de la taxe n’a été présentée aux termes de cette loi, la présente loi s’applique au tabac comme si la taxe était le droit spécial imposé en vertu de l’article 53.
+> 2007, ch. 18, art. 133.
+
 
 
 
