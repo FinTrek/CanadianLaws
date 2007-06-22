@@ -1183,7 +1183,7 @@ doit remplir une déclaration de renseignements selon le formulaire prescrit, en
 
 **229** 
 
-- **(1)** L’associé d’une société de personnes qui, à un moment quelconque de l’exercice de celle-ci, exploite une entreprise au Canada ou est une société de personnes canadienne doit remplir pour cet exercice une déclaration de renseignements, sur le formulaire prescrit, contenant les renseignements suivants :
+- **(1)** Chacun des associés d’une société de personnes qui, à un moment quelconque de son exercice, exploite une entreprise au Canada, est une société de personnes canadienne ou est une société de personnes intermédiaire de placement déterminée doit remplir pour cet exercice une déclaration de renseignements, sur le formulaire prescrit, contenant les renseignements suivants :
 	- **a)** le revenu ou la perte de la société de personnes pour l’exercice;
 	- **b)** le nom, l’adresse et, le cas échéant, le numéro d’assurance sociale de chaque associé qui a droit, pour l’exercice, à une part visée à l’alinéa c) ou d);
 	- **c)** la part du revenu ou de la perte de la société de personnes revenant à chaque associé pour l’exercice;
@@ -1207,7 +1207,7 @@ doit remplir une déclaration de renseignements selon le formulaire prescrit, en
 - **(6)** Dans le cas où la société de personnes cesse d’exploiter son entreprise ou d’exercer ses activités, la déclaration de renseignements visée au présent article doit être produite pour tout ou partie de l’exercice qui précède la cessation et pour lequel une telle déclaration n’a pas encore été produite, au plus tard le premier en date des jours suivants :
 	- **a)** le 90<sup>e</sup> jour suivant la date de cessation de l’entreprise ou des activités;
 	- **b)** la date limite de production visée au paragraphe (5).
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/89-519, art. 2; DORS/93-443, art. 1; DORS/94-686, art. 53(F), 78(F), 79(F) et 81(F).
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/89-519, art. 2; DORS/93-443, art. 1; DORS/94-686, art. 53(F), 78(F), 79(F) et 81(F); 2007, ch. 29, art. 30.
 
 
 
@@ -8011,6 +8011,16 @@ représente par rapport
 
 
 
+### Fiducies intermédiaires de placement déterminées
+
+
+**2608** Pour l’application de la présente partie, si le particulier est une fiducie intermédiaire de placement déterminée, la mention du revenu gagné au cours d’une année d’imposition vaut mention de la somme qui, en l’absence du présent article, correspondrait à l’excédent éventuel de son revenu pour l’année sur son montant de distribution imposable pour l’année.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; 2007, ch. 29, art. 31.
+
+
+
+
+
 **PARTIE XXVII** 
 ## Avantages relatifs à l’assurance-vie collective temporaire
 
@@ -9436,13 +9446,13 @@ ce groupe doit être, sous réserve du paragraphe (4), réputé être une person
 
 **4900** 
 
-- **(1)** Pour l’application de l’alinéa d) de la définition de ***placement admissible*** au paragraphe 146(1) de la Loi, de l’alinéa e) de la définition de ***placement admissible*** au paragraphe 146.1(1) de la Loi, de l’alinéa c) de la définition de ***placement admissible*** au paragraphe 146.3(1) de la Loi et de l’alinéa i) de la définition de ***placement admissible*** à l’article 204 de la Loi, chacun des placements suivants constitue, sous réserve du paragraphe (2), un placement admissible pour une fiducie de régime à une date donnée si, à cette date, il s’agit :
+- **(1)** Pour l’application de l’alinéa d) de la définition de ***placement admissible*** au paragraphe 146(1) de la Loi, de l’alinéa e) de la définition de ***placement admissible*** au paragraphe 146.1(1) de la Loi, de l’alinéa c) de la définition de ***placement admissible*** au paragraphe 146.3(1) de la Loi et de l’alinéa h) de la définition de ***placement admissible*** à l’article 204 de la Loi, chacun des placements suivants constitue un placement admissible pour une fiducie de régime à une date donnée si, à cette date, il s’agit :
 	- **a)** d’un intérêt dans une fiducie ou d’une action du capital-actions d’une société qui constitue un placement enregistré pour la fiducie de régime au cours de l’année civile pendant laquelle tombe la date donnée ou de l’année immédiatement antérieure;
 	- **b)** d’une action du capital-actions d’une société publique, sauf une société de placement hypothécaire;
 	- **c)** d’une action du capital-actions d’une société de placement hypothécaire qui, à aucun moment de l’année civile qui comprend la date donnée, ne détient parmi ses biens une dette — sous forme d’hypothèque ou toute autre forme — d’une personne qui est un rentier, un bénéficiaire, un employeur ou un souscripteur en vertu du régime d’encadrement de la fiducie de régime, ou de toute autre personne qui a un lien de dépendance avec cette personne;
 	- **c.1)** de quelque obligation, billet ou titre semblable d’une société publique, sauf une société de placement hypothécaire;
 	- **d)** d’une unité d’une fiducie de fonds communs de placement;
-	- **d.1)** d’une obligation, d’un billet ou d’un titre semblable émis par une fiducie de fonds commun de placement dont les unités sont inscrites à la cote d’une bourse de valeurs visée à l’article 3200;
+	- **d.1)** [Abrogé, 2007, ch. 29, art. 32]
 	- **d.2)** d’une unité d’une fiducie, dans le cas où, à la fois :
 		- **(i)** la fiducie serait une fiducie de fonds commun de placement si la partie XLVIII s’appliquait compte non tenu de l’alinéa 4801a),
 		- **(ii)** des unités de la fiducie ont fait l’objet d’un appel public légal à l’épargne dans une province, et un prospectus, une déclaration d’enregistrement ou un document semblable relatif à cet appel n’avait pas à être produit selon la législation provinciale;
@@ -9451,7 +9461,7 @@ ce groupe doit être, sous réserve du paragraphe (4), réputé être une person
 			- **(A)** une action du capital-actions, une unité ou une créance de l’émetteur ou d’une autre personne ou société de personnes qui, au moment de l’émission du titre, a un lien de dépendance avec l’émetteur,
 			- **(B)** un droit de souscription émis par l’émetteur ou par une autre personne ou société de personnes qui, au moment de l’émission du titre, a un lien de dépendance avec l’émetteur, lequel droit confère au détenteur le droit d’acquérir des actions ou unités visées à la division (A),
 		- **(ii)** l’émetteur et quiconque est rentier, bénéficiaire, employeur ou souscripteur en vertu du régime d’encadrement de la fiducie de régime n’ont entre eux aucun lien de dépendance;
-	- **e.01)** d’une option, d’un droit de souscription ou d’un droit semblable inscrit à la cote d’une bourse de valeurs visée aux articles 3200 ou 3201 et se rapportant à des biens qui constituent chacun un placement admissible pour la fiducie de régime;
+	- **e.01)** [Abrogé, 2007, ch. 29, art. 32]
 	- **e.1)** un dépôt auprès d’une société d’entraide économique ou une action de son capital-actions;
 	- **f)** d’une action d’une caisse de crédit ou d’un intérêt dans une caisse de crédit;
 	- **g)** d’une obligation, d’un billet ou d’un autre titre semblable (appelé « titre » au présent alinéa) émis par une caisse de crédit, ou d’un dépôt auprès d’une caisse de crédit, qui, sauf si la fiducie de régime est régie par un régime enregistré d’épargne-études, n’a accordé, à aucun moment de l’année civile qui comprend la date donnée, d’avantage ou de privilège à une personne qui est un rentier, un bénéficiaire ou un employeur en vertu du régime d’encadrement de la fiducie de régime, ou à toute autre personne qui a un lien de dépendance avec cette personne, du fait :
@@ -9515,18 +9525,9 @@ et une caisse de crédit est réputée avoir accordé un avantage ou un privilè
 		- **(iv)** la Banque de développement des Caraïbes,
 		- **(v)** la Banque européenne pour la reconstruction et le développement,
 		- **(vi)** la Banque africaine de développement;
-	- **m)** d’une part de redevance cotée sur une bourse de valeurs mentionnée à l’article 3200 et dont la valeur provient uniquement d’avoirs miniers canadiens;
-	- **n)** d’une part dans une société de personnes en commandite, inscrite à la cote d’une bourse de valeurs visée à l’article 3200;
-	- **n.01)** d’une créance émise par une société de personnes en commandite dont les parts sont inscrites à la cote d’une bourse de valeurs visée à l’article 3200;
-	- **n.1)** d’une unité d’une fiducie donnée, si, à la fois :
-		- **(i)** à la date donnée, l’unité est cotée sur une bourse de valeurs mentionnée à l’article 3201,
-		- **(ii)** la principale raison d’être de la fiducie donnée est :
-			- **(A)** soit de détenir des titres qui sont compris dans un indice boursier (y compris celui qui comprend des titres émis par des sociétés ou d’autres entités exerçant un certain type d’activité d’entreprise) dans une proportion qui reflète, pour l’essentiel, leur poids dans cet indice,
-			- **(B)** soit d’effectuer des placements qui font en sorte que le rendement de la fiducie donnée imite le rendement de cet indice,
-		- **(iii)** à la date donnée ou au moment, antérieur à cette date, de la dernière acquisition de l’unité par la fiducie de régime, le total des montants représentant chacun le coût indiqué pour la fiducie donnée d’une action du capital-actions d’une société inscrite à la cote d’une seule des bourses mentionnées aux articles 3200 ou 3201 représente au moins 80 % du total des montants représentant chacun le coût indiqué pour la fiducie donnée d’un de ses biens;
+	- **m) à n.1)** [Abrogés, 2007, ch. 29, art. 32]
 	- **o)** d’une obligation, d’un billet ou d’un titre semblable émis par le gouvernement d’un pays étranger, qui, au moment de l’achat, était assorti d’une cote élevée de solvabilité attribuée par une agence de cotation des titres qui, dans le cours normal des activités de son entreprise, évalue la cote des titres de créance émis par ce gouvernement;
-	- **p)** d’une obligation, d’un billet ou d’un titre semblable d’une société dont les actions sont inscrites à la cote d’une bourse de valeurs visée à l’article 3201;
-	- **p.1)** d’un droit à une action du capital-actions d’une société qui est constaté par un certificat représentatif d’actions étrangères inscrit à la cote d’une bourse de valeurs visée aux articles 3200 ou 3201;
+	- **p) et p.1)** [Abrogés, 2007, ch. 29, art. 32]
 	- **q)** d’un titre de créance émis par une société canadienne (sauf une société à capital-actions ou une société qui a un lien de dépendance avec une personne qui est un rentier, un bénéficiaire, un employeur ou un souscripteur en vertu du régime d’encadrement de la fiducie de régime), si les conditions suivantes sont réunies :
 		- **(i)** le revenu imposable de la société est exonéré de l’impôt prévu à la partie I de la Loi par l’effet de l’alinéa 149(1)l) de la Loi,
 		- **(ii)** selon le cas :
@@ -9566,11 +9567,14 @@ et une caisse de crédit est réputée avoir accordé un avantage ou un privilè
 		- **(i)** le bien serait visé aux alinéas t) ou u) si ceux-ci s’appliquaient compte non tenu de leur sous-alinéa (iv),
 		- **(ii)** le certificat est acquis par la fiducie de régime directement de l’émetteur ou d’une société déterminée.
 
-- **(2)** Les billets, obligations, acceptations de banque ou autres titres semblables des personnes suivantes ne sont pas des placements admissibles pour la fiducie visée à l’alinéa a) :
-	- **a)** un employeur qui fait des paiements en fiducie à un fiduciaire dans le cadre d’un régime de participation différée aux bénéfices ou d’un régime dont l’agrément est retiré, pour le compte de bénéficiaires du régime;
-	- **b)** une société avec laquelle cet employeur a un lien de dépendance.
+- **(2)** Pour l’application de l’alinéa c.1) de la définition de ***placement admissible*** à l’article 204 de la Loi, sont visées les agences de notation suivantes :
+	- **a)** A.M. Best Company, Inc.;
+	- **b)** Dominion Bond Rating Service Limited;
+	- **c)** Fitch, Inc.;
+	- **d)** Moody’s Investors Service, Inc.;
+	- **e)** la division Standard and Poor’s de McGraw-Hill Companies, Inc.
 
-- **(3)** Pour l’application de l’alinéa i) de la définition de ***placement admissible*** à l’article 204 de la Loi, le contrat conclu avec un fournisseur de rentes autorisé relativement à une rente payable à un employé bénéficiaire d’un régime de participation différée aux bénéfices au plus tard à compter de la fin de l’année au cours de laquelle il atteint l’âge de 69 ans, et dont la durée garantie éventuelle ne dépasse pas 15 ans, est un placement admissible pour une fiducie régie par un tel régime ou par un régime dont l’agrément a été retiré.
+- **(3)** Pour l’application de l’alinéa h) de la définition de ***placement admissible*** à l’article 204 de la Loi, le contrat conclu avec un fournisseur de rentes autorisé relativement à une rente payable à un employé bénéficiaire d’un régime de participation différée aux bénéfices au plus tard à compter de la fin de l’année dans laquelle il atteint 71 ans, et dont la durée garantie éventuelle ne dépasse pas 15 ans, est un placement admissible pour une fiducie régie par un tel régime ou par un régime dont l’agrément est retiré.
 
 - **(4)** [Abrogé, DORS/2001-216, art. 6]
 
@@ -9581,7 +9585,7 @@ et une caisse de crédit est réputée avoir accordé un avantage ou un privilè
 	- **b)** un intérêt d’un commanditaire dans une société de personnes en commandite de placement dans des petites entreprises;
 	- **c)** une participation dans une fiducie de placement dans des petites entreprises.
 
-- **(7)** Pour l’application de l’alinéa i) de la définition de ***placement admissible*** à l’article 204 de la Loi et sous réserve du paragraphe (11), un bien est un placement admissible pour une fiducie régie, à un moment donné, par un régime de participation différée aux bénéfices ou par un régime dont l’agrément est retiré si, à ce moment, le bien est :
+- **(7)** Pour l’application de l’alinéa h) de la définition de ***placement admissible*** à l’article 204 de la Loi et sous réserve du paragraphe (11), un bien est un placement admissible pour une fiducie régie, à un moment donné, par un régime de participation différée aux bénéfices ou par un régime dont l’agrément est retiré si, à ce moment, le bien est :
 	- **a)** un intérêt d’un commanditaire dans une société de personnes en commandite de placement dans des petites entreprises;
 	- **b)** une participation dans une fiducie de placement dans des petites entreprises.
 
@@ -9634,7 +9638,7 @@ la participation ou l’intérêt visé aux sous-alinéas a)(i) ou (ii) est rép
 		- **(i)** soit un montant au titre ou en paiement intégral ou partiel des services fournis à l’émetteur ou à la personne liée, ou pour leur compte,
 		- **(ii)** soit un montant relatif à l’acquisition des marchandises de l’émetteur ou de la personne liée, ou aux services fournis par ceux-ci.
 L’action cesse définitivement d’être un tel placement pour la fiducie immédiatement avant la réception du montant.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/81-725, art. 4; DORS/83-819, art. 1; DORS/85-202, art. 1; DORS/86-390, art. 2; DORS/86-1092, art. 12(F); DORS/88-165, art. 24(F); DORS/92-660, art. 2; DORS/94-471, art. 1; DORS/94-472, art. 1; DORS/94-686, art. 26(F), 72(F), 74(F), 75(F), 78(F) et 79(F); DORS/95-513, art. 1; DORS/96-450, art. 1; DORS/98-250, art. 1; DORS/99-9, art. 1; DORS/99-81, art. 1; DORS/99-102, art. 1; DORS/2001-216, art. 6, 10(F) et 11(F); DORS/2001-289, art. 8(A); DORS/2005-264, art. 6.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/81-725, art. 4; DORS/83-819, art. 1; DORS/85-202, art. 1; DORS/86-390, art. 2; DORS/86-1092, art. 12(F); DORS/88-165, art. 24(F); DORS/92-660, art. 2; DORS/94-471, art. 1; DORS/94-472, art. 1; DORS/94-686, art. 26(F), 72(F), 74(F), 75(F), 78(F) et 79(F); DORS/95-513, art. 1; DORS/96-450, art. 1; DORS/98-250, art. 1; DORS/99-9, art. 1; DORS/99-81, art. 1; DORS/99-102, art. 1; DORS/2001-216, art. 6, 10(F) et 11(F); DORS/2001-289, art. 8(A); DORS/2005-264, art. 6; 2007, ch. 29, art. 32.
 
 
 
@@ -14363,11 +14367,11 @@ sous réserve du paragraphe (2), est visé quant au particulier pour l’année 
 
 **8308.3** 
 
-- **(1)** Dans le présent article, ***mécanisme de retraite déterminé*** s’entend, quant à un particulier et un employeur, d’un régime ou mécanisme dans le cadre duquel des paiements attribuables à l’emploi du particulier auprès de l’employeur sont à faire au particulier ou pour son compte, ou peuvent l’être, après la cessation de cet emploi. Ne sont pas des mécanismes de retraite déterminés :
+- **(1)** Dans le présent article, ***mécanisme de retraite déterminé*** s’entend, quant à un particulier et un employeur, d’un régime ou mécanisme dans le cadre duquel des paiements attribuables à l’emploi du particulier auprès de l’employeur sont à faire au particulier ou pour son compte, ou peuvent l’être, après la cessation de cet emploi. Ne sont pas des mécanismes de retraite déterminés :
 	- **a)** le régime ou mécanisme visé à l’un des alinéas a) à k), m) et n) de la définition de ***convention de retraite*** au paragraphe 248(1) de la Loi;
 	- **b)** [Abrogé, DORS/99-9, art. 12]
-	- **c)** le régime ou le mécanisme qui ne prévoit en aucun cas le versement de sommes au particulier, ou pour son compte, après le dernier jour de l’année civile où il atteint l’âge de 69 ans ou, s’il est postérieur, le jour qui suit de cinq ans la date de cessation de son emploi auprès de l’employeur;
-	- **d)** le régime ou mécanisme qui est une convention de retraite, ou qui le serait si ce n’était l’alinéa l) de la définition de ce terme au paragraphe 248(1) de la Loi, et dont le financement, selon le cas :
+	- **c)** le régime ou le mécanisme qui ne prévoit en aucun cas le versement de sommes au particulier, ou pour son compte, après le dernier jour de l’année civile où il atteint 71 ans ou, s’il est postérieur, le jour qui suit de cinq ans la date de cessation de son emploi auprès de l’employeur;
+	- **d)** le régime ou mécanisme qui est une convention de retraite, ou qui le serait si ce n’était l’alinéa l) de la définition de ce terme au paragraphe 248(1) de la Loi, et dont le financement, selon le cas :
 		- **(i)** est assujetti à la [Loi de 1985 sur les normes de prestation de pension](/fr/Lois/Lois%20du%20Canada/1985/ch.%2032%20(2e%20suppl.).md) ou à une loi provinciale semblable,
 		- **(ii)** se fait essentiellement en conformité avec les exigences qui s’appliqueraient si le régime ou mécanisme était assujetti à la [Loi de 1985 sur les normes de prestation de pension](/fr/Lois/Lois%20du%20Canada/1985/ch.%2032%20(2e%20suppl.).md);
 	- **e)** le régime ou mécanisme qui est réputé par le paragraphe 207.6(6) de la Loi être une convention de retraite;
@@ -14376,21 +14380,21 @@ sous réserve du paragraphe (2), est visé quant au particulier pour l’année 
 #### Crédit de pension
 
 
-- **(2)** Sous réserve des paragraphes (3) et (3.1), le crédit de pension d’un particulier pour une année civile quant à un employeur dans le cadre d’un mécanisme de retraite déterminé correspond au montant suivant :
+- **(2)** Sous réserve des paragraphes (3) et (3.1), le crédit de pension d’un particulier pour une année civile quant à un employeur dans le cadre d’un mécanisme de retraite déterminé correspond au montant suivant :
 	- **a)** en cas d’inapplication de l’alinéa b), zéro;
-	- **b)** dans le cas où les conditions suivantes sont réunies, le résultat du calcul prévu au sous-alinéa (v) qui serait obtenu si la fraction « 0,85 » était remplacée par « 1 » :
+	- **b)** dans le cas où les conditions suivantes sont réunies, le résultat du calcul prévu au sous-alinéa (v) qui serait obtenu si la fraction « 0,85 » était remplacée par « 1 » :
 		- **(i)** l’année en question est 1993 ou une année postérieure,
-		- **(ii)** l’employeur est, au cours de l’année :
+		- **(ii)** l’employeur est, au cours de l’année :
 			- **(A)** soit une personne qui est exonérée, par l’effet de l’article 149 de la Loi, de l’impôt prévu à la partie I de la Loi pour tout ou partie de son revenu imposable,
 			- **(B)** soit le gouvernement du Canada ou d’une province,
 		- **(iii)** le particulier a commencé à avoir droit à des prestations au cours de l’année, conditionnellement ou non, dans le cadre du mécanisme au titre de son emploi auprès de l’employeur,
 		- **(iv)** à la fin de l’année, le particulier a droit à des prestations, conditionnellement ou non, dans le cadre du mécanisme,
-		- **(v)** le montant obtenu par la formule suivante est supérieur à zéro :
+		- **(v)** le montant obtenu par la formule suivante est supérieur à zéro :
 ```
 0,85A - B
 ```
 où 
-- **A** représente le moins élevé des montants suivants :
+- **A** représente le moins élevé des montants suivants :
 		- **(A)** l’excédent éventuel du montant représentant 18 pour cent de la rétribution de résident que le particulier a reçue de l’employeur pour l’année sur le montant de réduction du FE pour l’année,
 		- **(B)** l’excédent du plafond des cotisations déterminées pour l’année sur le montant de réduction du FE pour l’année,
 - **B** le montant qui correspondrait au facteur d’équivalence du particulier pour l’année quant à l’employeur s’il n’était pas tenu compte de l’alinéa 8301(1)c).
@@ -14403,22 +14407,22 @@ où
 #### Crédits de pension — 1996 à 2002
 
 
-- **(3.1)** Pour le calcul du crédit de pension d’un particulier pour une année civile postérieure à 1995 et antérieure à 2003 quant à un employeur dans le cadre d’un mécanisme de retraite déterminé :
-	- **a)** le passage de l’alinéa (2) b) précédant le sous-alinéa (i) est remplacé par ce qui suit :
+- **(3.1)** Pour le calcul du crédit de pension d’un particulier pour une année civile postérieure à 1995 et antérieure à 2003 quant à un employeur dans le cadre d’un mécanisme de retraite déterminé :
+	- **a)** le passage de l’alinéa (2) b) précédant le sous-alinéa (i) est remplacé par ce qui suit :
 
-	- **« b)** dans le cas où les conditions suivantes sont réunies, le montant qui serait déterminé selon la formule figurant au sous-alinéa (v) si la fraction « 0,85 » était remplacée par « 1 » et si la division (B) de l’élément A de cette formule était remplacée par « (B) le plafond des cotisations déterminées pour l’année » : »
+	- **« b)** dans le cas où les conditions suivantes sont réunies, le montant qui serait déterminé selon la formule figurant au sous-alinéa (v) si la fraction « 0,85 » était remplacée par « 1 » et si la division (B) de l’élément A de cette formule était remplacée par « (B) le plafond des cotisations déterminées pour l’année » : »
 
 
-	- **b)** le sous-alinéa (2) b)(v) est remplacé par ce qui suit :
+	- **b)** le sous-alinéa (2) b)(v) est remplacé par ce qui suit :
 
-		- **« (v)** le montant obtenu par la formule suivante est supérieur à zéro :
+		- **« (v)** le montant obtenu par la formule suivante est supérieur à zéro :
 ```
 0,85A - B
 ```
 où 
-- **A** représente le moins élevé des montants suivants :
+- **A** représente le moins élevé des montants suivants :
 		- **(A)** l’excédent éventuel du montant représentant 18 pour cent de la rétribution de résident que le particulier a reçue de l’employeur pour l’année sur le montant de réduction du FE pour l’année,
-		- **(B)** l’excédent de 15 500 $ sur le montant de réduction du FE pour l’année,
+		- **(B)** l’excédent de 15 500 $ sur le montant de réduction du FE pour l’année,
 - **B** le montant qui correspondrait au facteur d’équivalence du particulier pour l’année quant à l’employeur s’il n’était pas tenu compte de l’alinéa 8301(1)c). »
 
 
@@ -14426,9 +14430,9 @@ où
 #### Facteur d’équivalence pour services passés (mécanisme de retraite déterminé)
 
 
-- **(4)** Sous réserve du paragraphe (5), en cas de modification des prestations auxquelles un particulier a droit, conditionnellement ou non, dans le cadre d’un mécanisme de retraite déterminé, le facteur d’équivalence pour services passés (mécanisme de retraite déterminé) du particulier quant à un employeur qui est rattaché à la modification correspond à l’excédent éventuel :
+- **(4)** Sous réserve du paragraphe (5), en cas de modification des prestations auxquelles un particulier a droit, conditionnellement ou non, dans le cadre d’un mécanisme de retraite déterminé, le facteur d’équivalence pour services passés (mécanisme de retraite déterminé) du particulier quant à un employeur qui est rattaché à la modification correspond à l’excédent éventuel :
 	- **a)** du total des montants représentant chacun le montant qui, s’il n’était pas tenu compte du paragraphe (3), correspondrait au crédit de pension du particulier quant à l’employeur dans le cadre du mécanisme pour une année civile antérieure à celle de la modification des prestations,
-sur le total des montants représentant chacun :
+sur le total des montants représentant chacun :
 	- **b)** le crédit de pension du particulier quant à l’employeur dans le cadre du mécanisme pour une année civile antérieure à celle de la modification des prestations;
 	- **c)** le facteur d’équivalence pour services passés (mécanisme de retraite déterminé) du particulier quant à l’employeur qui est rattaché à une modification antérieure de ses prestations dans le cadre du mécanisme.
 
@@ -14436,7 +14440,7 @@ sur le total des montants représentant chacun :
 
 
 - **(5)** Dans le cas où le ministre a approuvé par écrit, à la demande écrite d’un employeur, une méthode de calcul du facteur d’équivalence pour services passés (mécanisme de retraite déterminé) d’un particulier quant à l’employeur qui est rattaché à la modification des prestations du particulier dans le cadre d’un mécanisme de retraite déterminé, ce facteur est calculé selon cette méthode.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/96-311, art. 8; DORS/99-9, art. 12; DORS/2005-264, art. 22.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/96-311, art. 8; DORS/99-9, art. 12; DORS/2005-264, art. 22; 2007, ch. 29, art. 33.
 
 
 
@@ -15056,9 +15060,9 @@ pour l’application du présent alinéa,
 #### Versement des prestations
 
 - **e)** le régime :
-	- **(i)** d’une part, exige que le versement au participant des prestations de retraite prévues par chaque disposition à cotisations ou à prestations déterminées débute au plus tard à la fin de l’année civile où le participant atteint l’âge de 69 ans; toutefois :
-		- **(A)** si les prestations sont prévues par une disposition à prestations déterminées, leur versement peut débuter à tout moment postérieur que le ministre juge acceptable, à condition que le montant des prestations payables, calculé sur une année, ne dépasse pas celui qui serait payable si le versement des prestations débutait à la fin de l’année civile où le participant atteint l’âge de 69 ans,
-		- **(B)** si les prestations sont prévues par une disposition à cotisations déterminées conformément à l’alinéa 8506(1)e.1), leur versement peut débuter au plus tard à la fin de l’année civile où le participant atteint l’âge de 70 ans,
+	- **(i)** d’une part, exige que le versement au participant des prestations de retraite prévues par chaque disposition à cotisations ou à prestations déterminées débute au plus tard à la fin de l’année civile dans laquelle le participant atteint 71 ans; toutefois :
+		- **(A)** si les prestations sont prévues par une disposition à prestations déterminées, leur versement peut débuter à tout moment postérieur que le ministre juge acceptable, mais seulement si le montant des prestations payables, calculé sur une année, ne dépasse pas celui qui serait payable si le versement des prestations débutait à la fin de l’année civile dans laquelle le participant atteint 71 ans,
+		- **(B)** si les prestations sont prévues par une disposition à cotisations déterminées conformément à l’alinéa 8506(1)e.1), leur versement peut débuter au plus tard à la fin de l’année civile dans laquelle le participant atteint 72 ans,
 	- **(ii)** d’autre part, prévoit que les prestations de retraite prévues par chaque disposition à cotisations ou à prestations déterminées sont versées à intervalles ne dépassant pas un an;
 
 #### Cession de droits
@@ -15106,7 +15110,7 @@ ou encore les conditions suivantes :
 #### Participants aux mécanismes de retraite sous régime gouvernemental
 
 - **m)** aucun particulier qui, à un moment donné après 1993, a droit à des prestations, conditionnellement ou non, dans le cadre du régime au titre de son emploi auprès d’un employeur avec lequel il est rattaché n’a droit à ce moment à des prestations, conditionnellement ou non, dans le cadre d’un mécanisme de retraite sous régime gouvernemental, au sens du paragraphe 8308.4(1).
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/94-686, art. 42(F); DORS/95-64, art. 10; DORS/96-311, art. 15; DORS/99-9, art. 21; DORS/2001-188, art. 10; DORS/2003-328, art. 9; DORS/2005-264, art. 26.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/94-686, art. 42(F); DORS/95-64, art. 10; DORS/96-311, art. 15; DORS/99-9, art. 21; DORS/2001-188, art. 10; DORS/2003-328, art. 9; DORS/2005-264, art. 26; 2007, ch. 29, art. 34.
 
 
 
@@ -15228,7 +15232,7 @@ où
 		- **(ii)** le bénéficiaire est l’époux ou le conjoint de fait ou l’ex-époux ou l’ancien conjoint de fait du participant,
 		- **(iii)** les prestations au survivant sont payables pour une période commençant au plus tard au dernier en date des jours suivants et se terminant au décès du bénéficiaire :
 			- **(A)** le jour qui marque le premier anniversaire du décès du participant,
-			- **(B)** le 31 décembre de l’année civile où le particulier atteint l’âge de 69 ans,
+			- **(B)** le 31 décembre de l’année civile dans laquelle le particulier atteint 71 ans,
 		- **(iv)** les prestations au survivant seraient conformes à l’alinéa a) si le bénéficiaire participait au régime,
 		- **(v)** la valeur actualisée, au moment du décès du participant, de toutes les prestations prévues par suite de son décès ne dépasse pas la valeur actualisée, immédiatement avant son décès, de toutes les prestations qui lui étaient acquises aux termes de la disposition le jour de son décès;
 
@@ -15535,6 +15539,18 @@ les règles suivantes s’appliquent :
 
 - **(11)** Lorsque le participant à un régime de pension agréé devient l’employé d’un employeur participant après le début du versement des prestations de retraite prévues par une disposition à prestations déterminées du régime et qu’il est raisonnable de considérer que l’un des principaux motifs de l’emploi du participant consiste à lui permettre de tirer profit des modalités du régime qui permettent de calculer de nouveau les prestations de retraite qui lui sont assurées pour une période antérieure au début de leur versement, l’agrément du régime peut être retiré au moment de la reprise du versement des prestations au participant.
 
+#### Règles spéciales applicables aux participants âgés de 70 ou 71 ans en 2007
+
+
+- **(11.1)** Dans le cas où, à la fois :
+	- **a)** le participant à un régime de pension agréé a atteint 69 ans en 2005 ou 2006,
+	- **b)** des prestations de retraite prévues par une disposition à prestations déterminées du régime ont commencé à lui être versées au cours de l’année où il a atteint 69 ans,
+	- **c)** le versement de ces prestations est suspendu en 2007,
+	- **d)** le participant a été au service d’un employeur participant au cours de la période allant du début du versement des prestations jusqu’au moment de la suspension,
+les règles suivantes s’appliquent :
+	- **e)** les paragraphes (9) et (11) s’appliquent au participant comme s’il était devenu l’employé de l’employeur participant au moment de la suspension;
+	- **f)** pour l’application du paragraphe (10), il n’est pas tenu compte des prestations versées au participant aux termes de la disposition avant le moment de la suspension.
+
 #### Limites fonction de l’indice des prix à la consommation
 
 
@@ -15567,7 +15583,7 @@ les présomptions suivantes s’appliquent aux fins des conditions énoncées au
 		- **(i)** soit après le 10 décembre 1989,
 		- **(ii)** soit avant le 11 décembre 1989 lorsqu’elle n’a pas été approuvée par le ministre avant cette date aux termes de l’alinéa 20(1)s) de la Loi;
 	- **c)** il est raisonnable de considérer que l’employeur, en accord avec le participant, a versé la totalité, ou presque, de la partie de la cotisation qui se rapporte aux prestations pour services passés au lieu de payer au participant un montant ou autre prestation auquel il aurait droit par ailleurs.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/95-64, art. 11; DORS/99-9, art. 22; DORS/2001-67, art. 6; DORS/2001-188, art. 11 et 14 à 16; DORS/2003-396, art. 1; DORS/2005-264, art. 27; DORS/2007-116, art. 16(F).
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/95-64, art. 11; DORS/99-9, art. 22; DORS/2001-67, art. 6; DORS/2001-188, art. 11 et 14 à 16; DORS/2003-396, art. 1; DORS/2005-264, art. 27; 2007, ch. 29, art. 35; DORS/2007-116, art. 16(F).
 
 
 
@@ -15894,7 +15910,7 @@ la condition énoncée à l’alinéa (3)d) s’applique aux prestations qui lui
 	- **e)** des prestations de retraite assurées au bénéficiaire d’un participant décédé avant le début du versement à celui-ci des prestations de retraite prévues par la disposition, ainsi que des prestations prévues pour d’autres particuliers après le décès du bénéficiaire, si les conditions suivantes sont réunies :
 		- **(i)** le bénéficiaire est l’époux ou le conjoint de fait ou l’ex-époux ou l’ancien conjoint de fait du participant au moment du décès de celui-ci,
 		- **(ii)** les prestations seraient permises par les alinéas a) à c) si le bénéficiaire participait au régime,
-		- **(iii)** les prestations de retraite sont payables au bénéficiaire au plus tard à compter du premier anniversaire du décès du participant ou, s’il est postérieur, du 31 décembre de l’année civile où le bénéficiaire atteint l’âge de 69 ans;
+		- **(iii)** les prestations de retraite sont payables au bénéficiaire au plus tard à compter du premier anniversaire du décès du participant ou, s’il est postérieur, du 31 décembre de l’année civile dans laquelle le bénéficiaire atteint 71 ans;
 
 #### Prestation variables
 
@@ -15942,7 +15958,7 @@ la condition énoncée à l’alinéa (3)d) s’applique aux prestations qui lui
 
 #### Cotisations interdites
 
-	- **c.1)** après l’année civile où un participant atteint l’âge de 69 ans, aucune cotisation n’est versée à son égard dans le cadre de la disposition et aucune somme n’est transférée à son profit à la disposition d’une autre disposition à cotisations ou à prestations déterminées du régime, sauf s’il s’agit d’une somme qui est transférée à son profit à la disposition :
+	- **c.1)** après l’année civile dans laquelle le participant atteint 71 ans, aucune cotisation n’est versée à son égard dans le cadre de la disposition et aucune somme n’est transférée à son profit à la disposition d’une autre disposition à cotisations ou à prestations déterminées du régime, sauf s’il s’agit d’une somme qui est transférée à son profit à la disposition :
 		- **(i)** soit conformément aux paragraphes 146.3(14.1) ou 147.3(1) ou (4) de la Loi,
 		- **(ii)** soit d’une autre disposition à cotisations ou à prestations déterminées du régime, dans le cas où le montant ainsi transféré serait conforme aux paragraphes 147.3(1) ou (4) de la Loi si les dispositions à cotisations ou à prestations déterminées faisaient partie de régimes de pension agréés distincts;
 
@@ -16019,7 +16035,7 @@ où :
 
 - **(7)** Le minimum relatif au compte d’un participant dans le cadre de la disposition à cotisations déterminées d’un régime de pension agréé pour une année civile est égal à zéro si, à la fois :
 	- **a)** un particulier, qui est soit le participant, soit son bénéficiaire déterminé pour l’année dans le cadre de la disposition, est vivant au début de l’année;
-	- **b)** le particulier n’avait pas atteint l’âge de 69 ans à la fin de l’année civile précédente.
+	- **b)** le particulier n’avait pas atteint 71 ans à la fin de l’année précédente.
 
 #### Bénéficiaire déterminé
 
@@ -16028,7 +16044,7 @@ où :
 	- **a)** le participant est décédé avant le début de l’année;
 	- **b)** le particulier compte parmi les bénéficiaires du participant et était son époux ou conjoint de fait immédiatement avant le décès du participant;
 	- **c)** avant le début de l’année, le participant ou son représentant légal avait remis à l’administrateur du régime un document désignant le particulier, et personne d’autre, à titre de bénéficiaire déterminé du participant pour l’année dans le cadre de la disposition.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/95-64, art. 13; DORS/99-9, art. 23; DORS/2001-188, art. 14 et 15; DORS/2005-264, art. 28.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/95-64, art. 13; DORS/99-9, art. 23; DORS/2001-188, art. 14 et 15; DORS/2005-264, art. 28; 2007, ch. 29, art. 36.
 
 
 
