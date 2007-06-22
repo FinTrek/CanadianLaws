@@ -408,7 +408,7 @@ Version anglaise seulement***prescribed*** means
 
 **21** The definitions in this section apply in sections 21.1 to 21.3.
 
- or  ou ***beer*** or ***malt liquor*** means beer or malt liquor, within the meaning of section 4 of the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md) , of tariff item No. 2202.90.10, heading No. 22.03 or tariff item No. 2206.00.80 or 2206.00.91, that is classified under that heading or tariff item or with the container in which it is imported.
+ or  ou ***beer*** or ***malt liquor*** means beer or malt liquor, within the meaning of section 4 of the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), of tariff item No. 2202.90.10 or heading 22.03, that is classified under that heading or tariff item or with the container in which it is imported.
 
 ***bulk*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md).
 
@@ -418,16 +418,16 @@ Version anglaise seulement***prescribed*** means
 
 ***licensed user*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md).
 
-***packaged*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md). 
+***packaged*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md).
 
-***specified premises*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md). 
+***specified premises*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md).
 
-***spirits*** means spirits, as defined in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md), 
+***spirits*** means spirits, as defined in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md),
 - **(a)** of an alcoholic strength by volume exceeding 22.9%, of tariff item No. 2204.10.90, 2204.21.32, 2204.21.49, 2204.29.32, 2204.29.49, 2204.30.90, 2205.10.30, 2205.90.30, 2206.00.19, 2206.00.22, 2206.00.39, 2206.00.49, 2206.00.72 or 2206.00.93, that are classified under that tariff item or with the container in which they are imported; or
 - **(b)** of heading No. 22.07 or 22.08, other than of tariff item No. 2207.20.11, 2207.20.12, 2207.20.90 or 2208.90.30, that are classified under that heading or with the container in which they are imported.
 
-***wine*** means wine, as defined in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md) , of heading No. 22.04, 22.05 or 22.06, other than of tariff item No. 2204.10.90, 2204.21.32, 2204.21.49, 2204.29.32, 2204.29.49, 2204.30.90, 2205.10.30, 2205.90.30, 2206.00.19, 2206.00.22, 2206.00.39, 2206.00.49, 2206.00.72, 2206.00.80, 2206.00.91 or 2206.00.93, that is classified under that heading or with the container in which it is imported.
-> 1997, c. 36, s. 21; 2001, c. 16, s. 3; 2002, c. 22, ss. 346, 412; 2003, c. 15, s. 45.
+***wine*** means wine, as defined in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md), of heading 22.04, 22.05 or 22.06, other than of tariff item No. 2204.10.90, 2204.21.32, 2204.21.49, 2204.29.32, 2204.29.49, 2204.30.90, 2205.10.30, 2205.90.30, 2206.00.19, 2206.00.22, 2206.00.39, 2206.00.49, 2206.00.72 or 2206.00.93, that is classified under that heading or with the container in which it is imported.
+> 1997, c. 36, s. 21; 2001, c. 16, s. 3; 2002, c. 22, ss. 346, 412; 2003, c. 15, s. 45; 2007, c. 18, s. 142.
 
 
 
