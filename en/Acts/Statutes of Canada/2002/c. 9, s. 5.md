@@ -96,7 +96,7 @@ Assented to on 27 March 2002
 
 ***judge***, in respect of any matter, means a judge of a superior court having jurisdiction in the province in which the matter arises or a judge of the Federal Court.
 
-***listed airport*** means an airport listed in the schedule and a prescribed airport.
+***listed airport*** means an airport listed in the schedule.
 
 ***Minister*** means the Minister of National Revenue.
 
@@ -112,6 +112,8 @@ Version anglaise seulement***prescribed*** means
 - **(c)** in any other case, prescribed by regulation or determined in accordance with rules prescribed by regulation.
 
 ***record*** means any material on which data are recorded or marked and which is capable of being read or understood by a person or a computer system or other device.
+
+***registered charity*** has the same meaning as in subsection 248(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
 
 ***secured creditor*** means
 - **(a)** a particular person who has a security interest in the property of another person; or
@@ -129,7 +131,7 @@ Version anglaise seulement***prescribed*** means
 - **(c)** that results from the provision of emergency or ground services to an aircraft or its occupants.
 
 ***Tax Court*** means the Tax Court of Canada.
-> 2002, c. 9, s. 5 "2"; 2005, c. 38, s. 31.
+> 2002, c. 9, s. 5 “2”; 2005, c. 38, s. 31; 2007, c. 18, s. 144.
 
 
 
@@ -223,12 +225,20 @@ Version anglaise seulement***prescribed*** means
 
 - **(1)** Every person who acquires from a designated air carrier all or part of an air transportation service that includes a chargeable emplanement shall pay to Her Majesty a charge as determined under this Act in respect of the service.
 
+**Exceptions**
+
+- **(1.1)** No charge is payable in respect of an air transportation service that is acquired
+	- **(a)** by a person for the purpose of re-selling the service, if the person sells the service to another person before April 1, 2002 and makes full and final payment to the air carrier in respect of the service before May 1, 2002; or
+	- **(b)** by a registered charity from an air carrier for no consideration, if the service is donated by the charity to an individual for no consideration and in pursuit of its charitable purposes.
+
 **When charge payable**
 
 - **(2)** The charge in respect of the air transportation service is payable
 	- **(a)** if any consideration is paid or payable for the service, at the time any consideration for the service is first paid or becomes payable;
 	- **(b)** if no consideration is paid or payable for the service, at the time a ticket is issued for the service; or
 	- **(c)** if no consideration is paid or payable for the service and no ticket is issued for the service, at the time of emplanement.
+> 2002, c. 9, s. 5 “11”; 2007, c. 18, s. 145.
+
 
 
 
@@ -544,12 +554,12 @@ and is property beneficially owned by Her Majesty despite any security interest 
 
 **30** 
 
-- **(1)** The Minister may, on or before the day that is ten calendar years after the end of a fiscal month of a person, waive or reduce any interest payable by the person under this Act on an amount that is required to be paid by the person under this Act in respect of the fiscal month.
+- **(1)** The Minister may, on or before the day that is 10 calendar years after the end of a fiscal month of a person, or on application by the person on or before that day, waive or reduce any interest payable by the person under this Act on an amount that is required to be paid by the person under this Act in respect of the fiscal month.
 
 **Interest where amounts waived or reduced**
 
 - **(2)** If a person has paid an amount of interest and the Minister has waived or reduced under subsection (1) any portion of the amount, the Minister shall pay interest at the prescribed rate on an amount equal to the portion of the amount that was waived or reduced beginning on the day that is 30 days after the day on which the Minister received a request in a manner satisfactory to the Minister to apply that subsection and ending on the day on which the portion is refunded to the person.
-> 2002, c. 9, s. 5 "30"; 2006, c. 4, s. 102.
+> 2002, c. 9, s. 5 “30”; 2006, c. 4, s. 102; 2007, c. 18, s. 146.
 
 
 
@@ -922,7 +932,7 @@ and is property beneficially owned by Her Majesty despite any security interest 
 
 **How application made**
 
-- **(3)** An application must be made by delivering or mailing, to the Chief of Appeals in a Tax Services Office or Taxation Centre of the Agency, the application accompanied by a copy of the notice of objection.
+- **(3)** An application must be made by delivering or mailing, to the Chief of Appeals in a Tax Services Office of the Agency, the application accompanied by a copy of the notice of objection.
 
 **Defect in application**
 
@@ -942,10 +952,12 @@ and is property beneficially owned by Her Majesty despite any security interest 
 	- **(a)** the application is made within one year after the expiry of the time limited under this Act for objecting; and
 	- **(b)** the person demonstrates that
 		- **(i)** within the time limited under this Act for objecting, the person
-			- **(A)** was unable to act or to give a mandate to act in their name, and
+			- **(A)** was unable to act or to give a mandate to act in their name, or
 			- **(B)** had a *bona fide* intention to object to the assessment,
 		- **(ii)** given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application, and
 		- **(iii)** the application was made as soon as circumstances permitted it to be made.
+> 2002, c. 9, s. 5 “44”; 2007, c. 18, s. 147.
+
 
 
 
@@ -984,10 +996,12 @@ and is property beneficially owned by Her Majesty despite any security interest 
 	- **(a)** the application under subsection 44(1) was made within one year after the expiry of the time limited under this Act for objecting; and
 	- **(b)** the person demonstrates that
 		- **(i)** within the time limited under this Act for objecting, the person
-			- **(A)** was unable to act or to give a mandate to act in their name, and
+			- **(A)** was unable to act or to give a mandate to act in their name, or
 			- **(B)** had a *bona fide* intention to object to the assessment,
 		- **(ii)** given the reasons set out in the application under this section and the circumstances of the case, it would be just and equitable to grant the application, and
 		- **(iii)** the application under subsection 44(1) was made as soon as circumstances permitted it to be made.
+> 2002, c. 9, s. 5 “45”; 2007, c. 18, s. 148.
+
 
 
 
@@ -1035,11 +1049,13 @@ and is property beneficially owned by Her Majesty despite any security interest 
 	- **(a)** the application is made within one year after the expiry of the time limited under section 46 for appealing; and
 	- **(b)** the person demonstrates that
 		- **(i)** within the time limited under section 46 for appealing, the person
-			- **(A)** was unable to act or to give a mandate to act in their name, and
+			- **(A)** was unable to act or to give a mandate to act in their name, or
 			- **(B)** had a *bona fide* intention to appeal,
 		- **(ii)** given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application,
 		- **(iii)** the application was made as soon as circumstances permitted it to be made, and
 		- **(iv)** there are reasonable grounds for the appeal.
+> 2002, c. 9, s. 5 “47”; 2007, c. 18, s. 149.
+
 
 
 
@@ -1122,7 +1138,7 @@ and is property beneficially owned by Her Majesty despite any security interest 
 
 **Appeal**
 
-- **(6)** If a question set out in an application is determined by the Tax Court, the Minister or any of the persons who have been served with a copy of the application and who are named in an order of the Court under subsection (4) may, in accordance with the provisions of this Act, the [Tax Court of Canada Act](/en/Acts/Revised%20Statutes%20of%20Canada/T/T-2.md) or the Federal Court Act, as they relate to appeals from or applications for judicial review of decisions of the Tax Court, appeal from the determination.
+- **(6)** If a question set out in an application is determined by the Tax Court, the Minister or any of the persons who have been served with a copy of the application and who are named in an order of the Court under subsection (4) may, in accordance with the provisions of this Act, the [Tax Court of Canada Act](/en/Acts/Revised%20Statutes%20of%20Canada/T/T-2.md) or the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md), as they relate to appeals from or applications for judicial review of decisions of the Tax Court, appeal from the determination.
 
 **Parties to appeal**
 
@@ -1140,6 +1156,8 @@ and is property beneficially owned by Her Majesty despite any security interest 
 - **(9)** The period that is not to be counted in the computation of the periods described in paragraphs (8)(a) to (c) is the time between the day on which an application that is made under this section is served on a person under subsection (3) and
 	- **(a)** in the case of a person named in an order of the Tax Court under subsection (4), the day on which the determination becomes final and conclusive and not subject to any appeal; or
 	- **(b)** in the case of any other person, the day on which the person is served with a notice that the person has not been named in an order of the Tax Court under subsection (4).
+> 2002, c. 9, s. 5 “52”; 2007, c. 18, s. 150.
+
 
 
 
@@ -1171,12 +1189,12 @@ and is property beneficially owned by Her Majesty despite any security interest 
 
 **55** 
 
-- **(1)** The Minister may, on or before the day that is ten calendar years after the end of a fiscal month of a person, waive or cancel any penalty payable by the person under section 53 in respect of the fiscal month.
+- **(1)** The Minister may, on or before the day that is 10 calendar years after the end of a fiscal month of a person, or on application by the person on or before that day, waive or cancel any penalty payable by the person under section 53 in respect of the fiscal month.
 
 **Interest where amount waived or cancelled**
 
 - **(2)** If a person has paid an amount of penalty and the Minister waives or cancels that amount under subsection (1), the Minister shall pay interest on the amount paid by the person beginning on the day that is 30 days after the day on which the Minister received a request in a manner satisfactory to the Minister to apply that subsection and ending on the day on which the amount is refunded to the person.
-> 2002, c. 9, s. 5 "55"; 2006, c. 4, s. 107.
+> 2002, c. 9, s. 5 “55”; 2006, c. 4, s. 107; 2007, c. 18, s. 151.
 
 
 
@@ -1821,6 +1839,10 @@ the Minister may, by notice in writing, require the institution or person, as th
 
 - **(1)** The Governor in Council may make regulations prescribing any matter or thing that by this Act is to be or may be prescribed and generally to carry out the purposes and provisions of this Act.
 
+**Amendments to the schedule**
+
+- **(1.1)** The Governor in Council may, by regulation, amend the schedule by adding, deleting or varying the reference to an airport.
+
 **Effect**
 
 - **(2)** A regulation made under this Act has effect from the day it is published in the Canada Gazette or at any later time that may be specified in the regulation, unless it provides otherwise and
@@ -1828,12 +1850,14 @@ the Minister may, by notice in writing, require the institution or person, as th
 	- **(b)** corrects an ambiguous or deficient enactment that was not in accordance with the objects of this Act;
 	- **(c)** is consequential on an amendment to this Act that is applicable before the day on which the regulation is published in the Canada Gazette; or
 	- **(d)** gives effect to a budgetary or other public announcement, in which case the regulation shall not, unless paragraph (a), (b) or (c) applies, have effect before the day on which the announcement was made.
+> 2002, c. 9, s. 5 “84”; 2007, c. 18, s. 152.
+
 
 
 
 
 ### **SCHEDULE** 
-**(Section 2)**
+**(Section 2 and subsection 84(1.1))**
 ## Listed Airports
 
 ### Ontario
@@ -1938,14 +1962,6 @@ La Grande Rivière
 
 
 
-La Grande-3
-
-
-
-La Grande-4
-
-
-
 Lourdes-de-Blanc-Sablon
 
 
@@ -1963,6 +1979,10 @@ Montreal International (Mirabel)
 
 
 Quebec (Jean Lesage International)
+
+
+
+Rivière-Rouge (Mont Tremblant International)
 
 
 
@@ -2175,6 +2195,10 @@ Medicine Hat
 
 
 
+Red Deer Regional
+
+
+
 ### Newfoundland and Labrador
 
 
@@ -2229,5 +2253,7 @@ Yellowknife
 
 Iqaluit
 
+
+> 2002, c. 9, s. 5 “Sch.”; 2007, c. 18, ss. 153 to 156.
 
 
