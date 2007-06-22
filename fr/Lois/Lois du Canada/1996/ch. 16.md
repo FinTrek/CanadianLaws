@@ -37,16 +37,18 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***bien réel fédéral*** S’entend au sens de l’article 2 de la [Loi sur les immeubles fédéraux et les biens réels fédéraux](/fr/Lois/Lois%20du%20Canada/1991/ch.%2050.md).
+***bien réel fédéral*** S’entend au sens de l’article 2 de la [Loi sur les immeubles fédéraux et les biens réels fédéraux](/fr/Lois/Lois%20du%20Canada/1991/ch.%2050.md). (*federal real property*)
 
-***immeuble fédéral*** S’entend au sens de l’article 2 de la [Loi sur les immeubles fédéraux et les biens réels fédéraux](/fr/Lois/Lois%20du%20Canada/1991/ch.%2050.md).
+***immeuble fédéral*** S’entend au sens de l’article 2 de la [Loi sur les immeubles fédéraux et les biens réels fédéraux](/fr/Lois/Lois%20du%20Canada/1991/ch.%2050.md). (*federal immovable*)
 
-***ministère*** S’entend au sens de l’article 2 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
+***ministère*** S’entend au sens de l’article 2 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md). (*department*)
 
- ou ***ouvrage public*** ou ***travaux publics*** Ouvrage ou bien placé sous l’autorité du ministre.
+***ministre compétent*** S’entend au sens de l’article 2 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md). (*appropriate minister*)
 
-***société d’État*** S’entend au sens de l’article 2 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
-> 1996, ch. 16, art. 2; 2001, ch. 4, art. 156.
+***ouvrage public*** ou ***travaux publics*** Ouvrage ou bien placé sous l’autorité du ministre. (*public work*)
+
+***société d’État*** S’entend au sens de l’article 2 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md). (*Crown corporation*)
+> 1996, ch. 16, art. 2; 2001, ch. 4, art. 156; 2007, ch. 29, art. 151.
 
 
 
@@ -140,7 +142,30 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Délégation de pouvoir**
 
-**8** Le ministre peut, pour les périodes et selon les modalités qu’il estime indiquées, déléguer une partie des attributions que lui confère la présente loi à un ministre compétent, au sens de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
+**8** 
+
+- **(1)** Le ministre peut, pour les périodes et selon les modalités qu’il estime indiquées, déléguer les attributions que lui confère la présente loi à un ministre compétent.
+
+**Délégation de pouvoir**
+
+- **(2)** Le ministre peut, pour les périodes et selon les modalités qu’il estime indiquées, à l’égard de tout ministère qui n’est pas placé sous son autorité mais dont il est le ministre compétent, déléguer les attributions que lui confère la présente loi à l’administrateur principal du ministère.
+
+**Subdélégation**
+
+- **(3)** Le ministre compétent peut, sous réserve des conditions et modalités de la délégation visée au paragraphe (1), subdéléguer à l’administrateur principal du ministère, pour les périodes et selon les modalités qu’il estime indiquées, les attributions qui lui ont été déléguées par le ministre.
+
+**Subdélégation**
+
+- **(4)** L’administateur principal peut, sous réserve des conditions et modalités de la délégation visée au paragraphe (2) ou de la subdélégation visée au paragraphe (3), subdéléguer à ses subordonnés, pour les périodes et selon les modalités qu’il estime indiquées, les attributions qui lui ont été déléguées par le ministre ou subdéléguées par le ministre compétent.
+
+**Définition**
+
+- **(5)** Au présent article, ***administrateur principal*** s’entend :
+	- **a)** s’agissant d’un ministère mentionné à la partie I de l’annexe VI de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), de son sous-ministre;
+	- **b)** s’agissant d’un ministère mentionné aux parties II ou III de cette annexe, du titulaire du poste mentionné en regard de ce ministère;
+	- **c)** s’agissant d’un ministère qui n’est pas mentionné à la même annexe, du premier dirigeant ou de l’administrateur général du ministère ou du titulaire d’un poste équivalent.
+> 1996, ch. 16, art. 8; 2007, ch. 29, art. 152.
+
 
 
 
@@ -148,6 +173,26 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Pouvoirs soustraits à d’autres autorités**
 
 **9** Sauf dans la mesure où il les a délégués, le ministre exerce, en matière d’acquisition et de fourniture de matériel pour le compte d’un ministère, les pouvoirs accordés à cet égard à un ministre ou à une autre autorité sous le régime d’une loi fédérale.
+
+
+
+
+**Exemption**
+
+**9.1** L’article 9 ne s’applique pas à tout ministère au sens de l’alinéa c) de la définition de ce terme à l’article 2 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
+> 2007, ch. 29, art. 153.
+
+
+
+
+
+**Exclusion**
+
+**9.2** Le ministre peut, par arrêté, soustraire à l’application de l’article 9 :
+- **a)** soit tout ministère qui n’est pas mentionné à l’annexe VI de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md);
+- **b)** soit tout ministère qui n’est pas placé sous son autorité mais dont il est le ministre compétent.
+> 2007, ch. 29, art. 153.
+
 
 
 
