@@ -105,7 +105,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(2)** Le montant de la subvention pour l’épargne-études pouvant être versée pour une année donnée correspond, au moment considéré, à la moins élevée des sommes suivantes :
 	- **a)** 20 % de la cotisation;
 	- **b)** l’excédent éventuel de la moins élevée des sommes visées aux sous-alinéas (i) et (ii) sur la somme visée au sous-alinéa (iii) :
-		- **(i)** 800 $,
+		- **(i)** 1 000 $ ou, si l’année donnée correspond à l’une des années 1998 à 2006, 800 $,
 		- **(ii)** le montant, à ce moment, des droits accumulés du bénéficiaire pour l’année au titre de la subvention pour l’épargne-études,
 		- **(iii)** le total des subventions pour l’épargne-études — à l’exclusion des sommes versées au titre de la majoration prévue au paragraphe (4) — versées avant ce moment à l’égard des cotisations versées au cours de l’année pour le bénéficiaire.
 
@@ -113,21 +113,18 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(3)** Le montant des droits accumulés du bénéficiaire pour une année donnée au titre de la subvention pour l’épargne-études est, au moment considéré :
 	- **a)** dans le cas du bénéficiaire âgé de dix-sept ans ou plus à la fin de l’année précédente, égal à zéro;
-	- **b)** dans tout autre cas, calculé selon la formule suivante :
+	- **b)** dans tout autre cas, calculé selon la formule suivante :
 ```
-400 $ (A - B - C) - D
+400 $A + 500 $B - C
 ```
-où :
-- **A** représente :
-	- **(i) dans** le cas du bénéficiaire né avant 1998, l’excédent éventuel du nombre visé à la division (A) sur le nombre visé à la division (B) :
-	- **(A)** l’âge — en années entières — du bénéficiaire à la fin de l’année donnée,
-	- **(B)** son âge — en années entières — à la fin de 1997,
-	- **(ii)** dans tout autre cas, l’âge — en années entières — du bénéficiaire à la fin de l’année donnée plus un,
-- **B** le nombre d’années précédentes tout au long desquelles le bénéficiaire était un bénéficiaire inadmissible aux termes des règlements,
-- **C** le nombre d’années précédentes commençant après 1997 :
-	- **(i)** qui ne sont pas comprises dans la valeur de B à l’égard du bénéficiaire pour l’année donnée,
-	- **(ii)** tout au long desquelles le bénéficiaire ne résidait pas au Canada,
-- **D** le total des subventions pour l’épargne-études — à l’exclusion des sommes versées au titre de la majoration prévue au paragraphe (4) — versées avant ce moment à l’égard des cotisations versées au cours d’une année précédente pour le bénéficiaire.
+où :
+- **A** représente le nombre d’années postérieures à 1997 et antérieures à 2007 au cours desquelles le bénéficiaire était vivant, sauf une année tout au long de laquelle il répondait à l’une ou l’autre des conditions suivantes :
+	- **(i)** il était un bénéficiaire inadmissible aux termes du règlement,
+	- **(ii)** il ne résidait pas au Canada,
+- **B** le nombre d’années de la période allant de 2007 jusqu’à l’année donnée inclusivement au cours de laquelle le bénéficiaire était vivant, sauf une année tout au long de laquelle il répondait à l’une ou l’autre des conditions suivantes :
+	- **(i)** il était un bénéficiaire inadmissible aux termes du règlement,
+	- **(ii)** il ne résidait pas au Canada,
+- **C** le total des subventions pour l’épargne-études — à l’exclusion des sommes versées au titre de la majoration prévue au paragraphe (4) — versées avant ce moment à l’égard des cotisations versées au cours d’une année précédente pour le bénéficiaire.
 
 **Majoration du montant de la subvention**
 
@@ -163,6 +160,8 @@ où :
 **Maximum**
 
 - **(10)** Il ne peut être versé à l’égard d’un bénéficiaire plus de 7 200 $ au titre de la subvention pour l’épargne-études au cours de sa vie.
+> 2004, ch. 26, art. 5; 2007, ch. 29, art. 37.
+
 
 
 
