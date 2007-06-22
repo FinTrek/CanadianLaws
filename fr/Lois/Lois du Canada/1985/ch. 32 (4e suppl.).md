@@ -1370,7 +1370,7 @@
 **Faculté d’exécution**
 
 - **(5)** Le ministre a toujours la faculté de faire exécuter lui-même ses ordres ou injonctions, même après leur assimilation.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 34; 2002, ch. 8, art. 168; 2006, ch. 11, art. 26.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 34; 2002, ch. 8, art. 168; 2006, ch. 11, art. 26; 2007, ch. 19, art. 53.
 
 
 
@@ -1615,12 +1615,62 @@
 
 
 
+**PARTIE IV.1** 
+## Agents de police
+
+
+
+**Nomination**
+
+**44** 
+
+- **(1)** Tout juge d’une cour supérieure peut nommer un agent de police chargé de faire observer la partie III de la [Loi sur les transports au Canada](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md), ainsi que les autres lois fédérales ou les lois provinciales touchant la protection des biens qu’administre ou possède la compagnie de chemin de fer, ou dont elle est propriétaire, ou la protection de personnes ou de biens se trouvant en des lieux qu’elle administre ou possède ou dont elle est propriétaire.
+
+**Restriction**
+
+- **(2)** La nomination ne peut se faire que sur demande de la compagnie qui administre ou possède des biens, ou en est le propriétaire, dans le ressort où le juge a compétence.
+
+**Compétence de l’agent de police**
+
+- **(3)** L’agent de police exerce sa compétence sur les biens que la compagnie administre ou possède ou dont elle est propriétaire, ainsi qu’en tout lieu se trouvant dans un rayon de cinq cents mètres de ceux-ci.
+
+**Pouvoirs de l’agent de police**
+
+- **(4)** L’agent de police peut amener toute personne inculpée d’une infraction créée par la partie III de la [Loi sur les transports au Canada](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md) ou par toute autre loi visée au paragraphe (1) devant un tribunal ayant compétence dans le ressort où sont situés des biens que la compagnie administre ou possède ou dont elle est propriétaire, indépendamment du lieu d’arrestation ou du lieu, réel ou présumé, de perpétration.
+
+**Compétence du tribunal**
+
+- **(5)** Le tribunal statue sur le cas comme si l’inculpé avait été arrêté dans son ressort et y avait commis l’infraction, sauf si le lieu présumé de perpétration est situé à l’extérieur de la province.
+
+**Destitution ou licenciement**
+
+- **(6)** Tout juge visé au paragraphe (1) ou la compagnie peut destituer ou licencier l’agent de police, ce qui met fin à l’exercice des attributions qui lui sont conférées aux termes du présent article.
+> L.R. 1985, ch. 32 (4<sup>e</sup> suppl.), art. 44; 1999, ch. 9, art. 32; 2007, ch. 19, art. 54.
+
+
+
+
+
+**Procédure d’examen des plaintes**
+
+**44.1** 
+
+- **(1)** En cas de nomination d’agents de police à l’égard d’une compagnie de chemin de fer, celle-ci est tenue :
+	- **a)** d’établir une procédure d’examen des plaintes concernant les agents de police;
+	- **b)** de charger une ou plusieurs personnes de la mise en oeuvre de la procédure;
+	- **c)** de charger une ou plusieurs personnes du règlement des plaintes.
+
+**Dépôt**
+
+- **(2)** La compagnie dépose auprès du ministre un double de la procédure. Elle met en oeuvre les recommandations de celui-ci, notamment celles concernant les moyens de porter à la connaissance du public l’existence de la procédure.
+> 2007, ch. 19, art. 54.
+
+
+
+
+
 **PARTIE V** 
 ## Dispositions diverses
-
-
-**44** [Abrogé, 1999, ch. 9, art. 32]
-
 
 
 
