@@ -66,6 +66,8 @@ and, for greater certainty, includes a system or arrangement for the clearing or
 
 ***clearing house*** means a corporation, association, partnership, agency or other entity that provides clearing or settlement services for a clearing and settlement system, but does not include a stock exchange or the Bank;
 
+***eligible financial contract*** has the same meaning as in subsection 22.1(2) of the [Winding-up and Restructuring Act](/en/Acts/Revised%20Statutes%20of%20Canada/W/W-11.md);
+
 ***Minister*** means the Minister of Finance;
 
 ***participant*** means a member of a clearing house or a party to an arrangement that establishes a clearing and settlement system;
@@ -74,6 +76,8 @@ and, for greater certainty, includes a system or arrangement for the clearing or
 - **(a)** other participants in the clearing and settlement system to be unable to meet their obligations as they become due,
 - **(b)** financial institutions in other parts of the Canadian financial system to be unable to meet their obligations as they become due, or
 - **(c)** the clearing and settlement system’s clearing house or the clearing house of another clearing and settlement system within the Canadian financial system to be unable to meet its obligations as they become due.
+> 1996, c. 6, s. 162 (Sch., s. 2); 2007, c. 29, s. 110.
+
 
 
 
@@ -312,9 +316,20 @@ the Governor may issue a directive in writing to the participants requiring them
 
 - **(1)** Notwithstanding anything in any law relating to bankruptcy or insolvency or any order of a court made pursuant to an administration of a reorganization, arrangement or receivership involving insolvency, where a financial institution or the Bank is a party to a netting agreement, the financial institution or the Bank may terminate the agreement and determine a net termination value or net settlement amount in accordance with the provisions of the agreement and the party entitled to the net termination value or settlement amount is to be a creditor of the party owing the net termination value or net settlement amount for that value or amount.
 
+**Eligible financial contract**
+
+- **(1.1)** If a netting agreement referred to in subsection (1) is an eligible financial contract, the financial institution or the Bank may also, in accordance with the provisions of that agreement, deal with financial collateral including
+	- **(a)** selling or foreclosing or, in the Province of Quebec, surrendering financial collateral; and
+	- **(b)** setting off or compensating financial collateral or applying the proceeds or value of financial collateral.
+
 **Interpretation**
 
 - **(2)** In subsection (1),
+
+***financial collateral*** means any of the following that is subject to an interest, or in the Province of Quebec a right, that secures payment or performance of an obligation in respect of an eligible financial contract or that is subject to a title transfer credit support agreement:
+- **(a)** cash or cash equivalents, including negotiable instruments and demand deposits,
+- **(b)** securities, a securities account, a securities entitlement or a right to acquire securities, or
+- **(c)** a futures agreement or a futures account;
 
 ***financial institution*** means
 - **(a)** a financial institution within the meaning of section 2 of the [Trust and Loan Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2045.md),
@@ -323,12 +338,14 @@ the Governor may issue a directive in writing to the participants requiring them
 - **(d)** the Canada Pension Plan Investment Board, or
 - **(e)** the Public Sector Pension Investment Board;
 
-***net termination value*** means the net amount obtained after setting off or otherwise netting the obligations between the parties to a netting agreement in accordance with its provisions;
+***net termination value*** means the net amount obtained after setting off or compensating or otherwise netting the obligations between the parties to a netting agreement in accordance with its provisions;
 
 ***netting agreement*** means an agreement between two or more financial institutions or between the Bank and one or more financial institutions that is
-- **(a)** an eligible financial contract within the meaning of section 22.1 of the [Winding-up and Restructuring Act](/en/Acts/Revised%20Statutes%20of%20Canada/W/W-11.md), or
-- **(b)** an agreement that provides for the netting or set-off of present or future obligations to make payments against the present or future rights to receive payments.
-> 1996, c. 6, s. 162 (Sch., s. 13); 1997, c. 40, s. 109; 1999, c. 28, s. 133, c. 34, s. 228.
+- **(a)** an eligible financial contract, or
+- **(b)** an agreement that provides for the netting or set-off or compensation of present or future obligations to make payments against the present or future rights to receive payments.
+
+***title transfer credit support agreement*** means an agreement under which title to property has been provided for the purpose of securing the payment or performance of an obligation in respect of an eligible financial contract;
+> 1996, c. 6, s. 162 (Sch., s. 13); 1997, c. 40, s. 109; 1999, c. 28, s. 133, c. 34, s. 228; 2007, c. 29, s. 111.
 
 
 
@@ -360,17 +377,17 @@ the Governor may issue a directive in writing to the participants requiring them
 
 ***clearing member*** means a person who uses the services of a securities and derivatives clearing house.
 
-***net termination value*** means the net amount obtained after setting off or otherwise netting the obligations between a securities and derivatives clearing house and a clearing member in accordance with the netting agreement.
+***net termination value*** means the net amount obtained after setting off or compensating or otherwise netting the obligations between a securities and derivatives clearing house and a clearing member in accordance with the netting agreement.
 
 ***netting agreement*** means an agreement between a securities and derivatives clearing house and a clearing member that is
-- **(a)** an eligible financial contract within the meaning of section 22.1 of the [Winding-up and Restructuring Act](/en/Acts/Revised%20Statutes%20of%20Canada/W/W-11.md); or
-- **(b)** an agreement that provides for the netting or setting off of present or future obligations to make payments or deliveries against present or future rights to receive payments or take deliveries.
+- **(a)** an eligible financial contract; or
+- **(b)** an agreement that provides for the netting or setting off or compensation of present or future obligations to make payments or deliveries against present or future rights to receive payments or take deliveries.
 
 ***securities and derivatives clearing house*** means, in addition to an entity designated under subsection (2),
 - **(a)** the Canadian Derivatives Clearing Corporation, incorporated under the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md);
 - **(b)** the CDS Clearing and Depository Services Inc., a corporation incorporated under the [Canada Business Corporations Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-44.md); or
 - **(c)** the WCE Clearing Corporation, incorporated under The Corporations Act, chapter C225 of the Re-enacted Statutes of Manitoba 1987.
-> 2002, c. 14, s. 1; 2007, c. 6, s. 442.
+> 2002, c. 14, s. 1; 2007, c. 6, s. 442, c. 29, s. 112.
 
 
 
