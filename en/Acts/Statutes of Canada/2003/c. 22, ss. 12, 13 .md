@@ -861,6 +861,12 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
+**50.1** Despite subsection 50(2), the maximum period of employment of casual workers appointed in the Office of the Chief Electoral Officer for the purposes of an election under the [Canada Elections Act](/en/Acts/Statutes%20of%20Canada/2000/c.%209.md) or a referendum held under the [Referendum Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2030.md) is 165 working days in one calendar year.
+> 2007, c. 21, s. 40.
+
+
+
+
 
 **PART 3** 
 ## Deployments
