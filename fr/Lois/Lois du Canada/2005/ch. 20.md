@@ -509,23 +509,30 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Avis : arrivée au Canada**
+**Application**
 
 **34** 
 
-- **(1)** Le conducteur du véhicule servant à l’exploitation d’une entreprise de transport de personnes ou de marchandises ou de tout véhicule visé par règlement avise, avant son arrivée au Canada, l’autorité désignée en vertu de l’alinéa 63b) située au point d’entrée le plus proche de tout motif raisonnable qu’il a de soupçonner qu’une personne, les marchandises ou toute autre chose à bord de son véhicule risquent de propager une maladie transmissible inscrite à l’annexe, qu’une personne à bord de son véhicule est décédée ou qu’une circonstance prévue par règlement existe.
+- **(1)** Le présent article s’applique aux conducteurs de l’un ou l’autre des véhicules suivants :
+	- **a)** véhicule servant à l’exploitation d’une entreprise de transport de personnes ou de marchandises;
+	- **b)** véhicule visé par règlement.
+
+**Avis : arrivée au Canada**
+
+- **(2)** Dès que possible avant l’arrivée du véhicule à sa destination au Canada, le conducteur avise ou fait aviser l’agent de quarantaine de tout motif raisonnable qu’il a de soupçonner l’existence de l’un ou l’autre des faits suivants :
+	- **a)** une personne, des marchandises ou toute autre chose à bord du véhicule risquent de propager une maladie transmissible inscrite à l’annexe;
+	- **b)** une personne à bord du véhicule est décédée;
+	- **c)** une circonstance prévue par règlement existe.
 
 **Avis : départ du Canada**
 
-- **(2)** Le conducteur avise, avant de quitter le Canada par un point de sortie, l’autorité désignée située à ce point de sortie de l’existence de toute circonstance visée au paragraphe (1).
+- **(3)** Dès que possible avant que le véhicule quitte le Canada par un point de sortie, le conducteur avise ou fait aviser l’agent de quarantaine de l’existence de tout fait visé aux alinéas (2)a) à c).
 
 **Exception**
 
-- **(3)** S’il lui est impossible de donner l’avis avant son arrivée au point d’entrée ou de sortie, le conducteur le fait dès qu’il arrive au point d’entrée ou de sortie.
+- **(4)** Le conducteur ne contrevient pas au paragraphe (2) s’il lui est raisonnablement impossible de donner ou de faire donner l’avis avant l’arrivée du véhicule à sa destination au Canada pourvu qu’il le fasse dès l’arrivée de celui-ci à cette destination.
+> 2005, ch. 20, art. 34; 2007, ch. 27, art. 1.
 
-**Responsabilité de l’autorité désignée**
-
-- **(4)** L’autorité désignée informe sans délai l’agent de quarantaine ou l’agent d’hygiène du milieu de tout avis reçu.
 
 
 
@@ -991,9 +998,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Règlements : ministre**
 
-**63** Le ministre peut, par règlement :
-- **a)** modifier l’annexe pour y ajouter, en retrancher ou y changer le nom d’une maladie transmissible;
-- **b)** désigner l’autorité qui doit être avisée par le conducteur à son arrivée au Canada ou départ du Canada.
+**63** Le ministre peut, par règlement, modifier l’annexe pour y ajouter, en retrancher ou y changer le nom d’une maladie transmissible.
+> 2005, ch. 20, art. 63; 2007, ch. 27, art. 2.
+
 
 
 
@@ -1071,7 +1078,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Manquement à une obligation**
 
-**71** Quiconque contrevient aux paragraphes 6(2), 8(1) ou 34(1), (2) ou (4), aux articles 36 ou 38, au paragraphe 42(1), aux articles 45 ou 50, au paragraphe 54(3), aux articles 58 ou 59, au paragraphe 73(2) ou aux règlements commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 750 000 $ et un emprisonnement maximal de six mois, ou l’une de ces peines.
+**71** Quiconque contrevient aux paragraphes 6(2), 8(1) ou 34(2) ou (3), aux articles 36 ou 38, au paragraphe 42(1), aux articles 45 ou 50, au paragraphe 54(3), aux articles 58 ou 59, au paragraphe 73(2) ou aux règlements commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 750 000 $ et un emprisonnement maximal de six mois, ou l’une de ces peines.
+> 2005, ch. 20, art. 71; 2007, ch. 27, art. 3.
+
 
 
 
@@ -1231,13 +1240,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#Q.1_f_84'>[*]</a></sup>**84** Les dispositions de la présente loi, à l’exception de l’article 83, entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='Q.1_f_84'><sup>*</sup></a>: [Note : Loi, à l’exception de l’article 34 et de l’article 83, ce dernier en vigueur à la sanction le 13 mai 2005, en vigueur le 12 décembre 2006, *voir* TR/2006-143.)<br />
+<a name='Q.1_f_84'><sup>*</sup></a>: [Note : Loi, à l’exception de l’article 34 et de l’article 83, ce dernier en vigueur à la sanction le 13 mai 2005, en vigueur le 12 décembre 2006, *voir* TR/2006-143; article 34 en vigueur le 22 juin 2007, *voir* 2007, ch. 27, art. 5.)<br />
 
 
 
 
 ### **ANNEXE** 
-**(article 2, paragraphes 15(2) et 34(1) et articles 45 et 63)**
+**(article 2, paragraphes 15(2) et 34(2) et articles 45 et 63)**
 
 Botulisme<br />- <i>Botulism</i>
 
@@ -1288,4 +1297,6 @@ Tuberculose pulmonaire évolutive<br />- <i>Active pulmonary tuberculosis</i>
 Tularémie<br />- <i>Tularemia</i>
 
 Variole<br />- <i>Smallpox</i>
+> 2005, ch. 20, ann.; 2007, ch. 27, art. 4.
+
 
