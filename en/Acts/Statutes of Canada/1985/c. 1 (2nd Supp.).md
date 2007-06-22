@@ -81,7 +81,7 @@
 - **(j)** wine, or
 - **(k)** such other goods as the Minister may, by order, designate for the purposes of all or any of the provisions of this Act;
 
-***duties*** means any duties or taxes levied or imposed on imported goods under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md), the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md), the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md) or any other Act of Parliament, but, for the purposes of subsection 3(1), paragraphs 59(3)(b ) and 65(1)(b ), sections 69 and 73 and subsections 74(1), 75(2) and 76(1), does not include taxes imposed under Part IX of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md);
+***duties*** means any duties or taxes levied or imposed on imported goods under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md), the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md), the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md) or any other Act of Parliament, but, for the purposes of subsection 3(1), paragraphs 59(3)(b) and 65(1)(b), sections 69 and 73 and subsections 74(1), 75(2) and 76(1), does not include taxes imposed under Part IX of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md);
 
 ***duty free shop*** means a place licensed as a duty free shop by the Minister under section 24;
 
@@ -91,7 +91,7 @@
 
 ***free trade agreement*** means NAFTA, CCFTA, CCRFTA or CIFTA;
 
-***free trade partner*** means
+***free trade partner*** means 
 - **(a)** a NAFTA country,
 - **(b)** Chile,
 - **(c)** Costa Rica, or
@@ -103,13 +103,15 @@
 
 ***imported from Israel or another CIFTA beneficiary*** has the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
 
-***inland waters*** means all the rivers, lakes and other fresh waters in Canada and includes the St. Lawrence River as far seaward as the straight lines drawn
+***inland waters*** means all the rivers, lakes and other fresh waters in Canada and includes the St. Lawrence River as far seaward as the straight lines drawn 
 - **(a)** from Cap-des-Rosiers to the westernmost point of Anticosti Island, and
 - **(b)** from Anticosti Island to the north shore of the St. Lawrence River along the meridian of longitude sixty-three degrees west;
 
 ***internal waters***[Repealed, 1996, c. 31, s. 73]
 
 ***Israel or another CIFTA beneficiary*** has the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
+
+***licensed user*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md);
 
  ou ***mail*** has the meaning set out in section 2 of the [Canada Post Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-10.md);
 
@@ -146,9 +148,11 @@
 
 ***regulation*** means a regulation made by the Governor in Council under this Act;
 
-***release*** means
+***release*** means 
 - **(a)** in respect of goods, to authorize the removal of the goods from a customs office, sufferance warehouse, bonded warehouse or duty free shop for use in Canada, and
 - **(b)** in respect of goods to which paragraph 32(2)(b) applies, to receive the goods at the place of business of the importer, owner or consignee;
+
+***restricted formulation*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md);
 
 ***specially denatured alcohol*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md);
 
@@ -178,7 +182,7 @@
 
 **Definitions**
 
-- **(1.1)** For the purpose of the definition “designated goods” in subsection (1),
+- **(1.1)** For the purpose of the definition ***designated goods*** in subsection (1),
 
 ***alcohol***, ***ethyl alcohol*** and ***spirits***[Repealed, 2002, c. 22, s. 328]
 
@@ -227,7 +231,7 @@
 **Delegation by Minister of National Revenue**
 
 - **(6)** The Minister of National Revenue may authorize a person employed by the Canada Revenue Agency or the Agency, or a class of those persons, to exercise powers or perform duties of that Minister, including any judicial or quasi-judicial powers or duties of that Minister, under this Act.
-> R.S., 1985, c. 1 (2nd Supp.), s. 2, c. 41 (3rd Supp.), s. 118; 1988, c. 65, s. 66; 1990, c. 45, s. 19; 1992, c. 28, s. 1; 1993, c. 25, s. 68, c. 27, s. 213, c. 44, s. 81; 1994, c. 13, s. 7; 1995, c. 15, s. 24, c. 41, s. 1; 1996, c. 31, s. 73, c. 33, s. 28; 1997, c. 14, s. 35, c. 36, s. 147; 1998, c. 19, s. 262; 1999, c. 17, s. 123; 2001, c. 25, s. 1, c. 28, s. 26; 2002, c. 22, s. 328; 2005, c. 38, ss. 60, 145.
+> R.S., 1985, c. 1 (2nd Supp.), s. 2, c. 41 (3rd Supp.), s. 118; 1988, c. 65, s. 66; 1990, c. 45, s. 19; 1992, c. 28, s. 1; 1993, c. 25, s. 68, c. 27, s. 213, c. 44, s. 81; 1994, c. 13, s. 7; 1995, c. 15, s. 24, c. 41, s. 1; 1996, c. 31, s. 73, c. 33, s. 28; 1997, c. 14, s. 35, c. 36, s. 147; 1998, c. 19, s. 262; 1999, c. 17, s. 123; 2001, c. 25, s. 1, c. 28, s. 26; 2002, c. 22, s. 328; 2005, c. 38, ss. 60, 145; 2007, c. 18, s. 135.
 
 
 
@@ -3099,12 +3103,17 @@ It includes a person who is appointed to exercise the authority of a creditor un
 
 **Sale of detained goods**
 
-- **(3)** The Minister, on giving 30 days notice in writing to the debtor at the debtor’s latest known address, may direct that any goods imported or reported for exportation by or on behalf of the debtor, or any conveyance, that has been detained be sold by public auction or public tender or by the Minister of Public Works and Government Services under the [Surplus Crown Assets Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-27.md), subject to such regulations as may be made.
+- **(3)** Subject to the regulations, the Minister, on giving 30 days’ notice in writing to the debtor at the debtor’s latest known address, may direct that any good imported or reported for exportation by or on behalf of the debtor, or any conveyance, that has been detained be sold
+	- **(a)** if the good is spirits or specially denatured alcohol, to a spirits licensee;
+	- **(b)** if the good is wine, to a wine licensee;
+	- **(c)** if the good is raw leaf tobacco or a tobacco product, to a tobacco licensee;
+	- **(d)** if the good is a restricted formulation, to a licensed user; or
+	- **(e)** in any other case, by public auction or public tender or by the Minister of Public Works and Government Services under the [Surplus Crown Assets Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-27.md).
 
 **Proceeds of sale**
 
 - **(4)** The proceeds of any sale shall be applied to amounts owed by the debtor, any expenses incurred by Her Majesty in right of Canada in respect of the goods sold and any duties on the goods and the surplus, if any, shall be paid to the debtor.
-> 2001, c. 25, s. 58.
+> 2001, c. 25, s. 58; 2007, c. 18, s. 136.
 
 
 
@@ -4595,8 +4604,8 @@ may at any time issue a warrant under his hand authorizing an officer to search 
 
 **No return of certain goods**
 
-- **(2)** Despite subsection (1), if spirits, wine, specially denatured alcohol, raw leaf tobacco or tobacco products are seized under this Act, they shall not be returned to the person from whom they were seized or any other person unless they were seized in error.
-> R.S., 1985, c. 1 (2nd Supp.), s. 117; 1995, c. 41, s. 31; 1997, c. 36, s. 185; 2002, c. 22, s. 338.
+- **(2)** Despite subsection (1), if spirits, wine, specially denatured alcohol, restricted formulations, raw leaf tobacco or tobacco products are seized under this Act, they shall not be returned to the person from whom they were seized or any other person unless they were seized in error.
+> R.S., 1985, c. 1 (2nd Supp.), s. 117; 1995, c. 41, s. 31; 1997, c. 36, s. 185; 2002, c. 22, s. 338; 2007, c. 18, s. 137.
 
 
 
@@ -4644,8 +4653,9 @@ may at any time issue a warrant under his hand authorizing an officer to search 
 
 - **(1.1)** Subject to the regulations, the sale under subsection (1) of
 	- **(a)** spirits or specially denatured alcohol may only be to a spirits licensee;
-	- **(b)** wine may only be to a wine licensee; and
-	- **(c)** raw leaf tobacco or a tobacco product may only be to a tobacco licensee.
+	- **(b)** wine may only be to a wine licensee;
+	- **(c)** raw leaf tobacco or a tobacco product may only be to a tobacco licensee; and
+	- **(d)** a restricted formulation may only be to a licensed user.
 
 **Proceeds of sale**
 
@@ -4656,7 +4666,7 @@ may at any time issue a warrant under his hand authorizing an officer to search 
 - **(3)** Where a person would be entitled to the return of goods if they were available to be returned, but it is not possible to return them, the person shall be paid
 	- **(a)** where the goods were sold, the proceeds from the sale; and
 	- **(b)** in any other case, the value of the goods.
-> 1994, c. 37, s. 9; 2002, c. 22, s. 339.
+> 1994, c. 37, s. 9; 2002, c. 22, s. 339; 2007, c. 18, s. 138.
 
 
 
@@ -5193,16 +5203,15 @@ If an additional amount is demanded, the total of the amount assessed and the ad
 
 **142** 
 
-- **(1)** Unless the thing is spirits, specially denatured alcohol, wine, raw leaf tobacco or a tobacco product, anything that has been abandoned to Her Majesty in right of Canada under this Act and anything the forfeiture of which is final under this Act shall
+- **(1)** Unless the thing is spirits, specially denatured alcohol, a restricted formulation, wine, raw leaf tobacco or a tobacco product, anything that has been abandoned to Her Majesty in right of Canada under this Act and anything the forfeiture of which is final under this Act shall
 	- **(a)** where the Minister deems it appropriate, be exported;
 	- **(b)** where the importation thereof is prohibited, or where the Minister considers the thing to be unsuitable for sale or of insufficient value to justify a sale, be disposed of in such manner, otherwise than by sale, as the Minister may direct; and
-	- **(c)** in any other case, be sold by public auction or public tender or by the Minister of Public Works and Government Services pursuant to the 
-[Surplus Crown Assets Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-27.md), subject to such regulations as may be prescribed.
+	- **(c)** in any other case, be sold by public auction or public tender or by the Minister of Public Works and Government Services pursuant to the [Surplus Crown Assets Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-27.md), subject to such regulations as may be prescribed.
 
 **Duties removed**
 
 - **(2)** Any goods that are disposed of pursuant to subsection (1) are, from the time of disposal, no longer charged with duties.
-> R.S., 1985, c. 1 (2nd Supp.), s. 142; 1996, c. 16, s. 60; 2002, c. 22, s. 340.
+> R.S., 1985, c. 1 (2nd Supp.), s. 142; 1996, c. 16, s. 60; 2002, c. 22, s. 340; 2007, c. 18, s. 139.
 
 
 
@@ -5212,15 +5221,16 @@ If an additional amount is demanded, the total of the amount assessed and the ad
 
 **142.1** 
 
-- **(1)** If spirits, specially denatured alcohol, wine, raw leaf tobacco or a tobacco product is abandoned or finally forfeited under this Act, the Minister may sell, destroy or otherwise deal with it.
+- **(1)** If spirits, specially denatured alcohol, a restricted formulation, wine, raw leaf tobacco or a tobacco product is abandoned or finally forfeited under this Act, the Minister may sell, destroy or otherwise deal with it.
 
 **Restriction**
 
 - **(2)** Subject to the regulations, the sale under subsection (1) of
 	- **(a)** spirits or specially denatured alcohol may only be to a spirits licensee;
-	- **(b)** wine may only be to a wine licensee; and
-	- **(c)** raw leaf tobacco or a tobacco product may only be to a tobacco licensee.
-> 2002, c. 22, s. 341.
+	- **(b)** wine may only be to a wine licensee;
+	- **(c)** raw leaf tobacco or a tobacco product may only be to a tobacco licensee; and
+	- **(d)** a restricted formulation may only be to a licensed user.
+> 2002, c. 22, s. 341; 2007, c. 18, s. 140.
 
 
 
@@ -5638,6 +5648,7 @@ lies on the person, other than Her Majesty, who is a party to the proceeding or 
 	- **(g)** prescribing the manner of ascertaining the alcoholic content of wines, spirits or alcoholic liquors for the purpose of determining the tariff classification thereof;
 	- **(h)** prescribing how the coasting trade shall be regulated in any case or class of cases and exempting any case or class of cases, subject to any condition that the Governor in Council sees fit to impose, from any of the requirements of this Act that the Governor in Council deems it inexpedient to enforce with respect to vessels engaged in such trade;
 	- **(h.1)** defining any term or expression that is by any provision of this Act to have a meaning assigned by regulation;
+	- **(h.2)** respecting the sale of alcohol, a tobacco product, raw leaf tobacco, specially denatured alcohol or a restricted formulation detained, seized, abandoned or forfeited under this Act;
 	- **(i)** prescribing anything that is by any provision of this Act to be prescribed by the Governor in Council; and
 	- **(j)** generally, to carry out the purposes and provisions of this Act.
 
@@ -5658,7 +5669,7 @@ lies on the person, other than Her Majesty, who is a party to the proceeding or 
 - **(2)** The Governor in Council may, on the recommendation of the Minister of Finance, make regulations prescribing a rate of interest or rules for determining a rate of interest for the purposes of any provision of this Act.
 
 - **(3) and (4)** [Repealed, 2001, c. 25, s. 85]
-> R.S., 1985, c. 1 (2nd Supp.), s. 164; 1988, c. 65, s. 81; 1992, c. 28, s. 30, c. 31, s. 22; 1993, c. 44, s. 108; 1994, c. 47, s. 72; 1995, c. 41, s. 36; 1996, c. 33, s. 40; 1997, c. 14, s. 47; 1998, c. 19, s. 264; 2001, c. 25, s. 85, c. 28, s. 30.
+> R.S., 1985, c. 1 (2nd Supp.), s. 164; 1988, c. 65, s. 81; 1992, c. 28, s. 30, c. 31, s. 22; 1993, c. 44, s. 108; 1994, c. 47, s. 72; 1995, c. 41, s. 36; 1996, c. 33, s. 40; 1997, c. 14, s. 47; 1998, c. 19, s. 264; 2001, c. 25, s. 85, c. 28, s. 30; 2007, c. 18, s. 141.
 
 
 
