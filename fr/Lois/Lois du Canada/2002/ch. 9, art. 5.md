@@ -33,7 +33,7 @@ Sanctionnée sur le 27 mars 2002
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***aéroport désigné*** Aéroport visé par règlement ou dont le nom figure à l’annexe.
+***aéroport désigné*** Aéroport dont le nom figure à l’annexe.
 
 ***Agence*** L’Agence du revenu du Canada, prorogée par le paragraphe 4(1) de la [Loi sur l’Agence du revenu du Canada](/fr/Lois/Lois%20du%20Canada/1999/ch.%2017.md).
 
@@ -95,6 +95,8 @@ Sanctionnée sur le 27 mars 2002
 
 ***mois d’exercice*** Mois d’exercice déterminé en application de l’article 16.
 
+***organisme de bienfaisance enregistré*** S’entend au sens du paragraphe 248(1) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md).
+
 ***personne*** Particulier, société de personnes, personne morale, fiducie ou succession, ainsi que l’organisme qui est un syndicat, un club, une association, une commission ou autre organisation.
 
 ***registre*** Tout support sur lequel des données sont enregistrées ou inscrites et qui peut être lu ou compris par une personne ou par un système informatique ou un autre dispositif.
@@ -122,7 +124,7 @@ Sanctionnée sur le 27 mars 2002
 - **a)** Le Canada;
 - **b)** les États-Unis, à l’exception d’Hawaï;
 - **c)** Saint-Pierre-et-Miquelon.
-> 2002, ch. 9, art. 5 « 2 »; 2005, ch. 38, art. 31.
+> 2002, ch. 9, art. 5 « 2 »; 2005, ch. 38, art. 31; 2007, ch. 18, art. 144.
 
 
 
@@ -216,12 +218,20 @@ Sanctionnée sur le 27 mars 2002
 
 - **(1)** Quiconque acquiert d’un transporteur aérien autorisé tout ou partie d’un service de transport aérien qui comprend un embarquement assujetti doit payer à Sa Majesté le droit déterminé selon la présente loi relativement au service.
 
+**Exceptions**
+
+- **(1.1)** Aucun droit n’est exigible relativement au service de transport aérien qui, selon le cas :
+	- **a)** est acquis par une personne en vue de sa revente, si la personne vend le service à une autre personne avant le 1<sup>er</sup> avril 2002 et effectue le paiement complet et final au transporteur aérien relativement au service avant le 1<sup>er</sup> mai 2002;
+	- **b)** est acquis par un organisme de bienfaisance enregistré d’un transporteur aérien à titre gratuit, si l’organisme fait don du service à un particulier à titre gratuit et dans le cadre de la poursuite de ses fins de bienfaisance.
+
 **Paiement**
 
-- **(2)** Le droit relatif au service de transport aérien est exigible au moment suivant :
+- **(2)** Le droit relatif au service de transport aérien est exigible au moment suivant :
 	- **a)** si une contrepartie est payée ou exigible pour le service, le moment où la totalité ou une partie de cette contrepartie est payée ou devient exigible;
 	- **b)** si aucune contrepartie n’est payée ou exigible pour le service, le moment où un billet visant le service est délivré;
 	- **c)** si aucune contrepartie n’est payée ou exigible pour le service et si aucun billet n’est délivré pour le service, le moment de l’embarquement.
+> 2002, ch. 9, art. 5 « 11 »; 2007, ch. 18, art. 145.
+
 
 
 
@@ -537,12 +547,12 @@ Ces biens sont des biens dans lesquels Sa Majesté a un droit de bénéficiaire 
 
 **30** 
 
-- **(1)** Le ministre peut, au plus tard le jour qui suit de dix années civiles la fin d’un mois d’exercice d’une personne, réduire les intérêts à payer par celle-ci en application de la présente loi sur toute somme dont elle est redevable en vertu de la présente loi pour le mois, ou y renoncer.
+- **(1)** Le ministre peut, au plus tard le jour qui suit de dix années civiles la fin d’un mois d’exercice d’une personne ou sur demande de la personne présentée au plus tard ce jour-là, réduire les intérêts à payer par la personne en application de la présente loi sur toute somme dont elle est redevable en vertu de la présente loi pour le mois, ou y renoncer.
 
 **Intérêts sur somme réduite ou à laquelle il est renoncé**
 
 - **(2)** Si une personne a payé un montant d’intérêts que le ministre a réduit en tout ou en partie, ou auquel il a renoncé en tout ou en partie, en vertu du paragraphe (1), le ministre verse, sur la partie du montant qui a fait l’objet de la réduction ou de la renonciation, des intérêts calculés au taux réglementaire pour la période commençant le trentième jour suivant le jour où il a reçu, d’une manière qu’il juge acceptable, une demande en vue de l’application de ce paragraphe et se terminant le jour où la partie de montant est remboursée à la personne.
-> 2002, ch. 9, art. 5 « 30 »; 2006, ch. 4, art. 102.
+> 2002, ch. 9, art. 5 « 30 »; 2006, ch. 4, art. 102; 2007, ch. 18, art. 146.
 
 
 
@@ -912,11 +922,11 @@ Ces biens sont des biens dans lesquels Sa Majesté a un droit de bénéficiaire 
 
 **Modalités**
 
-- **(3)** La demande, accompagnée d’un exemplaire de l’avis d’opposition, est livrée ou envoyée au chef des Appels d’un bureau des services fiscaux ou d’un centre fiscal de l’Agence.
+- **(3)** La demande, accompagnée d’un exemplaire de l’avis d’opposition, est livrée ou envoyée au chef des Appels d’un bureau des services fiscaux de l’Agence.
 
-**Acceptation**
+**Demande non conforme**
 
-- **(4)** Le ministre peut faire droit à la demande qui n’a pas été faite en conformité avec le paragraphe (3).
+- **(4)** Le ministre peut recevoir la demande qui n’a pas été faite en conformité avec le paragraphe (3).
 
 **Obligations du ministre**
 
@@ -928,12 +938,14 @@ Ces biens sont des biens dans lesquels Sa Majesté a un droit de bénéficiaire 
 
 **Conditions d’acceptation de la demande**
 
-- **(7)** Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+- **(7)** Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
 	- **a)** la demande est présentée dans l’année suivant l’expiration du délai imparti pour faire opposition;
-	- **b)** la personne démontre ce qui suit :
-		- **(i)** dans le délai d’opposition imparti, elle n’a pu ni agir ni mandater quelqu’un pour agir en son nom, et avait véritablement l’intention de faire opposition à la cotisation,
+	- **b)** la personne démontre ce qui suit :
+		- **(i)** dans le délai d’opposition imparti, elle n’a pu ni agir ni mandater quelqu’un pour agir en son nom, ou elle avait véritablement l’intention de faire opposition à la cotisation,
 		- **(ii)** compte tenu des raisons indiquées dans la demande et des circonstances en l’espèce, il est juste et équitable de faire droit à la demande,
 		- **(iii)** la demande a été présentée dès que les circonstances l’ont permis.
+> 2002, ch. 9, art. 5 « 44 »; 2007, ch. 18, art. 147.
+
 
 
 
@@ -946,7 +958,7 @@ Ces biens sont des biens dans lesquels Sa Majesté a un droit de bénéficiaire 
 
 **45** 
 
-- **(1)** La personne qui a présenté une demande en application de l’article 44 peut demander à la Cour de l’impôt d’y faire droit après :
+- **(1)** La personne qui a présenté une demande en application de l’article 44 peut demander à la Cour de l’impôt d’y faire droit après :
 	- **a)** le rejet de la demande par le ministre;
 	- **b)** l’expiration d’un délai de quatre-vingt-dix jours suivant la présentation de la demande, si le ministre n’a pas avisé la personne de sa décision dans ce délai.
 
@@ -968,12 +980,14 @@ Ces biens sont des biens dans lesquels Sa Majesté a un droit de bénéficiaire 
 
 **Conditions d’acceptation de la demande**
 
-- **(6)** Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+- **(6)** Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
 	- **a)** la demande prévue au paragraphe 44(1) a été présentée dans l’année suivant l’expiration du délai imparti pour faire opposition;
-	- **b)** la personne démontre ce qui suit :
-		- **(i)** dans le délai d’opposition imparti, elle n’a pu ni agir ni mandater quelqu’un pour agir en son nom, et avait véritablement l’intention de faire opposition à la cotisation,
+	- **b)** la personne démontre ce qui suit :
+		- **(i)** dans le délai d’opposition imparti, elle n’a pu ni agir ni mandater quelqu’un pour agir en son nom, ou elle avait véritablement l’intention de faire opposition à la cotisation,
 		- **(ii)** compte tenu des raisons indiquées dans la demande prévue au présent article et des circonstances en l’espèce, il est juste et équitable de faire droit à la demande,
 		- **(iii)** la demande prévue au paragraphe 44(1) a été présentée dès que les circonstances l’ont permis.
+> 2002, ch. 9, art. 5 « 45 »; 2007, ch. 18, art. 148.
+
 
 
 
@@ -1017,13 +1031,15 @@ Ces biens sont des biens dans lesquels Sa Majesté a un droit de bénéficiaire 
 
 **Conditions d’acceptation de la demande**
 
-- **(5)** Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
+- **(5)** Il n’est fait droit à la demande que si les conditions suivantes sont réunies :
 	- **a)** la demande a été présentée dans l’année suivant l’expiration du délai d’appel imparti;
-	- **b)** la personne démontre ce qui suit :
-		- **(i)** dans le délai d’appel imparti, elle n’a pu ni agir ni mandater quelqu’un pour agir en son nom, et avait véritablement l’intention d’interjeter appel,
+	- **b)** la personne démontre ce qui suit :
+		- **(i)** dans le délai d’appel imparti, elle n’a pu ni agir ni mandater quelqu’un pour agir en son nom, ou elle avait véritablement l’intention d’interjeter appel,
 		- **(ii)** compte tenu des raisons indiquées dans la demande et des circonstances en l’espèce, il est juste et équitable de faire droit à la demande,
 		- **(iii)** la demande a été présentée dès que les circonstances l’ont permis,
 		- **(iv)** l’appel est raisonnablement fondé.
+> 2002, ch. 9, art. 5 « 47 »; 2007, ch. 18, art. 149.
+
 
 
 
@@ -1081,7 +1097,7 @@ Ces biens sont des biens dans lesquels Sa Majesté a un droit de bénéficiaire 
 
 **Contenu de la demande**
 
-- **(2)** La demande doit comporter les renseignements suivants :
+- **(2)** La demande doit comporter les renseignements suivants :
 	- **a)** la question sur laquelle le ministre demande une décision;
 	- **b)** le nom des personnes qu’il souhaite voir liées par la décision;
 	- **c)** les faits et motifs sur lesquels il s’appuie et sur lesquels il fonde ou a l’intention de fonder la cotisation de chaque personne nommée dans la demande.
@@ -1092,7 +1108,7 @@ Ces biens sont des biens dans lesquels Sa Majesté a un droit de bénéficiaire 
 
 **Décision de la Cour de l’impôt**
 
-- **(4)** Dans le cas où la Cour de l’impôt est convaincue que la décision rendue sur la question exposée dans une demande a un effet sur les cotisations, réelles ou projetées, relatives à plusieurs personnes à qui une copie de la demande a été signifiée et qui sont nommées dans une ordonnance de la Cour rendue en application du présent paragraphe, elle peut :
+- **(4)** Dans le cas où la Cour de l’impôt est convaincue que la décision rendue sur la question exposée dans une demande a un effet sur les cotisations, réelles ou projetées, relatives à plusieurs personnes à qui une copie de la demande a été signifiée et qui sont nommées dans une ordonnance de la Cour rendue en application du présent paragraphe, elle peut :
 	- **a)** si aucune des personnes ainsi nommées n’en a appelé d’une de ces cotisations, entreprendre de statuer sur la question selon les modalités qu’elle juge indiquées;
 	- **b)** si une ou plusieurs des personnes ainsi nommées ont interjeté appel, rendre toute ordonnance qu’elle juge indiquée groupant dans cet ou ces appels les parties appelantes et entreprendre de statuer sur la question.
 
@@ -1102,7 +1118,7 @@ Ces biens sont des biens dans lesquels Sa Majesté a un droit de bénéficiaire 
 
 **Appel**
 
-- **(6)** Dans le cas où la Cour de l’impôt statue sur une question soumise dans une demande dont elle a été saisie, le ministre ou l’une des personnes à qui une copie de la demande a été signifiée et qui est nommée dans une ordonnance de la Cour rendue en application du paragraphe (4) peut interjeter appel de la décision conformément aux dispositions de la présente loi, de la [Loi sur la Cour canadienne de l’impôt](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-2.md) ou de la Loi sur la Cour fédérale concernant les appels de décisions de la Cour de l’impôt et les demandes de contrôle judiciaire de ces décisions.
+- **(6)** Dans le cas où la Cour de l’impôt statue sur une question soumise dans une demande dont elle a été saisie, le ministre ou l’une des personnes à qui une copie de la demande a été signifiée et qui est nommée dans une ordonnance de la Cour rendue en application du paragraphe (4) peut interjeter appel de la décision conformément aux dispositions de la présente loi, de la [Loi sur la Cour canadienne de l’impôt](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-2.md) ou de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md) concernant les appels de décisions de la Cour de l’impôt et les demandes de contrôle judiciaire de ces décisions.
 
 **Parties à un appel**
 
@@ -1110,16 +1126,18 @@ Ces biens sont des biens dans lesquels Sa Majesté a un droit de bénéficiaire 
 
 **Exclusion du délai d’examen**
 
-- **(8)** La période visée au paragraphe (9) est exclue du calcul des délais ci-après lorsqu’ils ont trait à l’établissement d’une cotisation à l’égard de la personne, à la production d’un avis d’opposition à cette cotisation ou à l’interjection d’un appel de celle-ci :
+- **(8)** La période visée au paragraphe (9) est exclue du calcul des délais ci-après lorsqu’ils ont trait à l’établissement d’une cotisation à l’égard de la personne, à la production d’un avis d’opposition à cette cotisation ou à l’interjection d’un appel de celle-ci :
 	- **a)** le délai de quatre ans prévu au paragraphe 42(1);
 	- **b)** le délai de production d’un avis d’opposition à une cotisation selon l’article 43;
 	- **c)** le délai d’appel selon l’article 46.
 
 **Période exclue**
 
-- **(9)** Est exclue du calcul des délais visés aux alinéas (8)a) à c) la période commençant à la date où une demande présentée aux termes du présent article est signifiée à une personne en application du paragraphe (3) et se terminant à :
+- **(9)** Est exclue du calcul des délais visés aux alinéas (8)a) à c) la période commençant à la date où une demande présentée aux termes du présent article est signifiée à une personne en application du paragraphe (3) et se terminant à :
 	- **a)** dans le cas d’une personne nommée dans une ordonnance rendue par la Cour de l’impôt en application du paragraphe (4), la date où la décision devient définitive et sans appel;
 	- **b)** dans le cas d’une autre personne, la date où il lui est signifié un avis portant qu’elle n’a pas été nommée dans une telle ordonnance.
+> 2002, ch. 9, art. 5 « 52 »; 2007, ch. 18, art. 150.
+
 
 
 
@@ -1151,12 +1169,12 @@ Ces biens sont des biens dans lesquels Sa Majesté a un droit de bénéficiaire 
 
 **55** 
 
-- **(1)** Le ministre peut, au plus tard le jour qui suit de dix années civiles la fin d’un mois d’exercice d’une personne, annuler toute pénalité à payer par celle-ci en application de l’article 53 pour le mois, ou y renoncer.
+- **(1)** Le ministre peut, au plus tard le jour qui suit de dix années civiles la fin d’un mois d’exercice d’une personne ou sur demande de la personne présentée au plus tard ce jour-là, annuler toute pénalité à payer par la personne en application de l’article 53 pour le mois, ou y renoncer.
 
 **Intérêts sur somme annulée ou à laquelle il est renoncé**
 
 - **(2)** Si une personne a payé un montant de pénalité que le ministre a annulé, ou auquel il a renoncé, en vertu du paragraphe (1), le ministre verse des intérêts sur le montant payé par la personne, pour la période commençant le trentième jour suivant le jour où il a reçu, d’une manière qu’il juge acceptable, une demande en vue de l’application de ce paragraphe et se terminant le jour où le montant est remboursé à la personne.
-> 2002, ch. 9, art. 5 « 55 »; 2006, ch. 4, art. 107.
+> 2002, ch. 9, art. 5 « 55 »; 2006, ch. 4, art. 107; 2007, ch. 18, art. 151.
 
 
 
@@ -1786,19 +1804,25 @@ il peut, par avis écrit, obliger cette institution ou cette personne à verser 
 
 - **(1)** Le gouverneur en conseil peut, par règlement, prendre toute mesure d’ordre réglementaire prévue par la présente loi et toute autre mesure d’application de la présente loi.
 
+**Modification de l’annexe**
+
+- **(1.1)** Le gouverneur en conseil peut, par règlement, modifier l’annexe pour y ajouter, en retrancher ou y changer le nom d’un aéroport.
+
 **Prise d’effet**
 
-- **(2)** Les règlements pris en vertu de la présente loi n’ont d’effet qu’à compter de leur publication dans la Gazette du Canada, ou après, s’ils le prévoient. Un règlement peut toutefois avoir un effet rétroactif, s’il comporte une disposition en ce sens, dans les cas suivants :
+- **(2)** Les règlements pris en vertu de la présente loi n’ont d’effet qu’à compter de leur publication dans la Gazette du Canada, ou après, s’ils le prévoient. Un règlement peut toutefois avoir un effet rétroactif, s’il comporte une disposition en ce sens, dans les cas suivants :
 	- **a)** il a pour seul résultat d’alléger une charge;
 	- **b)** il corrige une disposition ambiguë ou erronée, non conforme à un objet de la présente loi;
 	- **c)** il procède d’une modification de la présente loi applicable avant qu’il ne soit publié dans la Gazette du Canada;
 	- **d)** il met en œuvre une mesure — budgétaire ou non — annoncée publiquement, auquel cas, si les alinéas a), b) ou c) ne s’appliquent pas par ailleurs, il ne peut avoir d’effet avant la date où la mesure est ainsi annoncée.
+> 2002, ch. 9, art. 5 « 84 »; 2007, ch. 18, art. 152.
+
 
 
 
 
 ### **ANNEXE** 
-**(article 2)**
+**(article 2 et paragraphe 84(1.1))**
 ## Aéroports désignés
 
 ### Ontario
@@ -1903,14 +1927,6 @@ La Grande Rivière
 
 
 
-La Grande-3
-
-
-
-La Grande-4
-
-
-
 Lourdes-de-Blanc-Sablon
 
 
@@ -1928,6 +1944,10 @@ Montréal (aéroport international de Mirabel)
 
 
 Québec (aéroport international Jean Lesage)
+
+
+
+Rivière-Rouge (aéroport international de Mont-Tremblant)
 
 
 
@@ -2140,6 +2160,10 @@ Medicine Hat
 
 
 
+Red Deer (aéroport régional)
+
+
+
 ### Terre-Neuve-et-Labrador
 
 
@@ -2175,7 +2199,7 @@ Wabush
 
 
 
-### *Yukon*
+### Yukon
 
 
 Whitehorse (aéroport international)
@@ -2194,5 +2218,7 @@ Yellowknife
 
 Iqaluit
 
+
+> 2002, ch. 9, art. 5, « ann. »; 2007, ch. 18, art. 153 à 156.
 
 
