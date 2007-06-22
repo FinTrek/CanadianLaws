@@ -265,6 +265,12 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 - **(2)** In carrying out its responsibilities, the Agency may spend assessments and other revenues received through the conduct of its operations in the fiscal year in which they are received or, unless an appropriation Act provides otherwise, in the next fiscal year. The amount of those assessments or other revenues shall be paid out of the Consolidated Revenue Fund.
 
+**Payment for activity**
+
+- **(3)** If the Commissioner carries on any activity in furtherance of an object described in paragraph 3(2)(d) or (e) on the recommendation of the Minister, the Minister may on terms and conditions approved by the Treasury Board, in any fiscal year, make a payment out of the Consolidated Revenue Fund to the Agency for the purposes of the activity.
+> 2001, c. 9, s. 13; 2007, c. 29, s. 154.
+
+
 
 
 
