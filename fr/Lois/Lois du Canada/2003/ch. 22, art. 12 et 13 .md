@@ -896,6 +896,12 @@ French version only***nomination interne*** Nomination d’une personne faisant 
 
 
 
+**50.1** Malgré le paragraphe 50(2), l’employé occasionnel peut être nommé au bureau du directeur général des élections en vue d’une élection tenue en vertu de la [Loi électorale du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%209.md), ou d’un référendum tenu en vertu de la [Loi référendaire](/fr/Lois/Lois%20du%20Canada/1992/ch.%2030.md), pour une période ne dépassant pas 165 jours ouvrables par année civile.
+> 2007, ch. 21, art. 40.
+
+
+
+
 
 **PARTIE 3** 
 ## Mutations
