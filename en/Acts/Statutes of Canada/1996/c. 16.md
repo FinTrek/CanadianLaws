@@ -37,18 +37,20 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **2** In this Act,
 
-***Crown corporation*** has the same meaning as in section 2 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md);
+***appropriate minister*** has the same meaning as in section 2 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md); (*ministre compétent*)
 
-***department*** has the same meaning as in section 2 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md);
+***Crown corporation*** has the same meaning as in section 2 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md); (*société d’État*)
 
-***federal immovable*** has the same meaning as in section 2 of the [Federal Real Property and Federal Immovables Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2050.md);
+***department*** has the same meaning as in section 2 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md); (*ministère*)
 
-***federal real property*** has the same meaning as in section 2 of the [Federal Real Property and Federal Immovables Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2050.md);
+***federal immovable*** has the same meaning as in section 2 of the [Federal Real Property and Federal Immovables Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2050.md); (*immeuble fédéral*)
 
-Version anglaise seulement***Minister*** means the Minister of Public Works and Government Services;
+***federal real property*** has the same meaning as in section 2 of the [Federal Real Property and Federal Immovables Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2050.md); (*bien réel fédéral*)
 
- ou ***public work*** means any work or property under the management or control of the Minister.
-> 1996, c. 16, s. 2; 2001, c. 4, s. 156.
+***Minister*** means the Minister of Public Works and Government Services; (***Version anglaise seulement***)
+
+***public work*** means any work or property under the management or control of the Minister. (*ouvrage public* ou *travaux publics*)
+> 1996, c. 16, s. 2; 2001, c. 4, s. 156; 2007, c. 29, s. 151.
 
 
 
@@ -142,7 +144,30 @@ Version anglaise seulement***Minister*** means the Minister of Public Works and 
 
 **Delegation**
 
-**8** The Minister may delegate any of the Minister’s powers, duties or functions under this Act to an appropriate minister, within the meaning of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), for any period and under any terms and conditions that the Minister considers suitable.
+**8** 
+
+- **(1)** The Minister may delegate any of the Minister’s powers, duties or functions under this Act to an appropriate minister for any period and under any terms and conditions that the Minister considers suitable.
+
+**Delegation**
+
+- **(2)** The Minister may, with respect to a department over which the Minister does not preside but for which the Minister is the appropriate minister, delegate any of the Minister’s powers, duties or functions under this Act, for any period and under any terms and conditions that the Minister considers suitable, to the chief executive of that department.
+
+**Subdelegation**
+
+- **(3)** The appropriate minister for a department may, subject to and in accordance with the delegation under subsection (1), subdelegate to the chief executive of that department, for any period and under any terms and conditions that the appropriate minister considers suitable, any of the powers, duties or functions that were delegated to the appropriate minister under that subsection.
+
+**Subdelegation**
+
+- **(4)** The chief executive of a department may, subject to and in accordance with the delegation under subsection (2) or the subdelegation under subsection (3), subdelegate to any person under his or her jurisdiction, for any period and under any terms and conditions that the chief executive considers suitable, any of the powers, duties or functions that were delegated or subdelegated to him or her under that subsection.
+
+**Definition of chief executive**
+
+- **(5)** In this section, ***chief executive***
+	- **(a)** with respect to a department named in Part I of Schedule VI to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), means its deputy minister;
+	- **(b)** with respect to a department named in Part II or III of that Schedule, means the person occupying the position set out opposite that name; and
+	- **(c)** with respect to a department that is not named in that Schedule, means the chief executive officer, deputy head or the person who occupies any other similar position, however called, in that department.
+> 1996, c. 16, s. 8; 2007, c. 29, s. 152.
+
 
 
 
@@ -150,6 +175,26 @@ Version anglaise seulement***Minister*** means the Minister of Public Works and 
 **Other authorities**
 
 **9** The Minister shall exercise the powers in relation to the acquisition and provision of materiel for the use of any department that are conferred on any minister or other authority under any Act of Parliament, except to the extent that those powers have been delegated by the Minister.
+
+
+
+
+**Exception**
+
+**9.1** Section 9 does not apply to a department within the meaning of paragraph (c) of the definition ***department*** in section 2 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md).
+> 2007, c. 29, s. 153.
+
+
+
+
+
+**Exemption**
+
+**9.2** The Minister may, by order, exempt the following from the application of section 9:
+- **(a)** a department that is not named in Schedule VI to the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md); and
+- **(b)** a department over which the Minister does not preside but for which the Minister is the appropriate minister.
+> 2007, c. 29, s. 153.
+
 
 
 
