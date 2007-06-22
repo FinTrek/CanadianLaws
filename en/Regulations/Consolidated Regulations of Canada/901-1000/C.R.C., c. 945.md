@@ -1187,7 +1187,7 @@ shall be filed on or before March 31, 1984.
 
 **229** 
 
-- **(1)** Every member of a partnership that carries on a business in Canada, or that is a Canadian partnership, at any time in a fiscal period of the partnership shall make for that period an information return in prescribed form containing the following information:
+- **(1)** Every member of a partnership that carries on a business in Canada, or that is a Canadian partnership or a SIFT partnership, at any time in a fiscal period of the partnership shall make for that period an information return in prescribed form containing the following information:
 	- **(a)** the income or loss of the partnership for the fiscal period;
 	- **(b)** the name, address and, in the case of an individual, the social insurance number of each member of the partnership who is entitled to a share referred to in paragraph (c) or (d) for the fiscal period;
 	- **(c)** the share of each member of the income or loss of the partnership for the fiscal period;
@@ -1211,7 +1211,7 @@ shall be filed on or before March 31, 1984.
 - **(6)** Where a partnership discontinues its business or activity, the return required under this section shall be filed, in respect of any fiscal period or portion thereof prior to the discontinuance of the business or activity for which a return has not previously been filed under this section, on or before the earlier of
 	- **(a)** the day that is 90 days after the discontinuance of the business or activity, and
 	- **(b)** the day the return is required to be filed under subsection (5).
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/89-519, s. 2; SOR/93-443, s. 1; SOR/94-686, ss. 53(F), 78(F), 79(F), 81(F).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/89-519, s. 2; SOR/93-443, s. 1; SOR/94-686, ss. 53(F), 78(F), 79(F), 81(F); 2007, c. 29, s. 30.
 
 
 
@@ -8050,6 +8050,16 @@ is of
 
 
 
+### Sift Trusts
+
+
+**2608** For the purposes of this Part, if the individual is a SIFT trust, a reference to income earned in a taxation year shall be read as a reference to the amount that would, if this Part were read without reference to this section, be the amount, if any, by which its income for the taxation year exceeds its taxable SIFT trust distributions for the taxation year.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; 2007, c. 29, s. 31.
+
+
+
+
+
 **PART XXVII** 
 ## Group Term Life Insurance Benefits
 
@@ -9479,13 +9489,13 @@ that group shall, subject to subsection (4), be deemed to be one person for the 
 
 **4900** 
 
-- **(1)** Subject to subsection (2), for the purposes of paragraph (d) of the definition ***qualified investment*** in subsection 146(1) of the Act, paragraph (e) of the definition ***qualified investment*** in subsection 146.1(1) of the Act, paragraph (c) of the definition ***qualified investment*** in subsection 146.3(1) of the Act and paragraph (i) of the definition ***qualified investment*** in section 204 of the Act, each of the following investments is prescribed as a qualified investment for a plan trust at a particular time if at that time it is
+- **(1)** For the purposes of paragraph (d) of the definition ***qualified investment*** in subsection 146(1) of the Act, paragraph (e) of the definition ***qualified investment*** in subsection 146.1(1) of the Act, paragraph (c) of the definition ***qualified investment*** in subsection 146.3(1) of the Act and paragraph (h) of the definition ***qualified investment*** in section 204 of the Act, each of the following investments is prescribed as a qualified investment for a plan trust at a particular time if at that time it is
 	- **(a)** an interest in a trust or a share of the capital stock of a corporation that was a registered investment for the plan trust during the calendar year in which the particular time occurs or the immediately preceding year;
 	- **(b)** a share of the capital stock of a public corporation other than a mortgage investment corporation;
 	- **(c)** a share of the capital stock of a mortgage investment corporation that does not hold as part of its property at any time during the calendar year in which the particular time occurs any indebtedness, whether by way of mortgage or otherwise, of a person who is an annuitant, a beneficiary, an employer or a subscriber under the governing plan of the plan trust or of any other person who does not deal at arm’s length with that person;
 	- **(c.1)** a bond, debenture, note or similar obligation of a public corporation other than a mortgage investment corporation;
 	- **(d)** a unit of a mutual fund trust;
-	- **(d.1)** a bond, debenture, note or similar obligation issued by a mutual fund trust the units of which are listed on a stock exchange referred to in section 3200;
+	- **(d.1)** [Repealed, 2007, c. 29, s. 32]
 	- **(d.2)** a unit of a trust if
 		- **(i)** the trust would be a mutual fund trust if Part XLVIII were read without reference to paragraph 4801(a), and
 		- **(ii)** there has been a lawful distribution in a province to the public of units of the trust and a prospectus, registration statement or similar document was not required under the laws of the province to be filed in respect of the distribution;
@@ -9494,7 +9504,7 @@ that group shall, subject to subsection (4), be deemed to be one person for the 
 			- **(A)** a share of the capital stock of, a unit of, or a debt issued by, the issuer or another person or partnership that does not, when the security is issued, deal at arm’s length with the issuer, or
 			- **(B)** a warrant issued by the issuer or another person or partnership that does not, when the security is issued, deal at arm’s length with the issuer, that gives the holder the right to acquire a share or unit described in clause (A), and
 		- **(ii)** the issuer deals at arm’s length with each person who is an annuitant, a beneficiary, an employer or a subscriber under the governing plan of the plan trust;
-	- **(e.01)** an option, a warrant or a similar right that is listed on a stock exchange referred to in section 3200 or 3201 and that is in respect of property all of which is a qualified investment for the plan trust;
+	- **(e.01)** [Repealed, 2007, c. 29, s. 32]
 	- **(e.1)** a share of, or deposit with, a société d’entraide économique,
 	- **(f)** a share of, or similar interest in a credit union;
 	- **(g)** a bond, debenture, note or similar obligation (in this paragraph referred to as the “obligation”) issued by, or a deposit with, a credit union that, except where the plan trust is governed by a registered education savings plan, has not at any time during the calendar year in which the particular time occurs granted any benefit or privilege to a person who is an annuitant, a beneficiary or an employer under the governing plan of the plan trust, or to any other person who does not deal at arm’s length with that person, as a result of the ownership by
@@ -9558,18 +9568,9 @@ and a credit union shall be deemed to have granted a benefit or privilege to a p
 		- **(iv)** the Caribbean Development Bank,
 		- **(v)** the European Bank for Reconstruction and Development, or
 		- **(vi)** the African Development Bank;
-	- **(m)** a royalty unit that is listed on a stock exchange referred to in section 3200 and the value of which is derived solely from Canadian resource properties;
-	- **(n)** a limited partnership unit listed on a stock exchange referred to in section 3200;
-	- **(n.01)** a debt issued by a limited partnership whose units are listed on a stock exchange referred to in section 3200;
-	- **(n.1)** a unit of a particular trust if
-		- **(i)** at the particular time, the unit is listed on a stock exchange referred to in section 3201,
-		- **(ii)** the primary purpose of the particular trust is
-			- **(A)** to hold the securities included in a stock exchange index (including a stock exchange index reflecting securities issued by corporations or other entities carrying on a particular type of business activity) in substantially the same portion as those securities are reflected in that index, or
-			- **(B)** to invest in a manner that causes the investment performance of the particular trust to replicate the investment performance of that index, and
-		- **(iii)** at the particular time or the time of the last acquisition of the unit before the particular time by the plan trust, the total of all amounts each of which is the cost amount to the particular trust of a share of the capital stock of a corporation listed on a single stock exchange referred to in section 3200 or 3201 is not less than 80% of the total of all amounts each of which is the cost amount to the particular trust of a property of the particular trust;
+	- **(m) to (n.1)** [Repealed, 2007, c. 29, s. 32]
 	- **(o)** a bond, debenture, note or similar obligation issued by the government of a country other than Canada and that had, at the time of purchase, an investment grade rating with a bond rating agency that in the ordinary course of its business rates the debt obligations issued by that government;
-	- **(p)** a bond, debenture, note or similar obligation of a corporation the shares of which are listed on a stock exchange referred to in section 3201;
-	- **(p.1)** a right to a share of the capital stock of a corporation where the right is evidenced by a depository receipt that is listed on a stock exchange referred to in section 3200 or 3201;
+	- **(p) and (p.1)** [Repealed, 2007, c. 29, s. 32]
 	- **(q)** a debt issued by a Canadian corporation (other than a corporation with share capital or a corporation that does not deal at arm’s length with a person who is an annuitant, a beneficiary, an employer or a subscriber under the governing plan of the plan trust) where
 		- **(i)** the taxable income of the corporation is exempt from tax under Part I of the Act because of paragraph 149(1)(l) of the Act, and
 		- **(ii)** either
@@ -9609,12 +9610,14 @@ and a credit union shall be deemed to have granted a benefit or privilege to a p
 		- **(i)** the property would be property described in paragraph (t) or (u) if those paragraphs were read without reference to subparagraphs (t)(iv) and (u)(iv), respectively, and
 		- **(ii)** the certificate is acquired by the plan trust directly from the issuer of the certificate or from a specified corporation.
 
-- **(2)** Notes, bonds, debentures, bankers’ acceptances or similar obligations of
-	- **(a)** an employer by whom payments are made in trust to a trustee under a deferred profit sharing plan or a revoked plan for the benefit of beneficiaries under the plan, or
-	- **(b)** a corporation with whom that employer does not deal at arm’s length
-are not qualified investments for the trust.
+- **(2)** For the purposes of paragraph (c.1) of the definition ***qualified investment*** in section 204 of the Act, each of the following is a prescribed credit rating agency:
+	- **(a)** A.M. Best Company, Inc.;
+	- **(b)** Dominion Bond Rating Service Limited;
+	- **(c)** Fitch, Inc.;
+	- **(d)** Moody’s Investors Service, Inc.; and
+	- **(e)** the Standard and Poor’s Division of the McGraw-Hill Companies, Inc.
 
-- **(3)** For the purpose of paragraph (i) of the definition ***qualified investment*** in section 204 of the Act, a contract with a licensed annuities provider for an annuity payable to an employee who is a beneficiary under a deferred profit sharing plan beginning not later than the end of the year in which the employee attains 69 years of age, the guaranteed term of which, if any, does not exceed 15 years, is prescribed as a qualified investment for a trust governed by such a plan or revoked plan.
+- **(3)** For the purpose of paragraph (h) of the definition ***qualified investment*** in section 204 of the Act, a contract with a licensed annuities provider for an annuity payable to an employee who is a beneficiary under a deferred profit sharing plan beginning not later than the end of the year in which the employee attains 71 years of age, the guaranteed term of which, if any, does not exceed 15 years, is prescribed as a qualified investment for a trust governed by such a plan or revoked plan.
 
 - **(4)** [Repealed, SOR/2001-216, s. 6]
 
@@ -9625,7 +9628,7 @@ are not qualified investments for the trust.
 	- **(b)** an interest of a limited partner in a small business investment limited partnership; or
 	- **(c)** an interest in a small business investment trust.
 
-- **(7)** Subject to subsection (11), for the purposes of paragraph (i) of the definition ***qualified investment*** in section 204 of the Act, a property is prescribed as a qualified investment for a trust governed by a deferred profit sharing plan or revoked plan at any time if at that time the property is an interest
+- **(7)** Subject to subsection (11), for the purposes of paragraph (h) of the definition ***qualified investment*** in section 204 of the Act, a property is prescribed as a qualified investment for a trust governed by a deferred profit sharing plan or revoked plan at any time if at that time the property is an interest
 	- **(a)** of a limited partner in a small business investment limited partnership; or
 	- **(b)** in a small business investment trust.
 
@@ -9681,7 +9684,7 @@ the issuer of the share or a person related to that issuer,
 		- **(i)** on account of, or in lieu or in satisfaction of, payment for the services to or for the issuer or the person related to the issuer, or
 		- **(ii)** in respect of the acquisition of the goods from, or the services provided by, the issuer or the person related to the issuer,
 the share shall, immediately before the amount is received, cease to be and shall not thereafter be a qualified investment for the trust.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-725, s. 4; SOR/83-819, s. 1; SOR/85-202, s. 1; SOR/86-390, s. 2; SOR/86-1092, s. 12(F); SOR/88-165, s. 24(F); SOR/92-660, s. 2; SOR/94-471, s. 1; SOR/94-472, s. 1; SOR/94-686, ss. 26(F), 72(F), 74(F), 75(F), 78(F), 79(F); SOR/95-513, s. 1; SOR/96-450, s. 1; SOR/98-250, s. 1; SOR/99-9, s. 1; SOR/99-81, s. 1; SOR/99-102, s. 1; SOR/2001-216, ss. 6, 10(F),11(F); SOR/2001-289, s. 8(E); SOR/2005-264, s. 6.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-725, s. 4; SOR/83-819, s. 1; SOR/85-202, s. 1; SOR/86-390, s. 2; SOR/86-1092, s. 12(F); SOR/88-165, s. 24(F); SOR/92-660, s. 2; SOR/94-471, s. 1; SOR/94-472, s. 1; SOR/94-686, ss. 26(F), 72(F), 74(F), 75(F), 78(F), 79(F); SOR/95-513, s. 1; SOR/96-450, s. 1; SOR/98-250, s. 1; SOR/99-9, s. 1; SOR/99-81, s. 1; SOR/99-102, s. 1; SOR/2001-216, ss. 6, 10(F),11(F); SOR/2001-289, s. 8(E); SOR/2005-264, s. 6; 2007, c. 29, s. 32.
 
 
 
@@ -14494,7 +14497,7 @@ subject to subsection (2), there is prescribed in respect of the individual for 
 - **(1)** In this section, ***specified retirement arrangement*** means, in respect of an individual and an employer, a plan or arrangement under which payments that are attributable to the individual’s employment with the employer are to be, or may be, made to or for the benefit of the individual after the termination of the individual’s employment with the employer, but does not include
 	- **(a)** a plan or arrangement referred to in any of paragraphs (a) to (k), (m) and (n) of the definition ***retirement compensation arrangement*** in subsection 248(1) of the Act;
 	- **(b)** [Repealed, SOR/99-9, s. 12]
-	- **(c)** a plan or arrangement that does not provide in any circumstances for payments to be made to or for the benefit of the individual after the later of the last day of the calendar year in which the individual attains 69 years of age and the day that is 5 years after the day of termination of the individual’s employment with the employer;
+	- **(c)** a plan or arrangement that does not provide in any circumstances for payments to be made to or for the benefit of the individual after the later of the last day of the calendar year in which the individual attains 71 years of age and the day that is 5 years after the day of termination of the individual’s employment with the employer;
 	- **(d)** a plan or arrangement (in this paragraph referred to as the “arrangement”) that is, or would be, but for paragraph (l) of the definition ***retirement compensation arrangement*** in subsection 248(1) of the Act, a retirement compensation arrangement where
 		- **(i)** the funding of the arrangement is subject to the [Pension Benefits Standards Act, 1985](/en/Acts/Statutes%20of%20Canada/1985/c.%2032%20(2nd%20Supp.).md) or a similar law of a province, or
 		- **(ii)** the arrangement is funded substantially in accordance with the funding requirements that would apply if the arrangement were subject to the [Pension Benefits Standards Act, 1985](/en/Acts/Statutes%20of%20Canada/1985/c.%2032%20(2nd%20Supp.).md);
@@ -14566,7 +14569,7 @@ exceeds the total of all amounts each of which is
 
 
 - **(5)** Where the Minister has, on the written application of an employer, approved in writing a method for determining the specified retirement arrangement PSPA of an individual with respect to the employer associated with a modification of the individual’s benefits under a specified retirement arrangement, the individual’s specified retirement arrangement PSPA shall be determined in accordance with that method.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/96-311, s. 8; SOR/99-9, s. 12; SOR/2005-264, s. 22.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/96-311, s. 8; SOR/99-9, s. 12; SOR/2005-264, s. 22; 2007, c. 29, s. 33.
 
 
 
@@ -15192,9 +15195,9 @@ and, for the purposes of this paragraph,
 #### Payment of Pension
 
 - **(e)** the plan
-	- **(i)** requires that the retirement benefits of a member under each benefit provision of the plan begin to be paid not later than the end of the calendar year in which the member attains 69 years of age except that,
-		- **(A)** in the case of benefits provided under a defined benefit provision, the benefits may begin to be paid at any later time that is acceptable to the Minister, if the amount of benefits (expressed on an annualized basis) payable does not exceed the amount of benefits that would be payable if payment of the benefits began at the end of the calendar year in which the member attains 69 years of age, and
-		- **(B)** in the case of benefits provided under a money purchase provision in accordance with paragraph 8506(1)(e.1), the benefits may begin to be paid not later than the end of the calendar year in which the member attains 70 years of age, and
+	- **(i)** requires that the retirement benefits of a member under each benefit provision of the plan begin to be paid not later than the end of the calendar year in which the member attains 71 years of age except that,
+		- **(A)** in the case of benefits provided under a defined benefit provision, the benefits may begin to be paid at any later time that is acceptable to the Minister, if the amount of benefits (expressed on an annualized basis) payable does not exceed the amount of benefits that would be payable if payment of the benefits began at the end of the calendar year in which the member attains 71 years of age, and
+		- **(B)** in the case of benefits provided under a money purchase provision in accordance with paragraph 8506(1)(e.1), the benefits may begin to be paid not later than the end of the calendar year in which the member attains 72 years of age, and
 	- **(ii)** provides that retirement benefits under each benefit provision are payable not less frequently than annually;
 
 #### Assignment of Rights
@@ -15242,7 +15245,7 @@ or where
 #### Participants in GSRAs
 
 - **(m)** no individual who, at any time after 1993, is entitled, either absolutely or contingently, to benefits under the plan because of employment with an employer with whom the individual is connected is entitled at that time, either absolutely or contingently, to benefits under a government-sponsored retirement arrangement (as defined in subsection 8308.4(1)).
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/94-686, s. 42(F); SOR/95-64, s. 10; SOR/96-311, s. 15; SOR/99-9, s. 21; SOR/2001-188, s. 10; SOR/2003-328, s. 9; SOR/2005-264, s. 26.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/94-686, s. 42(F); SOR/95-64, s. 10; SOR/96-311, s. 15; SOR/99-9, s. 21; SOR/2001-188, s. 10; SOR/2003-328, s. 9; SOR/2005-264, s. 26; 2007, c. 29, s. 34.
 
 
 
@@ -15364,7 +15367,7 @@ where
 		- **(ii)** the beneficiary is a spouse or common-law partner or former spouse or common-law partner of the member,
 		- **(iii)** the survivor benefits are payable for a period beginning not later than the later of
 			- **(A)** the day that is one year after the day of death of the member, and
-			- **(B)** the end of the calendar year in which the beneficiary attains 69 years of age,and ending with the death of the beneficiary,
+			- **(B)** the end of the calendar year in which the beneficiary attains 71 years of age,and ending with the death of the beneficiary,
 		- **(iv)** the survivor benefits would be in accordance with paragraph (a) if the beneficiary were a member of the plan, and
 		- **(v)** the present value (at the time of the member’s death) of all benefits provided as a consequence of the member’s death does not exceed the present value (immediately before the member’s death) of all benefits that have accrued under the provision with respect to the member to the day of the member’s death;
 
@@ -15671,6 +15674,18 @@ the following rules apply:
 
 - **(11)** Where a member of a registered pension plan has become an employee of a participating employer after the member’s retirement benefits under a defined benefit provision of the plan have commenced to be paid and it is reasonable to consider that one of the main reasons for the employment of the member is to enable the member to benefit from terms of the plan that provide for a redetermination of the amount of the member’s retirement benefits provided in respect of a period before the benefits commenced to be paid, the plan becomes a revocable plan at the time the payment of the member’s benefits resumes.
 
+#### Special Rules for Member Aged 70 or 71 in 2007
+
+
+- **(11.1)** Where
+	- **(a)** a member of a registered pension plan attained 69 years of age in 2005 or 2006,
+	- **(b)** the member’s retirement benefits under a defined benefit provision of the plan commenced to be paid to the member in the year in which the member attained 69 years of age,
+	- **(c)** the member’s retirement benefits are suspended as of any particular time in 2007, and
+	- **(d)** the member was employed with a participating employer from the time the member’s retirement benefits commenced to be paid to the particular time,
+the following rules apply:
+	- **(e)** subsections (9) and (11) shall apply with respect to the member as though the member became an employee of the participating employer at the particular time, and
+	- **(f)** for the purpose of subsection (10), retirement benefits paid under the provision to the member before the particular time shall be disregarded.
+
 #### Limits Dependent on Consumer Price Index
 
 
@@ -15704,7 +15719,7 @@ the following rules apply for the purposes of the conditions in subsection 8504(
 		- **(ii)** before December 11, 1989 where the contribution has not, before that date, been approved by the Minister under paragraph 20(1)(s) of the Act, and
 	- **(c)** it is reasonable to consider that all or substantially all of such portion of the contribution as is in respect of past service benefits was paid by the employer, with the consent of the member, in lieu of a payment or other benefit to which the member would otherwise be entitled,
 the plan becomes, for the purposes of paragraph 147.1(11)(c) of the Act, a revocable plan on the later of December 11, 1989 and the day immediately before the day on which the contribution is made.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 11; SOR/99-9, s. 22; SOR/2001-67, s. 6; SOR/2001-188, ss. 11, 14 to 16; SOR/2003-396, s. 1; SOR/2005-264, s. 27; SOR/2007-116, s. 16(F).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 11; SOR/99-9, s. 22; SOR/2001-67, s. 6; SOR/2001-188, ss. 11, 14 to 16; SOR/2003-396, s. 1; SOR/2005-264, s. 27; 2007, c. 29, s. 35; SOR/2007-116, s. 16(F).
 
 
 
@@ -16035,7 +16050,7 @@ the condition in paragraph (3)(d) is applicable in respect of benefits payable u
 	- **(e)** retirement benefits provided to a beneficiary of a member who dies before retirement benefits under the provision commence to be paid to the member, and benefits provided to other individuals after the death of the beneficiary, where
 		- **(i)** the beneficiary is a spouse or common-law partner or former spouse or common-law partner of the member at the time of the member’s death,
 		- **(ii)** the benefits would be permissible under paragraphs (a) to (c) if the beneficiary were a member of the plan, and
-		- **(iii)** the retirement benefits are payable to the beneficiary beginning no later than on the later of one year after the day of death of the member and the end of the calendar year in which the beneficiary attains 69 years of age;
+		- **(iii)** the retirement benefits are payable to the beneficiary beginning no later than on the later of one year after the day of death of the member and the end of the calendar year in which the beneficiary attains 71 years of age;
 
 #### Variable Benefits
 
@@ -16083,7 +16098,7 @@ the condition in paragraph (3)(d) is applicable in respect of benefits payable u
 
 #### Contributions Not Permitted
 
-	- **(c.1)** no contribution is made under the provision with respect to a member, and no amount is transferred for the benefit of a member to the provision from another benefit provision of the plan, at any time after the calendar year in which the member attains 69 years of age, other than an amount that is transferred for the benefit of the member to the provision
+	- **(c.1)** no contribution is made under the provision with respect to a member, and no amount is transferred for the benefit of a member to the provision from another benefit provision of the plan, at any time after the calendar year in which the member attains 71 years of age, other than an amount that is transferred for the benefit of the member to the provision
 		- **(i)** in accordance with subsection 146.3(14.1) or 147.3(1) or (4) of the Act, or
 		- **(ii)** from another benefit provision of the plan, where the amount so transferred would, if the benefit provisions were in separate registered pension plans, be in accordance with subsection 147.3(1) or (4) of the Act;
 
@@ -16161,7 +16176,7 @@ where
 
 - **(7)** The minimum amount for a member’s account under a money purchase provision of a registered pension plan for a calendar year is nil if
 	- **(a)** an individual, who is either the member or the specified beneficiary of the member for the year in relation to the provision, is alive at the beginning of the year; and
-	- **(b)** that individual had not attained 69 years of age at the end of the preceding calendar year.
+	- **(b)** that individual had not attained 71 years of age at the end of the preceding calendar year.
 
 #### Specified Beneficiary
 
@@ -16170,7 +16185,7 @@ where
 	- **(a)** the member died before the beginning of the year;
 	- **(b)** the individual is a beneficiary of the member and was, immediately before the member’s death, the member’s spouse or common-law partner; and
 	- **(c)** the member or the member’s legal representative had, before the beginning of the year, provided the administrator of the plan with a written designation of the individual (and of no other individual) as the specified beneficiary of the member for the calendar year in relation to the provision.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 13; SOR/99-9, s. 23; SOR/2001-188, ss. 14, 15; SOR/2005-264, s. 28.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 13; SOR/99-9, s. 23; SOR/2001-188, ss. 14, 15; SOR/2005-264, s. 28; 2007, c. 29, s. 36.
 
 
 
