@@ -263,6 +263,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** L’Agence peut dépenser les cotisations et autres recettes provenant de ses activités reçues au cours d’un exercice pendant cet exercice ou, sauf disposition contraire d’une loi d’affectation de crédits, pendant l’exercice suivant. Ces sommes sont prélevées sur le Trésor.
 
+**Paiement pour activités**
+
+- **(3)** Si le commissaire, sur la recommandation du ministre, exerce des activités en vue de la réalisation des objectifs visés aux alinéas 3(2)d) ou e), ce dernier peut, au cours d’un exercice, conformément aux modalités approuvées par le Conseil du Trésor, payer une somme sur le Trésor à l’Agence pour financer ces activités.
+> 2001, ch. 9, art. 13; 2007, ch. 29, art. 154.
+
+
 
 
 
