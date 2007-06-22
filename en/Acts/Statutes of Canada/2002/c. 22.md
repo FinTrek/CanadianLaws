@@ -129,6 +129,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***liquor authority*** means a government board, commission or agency that is authorized by the laws of a province to sell intoxicating liquor.
 
+***listed international agreement*** means the Convention on Mutual Administrative Assistance in Tax Matters, concluded at Strasbourg on January 25, 1988, as amended from time to time.
+
 ***manufacture***, in respect of a tobacco product, includes any step in the preparation or working up of raw leaf tobacco into the tobacco product. It includes packing, stemming, reconstituting, converting or packaging the raw leaf tobacco or tobacco product.
 
 ***manufactured tobacco*** means every article, other than a cigar or packaged raw leaf tobacco, that is manufactured in whole or in part from raw leaf tobacco by any process.
@@ -183,6 +185,8 @@ Version anglaise seulement***prescribed*** means
 
 ***responsible***, in relation to a person, means that the person is responsible for bulk alcohol in accordance with sections 104 to 121.
 
+***restricted formulation*** means an approved formulation on which the Minister has imposed the condition or restriction under section 143 that the formulation can only be used by a licensed user or be exported.
+
 ***sale price***, in respect of cigars, means the total of
 - **(a)** the amount charged as the price for the cigars before an amount payable in respect of a tax under Part IX of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) is added,
 - **(b)** the amount charged as the price for or in respect of the container in which the cigars are contained,
@@ -213,8 +217,9 @@ Version anglaise seulement***prescribed*** means
 - **(c)** vinegar;
 - **(d)** denatured alcohol;
 - **(e)** specially denatured alcohol;
-- **(f)** an approved formulation; or
-- **(g)** any product containing or manufactured from a material or substance referred to in paragraphs (b) to (f) that is not consumable as a beverage.
+- **(f)** fusel oil or other refuse produced as a result of the distillation process;
+- **(g)** an approved formulation; or
+- **(h)** any product containing or manufactured from a material or substance referred to in paragraphs (b) to (g) that is not consumable as a beverage.
 
 ***spirits licensee*** means a person who holds a spirits licence issued under section 14.
 
@@ -228,9 +233,7 @@ Version anglaise seulement***prescribed*** means
 
 ***Tax Court*** means the Tax Court of Canada.
 
-***tobacco dealer*** means a person, other than a tobacco licensee, who
-- **(a)** purchases for resale, sells or offers to sell raw leaf tobacco on which duty is not imposed under this Act; and
-- **(b)** does not take physical possession of the tobacco.
+***tobacco dealer*** means a person, other than a tobacco licensee, who purchases for resale, sells or offers to sell raw leaf tobacco on which duty is not imposed under this Act.
 
 ***tobacco licensee*** means a person who holds a tobacco licence issued under section 14.
 
@@ -249,7 +252,7 @@ Version anglaise seulement***prescribed*** means
 - **(c)** a beverage described by paragraph (a) or (b) that is fortified not in excess of 22.9% absolute ethyl alcohol by volume.
 
 ***wine licensee*** means a person who holds a wine licence issued under section 14.
-> 2002, c. 22, s. 2; 2005, c. 38, s. 92.
+> 2002, c. 22, s. 2; 2005, c. 38, s. 92; 2007, c. 18, s. 67.
 
 
 
@@ -429,7 +432,7 @@ Version anglaise seulement***prescribed*** means
 - **(1)** Subject to the regulations, on application, the Minister may issue to a person
 	- **(a)** a spirits licence, authorizing the person to produce or package spirits;
 	- **(b)** a wine licence, authorizing the person to produce or package wine;
-	- **(c)** a user’s licence, authorizing the person to use bulk alcohol or non-duty-paid packaged alcohol;
+	- **(c)** a user’s licence, authorizing the person to use bulk alcohol, non-duty-paid packaged alcohol or a restricted formulation;
 	- **(d)** a tobacco licence, authorizing the person to manufacture tobacco products; or
 	- **(e)** a tobacco dealer’s licence, authorizing the person to carry on the activity of a tobacco dealer.
 
@@ -437,9 +440,17 @@ Version anglaise seulement***prescribed*** means
 
 - **(2)** A person is not entitled to a licence under paragraph (1)(a) or (b) by reason only of having been deemed to have packaged alcohol under section 77 or 82.
 
-**Deemed production excluded**
+**Production excluded**
 
-- **(3)** A person is not entitled to a licence under paragraph (1)(a) by reason only of having been deemed to have produced spirits under subsection 131(2).
+- **(3)** A person is not entitled to a licence under paragraph (1)(a) by reason only of
+	- **(a)** having been deemed to have produced spirits under section 131.2; or
+	- **(b)** having produced spirits for the purpose or as a consequence of the analysis of the composition of a substance containing absolute ethyl alcohol.
+
+**Issuance of a wine licence**
+
+- **(4)** Subject to the regulations, on application by a person who is the holder of a spirits licence and a user’s licence, the Minister may issue to the person a wine licence, authorizing the person to fortify wine.
+> 2002, c. 22, s. 14; 2007, c. 18, s. 68.
+
 
 
 
@@ -468,7 +479,9 @@ Version anglaise seulement***prescribed*** means
 
 **Alcohol registration**
 
-**17** Subject to the regulations, on application, the Minister may issue an alcohol registration to a person authorizing the person to store or transport bulk alcohol or specially denatured alcohol.
+**17** Subject to the regulations, on application, the Minister may issue an alcohol registration to a person authorizing the person to store or transport bulk alcohol, specially denatured alcohol or a restricted formulation.
+> 2002, c. 22, s. 17; 2007, c. 18, s. 69.
+
 
 
 
@@ -494,14 +507,16 @@ Version anglaise seulement***prescribed*** means
 
 **19** 
 
-- **(1)** Subject to the regulations, on application, the Minister may issue an excise warehouse licence to a person who is not a retailer of alcohol authorizing the person to possess in their excise warehouse non-duty-paid packaged alcohol or a tobacco product that is not stamped.
+- **(1)** Subject to the regulations, on application, the Minister may issue an excise warehouse licence to a person who is not a retailer of alcohol authorizing the person to possess in their excise warehouse non-duty-paid packaged alcohol or manufactured tobacco or cigars that are not stamped.
 
 **Eligible retailers of alcohol**
 
 - **(2)** Even if they are retailers of alcohol, the following persons may be issued an excise warehouse licence under subsection (1):
 	- **(a)** an alcohol licensee;
 	- **(b)** a liquor authority; and
-	- **(c)** any person who supplies goods in accordance with the *Ships’ Stores Regulations*.
+	- **(c)** any person who supplies goods in accordance with the [Ships’ Stores Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/96/40.md).
+> 2002, c. 22, s. 19; 2007, c. 18, s. 70.
+
 
 
 
@@ -514,7 +529,7 @@ Version anglaise seulement***prescribed*** means
 
 **20** 
 
-- **(1)** Subject to the regulations, on application, the Minister may issue a special excise warehouse licence to a person who is authorized by a tobacco licensee to be the only person, other than the licensee, who is entitled to distribute to an accredited representative a tobacco product manufactured by the licensee.
+- **(1)** Subject to the regulations, on application, the Minister may issue a special excise warehouse licence to a person who is authorized by a tobacco licensee to be the only person, other than the licensee, who is entitled to distribute to an accredited representative manufactured tobacco or cigars manufactured by the licensee.
 
 **Single licence**
 
@@ -523,21 +538,25 @@ Version anglaise seulement***prescribed*** means
 **Licence limited to one premises**
 
 - **(3)** The Minister shall not specify more than one premises of a special excise warehouse licensee as a special excise warehouse.
+> 2002, c. 22, s. 20; 2007, c. 18, s. 71.
 
 
 
 
-**Return of tobacco products**
+
+**Return of tobacco**
 
 **21** 
 
-- **(1)** If a person ceases to be authorized by a tobacco licensee to distribute to an accredited representative a tobacco product manufactured by the tobacco licensee,
-	- **(a)** the person shall immediately return the tobacco product of that licensee that is stored in the person’s special excise warehouse to the excise warehouse of the tobacco licensee; and
+- **(1)** If a person ceases to be authorized by a tobacco licensee to distribute to an accredited representative manufactured tobacco or cigars manufactured by the tobacco licensee,
+	- **(a)** the person shall immediately return the tobacco or cigars of that licensee that are stored in the person’s special excise warehouse to the excise warehouse of the tobacco licensee; and
 	- **(b)** the tobacco licensee shall immediately notify the Minister in writing that the person has ceased to be so authorized.
 
 **Cancellation**
 
-- **(2)** The Minister shall cancel the special excise warehouse licence of the person if the person is no longer authorized by any tobacco licensee to distribute to an accredited representative a tobacco product.
+- **(2)** The Minister shall cancel the special excise warehouse licence of the person if the person is no longer authorized by any tobacco licensee to distribute to an accredited representative manufactured tobacco or cigars.
+> 2002, c. 22, s. 21; 2007, c. 18, s. 72.
+
 
 
 
@@ -584,6 +603,15 @@ Version anglaise seulement***prescribed*** means
 
 
 
+**Licences and registrations not statutory instruments**
+
+**24.1** For greater certainty, a licence or registration issued under this Act is not a statutory instrument for the purposes of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md).
+> 2007, c. 18, s. 73.
+
+
+
+
+
 **PART 3** 
 ## Tobacco
 
@@ -605,11 +633,13 @@ Version anglaise seulement***prescribed*** means
 
 **Exception — manufacturing for personal use**
 
-- **(3)** An individual who is not a tobacco licensee may manufacture a tobacco product
-	- **(a)** from packaged raw leaf tobacco or manufactured tobacco on which the duty has been paid, if the product is for their personal use; or
+- **(3)** An individual who is not a tobacco licensee may manufacture manufactured tobacco or cigars
+	- **(a)** from packaged raw leaf tobacco or manufactured tobacco on which the duty has been paid, if the tobacco or cigars are for their personal use; or
 	- **(b)** from raw leaf tobacco grown on land on which the individual resides, if
-		- **(i)** the product is for their personal use or that of the members of their family who reside with the individual and who are 18 years of age or older, and
-		- **(ii)** the quantity of product manufactured in any year does not exceed 15 kg for the individual and each member of the individual’s family who resides with the individual and who is 18 years of age or older.
+		- **(i)** the tobacco or cigars are for their personal use or that of the members of their family who reside with the individual and who are 18 years of age or older, and
+		- **(ii)** the quantity of tobacco or cigars manufactured in any year does not exceed 15 kg for the individual and each member of the individual’s family who resides with the individual and who is 18 years of age or older.
+> 2002, c. 22, s. 25; 2007, c. 18, s. 74.
+
 
 
 
@@ -641,8 +671,31 @@ Version anglaise seulement***prescribed*** means
 **Exception**
 
 - **(2)** Subsection (1) does not apply to a tobacco licensee who removes from their premises
-	- **(a)** raw leaf tobacco for return to a tobacco grower, for delivery to another tobacco licensee or for export; or
+	- **(a)** raw leaf tobacco for
+		- **(i)** return to a licensed tobacco dealer or a tobacco grower,
+		- **(ii)** delivery to another tobacco licensee, or
+		- **(iii)** export; or
 	- **(b)** partially manufactured tobacco for delivery to another tobacco licensee or for export.
+> 2002, c. 22, s. 28; 2007, c. 18, s. 75.
+
+
+
+
+
+**Unlawful removal from premises of tobacco dealer**
+
+**28.1** 
+
+- **(1)** No person shall remove raw leaf tobacco from the premises of a licensed tobacco dealer.
+
+**Exception**
+
+- **(2)** Subsection (1) does not apply to a licensed tobacco dealer who removes from their premises raw leaf tobacco for
+	- **(a)** return to a tobacco grower;
+	- **(b)** delivery to a tobacco licensee or to another licensed tobacco dealer; or
+	- **(c)** export.
+> 2007, c. 18, s. 76.
+
 
 
 
@@ -666,11 +719,14 @@ Version anglaise seulement***prescribed*** means
 **Exception**
 
 - **(2)** Subsection (1) does not apply to
-	- **(a)** a person who is a tobacco licensee;
+	- **(a)** a person who is a tobacco licensee or a licensed tobacco dealer; or
 	- **(b)** the possession of raw leaf tobacco
-		- **(i)** in a customs bonded warehouse or a sufferance warehouse by the licensee of that warehouse, or
-		- **(ii)** by a body established under provincial law for the marketing of raw leaf tobacco grown in the province; or
-	- **(c)** the sale, offer for sale or purchase of raw leaf tobacco by a licensed tobacco dealer.
+		- **(i)** in a customs bonded warehouse or a sufferance warehouse by the licensee of that warehouse,
+		- **(ii)** by a body established under provincial law for the marketing of raw leaf tobacco grown in the province, or
+		- **(iii)** by a prescribed person who is transporting the tobacco under prescribed circumstances and conditions.
+	- **(c)** [Repealed, 2007, c. 18, s. 77]
+> 2002, c. 22, s. 30; 2007, c. 18, s. 77.
+
 
 
 
@@ -680,10 +736,12 @@ Version anglaise seulement***prescribed*** means
 **31** A tobacco grower does not contravene section 26 or 30 by reason only that the grower deals in or has in their possession raw leaf tobacco
 - **(a)** grown by the grower on their property for sale to a tobacco licensee or a licensed tobacco dealer or for other disposition to a tobacco licensee, if the tobacco is either on the grower’s property or is being transported by the grower
 	- **(i)** in connection with the curing of the tobacco,
-	- **(ii)** for delivery to or return from a tobacco licensee, or
+	- **(ii)** for delivery to or return from a tobacco licensee or a licensed tobacco dealer, or
 	- **(iii)** for delivery to or return from a body established under provincial law for the marketing of raw leaf tobacco grown in the province;
 - **(b)** grown by any other person, if the grower operates a tobacco drying kiln on the grower’s property and the grower’s possession is solely for the purpose of curing the tobacco and returning it to the other person immediately after completion of the curing process or exporting it in accordance with paragraph (c); or
 - **(c)** that is to be exported, if the grower has the written approval of the Minister and complies with any conditions that the Minister considers appropriate.
+> 2002, c. 22, s. 31; 2007, c. 18, s. 78.
+
 
 
 
@@ -697,41 +755,46 @@ Version anglaise seulement***prescribed*** means
 **Exceptions — possession**
 
 - **(2)** Subsection (1) does not apply to the possession of a tobacco product by
-	- **(a)** a tobacco licensee at the place of manufacture of the product or at the excise warehouse of the licensee;
+	- **(a)** a tobacco licensee at the place of manufacture of the product;
+	- **(a.1)** in the case of manufactured tobacco or cigars, a tobacco licensee who manufactured the tobacco or cigars, at their excise warehouse;
 	- **(b)** in the case of cigars or imported manufactured tobacco, an excise warehouse licensee at the excise warehouse of the licensee;
-	- **(c)** a special excise warehouse licensee at the special excise warehouse of the licensee, if the tobacco product is one that the licensee is permitted under this Act to distribute;
-	- **(d)** a prescribed person who is transporting the product under prescribed circumstances and conditions;
-	- **(e)** in the case of an imported tobacco product, a customs bonded warehouse licensee or a sufferance warehouse licensee in their warehouse;
+	- **(c)** in the case of manufactured tobacco or cigars, a special excise warehouse licensee at the special excise warehouse of the licensee, if the licensee is permitted under this Act to distribute the tobacco or cigars;
+	- **(d)** in the case of an imported tobacco product, a prescribed person who is transporting the product under prescribed circumstances and conditions;
+	- **(d.1)** in the case of manufactured tobacco or cigars manufactured in Canada, a prescribed person who is transporting the tobacco or cigars under prescribed circumstances and conditions;
+	- **(e)** in the case of an imported tobacco product, a sufferance warehouse licensee in their sufferance warehouse;
+	- **(e.1)** in the case of imported manufactured tobacco or cigars, a customs bonded warehouse licensee in their customs bonded warehouse;
 	- **(f)** in the case of cigars, a duty free shop licensee in their duty free shop;
 	- **(g)** in the case of imported manufactured tobacco, a duty free shop licensee in their duty free shop if the licensee holds a licence issued under section 22;
-	- **(h)** an accredited representative for their personal or official use;
-	- **(i)** in the case of cigars or imported manufactured tobacco, a person as ships’ stores if the acquisition and possession of the product by that person are in accordance with the *Ships’ Stores Regulations*;
+	- **(h)** in the case of manufactured tobacco or cigars, an accredited representative for their personal or official use;
+	- **(i)** in the case of cigars or imported manufactured tobacco, a person as ships’ stores if the acquisition and possession of the product by that person are in accordance with the [Ships’ Stores Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/96/40.md);
 	- **(j)** an individual who has imported the product for their personal use in quantities not in excess of prescribed limits; or
-	- **(k)** an individual who has manufactured the product in accordance with subsection 25(3).
+	- **(k)** in the case of manufactured tobacco or cigars, an individual who has manufactured the tobacco or cigars in accordance with subsection 25(3).
 
 **Exceptions — sale or offer for sale**
 
 - **(3)** Subsection (1) does not apply where
-	- **(a)** a tobacco licensee sells or offers to sell a tobacco product that is exported by the licensee in accordance with this Act;
+	- **(a)** a tobacco licensee sells or offers to sell manufactured tobacco or cigars that are exported by the licensee in accordance with this Act;
 	- **(b)** a tobacco licensee sells or offers to sell
-		- **(i)** a tobacco product to a special excise warehouse licensee, if the product is one that the special excise warehouse licensee is permitted under this Act to distribute,
-		- **(ii)** a tobacco product to an accredited representative for their personal or official use,
-		- **(iii)** cigars to an excise warehouse licensee for delivery as ships’ stores in accordance with the *Ships’ Stores Regulations*,
+		- **(i)** manufactured tobacco or cigars to a special excise warehouse licensee, if the special excise warehouse licensee is permitted under this Act to distribute the tobacco or cigars,
+		- **(ii)** manufactured tobacco or cigars to an accredited representative for their personal or official use,
+		- **(iii)** cigars to an excise warehouse licensee for delivery as ships’ stores in accordance with the [Ships’ Stores Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/96/40.md),
 		- **(iv)** cigars to a duty free shop for sale or offer for sale in accordance with the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), or
-		- **(v)** cigars as ships’ stores in accordance with the *Ships’ Stores Regulations*;
-	- **(c)** a special excise warehouse licensee sells or offers to sell a tobacco product to an accredited representative for their personal or official use, if the product is one that the licensee is permitted under this Act to distribute;
+		- **(v)** cigars as ships’ stores in accordance with the [Ships’ Stores Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/96/40.md);
+	- **(c)** a special excise warehouse licensee sells or offers to sell manufactured tobacco or cigars to an accredited representative for their personal or official use, if the licensee is permitted under this Act to distribute the tobacco or cigars;
 	- **(d)** an excise warehouse licensee sells or offers to sell
-		- **(i)** an imported tobacco product that is exported by the licensee in accordance with this Act,
-		- **(ii)** an imported tobacco product to an accredited representative for their personal or official use or to a duty free shop, or
-		- **(iii)** cigars or imported manufactured tobacco as ships’ stores in accordance with the *Ships’ Stores Regulations*;
+		- **(i)** imported manufactured tobacco or cigars that are exported by the licensee in accordance with this Act,
+		- **(ii)** imported manufactured tobacco or cigars to an accredited representative for their personal or official use or to a duty free shop, or
+		- **(iii)** cigars or imported manufactured tobacco as ships’ stores in accordance with the [Ships’ Stores Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/96/40.md);
 	- **(e)** a duty free shop licensee sells or offers to sell cigars in accordance with the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md);
 	- **(f)** a duty free shop licensee who holds a licence issued under section 22 sells or offers to sell imported manufactured tobacco in accordance with the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md);
-	- **(g)** a customs bonded warehouse licensee sells or offers to sell an imported tobacco product that is exported by the licensee in accordance with this Act;
-	- **(h)** a customs bonded warehouse licensee sells or offers to sell an imported tobacco product
+	- **(g)** a customs bonded warehouse licensee sells or offers to sell imported manufactured tobacco or cigars that are exported by the licensee in accordance with this Act;
+	- **(h)** a customs bonded warehouse licensee sells or offers to sell imported manufactured tobacco or cigars
 		- **(i)** to an accredited representative for their personal or official use,
 		- **(ii)** to a duty free shop for sale or offer for sale in accordance with the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), or
-		- **(iii)** as ships’ stores in accordance with the *Ships’ Stores Regulations*; and
-	- **(i)** a person sells or offers for sale cigars or imported manufactured tobacco as ships’ stores in accordance with the *Ships’ Stores Regulations*.
+		- **(iii)** as ships’ stores in accordance with the [Ships’ Stores Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/96/40.md); and
+	- **(i)** a person sells or offers for sale cigars or imported manufactured tobacco as ships’ stores in accordance with the [Ships’ Stores Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/96/40.md).
+> 2002, c. 22, s. 32; 2007, c. 18, s. 79.
+
 
 
 
@@ -768,9 +831,11 @@ Version anglaise seulement***prescribed*** means
 
 - **(2)** Subsection (1) does not apply to
 	- **(a)** partially manufactured tobacco that is imported by a tobacco licensee for further manufacturing by the licensee;
-	- **(b)** a tobacco product that a tobacco licensee is authorized to import under subsection 41(2);
+	- **(b)** manufactured tobacco or cigars that a tobacco licensee is authorized to import under subsection 41(2);
 	- **(c)** a tobacco product that is imported by an individual for their personal use in quantities not in excess of prescribed limits; or
-	- **(d)** raw leaf tobacco that is imported by a tobacco licensee.
+	- **(d)** raw leaf tobacco that is imported by a tobacco licensee or a licensed tobacco dealer.
+> 2002, c. 22, s. 35; 2007, c. 18, s. 80.
+
 
 
 
@@ -784,7 +849,9 @@ Version anglaise seulement***prescribed*** means
 
 **Unstamped products to be warehoused**
 
-**37** If a tobacco product manufactured in Canada is not stamped by a tobacco licensee, the tobacco licensee shall immediately enter the product into the licensee’s excise warehouse.
+**37** If manufactured tobacco or cigars manufactured in Canada are not stamped by a tobacco licensee, the tobacco licensee shall immediately enter the tobacco or cigars into the licensee’s excise warehouse.
+> 2002, c. 22, s. 37; 2007, c. 18, s. 81.
+
 
 
 
@@ -793,28 +860,30 @@ Version anglaise seulement***prescribed*** means
 
 **38** 
 
-- **(1)** No person shall enter into an excise warehouse a container of tobacco products unless the container has printed on it or affixed to it tobacco markings and other prescribed information.
+- **(1)** Subject to subsections (3) and (4), no person shall enter into an excise warehouse a container of manufactured tobacco or cigars unless the container has printed on it or affixed to it tobacco markings and other prescribed information.
 
 **No delivery of imported tobacco without markings**
 
-- **(2)** No person shall deliver a container of imported tobacco products that does not have printed on it or affixed to it tobacco markings and other prescribed information to
+- **(2)** Subject to subsection (3), no person shall deliver a container of imported manufactured tobacco or cigars that does not have printed on it or affixed to it tobacco markings and other prescribed information to
 	- **(a)** a duty free shop for sale or offer for sale in accordance with the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md);
 	- **(b)** an accredited representative; or
 	- **(c)** a customs bonded warehouse.
 
-**Exception for prescribed tobacco product**
+**Exception for prescribed manufactured tobacco**
 
-- **(3)** Subsections (1) and (2) do not apply to a tobacco product of a brand if the brand is not commonly sold in Canada and is prescribed.
+- **(3)** A container of manufactured tobacco does not require tobacco markings to be printed on or affixed to it if the brand of the tobacco is not commonly sold in Canada and is prescribed.
 
 **Exception for prescribed cigarettes**
 
-- **(4)** Subsection (1) does not apply to cigarettes of a particular type or formulation, manufactured in Canada and exported under a brand that is also applied to cigarettes of a different type or formulation that are manufactured and sold in Canada, if
+- **(4)** A container of cigarettes does not require tobacco markings to be printed on or affixed to it if the cigarettes are of a particular type or formulation manufactured in Canada and exported under a brand that is also applied to cigarettes of a different type or formulation that are manufactured and sold in Canada and
 	- **(a)** cigarettes of the particular type or formulation exported under that brand are prescribed cigarettes; and
 	- **(b)** cigarettes of the particular type or formulation have never been sold in Canada under that brand or any other brand.
 
 **Distinguishing different cigarettes**
 
 - **(5)** For the purpose of subsection (4), a cigarette of a particular type or formulation sold under a brand may be considered to be different from another cigarette sold under that brand if it is reasonable to consider them to be different having regard to their physical characteristics before and during consumption.
+> 2002, c. 22, s. 38; 2007, c. 18, s. 82.
+
 
 
 
@@ -847,7 +916,9 @@ Version anglaise seulement***prescribed*** means
 
 **Importation for re-working or destruction**
 
-- **(2)** The Minister may authorize a tobacco licensee to import any tobacco product manufactured in Canada by the licensee for re-working or destruction by the licensee in accordance with subsection (1).
+- **(2)** The Minister may authorize a tobacco licensee to import any manufactured tobacco or cigars manufactured in Canada by the licensee for re-working or destruction by the licensee in accordance with subsection (1).
+> 2002, c. 22, s. 41; 2007, c. 18, s. 83.
+
 
 
 
@@ -904,7 +975,9 @@ Version anglaise seulement***prescribed*** means
 
 **Duty relieved — raw leaf tobacco**
 
-**46** The duty imposed under section 42 is relieved on raw leaf tobacco that is imported by a tobacco licensee for manufacture by the licensee.
+**46** The duty imposed under section 42 is relieved on raw leaf tobacco that is imported by a tobacco licensee or a licensed tobacco dealer.
+> 2002, c. 22, s. 46; 2007, c. 18, s. 84.
+
 
 
 
@@ -942,9 +1015,9 @@ Version anglaise seulement***prescribed*** means
 
 - **(1)** The definitions in this subsection apply in this section.
 
-***Canadian manufactured tobacco*** means manufactured tobacco that is manufactured in Canada but does not include partially manufactured tobacco or foreign brand tobacco.
+***Canadian manufactured tobacco*** means manufactured tobacco that is manufactured in Canada but does not include partially manufactured tobacco or foreign brand tobacco. (*tabac fabriqué canadien*)
 
-***foreign brand tobacco*** means manufactured tobacco in respect of which the special duty imposed under section 56 is relieved because of section 58.
+***foreign brand tobacco*** means manufactured tobacco in respect of which the special duty imposed under section 56 is relieved because of section 58. (*tabac de marque étrangère*)
 
 **Categories of Canadian manufactured tobacco**
 
@@ -955,7 +1028,7 @@ Version anglaise seulement***prescribed*** means
 
 **Prohibition on removal**
 
-- **(3)** No person shall remove from an excise warehouse or a special excise warehouse a tobacco product manufactured in Canada.
+- **(3)** No person shall remove from an excise warehouse or a special excise warehouse manufactured tobacco or cigars manufactured in Canada.
 
 **Exception for Canadian manufactured tobacco**
 
@@ -990,38 +1063,44 @@ Version anglaise seulement***prescribed*** means
 
 - **(9)** Subject to the regulations, cigars manufactured in Canada may be removed from an excise warehouse referred to in paragraph (7)(e) for delivery as ships’ stores in accordance with the [Ships’ Stores Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/96/40.md).
 
-**Removal from warehouse for reworking or destruction**
+**Removal from warehouse for re-working or destruction**
 
-- **(10)** Subject to the regulations, tobacco products manufactured in Canada may be removed from the excise warehouse of the tobacco licensee who manufactured them if they are removed for reworking or destruction by the licensee in accordance with section 41.
+- **(10)** Subject to the regulations, manufactured tobacco or cigars manufactured in Canada may be removed from the excise warehouse of the tobacco licensee who manufactured them if they are removed for re-working or destruction by the licensee in accordance with section 41.
 
 **Removal from special excise warehouse — accredited representatives**
 
 - **(11)** Subject to the regulations, Canadian manufactured tobacco and cigars may be removed from a special excise warehouse for delivery to an accredited representative for their personal or official use if the special excise warehouse licensee is permitted under this Act to distribute the tobacco or cigars.
+> 2002, c. 22, s. 50; 2007, c. 18, s. 85.
 
 
 
 
-**Removal of imported tobacco product**
+
+**Removal of imported tobacco**
 
 **51** 
 
-- **(1)** No person shall remove an imported tobacco product from an excise warehouse.
+- **(1)** No person shall remove imported manufactured tobacco or cigars from an excise warehouse.
 
 **Exception**
 
-- **(2)** Subject to the regulations, an imported tobacco product may be removed from an excise warehouse
+- **(2)** Subject to the regulations, imported manufactured tobacco or cigars may be removed from an excise warehouse
 	- **(a)** for delivery to another excise warehouse;
 	- **(b)** for delivery to an accredited representative for their personal or official use;
-	- **(c)** for delivery as ships’ stores, in accordance with the *Ships’ Stores Regulations*;
+	- **(c)** for delivery as ships’ stores, in accordance with the [Ships’ Stores Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/96/40.md);
 	- **(d)** for delivery to a duty free shop for sale or offer for sale in accordance with the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md); or
 	- **(e)** for export in accordance with this Act by the excise warehouse licensee.
+> 2002, c. 22, s. 51; 2007, c. 18, s. 86.
+
 
 
 
 
 **Restriction — special excise warehouse**
 
-**52** No special excise warehouse licensee shall store a tobacco product that is manufactured in Canada in their special excise warehouse for any purpose other than its sale and distribution to an accredited representative for the personal or official use of the representative.
+**52** No special excise warehouse licensee shall store manufactured tobacco or cigars that are manufactured in Canada in their special excise warehouse for any purpose other than the sale and distribution of the tobacco or cigars to an accredited representative for the personal or official use of the representative.
+> 2002, c. 22, s. 52; 2007, c. 18, s. 87.
+
 
 
 
@@ -1232,6 +1311,15 @@ Version anglaise seulement***prescribed*** means
 
 
 
+**Importations involving a provincial authority**
+
+**59.1** If alcohol is imported under circumstances in which subsection 3(1) of the [Importation of Intoxicating Liquors Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-3.md) applies, the alcohol is deemed, for the purposes of this Act and subsection 21.2(3) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md), to have been imported by the person who would have been the importer in the absence of that subsection 3(1) and not by Her Majesty in right of a province or a liquor authority.
+> 2007, c. 18, s. 88.
+
+
+
+
+
 **Prohibition — production and packaging of spirits**
 
 **60** 
@@ -1240,7 +1328,11 @@ Version anglaise seulement***prescribed*** means
 
 **Exception**
 
-- **(2)** Subsection (1) does not apply to the packaging of spirits from a marked special container by a purchaser at a bottle-your-own premises.
+- **(2)** Subsection (1) does not apply to
+	- **(a)** the packaging of spirits from a marked special container by a purchaser at a bottle-your-own premises; or
+	- **(b)** the production of spirits for the purpose or as a consequence of the analysis of the composition of a substance containing absolute ethyl alcohol.
+> 2002, c. 22, s. 60; 2007, c. 18, s. 89.
+
 
 
 
@@ -1248,8 +1340,11 @@ Version anglaise seulement***prescribed*** means
 **Prohibition — possession of still**
 
 **61** No person shall possess a still or other equipment suitable for the production of spirits with the intent of producing spirits unless the person
-- **(a)** is a spirits licensee; or
-- **(b)** has a pending application for a spirits licence.
+- **(a)** is a spirits licensee;
+- **(b)** has a pending application for a spirits licence; or
+- **(c)** possesses the still or equipment solely for the purpose of producing spirits for the purpose or as a consequence of the analysis of the composition of a substance containing absolute ethyl alcohol.
+> 2002, c. 22, s. 61; 2007, c. 18, s. 90.
+
 
 
 
@@ -1266,6 +1361,15 @@ Version anglaise seulement***prescribed*** means
 	- **(a)** the production of wine by an individual for their personal use;
 	- **(b)** the packaging of wine referred to in paragraph (a) by an individual for their personal use; or
 	- **(c)** the packaging of wine from a marked special container by a purchaser at a bottle-your-own premises.
+
+
+
+
+**Prohibition — fortification of wine**
+
+**62.1** Except as permitted under section 130, no person shall use bulk spirits to fortify bulk wine.
+> 2007, c. 18, s. 91.
+
 
 
 
@@ -1293,12 +1397,14 @@ Version anglaise seulement***prescribed*** means
 
 **Application — in-transit and transhipped alcohol**
 
-**66** Sections 67 to 72, 74, 76, 80, 85, 88, 97 to 100 and 102 do not apply to imported alcohol or specially denatured alcohol that is, in accordance with the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) and the regulations made under those Acts,
+**66** Sections 67 to 72, 75, 76, 80, 85, 88, 97 to 100 and 102 do not apply to imported alcohol or specially denatured alcohol that is, in accordance with the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) and the regulations made under those Acts,
 - **(a)** transported by a customs bonded carrier from a place outside Canada to another place outside Canada;
 - **(b)** stored in a customs bonded warehouse or sufferance warehouse for subsequent delivery to a place outside Canada; or
 - **(c)** transported by a customs bonded carrier
 	- **(i)** from a place outside Canada to a customs bonded warehouse or a sufferance warehouse for subsequent delivery to a place outside Canada, or
 	- **(ii)** from a customs bonded warehouse or a sufferance warehouse to a place outside Canada.
+> 2002, c. 22, s. 66; 2007, c. 18, s. 92.
+
 
 
 
@@ -1362,10 +1468,13 @@ Version anglaise seulement***prescribed*** means
 	- **(a)** to a spirits licensee or a licensed user who possesses bulk spirits that were produced or imported by a spirits licensee;
 	- **(b)** to a wine licensee or a licensed user who possesses bulk wine that was produced or imported by a wine licensee;
 	- **(c)** to a licensed user who possesses bulk alcohol that was imported by the licensed user;
+	- **(c.1)** in the case of bulk spirits produced for the purpose or as a consequence of the analysis of the composition of a substance containing absolute ethyl alcohol, to a person who, having produced those spirits, possesses them during the period of analysis;
 	- **(d)** to an alcohol registrant who possesses, for the purposes of storage or transportation, bulk alcohol that was produced by an alcohol licensee or imported by an alcohol licensee or licensed user;
 	- **(e)** to a sufferance warehouse licensee who possesses in their sufferance warehouse bulk alcohol that was imported by a person permitted to do so under this Act;
 	- **(f)** to a ferment-on-premises registrant who possesses bulk wine that was produced at the registrant’s ferment-on-premises facility by an individual for the individual’s personal use; or
 	- **(g)** to an individual who possesses less than 500 L of bulk wine that was lawfully produced at a residence or a ferment-on-premises facility for an individual’s personal use.
+> 2002, c. 22, s. 70; 2007, c. 18, s. 93.
+
 
 
 
@@ -1396,33 +1505,39 @@ Version anglaise seulement***prescribed*** means
 - **(a)** use it in an approved formulation;
 - **(b)** use it in a process in which the absolute ethyl alcohol is destroyed to the extent approved by the Minister;
 - **(c)** use it to produce vinegar;
-- **(d)** use it in accordance with section 130 or 131;
+- **(d)** use it in accordance with section 130, 131 or 131.1;
 - **(e)** return it to
 	- **(i)** in the case of alcohol returned in circumstances to which paragraph 105(1)(a) or 114(1)(a) applies, a licensee referred to in that paragraph, or
 	- **(ii)** in any other case, the alcohol licensee who supplied it;
 - **(f)** subject to section 76, export it;
 - **(g)** use it for analysis in a manner approved by the Minister; or
 - **(h)** destroy it in a manner approved by the Minister.
+> 2002, c. 22, s. 73; 2007, c. 18, s. 94.
+
+
+
+
+
+**Disposal of bulk spirits**
+
+**74** A person who possesses bulk spirits produced for the purpose or as a consequence of the analysis of the composition of a substance containing absolute ethyl alcohol shall, immediately after the analysis is complete, destroy or dispose of the spirits in a manner approved by the Minister.
+> 2002, c. 22, s. 74; 2007, c. 18, s. 95.
+
 
 
 
 
 **Importation — bulk spirits**
 
-**74** 
+**75** 
 
 - **(1)** No person shall import bulk spirits other than a spirits licensee, a licensed user or, if the spirits are in a special container, an excise warehouse licensee in accordance with section 80.
 
 **Importation — bulk wine**
 
 - **(2)** No person shall import bulk wine other than a wine licensee, a licensed user or, if the wine is in a special container, an excise warehouse licensee in accordance with section 85.
+> 2002, c. 22, s. 75; 2007, c. 18, s. 95.
 
-
-
-
-**Importations involving a provincial authority**
-
-**75** If bulk alcohol is imported under circumstances in which subsection 3(1) of the Importation of Intoxicating Liquors Act applies, the alcohol is deemed, for the purposes of this Act, to have been imported by the person who would have been the importer in the absence of that subsection and not by Her Majesty in right of a province or a liquor authority.
 
 
 
@@ -1566,7 +1681,7 @@ Version anglaise seulement***prescribed*** means
 		- **(iv)** a prescribed person who is transporting the alcohol under prescribed circumstances and conditions,
 		- **(v)** a duty free shop licensee, in their duty free shop,
 		- **(vi)** an accredited representative, for their personal or official use, or
-		- **(vii)** a person as ships’ stores, if the acquisition and possession of the alcohol by that person are in accordance with the *Ships’ Stores Regulations*;
+		- **(vii)** a person as ships’ stores, if the acquisition and possession of the alcohol by that person are in accordance with the [Ships’ Stores Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/96/40.md);
 	- **(b)** that is imported may be possessed by a sufferance warehouse licensee, in their sufferance warehouse;
 	- **(c)** that is imported by a licensed user may be possessed by
 		- **(i)** the licensed user in their specified premises, or
@@ -1579,10 +1694,12 @@ Version anglaise seulement***prescribed*** means
 		- **(ii)** a duty free shop licensee, in their duty free shop,
 		- **(iii)** an accredited representative, for their personal or official use,
 		- **(iv)** a customs bonded carrier in accordance with the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), or
-		- **(v)** a person as ships’ stores, if the acquisition and possession of the alcohol by that person are in accordance with the *Ships’ Stores Regulations*;
+		- **(v)** a person as ships’ stores, if the acquisition and possession of the alcohol by that person are in accordance with the [Ships’ Stores Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/96/40.md);
 	- **(f)** that is imported for supply to an air carrier that is licensed under section 69 or 73 of the [Canada Transportation Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2010.md) to operate an international air service may be possessed by a customs bonded warehouse licensee, in their customs bonded warehouse;
-	- **(g)** that is imported by an individual in accordance with the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md) and the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) for their personal use may be possessed by an individual; and
-	- **(h)** that is wine that is produced and packaged by an individual for their personal use may be possessed by an individual.
+	- **(g)** that is imported by an individual in accordance with the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md) and the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) for their personal use may be possessed by an individual;
+	- **(h)** that is wine that is produced and packaged by an individual for their personal use may be possessed by an individual;
+	- **(i)** that is wine referred to in paragraph 135(2)(a) or (b) may be possessed by any person; and
+	- **(j)** that is wine produced or packaged by a wine licensee and removed from the excise warehouse of the licensee and that is to be provided free of charge to individuals as a sample consumed at the premises where the licensee produces or packages wine may be possessed by the licensee or those individuals at those premises.
 
 **Exception — special containers**
 
@@ -1591,6 +1708,8 @@ Version anglaise seulement***prescribed*** means
 	- **(b)** a prescribed person who is transporting the alcohol under prescribed circumstances and conditions;
 	- **(c)** in the case of an imported special container of alcohol, a sufferance warehouse licensee in their sufferance warehouse; or
 	- **(d)** in the case of a special container of spirits that is marked for delivery to and use by a registered user, a registered user for use in accordance with their registration.
+> 2002, c. 22, s. 88; 2007, c. 18, ss. 96, 157.
+
 
 
 
@@ -1651,6 +1770,28 @@ Version anglaise seulement***prescribed*** means
 **Removal of wine from returned container**
 
 - **(2)** If the operator of a bottle-your-own premises returns a marked special container of wine to the excise warehouse licensee who supplied the container to the operator, the licensee may remove the wine from the container for the purpose of destroying the wine in a manner approved by the Minister.
+
+
+
+
+### Restricted Formulations
+
+
+
+**Restriction — licensed user**
+
+**93.1** A licensed user shall not use or dispose of a restricted formulation other than in accordance with the conditions or restrictions imposed by the Minister under section 143.
+> 2007, c. 18, s. 97.
+
+
+
+
+
+**Prohibition — possession of restricted formulation**
+
+**93.2** No person other than a licensed user or an alcohol registrant shall possess a restricted formulation.
+> 2007, c. 18, s. 97.
+
 
 
 
@@ -1932,6 +2073,15 @@ Version anglaise seulement***prescribed*** means
 
 
 
+**Responsibility for wine ceases**
+
+**117.1** If bulk spirits are produced from bulk wine, the wine licensee or licensed user who was responsible for the wine before it was used to produce the spirits ceases to be responsible for the wine at the time the spirits are produced.
+> 2007, c. 18, s. 98.
+
+
+
+
+
 **Person not responsible**
 
 **118** A person who is responsible for bulk wine ceases to be responsible for it if it is
@@ -2079,13 +2229,37 @@ Version anglaise seulement***prescribed*** means
 
 **Blending wine with spirits**
 
-**131** 
+**131** A licensed user who is also a spirits licensee may blend bulk wine with spirits if the resulting product is spirits.
+> 2002, c. 22, s. 131; 2007, c. 18, s. 99.
 
-- **(1)** A licensed user who is also a spirits licensee may blend bulk wine with spirits if the resulting product is spirits.
 
-**Blending deemed to be production of spirits**
 
-- **(2)** The resulting spirits are deemed to be produced at the time of the blending and the duty imposed under section 122 or levied under section 21.1 of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) on the spirits that were blended with the wine is relieved.
+
+
+**Producing spirits from wine**
+
+**131.1** A licensed user who is also a spirits licensee may use bulk wine to produce spirits.
+> 2007, c. 18, s. 99.
+
+
+
+
+
+**Deemed production of spirits — blending wine**
+
+**131.2** 
+
+- **(1)** If wine is blended with bulk spirits and the resulting product is spirits,
+	- **(a)** the duty imposed under section 122 or levied under section 21.1 of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) on the spirits that were blended with the wine is relieved; and
+	- **(b)** the resulting spirits are deemed to be produced at the time of the blending.
+
+**Deemed production of spirits — other blending**
+
+- **(2)** If a material or substance, other than spirits or wine, containing absolute ethyl alcohol is blended with bulk spirits or wine and the resulting product is spirits,
+	- **(a)** the duty imposed under section 122 or levied under section 21.1 of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) on the spirits that were blended with the material or substance is relieved; and
+	- **(b)** the resulting spirits are deemed to be produced at the time of the blending.
+> 2007, c. 18, s. 99.
+
 
 
 
@@ -2155,7 +2329,9 @@ Version anglaise seulement***prescribed*** means
 - **(2)** Subsection (1) does not apply to wine that is
 	- **(a)** produced in Canada and composed wholly of agricultural or plant product grown in Canada;
 	- **(a.1)** produced and packaged by an individual for their personal use; or
-	- **(b)** produced by a wine licensee and packaged by the licensee during a fiscal month of the licensee if the sales by the licensee of products subject to duty under subsection (1), or that would have been so subject to duty in the absence of this subsection, in the 12 fiscal months preceding that fiscal month did not exceed $50,000.
+	- **(b)** produced by a wine licensee and packaged by or on behalf of the licensee during a fiscal month in a particular fiscal year of the licensee if
+		- **(i)** the total sales by the licensee of products that are subject to duty under subsection (1), or that would have been so subject to duty in the absence of this subsection, in the fiscal year ending immediately before the particular fiscal year did not exceed $50,000, and
+		- **(ii)** the total sales by the licensee of those products during the particular fiscal year before the fiscal month did not exceed $50,000.
 
 **Time of imposition**
 
@@ -2168,7 +2344,7 @@ Version anglaise seulement***prescribed*** means
 **Wine licensee ceases to be liable for duty**
 
 - **(5)** If an excise warehouse licensee becomes liable under section 140 for duty on the wine, the person required under subsection (4) to pay the duty ceases to be liable to pay it.
-> 2002, c. 22, s. 135; 2007, c. 2, s. 57.
+> 2002, c. 22, s. 135; 2007, c. 2, s. 57, c. 18, s. 100.
 
 
 
@@ -2176,7 +2352,19 @@ Version anglaise seulement***prescribed*** means
 
 **Duty payable on removal from warehouse**
 
-**136** If packaged wine is removed from an excise warehouse for entry into the duty-paid market, duty is payable on the wine at the time of its removal and is payable by the excise warehouse licensee.
+**136** 
+
+- **(1)** Subject to subsection (2), if packaged wine is removed from an excise warehouse for entry into the duty-paid market, duty is payable on the wine at the time of its removal and is payable by the excise warehouse licensee.
+
+**Removals for consignment sales**
+
+- **(2)** If a small wine licensee removes packaged wine that the licensee produced or packaged from the excise warehouse of the licensee for delivery and sale on a consignment basis at a retail store operated on behalf of two or more small wine licensees and that is not located on the premises of a wine licensee, the wine is deemed to be removed from the warehouse for entry into the duty-paid market at the time the wine is sold.
+
+**Meaning of small wine licensee**
+
+- **(3)** In this section, a wine licensee is a small wine licensee during a fiscal year of the licensee if, in the previous fiscal year, the total amount of wine sold by the licensee did not exceed 60,000 litres.
+> 2002, c. 22, s. 136; 2007, c. 18, s. 101.
+
 
 
 
@@ -2194,12 +2382,15 @@ Version anglaise seulement***prescribed*** means
 
 - **(1)** Duty is payable on non-duty-paid packaged wine that has been received by an excise warehouse licensee or a licensed user but that cannot be accounted for by the licensee or user
 	- **(a)** as being in the excise warehouse of the licensee or the specified premises of the user;
+	- **(a.1)** in the case of packaged wine described by subsection 136(2), as being in a store described by that subsection;
 	- **(b)** as having been removed, used or destroyed in accordance with this Act; or
 	- **(c)** as having been lost in prescribed circumstances, if the licensee or user fulfills any prescribed conditions.
 
 **When duty payable**
 
 - **(2)** Duty is payable by the licensee or user at the time the wine cannot be accounted for.
+> 2002, c. 22, s. 138; 2007, c. 18, s. 102.
+
 
 
 
@@ -2289,12 +2480,15 @@ Version anglaise seulement***prescribed*** means
 
 - **(2)** Duty is not payable on non-duty-paid packaged alcohol
 	- **(a)** taken for analysis by an excise warehouse licensee or a licensed user in a manner approved by the Minister;
-	- **(b)** destroyed by an excise warehouse licensee or a licensed user in a manner approved by the Minister; or
-	- **(c)** used by a licensed user in a process in which the absolute ethyl alcohol is destroyed to the extent approved by the Minister.
+	- **(b)** destroyed by an excise warehouse licensee or a licensed user in a manner approved by the Minister;
+	- **(c)** used by a licensed user in a process in which the absolute ethyl alcohol is destroyed to the extent approved by the Minister; or
+	- **(d)** in the case of wine, taken for use by an excise warehouse licensee if that licensee is also the wine licensee who produced or packaged the wine and the wine is provided free of charge to individuals for consumption as a sample at the premises where the licensee produces or packages wine.
 
 **No duty payable — alcohol taken for analysis or destroyed**
 
 - **(3)** Duty is not payable on bulk alcohol or non-duty-paid packaged alcohol that is taken for analysis or destroyed by the Minister.
+> 2002, c. 22, s. 145; 2007, c. 18, s. 103.
+
 
 
 
@@ -2327,7 +2521,7 @@ where
 		- **(i)** to an accredited representative for their personal or official use,
 		- **(ii)** to a duty free shop for sale in accordance with the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md),
 		- **(iii)** to a registered user for use in accordance with their registration, or
-		- **(iv)** as ships’ stores in accordance with the *Ships’ Stores Regulations*; or
+		- **(iv)** as ships’ stores in accordance with the [Ships’ Stores Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/96/40.md); or
 	- **(b)** for export by the excise warehouse licensee in accordance with this Act.
 
 **Duty not payable — special container of spirits**
@@ -2339,6 +2533,12 @@ where
 **Duty not payable — special container of wine**
 
 - **(3)** Duty is not payable on wine imported in a marked special container that is removed from an excise warehouse for export by the excise warehouse licensee in accordance with this Act.
+
+**Duty not payable — wine samples**
+
+- **(4)** Duty is not payable on non-duty-paid packaged wine, other than wine contained in a marked special container, that is removed from the excise warehouse of the wine licensee who produced or packaged the wine if the wine is to be provided free of charge to individuals as a sample consumed at the premises where the licensee produces or packages wine.
+> 2002, c. 22, s. 147; 2007, c. 18, s. 104.
+
 
 
 
@@ -2409,11 +2609,13 @@ where
 		- **(i)** entry into the duty-paid market,
 		- **(ii)** delivery to another excise warehouse,
 		- **(iii)** delivery to an accredited representative for their personal or official use,
-		- **(iv)** delivery as ships’ stores, in accordance with the *Ships’ Stores Regulations*,
+		- **(iv)** delivery as ships’ stores, in accordance with the [Ships’ Stores Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/96/40.md),
 		- **(v)** delivery to a duty free shop for sale in accordance with the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md) to persons who are about to leave Canada,
 		- **(vi)** delivery to a licensed user,
-		- **(vii)** delivery to a registered user for use in accordance with their registration, or
-		- **(viii)** export;
+		- **(vii)** delivery to a registered user for use in accordance with their registration,
+		- **(viii)** in the case of packaged wine described in subsection 136(2), delivery to a store described in that subsection, or
+		- **(ix)** export;
+	- **(a.1)** non-duty-paid packaged wine, other than wine in a marked special container, if the warehouse is the excise warehouse of the wine licensee who produced or packaged the wine and the wine is to be provided free of charge to individuals as a sample consumed at the premises where the licensee produces or packages wine;
 	- **(b)** a non-duty-paid marked special container of wine for
 		- **(i)** delivery to another excise warehouse, or
 		- **(ii)** entry into the duty-paid market for delivery to a bottle-your-own premises;
@@ -2422,6 +2624,8 @@ where
 		- **(ii)** if the container is marked for delivery to and use by a registered user, delivery to a registered user for use in accordance with their registration, or
 		- **(iii)** if the container is marked for delivery to and use at a bottle-your-own premises, entry into the duty-paid market for delivery to a bottle-your-own premises; or
 	- **(d)** an imported non-duty-paid marked special container of alcohol, for export.
+> 2002, c. 22, s. 151; 2007, c. 18, s. 105.
+
 
 
 
@@ -2436,6 +2640,15 @@ where
 **Return of non-duty-paid alcohol**
 
 **153** If non-duty-paid packaged alcohol that has been removed from an excise warehouse in accordance with section 147 is returned to an excise warehouse under prescribed conditions, the alcohol may be entered into the warehouse as non-duty-paid packaged alcohol.
+
+
+
+
+**Return of non-duty-paid wine**
+
+**153.1** If non-duty-paid packaged wine that has been removed from an excise warehouse under subparagraph 151(2)(a)(viii) is returned to that warehouse under prescribed conditions, the wine may, if it had not been entered into the duty-paid market, be entered into the warehouse as non-duty-paid packaged wine.
+> 2007, c. 18, s. 106.
+
 
 
 
@@ -2528,16 +2741,12 @@ where
 
 **Filing by licensee**
 
-**160** 
+**160** Every person who is licensed under this Act shall, not later than the last day of the first month after each fiscal month of the person,
+- **(a)** file a return with the Minister, in the prescribed form and manner, for that fiscal month;
+- **(b)** calculate, in the return, the total amount of the duty payable, if any, by the person for that fiscal month; and
+- **(c)** pay that amount to the Receiver General.
+> 2002, c. 22, s. 160; 2007, c. 18, s. 107.
 
-- **(1)** Every person who is licensed under this Act shall, not later than the last day of the first month after each fiscal month of the person,
-	- **(a)** file a return with the Minister, in the prescribed form and manner, for that fiscal month;
-	- **(b)** calculate, in the return, the total amount of the duty payable, if any, by the person for that fiscal month; and
-	- **(c)** pay that amount to the Receiver General.
-
-**Exception — licensed tobacco dealers**
-
-- **(2)** Subsection (1) does not apply to licensed tobacco dealers.
 
 
 
@@ -2710,8 +2919,8 @@ where
 
 **Waiving or reducing interest**
 
-**173** The Minister may, on or before the day that is ten calendar years after the day an amount was required to be paid by a person under this Act, waive or reduce any interest on the amount payable by the person under section 170.
-> 2002, c. 22, s. 173; 2006, c. 4, s. 116.
+**173** The Minister may, on or before the particular day that is 10 calendar years after the day an amount was required to be paid by a person under this Act, or on application by the person on or before the particular day, waive or reduce any interest on the amount payable by the person under section 170.
+> 2002, c. 22, s. 173; 2006, c. 4, s. 116; 2007, c. 18, s. 108.
 
 
 
@@ -2763,8 +2972,10 @@ where
 **Restriction on refunds, etc.**
 
 **177** A refund or a payment of an amount under this Act shall not be paid to a person to the extent that it can reasonably be regarded that
-- **(a)** the amount has previously been refunded, remitted, applied or paid to that person under this or any other Act of Parliament; or
+- **(a)** the amount has previously been refunded, remitted or paid to that person, or applied against an amount owed by the person to Her Majesty, under this or any other Act of Parliament; or
 - **(b)** the person has applied for a refund, payment or remission of the amount under any other Act of Parliament.
+> 2002, c. 22, s. 177; 2007, c. 18, s. 109.
+
 
 
 
@@ -2799,6 +3010,15 @@ where
 **Re-worked or destroyed tobacco products**
 
 **181** The Minister may refund to a tobacco licensee the duty paid on a tobacco product that is re-worked or destroyed by the tobacco licensee in accordance with section 41 if the licensee applies for the refund within two years after the tobacco product is re-worked or destroyed.
+
+
+
+
+**Destroyed imported manufactured tobacco**
+
+**181.1** The Minister may refund to a duty free shop licensee the special duty under section 53 that was paid on imported manufactured tobacco that is destroyed by the licensee in accordance with the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md) if the licensee applies for the refund within two years after the tobacco is destroyed.
+> 2007, c. 18, s. 110.
+
 
 
 
@@ -2964,7 +3184,9 @@ and ending on the day on which the refund is paid to the person.
 
 **Limitation on refunding overpayments**
 
-- **(6)** An overpayment of duty payable for a fiscal month of a person and interest on the overpayment shall not be applied under paragraph (4)(b) or refunded under paragraph (4)(c) unless the person has, before the day on which notice of the assessment is sent to the person, filed all returns and other records of which the Minister has knowledge and that the person was required to file with the Minister under this Act, the [Air Travellers Security Charge Act](/en/Acts/Statutes%20of%20Canada/2002/c.%209,%20s.%205.md), the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) and the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
+- **(6)** An overpayment of duty payable for a fiscal month of a person and interest on the overpayment shall not be applied under paragraph (4)(b) or refunded under paragraph (4)(c) unless the person has, before the day on which notice of the assessment is sent to the person, filed all returns and other records of which the Minister has knowledge and that the person was required to file with
+	- **(a)** the Minister under this Act, the [Air Travellers Security Charge Act](/en/Acts/Statutes%20of%20Canada/2002/c.%209,%20s.%205.md), the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) and the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md); or
+	- **(b)** the Minister of Public Safety and Emergency Preparedness under the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md).
 
 **Limitation**
 
@@ -2972,7 +3194,9 @@ and ending on the day on which the refund is paid to the person.
 	- **(a)** shall not be applied under paragraph (5)(b) against an amount (in this paragraph referred to as the “outstanding amount”) that is payable by a person unless the refund would have been payable to the person as a refund if the person had claimed it in an application under this Act filed on the day on which the person defaulted in paying the outstanding amount and, in the case of a payment under section 176, if that section allowed the person to claim the payment within four years after the person paid the amount in respect of which the payment would be so payable; and
 	- **(b)** shall not be refunded under paragraph (5)(c) unless
 		- **(i)** the refund would have been payable to the person as a refund if the person had claimed it in an application under this Act filed on the day on which notice of the assessment is sent to the person, and
-		- **(ii)** the person has filed all returns and other records of which the Minister has knowledge and that the person was required to file with the Minister under this Act, the [Air Travellers Security Charge Act](/en/Acts/Statutes%20of%20Canada/2002/c.%209,%20s.%205.md), the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) and the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) before the day on which notice of the assessment is sent to the person.
+		- **(ii)** the person has, before the day on which notice of the assessment is sent to the person, filed all returns and other records of which the Minister has knowledge and that the person was required to file with
+			- **(A)** the Minister under this Act, the [Air Travellers Security Charge Act](/en/Acts/Statutes%20of%20Canada/2002/c.%209,%20s.%205.md), the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) and the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), or
+			- **(B)** the Minister of Public Safety and Emergency Preparedness under the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md).
 
 **Deemed claim or application**
 
@@ -2998,7 +3222,7 @@ and ending on the day on which the refund is paid to the person.
 - **(10)** In this section, “overpayment of duty payable” of a person for a fiscal month of the person means the amount, if any, by which the total of all amounts paid by the person on account of duty payable for the month exceeds the total of
 	- **(a)** the duty payable for the month, and
 	- **(b)** all amounts paid to the person under this Act as a refund for the month.
-> 2002, c. 22, s. 188; 2005, c. 38, ss. 95, 145; 2006, c. 4, s. 117.
+> 2002, c. 22, s. 188; 2005, c. 38, ss. 95, 145; 2006, c. 4, s. 117; 2007, c. 18, s. 111.
 
 
 
@@ -3020,12 +3244,12 @@ and ending on the day on which the refund is paid to the person.
 
 **Restriction**
 
-- **(4)** A refund shall not be paid until the person has filed with the Minister all returns and other records of which the Minister has knowledge and that are required to be filed under this Act, the [Air Travellers Security Charge Act](/en/Acts/Statutes%20of%20Canada/2002/c.%209,%20s.%205.md), the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) and the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
+- **(4)** A refund shall not be paid until the person has filed with the Minister or the Minister of Public Safety and Emergency Preparedness all returns and other records of which the Minister has knowledge and that are required to be filed under this Act, the [Air Travellers Security Charge Act](/en/Acts/Statutes%20of%20Canada/2002/c.%209,%20s.%205.md), the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) and the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
 
 **Interest**
 
 - **(5)** If a refund is paid to a person, the Minister shall pay interest at the prescribed rate to the person on the refund for the period beginning on the day that is 30 days after the day on which the application for the refund is filed with the Minister and ending on the day on which the refund is paid.
-> 2002, c. 22, s. 189; 2005, c. 38, ss. 96, 145; 2006, c. 4, s. 118.
+> 2002, c. 22, s. 189; 2005, c. 38, ss. 96, 145; 2006, c. 4, s. 118; 2007, c. 18, s. 112.
 
 
 
@@ -3228,10 +3452,12 @@ and ending on the day on which the refund is paid to the person.
 	- **(a)** the application is made within one year after the expiry of the time limited under this Act for objecting; and
 	- **(b)** the person demonstrates that
 		- **(i)** within the time limited under this Act for objecting, the person
-			- **(A)** was unable to act or to give a mandate to act in their name, and
+			- **(A)** was unable to act or to give a mandate to act in their name, or
 			- **(B)** had a *bona fide* intention to object to the assessment,
 		- **(ii)** given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application, and
 		- **(iii)** the application was made as soon as circumstances permitted it to be made.
+> 2002, c. 22, s. 196; 2007, c. 18, s. 113.
+
 
 
 
@@ -3270,10 +3496,12 @@ and ending on the day on which the refund is paid to the person.
 	- **(a)** the application under subsection 196(1) was made within one year after the expiry of the time limited under this Act for objecting; and
 	- **(b)** the person demonstrates that
 		- **(i)** within the time limited under this Act for objecting, the person
-			- **(A)** was unable to act or to give a mandate to act in their name, and
+			- **(A)** was unable to act or to give a mandate to act in their name, or
 			- **(B)** had a *bona fide* intention to object to the assessment,
 		- **(ii)** given the reasons set out in the application under this section and the circumstances of the case, it would be just and equitable to grant the application, and
 		- **(iii)** the application under subsection 196(1) was made as soon as circumstances permitted it to be made.
+> 2002, c. 22, s. 197; 2007, c. 18, s. 114.
+
 
 
 
@@ -3321,11 +3549,13 @@ and ending on the day on which the refund is paid to the person.
 	- **(a)** the application is made within one year after the expiry of the time limited under section 198 for appealing; and
 	- **(b)** the person demonstrates that
 		- **(i)** within the time limited under section 198 for appealing, the person
-			- **(A)** was unable to act or to give a mandate to act in their name, and
+			- **(A)** was unable to act or to give a mandate to act in their name, or
 			- **(B)** had a *bona fide* intention to appeal,
 		- **(ii)** given the reasons set out in the application and the circumstances of the case, it would be just and equitable to grant the application,
 		- **(iii)** the application was made as soon as circumstances permitted it to be made, and
 		- **(iv)** there are reasonable grounds for appealing from the assessment.
+> 2002, c. 22, s. 199; 2007, c. 18, s. 115.
+
 
 
 
@@ -3501,7 +3731,7 @@ and ending on the day on which the refund is paid to the person.
 
 **208** 
 
-- **(1)** Despite any other provision of this Act, the Minister may, subject to subsection (2), for any purpose related to the administration or enforcement of this Act, by notice served personally or by registered or certified mail, require any person to provide the Minister, within any reasonable time that is stipulated in the notice, with
+- **(1)** Despite any other provision of this Act, the Minister may, subject to subsection (2), for any purpose related to the administration or enforcement of a listed international agreement or of this Act, by notice served personally or by registered or certified mail, require any person to provide the Minister, within any reasonable time that is stipulated in the notice, with
 	- **(a)** any information or additional information, including a return under this Act; or
 	- **(b)** any record.
 
@@ -3528,6 +3758,8 @@ and ending on the day on which the refund is paid to the person.
 - **(6)** On hearing an application under subsection (5), a judge may
 	- **(a)** cancel the authorization previously granted if the judge is not then satisfied that the conditions in paragraphs (3)(a) and (b) have been met; or
 	- **(b)** confirm or vary the authorization if the judge is satisfied that those conditions have been met.
+> 2002, c. 22, s. 208; 2007, c. 18, s. 116.
+
 
 
 
@@ -3665,7 +3897,7 @@ It excludes information that does not directly or indirectly reveal the identity
 		- **(ii)** to an official solely for the purpose of the initial implementation of a fiscal policy or for the purposes of the administration or enforcement of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md), the Unemployment Insurance Act or an Act of Parliament that provides for the imposition or collection of a tax or duty,
 		- **(iii)** to an official solely for the purposes of the administration or enforcement of a law of a province that provides for the imposition or collection of a tax or duty,
 		- **(iv)** to an official of the government of a province solely for the purpose of the formulation or evaluation of fiscal policy,
-		- **(v)** to an official of a department or agency of the Government of Canada or of a province as to the name, address, occupation, size or type of business of a person, solely for the purpose of enabling the department or agency to obtain statistical data for research and analysis,
+		- **(v)** to an official of a department or agency of the Government of Canada or of a province as to the name, address, telephone number, occupation, size or type of business of a person, solely for the purpose of enabling the department or agency to obtain statistical data for research and analysis,
 		- **(vi)** to an official solely for the purpose of setting off, against any sum of money that may be due or payable by Her Majesty, a debt due to
 			- **(A)** Her Majesty, or
 			- **(B)** Her Majesty in right of a province on account of taxes payable to the province, if an agreement exists between Canada and the province under which Canada is authorized to collect taxes on behalf of the province, or
@@ -3674,11 +3906,13 @@ It excludes information that does not directly or indirectly reveal the identity
 	- **(g)** use confidential information to compile information in a form that does not directly or indirectly reveal the identity of the person to whom the information relates;
 	- **(h)** use, or provide any person with, confidential information solely for a purpose relating to the supervision, evaluation or discipline of an authorized person by Her Majesty in respect of a period during which the authorized person was employed by or engaged by or on behalf of Her Majesty to assist in the administration or enforcement of this Act, to the extent that the information is relevant for that purpose;
 	- **(i)** use confidential information relating to a person to provide that person with information;
-	- **(j)** provide the business number, name, address, telephone number and facsimile number of a holder of a business number to an official of a department or agency of the Government of Canada or of a province solely for the purposes of the administration or enforcement of an Act of Parliament or a law of a province, if the holder of the business number is required under that Act or that law to provide the information (other than the business number) to the department or agency; or
+	- **(j)** provide the business number, name, address, telephone number and facsimile number of a holder of a business number to an official of a department or agency of the Government of Canada or of a province solely for the purposes of the administration or enforcement of an Act of Parliament or a law of a province, if the holder of the business number is required under that Act or that law to provide the information (other than the business number) to the department or agency;
 	- **(k)** provide confidential information to a police officer (within the meaning assigned by subsection 462.48(17) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md)) solely for the purpose of investigating whether an offence has been committed under the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), or the laying of an information or the preferring of an indictment, if
 		- **(i)** the information can reasonably be regarded as being relevant for the purpose of ascertaining the circumstances in which an offence under the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) may have been committed, or the identity of the person or persons who may have committed an offence, with respect to an official, or with respect to any person related to that official,
 		- **(ii)** the official was or is engaged in the administration or enforcement of this Act, and
-		- **(iii)** the offence can reasonably be considered to be related to that administration or enforcement.
+		- **(iii)** the offence can reasonably be considered to be related to that administration or enforcement;
+	- **(l)** provide confidential information, or allow the inspection of or access to confidential information, as the case may be, solely for the purposes of a provision contained in a listed international agreement; or
+	- **(m)** provide confidential information to any person solely for the purpose of enabling the Chief Statistician, within the meaning assigned by section 2 of the [Statistics Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-19.md), to provide to a statistical agency of a province data concerning business activities carried on in the province, if the information is used by the statistical agency solely for research and analysis and the statistical agency is authorized under the law of the province to collect the same or similar information on its own behalf in respect of such activities.
 
 **Measures to prevent unauthorized use or disclosure**
 
@@ -3707,7 +3941,7 @@ It excludes information that does not directly or indirectly reveal the identity
 **Stay**
 
 - **(11)** An appeal shall stay the operation of the order or direction appealed from until judgment is pronounced.
-> 2002, c. 22, s. 211; 2005, c. 38, ss. 97, 145.
+> 2002, c. 22, s. 211; 2005, c. 38, ss. 97, 145; 2007, c. 18, s. 117.
 
 
 
@@ -3871,7 +4105,7 @@ It includes a person who is appointed to exercise the authority of a creditor un
 
 **217** 
 
-- **(1)** Every person who contravenes section 63 or 73, subsection 78(1) or 83(1) or section 90 or 96 is guilty of an offence and liable
+- **(1)** Every person who contravenes section 63 or 73, subsection 78(1) or 83(1) or section 90, 93.1, 93.2 or 96 is guilty of an offence and liable
 	- **(a)** on conviction on indictment, to a fine of not less than the amount determined under subsection (2) and not more than the amount determined under subsection (3) or to imprisonment for a term of not more than five years, or to both; or
 	- **(b)** on summary conviction, to a fine of not less than the amount determined under subsection (2) and not more than the lesser of $100,000 and the amount determined under subsection (3) or to imprisonment for a term of not more than 18 months, or to both.
 
@@ -3881,7 +4115,7 @@ It includes a person who is appointed to exercise the authority of a creditor un
 	- **(a)** the total of
 		- **(i)** $11.696 multiplied by the number of litres of absolute ethyl alcohol in the spirits to which the offence relates,
 		- **(ii)** $0.62 multiplied by the number of litres of wine to which the offence relates, and
-		- **(iii)** $10 multiplied by the number of litres of denatured alcohol or specially denatured alcohol to which the offence relates, and
+		- **(iii)** $10 multiplied by the number of litres of specially denatured alcohol or a restricted formulation to which the offence relates, and
 	- **(b)** $1,000 in the case of an indictable offence and $500 in the case of an offence punishable on summary conviction.
 
 **Maximum amount**
@@ -3890,9 +4124,9 @@ It includes a person who is appointed to exercise the authority of a creditor un
 	- **(a)** the total of
 		- **(i)** $23.392 multiplied by the number of litres of absolute ethyl alcohol in the spirits to which the offence relates,
 		- **(ii)** $1.24 multiplied by the number of litres of wine to which the offence relates, and
-		- **(iii)** $20 multiplied by the number of litres of denatured alcohol or specially denatured alcohol to which the offence relates, and
+		- **(iii)** $20 multiplied by the number of litres of specially denatured alcohol or a restricted formulation to which the offence relates, and
 	- **(b)** $2,000 in the case of an indictable offence and $1,000 in the case of an offence punishable on summary conviction.
-> 2002, c. 22, s. 217; 2006, c. 4, s. 44.
+> 2002, c. 22, s. 217; 2006, c. 4, s. 44; 2007, c. 18, s. 118.
 
 
 
@@ -3902,7 +4136,7 @@ It includes a person who is appointed to exercise the authority of a creditor un
 
 **218** 
 
-- **(1)** Every person who contravenes any of sections 67, 69 to 72, 74, or 88 or subsection 101(1) or (2) is guilty of an offence and liable
+- **(1)** Every person who contravenes any of sections 67, 69 to 72, 75 or 88 or subsection 101(1) or (2) is guilty of an offence and liable
 	- **(a)** on conviction on indictment, to a fine of not less than the amount determined under subsection (2) and not more than the amount determined under subsection (3) or to imprisonment for a term of not more than five years, or to both; or
 	- **(b)** on summary conviction, to a fine of not less than the amount determined under subsection (2) and not more than the lesser of $500,000 and the amount determined under subsection (3) or to imprisonment for a term of not more than 18 months, or to both.
 
@@ -3921,7 +4155,7 @@ It includes a person who is appointed to exercise the authority of a creditor un
 		- **(i)** $35.088 multiplied by the number of litres of absolute ethyl alcohol in the spirits to which the offence relates, and
 		- **(ii)** $1.86 multiplied by the number of litres of wine to which the offence relates, and
 	- **(b)** $2,000 in the case of an indictable offence and $1,000 in the case of an offence punishable on summary conviction.
-> 2002, c. 22, s. 218; 2006, c. 4, s. 45.
+> 2002, c. 22, s. 218; 2006, c. 4, s. 45; 2007, c. 18, s. 119.
 
 
 
@@ -3990,13 +4224,15 @@ is guilty of an offence and liable on summary conviction to a fine of not more t
 **Offence — confidential information**
 
 - **(2)** Every person
-	- **(a)** to whom confidential information has been provided for a purpose pursuant to paragraph 211(6)(b), (d) or (h), or
+	- **(a)** to whom confidential information has been provided for a purpose pursuant to paragraph 211(6)(b), (d), (h), (l) or (m), or
 	- **(b)** who is an official to whom confidential information has been provided for a purpose pursuant to paragraph 211(6)(a), (e) or (f),
 and who for any other purpose knowingly uses, provides to any person, allows the provision to any person of, or allows any person access to, that information is guilty of an offence and liable on summary conviction to a fine of not more than $5,000 or to imprisonment for a term of not more than 12 months, or to both.
 
 **Definitions**
 
-- **(3)** In this section, “confidential information” and “official” have the same meaning as in subsection 211(1).
+- **(3)** In this section, ***confidential information*** and ***official*** have the same meaning as in subsection 211(1).
+> 2002, c. 22, s. 221; 2007, c. 18, s. 120.
+
 
 
 
@@ -4137,9 +4373,11 @@ and who for any other purpose knowingly uses, provides to any person, allows the
 
 
 
-**Contravention of section 38, 40, 41, 49, 61, 99, 149 or 151**
+**Contravention of section 38, 40, 41, 49, 61, 62.1, 99, 149 or 151**
 
-**234** Every person who contravenes section 38, 40, 41, 49, 61, 99, 149 or 151 is liable to a penalty of not more than $25,000.
+**234** Every person who contravenes section 38, 40, 41, 49, 61, 62.1, 99, 149 or 151 is liable to a penalty of not more than $25,000.
+> 2002, c. 22, s. 234; 2007, c. 18, s. 121.
+
 
 
 
@@ -4155,9 +4393,11 @@ and who for any other purpose knowingly uses, provides to any person, allows the
 
 **236** 
 
-- **(1)** Every tobacco licensee is liable to a penalty if manufactured tobacco on which duty was imposed under section 42 at a rate set out in paragraph 1(a), 2(a) or 3(a) of Schedule 1 is
-	- **(a)** delivered by the licensee other than to a duty free shop or customs bonded warehouse or to a person for use as ships’ stores in accordance with the *Ships’ Stores Regulations*; or
-	- **(b)** exported by the licensee other than for delivery to a foreign duty free shop or as foreign ships’ stores.
+- **(1)** Every tobacco licensee or customs bonded warehouse licensee is liable to a penalty if manufactured tobacco on which duty was imposed under section 42 at a rate set out in paragraph 1(a), 2(a) or 3(a) of Schedule 1 is
+	- **(a)** in the case of a tobacco licensee,
+		- **(i)** delivered by the licensee other than to a duty free shop or customs bonded warehouse or to a person for use as ships’ stores in accordance with the [Ships’ Stores Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/96/40.md), or
+		- **(ii)** exported by the licensee other than for delivery to a foreign duty free shop or as foreign ships’ stores; or
+	- **(b)** in the case of a customs bonded warehouse licensee, delivered by the licensee other than to a person for use as ships’ stores in accordance with the [Ships’ Stores Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/96/40.md).
 
 **Amount of penalty**
 
@@ -4167,6 +4407,8 @@ and who for any other purpose knowingly uses, provides to any person, allows the
 exceeds
 		- **(ii)** the duty that was imposed under section 42 on the tobacco, and
 	- **(b)** the amount, if any, of special duty that was payable under paragraph 56(1)(b) in respect of the tobacco.
+> 2002, c. 22, s. 236; 2007, c. 18, s. 122.
+
 
 
 
@@ -4175,7 +4417,7 @@ exceeds
 
 **237** 
 
-- **(1)** Every excise warehouse licensee is liable to a penalty equal to 200% of the duty imposed on packaged alcohol that was removed from the warehouse of the licensee for a purpose described in section 147 if the alcohol is not delivered or exported, as the case may be, for that purpose.
+- **(1)** Every excise warehouse licensee is liable to a penalty equal to 200% of the duty imposed on packaged alcohol that was removed from the warehouse of the licensee for a purpose described in section 147 if the alcohol is not delivered, exported or provided, as the case may be, for that purpose.
 
 **Diversion of duty-free tobacco**
 
@@ -4196,6 +4438,8 @@ exceeds
 **Exception**
 
 - **(6)** A licensee who would otherwise be liable to a penalty under this section is not liable if the licensee proves to the satisfaction of the Minister that the alcohol or tobacco product that was removed from their excise warehouse or special excise warehouse was returned to that warehouse.
+> 2002, c. 22, s. 237; 2007, c. 18, s. 123.
+
 
 
 
@@ -4247,12 +4491,31 @@ exceeds
 
 
 
-**Contravention of section 73, etc.**
+**Contravention of section 73, 74 or 90**
 
-**243** Every person who contravenes any of sections 73, 76 or 89 to 91 is liable to a penalty equal to
+**243** 
+
+- **(1)** Unless section 239, 241, 242 or 243.1 or subsection (2) applies, every person who contravenes section 73, 74 or 90 is liable to a penalty equal to
+	- **(a)** if the contravention relates to spirits, 200% of the duty that was imposed on the spirits; or
+	- **(b)** if the contravention relates to wine, $1.24 per litre of that wine.
+
+**Contravention of section 73 or 90 by licensed user**
+
+- **(2)** Every licensed user who exports, gives possession of or takes for use alcohol in contravention of section 73 or 90 is liable to a penalty equal to
+	- **(a)** if the contravention relates to spirits, the duty that was imposed on the spirits; or
+	- **(b)** if the contravention relates to wine, $0.62 per litre of that wine.
+> 2002, c. 22, s. 243; 2006, c. 4, s. 47; 2007, c. 18, s. 124.
+
+
+
+
+
+**Contravention of section 76, 89 or 91**
+
+**243.1** Every person who contravenes section 76, 89 or 91 is liable to a penalty equal to
 - **(a)** if the contravention relates to spirits, the duty that was imposed on the spirits; or
 - **(b)** if the contravention relates to wine, $0.62 per litre of that wine.
-> 2002, c. 22, s. 243; 2006, c. 4, s. 47.
+> 2007, c. 18, s. 124.
 
 
 
@@ -4282,6 +4545,15 @@ exceeds
 **Unauthorized possession, etc., of SDA**
 
 **247** Every person who contravenes any of sections 96 to 98, 100, 102 or 103 is liable to a penalty of $10 per litre of specially denatured alcohol to which the contravention relates.
+
+
+
+
+**Unauthorized possession, etc., of restricted formulation**
+
+**247.1** Every person who contravenes section 93.1 or 93.2 is liable to a penalty of $10 per litre of restricted formulation to which the contravention relates.
+> 2007, c. 18, s. 125.
+
 
 
 
@@ -4393,8 +4665,8 @@ exceeds
 
 **Waiving or reducing failure to file penalty**
 
-**255.1** The Minister may, on or before the day that is ten calendar years after the end of a fiscal month of a person, waive or reduce any penalty payable by the person under section 251.1 in respect of a return for the fiscal month.
-> 2006, c. 4, s. 121.
+**255.1** The Minister may, on or before the day that is 10 calendar years after the end of a fiscal month of a person, or on application by the person on or before that day, waive or reduce any penalty payable by the person under section 251.1 in respect of a return for the fiscal month.
+> 2006, c. 4, s. 121; 2007, c. 18, s. 126.
 
 
 
@@ -4568,7 +4840,9 @@ exceeds
 
 **Certain things not to be returned**
 
-**264** Despite this Act, any alcohol, specially denatured alcohol, raw leaf tobacco or tobacco product that is seized under section 260 must not be returned to the person from whom it was seized or any other person unless it was seized in error.
+**264** Despite this Act, any alcohol, specially denatured alcohol, restricted formulation, raw leaf tobacco or tobacco product that is seized under section 260 must not be returned to the person from whom it was seized or any other person unless it was seized in error.
+> 2002, c. 22, s. 264; 2007, c. 18, s. 127.
+
 
 
 
@@ -4592,14 +4866,17 @@ exceeds
 
 - **(2)** Subject to the regulations, the Minister may sell
 	- **(a)** seized spirits or specially denatured alcohol only to a spirits licensee;
-	- **(b)** seized wine only to a wine licensee; and
-	- **(c)** seized raw leaf tobacco or a seized tobacco product only to a tobacco licensee.
+	- **(b)** seized wine only to a wine licensee;
+	- **(c)** seized raw leaf tobacco or a seized tobacco product only to a tobacco licensee; and
+	- **(d)** a seized restricted formulation only to a licensed user.
 
 **Payment of compensation**
 
 - **(3)** If a person would be entitled to the return of a thing if it were available to be returned, but it is not possible to return it, the person shall be paid
 	- **(a)** if the thing was sold, the proceeds from the sale; and
 	- **(b)** in any other case, the value of the thing at the time of its seizure as determined by the Minister.
+> 2002, c. 22, s. 266; 2007, c. 18, s. 128.
+
 
 
 
@@ -5416,9 +5693,11 @@ However, nothing in this subsection limits the liability of the transferor under
 
 - **(6)** The following definitions apply in this section.
 
-***common-law partner***, in relation to an individual, means a person who is cohabiting with the individual in a conjugal relationship, having so cohabited for a period of at least one year.
+***common-law partner*** of an individual at any time means a person who is the common-law partner of the individual at that time for the purposes of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
 
 ***common-law partnership*** means the relationship between two persons who are common-law partners of each other.
+> 2002, c. 22, s. 297; 2007, c. 18, s. 129.
+
 
 
 
@@ -5593,7 +5872,7 @@ However, nothing in this subsection limits the liability of the transferor under
 	- **(k)** prescribing the fees or the manner of determining any fees to be paid for a licence or registration;
 	- **(l)** requiring any class of persons to make returns respecting any class of information required in connection with the administration or enforcement of this Act;
 	- **(m)** requiring any person to provide the Minister with the person’s Social Insurance Number;
-	- **(n)** respecting the sale under section 266 of alcohol, tobacco products, raw leaf tobacco or specially denatured alcohol seized under section 260;
+	- **(n)** respecting the sale under section 266 of alcohol, tobacco products, raw leaf tobacco, specially denatured alcohol or restricted formulations seized under section 260;
 	- **(o)** prescribing any matter or thing that by this Act is to be or may be prescribed; and
 	- **(p)** generally to carry out the purposes and provisions of this Act.
 
@@ -5604,6 +5883,12 @@ However, nothing in this subsection limits the liability of the transferor under
 	- **(b)** corrects an ambiguous or deficient enactment that was not in accordance with the objects of this Act;
 	- **(c)** is consequential on an amendment to this Act that is applicable before the day on which the regulation is published in the Canada Gazette; or
 	- **(d)** gives effect to a budgetary or other public announcement, in which case the regulation shall not, unless paragraph (a), (b) or (c) applies, have effect before the day on which the announcement was made.
+
+**Incorporation by reference**
+
+- **(3)** For greater certainty, a regulation made under this Act may incorporate by reference any material, regardless of its source and either as it exists on a particular date or as amended from time to time.
+> 2002, c. 22, s. 304; 2007, c. 18, s. 130.
+
 
 
 
@@ -5799,6 +6084,21 @@ However, nothing in this subsection limits the liability of the transferor under
 
 
 
+**Transitional application of Distillery Regulations**
+
+**315.1** 
+
+- **(1)** If, during the period beginning on July 1, 2003 and ending on July 1, 2009, sections 7, 8, 9, 12 and 15 of the Distillery Regulations, C.R.C., c. 569, would have applied in any circumstance had those sections, as they read on June 30, 2003, been in force and section 1.1 of the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md) not been enacted, those sections apply, with any modifications that the circumstances require.
+
+**Transitional application of Distillery Departmental Regulations**
+
+- **(2)** If, during the period beginning on July 1, 2003 and ending on July 1, 2009, sections 13 and 14 of the Distillery Departmental Regulations, C.R.C., c. 570, would have applied in any circumstance had those sections, as they read on June 30, 2003, been in force and section 1.1 of the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md) not been enacted, those sections apply, with any modifications that the circumstances require.
+> 2007, c. 18, s. 131.
+
+
+
+
+
 **Transitional treatment of Canadian manufactured tobacco products**
 
 **316** 
@@ -5822,6 +6122,15 @@ However, nothing in this subsection limits the liability of the transferor under
 
 
 
+**Refund for re-worked or destroyed tobacco product**
+
+**316.1** If duty imposed under the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md) and tax imposed under section 23 of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) on a tobacco product manufactured in Canada had become payable before the implementation date and a tobacco licensee under this Act who was, before that day, licensed under those Acts to manufacture the product re-works or destroys, on or after that day, the product in a manner authorized by the Minister, section 181 applies as though that duty and tax were duty paid under this Act.
+> 2007, c. 18, s. 132.
+
+
+
+
+
 **Transitional treatment of imported tobacco products**
 
 **317** The following rules apply to an imported tobacco product:
@@ -5830,6 +6139,15 @@ However, nothing in this subsection limits the liability of the transferor under
 	- **(ii)** this Act and the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md) apply in respect of the product as though it were imported into Canada on that day by the importer;
 - **(b)** if the product was stamped or marked under the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md), the product is deemed to be stamped or marked, as the case may be, under this Act; and
 - **(c)** the [Excise Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-14.md) and Parts III, VI and VII of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) cease to apply in respect of the product.
+
+
+
+
+**Imported tobacco delivered to duty free shop before implementation date**
+
+**317.1** If, on the implementation date, imported manufactured tobacco on which tax under section 23.12 of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) was paid is possessed by a duty free shop licensee and no application for a refund of the tax has been made under that Act, this Act applies in respect of the tobacco as though the tax were special duty under section 53.
+> 2007, c. 18, s. 133.
+
 
 
 
