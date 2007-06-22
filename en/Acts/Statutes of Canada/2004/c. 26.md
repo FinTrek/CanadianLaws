@@ -107,7 +107,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulations.
 - **(2)** The amount of a CES grant that may be paid for a particular year at any time is equal to the lesser of
 	- **(a)** 20% of the contribution, and
 	- **(b)** the amount, if any, by which the lesser of
-		- **(i)** $800, and
+		- **(i)** $1,000, unless the particular year is any of 1998 to 2006, in which case, $800, and
 		- **(ii)** the beneficiary’s unused CES grant room for the particular year at that time
 exceeds
 		- **(iii)** the total of all CES grants paid before that time — other than those amounts paid under subsection (4) — in respect of contributions made in the particular year in respect of the beneficiary.
@@ -118,19 +118,16 @@ exceeds
 	- **(a)** if the beneficiary was 17 years of age or older at the end of the preceding year, nil; or
 	- **(b)** in any other case, determined by the formula
 ```
-$400 (A - B - C) - D
+$400A + $500B - C
 ```
 where
-- **A** is
-	- **(i)** if the beneficiary was born before 1998, the amount, if any, by which
-	- **(A)** the beneficiary’s age in whole years at the end of the particular yearexceeds
-	- **(B)** the beneficiary’s age in whole years at the end of 1997, and
-	- **(ii)** in any other case, one plus the beneficiary’s age in whole years at the end of the particular year,
-- **B** is the number of preceding years throughout which the beneficiary was an ineligible beneficiary in accordance with the regulations,
-- **C** is the number of preceding years beginning after 1997,
-	- **(i)** not included in the value of B in respect of the beneficiary for the particular year, and
-	- **(ii)** throughout which the beneficiary was not resident in Canada, and
-- **D** is the total of all CES grants paid before that time — other than those amounts paid under subsection (4) — in respect of contributions made in a preceding year in respect of the beneficiary.
+- **A** is the number of years after 1997 and before 2007 in which the beneficiary was alive, other than a year throughout which the beneficiary was
+	- **(i)** an ineligible beneficiary in accord-ance with the regulations, or
+	- **(ii)** not resident in Canada,
+- **B** is the number of years after 2006 in which the beneficiary was alive, up to and including the particular year, other than a year throughout which the beneficiary was
+	- **(i)** an ineligible beneficiary in accord-ance with the regulations, or
+	- **(ii)** not resident in Canada, and
+- **C** is the total of all CES grants paid before that time — other than those amounts paid under subsection (4) — in respect of contributions made in a preceding year in respect of the beneficiary.
 
 **Additional amount of grant**
 
@@ -169,6 +166,8 @@ exceeds
 **Lifetime cap**
 
 - **(10)** Not more than $7,200 in CES grants may be paid in respect of a beneficiary during their lifetime.
+> 2004, c. 26, s. 5; 2007, c. 29, s. 37.
+
 
 
 
