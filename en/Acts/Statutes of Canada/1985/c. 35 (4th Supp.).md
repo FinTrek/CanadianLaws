@@ -283,21 +283,17 @@ but does not include
 
 **Deemed approval**
 
-<sup><a href='#A-10.1_en_26'>[*]</a></sup>**10.1** 
+**10.1** 
 
-- **(1)** The proposed acquisition described in a letter dated December 21, 1999 from 853350 Alberta Ltd. and Air Canada to the Minister of Transport is deemed to be a transaction that has been approved by the Governor in Council under subsection 56.2(6) of the [Canada Transportation Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2010.md) on the day on which that subsection comes into force.
-
-<a name='A-10.1_en_26'><sup>*</sup></a>: [Note: Subsection 56.2(6) of the [Canada Transportation Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2010.md) in force July 5, 2000, *see* SI/2000-59.]<br />
+- **(1)** The proposed acquisition described in a letter dated December 21, 1999 from 853350 Alberta Ltd. and Air Canada to the Minister of Transport is deemed to be a transaction that has been approved by the Governor in Council under subsection 53.2(7) of the [Canada Transportation Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2010.md) on the day on which that subsection comes into force.
 
 **Deemed terms and conditions**
 
-- **(2)** The undertakings provided by 853350 Alberta Ltd. and Air Canada to the Minister of Transport in the letter referred to in subsection (1) are deemed to be terms and conditions of an order made under subsection 56.2(6) of the [Canada Transportation Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2010.md) that relate to national transportation concerns, and the undertakings provided by 853350 Alberta Ltd. and Air Canada to the Commissioner of Competition that are set out in Annex A to a letter from the Commissioner dated December 21, 1999 in respect of the acquisition referred to in that subsection are deemed to be terms and conditions of an order made under subsection 56.2(6) of the [Canada Transportation Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2010.md) that relate to potential prevention or lessening of competition.
+- **(2)** The undertakings provided by 853350 Alberta Ltd. and Air Canada to the Minister of Transport in the letter referred to in subsection (1) are deemed to be terms and conditions specified in an approval by the Governor in Council under subsection 53.2(7) of the [Canada Transportation Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2010.md) that relate to national transportation concerns, and the undertakings provided by 853350 Alberta Ltd. and Air Canada to the Commissioner of Competition that are set out in Annex A to a letter from the Commissioner dated December 21, 1999 in respect of the acquisition referred to in that subsection are deemed to be terms and conditions of an approval under subsection 53.2(7) of the [Canada Transportation Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2010.md) that relate to potential prevention or lessening of competition.
 
 **Deemed affiliates**
 
-- <sup><a href='#A-10.1_en_27'>[*]</a></sup>**(3)** For the purposes of sections 45 and 61 of the [Competition Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-34.md), Canadian Airlines Corporation, Canadian Airlines International Ltd. and Canadian Regional Airlines Ltd. are deemed to be affiliates of Air Canada in respect of any thing they do after December 21, 1999 and before the earlier of the coming into force of this subsection and the day on which the undertakings referred to in subsection (2) cease to have effect.
-
-<a name='A-10.1_en_27'><sup>*</sup></a>: [Note: Subsection 10.1(3) in force July 5, 2000, *see* SI/2000-59.]<br />
+- **(3)** For the purposes of sections 45 and 61 of the [Competition Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-34.md), Canadian Airlines Corporation, Canadian Airlines International Ltd. and Canadian Regional Airlines Ltd. are deemed to be affiliates of Air Canada in respect of any thing they do after December 21, 1999 and before the earlier of the coming into force of this subsection and the day on which the undertakings referred to in subsection (2) cease to have effect.
 
 **If undertakings cease to have effect**
 
@@ -308,7 +304,7 @@ but does not include
 **Revocation of deemed approval**
 
 - **(5)** If the Governor in Council makes an order under subsection (4), the deemed approval under subsection (1) is revoked and any certification under paragraph 94(c) of the [Competition Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-34.md) in respect of the acquisition referred to in that paragraph ceases to have effect.
-> 2000, c. 15, s. 19.
+> 2000, c. 15, s. 19; 2007, c. 19, s. 59.
 
 
 
