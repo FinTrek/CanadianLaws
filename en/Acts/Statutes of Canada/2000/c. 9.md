@@ -151,7 +151,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***political party*** means an organization one of whose fundamental purposes is to participate in public affairs by endorsing one or more of its members as candidates and supporting their election.
 
-***polling day***, in relation to an election, means the date fixed under paragraph 57(1)(c) for voting at the election.
+***polling day***, in relation to an election, means the date fixed under paragraph 57(1.2)(c) for voting at the election.
 
 ***polling division*** means a polling division referred to in section 538.
 
@@ -198,7 +198,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Descriptive cross-references**
 
 - **(5)** If, in any provision of this Act, a reference to another provision of this Act or a provision of any other Act is followed by words in parentheses that are or purport to be descriptive of the subject-matter of the provision referred to, those words form no part of the provision in which they occur but are inserted for convenience of reference only.
-> 2000, c. 9, s. 2, c. 12, s. 40; 2001, c. 21, s. 1; 2002, c. 7, s. 90; 2003, c. 19, s. 1; 2004, c. 24, s. 1; 2006, c. 9, s. 39.
+> 2000, c. 9, s. 2, c. 12, s. 40; 2001, c. 21, s. 1; 2002, c. 7, s. 90; 2003, c. 19, s. 1; 2004, c. 24, s. 1; 2006, c. 9, s. 39; 2007, c. 21, s. 1.
 
 
 
@@ -405,7 +405,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **17** 
 
-- **(1)** During an election period, if an emergency, an unusual or unforeseen circumstance or an error makes it necessary, the Chief Electoral Officer may adapt any provision of this Act and, in particular, may extend the time for doing any act, subject to subsection (2), or increase the number of election officers or polling stations.
+- **(1)** During an election period or within 30 days after it, if an emergency, an unusual or unforeseen circumstance or an error makes it necessary, the Chief Electoral Officer may adapt any provision of this Act and, in particular, may extend the time for doing any act, subject to subsection (2), or may increase the number of election officers or polling stations.
 
 **Limitation — power to adapt**
 
@@ -416,6 +416,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(3)** If voting at a polling station is interrupted on polling day by an emergency and the Chief Electoral Officer is satisfied that, if the voting hours at the polling station are not extended, a substantial number of electors will not be able to vote, the Chief Electoral Officer shall extend the voting hours at the polling station for the period the Chief Electoral Officer considers necessary to give those electors a reasonable opportunity to vote, as long as the polling station does not in any case
 	- **(a)** close later than midnight on polling day; or
 	- **(b)** remain open during polling day for a total of more than 12 hours.
+> 2000, c. 9, s. 17; 2007, c. 21, s. 2.
+
 
 
 
@@ -11801,11 +11803,13 @@ The contestant or his or her financial agent shall notify the Chief Electoral Of
 
 **Punishment — offences requiring intent (summary conviction)**
 
-- **(2)** Every person who is guilty of an offence under any of subsections 485(1), 487(1), 488(1), 489(2) and 491(2), section 493 and subsection 495(2) is liable on summary conviction to a fine of not more than $1,000 or to imprisonment for a term of not more than three months, or to both.
+- **(2)** Every person who is guilty of an offence under any of subsection 485(1), paragraph 487(1)(a), subsections 488(1), 489(2) and 491(2), section 493 and subsection 495(2) is liable on summary conviction to a fine of not more than $1,000 or to imprisonment for a term of not more than three months, or to both.
 
 **Punishment — offences requiring intent (summary conviction)**
 
 - **(3)** Every person who is guilty of an offence under any of subsections 484(2), 486(2), 495(3) and 497(2) is liable on summary conviction to a fine of not more than $2,000 or to imprisonment for a term of not more than six months, or to both.
+
+- **(3.1)** Every person who is guilty of an offence under paragraph 487(1)(b) is liable on summary conviction to a fine of not more than $5,000 or to imprisonment for a term of not more than one year, or to both.
 
 **Punishment — offences requiring intent (summary conviction — fine only)**
 
@@ -11820,6 +11824,8 @@ The contestant or his or her financial agent shall notify the Chief Electoral Of
 **Additional punishment — third parties**
 
 - **(6)** Every third party that is guilty of an offence under paragraph 496(1)(a) or (2)(a) is, in addition to the punishment provided under subsection (1) or (5), liable to a fine of up to five times the amount by which the third party exceeded the election advertising expense limit in question.
+> 2000, c. 9, s. 500; 2007, c. 21, s. 39.1.
+
 
 
 
