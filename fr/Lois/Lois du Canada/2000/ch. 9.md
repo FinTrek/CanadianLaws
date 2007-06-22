@@ -123,7 +123,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***jour de clôture*** Le jour prévu à l’article 69.
 
-***jour du scrutin*** Le jour fixé pour la tenue du scrutin dans le cadre de l’alinéa 57(1)c).
+***jour du scrutin*** Le jour fixé pour la tenue du scrutin dans le cadre de l’alinéa 57(1.2)c). 
 
 ***juge*** Lorsque cette expression est employée pour définir le magistrat à qui des pouvoirs spécifiques sont conférés :
 - **a)** relativement à la province d’Ontario, un juge de la Cour supérieure de justice;
@@ -198,7 +198,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Renvois descriptifs**
 
 - **(5)** Dans la présente loi, les mots entre parenthèses qui, dans un but purement descriptif d’une matière donnée, suivent dans une disposition un renvoi à une autre disposition de la présente loi ou d’une autre loi ne font pas partie de la disposition et y sont insérés pour la seule commodité de la consultation.
-> 2000, ch. 9, art. 2, ch. 12, art. 40; 2001, ch. 21, art. 1; 2002, ch. 7, art. 90; 2003, ch. 19, art. 1; 2004, ch. 24, art. 1; 2006, ch. 9, art. 39.
+> 2000, ch. 9, art. 2, ch. 12, art. 40; 2001, ch. 21, art. 1; 2002, ch. 7, art. 90; 2003, ch. 19, art. 1; 2004, ch. 24, art. 1; 2006, ch. 9, art. 39; 2007, ch. 21, art. 1.
 
 
 
@@ -405,7 +405,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **17** 
 
-- **(1)** Le directeur général des élections peut, pendant la période électorale, adapter les dispositions de la présente loi dans les cas où il est nécessaire de le faire en raison d’une situation d’urgence, d’une circonstance exceptionnelle ou imprévue ou d’une erreur; il peut notamment prolonger le délai imparti pour l’accomplissement de toute opération et augmenter le nombre de fonctionnaires électoraux ou de bureaux de scrutin.
+- **(1)** Le directeur général des élections peut, pendant la période électorale et les trente jours qui suivent celle-ci, adapter les dispositions de la présente loi dans les cas où il est nécessaire de le faire en raison d’une situation d’urgence, d’une circonstance exceptionnelle ou imprévue ou d’une erreur; il peut notamment prolonger le délai imparti pour l’accomplissement de toute opération et augmenter le nombre de fonctionnaires électoraux ou de bureaux de scrutin.
 
 **Restriction**
 
@@ -414,6 +414,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exception**
 
 - **(3)** Lorsque, à la suite d’une urgence, il a fallu fermer un bureau de scrutin le jour du scrutin, le directeur général des élections reporte la fermeture du bureau à un moment ultérieur s’il est convaincu qu’autrement un nombre important d’électeurs ne pourront y voter; le cas échéant, il reporte la fermeture du bureau pour la durée qu’il juge suffisante pour que ces électeurs aient le temps voulu pour y voter, mais le total des heures au cours desquelles le bureau est ouvert ne peut dépasser douze et le bureau ne peut fermer après minuit.
+> 2000, ch. 9, art. 17; 2007, ch. 21, art. 2.
+
 
 
 
@@ -11750,11 +11752,13 @@ La demande est notifiée au directeur général des élections.
 
 **Peine — infractions intentionnelles (déclaration sommaire)**
 
-- **(2)** Quiconque commet une infraction visée à l’une ou l’autre des dispositions suivantes : les paragraphes 485(1), 487(1), 488(1), 489(2) et 491(2), l’article 493 et le paragraphe 495(2) est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 1 000 $ et d’un emprisonnement maximal de trois mois, ou de l’une de ces peines.
+- **(2)** Quiconque commet une infraction visée à l’une ou l’autre des dispositions suivantes : le paragraphe 485(1), l’alinéa 487(1)a), les paragraphes 488(1), 489(2) et 491(2), l’article 493 et le paragraphe 495(2) est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 1 000 $ et d’un emprisonnement maximal de trois mois, ou de l’une de ces peines.
 
 **Peine — infractions intentionnelles (déclaration sommaire)**
 
 - **(3)** Quiconque commet une infraction visée à l’un ou l’autre des paragraphes 484(2), 486(2), 495(3) et 497(2) est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 2 000 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines.
+
+- **(3.1)** Quiconque commet une infraction visée à l’alinéa 487(1)b) est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 5 000 $ et d’un emprisonnement maximal de un an, ou de l’une de ces peines.
 
 **Peine — infractions intentionnelles (déclaration sommaire, amende seulement)**
 
@@ -11769,6 +11773,8 @@ La demande est notifiée au directeur général des élections.
 **Peine supplémentaire — tiers**
 
 - **(6)** Le tribunal peut, en sus de la peine prévue aux paragraphes (1) ou (5), imposer au tiers qui commet l’infraction visée aux alinéas 496(1)a) ou (2)a) une amende correspondant au quintuple de l’excédent du montant des dépenses de publicité électorale sur le plafond autorisé.
+> 2000, ch. 9, art. 500; 2007, ch. 21, art. 39.1.
+
 
 
 
