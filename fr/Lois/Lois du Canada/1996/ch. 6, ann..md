@@ -59,6 +59,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***chambre de compensation*** Société, société de personnes, association, agence ou autre entité, à l’exception de la banque et d’une bourse de valeurs, qui offre les services d’un système de compensation et de règlement.
 
+***contrat financier admissible*** S’entend au sens du paragraphe 22.1(2) de la [Loi sur les liquidations et les restructurations](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-11.md).
+
 ***établissement participant*** Membre d’un système de compensation et de règlement, que ce dernier soit opéré par une chambre de compensation ou en vertu d’un accord entre établissements participants.
 
 ***intermédiaire*** Société, société de personnes, association, agence ou autre entité avec laquelle, dans un système de compensation et de règlement, les obligations de paiement et droits à paiement des participants font l’objet d’une compensation destinée à ne laisser qu’une seule dette entre chaque participant et l’intermédiaire.
@@ -68,6 +70,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***risque systémique*** Risque qu’un établissement participant ne puisse s’acquitter de ses obligations dans un système de compensation et de règlement lorsqu’elles deviennent exigibles ou qu’un problème financier se propage dans le système de compensation et de règlement et rende ainsi soit les autres établissements participants du système, soit les institutions financières dans d’autres parties du système financier canadien, soit une chambre de compensation du système de règlement et de compensation ou celle d’un autre système de règlement et de compensation dans le système financier canadien, incapables de satisfaire à leurs obligations.
 
 ***système de compensation et de règlement*** Système ou arrangement visant le règlement ou la compensation des obligations monétaires, des ordres de paiement et de toute autre communication afférente à un paiement comportant au moins trois établissements participants dont au moins une banque, utilisant le dollar canadien pour au moins une partie de ses opérations et donnant lieu, une fois le règlement ou la compensation faits, à l’ajustement du compte des parties détenu à la banque. Y est assimilé le système ou l’arrangement pour le règlement ou la compensation des valeurs mobilières, des opérations utilisant des devises étrangères ou toutes autres opérations pour lesquelles le système ou l’arrangement pratique le règlement ou la compensation des obligations de paiement découlant de ces opérations.
+> 1996, ch. 6, art. 162 (ann., art. 2); 2007, ch. 29, art. 110.
+
 
 
 
@@ -287,11 +291,24 @@ La directive, qui précise, le cas échéant, les délais impartis, ordonne aux 
 
 - **(1)** Malgré toute autre règle de droit portant sur la faillite ou l’insolvabilité ou toute ordonnance d’un tribunal relative à une réorganisation, un arrangement ou une mise sous séquestre dans le cadre d’une insolvabilité, l’institution financière ou la banque peut, conformément aux termes de l’accord de compensation qu’elle a conclu, mettre fin à celui-ci et calculer le reliquat net conformément à ses modalités, la partie ayant droit à celui-ci en devenant créancière contre la personne qui le doit.
 
+**Contrat financier admissible**
+
+- **(1.1)** Si l’accord de compensation visé au paragraphe (1) est un contrat financier admissible, l’institution financière ou la banque peut, conformément à l’accord, procéder à toute opération à l’égard de la garantie financière afférente, notamment :
+	- **a)** d’un part, la vente, la demande en forclusion ou, dans la province de Québec, la demande en délaissement;
+	- **b)** d’autre part, la compensation, ou l’affectation de son produit ou de sa valeur.
+
 **Définitions**
 
 - **(2)** Pour l’application du paragraphe (1), les définitions suivantes s’appliquent.
 
-***accord de compensation*** Accord conclu entre des institutions financières ou entre une ou plusieurs institutions financières et la banque et qui soit constitue un contrat financier admissible au sens de l’article 22.1 de la [Loi sur les liquidations et les restructurations](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-11.md), soit porte compensation ou extinction des obligations de paiement, présentes ou futures, avec le droit, présent ou futur, de recevoir des paiements.
+***accord de compensation*** Accord conclu entre des institutions financières ou entre une ou plusieurs institutions financières et la banque et qui soit constitue un contrat financier admissible, soit porte compensation ou extinction des obligations de paiement, présentes ou futures, avec le droit, présent ou futur, de recevoir des paiements.
+
+***accord de transfert de titres pour obtention de crédit*** Accord aux termes duquel la propriété d’un bien est transférée en vue de garantir le paiement d’une somme ou l’exécution d’une obligation relativement à un contrat financier admissible.
+
+***garantie financière*** S’il est assujetti soit à un intérêt ou, dans la province de Québec, à un droit garantissant le paiement d’une somme ou l’exécution d’une obligation relativement à un contrat financier admissible, soit à un accord de transfert de titres pour obtention de crédit, l’un ou l’autre des éléments suivants :
+- **a)** les sommes en espèces et les équivalents de trésorerie — notamment les effets négociables et dépôts à vue;
+- **b)** les titres, comptes de titres, droits intermédiés et droits d’acquérir des titres;
+- **c)** les contrats à terme ou comptes de contrats à terme.
 
 ***institution financière***
 - **a)** Institution financière au sens de l’article 2 de la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md);
@@ -301,7 +318,7 @@ La directive, qui précise, le cas échéant, les délais impartis, ordonne aux 
 - **e)** l’Office d’investissement des régimes de pensions du secteur public.
 
 ***reliquat net*** Le montant obtenu une fois la compensation opérée entre les parties à un accord de compensation, selon les modalités prévues à celui-ci.
-> 1996, ch. 6, art. 162 (ann., art. 13); 1997, ch. 40, art. 109; 1999, ch. 28, art. 133, ch. 34, art. 228.
+> 1996, ch. 6, art. 162 (ann., art. 13); 1997, ch. 40, art. 109; 1999, ch. 28, art. 133, ch. 34, art. 228; 2007, ch. 29, art. 111.
 
 
 
@@ -327,7 +344,7 @@ La directive, qui précise, le cas échéant, les délais impartis, ordonne aux 
 
 - **(3)** Les définitions qui suivent s’appliquent au présent article.
 
-***accord de compensation*** Accord conclu entre une chambre spécialisée et un membre et qui soit constitue un contrat financier admissible au sens de l’article 22.1 de la [Loi sur les liquidations et les restructurations](/fr/Lois/Lois%20révisées%20du%20Canada/W/W-11.md), soit porte compensation ou extinction des obligations de paiement ou de délivrance — actuelles ou futures — avec le droit — actuel ou futur — de recevoir paiement ou de prendre livraison.
+***accord de compensation*** Accord conclu entre une chambre spécialisée et un membre et qui soit constitue un contrat financier admissible, soit porte compensation ou extinction des obligations de paiement ou de délivrance — actuelles ou futures — avec le droit — actuel ou futur — de recevoir paiement ou de prendre livraison.
 
 ***chambre spécialisée*** Outre les entités désignées en vertu du paragraphe (2) :
 - **a)** la Corporation canadienne de compensation de produits dérivés, constituée en vertu de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md);
@@ -337,7 +354,7 @@ La directive, qui précise, le cas échéant, les délais impartis, ordonne aux 
 ***membre*** Personne qui a recours aux services d’une chambre spécialisée.
 
 ***reliquat net*** Le montant obtenu une fois la compensation opérée entre une chambre spécialisée et un membre, selon les modalités prévues par l’accord de compensation.
-> 2002, ch. 14, art. 1; 2007, ch. 6, art. 442.
+> 2002, ch. 14, art. 1; 2007, ch. 6, art. 442, ch. 29, art. 112.
 
 
 
