@@ -171,15 +171,15 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**Comparison of DNA profiles and communication of information**
+**Communication of information**
 
 **6** 
 
-- **(1)** The Commissioner shall compare any DNA profile that is entered in the convicted offenders index or the crime scene index with those DNA profiles that are already contained in the data bank and may then, for the purpose of the investigation of a designated offence, communicate the following information to any Canadian law enforcement agency or laboratory that the Commissioner considers appropriate:
+- **(1)** The Commissioner shall compare any DNA profile that is entered in the convicted offenders index or the crime scene index with those DNA profiles that are already contained in the data bank and may then, for the purpose of the investigation of a criminal offence, communicate the following information to any Canadian law enforcement agency or laboratory that the Commissioner considers appropriate:
 	- **(a)** if the DNA profile is not already contained in the data bank, the fact that it is not;
-	- **(b)** if the DNA profile is already contained in the data bank, any information contained in the data bank in relation to that DNA profile;
+	- **(b)** if the DNA profile is already contained in the data bank, the information contained in the data bank in relation to that DNA profile;
 	- **(c)** if the DNA profile is, in the opinion of the Commissioner, similar to one that is already contained in the data bank, the similar DNA profile; and
-	- **(d)** if a DNA profile that is communicated under paragraph (c) cannot be excluded as a possible match on further analysis, any information contained in the data bank in relation to that DNA profile.
+	- **(d)** if a law enforcement agency or laboratory advises the Commissioner that their comparison of a DNA profile communicated under paragraph (c) with one that is connected to the commission of a criminal offence has not excluded the former as a possible match, the information contained in the data bank in relation to that profile.
 
 **Authorized users**
 
@@ -187,9 +187,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Foreign law enforcement agencies**
 
-- **(3)** On receipt of a DNA profile from the government of a foreign state, an international organization established by the governments of states or an institution of any such government or international organization, the Commissioner may compare the DNA profile with those in the DNA data bank to determine whether it is already contained in the data bank and may then communicate to that government, international organization or institution
-	- **(a)** whether the DNA profile is already contained in the data bank; and
-	- **(b)** any information, other than the DNA profile itself, that is contained in the data bank in relation to that DNA profile.
+- **(3)** On receipt of a DNA profile from the government of a foreign state, an international organization established by the governments of states or an institution of such a government or international organization, the Commissioner may compare the profile with those in the DNA data bank to determine whether it is already contained in the data bank and may then communicate to the government, organization or institution
+	- **(a)** the information referred to in any of paragraphs (1)(a) to (c) in the circumstances referred to in that paragraph; and
+	- **(b)** the information contained in the data bank in relation to a DNA profile communicated to the government, organization or institution in the circumstances set out in paragraph (1)(c) if the government, organization or institution advises the Commissioner that their comparison of that DNA profile with one that is connected to the commission of a criminal offence has not excluded the former as a possible match.
 
 **Communication of DNA profile**
 
@@ -205,12 +205,12 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Subsequent communication**
 
-- **(6.1)** Information that is communicated under subsection (1) may be communicated subsequently to a person to whom the communication is necessary for the purpose of the investigation or prosecution of a designated offence.
+- **(6.1)** Information that is communicated under subsection (1) may be communicated subsequently to a person to whom the communication is necessary for the purpose of the investigation or prosecution of a criminal offence.
 
 **Unauthorized communication**
 
 - **(7)** Subject to this section, no person shall communicate any information that is contained in the DNA data bank or allow the information to be communicated.
-> 1998, c. 37, s. 6; 2000, c. 10, s. 7; 2005, c. 25, s. 17.
+> 1998, c. 37, s. 6; 2000, c. 10, s. 7; 2005, c. 25, s. 17; 2007, c. 22, s. 31.
 
 
 
