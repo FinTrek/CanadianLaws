@@ -406,24 +406,26 @@ French version only***taux*** Le taux de droits de douane.
 
 **21** Les définitions qui suivent s’appliquent aux articles 21.1 à 21.3.
 
- ou  or ***bière*** ou ***liqueur de malt*** Bière ou liqueur de malt, au sens de l’article 4 de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), du n<sup>o</sup> tarifaire 2202.90.10, de la position n<sup>o</sup> 22.03 ou des n<sup>os</sup> tarifaires 2206.00.80 ou 2206.00.91, classée dans ces numéros tarifaires ou cette position ou avec le contenant dans lequel elle est importée.
+ ou  or ***bière*** ou ***liqueur de malt*** Bière ou liqueur de malt, au sens de l’article 4 de la [Loi sur l’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-14.md), du n<sup>o</sup> tarifaire 2202.90.10 ou de la position 22.03, classée dans ce numéro tarifaire ou cette position ou avec le contenant dans lequel elle est importée.
 
 ***emballé*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md).
 
-***entrepôt d’accise*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md).
+***entrepôt d’accise*** entrepôt d’accise S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md).
 
 ***en vrac*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md).
 
-***exploitant agréé d’entrepôt d’accise*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md).
+exploitant agréé d’entrepôt d’accise***exploitant agréé d’entrepôt d’accise*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md).
 
 ***local déterminé*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md).
 
 ***spiritueux*** Spiritueux, au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md) :
-- **a)** d’un titre alcoométrique volumique excédant 22,9 %, des n<sup>os</sup> tarifaires 2204.10.90, 2204.21.32, 2204.21.49, 2204.29.32, 2204.29.49, 2204.30.90, 2205.10.30, 2205.90.30, 2206.00.19, 2206.00.22, 2206.00.39, 2206.00.49, 2206.00.72 ou 2206.00.93, classés dans ces numéros tarifaires ou avec le contenant dans lequel ils sont importés;
-- **b)** des positions n<sup>os</sup> 22.07 ou 22.08, à l’exception des n<sup>os</sup> tarifaires 2207.20.11, 2207.20.12, 2207.20.90 et 2208.90.30, classés dans ces positions ou avec le contenant dans lequel ils sont importés.
+- **a)** d’un titre alcoométrique volumique excédant 22,9 %, des n<sup>os</sup>  tarifaires 2204.10.90, 2204.21.32, 2204.21.49, 2204.29.32, 2204.29.49, 2204.30.90, 2205.10.30, 2205.90.30, 2206.00.19, 2206.00.22, 2206.00.39, 2206.00.49, 2206.00.72 ou 2206.00.93, classés dans ces numéros tarifaires ou avec le contenant dans lequel ils sont importés;
+- **b)** des positions n<sup>os</sup>  22.07 ou 22.08, à l’exception des n<sup>os</sup>  tarifaires 2207.20.11, 2207.20.12, 2207.20.90 et 2208.90.30, classés dans ces positions ou avec le contenant dans lequel ils sont importés.
 
-***vin*** Vin, au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), des positions n<sup>os</sup> 22.04, 22.05 ou 22.06, à l’exception des n<sup>os</sup> tarifaires 2204.10.90, 2204.21.32, 2204.21.49, 2204.29.32, 2204.29.49, 2204.30.90, 2205.10.30, 2205.90.30, 2206.00.19, 2206.00.22, 2206.00.39, 2206.00.49, 2206.00.72, 2206.00.80, 2206.00.91 et 2206.00.93, classé dans ces positions ou avec le contenant dans lequel il est importé.
-> 1997, ch. 36, art. 21; 2001, ch. 16, art. 3; 2002, ch. 22, art. 346 et 412; 2003, ch. 15, art. 45.
+***utilisateur agréé*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md).
+
+***vin*** Vin, au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md), des positions 22.04, 22.05 ou 22.06, à l’exception des n<sup>os</sup> tarifaires 2204.10.90, 2204.21.32, 2204.21.49, 2204.29.32, 2204.29.49, 2204.30.90, 2205.10.30, 2205.90.30, 2206.00.19, 2206.00.22, 2206.00.39, 2206.00.49, 2206.00.72 et 2206.00.93, classé dans ces positions ou avec le contenant dans lequel il est importé.
+> 1997, ch. 36, art. 21; 2001, ch. 16, art. 3; 2002, ch. 22, art. 346 et 412; 2003, ch. 15, art. 45; 2007, ch. 18, art. 142.
 
 
 
