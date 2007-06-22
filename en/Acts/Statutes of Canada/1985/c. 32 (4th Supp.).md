@@ -1501,7 +1501,7 @@ the Minister may
 
 **34** 
 
-- **(1)** An order or emergency directive made by the Minister may be made an order of the Federal Court or any superior court and shall be enforced in the same manner as an order of the court.
+- **(1)** An order or emergency directive made by the Minister may be made an order of the Federal Court or of any superior court, and shall be enforced in the same manner as an order of the court.
 
 **Orders of railway safety inspectors**
 
@@ -1518,7 +1518,7 @@ the Minister may
 **Option to enforce**
 
 - **(5)** The Minister may, before or after an order or emergency directive is made an order of a court pursuant to this section, enforce the order or directive by the Minister’s own action.
-> R.S., 1985, c. 32 (4th Supp.), s. 34; 2002, c. 8, s. 168; 2006, c. 11, s. 26.
+> R.S., 1985, c. 32 (4th Supp.), s. 34; 2002, c. 8, s. 168; 2006, c. 11, s. 26; 2007, c. 19, s. 53.
 
 
 
@@ -1792,12 +1792,62 @@ raises, or may raise, issues of public interest relating to safe railway operati
 
 
 
+**PART IV.1** 
+## Police Constables
+
+
+
+**Appointment**
+
+**44** 
+
+- **(1)** A judge of a superior court may appoint a person as a police constable for the enforcement of Part III of the [Canada Transportation Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2010.md) and for the enforcement of the laws of Canada or a province in so far as their enforcement relates to the protection of property owned, possessed or administered by a railway company and the protection of persons and property on that property.
+
+**Limitation**
+
+- **(2)** The appointment may only be made on the application of a railway company that owns, possesses or administers property located within the judge’s jurisdiction.
+
+**Jurisdiction**
+
+- **(3)** The police constable has jurisdiction on property under the administration of the railway company and in any place within 500 m of property that the railway company owns, possesses or administers.
+
+**Power to take persons before a court**
+
+- **(4)** The police constable may take a person charged with an offence under Part III of the [Canada Transportation Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2010.md), or any law referred to in subsection (1), before a court that has jurisdiction in such cases over any area where property owned, possessed or administered by the railway company is located, whether or not the person was arrested, or the offence occurred or is alleged to have occurred, within that area.
+
+**Court’s jurisdiction**
+
+- **(5)** The court must deal with the person as though the person had been arrested, and the offence had occurred, within the area of the court’s jurisdiction, but the court may not deal with the person if the offence is alleged to have occurred outside the province in which the court is sitting.
+
+**Dismissal or discharge of police constable**
+
+- **(6)** A superior court judge referred to in subsection (1) or the railway company may dismiss or discharge the police constable and the dismissal or discharge terminates the powers, duties and privileges conferred on the constable by this section.
+> R.S., 1985, c. 32 (4th Supp.), s. 44; 1999, c. 9, s. 32; 2007, c. 19, s. 54.
+
+
+
+
+
+**Procedures for dealing with complaints**
+
+**44.1** 
+
+- **(1)** If one or more police constables are appointed with respect to a railway company, the railway company must
+	- **(a)** establish procedures for dealing with complaints concerning police constables;
+	- **(b)** designate one or more persons to be responsible for implementing the procedures; and
+	- **(c)** designate one or more persons to receive and deal with the complaints.
+
+**Procedures to be filed with Minister**
+
+- **(2)** The railway company must file with the Minister a copy of its procedures for dealing with complaints and must implement any recommendations made by the Minister, including recommendations concerning how the procedures are to be made public.
+> 2007, c. 19, s. 54.
+
+
+
+
+
 **PART V** 
 ## Miscellaneous Provisions
-
-
-**44** [Repealed, 1999, c. 9, s. 32]
-
 
 
 
