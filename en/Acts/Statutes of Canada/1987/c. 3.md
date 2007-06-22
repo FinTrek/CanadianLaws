@@ -4626,11 +4626,13 @@ by
 
 **222** 
 
-- **(1)** The final determination, for any fiscal year, of the fiscal equalization offset payment for the Province, the per capita fiscal capacity for the Province and the national average per capita fiscal capacity shall be determined by the Federal Minister following the end of the fiscal year, at the same time that the final computation of the amount, if any, of the fiscal equalization payment that is payable to a province is made for the fiscal year under Part I of the Fiscal Arrangements Act.
+- **(1)** The final determination, for any fiscal year, of the fiscal equalization offset payment for the Province, the per capita fiscal capacity for the Province and the national average per capita fiscal capacity shall be determined by the Federal Minister at the same time that the final computation of the amount, if any, of the fiscal equalization payment that is payable to a province is made for the fiscal year under Part I of the [Federal-Provincial Fiscal Arrangements Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20F-6.md).
 
 **Interim determinations**
 
 - **(2)** The Federal Minister may make an interim determination of a fiscal equalization offset payment for the Province for a fiscal year and of the per capita fiscal capacity of the Province and the national average per capita fiscal capacity for a fiscal year, at the time and in the manner prescribed, prior to any final determination made under subsection (1).
+> 1987, c. 3, s. 222; 2007, c. 29, s. 80.
+
 
 
 
