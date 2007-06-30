@@ -225,6 +225,38 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 
 
 
+**9.2** [Not in force]
+
+
+
+**9.3** [Not in force]
+
+
+
+
+**Correspondent banking**
+
+**9.4** 
+
+- **(1)** Every entity referred to in any of paragraphs 5(a), (b), (d) and (e) and every other entity that is referred to in section 5 and that is prescribed shall take the following measures before entering into a correspondent banking relationship with a prescribed foreign entity:
+	- **(a)** obtain prescribed information about the foreign entity and its activities;
+	- **(b)** ensure that the foreign entity is not a shell bank as defined in the regulations;
+	- **(c)** obtain the approval of senior management;
+	- **(d)** set out in writing their obligations and those of the foreign entity in respect of the correspondent banking services; and
+	- **(e)** any prescribed measures.
+
+**Prohibition — shell bank**
+
+- **(2)** No person or entity shall enter into a correspondent banking relationship with a shell bank as defined in the regulations.
+
+**Definition of correspondent banking relationship**
+
+- **(3)** For the purposes of this section, ***correspondent banking relationship*** means a relationship created by an agreement or arrangement under which an entity referred to in any of paragraphs 5(a), (b), (d) and (e) or an entity that is referred to in section 5 and that is prescribed undertakes to provide to a prescribed foreign entity services such as international electronic funds transfers, cash management, cheque clearing and any prescribed services.
+> 2006, c. 12, s. 8.
+
+
+
+
 
 **Immunity**
 
@@ -1103,10 +1135,14 @@ the applicant is entitled to an order declaring that their interest or right is 
 
 - **(3)** If the Centre, on the basis of its analysis and assessment under paragraph 54(c), has reasonable grounds to suspect that designated information would be relevant to investigating or prosecuting a money laundering offence or a terrorist activity financing offence, the Centre shall disclose the information to
 	- **(a)** the appropriate police force;
-	- **(b)** the Canada Revenue Agency, if the Centre also determines that the information is relevant to an offence of evading or attempting to evade paying taxes or duties imposed under an Act of Parliament administered by the Minister of National Revenue;
-	- **(b.1)** the Canada Border Services Agency, if the Centre also determines that the information is relevant to an offence of evading or attempting to evade paying taxes or duties imposed under an Act of Parliament administered by the Agency; and
-	- **(c)** [Repealed, 2001, c. 41, s. 67]
-	- **(d)** the Canada Border Services Agency, if the Centre also determines that the information would promote the objective set out in paragraph 3(1)(i) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md) and is relevant to determining whether a person is a person described in sections 34 to 42 of that Act or to an offence under any of sections 117 to 119, 126 or 127 of that Act.
+	- **(b)** the Canada Revenue Agency, if the Centre also determines that the information is relevant to an offence of obtaining or attempting to obtain a rebate, refund or credit to which a person or entity is not entitled, or of evading or attempting to evade paying taxes or duties imposed under an Act of Parliament administered by the Minister of National Revenue;
+	- **(b.1)** the Canada Border Services Agency, if the Centre also determines that the information is relevant to an offence of evading or attempting to evade paying taxes or duties imposed under an Act of Parliament administered by the Agency;
+	- **(c)** the Canada Revenue Agency, if the Centre also has reasonable grounds to suspect that the information is relevant to determining
+		- **(i)** whether a registered charity, as defined in subsection 248(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), has ceased to comply with the requirements of that Act for its registration as such, or
+		- **(ii)** whether a person or entity that the Centre has reasonable grounds to suspect has applied to be a registered charity, as defined in subsection 248(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), is eligible to be registered as such;
+	- **(d)** the Canada Border Services Agency, if the Centre also determines that the information is relevant to determining whether a person is a person described in sections 34 to 42 of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md) or is relevant to an offence under any of sections 117 to 119, 126 or 127 of that Act;
+	- **(e)** the Canada Border Services Agency, if the Centre also determines that the information is relevant to investigating or prosecuting an offence of smuggling or attempting to smuggle goods subject to duties or an offence related to the importation of goods that are prohibited, controlled or regulated under the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md) or under any other Act of Parliament; and
+	- **(f)** the Communications Security Establishment, if the Centre also determines that the information is relevant to the mandate of the Communications Security Establishment referred to in paragraph 273.64(1)(a) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md).
 
 **Exception**
 
@@ -1122,14 +1158,23 @@ the applicant is entitled to an order declaring that their interest or right is 
 
 - **(6)** A person may disclose any information referred to in subsection (1) if the disclosure is necessary for the purpose of exercising powers or performing duties and functions under this Part.
 
-**Definition of “designated information”**
+**Definition of designated information**
 
-- **(7)** For the purposes of subsection (3), ***designated information*** means, in respect of a financial transaction or an importation or exportation of currency or monetary instruments,
-	- **(a)** the name of the client or of the importer or exporter, or any person acting on their behalf;
+- **(7)** For the purposes of subsection (3), ***designated information*** means, in respect of a financial transaction, an attempted financial transaction or an importation or exportation of currency or monetary instruments,
+	- **(a)** the name of any person or entity that is involved in the transaction, attempted transaction, importation or exportation, or any person or entity acting on their behalf;
 	- **(b)** the name and address of the place of business where the transaction occurred or the address of the customs office where the importation or exportation occurred, and the date the transaction, importation or exportation occurred;
 	- **(c)** the amount and type of currency or monetary instruments involved or, in the case of a transaction, if no currency or monetary instruments are involved, the value of the transaction or the value of the funds that are the subject of the transaction;
-	- **(d)** in the case of a transaction, the transaction number and the account number, if any; and
-	- **(e)** any other similar identifying information that may be prescribed for the purposes of this section.
+	- **(d)** in the case of a transaction, the transaction number and the account number, if any;
+	- **(e)** the name, address, electronic mail address and telephone number of each partner, director or officer of an entity referred to in paragraph (a), and the address and telephone number of its principal place of business;
+	- **(f)** any other similar identifying information that may be prescribed for the purposes of this section;
+	- **(g)** the details of the criminal record of a person or entity referred to in paragraph (a) and any criminal charges laid against them that the Centre considers relevant in the circumstances;
+	- **(h)** the relationships suspected by the Centre on reasonable grounds to exist between any persons or entities referred to in paragraph (a) and any other persons or entities;
+	- **(i)** the financial interest that a person or entity referred to in paragraph (a) has in the entity on whose behalf the transaction was made or attempted, or on whose behalf the importation or exportation was made;
+	- **(j)** the name of the person or entity referred to in paragraph (a) suspected by the Centre on reasonable grounds to direct, either directly or indirectly, the transaction, attempted transaction, importation or exportation;
+	- **(k)** the grounds on which a person or entity made a report under section 7 about the transaction or attempted transaction and that the Centre considers relevant in the circumstances;
+	- **(l)** the number and types of reports on which a disclosure is based;
+	- **(m)** the number and categories of persons or entities that made those reports; and
+	- **(n)** indicators of a money laundering offence or a terrorist activity financing offence related to the transaction, attempted transaction, importation or exportation.
 > 2000, c. 17, s. 55; 2001, c. 12, s. 2, c. 27, s. 270, c. 41, ss. 67, 123; 2005, c. 38, s. 126; 2006, c. 12, s. 26.
 
 
@@ -1148,13 +1193,22 @@ the applicant is entitled to an order declaring that their interest or right is 
 
 **Definition of designated information**
 
-- **(3)** For the purposes of subsection (1), ***designated information*** means, in respect of a financial transaction or an importation or exportation of currency or monetary instruments,
-	- **(a)** the name of the client or of the importer or exporter, or any person or entity acting on their behalf;
+- **(3)** For the purposes of subsection (1), ***designated information*** means, in respect of a financial transaction, an attempted financial transaction or an importation or exportation of currency or monetary instruments,
+	- **(a)** the name of any person or entity that is involved in the transaction, attempted transaction, importation or exportation, or any person or entity acting on their behalf;
 	- **(b)** the name and address of the place of business where the transaction occurred or the address of the customs office where the importation or exportation occurred, and the date the transaction, importation or exportation occurred;
 	- **(c)** the amount and type of currency or monetary instruments involved or, in the case of a transaction, if no currency or monetary instruments are involved, the value of the transaction or the value of the funds that are the subject of the transaction;
-	- **(d)** in the case of a transaction, the transaction number and the account number, if any; and
-	- **(e)** any other similar identifying information that may be prescribed for the purposes of this section.
-> 2001, c. 41, s. 68.
+	- **(d)** in the case of a transaction, the transaction number and the account number, if any;
+	- **(e)** the name, address, electronic mail address and telephone number of each partner, director or officer of an entity referred to in paragraph (a), and the address and telephone number of its principal place of business;
+	- **(f)** any other similar identifying information that may be prescribed for the purposes of this section;
+	- **(g)** the details of the criminal record of a person or entity referred to in paragraph (a) and any criminal charges laid against them that the Centre considers relevant in the circumstances;
+	- **(h)** the relationships suspected by the Centre on reasonable grounds to exist between any persons or entities referred to in paragraph (a) and any other persons or entities;
+	- **(i)** the financial interest that a person or entity referred to in paragraph (a) has in the entity on whose behalf the transaction was made or attempted, or on whose behalf the importation or exportation was made;
+	- **(j)** the name of the person or entity referred to in paragraph (a) suspected by the Centre on reasonable grounds to direct, either directly or indirectly, the transaction, attempted transaction, importation or exportation;
+	- **(k)** the grounds on which a person or entity made a report under section 7 about the transaction or attempted transaction and that the Centre considers relevant in the circumstances;
+	- **(l)** the number and types of reports on which a disclosure is based;
+	- **(m)** the number and categories of persons or entities that made those reports; and
+	- **(n)** indicators of a money laundering offence or a terrorist activity financing offence related to the transaction, attempted transaction, importation or exportation.
+> 2001, c. 41, s. 68; 2006, c. 12, s. 27.
 
 
 
@@ -1207,14 +1261,23 @@ the applicant is entitled to an order declaring that their interest or right is 
 
 - **(4)** The Centre shall record in writing the reasons for all decisions to disclose information made under paragraph (1)(a) or (2)(a).
 
-**Definition of “designated information”**
+**Definition of designated information**
 
-- **(5)** For the purposes of this section, ***designated information*** means, in respect of a financial transaction or an importation or exportation of currency or monetary instruments,
-	- **(a)** the name of the client or of the importer or exporter, or any person or entity acting on their behalf;
+- **(5)** For the purposes of this section, ***designated information*** means, in respect of a financial transaction, an attempted financial transaction or an importation or exportation of currency or monetary instruments,
+	- **(a)** the name of any person or entity that is involved in the transaction, attempted transaction, importation or exportation, or any person or entity acting on their behalf;
 	- **(b)** the name and address of the place of business where the transaction occurred or the address of the customs office where the importation or exportation occurred, and the date the transaction, importation or exportation occurred;
 	- **(c)** the amount and type of currency or monetary instruments involved or, in the case of a transaction, if no currency or monetary instruments are involved, the value of the transaction or the value of the funds that are the subject of the transaction;
-	- **(d)** in the case of a transaction, the transaction number and the account number, if any; and
-	- **(e)** any other similar identifying information that may be prescribed for the purposes of this section.
+	- **(d)** in the case of a transaction, the transaction number and the account number, if any;
+	- **(e)** the name, address, electronic mail address and telephone number of each partner, director or officer of an entity referred to in paragraph (a), and the address and telephone number of its principal place of business;
+	- **(f)** any other similar identifying information that may be prescribed for the purposes of this section;
+	- **(g)** the details of the criminal record of a person or entity referred to in paragraph (a) and any criminal charges laid against them that the Centre considers relevant in the circumstances;
+	- **(h)** the relationships suspected by the Centre on reasonable grounds to exist between any persons or entities referred to in paragraph (a) and any other persons or entities;
+	- **(i)** the financial interest that a person or entity referred to in paragraph (a) has in the entity on whose behalf the transaction was made or attempted, or on whose behalf the importation or exportation was made;
+	- **(j)** the name of the person or entity referred to in paragraph (a) suspected by the Centre on reasonable grounds to direct, either directly or indirectly, the transaction, attempted transaction, importation or exportation;
+	- **(k)** the grounds on which a person or entity made a report under section 7 about the transaction or attempted transaction and that the Centre considers relevant in the circumstances;
+	- **(l)** the number and types of reports on which a disclosure is based;
+	- **(m)** the number and categories of persons or entities that made those reports; and
+	- **(n)** indicators of a money laundering offence or a terrorist activity financing offence related to the transaction, attempted transaction, importation or exportation.
 > 2001, c. 41, s. 68; 2006, c. 12, s. 28.
 
 
