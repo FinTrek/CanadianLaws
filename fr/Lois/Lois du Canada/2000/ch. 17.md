@@ -223,6 +223,38 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**9.2** [Non en vigueur]
+
+
+
+**9.3** [Non en vigueur]
+
+
+
+
+**Correspondant bancaire**
+
+**9.4** 
+
+- **(1)** Il incombe à toute entité visée aux alinéas 5a), b), d) et e) et à toute autre entité mentionnée à l’article 5 et visée par règlement de prendre les mesures ci-après avant d’établir avec une entité étrangère visée par règlement une relation de correspondant bancaire :
+	- **a)** obtenir les renseignements réglementaires concernant l’entité étrangère et ses activités;
+	- **b)** vérifier que l’entité étrangère n’est pas une banque fictive au sens des règlements;
+	- **c)** obtenir l’agrément de la haute direction;
+	- **d)** consigner leurs obligations et celles de l’entité étangère à l’égard des services de correspondant bancaire;
+	- **e)** prendre toutes autres mesures prévues par règlement.
+
+**Interdiction : banque fictive**
+
+- **(2)** Il est interdit d’établir une relation de correspondant bancaire avec une banque fictive au sens des règlements.
+
+**Définition de relation de correspondant bancaire**
+
+- **(3)** Pour l’application du présent article, ***relation de correspondant bancaire*** s’entend de la relation découlant de tout accord au titre duquel une entité visée aux alinéas 5a), b), d) et e) ou une autre entité mentionnée à l’article 5 et visée par règlement s’engage à fournir à une entité étrangère visée par règlement des services tels les télévirements internationaux, la gestion de trésorerie, la compensation de chèques et tout autre service prévu par règlement.
+> 2006, ch. 12, art. 8.
+
+
+
+
 
 **Immunité**
 
@@ -1099,10 +1131,12 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 
 - **(3)** S’il a des motifs raisonnables de soupçonner, à la lumière de son analyse et de son appréciation aux termes de l’alinéa 54c), qu’ils seraient utiles aux fins d’enquête ou de poursuite relativement à une infraction de recyclage des produits de la criminalité ou à une infraction de financement des activités terroristes, le Centre communique les renseignements désignés :
 	- **a)** aux forces policières compétentes;
-	- **b)** à l’Agence du revenu du Canada, s’il estime en outre que les renseignements se rapportent à une infraction, consommée ou non, d’évasion fiscale — y compris le non-paiement de droits — définie par une loi fédérale dont l’application relève du ministre du Revenu national;
+	- **b)** à l’Agence du revenu du Canada, si en outre il estime que les renseignements se rapportent à une infraction, consommée ou non, relative à l’obtention illicite d’un remboursement ou d’un crédit ou à l’évasion fiscale, y compris le non-paiement de droits, définie par une loi fédérale dont l’application relève du ministre du Revenu national;
 	- **b.1)** à l’Agence des services frontaliers du Canada, s’il estime en outre que les renseignements se rapportent à une infraction, consommée ou non, d’évasion fiscale — y compris le non-paiement de droits — définie par une loi fédérale dont l’application relève de l’Agence;
-	- **c)** [Abrogé, 2001, ch. 41, art. 67]
-	- **d)** à l’Agence des services frontaliers du Canada, s’il estime en outre que les renseignements sont utiles pour promouvoir l’objectif visé à l’alinéa 3(1)i) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) et pour déterminer si une personne est une personne visée aux articles 34 à 42 de cette loi ou se rapportent à une infraction prévue aux articles 117 à 119, 126 et 127 de cette loi.
+	- **c)** à l’Agence du revenu du Canada, si en outre il soupçonne, pour des motifs raisonnables, que les renseignements sont utiles pour établir si un organisme de bienfaisance enregistré au sens du paragraphe 248(1) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) a cessé de se conformer aux exigences de cette loi relatives à son enregistrement comme tel ou pour établir l’admissibilité au statut d’organisme de bienfaisance enregistré au sens de ce paragraphe de toute personne ou entité qu’il soupçonne, pour des motifs raisonnables, d’avoir fait une demande d’enregistrement à cet effet;
+	- **d)** à l’Agence des services frontaliers du Canada, si en outre il estime que les renseignements sont utiles pour établir si une personne est visée aux articles 34 à 42 de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) ou qu’ils se rapportent à une infraction prévue aux articles 117 à 119, 126 et 127 de cette loi;
+	- **e)** à l’Agence des services frontaliers du Canada, si en outre il estime que les renseignements sont utiles aux fins d’enquête ou de poursuite relativement à une infraction qui consiste dans la contrebande — ou la tentative de contrebande — de marchandises passibles de droits ou à une infraction qui a trait à des marchandises dont l’importation est prohibée, contrôlée ou réglementée en vertu de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md) ou de toute autre loi fédérale;
+	- **f)** au Centre de la sécurité des télécommunications, si en outre il estime que les renseignements concernent le mandat de ce centre visé à l’alinéa 273.64(1)a) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md).
 
 **Exception**
 
@@ -1118,14 +1152,23 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 
 - **(6)** Une personne peut communiquer des renseignements visés au paragraphe (1) si cela est nécessaire pour l’exercice des attributions qui lui sont conférées sous le régime de la présente partie.
 
-**Définition de « renseignements désignés »**
+**Définition de renseignements désignés**
 
-- **(7)** Pour l’application du paragraphe (3), ***renseignements désignés*** s’entend, relativement à des opérations financières ou à l’importation ou l’exportation d’espèces ou d’effets, des renseignements suivants :
-	- **a)** le nom du client ou de l’importateur ou exportateur des espèces ou effets, ou de toute personne agissant pour son compte;
+- **(7)** Pour l’application du paragraphe (3), ***renseignements désignés*** s’entend, relativement à toute opération financière effectuée ou tentée ou à l’importation ou à l’exportation d’espèces ou d’effets, des renseignements suivants :
+	- **a)** le nom de toute personne ou entité qui participe à l’opération financière, à l’importation ou à l’exportation ou de toute personne ou entité agissant pour son compte;
 	- **b)** le nom et l’adresse du bureau où l’opération est effectuée et la date où elle a été effectuée, ou l’adresse du bureau de douane où les espèces ou effets sont importés ou exportés, ainsi que la date de leur importation ou exportation;
 	- **c)** la valeur et la nature des espèces ou effets ou, dans le cas d’une opération dans laquelle il n’y a pas d’espèce ou d’effet en cause, la valeur de l’opération ou celle des fonds sur lesquels porte l’opération;
 	- **d)** le numéro de l’opération effectuée et le numéro de compte, s’il y a lieu;
-	- **e)** tout autre renseignement identificateur analogue désigné par règlement pour l’application du présent article.
+	- **e)** les nom, adresse, adresse électronique et numéro de téléphone des associés, administrateurs et dirigeants de l’entité visée à l’alinéa a), ainsi que les adresse et numéro de téléphone du principal établissement de celle-ci;
+	- **f)** tout renseignement identificateur analogue désigné par règlement pour l’application du présent article;
+	- **g)** les détails du casier judiciaire de toute personne ou entité visée à l’alinéa a) et des accusations criminelles portée contre elle que le Centre estime pertinents en l’occurrence;
+	- **h)** les liens dont le Centre a des motifs raisonnables de soupçonner l’existence entre toute personne ou entité visée à l’alinéa a) et toute autre personne ou entité;
+	- **i)** les intérêts financiers que toute personne ou entité visée à l’alinéa a) a dans l’entité pour laquelle a été effectuée ou tentée l’opération financière, ou a été effectuée l’importation ou l’exportation;
+	- **j)** le nom de toute personne ou entité visée à l’alinéa a) que le Centre soupçonne, pour des motifs raisonnables, de diriger, directement ou indirectement, l’opération financière, l’importation ou l’exportation;
+	- **k)** les motifs sur lesquels une personne ou entité s’est fondée pour faire une déclaration visée à l’article 7 relative à l’opération financière et que le Centre estime utiles en l’occurrence;
+	- **l)** le nombre et les types de déclarations sur lesquelles une communication est fondée;
+	- **m)** le nombre et les catégories de personnes ou entités ayant fait ces déclarations;
+	- **n)** les indices de toute infraction de recyclage des produits de la criminalité ou d’infraction de financement des activités terroristes entachant l’opération financière, l’importation ou l’exportation.
 > 2000, ch. 17, art. 55; 2001, ch. 12, art. 2, ch. 27, art. 270, ch. 41, art. 67 et 123; 2005, ch. 38, art. 126; 2006, ch. 12, art. 26.
 
 
@@ -1142,15 +1185,24 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 
 - **(2)** Le Centre consigne les motifs à l’appui de chaque décision de communiquer des renseignements en application du paragraphe (1).
 
-**Définition de « renseignements désignés »**
+**Définition de renseignements désignés**
 
-- **(3)** Pour l’application du paragraphe (1), ***renseignements désignés*** s’entend, relativement à des opérations financières ou à l’importation ou l’exportation d’espèces ou d’effets, des renseignements suivants :
-	- **a)** le nom du client ou de l’importateur ou exportateur des espèces ou effets, ou de toute personne ou entité agissant pour son compte;
+- **(3)** Pour l’application du paragraphe (1), ***renseignements désignés*** s’entend, relativement à toute opération financière effectuée ou tentée ou à l’importation ou l’exportation d’espèces ou d’effets, des renseignements suivants :
+	- **a)** le nom de toute personne ou entité qui participe à l’opération financière, à l’importation ou à l’exportation ou de toute personne ou entité agissant pour son compte;
 	- **b)** le nom et l’adresse du bureau où l’opération est effectuée et la date où elle a été effectuée, ou l’adresse du bureau de douane où les espèces ou effets sont importés ou exportés, ainsi que la date de leur importation ou exportation;
 	- **c)** la valeur et la nature des espèces ou effets ou, dans le cas d’une opération dans laquelle il n’y a pas d’espèce ou d’effet en cause, la valeur de l’opération ou celle des fonds sur lesquels porte l’opération;
 	- **d)** le numéro de l’opération effectuée et le numéro de compte, s’il y a lieu;
-	- **e)** tout autre renseignement identificateur analogue désigné par règlement pour l’application du présent article.
-> 2001, ch. 41, art. 68.
+	- **e)** les nom, adresse, adresse électronique et numéro de téléphone des associés, administrateurs et dirigeants de l’entité visée à l’alinéa a), ainsi que les adresse et numéro de téléphone du principal établissement de celle-ci;
+	- **f)** tout renseignement identificateur analogue désigné par règlement pour l’application du présent article;
+	- **g)** les détails du casier judiciaire de toute personne ou entité visée à l’alinéa a) et des accusations criminelles portées contre elle que le Centre estime pertinents en l’occurrence;
+	- **h)** les liens dont le Centre a des motifs raisonnables de soupçonner l’existence entre toute personne ou entité visée à l’alinéa a) et toute autre personne ou entité;
+	- **i)** les intérêts financiers que toute personne ou entité visée à l’alinéa a) a dans l’entité pour laquelle a été effectuée ou tentée l’opération financière, ou a été effectuée l’importation ou l’exportation;
+	- **j)** le nom de toute personne ou entité visée à l’alinéa a) que le Centre soupçonne, pour des motifs raisonnables, de diriger, directement ou indirectement, l’opération financière, l’importation ou l’exportation;
+	- **k)** les motifs sur lesquels une personne ou entité s’est fondée pour faire une déclaration visée à l’article 7 relative à l’opération financière et que le Centre estime utiles en l’occurrence;
+	- **l)** le nombre et les types de déclarations sur lesquelles une communication est fondée;
+	- **m)** le nombre et les catégories de personnes ou entités ayant fait ces déclarations;
+	- **n)** les indices de toute infraction de recyclage des produits de la criminalité ou d’infraction de financement des activités terroristes entachant l’opération financière, l’importation ou l’exportation.
+> 2001, ch. 41, art. 68; 2006, ch. 12, art. 27.
 
 
 
@@ -1203,14 +1255,23 @@ Le ministre des Travaux publics et des Services gouvernementaux, dès qu’il en
 
 - **(4)** Le Centre consigne les motifs à l’appui de chaque décision de communiquer des renseignements en application des alinéas (1)a) et (2)a).
 
-**Définition de « renseignements désignés »**
+**Définition de renseignements désignés**
 
-- **(5)** Pour l’application du présent article, ***renseignements désignés*** s’entend, relativement à des opérations financières ou à l’importation ou l’exportation d’espèces ou d’effets, des renseignements suivants :
-	- **a)** le nom du client ou de l’importateur ou exportateur des espèces ou effets, ou de toute personne ou entité agissant pour son compte;
+- **(5)** Pour l’application du présent article, ***renseignements désignés*** s’entend, relativement à toute opération financière effectuée ou tentée ou à l’importation ou à l’exportation d’espèces ou d’effets, des renseignements suivants :
+	- **a)** le nom de toute personne ou entité qui participe à l’opération financière, à l’importation ou à l’exportation ou de toute personne ou entité agissant pour son compte;
 	- **b)** le nom et l’adresse du bureau où l’opération est effectuée et la date où elle a été effectuée, ou l’adresse du bureau de douane où les espèces ou effets sont importés ou exportés, ainsi que la date de leur importation ou exportation;
 	- **c)** la valeur et la nature des espèces ou effets ou, dans le cas d’une opération dans laquelle il n’y a pas d’espèce ou d’effet en cause, la valeur de l’opération ou celle des fonds sur lesquels porte l’opération;
 	- **d)** le numéro de l’opération effectuée et le numéro de compte, s’il y a lieu;
-	- **e)** tout autre renseignement identificateur analogue désigné par règlement pour l’application du présent article.
+	- **e)** les nom, adresse, adresse électronique et numéro de téléphone des associés, administrateurs et dirigeants de l’entité visée à l’alinéa a), ainsi que les adresse et numéro de téléphone du principal établissement de celle-ci;
+	- **f)** tout renseignement identificateur analogue désigné par règlement pour l’application du présent article;
+	- **g)** les détails du casier judiciaire de toute personne ou entité visée à l’alinéa a) et des accusations criminelles portée contre elle que le Centre estime pertinents en l’occurrence;
+	- **h)** les liens dont le Centre a des motifs raisonnables de soupçonner l’existence entre toute personne ou entité visée à l’alinéa a) et toute autre personne ou entité;
+	- **i)** les intérêts financiers que toute personne ou entité visée à l’alinéa a) a dans l’entité pour laquelle a été effectuée ou tentée l’opération financière, ou a été effectuée l’importation ou l’exportation;
+	- **j)** le nom de toute personne ou entité visée à l’alinéa a) que le Centre soupçonne, pour des motifs raisonnables, de diriger, directement ou indirectement, l’opération financière, l’importation ou l’exportation;
+	- **k)** les motifs sur lesquels une personne ou entité s’est fondée pour faire une déclaration visée à l’article 7 relative à l’opération financière et que le Centre estime utiles en l’occurrence;
+	- **l)** le nombre et les types de déclarations sur lesquelles une communication est fondée;
+	- **m)** le nombre et les catégories de personnes ou entités ayant fait ces déclarations;
+	- **n)** les indices de toute infraction de recyclage des produits de la criminalité ou d’infraction de financement des activités terroristes entachant l’opération financière, l’importation ou l’exportation.
 > 2001, ch. 41, art. 68; 2006, ch. 12, art. 28.
 
 
