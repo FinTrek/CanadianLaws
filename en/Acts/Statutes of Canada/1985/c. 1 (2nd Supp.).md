@@ -780,17 +780,19 @@ may not be seized as forfeit under this Act by reason only that they were not re
 
 **Report of wreck and liability for duties**
 
-- **(2)** Where any wreck that has come into Canada from outside Canada is delivered up to the owner thereof or his agent pursuant to section 441 of the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md), the owner of the wreck
+- **(2)** If any wreck that has come into Canada from outside Canada is released to a person under section 158 of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md), that person
 	- **(a)** shall forthwith report the delivery to an officer; and
 	- **(b)** is, from the time of the delivery, liable for all duties thereon calculated at the rates applicable to the wreck at the time of the delivery.
 
-**Definition of “wreck”**
+**Definition of wreck**
 
 - **(3)** In this section, ***wreck*** includes
 	- **(a)** jetsam, flotsam, lagan and derelict found in, or on the shores of, the sea, any tidal water, or any of the inland waters;
 	- **(b)** cargo, stores and tackle of any vessel and of all parts of the vessel separated therefrom;
 	- **(c)** the property of shipwrecked persons; and
 	- **(d)** any wrecked aircraft or any part thereof and cargo thereof.
+> R.S., 1985, c. 1 (2nd Supp.), s. 16; 2001, c. 26, s. 299.
+
 
 
 
