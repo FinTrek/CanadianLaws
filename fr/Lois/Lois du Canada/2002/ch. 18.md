@@ -380,18 +380,18 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** Les règlements visés au présent article qui ont trait à la gestion et à la protection des pêches ou qui limitent ou interdisent la pêche ou l’aquaculture sont pris sur la recommandation du ministre et du ministre des Pêches et des Océans.
 
-**Navigation et sécurité maritimes**
+**Navigation maritime**
 
-- **(3)** Les règlements visés au présent article qui limitent ou interdisent la navigation maritime ou les activités liées à la sécurité maritime sont pris sur la recommandation du ministre et du ministre des Transports.
+- **(3)** Les règlements visés au présent article qui limitent ou interdisent la navigation maritime ou les activités liées à la sécurité maritime, dans la mesure où ils peuvent être pris sur la recommandation du ministre des Transports sous le régime de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md) ou la [Loi sur la prévention de la pollution des eaux arctiques](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-12.md), ne peuvent être pris que sur la recommandation du ministre et du ministre des Transports.
 
 **Navigation aérienne**
 
-- **(4)** Les règlements visés à l’alinéa (1) j) qui limitent ou interdisent la navigation aérienne sont pris sur la recommandation du ministre et du ministre des Transports.
+- **(4)** Les règlements visés à l’alinéa (1)j) qui limitent ou interdisent la navigation aérienne sont pris sur la recommandation du ministre et du ministre des Transports.
 
 **Incompatibilité**
 
-- **(5)** Les règlements visés aux paragraphes (2), (3) et (4) l’emportent sur les règlements incompatibles pris sous le régime de la [Loi sur les pêches](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-14.md), la [Loi sur la protection des pêches côtières](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-33.md), la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md), la [Loi sur la prévention de la pollution des eaux arctiques](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-12.md), la Loi sur la protection des eaux navigables ou la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md).
-> 2002, ch. 18, art. 16; 2005, ch. 29, art. 35.
+- **(5)** Les règlements visés aux paragraphes (2), (3) et (4) l’emportent sur les règlements incompatibles pris sous le régime de la [Loi sur les pêches](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-14.md), la [Loi sur la protection des pêches côtières](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-33.md), la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md), la [Loi sur la prévention de la pollution des eaux arctiques](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-12.md), la Loi sur la protection des eaux navigables ou la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md).
+> 2002, ch. 18, art. 16; 2001, ch. 26, art. 322; 2005, ch. 29, art. 35.
 
 
 
@@ -597,7 +597,9 @@ Les gardes d’aire marine de conservation sont, pour l’exercice de ces foncti
 
 **Exception**
 
-- **(4)** Le ministre ne peut ordonner la prise de mesures de prévention ou d’atténuation dans le cadre du paragraphe (2) si de telles mesures peuvent être prises sous le régime de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md), la [Loi sur la prévention de la pollution des eaux arctiques](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-12.md) ou la [Loi canadienne sur la protection de l’environnement (1999)](/fr/Lois/Lois%20du%20Canada/1999/ch.%2033.md).
+- **(4)** Le ministre ne peut ordonner la prise de mesures de prévention ou d’atténuation dans le cadre du paragraphe (2) si de telles mesures peuvent être prises sous le régime de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md), la [Loi sur la prévention de la pollution des eaux arctiques](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-12.md) ou la [Loi canadienne sur la protection de l’environnement (1999)](/fr/Lois/Lois%20du%20Canada/1999/ch.%2033.md).
+> 2002, ch. 18, art. 29; 2001, ch. 26, art. 322.
+
 
 
 
