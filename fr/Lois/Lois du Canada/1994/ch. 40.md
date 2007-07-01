@@ -39,44 +39,44 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-  ***agent de contrôle*** Toute personne désignée à ce titre par le ministre en vertu de l'article 19.1 pour l'application de la présente loi.
+  ***agent de contrôle*** Toute personne désignée à ce titre par le ministre en vertu de l’article 19.1 pour l’application de la présente loi. (*screening officer*)
 
-***bâtiment*** Tout type de navire ou d’embarcation pouvant servir à la navigation maritime, ainsi que tout élévateur flottant, hydravion, radeau, aéroglisseur, drague, habitation flottante, plate-forme de forage pétrolier ou digue de billes ou de bois, indépendamment de leur mode de propulsion. 
+***bâtiment*** Tout type de navire ou d’embarcation pouvant servir à la navigation maritime, ainsi que tout élévateur flottant, hydravion, radeau, aéroglisseur, drague, habitation flottante, plate-forme de forage pétrolier ou digue de billes ou de bois, indépendamment de leur mode de propulsion.  (*vessel*)
 
-***bien*** Toute chose pouvant être apportée ou placée à bord d’un bâtiment, notamment comme effet personnel, bagage ou fret. 
+***bien*** Toute chose pouvant être apportée ou placée à bord d’un bâtiment, notamment comme effet personnel, bagage ou fret.  (*goods*)
 
-French version only  ***conseiller*** Membre du Tribunal.
+  ***conseiller*** Membre du Tribunal. (***French version only***)
 
-***contrôle*** Ensemble des actes autorisés ou exigés en vertu des règlements ou des mesures ou règles de sûreté pour la vérification, la surveillance, l’inspection et la visite des personnes ou des biens en vue de prévenir la possession et le transport non autorisés d’armes, d’explosifs ou d’engins incendiaires à bord d’un bâtiment ou dans une installation maritime. 
+***contrôle*** Ensemble des actes autorisés ou exigés en vertu des règlements ou des mesures ou règles de sûreté pour la vérification, la surveillance, l’inspection et la visite des personnes ou des biens en vue de prévenir la possession et le transport non autorisés d’armes, d’explosifs ou d’engins incendiaires à bord d’un bâtiment ou dans une installation maritime.  (*authorized screening*)
 
-***exploitant*** Le propriétaire réel d’un bâtiment non immatriculé et le propriétaire enregistré d’un bâtiment immatriculé, le capitaine et toute autre personne, à l’exclusion du pilote, ayant le commandement ou la direction d’un bâtiment, ainsi que toute personne ayant la direction, la gestion ou le contrôle d’une installation maritime pour son propre compte ou pour le compte d’autrui. Sont assimilés à l’exploitant d’un bâtiment la personne possédant un intérêt bénéficiaire sur celui-ci — notamment un intérêt découlant d’un contrat ou un autre intérêt en equity, né autrement que par voie d’hypothèque —, son locataire et l’affréteur responsable de sa navigation. 
+***exploitant*** Le propriétaire réel d’un bâtiment non immatriculé et le propriétaire enregistré d’un bâtiment immatriculé, le capitaine et toute autre personne, à l’exclusion du pilote, ayant le commandement ou la direction d’un bâtiment, ainsi que toute personne ayant la direction, la gestion ou le contrôle d’une installation maritime pour son propre compte ou pour le compte d’autrui. Sont assimilés à l’exploitant d’un bâtiment la personne possédant un intérêt bénéficiaire sur celui-ci — notamment un intérêt découlant d’un contrat ou un autre intérêt en equity, né autrement que par voie d’hypothèque —, son locataire et l’affréteur responsable de sa navigation.  (*operator*)
 
-***inspecteur*** Toute personne désignée à ce titre par le ministre en vertu de l’article 22 pour l’application de la présente loi. 
+***inspecteur*** Toute personne désignée à ce titre par le ministre en vertu de l’article 22 pour l’application de la présente loi.  (*security inspector*)
 
-***installation maritime*** S’entend notamment : 
-- **a) ** de tout terrain, plan d’eau ou de glace servant — ou conçu, aménagé, équipé ou réservé pour servir —, en tout ou en partie, aux mouvements ainsi qu’à l’entretien et à la révision des bâtiments;
-- **b) ** des installations qui y sont situées, leur sont rattachées ou sont utilisées ou réservées pour la manutention ou l’entreposage des biens transportés par bâtiment ou destinés à l’être;
-- **c) ** de l’équipement et des installations destinés à fournir des services liés au transport maritime;
-- **d) ** des ouvrages en mer au sens de l’article 2 de la  Loi sur l’application extracôtière des lois canadiennes.
+***installation maritime*** S’entend notamment : 
+- **a)** de tout terrain, plan d’eau ou de glace servant — ou conçu, aménagé, équipé ou réservé pour servir —, en tout ou en partie, aux mouvements ainsi qu’à l’entretien et à la révision des bâtiments;
+- **b)** des installations qui y sont situées, leur sont rattachées ou sont utilisées ou réservées pour la manutention ou l’entreposage des biens transportés par bâtiment ou destinés à l’être;
+- **c)** de l’équipement et des installations destinés à fournir des services liés au transport maritime;
+- **d)** des ouvrages en mer au sens de l’article 2 de la Loi sur l’application extracôtière des lois canadiennes. (*marine facility*)
 
-***mesure de sûreté*** Mesure établie par le ministre en vertu de l’article 7. 
+***mesure de sûreté*** Mesure établie par le ministre en vertu de l’article 7.  (*security measure*)
 
-***ministre*** Le ministre des Transports. 
+***ministre*** Le ministre des Transports.  (*Minister*)
 
-***navire canadien*** Navire immatriculé au Canada sous le régime de la  [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md) ou, avant le 1 <sup>er</sup> août 1936, de la loi intitulée  Merchant Shipping Act, 1894 du Parlement du Royaume-Uni, 57-58 Victoria, chapitre 60, et de toutes les lois qui ajoutent à cette loi ou la modifient. 
+***navire canadien*** Bâtiment immatriculé au Canada sous le régime de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md)  ou, avant le 1<sup>er</sup>  août 1936, de la loi intitulée Merchant Shipping Act, 1894  du Parlement du Royaume-Uni, 57-58 Victoria, chapitre 60, et de toutes les lois qui ajoutent à cette loi ou la modifient. (*Canadian ship*)
 
-***règle de sûreté*** Règle approuvée par le ministre en vertu de l’article 10. 
+***règle de sûreté*** Règle approuvée par le ministre en vertu de l’article 10.  (*security rule*)
 
-***règle de sûreté proposée*** Règle soumise à l’approbation du ministre en vertu de l’article 10. 
+***règle de sûreté proposée*** Règle soumise à l’approbation du ministre en vertu de l’article 10.  (*proposed security rule*)
 
-  ***Tribunal*** Le Tribunal d'appel des transports du Canada constitué par le paragraphe 2(1) de la  Loi sur le Tribunal d'appel des transports du Canada .
+  ***Tribunal*** Le Tribunal d’appel des transports du Canada constitué par le paragraphe 2(1) de la [Loi sur le Tribunal d’appel des transports du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2029.md) . (*Tribunal*)
 
-***zone réglementée*** Toute zone établie en vertu des règlements ou des mesures ou règles de sûreté dont l’accès est réservé aux personnes autorisées. 
+***zone réglementée*** Toute zone établie en vertu des règlements ou des mesures ou règles de sûreté dont l’accès est réservé aux personnes autorisées.  (*restricted area*)
 
 **Délégation par le ministre**
 
 - **(2)** Le ministre peut déléguer à toute personne ayant la compétence voulue au sein du ministère des Transports l’exercice des attributions que lui confère la présente loi. Le cas échéant, la mention du terme « ministre » vaut également pour le délégué.
-> 1994, ch. 40, art. 2; 2001, ch. 29, art. 55.
+> 1994, ch. 40, art. 2; 2001, ch. 26, art. 306, ch. 29, art. 55.
 
 
 
