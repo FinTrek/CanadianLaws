@@ -8913,11 +8913,11 @@ il a été procédé à l’enregistrement ou au dépôt, au bureau d’enregist
 
 **Garantie sur des bateaux de pêche**
 
-- **(5)** Les droits de la banque qui a, sous le régime de l’alinéa 427(1)o), reçu une garantie portant sur un bateau de pêche inscrit, enregistré ou immatriculé conformément à la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md) ou au *Code maritime*, chapitre 41 des Statuts du Canada de 1977-78, ne priment pas les droits subséquemment acquis sur le bateau, inscrits et enregistrés sous le régime de cette loi ou de ce Code, à moins qu’une copie de l’acte de garantie, certifiée conforme par un dirigeant de la banque, n’ait été préalablement inscrite ou enregistrée selon la loi ou le Code.
+- **(5)** Les droits de la banque qui a, sous le régime de l’alinéa 427(1)o), reçu une garantie portant sur un bateau de pêche inscrit, enregistré ou immatriculé conformément à la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md) ne priment pas les droits subséquemment acquis sur le bateau, inscrits et enregistrés sous le régime de cette loi, à moins qu’une copie de l’acte de garantie, certifiée conforme par un dirigeant de la banque, n’ait été préalablement inscrite ou enregistrée selon cette loi.
 
-**Idem**
+**Garantie sur des bateaux de pêche**
 
-- **(6)** Une copie de l’acte de garantie, certifiée par un dirigeant de la banque, peut être inscrite ou enregistrée aux termes de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md) ou du *Code maritime*, chapitre 41 des Statuts du Canada de 1977-78, comme s’il s’agissait d’une hypothèque consentie sous le régime de cette loi ou de ce Code; et dès l’inscription ou l’enregistrement de cette copie, la banque, en plus des autres droits qui lui sont conférés et sans qu’il y soit porté atteinte, possède sur le bateau tous les droits qu’elle aurait eus s’il s’était agi d’une hypothèque inscrite ou enregistrée sous le régime de cette loi ou de ce Code.
+- **(6)** Une copie de l’acte de garantie, certifiée par un dirigeant de la banque, peut être inscrite ou enregistrée aux termes de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md) comme s’il s’agissait d’une hypothèque consentie sous le régime de cette loi; et dès l’inscription ou l’enregistrement de cette copie, la banque, en plus des autres droits qui lui sont conférés et sans qu’il y soit porté atteinte, possède sur le bateau tous les droits qu’elle aurait eus s’il s’était agi d’une hypothèque inscrite ou enregistrée sous le régime de cette loi.
 
 **Vente des biens en cas de non-paiement de la dette**
 
@@ -8957,6 +8957,8 @@ Le produit d’une vente de bétail, déduction faite des frais engagés par la 
 **La banque peut céder ses droits**
 
 - **(14)** La banque peut céder tout ou partie de ses droits sur les biens affectés à une garantie qui lui a été donnée aux termes des alinéas 427(1)i), j), k), l), m), n), o) ou p); le cessionnaire possède les droits que la garantie conférait à la banque.
+> 1991, ch. 46, art. 428; 2001, ch. 26, art. 275.
+
 
 
 
