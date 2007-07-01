@@ -2679,17 +2679,17 @@ Cette obligation ne vaut pas dans le cas où la personne en question sait de fa�
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente section et à la partie 10.
 
-***aéronef*** Tout appareil utilisé ou conçu pour la navigation aérienne, à l’exclusion des aéroglisseurs.
+***aéronef*** Tout appareil utilisé ou conçu pour la navigation aérienne, à l’exclusion des aéroglisseurs. (*aircraft*)
 
-***aéronef canadien*** Aéronef immatriculé en application d’une loi fédérale.
+***aéronef canadien*** Aéronef immatriculé en application d’une loi fédérale. (*Canadian aircraft*)
 
-***capitaine*** La personne ayant la direction ou le commandement d’un navire. Est exclu de la présente définition le pilote breveté, au sens de l’article 2 de la [Loi sur le pilotage](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-14.md).
+***capitaine*** La personne ayant la direction ou le commandement d’un navire. Est exclu de la présente définition le pilote breveté, au sens de l’article 1.1 de la [Loi sur le pilotage](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-14.md). (*master*)
 
-***Convention*** La Convention sur la prévention de la pollution des mers résultant de l’immersion de déchets, signée par le Canada le 29 décembre 1972, avec ses modifications successives.
+***Convention*** La Convention sur la prévention de la pollution des mers résultant de l’immersion de déchets, signée par le Canada le 29 décembre 1972, avec ses modifications successives. (*Convention*)
 
-***déchets ou autres matières*** Les déchets et autres matières énumérés à l’annexe 5.
+***déchets ou autres matières*** Les déchets et autres matières énumérés à l’annexe 5. (*waste or other matter*)
 
-***immersion*** Selon le cas :
+***immersion*** Selon le cas :
 - **a)** l’élimination en mer de substances provenant de navires, d’aéronefs, de plates-formes ou d’autres ouvrages;
 - **b)** l’élimination en mer de matières draguées provenant de toute autre source;
 - **c)** l’entreposage sur le fond des mers, ainsi que dans leur sous-sol, ou sur les glaces de substances provenant de navires, d’aéronefs, de plates-formes ou d’autres ouvrages;
@@ -2702,21 +2702,21 @@ Sont toutefois exclus :
 - **h)** l’élimination de substances résultant directement ou indirectement de l’utilisation normale d’un navire, d’un aéronef, d’une plate-forme ou d’un autre ouvrage — ou de leur équipement —, sauf l’élimination de substances effectuée à partir d’un tel ouvrage ou équipement lorsque celui-ci est affecté à cette fin;
 - **i)** le placement de substances à des fins autres que leur simple élimination sous réserve qu’un tel placement ne soit pas incompatible avec l’objet de la présente section et de la Convention ou du Protocole;
 - **j)** l’abandon de câbles, de pipelines, d’appareils de recherche ou d’autres objets placés sur le fond des mers, ainsi que dans leur sous-sol, à des fins autres que leur simple élimination;
-- **k)** le rejet ou l’entreposage de déchets et autres matières résultant directement de l’exploration, de l’exploitation et du traitement en mer des ressources minérales du fond des mers.
+- **k)** le rejet ou l’entreposage de déchets et autres matières résultant directement de l’exploration, de l’exploitation et du traitement en mer des ressources minérales du fond des mers. (*disposal*)
 
-***incinération*** La combustion de substances pour destruction thermique à bord d’un navire, d’une plate-forme ou d’un autre ouvrage en mer.
+***incinération*** La combustion de substances pour destruction thermique à bord d’un navire, d’une plate-forme ou d’un autre ouvrage en mer. (*incineration*)
 
-***navire*** Tout genre de bâtiment, bateau ou embarcation conçu, utilisé ou utilisable, exclusivement ou non, pour la navigation maritime, autopropulsé ou non et indépendamment de son mode de propulsion, ainsi qu’un aéroglisseur.
+***navire*** Tout genre de bâtiment, bateau ou embarcation conçu, utilisé ou utilisable, exclusivement ou non, pour la navigation maritime, autopropulsé ou non et indépendamment de son mode de propulsion, ainsi qu’un aéroglisseur. (*ship*)
 
-***navire canadien*** Navire immatriculé en application d’une loi fédérale.
+***navire canadien*** Navire immatriculé en application d’une loi fédérale. (*Canadian ship*)
 
-***partie contractante*** État partie à la Convention ou au Protocole.
+***partie contractante*** État partie à la Convention ou au Protocole. (*contracting party*)
 
-***permis canadien*** Permis délivré au titre des paragraphes 127(1) ou 128(2).
+***permis canadien*** Permis délivré au titre des paragraphes 127(1) ou 128(2). (*Canadian permit*)
 
-***propriétaire*** S’entend notamment de quiconque a, de droit ou par contrat, la possession ou l’utilisation d’un navire, d’un aéronef, d’une plate-forme ou de tout autre ouvrage.
+***propriétaire*** S’entend notamment de quiconque a, de droit ou par contrat, la possession ou l’utilisation d’un navire, d’un aéronef, d’une plate-forme ou de tout autre ouvrage. (*owner*)
 
-***Protocole*** Le Protocole de 1996 à la Convention sur la prévention de la pollution des mers résultant de l’immersion de déchets de 1972, avec ses modifications successives.
+***Protocole*** Le Protocole de 1996 à la Convention sur la prévention de la pollution des mers résultant de l’immersion de déchets de 1972, avec ses modifications successives. (*Protocol*)
 
 **Définition de mer**
 
@@ -2730,7 +2730,7 @@ Sont toutefois exclus :
 	- **e)** l’espace maritime, réglementé en application de l’alinéa 135(1)g), contigu aux espaces visés aux alinéas a) à d);
 	- **f)** les espaces maritimes relevant de la souveraineté d’un État étranger, à l’exclusion des eaux intérieures;
 	- **g)** les espaces maritimes, à l’exclusion des eaux intérieures d’un État étranger, non compris dans l’espace visé aux alinéas a) à f).
-> 1999, ch. 33, art. 122; 2005, ch. 23, art. 18.
+> 1999, ch. 33, art. 122; 2005, ch. 23, art. 18 et 49.
 
 
 
@@ -2843,8 +2843,8 @@ Sont toutefois exclus :
 
 **Exception**
 
-- **(6)** Le présent article ne s’applique pas aux immersions permises sous le régime de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md).
-> 1999, ch. 33, art. 125; 2005, ch. 23, art. 22.
+- **(6)** Le présent article ne s’applique pas aux immersions permises sous le régime de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md).
+> 1999, ch. 33, art. 125; 2005, ch. 23, art. 22 et 50.
 
 
 
@@ -4870,16 +4870,16 @@ Sont toutefois exclus :
 **216.1** 
 
 - **(1)** Pour l’application des paragraphes 217(6), 218(16) et (17) et 220(5.1) et de l’article 275.1, l’expression ***navire autre qu’un navire canadien*** ne vise pas le navire :
-	- **a)** qui n’est immatriculé, enregistré ou muni d’un permis ni sous le régime de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md) ni aux termes d’une loi d’un autre État, pourvu que chacune des personnes auxquelles il appartient réponde à l’une des conditions suivantes :
+	- **a)** qui n’est immatriculé, enregistré ou muni d’un permis ni sous le régime de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md) ni aux termes d’une loi d’un autre État, pourvu que chacune des personnes auxquelles il appartient réponde à l’une des conditions suivantes :
 		- **(i)** elle a la citoyenneté canadienne,
-		- **(ii)** dans le cas d’un navire qui n’est pas assujetti à l’immatriculation, à l’enregistrement ou à la délivrance d’un permis sous le régime de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md), elle est domiciliée au Canada et y réside de fait,
+		- **(ii)** dans le cas d’un navire qui n’est pas assujetti à l’immatriculation, à l’enregistrement ou à la délivrance d’un permis sous le régime de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md), elle est domiciliée au Canada et y réside de fait,
 		- **(iii)** s’agissant d’une personne morale, elle a été constituée sous le régime d’une loi fédérale ou provinciale et a son principal établissement au Canada;
-	- **b)** qui n’est pas immatriculé, enregistré ou muni d’un permis sous le régime de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md) et qui appartient à Sa Majesté du chef du Canada ou est exploité par elle.
+	- **b)** qui n’est pas immatriculé, enregistré ou muni d’un permis sous le régime de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md) et qui appartient à Sa Majesté du chef du Canada ou est exploité par elle.
 
 **Définition de commis dans le cadre de l’application de la présente loi**
 
 - **(2)** Pour l’application des paragraphes 217(4), 271.1(2), des articles 275.1 et 278.1 et des paragraphes 279(1) et (3), l’expression ***commis dans le cadre de l’application de la présente loi*** signifie commis à l’endroit de toute personne exerçant des fonctions ou des pouvoirs au titre de la présente loi ou de toute personne agissant sous sa direction ou son autorité ou par l’une ou l’autre de ces personnes.
-> 2005, ch. 23, art. 29.
+> 2005, ch. 23, art. 29 et 51.
 
 
 
@@ -5979,10 +5979,7 @@ L’avis de l’agent de l’autorité doit être fondé sur des motifs raisonna
 
 
 
-
-**Interprétation du par. 389(5) de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md)**
-
-**277** Le paragraphe 389(5) de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md) n’a pas pour effet de dégager quiconque de sa responsabilité sous le régime de la présente loi.
+**277** [Abrogé, 2001, ch. 26, art. 283]
 
 
 
