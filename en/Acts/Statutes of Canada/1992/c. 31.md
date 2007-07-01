@@ -41,9 +41,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***Agency*** means the Canadian Transportation Agency;
 
-***Canadian ship*** means a ship
-- **(a)** registered under Part I of the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md) and in respect of which all duties and taxes imposed under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) and the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) have been paid, or
-- **(b)** built in Canada and not required or entitled to be registered under Part I of the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md);
+***Canadian ship*** means a ship registered or listed under Part 2 of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md) and in respect of which all duties and taxes imposed under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) and the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) have been paid;
 
 ***Canadian waters*** means the inland waters within the meaning of section 2 of the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), the internal waters of Canada and the territorial sea of Canada;
 
@@ -73,7 +71,7 @@ where the carriage of the passengers is in relation to the exploration, exploita
 
 ***licence*** means a document, issued pursuant to this Act, authorizing a foreign ship or a non-duty paid ship to engage in the coasting trade while in Canadian waters or in waters above the continental shelf of Canada;
 
-***master***, in relation to a ship, has the same meaning as in the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md);
+***master***, in relation to a ship, has the same meaning as in section 2 of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md);
 
 ***non-duty paid ship*** means a ship registered in Canada in respect of which any duties and taxes under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) and the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) have not been paid;
 
@@ -81,7 +79,7 @@ where the carriage of the passengers is in relation to the exploration, exploita
 
 ***resident in Canada*** has the meaning given to that expression by section 250 of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md);
 
-***ship*** includes any description of vessel, boat or craft, including air cushion vehicles and dynamically supported craft, designed, used or capable of being used solely or partly for marine navigation without regard to method or lack of propulsion;
+***ship*** has the same meaning as vessel in section 2 of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md);
 
 ***technical call*** means any call, other than an emergency call or an in-transit call, that is for a purpose other than the embarking or disembarking of passengers.
 
@@ -92,7 +90,7 @@ where the carriage of the passengers is in relation to the exploration, exploita
 **Delegation**
 
 - **(3)** Any power, duty or function of the Minister of Public Safety and Emergency Preparedness or the Minister of Transport under this Act may be exercised or performed by any person authorized by that Minister, as the case may be, to do so and, if so exercised or performed, shall be deemed to have been exercised by that Minister.
-> 1992, c. 31, s. 2; 1996, c. 10, s. 211, c. 31, ss. 66, 108; 1998, c. 16, s. 30; 1999, c. 31, s. 228(F); 2005, c. 38, ss. 142, 145.
+> 1992, c. 31, s. 2; 1996, c. 10, s. 211, c. 31, ss. 66, 108; 1998, c. 16, s. 30; 1999, c. 31, s. 228(F); 2001, c. 26, s. 289; 2005, c. 38, ss. 142, 145.
 
 
 
@@ -115,7 +113,7 @@ where the carriage of the passengers is in relation to the exploration, exploita
 	- **(b)** engaged in any ocean research activity commissioned by the Department of Fisheries and Oceans;
 	- **(c)** operated or sponsored by a foreign government that has sought and received the consent of the Minister of Foreign Affairs to conduct marine scientific research;
 	- **(d)** engaged in salvage operations, except where such operations are performed in Canadian waters; or
-	- **(e)** engaged, with the approval of a pollution prevention officer, within the meaning of section 661 of the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md), in activities related to a marine pollution emergency, or to a risk thereof.
+	- **(e)** engaged, with the approval of a person designated as a pollution prevention officer under section 174 of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md) or authorized under paragraph 11(2)(d) of that Act to carry out inspections, in activities related to a marine pollution emergency, or to a risk of a marine pollution emergency.
 
 **Assistance in cases of distress**
 
@@ -128,7 +126,7 @@ where the carriage of the passengers is in relation to the exploration, exploita
 **DEW Sites**
 
 - **(5)** Subsection (1) does not apply to any ship that is owned by the Government of the United States and used for the sole purpose of transporting goods of Canadian or United States origin owned by the Government of the United States to supply Distant Early Warning Sites.
-> 1992, c. 31, s. 3; 1995, c. 5, s. 25.
+> 1992, c. 31, s. 3; 1995, c. 5, s. 25; 2001, c. 26, s. 290.
 
 
 
@@ -520,17 +518,11 @@ shall, to the extent of the surplus, be paid in accordance with the interests of
 ## Transitional
 
 
-
-**Ships with valid licences**
-
-**29** In the case of any ship that, immediately prior to the coming into force of this Act, is operating pursuant to a valid coasting trade licence under the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md), this Act shall apply to that ship in respect of any activity authorized to be performed by the licence from the day that licence would otherwise have expired had this Act not come into force.
+**29** [Repealed, 2001, c. 26, s. 291]
 
 
 
-
-**Provisions of [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md) continue to apply**
-
-**30** All of the provisions of the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md) as that Act read immediately prior to the coming into force of this Act shall continue to apply with respect to any valid coasting trade licence under that Act in force immediately prior to the coming into force of this Act.
+**30** [Repealed, 2001, c. 26, s. 291]
 
 
 
@@ -545,10 +537,10 @@ shall, to the extent of the surplus, be paid in accordance with the interests of
 
 - **(1)** Subject to this section, this Act shall come into force on a day to be fixed by order of the Governor in Council.
 
-**British ships and ships with coasting trade exemptions**
-
-- **(2)** In the case of any ship that is a British ship or that benefits from an exemption made pursuant to section 595 of the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md), this Act shall apply to that ship six months after the day on which this Act comes into force.
+- **(2)** [Repealed, 2001, c. 26, s. 292]
 
 <a name='C-33.3_en_1'><sup>*</sup></a>: [Note: Act in force December 1, 1992, *see* SI/92-175.]<br />
+> 1992, c. 31, s. 31; 2001, c. 26, s. 292.
+
 
 
