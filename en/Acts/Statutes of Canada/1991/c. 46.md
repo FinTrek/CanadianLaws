@@ -9072,11 +9072,11 @@ there has been registered or filed in the proper land registry or land titles of
 
 **Security on fishing vessels**
 
-- **(5)** Where security has been given to a bank under paragraph 427(1)(o) on a fishing vessel that is recorded or registered under the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md) or registered under the *Maritime Code*, chapter 41 of the Statutes of Canada, 1977-78, the rights and powers of the bank do not have priority over any rights that are subsequently acquired in the vessel and are recorded or registered under that Act or Code unless a copy of the document giving the security, certified by an officer of the bank to be a true copy, has been recorded or registered under that Act or Code in respect of the vessel before the recording or registration thereunder of those rights.
+- **(5)** If security has been given to a bank under paragraph 427(1)(o) on a fishing vessel that is recorded or registered under the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md), the rights and powers of the bank do not have priority over any rights that are subsequently acquired in the vessel and are recorded or registered under that Act unless a copy of the document giving the security, certified by an officer of the bank to be a true copy, has been recorded or registered under that Act in respect of the vessel before the recording or registration under that Act of those rights.
 
-**Idem**
+**Effect of registration of security**
 
-- **(6)** A copy of the document giving the security described in subsection (5), certified by an officer of the bank, may be recorded or registered under the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md) or the *Maritime Code*, chapter 41 of the Statutes of Canada, 1977-78, as if it were a mortgage given thereunder, and on the recording or registration thereof the bank, in addition to and without limitation of any other rights or powers vested in or conferred on it, has all the rights and powers in respect of the vessel that it would have if the security were a mortgage recorded or registered under that Act or Code.
+- **(6)** A copy of the document giving the security described in subsection (5), certified by an officer of the bank, may be recorded or registered under the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md) as if it were a mortgage given under that Act and, on the recording or registration of the document, the bank, in addition to and without limitation of any other rights or powers vested in or conferred on it, has all the rights and powers in respect of the vessel that it would have if the security were a mortgage recorded or registered under that Act.
 
 **Sale of goods on non-payment of debt**
 
@@ -9116,6 +9116,8 @@ and the proceeds of such a sale of livestock, after deducting all expenses incur
 **Bank may assign its rights**
 
 - **(14)** A bank may assign to any person all or any of its rights and powers in respect of any property on which security has been given to it under paragraph 427(1)(i), (j), (k), (l), (m), (n), (o) or (p), whereupon that person has all or any of the assigned rights and powers of the bank under that security.
+> 1991, c. 46, s. 428; 2001, c. 26, s. 275.
+
 
 
 
