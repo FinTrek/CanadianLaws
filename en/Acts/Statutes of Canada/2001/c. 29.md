@@ -41,12 +41,12 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Jurisdiction generally**
 
-- **(2)** The Tribunal has jurisdiction in respect of reviews and appeals as expressly provided for under the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md), the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md), the [Marine Transportation Security Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2040.md), the [Railway Safety Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2032%20(4th%20Supp.).md) and any other federal Act regarding transportation.
+- **(2)** The Tribunal has jurisdiction in respect of reviews and appeals as expressly provided for under the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md), the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md), the [Marine Transportation Security Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2040.md), the [Railway Safety Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2032%20(4th%20Supp.).md) and any other federal Act regarding transportation.
 
 **Jurisdiction in respect of other Acts**
 
 - **(3)** The Tribunal also has jurisdiction in respect of reviews and appeals in connection with administrative monetary penalties provided for under sections 177 to 181 of the [Canada Transportation Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2010.md) and sections 43 to 55 of the [International Bridges and Tunnels Act](/en/Acts/Statutes%20of%20Canada/2007/c.%201.md).
-> 2001, c. 29, s. 2; 2007, c. 1, s. 59.
+> 2001, c. 29, ss. 2, 71; 2007, c. 1, s. 59.
 
 
 
