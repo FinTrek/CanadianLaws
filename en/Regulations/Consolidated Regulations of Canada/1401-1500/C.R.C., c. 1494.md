@@ -5,7 +5,7 @@
 **C.R.C., c. 1494**
 
 Enabling authorities: 
-- [CANADA SHIPPING ACT](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md)
+- [CANADA SHIPPING ACT, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md)
 
 ----------
 
@@ -74,7 +74,9 @@ Enabling authorities:
 
 ***working place*** means a place where the processes are carried on. (*lieu de travail*)
 
-- **(2)** In Part IV of these Regulations, ***competent person*** means a person having qualifications appropriate to the duties required of him as set out in Schedule III.
+- **(2)** [Repealed, SOR/2007-128, s. 400]
+> SOR/2007-128, s. 400
+
 
 
 
@@ -110,7 +112,7 @@ Enabling authorities:
 
 - **(1)** Except as provided in subsection 11(4), the owner, master or officer in charge of a ship shall comply with Part III.
 
-- **(2)** The owner of cargo gear, and, in the case of cargo gear carried on board a ship not registered in Canada, the master of the ship shall comply with Part IV.
+- **(2)** [Repealed, SOR/2007-128, s. 401]
 
 - **(3)** Every person who by himself, his agents or workers carries on the processes, and all persons employed by him in the processes, shall comply with Part V.
 
@@ -120,6 +122,8 @@ Enabling authorities:
 		- **(i)** has been reported by written notice, in the prescribed form, to the owner, master or officer in charge of the ship, by or on behalf of the persons, agents, workers or persons employed, as being a hatch at which the processes have been completed, or completed for the time being, and
 		- **(ii)** has been left by the said persons, agents, workers or persons employed, fenced and covered as required by section 42, or has been taken into use by or on behalf of the owner of the ship, and in either case has been reported by the written notice referred to in subparagraph (i),
 and the said owner, master or officer in charge of the ship shall give immediately a written acknowledgement, in the prescribed form, of the written notice referred to in paragraph (b).
+> SOR/2007-128, s. 401
+
 
 
 
@@ -283,232 +287,70 @@ and the said owner, master or officer in charge of the ship shall give immediate
 
 
 **PART IV** 
-## Cargo Gear
+## [Repealed, SOR/2007-128, s. 402]
 
 
+**20** [Repealed, SOR/2007-128, s. 402]
 
-### Fixed Cargo Gear
 
 
-**20** 
+**21** [Repealed, SOR/2007-128, s. 402]
 
-- **(1)** All fixed cargo gear shall, before being used, be tested and examined by a competent person in the manner set out in Schedules I and III.
 
-- **(2)** All lifting machinery shall be given a thorough examination at least once every four years by a competent person.
 
-- **(3)** The quadrennial thorough examination referred to in subsection (2) shall include hammer tests, drilling, the opening of blocks, shackles or machinery, the lifting of goose-necks, and such other tests as are necessary to determine the condition of the lifting machinery.
+**22** [Repealed, SOR/2007-128, s. 402]
 
-- **(4)** All lifting machinery shall be inspected annually by a competent person.
 
 
+**23** [Repealed, SOR/2007-128, s. 402]
 
 
-### Chains, Rings, Hooks, etc.
 
+**24** [Repealed, SOR/2007-128, s. 402]
 
-**21** 
 
-- **(1)** All chains, rings, hooks, shackles, swivels and pulley blocks used in hoisting or lowering shall be tested and examined by a competent person in the manner set out in Schedule I before being used.
 
-- **(2)** All new chains, rings, hooks, shackles and swivels used in hoisting or lowering shall be heat treated under the supervision of a competent person in the manner set out in Schedule II before being placed in service.
+**25** [Repealed, SOR/2007-128, s. 402]
 
-- **(3)** Subject to subsections (5) and (6), all Class A chains, rings, hooks, shackles, or swivels used in hoisting or lowering shall be annealed in accordance with Schedule II, under the supervision of a competent person, at the following intervals:
-	- **(a)** 12 mm and smaller gear in general use, once at least in every six months; and
-	- **(b)** all other similar gear in general use, once at least in every 12 months, except that in the case of such gear used solely in cranes and other hoisting appliances worked by hand, the intervals shall be 12 months and two years respectively.
 
-- **(4)** For the purposes of subsection (3), the expression ***in general use*** means on 52 or more occasions in a year at the rate of once at least in each week.
 
-- **(5)** Where the Chairman is of opinion that, owing to the size, design, material or infrequency of use of any gear or class of gear, the requirements of subsection (3) as to annealing is not necessary for the protection of workers, he may, by certificate in writing, exempt such gear or class of gear from such requirements subject to such conditions as he thinks fit.
+**26** [Repealed, SOR/2007-128, s. 402]
 
-- **(6)** The following classes of special gear are exempted from the requirements for heat treatment subject to the condition that such gear shall be thoroughly examined by a competent person once at least in every 12 months:
-	- **(a)** plate link chains;
-	- **(b)** pitched chains;
-	- **(c)** rings, hooks, shackles and swivels permanently attached to pitched chains, pulley blocks, weighing machines, masts, derricks, slings or spreaders;
-	- **(d)** eyebolts, hooks and swivels having screw-threaded parts or ball-bearings or other case-hardened parts; and
-	- **(e)** Bordeaux connections.
 
-- **(7)** Chains made of malleable cast iron, also chains, rings, hooks, shackles and swivels of Class B gear and all pulley blocks shall be thoroughly examined by a competent person once at least in every 12 months.
 
-- **(8)** All chains, other than bridle chains attached to derricks or masts, and all rings, hooks, shackles, swivels and pulley blocks shall be inspected by a competent person immediately before each occasion on which they are used in hoisting or lowering, unless they have been inspected within the preceding three months.
+**27** [Repealed, SOR/2007-128, s. 402]
 
-- **(9)** Subject to subsection 3(2) of Schedule II, all chains, rings, hooks, shackles and swivels used in hoisting or lowering, which have been altered or repaired,
-	- **(a)** shall be heat treated before being placed in service; and
-	- **(b)** shall be tested and examined by a competent person in accordance with the provisions of sections 4 and 5 of Schedule I.
 
-- **(10)** All pulley blocks used in the processes, which have been altered or repaired, shall, before being used, be tested and examined by a competent person in accordance with the provisions of sections 4 and 5 of Schedule I.
 
-- **(11)** Subject to subsection (6), gear used in hoisting or lowering that is a composite of Class A and Class B shall not be used unless the design is such that the Class A parts may be readily removed for periodic annealing.
-> SOR/79-784, s. 7
+**28** [Repealed, SOR/2007-128, s. 402]
 
 
 
+**29** [Repealed, SOR/2007-128, s. 402]
 
 
-### Ropes
 
+**30** [Repealed, SOR/2007-128, s. 402]
 
-**22** 
 
-- **(1)** No rope shall be used in the processes unless
-	- **(a)** it is of suitable quality and free from patent defect; and
-	- **(b)** in the case of wire rope, it has been examined and tested by a competent person in the manner set out in Schedule I.
 
-- **(2)** Every wire rope in general use in the processes shall be inspected by a competent person once at least in every three months, except that after any wire in such rope has broken it shall be inspected once at least in every month.
+**31** [Repealed, SOR/2007-128, s. 402]
 
-- **(3)** No wire rope shall be used in the processes if, in any length of eight diameters the total number of visible broken wires exceeds 10 per cent of the total number, or the rope shows signs of excessive wear, corrosion or other defect that, in the opinion of the person who inspects it or of any inspector, renders it unfit for use.
 
-- **(4)** Subject to subsection (5), every thimble or loop splice made in any wire rope used in the processes shall have at least three tucks with a whole strand of the rope and two tucks with one-half of the wires cut out of each strand, the strands in all cases being tucked against the lay of the rope.
 
-- **(5)** The requirement set out in subsection (4) shall not operate to prevent the use of any form of splice or connection that can be shown to be as efficient as that prescribed in that subsection.
+**32** [Repealed, SOR/2007-128, s. 402]
 
-- **(6)** Wire clips, if fitted to the satisfaction of an inspector, may be used in lieu of splices on standing gear.
 
-- **(7)** Each wire rope used in hoisting or lowering shall be in one continuous piece.
 
+**33** [Repealed, SOR/2007-128, s. 402]
 
 
-**23** The safety factors, which shall be adopted with respect to the manufacture of fixed cargo gear, chains, rings, hooks, shackles or swivels, wire rope and fibre rope, are set out in Schedule I.
 
+**34** [Repealed, SOR/2007-128, s. 402]
 
 
 
-### Registers and Certificates
-
-
-**24** 
-
-- **(1)** A register shall be kept in the prescribed form giving the prescribed particulars in respect of
-	- **(a)** the inspection, testing and thorough examinations required by subsections 20(1) and (2);
-	- **(b)** the thorough examinations required by subsection 20(3) and subsections 21(6), (7) and (8);
-	- **(c)** the heat treatment required by subsections 21(2) and (3); and
-	- **(d)** the annual inspection of all lifting machinery required by subsection 20(4).
-
-- **(2)** Certificates in the prescribed form shall be attached to the register and shall contain the prescribed particulars in respect of
-	- **(a)** the testing and examinations required by subsections 20(1) and (2), subsections 21(1) and (9) and paragraph 22(1)(b); and
-	- **(b)** the heat treatment required by subsections 21(2) and (3).
-
-- **(3)** The certificates shall be signed by the competent person who has conducted the testing and examination, or supervised the heat treatment, as the case may be.
-
-- **(4)** The register shall,
-	- **(a)** if it refers to gear forming part of the equipment of a ship, be kept aboard the ship; and
-	- **(b)** if it refers to gear not forming part of the equipment of a ship, be kept on the premises of the owner.
-
-- **(5)** Adequate means shall be provided to enable a person examining the register, or any certificate attached thereto, to identify each item of cargo gear referred to therein.
-> 1987, c. 7, s. 84(F)
-
-
-
-
-**25** The owner, master or officer in charge of a ship shall report any alteration in the ship’s cargo gear upon production of the register to any person, under the provisions of section 60.
-
-
-
-
-### Safe Working Loads
-
-
-**26** 
-
-- **(1)** Every derrick or crane shall have the safe working load plainly marked upon it.
-
-- **(2)** Where one safe working load only is marked on a derrick or crane, it shall be the safe working load with single purchase only and where two safe working loads are marked, the first shall be the figure with single purchase and the second shall be the figure with double purchase.
-
-- **(3)** Where a derrick has been certified and tested for operation in union purchase, the safe working load shall be marked with the letters S.W.L.(U). to indicate that this is the safe working load in union purchase.
-
-- **(4)** In each case referred to in subsections (2) and (3), the safe working load shall be the load at the lowest inclination of the boom.
-
-- **(5)** Where a derrick or crane is tested at an angle exceeding 15 degrees above the horizontal, the angle at which it was tested shall be marked on it and that angle shall be the lowest permissible working angle.
-
-- **(6)** Where derricks are certified for and marked with a safe working load for operation in union purchase, the load lifted when in union purchase shall not be in excess of that safe working load.
-
-- **(7)** When derricks are operated in union purchase and are not certified and marked in accordance with subsection (3),
-	- **(a)** the load lifted shall not be in excess of one-half of the safe working load of the derrick with the smaller capacity;
-	- **(b)** the angle formed by the cargo runners shall not exceed 120 degrees; and
-	- **(c)** the attachments and fittings of the cargo runners, guys and preventers shall be suitable for the loads to which they are subjected.
-
-
-
-
-### Pulley Blocks
-
-
-**27** 
-
-- **(1)** No pulley block shall be used in the processes unless the safe working load is clearly stamped upon it.
-
-- **(2)** The safe working load of a single-sheave block is to be taken as the maximum load that can safely be lifted by the block when the load is attached to a rope passing around the sheave of the block.
-
-- **(3)** In the case of a single-sheave block where the load is attached directly to the block instead of to a rope passing around the sheave, it is permissible to lift a load equal to twice the safe working load of the block as determined in subsection (2).
-
-- **(4)** Where a rigging arrangement plan is available on board, it is permissible to use single-sheave blocks in any position where the maximum “working load” or “resultant” is not more than double the safe working load or half the proof load of the block.
-
-- **(5)** Where no rigging arrangement plan is available on board, single-sheave blocks shall have a safe working load not less than the load being lifted or ***hook load***.
-
-
-
-
-### Slings
-
-
-**28** Means shall be provided to enable any person using a chain or wire rope sling to ascertain the safe working load for such chain or sling under such conditions as it may be used, as follows:
-- **(a)** for chain slings, such means shall consist of marking the safe working load in plain figures or letters on the sling or on a tablet or ring of durable material attached securely thereto; and
-- **(b)** for wire rope slings, such means shall consist either of the means specified in paragraph (a) or a notice or notices, so exhibited as to be easily read by any person concerned, stating the safe working loads for the various sizes of wire rope slings used.
-
-
-
-
-### Motors
-
-
-**29** All motors, cog wheels, chains and friction gearing, shafting, line, electric conductors and steam pipes shall, unless it can be shown that by their position and construction they are equally as safe as if securely fenced, be securely fenced so far as is practicable without impeding the safe working of the ship.
-
-
-
-
-### Safety Measures
-
-
-**30** All cranes and winches shall be provided with such means as will reduce to a minimum the risk of the accidental descent of a load while being raised or lowered; in particular, the lever controlling the link motion reversing gear of a crane or winch shall be provided with a suitable spring or other locking arrangement.
-
-
-
-**31** Appropriate measures shall be taken to prevent exhaust steam from, and, so far as is practicable, live steam to any crane or winch from obscuring any part of the decks, gangways, stages or wharves where any person is employed in the processes.
-
-
-
-**32** Appropriate measures shall be taken to prevent the foot of a derrick from being accidentally lifted out of its socket or support.
-
-
-
-
-### Compliance
-
-
-**33** 
-
-- **(1)** Any ship, registered elsewhere than in Canada, shall be deemed to have complied with the provisions of this Part in respect of testing, examination or heat treatment, as the case may be, if such testing, examination or heat treatment has been carried out in accordance with
-	- **(a)** the laws of the country in which the ship is registered, where the ship is registered in a country the government of which
-		- **(i)** is signatory to International Labour Office Convention No. 32, and
-		- **(ii)** has entered into a reciprocal arrangement with the Government of Canada for the mutual recognition of the arrangement made in their respective countries for testing, examination and heat treatment of cargo gear; or
-	- **(b)** approved regulations made by any national authority, classification society or other regulatory organization, which are equally as effective as the provisions of this Part.
-
-- **(2)** Any ship, registered elsewhere than in Canada, shall be deemed to have complied with the provisions of this Part in respect of certificates and registers showing tests, examinations or heat treatment, if certificates or registers are produced in a form
-	- **(a)** prescribed by the laws of the country in which the ship is registered, where the ship is registered in a country the government of which
-		- **(i)** is signatory to International Labour Office Convention No. 32, and
-		- **(ii)** has entered into a reciprocal arrangement for the mutual acceptance of certificates and registers showing testing, examination and heat treatment of cargo gear; or
-	- **(b)** approved and substantially in accordance with the form recommended by the International Labour Office.
-> 1987, c. 7, s. 84(F)
-
-
-
-
-**34** Where any crane or other hoisting appliance located on shore is operated in compliance with any provincial regulations considered by the Board to be equally as effective as the provisions of this Part, such crane or other hoisting appliance shall be deemed to be operated in compliance with this Part.
-
-
-
-**35** Pallets shall be adequate for the purposes for which they are used, and, if used in conjunction with bar bridles shall have a lip of not less than 75 mm.
-> SOR/79-784, s. 8
-
+**35** [Repealed, SOR/2007-128, s. 402]
 
 
 
@@ -711,283 +553,24 @@ and the said owner, master or officer in charge of the ship shall give immediate
 
 
 
-**60** 
-
-- **(1)** The register required under the provisions of section 24 shall be produced on demand of an inspector, a steamship inspector or other person authorized by the Minister, by the owner, master or officer in charge of the ship, or, in the case of cargo gear not forming part of the ship’s equipment, by the owner thereof or his representative.
-
-- **(2)** If the register is not produced on demand, the person making the demand may, if he deems that the circumstances warrant it, order that any cargo gear shall not be used in the processes until the register is produced, or the cargo gear is tested, inspected or heat treated, as the case may be.
+**60** [Repealed, SOR/2007-128, s. 403]
 
 
 
 
 ### **SCHEDULE I** 
-**(ss. 20, 21, 22 and 23)**
-## Tests and Proof Loads
-**1** 
-
-- **(1)** Every winch with the whole of the gear accessory thereto (including derricks, goose-necks, eye plates, eye bolts or other attachments) shall be tested with a proof load that shall exceed the safe working load as follows:
-<table>
-<tr>
-<th>Safe Working Load</th>
-<th>Proof Load</th>
-</tr>
-<tr>
-<th></th>
-</tr>
-<tr>
-<td>Up to 20 t </td>
-<td>25 per cent in excess</td>
-</tr>
-<tr>
-<td>20-50 t </td>
-<td>  5 t in excess</td>
-</tr>
-<tr>
-<td>Over 50 t </td>
-<td>10 per cent in excess</td>
-</tr>
-</table>
-
-
-- **(2)** The proof load shall be lifted with the ship’s normal tackle with the derrick at an angle that should not be more than 15 degrees from the horizontal or the lowest practicable angle at which the boom can be worked; the angle at which the test was made shall be stated in the certificate of test; after the proof load has been lifted it should be swung as far as possible in both directions.
-
-- **(3)** All tests shall be carried out as required by subsection (2) by dead load, and no exception shall be allowed in the case of gear on new ships but, in the case of replacements or renewals, spring or hydraulic balances may be used where dead loads are not available and the gear being tested is not rigged for union purchase.
-
-- **(4)** Where a spring or hydraulic balance is used, it shall be one that has been calibrated to the satisfaction of an inspector not more than 12 months prior to the test, and the test shall not be regarded as satisfactory unless the indicator remains constant for a period of at least five minutes.
-
-
-**2** 
-
-- **(1)** Every crane and other hoisting machine, with its accessory gear, shall be tested with a proof load that shall exceed the safe working load as follows:
-<table>
-<tr>
-<th>Safe Working Load</th>
-<th>Proof Load</th>
-</tr>
-<tr>
-<th></th>
-</tr>
-<tr>
-<td>Up to 20 t </td>
-<td>25 per cent in excess</td>
-</tr>
-<tr>
-<td>20-50 t </td>
-<td>  5 t in excess</td>
-</tr>
-<tr>
-<td>Over 50 t </td>
-<td>10 per cent in excess</td>
-</tr>
-</table>
-
-
-- **(2)** The proof load shall be lifted and swung as far as possible in both directions; if the jib of the crane has a variable radius, it should be tested with a proof load, as defined above, at the maximum and minimum radii of the jib; in hydraulic cranes where, owing to the limitations of pressure, it is impossible to lift a load of 25 per cent in excess of the safe working load, it will be sufficient to lift the greatest possible load.
-
-
-**3** Wire ropes shall be tested by sample, a piece being tested to destruction, and the safe working load shall not exceed one-fifth of the breaking load of the sample tested.
-
-
-**4** Chains, rings, hooks, shackles and other loose gear (whether accessory to a machine or not) shall be tested with a proof load equal to that shown against the article in the following table:
-#### TABLE
-<table>
-<tr>
-<th></th>
-<th>Article of Gear</th>
-<th></th>
-<th>Proof Load</th>
-</tr>
-<tr>
-<th></th>
-</tr>
-<tr>
-<td>1</td>
-<td>Chain, ring, hook, shackle or swivel</td>
-<td>–</td>
-<td>100 per cent in excess of the safe working load</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Pulley blocks Single sheave block</td>
-<td>–</td>
-<td>300 per cent in excess of the safe working load</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Multiple sheave block with safe load up to and including 20 t</td>
-<td>–</td>
-<td>100 per cent in excess of the safe working load</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Multiple sheave block with safe load over 20 t up to and including 40 t</td>
-<td>–</td>
-<td>20 t in excess of the safe working load</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Multiple sheave block with safe load over 40 t</td>
-<td>–</td>
-<td>50 per cent in excess of the safe working load</td>
-</tr>
-<tr>
-<td>6</td>
-<td>Pitched chains used with hand-operated pulley blocks and rings, hooks, shackles or swivels permanently attached thereto</td>
-<td>–</td>
-<td>50 per cent in excess of the safe working load</td>
-</tr>
-<tr>
-<td>7</td>
-<td>Hand-operated pulley blocks used with pitched chains and rings, hooks, shackles or swivels permanently attached thereto</td>
-<td>–</td>
-<td>50 per cent in excess of the safe working load</td>
-</tr>
-</table>
-
-
-
-**5** After being tested as aforesaid, all lifting machinery, with the whole of the gear accessory thereto, and all chains, rings, hooks, shackles, pulley blocks or other loose gear shall be examined, the sheaves and the pins of the pulley blocks being removed for the purpose, to see whether any part has been injured or permanently deformed by the test.
-
-
-**6** [Revoked, SOR/79-784, s. 16]
-
-
-
-
-
-## Safety Factors
-
-**7** 
-
-- **(1)** For all metal structural parts used in lifting machinery the safety factor shall be as follows:when the safe working load is 10 t or less 5    
-
-when the safe working load is over 10 t 4    
-
-for wooden structural parts used in lifting machinery 8    
-
-for chains 4 ½
-
-for wire rope 5    
-
-for fibre rope 7    
-
-
-
-- **(2)** Where the Board is satisfied that the safety factors recommended by any national standards association or similar body are sufficient, such factors may be used.
->  SOR/79-784, ss. 13 to 17; 1987, c. 7, s. 84(F)
-
-
-
-
+[Repealed, SOR/2007-128, s. 404]
 
 
 
 
 ### **SCHEDULE II** 
-**(ss. 2 and 21)**
-## Heat Treatment
-
-
-
-## Annealing
-
-**1** 
-
-- **(1)** Annealing shall be carried out by heating the material in a closed furnace to 620°C-650°C holding at this temperature for a period of time not less than 30 or more than 60 minutes for each 25 mm thickness of the material and then allowing the furnace and material to cool down slowly together; cooling of the material may be effected by removing it from the furnace and covering the material with some medium that ensures a slow rate of cooling.
-
-- **(2)** Annealing shall not be carried out in an open fire.
-
-- **(3)** Annealing shall only be used for Class A gear.
-
-
-
-
-
-
-
-## Normalizing
-
-**2** 
-
-- **(1)** Normalizing shall be carried out by heating the material to 900°C in a closed furnace, holding it at this temperature for a period of time not less than 30 or more than 60 minutes for each 25 mm thickness of material, removing it from the furnace and allowing the material to cool in still air at room temperature.
-
-- **(2)** Normalizing shall not be carried out in an open fire.
-
-- **(3)** Normalizing shall only be used for Class B gear.
-
-
-**3** 
-
-- **(1)** The heat treatment for alloy steel gear shall be that heat treatment as specified by the manufacturer of such gear.
-
-- **(2)** Alloy steel gear that requires heat treatment shall be returned to the manufacturer or to an establishment qualified to carry out such treatment and in no case shall indiscriminate heat treatment be attempted.
->  SOR/79-784, ss. 18, 19
-
-
-
-
+[Repealed, SOR/2007-128, s. 404]
 
 
 
 
 ### **SCHEDULE III** 
-**(ss. 2 and 20)**
-## Qualifications of Competent Persons
-<table>
-<tr>
-<th>Competent Person</th>
-<th>Work Qualified for</th>
-</tr>
-<tr>
-<th></th>
-</tr>
-<tr>
-<td>**1** A tackle inspector, a steamship inspector or a surveyor employed by a classification society acceptable to the Board.
-
-</td>
-<td>Testing of chains, rings, hooks, shackles, swivels, pulley blocks, wire rope and lifting machinery; assembly tests on new gear and at quadrennial inspections; subsections 20(1) to (4), 21(1) and (6) to (10) and 22(1) and (2).</td>
-</tr>
-<tr>
-<td>**2** Responsible person having the necessary and appropriate technical qualifications employed by
-
-</td>
-<td>Testing of chains, rings, hooks, shackles, swivels, pulley blocks, wire rope and lifting machinery; assembly tests on new gear and at quadrennial inspections when no Tackle Inspector, Steamship Inspector or classification surveyor is available; subsections 20(1) to (4), 21(1) and (6) to (10) and 22(1) and (2).</td>
-</tr>
-<tr>
-<td>**(a)** a testing laboratory; or
-
-</td>
-</tr>
-<tr>
-<td>**(b)** a firm engaged in manufacture or repair of gear concerned; or
-
-</td>
-</tr>
-<tr>
-<td>**(c)** any other approved person, firm or association.
-
-</td>
-</tr>
-<tr>
-<td>**3** Responsible person having the necessary and appropriate technical qualifications who is employed by a firm engaged in such work and equipped with a properly controlled heat treatment furnace.
-
-</td>
-<td>Annealing or other heat treatment of chains, rings, hooks, shackles, swivels; subsections 21(2), (3) and (9).</td>
-</tr>
-<tr>
-<td>**4** Any person holding a certificate of competency as master or mate or any responsible person having the experience to allow him to carry out the work of inspection satisfactorily.
-
-</td>
-<td>Annual inspections of pulley block, chains, hooks, rings, swivels, shackles, ropes and permanent attachments to the derricks, masts and decks; subsections 20(4), 21(6), (7) and (8) and 22(2).</td>
-</tr>
-<tr>
-<td>**5** Any responsible person having the necessary experience to allow him to carry out the work of inspection satisfactorily.
-
-</td>
-<td>Thorough examinations and inspections of cranes, winches, hoists and other lifting machinery operated by power; subsections 20(2), (3) and (4) and 21(6).</td>
-</tr>
-</table>
-
->  1987, c. 7, s. 84(F)
+[Repealed, SOR/2007-128, s. 404]
 
 
