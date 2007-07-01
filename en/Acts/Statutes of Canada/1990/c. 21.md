@@ -369,11 +369,13 @@ unless a copy of a certificate in respect of the animal has been delivered in ac
 **Certain Acts not affected**
 
 **20** Nothing in this Act affects
-- **(a)** the provisions of the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md) respecting port wardens,
+- **(a)** the provisions of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md) respecting inspections authorized under paragraph 11(2)(e) of that Act to be carried out,
 - **(b)** chapter 33 of the Statutes of Canada, 1871, entitled An Act to provide for the appointment of a Port Warden for the Harbor of Quebec,
 - **(c)** chapter 11 of the Statutes of Canada, 1873, entitled An Act to amend the Acts relating to Port Wardens at Montreal and Quebec, or
 - **(d)** chapter 45 of the Statutes of Canada, 1882, entitled [An Act to amend and consolidate the Acts relating to the office of Port Warden for the Harbour of Montreal](/en/Acts/Statutes%20of%20Canada/1882/c.%2045.md),
 and this Act shall, with respect to the ports to which the Acts referred to in paragraphs (a) to (d) apply, be construed as having been enacted in addition to and not in derogation from those Acts.
+> 1990, c. 21, s. 20; 2001, c. 26, s. 304.
+
 
 
 
