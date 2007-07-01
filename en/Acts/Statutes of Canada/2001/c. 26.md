@@ -4977,7 +4977,9 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 **Responsibility for goods**
 
-**250** Subject to the Carriage of Goods by Water Act, carriers must use due care and diligence in the safe-keeping and punctual conveyance of goods delivered to them for carriage by water.
+**250** Subject to Part 5 of the [Marine Liability Act](/en/Acts/Statutes%20of%20Canada/2001/c.%206.md), carriers must use due care and diligence in the safe-keeping and punctual conveyance of goods delivered to them for carriage by water.
+> 2001, c. 26, ss. 250, 324.
+
 
 
 
@@ -5318,20 +5320,16 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 **Decisions that cease to have effect**
 
-***270** Decisions of the Board of Steamship Inspection that were made under the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md), chapter S-9 of the Revised Statutes of Canada, 1985, cease to have effect five years after section 26 comes into force.
-
-<a name='C-10.15_en_1'><sup>*</sup></a>: [Note: Section 26 not in force.]<br />
+**270** Decisions of the Board of Steamship Inspection that were made under the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md), chapter S-9 of the Revised Statutes of Canada, 1985, cease to have effect five years after section 26 comes into force.
 
 
 
 
 **Acquired rights — registered vessels**
 
-***271** 
+**271** 
 
 - **(1)** Every vessel registered in Canada when Part 2 comes into force is deemed to be registered under that Part until its ownership changes.
-
-<a name='C-10.15_en_2'><sup>*</sup></a>: [Note: Part 2 not in force.]<br />
 
 **Expiry of certificates of registry**
 
@@ -5339,20 +5337,16 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 **Grace period**
 
-- <sup><a href='#C-10.15_en_3'>[*]</a></sup>**(3)** A vessel that was not required to be registered under the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md), chapter S-9 of the Revised Statutes of Canada, 1985, and that is required by subsection 46(1) to be registered under Part 2 has two years after that Part comes into force to comply with that requirement.
-
-<a name='C-10.15_en_3'><sup>*</sup></a>: [Note: Part 2 not in force.]<br />
+- **(3)** A vessel that was not required to be registered under the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md), chapter S-9 of the Revised Statutes of Canada, 1985, and that is required by subsection 46(1) to be registered under Part 2 has two years after that Part comes into force to comply with that requirement.
 
 
 
 
 **Acquired rights — licensed vessels**
 
-***272** Every vessel, other than a pleasure craft, licensed under section 108 of the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md), chapter S-9 of the Revised Statutes of Canada, 1985, when Part 2 comes into force is deemed to be registered in the small vessel register referred to in subsection 43(1) until
+**272** Every vessel, other than a pleasure craft, licensed under section 108 of the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md), chapter S-9 of the Revised Statutes of Canada, 1985, when Part 2 comes into force is deemed to be registered in the small vessel register referred to in subsection 43(1) until
 - **(a)** the earlier of the date the vessel’s ownership changes and five years after Part 2 comes into force; or
 - **(b)** in the case of a vessel that was issued a licence under that Act, the expiry date of the licence.
-
-<a name='C-10.15_en_4'><sup>*</sup></a>: [Note: Part 2 not in force.]<br />
 
 
 
@@ -5368,29 +5362,27 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 **274** 
 
-- **(1)** Regulations made under the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md), chapter S-9 of the Revised Statutes of Canada, 1985, other than under any of the provisions listed in section 332 of this Act, remain in force and are deemed to have been made under this Act, in so far as they are not inconsistent with this Act, until they are repealed.
+- **(1)** Regulations made under the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md), chapter S-9 of the Revised Statutes of Canada, 1985, other than under any of the provisions listed in section 332 of this Act, remain in force and are deemed to have been made under this Act, in so far as they are not inconsistent with this Act, until they are repealed.
 
 **Regulations**
 
-- **(2)** The Governor in Council may, on the recommendation of the Minister of Transport or the Minister of Fisheries and Oceans, repeal any regulations referred to in subsection (1).
+- **(2)** The Governor in Council may, on the recommendation of the Minister of Transport or the Minister of Fisheries and Oceans, repeal any regulations referred to in subsection (1).
 
 **Validity periods of certificates**
 
-- **(3)** Any certificate’s period of validity that is provided for in a regulation referred to in subsection (1) is deemed to have been specified by the Minister under subsection 17(1).
+- **(3)** Any certificate’s period of validity that is provided for in a regulation referred to in subsection (1) is deemed to have been specified by the Minister under subsection 17(1).
 
 **Canadian ships**
 
-- **(4)** Every reference to “Canadian ship” or “Canadian ships” in the regulations referred to in subsection (1) shall be read as a reference to “Canadian vessel” or “Canadian vessels”, respectively.
+- **(4)** Every reference to “Canadian ship” or “Canadian ships” in the regulations referred to in subsection (1) shall be read as a reference to “Canadian vessel” or “Canadian vessels”, respectively.
 
 **Pleasure craft**
 
-- <sup><a href='#C-10.15_en_5'>[*]</a></sup>**(5)** Every vessel that, immediately before the coming into force of Part 10, was a pleasure craft within the meaning of section 2 of the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md), chapter S-9 of the Revised Statutes of Canada, 1985 (“that Act”), is deemed to be a pleasure craft within the meaning of section 2 of this Act until the [Small Vessel Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2010/91.md) made under that Act are repealed or the vessel is no longer a pleasure craft within the meaning of section 2 of that Act, whichever occurs first.
-
-<a name='C-10.15_en_5'><sup>*</sup></a>: [Note: Part 10 not in force.]<br />
+- **(5)** Every vessel that, immediately before the coming into force of Part 10, was a pleasure craft within the meaning of section 2 of the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md), chapter S-9 of the Revised Statutes of Canada, 1985 (“that Act”), is deemed to be a pleasure craft within the meaning of section 2 of this Act until the [Small Vessel Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2010/91.md) made under that Act are repealed or the vessel is no longer a pleasure craft within the meaning of section 2 of that Act, whichever occurs first.
 
 **Offence**
 
-- **(6)** Every person who, or vessel that, contravenes a regulation that is in force under subsection (1) commits an offence and is liable on summary conviction to a fine of not more than $1,000,000 or to imprisonment for a term of not more than 18 months, or to both.
+- **(6)** Every person who, or vessel that, contravenes a regulation that is in force under subsection (1) commits an offence and is liable on summary conviction to a fine of not more than $1,000,000 or to imprisonment for a term of not more than 18 months, or to both.
 
 
 
@@ -5453,7 +5445,7 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 - **(2)** Sections 325 to 330 come into force on the ninetieth day after this Act is assented to.
 
-<a name='C-10.15_en_6'><sup>*</sup></a>: [Note: Sections 319, 322 to 324, 331 and 332 in force on assent November 1, 2001; sections 325 to 330 in force January 30, 2002.]<br />
+<a name='C-10.15_en_6'><sup>*</sup></a>: [Note: Sections 319, 322 to 324, 331 and 332 in force on assent November 1, 2001; sections 325 to 330 in force January 30, 2002; sections 1 to 270, subsections 271(1) and (3) and sections 272 to 318, 321 and 333, in force July 1, 2007, *see* SI/2007-65.]<br />
 
 
 
@@ -5550,6 +5542,11 @@ It includes oil and any substance or class of substances that is prescribed for 
 
 30. Protocol of 1997 relating to the International Convention for the Prevention of Pollution from Ships
 
+
+31. Maritime Labour Convention, 2006
+
+
+> 2001, c. 26, Sch. 1; SOR/2007-109.
 
 
 
