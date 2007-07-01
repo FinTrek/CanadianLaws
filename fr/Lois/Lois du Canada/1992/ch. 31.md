@@ -56,7 +56,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **(iii)** soit entre deux lieux au-dessus du plateau;
 - **f)** toute autre activité maritime de nature commerciale effectuée par navire dans les eaux canadiennes ou les eaux situées au-dessus du plateau continental du Canada, l’activité devant toutefois, dans ce dernier cas, être liée à la recherche, à l’exploitation ou au transport des ressources minérales ou des autres ressources non biologiques du plateau.
 
-***capitaine*** À l’égard d’un navire, le capitaine au sens de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md).
+***capitaine*** À l’égard d’un navire, le capitaine au sens de l’article 2 de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md).
 
 ***eaux canadiennes*** Les eaux internes au sens de l’article 2 de la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md), les eaux intérieures et la mer territoriale du Canada.
 
@@ -66,11 +66,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***licence*** Document délivré sous le régime de la présente loi autorisant un navire étranger ou un navire non dédouané à se livrer au cabotage dans les eaux canadiennes ou dans les eaux situées au-dessus du plateau continental du Canada.
 
-***navire*** Tout genre de bâtiment, bateau ou embarcation notamment un aéroglisseur ou un engin à portance dynamique conçu, utilisé ou utilisable, exclusivement ou non, pour la navigation maritime, autopropulsé ou non et indépendamment de son mode de propulsion.
+***navire*** S’entend au sens de bâtiment à l’article 2 de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md).
 
-***navire canadien***
-- **a)** Soit un navire immatriculé en vertu de la partie I de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md) et à l’égard duquel tous les droits et taxes imposés par le [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) et la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) ont été acquittés;
-- **b)** soit un navire construit au Canada et qui n’a pas à être immatriculé, ou n’est pas admissible à l’être, en vertu de la partie I de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md).
+ ***navire canadien*** Navire immatriculé ou enregistré en vertu de la partie 2 de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md) et à l’égard duquel tous les droits et taxes imposés par le [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) et la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) ont été acquittés.
 
 ***navire étranger*** Navire autre qu’un navire canadien ou qu’un navire non dédouané.
 
@@ -91,7 +89,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Délégation**
 
 - **(3)** Les pouvoirs ou fonctions conférés au ministre de la Sécurité publique et de la Protection civile ou au ministre des Transports par la présente loi peuvent être exercés par toute personne que le ministre en question autorise à agir ainsi. Les pouvoirs ou fonctions ainsi exercés sont réputés l’avoir été par le ministre.
-> 1992, ch. 31, art. 2; 1996, ch. 10, art. 211, ch. 31, art. 66 et 108; 1998, ch. 16, art. 30; 1999, ch. 31, art. 228(F); 2005, ch. 38, art. 142 et 145.
+> 1992, ch. 31, art. 2; 1996, ch. 10, art. 211, ch. 31, art. 66 et 108; 1998, ch. 16, art. 30; 1999, ch. 31, art. 228(F); 2001, ch. 26, art. 289; 2005, ch. 38, art. 142 et 145.
 
 
 
@@ -114,7 +112,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **b)** pour des activités de recherches océanographiques demandées par le ministère des Pêches et des Océans;
 	- **c)** pour des activités de recherches océanographiques conduites ou commanditées par un gouvernement étranger si celui-ci a obtenu l’autorisation du ministre des Affaires étrangères;
 	- **d)** à des opérations de sauvetage, sauf lorsque celles-ci se déroulent dans les eaux canadiennes;
-	- **e)** avec l’approbation d’un fonctionnaire chargé de la prévention de la pollution, désigné aux termes de l’article 661 de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md), pour des activités liées à une situation d’urgence causée par la pollution marine, réelle ou appréhendée.
+	- **e)** avec l'approbation d'un agent chargé de la prévention de la pollution, désigné aux termes de l'article 174 de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md), ou de la personne autorisée à effectuer des inspections en vertu de l'alinéa 11(2)d), pour des activités liées à une situation d'urgence causée par la pollution marine, réelle ou appréhendée.
 
 **Non-interdiction de porter secours**
 
@@ -127,7 +125,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exception**
 
 - **(5)** Le paragraphe (1) ne s’applique pas aux navires du gouvernement des États-Unis qui sont utilisés seulement pour le transport des marchandises d’origine canadienne ou américaine appartenant à ce gouvernement et destinées à approvisionner les postes du réseau avancé de préalerte.
-> 1992, ch. 31, art. 3; 1995, ch. 5, art. 25.
+> 1992, ch. 31, art. 3; 1995, ch. 5, art. 25; 2001, ch. 26, art. 290.
 
 
 
@@ -506,17 +504,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ## Dispositions transitoires
 
 
-
-**Permis en cours de validité**
-
-**29** La présente loi ne porte pas atteinte aux permis de cabotage délivrés en vertu de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md) et en cours de validité lors de l’entrée en vigueur de la présente loi; elle ne s’applique aux activités qu’ils autorisent qu’à compter de la date prévue d’expiration de ces permis.
+**29** [Abrogé, 2001, ch. 26, art. 291]
 
 
 
-
-**Application de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md)**
-
-**30** La [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md), dans sa version antérieure à l’entrée en vigueur de la présente loi, s’applique aux permis de cabotage en cours de validité à ce moment.
+**30** [Abrogé, 2001, ch. 26, art. 291]
 
 
 
@@ -531,10 +523,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** La présente loi entre en vigueur à la date fixée par décret du gouverneur en conseil.
 
-**Navires britanniques et navires exemptés**
+- **(2)** [Abrogé, 2001, ch. 26, art. 292]
 
-- **(2)** La présente loi commence à s’appliquer six mois après son entrée en vigueur aux navires britanniques et aux navires qui bénéficient d’exemptions accordées sous le régime de l’article 595 de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md).
+<a name='C-33.3_fr_1'><sup>*</sup></a>: [Note : Loi en vigueur le 1<sup>er</sup> décembre 1992, *voir* TR/92-175.]<br />
+> 1992, ch. 31, art. 31; 2001, ch. 26, art. 292.
 
-<a name='C-33.3_fr_1'><sup>*</sup></a>: [Note : Loi en vigueur le 1<sup>er</sup> décembre 1992, *voir* TR/92-175.]<br />
 
 
