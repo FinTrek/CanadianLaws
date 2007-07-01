@@ -3451,24 +3451,24 @@ and the order may further direct that the pool or part thereof specified in the 
 
 
 
-**Definition of “spill”**
+**Definition of spill**
 
 **165** 
 
-- **(1)** In sections 166 to 170, ***spill*** means a discharge, emission or escape of petroleum, other than one that is authorized under the regulations or any other federal law or that constitutes a discharge from a ship to which Part XV of the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md) or Part 6 of the [Marine Liability Act](/en/Acts/Statutes%20of%20Canada/2001/c.%206.md) applies.
+- **(1)** In sections 166 to 170, ***spill*** means a discharge, emission or escape of petroleum, other than one that is authorized under the regulations or any other federal law or that constitutes a discharge from a vessel to which Part 8 or 9 of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md) applies or a ship to which Part 6 of the [Marine Liability Act](/en/Acts/Statutes%20of%20Canada/2001/c.%206.md) applies.
 
-**Definition of “debris”**
+**Definition of debris**
 
 - **(2)** In sections 167 and 170, ***debris*** means any installation or structure that was put in place in the course of any work or activity required to be authorized under paragraph 142(1)(b) and that has been abandoned without such authorization as may be required by or pursuant to this Part, or any material that has broken away or been jettisoned or displaced in the course of any such work or activity.
 
-**Definition of “actual loss or damage”**
+**Definition of actual loss or damage**
 
 - **(3)** In section 167, ***actual loss or damage*** includes loss of income, including future income, and, with respect to any aboriginal peoples of Canada, includes loss of hunting, fishing and gathering opportunities.
 
 **Immunity**
 
 - **(4)** Her Majesty in right of Canada incurs no liability whatever to any person arising out of the authorization by regulations made by the Governor in Council of any discharge, emission or escape of petroleum.
-> 1988, c. 28, s. 165; 1992, c. 35, s. 110; 2001, c. 6, s. 111.
+> 1988, c. 28, s. 165; 1992, c. 35, s. 110; 2001, c. 6, s. 111, c. 26, ss. 281, 324.
 
 
 
