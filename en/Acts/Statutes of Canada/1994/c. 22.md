@@ -39,13 +39,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** In this Act,
 
-***Canadian vessel*** means a vessel that
-- **(a)** is registered, listed or licensed under the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md),
-- **(b)** is not registered, listed or licensed under the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md) or under the laws of another state but is owned by one or more persons each of whom is
+***Canadian vessel*** means a vessel
+- **(a)** that is registered, listed or licensed under the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md),
+- **(b)** that is not registered, listed or licensed under the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md) or under the laws of another state but is owned by one or more persons each of whom is
 	- **(i)** a Canadian citizen,
 	- **(ii)** in the case of a vessel that is not required to be registered, listed or licensed under that Act, a person who is resident and domiciled in Canada, or
 	- **(iii)** a corporation incorporated under the laws of Canada or a province, that has its principal place of business in Canada, or
-- **(c)** is not registered, listed or licensed under the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md) but is owned or operated by Her Majesty in right of Canada;
+- **(c)** that is not registered, listed or licensed under the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md) but is owned or operated by Her Majesty in right of Canada;
 
 ***Convention*** means the Convention set out in the schedule, as amended from time to time;
 
@@ -65,7 +65,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***foreign vessel*** means a vessel that is not a Canadian vessel;
 
-***master*** means every person who has command or charge of a vessel, but does not include a licensed pilot within the meaning of section 2 of the [Pilotage Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-14.md);
+***master*** includes every person who has command or charge of a vessel but excludes a licensed pilot within the meaning of section 1.1 of the [Pilotage Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-14.md);
 
 ***migratory bird*** means a migratory bird referred to in the Convention, and includes the sperm, eggs, embryos, tissue cultures and parts of the bird;
 
@@ -90,7 +90,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Aboriginal and treaty rights**
 
 - **(3)** For greater certainty, nothing in this Act shall be construed so as to abrogate or derogate from any existing aboriginal or treaty rights of the aboriginal peoples of Canada under section 35 of the Constitution Act, 1982.
-> 1994, c. 22, s. 2; 2005, c. 23, s. 1
+> 1994, c. 22, s. 2; 2005, c. 23, ss. 1, 43, 44
 
 
 
@@ -159,9 +159,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Saving**
 
 - **(3)** Subsections (1) and (2) do not apply if
-	- **(a)** the deposit is authorized under the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md); or
-	- **(b)** the substance is of a type and quantity, and the deposit is made under conditions, authorized under an Act of Parliament other than the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md), or authorized by the Minister for scientific purposes.
-> 2005, c. 23, s. 4
+	- **(a)** the deposit is authorized under the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md); or
+	- **(b)** the substance is of a type and quantity, and the deposit is made under conditions, authorized under an Act of Parliament other than the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md), or authorized by the Minister for scientific purposes.
+> 2005, c. 23, ss. 4, 45
 
 
 
@@ -170,11 +170,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Prohibition**
 
 **5.2** No person shall
-- **(a)** wilfully destroy or cause to be destroyed a document, a record or data that is required to be kept under this Act or the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md), or wilfully alter or cause to be altered such a document, a record or data with intent to mislead;
-- **(b)** make or cause to be made a false entry, or omit to make or cause to be omitted to be made a required entry, in a document, a record or data that is required to be kept under this Act or the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md);
+- **(a)** wilfully destroy or cause to be destroyed a document, a record or data that is required to be kept under this Act or the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md), or wilfully alter or cause to be altered such a document, a record or data with intent to mislead;
+- **(b)** make or cause to be made a false entry, or omit to make or cause to be omitted to be made a required entry, in a document, a record or data that is required to be kept under this Act or the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md);
 - **(c)** wilfully obstruct or hinder a person who is engaged in carrying out duties or functions under this Act or a person acting under their direction and control; or
 - **(d)** knowingly provide false or misleading information or knowingly make a false or misleading statement, either orally or in writing, to a person who is engaged in carrying out duties or functions under this Act or a person acting under their direction and control.
-> 2005, c. 23, s. 4
+> 2005, c. 23, ss. 4, 46
 
 
 
@@ -727,8 +727,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Documents, records and data**
 
-**18.1** In a proceeding under this Act, a document, a record or data that is required to be kept under this Act or the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md) is admissible in evidence and, in the absence of evidence to the contrary, is proof of the statements contained in it.
-> 2005, c. 23, s. 15
+**18.1** In a proceeding under this Act, a document, a record or data that is required to be kept under this Act or the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md) is admissible in evidence and, in the absence of evidence to the contrary, is proof of the statements contained in it.
+> 2005, c. 23, ss. 15, 48
 
 
 
