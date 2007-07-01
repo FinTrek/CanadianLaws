@@ -1183,7 +1183,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Consistency**
 
-- **(3)** Subject to any regulations made under section 62, practices and procedures established by a port authority under subsection (1) shall not be inconsistent with national standards and practices for marine vessel traffic services, in particular those established under the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md).
+- **(3)** Subject to any regulations made under section 62, practices and procedures established by a port authority under subsection (1) shall not be inconsistent with national standards and practices for marine vessel traffic services, in particular those established under the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md).
+> 1998, c. 10, s. 56; 2001, c. 26, s. 276.
+
 
 
 
@@ -1240,7 +1242,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(c)** the proximity of animals whose well-being could be endangered by the movement of the ship;
 	- **(d)** an obstruction to navigation in the traffic control zone;
 	- **(e)** the proximity of a ship in apparent difficulty or presenting a pollution threat or other hazard to life or property;
-	- **(f)** the proximity of a ship navigating in an unsafe manner or with improperly functioning navigation equipment or radio equipment, or without charts or publications required by regulations made under paragraph 562.1(1)(a) of the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md);
+	- **(f)** the proximity of a ship navigating in an unsafe manner or with improperly functioning navigation equipment or radio equipment, or without charts or publications required by regulations made under paragraph 120(1)(b) of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md);
 	- **(g)** vessel traffic congestion that constitutes an unacceptable risk to shipping, navigation, the public or the environment; or
 	- **(h)** the efficiency of port operations could be compromised.
 
@@ -1249,6 +1251,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 - **(3)** No ship shall
 	- **(a)** if it is required to obtain a traffic clearance, enter, leave or proceed within a port or a traffic control zone without having obtained the clearance; or
 	- **(b)** if required to maintain direct communication with a person designated under subsection (1), proceed within a port or a traffic control zone unless it is able to do so.
+> 1998, c. 10, s. 58; 2001, c. 26, s. 277.
+
 
 
 
@@ -2468,7 +2472,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **120** 
 
-- **(1)** Where a ship is sold pursuant to an order, the proceeds of the sale shall be applied first to satisfy claims for wages of seamen under the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md) and then to satisfy the following claims in order of priority:
+- **(1)** If a ship is sold under an order, the proceeds of the sale shall be applied first to satisfy claims for wages of crew members under the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md) and then to satisfy the following claims in order of priority:
 	- **(a)** the following amount:
 		- **(i)** the maximum fine that could have been imposed for the offence in a case where subsection 117(1) applies,
 		- **(ii)** the fees and interest due and payable in a case where subsection 117(2) applies,
@@ -2500,6 +2504,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **At risk, cost and charges of owner**
 
 - **(7)** Every seizure and detention made under this Act shall be at the risk, cost and charges of the owner of the ship or goods until all amounts due or fines imposed, together with all costs and charges incurred in the seizure and detention and the costs of any conviction obtained, have been paid in full.
+> 1998, c. 10, s. 120; 2001, c. 26, s. 278.
+
 
 
 
@@ -2519,13 +2525,15 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **122** 
 
-- **(1)** A port authority, the Minister or a person who has entered into an agreement under subsection 80(5), as the case may be, has at all times a lien on a ship and on the proceeds of its disposition for an amount owing to the port authority, the Minister or the person, and the lien has priority over all other rights, interests, claims and demands, other than claims for wages of seamen under the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md), if the amount is owing in respect of
+- **(1)** A port authority, the Minister or a person who has entered into an agreement under subsection 80(5), as the case may be, has at all times a lien on a ship and on the proceeds of its disposition for an amount owing to the port authority, the Minister or the person, and the lien has priority over all other rights, interests, claims and demands, other than claims for wages of crew members under the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md), if the amount is owing in respect of
 	- **(a)** fees and interest in respect of the ship or goods carried on the ship; or
 	- **(b)** damage to property caused by the ship or through the fault or negligence of a member of the crew of the ship acting in the course of employment or under the orders of a superior officer.
 
 **Lien on goods**
 
 - **(2)** A port authority, the Minister or a person who has entered into an agreement under subsection 80(5), as the case may be, has at all times a lien on goods on the property under their jurisdiction for fees and interest owing to them in respect of the goods, the lien having priority over all other rights, interests, claims and demands and they may seize the goods.
+> 1998, c. 10, s. 122; 2001, c. 26, s. 279.
+
 
 
 
@@ -2877,7 +2885,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-## Coming into Force
+### Coming into Force
 
 
 
