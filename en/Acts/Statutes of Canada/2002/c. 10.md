@@ -146,7 +146,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 - **(c)** any alteration of the flow of waters; and
 - **(d)** any alteration of the bed or banks of a river, stream, lake or other body of water, whether or not the body of water is seasonal.
 
-However, it does not include navigation or any other use connected with shipping activities that are governed by the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md).
+However, it does not include navigation or any other use connected with shipping activities that are governed by the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md).
 
 ***waste*** means any substance that, by itself or in combination with other substances found in water, would have the effect of altering the quality of any water to which the substance is added to an extent that is detrimental to its use by people or by any animal, fish or plant, or any water that would have that effect because of the quantity or concentration of the substances contained in it or because it has been treated or changed, by heat or other means, and includes
 - **(a)** any substance or water that, for the purposes of the [Canada Water Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-11.md), is deemed to be waste;
@@ -155,6 +155,8 @@ However, it does not include navigation or any other use connected with shipping
 - **(d)** water that has been subjected to a treatment or change described by the regulations.
 
 ***waters*** means, except for the purposes of subsection 41(2), inland waters, whether in a liquid or solid state, on or below the surface of land.
+> 2002, c. 10, ss. 4, 200.
+
 
 
 
