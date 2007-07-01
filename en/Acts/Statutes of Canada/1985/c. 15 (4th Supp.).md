@@ -47,7 +47,7 @@
 
 **Application outside Canada**
 
-- **(2)** This Act, except section 10, applies outside Canada in respect of a work space on an aircraft, train or motor vehicle being operated between Canada and another country by a Canadian, as defined in section 55 of the [Canada Transportation Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2010.md) or a work space on a ship registered under the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md) that is being operated between Canada and another country, to the extent that compliance with this Act within the territory of another jurisdiction does not result in the contravention of the laws of that jurisdiction.
+- **(2)** This Act, except section 10, applies outside Canada in respect of a work space on an aircraft, train or motor vehicle being operated between Canada and another country by a Canadian, as defined in section 55 of the [Canada Transportation Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2010.md), or a work space on a vessel registered or listed under the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md) that is being operated between Canada and another country, to the extent that compliance with this Act within the territory of another jurisdiction does not result in the contravention of the laws of that jurisdiction.
 
 **Non-application to foreign carriers**
 
@@ -56,7 +56,7 @@
 **Non-application to commuter trains**
 
 - **(4)** This Act does not apply in respect of a work space on a passenger train operated in commuter service by or for the account of the government of a province or an agency thereof.
-> R.S., 1985, c. 15 (4th Supp.), s. 2; 1989, c. 7, s. 1; 1996, c. 10, s. 247; 2000, c. 20, s. 28; 2003, c. 22, s. 176; 2004, c. 7, s. 25.
+> R.S., 1985, c. 15 (4th Supp.), s. 2; 1989, c. 7, s. 1; 1996, c. 10, s. 247; 2000, c. 20, s. 28; 2001, c. 26, s. 312; 2003, c. 22, s. 176; 2004, c. 7, s. 25.
 
 
 
