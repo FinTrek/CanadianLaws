@@ -4943,7 +4943,9 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 
 **Responsabilité à l’égard des marchandises**
 
-**250** Sous réserve de la Loi sur le transport des marchandises par eau, les transporteurs sont tenus d’exercer le soin et la diligence voulus pour que les marchandises qui leur sont livrées pour être transportées par eau soient gardées en lieu sûr et ponctuellement transportées.
+**250** Sous réserve de la partie 5 de la [Loi sur la responsabilité en matière maritime](/fr/Lois/Lois%20du%20Canada/2001/ch.%206.md), les transporteurs sont tenus d’exercer le soin et la diligence voulus pour que les marchandises qui leur sont livrées pour être transportées par eau soient gardées en lieu sûr et ponctuellement transportées.
+> 2001, ch. 26, art. 250 et 324.
+
 
 
 
@@ -5282,20 +5284,16 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 
 **Décisions — cessation d’effet**
 
-***270** Les décisions rendues par le Bureau d’inspection des navires à vapeur en vertu de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md), chapitre S-9 des Lois révisées du Canada (1985), cessent d’avoir effet cinq ans après l’entrée en vigueur de l’article 26.
-
-<a name='C-10.15_fr_1'><sup>*</sup></a>: [Note : Article 26 non en vigueur.]<br />
+**270** Les décisions rendues par le Bureau d’inspection des navires à vapeur en vertu de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md), chapitre S-9 des Lois révisées du Canada (1985), cessent d’avoir effet cinq ans après l’entrée en vigueur de l’article 26.
 
 
 
 
 **Droits acquis — bâtiments immatriculés**
 
-***271** 
+**271** 
 
 - **(1)** Tout bâtiment immatriculé au Canada au moment de l’entrée en vigueur de la partie 2 est réputé être immatriculé en vertu de cette partie jusqu’à ce qu’il change de propriétaire.
-
-<a name='C-10.15_fr_2'><sup>*</sup></a>: [Note : Partie 2 non en vigueur.]<br />
 
 **Expiration des certificats d’immatriculation**
 
@@ -5303,20 +5301,16 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 
 **Immatriculation**
 
-- <sup><a href='#C-10.15_fr_3'>[*]</a></sup>**(3)** Les bâtiments qui n’étaient pas assujettis à l’immatriculation prévue par la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md), chapitre S-9 des Lois révisées du Canada (1985), mais qui sont assujettis, aux termes du paragraphe 46(1), à l’immatriculation prévue à la partie 2 disposent de deux ans, à compter de l’entrée en vigueur de cette partie, pour procéder à l’immatriculation.
-
-<a name='C-10.15_fr_3'><sup>*</sup></a>: [Note : Partie 2 non en vigueur.]<br />
+- **(3)** Les bâtiments qui n’étaient pas assujettis à l’immatriculation prévue par la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md), chapitre S-9 des Lois révisées du Canada (1985), mais qui sont assujettis, aux termes du paragraphe 46(1), à l’immatriculation prévue à la partie 2 disposent de deux ans, à compter de l’entrée en vigueur de cette partie, pour procéder à l’immatriculation.
 
 
 
 
 **Droits acquis — bâtiments inscrits**
 
-***272** Les bâtiments, à l’exception des embarcations de plaisance, qui sont inscrits sous le régime de l’article 108 de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md), chapitre S-9 des Lois révisées du Canada (1985), à l’entrée en vigueur de la partie 2 sont réputés être inscrits dans la partie du registre sur les petits bâtiments mentionnée au paragraphe 43(1) :
+**272** Les bâtiments, à l’exception des embarcations de plaisance, qui sont inscrits sous le régime de l’article 108 de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md), chapitre S-9 des Lois révisées du Canada (1985), à l’entrée en vigueur de la partie 2 sont réputés être inscrits dans la partie du registre sur les petits bâtiments mentionnée au paragraphe 43(1) :
 - **a)** soit jusqu’à ce qu’ils changent de propriétaire ou, à défaut, pendant les cinq années suivant l’entrée en vigueur de la partie 2;
 - **b)** soit, dans le cas d’un bâtiment à l’égard duquel un permis a été délivré en vertu de la présente loi, jusqu’à l’expiration de celui-ci.
-
-<a name='C-10.15_fr_4'><sup>*</sup></a>: [Note : Partie 2 non en vigueur.]<br />
 
 
 
@@ -5332,29 +5326,27 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 
 **274** 
 
-- **(1)** Les règlements d’application de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md), chapitre S-9 des Lois révisées du Canada (1985), à l’exception de ceux pris sous le régime des dispositions énumérées à l’article 332 de la présente loi, demeurent en vigueur et sont réputés avoir été pris en application de la présente loi, dans la mesure de leur compatibilité avec celle-ci, jusqu’à leur abrogation.
+- **(1)** Les règlements d’application de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md), chapitre S-9 des Lois révisées du Canada (1985), à l’exception de ceux pris sous le régime des dispositions énumérées à l’article 332 de la présente loi, demeurent en vigueur et sont réputés avoir été pris en application de la présente loi, dans la mesure de leur compatibilité avec celle-ci, jusqu’à leur abrogation.
 
 **Abrogation des anciens règlements**
 
-- **(2)** Le gouverneur en conseil peut, sur recommandation du ministre des Transports ou du ministre des Pêches et des Océans, abroger tout règlement visé au paragraphe (1).
+- **(2)** Le gouverneur en conseil peut, sur recommandation du ministre des Transports ou du ministre des Pêches et des Océans, abroger tout règlement visé au paragraphe (1).
 
 **Validité des certificats**
 
-- **(3)** La période de validité des certificats prévue par les règlements mentionnés au paragraphe (1) est réputée avoir été prévue par le ministre en vertu du paragraphe 17(1).
+- **(3)** La période de validité des certificats prévue par les règlements mentionnés au paragraphe (1) est réputée avoir été prévue par le ministre en vertu du paragraphe 17(1).
 
 **Navires canadien**
 
-- **(4)** Les mentions de « navire canadien » et « navires canadiens » dans les règlements mentionnés au paragraphe (1) valent respectivement mentions de « bâtiment canadien » et « bâtiments canadiens ».
+- **(4)** Les mentions de « navire canadien » et « navires canadiens » dans les règlements mentionnés au paragraphe (1) valent respectivement mentions de « bâtiment canadien » et « bâtiments canadiens ».
 
 **Règlements : embarcations de plaisance**
 
-- <sup><a href='#C-10.15_fr_5'>[*]</a></sup>**(5)** Les bâtiments qui, à la date d’entrée en vigueur de la partie 10, étaient des embarcations de plaisance au sens de l’article 2 de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md), chapitre S-9 des Lois révisées du Canada (1985), sont réputés être des embarcations de plaisance au sens de l’article 2 de la présente loi jusqu’à ce qu’ils cessent d’être de tels bâtiments au sens de l’article 2 de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md) ou, si elle survient plus tôt, jusqu’à l’abrogation du [Règlement sur les petits bâtiments](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2010/91.md) pris en vertu de cette loi.
-
-<a name='C-10.15_fr_5'><sup>*</sup></a>: [Note : Partie 10 non en vigueur.]<br />
+- **(5)** Les bâtiments qui, à la date d’entrée en vigueur de la partie 10, étaient des embarcations de plaisance au sens de l’article 2 de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md), chapitre S-9 des Lois révisées du Canada (1985), sont réputés être des embarcations de plaisance au sens de l’article 2 de la présente loi jusqu’à ce qu’ils cessent d’être de tels bâtiments au sens de l’article 2 de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md) ou, si elle survient plus tôt, jusqu’à l’abrogation du [Règlement sur les petits bâtiments](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2010/91.md) pris en vertu de cette loi.
 
 **Infraction**
 
-- **(6)** La personne ou le bâtiment qui contrevient à un règlement applicable en vertu du paragraphe (1) commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 1 000 000 $ et un emprisonnement maximal de dix-huit mois, ou l’une de ces peines.
+- **(6)** La personne ou le bâtiment qui contrevient à un règlement applicable en vertu du paragraphe (1) commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de 1 000 000 $ et un emprisonnement maximal de dix-huit mois, ou l’une de ces peines.
 
 
 
@@ -5417,7 +5409,7 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 
 - **(2)** Les articles 325 à 330 entrent en vigueur le quatre-vingt-dixième jour suivant la sanction de la présente loi.
 
-<a name='C-10.15_fr_6'><sup>*</sup></a>: [Note : Articles 319, 322 à 324, 331 et 332 en vigueur à la sanction le 1<sup>er</sup> novembre 2001; articles 325 à 330 en vigueur le 30 janvier 2002.]<br />
+<a name='C-10.15_fr_6'><sup>*</sup></a>: [Note : Articles 319, 322 à 324, 331 et 332 en vigueur à la sanction le 1<sup>er</sup> novembre 2001; articles 325 à 330 en vigueur le 30 janvier 2002; articles 1 à 270, paragraphes 271(1) et (3) et articles 272 à 318, 321 et 333 en vigueur le 1<sup>er</sup> juillet 2007, *voir* TR/2007-65.]<br />
 
 
 
@@ -5514,6 +5506,11 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 
 30. Protocole de 1997 relatif à la Convention internationale de 1973 pour la prévention de la pollution par les navires
 
+
+31. Convention du travail maritime, 2006
+
+
+> 2001, ch. 26, ann. 1; DORS/2007-109.
 
 
 
