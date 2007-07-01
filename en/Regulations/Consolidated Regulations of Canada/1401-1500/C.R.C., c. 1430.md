@@ -5,7 +5,7 @@
 **C.R.C., c. 1430**
 
 Enabling authorities: 
-- [CANADA SHIPPING ACT](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md)
+- [CANADA SHIPPING ACT, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md)
 
 ----------
 
