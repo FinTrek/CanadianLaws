@@ -1122,10 +1122,7 @@ shall immediately notify the Commission or an appropriate authority of the locat
 
 
 
-
-**Non-application of subsection 389(5) of [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md)**
-
-**54** Subsection 389(5) of the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md) does not apply in respect of a nuclear substance, prescribed equipment, a nuclear facility or a nuclear-powered vehicle.
+**54** [Repealed, 2001, c. 26, s. 314]
 
 
 
