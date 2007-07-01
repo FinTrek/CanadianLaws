@@ -385,12 +385,12 @@ but does not include an air cushion vehicle or a floating platform constructed f
 
 
 
-**Passenger claims, no certificate**
+**Passenger claims, no Canadian maritime document**
 
 **29** 
 
-- **(1)** The maximum liability for maritime claims that arise on any distinct occasion for loss of life or personal injury to passengers of a ship for which no certificate is required under Part V of the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md) is the greater of
-	- **(a)** 2,000,000 units of account; and
+- **(1)** The maximum liability for maritime claims that arise on any distinct occasion for loss of life or personal injury to passengers of a ship for which no Canadian maritime document is required under Part 4 of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md) is the greater of
+	- **(a)** 2,000,000 units of account, and
 	- **(b)** the number of units of account calculated by multiplying 175,000 units of account by the number of passengers on board the ship.
 
 **Passenger claims, no contract of carriage**
@@ -398,7 +398,7 @@ but does not include an air cushion vehicle or a floating platform constructed f
 - **(2)** Notwithstanding Article 6 of the Convention, the maximum liability for maritime claims that arise on any distinct occasion for loss of life or personal injury to persons carried on a ship otherwise than under a contract of passenger carriage is the greater of
 	- **(a)** 2,000,000 units of account, and
 	- **(b)** 175,000 units of account multiplied by
-		- **(i)** the number of passengers that the ship is authorized to carry according to its certificate under Part V of the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md), or
+		- **(i)** the number of passengers that the ship is authorized to carry according to its certificate under Part 4 of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md), or
 		- **(ii)** if no certificate is required under that Part, the number of persons on board the ship.
 
 **Exception**
@@ -414,6 +414,8 @@ but does not include an air cushion vehicle or a floating platform constructed f
 **Definition of “unit of account”**
 
 - **(5)** In subsections (1) and (2), ***unit of account*** means a special drawing right issued by the International Monetary Fund.
+> 2001, c. 6, s. 29, c. 26, s. 324.
+
 
 
 
@@ -631,7 +633,9 @@ but does not include an air cushion vehicle or a floating platform constructed f
 
 **Other statutory limitations of liability**
 
-**42** Nothing in this Part affects the operation of any other Part of this Act, or sections 389, 390, 585 and 586 of the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md), or a provision of any other Act or regulation that limits the liability of owners of ships.
+**42** Nothing in this Part affects the operation of any other Part of this Act, or section 250 of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md), or a provision of any other Act or regulation that limits the liability of owners of ships.
+> 2001, c. 6, s. 42, c. 26, s. 324.
+
 
 
 
@@ -841,13 +845,13 @@ and includes oil and any substance or class of substances identified by the regu
 	- **(a)** for oil pollution damage from the ship;
 	- **(b)** for costs and expenses incurred by
 		- **(i)** the Minister of Fisheries and Oceans,
-		- **(ii)** a response organization within the meaning of section 654 of the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md),
+		- **(ii)** a response organization within the meaning of section 165 of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md),
 		- **(iii)** any other person in Canada, or
 		- **(iv)** any person in a state, other than Canada, that is a party to the Civil Liability Convention,
 in respect of measures taken to prevent, repair, remedy or minimize oil pollution damage from the ship, including measures taken in anticipation of a discharge of oil from the ship, to the extent that the measures taken and the costs and expenses are reasonable, and for any loss or damage caused by those measures; and
 	- **(c)** for costs and expenses incurred
-		- **(i)** by the Minister of Fisheries and Oceans in respect of measures taken under paragraph 678(1)(a) of the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md), in respect of any monitoring under paragraph 678(1)(b) of that Act or in relation to any direction given under paragraph 678(1)(c) of that Act, or
-		- **(ii)** by any other person in respect of measures the person was directed to take or prohibited from taking under paragraph 678(1)(c) of the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md),
+		- **(i)** by the Minister of Fisheries and Oceans in respect of measures taken under paragraph 180(1)(a) of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md), in respect of any monitoring under paragraph 180(1)(b) of that Act or in relation to any direction given under paragraph 180(1)(c) of that Act, or
+		- **(ii)** by any other person in respect of measures the person was directed to take or refrain from taking under paragraph 180(1)(c) of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md),
 to the extent that the measures taken and the costs and expenses are reasonable, and for any loss or damage caused by those measures.
 
 **Liability for environmental damage**
@@ -876,6 +880,8 @@ to the extent that the measures taken and the costs and expenses are reasonable,
 		- **(i)** three years after the day on which the pollution damage occurred, and
 		- **(ii)** six years after the occurrence that caused the pollution damage or, if the pollution damage was caused by more than one occurrence having the same origin, six years after the first of the occurrences; or
 	- **(b)** if no pollution damage occurred, within six years after the occurrence.
+> 2001, c. 6, s. 51, c. 26, s. 324.
+
 
 
 
@@ -1867,7 +1873,9 @@ unless a certificate described in Article VII of the Civil Liability Convention 
 
 **Detention of ship**
 
-- **(2)** A pollution prevention officer, designated pursuant to section 661 of the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md), who has reasonable grounds for believing that an offence under subsection (1) has been committed in respect of a ship may make a detention order in respect of that ship, and section 672 of that Act applies to such a detention order with any modifications that the circumstances require.
+- **(2)** A marine safety inspector who is authorized under paragraph 11(2)(d) of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md) to carry out inspections under section 211 of that Act and who has reasonable grounds for believing that an offence under subsection (1) has been committed in respect of a ship may make a detention order in respect of that ship, and section 222 of that Act applies to the detention order with any modifications that the circumstances require.
+> 2001, c. 6, s. 103, c. 26, s. 324.
+
 
 
 
