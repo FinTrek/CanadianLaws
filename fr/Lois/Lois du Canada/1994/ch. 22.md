@@ -42,16 +42,16 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***bâtiment*** Navire, bateau ou embarcation conçu, utilisé ou utilisable — exclusivement ou non — pour la navigation sur l’eau, au-dessous ou légèrement au-dessus de celle-ci, indépendamment de son mode de propulsion ou de l’absence de propulsion. Sont exclues de la présente définition les plates-formes fixes.
 
 ***bâtiment canadien*** Bâtiment :
-- **a)** qui est immatriculé, enregistré ou muni d’un permis sous le régime de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md);
-- **b)** qui n’est immatriculé, enregistré ou muni d’un permis ni sous le régime de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md) ni sous celui d’une loi d’un autre État, pourvu que chacune des personnes auxquelles il appartient réponde à l’une des conditions suivantes :
+- **a)** qui est immatriculé, enregistré ou muni d’un permis sous le régime de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md);
+- **b)** qui n’est immatriculé, enregistré ou muni d’un permis ni sous le régime de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md) ni aux termes d’une loi d’un autre État, pourvu que chacune des personnes auxquelles il appartient réponde à l’une des conditions suivantes :
 	- **(i)** elle a la citoyenneté canadienne,
-	- **(ii)** dans le cas d’un bâtiment qui n’est pas assujetti à l’immatriculation, à l’enregistrement ou à la délivrance d’un permis sous le régime de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md), elle est domiciliée au Canada et y réside de fait,
+	- **(ii)** dans le cas d’un bâtiment qui n’est pas assujetti à l’immatriculation, à l’enregistrement ou à la délivrance d’un permis sous le régime de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md), elle est domiciliée au Canada et y réside de fait,
 	- **(iii)** s’agissant d’une personne morale, elle a été constituée sous le régime d’une loi fédérale ou provinciale et a son principal établissement au Canada;
-- **c)** qui n’est pas immatriculé, enregistré ou muni d’un permis sous le régime de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md) et qui appartient à Sa Majesté du chef du Canada ou est exploité par elle.
+- **c)** qui n’est pas immatriculé, enregistré ou muni d’un permis sous le régime de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md) et qui appartient à Sa Majesté du chef du Canada ou est exploité par elle.
 
 ***bâtiment étranger*** Bâtiment qui n’est pas un bâtiment canadien.
 
-***capitaine*** Personne ayant la direction ou le commandement d’un bâtiment, à l’exclusion du pilote au sens de l’article 2 de la [Loi sur le pilotage](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-14.md).
+***capitaine*** La personne ayant la direction ou le commandement d’un bâtiment. Est exclu de la présente définition le pilote breveté, au sens de l’article 1.1 de la [Loi sur le pilotage](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-14.md).
 
 ***convention*** La convention dont le texte figure à l’annexe, avec ses modifications successives.
 
@@ -90,7 +90,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Droits des autochtones**
 
 - **(3)** Il demeure entendu que la présente loi ne porte pas atteinte aux droits — ancestraux ou issus de traités — des peuples autochtones du Canada visés à l’article 35 de la Loi constitutionnelle de 1982.
-> 1994, ch. 22, art. 2; 2005, ch. 23, art. 1
+> 1994, ch. 22, art. 2; 2005, ch. 23, art. 1, 43 et 44
 
 
 
@@ -159,9 +159,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Exception**
 
 - **(3)** Les paragraphes (1) et (2) ne s’appliquent pas lorsque, selon le cas :
-	- **a)** l’immersion ou le rejet est autorisé sous le régime de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md);
-	- **b)** la nature et la quantité de la substance et les conditions de l’immersion ou du rejet sont autorisées soit sous le régime d’une loi fédérale autre que la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md), soit par le ministre à des fins scientifiques.
-> 2005, ch. 23, art. 4
+	- **a)** l’immersion ou le rejet est autorisé sous le régime de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md);
+	- **b)** la nature et la quantité de la substance, et les conditions de l’immersion ou du rejet sont autorisées soit sous le régime d’une loi fédérale autre que la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md), soit par le ministre à des fins scientifiques.
+> 2005, ch. 23, art. 4 et 45
 
 
 
@@ -170,11 +170,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Interdiction**
 
 **5.2** Il est interdit :
-- **a)** de détruire ou faire détruire délibérément un document ou des données dont la tenue est exigée sous le régime de la présente loi ou de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md), ou de les modifier ou faire modifier dans le dessein d’induire en erreur;
-- **b)** de faire ou faire faire de fausses inscriptions dans un document ou des données dont la tenue est exigée sous le régime de la présente loi ou de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md), ou d’omettre ou faire omettre d’y faire une inscription exigée;
+- **a)** de détruire ou faire détruire délibérément un document ou des données dont la tenue est exigée sous le régime de la présente loi ou de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md), ou de les modifier ou faire modifier dans le dessein d’induire en erreur;
+- **b)** de faire ou faire faire de fausses inscriptions dans un document ou des données dont la tenue est exigée sous le régime de la présente loi ou de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md), ou d’omettre ou faire omettre d’y faire une inscription exigée;
 - **c)** d’entraver délibérément l’action de toute personne dans l’exercice de ses fonctions sous le régime de la présente loi ou de toute personne agissant sous sa direction ou son autorité;
 - **d)** de faire sciemment, oralement ou par écrit, une déclaration fausse ou trompeuse à toute personne dans l’exercice de ses fonctions sous le régime de la présente loi ou à toute personne agissant sous sa direction ou son autorité, ou de leur fournir sciemment des renseignements faux ou trompeurs.
-> 2005, ch. 23, art. 4
+> 2005, ch. 23, art. 4 et 46
 
 
 
@@ -722,8 +722,8 @@ L’avis du garde-chasse doit être fondé sur des motifs raisonnables.
 
 **Documents et données**
 
-**18.1** Dans les poursuites engagées sous le régime de la présente loi, les documents ou données dont celle-ci ou la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md) exige la tenue sont admissibles en preuve et font foi, sauf preuve contraire, de leur contenu.
-> 2005, ch. 23, art. 15
+**18.1** Dans les poursuites engagées sous le régime de la présente loi, les documents ou données dont celle-ci ou la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md) exige la tenue sont admissibles en preuve et font foi, sauf preuve contraire, de leur contenu.
+> 2005, ch. 23, art. 15 et 48
 
 
 
