@@ -3332,7 +3332,7 @@ and the order may further direct that the pool or part thereof specified in the 
 
 **160** 
 
-- **(1)** In sections 161 to 165, ***spill*** means a discharge, emission or escape of petroleum, other than one that is authorized under the regulations or any other federal law or that constitutes a discharge from a ship to which Part XV of the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md) or Part 6 of the [Marine Liability Act](/en/Acts/Statutes%20of%20Canada/2001/c.%206.md) applies.
+- **(1)** In sections 161 to 165, ***spill*** means a discharge, emission or escape of petroleum, other than one that is authorized under the regulations or any other federal law or that constitutes a discharge from a vessel to which Part 8 or 9 of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md) applies or a ship to which Part 6 of the [Marine Liability Act](/en/Acts/Statutes%20of%20Canada/2001/c.%206.md) applies.
 
 **Definition of debris**
 
@@ -3345,7 +3345,7 @@ and the order may further direct that the pool or part thereof specified in the 
 **Immunity**
 
 - **(4)** Her Majesty in right of Canada incurs no liability whatever to any person arising out of the authorization by regulations made by the Governor in Council of any discharge, emission or escape of petroleum.
-> 1987, c. 3, s. 160; 1992, c. 35, s. 73; 2001, c. 6, s. 110.
+> 1987, c. 3, s. 160; 1992, c. 35, s. 73; 2001, c. 6, s. 110, c. 26, ss. 280, 324.
 
 
 
