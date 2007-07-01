@@ -774,17 +774,19 @@ Nul ne peut entraver l’exercice du droit ainsi conféré.
 
 **Déclaration et paiement des droits**
 
-- **(2)** Dans le cas d’épaves visées au paragraphe (1), remises à leur propriétaire ou à son mandataire conformément à l’article 441 de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md), le propriétaire :
+- **(2)** Dans le cas d’épaves visées au paragraphe (1), remises à une personne conformément à l’article 158 de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md), la personne :
 	- **a)** doit aussitôt en déclarer la remise à l’agent;
 	- **b)** est, dès la remise, redevable des droits afférents selon les taux applicables aux épaves lors de cette remise.
 
-**Définition de « épaves »**
+**Définition de épaves**
 
 - **(3)** Au sens du présent article, constituent des épaves ou leur sont assimilés :
 	- **a)** les objets rejetés, flottants ou abandonnés, ainsi que les lagans, trouvés sur les côtes, en mer, dans les eaux à marée ou dans les eaux internes;
 	- **b)** la cargaison, les provisions de bord et les agrès et apparaux de tout ou partie d’un navire qui s’en sont détachés;
 	- **c)** les biens des naufragés;
 	- **d)** les aéronefs accidentés, leurs débris et leur cargaison.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 16; 2001, ch. 26, art. 299.
+
 
 
 
