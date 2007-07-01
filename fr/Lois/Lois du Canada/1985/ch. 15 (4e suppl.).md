@@ -27,19 +27,11 @@
 
 ***employé*** Personne au service d’un employeur.
 
-***employeur*** Quiconque emploie un ou plusieurs employés dans les conditions visées au paragraphe 123(1) du 
-[Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) ou, selon le cas :
-
-- **a)
-** le Conseil du Trésor, pour ce qui est des fonctionnaires appartenant à un secteur de l’administration publique fédérale spécifié aux annexes I ou IV de la 
-[Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md);
-- **b)
-** l’organisme distinct mentionné à l’annexe V de la 
-[Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), pour ce qui est des fonctionnaires qui relèvent de lui;
-- **c)
-** le Sénat, la Chambre des communes, la bibliothèque du Parlement, le bureau du conseiller sénatorial en éthique ou le commissariat à l’éthique, pour ce qui est de leurs employés ou de ceux des comités respectifs de l’une ou l’autre des deux chambres;
-- **d)
-** parlementaire, éventuellement ministre, pour ce qui est de son personnel ou des employés qui, appartenant au personnel d’un parti politique et travaillant dans des locaux du Sénat ou de la Chambre des communes, sont placés sous son autorité.
+***employeur*** Quiconque emploie un ou plusieurs employés dans les conditions visées au paragraphe 123(1) du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) ou, selon le cas :
+- **a)** le Conseil du Trésor, pour ce qui est des fonctionnaires appartenant à un secteur de l’administration publique fédérale spécifié aux annexes I ou IV de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md);
+- **b)** l’organisme distinct mentionné à l’annexe V de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), pour ce qui est des fonctionnaires qui relèvent de lui;
+- **c)** le Sénat, la Chambre des communes, la bibliothèque du Parlement, le bureau du conseiller sénatorial en éthique ou le commissariat à l’éthique, pour ce qui est de leurs employés ou de ceux des comités respectifs de l’une ou l’autre des deux chambres;
+- **d)** parlementaire, éventuellement ministre, pour ce qui est de son personnel ou des employés qui, appartenant au personnel d’un parti politique et travaillant dans des locaux du Sénat ou de la Chambre des communes, sont placés sous son autorité.
 
 ***fumoir*** Pièce, désignée en application du paragraphe 3(2), où il est permis de fumer.
 
@@ -55,7 +47,7 @@
 
 **Application extraterritoriale**
 
-- **(2)** La présente loi, à l’exception de l’article 10, s’applique, hors du Canada, aux lieux de travail situés à bord des aéronefs, trains ou véhicules automobiles exploités, entre le Canada et un autre pays, par un Canadien — au sens de l’article 55 de la [Loi sur les transports au Canada](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md) — , ou à bord des navires immatriculés sous le régime de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md) et exploités entre le Canada et un autre pays, dans la mesure où cette application sur un territoire étranger n’entraîne pas de violation des lois de celui-ci.
+- **(2)** La présente loi, à l'exception de l'article 10, s'applique, hors du Canada, aux lieux de travail situés à bord des aéronefs, trains ou véhicules automobiles exploités, entre le Canada et un autre pays, par un Canadien — au sens de l'article 55 de la [Loi sur les transports au Canada](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md) —, ou à bord des bâtiments immatriculés ou enregistrés sous le régime de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md) et exploités entre le Canada et un autre pays, dans la mesure où cette application sur un territoire étranger n'entraîne pas de violation des lois de celui-ci.
 
 **Non-application aux transporteurs étrangers**
 
@@ -64,7 +56,7 @@
 **Non-application aux trains de banlieue**
 
 - **(4)** La présente loi ne s’applique pas aux lieux de travail situés à bord des trains de banlieue exploités par ou pour un gouvernement ou un organisme public provincial.
-> L.R. (1985), ch. 15 (4<sup>e</sup> suppl.), art. 2; 1989, ch. 7, art. 1; 1996, ch. 10, art. 247; 2000, ch. 20, art. 28; 2003, ch. 22, art. 176; 2004, ch. 7, art. 25.
+> L.R. (1985), ch. 15 (4<sup>e</sup> suppl.), art. 2; 1989, ch. 7, art. 1; 1996, ch. 10, art. 247; 2000, ch. 20, art. 28; 2001, ch. 26, art. 312; 2003, ch. 22, art. 176; 2004, ch. 7, art. 25.
 
 
 
