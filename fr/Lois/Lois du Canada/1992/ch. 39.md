@@ -65,10 +65,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***usager particulier***[Abrogée, 2002, ch. 10, art. 180]
 
-***utilisation*** S’agissant des eaux, utilisation directe ou indirecte de toute nature, y compris, notamment, le détournement ou le barrage des eaux, toute modification de leur cours ou toute modification des rives ou du lit d’un cours d’eau, d’un lac ou autre plan d’eau, qu’il soit saisonnier ou non, mais à l’exclusion des utilisations liées aux activités de navigation marchande régies par la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md).
+***utilisation*** S'agissant des eaux, utilisation directe ou indirecte de toute nature, y compris, notamment, le détournement ou le barrage des eaux, toute modification de leur cours ou toute modification des rives ou du lit d'un cours d'eau, d'un lac ou autre plan d'eau, qu'il soit saisonnier ou non, mais à l'exclusion des utilisations liées aux activités de navigation marchande régies par la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md).
 
 ***zone de gestion*** Zone de gestion des eaux constituée par règlement du gouverneur en conseil pris au titre du sous-alinéa 33(1)a)(i).
-> 1992, ch. 39, art. 2; 2002, ch. 10, art. 180(F).
+> 1992, ch. 39, art. 2; 2001, ch. 26, art. 313; 2002, ch. 10, art. 180(F).
 
 
 
