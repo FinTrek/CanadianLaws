@@ -3208,7 +3208,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 
 **160** 
 
-- **(1)** Pour l’application des articles 161 à 165, ***rejets*** désigne les déversements, dégagements ou écoulements d’hydrocarbures non autorisés sous le régime des règlements ou de toute autre règle de droit fédérale ou constituant des rejets de polluants imputables à un navire auquel s’applique la partie XV de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md) ou la partie 6 de la [Loi sur la responsabilité en matière maritime](/fr/Lois/Lois%20du%20Canada/2001/ch.%206.md).
+- **(1)** Pour l’application des articles 161 à 165, ***rejets*** désigne les déversements, dégagements ou écoulements d’hydrocarbures non autorisés sous le régime des règlements ou de toute autre règle de droit fédérale ou constituant des rejets de polluants imputables à un bâtiment auquel les parties 8 ou 9 de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md)  s’appliquent ou à un navire auquel la partie 6 de la [Loi sur la responsabilité en matière maritime](/fr/Lois/Lois%20du%20Canada/2001/ch.%206.md) s’applique.
 
 **Définition de débris**
 
@@ -3221,7 +3221,7 @@ il peut, en outre, ordonner l’arrêt total ou partiel de l’exploitation du g
 **Immunité**
 
 - **(4)** Sa Majesté du chef du Canada n’encourt aucune responsabilité du fait que le gouverneur en conseil a, par règlement, autorisé certains déversements, dégagements ou écoulements d’hydrocarbures.
-> 1987, ch. 3, art. 160; 1992, ch. 35, art. 73; 2001, ch. 6, art. 110.
+> 1987, ch. 3, art. 160; 1992, ch. 35, art. 73; 2001, ch. 6, art. 110, ch. 26, art. 280 et 324.
 
 
 
