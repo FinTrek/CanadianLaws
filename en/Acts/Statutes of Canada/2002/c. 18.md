@@ -385,7 +385,7 @@ and an amendment so laid stands referred to the standing committee of each House
 
 **Marine matters**
 
-- **(3)** Regulations under this section restricting or prohibiting marine navigation or activities related to marine safety may be made only on the recommendation of the Minister and the Minister of Transport.
+- **(3)** Regulations under this section that restrict or prohibit marine navigation or activities related to marine safety, to the extent that such regulations can be made on the recommendation of the Minister of Transport under the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md) or the [Arctic Waters Pollution Prevention Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-12.md), may only be made on the recommendation of the Minister and the Minister of Transport.
 
 **Air navigation**
 
@@ -393,8 +393,8 @@ and an amendment so laid stands referred to the standing committee of each House
 
 **Conflicts**
 
-- **(5)** Regulations referred to in subsection (2), (3) or (4) prevail over regulations made under the [Fisheries Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-14.md), the [Coastal Fisheries Protection Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-33.md), the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md), the [Arctic Waters Pollution Prevention Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-12.md), the Navigable Waters Protection Act or the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md) to the extent of any conflict between them.
-> 2002, c. 18, s. 16; 2005, c. 29, s. 35.
+- **(5)** Regulations referred to in subsection (2), (3) or (4) prevail over regulations made under the [Fisheries Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-14.md), the [Coastal Fisheries Protection Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-33.md), the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md), the [Arctic Waters Pollution Prevention Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-12.md), the Navigable Waters Protection Act or the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md) to the extent of any conflict between them.
+> 2002, c. 18, s. 16; 2001, c. 26, s. 322; 2005, c. 29, s. 35.
 
 
 
@@ -603,7 +603,9 @@ the justice of the peace may issue a warrant authorizing a marine conservation a
 
 **Exception**
 
-- **(4)** No measures may be directed to be taken under subsection (2) to prevent or mitigate any degradation or injury if action may be taken under the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md), the [Arctic Waters Pollution Prevention Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-12.md) or the [Canadian Environmental Protection Act, 1999](/en/Acts/Statutes%20of%20Canada/1999/c.%2033.md), to prevent or mitigate the same degradation or injury.
+- **(4)** No measures may be directed to be taken under subsection (2) to prevent or mitigate any degradation or injury if action may be taken under the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md), the [Arctic Waters Pollution Prevention Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-12.md) or the [Canadian Environmental Protection Act, 1999](/en/Acts/Statutes%20of%20Canada/1999/c.%2033.md), to prevent or mitigate the same degradation or injury.
+> 2002, c. 18, s. 29; 2001, c. 26, s. 322.
+
 
 
 
