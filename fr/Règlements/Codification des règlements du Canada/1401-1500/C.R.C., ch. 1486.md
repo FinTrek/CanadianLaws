@@ -5,7 +5,7 @@
 **C.R.C., ch. 1486**
 
 Autorités habilitantes : 
-- [LOI SUR LA MARINE MARCHANDE DU CANADA](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md)
+- [LOI DE 2001 SUR LA MARINE MARCHANDE DU CANADA](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md)
 
 ----------
 
@@ -86,7 +86,7 @@ Autorités habilitantes :
 
 
 **PARTIE I** 
-## Bateaux de pêche d’une jauge brute de plus de 15 tonneaux
+## Bateaux de pêche d’une jauge brute de plus de 15 tonneaux
 
 
 
@@ -153,7 +153,7 @@ le 6 juillet 1977 ou après.
 
 
 
-### Installations d'épuisement de cale
+### Installations d’épuisement de cale
 
 
 **9** 
@@ -196,7 +196,7 @@ le 6 juillet 1977 ou après.
 
 
 
-### Systèmes d'alimentation en combustible avec dispositifs de ventilation
+### Systèmes d’alimentation en combustible avec dispositifs de ventilation
 > [DORS/89-283, art. 3]
 
 
@@ -369,7 +369,7 @@ le 6 juillet 1977 ou après.
 
 
 
-### Tuyaux d'échappement
+### Tuyaux d’échappement
 
 
 **13** 
@@ -491,7 +491,7 @@ D = 16,67  racine cubique (A × R × V<sup>2</sup>)
 
 
 
-### Lignes d'arbres
+### Lignes d’arbres
 
 
 **18** 
@@ -920,7 +920,7 @@ N = (L × B × C) ÷ (0,75)
 
 
 
-### Matériel d'extinction d'incendie
+### Matériel d’extinction d’incendie
 
 
 **35** 
@@ -1332,7 +1332,7 @@ N = (L × B × C) ÷ (0,75)
 
 
 **PARTIE II** 
-## Bateaux de pêche d’une jauge brute d’au plus 15 tonneaux
+## Bateaux de pêche d’une jauge brute d’au plus 15 tonneaux
 
 
 
@@ -1370,7 +1370,7 @@ N = (L × B × C) ÷ (0,75)
 
 
 
-### Matériel d'extinction d'incendie
+### Matériel d’extinction d’incendie
 
 
 **54** 
