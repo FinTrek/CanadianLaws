@@ -308,10 +308,8 @@ in the circumstances prescribed, at any stage of the proceedings; and
 
 - **(3)** Paragraph 3(2)(d) of the [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply in respect of an order of the lieutenant governor in council of a province under subsection (2).
 
-**[Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md) offences**
-
-- **(4)** Notwithstanding section 606 of the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md), one justice of the peace has jurisdiction in respect of a contravention for which proceedings are commenced under this Act.
-> 1992, c. 47, s. 17; 1996, c. 7, s. 7; 2002, c. 1, s. 169
+- **(4)** [Repealed, 2001, c. 26, s. 293]
+> 1992, c. 47, s. 17; 1996, c. 7, s. 7; 2001, c. 26, s. 293; 2002, c. 1, s. 169
 
 
 
