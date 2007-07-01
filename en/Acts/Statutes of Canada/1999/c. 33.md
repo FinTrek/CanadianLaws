@@ -2785,21 +2785,21 @@ that a living organism is toxic or capable of becoming toxic, the Minister may e
 
 - **(1)** The definitions in this subsection apply in this Division and in Part 10.
 
-***aircraft*** means a machine that is used or designed for navigation in the air, but does not include an air cushion vehicle.
+***aircraft*** means a machine that is used or designed for navigation in the air, but does not include an air cushion vehicle. (*aéronef*)
 
-***Canadian aircraft*** means an aircraft that is registered under an Act of Parliament.
+***Canadian aircraft*** means an aircraft that is registered under an Act of Parliament. (*aéronef canadien*)
 
-***Canadian permit*** means a permit that is issued under subsection 127(1) or 128(2).
+***Canadian permit*** means a permit that is issued under subsection 127(1) or 128(2). (*permis canadien*)
 
-***Canadian ship*** means a ship that is registered under an Act of Parliament.
+***Canadian ship*** means a ship that is registered under an Act of Parliament. (*navire canadien*)
 
-Version anglaise seulement***condition*** means, in respect of a permit, any term or condition of the permit.
+***condition*** means, in respect of a permit, any term or condition of the permit. (***Version anglaise seulement***)
 
-***contracting party*** means a state that is a contracting party to the Convention or the Protocol.
+***contracting party*** means a state that is a contracting party to the Convention or the Protocol. (*partie contractante*)
 
-***Convention*** means the Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter signed by Canada on December 29, 1972, as amended from time to time.
+***Convention*** means the Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter signed by Canada on December 29, 1972, as amended from time to time. (*Convention*)
 
-***disposal*** means
+***disposal*** means
 - **(a)** the disposal of a substance at sea from a ship, an aircraft, a platform or another structure,
 - **(b)** the disposal of dredged material into the sea from any source not mentioned in paragraph (a),
 - **(c)** the storage on the seabed, in the subsoil of the seabed or on the ice in any area of the sea of a substance that comes from a ship, an aircraft, a platform or another structure,
@@ -2812,21 +2812,21 @@ but does not include
 - **(h)** a disposal of a substance that is incidental to or derived from the normal operations of a ship, an aircraft, a platform or another structure or of any equipment on a ship, an aircraft, a platform or another structure, other than the disposal of substances from a ship, an aircraft, a platform or another structure operated for the purpose of disposing of such substances at sea,
 - **(i)** the placement of a substance for a purpose other than its mere disposal if the placement is not contrary to the purposes of this Division and the aims of the Convention or the Protocol,
 - **(j)** the abandonment of any matter, such as a cable, pipeline or research device, placed on the seabed or in the subsoil of the seabed for a purpose other than its mere disposal, or
-- **(k)** a discharge or storage directly arising from, or directly related to, the exploration for, exploitation of and associated off-shore processing of seabed mineral resources.
+- **(k)** a discharge or storage directly arising from, or directly related to, the exploration for, exploitation of and associated off-shore processing of seabed mineral resources. (*immersion*)
 
-***incineration*** means the combustion of a substance on board a ship, a platform or another structure at sea for the purpose of its thermal destruction.
+***incineration*** means the combustion of a substance on board a ship, a platform or another structure at sea for the purpose of its thermal destruction. (*incinération*)
 
-***master*** means the person in command or charge of a ship, but does not include a licensed pilot, within the meaning of section 2 of the [Pilotage Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-14.md).
+***master*** means the person in command or charge of a ship, but does not include a licensed pilot, within the meaning of section 1.1 of the [Pilotage Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-14.md). (*capitaine*)
 
-***owner***, in relation to any ship, aircraft, platform or other structure, includes the person who has the possession or use, by law or contract, of the ship, aircraft, platform or other structure.
+***owner***, in relation to any ship, aircraft, platform or other structure, includes the person who has the possession or use, by law or contract, of the ship, aircraft, platform or other structure. (*propriétaire*)
 
-***Protocol*** means the 1996 Protocol to the Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter, 1972, as amended from time to time.
+***Protocol*** means the 1996 Protocol to the Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter, 1972, as amended from time to time. (*Protocole*)
 
-***ship*** includes a vessel, boat or craft designed, used or capable of being used solely or partly for marine navigation, without regard to its method or lack of propulsion, and includes an air cushion vehicle.
+***ship*** includes a vessel, boat or craft designed, used or capable of being used solely or partly for marine navigation, without regard to its method or lack of propulsion, and includes an air cushion vehicle. (*navire*)
 
-Version anglaise seulement***structure*** means a structure that is made by a person.
+***structure*** means a structure that is made by a person. (***Version anglaise seulement***)
 
-***waste or other matter*** means waste or other matter listed in Schedule 5.
+***waste or other matter*** means waste or other matter listed in Schedule 5. (*déchets ou autres matières*)
 
 **Definition of sea**
 
@@ -2840,7 +2840,7 @@ Version anglaise seulement***structure*** means a structure that is made by a pe
 	- **(e)** an area of the sea adjacent to the areas referred to in paragraphs (a) to (d) that is specified under paragraph 135(1)(g);
 	- **(f)** an area of the sea under the jurisdiction of a foreign state, other than its internal waters; and
 	- **(g)** an area of the sea, other than the internal waters of a foreign state, not included in the areas of the sea referred to in paragraphs (a) to (f).
-> 1999, c. 33, s. 122; 2005, c. 23, s. 18.
+> 1999, c. 33, s. 122; 2005, c. 23, ss. 18, 49.
 
 
 
@@ -2965,8 +2965,8 @@ Version anglaise seulement***structure*** means a structure that is made by a pe
 
 **Exception**
 
-- **(6)** This section does not apply in respect of any disposal that is authorized under the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md).
-> 1999, c. 33, s. 125; 2005, c. 23, s. 22.
+- **(6)** This section does not apply in respect of any disposal that is authorized under the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md).
+> 1999, c. 33, s. 125; 2005, c. 23, ss. 22, 50.
 
 
 
@@ -5086,16 +5086,16 @@ the Governor in Council may make an order stating that opinion and, if such an o
 **216.1** 
 
 - **(1)** For the purpose of subsections 217(6), 218(16) and (17) and 220(5.1) and section 275.1, a ***ship that is not a Canadian ship*** does not include a ship that
-	- **(a)** is not registered, listed or licensed under the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md) or under the laws of another state but is owned by one or more persons each of whom is
+	- **(a)** that is not registered, listed or licensed under the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md) or under the laws of another state but is owned by one or more persons each of whom is
 		- **(i)** a Canadian citizen,
-		- **(ii)** in the case of a ship that is not required to be registered, listed or licensed under that Act, a person who is resident and domiciled in Canada, or
-		- **(iii)** a corporation incorporated under the laws of Canada or a province, that has its principal place of business in Canada: or
-	- **(b)** is not registered, listed or licensed under the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md) but is owned or operated by Her Majesty in right of Canada.
+		- **(ii)** in the case of a vessel that is not required to be registered, listed or licensed under that Act, a person who is resident and domiciled in Canada, or
+		- **(iii)** a corporation incorporated under the laws of Canada or a province, that has its principal place of business in Canada; or
+	- **(b)** that is not registered, listed or licensed under the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md) but is owned or operated by Her Majesty in right of Canada.
 
 **Definition of committed in the course of enforcement of this Act**
 
 - **(2)** For the purpose of subsections 217(4) and 271.1(2), sections 275.1 and 278.1 and subsections 279(1) and (3), ***committed in the course of enforcement of this Act*** means committed by or against a person who is engaged in carrying out duties or functions, or exercising a power, under this Act or a person acting under their direction and control.
-> 2005, c. 23, s. 29.
+> 2005, c. 23, ss. 29, 51.
 
 
 
@@ -6235,10 +6235,7 @@ those of the applicant and the intervenors in respect of whom the Court is so sa
 
 
 
-
-**Construction of subsection 389(5) of [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md)**
-
-**277** Subsection 389(5) of the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md) is not to be construed so as to relieve any person from liability under this Act.
+**277** [Repealed, 2001, c. 26, s. 283]
 
 
 
