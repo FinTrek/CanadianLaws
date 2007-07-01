@@ -3379,7 +3379,7 @@ Cette offre leur est faite simultanément.
 
 ***compagnie de chemin de fer régie*** La Compagnie des chemins de fer nationaux du Canada, la Compagnie de chemin de fer Canadien Pacifique et toute autre compagnie de chemin de fer précisée par règlement.
 
-***exportation*** L’expédition de grain par bâtiment, au sens de l’article 2 de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md), vers toute destination à l’étranger ainsi que l’expédition de grain par tout autre moyen de transport vers les États-Unis pour l’utilisation dans ce pays et non pour expédition hors de celui-ci.
+***exportation*** L’expédition de grain par bâtiment, au sens de l’article 2 de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md), vers toute destination à l’étranger ainsi que l’expédition de grain par tout autre moyen de transport vers les États-Unis pour l’utilisation dans ce pays et non pour expédition hors de celui-ci.
 
 ***grain***
 - **a)** Grain ou plante mentionnés à l’annexe II et cultivés dans la région de l’Ouest, y étant assimilés les produits mentionnés à cette annexe provenant de leur transformation dans cette région;
@@ -3394,7 +3394,7 @@ Cette offre leur est faite simultanément.
 ***région de l’Ouest*** La partie du Canada située à l’ouest du méridien qui coupe la limite est de la ville de Thunder Bay, y compris toute la province du Manitoba.
 
 ***wagon-trémie du gouvernement*** Wagon-trémie fourni à une compagnie de chemin de fer régie par le gouvernement fédéral, le gouvernement d’une province ou la Commission canadienne du blé.
-> 1996, ch. 10, art. 147; 2000, ch. 16, art. 9; 2005, ch. 24, art. 3.
+> 1996, ch. 10, art. 147; 2000, ch. 16, art. 9; 2001, ch. 26, art. 282; 2005, ch. 24, art. 3.
 
 
 
