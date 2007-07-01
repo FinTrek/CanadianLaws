@@ -303,10 +303,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(3)** L’alinéa 3(2)d) de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’applique pas à l’égard d’un décret pris par le lieutenant-gouverneur en conseil d’une province en vertu du paragraphe (2).
 
-**Infractions à la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md)**
-
-- **(4)** Par dérogation à l’article 606 de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md), un juge de paix a compétence à l’égard des contraventions pour lesquelles les procédures sont introduites en application de la présente loi.
-> 1992, ch. 47, art. 17; 1996, ch. 7, art. 7; 2002, ch. 1, art. 169
+- **(4)** [Abrogé, 2001, ch. 26, art. 293]
+> 1992, ch. 47, art. 17; 1996, ch. 7, art. 7; 2001, ch. 26, art. 293; 2002, ch. 1, art. 169
 
 
 
