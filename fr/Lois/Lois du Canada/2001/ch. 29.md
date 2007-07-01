@@ -41,12 +41,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Compétence générale**
 
-- **(2)** Le Tribunal connaît des requêtes en révision dont il est saisi en vertu de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md), la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md), la [Loi sur la sûreté du transport maritime](/fr/Lois/Lois%20du%20Canada/1994/ch.%2040.md), la [Loi sur la sécurité ferroviaire](/fr/Lois/Lois%20du%20Canada/1985/ch.%2032%20(4e%20suppl.).md) ou toute autre loi fédérale concernant les transports. Il connaît également des appels interjetés des décisions qu’il a rendues dans les dossiers de révision.
+- **(2)** Le Tribunal connaît des requêtes en révision dont il est saisi en vertu de la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md), la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md), la [Loi sur la sûreté du transport maritime](/fr/Lois/Lois%20du%20Canada/1994/ch.%2040.md), la [Loi sur la sécurité ferroviaire](/fr/Lois/Lois%20du%20Canada/1985/ch.%2032%20(4e%20suppl.).md) ou toute autre loi fédérale concernant les transports. Il connaît également des appels interjetés des décisions qu’il a rendues dans les dossiers de révision.
 
 **Compétence en vertu d’autres lois**
 
 - **(3)** Le Tribunal connaît également des requêtes en révision et des appels portant sur les sanctions administratives pécuniaires prévues aux articles 177 à 181 de la [Loi sur les transports au Canada](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md) et les pénalités visées aux articles 43 à 55 de la [Loi sur les ponts et tunnels internationaux](/fr/Lois/Lois%20du%20Canada/2007/ch.%201.md).
-> 2001, ch. 29, art. 2; 2007, ch. 1, art. 59.
+> 2001, ch. 29, art. 2 et 71; 2007, ch. 1, art. 59.
 
 
 
