@@ -5,7 +5,7 @@
 **C.R.C., ch. 1432**
 
 Autorités habilitantes : 
-- [LOI SUR LA MARINE MARCHANDE DU CANADA](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md)
+- [LOI DE 2001 SUR LA MARINE MARCHANDE DU CANADA](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md)
 
 ----------
 
