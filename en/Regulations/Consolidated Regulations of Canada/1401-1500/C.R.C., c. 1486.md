@@ -5,7 +5,7 @@
 **C.R.C., c. 1486**
 
 Enabling authorities: 
-- [CANADA SHIPPING ACT](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md)
+- [CANADA SHIPPING ACT, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md)
 
 ----------
 
@@ -86,7 +86,7 @@ Enabling authorities:
 
 
 **PART I** 
-## Fishing Vessels Exceeding 15 Tons, Gross Tonnage
+## Fishing Vessels Exceeding 15 Tons, Gross Tonnage
 
 
 
@@ -1332,7 +1332,7 @@ where
 
 
 **PART II** 
-## Fishing Vessels Not Exceeding 15 Tons, Gross Tonnage
+## Fishing Vessels Not Exceeding 15 Tons, Gross Tonnage
 
 
 
