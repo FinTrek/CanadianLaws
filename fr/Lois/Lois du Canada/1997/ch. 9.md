@@ -1108,10 +1108,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-**Interprétation du par. 389(5) de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md)**
-
-**54** Le paragraphe 389(5) de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md) ne s’applique pas aux substances nucléaires, à l’équipement réglementé, aux installations nucléaires ni aux véhicules à propulsion nucléaire.
+**54** [Abrogé, 2001, ch. 26, art. 314]
 
 
 
