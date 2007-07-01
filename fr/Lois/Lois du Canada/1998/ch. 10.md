@@ -1170,7 +1170,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Normes nationales**
 
-- **(3)** Sous réserve des règlements d’application de l’article 62, les pratiques et procédures normalisées par une administration portuaire au titre du paragraphe (1) ne peuvent être incompatibles avec les normes et pratiques nationales relatives aux services de trafic maritime, notamment celles établies en vertu de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md).
+- **(3)** Sous réserve des règlements d'application de l'article 62, les pratiques et procédures normalisées par une administration portuaire au titre du paragraphe (1) ne peuvent être incompatibles avec les normes et pratiques nationales relatives aux services de trafic maritime, notamment celles établies en vertu de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md).
+> 1998, ch. 10, art. 56; 2001, ch. 26, art. 276.
+
 
 
 
@@ -1227,7 +1229,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **c)** la proximité d’animaux dont le bien-être peut être mis en danger par les mouvements du navire;
 	- **d)** la présence d’obstacles à la navigation dans la zone;
 	- **e)** la proximité d’un navire apparemment en difficulté ou qui représente un risque de pollution ou constitue un danger pour la vie ou la propriété;
-	- **f)** la proximité d’un navire qui se déplace de façon dangereuse, dont l’équipement de navigation ou de radiocommunication est défectueux ou qui n’est pas muni des cartes et documents exigés par les règlements pris en vertu de l’alinéa 562.1(1) a) de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md);
+	- **f)** la proximité d'un navire qui se déplace de façon dangereuse, dont l'équipement de navigation ou de radiocommunication est défectueux ou qui n'est pas muni des cartes et documents exigés par les règlements pris en vertu de l'alinéa 120(1)b) de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md);
 	- **g)** la trop forte densité de la circulation qui constitue un risque inacceptable pour la navigation, le public ou l’environnement;
 	- **h)** l’efficacité des opérations portuaires peut être compromise.
 
@@ -1236,6 +1238,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(3)** Il est interdit à un navire :
 	- **a)** dans les cas où il est tenu d’obtenir une autorisation de mouvement, d’entrer dans un port ou dans une zone de circulation portuaire de ce port, d’en sortir ou de s’y déplacer sans avoir obtenu une telle autorisation sous le régime du présent article;
 	- **b)** dans les cas où il est tenu de maintenir la communication directe avec une personne nommée en vertu du paragraphe (1), de se déplacer dans un port sans être capable de maintenir la communication.
+> 1998, ch. 10, art. 58; 2001, ch. 26, art. 277.
+
 
 
 
@@ -2449,7 +2453,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **120** 
 
-- **(1)** Le produit de la vente d’un navire dont la vente a été autorisée est affecté au paiement des créances salariales des marins, visées par la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md), puis à celui des sommes suivantes selon l’ordre de priorité suivant :
+- **(1)** Le produit de la vente d’un navire dont la vente a été autorisée est affecté au paiement des créances salariales des membres de l’équipage, visées par la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md), puis à celui des sommes suivantes selon l’ordre de priorité suivant :
 	- **a)** un montant représentant :
 		- **(i)** soit l’amende maximale qui aurait pu être infligée pour l’infraction, dans le cas visé par le paragraphe 117(1),
 		- **(ii)** soit les droits et intérêts dus, dans le cas visé par le paragraphe 117(2),
@@ -2481,6 +2485,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Risques et frais**
 
 - **(7)** Les rétentions et saisies sont aux risques et aux frais du propriétaire des marchandises ou du navire saisis jusqu’à paiement intégral des créances ou amendes, ainsi que des frais relatifs à la rétention et à la saisie, et des frais de toute condamnation pour contravention à la présente loi.
+> 1998, ch. 10, art. 120; 2001, ch. 26, art. 278.
+
 
 
 
@@ -2500,13 +2506,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **122** 
 
-- **(1)** L’administration portuaire, le ministre ou la personne qui a conclu une entente en vertu du paragraphe 80(5) est toujours titulaire d’un privilège sur le navire et sur le produit de toute aliénation qui en est faite, pour sa créance; ce privilège a priorité sur tous autres droits et créances, quelle qu’en soit la nature, à la seule exception des créances salariales des marins, visées par la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md), dans les cas suivants :
+- **(1)** L'administration portuaire, le ministre ou la personne qui a conclu une entente en vertu du paragraphe 80(5) est toujours titulaire d'un privilège sur le navire et sur le produit de toute aliénation qui en est faite, pour sa créance; ce privilège a priorité sur tous autres droits et créances, quelle qu'en soit la nature, à la seule exception des créances salariales des membres de l'équipage, visées par la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md), dans les cas suivants :
 	- **a)** pour défaut de paiement des droits et des intérêts exigibles à l’égard du navire ou de sa cargaison;
 	- **b)** pour dommages causés à des biens par le navire ou par la faute ou la négligence d’un membre de son équipage agissant dans l’exercice de ses fonctions ou sous les ordres d’un officier supérieur.
 
 **Privilèges — marchandises**
 
 - **(2)** L’administration portuaire, le ministre ou la personne qui a conclu une entente en vertu du paragraphe 80(5) est toujours titulaire d’un privilège sur les marchandises placées sous leur compétence pour les droits et les intérêts qui leur sont dus à l’égard de ces marchandises; ce privilège a priorité sur tous autres droits et créances, quelle qu’en soit la nature. L’administration, le ministre ou cette personne peuvent saisir ces marchandises en exécution du privilège.
+> 1998, ch. 10, art. 122; 2001, ch. 26, art. 279.
+
 
 
 
