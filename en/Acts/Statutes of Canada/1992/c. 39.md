@@ -65,7 +65,7 @@ Version anglaise seulement***licensee*** means the holder of a licence;
 - **(b)** any alteration of the flow of waters, and
 - **(c)** any alteration of the bed or banks of a river, stream, lake or other body of water, whether or not the body of water is seasonal,
 
-but does not include a use connected with shipping activities that are governed by the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md);
+but does not include a use connected with shipping activities that are governed by the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md);
 
 ***waste*** means
 - **(a)** any substance that, if added to water, would degrade or alter or form part of a process of degradation or alteration of the quality of the water to an extent that is detrimental to its use by people or by any animal, fish or plant, or
@@ -80,7 +80,7 @@ and, without limiting the generality of the foregoing, includes
 ***water management area*** means a water management area established by the Governor in Council by regulations made under subparagraph 33(1)(a)(i);
 
 ***waters*** means any inland water, whether in a liquid or frozen state, on or below the surface of the land in the Northwest Territories.
-> 1992, c. 39, s. 2; 2002, c. 10, s. 180(F).
+> 1992, c. 39, s. 2; 2001, c. 26, s. 313; 2002, c. 10, s. 180(F).
 
 
 
