@@ -339,12 +339,14 @@ L’interdiction vise toute personne, qu’elle soit propriétaire ou non de l�
 
 **Effet de la loi sur d’autres textes législatifs**
 
-**20** La présente loi n’a pas pour effet de porter atteinte :
-- **a)** aux dispositions de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md) concernant les gardiens de port;
+**20** La présente loi n’a pas pour effet de porter atteinte :
+- **a)** aux dispositions de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md) relatives aux inspections autorisées sous le régime de l’alinéa 11(2)e) de cette loi;
 - **b)** au chapitre 33 des Statuts du Canada de 1871, intitulé [Acte pour pourvoir à la nomination d’un gardien de port pour le Havre de Québec](/fr/Lois/Lois%20du%20Canada/1871/ch.%2033.md);
 - **c)** au chapitre 11 des Statuts du Canada de 1873, intitulé Acte pour amender les actes concernant les Gardiens de port à Montréal et à Québec;
 - **d)** au chapitre 45 des Statuts du Canada de 1882, intitulé [Acte à l’effet d’amender et refondre les actes concernant l’emploi de gardien de port pour le havre de Montréal](/fr/Lois/Lois%20du%20Canada/1882/ch.%2045.md).
 Elle doit plutôt, en ce qui concerne les ports énumérés ci-dessus, être interprétée comme complétant ces lois sans y déroger.
+> 1990, ch. 21, art. 20; 2001, ch. 26, art. 304.
+
 
 
 
