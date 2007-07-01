@@ -10,33 +10,36 @@ Autorités habilitantes :
 ----------
 
 
+[Abrogé, DORS/2006-126, art. 1]
+
+
 
 ## Titre abrégé
+> [Abrogée, DORS/2006-126, art. 1]
 
 
-**1** Le présent règlement peut être cité sous le titre : Règlement sur la protection des aides à la navigation.
+
+**1** [Abrogé, DORS/2006-126, art. 1]
 
 
 
 
 ## Interprétation
+> [Abrogée, DORS/2006-126, art. 1]
 
 
-**2** Dans le présent règlement, «aide à la navigation» désigne une bouée, une balise, un phare, un bateau-phare ou tout autre ouvrage ou dispositif qui est installé, construit ou entretenu en vue d’aider à la conduite des navires.
+
+**2** [Abrogé, DORS/2006-126, art. 1]
 
 
 
 
 ## Dispositions générales
+> [Abrogée, DORS/2006-126, art. 1]
 
 
-**3** 
 
-- **(1)** La personne responsable d’un navire ou d’une remorque qui renverse, déplace, endommage ou détruit une aide à la navigation doit en informer aussitôt que possible le plus proche directeur général régional ou gestionnaire de district de la Garde côtière canadienne du ministère des Transports.
-
-- **(2)** Quiconque contrevient au paragraphe (1) est passible d’une amende de 200 $.
-> DORS/90-737, art. 1.
-
+**3** [Abrogé, DORS/2006-126, art. 1]
 
 
 
