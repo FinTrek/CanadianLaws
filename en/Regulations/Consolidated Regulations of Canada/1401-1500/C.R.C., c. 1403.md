@@ -10,33 +10,36 @@ Enabling authorities:
 ----------
 
 
+[Repealed, SOR/2006-126, s. 1]
+
+
 
 ## Short Title
+> [Repealed, SOR/2006-126, s. 1]
 
 
-**1** These Regulations may be cited as the Aids to Navigation Protection Regulations.
+
+**1** [Repealed, SOR/2006-126, s. 1]
 
 
 
 
 ## Interpretation
+> [Repealed, SOR/2006-126, s. 1]
 
 
-**2** In these Regulations, ***aid to navigation*** means a buoy, beacon, lighthouse, lightship or any other structure or device installed, built or maintained for the purpose of assisting the navigation of vessels.
+
+**2** [Repealed, SOR/2006-126, s. 1]
 
 
 
 
 ## General
+> [Repealed, SOR/2006-126, s. 1]
 
 
-**3** 
 
-- **(1)** The person in charge of a vessel or tow that runs down, moves, damages or destroys an aid to navigation shall report the fact as soon as is practicable to the nearest Regional Director General or District Manager of the Canadian Coast Guard, Department of Transport.
-
-- **(2)** Every person who fails to comply with subsection (1) is liable to a fine of $200.
-> SOR/90-737, s. 1.
-
+**3** [Repealed, SOR/2006-126, s. 1]
 
 
 
