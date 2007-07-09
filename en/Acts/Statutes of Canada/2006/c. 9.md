@@ -671,7 +671,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - <sup><a href='#nbp_Ind6E8A_hq_1739'>[*]</a></sup>**(1)** The provisions of the [Conflict of Interest Act](/en/Acts/Statutes%20of%20Canada/2006/c.%209,%20s.%202.md), as enacted by section 2 of this Act, sections 3 to 34 of this Act and any provisions enacted or repeals effected by those sections come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='nbp_Ind6E8A_hq_1739'><sup>*</sup></a>: [Note: Sections 35 to 38, 59, 83, 88.1 to 88.2 and 100 to 107 in force on assent December 12, 2006; the *Conflict of Interest Act*, as enacted by section 2, and sections 3 to 34 not in force.]<br />
+<a name='nbp_Ind6E8A_hq_1739'><sup>*</sup></a>: [Note: Sections 35 to 38, 59, 83, 88.1 to 88.2 and 100 to 107 in force on assent December 12, 2006; the [Conflict of Interest Act](/en/Acts/Statutes%20of%20Canada/2006/c.%209,%20s.%202.md), as enacted by section 2, and sections 3 to 34 in force July 9, 2007, *see* SI/2007-75.]<br />
 
 **Order in council**
 
@@ -699,7 +699,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Coming into force**
 
-- **(6)** Section 99 of this Act comes into force on the day on which section 81 of the [Parliament of Canada Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-1.md), as enacted by section 28 of this Act, comes into force.
+- <sup><a href='#nbp_Ind6E93_hq_1755'>[*]</a></sup>**(6)** Section 99 of this Act comes into force on the day on which section 81 of the [Parliament of Canada Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-1.md), as enacted by section 28 of this Act, comes into force.
+
+<a name='nbp_Ind6E93_hq_1755'><sup>*</sup></a>: [Note: Section 99 in force July 9, 2007.]<br />
 
 
 
