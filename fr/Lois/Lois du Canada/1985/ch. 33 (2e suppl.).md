@@ -29,8 +29,8 @@
 
 **Principe**
 
-**2** La présente loi, sous réserve de ses autres dispositions, s’applique, d’une part, aux personnes attachées dans leur travail, comme employés, au Sénat, à la Chambre des communes, à la Bibliothèque du Parlement, au bureau du conseiller sénatorial en éthique, au commissariat à l’éthique ou à des parlementaires, d’autre part à ces institutions et aux parlementaires qui, ès qualités, les emploient ou qui ont sous leur direction ou leur responsabilité des documentalistes ou des personnes chargées de fonctions similaires affectés au service des membres de groupes parlementaires, ainsi qu’à ces documentalistes ou personnes; de plus, sauf disposition expresse de la présente loi, les autres lois fédérales qui réglementent des questions semblables à celles que réglementent la présente loi et les mesures prises en vertu de celles-ci, avant ou après l’entrée en vigueur du présent article, n’ont aucun effet à l’égard des institutions et des personnes visées au présent article.
-> L.R. (1985), ch. 33 (2<sup>e</sup> suppl.), art. 2; 2004, ch. 7, art. 32
+**2** La présente loi, sous réserve de ses autres dispositions, s’applique, d’une part, aux personnes attachées dans leur travail, comme employés, au Sénat, à la Chambre des communes, à la Bibliothèque du Parlement, au bureau du conseiller sénatorial en éthique, au bureau du commissaire aux conflits d’intérêts et à l’éthique ou à des parlementaires, d’autre part à ces institutions et aux parlementaires qui, ès qualités, les emploient ou qui ont sous leur direction ou leur responsabilité des documentalistes ou des personnes chargées de fonctions similaires affectés au service des membres de groupes parlementaires, ainsi qu’à ces documentalistes ou personnes; de plus, sauf disposition expresse de la présente loi, les autres lois fédérales qui réglementent des questions semblables à celles que réglementent la présente loi et les mesures prises en vertu de celles-ci, avant ou après l’entrée en vigueur du présent article, n’ont aucun effet à l’égard des institutions et des personnes visées au présent article.
+> L.R. (1985), ch. 33 (2<sup>e</sup> suppl.), art. 2; 2004, ch. 7, art. 32; 2006, ch. 9, art. 30
 
 
 
@@ -77,11 +77,11 @@
 - **b)** la Chambre des communes, représentée par la personne ou le comité qu’elle désigne pour l’application de la présente partie par un ordre;
 - **c)** la Bibliothèque du Parlement, représentée par le bibliothécaire parlementaire agissant, sous réserve du paragraphe 74(1) de la [Loi sur le Parlement du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-1.md), au nom des deux chambres;
 - **d)** le bureau du conseiller sénatorial en éthique, représenté par le conseiller sénatorial en éthique;
-- **e)** le commissariat à l’éthique, représenté par le commissaire à l’éthique.
+- **e)** le bureau du commissaire aux conflits d’intérêts et à l’éthique, représenté par le commissaire aux conflits d’intérêts et à l’éthique.
 
 ***grève*** S’entend notamment d’un arrêt de travail ou du refus de travailler, par des employés agissant conjointement, de concert ou de connivence; lui sont assimilés le ralentissement du travail ou toute autre activité concertée, de la part des employés, ayant pour objet la diminution ou la limitation du rendement.
 
-***grief*** Plainte écrite déposée conformément à la présente partie par un employé, soit pour son propre compte, soit pour son compte et celui de un ou plusieurs autres employés. Les dispositions de la présente partie relatives aux griefs s’appliquent par ailleurs : 
+***grief*** Plainte écrite déposée conformément à la présente partie par un employé, soit pour son propre compte, soit pour son compte et celui de un ou plusieurs autres employés. Les dispositions de la présente partie relatives aux griefs s’appliquent par ailleurs :
 - **a)** aux personnes visées à l’alinéa d) de la définition de ***employé***;
 - **b)** en ce qui concerne les mesures portant congédiement ou suspension, aux anciens employés, ainsi qu’aux personnes qui auraient eu le statut d’employés si le poste qu’elles occupaient au moment de leur congédiement ou suspension n’avait pas été un poste de direction ou de confiance.
 
@@ -91,7 +91,7 @@
 - **a)** L’employeur et un agent négociateur, dans le cas de négociations collectives, d’un arbitrage ou d’un différend;
 - **b)** l’employeur et l’employé qui a présenté un grief.
 
-***personne occupant un poste de direction ou de confiance*** Personne qui :
+***personne occupant un poste de direction ou de confiance*** Personne qui : 
 - **a)** occupe un poste de confiance auprès de qui exerce les fonctions reconnues de président du Sénat, de président de la Chambre des communes, de greffier du Sénat, de greffier de la Chambre des communes, d’administrateur de la Chambre des communes, de gentilhomme huissier de la verge noire, de sergent d’armes ou de conseiller parlementaire de l’une ou l’autre chambre;
 - **b)** est employée en qualité de conseiller parlementaire dans l’une ou l’autre chambre ou en qualité de conseiller juridique d’un comité de l’une ou l’autre chambre ou d’un comité mixte;
 - **c)** est attachée à l’employeur et qui, sur désignation par la Commission, dans le cas d’une demande d’accréditation d’un agent négociateur pour une unité de négociation, ou, si un tel agent a déjà été accrédité par la Commission, sur désignation dans les formes réglementaires par l’employeur, ou par cette dernière lorsque l’agent négociateur s’y oppose, est classée comme :
@@ -110,7 +110,7 @@
 ***unité de négociation*** Groupe d’employés déclaré constituer, sous le régime de la présente partie, une unité habile à négocier collectivement.
 
 ***vice-président*** Un vice-président de la Commission.
-> L.R. (1985), ch. 33 (2<sup>e</sup> suppl.), art. 3, ch. 1 (4<sup>e</sup> suppl.), art. 31; 1992, ch. 1, art. 144(F); 2003, ch. 22, art. 182 et 187(A); 2004, ch. 7, art. 33
+> L.R. (1985), ch. 33 (2<sup>e</sup> suppl.), art. 3, ch. 1 (4<sup>e</sup> suppl.), art. 31; 1992, ch. 1, art. 144(F); 2003, ch. 22, art. 182 et 187(A); 2004, ch. 7, art. 33; 2006, ch. 9, art. 31
 
 
 
@@ -1524,9 +1524,9 @@ Elle tient aussi compte, dans la mesure où les besoins de l’employeur le perm
 - **b)** la Chambre des communes, représentée par la personne ou le comité qu’elle désigne pour l’application de la présente partie par un ordre;
 - **c)** la Bibliothèque du Parlement, représentée par le bibliothécaire parlementaire agissant, sous réserve du paragraphe 74(1) de la [Loi sur le Parlement du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-1.md), au nom des deux chambres;
 - **c.1)** le bureau du conseiller sénatorial en éthique, représenté par le conseiller sénatorial en éthique;
-- **c.2)** le commissariat à l’éthique, représenté par le commissaire à l’éthique;
+- **c.2)** le bureau du commissaire aux conflits d’intérêts et à l’éthique, représenté par le commissaire aux conflits d’intérêts et à l’éthique;
 - **d)** le parlementaire qui, ès qualités, emploie ou qui a sous sa direction ou sa responsabilité des documentalistes ou des personnes chargées de fonctions similaires affectés au service des membres de groupes parlementaires.
-> L.R. (1985), ch. 33 (2<sup>e</sup> suppl.), art. 85; 2004, ch. 7, art. 34
+> L.R. (1985), ch. 33 (2<sup>e</sup> suppl.), art. 85; 2004, ch. 7, art. 34; 2006, ch. 9, art. 32
 
 
 
