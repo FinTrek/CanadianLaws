@@ -8,7 +8,7 @@
 Sanctionnée sur le 12 décembre 2006
 
 ```
-[Édictée par l’article 2 du chapitre 9 des Lois du Canada (2006), non en vigueur.]
+[Édictée par l’article 2 du chapitre 9 des Lois du Canada (2006), en vigueur le 9 juillet 2007, voir TR/2007-75.]
 ```
 ----------
 
@@ -323,15 +323,15 @@ Sanctionnée sur le 12 décembre 2006
 
 **20** Les définitions qui suivent s’appliquent à la présente partie.
 
-***bien*** S’entend notamment de toute fiducie dont le titulaire de charge publique ou un membre de sa famille est bénéficiaire.
+***bien*** S’entend notamment de toute fiducie dont le titulaire de charge publique ou un membre de sa famille est bénéficiaire. (*assets*)
 
-***bien contrôlé*** Tout bien dont la valeur peut être influencée directement ou indirectement par les décisions ou les politiques du gouvernement, notamment :
+***bien contrôlé*** Tout bien dont la valeur peut être influencée directement ou indirectement par les décisions ou les politiques du gouvernement, notamment :
 - **a)** les valeurs cotées en bourse de sociétés et les titres de gouvernements étrangers, qu’ils soient détenus individuellement ou dans un portefeuille de titres, par exemple, les actions, les obligations, les indices des cours de la bourse, les parts de fiducie, les fonds communs de placement à capital fixe, les effets de commerce et les effets à moyen terme négociables;
 - **b)** les régimes enregistrés d’épargne-retraite et d’épargne-études et les fonds enregistrés de revenu de retraite qui sont autogérés et composés d’au moins un bien qui serait considéré comme un bien contrôlé s’il était détenu à l’extérieur du régime ou du fonds;
 - **c)** les marchandises, les marchés à terme et les devises étrangères détenus ou négociés à des fins de spéculation;
-- **d)** les options d’achat d’actions, les bons de souscription d’actions, les droits de souscription et autres effets semblables.
+- **d)** les options d’achat d’actions, les bons de souscription d’actions, les droits de souscription et autres effets semblables. (*controlled assets*)
 
-***bien exclu*** Tout bien — y compris tout intérêt afférent — réservé à l’usage personnel du titulaire de charge publique et de sa famille ainsi que tout bien de nature non commerciale, notamment :
+***bien exclu*** Tout bien — y compris tout intérêt afférent — réservé à l’usage personnel du titulaire de charge publique et de sa famille ainsi que tout bien de nature non commerciale, notamment :
 - **a)** le domicile principal ou secondaire et les propriétés agricoles réservés à l’usage personnel présent et futur du titulaire ou de sa famille;
 - **b)** les articles ménagers et les effets personnels;
 - **c)** les oeuvres d’art, les antiquités et les objets de collection;
@@ -348,7 +348,7 @@ Sanctionnée sur le 12 décembre 2006
 - **n)** les prêts personnels consentis à des parents du titulaire et les prêts personnels de moins de 10 000 $ consentis à d’autres personnes;
 - **o)** toute somme due au titre d’un prêt hypothécaire de moins de 10 000 $;
 - **p)** les régimes enregistrés d’épargne-retraite et d’épargne-études et les fonds enregistrés de revenu de retraite qui sont autogérés et composés uniquement de biens qui seraient considérés comme des biens exclus s’ils étaient détenus à l’extérieur du régime ou du fonds;
-- **q)** les placements dans les sociétés en commandite dont les actions ne sont pas offertes au public et dont les biens sont des biens exclus.
+- **q)** les placements dans les sociétés en commandite dont les actions ne sont pas offertes au public et dont les biens sont des biens exclus. (*exempt assets*)
 
 
 
@@ -1118,5 +1118,18 @@ Sanctionnée sur le 12 décembre 2006
 **Rapport au Parlement**
 
 - **(2)** Dans l’année qui suit le début de son examen ou dans le délai supérieur que le Parlement ou la chambre en question, selon le cas, lui accorde, le comité visé au paragraphe (1) remet son rapport au Parlement, accompagné des modifications qu’il recommande.
+
+
+
+
+**Commissaire à l’intégrité du secteur public**
+
+**68** Si le commissaire est saisi d’une question en vertu du paragraphe 24(2.1) de la [Loi sur la protection des fonctionnaires divulgateurs d’actes répréhensibles](/fr/Lois/Lois%20du%20Canada/2005/ch.%2046.md), il est tenu :
+- **a)** de fournir au premier ministre un rapport énonçant les faits, son analyse de la question et ses conclusions;
+- **b)** de fournir une copie du rapport à l’intéressé;
+- **c)** de fournir une copie au commissaire à l’intégrité du secteur public;
+- **d)** de rendre public le rapport.
+> 2006, ch. 9, art. 37.
+
 
 
