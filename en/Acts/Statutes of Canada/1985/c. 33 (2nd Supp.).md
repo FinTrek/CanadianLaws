@@ -30,10 +30,10 @@
 **Generally**
 
 **2** Subject to this Act, this Act applies to and in respect of every person employed by, and applies to and in respect of,
-- **(a)** the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer or office of the Ethics Commissioner, and
+- **(a)** the Senate, House of Commons, Library of Parliament, office of the Senate Ethics Officer or office of the Conflict of Interest and Ethics Commissioner, and
 - **(b)** a Member of Parliament who, in that capacity, employs that person or has the direction or control of staff employed to provide research or associated services to the caucus members of a political party represented in Parliament,
 and, except as provided in this Act, nothing in any other Act of Parliament that provides for matters similar to those provided for under this Act and nothing done thereunder, whether before or after the coming into force of this section, shall apply to or in respect of or have any force or effect in relation to the institutions and persons described in this section.
-> R.S., 1985, c. 33 (2nd Supp.), s. 2; 2004, c. 7, s. 32
+> R.S., 1985, c. 33 (2nd Supp.), s. 2; 2004, c. 7, s. 32; 2006, c. 9, s. 30
 
 
 
@@ -56,11 +56,11 @@ and, except as provided in this Act, nothing in any other Act of Parliament that
 
 ***arbitral award*** means an award made by the Board or an arbitrator appointed under section 49 in respect of a dispute;
 
-***bargaining agent*** means an employee organization 
+***bargaining agent*** means an employee organization
 - **(a)** that has been certified by the Board as bargaining agent for a bargaining unit, and
 - **(b)** the certification of which has not been revoked;
 
-***bargaining unit*** means a group of two or more employees that is determined, in accordance with this Part, to constitute a unit of employees appropriate for collective bargaining; 
+***bargaining unit*** means a group of two or more employees that is determined, in accordance with this Part, to constitute a unit of employees appropriate for collective bargaining;
 
 ***Board*** means the Public Service Labour Relations Board established under section 12 of the Public Service Labour Relations Act;
 
@@ -76,7 +76,7 @@ and, except as provided in this Act, nothing in any other Act of Parliament that
 
 ***dispute*** means a dispute or difference arising in connection with the conclusion, renewal or revision of a collective agreement, in respect of which arbitration is requested pursuant to section 50;
 
-***employee*** means a person employed by an employer, other than 
+***employee*** means a person employed by an employer, other than
 - **(a)** a person appointed by the Governor in Council,
 - **(b)** a person not ordinarily required to work more than seven hundred hours in a calendar year or one-third of the normal period for persons doing similar work, whichever is greater,
 - **(c)** a person employed on a casual or temporary basis, unless the person has been so employed for a period of six months or more,
@@ -92,9 +92,9 @@ and for the purposes of this definition a person does not cease to be employed b
 - **(b)** the House of Commons as represented by such committee or person as the House of Commons by its orders designates for the purposes of this Part,
 - **(c)** the Library of Parliament as represented by the Parliamentary Librarian acting, subject to subsection 74(1) of the [Parliament of Canada Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-1.md), on behalf of both Houses of Parliament,
 - **(d)** the office of the Senate Ethics Officer as represented by the Ethics Officer, or
-- **(e)** the office of the Ethics Commissioner as represented by the Ethics Commissioner;
+- **(e)** the office of the Conflict of Interest and Ethics Commissioner as represented by the Conflict of Interest and Ethics Commissioner;
 
-***grievance*** means a complaint in writing presented in accordance with this Part by an employee on his own behalf or on behalf of the employee and one or more other employees, except that 
+***grievance*** means a complaint in writing presented in accordance with this Part by an employee on his own behalf or on behalf of the employee and one or more other employees, except that
 - **(a)** for the purposes of any of the provisions of this Part respecting grievances, a reference to an “employee” includes a person who would be an employee but for the fact that the person is a person employed in a managerial or confidential capacity, and
 - **(b)** for the purposes of any of the provisions of this Part respecting grievances with respect to action resulting in termination or suspension, a reference to an “employee” includes a former employee or a person who would be a former employee but for the fact that at the time of the person’s termination or suspension, the person was a person employed in a managerial or confidential capacity;
 
@@ -121,7 +121,7 @@ and for the purposes of this definition a person does not cease to be employed b
 ***Vice-Chairman***[Repealed, 2003, c. 22, s. 182]
 
 ***Vice-Chairperson*** means a Vice-Chairperson of the Board.
-> R.S., 1985, c. 33 (2nd Supp.), s. 3, c. 1 (4th Supp.), s. 31; 1992, c. 1, s. 144(F); 2003, c. 22, ss. 182, 187(E); 2004, c. 7, s. 33
+> R.S., 1985, c. 33 (2nd Supp.), s. 3, c. 1 (4th Supp.), s. 31; 1992, c. 1, s. 144(F); 2003, c. 22, ss. 182, 187(E); 2004, c. 7, s. 33; 2006, c. 9, s. 31
 
 
 
@@ -1542,9 +1542,9 @@ and the grievance has not been dealt with to the satisfaction of the employee, t
 - **(b)** the House of Commons as represented by such committee or person as the House of Commons by its orders designates for the purposes of this Part;
 - **(c)** the Library of Parliament as represented by the Parliamentary Librarian acting, subject to subsection 74(1) of the [Parliament of Canada Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-1.md), on behalf of both Houses of Parliament;
 - **(c.1)** the office of the Senate Ethics Officer as represented by the Ethics Officer;
-- **(c.2)** the office of the Ethics Commissioner as represented by the Ethics Commissioner; or
+- **(c.2)** the office of the Conflict of Interest and Ethics Commissioner as represented by the Conflict of Interest and Ethics Commissioner; or
 - **(d)** a Member of Parliament who, in that capacity, employs any person or has the direction or control of staff employed to provide research or associated services to the caucus members of a political party represented in Parliament.
-> R.S., 1985, c. 33 (2nd Supp.), s. 85; 2004, c. 7, s. 34
+> R.S., 1985, c. 33 (2nd Supp.), s. 85; 2004, c. 7, s. 34; 2006, c. 9, s. 32
 
 
 
