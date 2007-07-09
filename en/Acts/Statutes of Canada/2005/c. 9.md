@@ -2252,7 +2252,9 @@ is guilty of an offence and liable on summary conviction to a fine not exceeding
 
 **Conflict of interest**
 
-- **(3)** All persons appointed to a commission, board or institute established under this Act shall comply with the Conflict of Interest and Post-Employment Code for Public Office Holders, issued by the Office of the Ethics Counsellor, as amended from time to time, as though they were public office holders as defined in that Code.
+- **(3)** All persons appointed to a commission, board or institute established under this Act shall comply with the [Conflict of Interest Act](/en/Acts/Statutes%20of%20Canada/2006/c.%209,%20s.%202.md) as though they were public office holders as defined in that Act.
+> 2005, c. 9, s. 132; 2006, c. 9, s. 8.
+
 
 
 
