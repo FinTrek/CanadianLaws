@@ -671,7 +671,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - <sup><a href='#nbp_Ind4021_hq_1737'>[*]</a></sup>**(1)** Les dispositions de la [Loi sur les conflits d’intérêts](/fr/Lois/Lois%20du%20Canada/2006/ch.%209,%20art.%202.md), édictée par l’article 2 de la présente loi, ainsi que les articles 3 à 34 de la présente loi, ou toute disposition édictée ou toute abrogation prévue par l’un ou l’autre de ceux-ci, entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='nbp_Ind4021_hq_1737'><sup>*</sup></a>: [Note : Articles 35 à 38, 59, 83, 88.1 à 88.2 et 100 à 107 en vigueur à la sanction le 12 décembre 2006; [Loi sur les conflits d’intérêts](/fr/Lois/Lois%20du%20Canada/2006/ch.%209,%20art.%202.md), édictée par l’article 2, et articles 3 à 34 non en vigueur.]<br />
+<a name='nbp_Ind4021_hq_1737'><sup>*</sup></a>: [Note : Articles 35 à 38, 59, 83, 88.1 à 88.2 et 100 à 107 en vigueur à la sanction le 12 décembre 2006; [Loi sur les conflits d’intérêts](/fr/Lois/Lois%20du%20Canada/2006/ch.%209,%20art.%202.md), édictée par l’article 2, et articles 3 à 34 en vigueur le 9 juillet 2007, *voir* TR/2007-75.]<br />
 
 **Décret**
 
@@ -699,7 +699,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Entrée en vigueur**
 
-- **(6)** L’article 99 de la présente loi entre en vigueur à la date d’entrée en vigueur de l’article 81 de la [Loi sur le Parlement du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-1.md), édicté par l’article 28 de la présente loi.
+- <sup><a href='#nbp_Ind112C_hq_2614'>[*]</a></sup>**(6)** L’article 99 de la présente loi entre en vigueur à la date d’entrée en vigueur de l’article 81 de la [Loi sur le Parlement du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-1.md), édicté par l’article 28 de la présente loi.
+
+<a name='nbp_Ind112C_hq_2614'><sup>*</sup></a>: [Note : Article 99 en vigueur le 9 juillet 2007.]<br />
 
 
 
