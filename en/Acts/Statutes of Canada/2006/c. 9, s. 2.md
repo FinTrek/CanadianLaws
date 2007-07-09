@@ -8,7 +8,7 @@
 Assented to on 12 December 2006
 
 ```
-[Enacted by section 2 of chapter 9 of the Statutes of Canada, 2006, not in force.]
+[Enacted by section 2 of chapter 9 of the Statutes of Canada, 2006, in force July 9, 2007, see SI/2007-75.]
 ```
 ----------
 
@@ -323,15 +323,15 @@ Assented to on 12 December 2006
 
 **20** The following definitions apply in this Part.
 
-***assets*** includes any trusts in respect of which a public office holder or a member of his or her family is a beneficiary.
+***assets*** includes any trusts in respect of which a public office holder or a member of his or her family is a beneficiary. (*bien*)
 
-***controlled assets*** means assets whose value could be directly or indirectly affected by government decisions or policy including, but not limited to, the following:
+***controlled assets*** means assets whose value could be directly or indirectly affected by government decisions or policy including, but not limited to, the following:
 - **(a)** publicly traded securities of corporations and foreign governments, whether held individually or in an investment portfolio account such as, but not limited to, stocks, bonds, stock market indices, trust units, closed-end mutual funds, commercial papers and medium-term notes;
 - **(b)** self-administered registered retirement savings plans, self-administered registered education savings plans and registered retirement income funds composed of at least one asset that would be considered controlled if held outside the plan or fund;
 - **(c)** commodities, futures and foreign currencies held or traded for speculative purposes; and
-- **(d)** stock options, warrants, rights and similar instruments.
+- **(d)** stock options, warrants, rights and similar instruments. (*bien contrôlé*)
 
-***exempt assets*** means assets and interests in assets for the private use of public office holders and the members of their family and assets that are not of a commercial character, including the following:
+***exempt assets*** means assets and interests in assets for the private use of public office holders and the members of their family and assets that are not of a commercial character, including the following:
 - **(a)** primary and secondary residences, recreational property and farm land and buildings used or intended for use by public office holders or the members of their family;
 - **(b)** household goods and personal effects;
 - **(c)** works of art, antiques and collectibles;
@@ -348,7 +348,7 @@ Assented to on 12 December 2006
 - **(n)** personal loans receivable from the public office holder’s relatives, and personal loans of less than $10,000 receivable from other persons if the public office holder has loaned the moneys receivable;
 - **(o)** money owed under a mortgage or hypothec of less than $10,000;
 - **(p)** self-administered or self-directed registered retirement savings plans, registered education savings plans and registered retirement income funds composed exclusively of assets that would be considered exempt if held outside the plan or fund; and
-- **(q)** investments in limited partnerships that are not traded publicly and whose assets are exempt assets.
+- **(q)** investments in limited partnerships that are not traded publicly and whose assets are exempt assets. (*bien exclu*)
 
 
 
@@ -1124,5 +1124,18 @@ Assented to on 12 December 2006
 **Report to Parliament**
 
 - **(2)** The committee referred to in subsection (1) shall, within a year after a review is undertaken pursuant to that subsection or within such further time as may be authorized by the Senate, the House of Commons or both Houses of Parliament, as the case may be, submit a report on the review to Parliament, including a statement of any changes that the committee recommends.
+
+
+
+
+**Referral from Public Sector Integrity Commissioner**
+
+**68** If a matter is referred to the Commissioner under subsection 24(2.1) of the [Public Servants Disclosure Protection Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2046.md), the Commissioner shall
+- **(a)** provide the Prime Minister with a report setting out the facts in question as well as the Commissioner’s analysis and conclusions;
+- **(b)** provide a copy of the report to the public office holder or former public office holder who is the subject of the report;
+- **(c)** provide a copy of the report to the Public Sector Integrity Commissioner; and
+- **(d)** make the report available to the public.
+> 2006, c. 9, s. 37.
+
 
 
