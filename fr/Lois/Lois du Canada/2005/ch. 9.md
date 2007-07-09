@@ -2247,7 +2247,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Conflits d’intérêts**
 
-- **(3)** Les personnes qui sont nommées à la Commission de la fiscalité des premières nations, au Conseil de gestion financière des premières nations ou à l’Institut de la statistique des premières nations sont tenues de se conformer au Code régissant la conduite des titulaires de charge publique en ce qui concerne les conflits d’intérêts et l’après-mandat, publié par le Bureau du conseiller en éthique, comme si elles étaient des titulaires d’une charge publique au sens de ce code.
+- **(3)** Les personnes qui sont nommées à la Commission de la fiscalité des premières nations, au Conseil de gestion financière des premières nations ou à l’Institut de la statistique des premières nations sont tenues de se conformer à la [Loi sur les conflits d’intérêts](/fr/Lois/Lois%20du%20Canada/2006/ch.%209,%20art.%202.md), comme si elles étaient des titulaires de charge publique au sens de cette loi.
+> 2005, ch. 9, art. 132; 2006, ch. 9, art. 8.
+
 
 
 
