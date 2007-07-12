@@ -30,17 +30,17 @@ Autorités habilitantes :
 
 ***agent zoopathogène*** Vise notamment tout agent zoopathogène issu de la biotechnologie. (*animal pathogen*)
 
-***aliments pour animaux*** Aliments contenant un produit animal ou sous-produit animal destiné aux poulets, aux dindons, aux canards, aux oies, aux ratites, au gibier à plumes, aux ruminants, aux porcs ou aux chevaux. Sont exclus de la présente définition des éléments tels la farine de poisson, les vitamines et les suppléments minéraux qui ne contiennent pas de produits animaux ou de sous-produits animaux. (*animal food*)
+***aliments pour animaux*** Aliments contenant un produit animal ou sous-produit animal destiné aux poulets, aux dindons, aux canards, aux oies, aux ratites, au gibier à plumes, aux ruminants, aux porcs ou aux chevaux. (*animal food*)
 
 ***animal non ambulatoire*** Animal de ferme ou animal des espèces cervidés, camélidés et ratites, qui est incapable de se tenir debout sans aide ou de se déplacer sans être traîné ou porté. (*non-ambulatory animal*)
 
-***animaux de ferme*** désigne les animaux des espèces bovine, caprine, équine, ovine et porcine; (*livestock*)
+***animaux de ferme*** désigne les animaux des espèces bovine, caprine, équine, ovine et porcine. (*livestock*)
 
 ***antibiotique***[Abrogée, DORS/2002-438, art. 6]
 
 ***association***[Abrogée, DORS/97-85, art. 1]
 
-***bague*** désigne une étiquette fixée à l’oreille d’un animal et portant les lettres « H of A » et comprend tout dispositif servant à identifier un animal en vertu de la Loi et du présent règlement; (*tag*)
+***bague*** désigne une étiquette fixée à l’oreille d’un animal et portant les lettres « H of A » et comprend tout dispositif servant à identifier un animal en vertu de la Loi et du présent règlement. (*tag*)
 
 ***biotechnologie*** Application des sciences ou de l’ingénierie à l’utilisation des organismes vivants ou de leurs parties ou produits, sous leur forme naturelle ou modifiée. (*biotechnology*)
 
@@ -48,21 +48,21 @@ Autorités habilitantes :
 
 ***bovin*** Boeuf ou bison élevé ou gardé dans un milieu domestique. Toutefois, pour l’application du document de référence, le terme ***bovin*** exclut le bison qui a été en contact avec un troupeau sauvage ou en a fait partie. (*bovine*)
 
-***carnasse*** désigne les poils, os, sabots, cornes, écharnures, rognures ou coupures de peau d’un animal et toute autre partie d’un animal pouvant servir à la fabrication de la colle; (*gluestock*)
+***carnasse*** désigne les poils, os, sabots, cornes, écharnures, rognures ou coupures de peau d’un animal et toute autre partie d’un animal pouvant servir à la fabrication de la colle. (*gluestock*)
 
-***centre de distribution de sperme animal*** désigne un établissement ou véhicule à partir duquel le sperme animal est distribué; (*animal semen distribution centre*)
+***centre de distribution de sperme animal*** désigne un établissement ou véhicule à partir duquel le sperme animal est distribué. (*animal semen distribution centre*)
 
 ***centre de production de sperme animal*** Établissement où le sperme de ruminant ou de porc est recueilli ou traité. (*animal semen production centre*)
 
 ***centre de transplantation d’embryons animaux***[Abrogée, DORS/97-85, art. 1]
 
-***chat domestique*** signifie le *felis domesticus*; (*domestic cat*)
+***chat domestique*** signifie le *felis domesticus*. (*domestic cat*)
 
 ***chien domestique*** S’entend du *canis domesticus*. (*domestic dog*)
 
-***compagnie de chemin de fer*** désigne une compagnie de chemin de fer s’occupant du transport des animaux de ferme par voie ferrée; (*railway company*)
+***compagnie de chemin de fer*** désigne une compagnie de chemin de fer s’occupant du transport des animaux de ferme par voie ferrée. (*railway company*)
 
-***date de péremption*** désigne la date de la fin de la période d’efficacité d’un produit vétérinaire biologique, lorsqu’il a été convenablement entreposé et manipulé; (*expiration date*)
+***date de péremption*** désigne la date de la fin de la période d’efficacité d’un produit vétérinaire biologique, lorsqu’il a été convenablement entreposé et manipulé. (*expiration date*)
 
 ***Direction de l’hygiène vétérinaire***[Abrogée, DORS/82-590, art. 1]
 
@@ -71,41 +71,43 @@ Autorités habilitantes :
 - **b)** des méthodes et modalités de manutention, d’entreposage, d’administration et d’épreuve d’un produit vétérinaire biologique et de tout diluant qui doit être utilisé avec celui-ci, et
 - **c)** des épreuves — et de leurs résultats — effectuées afin d’établir la pureté, l’innocuité, la puissance et l’efficacité d’un produit vétérinaire biologique, et la pureté et l’innocuité de tout diluant qui sera utilisé avec celui-ci. (*product outline*)
 
-***emballage*** désigne tout ce qui sert à contenir, à ranger ou à emballer complètement ou partiellement un produit vétérinaire biologique; (*package*)
+***emballage*** désigne tout ce qui sert à contenir, à ranger ou à emballer complètement ou partiellement un produit vétérinaire biologique. (*package*)
 
 ***embryon animal***[Abrogée, DORS/2001-210, art. 1]
+
+***engrais*** S’entend au sens de l’article 2 de la Loi sur les engrais. (*fertilizer*)
 
 ***épizootie grave***[Abrogée, DORS/2007-24, art. 1]
 
 ***épreuve*** comprend
 - **a)** le prélèvement de tissus ou de liquides d’un animal, et
-- **b)** une injection pratiquée sur un animal pour déterminer s’il est atteint d’une maladie; (*test*)
+- **b)** une injection pratiquée sur un animal pour déterminer s’il est atteint d’une maladie. (*test*)
 
-***équidés*** désigne les chevaux, ânes, mulets ou zèbres; (*equine*)
+***équidés*** désigne les chevaux, ânes, mulets ou zèbres. (*equine*)
 
-***établissement agréé*** désigne un endroit, composé d’une ou de plusieurs pièces ou bâtiments, pour lequel un permis d’établissement a été délivré par le ministre; (*licensed establishment*)
+***établissement agréé*** désigne un endroit, composé d’une ou de plusieurs pièces ou bâtiments, pour lequel un permis d’établissement a été délivré par le ministre. (*licensed establishment*)
 
-***établissement de désinfection approuvé*** désigne une usine, un établissement ou autre endroit approuvé par le ministre pour le nettoyage, la désinfection ou le traitement d’un sous-produit animal ou de toute autre chose; (*approved disinfection establishment*)
+***établissement de désinfection approuvé*** désigne une usine, un établissement ou autre endroit approuvé par le ministre pour le nettoyage, la désinfection ou le traitement d’un sous-produit animal ou de toute autre chose. (*approved disinfection establishment*)
 
 ***États-Unis*** Les États des États-Unis qui forment la partie continentale de l’Amérique du Nord et l’État d’Hawaï. (*United States*)
 
-***étiquette*** désigne une légende, un mot ou une marque qu’on appose sur l’emballage de tout produit vétérinaire biologique, qu’on lui incorpore ou qui accompagne celui-ci; (*label*)
+***étiquette*** désigne une légende, un mot ou une marque qu’on appose sur l’emballage de tout produit vétérinaire biologique, qu’on lui incorpore ou qui accompagne celui-ci. (*label*)
 
-***fabriquer*** comprend préparer; (*manufacture*)
+***fabriquer*** comprend préparer. (*manufacture*)
 
 ***farine d’os*** Os, sabots ou cornes d’animal moulus qui peuvent contenir des morceaux de cuir, de chair ou de tendon. (*bone meal*)
 
-***farine de sang*** désigne le sang séché d’un animal; (*blood meal*)
+***farine de sang*** désigne le sang séché d’un animal. (*blood meal*)
 
-***farine de viande*** ou ***résidus de graisse*** désigne le cadavre d’un animal ou une partie de celui-ci équarri et séché; (*meat meal *ou*tankage*)
+***farine de viande*** ou ***résidus de graisse*** désigne le cadavre d’un animal ou une partie de celui-ci équarri et séché. (*meat meal*ou*tankage*)
 
 ***fumier*** Y sont assimilés le guano, les fèces avec ou sans urine et tout ce qui contient des fèces d’oiseau, de ruminant ou de porc. (*manure*)
 
 ***gibier à plumes*** Oiseaux sauvages gardés en captivité, notamment les faisans, les perdrix, les cailles, les coqs de bruyère, les pintades et les paons. Sont exclus de la présente définition les colombes, les pigeons, les canards, les oies, les psittacidés et les oiseaux chanteurs. (*game bird*)
 
-***glandes et organes d’animaux*** comprend le fiel ou la bile de boeuf, la présure et des substances analogues provenant d’animaux domestiques; (*animal glands and organs*)
+***glandes et organes d’animaux*** comprend le fiel ou la bile de boeuf, la présure et des substances analogues provenant d’animaux domestiques. (*animal glands and organs*)
 
-***inspecter*** comprend mettre à l’épreuve; (*inspect*)
+***inspecter*** comprend mettre à l’épreuve. (*inspect*)
 
 ***inspecteur***[Abrogée, DORS/97-85, art. 1]
 
@@ -115,7 +117,9 @@ Autorités habilitantes :
 
 ***Inspection vétérinaire, (opérations)***[Abrogée, DORS/97-85, art. 1]
 
-***laboratoire approuvé*** désigne un établissement ou véhicule approuvé par le ministre pour faire subir des examens ou des épreuves aux animaux; (*approved laboratory*)
+***laboratoire approuvé*** désigne un établissement ou véhicule approuvé par le ministre pour faire subir des examens ou des épreuves aux animaux. (*approved laboratory*)
+
+***laboratoire de niveau de confinement 2*** Laboratoire qui satisfait aux normes du niveau de confinement 2 pour les agents pathogènes ou les excède, selon les Lignes directrices en matière de biosécurité en laboratoire, publiées, avec leurs modifications successives, par l’Agence de santé publique du Canada sur son site Web. (*level 2 containment laboratory*)
 
 ***laine, poils et soies bruts*** La laine, les poils et les soies bruts prélevés d’un animal, à l’exception des rubans de carde, des déchets de laine, de la blousse de laine, de la nappe de laine et des petits échantillons de commerce, ainsi que de la laine et des poils tirés à la chaux, dessuintés ou carbonisés. (*raw wool, hair or bristles*)
 
@@ -125,17 +129,17 @@ Autorités habilitantes :
 
 ***maladie*** Pour l’application des parties III et IV, toute maladie déclarable ou toute autre épizootie grave qu’un animal ou matériel génétique est susceptible de contracter et de transmettre. (*disease*)
 
-***maladie transmissible*** désigne une maladie infectieuse ou contagieuse; (*communicable disease*)
+***maladie transmissible*** désigne une maladie infectieuse ou contagieuse. (*communicable disease*)
 
 ***ministre*** Le ministre de l’Agriculture et de l’Agroalimentaire. (*Minister*)
 
 ***négociant en animaux de ferme***[Abrogée, DORS/97-85, art. 1]
 
-***nom assigné*** Dans le cas d’un produit vétérinaire biologique, le nom — français ou anglais — mentionné sur le permis d’importation ou sur le permis de fabrication du produit; (*assigned name*)
+***nom assigné*** Dans le cas d’un produit vétérinaire biologique, le nom — français ou anglais — mentionné sur le permis d’importation ou sur le permis de fabrication du produit. (*assigned name*)
 
-***oeufs d’incubation*** désigne les oeufs de volailles fécondés; (*hatching eggs*)
+***oeufs d’incubation*** désigne les oeufs de volailles fécondés. (*hatching eggs*)
 
-***oiseau chanteur*** désigne les serins, pinsons, loriots, cardinaux et tout autre oiseau chanteur; (*song bird*)
+***oiseau chanteur*** désigne les serins, pinsons, loriots, cardinaux et tout autre oiseau chanteur. (*song bird*)
 
 ***partie d’un pays***[Abrogée, DORS/2001-210, art. 1]
 
@@ -146,19 +150,19 @@ Autorités habilitantes :
 
 ***peau ou cuir non tannés*** Couverture extérieure d’un ruminant, d’un ratite, d’un équidé ou d’un porc qui est à l’état brut et qui n’a subi aucun traitement chimique visant à en faire un cuir permanent et durable. (*untanned hide or skin*)
 
-***permis d’établissement*** désigne le permis délivré par le ministre pour un établissement; (*establishment licence*)
+***permis d’établissement*** désigne le permis délivré par le ministre pour un établissement. (*establishment licence*)
 
-***permis de fabrication*** désigne un permis délivré par le ministre pour la fabrication du produit vétérinaire biologique décrit sur le permis; (*product licence*)
+***permis de fabrication*** désigne un permis délivré par le ministre pour la fabrication du produit vétérinaire biologique décrit sur le permis. (*product licence*)
 
 ***peste aviaire*** Influenza aviaire hautement pathogène. (*fowl plague*)
 
-***poste d’inspection*** désigne un endroit indiqué dans l’annexe II où des installations existent pour inspecter des animaux; (*inspection port*)
+***poste d’inspection*** désigne un endroit indiqué dans l’annexe II où des installations existent pour inspecter des animaux. (*inspection port*)
 
-***poste de quarantaine*** désigne un endroit indiqué dans l’annexe I où il existe des installations de mise en quarantaine des animaux; (*quarantine port*)
+***poste de quarantaine*** désigne un endroit indiqué dans l’annexe I où il existe des installations de mise en quarantaine des animaux. (*quarantine port*)
 
-***poste enregistré d’oeufs transformés*** a le sens que lui donne le [Règlement sur les oeufs transformés](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/201-300/C.R.C.,%20ch.%20290.md); (*registered processed egg station*)
+***poste enregistré d’oeufs transformés*** a le sens que lui donne le [Règlement sur les oeufs transformés](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/201-300/C.R.C.,%20ch.%20290.md). (*registered processed egg station*)
 
-***poussin*** S’entend, à l’égard de toute espèce, d’un oiseau âgé d’au plus soixante-douze heures qui n’a été ni nourri ni abreuvé; (*chick*)
+***poussin*** S’entend, à l’égard de toute espèce, d’un oiseau âgé d’au plus soixante-douze heures qui n’a été ni nourri ni abreuvé. (*chick*)
 
 ***produit animal*** Produit animal provenant d’un oiseau ou d’un mammifère, à l’exception des rongeurs, des cétacés, des pinnipèdes et des siréniens. (*animal product*)
 
@@ -170,9 +174,9 @@ Autorités habilitantes :
 
 ***produit vétérinaire biologique*** Vise notamment tout produit vétérinaire biologique issu de la biotechnologie. (*veterinary biologic*)
 
-***psittacidés*** désigne les perroquets, amazones, perroquets à tête double du Mexique, jacos, cacatoès, aras, psittacules, loris, trichoglosses et tout autre membre de l’espèce des *psittacidae*; (*bird of the parrot family*)
+***psittacidés*** désigne les perroquets, amazones, perroquets à tête double du Mexique, jacos, cacatoès, aras, psittacules, loris, trichoglosses et tout autre membre de l’espèce des *psittacidae*. (*bird of the parrot family*)
 
-***publicité*** désigne toute représentation exercée par un moyen quelconque en vue de promouvoir, directement ou indirectement, la vente ou l’écoulement d’un produit vétérinaire biologique; (*advertisement*)
+***publicité*** désigne toute représentation exercée par un moyen quelconque en vue de promouvoir, directement ou indirectement, la vente ou l’écoulement d’un produit vétérinaire biologique. (*advertisement*)
 
 ***pure race***[Abrogée, DORS/97-85, art. 1]
 
@@ -190,13 +194,15 @@ Autorités habilitantes :
 
 ***sujet officiellement vacciné***[Abrogée, DORS/2001-210, art. 1]
 
-***transporteur*** désigne un transporteur aérien, maritime, routier ou une compagnie de chemin de fer; (*carrier*)
+***supplément d’engrais*** S’entend au sens de ***supplément*** à l’article 2 de la [Loi sur les engrais](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-10.md). (*fertilizer supplement*)
 
-***transporteur aérien*** désigne le propriétaire ou l’exploitant d’un aéronef s’occupant du transport aérien des animaux; (*air carrier*)
+***transporteur*** désigne un transporteur aérien, maritime, routier ou une compagnie de chemin de fer. (*carrier*)
 
-***transporteur maritime*** désigne le propriétaire ou l’exploitant d’un bateau s’occupant du transport maritime des animaux; (*sea carrier*)
+***transporteur aérien*** désigne le propriétaire ou l’exploitant d’un aéronef s’occupant du transport aérien des animaux. (*air carrier*)
 
-***transporteur routier*** désigne le propriétaire ou l’exploitant d’un véhicule à moteur s’occupant du transport des animaux par véhicule à moteur; (*motor carrier*)
+***transporteur maritime*** désigne le propriétaire ou l’exploitant d’un bateau s’occupant du transport maritime des animaux. (*sea carrier*)
+
+***transporteur routier*** désigne le propriétaire ou l’exploitant d’un véhicule à moteur s’occupant du transport des animaux par véhicule à moteur. (*motor carrier*)
 
 ***troupeau*** Selon le cas :
 - **a)** tous les ruminants dont une personne est propriétaire ou dont elle a la possession, la responsabilité ou la charge des soins, et qui sont gardés dans :
@@ -212,11 +218,11 @@ Autorités habilitantes :
 
 ***troupeau déclaré exempt de brucellose***[Abrogée, DORS/97-85, art. 1]
 
-***troupeau de provenance*** désigne le troupeau dont un animal a fait partie pendant au moins les 60 jours précédant immédiatement son importation au Canada ou, dans tout autre cas, le troupeau où il est né; (*flock of origin*or*herd of origin*)
+***troupeau de provenance*** désigne le troupeau dont un animal a fait partie pendant au moins les 60 jours précédant immédiatement son importation au Canada ou, dans tout autre cas, le troupeau où il est né. (*flock of origin*or*herd of origin*)
 
 ***veau***[Abrogée, DORS/2001-210, art. 1]
 
-***vétérinaire*** désigne une personne possédant les qualités requises pour pratiquer la médecine vétérinaire selon les lois du pays où elle exerce; (*veterinarian*)
+***vétérinaire*** désigne une personne possédant les qualités requises pour pratiquer la médecine vétérinaire selon les lois du pays où elle exerce. (*veterinarian*)
 
 ***vétérinaire accrédité*** Vétérinaire autorisé à exercer certaines fonctions conformément à un accord conclu aux termes de l’article 34 de la Loi. (*accredited veterinarian*)
 
@@ -235,7 +241,7 @@ Autorités habilitantes :
 ***zone exempte de brucellose*** Zone d’éradication, ou partie d’une telle zone, déclarée zone exempte de brucellose en vertu du paragraphe 75(3). (*brucellosis-free area*)
 
 ***zone exempte de tuberculose*** Zone d’éradication, ou partie d’une telle zone, déclarée zone exempte de tuberculose en vertu du paragraphe 74(5). (*tuberculosis-free area*)
-> DORS/78-69, art. 1; DORS/78-205, art. 1; DORS/78-597, art. 1; DORS/79-295, art. 1; DORS/79-839, art. 1; DORS/80-516, art. 1; DORS/82-590, art. 1; DORS/82-777, art. 1; DORS/84-139, art. 1(F); DORS/84-828, art. 1; DORS/85-545, art. 1; DORS/86-543, art. 1; DORS/91-525, art. 3; DORS/92-585, art. 2; DORS/93-159, art. 1; DORS/94-491, art. 1; DORS/95-54, art. 1 et 6(F); DORS/95-473, art. 1; DORS/95-475, art. 4; DORS/97-85, art. 1; DORS/97-292, art. 27; DORS/97-478, art. 1; DORS/98-409, art. 1; DORS/2001-210, art. 1; DORS/2002-438, art. 6; DORS/2002-444, art. 1; DORS/2004-80, art. 14; DORS/2005-181, art. 1; DORS/2007-24, art. 1.
+> DORS/78-69, art. 1; DORS/78-205, art. 1; DORS/78-597, art. 1; DORS/79-295, art. 1; DORS/79-839, art. 1; DORS/80-516, art. 1; DORS/82-590, art. 1; DORS/82-777, art. 1; DORS/84-139, art. 1(F); DORS/84-828, art. 1; DORS/85-545, art. 1; DORS/86-543, art. 1; DORS/91-525, art. 3; DORS/92-585, art. 2; DORS/93-159, art. 1; DORS/94-491, art. 1; DORS/95-54, art. 1 et 6(F); DORS/95-473, art. 1; DORS/95-475, art. 4; DORS/97-85, art. 1; DORS/97-292, art. 27; DORS/97-478, art. 1; DORS/98-409, art. 1; DORS/2001-210, art. 1; DORS/2002-438, art. 6; DORS/2002-444, art. 1; DORS/2004-80, art. 14; DORS/2005-181, art. 1; DORS/2006-147, art. 11; DORS/2007-24, art. 1.
 
 
 
@@ -330,8 +336,91 @@ conformément à l’ordonnance qui précise la manière, le lieu, les condition
 
 
 
+**6.21** 
+
+- **(1)** Quiconque abat, découpe ou désosse un bœuf pour la consommation alimentaire humaine doit veiller à ce que le matériel à risque spécifié soit, dès son enlèvement de l’animal, badigeonné d’une teinture voyante et indélébile, et recueilli dans un contenant désigné portant, dans les deux langues officielles, la mention qu’il renferme du matériel à risque spécifié.
+
+- **(2)** Le paragraphe (1) ne s’applique pas dans les cas suivants :
+	- **a)** le bœuf est abattu, découpé ou désossé dans une ferme ou un ranch, au sens de l’article 172, et le matériel à risque spécifié provenant de sa carcasse ne sort pas de la ferme ou du ranch;
+	- **b)** le bœuf est abattu, découpé ou désossé dans un abattoir, et aucune partie de la carcasse de quelque animal que ce soit, sauf les parties qui sont destinées à l’alimentation humaine, ne sort du site de l’abattoir;
+	- **c)** des échantillons de matériel à risque spécifié ou de carcasses — ou parties de carcasse — de bœuf dont le matériel à risque spécifié n’a pas été retiré sont envoyés à un laboratoire de niveau de confinement 2.
+> DORS/2006-147, art. 12.
+
+
+
+
+**6.22** 
+
+- **(1)** Quiconque retire du matériel à risque spécifié de la carcasse d’un bœuf mort ou condamné avant d’avoir pu être abattu pour la consommation alimentaire humaine doit veiller à ce que le matériel à risque spécifié soit badigeonné d’une teinture voyante et indélébile et mis dans un contenant désigné portant, dans les deux langues officielles, la mention qu’il renferme du matériel à risque spécifié.
+
+- **(2)** Dans le cas où le matériel à risque spécifié n’a pas été retiré de la carcasse du bœuf, la personne ayant la possession, la responsabilité ou la charge des soins de la carcasse ou de toutes parties de celle-ci doit veiller à ce que la carcasse et toutes les parties qui contiennent du matériel à risque spécifié soient badigeonnées d’une teinture voyante, indélébile et sans danger pour les animaux qui l’ingéront.
+
+- **(3)** Les paragraphes (1) et (2) ne s’appliquent pas :
+	- **a)** aux carcasses de bœufs contenant le matériel à risque spécifié, si les carcasses et le matériel à risque spécifié en provenant restent à l’intérieur du lieu où les bœufs ont été déclarés morts, sauf pour être envoyés à un laboratoire de niveau de confinement 2;
+	- **b)** aux échantillons de matériel à risque spécifié ni aux carcasses — ou parties de carcasse — de bœuf dont le matériel à risque spécifié n’a pas été retiré et qui sont envoyés à un laboratoire de niveau de confinement 2.
+> DORS/2006-147, art. 12.
+
+
+
+
+**6.23** 
+
+- **(1)** Sous réserve du paragraphe (3), le présent article s’applique à toute personne qui :
+	- **a)** est tenu, aux termes du présent règlement, de retirer du matériel à risque spécifié ou de le badigeonner d’une teinture;
+	- **b)** recueille des carcasses de bœufs qui sont morts ou ont été condamnés avant d’avoir pu être abattus pour la consommation alimentaire humaine et desquels le matériel à risque spécifié n’a pas été retiré;
+	- **c)** a reçu d’une autre personne du matériel à risque spécifié ou des carcasses de bœufs qui sont morts ou ont été condamnés avant d’avoir pu être abattus pour la consommation alimentaire humaine et desquels du matériel à risque spécifié n’a pas été retiré.
+
+- **(2)** La personne doit tenir, pendant une période de dix ans, à l’égard du matériel retiré ou badigeonné ou des carcasses recueillies ou reçues, un registre contenant les renseignements ci-après, pour chaque journée où ces opérations ont eu lieu :
+	- **a)** ses nom et adresse et la date de l’enlèvement, du badigeonnage, de la collecte ou de la réception;
+	- **b)** le poids total du matériel à risque spécifié et des carcasses, ou parties de celles-ci, recueillies ou reçues ainsi que le nombre de ces carcasses;
+	- **c)** le nom de la teinture utilisée pour identifier le matériel à risque spécifié ou les carcasses;
+	- **d)** le numéro de l’étiquette approuvée, au sens de l’article 172, qui est apposée sur chaque carcasse ou, dans le cas de carcasses ne portant pas une telle étiquette, les renseignements prévus à l’alinéa 187(2)a), à l’égard de ces carcasses;
+	- **e)** si la personne a transformé, détruit ou confiné du matériel à risque spécifié ou des carcasses, la date de la transformation, de la destruction ou du confinement ainsi que la méthode utilisée;
+	- **f)** si la personne n’a pas détruit ou confiné de matériel à risque spécifié ou de carcasses :
+		- **(i)** les nom et adresse de la personne à qui elle a envoyé le matériel à risque spécifié ou les carcasses,
+		- **(ii)** les nom et adresse de la personne qui les a transportés à un autre endroit ainsi que la méthode de transport utilisée,
+		- **(iii)** les nom et adresse de la personne qui les a confinés ou détruits, si la personne connaît ces renseignements.
+
+- **(3)** Le présent article ne vise pas les échantillons de matériel à risque spécifié ni les carcasses — ou parties de carcasse — de bœuf dont le matériel à risque spécifié n’a pas été retiré et qui sont envoyés à un laboratoire de niveau de confinement 2.
+> DORS/2006-147, art. 12.
+
+
+
+
 **6.3** Il est interdit d’utiliser ou d’exporter pour la consommation alimentaire humaine du matériel à risque spécifié sous toute forme, incorporé ou non à une autre matière, dans le cas où le matériel à risque spécifié a été retiré d’un boeuf abattu au Canada.
 > DORS/2003-264, art. 1.
+
+
+
+
+**6.4** 
+
+- **(1)** Sauf en conformité avec un permis ou une licence délivré au titre de l’article 160, il est interdit de recevoir, d’enlever d’un lieu, d’utiliser, de transporter hors d’un lieu — autre que d’un endroit à un autre endroit à l’intérieur d’un même lieu — , de transformer, d’entreposer, d’exporter, de vendre, de distribuer, de confiner ou de détruire du matériel à risque spécifié, sous quelque forme que ce soit, incorporé ou non à une autre matière, si le matériel a été retiré d’un bœuf abattu au Canada ou provient de la carcasse d’un bœuf mort ou condamné avant d’avoir pu être abattu pour la consommation alimentaire humaine.
+
+- **(2)** Le paragraphe (1) ne s’applique pas à l’exigence d’un permis à l’égard du badigeonnage d’une teinture aux termes des articles 6.21 ou 6.22.
+
+- **(3)** Le paragraphe (1) ne s’applique pas au matériel à risque spécifié retiré d’un bœuf qui a été abattu pour la consommation alimentaire humaine ou provenant de la carcasse d’un bœuf qui est mort ou a été condamné avant d’avoir pu être abattu pour la consommation alimentaire humaine si le matériel à risque spécifié ne sort pas du lieu où le bœuf a été abattu ou déterminé mort.
+
+- **(4)** Le paragraphe (1) ne s’applique pas à l’usage, comme engrais ou de supplément d’engrais, de matières issues de matériel à risque spécifié, sous quelque forme que ce soit, retiré d’un bœuf abattu pour la consommation alimentaire humaine, ou d’un bœuf mort ou condamné avant d’avoir pu l’être, si l’engrais ou le supplément d’engrais ne sont pas transportés à l’extérieur du lieu où l’animal est mort ou a été abattu ou condamné.
+
+- **(5)** Le paragraphe (1) ne vise pas les soumissions, à un laboratoire de niveau de confinement 2, d’échantillons de matériel à risque spécifié ou de carcasses — ou parties de carcasse — de bœuf dont le matériel à risque spécifié n’a pas été retiré, ni aux activités liées à l’utilisation de matériel à risque spécifié dans un tel laboratoire.
+
+- **(6)** Le ministre ne délivre pas de permis pour les activités visées au paragraphe (1) si le matériel à risque spécifié est reçu, transporté à l’extérieur du lieu où il se trouve, utilisé, entreposé, confiné, exporté, vendu, distribué ou transformé — sous quelque forme que ce soit et qu’il soit incorporé ou non à une autre matière — pour la consommation alimentaire humaine.
+
+- **(7)** Le ministre ne délivre pas de permis pour la destruction du matériel à risque spécifié à moins que celle-ci soit faite par incinération ou par toute autre méthode garantissant que le matériel à risque spécifié, ou toute autre matière en contenant, ne sera pas utilisé comme nourriture pour les humains et n’entraînera pas, ou qu’il est peut probable qu’il entraîne la propagation au Canada de l’encéphalopathie spongiforme bovine.
+> DORS/2006-147, art. 13.
+
+
+
+
+**6.5** Sauf en conformité avec un permis délivré au titre de l’article 160, il est interdit à quiconque de nourrir un animal de matières — sous quelque forme que ce soit et incorporées ou non à une autre matière — provenant de matériel à risque spécifié.
+> DORS/2006-147, art. 13.
+
+
+
+
+**6.6** Les articles 6.4 et 6.5 ne s’appliquent pas aux matières qui résultent de la destruction du matériel à risque spécifié faite en conformité à un permis délivré au titre de l’article 160 pour l’application de l’article 6.4, si les matières n’entraîneront pas ou qu’il est peu probable qu’elles entraînent la propagation au Canada de l’encéphalopathie spongiforme bovine.
+> DORS/2006-147, art. 13.
 
 
 
@@ -674,12 +763,14 @@ conformément à l’ordonnance qui précise la manière, le lieu, les condition
 
 
 
-### Farine d’os, fumier, farine de sang, résidus de graisse, farine de plumes, déchets et rebuts de navires
+### Farine de viande et d’os, farine d’os, farine de sang, résidus de graisse, farine de plumes, farine de poisson, produit d’une usine de traitement, fumier, déchets et rebuts de navires
+> [DORS/2006-147, art. 14]
+
 
 
 **46** 
 
-- **(1)** Il est interdit d’importer de la farine de viande et d’os, de la farine d’os, de la farine de sang, des résidus de graisse (farine de viande), de la farine de plumes ou tout autre produit d’une usine de traitement, ou du fumier, à moins :
+- **(1)** Il est interdit d’importer de la farine de viande et d’os, de la farine d’os, de la farine de sang, des résidus de graisse (farine de viande), de la farine de plumes, de la farine de poisson ou tout autre produit d’une usine de traitement, ou du fumier, à moins :
 	- **a)** que les conditions visées aux articles 166 à 171 soient respectées;
 	- **b)** que le pays d’origine du produit soit :
 		- **(i)** les États-Unis, selon Revenu Canada, Douanes;
@@ -689,7 +780,7 @@ conformément à l’ordonnance qui précise la manière, le lieu, les condition
 	- **c)** qu’un inspecteur soit convaincu que le produit est transformé de manière à empêcher l’introduction de toute maladie déclarable ou de toute autre épizootie grave que l’espèce de laquelle est tiré le produit est susceptible de contracter et qui peut être transmise par le produit au Canada.
 
 - **(2)** Le paragraphe (1) ne s’applique pas au fumier se trouvant dans un véhicule qui provient des États-Unis et qui a servi au transport d’animaux, autres que des porcs, lorsque le fumier provient de ces animaux.
-> DORS/78-69, art. 25; DORS/80-428, art. 5; DORS/92-708, art. 2; DORS/97-85, art. 36; DORS/97-362, art. 2.
+> DORS/78-69, art. 25; DORS/80-428, art. 5; DORS/92-708, art. 2; DORS/97-85, art. 36; DORS/97-362, art. 2; DORS/2006-147, art. 15.
 
 
 
@@ -958,7 +1049,9 @@ conformément à l’ordonnance qui précise la manière, le lieu, les condition
 
 
 **PARTIE VIII** 
-## Exportation d’animaux et de produits animaux
+## Exportation d’animaux, de produits animaux et de produits d’usine de traitement
+> [DORS/2006-147, art. 16]
+
 
 
 
@@ -992,7 +1085,22 @@ conformément à l’ordonnance qui précise la manière, le lieu, les condition
 
 
 
-**70** [Abrogé, DORS/98-409, art. 9]
+**70** 
+
+- **(1)** Sous réserve des autres dispositions de la présente partie, il est interdit d’exporter des produits d’une usine de traitement, des engrais, des suppléments d’engrais ou des aliments pour animaux contenant des produits d’une usine de traitement à moins que les conditions ci-après ne soient réunies :
+	- **a)** l’exportateur a obtenu un certificat, délivré par un inspecteur, un vétérinaire inspecteur ou la personne autorisée par l’un ou l’autre avant l’expédition, qui les identifie clairement et qui mentionne :
+		- **(i)** qu’un inspecteur, un vétérinaire inspecteur ou la personne autorisée par l’un ou l’autre les a inspectés, de même que l’usine de traitement ou la fabrique où ils sont préparés,
+		- **(ii)** les date et lieu de leur inspection,
+		- **(iii)** si des tests de dépistage ont été effectués, la nature de chaque test, et le fait qu’ils y ont réagi négativement ou qu’ils sont conformes aux normes du pays destinataire;
+	- **b)** les exigences d’importation du pays importateur ont été respectées.
+
+- **(2)** Il est interdit d’exporter des produits d’une usine de traitement, des engrais, des suppléments d’engrais ou des aliments pour animaux contenant des produits d’une usine de traitement à moins que le certificat visé au paragraphe (1) ne porte le timbre d’exportation officiel visé au paragraphe (3).
+
+- **(3)** Le timbre d’exportation officiel exigé par le présent article doit porter la mention « Gouvernement du Canada — AGENCE CANADIENNE D’INSPECTION DES ALIMENTS — Government of Canada — CANADIAN FOOD INSPECTION AGENCY » et ne peut être apposé sur un certificat que par un inspecteur, un vétérinaire inspecteur ou la personne autorisée par l’un ou l’autre.
+
+- **(4)** Seuls un inspecteur, un vétérinaire inspecteur ou la personne autorisée par l’un ou l’autre peuvent avoir en leur possession un timbre d’exportation officiel ou un facsimilé de celui-ci.
+> DORS/2006-147, art. 17.
+
 
 
 
@@ -1437,9 +1545,9 @@ conformément à l’ordonnance qui précise la manière, le lieu, les condition
 
 **91.3** À moins d’indication contraire toute personne tenue de garder un registre en vertu du présent règlement doit
 - **a)** conserver ce registre pour une période de deux ans après la date où le registre a été exigé;
-- **b)** remettre le registre à un inspecteur, à sa demande à toute heure raisonnable au cours de la période visée à l’alinéa a) pour qu’il puisse l’examiner, en tirer des extraits ou en faire des photocopies; et
+- **b)** sur demande de l’inspecteur, lui remettre le registre au cours de la période prévue par le présent règlement pour la conservation du registre pour qu’il puisse l’examiner, en tirer des extraits ou en faire des copies;
 - **c)** sur réception d’une demande écrite de l’inspecteur, lui fournir les renseignements que renferme le registre, en une forme approuvée par le ministre.
-> DORS/82-590, art. 4.
+> DORS/82-590, art. 4; DORS/2006-147, art. 18.
 
 
 
@@ -2609,17 +2717,17 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 
 - **(1)** La demande d’un permis ou d’une licence qu’exige le présent règlement est présentée selon une formule approuvée par le ministre.
 
-- **(1.1)** Le ministre peut, sous réserve de l’alinéa 37(1)b) de la [Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md), délivrer tout permis ou licence exigé par le présent règlement s’il est d’avis que l’activité visée par le permis ou la licence n’entraînera pas ou qu’il est peu probable qu’elle entraîne, autant qu’il sache, l’introduction ou la propagation au Canada de vecteurs, de maladies ou de substances toxiques.
+- **(1.1)** Le ministre peut, sous réserve de l’alinéa 37(1)b) de la [Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md), délivrer tout permis ou licence exigé par le présent règlement s’il est d’avis que, autant qu’il sache, l’activité visée par le permis ou la licence n’entraînera pas ou qu’il est peu probable qu’elle entraîne l’introduction ou la propagation de vecteurs, de maladies, ou de substances toxiques soit au Canada, soit dans tout autre pays, en provenance du Canada.
 
 - **(2)** Le permis ou la licence qu’exige le présent règlement
 	- **a)** est dans une forme approuvée par le ministre; et
-	- **b)** renferme les conditions que le ministre juge appropriées pour empêcher l’introduction et la propagation de maladies transmissibles au Canada, ou leur introduction, depuis le Canada, dans un autre pays.
+	- **b)** renferme les conditions que le ministre juge appropriées pour empêcher l’introduction et la propagation de maladies transmissibles au Canada ou leur introduction dans tout autre pays, en provenance du Canada.
 
 - **(3)** Le ministre peut annuler ou suspendre un permis ou une licence délivrés en vertu du présent règlement s’il a des raisons de croire que
 	- **a)** les conditions de délivrance du permis ou de la licence ou les conditions qui y sont contenues n’ont pas été respectées;
 	- **b)** les dispositions de la Loi ou du présent règlement n’ont pas été respectées; ou
-	- **c)** autrement, un vecteur, une maladie ou une substance toxique pourrait être introduit ou se propager au Canada.
-> DORS/79-839, art. 34; DORS/92-23, art. 3; DORS/92-650, art. 4; DORS/93-159, art. 17; DORS/95-475, art. 4(F); DORS/2004-80, art. 17.
+	- **c)** autrement, un vecteur, une maladie ou une substance toxique pourrait être introduit au Canada et s’y propager ou s’introduire dans tout autre pays, en provenance du Canada.
+> DORS/79-839, art. 34; DORS/92-23, art. 3; DORS/92-650, art. 4; DORS/93-159, art. 17; DORS/95-475, art. 4(F); DORS/2004-80, art. 17; DORS/2006-147, art. 19.
 
 
 
@@ -2650,7 +2758,9 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 
 
 **PARTIE XIV** 
-## Aliments pour ruminants, animaux de ferme et volaille
+## Aliments pour ruminants, animaux de ferme et volaille, usines de traitement, engrais et suppléments d’engrais
+> [DORS/2006-147, art. 20]
+
 
 
 
@@ -2659,10 +2769,15 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 
 **162** 
 
-- **(1)** Dans la présente partie, « substance interdite » désigne toute chose qui est ou qui contient une protéine provenant d’un mammifère autre qu’un porcin ou qu’un équidé, sauf le lait, le sang, la gélatine, le gras animal fondu et les produits de ceux-ci.
+- **(1)** Dans la présente partie, ***substance interdite*** s’entend de toute chose qui est ou contient une protéine provenant d’un mammifère, à l’exclusion des protéines qui proviennent :
+	- **a)** d’un porcin ou d’un équidé;
+	- **b)** du lait ou des produits laitiers;
+	- **c)** de la gélatine provenant exclusivement du cuir ou de la peau, ou des produits de celle-ci;
+	- **d)** du sang ou des produits sanguins;
+	- **e)** du gras fondu provenant de ruminants et ne contenant pas plus de 0,15 pour cent d’impuretés insolubles, ou des produits de celui-ci.
 
 - **(2)** Une substance interdite qui a été traitée d’une manière approuvée par le ministre pour inactiver les agents qui causent des encéphalopathies spongiformes transmissibles n’est plus considérée comme étant interdite.
-> DORS/97-362, art. 4.
+> DORS/97-362, art. 4; DORS/2006-147, art. 21.
 
 
 
@@ -2695,14 +2810,20 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 
 - **(1)** Il est interdit d’exploiter une usine de traitement, à moins de détenir un permis délivré en vertu de l’article 160 et de s’y conformer.
 
+- **(1.1)** Il est interdit à l’exploitant d’une usine de traitement de fabriquer des substances interdites dans les mêmes locaux que des substances non interdites pouvant servir d’aliment aux ruminants, à moins de disposer de chaînes de fabrication, d’équipements et de moyens de transport spécialisés pour empêcher que les substances interdites ne soient mélangées avec les substances non interdites servant d’aliment aux ruminants, ou qu’elles contaminent ces substances.
+
 - **(2)** L’exploitant d’une usine de traitement doit tenir un registre indiquant :
 	- **a)** la date de fabrication de tous les produits de l’usine;
 	- **b)** si un produit de l’usine est ou non une substance interdite ou s’il contient ou non une telle substance;
 	- **c)** le nom et la quantité des produits de l’usine, ainsi que tout autre renseignement qui en permet l’identification;
 	- **d)** les nom et adresse de toute personne à qui un produit de l’usine est distribué ou vendu et les renseignements mentionnés à l’alinéa c) relativement à ce produit.
 
-- **(3)** Il est interdit à l’exploitant d’une usine de traitement de distribuer ou de vendre tout produit d’une usine contenant une substance interdite à moins que la documentation relative au produit exigée par le présent règlement et l’étiquette sur tout emballage ou contenant renfermant le produit ne portent bien en vue une mention, approuvée par le ministre, inscrite lisiblement et de façon indélébile, indiquant que ce produit ne doit pas être donné à manger à des ruminants.
-> DORS/97-362, art. 4.
+- **(3)** Le registre est conservé pour une période de dix ans à compter de la date où survient le fait en cause.
+
+- **(4)** Il est interdit à l’exploitant d’une usine de traitement de distribuer ou de vendre tout produit de l’usine contenant une substance interdite à moins que les documents relatifs au produit, exigés par le présent règlement, et que l’étiquette sur tout emballage ou contenant du produit ne portent la mention indélébile ci-après, inscrite lisiblement et bien en vue :« Il est interdit d’en nourrir les bœufs, moutons, cerfs et autres ruminants et des amendes ou autres peines sont prévues à cet égard par la [Loi sur la santé des animaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2021.md). / *Feeding this product to cattle, sheep, deer or other ruminants is illegal and is subject to fines or other punishment under the Health of Animals Act.* »
+
+
+> DORS/97-362, art. 4; DORS/2006-147, art. 22.
 
 
 
@@ -2715,13 +2836,13 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 
 - **(1)** Il est interdit d’importer un produit d’une usine de traitement, à moins de détenir un permis délivré en vertu de l’article 160 et de s’y conformer.
 
-- **(2)** Quiconque importe ou a la possession, la responsabilité ou la charge des soins d’un produit d’une usine de traitement doit tenir un registre indiquant :
+- **(2)** Quiconque importe ou a la possession, la responsabilité ou la charge des soins d’un produit d’une usine de traitement doit tenir un registre pour une période de dix ans indiquant :
 	- **a)** les nom et adresse de l’usine de traitement et la date de fabrication du produit;
 	- **b)** les nom et adresse de l’exportateur;
-	- **c)** le nom et la quantité du produit, ainsi que tout autre renseignement qui en permet l’identification;
+	- **c)** le nom, la quantité et le numéro de lot du produit, ainsi que tout autre renseignement qui en permet l’identification;
 	- **d)** les nom et adresse de toute personne à qui le produit est distribué ou vendu et les renseignements mentionnés à l’alinéa c) relativement au produit;
 	- **e)** si le produit est ou non une substance interdite ou s’il contient ou non une telle substance.
-> DORS/97-362, art. 4.
+> DORS/97-362, art. 4; DORS/2006-147, art. 23.
 
 
 
@@ -2732,6 +2853,20 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 
 **167** Il est interdit à quiconque importe un produit d’une usine de traitement ou à quiconque en a la possession, la responsabilité ou la charge des soins, de distribuer ou de vendre le produit, à moins que la documentation relative au produit exigée par le présent règlement et l’étiquette sur tout emballage ou contenant renfermant le produit portent bien en vue la mention visée au paragraphe 165(3), inscrite lisiblement et de façon indélébile.
 > DORS/97-362, art. 4.
+
+
+
+
+
+### Procédure de rappel
+
+
+**167.1** 
+
+- **(1)** L’exploitant d’une usine de traitement doit établir par écrit et appliquer une procédure de rappel efficace des produits de l’usine.
+
+- **(2)** Quiconque importe un produit d’une usine de traitement doit établir et tenir à jour par écrit une procédure de rappel efficace du produit.
+> DORS/2006-147, art. 24.
 
 
 
@@ -2758,12 +2893,29 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 
 - **(2)** Dans le cas visé au paragraphe (1), la personne doit :
 	- **a)** veiller à ce que les procédures soient appliquées dès la réception du produit ou de l’aliment pour animaux jusqu’à ce que le produit ou l’aliment ne soit plus en sa possession, sous ses soins ou sous sa responsabilité;
-	- **b)** tenir des registres pour démontrer que les procédures ont été suivies.
+	- **b)** tenir un registre pendant une période de dix ans à l’égard des produits, des aliments pour animaux destinés aux ruminants et des substances interdites.
 
-- **(3)** Lorsqu’une personne n’applique pas les procédures visées au paragraphe (1) :
+- **(3)** Si la personne visée ne se conforme pas au paragraphe (1) :
 	- **a)** elle doit modifier les registres afin que ceux-ci indiquent que tout le produit ou tout l’aliment est une substance interdite et l’étiquette sur tout emballage ou contenant renfermant ce produit ou cet aliment doit porter bien en vue une mention, approuvée par le ministre, inscrite lisiblement et de façon indélébile, indiquant que ce produit ou cet aliment ne doit pas être donné à manger à des ruminants;
-	- **b)** tout produit ou tout aliment pour animaux est réputé être une substance interdite aux fins de l’article 164.
-> DORS/97-362, art. 4.
+	- **b)** tout produit ou tout aliment pour animaux est réputé être une substance interdite aux fins de l’article 164;
+	- **c)** elle doit rappeler tout produit ou aliment pour animaux pouvant avoir été destiné à nourrir des ruminants si une substance interdite y a été décelée ou si le ministre a de bonnes raisons de croire qu’il en contient.
+> DORS/97-362, art. 4; DORS/2006-147, art. 25.
+
+
+
+
+
+### Procédure de rappel
+
+
+**170.1** Quiconque importe, fabrique, emballe, étiquette, entrepose, distribue, vend ou annonce pour de la vente un aliment pour animaux destiné aux ruminants, équidés, porcins, poulets, dindons, canards, oies, ratites ou aux gibiers à plumes doit établir par écrit et appliquer une procédure de rappel efficace des aliments pour animaux.
+> DORS/2006-147, art. 26.
+
+
+
+
+**170.2** Quiconque importe, fabrique, vend ou distribue un engrais ou un supplément d’engrais contenant une substance interdite, autre que du gras fondu, doit établir par écrit et appliquer une procédure écrite de rappel efficace de ces produits.
+> DORS/2006-147, art. 26.
 
 
 
@@ -2774,21 +2926,49 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 
 **171** 
 
-- **(1)** Quiconque fabrique un aliment pour animaux destiné aux ruminants, aux équidés, aux porcs, aux poulets, aux dindons, aux canards, aux oies, aux ratites ou au gibier à plumes doit tenir un registre comprenant :
+- **(1)** Quiconque fabrique un aliment pour animaux destiné aux ruminants, aux équidés, aux porcs, aux poulets, aux dindons, aux canards, aux oies, aux ratites ou au gibier à plumes doit tenir, pendant une période de dix ans, un registre comprenant :
 	- **a)** la formule de l’aliment, y compris le nom et le poids de tous les ingrédients utilisés dans la fabrication de chaque lot de l’aliment;
 	- **b)** une feuille de mélange indiquant que chaque lot de l’aliment a été fabriqué conformément à la formule mentionnée à l’alinéa a);
 	- **c)** des renseignements indiquant si l’aliment contient ou non une substance interdite;
 	- **d)** la date de préparation de l’aliment;
-	- **e)** tout renseignement qui permet l’identification de chaque lot de l’aliment;
+	- **e)** tout renseignement permettant d’identifier chaque lot de l’aliment, notamment le numéro du lot;
 	- **f)** les nom et adresse de toute personne à qui l’aliment est distribué ou vendu et une description de l’aliment, y compris son nom et sa quantité.
 
-- **(2)** Quiconque importe, emballe, entrepose, distribue, vend ou annonce pour la vente un aliment pour animaux destiné aux ruminants, aux équidés, aux porcs, aux poulets, aux dindons, aux canards, aux oies, aux ratites ou au gibier à plumes doit tenir un registre comprenant :
-	- **a)** le nom de l’aliment ou tout autre renseignement qui permet l’identification;
+- **(2)** Quiconque importe, emballe, entrepose, distribue, vend ou annonce pour la vente un aliment pour animaux destiné aux ruminants, aux équidés, aux porcs, aux poulets, aux dindons, aux canards, aux oies, aux ratites ou au gibier à plumes doit tenir, pendant une période de dix ans, un registre comprenant :
+	- **a)** tout renseignement permettant d’identifier l’aliment, notamment son nom et le numéro du lot;
 	- **b)** les nom et adresse de toute personne à qui l’aliment est distribué ou vendu et une description de l’aliment, y compris son nom et sa quantité;
 	- **c)** des renseignements indiquant si l’aliment contient ou non une substance interdite.
 
 - **(3)** Quiconque est propriétaire d’un ruminant ou en a la possession, la responsabilité ou la charge des soins doit conserver une copie de toutes les factures d’aliments pour animaux contenant une substance interdite.
-> DORS/97-362, art. 4.
+> DORS/97-362, art. 4; DORS/2006-147, art. 27; DORS/2007-24, art. 7.
+
+
+
+
+**171.1** 
+
+- **(1)** Toute personne qui fabrique un engrais ou un supplément d’engrais contenant une substance interdite, autre qu’un gras fondu, doit tenir pendant une période de dix ans, un registre :
+	- **a)** qui permet d’établir :
+		- **(i)** qu’elle n’a pas utilisé de matériel à risque spécifié, sous quelque forme que ce soit, incorporé ou non à une autre matière, comme ingrédient dans l’engrais ou le supplément d’engrais,
+		- **(ii)** qu’elle a utilisé du matériel à risque spécifié, sous quelque forme que ce soit, incorporé ou non à une autre matière, comme ingrédient dans l’engrais ou le supplément d’engrais mais uniquement en conformité avec un permis délivré au titre de l’article 160;
+	- **b)** qui permet de procéder à un rappel efficace de l’engrais ou du supplément d’engrais.
+
+- **(2)** Le registre renferme :
+	- **a)** les nom et adresse de toute personne qui a fourni la substance interdite au fabricant de l’engrais ou du supplément d’engrais, ainsi qu’une attestation signée par ce même fournisseur selon laquelle la substance interdite ne contient pas de matériel à risque spécifié autre que conformément à un permis délivré au titre de l’article 160 pour les fins de l’article 6.4;
+	- **b)** la formule de l’engrais ou du supplément d’engrais, notamment le nom et le poids de chaque ingrédient utilisé pour chaque lot d’engrais ou de supplément d’engrais;
+	- **c)** une feuille de mélange indiquant que chaque lot d’engrais ou de supplément d’engrais a été produit conformément à la formule visée à l’alinéa b);
+	- **d)** la date de préparation de l’engrais ou du supplément d’engrais;
+	- **e)** tout renseignement permettant d’identifier chaque lot de l’engrais ou du supplément d’engrais;
+	- **f)** les nom et adresse de toute personne à qui un engrais ou un supplément d’engrais est distribué ou vendu, ainsi qu’une description de l’engrais ou du supplément d’engrais, notamment le nom et la quantité.
+> DORS/2006-147, art. 28.
+
+
+
+
+**171.2** Toute personne qui importe, vend ou distribue un engrais ou un supplément d’engrais contenant une substance interdite, autre que du gras fondu, doit tenir, pendant une période de dix ans, un registre qui permet de procéder à un rappel efficace de l’engrais ou du supplément d’engrais si nécessaire et qui renferme :
+- **a)** le nom, le numéro de lot ou tout autre renseignement permettant d’identifier l’engrais ou le supplément d’engrais;
+- **b)** les nom et adresse de toute personne à qui l’engrais ou le supplément d’engrais est distribué ou vendu, ainsi que les caractéristiques distinctives de l’engrais ou du supplément d’engrais, notamment son nom et sa quantité.
+> DORS/2006-147, art. 28.
 
 
 
