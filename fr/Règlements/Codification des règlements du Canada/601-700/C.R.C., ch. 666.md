@@ -34,25 +34,27 @@ Autorités habilitantes :
 
 ***Agence*** L’Agence canadienne d’inspection des aliments constituée par l’article 3 de la [Loi sur l’Agence canadienne d’inspection des aliments](/fr/Lois/Lois%20du%20Canada/1997/ch.%206.md). (*Agency*)
 
-***analyse garantie*** signifie celle visée à l’article 15; (*guaranteed analysis*)
+***analyse garantie*** signifie celle visée à l’article 15. (*guaranteed analysis*)
 
-***antiparasitaire*** signifie un produit antiparasitaire défini dans la [Loi sur les produits antiparasitaires](/fr/Lois/Lois%20du%20Canada/2002/ch.%2028.md); (*pesticide*)
+***antiparasitaire*** signifie un produit antiparasitaire défini dans la [Loi sur les produits antiparasitaires](/fr/Lois/Lois%20du%20Canada/2002/ch.%2028.md). (*pesticide*)
 
-***assimilable*** ou ***soluble*** signifie soluble selon les méthodes d’analyse prescrites à l’article 23; (*available* ou *soluble*)
+***assimilable*** ou ***soluble*** signifie soluble selon les méthodes d’analyse prescrites à l’article 23. (*available* ou *soluble*)
 
-***azote*** signifie l’azote élémentaire (N); (*nitrogen*)
+***azote*** signifie l’azote élémentaire (N). (*nitrogen*)
 
-***azote insoluble dans l’eau*** signifie de l’azote insoluble dans de l’eau lorsqu’il est analysé au moyen de la méthode d’analyse dont il est question à l’article 23; (*water-insoluble nitrogen*)
+***azote insoluble dans l’eau*** signifie de l’azote insoluble dans de l’eau lorsqu’il est analysé au moyen de la méthode d’analyse dont il est question à l’article 23. (*water-insoluble nitrogen*)
 
 ***biotechnologie*** Application des sciences ou de l’ingénierie à l’utilisation des organismes vivants ou de leurs parties ou produits, sous leur forme naturelle ou modifiée. (*biotechnology*)
+
+***bœuf*** Animal de l’espèce *Bos taurus* ou *Bos indicus*. (*cattle*)
 
 ***caractère nouveau*** Caractère d’un supplément issu de la biotechnologie qui :
 - **a)** d’une part, a été intentionnellement sélectionné, créé ou incorporé dans une population distincte et stable de suppléments de la même espèce par une modification génétique particulière;
 - **b)** d’autre part, en ce qui a trait à son usage particulier et à son innocuité tant pour l’environnement que pour la santé humaine, sur la foi d’une justification scientifique valable, n’est essentiellement équivalent à aucun caractère d’un supplément semblable qui, au Canada, est déjà employé comme supplément et considéré comme étant sans risque. (*novel trait*)
 
-***catégorie*** signifie la teneur en pourcentage d’azote total, d’acide phosphorique assimilable et de potasse soluble, indiquée dans l’ordre donné; (*grade*)
+***catégorie*** signifie la teneur en pourcentage d’azote total, d’acide phosphorique assimilable et de potasse soluble, indiquée dans l’ordre donné. (*grade*)
 
-***connaissement*** signifie une facture accompagnant une expédition d’engrais ou de suppléments; (*shipping bill*)
+***connaissement*** signifie une facture accompagnant une expédition d’engrais ou de suppléments. (*shipping bill*)
 
 ***directeur*** La personne nommée à ce titre par le président de l’Agence. (*Director*)
 
@@ -62,21 +64,21 @@ Autorités habilitantes :
 
 ***Division des produits végétaux***[Abrogée, DORS/85-558, art. 1]
 
-***échantillon*** signifie un échantillon de l’engrais ou du supplément prélevé par un inspecteur; (*sample*)
+***échantillon*** signifie un échantillon de l’engrais ou du supplément prélevé par un inspecteur. (*sample*)
 
 ***engrais*** Vise notamment tout engrais issu de la biotechnologie. (*fertilizer*)
 
 ***engrais agricole*** Y est assimilé tout engrais qui n’est pas un engrais spécial. (*farm fertilizer*)
 
-***engrais-antiparasitaire*** signifie tout engrais contenant un produit antiparasitaire; (*fertilizer-pesticide*)
+***engrais-antiparasitaire*** signifie tout engrais contenant un produit antiparasitaire. (*fertilizer-pesticide*)
 
-***engrais mélangé*** comprend tous les engrais autres que les engrais renfermant un seul composant ou un seul composé chimique; (*mixed fertilizer*)
+***engrais mélangé*** comprend tous les engrais autres que les engrais renfermant un seul composant ou un seul composé chimique. (*mixed fertilizer*)
 
-***engrais préparé d’après la formule du client*** signifie un engrais préparé selon une formule écrite qui énumère le nom, la quantité et l’analyse de chaque composant, la catégorie d’engrais du mélange total et porte la signature de la personne pour laquelle il a été préparé et qui doit l’utiliser pour fins de fertilisation; (*customer-formula fertilizer*)
+***engrais préparé d’après la formule du client*** signifie un engrais préparé selon une formule écrite qui énumère le nom, la quantité et l’analyse de chaque composant, la catégorie d’engrais du mélange total et porte la signature de la personne pour laquelle il a été préparé et qui doit l’utiliser pour fins de fertilisation. (*customer-formula fertilizer*)
 
 ***engrais spécial*** désigne l’engrais :
 - **a)** soit recommandé uniquement pour les plantes d’intérieur, les jardins urbains, les pelouses ou les terrains de golf, ou pour utilisation dans les pépinières ou les serres;
-- **b)** soit qui ne contient pas de principes nutritifs principaux mais contient des principes nutritifs secondaires, à l’exception du calcium (Ca), du magnésium (Mg) et du soufre (S); (*specialty fertilizer*)
+- **b)** soit qui ne contient pas de principes nutritifs principaux mais contient des principes nutritifs secondaires, à l’exception du calcium (Ca), du magnésium (Mg) et du soufre (S). (*specialty fertilizer*)
 
 ***environnement*** Ensemble des conditions et des éléments naturels de la terre, notamment :
 - **a)** l’air, l’eau et le sol;
@@ -86,23 +88,29 @@ Autorités habilitantes :
 
 ***finesse***[Abrogée, DORS/85-558, art. 1]
 
-***inscrit*** s’entend d’une personne à qui un certificat d’enregistrement a été délivré conformément au présent règlement; (*registrant*)
+***inscrit*** s’entend d’une personne à qui un certificat d’enregistrement a été délivré conformément au présent règlement. (*registrant*)
 
 ***Loi*** La [Loi sur les engrais](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-10.md). (*Act*)
 
-***marque*** signifie toute marque ou tout nom de commerce distinctif, autre que la catégorie ou le nom requis par le présent règlement, donnés par le fabricant, l’inscrit ou le vendeur à un engrais ou à un supplément en vue de le distinguer de tout autre engrais ou complément; (*brand*)
+***marque*** signifie toute marque ou tout nom de commerce distinctif, autre que la catégorie ou le nom requis par le présent règlement, donnés par le fabricant, l’inscrit ou le vendeur à un engrais ou à un supplément en vue de le distinguer de tout autre engrais ou complément. (*brand*)
 
-***matière organique*** s’entend de la substance qui reste après l’enlèvement, d’une substance partiellement humifiée d’origine animale ou végétale, de l’humidité et des fractions totales de cendres; (*organic matter*)
+***matériel à risque spécifié***
+- **a)** Crâne, cervelle, ganglions trigéminés, yeux, amygdales, moelle épinière et ganglions de la racine dorsale des bœufs âgés de trente mois ou plus;
+- **b)** iléon distal des bœufs de tous âges. (*specified risk material*)
 
-***potasse*** signifie oxyde de potassium (K<sub>2</sub>O); (*potash*)
+***matière organique*** s’entend de la substance qui reste après l’enlèvement, d’une substance partiellement humifiée d’origine animale ou végétale, de l’humidité et des fractions totales de cendres. (*organic matter*)
 
-***pour cent*** signifie le pourcentage, au poids; (*per cent*)
+***potasse*** signifie oxyde de potassium (K<sub>2</sub>O). (*potash*)
+
+***pour cent*** signifie le pourcentage, au poids. (*per cent*)
 
 ***principe nutritif principal*** S’entend de l’azote (N), du phosphore (P) ou du potassium (K). (*major plant nutrient*)
 
 ***principe nutritif secondaire*** signifie tout principe nutritif autre que l’azote, le phosphore et le potassium. (*lesser plant nutrient*)
 
 ***Recueil des pesticides à usage dans les engrais*** La 2<sup>e</sup> édition du Recueil des pesticides à usage dans les engrais publiée en août 1994 par le ministère de l’Agriculture. (*Compendium of Fertilizer-Use Pesticides*)
+
+***ruminant*** Animal du sous-ordre des ruminants. S’entend en outre d’un animal de la famille des camélidés. (*ruminant*)
 
 ***supplément*** Vise notamment tout supplément issu de la biotechnologie. (*supplement*)
 
@@ -114,7 +122,7 @@ Autorités habilitantes :
 	- **a)** avoir, immédiatement ou à long terme, un effet nocif sur l’environnement;
 	- **b)** mettre en danger l’environnement essentiel pour la vie humaine;
 	- **c)** constituer un danger au Canada pour la vie ou la santé humaine.
-> DORS/79-365, art. 1; DORS/85-558, art. 1; DORS/88-353, art. 1; DORS/91-441, art. 1; DORS/93-232, art. 2; DORS/94-683, art. 3; DORS/95-53, art. 1; DORS/95-548, art. 4; DORS/97-7, art. 2; DORS/97-292, art. 25; DORS/2000-184, art. 55; DORS/2003-6, art. 72.
+> DORS/79-365, art. 1; DORS/85-558, art. 1; DORS/88-353, art. 1; DORS/91-441, art. 1; DORS/93-232, art. 2; DORS/94-683, art. 3; DORS/95-53, art. 1; DORS/95-548, art. 4; DORS/97-7, art. 2; DORS/97-292, art. 25; DORS/2000-184, art. 55; DORS/2003-6, art. 72; DORS/2006-147, art. 6.
 
 
 
@@ -200,12 +208,14 @@ Autorités habilitantes :
 
 - **(6)** Lorsqu’une demande d’enregistrement d’un engrais ou d’un supplément est présentée par une personne qui ne réside pas au Canada, l’engrais ou le supplément n’est admissible à l’enregistrement que si la demande est signée par le demandeur et son agent qui réside au Canada en permanence et qui peut recevoir les avis ou la correspondance prévus par la Loi, et que l’agent remet au président de l’Agence la formule visée à l’annexe IV.
 
+- **(6.1)** La demande d’enregistrement est refusée s’il existe des motifs raisonnables de croire que l’engrais ou le supplément n’est pas conforme aux exigences de la [Loi sur la santé des animaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2021.md) ou de ses règlements à l’égard des produits d’une usine de traitement, des aliments pour animaux, des produits animaux, des sous-produits animaux ou du fumier.
+
 - **(7)** Si, après étude d’une demande d’enregistrement d’un engrais ou d’un supplément, il est déterminé que l’engrais ou le supplément satisfait aux exigences de la Loi et du présent règlement, un numéro d’enregistrement lui est attribué et un certificat est délivré au requérant.
 
 - **(8)** [Abrogé, DORS/85-558, art. 4]
 
 - **(9)** Un certificat d’enregistrement délivré après le 30 juin 1978 expire le 30 juin de l’année qui y figure, soit à une date ne dépassant pas de deux ans celle de l’enregistrement, à moins que cet enregistrement ne soit annulé plus tôt.
-> DORS/79-365, art. 5; DORS/85-558, art. 4; DORS/85-688, art. 1; DORS/92-721, art. 1; DORS/96-424, art. 1; DORS/2000-184, art. 57; DORS/2004-80, art. 11.
+> DORS/79-365, art. 5; DORS/85-558, art. 4; DORS/85-688, art. 1; DORS/92-721, art. 1; DORS/96-424, art. 1; DORS/2000-184, art. 57; DORS/2004-80, art. 11; DORS/2006-147, art. 7.
 
 
 
@@ -337,7 +347,8 @@ il doit contenir, par gramme du produit, suffisamment de cellules viables de l�
 
 - **(1)** Un engrais ou un supplément ne peut contenir :
 	- **a)** une substance en des quantités pouvant être généralement nuisibles — ou gravement préjudiciables — à la végétation (sauf les mauvaises herbes), aux animaux domestiques, à la santé publique ou à l’environnement, lorsqu’elle est utilisée selon le mode d’emploi;
-	- **b)** une substance qui, lorsqu’elle est appliquée dans les quantités généralement utilisées ou selon le mode d’emploi, laisse dans les tissus d’une plante un résidu d’une substance toxique ou nuisible.
+	- **b)** une substance qui, lorsqu’elle est appliquée dans les quantités généralement utilisées ou selon le mode d’emploi, laisse dans les tissus d’une plante un résidu d’une substance toxique ou nuisible;
+	- **c)** sauf en conformité avec un permis délivré au titre de l’article 160 du [Règlement sur la santé des animaux](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/201-300/C.R.C.,%20ch.%20296.md) pour l’application de l’article 6.4 de ce règlement, des protéines issues de matériel à risque spécifié, sous quelque forme que se soit, qui a été retiré de la carcasse d’un bœuf ou qui se trouve dans la carcasse d’un bœuf mort ou condamné avant d’avoir pu être abattu pour la consommation alimentaire humaine.
 
 - **(2)** Un engrais ou un supplément doit avoir la composition chimique et physique qui le rende efficace pour toutes les fins alléguées ou pour lesquelles il est vendu.
 
@@ -348,7 +359,7 @@ il doit contenir, par gramme du produit, suffisamment de cellules viables de l�
 - **(4)** Les engrais-antiparasitaires ne peuvent contenir que les antiparasitaires :
 	- **a)** dont la marque est une marque approuvée qui figure dans le Recueil des pesticides à usage dans les engrais;
 	- **b)** qui satisfont aux exigences du recueil relativement à l’utilisation approuvée et au taux d’épandage.
-> DORS/79-365, art. 10; DORS/91-441, art. 2; DORS/93-232, art. 2; DORS/95-548, art. 4; DORS/2003-6, art. 75.
+> DORS/79-365, art. 10; DORS/91-441, art. 2; DORS/93-232, art. 2; DORS/95-548, art. 4; DORS/2003-6, art. 75; DORS/2006-147, art. 8.
 
 
 
@@ -423,16 +434,22 @@ lorsque ces composants sont intentionnellement ajoutés à cet engrais ou censé
 	- **e)** l’analyse garantie, prescrite à l’article 15;
 	- **f)** dans le cas d’un engrais-antiparasitaire, d’un produit annoncé comme renfermant des principes nutritifs secondaires autres que le calcium, le magnésium ou le soufre, d’un engrais spécial ou d’un produit annoncé comme étant destiné à la nutrition foliaire, le mode d’emploi;
 	- **g)** dans le cas d’un engrais-antiparasitaire, les mentions exigées par le Recueil des pesticides à usage dans les engrais;
-	- **h)** le poids de l’engrais; et
+	- **h)** le poids de l’engrais;
 	- **i)** lorsque l’engrais est un engrais autre qu’un engrais spécial, lorsqu’il a été intentionnellement additionné de bore, de cuivre, de manganèse, de molybdène ou de zinc ou est censé en contenir ou lorsque, de l’avis du président de l’Agence, il accuse une haute teneur naturelle de l’un ou plusieurs de ces principes nutritifs secondaires, la déclaration suivante relative aux précautions à prendre :
 
 
 
-« AVERTISSEMENT : Cet engrais renferme (*indiquer le nom du principe nutritif secondaire*) et ne doit être employé que de la manière recommandée. Il peut être nocif s’il est employé mal à propos. »
+« AVERTISSEMENT : Cet engrais renferme (*indiquer le nom du principe nutritif secondaire*) et ne doit être employé que de la manière recommandée. Il peut être nocif s’il est employé mal à propos. »;
 
 
 
 
+	- **j)** lorsque l’engrais est ou contient une substance interdite, au sens du paragraphe 162(1) du [Règlement sur la santé des animaux](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/201-300/C.R.C.,%20ch.%20296.md), autre que du gras fondu, des mentions indélébiles inscrites lisiblement et bien en vue, dans les deux langues officielles, portant :
+		- **(i)** qu’il est interdit d’en nourrir les bœufs, moutons, cerfs et autres ruminants et que des amendes ou autres peines sont prévues à cet égard par la [Loi sur la santé des animaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2021.md),
+		- **(ii)** qu’il ne faut pas l’utiliser sur un pâturage ou autre espace vert utilisé par les ruminants,
+		- **(iii)** qu’il ne faut pas en ingérer,
+		- **(iv)** qu’il faut se laver les mains après l’avoir utilisé;
+	- **k)** le numéro de lot de l’engrais sauf dans le cas d’un engrais préparé d’après la formule du client.
 
 - **(2)** Lorsqu’un engrais est vendu en vrac, les renseignements exigés en vertu du présent article doivent être indiqués sur le connaissement ou sur une déclaration accompagnant l’expédition.
 
@@ -459,7 +476,7 @@ lorsque ces composants sont intentionnellement ajoutés à cet engrais ou censé
 	- **d)** le poids du lot ou de l’expédition.
 
 - **(6)** Lorsqu’un engrais mélangé est vendu dans un emballage qui ne porte aucune étiquette mentionnant le nom et la catégorie des composés ou constituants de l’engrais, le vendeur doit, à la demande de l’acheteur, lui fournir ces renseignements par écrit au moment de la vente.
-> DORS/79-365, art. 13; DORS/85-558, art. 8; DORS/91-441, art. 3; DORS/92-585, art. 2; DORS/2000-184, art. 57; DORS/2004-80, art. 13.
+> DORS/79-365, art. 13; DORS/85-558, art. 8; DORS/91-441, art. 3; DORS/92-585, art. 2; DORS/2000-184, art. 57; DORS/2004-80, art. 13; DORS/2006-147, art. 9.
 
 
 
@@ -478,6 +495,11 @@ lorsque ces composants sont intentionnellement ajoutés à cet engrais ou censé
 	- **e)** son numéro de lot;
 	- **f)** l’analyse garantie visée à l’article 15;
 	- **g)** dans le cas d’un supplément dans lequel le composant actif peut se détériorer, la date après laquelle il n’est pas censé être utilisé;
+	- **g.1)** lorsque le supplément est ou contient une substance interdite, au sens du paragraphe 162(1) du [Règlement sur la santé des animaux](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/201-300/C.R.C.,%20ch.%20296.md), des mentions indélébiles inscrites lisiblement et bien en vue, dans les deux langues officielles, portant :
+		- **(i)** qu’il est interdit d’en nourrir les bœufs, moutons, cerfs et autres ruminants et que des amendes ou autres peines sont prévues à cet égard par la [Loi sur la santé des animaux](/fr/Lois/Lois%20du%20Canada/1990/ch.%2021.md),
+		- **(ii)** qu’il ne faut pas l’utiliser sur un pâturage ou autre espace vert utilisé par les ruminants,
+		- **(iii)** qu’il ne faut pas en ingérer,
+		- **(iv)** qu’il faut se laver les mains après l’avoir utilisé;
 	- **h)** le numéro d’enregistrement du supplément, si l’enregistrement est exigé.
 
 - **(2)** Les alinéas (1)d) et f) ne s’appliquent à un emballage de semence contenant une semence préinoculée ou préinoculée par enrobage et chaque emballage de cette semence porte une étiquette sur laquelle il est mentionné :
@@ -495,7 +517,7 @@ lorsque ces composants sont intentionnellement ajoutés à cet engrais ou censé
 	- **b)** le nom et le volume du supplément.
 
 - **(4)** Nonobstant les paragraphes (1) à (3), dans le cas d’un supplément vendu en vrac, les renseignements exigés sur l’étiquette en vertu de ces paragraphes doivent figurer sur le connaissement ou dans une déclaration accompagnant l’envoi.
-> DORS/79-365, art. 14; DORS/85-558, art. 9; DORS/95-548, art. 4.
+> DORS/79-365, art. 14; DORS/85-558, art. 9; DORS/95-548, art. 4; DORS/2006-147, art. 10.
 
 
 
