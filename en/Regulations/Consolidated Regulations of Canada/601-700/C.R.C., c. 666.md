@@ -40,6 +40,8 @@ Enabling authorities:
 
 ***brand*** means any distinctive mark or trade name, other than a name or grade required by these Regulations, applied by the manufacturer, registrant or vendor to a fertilizer or supplement to distinguish it from any other fertilizer or supplement; (*marque*)
 
+***cattle*** means animals of the species *Bos taurus* or *Bos indicus*; (*bœuf*)
+
 ***Compendium of Fertilizer-Use Pesticides*** means the Compendium of Fertilizer-Use Pesticides, 2nd edition, published by the Department of Agriculture (August 1994); (*Recueil des pesticides à usage dans les engrais*)
 
 ***customer-formula fertilizer*** means a fertilizer prepared in accordance with a written formula that sets forth the name, amount and analysis of each ingredient, the fertilizer grade of the total mixture and the signature of the person for whose use for fertilizing purposes it has been prepared; (*engrais préparé d’après la formule du client*)
@@ -98,6 +100,8 @@ Enabling authorities:
 
 ***release*** means any discharge or emission of a supplement into the environment or exposure of a supplement to the environment; (*dissémination*)
 
+***ruminant*** means an animal of the suborder *Ruminatiae* and includes an animal of the family *Camelidae*; (*ruminant*)
+
 ***sample*** means a sample of fertilizer or supplement taken by an inspector; (*échantillon*)
 
 ***shipping bill*** means a bill accompanying a shipment of fertilizer or supplement; (*connaissement*)
@@ -105,6 +109,10 @@ Enabling authorities:
 ***specialty fertilizer*** means a fertilizer
 - **(a)** recommended for use only on household plants, urban gardens, lawns or golf courses or in nurseries or greenhouses, or
 - **(b)** that contains no major plant nutrients and contains lesser plant nutrients other than calcium (Ca), magnesium (Mg) and sulphur (S); (*engrais spécial*)
+
+***specified risk material*** means
+- **(a)** the skull, brain, trigeminal ganglia, eyes, tonsils, spinal cord and dorsal root ganglia of cattle aged 30 months or older, and
+- **(b)** the distal ileum of cattle of all ages; (*matériel à risque spécifié*)
 
 ***supplement*** includes a supplement derived through biotechnology; (*supplément*)
 
@@ -114,7 +122,7 @@ Enabling authorities:
 	- **(a)** having or that may have an immediate or long-term harmful effect on the environment;
 	- **(b)** constituting or that may constitute a danger to the environment on which human life depends; or
 	- **(c)** constituting or that may constitute a danger in Canada to human life or health.
-> SOR/79-365, s. 1; SOR/85-558, s. 1; SOR/88-353, s. 1; SOR/91-441, s. 1; SOR/93-232, s. 2; SOR/94-683, s. 3; SOR/95-53, s. 1; SOR/95-548, s. 4; SOR/97-7, s. 2; SOR/97-292, s. 25; SOR/2000-184, s. 55; SOR/2003-6, s. 72.
+> SOR/79-365, s. 1; SOR/85-558, s. 1; SOR/88-353, s. 1; SOR/91-441, s. 1; SOR/93-232, s. 2; SOR/94-683, s. 3; SOR/95-53, s. 1; SOR/95-548, s. 4; SOR/97-7, s. 2; SOR/97-292, s. 25; SOR/2000-184, s. 55; SOR/2003-6, s. 72; SOR/2006-147, s. 6.
 
 
 
@@ -200,12 +208,14 @@ Enabling authorities:
 
 - **(6)** Where an application is made by an applicant who is not resident in Canada, the fertilizer or supplement to which the application relates is not eligible for registration unless the application is also signed by an agent of the applicant who is permanently resident in Canada and to whom any notice or correspondence under the Act may be sent and such agent gives an undertaking to the President of the Agency on the form set out in Schedule IV.
 
+- **(6.1)** An application for the registration of a fertilizer or supplement shall be refused if there are reasonable grounds to believe that the fertilizer or supplement does not conform to the requirements of the [Health of Animals Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2021.md), or any regulations made under that Act, respecting products of a rendering plant, animal by-products, animal food, animal products or manure.
+
 - **(7)** Where an application for registration of a fertilizer or supplement is evaluated and the fertilizer or supplement is found to comply with the requirements of the Act and these Regulations, a registration number shall be assigned to that fertilizer or supplement and a certificate of registration shall be issued to the applicant.
 
 - **(8)** [Repealed, SOR/85-558, s. 4]
 
 - **(9)** Every certificate of registration issued after June 30, 1978 expires on June 30 in the year specified in the certificate that is not later than two years from the date of registration unless the registration is sooner cancelled.
-> SOR/79-365, s. 5; SOR/85-558, s. 4; SOR/85-688, s. 1; SOR/92-721, s. 1; SOR/96-424, s. 1; SOR/2000-184, s. 57; SOR/2004-80, s. 11.
+> SOR/79-365, s. 5; SOR/85-558, s. 4; SOR/85-688, s. 1; SOR/92-721, s. 1; SOR/96-424, s. 1; SOR/2000-184, s. 57; SOR/2004-80, s. 11; SOR/2006-147, s. 7.
 
 
 
@@ -336,8 +346,9 @@ the supplement shall contain, per gram of product, sufficient viable cells of th
 **11** 
 
 - **(1)** A fertilizer or supplement shall not contain
-	- **(a)** any substance in quantities likely to be generally detrimental or seriously injurious to vegetation (except weeds), domestic animals, public health or the environment when used according to directions; or
-	- **(b)** any substance that would, when applied in amounts commonly used or as specified in the directions for use, leave in the tissues of a plant a residue of a poisonous or harmful substance.
+	- **(a)** any substance in quantities likely to be generally detrimental or seriously injurious to vegetation (except weeds), domestic animals, public health or the environment when used according to directions;
+	- **(b)** any substance that would, when applied in amounts commonly used or as specified in the directions for use, leave in the tissues of a plant a residue of a poisonous or harmful substance; or
+	- **(c)** except in accordance with a permit issued under section 160 of the [Health of Animals Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/201-300/C.R.C.,%20c.%20296.md) for the purpose of section 6.4 of those Regulations, proteins derived from specified risk material, in any form, that was removed from the carcasses of cattle or that is contained in the carcasses of cattle that died or were condemned before they otherwise would have been slaughtered for human consumption as food.
 
 - **(2)** A fertilizer or supplement shall have such chemical and physical composition as to be efficacious for every purpose for which it is represented or sold.
 
@@ -348,7 +359,7 @@ the supplement shall contain, per gram of product, sufficient viable cells of th
 - **(4)** No fertilizer-pesticide shall contain a pesticide
 	- **(a)** of a brand other than an approved brand as set out in the Compendium of Fertilizer-Use Pesticides; or
 	- **(b)** that does not meet the requirements of the Compendium of Fertilizer-Use Pesticides in respect of the approved use and the application rate for that pesticide.
-> SOR/79-365, s. 10; SOR/91-441, s. 2; SOR/93-232, s. 2; SOR/95-548, s. 4; SOR/2003-6, s. 75.
+> SOR/79-365, s. 10; SOR/91-441, s. 2; SOR/93-232, s. 2; SOR/95-548, s. 4; SOR/2003-6, s. 75; SOR/2006-147, s. 8.
 
 
 
@@ -423,16 +434,22 @@ where such ingredients are intentionally incorporated in that fertilizer or repr
 	- **(e)** the guaranteed analysis prescribed in section 15;
 	- **(f)** in the case of a fertilizer-pesticide, a product represented to contain lesser plant nutrients other than calcium, magnesium or sulphur, a specialty fertilizer or a product represented for foliar feeding, the directions for use;
 	- **(g)** where the fertilizer is a fertilizer-pesticide, all statements required by the Compendium of Fertilizer-Use Pesticides;
-	- **(h)** the weight of the fertilizer; and
+	- **(h)** the weight of the fertilizer;
 	- **(i)** where the fertilizer is other than a specialty fertilizer and has intentionally incorporated in it or is represented to contain boron, copper, manganese, molybdenum or zinc or, in the opinion of the President of the Agency, has a natural high content of one or more of these lesser plant nutrients, the following cautionary statement:
 
 
 
-“CAUTION: This fertilizer contains (*specify name of lesser plant nutrient*) and should be used only as recommended. It may prove harmful when misused.”
+“CAUTION: This fertilizer contains (*specify name of lesser plant nutrient*) and should be used only as recommended. It may prove harmful when misused.”;
 
 
 
 
+	- **(j)** in the case of a fertilizer that is or contains any prohibited material, as defined in subsection 162(1) of the [Health of Animals Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/201-300/C.R.C.,%20c.%20296.md), other than a rendered fat, conspicuous statements written legibly and indelibly in both official languages that indicate that
+		- **(i)** feeding the product to cattle, sheep, deer or other ruminants is illegal and subject to fines or other punishment under the [Health of Animals Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2021.md),
+		- **(ii)** the product is not to be used on pasture land or other grazing areas for ruminants,
+		- **(iii)** the product is not to be ingested, and
+		- **(iv)** a person should wash his or her hands after the person uses the product; and
+	- **(k)** the lot number of the fertilizer, unless the fertilizer is a customer-formula fertilizer.
 
 - **(2)** Where a fertilizer is sold in bulk, the information required by this section shall be shown on the shipping bill or on a statement accompanying the shipment.
 
@@ -459,7 +476,7 @@ where such ingredients are intentionally incorporated in that fertilizer or repr
 	- **(d)** the weight of the lot or shipment.
 
 - **(6)** Where a package of mixed fertilizer is sold and does not contain a label showing the name and grade of each compound or ingredient in the fertilizer, the vendor shall, at the request of the purchaser, provide such information in writing, if requested, at the time of sale.
-> SOR/79-365, s. 13; SOR/85-558, s. 8; SOR/91-441, s. 3; SOR/92-585, s. 2; SOR/2000-184, s. 57; SOR/2004-80, s. 13.
+> SOR/79-365, s. 13; SOR/85-558, s. 8; SOR/91-441, s. 3; SOR/92-585, s. 2; SOR/2000-184, s. 57; SOR/2004-80, s. 13; SOR/2006-147, s. 9.
 
 
 
@@ -480,7 +497,12 @@ where such ingredients are intentionally incorporated in that fertilizer or repr
 		- **(i)** the minimum amount expressed in per cent of the active ingredient in the supplement,
 		- **(ii)** the species name or genus of the active microorganism; and
 		- **(iii)** the minimum number of active viable cells per gram of product of the active genus or species of microorganism in the product;
-	- **(g)** in the case of a supplement in which the active ingredient may deteriorate, the date beyond which the supplement is not intended for use; and
+	- **(g)** in the case of a supplement in which the active ingredient may deteriorate, the date beyond which the supplement is not intended for use;
+	- **(g.1)** in the case of a supplement that is or contains prohibited material, as defined in subsection 162(1) of the [Health of Animals Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/201-300/C.R.C.,%20c.%20296.md), conspicuous statements written legibly and indelibly in both official languages that indicate that
+		- **(i)** feeding the product to cattle, sheep, deer or other ruminants is illegal and subject to fines or other punishment under the [Health of Animals Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2021.md),
+		- **(ii)** the product is not to be used on pasture land or other grazing areas for ruminants,
+		- **(iii)** the product is not to be ingested, and
+		- **(iv)** a person should wash his or her hands after the person uses the product; and
 	- **(h)** the registration number of the supplement if the supplement is required to be registered.
 
 - **(2)** Paragraphs (1)(d) and (f) do not apply to a seed package containing a pre-inoculated or coated pre-inoculated seed if each package of pre-inoculated or coated pre-inoculated seed has a label on which is stated
@@ -498,7 +520,7 @@ where such ingredients are intentionally incorporated in that fertilizer or repr
 	- **(b)** the name and volume of the supplement.
 
 - **(4)** Notwithstanding subsections (1) to (3), where a supplement is sold in bulk, the information required by those subsections to be shown on a label shall be shown on the shipping bill or on a statement accompanying the shipment.
-> SOR/79-365, s. 14; SOR/85-558, s. 9; SOR/95-548, s. 4.
+> SOR/79-365, s. 14; SOR/85-558, s. 9; SOR/95-548, s. 4; SOR/2006-147, s. 10.
 
 
 
