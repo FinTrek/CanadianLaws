@@ -42,7 +42,7 @@ Enabling authorities:
 
 ***animal embryo transfer centre***[Repealed, SOR/97-85, s. 1]
 
-***animal food*** means food containing an animal product or animal by-product for chickens, turkeys, ducks, geese, ratites, game birds, ruminants, swine or horses but does not include such things as fish meal or vitamin or mineral supplements which do not contain animal products or by-products; (*aliments pour animaux*)
+***animal food*** means food containing an animal product or animal by-product for chickens, turkeys, ducks, geese, ratites, game birds, ruminants, swine or horses; (*aliments pour animaux*)
 
 ***animal glands and organs*** includes ox gall or bile, rennet and similar substances derived from domestic animals; (*glandes et organes d’animaux*)
 
@@ -121,6 +121,10 @@ Enabling authorities:
 
 ***expiration date*** means a date designating the end of the period during which a veterinary biologic, when properly stored and handled, may be expected to be effective; (*date de péremption*)
 
+***fertilizer*** has the same meaning as in section 2 of the [Fertilizers Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-10.md); (*engrais*)
+
+***fertilizer supplement*** has the same meaning as the word ***supplement*** in section 2 of the [Fertilizers Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-10.md); (*supplément d’engrais*)
+
 ***flock of origin*** or ***herd of origin*** means the flock or herd of which an animal was a member, where the animal was a member of that flock or herd for not less than 60 days immediately preceding its importation into Canada and in any other case means the flock or herd in which it was born; (*troupeau de provenance*)
 
 ***fowl plague*** means highly pathogenic avian influenza; (*peste aviaire*)
@@ -152,6 +156,8 @@ Enabling authorities:
 ***inspector***[Repealed, SOR/97-85, s. 1]
 
 ***label*** includes any legend, word or mark attached to, included in, belonging to or accompanying any veterinary biologic or package; (*étiquette*)
+
+***level 2 containment laboratory*** means a laboratory that meets or exceeds the criteria for the containment of pathogens at containment level 2 according to the Laboratory Biosafety Guidelines published by the Public Health Agency of Canada on its Internet site, as amended from time to time; (*laboratoire de niveau de confinement 2*)
 
 ***licensed establishment*** means a place consisting of one or more rooms or buildings for which an establishment licence has been issued by the Minister; (*établissement agréé*)
 
@@ -237,7 +243,7 @@ Enabling authorities:
 ***Veterinary Inspection, Operations***[Repealed, SOR/97-85, s. 1]
 
 ***veterinary inspector***[Repealed, SOR/97-85, s. 1]
-> SOR/78-69, s. 1; SOR/78-205, s. 1; SOR/78-597, s. 1; SOR/79-295, s. 1; SOR/79-839, s. 1; SOR/80-516, s. 1; SOR/82-590, s. 1; SOR/82-777, s. 1; SOR/84-139, s. 1(F); SOR/84-828, s. 1; SOR/85-545, s. 1; SOR/86-543, s. 1; SOR/91-525, s. 3; SOR/92-585, s. 2; SOR/93-159, s. 1; SOR/94-491, s. 1; SOR/95-54, ss. 1, 6(F); SOR/95-473, s. 1; SOR/95-475, s. 4; SOR/97-85, s. 1; SOR/97-292, s. 27; SOR/97-478, s. 1; SOR/98-409, s. 1; SOR/2001-210, s. 1; SOR/2002-438, s. 6; SOR/2002-444, s. 1; SOR/2004-80, s. 14; SOR/2005-181, s. 1; SOR/2007-24, s. 1.
+> SOR/78-69, s. 1; SOR/78-205, s. 1; SOR/78-597, s. 1; SOR/79-295, s. 1; SOR/79-839, s. 1; SOR/80-516, s. 1; SOR/82-590, s. 1; SOR/82-777, s. 1; SOR/84-139, s. 1(F); SOR/84-828, s. 1; SOR/85-545, s. 1; SOR/86-543, s. 1; SOR/91-525, s. 3; SOR/92-585, s. 2; SOR/93-159, s. 1; SOR/94-491, s. 1; SOR/95-54, ss. 1, 6(F); SOR/95-473, s. 1; SOR/95-475, s. 4; SOR/97-85, s. 1; SOR/97-292, s. 27; SOR/97-478, s. 1; SOR/98-409, s. 1; SOR/2001-210, s. 1; SOR/2002-438, s. 6; SOR/2002-444, s. 1; SOR/2004-80, s. 14; SOR/2005-181, s. 1; SOR/2006-147, s. 11; SOR/2007-24, s. 1.
 
 
 
@@ -333,8 +339,91 @@ the inspector may order the person who owns or has possession, care or control o
 
 
 
+**6.21** 
+
+- **(1)** Every person who slaughters, cuts up or debones cattle for human consumption as food shall ensure that, immediately after removal of the specified risk material, the specified risk material is stained with a conspicuous and indelible dye and collected in a dedicated container that is marked with a statement in both official languages indicating that the contents are specified risk material.
+
+- **(2)** Subsection (1) does not apply in the case of
+	- **(a)** cattle that are slaughtered, cut up or deboned on a farm or ranch, as defined in section 172, if the specified risk material from the carcasses of those cattle is not removed from the farm or ranch;
+	- **(b)** cattle that are slaughtered, cut up or deboned at an abattoir if no parts of the carcass of any animal, other than those that are for human consumption as food, are removed from the premises of the abattoir; or
+	- **(c)** samples of specified risk material, or carcasses — or parts of carcasses — of cattle from which the specified risk material has not been removed, that are submitted to a level 2 containment laboratory.
+> SOR/2006-147, s. 12.
+
+
+
+
+**6.22** 
+
+- **(1)** Every person who removes the specified risk material from the carcasses of cattle that died or were condemned before they otherwise would have been slaughtered for human consumption as food shall ensure that the specified risk material is stained with a conspicuous and indelible dye and collected in a dedicated container that is marked with a statement in both official languages indicating that the contents are specified risk material.
+
+- **(2)** If the specified risk material has not been removed from the carcasses of cattle that died or were condemned before they otherwise would have been slaughtered for human consumption as food, the person who has the possession, care or control of the carcasses or any parts of them shall ensure that either the carcasses or the parts of them containing the specified risk material are stained with a dye that is conspicuous, indelible and safe for consumption by animals.
+
+- **(3)** Subsections (1) and (2) do not apply in respect of
+	- **(a)** the carcasses of cattle if the specified risk material from each of the carcasses and each of the carcasses that contains specified risk material are not removed from the premises on which the cattle were determined to be dead except for their submission to a level 2 containment laboratory; or
+	- **(b)** samples of specified risk material, or carcasses — or parts of carcasses — of cattle from which the specified risk material has not been removed, that are submitted to a level 2 containment laboratory.
+> SOR/2006-147, s. 12.
+
+
+
+
+**6.23** 
+
+- **(1)** Subject to subsection (3), this section applies to every person
+	- **(a)** who is required by these Regulations to remove or stain specified risk material;
+	- **(b)** who collects the carcasses of cattle that died or were condemned before they otherwise would have been slaughtered for human consumption as food if the specified risk material has not been removed from the carcasses; or
+	- **(c)** who receives specified risk material from another person or who receives from another person the carcasses of cattle that died or were condemned before they otherwise would have been slaughtered for human consumption as food if the specified risk material has not been removed from the carcasses.
+
+- **(2)** The person shall keep, for a period of 10 years, a record for each day on which the specified risk material is removed, stained or received or the carcasses are collected or received that includes
+	- **(a)** the person’s name and address and the date of the removal, staining, collection or reception;
+	- **(b)** the combined weight of the specified risk material and the carcasses or parts of carcasses collected or received, as well as the number of those carcasses;
+	- **(c)** the name of the dye used to identify the specified risk material or the carcasses;
+	- **(d)** the numbers of the approved tags, as defined in section 172, that are on the carcasses or, in the case of carcasses not bearing approved tags, the information referred to in paragraph 187(2)(a) in respect of the carcasses;
+	- **(e)** if the person treated, confined or destroyed the specified risk material or the carcasses, the date on which and the manner in which the specified risk material or the carcasses were treated, confined or destroyed; and
+	- **(f)** if the person did not confine or destroy the specified risk material or the carcasses,
+		- **(i)** the name and address of the person, if any, who received the specified risk material or carcasses from him or her,
+		- **(ii)** the name and address of the person, if any, who transferred the specified risk material or the carcasses to another location and the manner in which the specified risk material or the carcasses were transferred, and
+		- **(iii)** the name and address, if known to the person, of the person, if any, who confined or destroyed the specified risk material or the carcasses.
+
+- **(3)** This section does not apply in respect of samples of specified risk material, or carcasses — or parts of carcasses — of cattle from which the specified risk material has not been removed, that are submitted to a level 2 containment laboratory.
+> SOR/2006-147, s. 12.
+
+
+
+
 **6.3** No person shall use or export for human consumption as food specified risk material in any form, whether or not incorporated into another thing, where the specified risk material was removed from cattle slaughtered in Canada.
 > SOR/2003-264, s. 1.
+
+
+
+
+**6.4** 
+
+- **(1)** Except in accordance with a permit issued by the Minister under section 160, no person shall receive, remove from any premises, use, convey (other than from one area to another on the same premises), treat, store, export, sell, distribute, confine or destroy specified risk material in any form, whether or not incorporated into another thing, if the specified risk material was removed from cattle slaughtered in Canada or was removed from, or is contained in, the carcasses of cattle that died or were condemned before they otherwise would have been slaughtered for human consumption as food.
+
+- **(2)** Subsection (1) does not apply to require a permit for staining under section 6.21 or 6.22.
+
+- **(3)** Subsection (1) does not apply in respect of specified risk material that was removed from cattle slaughtered for human consumption as food or that was removed from, or is contained in, the carcasses of cattle that died or were condemned before they otherwise would have been slaughtered for human consumption as food if the specified risk material is not removed from the premises on which the cattle were slaughtered or were determined to be dead.
+
+- **(4)** Subsection (1) does not apply in respect of the use, as a fertilizer or as a fertilizer supplement, of material that is derived from specified risk material in any form that was removed from cattle slaughtered for human consumption as food or from cattle that died or were condemned before they otherwise would have been slaughtered for human consumption as food if the fertilizer or fertilizer supplement is not removed from the premises on which the cattle were slaughtered, died or were condemned.
+
+- **(5)** Subsection (1) does not apply in respect of the submission, to a level 2 containment laboratory, of samples of specified risk material, or carcasses — or parts of carcasses — of cattle from which the specified risk material has not been removed or in respect of activities related to the use of specified risk material in a level 2 containment laboratory.
+
+- **(6)** The Minister shall not issue a permit for the purpose of subsection (1) if the specified risk material is to be received, removed from any premises, used, conveyed, treated, stored, exported, sold or distributed in any form, whether or not incorporated into another thing, for human consumption as food.
+
+- **(7)** The Minister shall not issue a permit for the destruction of specified risk material unless the destruction is to be by incineration, or another method, that will ensure that the specified risk material and anything in which it is incorporated will not be used as food for humans and will not, or will not be likely to, result in the spread within Canada of Bovine Spongiform Encephalopathy.
+> SOR/2006-147, s. 13.
+
+
+
+
+**6.5** Except in accordance with a permit issued under section 160, no person shall feed to any animal material in any form — whether or not incorporated into another thing — that is derived from specified risk material.
+> SOR/2006-147, s. 13.
+
+
+
+
+**6.6** Sections 6.4 and 6.5 do not apply in respect of material produced as a result of the destruction of specified risk material in accordance with a permit issued under section 160 for the purpose of section 6.4 if the material would not, or would not be likely to, result in the spread within Canada of Bovine Spongiform Encephalopathy.
+> SOR/2006-147, s. 13.
 
 
 
@@ -678,12 +767,14 @@ the inspector may order the person who owns or has possession, care or control o
 
 
 
-### Bone Meal, Animal Manure, Tankage, Feather Meal, Garbage and Ship’s Refuse
+### Meat and Bone Meal, Bone Meal, Blood Meal, Tankage, Feather Meal, Fish Meal, Rendering Plant Products, Animal Manure, Garbage and Ship’s Refuse
+> [SOR/2006-147, s. 14]
+
 
 
 **46** 
 
-- **(1)** No person shall import meat and bone meal, bone meal, blood meal, tankage (meat meal), feather meal, any other product of a rendering plant or manure into Canada unless
+- **(1)** No person shall import meat and bone meal, bone meal, blood meal, tankage (meat meal), feather meal, fish meal or any other product of a rendering plant or manure into Canada unless
 	- **(a)** the person meets the conditions set out in sections 166 to 171;
 	- **(b)** the product originated
 		- **(i)** in the United States as determined by Revenue Canada, Customs, or
@@ -693,7 +784,7 @@ the inspector may order the person who owns or has possession, care or control o
 	- **(c)** an inspector is satisfied that it is processed in a manner that would prevent the introduction of any reportable disease or other serious epizootic disease to which the species that produced the product is susceptible and that can be transmitted by the product in Canada.
 
 - **(2)** Subsection (1) does not apply to manure found on a vehicle that is entering Canada from the United States and that has been used to transport animals, other than swine, where the manure was produced by those animals.
-> SOR/78-69, s. 25; SOR/80-428, s. 5; SOR/92-708, s. 2; SOR/97-85, s. 36; SOR/97-362, s. 2.
+> SOR/78-69, s. 25; SOR/80-428, s. 5; SOR/92-708, s. 2; SOR/97-85, s. 36; SOR/97-362, s. 2; SOR/2006-147, s. 15.
 
 
 
@@ -962,7 +1053,9 @@ the inspector may order the person who owns or has possession, care or control o
 
 
 **PART VIII** 
-## Exportation of Animals and Animal Products
+## Exportation of Animals, Animal Products and Products of Rendering Plants
+> [SOR/2006-147, s. 16]
+
 
 
 
@@ -996,7 +1089,22 @@ the inspector may order the person who owns or has possession, care or control o
 
 
 
-**70** [Repealed, SOR/98-409, s. 9]
+**70** 
+
+- **(1)** Subject to this Part, no person shall export out of Canada a product of a rendering plant, or a fertilizer, fertilizer supplement or animal food that contains a product of a rendering plant, unless
+	- **(a)** the person has obtained a certificate of an inspector, of a veterinary inspector or of a person authorized by an inspector or a veterinary inspector, issued before shipment, that clearly identifies the product of a rendering plant, fertilizer, fertilizer supplement or animal food and shows
+		- **(i)** that an inspector, a veterinary inspector or a person authorized by an inspector or a veterinary inspector has inspected the product of a rendering plant, fertilizer, fertilizer supplement or animal food, as well as the rendering plant or the plant or mill where the product, fertilizer, fertilizer supplement or animal food was prepared,
+		- **(ii)** the date and place of the inspection, and
+		- **(iii)** if tests have been performed, the nature of each test and that the product of a rendering plant, fertilizer, fertilizer supplement or animal food proved negative to the tests or otherwise met the requirements of the importing country; and
+	- **(b)** the importation requirements of the country to which the product of a rendering plant, fertilizer, fertilizer supplement or animal food is exported have been complied with.
+
+- **(2)** No person shall export a product of a rendering plant, or a fertilizer, fertilizer supplement or animal food that contains a product of a rendering plant, unless the certificate referred to in subsection (1) bears the mark of the official export stamp referred to in subsection (3).
+
+- **(3)** The official export stamp required by this section shall contain the words “Government of Canada — CANADIAN FOOD INSPECTION AGENCY — Gouvernement du Canada — AGENCE CANADIENNE D’INSPECTION DES ALIMENTS” and it shall be applied on a certificate only by an inspector, a veterinary inspector or a person authorized by an inspector or a veterinary inspector.
+
+- **(4)** No person except an inspector, a veterinary inspector or a person authorized by an inspector or a veterinary inspector shall have in his or her possession an official export stamp or any facsimile of one.
+> SOR/2006-147, s. 17.
+
 
 
 
@@ -1441,9 +1549,9 @@ the inspector may order the person who owns or has possession, care or control o
 
 **91.3** Every person required to keep a record under these Regulations shall, unless it is otherwise stated,
 - **(a)** keep the record for a period of two years from the date the requirement arose;
-- **(b)** on request, at all reasonable times during the period referred to in paragraph (a), provide an inspector with the record for the purpose of examining the record, taking extracts therefrom or making copies thereof; and
+- **(b)** on request by an inspector, during the period for which the record is to be retained under these Regulations, provide the inspector with the record for the purpose of examining it, taking extracts from it or making copies of it; and
 - **(c)** on receipt of a written request by an inspector, provide the inspector, in a form approved by the Minister, with the information contained in the record.
-> SOR/82-590, s. 4.
+> SOR/82-590, s. 4; SOR/2006-147, s. 18.
 
 
 
@@ -2610,7 +2718,7 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 
 - **(1)** Any application for a permit or licence required under these Regulations shall be in a form approved by the Minister.
 
-- **(1.1)** The Minister may, subject to paragraph 37(1)(b) of the [Canadian Environmental Assessment Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2037.md), issue a permit or licence required under these Regulations where the Minister is satisfied that, to the best of the Minister’s knowledge and belief, the activity for which the permit or licence is issued would not, or would not be likely to, result in the introduction into Canada, or spread within Canada, of a vector, disease or toxic substance.
+- **(1.1)** The Minister may, subject to paragraph 37(1)(b) of the [Canadian Environmental Assessment Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2037.md), issue a permit or licence required under these Regulations if the Minister is satisfied that, to the best of the Minister’s knowledge and belief, the activity for which the permit or licence is issued would not, or would not be likely to, result in the introduction into Canada, the introduction into another country from Canada or the spread within Canada, of a vector, disease or toxic substance.
 
 - **(2)** Any permit or licence required under these Regulations shall
 	- **(a)** be in a form approved by the Minister; and
@@ -2619,8 +2727,8 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 - **(3)** The Minister may cancel or suspend a permit or licence issued under these Regulations if he has reason to believe that,
 	- **(a)** any condition under which the permit or licence was issued or any condition contained in the permit or licence has not been complied with;
 	- **(b)** any provision of the Act or these Regulations has not been complied with; or
-	- **(c)** failure to do so could result in the introduction into Canada, or spread within Canada, of a vector, disease or toxic substance.
-> SOR/79-839, s. 34; SOR/92-23, s. 3; SOR/92-650, s. 4; SOR/93-159, s. 17; SOR/95-475, s. 4(F); SOR/2004-80, s. 17.
+	- **(c)** failure to do so could result in the introduction into Canada, the introduction into another country from Canada or the spread within Canada, of a vector, disease or toxic substance.
+> SOR/79-839, s. 34; SOR/92-23, s. 3; SOR/92-650, s. 4; SOR/93-159, s. 17; SOR/95-475, s. 4(F); SOR/2004-80, s. 17; SOR/2006-147, s. 19.
 
 
 
@@ -2651,7 +2759,9 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 
 
 **PART XIV** 
-## Food for Ruminants, Livestock and Poultry
+## Food for Ruminants, Livestock and Poultry, Rendering Plants, Fertilizers and Fertilizer Supplements
+> [SOR/2006-147, s. 20]
+
 
 
 
@@ -2660,10 +2770,15 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 
 **162** 
 
-- **(1)** In this Part, “prohibited material” means anything that is, or that contains any, protein that originated from a mammal, other than a porcine or an equine. It does not include milk, blood, gelatin, rendered animal fat or their products.
+- **(1)** In this Part, ***prohibited material*** means anything that is, or that contains any, protein that originated from a mammal, other than
+	- **(a)** a porcine or equine;
+	- **(b)** milk or products of milk;
+	- **(c)** gelatin derived exclusively from hides or skins or products of gelatin derived exclusively from hides or skins;
+	- **(d)** blood or products of blood; or
+	- **(e)** rendered fats, derived from ruminants, that contain no more than 0.15% insoluble impurities or their products.
 
 - **(2)** Prohibited material that has been treated in a manner approved by the Minister to inactivate the agents that cause transmissible spongiform encephalopathies is no longer prohibited material.
-> SOR/97-362, s. 4.
+> SOR/97-362, s. 4; SOR/2006-147, s. 21.
 
 
 
@@ -2696,14 +2811,20 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 
 - **(1)** No person shall operate a rendering plant unless the person does so under and in accordance with a permit issued pursuant to section 160.
 
+- **(1.1)** No person who operates a rendering plant shall manufacture a prohibited material on the same premises as material not prohibited from being fed to ruminants without having dedicated manufacturing lines, equipment and conveyances to prevent the mixing or contamination of material not prohibited from being fed to ruminants with or by prohibited material.
+
 - **(2)** Every person who operates a rendering plant shall keep a record of
 	- **(a)** the date of production of all products of the rendering plant;
 	- **(b)** whether or not any product of the rendering plant is, or contains any, prohibited material;
 	- **(c)** the name, and quantity of, and any other information that is sufficient to identify, the products of the rendering plant; and
 	- **(d)** the name and address of any person to whom any product of the rendering plant is distributed or sold and the information referred to in paragraph (c) with respect to that product.
 
-- **(3)** No person who operates a rendering plant shall distribute or sell any product of a rendering plant that contains prohibited material unless the documentation required by these Regulations relating to the product and any label on any packaging or container containing the product is marked conspicuously, legibly and indelibly with a statement approved by the Minister that indicates that the product shall not be fed to ruminants.
-> SOR/97-362, s. 4.
+- **(3)** The records that are required by subsection (2) to be kept by a person who operates a rendering plant shall be kept by that person for 10 years from the date the requirement arises.
+
+- **(4)** No person who operates a rendering plant shall distribute or sell any product of the rendering plant that contains prohibited material unless the documentation required by these Regulations relating to the product and any label on any packaging or container containing the product is marked conspicuously, legibly and indelibly with the following statement:“Feeding this product to cattle, sheep, deer or other ruminants is illegal and is subject to fines or other punishment under the [Health of Animals Act](/en/Acts/Statutes%20of%20Canada/1990/c.%2021.md)./*Il est interdit d’en nourrir les boeufs, moutons, cerfs et autres ruminants et des amendes ou autres peines sont prévues à cet égard par la Loi sur la santé des animaux.*”
+
+
+> SOR/97-362, s. 4; SOR/2006-147, s. 22.
 
 
 
@@ -2716,13 +2837,13 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 
 - **(1)** No person shall import any product of a rendering plant unless the person does so under and in accordance with a permit issued pursuant to section 160.
 
-- **(2)** Every person who imports or has the possession, care or control of any product of a rendering plant shall keep a record of
+- **(2)** Every person who imports or has the possession, care or control of any product of a rendering plant shall keep for 10 years a record of
 	- **(a)** the name and address of the rendering plant and the date of production of the product;
 	- **(b)** the name and address of the exporter;
-	- **(c)** the name and quantity of, and any other information that is sufficient to identify, the product;
+	- **(c)** the name, lot number and quantity of the product and any other information that is sufficient to identify the product;
 	- **(d)** the name and address of any person to whom any product is distributed or sold and the information referred to in paragraph (c) with respect to that product; and
 	- **(e)** whether or not the product is, or contains any, prohibited material.
-> SOR/97-362, s. 4.
+> SOR/97-362, s. 4; SOR/2006-147, s. 23.
 
 
 
@@ -2733,6 +2854,20 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 
 **167** No person who imports or has the possession, care or control of a product of a rendering plant shall sell or distribute the product unless the documentation required by these Regulations relating to the product and any label on any packaging or container containing the product is marked conspicuously, legibly and indelibly with the statement referred to in subsection 165(3).
 > SOR/97-362, s. 4.
+
+
+
+
+
+### Recall Procedures
+
+
+**167.1** 
+
+- **(1)** Every person who operates a rendering plant shall establish and maintain written procedures to facilitate an effective recall of the products of the plant.
+
+- **(2)** Every person who imports any product of a rendering plant shall establish and maintain written procedures to facilitate an effective recall of the product.
+> SOR/2006-147, s. 24.
 
 
 
@@ -2759,12 +2894,29 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 
 - **(2)** In a case referred to in subsection (1), the person shall
 	- **(a)** ensure that the procedures are followed from the time the product or animal food is received until it leaves their possession, care or control; and
-	- **(b)** keep records to establish that the procedures were followed.
+	- **(b)** keep for 10 years a written record of the rendering plant products, the animal food for ruminants and the prohibited material.
 
-- **(3)** If a person fails to follow the procedures required by subsection (1),
-	- **(a)** the person shall change the records to show that all of the product or animal food is prohibited material and any label on any packaging or container containing the product or animal food shall be marked conspicuously, legibly and indelibly with a statement approved by the Minister that indicates that the product or animal food shall not be fed to ruminants; and
-	- **(b)** all of the product or animal food shall be considered to be prohibited material for the purposes of section 164.
-> SOR/97-362, s. 4.
+- **(3)** If a person fails to comply with subsection (1),
+	- **(a)** the person shall change the records to show that all of the product or animal food is prohibited material and any label on any packaging or container containing the product or animal food shall be marked conspicuously, legibly and indelibly with a statement approved by the Minister that indicates that the product or animal food shall not be fed to ruminants;
+	- **(b)** all of the product or animal food shall be considered to be prohibited material for the purposes of section 164; and
+	- **(c)** the person shall recall any product or animal food that may have been destined for feeding to ruminants if the product or animal food is found to contain prohibited material or if the Minister has reasonable grounds to believe that the product or animal food contains prohibited material.
+> SOR/97-362, s. 4; SOR/2006-147, s. 25.
+
+
+
+
+
+### Recall Procedures
+
+
+**170.1** Every person who imports, manufactures, packages, labels, stores, distributes, sells or advertises for sale any animal food for ruminants, equines, porcines, chickens, turkeys, ducks, geese, ratites or game birds shall establish and maintain written procedures to facilitate an effective recall of the animal food.
+> SOR/2006-147, s. 26.
+
+
+
+
+**170.2** Every person who manufactures, imports, sells or distributes a fertilizer or fertilizer supplement containing prohibited material, other than a rendered fat, shall establish and maintain written procedures to facilitate an effective recall of the fertilizer of fertilizer supplement.
+> SOR/2006-147, s. 26.
 
 
 
@@ -2775,21 +2927,49 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 
 **171** 
 
-- **(1)** Every person who manufactures animal food for ruminants, equines, porcines, chickens, turkeys, ducks, geese, ratites or game birds shall keep records that contain
+- **(1)** Every person who manufactures animal food for ruminants, equines, porcines, chickens, turkeys, ducks, geese, ratites or game birds shall keep, for 10 years, records that contain
 	- **(a)** the formula for the animal food, including the name and weight of each ingredient used for each lot of the animal food;
 	- **(b)** a mixing sheet that shows that each lot of the animal food has been produced in accordance with the formula referred to in paragraph (a);
 	- **(c)** information as to whether or not the animal food contains any prohibited material;
 	- **(d)** the date of preparation of the animal food;
-	- **(e)** any information used to identify each lot of animal food; and
+	- **(e)** the lot number and any other information used to identify each lot of animal food; and
 	- **(f)** the name and address of any person to whom any animal food is distributed or sold and a description of the food, including the name and quantity.
 
-- **(2)** Every person who imports, packages, stores, distributes, sells or advertises for sale animal food for ruminants, equines, porcines, chickens, turkeys, ducks, geese, ratites or game birds shall keep records that contain
-	- **(a)** the name or other information used to identify the animal food;
+- **(2)** Every person who imports, packages, stores, distributes, sells or advertises for sale animal food for ruminants, equines, porcines, chickens, turkeys, ducks, geese, ratites or game birds shall keep, for 10 years, records that contain
+	- **(a)** the name, the lot number and any other information used to identify the animal food;
 	- **(b)** the name and address of any person to whom the animal food is distributed or sold and a description of the animal food, including the name and quantity; and
 	- **(c)** information as to whether or not the animal food contains any prohibited material.
 
 - **(3)** Every person who owns or has the possession, care or custody of a ruminant shall keep copies of all invoices for animal food that contains prohibited material.
-> SOR/97-362, s. 4.
+> SOR/97-362, s. 4; SOR/2006-147, s. 27; SOR/2007-24, s. 7.
+
+
+
+
+**171.1** 
+
+- **(1)** Every person who manufactures a fertilizer or fertilizer supplement containing prohibited material, other than a rendered fat, shall keep for 10 years records that are sufficient
+	- **(a)** to demonstrate that the person
+		- **(i)** has not used specified risk material in any form, whether or not incorporated into another thing, as an ingredient of the fertilizer or fertilizer supplement, or
+		- **(ii)** has used specified risk material in any form, whether or not incorporated into another thing, as an ingredient of the fertilizer or fertilizer supplement only in accordance with a permit issued under section 160 for the purpose of section 6.4; and
+	- **(b)** to facilitate an effective recall of the fertilizer or fertilizer supplement.
+
+- **(2)** The records shall include
+	- **(a)** the name and address of any person who supplied the prohibited material to the person manufacturing the fertilizer or fertilizer supplement and a statement, signed by the supplier, that the prohibited material does not contain specified risk material or that it contains specified risk material in accordance with a permit issued under section 160 for the purpose of section 6.4;
+	- **(b)** the formula for the fertilizer or fertilizer supplement, including the name and weight of each ingredient used for each lot of the fertilizer or fertilizer supplement;
+	- **(c)** a mixing sheet that shows that each lot of the fertilizer or fertilizer supplement has been produced in accordance with the formula referred to in paragraph (b);
+	- **(d)** the date of preparation of the fertilizer or fertilizer supplement;
+	- **(e)** any information used to identify each lot of the fertilizer or fertilizer supplement; and
+	- **(f)** the name and address of any person to whom any of the fertilizer or fertilizer supplement is sold or distributed and a description of the fertilizer or fertilizer supplement, including the name and quantity.
+> SOR/2006-147, s. 28.
+
+
+
+
+**171.2** Every person who imports, sells or distributes a fertilizer or fertilizer supplement containing prohibited material, other than a rendered fat, shall keep for 10 years records that are sufficient to facilitate an effective recall of the fertilizer or fertilizer supplement, including
+- **(a)** the name, the lot number and other information used to identify the fertilizer or fertilizer supplement; and
+- **(b)** the name and address of any person to whom the fertilizer or fertilizer supplement is sold or distributed and a description of the fertilizer or fertilizer supplement, including the name and quantity.
+> SOR/2006-147, s. 28.
 
 
 
