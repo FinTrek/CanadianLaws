@@ -942,6 +942,21 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**Droit d’accès**
+
+**43.1** 
+
+- **(1)** Il est interdit au responsable d’un immeuble d’appartements ou d’habitation en copropriété ou d’un autre immeuble à logements multiples ou d’un ensemble résidentiel protégé d’empêcher le fonctionnaire électoral ou le personnel du directeur du scrutin d’avoir accès, entre 9 h et 21 h, à l’immeuble ou à l’ensemble en vue d’exercer les attributions qui lui sont conférées par la présente loi.
+
+**Exception**
+
+- **(2)** Le paragraphe (1) ne s’applique pas au responsable d’un immeuble à logements multiples si le fait de permettre les activités visées à ce paragraphe peut mettre en danger la santé physique ou affective des résidants de l’immeuble.
+> 2007, ch. 21, art. 3.
+
+
+
+
+
 **PARTIE 4** 
 ## Registre des électeurs
 
@@ -1007,9 +1022,33 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 		- **(i)** soit sont détenus au titre d’une loi provinciale mentionnée à l’annexe 2,
 		- **(ii)** soit proviennent de toute autre source mentionnée à cette annexe.
 
+**Conservation de certains renseignements**
+
+- **(1.1)** Le directeur général des élections peut conserver les renseignements recueillis au titre de l’alinéa (1)b) qui ne figurent pas au Registre des électeurs pour permettre la corrélation entre les renseignements qui seront recueillis subséquemment et ceux qui figurent au Registre des électeurs.
+
 **Modification de l’annexe 2**
 
 - **(2)** Le directeur général des élections peut modifier l’annexe 2 pour ajouter, modifier ou retrancher la mention d’une loi provinciale ou de toute autre source de renseignements. Aucune modification de ce genre n’entre en vigueur avant la publication d’un avis en ce sens dans la Gazette du Canada.
+> 2000, ch. 9, art. 46; 2007, ch. 21, art. 6.
+
+
+
+
+
+**Renseignements concernant la citoyenneté**
+
+**46.1** Dans la déclaration de revenu visée au paragraphe 150(1) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), le ministre du Revenu national peut demander aux personnes qui produisent la déclaration au titre de l’alinéa 150(1)d) de cette loi d’y indiquer si elles ont la citoyenneté canadienne en vue d’aider le directeur général des élections à mettre à jour le Registre des électeurs.
+> 2007, ch. 21, art. 7.
+
+
+
+
+
+**Renseignements concernant les personnes décédées**
+
+**46.2** Le ministre du Revenu national communique, à la demande du directeur général des élections et en vue de mettre à jour le Registre des électeurs, les nom, date de naissance et adresse de toute personne à laquelle l’alinéa 150(1)b) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) s’applique, si, dans sa dernière déclaration de revenu produite au titre de l’alinéa 150(1)d) de cette loi, cette personne avait autorisé le ministre du Revenu national à communiquer ces renseignements au directeur général des élections aux fins du Registre des électeurs.
+> 2007, ch. 21, art. 7.
+
 
 
 
@@ -1017,6 +1056,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Responsabilité du directeur du scrutin**
 
 **47** Pendant la période électorale, le directeur du scrutin de chaque circonscription met à jour le Registre des électeurs à partir des renseignements qu’il obtient en application de la présente loi, sauf ceux concernant l’électeur dont la demande présentée au titre du paragraphe 233(1.1) a été acceptée.
+
+
+
+
+**Autre responsabilité du directeur du scrutin**
+
+**47.1** Entre les périodes électorales, le directeur du scrutin de chaque circonscription exerce les attributions qui lui sont conférées par le directeur général des élections relativement à la mise à jour du Registre des électeurs.
+> 2007, ch. 21, art. 8.
+
 
 
 
@@ -1105,19 +1153,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **55** 
 
-- **(1)** Le directeur général des élections peut conclure avec tout organisme chargé, au titre d’une loi provinciale, d’établir une liste électorale un accord visant la communication des renseignements figurant au Registre des électeurs qui sont nécessaires à l’établissement d’une telle liste.
+- **(1)** Le directeur général des élections peut conclure avec tout organisme chargé, au titre d’une loi provinciale, d’établir une liste électorale un accord visant la communication des renseignements qui figurent au Registre des électeurs ou celle des renseignements que le directeur général des élections a l’intention d’inclure dans ce registre et qui sont visés aux paragraphes 44(2) ou (2.1), si ces renseignements sont nécessaires à l’établissement d’une telle liste.
 
-**Conditions**
+**Restrictions**
 
-- **(2)** Il peut assortir l’accord des conditions d’utilisation des renseignements qu’il estime propres à assurer la protection des renseignements personnels ainsi communiqués.
+- **(2)** Il assortit l’accord de conditions relatives à l’utilisation et à la protection des renseignements personnels communiqués.
 
-**Restrictions concernant l’utilisation des renseignements**
-
-- **(3)** L’organisme ne peut utiliser les renseignements communiqués aux termes de l’accord que pour l’établissement de listes électorales en vue d’une élection ou d’un référendum tenu en application d’une loi provinciale.
+- **(3)** [Abrogé, 2007, ch. 21, art. 9]
 
 **Contrepartie**
 
 - **(4)** L’accord peut prévoir toute contrepartie valable pour la communication des renseignements.
+> 2000, ch. 9, art. 55; 2007, ch. 21, art. 9.
+
 
 
 
@@ -1133,10 +1181,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **b)** de faire sciemment, oralement ou par écrit, une déclaration fausse ou trompeuse relativement à la qualité d’électeur, au nom, aux prénoms, au sexe ou aux adresses municipale ou postale d’une autre personne en vue de la faire radier du Registre des électeurs;
 - **c)** de demander que soit inscrit au Registre des électeurs le nom d’une personne sachant que celle-ci n’a pas qualité d’électeur;
 - **d)** de demander volontairement que soit inscrit au Registre des électeurs le nom d’une chose ou d’un animal;
-- **e)** d’utiliser sciemment un renseignement personnel figurant au Registre des électeurs à une autre fin que les fins suivantes :
-	- **(i)** la communication, conformément à l’article 110, des partis enregistrés, des députés et des candidats avec des électeurs,
-	- **(ii)** une élection ou un référendum fédéral,
-	- **(iii)** une élection ou un référendum tenu en application d’une loi provinciale dans les cas où un accord prévu à l’article 55 a été conclu avec la province et où le renseignement a été transmis conformément à cet accord.
+- **e)** d’utiliser sciemment un renseignement personnel tiré du Registre des électeurs sauf :
+	- **(i)** pour permettre, conformément à l’article 110, aux partis enregistrés, aux députés et aux candidats de communiquer avec des électeurs,
+	- **(ii)** pour les besoins d’une élection ou d’un référendum fédéral,
+	- **(iii)** pour la communication d’un renseignement transmis dans le cadre de l’accord prévu à l’article 55, conformément aux conditions prévues par celui-ci;
+- **f)** d’utiliser sciemment tout autre renseignement personnel transmis dans le cadre d’un accord prévu à l’article 55, sauf conformément aux conditions prévues dans l’accord.
+> 2000, ch. 9, art. 56; 2007, ch. 21, art. 10.
+
 
 
 
@@ -1606,17 +1657,34 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Droit d’accès**
+**Campagne — lieux d’habitation**
 
 **81** 
 
-- **(1)** Il est interdit au responsable d’un immeuble d’appartements ou d’habitation en copropriété ou d’un autre immeuble de résidences multiples d’empêcher le candidat ou son représentant, entre 9 h et 21 h :
-	- **a)** dans le cas d’un immeuble d’appartements ou d’habitation en copropriété, de frapper aux portes des logements;
-	- **b)** dans le cas d’un immeuble de résidences multiples, de faire campagne dans les aires communes.
+- **(1)** Il est interdit au responsable d’un immeuble d’appartements ou d’habitation en copropriété ou d’un autre immeuble à logements multiples ou d’un ensemble résidentiel protégé d’empêcher le candidat ou son représentant, entre 9 h et 21 h :
+	- **a)** dans le cas d’un immeuble d’appartements ou d’habitation en copropriété ou d’un ensemble résidentiel protégé, de frapper aux portes des logements;
+	- **b)** dans le cas d’un immeuble à logements multiples, de faire campagne dans les aires communes.
 
 **Exception**
 
-- **(2)** Le paragraphe (1) ne s’applique pas au responsable d’un immeuble de résidences multiples si le fait d’y permettre les activités de campagne visées à ce paragraphe peut mettre en danger la santé physique ou affective des résidents de cet immeuble.
+- **(2)** Le paragraphe (1) ne s’applique pas au responsable d’un immeuble à logements multiples si le fait de permettre les activités de campagne visées à ce paragraphe peut mettre en danger la santé physique ou affective des résidants de l’immeuble.
+> 2000, ch. 9, art. 81; 2007, ch. 21, art. 11.
+
+
+
+
+
+**Campagne — lieux ouverts au public**
+
+**81.1** 
+
+- **(1)** Il est interdit au responsable de tout bâtiment, terrain, voie publique ou autre lieu dont une partie est ouverte gratuitement au public, de façon continue, périodique ou occasionnelle — notamment tout lieu à usage commercial, culturel, historique, éducatif, religieux, officiel, ludique ou récréatif — d’empêcher le candidat ou son représentant de faire campagne dans cette partie des lieux, pendant les heures où elle est ainsi ouverte au public.
+
+**Exception**
+
+- **(2)** Le paragraphe (1) ne s’applique pas si les activités de campagne sont incompatibles avec la sécurité publique ou la fonction ou destination principale du lieu.
+> 2007, ch. 21, art. 12.
+
 
 
 
@@ -1944,25 +2012,28 @@ Cependant, la présente définition ne vise pas les contributions versées à l�
 
 **95** 
 
-- **(1)** Dans les meilleurs délais après la délivrance du bref, mais au plus tard le vingt-quatrième jour précédant le jour du scrutin, le directeur du scrutin envoie un avis de confirmation d’inscription à tout électeur dont le nom figure sur une liste électorale préliminaire, à l’exception de celui qui :
+- **(1)** Dans les meilleurs délais après la délivrance du bref, mais au plus tard le vingt-quatrième jour précédant le jour du scrutin, le directeur du scrutin envoie un avis de confirmation d’inscription à tout électeur dont le nom figure sur une liste électorale préliminaire, à l’exception de celui qui :
 	- **a)** est visé à l’alinéa 11e);
 	- **b)** a établi une déclaration de résidence habituelle au titre de l’article 194 ou 195;
 	- **c)** est visé à l’article 222.
 
 **Teneur de l’avis**
 
-- **(2)** L’avis de confirmation d’inscription, en la forme établie par le directeur général des élections, donne :
+- **(2)** L’avis de confirmation d’inscription, en la forme établie par le directeur général des élections, indique :
 	- **a)** l’adresse du bureau de scrutin où l’électeur doit voter, indiquant s’il a un accès de plain-pied;
 	- **b)** les heures de vote le jour du scrutin;
 	- **c)** un numéro de téléphone où appeler pour obtenir des renseignements;
-	- **d)** les dates, heures de vote et emplacements des bureaux de vote par anticipation.
+	- **d)** les dates, heures de vote et emplacements des bureaux de vote par anticipation;
+	- **e)** l’obligation pour l’électeur d’établir son identité et sa résidence avant d’être admis à voter.
 
 **Besoins particuliers**
 
-- **(3)** L’avis de confirmation d’inscription invite l’électeur à communiquer avec le directeur du scrutin dans les cas suivants :
+- **(3)** L’avis de confirmation d’inscription invite l’électeur à communiquer avec le directeur du scrutin dans les cas suivants :
 	- **a)** il a besoin des services d’un interprète linguistique ou gestuel;
 	- **b)** son état requiert un accès de plain-pied au bureau de scrutin et celui où il doit voter en est dépourvu;
 	- **c)** il est physiquement incapable de se rendre à un bureau de scrutin.
+> 2000, ch. 9, art. 95; 2007, ch. 21, art. 14.
+
 
 
 
@@ -2008,6 +2079,15 @@ Cependant, la présente définition ne vise pas les contributions versées à l�
 
 
 
+**Renseignements tirés du Registre des électeurs**
+
+**99.1** Le directeur général des élections peut, pour l’application de l’article 99, communiquer au directeur du scrutin et au directeur adjoint du scrutin des renseignements tirés du Registre des électeurs.
+> 2007, ch. 21, art. 15.
+
+
+
+
+
 **Travail en équipe**
 
 **100** 
@@ -2030,7 +2110,12 @@ Cependant, la présente définition ne vise pas les contributions versées à l�
 	- **b)** un électeur qui vit dans la même résidence que cet électeur remplit le formulaire, établit que cet électeur a le droit d’être inscrit sur la liste et fournit une preuve suffisante de l’identité de celui-ci;
 	- **c)** un électeur qui ne vit pas dans la même résidence que cet électeur remplit le formulaire en son nom, établit que cet électeur a le droit d’être inscrit sur la liste et fournit :
 		- **(i)** l’autorisation écrite qu’il a reçue de cet électeur lui permettant de remplir la demande en son nom,
-		- **(ii)** une preuve suffisante de l’identité de cet électeur et de sa propre identité.
+		- **(ii)** une preuve suffisante de l’identité de cet électeur et de sa propre identité;
+	- **d)** l’électeur, ou un autre électeur qui vit dans la même résidence que cet électeur, remplit le formulaire et prête le serment prescrit à sa résidence et en présence des agents réviseurs.
+
+**Adjonctions sur la foi du Registre des électeurs**
+
+- **(1.1)** Le directeur du scrutin ou le directeur adjoint du scrutin peuvent ajouter le nom d’un électeur à la liste électorale préliminaire s’il a été ajouté au Registre des électeurs après que la liste électorale préliminaire a été dressée.
 
 **Non-inscription au Registre des électeurs**
 
@@ -2057,6 +2142,8 @@ Cependant, la présente définition ne vise pas les contributions versées à l�
 **Changement d’adresse dans la circonscription**
 
 - **(6)** L’électeur qui change d’adresse dans sa circonscription peut, notamment par téléphone, s’il fournit à l’un des fonctionnaires électoraux visés au paragraphe 97(1) une preuve suffisante de son identité, faire apporter à la liste électorale préliminaire appropriée les corrections pertinentes. Peut faire de même l’électeur qui vit dans la même résidence que cet électeur, s’il fournit une preuve suffisante de l’identité de ce dernier.
+> 2000, ch. 9, art. 101; 2007, ch. 21, art. 16.
+
 
 
 
@@ -2346,7 +2433,7 @@ Cependant, la présente définition ne vise pas les contributions versées à l�
 - **(2)** Les bulletins de vote mentionnent, sous le nom du candidat, le nom, dans la forme précisée à l’alinéa 366(2)b), du parti politique qui le soutient si les conditions suivantes sont remplies :
 	- **a)** le candidat l’a mentionné dans son acte de candidature;
 	- **b)** l’acte prévu à l’alinéa 67(4)c) a été présenté;
-	- **c)** à la clôture des candidatures, le parti est enregistré.
+	- **c)** au plus tard dans les quarante-huit heures suivant la clôture des candidatures, le parti est enregistré.
 	- **d)** [Abrogé, 2004, ch. 24, art. 2]
 
 **Mention « indépendant »**
@@ -2358,7 +2445,7 @@ Cependant, la présente définition ne vise pas les contributions versées à l�
 **Mention de l’adresse ou de la profession**
 
 - **(5)** Dans les cas où au moins deux candidats ont le même nom et ont indiqué leur intention d’être désignés par la mention « indépendant » ou de n’avoir aucune désignation de parti dans le cadre du sous-alinéa 66(1)a)(v), les bulletins de vote mentionnent l’adresse ou la profession de ces candidats s’ils en font la demande par écrit au directeur du scrutin, au plus tard à 17 h le jour de clôture.
-> 2000, ch. 9, art. 117; 2001, ch. 21, art. 12; 2004, ch. 24, art. 2.
+> 2000, ch. 9, art. 117; 2001, ch. 21, art. 12; 2004, ch. 24, art. 2; 2007, ch. 21, art. 20.
 
 
 
@@ -2761,66 +2848,122 @@ Cependant, la présente définition ne vise pas les contributions versées à l�
 
 
 
-**Vérification d’inscription sur la liste**
+**Obligation de décliner nom et adresse**
 
 **143** 
 
-- **(1)** À son arrivée au bureau de scrutin, chaque électeur décline ses nom et adresse au scrutateur et au greffier du scrutin et, sur demande, au représentant d’un candidat.
+- **(1)** À son arrivée au bureau de scrutin, chaque électeur décline ses nom et adresse au scrutateur et au greffier du scrutin et, sur demande, au représentant d’un candidat ou au candidat lui-même.
 
-**Cas de l’électeur inscrit**
+**Vérification de l’identité et de la résidence**
 
-- **(2)** Le greffier du scrutin vérifie si le nom de l’électeur figure sur la liste électorale; le cas échéant, le nom est biffé de la liste et, sous réserve de l’article 144, l’électeur est immédiatement admis à voter.
+- **(2)** Le greffier du scrutin s’assure que le nom et l’adresse de l’électeur figurent sur la liste électorale ou que l’électeur est admis à voter au titre des articles 146, 147, 148 ou 149; sous réserve du paragraphe (3), l’électeur présente alors au scrutateur et au greffier du scrutin les documents ci-après pour établir son identité et sa résidence :
+	- **a)** soit une pièce d’identité délivrée par un gouvernement canadien, fédéral ou provincial, une administration locale ou l’un de leurs organismes et comportant sa photographie, son nom et son adresse;
+	- **b)** soit deux pièces d’identité autorisées par le directeur général des élections qui, toutes deux, établissent son nom et dont au moins une établit son adresse.
 
+**Précision**
 
+- **(2.1)** Il est entendu que, pour l’application de l’alinéa (2)b), le directeur général des élections peut autoriser à titre de pièce d’identité tout document, indépendamment de son auteur.
 
+**Personne inscrite à titre d'Indien**
 
-**Preuve d’identité**
-
-**144** 
-
-- **(1)** S’ils ont des doutes sur l’identité d’une personne ou sur son habilité à voter au bureau de scrutin, le scrutateur, le greffier du scrutin, les représentants des candidats ou les candidats eux-mêmes peuvent lui demander de fournir une preuve suffisante de son identité et de sa résidence.
+- **(2.2)** Pour l'application de l'alinéa (2)b), un document délivré par le gouvernement du Canada certifiant qu'une personne est inscrite à titre d'Indien sous le régime de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md) constitue une pièce d'identité autorisée.
 
 **Serment**
 
-- **(2)** La personne peut, au lieu de fournir une preuve suffisante de son identité, prêter le serment prescrit.
+- **(3)** Cependant, l’électeur peut également établir son identité et sa résidence en prêtant le serment prescrit, s’il est accompagné d’un électeur dont le nom figure sur la liste électorale de la même section de vote qui, à la fois :
+	- **a)** présente au scrutateur et au greffier du scrutin les pièces d’identité visées aux alinéas (2)a) ou b);
+	- **b)** répond de l’électeur, sous serment, sur le formulaire prescrit.
+
+**Électeur admis à voter**
+
+- **(4)** Si le scrutateur est convaincu que l’identité et la résidence de l’électeur ont été établies conformément aux paragraphes (2) ou (3), le nom de l’électeur est biffé de la liste et, sous réserve de l’article 144, il est immédiatement admis à voter.
+
+**Interdiction de répondre de plus d’un électeur**
+
+- **(5)** Il est interdit à un électeur de répondre de plus d’un électeur à une élection.
+
+**Interdiction d’agir à titre de répondant**
+
+- **(6)** L’électeur pour lequel un autre électeur s’est porté répondant ne peut lui-même agir à ce titre à la même élection.
+
+**Publication**
+
+- **(7)** Chaque année et dans les trois jours suivant la date de délivrance du bref, le directeur général des élections publie, selon les modalités qu’il estime indiquées, un avis indiquant les types de pièces autorisés pour l’application de l’alinéa (2)b). Le premier avis annuel est publié au plus tard six mois après l’entrée en vigueur du présent paragraphe.
+> 2000, ch. 9, art. 143; 2007, ch. 21, art. 21.
+
+
+
+
+
+**Serment — avis préalable**
+
+**143.1** Si une personne décide d’établir son identité et sa résidence en prêtant le serment prescrit, la personne devant laquelle doit être prêté le serment avise verbalement l’intéressé des conditions à remplir pour acquérir la qualité d’électeur et de la peine pouvant être infligée en vertu de la présente loi à quiconque vote ou tente de voter à une élection, sachant qu’il n’a pas la qualité d’électeur.
+> 2007, ch. 21, art. 21.
+
+
+
+
+
+**Preuve de la qualité d’électeur**
+
+**144** S’il a des doutes raisonnables sur la qualité d’électeur d’une personne qui a l’intention de voter, le scrutateur, le greffier du scrutin, le représentant du candidat ou le candidat lui-même peut lui demander de prêter le serment prescrit. La personne n’est admise à voter que si elle prête le serment.
+> 2000, ch. 9, art. 144; 2007, ch. 21, art. 21.
+
+
+
+
 
 **Interdiction**
 
-- **(3)** Une fois que l’électeur a reçu un bulletin de vote, il est interdit d’exiger qu’il fournisse une preuve d’identité ou prête serment.
+**144.1** Une fois que l’électeur a reçu un bulletin de vote, il est interdit d’exiger qu’il établisse son identité et sa résidence conformément aux paragraphes 143(2) ou (3).
+> 2007, ch. 21, art. 21.
 
 
 
 
-**Refus de l’électeur**
-
-**145** 
-
-- **(1)** Sous réserve du paragraphe (2), l’électeur qui refuse de fournir une preuve suffisante d’identité, de prêter un serment ou de répondre à une question relative à son habilité à voter dans ce bureau de scrutin ne peut recevoir de bulletin de vote ni être admis à voter ni être admis de nouveau dans le bureau de scrutin.
-
-**Refus de prêter un serment non approprié**
-
-- **(2)** L’électeur qui refuse de prêter un serment au motif qu’il n’est pas prévu par la présente loi peut en appeler au directeur du scrutin; si celui-ci, après consultation avec le scrutateur ou le greffier du scrutin du bureau de scrutin, décide que la présente loi ne prévoit pas en fait le serment, il ordonne que cet électeur soit de nouveau admis dans le bureau de scrutin et qu’il lui soit permis de voter, s’il est habile à voter.
+**145** [Abrogé, 2007, ch. 21, art. 21]
 
 
 
 
 **Nom et adresse semblables**
 
-**146** Si la liste électorale porte un nom et une adresse ressemblant au nom et à l’adresse d’une personne qui demande un bulletin de vote, au point de donner à croire que l’inscription sur la liste électorale la concerne, la personne, en prêtant le serment prescrit et en se conformant à la présente loi sous tous autres rapports, a le droit de recevoir un bulletin de vote et de voter.
+**146** Si la liste électorale porte un nom et une adresse ressemblant au nom et à l’adresse d’une personne qui demande un bulletin de vote, au point de donner à croire que l’inscription sur la liste électorale la concerne, la personne n’est admise à voter que si elle prête le serment prescrit.
+> 2000, ch. 9, art. 146; 2007, ch. 21, art. 22.
+
 
 
 
 
 **Électeur se présentant sous le nom d’une personne ayant déjà voté**
 
-**147** Si quelqu’un demande un bulletin de vote après qu’un autre a voté sous son nom, il est en droit d’exiger un bulletin de vote et de voter, après avoir prêté le serment prescrit et avoir convaincu le scrutateur de son identité et de son habilité à voter à ce bureau de scrutin.
+**147** Si une personne demande un bulletin de vote après qu’une autre a voté sous son nom, elle n’est admise à voter que si elle prête le serment prescrit.
+> 2000, ch. 9, art. 147; 2007, ch. 21, art. 22.
+
 
 
 
 
 **Nom biffé par mégarde**
 
-**148** Si, dans le cadre des paragraphes 176(2) ou (3), le nom d’un électeur est biffé par mégarde, celui-ci doit être admis à voter en prêtant le serment prévu au paragraphe 144(2), après que le scrutateur ou le greffier du scrutin a communiqué avec le directeur du scrutin afin d’établir si une semblable erreur a vraiment été commise.
+**148** Si l’électeur soutient que son nom a été biffé par mégarde dans le cadre des paragraphes 176(2) ou (3), l’électeur n’est admis à voter que si le directeur du scrutin constate qu’une semblable erreur a vraiment été commise ou que l’électeur prête le serment prévu à l’article 147.
+> 2000, ch. 9, art. 148; 2007, ch. 21, art. 22.
+
+
+
+
+
+**Défaut de s’identifier ou de prêter serment**
+
+**148.1** 
+
+- **(1)** L’électeur qui n’établit pas son identité ou sa résidence conformément aux paragraphes 143(2) ou (3) ou ne prête pas serment conformément à la présente loi ne peut recevoir de bulletin de vote ni être admis à voter.
+
+**Refus de prêter un serment non approprié**
+
+- **(2)** L’électeur qui refuse de prêter serment au motif qu’il n’est pas tenu de le faire en vertu de la présente loi peut en appeler au directeur du scrutin; si celui-ci, après consultation du scrutateur ou du greffier du scrutin du bureau de scrutin, décide que l’électeur n’est effectivement pas tenu de prêter serment, il ordonne qu’il soit permis à cet électeur de voter, s’il est habile à voter.
+> 2007, ch. 21, art. 22.
+
 
 
 
@@ -2829,8 +2972,10 @@ Cependant, la présente définition ne vise pas les contributions versées à l�
 
 **149** L’électeur dont le nom ne figure pas sur la liste électorale officielle du bureau de scrutin n’est admis à voter que dans l’un ou l’autre des cas suivants :
 - **a)** il remet au scrutateur un certificat de transfert obtenu en conformité avec les articles 158 ou 159 et, s’il s’agit d’un certificat délivré en vertu du paragraphe 158(2), les conditions prévues au paragraphe 158(3) sont remplies;
-- **b)** le scrutateur est convaincu, après vérification auprès du directeur du scrutin et sur présentation d’une preuve suffisante d’identité, qu’il est inscrit sur la liste électorale préliminaire ou qu’il a été accepté à la révision;
+- **b)** le scrutateur est convaincu, après vérification auprès du directeur du scrutin, qu’il est inscrit sur la liste électorale préliminaire ou qu’il a été inscrit comme électeur au moment de la révision;
 - **c)** il remet au scrutateur un certificat d’inscription obtenu en conformité avec le paragraphe 161(4).
+> 2000, ch. 9, art. 149; 2007, ch. 21, art. 23.
+
 
 
 
@@ -2982,6 +3127,12 @@ Cependant, la présente définition ne vise pas les contributions versées à l�
 
 - **(3)** Le certificat de transfert délivré au titre du paragraphe (2) n’autorise la personne à voter en conformité avec ce certificat que si, le jour du scrutin, elle exerce en fait les fonctions mentionnées dans le certificat au lieu qui y est mentionné.
 
+**Certificat de transfert à l’électeur**
+
+- **(4)** En cas de changement d’adresse du bureau de scrutin après l’expédition de l’avis de confirmation d’inscription, l’électeur qui se présente pour voter au bureau de scrutin mentionné dans l’avis a le droit de recevoir, sur demande, un certificat de transfert l’autorisant à y voter.
+> 2000, ch. 9, art. 158; 2007, ch. 21, art. 24.
+
+
 
 
 
@@ -2993,14 +3144,14 @@ Cependant, la présente définition ne vise pas les contributions versées à l�
 
 **Conditions de la demande**
 
-- **(2)** La demande doit être faite au directeur du scrutin ou au directeur adjoint du scrutin de la circonscription de l’électeur, avant 22 h le vendredi précédant le jour du scrutin, selon le formulaire prescrit, et remise en personne soit par l’électeur ou un ami, l’époux, le conjoint de fait ou un parent de l’électeur, soit par un parent de son époux ou de son conjoint de fait.
+- **(2)** La demande doit être faite au directeur du scrutin ou au directeur adjoint du scrutin de la circonscription de l’électeur, selon le formulaire prescrit, et remise en personne soit par l’électeur ou un ami, l’époux, le conjoint de fait ou un parent de l’électeur, soit par un parent de son époux ou de son conjoint de fait.
 
 **Délivrance**
 
 - **(3)** Le directeur du scrutin ou le directeur adjoint du scrutin délivre le certificat de transfert, selon le formulaire prescrit, et le remet à la personne qui a apporté la demande s’il est convaincu, à la fois :
 	- **a)** que le nom de l’électeur figure sur une liste électorale de la circonscription;
 	- **b)** que l’électeur réside dans une section de vote où le bureau de scrutin n’a pas d’accès de plain-pied.
-> 2000, ch. 9, art. 159, ch. 12, art. 40.
+> 2000, ch. 9, art. 159, ch. 12, art. 40; 2007, ch. 21, art. 25.
 
 
 
@@ -3026,9 +3177,11 @@ Cependant, la présente définition ne vise pas les contributions versées à l�
 
 **161** 
 
-- **(1)** Tout électeur dont le nom ne figure pas déjà sur la liste électorale peut, le jour du scrutin, s’inscrire en personne :
-	- **a)** sur présentation d’une preuve suffisante d’identité et de résidence;
-	- **b)** s’il prête serment sur le formulaire prescrit et est accompagné d’un électeur dont le nom figure sur la liste électorale de la même section de vote et qui répond de lui, sous serment, sur le formulaire prescrit.
+- **(1)** L’électeur dont le nom ne figure pas déjà sur la liste électorale peut, le jour du scrutin, s’inscrire en personne s’il établit son identité et sa résidence :
+	- **a)** soit en présentant les pièces visées aux alinéas 143(2)a) ou b);
+	- **b)** soit en prêtant le serment prescrit, s’il est accompagné d’un électeur dont le nom figure sur la liste électorale de la même section de vote et qui, à la fois :
+		- **(i)** présente les pièces visées aux alinéas 143(2)a) ou b),
+		- **(ii)** répond de lui, sous serment, sur le formulaire prescrit.
 
 **Lieu de l’inscription**
 
@@ -3048,7 +3201,22 @@ Cependant, la présente définition ne vise pas les contributions versées à l�
 
 **Infraction : répondre de plus d’un électeur**
 
-- **(6)** Il est interdit à un électeur de répondre, en application de l’alinéa (1)b), de plus d’un électeur à une élection.
+- **(6)** Il est interdit à un électeur de répondre de plus d’un électeur à une élection.
+
+**Interdiction d’agir à titre de répondant**
+
+- **(7)** L’électeur pour lequel un autre électeur s’est porté répondant ne peut lui-même agir à ce titre à la même élection.
+> 2000, ch. 9, art. 161; 2007, ch. 21, art. 26.
+
+
+
+
+
+**Serment — avis préalable**
+
+**161.1** Si une personne décide d’établir son identité et sa résidence en prêtant le serment prescrit, la personne devant laquelle doit être prêté le serment avise verbalement l’intéressé des conditions à remplir pour acquérir la qualité d’électeur.
+> 2007, ch. 21, art. 27.
+
 
 
 
@@ -3065,11 +3233,13 @@ Cependant, la présente définition ne vise pas les contributions versées à l�
 - **c)** indique sur le formulaire prescrit, le cas échéant, que l’électeur a voté sur remise d’un certificat de transfert délivré en vertu des articles 158 ou 159 et inscrit le numéro du certificat;
 - **d)** indique sur le formulaire prescrit, dans les cas visés à l’alinéa 149b), le fait que l’électeur a voté même si son nom ne figurait pas sur la liste électorale officielle;
 - **e)** indique sur le formulaire prescrit, le cas échéant, le fait que l’électeur a été admis à voter conformément à l’article 146;
-- **f)** indique sur le formulaire prescrit, le cas échéant, que l’électeur a présenté des pièces d’identité ou prêté serment, selon le cas, et, s’il y a lieu, indique la nature du serment;
-- **g)** indique sur le formulaire prescrit, le cas échéant, que l’électeur a refusé de présenter les pièces d’identité ou de prêter le serment légalement obligatoires ou de répondre aux questions relatives à son habilité à voter au bureau de scrutin;
-- **h)** indique sur le formulaire prescrit, le cas échéant, que l’électeur a été réadmis à voter en vertu du paragraphe 145(2);
-- **i)** indique sur le formulaire prescrit, le cas échéant, que l’électeur a voté dans les circonstances visées à l’article 147 et qu’il a prêté le serment d’identité et tout autre serment exigé et indique, s’il y a lieu, les oppositions présentées au nom d’un candidat et le nom de ce candidat;
+- **f)** indique sur le formulaire prescrit, le cas échéant, que l’électeur a prêté serment et précise la nature du serment;
+- **g)** indique sur le formulaire prescrit, le cas échéant, que l’électeur a refusé de présenter les pièces visées aux alinéas 143(2)a) ou b) ou de prêter serment alors qu’il y était légalement tenu;
+- **h)** indique sur le formulaire prescrit, le cas échéant, que l’électeur a été admis à voter conformément au paragraphe 148.1(2);
+- **i)** indique sur le formulaire prescrit, le cas échéant, que l’électeur a voté dans les circonstances visées à l’article 147 et qu’il a prêté le serment prescrit et tout autre serment exigé et indique, s’il y a lieu, les oppositions présentées au nom d’un candidat et le nom de ce candidat;
 - **j)** inscrit sur le formulaire prescrit, le cas échéant, que l’électeur a voté sur remise d’un certificat d’inscription délivré en vertu du paragraphe 161(4).
+> 2000, ch. 9, art. 162; 2007, ch. 21, art. 28.
+
 
 
 
@@ -3176,7 +3346,7 @@ Cependant, la présente définition ne vise pas les contributions versées à l�
 
 **168** 
 
-- **(1)** Le directeur du scrutin établit, conformément aux instructions du directeur général des élections, des districts de vote par anticipation regroupant des sections de vote de sa circonscription.
+- **(1)** Le directeur du scrutin établit, conformément aux instructions du directeur général des élections, des districts de vote par anticipation constitués d’une ou plusieurs sections de vote de sa circonscription.
 
 **Description des districts**
 
@@ -3201,6 +3371,8 @@ Cependant, la présente définition ne vise pas les contributions versées à l�
 **Exception**
 
 - **(7)** Lorsque le directeur du scrutin est incapable d’obtenir un local convenable avec accès de plain-pied, il peut, avec l’agrément du directeur général des élections, établir un bureau de vote par anticipation dans un local qui n’a pas d’accès de plain-pied.
+> 2000, ch. 9, art. 168; 2007, ch. 21, art. 29.
+
 
 
 
@@ -3217,7 +3389,11 @@ Cependant, la présente définition ne vise pas les contributions versées à l�
 
 **Conditions**
 
-- **(2)** Il doit alors fournir une preuve suffisante de son identité et de sa résidence.
+- **(2)** Il ne peut toutefois être inscrit que s’il établit son identité et sa résidence :
+	- **a)** soit en présentant les pièces visées aux alinéas 143(2)a) ou b);
+	- **b)** soit en prêtant le serment prescrit, s’il est accompagné d’un électeur dont le nom figure sur la liste électorale de la même section de vote et qui, à la fois :
+		- **(i)** présente les pièces visées aux alinéas 143(2)a) ou b),
+		- **(ii)** répond de lui, sous serment, sur le formulaire prescrit.
 
 **Certificat d’inscription**
 
@@ -3226,6 +3402,25 @@ Cependant, la présente définition ne vise pas les contributions versées à l�
 **Obligation du greffier du scrutin**
 
 - **(4)** Le greffier du scrutin inscrit sur le formulaire prescrit le nom des électeurs admis à voter en vertu du présent article.
+
+**Infraction : répondre de plus d’un électeur**
+
+- **(5)** Il est interdit à un électeur de répondre de plus d’un électeur à une élection.
+
+**Interdiction d’agir à titre de répondant**
+
+- **(6)** L’électeur pour lequel un autre électeur s’est porté répondant ne peut lui-même agir à ce titre à la même élection.
+> 2000, ch. 9, art. 169; 2007, ch. 21, art. 30.
+
+
+
+
+
+**Avis préalable**
+
+**169.1** Si une personne décide d’établir son identité et sa résidence en prêtant le serment prescrit, la personne devant laquelle doit être prêté le serment avise verbalement l’intéressé des conditions à remplir pour acquérir la qualité d’électeur.
+> 2007, ch. 21, art. 31.
+
 
 
 
@@ -3275,13 +3470,15 @@ Cependant, la présente définition ne vise pas les contributions versées à l�
 
 **Électeurs non inscrits**
 
-- **(2)** L’électeur dont le nom ne figure pas sur la liste électorale révisée n’est admis à voter que dans l’un ou l’autre des cas suivants :
-	- **a)** le scrutateur est convaincu, après vérification auprès du directeur du scrutin et sur présentation d’une preuve suffisante d’identité, qu’il est inscrit sur la liste électorale préliminaire ou qu’il a été accepté à la révision;
+- **(2)** L’électeur dont le nom ne figure pas sur la liste électorale révisée n’est admis à voter que dans l’un ou l’autre des cas suivants :
+	- **a)** le scrutateur est convaincu, après vérification auprès du directeur du scrutin, qu’il est inscrit sur la liste électorale préliminaire ou qu’il a été inscrit comme électeur au moment de la révision;
 	- **b)** il a obtenu un certificat d’inscription en conformité avec le paragraphe 169(3).
 
 **Inscription du greffier du scrutin**
 
 - **(3)** Lorsqu’un électeur dont le nom ne figure pas sur la liste électorale révisée a voté, le greffier du scrutin indique sur le formulaire prescrit que l’électeur a voté conformément au paragraphe (2).
+> 2000, ch. 9, art. 173; 2007, ch. 21, art. 32.
+
 
 
 
@@ -3291,7 +3488,7 @@ Cependant, la présente définition ne vise pas les contributions versées à l�
 **174** 
 
 - **(1)** Lorsque l’électeur dont le nom figure sur la liste électorale demande à voter au bureau de vote par anticipation établi pour sa section de vote, le scrutateur est tenu de l’autoriser à voter sauf si, selon le cas :
-	- **a)** il refuse de prêter le serment visé au paragraphe 144(2), comme l’exige le scrutateur, le greffier du scrutin, le candidat ou le représentant d’un candidat présent au bureau de vote par anticipation;
+	- **a)** il n’établit pas son identité ou sa résidence conformément aux paragraphes 143(2) ou (3), ou ne prête pas serment conformément à la présente loi;
 	- **b)** il refuse de signer le registre du vote visé au paragraphe (2), malgré la demande du greffier du scrutin.
 
 **Registre du vote**
@@ -3299,6 +3496,8 @@ Cependant, la présente définition ne vise pas les contributions versées à l�
 - **(2)** À un bureau de vote par anticipation, le greffier du scrutin, sur les instructions du scrutateur, tient en double, selon le formulaire prescrit, un registre des noms des électeurs qui y votent, dans l’ordre où ils ont voté, et doit :
 	- **a)** faire à côté du nom de chaque électeur les inscriptions qu’il serait tenu de faire, aux termes de la présente loi, à un bureau de scrutin le jour du scrutin;
 	- **b)** demander à l’électeur d’apposer sa signature à côté de son nom.
+> 2000, ch. 9, art. 174; 2007, ch. 21, art. 33.
+
 
 
 
@@ -10143,8 +10342,10 @@ La demande est notifiée au directeur général des élections.
 
 **Honoraires du vérificateur**
 
-**466** Sur réception des documents visés au paragraphe 451(1) et, le cas échéant, au paragraphe 455(1) et du rapport du vérificateur ainsi que d’une copie de la facture de celui-ci pour le rapport — dans la mesure où elle n’est pas inférieure à 250 $ — , le directeur général des élections transmet au receveur général un certificat indiquant le montant des dépenses engagées pour la vérification, représentant 3 % des dépenses électorales du candidat, jusqu’à concurrence de 1 500 $.
-> 2000, ch. 9, art. 466; 2003, ch. 19, art. 50.
+**466** Sur réception des documents visés au paragraphe 451(1) et, le cas échéant, au paragraphe 455(1) et du rapport du vérificateur ainsi que d’une copie de la facture de celui-ci pour le rapport, le directeur général des élections transmet au receveur général un certificat indiquant le plus élevé des montants suivants :
+- **a)** le montant des dépenses engagées pour la vérification, jusqu’à concurrence du moins élevé de 3 % des dépenses électorales du candidat et 1 500 $;
+- **b)** 250$.
+> 2000, ch. 9, art. 466; 2003, ch. 19, art. 50; 2007, ch. 21, art. 35.
 
 
 
@@ -11223,17 +11424,21 @@ La demande est notifiée au directeur général des élections.
 
 **Infraction exigeant une intention — déclaration sommaire**
 
-- **(2)** Commet une infraction le directeur du scrutin qui volontairement contrevient au paragraphe 24(3) (défaut d’exécuter avec diligence les opérations électorales nécessaires).
+- **(2)** Commet une infraction :
+	- **a)** le directeur du scrutin qui contrevient volontairement au paragraphe 24(3) (défaut d’exécuter avec diligence les opérations électorales nécessaires);
+	- **b)** quiconque contrevient au paragraphe 43.1(1) (refus de donner accès à un immeuble ou à un ensemble résidentiel protégé).
 
 **Infraction exigeant une intention — double procédure**
 
-- **(3)** Commet une infraction :
+- **(3)** Commet une infraction :
 	- **a)** quiconque contrevient au paragraphe 22(6) (agir à titre de fonctionnaire électoral sachant qu’il est inhabile à le faire);
 	- **b)** quiconque contrevient sciemment au paragraphe 23(2) (communication de renseignements à des fins non autorisées);
 	- **c)** le directeur du scrutin qui contrevient au paragraphe 24(6) (faire preuve de partialité politique);
 	- **d)** le directeur du scrutin ou le directeur adjoint du scrutin qui contrevient volontairement à l’article 31 (cumul de fonctions);
 	- **e)** quiconque contrevient à l’alinéa 43a) (entraver l’action d’un fonctionnaire électoral) ou contrevient volontairement à l’alinéa 43b) (se faire passer pour un agent réviseur);
 	- **f)** l’ancien fonctionnaire électoral qui contrevient volontairement à l’alinéa 43c) (défaut de remettre des documents et autres accessoires électoraux).
+> 2000, ch. 9, art. 484; 2007, ch. 21, art. 36.
+
 
 
 
@@ -11267,7 +11472,7 @@ La demande est notifiée au directeur général des élections.
 
 **Infraction exigeant une intention — déclaration sommaire**
 
-- **(2)** Commet une infraction quiconque contrevient à l’article 81 (refus de donner accès à des immeubles).
+- **(2)** Commet une infraction quiconque contrevient au paragraphe 81(1) (refus de donner accès à un immeuble ou à un ensemble résidentiel protégé) ou au paragraphe 81.1(1) (refus de donner accès à des lieux ouverts au public).
 
 **Infraction exigeant une intention — double procédure**
 
@@ -11279,7 +11484,7 @@ La demande est notifiée au directeur général des élections.
 	- **e)** le candidat qui contrevient volontairement au paragraphe 92.2(1) (accepter un cadeau ou autre avantage);
 	- **f)** le candidat qui contrevient volontairement au paragraphe 92.2(5) (défaut de déposer la déclaration dans le délai prévu);
 	- **g)** le candidat qui contrevient à l’alinéa 92.6a) (déclaration contenant des renseignements faux ou trompeurs) ou contrevient sciemment à l’alinéa 92.6b) (déclaration incomplète).
-> 2000, ch. 9, art. 486; 2006, ch. 9, art. 56.
+> 2000, ch. 9, art. 486; 2006, ch. 9, art. 56; 2007, ch. 21, art. 37.
 
 
 
@@ -11293,11 +11498,15 @@ La demande est notifiée au directeur général des élections.
 
 **487** 
 
-- **(1)** Commet une infraction quiconque contrevient aux alinéas 111b) ou c) (demande non autorisée d’inscription sur une liste électorale) ou 111f) (utilisation de renseignements personnels figurant à une liste électorale à des fins non autorisées).
+- **(1)** Commet une infraction quiconque contrevient :
+	- **a)** aux alinéas 111b) ou c) (demande non autorisée d’inscription sur une liste électorale);
+	- **b)** à l’alinéa 111f) (utilisation de renseignements personnels figurant à une liste électorale à des fins non autorisées).
 
 **Infraction exigeant une intention — double procédure**
 
 - **(2)** Commet une infraction quiconque contrevient aux alinéas 111a), d) ou e) (actions interdites relatives à une liste électorale).
+> 2000, ch. 9, art. 487; 2007, ch. 21, art. 37.1.
+
 
 
 
@@ -11337,10 +11546,15 @@ La demande est notifiée au directeur général des élections.
 **Infraction exigeant une intention — déclaration sommaire**
 
 - **(2)** Commet une infraction :
-	- **a)** quiconque contrevient au paragraphe 155(2) (aider, à titre d’ami, plus d’un électeur);
-	- **a.1)** quiconque contrevient au paragraphe 161(6) (répondre de plus d’un électeur);
+	- **a)** quiconque contrevient au paragraphe 143(5) (répondre de plus d’un électeur);
+	- **a.1)** quiconque contrevient au paragraphe 143(6) (interdiction d’agir à titre de répondant);
+	- **a.2)** quiconque contrevient au paragraphe 155(2) (aider, à titre d’ami, plus d’un électeur);
+	- **a.3)** quiconque contrevient au paragraphe 161(6) (répondre de plus d’un électeur);
+	- **a.4)** quiconque contrevient au paragraphe 161(7) (interdiction d’agir à titre de répondant);
 	- **b)** l’électeur qui contrevient au paragraphe 164(2) (non-respect du secret du vote);
-	- **c)** quiconque contrevient à l’alinéa 166(1)a) (affichage de matériel de propagande dans une salle de scrutin).
+	- **c)** quiconque contrevient à l’alinéa 166(1)a) (affichage de matériel de propagande dans une salle de scrutin);
+	- **d)** quiconque contrevient au paragraphe 169(5) (répondre de plus d’un électeur);
+	- **e)** quiconque contrevient au paragraphe 169(6) (interdiction d’agir à titre de répondant).
 
 **Infraction exigeant une intention — double procédure**
 
@@ -11352,6 +11566,8 @@ La demande est notifiée au directeur général des élections.
 	- **e)** quiconque contrevient à l’un ou l’autre des alinéas 167(1)a) à d) (actions interdites relatives aux bulletins de vote) ou des alinéas 167(2)a) à d) (actions interdites relatives aux bulletins de vote ou à l’urne faites avec l’intention d’influencer les résultats);
 	- **f)** le scrutateur qui contrevient à l’alinéa 167(3)a) (apposer son paraphe avec l’intention d’influencer les résultats);
 	- **g)** le scrutateur qui contrevient à l’alinéa 167(3)b) (marquer un bulletin de vote de façon à reconnaître l’électeur).
+> 2000, ch. 9, art. 489; 2007, ch. 21, art. 38.
+
 
 
 
@@ -11584,7 +11800,7 @@ La demande est notifiée au directeur général des élections.
 	- **x)** l’agent officiel qui contrevient à l’article 455 (défaut de produire une version modifiée des comptes de campagne électorale ou un document y afférent);
 	- **y)** l’agent officiel qui contrevient à l’alinéa 463(1)b) (production d’un compte de campagne électorale incomplet);
 	- **z)** l’agent officiel qui contrevient au paragraphe 472(2) ou à l’article 473 (défaut de donner avis ou de disposer d’un excédent de fonds électoraux);
-	- **z.1)** l’agent enregistré ou l’agent financier qui contrevient à l’article 476 (cession de contributions interdite);
+	- **z.1)** l’agent enregistré ou l’agent financier qui contrevient à l’article 476 (cession de fonds interdite);
 	- **z.2)** l’agent officiel qui contrevient au paragraphe 478(2) (défaut de retourner les copies inutilisées des reçus à fins fiscales);
 	- **z.21)** le parti enregistré ou l’association enregistrée qui contrevient au paragraphe 478.02(1) (défaut de produire un rapport sur une course à l’investiture);
 	- **z.22)** le candidat à l’investiture qui contrevient à l’article 478.04 (nomination d’un agent financier);
@@ -11684,7 +11900,7 @@ La demande est notifiée au directeur général des élections.
 	- **u)** l’agent officiel qui contrevient volontairement à l’article 455 (défaut de produire une version modifiée des comptes de campagne électorale ou un document y afférent);
 	- **v)** l’agent officiel qui contrevient à l’alinéa 463(1)a) ou qui contrevient sciemment à l’alinéa 463(1)b) (production d’un compte de campagne électorale renfermant une déclaration fausse ou trompeuse ou d’un compte de campagne électorale incomplet);
 	- **w)** l’agent officiel qui contrevient volontairement au paragraphe 472(2) ou à l’article 473 (défaut de donner avis ou de disposer d’un excédent de fonds électoraux);
-	- **x)** l’agent enregistré, l’agent financier ou l’agent officiel qui contrevient sciemment à l’article 476 (cession de contributions interdite);
+	- **x)** l’agent enregistré ou l’agent financier qui contrevient sciemment à l’article 476 (cession de fonds interdite);
 	- **y)** le parti enregistré ou l’association enregistrée qui contrevient sciemment au paragraphe 478.02(1) (défaut de produire un rapport sur une course à l’investiture);
 	- **z)** quiconque contrevient volontairement à l’article 478.09 (personne inadmissible agissant comme agent financier d’un candidat à l’investiture);
 	- **z.01)** la personne, autre que l’agent financier d’un candidat à l’investiture, qui contrevient sciemment au paragraphe 478.13(1) (accepter des contributions sans y être admissible);
@@ -11704,7 +11920,7 @@ La demande est notifiée au directeur général des élections.
 **Poursuites postérieures à l’expiration des délais**
 
 - **(4)** Il ne peut être engagé de poursuite pour défaut de produire un rapport ou un autre document auprès du directeur général des élections avant l’expiration du délai de présentation, au titre de la présente loi, d’une demande de prorogation du délai de production du rapport ou du document.
-> 2000, ch. 9, art. 497; 2003, ch. 19, art. 58; 2004, ch. 24, art. 21; 2006, ch. 9, art. 57.
+> 2000, ch. 9, art. 497; 2003, ch. 19, art. 58; 2004, ch. 24, art. 21; 2006, ch. 9, art. 57; 2007, ch. 21, art. 39.
 
 
 
