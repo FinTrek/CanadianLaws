@@ -1391,8 +1391,8 @@ in letters of at least the same size and prominence as the letters used in the n
 	- **(c)** a statement on any part of the label of the sweetness per serving expressed in terms of the amount of sugar required to produce an equivalent degree of sweetness; and
 	- **(d)** a statement setting out the aspartame content expressed in milligrams per serving of stated size.
 
-- **(2)** The label of a sweetener that contains aspartame may carry the expression “Low Calorie” if the energy value of a serving of the sweetener that is equivalent in sweetness to one teaspoon (5 g) of sugar is no greater than two calories. 
-> SOR/81-617, s. 2; SOR/88-559, s. 6; SOR/2003-11, s. 7.
+- **(2)** [Repealed, SOR/2007-176, s. 1]
+> SOR/81-617, s. 2; SOR/88-559, s. 6; SOR/2003-11, s. 7; SOR/2007-176, s. 1.
 
 
 
@@ -1413,8 +1413,8 @@ in letters of at least the same size and prominence as the letters used in the n
 	- **(b)** a statement on any part of the label setting out the sweetness per serving expressed in terms of the amount of sugar required to produce an equivalent degree of sweetness; and
 	- **(c)** a statement setting out the sucralose content expressed in milligrams per serving of stated size.
 
-- **(2)** The label of a food that is a table-top sweetener that contains sucralose may carry the words ***Low Calorie*** if the energy value of a serving of the sweetener that is equivalent in sweetness to one teaspoon (5 g) of sugar is no greater than two calories. 
-> SOR/91-527, s. 2; SOR/94-625, s. 2; SOR/2003-11, s. 9.
+- **(2)** [Repealed, SOR/2007-176, s. 2]
+> SOR/91-527, s. 2; SOR/94-625, s. 2; SOR/2003-11, s. 9; SOR/2007-176, s. 2.
 
 
 
@@ -1441,8 +1441,8 @@ in letters of at least the same size and prominence as the letters used in the n
 	- **(b)** a statement, on any part of the label, setting out the sweetness per serving, expressed in terms of the amount of sugar required to produce an equivalent degree of sweetness; and
 	- **(c)** a statement setting out the acesulfame-potassium content expressed in milligrams per serving of stated size.
 
-- **(2)** The label of a food that is a table-top sweetener that contains acesulfame-potassium may carry the word ***Low-Calorie*** if the energy value of a serving of the sweetener that is equivalent in sweetness to one teaspoon (5 g) of sugar is no greater than two calories. 
-> SOR/94-625, s. 3; SOR/2003-11, s. 12.
+- **(2)** [Repealed, SOR/2007-176, s. 3]
+> SOR/94-625, s. 3; SOR/2003-11, s. 12; SOR/2007-176, s. 3.
 
 
 
@@ -1453,6 +1453,34 @@ in letters of at least the same size and prominence as the letters used in the n
 
 - **(2)** The statement of the amount of erythritol shall be grouped together with the statement of the amount of any other sugar alcohols and the amount of polydextrose.
 > SOR/2004-261, s. 1.
+
+
+
+
+**B.01.022** The label of a food, other than a table-top sweetener, that contains neotame shall carry the following information:
+- **(a)** subject to paragraph (b), a statement on the principal display panel to the effect that the food contains neotame or is sweetened with neotame, in letters of at least the same size and prominence as the letters used for showing the numerical quantity in the declaration of net quantity as required under section 14 of the [Consumer Packaging and Labelling Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/401-500/C.R.C.,%20c.%20417.md);
+- **(b)** in the case where other sweeteners or sweetening agents are used in conjunction with neotame, a statement on the principal display panel, in letters of at least the same size and prominence as the letters used for showing the numerical quantity in the declaration of net quantity as required under section 14 of the [Consumer Packaging and Labelling Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/401-500/C.R.C.,%20c.%20417.md), to the effect that the food
+	- **(i)** contains neotame and (naming the other sweeteners and the sweetening agents), or
+	- **(ii)** is sweetened with neotame and (naming the other sweeteners and the sweetening agents);
+- **(c)** if the label of the food carries a nutrition facts table, a statement setting out the neotame content expressed in milligrams per serving of stated size; and
+- **(d)** if the label of the food does not carry a nutrition facts table, a statement setting out the following energy value and contents of the food, per serving of stated size, grouped together and given equal prominence on any part of the label:
+	- **(i)** the energy value, expressed in Calories (Calories or Cal) and kilojoules (kilojoules or kJ),
+	- **(ii)** the protein, fat and carbohydrate content, expressed in grams, and
+	- **(iii)** the neotame content, expressed in milligrams.
+> SOR/2007-176, s. 4.
+
+
+
+
+**B.01.023** The label of a food that is a table-top sweetener that contains neotame shall carry the following information:
+- **(a)** a statement on the principal display panel to the effect that the food contains neotame or is sweetened with neotame, in letters of at least the same size and prominence as the letters used for showing the numerical quantity in the declaration of net quantity as required under section 14 of the [Consumer Packaging and Labelling Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/401-500/C.R.C.,%20c.%20417.md);
+- **(b)** a statement on any part of the label of the sweetness per serving expressed in terms of the amount of sugar required to produce an equivalent degree of sweetness;
+- **(c)** if the label of the food carries a nutrition facts table, a statement setting out the neotame content expressed in milligrams per serving of stated size; and
+- **(d)** if the label of the food does not carry a nutrition facts table, a statement setting out the following energy value and contents of the food, per serving of stated size, grouped together and given equal prominence on any part of the label:
+	- **(i)** the energy value, expressed in Calories (Calories or Cal) and kilojoules (kilojoules or kJ),
+	- **(ii)** the protein, fat and carbohydrate content, expressed in grams, and
+	- **(iii)** the neotame content, expressed in milligrams.
+> SOR/2007-176, s. 4.
 
 
 
@@ -2000,10 +2028,10 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 **B.01.401** 
 
-- **(1)** Except as otherwise provided in this section and sections B.01.402 to B.01.406 and B.01.467, the label of a prepackaged product shall carry a nutrition facts table that contains only the information set out in column 1 of the table to this section expressed using a description set out in column 2, in the unit set out in column 3 and in the manner set out in column 4.
+- **(1)** Except as otherwise provided in this section and sections B.01.402 to B.01.406 and B.01.467, the label of a prepackaged product shall carry a nutrition facts table that contains only the information set out in column 1 of the table to this section expressed using a description set out in column 2, in the unit set out in column 3 and in the manner set out in column 4.
 
 - **(2)** Subsection (1) does not apply to a prepackaged product if
-	- **(a)** all the information set out in column 1 of the table to this section, other than in respect of item 1 (“Serving of stated size”), may be expressed as “0” in the nutrition facts table in accordance with this section;
+	- **(a)** all the information set out in column 1 of the table to this section, other than in respect of item 1 (“Serving of stated size”), may be expressed as “0” in the nutrition facts table in accordance with this section;
 	- **(b)** the product is
 		- **(i)** a beverage with an alcohol content of more than 0.5%,
 		- **(ii)** a fresh vegetable or fruit or any combination of fresh vegetables or fruits without any added ingredients, an orange with added food colour or a fresh vegetable or fruit coated with paraffin wax or petrolatum,
@@ -2012,37 +2040,37 @@ shall be shown on the principal display panel of the label of a simulated meat p
 		- **(v)** sold only in the retail establishment where the product is prepared and processed from its ingredients, including from a pre-mix if an ingredient other than water is added to the pre-mix during the preparation and processing of the product,
 		- **(vi)** sold only at a road-side stand, craft show, flea market, fair, farmers’ market or sugar bush by the individual who prepared and processed the product,
 		- **(vii)** an individual serving that is sold for immediate consumption and that has not been subjected to a process to extend its durable life, including special packaging, or
-		- **(viii)** sold only in the retail establishment where the product is packaged, if the product is labelled by means of a sticker and has an available display surface of less than 200 cm<sup>2</sup>; or
+		- **(viii)** sold only in the retail establishment where the product is packaged, if the product is labelled by means of a sticker and has an available display surface of less than 200 cm<sup>2</sup>; or
 	- **(c)** the product is
 		- **(i)** a prepackaged confection, commonly known as a one bite confection, that is sold individually,
 		- **(ii)** a prepackaged individual portion of food that is solely intended to be served by a restaurant or other commercial enterprise with meals or snacks, or
 		- **(iii)** milk, partly skimmed milk, skim milk, goat’s milk, partly skimmed goat’s milk, skimmed goat’s milk, (naming the flavour) milk, (naming the flavour) partly skimmed milk, (naming the flavour) skim milk or cream sold in a refillable glass container.
 
-- **(3)** Despite paragraphs (2)(a) and (b), subsection (1) applies to a prepackaged product if
+- **(3)** Despite paragraphs (2)(a) and (b), subsection (1) applies to a prepackaged product if
 	- **(a)** the product contains an added vitamin or mineral nutrient;
 	- **(b)** a vitamin or mineral nutrient is declared as a component of one of the product’s ingredients other than flour;
-	- **(c)** the product contains added aspartame, sucralose or acesulfame-potassium;
+	- **(c)** the product contains added acesulfame-potassium, aspartame, neotame or sucralose;
 	- **(d)** the product is a meat, meat by-product, poultry meat or poultry meat by-product that is ground; or
 	- **(e)** the label of the product, or any advertisement for the product that is made or placed by or on the direction of the manufacturer of the product, contains
-		- **(i)** a reference to the energy value, a nutrient set out in column 1 of the table to this section or in column 1 of the table to section B.01.402 or a constituent of such a nutrient, other than information required by Division 12 or a reference to the common name of an ingredient in the list of ingredients for the product,
-		- **(ii)** a representation that expressly or implicitly indicates that the product has particular nutritional or health-related properties, including any statement or claim set out in column 4 of the table following section B.01.513 or column 1 of the table following section B.01.603 or referred to in section B.01.311, D.01.006 or D.02.004,
+		- **(i)** a reference to the energy value, a nutrient set out in column 1 of the table to this section or in column 1 of the table to section B.01.402 or a constituent of such a nutrient, other than information required by Division 12 or a reference to the common name of an ingredient in the list of ingredients for the product,
+		- **(ii)** a representation that expressly or implicitly indicates that the product has particular nutritional or health-related properties, including any statement or claim set out in column 4 of the table following section B.01.513 or column 1 of the table following section B.01.603 or referred to in section B.01.311, D.01.006 or D.02.004,
 		- **(iii)** a health-related name, statement, logo, symbol, seal of approval or mark, or
-		- **(iv)** the phrase “nutrition facts”, “valeur nutritive” or “valeurs nutritives”.
+		- **(iv)** the phrase “nutrition facts”, “*valeur nutritive*” or “*valeurs nutritives*”.
 
 - **(4)** Subsection (1) does not apply to a formulated liquid diet, a human milk substitute, a food represented as containing a human milk substitute, a meal replacement, a nutritional supplement or a food represented for use in a very low energy diet.
 
-- **(5)** The label of or advertisement for a formulated liquid diet, a human milk substitute, a food represented as containing a human milk substitute, a meal replacement, a nutritional supplement or a food represented for use in a very low energy diet shall not contain a nutrition facts table or the phrase “nutrition facts”, “valeur nutritive” or “valeurs nutritives”.
+- **(5)** The label of or advertisement for a formulated liquid diet, a human milk substitute, a food represented as containing a human milk substitute, a meal replacement, a nutritional supplement or a food represented for use in a very low energy diet shall not contain a nutrition facts table or the phrase “nutrition facts”, “*valeur nutritive*” or “*valeurs nutritives*”.
 
-- **(6)** If, for a prepackaged product other than one intended solely for children under two years of age, the information in respect of seven or more of the energy value and nutrients referred to in column 1 of items 2 to 5 and 7 to 13 of the table to this section may be expressed as “0” in the nutrition facts table in accordance with this section, the nutrition facts table need only include the following information:
+- **(6)** If, for a prepackaged product other than one intended solely for children under two years of age, the information in respect of seven or more of the energy value and nutrients referred to in column 1 of items 2 to 5 and 7 to 13 of the table to this section may be expressed as “0” in the nutrition facts table in accordance with this section, the nutrition facts table need only include the following information:
 	- **(a)** the serving of stated size;
 	- **(b)** the energy value;
 	- **(c)** the amount of fat;
 	- **(d)** the amount of carbohydrate;
 	- **(e)** the amount of protein;
-	- **(f)** the amount of any nutrient that is the subject of a representation referred to in subparagraph (3)(e)(ii);
+	- **(f)** the amount of any nutrient that is the subject of a representation referred to in subparagraph (3)(e)(ii);
 	- **(g)** the amount of any sugar alcohol, vitamin or mineral nutrient added to the prepackaged product, other than iodide added to salt for table or general household use or fluoride added to prepackaged water or ice;
 	- **(h)** the amount of any vitamin or mineral nutrient that is declared as a component of one of the prepackaged product’s ingredients other than flour;
-	- **(i)** the amount of any nutrient referred to in column 1 of item 4, 5, 7, 8, 10, 11 or 13 of the table to this section that may not be expressed as “0” in the nutrition facts table; and
+	- **(i)** the amount of any nutrient referred to in column 1 of item 4, 5, 7, 8, 10, 11 or 13 of the table to this section that may not be expressed as “0” in the nutrition facts table; and
 	- **(j)** the statement “Not a significant source of (naming each nutrient that is omitted from the nutrition facts table in accordance with this subsection)” or, if the prepackaged product meets the condition specified in subsection B.01.455(3), the statement “Not a significant source of other nutrients”.
 
 - **(7)** Subsection (1) does not apply to a prepackaged product
@@ -2050,23 +2078,19 @@ shall be shown on the principal display panel of the label of a simulated meat p
 	- **(b)** that is a multiple-serving ready-to-serve prepackaged product intended solely to be served in a commercial or industrial enterprise or institution.
 #### TABLE
 <table>
-<h4>CORE INFORMATION</h4>
+<h4>Core Information</h4>
 <tr>
-<th></th>
+<th>Item</th>
 <th>Column 1</th>
 <th>Column 2</th>
 <th>Column 3</th>
 <th>Column 4</th>
 </tr>
 <tr>
-<th>Item</th>
 <th>Information</th>
 <th>Description</th>
 <th>Unit</th>
 <th>Manner of expression</th>
-</tr>
-<tr>
-<th> </th>
 </tr>
 <tr>
 <td>1</td>
@@ -2076,18 +2100,28 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 **(a)** in the case of a food that is usually divided into pieces before being consumed (such as cake, pie and pizza), a fraction of the entire food;
 
+
+
 **(b)** in the case of a food described in subsection B.01.002A(2), the entire container; and
 
+
+
 **(c)** in all other cases, in a commonly used unit in respect of which the quantity is visibly measurable, such as millilitres, cups, tablespoons or “(naming the unit of food)”.
+
+
 
 **(2)** The size expressed in accordance with subitem (1) is followed by the size expressed in grams or millilitres, as specified by paragraph B.01.002A(1)(b).
 
 </td>
 <td>**(1)** The size when expressed in metric units is rounded off
 
-**(a)**  if it is less than 10 g or 10 mL, to the nearest multiple of 0.1 g or0.1 mL; and 
+**(a)** if it is less than 10 g or 10 mL, to the nearest multiple of 0.1 g or 0.1 mL; and
 
-**(b)** if it is 10 g or more or 10 mL or more, to the nearest multiple of 1 g or 1 mL.
+
+
+**(b)** if it is 10 g or more or 10 mL or more, to the nearest multiple of 1 g or 1 mL.
+
+
 
 **(2)** The size when expressed as a fraction is represented by a numerator and a denominator separated by a line.
 
@@ -2102,15 +2136,25 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>The value is expressed in Calories per serving of stated size.</td>
 <td>The value is rounded off
 
-**(a)** if it is less than 5 Calories
+**(a)** if it is less than 5 Calories
 
-**(i)** if the product meets the conditions set out in column 2 of item 1 of the table following section B.01.513 for the subject” free of energy” set out in column 1, to “0” Calorie, and
+**(i)** if the product meets the conditions set out in column 2 of item 1 of the table following section B.01.513 for the subject” free of energy” set out in column 1, to “0” Calorie, and
 
-**(ii)** in all other cases, to the nearest multiple of 1 Calorie;
 
-**(b)**  if it is 5 Calories or more but not more than 50 Calories, to the nearest multiple of 5 Calories; and
 
-**(c)** if it is more than 50 Calories, to the nearest multiple of 10 Calories.
+**(ii)** in all other cases, to the nearest multiple of 1 Calorie;
+
+
+
+
+
+**(b)** if it is 5 Calories or more but not more than 50 Calories, to the nearest multiple of 5 Calories; and
+
+
+
+**(c)** if it is more than 50 Calories, to the nearest multiple of 10 Calories.
+
+
 
 </td>
 </tr>
@@ -2120,28 +2164,46 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>“Fat”, “Total Fat” or “Fat, Total”</td>
 <td>The amount is expressed
 
-**(a)**  in grams per serving of stated size; and
+**(a)** in grams per serving of stated size; and
 
-**(b)**  as a percentage of the daily value per serving of stated size.
+
+
+**(b)** as a percentage of the daily value per serving of stated size.
+
+
 
 </td>
 <td>**(1)** The amount is rounded off
 
-**(a)** if it is less than 0.5 g
+**(a)** if it is less than 0.5 g
 
-**(i)** if the product meets the conditions set out in column 2 of item 11 of the table following section B.01.513 for the subject “free of fat” set out in column 1 and the amounts of saturated fatty acids and *trans* fatty acids are declared as “0 g” in the nutrition facts table or are omitted from that table in accordance with subsection B.01.401(6) and no other fatty acids are declared in an amount greater than 0 g, to “0 g”, and
+**(i)** if the product meets the conditions set out in column 2 of item 11 of the table following section B.01.513 for the subject “free of fat” set out in column 1 and the amounts of saturated fatty acids and *trans* fatty acids are declared as “0 g” in the nutrition facts table or are omitted from that table in accordance with subsection B.01.401(6) and no other fatty acids are declared in an amount greater than 0 g, to “0 g”, and
 
-**(ii)** in all other cases, to the nearest multiple of 0.1 g;
 
-**(b)** if it is 0.5 g or more but not more than 5 g, to the nearest multiple of 0.5 g; and
 
-**(c)** if it is more than 5 g, to the nearest multiple of 1 g.
+**(ii)** in all other cases, to the nearest multiple of 0.1 g;
+
+
+
+
+
+**(b)** if it is 0.5 g or more but not more than 5 g, to the nearest multiple of 0.5 g; and
+
+
+
+**(c)** if it is more than 5 g, to the nearest multiple of 1 g.
+
+
 
 **(2)** The percentage is rounded off
 
-**(a)** if the amount is declared as “0 g”, to “0 %“; and
+**(a)** if the amount is declared as “0 g”, to “0%“; and
+
+
 
 **(b)** in all other cases, to the nearest multiple of 1%.
+
+
 
 </td>
 </tr>
@@ -2152,15 +2214,25 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>The amount is expressed in grams per serving of stated size.</td>
 <td>The amount is rounded off
 
-**(a)** if it is less than 0.5 g
+**(a)** if it is less than 0.5 g
 
-**(i)** if the product meets the conditions set out in column 2 of item 18 of the table following section B.01.513 for the subject “free of saturated fatty acids” set out in column 1, to “0 g”, and
+**(i)** if the product meets the conditions set out in column 2 of item 18 of the table following section B.01.513 for the subject “free of saturated fatty acids” set out in column 1, to “0 g”, and
 
-**(ii)** in all other cases, to the nearest multiple of 0.1 g;
 
-**(b)** if it is 0.5 g or more but not more than 5 g, to the nearest multiple of 0.5 g; and
 
-**(c)** if it is more than 5 g, to the nearest multiple of 1 g.
+**(ii)** in all other cases, to the nearest multiple of 0.1 g;
+
+
+
+
+
+**(b)** if it is 0.5 g or more but not more than 5 g, to the nearest multiple of 0.5 g; and
+
+
+
+**(c)** if it is more than 5 g, to the nearest multiple of 1 g.
+
+
 
 </td>
 </tr>
@@ -2171,15 +2243,25 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>The amount is expressed in grams per serving of stated size.</td>
 <td>The amount is rounded off
 
-**(a)** if it is less than 0.5 g
+**(a)** if it is less than 0.5 g
 
-**(i)** if the product meets the conditions set out in column 2 of item 22 of the table following section B.01.513 for the subject “free of *trans* fatty acids” set out in column 1, to “0 g”, and
+**(i)** if the product meets the conditions set out in column 2 of item 22 of the table following section B.01.513 for the subject “free of *trans* fatty acids” set out in column 1, to “0 g”, and
 
-**(ii)** in all other cases, to the nearest multiple of 0.1 g;
 
-**(b)** if it is 0.5 g or more but not more than 5 g, to the nearest multiple of 0.5 g; and
 
-**(c)** if it is more than 5 g, to the nearest multiple of 1 g.
+**(ii)** in all other cases, to the nearest multiple of 0.1 g;
+
+
+
+
+
+**(b)** if it is 0.5 g or more but not more than 5 g, to the nearest multiple of 0.5 g; and
+
+
+
+**(c)** if it is more than 5 g, to the nearest multiple of 1 g.
+
+
 
 </td>
 </tr>
@@ -2190,9 +2272,13 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>The sum is expressed as a percentage of the daily value per serving of stated size.</td>
 <td>The percentage is rounded off
 
-**(a)** if the amounts of saturated fatty acids and *trans* fatty acids are declared as “0 g”, to “0 %”; and
+**(a)** if the amounts of saturated fatty acids and *trans* fatty acids are declared as “0 g”, to “0%”; and
+
+
 
 **(b)** in all other cases, to the nearest multiple of 1%.
+
+
 
 </td>
 </tr>
@@ -2203,15 +2289,23 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>The amount is expressed in milligrams per serving of stated size and may also be expressed as a percentage of the daily value per serving of stated size.</td>
 <td>**(1)** The amount is rounded off
 
-**(a)** if the product meets the conditions set out in column 2 of item 27 of the table following section B.01.513 for the subject “free of cholesterol” set out in column 1, to “0 mg”; and
+**(a)** if the product meets the conditions set out in column 2 of item 27 of the table following section B.01.513 for the subject “free of cholesterol” set out in column 1, to “0 mg”; and
 
-**(b)** in all other cases, to the nearest multiple of 5 mg.
+
+
+**(b)** in all other cases, to the nearest multiple of 5 mg.
+
+
 
 **(2)** The percentage is rounded off
 
-**(a)**  if the amount is declared as “0 mg” to “0 %”; and
+**(a)** if the amount is declared as “0 mg” to “0%”; and
+
+
 
 **(b)** in all other cases, to the nearest multiple of 1%.
+
+
 
 </td>
 </tr>
@@ -2223,26 +2317,44 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 **(a)** in milligrams per serving of stated size; and
 
+
+
 **(b)** as a percentage of the daily value per serving of stated size.
 
+
+
 </td>
-<td>**(1)** The amount is rounded off(
+<td>**(1)** The amount is rounded off
 
-**a)** if it is less than 5 mg
+**(a)** if it is less than 5 mg
 
-**(i)** if the product meets the conditions set out in column 2 of item 31 of the table following section B.01.513 for the subject “free of sodium or salt” set out in column 1, to “0 mg”, and
+**(i)** if the product meets the conditions set out in column 2 of item 31 of the table following section B.01.513 for the subject “free of sodium or salt” set out in column 1, to “0 mg”, and
 
-**(ii)** in all other cases, to the nearest multiple of 1 mg;
 
-**(b)** if it is 5 mg or more but not more than 140 mg, to the nearest multiple of 5 mg; and
 
-**(c)** if it is more than 140 mg, to the nearest multiple of 10 mg.
+**(ii)** in all other cases, to the nearest multiple of 1 mg;
+
+
+
+
+
+**(b)** if it is 5 mg or more but not more than 140 mg, to the nearest multiple of 5 mg; and
+
+
+
+**(c)** if it is more than 140 mg, to the nearest multiple of 10 mg.
+
+
 
 **(2)** The percentage is rounded off
 
-**(a)** if the amount is declared as “0 mg”, to “0 %”; and
+**(a)** if the amount is declared as “0 mg”, to “0%”; and
+
+
 
 **(b)** in all other cases, to the nearest multiple of 1%.
+
+
 
 </td>
 </tr>
@@ -2254,20 +2366,32 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 **(a)** in grams per serving of stated size; and
 
+
+
 **(b)** as a percentage of the daily value per serving of stated size.
+
+
 
 </td>
 <td>**(1)** The amount is rounded off
 
-**(a)** if it is less than 0.5 g, to “0 g”; and
+**(a)** if it is less than 0.5 g, to “0 g”; and
 
-**(b)** if it is 0.5 g or more, to the nearest multiple of 1 g.
+
+
+**(b)** if it is 0.5 g or more, to the nearest multiple of 1 g.
+
+
 
 **(2)** The percentage is rounded off
 
-**(a)** if the amount is declared as “0 g”, to “0 %”; and
+**(a)** if the amount is declared as “0 g”, to “0%”; and
+
+
 
 **(b)** in all other cases, to the nearest multiple of 1%.
+
+
 
 </td>
 </tr>
@@ -2279,20 +2403,32 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 **(a)** in grams per serving of stated size; and
 
+
+
 **(b)** as a percentage of the daily value per serving of stated size.
+
+
 
 </td>
 <td>**(1)** The amount is rounded off
 
-**(a)** if it is less than 0.5 g, to “0 g”; and
+**(a)** if it is less than 0.5 g, to “0 g”; and
 
-**(b)** if it is 0.5 g or more, to the nearest multiple of 1 g.
+
+
+**(b)** if it is 0.5 g or more, to the nearest multiple of 1 g.
+
+
 
 **(2)** The percentage is rounded off
 
-**(a)** if the amount is declared as “0 g”, to “0 %”; and
+**(a)** if the amount is declared as “0 g”, to “0%”; and
+
+
 
 **(b)** in all other cases, to the nearest multiple of 1%.
+
+
 
 </td>
 </tr>
@@ -2303,9 +2439,13 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>The amount is expressed in grams per serving of stated size.</td>
 <td>The amount is rounded off
 
-**(a)** if it is less than 0.5 g, to “0 g”; and
+**(a)** if it is less than 0.5 g, to “0 g”; and
 
-**(b)** if it is 0.5 g or more, to the nearest multiple of 1 g.
+
+
+**(b)** if it is 0.5 g or more, to the nearest multiple of 1 g.
+
+
 
 </td>
 </tr>
@@ -2316,9 +2456,13 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>The amount is expressed in grams per serving of stated size.</td>
 <td>The amount is rounded off
 
-**(a)** if it is less than 0.5 g, to the nearest multiple of 0.1 g; and
+**(a)** if it is less than 0.5 g, to the nearest multiple of 0.1 g; an
 
-**(b)** if it is 0.5 g or more, to the nearest multiple of 1 g.
+
+
+**(b)** if it is 0.5 g or more, to the nearest multiple of 1 g.
+
+
 
 </td>
 </tr>
@@ -2326,64 +2470,64 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>13</td>
 <td>Amount of
 
+**(a)** vitamin A
+
+
+
+**(b)** vitamin C
+
+
+
+**(c)** calcium
+
+
+
+**(d)** iron
+
+
+
 </td>
-<td></td>
+<td>**(a)** “Vitamin A” or “Vit A”
+
+**(b)** “Vitamin C” or “Vit C”
+
+**(c)** “Calcium”
+
+**(d)** “Iron”
+
+</td>
 <td>The amount is expressed as a percentage of the daily value per serving of stated size.</td>
 <td>The percentage is rounded off
 
 **(a)** if it is less than 2%
 
-**(i)** if the product contains less than 1% of the daily value per reference amount and per serving of stated size, to “0 %”, and
+**(i)** if the product contains less than 1% of the daily value per reference amount and per serving of stated size, to “0 %”, and
 
-**(ii)** in all other cases, to “2 %”;
+
+
+**(ii)** in all other cases, to “2%”;
+
+
+
+
 
 **(b)** if it is 2% or more but not more than 10%, to the nearest multiple of 2%;
 
+
+
 **(c)** if it is more than 10% but not more than 50%, to the nearest multiple of 5%; and
+
+
 
 **(d)** if it is more than 50%, to the nearest multiple of 10%.
 
-</td>
-</tr>
-<tr>
-<td></td>
-<td>**(a)** vitamin A
 
-</td>
-<td>**(a)** “Vitamin A” or “Vit A”
-
-</td>
-</tr>
-<tr>
-<td></td>
-<td>**(b)** vitamin C
-
-</td>
-<td>**(b)** “Vitamin C” or “Vit C”
-
-</td>
-</tr>
-<tr>
-<td></td>
-<td>**(c)** calcium
-
-</td>
-<td>**(c)** “Calcium”
-
-</td>
-</tr>
-<tr>
-<td></td>
-<td>**(d)** iron
-
-</td>
-<td>**(d)** “Iron”
 
 </td>
 </tr>
 </table>
 
->  SOR/2003-11, s. 20.
+> SOR/2003-11, s. 20; SOR/2007-176, s. 5.
 
 
 
@@ -4995,60 +5139,60 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 **B.01.513** 
 
-- **(1)** No person shall, on the label of or in any advertisement for a food, make the statement or claim “light” or “léger” — including any phonetic rendering of that statement or claim — respecting a sensory characteristic of the food unless the following conditions are met:
-	- **(a)** if the statement or claim “light” or “léger” is made on the label of a food, the sensory characteristic shall be
+- **(1)** No person shall, on the label of or in any advertisement for a food, make the statement or claim “light” or “*léger*” — including any phonetic rendering of that statement or claim — respecting a sensory characteristic of the food unless the following conditions are met:
+	- **(a)** if the statement or claim “light” or “*léger*” is made on the label of a food, the sensory characteristic shall be
 		- **(i)** adjacent to, without any intervening printed, written or graphic material,
 			- **(A)** the statement or claim, if the statement or claim is made only once, or
 			- **(B)** the most prominent statement or claim on the principal display panel or, if none appears there, the most prominent statement or claim elsewhere on the label, if the statement or claim is made more than once, and
 		- **(ii)** shown in letters of at least the same size and prominence as
 			- **(A)** those of the statement or claim, if the statement or claim is made only once, or
 			- **(B)** those of the most prominent statement or claim on the principal display panel or, if none appears there, the most prominent statement or claim elsewhere on the label, if the statement or claim is made more than once;
-	- **(b)** if the statement or claim “light” or “léger” is made in an advertisement for a food, other than a radio or television advertisement, the sensory characteristic shall be
+	- **(b)** if the statement or claim “light” or “*léger*” is made in an advertisement for a food, other than a radio or television advertisement, the sensory characteristic shall be
 		- **(i)** adjacent to, without any intervening printed, written or graphic material, the statement or claim, if the statement or claim is made only once, or the most prominent statement or claim, if the statement or claim is made more than once, and
 		- **(ii)** shown in letters of at least the same size and prominence as those of the statement or claim, if the statement or claim is made only once, or the most prominent statement or claim, if the statement or claim is made more than once;
-	- **(c)** if the statement or claim “light” or “léger” is made in a radio advertisement or in the audio portion of a television advertisement, the sensory characteristic shall immediately precede or follow the statement or claim; and
-	- **(d)** if the statement or claim “light” or “léger” is made in the visual portion of a television advertisement, the sensory characteristic shall
+	- **(c)** if the statement or claim “light” or “*léger*” is made in a radio advertisement or in the audio portion of a television advertisement, the sensory characteristic shall immediately precede or follow the statement or claim; and
+	- **(d)** if the statement or claim “light” or “*léger*” is made in the visual portion of a television advertisement, the sensory characteristic shall
 		- **(i)** appear concurrently with and for the same amount of time as the statement or claim,
 		- **(ii)** be adjacent to, without any intervening printed, written or graphic material, the statement or claim, if the statement or claim is made only once, or the most prominent statement or claim, if the statement or claim is made more than once, and
 		- **(iii)** be shown in letters of at least the same size and prominence as those of the statement or claim, if the statement or claim is made only once, or the most prominent statement or claim, if the statement or claim is made more than once.
 
 - **(2)** Subsection (1) does not apply to
-	- **(a)** the English statement or claim “light” when used in accordance with subsection 12(1) of the [Maple Products Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/201-300/C.R.C.,%20c.%20289.md); or
-	- **(b)** the statement or claim “light” or “léger” when used with respect to rum.
+	- **(a)** the English statement or claim “light” when used in accordance with subsection 12(1) of the [Maple Products Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/201-300/C.R.C.,%20c.%20289.md); or
+	- **(b)** the statement or claim “light” or “*léger*” when used with respect to rum.
 #### TABLE
 <table>
 <tr>
-<th></th>
+<th>Item</th>
 <th>Column 1</th>
 <th>Column 2</th>
 <th>Column 3</th>
 <th>Column 4</th>
 </tr>
 <tr>
-<th>Item</th>
 <th>Subject</th>
 <th>Conditions — Food</th>
 <th>Conditions — Label or Advertisement</th>
 <th>Statement or Claim</th>
 </tr>
 <tr>
-<th> </th>
-</tr>
-<tr>
 <td>1</td>
 <td>Free of energy</td>
-<td>The food provides less than 5 Calories or 21 kilojoules per reference amount and serving of stated size.</td>
+<td>The food provides less than 5 Calories or 21 kilojoules per reference amount and serving of stated size.</td>
 <td></td>
-<td>“energy-free”, “free of energy”, “no energy”, “0 energy”, “zero energy”, “without energy”, “contains no energy”, “Calorie-free”, “free of Calories”, “no Calories”, “0 Calories”, “zero Calories”, “without Calories” or “contains no Calories”</td>
+<td>“energy-free”, “free of energy”, “no energy”, “0 energy”, “zero energy”, “without energy”, “contains no energy”, “Calorie-free”, “free of Calories”, “no Calories”, “0 Calories”, “zero Calories”, “without Calories” or “contains no Calories”</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Low in energy</td>
 <td>The food provides
 
-**(a)** 40 Calories or 167 kilojoules or less per reference amount and serving of stated size and, if the reference amount is 30 g or 30 mL or less, per 50 g; or
+**(a)** 40 Calories or 167 kilojoules or less per reference amount and serving of stated size and, in the case of a food other than a table-top sweetener, if the reference amount is 30 g or 30 mL or less, per 50 g; or
 
-**(b)** 120 Calories or 500 kilojoules or less per 100 g, if the food is a prepackaged meal.
+
+
+**(b)** 120 Calories or 500 kilojoules or less per 100 g, if the food is a prepackaged meal.
+
+
 
 </td>
 <td></td>
@@ -5061,16 +5205,28 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 **(a)** per reference amount of the food, than the reference amount of the similar reference food; or
 
-**(b)** per 100 g, than 100 g of the similar reference food, if the food is a prepackaged meal.
 
-**(2)** The similar reference food does not meet the conditions set out in column 2 of item 2 for the subject “low in energy” set out in column 1.
+
+**(b)** per 100 g, than 100 g of the similar reference food, if the food is a prepackaged meal.
+
+
+
+**(2)** The similar reference food does not meet the conditions set out in column 2 of item 2 for the subject “low in energy” set out in column 1.
 
 </td>
-<td>The following are identified:**(a)** the similar reference food;
+<td>The following are identified:
+
+**(a)** the similar reference food; 
+
+
 
 **(b)** the amounts of the food and the similar reference food being compared, if those amounts are not equal; and
 
+
+
 **(c)** the difference in energy value compared to the similar reference food, per serving of stated size, expressed as a percentage or fraction or in Calories.
+
+
 
 </td>
 <td>“reduced energy”, “reduced in energy”, “energy-reduced”, “less energy”, “lower energy”, “lower in energy”, “reduced Calorie”, “reduced in Calories”, “Calorie-reduced”, “less Calories”, “lower Calories”, “lower in Calories” or “fewer Calories”</td>
@@ -5082,16 +5238,28 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 **(a)** per reference amount of the food, than the reference amount of the reference food of the same food group; or
 
-**(b)** per 100 g, than 100 g of the reference food of the same food group, if the food is a prepackaged meal.
 
-**(2)** The reference food of the same food group does not meet the conditions set out in column 2 of item 2 for the subject “low in energy” set out in column 1.
+
+**(b)** per 100 g, than 100 g of the reference food of the same food group, if the food is a prepackaged meal.
+
+
+
+**(2)** The reference food of the same food group does not meet the conditions set out in column 2 of item 2 for the subject “low in energy” set out in column 1.
 
 </td>
-<td>The following are identified:**(a)** the reference food of the same food group;
+<td>The following are identified:
+
+**(a)** the reference food of the same food group;
+
+
 
 **(b)** the amounts of the food and the reference food of the same food group being compared, if those amounts are not equal; and
 
+
+
 **(c)** the difference in energy value compared to the reference food of the same food group, per serving of stated size, expressed as a percentage or fraction or in Calories.
+
+
 
 </td>
 <td>“less energy”, “lower energy”, “lower in energy”, “less Calories”, “lower Calorie”, “lower in Calories” or “fewer Calories”</td>
@@ -5099,7 +5267,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <tr>
 <td>5</td>
 <td>Source of energy</td>
-<td>The food provides at least 100 Calories or 420 kilojoules per reference amount and serving of stated size.</td>
+<td>The food provides at least 100 Calories or 420 kilojoules per reference amount and serving of stated size.</td>
 <td></td>
 <td>“source of energy”, “contains energy”, “provides energy”, “source of Calories”, “contains Calories” or “provides Calories”</td>
 </tr>
@@ -5110,16 +5278,26 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 **(a)** per reference amount of the food, than the reference amount of the reference food of the same food group or the similar reference food; or
 
-**(b)** per 100 g, than 100 g of the reference food of the same food group or the similar reference food, if the food is a prepackaged meal.
+
+
+**(b)** per 100 g, than 100 g of the reference food of the same food group or the similar reference food, if the food is a prepackaged meal.
+
+
 
 </td>
 <td>The following are identified:
 
 **(a)** the reference food of the same food group or the similar reference food;
 
+
+
 **(b)** the amounts of the food and the reference food of the same food group or the similar reference food being compared, if those amounts are not equal; and
 
+
+
 **(c)** the difference in energy value compared to the reference food of the same food group or the similar reference food, per serving of stated size, expressed as a percentage or fraction or in Calories.
+
+
 
 </td>
 <td>“more Calories”, “contains more Calories”, “higher Calories” or “higher in Calories”</td>
@@ -5127,18 +5305,22 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <tr>
 <td>7</td>
 <td>Low in protein</td>
-<td>The food contains no more than 1 g of protein per 100 g of the food.</td>
+<td>The food contains no more than 1 g of protein per 100 g of the food.</td>
 <td></td>
 <td>“low protein”, “low in protein”, “low source of protein”, “contains only (number) g of protein per serving” or “contains less than (number) g of protein per serving”</td>
 </tr>
 <tr>
 <td>8</td>
 <td>Source of protein</td>
-<td>The food has a protein rating of 20 or more, as determined by official method FO-1, Determination of Protein Rating, October 15, 1981, 
+<td>The food has a protein rating of 20 or more, as determined by official method FO-1, Determination of Protein Rating, October 15, 1981,
 
 **(a)** per reasonable daily intake; or
 
-**(b)** per 30 g combined with 125 mL of milk, if the food is a breakfast cereal.
+
+
+**(b)** per 30 g combined with 125 mL of milk, if the food is a breakfast cereal.
+
+
 
 </td>
 <td></td>
@@ -5147,11 +5329,15 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <tr>
 <td>9</td>
 <td>Excellent source of protein</td>
-<td>The food has a protein rating of 40 or more, as determined by official method FO-1, Determination of Protein Rating, October 15, 1981,
+<td>The food has a protein rating of 40 or more, as determined by official method FO-1, Determination of Protein Rating, October 15, 1981,
 
 **(a)** per reasonable daily intake; or
 
-**(b)** per 30 g combined with 125 mL of milk, if the food is a breakfast cereal.
+
+
+**(b)** per 30 g combined with 125 mL of milk, if the food is a breakfast cereal.
+
+
 
 </td>
 <td></td>
@@ -5162,22 +5348,36 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>More protein</td>
 <td>The food
 
-**(a)** has a protein rating of 20 or more, as determined by official method FO-1, Determination of Protein Rating, October 15, 1981, 
+**(a)** has a protein rating of 20 or more, as determined by official method FO-1, Determination of Protein Rating, October 15, 1981,
 
 **(i)** per reasonable daily intake, or
 
-**(ii)** per 30 g combined with 125 mL of milk, if the food is a breakfast cereal; and
 
-**(b)** contains at least 25% more protein, totalling at least 7 g more, per reasonable daily intake than the reference food of the same food group or the similar reference food.
+
+**(ii)** per 30 g combined with 125 mL of milk, if the food is a breakfast cereal; and
+
+
+
+
+
+**(b)** contains at least 25% more protein, totalling at least 7 g more, per reasonable daily intake than the reference food of the same food group or the similar reference food.
+
+
 
 </td>
 <td>The following are identified:
 
 **(a)** the reference food of the same food group or the similar reference food;
 
+
+
 **(b)** the amounts of the food and the reference food of the same food group or the similar reference food being compared, if those amounts are not equal; and
 
+
+
 **(c)** the difference in protein compared to the reference food of the same food group or the similar reference food, per serving of stated size, expressed as a percentage or fraction or in grams.
+
+
 
 </td>
 <td>“more protein”, “higher protein” or “higher in protein”</td>
@@ -5187,22 +5387,30 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>Free of fat</td>
 <td>The food contains
 
-**(a)** less than 0.5 g of fat per reference amount and serving of stated size; or
+**(a)** less than 0.5 g of fat per reference amount and serving of stated size; or
 
-**(b)** less than 0.5 g of fat per serving of stated size, if the food is a prepackaged meal.
+
+
+**(b)** less than 0.5 g of fat per serving of stated size, if the food is a prepackaged meal.
+
+
 
 </td>
 <td></td>
-<td>“fat-free”, “free of fat”, “no fat”, “0 fat”, “zero fat”, “without fat”, “contains no fat” or “non-fat”</td>
+<td>“fat-free”, “free of fat”, “no fat”, “0 fat”, “zero fat”, “without fat”, “contains no fat” or “non-fat”</td>
 </tr>
 <tr>
 <td>12</td>
 <td>Low in fat</td>
 <td>The food contains
 
-**(a)** 3 g or less of fat per reference amount and serving of stated size and, if the reference amount is 30 g or 30 mL or less, per 50 g; or
+**(a)** 3 g or less of fat per reference amount and serving of stated size and, if the reference amount is 30 g or 30 mL or less, per 50 g; or
 
-**(b)** 3 g or less of fat per 100 g with 30% or less of the energy from fat, if the food is a prepackaged meal.
+
+
+**(b)** 3 g or less of fat per 100 g with 30% or less of the energy from fat, if the food is a prepackaged meal.
+
+
 
 </td>
 <td></td>
@@ -5215,18 +5423,28 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 **(a)** per reference amount of the food, than the reference amount of the similar reference food; or
 
-**(b)** per 100 g, than 100 g of the similar reference food, if the food is a prepackaged meal.
 
-**(2)** The similar reference food does not meet the conditions set out in column 2 of item 12 for the subject “low in fat” set out in column 1.
+
+**(b)** per 100 g, than 100 g of the similar reference food, if the food is a prepackaged meal.
+
+
+
+**(2)** The similar reference food does not meet the conditions set out in column 2 of item 12 for the subject “low in fat” set out in column 1.
 
 </td>
 <td>The following are identified:
 
 **(a)** the similar reference food;
 
+
+
 **(b)** the amounts of the food and the similar reference food being compared, if those amounts are not equal; and
 
+
+
 **(c)** the difference in fat compared to the similar reference food, per serving of stated size, expressed as a percentage or fraction or in grams.
+
+
 
 </td>
 <td>“reduced fat”, “reduced in fat”, “fat-reduced”, “less fat”, “lower fat” or “lower in fat”</td>
@@ -5238,18 +5456,28 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 **(a)** per reference amount of the food, than the reference amount of the reference food of the same food group; or
 
-**(b)** per 100 g, than 100 g of the reference food of the same food group, if the food is a prepackaged meal.
 
-**(2)** The reference food of the same food group does not meet the conditions set out in column 2 of item 12 for the subject “low in fat” set out in column 1.
+
+**(b)** per 100 g, than 100 g of the reference food of the same food group, if the food is a prepackaged meal.
+
+
+
+**(2)** The reference food of the same food group does not meet the conditions set out in column 2 of item 12 for the subject “low in fat” set out in column 1.
 
 </td>
 <td>The following are identified:
 
 **(a)** the reference food of the same food group;
 
+
+
 **(b)** the amounts of the food and the reference food of the same food group being compared, if those amounts are not equal; and
 
+
+
 **(c)** the difference in fat compared to the reference food of the same food group, per serving of stated size, expressed as a percentage or fraction or in grams.
+
+
 
 </td>
 <td>“less fat”, “lower fat” or “lower in fat”</td>
@@ -5259,11 +5487,17 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>100% fat-free</td>
 <td>The food
 
-**(a)** contains less than 0.5 g of fat per 100 g;
+**(a)** contains less than 0.5 g of fat per 100 g;
+
+
 
 **(b)** contains no added fat; and
 
-**(c)** meets the conditions set out in column 2 of item 11 for the subject “free of fat” set out in column 1.
+
+
+**(c)** meets the conditions set out in column 2 of item 11 for the subject “free of fat” set out in column 1.
+
+
 
 </td>
 <td></td>
@@ -5272,16 +5506,16 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <tr>
 <td>16</td>
 <td>(Percentage) fat-free</td>
-<td>The food meets the conditions set out in column 2 of item 12 for the subject “low in fat” set out in column 1.</td>
+<td>The food meets the conditions set out in column 2 of item 12 for the subject “low in fat” set out in column 1.</td>
 <td>One of the following statements or claims is stated: “low fat” or “low in fat”.</td>
 <td>“(percentage) fat-free” or “(percentage) free of fat”</td>
 </tr>
 <tr>
 <td>17</td>
 <td>No added fat</td>
-<td>**(1)** The food contains no added fats or oils set out in Division 9, or added butter or ghee, or ingredients that contain added fats or oils, or butter or ghee.
+<td>**(1)** The food contains no added fats or oils set out in Division 9, or added butter or ghee, or ingredients that contain added fats or oils, or butter or ghee.
 
-**(2)** The similar reference food contains added fats or oils set out in Division 9, or added butter or ghee.
+**(2)** The similar reference food contains added fats or oils set out in Division 9, or added butter or ghee.
 
 </td>
 <td></td>
@@ -5292,9 +5526,13 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>Free of saturated fatty acids</td>
 <td>The food contains
 
-**(a)** less than 0.2 g saturated fatty acids and less than 0.2 g *trans* fatty acids per reference amount and serving of stated size; or
+**(a)** less than 0.2 g saturated fatty acids and less than 0.2 g *trans* fatty acids per reference amount and serving of stated size; or
 
-**(b)** less than 0.2 g saturated fatty acids and less than 0.2 g *trans* fatty acids per serving of stated size, if the food is a prepackaged meal.
+
+
+**(b)** less than 0.2 g saturated fatty acids and less than 0.2 g *trans* fatty acids per serving of stated size, if the food is a prepackaged meal.
+
+
 
 </td>
 <td></td>
@@ -5303,11 +5541,15 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <tr>
 <td>19</td>
 <td>Low in saturated fatty acids</td>
-<td>**(1)** The food contains 2 g or less of saturated fatty acids and *trans* fatty acids combined
+<td>**(1)** The food contains 2 g or less of saturated fatty acids and *trans* fatty acids combined
 
 **(a)** per reference amount and serving of stated size; or
 
-**(b)** per 100 g, if the food is a prepackaged meal.
+
+
+**(b)** per 100 g, if the food is a prepackaged meal.
+
+
 
 **(2)** The food provides 15% or less energy from the sum of saturated fatty acids and *trans* fatty acids.
 
@@ -5322,18 +5564,28 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 **(a)** per reference amount of the food, than the reference amount of the similar reference food; or
 
-**(b)** per 100 g, than 100 g of the similar reference food, if the food is a prepackaged meal.
 
-**(2)** The similar reference food does not meet the conditions set out in column 2 of item 19 for the subject “low in saturated fatty acids” set out in column 1.
+
+**(b)** per 100 g, than 100 g of the similar reference food, if the food is a prepackaged meal.
+
+
+
+**(2)** The similar reference food does not meet the conditions set out in column 2 of item 19 for the subject “low in saturated fatty acids” set out in column 1.
 
 </td>
 <td>The following are identified:
 
 **(a)** the similar reference food;
 
+
+
 **(b)** the amounts of the food and the similar reference food being compared, if those amounts are not equal; and
 
+
+
 **(c)** the difference in saturated fatty acids compared to the similar reference food, per serving of stated size, expressed as a percentage or fraction or in grams.
+
+
 
 </td>
 <td>“reduced saturated fatty acids”, “reduced in saturated fatty acids”, “saturated fatty acids-reduced”, “less saturated fatty acids”, “lower saturated fatty acids”, “lower in saturated fatty acids”, “fewer saturated fatty acids”, “reduced saturated fat”, “reduced in saturated fat”, “saturated fat-reduced”, “less saturated fat”, “lower saturated fat”, “lower in saturated fat”, “reduced saturates”, “reduced in saturates”, “saturates-reduced”, “less saturates”, “lower saturates”, “lower in saturates” or “fewer saturates”</td>
@@ -5345,18 +5597,28 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 **(a)** per reference amount of the food, than the reference amount of the reference food of the same food group; or
 
-**(b)** per 100 g, than 100 g of the reference food of the same food group, if the food is a prepackaged meal.
 
-**(2)** The reference food of the same food group does not meet the conditions set out in column 2 of item 19 for the subject “low in saturated fatty acids” set out in column 1.
+
+**(b)** per 100 g, than 100 g of the reference food of the same food group, if the food is a prepackaged meal.
+
+
+
+**(2)** The reference food of the same food group does not meet the conditions set out in column 2 of item 19 for the subject “low in saturated fatty acids” set out in column 1.
 
 </td>
 <td>The following are identified:
 
 **(a)** the reference food of the same food group;
 
+
+
 **(b)** the amounts of the food and the reference food of the same food group being compared, if those amounts are not equal; and
 
+
+
 **(c)** the difference in saturated fatty acids compared to the reference food of the same food group, per serving of stated size, expressed as a percentage or fraction or in grams.
+
+
 
 </td>
 <td>“less saturated fatty acids”, “lower saturated fatty acids”, “lower in saturated fatty acids”, “fewer saturated fatty acids”, “less saturated fat”, “lower saturated fat”, “lower in saturated fat”, “less saturates”, “lower saturates”, “lower in saturates” or “fewer saturates”</td>
@@ -5366,13 +5628,21 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>Free of *trans* fatty acids</td>
 <td>The food
 
-**(a)** contains less than 0.2 g of *trans* fatty acids
+**(a)** contains less than 0.2 g of *trans* fatty acids
 
 **(i)** per reference amount and serving of stated size, or
 
+
+
 **(ii)** per serving of stated size, if the food is a prepackaged meal; and
 
-**(b)** meets the conditions set out in column 2 of item 19 for the subject “low in saturated fatty acids” set out in column 1.
+
+
+
+
+**(b)** meets the conditions set out in column 2 of item 19 for the subject “low in saturated fatty acids” set out in column 1.
+
+
 
 </td>
 <td></td>
@@ -5385,18 +5655,28 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 **(a)** per reference amount of the food, than the reference amount of the similar reference food; or
 
-**(b)** per 100 g, than 100 g of the similar reference food, if the food is a prepackaged meal.
 
-**(2)** The similar reference food does not meet the conditions set out in column 2 of item 19 for the subject “low in saturated fatty acids” set out in column 1.
+
+**(b)** per 100 g, than 100 g of the similar reference food, if the food is a prepackaged meal.
+
+
+
+**(2)** The similar reference food does not meet the conditions set out in column 2 of item 19 for the subject “low in saturated fatty acids” set out in column 1.
 
 </td>
 <td>The following are identified:
 
 **(a)** the similar reference food;
 
+
+
 **(b)** the amounts of the food and the similar reference food being compared, if those amounts are not equal; and
 
+
+
 **(c)** the difference in *trans* fatty acids compared to the similar reference food, per serving of stated size, expressed as a percentage or fraction or in grams.
+
+
 
 </td>
 <td>“reduced trans”, “reduced in trans”, “trans-reduced”, “reduced trans fatty acids”, “reduced in trans fatty acids”, “trans fatty acids-reduced”, “less trans fatty acids”, “lower trans fatty acids”, “lower in trans fatty acids”, “fewer trans fatty acids”, “reduced trans fat”, “reduced in trans fat”, “trans fat-reduced”, “less trans fat”, “lower trans fat” or “lower in trans fat”</td>
@@ -5408,18 +5688,28 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 **(a)** per reference amount of the food, than the reference amount of the reference food of the same food group; or
 
-**(b)** per 100 g, than 100 g of the reference food of the same food group, if the food is a prepackaged meal.
 
-**(2)** The reference food of the same food group does not meet the conditions set out in column 2 of item 19 for the subject “low in saturated fatty acids” set out in column 1.
+
+**(b)** per 100 g, than 100 g of the reference food of the same food group, if the food is a prepackaged meal.
+
+
+
+**(2)** The reference food of the same food group does not meet the conditions set out in column 2 of item 19 for the subject “low in saturated fatty acids” set out in column 1.
 
 </td>
 <td>The following are identified:
 
 **(a)** the reference food of the same food group;
 
+
+
 **(b)** the amounts of the food and the reference food of the same food group being compared, if those amounts are not equal; and
 
+
+
 **(c)** the difference in *trans* fatty acids compared to the reference food of the same food group, per serving of stated size, expressed as a percentage or fraction or in grams.
+
+
 
 </td>
 <td>“less trans fatty acids”, “lower trans fatty acids”, “lower in trans fatty acids”, “fewer trans fatty acids”, “less trans fat”, “lower trans fat”, “lower in trans fat”, “less trans”, “lower trans” or “lower in trans”</td>
@@ -5431,7 +5721,11 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 **(a)** 0.3 g or more of omega-3 polyunsaturated fatty acids per reference amount and serving of stated size; or
 
-**(b)** 0.3 g or more of omega-3 polyunsaturated fatty acids per 100 g, if the food is a prepackaged meal.
+
+
+**(b)** 0.3 g or more of omega-3 polyunsaturated fatty acids per 100 g, if the food is a prepackaged meal.
+
+
 
 </td>
 <td></td>
@@ -5442,9 +5736,13 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>Source of omega-6 poly-unsaturated fatty acids</td>
 <td>The food contains
 
-**(a)** 2 g or more of omega-6 polyunsaturated fatty acids per reference amount and serving of stated size; or
+**(a)** 2 g or more of omega-6 polyunsaturated fatty acids per reference amount and serving of stated size; or
 
-**(b)** 2 g or more of omega-6 polyunsaturated fatty acids per 100 g, if the food is a prepackaged meal.
+
+
+**(b)** 2 g or more of omega-6 polyunsaturated fatty acids per 100 g, if the food is a prepackaged meal.
+
+
 
 </td>
 <td></td>
@@ -5455,13 +5753,21 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>Free of cholesterol</td>
 <td>The food
 
-**(a)** contains less than 2 mg of cholesterol
+**(a)** contains less than 2 mg of cholesterol
 
 **(i)** per reference amount and serving of stated size, or
 
+
+
 **(ii)** per serving of stated size, if the food is a prepackaged meal; and
 
-**(b)** meets the conditions set out in column 2 of item 19 for the subject “low in saturated fatty acids” set out in column 1.
+
+
+
+
+**(b)** meets the conditions set out in column 2 of item 19 for the subject “low in saturated fatty acids” set out in column 1.
+
+
 
 </td>
 <td></td>
@@ -5472,13 +5778,21 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>Low in cholesterol</td>
 <td>The food
 
-**(a)** contains 20 mg or less of cholesterol per
+**(a)** contains 20 mg or less of cholesterol per
 
-**(i)** reference amount and serving of stated size and, if the reference amount is 30 g or 30 mL or less, per 50 g, or
+**(i)** reference amount and serving of stated size and, if the reference amount is 30 g or 30 mL or less, per 50 g, or
 
-**(ii)** per 100 g, if the food is a prepackaged meal; and
 
-**(b)** meets the conditions set out in column 2 of item 19 for the subject “low in saturated fatty acids” set out in column 1.
+
+**(ii)** per 100 g, if the food is a prepackaged meal; and
+
+
+
+
+
+**(b)** meets the conditions set out in column 2 of item 19 for the subject “low in saturated fatty acids” set out in column 1.
+
+
 
 </td>
 <td></td>
@@ -5491,20 +5805,30 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 **(a)** per reference amount of the food, than the reference amount of the similar reference food; or
 
-**(b)** per 100 g, than 100 g of the similar reference food, if the food is a prepackaged meal.
 
-**(2)** The similar reference food does not meet the conditions set out in column 2 of item 28 for the subject “low in cholesterol” set out in column 1.
 
-**(3)** The food meets the conditions set out in column 2 of item 19 for the subject “low in saturated fatty acids” set out in column 1.
+**(b)** per 100 g, than 100 g of the similar reference food, if the food is a prepackaged meal.
+
+
+
+**(2)** The similar reference food does not meet the conditions set out in column 2 of item 28 for the subject “low in cholesterol” set out in column 1.
+
+**(3)** The food meets the conditions set out in column 2 of item 19 for the subject “low in saturated fatty acids” set out in column 1.
 
 </td>
 <td>The following are identified:
 
 **(a)** the similar reference food;
 
+
+
 **(b)** the amounts of the food and the similar reference food being compared, if those amounts are not equal; and
 
+
+
 **(c)** the difference in cholesterol compared to the similar reference food, per serving of stated size, expressed as a percentage or fraction or in milligrams.
+
+
 
 </td>
 <td>“reduced cholesterol”, “reduced in cholesterol”, “cholesterol-reduced”, “less cholesterol”, “lower cholesterol” or “lower in cholesterol”</td>
@@ -5516,20 +5840,30 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 **(a)** per reference amount of the food, than the reference amount of the reference food of the same food group; or
 
-**(b)** per 100 g, than 100 g of the reference food of the same food group, if the food is a prepackaged meal.
 
-**(2)** The reference food of the same food group does not meet the conditions set out in column 2 of item 28 for the subject “low in cholesterol” set out in column 1.
 
-**(3)** The food meets the conditions set out in column 2 of item 19 for the subject “low in saturated fatty acids” set out in column 1.
+**(b)** per 100 g, than 100 g of the reference food of the same food group, if the food is a prepackaged meal.
+
+
+
+**(2)** The reference food of the same food group does not meet the conditions set out in column 2 of item 28 for the subject “low in cholesterol” set out in column 1.
+
+**(3)** The food meets the conditions set out in column 2 of item 19 for the subject “low in saturated fatty acids” set out in column 1.
 
 </td>
 <td>The following are identified:
 
 **(a)** the reference food of the same food group;
 
+
+
 **(b)** the amounts of the food and the reference food of the same food group being compared, if those amounts are not equal; and
 
+
+
 **(c)** the difference in cholesterol compared to the reference food of the same food group, per serving of stated size, expressed as a percentage or fraction or in milligrams.
+
+
 
 </td>
 <td>“less cholesterol”, “lower cholesterol” or “lower in cholesterol”</td>
@@ -5539,9 +5873,13 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>Free of sodium or salt</td>
 <td>The food contains
 
-**(a)** less than 5 mg of sodium per reference amount and serving of stated size; or
+**(a)** less than 5 mg of sodium per reference amount and serving of stated size; or
 
-**(b)** less than 5 mg of sodium per serving of stated size, if the food is a prepackaged meal.
+
+
+**(b)** less than 5 mg of sodium per serving of stated size, if the food is a prepackaged meal.
+
+
 
 </td>
 <td></td>
@@ -5552,9 +5890,13 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>Low in sodium or salt</td>
 <td>The food contains
 
-**(a)** 140 mg or less of sodium per reference amount and serving of stated size and, if the reference amount is 30 g or 30 mL or less, per 50 g; or
+**(a)** 140 mg or less of sodium per reference amount and serving of stated size and, if the reference amount is 30 g or 30 mL or less, per 50 g; or
 
-**(b)** 140 mg or less of sodium per 100 g, if the food is a prepackaged meal.
+
+
+**(b)** 140 mg or less of sodium per 100 g, if the food is a prepackaged meal.
+
+
 
 </td>
 <td></td>
@@ -5567,18 +5909,28 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 **(a)** per reference amount of the food, than the reference amount of the similar reference food; or
 
-**(b)** per 100 g, than 100 g of the similar reference food, if the food is a prepackaged meal.
 
-**(2)** The similar reference food does not meet the conditions set out in column 2 of item 32 for the subject “low in sodium or salt” set out in column 1.
+
+**(b)** per 100 g, than 100 g of the similar reference food, if the food is a prepackaged meal.
+
+
+
+**(2)** The similar reference food does not meet the conditions set out in column 2 of item 32 for the subject “low in sodium or salt” set out in column 1.
 
 </td>
 <td>The following are identified:
 
 **(a)** the similar reference food;
 
+
+
 **(b)** the amounts of the food and the similar reference food being compared, if those amounts are not equal; and
 
+
+
 **(c)** the difference in sodium content compared to the similar reference food, per serving of stated size, expressed as a percentage or fraction or in milligrams.
+
+
 
 </td>
 <td>“reduced sodium”, “reduced in sodium”, “sodium-reduced”, “less sodium”, “lower sodium”, “lower in sodium”, “reduced salt”, “reduced in salt”, “salt-reduced”, “less salt”, “lower salt” or “lower in salt”</td>
@@ -5590,18 +5942,28 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 **(a)** per reference amount of the food, than the reference amount of the reference food of the same food group; or
 
-**(b)** per 100 g, than 100 g of the reference food of the same food group, if the food is a prepackaged meal.
 
-**(2)** The reference food of the same food group does not meet the conditions set out in column 2 of item 32 for the subject “low in sodium or salt” set out in column 1.
+
+**(b)** per 100 g, than 100 g of the reference food of the same food group, if the food is a prepackaged meal.
+
+
+
+**(2)** The reference food of the same food group does not meet the conditions set out in column 2 of item 32 for the subject “low in sodium or salt” set out in column 1.
 
 </td>
 <td>The following are identified:
 
 **(a)** the reference food of the same food group;
 
+
+
 **(b)** the amounts of the food and the reference food of the same food group being compared, if those amounts are not equal; and
 
+
+
 **(c)** the difference in sodium content compared to the reference food of the same food group, per serving of stated size, expressed as a percentage or fraction or in milligrams.
+
+
 
 </td>
 <td>“less sodium”, “lower sodium”, “lower in sodium”, “less salt”, “lower salt” or “lower in salt”</td>
@@ -5611,7 +5973,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>No added sodium or salt</td>
 <td>**(1)** The food contains no added salt, other sodium salts or ingredients that contain sodium that functionally substitute for added salt.
 
-**(2)** The similar reference food does not meet the conditions set out in column 2 of item 32 for the subject “low in sodium or salt” set out in column 1 and contains added salt or other sodium salts.
+**(2)** The similar reference food does not meet the conditions set out in column 2 of item 32 for the subject “low in sodium or salt” set out in column 1 and contains added salt or other sodium salts.
 
 </td>
 <td></td>
@@ -5622,16 +5984,22 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>Lightly salted</td>
 <td>**(1)** The food contains at least 50% less added sodium than the sodium added to the similar reference food.
 
-**(2)** The similar reference food does not meet the conditions set out in column 2 of item 32 for the subject “low in sodium or salt” set out in column 1.
+**(2)** The similar reference food does not meet the conditions set out in column 2 of item 32 for the subject “low in sodium or salt” set out in column 1.
 
 </td>
 <td>The following are identified:
 
 **(a)** the similar reference food;
 
+
+
 **(b)** the amounts of the food and the similar reference food being compared, if those amounts are not equal; and
 
+
+
 **(c)** the difference in sodium content compared to the similar reference food, per serving of stated size, expressed as a percentage or fraction or in milligrams.
+
+
 
 </td>
 <td>“lightly salted” or “salted lightly”</td>
@@ -5641,9 +6009,13 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <td>Free of sugars</td>
 <td>The food
 
-**(a)** contains less than 0.5 g of sugars per reference amount and serving of stated size; and
+**(a)** contains less than 0.5 g of sugars per reference amount and serving of stated size; and
 
-**(b)** with the exception of chewing gum, meets the conditions set out in column 2 of item 1 for the subject “free of energy” set out in column 1.
+
+
+**(b)** with the exception of chewing gum, meets the conditions set out in column 2 of item 1 for the subject “free of energy” set out in column 1.
+
+
 
 </td>
 <td></td>
@@ -5652,20 +6024,30 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <tr>
 <td>38</td>
 <td>Reduced in sugars</td>
-<td>The food is processed, formulated, reformulated or otherwise modified so that it contains at least 25% less sugars, totalling at least 5 g less,
+<td>The food is processed, formulated, reformulated or otherwise modified so that it contains at least 25% less sugars, totalling at least 5 g less,
 
 **(a)** per reference amount of the food, than the reference amount of the similar reference food; or
 
-**(b)** per 100 g, than 100 g of the similar reference food, if the food is a prepackaged meal.
+
+
+**(b)** per 100 g, than 100 g of the similar reference food, if the food is a prepackaged meal.
+
+
 
 </td>
 <td>The following are identified:
 
 **(a)** the similar reference food;
 
+
+
 **(b)** the amounts of the food and the similar reference food being compared, if those amounts are not equal; and
 
+
+
 **(c)** the difference in sugars compared to the similar reference food, per serving of stated size, expressed as a percentage or fraction or in grams.
+
+
 
 </td>
 <td>“reduced sugar”, “reduced in sugar”, “sugar-reduced”, “less sugar”, “lower sugar” or “lower in sugar”</td>
@@ -5673,20 +6055,30 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <tr>
 <td>39</td>
 <td>Lower in sugars</td>
-<td>The food contains at least 25% less sugars, totalling at least 5 g less,
+<td>The food contains at least 25% less sugars, totalling at least 5 g less,
 
 **(a)** per reference amount of the food, than the reference amount of the reference food of the same food group; or
 
-**(b)** per 100 g, than 100 g of the reference food of the same food group, if the food is a prepackaged meal.
+
+
+**(b)** per 100 g, than 100 g of the reference food of the same food group, if the food is a prepackaged meal.
+
+
 
 </td>
 <td>The following are identified:
 
 **(a)** the reference food of the same food group;
 
+
+
 **(b)** the amounts of the food and the reference food of the same food group being compared, if those amounts are not equal; and
 
+
+
 **(c)** the difference in sugars compared to the reference food of the same food group, per serving of stated size, expressed as a percentage or fraction or in grams.
+
+
 
 </td>
 <td>“lower sugar”, “lower in sugar” or “less sugar”</td>
@@ -5707,13 +6099,17 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <tr>
 <td>41</td>
 <td>Source of fibre</td>
-<td>**(1)** The food contains 2 g or more
+<td>**(1)** The food contains 2 g or more
 
 **(a)** of fibre per reference amount and serving of stated size, if no fibre or fibre source is identified in the statement or claim; or
 
+
+
 **(b)** of each identified fibre or fibre from an identified fibre source per reference amount and serving of stated size, if a fibre or fibre source is identified in the statement or claim.
 
-**(2)** The food contains at least one ingredient that meets one of the conditions set out in subsection (1), if the food is a prepackaged meal.
+
+
+**(2)** The food contains at least one ingredient that meets one of the conditions set out in subsection (1), if the food is a prepackaged meal.
 
 </td>
 <td></td>
@@ -5722,13 +6118,17 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <tr>
 <td>42</td>
 <td>High source of fibre</td>
-<td>**(1)** The food contains 4 g or more
+<td>**(1)** The food contains 4 g or more
 
 **(a)** of fibre per reference amount and serving of stated size, if no fibre or fibre source is identified in the statement or claim; or
 
+
+
 **(b)** of each identified fibre or fibre from an identified fibre source per reference amount and serving of stated size, if a fibre or fibre source is identified in the statement or claim.
 
-**(2)** The food contains at least one ingredient that meets one of the conditions set out in subsection (1), if the food is a prepackaged meal.
+
+
+**(2)** The food contains at least one ingredient that meets one of the conditions set out in subsection (1), if the food is a prepackaged meal.
 
 </td>
 <td></td>
@@ -5737,13 +6137,17 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <tr>
 <td>43</td>
 <td>Very high source of fibre</td>
-<td>**(1)** The food contains 6 g or more
+<td>**(1)** The food contains 6 g or more
 
 **(a)** of fibre per reference amount and serving of stated size, if no fibre or fibre source is identified in the statement or claim; or
 
+
+
 **(b)** of each identified fibre or fibre from an identified fibre source per reference amount and serving of stated size, if a fibre or fibre source is identified in the statement or claim.
 
-**(2)** The food contains at least one ingredient that meets one of the conditions set out in subsection (1), if the food is a prepackaged meal.
+
+
+**(2)** The food contains at least one ingredient that meets one of the conditions set out in subsection (1), if the food is a prepackaged meal.
 
 </td>
 <td></td>
@@ -5752,26 +6156,40 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <tr>
 <td>44</td>
 <td>More fibre</td>
-<td>**(1)** The food contains at least 25% more fibre, totalling at least 1 g more, if no fibre or fibre source is identified in the statement or claim, or at least 25% more of an identified fibre or fibre from an identified fibre source, totalling at least 1 g more, if a fibre or fibre source is identified in the statement or claim
+<td>**(1)** The food contains at least 25% more fibre, totalling at least 1 g more, if no fibre or fibre source is identified in the statement or claim, or at least 25% more of an identified fibre or fibre from an identified fibre source, totalling at least 1 g more, if a fibre or fibre source is identified in the statement or claim
 
 **(a)** per reference amount of the food, than the reference amount of the reference food of the same food group or the similar reference food; or
 
-**(b)** per 100 g, than 100 g of the reference food of the same food group or the similar reference food, if the food is a prepackaged meal.
+
+
+**(b)** per 100 g, than 100 g of the reference food of the same food group or the similar reference food, if the food is a prepackaged meal.
+
+
 
 **(2)** The food contains
 
-**(a)** at least 2 g of fibre per reference amount and serving of stated size if no fibre or fibre source is identified in the statement or claim, or at least 2 g of identified fibre or fibre from an identified fibre source per reference amount and serving of stated size if a fibre or fibre source is identified in the statement or claim; or
+**(a)** at least 2 g of fibre per reference amount and serving of stated size if no fibre or fibre source is identified in the statement or claim, or at least 2 g of identified fibre or fibre from an identified fibre source per reference amount and serving of stated size if a fibre or fibre source is identified in the statement or claim; or
 
-**(b)** at least one ingredient that meets the conditions set out in column 2 of item 41 for the subject “source of fibre” set out in column 1, if the food is a prepackaged meal.
+
+
+**(b)** at least one ingredient that meets the conditions set out in column 2 of item 41 for the subject “source of fibre” set out in column 1, if the food is a prepackaged meal.
+
+
 
 </td>
 <td>The following are identified:
 
 **(a)** the reference food of the same food group or the similar reference food;
 
+
+
 **(b)** the amounts of the food and the reference food of the same food group or the similar reference food being compared, if those amounts are not equal; and
 
+
+
 **(c)** the difference in fibre compared to the reference food of the same food group or the similar reference food, per serving of stated size, expressed as a percentage or fraction or in grams.
+
+
 
 </td>
 <td>“more fibre”, “higher fibre”, “higher in fibre”, “more (naming the fibre)”, “higher (naming the fibre)”, “higher in (naming the fibre)”, “more (naming the fibre source)”, “higher (naming the fibre source)”, “higher in (naming the fibre source)”, “more dietary fibre”, “higher dietary fibre” or “higher in dietary fibre”</td>
@@ -5779,20 +6197,30 @@ shall be shown on the principal display panel of the label of a simulated meat p
 <tr>
 <td>45</td>
 <td>Light in energy or fat</td>
-<td>The food meets the conditions set out in column 2
+<td>The food meets the conditions set out in column 2
 
-**(a)** of item 3 for the subject “reduced in energy” set out in column 1; or
+**(a)** of item 3 for the subject “reduced in energy” set out in column 1; or
 
-**(b)** of item 13 for the subject “reduced in fat” set out in column 1.
+
+
+**(b)** of item 13 for the subject “reduced in fat” set out in column 1.
+
+
 
 </td>
 <td>The following are identified:
 
 **(a)** the similar reference food;
 
+
+
 **(b)** the amounts of the food and the similar reference food being compared, if those amounts are not equal; and
 
+
+
 **(c)** the difference in energy or fat value compared to the similar reference food, per serving of stated size, expressed as a percentage or fraction or in Calories or grams.
+
+
 
 </td>
 <td>“light” or “lite”</td>
@@ -5804,7 +6232,11 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 **(a)** is meat or poultry that has not been ground, a marine or fresh water animal or a product of any of these; and
 
+
+
 **(b)** contains 10% or less fat.
+
+
 
 </td>
 <td></td>
@@ -5817,7 +6249,11 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 **(a)** is meat or poultry that has not been ground, a marine or fresh water animal or a product of any of these; and
 
+
+
 **(b)** contains 7.5% or less fat.
+
+
 
 </td>
 <td></td>
@@ -5825,7 +6261,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 </tr>
 </table>
 
->  SOR/2003-11, s. 20; err.(F), Vol. 137, No. 5.
+> SOR/2003-11, s. 20; err.(F), Vol. 137, No. 5; SOR/2007-176, s. 6.
 
 
 
@@ -24306,6 +24742,116 @@ No.
 </td>
 </tr>
 <tr>
+<td>N.1</td>
+<td>Neotame</td>
+<td>**(1)** Table-top sweeteners
+
+</td>
+<td>**(1)** Good Manufacturing Practice
+
+</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>**(2)** Breakfast cereals
+
+</td>
+<td>**(2)** 0.016%
+
+</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>**(3)** Beverage mixes; Unstandardized beverages; Unstandardized beverage concentrates
+
+</td>
+<td>**(3)** 0.003% in beverages as consumed
+
+</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>**(4)** Dessert mixes; Fillings; Filling mixes; Toppings; Topping mixes; Unstandardized desserts; Yogurt
+
+</td>
+<td>**(4)** 0.01% in products as consumed
+
+</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>**(5)** Breath freshener products; Chewing gum
+
+</td>
+<td>**(5)** 0.032%
+
+</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>**(6)** Unstandardized fruit spreads; Unstandardized purées and sauces; Unstandardized table syrups
+
+</td>
+<td>**(6)** 0.007%
+
+</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>**(7)** Peanut and other nut spreads; Unstandardized salad dressings
+
+</td>
+<td>**(7)** 0.002%
+
+</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>**(8)** Unstandardized condiments
+
+</td>
+<td>**(8)** 0.007%
+
+</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>**(9)** Confectionary glazes for snack foods; Sweetened seasonings or coating mixes for snack foods
+
+</td>
+<td>**(9)** 0.0032%
+
+</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>**(10)** Unstandardized confections and their coatings
+
+</td>
+<td>**(10)** 0.01%
+
+</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>**(11)** Unstandardized bakery products and baking mixes
+
+</td>
+<td>**(11)** 0.013% in products as consumed
+
+</td>
+</tr>
+<tr>
 <td>S.1</td>
 <td>Sorbitol</td>
 <td>**(1)** A blend of prepared fish and prepared meat referred to in paragraph B.21.006(n)
@@ -24507,7 +25053,7 @@ No.
 </tr>
 </table>
 
->  SOR/93-276, s. 12; SOR/94-625, s. 5; SOR/94-689, s. 2(F); SOR/94-779, s. 3; SOR/97-512, ss. 3, 4; SOR/2004-261, s. 2; SOR/2007-76, s. 3..
+>  SOR/93-276, s. 12; SOR/94-625, s. 5; SOR/94-689, s. 2(F); SOR/94-779, s. 3; SOR/97-512, ss. 3, 4; SOR/2004-261, s. 2; SOR/2007-76, s. 3; SOR/2007-176, s. 7..
 
 
 
@@ -28946,7 +29492,7 @@ No.
 </tr>
 </table>
 
->  SOR/78-403, ss. 26, 27; SOR/82-383, s. 12; SOR/82-406, s. 1; SOR/82-913, s. 5; SOR/82-1071, ss. 21, 22; SOR/84-541, s. 1; SOR/86-89, ss. 8, 9; SOR/86-178, ss. 4 to 7; SOR/86-1112, s. 9; SOR/90-667, s. 1; SOR/94-689, s. 2; SOR/96-259, s. 1; SOR/96-377, s. 1.
+> SOR/78-403, ss. 26, 27; SOR/82-383, s. 12; SOR/82-406, s. 1; SOR/82-913, s. 5; SOR/82-1071, ss. 21, 22; SOR/84-541, s. 1; SOR/86-89, ss. 8, 9; SOR/86-178, ss. 4 to 7; SOR/86-1112, s. 9; SOR/90-667, s. 1; SOR/94-689, s. 2; SOR/96-259, s. 1; SOR/96-377, s. 1.
 
 
 
@@ -38808,15 +39354,12 @@ and if unpurified anterior pituitary extract
 
 
 
-### Division 7
+**DIVISION 7** 
+### Sale of Drugs for the Purposes of Implementing the General Council Decision
 
 
 
-#### SALE OF DRUGS FOR THE PURPOSES OF IMPLEMENTING THE GENERAL COUNCIL DECISION
-
-
-
-##### Interpretation 
+#### Interpretation
 
 
 **C.07.001** The definitions in this section apply in this Division.
@@ -38830,7 +39373,7 @@ and if unpurified anterior pituitary extract
 
 
 
-##### Application
+#### Application
 
 
 **C.07.002** This Division applies to the sale of drugs for the purposes of implementing the General Council Decision.
@@ -38840,7 +39383,7 @@ and if unpurified anterior pituitary extract
 
 
 
-##### Application for Authorization
+#### Application for Authorization
 
 
 **C.07.003** An application by a manufacturer for authorization to sell a drug under this Division shall be submitted to the Minister and shall contain the following information and documents:
@@ -38858,7 +39401,7 @@ and if unpurified anterior pituitary extract
 
 
 
-##### Authorization
+#### Authorization
 
 
 **C.07.004** The Minister shall notify the manufacturer and the Commissioner of Patents for the purposes of paragraph 21.04(3)(b) of the [Patent Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-4.md) that the manufacturer’s drug meets the requirements of the Act and these Regulations if
@@ -38886,7 +39429,7 @@ and if unpurified anterior pituitary extract
 
 
 
-##### Notice to Commissioner of Patents
+#### Notice to Commissioner of Patents
 
 
 **C.07.007** The Minister shall notify the manufacturer and the Commissioner of Patents for the purposes of paragraph 21.13(b) of the [Patent Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-4.md) in the event that the Minister is of the opinion that the manufacturer’s drug authorized to be sold under this Division has ceased to meet the requirements of the Act and these Regulations.
@@ -38896,7 +39439,7 @@ and if unpurified anterior pituitary extract
 
 
 
-##### Marking and Labelling
+#### Marking and Labelling
 
 
 **C.07.008** No person shall sell a drug under this Division unless
@@ -38915,7 +39458,7 @@ and if unpurified anterior pituitary extract
 
 
 
-##### Records
+#### Records
 
 
 **C.07.010** The manufacturer shall, with respect to a drug authorized to be sold under this Division, 
@@ -38927,7 +39470,7 @@ and if unpurified anterior pituitary extract
 
 
 
-##### Notice to Minister
+#### Notice to Minister
 
 
 **C.07.011** The manufacturer shall notify the Minister in writing not less than 15 days before commencing the manufacture of the first lot of a drug authorized to be sold under this Division and not less than 15 days before the exportation of each subsequent lot of the drug.
