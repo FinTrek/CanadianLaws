@@ -1385,14 +1385,14 @@ et ce, en caractères de dimensions au moins égales et aussi bien en vue que le
 
 **B.01.015** 
 
-- **(1)** L'étiquette d'un édulcorant qui contient de l'aspartame doit porter les renseignements suivants :
-	- **a)** une déclaration sur l'espace principal indiquant que l'aliment contient de l'aspartame ou est édulcoré avec de l'aspartame et ce, en caractères de dimensions au moins égales et aussi bien en vue que les caractères utilisés dans la portion numérique de la déclaration de la quantité nette, comme l'exige l'article 14 du Règlement sur l'emballage et l'étiquetage des produits de consommation;
-	- **b)** sur la surface de l'étiquette, une déclaration indiquant que l'aspartame contient de la phénylalanine;
-	- **c)** sur la surface de l'étiquette, une déclaration sur le pouvoir édulcorant d'une portion exprimé en fonction de la quantité de sucre requise pour produire un degré d'édulcoration équivalent; et
+- **(1)** L’étiquette d’un édulcorant qui contient de l’aspartame doit porter les renseignements suivants :
+	- **a)** une déclaration sur l’espace principal indiquant que l’aliment contient de l’aspartame ou est édulcoré avec de l’aspartame et ce, en caractères de dimensions au moins égales et aussi bien en vue que les caractères utilisés dans la portion numérique de la déclaration de la quantité nette, comme l’exige l’article 14 du [Règlement sur l’emballage et l’étiquetage des produits de consommation](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/401-500/C.R.C.,%20ch.%20417.md);
+	- **b)** sur la surface de l’étiquette, une déclaration indiquant que l’aspartame contient de la phénylalanine;
+	- **c)** sur la surface de l’étiquette, une déclaration sur le pouvoir édulcorant d’une portion exprimé en fonction de la quantité de sucre requise pour produire un degré d’édulcoration équivalent; et
 	- **d)** une déclaration indiquant la teneur en aspartame, exprimée en milligrammes, par portion déterminée.
 
-- **(2)** L'étiquette d'un édulcorant contenant de l'aspartame peut porter l'expression «faible teneur en calories» si la valeur énergétique d'une portion de l'édulcorant équivalente en pouvoir édulcorant à une cuillerée à thé (5 g) de sucre n'excède pas deux calories.
-> DORS/81-617, art. 2; DORS/88-559, art. 6; DORS/2003-11, art. 7.
+- **(2)** [Abrogé, DORS/2007-176, art. 1]
+> DORS/81-617, art. 2; DORS/88-559, art. 6; DORS/2003-11, art. 7; DORS/2007-176, art. 1.
 
 
 
@@ -1408,13 +1408,13 @@ et ce, en caractères de dimensions au moins égales et aussi bien en vue que le
 
 **B.01.017** 
 
-- **(1)** L'étiquette d'un aliment qui est un édulcorant de table contenant du sucralose doit porter les renseignements suivants :
-	- **a)** une mention sur l'espace principal indiquant que l'aliment contient du sucralose ou est édulcoré avec du sucralose, en caractères de dimensions au moins égales et aussi bien en vue que les caractères utilisés dans les données numériques de la déclaration de quantité nette, conformément à l'article 14 du Règlement sur l'emballage et l'étiquetage des produits de consommation;
-	- **b)** sur toute partie de l'étiquette, une mention de la capacité édulcorante d'une portion, exprimée en fonction de la quantité de sucre nécessaire pour produire un degré d'édulcoration équivalent;
+- **(1)** L’étiquette d’un aliment qui est un édulcorant de table contenant du sucralose doit porter les renseignements suivants :
+	- **a)** une mention sur l’espace principal indiquant que l’aliment contient du sucralose ou est édulcoré avec du sucralose, en caractères de dimensions au moins égales et aussi bien en vue que les caractères utilisés dans les données numériques de la déclaration de quantité nette, conformément à l’article 14 du [Règlement sur l’emballage et l’étiquetage des produits de consommation](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/401-500/C.R.C.,%20ch.%20417.md);
+	- **b)** sur toute partie de l’étiquette, une mention de la capacité édulcorante d’une portion, exprimée en fonction de la quantité de sucre nécessaire pour produire un degré d’édulcoration équivalent;
 	- **c)** une mention indiquant la teneur en sucralose, exprimée en milligrammes, par portion déterminée.
 
-- **(2)** L'étiquette d'un aliment qui est un édulcorant de table contenant du sucralose peut porter la mention «faible teneur en calories» si la valeur énergétique d'une portion de l'édulcorant équivalente en édulcoration à une cuillerée à thé (5 g) de sucre n'excède pas 2 calories.
-> DORS/91-527, art. 2; DORS/94-625, art. 2; DORS/2003-11, art. 9.
+- **(2)** [Abrogé, DORS/2007-176, art. 2]
+> DORS/91-527, art. 2; DORS/94-625, art. 2; DORS/2003-11, art. 9; DORS/2007-176, art. 2.
 
 
 
@@ -1436,13 +1436,13 @@ et ce, en caractères de dimensions au moins égales et aussi bien en vue que le
 
 **B.01.020** 
 
-- **(1)** L'étiquette d'un aliment qui est un édulcorant de table contenant de l'acésulfame-potassium doit porter les renseignements suivants :
-	- **a)** une mention sur l'espace principal indiquant que l'aliment contient de l'acésulfame-potassium ou est édulcoré avec de l'acésulfame-potassium, en caractères dont les dimensions sont au moins égales à celles des caractères utilisés pour les données numériques de la déclaration de quantité nette conformément à l'article 14 du Règlement sur l'emballage et l'étiquetage des produits de consommation et qui sont aussi en évidence que ceux-ci;
-	- **b)** sur toute partie de l'étiquette, une mention de la capacité édulcorante d'une portion, exprimée en fonction de la quantité de sucre nécessaire pour produire un degré d'édulcoration équivalent;
+- **(1)** L’étiquette d’un aliment qui est un édulcorant de table contenant de l’acésulfame-potassium doit porter les renseignements suivants :
+	- **a)** une mention sur l’espace principal indiquant que l’aliment contient de l’acésulfame-potassium ou est édulcoré avec de l’acésulfame-potassium, en caractères dont les dimensions sont au moins égales à celles des caractères utilisés pour les données numériques de la déclaration de quantité nette conformément à l’article 14 du [Règlement sur l’emballage et l’étiquetage des produits de consommation](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/401-500/C.R.C.,%20ch.%20417.md) et qui sont aussi en évidence que ceux-ci;
+	- **b)** sur toute partie de l’étiquette, une mention de la capacité édulcorante d’une portion, exprimée en fonction de la quantité de sucre nécessaire pour produire un degré d’édulcoration équivalent;
 	- **c)** une mention indiquant la teneur en acésulfame-potassium, exprimée en milligrammes, par portion déterminée.
 
-- **(2)** L'étiquette d'un aliment qui est un édulcorant de table contenant de l'acésulfame-potassium peut porter la mention « faible teneur en calories » si la valeur énergétique d'une portion de l'édulcorant équivalente en édulcoration à une cuillerée à thé (5 g) de sucre n'excède pas 2 calories.
-> DORS/94-625, art. 3; DORS/2003-11, art. 12.
+- **(2)** [Abrogé, DORS/2007-176, art. 3]
+> DORS/94-625, art. 3; DORS/2003-11, art. 12; DORS/2007-176, art. 3.
 
 
 
@@ -1453,6 +1453,34 @@ et ce, en caractères de dimensions au moins égales et aussi bien en vue que le
 
 - **(2)** La mention indiquant la teneur en érythritol et celle indiquant la teneur en tout autre polyalcool et en polydextrose doivent être regroupées.
 > DORS/2004-261, art. 1.
+
+
+
+
+**B.01.022** L’étiquette d’un aliment, autre qu’un édulcorant de table, qui contient du néotame doit porter les renseignements suivants :
+- **a)** sous réserve de l’alinéa b), une mention sur l’espace principal indiquant que l’aliment contient du néotame ou est édulcoré avec du néotame, et ce, en caractères de dimensions au moins égales et aussi bien en vue que les caractères prévus pour les données numériques de la déclaration de la quantité nette à l’article 14 du [Règlement sur l’emballage et l’étiquetage des produits de consommation](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/401-500/C.R.C.,%20ch.%20417.md);
+- **b)** dans le cas où d’autres édulcorants ou des agents édulcorants sont utilisés en combinaison avec le néotame, une mention sur l’espace principal indiquant, en caractères de dimensions au moins égales et aussi bien en vue que les caractères prévus pour les données numériques de la déclaration de la quantité nette à l’article 14 du [Règlement sur l’emballage et l’étiquetage des produits de consommation](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/401-500/C.R.C.,%20ch.%20417.md), que l’aliment, selon le cas :
+	- **(i)** contient du néotame et (noms des autres édulcorants et des agents édulcorants),
+	- **(ii)** est édulcoré avec du néotame et (noms des autres édulcorants et des agents édulcorants);
+- **c)** si l’étiquette de l’aliment porte un tableau de la valeur nutritive, une mention indiquant la teneur en néotame, exprimée en milligrammes, par portion déterminée;
+- **d)** si l’étiquette de l’aliment ne porte pas un tableau de la valeur nutritive, une mention indiquant, sur toute partie de l’étiquette, la valeur énergétique et les teneurs ci-après de l’aliment par portion déterminée, regroupées et en caractères d’égale importance :
+	- **(i)** la valeur énergétique exprimée en Calories (Calories ou Cal) et en kilojoules (kilojoules ou kJ),
+	- **(ii)** la teneur en protéines, en matières grasses et en glucides, exprimée en grammes,
+	- **(iii)** la teneur en néotame exprimée en milligrammes.
+> DORS/2007-176, art. 4.
+
+
+
+
+**B.01.023** L’étiquette d’un aliment qui est un édulcorant de table contenant du néotame doit porter les renseignements suivants :
+- **a)** une mention sur l’espace principal indiquant que l’aliment contient du néotame ou est édulcoré avec du néotame, et ce, en caractères de dimensions au moins égales et aussi bien en vue que les caractères prévus pour les données numériques de la déclaration de la quantité nette à l’article 14 du [Règlement sur l’emballage et l’étiquetage des produits de consommation](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/401-500/C.R.C.,%20ch.%20417.md);
+- **b)** sur toute partie de l’étiquette, une mention sur le pouvoir édulcorant d’une portion exprimé en fonction de la quantité de sucre requise pour produire un degré d’édulcoration équivalent;
+- **c)** si l’étiquette de l’aliment porte un tableau de la valeur nutritive, une mention indiquant la teneur en néotame, exprimée en milligrammes, par portion déterminée;
+- **d)** si l’étiquette de l’aliment ne porte pas un tableau de la valeur nutritive, une mention indiquant, sur toute partie de l’étiquette, la valeur énergétique et les teneurs ci-après de l’aliment par portion déterminée, regroupées et en caractères d’égale importance :
+	- **(i)** la valeur énergétique exprimée en Calories (Calories ou Cal) et en kilojoules (kilojoules ou kJ),
+	- **(ii)** la teneur en protéines, en matières grasses et en glucides, exprimée en grammes,
+	- **(iii)** la teneur en néotame exprimée en milligrammes.
+> DORS/2007-176, art. 4.
 
 
 
@@ -2000,355 +2028,372 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 **B.01.401** 
 
-- **(1)** Sauf disposition contraire du présent article et des articles B.01.402 à B.01.406 et B.01.467, l'étiquette de tout produit préemballé porte un tableau de la valeur nutritive indiquant exclusivement les renseignements visés à la colonne 1 du tableau du présent article, exprimés au moyen de la nomenclature indiquée dans la colonne 2, de l'unité indiquée dans la colonne 3 et des règles d'écriture indiquées dans la colonne 4.
+- **(1)** Sauf disposition contraire du présent article et des articles B.01.402 à B.01.406 et B.01.467, l’étiquette de tout produit préemballé porte un tableau de la valeur nutritive indiquant exclusivement les renseignements visés à la colonne 1 du tableau du présent article, exprimés au moyen de la nomenclature indiquée dans la colonne 2, de l’unité indiquée dans la colonne 3 et des règles d’écriture indiquées dans la colonne 4.
 
-- **(2)** Le paragraphe (1) ne s'applique pas à un produit préemballé dans les cas suivants :
-	- **a)** tous les renseignements visés à la colonne 1 du tableau du présent article, autres que l'article 1 (« portion déterminée »), peuvent être exprimés par « 0 » au tableau de la valeur nutritive conformément au présent article;
-	- **b)** le produit est, selon le cas :
+- **(2)** Le paragraphe (1) ne s’applique pas à un produit préemballé dans les cas suivants :
+	- **a)** tous les renseignements visés à la colonne 1 du tableau du présent article, autres que l’article 1 (« portion déterminée »), peuvent être exprimés par « 0 » au tableau de la valeur nutritive conformément au présent article;
+	- **b)** le produit est, selon le cas :
 		- **(i)** une boisson dont la teneur en alcool est de plus de 0,5 %,
-		- **(ii)** un légume frais, un fruit frais ou un mélange quelconque de légumes frais ou de fruits frais sans ingrédient ajouté ainsi qu'une orange à laquelle un colorant a été ajouté et un légume frais ou un fruit frais enrobé de paraffine ou de vaseline,
-		- **(iii)** de la viande, un sous-produit de viande, de la viande de volaille ou un sous-produit de viande de volaille, cru et composé d'un seul ingrédient,
-		- **(iv)** un produit d'animaux marins ou d'animaux d'eau douce cru et composé d'un seul ingrédient,
-		- **(v)** un produit vendu uniquement dans l'établissement de détail où il est préparé et transformé à partir de ses ingrédients, y compris un pré-mélange si un ingrédient autre que de l'eau est ajouté au pré-mélange lors de la préparation et de la transformation du produit,
-		- **(vi)** un produit vendu uniquement dans un éventaire routier, une exposition d'artisanat, un marché aux puces, une foire, un marché d'agriculteurs ou une érablière par l'individu qui l'a transformé et préparé,
-		- **(vii)** une portion individuelle qui est vendue pour consommation immédiate et qui n'a fait l'objet d'aucun procédé pour en prolonger la durée de conservation, notamment l'utilisation d'un emballage spécial,
-		- **(viii)** un produit vendu uniquement dans l'établissement de détail où il est emballé, si l'étiquette du produit est un autocollant et que la surface exposée disponible du produit est de moins de 200 cm<sup>2</sup>;
-	- **c)** le produit est, selon le cas :
-		- **(i)** une confiserie préemballée, appelée couramment bonbon d'une bouchée, qui est vendue individuellement,
-		- **(ii)** une portion individuelle préemballée d'un aliment, destinée uniquement à être servie par un restaurant ou une autre entreprise commerciale avec les repas ou casse-croûte,
-		- **(iii)** du lait, du lait partiellement écrémé, du lait écrémé, du lait de chèvre, du lait de chèvre partiellement écrémé, du lait de chèvre écrémé, du lait (indication de l'arôme), du lait partiellement écrémé (indication de l'arôme), du lait écrémé (indication de l'arôme) ou de la crème, vendu dans un contenant réutilisable en verre.
+		- **(ii)** un légume frais, un fruit frais ou un mélange quelconque de légumes frais ou de fruits frais sans ingrédient ajouté ainsi qu’une orange à laquelle un colorant a été ajouté et un légume frais ou un fruit frais enrobé de paraffine ou de vaseline,
+		- **(iii)** de la viande, un sous-produit de viande, de la viande de volaille ou un sous-produit de viande de volaille, cru et composé d’un seul ingrédient,
+		- **(iv)** un produit d’animaux marins ou d’animaux d’eau douce cru et composé d’un seul ingrédient,
+		- **(v)** un produit vendu uniquement dans l’établissement de détail où il est préparé et transformé à partir de ses ingrédients, y compris un pré-mélange si un ingrédient autre que de l’eau est ajouté au pré-mélange lors de la préparation et de la transformation du produit,
+		- **(vi)** un produit vendu uniquement dans un éventaire routier, une exposition d’artisanat, un marché aux puces, une foire, un marché d’agriculteurs ou une érablière par l’individu qui l’a transformé et préparé,
+		- **(vii)** une portion individuelle qui est vendue pour consommation immédiate et qui n’a fait l’objet d’aucun procédé pour en prolonger la durée de conservation, notamment l’utilisation d’un emballage spécial,
+		- **(viii)** un produit vendu uniquement dans l’établissement de détail où il est emballé, si l’étiquette du produit est un autocollant et que la surface exposée disponible du produit est de moins de 200 cm<sup>2</sup>;
+	- **c)** le produit est, selon le cas :
+		- **(i)** une confiserie préemballée, appelée couramment bonbon d’une bouchée, qui est vendue individuellement,
+		- **(ii)** une portion individuelle préemballée d’un aliment, destinée uniquement à être servie par un restaurant ou une autre entreprise commerciale avec les repas ou casse-croûte,
+		- **(iii)** du lait, du lait partiellement écrémé, du lait écrémé, du lait de chèvre, du lait de chèvre partiellement écrémé, du lait de chèvre écrémé, du lait (indication de l’arôme), du lait partiellement écrémé (indication de l’arôme), du lait écrémé (indication de l’arôme) ou de la crème, vendu dans un contenant réutilisable en verre.
 
-- **(3)** Malgré les alinéas (2)a) et b), le paragraphe (1) s'applique dans les cas suivants :
+- **(3)** Malgré les alinéas (2)a) et b), le paragraphe (1) s’applique dans les cas suivants :
 	- **a)** le produit contient une vitamine ou un minéral nutritif ajoutés;
-	- **b)** une vitamine ou un minéral nutritif est déclaré comme constituant d'un ingrédient du produit, sauf si l'ingrédient est de la farine;
-	- **c)** le produit contient de l'aspartame, du sucralose ou de l'acésulfame-potassium ajoutés;
+	- **b)** une vitamine ou un minéral nutritif est déclaré comme constituant d’un ingrédient du produit, sauf si l’ingrédient est de la farine;
+	- **c)** le produit contient de l’acésulfame-potassium, de l’aspartame, du néotame ou du sucralose ajoutés;
 	- **d)** le produit est de la viande, un sous-produit de viande, de la viande de volaille ou un sous-produit de viande de volaille hachés;
-	- **e)** l'étiquette du produit ou encore l'annonce faite par le fabricant du produit ou sous ses ordres comporte, selon le cas :
-		- **(i)** une mention de la valeur énergétique, d'un élément nutritif figurant à la colonne 1 du tableau du présent article ou à la colonne 1 du tableau de l'article B.01.402 ou une mention d'un composant de l'élément nutritif, autre qu'un renseignement prévu au titre 12 ou qu'une mention du nom usuel de l'ingrédient dans la liste des ingrédients du produit,
-		- **(ii)** une déclaration indiquant expressément ou implicitement que le produit a des propriétés particulières liées à la nutrition ou à la santé, notamment une mention ou une allégation figurant à la colonne 4 du tableau suivant l'article B.01.513, à la colonne 1 du tableau suivant l'article B.01.603 ou aux articles B.01.311, D.01.006 ou D.02.004,
-		- **(iii)** un nom, une mention, un logo, un symbole, un sceau d'approbation ou toute autre marque concernant la santé,
-		- **(iv)** les expressions « valeur nutritive », « valeurs nutritives » ou « nutrition facts ».
+	- **e)** l’étiquette du produit ou encore l’annonce faite par le fabricant du produit ou sous ses ordres comporte, selon le cas :
+		- **(i)** une mention de la valeur énergétique, d’un élément nutritif figurant à la colonne 1 du tableau du présent article ou à la colonne 1 du tableau de l’article B.01.402 ou une mention d’un composant de l’élément nutritif, autre qu’un renseignement prévu au titre 12 ou qu’une mention du nom usuel de l’ingrédient dans la liste des ingrédients du produit,
+		- **(ii)** une déclaration indiquant expressément ou implicitement que le produit a des propriétés particulières liées à la nutrition ou à la santé, notamment une mention ou une allégation figurant à la colonne 4 du tableau suivant l’article B.01.513, à la colonne 1 du tableau suivant l’article B.01.603 ou aux articles B.01.311, D.01.006 ou D.02.004,
+		- **(iii)** un nom, une mention, un logo, un symbole, un sceau d’approbation ou toute autre marque concernant la santé,
+		- **(iv)** les expressions « valeur nutritive », « valeurs nutritives » ou « *nutrition facts* ».
 
-- **(4)** Le paragraphe (1) ne s'applique pas à une préparation pour régime liquide, à un succédané de lait humain ou à un aliment présenté comme contenant un succédané de lait humain, à un substitut de repas, à un supplément nutritif ou à un aliment présenté comme étant conçu pour un régime à très faible teneur en énergie.
+- **(4)** Le paragraphe (1) ne s’applique pas à une préparation pour régime liquide, à un succédané de lait humain ou à un aliment présenté comme contenant un succédané de lait humain, à un substitut de repas, à un supplément nutritif ou à un aliment présenté comme étant conçu pour un régime à très faible teneur en énergie.
 
-- **(5)** L'étiquette ou l'annonce d'une préparation pour régime liquide, d'un succédané de lait humain ou d'un aliment présenté comme contenant un succédané de lait humain, d'un substitut de repas, d'un supplément nutritif ou d'un aliment présenté comme étant conçu pour un régime à très faible teneur en énergie ne peut comporter un tableau de la valeur nutritive ou les expressions « valeur nutritive », « valeurs nutritives » ou « nutrition facts ».
+- **(5)** L’étiquette ou l’annonce d’une préparation pour régime liquide, d’un succédané de lait humain ou d’un aliment présenté comme contenant un succédané de lait humain, d’un substitut de repas, d’un supplément nutritif ou d’un aliment présenté comme étant conçu pour un régime à très faible teneur en énergie ne peut comporter un tableau de la valeur nutritive ou les expressions « valeur nutritive », « valeurs nutritives » ou « *nutrition facts* ».
 
-- **(6)** Si au moins sept des renseignements relatifs à la valeur énergétique et aux éléments nutritifs visés à la colonne 1 des articles 2 à 5 et 7 à 13 du tableau du présent article peuvent être exprimés, conformément au présent article, par « 0 » au tableau de la valeur nutritive d'un produit préemballé, autre qu'un produit destiné exclusivement aux enfants âgés de moins de deux ans, le tableau peut ne contenir que les renseignements suivants :
+- **(6)** Si au moins sept des renseignements relatifs à la valeur énergétique et aux éléments nutritifs visés à la colonne 1 des articles 2 à 5 et 7 à 13 du tableau du présent article peuvent être exprimés, conformément au présent article, par « 0 » au tableau de la valeur nutritive d’un produit préemballé, autre qu’un produit destiné exclusivement aux enfants âgés de moins de deux ans, le tableau peut ne contenir que les renseignements suivants :
 	- **a)** la portion déterminée;
 	- **b)** la valeur énergétique;
 	- **c)** la teneur en lipides;
 	- **d)** la teneur en glucides;
 	- **e)** la teneur en protéines;
-	- **f)** la teneur en tout élément nutritif qui fait l'objet d'une déclaration visée au sous-alinéa (3)e)(ii);
-	- **g)** la teneur en un polyalcool, en une vitamine ou en un minéral nutritif ajoutés au produit, à l'exclusion de l'iodure ajouté à du sel de table ou à du sel d'usage domestique général et du fluorure ajouté à de l'eau ou à de la glace préemballées;
-	- **h)** la teneur en une vitamine ou en un minéral nutritif déclaré comme constituant d'un ingrédient du produit, à l'exclusion de la farine;
-	- **i)** la teneur en tout élément nutritif visé à la colonne 1 des articles 4, 5, 7, 8, 10, 11 et 13 du tableau du présent article qui ne peut être exprimée par « 0 » au tableau de la valeur nutritive;
-	- **j)** la mention « Source négligeable de (désignation de tout élément nutritif omis conformément au présent paragraphe) » ou, si le produit remplit les conditions du paragraphe B.01.455(3), la mention « Source négligeable d'autres éléments nutritifs ».
+	- **f)** la teneur en tout élément nutritif qui fait l’objet d’une déclaration visée au sous-alinéa (3)e)(ii);
+	- **g)** la teneur en un polyalcool, en une vitamine ou en un minéral nutritif ajoutés au produit, à l’exclusion de l’iodure ajouté à du sel de table ou à du sel d’usage domestique général et du fluorure ajouté à de l’eau ou à de la glace préemballées;
+	- **h)** la teneur en une vitamine ou en un minéral nutritif déclaré comme constituant d’un ingrédient du produit, à l’exclusion de la farine;
+	- **i)** la teneur en tout élément nutritif visé à la colonne 1 des articles 4, 5, 7, 8, 10, 11 et 13 du tableau du présent article qui ne peut être exprimée par « 0 » au tableau de la valeur nutritive;
+	- **j)** la mention « Source négligeable de (désignation de tout élément nutritif omis conformément au présent paragraphe) » ou, si le produit remplit les conditions du paragraphe B.01.455(3), la mention « Source négligeable d’autres éléments nutritifs ».
 
-- **(7)** Le paragraphe (1) ne s'applique pas aux produits préemballés suivants :
-	- **a)** tout produit destiné uniquement à être utilisé comme ingrédient dans la fabrication d'autres produits préemballés destinés à être vendus au consommateur au niveau du commerce de détail ou comme ingrédient dans la préparation d'aliments par une entreprise ou une institution commerciale ou industrielle;
+- **(7)** Le paragraphe (1) ne s’applique pas aux produits préemballés suivants :
+	- **a)** tout produit destiné uniquement à être utilisé comme ingrédient dans la fabrication d’autres produits préemballés destinés à être vendus au consommateur au niveau du commerce de détail ou comme ingrédient dans la préparation d’aliments par une entreprise ou une institution commerciale ou industrielle;
 	- **b)** tout produit à portion multiple prêt à servir destiné uniquement à être servi par une entreprise ou une institution commerciale ou industrielle.
 #### TABLEAU
 <table>
-<h4>RENSEIGNEMENTS PRINCIPAUX</h4>
+<h4>Renseignements principaux</h4>
 <tr>
-<th></th>
+<th>Article</th>
 <th>Colonne 1</th>
 <th>Colonne 2</th>
 <th>Colonne 3</th>
 <th>Colonne 4</th>
 </tr>
 <tr>
-<th>Article</th>
 <th>Renseignements</th>
 <th>Nomenclature</th>
 <th>Unité</th>
-<th>Règles d'écriture</th>
+<th>Règles d’écriture</th>
 </tr>
 <tr>
-<th> </th>
-</tr>
-<tr>
-<td>  1.</td>
+<td>1</td>
 <td>Portion déterminée</td>
 <td>« Portion (portion déterminée) », « pour (portion déterminée) » ou « par (portion déterminée) »</td>
-<td>**(1)** La portion est exprimée en l'une ou l'autre des unités suivantes :
+<td>**(1)** La portion est exprimée en l’une ou l’autre des unités suivantes :
 
-**a)** dans le cas de l'aliment qui est habituellement séparé en morceaux tel du gâteau, de la tarte ou de la pizza, une fraction de l'aliment;
+**a)** dans le cas de l’aliment qui est habituellement séparé en morceaux tel du gâteau, de la tarte ou de la pizza, une fraction de l’aliment;
 
-**b)** dans le cas de l'aliment visé au paragraphe B.01.002A(2), le contenant;
 
-**c)** dans les autres cas, en unité courante dont la quantité est mesurable à l'oeil nu, telle que millilitre, tasse, cuillère à soupe ou « (nom de l'unité de l'aliment) ».
 
-**(2)** La portion exprimée conformément au paragraphe (1) est suivie de la portion exprimée en grammes ou en millilitres, tel qu'il est prévu à l'alinéa B.01.002A(1)b).
+**b)** dans le cas de l’aliment visé au paragraphe B.01.002A(2), le contenant;
+
+
+
+**c)** dans les autres cas, en unité courante dont la quantité est mesurable à l’oeil nu, telle que millilitre, tasse, cuillère à soupe ou « (nom de l’unité de l’aliment) ».
+
+
+
+**(2)** La portion exprimée conformément au paragraphe (1) est suivie de la portion exprimée en grammes ou en millilitres, tel qu’il est prévu à l’alinéa B.01.002A(1)b).
 
 </td>
 <td>**(1)** La portion exprimée en unité métrique est arrondie :
 
-**a)** lorsqu'elle est inférieure à 10 g ou 10 mL : au plus proche multiple de 0,1 g ou 0,1 mL;
+**a)** lorsqu’elle est inférieure à 10 g ou 10 mL : au plus proche multiple de 0,1 g ou 0,1 mL;
 
-**b)** lorsqu'elle est égale ou supérieure à 10 g ou 10 mL : au plus proche multiple de 1 g ou 1 mL.
 
-**(2)** La portion exprimée en fraction est représentée par un numérateur et un dénominateur séparés d'une barre.
 
-**(3)** La portion comprend le terme « assortis » lorsque le tableau de la valeur nutritive du produit préemballé qui contient un assortiment d'aliments indique les renseignements qui correspondent à une valeur composée.
+**b)** lorsqu’elle est égale ou supérieure à 10 g ou 10 mL : au plus proche multiple de 1 g ou 1 mL.
+
+
+
+**(2)** La portion exprimée en fraction est représentée par un numérateur et un dénominateur séparés d’une barre.
+
+**(3)** La portion comprend le terme « assortis » lorsque le tableau de la valeur nutritive du produit préemballé qui contient un assortiment d’aliments indique les renseignements qui correspondent à une valeur composée.
 
 </td>
 </tr>
 <tr>
-<td>  2.</td>
+<td>2</td>
 <td>Valeur énergétique</td>
 <td>« Calories » ou « Calories totales »</td>
 <td>La valeur est exprimée en Calories par portion déterminée.</td>
-<td>La valeur est arrondie :**a)** lorsqu'elle est inférieure à 5 Calories :
+<td>La valeur est arrondie :
 
-**(i)** si le produit répond aux critères mentionnés à la colonne 2 de l'article 1 du tableau suivant l'article B.01.513 en regard du sujet « sans énergie » visé à la colonne 1 : à 0 Calorie,
+**a)** lorsqu’elle est inférieure à 5 Calories :
 
-**(ii)** dans les autres cas : au plus proche multiple de 1 Calorie;
+**(i)** si le produit répond aux critères mentionnés à la colonne 2 de l’article 1 du tableau suivant l’article B.01.513 en regard du sujet « sans énergie » visé à la colonne 1 : à 0 Calorie,
 
-**b)** lorsqu'elle est égale ou supérieure à 5 Calories sans dépasser 50 Calories : au plus proche multiple de 5 Calories;
 
-**c)** lorsqu'elle est supérieure à 50 Calories : au plus proche multiple de 10 Calories.
+
+**(ii)** dans les autres cas : au plus proche multiple de 1 Calorie;
+
+
+
+
+
+**b)** lorsqu’elle est égale ou supérieure à 5 Calories sans dépasser 50 Calories : au plus proche multiple de 5 Calories;
+
+
+
+**c)** lorsqu’elle est supérieure à 50 Calories : au plus proche multiple de 10 Calories.
+
+
 
 </td>
 </tr>
 <tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td>  3.</td>
+<td>3</td>
 <td>Teneur en lipides</td>
 <td>« Lipides » ou « Total des lipides »</td>
 <td>La teneur est exprimée :
 
 **a)** en grammes par portion déterminée;
 
+
+
 **b)** en pourcentage de la valeur quotidienne par portion déterminée.
+
+
 
 </td>
 <td>**(1)** La teneur est arrondie :
 
-**a)** lorsqu'elle est inférieure à 0,5 g :
+**a)** lorsqu’elle est inférieure à 0,5 g :
 
-**(i)** si le produit répond aux critères mentionnés à la colonne 2 de l'article 11 du tableau suivant l'article B.01.513 en regard du sujet « sans lipides » visé à la colonne 1 et si les teneurs en acides gras saturés et en acides gras *trans* sont exprimées par « 0 g » au tableau de la valeur nutritive, ou sont omises de ce tableau conformément au paragraphe B.01.401(6), et qu'aucun autre acide gras n'est exprimé par une valeur supérieure à 0 g : à 0 g,
+**(i)** si le produit répond aux critères mentionnés à la colonne 2 de l’article 11 du tableau suivant l’article B.01.513 en regard du sujet « sans lipides » visé à la colonne 1 et si les teneurs en acides gras saturés et en acides gras *trans* sont exprimées par « 0 g » au tableau de la valeur nutritive, ou sont omises de ce tableau conformément au paragraphe B.01.401(6), et qu’aucun autre acide gras n’est exprimé par une valeur supérieure à 0 g : à 0 g,
+
+
 
 **(ii)** dans les autres cas : au plus proche multiple de 0,1 g;
 
-**b)** lorsqu'elle est égale ou supérieure à 0,5 g sans dépasser 5 g : au plus proche multiple de 0,5 g;
 
-**c)** lorsqu'elle est supérieure à 5 g : au plus proche multiple de 1 g.
+
+
+
+**b)** lorsqu’elle est égale ou supérieure à 0,5 g sans dépasser 5 g : au plus proche multiple de 0,5 g;
+
+
+
+**c)** lorsqu’elle est supérieure à 5 g : au plus proche multiple de 1 g.
+
+
 
 **(2)** Le pourcentage est arrondi :
 
 **a)** lorsque la teneur déclarée est « 0 g » : à 0 %;
 
+
+
 **b)** dans les autres cas : au plus proche multiple de 1 %.
+
+
 
 </td>
 </tr>
 <tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td>  4.</td>
+<td>4</td>
 <td>Teneur en acides gras saturés</td>
 <td>« Acides gras saturés », « Lipides saturés » ou « saturés »</td>
 <td>La teneur est exprimée en grammes par portion déterminée.</td>
 <td>La teneur est arrondie :
 
-**a)** lorsqu'elle est inférieure à 0,5 g :
+**a)** lorsqu’elle est inférieure à 0,5 g :
 
-**(i)** si le produit répond aux critères mentionnés à la colonne 2 de l'article 18 du tableau suivant l'article B.01.513 en regard du sujet « sans acides gras saturés » visé à la colonne 1 : à 0 g,
+**(i)** si le produit répond aux critères mentionnés à la colonne 2 de l’article 18 du tableau suivant l’article B.01.513 en regard du sujet « sans acides gras saturés » visé à la colonne 1 : à 0 g,
+
+
 
 **(ii)** dans les autres cas : au plus proche multiple de 0,1 g;
 
-**b)** lorsqu'elle est égale ou supérieure à 0,5 g sans dépasser 5 g : au plus proche multiple de 0,5 g;
 
-**c)** lorsqu'elle est supérieure à 5 g : au plus proche multiple de 1 g.
+
+
+
+**b)** lorsqu’elle est égale ou supérieure à 0,5 g sans dépasser 5 g : au plus proche multiple de 0,5 g;
+
+
+
+**c)** lorsqu’elle est supérieure à 5 g : au plus proche multiple de 1 g.
+
+
 
 </td>
 </tr>
 <tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td>  5.</td>
+<td>5</td>
 <td>Teneur en acides gras *trans*</td>
 <td>« Acides gras trans », « Lipides trans » ou « trans »</td>
 <td>La teneur est exprimée en grammes par portion déterminée.</td>
 <td>La teneur est arrondie :
 
-**a)** lorsqu'elle est inférieure à 0,5 g :
+**a)** lorsqu’elle est inférieure à 0,5 g :
 
-**(i)** si le produit répond aux critères mentionnés à la colonne 2 de l'article 22 du tableau suivant l'article B.01.513 en regard du sujet « sans acides gras *trans* » visé à la colonne 1 : à 0 g,
+**(i)** si le produit répond aux critères mentionnés à la colonne 2 de l’article 22 du tableau suivant l’article B.01.513 en regard du sujet « sans acides gras *trans* » visé à la colonne 1 : à 0 g,
+
+
 
 **(ii)** dans les autres cas : au plus proche multiple de 0,1 g;
 
-**b)** lorsqu'elle est égale ou supérieure à 0,5 g sans dépasser 5 g : au plus proche multiple de 0,5 g;
 
-**c)** lorsqu'elle est supérieure à 5 g : au plus proche multiple de 1 g.
+
+
+
+**b)** lorsqu’elle est égale ou supérieure à 0,5 g sans dépasser 5 g : au plus proche multiple de 0,5 g;
+
+
+
+**c)** lorsqu’elle est supérieure à 5 g : au plus proche multiple de 1 g.
+
+
 
 </td>
 </tr>
 <tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td>  6.</td>
+<td>6</td>
 <td>Somme des acides gras saturés et des acides gras *trans*</td>
 <td>« Acides gras saturés + acides gras trans », « Lipides saturés + lipides trans » ou « saturés + trans »</td>
 <td>La somme est exprimée en pourcentage de la valeur quotidienne par portion déterminée.</td>
-<td>Le pourcentage est arrondi :
+<td>Le pourcentage est arrondi :
 
 **a)** lorsque les teneurs en acides gras saturés et en acides gras *trans* déclarées sont « 0 g » : à 0 %;
 
+
+
 **b)** dans les autres cas : au plus proche multiple de 1 %.
+
+
 
 </td>
 </tr>
 <tr>
-<td></td>
-</tr>
-<tr>
-<td>  7.</td>
+<td>7</td>
 <td>Teneur en cholestérol</td>
 <td>« Cholestérol »</td>
 <td>La teneur est exprimée en milligrammes par portion déterminée et peut aussi être exprimée en pourcentage de la valeur quotidienne par portion déterminée.</td>
 <td>**(1)** La teneur est arrondie :
 
-**a)** si le produit répond aux critères mentionnés à la colonne 2 de l'article 27 du tableau suivant l'article B.01.513 en regard du sujet « sans cholestérol » visé à la colonne 1 : à 0 mg;
+**a)** si le produit répond aux critères mentionnés à la colonne 2 de l’article 27 du tableau suivant l’article B.01.513 en regard du sujet « sans cholestérol » visé à la colonne 1 : à 0 mg;
+
+
 
 **b)** dans les autres cas : au plus proche multiple de 5 mg.
+
+
 
 **(2)** Le pourcentage est arrondi :
 
 **a)** lorsque la teneur déclarée est « 0 mg » : à 0 %;
 
+
+
 **b)** dans les autres cas : au plus proche multiple de 1 %.
+
+
 
 </td>
 </tr>
 <tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td>  8.</td>
+<td>8</td>
 <td>Teneur en sodium</td>
 <td>« Sodium »</td>
 <td>La teneur est exprimée :
 
 **a)** en milligrammes par portion déterminée;
 
+
+
 **b)** en pourcentage de la valeur quotidienne par portion déterminée.
+
+
 
 </td>
 <td>**(1)** La teneur est arrondie :
 
-**a)** lorsqu'elle est inférieure à 5 mg :
+**a)** lorsqu’elle est inférieure à 5 mg :
 
-**(i)** si le produit répond aux critères mentionnés à la colonne 2 de l'article 31 du tableau suivant l'article B.01.513 en regard du sujet « sans sodium ou sans sel » visé à la colonne 1 : à 0 mg,
+**(i)** si le produit répond aux critères mentionnés à la colonne 2 de l’article 31 du tableau suivant l’article B.01.513 en regard du sujet « sans sodium ou sans sel » visé à la colonne 1 : à 0 mg,
+
+
 
 **(ii)** dans les autres cas : au plus proche multiple de 1 mg;
 
-**b)** lorsqu'elle est égale ou supérieure à 5 mg sans dépasser 140 mg : au plus proche multiple de 5 mg;
 
-**c)** lorsqu'elle est supérieure à 140 mg : au plus proche multiple de 10 mg.
+
+
+
+**b)** lorsqu’elle est égale ou supérieure à 5 mg sans dépasser 140 mg : au plus proche multiple de 5 mg;
+
+
+
+**c)** lorsqu’elle est supérieure à 140 mg : au plus proche multiple de 10 mg.
+
+
 
 **(2)** Le pourcentage est arrondi :
 
 **a)** lorsque la teneur déclarée est « 0 mg » : à 0 %;
 
+
+
 **b)** dans les autres cas : au plus proche multiple de 1 %.
+
+
 
 </td>
 </tr>
 <tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td>  9.</td>
+<td>9</td>
 <td>Teneur en glucides</td>
 <td>« Glucides » ou « Total des glucides »</td>
 <td>La teneur est exprimée :
 
 **a)** en grammes par portion déterminée;
 
+
+
 **b)** en pourcentage de la valeur quotidienne par portion déterminée.
+
+
 
 </td>
 <td>**(1)** La teneur est arrondie :
 
-**a)** lorsqu'elle est inférieure à 0,5 g : à 0 g;
+**a)** lorsqu’elle est inférieure à 0,5 g : à 0 g;
 
-**b)** lorsqu'elle est égale ou supérieure à 0,5 g : au plus proche multiple de 1 g.
+
+
+**b)** lorsqu’elle est égale ou supérieure à 0,5 g : au plus proche multiple de 1 g.
+
+
 
 **(2)** Le pourcentage est arrondi :
 
 **a)** lorsque la teneur déclarée est « 0 g » : à 0 %;
 
+
+
 **b)** dans les autres cas : au plus proche multiple de 1 %.
 
+
+
 </td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
 </tr>
 <tr>
 <td>10</td>
@@ -2358,28 +2403,34 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 **a)** en grammes par portion déterminée;
 
+
+
 **b)** en pourcentage de la valeur quotidienne par portion déterminée.
+
+
 
 </td>
 <td>**(1)** La teneur est arrondie :
 
-**a)** lorsqu'elle est inférieure à 0,5 g : à 0 g;
+**a)** lorsqu’elle est inférieure à 0,5 g : à 0 g;
 
-**b)** lorsqu'elle est égale ou supérieure à 0,5 g : au plus proche multiple de 1 g.
+
+
+**b)** lorsqu’elle est égale ou supérieure à 0,5 g : au plus proche multiple de 1 g.
+
+
 
 **(2)** Le pourcentage est arrondi :
 
 **a)** lorsque la teneur déclarée est « 0 g » : à 0 %;
 
+
+
 **b)** dans les autres cas : au plus proche multiple de 1 %.
 
+
+
 </td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
 </tr>
 <tr>
 <td>11</td>
@@ -2388,9 +2439,13 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>La teneur est exprimée en grammes par portion déterminée.</td>
 <td>La teneur est arrondie :
 
-**a)** lorsqu'elle est inférieure à 0,5 g : à 0 g;
+**a)** lorsqu’elle est inférieure à 0,5 g : à 0 g;
 
-**b)** lorsqu'elle est égale ou supérieure à 0,5 g : au plus proche multiple de 1 g.
+
+
+**b)** lorsqu’elle est égale ou supérieure à 0,5 g : au plus proche multiple de 1 g.
+
+
 
 </td>
 </tr>
@@ -2401,9 +2456,13 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>La teneur est exprimée en grammes par portion déterminée.</td>
 <td>La teneur est arrondie :
 
-**a)** lorsqu'elle est inférieure à 0,5 g : au plus proche multiple de 0,1 g;
+**a)** lorsqu’elle est inférieure à 0,5 g : au plus proche multiple de 0,1 g;
 
-**b)** lorsqu'elle est égale ou supérieure à 0,5 g : au plus proche multiple de 1 g.
+
+
+**b)** lorsqu’elle est égale ou supérieure à 0,5 g : au plus proche multiple de 1 g.
+
+
 
 </td>
 </tr>
@@ -2413,11 +2472,19 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 **a)** vitamine A
 
+
+
 **b)** vitamine B
+
+
 
 **c)** calcium
 
+
+
 **d)** fer
+
+
 
 </td>
 <td>**a)** « Vitamine A » ou « Vit A »
@@ -2432,23 +2499,35 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <td>La teneur est exprimée en pourcentage de la valeur quotidienne par portion déterminée</td>
 <td>Le pourcentage est arrondi :
 
-**a)** lorsqu'il est inférieur à 2 % :
+**a)** lorsqu’il est inférieur à 2 % :
 
 **(i)** si le produit contient moins de 1 % de la valeur quotidienne par quantité de référence et par portion déterminée : à 0 %,
 
+
+
 **(ii)** dans les autres cas : à 2 %;
 
-**b)** lorsqu'il est égal ou supérieur à 2 % sans dépasser 10 % : au plus proche multiple de 2 %;
 
-**c)** lorsqu'il est supérieur à 10 % sans dépasser 50 % : au plus proche multiple de 5 %;
 
-**d)** lorsqu'il est supérieur à 50 % : au plus proche multiple de 10 %.
+
+
+**b)** lorsqu’il est égal ou supérieur à 2 % sans dépasser 10 % : au plus proche multiple de 2 %;
+
+
+
+**c)** lorsqu’il est supérieur à 10 % sans dépasser 50 % : au plus proche multiple de 5 %;
+
+
+
+**d)** lorsqu’il est supérieur à 50 % : au plus proche multiple de 10 %.
+
+
 
 </td>
 </tr>
 </table>
 
->  DORS/2003-11, art. 20.
+> DORS/2003-11, art. 20; DORS/2007-176, art. 5.
 
 
 
@@ -5060,239 +5139,278 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 **B.01.513** 
 
-- **(1)** Est interdite, sur l'étiquette ou dans l'annonce d'un aliment, la mention ou l'allégation « léger » ou « light », de même que toute mention ou toute allégation ayant la même consonance que celle-ci, à l'égard d'une caractéristique organoleptique de l'aliment, à moins que les conditions suivantes soient réunies :
-	- **a)** si la mention ou l'allégation « léger » ou « light » est faite sur l'étiquette d'un aliment, la caractéristique organoleptique, à la fois :
-		- **(i)** précède ou suit, sans qu'aucun texte imprimé ou écrit ni aucun signe graphique ne soit intercalé :
-			- **(A)** la mention ou l'allégation ne paraissant qu'une seule fois,
-			- **(B)** si la mention ou l'allégation est répétée, celle qui est la plus en évidence sur l'espace principal ou, à défaut, celle qui est la plus en évidence ailleurs sur l'étiquette,
-		- **(ii)** figure en caractères d'une taille qui est au moins égale et aussi bien en vue que :
-			- **(A)** ceux de la mention ou de l'allégation ne paraissant qu'une seule fois,
-			- **(B)** si la mention ou l'allégation est répétée, ceux de celle qui est la plus en évidence sur l'espace principal ou, à défaut, ceux de celle qui est la plus en évidence ailleurs sur l'étiquette;
-	- **b)** si la mention ou l'allégation « léger » ou « light » est faite dans l'annonce d'un aliment autre qu'une annonce radiophonique ou télévisée, la caractéristique organoleptique, à la fois :
-		- **(i)** précède ou suit, sans qu'aucun texte imprimé ou écrit ni aucun signe graphique ne soit intercalé, la mention ou l'allégation ne paraissant qu'une seule fois ou, si une telle mention ou allégation est répétée, celle qui est la plus en évidence,
-		- **(ii)** figure en caractères d'une taille qui est au moins égale et aussi bien en vue que ceux de la mention ou de l'allégation ne paraissant qu'une seule fois ou, si la mention ou l'allégation est répétée, que ceux de celle qui est la plus en évidence;
-	- **c)** si la mention ou l'allégation « léger » ou « light » est faite dans une annonce radiophonique ou dans la composante audio d'une annonce télévisée, la caractéristique organoleptique précède ou suit immédiatement la mention ou l'allégation;
-	- **d)** si la mention ou l'allégation « léger » ou « light » est faite dans la composante visuelle d'une annonce télévisée, la caractéristique organoleptique, à la fois :
-		- **(i)** paraît en même temps et pendant la même durée que la mention ou l'allégation,
-		- **(ii)** précède ou suit, sans qu'aucun texte imprimé ou écrit ni aucun signe graphique ne soit intercalé, la mention ou l'allégation ne paraissant qu'une seule fois ou, si la mention ou l'allégation est répétée, celle qui est la plus en évidence,
-		- **(iii)** figure en caractères d'une taille au moins égale et aussi bien en vue que ceux de la mention ou de l'allégation ne paraissant qu'une seule fois ou, si la mention ou l'allégation est répétée, que ceux de celle qui est la plus en évidence.
+- **(1)** Est interdite, sur l’étiquette ou dans l’annonce d’un aliment, la mention ou l’allégation « léger » ou « *light* », de même que toute mention ou toute allégation ayant la même consonance que celle-ci, à l’égard d’une caractéristique organoleptique de l’aliment, à moins que les conditions suivantes soient réunies :
+	- **a)** si la mention ou l’allégation « léger » ou « *light* » est faite sur l’étiquette d’un aliment, la caractéristique organoleptique, à la fois :
+		- **(i)** précède ou suit, sans qu’aucun texte imprimé ou écrit ni aucun signe graphique ne soit intercalé :
+			- **(A)** la mention ou l’allégation ne paraissant qu’une seule fois,
+			- **(B)** si la mention ou l’allégation est répétée, celle qui est la plus en évidence sur l’espace principal ou, à défaut, celle qui est la plus en évidence ailleurs sur l’étiquette,
+		- **(ii)** figure en caractères d’une taille qui est au moins égale et aussi bien en vue que :
+			- **(A)** ceux de la mention ou de l’allégation ne paraissant qu’une seule fois,
+			- **(B)** si la mention ou l’allégation est répétée, ceux de celle qui est la plus en évidence sur l’espace principal ou, à défaut, ceux de celle qui est la plus en évidence ailleurs sur l’étiquette;
+	- **b)** si la mention ou l’allégation « léger » ou « *light* » est faite dans l’annonce d’un aliment autre qu’une annonce radiophonique ou télévisée, la caractéristique organoleptique, à la fois :
+		- **(i)** précède ou suit, sans qu’aucun texte imprimé ou écrit ni aucun signe graphique ne soit intercalé, la mention ou l’allégation ne paraissant qu’une seule fois ou, si une telle mention ou allégation est répétée, celle qui est la plus en évidence,
+		- **(ii)** figure en caractères d’une taille qui est au moins égale et aussi bien en vue que ceux de la mention ou de l’allégation ne paraissant qu’une seule fois ou, si la mention ou l’allégation est répétée, que ceux de celle qui est la plus en évidence;
+	- **c)** si la mention ou l’allégation « léger » ou « *light* » est faite dans une annonce radiophonique ou dans la composante audio d’une annonce télévisée, la caractéristique organoleptique précède ou suit immédiatement la mention ou l’allégation;
+	- **d)** si la mention ou l’allégation « léger » ou « *light* » est faite dans la composante visuelle d’une annonce télévisée, la caractéristique organoleptique, à la fois :
+		- **(i)** paraît en même temps et pendant la même durée que la mention ou l’allégation,
+		- **(ii)** précède ou suit, sans qu’aucun texte imprimé ou écrit ni aucun signe graphique ne soit intercalé, la mention ou l’allégation ne paraissant qu’une seule fois ou, si la mention ou l’allégation est répétée, celle qui est la plus en évidence,
+		- **(iii)** figure en caractères d’une taille au moins égale et aussi bien en vue que ceux de la mention ou de l’allégation ne paraissant qu’une seule fois ou, si la mention ou l’allégation est répétée, que ceux de celle qui est la plus en évidence.
 
-- **(2)** Le paragraphe (1) ne s'applique pas :
-	- **a)** à la mention ou à l'allégation anglaise « light » faite conformément au paragraphe 12(1) du Règlement sur les produits de l'érable;
-	- **b)** à la mention ou à l'allégation « léger » ou « light » faite à l'égard du rhum.
+- **(2)** Le paragraphe (1) ne s’applique pas :
+	- **a)** à la mention ou à l’allégation anglaise « *light* » faite conformément au paragraphe 12(1) du [Règlement sur les produits de l’érable](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/201-300/C.R.C.,%20ch.%20289.md);
+	- **b)** à la mention ou à l’allégation « léger » ou « *light* » faite à l’égard du rhum.
 #### TABLEAU
 <table>
 <tr>
-<th></th>
+<th>Article</th>
 <th>Colonne 1</th>
 <th>Colonne 2</th>
 <th>Colonne 3</th>
 <th>Colonne 4</th>
 </tr>
 <tr>
-<th>Article</th>
 <th>Sujet</th>
 <th>Critères — aliments</th>
 <th>Critères — étiquette ou annonce</th>
 <th>Mention ou allégation</th>
 </tr>
 <tr>
-<th> </th>
-</tr>
-<tr>
-<td>  1.</td>
+<td>1</td>
 <td>Sans énergie</td>
-<td>L'aliment fournit moins de 5 Calories ou 21 kilojoules par quantité de référence et par portion déterminée.</td>
+<td>L’aliment fournit moins de 5 Calories ou 21 kilojoules par quantité de référence et par portion déterminée.</td>
 <td></td>
-<td>« sans énergie », « 0 énergie », « zéro énergie », « aucune énergie », « ne fournit pas d'énergie », « sans Calories », « 0 Calorie », « zéro Calorie », « aucune Calorie » ou « ne fournit pas de Calories »</td>
+<td>« sans énergie », « 0 énergie », « zéro énergie », « aucune énergie », « ne fournit pas d’énergie », « sans Calories », « 0 Calorie », « zéro Calorie », « aucune Calorie » ou « ne fournit pas de Calories »</td>
 </tr>
 <tr>
-<td>  2.</td>
-<td>Peu d'énergie</td>
-<td>L'aliment fournit, selon le cas :
+<td>2</td>
+<td>Peu d’énergie</td>
+<td>L’aliment fournit, selon le cas :
 
-**a)** au plus 40 Calories ou 167 kilojoules par quantité de référence et par portion déterminée, et par 50 g si la quantité de référence est 30 g ou 30 mL ou moins;
+**a)** au plus 40 Calories ou 167 kilojoules par quantité de référence et par portion déterminée et, dans le cas d’un aliment autre qu’un édulcorant de table, par 50 g si la quantité de référence est 30 g ou 30 mL ou moins;
 
-**b)** au plus 120 Calories ou 500 kilojoules par 100 g, si l'aliment est un repas préemballé.
+
+
+**b)** au plus 120 Calories ou 500 kilojoules par 100 g, si l’aliment est un repas préemballé.
+
+
 
 </td>
 <td></td>
-<td>« peu d'énergie », « peu de Calories », « faible valeur énergétique », « pauvre en énergie », « pauvre en Calories », « fournit seulement (quantité) Calories par portion », « fournit moins de (quantité) Calories par portion », « hypocalorique » ou « peu calorique »</td>
+<td>« peu d’énergie », « peu de Calories », « faible valeur énergétique », « pauvre en énergie », « pauvre en Calories », « fournit seulement (quantité) Calories par portion », « fournit moins de (quantité) Calories par portion », « hypocalorique » ou « peu calorique »</td>
 </tr>
 <tr>
-<td>  3.</td>
+<td>3</td>
 <td>Énergie réduite</td>
-<td>**(1)** L'aliment présente, après transformation, formulation, reformulation ou autre modification, une diminution d'au moins 25 % de sa valeur énergétique, selon le cas :
+<td>**(1)** L’aliment présente, après transformation, formulation, reformulation ou autre modification, une diminution d’au moins 25 % de sa valeur énergétique, selon le cas :
 
-**a)** par quantité de référence, par rapport à l'aliment de référence similaire;
+**a)** par quantité de référence, par rapport à l’aliment de référence similaire;
 
-**b)** par 100 g, par rapport à l'aliment de référence similaire, si l'aliment est un repas préemballé.
 
-**(2)** L'aliment de référence similaire ne répond pas aux critères mentionnés à la colonne 2 de l'article 2 en regard du sujet « peu d'énergie » figurant à la colonne 1.
 
-</td>
-<td>Les renseignements suivants sont mentionnés :
+**b)** par 100 g, par rapport à l’aliment de référence similaire, si l’aliment est un repas préemballé.
 
-**a)** l'aliment de référence similaire;
 
-**b)** la quantité de l'aliment et celle de l'aliment de référence similaire utilisées aux fins de comparaison si elles diffèrent;
 
-**c)** la différence de valeur énergétique, par portion déterminée, exprimée en pourcentage, en fraction ou en Calories, par rapport à l'aliment de référence similaire.
-
-</td>
-<td>« énergie réduite », « valeur énergétique réduite », « moins d'énergie », « plus faible valeur énergétique », « plus pauvre en énergie », « moins de Calories » ou « plus pauvre en Calories »</td>
-</tr>
-<tr>
-<td>  4.</td>
-<td>Moins d'énergie</td>
-<td>**(1)** La valeur énergétique de l'aliment est d'au moins 25 % inférieure, selon le cas :
-
-**a)** par quantité de référence, à celle de l'aliment de référence du même groupe alimentaire;
-
-**b)** par 100 g, à celle de l'aliment de référence du même groupe alimentaire, si l'aliment est un repas préemballé.
-
-**(2)** L'aliment de référence du même groupe alimentaire ne répond pas aux critères mentionnés à la colonne 2 de l'article 2 en regard du sujet « peu d'énergie » figurant à la colonne 1.
+**(2)** L’aliment de référence similaire ne répond pas aux critères mentionnés à la colonne 2 de l’article 2 en regard du sujet « peu d’énergie » figurant à la colonne 1.
 
 </td>
 <td>Les renseignements suivants sont mentionnés :
 
-**a)** l'aliment de référence du même groupe alimentaire;
+**a)** l’aliment de référence similaire;
 
-**b)** la quantité de l'aliment et celle de l'aliment de référence du même groupe alimentaire utilisées aux fins de comparaison si elles diffèrent;
 
-**c)** la différence de valeur énergétique, par portion déterminée, exprimée en pourcentage, en fraction ou en Calories, par rapport à l'aliment de référence du même groupe alimentaire.
+
+**b)** la quantité de l’aliment et celle de l’aliment de référence similaire utilisées aux fins de comparaison si elles diffèrent;
+
+
+
+**c)** la différence de valeur énergétique, par portion déterminée, exprimée en pourcentage, en fraction ou en Calories, par rapport à l’aliment de référence similaire.
+
+
 
 </td>
-<td>« moins d'énergie », « plus faible valeur énergétique », « plus pauvre en énergie », « moins de Calories » ou « plus pauvre en Calories »</td>
+<td>« énergie réduite », « valeur énergétique réduite », « moins d’énergie », « plus faible valeur énergétique », « plus pauvre en énergie », « moins de Calories » ou « plus pauvre en Calories »</td>
 </tr>
 <tr>
+<td>4</td>
+<td>Moins d’énergie</td>
+<td>La valeur énergétique de l’aliment est d’au moins 25 % inférieure, selon le cas :
+
+**a)** par quantité de référence, à celle de l’aliment de référence du même groupe alimentaire;
+
+
+
+**b)** par 100 g, à celle de l’aliment de référence du même groupe alimentaire, si l’aliment est un repas préemballé.
+
+
+
+**(2)** L’aliment de référence du même groupe alimentaire ne répond pas aux critères mentionnés à la colonne 2 de l’article 2 en regard du sujet « peu d’énergie » figurant à la colonne 1.
+
+</td>
+<td>Les renseignements suivants sont mentionnés :
+
+**a)** l’aliment de référence du même groupe alimentaire;
+
+
+
+**b)** la quantité de l’aliment et celle de l’aliment de référence du même groupe alimentaire utilisées aux fins de comparaison si elles diffèrent;
+
+
+
+**c)** la différence de valeur énergétique, par portion déterminée, exprimée en pourcentage, en fraction ou en Calories, par rapport à l’aliment de référence du même groupe alimentaire.
+
+
+
+</td>
+<td>« moins d’énergie », « plus faible valeur énergétique », « plus pauvre en énergie », « moins de Calories » ou « plus pauvre en Calories »</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Source d’énergie</td>
+<td>L’aliment fournit au moins 100 Calories ou 420 kilojoules par quantité de référence et par portion déterminée.</td>
 <td></td>
+<td>« source d’énergie », « fournit de l’énergie », « source de Calories » ou « fournit des Calories »</td>
 </tr>
 <tr>
-<td>  5.</td>
-<td>Source d'énergie</td>
-<td>L'aliment fournit au moins 100 Calories ou 420 kilojoules par quantité de référence et par portion déterminée.</td>
-<td></td>
-<td>« source d'énergie », « fournit de l'énergie », « source de Calories » ou « fournit des Calories »</td>
-</tr>
-<tr>
-<td>  6.</td>
-<td>Plus d'énergie</td>
-<td>L'aliment fournit au moins 25 % plus d'énergie, soit au moins 100 Calories ou 420 kilojoules de plus, selon le cas :
+<td>6</td>
+<td>Plus d’énergie</td>
+<td>L’aliment fournit au moins 25 % plus d’énergie, soit au moins 100 Calories ou 420 kilojoules de plus, selon le cas :
 
-**a)** par quantité de référence, par rapport à l'aliment de référence du même groupe alimentaire ou l'aliment de référence similaire;
+**a)** par quantité de référence, par rapport à l’aliment de référence du même groupe alimentaire ou l’aliment de référence similaire;
 
-**b)** par 100 g, par rapport à l'aliment de référence du même groupe alimentaire ou l'aliment de référence similaire, si l'aliment est un repas préemballé.
+
+
+**b)** par 100 g, par rapport à l’aliment de référence du même groupe alimentaire ou l’aliment de référence similaire, si l’aliment est un repas préemballé.
+
+
 
 </td>
 <td>Les renseignements suivants sont mentionnés :
 
-**a)** l'aliment de référence du même groupe alimentaire ou l'aliment de référence similaire;
+**a)** l’aliment de référence du même groupe alimentaire ou l’aliment de référence similaire;
 
-**b)** la quantité de l'aliment et celle de l'aliment de référence du même groupe alimentaire ou de l'aliment de référence similaire utilisées aux fins de comparaison si elles diffèrent;
 
-**c)** la différence de valeur énergétique, par portion déterminée, exprimée en pourcentage, en fraction ou en Calories, par rapport à l'aliment de référence du même groupe alimentaire ou l'aliment de référence similaire.
+
+**b)** la quantité de l’aliment et celle de l’aliment de référence du même groupe alimentaire ou de l’aliment de référence similaire utilisées aux fins de comparaison si elles diffèrent;
+
+
+
+**c)** la différence de valeur énergétique, par portion déterminée, exprimée en pourcentage, en fraction ou en Calories, par rapport à l’aliment de référence du même groupe alimentaire ou l’aliment de référence similaire.
+
+
 
 </td>
 <td>« plus de Calories », « fournit plus de Calories »</td>
 </tr>
 <tr>
-<td></td>
-</tr>
-<tr>
-<td>  7.</td>
+<td>7</td>
 <td>Faible teneur en protéines</td>
-<td>L'aliment contient, par 100 g, au plus 1 g de protéines.</td>
+<td>L’aliment contient, par 100 g, au plus 1 g de protéines.</td>
 <td></td>
 <td>« faible teneur en protéines », « pauvre en protéines », « contient seulement (quantité) g de protéines par portion » ou « contient moins de (quantité) g de protéines par portion »</td>
 </tr>
 <tr>
-<td>  8.</td>
+<td>8</td>
 <td>Source de protéines</td>
-<td>L'aliment a une cote protéique d'au moins 20, déterminée selon la méthode officielle FO-1 intitulée Détermination de cote protéique, du 15 octobre 1981, selon le cas :
+<td>L’aliment a une cote protéique d’au moins 20, déterminée selon la méthode officielle FO-1 intitulée Détermination de cote protéique, du 15 octobre 1981, selon le cas :
 
 **a)** par ration quotidienne raisonnable;
 
-**b)** par 30 g, combiné avec 125 mL de lait, s'il s'agit de céréales à déjeuner.
+
+
+**b)** par 30 g, combiné avec 125 mL de lait, s’il s’agit de céréales à déjeuner.
+
+
 
 </td>
 <td></td>
 <td>« source de protéines », « contient des protéines », « bonne source de protéines » ou « teneur élevée en protéines »</td>
 </tr>
 <tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td>  9.</td>
+<td>9</td>
 <td>Excellente source de protéines</td>
-<td>L'aliment a une cote protéique d'au moins 40, déterminée selon la méthode officielle FO-1 intitulée Détermination de cote protéique, du 15 octobre 1981, selon le cas :
+<td>L’aliment a une cote protéique d’au moins 40, déterminée selon la méthode officielle FO-1 intitulée Détermination de cote protéique, du 15 octobre 1981, selon le cas :
 
 **a)** par ration quotidienne raisonnable;
 
-**b)** par 30 g, combiné avec 125 mL de lait, s'il s'agit de céréales à déjeuner.
+
+
+**b)** par 30 g, combiné avec 125 mL de lait, s’il s’agit de céréales à déjeuner.
+
+
 
 </td>
 <td></td>
 <td>« excellente source de protéines », « très bonne source de protéines », « teneur très élevée en protéines » ou « riche en protéines »</td>
 </tr>
 <tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
 <td>10</td>
 <td>Plus de protéines</td>
-<td>L'aliment a, à la fois :
+<td>L’aliment a, à la fois :
 
-**a)** une cote protéique d'au moins 20, déterminée selon la méthode officielle FO-1, intitulée Détermination de cote protéique du 15 octobre 1981, selon le cas :
+**a)** une cote protéique d’au moins 20, déterminée selon la méthode officielle FO-1, intitulée Détermination de cote protéique du 15 octobre 1981, selon le cas :
 
 **(i)** par ration quotidienne raisonnable,
 
-**(ii)** par 30 g, combiné avec 125 mL de lait, s'il s'agit de céréales à déjeuner;
 
-**b)** une teneur en protéines supérieure d'au moins 25 %, soit au moins 7 g de plus, par ration quotidienne raisonnable par rapport à l'aliment de référence du même groupe alimentaire ou l'aliment de référence similaire.
+
+**(ii)** par 30 g, combiné avec 125 mL de lait, s’il s’agit de céréales à déjeuner;
+
+
+
+
+
+**b)** une teneur en protéines supérieure d’au moins 25 %, soit au moins 7 g de plus, par ration quotidienne raisonnable par rapport à l’aliment de référence du même groupe alimentaire ou l’aliment de référence similaire.
+
+
 
 </td>
 <td>Les renseignements suivants sont mentionnés :
 
-**a)** l'aliment de référence du même groupe alimentaire ou l'aliment de référence similaire;
+**a)** l’aliment de référence du même groupe alimentaire ou l’aliment de référence similaire;
 
-**b)** la quantité de l'aliment et celle de l'aliment de référence du même groupe alimentaire ou de l'aliment de référence similaire utilisées aux fins de comparaison si elles diffèrent;
 
-**c)** la différence de teneur en protéines, par portion déterminée, exprimée en pourcentage, en fraction ou en grammes, par rapport à l'aliment de référence du même groupe alimentaire ou l'aliment de référence similaire.
+
+**b)** la quantité de l’aliment et celle de l’aliment de référence du même groupe alimentaire ou de l’aliment de référence similaire utilisées aux fins de comparaison si elles diffèrent;
+
+
+
+**c)** la différence de teneur en protéines, par portion déterminée, exprimée en pourcentage, en fraction ou en grammes, par rapport à l’aliment de référence du même groupe alimentaire ou l’aliment de référence similaire.
+
+
 
 </td>
 <td>« plus de protéines »</td>
 </tr>
 <tr>
-<td></td>
-</tr>
-<tr>
 <td>11</td>
 <td>Sans lipides</td>
-<td>L'aliment contient, selon le cas :
+<td>L’aliment contient, selon le cas :
 
 **a)** moins de 0,5 g de lipides par quantité de référence et par portion déterminée;
 
-**b)** moins de 0,5 g de lipides par portion déterminée, si l'aliment est un repas préemballé.
+
+
+**b)** moins de 0,5 g de lipides par portion déterminée, si l’aliment est un repas préemballé.
+
+
 
 </td>
 <td></td>
-<td>« sans lipides », « 0 lipide », « zéro lipide », « aucun lipide », « ne contient pas de lipides », « sans matières grasses », « 0 matière grasse », « zéro matière grasse », « aucune matière grasse », « ne contient pas de matières grasses », « sans gras », « 0 gras », « zéro gras », « aucun gras », « ne contient pas de gras », « sans graisses », « 0 graisse », « zéro graisse », « aucune graisse » ou « ne contient pas de graisses »</td>
+<td>« sans lipides », « 0 lipide », « zéro lipide », « aucun lipide », « ne contient pas de lipides », « sans matières grasses », « 0 matière grasse », « zéro matière grasse », « aucune matière grasse », « ne contient pas de matières grasses », « sans gras », « 0 gras », « zéro gras », « aucun gras », « ne contient pas de gras », « sans graisses », « 0 graisse », « zéro graisse », « aucune graisse » ou « ne contient pas de graisses »</td>
 </tr>
 <tr>
 <td>12</td>
 <td>Faible teneur en lipides</td>
-<td>L'aliment contient, selon le cas :
+<td>L’aliment contient, selon le cas :
 
-**a)** au plus 3 g de lipides par quantité de référence et par portion déterminée, et par 50 g si la quantité de référence est 30 g ou 30 mL ou moins;
+**a)** au plus 3 g de lipides par quantité de référence et par portion déterminée, et par 50 g si la quantité de référence est 30 g ou 30 mL ou moins;
 
-**b)** au plus 3 g de lipides par 100 g, 30 % ou moins de l'énergie provenant des lipides, si l'aliment est un repas préemballé.
+
+
+**b)** au plus 3 g de lipides par 100 g, 30 % ou moins de l’énergie provenant des lipides, si l’aliment est un repas préemballé.
+
+
 
 </td>
 <td></td>
@@ -5301,46 +5419,65 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <tr>
 <td>13</td>
 <td>Teneur réduite en lipides</td>
-<td>**(1)** L'aliment présente, après transformation, formulation, reformulation ou autre modification, une diminution d'au moins 25 % de la teneur en lipides, selon le cas :
+<td>**(1)** L’aliment présente, après transformation, formulation, reformulation ou autre modification, une diminution d’au moins 25 % de la teneur en lipides, selon le cas :
 
-**a)** par quantité de référence, par rapport à l'aliment de référence similaire;
+**a)** par quantité de référence, par rapport à l’aliment de référence similaire;
 
-**b)** par 100 g, par rapport à l'aliment de référence similaire, si l'aliment est un repas préemballé.
 
-**(2)** L'aliment de référence similaire ne répond pas aux critères mentionnés à la colonne 2 de l'article 12 en regard du sujet « faible teneur en lipides » figurant à la colonne 1.
+
+**b)** par 100 g, par rapport à l’aliment de référence similaire, si l’aliment est un repas préemballé.
+
+
+
+**(2)** L’aliment de référence similaire ne répond pas aux critères mentionnés à la colonne 2 de l’article 12 en regard du sujet « faible teneur en lipides » figurant à la colonne 1.
 
 </td>
 <td>Les renseignements suivants sont mentionnés :
 
-**a)** l'aliment de référence similaire;
+**a)** l’aliment de référence similaire;
 
-**b)** la quantité de l'aliment et celle de l'aliment de référence similaire utilisées aux fins de comparaison si elles diffèrent;
 
-**c)** la différence de teneur en lipides, par portion déterminée, exprimée en pourcentage, en fraction ou en grammes, par rapport à l'aliment de référence similaire.
+
+**b)** la quantité de l’aliment et celle de l’aliment de référence similaire utilisées aux fins de comparaison si elles diffèrent;
+
+
+
+**c)** la différence de teneur en lipides, par portion déterminée, exprimée en pourcentage, en fraction ou en grammes, par rapport à l’aliment de référence similaire.
+
+
 
 </td>
 <td>« teneur réduite en lipides », « moins de lipides », « teneur plus faible en lipides », « plus pauvre en lipides », « teneur réduite en matières grasses », « moins de matières grasses », « teneur plus faible en matières grasses », « plus pauvre en matières grasses », « teneur réduite en gras », « moins de gras », « teneur plus faible en gras », « plus pauvre en gras », « teneur réduite en graisses », « moins de graisses », « teneur plus faible en graisses » ou « plus pauvre en graisses »</td>
 </tr>
 <tr>
-<td></td>
-</tr>
-<tr>
 <td>14</td>
 <td>Moins de lipides</td>
-<td>**(1)** La teneur en lipides de l'aliment est d'au moins 25 % inférieure, selon le cas :
+<td>**(1)** La teneur en lipides de l’aliment est d’au moins 25 % inférieure, selon le cas :
 
-**a)** par quantité de référence, à celle de l'aliment de référence du même groupe alimentaire;
+**a)** par quantité de référence, à celle de l’aliment de référence du même groupe alimentaire;
 
-**b)** par 100 g, à celle de l'aliment de référence du même groupe alimentaire, si l'aliment est un repas préemballé.
 
-**(2)** L'aliment de référence du même groupe alimentaire ne répond pas aux critères mentionnés à la colonne 2 de l'article 12 en regard du sujet « faible teneur en lipides » figurant à la colonne 1.
+
+**b)** par 100 g, à celle de l’aliment de référence du même groupe alimentaire, si l’aliment est un repas préemballé.
+
+
+
+**(2)** L’aliment de référence du même groupe alimentaire ne répond pas aux critères mentionnés à la colonne 2 de l’article 12 en regard du sujet « faible teneur en lipides » figurant à la colonne 1.
 
 </td>
-<td>Les renseignements suivants sont mentionnés :**a)** l'aliment de référence du même groupe alimentaire;
+<td>Les renseignements suivants sont mentionnés :
 
-**b)** la quantité de l'aliment et celle de l'aliment de référence du même groupe alimentaire utilisées aux fins de comparaison si elles diffèrent;
+**a)** l’aliment de référence du même groupe alimentaire;
 
-**c)** la différence de teneur en lipides, par portion déterminée, exprimée en pourcentage, en fraction ou en grammes, par rapport à l'aliment de référence du même groupe alimentaire.
+
+
+**b)** la quantité de l’aliment et celle de l’aliment de référence du même groupe alimentaire utilisées aux fins de comparaison si elles diffèrent;
+
+
+
+**c)** la différence de teneur en lipides, par portion déterminée, exprimée en pourcentage, en fraction ou en grammes, par rapport à l’aliment de référence du même groupe alimentaire.
+
+
 
 </td>
 <td>« moins de lipides », « teneur plus faible en lipides », « plus pauvre en lipides », « moins de matières grasses », « teneur plus faible en matières grasses », « plus pauvre en matières grasses », « moins de gras », « teneur plus faible en gras », « plus pauvre en gras », « moins de graisses », « teneur plus faible en graisses » ou « plus pauvre en graisses »</td>
@@ -5348,41 +5485,37 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <tr>
 <td>15</td>
 <td>100 % sans lipides</td>
-<td>L'aliment, à la fois :
+<td>L’aliment, à la fois :
 
 **a)** contient moins de 0,5 g de lipides par 100 g;
 
+
+
 **b)** ne contient pas de lipides ajoutés;
 
-**c)** répond aux critères mentionnés à la colonne 2 de l'article 11 en regard du sujet « sans lipides » figurant à la colonne 1.
+
+
+**c)** répond aux critères mentionnés à la colonne 2 de l’article 11 en regard du sujet « sans lipides » figurant à la colonne 1.
+
+
 
 </td>
 <td></td>
 <td>« 100 % sans lipides », « 100 % sans matières grasses », « 100 % sans gras » ou « 100 % sans graisses »</td>
 </tr>
 <tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
 <td>16</td>
 <td>(Pourcentage) sans lipides</td>
-<td>L'aliment répond aux critères mentionnés à la colonne 2 de l'article 12 en regard du sujet « faible teneur en lipides » figurant à la colonne 1.</td>
-<td>L'une des mentions ou allégations ci-après est faite :
-
-« faible teneur en lipides », « faible teneur en matières grasses », « faible teneur en gras », « faible teneur en graisses », « pauvre en lipides », « pauvre en matières grasses », « pauvre en gras » ou « pauvre en graisses »
-
-</td>
+<td>L’aliment répond aux critères mentionnés à la colonne 2 de l’article 12 en regard du sujet « faible teneur en lipides » figurant à la colonne 1.</td>
+<td>L’une des mentions ou allégations ci-après est faite : « faible teneur en lipides », « faible teneur en matières grasses », « faible teneur en gras », « faible teneur en graisses », « pauvre en lipides », « pauvre en matières grasses », « pauvre en gras » ou « pauvre en graisses »</td>
 <td>« (pourcentage) sans lipides », « (pourcentage) sans matières grasses », « (pourcentage) sans gras » ou « (pourcentage) sans graisses »</td>
 </tr>
 <tr>
 <td>17</td>
 <td>Non additionné de matières grasses</td>
-<td>**(1)** Aucune graisse ou huile visée au titre 9, ni aucun beurre, ghee ou ingrédient additionné de graisse ou d'huile, de beurre ou de ghee n'a été ajouté à l'aliment.
+<td>**(1)** Aucune graisse ou huile visée au titre 9, ni aucun beurre, ghee ou ingrédient additionné de graisse ou d’huile, de beurre ou de ghee n’a été ajouté à l’aliment.
 
-**(2)** L'aliment de référence similaire est additionné de graisse ou d'huile visée au titre 9, de beurre ou de ghee.
+**(2)** L’aliment de référence similaire est additionné de graisse ou d’huile visée au titre 9, de beurre ou de ghee.
 
 </td>
 <td></td>
@@ -5391,239 +5524,311 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <tr>
 <td>18</td>
 <td>Sans acides gras saturés</td>
-<td>L'aliment contient, selon le cas :
+<td>L’aliment contient, selon le cas :
 
-**a)** moins de 0,2 g d'acides gras saturés et moins de 0,2 g d'acides gras *trans* par quantité de référence et par portion déterminée;
+**a)** moins de 0,2 g d’acides gras saturés et moins de 0,2 g d’acides gras *trans* par quantité de référence et par portion déterminée;
 
-**b)** moins de 0,2 g d'acides gras saturés et moins de 0,2 g d'acides gras *trans* par portion déterminée si l'aliment est un repas préemballé.
+
+
+**b)** moins de 0,2 g d’acides gras saturés et moins de 0,2 g d’acides gras *trans* par portion déterminée si l’aliment est un repas préemballé.
+
+
 
 </td>
 <td></td>
-<td>« sans acides gras saturés », « 0 acide gras saturé », « zéro acide gras saturé », « aucun acide gras saturé », « ne contient pas d'acides gras saturés », « sans lipides saturés », « 0 lipide saturé », « zéro lipide saturé », « aucun lipide saturé », « ne contient pas de lipides saturés », « sans gras saturés », « 0 gras saturé », « zéro gras saturé », « aucun gras saturé », « ne contient pas de gras saturés », « sans graisses saturées », « 0 graisse saturée », « zéro graisse saturée », « aucune graisse saturée », « ne contient pas de graisses saturées », « sans saturés », « 0 saturé », « zéro saturé », « aucun saturé » ou « ne contient pas de saturés »</td>
+<td>« sans acides gras saturés », « 0 acide gras saturé », « zéro acide gras saturé », « aucun acide gras saturé », « ne contient pas d’acides gras saturés », « sans lipides saturés », « 0 lipide saturé », « zéro lipide saturé », « aucun lipide saturé », « ne contient pas de lipides saturés », « sans gras saturés », « 0 gras saturé », « zéro gras saturé », « aucun gras saturé », « ne contient pas de gras saturés », « sans graisses saturées », « 0 graisse saturée », « zéro graisse saturée », « aucune graisse saturée », « ne contient pas de graisses saturées », « sans saturés », « 0 saturé », « zéro saturé », « aucun saturé » ou « ne contient pas de saturés »</td>
 </tr>
 <tr>
 <td>19</td>
 <td>Faible teneur en acides gras saturés</td>
-<td>**(1)** La somme des acides gras saturés et des acides gras *trans* que contient l'aliment n'excède pas 2 g, selon le cas :
+<td>**(1)** La somme des acides gras saturés et des acides gras *trans* que contient l’aliment n’excède pas 2 g, selon le cas :
 
 **a)** par quantité de référence et par portion déterminée;
 
-**b)** par 100 g, si l'aliment est un repas préemballé.
 
-**(2)** L'aliment fournit au plus 15 % d'énergie provenant de la somme des acides gras saturés et des acides gras *trans*.
+
+**b)** par 100 g, si l’aliment est un repas préemballé.
+
+
+
+**(2)** L’aliment fournit au plus 15 % d’énergie provenant de la somme des acides gras saturés et des acides gras *trans*.
 
 </td>
 <td></td>
-<td>« faible teneur en acides gras saturés », « pauvre en acides gras saturés », « contient seulement (quantité) g d'acides gras saturés par portion », « contient moins de (quantité) g d'acides gras saturés par portion », « peu d'acide gras saturés », « faible teneur en lipides saturés », « pauvre en lipides saturés », « contient seulement (quantité) g de lipides saturés par portion », « contient moins de (quantité) g de lipides saturés par portion », « peu de lipides saturés », « faible teneur en gras saturés », « pauvre en gras saturés », « contient seulement (quantité) g de gras saturés par portion », « contient moins de (quantité) g de gras saturés par portion », « peu de gras saturés », « faible teneur en graisses saturées », « pauvre en graisses saturées », « contient seulement (quantité) g de graisses saturées par portion », « contient moins de (quantité) g de graisses saturées par portion », « peu de graisses saturées », « faible teneur en saturés », « pauvre en saturés », « contient seulement (quantité) g de saturés par portion », « contient moins de (quantité) g de saturés par portion » ou « peu de saturés »</td>
+<td>« faible teneur en acides gras saturés », « pauvre en acides gras saturés », « contient seulement (quantité) g d’acides gras saturés par portion », « contient moins de (quantité) g d’acides gras saturés par portion », « peu d’acide gras saturés », « faible teneur en lipides saturés », « pauvre en lipides saturés », « contient seulement (quantité) g de lipides saturés par portion », « contient moins de (quantité) g de lipides saturés par portion », « peu de lipides saturés », « faible teneur en gras saturés », « pauvre en gras saturés », « contient seulement (quantité) g de gras saturés par portion », « contient moins de (quantité) g de gras saturés par portion », « peu de gras saturés », « faible teneur en graisses saturées », « pauvre en graisses saturées », « contient seulement (quantité) g de graisses saturées par portion », « contient moins de (quantité) g de graisses saturées par portion », « peu de graisses saturées », « faible teneur en saturés », « pauvre en saturés », « contient seulement (quantité) g de saturés par portion », « contient moins de (quantité) g de saturés par portion » ou « peu de saturés »</td>
 </tr>
 <tr>
 <td>20</td>
 <td>Teneur réduite en acides gras saturés</td>
-<td>**(1)** L'aliment présente, après transformation, formulation, reformulation ou autre modification, une diminution d'au moins 25 % de la teneur en acides gras saturés — sans augmentation de la teneur en acides gras *trans*, selon le cas :
+<td>**(1)** L’aliment présente, après transformation, formulation, reformulation ou autre modification, une diminution d’au moins 25 % de la teneur en acides gras saturés — sans augmentation de la teneur en acides gras *trans*, selon le cas :
 
-**a)** par quantité de référence, par rapport à l'aliment de référence similaire;
+**a)** par quantité de référence, par rapport à l’aliment de référence similaire;
 
-**b)** par 100 g, par rapport à l'aliment de référence similaire, si l'aliment est un repas préemballé.
 
-**(2)** L'aliment de référence similaire ne répond pas aux critères mentionnés à la colonne 2 de l'article 19 en regard du sujet « faible teneur en acides gras saturés » figurant à la colonne 1.
+
+**b)** par 100 g, par rapport à l’aliment de référence similaire, si l’aliment est un repas préemballé.
+
+
+
+**(2)** L’aliment de référence similaire ne répond pas aux critères mentionnés à la colonne 2 de l’article 19 en regard du sujet « faible teneur en acides gras saturés » figurant à la colonne 1.
 
 </td>
 <td>Les renseignements suivants sont mentionnés :
 
-**a)** l'aliment de référence similaire;
+**a)** l’aliment de référence similaire;
 
-**b)** la quantité de l'aliment et celle de l'aliment de référence similaire utilisées aux fins de comparaison si elles diffèrent;
 
-**c)** la différence de teneur en acides gras saturés, par portion déterminée, exprimée en pourcentage, en fraction ou en grammes, par rapport à l'aliment de référence similaire.
+
+**b)** la quantité de l’aliment et celle de l’aliment de référence similaire utilisées aux fins de comparaison si elles diffèrent;
+
+
+
+**c)** la différence de teneur en acides gras saturés, par portion déterminée, exprimée en pourcentage, en fraction ou en grammes, par rapport à l’aliment de référence similaire.
+
+
 
 </td>
-<td>« teneur réduite en acides gras saturés », « moins d'acides gras saturés », « teneur plus faible en acides gras saturés », « plus pauvre en acides gras saturés », « teneur réduite en lipides saturés », « moins de lipides saturés », « teneur plus faible en lipides saturés », « plus pauvre en lipides saturés », « teneur réduite en gras saturés », « moins de gras saturés », « teneur plus faible en gras saturés », « plus pauvre en gras saturés », « teneur réduite en graisses saturées », « moins de graisses saturées », « teneur plus faible en graisses saturées », « plus pauvre en graisses saturées », « teneur réduite en saturés », « moins de saturés », « teneur plus faible en saturés » ou « plus pauvre en saturés »</td>
+<td>« teneur réduite en acides gras saturés », « moins d’acides gras saturés », « teneur plus faible en acides gras saturés », « plus pauvre en acides gras saturés », « teneur réduite en lipides saturés », « moins de lipides saturés », « teneur plus faible en lipides saturés », « plus pauvre en lipides saturés », « teneur réduite en gras saturés », « moins de gras saturés », « teneur plus faible en gras saturés », « plus pauvre en gras saturés », « teneur réduite en graisses saturées », « moins de graisses saturées », « teneur plus faible en graisses saturées », « plus pauvre en graisses saturées », « teneur réduite en saturés », « moins de saturés », « teneur plus faible en saturés » ou « plus pauvre en saturés »</td>
 </tr>
 <tr>
 <td>21</td>
-<td>Moins d'acides gras saturés</td>
-<td>**(1)** La teneur en acides gras saturés de l'aliment est d'au moins 25 % inférieure et sa teneur en acides gras *trans* n'est pas supérieure, selon le cas :
+<td>Moins d’acides gras saturés</td>
+<td>**(1)** La teneur en acides gras saturés de l’aliment est d’au moins 25 % inférieure et sa teneur en acides gras *trans* n’est pas supérieure, selon le cas :
 
-**a)** par quantité de référence, à celles de l'aliment de référence du même groupe alimentaire;
+**a)** par quantité de référence, à celles de l’aliment de référence du même groupe alimentaire;
 
-**b)** par 100 g, à celles de l'aliment de référence du même groupe alimentaire, si l'aliment est un repas préemballé.
 
-**(2)** L'aliment de référence du même groupe alimentaire ne répond pas aux critères mentionnés à la colonne 2 de l'article 19 en regard du sujet « faible teneur en acides gras saturés » figurant à la colonne 1.
+
+**b)** par 100 g, à celles de l’aliment de référence du même groupe alimentaire, si l’aliment est un repas préemballé.
+
+
+
+**(2)** L’aliment de référence du même groupe alimentaire ne répond pas aux critères mentionnés à la colonne 2 de l’article 19 en regard du sujet « faible teneur en acides gras saturés » figurant à la colonne 1.
 
 </td>
 <td>Les renseignements suivants sont mentionnés :
 
-**a)** l'aliment de référence du même groupe alimentaire;
+**a)** l’aliment de référence du même groupe alimentaire;
 
-**b)** la quantité de l'aliment et celle de l'aliment de référence du même groupe alimentaire utilisées aux fins de comparaison si elles diffèrent;
 
-**c)** la différence de teneur en acides gras saturés, par portion déterminée, exprimée en pourcentage, en fraction ou en grammes, par rapport à l'aliment de référence du même groupe alimentaire.
+
+**b)** la quantité de l’aliment et celle de l’aliment de référence du même groupe alimentaire utilisées aux fins de comparaison si elles diffèrent;
+
+
+
+**c)** la différence de teneur en acides gras saturés, par portion déterminée, exprimée en pourcentage, en fraction ou en grammes, par rapport à l’aliment de référence du même groupe alimentaire.
+
+
 
 </td>
-<td>« moins d'acides gras saturés », « teneur plus faible en acides gras saturés », « plus pauvre en acides gras saturés », « moins de lipides saturés », « teneur plus faible en lipides saturés », « plus pauvre en lipides saturés », « moins de gras saturés », « teneur plus faible en gras saturés », « plus pauvre en gras saturés », « moins de graisses saturées », « teneur plus faible en graisses saturées », « plus pauvre en graisses saturées », « moins de saturés », « teneur plus faible en saturés » ou « plus pauvre en saturés »</td>
+<td>« moins d’acides gras saturés », « teneur plus faible en acides gras saturés », « plus pauvre en acides gras saturés », « moins de lipides saturés », « teneur plus faible en lipides saturés », « plus pauvre en lipides saturés », « moins de gras saturés », « teneur plus faible en gras saturés », « plus pauvre en gras saturés », « moins de graisses saturées », « teneur plus faible en graisses saturées », « plus pauvre en graisses saturées », « moins de saturés », « teneur plus faible en saturés » ou « plus pauvre en saturés »</td>
 </tr>
 <tr>
 <td>22</td>
 <td>Sans acides gras *trans*</td>
-<td>L'aliment, à la fois :
+<td>L’aliment, à la fois :
 
-**a)** contient moins de 0,2 g d'acides gras *trans*, selon le cas :
+**a)** contient moins de 0,2 g d’acides gras *trans*, selon le cas :
 
 **(i)** par quantité de référence et par portion déterminée,
 
-**(ii)** par portion déterminée si l'aliment est un repas préemballé;
 
-**b)** répond aux critères mentionnés à la colonne 2 de l'article 19 en regard du sujet « faible teneur en acides gras saturés » figurant à la colonne 1.
+
+**(ii)** par portion déterminée si l’aliment est un repas préemballé;
+
+
+
+
+
+**b)** répond aux critères mentionnés à la colonne 2 de l’article 19 en regard du sujet « faible teneur en acides gras saturés » figurant à la colonne 1.
+
+
 
 </td>
 <td></td>
-<td>« sans acides gras trans », « 0 acide gras trans », « zéro acide gras trans », « aucun acide gras trans », « ne contient pas d'acides gras trans », « sans lipides trans », « 0 lipide trans », « zéro lipide trans », « aucun lipide trans », « ne contient pas de lipides trans », « sans gras trans », « 0 gras trans », « zéro gras trans », « aucun gras trans », « ne contient pas de gras trans », « sans graisses trans », « 0 graisse trans », « zéro graisse trans », « aucune graisse trans », « ne contient pas de graisses trans », « sans trans », « 0 trans », « zéro trans », « aucun trans » ou « ne contient pas de trans »</td>
+<td>« sans acides gras trans », « 0 acide gras trans », « zéro acide gras trans », « aucun acide gras trans », « ne contient pas d’acides gras trans », « sans lipides trans », « 0 lipide trans », « zéro lipide trans », « aucun lipide trans », « ne contient pas de lipides trans », « sans gras trans », « 0 gras trans », « zéro gras trans », « aucun gras trans », « ne contient pas de gras trans », « sans graisses trans », « 0 graisse trans », « zéro graisse trans », « aucune graisse trans », « ne contient pas de graisses trans », « sans trans », « 0 trans », « zéro trans », « aucun trans » ou « ne contient pas de trans »</td>
 </tr>
 <tr>
 <td>23</td>
 <td>Teneur réduite en acides gras *trans*</td>
-<td>**(1)** L'aliment présente, après transformation, formulation, reformulation ou autre modification, une diminution d'au moins 25 % de la teneur en acides gras *trans* — sans augmentation de la teneur en acides gras saturés, selon le cas : 
+<td>**(1)** L’aliment présente, après transformation, formulation, reformulation ou autre modification, une diminution d’au moins 25 % de la teneur en acides gras *trans* — sans augmentation de la teneur en acides gras saturés, selon le cas :
 
-**a)** par quantité de référence, par rapport à l'aliment de référence similaire;
+**a)** par quantité de référence, par rapport à l’aliment de référence similaire;
 
-**b)** par 100 g, par rapport à l'aliment de référence similaire, si l'aliment est un repas préemballé.
 
-**(2)** L'aliment de référence similaire ne répond pas aux critères mentionnés à la colonne 2 de l'article 19 en regard du sujet « faible teneur en acides gras saturés » figurant à la colonne 1.
+
+**b)** par 100 g, par rapport à l’aliment de référence similaire, si l’aliment est un repas préemballé.
+
+
+
+**(2)** L’aliment de référence similaire ne répond pas aux critères mentionnés à la colonne 2 de l’article 19 en regard du sujet « faible teneur en acides gras saturés » figurant à la colonne 1.
 
 </td>
 <td>Les renseignements suivants sont mentionnés :
 
-**a)** l'aliment de référence similaire;
+**a)** l’aliment de référence similaire;
 
-**b)** la quantité de l'aliment et celle de l'aliment de référence similaire utilisées aux fins de comparaison si elles diffèrent;
 
-**c)** la différence de teneur en acides gras *trans*, par portion déterminée, exprimée en pourcentage, en fraction ou en grammes, par rapport à l'aliment de référence similaire.
+
+**b)** la quantité de l’aliment et celle de l’aliment de référence similaire utilisées aux fins de comparaison si elles diffèrent;
+
+
+
+**c)** la différence de teneur en acides gras *trans*, par portion déterminée, exprimée en pourcentage, en fraction ou en grammes, par rapport à l’aliment de référence similaire.
+
+
 
 </td>
-<td>« teneur réduite en acides gras trans », « moins d'acides gras trans », « teneur plus faible en acides gras trans », « plus pauvre en acides gras trans », « teneur réduite en lipides trans », « moins de lipides trans », « teneur plus faible en lipides trans », « plus pauvre en lipides trans », « teneur réduite en gras trans », « moins de gras trans », « teneur plus faible en gras trans », « plus pauvre en gras trans », « teneur réduite en graisses trans », « moins de graisses trans », « teneur plus faible en graisses trans », « plus pauvre en graisses trans », « teneur réduite en trans », « moins de trans », « teneur plus faible en trans » ou « plus pauvre en trans »</td>
+<td>« teneur réduite en acides gras trans », « moins d’acides gras trans », « teneur plus faible en acides gras trans », « plus pauvre en acides gras trans », « teneur réduite en lipides trans », « moins de lipides trans », « teneur plus faible en lipides trans », « plus pauvre en lipides trans », « teneur réduite en gras trans », « moins de gras trans », « teneur plus faible en gras trans », « plus pauvre en gras trans », « teneur réduite en graisses trans », « moins de graisses trans », « teneur plus faible en graisses trans », « plus pauvre en graisses trans », « teneur réduite en trans », « moins de trans », « teneur plus faible en trans » ou « plus pauvre en trans »</td>
 </tr>
 <tr>
 <td>24</td>
-<td>Moins d'acides gras *trans*</td>
-<td>**(1)** La teneur en acides gras *trans* de l'aliment est d'au moins 25 % inférieure et sa teneur en acides gras saturés n'est pas supérieure, selon le cas :
+<td>Moins d’acides gras *trans*</td>
+<td>**(1)** La teneur en acides gras *trans* de l’aliment est d’au moins 25 % inférieure et sa teneur en acides gras saturés n’est pas supérieure, selon le cas :
 
-**a)** par quantité de référence, à celles de l'aliment de référence du même groupe alimentaire;
+**a)** par quantité de référence, à celles de l’aliment de référence du même groupe alimentaire;
 
-**b)** par 100 g, à celles de l'aliment de référence du même groupe alimentaire, si l'aliment est un repas préemballé.
 
-**(2)** L'aliment de référence du même groupe alimentaire ne répond pas aux critères mentionnés à la colonne 2 de l'article 19 en regard du sujet « faible teneur en acides gras saturés » figurant à la colonne 1.
+
+**b)** par 100 g, à celles de l’aliment de référence du même groupe alimentaire, si l’aliment est un repas préemballé.
+
+
+
+**(2)** L’aliment de référence du même groupe alimentaire ne répond pas aux critères mentionnés à la colonne 2 de l’article 19 en regard du sujet « faible teneur en acides gras saturés » figurant à la colonne 1.
 
 </td>
 <td>Les renseignements suivants sont mentionnés :
 
-**a)** l'aliment de référence du même groupe alimentaire;
+**a)** l’aliment de référence du même groupe alimentaire;
 
-**b)** la quantité de l'aliment et celle de l'aliment de référence du même groupe alimentaire utilisées aux fins de comparaison si elles diffèrent;
 
-**c)** la différence de teneur en acides gras *trans*, par portion déterminée, exprimée en pourcentage, en fraction ou en grammes, par rapport à l'aliment de référence du même groupe alimentaire.
+
+**b)** la quantité de l’aliment et celle de l’aliment de référence du même groupe alimentaire utilisées aux fins de comparaison si elles diffèrent;
+
+
+
+**c)** la différence de teneur en acides gras *trans*, par portion déterminée, exprimée en pourcentage, en fraction ou en grammes, par rapport à l’aliment de référence du même groupe alimentaire.
+
+
 
 </td>
-<td>« moins d'acides gras trans », « teneur plus faible en acides gras trans », « plus pauvre en acides gras trans », « moins de lipides trans », « teneur plus faible en lipides trans », « plus pauvre en lipides trans », « moins de gras trans », « teneur plus faible en gras trans », « plus pauvre en gras trans », « moins de graisses trans », « teneur plus faible en graisses trans », « plus pauvre en graisses trans », « moins de trans », « teneur plus faible en trans » ou « plus pauvre en trans »</td>
+<td>« moins d’acides gras trans », « teneur plus faible en acides gras trans », « plus pauvre en acides gras trans », « moins de lipides trans », « teneur plus faible en lipides trans », « plus pauvre en lipides trans », « moins de gras trans », « teneur plus faible en gras trans », « plus pauvre en gras trans », « moins de graisses trans », « teneur plus faible en graisses trans », « plus pauvre en graisses trans », « moins de trans », « teneur plus faible en trans » ou « plus pauvre en trans »</td>
 </tr>
 <tr>
 <td>25</td>
-<td>Source d'acides gras polyinsaturés oméga-3</td>
-<td>L'aliment contient, selon le cas :
+<td>Source d’acides gras polyinsaturés oméga-3</td>
+<td>L’aliment contient, selon le cas :
 
-**a)** au moins 0,3 g d'acides gras polyinsaturés oméga-3 par quantité de référence et par portion déterminée;
+**a)** au moins 0,3 g d’acides gras polyinsaturés oméga-3 par quantité de référence et par portion déterminée;
 
-**b)** au moins 0,3 g d'acides gras polyinsaturés oméga-3 par 100 g si l'aliment est un repas préemballé.
+
+
+**b)** au moins 0,3 g d’acides gras polyinsaturés oméga-3 par 100 g si l’aliment est un repas préemballé.
+
+
 
 </td>
 <td></td>
-<td>« source d'acides gras polyinsaturés oméga-3 », « contient des acides gras polyinsaturés oméga-3 », « source de lipides polyinsaturés oméga-3 », « contient des lipides polyinsaturés oméga-3 », « source de gras polyinsaturés oméga-3 », « contient des gras polyinsaturés oméga-3 », « source de graisses polyinsaturées oméga-3 », « contient des graisses polyinsaturées oméga-3 », « source de polyinsaturés oméga-3 » ou « contient des polyinsaturés oméga-3 »</td>
+<td>« source d’acides gras polyinsaturés oméga-3 », « contient des acides gras polyinsaturés oméga-3 », « source de lipides polyinsaturés oméga-3 », « contient des lipides polyinsaturés oméga-3 », « source de gras polyinsaturés oméga-3 », « contient des gras polyinsaturés oméga-3 », « source de graisses polyinsaturées oméga-3 », « contient des graisses polyinsaturées oméga-3 », « source de polyinsaturés oméga-3 » ou « contient des polyinsaturés oméga-3 »</td>
 </tr>
 <tr>
 <td>26</td>
-<td>Source d'acides gras polyinsaturés oméga-6</td>
-<td>L'aliment contient, selon le cas :
+<td>Source d’acides gras polyinsaturés oméga-6</td>
+<td>L’aliment contient, selon le cas :
 
-**a)** au moins 2 g d'acides gras polyinsaturés oméga-6 par quantité de référence et par portion déterminée;
+**a)** au moins 2 g d’acides gras polyinsaturés oméga-6 par quantité de référence et par portion déterminée;
 
-**b)** au moins 2 g d'acides gras polyinsaturés oméga-6 par 100 g, si l'aliment est un repas préemballé.
+
+
+**b)** au moins 2 g d’acides gras polyinsaturés oméga-6 par 100 g, si l’aliment est un repas préemballé.
+
+
 
 </td>
 <td></td>
-<td>« source d'acides gras polyinsaturés oméga-6 », « contient des acides gras polyinsaturés oméga-6 », « source de lipides polyinsaturés oméga-6 », « contient des lipides polyinsaturés oméga-6 », « source de gras polyinsaturés oméga-6 », « contient des gras polyinsaturés oméga-6 », « source de graisses polyinsaturées oméga-6 », « contient des graisses polyinsaturées oméga-6 », « source de polyinsaturés oméga-6 » ou « contient des polyinsaturés oméga-6 »</td>
+<td>« source d’acides gras polyinsaturés oméga-6 », « contient des acides gras polyinsaturés oméga-6 », « source de lipides polyinsaturés oméga-6 », « contient des lipides polyinsaturés oméga-6 », « source de gras polyinsaturés oméga-6 », « contient des gras polyinsaturés oméga-6 », « source de graisses polyinsaturées oméga-6 », « contient des graisses polyinsaturées oméga-6 », « source de polyinsaturés oméga-6 » ou « contient des polyinsaturés oméga-6 »</td>
 </tr>
 <tr>
 <td>27</td>
 <td>Sans cholestérol</td>
-<td>L'aliment, à la fois :
+<td>L’aliment, à la fois :
 
 **a)** contient moins de 2 mg de cholestérol, selon le cas :
 
 **(i)** par quantité de référence et par portion déterminée,
 
-**(ii)** par portion déterminée, si l'aliment est un repas préemballé;
 
-**b)** répond aux critères mentionnés à la colonne 2 de l'article 19 en regard du sujet « faible teneur en acides gras saturés » figurant à la colonne 1.
+
+**(ii)** par portion déterminée, si l’aliment est un repas préemballé;
+
+
+
+
+
+**b)** répond aux critères mentionnés à la colonne 2 de l’article 19 en regard du sujet « faible teneur en acides gras saturés » figurant à la colonne 1.
+
+
 
 </td>
 <td></td>
 <td>« sans cholestérol », « 0 cholestérol », « zéro cholestérol », « aucun cholestérol » ou « ne contient pas de cholestérol »</td>
 </tr>
 <tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
 <td>28</td>
 <td>Faible teneur en cholestérol</td>
-<td>L'aliment, à la fois :
+<td>L’aliment, à la fois :
 
 **a)** contient au plus 20 mg de cholestérol, selon le cas :
 
 **(i)** par quantité de référence et par portion déterminée, et par 50 g si la quantité de référence est 30 g ou 30 mL ou moins,
 
-**(ii)** par 100 g, si l'aliment est un repas préemballé;
 
-**b)** répond aux critères mentionnés à la colonne 2 de l'article 19 en regard du sujet « faible teneur en acides gras saturés » figurant à la colonne 1.
+
+**(ii)** par 100 g, si l’aliment est un repas préemballé;
+
+
+
+
+
+**b)** répond aux critères mentionnés à la colonne 2 de l’article 19 en regard du sujet « faible teneur en acides gras saturés » figurant à la colonne 1.
+
+
 
 </td>
 <td></td>
 <td>« faible teneur en cholestérol », « pauvre en cholestérol », « contient seulement (quantité) mg de cholestérol par portion », « contient moins de (quantité) mg de cholestérol par portion » ou « peu de cholestérol »</td>
 </tr>
 <tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
 <td>29</td>
 <td>Teneur réduite en cholestérol</td>
-<td>**(1)** L'aliment présente, après transformation, formulation, reformulation ou autre modification, une diminution d'au moins 25 % de la teneur en cholestérol, selon le cas :
+<td>**(1)** L’aliment présente, après transformation, formulation, reformulation ou autre modification, une diminution d’au moins 25 % de la teneur en cholestérol, selon le cas :
 
-**a)** par quantité de référence, par rapport à l'aliment de référence similaire;
+**a)** par quantité de référence, par rapport à l’aliment de référence similaire;
 
-**b)** par 100 g, par rapport à l'aliment de référence similaire, si l'aliment est un repas préemballé.
 
-**(2)** L'aliment de référence similaire ne répond pas aux critères mentionnés à la colonne 2 de l'article 28 en regard du sujet « faible teneur en cholestérol » figurant à la colonne 1.
 
-**(3)** L'aliment répond aux critères mentionnés à la colonne 2 de l'article 19 en regard du sujet « faible teneur en acides gras saturés » figurant à la colonne 1.
+**b)** par 100 g, par rapport à l’aliment de référence similaire, si l’aliment est un repas préemballé.
+
+
+
+**(2)** L’aliment de référence similaire ne répond pas aux critères mentionnés à la colonne 2 de l’article 28 en regard du sujet « faible teneur en cholestérol » figurant à la colonne 1.
+
+**(3)** L’aliment répond aux critères mentionnés à la colonne 2 de l’article 19 en regard du sujet « faible teneur en acides gras saturés » figurant à la colonne 1.
 
 </td>
 <td>Les renseignements suivants sont mentionnés :
 
-**a)** l'aliment de référence similaire;
+**a)** l’aliment de référence similaire;
 
-**b)** la quantité de l'aliment et celle de l'aliment de référence similaire utilisées aux fins de comparaison si elles diffèrent;
 
-**c)** la différence de teneur en cholestérol, par portion déterminée, exprimée en pourcentage, en fraction ou en milligrammes, par rapport à l'aliment de référence similaire.
+
+**b)** la quantité de l’aliment et celle de l’aliment de référence similaire utilisées aux fins de comparaison si elles diffèrent;
+
+
+
+**c)** la différence de teneur en cholestérol, par portion déterminée, exprimée en pourcentage, en fraction ou en milligrammes, par rapport à l’aliment de référence similaire.
+
+
 
 </td>
 <td>« teneur réduite en cholestérol », « moins de cholestérol », « teneur plus faible en cholestérol » ou « plus pauvre en cholestérol »</td>
@@ -5631,52 +5836,67 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <tr>
 <td>30</td>
 <td>Moins de cholestérol</td>
-<td>**(1)** La teneur en cholestérol de l'aliment est d'au moins 25 % inférieure, selon le cas :
+<td>**(1)** La teneur en cholestérol de l’aliment est d’au moins 25 % inférieure, selon le cas :
 
-**a)** par quantité de référence, à celle de l'aliment de référence du même groupe alimentaire;
+**a)** par quantité de référence, à celle de l’aliment de référence du même groupe alimentaire;
 
-**b)** par 100 g, à celle de l'aliment de référence du même groupe alimentaire, si l'aliment est un repas préemballé.
 
-**(2)** L'aliment de référence du même groupe alimentaire ne répond pas aux critères mentionnés à la colonne 2 de l'article 28 en regard du sujet « faible teneur en cholestérol » figurant à la colonne 1.
 
-**(3)** L'aliment répond aux critères mentionnés à la colonne 2 de l'article 19 en regard du sujet « faible teneur en acides gras saturés » figurant à la colonne 1.
+**b)** par 100 g, à celle de l’aliment de référence du même groupe alimentaire, si l’aliment est un repas préemballé.
+
+
+
+**(2)** L’aliment de référence du même groupe alimentaire ne répond pas aux critères mentionnés à la colonne 2 de l’article 28 en regard du sujet « faible teneur en cholestérol » figurant à la colonne 1.
+
+**(3)** L’aliment répond aux critères mentionnés à la colonne 2 de l’article 19 en regard du sujet « faible teneur en acides gras saturés » figurant à la colonne 1.
 
 </td>
 <td>Les renseignements suivants sont mentionnés :
 
-**a)** l'aliment de référence du même groupe alimentaire;
+**a)** l’aliment de référence du même groupe alimentaire;
 
-**b)** la quantité de l'aliment et celle de l'aliment de référence du même groupe alimentaire utilisées aux fins de comparaison si elles diffèrent;
 
-**c)** la différence de teneur en cholestérol, par portion déterminée, exprimée en pourcentage, en fraction ou en milligrammes, par rapport à l'aliment de référence du même groupe alimentaire.
+
+**b)** la quantité de l’aliment et celle de l’aliment de référence du même groupe alimentaire utilisées aux fins de comparaison si elles diffèrent;
+
+
+
+**c)** la différence de teneur en cholestérol, par portion déterminée, exprimée en pourcentage, en fraction ou en milligrammes, par rapport à l’aliment de référence du même groupe alimentaire.
+
+
 
 </td>
 <td>« moins de cholestérol », « teneur plus faible en cholestérol » ou « plus pauvre en cholestérol »</td>
 </tr>
 <tr>
-<td></td>
-</tr>
-<tr>
 <td>31</td>
 <td>Sans sodium ou sans sel</td>
-<td>L'aliment contient, selon le cas :
+<td>L’aliment contient, selon le cas :
 
 **a)** moins de 5 mg de sodium par quantité de référence et par portion déterminée;
 
-**b)** moins de 5 mg de sodium par portion déterminée, si l'aliment est un repas préemballé.
+
+
+**b)** moins de 5 mg de sodium par portion déterminée, si l’aliment est un repas préemballé.
+
+
 
 </td>
 <td></td>
-<td>« sans sodium », « 0 sodium », « zéro sodium », « aucun sodium », « ne contient pas de sodium », « sans sel », « 0 sel », « zéro sel », « aucun sel » ou « ne contient pas de sel »</td>
+<td>« sans sodium », « 0 sodium », « zéro sodium », « aucun sodium », « ne contient pas de sodium », « sans sel », « 0 sel », « zéro sel », « aucun sel » ou « ne contient pas de sel »</td>
 </tr>
 <tr>
 <td>32</td>
 <td>Faible teneur en sodium ou en sel</td>
-<td>L'aliment contient, selon le cas :
+<td>L’aliment contient, selon le cas :
 
 **a)** au plus 140 mg de sodium par quantité de référence et par portion déterminée, et par 50 g si la quantité de référence est 30 g ou 30 mL ou moins;
 
-**b)** au plus 140 mg de sodium par 100 g, si l'aliment est un repas préemballé.
+
+
+**b)** au plus 140 mg de sodium par 100 g, si l’aliment est un repas préemballé.
+
+
 
 </td>
 <td></td>
@@ -5685,20 +5905,32 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <tr>
 <td>33</td>
 <td>Teneur réduite en sodium ou en sel</td>
-<td>**(1)** L'aliment présente, après transformation, formulation, reformulation ou autre modification, une diminution d'au moins 25 % de la teneur en sodium, selon le cas : 
+<td>**(1)** L’aliment présente, après transformation, formulation, reformulation ou autre modification, une diminution d’au moins 25 % de la teneur en sodium, selon le cas :
 
-**a)** par quantité de référence, par rapport à l'aliment de référence similaire;
+**a)** par quantité de référence, par rapport à l’aliment de référence similaire;
 
-**b)** par 100 g, par rapport à l'aliment de référence similaire, si l'aliment est un repas préemballé.
 
-**(2)** L'aliment de référence similaire ne répond pas aux critères mentionnés à la colonne 2 de l'article 32 en regard du sujet « faible teneur en sodium ou en sel » figurant à la colonne 1.
+
+**b)** par 100 g, par rapport à l’aliment de référence similaire, si l’aliment est un repas préemballé.
+
+
+
+**(2)** L’aliment de référence similaire ne répond pas aux critères mentionnés à la colonne 2 de l’article 32 en regard du sujet « faible teneur en sodium ou en sel » figurant à la colonne 1.
 
 </td>
-<td>Les renseignements suivants sont mentionnés :**a)** l'aliment de référence similaire;
+<td>Les renseignements suivants sont mentionnés :
 
-**b)** la quantité de l'aliment et celle de l'aliment de référence similaire utilisées aux fins de comparaison si elles diffèrent;
+**a)** l’aliment de référence similaire;
 
-**c)** la différence de teneur en sodium, par portion déterminée, exprimée en pourcentage, en fraction ou en milligrammes, par rapport à l'aliment de référence similaire.
+
+
+**b)** la quantité de l’aliment et celle de l’aliment de référence similaire utilisées aux fins de comparaison si elles diffèrent;
+
+
+
+**c)** la différence de teneur en sodium, par portion déterminée, exprimée en pourcentage, en fraction ou en milligrammes, par rapport à l’aliment de référence similaire.
+
+
 
 </td>
 <td>« teneur réduite en sodium », « moins de sodium », « teneur plus faible en sodium », « plus pauvre en sodium », « teneur réduite en sel », « moins de sel », « moins salé », « teneur plus faible en sel » ou « plus pauvre en sel »</td>
@@ -5706,22 +5938,32 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <tr>
 <td>34</td>
 <td>Moins de sodium ou de sel</td>
-<td>**(1)** La teneur en sodium de l'aliment est d'au moins 25 % inférieure, selon le cas :
+<td>**(1)** La teneur en sodium de l’aliment est d’au moins 25 % inférieure, selon le cas :
 
-**a)** par quantité de référence, à celle de l'aliment de référence du même groupe alimentaire;
+**a)** par quantité de référence, à celle de l’aliment de référence du même groupe alimentaire;
 
-**b)** par 100 g, à celle de l'aliment de référence du même groupe alimentaire, si l'aliment est un repas préemballé.
 
-**(2)** L'aliment de référence du même groupe alimentaire ne répond pas aux critères mentionnés à la colonne 2 de l'article 32 en regard du sujet « faible teneur en sodium ou en sel » figurant à la colonne 1.
+
+**b)** par 100 g, à celle de l’aliment de référence du même groupe alimentaire, si l’aliment est un repas préemballé.
+
+
+
+**(2)** L’aliment de référence du même groupe alimentaire ne répond pas aux critères mentionnés à la colonne 2 de l’article 32 en regard du sujet « faible teneur en sodium ou en sel » figurant à la colonne 1.
 
 </td>
 <td>Les renseignements suivants sont mentionnés :
 
-**a)** l'aliment de référence du même groupe alimentaire;
+**a)** l’aliment de référence du même groupe alimentaire;
 
-**b)** la quantité de l'aliment et celle de l'aliment de référence du même groupe alimentaire utilisées aux fins de comparaison si elles diffèrent;
 
-**c)** la différence de teneur en sodium, par portion déterminée, exprimée en pourcentage, en fraction ou en milligrammes, par rapport à l'aliment de référence du même groupe alimentaire.
+
+**b)** la quantité de l’aliment et celle de l’aliment de référence du même groupe alimentaire utilisées aux fins de comparaison si elles diffèrent;
+
+
+
+**c)** la différence de teneur en sodium, par portion déterminée, exprimée en pourcentage, en fraction ou en milligrammes, par rapport à l’aliment de référence du même groupe alimentaire.
+
+
 
 </td>
 <td>« moins de sodium », « teneur plus faible en sodium », « plus pauvre en sodium », « moins de sel », « moins salé », « teneur plus faible en sel » ou « plus pauvre en sel »</td>
@@ -5729,9 +5971,9 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <tr>
 <td>35</td>
 <td>Non additionné de sel ou de sodium</td>
-<td>**(1)** L'aliment ne contient aucun sel ajouté, aucun autre sel de sodium ni ingrédient contenant du sodium et ayant le même effet que du sel ajouté.
+<td>**(1)** L’aliment ne contient aucun sel ajouté, aucun autre sel de sodium ni ingrédient contenant du sodium et ayant le même effet que du sel ajouté.
 
-**(2)** L'aliment de référence similaire ne répond pas aux critères mentionnés à la colonne 2 de l'article 32 en regard du sujet « faible teneur en sodium ou en sel » figurant à la colonne 1, et contient du sel ajouté ou d'autres sels de sodium.
+**(2)** L’aliment de référence similaire ne répond pas aux critères mentionnés à la colonne 2 de l’article 32 en regard du sujet « faible teneur en sodium ou en sel » figurant à la colonne 1, et contient du sel ajouté ou d’autres sels de sodium.
 
 </td>
 <td></td>
@@ -5740,33 +5982,40 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <tr>
 <td>36</td>
 <td>Légèrement salé</td>
-<td>**(1)** L'aliment présente une diminution d'au moins 50 % de la teneur en sodium ajouté par rapport à l'aliment de référence similaire.
+<td>**(1)** L’aliment présente une diminution d’au moins 50 % de la teneur en sodium ajouté par rapport à l’aliment de référence similaire.
 
-**(2)** L'aliment de référence similaire ne répond pas aux critères mentionnés à la colonne 2 de l'article 32 en regard du sujet « faible teneur en sodium ou en sel » figurant à la colonne 1.
+**(2)** L’aliment de référence similaire ne répond pas aux critères mentionnés à la colonne 2 de l’article 32 en regard du sujet « faible teneur en sodium ou en sel » figurant à la colonne 1.
 
 </td>
 <td>Les renseignements suivants sont mentionnés :
 
-**a)** l'aliment de référence similaire;
+**a)** l’aliment de référence similaire;
 
-**b)** la quantité de l'aliment et celle de l'aliment de référence similaire utilisées aux fins de comparaison si elles diffèrent;
 
-**c)** la différence de teneur en sodium, par portion déterminée, exprimée en pourcentage, en fraction ou en milligrammes, par rapport à l'aliment de référence similaire.
+
+**b)** la quantité de l’aliment et celle de l’aliment de référence similaire utilisées aux fins de comparaison si elles diffèrent;
+
+
+
+**c)** la différence de teneur en sodium, par portion déterminée, exprimée en pourcentage, en fraction ou en milligrammes, par rapport à l’aliment de référence similaire.
+
+
 
 </td>
 <td>« légèrement salé » ou « salé légèrement »</td>
 </tr>
 <tr>
-<td></td>
-</tr>
-<tr>
 <td>37</td>
 <td>Sans sucres</td>
-<td>L'aliment, à la fois :
+<td>L’aliment, à la fois :
 
 **a)** contient moins de 0,5 g de sucres par quantité de référence et par portion déterminée;
 
-**b)** à l'exception de la gomme à mâcher, répond aux critères mentionnés à la colonne 2 de l'article 1 en regard du sujet « sans énergie » figurant à la colonne 1.
+
+
+**b)** à l’exception de la gomme à mâcher, répond aux critères mentionnés à la colonne 2 de l’article 1 en regard du sujet « sans énergie » figurant à la colonne 1.
+
+
 
 </td>
 <td></td>
@@ -5775,20 +6024,30 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <tr>
 <td>38</td>
 <td>Teneur réduite en sucres</td>
-<td>La teneur en sucres de l'aliment, après transformation, formulation, reformulation ou autre modification, est inférieure d'au moins 25 %, soit d'au moins 5 g, selon le cas :
+<td>La teneur en sucres de l’aliment, après transformation, formulation, reformulation ou autre modification, est inférieure d’au moins 25 %, soit d’au moins 5 g, selon le cas :
 
-**a)** par quantité de référence, par rapport à l'aliment de référence similaire;
+**a)** par quantité de référence, par rapport à l’aliment de référence similaire;
 
-**b)** par 100 g, par rapport à l'aliment de référence similaire, si l'aliment est un repas préemballé.
+
+
+**b)** par 100 g, par rapport à l’aliment de référence similaire, si l’aliment est un repas préemballé.
+
+
 
 </td>
 <td>Les renseignements suivants sont mentionnés :
 
-**a)** l'aliment de référence similaire;
+**a)** l’aliment de référence similaire;
 
-**b)** la quantité de l'aliment et celle de l'aliment de référence similaire utilisées aux fins de comparaison si elles diffèrent;
 
-**c)** la différence de teneur en sucres, par portion déterminée, exprimée en pourcentage, en fraction ou en grammes, par rapport à l'aliment de référence similaire.
+
+**b)** la quantité de l’aliment et celle de l’aliment de référence similaire utilisées aux fins de comparaison si elles diffèrent;
+
+
+
+**c)** la différence de teneur en sucres, par portion déterminée, exprimée en pourcentage, en fraction ou en grammes, par rapport à l’aliment de référence similaire.
+
+
 
 </td>
 <td>« teneur réduite en sucre », « moins de sucre », « moins sucré », « teneur plus faible en sucre » ou « plus pauvre en sucre »</td>
@@ -5796,20 +6055,30 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <tr>
 <td>39</td>
 <td>Moins de sucres</td>
-<td>La teneur en sucres de l'aliment est inférieure d'au moins 25 %, soit d'au moins 5 g, selon le cas :
+<td>La teneur en sucres de l’aliment est inférieure d’au moins 25 %, soit d’au moins 5 g, selon le cas :
 
-**a)** par quantité de référence, par rapport à l'aliment de référence du même groupe alimentaire;
+**a)** par quantité de référence, par rapport à l’aliment de référence du même groupe alimentaire;
 
-**b)** par 100 g, par rapport à l'aliment de référence du même groupe alimentaire, si l'aliment est un repas préemballé.
+
+
+**b)** par 100 g, par rapport à l’aliment de référence du même groupe alimentaire, si l’aliment est un repas préemballé.
+
+
 
 </td>
 <td>Les renseignements suivants sont mentionnés :
 
-**a)** l'aliment de référence du même groupe alimentaire;
+**a)** l’aliment de référence du même groupe alimentaire;
 
-**b)** la quantité de l'aliment et celle de l'aliment de référence du même groupe alimentaire utilisées aux fins de comparaison si elles diffèrent;
 
-**c)** la différence de teneur en sucres, par portion déterminée, exprimée en pourcentage, en fraction ou en grammes, par rapport à l'aliment de référence du même groupe alimentaire.
+
+**b)** la quantité de l’aliment et celle de l’aliment de référence du même groupe alimentaire utilisées aux fins de comparaison si elles diffèrent;
+
+
+
+**c)** la différence de teneur en sucres, par portion déterminée, exprimée en pourcentage, en fraction ou en grammes, par rapport à l’aliment de référence du même groupe alimentaire.
+
+
 
 </td>
 <td>« moins de sucre », « moins sucré », « teneur plus faible en sucre » ou « plus pauvre en sucre »</td>
@@ -5817,11 +6086,11 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <tr>
 <td>40</td>
 <td>Non additionné de sucres</td>
-<td>**(1)** L'aliment ne contient aucun sucre ajouté, aucun ingrédient additionné de sucres, ni aucun ingrédient contenant des sucres ayant un pouvoir édulcorant.
+<td>**(1)** L’aliment ne contient aucun sucre ajouté, aucun ingrédient additionné de sucres, ni aucun ingrédient contenant des sucres ayant un pouvoir édulcorant.
 
-**(2)** Pas d'augmentation délibérée de la teneur en sucres par d'autres moyens; l'augmentation peut toutefois résulter d'un traitement effectué à d'autres fins.
+**(2)** Pas d’augmentation délibérée de la teneur en sucres par d’autres moyens; l’augmentation peut toutefois résulter d’un traitement effectué à d’autres fins.
 
-**(3)** L'aliment de référence similaire contient des sucres ajoutés.
+**(3)** L’aliment de référence similaire contient des sucres ajoutés.
 
 </td>
 <td></td>
@@ -5830,92 +6099,128 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <tr>
 <td>41</td>
 <td>Source de fibres</td>
-<td>**(1)** L'aliment contient au moins 2 g, selon le cas :
+<td>**(1)** L’aliment contient au moins 2 g, selon le cas :
 
-**a)** de fibres par quantité de référence et par portion déterminée lorsque ni le type ni l'origine des fibres ne sont précisés dans la mention ou l'allégation;
+**a)** de fibres par quantité de référence et par portion déterminée lorsque ni le type ni l’origine des fibres ne sont précisés dans la mention ou l’allégation;
 
-**b)** de fibres de chaque type ou origine précisé, par quantité de référence et par portion déterminée, lorsque le type ou l'origine des fibres est précisé dans la mention ou l'allégation.
 
-**(2)** L'aliment contient au moins un ingrédient qui répond à l'un des critères mentionnés au paragraphe (1), si l'aliment est un repas préemballé.
+
+**b)** de fibres de chaque type ou origine précisé, par quantité de référence et par portion déterminée, lorsque le type ou l’origine des fibres est précisé dans la mention ou l’allégation.
+
+
+
+**(2)** L’aliment contient au moins un ingrédient qui répond à l’un des critères mentionnés au paragraphe (1), si l’aliment est un repas préemballé.
 
 </td>
 <td></td>
-<td>« source de fibres », « contient des fibres », « source de fibres alimentaires », « contient des fibres alimentaires », « source de fibres (désignation du type de fibres) », « contient des fibres (désignation du type de fibres) », « source de fibres (désignation de l'origine des fibres) » ou « contient des fibres (désignation de l'origine des fibres) »</td>
+<td>« source de fibres », « contient des fibres », « source de fibres alimentaires », « contient des fibres alimentaires », « source de fibres (désignation du type de fibres) », « contient des fibres (désignation du type de fibres) », « source de fibres (désignation de l’origine des fibres) » ou « contient des fibres (désignation de l’origine des fibres) »</td>
 </tr>
 <tr>
 <td>42</td>
 <td>Source élevée de fibres</td>
-<td>**(1)** L'aliment contient au moins 4 g, selon le cas :
+<td>**(1)** L’aliment contient au moins 4 g, selon le cas :
 
-**a)** de fibres par quantité de référence et par portion déterminée lorsque ni le type ni l'origine des fibres ne sont précisés dans la mention ou l'allégation;
+**a)** de fibres par quantité de référence et par portion déterminée lorsque ni le type ni l’origine des fibres ne sont précisés dans la mention ou l’allégation;
 
-**b)** de fibres de chaque type ou origine précisé, par quantité de référence et par portion déterminée, lorsque le type ou l'origine des fibres est précisé dans la mention ou l'allégation.
 
-**(2)** L'aliment contient au moins un ingrédient qui répond à l'un des critères mentionnés au paragraphe (1), si l'aliment est un repas préemballé.
+
+**b)** de fibres de chaque type ou origine précisé, par quantité de référence et par portion déterminée, lorsque le type ou l’origine des fibres est précisé dans la mention ou l’allégation.
+
+
+
+**(2)** L’aliment contient au moins un ingrédient qui répond à l’un des critères mentionnés au paragraphe (1), si l’aliment est un repas préemballé.
 
 </td>
 <td></td>
-<td>« source élevée de fibres », « teneur élevée en fibres », « source élevée de fibres alimentaires », « teneur élevée en fibres alimentaires », « source élevée de fibres (désignation du type de fibres) », « teneur élevée en fibres (désignation du type de fibres) », « source élevée de fibres (désignation de l'origine des fibres) » ou « teneur élevée en fibres (désignation de l'origine des fibres) »</td>
+<td>« source élevée de fibres », « teneur élevée en fibres », « source élevée de fibres alimentaires », « teneur élevée en fibres alimentaires », « source élevée de fibres (désignation du type de fibres) », « teneur élevée en fibres (désignation du type de fibres) », « source élevée de fibres (désignation de l’origine des fibres) » ou « teneur élevée en fibres (désignation de l’origine des fibres) »</td>
 </tr>
 <tr>
 <td>43</td>
 <td>Source très élevée de fibres</td>
-<td>**(1)** L'aliment contient au moins 6 g, selon le cas :
+<td>**(1)** L’aliment contient au moins 6 g, selon le cas :
 
-**a)** de fibres par quantité de référence et par portion déterminée lorsque ni le type ni l'origine des fibres ne sont précisés dans la mention ou l'allégation;
+**a)** de fibres par quantité de référence et par portion déterminée lorsque ni le type ni l’origine des fibres ne sont précisés dans la mention ou l’allégation;
 
-**b)** de fibres de chaque type ou origine précisé, par quantité de référence et par portion déterminée, lorsque le type ou l'origine des fibres est précisé dans la mention ou l'allégation.
 
-**(2)** L'aliment contient au moins un ingrédient qui répond à l'un des critères mentionnés au paragraphe (1), si l'aliment est un repas préemballé.
+
+**b)** de fibres de chaque type ou origine précisé, par quantité de référence et par portion déterminée, lorsque le type ou l’origine des fibres est précisé dans la mention ou l’allégation.
+
+
+
+**(2)** L’aliment contient au moins un ingrédient qui répond à l’un des critères mentionnés au paragraphe (1), si l’aliment est un repas préemballé.
 
 </td>
 <td></td>
-<td>« source très élevée de fibres », « teneur très élevée en fibres », « riche en fibres », « source très élevée de fibres (désignation du type de fibres) », « teneur très élevée en fibres (désignation du type de fibres) », « riche en fibres (désignation du type de fibres) », « source très élevée de fibres (désignation de l'origine des fibres) », « teneur très élevée en fibres (désignation de l'origine des fibres) », « riche en fibres (désignation de l'origine des fibres) », « source très élevée de fibres alimentaires », « teneur très élevée en fibres alimentaires » ou « riche en fibres alimentaires »</td>
+<td>« source très élevée de fibres », « teneur très élevée en fibres », « riche en fibres », « source très élevée de fibres (désignation du type de fibres) », « teneur très élevée en fibres (désignation du type de fibres) », « riche en fibres (désignation du type de fibres) », « source très élevée de fibres (désignation de l’origine des fibres) », « teneur très élevée en fibres (désignation de l’origine des fibres) », « riche en fibres (désignation de l’origine des fibres) », « source très élevée de fibres alimentaires », « teneur très élevée en fibres alimentaires » ou « riche en fibres alimentaires »</td>
 </tr>
 <tr>
 <td>44</td>
 <td>Plus de fibres</td>
-<td>**(1)** La teneur en fibres de l'aliment, lorsque le type ou l'origine des fibres ne sont pas précisés dans la mention ou l'allégation, ou, dans le cas contraire, la teneur en fibres de chaque type ou origine de fibres précisé, est supérieure d'au moins 25 %, soit d'au moins 1 g, selon le cas :
+<td>**(1)** La teneur en fibres de l’aliment, lorsque le type ou l’origine des fibres ne sont pas précisés dans la mention ou l’allégation, ou, dans le cas contraire, la teneur en fibres de chaque type ou origine de fibres précisé, est supérieure d’au moins 25 %, soit d’au moins 1 g, selon le cas :
 
-**a)** par quantité de référence, par rapport à l'aliment de référence du même groupe alimentaire ou à l'aliment de référence similaire;
+**a)** par quantité de référence, par rapport à l’aliment de référence du même groupe alimentaire ou à l’aliment de référence similaire;
 
-**b)** par 100 g, par rapport à l'aliment de référence du même groupe alimentaire ou à l'aliment de référence similaire, si l'aliment est un repas préemballé.
 
-**(2)** L'aliment contient, selon le cas :
 
-**a)** au moins 2 g de fibres par quantité de référence et par portion déterminée, lorsque ni le type ni l'origine des fibres ne sont précisés dans la mention ou l'allégation, ou au moins 2 g de fibres de chaque type ou origine précisé par quantité de référence et par portion déterminée, lorsque le type ou l'origine des fibres est précisé dans la mention ou l'allégation;
+**b)** par 100 g, par rapport à l’aliment de référence du même groupe alimentaire ou à l’aliment de référence similaire, si l’aliment est un repas préemballé.
 
-**b)** au moins un ingrédient qui répond aux critères mentionnés à la colonne 2 de l'article 41 en regard du sujet « source de fibres » figurant à la colonne 1, si l'aliment est un repas préemballé.
+
+
+**(2)** L’aliment contient, selon le cas :
+
+**a)** au moins 2 g de fibres par quantité de référence et par portion déterminée, lorsque ni le type ni l’origine des fibres ne sont précisés dans la mention ou l’allégation, ou au moins 2 g de fibres de chaque type ou origine précisé par quantité de référence et par portion déterminée, lorsque le type ou l’origine des fibres est précisé dans la mention ou l’allégation;
+
+
+
+**b)** au moins un ingrédient qui répond aux critères mentionnés à la colonne 2 de l’article 41 en regard du sujet « source de fibres » figurant à la colonne 1, si l’aliment est un repas préemballé.
+
+
 
 </td>
 <td>Les renseignements suivants sont mentionnés :
 
-**a)** l'aliment de référence du même groupe alimentaire ou l'aliment de référence similaire;
+**a)** l’aliment de référence du même groupe alimentaire ou l’aliment de référence similaire;
 
-**b)** la quantité de l'aliment et celle de l'aliment de référence du même groupe alimentaire ou de l'aliment de référence similaire utilisées aux fins de comparaison si elles diffèrent;
 
-**c)** la différence de teneur en fibres, par portion déterminée, exprimée en pourcentage, en fraction ou en grammes, par rapport à l'aliment de référence du même groupe alimentaire ou à l'aliment de référence similaire.
+
+**b)** la quantité de l’aliment et celle de l’aliment de référence du même groupe alimentaire ou de l’aliment de référence similaire utilisées aux fins de comparaison si elles diffèrent;
+
+
+
+**c)** la différence de teneur en fibres, par portion déterminée, exprimée en pourcentage, en fraction ou en grammes, par rapport à l’aliment de référence du même groupe alimentaire ou à l’aliment de référence similaire.
+
+
 
 </td>
-<td>« plus de fibres », « teneur plus élevée en fibres », « plus de fibres (désignation du type de fibres) », « teneur plus élevée en fibres (désignation du type de fibres) », « plus de fibres (désignation de l'origine des fibres) », « teneur plus élevée en fibres (désignation de l'origine des fibres) », « plus de fibres alimentaires » ou « teneur plus élevée en fibres alimentaires »</td>
+<td>« plus de fibres », « teneur plus élevée en fibres », « plus de fibres (désignation du type de fibres) », « teneur plus élevée en fibres (désignation du type de fibres) », « plus de fibres (désignation de l’origine des fibres) », « teneur plus élevée en fibres (désignation de l’origine des fibres) », « plus de fibres alimentaires » ou « teneur plus élevée en fibres alimentaires »</td>
 </tr>
 <tr>
 <td>45</td>
 <td>Léger (énergie ou lipides)</td>
-<td>L'aliment répond aux critères mentionnés à la colonne 2 de l'un ou l'autre des articles suivants :
+<td>L’aliment répond aux critères mentionnés à la colonne 2 de l’un ou l’autre des articles suivants :
 
-**a)** l'article 3 en regard du sujet « énergie réduite » figurant à la colonne 1;
+**a)** l’article 3 en regard du sujet « énergie réduite » figurant à la colonne 1;
 
-**b)** l'article 13 en regard du sujet « teneur réduite en lipides » figurant à la colonne 1.
+
+
+**b)** l’article 13 en regard du sujet « teneur réduite en lipides » figurant à la colonne 1.
+
+
 
 </td>
 <td>Les renseignements suivants sont mentionnés :
 
-**a)** l'aliment de référence similaire;
+**a)** l’aliment de référence similaire;
 
-**b)** la quantité de l'aliment et celle de l'aliment de référence similaire utilisées aux fins de comparaison si elles diffèrent;
 
-**c)** la différence de valeur énergétique ou de teneur en lipides, par portion déterminée, exprimée en pourcentage, en fraction, en Calories ou en grammes, par rapport à l'aliment de référence similaire.
+
+**b)** la quantité de l’aliment et celle de l’aliment de référence similaire utilisées aux fins de comparaison si elles diffèrent;
+
+
+
+**c)** la différence de valeur énergétique ou de teneur en lipides, par portion déterminée, exprimée en pourcentage, en fraction, en Calories ou en grammes, par rapport à l’aliment de référence similaire.
+
+
 
 </td>
 <td>« léger » ou « allégé »</td>
@@ -5923,44 +6228,40 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 <tr>
 <td>46</td>
 <td>Maigre</td>
-<td>L'aliment, à la fois :
+<td>L’aliment, à la fois :
 
-**a)** est une viande ou une volaille qui n'est pas hachée, un animal marin, un animal d'eau douce ou un produit de l'un de ces aliments;
+**a)** est une viande ou une volaille qui n’est pas hachée, un animal marin, un animal d’eau douce ou un produit de l’un de ces aliments;
+
+
 
 **b)** contient au plus 10 % de matières grasses.
+
+
 
 </td>
 <td></td>
 <td>« maigre »</td>
 </tr>
 <tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
 <td>47</td>
 <td>Extra maigre</td>
-<td>L'aliment, à la fois :
+<td>L’aliment, à la fois :
 
-**a)** est une viande ou une volaille qui n'est pas hachée, un animal marin, un animal d'eau douce ou un produit de l'un de ces aliments;
+**a)** est une viande ou une volaille qui n’est pas hachée, un animal marin, un animal d’eau douce ou un produit de l’un de ces aliments;
+
+
 
 **b)** contient au plus 7,5 % de matières grasses.
+
+
 
 </td>
 <td></td>
 <td>« extra maigre »</td>
 </tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
-</tr>
 </table>
 
->  DORS/2003-11, art. 20; err.(F), Vol. 137, N<sup>o</sup>o 5.
+> DORS/2003-11, art. 20; err.(F), Vol. 137, n<sup>o</sup>o 5; DORS/2007-176, art. 6.
 
 
 
@@ -25990,6 +26291,116 @@ Vert solide FCF
 </td>
 </tr>
 <tr>
+<td>N.1</td>
+<td>Néotame</td>
+<td>**(1)** Édulcorants de table
+
+</td>
+<td>**(1)** Bonnes pratiques industrielles
+
+</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>**(2)** Céréales à déjeuner
+
+</td>
+<td>**(2)** 0,016 %
+
+</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>**(3)** Boissons non normalisées; concentrés de boisson non normalisés; mélanges pour boisson
+
+</td>
+<td>**(3)** 0,003 % dans les boissons, sous leur forme consommable
+
+</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>**(4)** Desserts non normalisés; garnitures; glaçages; mélanges pour desserts; mélanges pour garnitures; mélanges pour glaçages; yogourt
+
+</td>
+<td>**(4)** 0,01 % dans les produits, sous leur forme consommable
+
+</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>**(5)** Gomme à mâcher; rafraîchisseurs d’haleine
+
+</td>
+<td>**(5)** 0,032 %
+
+</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>**(6)** Purées et sauces non normalisées; sirops de table non normalisés; tartinades de fruit non normalisées
+
+</td>
+<td>**(6)** 0,007 %
+
+</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>**(7)** Sauces à salade non normalisées; tartinades d’arachides et autres tartinades de fruits à écale
+
+</td>
+<td>**(7)** 0,002 %
+
+</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>**(8)** Condiments non normalisés;
+
+</td>
+<td>**(8)** 0,007 %
+
+</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>**(9)** Assaisonnements sucrés ou mélanges pour enrobage des friandises; glaçages à confiserie pour friandises;
+
+</td>
+<td>**(9)** 0,0032 %
+
+</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>**(10)** Confiseries non normalisées et leurs enrobages
+
+</td>
+<td>**(10)** 0,01 %
+
+</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>**(11)** Produits de boulangerie non normalisés et mélanges pour pâtisseries
+
+</td>
+<td>**(11)** 0,013 % dans les produits, sous leur forme consommable
+
+</td>
+</tr>
+<tr>
 <td>S.1</td>
 <td>Sorbitol</td>
 <td>**(1)** Mélange de poisson et de viande préparés visé à l'alinéa B.21.006n)
@@ -26176,7 +26587,7 @@ Vert solide FCF
 </tr>
 </table>
 
->  DORS/93-276, art. 12; DORS/94-625, art. 5; DORS/94-689, art. 2(F); DORS/94-779, art. 3; DORS/97-512, art. 3 et 4; DORS/2004-261, art. 2; DORS/2007-76, art. 3..
+>  DORS/93-276, art. 12; DORS/94-625, art. 5; DORS/94-689, art. 2(F); DORS/94-779, art. 3; DORS/97-512, art. 3 et 4; DORS/2004-261, art. 2; DORS/2007-76, art. 3; DORS/2007-176, art. 7..
 
 
 
