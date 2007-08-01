@@ -727,6 +727,17 @@ où :
 </td>
 </tr>
 <tr>
+<td>Innue Essipit
+
+</td>
+<td>Conseil de la Première Nation des Innus Essipit
+
+</td>
+<td>Réserve Innue Essipit
+
+</td>
+</tr>
+<tr>
 <td>Kamloops
 
 </td>
@@ -756,17 +767,6 @@ où :
 
 </td>
 <td>Réserves de Lower Kootenay, sauf la réserve désignée comme St. Mary's No. 1A.
-
-</td>
-</tr>
-<tr>
-<td>Montagnais Essipit
-
-</td>
-<td>Conseil des Montagnais Essipit
-
-</td>
-<td>Réserve des Montagnais Essipit
 
 </td>
 </tr>
@@ -1014,7 +1014,7 @@ où :
 </tr>
 </table>
 
-> 2003, ch. 15, s. 67 « ann. »; DORS/2004-281; 2005, ch. 19, art. 11; DORS/2005-363; DORS/2006-201, 294; DORS/2007-111.
+> 2003, ch. 15, s. 67 « ann. »; DORS/2004-281; 2005, ch. 19, art. 11; DORS/2005-363; DORS/2006-201, 294; DORS/2007-111; DORS/2007-185, art. 1 et 2.
 
 
 
@@ -1036,13 +1036,19 @@ où :
 <th>Province visée</th>
 </tr>
 <tr>
-<td>Montagnais Essipit</td>
-<td>Conseil des Montagnais Essipit</td>
-<td>Réserve des Montagnais Essipit</td>
+<td>Innue Essipit</td>
+<td>Conseil de la Première Nation des Innus Essipit</td>
+<td>Réserve Innue Essipit</td>
 <td>Québec</td>
+</tr>
+<tr>
+<td>Whitecap Dakota First Nation</td>
+<td>Council of the Whitecap Dakota First Nation</td>
+<td>Réserve de Whitecap Dakota First Nation</td>
+<td>Saskatchewan</td>
 </tr>
 </table>
 
-> 2005, ch. 19, art. 12; 2006, ch. 4, art. 97.
+> 2005, ch. 19, art. 12; 2006, ch. 4, art. 97; DORS/2007-185, art. 3 et 4.
 
 
