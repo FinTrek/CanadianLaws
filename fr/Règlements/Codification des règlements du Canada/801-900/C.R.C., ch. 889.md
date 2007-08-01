@@ -1631,7 +1631,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>CWRS n<sup>o</sup> 2</td>
 <td>72</td>
 <td>Toute variété de la classe CWRS désignée comme telle par arrêté de la Commission</td>
-<td>35</td>
+<td>Aucun minimum</td>
 <td>Aucun minimum</td>
 <td>Passablement bien mûri, peut être modérément délavé ou atteint par la gelée, raisonnablement exempt de grains fortement endommagés</td>
 <td>0,3</td>
@@ -1679,15 +1679,13 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <th></th>
 <th></th>
 <th></th>
-<th></th>
 <th>Matières étrangères</th>
 <th>Blé d’autres classes ou variétés</th>
 </tr>
 <tr>
-<th>Nom de grade</th>
-<th>Poids spécifique minimum kg/hl</th>
+<th>Nom de grade</th>
+<th>Poids spécifique minimum</th>
 <th>Variété</th>
-<th>Pourcentage minimum de grains vitreux durs</th>
 <th>Pourcentage minimum de protéines</th>
 <th>Condition</th>
 <th>Matières autres que des céréales</th>
@@ -1696,6 +1694,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <th>Total</th>
 </tr>
 <tr>
+<th>kg/hl</th>
 <th>%</th>
 <th>%</th>
 <th>%</th>
@@ -1704,26 +1703,24 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <td>CWRW n<sup>o</sup> 1</td>
 <td>78</td>
-<td>Toute variété de la classe CWRW désignée comme telle par arrêté de la Commission </td>
-<td>50 </td>
-<td>9 </td>
+<td>Toute variété de la classe CWRW désignée comme telle par arrêté de la Commission</td>
+<td>9</td>
 <td>Raisonnablement bien mûri, raisonnablement exempt de grains endommagés</td>
 <td>0,2</td>
-<td>1</td>
-<td>1</td>
-<td>3</td>
+<td>1,0</td>
+<td>1,0</td>
+<td>3,0</td>
 </tr>
 <tr>
 <td>CWRW n<sup>o</sup> 2</td>
 <td>74</td>
-<td>Toute variété de la classe CWRW désignée comme telle par arrêté de la Commission </td>
-<td>Aucun minimum</td>
+<td>Toute variété de la classe CWRW désignée comme telle par arrêté de la Commission</td>
 <td>Aucun minimum</td>
 <td>Peut être atteint par la gelée, immature ou abîmé par les intempéries, modérément exempt de grains fortement endommagés</td>
 <td>0,5</td>
-<td>2</td>
+<td>2,0</td>
 <td>2,5</td>
-<td>6</td>
+<td>6,0</td>
 </tr>
 </table>
 
@@ -2174,7 +2171,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 </table>
 
 
-<sup></sup>: Remarque : L’orge qui n’est pas sélectionnée pour le maltage est classée, selon sa qualité, dans l’un des grades « à des fins générales ».<br />
+<sup></sup>: Remarque : L’orge qui n’est pas sélectionnée pour le maltage est classée, selon sa qualité, dans l’un des grades « à des fins générales ».<br />
 #### TABLEAU 9
 <table>
 <h4>Orge à des fins générales, Ouest canadien (OC)</h4>
@@ -2998,16 +2995,13 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <td>Canada n<sup>o</sup> 3</td>
 <td>66</td>
-<td>Fraîche, odeur naturelle, peut</td>
+<td>Fraîche, odeur naturelle, peut être tachée</td>
 <td>20</td>
 <td>5</td>
 <td>1</td>
 <td>5</td>
 <td>0,5</td>
 <td>3</td>
-</tr>
-<tr>
-<td>être tachée</td>
 </tr>
 <tr>
 <td>Canada n<sup>o</sup> 4</td>
@@ -4998,7 +4992,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>2</td>
 </tr>
 <tr>
-<td>EC n<sup>o</sup> 2</td>
+<td>EC n<sup>o</sup> 2 </td>
 <td>69</td>
 <td>Raisonnablement bien mûri, raisonnablement exempt de grains abîmés par les intempéries</td>
 <td>3</td>
@@ -5193,7 +5187,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 </table>
 
 
-<sup></sup>: Remarque : La couleur est ajoutée au nom de grade.<br />
+<sup></sup>: Remarque :La couleur est ajoutée au nom de grade.<br />
 #### TABLEAU 53
 <table>
 <h4>Blé expérimental, Ouest canadien (OC EXPRMTL)</h4>
@@ -5548,7 +5542,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 </tr>
 </table>
 
-> DORS/78-55, art. 5; DORS/79-543, art. 2; DORS/80-575, art. 1 et 2; DORS/81-559, art. 1; DORS/82-740, art. 1; DORS/83-628, art. 3; DORS/85-677, art. 8; DORS/87-391, art. 1; DORS/88-506, art. 1; DORS/89-364, art. 1; DORS/89-395, art. 2(F); DORS/90-324, art. 1(F), 2(F) et 3 à 5; DORS/91-282, art. 1 à 4; DORS/92-172, art. 1, 2(F), 3(F), 4, 5 et 6(F); DORS/93-362, art. 1 à 10; DORS/94-507, art. 1 à 3; DORS/95-336, art. 1 à 5; DORS/95-403, art. 1; DORS/96-300, art. 1 à 3; DORS/97-285, art. 1 à 4; DORS/97-356, art. 1; DORS/98-333, art. 1 à 5; DORS/99-303, art. 1 à 7; DORS/2000-213, art. 8; DORS/2000-276, art. 1 à 6; DORS/2001-242, art. 1 à 4; DORS/2002-286, art. 1 à 4, 5(A), 6, 7(A), 8, 9(F), 10(A), 11(F), 12(F), 13(F), 14 à 16 et 17(F); DORS/2003-285, art. 2 à 4, 5(F), 6, 7(F) et 8(F); DORS/2004-169, art. 1, 2, 3(F), 4, 5(F), 6 à 9, 10(F), 11, 12, 13(F) et 14; DORS/2005-225, art. 1(F), 2(F), 3(F), 4 et 5; DORS/2005-330, art. 1(A); DORS/2006-146, art. 1.
+> DORS/78-55, art. 5; DORS/79-543, art. 2; DORS/80-575, art. 1 et 2; DORS/81-559, art. 1; DORS/82-740, art. 1; DORS/83-628, art. 3; DORS/85-677, art. 8; DORS/87-391, art. 1; DORS/88-506, art. 1; DORS/89-364, art. 1; DORS/89-395, art. 2(F); DORS/90-324, art. 1(F), 2(F) et 3 à 5; DORS/91-282, art. 1 à 4; DORS/92-172, art. 1, 2(F), 3(F), 4, 5 et 6(F); DORS/93-362, art. 1 à 10; DORS/94-507, art. 1 à 3; DORS/95-336, art. 1 à 5; DORS/95-403, art. 1; DORS/96-300, art. 1 à 3; DORS/97-285, art. 1 à 4; DORS/97-356, art. 1; DORS/98-333, art. 1 à 5; DORS/99-303, art. 1 à 7; DORS/2000-213, art. 8; DORS/2000-276, art. 1 à 6; DORS/2001-242, art. 1 à 4; DORS/2002-286, art. 1 à 4, 5(A), 6, 7(A), 8, 9(F), 10(A), 11(F), 12(F), 13(F), 14 à 16 et 17(F); DORS/2003-285, art. 2 à 4, 5(F), 6, 7(F) et 8(F); DORS/2004-169, art. 1, 2, 3(F), 4, 5(F), 6 à 9, 10(F), 11, 12, 13(F) et 14; DORS/2005-225, art. 1(F), 2(F), 3(F), 4 et 5; DORS/2005-330, art. 1(A); DORS/2006-146, art. 1; DORS/2007-162, art. 1 et 2.
 
 
 
