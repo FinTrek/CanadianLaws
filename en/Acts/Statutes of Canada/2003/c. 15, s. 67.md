@@ -744,6 +744,17 @@ where
 </td>
 </tr>
 <tr>
+<td>Innue Essipit
+
+</td>
+<td>Conseil de la Première Nation des Innus Essipit
+
+</td>
+<td>Innue Essipit Reserve
+
+</td>
+</tr>
+<tr>
 <td>Inuit, within the meaning assigned by the Agreement, as defined in the [Labrador Inuit Land Claims Agreement Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2027.md), S.C. 2005, c. 27
 
 </td>
@@ -802,17 +813,6 @@ where
 <td>Lower Kootenay</td>
 <td>Council of Lower Kootenay</td>
 <td>Reserves of Lower Kootenay, other than the reserve designated as St. Mary's No. 1A.</td>
-</tr>
-<tr>
-<td>Montagnais Essipit
-
-</td>
-<td>Conseil des Montagnais Essipit
-
-</td>
-<td>Reserve of Montagnais Essipit
-
-</td>
 </tr>
 <tr>
 <td>Muskeg Lake
@@ -991,7 +991,7 @@ where
 </tr>
 </table>
 
-> 2003, c. 15, s. 67 "Sch."; SOR/2004-281; 2005, c. 19, s. 11; SOR/2005-363; SOR/2006-201, 294; SOR/2007-111.
+> 2003, c. 15, s. 67 "Sch."; SOR/2004-281; 2005, c. 19, s. 11; SOR/2005-363; SOR/2006-201, 294; SOR/2007-111; DORS/2007-185, ss. 1, 2.
 
 
 
@@ -1013,13 +1013,19 @@ where
 <th>Specified Province</th>
 </tr>
 <tr>
-<td>Montagnais Essipit</td>
-<td>Conseil des Montagnais Essipit</td>
-<td>Reserve of Montagnais Essipit</td>
+<td>Innue Essipit</td>
+<td>Conseil de la Première Nation des Innus Essipit</td>
+<td>Innue Essipit Reserve</td>
 <td>Quebec</td>
+</tr>
+<tr>
+<td>Whitecap Dakota First Nation</td>
+<td>Council of the Whitecap Dakota First Nation</td>
+<td>Reserve of the Whitecap Dakota First Nation</td>
+<td>Saskatchewan</td>
 </tr>
 </table>
 
-> 2005, c. 19, s. 12; 2006, c. 4, s. 97.
+> 2005, c. 19, s. 12; 2006, c. 4, s. 97; SOR/2007-185, ss. 3, 4.
 
 
