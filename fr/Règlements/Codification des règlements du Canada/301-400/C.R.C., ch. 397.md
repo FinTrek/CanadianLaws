@@ -46,9 +46,7 @@ Autorités habilitantes :
 
 ***fourrage vivace*** signifie tous les trèfles (à l’exception du mélilot), le sainfoin, le ményanthe, la luzerne et toutes les herbes vivaces; (*perennial forage*)
 
-***grains de provende***
-- **a)** Dans le cas du blé, le blé roux de printemps n<sup>o</sup> 3 de l’Ouest canadien ou tout blé de qualité équivalente ou inférieure;
-- **b)** dans le cas de l’orge, l’orge fourragère supérieure n<sup>o</sup> 1 de l’Ouest canadien ou toute orge de qualité inférieure. (*feed grain*)
+***grains de provende*** Blé roux de printemps n<sup>o</sup> 3 de l’Ouest canadien ou tout blé de qualité équivalente ou inférieure. (*feed grain*)
 
 ***jachère d’été*** signifie une terre en jachère qui est cultivée ou aménagée de façon à garder le sol humide et à empêcher le sol d’être entraîné par le vent; (*summerfallow*)
 
@@ -57,7 +55,7 @@ Autorités habilitantes :
 ***requérant*** signifie le producteur qui présente une demande; (*applicant*)
 
 ***terre nouvellement défrichée*** signifie une terre labourée pour la première fois et qui n’a pas encore été ensemencée. (*new breaking*) 
-> DORS/86-784, art. 1; DORS/88-149, art. 1; DORS/89-281, art. 1; DORS/89-365, art. 2(F) et 3(F); DORS/93-360, art. 1; DORS/93-390, art. 1; DORS/93-486, art. 1; DORS/95-384, art. 1; DORS/99-391, art. 1(A); DORS/2004-251, art. 1.
+> DORS/86-784, art. 1; DORS/88-149, art. 1; DORS/89-281, art. 1; DORS/89-365, art. 2(F) et 3(F); DORS/93-360, art. 1; DORS/93-390, art. 1; DORS/93-486, art. 1; DORS/95-384, art. 1; DORS/99-391, art. 1(A); DORS/2004-251, art. 1; DORS/2007-131, art. 1.
 
 
 
@@ -122,8 +120,8 @@ Autorités habilitantes :
 ## Orge
 
 
-**9** L’application des parties III et IV de la Loi est étendue à l’orge.
-> DORS/89-282, art. 1.
+**9** L’application de la partie III de la Loi est étendue à l’orge.
+> DORS/89-282, art. 1; DORS/2007-131, art. 2.
 
 
 
@@ -168,26 +166,26 @@ Autorités habilitantes :
 ## Licences
 
 
-**14** La Commission peut octroyer des licences pour l’exportation ou pour la vente ou l’achat en vue de la livraison à l’étranger de blé, de produits du blé, d’orge ou de produits de l’orge si les conditions suivantes sont réunies :
-- **a)** l’exportation, la vente ou l’achat des grains ou des produits pour lesquels une licence est demandée ne nuit pas, dans le cadre du commerce interprovincial ou de l’exportation, à la commercialisation par la Commission du grain cultivé au Canada;
-- **b)** le demandeur verse à la Commission une somme qui, de l’avis de celle-ci, correspond à l’avantage pécuniaire que représente la licence, lequel avantage découle uniquement, d’une part, du fait que sans cette licence l’exportation serait interdite et, d’autre part, des différences existant à ce moment entre les prix intérieurs et extérieurs des grains ou des produits en question.
-> DORS/79-110, art. 1; DORS/86-160, art. 1; DORS/89-281, art. 4; DORS/95-338, art. 1; DORS/99-391, art. 1(A).
+**14** La Commission peut octroyer des licences pour l’exportation de blé ou de produits du blé ou pour la vente ou l’achat de ceux-ci en vue de la livraison à l’étranger, si les conditions suivantes sont réunies :
+- **a)** l’exportation, la vente ou l’achat ne nuit pas, dans le cadre du commerce interprovincial ou de l’exportation, à la commercialisation par la Commission du blé cultivé au Canada;
+- **b)** le demandeur verse à la Commission une somme qui, de l’avis de celle-ci, correspond à l’avantage pécuniaire que représente la licence, lequel avantage découle uniquement, d’une part, du fait que sans cette licence l’exportation serait interdite et, d’autre part, des différences existant à ce moment entre les prix intérieurs et extérieurs du blé ou des produits du blé en question.
+> DORS/79-110, art. 1; DORS/86-160, art. 1; DORS/89-281, art. 4; DORS/95-338, art. 1; DORS/99-391, art. 1(A); DORS/2007-131, art. 3.
 
 
 
 
-**14.1** La Commission peut octroyer des licences pour le transport d’une province à une autre ou pour la vente ou la livraison en quelque lieu du Canada de blé, de produits du blé, d’orge ou de produits de l’orge, ces licences étant octroyées à titre gratuit.
-> DORS/93-360, art. 2; DORS/93-486, art. 2; DORS/99-391, art. 1(A).
+**14.1** La Commission peut octroyer des licences pour le transport de blé ou de produits du blé d’une province à une autre ou pour la vente ou la livraison de ceux-ci en quelque lieu du Canada, ces licences étant octroyées à titre gratuit.
+> DORS/93-360, art. 2; DORS/93-486, art. 2; DORS/99-391, art. 1(A); DORS/2007-131, art. 3.
 
 
 
 
-**14.2** Quiconque exporte du blé, des produits du blé, de l’orge ou des produits de l’orge doit, au moment de l’exportation, remettre à l’agent du bureau des douanes au point de sortie précisé sur la licence d’exportation :
-- **a)** soit l’original de la licence d’exportation visant ces céréales ou produits céréaliers, et une copie de celle-ci;
-- **b)** soit, s’il s’agit d’une licence d’exportation visant plusieurs expéditions de ces céréales ou produits céréaliers :
-	- **(i)** deux copies de la licence lors de chaque expédition sauf la dernière,
-	- **(ii)** l’original et une copie de la licence lors de la dernière expédition.
-> DORS/96-265, art. 1.
+**14.2** Quiconque exporte du blé ou des produits du blé doit, au moment de l’exportation, remettre à l’agent des douanes du bureau des douanes situé au point de sortie précisé sur la licence d’exportation :
+- **a)** soit l’original de la licence d’exportation, et une copie de celle-ci;
+- **b)** soit, s’il s’agit d’une licence d’exportation visant plusieurs expéditions :
+	- **(i)** deux copies de la licence lors de chaque expédition, sauf la dernière,
+	- **(ii)** l’original et une copie de la licence, lors de la dernière expédition.
+> DORS/96-265, art. 1; DORS/2007-131, art. 3.
 
 
 
@@ -211,24 +209,24 @@ Autorités habilitantes :
 
 
 
-**15.2** Il est permis d’importer du blé, des produits du blé, de l’orge et des produits de l’orge bénéficiant du tarif du Mexique de l’annexe I du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) et possédés par une personne autre que la Commission.
-> DORS/93-586, art. 2; DORS/95-338, art. 3; DORS/99-391, art. 1(A).
+**15.2** Il est permis d’importer du blé et des produits du blé bénéficiant du tarif du Mexique de l’annexe I du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) et possédés par une personne autre que la Commission.
+> DORS/93-586, art. 2; DORS/95-338, art. 3; DORS/99-391, art. 1(A); DORS/2007-131, art. 4.
 
 
 
 
 
-## Transport interprovincial et vente interprovinciale du blé et de l’orge et des produits du blé et de l’orge
+## Transport et vente interprovinciaux de blé et de produits du blé
 
 
 **16** 
 
 - **(1)** Toute personne qui n’est pas un transporteur public et qui demeure au Manitoba, en Saskatchewan ou en Alberta ou qui y exerce son activité est autorisée à transporter ou à faire transporter d’une province à une autre au sein du territoire formé par ces provinces :
-	- **a)** du blé ou de l’orge qui n’est pas désigné par un nom de grade ou en fonction d’un échantillon prélevé conformément à la [Loi sur les grains du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-10.md);
-	- **b)** des produits du blé ou des produits de l’orge.
+	- **a)** du blé qui n’est pas désigné par un nom de grade ou en fonction d’un échantillon prélevé conformément à la [Loi sur les grains du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-10.md);
+	- **b)** des produits du blé.
 
-- **(2)** Le titulaire de licence, au sens de l’article 2 de la [Loi sur les grains du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-10.md), est autorisé à vendre et à acheter des grains de provende, des produits du blé ou des produits de l’orge se trouvant au Manitoba, en Saskatchewan ou en Alberta pour livraison en quelque lieu du Canada non situé dans la province d’achat, à des fins de consommation par le bétail ou la volaille, ainsi qu’à transporter ou à faire transporter ces grains ou ces produits jusqu’à ce lieu.
-> DORS/89-281, art. 5; DORS/93-360, art. 3; DORS/93-486, art. 3.
+- **(2)** Le titulaire de licence, au sens de l’article 2 de la [Loi sur les grains du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-10.md), est autorisé à vendre et à acheter des grains de provende ou des produits du blé se trouvant au Manitoba, en Saskatchewan ou en Alberta pour livraison en quelque lieu du Canada non situé dans la province d’achat, à des fins de consommation par le bétail ou la volaille, ainsi qu’à transporter ou à faire transporter ces grains ou ces produits jusqu’à ce lieu.
+> DORS/89-281, art. 5; DORS/93-360, art. 3; DORS/93-486, art. 3; DORS/2007-131, art. 4.
 
 
 
@@ -249,13 +247,11 @@ Autorités habilitantes :
 
 
 
-**19** Aux fins de la Loi, les criblures renfermant une quantité quelconque d’orge et toutes les substances résultant de la transformation ou de la fabrication de l’orge et qui contiennent de l’orge dans une proportion dépassant 25 pour cent de leur poids, notamment l’orge moulue, l’orge écrasée, la farine pour alimentation animale et la farine pour consommation humaine, sont par les présentes désignées comme ***produits de l’orge***.
+**19** [Abrogé, DORS/2007-131, art. 5]
 
 
 
-**20** Nonobstant les articles 17 et 19, une substance obtenue par la transformation ou la préparation industrielle du blé et de l’orge et dans laquelle ces grains représentent ensemble une proportion de plus de 25 pour cent de la substance en poids est désignée comme un produit du grain dont la proportion en poids est la plus élevée. S’il est toutefois impossible ou peu pratique de déterminer lequel des deux grains constitue en poids la proportion la plus élevée, la substance est désignée comme un produit du blé.
-> DORS/89-281, art. 7.
-
+**20** [Abrogé, DORS/2007-131, art. 5]
 
 
 
@@ -291,39 +287,39 @@ Autorités habilitantes :
 
 **26** 
 
-- **(1)** La somme déterminée par tonne métrique que la Commission est tenue, aux termes de l’alinéa 32(1)b) de la Loi, de payer aux producteurs pour le blé du grade de base Blé roux de printemps n<sup>o</sup> 1 de l’Ouest canadien (teneur en protéines de 12,5 %) qui est vendu et livré à la Commission pendant la période de mise en commun se terminant le 31 juillet 2007 est la suivante :
-	- **a)** 200,25 $ s’il est à l’état sec;
-	- **b)** 192,25 $ s’il est à l’état gourd;
-	- **c)** 184,75 $ s’il est à l’état humide;
-	- **d)** 192,25 $ s’il est à l’état sec, rejeté en raison de pierres;
-	- **e)** 184,25 $ s’il est à l’état gourd, rejeté en raison de pierres;
-	- **f)** 176,75 $ s’il est à l’état humide, rejeté en raison de pierres.
+- **(1)** La somme déterminée par tonne métrique que la Commission est tenue, aux termes de l’alinéa 32(1)b) de la Loi, de payer aux producteurs pour le blé du grade de base Blé roux de printemps n<sup>o</sup> 1 de l’Ouest canadien (teneur en protéines de 12,5 %) qui est vendu et livré à la Commission pendant la période de mise en commun commençant le 1<sup>er</sup> août 2007 et se terminant le 31 juillet 2008 est la suivante :
+	- **a)** 147,50 $ s’il est à l’état sec;
+	- **b)** 139,50 $ s’il est à l’état gourd;
+	- **c)** 132 $ s’il est à l’état humide;
+	- **d)** 139,50 $ s’il est à l’état sec, rejeté en raison de pierres;
+	- **e)** 131,50 $ s’il est à l’état gourd, rejeté en raison de pierres;
+	- **f)** 124 $ s’il est à l’état humide, rejeté en raison de pierres.
 
-- **(2)** La somme déterminée par tonne métrique que la Commission est tenue, aux termes de l’alinéa 32(1)b) de la Loi, de payer aux producteurs pour le blé du grade de base Blé dur ambré n<sup>o</sup> 1 de l’Ouest canadien (teneur en protéines de 12,5 %) qui est vendu et livré à la Commission pendant la période de mise en commun se terminant le 31 juillet 2007 est la suivante :
-	- **a)** 205 $ s’il est à l’état sec;
-	- **b)** 197 $ s’il est à l’état gourd;
-	- **c)** 189,50 $ s’il est à l’état humide;
-	- **d)** 197 $ s’il est à l’état sec, rejeté en raison de pierres;
-	- **e)** 189 $ s’il est à l’état gourd, rejeté en raison de pierres;
-	- **f)** 181,50 $ s’il est à l’état humide, rejeté en raison de pierres.
+- **(2)** La somme déterminée par tonne métrique que la Commission est tenue, aux termes de l’alinéa 32(1)b) de la Loi, de payer aux producteurs pour le blé du grade de base Blé dur ambré n<sup>o</sup> 1 de l’Ouest canadien (teneur en protéines de 12,5 %) qui est vendu et livré à la Commission pendant la période de mise en commun commençant le 1<sup>er</sup> août 2007 et se terminant le 31 juillet 2008 est la suivante :
+	- **a)** 144 $ s’il est à l’état sec;
+	- **b)** 136 $ s’il est à l’état gourd;
+	- **c)** 128,50 $ s’il est à l’état humide;
+	- **d)** 136 $ s’il est à l’état sec, rejeté en raison de pierres;
+	- **e)** 128 $ s’il est à l’état gourd, rejeté en raison de pierres;
+	- **f)** 120,50 $ s’il est à l’état humide, rejeté en raison de pierres.
 
-- **(3)** La somme déterminée par tonne métrique que la Commission est tenue, aux termes de l’alinéa 32(1)b) et de l’article 47 de la Loi, de payer aux producteurs pour l’orge du grade de base n<sup>o</sup> 1 de l’Ouest canadien qui est vendue et livrée à la Commission pendant la période de mise en commun se terminant le 31 juillet 2007 est la suivante :
-	- **a)** 130,50 $ si elle est à l’état sec;
-	- **b)** 123,50 $ si elle est à l’état gourd;
-	- **c)** 117 $ si elle est à l’état humide;
-	- **d)** 125,50 $ si elle est à l’état sec, rejetée en raison de pierres;
-	- **e)** 118,50 $ si elle est à l’état gourd, rejetée en raison de pierres;
-	- **f)** 112 $ si elle est à l’état humide, rejetée en raison de pierres.
+- **(3)** La somme déterminée par tonne métrique que la Commission est tenue, aux termes de l’alinéa 32(1)b) et de l’article 47 de la Loi, de payer aux producteurs pour l’orge du grade de base n<sup>o</sup> 1 de l’Ouest canadien qui est vendue et livrée à la Commission pendant la période de mise en commun commençant le 1<sup>er</sup> août 2007 et se terminant le 31 janvier 2008 est la suivante :
+	- **a)** 107 $ si elle est à l’état sec;
+	- **b)** 100 $ si elle est à l’état gourd;
+	- **c)** 93,50 $ si elle est à l’état humide;
+	- **d)** 102 $ si elle est à l’état sec, rejetée en raison de pierres;
+	- **e)** 95 $ si elle est à l’état gourd, rejetée en raison de pierres;
+	- **f)** 88,50 $ si elle est à l’état humide, rejetée en raison de pierres.
 
-- **(4)** La somme déterminée par tonne métrique que la Commission est tenue, aux termes de l’alinéa 32(1)b) et de l’article 47 de la Loi, de payer aux producteurs pour l’orge du grade de base Extra spéciale à deux rangs de l’Ouest canadien qui est choisie et acceptée comme malt d’orge ou pour la production de l’orge mondé ou perlé et qui est vendue et livrée à la Commission pendant la période de mise en commun se terminant le 31 juillet 2007 est la suivante :
-	- **a)** 184 $ si elle est à l’état sec;
-	- **b)** 177 $ si elle est à l’état gourd;
-	- **c)** 170,50 $ si elle est à l’état humide.
+- **(4)** La somme déterminée par tonne métrique que la Commission est tenue, aux termes de l’alinéa 32(1)b) et de l’article 47 de la Loi, de payer aux producteurs pour l’orge du grade de base Extra spéciale à deux rangs de l’Ouest canadien qui est choisie et acceptée comme malt d’orge ou pour la production de l’orge mondé ou perlé et qui est vendue et livrée à la Commission pendant la période de mise en commun commençant le 1<sup>er</sup> août 2007 et se terminant le 31 juillet 2008 est la suivante :
+	- **a)** 162 $ si elle est à l’état sec;
+	- **b)** 155 $ si elle est à l’état gourd;
+	- **c)** 148,50 $ si elle est à l’état humide.
 
 - **(5)** Lorsqu’une personne, autre que le producteur, qui a été autorisée par la Commission conformément au paragraphe 24(1) de la Loi livre du blé ou de l’orge à un silo ou à un wagon, la Commission paie à cette personne, sans délivrer de certificat de producteur, la somme par tonne fixée par le présent règlement pour le blé ou l’orge du même grade, conformément à l’alinéa 32(1)b) de la Loi.
 
 - **(6) et (7)** [Abrogés, DORS/90-442, art. 1]
-> DORS/78-76, art. 1; DORS/78-571, art. 1; DORS/79-239, art. 1; DORS/79-536, art. 1; DORS/79-723, art. 1; DORS/80-602, art. 1; DORS/80-884, art. 1; DORS/81-94, art. 1; DORS/81-579, art. 1; DORS/82-752, art. 1; DORS/83-630, art. 1; DORS/83-811, art. 1; DORS/84-174, art. 1; DORS/84-495, art. 1; DORS/84-642, art. 1; DORS/84-908, art. 1; DORS/85-413, art. 1; DORS/86-480, art. 1; DORS/87-454, art. 1; DORS/87-610, art. 1; DORS/88-226, art. 1; DORS/88-373, art. 1; DORS/88-587, art. 1; DORS/89-139, art. 1; DORS/89-281, art. 8; DORS/89-362, art. 1; DORS/89-476, art. 1; DORS/90-71, art. 1; DORS/90-442, art. 1; DORS/91-9, art. 1; DORS/91-467, art. 1; DORS/91-684, art. 1; DORS/92-55, art. 1; DORS/92-212, art. 1; DORS/92-470, art. 1; DORS/92-617, art. 1; DORS/93-32, art. 1; DORS/93-278, art. 1; DORS/93-390, art. 6; DORS/93-406, art. 1; DORS/93-519, art. 1; DORS/94-26, art. 1; DORS/94-230, art. 1; DORS/94-244, art. 1; DORS/94-412, art. 1; DORS/94-521, art. 1; DORS/94-522, art. 1; DORS/94-644, art. 1; DORS/94-756, art. 1; DORS/95-61, art. 1; DORS/95-88, art. 1; DORS/95-224, art. 1; DORS/95-324, art. 1; DORS/95-383, art. 1; DORS/95-480, art. 1; DORS/95-481, art. 1; DORS/95-511, art. 1; DORS/95-554, art. 1; DORS/95-555, art. 1; DORS/96-157, art. 1; DORS/96-264, art. 1; DORS/96-382, art. 1; DORS/96-392, art. 1; DORS/97-113, art. 1; DORS/97-223, art. 1; DORS/97-315, art. 1; DORS/97-361, art. 1; DORS/97-396, art. 1; DORS/97-431, art. 1; DORS/98-14, art. 1; DORS/98-109, art. 1; DORS/98-263, art. 1; DORS/98-384, art. 1; DORS/98-404, art. 1; DORS/99-24, art. 1; DORS/99-36, art. 1; DORS/99-104, art. 1; DORS/99-307, art. 1; DORS/99-341, art. 1; DORS/99-391, art. 1(A); DORS/99-430, art. 1; DORS/2000-23, art. 1; DORS/2000-64, art. 1; DORS/2000-171, art. 1; DORS/2000-295, art. 1; DORS/2000-321, art. 1; DORS/2001-21, art. 1; DORS/2001-137, art. 1; DORS/2001-151, art. 1; DORS/2001-240, art. 1; DORS/2001-267, art. 1; DORS/2001-333, art. 1; DORS/2001-488, art. 1; DORS/2002-28, art. 1; DORS/2002-139, art. 1; DORS/2002-248, art. 1; DORS/2002-285, art. 1; DORS/2002-328, art. 1; DORS/2002-433, art. 1; DORS/2003-287, art. 1; DORS/2003-418, art. 1; DORS/2004-41, art. 1; DORS/2004-134, art. 1; DORS/2004-173, art. 1; DORS/2005-21, art. 1; DORS/2005-36, art. 1; DORS/2005-140, art. 1; DORS/2005-233, art. 1; DORS/2005-349, art. 1; DORS/2006-22, art. 1; DORS/2006-55, art. 1; DORS/2006-171, art. 1; DORS/2006-172, art. 1; DORS/2006-263, art. 1; DORS/2006-346, art. 1; DORS/2007-21, art. 1; DORS/2007-56, art. 1; DORS/2007-132, art. 1; DORS/2007-167, art. 1.
+> DORS/78-76, art. 1; DORS/78-571, art. 1; DORS/79-239, art. 1; DORS/79-536, art. 1; DORS/79-723, art. 1; DORS/80-602, art. 1; DORS/80-884, art. 1; DORS/81-94, art. 1; DORS/81-579, art. 1; DORS/82-752, art. 1; DORS/83-630, art. 1; DORS/83-811, art. 1; DORS/84-174, art. 1; DORS/84-495, art. 1; DORS/84-642, art. 1; DORS/84-908, art. 1; DORS/85-413, art. 1; DORS/86-480, art. 1; DORS/87-454, art. 1; DORS/87-610, art. 1; DORS/88-226, art. 1; DORS/88-373, art. 1; DORS/88-587, art. 1; DORS/89-139, art. 1; DORS/89-281, art. 8; DORS/89-362, art. 1; DORS/89-476, art. 1; DORS/90-71, art. 1; DORS/90-442, art. 1; DORS/91-9, art. 1; DORS/91-467, art. 1; DORS/91-684, art. 1; DORS/92-55, art. 1; DORS/92-212, art. 1; DORS/92-470, art. 1; DORS/92-617, art. 1; DORS/93-32, art. 1; DORS/93-278, art. 1; DORS/93-390, art. 6; DORS/93-406, art. 1; DORS/93-519, art. 1; DORS/94-26, art. 1; DORS/94-230, art. 1; DORS/94-244, art. 1; DORS/94-412, art. 1; DORS/94-521, art. 1; DORS/94-522, art. 1; DORS/94-644, art. 1; DORS/94-756, art. 1; DORS/95-61, art. 1; DORS/95-88, art. 1; DORS/95-224, art. 1; DORS/95-324, art. 1; DORS/95-383, art. 1; DORS/95-480, art. 1; DORS/95-481, art. 1; DORS/95-511, art. 1; DORS/95-554, art. 1; DORS/95-555, art. 1; DORS/96-157, art. 1; DORS/96-264, art. 1; DORS/96-382, art. 1; DORS/96-392, art. 1; DORS/97-113, art. 1; DORS/97-223, art. 1; DORS/97-315, art. 1; DORS/97-361, art. 1; DORS/97-396, art. 1; DORS/97-431, art. 1; DORS/98-14, art. 1; DORS/98-109, art. 1; DORS/98-263, art. 1; DORS/98-384, art. 1; DORS/98-404, art. 1; DORS/99-24, art. 1; DORS/99-36, art. 1; DORS/99-104, art. 1; DORS/99-307, art. 1; DORS/99-341, art. 1; DORS/99-391, art. 1(A); DORS/99-430, art. 1; DORS/2000-23, art. 1; DORS/2000-64, art. 1; DORS/2000-171, art. 1; DORS/2000-295, art. 1; DORS/2000-321, art. 1; DORS/2001-21, art. 1; DORS/2001-137, art. 1; DORS/2001-151, art. 1; DORS/2001-240, art. 1; DORS/2001-267, art. 1; DORS/2001-333, art. 1; DORS/2001-488, art. 1; DORS/2002-28, art. 1; DORS/2002-139, art. 1; DORS/2002-248, art. 1; DORS/2002-285, art. 1; DORS/2002-328, art. 1; DORS/2002-433, art. 1; DORS/2003-287, art. 1; DORS/2003-418, art. 1; DORS/2004-41, art. 1; DORS/2004-134, art. 1; DORS/2004-173, art. 1; DORS/2005-21, art. 1; DORS/2005-36, art. 1; DORS/2005-140, art. 1; DORS/2005-233, art. 1; DORS/2005-349, art. 1; DORS/2006-22, art. 1; DORS/2006-55, art. 1; DORS/2006-171, art. 1; DORS/2006-172, art. 1; DORS/2006-263, art. 1; DORS/2006-346, art. 1; DORS/2007-21, art. 1; DORS/2007-56, art. 1; DORS/2007-132, art. 1; DORS/2007-167, art. 1; DORS/2007-183, art. 1; DORS/2007-184, art. 1.
 
 
 
