@@ -1032,11 +1032,11 @@ and from which all internal organs, head, fins, bones, except intramuscular or l
 		- **(iii)** in any case not referred to in subparagraph (i) or (ii), the container or label states that the contents are to be weighed at the time of retail sale;
 	- **(c)** the grade, size, class, count and moisture content as follows:
 		- **(i)** in the case of pickled fish, with the grade, class and size of the fish,
-		- **(ii)** in the case of boneless or semi-boneless salted fish, with the grade of the fish,
+		- **(ii)** [Repealed, SOR/2007-18, s. 1]
 		- **(iii)** in the case of bloaters, with the grade and count of the fish,
 		- **(iv)** in the case of bloater fillets, with the grade of the fish,
 		- **(v)** in the case of frozen Atlantic smelts, with the size of the fish,
-		- **(vi)** in the case of salted fish, other than boneless or semi-boneless salted fish, with the grade and class of the fish, the size or count of the fish and the designation for moisture content,
+		- **(vi)** [Repealed, SOR/2007-18, s. 1]
 		- **(vii)** in the case of Atlantic oysters in the shell, with the shape designation, and
 		- **(viii)** in the case of dried squid, with the grade designation;
 	- **(d)** the name and address of the person by whom or for whom the fish is processed or by whom it is distributed;
@@ -1048,7 +1048,7 @@ and from which all internal organs, head, fins, bones, except intramuscular or l
 - **(2)** The markings referred to in paragraph (1)(a) to (c) shall be shown on the main panel of every container containing 900 g or less of fish and shall be not less than 3.2 mm in height.
 
 - **(3)** Cartons and cases are exempt from paragraphs (1)(b) to (e) where they contain containers of fish that are marked in accordance with subsections (1) and (2).
-> SOR/81-374, s. 3; SOR/83-110, s. 2; SOR/89-375, s. 1.
+> SOR/81-374, s. 3; SOR/83-110, s. 2; SOR/89-375, s. 1; SOR/2007-18, s. 1.
 
 
 
@@ -2176,340 +2176,101 @@ and from which all internal organs, head, fins, bones, except intramuscular or l
 ## Salted Fish
 
 
+**103** In this Part, ***salted fish*** means fish of the Gadidae family that has been preserved by salt and contains not less than 12% salt on a wet weight basis and a maximum moisture content of 65%.
+> SOR/2007-18, s. 2.
 
-### General
 
 
-**103** Salted fish from which “pink” or “red” has been removed may be packed in accordance with the classes and grades established by this Part if, at the time of inspection or packing, whichever last occurs, no “pink” or “red” is showing and the fish has a moisture content not exceeding 38 per cent.
 
+**104** 
 
+- **(1)** No person shall place a product designation on a label affixed to a container of salted fish unless the designation is immediately adjacent to the common name of the product without any intervening printed, written or graphic matter and the designation is made in accordance with subsection (2).
 
-**104** [Repealed, SOR/96-364, s. 16]
+- **(2)** Salted fish shall be designated as
+	- **(a)** “split fish”, if it is split and at least two-thirds of the anterior of the backbone has been removed;
+	- **(b)** “split fish with entire backbone”, if it is split and no portion of the backbone has been removed;
+	- **(c)** “fillet”, if it is a fillet as defined in section 2; or
+	- **(d)** any other designation that
+		- **(i)** is distinctive from those set out in paragraphs (a) to (c), and
+		- **(ii)** meets the requirements of these Regulations.
+> SOR/2007-18, s. 2.
 
 
 
-**105** The moisture content of boneless or semi-boneless salted fish shall not exceed 54 per cent.
 
+**105** 
 
+- **(1)** No person shall place a class designation on a label affixed to a container of salted fish unless the designation is made in accordance with subsection (2).
 
-**106** No container of boneless or semi-boneless salted fish shall contain more than one species of fish.
+- **(2)** Salted fish shall be designated as
+	- **(a)** “slack salted fish”, if, after the curing process is complete, it has a maximum salt content of 25% of the dry weight of the fish;
+	- **(b)** “light salted fish”, if, after the curing process is complete, it has a salt content of more than 25% but not more than 33% of the dry weight of the fish;
+	- **(c)** “dried heavy salted fish”, if, after the curing process is complete, it has a salt content of more than 33% of the dry weight of the fish and has a maximum moisture content of 54%; or
+	- **(d)** “green heavy salted fish”, if, after the curing process is complete, it has a salt content of more than 33% of the dry weight of the fish and has a moisture content of more than 54% but not more than 65%.
+> SOR/2007-18, s. 2.
 
 
 
-**107** Boneless or semi-boneless salted fish shall be packed in new, clean containers that are completely lined with parchment or wax paper or are impervious to moisture.
 
+**106** If more than one species of salted fish is packed in a container, the names of the species must be indicated on the label in the common name or in the list of ingredients in descending order of proportion.
+> SOR/2007-18, s. 2.
 
 
-**108** 
 
-- **(1)** Boneless salted fish may be prepared as fibred fish by separating the fibres and shredding the fish.
 
-- **(2)** Fibred fish shall be prepared from Fancy or Choice grade as described in paragraph 118(a) or (b) and may be designated by any name acceptable to the President of the Agency.
+**107** [Repealed, SOR/2007-18, s. 2]
 
-- **(3)** Containers of boneless salted fish shall not be marked or labelled “middle cuts” unless they contain only pieces of fish taken from the thickest part of boneless salted fish of Fancy or Choice grade.
 
-- **(4)** Pieces or cuttings of clean fish resulting from the preparation of boneless salted fish shall be designated by any name acceptable to the President of the Agency.
-> SOR/2000-184, s. 59.
 
+**108** [Repealed, SOR/2007-18, s. 2]
 
 
 
-**109** 
+**109** [Repealed, SOR/2007-18, s. 2]
 
-- **(1)** Boneless salted fish shall have all bones removed.
 
-- **(2)** Semi-boneless salted fish shall have all bones except the pin bones removed.
 
+**110** [Repealed, SOR/2007-18, s. 2]
 
 
 
-### Classes, Grades, Sizes and Moisture Content for Salted Fish
+**111** [Repealed, SOR/2007-18, s. 2]
 
 
-**110** Salted fish for export from Canada shall be kench or pickle cured and shall be packed according to class, grade, size and moisture content as determined in accordance with sections 112 to 120.
 
+**112** [Repealed, SOR/2007-18, s. 2]
 
 
-**111** The classes of salted fish are “light salted”, “heavy salted” and “Gaspe Cure”.
 
+**113** [Repealed, SOR/2007-18, s. 2]
 
 
 
-### Light Salted Cod
+**114** [Repealed, SOR/2007-18, s. 2]
 
 
-**112** A light salted cod shall be graded as
-- **(a)** “Choice”, if it is a reasonably thick, smooth-faced, well split fish that is clean on back and face, has a slightly yellowish cast, is free from liver, gut and salt on the face, is reasonably free from blood stains and clots, and excludes round or lap tails;
-- **(b)** “Prime”, if it is a reasonably thick, smooth-faced, well split fish, excluding round or lap tails, whether or not it shows slight traces of salt;
-- **(c)** “Madeira”, if it is a fairly well split fish that is not over-salted, sunburned, broken, slimy, dun or sour, whether or not it is fairly thin and slightly rough in appearance;
-- **(d)** “Thirds”, if it is a fish that is excessively thin, badly split, slightly cracked on the face, slightly sunburned or skin-heated, slightly dun or a fish from which dun has been removed or that shows excess salt;
-- **(e)** “West India”, if it is a fish that is not broken or excessively dun, whether or not it is cracked, sunburned or skin-heated or shows slight slim, slight sourness or excess salt; or
-- **(f)** “Tomcod”, if it is a fish under 305 mm in length that meets the requirements of paragraph (a), (b) or (c).
-> SOR/81-374, s. 16.
 
+**115** [Repealed, SOR/2007-18, s. 2]
 
 
 
+**116** [Repealed, SOR/2007-18, s. 2]
 
-### Light Salted Haddock, Hake, Cusk or Pollock
 
 
-**113** A light salted haddock, hake, cusk or pollock shall be graded as
-- **(a)** “Prime”, if it is a fish that meets the requirements of paragraph 112(a), (b) or (c);
-- **(b)** “West India”, if it is a fish that meets the requirements of paragraph 112(d) or (e).
+**117** [Repealed, SOR/2007-18, s. 2]
 
 
 
+**118** [Repealed, SOR/2007-18, s. 2]
 
-### Gaspe Cure Slack Salted Fish
 
 
-**114** A Gaspe Cure slack salted fish shall be graded as
-- **(a)** “Selected”, if it is a reasonably thick, smooth-faced, well split fish, that is clean on back and face, has a somewhat translucent appearance, is free from liver, gut and salt on the surface, is free from blood stains and clots and, where it is hard dried, has an amber cast;
-- **(b)** “Choice”, if it is a fairly well split fish that is not sunburned, broken, slimy, or otherwise defective, whether or not it is slightly rough in appearance or shows slight blood stains and traces of salt on the surface;
-- **(c)** “Standard”, if it is a fish that is not a slink, whether or not that fish is rough-faced or poorly split, shows salt, blood stains, clots or liver stains or is slightly sunburned; or
-- **(d)** “Commercial”, if it is a fish that does not meet the requirements of paragraph (a), (b) or (c) but that is free from mould and slime and is not sour, heavily mutilated, heavily sunburned or heavily skin-heated.
+**119** [Repealed, SOR/2007-18, s. 2]
 
 
 
-
-### Heavy Salted Cod
-
-
-**115** A heavy salted cod shall be graded as
-- **(a)** “Selected”, if it is a firm, reasonably thick, smooth-faced, well split fish, that is clean on back and face, is white in appearance and is free from slime, blood, liver and other stains;
-- **(b)** “Choice”, if it is a firm, somewhat rough-faced, fairly well split fish that is clean on back and face and is free from slime, whether or not it shows slight blood or other stains on the surface;
-- **(c)** “Standard”, if it is a fish that is not a slink, whether or not that fish is rough-faced or poorly split, shows blood, clots and other stains, is slightly sunburned or skin-heated, or is slightly dun or a fish from which dun has been removed; or
-- **(d)** “Commercial”, if it is a fish that does not meet the requirements of paragraph (a), (b) or (c) but that does not show heavy dun or heavy slime and is not heavily sunburned or heavily skin-heated.
-
-
-
-
-### Heavy Salted Haddock, Hake, Cusk or Pollock
-
-
-**116** A heavy salted haddock, hake, cusk or pollock shall be graded as
-- **(a)** “Choice”, if it is a firm, reasonably thick, somewhat rough-faced, clean, fairly well split fish that is clean on back and face and free from slime, whether or not it shows slight blood or other stains;
-- **(b)** “Standard”, if it is a fish that is not a slink, whether or not that fish is rough-faced or poorly split, shows blood clots and other stains, is slightly sunburned or skin-heated, or is slightly dun or a fish from which dun has been removed; or
-- **(c)** “Commercial”, if it is a fish that does not meet the requirements of paragraph (a) or (b) but that does not show heavy dun or heavy slime and is not heavily sunburned or heavily skin-heated.
-
-
-
-
-### Heavy Salted Saltbulk and Green Salted Fish
-
-
-**117** A heavy salted saltbulk and green salted fish shall be graded as
-- **(a)** “Fancy”, if it is a firm, reasonably thick, smooth-faced, well split fish that is clean on back and face, is near-white in colour and is free from blood clots, stains and other discolorations and shows whiteness similar to bled fish;
-- **(b)** “Choice”, if it is a firm, reasonably thick, smooth-faced, well split fish that is clean on back and face, is near-white in colour and is free from blood clots, stains and other discolorations;
-- **(c)** “Standard”, if it is a firm, fairly well split fish, whether or not that fish shows slight discoloration as long as the discoloration is not “pink” and does not have jigger-marks or a heavy lap or round tail; or
-- **(d)** “Commercial”, if it is a fish that is free from “pink” discoloration and that does not meet the requirements of paragraph (a), (b) or (c).
-
-
-
-
-### Boneless or Semi-boneless Salted Fish
-
-
-**118** Boneless or semi-boneless salted fish shall be graded as
-- **(a)** “Fancy”, if the fillets are thoroughly cured, clean, firm, neatly trimmed whole fillets of the same whiteness as bled fish, are free from excessive salt and other defects, and not more than 10 per cent by count of the fillets in any container have ragged edges, tears or holes;
-- **(b)** “Choice”, if the fillets are thoroughly cured, clean, firm, fairly well trimmed whole fillets that are free from excessive salt and other defects, and not more than 20 per cent by count of the fillets in any container have ragged edges, tears or holes or show slight discoloration;
-- **(c)** “Standard”, if the fillets are thoroughly cured, clean fillets and not more than 50 per cent by count of the fillets in any container have ragged edges, tears or holes or show discoloration; or
-- **(d)** “Substandard”, if the fillets do not meet the requirements of paragraph (a), (b) or (c).
-
-
-
-
-### Sizes for Salted Fish
-
-
-**119** 
-
-- **(1)** Containers of salted fish for export from Canada shall be packed according to class and length in accordance with Table I or II to this subsection, as appropriate.
-
-## TABLE I
-
-
-## GASPE CURE
-
-<table>
-<tr>
-<td>Description</td>
-<td>Length in millimetres</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Extra small</td>
-<td>under 330</td>
-</tr>
-<tr>
-<td>Small</td>
-<td>330 but under 430</td>
-</tr>
-<tr>
-<td>Medium</td>
-<td>430 but under 535</td>
-</tr>
-<tr>
-<td>Large</td>
-<td>535 but under 635</td>
-</tr>
-<tr>
-<td>Extra large</td>
-<td>635 and over</td>
-</tr>
-</table>
-
-
-## TABLE II
-
-
-## HEAVY SALTED OR LIGHT SALTED FISH
-
-#### Length in millimetres
-<table>
-<tr>
-<th>Description</th>
-<th>Cod</th>
-<th>Pollock</th>
-<th>Hake or Cusk</th>
-<th>Haddock</th>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>Extra small </td>
-<td>under 290</td>
-<td>—</td>
-<td>under 305</td>
-<td>—</td>
-</tr>
-<tr>
-<td>Small </td>
-<td>290 but under 420</td>
-<td>under 305</td>
-<td>305 but under 405</td>
-<td>under 330</td>
-</tr>
-<tr>
-<td>Medium </td>
-<td>420 but under 533</td>
-<td>305 but under 405</td>
-<td>405 but under 510</td>
-<td>330 and over</td>
-</tr>
-<tr>
-<td>Large </td>
-<td>535 but under 635</td>
-<td>over 405</td>
-<td>over 510</td>
-<td>—</td>
-</tr>
-<tr>
-<td>Extra large </td>
-<td>635 and over</td>
-<td>—</td>
-<td></td>
-<td>—</td>
-</tr>
-</table>
-
-
-- **(2)** The length of a fish is determined by measuring along the centre of the fish in a straight line from the end of the backbone at the round of the tail to the end of the flesh at the neck but not including the flap of the neck.
-> SOR/81-374, s. 17.
-
-
-
-
-
-### Moisture Content for Salted Fish
-
-
-**120** Salted fish for export from Canada shall be designated on the basis of its moisture content in accordance with the table to this section.
-
-## TABLE
-
-<table>
-<tr>
-<td>Class</td>
-<td>Percentage</td>
-<td>Designation</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>1. Heavy Salted </td>
-<td>not over 32 per cent</td>
-<td>Extra Hard Dried</td>
-</tr>
-<tr>
-<td></td>
-<td>over 32 per cent but not over 38 per cent</td>
-<td>Hard Dried</td>
-</tr>
-<tr>
-<td></td>
-<td>over 38 per cent but not over 40 per cent</td>
-<td>Dry</td>
-</tr>
-<tr>
-<td></td>
-<td>over 40 per cent but not over 44 per cent</td>
-<td>Semi-dry</td>
-</tr>
-<tr>
-<td></td>
-<td>over 44 per cent but not over 50 per cent</td>
-<td>Ordinary cure</td>
-</tr>
-<tr>
-<td></td>
-<td>over 50 per cent but not over 54 per cent</td>
-<td>Soft Dried</td>
-</tr>
-<tr>
-<td>2. Light Salted </td>
-<td>not over 36 per cent</td>
-<td>Italian Hard Dried</td>
-</tr>
-<tr>
-<td></td>
-<td>not over 38 per cent</td>
-<td>Hard Dried</td>
-</tr>
-<tr>
-<td></td>
-<td>not over 40 per cent</td>
-<td>Dried</td>
-</tr>
-<tr>
-<td></td>
-<td>not over 48 per cent</td>
-<td>Soft Dried</td>
-</tr>
-<tr>
-<td>3. Gaspe Cure </td>
-<td>not over 38 per cent</td>
-<td>Hard Dried</td>
-</tr>
-<tr>
-<td></td>
-<td>not over 48 per cent</td>
-<td>Dried</td>
-</tr>
-</table>
-
+**120** [Repealed, SOR/2007-18, s. 2]
 
 
 
