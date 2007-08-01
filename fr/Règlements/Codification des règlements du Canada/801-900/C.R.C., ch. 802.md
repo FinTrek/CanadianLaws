@@ -1031,11 +1031,11 @@ qui ont été débarrassées des entrailles, de la tête, des nageoires, des ar�
 		- **(iii)** dans les cas non mentionnés aux sous-alinéas (i) ou (ii), ne soit énoncé sur le récipient ou sur l’étiquette que le contenu doit être pesé au moment de la vente au détail;
 	- **c)** la qualité, la taille, la classe, le nombre et la teneur en eau, ainsi qu’il suit :
 		- **(i)** dans le cas du poisson saumuré, la qualité, la classe et la taille du poisson,
-		- **(ii)** dans le cas du poisson salé désossé ou semi-désossé, la qualité du poisson,
+		- **(ii)** [Abrogé, DORS/2007-18, art. 1]
 		- **(iii)** dans le cas de bouffis, la qualité du poisson et le nombre de poissons,
 		- **(iv)** dans le cas de filets de bouffis, la qualité du poisson,
 		- **(v)** dans le cas de l’éperlan de l’Atlantique congelé, la taille du poisson,
-		- **(vi)** dans le cas du poisson salé, sauf le poisson salé désossé ou semi-désossé, la qualité et la classe du poisson, la taille du poisson ou le nombre de poissons ainsi que la teneur en eau selon la désignation établie,
+		- **(vi)** [Abrogé, DORS/2007-18, art. 1]
 		- **(vii)** dans le cas des huîtres de l’Atlantique en écailles, la forme selon la désignation établie, et
 		- **(viii)** dans le cas du calmar séché, la désignation de qualité;
 	- **d)** le nom et l’adresse de la personne par qui ou pour qui le poisson est traité ou qui le distribue;
@@ -1047,7 +1047,7 @@ qui ont été débarrassées des entrailles, de la tête, des nageoires, des ar�
 - **(2)** Les marques mentionnées aux alinéas (1)a) à c) doivent figurer sur la partie principale de tout récipient qui contient au plus 900 g de poisson, et doivent être imprimées en caractères d’au moins 3,2 mm de haut.
 
 - **(3)** Les cartons et les caisses sont soustraits à l’application des alinéas (1)b) à e) lorsqu’ils renferment des récipients de poisson qui sont marqués conformément aux dispositions des paragraphes (1) et (2).
-> DORS/81-374, art. 3; DORS/83-110, art. 2; DORS/89-375, art. 1.
+> DORS/81-374, art. 3; DORS/83-110, art. 2; DORS/89-375, art. 1; DORS/2007-18, art. 1.
 
 
 
@@ -2176,340 +2176,101 @@ qui ont été débarrassées des entrailles, de la tête, des nageoires, des ar�
 ## Poisson salé
 
 
+**103** Dans la présente partie, ***poisson salé*** s’entend d’un poisson de la famille des Gadidés qui, après avoir été salé pour sa conservation, a une teneur en sel minimale de 12 % en phase aqueuse et une teneur en eau maximale de 65 %.
+> DORS/2007-18, art. 2.
 
-### Dispositions générales
 
 
-**103** Le poisson dont la coloration « rose » ou « rouge » a été enlevée peut être emballé d’après les classes et les qualités prévues à la présente partie si, au moment de l’inspection ou de l’emballage, suivant celle de ces opérations qui se produit la dernière, aucune trace de coloration « rose » ou « rouge » n’est visible et si la teneur en eau du poisson n’est pas supérieure à 38 pour cent.
 
+**104** 
 
+- **(1)** Il est interdit d’indiquer la désignation d’un produit sur l’étiquette apposée sur un contenant de poisson salé à moins que cette désignation précède ou suive immédiatement le nom commun du produit, sans qu’aucun texte imprimé ou écrit ni aucun signe graphique ne soit intercalé, et qu’elle soit indiquée conformément au paragraphe (2).
 
-**104** [Abrogé, DORS/96-364, art. 16]
+- **(2)** La désignation d’un poisson salé doit être indiquée de la manière suivante :
+	- **a)** « poisson fendu » dans le cas du poisson fendu dont plus des deux tiers de l’extrémité antérieure de la colonne vertébrale ont été enlevés;
+	- **b)** « poisson fendu avec colonne vertébrale entière » dans le cas du poisson fendu dont la colonne vertébrale n’a pas été enlevée;
+	- **c)** « filets » dans le cas de filets au sens où l’entend l’article 2;
+	- **d)** toute autre désignation qui, à la fois :
+		- **(i)** se distingue des désignations visées aux alinéas a) à c),
+		- **(ii)** est conforme aux exigences du présent règlement.
+> DORS/2007-18, art. 2.
 
 
 
-**105** La teneur en eau du poisson salé désossé ou semi-désossé ne doit pas être supérieure à 54 pour cent.
 
+**105** 
 
+- **(1)** Il est interdit d’indiquer la désignation de classe sur l’étiquette apposée sur un contenant de poisson salé à moins qu’elle soit indiquée conformément au paragraphe (2).
 
-**106** Aucun récipient de poisson salé désossé ou semi-désossé ne doit contenir plus d’une espèce de ce poisson.
+- **(2)** La désignation de classe du poisson salé doit être indiquée de la manière suivante :
+	- **a)** « poisson faiblement salé » dans le cas du poisson qui, après sa préparation, a une teneur en sel maximale de 25 % en poids sec;
+	- **b)** « poisson légèrement salé » dans le cas du poisson qui, après sa préparation, a une teneur en sel de plus de 25 %, mais d’au plus 33 % en poids sec;
+	- **c)** « poisson fortement salé séché » dans le cas du poisson qui, après sa préparation, a une teneur en sel de plus de 33 % en poids sec et une teneur en eau maximale de 54 %;
+	- **d)** « poisson fortement salé en vert » dans le cas de poisson qui, après sa préparation, a une teneur en sel de plus de 33 % en poids sec et une teneur en eau de plus de 54 %, mais d’au plus 65 %.
+> DORS/2007-18, art. 2.
 
 
 
-**107** Le poisson salé désossé ou semi-désossé doit être emballé dans des récipients neufs et propres, imperméables à l’humidité ou entièrement doublés de papier sulfurisé ou de papier ciré.
 
+**106** Si un contenant contient plus d’une espèce de poisson salé, le nom des espèces doit faire partie du nom commun indiqué sur l’étiquette ou figurer dans la liste des ingrédients dans l’ordre décroissant de leur proportion.
+> DORS/2007-18, art. 2.
 
 
-**108** 
 
-- **(1)** Le poisson salé désossé peut être préparé sous forme de poisson déchiqueté en séparant les fibres et en déchiquetant le poisson.
 
-- **(2)** Le poisson déchiqueté doit être préparé à partir de poisson de la qualité « de luxe » ou de la qualité « de choix », telles qu’elles sont définies à l’alinéa 118 a) ou b), et il peut être désigné sous n’importe quel nom qui agrée au président de l’Agence.
+**107** [Abrogé, DORS/2007-18, art. 2]
 
-- **(3)** Les récipients qui contiennent du poisson salé désossé ne doivent pas être marqués ni étiquetés « partie du milieu » à moins qu’ils contiennent seulement des morceaux prélevés dans la partie la plus épaisse du poisson salé désossé, de la qualité « de luxe » ou « de choix ».
 
-- **(4)** Les morceaux ou les parures de poisson bien nettoyé recueillis au cours de la préparation de poisson salé désossé doivent être désignés sous un nom qui agrée au président de l’Agence.
-> DORS/2000-184, art. 59.
 
+**108** [Abrogé, DORS/2007-18, art. 2]
 
 
 
-**109** 
+**109** [Abrogé, DORS/2007-18, art. 2]
 
-- **(1)** Le poisson salé désossé doit être débarrassé de toutes ses arêtes.
 
-- **(2)** Le poisson salé semi-désossé doit être débarrassé de toutes ses arêtes, sauf les apophyses.
 
+**110** [Abrogé, DORS/2007-18, art. 2]
 
 
 
-### Classes, qualités, taille et teneur en eau du poisson salé
+**111** [Abrogé, DORS/2007-18, art. 2]
 
 
-**110** Le poisson salé qui doit être exporté à l’étranger doit être salé en arrimes ou en saumure, et emballé selon la qualité et la taille ainsi qu’il est établi aux articles 112 à 120.
 
+**112** [Abrogé, DORS/2007-18, art. 2]
 
 
-**111** Les classes de poisson salé comprennent le poisson « légèrement salé » le poisson « fortement salé » et le poisson « salé à la gaspésienne ».
 
+**113** [Abrogé, DORS/2007-18, art. 2]
 
 
 
-### Morue légèrement salée
+**114** [Abrogé, DORS/2007-18, art. 2]
 
 
-**112** La morue légèrement salée doit être classée suivant les qualités ci-après :
-- **a)** « de choix », lorsqu’il s’agit de morue raisonnablement épaisse, à surface lisse, bien fendue, à dos et à face bien nettoyés, à teinte légèrement jaunâtre, exempte de foie, de viscères et de sel à la face, raisonnablement exempte de taches ou de caillots de sang, non comprise la morue jambonnée (*round tail*) ou dont un côté de la queue est rabattu (*lap tail*);
-- **b)** « supérieure », lorsqu’il s’agit de morue raisonnablement épaisse, bien fendue, à face lisse, non comprise la morue jambonnée ou dont un côté de la queue est rabattu, qu’elle fasse voir ou non de légères traces de sel;
-- **c)** « madère », lorsqu’il s’agit de morue assez bien fendue, qui n’est ni trop salée, ni brûlée par le soleil, ni brisée, ni visqueuse, ni aigre, ni attaquée par la moisissure brune, que la morue soit ou non passablement mince et d’apparence légèrement rugueuse;
-- **d)** « troisième », lorsqu’il s’agit de morue excessivement mince, mal fendue, à face légèrement fendillée, légèrement brûlée par le soleil ou à peau chauffée, légèrement attaquée par la moisissure brune ou dont la moisissure brune a été enlevée, ou fait voir un excès de sel;
-- **e)** « West India », lorsqu’il s’agit de morue qui n’est ni brisée, ni trop attaquée par la moisissure brune, qu’elle soit ou non fendillée, brûlée par le soleil ou à peau chauffée, ou légèrement visqueuse ou aigre, ou trop salée; ou
-- **f)** « petite morue », lorsqu’il s’agit de morue de moins de 305 mm de taille qui répond aux exigences des alinéas a), b) ou c).
-> DORS/81-374, art. 16.
 
+**115** [Abrogé, DORS/2007-18, art. 2]
 
 
 
+**116** [Abrogé, DORS/2007-18, art. 2]
 
-### Aiglefin, merluche, brosme ou goberge légèrement salés
 
 
-**113** L’aiglefin, la merluche, le brosme ou la goberge légèrement salés doivent être classés suivant les qualités ci-après :
-- **a)** « supérieure », lorsqu’il s’agit de poisson qui répond aux exigences de l’alinéa 112a), b) ou c); ou
-- **b)** « West India », lorsqu’il s’agit de poisson qui répond aux exigences de l’alinéa 112d) ou e).
+**117** [Abrogé, DORS/2007-18, art. 2]
 
 
 
+**118** [Abrogé, DORS/2007-18, art. 2]
 
-### Poisson légèrement salé à la gaspésienne
 
 
-**114** Le poisson légèrement salé à la gaspésienne doit être classé suivant les qualités ci-après :
-- **a)** « de luxe », lorsqu’il s’agit de poisson raisonnablement épais, à face lisse, bien fendu, à dos et à face bien nettoyés, d’aspect quelque peu translucide, exempt de taches ou de caillots de sang, de foie, de viscères et de sel à la surface et qui doit avoir, dans le cas du poisson séché à coeur, une coloration ambrée;
-- **b)** « de choix », lorsqu’il s’agit de poisson assez bien fendu, qui n’est ni brisé, ni brûlé par le soleil, ni visqueux, ni autrement défectueux, que son apparence soit ou non légèrement rugueuse ou que le poisson fasse voir ou non de légères taches de sang ou des traces de sel à la surface;
-- **c)** « normale », lorsqu’il s’agit d’autre poisson que du poisson très mince, que ce poisson soit ou non à face rugueuse, ou médiocrement fendu ou qu’il fasse voir ou non du sel, des taches ou des caillots de sang, ou des taches de foie, ou qu’il soit ou non légèrement brûlé par le soleil; ou
-- **d)** « commerciale », lorsqu’il s’agit de poisson qui ne répond pas aux exigences des alinéas a), b) ou c), mais qui est exempt de moisissure et de viscosité et qui n’est ni aigre, ni fortement mutilé, ni fortement brûlé par le soleil ou dont la peau n’a pas été fortement chauffée.
+**119** [Abrogé, DORS/2007-18, art. 2]
 
 
 
-
-### Morue fortement salée
-
-
-**115** La morue fortement salée doit être classée suivant les qualités ci-après :
-- **a)** « de luxe », lorsqu’il s’agit de morue bien fendue, raisonnablement épaisse, à chair ferme, à face lisse, et blanche, à dos et à face bien nettoyés, exempte de viscosité, de taches de sang, de foie ou d’autres taches;
-- **b)** « de choix », lorsqu’il s’agit de morue assez bien fendue, à chair ferme, à face quelque peu rugueuse, à dos et à face bien nettoyés, exempte de viscosité, qu’elle fasse voir ou non de légères taches de sang ou d’autres taches en surface;
-- **c)** « normale », lorsqu’il s’agit d’autre morue que de la morue très mince, qu’elle soit ou non à face rugueuse ou médiocrement fendue, ou qu’elle fasse voir ou non des caillots de sang ou d’autres taches, ou qu’elle soit ou non légèrement brûlée par le soleil ou à peau légèrement chauffée ou qu’elle soit ou non légèrement attaquée par la moisissure brune ou dont la moisissure brune a été enlevée; ou
-- **d)** « commerciale », lorsqu’il s’agit de poisson qui ne répond pas aux exigences des alinéas a, b) ou c) mais qui n’est pas fortement atteint de moisissure brune, qui n’est pas fortement visqueux et qui n’est pas fortement brûlé par le soleil ou dont la peau n’est pas fortement chauffée.
-
-
-
-
-### Aiglefin, merluche, brosme ou goberge fortement salés
-
-
-**116** L’aiglefin, la merluche, le brosme et la goberge fortement salés doivent être classés suivant les qualités ci-après :
-- **a)** « de choix », lorsqu’il s’agit de poisson bien nettoyé à chair ferme, raisonnablement épais, à face quelque peu rugueuse, assez bien fendu, à dos et à face bien nettoyés, qui est exempt de viscosité, que le poisson fasse voir ou non de légères taches de sang ou d’autres taches;
-- **b)** « normale », lorsqu’il s’agit d’autre poisson que du poisson très mince, que ce poisson soit ou non à face rugueuse ou médiocrement fendu, qu’il fasse voir ou non des caillots de sang ou d’autres taches, qu’il soit ou non légèrement brûlé par le soleil ou à peau chauffée, ou qu’il soit attaqué légèrement par la moisissure brune ou dont la moisissure brune a été enlevée; ou
-- **c)** « commerciale », lorsqu’il s’agit de poisson qui ne répond pas aux exigences des alinéas a) ou b), mais qui n’est pas attaqué fortement par la moisissure brune ou qui n’est pas fortement visqueux ni fortement brûlé par le soleil ou dont la peau n’est pas fortement chauffée.
-
-
-
-
-### Poisson fortement salé en arrimes et poisson salé en vert
-
-
-**117** Le poisson fortement salé en arrimes et le poisson salé en vert doivent être classés suivant les qualités ci-après :
-- **a)** « de luxe », lorsqu’il s’agit de poisson bien fendu, raisonnablement épais, à chair ferme, à face lisse, à dos et à face bien nettoyés, à parois abdominales blanches, et exempt de caillots de sang, de taches ou d’autres colorations et dont la blancheur est semblable à celle du poisson qui a été saigné;
-- **b)** « de choix », lorsqu’il s’agit de poisson bien fendu, raisonnablement épais, à chair ferme et presque blanche, à face lisse, à dos et à face bien nettoyés et exempt de caillots de sang, de taches ou d’autres colorations;
-- **c)** « normale », lorsqu’il s’agit de poisson assez bien fendu, à chair ferme, faisant voir ou non de légères colorations, sauf la coloration « rose », non compris le poisson portant des marques de turlutte ni le poisson trop jambonné ou ayant un côté de la queue trop rabattu (*lap tail*); ou
-- **d)** « commerciale », lorsqu’il s’agit de poisson exempt de coloration « rose » et qui ne répond pas aux exigences des alinéas a), b) ou c).
-
-
-
-
-### Poisson salé désossé ou semi-désossé
-
-
-**118** Le poisson salé désossé ou semi-désossé doit être classé suivant les qualités ci-après :
-- **a)** « de luxe », lorsqu’il s’agit de filets entiers parfaitement préparés, bien nettoyés, fermes, bien parés, de la même blancheur que le poisson saigné, exempts d’un excès de sel ou d’autres défauts et qu’au plus 10 pour cent du nombre de filets contenus dans un récipient ont des bords déchiquetés, des déchirures ou des trous;
-- **b)** « de choix », lorsqu’il s’agit de filets entiers parfaitement préparés, bien nettoyés, fermes, assez bien parés, exempts d’un excès de sel ou d’autres défauts et qu’au plus 20 pour cent des filets contenus dans un récipient ont des bords déchiquetés, des déchirures ou des trous, ou font voir une légère coloration;
-- **c)** « normale » lorsqu’il s’agit de filets parfaitement préparés, bien nettoyés et qu’au plus 50 pour cent des filets contenus dans un récipient ont des bords déchiquetés, des déchirures ou des trous, ou font voir une certaine coloration; ou
-- **d)** « sous-normale », si les filets ne répondent pas aux exigences des alinéas a), b) ou c).
-
-
-
-
-### Taille du poisson salé
-
-
-**119** 
-
-- **(1)** Le poisson salé qui doit être exporté à l’étranger doit être emballé selon la classe et la taille conformément au tableau I ou II du présent paragraphe, selon le cas.
-
-## TABLEAU I
-
-
-## POISSON SALÉ À LA GASPÉSIENNE
-
-<table>
-<tr>
-<th>Description</th>
-<th>Taille en millimètres</th>
-</tr>
-<tr>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>Très petit</td>
-<td>moins de 330</td>
-</tr>
-<tr>
-<td>Petit</td>
-<td>330 mais moins de 430</td>
-</tr>
-<tr>
-<td>Moyen</td>
-<td>430 mais moins de 535</td>
-</tr>
-<tr>
-<td>Grand</td>
-<td>535 mais moins de 635</td>
-</tr>
-<tr>
-<td>Très grand</td>
-<td>635 et plus</td>
-</tr>
-</table>
-
-
-## TABLEAU II
-
-
-## POISSON FORTEMENT SALÉ OU LÉGÈREMENT SALÉ
-
-#### Longueur en millimètres
-<table>
-<tr>
-<th>Description</th>
-<th>Morue</th>
-<th>Goberge</th>
-<th>Merluche ou Brosme</th>
-<th>Aiglefin</th>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>Très petit </td>
-<td>moins de 290</td>
-<td>— —</td>
-<td>moins de 305</td>
-<td>— —</td>
-</tr>
-<tr>
-<td>Petit </td>
-<td>290 mais moins de 420</td>
-<td>moins de 305</td>
-<td>305 mais moins de 405</td>
-<td>moins de 330</td>
-</tr>
-<tr>
-<td>Moyen </td>
-<td>420 mais moins de 533</td>
-<td>305 mais moins de 405</td>
-<td>405 mais moins de 510</td>
-<td>330 et plus</td>
-</tr>
-<tr>
-<td>Grand </td>
-<td>535 mais moins de 635</td>
-<td>plus de 405</td>
-<td>plus de 510</td>
-<td>— —</td>
-</tr>
-<tr>
-<td>Très grand </td>
-<td>635 et plus</td>
-<td>— —</td>
-<td>— —</td>
-<td>— —</td>
-</tr>
-</table>
-
-
-- **(2)** La taille d’un poisson en est la longueur mesurée sur l’axe du poisson, à partir de l’extrémité de la colonne vertébrale, c’est-à-dire la nageoire caudale non comprise, jusqu’à l’extrémité du collet, le volet du collet non compris. 
-> DORS/81-374, art. 17.
-
-
-
-
-
-### Teneur en eau du poisson salé
-
-
-**120** Le poisson salé qui doit être exporté à l’étranger doit être classé selon sa teneur en eau, conformément au tableau du présent article.
-
-## TABLEAU
-
-<table>
-<tr>
-<th>Classe</th>
-<th>Pourcentage</th>
-<th>Désignation</th>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td>1. Fortement salé </td>
-<td>au plus 32 pour cent</td>
-<td>Extra sec</td>
-</tr>
-<tr>
-<td></td>
-<td>plus de 32 pour cent mais au plus de 38 pour cent</td>
-<td>Très sec</td>
-</tr>
-<tr>
-<td></td>
-<td>plus de 38 pour cent mais au plus 40 pour cent</td>
-<td>Sec</td>
-</tr>
-<tr>
-<td></td>
-<td>plus de 40 pour cent mais au plus 44 pour cent</td>
-<td>Semi-sec</td>
-</tr>
-<tr>
-<td></td>
-<td>plus de 44 pour cent mais au plus 50 pour cent</td>
-<td>Ordinaire</td>
-</tr>
-<tr>
-<td></td>
-<td>plus de 50 pour cent mais au plus 54 pour cent</td>
-<td>Peu sec</td>
-</tr>
-<tr>
-<td>2. Légèrement salé </td>
-<td>au plus 36 pour cent</td>
-<td>Très sec, à l’italienne</td>
-</tr>
-<tr>
-<td></td>
-<td>au plus 38 pour cent</td>
-<td>Très sec</td>
-</tr>
-<tr>
-<td></td>
-<td>au plus 40 pour cent</td>
-<td>Sec</td>
-</tr>
-<tr>
-<td></td>
-<td>au plus 48 pour cent</td>
-<td>Peu sec</td>
-</tr>
-<tr>
-<td>3. Salé à la gaspésienne </td>
-<td>au plus 38 pour cent</td>
-<td>Très sec</td>
-</tr>
-<tr>
-<td></td>
-<td>au plus 48 pour cent</td>
-<td>Sec</td>
-</tr>
-</table>
-
+**120** [Abrogé, DORS/2007-18, art. 2]
 
 
 
