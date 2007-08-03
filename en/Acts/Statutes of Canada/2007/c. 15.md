@@ -37,17 +37,17 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **2** The following definitions apply in this Act.
 
-***emergency management*** means the prevention and mitigation of, preparedness for, response to and recovery from emergencies.
+***emergency management*** means the prevention and mitigation of, preparedness for, response to and recovery from emergencies. (*gestion*)
 
-***emergency management plan*** means a program, arrangement or other measure
+***emergency management plan*** means a program, arrangement or other measure
 - **(a)** for dealing with an emergency by the civil population; or
-- **(b)** for dealing with a civil emergency by the Canadian Forces in accordance with the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md).
+- **(b)** for dealing with a civil emergency by the Canadian Forces in accordance with the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md). (*plan de gestion des urgences*)
 
-***government institution*** means any department, branch, office, board, agency, commission, corporation or other body for the administration or affairs of which a minister of the Crown is accountable to Parliament.
+***government institution*** means any department, branch, office, board, agency, commission, corporation or other body for the administration or affairs of which a minister of the Crown is accountable to Parliament. (*institution fédérale*)
 
-***Minister*** means the Minister of Public Safety and Emergency Preparedness.
+***Minister*** means the Minister of Public Safety and Emergency Preparedness. (*ministre*)
 
-***provincial emergency*** means an emergency occurring in a province if the province or a local authority in the province has the primary responsibility for dealing with the emergency.
+***provincial emergency*** means an emergency occurring in a province if the province or a local authority in the province has the primary responsibility for dealing with the emergency. (*urgence provinciale*)
 
 
 
@@ -203,6 +203,6 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#fn_Ind3E8E_hq_2606'>[*]</a></sup>**14** This Act other than section 12 comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind3E8E_hq_2606'><sup>*</sup></a>: [Note: Section 12 in force on assent June 22, 2007.]<br />
+<a name='fn_Ind3E8E_hq_2606'><sup>*</sup></a>: [Note: Section 12 in force on assent June 22, 2007; Act, other than section 12, in force on August 3, 2007, *see* SI/2007-79.]<br />
 
 
