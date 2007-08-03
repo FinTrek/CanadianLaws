@@ -37,17 +37,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***gestion*** En ce qui touche les urgences, les activités en matière de prévention, d’atténuation, de préparation, d’intervention et de rétablissement.
+***gestion*** En ce qui touche les urgences, les activités en matière de prévention, d’atténuation, de préparation, d’intervention et de rétablissement. (*emergency management*)
 
-***institution fédérale*** Ministère, direction, bureau, conseil, commission, office, service, personne morale ou autre organisme dont un ministre est responsable devant le Parlement.
+***institution fédérale*** Ministère, direction, bureau, conseil, commission, office, service, personne morale ou autre organisme dont un ministre est responsable devant le Parlement. (*government institution*)
 
-***ministre*** Le ministre de la Sécurité publique et de la Protection civile.
+***ministre*** Le ministre de la Sécurité publique et de la Protection civile. (*Minister*)
 
-***plan de gestion des urgences*** Programme, disposition ou autre mesure à mettre en oeuvre :
+***plan de gestion des urgences*** Programme, disposition ou autre mesure à mettre en oeuvre :
 - **a)** soit par la population civile pour faire face à une urgence;
-- **b)** soit par les Forces canadiennes pour faire face à une urgence civile conformément à la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md).
+- **b)** soit par les Forces canadiennes pour faire face à une urgence civile conformément à la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md). (*emergency management plan*)
 
-***urgence provinciale*** Urgence survenant dans une province et à laquelle la province ou une autorité locale est chargée de faire face en premier lieu.
+***urgence provinciale*** Urgence survenant dans une province et à laquelle la province ou une autorité locale est chargée de faire face en premier lieu. (*provincial emergency*)
 
 
 
@@ -203,6 +203,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_Ind3C9_hq_2603'>[*]</a></sup>**14** La présente loi, à l’exception de l’article 12, entre en vigueur à la date fixée par décret.
 
-<a name='fn_Ind3C9_hq_2603'><sup>*</sup></a>: [Note : Article 12 en vigueur à la sanction le 22 juin 2007.]<br />
+<a name='fn_Ind3C9_hq_2603'><sup>*</sup></a>: [Note : Article 12 en vigueur à la sanction le 22 juin 2007; loi, à l’exception de l’article 12, en vigueur le 3 août 2007, *voir* TR/2007-79.]<br />
 
 
