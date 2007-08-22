@@ -26,9 +26,11 @@ Autorités habilitantes :
 
 - **(1)** Dans le présent règlement,
 
+***AATCC*** L’*American Association of Textile Chemists and Colorists*. (*AATCC*)
+
 ***affichage*** Indicateur, témoin ou sortie alphanumérique, ou ensemble d’indicateurs, de témoins et de sorties alphanumériques, sur le tableau de bord d’un véhicule. (*display*)
 
-***ampoule*** désigne, aux fins de l’article 116 de l’annexe IV, une poche à la surface d’une coupelle de frein; (*blister*)
+***ampoule***[Abrogée, DORS/2007-180, art. 1]
 
 ***ancien modèle*** désigne un véhicule de plus de 30 ans qui, lorsqu’il est remis dans un état comparable à celui de sa date de fabrication, conserve les pièces originales ou est constitué de pièces de rechange dont les caractéristiques sont les mêmes que celles des pièces originales; (*antique vehicle*)
 
@@ -40,13 +42,17 @@ Autorités habilitantes :
 
 ***année de modèle*** désigne l’année utilisée pour désigner un modèle de véhicule distinct, indépendamment de l’année civile réelle de production du véhicule, dans la mesure où la période de production est inférieure à deux ans; (*model year*)
 
+***ANSI*** L’*American National Standards Institute*. (*ANSI*)
+
 ***ANS Z26***[Abrogée, DORS/94-717, art. 1]
 
 ***approuvé*** signifie approuvé par le ministre; (*approved*)
 
+***appuie-tête*** Dispositif restreignant le mouvement angulaire vers l’arrière de la tête de l’occupant par rapport à la ligne de son torse. (*head restraint*)
+
 ***arbre de direction*** désigne une pièce qui transmet le couple de braquage du volant au démultiplicateur de direction; (*steering shaft*)
 
-***armure*** désigne, aux fins de l’article 106, la matière protectrice montée autour d’un boyau de frein pour accroître la résistance du boyau ou de l’ensemble de boyau à l’abrasion ou au dommage causé par un choc; (*armour*)
+***armure***[Abrogée, DORS/2007-180, art. 1]
 
 ***arrangement à feux multiples***[Abrogée, DORS/96-366, art. 1]
 
@@ -72,6 +78,12 @@ Autorités habilitantes :
 
 ***axe H-V*** L’axe caractérisant la distribution de la lumière d’une lampe, passant par le centre de la source lumineuse et utilisé comme direction repère (H = 0°, V = 0°) dans les mesures photométriques et pour la conception de l’installation d’un feu sur un véhicule. (*H-V axis*)
 
+***barrière fixe pour essais de collision*** Dispositif qui, à la fois :
+- **a)** est composé :
+	- **(i)** d’une part, d’une construction à surface d’impact plane, verticale, rigide et assez grande pour qu’aucune partie du véhicule qui heurte la surface ne puisse en déborder,
+	- **(ii)** d’autre part, d’une surface d’approche horizontale qui ne gêne pas le mouvement du véhicule durant l’impact et qui est assez grande pour que le véhicule puisse atteindre une position stable lorsqu’il approche de la surface d’impact;
+- **b)** n’absorbe pas une partie importante de l’énergie cinétique du véhicule qui heurte la surface d’impact. (*fixed collision barrier*)
+
 ***base de jante*** désigne le restant de la jante après enlèvement de tous les rebords, joues latérales et anneaux de verrouillage en une ou plusieurs pièces qui peuvent se détacher de la jante; (*rim base*)
 
 ***bébé*** Personne dont la masse est inférieure à 9 kg. (*infant*)
@@ -90,7 +102,7 @@ Autorités habilitantes :
 	- **(i)** un mécanisme marche-arrêt pour partir et arrêter le moteur électrique, lequel est distinct de la commande d’accélération et est installé de façon à pouvoir être actionné par le conducteur,
 	- **(ii)** un mécanisme qui empêche l’enclenchement du moteur avant que la bicyclette n’ait atteint la vitesse de 3 km/h. (*power-assisted bicycle*)
 
-***boyau de frein*** désigne un conduit flexible, autre qu’un raccord de canalisation à vide, fabriqué pour être utilisé dans un système de freinage afin de transmettre ou de retenir la dépression ou la pression du liquide servant à appliquer de l’énergie aux freins; (*brake hose*)
+***boyau de frein***[Abrogée, DORS/2007-180, art. 1]
 
 ***camion*** Véhicule conçu essentiellement pour le transport de biens ou d’équipements spécialisés. Sont exclus de la présente définition les véhicules sur chenilles, les remorques, les véhicules de travail, les véhicules importés temporairement à des fins spéciales, les véhicules de compétition, les véhicules conçus pour se déplacer exclusivement hors route et les véhicules à trois roues. (*truck*)
 
@@ -107,7 +119,7 @@ Autorités habilitantes :
 
 Le volume de carburant visé à l’alinéa b) ne comprend pas le volume de carburant qui peut être pompé dans le goulot de remplissage ou dans l’espace au-dessus du goulot de remplissage; (*vehicle fuel tank capacity*)
 
-***catégorie*** se rapporte, aux fins de l’article 116 de l’annexe IV, à une classification de liquides pour freins selon leurs propriétés physiques et chimiques; (*grade*)
+***catégorie***[Abrogée, DORS/2007-180, art. 1]
 
 ***catégorie prescrite***[Abrogée, DORS/2002-55, art. 1(F)]
 
@@ -117,11 +129,15 @@ Le volume de carburant visé à l’alinéa b) ne comprend pas le volume de carb
 
 ***ceinture-baudrier*** S’entend de la partie d’une ceinture de sécurité qui a pour objet de restreindre le mouvement de la poitrine et des épaules. (*upper torso restraint*)
 
-***ceinture de sécurité*** désigne une courroie, une sangle ou un dispositif semblable conçu pour attacher une personne dans un véhicule afin d’atténuer les conséquences d’un accident, et comprend
-- **a)** toutes les attaches et tous les autres dispositifs de fermeture nécessaires et toutes les pièces de fixation, et
-- **b)** la ceinture qui fait partie du dispositif automatique de protection de l’occupant. (*seat belt assembly*)
+***ceinture de sécurité*** Courroie, sangle ou dispositif semblable conçu pour attacher une personne dans un véhicule afin d’atténuer les conséquences d’un accident, y compris toutes les attaches et tous les autres dispositifs de fermeture nécessaires, et toutes les pièces de fixation. (*seat belt assembly*)
+
+***ceinture de sécurité de type 1*** S’entend d’une ceinture sous-abdominale. (*Type 1 seat belt assembly*)
+
+***ceinture de sécurité de type 2*** S’entend d’une combinaison de ceinture sous-abdominale et de ceinture-baudrier. (*Type 2 seat belt assembly*)
 
 ***ceinture de sécurité manuelle*** Ceinture de sécurité de type 1 ou de type 2 qui exige, pour être actionnée, l’intervention délibérée de l’occupant du véhicule. (*manual seat belt assembly*)
+
+***ceinture diagonale de type 2A*** S’entend d’une ceinture-baudrier destinée à n’être utilisée qu’avec une ceinture sous-abdominale pour former une ceinture de sécurité de type 2. (*Type 2A shoulder belt*)
 
 ***ceinture sous-abdominale*** S’entend de la ceinture de sécurité ou de la partie d’une ceinture de sécurité qui a pour objet de restreindre le mouvement du bassin. (*pelvic restraint*)
 
@@ -209,7 +225,7 @@ Le volume de carburant visé à l’alinéa b) ne comprend pas le volume de carb
 - **b)** en transmettant des signaux relatifs à la vitesse angulaire de rotation des roues à un ou plusieurs dispositifs de commande qui interprètent ces signaux et produisent en réaction des signaux de commande;
 - **c)** en transmettant ces signaux de commande à un ou plusieurs modulateurs qui règlent l’énergie nécessaire pour activer les freins en réaction à ces signaux. (*antilock brake system*ou*ABS*)
 
-***dispositif de maintien du dossier*** La partie d’une ceinture de sécurité qui est conçue pour restreindre le mouvement vers l’avant du dossier d’un siège. (*seat back retainer*)
+***dispositif de maintien du dossier***[Abrogée, DORS/2007-180, art. 1]
 
 ***dispositif de stationnement***[Abrogée, DORS/99-357, art. 1]
 
@@ -221,15 +237,15 @@ Le volume de carburant visé à l’alinéa b) ne comprend pas le volume de carb
 
 ***distributeur***[Abrogée, DORS/95-147, art. 1]
 
-***ébréché***, qualifiant une coupelle de frein, désigne, aux fins de l’article 116 de l’annexe IV, l’état de la surface extérieure de cette coupelle lorsque de petits morceaux s’en sont détachés; (*chipping*)
+***ébréché***[Abrogée, DORS/2007-180, art. 1]
 
 ***écoulement de carburant*** désigne une perte ou un déversement de carburant du véhicule, mais ne comprend pas l’humidité due à la capillarité; (*fuel spillage*)
 
-***encrassement*** désigne, aux fins de l’article 116 de l’annexe IV, la détérioration d’une coupelle de frein qui se traduit par la présence, sur la surface de la coupelle, de noir de carbone se détachant facilement et laissant une trace noire visible sur une feuille de papier bond blanc, lorsque la coupelle, chargée à 500 SA ± 10 grammes, est tirée, base vers le bas, sur la feuille placée sur une surface plane rigide; (*sloughing*)
+***encrassement***[Abrogée, DORS/2007-180, art. 1]
 
 ***enfant*** désigne une personne dont le poids se situe entre 9 kg (20 lb) et 22 kg (48 lb) inclusivement; (*child*)
 
-***ensemble de boyau de frein*** désigne un boyau de frein, avec ou sans armure, muni de raccords d’extrémité de boyau de frein utilisés dans un système de freinage, mais ne comprend pas un ensemble à air comprimé ou à dépression fabriqué par le propriétaire ou l’exploitant d’un véhicule usagé, par son employé ou par un garage, pour être installé dans ce véhicule usagé; (*brake hose assembly*)
+***ensemble de boyau de frein***[Abrogée, DORS/2007-180, art. 1]
 
 ***ensemble de retenue*** Dispositif amovible conçu pour être installé dans un véhicule afin de retenir un bébé, un enfant ou un occupant à mobilité réduite. Les ceintures de sécurité d’un véhicule et les coussins d’appoint ne sont pas compris dans la présente définition. (*restraint system*)
 
@@ -247,13 +263,13 @@ Le volume de carburant visé à l’alinéa b) ne comprend pas le volume de carb
 
 ***ensemble intégré de retenue d’enfant*** Dispositif, à l’exception des ceintures de sécurité de type 1 ou de type 2, qui est conçu pour retenir un enfant et qui fait partie intégrante d’un siège de véhicule. (*built-in child restraint system*)
 
-***éraflure*** désigne, aux fins de l’article 116 de l’annexe IV, une érosion visible d’une partie de la surface extérieure d’une coupelle de frein; (*scuffing*)
+***éraflure***[Abrogée, DORS/2007-180, art. 1]
 
-***ERBP*** signifie, aux fins de l’article 116 de l’annexe IV, Equilibrium Reflux Boiling Point ou point d’équilibre d’ébullition à reflux; (*ERBP*)
+***ERBP***[Abrogée, DORS/2007-180, art. 1]
 
-***ERBP humide*** désigne le point d’équilibre d’ébullition à reflux du liquide pour freins après addition d’eau dans des conditions contrôlées; (*wet ERBP*)
+***ERBP humide***[Abrogée, DORS/2007-180, art. 1]
 
-***espace d’air de l’habitacle*** désigne la partie de l’habitacle où l’air est normalement renouvelable; (*occupant compartment air space*)
+***espace d’air de l’habitacle***[Abrogée, DORS/2007-180, art. 1]
 
 ***espace d’occupant*** désigne l’espace qui se trouve directement au-dessus du siège et des planchers, limité par le plafond et horizontalement par le dossier du siège en position normale et l’obstacle le plus proche qui restreigne le mouvement de l’occupant dans la direction à laquelle le siège fait face; (*occupant space*)
 
@@ -306,9 +322,9 @@ Le volume de carburant visé à l’alinéa b) ne comprend pas le volume de carb
 
 ***gaz naturel comprimé*** ou ***GNC*** désigne du gaz naturel constitué principalement de méthane et comprimé sous des pressions allant jusqu’à 20 680 kPa (3 000 lb/po<sup>2</sup>); (*compressed natural gas*or*CNG*)
 
-***gommage*** désigne, aux fins de l’article 116 de l’annexe IV, l’état d’une coupelle de frein dont la surface retient les fibres d’un tampon de coton hydrophile U.S.P. passé sur la surface de la coupelle; (*stickiness*)
+***gommage***[Abrogée, DORS/2007-180, art. 1]
 
-***huile minérale pour système hydraulique*** désigne un liquide à base d’huile minérale conçu pour être employé dans les systèmes de freinage de véhicules automobiles, dans lesquels le liquide n’entre pas en contact avec du caoutchouc butadiène — styrène (SBR), du caoutchouc d’EPDM, du néoprène ou du caoutchouc naturel; (*hydraulic system mineral oil*)
+***huile minérale pour système hydraulique***[Abrogée, DORS/2007-180, art. 1]
 
 ***importateur***[Abrogée, DORS/95-147, art. 1]
 
@@ -326,7 +342,7 @@ Le volume de carburant visé à l’alinéa b) ne comprend pas le volume de carb
 
 ***intervalle de freinage*** désigne la distance parcourue entre deux applications de freins successives; (*braking interval*)
 
-***IRHD*** signifie International Rubber Hardness Degrees ou degrés internationaux de dureté de caoutchouc, mesurés selon la méthode ASTM D1415-1968, « Standard Test Method of International Hardness of Vulcanized Natural and Synthetic Rubbers »; (*IRHD*)
+***IRHD***[Abrogée, DORS/2007-180, art. 1]
 
 ***jante amovible*** désigne la pièce où est monté le pneumatique ou l’ensemble pneumatique-chambre à air, lorsque la partie centrale n’en est pas fixée de façon permanente; (*demountable rim*)
 
@@ -336,17 +352,19 @@ Le volume de carburant visé à l’alinéa b) ne comprend pas le volume de carb
 
 ***ligne*** désigne le nom qu’un fabricant donne à la famille de véhicules d’une marque dont la carrosserie, le châssis, le type de cabine ou d’autres caractéristiques de construction se ressemblent dans une certaine mesure; (*line*)
 
+***ligne de torse*** La ligne joignant le point H au point de référence de l’épaule, décrite dans la norme SAE J826 intitulée *Devices for Use in Defining and Measuring Vehicle Seating Accommodation* (juillet 1995). (*torso line*)
+
 ***ligne repère d’orientation du siège (LROS)*** désigne la ligne horizontale passant par le point Z, comme l’illustre la figure 1 des articles 213, 213.1 et 213.3; (*seat orientation reference line (SORL)*)
 
 ***limiteur de charge*** S’entend de l’élément ou de la caractéristique de la ceinture de sécurité qui maîtrise la tension de la ceinture de manière à contrôler les forces auxquelles est soumis l’usager de la ceinture au moment d’une collision. (*load-limiter*)
 
-***liquide de compatibilité SAE*** Le liquide de compatibilité SAE RM-66-04 décrit à l’appendice B de la norme J1703 de la SAE, intitulée *Motor Vehicle Brake Fluid*, (janvier 1995). (*SAE Compatibility Fluid*)
+***liquide de compatibilité SAE***[Abrogée, DORS/2007-180, art. 1]
 
-***liquide pour freins*** désigne un liquide pour freins utilisé dans les circuits de freins hydrauliques, sauf une huile minérale pour système hydraulique; (*brake fluid*)
+***liquide pour freins***[Abrogée, DORS/2007-180, art. 1]
 
 ***Loi*** La [Loi sur la sécurité automobile](/fr/Lois/Lois%20du%20Canada/1993/ch.%2016.md). (*Act*)
 
-***longueur libre*** désigne, aux fins de l’article 106, la mesure de longueur de la partie du boyau de frein placé en ligne droite qui est exposée entre les raccords d’extrémité de boyau de frein; (*free length*)
+***longueur libre***[Abrogée, DORS/2007-180, art. 1]
 
 ***maison roulante*** désigne un véhicule de plus de 102 pouces de largeur hors tout, conçu pour être traîné par un autre véhicule et servir d’habitation ou de lieu de travail; (*mobile home*)
 
@@ -370,11 +388,11 @@ Le volume de carburant visé à l’alinéa b) ne comprend pas le volume de carb
 
 ***Méthodes d’essai de sécurité des véhicules automobiles***[Abrogée, DORS/97-141, art. 1]
 
-***Méthodes d’essai de sécurité des véhicules automobiles, article 106, « Boyaux de frein »*** La version révisée au 1<sup>er</sup> novembre 1996 des Méthodes d’essai de sécurité des véhicules automobiles, article 106, Boyaux de frein. (*Motor Vehicle Safety Test Methods, section 106, “Brake Hoses”*)
+***Méthodes d’essai de sécurité des véhicules automobiles, article 106, « Boyaux de frein »***[Abrogée, DORS/2007-180, art. 1]
 
 ***Méthodes d’essai de sécurité des véhicules automobiles, article 116, « Fluide hydraulique des freins »***[Abrogée, DORS/95-536, art. 7]
 
-***Méthodes d’essai de sécurité des véhicules automobiles, article 116, « Liquides pour freins hydrauliques »*** La version révisée au 1<sup>er</sup> novembre 1996 des Méthodes d’essai de sécurité des véhicules automobiles, article 116, Liquides pour freins hydrauliques. (*Motor Vehicle Safety Test Methods, section 116, “Hydraulic Brake Fluids”*)
+***Méthodes d’essai de sécurité des véhicules automobiles, article 116, « Liquides pour freins hydrauliques »***[Abrogée, DORS/2007-180, art. 1]
 
 ***minimoto***[Abrogée, DORS/88-268, art. 1]
 
@@ -437,11 +455,11 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 
 ***numéro d’identification du véhicule*** désigne un numéro formé de chiffres arabes, de caractères romains ou des deux, que le fabricant attribue à un véhicule à des fins d’identification; (*vehicle identification number*)
 
-***occupant*** désigne une personne ou un mannequin assis dans un véhicule et dont les dimensions et le poids, à moins d’indication contraire, correspondent à ceux du 95<sup>e</sup> percentile adulte du sexe masculin, tel qu’il est défini à l’article 100 de l’annexe IV; (*occupant*)
+***occupant*** Personne ou mannequin assis dans un véhicule et dont les dimensions et la masse, à moins d’indication contraire, correspondent à ceux du 95<sup>e</sup> percentile adulte du sexe masculin. (*occupant*)
 
 ***occupant à mobilité réduite*** désigne une personne dont la masse est de 9 kg ou plus et qui, pour des raisons orthopédiques ou à cause de sa conformation ou d’autres caractéristiques physiques, ne peut se servir d’un ensemble de retenue d’enfant ou d’une ceinture de sécurité de type 1 ou de type 2; (*mobility-impaired occupant*)
 
-***panneau du pavillon à servocommande*** Panneau du pavillon du véhicule qui s’ouvre ou qui se ferme, sur des glissières ou des charnières, grâce à une source d’énergie située dans le véhicule. (*power-operated roof panel*)
+***panneau du pavillon à servocommande***[Abrogée, DORS/2007-180, art. 1]
 
 ***papillon des gaz*** désigne une pièce du dispositif de dosage du carburant
 - **a)** qui est rattachée au système de commande d’accélération actionné par le conducteur, et
@@ -449,13 +467,19 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 
 ***partie haute pression du circuit d’alimentation en carburant*** Dans le cas d’un véhicule qui utilise du GPL ou du GNC comme source d’énergie pour sa propulsion, tous les composants du circuit d’alimentation en carburant, du réservoir de carburant, qui est inclus, au régulateur de première étape, qui est exclu. (*high-pressure portion of the fuel system*)
 
-***pièces*** Les pièces de métal ou de plastique rigide, conçues pour attacher une personne dans un véhicule, avec des courroies ou des sangles. (*hardware*)
+***pièces*** S’entend, relativement à une ceinture de sécurité, des pièces de métal ou de plastique rigide. (*hardware*)
 
-***pièces de fixation*** Les pièces conçues pour fixer une ceinture de sécurité à un véhicule. (*attachment hardware*)
+***pièces de fixation*** Les pièces conçues pour fixer les sangles d’une ceinture de sécurité à un véhicule. (*attachment hardware*)
 
 ***pièces de réglage*** Les pièces conçues pour régler la longueur d’une ceinture de sécurité aux dimensions de l’utilisateur, y compris les pièces faisant partie de l’attache, du rétracteur et des pièces de fixation. (*adjustment hardware*)
 
-***place assise désignée*** désigne tout espace prévu sur un plan et capable de recevoir une personne dont les dimensions et le poids correspondent au moins à ceux du 5<sup>e</sup> percentile adulte du sexe féminin, défini à l’article 100 de l’annexe IV, lorsque la configuration et l’étude des sièges, ainsi que l’étude du véhicule, sont telles que l’espace est susceptible de servir de place assise pendant que le véhicule est en mouvement; mais ne s’applique pas aux espaces indiqués sur un plan et prévus pour des sièges d’usage provisoire ou strapontins ou pour d’autres places assises auxiliaires; (*designated seating position*)
+***place assise désignée*** Tout espace vu en plan pouvant recevoir une personne dont les dimensions et la masse correspondent au moins à ceux du 5<sup>e</sup> percentile adulte du sexe féminin lorsque la configuration et l’étude des sièges, ainsi que l’étude du véhicule, sont telles que l’espace est susceptible de servir de place assise pendant que le véhicule est en mouvement. N’est pas visé par la présente définition l’espace vu en plan qui est prévu pour des sièges d’usage provisoire ou strapontins ou pour d’autres places assises auxiliaires. (*designated seating position*)
+
+***place assise désignée extérieure*** Place assise désignée dont un plan vertical longitudinal tangent au côté extérieur du coussin du siège est à moins de 305 mm du point le plus rentré de la surface intérieure du véhicule, lequel point est situé verticalement entre le point de référence de position assise et le point de référence des épaules et longitudinalement entre le bord avant et le bord arrière du coussin de siège. (*outboard designated seating position*)
+
+***place assise désignée extérieure arrière*** Place assise désignée extérieure qui est située à l’arrière d’une place assise désignée extérieure avant. Ne sont pas visées par la présente définition les places assises désignées adjacentes au passage qui est situé entre le siège et le côté intérieur du véhicule et qui est conçu pour permettre l’accès aux places assises plus à l’arrière. (*rear outboard designated seating position*)
+
+***place assise désignée extérieure avant*** La place assise désignée du conducteur et la place assise désignée extérieure située le plus à l’avant-droit. Ne sont pas visées par la présente définition les places assises désignées passager des autobus scolaires. (*front outboard designated seating position*)
 
 ***place du conducteur particulière*** La place du conducteur particulière comprend un siège du conducteur qui est conçu pour être amovible et un siège du conducteur doté d’une capacité de réglage augmentée permettant à une personne de passer d’un fauteuil roulant au siège du conducteur. (*special driver accommodation*)
 
@@ -471,13 +495,13 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 
 ***poids nominal brut sur l’essieu*** ou ***PNBE*** désigne la valeur spécifiée par le fabricant d’un véhicule comme poids sur un seul essieu du véhicule en charge, mesuré à la surface entre le pneu et le sol; (*gross axle weight rating*or*GAWR*)
 
-***point H*** Point d’articulation mécanique des hanches d’un mannequin qui simule le point d’articulation de la hanche humaine et qui est défini dans la norme SAE J826 APR80 intitulée « Devices for Use in Defining and Measuring Vehicle Seating Accommodation ». (*H-point*)
-
 ***point de référence de position assise*** L’unique « Design H-Point », au sens de l’article 2.2.11.1 de la pratique recommandée J1100 de la SAE (juin 1993), qui :
 - **a)** établit la position normale la plus reculée du conducteur ou d’un passager pour chacune des places assises désignées compte tenu de tous les réglages possibles dans un véhicule : à l’horizontale et à la verticale, ainsi qu’en inclinaison;
 - **b)** comprend des coordonnées X, Y et Z, au sens de l’article 2.2.3 de la pratique recommandée J1100 de la SAE (juin 1993), établies par rapport à la structure du véhicule conçu;
 - **c)** simule la position de l’articulation de la hanche;
-- **d)** est le point de référence permettant de mettre en place le gabarit de dessin avec la jambe du 95<sup>e</sup> percentile décrit à l’article 3.1 de la norme J826 de la SAE (juin 1992) ou, s’il n’y a pas assez de place pour mettre en place le gabarit avec la jambe du 95<sup>e</sup> percentile, le point de référence lorsque le siège est dans sa position la plus reculée. (*seating reference point*)
+- **d)** est le point de référence permettant de mettre en place le gabarit point H avec la jambe du 95<sup>e</sup> percentile, décrit à l’article 4.1 de la norme SAE J826 intitulée *Devices for Use in Defining and Measuring Vehicle Seating Accommodation* (juillet 1995) ou, si ce gabarit point H ne peut être mis en place, le point de référence lorsque le siège est dans sa position la plus reculée. (*seating reference point*)
+
+***point H*** Le point d’articulation mécanique des hanches d’un mannequin qui simule le point d’articulation de la hanche humaine décrit dans la norme SAE J826 intitulée *Devices for Use in Defining and Measuring Vehicle Seating Accommodation* (juillet 1995). (*H-point*)
 
 ***porte-autos*** désigne un camion et une remorque conçus pour être utilisés en combinaison pour transporter des véhicules automobiles et pour que le véhicule tracteur puisse porter un chargement ailleurs que sur l’attelage pivotant et qu’il doive être chargé au moyen du véhicule tracté; (*auto transporter*)
 
@@ -499,16 +523,11 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 
 ***protection passive de l’occupant***[Abrogée, DORS/93-5, art. 1]
 
-***raccord de canalisation à vide*** désigne, aux fins de l’article 106, un conduit flexible qui
-- **a)** relie une canalisation de métal ou de plastique rigide à une canalisation identique utilisée dans un système de freinage à dépression,
-- **b)** est fixé sans raccord à l’extrémité du boyau de frein, et
-- **c)** une fois installé, possède une partie libre dont la longueur est plus petite que la longueur totale des parties qui recouvrent la canalisation de métal ou de plastique rigide d’un système de freinage; (*vacuum tubing connector*)
+***raccord de canalisation à vide***[Abrogée, DORS/2007-180, art. 1]
 
-***raccord d’extrémité de boyau de frein*** désigne un raccord, autre qu’un crampon, conçu pour être fixé à l’extrémité d’un boyau de frein; (*brake hose end fitting*)
+***raccord d’extrémité de boyau de frein***[Abrogée, DORS/2007-180, art. 1]
 
-***raccord d’extrémité de boyau fixé en permanence*** désigne un raccord d’extrémité de boyau de frein qui est fixé
-- **a)** en permanence au boyau de frein par une déformation (sertissage ou emboutissage) du raccord autour du boyau, ou
-- **b)** à l’aide d’un manchon ou d’une bague qui doit être remplacé chaque fois que l’ensemble de boyau de frein est remis à neuf; (*permanently attached hose end fitting*)
+***raccord d’extrémité de boyau fixé en permanence***[Abrogée, DORS/2007-180, art. 1]
 
 ***ralentissement*** désigne toute réduction de vitesse, à l’exclusion d’un arrêt; (*snub*)
 
@@ -530,6 +549,8 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 
 ***remorque pour charges longues*** désigne un véhicule conçu pour être traîné par un autre véhicule au moyen d’une barre d’assemblage ou d’un timon ou pour être attaché ou autrement fixé au véhicule remorqueur, utilisé pour le transport de charges longues ou de forme irrégulière comme les poteaux, les tuyaux, les pièces de charpente et autres articles pouvant généralement se maintenir comme des poutres placées entre des points d’appui; (*pole trailer*)
 
+***remorque pour embarcation*** Remorque conçue pour transporter une embarcation et munie d’un échafaudage genre berceau permettant le lancement de l’embarcation par l’arrière. (*boat trailer*)
+
 ***remorque pour motoneige*** désigne une remorque conçue essentiellement pour le transport des motoneiges ou des traîneaux de motoneige; (*snowmobile trailer*)
 
 ***remorque pour produits agricoles***[Abrogée, DORS/99-357, art. 1]
@@ -548,11 +569,11 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 
 ***rétracteur*** Dispositif permettant de ranger partiellement ou complètement les sangles d’une ceinture de sécurité. (*retractor*)
 
-***rétracteur autobloquant*** Rétracteur auquel sont incorporées des pièces de réglage ayant un mécanisme autobloquant qui peut, en position bloquée, supporter certaines contraintes. (*automatic-locking retractor*)
+***rétracteur à blocage d’urgence*** Rétracteur auquel sont incorporées des pièces de réglage ayant un mécanisme de blocage qui est déclenché par l’accélération du véhicule, le mouvement des sangles par rapport au véhicule ou par toute autre action automatique se produisant en cas d’urgence, et qui peut, en position bloquée, supporter certaines forces de retenue. (*emergency-locking retractor*)
 
-***rétracteur à blocage d’urgence*** Rétracteur auquel sont incorporées des pièces de réglage ayant un mécanisme de blocage qui est déclenché par l’accélération du véhicule, le mouvement des sangles par rapport au véhicule ou par toute autre action automatique se produisant en cas d’urgence, et qui peut, en position bloquée, supporter certaines contraintes. (*emergency-locking retractor*)
+***rétracteur autobloquant*** Rétracteur auquel sont incorporées des pièces de réglage ayant un mécanisme autobloquant qui peut, en position bloquée, supporter certaines forces de retenue. (*automatic-locking retractor*)
 
-***rétracteur sans blocage*** Rétracteur n’ayant pas de mécanisme de blocage, dont il est possible de tirer les sangles pratiquement à leur longueur maximale par l’application d’une force extérieure minime, qui n’assure aucun réglage de la longueur de la ceinture et qui n’a pas à supporter de contraintes, lorsque les sangles sont tirées à leur longueur maximale. (*non-locking retractor*)
+***rétracteur sans blocage*** Rétracteur n’ayant pas de mécanisme de blocage, dont il est possible de tirer les sangles pratiquement à leur longueur maximale par l’application d’une force extérieure minime, qui n’assure aucun réglage de la longueur de la ceinture et qui n’a pas à supporter de forces de retenue lorsque les sangles sont tirées à leur longueur maximale. (*non-locking retractor*)
 
 ***roue à disque*** désigne une pièce où est monté le pneumatique ou l’ensemble pneumatique-chambre à air, comprenant une jante et une partie en forme de cuvette fixée de façon permanente à la circonférence intérieure de la jante; (*disc wheel*)
 
@@ -560,13 +581,15 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 
 ***roulotte-automobile***[Abrogée, DORS/93-5, art. 1(F)]
 
-***rupture*** désigne, aux fins de l’article 106, un défaut entraînant soit la séparation d’un boyau de frein de son raccord d’extrémité, soit une fuite; (*rupture*)
+***rupture***[Abrogée, DORS/2007-180, art. 1]
 
 ***sac gonflable*** Dispositif automatique de protection de l’occupant qui est gonflable et qui peut se déployer lors d’une collision. (*air bag*)
 
-***SAE*** désigne la *Society of Automotive Engineers, Inc.*; (*SAE*)
+***SAE*** La *Society of Automotive Engineers, Inc. (SAE International)*. (*SAE*)
 
 ***sangle*** Bande étroite tissée de fils continus et ayant des bordures finies. (*webbing*)
+
+***semi-remorque*** Remorque construite de telle manière qu’une partie importante de son poids est supportée par un autre véhicule au moyen d’un attelage pivotant ou d’autre attelage semblable. Ne sont pas visées par la présente définition la remorque pour charges longues ni toute autre remorque conçue pour être traînée par une voiture de tourisme ou un véhicule de tourisme à usages multiples. (*semi-trailer*)
 
 ***série*** désigne le nom qu’un fabricant donne à une subdivision de ligne pour en indiquer le prix, la grosseur ou le poids et qu’il utilise à des fins de commercialisation; (*series*)
 
@@ -596,6 +619,8 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 
 ***système de secours*** S’entend de la partie des freins de service, telle une pompe, qui fournit automatiquement de l’énergie en cas de panne du circuit d’alimentation principale des freins. (*backup system*)
 
+***système de toit ouvrant à commande électrique*** Un ou plusieurs panneaux qui se trouvent dans le toit d’un véhicule et qui s’ouvrent ou se ferment sur des glissières ou des charnières grâce à une source d’énergie située dans le véhicule. Ne sont pas visés par la présente définition les systèmes de toit décapotable. (*power-operated roof panel system*)
+
 ***tableau lumineux***[Abrogée, DORS/93-31, art. 1]
 
 ***témoin*** désigne un signal optique qui s’allume pour indiquer soit l’entrée en action d’un dispositif, soit un fonctionnement ou un état normal ou défectueux d’un dispositif, soit le non-fonctionnement d’un dispositif; (*tell-tale*)
@@ -621,11 +646,11 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 - **d)** a un PNBV d’au plus 1 000 kg;
 - **e)** ne comporte pas une structure renfermant partiellement ou complètement le conducteur et son passager, autre que la partie du véhicule située devant le torse du conducteur et le dossier du siège. (*motor tricycle*)
 
-***type 1*** S’entend, lorsqu’il est utilisé relativement à une ceinture de sécurité, d’une ceinture sous-abdominale. (*Type 1*)
+***type 1***[Abrogée, DORS/2007-180, art. 1]
 
-***type 2*** S’entend, lorsqu’il est utilisé relativement à une ceinture de sécurité, d’une combinaison de ceinture sous-abdominale et de ceinture-baudrier. (*Type 2*)
+***type 2***[Abrogée, DORS/2007-180, art. 1]
 
-***type 2A*** S’entend, lorsqu’il est utilisé relativement à une ceinture de sécurité, de la ceinture-baudrier destinée à n’être utilisée qu’en même temps qu’une ceinture sous-abdominale comme la ceinture de sécurité du type 2. (*Type 2A*)
+***type 2A***[Abrogée, DORS/2007-180, art. 1]
 
 ***type à cabine avancée*** qualifie un véhicule dont plus de la moitié de la longueur du moteur se trouve en arrière du point le plus avancé de la base du pare-brise et dont le centre du volant se trouve dans le premier quart avant de la longueur du véhicule; (*forward control configuration*)
 
@@ -708,8 +733,18 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 
 ***voiture de tourisme*** Véhicule ayant un nombre désigné de places assises de 10 ou moins. Sont exclus de la présente définition les véhicules tout terrain, les véhicules de compétition, les véhicules à basse vitesse, les véhicules de tourisme à usages multiples, les répliques d’un ancien modèle, les motocyclettes, les camions, les remorques, les véhicules importés temporairement à des fins spéciales et les véhicules à trois roues. (*passenger car*)
 
+***zone d’impact de la tête*** La zone décrite au paragraphe 201(1) de l’annexe IV. (*head impact area*)
+
+***5<sup>e</sup> percentile adulte du sexe féminin*** Personne ayant pour caractéristiques physiques une masse de 46,3 kg, une taille de 1 499 mm, une hauteur en position assise droite de 785 mm, une hauteur en position assise normale de 752 mm, une largeur de hanches en position assise de 325 mm, un tour de hanches en position assise de 925 mm, un tour de ceinture en position assise de 599 mm, une profondeur de poitrine de 191 mm, un tour de buste de 775 mm, un tour de poitrine supérieure de 757 mm, un tour de poitrine inférieure de 676 mm, une hauteur de genoux de 455 mm, une hauteur de jarret de 356 mm, une hauteur de coude en position assise de 180 mm, une épaisseur de cuisses de 104 mm, une distance fesse-genou de 518 mm, une distance fesse-jarret de 432 mm, un écart entre les coudes de 312 mm et une largeur de siège de 312 mm. (*5th percentile adult female*)
+
+***50<sup>e</sup> percentile adulte du sexe masculin*** Personne ayant pour caractéristiques physiques une masse de 74,4 plus ou moins 1,4 kg, une hauteur en position assise droite de 907 plus ou moins 3 mm, une largeur de hanches en position assise de 373 plus ou moins 18 mm, un tour de hanches en position assise de 1 067 mm, un tour de taille en position assise de 813 plus ou moins 15 mm, une profondeur de poitrine de 236 plus ou moins 5 mm et un tour de poitrine de 950 plus ou moins 15 mm. (*50th percentile adult male*)
+
+***50<sup>e</sup> percentile enfant de six ans*** Personne ayant pour caractéristiques physiques une masse de 21,5 kg, une hauteur en position assise droite de 645 mm, une largeur de hanches en position assise de 213 mm, un tour de hanches en position assise de 607 mm et un tour de taille en position assise de 528 mm. (*50th percentile six-year-old child*)
+
+***95<sup>e</sup> percentile adulte du sexe masculin*** Personne ayant pour caractéristiques physiques une masse de 97,5 kg, une taille de 1 849 mm, une hauteur en position assise droite de 965 mm, une hauteur en position assise normale de 930 mm, une largeur de hanches en position assise de 419 mm, un tour de hanches en position assise de 1 199 mm, un tour de ceinture en position assise de 1 080 mm, une profondeur de poitrine de 267 mm, un tour de poitrine de 1 130 mm, une hauteur de genoux de 594 mm, une hauteur de jarret de 490 mm, une hauteur de coude en position assise de 295 mm, une épaisseur de cuisses de 175 mm, une distance fesse-genou de 640 mm, une distance fesse-jarret de 549 mm, un écart entre les coudes de 506 mm et une largeur de siège de 404 mm. (*95th percentile adult male*)
+
 - **(2)** Dans le cas d’une banquette unie ou divisée offrant plus de 1 270 mm au niveau des hanches, valeur mesurée selon les articles 5.1.32, 5.2.31 et 5.4.26 de la pratique recommandée J1100 de la SAE (juin 1993), dans une voiture de tourisme, un camion ou un véhicule de tourisme à usages multiples dont le PNBV est inférieur à 4 536 kg, la banquette est censée comprendre au moins trois places assises désignées, à moins que l’étude de la banquette ou du véhicule soit telle que l’espace central ne peut servir de place assise.
-> DORS/78-257, art. 1; DORS/78-351, art. 1; DORS/78-525, art. 1; DORS/79-306, art. 1; DORS/79-339, art. 1; DORS/79-340, art. 1; DORS/79-374, art. 1; DORS/79-677, art. 1; DORS/79-719, art. 1; DORS/79-940, art. 1; DORS/80-161, art. 1; DORS/80-282, art. 1; DORS/80-439, art. 1; DORS/80-440, art. 1; DORS/80-636, art. 1; DORS/80-638, art. 1; DORS/80-782, art. 1; DORS/81-88, art. 1; DORS/81-1033, art. 1; DORS/82-569, art. 1; DORS/82-656, art. 1; DORS/82-753, art. 1; DORS/82-754, art. 1; DORS/83-176, art. 1; DORS/83-859, art. 1; DORS/84-374, art. 1; DORS/84-812, art. 1; DORS/86-161, art. 1; DORS/86-683, art. 1; DORS/86-976, art. 1; DORS/86-977, art. 1; DORS/87-154, art. 1; DORS/87-497, art. 1; DORS/87-578, art. 1; DORS/87-660, art. 1; DORS/88-268, art. 1; DORS/89-384, art. 1; DORS/90-588, art. 1; DORS/90-805, art. 1; DORS/91-425, art. 1; DORS/91-692, art. 1; DORS/92-173, art. 1; DORS/92-250, art. 1; DORS/92-545, art. 1; DORS/93-5, art. 1; DORS/93-31, art. 1; DORS/93-146, art. 1; DORS/93-561, art. 1; DORS/94-291, art. 1; DORS/94-669, art. 1; DORS/94-670, art. 2(F); DORS/94-692, art. 2(F); DORS/94-717, art. 1; DORS/95-147, art. 1; DORS/95-164, art. 1; DORS/95-536, art. 7; DORS/96-366, art. 1; DORS/97-141, art. 1; DORS/97-200, art. 1; DORS/97-201, art. 1; DORS/97-421, art. 1, 17 et 22(F); DORS/97-447, art. 1; DORS/98-125, art. 1; DORS/98-160, art. 1; DORS/98-457, art. 1; DORS/98-524, art. 1(F); DORS/99-357, art. 1; DORS/2000-182, art. 1; DORS/2000-304, art. 1; DORS/2001-35, art. 1; DORS/2001-117, art. 1; DORS/2001-152, art. 1; DORS/2002-15, art. 25(F); DORS/2002-55, art. 1; DORS/2002-187, art. 1; DORS/2002-205, art. 1; DORS/2003-57, art. 3(F); DORS/2003-272, art. 1; DORS/2004-250, art. 1; DORS/2005-45, art. 1; DORS/2006-94, art. 4(A).
+> DORS/78-257, art. 1; DORS/78-351, art. 1; DORS/78-525, art. 1; DORS/79-306, art. 1; DORS/79-339, art. 1; DORS/79-340, art. 1; DORS/79-374, art. 1; DORS/79-677, art. 1; DORS/79-719, art. 1; DORS/79-940, art. 1; DORS/80-161, art. 1; DORS/80-282, art. 1; DORS/80-439, art. 1; DORS/80-440, art. 1; DORS/80-636, art. 1; DORS/80-638, art. 1; DORS/80-782, art. 1; DORS/81-88, art. 1; DORS/81-1033, art. 1; DORS/82-569, art. 1; DORS/82-656, art. 1; DORS/82-753, art. 1; DORS/82-754, art. 1; DORS/83-176, art. 1; DORS/83-859, art. 1; DORS/84-374, art. 1; DORS/84-812, art. 1; DORS/86-161, art. 1; DORS/86-683, art. 1; DORS/86-976, art. 1; DORS/86-977, art. 1; DORS/87-154, art. 1; DORS/87-497, art. 1; DORS/87-578, art. 1; DORS/87-660, art. 1; DORS/88-268, art. 1; DORS/89-384, art. 1; DORS/90-588, art. 1; DORS/90-805, art. 1; DORS/91-425, art. 1; DORS/91-692, art. 1; DORS/92-173, art. 1; DORS/92-250, art. 1; DORS/92-545, art. 1; DORS/93-5, art. 1; DORS/93-31, art. 1; DORS/93-146, art. 1; DORS/93-561, art. 1; DORS/94-291, art. 1; DORS/94-669, art. 1; DORS/94-670, art. 2(F); DORS/94-692, art. 2(F); DORS/94-717, art. 1; DORS/95-147, art. 1; DORS/95-164, art. 1; DORS/95-536, art. 7; DORS/96-366, art. 1; DORS/97-141, art. 1; DORS/97-200, art. 1; DORS/97-201, art. 1; DORS/97-421, art. 1, 17 et 22(F); DORS/97-447, art. 1; DORS/98-125, art. 1; DORS/98-160, art. 1; DORS/98-457, art. 1; DORS/98-524, art. 1(F); DORS/99-357, art. 1; DORS/2000-182, art. 1; DORS/2000-304, art. 1; DORS/2001-35, art. 1; DORS/2001-117, art. 1; DORS/2001-152, art. 1; DORS/2002-15, art. 25(F); DORS/2002-55, art. 1; DORS/2002-187, art. 1; DORS/2002-205, art. 1; DORS/2003-57, art. 3(F); DORS/2003-272, art. 1; DORS/2004-250, art. 1; DORS/2005-45, art. 1; DORS/2006-94, art. 4(A); DORS/2007-180, art. 1.
 
 
 
@@ -1729,7 +1764,7 @@ _________________________
 </tr>
 <tr>
 <td>118</td>
-<td>Fenêtres, séparations et panneaux du pavillon à servocommande</td>
+<td>Systèmes de glace, de séparation et de toit ouvrant à commande électrique</td>
 <td></td>
 <td>X</td>
 <td>X</td>
@@ -2429,7 +2464,7 @@ _________________________
 </tr>
 <tr>
 <td>302</td>
-<td>Inflammabilité</td>
+<td>Inflammabilité des matériaux intérieurs</td>
 <td>X</td>
 <td>X</td>
 <td></td>
@@ -2462,6 +2497,26 @@ _________________________
 <td></td>
 <td></td>
 <td>X</td>
+<td>X</td>
+<td></td>
+<td></td>
+<td>X</td>
+</tr>
+<tr>
+<td>401</td>
+<td>Mécanisme de déverrouillage</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td>X</td>
 <td></td>
 <td></td>
@@ -2673,7 +2728,7 @@ _________________________
 </tr>
 </table>
 
-> DORS/78-80, art. 1; DORS/78-910, art. 1(F); DORS/79-305, art. 1; DORS/79-306, art. 2; DORS/79-339, art. 2; DORS/79-340, art. 2; DORS/79-374, art. 2; DORS/79-677, art. 2; DORS/79-940, art. 5; DORS/80-160, art. 1; DORS/80-161, art. 2; DORS/80-282, art. 2; DORS/80-439, art. 2; DORS/80-639, art. 1(F); DORS/81-88, art. 2; DORS/81-665, art. 1; DORS/82-656, art. 2; DORS/82-753, art. 2; DORS/82-754, art. 2; DORS/83-138, art. 1; DORS/84-812, art. 2; DORS/86-682, art. 1; DORS/86-683, art. 2; DORS/86-975, art. 1; DORS/87-658, art. 1; DORS/87-660, art. 3; DORS/88-268, art. 4; DORS/89-384, art. 2(F) et 3 à 5; DORS/90-805, art. 4; DORS/91-425, art. 3; DORS/92-173, art. 5; DORS/92-250, art. 2(F); DORS/92-545, art. 2(F); DORS/93-31, art. 2; DORS/93-146, art. 3; DORS/93-561, art. 2; DORS/94-291, art. 2; DORS/94-669, art. 2; DORS/95-60, art. 1; DORS/95-147, art. 5 et 15(F); DORS/95-164, art. 2; DORS/96-89, art. 1; DORS/96-366, art. 4; DORS/96-437, art. 1; DORS/97-14, art. 1; DORS/97-141, art. 3; DORS/97-200, art. 2; DORS/97-201, art. 2; DORS/97-376, art. 4; DORS/97-421, art. 2; DORS/97-463, art. 1; DORS/97-532, art. 1 et 2; DORS/98-160, art. 2; DORS/98-457, art. 2; DORS/98-595, art. 1; DORS/99-357, art. 2; DORS/2000-182, art. 4; DORS/2000-304, art. 4; DORS/2001-35, art. 2 et 3; DORS/2001-353, art. 1; DORS/2001-486, art. 1; DORS/2002-55, art. 12; DORS/2002-205, art. 2; DORS/2003-272, art. 6; DORS/2003-359, art. 1 à 3; DORS/2004-195, art. 1; DORS/2005-45, art. 2; DORS/2006-94, art. 1.
+> DORS/78-80, art. 1; DORS/78-910, art. 1(F); DORS/79-305, art. 1; DORS/79-306, art. 2; DORS/79-339, art. 2; DORS/79-340, art. 2; DORS/79-374, art. 2; DORS/79-677, art. 2; DORS/79-940, art. 5; DORS/80-160, art. 1; DORS/80-161, art. 2; DORS/80-282, art. 2; DORS/80-439, art. 2; DORS/80-639, art. 1(F); DORS/81-88, art. 2; DORS/81-665, art. 1; DORS/82-656, art. 2; DORS/82-753, art. 2; DORS/82-754, art. 2; DORS/83-138, art. 1; DORS/84-812, art. 2; DORS/86-682, art. 1; DORS/86-683, art. 2; DORS/86-975, art. 1; DORS/87-658, art. 1; DORS/87-660, art. 3; DORS/88-268, art. 4; DORS/89-384, art. 2(F) et 3 à 5; DORS/90-805, art. 4; DORS/91-425, art. 3; DORS/92-173, art. 5; DORS/92-250, art. 2(F); DORS/92-545, art. 2(F); DORS/93-31, art. 2; DORS/93-146, art. 3; DORS/93-561, art. 2; DORS/94-291, art. 2; DORS/94-669, art. 2; DORS/95-60, art. 1; DORS/95-147, art. 5 et 15(F); DORS/95-164, art. 2; DORS/96-89, art. 1; DORS/96-366, art. 4; DORS/96-437, art. 1; DORS/97-14, art. 1; DORS/97-141, art. 3; DORS/97-200, art. 2; DORS/97-201, art. 2; DORS/97-376, art. 4; DORS/97-421, art. 2; DORS/97-463, art. 1; DORS/97-532, art. 1 et 2; DORS/98-160, art. 2; DORS/98-457, art. 2; DORS/98-595, art. 1; DORS/99-357, art. 2; DORS/2000-182, art. 4; DORS/2000-304, art. 4; DORS/2001-35, art. 2 et 3; DORS/2001-353, art. 1; DORS/2001-486, art. 1; DORS/2002-55, art. 12; DORS/2002-205, art. 2; DORS/2003-272, art. 6; DORS/2003-359, art. 1 à 3; DORS/2004-195, art. 1; DORS/2005-45, art. 2; DORS/2006-94, art. 1; DORS/2007-180, art. 2 à 4.
 
 
 
@@ -2686,57 +2741,8 @@ _________________________
 **PARTIE I** 
 
 
-### Définitions
+[Abrogée, DORS/2007-180, art. 5]
 
-
-**100** Dans la présente annexe,
-
-***ANSI*** désigne l’American National Standards Institute; (*ANSI*) 
-
-***appuie-tête*** désigne un dispositif restreignant le mouvement angulaire vers l’arrière de la tête de l’occupant par rapport à la ligne de son torse; (*head restraint*) 
-
-***ASTM*** désigne l’American Society for Testing and Materials; (*ASTM*) 
-
-***barrière fixe pour essais de collision*** Dispositif qui, à la fois : 
-- **a)** comporte :**(i)** d’une part, une construction à surface d’impact plane, verticale, rigide et assez grande pour qu’aucune partie du véhicule qui la frappe ne puisse en déborder,
-
-**(ii)** d’autre part, une surface d’approche horizontale qui ne gêne pas le mouvement du véhicule durant l’impact et qui est assez grande pour que le véhicule soit capable de maintenir une position stable lorsqu’il approche de la surface d’impact;
-
-
-- **b)** n’absorbe pas une partie importante de l’énergie cinétique du véhicule qui frappe la surface d’impact. (*fixed collision barrier*)
-
-***ligne de torse*** désigne la ligne joignant le point H au point de référence des épaules, telle qu’elle est définie dans la Pratique recommandée J787b de la SAE, « Motor Vehicle Seat Belt Anchorage » (septembre 1966); (*torso line*) 
-
-***mur fixe pour essais de collision***[Abrogée, DORS/94-692, art. 2(F)]
-
-***place assise désignée extérieure*** Place assise désignée pour laquelle un plan vertical longitudinal, tangent au côté extérieur du coussin de siège, est à moins de 305 mm du point le plus rentré de la surface intérieure du véhicule, lequel point est situé verticalement entre le point de référence de position assise et le point de référence des épaules et longitudinalement, entre le bord avant et le bord arrière du coussin de siège. (*outboard designated seating position*) 
-
-***place assise désignée extérieure arrière*** La place assise désignée extérieure qui est située à l’arrière d’une place assise désignée extérieure avant. N’est pas visée la place assise désignée adjacente au passage qui est situé entre le siège et le côté intérieur du véhicule pour permettre l’accès aux places assises plus à l’arrière. (*rear outboard designated seating position*) 
-
-***place assise désignée extérieure avant*** La place assise désignée conducteur et la place assise désignée extérieure située le plus à l’avant-droite. N’est pas visée la place assise désignée passager des autobus scolaires. (*front outboard designated seating position*) 
-
-***point H***[Abrogée, DORS/90-588, art. 2]
-
-***point de référence de position assise***[Abrogée, DORS/80-161, art. 3]
-
-***remorque pour embarcation*** désigne une remorque conçue pour transporter une embarcation et munie d’un échafaudage genre berceau permettant le lancement de l’embarcation par l’arrière; (*boat trailer*) 
-
-***semi-remorque*** désigne une remorque construite de telle manière qu’une partie assez importante de son poids est supportée par un autre véhicule au moyen d’un attelage pivotant ou autre attelage semblable, mais ne s’applique pas à une remorque pour charges longues ni à toute autre remorque conçue pour être traînée par une voiture de tourisme ou un véhicule de tourisme à usages multiples; (*semi-trailer*) 
-
-***véhicule de type ouvert***[Abrogée, DORS/94-291, art. 3]
-
-***zone d’impact de la tête*** désigne la zone décrite à l’article 201 de la présente annexe; (*head impact area*) 
-
-***5<sup>e</sup> percentile adulte du sexe féminin*** désigne une personne ayant pour caractéristiques physiques un poids de 46,3 kg (102 lb), une taille de 1 498,6 mm (59 po), une hauteur en position assise droite de 784,9 mm (30,9 po), une hauteur en position assise normale de 751,8 mm (29,6 po), une largeur de hanches en position assise de 325,1 mm (12,8 po), un tour de hanches en position assise de 924,6 mm (36,4 po), un tour de ceinture en position assise de 599,4 mm (23,6 po), une profondeur de poitrine de 190,5 mm (7,5 po), un tour de buste de 774,7 mm (30,5 po), un tour de poitrine supérieure de 756,9 mm (29,8 po), un tour de poitrine inférieure de 675,6 mm (26,6 po), une hauteur de genoux de 454,7 mm (17,9 po), une hauteur de jarret de 355,6 mm (14 po), une hauteur de coude en position assise de 180,3 mm (7,1 po), une épaisseur de cuisses de 104,1 mm (4,1 po), une distance fesse-genou de 518,2 mm (20,4 po), une distance fesse-jarret de 431,8 mm (17 po), un écart entre les deux coudes de 312,4 mm (12,3 po) et une largeur de siège de 312,4 mm (12,3 po); (*5th percentile adult female*) 
-
-***50<sup>e</sup> percentile adulte du sexe masculin*** Personne ayant pour caractéristiques physiques un poids de 74,4 ± 1,4 kg, une hauteur en position assise droite de 906,8 ± 2,5 mm, une largeur de hanches en position assise de 373,4 ± 17,8 mm, un tour de hanches en position assise de 1 066,8 mm, un tour de taille en position assise de 812,8 ± 15,2 mm, une profondeur de poitrine de 236,2 ± 5,1 mm et un tour de poitrine de 950 ± 15,2 mm. (*50th percentile adult male*) 
-
-***50<sup>e</sup> percentile enfant de six ans*** Personne ayant pour caractéristiques physiques un poids de 21,5 kg, une hauteur en position assise droite de 645,2 mm, une largeur de hanches en position assise de 213,4 mm, un tour de hanches en position assise de 607,1 mm et un tour de taille en position assise de 528,3 mm. (*50th percentile 6-year old child*) 
-
-***95<sup>e</sup> percentile adulte du sexe masculin*** désigne une personne ayant pour caractéristiques physiques un poids de 97,5 kg (215 lb), une taille de 1 849,1 mm (72,8 po), une hauteur en position assise droite de 965,2 mm (38 po), une hauteur en position assise normale de 929,6 mm (36,6 po), une largeur de hanches en position assise de 419,1 mm (16,5 po), un tour de hanches en position assise de 1 198,9 mm (47,2 po), un tour de ceinture en position assise de 1 079,5 mm (42,5 po), une profondeur de poitrine de 266,7 mm (10,5 po), un tour de poitrine de 1 130,3 mm (44,5 po), une hauteur de genoux de 594,4 mm (23,4 po), une hauteur de jarret de 490,2 mm (19,3 po), une hauteur de coude en position assise de 294,6 mm (11,6 po), une épaisseur de cuisses de 175,3 mm (6,9 po), une distance fesse-genou de 640,1 mm (25,2 po), une distance fesse-jarret de 548,6 mm (21,6 po), un écart entre les coudes de 505,5 mm (19,9 po) et une largeur de siège de 403,9 mm (15,9 po). (*95th percentile adult male*) 
-
-
-> DORS/80-161, art. 3; DORS/86-453, art. 1; DORS/87-154, art. 2; DORS/90-588, art. 2; DORS/93-5, art. 2; DORS/94-291, art. 3; DORS/94-692, art. 2; DORS/97-447, art. 3; DORS/2006-94, art. 4(A)..
 
 
 **PARTIE II** 
@@ -2921,7 +2927,7 @@ _________________________
 
 
 
-**r)** le compteur de vitesse;
+**r)** l’indicateur de vitesse;
 
 
 
@@ -3093,7 +3099,7 @@ _________________________
 
 
 
-**k)** le compteur de vitesse;
+**k)** l’indicateur de vitesse;
 
 
 
@@ -3199,7 +3205,7 @@ _________________________
 
 
 
-**(17)** Le compteur de vitesse doit être étalonné en kilomètres/heure.
+**(17)** L’indicateur de vitesse doit être étalonné en kilomètres/heure.
 
 
 
@@ -3538,7 +3544,7 @@ choix du fabricant
 <tr>
 <td>Speedometer</td>
 <td>km/h</td>
-<td>Compteur de vitesse</td>
+<td>Indicateur de vitesse</td>
 </tr>
 <tr>
 <td>Odometer</td>
@@ -3608,7 +3614,7 @@ choix du fabricant
 <td>**8** The unit of measurement, if identified, is “km”. Where an electronic odometer display can be switched from “km” to “mi” or from “mi” to “km” independently of the units being displayed by a speedometer, the odometer units must be identified in miles or kilometres as appropriate.
 
 </td>
-<td>**8** L’unité de mesure, si elle est indiquée, est le «km ». Dans le cas d’un affichage électronique de l’odomètre pouvant passer de « km » en « mi » ou de « mi » en « km », indépendamment de l’unité de mesure affichée par le compteur de vitesse, l’unité doit être indiquée en milles ou kilomètres, selon le cas.
+<td>**8** L’unité de mesure, si elle est indiquée, est le «km ». Dans le cas d’un affichage électronique de l’odomètre pouvant passer de « km » en « mi » ou de « mi » en « km », indépendamment de l’unité de mesure affichée par l’indicateur de vitesse, l’unité doit être indiquée en milles ou kilomètres, selon le cas.
 
 </td>
 </tr>
@@ -3616,7 +3622,7 @@ choix du fabricant
 
 
 
->  DORS/78-257, art. 2; DORS/86-976, art. 2; DORS/93-31, art. 3; DORS/94-374, art. 5; DORS/95-147, art. 7; DORS/95-164, art. 3; DORS/97-200, art. 3; DORS/97-421, art. 18(A), 19(F) et 20(F); DORS/2003-272, art. 7..
+> DORS/78-257, art. 2; DORS/86-976, art. 2; DORS/93-31, art. 3; DORS/94-374, art. 5; DORS/95-147, art. 7; DORS/95-164, art. 3; DORS/97-200, art. 3; DORS/97-421, art. 18(A), 19(F) et 20(F); DORS/2003-272, art. 7; DORS/2007-180, art. 22(F)..
 
 
 ### Fonctions de la commande de la boîte de vitesses (norme 102)
@@ -4194,1227 +4200,51 @@ Cessation d’effet
 >  DORS/79-374, art. 3; DORS/80-637, art. 1; DORS/86-683, art. 3; DORS/86-976, art. 3; DORS/91-144, art. 1; DORS/96-89, art. 2; DORS/97-200, art. 4 et 6; DORS/97-421, art. 5; DORS/98-524, art. 4(F); DORS/99-357, art. 3; DORS/2001-35, art. 4; DORS/2005-42, art. 13..
 
 
-### Boyaux de frein
+### Boyaux de frein (Norme 106)
 > [DORS/93-561, art. 3]
 
 
 
 **106** 
 
-**(1)** Dans le présent article,
+**(1)** Les boyaux de frein, les ensembles de boyau de frein et les raccords d’extrémité de boyau de frein dont sont équipés les voitures de tourisme, les véhicules de tourisme à usages multiples, les camions, les autobus, les véhicules à basse vitesse, les véhicules à trois roues et les motocyclettes à habitacle fermé doivent être conformes aux exigences du Document de normes techniques nº 106 — Boyaux de frein (DNT 106), avec ses modifications successives.
 
-**a)** une description de dimension, telle que
 
-**(i)** boyau de 6,35 mm (1/4 po), se rapporte au diamètre intérieur nominal du boyau, et
 
-
-
-**(ii)** canalisation de 6,35 mm (1/4 po), se rapporte au diamètre extérieur nominal de la canalisation; et
-
-
-
-
-
-**b)** le tableau V renvoie aux exigences du présent article relatives au rendement et aux méthodes d’essai appropriées des Méthodes d’essai de sécurité des véhicules automobiles, article 106, « Boyaux de frein ».
-
-
-
-
-
-**(2)** Le fabricant d’un boyau de frein, d’un raccord d’extrémité de boyau de frein ou d’un ensemble de boyau de frein doit déposer par écrit, auprès de la Direction générale de la sécurité routière et de la réglementation automobile, ministère des Transports, 330, rue Sparks, Ottawa (Ontario), Canada, K1A 0N5, un spécimen du symbole prescrit aux paragraphes (5), (7), (13), (15), (16), (22), (24) et (25).
-
-
-
-**(3)** Un ensemble de boyau de frein hydraulique est muni de raccords d’extrémité de boyau fixés en permanence au boyau par une déformation (sertissage ou emboutissage) du raccord autour du boyau.
-
-
-
-**(4)** Sauf dans le cas d’un boyau de frein hydraulique fabriqué pour être utilisé dans un ensemble dont les raccords d’extrémité n’en permettent l’installation, sur l’un ou l’autre côté du véhicule, que dans un sens, un boyau de frein hydraulique doit avoir au moins deux lignes facilement reconnaissables, d’une largeur minimale de 1,6 mm (0,062 po), placées de part et d’autre de sa circonférence, parallèllement à son axe longitudinal; des parties de l’une des deux lignes peuvent être remplacées par les renseignements visés au paragraphe (5), et des parties de l’autre ligne, par les renseignements supplémentaires que le fabricant désire donner.
-
-
-
-**(5)** Sous réserve du paragraphe (6), des inscriptions en lettres majuscules d’imprimerie et en chiffres d’une hauteur minimale de 3,2 mm (0,125 po) doivent apparaître sur chaque boyau de frein hydraulique, ou sur toute longueur de boyau à être coupé, à des intervalles maximaux de 152,4 mm (6 po), ces intervalles étant mesurés de la fin d’une inscription jusqu’au début de la suivante, et doivent comprendre
-
-**a)** le symbole du fabricant du boyau;
-
-
-
-**b)** le jour, le mois et l’année, ou le mois et l’année, de fabrication, exprimés en chiffres placés dans cet ordre;
-
-
-
-**c)** le diamètre intérieur nominal du boyau; et
-
-
-
-**d)** soit les lettres « HR » indiquant qu’il s’agit d’un boyau hydraulique à dilatation ordinaire, soit les lettres « HL » indiquant qu’il s’agit d’un boyau hydraulique à faible dilatation.
-
-
-
-
-
-**(6)** Lorsqu’un boyau de frein hydraulique fait partie d’un ensemble de boyau de frein ou qu’il a été installé dans un véhicule, les renseignements visés aux alinéas (5)a) à d) peuvent être omis.
-
-
-
-**(7)** Au choix du fabricant, un ensemble de boyau de frein hydraulique qui n’est pas assemblé et installé par un fabricant dans un véhicule de sa fabrication, doit
-
-**a)** porter le symbole du fabricant, imprimé par morsure à l’acide, gaufrage ou timbrage, en caractères d’au moins 1,6 mm (0,062 po) de hauteur, sur au moins l’un de ses raccords d’extrémité; ou
-
-
-
-**b)** porter une bande autour de lui
-
-**(i)** sur laquelle le symbole du fabricant de l’ensemble est imprimé par morsure à l’acide, gaufrage ou timbrage, en caractères d’au moins 3,2 mm (0,125 po) de hauteur, et
-
-
-
-**(ii)** qui peut être fixée de manière à glisser librement le long de l’ensemble, pourvu que les raccords d’extrémité la retiennent.
-
-
-
-
-
-
-
-**(8)** Lorsque les exigences de rétrécissement de l’alinéa (11)a), et l’une des exigences des alinéas (9)a) et b), du paragraphe (10) et des alinéas (11)b) à h) ont été remplies, il n’est pas nécessaire de faire subir un autre essai à l’ensemble ou à une partie de l’ensemble du boyau de frein hydraulique.
-
-
-
-**(9)** Un boyau de frein hydraulique assujetti aux Méthodes d’essai de sécurité des véhicules automobiles, article 106, « Boyaux de frein », ne doit pas présenter de fissures,
-
-**a)** après avoir été soumis 70 h à une température de -40 °C (-40 °F), visibles à l’oeil nu lorsqu’il est plié autour d’un cylindre visé par la méthode d’essai; et
-
-
-
-**b)** après avoir été exposé 70 h à l’ozone à une température de 40 °C (104 °F), visibles à l’aide d’un grossissement de force 7.
-
-
-
-
-
-**(10)** Un raccord d’extrémité de boyau de frein hydraulique assujetti aux Méthodes d’essai de sécurité des véhicules automobiles, article 106, « Boyaux de frein », ne doit pas, après avoir été exposé 24 h à des vaporisations de sel, présenter de corrosion de métal sur la surface du raccord d’extrémité sauf aux endroits où le sertissage ou la pose d’une étiquette a altéré la couche protectrice.
-
-
-
-**(11)** Sous réserve du paragraphe (8), s’il est assujetti aux Méthodes d’essai de sécurité des véhicules automobiles, article 106, «Boyaux de frein», un ensemble de boyau de frein hydraulique installé dans un véhicule
-
-**a)** doit avoir un diamètre intérieur d’au moins 64 pour cent du diamètre intérieur nominal du boyau, sauf pour la section d’un raccord d’extrémité qui ne renferme pas de boyau de frein;
-
-
-
-**b)** à 6 895 kPa (1 000 lb/po<sup>2</sup>) et à 10 342 kPa (1 500 lb/po<sup>2</sup>), ne doit pas avoir une dilatation maximale excédant les valeurs spécifiées au tableau I du présent article et
-
-**(i)** doit résister 2 min à une pression hydrostatique de 27 579 kPa (4 000 lb/po<sup>2</sup>) sans faire l’objet d’une rupture, et
-
-
-
-**(ii)** ne doit pas faire l’objet d’une rupture à une pression hydrostatique inférieure à 34 474 kPa (5 000 lb/po<sup>2</sup>);
-
-
-
-
-
-**c)** ne doit pas faire l’objet d’une rupture au cours d’un essai d’une durée de 35 h consécutives sur un appareil à flexion;
-
-
-
-**d)** doit résister à une traction de 1 446 N (325 lb) sans qu’il y ait séparation du boyau de ses raccords d’extrémité;
-
-
-
-**e)** après avoir été immergé 70 h dans l’eau, doit résister 2 min à une pression hydrostatique de 27 579 kPa (4 000 lb/po<sup>2</sup>), et ne doit pas faire l’objet d’une rupture à une pression inférieure à 34 474 kPa (5 000 lb/po<sup>2</sup>);
-
-
-
-**f)** après avoir été immergé 70 h dans l’eau, doit résister à une traction de 1 446 N (325 lb) sans qu’il y ait séparation du boyau de ses raccords d’extrémité;
-
-
-
-**g)** après avoir été immergé 70 h dans l’eau, ne doit pas faire l’objet d’une rupture au cours d’un essai d’une durée de 35 h consécutives sur un appareil à flexion;
-
-
-
-**h)** sauf les ensembles de boyau de frein conçus pour utiliser des liquides pour frein à base minérale ou à base de pétrole, après avoir été rempli de liquide de compatibilité SAE et soumis pendant 70 heures à une température de 93,3 °C (200 °F),
-
-**(i)** doit satisfaire aux exigences de rétrécissement de l’alinéa a),
-
-
-
-**(ii)** doit résister 2 min à une pression hydrostatique de 27 579 kPa (4 000 lb/po<sup>2</sup>), et
-
-
-
-**(iii)** ne doit pas faire l’objet d’une rupture à une pression hydrostatique inférieure à 34 474 kPa (5 000 lb/po<sup>2</sup>).
-
-
-
-
-
-
-
-**(12)** Tout ensemble de boyau de frein à air comprimé doit être muni de raccords d’extrémité de boyau de frein fixés en permanence ou réutilisables.
-
-
-
-**(12.1)** Chaque boyau de frein à air comprimé fait de caoutchouc naturel ou synthétique et destiné à être utilisé avec des raccords d’extrémité de boyau de frein réutilisables doit avoir les dimensions spécifiées au tableau II du présent article.
-
-
-
-**(13)** Sous réserve du paragraphe (14), des inscriptions en lettres majuscules d’imprimerie et en chiffres d’une hauteur minimale de 3,2 mm (0,125 po) doivent apparaître sur chaque boyau de frein à air comprimé ou sur toute longueur de boyau à être coupé, à des intervalles maximaux de 152,4 mm (6 po), ces intervalles étant mesurés de la fin d’une inscription jusqu’au début de la suivante, et doivent comprendre
-
-**a)** le symbole du fabricant du boyau;
-
-
-
-**b)** le jour, le mois et l’année, ou le mois et l’année, de fabrication, exprimés en chiffres placés dans cet ordre;
-
-
-
-**c)** le diamètre intérieur nominal du boyau ou, suivi des lettres OD, le diamètre extérieur nominal de la canalisation de plastique; et
-
-
-
-**d)** la lettre « A » pour indiquer qu’il s’agit d’un boyau destiné à servir dans un système de freinage à air comprimé ou, dans le cas d’un boyau fait de caoutchouc naturel ou synthétique destiné à servir dans un ensemble réutilisable, la désignation « AI » ou « AII » pour indiquer qu’il s’agit d’un boyau de type I ou II, selon les dimensions fixées au tableau II du présent article.
-
-
-
-
-
-**(14)** Lorsqu’un boyau de frein à air comprimé fait partie d’un ensemble de boyau de frein ou qu’il a été installé dans un véhicule, les renseignements visés aux alinéas 13a) à d) peuvent être omis.
-
-
-
-**(15)** Sauf dans le cas d’un raccord d’extrémité de boyau fixé en permanence par une déformation (sertissage ou emboutissage) du raccord autour du boyau, au moins un élément de chaque raccord de boyau de frein à air comprimé doit porter, en lettres majuscules d’imprimerie et en chiffres d’au moins 1,6 mm (0,062 po) de hauteur imprimés par morsure à l’acide, gaufrage ou timbrage,
-
-**a)** le symbole de son fabricant;
-
-
-
-**b)** le diamètre intérieur nominal du boyau ou le diamètre extérieur de la canalisation de plastique à laquelle est correctement fixé le raccord; et
-
-
-
-**c)** la lettre « A » pour indiquer qu’il s’agit d’un raccord destiné à servir dans un système de freinage à air comprimé ou, dans le cas d’un raccord destiné à servir dans un ensemble réutilisable, la désignation « AI » ou « AII » pour indiquer qu’il s’agit d’un raccord à utiliser respectivement avec un boyau de type I ou II.
-
-
-
-
-
-**(16)** Au choix du fabricant, un ensemble de boyau de frein à air comprimé muni de raccords d’extrémité fixés en permanence au boyau par sertissage ou emboutissage, doit, à moins d’être assemblé et installé par un fabricant dans un véhicule de sa fabrication,
-
-**a)** porter le symbole du fabricant, imprimé par morsure à l’acide, gaufrage ou timbrage, en caractères d’au moins 1,6 mm (0,062 po) de hauteur, sur au moins l’un de ses raccords d’extrémité; ou
-
-
-
-**b)** porter une bande autour de lui
-
-**(i)** sur laquelle le symbole du fabricant de l’ensemble est imprimé par morsure à l’acide, gaufrage ou timbrage, en caractères d’au moins 3,2 mm (0,125 po) de hauteur, et
-
-
-
-**(ii)** qui peut être fixée de manière à glisser librement le long de l’ensemble, pourvu que les raccords d’extrémité la retiennent.
-
-
-
-
-
-
-
-**(17)** Lorsque les exigences de rétrécissement de l’alinéa (20)a) et l’une des exigences des alinéas 18a) à g), du paragraphe (19) et des alinéas (20)b) à e) ont été remplies, il n’est pas nécessaire de soumettre l’ensemble ou une partie de l’ensemble de boyau de frein à air comprimé à d’autres exigences.
-
-
-
-**(18)** Un boyau de frein à air comprimé assujetti aux Méthodes d’essai de sécurité des véhicules automobiles, article 106, « Boyaux de frein »,
-
-**a)** ne doit pas présenter de fissures internes ou externes ni de traces de carbonisation ou de désintégration visibles à l’oeil nu, lorsqu’il est redressé après avoir été plié 70 h, à une température de 100 °C (212 °F), autour d’un cylindre dont le rayon est spécifié au tableau III du présent article;
-
-
-
-**b)** ne doit pas présenter, sur sa surface extérieure, de fissures visibles à l’oeil nu après avoir été plié 70 h à la température de -40 °C (-40 °F), autour d’un cylindre dont le rayon est spécifié au tableau III du présent article;
-
-
-
-**c)** ne doit pas accroître de plus de 100 pour cent le volume d’un échantillon prélevé sur le tube intérieur et son recouvrement après avoir été immergé 70 h dans de l’huile ASTM n<sup>o</sup> 3 à une température de 100 °C (212 °F);
-
-
-
-**d)** ne doit pas présenter, sur sa surface extérieure, de fissures visibles à l’aide d’un grossissement de force 7 après avoir été exposé 70 h à l’ozone, à une température de 40 °C (104 °F);
-
-
-
-**e)** ne doit pas se contracter, en longueur, de plus de sept pour cent, ni s’étirer de plus de cinq pour cent sauf dans le cas d’une canalisation spiralée en nylon, lorsqu’il est soumis à une pression d’air de 1 379 kPa (200 lb/po<sup>2</sup>);
-
-
-
-**f)** doit résister à une tension de 1 401 N/m (8 lb/po) de longueur sauf, dans le cas d’un boyau renforcé de fil métallique, avant qu’il y ait séparation des couches adjacentes; et
-
-
-
-**g)** ne doit pas présenter, sur sa surface extérieure, de fissures visibles à l’aide d’un grossissement de force 7, après avoir été immergé 200 h dans une solution aqueuse de chlorure de zinc à 50 pour cent.
-
-
-
-
-
-**(19)** Un raccord d’extrémité de boyau de frein à air comprimé assujetti aux Méthodes d’essai de sécurité des véhicules automobiles, article 106, « Boyaux de frein », ne doit pas, après avoir été exposé 24 h à une vaporisation de sel, présenter de corrosion du métal sur la surface du raccord d’extrémité, sauf aux endroits où le sertissage ou la pose d’une étiquette a altéré la couche protectrice.
-
-
-
-**(20)** Sous réserve des paragraphes (17) et (21), s’il est assujetti aux Méthodes d’essai de sécurité des véhicules automobiles, article 106, « Boyaux de frein », un ensemble de boyau de frein à air comprimé
-
-**a)** ne doit pas rétrécir le diamètre intérieur de toute section de l’ensemble à moins de 66 pour cent du diamètre intérieur nominal du boyau, sauf pour la section d’un raccord d’extrémité qui ne renferme pas de boyau de frein;
-
-
-
-**b)** doit retenir 5 min une pression d’air de 1 379 kPa (200 lb/po<sup>2</sup>) sans perdre plus de 34,5 kPa (5 lb/po<sup>2</sup>);
-
-
-
-**c)** ne doit pas faire l’objet d’une rupture lorsqu’il est exposé à une pression hydrostatique de 5 516 kPa (800 lb/po<sup>2</sup>);
-
-
-
-**d)** lorsqu’il est conçu pour être utilisé entre le cadre et l’essieu ou entre un véhicule remorqué et un véhicule remorqueur, doit résister, sans qu’il y ait séparation du boyau de ses raccords d’extrémité, à une traction de
-
-**(i)** 1 112 N (250 lb), s’il a un diamètre intérieur nominal de 6,35 mm (1/4 po) ou moins, ou
-
-
-
-**(ii)** 1 446 N (325 lb), s’il a un diamètre intérieur nominal de plus de 6,35 mm (1/4 po);
-
-
-
-
-
-**e)** lorsqu’il est conçu pour être utilisé à des fins autres que celles visées à l’alinéa d), doit résister, sans qu’il y ait séparation du boyau de ses raccords d’extrémité, à une traction de
-
-**(i)** 222 N (50 lb), s’il a un diamètre intérieur nominal de 6,35 mm (1/4 po) ou moins,
-
-
-
-**(ii)** 667 N (150 lb), s’il a un diamètre intérieur nominal de 9,53 ou 12,7 mm (3/8 po ou 1/2 po), ou
-
-
-
-**(iii)** 1 446 N (325 lb), s’il a un diamètre intérieur nominal de plus de 12,7 mm (1/2 po);
-
-
-
-
-
-**f)** après avoir été immergé 70 h dans de l’eau distillée, lorsqu’il est conçu pour être utilisé entre le cadre et l’essieu ou entre un véhicule remorqué et un véhicule remorqueur, doit résister, sans qu’il y ait séparation du boyau de ses raccords d’extrémité, à une traction de
-
-**(i)** 1 112 N (250 lb), s’il a un diamètre intérieur nominal de plus de 6,35 mm (1/4 po) ou moins, ou
-
-
-
-**(ii)** 1 446 N (325 lb), s’il a un diamètre intérieur nominal de plus de 6,35 mm (1/4 po); et
-
-
-
-
-
-**g)** après avoir été immergé 70 h dans de l’eau distillée, lorsqu’il est conçu pour être utilisé à des fins autres que celles visées à l’alinéa f), doit résister, sans qu’il ait séparation du boyau de ses raccords d’extrémité, à une traction de
-
-**(i)** 222 N (50 lb), s’il a un diamètre intérieur nominal de 6,35 mm (1/4 po) ou moins,
-
-
-
-**(ii)** 667 N (150 lb), s’il a un diamètre intérieur nominal de 9,53 ou 12,7 mm (3/8 po ou 1/2 po), ou
-
-
-
-**(iii)** 1 446 N (325 lb), s’il a un diamètre intérieur nominal de plus de 12,7 mm (1/2 po).
-
-
-
-
-
-
-
-**(21)** Une canalisation de frein spiralée en nylon peut être utilisée pour relier un véhicule remorqué à un véhicule remorqueur pourvu que
-
-**a)** la canalisation soit conforme aux exigences visant les canalisations de nylon de type B énoncées à la norme J844 de la SAE intitulée « Nonmetallic Air Brake System Tubing », juin 1990;
-
-
-
-**b)** la canalisation ait une section droite à chaque extrémité, d’au moins 50,8 mm (2 po) de longueur, et qu’elle soit enfermée dans un protecteur à ressort ou un dispositif semblable qui l’empêche de faire un faux pli au point de jonction du raccord qui le fixe au véhicule;
-
-
-
-**c)** le protecteur à ressort ou un dispositif semblable ait un minimum de 50,8 mm (2 po) de ressorts fermés ou un dispositif semblable à son point de rencontre avec les raccords, et qu’il s’avance d’une distance d’au moins 38 mm (1,5 po) à l’intérieur de la partie spiralée de la canalisation mesurée à partir de la section droite.
-
-
-
-
-
-**(22)** Sous réserve du paragraphe (23), des inscriptions en lettres majuscules d’imprimerie et en chiffres d’une hauteur minimale de 3,2 mm (0,125 po) doivent apparaître sur chaque boyau de frein à dépression ou sur toute longueur de boyau à être coupé, à des intervalles maximaux de 152,4 mm (6 po), ces intervalles étant mesurés de la fin d’une inscription jusqu’au début de la suivante, et doivent comprendre
-
-**a)** le symbole du fabricant du boyau;
-
-
-
-**b)** le jour, le mois et l’année, ou le mois et l’année, de fabrication, exprimés en chiffres placés dans cet ordre;
-
-
-
-**c)** le diamètre intérieur nominal du boyau ou, suivi des lettres OD, le diamètre extérieur nominal de la canalisation de plastique; et
-
-
-
-**d)** les lettres « VL » ou « VH » indiquant respectivement qu’il s’agit d’un boyau de frein à dépression à rendement ordinaire ou supérieur.
-
-
-
-
-
-**(23)** Lorsqu’un boyau de frein à dépression fait partie d’un ensemble de boyau de frein ou qu’il a été installé dans un véhicule, les renseignements visés aux alinéas (22)a) à d) peuvent être omis.
-
-
-
-**(24)** Sauf dans le cas d’un raccord d’extrémité fixé à une canalisation à dépression en plastique par emmanchement à chaud ou ajustement avec serrage, ou fixé à un boyau par déformation (sertissage ou emboutissage) du raccord autour de ce dernier, au moins un élément de chaque raccord de boyau de frein à dépression doit porter, en lettres majuscules d’imprimerie et en chiffres d’au moins 1,6 mm (0,062 po) de hauteur imprimés par morsure à l’acide, gaufrage ou timbrage,
-
-**a)** le symbole de son fabricant;
-
-
-
-**b)** le diamètre intérieur nominal du boyau ou le diamètre extérieur de la canalisation de plastique à laquelle est correctement fixé le raccord; et
-
-
-
-**c)** les lettres « VL » ou « VH » indiquant respectivement qu’il s’agit d’un raccord destiné à servir dans un système de freinage à dépression à rendement ordinaire ou supérieur.
-
-
-
-
-
-**(25)** Au choix du fabricant, un ensemble de boyau de frein à dépression muni de raccords d’extrémité fixés par sertissage ou emboutissage et un ensemble de canalisation de plastique muni de raccords d’extrémité fixés par emmanchement à chaud ou ajustement avec serrage doivent, à moins d’être assemblés et installés par le fabricant dans un véhicule de sa fabrication,
-
-**a)** porter le symbole de leur fabricant, imprimé par morsure à l’acide, gaufrage ou timbrage, en caractères d’au moins 1,6 mm (0,062 po) de hauteur, sur au moins l’un de leurs raccords d’extrémité; ou
-
-
-
-**b)** porter une bande autour d’eux
-
-**(i)** sur laquelle le symbole de leur fabricant est imprimé par morsure à l’acide, gaufrage ou timbrage, en caractères d’au moins 3,2 mm (0,125 po) de hauteur, et
-
-
-
-**(ii)** qui peut être fixée de manière à glisser librement le long de chaque ensemble, pourvu que les raccords d’extrémité la retiennent.
-
-
-
-
-
-
-
-**(26)** Lorsque les exigences de rétrécissement du paragraphe (31) et l’une des exigences des alinéas (27)a) à i) et du paragraphe (30) ont été remplies, il n’est pas nécessaire de soumettre l’ensemble ou une partie de l’ensemble de boyau de frein à dépression à d’autres exigences.
-
-
-
-**(27)** Sous réserve des paragraphes (28) à (30), un boyau de frein à dépression assujetti aux Méthodes d’essai de sécurité des véhicules automobiles, article 106, « Boyaux de frein »,
-
-**a)** ne doit pas présenter de fissures internes ou externes ni de traces de carbonisation ou de désintégration visibles à l’oeil nu, lorsqu’il est redressé après avoir été plié 70 h à une température de 100 °C (212 °F), autour d’un cylindre dont le rayon est spécifié au tableau IV du présent article;
-
-
-
-**b)** ne doit pas présenter, sur sa surface extérieure, de fissures visibles à l’oeil nu, après avoir été plié 70 h, à la température de -40 °C (-40 °F), autour d’un cylindre dont le rayon est spécifié au tableau IV du présent article;
-
-
-
-**c)** ne doit pas présenter, sur sa surface extérieure, de fissures visibles à l’aide d’un grossissement de force 7, après avoir été exposé 70 h à l’ozone, à une température de 40 °C (104 °F);
-
-
-
-**d)** ne doit pas faire l’objet d’une rupture lorsqu’il est soumis à une pression hydrostatique de 2 413 kPa (350 lb/po<sup>2</sup>);
-
-
-
-**e)** ne doit pas diminuer de diamètre extérieur de plus de 1,6 mm (0,062 po), lorsqu’il est soumis 5 min à un vide interne de 88 kPa (26 po de Hg);
-
-
-
-**f)** ne doit pas diminuer de diamètre extérieur au milieu de la longueur d’essai d’une valeur plus grande que les valeurs visées au tableau IV du présent article pour la dimension du boyau essayé, lorsqu’il est plié jusqu’à ce que ses extrémités se touchent;
-
-
-
-**g)** après avoir été exposé à un combustible de référence ASTM A,
-
-**(i)** ne doit pas diminuer de diamètre intérieur, en toute section, au point que celui-ci devienne inférieur à
-
-**(A)** 75 pour cent du diamètre intérieur nominal, s’il s’agit d’un boyau à rendement supérieur, ou
-
-
-
-**(B)** 70 pour cent du diamètre intérieur nominal, s’il s’agit d’un boyau à rendement ordinaire, et
-
-
-
-
-
-**(ii)** ne doit pas présenter de fuite ni de décollement de l’armature en toile du boyau intérieur lorsqu’il est soumis 10 min à une dépression de 88 kPa (26 po de Hg);
-
-
-
-
-
-**h)** doit résister à une force de 1 401 N/m (8 lb/po) de longueur avant qu’il y ait séparation des couches adjacentes, sauf s’il s’agit d’un boyau renforcé de fil métallique; et
-
-
-
-**i)** doit reprendre 90 pour cent de son diamètre extérieur original en 60 s après cinq applications de force, sauf qu’un boyau renforcé de fil métallique peut reprendre 85 pour cent seulement de son diamètre extérieur original.
-
-
-
-
-
-**(28)** Lorsqu’il s’agit d’un boyau de frein à dépression à rendement supérieur, la première des cinq applications de force visées à l’alinéa (27)i) ne doit pas dépasser une valeur de crête de 311 N (70 lb), et la cinquième de ces applications de force doit avoir une valeur de crête d’au moins 178 N (40 lb).
-
-
-
-**(29)** Lorsqu’il s’agit d’un boyau de frein à dépression à rendement ordinaire, la première des cinq applications de force visées à l’alinéa (27)i) ne doit pas dépasser une valeur de crête de 222 N (50 lb), et la cinquième de ces applications de force doit avoir une valeur de crête d’au moins 89 N (20 lb).
-
-
-
-**(30)** Un raccord d’extrémité de boyau de frein à dépression assujetti aux Méthodes d’essai de sécurité des véhicules automobiles, article 106, « Boyaux de frein », après avoir été soumis 24 h à des vaporisations de sel, ne doit pas présenter de corrosion de métal sur la surface du raccord d’extrémité, sauf aux endroits où le sertissage ou la pose d’une étiquette a altéré la couche protectrice.
-
-
-
-**(31)** Un ensemble de boyau de frein à dépression installé sur un véhicule ne doit pas, s’il est assujetti aux Méthodes d’essai de sécurité des véhicules automobiles, article 106, « Boyaux de frein », rétrécir le diamètre intérieur de toute section de l’ensemble à moins de 75 pour cent du diamètre intérieur nominal du boyau, s’il s’agit d’un boyau à rendement supérieur, ou à moins de 70 pour cent du diamètre du boyau, s’il s’agit d’un boyau à rendement ordinaire, sauf pour la section d’un raccord d’extrémité qui ne renferme pas de boyau.
-
-
-
-**(32)** [Abrogé, DORS/93-561, art. 4]
-
-
-
-
-#### TABLEAU I
+**(2)** Toute mention dans le DNT 106 d’une norme publiée par l’ASTM qui figure à la colonne 1 du tableau du présent paragraphe vaut mention de la norme indiquée en regard de cette norme à la colonne 2.
+#### TABLEAU
 <table>
-<h4>Dilatation maximale de la longueur libre du boyau de frein, mL/m (mL/pi)</h4>
 <tr>
-<th></th>
-<th>Pression d’essai</th>
-</tr>
-<tr>
-<th></th>
-<th>6 895 kPa (1 000 lb/po<sup>2</sup>)</th>
-<th>10 342 kPa (1 500 lb/po<sup>2</sup>)</th>
-</tr>
-<tr>
-<th>Diamètre intérieur</th>
-<th>Boyau à</th>
-<th></th>
-<th>Boyau à</th>
-<th></th>
-<th>Boyau à</th>
-<th></th>
-<th>Boyau à</th>
-<th></th>
-</tr>
-<tr>
-<th>du boyau de</th>
-<th>dilatation</th>
-<th></th>
-<th>faible</th>
-<th></th>
-<th>dilatation</th>
-<th></th>
-<th>faible</th>
-<th></th>
-</tr>
-<tr>
-<th>frein hydraulique</th>
-<th>ordinaire</th>
-<th></th>
-<th>dilatation</th>
-<th></th>
-<th>ordinaire</th>
-<th></th>
-<th>dilatation</th>
-<th></th>
-</tr>
-<tr>
-<th></th>
-</tr>
-<tr>
-<td>3,18 mm (1/8 po) ou moins</td>
-<td>2,17</td>
-<td>(0,66)</td>
-<td>1,08</td>
-<td>(0,33)</td>
-<td>2,59</td>
-<td>(0,79)</td>
-<td>1,38</td>
-<td>(0,42)</td>
-</tr>
-<tr>
-<td>4,76 mm (3/16 po)</td>
-<td>2,82</td>
-<td>(0,86)</td>
-<td>1,80</td>
-<td>(0,55)</td>
-<td>3,35</td>
-<td>(1,02)</td>
-<td>2,36</td>
-<td>(0,72)</td>
-</tr>
-<tr>
-<td>6,35 mm (1/4 po) ou plus</td>
-<td>3,41</td>
-<td>(1,04)</td>
-<td>2,69</td>
-<td>(0,82)</td>
-<td>4,27</td>
-<td>(1,30)</td>
-<td>3,84</td>
-<td>(1,17)</td>
-</tr>
-</table>
-
-#### TABLEAU II
-<table>
-<h4>Dimensions des boyaux de frein à air comprimé pour ensembles réutilisables</h4>
-<tr>
-<th></th>
-<th></th>
-<th>Diamètre extérieur</th>
-<th>Diamètre extérieur</th>
-</tr>
-<tr>
-<th>Dimensions</th>
-<th>Écarts en mm (po)</th>
-<th>Type I, en mm (po)</th>
-<th>Type II, en mm (po)</th>
-</tr>
-<tr>
-<th>en mm (po)</th>
-<th>(diamètre intérieur)</th>
-<th>Minimum</th>
-<th>Maximum</th>
-<th>Minimum</th>
-<th>Maximum</th>
-</tr>
-<tr>
-<th></th>
-</tr>
-<tr>
-<td>4,76(3/16)</td>
-<td>+0,66 (0,026)</td>
-<td>11,99</td>
-<td>12,95</td>
-<td>12,70</td>
-<td>13,69</td>
-</tr>
-<tr>
-<td>-0,00 (0,000)</td>
-<td>(0,472)</td>
-<td>(0,510)</td>
-<td>(0,500)</td>
-<td>(0,539)</td>
-</tr>
-<tr>
-<td>6,35(1/4)</td>
-<td>+0,79 (0,031)</td>
-<td>13,59</td>
-<td>14,55</td>
-<td>14,27</td>
-<td>15,29</td>
-</tr>
-<tr>
-<td>-0,00 (0,000)</td>
-<td>(0,535)</td>
-<td>(0,573)</td>
-<td>(0,562)</td>
-<td>(0,602)</td>
-</tr>
-<tr>
-<td>7,94(5/16)</td>
-<td>+0,79 (0,031)</td>
-<td>15,19</td>
-<td>16,15</td>
-<td>16,66</td>
-<td>17,65</td>
-</tr>
-<tr>
-<td>-0,00 (0,000)</td>
-<td>(0,598)</td>
-<td>(0,636)</td>
-<td>(0,656)</td>
-<td>(0,695)</td>
-</tr>
-<tr>
-<td>9,53(3/8)</td>
-<td>±0,58 (0,023)</td>
-<td>18,26</td>
-<td>19,84</td>
-<td>18,26</td>
-<td>19,84</td>
-</tr>
-<tr>
-<td></td>
-<td>(0,719)</td>
-<td>(0,781)</td>
-<td>(0,719)</td>
-<td>(0,781)</td>
-</tr>
-<tr>
-<td>10,32(13/32)</td>
-<td>+0,79 (0,031)</td>
-<td>18,14</td>
-<td>19,30</td>
-<td>18,85</td>
-<td>20,04</td>
-</tr>
-<tr>
-<td>-0,00 (0,000)</td>
-<td>(0,714)</td>
-<td>(0,760)</td>
-<td>(0,742)</td>
-<td>(0,789)</td>
-</tr>
-<tr>
-<td>12,7(1/2)</td>
-<td>+0,99 (0,039)</td>
-<td>20,52</td>
-<td>21,69</td>
-<td>22,81</td>
-<td>24,00</td>
-</tr>
-<tr>
-<td>-0,00 (0,000)</td>
-<td>(0,808)</td>
-<td>(0,854)</td>
-<td>(0,898)</td>
-<td>(0,945)</td>
-</tr>
-<tr>
-<td>15,88(5/8)</td>
-<td>+1,07 (0,042)</td>
-<td>23,70</td>
-<td>24,87</td>
-<td>26,77</td>
-<td>27,97</td>
-</tr>
-<tr>
-<td>-0,00 (0,000)</td>
-<td>(0,933)</td>
-<td>(0,979)</td>
-<td>(1,054)</td>
-<td>(1,101)</td>
-</tr>
-<tr>
-<td>12,7(1/2)</td>
-<td>±0,79 (0,031)</td>
-<td>21,44</td>
-<td>23,01</td>
-<td>21,44</td>
-<td>23,01</td>
-</tr>
-<tr>
-<td>spécial</td>
-<td></td>
-<td>(0,844)</td>
-<td>(0,906)</td>
-<td>(0,844)</td>
-<td>(0.906)</td>
-</tr>
-</table>
-
-#### TABLEAU III
-<table>
-<h4>Diamètres des boyaux de frein à air comprimé et rayons des cylindres d’essai</h4>
-<tr>
-<td>Diamètres nominaux des</td>
-<td>3,18</td>
-<td>4,76</td>
-<td>6,35</td>
-<td>7,94</td>
-<td>9,53</td>
-<td>10,32</td>
-<td>11,11</td>
-<td>12,7</td>
-<td>15,88</td>
-</tr>
-<tr>
-<td>boyaux, en mm (po)</td>
-<td>(1/8)</td>
-<td>(3/16)</td>
-<td>(1/4)</td>
-<td>(5/16)</td>
-<td>(3/8)</td>
-<td>(13/32)</td>
-<td>(7/16)</td>
-<td>(1/2)</td>
-<td>(5/8)</td>
-</tr>
-<tr>
-<td>Rayons des cylindres</td>
-<td>38,10</td>
-<td>50,8</td>
-<td>63,5</td>
-<td>76,2</td>
-<td>88,9</td>
-<td>88,9</td>
-<td>101,6</td>
-<td>101,6</td>
-<td>114,30</td>
-</tr>
-<tr>
-<td>d’essai, en mm (po)</td>
-<td>(1½)</td>
-<td>(2)</td>
-<td>(2½)</td>
-<td>(3)</td>
-<td>(3½)</td>
-<td>(3½)</td>
-<td>(4)</td>
-<td>(4)</td>
-<td>(4½)</td>
-</tr>
-</table>
-
-#### TABLEAU IV
-<table>
-<h4>Exigences des essais de boyau de frein à dépression</h4>
-<tr>
-<th></th>
-<th>résistances aux</th>
-<th>résistances aux</th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<th></th>
-<th>températures élevées</th>
-<th>basses températures</th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<th>diamètres intérieurs de boyau, en mm (po)</th>
-<th>longueurs de boyau en mm (po)</th>
-<th>rayons de cylindres, en mm (po)</th>
-<th>longueurs de boyau en mm (po)</th>
-<th>rayons de cylindres, en mm (po)</th>
-<th>flexions (dimensions d) en mm (po)</th>
-<th>flambages maximums du diamètre extérieur, en mm (po)</th>
-<th>diamètre intérieur de boyau, comprimé, en mm (po)</th>
-</tr>
-<tr>
-<th></th>
-</tr>
-<tr>
-<td>5,56 ( 7/32)</td>
-<td>203,2  (8)</td>
-<td>38,10 (1 1/2)</td>
-<td>444,5 (17 1/2)</td>
-<td>76,2 (3      )</td>
-<td>177,8 ( 7)</td>
-<td>4,37 (11/64)</td>
-<td>1,19 (3/64)</td>
-</tr>
-<tr>
-<td>6,35 ( 1/4 )</td>
-<td>228,6  (9)</td>
-<td>38,10 (1 1/2)</td>
-<td>444,5 (17 1/2)</td>
-<td>76,2 (3      )</td>
-<td>203,2 ( 8)</td>
-<td>2,38 ( 3/32)</td>
-<td>1,59 (1/16)</td>
-</tr>
-<tr>
-<td>7,14 ( 9/32)</td>
-<td>228,6  (9)</td>
-<td>44,45 (1 3/4)</td>
-<td>482,6 (19      )</td>
-<td>88,9 (3 1/2)</td>
-<td>228,6 ( 9)</td>
-<td>4,76 ( 3/16)</td>
-<td>1,59 (1/16)</td>
-</tr>
-<tr>
-<td>8,73 (11/32)</td>
-<td>228,6  (9)</td>
-<td>44,45 (1 3/4)</td>
-<td>482,6 (19      )</td>
-<td>88,9 (3 1/2)</td>
-<td>279,4 (11)</td>
-<td>5,16 (13/64)</td>
-<td>1,98 (5/64)</td>
-</tr>
-<tr>
-<td>9,53 ( 3/8 )</td>
-<td>254,0 (10)</td>
-<td>44,45 (1 3/4)</td>
-<td>482,6 (19      )</td>
-<td>88,9 (3 1/2)</td>
-<td>304,8 (12)</td>
-<td>3,97 ( 5/32)</td>
-<td>2,38 (3/32)</td>
-</tr>
-<tr>
-<td>11,11 ( 7/16)</td>
-<td>279,4 (11)</td>
-<td>50,80 (2      )</td>
-<td>520,7 (20 1/2)</td>
-<td>101,6 (4      )</td>
-<td>355,6 (14)</td>
-<td>6,75 (17/64)</td>
-<td>1,98 (5/64)</td>
-</tr>
-<tr>
-<td>11,91 (15/32)</td>
-<td>279,4 (11)</td>
-<td>50,80 (2      )</td>
-<td>520,7 (20 1/2)</td>
-<td>101,6 (4      )</td>
-<td>355,6 (14)</td>
-<td>6,75 (17/64)</td>
-<td>1,98 (5/64)</td>
-</tr>
-<tr>
-<td>12,7 ( 1/2 )</td>
-<td>279,4 (11)</td>
-<td>50,80 (2      )</td>
-<td>520,7 (20 1/2)</td>
-<td>101,6 (4      )</td>
-<td>406,4 (16)</td>
-<td>5,56 ( 7/32)</td>
-<td>3,18 (1/8 )</td>
-</tr>
-<tr>
-<td>15,88 ( 5/8 )</td>
-<td>304,8 (12)</td>
-<td>57,15 (2 1/4)</td>
-<td>558,8 (22      )</td>
-<td>114,3 (4 1/2)</td>
-<td>558,8 (22)</td>
-<td>5,56 ( 7/32)</td>
-<td>3,97 (5/32)</td>
-</tr>
-<tr>
-<td>19,05 ( 3/4 )</td>
-<td>355,6 (14)</td>
-<td>63,50 (2 1/2)</td>
-<td>609,6 (24      )</td>
-<td>127,0 (5      )</td>
-<td>711,2 (28)</td>
-<td>5,56 ( 7/32)</td>
-<td>4,76 (3/16)</td>
-</tr>
-<tr>
-<td>25,4 ( 1,0 )</td>
-<td>406,4 (16)</td>
-<td>82,55 (3 1/4)</td>
-<td>723,9 (28 1/2)</td>
-<td>165,1 (6 1/2)</td>
-<td>914,4 (36)</td>
-<td>7,14 ( 9/32)</td>
-<td>6,35 (1/4 )</td>
-</tr>
-</table>
-
-#### TABLEAU V
-<table>
-<h4>Méthodes d’essai des boyaux de frein</h4>
-<tr>
-<th>ESSAI</th>
-<th>*Méthode*
-
-*d’essai*
-
-</th>
-<th>*Exigences*
-
-*NSVAC 106*
-
-</th>
-</tr>
-<tr>
-<th></th>
+<th>Article</th>
+<th>Colonne 1</th>
+<th>Colonne 2</th>
 </tr>
 <tr>
 <td>1</td>
-<td>BOYAUX DE FREIN HYDRAULIQUE</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>(1)</td>
-<td>Constriction</td>
-<td></td>
-<td>(11) a)</td>
-</tr>
-<tr>
-<td></td>
-<td>(2)</td>
-<td>Dilatation et résistance à l’éclatement</td>
-<td>3.1, 3.2</td>
-<td>(11) b)</td>
-</tr>
-<tr>
-<td></td>
-<td>(3)</td>
-<td>Résistance au fouettement</td>
-<td>3.3</td>
-<td>(11) c)</td>
-</tr>
-<tr>
-<td></td>
-<td>(4)</td>
-<td>Résistance à la traction</td>
-<td>3.4</td>
-<td>(11) d)</td>
-</tr>
-<tr>
-<td></td>
-<td>(5)</td>
-<td>Absorption d’eau et résistance à l’éclatement</td>
-<td>3.5</td>
-<td>(11) e)</td>
-</tr>
-<tr>
-<td></td>
-<td>(6)</td>
-<td>Absorption d’eau et résistance à la traction</td>
-<td>3.5</td>
-<td>(11) f)</td>
-</tr>
-<tr>
-<td></td>
-<td>(7)</td>
-<td>Absorption d’eau et résistance au fouettement</td>
-<td>3.5</td>
-<td>(11) g)</td>
-</tr>
-<tr>
-<td></td>
-<td>(8)</td>
-<td>Résistance aux basses températures et souplesse</td>
-<td>3.6</td>
-<td>(9) a)</td>
-</tr>
-<tr>
-<td></td>
-<td>(9)</td>
-<td>Compatibilité avec les liquides pour freins, constriction et résistance à l’éclatement</td>
-<td>3.7</td>
-<td>(11) h)</td>
-</tr>
-<tr>
-<td></td>
-<td>(10)</td>
-<td>Résistance à l’ozone</td>
-<td>3.8</td>
-<td>(9) b)</td>
-</tr>
-<tr>
-<td></td>
-<td>(11)</td>
-<td>Résistance à la corrosion des raccords d’extrémité</td>
-<td>3.9</td>
-<td>(10)</td>
+<td>Norme B 117 – 64 de l’ASTM, Salt Spray (Fog) Testing</td>
+<td>Norme B 117 – 03 de l’ASTM, Standard Practice for Operating Salt Spray (Fog) Apparatus</td>
 </tr>
 <tr>
 <td>2</td>
-<td>BOYAUX DE FREIN À AIR COMPRIMÉ</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>(1)</td>
-<td>Constriction</td>
-<td></td>
-<td>(20) a)</td>
-</tr>
-<tr>
-<td></td>
-<td>(2)</td>
-<td>Résistance aux hautes températures</td>
-<td>4.1</td>
-<td>(18) a)</td>
-</tr>
-<tr>
-<td></td>
-<td>(3)</td>
-<td>Résistance aux basses températures</td>
-<td>4.2</td>
-<td>(18) b)</td>
-</tr>
-<tr>
-<td></td>
-<td>(4)</td>
-<td>Résistance à l’huile</td>
-<td>4.3</td>
-<td>(18) c)</td>
-</tr>
-<tr>
-<td></td>
-<td>(5)</td>
-<td>Résistance à l’ozone</td>
-<td>4.4</td>
-<td>(18) d)</td>
-</tr>
-<tr>
-<td></td>
-<td>(6)</td>
-<td>Variation de longueur</td>
-<td>4.5</td>
-<td>(18) e)</td>
-</tr>
-<tr>
-<td></td>
-<td>(7)</td>
-<td>Adhérence</td>
-<td>4.6</td>
-<td>(18) f)</td>
-</tr>
-<tr>
-<td></td>
-<td>(8)</td>
-<td>Pression d’air</td>
-<td>4.7</td>
-<td>(20) b)</td>
-</tr>
-<tr>
-<td></td>
-<td>(9)</td>
-<td>Résistance à l’éclatement</td>
-<td>4.8</td>
-<td>(20) c)</td>
-</tr>
-<tr>
-<td></td>
-<td>(10)</td>
-<td>Résistance à la traction</td>
-<td>4.9</td>
-<td>(20) d), e)</td>
-</tr>
-<tr>
-<td></td>
-<td>(11)</td>
-<td>Absorption d’eau et résistance à la traction</td>
-<td>4.10</td>
-<td>(20) f), g)</td>
-</tr>
-<tr>
-<td></td>
-<td>(12)</td>
-<td>Résistance au chlorure de zinc</td>
-<td>4.11</td>
-<td>(18) g)</td>
-</tr>
-<tr>
-<td></td>
-<td>(13)</td>
-<td>Résistance à la corrosion des raccords d’extrémité</td>
-<td>4.12</td>
-<td>(19)</td>
-</tr>
-<tr>
-<td></td>
-<td>(14)</td>
-<td>Canalisation spiralée en nylon</td>
-<td></td>
-<td>(21)</td>
+<td>Norme D 471 – 64 de l’ASTM, Method of Test for Change in Properties of Elastomeric Vulcanizers Resulting From Immersion in Liquids</td>
+<td>Norme D 471 – 06 de l’ASTM, Standard Test Method for Rubber Property  —  Effect of Liquids</td>
 </tr>
 <tr>
 <td>3</td>
-<td>BOYAUX DE FREIN À DÉPRESSION</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>(1)</td>
-<td>Constriction</td>
-<td></td>
-<td>(31)</td>
-</tr>
-<tr>
-<td></td>
-<td>(2)</td>
-<td>Résistance aux hautes températures</td>
-<td>5.1</td>
-<td>(27) a)</td>
-</tr>
-<tr>
-<td></td>
-<td>(3)</td>
-<td>Résistance aux basses températures</td>
-<td>5.2</td>
-<td>(27) b)</td>
-</tr>
-<tr>
-<td></td>
-<td>(4)</td>
-<td>Résistance à l’ozone</td>
-<td>5.3</td>
-<td>(27) c)</td>
-</tr>
-<tr>
-<td></td>
-<td>(5)</td>
-<td>Résistance à l’éclatement</td>
-<td>5.4</td>
-<td>(27) d)</td>
-</tr>
-<tr>
-<td></td>
-<td>(6)</td>
-<td>Résistance à la dépression</td>
-<td>5.5</td>
-<td>(27) e)</td>
-</tr>
-<tr>
-<td></td>
-<td>(7)</td>
-<td>Flexion</td>
-<td>5.6</td>
-<td>(27) f)</td>
-</tr>
-<tr>
-<td></td>
-<td>(8)</td>
-<td>Renflement</td>
-<td>5.7</td>
-<td>(27) g)</td>
-</tr>
-<tr>
-<td></td>
-<td>(9)</td>
-<td>Adhérence</td>
-<td>5.8</td>
-<td>(27) h)</td>
-</tr>
-<tr>
-<td></td>
-<td>(10)</td>
-<td>Déformation</td>
-<td>5.9</td>
-<td>(27) i), (28), (29)</td>
-</tr>
-<tr>
-<td></td>
-<td>(11)</td>
-<td>Résistance à la corrosion des raccords d’extrémité</td>
-<td>5.10</td>
-<td>(30)</td>
+<td>Norme E 4 – 64 de l’ASTM, Methods of Verification of Testing Machines</td>
+<td>Norme E 4 – 07 de l’ASTM, Standard Practices for Force Verification of Testing Machines</td>
 </tr>
 </table>
 
 
 
 
+**(3)** Le présent article cesse d’avoir effet le 1<sup>er</sup> janvier 2012.
 
->  DORS/79-677, art. 3; DORS/79-907, art. 1; DORS/93-561, art. 4; DORS/97-421, art. 16..
+
+
+
+> DORS/79-677, art. 3; DORS/79-907, art. 1; DORS/93-561, art. 4; DORS/97-421, art. 16; DORS/2007-180, art. 6..
 
 **107** [Abrogé, DORS/96-437, art. 2]
 
@@ -7586,550 +6416,102 @@ Système d’immobilisation
 >  DORS/79-940, art. 7; DORS/82-753, art. 3; DORS/87-660, art. 5; DORS/88-268, art. 7; DORS/88-535, art. 1; DORS/92-545, art. 3; DORS/94-670, art. 2(F); DORS/97-532, art. 3; DORS/2000-182, art. 7; DORS/2000-241, art. 1; DORS/2000-304, art. 5; DORS/2002-55, art. 14; DORS/2003-272, art. 15; DORS/2004-250, art. 3; DORS/2006-94, art. 4(A)..
 
 
-### Liquides pour freins hydrauliques
+### Liquides de frein pour véhicules automobiles (Norme 116)
 > [DORS/93-561, art. 5; DORS/97-421, art. 7(F)]
 
 
 
 **116** 
 
-**(1)** Chaque circuit de freins hydrauliques d’un véhicule doit contenir
+**(1)** Le système de freinage hydraulique d’un véhicule doit contenir du liquide de frein conforme aux exigences du Document de normes techniques nº 116 — Liquides de frein pour véhicules automobiles (DNT 116), avec ses modifications successives.
 
-**a)** un liquide pour freins de la catégorie DOT 3, DOT 4 ou DOT 5; ou
 
 
-
-**b)** une huile minérale pour système hydraulique.
-
-
-
-
-
-**(2)** Le liquide pour freins de catégorie DOT 3 est un liquide pour freins qui satisfait aux exigences énoncées au paragraphe (5) et qui, lorsqu’il est mis à l’essai selon les Méthodes d’essai de sécurité des véhicules automobiles, article 116, « Liquides pour freins hydrauliques », présente :
-
-**a)** un ERBP d’au moins 205 °C (401 °F);
-
-
-
-**b)** un ERBP humide d’au moins 140 °C (284 °F); et
-
-
-
-**c)** une viscosité cinématique, en mm<sup>2</sup>/s,
-
-**(i)** d’une valeur maximale de 1 500 mm<sup>2</sup>/s à -40 °C (-40 °F), et
-
-
-
-**(ii)** d’une valeur minimale de 1,5 mm<sup>2</sup>/s à 100 °C (212 °F).
-
-
-
-
-
-
-
-**(3)** Le liquide pour freins de catégorie DOT 4 est un liquide pour freins qui satisfait aux exigences énoncées au paragraphe (5) et qui, lorsqu’il est mis à l’essai selon les Méthodes d’essai de sécurité des véhicules automobiles, article 116, « Liquides pour freins hydrauliques », présente :
-
-**a)** un ERBP d’au moins 230 °C (446 °F);
-
-
-
-**b)** un ERBP humide d’au moins 155 °C (311 °F); et
-
-
-
-**c)** une viscosité cinématique, en mm<sup>2</sup>/s,
-
-**(i)** d’une valeur maximale de 1 800 mm<sup>2</sup>/s à -40 °C (-40 °F), et
-
-
-
-**(ii)** d’une valeur minimale de 1,5 mm<sup>2</sup>/s à 100 °C (212 °F).
-
-
-
-
-
-
-
-**(4)** Les liquides pour freins des catégories DOT 5 et DOT 5.1 sont des liquides pour freins qui satisfont aux exigences énoncées aux paragraphes (6) et (5) respectivement et qui, lorsqu’ils sont mis à l’essai selon les Méthodes d’essai de sécurité des véhicules automobiles, article 116, « Liquides pour freins hydrauliques », présentent :
-
-**a)** un ERBP d’au moins 260 °C (500 °F);
-
-
-
-**b)** un ERBP humide d’au moins 180 °C (356 °F); et
-
-
-
-**c)** une viscosité cinématique, en mm<sup>2</sup>/s,
-
-**(i)** d’une valeur maximale de 900 mm<sup>2</sup>/s à -40 °C (-40 °F), et
-
-
-
-**(ii)** d’une valeur minimale de 1,5 mm<sup>2</sup>/s à 100 °C (212 °F).
-
-
-
-
-
-
-
-**(5)** Les liquides pour freins des catégories DOT 3, DOT 4 et DOT 5.1 lorsqu’ils sont mis à l’essai selon les Méthodes d’essai de sécurité des véhicules automobiles, article 116, « Liquides pour freins hydrauliques » :
-
-**a)** doivent avoir un pH d’au moins 7 ou d’au plus 11,5;
-
-
-
-**b)** doivent avoir une stabilité à haute température telle que l’ERBP ne varie pas de plus de 3 °C (5,4 °F) plus 0,05 °C (0,09 °F) par degré d’ERBP dépassant 225 °C (437 °F);
-
-
-
-**c)** doivent avoir une stabilité chimique telle que l’ERBP du mélange liquide ne varie pas de plus de 3 °C (5,4 °F) plus 0,05 °C (0,09 °F) par degré du ERBP du mélange au-delà de 225 °C (437 °F);
-
-
-
-**d)** en ce qui concerne la corrosion, ne doivent pas, à la fin de l’essai,
-
-**(i)** dans le cas des divers types d’éprouvettes métalliques,
-
-**(A)** causer de variations de poids des éprouvettes métalliques supérieures à celles qui sont indiquées dans le tableau I du présent article,
-
-
-
-**(B)** causer de piqûres ni de corrosion visibles à l’oeil nu sur l’éprouvette métallique, à l’exclusion de la surface de contact de 13 ± 1 mm (1/2 ± 1/32 de po) mesurée à partir de l’extrémité trouée de l’éprouvette, ni
-
-
-
-**(C)** former de dépôt cristallin à la surface de l’éprouvette métallique ou sur la paroi du flacon en verre,
-
-
-
-
-
-**(ii)** dans le cas d’un mélange eau-liquide pour freins,
-
-**(A)** causer de gélification à 23 ± 5 °C (73,4 ± 9 °F),
-
-
-
-**(B)** causer un pourcentage de sédimentation qui soit supérieur à 0,10 pour cent en volume, ni
-
-
-
-**(C)** avoir un pH inférieur à 7 ou supérieur à 11,5, et
-
-
-
-
-
-**(iii)** dans le cas des coupelles en caoutchouc,
-
-**(A)** causer de désintégration des coupelles se traduisant par la formation d’ampoules ou l’encrassement,
-
-
-
-**(B)** réduire la dureté des coupelles de plus de 15 IRHD, ni
-
-
-
-**(C)** augmenter le diamètre de la base des coupelles de plus de 1,4 mm (0,055 po);
-
-
-
-
-
-
-
-**e)** en ce qui concerne la fluidité et l’aspect après vieillissement à la température et pendant la durée données au tableau II du présent article,
-
-**(i)** ne doivent pas montrer des traces de dépôts de boues, de cristallisation, de stratification ni de sédimentation,
-
-
-
-**(ii)** après inversion du flacon d’essai, doivent permettre à la bulle d’air de remonter à la surface du liquide en un laps de temps inférieur ou égal au temps maximal de remontée de la bulle d’air spécifié au tableau II du présent article, et
-
-
-
-**(iii)** après avoir été réchauffés jusqu’à la température ambiante, doivent avoir le même aspect et la même fluidité qu’ils avaient avant qu’ils ne soient refroidis;
-
-
-
-
-
-**f)** en ce qui concerne l’évaporation
-
-**(i)** ne doivent pas perdre plus de 80 pour cent de leur poids,
-
-
-
-**(ii)** ne doivent pas présenter, après évaporation, de résidu qui demeure graveleux ou abrasif au toucher, et
-
-
-
-**(iii)** doivent avoir un point d’écoulement du résidu inférieur à -5 °C (+23 °F);
-
-
-
-
-
-**g)** en ce qui concerne la réaction à l’eau,
-
-**(i)** à -40 °C (-40 °F)
-
-**(A)** ne doivent pas montrer des traces de stratification, de sédimentation, de dépôts de boues ou de cristallisation,
-
-
-
-**(B)** après inversion du tube de centrifugation, doivent permettre à la bulle d’air de remonter à la surface du liquide en 10 secondes au maximum, et
-
-
-
-**(C)** si les liquides sont devenus troubles, ils doivent retrouver leur aspect et leur liquidité primitifs et,
-
-
-
-
-
-**(ii)** à 60 °C (140 °F), ne doivent pas montrer
-
-**(A)** de stratification, ni
-
-
-
-**(B)** de sédimentation de plus de 0,15 pour cent en volume, après centrifugation;
-
-
-
-
-
-
-
-**h)** en ce qui concerne la miscibilité,
-
-**(i)** à -40 °C (-40 °F), ne doivent pas montrer des traces de stratification, de sédimentation, de dépôts de boues ou de cristallisation, et
-
-
-
-**(ii)** à 60 °C (140 °F), ne doivent pas montrer
-
-**(A)** de stratification, ni
-
-
-
-**(B)** de sédimentation de plus de 0,05 pour cent en volume, après centrifugation;
-
-
-
-
-
-
-
-**i)** en ce qui concerne la résistance à l’oxydation,
-
-**(i)** ne doivent pas causer de piqûres ni de corrosion visibles à l’oeil nu sur les éprouvettes métalliques, à l’exclusion des surfaces en contact avec les feuilles d’étain,
-
-
-
-**(ii)** ne doivent pas déposer plus qu’une trace de gomme sur les éprouvettes, à l’exclusion des surfaces en contact avec les feuilles d’étain,
-
-
-
-**(iii)** ne doivent pas causer une variation du poids des éprouvettes d’aluminium qui soit supérieure à 0,5 g/m<sup>2</sup>, et
-
-
-
-**(iv)** ne doivent pas causer une variation du poids des éprouvettes de fonte qui soit supérieure à 3,0 g/m<sup>2</sup>;
-
-
-
-
-
-**j)** en ce qui concerne les effets produits par le liquide pour freins sur les coupelles de frein en caoutchouc,
-
-**(i)** doivent augmenter le diamètre de la base des coupelles d’au plus 1,40 mm (0,055 po) et d’au moins 0,15 mm (0,006 po),
-
-
-
-**(ii)** ne doivent pas réduire la dureté des coupelles de plus de 10 IRHD à 70 °C (158 °F) ni de plus de 15 IRHD à 120 °C (248 °F),
-
-
-
-**(iii)** ne doivent pas augmenter la dureté des coupelles, et
-
-
-
-**(iv)** ne doivent pas causer de désintégration des coupelles se traduisant par le gommage, la formation d’ampoules ou l’encrassement; et
-
-
-
-
-
-**k)** en ce qui concerne les caractéristiques de mouvement,
-
-**(i)** ne doivent pas causer de piqûres ni de corrosion visibles à l’oeil nu sur les parties métalliques du dispositif d’essai,
-
-
-
-**(ii)** ne doivent pas faire varier le diamètre à un cylindre ou piston de plus de 0,13 mm (0,005 po),
-
-
-
-**(iii)** ne doivent pas causer une diminution moyenne de la dureté de 7 des 8 coupelles de frein en caoutchouc essayées (6 coupelles de cylindre de roue et 1 coupelle primaire de maître cylindre) qui soit supérieure à 15 IRHD, ni une diminution de dureté de plus d’une des 7 coupelles qui soit supérieure à 17 IRHD,
-
-
-
-**(iv)** ne doivent pas causer, dans les 8 coupelles de frein en caoutchouc essayées, un mauvais état de fonctionnement se traduisant par le gommage, l’éraflement, la formation d’ampoules, le fendillement, l’ébrèchement ou tout autre changement anormal de forme par rapport à leur aspect d’origine,
-
-
-
-**(v)** ne doivent pas augmenter le diamètre de chacune des 8 coupelles de frein en caoutchouc essayées de plus de 0,9 mm (0,035 po),
-
-
-
-**(vi)** ne doivent pas causer une déformation du diamètre de lèvre de chacune des 8 coupelles de frein en caoutchouc essayées qui dépasse en moyenne 65 pour cent,
-
-
-
-**(vii)** ne doivent pas perdre en volume plus de 36 ml pendant n’importe quelle période de 24 000 cycles,
-
-
-
-**(viii)** ne doivent pas causer le gel ni le mauvais fonctionnement des pistons des cylindres au cours de l’essai,
-
-
-
-**(ix)** ne doivent pas perdre au total plus de 36 ml pendant les 100 derniers cycles de l’essai,
-
-
-
-**(x)** ne doivent pas contenir de gelée à la fin de l’essai,
-
-
-
-**(xi)** ne doivent pas montrer, à la fin de l’essai, de sédimentation qui soit supérieure à 1,5 pour cent en volume, et
-
-
-
-**(xii)** ne doivent pas causer la formation dans les cylindres de freins de dépôts abrasifs ou qui ne peuvent être enlevés par frottement modéré à l’aide d’un chiffon non pelucheux imbibé d’éthanol.
-
-
-
-
-
-
-
-**(6)** Le liquide pour freins de catégorie DOT 5, lorsqu’il est mis à l’essai selon les Méthodes d’essai de sécurité des véhicules automobiles, article 116, « Liquides pour freins hydrauliques », doit satisfaire aux exigences énoncées au paragraphe (5), à l’exception de ce qui suit :
-
-**a)** les prescriptions des alinéas (5)a) et c), de la disposition (5)d)(ii)(C), de la disposition (5)h)(ii)(A); et
-
-
-
-**b)** celles du sous-alinéa (5)h)(i) portant sur la stratification.
-
-
-
-
-
-**(7)** Le liquide pour freins doit être :
-
-**a)** incolore à ambré, s’il est de catégories DOT 3, DOT 4 ou DOT 5.1;
-
-
-
-**b)** violet, s’il est de catégorie DOT 5.
-
-
-
-
-
-**(8)** L’huile minérale pour système hydraulique doit être verte.
-
-
-
-
-#### TABLEAU I
+**(2)** Toute mention dans le DNT 116 d’une norme publiée par l’ASTM qui figure à la colonne 1 du tableau du présent paragraphe vaut mention de la norme indiquée en regard de cette norme à la colonne 2.
+#### TABLEAU
 <table>
 <tr>
-<th></th>
-<th>Variation de poids maximale autorisée,</th>
+<th>Article</th>
+<th>Colonne 1</th>
+<th>Colonne 2</th>
 </tr>
 <tr>
-<th>Métal des éprouvettes</th>
-<th>en g/m<sup>2</sup> de surface</th>
-</tr>
-<tr>
-<th></th>
-</tr>
-<tr>
-<td>Acier, fer étamé, fonte </td>
-<td>2</td>
-</tr>
-<tr>
-<td>Aluminium </td>
 <td>1</td>
+<td>Norme D 445 – 65 de l’ASTM, Viscosity of Transparent and Opaque Liquids (Kinematic and Dynamic Viscosities)</td>
+<td>Norme D 445 – 06 de l’ASTM, Standard Test Method for Kinematic Viscosity of Transparent and Opaque Liquids (and Calculation of Dynamic Viscosity)</td>
 </tr>
 <tr>
-<td>Laiton, cuivre </td>
+<td>2</td>
+<td>Norme D 1121 – 67 de l’ASTM, Standard Method of Test for Reserve Alkalinity of Engine Antifreezes and Antirusts</td>
+<td>Norme D 1287 – 91 (approuvée de nouveau en 2002) de l’ASTM, Standard Test Method for pH of Engine Coolants and Antirusts</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Norme D 112 – 59 de l’ASTM, Standard Method of Test for Water in Concentrated Engine Antifreezes by the Iodine Reagent Method</td>
+<td>Norme D 1123 – 99 (approuvée de nouveau en 2003) de l’ASTM, Standard Test Methods for Water in Engine Coolant Concentrate by the Karl Fischer Reagent Method</td>
+</tr>
+<tr>
 <td>4</td>
-</tr>
-</table>
-
-#### TABLEAU II
-<table>
-<h4>Fluidité et aspect à basse température</h4>
-<tr>
-<th></th>
-<th>Temps de</th>
-<th>Temps maximal de remontée</th>
+<td>Norme D 1193 – 70 de l’ASTM, Standard Specifications for Reagent Water</td>
+<td>Norme D 1193 – 99<sup>ε1</sup> de l’ASTM, Standard Specification for Reagent Water</td>
 </tr>
 <tr>
-<th>Température de</th>
-<th>vieillissement</th>
-<th>de la bulle d’air</th>
+<td>5</td>
+<td>Norme D 1415 – 68 de l’ASTM, Standard Method of Test for International Hardness of Vulcanized Natural and Synthetic Rubbers</td>
+<td>Norme D 1415 – 06 de l’ASTM, Standard Test Method for Rubber Property  —  International Hardness</td>
 </tr>
 <tr>
-<th>vieillissement</th>
-<th>(en heures)</th>
-<th>(en secondes)</th>
+<td>6</td>
+<td>Norme D 2515 – 66 de l’ASTM, Standard Specification for Kinematic Glass Viscometers</td>
+<td>Norme D 446 – 06 de l’ASTM, Standard Specifications and Operating Instructions for Glass Capillary Kinematic Viscometers</td>
 </tr>
 <tr>
-<th></th>
+<td>7</td>
+<td>Norme E 1 – 68 de l’ASTM, Specifications for ASTM Thermometers</td>
+<td>Norme E 1 – 05 de l’ASTM, Standard Specification for ASTM Liquid-in-Glass Thermometers</td>
 </tr>
 <tr>
-<td>Moins 40 ± 2 °C</td>
-<td>144 ± 4,0</td>
-<td>10</td>
+<td>8</td>
+<td>Norme E 77 – 66 de l’ASTM, Verification and Calibration of Liquid-in-Glass Thermometers</td>
+<td>Norme E 77 – 98 (approuvée de nouveau en 2003) de l’ASTM, Standard Test Method for Inspection and Verification of Thermometers</td>
 </tr>
 <tr>
-<td>(Moins 40 ± 3,6 °F)</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Moins 50 ± 2 °C</td>
-<td>6 ± 0,2</td>
-<td>35</td>
-</tr>
-<tr>
-<td>(Moins 58 ± 3,6 °F)</td>
-<td></td>
-<td></td>
+<td>9</td>
+<td>Norme E 298 – 68 de l’ASTM, Standard Methods for Assay of Organic Peroxides</td>
+<td>Norme E 298 – 01 de l’ASTM, Standard Test Methods for Assay of Organic Peroxides</td>
 </tr>
 </table>
 
 
 
 
+**(3)** Le présent article cesse d’avoir effet le 1<sup>er</sup> janvier 2012.
 
->  DORS/79-940, art. 7; DORS/93-561, art. 6; DORS/97-421, art. 21(F)..
 
 
-### Fenêtres, séparations et panneaux du pavillon à servocommande
+
+> DORS/79-940, art. 7; DORS/93-561, art. 6; DORS/97-421, art. 21(F); DORS/2007-180, art. 7..
+
+
+### Systèmes de glace, de séparation et de toit ouvrant à commande électrique (Norme 118)
 
 
 **118** 
 
-**(1)** La fenêtre ou la séparation à servocommande ou le panneau du pavillon à servocommande d’une motocyclette à habitacle fermé, d’une voiture de tourisme, d’un véhicule à trois roues, d’un véhicule de tourisme à usages multiples ou d’un camion qui ont un PNBV d’au plus 4 536 kg ne peuvent se fermer que dans l’un ou l’autre des cas suivants :
+**(1)** Les systèmes de glace, de séparation et de toit ouvrant à commande électrique installés sur les voitures de tourisme, les véhicules à trois roues, les motocyclettes à habitacle fermé ou les véhicules de tourisme à usages multiples ou les camions d’un PNBV d’au plus 4 536 kg doivent être conformes aux exigences du Document de normes techniques nº 118 — Systèmes de glace, de séparation et de toit ouvrant à commande électrique (DNT 118), avec ses modifications successives.
 
-**a)** le commutateur d’allumage se trouve en position de fonctionnement « ON », de démarrage « START » ou d’accessoire « ACCESSORY »;
 
 
+**(2)** Cependant, les véhicules construits avant le 1<sup>er</sup> octobre 2010 n’ont pas à être conformes aux exigences de la disposition S6 du DNT 118.
 
-**b)** une force musculaire est appliquée sans l’aide d’une source d’énergie provenant du véhicule;
 
 
+**(3)** Le présent article cesse d’avoir effet le 1<sup>er</sup> janvier 2012.
 
-**c)** un système de verrouillage est actionné sur l’extérieur du véhicule;
 
 
 
-**d)** entre le moment où le commutateur d’allumage est mise en position d’arrêt « OFF » et le moment où une portière avant du véhicule est suffisamment ouverte pour permettre à une personne de descendre;
-
-
-
-**e)** une télécommande est actionnée;
-
-
-
-**f)** dans le cas d’une fenêtre, d’une séparation ou d’un panneau conçus pour se fermer automatiquement, l’ouverture de la fenêtre, de la séparation ou du panneau n’est pas suffisamment grande pour permettre le passage, de la façon décrite au paragraphe (3), d’une tige cylindrique semi-rigide de 4 mm de diamètre;
-
-
-
-**g)** la fenêtre, la séparation ou le panneau est muni d’un dispositif de renversement automatique.
-
-
-
-
-
-**(2)** Le dispositif de renversement automatique mentionné à l’alinéa (1)g) doit renverser la direction d’une fenêtre ou d’une séparation à servocommande ou d’un panneau du pavillon à servocommande :
-
-**a)** soit avant que la fenêtre, la séparation ou le panneau touche les tiges cylindriques semi-rigides mentionnées aux paragraphes (3) et (4);
-
-
-
-**b)** soit au moment où la fenêtre, la séparation ou le panneau exerce une force d’écrasement maximale de 100 N sur les tiges cylindriques semi-rigides mentionnées aux paragraphes (3) et (4).
-
-
-
-
-
-**(3)** Aux fins de la mise à l’essai du dispositif de renversement automatique mentionné à l’alinéa (1)g), une tige cylindrique semi-rigide de 4 mm de diamètre doit passer de l’intérieur du véhicule par tout point de l’ouverture laissée par la fenêtre ou la séparation à servocommande ou le panneau du pavillon à servocommande de façon que sa surface soit en contact avec n’importe quelle partie de la structure à laquelle se joint la fenêtre, la séparation ou le panneau.
-
-
-
-**(4)** L’essai décrit au paragraphe (3) doit être répété avec une tige cylindrique semi-rigide de 200 mm de diamètre.
-
-
-
-**(5)** Pour l’application du paragraphe (4), lorsque l’ouverture de la fenêtre ou de la séparation à servocommande ou du panneau du pavillon à servocommande est inférieure à 200 mm, le diamètre de la tige visée à ce paragraphe doit être égal à cette ouverture.
-
-
-
-**(6)** Une fois actionné le dispositif de renversement automatique mentionné à l’alinéa (1)g), la fenêtre ou la séparation à servocommande ou le panneau du pavillon à servocommande doit :
-
-**a)** soit s’ouvrir suffisamment pour permettre le passage d’une tige cylindrique semi-rigide de 200 mm de diamètre;
-
-
-
-**b)** soit retourner à une position qui soit au moins aussi ouverte que la position initiale de la fenêtre, de la séparation ou du panneau avant la fermeture.
-
-
-
-
-
-**(7)** Tout véhicule mentionné au paragraphe (1) doit être muni d’un dispositif à renversement automatique lorsque la fermeture d’une fenêtre ou d’une séparation à servocommande ou d’un panneau du pavillon à servocommande est déclenchée :
-
-**a)** soit par actionnement du système de verrouillage visé à l’alinéa (1)c);
-
-
-
-**b)** soit par une télécommande.
-
-
-
-
-
-**(8)** Malgré l’alinéa (7)b), aucun véhicule mentionné au paragraphe (1) n’a à être muni d’un dispositif de renversement automatique lorsque la fermeture d’une fenêtre ou d’une séparation à servocommande ou d’un panneau du pavillon à servocommande ne peut se faire que si les conditions suivantes sont réunies :
-
-**a)** la télécommande mentionnée à l’alinéa (7)b) est actionnée de façon continue;
-
-
-
-**b)** il n’y a pas d’obstacle entre la télécommande et la fenêtre, la séparation ou le panneau.
-
-
-
-
-
-**(9)** Les tiges cylindriques semi-rigides mentionnées aux paragraphes (3) à (5) doivent avoir un rapport force-déflexion d’au moins 65 N/mm pour une tige d’un diamètre d’au plus 25 mm et d’au moins 20 N/mm pour une tige d’un diamètre supérieur.
-
-
-
-
-> DORS/79-940, art. 7; DORS/86-682, art. 2; DORS/95-164, art. 7; DORS/97-421, art. 8; DORS/98-524, art. 4(F); DORS/2003-272, art. 16; DORS/2006-94, art. 4(A)..
+> DORS/79-940, art. 7; DORS/86-682, art. 2; DORS/95-164, art. 7; DORS/97-421, art. 8; DORS/98-524, art. 4(F); DORS/2003-272, art. 16; DORS/2006-94, art. 4(A); DORS/2007-180, art. 8..
 
 
 ### Choix des pneus et des jantes pour les véhicules autres que les voitures de tourisme
@@ -8441,28 +6823,24 @@ Cessation d’effet
 >  DORS/81-88, art. 3; DORS/88-268, art. 9; DORS/98-524, art. 4(F); DORS/2001-255, art. 1; DORS/2003-272, art. 18; DORS/2005-42, art. 3 et 4..
 
 
-### Commandes et affichages des motocyclettes
-> [DORS/93-31, art. 4]
+### Commandes et affichages des motocyclettes (Norme 123)
+> [DORS/93-31, art. 4; DORS/2007-180, art. 9]
 
 
 
 **123** 
 
-**(1)** [Abrogé, DORS/88-268, art. 10]
+**(1)** Les motocyclettes, sauf celles qui sont conçues pour les services de police et vendues exclusivement pour leur utilisation, doivent être conformes aux exigences du Document de normes techniques nº 123 — Commandes et affichages des motocyclettes (DNT 123), avec ses modifications successives.
 
 
 
-**(2)** Le présent article ne s’applique pas aux motocyclettes conçues pour les services de police et vendues exclusivement à ces services.
-
-
-
-**(3)** Toute motocyclette doit être munie des commandes de pièces d’équipement suivantes :
+**(2)** Toute motocyclette doit être munie des commandes suivantes :
 
 **a)** un avertisseur;
 
 
 
-**b)** une commande de carburant;
+**b)** une vanne de fermeture du réservoir de carburant;
 
 
 
@@ -8470,385 +6848,95 @@ Cessation d’effet
 
 
 
-**d)** une commande supplémentaire d’arrêt du moteur;
+**d)** un frein de la roue avant;
 
 
 
-**e)** un frein de la roue avant;
+**e)** un frein de la roue arrière;
 
 
 
-**f)** un frein de la roue arrière; et
+**f)** un commutateur d’allumage.
 
 
 
-**g)** un commutateur d’allumage, sous réserve du paragraphe (4).
 
 
+**(3)** Le commutateur d’allumage est facultatif dans le cas d’une motocyclette à vitesse limitée.
 
 
 
-**(4)** L’application de l’alinéa (3)g) est facultative dans le cas d’une motocyclette à vitesse limitée.
+**(4)** L’article 12 du tableau 3 du DNT 123 ne s’applique qu’aux vannes de fermeture du réservoir de carburant manuelles.
 
 
 
-**(5)** Lorsqu’une motocyclette est munie d’une commande de pièces d’équipement prévue à la colonne I de l’un des articles du tableau I du présent article, la commande doit être placée selon les indications données à la colonne II de cet article et pouvoir être actionnée à toutes les positions de la commande sans que la main qui actionne celles-ci n’ait à lâcher le guidon, selon les indications données à la colonne III de cet article et, dans le cas des commandes actionnées manuellement, la commande doit être actionnée :
+**(5)** Les commandes ou les affichages qui ne sont pas énumérés au tableau 3 du DNT 123 et pour lesquels aucune autre exigence relative à une forme d’identification ne figure dans le présent règlement doivent, s’ils sont identifiés, être indiqués par le symbole correspondant qui figure dans la norme internationale ISO 6727, intitulée Véhicules routiers — Motocycles — Symboles pour les commandes, indicateurs et témoins, avec ses modifications successives.
 
-**a)** par le conducteur, avec sa main gauche, si elle est placée sur la partie gauche du guidon;
 
 
+**(6)** Les commandes ou les affichages pour lesquels un symbole n’est pas prévu au tableau 3 du DNT 123 ni dans la norme internationale ISO 6727, intitulée Véhicules routiers — Motocycles — Symboles pour les commandes, indicateurs et témoins, avec ses modifications successives, peuvent être indiqués par un symbole conçu par le fabricant en conformité avec les principes précisés dans cette norme.
 
-**b)** par le conducteur, avec sa main droite, si elle est placée sur la partie droite du guidon.
 
 
+**(7)** Le terme « motocycle » qui est employé dans la norme internationale ISO 6727, intitulée Véhicules routiers — Motocycles — Symboles pour les commandes, indicateurs et témoins, avec ses modifications successives, s’entend au sens de « motocyclette » au paragraphe 2(1) du présent règlement.
 
 
 
-**(6)** Lorsqu’une motocyclette équipée d’un embrayage automatique est munie d’une commande supplémentaire de frein arrière, cette commande doit être placée sur la partie gauche du guidon.
+**(8)** Les mots et les abréviations dont l’affichage est exigé en application du présent article doivent être affichés dans les deux langues officielles. Cependant, s’il n’y a pas suffisamment d’espace pour afficher les mots ou les abréviations indiquant le commutateur d’allumage, le compte-tours ou la vanne de fermeture du réservoir de carburant de manière qu’ils soient facilement visibles dans les deux langues officielles, ceux-ci peuvent être affichés dans une seule des langues officielles.
 
 
 
-**(7)** Lorsqu’une motocyclette est munie de dispositifs de freinage auto-compensateurs ou antiblocage à commande unique pour les freins avant et arrière, cette commande doit être placée, et peut être actionnée, de la même manière qu’une commande de frein arrière.
+**(9)** Les symboles et les abréviations utilisés pour indiquer les commandes et les affichages des motocyclettes doivent être reproduits dans les versions anglaise et française du manuel de l’usager et être accompagnés d’une explication complète.
 
 
 
-**(8)** Si une motocyclette est munie d’un compteur de vitesse ou d’un témoin indiquant que la commande de la boîte de vitesses est au point mort, l’affichage correspondant doit être visible à la lumière du jour pour un conducteur assis et :
+**(10)** Malgré les exigences de l’article 8 du tableau 3 du DNT 123, l’indicateur de vitesse installé sur une motocyclette doit être calibré en kilomètres à l’heure ou en kilomètres et en milles à l’heure. Les indicateurs de vitesse numériques qui passent d’une unité de mesure à l’autre sont permis si l’unité de mesure est indiquée.
 
-**a)** dans le cas du compteur de vitesse, être éclairé par un moyen quelconque, lorsque le projecteur est allumé, sauf que, en vertu de l’article 108, le compteur de vitesse peut, au choix du fabricant, ne pas être éclairé le jour;
 
 
+**(11)** Si l’affichage de l’indicateur de vitesse est analogique, l’échelle des kilomètres doit augmenter dans le sens des aiguilles d’une montre. Les gradations et les chiffres importants doivent apparaître à des intervalles de 10 ou 20 kilomètres à l’heure et les gradations moins importantes à des intervalles de 5 ou 10 kilomètres à l’heure.
 
-**b)** dans le cas du témoin, être vert et s’allumer chaque fois que la commande de la boîte de vitesses est au point mort.
 
 
+**(12)** L’odomètre ou le totalisateur partiel installé sur une motocyclette à côté de l’indicateur de vitesse doit afficher les distances dans l’unité de mesure qui prédomine sur l’indicateur de vitesse. Si l’odomètre ou le totalisateur partiel n’est pas placé à côté de l’indicateur de vitesse ou s’il ne passe pas d’une unité de mesure à l’autre en même temps que l’indicateur de vitesse, l’odomètre ou le totalisateur partiel doit afficher les distances en kilomètres ou en milles et indiquer l’unité de mesure utilisée.
 
 
 
-**(9)** Lorsqu’une motocyclette est munie d’une pièce d’équipement visée à la colonne I de l’un des articles du tableau II du présent article :
+**(13)** La disposition S5.2.4 du DNT 123 ne s’applique pas aux tricycles à moteur.
 
-**a)** la commande de cette pièce d’équipement doit être indiquée par les termes ou les lettres correspondants figurant à la colonne II de l’article applicable, ou par le symbole correspondant qui figure dans la norme internationale ISO 6727 de l’Organisation internationale de normalisation, intitulée Véhicules routiers — Motocycles — Symboles pour les commandes, indicateurs et témoins, 1<sup>re</sup> édition, 1981;
 
 
+**(14)** Malgré la disposition S5.2.5 du DNT 123, il n’est pas nécessaire, sur un tricycle à moteur, que le cale-pied prévu pour un passager se rabatte vers l’arrière et vers le haut lorsqu’il n’est pas utilisé.
 
-**b)** la fonction de la commande à chacune de ses positions doit être identifiée selon les indications données dans la colonne III de cet article;
 
 
+**(15)** L’affichage des feux de changement de direction d’une motocyclette doit être vert ou jaune.
 
-**c)** le ou les mots ou les lettres indiqués dans les colonnes II ou III de cet article, ou un symbole visé à l’alinéa a), doivent être inscrits sur la commande ou tout près et, sauf dans le cas d’une commande de carburant, doivent être dans une position verticale lorsque lus par un conducteur assis; et
 
 
+**(16)** Le présent article cesse d’avoir effet le 1<sup>er</sup> janvier 2012.
 
-**d)** les abréviations utilisées dans les colonnes II et III représentent des exigences minimales et les mots auxquels elles correspondent peuvent être inscrits en toutes lettres.
 
 
 
+> DORS/79-306, art. 5; DORS/79-940, art. 7; DORS/82-656, art. 3; DORS/88-268, art. 10; DORS/93-31, art. 5; DORS/94-374, art. 5(F); DORS/95-536, art. 7; DORS/96-366, art. 8; DORS/97-421, art. 10, 11(F), 12(F) et 22(F); DORS/98-524, art. 4(F); DORS/2003-272, art. 19; DORS/2007-180, art. 10..
 
 
-**(10)** La béquille d’une motocyclette doit se rabattre automatiquement vers l’arrière et vers le haut si elle touche le sol pendant que la motocyclette se déplace vers l’avant.
-
-
-
-**(11)** Des cale-pieds doivent être installés à chaque place assise désignée sur les motocyclettes.
-
-
-
-**(11.1)** Sur les motocyclettes, autres que les tricycles à moteur, les cale-pieds installés à une place assise désignée pour passager, autre que celle du conducteur, doivent se rabattre vers l’arrière et vers le haut lorsqu’ils ne sont pas utilisés.
-
-
-
-**(12)** Les compteurs de vitesse installés sur les motocyclettes doivent être calibrés en kilomètres à l’heure.
-
-
-
-**(12.1)** Les odomètres et les totalisateurs journaliers installés sur les motocyclettes doivent indiquer les distances en kilomètres.
-
-
-
-**(13)** Les témoins de feux de changement de direction d’une motocyclette doivent être verts ou jaunes.
-
-
-
-
-#### TABLEAU I
-<table>
-<h4>Prescriptions relatives à la position et au fonctionnement des commandes de motocyclettes</h4>
-<tr>
-<th>Colonne I</th>
-<th>Colonne II</th>
-<th>Colonne III</th>
-</tr>
-<tr>
-<th>Commande</th>
-<th>Position</th>
-<th>Fonctionnement</th>
-</tr>
-<tr>
-<th></th>
-</tr>
-<tr>
-<td>1</td>
-<td>Embrayage manuel ou combinaison embrayage et changement de vitesse </td>
-<td>Partie gauche du guidon </td>
-<td>Serrer pour débrayer.</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Pédale de changement de vitesse </td>
-<td>Commande au pied gauche </td>
-<td>Un mouvement vers le haut du bout du pied du conducteur fait passer la boîte de vitesses à la vitesse la moins élevée, et un mouvement vers le bas aux vitesses les plus élevées. Si la boîte de vitesses a trois vitesses ou plus, il ne doit pas être possible de passer directement de la vitesse la plus élevée à la vitesse la moins élevée, et vice versa.</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Commande route-croisement du</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>projecteur </td>
-<td>Partie gauche du guidon </td>
-<td>En haut pour le faisceau-route et en bas pour le faisceau-croisement.</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Avertisseur </td>
-<td>Partie gauche du guidon </td>
-<td>Pousser pour faire fonctionner l’avertisseur.</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Feux de changement de direction </td>
-<td>Guidon </td>
-<td>Au choix du manufacturier.</td>
-</tr>
-<tr>
-<td>6</td>
-<td>Commutateur d’allumage </td>
-<td></td>
-<td>«Fermé» — en sens contraire des aiguilles d’une montre par rapport aux autres positions, pour une personne placée devant le trou du commutateur d’allumage.</td>
-</tr>
-<tr>
-<td>7</td>
-<td>Commande manuelle de fermeture du</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>carburant </td>
-<td></td>
-<td>Tourner pour mettre en marche; les commandes « Ouvert » et « Fermé » sont à 90 degrés l’une de l’autre; les commandes « Fermé » et « Réservoir auxiliaire » (le cas échéant) sont à 90 degrés l’une de l’autre; ordre des commandes : « Ouvert » — « Fermé » — « Réservoir auxiliaire ».</td>
-</tr>
-<tr>
-<td>8</td>
-<td>Manette tournante des gaz </td>
-<td>Partie droite du guidon </td>
-<td>Retour automatique à la position de ralenti, dans le sens des aiguilles d’une montre, pour une personne placée devant l’extrémité de la poignée du guidon, après que la manette est relâchée.</td>
-</tr>
-<tr>
-<td>9</td>
-<td>Commande supplémentaire d’arrêt du moteur </td>
-<td>Partie droite du guidon </td>
-<td></td>
-</tr>
-<tr>
-<td>10</td>
-<td>Frein de la roue avant </td>
-<td>Partie droite du guidon </td>
-<td>Serrer pour actionner le frein.</td>
-</tr>
-<tr>
-<td>11</td>
-<td>Frein de la roue arrière </td>
-<td>Commande au pied droit </td>
-<td>Pousser pour actionner le frein.</td>
-</tr>
-<tr>
-<td>Dans le cas d’une motocyclette munie d’un moteur d’une puissance d’au plus 3,75 kW (5 puissance au frein), la commande</td>
-<td></td>
-</tr>
-<tr>
-<td>**a)** est au pied droit 
-
-</td>
-<td>Pousser pour actionner le frein.</td>
-</tr>
-<tr>
-<td>**b)** à la partie gauche du guidon 
-
-</td>
-<td>Serrer pour actionner le frein.</td>
-</tr>
-<tr>
-<td>ou</td>
-<td></td>
-</tr>
-<tr>
-<td>**c)** aux pédales 
-
-</td>
-<td>Rétropédaler.</td>
-</tr>
-</table>
-
-#### TABLEAU II
-<table>
-<h4>Prescriptions relatives à l’identification de la commande et des voyants de motocyclette</h4>
-<tr>
-<th>Colonne I</th>
-<th>Colonne II</th>
-<th>Colonne III</th>
-</tr>
-<tr>
-<th>Équipement</th>
-<th>Identification de la
-
-commande et du voyant
-
-</th>
-<th>Identification des diverses positions de la commande ou fonctionnement des voyants</th>
-</tr>
-<tr>
-<th></th>
-</tr>
-<tr>
-<td>1</td>
-<td>Commutateur d’allumage </td>
-<td>Contact ou *Ignition*</td>
-<td>Arrêt ou *Off*</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Commande supplémentaire d’arrêt du moteur </td>
-<td>Arrêt du moteur ou *Engine Stop*</td>
-<td>Arrêt ou *Off*, Marche ou *Run*</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Étrangleur manuel </td>
-<td>Étrangleur ou *Choke*</td>
-<td></td>
-</tr>
-<tr>
-<td>4</td>
-<td>Démarreur électrique </td>
-<td></td>
-<td>Démarr. ou *Start*<sup><a href='#footnote1_f'>[1]</a></sup></td>
-</tr>
-<tr>
-<td>5</td>
-<td>Commande faisceaux-route et faisceaux-croisement des projecteurs </td>
-<td>Phare ou *Lights*</td>
-<td>Route ou Hi, Code ou Lo</td>
-</tr>
-<tr>
-<td>6</td>
-<td>Avertisseur </td>
-<td>Avertisseur ou *Horn*</td>
-<td></td>
-</tr>
-<tr>
-<td>7</td>
-<td>Indicateur de changement de direction </td>
-<td>Clignotant ou *Turn*</td>
-<td>G ou L, D ou R</td>
-</tr>
-<tr>
-<td>8</td>
-<td>Compteur de vitesse </td>
-<td>km/h </td>
-<td></td>
-</tr>
-<tr>
-<td>9</td>
-<td>Indicateur de sélection de vitesse </td>
-<td>Mort ou *Neutral*</td>
-<td></td>
-</tr>
-<tr>
-<td>10</td>
-<td>Indicateur de faisceaux-route des projecteurs </td>
-<td>Faisceau-route ou *High beam*</td>
-<td></td>
-</tr>
-<tr>
-<td>11</td>
-<td>Commande de carburant </td>
-<td>Carburant ou *Fuel*</td>
-<td>Fermé ou *Off*; Ouvert ou On; Aux. ou *Res*; Amorçage, *Pri* ou Pr</td>
-</tr>
-</table>
-
-
-<a name='footnote1_f'><sup>1</sup></a>: Cette inscription n’est exigée que si le démarreur électrique est indépendant du commutateur d’allumage.<br />
-
-
-
-
->  DORS/79-306, art. 5; DORS/79-940, art. 7; DORS/82-656, art. 3; DORS/88-268, art. 10; DORS/93-31, art. 5; DORS/94-374, art. 5(F); DORS/95-536, art. 7; DORS/96-366, art. 8; DORS/97-421, art. 10, 11(F), 12(F) et 22(F); DORS/98-524, art. 4(F); DORS/2003-272, art. 19..
-
-
-### Système de commande d’accélération
+### Systèmes de commande d’accélération (Norme 124)
 
 
 **124** 
 
-**(1)** Dans le présent article, « commande du moteur » et « ralenti » désignent respectivement, dans le cas d’un véhicule à moteur électrique, la commande du régime du moteur et l’arrêt du moteur.
+**(1)** Les voitures de tourisme, véhicules de tourisme à usages multiples, véhicules à trois roues, camions et autobus doivent être conformes aux exigences du Document de normes techniques no124 — Systèmes de commande d’accélération, avec ses modifications successives.
 
 
 
-**(2)** Tout véhicule doit répondre aux exigences des paragraphes (3) à (5)
-
-**a)** lorsque le moteur est en marche dans n’importe quelle condition de charge; et
-
-
-
-**b)** à n’importe quelle température ambiante située entre -40 °F (-40 °C) et +125 °F (+52 °C), après conditionnement pendant 12 heures à une température qui se situe dans ces limites.
+**(2)** Le présent article cesse d’avoir effet le 1<sup>er</sup> janvier 2012.
 
 
 
 
-
-**(3)** Tout véhicule doit être muni d’au moins deux sources d’énergie capables de ramener la commande du moteur à la position de ralenti dans la limite de temps applicable, prescrite au paragraphe (5), à partir de n’importe quelle position d’accélération ou de n’importe quel régime, lorsque le conducteur relâche la commande d’accélération ou, en cas de défaillance d’une source d’énergie par suite d’une seule séparation ou rupture de l’un quelconque des éléments du système de commande d’accélération.
-
-
-
-**(4)** La commande du moteur d’un véhicule doit revenir à la position de ralenti à partir de n’importe quelle position d’accélération
-
-**a)** lorsqu’un élément quelconque du système de commande d’accélération se détache ou se brise ou que le conducteur relâche la commande d’accélération; et
-
-
-
-**b)** dans la limite de temps applicable, prescrite au paragraphe (5), mesurée
-
-**(i)** à partir du moment où l’élément se détache ou se brise, ou
-
-
-
-**(ii)** à partir du moment où le conducteur relâche la commande d’accélération.
-
-
-
-
-
-
-
-**(5)** Le temps maximal de retour de la commande du moteur d’un véhicule à la position de ralenti doit être
-
-**a)** de une seconde, dans le cas d’un véhicule d’un poids nominal brut de 10 000 livres (4 536 kg) ou moins;
-
-
-
-**b)** de deux secondes, dans le cas d’un véhicule d’un poids nominal brut supérieur à 10 000 livres (4 536 kg); et
-
-
-
-**c)** de trois secondes, dans le cas d’un véhicule qui est exposé à une température ambiante de 0 à -40 °F (-17,7 °C à -40 °C) au cours de l’essai ou durant une partie de la période de conditionnement de 12 heures.
-
-
-
-
-
-
-> DORS/79-940, art. 7..
+> DORS/79-940, art. 7; DORS/2007-180, art. 10..
 
 
 ### Dispositifs de sécurité pour les piétons à proximité des autobus scolaires (Norme 131)
@@ -9180,7 +7268,7 @@ Cessation d’effet
 
 **202** 
 
-**(1)** Dans le présent article, « gabarit point H » et « machine point H » s’entendent respectivement de « H-point template » et « H-point machine » figurant dans la Pratique recommandée J826 de la SAE intitulée « Devices for Use in Defining and Measuring Vehicle Seating Accommodation » (juin 1991).
+**(1)** Dans le présent article, « gabarit point H » et « machine point H » s’entendent respectivement de « H-point template » et « H-point machine » figurant dans la norme J826 de la SAE intitulée Devices for Use in Defining and Measuring Vehicle Safety Accommodation (juillet 1995).
 
 
 
@@ -9250,7 +7338,7 @@ Cessation d’effet
 
 
 
-**d)** à chaque place assise désignée munie d’un appuie-tête, la forme humaine doit être placée dans la position assise recommandée par le fabricant et bien attachée au moyen d’une ceinture de sécurité du type 1 ou du type 2 dont il est fait mention à l’article 209;
+**d)** à chaque place assise désignée munie d’un appuie-tête, la forme humaine doit être placée dans la position assise recommandée par le fabricant et bien attachée au moyen d’une ceinture de sécurité de type 1 ou de type 2 qui est conforme aux exigences de l’article 209;
 
 
 
@@ -9285,7 +7373,7 @@ Cessation d’effet
 
 
 
-> DORS/95-60, art. 2; DORS/2003-272, art. 21; DORS/2006-94, art. 4(A)..
+> DORS/95-60, art. 2; DORS/2003-272, art. 21; DORS/2006-94, art. 4(A); DORS/2007-180, art. 11..
 
 
 ### Protection du conducteur contre l’impact
@@ -9641,7 +7729,7 @@ simultanément, dans le cas d’un siège muni d’une ou de plusieurs ceintures
 
 
 
-**b)** lorsque le siège est orienté vers l’avant, une ceinture de sécurité manuelle de type 2A réglable au moyen d’un rétracteur à blocage d’urgence.
+**b)** lorsque le siège est orienté vers l’avant, une ceinture diagonale de type 2A réglable au moyen d’un rétracteur à blocage d’urgence.
 
 
 
@@ -9737,7 +7825,7 @@ Ajustement des ceintures de sécurité
 
 
 
-**b)** aux autres places assises désignées, s’ajuster au corps de tout occupant dont la taille est comprise dans la gamme allant du 50<sup>e</sup> percentile enfant de 6 ans au 95<sup>e</sup> percentile adulte du sexe masculin.
+**b)** aux autres places assises désignées, s’ajuster au corps de tout occupant dont la taille est comprise dans la gamme allant du 50<sup>e</sup> percentile enfant de six ans au 95<sup>e</sup> percentile adulte du sexe masculin.
 
 
 
@@ -10141,522 +8229,125 @@ Dispositions transitoires
 
 
 
-> DORS/78-80, art. 2; DORS/80-782, art. 2; DORS/87-578, art. 2; DORS/90-387, art. 3; DORS/93-5, art. 4; DORS/97-201, art. 5; DORS/97-447, art. 5; DORS/98-125, art. 6; DORS/98-524, art. 4(F); DORS/2002-55, art. 17; DORS/2003-272, art. 24; DORS/2006-94, art. 4(A)..
+> DORS/78-80, art. 2; DORS/80-782, art. 2; DORS/87-578, art. 2; DORS/90-387, art. 3; DORS/93-5, art. 4; DORS/97-201, art. 5; DORS/97-447, art. 5; DORS/98-125, art. 6; DORS/98-524, art. 4(F); DORS/2002-55, art. 17; DORS/2003-272, art. 24; DORS/2006-94, art. 4(A); DORS/2007-180, art. 12..
 
 
-### Ceintures de sécurité
+### Ceintures de sécurité (Norme 209)
 > [DORS/95-536, art. 7(F)]
 
 
 
 **209** 
 
-**(1)** [Abrogé, DORS/97-447, art. 6]
+**(1)** Les voitures de tourisme, véhicules de tourisme à usages multiples, camions, autobus, véhicules à basse vitesse, véhicules à trois roues et motocyclettes à habitacle fermé doivent être équipés de ceintures de sécurité qui sont conformes aux exigences du Document de normes techniques nº 209 — Ceintures de sécurité (DNT 209), avec ses modifications successives.
 
 
 
-**(2)** Une ceinture de sécurité
+**(2)** La ceinture sous-abdominale d’une ceinture de sécurité manuelle de type 2 avec ceinture-baudrier détachable doit être conforme à toutes les exigences relatives à la ceinture de sécurité de type 1 qui figurent dans le présent règlement.
 
-**a)** ne peut servir qu’à un usager à la fois et
 
 
+**(3)** La sangle de la ceinture de sécurité ne doit pas déteindre sur un tissu de frottement, sec ou mouillé, à un degré supérieur à la catégorie 3 de l’échelle de transfert chromatique précisée dans la marche à suivre d’évaluation n<sup>o</sup> 8 de l’AATCC intitulée AATCC 9-Step Chromatic Transference Scale (révision de 2002).
 
-**b)** est constituée d’une ceinture sous-abdominale restreignant le mouvement du bassin en permanence.
 
 
+**(4)** La conformité de la sangle de la ceinture de sécurité aux exigences du paragraphe (3) doit être établie par la mise à l’essai des sangles de trois ceintures de sécurité en conformité avec la marche à suivre précisée dans la méthode d’essai n<sup>o</sup> 8-2005 de l’AATCC intitulée Colorfastness to Crocking : AATCC Crockmeter Method.
 
 
 
-**(3)** Une ceinture sous-abdominale du type 2 qui peut être utilisée sans ceinture-baudrier doit satisfaire aux exigences de la ceinture du type 1.
+**(5)** La sangle de la ceinture de sécurité ne doit pas tacher à un degré supérieur à la catégorie 2 de l’échelle de transfert chromatique précisée dans la marche à suivre d’évaluation n<sup>o</sup> 8 de l’AATCC intitulée AATCC 9-Step Chromatic Transference Scale (révision de 2002).
 
 
 
-**(4)** Une ceinture de sécurité du type 2 doit comporter une ceinture-baudrier
+**(6)** La conformité de la sangle de la ceinture de sécurité aux exigences du paragraphe (5) doit être établie par la mise à l’essai des sangles de trois ceintures de sécurité en conformité avec la marche à suivre précisée dans la méthode d’essai n<sup>o</sup> 107-2002 de l’AATCC intitulée Colorfastness to Water, sauf que :
 
-**a)** qui ne déplace pas la ceinture sous-abdominale au niveau de l’abdomen,
+**a)** la solution pour essai doit être de l’eau distillée qui vient d’être bouillie;
 
 
 
-**b)** qui est conçue pour réduire au minimum la pression verticale exercée sur les épaules et la colonne vertébrale, et
+**b)** l’appareil de contrôle de solidité à la sueur AATCC doit être utilisé;
 
 
 
-**c)** dont les pièces ont été conçues et placées de façon à réduire au minimum le risque de blessures.
+**c)** à sa sortie du four, l’échantillon mis à l’essai doit être accroché pour sécher à l’air pendant quatre heures;
 
 
 
+**d)** l’échelle de transfert chromatique de l’AATCC doit être utilisée pour évaluer la souillure du tissu témoin multifibre.
 
 
-**(5)** Une ceinture-baudrier du type 2A doit satisfaire aux exigences de la ceinture du type 2.
 
 
 
-**(6)** [Abrogé, DORS/87-154, art. 3]
+**(7)** Toute mention dans le DNT 209 d’une norme publiée par l’ASTM ou l’AATCC qui figure à la colonne 1 du tableau du présent paragraphe vaut mention de la norme indiquée en regard de cette norme à la colonne 2.
+#### TABLEAU
+<table>
+<tr>
+<th>Article</th>
+<th>Colonne 1</th>
+<th>Colonne 2</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Méthode d’essai 30 – 1981 de l’AATCC,Fungicides Evaluation on Textiles : Mildew and Rot Resistance of Textiles</td>
+<td>Méthode d’essai 30 – 2004 de l’AATCC,Antifungal Activity, Assessment on Textile Materials : Mildew and Rot Resistance of Textile Materials</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Norme B 117 – 73 de l’ASTM,Standard Method of Salt Spray (Fog) Testing</td>
+<td>Norme B 117 – 03 de l’ASTM,Standard Practice for Operating Salt Spray (Fog) Apparatus</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Norme B 456 – 79 de l’ASTM,Standard Specification for Electrodeposited Coatings of Copper Plus Nickel Plus Chromium and Nickel Plus Chromium</td>
+<td>Norme B 456 – 03 de l’ASTM,Standard Specification for Electrodeposited Coatings of Copper Plus Nickel Plus Chromium and Nickel Plus Chromium</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Norme D 756 – 78 de l’ASTM,Standard Practice for Determination of Weight and Shape Changes of Plastics Under Accelerated Service Conditions</td>
+<td>Norme D 756 – 93 de l’ASTM, Standard Practice for Determination of Weight and Shape Changes of Plastics Under Accelerated Service Conditions</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Norme E 4 – 79 de l’ASTM,Standard Methods of Load Verification of Testing Machines</td>
+<td>Norme E 4 – 07 de l’ASTM,Standard Practices for Force Verification of Testing Machines</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Norme G 23 – 81 de l’ASTM,Standard Practice for Operating Light-Exposure Apparatus (Carbon-Arc Type) With and Without Water for Exposure of Nonmetallic Materials</td>
+<td>Norme G 152 – 00a<sup>ε1</sup> de l’ASTM,Standard Practice for Operating Open Flame Carbon Arc Light Apparatus for Exposure of Nonmetallic Materials</td>
+</tr>
+</table>
 
 
 
-**(7)** La sangle d’une ceinture
 
-**a)** doit avoir des extrémités recouvertes ou traitées pour empêcher le défilage,
+**(8)** Pour l’application de la disposition S4.1e) du DNT 209, il est fait abstraction de la mention « facilement accessibles à l’occupant afin qu’il puisse se libérer rapidement de la ceinture » dans la première phrase de la disposition.
 
 
 
-**b)** lorsqu’elle est utilisée avec une ceinture munie d’une attache métallique destinée à régler la longueur, ne doit pas se dégager de l’attache lorsque la ceinture est réglée à la longueur maximale,
+**(9)** Les dispositions S4.1g) et m), S4.5b) et S4.6 du DNT 209 ne s’appliquent pas.
 
 
 
-**c)** doit pouvoir jouer librement lorsqu’elle passe entre le dossier et le coussin d’un siège et qu’elle est fixée à un rétracteur situé derrière le siège,
+**(10)** Les instructions visées à la disposition S4.1l) du DNT 209 doivent figurer dans les versions française et anglaise du manuel de l’usager.
 
 
 
-**d)** doit avoir une largeur d’au moins 46 mm (1,8 po) sauf les parties qui n’entrent pas en contact avec le 95<sup>e</sup> percentile adulte du sexe masculin, lorsque le siège est réglé à n’importe quelle position et que le dossier est incliné à la position de conduite prévue par le fabricant, lorsqu’elle est mesurée selon l’article 209 des Méthodes d’essai de sécurité des véhicules automobiles, intitulé « Ceintures de sécurité », approuvées au nom du ministre le 27 février 1984,
+**(11)** Les exigences relatives au rétracteur sans blocage qui sont prévues aux dispositions S4.1l), S4.3h) et S5.2h) et k) du DNT 209 ne s’appliquent pas.
 
 
 
-**e)** doit avoir une résistance à la rupture pour une ceinture
+**(12)** La ceinture de sécurité de type 1 ou de type 2 qui comporte un limiteur de charge et n’est pas conforme aux exigences en matière d’allongement qui sont prévues aux dispositions S4.2c), S4.4a)(2) ou S4.4b)(4) ou (5) du DNT 209 ne peut être installée qu’à une place assise désignée extérieure avant qui est munie d’un sac gonflable frontal.
 
-**(i)** du type 1, d’au moins 26,7 kN (6 000 livres),
 
 
+**(13)** Le présent article cesse d’avoir effet le 1<sup>er</sup> janvier 2012.
 
-**(ii)** du type 2, d’au moins 22,2 kN (5 000 livres) pour la ceinture sous-abdominale, et d’au moins 17,8 kN (4 000 livres) pour la ceinture-baudrier,
 
 
 
-**(iii)** [Abrogé, DORS/87-154, art. 3]
-
-
-
-
-
-**f)** sous réserve du paragraphe (29), ne peut s’allonger, pour une ceinture
-
-**(i)** du type 1, de plus de 20 pour cent de sa longueur à 11,1 kN (2 500 lb),
-
-
-
-**(ii)** du type 2, de plus de 30 pour cent de sa longueur à 11,1 kN (2 500 lb) pour la ceinture sous-abdominale, et de plus de 40 pour cent de sa longueur à 11,1 kN (2 500 lb) pour la ceinture-baudrier,
-
-
-
-
-
-lors d’essais selon les méthodes visées à l’alinéa d);
-
-
-
-**g)** lorsque soumise à des essais d’usure par le frottement selon les méthodes visées à l’alinéa d), doit avoir une résistance à la rupture d’au moins 75 pour cent de la résistance à la rupture prescrite à l’alinéa e) pour ce type de ceinture;
-
-
-
-**h)** lorsque exposée à la lumière d’un arc au charbon et soumise aux essais selon les méthodes visées à l’alinéa d), doit avoir
-
-**(i)** une résistance à la rupture d’au moins 60 pour cent de sa résistance initiale et
-
-
-
-**(ii)** une conservation de la couleur correspondant au moins au n<sup>o</sup> 2 sur l’échelle Geometric Gray Scale publiée par l’American Association of Textile Chemists and Colorists;
-
-
-
-
-
-**i)** à moins que la sangle ne soit déjà constituée d’une matière ayant une résistance inhérante aux micro-organismes, lorsqu’elle y est exposée et soumise aux essais selon les méthodes visées à l’alinéa d), doit avoir une résistance à la rupture d’au moins 85 pour cent de sa résistance initiale;
-
-
-
-**j)** ne doit pas déteindre sur un tissus de frottement, sec ou mouillé, à un degré supérieur à la catégorie 3 de l’AATCC Chromatic Transference Scale, établi en 1972 par l’American Association of Textile Chemists and Colorists, quand la sangle fait l’objet d’un essai selon les méthodes visées à l’alinéa d);
-
-
-
-**k)** ne doit pas tacher à un degré supérieur à la catégorie 2 de l’AATCC Chromatic Transference Scale, établi en 1972 par l’American Association of Textile Chemists and Colorists lors d’essais selon les méthodes visées à l’alinéa d).
-
-
-
-
-
-**(8)** Une courroie utilisée dans la fabrication des ceintures de sécurité et destinée à supporter certaines contraintes doit satisfaire aux exigences visées au paragraphe (7) concernant les sangles et si la courroie est constituée d’une matière rigide, elle doit satisfaire aux exigences applicables du présent article.
-
-
-
-**(9)** Les pièces d’une ceinture de sécurité qui, lors de l’usage normal, entrent en contact avec les personnes, les vêtements ou les sangles ne doivent présenter ni aspérités ni arêtes vives.
-
-
-
-**(10)** Sous réserve du paragraphe (11), une ceinture doit inclure les pièces nécessaires à son installation selon la pratique recommandée J800c de la SAE « Motor Vehicle Seat Belt Installations » (novembre 1973), et ces pièces doivent être conçues de façon à ce que des boulons de fixation et autres parties ne se détachent pas du véhicule pendant son utilisation.
-
-
-
-**(10.1)** Les plaques de renforcement ou les rondelles fournies pour l’installation universelle de la ceinture de sécurité au plancher du véhicule automobile doivent :
-
-**a)** être faites en acier sans aspérités ni arêtes vives sur les extrémités périphériques adjacentes au véhicule;
-
-
-
-**b)** avoir au moins 1,5 mm (0,06 po) d’épaisseur et au moins 2 580 mm<sup>2</sup> (4 po<sup>2</sup>) de surface de contact;
-
-
-
-**c)** avoir au moins 15 mm (0,6 po) de distance entre chaque arête de la plaque et l’arête du trou du boulon;
-
-
-
-**d)** avoir tous les angles arrondis à un rayon d’au moins 6 mm (0,25 po) ou ébarbés à au moins 135°;
-
-
-
-**e)** avoir sur chaque côté au moins 6 mm (0,25 po) de longueur.
-
-
-
-
-
-**(11)** Une ceinture de sécurité, conçue pour un véhicule automobile muni de points d’ancrage ne nécessitant ni boulons, ni plaques, ni rondelles, peut être utilisée sans les pièces visées au paragraphe (10) mais doit comporter les boulons de fixation <sup>7</sup>/<sub>16</sub>— 20 UNF-2A ou <sup>1</sup>/<sub>2</sub>— 13 UNC-2A ou l’équivalent.
-
-
-
-**(12)** Les pièces de fixation d’une ceinture, sauf celles composées d’acier inoxydable contenant un pourcentage minimal de chrome de 11,5,
-
-**a)** ne doivent pas, à la suite d’essais selon les méthodes visées à l’alinéa (7)d), présenter de traces visibles de corrosion ferreuse sur aucune autre surface que les extrémités périphériques ou bords de trous dans les contre-plaqués et rondelles situées sous le plancher ou
-
-
-
-**b)** doivent avoir un revêtement protecteur au moins aussi efficace :
-
-**(i)** dans le cas des pièces de fixation se trouvant au plancher ou près de celui-ci, qu’une couche de nickel et chrome ou une couche de cuivre, nickel et chrome, déposée par électrolyse et ayant une cote d’usage d’au moins SC2 selon la norme B456-79 de l’ASTM, intitulée « Standard Specification for Electrodeposited Coatings of Copper plus Nickel plus Chromium and Nickel plus Chromium »,
-
-
-
-**(ii)** dans le cas des pièces de fixation, autres que celles visées au sous-alinéa (i), qu’une couche de nickel et chrome ou une couche de cuivre, nickel et chrome, déposée par électrolyse et ayant une cote d’usage de SCl selon la norme ASTM visée au sous-alinéa (i), lesquelles pièces ne doivent pas être accrochées dans la cuve de galvanoplastie aux endroits sujets aux contraintes maximales.
-
-
-
-
-
-
-
-**(13)** Lors d’essais selon les paragraphes applicables des méthodes visées à l’alinéa (7)d),
-
-**a)** les boulons à oeil, les boulons à épaulement ou autres boulons utilisés pour fixer l’élément sous-abdominal d’une ceinture à un véhicule automobile doivent pouvoir supporter une force de 40 kN (9 000 livres); mais il n’est pas nécessaire que ces boulons supportent une force de plus de 22,2 kN (5 000 livres) s’ils sont installés de manière à ce qu’une seule extrémité de la ceinture y soit attachée,
-
-
-
-**b)** les pièces de fixation, autres que les boulons, conçues pour recevoir les extrémités de deux ceintures doivent pouvoir supporter une tension d’au moins 26,7 kN (6 000 livres) sans risque de rupture d’une de leurs parties et
-
-
-
-**c)** une ceinture munie de crochets de fixation simples du type à déblocage rapide destinés à fixer la sangle à un boulon à oeil doit être équipée d’une clenche ou garde qui ne doit pas bouger de plus de 2 mm (0,08 pouce) dans la direction verticale ou horizontale.
-
-
-
-
-
-**(14)** Le dispositif de déblocage d’une ceinture de sécurité :
-
-**a)** doit être constitué d’une ou de plusieurs attaches facilement accessibles à l’occupant afin qu’il puisse se libérer facilement et rapidement de la ceinture;
-
-
-
-**b)** doit être conçu pour réduire au minimum le risque de déblocage accidentel;
-
-
-
-**c)** dans le cas d’une ceinture qui a une attache munie d’un dispositif de déblocage en position bloquée, ne doit présenter qu’une seule ouverture dans laquelle la languette peut être insérée à l’extrémité de l’attache conçue pour la recevoir et la bloquer.
-
-
-
-
-
-**(15)** Quelle que soit la position de réglage du siège lorsque le dossier est dans la position prévue par le fabricant pour la conduite, une ceinture des types 1 ou 2 doit
-
-**a)** pouvoir se régler de façon à convenir à des usagers qui, par leur taille et leur masse, sont compris entre le 5<sup>e</sup> percentile adulte du sexe féminin et le 95<sup>e</sup> percentile adulte du sexe masculin et
-
-
-
-**b)** avoir
-
-**(i)** un rétracteur autobloquant,
-
-
-
-**(ii)** un rétracteur à blocage d’urgence ou
-
-
-
-**(iii)** un dispositif de réglage à la portée de l’usager.
-
-
-
-
-
-
-
-**(16)** [Abrogé, DORS/87-154, art. 3]
-
-
-
-**(17)** Les surfaces des attaches, des rétracteurs et des parties métalliques, autres que les pièces de fixation d’une ceinture, ne doivent pas, après avoir subi les essais de corrosion prescrits aux méthodes visées à l’alinéa (7)d), présenter de traces de corrosion ferreuse ou non ferreuse pouvant se déposer sur l’usager ou sur ses vêtements, directement ou par l’entremise de la sangle.
-
-
-
-**(18)** Une attache visée au paragraphe (17) doit satisfaire aux exigences applicables des paragraphes (20) à (22).
-
-
-
-**(19)** Les pièces de plastique et autres matières non métalliques d’une ceinture ne doivent pas, lorsqu’elles sont soumises aux essais de température selon les méthodes visées à l’alinéa (7)d), présenter de déformation ou autres signes de détérioration risquant de causer le mauvais fonctionnement de la ceinture ou de la rendre incompatible avec les exigences applicables du présent article.
-
-
-
-**(20)** L’attache de la ceinture de sécurité :
-
-**a)** doit se débloquer lorsqu’une force d’au plus 133 N (30 lb) lui est appliquée selon les méthodes visées à l’alinéa (7)d);
-
-
-
-**b)** ne doit pas se débloquer sous l’action d’une force compressive de 1 780 N (400 lb) appliquée selon les méthodes visées à l’alinéa (7)d), mais doit pouvoir fonctionner et satisfaire aux exigences applicables des paragraphes (27) et (28) lorsque la force de compression cesse d’être appliquée;
-
-
-
-**c)** actionnée
-
-**(i)** par bouton-poussoir, doit avoir une surface minimale du bouton-poussoir de 450 mm<sup>2</sup> et une dimension linéaire minimale de 10 mm à l’endroit où la force de déblocage est appliquée,
-
-
-
-**(ii)** par un levier, doit pouvoir permettre l’insertion d’un cylindre de 10 mm (0,4 po) de diamètre et de 38 mm (1,5 po) de longueur, au moins jusqu’à la moitié de la longueur de ce cylindre, dans la partie actionnée pour le déblocage de l’attache,
-
-
-
-**(iii)** par d’autres moyens, doit être suffisamment dégagée pour que le dispositif de déblocage puisse être actionné à l’aide d’au moins deux doigts;
-
-
-
-
-
-**d)** ayant un dispositif de réglage bascule-blocage, doit verrouiller la sangle à un angle d’au moins 30°, limité par la base de l’attache et la sangle d’ancrage lors d’essais selon les méthodes visées à l’alinéa (7)d).
-
-
-
-
-
-**(21)** La force nécessaire pour diminuer les dimensions d’une ceinture ne doit pas excéder 49 N (11 livres), cette force étant mesurée selon les méthodes visées à l’alinéa (7)d).
-
-
-
-**(22)** La clenche de l’attache de la ceinture, à la suite d’essais selon les méthodes visées à l’alinéa (7)d), ne doit pas présenter de défaillance ou d’usure risquant d’affecter l’enclenchement et le désenclenchement normaux, et si elle est composée de deux parties métalliques, elle doit se débloquer si elle n’est que partiellement engagée sous l’effet d’une force d’au plus 22 N (5 lb).
-
-
-
-**(23)** Un rétracteur sans blocage monté sur une ceinture
-
-**a)** doit permettre de tirer la sangle de cette ceinture sur toute sa longueur moins 6 mm (0,25 pouce), lorsqu’une tension lui est appliquée selon les méthodes visées à l’alinéa (7)d) et,
-
-
-
-**b)** s’il est monté sur une ceinture-baudrier,
-
-**(i)** doit être attaché à l’extrémité non réglable de la ceinture,
-
-
-
-**(ii)** doit comporter un rouleur bien visible pour l’usager portant la ceinture et
-
-
-
-**(iii)** doit avoir une force de rétraction d’au plus 4,9 N (1,1 livre) le long de n’importe quelle courroie ou sangle en contact avec l’épaule de l’usager; cette force étant mesurée selon les méthodes visées à l’alinéa (7)d), à moins que le rétracteur ne soit attaché à l’extrémité libre de la sangle qui n’est soumise à aucune tension lorsque la ceinture est portée par l’usager.
-
-
-
-
-
-
-
-**(24)** Un rétracteur autobloquant monté sur une ceinture, lors d’essais selon les méthodes visées à l’alinéa (7)d),
-
-**a)** ne doit pas permettre un jeu de plus de 25 mm (un pouce) de la sangle entre les positions bloquées du rétracteur,
-
-
-
-**b)** doit, si l’accélération est nulle, avoir une force de rétraction d’au moins 2,6 N (0,6 livre), s’il est monté sur une ceinture sous-abdominale et d’au moins 2 N (0,45 livre) ou d’au plus 4,9 N (1,1 livre), le long de toute courroie ou sangle en contact avec l’épaule de l’usager, si le rétracteur est monté sur une ceinture-baudrier, et
-
-
-
-**c)** ne doit pas, lorsque attaché à une ceinture-baudrier, augmenter la contrainte imposée à l’usager portant la ceinture dans un véhicule roulant sur de mauvaises routes.
-
-
-
-
-
-**(25)** Un rétracteur à blocage d’urgence monté sur une ceinture des types 1 ou 2, lors d’essais selon les méthodes visées à l’alinéa (7)d),
-
-**a)** doit se bloquer avant que la sangle ne s’allonge de 25 mm (un pouce), lorsqu’il est soumis à une accélération égale à 0,7 fois celle de la pesanteur,
-
-
-
-**b)** ne doit pas se bloquer,
-
-**(i)** s’il est sensible au retrait de la sangle avant que celle-ci ne s’allonge de 50 mm (deux pouces), lorsqu’il est soumis à une accélération d’au plus 0,3 fois celle de la pesanteur et
-
-
-
-**(ii)** s’il est sensible à l’accélération du véhicule, lorsque ce rétracteur tourne dans une direction quelconque d’un angle de 15 degrés ou moins par rapport à sa position dans le véhicule et
-
-
-
-
-
-**c)** doit exercer une force de rétraction
-
-**(i)** d’au moins 2,6 N (0,6 livre), lorsqu’il est soumis à une accélération nulle, s’il est monté sur une ceinture sous-abdominale,
-
-
-
-**(ii)** d’au moins 0,9 N (0,2 livre) et d’au plus 4,9 N (1,1 livre) lorsqu’il est soumis à une accélération nulle et s’il est monté sur la ceinture-baudrier seulement, et
-
-
-
-**(iii)** d’au moins 0,9 N (0,2 livre) et d’au plus 6,7 N (1,5 livre) lorsqu’il est soumis à une accélération nulle le long de toute courroie ou sangle montée sur une combinaison de ceinture-baudrier et de ceinture sous-abdominale.
-
-
-
-
-
-
-
-**(26)** Le rétracteur de ceinture de sécurité, après avoir subi les essais cycliques prescrits dans les méthodes visées à l’alinéa (7)d), doit satisfaire aux exigences applicables des paragraphes (23), (24), (25), (27) et (28), sauf que la force de rétraction doit être d’au moins 50 pour cent de sa force de rétraction initiale.
-
-
-
-**(27)** Sous réserve du paragraphe (29), les éléments de la ceinture de sécurité du type 1, notamment la sangle, les courroies, les attaches, les pièces de réglage et de fixation et les rétracteurs, qui sont soumis à des essais selon les méthodes visées à l’alinéa (7)d) doivent répondre aux exigences suivantes :
-
-**a)** chaque élément doit résister à une force d’au moins 11,1 kN (2 500 livres),
-
-
-
-**b)** la longueur entre les points d’ancrage ne doit pas augmenter de plus de 360 mm (14 pouces), sous l’effet d’une force de 22,2 kN (5 000 livres),
-
-
-
-**c)** la sangle coupée par les pièces de fixation au cours de l’essai doit avoir une résistance à la rupture d’au moins 18,7 kN (4 200 livres), et
-
-
-
-**d)** aucune partie métallique pleine des pièces de fixation ne doit subir de rupture complète au cours de l’essai.
-
-
-
-
-
-**(28)** Sous réserve du paragraphe (29), les éléments de la ceinture de sécurité du type 2, notamment la sangle, les courroies, les attaches, les pièces de réglage et de fixation et les rétracteurs, qui sont soumis à des essais selon les méthodes visées à l’alinéa (7)d) doivent répondre aux exigences suivantes :
-
-**a)** les éléments d’une ceinture sous-abdominale doivent résister à une force d’au moins 11,1 kN (2 500 livres),
-
-
-
-**b)** la longueur de la ceinture sous-abdominale entre les points d’ancrage ne doit pas augmenter de plus de 500 mm (20 pouces) sous l’effet d’une force de 11,1 kN (2 500 livres),
-
-
-
-**c)** les éléments de la ceinture-baudrier doivent résister à une force d’au moins 6 670 N (1 500 livres),
-
-
-
-**d)** la longueur de la ceinture-baudrier entre les points d’ancrage ne doit pas augmenter de plus de 500 mm (20 pouces) sous l’effet d’une force de 6 670 N (1 500 livres),
-
-
-
-**e)** les éléments communs aux ceintures-baudriers et aux ceintures sous-abdominales doivent résister à une force d’au moins 13,3 kN (3 000 livres),
-
-
-
-**f)** la sangle coupée au cours de l’essai par les pièces de fixation doit avoir une résistance à la rupture
-
-**(i)** d’au moins 15,6 kN (3 500 livres) pour la sangle de la ceinture sous-abdominale ou
-
-
-
-**(ii)** d’au moins 12,5 kN (2 800 livres) pour la sangle de la ceinture-baudrier et
-
-
-
-
-
-**g)** aucune partie métallique pleine des pièces de fixation ne doit subir de rupture complète au cours de l’essai.
-
-
-
-
-
-**(29)** La ceinture des types 1 ou 2 qui comprend un limiteur de charge :
-
-**a)** n’est pas tenue de satisfaire aux exigences en matière d’allongement prévues aux alinéas (7)f), (27)b), (28)b) ou d);
-
-
-
-**b)** dans le cas où elle n’est pas conforme aux exigences en matière d’allongement prévues aux alinéas (7)f), (27)b), ou (28)b) ou d) :
-
-**(i)** ne peut être installée dans un véhicule qu’en combinaison avec un sac gonflable,
-
-
-
-**(ii)** doit, en plus de satisfaire aux exigences d’inscription indiquées au paragraphe (30), porter une inscription ou une étiquette inamovible et lisible portant que la ceinture de sécurité ne peut être installée dans un véhicule qu’avec un sac gonflable.
-
-
-
-
-
-
-
-**(30)** Une ceinture doit porter une inscription ou une étiquette permanente et lisible indiquant
-
-**a)** l’année de fabrication,
-
-
-
-**b)** le nom ou la marque de commerce du fabricant, du distributeur ou de l’importateur et
-
-
-
-**c)** l’identification du modèle.
-
-
-
-
-
-**(31)** Aux fins de l’alinéa (30)c), un modèle doit consister en une seule combinaison de sangle ayant un type particulier de fabrication et de tissage des fibres, et de pièces d’une conception particulière, bien qu’un même modèle puisse se présenter en différentes couleurs.
-
-
-
-**(32)** Les véhicules munis d’une ceinture doivent comporter
-
-**a)** des instructions écrites sur
-
-**(i)** l’usage correct de la ceinture, en insistant sur l’importance du réglage et de la position de la ceinture sur le corps de l’usager,
-
-
-
-**(ii)** l’entretien de la ceinture et la vérification périodique de tous ses éléments et
-
-
-
-**(iii)** la façon appropriée d’insérer la sangle dans les pièces de la ceinture dans lesquelles la sangle n’est pas fixée en permanence,
-
-
-
-
-
-**b)** dans le cas d’un rétracteur sans blocage, un avis signalant que la sangle doit être tirée à sa longueur maximale, à moins que le rétracteur ne soit attaché à l’extrémité libre de la sangle qui n’est soumise à aucune tension lorsque l’usager porte la ceinture et,
-
-
-
-**c)** dans le cas d’une ceinture du type 2A, un avis signalant que la ceinture-baudrier ne doit pas être portée sans ceinture sous-abdominale.
-
-
-
-
-
-
-> DORS/78-910, art. 2; DORS/87-154, art. 3; DORS/92-545, art. 4; DORS/97-447, art. 6..
+> DORS/78-910, art. 2; DORS/87-154, art. 3; DORS/92-545, art. 4; DORS/97-447, art. 6; DORS/2007-180, art. 13..
 
 
 ### Ancrages de ceinture de sécurité (Norme 210)
@@ -10731,7 +8422,7 @@ Positionnement des ancrages
 
 
 
-**(5)** Dans le cas où l’ancrage de ceinture de sécurité non réglable, l’intersection de l’axe longitudinal du trou de boulon de l’ancrage de l’extrémité supérieure d’une ceinture-baudrier et de la surface de la structure de fixation ou, dans le cas d’un modèle d’ancrage utilisant un autre dispositif de fixation à la structure du véhicule, le centroïde du dispositif doit être situé dans les limites indiquées à l’article 6.1 de la pratique recommandée J383 de la SAE (juin 1995) par rapport au gabarit de dessin décrit à l’article 3 de la norme J826 de la SAE (juin 1992) dont :
+**(5)** Dans le cas où l’ancrage de ceinture de sécurité de l’extrémité supérieure d’une ceinture-baudrier n’est pas réglable, l’intersection de l’axe longitudinal du trou de boulon de l’ancrage et de la surface de la structure de fixation ou, dans le cas d’un modèle d’ancrage utilisant un autre dispositif de fixation à la structure du véhicule, le centroïde du dispositif doit être situé dans les limites indiquées à l’article 6.1 de la pratique recommandée J383 de la SAE intitulée Motor Vehicle Seat Belt Anchorages — Design Recommendations (juin 1995) par rapport au gabarit point H décrit à l’article 4.1 de la norme J826 de la SAE intitulée Devices for Use in Defining and Measuring Vehicle Seating Accommodation (juillet 1995) dont :
 
 **a)** d’une part, le point H est situé à l’unique « Design H-Point » du siège — au sens de l’article 2.2.11.1 de la pratique recommandée J1100 de la SAE (juin 1993) — lorsque le siège se trouve dans sa position la plus reculée et la plus basse;
 
@@ -10784,7 +8475,7 @@ Ensembles de retenue
 
 
 
-> DORS/90-588, art. 3; DORS/93-5, art. 5; DORS/97-447, art. 7; DORS/2003-57, art. 1, 3(F) et 4(F); DORS/2003-272, art. 25; DORS/2006-94, art. 4(A)..
+> DORS/90-588, art. 3; DORS/93-5, art. 5; DORS/97-447, art. 7; DORS/2003-57, art. 1, 3(F) et 4(F); DORS/2003-272, art. 25; DORS/2006-94, art. 4(A); DORS/2007-180, art. 14..
 
 
 ### Ancrages d’attache prêts à utiliser pour les ensembles de retenue (Norme 210.1)
@@ -10899,7 +8590,7 @@ Positionnement de l’ancrage d’attache
 
 
 
-**(5)** Sous réserve des paragraphes (5.1), (6) et (7), la partie de l’ancrage d’attache prêt à utiliser qui est conçue pour s’unir au crochet de la courroie d’attache doit être située dans les limites de la zone ombrée — tel qu’il est indiqué aux figures 3 à 7 — de la place assise désignée pour laquelle elle est installée, par rapport au point H du gabarit décrit à l’article 3.1 de la norme J826 de la SAE (juin 1992) :
+**(5)** Sous réserve des paragraphes (6) et (7), la partie de l’ancrage d’attache prêt à utiliser qui est conçue pour s’unir au crochet de la courroie d’attache doit être située dans les limites de la zone ombrée, tel qu’il est indiqué aux figures 3 à 7, de la place assise désignée pour laquelle elle est installée, par rapport au point H du gabarit décrit à l’article 4.1 de la norme J826 de la SAE intitulée Devices for Use in Defining and Measuring Vehicle Seating Accommodation (juillet 1995) :
 
 **a)** dont le point H est situé :
 
@@ -11068,7 +8759,7 @@ CES GRAPHIQUES NE SONT PAS EXPOSÉS, VOIR DORS/98-457, ART. 3; DORS/2000-44, ART
 
 
 
->  DORS/86-975, art. 2; DORS/92-545, art. 5; DORS/94-669, art. 3; DORS/95-536, art. 7; DORS/98-457, art. 3; DORS/2000-44, art. 1 à 3; DORS/2002-205, art. 3; DORS/2003-272, art. 26; DORS/2006-94, art. 2 et 4(A)..
+> DORS/86-975, art. 2; DORS/92-545, art. 5; DORS/94-669, art. 3; DORS/95-536, art. 7; DORS/98-457, art. 3; DORS/2000-44, art. 1 à 3; DORS/2002-205, art. 3; DORS/2003-272, art. 26; DORS/2006-94, art. 2 et 4(A); DORS/2007-180, art. 15..
 
 
 ### Dispositifs universels d’ancrages d’attaches inférieurs des ensembles de retenue et des coussins d’appoint (Norme 210.2)
@@ -11568,7 +9259,7 @@ CES GRAPHIQUES NE SONT PAS EXPOSÉS, VOIR DORS/2002-205, ART. 4.
 
 **213.4** 
 
-**(1)** Tout ensemble intégré de retenue d’enfant et tout coussin d’appoint intégré, lorsqu’ils sont soumis aux essais décrits à l’article 213.4 des Méthodes d’essai de sécurité des véhicules automobiles, intitulé « Ensembles intégrés de retenue d’enfant et coussins d’appoint intégrés », en date du 15 octobre 1993, à n’importe quelle position que l’ensemble, le coussin ou le siège du véhicule peut être utilisé lorsque le véhicule est en mouvement, doivent répondre aux conditions suivantes :
+**(1)** Tout ensemble intégré de retenue d’enfant et tout coussin d’appoint intégré, lorsqu’ils sont soumis aux essais décrits à la Méthode d’essai 213.4 — Ensembles intégrés de retenue d’enfant et coussins d’appoint intégrés (janvier 2007), à n’importe quelle position que l’ensemble, le coussin ou le siège du véhicule peut être utilisé lorsque le véhicule est en mouvement, doivent répondre aux conditions suivantes :
 
 **a)** ne présenter aucune séparation complète d’un élément d’armature porteur ni aucune séparation partielle exposant des surfaces d’un rayon de moins de 6,4 mm (1/4 pouce) ou des surfaces présentant des saillies dépassant de plus de 9,5 mm (3/8 pouce) la surface de contact adjacente d’un élément d’armature;
 
@@ -11680,27 +9371,27 @@ CES GRAPHIQUES NE SONT PAS EXPOSÉS, VOIR DORS/2002-205, ART. 4.
 
 
 
-**(12)** Les sangles des ceintures fournies avec l’ensemble intégré de retenue d’enfant et utilisées pour retenir l’enfant dans l’ensemble doivent :
+**(12)** Les sangles des ceintures qui sont fournies avec l’ensemble intégré de retenue d’enfant et qui sont utilisées pour retenir l’enfant dans l’ensemble doivent :
 
-**a)** avoir une résistance à la rupture égale à au moins 75 pour cent de leur résistance initiale après avoir subi les essais d’usure par frottement visés à l’article 209 des Méthodes d’essai de sécurité des véhicules automobiles, intitulé « Ceintures de sécurité », en date du 27 février 1984;
-
-
-
-**b)** satisfaire aux exigences des alinéas 209(7)h) à k);
+**a)** avoir une résistance à la rupture égale à au moins 75 pour cent de leur résistance initiale, après avoir subi l’essai d’abrasion visé à la disposition S5.3c) du DNT 209;
 
 
 
-**c)** avoir une largeur d’au moins 38 mm (1 1/2 pouces), mesurée conformément à l’article 209 des Méthodes d’essai de sécurité des véhicules automobiles, intitulé « Ceintures de sécurité », en date du 27 février 1984, si le torse du dispositif anthropomorphe d’essai peut toucher ces sangles au cours d’un essai dynamique de l’ensemble.
+**b)** satisfaire aux exigences des dispositions S4.2e) et f) du DNT 209 et des paragraphes 209(4) à (7) de l’annexe IV du présent règlement;
+
+
+
+**c)** avoir une largeur d’au moins 38 mm (11/2 pouce), mesurée conformément à la disposition S5.1a) du DNT 209, si le torse du dispositif anthropomorphe d’essai peut toucher ces sangles au cours de l’essai dynamique de l’ensemble.
 
 
 
 
 
-**(13)** Toute attache de ceinture et tout élément de pièce métallique de réglage de ceinture utilisés dans un ensemble intégré de retenue d’enfant doivent être conformes aux exigences des paragraphes 209(12), (17), (19) et (22).
+**(13)** Toute attache de ceinture et tout élément de pièce métallique de réglage de ceinture qui sont utilisés dans un ensemble intégré de retenue d’enfant doivent être conformes aux exigences des dispositions S4.3a)(1) et (2) et S4.3b) et g) du DNT 209.
 
 
 
-**(14)** Toute attache de ceinture d’ensemble intégré de retenue d’enfant conçue pour retenir l’enfant conformément à l’article 213.4 des Méthodes d’essai de sécurité des véhicules automobiles, intitulé « Ensembles intégrés de retenue d’enfant et coussins d’appoint intégrés », en date du 15 octobre 1993 :
+**(14)** Toute attache de ceinture d’ensemble intégré de retenue d’enfant conçue pour retenir l’enfant conformément à la Méthode d’essai 213.4 — Ensembles intégrés de retenue d’enfant et coussins d’appoint intégrés (janvier 2007) :
 
 **a)** avant les essais dynamiques :
 
@@ -11730,13 +9421,13 @@ CES GRAPHIQUES NE SONT PAS EXPOSÉS, VOIR DORS/2002-205, ART. 4.
 
 
 
-**b)** n’imposer à l’enfant aucune charge provenant du poids de l’ensemble ou du poids de toute partie du véhicule où est intégré l’ensemble lorsque ce dernier est soumis aux essais visés à l’article 213.4 des Méthodes d’essai de sécurité des véhicules automobiles, intitulé « Ensembles intégrés de retenue d’enfant et coussins d’appoint intégrés », en date du 15 octobre 1993.
+**b)** n’imposer à l’enfant aucune charge provenant du poids de l’ensemble ou du poids de toute partie du véhicule où est intégré l’ensemble lorsque ce dernier est soumis aux essais visés à la Méthode d’essai 213.4 — Ensembles intégrés de retenue d’enfant et coussins d’appoint intégrés (janvier 2007).
 
 
 
 
 
-**(16)** Tout ensemble intégré de retenue d’enfant doit, une fois que le dispositif anthropomorphe d’essai a été placé conformément à l’article 213.4 des Méthodes d’essai de sécurité des véhicules automobiles, intitulé « Ensembles intégrés de retenue d’enfant et coussins d’appoint intégrés », en date du 15 octobre 1993 :
+**(16)** Tout ensemble intégré de retenue d’enfant doit, une fois que le dispositif anthropomorphe d’essai a été placé conformément à la Méthode d’essai 213.4 — Ensembles intégrés de retenue d’enfant et coussins d’appoint intégrés (janvier 2007) :
 
 **a)** assurer la retenue du haut du torse au moyen :
 
@@ -11821,7 +9512,7 @@ CES GRAPHIQUES NE SONT PAS EXPOSÉS, VOIR DORS/2002-205, ART. 4.
 
 
 
-> DORS/94-669, art. 6..
+> DORS/94-669, art. 6; DORS/2007-180, art. 16 et 21..
 
 
 ### Résistance des portes latérales
@@ -11889,7 +9580,7 @@ CES GRAPHIQUES NE SONT PAS EXPOSÉS, VOIR DORS/2002-205, ART. 4.
 
 
 
-**c)** les portes latérales d’un véhicule lorsque, dans le cas où le gabarit de dessin à deux dimensions décrit à l’article 3.1 de la norme J826 de la SAE (juin 1992) est installé dans un siège, le siège est réglé à toute position et le dossier de celui-ci est réglé conformément au paragraphe (6), l’une des conditions suivantes se réalise :
+**c)** les portes latérales d’un véhicule lorsque, dans le cas où le gabarit point H décrit à l’article 4.1 de la norme J826 de la SAE intitulée Devices for Use in Defining and Measuring Vehicle Seating Accommodation (juillet 1995) est installé dans un siège, le siège est réglé à n’importe quelle position et le dossier de celui-ci est réglé conformément au paragraphe (6), l’une des conditions suivantes se réalise :
 
 **(i)** aucun point de la ligne longitudinale horizontale d’une longueur de 254 mm dont le point médian est le point H ne passe par la projection transversale horizontale de l’ouverture de la porte,
 
@@ -11920,7 +9611,7 @@ CE GRAPHIQUE N’EST PAS EXPOSÉ, VOIR DORS/97-201, ART. 3
 
 
 
->  DORS/82-275, art. 1; DORS/97-201, art. 3; DORS/2003-272, art. 28; DORS/2006-94, art. 4(A)..
+> DORS/82-275, art. 1; DORS/97-201, art. 3; DORS/2003-272, art. 28; DORS/2006-94, art. 4(A); DORS/2007-180, art. 17..
 
 
 ### Pare-chocs
@@ -13430,109 +11121,21 @@ où :
 > DORS/2003-272, art. 31..
 
 
-### Inflammabilité
+### Inflammabilité des matériaux intérieurs (Norme 302)
 
 
 **302** 
 
-**(1)** Pour les matériaux utilisés à moins de 13 mm (1/2 po) des objets visés au paragraphe (2) et délimitant l’espace d’air de l’habitacle, la vitesse de combustion ou de propagation de la flamme ne doit pas être supérieure à 101,6 mm (4 po) à la minute, selon les Méthodes d’essai de sécurité des véhicules moteurs, article 302, « Inflammabilité » (le 9 janvier 1978).
+**(1)** Les matériaux intérieurs de tout véhicule de tourisme à usages multiples, voiture de tourisme, véhicule à trois roues, camion et autobus doivent être conformes aux exigences du Document de normes techniques no 302 — Inflammabilité des matériaux intérieurs, avec ses modifications successives.
 
 
 
-**(2)** Sont considérés comme objets
+**(2)** Le présent article cesse d’avoir effet le 1<sup>er</sup> janvier 2012.
 
-**a)** les sièges,
 
 
 
-**b)** les dossiers,
-
-
-
-**c)** les ceintures de sécurité,
-
-
-
-**d)** la garniture du plafond,
-
-
-
-**e)** la capote d’une voiture décapotable,
-
-
-
-**f)** les accoudoirs,
-
-
-
-**g)** les panneaux de garniture des portières avant, arrière et latérales,
-
-
-
-**h)** les tablettes et pochettes,
-
-
-
-**i)** les appuis-têtes,
-
-
-
-**j)** le revêtement du plancher,
-
-
-
-**k)** les pare-soleil,
-
-
-
-**l)** les rideaux,
-
-
-
-**m)** les stores,
-
-
-
-**n)** les couvre-volants,
-
-
-
-**o)** le revêtement du coupe-feu du moteur,
-
-
-
-**p)** les couvre-matelas et
-
-
-
-**q)** tous autres matériaux destinés à amortir le choc et à protéger les occupants en cas de collision, incluant le rembourrage et les dispositifs se déployant en cas d’accident.
-
-
-
-
-
-**(3)** Le matériau est soumis aux essais
-
-**a)** seul, s’il n’adhère qu’en partie à un autre matériau; et
-
-
-
-**b)** avec un autre matériau, s’il y adhère en totalité.
-
-
-
-
-
-**(4)** La vitesse visée au paragraphe (1) ne se mesure pas sur la partie de l’échantillon altérée par son découpage en vue du test.
-
-
-
-**(5)** Est aussi acceptable un matériau qui cesse de brûler moins de 60 secondes et qui n’a pas brûlé sur plus de 50,8 mm (2 po) à partir du moment où le chronométrage a débuté.
-
-
-
-
-> DORS/78-525, art. 2; DORS/79-262, art. 1(F)..
+> DORS/78-525, art. 2; DORS/79-262, art. 1(F); DORS/2007-180, art. 18..
 
 
 ### Déversement d’électrolyte et protection contre les chocs électriques (Norme 305)
@@ -13566,6 +11169,31 @@ où :
 
 
 > DORS/2001-486, art. 2; DORS/2003-272, art. 32; DORS/2004-89, art. 4; DORS/2004-250, art. 5; DORS/2005-42, art. 9 et 10; DORS/2006-94, art. 4(A)..
+
+
+### Mécanisme de déverrouillage interne du coffre (Norme 401)
+
+
+**401** 
+
+**(1)** Les voitures de tourisme et les véhicules à trois roues doivent être conformes aux exigences applicables aux voitures de tourisme du Document de normes techniques no 401 — Mécanisme de déverrouillage interne du coffre (DNT 401), avec ses modifications successives.
+
+
+
+**(2)** Cependant, les véhicules construits avant le 1<sup>er</sup> septembre 2010 n’ont pas à être munis d’un mécanisme de déverrouillage interne du coffre.
+
+
+
+**(3)** Le présent article ne s’applique pas aux véhicules munis d’une porte arrière au sens de la disposition S3 du DNT 401.
+
+
+
+**(4)** Le présent article cesse d’avoir effet le 1<sup>er</sup> janvier 2012.
+
+
+
+
+> DORS/2007-180, art. 19..
 
 
 ### Véhicules à basse vitesse (Norme 500)
@@ -13616,7 +11244,7 @@ où :
 
 
 
-**b)** un dispositif anthropomorphe d’essai représentant le 50<sup>e</sup> percentile adulte du sexe masculin ou une masse équivalente est situé à chaque place assise désignée extérieure avant; toutefois, si une masse équivalente est utilisée, le centre de cette masse doit coïncider, à 12 mm ou moins, tant à la verticale qu’à l’horizontale, avec un point se trouvant 6 mm sous le point H déterminé à l’aide du matériel et selon la marche à suivre prévus dans la norme SAE J826 (juin 1992), sauf que la longueur de la jambe inférieure et celle de la cuisse de la machine point H doivent être réglées à 414 mm et à 401 mm respectivement plutôt que selon les valeurs indiquées sous la rubrique « 50<sup>th</sup> Percentile » du tableau 1 de la norme SAE J826;
+**b)** un dispositif anthropomorphe d’essai représentant le 50<sup>e</sup> percentile adulte du sexe masculin ou une masse équivalente est situé à chaque place assise désignée extérieure avant; toutefois, si une masse équivalente est utilisée, le centre de cette masse doit coïncider, à 12 mm ou moins, tant à la verticale qu’à l’horizontale, avec un point se trouvant 6 mm sous le point H déterminé à l’aide du matériel et selon la marche à suivre prévus dans la norme J826 de la SAE intitulée Devices for Use in Defining and Measuring Vehicle Seating Accommodation (juillet 1995), sauf que la longueur de la jambe inférieure et celle de la cuisse de la machine point H doivent être réglées à 414 mm et à 401 mm, respectivement, plutôt que selon les valeurs qui figurent sous la rubrique « 50th percentile » du tableau 1 de cette norme;
 
 
 
@@ -13671,7 +11299,7 @@ CE GRAPHIQUE N’EST PAS EXPOSÉ, VOIR DORS/2003-272, ART. 33
 
 
 
->  DORS/2003-272, art. 33..
+> DORS/2003-272, art. 33; DORS/2007-180, art. 20..
 
 
 ### Essieux
