@@ -26,6 +26,8 @@ Enabling authorities:
 
 - **(1)** In these Regulations,
 
+***AATCC*** means the American Association of Textile Chemists and Colorists; (*AATCC*)
+
 ***accessory mass*** means the total mass of the stock optional items with which a vehicle is capable of being equipped minus the total mass of the standard items that those optional items replace; (*masse des accessoires*)
 
 ***Act*** means the [Motor Vehicle Safety Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2016.md); (*Loi*)
@@ -47,6 +49,8 @@ Enabling authorities:
 ***ambient temperature*** means the surrounding air temperature measured at such a distance from a vehicle under test that the temperature is not significantly affected by heat from the vehicle; (*température ambiante*)
 
 ***American specifications vehicle***[Repealed, SOR/95-147, s. 1]
+
+***ANSI*** means the American National Standards Institute; (*ANSI*)
 
 ***ANS Z26***[Repealed, SOR/94-717, s. 1]
 
@@ -73,13 +77,13 @@ Enabling authorities:
 
 ***approved*** means approved by the Minister; (*approuvé*)
 
-***armour*** means, for the purposes of section 106, a protective material installed on a brake hose to increase the resistance of the hose or hose assembly to abrasion or impact damage; (*armure*)
+***armour***[Repealed, SOR/2007-180, s. 1]
 
 ***assembler***[Repealed, SOR/95-147, s. 1]
 
 ***ASTM*** means the American Society for Testing Materials; (*ASTM*)
 
-***attachment hardware*** means hardware designed for securing a seat belt assembly to the vehicle; (*pièces de fixation*)
+***attachment hardware*** means the hardware designed for securing the webbing of a seat belt assembly to a vehicle; (*pièces de fixation*)
 
 ***automatic-locking retractor*** means a retractor incorporating adjustment hardware that has a positive self-locking mechanism that is capable, when locked, of withstanding restraint forces; (*rétracteur autobloquant*)
 
@@ -95,7 +99,7 @@ Enabling authorities:
 
 ***beam contributor***[Repealed, SOR/96-366, s. 1]
 
-***blister*** means, for the purposes of section 116 of Schedule IV, a cavity or sac on the surface of a brake cup; (*ampoule*)
+***blister***[Repealed, SOR/2007-180, s. 1]
 
 ***body type*** means the general configuration or shape of a vehicle distinguished by the number of doors or windows, cargo carrying features, the roofline (e.g., sedan, fastback, hatchback) or other characteristics; (*type de carrosserie*)
 
@@ -103,13 +107,13 @@ Enabling authorities:
 
 ***booster cushion***[Repealed, SOR/98-160, s. 1]
 
-***brake fluid*** means brake fluid for use in hydraulic brake systems, except hydraulic system mineral oil; (*liquide pour freins*)
+***brake fluid***[Repealed, SOR/2007-180, s. 1]
 
-***brake hose*** means a flexible conduit, other than a vacuum tubing connector, manufactured for use in a brake system to transmit or contain the fluid pressure or vacuum used to apply force to a vehicle’s brakes; (*boyau de frein*)
+***brake hose***[Repealed, SOR/2007-180, s. 1]
 
-***brake hose assembly*** means a brake hose, with or without armour, equipped with brake hose end fittings for use in a brake system, but does not include an air or vacuum assembly prepared by the owner or operator of a used vehicle, by his employee or by a repair facility, for installation in that used vehicle; (*ensemble de boyau de frein*)
+***brake hose assembly***[Repealed, SOR/2007-180, s. 1]
 
-***brake hose end fitting*** means a coupler, other than a clamp, designed to be attached to the end of a brake hose; (*raccord d’extrémité de boyau de frein*)
+***brake hose end fitting***[Repealed, SOR/2007-180, s. 1]
 
 ***brake power assist unit*** means a device installed in a hydraulic brake system that reduces the amount of muscular force that a driver must apply to actuate the system, and that, if inoperative, does not prevent the driver from braking the vehicle by a continued application of muscular force on the service brake control; (*unité d’assistance de frein*)
 
@@ -146,7 +150,7 @@ Enabling authorities:
 
 ***child restraint system***[Repealed, SOR/98-160, s. 1]
 
-***chipping*** means, for the purposes of section 116 of Schedule IV, a condition in which small pieces are missing from the outer surface of a brake cup; (*ébréché*)
+***chipping***[Repealed, SOR/2007-180, s. 1]
 
 ***CMVSS*** is an abbreviation for Canada Motor Vehicle Safety Standard; (*NSVAC*)
 
@@ -188,7 +192,7 @@ Enabling authorities:
 
 ***designated seating capacity*** means the number of designated seating positions provided in a vehicle or, in the case of a motor home that has a GVWR greater than 4 536 kg, may, at the option of the manufacturer, mean the number of sleeping positions provided in the motor home; (*nombre désigné de places assises*)
 
-***designated seating position*** means any plan view position capable of accommodating a person at least as large as a 5th percentile adult female, as defined in section 100 of Schedule IV, where the overall seat configuration and design and the vehicle design are such that the position is likely to be used as a seating position while the vehicle is in motion, but does not include any plan view position of temporary or folding jump seats or other auxiliary seating accommodation; (*place assise désignée*)
+***designated seating position*** means any plan view position capable of accommodating a person at least as large as a 5th percentile adult female where the overall seat configuration and design and the vehicle design are such that the position is likely to be used as a seating position while the vehicle is in motion, but does not include any plan view position of temporary or folding jump seats or other auxiliary seating accommodation; (*place assise désignée*)
 
 ***disc wheel*** means a supporting member for a tire or tire and tube assembly, comprising a rim with a dish-shaped component that is permanently attached to the inner circumference of the rim; (*roue à disque*)
 
@@ -222,15 +226,23 @@ Enabling authorities:
 
 ***engine type*** means a power source distinguished by the fuel utilized, number of cylinders, displacement, net brake horsepower or other characteristics; (*type de moteur*)
 
-***ERBP*** means, for the purposes of section 116 of Schedule IV, equilibrium reflux boiling point; (*ERBP*)
+***ERBP***[Repealed, SOR/2007-180, s. 1]
 
 ***final-stage manufacturer*** means a company that performs the manufacturing operations on an incomplete vehicle that turn the incomplete vehicle into a completed vehicle; (*fabricant à l’étape finale*)
+
+***fixed collision barrier*** means a device that
+- **(a)** consists of
+	- **(i)** a structure with a flat, vertical, unyielding impact surface that is of a size sufficient to ensure that no portion of a vehicle striking the surface projects or passes beyond the surface, and
+	- **(ii)** a horizontal approach surface that does not impede vehicle motion during impact and that is of a size sufficient to ensure that a vehicle will be able to attain a stable attitude during its approach to the impact surface, and
+- **(b)** does not absorb any significant portion of the kinetic energy of a vehicle striking the impact surface; (*barrière fixe pour essais de collision*)
 
 ***flash*** means a cycle of automatic activation and deactivation of a lamp that continues until stopped either automatically or manually; (*clignotement*)
 
 ***forward control configuration*** means a configuration in which more than half of the engine length is rearward of the foremost point of the windshield base and the steering wheel hub is in the forward quarter of the vehicle length; (*type à cabine avancée*)
 
-***free length*** means, for the purposes of section 106, the linear measurement of brake hose in a straight position exposed between the brake hose end fittings of a brake hose assembly; (*longueur libre*)
+***free length***[Repealed, SOR/2007-180, s. 1]
+
+***front outboard designated seating position*** means the driver’s designated seating position and the forwardmost right outboard designated seating position, but does not include a school bus passenger designated seating position; (*place assise désignée extérieure avant*)
 
 ***fuel container*** means one or more fuel containers with integral valving, pressure relief devices, tubing, hoses and mounting brackets; (*réservoir de carburant*)
 
@@ -250,21 +262,25 @@ Enabling authorities:
 
 ***glazing material manufacturer*** means a person engaged in the business of fabricating, laminating or tempering glazing material. (*fabricant de vitrages*)
 
-***grade*** means, for the purposes of section 116 of Schedule IV, a classification of brake fluid on the basis of its physical and chemical properties; (*catégorie*)
+***grade***[Repealed, SOR/2007-180, s. 1]
 
 ***gross axle weight rating*** or ***GAWR*** means the value specified by the vehicle manufacturer as the load-carrying capacity of a single axle system, as measured at the tire-ground interfaces; (*poids nominal brut sur l’essieu*or*PNBE*)
 
 ***gross vehicle weight rating*** or ***GVWR*** means the value specified by the vehicle manufacturer as the loaded weight of a single vehicle; (*poids nominal brut du véhicule*or*PNBV*)
 
-***H-point*** means the mechanically hinged hip point of a manikin that simulates the actual pivot centre of the human torso and thigh, described in SAE Standard J826 APR80, Devices for Use in Defining and Measuring Vehicle Seating Accommodation; (*point H*)
+***H-point*** means the mechanically hinged hip point of a manikin that simulates the actual pivot centre of the human torso and thigh, described in SAE Standard J826, Devices for Use in Defining and Measuring Vehicle Seating Accommodation (July 1995); (*point H*)
 
 ***H-V axis*** means the characteristic axis of the light pattern of a lamp, passing through the centre of the light source, used as the direction of reference (H = 0°, V = 0°) for photometric measurements and for the design of the installation of a lamp on a vehicle; (*axe H-V*)
 
-***hardware*** means any metal or rigid plastic part designed to secure a person in a vehicle in conjunction with straps or webbing; (*pièces*)
+***hardware***, when used in relation to a seat belt assembly, means any metal or rigid plastic part; (*pièces*)
+
+***head impact area*** means the area described in subsection 201(1) of Schedule IV; (*zone d’impact de la tête*)
 
 ***headlamp*** means, for the purposes of sections 108 and 108.1 of Schedule IV, a lamp used to illuminate the road and objects on the road ahead of the vehicle, but does not include a fog lamp or a supplementary driving lamp; (*projecteur*)
 
 ***headlamp assembly*** means an assembly that consists of one or more headlamps, aiming devices, headlamp retaining components, electrical connectors and mounting brackets, and which may include a housing and one or more bulbs; (*montage de projecteur*)
+
+***head restraint*** means a device that limits rearward angular displacement of the occupant’s head relative to their torso line; (*appuie-tête*)
 
 ***heavy duty vehicle***[Repealed, SOR/2001-35, s. 1]
 
@@ -278,7 +294,7 @@ Enabling authorities:
 
 ***hydraulic brake system*** means a system that uses hydraulic fluid as a medium for transmitting force from a service brake control to the service brake, and that may incorporate a brake power assist unit or a brake power unit; (*système de freinage hydraulique*)
 
-***hydraulic system mineral oil*** means a mineral-oil-based fluid designed for use in motor vehicle brake systems in which none of the components contacting the fluid are SBR, EPDM, neoprene or natural rubber; (*huile minérale pour système hydraulique*)
+***hydraulic system mineral oil***[Repealed, SOR/2007-180, s. 1]
 
 ***idle position*** means the position of the throttle at which it first comes in contact with an engine idle speed control appropriate for existing conditions according to the manufacturers’ recommendations respecting engine speed adjustments for a cold engine, air conditioning, emission control and throttle setting devices; (*position de ralenti*)
 
@@ -312,7 +328,7 @@ Enabling authorities:
 
 ***intermediate manufacturer*** means a company, other than an incomplete vehicle manufacturer or final-stage manufacturer, that performs manufacturing operations on an incomplete vehicle; (*fabricant intermédiaire*)
 
-***IRHD*** means International Rubber Hardness Degrees as referred to in ASTM D1415-1968, Standard Test Method of International Hardness of Vulcanized Natural and Synthetic Rubbers; (*IRHD*)
+***IRHD***[Repealed, SOR/2007-180, s. 1]
 
 ***leaded gasoline*** means gasoline that contains more than
 - **(a)** 0.06 grams of lead per Imperial gallon (0.013 grams per litre), or
@@ -336,7 +352,7 @@ Enabling authorities:
 
 ***load divider dolly*** means a trailer that consists of a trailer chassis and one or more axles, with no solid bed, body or container attached, and that is designed exclusively to support a portion of the load on a trailer or truck excluded from all the requirements of Technical Standards Document No. 121, Air Brake Systems; (*chariot de répartition de charge*)
 
-***load limiter*** means a seat belt assembly component or seat belt assembly feature that controls tension on a seat belt to modulate the forces that are imparted to an occupant restrained by the seat belt assembly during a collision; (*limiteur de charge*)
+***load-limiter*** means a seat belt assembly component or seat belt assembly feature that controls tension on a seat belt to modulate the forces that are imparted to an occupant who is restrained by the seat belt assembly during a collision; (*limiteur de charge*)
 
 ***lower connector system*** means a system consisting of two connectors that each fit inside a checking device that has the envelope dimensions shown in Figure 10 of Schedule 10 to the [Motor Vehicle Restraint Systems and Booster Cushions Safety Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/98/159.md), are attached to the lower part of a restraint system or booster cushion in a manner that does not allow for their removal without the use of tools, and enable the restraint system or booster cushion to be securely attached to a lower universal anchorage system of a vehicle; (*système d’attaches inférieures*)
 
@@ -407,11 +423,11 @@ but does not include a power-assisted bicycle, a restricted-use motorcycle, a lo
 
 ***Motor Vehicle Safety Test Methods***[Repealed, SOR/97-141, s. 1]
 
-***Motor Vehicle Safety Test Methods, section 106, “Brake Hoses”*** means the document entitled Motor Vehicle Safety Test Methods, section 106 — Brake Hoses (November 1, 1996); (*Méthodes d’essai de sécurité des véhicules automobiles, article 106, « Boyaux de frein »*)
+***Motor Vehicle Safety Test Methods, section 106, “Brake Hoses”***[Repealed, SOR/2007-180, s. 1]
 
 ***Motor Vehicle Safety Test Methods, section 116, “Hydraulic Brake Fluid”***[Repealed, SOR/95-536, s. 7]
 
-***Motor Vehicle Safety Test Methods, section 116, “Hydraulic Brake Fluids”*** means the document entitled Motor Vehicle Test Methods, section 116 — Hydraulic Brake Fluids (November 1, 1996); (*Méthodes d’essai de sécurité des véhicules automobiles, article 116, « Liquides pour freins hydrauliques »*)
+***Motor Vehicle Safety Test Methods, section 116, “Hydraulic Brake Fluids”***[Repealed, SOR/2007-180, s. 1]
 
 ***multiple compartment lamp***[Repealed, SOR/96-366, s. 1]
 
@@ -432,9 +448,9 @@ but does not include a power-assisted bicycle, a restricted-use motorcycle, a lo
 
 ***normal occupants’ mass*** means 70 kg multiplied by the number of occupants set out in column II of the table to section 110 of Schedule IV; (*masse normale des occupants*)
 
-***occupant*** means a person or manikin seated in a vehicle and unless otherwise specified means a person or manikin having the dimensions and weight of a 95th percentile adult male, as defined in section 100 of Schedule IV; (*occupant*)
+***occupant*** means a person or manikin seated in a vehicle and, unless otherwise specified, means a person or manikin having the dimensions and weight of a 95th percentile adult male; (*occupant*)
 
-***occupant compartment air space*** means the space within an occupant compartment that normally contains refreshable air; (*espace d’air de l’habitacle*)
+***occupant compartment air space***[Repealed, SOR/2007-180, s. 1]
 
 ***occupant distribution*** means the distribution of occupants in a vehicle in a manner specified in Column III of Table I to section 110 of Schedule IV; (*répartition des occupants*)
 
@@ -465,6 +481,8 @@ but does not include a power-assisted bicycle, a restricted-use motorcycle, a lo
 
 ***optional item*** means automatic transmission, power steering, power brakes, power windows, power seats, a radio or heater; (*articles facultatifs*)
 
+***outboard designated seating position*** means a designated seating position where a longitudinal vertical plane tangent to the outboard side of the seat cushion is less than 305 mm from the innermost point on the inside surface of the vehicle, which point is located vertically between the seating reference point and the shoulder reference point and longitudinally between the front and rear edges of the seat cushion; (*place assise désignée extérieure*)
+
 ***overall width*** means the nominal design dimension of the widest part of the vehicle with doors and windows closed and wheels in the straight ahead position, exclusive of signal lamps, marker lamps, outside rearview mirrors, flexible fender extensions and mud flaps; (*largeur hors tout*)
 
 ***parking brake*** means a mechanism designed to prevent the movement of a stationary vehicle; (*frein de stationnement*)
@@ -479,9 +497,7 @@ but does not include a power-assisted bicycle, a restricted-use motorcycle, a lo
 
 ***pelvic restraint*** means a seat belt assembly or portion thereof intended to restrain movement of the pelvis; (*ceinture sous-abdominale*)
 
-***permanently attached hose end fitting*** means a brake hose end fitting that is
-- **(a)** permanently attached to a brake hose by deformation of the fitting about the hose by crimping or swaging, or
-- **(b)** attached to a brake hose by use of a sacrificial sleeve or ferrule that requires replacement each time a brake hose assembly is rebuilt; (*raccord d’extrémité de boyau fixé en permanence*)
+***permanently attached hose end fitting***[Repealed, SOR/2007-180, s. 1]
 
 ***plant of manufacture*** means the plant at which the manufacturer affixes the vehicle identification number; (*usine de construction*)
 
@@ -501,7 +517,9 @@ but does not include a power-assisted bicycle, a restricted-use motorcycle, a lo
 	- **(i)** an enabling mechanism to turn the electric motor on and off that is separate from the accelerator controller and fitted in such a manner that it is operable by the driver, or
 	- **(ii)** a mechanism that prevents the motor from being engaged before the bicycle attains a speed of 3 km/h; (*bicyclette assistée*)
 
-***power-operated roof panel*** means a panel, in the roof of a vehicle, that moves on slides or hinges, the opening or closing of which is operated by a power source within the vehicle; (*panneau du pavillon à servocommande*)
+***power-operated roof panel***[Repealed, SOR/2007-180, s. 1]
+
+***power-operated roof panel system*** means a panel or panels in the roof of a vehicle that move on slides or hinges, the opening or closing of which is operated by a power source within the vehicle, but does not include a convertible top system; (*système de toit ouvrant à commande électrique*)
 
 ***prescribed class*** means a class of vehicle listed in Schedule III or the class of incomplete vehicle prescribed under subsection 4(1.1); (*catégorie réglementaire*)
 
@@ -516,6 +534,8 @@ but does not include a power-assisted bicycle, a restricted-use motorcycle, a lo
 ***push-out window*** means a vehicle window designed to open outward to provide for emergency egress; (*fenêtre basculante*)
 
 ***readily removable window*** means a window that can be quickly and completely removed from a vehicle without tools and, in the case of a bus having a GVWR of more than 4 535.9 kg (10,000 pounds), shall include a push-out window and a window mounted in an emergency exit that can be manually pushed out of its location in the vehicle without the use of tools, regardless of whether the window remains hinged at one side to the vehicle; (*fenêtre amovible*)
+
+***rear outboard designated seating position*** means any outboard designated seating position that is to the rear of a front outboard designated seating position, but does not include a designated seating position adjacent to a walkway located between the seat and the side of the vehicle interior that is designed to allow access to more rearward seating positions; (*place assise désignée extérieure arrière*)
 
 ***recreational trailer*** means a trailer designed to provide temporary living accommodation for travel, vacation or recreational use; (*remorque de camping*)
 
@@ -543,41 +563,43 @@ but does not include a power-assisted bicycle, a restricted-use motorcycle, a lo
 
 ***rim width*** means the nominal distance between rim flanges; (*largeur de jante*)
 
-***rupture*** means, for the purposes of section 106, any failure that results in the separation of a brake hose from its brake hose end fitting or in leakage; (*rupture*)
+***rupture***[Repealed, SOR/2007-180, s. 1]
 
-***SAE*** means the Society of Automotive Engineers, Inc.; (*SAE*)
+***SAE*** means the Society of Automotive Engineers, Inc. (SAE International); (*SAE*)
 
-***SAE Compatibility Fluid*** means SAE RM-66-04 Compatibility Fluid as described in Appendix B of SAE Standard J1703, Motor Vehicle Brake Fluid, January 1995; (*liquide de compatibilité SAE*)
+***SAE Compatibility Fluid***[Repealed, SOR/2007-180, s. 1]
 
 ***school bus*** means a bus designed or equipped primarily to carry students to and from school; (*autobus scolaire*)
 
-***scuffing*** means, for the purposes of section 116 of Schedule IV, a visible erosion of a portion of the outer surface of a brake cup; (*éraflure*)
+***scuffing***[Repealed, SOR/2007-180, s. 1]
 
 ***sealed beam headlamp*** means, for the purposes of sections 108 and 108.1 of Schedule IV, a headlamp comprising a reflector, a lens and one or more light sources, forming an integral whole which is indivisibly formed and cannot be dismantled without rendering the unit completely unusable; (*projecteur scellé*)
 
 ***seat anchorage*** means any component that transfers a vehicle seat load to the vehicle structure; (*ancrage du siège*)
 
-***seat back retainer*** means the portion of a seat belt assembly designed to restrict forward movement of the seat back; (*dispositif de maintien du dossier*)
+***seat back retainer***[Repealed, SOR/2007-180, s. 1]
 
 ***seat belt anchorage*** means any component, other than the webbing or straps, involved in transferring seat belt load to the vehicle structure, including the attachment hardware, seat frames, seat pedestals, the vehicle structure and any part of the vehicle the failure of which causes separation of the belt from the vehicle structure; (*ancrage de ceinture de sécurité*)
 
-***seat belt assembly*** means any strap, webbing or similar device designed to secure a person in a vehicle in order to mitigate the results of any accident and includes
-- **(a)** all necessary buckles and other fasteners and all hardware, and
-- **(b)** a belt assembly that is part of an automatic occupant protection system; (*ceinture de sécurité*)
-
-***seat orientation reference line (SORL)*** means the horizontal line through point Z as illustrated in Figure 1 of sections 213, 213.1 and 213.3; (*ligne repère d’orientation du siège (LROS)*)
+***seat belt assembly*** means any strap, webbing or similar device designed to secure a person in a vehicle in order to mitigate the results of any accident and includes all necessary buckles and other fasteners and all attachment hardware; (*ceinture de sécurité*)
 
 ***seating reference point*** means the unique Design H-point, as defined in section 2.2.11.1 of SAE Recommended Practice J1100 (June 1993), that
 - **(a)** establishes the rearmost normal design driving or riding position of each designated seating position, taking into account all modes of adjustment — horizontal, vertical and tilt — in a vehicle,
 - **(b)** has X, Y and Z coordinates, as defined in section 2.2.3 of SAE Recommended Practice J1100 (June 1993), established relative to the designed vehicle structure,
 - **(c)** simulates the position of the pivot centre of the human torso and thigh, and
-- **(d)** is the reference point employed to position the H-point template with the 95th percentile leg, as described in section 3.1 of SAE Standard J826 (June 1992), or, if that drafting template cannot be positioned, the reference point when the seat is in its rearmost adjustment position; (*point de référence de position assise*)
+
+
+- **(d)** is the reference point employed to position the H-point template with the 95th percentile leg, described in section 4.1 of SAE Standard J826, Devices for Use in Defining and Measuring Vehicle Seating Accommodation (July 1995), or, if that template cannot be positioned, the reference point when the seat is in its rearmost adjustment position; (*point de référence de position assise*)
+
+***seat orientation reference line (SORL)*** means the horizontal line through point Z as illustrated in Figure 1 of sections 213, 213.1 and 213.3; (*ligne repère d’orientation du siège (LROS)*)
+
+***semi-trailer*** means a trailer constructed in such a manner that a substantial part of its weight rests upon or is carried by another vehicle by means of a fifth-wheel or similar coupling, but does not include a pole trailer, or any trailer designed to be drawn behind a passenger car or multi-purpose passenger vehicle; (*semi-remorque*) 
 
 ***series*** means the name that a manufacturer applies to a subdivision of a line denoting the price, size or weight identification and that is utilized by the manufacturer for marketing purposes; (*série*)
 
 ***service brake*** means the primary mechanism designed to stop a vehicle; (*frein de service*)
 
-***sloughing*** means, for the purposes of section 116 of Schedule IV, such degradation of a brake cup, evidenced by the presence of carbon black loosely held on the brake cup surface, that a visible black streak is produced when the cup, with 500 ± 10 gram deadweight applied to it, is drawn base down over a sheet of white bond paper placed on a firm flat surface; (*encrassement*)
+***sloughing***[Repealed, SOR/2007-180, s. 1]
 
 ***snowmobile*** means a vehicle, excluding a competition vehicle and a vehicle imported temporarily for special purposes, but including a snowmobile conversion vehicle, that has a mass of not more than 450 kg, is designed primarily for travel on snow, has one or more steering skis and is driven by means of an endless belt or belts in contact with the ground; (*motoneige*)
 
@@ -607,7 +629,7 @@ but does not include a power-assisted bicycle, a restricted-use motorcycle, a lo
 
 ***steering shaft*** means a component that transmits steering torque from the steering wheel to the steering gear; (*arbre de direction*)
 
-***stickiness*** means, for the purposes of section 116 of Schedule IV, a condition on the surface of a brake cup such that fibres will be pulled from a wad of U.S.P. absorbent cotton when the wad is drawn across the surface of the cup; (*gommage*)
+***stickiness***[Repealed, SOR/2007-180, s. 1]
 
 ***stopping distance*** means the distance travelled by a vehicle from the point at which force is applied to the brake control to the point at which the vehicle reaches a full stop; (*distance d’arrêt*)
 
@@ -632,6 +654,8 @@ but does not include a power-assisted bicycle, a restricted-use motorcycle, a lo
 - **(a)** connects to the driver-operated accelerator control system, and
 - **(b)** controls the engine speed; (*papillon des gaz*)
 
+***torso line*** means the line connecting the H-point and the shoulder reference point, described in SAE Standard J826, Devices for Use in Defining and Measuring Vehicle Seating Accommodation (July 1995); (*ligne de torse*)
+
 ***trailer*** means a vehicle designed to carry or accommodate persons or property and to be drawn behind another vehicle, and includes a bus trailer, a pole trailer and a cable reel trailer, but does not include a mobile home, a trailer converter dolly or any earth-moving equipment, an implement of farm husbandry or a vehicle imported temporarily for special purposes; (*remorque*)
 
 ***trailer converter dolly*** means a conversion chassis that is equipped with one or more axles, a lower half of a fifth-wheel coupling and one or two drawbars, but does not include a vehicle imported temporarily for special purposes; (*chariot de conversion*)
@@ -642,15 +666,21 @@ but does not include a power-assisted bicycle, a restricted-use motorcycle, a lo
 
 ***truck tractor*** means a truck designed primarily for drawing other vehicles and not constructed for carrying any load other than a part of the weight of the vehicle and load drawn, and includes a vehicle designed to accept a fifth-wheel coupling but does not include a crane-equipped breakdown vehicle; (*camion-tracteur*)
 
-***Type 1***, when used in relation to a seat belt assembly, means a pelvic restraint; (*type 1*)
-
-***Type 2***, when used in relation to a seat belt assembly, means a combination pelvic and upper torso restraint; (*type 2*)
-
-***Type 2A***, when used in relation to a seat belt assembly, means an upper torso restraint for use only in conjunction with a pelvic restraint to constitute a Type 2 seat belt assembly; (*type 2A*)
+***Type 1***[Repealed, SOR/2007-180, s. 1]
 
 ***type 1 headlamp***[Repealed, SOR/91-692, s. 1]
 
+***Type 1 seat belt assembly*** means a pelvic restraint; (*ceinture de sécurité de type 1*)
+
+***Type 2***[Repealed, SOR/2007-180, s. 1]
+
 ***type 2 headlamp***[Repealed, SOR/91-692, s. 1]
+
+***Type 2 seat belt assembly*** means a combination pelvic and upper torso restraint; (*ceinture de sécurité de type 2*)
+
+***Type 2A***[Repealed, SOR/2007-180, s. 1]
+
+***Type 2A shoulder belt*** means an upper torso restraint for use only in conjunction with a pelvic restraint to constitute a Type 2 seat belt assembly; (*ceinture diagonale de type 2A*)
 
 ***unit magnification mirror*** means a plane or flat mirror with a reflective surface through which the angular height and width of the image of an object is equal to the angular height and width of the object when viewed directly at the same distance except for flaws that do not exceed normal manufacturing tolerances and includes a prismatic day-night adjustment rearview mirror that provides unit magnification in one of its positions; (*miroir plan*)
 
@@ -668,10 +698,7 @@ but does not include a power-assisted bicycle, a restricted-use motorcycle, a lo
 
 ***user-ready tether anchorage*** means a device that transfers tether strap loads from a restraint system to the vehicle structure or a seat structure and is designed to accept directly a tether strap hook without requiring any other device to be installed to accept the tether strap hook; (*ancrage d’attache prêt à utiliser*)
 
-***vacuum tubing connector*** means, for the purposes of section 106, a flexible conduit that
-- **(a)** connects metal or rigid plastic tubing to metal or rigid plastic tubing for use in a vacuum brake system,
-- **(b)** is attached without brake hose end fittings, and
-- **(c)** when installed, has an unsupported length less than the total length of those portions that cover the metal or rigid plastic tubing in a brake system; (*raccord de canalisation à vide*)
+***vacuum tubing connector***[Repealed, SOR/2007-180, s. 1]
 
 ***variable brake proportioning system*** means a system that has one or more proportioning devices that automatically change the brake pressure ratio between any two or more wheels to compensate for changes in wheel loading resulting from static load changes or dynamic weight transfer, or from deceleration; (*compensateur de freinage*)
 
@@ -706,12 +733,20 @@ except that the volume of fuel referred to in paragraph (b) does not include any
 
 ***webbing*** means a narrow band of fabric woven with continuous filling yarns and finished selvages; (*sangle*)
 
-***wet ERBP*** means the equilibrium reflux boiling point of the brake fluid after it has been humidified under controlled conditions; (*ERBP humide*)
+***wet ERBP***[Repealed, SOR/2007-180, s. 1]
 
 ***work vehicle*** means a vehicle designed primarily for the performance of work in the construction of works of civil engineering and in maintenance, that is not constructed on a truck-chassis or truck-type chassis, but does not include a tractor or any vehicle designed primarily to be drawn behind another vehicle. (*véhicule de travail*)
 
+***5th percentile adult female*** means a person having as physical characteristics a mass of 46.3 kg, height of 1499 mm, erect sitting height of 785 mm, normal sitting height of 752 mm, hip sitting breadth of 325 mm, hip sitting circumference of 925 mm, waist sitting circumference of 599 mm, chest depth of 191 mm, bust circumference of 775 mm, chest upper circumference of 757 mm, chest lower circumference of 676 mm, knee height of 455 mm, popliteal height of 356 mm, elbow rest height of 180 mm, thigh clearance height of 104 mm, buttock-to-knee length of 518 mm, buttock-to-poples length of 432 mm, elbow-to-elbow breadth of 312 mm and seat breadth of 312 mm; (*5<sup>e</sup> percentile adulte du sexe féminin*)
+
+***50th percentile adult male*** means a person having as physical characteristics a mass of 74.4 kg plus or minus 1.4 kg, erect sitting height of 907 mm plus or minus 3 mm, hip sitting breadth of 373 mm plus or minus 18 mm, hip sitting circumference of 1067 mm, waist sitting circumference of 813 mm plus or minus 15 mm, chest depth of 236 mm plus or minus 5 mm and chest circumference of 950 mm plus or minus 15 mm; (*50<sup>e</sup> percentile adulte du sexe masculin*)
+
+***50th percentile six-year-old child*** means a person having as physical characteristics a mass of 21.5 kg, erect sitting height of 645 mm, hip sitting breadth of 213 mm, hip sitting circumference of 607 mm and waist sitting circumference of 528 mm; (*50<sup>e</sup> percentile enfant de six ans*)
+
+***95th percentile adult male*** means a person having as physical characteristics a mass of 97.5 kg, height of 1849 mm, erect sitting height of 965 mm, normal sitting height of 930 mm, hip sitting breadth of 419 mm, hip sitting circumference of 1199 mm, waist sitting circumference of 1080 mm, chest depth of 267 mm, chest circumference of 1130 mm, knee height of 594 mm, popliteal height of 490 mm, elbow rest height of 295 mm, thigh clearance height of 175 mm, buttock-to-knee length of 640 mm, buttock-to-poples length of 549 mm, elbow-to-elbow breadth of 506 mm and seat breadth of 404 mm. (*95<sup>e</sup> percentile adulte du sexe masculin*)
+
 - **(2)** In the case of any bench or split-bench seat having more than 1 270 mm of hip room, as measured in accordance with sections 5.1.32, 5.2.31 and 5.4.26 of SAE Recommended Practice J1100 (June 1993), in a passenger car, truck or multi-purpose passenger vehicle having a GVWR of less than 4 536 kg, the seat shall be deemed to contain not less than three designated seating positions, unless the seat design or vehicle design is such that the centre position is not capable of being used as a seating position.
-> SOR/78-257, s. 1; SOR/78-351, s. 1; SOR/78-525, s. 1; SOR/79-306, s. 1; SOR/79-339, s. 1; SOR/79-340, s. 1; SOR/79-374, s. 1; SOR/79-677, s. 1; SOR/79-719, s. 1; SOR/79-940, s. 1; SOR/80-161, s. 1; SOR/80-282, s. 1; SOR/80-439, s. 1; SOR/80-440, s. 1; SOR/80-636, s. 1; SOR/80-638, s. 1; SOR/80-782, s. 1; SOR/81-88, s. 1; SOR/81-1033, s. 1; SOR/82-569, s. 1; SOR/82-656, s. 1; SOR/82-753, s. 1; SOR/82-754, s. 1; SOR/83-176, s. 1; SOR/83-859, s. 1; SOR/84-374, s. 1; SOR/84-812, s. 1; SOR/86-161, s. 1; SOR/86-683, s. 1; SOR/86-976, s. 1; SOR/86-977, s. 1; SOR/87-154, s. 1; SOR/87-497, s. 1; SOR/87-578, s. 1; SOR/87-660, s. 1; SOR/88-268, s. 1; SOR/89-384, s. 1; SOR/90-588, s. 1; SOR/90-805, s. 1; SOR/91-425, s. 1; SOR/91-692, s. 1; SOR/92-173, s. 1; SOR/92-250, s. 1; SOR/92-545, s. 1; SOR/93-5, s. 1; SOR/93-31, s. 1; SOR/93-146, s. 1; SOR/93-561, s. 1; SOR/94-291, s. 1; SOR/94-669, s. 1; SOR/94-670, s. 2(F); SOR/94-692, s. 2(F); SOR/94-717, s. 1; SOR/95-147, s. 1; SOR/95-164, s. 1; SOR/95-536, s. 7; SOR/96-366, s. 1; SOR/97-141, s. 1; SOR/97-200, s. 1; SOR/97-201, s. 1; SOR/97-421, ss. 1, 17, 22(F); SOR/97-447, s. 1; SOR/98-125, s. 1; SOR/98-160, s. 1; SOR/98-457, s. 1; SOR/98-524, s. 1(F); SOR/99-357, s. 1; SOR/2000-182, s. 1; SOR/2000-304, s. 1; SOR/2001-35, s. 1; SOR/2001-117, s. 1; SOR/2001-152, s. 1; SOR/2002-15, s. 25(F); SOR/2002-55, s. 1; SOR/2002-187, s. 1; SOR/2002-205, s. 1; SOR/2003-57, s. 3(F); SOR/2003-272, s. 1; SOR/2004-250, s. 1; SOR/2005-45, s. 1; SOR/2006-94, s. 4(E).
+> SOR/78-257, s. 1; SOR/78-351, s. 1; SOR/78-525, s. 1; SOR/79-306, s. 1; SOR/79-339, s. 1; SOR/79-340, s. 1; SOR/79-374, s. 1; SOR/79-677, s. 1; SOR/79-719, s. 1; SOR/79-940, s. 1; SOR/80-161, s. 1; SOR/80-282, s. 1; SOR/80-439, s. 1; SOR/80-440, s. 1; SOR/80-636, s. 1; SOR/80-638, s. 1; SOR/80-782, s. 1; SOR/81-88, s. 1; SOR/81-1033, s. 1; SOR/82-569, s. 1; SOR/82-656, s. 1; SOR/82-753, s. 1; SOR/82-754, s. 1; SOR/83-176, s. 1; SOR/83-859, s. 1; SOR/84-374, s. 1; SOR/84-812, s. 1; SOR/86-161, s. 1; SOR/86-683, s. 1; SOR/86-976, s. 1; SOR/86-977, s. 1; SOR/87-154, s. 1; SOR/87-497, s. 1; SOR/87-578, s. 1; SOR/87-660, s. 1; SOR/88-268, s. 1; SOR/89-384, s. 1; SOR/90-588, s. 1; SOR/90-805, s. 1; SOR/91-425, s. 1; SOR/91-692, s. 1; SOR/92-173, s. 1; SOR/92-250, s. 1; SOR/92-545, s. 1; SOR/93-5, s. 1; SOR/93-31, s. 1; SOR/93-146, s. 1; SOR/93-561, s. 1; SOR/94-291, s. 1; SOR/94-669, s. 1; SOR/94-670, s. 2(F); SOR/94-692, s. 2(F); SOR/94-717, s. 1; SOR/95-147, s. 1; SOR/95-164, s. 1; SOR/95-536, s. 7; SOR/96-366, s. 1; SOR/97-141, s. 1; SOR/97-200, s. 1; SOR/97-201, s. 1; SOR/97-421, ss. 1, 17, 22(F); SOR/97-447, s. 1; SOR/98-125, s. 1; SOR/98-160, s. 1; SOR/98-457, s. 1; SOR/98-524, s. 1(F); SOR/99-357, s. 1; SOR/2000-182, s. 1; SOR/2000-304, s. 1; SOR/2001-35, s. 1; SOR/2001-117, s. 1; SOR/2001-152, s. 1; SOR/2002-15, s. 25(F); SOR/2002-55, s. 1; SOR/2002-187, s. 1; SOR/2002-205, s. 1; SOR/2003-57, s. 3(F); SOR/2003-272, s. 1; SOR/2004-250, s. 1; SOR/2005-45, s. 1; SOR/2006-94, s. 4(E); SOR/2007-180, s. 1.
 
 
 
@@ -1731,7 +1766,7 @@ _________________________
 </tr>
 <tr>
 <td>118</td>
-<td>Power-operated Windows, Power-operated Partitions and Power-operated Roof Panels</td>
+<td>Power-Operated Window, Partition and Roof Panel Systems</td>
 <td></td>
 <td>X</td>
 <td></td>
@@ -2431,7 +2466,7 @@ _________________________
 </tr>
 <tr>
 <td>302</td>
-<td>Flammability</td>
+<td>Flammability of Interior Materials</td>
 <td>X</td>
 <td></td>
 <td></td>
@@ -2465,6 +2500,26 @@ _________________________
 <td></td>
 <td></td>
 <td>X</td>
+<td></td>
+<td></td>
+<td>X</td>
+</tr>
+<tr>
+<td>401</td>
+<td>Interior Trunk Release</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>X</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td>X</td>
@@ -2675,7 +2730,7 @@ _________________________
 </tr>
 </table>
 
-> SOR/78-80, s. 1; SOR/78-910, s. 1(F); SOR/79-305, s. 1; SOR/79-306, s. 2; SOR/79-339, s. 2; SOR/79-340, s. 2; SOR/79-374, s. 2; SOR/79-677, s. 2; SOR/79-940, s. 5; SOR/80-160, s. 1; SOR/80-161, s. 2; SOR/80-282, s. 2; SOR/80-439, s. 2; SOR/80-639, s. 1(F); SOR/81-88, s. 2; SOR/81-665, s. 1; SOR/82-656, s. 2; SOR/82-753, s. 2; SOR/82-754, s. 2; SOR/83-138, s. 1; SOR/84-812, s. 2; SOR/86-682, s. 1; SOR/86-683, s. 2; SOR/86-975, s. 1; SOR/87-658, s. 1; SOR/87-660, s. 3; SOR/88-268, s. 4; SOR/89-384, ss. 2(F), 3 to 5; SOR/90-805, s. 4; SOR/91-425, s. 3; SOR/92-173, s. 5. SOR/92-250, s. 2(F); SOR/92-545, s. 2(F); SOR/93-31, s. 2; SOR/93-146, s. 3; SOR/93-561, s. 2; SOR/94-291, s. 2; SOR/94-669, s. 2; SOR/95-60, s. 1; SOR/95-147, ss. 5, 15(F); SOR/95-164, s. 2; SOR/96-89, s. 1; SOR/96-366, s. 4; SOR/96-437, s. 1; SOR/97-14, s. 1; SOR/97-141, s. 3; SOR/97-200, s. 2; SOR/97-201, s. 2; SOR/97-376, s. 4; SOR/97-421, s. 2; SOR/97-463, s. 1; SOR/97-532, ss. 1, 2; SOR/98-160, s. 2; SOR/98-457, s. 2; SOR/98-595, s. 1; SOR/99-357, s. 2; SOR/2000-182, s. 4; SOR/2000-304, s. 4; SOR/2001-35, ss. 2, 3; SOR/2001-353, s. 1; SOR/2001-486, s. 1; SOR/2002-55, s. 12; SOR/2002-205, s. 2; SOR/2003-272, s. 6; SOR/2003-359, ss. 1 to 3; SOR/2004-195, s. 1; SOR/2005-45, s. 2; SOR/2006-94, s. 1.
+> SOR/78-80, s. 1; SOR/78-910, s. 1(F); SOR/79-305, s. 1; SOR/79-306, s. 2; SOR/79-339, s. 2; SOR/79-340, s. 2; SOR/79-374, s. 2; SOR/79-677, s. 2; SOR/79-940, s. 5; SOR/80-160, s. 1; SOR/80-161, s. 2; SOR/80-282, s. 2; SOR/80-439, s. 2; SOR/80-639, s. 1(F); SOR/81-88, s. 2; SOR/81-665, s. 1; SOR/82-656, s. 2; SOR/82-753, s. 2; SOR/82-754, s. 2; SOR/83-138, s. 1; SOR/84-812, s. 2; SOR/86-682, s. 1; SOR/86-683, s. 2; SOR/86-975, s. 1; SOR/87-658, s. 1; SOR/87-660, s. 3; SOR/88-268, s. 4; SOR/89-384, ss. 2(F), 3 to 5; SOR/90-805, s. 4; SOR/91-425, s. 3; SOR/92-173, s. 5. SOR/92-250, s. 2(F); SOR/92-545, s. 2(F); SOR/93-31, s. 2; SOR/93-146, s. 3; SOR/93-561, s. 2; SOR/94-291, s. 2; SOR/94-669, s. 2; SOR/95-60, s. 1; SOR/95-147, ss. 5, 15(F); SOR/95-164, s. 2; SOR/96-89, s. 1; SOR/96-366, s. 4; SOR/96-437, s. 1; SOR/97-14, s. 1; SOR/97-141, s. 3; SOR/97-200, s. 2; SOR/97-201, s. 2; SOR/97-376, s. 4; SOR/97-421, s. 2; SOR/97-463, s. 1; SOR/97-532, ss. 1, 2; SOR/98-160, s. 2; SOR/98-457, s. 2; SOR/98-595, s. 1; SOR/99-357, s. 2; SOR/2000-182, s. 4; SOR/2000-304, s. 4; SOR/2001-35, ss. 2, 3; SOR/2001-353, s. 1; SOR/2001-486, s. 1; SOR/2002-55, s. 12; SOR/2002-205, s. 2; SOR/2003-272, s. 6; SOR/2003-359, ss. 1 to 3; SOR/2004-195, s. 1; SOR/2005-45, s. 2; SOR/2006-94, s. 1; SOR/2007-180, ss. 2 to 4.
 
 
 
@@ -2688,55 +2743,8 @@ _________________________
 **PART I** 
 
 
-### Definitions
+[Repealed, SOR/2007-180, s. 5]
 
-
-**100** In this Schedule,
-
-***ANSI*** means the American National Standards Institute; (*ANSI*) 
-
-***ASTM*** means the American Society for Testing and Materials; (*ASTM*) 
-
-***boat trailer*** means a trailer that is designed to transport a boat and has cradle-type mountings that permit the launching of the boat from the rear of the trailer; (*remorque pour embarcation*) 
-
-***fixed collision barrier*** means a device that 
-- **(a)** consists of**(i)** a structure with a flat, vertical, unyielding impact surface that is of a size sufficient to ensure that no portion of a vehicle striking the surface projects or passes beyond the surface, and
-
-**(ii)** a horizontal approach surface that does not impede vehicle motion during impact and that is of a size sufficient to ensure that a vehicle will be able to attain a stable attitude during its approach to the impact surface, and
-
-
-- **(b)** does not absorb any significant portion of the kinetic energy of a vehicle striking the impact surface; (*barrière fixe pour essais de collision*)
-
-***front outboard designated seating position*** means the driver’s designated seating position and the forwardmost right outboard designated seating position, but does not include a school bus passenger designated seating position; (*place assise désignée extérieure avant*) 
-
-***head impact area*** means the area described in section 201 of this Schedule; (*zone d’impact de la tête*) 
-
-***head restraint*** means a device that limits rearward angular displacement of the occupant’s head relative to his torso line; (*appuie-tête*) 
-
-***H-point***[Repealed, SOR/90-588, s. 2]
-
-***open-body type vehicle***[Repealed, SOR/94-291, s. 3]
-
-***outboard designated seating position*** means a designated seating position where a longitudinal vertical plane tangent to the outboard side of the seat cushion is less than 305 mm from the innermost point on the inside surface of the vehicle, which point is located vertically between the seating reference point and the shoulder reference point and longitudinally between the front and rear edges of the seat cushion; (*place assise désignée extérieure*) 
-
-***rear outboard designated seating position*** means any outboard designated seating position that is to the rear of a front outboard designated seating position, but does not include a designated seating position adjacent to a walkway located between the seat and the side of the vehicle interior that is designed to allow access to more rearward seating positions; (*place assise désignée extérieure arrière*) 
-
-***seating reference point***[Repealed, SOR/80-161, s. 3]
-
-***semi-trailer*** means a trailer constructed in such a manner that a substantial part of its weight rests upon or is carried by another vehicle by means of a fifth-wheel or similar coupling, but does not include a pole trailer, or any trailer designed to be drawn behind a passenger car or multi-purpose passenger vehicle; (*semi-remorque*) 
-
-***torso line*** means the line connecting the H-point and the shoulder reference point as defined in SAE Recommended Practice J787b Motor Vehicle Seat Belt Anchorage, (September 1966); (*ligne de torse*) 
-
-***5th percentile adult female*** means a person having as physical characteristics a weight of 46.3 kg (102 lb.), height of 1498.6 mm (59 in.), erect sitting height of 784.9 mm (30.9 in.), normal sitting height of 751.8 mm (29.6 in.), hip sitting breadth of 325.1 mm (12.8 in.), hip sitting circumference of 924.6 mm (36.4 in.), waist sitting circumference of 599.4 mm (23.6 in.), chest depth of 190.5 mm (7.5 in.), bust circumference of 774.7 mm (30.5 in.), chest upper circumference of 756.9 mm (29.8 in.), chest lower circumference of 675.6 mm (26.6 in.), knee height of 454.7 mm (17.9 in.), popliteal height of 355.6 mm (14 in.), elbow rest height of 180.3 mm (7.1 in.), thigh clearance height of 104.1 mm (4.1 in.), buttock-to-knee length of 518.2 mm (20.4 in.), buttock-to-poples length of 431.8 mm (17 in.), elbow-to-elbow breadth of 312.4 mm (12.3 in.) and seat breadth of 312.4 mm (12.3 in.); (*5<sup>e</sup> percentile adulte du sexe féminin*) 
-
-***50th percentile adult male*** means a person having as physical characteristics a weight of 74.4 kg plus or minus 1.4 kg, an erect sitting height of 906.8 mm plus or minus 2.5 mm, a hip sitting breadth of 373.4 mm plus or minus 17.8 mm, a hip sitting circumference of 1 066.8 mm, a waist sitting circumference of 812.8 mm plus or minus 15.2 mm, a chest depth of 236.2 mm plus or minus 5.1 mm and a chest circumference of 950 mm plus or minus 15.2 mm; (*50<sup>e</sup> percentile adulte du sexe masculin*) 
-
-***50th percentile 6-year old child*** means a person having as physical characteristics a weight of 21.5 kg, an erect sitting height of 645.2 mm, a hip sitting breadth of 213.4 mm, a hip sitting circumference of 607.1 mm and a waist sitting circumference of 528.3 mm; (*50<sup>e</sup> percentile enfant de six ans*) 
-
-***95th percentile adult male*** means a person having as physical characteristics a weight of 97.5 kg (215 lb.), height of 1849.1 mm (72.8 in.), erect sitting height of 965.2 mm (38 in.), normal sitting height of 929.6 mm (36.6 in.), hip sitting breadth of 419.1 mm (16.5 in.), hip sitting circumference of 1198.9 mm (47.2 in.), waist sitting circumference of 1079.5 mm (42.5 in.), chest depth of 266.7 mm (10.5 in.), chest circumference of 1130.3 mm (44.5 in.), knee height of 594.4 mm (23.4 in.), popliteal height of 490.2 mm (19.3 in.), elbow rest height of 294.6 mm (11.6 in.), thigh clearance height of 175.3 mm (6.9 in.), buttock-to-knee length of 640.1 mm (25.2 in.), buttock-to-poples length of 548.6 mm (21.6 in.), elbow-to-elbow breadth of 505.5 mm (19.9 in.) and seat breadth of 403.9 mm (15.9 in.). (*95<sup>e</sup> percentile adulte du sexe masculin*) 
-
-
-> SOR/80-161, s. 3; SOR/86-453, s. 1; SOR/87-154, s. 2; SOR/90-588, s. 2; SOR/93-5, s. 2; SOR/94-291, s. 3; SOR/94-692, s. 2; SOR/97-447, s. 3; SOR/2006-94, s. 4(E)..
 
 
 **PART II** 
@@ -3538,7 +3546,7 @@ choix du fabricant
 <tr>
 <td>Speedometer</td>
 <td>km/h</td>
-<td>Compteur de vitesse</td>
+<td>Indicateur de vitesse</td>
 </tr>
 <tr>
 <td>Odometer</td>
@@ -3608,7 +3616,7 @@ choix du fabricant
 <td>**8** The unit of measurement, if identified, is “km”. Where an electronic odometer display can be switched from “km” to “mi” or from “mi” to “km” independently of the units being displayed by a speedometer, the odometer units must be identified in miles or kilometres as appropriate.
 
 </td>
-<td>**8** L’unité de mesure, si elle est indiquée, est le «km ». Dans le cas d’un affichage électronique de l’odomètre pouvant passer de « km » en « mi » ou de « mi » en « km », indépendamment de l’unité de mesure affichée par le compteur de vitesse, l’unité doit être indiquée en milles ou kilomètres, selon le cas.
+<td>**8** L’unité de mesure, si elle est indiquée, est le «km ». Dans le cas d’un affichage électronique de l’odomètre pouvant passer de « km » en « mi » ou de « mi » en « km », indépendamment de l’unité de mesure affichée par l’indicateur de vitesse, l’unité doit être indiquée en milles ou kilomètres, selon le cas.
 
 </td>
 </tr>
@@ -3616,7 +3624,7 @@ choix du fabricant
 
 
 
->  SOR/78-257, s. 2; SOR/86-976, s. 2; SOR/93-31, s. 3; SOR/94-374, s. 5; SOR/95-147, s. 7; SOR/95-164, s. 3; SOR/97-200, s. 3; SOR/97-421, ss. 18(E), 19(F), 20(F); SOR/2003-272, s. 7..
+> SOR/78-257, s. 2; SOR/86-976, s. 2; SOR/93-31, s. 3; SOR/94-374, s. 5; SOR/95-147, s. 7; SOR/95-164, s. 3; SOR/97-200, s. 3; SOR/97-421, ss. 18(E), 19(F), 20(F); SOR/2003-272, s. 7; SOR/2007-180, s. 22(F)..
 
 
 ### Transmission Control Functions (Standard 102)
@@ -3701,15 +3709,15 @@ choix du fabricant
 
 **(1)** In this section,
 
-***critical area*** means area C as referred to in section 104 of this Schedule; (*zone critique*) 
+***critical area*** means area C as referred to in section 104 of this Schedule; (*zone critique*)
 
-***defog*** means to remove moisture from the inside surface of the glass; (*désembuer*) 
+***defog*** means to remove moisture from the inside surface of the glass; (*désembuer*)
 
-***defrost*** means to melt frost or ice on the inside or outside surface of the glass; (*dégivrer*) 
+***defrost*** means to melt frost or ice on the inside or outside surface of the glass; (*dégivrer*)
 
-***entire windshield*** means area A as referred to in section 104 of this Schedule; (*pare-brise tout entier*) 
+***entire windshield*** means area A as referred to in section 104 of this Schedule; (*pare-brise tout entier*)
 
-***road load*** means the power output required to move the vehicle at curb weight plus 400 pounds on level, clean, dry, smooth portland cement concrete pavement or other surface with an equivalent coefficient of surface friction at a specified speed through still air at 68 degrees Fahrenheit and standard barometric pressure of 29.92 inches of mercury, and includes driveline friction, rolling friction and air resistance. (*charge de route*) 
+***road load*** means the power output required to move the vehicle at curb weight plus 400 pounds on level, clean, dry, smooth portland cement concrete pavement or other surface with an equivalent coefficient of surface friction at a specified speed through still air at 68 degrees Fahrenheit and standard barometric pressure of 29.92 inches of mercury, and includes driveline friction, rolling friction and air resistance. (*charge de route*)
 
 
 
@@ -3788,15 +3796,15 @@ choix du fabricant
 
 **(1)** In this section,
 
-***areas A, B and C*** means the areas referred to in Column I of Tables I, II, III and IV to this section when established as shown in Figures 1 and 2 of SAE Recommended Practice J903a Passenger Car Windshield Wiper Systems, (May 1966), using the angles specified in Columns III to VI of the above Tables; (*zones A, B et C*) 
+***areas A, B and C*** means the areas referred to in Column I of Tables I, II, III and IV to this section when established as shown in Figures 1 and 2 of SAE Recommended Practice J903a Passenger Car Windshield Wiper Systems, (May 1966), using the angles specified in Columns III to VI of the above Tables; (*zones A, B et C*)
 
-***daylight opening*** means the maximum unobstructed opening through the glazing surface as defined in paragraph 2.3.12 of Section E, Ground Vehicle Practice, SAE Aerospace-Automotive Drawing Standards, (September 1963); (*ouverture de jour*) 
+***daylight opening*** means the maximum unobstructed opening through the glazing surface as defined in paragraph 2.3.12 of Section E, Ground Vehicle Practice, SAE Aerospace-Automotive Drawing Standards, (September 1963); (*ouverture de jour*)
 
-***glazing surface reference line*** means the intersection of the glazing surface and a horizontal plane 25 inches above the seating reference point, as shown in Figure 1 of SAE Recommended Practice J903a, (May 1966); (*ligne de référence de la surface vitrée*) 
+***glazing surface reference line*** means the intersection of the glazing surface and a horizontal plane 25 inches above the seating reference point, as shown in Figure 1 of SAE Recommended Practice J903a, (May 1966); (*ligne de référence de la surface vitrée*)
 
-***overall width*** means the maximum overall body width dimension W116 as defined in Section E, Ground Vehicle Practice, SAE Aerospace-Automotive Drawing Standards, (September 1963); (*largeur hors tout*) 
+***overall width*** means the maximum overall body width dimension W116 as defined in Section E, Ground Vehicle Practice, SAE Aerospace-Automotive Drawing Standards, (September 1963); (*largeur hors tout*)
 
-***plan view reference line*** means, 
+***plan view reference line*** means,
 - **(a)** in respect of vehicles with a bench type front seat, a line parallel to the longitudinal centreline of the vehicle and outboard of the centre of the steering wheel by a distance equal to 0.15 times the difference between one-half the shoulder room dimension and the steering wheel centre offset, as shown in Figure 2 of SAE Recommended Practice J903a, (May 1966); and
 - **(b)** in respect of vehicles with individual front seats,**(i)** a line parallel to the longitudinal centreline of the vehicle which passes through the centre of the driver’s designated seating position, or
 
@@ -3804,9 +3812,9 @@ choix du fabricant
 
 
 
-***shoulder room dimension*** means the front shoulder room dimension W3 as defined in Section E, Ground Vehicle Practice, SAE Aerospace-Automotive Drawing Standards, (September 1963); (*espace d’épaules*) 
+***shoulder room dimension*** means the front shoulder room dimension W3 as defined in Section E, Ground Vehicle Practice, SAE Aerospace-Automotive Drawing Standards, (September 1963); (*espace d’épaules*)
 
-***95 per cent eye range contour*** means the 95th percentile tangential cut-off specified in SAE Recommended Practice J941a Passenger Car Driver’s Eye Range, (August 1967). (*95 pour cent du contour de portée visuelle*) 
+***95 per cent eye range contour*** means the 95th percentile tangential cut-off specified in SAE Recommended Practice J941a Passenger Car Driver’s Eye Range, (August 1967). (*95 pour cent du contour de portée visuelle*)
 
 
 
@@ -4135,7 +4143,7 @@ choix du fabricant
 
 
 
->  SOR/94-670, s. 2(F); SOR/97-264, s. 2; SOR/2002-55, s. 21; SOR/2003-272, s. 9; SOR/2006-94, s. 4(E)..
+> SOR/94-670, s. 2(F); SOR/97-264, s. 2; SOR/2002-55, s. 21; SOR/2003-272, s. 9; SOR/2006-94, s. 4(E)..
 
 
 ### Hydraulic and Electric Brake Systems (Standard 105)
@@ -4194,1219 +4202,51 @@ Expiry Date
 > SOR/79-374, s. 3; SOR/80-637, s. 1; SOR/86-683, s. 3; SOR/86-976, s. 3; SOR/91-144, s. 1; SOR/96-85, s. 2; SOR/97-200, ss. 4, 6; SOR/97-421, s. 5; SOR/98-524, s. 4(F); SOR/99-357, s. 3; SOR/2001-35, s. 4; SOR/2005-42, s. 13..
 
 
-### Brake Hoses
+### Brake Hoses (Standard 106)
 > [SOR/93-561, s. 3]
 
 
 
 **106** 
 
-**(1)** In this section
+**(1)** Every brake hose, brake hose assembly and brake hose end fitting with which a passenger car, multi-purpose passenger vehicle, truck, bus, low-speed vehicle, three-wheeled vehicle and enclosed motorcycle are equipped shall conform to the requirements of Technical Standards Document No. 106, Brake Hoses (TSD 106), as amended from time to time.
 
-**(a)** a dimensional description such as
 
-**(i)** 6.35 mm (1/4 in.) hose, refers to the nominal inside diameter of hose, and
 
-
-
-**(ii)** 6.35 mm (1/4 in.) tubing, refers to the nominal outside diameter of tubing; and
-
-
-
-
-
-**(b)** Table V cross references refer to the performance requirements of this section and the appropriate test procedures of the Motor Vehicle Safety Test Methods, section 106, “Brake Hoses”.
-
-
-
-
-
-**(2)** The manufacturer of a brake hose, brake hose end fitting or brake hose assembly shall file in writing with the Road Safety and Motor Vehicle Regulation Directorate, Department of Transport, 330 Sparks Street, Ottawa, Ontario, Canada, KlA 0N5, a sample of the designation referred to in subsections (5), (7), (13), (15), (16), (22), (24) and (25).
-
-
-
-**(3)** Every hydraulic brake hose assembly shall have brake hose end fittings that are permanently attached to the hose by deformation of the fitting about the hose by crimping or swaging.
-
-
-
-**(4)** Except for a hydraulic brake hose that is manufactured for use only in an assembly whose end fittings prevent its installation in a twisted orientation in either side of the vehicle, every hydraulic brake hose shall have at least two clearly identifiable stripes not less than 1.6 mm (0.062 in.) in width, placed on opposite sides of the brake hose parallel to its longitudinal axis, of which stripes one may be interrupted by the information required by subsection (5) and the other may be interrupted by additional information at the manufacturer’s option.
-
-
-
-**(5)** Subject to subsection (6), every hydraulic brake hose shall be labelled, or cut from bulk hose that is labelled, at intervals of not more than 152.4 mm (6 in.), measured from the end of one legend to the beginning of the next, in block capital letters and numerals at least 3.2 mm (0.125 in.) in height, with the following information:
-
-**(a)** a designation that identifies the manufacturer of the hose;
-
-
-
-**(b)** the month, day and year, or the month and year, of manufacture, expressed in numerals in that sequence;
-
-
-
-**(c)** the nominal inside diameter of the hose; and
-
-
-
-**(d)** either the letters “HR” to indicate that the hose is regular expansion hydraulic hose or “HL” to indicate that the hose is low expansion hydraulic hose.
-
-
-
-
-
-**(6)** Where a hydraulic brake hose has become part of a brake hose assembly or has been installed in a vehicle, the information set out in paragraphs (5)(a) to (d) may be omitted.
-
-
-
-**(7)** Every hydraulic brake hose assembly, unless assembled and installed by a manufacturer in a vehicle manufactured by him, shall, at the manufacturer’s option,
-
-**(a)** have at least one brake hose end fitting that is etched, embossed or stamped with a designation at least 1.6 mm (0.062 in.) in height that identifies the manufacturer of the hose assembly; or
-
-
-
-**(b)** be labelled by means of a band around the brake hose assembly that
-
-**(i)** is etched, embossed or stamped with a designation at least 3.2 mm (0.125 in.) in height that identifies the manufacturer of the hose assembly, and
-
-
-
-**(ii)** may be attached in such a manner that it will move freely along the length of the assembly as long as it is retained by the end fittings.
-
-
-
-
-
-
-
-**(8)** No hydraulic brake hose assembly or part thereof need meet any further test requirement after having been subjected to and having met the constriction requirements of paragraph (11)(a) and any one of the requirements specified in paragraphs (9)(a) and (b), subsection (10) and paragraphs (11)(b) to (h).
-
-
-
-**(9)** Every hydraulic brake hose that is subjected to Motor Vehicle Safety Test Methods, section 106, “Brake Hoses”, shall
-
-**(a)** when conditioned at -40°C (-40°F) for 70 hours not show cracks visible without magnification when bent around a cylinder specified in the test method; and
-
-
-
-**(b)** when exposed to ozone for 70 hours at 40°C (104°F) not show cracks visible under 7-power magnification.
-
-
-
-
-
-**(10)** Every hydraulic brake hose end fitting that is subjected to Motor Vehicle Safety Test Methods, section 106, “Brake Hoses”, shall, after 24 hours of exposure to salt spray, not show base metal corrosion on the end fitting surface except where deformation by crimping or the application of labelling information has caused displacement of the protective coating.
-
-
-
-**(11)** Subject to subsection (8), every hydraulic brake hose assembly with which a vehicle is equipped that is subjected to Motor Vehicle Safety Test Methods, section 106, “Brake Hoses”, shall
-
-**(a)** have an inside diameter of not less than 64 per cent of the nominal inside diameter of the brake hose, except for that part of an end fitting that does not contain brake hose;
-
-
-
-**(b)** not have a maximum expansion at 6 895 kPa (1,000 psi) and 10 342 kPa (1,500 psi) exceeding the values specified in Table I to this section and shall
-
-**(i)** withstand hydrostatic pressure of 27 579 kPa (4,000 psi) for two minutes without rupture, and
-
-
-
-**(ii)** not rupture under hydrostatic pressure of less than 34 474 kPa (5,000 psi);
-
-
-
-
-
-**(c)** not rupture when run continuously on a flexing machine for 35 hours;
-
-
-
-**(d)** withstand a pull of 1 446 N (325 pounds) without separation of the hose from its end fittings;
-
-
-
-**(e)** after immersion in water for 70 hours, withstand hydrostatic pressure of 27 579 kPa (4,000 psi) for two minutes and not rupture at less than 34 474 kPa (5,000 psi);
-
-
-
-**(f)** after immersion in water for 70 hours, withstand a pull of 1 446 N (325 pounds) without separation of the hose from its end fittings;
-
-
-
-**(g)** after immersion in water for 70 hours, not rupture when run continuously on a flexing machine for 35 hours; and
-
-
-
-**(h)** except for brake hose assemblies designed for use with mineral-based or petroleum-based brake fluid, after having been subjected to a temperature of 93.3°C (200°F) for 70 hours while filled with SAE Compatibility Fluid,
-
-**(i)** meet the constriction requirement of paragraph (a),
-
-
-
-**(ii)** withstand hydrostatic pressure of 27 579 kPa (4,000 psi) for two minutes, and
-
-
-
-**(iii)** not rupture under hydrostatic pressure of less than 34 474 kPa (5,000 psi).
-
-
-
-
-
-
-
-**(12)** Every air brake hose assembly shall be equipped with permanently attached brake hose end fittings or reusable brake hose end fittings.
-
-
-
-**(12.1)** Every air brake hose constructed of natural or synthetic rubber intended for use with reusable brake hose end fittings shall conform to the dimensional requirements specified in Table II to this section.
-
-
-
-**(13)** Subject to subsection (14), every air brake hose shall be labelled, or cut from bulk hose that is labelled, at intervals of not more than 152.4 mm (6 in.), measured from the end of one legend to the beginning of the next, in block capital letters and numerals at least 3.2 mm (0.125 in.) in height, with the following information:
-
-**(a)** a designation that identifies the manufacturer of the hose;
-
-
-
-**(b)** the month, day and year, or the month and year, of manufacture, expressed in numerals in that sequence;
-
-
-
-**(c)** the nominal inside diameter of the hose or the nominal outside diameter of the plastic tubing followed by the letters OD; and
-
-
-
-**(d)** the letter “A” to indicate the intended use of the hose in air brake systems, and in the case of a hose constructed of natural or synthetic rubber intended for use in a reusable assembly, the designation “AI” or “AII” to indicate Type I or Type II dimensional characteristics of the hose, as specified in Table II to this section.
-
-
-
-
-
-**(14)** Where an air brake hose has become part of a brake hose assembly or has been installed in a motor vehicle, the information set out in paragraphs (13)(a) to (d) may be omitted.
-
-
-
-**(15)** Except for a permanently attached hose end fitting that is attached by deformation of the fitting about a hose by crimping or swaging, at least one component of each air brake hose fitting shall be etched, embossed, or stamped in block capital letters and numerals at least 1.6 mm (0.062 in.) in height with the following information:
-
-**(a)** a designation that identifies the manufacturer of that component of the fitting;
-
-
-
-**(b)** the nominal inside diameter of the hose or the outside diameter of the plastic tubing to which the fitting is properly attached; and
-
-
-
-**(c)** the letter “A” to indicate the intended use of the end fitting in air brake systems and, in the case of an end fitting intended for use in a reusable assembly, the designation “AI” or “AII” to indicate use with Type I or Type II hose, respectively.
-
-
-
-
-
-**(16)** Every air brake hose assembly made with end fittings that are permanently attached to a brake hose by crimping or swaging, unless assembled and installed by a manufacturer in a vehicle manufactured by him, shall, at the manufacturer’s option,
-
-**(a)** have at least one brake hose end fitting that is etched, embossed or stamped with a designation at least 1.6 mm (0.062 in.) in height that identifies the manufacturer of the hose assembly; or
-
-
-
-**(b)** be labelled by means of a band around the brake hose assembly that
-
-**(i)** is etched, embossed or stamped with a designation at least 3.2 mm (0.125 in.) in height that identifies the manufacturer of the hose assembly, and
-
-
-
-**(ii)** may be attached in such a manner that it will move freely along the length of the assembly as long as it is retained by the end fittings.
-
-
-
-
-
-
-
-**(17)** No air brake hose assembly or part thereof need meet any further requirements after having been subjected to and having met the constriction requirement of paragraph (20)(a) and any one of the requirements set out in paragraphs 18(a) to (g), subsection (19) and paragraphs 20(b) to (e).
-
-
-
-**(18)** Every air brake hose when subjected to Motor Vehicle Safety Test Methods, section 106, “Brake Hoses”, shall
-
-**(a)** not show external or internal cracks, charring or disintegration visible without magnification when straightened after being bent for 70 hours at 100°C (212°F) over a cylinder having the radius set out in Table III to this section for the size of hose tested;
-
-
-
-**(b)** not show cracks in the outer cover that are visible without magnification after conditioning at -40°C (-40°F) for 70 hours when bent around a cylinder having the radius specified in Table III to this section for the size of hose tested;
-
-
-
-**(c)** after immersion in ASTM No. 3 oil for 70 hours at 100°C (212°F), not increase the volume of a specimen prepared from the inner tube and cover more than 100 per cent;
-
-
-
-**(d)** not show cracks in the outer cover that are visible under 7-power magnification after exposure to ozone for 70 hours at 40°C (104°F);
-
-
-
-**(e)** except in the case of a coiled nylon tube, not contract in length more than seven per cent nor elongate more than five per cent when subjected to air pressure of 1 379 kPa (200 psi);
-
-
-
-**(f)** except in the case of hose reinforced by wire, withstand a tensile force of 1 401 N/m (eight pounds per inch) of length before separation of adjacent layers; and
-
-
-
-**(g)** not show cracks in the outer cover that are visible under 7-power magnification after immersion in a 50 per cent zinc chloride aqueous solution for 200 hours.
-
-
-
-
-
-**(19)** Every air brake hose end fitting that is subjected to Motor Vehicle Safety Test Methods, section 106, “Brake Hoses”, shall, after 24 hours of exposure to salt spray, not show base metal corrosion on the end fitting surface except where deformation by crimping or the application of labelling information causes a displacement of the protective coating.
-
-
-
-**(20)** Subject to subsections (17) and (21), every air brake hose assembly with which a vehicle is equipped that is subjected to Motor Vehicle Safety Test Methods, section 106, “Brake Hoses”, shall
-
-**(a)** not constrict the inside diameter of any section of an air brake hose assembly to less than 66 per cent of the nominal inside diameter of the brake hose, except for that part of an end fitting which does not contain brake hose;
-
-
-
-**(b)** contain air pressure of 1 379 kPa (200 psi) for five minutes without loss of more than 34.5 kPa (5 psi);
-
-
-
-**(c)** not rupture when exposed to hydrostatic pressure of 5 516 kPa (800 psi);
-
-
-
-**(d)** when designed for use between frame and axle or between a towed and a towing vehicle, withstand, without separation of the hose from its end fittings, a pull of
-
-**(i)** 1 112 N (250 pounds) if it is 6.35 mm (1/4 in.) or less in nominal internal diameter, or
-
-
-
-**(ii)** 1 446 N (325 pounds) if it is larger than 6.35 mm (1/4 in.) in nominal internal diameter;
-
-
-
-
-
-**(e)** when designed for use otherwise than as described in paragraph (d), withstand, without separation of the hose from its end fittings, a pull of
-
-**(i)** 222 N (50 pounds) if it is 6.35 mm (1/4 in.) or less in nominal internal diameter,
-
-
-
-**(ii)** 667 N (150 pounds) if it is 9.53 or 12.7 mm (3/8 or 1/2 in.) in nominal internal diameter, or
-
-
-
-**(iii)** 1 446 N (325 pounds) if it is larger than 12.7 mm (1/2 in.) in nominal internal diameter;
-
-
-
-
-
-**(f)** after immersion in distilled water for 70 hours when designed for use between frame and axle or between a towed and a towing vehicle, withstand, without separation of the hose from its end fittings, a pull of
-
-**(i)** 1 112 N (250 pounds) if it is 6.35 mm (1/4 in.) or less in nominal internal diameter, or
-
-
-
-**(ii)** 1 446 N (325 pounds) if it is larger than 6.35 mm (1/4 in.) in nominal internal diameter; and
-
-
-
-
-
-**(g)** after immersion in distilled water for 70 hours when designed for use otherwise than as described in paragraph (f), withstand, without separation of the hose from its end fittings, a pull of
-
-**(i)** 222 N (50 pounds) if it is 6.35 mm (1/4 in.) or less in nominal internal diameter,
-
-
-
-**(ii)** 667 N (150 pounds) if it is 9.53 or 12.7 mm (3/8 or 1/2 in.) in nominal internal diameter, or
-
-
-
-**(iii)** 1 446 N (325 pounds) if it is larger than 12.7 mm (1/2 in.) in nominal internal diameter.
-
-
-
-
-
-
-
-**(21)** Coiled nylon brake tubing may be used for connections between a towed and a towing vehicle if
-
-**(a)** the tubing meets the requirements for Type B nylon tubing as set out in SAE Standard J844, “Nonmetallic Air Brake System Tubing”, June 1990;
-
-
-
-**(b)** the tubing has a straight segment (pigtail) at each end that is at least 50.8 mm (2 in.) in length and is encased in a spring guard or similar device that prevents the tubing from kinking at the fitting at which it is attached to the vehicle; and
-
-
-
-**(c)** the spring guard or a similar device has at least 50.8 mm (2 in.) of closed coils or any similar device at its interface with the fittings and extends at least 38 mm (1.5 in.) into the coiled segment of the tubing from its straight segment.
-
-
-
-
-
-**(22)** Subject to subsection (23), every vacuum brake hose shall be labelled, or cut from bulk hose that is labelled, at intervals of not more than 152.4 mm (6 in.), measured from the end of one legend to the beginning of the next, in block capital letters and numerals at least 3.2 mm (0.125 in.) in height, with the following information:
-
-**(a)** a designation that identifies the manufacturer of the hose;
-
-
-
-**(b)** the month, day and year, or the month and year of manufacture, expressed in numerals in that sequence;
-
-
-
-**(c)** the nominal inside diameter of the hose or the nominal outside diameter of the plastic tubing followed by the letters OD; and
-
-
-
-**(d)** the letters “VL” or “VH” to indicate that the component is a light-duty vacuum brake hose or a heavy-duty vacuum brake hose, respectively.
-
-
-
-
-
-**(23)** Where a vacuum brake hose has become part of a brake hose assembly or has been installed in a vehicle, the information set out in paragraphs (22)(a) to (d) may be omitted.
-
-
-
-**(24)** Except for an end fitting that is attached by heat shrinking or dimensional interference fit with plastic vacuum hose or that is attached by deformation of the fitting about a hose by crimping or swaging, at least one component of each vacuum brake hose fitting shall be etched, embossed or stamped in block capital letters and numerals at least 1.6 mm (0.062 in.) in height with the following information:
-
-**(a)** a designation that identifies the manufacturer of that component of the fitting;
-
-
-
-**(b)** the nominal inside diameter of the hose or the outside diameter of the plastic tubing to which the fitting is properly attached; and
-
-
-
-**(c)** the letters “VL” or “VH” to indicate that the end fitting is intended for use in a light-duty vacuum brake system or a heavy-duty vacuum brake system, respectively.
-
-
-
-
-
-**(25)** Every vacuum brake hose assembly made with end fittings that are attached by crimping or swaging and every plastic tube assembly made with end fittings that are attached by heat shrinking or dimensional interference fit, unless assembled and installed by a manufacturer in a vehicle manufactured by him, shall, at the manufacturer’s option,
-
-**(a)** have at least one end fitting that is etched, embossed or stamped with a designation at least 1.6 mm (0.062 in.) in height that identifies the manufacturer of the assembly; or
-
-
-
-**(b)** be labelled by means of a band around the brake hose assembly that
-
-**(i)** is etched, embossed or stamped with a designation at least 3.2 mm (0.125 in.) in height that identifies the manufacturer of the hose assembly, and
-
-
-
-**(ii)** may be attached in such a manner that it will move freely along the length of the assembly as long as it is retained by the end fittings.
-
-
-
-
-
-
-
-**(26)** No vacuum hose assembly or part thereof need meet any further requirements after having been subjected to and having met the constriction requirement of subsection (31) and any one of the requirements set out in paragraphs (27)(a) to (i) and subsection (30).
-
-
-
-**(27)** Subject to subsections (28) to (30), a vacuum brake hose when subjected to Motor Vehicle Safety Test Methods, section 106, “Brake Hoses”, shall
-
-**(a)** not show external or internal cracks, charring or disintegration that are visible without magnification when straightened after being bent for 70 hours at 100°C (212°F) over a cylinder having the radius set out in Table IV to this section for the size of hose tested;
-
-
-
-**(b)** not show cracks in the outer cover that are visible without magnification after conditioning at -40°C (-40°F) for 70 hours when bent around a cylinder having the radius set out in Table IV to this section for the size of hose tested;
-
-
-
-**(c)** not show cracks in the outer cover that are visible under 7-power magnification after exposure to ozone for 70 hours at 40°C (104°F);
-
-
-
-**(d)** not rupture under hydrostatic pressure of 2 413 kPa (350 psi);
-
-
-
-**(e)** not collapse the outside diameter more than 1.6 mm (0.062 in.) when subjected to an internal vacuum of 88 kPa (26 in. of Hg) for five minutes;
-
-
-
-**(f)** not collapse the outside diameter at the middle point of the test length more than the values given in Table IV to this section for the size of hose tested when bent until the ends touch;
-
-
-
-**(g)** following exposure to ASTM Reference Fuel A,
-
-**(i)** not reduce the inside diameter of any section of hose to less than
-
-**(A)** 75 per cent of the nominal inside diameter of the hose if for heavy duty use, or
-
-
-
-**(B)** 70 per cent of the nominal inside diameter of the hose if for light duty use, and
-
-
-
-
-
-**(ii)** not show leakage or separation of the inner tube from the fabric reinforcement of the hose in a vacuum test of 88 kPa (26 in. of Hg) for 10 minutes;
-
-
-
-
-
-**(h)** except in the case of wire-reinforced hose, withstand a force of 1 401 N/m (eight pounds per inch) of length before separation of adjacent layers; and
-
-
-
-**(i)** return to 90 per cent of the original outside diameter of the hose within 60 seconds after five applications of force except that a wire-reinforced hose need only return to 85 per cent of its original outside diameter.
-
-
-
-
-
-**(28)** In the case of heavy-duty vacuum brake hose, the first of the five applications of force referred to in paragraph (27)(i) shall not exceed a peak value of 311 N (70 pounds) and the fifth of those applications of force shall reach a peak value of at least 178 N (40 pounds).
-
-
-
-**(29)** In the case of light-duty vacuum brake hose, the first of the five applications of force referred to in paragraph (27)(i) shall not exceed a peak value of 222 N (50 pounds) and the fifth of those applications of force shall reach a peak value of at least 89 N (20 pounds).
-
-
-
-**(30)** A vacuum brake hose end fitting when subjected to Motor Vehicle Test Methods, section 106, “Brake Hoses”, shall, after 24 hours of exposure to salt spray, not show base metal corrosion of the end fitting surface except where crimping or the application of labelling information causes displacement of the protective coating.
-
-
-
-**(31)** Every vacuum brake hose assembly with which a vehicle is equipped that is subjected to Motor Vehicle Safety Test Methods, section 106, “Brake Hoses”, shall not constrict the inside diameter of any section of a vacuum brake hose assembly to less than 75 per cent of the nominal inside diameter of the hose if for heavy-duty use, or 70 per cent of the nominal inside diameter of the hose if for light-duty use, except for that part of an end fitting that does not contain hose.
-
-
-
-**(32)** [Repealed, SOR/93-561, s. 4]
-
-
-
-
-#### TABLE I
+**(2)** A reference in TSD 106 to a standard published by ASTM that is set out in column 1 of the table to this subsection may be read as a reference to the standard set out opposite that standard in column 2 of the table.
+#### TABLE
 <table>
-<h4>Maximum Expansion of Free Length Brake Hose, Ml/M (Ml/Ft.)</h4>
 <tr>
-<th></th>
-<th>Test Procedure</th>
-</tr>
-<tr>
-<th></th>
-<th>6 895 kPa (1,000 psi)</th>
-<th>10 342 kPa (1,500 psi)</th>
-</tr>
-<tr>
-<th>Hydraulic</th>
-<th>Regular</th>
-<th></th>
-<th>Low</th>
-<th></th>
-<th>Regular</th>
-<th></th>
-<th>Low</th>
-<th></th>
-</tr>
-<tr>
-<th>Brake Hose</th>
-<th>Expansion</th>
-<th></th>
-<th>Expansion</th>
-<th></th>
-<th>Expansion</th>
-<th></th>
-<th>Expansion</th>
-<th></th>
-</tr>
-<tr>
-<th>Inside Diameter</th>
-<th>Hose</th>
-<th></th>
-<th>Hose</th>
-<th></th>
-<th>Hose</th>
-<th></th>
-<th>Hose</th>
-<th></th>
-</tr>
-<tr>
-<th></th>
-</tr>
-<tr>
-<td>3.18 mm (1/8 in) or less</td>
-<td>2.17</td>
-<td>(0.66)</td>
-<td>1.08</td>
-<td>(0.33)</td>
-<td>2.59</td>
-<td>(0.79)</td>
-<td>1.38</td>
-<td>(0.42)</td>
-</tr>
-<tr>
-<td>4.76 mm (3/16 in)</td>
-<td>2.82</td>
-<td>(0.86)</td>
-<td>1.80</td>
-<td>(0.55)</td>
-<td>3.35</td>
-<td>(1.02)</td>
-<td>2.36</td>
-<td>(0.72)</td>
-</tr>
-<tr>
-<td>6.35 mm (1/4 in) or more</td>
-<td>3.41</td>
-<td>(1.04)</td>
-<td>2.69</td>
-<td>(0.82)</td>
-<td>4.27</td>
-<td>(1.30)</td>
-<td>3.84</td>
-<td>(1.17)</td>
-</tr>
-</table>
-
-#### TABLE II
-<table>
-<h4>Air Brake Hose Dimensions for Reusable Assemblies</h4>
-<tr>
-<th></th>
-<th>Inside Diameter</th>
-<th>Type I Outside</th>
-<th>Type II Outside</th>
-</tr>
-<tr>
-<th>Size,</th>
-<th>Tolerance,</th>
-<th>Diameter, mm (Inches)</th>
-<th>Diameter, mm (Inches)</th>
-</tr>
-<tr>
-<th>mm (Inches)</th>
-<th>mm (Inches)</th>
-<th>Minimum</th>
-<th>Maximum</th>
-<th>Minimum</th>
-<th>Maximum</th>
-</tr>
-<tr>
-<th></th>
-</tr>
-<tr>
-<td>4.76(3/16)</td>
-<td>+0.66 (0.026)</td>
-<td>11.99</td>
-<td>12.95</td>
-<td>12.70</td>
-<td>13.69</td>
-</tr>
-<tr>
-<td>-0.00 (0.000)</td>
-<td>(0.472)</td>
-<td>(0.510)</td>
-<td>(0.500)</td>
-<td>(0.539)</td>
-</tr>
-<tr>
-<td>6.35(1/4)</td>
-<td>+0.79 (0.031)</td>
-<td>13.59</td>
-<td>14.55</td>
-<td>14.27</td>
-<td>15.29</td>
-</tr>
-<tr>
-<td>-0.00 (0.000)</td>
-<td>(0.535)</td>
-<td>(0.573)</td>
-<td>(0.562)</td>
-<td>(0.602)</td>
-</tr>
-<tr>
-<td>7.94(5/16)</td>
-<td>+0.79 (0.031)</td>
-<td>15.19</td>
-<td>16.15</td>
-<td>16.66</td>
-<td>17.65</td>
-</tr>
-<tr>
-<td>-0.00 (0.000)</td>
-<td>(0.598)</td>
-<td>(0.636)</td>
-<td>(0.656)</td>
-<td>(0.695)</td>
-</tr>
-<tr>
-<td>9.53(3/8)</td>
-<td>±0.58 (0.023)</td>
-<td>18.26</td>
-<td>19.84</td>
-<td>18.26</td>
-<td>19.84</td>
-</tr>
-<tr>
-<td></td>
-<td>(0.719)</td>
-<td>(0.781)</td>
-<td>(0.719)</td>
-<td>(0.781)</td>
-</tr>
-<tr>
-<td>10.32(13/32)</td>
-<td>+0.79 (0.031)</td>
-<td>18.14</td>
-<td>19.30</td>
-<td>18.85</td>
-<td>20.04</td>
-</tr>
-<tr>
-<td>-0.00 (0.000)</td>
-<td>(0.714)</td>
-<td>(0.760)</td>
-<td>(0.742)</td>
-<td>(0.789)</td>
-</tr>
-<tr>
-<td>12.7(1/2)</td>
-<td>+0.99 (0.039)</td>
-<td>20.52</td>
-<td>21.69</td>
-<td>22.81</td>
-<td>24.00</td>
-</tr>
-<tr>
-<td>-0.00 (0.000)</td>
-<td>(0.808)</td>
-<td>(0.854)</td>
-<td>(0.898)</td>
-<td>(0.945)</td>
-</tr>
-<tr>
-<td>15.88(5/8)</td>
-<td>+1.07 (0.042)</td>
-<td>23.70</td>
-<td>24.87</td>
-<td>26.77</td>
-<td>27.97</td>
-</tr>
-<tr>
-<td>-0.00 (0.000)</td>
-<td>(0.933)</td>
-<td>(0.979)</td>
-<td>(1.054)</td>
-<td>(1.101)</td>
-</tr>
-<tr>
-<td>12.7(1/2)</td>
-<td>±0.79 (0.031)</td>
-<td>21.44</td>
-<td>23.01</td>
-<td>21.44</td>
-<td>23.01</td>
-</tr>
-<tr>
-<td>special</td>
-<td></td>
-<td>(0.844)</td>
-<td>(0.906)</td>
-<td>(0.844)</td>
-<td>(0.906)</td>
-</tr>
-</table>
-
-#### TABLE III
-<table>
-<h4>Air Brake Hose Diameters and Test Cylinder Radius</h4>
-<tr>
-<td>Hose, Nominal diameter</td>
-<td>3.18</td>
-<td>4.76</td>
-<td>6.35</td>
-<td>7.94</td>
-<td>9.53</td>
-<td>10.32</td>
-<td>11.11</td>
-<td>12.7</td>
-<td>15.88</td>
-</tr>
-<tr>
-<td>in mm (inches)</td>
-<td>(1/8)</td>
-<td>(3/16)</td>
-<td>(1/4)</td>
-<td>(5/16)</td>
-<td>(3/8)</td>
-<td>(13/32)</td>
-<td>(7/16)</td>
-<td>(1/2)</td>
-<td>(5/8)</td>
-</tr>
-<tr>
-<td>Radius of test cylinder</td>
-<td>38.10</td>
-<td>50.8</td>
-<td>63.5</td>
-<td>76.2</td>
-<td>88.9</td>
-<td>88.9</td>
-<td>101.6</td>
-<td>101.6</td>
-<td>114.30</td>
-</tr>
-<tr>
-<td>in mm (inches)</td>
-<td>(1½)</td>
-<td>(2)</td>
-<td>(2½)</td>
-<td>(3)</td>
-<td>(3½)</td>
-<td>(3½)</td>
-<td>(4)</td>
-<td>(4)</td>
-<td>(4½)</td>
-</tr>
-</table>
-
-#### TABLE IV
-<table>
-<h4>Vacuum Brake Hose Test Requirements</h4>
-<tr>
-<th></th>
-<th>High temperature resistance</th>
-<th>Low temperature resistance</th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<th>Hose-Inside diameter, mm (inches)</th>
-<th>Hose length, mm (inches)</th>
-<th>Radius of cylinder, mm (inches)</th>
-<th>Hose length, mm (inches)</th>
-<th>Radius diameter, mm (inches)</th>
-<th>Bend (dimension D) mm (inches)</th>
-<th>Maximum collapse of outside mm (inches)</th>
-<th>Deformation collapsed inside diameter mm (inches)</th>
-</tr>
-<tr>
-<th></th>
-</tr>
-<tr>
-<td>5.56 ( 7/32)</td>
-<td>203.2  (8)</td>
-<td>38.10 (1 1/2)</td>
-<td>444.5 (17 1/2)</td>
-<td>76.2 (3      )</td>
-<td>177.8 ( 7)</td>
-<td>4.37 (11/64)</td>
-<td>1.19 (3/64)</td>
-</tr>
-<tr>
-<td>6.35 ( 1/4 )</td>
-<td>228.6  (9)</td>
-<td>38.10 (1 1/2)</td>
-<td>444.5 (17 1/2)</td>
-<td>76.2 (3      )</td>
-<td>203.2 ( 8)</td>
-<td>2.38 ( 3/32)</td>
-<td>1.59 (1/16)</td>
-</tr>
-<tr>
-<td>7.14 ( 9/32)</td>
-<td>228.6  (9)</td>
-<td>44.45 (1 3/4)</td>
-<td>482.6 (19      )</td>
-<td>88.9 (3 1/2)</td>
-<td>228.6 ( 9)</td>
-<td>4.76 ( 3/16)</td>
-<td>1.59 (1/16)</td>
-</tr>
-<tr>
-<td>8.73 (11/32)</td>
-<td>228.6  (9)</td>
-<td>44.45 (1 3/4)</td>
-<td>482.6 (19      )</td>
-<td>88.9 (3 1/2)</td>
-<td>279.4 (11)</td>
-<td>5.16 (13/64)</td>
-<td>1.98 (5/64)</td>
-</tr>
-<tr>
-<td>9.53 ( 3/8 )</td>
-<td>254.0 (10)</td>
-<td>44.45 (1 3/4)</td>
-<td>482.6 (19      )</td>
-<td>88.9 (3 1/2)</td>
-<td>304.8 (12)</td>
-<td>3.97 ( 5/32)</td>
-<td>2.38 (3/32)</td>
-</tr>
-<tr>
-<td>11.11 ( 7/16)</td>
-<td>279.4 (11)</td>
-<td>50.80 (2      )</td>
-<td>520.7 (20 1/2)</td>
-<td>101.6 (4      )</td>
-<td>355.6 (14)</td>
-<td>6.75 (17/64)</td>
-<td>1.98 (5/64)</td>
-</tr>
-<tr>
-<td>11.91 (15/32)</td>
-<td>279.4 (11)</td>
-<td>50.80 (2      )</td>
-<td>520.7 (20 1/2)</td>
-<td>101.6 (4      )</td>
-<td>355.6 (14)</td>
-<td>6.75 (17/64)</td>
-<td>1.98 (5/64)</td>
-</tr>
-<tr>
-<td>12.7 ( 1/2 )</td>
-<td>279.4 (11)</td>
-<td>50.80 (2      )</td>
-<td>520.7 (20 1/2)</td>
-<td>101.6 (4      )</td>
-<td>406.4 (16)</td>
-<td>5.56 ( 7/32)</td>
-<td>3.18 (1/8 )</td>
-</tr>
-<tr>
-<td>15.88 ( 5/8 )</td>
-<td>304.8 (12)</td>
-<td>57.15 (2 1/4)</td>
-<td>558.8 (22      )</td>
-<td>114.3 (4 1/2)</td>
-<td>558.8 (22)</td>
-<td>5.56 ( 7/32)</td>
-<td>3.97 (5/32)</td>
-</tr>
-<tr>
-<td>19.05 ( 3/4 )</td>
-<td>355.6 (14)</td>
-<td>63.50 (2 1/2)</td>
-<td>609.6 (24      )</td>
-<td>127.0 (5      )</td>
-<td>711.2 (28)</td>
-<td>5.56 ( 7/32)</td>
-<td>4.76 (3/16)</td>
-</tr>
-<tr>
-<td>25.4 ( 1.0 )</td>
-<td>406.4 (16)</td>
-<td>82.55 (3 1/4)</td>
-<td>723.9 (28 1/2)</td>
-<td>165.1 (6 1/2)</td>
-<td>914.4 (36)</td>
-<td>7.14 ( 9/32)</td>
-<td>6.35 (1/4 )</td>
-</tr>
-</table>
-
-#### TABLE V
-<table>
-<h4>Brake Hose Tests and Procedures</h4>
-<tr>
-<th>TEST</th>
-<th>*Test Method*
-
-*Procedure*
-
-</th>
-<th>*Requirements*
-
-*CMVSS 106*
-
-</th>
-</tr>
-<tr>
-<th></th>
+<th>Item</th>
+<th>Column 1</th>
+<th>Column 2</th>
 </tr>
 <tr>
 <td>1</td>
-<td>HYDRAULIC BRAKE HOSE</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>(1)</td>
-<td>Constriction</td>
-<td></td>
-<td>(11) (a)</td>
-</tr>
-<tr>
-<td></td>
-<td>(2)</td>
-<td>Expansion and Burst Strength</td>
-<td>3.1, 3.2</td>
-<td>(11) (b)</td>
-</tr>
-<tr>
-<td></td>
-<td>(3)</td>
-<td>Whip Resistance</td>
-<td>3.3</td>
-<td>(11) (c)</td>
-</tr>
-<tr>
-<td></td>
-<td>(4)</td>
-<td>Tensile Strength</td>
-<td>3.4</td>
-<td>(11) (d)</td>
-</tr>
-<tr>
-<td></td>
-<td>(5)</td>
-<td>Water Absorption and Burst Strength</td>
-<td>3.5</td>
-<td>(11) (e)</td>
-</tr>
-<tr>
-<td></td>
-<td>(6)</td>
-<td>Water Absorption and Tensile Strength</td>
-<td>3.5</td>
-<td>(11) (f)</td>
-</tr>
-<tr>
-<td></td>
-<td>(7)</td>
-<td>Water Absorption and Whip Resistance</td>
-<td>3.5</td>
-<td>(11) (g)</td>
-</tr>
-<tr>
-<td></td>
-<td>(8)</td>
-<td>Low Temperature Resistance and Flexibility</td>
-<td>3.6</td>
-<td>(9) (a)</td>
-</tr>
-<tr>
-<td></td>
-<td>(9)</td>
-<td>Brake Fluid Compatibility, Constriction and Burst Strength</td>
-<td>3.7</td>
-<td>(11) (h)</td>
-</tr>
-<tr>
-<td></td>
-<td>(10)</td>
-<td>Ozone Resistance</td>
-<td>3.8</td>
-<td>(9) (b)</td>
-</tr>
-<tr>
-<td></td>
-<td>(11)</td>
-<td>End Fitting Corrosion Resistance</td>
-<td>3.9</td>
-<td>(10)</td>
+<td>ASTM B 117 – 64, Salt Spray (Fog) Testing</td>
+<td>ASTM B 117 – 03, Standard Practice for Operating Salt Spray (Fog) Apparatus</td>
 </tr>
 <tr>
 <td>2</td>
-<td>AIR BRAKE HOSE</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>(1)</td>
-<td>Constriction</td>
-<td></td>
-<td>(20) (a)</td>
-</tr>
-<tr>
-<td></td>
-<td>(2)</td>
-<td>High Temperature Resistance</td>
-<td>4.1</td>
-<td>(18) (a)</td>
-</tr>
-<tr>
-<td></td>
-<td>(3)</td>
-<td>Low Temperature Resistance</td>
-<td>4.2</td>
-<td>(18) (b)</td>
-</tr>
-<tr>
-<td></td>
-<td>(4)</td>
-<td>Oil Resistance</td>
-<td>4.3</td>
-<td>(18) (c)</td>
-</tr>
-<tr>
-<td></td>
-<td>(5)</td>
-<td>Ozone Resistance</td>
-<td>4.4</td>
-<td>(18) (d)</td>
-</tr>
-<tr>
-<td></td>
-<td>(6)</td>
-<td>Length Change</td>
-<td>4.5</td>
-<td>(18) (e)</td>
-</tr>
-<tr>
-<td></td>
-<td>(7)</td>
-<td>Adhesion</td>
-<td>4.6</td>
-<td>(18) (f)</td>
-</tr>
-<tr>
-<td></td>
-<td>(8)</td>
-<td>Air Pressure</td>
-<td>4.7</td>
-<td>(20) (b)</td>
-</tr>
-<tr>
-<td></td>
-<td>(9)</td>
-<td>Burst Strength</td>
-<td>4.8</td>
-<td>(20) (c)</td>
-</tr>
-<tr>
-<td></td>
-<td>(10)</td>
-<td>Tensile Strength</td>
-<td>4.9</td>
-<td>(20) (d), (e)</td>
-</tr>
-<tr>
-<td></td>
-<td>(11)</td>
-<td>Water Absorption and Tensile Strength</td>
-<td>4.10</td>
-<td>(20) (f), (g)</td>
-</tr>
-<tr>
-<td></td>
-<td>(12)</td>
-<td>Zinc Chloride Resistance</td>
-<td>4.11</td>
-<td>(18) (g)</td>
-</tr>
-<tr>
-<td></td>
-<td>(13)</td>
-<td>End Fitting Corrosion Resistance</td>
-<td>4.12</td>
-<td>(19)</td>
-</tr>
-<tr>
-<td></td>
-<td>(14)</td>
-<td>Coiled Nylon Tubing</td>
-<td></td>
-<td>(21)</td>
+<td>ASTM D 471 – 64, Method of Test for Change in Properties of Elastomeric Vulcanizers Resulting From Immersion in Liquids</td>
+<td>ASTM D 471 – 06, Standard Test Method for Rubber Property — Effect of Liquids</td>
 </tr>
 <tr>
 <td>3</td>
-<td>VACUUM BRAKE HOSE</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>(1)</td>
-<td>Constriction</td>
-<td></td>
-<td>(31)</td>
-</tr>
-<tr>
-<td></td>
-<td>(2)</td>
-<td>High Temperature Resistance</td>
-<td>5.1</td>
-<td>(27) (a)</td>
-</tr>
-<tr>
-<td></td>
-<td>(3)</td>
-<td>Low Temperature Resistance</td>
-<td>5.2</td>
-<td>(27) (b)</td>
-</tr>
-<tr>
-<td></td>
-<td>(4)</td>
-<td>Ozone Resistance</td>
-<td>5.3</td>
-<td>(27) (c)</td>
-</tr>
-<tr>
-<td></td>
-<td>(5)</td>
-<td>Burst Strength</td>
-<td>5.4</td>
-<td>(27) (d)</td>
-</tr>
-<tr>
-<td></td>
-<td>(6)</td>
-<td>Vacuum</td>
-<td>5.5</td>
-<td>(27) (e)</td>
-</tr>
-<tr>
-<td></td>
-<td>(7)</td>
-<td>Bend</td>
-<td>5.6</td>
-<td>(27) (f)</td>
-</tr>
-<tr>
-<td></td>
-<td>(8)</td>
-<td>Swell</td>
-<td>5.7</td>
-<td>(27) (g)</td>
-</tr>
-<tr>
-<td></td>
-<td>(9)</td>
-<td>Adhesion</td>
-<td>5.8</td>
-<td>(27) (h)</td>
-</tr>
-<tr>
-<td></td>
-<td>(10)</td>
-<td>Deformation</td>
-<td>5.9</td>
-<td>(27) (i), (28), (29)</td>
-</tr>
-<tr>
-<td></td>
-<td>(11)</td>
-<td>End Fitting Corrosion Resistance</td>
-<td>5.10</td>
-<td>(30)</td>
+<td>ASTM E 4 – 64, Methods of Verification of Testing Machines</td>
+<td>ASTM E 4 – 07, Standard Practices for Force Verification of Testing Machines</td>
 </tr>
 </table>
 
 
 
 
+**(3)** This section expires on January 1, 2012.
 
->  SOR/79-677, s. 3; SOR/79-907, s. 1; SOR/93-561, s. 4; SOR/97-421, s. 16..
+
+
+
+> SOR/79-677, s. 3; SOR/79-907, s. 1; SOR/93-561, s. 4; SOR/97-421, s. 16; SOR/2007-180, s. 6..
 
 **107** [Repealed, SOR/96-437, s. 2]
 
@@ -5984,7 +4824,7 @@ Date of Expiration
 **(66)** This section expires on January 1, 2010.
 
 
->  SOR/79-306, s. 3; SOR/80-636, s. 2; SOR/84-812, s. 3; SOR/86-979, s. 1; SOR/87-497, s. 2; SOR/87-660, s. 4; SOR/88-268, s. 5; SOR/91-692, s. 2; SOR/94-374, s. 5; SOR/94-692, s. 2(F); SOR/95-147, s. 8; SOR/95-164, s. 5; SOR/96-366, s. 5; SOR/97-421, ss. 16, 18(E), 22(F); SOR/99-112, s. 1; SOR/99-426, s. 1; SOR/2000-182, s. 5; SOR/2001-60, s. 1; SOR/2001-116, s. 1; SOR/2001-353, s. 2; SOR/2003-272, s. 10; SOR/2005-42, ss. 1, 2; SOR/2006-94, s. 4(E)..
+> SOR/79-306, s. 3; SOR/80-636, s. 2; SOR/84-812, s. 3; SOR/86-979, s. 1; SOR/87-497, s. 2; SOR/87-660, s. 4; SOR/88-268, s. 5; SOR/91-692, s. 2; SOR/94-374, s. 5; SOR/94-692, s. 2(F); SOR/95-147, s. 8; SOR/95-164, s. 5; SOR/96-366, s. 5; SOR/97-421, ss. 16, 18(E), 22(F); SOR/99-112, s. 1; SOR/99-426, s. 1; SOR/2000-182, s. 5; SOR/2001-60, s. 1; SOR/2001-116, s. 1; SOR/2001-353, s. 2; SOR/2003-272, s. 10; SOR/2005-42, ss. 1, 2; SOR/2006-94, s. 4(E)..
 
 
 
@@ -6263,7 +5103,7 @@ Date of Expiration
 
 
 
->  SOR/79-339, s. 3; SOR/79-940, s. 7; SOR/87-448, s. 1; SOR/2003-272, s. 12..
+> SOR/79-339, s. 3; SOR/79-940, s. 7; SOR/87-448, s. 1; SOR/2003-272, s. 12..
 
 
 ### Mirrors
@@ -6334,7 +5174,7 @@ Date of Expiration
 
 
 
-Passenger Cars and Three-wheeled Vehicles [SOR/2003-272, s. 13].
+Passenger Cars and Three-wheeled Vehicles[SOR/2003-272, s. 13].
 
 
 
@@ -6737,7 +5577,7 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/97-463, S. 2
 
 
 
->  SOR/79-940, s. 7; SOR/80-439, s. 3; SOR/82-918, s. 1; SOR/87-658, s. 2; SOR/88-268, s. 6; SOR/95-147, s. 9; SOR/97-463, s. 2; SOR/2002-55, s. 13; SOR/2002-448, s. 1; SOR/2003-272, s. 14; SOR/2006-94, s. 4(E)..
+> SOR/79-940, s. 7; SOR/80-439, s. 3; SOR/82-918, s. 1; SOR/87-658, s. 2; SOR/88-268, s. 6; SOR/95-147, s. 9; SOR/97-463, s. 2; SOR/2002-55, s. 13; SOR/2002-448, s. 1; SOR/2003-272, s. 14; SOR/2006-94, s. 4(E)..
 
 
 **111.1** [Repealed, SOR/87-658, s. 2]
@@ -7571,553 +6411,105 @@ Immobilization System
 
 
 
->  SOR/79-940, s. 7; SOR/82-753, s. 3; SOR/87-660, s. 5; SOR/88-268, s. 7; SOR/88-535, s. 1; SOR/92-545, s. 3; SOR/94-670, s. 2(F); SOR/97-532, s. 3; SOR/2000-182, s. 7; SOR/2000-241, s. 1; SOR/2000-304, s. 5; SOR/2002-55, s. 14; SOR/2003-272, s. 15; SOR/2004-250, s. 3; SOR/2006-94, s. 4(E)..
+> SOR/79-940, s. 7; SOR/82-753, s. 3; SOR/87-660, s. 5; SOR/88-268, s. 7; SOR/88-535, s. 1; SOR/92-545, s. 3; SOR/94-670, s. 2(F); SOR/97-532, s. 3; SOR/2000-182, s. 7; SOR/2000-241, s. 1; SOR/2000-304, s. 5; SOR/2002-55, s. 14; SOR/2003-272, s. 15; SOR/2004-250, s. 3; SOR/2006-94, s. 4(E)..
 
 
-### Hydraulic Brake Fluids
+### Motor Vehicle Brake Fluids (Standard 116)
 > [SOR/93-561, s. 5; SOR/97-421, s. 7(F)]
 
 
 
 **116** 
 
-**(1)** Every hydraulic brake system of a vehicle shall contain
+**(1)** The hydraulic brake system of a vehicle shall contain brake fluid that conforms to the requirements of Technical Standards Document No. 116, Motor Vehicle Brake Fluids (TSD 116), as amended from time to time.
 
-**(a)** grade DOT 3, grade DOT 4 or grade DOT 5 brake fluid; or
 
 
-
-**(b)** hydraulic system mineral oil.
-
-
-
-
-
-**(2)** Grade DOT 3 brake fluid is a brake fluid that complies with the specifications set out in subsection (5) and that, when subjected to the test methods set out in Motor Vehicle Safety Test Methods, Section 116, “Hydraulic Brake Fluids”, shall have
-
-**(a)** an ERBP of not less than 205°C (401°F);
-
-
-
-**(b)** a wet ERBP of not less than 140°C (284°F); and
-
-
-
-**(c)** a kinematic viscosity when measured in mm<sup>2</sup>/s
-
-**(i)** at -40°C (-40°F), of not more than a maximum value of 1 500 mm<sup>2</sup>/s, and
-
-
-
-**(ii)** at 100°C (212°F), of not less than a minimum value of 1.5 mm<sup>2</sup>/s.
-
-
-
-
-
-
-
-**(3)** Grade DOT 4 brake fluid is a brake fluid that complies with the specifications set out in subsection (5) and that, when subjected to the test methods set out in Motor Vehicle Safety Test Methods, Section 116, “Hydraulic Brake Fluids”, shall have
-
-**(a)** an ERBP of not less than 230°C (446°F);
-
-
-
-**(b)** a wet ERBP of not less than 155°C (311°F); and
-
-
-
-**(c)** a kinematic viscosity when measured in mm<sup>2</sup>/s
-
-**(i)** at -40°C (-40°F), of not more than a maximum value of 1 800 mm<sup>2</sup>/s, and
-
-
-
-**(ii)** at 100°C (212°F), of not less than a minimum value of 1.5 mm<sup>2</sup>/s.
-
-
-
-
-
-
-
-**(4)** Grade DOT 5 brake fluid and grade DOT 5.1 brake fluid are brake fluids that comply with the specifications set out in subsections (6) and (5), respectively, and that, when subjected to the test methods set out in Motor Vehicle Safety Test Methods, Section 116, “Hydraulic Brake Fluids”, shall have
-
-**(a)** an ERBP of not less than 260°C (500°F);
-
-
-
-**(b)** a wet ERBP of not less than 180°C (356°F); and
-
-
-
-**(c)** a kinematic viscosity when measured in mm<sup>2</sup>/s
-
-**(i)** at -40°C (-40°F) of not more than a maximum value of 900 mm<sup>2</sup>/s, and
-
-
-
-**(ii)** at 100°C (212°F) of not less than a minimum value of 1.5 mm<sup>2</sup>/s.
-
-
-
-
-
-
-
-**(5)** Grade DOT 3 brake fluid and grade DOT 4 brake fluid, and grade DOT 5.1 brake fluid, when subjected to the test methods set out in Motor Vehicle Safety Test Methods, Section 116, “Hydraulic Brake Fluids”, shall
-
-**(a)** have a pH value of not less than 7 and not more than 11.5;
-
-
-
-**(b)** have high temperature stability such that the ERBP does not change by more than 3°C (5.4°F) plus 0.05°C (0.09°F) for each degree that the ERBP of the fluid exceeds 225°C (437°F);
-
-
-
-**(c)** have chemical stability such that the ERBP of the fluid mixture does not change by more than 3°C (5.4°F) plus 0.05°C (0.09°F) for each degree that the ERBP of the fluid mixture exceeds 225°C (437°F);
-
-
-
-**(d)** with respect to corrosion, not exhibit at the end of the test
-
-**(i)** in the case of the various metal test strips,
-
-**(A)** weight changes more than those set out in Table I to this section,
-
-
-
-**(B)** pitting or etching to an extent discernible without magnification, excluding the area of contact 13 ± 1 mm (1/2 ± 1/32 inch) measured from the bolt hole end of the metal test strip, and
-
-
-
-**(C)** a crystalline deposit forming on or adhering to either the surface of the metal test strip or the wall of the glass jar,
-
-
-
-
-
-**(ii)** in the case of the water-wet brake fluid,
-
-**(A)** gelling at 23 ± 5°C (73.4 ± 9°F),
-
-
-
-**(B)** more than 0.10 per cent sedimentation by volume, and
-
-
-
-**(C)** a pH value of not less than 7 and not more than 11.5, and
-
-
-
-
-
-**(iii)** in the case of the rubber cups,
-
-**(A)** disintegration as evidenced by blisters or sloughing,
-
-
-
-**(B)** more than 15 IRHD decrease in hardness, and
-
-
-
-**(C)** more than 1.4 mm (0.055 inch) increase in base diameter;
-
-
-
-
-
-
-
-**(e)** with respect to fluidity and appearance at the storage temperature and for the storage times set out in Table II to this section,
-
-**(i)** show no stratification, sedimentation, sludging or crystallization,
-
-
-
-**(ii)** upon inversion of the sample bottle, allow the air bubble to travel to the top of the fluid in not more than the maximum bubble flow times set out in Table II to this section, and
-
-
-
-**(iii)** on warming to room temperature the fluid shall resume the appearance and fluidity that it had before chilling;
-
-
-
-
-
-**(f)** with respect to evaporation,
-
-**(i)** not experience a weight loss in excess of 80 per cent,
-
-
-
-**(ii)** not contain precipitate brake fluid residue after evaporation that remains gritty or abrasive when rubbed with the fingertips, and
-
-
-
-**(iii)** have a residue pour point below -5°C (+23°F);
-
-
-
-
-
-**(g)** with respect to water tolerance,
-
-**(i)** at -40°C (-40°F)
-
-**(A)** show no stratification, sedimentation, sludging or crystallization,
-
-
-
-**(B)** upon inversion of the centrifuge tube, allow the air bubble to travel to the top of the fluid in not more than 10 seconds, and
-
-
-
-**(C)** if cloudiness has developed, the wet fluid shall regain its original clarity and fluidity when warmed to room temperature, and
-
-
-
-
-
-**(ii)** at 60°C (140°F), show
-
-**(A)** no stratification, and
-
-
-
-**(B)** not more than 0.15 per cent sedimentation by volume after centrifuging;
-
-
-
-
-
-
-
-**(h)** with respect to compatibility,
-
-**(i)** at -40°C (-40°F) show no stratification, sedimentation, sludging or crystallization, and
-
-
-
-**(ii)** at 60°C (140°F), show
-
-**(A)** no stratification, and
-
-
-
-**(B)** not more than 0.05 per cent sedimentation by volume after centrifuging;
-
-
-
-
-
-
-
-**(i)** with respect to resistance to oxidation,
-
-**(i)** show no pitting or etching of the metal test strips outside the areas in contact with the tinfoil to an extent discernible without magnification,
-
-
-
-**(ii)** deposit no more than a trace of gum on the test strips outside the areas in contact with the tinfoil,
-
-
-
-**(iii)** not change the weight of the aluminum strips by more than 0.5 g/m<sup>2</sup>, and
-
-
-
-**(iv)** not change the weight of the cast iron strips by more than 3.0 g/m<sup>2</sup>;
-
-
-
-
-
-**(j)** with respect to the effect on rubber brake cups subjected to brake fluid,
-
-**(i)** increase the diameter of the base of the cups not more than 1.40 mm (0.055 inch) and not less than 0.15 mm (0.006 inch),
-
-
-
-**(ii)** decrease the hardness of the cups not more than 10 IRHD at 70°C (158°F) and not more than 15 IRHD at 120°C (248°F),
-
-
-
-**(iii)** not increase the hardness of the cups, and
-
-
-
-**(iv)** cause no disintegration of the cups that is evidenced by stickiness, blisters or sloughing; and
-
-
-
-
-
-**(k)** with respect to stroking properties,
-
-**(i)** cause no pitting or etching of metal parts of the test system that is discernible without magnification,
-
-
-
-**(ii)** not change the diameter of any cylinder or piston by more than 0.13 mm (0.005 inch),
-
-
-
-**(iii)** not cause more than 15 IRHD average decrease in hardness in 7 of 8 rubber brake cups tested (6 wheel cylinder and one master cylinder primary), nor more than 17 IRHD decrease in hardness in more than 1 of the 7 cups,
-
-
-
-**(iv)** not cause an unsatisfactory operating condition as evidenced by stickiness, scuffing, blisters, cracking, chipping or other abnormal changes in shape from original appearance in any of the 8 rubber brake cups tested,
-
-
-
-**(v)** not cause more than 0.9 mm (0.035 inch) increase in diameter in any of the 8 rubber brake cups tested,
-
-
-
-**(vi)** not cause the average lip diameter of the 8 rubber brake cups tested to be deformed by more than 65 per cent,
-
-
-
-**(vii)** not cause more than 36 ml by volume loss of fluid during any period of 24,000 strokes,
-
-
-
-**(viii)** not cause the cylinder pistons to freeze or function improperly during the test,
-
-
-
-**(ix)** not cause more than 36 ml total loss of fluid during the 100 strokes at the end of the test,
-
-
-
-**(x)** show no formation of gels at the end of the test,
-
-
-
-**(xi)** not contain more than 1.5 per cent by volume of sediment at the end of the test, and
-
-
-
-**(xii)** not cause in brake cylinders deposits that are abrasive or that cannot be removed when rubbed moderately with a non-abrasive cloth wetted with ethanol.
-
-
-
-
-
-
-
-**(6)** Grade DOT 5 brake fluid, when subjected to the test methods set out in Motor Vehicle Safety Test Methods, Section 116, “Hydraulic Brake Fluids”, shall meet the requirements set out in subsection (5), but omitting
-
-**(a)** the requirements of paragraphs (5)(a) and (c), clause (5)(d)(ii)(C), clause (5)(h)(ii)(A); and
-
-
-
-**(b)** the no-stratification requirements of subparagraph (5)(h)(i).
-
-
-
-
-
-**(7)** The colour of brake fluid shall
-
-**(a)** in the case of grade DOT 3, grade DOT 4, and grade DOT 5.1 brake fluids, be from colourless to amber; and
-
-
-
-**(b)** in the case of grade DOT 5 brake fluid, be purple.
-
-
-
-
-
-**(8)** The colour of hydraulic system mineral oil shall be green.
-
-
-
-
-#### TABLE I
+**(2)** A reference in TSD 116 to a standard published by ASTM that is set out in column 1 of the table to this subsection may be read as a reference to the standard set out opposite that standard in column 2 of the table.
+#### TABLE
 <table>
 <tr>
-<th>Test Strip</th>
-<th>Max. permissible weight change,</th>
+<th>Item</th>
+<th>Column 1</th>
+<th>Column 2</th>
 </tr>
 <tr>
-<th>Material</th>
-<th>g/m<sup>2</sup> of surface</th>
-</tr>
-<tr>
-<th></th>
-</tr>
-<tr>
-<td>Steel, tinned iron, cast iron </td>
-<td>2</td>
-</tr>
-<tr>
-<td>Aluminum </td>
 <td>1</td>
+<td>ASTM D 445 – 65, Viscosity of Transparent and Opaque Liquids (Kinematic and Dynamic Viscosities)</td>
+<td>ASTM D 445 – 06, Standard Test Method for Kinematic Viscosity of Transparent and Opaque Liquids (and Calculation of Dynamic Viscosity)</td>
 </tr>
 <tr>
-<td>Brass, copper </td>
+<td>2</td>
+<td>ASTM D 1121 – 67, Standard Method of Test for Reserve Alkalinity of Engine Antifreezes and Antirusts</td>
+<td>ASTM D 1287 – 91 (reapproved in 2002), Standard Test Method for pH of Engine Coolants and Antirusts</td>
+</tr>
+<tr>
+<td>3</td>
+<td>ASTM D 1123 – 59, Standard Method of Test for Water in Concentrated Engine Antifreezes by the Iodine Reagent Method</td>
+<td>ASTM D 1123 – 99 (reapproved in 2003), Standard Test Methods for Water in Engine Coolant Concentrate by the Karl Fischer Reagent Method</td>
+</tr>
+<tr>
 <td>4</td>
-</tr>
-</table>
-
-#### TABLE II
-<table>
-<h4>Fluidity and Appearance at Low Temperatures</h4>
-<tr>
-<th></th>
-<th></th>
-<th>Max. bubble</th>
+<td>ASTM D 1193 – 70, Standard Specifications for Reagent Water</td>
+<td>ASTM D 1193 – 99<sup>ε1</sup>, Standard Specification for Reagent Water</td>
 </tr>
 <tr>
-<th>Storage</th>
-<th>Storage time</th>
-<th>flow time</th>
+<td>5</td>
+<td>ASTM D 1415 – 68, Standard Method of Test for International Hardness of Vulcanized Natural and Synthetic Rubbers</td>
+<td>ASTM D 1415 – 06, Standard Test Method for Rubber Property — International Hardness</td>
 </tr>
 <tr>
-<th>Temperature</th>
-<th>(hours)</th>
-<th>(seconds)</th>
+<td>6</td>
+<td>ASTM D 2515 – 66, Standard Specification for Kinematic Glass Viscometers</td>
+<td>ASTM D 446 – 06, Standard Specifications and Operating Instructions for Glass Capillary Kinematic Viscometers</td>
 </tr>
 <tr>
-<th></th>
+<td>7</td>
+<td>ASTM E 1 – 68, Specifications for ASTM Thermometers</td>
+<td>ASTM E 1 – 05, Standard Specification for ASTM Liquid-in-Glass Thermometers</td>
 </tr>
 <tr>
-<td>Minus 40 ± 2°C</td>
-<td>144 ± 4.0</td>
-<td>10</td>
+<td>8</td>
+<td>ASTM E 77 – 66, Verification and Calibration of Liquid-in-Glass Thermometers</td>
+<td>ASTM E 77 – 98, (reapproved in 2003), Standard Test Method for Inspection and Verification of Thermometers</td>
 </tr>
 <tr>
-<td>(Minus 40 ± 3.6°F)</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Minus 50 ± 2°C</td>
-<td>6 ± 0.2</td>
-<td>35</td>
-</tr>
-<tr>
-<td>(Minus 58 ± 3.6°F)</td>
-<td></td>
-<td></td>
+<td>9</td>
+<td>ASTM E 298 – 68, Standard Methods for Assay of Organic Peroxides</td>
+<td>ASTM E 298 – 01, Standard Test Methods for Assay of Organic Peroxides</td>
 </tr>
 </table>
 
 
 
 
+**(3)** This section expires on January 1, 2012.
 
->  SOR/79-940, s. 7; SOR/93-561, s. 6; SOR/97-421, s. 21(F)..
 
 
-### Power-operated Windows, Power-operated Partitions and Power-operated Roof Panels
+
+> SOR/79-940, s. 7; SOR/93-561, s. 6; SOR/97-421, s. 21(F); SOR/2007-180, s. 7..
+
+
+### Power-Operated Window, Partition and Roof Panel Systems (Standard 118)
 
 
 **118** 
 
-**(1)** A power-operated window, power-operated partition or power-operated roof panel fitted on an enclosed motorcycle, passenger car, three-wheeled vehicle, multi-purpose passenger vehicle or truck having a GVWR of not more than 4 536 kg may be closed only
+**(1)** Every power-operated window system, power-operated partition system and power-operated roof panel system fitted on an enclosed motorcycle, a passenger car, a three-wheeled vehicle or on a multi-purpose passenger vehicle or a truck with a GVWR of 4 536 kg or less shall conform to the requirements of Technical Standards Document No. 118, Power-Operated Window, Partition, and Roof Panel Systems (TSD 118), as amended from time to time.
 
-**(a)** where the ignition switch is in the ON, START or ACCESSORY position;
 
 
+**(2)** However, vehicles manufactured before October 1, 2010, need not comply with the requirements of section S6 of TSD 118.
 
-**(b)** where a muscular force unassisted by a power source within the vehicle is applied;
 
 
+**(3)** This section expires on January 1, 2012.
 
-**(c)** where a locking system on the exterior of the vehicle is activated;
 
 
 
-**(d)** between the time the ignition switch is turned to the OFF position and the time a front door of the vehicle is opened far enough to allow any person to exit the vehicle;
-
-
-
-**(e)** where a remote control is activated;
-
-
-
-**(f)** in the case of a power-operated window, power-operated partition or power-operated roof panel designed to close automatically, where the opening in that window, partition or roof panel is not large enough to allow the passage, in the manner described in subsection (3), of a semi-rigid cylindrical rod 4 mm in diameter; or
-
-
-
-**(g)** where that power-operated window, power-operated partition or power-operated roof panel is equipped with an automatic reversal system.
-
-
-
-
-
-**(2)** An automatic reversal system referred to in paragraph (1)(g) shall reverse the direction of the power-operated window, power-operated partition or power-operated roof panel
-
-**(a)** before that window, partition or roof panel comes into contact with the semi-rigid cylindrical rods referred to in subsections (3) and (4); or
-
-
-
-**(b)** when that window, partition or roof panel exerts a maximum squeezing force of 100 N on the semi-rigid cylindrical rods referred to in subsections (3) and (4).
-
-
-
-
-
-**(3)** For the purpose of testing an automatic reversal system referred to in paragraph (1)(g), a semi-rigid cylindrical rod 4 mm in diameter shall be introduced from the inside of the vehicle through each point of the opening left by the power-operated window, power-operated partition or power-operated roof panel, in such a way that the surface of the rod is in contact with any part of the structure with which that window, partition or roof panel mates.
-
-
-
-**(4)** The test described in subsection (3) shall be repeated using a semi-rigid cylindrical rod 200 mm in diameter.
-
-
-
-**(5)** For the purposes of subsection (4), where the opening of the power-operated window, power-operated partition or power-operated roof panel is less than 200 mm, the diameter of the rod referred to in subsection (4) shall be equal to that opening.
-
-
-
-**(6)** Once the automatic reversal system referred to in paragraph (1)(g) is activated, the power-operated window, power-operated partition or power-operated roof panel shall
-
-**(a)** open to a position that permits a semi-rigid cylindrical rod 200 mm in diameter to be passed through the opening; or
-
-
-
-**(b)** shall retract to a position that is at least as open as the position of that window, partition or roof panel at the time its closing was initiated.
-
-
-
-
-
-**(7)** A vehicle referred to in subsection (1) shall be equipped with an automatic reversal system where the closing of a power-operated window, a power-operated partition or a power-operated roof panel is triggered
-
-**(a)** by single activation of the locking system referred to in paragraph (1)(c); or
-
-
-
-**(b)** by remote control.
-
-
-
-
-
-**(8)** Notwithstanding paragraph (7)(b), a vehicle referred to in subsection (1) need not be equipped with an automatic reversal system where the closing of a power-operated window, a power-operated partition, or a power-operated roof panel can occur only where
-
-**(a)** the remote control referred to in paragraph (7)(b) is continuously operated; and
-
-
-
-**(b)** there is no obstruction between the remote control and that window, partition or roof panel.
-
-
-
-
-
-**(9)** The semi-rigid cylindrical rods referred to in subsections (3) to (5) shall have a force-deflection ratio of at least 65 N/mm for a rod not larger than 25 mm in diameter and of at least 20 N/mm for a rod larger than 25 mm in diameter.
-
-
-
-
-> SOR/79-940, s. 7; SOR/86-682, s. 2; SOR/95-164, s. 7; SOR/97-421, s. 8; SOR/98-524, s. 4(F); SOR/2003-272, s. 16; SOR/2006-94, s. 4(E)..
+> SOR/79-940, s. 7; SOR/86-682, s. 2; SOR/95-164, s. 7; SOR/97-421, s. 8; SOR/98-524, s. 4(F); SOR/2003-272, s. 16; SOR/2006-94, s. 4(E); SOR/2007-180, s. 8..
 
 
 ### Tire Selection and Rims for Vehicles Other Than Passenger Cars
@@ -8426,31 +6818,27 @@ Expiry Date
 
 
 
->  SOR/81-88, s. 3; SOR/88-268, s. 9; SOR/98-524, s. 4(F); SOR/2001-255, s. 1; SOR/2003-272, s. 18; SOR/2005-42, ss. 3, 4..
+> SOR/81-88, s. 3; SOR/88-268, s. 9; SOR/98-524, s. 4(F); SOR/2001-255, s. 1; SOR/2003-272, s. 18; SOR/2005-42, ss. 3, 4..
 
 
-### Controls and Displays — Motorcycles
-> [SOR/93-31, s. 4]
+### Motorcycle Controls and Displays (Standard 123)
+> [SOR/93-31, s. 4; SOR/2007-180, s. 9]
 
 
 
 **123** 
 
-**(1)** [Repealed, SOR/88-268, s. 10]
+**(1)** Every motorcycle, except those designed and sold exclusively for use by law enforcement agencies, shall conform to the requirements of Technical Standards Document No. 123, Motorcycle Controls and Displays (TSD 123), as amended from time to time.
 
 
 
-**(2)** This section does not apply to motorcycles designed and sold exclusively for use by law enforcement agencies.
-
-
-
-**(3)** Every motorcycle shall be equipped with the following equipment controls, namely,
+**(2)** Every motorcycle shall be equipped with the following controls:
 
 **(a)** a horn;
 
 
 
-**(b)** a fuel control;
+**(b)** a fuel tank shutoff valve;
 
 
 
@@ -8458,371 +6846,95 @@ Expiry Date
 
 
 
-**(d)** a supplemental engine stop;
+**(d)** a front wheel brake;
 
 
 
-**(e)** a front wheel brake;
+**(e)** a rear wheel brake; and
 
 
 
-**(f)** a rear wheel brake; and
+**(f)** an ignition switch.
 
 
 
-**(g)** subject to subsection (4), an ignition switch.
 
 
+**(3)** The ignition switch is optional in the case of a limited-speed motorcycle.
 
 
 
-**(4)** Paragraph (3)(g) is optional in the case of a limited-speed motorcycle.
+**(4)** Item 12 of Table 3 to TSD 123 applies to manual fuel tank shutoff valves only.
 
 
 
-**(5)** If a motorcycle is equipped with an equipment control set out in column I of an item of Table I to this section, the equipment control shall be located as specified in column II of that item and shall be operable throughout the full range of the control without removal of the operator’s hand from the handlebar, as specified in column III of that item and, in the case of hand-operated controls, the equipment control shall be operable
+**(5)** Any control or display that is not listed in Table 3 to TSD 123 and for which no other identification requirements are specified in these Regulations shall, if identified, be identified by the corresponding symbol set out in International Standard ISO 6727, Road vehicles — Motorcycles — Symbols for controls, indicators and telltales, as amended from time to time.
 
-**(a)** by the operator’s left hand, if the control is located on the left handlebar; or
 
 
+**(6)** Any control or display for which a symbol is not specified in Table 3 to TSD 123 or in International Standard ISO 6727, Road vehicles — Motorcycles — Symbols for controls, indicators and telltales, as amended from time to time, may be identified by a symbol designed by the manufacturer in compliance with the principles specified in that Standard.
 
-**(b)** by the operator’s right hand, if the control is located on the right handlebar.
 
 
+**(7)** Wherever the term “motorcycle” is used in International Standard ISO 6727, Road vehicles — Motorcycles — Symbols for controls, indicators and telltales, as amended from time to time, it shall have the same meaning as “motorcycle” in subsection 2(1) of these Regulations.
 
 
 
-**(6)** If a motorcycle with an automatic clutch is equipped with a supplemental rear brake control, the control shall be located on the left handlebar.
+**(8)** The words and abbreviations that must be displayed under this section shall be displayed in both official languages. However, if there is insufficient space to display the words or abbreviations identifying the ignition, tachometer or fuel tank shutoff valve in both official languages in a readily visible manner, they may be displayed in one official language only.
 
 
 
-**(7)** If a motorcycle is equipped with self-proportioning or anti-lock braking devices utilizing a single control for front and rear brakes, the control shall be located and operable in the same manner as a rear brake control.
+**(9)** The symbols and abbreviations used to identify the controls and displays of a motorcycle shall be provided in writing in the English and French versions of the owner’s manual, accompanied by a full explanation.
 
 
 
-**(8)** If a motorcycle is provided with a speedometer or a tell-tale that indicates the neutral position, the displays for those functions shall be visible to a seated operator under daylight conditions and shall be provided with illumination
+**(10)** Despite the requirements of item 8 of Table 3 to TSD 123, a speedometer fitted on a motorcycle shall be calibrated in kilometres per hour or in kilometres per hour and miles per hour. Digital speedometers that switch between kilometres per hour and miles per hour are permitted if the unit of measure is identified.
 
-**(a)** for the speedometer, by any means, whenever the headlamp is activated, except that, at the manufacturer’s option, the speedometer need not be illuminated in daytime pursuant to section 108; and
 
 
+**(11)** In the case of analogue speedometer displays, the kilometre-per-hour scale on the speedometer shall increase in a clockwise direction. Major graduations and numerals shall appear at 10- or 20-kilometre-per-hour intervals and minor graduations at 5- or 10-kilometre-per-hour intervals.
 
-**(b)** for the tell-tale, by a green tell-tale, whenever the transmission control is in the neutral position.
 
 
+**(12)** An odometer or trip odometer installed on a motorcycle adjacent to the speedometer shall display distances in the same unit of measure as that of the predominant speedometer scale. If the odometer or trip odometer is not adjacent to the speedometer or switches between kilometres and miles independently of the speedometer, the odometer or trip odometer shall display distances in kilometres or miles and shall identify the unit of measure used.
 
 
 
-**(9)** If a motorcycle is equipped with an article of equipment set out in column I of an item of Table II to this section,
+**(13)** Section S5.2.4 of TSD 123 does not apply to motor tricycles.
 
-**(a)** the control for the equipment shall be identified by the words or letters set out in column II of that item or by the corresponding symbol in International Organization for Standardization (ISO) International Standard ISO 6727, entitled Road Vehicles - Motorcycles - Symbols for controls, indicators and tell-tales, 1st ed., 1981;
 
 
+**(14)** Despite section S5.2.5 of TSD 123, it is not necessary for the footrest for a passenger on a motor tricycle to fold rearward and upward when not in use.
 
-**(b)** the function performed by the equipment control at a specific position shall be indicated as set out in Column III of that item;
 
 
+**(15)** A turn signal lamp display fitted on a motorcycle shall be green or yellow.
 
-**(c)** any word, words or letters set out in Column II or III of that item or a symbol referred to in paragraph (a) shall be placed on or adjacent to the control and, except in the case of a fuel control, shall appear in an upright position when viewed by a seated operator; and
 
 
+**(16)** This section expires on January 1, 2012.
 
-**(d)** the abbreviations used in Columns II and III of that item are minimum requirements and appropriate words may be spelled out in full.
 
 
 
+> SOR/79-306, s. 5; SOR/79-940, s. 7; SOR/82-656, s. 3; SOR/88-268, s. 10; SOR/93-31, s. 5; SOR/94-374, s. 5(F); SOR/95-536, s. 7; SOR/96-366, s. 8; SOR/97-421, ss. 10, 11(F), 12(F), 22(F); SOR/98-524, s. 4(F); SOR/2003-272, s. 19; SOR/2007-180, s. 10..
 
 
-**(10)** A motorcycle stand shall automatically fold rearward and upward if it is in contact with the ground when the motorcycle is moving forward.
-
-
-
-**(11)** Footrests shall be provided for each designated seating position of a motorcycle.
-
-
-
-**(11.1)** On a motorcycle other than a motor tricycle, each footrest provided at a designated seating position for a passenger, but not for the operator, shall fold rearward and upward when not in use.
-
-
-
-**(12)** Speedometers fitted on motorcycles shall be calibrated in kilometres per hour.
-
-
-
-**(12.1)** Odometers and trip record counters fitted on motorcycles shall show distances in kilometres.
-
-
-
-**(13)** A turn signal tell-tale fitted on a motorcycle shall be green or yellow.
-
-
-
-
-#### TABLE I
-<table>
-<h4>Motorcycle Control Location and Operation Requirements</h4>
-<tr>
-<th>Column I</th>
-<th>Column II</th>
-<th>Column III</th>
-</tr>
-<tr>
-<th>Equipment Control</th>
-<th>Location</th>
-<th>Operation</th>
-</tr>
-<tr>
-<th></th>
-</tr>
-<tr>
-<td>1</td>
-<td>Manual clutch or integrated clutch and gear change </td>
-<td>Left handlebar </td>
-<td>Squeeze to disengage clutch.</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Foot operated gear change </td>
-<td>Left foot control </td>
-<td>An upward motion of the operator’s toe shifts transmission toward lower numerical gear ratios (commonly referred to as “higher gears”), and a downward motion toward higher numerical gear ratios (commonly referred to as “lower gears”). If three or more gears are provided it shall not be possible to shift from the highest gear directly to the lowest gear or vice versa.</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Headlamp upper-lower beam control </td>
-<td>Left handlebar </td>
-<td>Up for upper beam, down for lower beam.</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Horn </td>
-<td>Left handlebar </td>
-<td>Push to activate.</td>
-</tr>
-<tr>
-<td>5</td>
-<td>Turn signal lamps </td>
-<td>Handlebars </td>
-<td>At the option of the manufacturer.</td>
-</tr>
-<tr>
-<td>6</td>
-<td>Ignition </td>
-<td></td>
-<td>“Off” — counterclockwise from other positions when viewed from in front of the ignition lock opening.</td>
-</tr>
-<tr>
-<td>7</td>
-<td>Manual fuel shutoff control </td>
-<td></td>
-<td>Rotate to operate; “On” and “Off” are separated by 90 degrees of rotation; “Off” and “Reserve” (if provided) are separated by 90 degrees of rotation; sequence order: “On” — “Off” — “Reserve”.</td>
-</tr>
-<tr>
-<td>8</td>
-<td>Twist-grip throttle </td>
-<td>Right handlebar </td>
-<td>Self-closing to idle in a clockwise direction, when viewed from the end of the handlebar, after release of hand.</td>
-</tr>
-<tr>
-<td>9</td>
-<td>Supplemental engine stop </td>
-<td>Right handlebar </td>
-<td></td>
-</tr>
-<tr>
-<td>10</td>
-<td>Front wheel brake </td>
-<td>Right handlebar </td>
-<td>Squeeze to engage.</td>
-</tr>
-<tr>
-<td>11</td>
-<td>Rear wheel brake </td>
-<td>Right foot control </td>
-<td>Depress to engage.</td>
-</tr>
-<tr>
-<td>In the case of a moped or motor driven cycle</td>
-<td></td>
-</tr>
-<tr>
-<td>**(a)** right foot control 
-
-</td>
-<td>Depress to engage.</td>
-</tr>
-<tr>
-<td>**(b)** left handlebar 
-
-</td>
-<td>Squeeze to engage.</td>
-</tr>
-<tr>
-<td>or</td>
-<td></td>
-</tr>
-<tr>
-<td>**(c)** pedals 
-
-</td>
-<td>Reverse pedalling.</td>
-</tr>
-</table>
-
-#### TABLE II
-<table>
-<h4>Motorcycle Control and Display Identification Requirements</h4>
-<tr>
-<th>Column I</th>
-<th>Column II</th>
-<th>Column III</th>
-</tr>
-<tr>
-<th>Equipment</th>
-<th>Control and Display Identification</th>
-<th>Position Identification of Control or Display Function</th>
-</tr>
-<tr>
-<th></th>
-</tr>
-<tr>
-<td>1</td>
-<td>Ignition </td>
-<td>Ignition or Contact</td>
-<td>Off or *Arrêt*</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Supplemental engine stop </td>
-<td>Engine stop or *Arrêt du Moteur*</td>
-<td>Off or *Arrêt*, Run or *Marche*</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Manual choke </td>
-<td>Choke or *Étrangleur*</td>
-<td></td>
-</tr>
-<tr>
-<td>4</td>
-<td>Electric starter </td>
-<td></td>
-<td>Start or *Demarr*.<sup><a href='#footnote1_e'>[1]</a></sup></td>
-</tr>
-<tr>
-<td>5</td>
-<td>Headlamp upper-lower beam control </td>
-<td>Lights or *Phare*</td>
-<td>Hi or *Route*, Lo or Code</td>
-</tr>
-<tr>
-<td>6</td>
-<td>Horn </td>
-<td>Horn or *Avertisseur*</td>
-<td></td>
-</tr>
-<tr>
-<td>7</td>
-<td>Turn Signal </td>
-<td>Turn or *Clignotant*</td>
-<td>L or G, R or D</td>
-</tr>
-<tr>
-<td>8</td>
-<td>Speedometer </td>
-<td>km/h </td>
-<td>[Repealed, SOR/95-536, s. 7]</td>
-</tr>
-<tr>
-<td>9</td>
-<td>Neutral indicator </td>
-<td>Neutral or *Mort*</td>
-<td></td>
-</tr>
-<tr>
-<td>10</td>
-<td>Upper beam indicator </td>
-<td>High beam or *Faisceau-route*</td>
-<td></td>
-</tr>
-<tr>
-<td>11</td>
-<td>Fuel control </td>
-<td>Fuel or *Carburant*</td>
-<td>Off or *Fermé*, On or *Ouvert*, Res or *Aux*, Pri, Pr or *Amorçage*</td>
-</tr>
-</table>
-
-
-<a name='footnote1_e'><sup>1</sup></a>: Required only if electric starter is separate from ignition switch.<br />
-
-
-
-
->  SOR/79-306, s. 5; SOR/79-940, s. 7; SOR/82-656, s. 3; SOR/88-268, s. 10; SOR/93-31, s. 5; SOR/94-374, s. 5(F); SOR/95-536, s. 7; SOR/96-366, s. 8; SOR/97-421, ss. 10, 11(F), 12(F), 22(F); SOR/98-524, s. 4(F); SOR/2003-272, s. 19..
-
-
-### Accelerator Control Systems
+### Accelerator Control Systems (Standard 124)
 
 
 **124** 
 
-**(1)** In this section, in the case of vehicles powered by electric motors, the words “throttle” and “idle” refer to the motor speed controller and motor shutdown, respectively.
+**(1)** Every passenger car, multi-purpose passenger vehicle, three-wheeled vehicle, truck and bus shall conform to the requirements of Technical Standards Document No. 124, Accelerator Control Systems, as amended from time to time.
 
 
 
-**(2)** Every vehicle shall meet the requirements set out in subsections (3) to (5)
-
-**(a)** when the engine is running under any load condition; and
-
-
-
-**(b)** at any ambient temperature between -40°F (-40°C) and +125°F (+52°C) after 12 hours of conditioning at any temperature within that range.
+**(2)** This section expires on January 1, 2012.
 
 
 
 
-
-**(3)** Every vehicle shall be equipped with at least two sources of energy capable of returning the throttle to the idle position, within the applicable time limit specified in subsection (5), from any accelerator position or speed upon release of the driver operated control or in the event of failure of one source of energy by a single disconnection or severance of any one component of the accelerator control system.
-
-
-
-**(4)** The throttle of every vehicle shall return to the idle position from any accelerator position
-
-**(a)** whenever any one component of the accelerator control system becomes disconnected or severed at a single point or the driver operated control is released; and
-
-
-
-**(b)** within the applicable time limit specified in subsection (5) measured from
-
-**(i)** the time of disconnection or severance, or
-
-
-
-**(ii)** the time of the first removal of the opposing actuating force by the driver.
-
-
-
-
-
-
-
-**(5)** The maximum time for the return of the throttle of a vehicle to the idle position is
-
-**(a)** one second for vehicles of 10,000 pounds (4 536 kg) or less GVWR;
-
-
-
-**(b)** two seconds for vehicles of more than 10,000 pounds (4 536 kg) GVWR; and
-
-
-
-**(c)** three seconds for any vehicle that is exposed to ambient temperature of 0° to -40°F (-17.7°C to -40°C) during the test or any portion of the 12-hour conditioning period.
-
-
-
-
-
-
-> SOR/79-940, s. 7..
+> SOR/79-940, s. 7; SOR/2007-180, s. 10..
 
 
 ### School Bus Pedestrian Safety Devices (Standard 131)
@@ -8930,7 +7042,7 @@ Date of Expiration
 
 **(1)** In this section,
 
-***head impact area*** means the non-glazed surfaces of the interior of the vehicle that are capable of being contacted statically by the head form of a measuring device in accordance with the following procedure or its graphic equivalent: 
+***head impact area*** means the non-glazed surfaces of the interior of the vehicle that are capable of being contacted statically by the head form of a measuring device in accordance with the following procedure or its graphic equivalent:
 - **(a)** at each designated seating position, by placing the pivot point of the measuring device,**(i)** for seats that are adjustable fore and aft, at
 
 **(A)** the seating reference point, and
@@ -8947,11 +7059,11 @@ Date of Expiration
 - **(b)** with the pivot point to top-of-head dimension at each adjustment allowed for the measuring device by the interior dimension of the vehicle, by determining all contact points above the lower windshield glass line and forward of the seating reference point, and
 - **(c)** beginning with the head form of the measuring device at each contact point referred to in paragraph (b) and with the measuring device in a vertical position if no contact point exists for a particular adjusted length, by pivoting the measuring device forward and downward through all arcs in vertical planes to 90° each side of the longitudinal plane through the seating reference point until the head form contacts an interior surface or until it is tangent to a horizontal plane 25 mm (1 inch) above the seating reference point, whichever occurs first; (*zone d’impact de la tête*)
 
-***interior compartment door*** means any door in the interior of a vehicle installed by the manufacturer as a cover for storage space normally used for personal effects; (*porte de compartiment intérieur*) 
+***interior compartment door*** means any door in the interior of a vehicle installed by the manufacturer as a cover for storage space normally used for personal effects; (*porte de compartiment intérieur*)
 
-***measuring device*** means a device having a spherical head form with a diameter of 165 mm (6.5 inches) attached to a pivot, with the distance between the pivot point and the top of the head form being adjustable at any point between 740 mm (29 inches) and 840 mm (33 inches); (*appareil de mesure*) 
+***measuring device*** means a device having a spherical head form with a diameter of 165 mm (6.5 inches) attached to a pivot, with the distance between the pivot point and the top of the head form being adjustable at any point between 740 mm (29 inches) and 840 mm (33 inches); (*appareil de mesure*)
 
-***pelvic impact area*** means that area of the door or body side panel adjacent to any outboard designated seating position that is bounded by: 
+***pelvic impact area*** means that area of the door or body side panel adjacent to any outboard designated seating position that is bounded by:
 - **(a)** horizontal planes 180 mm (seven inches) above and 100 mm (four inches) below the seating reference point, and
 - **(b)** vertical transverse planes 200 mm (eight inches) forward and 50 mm (two inches) rearward of the seating reference point. (*zone d’impact pelvienne*)
 
@@ -9154,7 +7266,7 @@ Date of Expiration
 
 **202** 
 
-**(1)** In this section, “H-point machine” and “H-point template” have the same meaning as in SAE Recommended Practice J826, “Devices for Use in Defining and Measuring Vehicle Seating Accommodation” (June 1991).
+**(1)** In this section, ***H-point machine*** and ***H-point template*** have the same meaning as in SAE Standard J826, Devices for Use in Defining and Measuring Vehicle Seating Accommodation (July 1995).
 
 
 
@@ -9224,7 +7336,7 @@ Date of Expiration
 
 
 
-**(d)** at each designated seating position having a head restraint, the dummy shall be placed in the manufacturer’s recommended design seated position and snugly restrained by a Type 1 or Type 2 seat belt assembly referred to in section 209;
+**(d)** at each designated seating position having a head restraint, the dummy shall be placed in the manufacturer’s recommended design seated position and snugly restrained by a Type 1 or Type 2 seat belt assembly that meets the requirements of section 209;
 
 
 
@@ -9259,7 +7371,7 @@ Date of Expiration
 
 
 
-> SOR/95-60, s. 2; SOR/2003-272, s. 21; SOR/2006-94, s. 4(E)..
+> SOR/95-60, s. 2; SOR/2003-272, s. 21; SOR/2006-94, s. 4(E); SOR/2007-180, s. 11..
 
 
 ### Driver Impact Protection
@@ -9615,7 +7727,7 @@ simultaneously, in the case of a seat having one or more seat belt assemblies at
 
 
 
-**(b)** when the seat is placed in the forward-facing direction, has a Type 2A manual seat belt assembly that can be adjusted by means of an emergency-locking retractor.
+**(b)** when the seat is placed in the forward-facing direction, has a Type 2A shoulder belt that can be adjusted by means of an emergency-locking retractor.
 
 
 
@@ -10115,534 +8227,125 @@ Transitional Provisions
 
 
 
-> SOR/78-80, s. 2; SOR/80-782, s. 2; SOR/87-578, s. 2; SOR/90-387, s. 3; SOR/93-5, s. 4; SOR/97-201, s. 5; SOR/97-447, s. 5; SOR/98-125, s. 6; SOR/98-524, s. 4(F); SOR/2002-55, s. 17; SOR/2003-272, s. 24; SOR/2006-94, s. 4(E)..
+> SOR/78-80, s. 2; SOR/80-782, s. 2; SOR/87-578, s. 2; SOR/90-387, s. 3; SOR/93-5, s. 4; SOR/97-201, s. 5; SOR/97-447, s. 5; SOR/98-125, s. 6; SOR/98-524, s. 4(F); SOR/2002-55, s. 17; SOR/2003-272, s. 24; SOR/2006-94, s. 4(E); SOR/2007-180, s. 12..
 
 
-### Seat Belt Assemblies
+### Seat Belt Assemblies (Standard 209)
 > [SOR/95-536, s. 7(F)]
 
 
 
 **209** 
 
-**(1)** [Repealed, SOR/97-447, s. 6]
+**(1)** Every passenger car, multi-purpose passenger vehicle, truck, bus, low-speed vehicle, three-wheeled vehicle and enclosed motorcycle shall be equipped with seat belt assemblies that conform to the requirements of Technical Standards Document No. 209, Seat Belt Assemblies (TSD 209), as amended from time to time.
 
 
 
-**(2)** Every seat belt assembly with which a vehicle is equipped shall
+**(2)** The pelvic restraint of a Type 2 manual seat belt assembly that is equipped with a detachable upper torso restraint shall meet all requirements for a Type 1 seat belt assembly set out in these Regulations.
 
-**(a)** be designed for use by only one person at one time; and
 
 
+**(3)** The webbing of a seat belt assembly shall not transfer colour to a crock cloth, either wet or dry, to a greater degree than Rating 3 on the Chromatic Transference Scale specified in AATCC Evaluation Procedure 8, AATCC 9-Step Chromatic Transference Scale (2002 revision).
 
-**(b)** provide pelvic restraint designed to remain on the pelvis of the occupant under all conditions.
 
 
+**(4)** Compliance of the webbing of a seat belt assembly with the requirements of subsection (3) shall be determined by testing the webbing from three seat belt assemblies in accordance with the procedure specified in AATCC Test Method 8-2005, Colorfastness to Crocking: AATCC Crockmeter Method.
 
 
 
-**(3)** The pelvic restraint of a Type 2 seat belt assembly that can be used without upper torso restraint shall comply with all requirements for a Type 1 seat belt assembly set out in these Regulations.
+**(5)** The webbing of a seat belt assembly shall not stain to a greater degree than Rating 2 on the Chromatic Transference Scale specified in the AATCC Evaluation Procedure 8, AATCC 9-Step Chromatic Transference Scale (2002 revision).
 
 
 
-**(4)** Every Type 2 seat belt assembly shall provide upper torso restraint that
+**(6)** Compliance of the webbing of a seat belt assembly with the requirements of subsection (5) shall be determined by testing the webbing from three seat belt assemblies in accordance with the procedure specified in AATCC Test Method 107-2002, Colorfastness to Water, except:
 
-**(a)** does not shift the pelvic restraint into the abdominal region of the occupant;
+**(a)** the test solution shall be freshly boiled distilled water;
 
 
 
-**(b)** is designed to minimize vertical forces on the shoulders and spine of the occupant; and
+**(b)** the AATCC perspiration tester shall be used;
 
 
 
-**(c)** has hardware designed and located in the assembly to minimize the possibility of injury to the occupant.
+**(c)** on removal from the oven, the test specimen shall be hung to dry for four hours; and
 
 
 
+**(d)** the AATCC Chromatic Transference Scale shall be used to evaluate the staining of the multifiber test fabric.
 
 
-**(5)** Every Type 2A shoulder belt shall comply with all requirements for a Type 2 seat belt assembly set out in these Regulations.
 
 
 
-**(6)** [Repealed, SOR/87-154, s. 3]
+**(7)** A reference in TSD 209 to a standard published by ASTM or AATCC that is set out in column 1 of the table to this subsection may be read as a reference to the standard set out opposite that standard in column 2 of the table.
+#### TABLE
+<table>
+<tr>
+<th>Item</th>
+<th>Column 1</th>
+<th>Column 2</th>
+</tr>
+<tr>
+<td>1</td>
+<td>AATCC Test Method 30 – 1981, Fungicides Evaluation on Textiles: Mildew and Rot Resistance of Textiles</td>
+<td>AATCC Test Method 30 – 2004, Antifungal Activity, Assessment on Textile Materials: Mildew and Rot Resistance of Textile Materials</td>
+</tr>
+<tr>
+<td>2</td>
+<td>ASTM B 117 – 73, Standard Method of Salt Spray (Fog) Testing</td>
+<td>ASTM B 117 – 03, Standard Practice for Operating Salt Spray (Fog) Apparatus</td>
+</tr>
+<tr>
+<td>3</td>
+<td>ASTM B 456 – 79, Standard Specification for Electrodeposited Coatings of Copper Plus Nickel Plus Chromium and Nickel Plus Chromium</td>
+<td>ASTM B 456 – 03, Standard Specification for Electrodeposited Coatings of Copper Plus Nickel Plus Chromium and Nickel Plus Chromium</td>
+</tr>
+<tr>
+<td>4</td>
+<td>ASTM D 756 – 78, Standard Practice for Determination of Weight and Shape Changes of Plastics Under Accelerated Service Conditions</td>
+<td>ASTM D 756 – 93, Standard Practice for Determination of Weight and Shape Changes of Plastics Under Accelerated Service Conditions</td>
+</tr>
+<tr>
+<td>5</td>
+<td>ASTM E 4 – 79, Standard Methods of Load Verification of Testing Machines</td>
+<td>ASTM E 4 – 07, Standard Practices for Force Verification of Testing Machines</td>
+</tr>
+<tr>
+<td>6</td>
+<td>ASTM G 23 – 81, Standard Practice for Operating Light-Exposure Apparatus (Carbon-Arc Type) With and Without Water for Exposure of Nonmetallic Materials</td>
+<td>ASTM G 152 – 00a<sup>ε1</sup>, Standard Practice for Operating Open Flame Carbon Arc Light Apparatus for Exposure of Nonmetallic Materials</td>
+</tr>
+</table>
 
 
 
-**(7)** The webbing of a seat belt assembly
 
-**(a)** shall have its ends protected or treated to prevent ravelling;
+**(8)** For the purposes of section S4.1(e) of TSD 209, the first sentence of the section shall be read without reference to the words “readily accessible to the occupant to permit his easy and rapid removal from the assembly”.
 
 
 
-**(b)** shall not, when used in a seat belt assembly having a metal buckle for size adjustment of the assembly, pull out of the adjustment hardware at maximum size adjustment;
+**(9)** Sections S4.1(g) and (m), S4.5(b) and S4.6 of TSD 209 do not apply.
 
 
 
-**(c)** shall be capable of moving essentially unimpeded when routed between a seat back and seat cushion and attached to a retractor located behind the seat;
+**(10)** The instructions referred to in section S4.1(l) of TSD 209 shall be provided in the English and French versions of the owner’s manual.
 
 
 
-**(d)** shall be not less than 46 mm (1.8 in.) wide except for portions that do not touch a 95th percentile adult male where the seat is in any adjustment position and the seat back is in the manufacturer’s nominal design riding position when measured under the conditions of Motor Vehicle Safety Test Methods, Section 209, Seat Belt Assemblies, approved on behalf of the Minister on February 27, 1984;
+**(11)** The requirements relating to non-locking retractors provided in sections S4.1(l), S4.3(h) and S5.2(h) and (k) of TSD 209 do not apply.
 
 
 
-**(e)** shall have a breaking strength of not less than
+**(12)** A Type 1 or Type 2 seat belt assembly that includes a load-limiter and that does not meet the elongation requirements of sections S4.2(c), S4.4(a)(2) or S4.4(b)(4) or (5) of TSD 209 may be installed only at a front outboard seating position that is equipped with a frontal air bag.
 
-**(i)** in the case of a Type 1 seat belt assembly, 26.7 kN (6,000 pounds), and
 
 
+**(13)** This section expires on January 1, 2012.
 
-**(ii)** in the case of a Type 2 seat belt assembly, 22.2 kN (5,000 pounds) for the pelvic restraint and 17.8 kN (4,000 pounds) for the upper torso restraint,
 
 
 
-**(iii)** [Repealed, SOR/87-154, s. 3]
-
-
-
-
-
-when tested in accordance with the test methods referred to in paragraph (d);
-
-
-
-**(f)** except as provided in subsection (29), shall not extend more than
-
-**(i)** in the case of a Type 1 seat belt assembly, 20 per cent at 11.1 kN (2,500 lb.), and
-
-
-
-**(ii)** in the case of a Type 2 seat belt assembly, 30 per cent at 11.1 kN (2,500 lb.) for the pelvic restraint and 40 per cent at 11.1 kN (2,500 lb.) for the upper torso restraint,
-
-
-
-
-
-when tested in accordance with the test methods referred to in paragraph (d);
-
-
-
-**(g)** shall, when subjected to abrasion in accordance with the test methods referred to in paragraph (d), have a breaking strength of not less than 75 per cent of the breaking strength specified in paragraph (e) for that type of belt assembly;
-
-
-
-**(h)** shall, when exposed to the light of a carbon arc and tested in accordance with the test methods referred to in paragraph (d), have
-
-**(i)** a breaking strength of not less than 60 per cent of its strength before exposure to the light, and
-
-
-
-**(ii)** a colour retention not less than No. 2 on the Geometric Gray Scale published by the American Association of Textile Chemists and Colorists;
-
-
-
-
-
-**(i)** shall, unless the webbing is made from material inherently resistant to micro-organisms, when subjected to micro-organisms and tested in accordance with the test methods referred to in paragraph (d) have a breaking strength of not less than 85 per cent of its strength before subjection to micro-organisms;
-
-
-
-**(j)** shall not transfer colour to a crock cloth, either wet or dry, to a greater degree than Rating 3 on the AATCC Chromatic Transference Scale, developed by the American Association of Textile Chemists and Colorists in 1972, when the webbing is tested in accordance with the test methods referred to in paragraph (d); and
-
-
-
-**(k)** shall not stain to a greater degree than Rating 2 on the AATCC Chromatic Transference Scale, developed by the American Association of Textile Chemists and Colorists in 1972, when tested in accordance with the test methods referred to in paragraph (d).
-
-
-
-
-
-**(8)** Every strap used in a seat belt assembly to sustain restraint forces shall comply with the requirements for webbing in subsection (7) and, if the strap is made from a rigid material, it shall comply with all applicable requirements of this section.
-
-
-
-**(9)** All hardware parts of a seat belt assembly that, under normal use, make contact with any person, clothing or webbing shall not have any burrs or sharp edges.
-
-
-
-**(10)** Subject to subsection (11), every seat belt assembly shall include all hardware necessary for installation in a motor vehicle in accordance with SAE Recommended Practice J800c, Motor Vehicle Seat Belt Installations, November 1973, which hardware shall be designed to prevent attachment bolts and other parts from becoming disengaged from the vehicle while in service.
-
-
-
-**(10.1)** Reinforcing plates or washers furnished for universal floor installation of seat belt assemblies in motor vehicles shall
-
-**(a)** be made of steel, free from burrs and sharp edges on the peripheral edges adjacent to the vehicle;
-
-
-
-**(b)** be at least 1.5 mm (0.06 in.) in thickness and at least 2580 mm<sup>2</sup> (4 in.<sup>2</sup>) in projected area;
-
-
-
-**(c)** have at least a 15 mm (0.6 in.) distance between any edge of the plate and the edge of the bolt hole;
-
-
-
-**(d)** have all corners rounded to a radius of not less than 6 mm (0.25 in.) or cut so that no corner angle is less than 135°; and
-
-
-
-**(e)** have no side less than 6 mm (0.25 in.) in length.
-
-
-
-
-
-**(11)** Seat belt assemblies designed for installation in motor vehicles equipped with seat belt anchorages that do not require anchorage nuts, plates or washers need not have the hardware described in subsection (10), but shall have 7/16 — 20 UNF-2A or 1/2 — 13 UNC-2A attachment bolts or equivalent hardware.
-
-
-
-**(12)** Attachment hardware of a seat belt assembly, except attachment hardware made of corrosion resistant steel containing a minimum of 11.5 per cent chromium,
-
-**(a)** shall not, after being tested in accordance with the test methods referred to in paragraph (7)(d), have significant ferrous corrosion on any surface other than surfaces at peripheral edges or edges of holes in underfloor reinforcing plates and washers; or
-
-
-
-**(b)** shall be protected by a coating at least as effective as
-
-**(i)** in the case of attachment hardware at or near the floor, an electro-deposited coating of nickel plus chromium, or copper plus nickel plus chromium, with a service condition number of at least SC2 determined in accordance with ASTM B456-79, “Standard Specification for Electro-deposited Coatings of Copper plus Nickel plus Chromium and Nickel plus Chromium”, and
-
-
-
-**(ii)** in the case of attachment hardware other than that specified in subparagraph (i), an electro-deposited coating of nickel plus chromium, or copper plus nickel plus chromium, with a service condition number of SCl determined in accordance with the ASTM standard referred to in subparagraph (i), but such hardware shall not be racked for electro-plating in locations subject to maximum stresses.
-
-
-
-
-
-
-
-**(13)** When tested in accordance with applicable subsections of the test methods referred to in paragraph (7)(d)
-
-**(a)** eye bolts, shoulder bolts or other bolts used to secure the pelvic restraint of a seat belt assembly to a vehicle shall withstand a force of 40 kN (9,000 pounds), except that such bolts need not withstand a force of more than 22.2 kN (5,000 pounds) if they are installed in such a manner that only one end of a seat belt assembly can be attached thereto;
-
-
-
-**(b)** attachment hardware, other than bolts, designed to receive the ends of two seat belts assemblies shall withstand a tensile force not less than 26.7 kN (6,000 pounds) without fracture of any section; and
-
-
-
-**(c)** a seat belt assembly having single attachment hooks of the quick-disconnect type for connecting webbing to an eye bolt shall be provided with a retaining latch or keeper which shall not move more than 2 mm (0.08 inch) in either the vertical or horizontal direction.
-
-
-
-
-
-**(14)** The release mechanism of a seat belt assembly
-
-**(a)** shall be a buckle or buckles readily accessible to the occupant to permit his easy and rapid removal from the assembly;
-
-
-
-**(b)** shall be designed to minimize the possibility of accidental release; and
-
-
-
-**(c)** if the assembly has a buckle with a release mechanism in the latched position, shall have only one opening in which the tongue can be inserted on the end of the buckle designed to receive and latch the tongue.
-
-
-
-
-
-**(15)** Every Type 1 or Type 2 seat belt assembly shall, irrespective of seat adjustment position and with the seat back in the manufacturer’s nominal design driving position,
-
-**(a)** be capable of adjustment to fit occupants whose dimensions and mass range from those of a fifth percentile adult female to those of a 95th percentile adult male; and
-
-
-
-**(b)** have
-
-**(i)** an automatic-locking retractor,
-
-
-
-**(ii)** an emergency-locking retractor, or
-
-
-
-**(iii)** an adjusting device that is within the reach of the occupant.
-
-
-
-
-
-
-
-**(16)** [Repealed, SOR/87-154, s. 3]
-
-
-
-**(17)** Surfaces of buckles, retractors and metallic parts, other than attachment hardware, of a seat belt assembly shall not, after subjection to the corrosion conditioning specified in the test methods referred to in paragraph (7)(d), have any ferrous or non-ferrous corrosion which may be transferred, either directly or by means of the webbing, to the occupant or his clothing when the assembly is worn.
-
-
-
-**(18)** Every buckle that is subjected to the conditions in subsection (17) shall meet the applicable requirements of subsections (20), (21) and (22).
-
-
-
-**(19)** Plastic or other non-metallic hardware parts of a seat belt assembly shall not, when subjected to the temperature conditioning specified in the test methods referred to in paragraph (7)(d), warp or otherwise deteriorate in such a manner as to cause the assembly to operate improperly or fail to comply with applicable requirements of this section.
-
-
-
-**(20)** Every buckle of a seat belt assembly
-
-**(a)** shall release when a force of not more than 133 N (30 lb.) is applied as specified in the test methods referred to in paragraph (7)(d);
-
-
-
-**(b)** shall not release under a compressive force of 1 780 N (400 lb.) applied as specified in the test methods referred to in paragraph (7)(d), but shall be operable and able to meet the applicable requirements of subsections (27) and (28) after the compressive force is removed;
-
-
-
-**(c)** that is actuated
-
-**(i)** by a push button shall have a minimum push button area of 450 mm<sup>2</sup> with a minimum linear dimension of 10 mm for applying the release force,
-
-
-
-**(ii)** by a lever shall permit the insertion of a cylinder 10 mm (0.4 in.) in diameter and 38 mm (1.5 in.) in length to at least the midpoint of the cylinder along its length in the actuation portion of the buckle release, and
-
-
-
-**(iii)** by other means shall have adequate access for two or more fingers to actuate release; and
-
-
-
-
-
-**(d)** having tilt lock adjustment shall lock the webbing at an angle of not less than 30° between the base of the buckle and the anchor webbing when tested in accordance with the test methods referred to in paragraph (7)(d).
-
-
-
-
-
-**(21)** The force required to decrease the size of a seat belt assembly shall not exceed 49 N (11 pounds) when measured in accordance with the test methods referred to in paragraph (7)(d).
-
-
-
-**(22)** The buckle latch of a seat belt assembly, when tested in accordance with the test methods referred to in paragraph (7)(d), shall not fail, gall or wear to an extent that normal latching and unlatching is impaired and, if metal to metal, shall release when in any position of partial engagement and subjected to a force of not more than 22 N (5 lb.).
-
-
-
-**(23)** A non-locking retractor with which a seat belt assembly is equipped shall
-
-**(a)** allow the webbing of that seat belt assembly to extend within 6 mm (0.25 inch) of maximum length when a tension is applied, as specified in the test methods referred to in paragraph (7)(d); and
-
-
-
-**(b)** when on an upper-torso restraint,
-
-**(i)** be attached to the non-adjustable end of the assembly,
-
-
-
-**(ii)** have the reel easily visible to an occupant while wearing the assembly, and
-
-
-
-**(iii)** have a maximum retraction force of not more than 4.9 N (1.1 pounds) in any strap or webbing that makes contact with the shoulder of an occupant when measured in accordance with the test methods referred to in paragraph (7)(d), unless the retractor is attached to the free end of the webbing which is not subjected to any tension during restraint of an occupant by the assembly.
-
-
-
-
-
-
-
-**(24)** An automatic-locking retractor with which a seat belt assembly is equipped, when tested in accordance with the test methods referred to in paragraph (7)(d),
-
-**(a)** shall not allow the webbing of that seat belt assembly to move more than 25 mm (one inch) between locking positions of the retractor;
-
-
-
-**(b)** shall have a retraction force under zero acceleration of not less than 2.6 N (0.6 pound) when attached to a pelvic restraint and not less than 2 N (0.45 pound) or more than 4.9 N (1.1 pounds) in any strap or webbing that makes contact with the shoulder of an occupant when the retractor is attached to an upper torso restraint; and
-
-
-
-**(c)** shall not, when attached to an upper torso restraint, increase the restraint on the occupant of the seat belt assembly during use in a vehicle travelling over rough roads.
-
-
-
-
-
-**(25)** An emergency-locking retractor of a Type 1 or Type 2 seat belt assembly, when tested in accordance with the test methods referred to in paragraph (7)(d),
-
-**(a)** shall lock before the webbing extends 25 mm (one inch) when the retractor is subjected to an acceleration of 0.7 times the acceleration due to gravity;
-
-
-
-**(b)** shall not lock,
-
-**(i)** if the retractor is sensitive to webbing withdrawal, before the webbing extends 50 mm (two inches) when the retractor is subjected to an acceleration of not more than 0.3 times the acceleration due to gravity, and
-
-
-
-**(ii)** if the retractor is sensitive to vehicle acceleration, when the retractor is rotated in any direction to any angle of 15 degrees or less from its orientation in the vehicle; and
-
-
-
-
-
-**(c)** shall exert a retractive force of
-
-**(i)** at least 2.6 N (0.6 pound) under zero acceleration when attached only to a pelvic restraint,
-
-
-
-**(ii)** not less than 0.9 N (0.2 pound) or more than 4.9 N (1.1 pounds) under zero acceleration when attached only to an upper torso restraint, and
-
-
-
-**(iii)** not less than 0.9 N (0.2 pound) or more than 6.7 N (1.5 pounds) under zero acceleration when attached to a strap or webbing that restrains both the upper torso and the pelvis.
-
-
-
-
-
-
-
-**(26)** A retractor used on a seat belt after subjection to the cycling procedure specified in the test methods referred to in paragraph (7)(d) shall meet the applicable requirements of subsections (23), (24), (25), (27) and (28), except that the retraction force shall not be less than 50 per cent of its original retraction force.
-
-
-
-**(27)** Except as provided in subsection (29), the components of every Type 1 seat belt assembly, including webbing, straps, buckles, adjustment hardware, attachment hardware and retractors, when tested in accordance with the test methods referred to in paragraph (7)(d), shall meet the following requirements:
-
-**(a)** each structural component of the seat belt assembly shall withstand a force of not less than 11.1 kN (2,500 pounds);
-
-
-
-**(b)** the length of the seat belt assembly loop between anchorages shall increase by not more than 360 mm (14 inches) when subjected to a force of 22.2 kN (5,000 pounds);
-
-
-
-**(c)** webbing cut by the hardware during the test shall have a breaking strength, at the cut, of not less than 18.7 kN (4,200 pounds); and
-
-
-
-**(d)** there shall be no complete fracture through any solid section of metal attachment hardware during the test.
-
-
-
-
-
-**(28)** Except as provided in subsection (29), the components of every Type 2 seat belt assembly, including webbing, straps, buckles, adjustment hardware, attachment hardware and retractors, when tested in accordance with the test methods referred to in paragraph (7)(d), shall meet the following requirements:
-
-**(a)** the structural components in the pelvic restraint shall withstand a force of not less than 11.1 kN (2,500 pounds);
-
-
-
-**(b)** the length of the pelvic restraint between anchorages shall increase by not more than 500 mm (20 inches) when subjected to a force of 11.1 kN (2,500 pounds);
-
-
-
-**(c)** the structural components in the upper torso restraint shall withstand a force of not less than 6 670 N (1,500 pounds);
-
-
-
-**(d)** the length of the upper torso restraint between the anchorages shall increase by not more than 500 mm (20 inches) when subjected to a force of 6 670 N (1,500 pounds);
-
-
-
-**(e)** the structural components in the assembly that are common to both pelvic and upper torso restraint shall withstand a force of not less than 13.3 kN (3,000 pounds);
-
-
-
-**(f)** webbing cut by the hardware during the test shall have a breaking strength of not less than
-
-**(i)** 15.6 kN (3,500 pounds) at a cut in the webbing of the pelvic restraint, or
-
-
-
-**(ii)** 12.5 kN (2,800 pounds) at a cut in the webbing of the upper torso restraint; and
-
-
-
-
-
-**(g)** there shall be no complete fracture through any solid section of metal attachment hardware during the test.
-
-
-
-
-
-**(29)** A Type 1 or Type 2 seat belt assembly that includes a load-limiter
-
-**(a)** is not required to comply with the elongation requirements of paragraph (7)(f), (27)(b), (28)(b) or (28)(d); and
-
-
-
-**(b)** where the seat belt assembly does not comply with the elongation requirements of paragraph (7)(f), (27)(b), (28)(b) or (28)(d), shall
-
-**(i)** not be installed in a vehicle except in conjunction with an air bag, and
-
-
-
-**(ii)** in addition to conforming to the marking requirements specified in subsection (30), be permanently and legibly marked or labelled with a statement that the seat belt assembly may be installed in a vehicle only in conjunction with an air bag.
-
-
-
-“This seat belt assembly may be installed in a vehicle only in combination with an automatic restraint system such as an air cushion or an automatic belt.”
-
-
-
-
-
-
-
-
-
-
-
-**(30)** Every seat belt assembly shall be permanently and legibly marked or labelled with
-
-**(a)** the year of manufacture;
-
-
-
-**(b)** the name or trademark of the manufacturer, distributor, or importer; and
-
-
-
-**(c)** the model identification.
-
-
-
-
-
-**(31)** For the purpose of paragraph (30)(c), a model shall consist of a single combination of webbing having a specific type of fibre weave and construction, and hardware having a specific design although various colours may be included in the same model.
-
-
-
-**(32)** Every vehicle equipped with a seat belt assembly shall be provided with
-
-**(a)** written instructions regarding
-
-**(i)** the proper use of the assembly, stressing the importance of wearing the assembly snugly and properly located on the body,
-
-
-
-**(ii)** the maintenance of the assembly and periodic inspection of all components, and
-
-
-
-**(iii)** the proper manner of threading the webbing in the hardware of seat belt assemblies in which the webbing is not permanently fastened;
-
-
-
-
-
-**(b)** in the case of a non-locking retractor, a caution that the webbing must be fully extended from the retractor during use of the seat belt assembly unless the retractor is attached to the free end of the webbing that is not subjected to any tension during restraint of an occupant by the assembly; and
-
-
-
-**(c)** in the case of a Type 2A assembly, a warning that the shoulder belt is not to be used without a lap belt.
-
-
-
-
-
-
-> SOR/78-910, s. 2; SOR/87-154, s. 3; SOR/92-545, s. 4; SOR/97-447, s. 6..
+> SOR/78-910, s. 2; SOR/87-154, s. 3; SOR/92-545, s. 4; SOR/97-447, s. 6; SOR/2007-180, s. 13..
 
 
 ### Seat Belt Anchorages (Standard 210)
@@ -10721,7 +8424,7 @@ to the nearest contact point of the belt with the seat belt anchorage shall exte
 
 
 
-**(5)** In the case of each non-adjustable seat belt anchorage for the upper end of an upper torso restraint, the intersection of the longitudinal centreline of the bolt hole and the surface of the mounting structure or, in designs using another means of attachment to the vehicle structure, the centroid of such means shall be located within the range indicated in section 6.1 of SAE Recommended Practice J383 (June 1995), with reference to an H-point template described in section 3 of SAE Standard J826 (June 1992), where
+**(5)** In the case of each non-adjustable seat belt anchorage for the upper end of an upper torso restraint, the intersection of the longitudinal centreline of the bolt hole and the surface of the mounting structure or, in designs using another means of attachment to the vehicle structure, the centroid of the means shall be located within the range indicated in section 6.1 of SAE Recommended Practice J383, Motor Vehicle Seat Belt Anchorages — Design Recommendations (June 1995), with reference to an H-point template described in section 4.1 of SAE Standard J826, Devices for Use in Defining and Measuring Vehicle Seating Accommodation (July 1995), where
 
 **(a)** the H-point of the template is located at the unique Design H-point of the seat, as defined in section 2.2.11.1 of SAE Recommended Practice J1100 (June 1993), at the full rearward and full downward position of the seat; and
 
@@ -10774,7 +8477,7 @@ Information Respecting Restraint Systems
 
 
 
-> SOR/90-588, s. 3; SOR/93-5, s. 5; SOR/97-447, s. 7; SOR/2003-57, ss. 1, 3(F), 4(F); SOR/2003-272, s. 25; SOR/2006-94, s. 4(E)..
+> SOR/90-588, s. 3; SOR/93-5, s. 5; SOR/97-447, s. 7; SOR/2003-57, ss. 1, 3(F), 4(F); SOR/2003-272, s. 25; SOR/2006-94, s. 4(E); SOR/2007-180, s. 14..
 
 
 ### User-ready Tether Anchorages for Restraint Systems (Standard 210.1)
@@ -10889,7 +8592,7 @@ Tether Anchorage Positioning
 
 
 
-**(5)** Subject to subsections (5.1), (6) and (7), the portion of each user-ready tether anchorage that is designed to bind with a tether strap hook shall be located within the shaded zone, as shown in Figures 3 to 7, of the designated seating position for which it is installed, with reference to the H-point of a template described in section 3.1 of SAE Standard J826 (June 1992), if
+**(5)** Subject to subsections (6) and (7), the portion of each user-ready tether anchorage that is designed to bind with a tether strap hook shall be located within the shaded zone, as shown in Figures 3 to 7, of the designated seating position for which it is installed, with reference to the H-point of a template described in section 4.1 of SAE Standard J826, Devices for Use in Defining and Measuring Vehicle Seating Accommodation (July 1995), if
 
 **(a)** the H-point of the template is located
 
@@ -11058,7 +8761,7 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/98-457, S. 3; SOR/2000-44, SS. 2, 3; SOR/2002-
 
 
 
->  SOR/86-975, s. 2; SOR/92-545, s. 5; SOR/94-669, s. 3; SOR/95-536, s. 7; SOR/98-457, s. 3; SOR/2000-44, ss. 1 to 3; SOR/2002-205, s. 3; SOR/2003-272, s. 26; SOR/2006-94, ss. 2, 4(E)..
+> SOR/86-975, s. 2; SOR/92-545, s. 5; SOR/94-669, s. 3; SOR/95-536, s. 7; SOR/98-457, s. 3; SOR/2000-44, ss. 1 to 3; SOR/2002-205, s. 3; SOR/2003-272, s. 26; SOR/2006-94, ss. 2, 4(E); SOR/2007-180, s. 15..
 
 
 ### Lower Universal Anchorage Systems for Restraint Systems and Booster Cushions (Standard 210.2)
@@ -11461,7 +9164,7 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/2002-205, S. 4
 
 
 
->  SOR/2002-205, s. 4; SOR/2003-272, s. 27; SOR/2005-342, s. 4; SOR/2006-94, ss. 3, 4(E)..
+> SOR/2002-205, s. 4; SOR/2003-272, s. 27; SOR/2005-342, s. 4; SOR/2006-94, ss. 3, 4(E)..
 
 
 **211** [Repealed, SOR/97-421, s. 13]
@@ -11558,7 +9261,7 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/2002-205, S. 4
 
 **213.4** 
 
-**(1)** Every built-in child restraint system and built-in booster cushion, when tested in accordance with Motor Vehicle Test Methods, Section 213.4, “Built-in Child Restraint System and Built-in Booster Cushion” (October 15, 1993) in any of the positions that the system, cushion, or vehicle seat can be used while the vehicle is in motion, shall,
+**(1)** Every built-in child restraint system and built-in booster cushion, when tested in accordance with Test Method 213.4 — Built-In Child Restraint Systems and Built-In Booster Cushions (January 2007) in any of the positions that the system, cushion, or vehicle seat can be used while the vehicle is in motion, shall,
 
 **(a)** exhibit no complete separation of any load bearing structural element and no partial separation exposing either surfaces that have a radius of less than 6.4 mm (1/4 inch) or surfaces that have protrusions greater than 9.5 mm (3/8 inch) above the immediate adjacent surrounding contactable surface of any structural element of the system;
 
@@ -11672,25 +9375,25 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/2002-205, S. 4
 
 **(12)** The webbing of belts that are provided with a built-in child restraint system and used to restrain a child within the system shall
 
-**(a)** after being subjected to abrasion as specified in Motor Vehicle Safety Test Methods, Section 209, “Seat Belt Assemblies” (February 27, 1984), have a breaking strength of not less than 75% of the strength of the unabraded webbing;
+**(a)** after being subjected to abrasion as specified in section S5.3(c) of TSD 209 have a breaking strength of not less than 75 per cent of the strength of the unabraded webbing;
 
 
 
-**(b)** meet the requirements of paragraphs 209(7)(h) to (k); and
+**(b)** meet the requirements of sections S4.2(e) and (f) of TSD 209 and subsections 209(4) to (7) of Schedule IV to these Regulations; and
 
 
 
-**(c)** if contactable by the anthropometric test device torso when the system is tested dynamically, have a width of not less than 38 mm (1 1/2 inches) when measured as specified in Motor Vehicle Safety Test Methods, Section 209, “Seat Belt Assemblies” (February 27, 1984).
+**(c)** if contactable by the torso of the anthropometric test device when the system is tested dynamically, have a width of not less than 38 mm (11/2 inches) when measured as specified in section S5.1(a) of TSD 209.
 
 
 
 
 
-**(13)** Every belt buckle and item of belt adjustment hardware used in a built-in child restraint system shall conform to the requirements of subsections 209(12), (17), (19) and (22).
+**(13)** Every belt buckle and item of belt adjustment hardware used in a built-in child restraint system shall conform to the requirements of sections S4.3(a)(1) and (2) and S4.3(b) and (g) of TSD 209.
 
 
 
-**(14)** Any buckle of a built-in child restraint system belt assembly that is designed to restrain a child shall in accordance with Motor Vehicle Safety Test Methods, Section 213.4, “Built-in Child Restraint System and Built-in Booster Cushion” (October 15, 1993),
+**(14)** Any buckle of a built-in child restraint system belt assembly that is designed to restrain a child shall in accordance with Test Method 213.4 — Built-In Child Restraint Systems and Built-In Booster Cushions (January 2007),
 
 **(a)** before dynamic testing,
 
@@ -11720,13 +9423,13 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/2002-205, S. 4
 
 
 
-**(b)** shall not, when tested in accordance with Motor Vehicle Safety Test Methods, Section 213.4, “Built-in Child Restraint System and Built-in Booster Cushion” (October 15, 1993), impose on the child any loads that result from the mass of the system, or from the mass of any part of the vehicle into which the child restraint system is built.
+**(b)** shall not, when tested in accordance with Test Method 213.4 — Built-In Child Restraint Systems and Built-In Booster Cushions (January 2007), impose on the child any loads that result from the mass of the system, or from the mass of any part of the vehicle into which the child restraint system is built.
 
 
 
 
 
-**(16)** Every built-in child restraint system shall, when the anthropometric test device is positioned in accordance with Motor Vehicle Safety Test Method, Section 213.4, “Built-in Child Restraint System and Built-in Booster Cushion” (October 15, 1993), provide
+**(16)** Every built-in child restraint system shall, when the anthropometric test device is positioned in accordance with Test Method 213.4 — Built-In Child Restraint Systems and Built-In Booster Cushions (January 2007), provide
 
 **(a)** upper torso restraint in the form of
 
@@ -11811,7 +9514,7 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/2002-205, S. 4
 
 
 
-> SOR/94-669, s. 6..
+> SOR/94-669, s. 6; SOR/2007-180, ss. 16, 21..
 
 
 ### Side Door Strength
@@ -11821,11 +9524,11 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/2002-205, S. 4
 
 **(1)** In this section,
 
-***initial crush resistance*** means the average force required to deform the door of a vehicle, measured over the initial 152 mm of crush; (*résistance initiale à la déformation*) 
+***initial crush resistance*** means the average force required to deform the door of a vehicle, measured over the initial 152 mm of crush; (*résistance initiale à la déformation*)
 
-***intermediate crush resistance*** means the average force required to deform the door of a vehicle, measured over the initial 305 mm of crush; (*résistance intermédiaire à la déformation*) 
+***intermediate crush resistance*** means the average force required to deform the door of a vehicle, measured over the initial 305 mm of crush; (*résistance intermédiaire à la déformation*)
 
-***peak crush resistance*** means the greatest force required to deform the door of a vehicle over the entire crush distance of 457 mm; (*résistance maximale à la déformation*) 
+***peak crush resistance*** means the greatest force required to deform the door of a vehicle over the entire crush distance of 457 mm; (*résistance maximale à la déformation*)
 
 
 
@@ -11879,7 +9582,7 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/2002-205, S. 4
 
 
 
-**(c)** the side doors of a vehicle where, with an H-point template described in section 3.1 of SAE Standard J826 (June 1992) positioned in any seat, the seat adjusted to any position and the seat back placed in accordance with subsection (6),
+**(c)** the side doors of a vehicle where, with an H-point template described in section 4.1 of SAE Standard J826, Devices for Use in Defining and Measuring Vehicle Seating Accommodation (July 1995) positioned in any seat, the seat adjusted to any position and the seat back placed in accordance with subsection (6),
 
 **(i)** no point on a 254 mm horizontal longitudinal line passing through and bisected by the H-point falls within the transverse, horizontal projection of the door’s opening, or
 
@@ -11910,7 +9613,7 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/97-201, S. 3
 
 
 
->  SOR/82-275, s. 1; SOR/97-201, s. 3; SOR/2003-272, s. 28; SOR/2006-94, s. 4(E)..
+> SOR/82-275, s. 1; SOR/97-201, s. 3; SOR/2003-272, s. 28; SOR/2006-94, s. 4(E); SOR/2007-180, s. 17..
 
 
 ### Bumpers
@@ -12067,7 +9770,7 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/79-338, S. 1
 
 
 
->  SOR/79-338, s. 1; SOR/79-940, s. 8; SOR/91-692, s. 5; SOR/94-692, s. 2(F); SOR/97-421, s. 22(F)..
+> SOR/79-338, s. 1; SOR/79-940, s. 8; SOR/91-692, s. 5; SOR/94-692, s. 2(F); SOR/97-421, s. 22(F)..
 
 
 ### Roof Intrusion Protection
@@ -12461,7 +10164,7 @@ HEAD FORM
 GRAPHIC IS NOT DISPLAYED, SEE C.R.C., C. 1038, P. 8334
 
 
->  SOR/80-159, s. 1; SOR/86-978, s. 1; SOR/87-176, s. 1; SOR/92-122, s. 1; SOR/94-374, s. 5; SOR/94-692, s. 2; SOR/98-524, s. 4(F); SOR/99-215, s. 1(F)..
+> SOR/80-159, s. 1; SOR/86-978, s. 1; SOR/87-176, s. 1; SOR/92-122, s. 1; SOR/94-374, s. 5; SOR/94-692, s. 2; SOR/98-524, s. 4(F); SOR/99-215, s. 1(F)..
 
 
 ### Windshield Zone Intrusion
@@ -12471,11 +10174,11 @@ GRAPHIC IS NOT DISPLAYED, SEE C.R.C., C. 1038, P. 8334
 
 **(1)** In this section,
 
-***daylight opening*** or ***DLO*** means the maximum unobstructed opening through the glazing surface including reveal or garnish mouldings adjoining the surface, as measured parallel to the outer surface of the glazing material; (*ouverture de jour*) or (*OJ*) 
+***daylight opening*** or ***DLO*** means the maximum unobstructed opening through the glazing surface including reveal or garnish mouldings adjoining the surface, as measured parallel to the outer surface of the glazing material; (*ouverture de jour*) or (*OJ*)
 
-***protected zone*** means the space displayed in Figure 1 to this section and enclosed as set out in subsection (5); (*zone protégée*) 
+***protected zone*** means the space displayed in Figure 1 to this section and enclosed as set out in subsection (5); (*zone protégée*)
 
-***protected zone template*** means a template cut or formed from type DB, cut cell styrofoam to the dimensions of the protected zone. (*gabarit de zone protégée*) 
+***protected zone template*** means a template cut or formed from type DB, cut cell styrofoam to the dimensions of the protected zone. (*gabarit de zone protégée*)
 
 
 
@@ -12608,7 +10311,7 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/81-665, S. 2.
 
 
 
->  SOR/81-665, s. 2; SOR/97-201, s. 4; SOR/97-421, ss. 17, 22(F)..
+> SOR/81-665, s. 2; SOR/97-201, s. 4; SOR/97-421, ss. 17, 22(F)..
 
 
 ### Rollover Protection
@@ -12647,17 +10350,17 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/81-665, S. 2.
 
 **(1)** The following definitions in this subsection apply in this section.
 
-***body component*** means a part of a bus body, including floor panels, made from a single piece of homogeneous material or from a single piece of composite material such as plywood or plastic. (*élément de carrosserie*) 
+***body component*** means a part of a bus body, including floor panels, made from a single piece of homogeneous material or from a single piece of composite material such as plywood or plastic. (*élément de carrosserie*)
 
-***body panel*** means a body component used on the exterior or interior surface of a bus to enclose the bus occupant space. (*panneau de carrosserie*) 
+***body panel*** means a body component used on the exterior or interior surface of a bus to enclose the bus occupant space. (*panneau de carrosserie*)
 
-***body panel joint*** means the area of contact, attachment or close proximity between the edges of a body panel and another body component. (*joint de panneau de carrosserie*) 
+***body panel joint*** means the area of contact, attachment or close proximity between the edges of a body panel and another body component. (*joint de panneau de carrosserie*)
 
-***bus body*** means the portion of a bus that encloses the bus occupant space, including the floor and the body panel separating the engine compartment from the occupant space, but excluding the bumpers and chassis frame. (*carrosserie d’autobus*) 
+***bus body*** means the portion of a bus that encloses the bus occupant space, including the floor and the body panel separating the engine compartment from the occupant space, but excluding the bumpers and chassis frame. (*carrosserie d’autobus*)
 
-***maintenance access panel*** means a body panel that must be moved or removed to provide access to serviceable components. (*panneau d’accès pour l’entretien*) 
+***maintenance access panel*** means a body panel that must be moved or removed to provide access to serviceable components. (*panneau d’accès pour l’entretien*)
 
-***serviceable component*** means any part of a bus, of either a mechanical or electrical nature, that is explicitly identified in the owner’s manual or factory service manual as requiring routine maintenance actions at intervals of one year or less. Tubing, wires and harnesses are considered to be serviceable components only at their attachments. (*élément nécessitant de l’entretien*) 
+***serviceable component*** means any part of a bus, of either a mechanical or electrical nature, that is explicitly identified in the owner’s manual or factory service manual as requiring routine maintenance actions at intervals of one year or less. Tubing, wires and harnesses are considered to be serviceable components only at their attachments. (*élément nécessitant de l’entretien*)
 
 
 
@@ -12720,19 +10423,19 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/81-665, S. 2.
 
 **(1)** In this section,
 
-***contactable surface*** means any surface within the head protection zone that is contactable from any direction by a head form test device, except any surface on the front of a seat back or restraining barrier 76 mm (three inches) or more below the top of the seat back or restraining barrier; (*surface de contact*) 
+***contactable surface*** means any surface within the head protection zone that is contactable from any direction by a head form test device, except any surface on the front of a seat back or restraining barrier 76 mm (three inches) or more below the top of the seat back or restraining barrier; (*surface de contact*)
 
-***head protection zones*** means the spaces in front of each school bus passenger seat that are not occupied by any sidewall, window or door structure and that, in relation to that seat and its seating reference point, are enclosed by the following planes: 
+***head protection zones*** means the spaces in front of each school bus passenger seat that are not occupied by any sidewall, window or door structure and that, in relation to that seat and its seating reference point, are enclosed by the following planes:
 - **(a)** horizontal planes 300 mm (12 inches) and 1 016 mm (40 inches) above the seating reference point,
 - **(b)** a vertical longitudinal plane tangent to the inboard (aisle side) edge of the seat,
 - **(c)** a vertical longitudinal plane 83 mm (3.25 inches) inboard of the outboard edge of the seat, and
 - **(d)** vertical transverse planes through and 760 mm (30 inches) forward of the seating reference point; (*zone de protection de la tête*)
 
-***leg protection zones*** means those parts of a school bus passenger seat back or restraining barrier that are bounded by horizontal planes 300 mm (12 inches) above and 100 mm (four inches) below the seating reference point of the school bus passenger seat immediately behind the seat back or restraining barrier; (*zone de protection des jambes*) 
+***leg protection zones*** means those parts of a school bus passenger seat back or restraining barrier that are bounded by horizontal planes 300 mm (12 inches) above and 100 mm (four inches) below the seating reference point of the school bus passenger seat immediately behind the seat back or restraining barrier; (*zone de protection des jambes*)
 
-***school bus passenger seat*** means a seat in a school bus, other than the driver’s seat or a seat that is installed to accommodate a handicapped or convalescent passenger and is oriented in a direction that is more than 45 degrees to the left or right of the longitudinal centre-line of the vehicle. (*siège pour passager d’autobus scolaire*) 
+***school bus passenger seat*** means a seat in a school bus, other than the driver’s seat or a seat that is installed to accommodate a handicapped or convalescent passenger and is oriented in a direction that is more than 45 degrees to the left or right of the longitudinal centre-line of the vehicle. (*siège pour passager d’autobus scolaire*)
 
-***W*** means the number of seating positions in a bench seat when calculated as the bench width in millimetres (inches) divided by 381 mm (15 inches) with the quotient rounded to the nearest whole number or, if the quotient is equidistant from two whole numbers, to the higher thereof. (*W*) 
+***W*** means the number of seating positions in a bench seat when calculated as the bench width in millimetres (inches) divided by 381 mm (15 inches) with the quotient rounded to the nearest whole number or, if the quotient is equidistant from two whole numbers, to the higher thereof. (*W*)
 
 
 
@@ -12947,7 +10650,7 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/80-161, S. 4
 
 
 
->  SOR/80-161, s. 4; SOR/86-4 53, s. 3; SOR/91-593, s. 1..
+> SOR/80-161, s. 4; SOR/86-4 53, s. 3; SOR/91-593, s. 1..
 
 
 ### Rear Impact Guards (Standard 223)
@@ -12962,31 +10665,31 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/80-161, S. 4
 
 ***dangerous goods*** has the same meaning as in section 2 of the Transportation of Dangerous Goods Act, 1992. (*marchandises dangereuses*) 
 
-***ground clearance*** means the vertical distance from the bottom edge of a horizontal member to the ground. (*garde au sol*) 
+***ground clearance*** means the vertical distance from the bottom edge of a horizontal member to the ground. (*garde au sol*)
 
-***guard width*** means, in respect of a rear impact guard that is installed on a trailer, the maximum horizontal guard dimension that is perpendicular to the longitudinal vertical plane passing through the longitudinal centreline of the trailer. (*largeur du dispositif de protection*) 
+***guard width*** means, in respect of a rear impact guard that is installed on a trailer, the maximum horizontal guard dimension that is perpendicular to the longitudinal vertical plane passing through the longitudinal centreline of the trailer. (*largeur du dispositif de protection*)
 
-***horizontal member*** means the horizontal structural member of a rear impact guard. (*pièce horizontale*) 
+***horizontal member*** means the horizontal structural member of a rear impact guard. (*pièce horizontale*)
 
-***hydraulic guard*** means a rear impact guard designed to use fluid properties to provide a resistance force to deformation. (*dispositif de protection hydraulique*) 
+***hydraulic guard*** means a rear impact guard designed to use fluid properties to provide a resistance force to deformation. (*dispositif de protection hydraulique*)
 
 ***low-chassis trailer*** means a trailer that has a chassis that extends behind the rearmost point of the rearmost tires and that has a lower rear surface that meets the configuration requirements of subsections (6) to (8). (*remorque à châssis surbaissé*) 
 
-***outboard*** means, in respect of a trailer, away from the trailer centreline and toward the side extremities of the trailer. (*extérieur*) 
+***outboard*** means, in respect of a trailer, away from the trailer centreline and toward the side extremities of the trailer. (*extérieur*)
 
-***pulpwood trailer*** means a trailer that is designed exclusively to carry harvested logs or pulpwood and that is constructed with a skeletal frame with no means for the attachment of a solid bed, body or container. (*remorque pour bois à pâte*) 
+***pulpwood trailer*** means a trailer that is designed exclusively to carry harvested logs or pulpwood and that is constructed with a skeletal frame with no means for the attachment of a solid bed, body or container. (*remorque pour bois à pâte*)
 
 ***rear extremity*** means the rearmost point on a trailer that is above a horizontal plane located above the ground clearance and below a horizontal plane located 1 900 mm above the ground when the trailer is configured as specified in subsection (7) and when the trailer’s cargo doors, tailgate and other permanent structures are positioned as they normally are when the trailer is in motion, with non-structural protrusions such as tail lamps, rubber bumpers, hinges and latches excluded from the determination of the rearmost point. (*extrémité arrière*) 
 
-***rear impact guard*** means a device installed on or near the rear of a trailer so that, when the trailer is struck from the rear, the device limits the distance that the striking vehicle’s front end slides under the rear end of the trailer. (*dispositif de protection arrière*) 
+***rear impact guard*** means a device installed on or near the rear of a trailer so that, when the trailer is struck from the rear, the device limits the distance that the striking vehicle’s front end slides under the rear end of the trailer. (*dispositif de protection arrière*)
 
-***rounded corners*** means the outermost ends of a rear impact guard’s horizontal member that curve upward. (*coins arrondis*) 
+***rounded corners*** means the outermost ends of a rear impact guard’s horizontal member that curve upward. (*coins arrondis*)
 
-***side extremity*** means the outermost point on a trailer’s side that is above a horizontal plane located above the ground clearance, below a horizontal plane located 1 900 mm above the ground, and between a transverse vertical plane tangent to the rear extremity of the trailer and a transverse vertical plane located 305 mm forward of that plane, with non-structural protrusions such as tail lamps, rubber bumpers, hinges and latches excluded from the determination of the outermost point. (*extrémité latérale*) 
+***side extremity*** means the outermost point on a trailer’s side that is above a horizontal plane located above the ground clearance, below a horizontal plane located 1 900 mm above the ground, and between a transverse vertical plane tangent to the rear extremity of the trailer and a transverse vertical plane located 305 mm forward of that plane, with non-structural protrusions such as tail lamps, rubber bumpers, hinges and latches excluded from the determination of the outermost point. (*extrémité latérale*)
 
 ***tanker trailer*** means a trailer that is designed exclusively to transport dangerous goods and that meets the rear impact protection requirements of National Standard of Canada CAN/CSA-B620-98, Highway Tanks and Portable Tanks for the Transportation of Dangerous Goods (August 1998), including Appendices A and B, as amended in April 1999, March 2000, July 2000, April 2001, November 2001 and May 2002, published by CSA. (*remorque-citerne*) 
 
-***wheels back trailer*** means a trailer whose rearmost axle is permanently fixed and located such that the rearmost surface of the rearmost tires of the size recommended by the trailer manufacturer for that axle is not more than 305 mm forward of the transverse vertical plane tangent to the rear extremity of the trailer. (*remorque à roues arrière reculées*) 
+***wheels back trailer*** means a trailer whose rearmost axle is permanently fixed and located such that the rearmost surface of the rearmost tires of the size recommended by the trailer manufacturer for that axle is not more than 305 mm forward of the transverse vertical plane tangent to the rear extremity of the trailer. (*remorque à roues arrière reculées*)
 
 
 
@@ -13424,109 +11127,21 @@ where
 > SOR/2003-272, s. 31..
 
 
-### Flammability
+### Flammability of Interior Materials (Standard 302)
 
 
 **302** 
 
-**(1)** Subject to subsections (4) and (5), the portion of every article described in subsection (2) that is within 13 mm (½ inch) of the occupant compartment air space, shall, when tested in the manner set out in subsection (3) in accordance with Motor Vehicle Test Method 302, Flammability, (January 9th, 1978), not burn or transmit a flame front across its surface, at a rate of more than 101.6 mm (4 inches) per minute.
+**(1)** The interior materials of every passenger car, multi-purpose passenger vehicle, three-wheeled vehicle, truck and bus shall conform to the requirements of Technical Standards Document No. 302, Flammability of Interior Materials, as amended from time to time.
 
 
 
-**(2)** For the purposes of subsection (1), the articles described in this subsection are:
+**(2)** This section expires on January 1, 2012.
 
-**(a)** seat cushions;
 
 
 
-**(b)** seat backs;
-
-
-
-**(c)** seat belts;
-
-
-
-**(d)** headlining;
-
-
-
-**(e)** convertible tops;
-
-
-
-**(f)** arm rests;
-
-
-
-**(g)** trim panels including door, front, rear and side panels;
-
-
-
-**(h)** compartment shelves;
-
-
-
-**(i)** head restraints;
-
-
-
-**(j)** floor coverings;
-
-
-
-**(k)** sun visors;
-
-
-
-**(l)** curtains;
-
-
-
-**(m)** shades;
-
-
-
-**(n)** wheel housing covers;
-
-
-
-**(o)** engine compartment covers;
-
-
-
-**(p)** mattress covers; and
-
-
-
-**(q)** any other materials that are designed to absorb energy on contact by occupants in the event of a crash, including padding and crash-deployed elements.
-
-
-
-
-
-**(3)** The portion described in subsection (1) of every article described in subsection (2) shall be tested as follows:
-
-**(a)** where the material of the portion of the article does not adhere to another material at every point of contact, it shall be tested separately; and
-
-
-
-**(b)** where the material of the portion of the article adheres to another material at every point of contact, it shall be tested as a composite with the other material.
-
-
-
-
-
-**(4)** The requirement of subsection (1) concerning transmission of a flame front shall not apply to a surface created by the cutting of a test specimen for purposes of testing pursuant to that subsection.
-
-
-
-**(5)** Where a material stops burning before it has burned for sixty seconds from the start of timing and has not burned more than 50.8 mm (2 inches) from the point where the timing was started, it shall be deemed to comply with subsection (1).
-
-
-
-
-> SOR/78-525, s. 2; SOR/79-262, s. 1(F)..
+> SOR/78-525, s. 2; SOR/79-262, s. 1(F); SOR/2007-180, s. 18..
 
 
 ### Electrolyte Spillage and Electrical Shock Protection (Standard 305)
@@ -13560,6 +11175,31 @@ where
 > SOR/2001-486, s. 2; SOR/2003-272, s. 32; SOR/2004-89, s. 4; SOR/2004-50, s. 5; SOR/2005-42, ss. 9, 10; SOR/2006-94, s. 4(E)..
 
 
+
+
+### Interior Trunk Release (Standard 401)
+
+
+**401** 
+
+**(1)** Every passenger car and three-wheeled vehicle shall conform to the requirements for passenger cars set out in Technical Standards Document No. 401, Interior Trunk Release (TSD 401), as amended from time to time.
+
+
+
+**(2)** However, vehicles manufactured before September 1, 2010, need not be equipped with an interior trunk release.
+
+
+
+**(3)** This section does not apply to vehicles equipped with a back door, as defined in section S3 of TSD 401.
+
+
+
+**(4)** This section expires on January 1, 2012.
+
+
+
+
+> SOR/2007-180, s. 19..
 
 
 ### Low-speed Vehicles (Standard 500)
@@ -13610,7 +11250,7 @@ where
 
 
 
-**(b)** a 50th percentile adult male anthropomorphic test device or an equivalent mass is located at every front outboard designated seating position but, if an equivalent mass is used, its centre of mass shall coincide, within 12 mm in the vertical dimension and 12 mm in the horizontal dimension, with a point 6 mm below the position of the H-point as determined by using the equipment and procedures specified in SAE J826 (June 1992), except that the length of the lower leg and thigh segments of the H-point machine shall be adjusted to 414 mm and 401 mm, respectively, instead of the 50th percentile values specified in Table 1 of SAE J826; and
+**(b)** a 50th percentile adult male anthropomorphic test device or an equivalent mass is located at every front outboard designated seating position but, if an equivalent mass is used, its centre of mass shall coincide, within 12 mm in the vertical dimension and 12 mm in the horizontal dimension, with a point 6 mm below the position of the H-point as determined by using the equipment and procedures specified in SAE Standard J826, Devices for Use in Defining and Measuring Vehicle Seating Accommodation (July 1995), except that the length of the lower leg and thigh segments of the H-point machine shall be adjusted to 414 mm and 401 mm, respectively, instead of the 50th percentile values specified in Table 1 of that standard; and
 
 
 
@@ -13665,7 +11305,7 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/2003-272, S. 33
 
 
 
->  SOR/2003-272, s. 33..
+> SOR/2003-272, s. 33; SOR/2007-180, s. 20..
 
 
 ### Axles
@@ -14043,11 +11683,11 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/2003-272, S. 33
 
 **(1)** The definitions in this subsection apply in this section.
 
-***bulkhead*** means a fixed or removable structure installed across the width of a trailer to restrict the movement of cargo during transport. (*cloison*) 
+***bulkhead*** means a fixed or removable structure installed across the width of a trailer to restrict the movement of cargo during transport. (*cloison*)
 
-***cargo anchoring device*** means a fitting or attachment point on a trailer, other than a bulkhead or rub rail, to which a tie-down assembly is attached. (*dispositif d’ancrage des chargements*) 
+***cargo anchoring device*** means a fitting or attachment point on a trailer, other than a bulkhead or rub rail, to which a tie-down assembly is attached. (*dispositif d’ancrage des chargements*)
 
-***rub rail*** means a protector strip extending horizontally along the sides of a trailer intended to provide protection from scuffing. (*bourrelet de protection*) 
+***rub rail*** means a protector strip extending horizontally along the sides of a trailer intended to provide protection from scuffing. (*bourrelet de protection*)
 
 
 
