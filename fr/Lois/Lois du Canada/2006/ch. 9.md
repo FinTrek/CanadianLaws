@@ -766,7 +766,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 #### Dispositions de coordination
 
 
-**117** [Modifications]
+**117** 
+
+- **(1)** [Abrogé, 2006, ch. 9, par. 117(2)]
+
+- **(2)** [Modification]
 
 
 
@@ -1343,7 +1347,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - <sup><a href='#fn_Ind4084_hq_1747'>[*]</a></sup>**(1)** Les articles 3.01 et 3.1 de la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md), édictés par l’article 142 de la présente loi, l’article 3.01 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md), édicté par l’article 182 de la présente loi, ainsi que le paragraphe 141(2), les articles 143 à 149, 154 et 157 à 160, le paragraphe 163(1), les articles 164 à 179, le paragraphe 181(2) et les articles 183, 184 et 186 à 193 de la présente loi, et toute disposition édictée par l’un ou l’autre de ceux-ci entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='fn_Ind4084_hq_1747'><sup>*</sup></a>: [Note : Article 3.1 de la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md), édicté par l’article 142, paragraphe 141(2), articles 143, 147, 148, 159, paragraphe 163(1), article 164, paragraphe 181(2) et articles 188 et 190 non en vigueur; articles 173 à 178 en vigueur le 10 février 2007, *voir* TR/2007-17; article 3.01 de la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md), édicté par l’article 142, article 3.01 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md), édicté par l’article 182, articles 149, 154, 157, 158, 160, 172, 172.1, 179, 184, 186, 187 et 189 en vigueur le 1<sup>er</sup> mars 2007, *voir* TR/2007-19; articles 144 à 146, 165 à 171, 183 et 191 à 193 en vigueur le 1<sup>er</sup> avril 2007, *voir* TR/2007-20; article 172.01 en vigueur le 1<sup>er</sup> avril 2007, *voir* TR/2007-38; les autres dispositions en vigueur à la sanction le 12 décembre 2006.]<br />
+<a name='fn_Ind4084_hq_1747'><sup>*</sup></a>: [Note : Articles 173 à 178 en vigueur le 10 février 2007, *voir* TR/2007-17; article 3.01 de la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md), édicté par l’article 142, article 3.01 de la [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md), édicté par l’article 182, articles 149, 154, 157, 158, 160, 172, 172.1, 179, 184, 186, 187 et 189 en vigueur le 1<sup>er</sup> mars 2007, *voir* TR/2007-19; articles 144 à 146, 165 à 171, 183 et 191 à 193 en vigueur le 1<sup>er</sup> avril 2007, *voir* TR/2007-20; article 172.01 en vigueur le 1<sup>er</sup> avril 2007, *voir* TR/2007-38; article 3.1 de la [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md), édicté par l’article 142, paragraphe 141(2), articles 143, 147, 148, 159, paragraphe 163(1), article 164, paragraphe 181(2) et articles 188 et 190 en vigueur le 1<sup>er</sup> septembre 2007, *voir* TR/2007-39; les autres dispositions en vigueur à la sanction le 12 décembre 2006.]<br />
 
 **Office d’investissement du régime de pensions du Canada**
 
