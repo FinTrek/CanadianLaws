@@ -6697,7 +6697,7 @@ Système d’immobilisation
 
 **(12)** Sous réserve du paragraphe (14), l’étiquette de conformité exigée par le présent règlement doit indiquer, après chaque PNBE :
 
-**a)** les dimensions des pneus qui conviennent à ce PNBE;
+**a)** les dimensions des pneus qui conviennent à ce PNBE, suivies de la limite de charge des pneus si celle-ci est indiquée sur leurs flancs en conformité avec le [Règlement de 1995 sur la sécurité des pneus de véhicule automobile](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/95/148.md);
 
 
 
