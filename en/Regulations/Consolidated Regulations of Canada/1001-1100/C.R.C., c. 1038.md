@@ -6695,7 +6695,7 @@ Immobilization System
 
 **(12)** Subject to subsection (14), the compliance label required by these Regulations shall display, after each GAWR,
 
-**(a)** the size designation of tires appropriate for that GAWR;
+**(a)** the size designation of tires appropriate for that GAWR, followed by the load range of the tires if it is marked on their sidewalls in accordance with the [Motor Vehicle Tire Safety Regulations, 1995](/en/Regulations/Statutory%20Orders%20and%20Regulations/95/148.md);
 
 
 
