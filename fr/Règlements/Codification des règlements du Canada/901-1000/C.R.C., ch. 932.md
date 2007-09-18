@@ -89,7 +89,7 @@ Autorités habilitantes :
 
 - **(5)** L’extrémité filetée de chaque boulon d’un produit est protégée au moyen d’écrous borgnes ou d’autres dispositifs convenables ou est plaçée de façon à être inaccessible par l’occupant.
 
-- **(6)** Les fibres textiles ou la matière plastique du produit doivent donner lieu, au cours de l’essai visé à la Standard Method of Test for Flammability of Clothing Textiles, ASTM D 1230-61, norme de l’American Society for Testing and Materials, à un temps de propagation de la flamme d’au moins sept secondes.
+- **(6)** Aucune partie du produit qui est composé de fibres textiles ou d’autres matières souples ne doit, lorsqu’elle est mise à l’essai conformément à la norme CAN/CGSB 4.2 NO. 27.5-94 de l’Office des normes générales du Canada intitulée Méthodes pour épreuves textiles — Essai de résistance à l’inflammation sous un angle de 45° — Application de la flamme pendant une seconde, avec ses modifications successives, avoir un temps de propagation de la flamme de sept secondes ou moins.
 
 - **(7)** Les trous des parties en métal, en bois, en matières plastiques ou de nature semblable et accessibles à son occupant ont un diamètre inférieur à 3,0 mm (0,12 pouce) ou supérieur à 10,0 mm (0,39 pouce).
 
@@ -114,7 +114,7 @@ Autorités habilitantes :
 <a name='footnote1star_f'><sup>*</sup></a>: Voir l’article 9 de la partie I de l’annexe de la Loi (enduits décoratifs ou protecteurs).<br />
 
 - **(17)** Tous les points de support d’un produit demeure en contact avec le plan incliné quand ils sont soumis à l’essai visé à l’annexe V.
->  DORS/2004-65, art. 8.
+>  DORS/2004-65, art. 8; DORS/2007-206, art. 1.
 
 
 
