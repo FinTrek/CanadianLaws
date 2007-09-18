@@ -89,7 +89,7 @@ Enabling authorities:
 
 - **(5)** The threaded end of every bolt of a product shall be protected by an acorn nut or other suitable device or so placed that contact by the occupant with the threaded end cannot occur.
 
-- **(6)** Every component of a product made of a textile material or plastic film shall, when tested in accordance with the method prescribed in the Standard Method of Test for Flammability of Clothing Textiles ASTM D 1230-61, being a standard of the American Society for Testing and Materials, have a time of flame spread of not less than seven seconds.
+- **(6)** No component of a product that is made of a textile or other pliable material shall, when tested in accordance with the Canadian General Standards Board standard CAN/CGSB 4.2 NO. 27.5‑94 entitled Textile Test Methods – Flame Resistance – 45° Angle Test – One Second Flame Impingement, as amended from time to time, have a time of flame spread of 7 seconds or less.
 
 - **(7)** Any open hole drilled in a metal, plastic, wood component or component of similar material of a product that is exposed to the occupant shall be less than 3.0 mm (0.12 inch) or more than 10.0 mm (0.39 inch) in diameter.
 
@@ -114,7 +114,7 @@ Enabling authorities:
 <a name='footnote1star_e'><sup>*</sup></a>: Your attention is directed to item 9 of Part I of the Schedule to the Act (decorative or protective coatings).<br />
 
 - **(17)** When subjected to the test described in Schedule V, all support points of a product shall remain in contact with the inclined plane.
-> SOR/2004-65, s. 8.
+> SOR/2004-65, s. 8; SOR/2007-206, s. 1.
 
 
 
