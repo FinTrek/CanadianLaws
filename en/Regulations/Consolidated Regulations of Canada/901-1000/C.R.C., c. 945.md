@@ -9,7 +9,7 @@ Enabling authorities:
 
 ----------
 
-[Note: Application provisions are not included in the consolidated text; see relevant amending regulations.]
+[Note: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.]
 
 
 
@@ -8824,22 +8824,22 @@ where
 
 - **(1)** The following definitions apply in this section.
 
-***income*** of a taxpayer for a taxation year from mining operations in a province means the income, for the taxation year, that is derived from mining operations in the province as computed under the laws of the province that impose an eligible tax described in subsection (3). (*revenu*)
+***income*** of a taxpayer for a taxation year from mining operations in a province means the income, for the taxation year, that is derived from mining operations in the province as computed under the laws of the province that impose an eligible tax described in subsection (3). (*revenu*)
 
-***mine*** includes any work or undertaking in which a mineral ore is extracted or produced and includes a quarry. (*mine*)
+***mine*** includes any work or undertaking in which a mineral ore is extracted or produced and includes a quarry. (*mine*)
 
-***mineral ore*** includes an unprocessed mineral or mineral-bearing substance. (*minerai*)
+***mineral ore*** includes an unprocessed mineral or mineral-bearing substance. (*minerai*)
 
-***mining operations*** means
+***mining operations*** means
 - **(a)** the extraction or production of mineral ore from or in a mine;
 - **(b)** the transportation of mineral ore to the point of egress from the mine; and
 - **(c)** the processing of
 	- **(i)** mineral ore (other than iron ore) to the prime metal stage or its equivalent, and
 	- **(ii)** iron ore to a stage that is not beyond the pellet stage or its equivalent. (*exploitation minière*)
 
-***non-Crown royalty*** means a royalty contingent on production of a mine or computed by reference to the amount or value of production from mining operations in a province but does not include a royalty that is payable to the Crown in right of Canada or a province. (*redevance non gouvernementale*)
+***non-Crown royalty*** means a royalty contingent on production of a mine or computed by reference to the amount or value of production from mining operations in a province but does not include a royalty that is payable to the Crown in right of Canada or a province. (*redevance non gouvernementale*)
 
-***processing*** includes all forms of beneficiation, smelting and refining. (*transformation*)
+***processing*** includes all forms of beneficiation, smelting and refining. (*transformation*)
 
 - **(2)** For the purpose of paragraph 20(1)(v) of the Act, the amount allowed in respect of taxes on income from mining operations of a taxpayer for a taxation year is the total of all amounts each of which is an eligible tax paid or payable by the taxpayer
 	- **(a)** on the income of the taxpayer for the taxation year from mining operations; or
@@ -8855,9 +8855,9 @@ where
 			- **(C)** a municipality in the province, in lieu of taxes on property or on any interest, or for civil law any right, in property (other than in lieu of taxes on residential property or on any interest, or for civil law any right, in residential property); and
 	- **(b)** a tax, on an amount received or receivable by a person as a non-Crown royalty, that is
 		- **(i)** levied under a law of a province,
-		- **(ii)** imposed only on persons who hold a non-Crown royalty on mining operations in the province, and
+		- **(ii)** imposed specifically on persons who hold a non-crown royalty on mining operations in the province, and
 		- **(iii)** paid or payable to the province or to an agent of Her Majesty in right of the province.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-377, s. 12; SOR/94-686, s. 23(F); SOR/2006-207, s. 1.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-377, s. 12; SOR/94-686, s. 23(F); SOR/2006-207, s. 1; SOR/2007-212, s. 1.
 
 
 
@@ -9552,7 +9552,9 @@ and a credit union shall be deemed to have granted a benefit or privilege to a p
 			- **(A)** under the [National Housing Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-11.md), or
 			- **(B)** by a corporation that offers its services to the public in Canada as an insurer of mortgages or hypothecary claims and that is approved as a private insurer of mortgages or hypothecary claims by the Superintendent of Financial Institutions under subsection 6(1) of the [Office of the Superintendent of Financial Institutions Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2018%20(3rd%20Supp.),%20Part%20I.md);
 	- **(j.2)** a certificate evidencing an undivided interest, or for civil law an undivided right, in one or more properties, where
-		- **(i)** all or substantially all of the fair market value of the certificate is attributable to property that is, or is incidental to, a debt obligation secured by a mortgage, charge, hypothec or similar instrument in respect of real or immovable property situated in Canada,
+		- **(i)** all or substantially all of the fair market value of the certificate is attributable to property that is, or is incidental to, a debt obligation secured by
+			- **(A)** a mortgage, charge, hypothec or similar instrument in respect of real or immovable property situated in Canada, or
+			- **(B)** property described in paragraph (a) or (b) of the definition ***qualified investment*** in section 204 of the Act that was substituted for the security referred to in clause (A) under the terms of the debt obligation,
 		- **(ii)** the certificate has, at the time of its acquisition by the plan trust, an investment grade rating with a bond rating agency that rates debt in the ordinary course of its business, and
 		- **(iii)** the certificate is issued as part of an issue of certificates by the issuer for a total amount of at least $25 million;
 	- **(k)** an investment, other than a qualified investment described in paragraphs (a) to (j), that
@@ -9684,7 +9686,7 @@ the issuer of the share or a person related to that issuer,
 		- **(i)** on account of, or in lieu or in satisfaction of, payment for the services to or for the issuer or the person related to the issuer, or
 		- **(ii)** in respect of the acquisition of the goods from, or the services provided by, the issuer or the person related to the issuer,
 the share shall, immediately before the amount is received, cease to be and shall not thereafter be a qualified investment for the trust.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-725, s. 4; SOR/83-819, s. 1; SOR/85-202, s. 1; SOR/86-390, s. 2; SOR/86-1092, s. 12(F); SOR/88-165, s. 24(F); SOR/92-660, s. 2; SOR/94-471, s. 1; SOR/94-472, s. 1; SOR/94-686, ss. 26(F), 72(F), 74(F), 75(F), 78(F), 79(F); SOR/95-513, s. 1; SOR/96-450, s. 1; SOR/98-250, s. 1; SOR/99-9, s. 1; SOR/99-81, s. 1; SOR/99-102, s. 1; SOR/2001-216, ss. 6, 10(F),11(F); SOR/2001-289, s. 8(E); SOR/2005-264, s. 6; 2007, c. 29, s. 32.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-725, s. 4; SOR/83-819, s. 1; SOR/85-202, s. 1; SOR/86-390, s. 2; SOR/86-1092, s. 12(F); SOR/88-165, s. 24(F); SOR/92-660, s. 2; SOR/94-471, s. 1; SOR/94-472, s. 1; SOR/94-686, ss. 26(F), 72(F), 74(F), 75(F), 78(F), 79(F); SOR/95-513, s. 1; SOR/96-450, s. 1; SOR/98-250, s. 1; SOR/99-9, s. 1; SOR/99-81, s. 1; SOR/99-102, s. 1; SOR/2001-216, ss. 6, 10(F),11(F); SOR/2001-289, s. 8(E); SOR/2005-264, s. 6; SOR/2007-212, s. 2; 2007, c. 29, s. 32.
 
 
 
@@ -10512,10 +10514,11 @@ at the time the debt or obligation was settled or extinguished.
 - **(f)** power-operated guided chair installation, for an individual, that is designed to be used solely in a stairway;
 - **(g)** mechanical device or equipment designed to be used to assist an individual to enter or leave a bathtub or shower or to get on or off a toilet;
 - **(h)** hospital bed including such attachments thereto as may have been included in a prescription therefor;
-- **(i)** device that is designed to assist an individual in walking where the individual has a mobility impairment;
+- **(i)** device that is exclusively designed to assist an individual in walking where the individual has a mobility impairment;
 - **(j)** external breast prosthesis that is required because of a mastectomy;
 - **(k)** teletypewriter or similar device, including a telephone ringing indicator, that enables a deaf or mute individual to make and receive telephone calls;
 - **(l)** optical scanner or similar device designed to be used by a blind individual to enable him to read print;
+- **(l.1)** device or software designed to be used by a blind individual, or an individual with a severe learning disability, to enable the individual to read print;
 - **(m)** power-operated lift or transportation equipment designed exclusively for use by, or for, a disabled individual to allow the individual access to different areas of a building or to assist the individual to gain access to a vehicle or to place the individual’s wheelchair in or on a vehicle;
 - **(n)** device designed exclusively to enable an individual with a mobility impairment to operate a vehicle;
 - **(o)** device or equipment, including a synthetic speech system, braille printer and large print-on-screen device, designed exclusively to be used by a blind individual in the operation of a computer;
@@ -10526,9 +10529,12 @@ at the time the debt or obligation was settled or extinguished.
 - **(s)** infusion pump, including disposable peripherals, used in the treatment of diabetes or a device designed to enable a diabetic to measure the diabetic’s blood sugar level;
 - **(t)** electronic or computerized environmental control system designed exclusively for the use of an individual with a severe and prolonged mobility restriction;
 - **(u)** extremity pump or elastic support hose designed exclusively to relieve swelling caused by chronic lymphedema;
-- **(v)** inductive coupling osteogenesis stimulator for treating non-union of fractures or aiding in bone fusion; and
-- **(w)** talking textbook prescribed by a medical practitioner for use by an individual with a perceptual disability, in connection with the individual’s enrolment at an educational institution in Canada.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/80-948, s. 1; SOR/85-696, s. 17; SOR/87-716, s. 1; SOR/90-809, s. 1; SOR/94-189, s. 1; SOR/99-387, s. 1; SOR/2001-4, s. 1.
+- **(v)** inductive coupling osteogenesis stimulator for treating non-union of fractures or aiding in bone fusion; 
+- **(w)** talking textbook for use by an individual with a perceptual disability in connection with the individual’s enrolment at an educational institution in Canada, or a designated educational institution;
+- **(x)** Bliss symbol board, or similar device, designed to be used to help an individual who has a speech impairment communicate by selecting the symbols or spelling out words;
+- **(y)** Braille note-taker designed to be used by a blind individual to allow them to take notes (that can be read back to them or printed or displayed in Braille) with the help of a keyboard; and
+- **(z)** page turner, designed to be used by an individual who has a severe and prolonged impairment that markedly restricts their ability to use their arms or hands to turn the pages of a book or other bound document.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/80-948, s. 1; SOR/85-696, s. 17; SOR/87-716, s. 1; SOR/90-809, s. 1; SOR/94-189, s. 1; SOR/99-387, s. 1; SOR/2001-4, s. 1; SOR/2007-212, s. 3.
 
 
 
@@ -11705,21 +11711,19 @@ otherwise than as a consequence of the payment of a dividend paid by a subsidiar
 - **(2)** For the purposes of subsection (1),
 	- **(a)** the dividend entitlement of a share of the capital stock of a corporation shall be deemed not to be limited to a maximum amount or fixed at a minimum amount where it may reasonably be considered that all or substantially all of the dividend entitlement is determinable by reference to the dividend entitlement of another share of the capital stock of the corporation that meets the requirements of subparagraph (1)(a)(i);
 	- **(b)** the liquidation entitlement of a share of the capital stock of a corporation shall be deemed not to be limited to a maximum amount or fixed at a minimum amount where it may reasonably be considered that all or substantially all of the liquidation entitlement is determinable by reference to the liquidation entitlement of another share of the capital stock of the corporation that meets the requirements of subparagraph (1)(a)(ii); and
-	- **(c)** the determination of whether a share of the capital stock of a corporation is a prescribed share shall be made without reference to a right or obligation to redeem, acquire or cancel the share or to cause the share to be redeemed, acquired or cancelled where
-		- **(i)** the share was issued or sold pursuant to an employee share purchase agreement (in this paragraph referred to as “the agreement”) to an employee (in this paragraph referred to as “the holder”) of the corporation or of another corporation with which the corporation was not dealing at arm’s length,
-		- **(ii)** the holder was dealing at arm’s length with each corporation referred to in subparagraph (i) at the time the share was issued or sold, and
-		- **(iii)** having regard to all the circumstances, including the terms of the agreement, it can reasonably be considered that
-			- **(A)** the amount payable on the redemption, acquisition or cancellation (in this clause and in clause (B) referred to as the “acquisition”) of the share will not exceed
-				- **(I)** the adjusted cost base to the holder of the share immediately before the acquisition, where the acquisition was provided for in the agreement and the principal purpose for its provision was to protect the holder against any loss in respect of the share, or
-				- **(II)** the fair market value of the share immediately before the acquisition, where the acquisition was provided for in the agreement and the principal purpose for its provision was to provide the holder with a market for the share, and
-			- **(B)** no portion of the amount payable on the acquisition of the share is directly determinable by reference to the profits of the corporation, or of another corporation with which the corporation does not deal at arm’s length, for all or any part of the period during which the holder owned the share or had a right to acquire the share, unless the reference to the profits of the corporation or the other corporation is only for the purpose of determining the fair market value of the share pursuant to a formula set out in the agreement.
+	- **(c)** the determination of whether a share of the capital stock of a particular corporation is a prescribed share shall be made without reference to a right or obligation to redeem, acquire or cancel the share, or to cause the share to be redeemed, acquired or cancelled, where
+		- **(i)** the person (in this paragraph referred to as the “holder”) to whom the share is sold or issued is, at the time the share is sold or issued, dealing at arm’s length with the particular corporation and with each corporation with which the particular corporation is not dealing at arm’s length,
+		- **(ii)** the right or obligation is provided for in the terms or conditions of the share or in an agreement in respect of the share or its issue and, having regard to all the circumstances, it can reasonably be considered that
+			- **(A)** the principal purpose of providing for the right or obligation is to protect the holder against any loss in respect of the share, and the amount payable on the redemption, acquisition or cancellation (in this subparagraph and in subparagraph (iii) referred to as the “acquisition”) of the share will not exceed the adjusted cost base of the share to the holder immediately before the acquisition, or
+			- **(B)** the principal purpose of providing for the right or obligation is to provide the holder with a market for the share, and the amount payable on the acquisition of the share will not exceed the fair market value of the share immediately before the acquisition, and
+		- **(iii)** having regard to all the circumstances, it can reasonably be considered that no portion of the amount payable on the acquisition of the share is directly determinable by reference to the profits of the particular corporation, or of another corporation with which the particular corporation does not deal at arm’s length, for all or any part of the period during which the holder owns the share or has a right to acquire the share, unless the reference to the profits of the particular corporation or the other corporation is only for the purpose of determining the fair market value of the share pursuant to a formula set out in the terms or conditions of the share or the agreement in respect of the share or its issue, as the case may be.
 
 - **(3)** For the purposes of subsection (1), ***specified person***, in relation to a corporation, means
 	- **(a)** any person or partnership with whom the corporation does not deal at arm’s length otherwise than because of a right referred to in paragraph 251(5)(b) of the Act that arises as a result of an offer by the person or partnership to acquire all or substantially all of the shares of the capital stock of the corporation, or
 	- **(b)** any partnership or trust of which the corporation (or a person or partnership with whom the corporation does not deal at arm’s length) is a member or beneficiary, respectively.
 
 - **(4)** For the purposes of subsection (3), the Act shall be read without reference to subsection 256(9) of the Act.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/86-1136, s. 8; SOR/94-315, s. 2; SOR/94-686, ss. 78(F), 79(F); SOR/97-409, s. 1; SOR/2003-328, s. 4.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/86-1136, s. 8; SOR/94-315, s. 2; SOR/94-686, ss. 78(F), 79(F); SOR/97-409, s. 1; SOR/2003-328, s. 4; SOR/2007-212, s. 4.
 
 
 
@@ -12601,11 +12605,16 @@ and the purpose of the corporation is to provide loans, loan guarantees, bridge 
 	- **(i)** in Manitoba, the Rural Municipalities of Albert, Alonsa, Archie, Argyle, Armstrong, Arthur, Bifrost, Birtle, Blanshard, Brenda, Cameron, Clanwilliam, Coldwell, Cornwallis, Daly, Dauphin, Edward, Ellice, Elton, Eriksdale, Ethelbert, Fisher, Gilbert Plains, Gimli, Glenella, Glenwood, Grahamdale, Grandview, Hamiota, Harrison, Hillsburg, Kelsey, Lakeview, Langford, Lansdowne, Lawrence, Louise, McCreary, Miniota, Minitonas, Minto, Morton, Mossey River, Mountain, North Cypress, Oakland, Ochre River, Odanah, Park, Pipestone, Riverside, Roblin, Rockwood, Rosedale, Rossburn, Russell, Saskatchewan, Shell River, Shellmouth-Boulton, Shoal Lake, Sifton, Siglunes, Silver Creek, South Cypress, St. Laurent, Ste. Rose, Strathclair, Strathcona, Swan River, Turtle Mountain, Wallace, Westbourne, Whitehead, Whitewater, Winchester, Woodlands and Woodworth, the town of Grand Rapids and the Manitoba Census Consolidated Subdivision no. 19 (unorganized), as that subdivision was developed by Statistics Canada for the 2001 Census,
 	- **(ii)** in British Columbia, the Regional Districts of Bulkley-Nechako, Cariboo, Central Kootenay, Central Okanagan, Columbia-Shuswap, East Kootenay, Fort Nelson-Liard, Fraser-Fort George, Kootenay Boundary, North Okanagan, Okanagan-Similkameen, Peace River, Spallumcheen, Squamish-Lillooet and Thompson-Nicola,
 	- **(iii)** in Saskatchewan, the Rural Municipalities of Aberdeen, Abernethy, Antelope Park, Antler, Arborfield, Argyle, Barrier Valley, Battle River, Bayne, Beaver River, Benson, Big Quill, Big River, Biggar, Birch Hills, Bjorkdale, Blaine Lake, Blucher, Britannia, Brock, Brokenshell, Browning, Buchanan, Buckland, Buffalo, Calder, Cana, Canaan, Canwood, Chesterfield, Churchbridge, Clayton, Clinworth, Coalfields, Colonsay, Connaught, Corman Park, Cote, Coteau, Coulee, Cupar, Cut Knife, Cymri, Deer Forks, Douglas, Duck Lake, Dufferin, Dundurn, Eagle Creek, Edenwold, Elcapo, Eldon, Elfros, Emerald, Enniskillen, Excelsior, Fertile Belt, Fertile Valley, Fish Creek, Flett's Springs, Foam Lake, Frenchman Butte, Garden River, Garry, Glenside, Good Lake, Grandview, Grant, Grayson, Great Bend, Griffin, Happyland, Harris, Hazel Dell, Hazelwood, Hillsdale, Hoodoo, Hudson Bay, Humboldt, Insinger, Invergordon, Invermay, Ituna Bon Accord, Kellross, Kelvington, Keys, Kindersley, King George, Kingsley, Kinistino, Kutawa, Lacadena, Laird, Lake Lenore, Lakeland, Lakeside, Lakeview, Langenburg, Last Mountain Valley, Leask, Leroy, Lipton, Livingston, Longlaketon, Loon Lake, Lumsden, Marriott, Martin, Maryfield, Mayfield, McKillop, McLeod, Meadow Lake, Medstead, Meeting Lake, Meota, Mervin, Milden, Milton, Miry Creek, Monet, Montrose, Moose Creek, Moose Mountain, Moose Range, Moosomin, Morse, Mount Hope, Mount Pleasant, Mountain View, Newcombe, Nipawin, North Battleford, North Qu'appelle, Oakdale, Orkney, Paddockwood, Parkdale, Paynton, Pense, Perdue, Pittville, Pleasant Valley, Pleasantdale, Ponass Lake, Porcupine, Prairie Rose, Prairiedale, Preeceville, Prince Albert, Reciprocity, Redberry, Redburn, Reford, Riverside, Rocanville, Rosemount, Rosthern, Round Hill, Rudy, Saltcoats, Sarnia, Saskatchewan Landing, Sasman, Shellbrook, Sherwood, Silverwood, Sliding Hills, Snipe Lake, Spalding, Spiritwood, Spy Hill, St. Andrews, St. Louis, St. Peter, St. Philips, Stanley, Star City, Storthoaks, Swift Current, Tecumseh, Three Lakes, Tisdale, Torch River, Touchwood, Tullymet, Turtle River, Usborne, Vanscoy, Victory, Viscount, Wallace, Walpole, Wawken, Webb, Weyburn, Willow Creek, Willowdale, Winslow and Wolverine, and
-	- **(iv)** in Alberta, the Counties of Athabasca, Barrhead, Birch Hills, Brazeau, Cardston, Clearwater, Grande Prairie, Kneehill, Lac Ste. Anne, Lacombe, Lakeland, Leduc, Mountain View, Northern Sunrise, Parkland, Ponoka, Red Deer, Saddle Hills, Starland, Thorhild, Wetaskiwin, Woodlands and Yellowhead, the improvement districts of Banff, Jasper Park, Kananaskis, Waterton and Wilmore Wilderness, the municipal districts of Acadia, Big Lakes, Bighorn, Bonnyville, Clear Hills, Fairview, Greenview, MacKenzie, Northern Lights, Peace, Pincher Creek, Ranchland, Smoky River, Spirit River and Willow Creek, the municipalities of Crowsnest Pass and Jasper, and special areas 3 and 4; and
+	- **(iv)** in Alberta, the Counties of Athabasca, Barrhead, Birch Hills, Brazeau, Cardston, Clearwater, Grande Prairie, Kneehill, Lac Ste. Anne, Lacombe, Lakeland, Leduc, Mountain View, Northern Sunrise, Parkland, Ponoka, Red Deer, Saddle Hills, Starland, Thorhild, Wetaskiwin, Woodlands and Yellowhead, the improvement districts of Banff, Jasper Park, Kananaskis, Waterton and Wilmore Wilderness, the municipal districts of Acadia, Big Lakes, Bighorn, Bonnyville, Clear Hills, Fairview, Greenview, MacKenzie, Northern Lights, Peace, Pincher Creek, Ranchland, Smoky River, Spirit River and Willow Creek, the municipalities of Crowsnest Pass and Jasper, and special areas 3 and 4;
 - **(i)** in the 2004 calendar year are
 	- **(i)** in British Columbia, the Regional District of Fort Nelson-Liard, and
-	- **(ii)** in Alberta, the Counties of Beaver, Camrose, Flagstaff, Paintearth, Starland and Stettler, the Municipal Districts of Acadia, Clear Hills, Fairview, Mackenzie and Northern Lights, and Special Areas 2, 3 and 4.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/91-195, s. 1; SOR/92-732, s. 1; SOR/93-300, s. 1; SOR/99-240, s. 1; SOR/2001-3, s. 1; SOR/2001-288, s. 1; SOR/2002-312, s. 1; SOR/2004-45, s. 1; SOR/2004-260, s. 1; SOR/2005-292, s. 1.
+	- **(ii)** in Alberta, the Counties of Beaver, Camrose, Flagstaff, Paintearth, Starland and Stettler, the Municipal Districts of Acadia, Clear Hills, Fairview, Mackenzie and Northern Lights, and Special Areas 2, 3 and 4; and
+- **(j)** the 2006 calendar year are
+	- **(i)** in Ontario, the Territorial Districts of Algoma, Kenora, Manitoulin, Rainy River and Thunder Bay,
+	- **(ii)** in British Columbia, the Regional Districts of Bulkley-Nechako, Cariboo, Fraser-Fort George, Kitimat-Stikine and Peace River,
+	- **(iii)** in Saskatchewan, the Rural Municipalities of Arlington, Auvergne, Bengough, Big Stick, Bone Creek, Carmichael, Clinworth, Frontier, Glen McPherson, Grassy Creek, Gull Lake, Happy Valley, Hart Butte, Lac Pelletier, Lake Alma, Laurier, Lone Tree, Mankota, Maple Creek, Miry Creek, Old Post, Piapot, Pittville, Poplar Valley, Reno, Surprise Valley, The Gap, Val Marie, Waverley, Webb, Whiska Creek, White Valley, Willow Bunch and Wise Creek, and
+	- **(iv)** in Alberta, the Counties of Clear Hills, Grande Prairie and Saddle Hills and the Municipal Districts of Greenview and Northern Lights.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/91-195, s. 1; SOR/92-732, s. 1; SOR/93-300, s. 1; SOR/99-240, s. 1; SOR/2001-3, s. 1; SOR/2001-288, s. 1; SOR/2002-312, s. 1; SOR/2004-45, s. 1; SOR/2004-260, s. 1; SOR/2005-292, s. 1; SOR/2007-213, s. 1.
 
 
 
@@ -15122,7 +15131,7 @@ the following rules apply:
 #### Member Contributions for Unfunded Liability
 
 
-- **(6.1)** For the purposes of the conditions in this Part, a contribution made by a member of a pension plan in respect of a defined benefit provision of the plan is deemed to be a current service contribution made by the member in respect of the member’s benefits under the provision if
+- **(6.1)** For the purposes of the conditions in this Part (other than subparagraph 8510(9)(b)(i)), a contribution made by a member of a pension plan in respect of a defined benefit provision of the plan is deemed to be a current service contribution made by the member in respect of the member’s benefits under the provision if
 	- **(a)** the contribution cannot, but for this subsection, reasonably be considered to be made in respect of the member’s benefits under the provision;
 	- **(b)** the contribution is determined by reference to the actuarial liabilities under the provision in respect of periods before the time of the contribution; and
 	- **(c)** the contribution is made pursuant to an arrangement
@@ -15145,7 +15154,7 @@ the following rules apply:
 	- **(d)** if the individual had previously terminated from the provision and the conditions in subsection 8304.1(14) were satisfied with respect to the termination, it is reasonable to consider that all of the ancillary benefits are in respect of periods before 1990, and
 	- **(e)** the Minister has approved the application of this subsection in respect of the ancillary benefits,
 for the purpose of determining whether the ancillary benefits are permissible under this Part, the individual is considered to have an entitlement under the provision to the commuted benefits.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 9; SOR/96-311, s. 14; SOR/99-9, s. 20; SOR/2001-188, s. 9; SOR/2003-328, s. 8; SOR/2005-264, s. 25.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 9; SOR/96-311, s. 14; SOR/99-9, s. 20; SOR/2001-188, s. 9; SOR/2003-328, s. 8; SOR/2005-264, s. 25; SOR/2007-212, s. 5.
 
 
 
@@ -15189,8 +15198,9 @@ and, for the purposes of this paragraph,
 	- **(iv)** a return of all or a portion of the contributions made by a member of the plan under a defined benefit provision of the plan, where the return of contributions is pursuant to an amendment to the plan that also reduces the future contributions that would otherwise be required to be made under the provision by members,
 	- **(v)** a payment of interest (computed at a rate not exceeding a reasonable rate) in respect of contributions that are returned as described in subparagraph (iv),
 	- **(vi)** a payment in full or partial satisfaction of the interests of a person in an actuarial surplus that relates to a defined benefit provision of the plan,
-	- **(vii)** a payment to an employer of property held in connection with a money purchase provision of the plan; or
-	- **(viii)** where the Minister has, under subsection 8506(2.1), waived the application of the condition in paragraph 8506(2)(b.1) in respect of a money purchase provision of the plan, a payment under the provision of an amount acceptable to the Minister;
+	- **(vii)** a payment to an employer of property held in connection with a money purchase provision of the plan, 
+	- **(viii)** where the Minister has, under subsection 8506(2.1), waived the application of the condition in paragraph 8506(2)(b.1) in respect of a money purchase provision of the plan, a payment under the provision of an amount acceptable to the Minister, or
+	- **(ix)** a payment, other than a payment described in subparagraph (i), with respect to a member of a single amount that the plan is required to make because of the [Pension Benefits Standards Act, 1985](/en/Acts/Statutes%20of%20Canada/1985/c.%2032%20(2nd%20Supp.).md) or a similar law of a province, where the single amount is not transferred directly to another registered pension plan, a registered retirement savings plan or a registered retirement income fund;
 
 #### Payment of Pension
 
@@ -15245,7 +15255,7 @@ or where
 #### Participants in GSRAs
 
 - **(m)** no individual who, at any time after 1993, is entitled, either absolutely or contingently, to benefits under the plan because of employment with an employer with whom the individual is connected is entitled at that time, either absolutely or contingently, to benefits under a government-sponsored retirement arrangement (as defined in subsection 8308.4(1)).
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/94-686, s. 42(F); SOR/95-64, s. 10; SOR/96-311, s. 15; SOR/99-9, s. 21; SOR/2001-188, s. 10; SOR/2003-328, s. 9; SOR/2005-264, s. 26; 2007, c. 29, s. 34.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/94-686, s. 42(F); SOR/95-64, s. 10; SOR/96-311, s. 15; SOR/99-9, s. 21; SOR/2001-188, s. 10; SOR/2003-328, s. 9; SOR/2005-264, s. 26; SOR/2007-212, s. 6; 2007, c. 29, s. 34.
 
 
 
@@ -16440,7 +16450,9 @@ the following rules apply:
 
 
 
-### Multi-employer Plans and Specified Multi-employer Plans
+### Multi-employer Plans and Other Special Plans
+> [[NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ]
+
 
 
 
@@ -16533,7 +16545,27 @@ except that this condition does not apply for years before 1992 in the case of a
 	- **(b)** the plan permits a member whose actual hours of employment in a period are fewer than a specified number of hours for the period to make contributions to the plan in order to increase, to an amount not exceeding the specified number of hours for the period, the number of hours that are treated under the provision as hours of employment of the member in the period, and
 	- **(c)** the specified number of hours for a period does not exceed a reasonable measure of the actual hours of employment of members who render services throughout the period on a full-time basis,
 the condition in paragraph 8503(3)(a) does not apply in respect of such portion of the lifetime retirement benefits provided under the provision to a member as is determined by reference to hours acquired by the member as a consequence of contributions made to the plan in the year by the member, as described in paragraph (b).
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/2001-67, s. 8.
+
+#### Special Rules – Member-funded Pension Plans
+
+
+- **(9)** Where a pension plan (other than a specified multi-employer plan) is a member-funded pension plan for the purposes of Division IX of the Regulation respecting the exemption of certain categories of pension plans from the provisions of the Supplemental Pension Plans Act of Quebec (R.Q., c. R.-15.1, r. 2), as amended from time to time,
+	- **(a)** paragraph 8502(c) shall in its application in respect of the plan be read without reference to subparagraph (iii);
+	- **(b)** the prescribed conditions for the registration of the plan include the following conditions:
+		- **(i)** the plan terms are such that each contribution to be made by a member under a defined benefit provision of the plan would be an eligible contribution under subsection 147.2(2) of the Act if
+			- **(A)** the contribution were made by an employer who participates in the plan for the benefit of the member, and
+			- **(B)** this subsection were read without reference to paragraph (c),
+		- **(ii)** unless this condition is waived by the Minister, the plan is maintained pursuant to a collective bargaining agreement,
+		- **(iii)** the plan is not, and it is reasonable to expect that the plan will not become, a designated plan, and
+		- **(iv)** the amount of benefits provided to members, the amount of contributions required to be made by members and the entitlement of members’ to benefit from actuarial surplus are determined in a manner that is
+			- **(A)** clearly established in the plan terms, and
+			- **(B)** not more advantageous for members who, at any time after the plan is established, are specified individuals (within the meaning assigned by subsection 8515(4)) under the plan than for members who are not specified individuals; and
+	- **(c)** a contribution made by an employer to the plan is a prescribed contribution for the purposes of subsection 147.2(2) of the Act if
+		- **(i)** the contribution is a current service contribution that would be an eligible contribution under subsection 147.2(2) of the Act if no contributions were prescribed for the purposes of that subsection and if that subsection were read without reference to its subparagraphs (d)(ii) and (iii), and
+		- **(ii)** the recommendation pursuant to which the contribution is made is such that the current service contributions to be made by the employer do not exceed,
+			- **(A)** where the amount of actuarial surplus in respect of the employer is greater than the greater of the amounts determined under subparagraphs 147.2(2)(d)(ii) and (iii) of the Act, 50% of the current service contributions that would be required to be made by the employer if there were no actuarial surplus under the provisions, and
+			- **(B)** in any other case, the current service contributions that would be required to be made by the employer if there were no actuarial surplus under the provisions.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/2001-67, s. 8; SOR/2007-212, s. 8.
 
 
 
