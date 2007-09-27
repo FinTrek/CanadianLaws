@@ -9,7 +9,7 @@ Autorités habilitantes :
 
 ----------
 
-[NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les règlements modificatifs appropriés.] 
+[NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] 
 
 
 
@@ -8787,15 +8787,15 @@ où
 	- **(i)** de minerai (sauf le minerai de fer) jusqu’au stade du métal primaire ou de son équivalent,
 	- **(ii)** de minerai de fer jusqu’à un stade ne dépassant pas celui de la boulette ou de son équivalent. (*mining operations*)
 
-***mine*** Tous travaux ou toute entreprise d’extraction ou de production de minerai, y compris les carrières. (*mine*)
+***mine*** Tous travaux ou toute entreprise d’extraction ou de production de minerai, y compris les carrières. (*mine*)
 
-***minerai*** Sont compris parmi les minerais les minéraux non transformés et les substances minéralisées. (*mineral ore*)
+***minerai*** Sont compris parmi les minerais les minéraux non transformés et les substances minéralisées. (*mineral ore*)
 
-***redevance non gouvernementale*** Redevance établie en fonction de la production provenant d’une mine ou calculée par rapport à la quantité ou à la valeur de la production provenant d’exploitations minières dans une province, à l’exclusion des redevances dues à Sa Majesté du chef du Canada ou d’une province. (*non-Crown royalty*)
+***redevance non gouvernementale*** Redevance établie en fonction de la production provenant d’une mine ou calculée par rapport à la quantité ou à la valeur de la production provenant d’exploitations minières dans une province, à l’exclusion des redevances dues à Sa Majesté du chef du Canada ou d’une province. (*non-Crown royalty*)
 
-***revenu*** Le revenu d’un contribuable pour une année d’imposition tiré d’exploitations minières dans une province, calculé selon les lois de la province qui prévoient un impôt admissible visé au paragraphe (3). (*income*)
+***revenu*** Le revenu d’un contribuable pour une année d’imposition tiré d’exploitations minières dans une province, calculé selon les lois de la province qui prévoient un impôt admissible visé au paragraphe (3). (*income*)
 
-***transformation*** Toute forme de valorisation, de fonte et d’affinage. (*processing*)
+***transformation*** Toute forme de valorisation, de fonte et d’affinage. (*processing*)
 
 - **(2)** Pour l’application de l’alinéa 20(1)v) de la Loi, la somme autorisée au titre des impôts sur le revenu tiré d’exploitations minières d’un contribuable pour une année d’imposition correspond au total des sommes représentant chacune un impôt admissible payé ou à payer par le contribuable :
 	- **a)** soit sur son revenu pour l’année tiré d’exploitations minières;
@@ -8811,9 +8811,9 @@ où
 			- **(C)** soit à une municipalité de la province, en remplacement d’impôts fonciers ou d’impôts sur un intérêt ou, pour l’application du droit civil, un droit sur un bien (mais non en remplacement d’impôts sur un bien résidentiel ou d’impôts sur un intérêt ou, pour l’application du droit civil, un droit sur un tel bien);
 	- **b)** l’impôt sur la somme reçue ou à recevoir par une personne à titre de redevance non gouvernementale, qui est, à la fois :
 		- **(i)** prélevé sous le régime d’une loi provinciale,
-		- **(ii)** exigé seulement des personnes qui détiennent une redevance non gouvernementale sur des exploitations minières dans la province,
+		- **(ii)** exigé expressément des personnes qui détiennent une redevance non gouvernementale sur des exploitations minières dans la province,
 		- **(iii)** payé ou à payer à la province ou à un mandataire de Sa Majesté du chef de la province.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-377, art. 12; DORS/94-686, art. 23(F); DORS/2006-207, art. 1.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-377, art. 12; DORS/94-686, art. 23(F); DORS/2006-207, art. 1; DORS/2007-212, art. 1.
 
 
 
@@ -9509,7 +9509,9 @@ et une caisse de crédit est réputée avoir accordé un avantage ou un privilè
 			- **(A)** soit en vertu de la [Loi nationale sur l’habitation](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-11.md),
 			- **(B)** soit par une société qui offre au public au Canada des services d’assureur de créances hypothécaires et qui est agréée à titre d’assureur privé de créances hypothécaires par le surintendant des institutions financières en vertu du paragraphe 6(1) de la [Loi sur le Bureau du surintendant des institutions financières](/fr/Lois/Lois%20du%20Canada/1985/ch.%2018%20(3e%20suppl.),%20partie%20I.md);
 	- **j.2)** d’un certificat constatant un intérêt indivis ou, pour l’application du droit civil, un droit indivis sur un ou plusieurs biens si, à la fois :
-		- **(i)** la totalité ou la presque totalité de la juste valeur marchande du certificat est attribuable à un bien qui est un titre de créance garanti par une hypothèque, une sûreté ou un instrument semblable relatif à un bien immeuble ou réel situé au Canada, ou qui est accessoire à tel titre,
+		- **(i)** la totalité ou la presque totalité de la juste valeur marchande du certificat est attribuable à un bien qui est un titre de créance garanti par l’un des biens ci-après, ou qui est accessoire à un tel titre :
+			- **(A)** une hypothèque, une sûreté ou un instrument semblable relatif à un bien immeuble ou réel situé au Canada,
+			- **(B)** un bien visé aux alinéas a) ou b) de la définition de ***placement admissible*** , à l’article 204 de la Loi, qui a été substitué au bien visé à la division (A) conformément aux modalités du titre de créance,
 		- **(ii)** le certificat était classé, au moment de son acquisition par la fiducie de régime, dans une catégorie d’évaluation supérieure par une agence d’évaluation qui évalue des titres de créance dans le cours normal des activités de son entreprise,
 		- **(iii)** le certificat est émis par l’émetteur dans le cadre d’une émission de certificats d’au moins 25 000 000 $;
 	- **k)** d’un placement, autre qu’un placement admissible décrit aux alinéas a) à j), qui
@@ -9638,7 +9640,7 @@ la participation ou l’intérêt visé aux sous-alinéas a)(i) ou (ii) est rép
 		- **(i)** soit un montant au titre ou en paiement intégral ou partiel des services fournis à l’émetteur ou à la personne liée, ou pour leur compte,
 		- **(ii)** soit un montant relatif à l’acquisition des marchandises de l’émetteur ou de la personne liée, ou aux services fournis par ceux-ci.
 L’action cesse définitivement d’être un tel placement pour la fiducie immédiatement avant la réception du montant.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/81-725, art. 4; DORS/83-819, art. 1; DORS/85-202, art. 1; DORS/86-390, art. 2; DORS/86-1092, art. 12(F); DORS/88-165, art. 24(F); DORS/92-660, art. 2; DORS/94-471, art. 1; DORS/94-472, art. 1; DORS/94-686, art. 26(F), 72(F), 74(F), 75(F), 78(F) et 79(F); DORS/95-513, art. 1; DORS/96-450, art. 1; DORS/98-250, art. 1; DORS/99-9, art. 1; DORS/99-81, art. 1; DORS/99-102, art. 1; DORS/2001-216, art. 6, 10(F) et 11(F); DORS/2001-289, art. 8(A); DORS/2005-264, art. 6; 2007, ch. 29, art. 32.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/81-725, art. 4; DORS/83-819, art. 1; DORS/85-202, art. 1; DORS/86-390, art. 2; DORS/86-1092, art. 12(F); DORS/88-165, art. 24(F); DORS/92-660, art. 2; DORS/94-471, art. 1; DORS/94-472, art. 1; DORS/94-686, art. 26(F), 72(F), 74(F), 75(F), 78(F) et 79(F); DORS/95-513, art. 1; DORS/96-450, art. 1; DORS/98-250, art. 1; DORS/99-9, art. 1; DORS/99-81, art. 1; DORS/99-102, art. 1; DORS/2001-216, art. 6, 10(F) et 11(F); DORS/2001-289, art. 8(A); DORS/2005-264, art. 6; DORS/2007-212, art. 2; 2007, ch. 29, art. 32.
 
 
 
@@ -10469,10 +10471,11 @@ au moment où la dette ou l’obligation a été réglée ou éteinte.
 - **f)** un siège transporteur électrique monté sur rail pour escaliers;
 - **g)** un dispositif ou équipement mécanique destiné à aider à monter dans une baignoire ou à en descendre, à entrer dans une douche ou à en sortir, ou à monter sur la cuvette ou à en descendre;
 - **h)** un lit d’hôpital, y compris les accessoires de ce lit visés par une ordonnance;
-- **i)** tout dispositif qui est conçu à l’intention du particulier à mobilité réduite pour l’aider à marcher;
+- **i)** tout dispositif qui est conçu exclusivement à l’intention du particulier à mobilité réduite pour l’aider à marcher;
 - **j)** une prothèse mammaire externe requise suite à une mastectomie;
 - **k)** un téléimprimeur ou tout dispositif semblable (y compris un indicateur de sonnerie de poste téléphonique) pour permettre à une personne sourde ou muette de faire des appels téléphoniques et d’en recevoir;
 - **l)** un lecteur optique ou un dispositif semblable conçu pour être utilisé par un aveugle pour lui permettre de lire un texte imprimé;
+- **l.1)** tout instrument ou logiciel conçu pour permettre à une personne aveugle ou ayant des troubles d’apprentissage graves de lire des caractères imprimés;
 - **m)** un appareil élévateur ou tout équipement de transport mécaniques conçus exclusivement pour un particulier handicapé afin de lui permettre d’accéder aux différentes parties d’un bâtiment ou de monter à bord d’un véhicule ou d’y placer son fauteuil roulant;
 - **n)** un dispositif conçu exclusivement pour permettre à une personne à mobilité réduite de conduire un véhicule;
 - **o)** un dispositif ou équipement, y compris un système de parole synthétique, une imprimante en braille et un dispositif de grossissement des caractères sur écran, conçu exclusivement pour permettre à un aveugle de faire fonctionner un ordinateur;
@@ -10484,8 +10487,11 @@ au moment où la dette ou l’obligation a été réglée ou éteinte.
 - **t)** un système électronique ou informatisé de contrôle de l’environnement conçu exclusivement pour l’usage d’un particulier dont la mobilité est limitée de façon grave et prolongée;
 - **u)** des bas élastiques ou un dispositif de compression des membres, conçus exclusivement pour diminuer les tuméfactions causées par le lymphoedème chronique;
 - **v)** un stimulateur électromagnétique de l’ostéogenèse utilisé pour le traitement des fractures non consolidées ou la reconstitution osseuse;
-- **w)** un manuel parlé prescrit par un médecin à une personne ayant un trouble de la perception, en raison de l’inscription de la personne à un établissement d’enseignement au Canada.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/80-948, art. 1; DORS/85-696, art. 17; DORS/87-716, art. 1; DORS/90-809, art. 1; DORS/94-189, art. 1; DORS/99-387, art. 1; DORS/2001-4, art. 1.
+- **w)** un manuel parlé à l’usage d’une personne ayant un trouble de la perception, utilisé en raison de l’inscription de la personne à un établissement d’enseignement au Canada ou à un établissement d’enseignement agréé;
+- **x)** un tableau Bliss ou un appareil semblable conçu pour permettre à une personne ayant un trouble de la parole de communiquer en sélectionnant des symboles ou en épelant des mots;
+- **y)** un appareil de prise de notes en braille conçu pour permettre à une personne aveugle de prendre des notes à l’aide d’un clavier et de les imprimer ou les afficher en braille ou de se les faire relire;
+- **z)** un tourne-pages conçu pour permettre à une personne ayant une déficience grave et prolongée qui limite de façon marquée sa capacité de se servir de ses bras ou ses mains de tourner les pages d’un livre ou un autre document relié.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/80-948, art. 1; DORS/85-696, art. 17; DORS/87-716, art. 1; DORS/90-809, art. 1; DORS/94-189, art. 1; DORS/99-387, art. 1; DORS/2001-4, art. 1; DORS/2007-212, art. 3.
 
 
 
@@ -11597,11 +11603,11 @@ autrement que par suite du paiement d’un dividende versé par une filiale à c
 
 **6204** 
 
-- **(1)** Pour l’application de l’alinéa 110(1)d) de la Loi, une action est une action prescrite du capital-actions d’une société à la date de sa vente ou de son émission, selon le cas, si à cette date :
+- **(1)** Pour l’application de l’alinéa 110(1)d) de la Loi, une action est une action visée du capital-actions d’une société à la date de sa vente ou de son émission, selon le cas, si à cette date :
 	- **a)** conformément aux conditions de l’action ou à un accord relatif à l’action ou à son émission :
 		- **(i)** le montant des dividendes — appelé «part des bénéfices» au présent article — que la société peut déclarer ou verser sur l’action n’est pas limité à un montant maximum ni fixé à un montant minimum, à cette date ou ultérieurement, par une formule ou autrement,
 		- **(ii)** le montant — appelé «part de liquidation» au présent article — que le détenteur de l’action a le droit de recevoir sur celle-ci à la dissolution ou liquidation de la société n’est pas limité à un montant maximum ni fixé à un montant minimum, par une formule ou autrement,
-		- **(iii)** l’action ne peut être convertie en une autre valeur, sauf s’il s’agit d’une valeur de la société ou d’une autre société avec laquelle elle a un lien de dépendance qui est une action prescrite ou qui le serait à la date de la conversion,
+		- **(iii)** l’action ne peut être convertie en une autre valeur, sauf s’il s’agit d’une valeur de la société ou d’une autre société avec laquelle elle a un lien de dépendance qui est une action visée ou qui le serait à la date de la conversion,
 		- **(iv)** le détenteur de l’action ne peut, à cette date ou ultérieurement, faire en sorte que l’action soit rachetée, acquise ou annulée par la société ou par une personne apparentée à la société, sauf si le rachat, l’acquisition ou l’annulation est exigé aux termes d’une conversion que le sous-alinéa (iii) n’interdit pas,
 		- **(v)** aucune personne ou société de personnes n’a l’obligation, conditionnelle ou non, de réduire ou de faire en sorte que la société réduise, à cette date ou ultérieurement, le capital versé au titre de l’action, sauf si la réduction est exigée aux termes d’une conversion que le sous-alinéa (iii) n’interdit pas,
 		- **(vi)** ni la société ni une personne apparentée à elle n’ont le droit ou l’obligation, conditionnel ou non, de racheter, d’acquérir ou d’annuler, à cette date ou ultérieurement, tout ou partie de l’action, sauf en contrepartie d’un montant qui correspond approximativement à la juste valeur marchande de l’action, déterminée compte non tenu d’un tel droit ou d’une telle obligation, ou d’un montant inférieur;
@@ -11609,26 +11615,24 @@ autrement que par suite du paiement d’un dividende versé par une filiale à c
 		- **(i)** soit de la fusion d’une filiale à cent pour cent,
 		- **(ii)** soit d’une liquidation à laquelle s’applique le paragraphe 88(1) de la Loi,
 		- **(iii)** soit d’une distribution ou attribution à laquelle s’applique le paragraphe 84(2) de la Loi;
-	- **c)** on ne peut raisonnablement s’attendre à ce qu’une des conditions de l’action ou un accord existant relatif à l’action ou à sa vente ou son émission soient modifiés ou à ce qu’un nouvel accord relatif à l’action, sa vente ou son émission soit conclu, dans les deux ans de la date de la vente ou de l’émission de l’action, de telle sorte que l’action n’aurait pas été une action prescrite si elle avait été vendue ou émise à la date d’une telle modification ou à la date où le nouvel accord est conclu.
+	- **c)** il n’est pas raisonnable de s’attendre à ce que les modalités de l’action ou une convention concernant l’action ou sa vente ou son émission soient modifiées, ou à ce qu’une nouvelle convention concernant l’action, sa vente ou son émission soit conclue, dans les deux ans suivant la date de la vente ou de l’émission de l’action, de telle sorte que l’action n’aurait pas été une action visée si elle avait été vendue ou émise à la date d’une telle modification ou à la date où la nouvelle convention est conclue.
 
 - **(2)** Pour l’application du paragraphe (1) :
 	- **a)** la part des bénéfices liée à une action du capital-actions d’une société est réputée ne pas être limitée à un montant maximum ni fixée à un montant minimum, lorsqu’il est raisonnable de croire que la totalité ou presque de cette part peut être déterminée par comparaison à la part des bénéfices liée à une autre action du capital-actions de la société, qui répond aux exigences du sous-alinéa (1)a)(i);
 	- **b)** la part de liquidation d’une action du capital-actions d’une société est réputée ne pas être limitée à un montant maximum ni fixée à un montant minimum, lorsqu’il est raisonnable de croire que la totalité ou presque de cette part peut être déterminée par comparaison à la part de liquidation d’une autre action du capital-actions de la société, qui répond aux exigences du sous-alinéa (1)a)(ii);
-	- **c)** la question de savoir si une action du capital-actions d’une société est une action prescrite est déterminée sans tenir compte du droit ou de l’obligation de racheter, d’acquérir ou d’annuler l’action ou de faire en sorte que l’action soit rachetée, acquise ou annulée, si les conditions suivantes sont réunies :
-		- **(i)** l’action a été émise ou vendue, aux termes d’une convention d’actionnariat (appelée « convention » au présent alinéa), à un employé (appelé « détenteur » au présent alinéa) de la société ou d’une société avec laquelle elle a un lien de dépendance,
-		- **(ii)** le détenteur n’avait de lien de dépendance avec aucune des sociétés visées au sous-alinéa (i) au moment de l’émission ou de la vente de l’action,
-		- **(iii)** compte tenu de toutes les circonstances, y compris les modalités de la convention, il est raisonnable de croire que, à la fois :
-			- **(A)** le montant payable au rachat, à l’acquisition ou à l’annulation (appelés « acquisition » à la présente division et à la division (B)) de l’action ne dépassera pas, selon le cas :
-				- **(I)** le prix de base rajusté de l’action pour le détenteur immédiatement avant l’acquisition, si cette acquisition était prévue aux termes de la convention en vue principalement de garantir le détenteur contre les pertes pouvant résulter de l’action,
-				- **(II)** la juste valeur marchande de l’action immédiatement avant l’acquisition, si cette acquisition était prévue aux termes de la convention en vue principalement de fournir au détenteur un marché pour l’action,
-			- **(B)** aucune partie du montant payable à l’acquisition de l’action n’est déterminable directement en fonction des bénéfices de la société ou d’une autre société avec laquelle elle a un lien de dépendance, pour tout ou partie de la période au cours de laquelle le détenteur était propriétaire de l’action ou avait le droit de l’acquérir, sauf si la référence aux bénéfices de la société ou de l’autre société sert uniquement à établir la juste valeur marchande de l’action suivant une formule prévue par la convention.
+	- **c)** la question de savoir si une action du capital-actions d’une société donnée est une action visée est déterminée compte non tenu du droit ou de l’obligation de racheter, d’acquérir ou d’annuler l’action ou de faire en sorte qu’elle soit rachetée, acquise ou annulée, si les conditions suivantes sont réunies :
+		- **(i)** au moment de la vente ou de l’émission de l’action, la personne (appelée ***détenteur*** au présent alinéa) à qui l’action est vendue ou émise n’a de lien de dépendance ni avec la société donnée ni avec les sociétés avec lesquelles celle-ci a un lien de dépendance,
+		- **(ii)** le droit ou l’obligation est prévu par les modalités de l’action ou dans une convention concernant l’action ou son émission et, compte tenu de toutes les circonstances, il est raisonnable de considérer :
+			- **(A)** soit que le droit ou l’obligation est prévu principalement en vue de garantir le détenteur contre les pertes pouvant résulter de l’action et que la somme à payer lors du rachat, de l’acquisition ou de l’annulation (appelés « acquisition » au présent sous-alinéa et au sous-alinéa (iii)) de l’action ne dépassera pas le prix de base rajusté de l’action pour le détenteur immédiatement avant l’acquisition,
+			- **(B)** soit que le droit ou l’obligation est prévu principalement en vue de fournir au détenteur un marché pour l’action et que la somme à payer lors de l’acquisition de l’action ne dépassera pas la juste valeur marchande de l’action immédiatement avant l’acquisition,
+		- **(iii)** compte tenu de toutes les circonstances, il est raisonnable de considérer qu’aucune partie de la somme à payer lors de l’acquisition de l’action n’est déterminable directement en fonction des bénéfices de la société donnée ou d’une autre société avec laquelle celle-ci a un lien de dépendance, pour tout ou partie de la période au cours de laquelle le détenteur est propriétaire de l’action ou a le droit de l’acquérir, sauf si la mention des bénéfices de la société donnée ou de l’autre société ne sert qu’à établir la juste valeur marchande de l’action suivant une formule prévue par les modalités de l’action ou dans la convention concernant l’action ou son émission, selon le cas.
 
 - **(3)** Pour l’application du paragraphe (1), « personne apparentée » à une société s’entend des personnes suivantes :
 	- **a)** une personne ou une société de personnes avec laquelle la société a un lien de dépendance sauf en raison d’un droit visé à l’alinéa 251(5)b) de la Loi qui découle de l’offre de la personne ou de la société de personnes d’acquérir la totalité ou la presque totalité des actions du capital-actions de la société;
 	- **b)** une société de personnes ou une fiducie dont la société (ou une personne ou une société de personnes avec laquelle elle a un lien de dépendance) est respectivement associé ou bénéficiaire.
 
 - **(4)** Pour l’application du paragraphe (3), il n’est pas tenu compte du paragraphe 256(9) de la Loi.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/86-1136, art. 8; DORS/94-315, art. 2; DORS/94-686, art. 78(F) et 79(F); DORS/97-409, art. 1; DORS/2003-328, art. 4.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/86-1136, art. 8; DORS/94-315, art. 2; DORS/94-686, art. 78(F) et 79(F); DORS/97-409, art. 1; DORS/2003-328, art. 4; DORS/2007-212, art. 4.
 
 
 
@@ -12506,8 +12510,13 @@ Ne sont pas des paiements exclus les paiements prévus par un titre de créance 
 	- **(iv)** en Alberta, les comtés de Athabasca, Barrhead, Birch Hills, Brazeau, Cardston, Clearwater, Grande Prairie, Kneehill, Lac Ste. Anne, Lacombe, Lakeland, Leduc, Mountain View, Northern Sunrise, Parkland, Ponoka, Red Deer, Saddle Hills, Starland, Thorhild, Wetaskiwin, Woodlands et Yellowhead, les districts en voie d'organisation de Banff, Jasper Park, Kananaskis, Waterton et Wilmore Wilderness, les districts des municipalités de Acadia, Big Lakes, Bighorn, Bonnyville, Clear Hills, Fairview, Greenview, MacKenzie, Northern Lights, Peace, Pincher Creek, Ranchland, Smoky River, Spirit River et Willow Creek, les municipalités de Crowsnest Pass et Jasper et les zones spéciales 3 et 4;
 - **i)** pour l’année civile 2004 :
 	- **(i)** en Colombie-Britannique, le district régional de Fort Nelson-Liard,
-	- **(ii)** en Alberta, les comtés de Beaver, Camrose, Flagstaff, Paintearth, Starland et Stettler, les districts municipaux de Acadia, Clear Hills, Fairview, Mackenzie et Northern Lights, et les zones spéciales 2, 3 et 4.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/91-195, art. 1; DORS/92-732, art. 1; DORS/93-300, art. 1; DORS/99-240, art. 1; DORS/2001-3, art. 1; DORS/2001-288, art. 1; DORS/2002-312, art. 1; DORS/2004-45, art. 1; DORS/2004-260, art. 1; DORS/2005-292, art. 1.
+	- **(ii)** en Alberta, les comtés de Beaver, Camrose, Flagstaff, Paintearth, Starland et Stettler, les districts municipaux de Acadia, Clear Hills, Fairview, Mackenzie et Northern Lights, et les zones spéciales 2, 3 et 4;
+- **j)** pour l’année civile 2006 :
+	- **(i)** en Ontario, les districts territoriaux de Algoma, Kenora, Manitoulin, Rainy River et Thunder Bay,
+	- **(ii)** en Colombie-Britannique, les districts régionaux de Bulkley-Nechako, Cariboo, Fraser-Fort George, Kitimat-Stikine et Peace River,
+	- **(iii)** en Saskatchewan, les municipalités rurales de Arlington, Auvergne, Bengough, Big Stick, Bone Creek, Carmichael, Clinworth, Frontier, Glen McPherson, Grassy Creek, Gull Lake, Happy Valley, Hart Butte, Lac Pelletier, Lake Alma, Laurier, Lone Tree, Mankota, Maple Creek, Miry Creek, Old Post, Piapot, Pittville, Poplar Valley, Reno, Surprise Valley, The Gap, Val Marie, Waverley, Webb, Whiska Creek, White Valley, Willow Bunch et Wise Creek,
+	- **(iv)** en Alberta, les comtés de Clear Hills, Grande Prairie et Saddle Hills et les districts municipaux de Greenview et Northern Lights.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/91-195, art. 1; DORS/92-732, art. 1; DORS/93-300, art. 1; DORS/99-240, art. 1; DORS/2001-3, art. 1; DORS/2001-288, art. 1; DORS/2002-312, art. 1; DORS/2004-45, art. 1; DORS/2004-260, art. 1; DORS/2005-292, art. 1; DORS/2007-213, art. 1.
 
 
 
@@ -14958,7 +14967,7 @@ ainsi que les conditions suivantes :
 #### Régimes complémentaires
 
 
-- **(4)** Pour déterminer si un régime de pension (appelé «régime complémentaire» au présent paragraphe) — qui comporte une disposition à prestations déterminées et qui ne comporte aucune disposition à cotisations déterminées — est conforme aux conditions énoncées aux alinéas 8502a) et c), les prestations prévues par la disposition à prestations déterminées (appelée «disposition de base» au présent paragraphe) d’un autre régime de pension sont réputées prévues par le régime complémentaire si les conditions suivantes sont réunies :
+- **(4)** Pour déterminer si un régime de pension (appelé « régime complémentaire » au présent paragraphe) — qui comporte une disposition à prestations déterminées et qui ne comporte aucune disposition à cotisations déterminées — est conforme aux conditions énoncées aux alinéas 8502a) et c), les prestations prévues par la disposition à prestations déterminées (appelée « disposition de base » au présent paragraphe) d’un autre régime de pension sont réputées prévues par le régime complémentaire si les conditions suivantes sont réunies :
 	- **a)** il est raisonnable de considérer que les prestations prévues par le régime complémentaire complètent les prestations prévues par la disposition de base;
 	- **b)** le régime complémentaire n’est pas conforme par ailleurs à la condition énoncée à l’alinéa 8502a) ni à celle énoncée à l’alinéa 8502c);
 	- **c)** le ministre a approuvé l’application du présent paragraphe et n’a pas retiré son approbation.
@@ -14987,7 +14996,7 @@ les règles suivantes s’appliquent :
 #### Cotisations de participants pour passif non capitalisé
 
 
-- **(6.1)** Pour l’application des conditions énoncées dans la présente partie, la cotisation que le participant à un régime de pension verse aux termes d’une disposition à prestations déterminées du régime est réputée être une cotisation pour services courants versée au titre de ses prestations prévues par la disposition dans le cas où, à la fois :
+- **(6.1)** Pour l’application des conditions énoncées dans la présente partie, sauf la condition prévue au sous-alinéa 8510(9)b)(i), la cotisation que le participant à un régime de pension verse aux termes d’une disposition à prestations déterminées du régime est réputée être une cotisation pour services courants versée au titre de ses prestations prévues par la disposition dans le cas où, à la fois :
 	- **a)** il ne serait pas raisonnable de considérer, si ce n’était le présent paragraphe, que la cotisation est versée au titre des prestations du participant prévues par la disposition;
 	- **b)** la cotisation est fonction du passif actuariel de la disposition pour des périodes antérieures à son versement;
 	- **c)** la cotisation est versée conformément à une convention qui répond aux conditions suivantes :
@@ -15004,13 +15013,13 @@ les règles suivantes s’appliquent :
 
 
 - **(7)** Dans le cas où les conditions suivantes sont réunies :
-	- **a)** un montant unique est versé en règlement total ou partiel du droit d’un particulier à des prestations de retraite (appelées « prestations rachetées » au présent paragraphe) dans le cadre d’une disposition à prestations déterminées d’un régime de pension agréé,
+	- **a)** un montant unique est versé en règlement total ou partiel du droit d’un particulier à des prestations de retraite (appelées « prestations rachetées » au présent paragraphe) dans le cadre d’une disposition à prestations déterminées d’un régime de pension agréé,
 	- **b)** d’autres prestations sont ultérieurement assurées au particulier aux termes de la disposition par suite d’une attribution, effectuée à l’occasion de la liquidation totale ou partielle du régime, d’un surplus actuariel afférent à la disposition,
-	- **c)** les autres prestations comprennent des prestations (appelées « prestations accessoires » au présent paragraphe) qui, si ce n’était le présent paragraphe, ne seraient pas permises selon la présente partie,
+	- **c)** les autres prestations comprennent des prestations (appelées « prestations accessoires » au présent paragraphe) qui, si ce n’était le présent paragraphe, ne seraient pas permises selon la présente partie,
 	- **d)** dans l’éventualité où le particulier s’était antérieurement retiré de la disposition et où les conditions énoncées au paragraphe 8304.1(14) étaient remplies relativement au retrait, il est raisonnable de considérer que l’ensemble des prestations accessoires se rapportent à des périodes antérieures à 1990,
 	- **e)** le ministre a approuvé l’application du présent paragraphe aux prestations accessoires,
 pour déterminer si les prestations accessoires sont permises selon la présente partie, le particulier est réputé avoir, dans le cadre de la disposition, un droit aux prestations rachetées.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/95-64, art. 9; DORS/96-311, art. 14; DORS/99-9, art. 20; DORS/2001-188, art. 9; DORS/2003-328, art. 8; DORS/2005-264, art. 25.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/95-64, art. 9; DORS/96-311, art. 14; DORS/99-9, art. 20; DORS/2001-188, art. 9; DORS/2003-328, art. 8; DORS/2005-264, art. 25; DORS/2007-212, art. 5.
 
 
 
@@ -15055,7 +15064,8 @@ pour l’application du présent alinéa,
 	- **(v)** les intérêts, calculés à un taux ne dépassant pas un taux raisonnable, versés sur les cotisations remboursées conformément au sous-alinéa (iv),
 	- **(vi)** les montants versés en règlement total ou partiel du droit d’une personne au surplus actuariel afférent à une disposition à prestations déterminées du régime,
 	- **(vii)** les biens détenus relativement à une disposition à cotisations déterminées du régime qui sont remis à un employeur,
-	- **(viii)** lorsque le ministre a renoncé, en vertu du paragraphe 8506(2.1), à appliquer la condition énoncée à l’alinéa 8506(2)b.1) relativement à une disposition à cotisations déterminées du régime, les montants versés aux termes de la disposition que le ministre juge acceptables;
+	- **(viii)** lorsque le ministre a renoncé, en vertu du paragraphe 8506(2.1), à appliquer la condition énoncée à l’alinéa 8506(2)b.1) relativement à une disposition à cotisations déterminées du régime, les montants versés aux termes de la disposition que le ministre juge acceptables,
+	- **(ix)** un paiement unique relatif à un participant, sauf un paiement visé au sous-alinéa (i), que le régime est tenu d’effectuer par l’effet de la [Loi de 1985 sur les normes de prestation de pension](/fr/Lois/Lois%20du%20Canada/1985/ch.%2032%20(2e%20suppl.).md) ou d’une loi provinciale semblable et qui n’est pas transféré directement à un autre régime de pension agréé, à un régime enregistré d’épargne-retraite ou à un fonds enregistré de revenu de retraite;
 
 #### Versement des prestations
 
@@ -15110,7 +15120,7 @@ ou encore les conditions suivantes :
 #### Participants aux mécanismes de retraite sous régime gouvernemental
 
 - **m)** aucun particulier qui, à un moment donné après 1993, a droit à des prestations, conditionnellement ou non, dans le cadre du régime au titre de son emploi auprès d’un employeur avec lequel il est rattaché n’a droit à ce moment à des prestations, conditionnellement ou non, dans le cadre d’un mécanisme de retraite sous régime gouvernemental, au sens du paragraphe 8308.4(1).
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/94-686, art. 42(F); DORS/95-64, art. 10; DORS/96-311, art. 15; DORS/99-9, art. 21; DORS/2001-188, art. 10; DORS/2003-328, art. 9; DORS/2005-264, art. 26; 2007, ch. 29, art. 34.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/94-686, art. 42(F); DORS/95-64, art. 10; DORS/96-311, art. 15; DORS/99-9, art. 21; DORS/2001-188, art. 10; DORS/2003-328, art. 9; DORS/2005-264, art. 26; DORS/2007-212, art. 6; 2007, ch. 29, art. 34.
 
 
 
@@ -16295,7 +16305,9 @@ les présomptions suivantes s’appliquent :
 
 
 
-### Régimes interentreprises et régimes interentreprises déterminés
+### Régimes interentreprises et autres régimes spéciaux
+> [[NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ]
+
 
 
 
@@ -16386,7 +16398,27 @@ toutefois, la présente condition ne s’applique pas aux années antérieures �
 	- **b)** le régime permet au participant dont le nombre réel d’heures de services accomplies au cours d’une période est inférieur à un nombre déterminé d’heures pour la période de cotiser au régime en vue de porter à un nombre ne dépassant pas ce nombre déterminé le nombre d’heures qui sont considérées aux termes de la disposition comme des heures de services accomplies par le participant au cours de la période,
 	- **c)** le nombre déterminé d’heures pour une période ne dépasse pas le nombre raisonnable d’heures réelles de services accomplies par les participants qui rendent des services à plein temps tout au long de la période,
 la condition énoncée à l’alinéa 8503(3)a) ne s’applique pas à la fraction des prestations viagères assurées à un participant aux termes de la disposition qui est fonction des heures acquises par suite des cotisations qu’il a versées au régime au cours de l’année, conformément à l’alinéa b).
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/2001-67, art. 8.
+
+#### Règles spéciales — régimes de retraite par financement salarial
+
+
+- **(9)** Lorsqu’un régime de pension, sauf un régime interentreprises déterminé, est un régime de retraite par financement salarial pour l’application de la section IX du Règlement sur la soustraction de certaines catégories de régimes de retraite à l’application de dispositions de la Loi sur les régimes complémentaires de retraite du Québec (R.Q., ch. R-15.1, r. 2), avec ses modifications successives, les règles suivantes s’appliquent :
+	- **a) ** l’alinéa 8502c) s’applique relativement au régime compte non tenu de son sous-alinéa (iii);
+	- **b) ** les conditions ci-après font partie des conditions d’agrément du régime :
+		- **(i)** les modalités du régime sont telles que chaque cotisation à verser par un participant aux termes d’une disposition à prestations déterminées du régime serait une cotisation admissible selon le paragraphe 147.2(2) de la Loi si, à la fois :
+			- **(A)** elle était versée par un employeur qui participe au régime pour le compte du participant,
+			- **(B)** il n’était pas tenu compte de l’alinéa c),
+		- **(ii)** le régime est maintenu en conformité avec une convention collective, à moins que le ministre ne renonce à appliquer la présente condition,
+		- **(iii)** le régime n’est pas un régime désigné et il est raisonnable de s’attendre à ce qu’il ne le devienne pas,
+		- **(iv)** le montant des prestations assurées aux participants, le montant des cotisations qu’ils sont tenus de verser et leur droit au surplus actuariel sont déterminés d’une manière qui, à la fois :
+			- **(A)** est clairement établie par les modalités du régime,
+			- **(B)** n’offre pas plus d’avantages aux participants qui, après l’établissement du régime, sont des particuliers déterminés, au sens du paragraphe 8515(4), au régime qu’à ceux qui ne le sont pas;
+	- **c) ** la cotisation versée au régime par un employeur est une cotisation visée pour l’application du paragraphe 147.2(2) de la Loi si, à la fois :
+		- **(i)** il s’agit d’une cotisation pour services courants qui serait une cotisation admissible selon le paragraphe 147.2(2) de la Loi si aucune cotisation n’était visée pour l’application de ce paragraphe et si ce paragraphe s’appliquait compte non tenu de ses sous-alinéas d)(ii) et (iii),
+		- **(ii)** le conseil conformément auquel la cotisation est versée est tel que les cotisations pour services courants à verser par l’employeur n’excèdent pas :
+			- **(A)** si le surplus actuariel quant à l’employeur excède la plus élevée des sommes déterminées selon les sous-alinéas 147.2(2)d)(ii) et (iii) de la Loi, 50 % des cotisations pour services courants qui seraient à verser par l’employeur en l’absence de surplus actuariel afférent aux dispositions,
+			- **(B)** dans les autres cas, les cotisations pour services courants qui seraient à verser par l’employeur en l’absence de surplus actuariel afférent aux dispositions.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/2001-67, art. 8; DORS/2007-212, art. 8.
 
 
 
