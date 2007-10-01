@@ -9000,9 +9000,7 @@ to take possession of or seize the property covered by the security, and in the 
 
 ***agent*** means the officer in charge of an agency, and includes any person acting for that officer;
 
-
 ***appropriate agency*** means
-
 - **(a)** the agency for the province in which is located the place of business of the person by whom or on whose behalf a notice of intention is signed,
 - **(b)** if that person has more than one place of business in Canada and the places of business are not in the same province, the agency for the province in which is located the principal place of business of that person, or
 - **(c)** if that person has no place of business, the agency for the province in which the person resides,
@@ -9011,14 +9009,11 @@ and in respect of any notice of intention registered before the day this Part co
 
 ***notice of intention*** means a notice of intention in the prescribed form or in a form to the like effect, and includes a notice of intention registered before the day this Part comes into force, in the form and registered in the manner required by the law in force at the time of the registration of the notice of intention;
 
-
 ***principal place of business*** means
-
 - **(a)** in the case of a body corporate incorporated by or under an Act of Parliament or the legislature of a province, the place where, according to the body corporate’s charter, memorandum of association or by-laws, the head office of the body corporate in Canada is situated, and
 - **(b)** in the case of any other body corporate, the place at which a civil process in the province in which the loans or advances will be made can be served on the body corporate;
 
 ***system of registration*** means all registers and other records required by subsection (4) to be prepared and maintained and any such system may be in a bound or loose-leaf form or in a photographic film form, or may be entered or recorded by any system of mechanical or electronic data processing or any other information storage device that is capable of reproducing any required information in intelligible written form within a reasonable time.
-
 
 **Regulations**
 
@@ -9029,18 +9024,15 @@ and in respect of any notice of intention registered before the day this Part co
 
 **Priority of wages and money owing for perishable agricultural products**
 
-- **(7)** Despite subsection (2) and despite the fact that a notice of intention by a person giving security on property under this section has been registered under this section, if, under the 
-[Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md), a bankruptcy order is made against, or an assignment is made by, that person,
+- **(7)** Despite subsection (2) and despite the fact that a notice of intention by a person giving security on property under this section has been registered under this section, if, under the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md), a bankruptcy order is made against, or an assignment is made by, that person,
 	- **(a)** claims for wages, salaries or other remuneration owing in respect of the period of three months immediately preceding the making of the order or assignment, to employees of the person employed in connection with the business or farm in respect of which the property covered by the security was held or acquired by the person, and
 	- **(b)** claims of a grower or producer of products of agriculture for money owing by a manufacturer to the grower or producer for such products that were grown or produced by the grower or producer on land owned or leased by the grower or producer and that were delivered to the manufacturer during the period of six months immediately preceding the making of the order or assignment to the extent of the lesser of
 		- **(i)** the total amount of the claims of the grower or producer therefor, and
-		- **(ii)** the amount determined by multiplying by one thousand one hundred dollars the most recent annual average Index Number of Farm Prices of Agricultural Products for Canada published by Statistics Canada at the time the bankruptcy order or claim is made,
+		- **(ii)** the prescribed amount
 have priority over the rights of the bank in a security given to the bank under this section, in the order in which they are mentioned in this subsection, and if the bank takes possession or in any way disposes of the property covered by the security, the bank is liable for those claims to the extent of the net amount realized on the disposition of the property, after deducting the cost of realization, and the bank is subrogated in and to all the rights of the claimants to the extent of the amounts paid to them by the bank.
 
-**Effect of adjustment of index**
-
-- **(8)** On the first occasion after December 19, 1990 on which the index number referred to in subparagraph (7)(b)(ii) is adjusted or re-established on a revised base, that subparagraph is amended by substituting for the reference to one thousand one hundred dollars therein the amount, stated in whole dollars, rounded upwards, obtained when one thousand one hundred dollars is multiplied by the index number immediately before the adjustment or re-establishment and the product so obtained is divided by the index number immediately following the adjustment or re-establishment, and on each subsequent occasion on which the index number is adjusted or re-established on a revised base, that subparagraph is amended by substituting for the amount then referred to therein, an amount determined in like manner.
-> 1991, c. 46, s. 427; 1992, c. 27, s. 90; 1993, c. 6, s. 6(E), c. 28, s. 78; 1998, c. 36, s. 21; 2002, c. 7, s. 82(E); 2004, c. 25, s. 185.
+- **(8)** [Repealed, 1997, c. 15, s. 47]
+> 1991, c. 46, s. 427; 1992, c. 27, s. 90; 1993, c. 6, s. 6(E), c. 28, s. 78; 1997, c. 15, s. 47; 1998, c. 36, s. 21; 2002, c. 7, s. 82(E); 2004, c. 25, s. 185.
 
 
 
