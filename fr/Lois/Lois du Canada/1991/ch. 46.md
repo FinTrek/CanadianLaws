@@ -8767,16 +8767,16 @@ il a été procédé à l’enregistrement ou au dépôt au bureau d’enregistr
 
 **427** 
 
-- **(1)** La banque peut consentir des prêts ou avances de fonds :
+- **(1)** La banque peut consentir des prêts ou avances de fonds :
 	- **a)** à tout acheteur, expéditeur ou marchand en gros ou au détail de produits agricoles, aquicoles, forestiers, des carrières, des mines ou aquatiques ou d’effets, denrées ou marchandises fabriqués ou autrement obtenus, moyennant garantie portant sur ces produits ou sur ces effets, denrées ou marchandises ainsi que sur les effets, denrées ou marchandises servant à leur emballage;
 	- **b)** à toute personne faisant des affaires en qualité de fabricant, moyennant garantie portant sur les effets, denrées ou marchandises qu’elle fabrique ou produit, ou qui sont acquis à cette fin, ainsi que sur les effets, denrées ou marchandises servant à leur emballage;
 	- **c)** à tout aquiculteur moyennant garantie portant sur son stock en croissance ou les produits de son exploitation aquicole ou sur son matériel aquicole immobilier ou mobilier;
 	- **d)** à tout agriculteur, moyennant garantie portant sur ses récoltes ou sur son matériel agricole immobilier ou mobilier;
-	- **e)** à tout aquiculteur :
+	- **e)** à tout aquiculteur :
 		- **(i)** pour l’achat de stock géniteur aquicole ou de stock aquicole de départ, moyennant garantie portant sur ceux-ci et sur tout produit qui en proviendra,
 		- **(ii)** pour l’achat d’insecticides, moyennant garantie portant sur ces insecticides et sur tout produit de l’exploitation aquicole sur lequel ils doivent être utilisés,
 		- **(iii)** pour l’achat de nourriture, médicaments vétérinaires, produits biologiques ou vaccins, moyennant garantie portant sur ceux-ci et sur tout produit de l’exploitation aquicole sur lequel ils doivent être utilisés;
-	- **f)** à tout agriculteur :
+	- **f)** à tout agriculteur :
 		- **(i)** pour l’achat de semences, notamment de pommes de terre, moyennant garantie portant sur ces semences et sur toute récolte qui en proviendra,
 		- **(ii)** pour l’achat d’engrais et d’insecticides, moyennant garantie portant sur ces engrais et insecticides et sur toute récolte que produira la terre sur laquelle, dans la même saison, ils doivent être utilisés;
 	- **g)** à tout aquiculteur moyennant garantie portant sur les organismes animaux et végétaux aquatiques, étant entendu que la garantie prise en vertu du présent alinéa n’est pas valable à l’égard des organismes qui sont, au moment où la garantie est prise et en vertu d’une loi en vigueur à ce moment, insaisissables par voie de bref d’exécution et exclus des biens qui peuvent être donnés en garantie d’un emprunt par cet aquiculteur;
@@ -8785,14 +8785,14 @@ il a été procédé à l’enregistrement ou au dépôt au bureau d’enregistr
 	- **j)** à tout agriculteur pour l’achat d’instruments agricoles, moyennant garantie portant sur ces instruments;
 	- **k)** à tout aquiculteur pour l’achat ou l’installation de matériel aquicole immobilier ou d’installations électriques aquicoles, moyennant garantie portant sur ce matériel ou ces installations électriques;
 	- **l)** à tout agriculteur pour l’achat ou l’installation de matériel agricole immobilier ou d’installations électriques de ferme, moyennant garantie portant sur ce matériel ou ces installations électriques;
-	- **m)** à tout aquiculteur pour :
+	- **m)** à tout aquiculteur pour :
 		- **(i)** la réparation ou la révision de matériel aquicole mobilier ou immobilier ou d’installations électriques aquicoles,
 		- **(ii)** la modification ou l’amélioration d’installations électriques aquicoles,
 		- **(iii)** l’érection ou la construction de clôtures ou d’ouvrages de drainage sur l’exploitation aquicole pour la conservation, l’élevage, la culture ou la protection d’organismes animaux et végétaux aquatiques ou pour leur alimentation en eau et l’évacuation des eaux,
 		- **(iv)** la construction, la réparation, la modification ou l’agrandissement de tout édifice ou bâtiment de l’exploitation aquicole,
 		- **(v)** toute entreprise en vue de l’amélioration ou de la mise en valeur d’une exploitation aquicole pouvant faire l’objet d’un prêt au sens de la [Loi sur le financement des petites entreprises du Canada](/fr/Lois/Lois%20du%20Canada/1998/ch.%2036.md), de la Loi sur les prêts aux petites entreprises ou de la [Loi sur les prêts destinés aux améliorations agricoles](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-3.md),
 moyennant garantie portant sur le matériel aquicole mobilier ou immobilier, étant entendu que la garantie prise en vertu du présent alinéa n’est pas valable en ce qui concerne le matériel qui est, au moment où la garantie est prise et en vertu d’une loi en vigueur à ce moment, insaisissable par voie de bref d’exécution et exclu des biens qui peuvent être donnés en garantie d’un emprunt par cet aquiculteur;
-	- **n)** à tout agriculteur pour :
+	- **n)** à tout agriculteur pour :
 		- **(i)** la réparation ou la révision de matériel agricole mobilier ou immobilier ou d’installation électrique de ferme,
 		- **(ii)** la modification ou l’amélioration d’installations électriques de ferme,
 		- **(iii)** l’érection ou la construction de clôtures ou d’ouvrages de drainage de la ferme,
@@ -8806,12 +8806,12 @@ La garantie peut être accordée par le donneur de garantie ou pour son compte, 
 
 **Droits et pouvoirs conférés par la remise de document**
 
-- **(2)** La remise à la banque d’un document lui accordant, en vertu du présent article, une garantie sur des biens dont le donneur de garantie :
+- **(2)** La remise à la banque d’un document lui accordant, en vertu du présent article, une garantie sur des biens dont le donneur de garantie :
 	- **a)** soit est propriétaire au moment de la remise du document,
 	- **b)** soit devient propriétaire avant l’abandon de la garantie par la banque, que ces biens existent ou non au moment de cette remise,
-confère à la banque, en ce qui concerne les biens visés, les droits et pouvoirs suivants :
+confère à la banque, en ce qui concerne les biens visés, les droits et pouvoirs suivants :
 	- **c)** s’il s’agit d’une garantie donnée soit en vertu des alinéas (1)a), b), g), h), i), j) ou o), soit en vertu des alinéas (1)c) ou m) et portant sur du matériel aquicole mobilier, soit en vertu des alinéas (1)d) ou n) et portant sur du matériel agricole mobilier, soit en vertu de l’alinéa (1)p) et portant sur du matériel sylvicole mobilier, les mêmes droits que si la banque avait acquis un récépissé d’entrepôt ou un connaissement visant ces biens;
-	- **d)** s’il s’agit d’une garantie donnée :
+	- **d)** s’il s’agit d’une garantie donnée :
 		- **(i)** soit en vertu de l’alinéa (1)c) et portant sur du stock en croissance ou produits de l’exploitation aquicole ou du matériel aquicole immobilier,
 		- **(ii)** soit en vertu de l’alinéa (1)d) et portant sur des récoltes ou du matériel agricole immobilier,
 		- **(iii)** soit en vertu des alinéas (1)e), f), k) et l),
@@ -8823,7 +8823,7 @@ Tous les biens, à l’égard desquels les droits sont dévolus à la banque sou
 
 **Pouvoir de la banque de prendre possession**
 
-- **(3)** Lorsqu’une garantie sur des biens est donnée à la banque en vertu des alinéas (1)c) à p), celle-ci, agissant par l’intermédiaire de ses dirigeants, employés ou mandataires, a, dans l’une des éventualités suivantes :
+- **(3)** Lorsqu’une garantie sur des biens est donnée à la banque en vertu des alinéas (1)c) à p), celle-ci, agissant par l’intermédiaire de ses dirigeants, employés ou mandataires, a, dans l’une des éventualités suivantes :
 	- **a)** non-paiement d’un prêt ou d’une avance dont le remboursement est garanti,
 	- **b)** défaut de prendre en charge les récoltes ou d’en faire la moisson ou de prendre soin du bétail, affectés à la garantie,
 	- **c)** défaut de prendre en charge le stock en croissance ou les produits de l’exploitation aquicole ou de prendre soin des organismes animaux et végétaux aquatiques, affectés à la garantie,
@@ -8834,7 +8834,7 @@ tous les pouvoirs — en sus et sans préjudice des autres pouvoirs qui lui sont
 
 **Préavis**
 
-- **(4)** Les dispositions suivantes s’appliquent lorsqu’une garantie sur des biens est donnée à la banque conformément au présent article :
+- **(4)** Les dispositions suivantes s’appliquent lorsqu’une garantie sur des biens est donnée à la banque conformément au présent article :
 	- **a)** les droits et pouvoirs de la banque sur les biens affectés à la garantie sont inopposables aux créanciers du donneur de garantie et à ceux qui de bonne foi, par la suite, prennent une hypothèque sur les biens affectés à la garantie ou les achètent, à moins qu’un préavis signé par le donneur de garantie ou pour son compte n’ait été enregistré à l’agence appropriée dans les trois années qui précèdent la date de la garantie;
 	- **b)** l’enregistrement d’un préavis peut être annulé par l’enregistrement, à l’agence où le préavis a été enregistré, d’un certificat de dégagement signé au nom de la banque visée dans le préavis et précisant que toute garantie à laquelle se rapporte le préavis a été dégagée ou que nulle garantie n’a été donnée à la banque;
 	- **c)** toute personne peut, en s’adressant à l’agent et sur paiement du droit fixé en application du paragraphe (6), recevoir communication de ses archives et notamment des préavis et certificats de dégagement;
@@ -8861,27 +8861,22 @@ tous les pouvoirs — en sus et sans préjudice des autres pouvoirs qui lui sont
 
 **Règlements**
 
-- **(6)** Le gouverneur en conseil peut, pour l’application du présent article, prendre des règlements :
+- **(6)** Le gouverneur en conseil peut, pour l’application du présent article, prendre des règlements :
 	- **a)** relatifs aux règles et à la procédure à suivre pour la tenue des archives, notamment l’enregistrement et l’annulation de préavis et l’accès aux archives;
 	- **b)** exigeant le paiement de droits relatifs aux archives et en fixant le montant;
 	- **c)** relatifs à toute autre question concernant la tenue des archives.
 
 **Préférence accordée aux créances relatives aux salaires et aux produits agricoles périssables**
 
-- **(7)** Par dérogation au paragraphe (2), et même si le donneur de garantie portant sur des biens conformément au présent article a fait enregistrer le préavis s’y rapportant comme prévu au présent article, au cas où, en vertu de la 
-[Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md), une ordonnance de faillite est rendue contre le donneur de garantie ou il effectue une cession :
-	- **a)
-** les créances des employés de l’entreprise ou de la ferme pour laquelle le donneur de garantie a acquis ou détient les biens affectés à la garantie et portant sur leurs salaires, traitements ou autres rémunérations des trois mois précédant la date de l’ordonnance ou de la cession,
-	- **b)
-** les créances d’un agriculteur ou d’un producteur de produits agricoles, pour le montant des produits agricoles, qu’il a cultivés et obtenus sur une terre dont il est propriétaire ou locataire et qu’il a livrés au fabricant au cours des six mois précédant l’ordonnance ou la cession, jusqu’à concurrence du moins élevé des montants suivants :
+- **(7)** Par dérogation au paragraphe (2), et même si le donneur de garantie portant sur des biens conformément au présent article a fait enregistrer le préavis s’y rapportant comme prévu au présent article, au cas où, en vertu de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md), une ordonnance de faillite est rendue contre le donneur de garantie ou il effectue une cession :
+	- **a)** les créances des employés de l’entreprise ou de la ferme pour laquelle le donneur de garantie a acquis ou détient les biens affectés à la garantie et portant sur leurs salaires, traitements ou autres rémunérations des trois mois précédant la date de l’ordonnance ou de la cession,
+	- **b)** les créances d’un agriculteur ou d’un producteur de produits agricoles, pour le montant des produits agricoles, qu’il a cultivés et obtenus sur une terre dont il est propriétaire ou locataire et qu’il a livrés au fabricant au cours des six mois précédant l’ordonnance ou la cession, jusqu’à concurrence du moins élevé des montants suivants :
 		- **(i)** le montant total des créances de l’agriculteur ou du producteur,
-		- **(ii)** le produit, exprimé en dollars, de mille cent multiplié par le dernier indice annuel moyen du Nombre — indice des prix à la ferme des produits agricoles pour le Canada — , publié par Statistique Canada et se rapportant à la date de l’ordonnance ou de la production de la créance,
+		- **(ii)** le montant prévu par règlement,
 priment les droits de la banque découlant d’une garantie reçue aux termes du présent article, selon l’ordre dans lequel elles sont mentionnées au présent paragraphe; la banque, qui prend possession ou réalise les biens affectés à la garantie, est responsable des créances jusqu’à concurrence du produit net de la réalisation, déduction faite des frais de réalisation, et est subrogée dans tous les droits des titulaires de ces créances jusqu’à concurrence des sommes qu’elle leur a payées.
 
-**Effet de l’ajustement de l’indice**
-
-- **(8)** À la première occasion où, après le 19 décembre 1990, l’indice visé au sous-alinéa (7)b)(ii) est ajusté ou fixé à nouveau sur une base différente, le sous-alinéa est modifié en y remplaçant la référence à mille cent dollars par le produit, arrondi au dollar supérieur, de mille cent dollars par l’indice tel qu’il était avant son ajustement ou sa nouvelle fixation, et le produit ainsi obtenu est divisé par l’indice tel qu’il est ajusté ou fixé à nouveau. À chaque nouvel ajustement ou nouvelle fixation sur une base différente, ce sous-alinéa est modifié en substituant au montant qui y est mentionné le montant calculé de la façon indiquée ci-dessus.
-> 1991, ch. 46, art. 427; 1992, ch. 27, art. 90; 1993, ch. 6, art. 6(A), ch. 28, art. 78; 1998, ch. 36, art. 21; 2002, ch. 7, art. 82(A); 2004, ch. 25, art. 185.
+- **(8)** [Abrogé, 1997, ch. 15, art. 47]
+> 1991, ch. 46, art. 427; 1992, ch. 27, art. 90; 1993, ch. 6, art. 6(A), ch. 28, art. 78; 1997, ch. 15, art. 47; 1998, ch. 36, art. 21; 2002, ch. 7, art. 82(A); 2004, ch. 25, art. 185.
 
 
 
