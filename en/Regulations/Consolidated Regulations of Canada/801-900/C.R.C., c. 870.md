@@ -17321,17 +17321,10 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 <th>Column III</th>
 </tr>
 <tr>
-<th>Item
-
-No.
-
-</th>
+<th>Item No.</th>
 <th>Additive</th>
 <th>Permitted in or Upon</th>
 <th>Maximum Level of Use</th>
-</tr>
-<tr>
-<th> </th>
 </tr>
 <tr>
 <td>C.1</td>
@@ -17638,36 +17631,48 @@ No.
 <td>1.0% in accordance with the requirement of paragraphs B.07.020(b) and B.07.027(b) respectively</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Celery Salt; Celery Pepper</td>
 <td>(2)</td>
 <td>0.5%</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Unstandardized dry mixes</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Icing sugar</td>
 <td>(4)</td>
 <td>If used either singly or in combination with Calcium Phosphate tribasic, Calcium Silicate, Magnesium Carbonate, Magnesium Silicate, Magnesium Stearate or Sodium Aluminum Silicate the total must not exceed 1.5%</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(5)</td>
 <td>Foods sold in tablet form</td>
 <td>(5)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(6)</td>
 <td>Cayenne Pepper; Chili pepper; Chili Powder; Paprika; Red Pepper</td>
 <td>(6)</td>
 <td>2.0%</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(7)</td>
 <td>Salt</td>
 <td>(7)</td>
@@ -17690,18 +17695,24 @@ No.
 <td>If used either singly or in combination with Calcium Phosphate tribasic, Calcium Silicate, Magnesium Carbonate, Magnesium Silicate, Magnesium Stearate or Silicon Dioxide the total must not exceed 1.5%</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Dried whole egg; Dried egg white (dried albumen); Dried egg yolk; Dried whole egg mix; Dried egg yolk mix</td>
 <td>(3)</td>
 <td>2.0%</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Garlic salt; Onion salt</td>
 <td>(4)</td>
 <td>2.0% in accordance with the requirement of paragraphs B.07.020(b) and B.07.027(b) respectively</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(5)</td>
 <td>Unstandardized dry mixes</td>
 <td>(5)</td>
@@ -17717,7 +17728,7 @@ No.
 </tr>
 </table>
 
->  SOR/79-662, ss. 3 to 13; SOR/82-913, s. 4; SOR/83-410, s. 2; SOR/84-17, s. 5; SOR/84-801, s. 2; SOR/86-1125, s. 1; SOR/88-534, s. 4; SOR/91-88, ss. 3, 4; SOR/93-477, ss. 3 to 5; SOR/94-689, s. 2(F); SOR/97-191, s. 3..
+> SOR/79-662, ss. 3 to 13; SOR/82-913, s. 4; SOR/83-410, s. 2; SOR/84-17, s. 5; SOR/84-801, s. 2; SOR/86-1125, s. 1; SOR/88-534, s. 4; SOR/91-88, ss. 3, 4; SOR/93-477, ss. 3 to 5; SOR/94-689, s. 2(F); SOR/97-191, s. 3..
 
 
 
@@ -17731,17 +17742,10 @@ No.
 <th>Column III</th>
 </tr>
 <tr>
-<th>Item
-
-No.
-
-</th>
+<th>Item No.</th>
 <th>Additive</th>
 <th>Permitted in or Upon</th>
 <th>Maximum Level of Use</th>
-</tr>
-<tr>
-<th> </th>
 </tr>
 <tr>
 <td>A.1</td>
@@ -17752,6 +17756,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Unstandardized bakery foods</td>
 <td>(2)</td>
@@ -17759,9 +17765,7 @@ No.
 </tr>
 <tr>
 <td>A.1A</td>
-<td>[Repealed, SOR/79-660, s. 3]
-
-</td>
+<td>[Repealed, SOR/79-660, s. 3]</td>
 </tr>
 <tr>
 <td>A.2</td>
@@ -17772,6 +17776,7 @@ No.
 <td>250 p.p.m.</td>
 </tr>
 <tr>
+<td></td>
 <td>Persulphate</td>
 <td>(2)</td>
 <td>Bread</td>
@@ -17779,6 +17784,7 @@ No.
 <td>100 p.p.m. of flour</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(3)</td>
 <td>Unstandardized bakery foods</td>
@@ -17795,6 +17801,7 @@ No.
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Unstandardized bakery foods</td>
 <td>(2)</td>
@@ -17802,15 +17809,11 @@ No.
 </tr>
 <tr>
 <td>A.3</td>
-<td>[Repealed, SOR/79-660, s. 4]
-
-</td>
+<td>[Repealed, SOR/79-660, s. 4]</td>
 </tr>
 <tr>
 <td>A.3A</td>
-<td>[Repealed, SOR/79-660, s. 4]
-
-</td>
+<td>[Repealed, SOR/79-660, s. 4]</td>
 </tr>
 <tr>
 <td>A.4</td>
@@ -17838,6 +17841,7 @@ No.
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Unstandardized bakery foods</td>
 <td>(2)</td>
@@ -17853,6 +17857,7 @@ No.
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Unstandardized bakery foods</td>
 <td>(2)</td>
@@ -17867,6 +17872,7 @@ No.
 <td>3,750 p.p.m. of flour</td>
 </tr>
 <tr>
+<td></td>
 <td>Lactylate</td>
 <td>(2)</td>
 <td>Unstandardized bakery foods</td>
@@ -17874,6 +17880,7 @@ No.
 <td>3,750 p.p.m. of flour</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(3)</td>
 <td>Cake mixes</td>
@@ -17906,6 +17913,7 @@ No.
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Unstandardized bakery foods</td>
 <td>(2)</td>
@@ -17913,9 +17921,7 @@ No.
 </tr>
 <tr>
 <td>P.1</td>
-<td>[Repealed, SOR/94-227, s. 4]
-
-</td>
+<td>[Repealed, SOR/94-227, s. 4]</td>
 </tr>
 <tr>
 <td>P.2</td>
@@ -17926,6 +17932,7 @@ No.
 <td>45 p.p.m. of flour</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(2)</td>
 <td>Unstandardized bakery foods</td>
@@ -17941,6 +17948,7 @@ No.
 <td>100 p.p.m. of flour</td>
 </tr>
 <tr>
+<td></td>
 <td>(2)</td>
 <td>Unstandardized bakery foods</td>
 <td>(2)</td>
@@ -17955,6 +17963,7 @@ No.
 <td>3,750 p.p.m. of flour</td>
 </tr>
 <tr>
+<td></td>
 <td>Stearoyl-2-</td>
 <td>(2)</td>
 <td>Unstandardized bakery foods</td>
@@ -17962,6 +17971,7 @@ No.
 <td>3,750 p.p.m. of flour</td>
 </tr>
 <tr>
+<td></td>
 <td>Lactylate</td>
 <td>(3)</td>
 <td>Pancakes and pancake mixes</td>
@@ -17970,12 +17980,14 @@ No.
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(4)</td>
 <td>Waffles and waffle mixes</td>
 <td>(4)</td>
 <td>0.3% of dry ingredient weight</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(5)</td>
 <td>Cake mixes</td>
@@ -17991,6 +18003,7 @@ No.
 <td>5,000 p.p.m. of flour</td>
 </tr>
 <tr>
+<td></td>
 <td>Stearyl Fumarate</td>
 <td>(2)</td>
 <td>Unstandardized bakery foods</td>
@@ -18007,7 +18020,7 @@ No.
 </tr>
 </table>
 
->  SOR/79-660, ss. 3, 4; SOR/87-640, s. 6; SOR/92-591, s. 2; SOR/94-227, s. 4; SOR/94-689, s. 2(F); SOR/2005-98, ss. 3, 8(F)..
+> SOR/79-660, ss. 3, 4; SOR/87-640, s. 6; SOR/92-591, s. 2; SOR/94-227, s. 4; SOR/94-689, s. 2(F); SOR/2005-98, ss. 3, 8(F)..
 
 
 
@@ -18021,63 +18034,14 @@ No.
 <th>Column III</th>
 </tr>
 <tr>
-<th>Item
-
-No.
-
-</th>
+<th>Item No.</th>
 <th>Additive</th>
 <th>Permitted in or Upon</th>
 <th>Maximum Level of Use</th>
 </tr>
 <tr>
-<th> </th>
-</tr>
-<tr>
 <td>1</td>
-<td>Aluminum Metal
-
-Alkanet
-
-Annatto
-
-Anthocyanins
-
-Beet Red
-
-Canthaxanthin
-
-Carbon Black
-
-Carotene
-
-Charcoal
-
-Chlorophyll
-
-Cochineal
-
-Iron Oxide
-
-Orchil
-
-Paprika
-
-Riboflavin
-
-Saffron
-
-Saunderswood
-
-Silver Metal
-
-Titanium Dioxide
-
-Turmeric
-
-Xanthophyll
-
-</td>
+<td>Aluminum Metal</td>
 <td>(1)</td>
 <td>Apple (or rhubarb) and (naming the fruit) jam; Bread; Butter; Concentrated fruit juice except frozen concentrated orange juice; Fig marmalade with pectin: Ice cream mix; Ice milk mix; Icing sugar; (naming the fruit) jam with pectin; (naming the fruit) jelly with pectin; Liqueurs and alcoholic cordials; (naming the flavour) milk; Pickles and relishes; Pineapple marmalade with pectin; Sherbet; (naming the flavour) skim milk; (naming the flavour) partly skimmed milk; (naming the flavour) skim milk with added milk solids; (naming the flavour) partly skimmed milk with added milk solids; Smoked fish; Lobster paste and fish roe (caviar); Tomato catsup; Marinated or similar cold-processed packaged fish and meat (Division 21)</td>
 <td>(1)</td>
@@ -18085,6 +18049,105 @@ Xanthophyll
 </tr>
 <tr>
 <td></td>
+<td>Alkanet</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Annatto</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Anthocyanins</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Beet Red</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Canthaxanthin</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Carbon Black</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Carotene</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Charcoal</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Chlorophyll</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Cochineal</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Iron Oxide</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Orchil</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Paprika</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Riboflavin</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Saffron</td>
 <td>(2)</td>
 <td>Liquid, dried or frozen whole egg; Liquid, dried or frozen egg yolk</td>
 <td>(2)</td>
@@ -18092,6 +18155,19 @@ Xanthophyll
 </tr>
 <tr>
 <td></td>
+<td>Saunderswood</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Silver Metal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Titanium Dioxide</td>
 <td>(3)</td>
 <td>Unstandardized foods</td>
 <td>(3)</td>
@@ -18099,12 +18175,20 @@ Xanthophyll
 </tr>
 <tr>
 <td></td>
+<td>Turmeric</td>
 <td>(4)</td>
 <td>Vegetable fats and oils</td>
 <td>(4)</td>
 <td>Good Manufacturing Practice in accordance with section B.09.001</td>
 </tr>
 <tr>
+<td></td>
+<td>Xanthophyll</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
 <td></td>
 <td>(5)</td>
 <td>Margarine</td>
@@ -18113,12 +18197,14 @@ Xanthophyll
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(6)</td>
 <td>(named variety) Cheese; Cheddar cheese; Cream cheese with (named added ingredients); Cream cheese spread; Cream cheese spread with (named added ingredients); Processed (named variety) cheese; Processed (named variety) cheese with (named added ingredients); Processed cheese food; Processed cheese food with (named added ingredients); Processed cheese spread; Processed cheese spread with (named added ingredients); Cold-pack (named variety) cheese; Cold-pack (named variety) cheese with (named added ingredients); Cold-pack cheese food; Cold-pack cheese food with (named added ingredients)</td>
 <td>(6)</td>
 <td>Good Manufacturing Practice in accordance with the requirements of sections B.08.033, B.08.034, B.08.037, B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3, B.08.041.4, B.08.041.5, B.08.041.6, B.08.041.7 and B.08.041.8.</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(7)</td>
 <td>A blend of prepared fish and prepared meat referred to in paragraph B.21.006(n)</td>
@@ -18127,12 +18213,14 @@ Xanthophyll
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(8)</td>
 <td>Longaniza; Tocino</td>
 <td>(8)</td>
 <td>0.1% in accordance with the requirements of paragraph B.14.031(i) or subparagraph B.14.032(d)(xvi)</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(9)</td>
 <td>Edible collagen film (iron oxide only)</td>
@@ -18141,12 +18229,14 @@ Xanthophyll
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(10)</td>
 <td>Sausage casings (annatto only)</td>
 <td>(10)</td>
 <td>1.0% (Residues of annatto in sausage prepared with such casings not to exceed 100 p.p.m.)</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(11)</td>
 <td>Sausage casings (cochineal only)</td>
@@ -18219,21 +18309,32 @@ Xanthophyll
 </tr>
 <tr>
 <td>3</td>
-<td>Allura Red Amaranth
-
-Erythrosine Indigotine
-
-Sunset Yellow FCF
-
-Tartrazine
-
-</td>
+<td>Allura Red Amaranth</td>
 <td>(1)</td>
 <td>Apple (or rhubarb) and (naming the fruit) jam; Bread; Butter; Concentrated fruit juice except frozen concentrated orange juice; Fig marmalade with pectin; Ice cream mix; Ice milk mix; Icing sugar; (naming the fruit) jam with pectin; (naming the  fruit) jelly with pectin; Liqueurs and alcoholic cordials; (naming the flavour) milk; Pickles and relishes; Pineapple marmalade with pectin; Sherbet; (naming the flavour) skim milk; (naming the flavour) partly skimmed milk; (naming the flavour) skim milk with added milk solids; (naming the flavour) partly skimmed milk with added milk solids; Smoked fish; Lobster paste and fish roe (caviar); Tomato catsup</td>
 <td>(1)</td>
 <td>300 p.p.m. singly or in combination in accordance with section B.06.002</td>
 </tr>
 <tr>
+<td></td>
+<td>Erythrosine Indigotine</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Sunset Yellow FCF</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Tartrazine</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
 <td></td>
 <td>(2)</td>
 <td>Unstandardized foods</td>
@@ -18242,12 +18343,14 @@ Tartrazine
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(3)</td>
 <td>A blend of prepared fish and prepared meat referred to in paragraph B.21.006(n)</td>
 <td>(3)</td>
 <td>300 p.p.m. singly or in combination in accordance with section B.26.002</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(4)</td>
 <td>Salted anchovy, salted scad and salted shrimp</td>
@@ -18256,12 +18359,14 @@ Tartrazine
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(5)</td>
 <td>Longaniza</td>
 <td>(5)</td>
 <td>80 p.p.m. allura red in accordance with the requirements of clause B.14.032(d)(xvi)(B) and 20 p.p.m. sunset yellow FCF in accordance with the requirements of clause B.14.032(d)(xvi)(C)</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(6)</td>
 <td>Sausage casings (sunset yellow FCF only)</td>
@@ -18278,15 +18383,17 @@ Tartrazine
 </tr>
 <tr>
 <td>4</td>
-<td>Brilliant Blue FCF
-
-Fast Green FCF
-
-</td>
+<td>Brilliant Blue FCF</td>
 <td>(1)</td>
 <td>Apple (or rhubarb) and (naming the fruit) jam; Bread; Butter; Concentrated fruit juice except frozen concentrated orange juice; Fig marmalade with pectin; Ice cream mix; Ice milk mix; Icing sugar; (naming the fruit) jam with pectin; (naming the  fruit) jelly with pectin; Liqueurs and alcoholic cordials; (naming the flavour) milk; Pickles and relishes; Pineapple marmalade with pectin; Sherbet; (naming the flavour) skim milk; (naming the flavour) partly skimmed milk; (naming the flavour) skim milk with added milk solids; (naming the flavour) partly skimmed milk with added milk solids; Smoked fish; Lobster paste and fish roe (caviar); Tomato catsup</td>
 <td>(1)</td>
 <td>100 p.p.m. singly or in combination in accordance with section B.06.002</td>
+</tr>
+<tr>
+<td></td>
+<td>Fast Green FCF</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -18338,7 +18445,7 @@ Fast Green FCF
 </tr>
 </table>
 
->  SOR/79-752, s. 5; SOR/80-500, s. 6; SOR/82-596, s. 3; SOR/84-440, s. 4; SOR/84-602, s. 1; SOR/89-198, ss. 6 to 10; SOR/92-725, s. 5; SOR/93-466, s. 2; SOR/94-689, s. 2(F); SOR/95-434, s. 1; SOR/95-493, s. 1; SOR/97-516, s. 4; SOR/98-580, s. 1(F); SOR/99-96, s. 1; SOR/2000-50, s. 1; SOR/2000-146, ss. 1 to 3; SOR/2007-75, s. 3..
+> SOR/79-752, s. 5; SOR/80-500, s. 6; SOR/82-596, s. 3; SOR/84-440, s. 4; SOR/84-602, s. 1; SOR/89-198, ss. 6 to 10; SOR/92-725, s. 5; SOR/93-466, s. 2; SOR/94-689, s. 2(F); SOR/95-434, s. 1; SOR/95-493, s. 1; SOR/97-516, s. 4; SOR/98-580, s. 1(F); SOR/99-96, s. 1; SOR/2000-50, s. 1; SOR/2000-146, ss. 1 to 3; SOR/2007-75, s. 3..
 
 
 
@@ -18352,17 +18459,10 @@ Fast Green FCF
 <th>Column III</th>
 </tr>
 <tr>
-<th>Item
-
-No.
-
-</th>
+<th>Item No.</th>
 <th>Additive</th>
 <th>Permitted in or Upon</th>
 <th>Maximum Level of Use</th>
-</tr>
-<tr>
-<th> </th>
 </tr>
 <tr>
 <td>A.1</td>
@@ -18374,12 +18474,14 @@ No.
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Ice cream; Ice cream mix; Ice milk; Ice milk mix</td>
 <td>(2)</td>
 <td>0.5%</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(3)</td>
 <td>Sherbet</td>
@@ -18603,12 +18705,14 @@ No.
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Ice Cream; Ice cream mix; Ice milk; Ice milk mix</td>
 <td>(2)</td>
 <td>0.5%</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(3)</td>
 <td>Sherbet</td>
@@ -18617,12 +18721,14 @@ No.
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(4)</td>
 <td>Unstandardized foods</td>
 <td>(4)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(5)</td>
 <td>Chocolate products; Cocoa products</td>
@@ -18639,15 +18745,14 @@ No.
 </tr>
 <tr>
 <td>B.1</td>
-<td>Baker’s yeast
-
-Glycan
-
-</td>
+<td>Baker’s yeast</td>
 <td></td>
 <td>Unstandardized foods</td>
 <td></td>
 <td>Good Manufacturing Practice</td>
+</tr>
+<tr>
+<td>Glycan</td>
 </tr>
 <tr>
 <td>C.1</td>
@@ -18666,6 +18771,7 @@ Glycan
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(2)</td>
 <td>A blend of prepared fish and prepared meat referred to in paragraph B.21.006(n)</td>
@@ -19265,6 +19371,7 @@ Glycan
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Unstandardized foods</td>
 <td>(2)</td>
@@ -19287,6 +19394,7 @@ Glycan
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(2)</td>
 <td>Cottage cheese; Creamed cottage cheese; Ice cream; Ice cream mix; Ice milk; Ice milk mix</td>
@@ -19326,6 +19434,7 @@ Glycan
 <td>8.0% (except that the total combined mono- and di-glycerides and lactylated mono- and di-glycerides must not exceed 20.0% of the shortening)</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(2)</td>
 <td>Unstandardized foods</td>
@@ -19446,6 +19555,7 @@ Glycan
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Unstandardized foods</td>
 <td>(2)</td>
@@ -19469,12 +19579,14 @@ Glycan
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Chocolate products; Cocoa products</td>
 <td>(2)</td>
 <td>1.5%</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(3)</td>
 <td>Ice cream mix; Ice milk mix</td>
@@ -19555,7 +19667,7 @@ Glycan
 </tr>
 <tr>
 <td>M.5</td>
-<td>Mono- and </td>
+<td>Mono- and Di-glycerides</td>
 <td>(1)</td>
 <td>Bread; Cream; Fish paste</td>
 <td>(1)</td>
@@ -19563,7 +19675,6 @@ Glycan
 </tr>
 <tr>
 <td></td>
-<td>Di-glycerides</td>
 <td>(2)</td>
 <td>Chocolate products; Cocoa products</td>
 <td>(2)</td>
@@ -19722,6 +19833,7 @@ Glycan
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(3)</td>
 <td>Calorie-reduced margarine</td>
 <td>(3)</td>
@@ -19745,6 +19857,7 @@ Glycan
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(3)</td>
 <td>Edible vegetable oil-based pan coating emulsions for use on baking pans</td>
 <td>(3)</td>
@@ -19752,13 +19865,7 @@ Glycan
 </tr>
 <tr>
 <td>P.2</td>
-<td>Polyoxyethylene (20)
-
-Sorbitan Monooleate;
-
-Polysorbate 80
-
-</td>
+<td>Polyoxyethylene (20)</td>
 <td>(1)</td>
 <td>Ice cream; Ice cream mix; Ice milk; Ice milk mix; Sherbet</td>
 <td>(1)</td>
@@ -19766,13 +19873,20 @@ Polysorbate 80
 </tr>
 <tr>
 <td></td>
+<td>Sorbitan Monooleate;</td>
 <td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Polysorbate 80</td>
 <td>(2)</td>
 <td>Unstandardized frozen desserts</td>
 <td>(2)</td>
 <td>0.1%</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(3)</td>
 <td>Pickles and relishes</td>
@@ -19781,12 +19895,14 @@ Polysorbate 80
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(4)</td>
 <td>Beverage base or mix</td>
 <td>(4)</td>
 <td>0.05% of the beverage. If sorbitan monostearate is also used the total must not exceed 0.05% of the beverage</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(5)</td>
 <td>Imitation dry cream mix</td>
@@ -19907,19 +20023,26 @@ Polysorbate 80
 </tr>
 <tr>
 <td>P.3</td>
-<td>Polyoxyethylene (20)
-
-Sorbitan Monostearate;
-
-Polysorbate 60
-
-</td>
+<td>Polyoxyethylene (20)</td>
 <td>(1)</td>
 <td>Imitation dry cream mix; Vegetable oil creaming agent; Whipped vegetable oil topping; Vegetable oil topping mix</td>
 <td>(1)</td>
 <td>0.4%. If Polyoxyethylene (20) sorbitan tristearate, Sorbitan monostearate or Polyoxyethylene (20) sorbitan mono-oleate, either singly or in combination is also used, the total must not exceed 0.4%, except that in the case of whipped vegetable oil topping a combination of Polysorbate 60 and Sorbitan monostearate may be used in excess of 0.4%, if the amount of the Polysorbate 60 does not exceed 0.77% and the amount of Sorbitan monostearate does not exceed 0.27% of the whipped vegetable oil topping</td>
 </tr>
 <tr>
+<td></td>
+<td>Sorbitan Monostearate;</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Polysorbate 60</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
 <td></td>
 <td>(2)</td>
 <td>Cakes</td>
@@ -19928,12 +20051,14 @@ Polysorbate 60
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(3)</td>
 <td>Cakes; Cake mixes</td>
 <td>(3)</td>
 <td>0.5% on a dry weight basis. If Sorbitan monostearate is also used, the total must not exceed 0.7% on a dry weight basis</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(4)</td>
 <td>Unstandardized confectionery coatings and unstandardized moulded confectionery products for use as confectionery or in baking</td>
@@ -19942,12 +20067,14 @@ Polysorbate 60
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(5)</td>
 <td>Cake icing; Cake icing mix</td>
 <td>(5)</td>
 <td>0.5% of the finished cake icing. If Sorbitan monostearate or Polyoxyethylene (20) sorbitan mono-oleate either singly or in combination is also used, the total must not exceed 0.5% of the finished cake icing</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(6)</td>
 <td>Pudding; Pie filling</td>
@@ -19956,12 +20083,14 @@ Polysorbate 60
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(7)</td>
 <td>Beverage base or mix</td>
 <td>(7)</td>
 <td>0.05% of the beverage. If Sorbitan monostearate is also used the total must not exceed 0.05% of the beverage</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(8)</td>
 <td>Sour Cream Substitute</td>
@@ -19970,12 +20099,14 @@ Polysorbate 60
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(9)</td>
 <td>Unstandardized dressings; Unstandardized prepared canned cooking sauces</td>
 <td>(9)</td>
 <td>0.3%</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(10)</td>
 <td>Fat base formulation for self-basting of poultry by injection</td>
@@ -19984,12 +20115,14 @@ Polysorbate 60
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(11)</td>
 <td>Unstandardized sandwich spreads and dips</td>
 <td>(11)</td>
 <td>0.2%</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(12)</td>
 <td>Dry soup base or mix</td>
@@ -19998,12 +20131,14 @@ Polysorbate 60
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(13)</td>
 <td>Dry batter coating mixes</td>
 <td>(13)</td>
 <td>0.5% of the dry mix</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(14)</td>
 <td>Prepared alcoholic cocktails</td>
@@ -20012,19 +20147,28 @@ Polysorbate 60
 </tr>
 <tr>
 <td>P.4</td>
-<td>Polyoxyethylene (20)
-
-Sorbitan Tristearate;
-
-Polysorbate 65
-
-</td>
+<td>Polyoxyethylene (20)</td>
 <td>(1)</td>
 <td>(Naming the flavour) Milk; (naming the flavour) Skim milk; (naming the flavour) Partly skimmed milk; (naming the flavour) Skim milk with added milk solids; (naming the flavour) Partly skimmed milk with added milk solids</td>
 <td>(1)</td>
 <td>0.5%</td>
 </tr>
 <tr>
+<td></td>
+<td>Sorbitan Tristearate;</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Polysorbate 65</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
 <td></td>
 <td>(2)</td>
 <td>Ice cream; Ice cream mix; Ice milk; Ice milk mix; Sherbet</td>
@@ -20033,12 +20177,14 @@ Polysorbate 65
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(3)</td>
 <td>Unstandardized frozen desserts</td>
 <td>(3)</td>
 <td>0.1%</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(4)</td>
 <td>Cakes</td>
@@ -20047,12 +20193,14 @@ Polysorbate 65
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(5)</td>
 <td>Unstandardized confectionery coatings</td>
 <td>(5)</td>
 <td>0.5%. If any combination of Polyoxyethylene (20) sorbitan monostearate, Sorbitan monostearate, or Sorbitan tristearate are also used, the total must not exceed 1.0%</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(6)</td>
 <td>Beverage base or mix</td>
@@ -20061,12 +20209,14 @@ Polysorbate 65
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(7)</td>
 <td>Imitation dry cream mix; Vegetable oil creaming agent; Whipped vegetable oil topping; Vegetable oil topping mix</td>
 <td>(7)</td>
 <td>0.4%. If Polyoxyethylene (20) sorbitan monostearate, Sorbitan monostearate or Polyoxyethylene (20) sorbitan mono-oleate, either singly or in combination is also used, the total must not exceed 0.4%</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(8)</td>
 <td>Breath freshener products in candy, tablet or gum form</td>
@@ -20234,12 +20384,14 @@ Polysorbate 65
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Coarse crystal salt</td>
 <td>(2)</td>
 <td>15 p.p.m.</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(3)</td>
 <td>Glaze of frozen fish</td>
@@ -20264,12 +20416,14 @@ Polysorbate 65
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Cottage cheese; Creamed cottage cheese; Ice cream; Ice cream mix; Ice milk; Ice milk mix</td>
 <td>(2)</td>
 <td>0.5%</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(3)</td>
 <td>Sherbet</td>
@@ -20278,6 +20432,7 @@ Polysorbate 65
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(4)</td>
 <td>Unstandardized foods</td>
 <td>(4)</td>
@@ -20285,12 +20440,14 @@ Polysorbate 65
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(5)</td>
 <td>Glaze of frozen fish</td>
 <td>(5)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(6)</td>
 <td>Processed (named variety) cheese; Processed (named variety) cheese with (named added ingredients); Processed cheese food; Processed cheese food with (named added ingredients)</td>
@@ -20331,6 +20488,7 @@ Polysorbate 65
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Evaporated milk; evaporated skim milk or concentrated skim milk; evaporated partly skimmed milk or concentrated partly skimmed milk</td>
 <td>(2)</td>
@@ -20338,12 +20496,14 @@ Polysorbate 65
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(3)</td>
 <td>Ice cream; Ice cream mix; Ice milk; Ice milk mix</td>
 <td>(3)</td>
 <td>0.5%</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(4)</td>
 <td>Sherbet</td>
@@ -20383,12 +20543,14 @@ Polysorbate 65
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(3)</td>
 <td>Infant formula</td>
 <td>(3)</td>
 <td>0.05% as consumed</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(4)</td>
 <td>Sherbet</td>
@@ -20397,6 +20559,7 @@ Polysorbate 65
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(5)</td>
 <td>Unstandardized foods</td>
 <td>(5)</td>
@@ -20404,12 +20567,14 @@ Polysorbate 65
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(6)</td>
 <td>Cream cheese spread; Cream cheese spread with (named added ingredients); Processed (named variety) cheese; Processed (named variety) cheese with (named added ingredients); Processed cheese food; Processed cheese food with (named added ingredients); Processed cheese spread; Processed cheese spread with (named added ingredients)</td>
 <td>(6)</td>
 <td>3.5%, in accordance with the requirements of sections B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 and B.08.041.4</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(7)</td>
 <td>A blend of prepared fish and prepared meat referred to in paragraph B.21.006(n)</td>
@@ -20474,6 +20639,7 @@ Polysorbate 65
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Unstandardized foods</td>
 <td>(2)</td>
@@ -20488,6 +20654,7 @@ Polysorbate 65
 <td>3.5%, in accordance with the requirements of sections B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 and B.08.041.4</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(2)</td>
 <td>Unstandardized foods</td>
@@ -20504,6 +20671,7 @@ Polysorbate 65
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Unstandardized foods</td>
 <td>(2)</td>
@@ -20519,12 +20687,14 @@ Polysorbate 65
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Unstandardized foods</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(3)</td>
 <td>A blend of prepared fish and prepared meat referred to in paragraph B.21.006(n)</td>
@@ -20548,12 +20718,14 @@ Polysorbate 65
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(3)</td>
 <td>Puddings and pudding mixes</td>
 <td>(3)</td>
 <td>0.2% of the finished product</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(4)</td>
 <td>Sour cream substitutes</td>
@@ -20562,12 +20734,14 @@ Polysorbate 65
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(5)</td>
 <td>Vegetable oil creaming agents</td>
 <td>(5)</td>
 <td>2.0% of dry ingredient weight</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(6)</td>
 <td>Batter mix</td>
@@ -20576,6 +20750,7 @@ Polysorbate 65
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(7)</td>
 <td>Unstandardized cream-based liquors</td>
 <td>(7)</td>
@@ -20583,12 +20758,14 @@ Polysorbate 65
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(8)</td>
 <td>Salad dressing; French dressing</td>
 <td>(8)</td>
 <td>0.4% of the finished product</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(9)</td>
 <td>Soups</td>
@@ -20608,8 +20785,8 @@ Polysorbate 65
 <td>Sodium Tripolyphosphate</td>
 <td></td>
 <td>A blend of prepared fish and prepared meat referred to in paragraph B.21.006(n)</td>
-<td>0.1%</td>
 <td></td>
+<td>0.1%</td>
 </tr>
 <tr>
 <td>S.18</td>
@@ -20621,6 +20798,7 @@ Polysorbate 65
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Cake; Cake mix</td>
 <td>(2)</td>
@@ -20628,12 +20806,14 @@ Polysorbate 65
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(3)</td>
 <td>Unstandardized confectionery coatings and unstandardized moulded confectionery products for use as confectionery or in baking</td>
 <td>(3)</td>
 <td>1.0%. If any combination of Polyoxyethylene (20) sorbitan monostearate, Polyoxyethylene (20) sorbitan tristrearate or Sorbitan tristearate are also used, the total must not exceed 1.0%</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(4)</td>
 <td>Cake icing; Cake icing mix</td>
@@ -20698,6 +20878,7 @@ Polysorbate 65
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Unstandardized confectionery coatings and unstandardized moulded confectionery products for use as a confectionery or in baking</td>
 <td>(2)</td>
@@ -20705,12 +20886,14 @@ Polysorbate 65
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(3)</td>
 <td>Ice cream mix</td>
 <td>(3)</td>
 <td>0.035% of the ice cream made from the mix</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(4)</td>
 <td>Unstandardized frozen desserts</td>
@@ -20747,12 +20930,14 @@ Polysorbate 65
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Cottage cheese; Creamed cottage cheese; Ice cream; Ice cream mix; Ice milk; Ice milk mix</td>
 <td>(2)</td>
 <td>0.5%</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(3)</td>
 <td>Sherbet</td>
@@ -20761,12 +20946,14 @@ Polysorbate 65
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(4)</td>
 <td>Lumpfish Caviar</td>
 <td>(4)</td>
 <td>1.0%</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(5)</td>
 <td>Unstandardized foods</td>
@@ -20807,6 +20994,7 @@ Polysorbate 65
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Cottage Cheese; Creamed Cottage Cheese</td>
 <td>(2)</td>
@@ -20814,12 +21002,14 @@ Polysorbate 65
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(3)</td>
 <td>Calorie-reduced margarine</td>
 <td>(3)</td>
 <td>0.5% in accordance with the requirements of section B.09.017</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(4)</td>
 <td>Cream cheese; Cream cheese with (named added ingredients); Cream cheese spread; Cream cheese spread with (named added ingredients); Processed cheese spread; Processed cheese spread with (named added ingredients); Cold-pack (named variety) cheese with (named added ingredients); Cold-pack cheese food; Cold-pack cheese food with (named added ingredients)</td>
@@ -20868,7 +21058,7 @@ Polysorbate 65
 </tr>
 </table>
 
->  SOR/78-403, ss. 5(F) to 13(F), 14 to 16, 17(F) to 21(F), 22; SOR/78-656, ss. 14, 15; SOR/78-876, s. 2; SOR/79-660, ss. 5 to 10; SOR/79-752, s. 6; SOR/80-501, s. 4; SOR/81-60, ss. 7 to 10; SOR/81-565, ss. 4, 5; SOR/81-934, ss. 2 to 6; SOR/82-383, s. 9; SOR/82-1071, ss. 9 to 16; SOR/83-932, ss. 3, 4; SOR/84-300, s. 50(E); SOR/84-602, s. 2; SOR/84-801, s. 3; SOR/85-179, ss. 2 to 4; SOR/85-623, s. 3(E); SOR/88-99, s. 3; SOR/88-419, ss. 2, 3; SOR/90-87, s. 9; SOR/91-710, s. 1; SOR/92-64, s. 1; SOR/92-93, s. 2; SOR/92-344, s. 1; SOR/93-466, ss. 3, 4; SOR/94-38, s. 2; SOR/94-567, s. 2; SOR/94-689, s. 2(F); SOR/96-160, s. 2; SOR/96-376, s. 1; SOR/96-497, s. 1; SOR/96-499, s. 1; SOR/97-29, s. 1; SOR/97-263, ss. 4 to 10; SOR/98-580, s. 1(F); SOR/2000-353, s. 7(F); SOR/2005-316, s. 1; SOR/2005-395, ss. 1 to 4, 5(F); SOR/2006-91, ss. 4, 5; SOR/2007-75, ss. 4 to 6; SOR/2007-76, ss. 1, 2..
+> SOR/78-403, ss. 5(F) to 13(F), 14 to 16, 17(F) to 21(F), 22; SOR/78-656, ss. 14, 15; SOR/78-876, s. 2; SOR/79-660, ss. 5 to 10; SOR/79-752, s. 6; SOR/80-501, s. 4; SOR/81-60, ss. 7 to 10; SOR/81-565, ss. 4, 5; SOR/81-934, ss. 2 to 6; SOR/82-383, s. 9; SOR/82-1071, ss. 9 to 16; SOR/83-932, ss. 3, 4; SOR/84-300, s. 50(E); SOR/84-602, s. 2; SOR/84-801, s. 3; SOR/85-179, ss. 2 to 4; SOR/85-623, s. 3(E); SOR/88-99, s. 3; SOR/88-419, ss. 2, 3; SOR/90-87, s. 9; SOR/91-710, s. 1; SOR/92-64, s. 1; SOR/92-93, s. 2; SOR/92-344, s. 1; SOR/93-466, ss. 3, 4; SOR/94-38, s. 2; SOR/94-567, s. 2; SOR/94-689, s. 2(F); SOR/96-160, s. 2; SOR/96-376, s. 1; SOR/96-497, s. 1; SOR/96-499, s. 1; SOR/97-29, s. 1; SOR/97-263, ss. 4 to 10; SOR/98-580, s. 1(F); SOR/2000-353, s. 7(F); SOR/2005-316, s. 1; SOR/2005-395, ss. 1 to 4, 5(F); SOR/2006-91, ss. 4, 5; SOR/2007-75, ss. 4 to 6; SOR/2007-76, ss. 1, 2..
 
 
 
@@ -20883,21 +21073,11 @@ Polysorbate 65
 <th>Column IV</th>
 </tr>
 <tr>
-<th>Item</th>
-<th></th>
-<th>Permitted</th>
-<th>Permitted</th>
-<th>Maximum</th>
-</tr>
-<tr>
-<th>No</th>
+<th>Item No.</th>
 <th>Additive</th>
-<th>Source</th>
-<th>in or Upon</th>
-<th>Level of Use</th>
-</tr>
-<tr>
-<th> </th>
+<th>Permitted Source</th>
+<th>Permitted in or Upon</th>
+<th>Maximum Level of Use</th>
 </tr>
 <tr>
 <td>A.01</td>
@@ -20911,6 +21091,7 @@ Polysorbate 65
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
 <td>(2)</td>
 <td>Distillers’ Mash</td>
 <td>(2)</td>
@@ -20926,12 +21107,18 @@ Polysorbate 65
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Dairy based flavouring preparations</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Hydrolyzed animal, milk and vegetable protein</td>
 <td>(3)</td>
@@ -20947,60 +21134,86 @@ Polysorbate 65
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Bread; Flour; Whole wheat flour</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Cider; Wine</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Chocolate syrups</td>
 <td>(4)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(5)</td>
 <td>Distillers’ Mash</td>
 <td>(5)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(6)</td>
 <td>Malt-flavoured dry breakfast cereals</td>
 <td>(6)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(7)</td>
 <td>Single-strength fruit juices</td>
 <td>(7)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(8)</td>
 <td>Precooked (instant) cereals</td>
 <td>(8)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(9)</td>
 <td>Starch used in the production of dextrins, maltose, dextrose, glucose (glucose syrup) or glucose solids (dried glucose syrup)</td>
 <td>(9)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(10)</td>
 <td>Unstandardized bakery products</td>
 <td>(10)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>*Aspergillus niger* STz18-9 (pHUda7)</td>
 <td>(1)</td>
 <td>Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
@@ -21008,18 +21221,26 @@ Polysorbate 65
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Distillers’ Mash</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Starch used in the production of dextrins, dextrose, glucose (glucose syrup) or glucose solids (dried glucose syrup), maltose</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>*Bacillus amyloliquefaciens* EBA 20 (pUBH2); *Bacillus licheniformis*; *Bacillus licheniformis* BML 592 (pAmyAmp); *Bacillus licheniformis* BML 730 (pAmyAmp); *Bacillus licheniformis* LA 57 (pDN1981); *Bacillus licheniformis* LAT8 (pLAT3); *Bacillus licheniformis* LiH 1159 (pLiH1108); *Bacillus licheniformis* LiH 1464 (pLiH1346); *Bacillus licheniformis* PL 1303 (pPL1117)</td>
 <td>(1)</td>
 <td>Distillers’ Mash</td>
@@ -21027,49 +21248,69 @@ Polysorbate 65
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Starch used in the production of dextrins, maltose, dextrose, glucose (glucose syrup) or glucose solids (dried glucose syrup)</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Brewers’ mash</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>*Bacillus stearothermophilus*</td>
 <td>(1)</td>
 <td>Starch used in the production of dextrins, maltose, dextrose, glucose (glucose syrup) or glucose solids (dried glucose syrup)</td>
-<td></td>
-<td></td>
+<td>(1)</td>
+<td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Distillers’ Mash</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Brewers’ Mash</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Bread; Flour; Whole wheat flour</td>
 <td>(4)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(5)</td>
 <td>Unstandardized bakery products</td>
 <td>(5)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>*Bacillus subtilis* B1.109 (pCPC720) (ATCC 39, 705)</td>
 <td>(1)</td>
 <td>Starch used in the production of dextrins, maltose, dextrose, glucose (glucose syrup) or glucose solids (dried glucose syrup)</td>
@@ -21077,6 +21318,8 @@ Polysorbate 65
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>*Bacillus subtilis* B1.109 (pCPC800)</td>
 <td>(1)</td>
 <td>Starch used in the production of dextrins, maltose, dextrose, glucose (glucose syrup) or glucose solids (dried glucose syrup)</td>
@@ -21084,18 +21327,27 @@ Polysorbate 65
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Distillers’ Mash</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Brewers’ Mash</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Bakery Products</td>
 <td>(4)</td>
@@ -21111,12 +21363,18 @@ Polysorbate 65
 <td>Good manufacturing practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Bread; Flour; Whole wheat flour</td>
 <td>(2)</td>
 <td>Good manufacturing practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Unstandardized bakery products</td>
 <td>(3)</td>
@@ -21141,42 +21399,62 @@ Polysorbate 65
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Bread; Flour; Whole wheat flour</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Sausage casings</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Hydrolyzed animal, milk and vegetable protein</td>
 <td>(4)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(5)</td>
 <td>Meat cuts</td>
 <td>(5)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(6)</td>
 <td>Meat tenderizing preparations</td>
 <td>(6)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(7)</td>
 <td>Pumping pickle for the curing of beef cuts</td>
 <td>(7)</td>
 <td>Good Manufacturing Practice in accordance with paragraph B.14.009(g)</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(8)</td>
 <td>Sugar wafers, waffles, pancakes</td>
 <td>(8)</td>
@@ -21192,12 +21470,16 @@ Polysorbate 65
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Egg albumen</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Liquid whey treated with hydrogen peroxide in accordance with item H.1, Table VIII</td>
 <td>(3)</td>
@@ -21213,18 +21495,25 @@ Polysorbate 65
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Liquid coffee concentrate</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Spice extracts; Natural flavour and colour extractives</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>*Trichoderma reesei* QM 9414</td>
 <td>(1)</td>
 <td>Single-strength fruit juices</td>
@@ -21232,6 +21521,8 @@ Polysorbate 65
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Tea leaves for the production of tea solids</td>
 <td>(2)</td>
@@ -21249,22 +21540,29 @@ Polysorbate 65
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Unstandardized milk-based dessert preparations</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
 <td>**(ii)** Chymosin B
 
 </td>
-<td>*Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR); *Kluyvero-myces marxianus * var. *lactis*, DS1182 (pKS105)</td>
+<td>*Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR); *Kluyvero-myces marxianus* var. *lactis*, DS1182 (pKS105)</td>
 <td>(1)</td>
 <td>Cheddar cheese; (naming the variety) cheese; Cottage cheese; Cream cheese; Cream cheese with (naming the added ingredients); Cream cheese spread; Cream cheese spread with (naming the added ingredients); Sour cream</td>
 <td>(1)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Unstandardized milk-based dessert preparations</td>
 <td>(2)</td>
@@ -21280,30 +21578,44 @@ Polysorbate 65
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Sausage casings</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Hydrolyzed animal, milk and vegetable protein</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Meat cuts</td>
 <td>(4)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(5)</td>
 <td>Meat tenderizing preparations</td>
 <td>(5)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(6)</td>
 <td>Pumping pickle for the curing of beef cuts</td>
 <td>(6)</td>
@@ -21319,42 +21631,59 @@ Polysorbate 65
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
 <td>(2)</td>
 <td>Bread; Flour; Whole wheat flour</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Chocolate syrups</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Distillers’ Mash</td>
 <td>(4)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(5)</td>
 <td>Precooked (instant) cereals</td>
 <td>(5)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(6)</td>
 <td>Starch used in the production of dextrins, maltose, dextrose, glucose (glucose syrup), or glucose solids (dried glucose syrup)</td>
 <td>(6)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(7)</td>
 <td>Unstandardized bakery products</td>
 <td>(7)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>*Aspergillus niger* STz18-9 (pHUda7)</td>
 <td>(1)</td>
 <td>Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
@@ -21362,18 +21691,25 @@ Polysorbate 65
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Distillers’ Mash</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Starch used in the production of dextrins, dextrose, glucose (glucose syrup) or glucose solids (dried glucose syrup), maltose</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>*Rhizopus niveus* var.</td>
 <td>(1)</td>
 <td>Distillers’ Mash</td>
@@ -21381,12 +21717,16 @@ Polysorbate 65
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Mash destined for vinegar manufacture</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>*Rhizopus delemar* var.; *Multiplici sporus*</td>
 <td>(1)</td>
 <td>Brewers’ Mash</td>
@@ -21394,18 +21734,26 @@ Polysorbate 65
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Distillers’ Mash</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Mash destined for vinegar manufacture</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Starch used in the production of dextrins, maltose, dextrose, glucose (glucose syrup), or glucose solids (dried glucose syrup)</td>
 <td>(4)</td>
@@ -21421,30 +21769,43 @@ Polysorbate 65
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Corn for degermination</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Distillers’ Mash</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Mash destined for vinegar manufacture</td>
 <td>(4)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(5)</td>
 <td>Unstandardized bakery products</td>
 <td>(5)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>*Humicola insolens* var.</td>
 <td>(1)</td>
 <td>Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
@@ -21452,6 +21813,9 @@ Polysorbate 65
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Distillers’ Mash</td>
 <td>(2)</td>
@@ -21467,18 +21831,27 @@ Polysorbate 65
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Liquid whole egg; Egg white (albumen); and Liquid egg yolk destined for drying</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice in accordance with paragraphs B.22.034(b), B.22.035(b) and B.22.036(b)</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Bread; flour; Whole wheat flour</td>
 <td>(3)</td>
 <td>Good manufacturing practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Unstandardized bakery products</td>
 <td>(4)</td>
@@ -21503,12 +21876,18 @@ Polysorbate 65
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Liquid coffee concentrate</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Mash destined for vinegar manufacture</td>
 <td>(3)</td>
@@ -21533,6 +21912,9 @@ Polysorbate 65
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Unstandardized bakery foods</td>
 <td>(2)</td>
@@ -21548,24 +21930,32 @@ Polysorbate 65
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Milk destined for use in ice cream mix</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Bread; Flour; whole wheat flour</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>(naming the flavour) milk; (naming the flavour) skim milk; (naming the flavour) partly skimmed milk; (naming the flavour) malted milk; (naming the flavour) skimmed milk with added milk solids; (naming the flavour) partly skimmed milk with added milk solids</td>
 <td>(4)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>Cell-free extracts from *Candida pseudotropicalis*</td>
 <td>(1)</td>
 <td>Milk destined for use in ice cream mix</td>
@@ -21573,18 +21963,26 @@ Polysorbate 65
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Yogurt</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Whey</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>(naming the flavour) milk; (naming the flavour) skim milk; (naming the flavour) partly skimmed milk; (naming the flavour) malted milk; (naming the flavour) skim milk with added milk solids; (naming the flavour) partly skimmed milk with added milk solids</td>
 <td>(4)</td>
@@ -21600,36 +21998,51 @@ Polysorbate 65
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Liquid and dried egg white (liquid and dried albumen)</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Asiago cheese; Blue cheese; Caciocavallo cheese; Cheddar cheese; Cheddar for processing (Cheddar cheese; stirred curd cheese; granular curd cheese; washed curd cheese); Feta cheese; Parmesan cheese; Provolone cheese; Romano cheese</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Bread; Flour; Whole wheat flour</td>
 <td>(4)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(5)</td>
 <td>Unstandardized bakery products</td>
 <td>(5)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(6)</td>
 <td>Hydrolyzed animal, milk and vegetable protein</td>
 <td>(6)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>*Aspergillus oryzae* (MLT-2) (pRML 787) (p3SR2); *Rhizomucor miehei* (Cooney and Emerson) (previous name: *Mucor miehei* (*Cooney and Emerson*)); *Rhizopus niveus*</td>
 <td>(1)</td>
 <td>Modified fats and oils</td>
@@ -21637,24 +22050,32 @@ Polysorbate 65
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Cheese</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Dairy based flavouring preparations</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Hydrolyzed animal, milk and vegetable protein</td>
 <td>(4)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>*Penicillium camembertii*</td>
 <td>(1)</td>
 <td>Edible fats and oils</td>
@@ -21689,18 +22110,24 @@ Polysorbate 65
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Dairy based flavouring preparations</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Hydrolyzed animal, milk and vegetable protein</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>*Endothia parasitica* by pure culture fermentation processes</td>
 <td>(1)</td>
 <td>Emmentaler (Emmental, Swiss) Cheese</td>
@@ -21708,24 +22135,35 @@ Polysorbate 65
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Parmesan Cheese</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Romano Cheese</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Mozzarella (Scamorza) Cheese</td>
 <td>(4)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(5)</td>
 <td>Part Skim Mozzarella (Part Skim Scamorza) Cheese</td>
 <td>(5)</td>
@@ -21741,18 +22179,25 @@ Polysorbate 65
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Precooked (instant) cereals</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Starch used in the production of dextrins, maltose, dextrose, glucose (glucose syrup), or glucose solids (dried glucose syrup)</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Hydrolyzed animal, milk and vegetable proteins</td>
 <td>(4)</td>
@@ -21768,48 +22213,70 @@ Polysorbate 65
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Beef before slaughter</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Sausage casings; Water-soluble edible collagen films</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Hydrolyzed animal, milk and vegetable protein</td>
 <td>(4)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(5)</td>
 <td>Meat cuts</td>
 <td>(5)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(6)</td>
 <td>Meat tenderizing preparations</td>
 <td>(6)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(7)</td>
 <td>Precooked (instant) cereals</td>
 <td>(7)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(8)</td>
 <td>Pumping pickle for the curing of beef cuts</td>
 <td>(8)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(9)</td>
 <td>Unstandardized bakery products</td>
 <td>(9)</td>
@@ -21825,42 +22292,61 @@ Polysorbate 65
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Distillers’ Mash</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Single-strength fruit juices</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Natural flavour and colour extractives</td>
 <td>(4)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(5)</td>
 <td>Skins of citrus fruits destined for jam, marmalade and candied fruit production</td>
 <td>(5)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(6)</td>
 <td>Vegetable stock for use in soups</td>
 <td>(6)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(7)</td>
 <td>Tea leaves for the production of tea solids</td>
 <td>(7)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>*Aspergillus oryzae* Km-1-1 (pA2PEI)</td>
 <td>(1)</td>
 <td>Cider; Wine</td>
@@ -21869,12 +22355,15 @@ Polysorbate 65
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Single-strength fruit juices</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td></td>
 <td>(3)</td>
 <td>Unstandardized fruit and vegetable products</td>
@@ -21891,36 +22380,52 @@ Polysorbate 65
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Corn for degermination</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Distillers’ Mash</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Mash destined for vinegar manufacture</td>
 <td>(4)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(5)</td>
 <td>Unstandardized bakery products</td>
 <td>(5)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(6)</td>
 <td>Bread; Flour; Whole wheat flour</td>
 <td>(6)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>*Trichoderma reesei* (QM9414)</td>
 <td>(1)</td>
 <td>Bread; Flour; Whole wheat flour</td>
@@ -21928,12 +22433,18 @@ Polysorbate 65
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Distiller’s Mash</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Unstandardized bakery products</td>
 <td>(3)</td>
@@ -21949,24 +22460,36 @@ Polysorbate 65
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Cheese; Cottage cheese; Cream cheese; Cream cheese with (added named ingredients); Cream cheese spread; Cream cheese spread with (added named ingredients)</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Defatted soya flour</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Precooked (instant) cereals</td>
 <td>(4)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(5)</td>
 <td>Hydrolyzed animal, milk and vegetable proteins</td>
 <td>(5)</td>
@@ -21982,84 +22505,104 @@ Polysorbate 65
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
-<td>Bread; Flour;</td>
+<td>Bread; Flour; Whole wheat flour</td>
 <td>(2)</td>
-<td>Good Manufacturing</td>
+<td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td></td>
-<td>Whole wheat flour</td>
 <td></td>
-<td>Practice</td>
-</tr>
-<tr>
 <td>(3)</td>
-<td>Dairy based flavouring</td>
+<td>Dairy based flavouring preparations</td>
 <td>(3)</td>
-<td>Good Manufacturing</td>
+<td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td></td>
-<td>preparations</td>
 <td></td>
-<td>Practice</td>
-</tr>
-<tr>
 <td>(4)</td>
 <td>Distillers’ Mash</td>
 <td>(4)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(5)</td>
 <td>Sausage casings</td>
 <td>(5)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(6)</td>
 <td>Hydrolyzed animal, milk and vegetable protein</td>
 <td>(6)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(7)</td>
 <td>Industrial spray-dried cheese powder</td>
 <td>(7)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(8)</td>
 <td>Meat cuts</td>
 <td>(8)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(9)</td>
 <td>Meat tenderizing preparations</td>
 <td>(9)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(10)</td>
 <td>Precooked (instant) cereals</td>
 <td>(10)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(11)</td>
 <td>Unstandardized bakery foods</td>
 <td>(11)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(12)</td>
 <td>Cheddar cheese; Cheddar cheese for processing (granular curd cheese; Stirred curd cheese; Washed curd cheese); Colby cheese</td>
 <td>(12)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>*Micrococcus caseolyticus* var.</td>
 <td>(1)</td>
 <td>Hard or semihard, pressed and soft varietal cheeses</td>
@@ -22067,6 +22610,8 @@ Polysorbate 65
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>*Bacillus licheniformis* (Cx)</td>
 <td>(1)</td>
 <td>Hydrolyzed animal, milk and vegetable protein</td>
@@ -22083,18 +22628,25 @@ Polysorbate 65
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Starch used in the production of dextrins, dextrose, glucose (glucose syrup), glucose solids (dried glucose syrup) or fructose syrups and solids, maltose</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Unstandardized bakery products</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>*Bacillus licheniformis* BMP 139 (pR11Amp)</td>
 <td>(1)</td>
 <td>Bread; Flour; Whole wheat flour</td>
@@ -22102,24 +22654,34 @@ Polysorbate 65
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Brewers’ Mash</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Starch used in the production of dextrins, dextrose, glucose (glucose syrup), glucose solids (dried glucose syrup) or fructose syrups and solids, maltose</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Unstandardized bakery products</td>
 <td>(4)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>*Bacillus subtilis* B1-163 (pEB301)</td>
 <td>(1)</td>
 <td>Bread; Flour; Whole wheat flour</td>
@@ -22127,24 +22689,35 @@ Polysorbate 65
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Brewers’ Mash</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Distillers’ Mash</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Starch used in the production of dextrins, dextrose, glucose (glucose syrup), glucose solids (dried glucose syrup) or fructose syrups and solids, maltose</td>
 <td>(4)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(5)</td>
 <td>Unstandardized bakery products</td>
 <td>(5)</td>
@@ -22160,6 +22733,9 @@ Polysorbate 65
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Unstandardized milk based dessert preparations</td>
 <td>(2)</td>
@@ -22170,43 +22746,60 @@ Polysorbate 65
 <td>Transglutaminase</td>
 <td>*Streptoverticillium mobaraense* strain S-8112</td>
 <td>(1)</td>
-<td>Prepared fish products (except for any of these products for which standards are set out in these Regulations)</td>
+<td>Unstandardized prepared fish products</td>
 <td>(1)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Simulated meat products</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(3)</td>
-<td>Cheese products (except for any of these products for which standards are set out in these Regulations)</td>
+<td>Unstandardized cheese products</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(4)</td>
-<td>Processed cheese products (except for any of these products for which standards are set out in these Regulations)</td>
+<td>Unstandardized processed cheese products</td>
 <td>(4)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(5)</td>
-<td>Cream cheese products (except for any of these products for which standards are set out in these Regulations)</td>
+<td>Unstandardized cream cheese products</td>
 <td>(5)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(6)</td>
 <td>Yogurt</td>
 <td>(6)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
 <td>(7)</td>
-<td>Frozen dairy desserts (except for any of these products for which standards are set out in these Regulations)</td>
+<td>Unstandardized frozen dairy desserts</td>
 <td>(7)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
@@ -22222,7 +22815,7 @@ Polysorbate 65
 <tr>
 <td>X.1</td>
 <td>Xylanase</td>
-<td>*Aspergillus oryzae * Fa 1-1 (pA2X1TI)</td>
+<td>*Aspergillus oryzae* Fa 1-1 (pA2X1TI)</td>
 <td></td>
 <td>Bread; Flour; Whole wheat flour</td>
 <td></td>
@@ -22230,7 +22823,7 @@ Polysorbate 65
 </tr>
 </table>
 
->  SOR/78-402, s. 6; SOR/78-876, s. 3; SOR/79-662, ss. 14 to 17; SOR/80-501, s. 4; SOR/80-632, s. 5; SOR/81-60, s. 11; SOR/81-934, ss. 7 to 10; SOR/82-383, s. 10; SOR/82-566, s. 2; SOR/82-1071, s. 17; SOR/84-302, s. 4; SOR/84-762, ss. 8, 9; SOR/84-801, s. 4; SOR/86-89, ss. 4 to 6; SOR/86-1112, s. 4; SOR/87-254, s. 2; SOR/87-640, s. 7; SOR/88-281, s. 1; SOR/90-24, ss. 1 to 3; SOR/90-87, ss. 10 to 12; SOR/90-469, s. 3; SOR/91-124, s. 5(F); SOR/91-487, s. 1; SOR/91-691, s. 1; SOR/92-63, s. 4; SOR/92-94, s. 4; SOR/92-195, s. 1; SOR/92-197, s. 9; SOR/92-231, s. 1; SOR/92-518, s. 1; SOR/92-591, s. 2(F); SOR/94-29, s. 1; SOR/94-182, s. 1; SOR/94-212, s. 9; SOR/94-417, s. 2; SOR/94-552, s. 1; SOR/94-689, s. 2; SOR/94-712, s. 1; SOR/95-65, s. 1; SOR/95-183, s. 9; SOR/95-525, ss. 1, 2; SOR/96-375, s. 1; SOR/97-81, s. 1; SOR/97-82, s. 1; SOR/97-122, ss. 4(F), 5;SOR/97-508, ss. 1, 2; SOR/97-513, s. 1; SOR/97-558, s. 4; SOR/98-454, s. 1; SOR/98-458, ss. 6, 7(F); SOR/2000-336, ss. 3 to 5; SOR/2000-417, s. 4; SOR/2003-130, s. 4; SOR/2004-84, s. 1; SOR/2005-98, ss. 4 to 7, 8(F); SOR/2005-394, ss. 1 to 6..
+> SOR/78-402, s. 6; SOR/78-876, s. 3; SOR/79-662, ss. 14 to 17; SOR/80-501, s. 4; SOR/80-632, s. 5; SOR/81-60, s. 11; SOR/81-934, ss. 7 to 10; SOR/82-383, s. 10; SOR/82-566, s. 2; SOR/82-1071, s. 17; SOR/84-302, s. 4; SOR/84-762, ss. 8, 9; SOR/84-801, s. 4; SOR/86-89, ss. 4 to 6; SOR/86-1112, s. 4; SOR/87-254, s. 2; SOR/87-640, s. 7; SOR/88-281, s. 1; SOR/90-24, ss. 1 to 3; SOR/90-87, ss. 10 to 12; SOR/90-469, s. 3; SOR/91-124, s. 5(F); SOR/91-487, s. 1; SOR/91-691, s. 1; SOR/92-63, s. 4; SOR/92-94, s. 4; SOR/92-195, s. 1; SOR/92-197, s. 9; SOR/92-231, s. 1; SOR/92-518, s. 1; SOR/92-591, s. 2(F); SOR/94-29, s. 1; SOR/94-182, s. 1; SOR/94-212, s. 9; SOR/94-417, s. 2; SOR/94-552, s. 1; SOR/94-689, s. 2; SOR/94-712, s. 1; SOR/95-65, s. 1; SOR/95-183, s. 9; SOR/95-525, ss. 1, 2; SOR/96-375, s. 1; SOR/97-81, s. 1; SOR/97-82, s. 1; SOR/97-122, ss. 4(F), 5;SOR/97-508, ss. 1, 2; SOR/97-513, s. 1; SOR/97-558, s. 4; SOR/98-454, s. 1; SOR/98-458, ss. 6, 7(F); SOR/2000-336, ss. 3 to 5; SOR/2000-417, s. 4; SOR/2003-130, s. 4; SOR/2004-84, s. 1; SOR/2005-98, ss. 4 to 7, 8(F); SOR/2005-394, ss. 1 to 6; SOR/2007-225, s. 1..
 
 
 
@@ -22244,282 +22837,241 @@ Polysorbate 65
 <th>Column III</th>
 </tr>
 <tr>
-<th>Item
-
-No.
-
-</th>
+<th>Item No.</th>
 <th>Additive</th>
 <th>Permitted in or Upon</th>
 <th>Maximum Level of Use</th>
 </tr>
 <tr>
-<th> </th>
-</tr>
-<tr>
 <td>A.1</td>
 <td>Aluminum Sulphate</td>
-<td>**(1)** Canned crabmeat, lobster, salmon, shrimp and tuna; Pickles and relishes
-
-</td>
-<td>**(1)** Good Manufacturing Practice
-
-</td>
+<td>(1)</td>
+<td>Canned crabmeat, lobster, salmon, shrimp and tuna; Pickles and relishes</td>
+<td>(1)</td>
+<td>Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td>**(2)** Unstandardized foods
-
-</td>
-<td>**(2)** Good Manufacturing Practice
-
-</td>
+<td></td>
+<td>(2)</td>
+<td>Unstandardized foods</td>
+<td>(2)</td>
+<td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>A.2</td>
 <td>Ammonium Aluminum</td>
-<td>**(1)** Pickles and relishes
-
-</td>
-<td>**(1)** Good Manufacturing Practice
-
-</td>
+<td>(1)</td>
+<td>Pickles and relishes</td>
+<td>(1)</td>
+<td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>Sulphate</td>
-<td>**(2)** Unstandardized foods
-
-</td>
-<td>**(2)** Good Manufacturing Practice
-
-</td>
+<td>(2)</td>
+<td>Unstandardized foods</td>
+<td>(2)</td>
+<td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.1</td>
 <td>Calcium Chloride</td>
-<td>**(1)** Canned apples
-
-</td>
-<td>**(1)** 0.026% calculated as calcium
-
-</td>
+<td>(1)</td>
+<td>Canned apples</td>
+<td>(1)</td>
+<td>0.026% calculated as calcium</td>
 </tr>
 <tr>
-<td>**(2)** Canned grapefruit
-
-</td>
-<td>**(2)** 0.035% calculated as calcium in accordance with subparagraph B.11.101(c)(vii)
-
-</td>
+<td></td>
+<td>(2)</td>
+<td>Canned grapefruit</td>
+<td>(2)</td>
+<td>0.035% calculated as calcium in accordance with subparagraph B.11.101(c)(vii)</td>
 </tr>
 <tr>
-<td>**(3)** (named variety) cheese; Cheddar cheese
-
-</td>
-<td>**(3)** 0.02% of the milk and milk products used
-
-</td>
+<td></td>
+<td></td>
+<td>(3)</td>
+<td>(named variety) cheese; Cheddar cheese</td>
+<td>(3)</td>
+<td> 0.02% of the milk and milk products used</td>
 </tr>
 <tr>
-<td>**(4)** Cottage cheese
-
-</td>
-<td>**(4)** Good Manufacturing Practice
-
-</td>
+<td></td>
+<td></td>
+<td>(4)</td>
+<td>Cottage cheese</td>
+<td>(4)</td>
+<td> Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td>**(5)** Glaze of frozen fish
-
-</td>
-<td>**(5)** Good Manufacturing Practice
-
-</td>
+<td></td>
+<td></td>
+<td>(5)</td>
+<td>Glaze of frozen fish</td>
+<td>(5)</td>
+<td> Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td>**(6)** Olives
-
-</td>
-<td>**(6)** 1.5% of the brine
-
-</td>
+<td></td>
+<td></td>
+<td>(6)</td>
+<td>Olives</td>
+<td>(6)</td>
+<td>1.5% of the brine</td>
 </tr>
 <tr>
-<td>**(7)** Pickles and relishes
-
-</td>
-<td>**(7)** 0.4%
-
-</td>
+<td></td>
+<td></td>
+<td>(7)</td>
+<td>Pickles and relishes</td>
+<td>(7)</td>
+<td>0.4%</td>
 </tr>
 <tr>
-<td>**(8)** Tomatoes; Canned vegetables (naming the vegetable); Frozen apples
-
-</td>
-<td>**(8)** 0.026% calculated as calcium, and in the case of canned peas 0.035% calculated as calcium
-
-</td>
+<td></td>
+<td></td>
+<td>(8)</td>
+<td>Tomatoes; Canned vegetables (naming the vegetable); Frozen apples</td>
+<td>(8)</td>
+<td>0.026% calculated as calcium, and in the case of canned peas 0.035% calculated as calcium</td>
 </tr>
 <tr>
-<td>**(9)** Unstandardized foods
-
-</td>
-<td>**(9)** Good Manufacturing Practice
-
-</td>
+<td></td>
+<td></td>
+<td>(9)</td>
+<td>Unstandardized foods</td>
+<td>(9)</td>
+<td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.2</td>
 <td>Calcium Citrate</td>
-<td>**(1)** Tomatoes; Canned vegetables; Frozen apples; Frozen sliced apples
-
-</td>
-<td>**(1)** 0.026% calculated as calcium
-
-</td>
+<td>(1)</td>
+<td>Tomatoes; Canned vegetables; Frozen apples; Frozen sliced apples</td>
+<td>(1)</td>
+<td>0.026% calculated as calcium</td>
 </tr>
 <tr>
-<td>**(2)** Canned apples
-
-</td>
-<td>**(2)** 0.026% calculated as calcium
-
-</td>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Canned apples</td>
+<td>(2)</td>
+<td>0.026% calculated as calcium</td>
 </tr>
 <tr>
-<td>**(3)** Unstandardized foods
-
-</td>
-<td>**(3)** Good Manufacturing Practice
-
-</td>
+<td></td>
+<td></td>
+<td>(3)</td>
+<td>Unstandardized foods</td>
+<td>(3)</td>
+<td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.3</td>
 <td>Calcium Gluconate</td>
-<td>Unstandardized foods
-
-</td>
-<td>Good Manufacturing Practice
-
-</td>
+<td></td>
+<td>Unstandardized foods</td>
+<td></td>
+<td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.3A</td>
 <td>Calcium Lactate</td>
-<td>**(1)** Canned grapefruit
-
-</td>
-<td>**(1)** 0.035% calculated as calcium in accordance with subparagraph B.11.101(c)(vii)
-
-</td>
+<td>(1)</td>
+<td>Canned grapefruit</td>
+<td>(1)</td>
+<td>0.035% calculated as calcium in accordance with subparagraph B.11.101(c)(vii)</td>
 </tr>
 <tr>
-<td>**(2)** Canned peas
-
-</td>
-<td>**(2)** 0.035% calculated as calcium
-
-</td>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Canned peas</td>
+<td>(2)</td>
+<td>0.035% calculated as calcium</td>
 </tr>
 <tr>
 <td>C.4</td>
 <td>Calcium Phosphate, dibasic</td>
-<td>Unstandardized foods
-
-</td>
-<td>Good Manufacturing Practice
-
-</td>
+<td></td>
+<td>Unstandardized foods</td>
+<td></td>
+<td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.5</td>
 <td>Calcium Phosphate, monobasic</td>
-<td>**(1)** Tomatoes; Canned vegetables; Frozen apples
-
-</td>
-<td>**(1)** 0.026% calculated as calcium
-
-</td>
+<td>(1)</td>
+<td>Tomatoes; Canned vegetables; Frozen apples</td>
+<td>(1)</td>
+<td>0.026% calculated as calcium</td>
 </tr>
 <tr>
-<td>**(2)** Canned apples
-
-</td>
-<td>**(2)** 0.026% calculated as calcium
-
-</td>
+<td></td>
+<td>(2)</td>
+<td>Canned apples</td>
+<td>(2)</td>
+<td>0.026% calculated as calcium</td>
 </tr>
 <tr>
-<td>**(3)** Unstandardized foods
-
-</td>
-<td>**(3)** Good Manufacturing Practice
-
-</td>
+<td></td>
+<td>(3)</td>
+<td>Unstandardized foods</td>
+<td>(3)</td>
+<td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>C.6</td>
 <td>Calcium Sulphate</td>
-<td>**(1)** Tomatoes; Canned vegetables; Frozen apples
-
-</td>
-<td>**(1)** 0.026% calculated as calcium
-
-</td>
+<td>(1)</td>
+<td>Tomatoes; Canned vegetables; Frozen apples</td>
+<td>(1)</td>
+<td>0.026% calculated as calcium</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Canned apples
-
-</td>
-<td>**(2)** 0.026% calculated as calcium
-
-</td>
+<td>(2)</td>
+<td>Canned apples</td>
+<td>(2)</td>
+<td>0.026% calculated as calcium</td>
 </tr>
 <tr>
 <td>P.1</td>
 <td>Potassium Aluminum</td>
-<td>**(1)** Pickles and relishes
-
-</td>
-<td>**(1)** Good Manufacturing Practice
-
-</td>
+<td>(1)</td>
+<td>Pickles and relishes</td>
+<td>(1)</td>
+<td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td></td>
 <td>Sulphate</td>
-<td>**(2)** Unstandardized foods
-
-</td>
-<td>**(2)** Good Manufacturing Practice
-
-</td>
+<td>(2)</td>
+<td>Unstandardized foods</td>
+<td>(2)</td>
+<td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>S.1</td>
 <td>Sodium Aluminum</td>
-<td>**(1)** Pickles and relishes
-
-</td>
-<td>**(1)** Good Manufacturing Practice
-
-</td>
+<td>(1)</td>
+<td>Pickles and relishes</td>
+<td>(1)</td>
+<td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td></td>
 <td>Sulphate</td>
-<td>**(2)** Unstandardized foods
-
-</td>
-<td>**(2)** Good Manufacturing Practice
-
-</td>
+<td>(2)</td>
+<td>Unstandardized foods</td>
+<td>(2)</td>
+<td>Good Manufacturing Practice</td>
 </tr>
 </table>
 
->  SOR/78-402, s. 7; SOR/79-660, ss. 11, 12; SOR/79-752, s. 7; SOR/93-445, s. 1; SOR/94-689, s. 2(F)..
+> SOR/78-402, s. 7; SOR/79-660, ss. 11, 12; SOR/79-752, s. 7; SOR/93-445, s. 1; SOR/94-689, s. 2(F)..
 
 
 
@@ -22533,29 +23085,20 @@ No.
 <th>Column III</th>
 </tr>
 <tr>
-<th>Item
-
-No.
-
-</th>
+<th>Item No.</th>
 <th>Additive</th>
 <th>Permitted in or Upon</th>
 <th>Maximum Level of Use</th>
 </tr>
 <tr>
-<th> </th>
-</tr>
-<tr>
 <td>A.1</td>
-<td>Acetylated Monoglyce-</td>
+<td>Acetylated Monoglycerides</td>
 <td>(1)</td>
 <td>Confectionery</td>
 <td>(1)</td>
 <td>0.4%</td>
 </tr>
 <tr>
-<td></td>
-<td>rides</td>
 <td>(2)</td>
 <td>Frozen fish</td>
 <td>(2)</td>
@@ -22651,7 +23194,7 @@ No.
 </tr>
 </table>
 
->  SOR/94-689, s. 2(F)..
+> SOR/94-689, s. 2(F)..
 
 
 
@@ -22666,18 +23209,11 @@ No.
 <th>Column IV</th>
 </tr>
 <tr>
-<th>Item
-
-No.
-
-</th>
+<th>Item No.</th>
 <th>Additive</th>
 <th>Permitted in or Upon</th>
 <th>Purpose of Use</th>
 <th>Maximum Level of Use</th>
-</tr>
-<tr>
-<th> </th>
 </tr>
 <tr>
 <td>A.01</td>
@@ -22731,15 +23267,11 @@ No.
 </tr>
 <tr>
 <td>A.3</td>
-<td>[Repealed, SOR/93-276, s. 4]
-
-</td>
+<td>[Repealed, SOR/93-276, s. 4]</td>
 </tr>
 <tr>
 <td>A.4</td>
-<td>[Repealed, SOR/93-276, s. 5]
-
-</td>
+<td>[Repealed, SOR/93-276, s. 5]</td>
 </tr>
 <tr>
 <td>B.2</td>
@@ -22812,14 +23344,14 @@ No.
 <td>900 p.p.m., in accordance with subparagraphs B.13.001(e)(vi) and B.13.005(d)(vi)</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
-<td>[Repealed, SOR/94-227, s. 5]
-
-</td>
-<td></td>
-<td></td>
+<td>[Repealed, SOR/94-227, s. 5]</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Confectionery</td>
 <td>(3)</td>
@@ -22828,6 +23360,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Chewing gum</td>
 <td>(4)</td>
@@ -22836,6 +23370,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(5)</td>
 <td>Unstandardized foods</td>
 <td>(5)</td>
@@ -22854,6 +23390,8 @@ No.
 <td>Good Manufacturing Practice (Quantity of calcium added not to exceed that lost during processing)</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>A blend of prepared fish and prepared meat referred to in paragraph B.21.006(n)</td>
 <td>(2)</td>
@@ -22872,6 +23410,8 @@ No.
 <td>When used in combination with sodium chloride (salt) and sodium hydroxide in solution, calcium oxide not to exceed 30 p.p.m.</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>A blend of prepared fish and prepared meat referred to in paragraph B.21.006(n)</td>
 <td>(2)</td>
@@ -22890,12 +23430,10 @@ No.
 <td>900 p.p.m. in accordance with subparagraphs B.13.001(e)(vi) and B.13.005(d)(vi)</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
-<td>[Repealed, SOR/94-227, s. 6]
-
-</td>
-<td></td>
-<td></td>
+<td>[Repealed, SOR/94-227, s. 6]</td>
 </tr>
 <tr>
 <td>C.6</td>
@@ -22908,14 +23446,14 @@ No.
 <td>900 p.p.m. in accordance with subparagraphs B.13.001(e)(vi) and B.13.005(d)(vi)</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
-<td>[Repealed, SOR/94-227, s. 7]
-
-</td>
-<td></td>
-<td></td>
+<td>[Repealed, SOR/94-227, s. 7]</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Liquid whey destined for the manufacture of dried whey products other than those for use in infant formula</td>
 <td>(3)</td>
@@ -22924,6 +23462,8 @@ No.
 <td>0.04% of dried whey product</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Processed (naming the variety) cheese; Processed (naming the variety) cheese with (naming the added ingredient); Processed cheese food; Processed cheese food with (naming the added ingredients); Processed cheese spread; Processed cheese spread with (naming the added ingredients)</td>
 <td>(4)</td>
@@ -22953,7 +23493,7 @@ No.
 </tr>
 <tr>
 <td>C.9</td>
-<td>Calcium Stearoyl-</td>
+<td>Calcium Stearoyl- 2-Lactylate</td>
 <td>(1)</td>
 <td>Liquid and frozen egg whites</td>
 <td>(1)</td>
@@ -22963,7 +23503,6 @@ No.
 </tr>
 <tr>
 <td></td>
-<td>2-Lactylate</td>
 <td>(2)</td>
 <td>Dried egg whites</td>
 <td>(2)</td>
@@ -22972,6 +23511,8 @@ No.
 <td>0.5%</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Vegetable fat toppings</td>
 <td>(3)</td>
@@ -22980,6 +23521,8 @@ No.
 <td>0.3%</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Dehydrated potatoes</td>
 <td>(4)</td>
@@ -22998,14 +23541,14 @@ No.
 <td>900 p.p.m. in accordance with subparagraphs B.13.001(e)(vi) and B.13.005(d)(vi)</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
-<td>[Repealed, SOR/94-227, s. 8]
-
-</td>
-<td></td>
-<td></td>
+<td>[Repealed, SOR/94-227, s. 8]</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Baking powder</td>
 <td>(3)</td>
@@ -23024,6 +23567,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Unstandardized foods</td>
 <td>(2)</td>
@@ -23032,6 +23577,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Cottage Cheese; Creamed Cottage Cheese</td>
 <td>(3)</td>
@@ -23060,6 +23607,8 @@ No.
 <td>1.5%</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Sherbet</td>
 <td>(2)</td>
@@ -23068,6 +23617,8 @@ No.
 <td>0.5%</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Carbohydrate or calorie reduced dietetic foods</td>
 <td>(3)</td>
@@ -23076,6 +23627,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Whipped vegetable oil topping</td>
 <td>(4)</td>
@@ -23084,6 +23637,8 @@ No.
 <td>1.5%</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(5)</td>
 <td>Unstandardized frozen desserts</td>
 <td>(5)</td>
@@ -23092,6 +23647,8 @@ No.
 <td>0.5%</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(6)</td>
 <td>Unstandardized sandwich spreads and dips</td>
 <td>(6)</td>
@@ -23100,6 +23657,8 @@ No.
 <td>3.0%</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(7)</td>
 <td>Unstandardized foods other than those unstandardized foods in this item</td>
 <td>(7)</td>
@@ -23108,6 +23667,8 @@ No.
 <td>2.0%</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(8)</td>
 <td>Ice cream mix</td>
 <td>(8)</td>
@@ -23116,6 +23677,8 @@ No.
 <td>0.5% or, if used in combination with stabilizing agents, the combined amount shall not exceed 0.5% of the ice cream made from the mix</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(9)</td>
 <td>Table-top sweetener tablets containing aspartame</td>
 <td>(9)</td>
@@ -23124,6 +23687,8 @@ No.
 <td>2.2%</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(10)</td>
 <td>Cream for whipping, heat-treated above 100°C</td>
 <td>(10)</td>
@@ -23152,6 +23717,7 @@ No.
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(3)</td>
 <td>Confectionery (Calorie-reduced)</td>
 <td>(3)</td>
@@ -23160,6 +23726,7 @@ No.
 <td>25%</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(4)</td>
 <td>Unstandardized edible ices</td>
@@ -23170,6 +23737,7 @@ No.
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(5)</td>
 <td>Fillings</td>
 <td>(5)</td>
@@ -23178,6 +23746,7 @@ No.
 <td>0.5%</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(6)</td>
 <td>Foods sold in tablet form</td>
@@ -23188,6 +23757,7 @@ No.
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(7)</td>
 <td>Icings</td>
 <td>(7)</td>
@@ -23197,6 +23767,7 @@ No.
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(8)</td>
 <td>Seasonings</td>
 <td>(8)</td>
@@ -23205,6 +23776,7 @@ No.
 <td>3%</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(9)</td>
 <td>Sweet baked goods</td>
@@ -23234,6 +23806,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Unstandardized foods</td>
 <td>(2)</td>
@@ -23272,6 +23846,8 @@ No.
 <td>10 p.p.m. of dimethylpolysiloxane</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Pineapple juice; Blends of pineapple juice with other fruit juices; canned pineapple (when pineapple juice is used as the packing medium)</td>
 <td>(2)</td>
@@ -23280,6 +23856,8 @@ No.
 <td>10 p.p.m. of dimethylpolysiloxane</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Surfaces that come in contact with food</td>
 <td>(3)</td>
@@ -23288,6 +23866,8 @@ No.
 <td>Good Manufacturing Practice (Residue of dimethylpolysiloxane in food not to exceed 10 p.p.m.)</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Unstandardized foods</td>
 <td>(4)</td>
@@ -23296,6 +23876,8 @@ No.
 <td>10 p.p.m. of dimethylpolysiloxane</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(5)</td>
 <td>Wort used in the manufacture of Ale, Beer, Light beer, Malt liquor, Porter and Stout</td>
 <td>(5)</td>
@@ -23314,6 +23896,8 @@ No.
 <td>10 p.p.m. in the finished drink</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Sausage casings</td>
 <td>(2)</td>
@@ -23362,7 +23946,7 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td>G.2   </td>
+<td>G.2</td>
 <td>[Repealed, SOR/89-175, s. 2]</td>
 </tr>
 <tr>
@@ -23376,6 +23960,8 @@ No.
 <td>0.5%</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Dry Sausage</td>
 <td>(2)</td>
@@ -23394,6 +23980,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Preserved meats (Division 14)</td>
 <td>(2)</td>
@@ -23402,6 +23990,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Unstandardized foods</td>
 <td>(3)</td>
@@ -23430,6 +24020,8 @@ No.
 <td>135 p.p.m. in the mash</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Liquid whey destined for the manufacture of dried whey products</td>
 <td>(2)</td>
@@ -23508,12 +24100,14 @@ No.
 <td>900 p.p.m. in accordance with subparagraphs B.13.001(e)(vi) and B.13.005(d)(vi)</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
-<td>[Repealed, SOR/94-227, s. 9]
-
-</td>
+<td>[Repealed, SOR/94-227, s. 9]</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Confectionery</td>
 <td>(3)</td>
@@ -23542,6 +24136,7 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
 <td>(2)</td>
 <td>Chewing gum</td>
 <td>(2)</td>
@@ -23550,6 +24145,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Rice</td>
 <td>(3)</td>
@@ -23589,9 +24186,7 @@ No.
 </tr>
 <tr>
 <td>M.5A</td>
-<td>[Repealed, SOR/93-276, s. 6]
-
-</td>
+<td>[Repealed, SOR/93-276, s. 6]</td>
 </tr>
 <tr>
 <td>M.5C</td>
@@ -23624,6 +24219,8 @@ No.
 <td>0.3% in accordance with section B.01.047. If petrolatum is also used as a release agent in bakery products the total of any combination of petrolatum and mineral oil must not exceed 0.15%</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Fresh fruits and vegetables</td>
 <td>(2)</td>
@@ -23632,6 +24229,8 @@ No.
 <td>0.3% in accordance with section B.01.047</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Sausage casings</td>
 <td>(3)</td>
@@ -23640,6 +24239,8 @@ No.
 <td>5% in accordance with paragraph B.01.047(e) (Residues of mineral oil in a raw sausage prepared with such casings not to exceed 200 p.p.m.; in cooked sausage, 30 p.p.m.)</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Salt Substitute</td>
 <td>(4)</td>
@@ -23668,6 +24269,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Unstandardized foods</td>
 <td>(2)</td>
@@ -23696,6 +24299,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Margarine</td>
 <td>(2)</td>
@@ -23704,6 +24309,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Unstandardized foods</td>
 <td>(3)</td>
@@ -23752,6 +24359,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Water represented as mineral water or spring water</td>
 <td>(2)</td>
@@ -23760,6 +24369,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Wine</td>
 <td>(3)</td>
@@ -23788,6 +24399,8 @@ No.
 <td>0.3% in accordance with section B.01.047</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Cheese and turnips</td>
 <td>(2)</td>
@@ -23806,6 +24419,8 @@ No.
 <td>0.15% in accordance with section B.01.047. If mineral oil is also used as a release agent the total of any combination of petrolatum and mineral oil must not exceed 0.15%</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Fresh fruits and vegetables</td>
 <td>(2)</td>
@@ -23824,6 +24439,7 @@ No.
 <td>10 p.p.m.</td>
 </tr>
 <tr>
+<td></td>
 <td>(2)</td>
 <td>Table-top sweetener tablets containing aspartame</td>
 <td>(2)</td>
@@ -23832,6 +24448,8 @@ No.
 <td>1.0%</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>L-Lysine tablets</td>
 <td>(3)</td>
@@ -23860,6 +24478,8 @@ No.
 <td>2 p.p.m. in the finished product</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Table-top sweetener tablets containing aspartame</td>
 <td>(2)</td>
@@ -23868,6 +24488,8 @@ No.
 <td>0.3%</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Colour lake dispersions for use in confectionery in tablet form</td>
 <td>(3)</td>
@@ -23906,6 +24528,7 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
 <td>(2)</td>
 <td>Emulsifying preparations containing propylene glycol monoesters</td>
 <td>(2)</td>
@@ -24002,6 +24625,7 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
 <td>Bicarbonate</td>
 <td>(2)</td>
 <td>Salt</td>
@@ -24041,6 +24665,8 @@ No.
 <td>0.5%</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Sour cream</td>
 <td>(2)</td>
@@ -24049,6 +24675,8 @@ No.
 <td>0.1%</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>A blend of prepared fish and prepared meat referred to in paragraph B.21.006(n)</td>
 <td>(3)</td>
@@ -24068,7 +24696,7 @@ No.
 </tr>
 <tr>
 <td>S.6</td>
-<td>Sodium Hexameta-</td>
+<td>Sodium Hexameta- phosphate</td>
 <td>(1)</td>
 <td>Beef blood</td>
 <td>(1)</td>
@@ -24077,7 +24705,7 @@ No.
 <td>0.2%</td>
 </tr>
 <tr>
-<td>phosphate</td>
+<td></td>
 <td>(2)</td>
 <td>Frozen fish fillets; frozen lobsters; frozen crab; frozen clams and frozen shrimp</td>
 <td>(2)</td>
@@ -24086,6 +24714,8 @@ No.
 <td>0.5% total added phosphate calculated as sodium phosphate, dibasic</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Gelatin intended for marshmallow compositions</td>
 <td>(3)</td>
@@ -24105,7 +24735,7 @@ No.
 </tr>
 <tr>
 <td>S.6.1</td>
-<td>Sodium Lauryl</td>
+<td>Sodium Lauryl Sulphate</td>
 <td>(1)</td>
 <td>Dried egg white (dried albumen)</td>
 <td>(1)</td>
@@ -24114,7 +24744,7 @@ No.
 <td>0.1%</td>
 </tr>
 <tr>
-<td>Sulphate</td>
+<td></td>
 <td>(2)</td>
 <td>Liquid egg white (liquid albumen), Frozen egg white (frozen albumen)</td>
 <td>(2)</td>
@@ -24123,6 +24753,8 @@ No.
 <td>0.0125%</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Gelatin intended for marshmallow compositions</td>
 <td>(3)</td>
@@ -24151,6 +24783,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Frozen mushrooms</td>
 <td>(2)</td>
@@ -24190,7 +24824,7 @@ No.
 </tr>
 <tr>
 <td>S.9A</td>
-<td>Sodium Stearoyl-</td>
+<td>Sodium Stearoyl- 2-Lactylate</td>
 <td>(1)</td>
 <td>Liquid and frozen egg whites</td>
 <td>(1)</td>
@@ -24199,7 +24833,7 @@ No.
 <td>0.05%</td>
 </tr>
 <tr>
-<td>2-Lactylate</td>
+<td></td>
 <td>(2)</td>
 <td>Dried egg whites</td>
 <td>(2)</td>
@@ -24208,6 +24842,8 @@ No.
 <td>0.5%</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Oil toppings or topping mixes</td>
 <td>(3)</td>
@@ -24216,6 +24852,8 @@ No.
 <td>0.3%</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Dehydrated potatoes</td>
 <td>(4)</td>
@@ -24265,9 +24903,7 @@ No.
 </tr>
 <tr>
 <td>S.12</td>
-<td>[Repealed, SOR/93-276, s. 8]
-
-</td>
+<td>[Repealed, SOR/93-276, s. 8]</td>
 </tr>
 <tr>
 <td>S.13</td>
@@ -24280,6 +24916,8 @@ No.
 <td>25 p.p.m. calculated as tin</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Canned carbonated soft drinks; concentrated fruit juices except frozen concentrated orange juice; lemon juice; lime juice</td>
 <td>(2)</td>
@@ -24298,6 +24936,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Chewing gum</td>
 <td>(2)</td>
@@ -24306,6 +24946,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Foods sold in tablet form</td>
 <td>(3)</td>
@@ -24325,9 +24967,7 @@ No.
 </tr>
 <tr>
 <td>S.15A</td>
-<td>[Repealed, SOR/93-276, s. 9]
-
-</td>
+<td>[Repealed, SOR/93-276, s. 9]</td>
 </tr>
 <tr>
 <td>S.16</td>
@@ -24360,6 +25000,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Chewing gum base</td>
 <td>(2)</td>
@@ -24368,6 +25010,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Chewing gum</td>
 <td>(3)</td>
@@ -24397,9 +25041,7 @@ No.
 </tr>
 <tr>
 <td>T.2A</td>
-<td>[Repealed, SOR/93-276, s. 10]
-
-</td>
+<td>[Repealed, SOR/93-276, s. 10]</td>
 </tr>
 <tr>
 <td>T.3</td>
@@ -24423,13 +25065,11 @@ No.
 </tr>
 <tr>
 <td>X.1</td>
-<td>[Repealed, SOR/93-276, s. 11]
-
-</td>
+<td>[Repealed, SOR/93-276, s. 11]</td>
 </tr>
 </table>
 
->  SOR/78-401, s. 3; SOR/78-403, ss. 23 to 25; SOR/78-876, s. 4; SOR/79-660, s. 13; SOR/79-752, s. 8; SOR/80-632, ss. 6 to 13; SOR/81-83, s. 4; SOR/81-617, s. 3; SOR/81-934, ss. 11, 12; SOR/82-566, ss. 3, 4; SOR/82-1071, ss. 18 to 20; SOR/83-410, s. 3; SOR/83-584, s. 1; SOR/83-932, ss. 5, 6; SOR/84-17, s. 6; SOR/84-441, s. 1; SOR/84-602, s. 3; SOR/84-762, s. 10; SOR/84-801, ss. 5, 6; SOR/86-1112, s. 5; SOR/86-1125, s. 2; SOR/87-469, s. 1; SOR/87-640, s. 8; SOR/88-419, s. 4; SOR/88-534, ss. 5, 6; SOR/89-175, s. 2; SOR/89-197, s. 1; SOR/89-198, s. 11; SOR/89-555, ss. 2, 3; SOR/91-90, s. 2; SOR/91-124, ss. 6 to 9; SOR/91-149, s. 3; SOR/91-186, s. 1; SOR/91-409, s. 7; SOR/91-527, s. 4; SOR/92-229, s. 1; SOR/92-344, ss. 2 to 4; SOR/93-276, ss. 4 to 11; SOR/94-416, s. 1; SOR/94-227, ss. 5 to 10; SOR/94-689, s. 2(F); SOR/94-723, s. 1; SOR/96-260, s. 1; SOR/96-378, s. 1;SOR/97-509, s. 1; SOR/98-580, s. 1(F); SOR/99-97, s. 1; SOR/99-420, s. 11(F); SOR/2000-353, s. 8(F); SOR/2001-94, s. 3; SOR/2005-316, ss. 2(F), 3; SOR/2006-91, ss. 6 to 12; SOR/2007-75, s. 7..
+> SOR/78-401, s. 3; SOR/78-403, ss. 23 to 25; SOR/78-876, s. 4; SOR/79-660, s. 13; SOR/79-752, s. 8; SOR/80-632, ss. 6 to 13; SOR/81-83, s. 4; SOR/81-617, s. 3; SOR/81-934, ss. 11, 12; SOR/82-566, ss. 3, 4; SOR/82-1071, ss. 18 to 20; SOR/83-410, s. 3; SOR/83-584, s. 1; SOR/83-932, ss. 5, 6; SOR/84-17, s. 6; SOR/84-441, s. 1; SOR/84-602, s. 3; SOR/84-762, s. 10; SOR/84-801, ss. 5, 6; SOR/86-1112, s. 5; SOR/86-1125, s. 2; SOR/87-469, s. 1; SOR/87-640, s. 8; SOR/88-419, s. 4; SOR/88-534, ss. 5, 6; SOR/89-175, s. 2; SOR/89-197, s. 1; SOR/89-198, s. 11; SOR/89-555, ss. 2, 3; SOR/91-90, s. 2; SOR/91-124, ss. 6 to 9; SOR/91-149, s. 3; SOR/91-186, s. 1; SOR/91-409, s. 7; SOR/91-527, s. 4; SOR/92-229, s. 1; SOR/92-344, ss. 2 to 4; SOR/93-276, ss. 4 to 11; SOR/94-416, s. 1; SOR/94-227, ss. 5 to 10; SOR/94-689, s. 2(F); SOR/94-723, s. 1; SOR/96-260, s. 1; SOR/96-378, s. 1;SOR/97-509, s. 1; SOR/98-580, s. 1(F); SOR/99-97, s. 1; SOR/99-420, s. 11(F); SOR/2000-353, s. 8(F); SOR/2001-94, s. 3; SOR/2005-316, ss. 2(F), 3; SOR/2006-91, ss. 6 to 12; SOR/2007-75, s. 7..
 
 
 
@@ -24443,617 +25083,525 @@ No.
 <th>Column III</th>
 </tr>
 <tr>
-<th>Item</th>
-<th></th>
-<th>Permitted</th>
-<th>Maximum Level</th>
-</tr>
-<tr>
-<th>No</th>
+<th>Item No.</th>
 <th>Additive</th>
-<th>in or on</th>
-<th>of Use</th>
-</tr>
-<tr>
-<th> </th>
+<th>Permitted in or on</th>
+<th>Maximum Level of Use</th>
 </tr>
 <tr>
 <td>A.01</td>
 <td>Acesulfame-potassium</td>
-<td>**(1)** Table-top sweeteners
-
-</td>
-<td>**(1)** Good Manufacturing Practice
-
-</td>
+<td>(1)</td>
+<td>Table-top sweeteners</td>
+<td>(1)</td>
+<td>Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td>**(2)** Carbonated beverages
-
-</td>
-<td>**(2)** 0.025% in beverages as consumed
-
-</td>
+<td></td>
+<td>(2)</td>
+<td>Carbonated beverages</td>
+<td>(2)</td>
+<td>0.025% in beverages as consumed</td>
 </tr>
 <tr>
-<td>**(3)** Beverages; Beverage concentrates; Beverage mixes; Dairy beverages; (except for any of these products for which standards are set out in these Regulations)
-
-</td>
-<td>**(3)** 0.05% in beverages as consumed
-
-</td>
+<td></td>
+<td></td>
+<td>(3)</td>
+<td>Beverages; Beverage concentrates; Beverage mixes; Dairy beverages; (except for any of these products for which standards are set out in these Regulations)</td>
+<td>(3)</td>
+<td>0.05% in beverages as consumed</td>
 </tr>
 <tr>
-<td>**(4)** Desserts; Dessert mixes; Toppings; Topping mixes; Fillings; Filling mixes; (except for any of these products for which standards are set out in these Regulations)
-
-</td>
-<td>**(4)** 0.1% in products as consumed
-
-</td>
+<td></td>
+<td></td>
+<td>(4)</td>
+<td>Desserts; Dessert mixes; Toppings; Topping mixes; Fillings; Filling mixes; (except for any of these products for which standards are set out in these Regulations)</td>
+<td>(4)</td>
+<td>0.1% in products as consumed</td>
 </tr>
 <tr>
-<td>**(5)** Chewing gum; Breath freshener products
-
-</td>
-<td>**(5)** 0.35%
-
-</td>
+<td></td>
+<td></td>
+<td>(5)</td>
+<td>Chewing gum; Breath freshener products</td>
+<td>(5)</td>
+<td>0.35%</td>
 </tr>
 <tr>
-<td>**(6)** Fruit spreads (except for any of these products for which standards are set out in these Regulations)
-
-</td>
-<td>**(6)** 0.1%
-
-</td>
+<td></td>
+<td></td>
+<td>(6)</td>
+<td>Fruit spreads (except for any of these products for which standards are set out in these Regulations)</td>
+<td>(6)</td>
+<td>0.1%</td>
 </tr>
 <tr>
-<td>**(7)** Salad dressings (except for any of these products for which standards are set out in these Regulations)
-
-</td>
-<td>**(7)** 0.05%
-
-</td>
+<td></td>
+<td></td>
+<td>(7)</td>
+<td>Salad dressings (except for any of these products for which standards are set out in these Regulations)</td>
+<td>(7)</td>
+<td>0.05%</td>
 </tr>
 <tr>
-<td>**(8)** Confectionery
-
-</td>
-<td>**(8)** 0.25%
-
-</td>
+<td></td>
+<td></td>
+<td>(8)</td>
+<td>Confectionery</td>
+<td>(8)</td>
+<td>0.25%</td>
 </tr>
 <tr>
-<td>**(9)** Bakery mixes; Bakery products; (except for any of these products for which standards are set out in these Regulations)
-
-</td>
-<td>**(9)** 0.1% in products as consumed
-
-</td>
+<td></td>
+<td></td>
+<td>(9)</td>
+<td>Bakery mixes; Bakery products; (except for any of these products for which standards are set out in these Regulations)</td>
+<td>(9)</td>
+<td>0.1% in products as consumed</td>
 </tr>
 <tr>
 <td>A.1</td>
 <td>Aspartame</td>
-<td>**(1)** Table-top sweeteners
-
-</td>
-<td>**(1)** Good Manufacturing Practice
-
-</td>
+<td>(1)</td>
+<td>Table-top sweeteners</td>
+<td>(1)</td>
+<td>Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td>**(2)** Breakfast cereals
-
-</td>
-<td>**(2)** 0.5%
-
-</td>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Breakfast cereals</td>
+<td>(2)</td>
+<td>0.5%</td>
 </tr>
 <tr>
-<td>**(3)** Beverages; Beverage concentrates; Beverage mixes; (except for any of these products for which standards are set out in these Regulations)
-
-</td>
-<td>**(3)** 0.1% in beverages as consumed
-
-</td>
+<td></td>
+<td></td>
+<td>(3)</td>
+<td>Beverages; Beverage concentrates; Beverage mixes; (except for any of these products for which standards are set out in these Regulations)</td>
+<td>(3)</td>
+<td>0.1% in beverages as consumed</td>
 </tr>
 <tr>
-<td>**(4)** Desserts; Dessert mixes; Toppings; Topping mixes; Fillings; Filling mixes; (except for any of these products for which standards are set out in these Regulations)
-
-</td>
-<td>**(4)** 0.3% in products as consumed
-
-</td>
+<td></td>
+<td></td>
+<td>(4)</td>
+<td>Desserts; Dessert mixes; Toppings; Topping mixes; Fillings; Filling mixes; (except for any of these products for which standards are set out in these Regulations)</td>
+<td>(4)</td>
+<td>0.3% in products as consumed</td>
 </tr>
 <tr>
-<td>**(5)** Chewing gum; Breath freshener products
-
-</td>
-<td>**(5)** 1.0%
-
-</td>
+<td></td>
+<td></td>
+<td>(5)</td>
+<td>Chewing gum; Breath freshener products</td>
+<td>(5)</td>
+<td>1.0%</td>
 </tr>
 <tr>
-<td>**(6)** Fruit spreads; Purées and sauces; Table syrups; (except for any of these products for which standards are set out in these Regulations)
-
-</td>
-<td>**(6)** 0.2%
-
-</td>
+<td></td>
+<td></td>
+<td>(6)</td>
+<td>Fruit spreads; Purées and sauces; Table syrups; (except for any of these products for which standards are set out in these Regulations)</td>
+<td>(6)</td>
+<td>0.2%</td>
 </tr>
 <tr>
-<td>**(7)** Salad dressings; Peanut and other nut spreads; (except for any of these products for which standards are set out in these Regulations)
-
-</td>
-<td>**(7)** 0.05%
-
-</td>
+<td></td>
+<td></td>
+<td>(7)</td>
+<td>Salad dressings; Peanut and other nut spreads; (except for any of these products for which standards are set out in these Regulations)</td>
+<td>(7)</td>
+<td>0.05%</td>
 </tr>
 <tr>
-<td>**(8)** Condiments (except for any of these products for which standards are set out in these Regulations)
-
-</td>
-<td>**(8)** 0.2%
-
-</td>
+<td></td>
+<td></td>
+<td>(8)</td>
+<td>Condiments (except for any of these products for which standards are set out in these Regulations)</td>
+<td>(8)</td>
+<td>0.2%</td>
 </tr>
 <tr>
-<td>**(9)** Confectionery glazes for snack foods; Sweetened seasonings or coating mixes for snack foods
-
-</td>
-<td>**(9)** 0.1%
-
-</td>
+<td></td>
+<td></td>
+<td>(9)</td>
+<td>Confectionery glazes for snack foods; Sweetened seasonings or coating mixes for snack foods</td>
+<td>(9)</td>
+<td>0.1%</td>
 </tr>
 <tr>
-<td>**(10)** Confections and their coatings (except for any of these products for which standards are set out in these Regulations)
-
-</td>
-<td>**(10)** 0.3%
-
-</td>
+<td></td>
+<td></td>
+<td>(10)</td>
+<td>Confections and their coatings (except for any of these products for which standards are set out in these Regulations)</td>
+<td>(10)</td>
+<td>0.3%</td>
 </tr>
 <tr>
 <td>A.2</td>
 <td>Aspartame, encapsulated to prevent degradation during baking</td>
-<td>Bakery products and baking mixes (except for any of these products for which standards are set out in these Regulations)
-
-</td>
-<td>0.4% in product as consumed
-
-</td>
+<td></td>
+<td>Bakery products and baking mixes (except for any of these products for which standards are set out in these Regulations)</td>
+<td></td>
+<td>0.4% in product as consumed</td>
 </tr>
 <tr>
 <td>E.1</td>
 <td>Erythritol</td>
-<td>**(1)** Table-top sweeteners
-
-</td>
-<td>**(1)** Good Manufacturing Practice
-
-</td>
+<td>(1)</td>
+<td>Table-top sweeteners</td>
+<td>(1)</td>
+<td>Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td>**(2)** Dietetic beverages
-
-</td>
-<td>**(2)** 3.5%
-
-</td>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Dietetic beverages</td>
+<td>(2)</td>
+<td>3.5%</td>
 </tr>
 <tr>
-<td>**(3)** Fat-based cream fillings and toppings
-
-</td>
-<td>**(3)** 60%
-
-</td>
+<td></td>
+<td></td>
+<td>(3)</td>
+<td>Fat-based cream fillings and toppings</td>
+<td>(3)</td>
+<td>60%</td>
 </tr>
 <tr>
-<td>**(4)** Dietetic cookies and wafers
-
-</td>
-<td>**(4)** 7%
-
-</td>
+<td></td>
+<td></td>
+<td>(4)</td>
+<td>Dietetic cookies and wafers</td>
+<td>(4)</td>
+<td>7%</td>
 </tr>
 <tr>
-<td>**(5)** Soft candies
-
-</td>
-<td>**(5)** 40%
-
-</td>
+<td></td>
+<td></td>
+<td>(5)</td>
+<td>Soft candies</td>
+<td>(5)</td>
+<td>40%</td>
 </tr>
 <tr>
-<td>**(6)** Hard candies
-
-</td>
-<td>**(6)** 50%
-
-</td>
+<td></td>
+<td></td>
+<td>(6)</td>
+<td>Hard candies</td>
+<td>(6)</td>
+<td>50%</td>
 </tr>
 <tr>
-<td>**(7)** Chewing gum
-
-</td>
-<td>**(7)** 60%
-
-</td>
+<td></td>
+<td></td>
+<td>(7)</td>
+<td>Chewing gum</td>
+<td>(7)</td>
+<td>60%</td>
 </tr>
 <tr>
 <td>H.1</td>
 <td>Hydrogenated starch hydrolysates</td>
-<td>Unstandardized foods
-
-</td>
-<td>Good Manufacturing Practice
-
-</td>
+<td></td>
+<td>Unstandardized foods</td>
+<td></td>
+<td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>I.1</td>
 <td>Isomalt</td>
-<td>Unstandardized foods
-
-</td>
-<td>Good Manufacturing Practice
-
-</td>
+<td></td>
+<td>Unstandardized foods</td>
+<td></td>
+<td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>L.1</td>
 <td>Lactitol</td>
-<td>Unstandardized foods
-
-</td>
-<td>Good Manufacturing Practice
-
-</td>
+<td></td>
+<td>Unstandardized foods</td>
+<td></td>
+<td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>M.1</td>
 <td>Maltitol</td>
-<td>Unstandardized foods
-
-</td>
-<td>Good Manufacturing Practice
-
-</td>
+<td></td>
+<td>Unstandardized foods</td>
+<td></td>
+<td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>M.2</td>
 <td>Maltitol syrup</td>
-<td>Unstandardized foods
-
-</td>
-<td>Good Manufacturing Practice
-
-</td>
+<td></td>
+<td>Unstandardized foods</td>
+<td></td>
+<td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>M.3</td>
 <td>Mannitol</td>
-<td>Unstandardized foods
-
-</td>
-<td>Good Manufacturing Practice
-
-</td>
+<td></td>
+<td>Unstandardized foods</td>
+<td></td>
+<td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>N.1</td>
 <td>Neotame</td>
-<td>**(1)** Table-top sweeteners
-
-</td>
-<td>**(1)** Good Manufacturing Practice
-
-</td>
+<td>(1)</td>
+<td>Table-top sweeteners</td>
+<td>(1)</td>
+<td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Breakfast cereals
-
-</td>
-<td>**(2)** 0.016%
-
-</td>
+<td>(2)</td>
+<td>Breakfast cereals</td>
+<td>(2)</td>
+<td>0.016%</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Beverage mixes; Unstandardized beverages; Unstandardized beverage concentrates
-
-</td>
-<td>**(3)** 0.003% in beverages as consumed
-
-</td>
+<td>(3)</td>
+<td>Beverage mixes; Unstandardized beverages; Unstandardized beverage concentrates</td>
+<td>(3)</td>
+<td>0.003% in beverages as consumed</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(4)** Dessert mixes; Fillings; Filling mixes; Toppings; Topping mixes; Unstandardized desserts; Yogurt
-
-</td>
-<td>**(4)** 0.01% in products as consumed
-
-</td>
+<td>(4)</td>
+<td>Dessert mixes; Fillings; Filling mixes; Toppings; Topping mixes; Unstandardized desserts; Yogurt</td>
+<td>(4)</td>
+<td>0.01% in products as consumed</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(5)** Breath freshener products; Chewing gum
-
-</td>
-<td>**(5)** 0.032%
-
-</td>
+<td>(5)</td>
+<td>Breath freshener products; Chewing gum</td>
+<td>(5)</td>
+<td>0.032%</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(6)** Unstandardized fruit spreads; Unstandardized purées and sauces; Unstandardized table syrups
-
-</td>
-<td>**(6)** 0.007%
-
-</td>
+<td>(6)</td>
+<td>Unstandardized fruit spreads; Unstandardized purées and sauces; Unstandardized table syrups</td>
+<td>(6)</td>
+<td>0.007%</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(7)** Peanut and other nut spreads; Unstandardized salad dressings
-
-</td>
-<td>**(7)** 0.002%
-
-</td>
+<td>(7)</td>
+<td>Peanut and other nut spreads; Unstandardized salad dressings</td>
+<td>(7)</td>
+<td>0.002%</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(8)** Unstandardized condiments
-
-</td>
-<td>**(8)** 0.007%
-
-</td>
+<td>(8)</td>
+<td>Unstandardized condiments</td>
+<td>(8)</td>
+<td>0.007%</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(9)** Confectionary glazes for snack foods; Sweetened seasonings or coating mixes for snack foods
-
-</td>
-<td>**(9)** 0.0032%
-
-</td>
+<td>(9)</td>
+<td>Confectionary glazes for snack foods; Sweetened seasonings or coating mixes for snack foods</td>
+<td>(9)</td>
+<td>0.0032%</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(10)** Unstandardized confections and their coatings
-
-</td>
-<td>**(10)** 0.01%
-
-</td>
+<td>(10)</td>
+<td>Unstandardized confections and their coatings</td>
+<td>(10)</td>
+<td>0.01%</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(11)** Unstandardized bakery products and baking mixes
-
-</td>
-<td>**(11)** 0.013% in products as consumed
-
-</td>
+<td>(11)</td>
+<td>Unstandardized bakery products and baking mixes</td>
+<td>(11)</td>
+<td>0.013% in products as consumed</td>
 </tr>
 <tr>
 <td>S.1</td>
 <td>Sorbitol</td>
-<td>**(1)** A blend of prepared fish and prepared meat referred to in paragraph B.21.006(n)
-
-</td>
-<td>**(1)** 6.0 %
-
-</td>
+<td>(1)</td>
+<td>A blend of prepared fish and prepared meat referred to in paragraph B.21.006(n)</td>
+<td>(1)</td>
+<td>6.0 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Unstandardized foods
-
-</td>
-<td>**(2)** Good Manufacturing Practice
-
-</td>
+<td>(2)</td>
+<td>Unstandardized foods</td>
+<td>(2)</td>
+<td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>S.1.1</td>
 <td>Sorbitol syrup</td>
-<td>Unstandardized foods
-
-</td>
-<td>Good Manufacturing Practice
-
-</td>
+<td></td>
+<td>Unstandardized foods</td>
+<td></td>
+<td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td>S.2</td>
 <td>Sucralose</td>
-<td>**(1)** Table-top sweeteners
-
-</td>
-<td>**(1)** Good Manufacturing Practice
-
-</td>
+<td>(1)</td>
+<td>Table-top sweeteners</td>
+<td>(1)</td>
+<td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Breakfast cereals
-
-</td>
-<td>**(2)** 0.1%
-
-</td>
+<td>(2)</td>
+<td>Breakfast cereals</td>
+<td>(2)</td>
+<td>0.1%</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Beverages; Beverage concentrates; Beverage mixes; Dairy beverages; (except for any of these products for which standards are set out in these Regulations)
-
-</td>
-<td>**(3)** 0.025% in beverages as consumed
-
-</td>
+<td>(3)</td>
+<td>Beverages; Beverage concentrates; Beverage mixes; Dairy beverages; (except for any of these products for which standards are set out in these Regulations)</td>
+<td>(3)</td>
+<td>0.025% in beverages as consumed</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(4)** Desserts; Dessert mixes; Toppings; Topping mixes; Dairy Desserts; Frozen Desserts; Fillings; Filling mixes; (except for any of these products for which standards are set out in these Regulations)
-
-</td>
-<td>**(4)** 0.025% in products as consumed
-
-</td>
+<td>(4)</td>
+<td>Desserts; Dessert mixes; Toppings; Topping mixes; Dairy Desserts; Frozen Desserts; Fillings; Filling mixes; (except for any of these products for which standards are set out in these Regulations)</td>
+<td>(4)</td>
+<td>0.025% in products as consumed</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(5)** Chewing gum; Breath freshener products
-
-</td>
-<td>**(5)** 0.15%
-
-</td>
+<td>(5)</td>
+<td>Chewing gum; Breath freshener products</td>
+<td>(5)</td>
+<td>0.15%</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(6)** Fruit spreads (except for any of these products for which standards are set out in these Regulations)
-
-</td>
-<td>**(6)** 0.045%
-
-</td>
+<td>(6)</td>
+<td>Fruit spreads (except for any of these products for which standards are set out in these Regulations)</td>
+<td>(6)</td>
+<td>0.045%</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(7)** Salad dressings; Condiments; (except for any of these products for which standards are set out in these Regulations)
-
-</td>
-<td>**(7)** 0.04%
-
-</td>
+<td>(7)</td>
+<td>Salad dressings; Condiments; (except for any of these products for which standards are set out in these Regulations)</td>
+<td>(7)</td>
+<td>0.04%</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(8)** Confections and their coatings; Confectionery glazes for snack foods; Sweetened seasonings or coating mixes for snack foods; (except for any of these products for which standards are set out in these Regulations)
-
-</td>
-<td>**(8)** 0.07%
-
-</td>
+<td>(8)</td>
+<td>Confections and their coatings; Confectionery glazes for snack foods; Sweetened seasonings or coating mixes for snack foods; (except for any of these products for which standards are set out in these Regulations)</td>
+<td>(8)</td>
+<td>0.07%</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(9)** Baking mixes; Bakery products; (except for any of these products for which standards are set out in these Regulations)
-
-</td>
-<td>**(9)** 0.065% in products as consumed
-
-</td>
+<td>(9)</td>
+<td>Baking mixes; Bakery products; (except for any of these products for which standards are set out in these Regulations)</td>
+<td>(9)</td>
+<td>0.065% in products as consumed</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(10)** Processed fruit and vegetable products (except for any of these products for which standards are set out in these Regulations)
-
-</td>
-<td>**(10)** 0.015%
-
-</td>
+<td>(10)</td>
+<td>Processed fruit and vegetable products (except for any of these products for which standards are set out in these Regulations)</td>
+<td>(10)</td>
+<td>0.015%</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(11)** Alcoholic beverages (except for any of these products for which standards are set out in these Regulations)
-
-</td>
-<td>**(11)** 0.07%
-
-</td>
+<td>(11)</td>
+<td>Alcoholic beverages (except for any of these products for which standards are set out in these Regulations)</td>
+<td>(11)</td>
+<td>0.07%</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(12)** Puddings; Pudding mixes
-
-</td>
-<td>**(12)** 0.04% in products as consumed
-
-</td>
+<td>(12)</td>
+<td>Puddings; Pudding mixes</td>
+<td>(12)</td>
+<td>0.04% in products as consumed</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(13)** Table syrups (except for any of these products for which standards are set out in these Regulations)
-
-</td>
-<td>**(13)** 0.15%
-
-</td>
+<td>(13)</td>
+<td>Table syrups (except for any of these products for which standards are set out in these Regulations)</td>
+<td>(13)</td>
+<td>0.15%</td>
 </tr>
 <tr>
 <td>T.1</td>
 <td>Thaumatin</td>
-<td>**(1)** Chewing gum; Breath freshener products
-
-</td>
-<td>**(1)** 500 p.p.m.
-
-</td>
+<td>(1)</td>
+<td>Chewing gum; Breath freshener products</td>
+<td>(1)</td>
+<td>500 p.p.m.</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Salt substitutes
-
-</td>
-<td>**(2)** 400 p.p.m.
-
-</td>
+<td>(2)</td>
+<td>Salt substitutes</td>
+<td>(2)</td>
+<td>400 p.p.m.</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** (naming the flavour) Flavour referred to in section B.10.005; Unstandardized flavouring preparations
-
-</td>
-<td>**(3)** 100 p.p.m.
-
-</td>
+<td>(3)</td>
+<td>(naming the flavour) Flavour referred to in section B.10.005; Unstandardized flavouring preparations</td>
+<td>(3)</td>
+<td>100 p.p.m.</td>
 </tr>
 <tr>
 <td>X.1</td>
 <td>Xylitol</td>
-<td>Unstandardized foods
-
-</td>
-<td>Good Manufacturing Practice
-
-</td>
+<td></td>
+<td>Unstandardized foods</td>
+<td></td>
+<td>Good Manufacturing Practice</td>
 </tr>
 </table>
 
->  SOR/93-276, s. 12; SOR/94-625, s. 5; SOR/94-689, s. 2(F); SOR/94-779, s. 3; SOR/97-512, ss. 3, 4; SOR/2004-261, s. 2; SOR/2007-76, s. 3; SOR/2007-176, s. 7..
+> SOR/93-276, s. 12; SOR/94-625, s. 5; SOR/94-689, s. 2(F); SOR/94-779, s. 3; SOR/97-512, ss. 3, 4; SOR/2004-261, s. 2; SOR/2007-76, s. 3; SOR/2007-176, s. 7..
 
 
 
@@ -25067,17 +25615,10 @@ No.
 <th>Column III</th>
 </tr>
 <tr>
-<th>Item
-
-No.
-
-</th>
+<th>Item No.</th>
 <th>Additive</th>
 <th>Permitted in or Upon</th>
 <th>Maximum Level of Use</th>
-</tr>
-<tr>
-<th> </th>
 </tr>
 <tr>
 <td>A.1</td>
@@ -25088,18 +25629,24 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Canned Asparagus</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Gelatin</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Unstandardized foods</td>
 <td>(4)</td>
@@ -25186,12 +25733,16 @@ No.
 <td>Sufficient to process the cocoa products in accordance with the requirements of section B.04.005</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Gelatin</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Unstandardized foods</td>
 <td>(3)</td>
@@ -25206,6 +25757,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Unstandardized bakery foods</td>
 <td>(2)</td>
@@ -25220,12 +25773,16 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Unstandardized bakery foods</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Uncultured buttermilk</td>
 <td>(3)</td>
@@ -25240,6 +25797,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Unstandardized foods</td>
 <td>(2)</td>
@@ -25254,24 +25813,32 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Cream cheese spread; Cream cheese spread with (named added ingredients); Processed (named variety) cheese; Processed (named variety) cheese with (named added ingredients); Processed cheese food; Processed cheese food with (named added ingredients); Processed cheese spread; Processed cheese spread with (named added ingredients); Cold-pack (named variety) cheese; Cold-pack (named variety) cheese with (named added ingredients); Cold-pack cheese food; Cold-pack cheese food with (named added ingredients); (named variety) Whey cheese</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Grape juice</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Unstandardized foods</td>
 <td>(4)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(5)</td>
 <td>Cocoa products</td>
 <td>(5)</td>
@@ -25286,6 +25853,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Unstandardized foods</td>
 <td>(2)</td>
@@ -25300,6 +25869,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Unstandardized foods</td>
 <td>(2)</td>
@@ -25330,24 +25901,32 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Canned peas</td>
 <td>(2)</td>
 <td>0.01%</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Infant formula</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Grape Juice</td>
 <td>(4)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(5)</td>
 <td>Unstandardized foods</td>
 <td>(5)</td>
@@ -25362,6 +25941,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Unstandardized foods</td>
 <td>(2)</td>
@@ -25376,6 +25957,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Unstandardized foods</td>
 <td>(2)</td>
@@ -25398,6 +25981,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Unstandardized foods</td>
 <td>(2)</td>
@@ -25436,36 +26021,48 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Canned applesauce; Canned grapefruit; Canned mandarin oranges; Canned pears; Canned pineapple; Canned strawberries</td>
 <td>(2)</td>
 <td>Sufficient to maintain pH 4.2 to 4.5</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Infant formula</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Margarine</td>
 <td>(4)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(5)</td>
 <td>Cream cheese spread; Cream cheese spread with (named added ingredients); Processed (named variety) cheese; Processed (named variety) cheese with (named added ingredients); Processed cheese food; Processed cheese food with (named added ingredients); Processed cheese spread; Processed cheese spread with (named added ingredients); Cold-pack (named variety) cheese; Cold-pack (named variety) cheese with (named added ingredients); Cold-pack cheese food; Cold-pack cheese food with (named added ingredients); (named variety) Whey cheese</td>
 <td>(5)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(6)</td>
 <td>Unstandardized foods</td>
 <td>(6)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(7)</td>
 <td>Cocoa products</td>
 <td>(7)</td>
@@ -25488,6 +26085,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Unstandardized foods</td>
 <td>(2)</td>
@@ -25526,6 +26125,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Infant formula</td>
 <td>(2)</td>
@@ -25540,24 +26141,32 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Canned pears; Canned strawberries</td>
 <td>(2)</td>
 <td>Sufficient to maintain pH 4.2 to 4.5</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Margarine</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Cream cheese spread; Cream cheese spread with (named added ingredients); Processed (named variety) cheese; Processed (named variety) cheese with (named added ingredients); Processed cheese food; Processed cheese food with (named added ingredients); Processed cheese spread; Processed cheese spread with (named added ingredients); Cold-pack (named variety) cheese; Cold-pack (named variety) cheese with (named added ingredients); Cold-pack cheese food; Cold-pack cheese food with (named added ingredients); (named variety) Whey cheese</td>
 <td>(4)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(5)</td>
 <td>Unstandardized foods</td>
 <td>(5)</td>
@@ -25580,12 +26189,16 @@ No.
 <td>Sufficient to process the cocoa products in accordance with the requirements of section B.04.005</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Ice cream mix; Ice milk mix</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Unstandardized foods</td>
 <td>(3)</td>
@@ -25616,18 +26229,23 @@ No.
 <td>0.05%</td>
 </tr>
 <tr>
+<td></td>
 <td>(2)</td>
 <td>Cocoa products</td>
 <td>(2)</td>
 <td>Sufficient to process the cocoa products in accordance with the requirements of section B.04.005</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Gelatin; Ice cream mix; Ice milk mix</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Bacterial cultures</td>
 <td>(4)</td>
@@ -25658,6 +26276,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Bacterial cultures</td>
 <td>(2)</td>
@@ -25672,18 +26292,24 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Canned applesauce; Canned pears; Canned strawberries</td>
 <td>(2)</td>
 <td>Sufficient to maintain pH 4.2 to 4.5</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Cream cheese spread; Cream cheese spread with (named added ingredients); Processed (named variety) cheese; Processed (named variety) cheese with (named added ingredients); Processed cheese food; Processed cheese food with (named added ingredients); Processed cheese spread; Processed cheese spread with (named added ingredients); Cold-pack (named variety) cheese; Cold-pack (named variety) cheese with (named added ingredients); Cold-pack cheese food; Cold-pack cheese food with (named added ingredients); (named variety) Whey cheese</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Unstandardized foods</td>
 <td>(4)</td>
@@ -25722,24 +26348,32 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Cream cheese spread; Cream cheese spread with (named added ingredients); Processed (named variety) cheese; Processed (named variety) cheese with (named added ingredients); Processed cheese food; Processed cheese food with (named added ingredients); Processed cheese spread; Processed cheese spread with (named added ingredients); Cold-pack (named variety) cheese; Cold-pack (named variety) cheese with (named added ingredients); Cold-pack cheese food; Cold-pack cheese food with (named added ingredients); (named variety) Whey cheese</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Fish protein</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Unstandardized foods</td>
 <td>(4)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(5)</td>
 <td>Cocoa products</td>
 <td>(5)</td>
@@ -25776,6 +26410,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Unstandardized foods</td>
 <td>(2)</td>
@@ -25846,24 +26482,32 @@ No.
 <td>Sufficient to process the cocoa products in accordance with the requirements of section B.04.005</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Cream cheese spread; Cream cheese spread with (named added ingredients); Processed (named variety) cheese; Processed (named variety) cheese with (named added ingredients); Processed cheese food; Processed cheese food with (named added ingredients); Processed cheese spread; Processed cheese spread with (named added ingredients); Cold-pack (named variety) cheese; Cold-pack (named variety) cheese with (named added ingredients); Cold-pack cheese food; Cold-pack cheese food with (named added ingredients); (named variety) Whey cheese</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Margarine</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Unstandardized foods</td>
 <td>(4)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(5)</td>
 <td>A blend of prepared fish and prepared meat referred to in paragraph B.21.006(n)</td>
 <td>(5)</td>
@@ -25894,12 +26538,15 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
 <td>(2)</td>
 <td>Margarine</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Unstandardized foods</td>
 <td>(3)</td>
@@ -25930,36 +26577,47 @@ No.
 <td>1.0%</td>
 </tr>
 <tr>
+<td></td>
 <td>(2)</td>
 <td>Cocoa products</td>
 <td>(2)</td>
 <td>Sufficient to process the cocoa products in accordance with the requirements of section B.04.005</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Ice cream mix; Ice milk mix; Pumping pickle; Cover pickle and dry cure employed in the curing of preserved meat or preserved meat by-product (Division 14 only)</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Infant formula</td>
 <td>(4)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(5)</td>
 <td>Margarine</td>
 <td>(5)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(6)</td>
 <td>Grape juice</td>
 <td>(6)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(7)</td>
 <td>Unstandardized foods</td>
 <td>(7)</td>
@@ -26060,30 +26718,40 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Cocoa products</td>
 <td>(2)</td>
 <td>Sufficient to process the cocoa products in accordance with the requirements of section B.04.005</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Cream cheese spread; Cream cheese spread with (named added ingredients); Processed (named variety) cheese; Processed (named variety) cheese with (named added ingredients); Processed cheese food; Processed cheese food with (named added ingredients); Processed cheese spread; Processed cheese spread with (named added ingredients); Cold-pack (named variety) cheese; Cold-pack (named variety) cheese with (named added ingredients); Cold-pack cheese food; Cold-pack cheese food with (named added ingredients); (named variety) Whey cheese</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Infant formula</td>
 <td>(4)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(5)</td>
 <td>Margarine</td>
 <td>(5)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(6)</td>
 <td>Unstandardized foods</td>
 <td>(6)</td>
@@ -26099,6 +26767,7 @@ No.
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Unstandardized bakery products</td>
 <td>(2)</td>
@@ -26113,24 +26782,32 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Cocoa products</td>
 <td>(2)</td>
 <td>Sufficient to process the cocoa products in accordance with the requirements of section B.04.005</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Cream cheese spread; Cream cheese spread with (named added ingredients); Processed (named variety) cheese; Processed (named variety) cheese with (named added ingredients); Processed cheese food; Processed cheese food with (named added ingredients); Processed cheese spread; Processed cheese spread with (named added ingredients); Cold-pack (named variety) cheese; Cold-pack (named variety) cheese with (named added ingredients); Cold-pack cheese food; Cold-pack cheese food with (named added ingredients); (named variety) Whey cheese</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Margarine</td>
 <td>(4)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(5)</td>
 <td>Unstandardized foods</td>
 <td>(5)</td>
@@ -26145,18 +26822,24 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Infant formula</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Unstandardized foods</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Margarine</td>
 <td>(4)</td>
@@ -26195,24 +26878,32 @@ No.
 <td>Sufficient to process the cocoa products in accordance with the requirements of section B.04.005</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Gelatin; Ice cream mix; Ice milk mix; (naming the flavour) Skim milk; (naming the flavour) Partly skimmed milk; Pumping pickle; Cover pickle and dry cure employed in the curing of preserved meat or preserved meat by-product (Division 14 only)</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Infant formula</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Margarine</td>
 <td>(4)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(5)</td>
 <td>Unstandardized foods</td>
 <td>(5)</td>
@@ -26241,6 +26932,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Unstandardized foods</td>
 <td>(2)</td>
@@ -26271,6 +26964,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Unstandardized foods</td>
 <td>(2)</td>
@@ -26285,12 +26980,16 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Unstandardized foods</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Margarine</td>
 <td>(3)</td>
@@ -26337,30 +27036,40 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Canned pears; Canned strawberries</td>
 <td>(2)</td>
 <td>Sufficient to maintain pH 4.2 to 4.5</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Cream cheese spread; Cream cheese spread with (named added ingredients); Processed (named variety) cheese; Processed (named variety) cheese with (named added ingredients); Processed cheese food; Processed cheese food with (named added ingredients); Processed cheese spread; Processed cheese spread with (named added ingredients); Cold-pack (named variety) cheese; Cold-pack (named variety) cheese with (named added ingredients); Cold-pack cheese food; Cold-pack cheese food with (named added ingredients); (named variety) Whey cheese</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Margarine</td>
 <td>(4)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(5)</td>
 <td>Unstandardized foods</td>
 <td>(5)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(6)</td>
 <td>Cocoa products</td>
 <td>(6)</td>
@@ -26368,26 +27077,16 @@ No.
 </tr>
 </table>
 
->  SOR/78-874, s. 4; SOR/79-660, ss. 14 to 17; SOR/79-664, ss. 3 to 13; SOR/79-752, s. 9; SOR/80-501, s. 4; SOR/86-1112, ss. 6 to 8; SOR/92-106, s. 1; SOR/92-344, s. 5; SOR/94-689, s. 2(F); SOR/95-281, ss. 2 to 5; SOR/95-436, ss. 2, 3; SOR/97-263, ss. 11 to 25; SOR/97-561, s. 3; SOR/98-580, s. 1(F); SOR/2001-94, s. 3; SOR/2006-91, ss. 13 to 20; SOR/2007-75, s. 8..
+> SOR/78-874, s. 4; SOR/79-660, ss. 14 to 17; SOR/79-664, ss. 3 to 13; SOR/79-752, s. 9; SOR/80-501, s. 4; SOR/86-1112, ss. 6 to 8; SOR/92-106, s. 1; SOR/92-344, s. 5; SOR/94-689, s. 2(F); SOR/95-281, ss. 2 to 5; SOR/95-436, ss. 2, 3; SOR/97-263, ss. 11 to 25; SOR/97-561, s. 3; SOR/98-580, s. 1(F); SOR/2001-94, s. 3; SOR/2006-91, ss. 13 to 20; SOR/2007-75, s. 8..
 
 
 
-#### TABLE XI
+
+**TABLE XI** 
+
+#### PART I
 <table>
-<tr>
-<td>PART I</td>
-</tr>
-<tr>
-<td>FOOD ADDITIVES THAT MAY BE USED AS CLASS I PRESERVATIVES</td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
+<h4>FOOD ADDITIVES THAT MAY BE USED AS CLASS I PRESERVATIVES</h4>
 <tr>
 <th></th>
 <th>Column I</th>
@@ -26395,17 +27094,10 @@ No.
 <th>Column III</th>
 </tr>
 <tr>
-<th>Item
-
-No.
-
-</th>
+<th>Item No.</th>
 <th>Additive</th>
 <th>Permitted in or Upon</th>
 <th>Maximum Level of Use</th>
-</tr>
-<tr>
-<th> </th>
 </tr>
 <tr>
 <td>A.1</td>
@@ -26416,6 +27108,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Unstandardized foods</td>
 <td>(2)</td>
@@ -26430,18 +27124,24 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Canned applesauce</td>
 <td>(2)</td>
 <td>If used either singly or in combination with Iso-Ascorbic Acid, the total not to exceed 150 p.p.m.</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Canned peaches</td>
 <td>(3)</td>
 <td>550 p.p.m.</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Unstandardized foods</td>
 <td>(4)</td>
@@ -26464,12 +27164,16 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Canned applesauce</td>
 <td>(2)</td>
 <td>If used either singly or in combination with Ascorbic Acid, the total not to exceed 150 p.p.m.</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Unstandardized foods</td>
 <td>(3)</td>
@@ -26492,24 +27196,32 @@ No.
 <td>When the meat binder is used in accordance with label instructions, whether potassium nitrate is added alone or in combination with sodium nitrate, the total amount of such nitrates thereby added to each batch of dry sausage, semi-dry sausage, preserved meat or preserved meat by-products shall not exceed 0.32 ounce per 100 pounds or 200 parts per million, calculated prior to any smoking, cooking or fermentation</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Cover pickle and dry cure employed in the curing of preserved meat and preserved meat by-products prepared by slow cure processes (Division 14)</td>
 <td>(2)</td>
 <td>When the cover pickle or dry cure is used in accordance with label instructions, whether potassium nitrate is added alone or in combination with sodium nitrate, the total amount of such nitrates thereby added to each batch of preserved meat or preserved meat by-products shall not exceed 0.32 ounce per 100 pounds or 200 parts per million, calculated prior to any smoking, cooking or fermentation</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Dry sausage, semi-dry sausage, preserved meat and preserved meat by-products prepared by slow cure processes (Division 14)</td>
 <td>(3)</td>
 <td>Where potassium nitrate is added alone or in combination with sodium nitrate, the total amount of such nitrates added to each batch of dry sausage, semi-dry sausage, preserved meat or preserved meat by-products shall not exceed 0.32 ounces per 100 pounds or 200 parts per million, calculated prior to any smoking, cooking or fermentation</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Ripened cheese, containing not more than 68% moisture on a fat free basis during manufacture of which the lactic acid fermentation and salting is completed later than 12 hours after coagulation of the curd by food enzymes and where the added salt is applied externally to the cheese as dry salt or in the form of brine</td>
 <td>(4)</td>
 <td>If used singly or in combination with sodium nitrate, the total not to exceed 200 p.p.m. (based in milk). Residue in the finished cheese not to exceed 50 p.p.m.</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(5)</td>
 <td>Mold ripened cheese packed in hermetically sealed containers</td>
 <td>(5)</td>
@@ -26524,18 +27236,24 @@ No.
 <td>When the meat binder, pumping pickle, cover pickle or dry cure is used in accordance with label instructions, whether potassium nitrite is added alone or in combination with sodium nitrite, the total amount of such nitrites thereby added to each batch of preserved meat or preserved meat by-products shall not exceed 0.32 ounce per 100 pounds or 200 parts per million calculated prior to any smoking, cooking or fermentation</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Preserved meat except side bacon and preserved meat by-products (Division 14)</td>
 <td>(2)</td>
 <td>Where potassium nitrite is added alone or in combination with sodium nitrite, the total amount of such nitrites added to each batch of preserved meat, except side bacon or preserved meat by-products, shall not exceed 0.32 ounce per 100 pounds or 200 parts per million, calculated prior to any smoking, cooking or fermentation</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Side bacon</td>
 <td>(3)</td>
 <td>Where potassium nitrite is added alone or in combination with sodium nitrite, the total amount of such nitrites added to each batch of side bacon shall not exceed 0.19 ounce per 100 pounds or 120 parts per million, calculated prior to any smoking, cooking or fermentation</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Preserved poultry meat and preserved poultry meat by-products (Division 22)</td>
 <td>(4)</td>
@@ -26558,6 +27276,7 @@ No.
 <td>Same levels as prescribed for Erythorbic Acid</td>
 </tr>
 <tr>
+<td></td>
 <td>(2)</td>
 <td>Canned clams</td>
 <td>(2)</td>
@@ -26580,24 +27299,32 @@ No.
 <td>When the meat binder is used in accordance with label instructions, whether sodium nitrate is added alone or in combination with potassium nitrate, the total amount of such nitrates thereby added to each batch of dry sausage, semi-dry sausage, preserved meat or preserved meat by-products shall not exceed 0.32 ounce per 100 pounds or 200 parts per million, calculated prior to any smoking, cooking or fermentation</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Cover pickle and dry cure employed in the curing of preserved meat and preserved meat by-products prepared by slow cure processes (Division 14)</td>
 <td>(2)</td>
 <td>When the cover pickle or dry cure is used in accordance with label instructions, whether sodium nitrate is added alone or in combination with potassium nitrate, the total amount of such nitrates thereby added to each batch of preserved meat or preserved meat by-products shall not exceed 0.32 ounce per 100 pounds or 200 parts per million, calculated prior to any smoking, cooking or fermentation</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Dry sausage, semi-dry sausage, preserved meat and preserved meat by-products prepared by the slow cure processes (Division 14)</td>
 <td>(3)</td>
 <td>Where sodium nitrate is added alone or in combination with potassium nitrate, the total amount of such nitrates added to each batch of dry sausage, semi-dry sausage, preserved meat or preserved meat by-products shall not exceed 0.32 ounce per 100 pounds or 200 parts per million, calculated prior to any smoking, cooking or fermentation</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Ripened cheese, containing not more than 68% moisture on a fat free basis during manufacture of which the lactic acid fermentation and salting is completed later than 12 hours after coagulation of the curd by food enzymes and where the added salt is applied externally to the cheese as dry salt or in the form of brine</td>
 <td>(4)</td>
 <td>If used singly or in combination with potassium nitrate, the total not to exceed 200 p.p.m. (based in milk). Residue in the finished cheese not to exceed 50 p.p.m.</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(5)</td>
 <td>Mold ripened cheese packed in hermetically sealed containers</td>
 <td>(5)</td>
@@ -26612,18 +27339,24 @@ No.
 <td>When the meat binder, pumping pickle, cover pickle or dry cure is used in accordance with label instructions, whether sodium nitrite is added alone or in combination with potassium nitrite, the total amount of such nitrites thereby added to each batch of preserved meat or preserved meat by-products shall not exceed 0.32 ounce per 100 pounds or 200 parts per million, calculated prior to any smoking, cooking or fermentation</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Preserved meat, except side bacon, and preserved meat by-products (Division 14)</td>
 <td>(2)</td>
 <td>Where sodium nitrite is added alone or in combination with potassium nitrite, the total amount of such nitrites added to each batch of preserved meat, except side bacon or preserved meat by-products, shall not exceed 0.32 ounce per 100 pounds or 200 parts per million, calculated prior to any smoking, cooking or fermentation</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Side bacon</td>
 <td>(3)</td>
 <td>Where sodium nitrite is added alone or in combination with potassium nitrite, the total amount of such nitrites added to each batch of side bacon shall not exceed 0.19 ounce per 100 pounds or 120 parts per million, calculated prior to any smoking, cooking or fermentation</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Preserved poultry meat and preserved poultry meat by-products (Division 22)</td>
 <td>(4)</td>
@@ -26638,6 +27371,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Preserved fish; Preserved meat (Divisions 14 and 21); Preserved meat by-product (Divisions 14 and 21); Preserved poultry meat; Preserved poultry meat by-product; Sausage</td>
 <td>(2)</td>
@@ -26651,28 +27386,11 @@ No.
 <td>(3)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>PART II</td>
-</tr>
-<tr>
-<td>FOOD ADDITIVES THAT MAY BE USED AS CLASS II PRESERVATIVES</td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
+</table>
+
+#### PART II
+<table>
+<h4>FOOD ADDITIVES THAT MAY BE USED AS CLASS II PRESERVATIVES</h4>
 <tr>
 <th></th>
 <th>Column I</th>
@@ -26680,17 +27398,10 @@ No.
 <th>Column III</th>
 </tr>
 <tr>
-<th>Item
-
-No.
-
-</th>
+<th>Item No.</th>
 <th>Additive</th>
 <th>Permitted in or Upon</th>
 <th>Maximum Level of Use</th>
-</tr>
-<tr>
-<th> </th>
 </tr>
 <tr>
 <td>B.1</td>
@@ -26701,29 +27412,40 @@ No.
 <td>1,000 p.p.m.</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
-<td>Unstandardized foods [except unstandardized preparations of
-
-**(a)** meat and meat by-product (Divisions 14 and 21);
-
-**(b)** fish; and
-
-**(c)** poultry meat and poultry meat by-product]
-
-</td>
+<td>Unstandardized foods [except unstandardized preparations of</td>
 <td>(2)</td>
 <td>1,000 p.p.m.</td>
 </tr>
 <tr>
 <td></td>
-</tr>
-<tr>
+<td></td>
+<td></td>
+<td>(a) meat and meat by-product (Divisions 14 and 21);</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
+<td></td>
+<td></td>
+<td>(b) fish; and</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(c) poultry meat and poultry meat by-product]</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Margarine</td>
 <td>(3)</td>
@@ -26754,26 +27476,35 @@ No.
 <td>1,000 p.p.m.</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
-<td>Unstandardized foods [except unstandardized preparations of
-
-**(a)** meat and meat by-product (Divisions 14 and 21);
-
-**(b)** fish; and
-
-**(c)** poultry meat and poultry meat by-product]
-
-</td>
+<td>Unstandardized foods [except unstandardized preparations of</td>
 <td>(2)</td>
 <td>1,000 p.p.m.</td>
 </tr>
 <tr>
 <td></td>
-</tr>
-<tr>
+<td></td>
+<td></td>
+<td>(a) meat and meat by-product (Divisions 14 and 21);</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(b) fish; and</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(c) poultry meat and poultry meat by-product]</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -26825,26 +27556,35 @@ No.
 <td>1,000 p.p.m.</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
-<td>Unstandardized foods [except unstandardized preparations of
-
-**(a)** meat and meat by-product (Divisions 14 and 21);
-
-**(b)** fish; and
-
-**(c)** poultry meat and poultry meat by-product]
-
-</td>
+<td>Unstandardized foods [except unstandardized preparations of</td>
 <td>(2)</td>
 <td>1,000 p.p.m.</td>
 </tr>
 <tr>
 <td></td>
-</tr>
-<tr>
+<td></td>
+<td></td>
+<td>(a) meat and meat by-product (Divisions 14 and 21);</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(b) fish; and</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(c) poultry meat and poultry meat by-product]</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -26928,41 +27668,56 @@ No.
 <td>1,000 p.p.m.</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
-<td>Unstandardized foods [except unstandardized preparations of
-
-**(a)** meat and meat by-product (Divisions 14 and 21);
-
-**(b)** fish; and
-
-**(c)** poultry meat and poultry meat by-product]
-
-</td>
+<td>Unstandardized foods [except unstandardized preparations of</td>
 <td>(2)</td>
 <td>1,000 p.p.m.</td>
 </tr>
 <tr>
 <td></td>
-</tr>
-<tr>
+<td></td>
+<td></td>
+<td>(a) meat and meat by-product (Divisions 14 and 21);</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
+<td></td>
+<td></td>
+<td>(b) fish; and</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(c) poultry meat and poultry meat by-product]</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Olive brine</td>
 <td>(3)</td>
 <td>300 p.p.m.</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Margarine</td>
 <td>(4)</td>
 <td>If used singly or in combination with Benzoic Acid, the total shall not exceed 1,000 p.p.m.</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(5)</td>
 <td>Unstandardized salad dressings</td>
 <td>(5)</td>
@@ -26977,71 +27732,96 @@ No.
 <td>70 p.p.m. in the free state or 350 p.p.m. in the combined state calculated as sulphur dioxide</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Ale; Beer; Light beer; Malt liquor; Porter; Stout</td>
 <td>(2)</td>
 <td>15 p.p.m. calculated as sulphur dioxide</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Apple (or rhubarb) and (naming the fruit) jam; Fancy molasses; Fig marmalade with pectin; Frozen sliced apples;  Fruit juices except frozen concentrated orange juice; Gelatin; (naming the fruit) jam; (naming the fruit) jam with pectin; (naming the fruit) jelly with pectin; (naming the citrus fruit) marmalade with pectin; Mincemeat; Pickles and relishes; Pineapple marmalade with pectin; (naming the source of the glucose) syrup; Refiners’ molasses; Table molasses; Tomato catsup; Tomato paste; Tomato pulp; Tomato puree</td>
 <td>(3)</td>
 <td>500 p.p.m. calculated as sulphur dioxide</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Beverages</td>
 <td>(4)</td>
 <td>100 p.p.m. calculated as sulphur dioxide</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(5)</td>
 <td>Dried fruits and vegetables</td>
 <td>(5)</td>
 <td>2,500 p.p.m. calculated as sulphur dioxide</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(6)</td>
-<td>Unstandardized foods [except in food recognized as a source of thiamine and except unstandardized preparations of
-
-**(a)** meat and meat by-product (Divisions 14 and 21);
-
-**(b)** fish; and
-
-**(c)** poultry meat and poultry meat by-product]
-
-</td>
+<td>Unstandardized foods [except in food recognized as a source of thiamine and except unstandardized preparations of</td>
 <td>(6)</td>
 <td>500 p.p.m. calculated as sulphur dioxide</td>
 </tr>
 <tr>
 <td></td>
-</tr>
-<tr>
+<td></td>
+<td></td>
+<td>(a) meat and meat by-product (Divisions 14 and 21);</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
+<td></td>
+<td></td>
+<td>(b) fish; and</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(c) poultry meat and poultry meat by-product]</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
 <td>(7)</td>
 <td>Frozen mushrooms</td>
 <td>(7)</td>
 <td>90 p.p.m. calculated as sulphur dioxide</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(8)</td>
 <td>Dextrose Anhydrous; Dextrose Monohydrate</td>
 <td>(8)</td>
 <td>20 p.p.m. calculated as sulphur dioxide</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(9)</td>
 <td>Glucose or glucose syrup</td>
 <td>(9)</td>
 <td>40 p.p.m. except glucose or glucose syrup for the manufacture of sugar confectionery not more than 400 p.p.m. calculated as sulphur dioxide</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(10)</td>
 <td>Glucose solids or dried glucose syrup</td>
 <td>(10)</td>
@@ -27055,28 +27835,11 @@ No.
 <td>(11)</td>
 <td>Good Manufacturing Practice. Residues in the edible portion of the uncooked product not to exceed 100 p.p.m., calculated as sulphur dioxide.</td>
 </tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>PART III</td>
-</tr>
-<tr>
-<td>FOOD ADDITIVES THAT MAY BE USED AS CLASS III PRESERVATIVES</td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
+</table>
+
+#### PART III
+<table>
+<h4>FOOD ADDITIVES THAT MAY BE USED AS CLASS III PRESERVATIVES</h4>
 <tr>
 <th></th>
 <th>Column I</th>
@@ -27084,17 +27847,10 @@ No.
 <th>Column III</th>
 </tr>
 <tr>
-<th>Item
-
-No.
-
-</th>
+<th>Item No.</th>
 <th>Additive</th>
 <th>Permitted in or Upon</th>
 <th>Maximum Level of Use</th>
-</tr>
-<tr>
-<th> </th>
 </tr>
 <tr>
 <td>C.1</td>
@@ -27105,6 +27861,8 @@ No.
 <td>2,000 p.p.m. calculated as Propionic Acid</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Soft flour tortillas</td>
 <td>(2)</td>
@@ -27127,6 +27885,8 @@ No.
 <td>20 p.p.m. in accordance with the requirements of sections B.08.033 and B.08.034</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>The surface of grated or shredded (named variety) cheese and grated or shredded cheddar cheese</td>
 <td>(2)</td>
@@ -27141,6 +27901,8 @@ No.
 <td>Same maximum levels of use as listed for Sorbic Acid</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Soft flour tortillas</td>
 <td>(2)</td>
@@ -27155,32 +27917,43 @@ No.
 <td>2,000 p.p.m.</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>(named variety) Cheese; Cheddar cheese; Cream cheese; Cream cheese with (named added ingredients); Cream cheese spread; Cream cheese spread with (named added ingredients); Processed (named variety) cheese; Processed (named variety) cheese with (named added ingredients); Processed cheese food; Processed cheese food with (named added ingredients); Processed cheese spread; Processed cheese spread with (named added ingredients); Cold-pack (named variety) cheese; Cold-pack (named variety) cheese with (named added ingredients); Cold-pack cheese food; Cold-pack cheese food with (named added ingredients)</td>
 <td>(2)</td>
 <td>2,000 p.p.m. or 3,000 p.p.m., as the case may be, in accordance with the requirements of sections B.08.033, B.08.034, B.08.035, B.08.037, B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3, B.08.041.4, B.08.041.5, B.08.041.6, B.08.041.7 and B.08.041.8</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
-<td>Unstandardized foods except unstandardized preparations of
-
-**(a)** meat and meat by-product (Divisions 14 and 21);
-
-**(b)** fish; and
-
-**(c)** poultry meat and poultry meat by-product
-
-</td>
+<td>Unstandardized foods except unstandardized preparations of</td>
 <td>(3)</td>
 <td>2,000 p.p.m.</td>
 </tr>
 <tr>
 <td></td>
-</tr>
-<tr>
+<td></td>
+<td></td>
+<td>(a) meat and meat by-product (Divisions 14 and 21);</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(b) fish; and</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(c) poultry meat and poultry meat by-product</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -27192,26 +27965,35 @@ No.
 <td>3,000 p.p.m.</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
-<td>Unstandardized foods [except unstandardized preparations of
-
-**(a)** meat and meat by-product (Divisions 14 and 21);
-
-**(b)** fish; and
-
-**(c)** poultry meat and poultry meat by-product]
-
-</td>
+<td>Unstandardized foods [except unstandardized preparations of</td>
 <td>(2)</td>
 <td>3,000 p.p.m.</td>
 </tr>
 <tr>
 <td></td>
-</tr>
-<tr>
+<td></td>
+<td></td>
+<td>(a) meat and meat by-product (Divisions 14 and 21);</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(b) fish; and</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(c) poultry meat and poultry meat by-product]</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -27239,41 +28021,34 @@ No.
 <td>1,000 p.p.m.</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>(named variety) Cheese; Cheddar cheese; Cream cheese; Cream cheese with (named added ingredients); Cream cheese spread; Cream cheese spread with (named added ingredients); Processed (named variety) cheese; Processed (named variety) cheese with (named added ingredients); Processed cheese food; Processed cheese food with (named added ingredients); Processed cheese spread; Processed cheese spread with (named added ingredients); Cold-pack (named variety) cheese; Cold-pack (named variety) cheese with (named added ingredients); Cold-pack cheese food; Cold-pack cheese food with (named added ingredients)</td>
 <td>(2)</td>
 <td>3,000 p.p.m. in accordance with the requirements of sections B.08.033, B.08.034, B.08.035, B.08.037, B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3, B.08.041.4, B.08.041.5, B.08.041.6, B.08.041.7 and B.08.041.8</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Cider; Wine; Honey Wine</td>
 <td>(3)</td>
 <td>500 p.p.m.</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(4)</td>
-<td>Unstandardized foods except unstandardized preparations of
-
-**(a)** meat and meat by-product (Divisions 14 and 21);
-
-**(b)** fish; and
-
-**(c)** poultry meat and poultry meat by-products
-
-</td>
+<td>Unstandardized foods except unstandardized preparations of</td>
 <td>(4)</td>
 <td>1,000 p.p.m.</td>
 </tr>
 <tr>
 <td></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
 <td></td>
 <td></td>
-<td></td>
+<td>(a) meat and meat by-product (Divisions 14 and 21);</td>
 <td></td>
 <td></td>
 </tr>
@@ -27281,24 +28056,23 @@ No.
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td>(b) fish; and</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>PART IV</td>
+<td></td>
+<td></td>
+<td></td>
+<td>(c) poultry meat and poultry meat by-products</td>
+<td></td>
+<td></td>
 </tr>
-<tr>
-<td>FOOD ADDITIVES THAT MAY BE USED AS CLASS IV PRESERVATIVES</td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
+</table>
+
+#### PART IV
+<table>
+<h4>FOOD ADDITIVES THAT MAY BE USED AS CLASS IV PRESERVATIVES</h4>
 <tr>
 <th></th>
 <th>Column I</th>
@@ -27306,17 +28080,10 @@ No.
 <th>Column III</th>
 </tr>
 <tr>
-<th>Item
-
-No.
-
-</th>
+<th>Item No.</th>
 <th>Additive</th>
 <th>Permitted in or Upon</th>
 <th>Maximum Level of Use</th>
-</tr>
-<tr>
-<th> </th>
 </tr>
 <tr>
 <td>A.1</td>
@@ -27327,6 +28094,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Unstandardized foods</td>
 <td>(2)</td>
@@ -27341,29 +28110,40 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
-<td>Unstandardized foods [except unstandardized preparations of
-
-**(a)** meat and meat by-product (Divisions 14 and 21);
-
-**(b)** fish; and
-
-**(c)** poultry meat and poultry meat by-product]
-
-</td>
+<td>Unstandardized foods [except unstandardized preparations of</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td></td>
-</tr>
-<tr>
+<td></td>
+<td></td>
+<td>(a) meat and meat by-product (Divisions 14 and 21);</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
+<td></td>
+<td></td>
+<td>(b) fish; and</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(c) poultry meat and poultry meat by-product]</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Margarine</td>
 <td>(3)</td>
@@ -27378,6 +28158,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Margarine</td>
 <td>(2)</td>
@@ -27392,80 +28174,117 @@ No.
 <td>0.02%. If butylated hydroxytoluene, propyl gallate or tertiary butyl hydroquinone is also used, the total must not exceed 0.02%</td>
 </tr>
 <tr>
+<td></td>
 <td>(2)</td>
 <td>Dried breakfast cereals; Dehydrated potato products</td>
 <td>(2)</td>
 <td>0.005%. If butylated hydroxytoluene or propyl gallate is also used the total must not exceed 0.005%</td>
 </tr>
 <tr>
+<td></td>
 <td>(3)</td>
 <td>Chewing gum</td>
 <td>(3)</td>
 <td>0.02%. If butylated hydroxytoluene or propyl gallate is also used the total must not exceed 0.02%</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Essential oils; Citrus oil flavours; Dry flavours</td>
 <td>(4)</td>
 <td>0.125%. If butylated hydroxytoluene or propyl gallate is also used the total must not exceed 0.125%</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(5)</td>
 <td>Citrus oils</td>
 <td>(5)</td>
 <td>0.5%. If butylated hydroxytoluene or propyl gallate is also used the total must not exceed 0.5%</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(6)</td>
 <td>Partially defatted pork fatty tissue; Partially defatted beef fatty tissue</td>
 <td>(6)</td>
 <td>0.0065%. If butylated hydroxytoluene is also used the total must not exceed 0.0065%</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(7)</td>
 <td>Vitamin A liquids for addition to food</td>
 <td>(7)</td>
 <td>5 mg/1,000,000 International Units</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(8)</td>
 <td>Dry beverage mixes; Dry dessert and confection mixes</td>
 <td>(8)</td>
 <td>0.009%</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(9)</td>
 <td>Active dry yeast</td>
 <td>(9)</td>
 <td>0.1%</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(10)</td>
-<td>Other unstandardized foods [except unstandardized preparations of
-
-**(a)** meat and meat by-product (Divisions 14 and 21);
-
-**(b)** fish; and
-
-**(c)** poultry meat and poultry meat by-product]
-
-</td>
+<td>Other unstandardized foods [except unstandardized preparations of</td>
 <td>(10)</td>
 <td>0.02% of the fat or the oil content of the food. If butylated hydroxytoluene or propyl gallate is also used the total must not exceed 0.02% of the fat or the oil content of the food</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(a) meat and meat by-product (Divisions 14 and 21);</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(b) fish; and</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(c) poultry meat and poultry meat by-product]</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
 <td>(11)</td>
 <td>Dry Vitamin D preparations for addition to food</td>
 <td>(11)</td>
 <td>10 mg/1,000,000 International Units</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(12)</td>
 <td>Margarine</td>
 <td>(12)</td>
 <td>0.01% of the fat content. If butylated hydroxytoluene or propyl gallate or both are also used the total must not exceed 0.01% of the fat content</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(13)</td>
 <td>Dried cooked poultry meat</td>
 <td>(13)</td>
@@ -27473,76 +28292,109 @@ No.
 </tr>
 <tr>
 <td>B.2</td>
-<td>Butylated Hydroxytol- uene (3,5-ditertiary-</td>
+<td>Butylated Hydroxytol- uene (3,5-ditertiary- butyl-4-hydroxytoluene</td>
 <td>(1)</td>
 <td>Fats and oils, lard, shortening</td>
 <td>(1)</td>
 <td>0.02%. If butylated hydroxyanisole, propyl gallate or tertiary butyl hydroquinone is also used, the total must not exceed 0.02%</td>
 </tr>
 <tr>
-<td>butyl-4-hydroxytoluene</td>
+<td></td>
 <td>(2)</td>
 <td>Dried breakfast cereals; Dehydrated potato products</td>
 <td>(2)</td>
 <td>0.005%. If butylated hydroxyanisole or propyl gallate is also used the total must not exceed 0.005%</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Chewing gum</td>
 <td>(3)</td>
 <td>0.02%. If butylated hydroxyanisole or propyl gallate is also used the total must not exceed 0.02%</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Essential oils; Citrus oil flavours; Dry flavours</td>
 <td>(4)</td>
 <td>0.125%. If butylated hydroxyanisole or propyl gallate is also used the total must not exceed 0.125%</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(5)</td>
 <td>Citrus oils</td>
 <td>(5)</td>
 <td>0.5%. If butylated hydroxyanisole or propyl gallate is also used the total must not exceed 0.5%</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(6)</td>
 <td>Partially defatted pork fatty tissue; Partially defatted beef fatty tissue</td>
 <td>(6)</td>
 <td>0.0065%. If butylated hydroxyanisole is also used the total must not exceed 0.0065%</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(7)</td>
 <td>Vitamin A liquids for addition to food</td>
 <td>(7)</td>
 <td>5 mg/1,000,000 International Units</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(8)</td>
 <td>Parboiled rice</td>
 <td>(8)</td>
 <td>0.0035%</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(9)</td>
-<td>Other unstandardized foods [except unstandardized preparations of 
-
-**(a)** meat and meat by-products (Divisions 14 and 21);
-
-**(b)** fish; and
-
-**(c)** poultry meat and poultry meat by-product]
-
-</td>
+<td>Other unstandardized foods [except unstandardized preparations of </td>
 <td>(9)</td>
 <td>0.02% of the fat or the oil content of the food. If butylated hydroxyanisole or propyl gallate is also used the total must not exceed 0.02% of the fat or the oil content of the food</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(a) meat and meat by-products (Divisions 14 and 21);</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(b) fish; and</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(c) poultry meat and poultry meat by-product]</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
 <td>(10)</td>
 <td>Dry Vitamin D preparations for addition to food</td>
 <td>(10)</td>
 <td>10 mg/1,000,000 Internatinal Units</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(11)</td>
 <td>Margarine</td>
 <td>(11)</td>
@@ -27557,29 +28409,40 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
-<td>Unstandardized foods [except unstandardized preparations of
-
-**(a)** meat and meat by-product (Divisions 14 and 21);
-
-**(b)** fish; and
-
-**(c)** poultry meat and poultry meat by-product]
-
-</td>
+<td>Unstandardized foods [except unstandardized preparations of</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td></td>
-</tr>
-<tr>
+<td></td>
+<td></td>
+<td>(a) meat and meat by-product (Divisions 14 and 21);</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
+<td></td>
+<td></td>
+<td>(b) fish; and</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(c) poultry meat and poultry meat by-product]</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Dried cooked poultry meat</td>
 <td>(3)</td>
@@ -27610,26 +28473,35 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
-<td>Unstandardized foods [except unstandardized preparations of
-
-**(a)** meat and meat by-product (Divisions 14 and 21);
-
-**(b)** fish; and
-
-**(c)** poultry meat and poultry meat by-product]
-
-</td>
+<td>Unstandardized foods [except unstandardized preparations of</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td></td>
-</tr>
-<tr>
+<td></td>
+<td></td>
+<td>(a) meat and meat by-product (Divisions 14 and 21);</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(b) fish; and</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(c) poultry meat and poultry meat by-product]</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -27641,26 +28513,35 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
-<td>Unstandardized foods [except unstandardized preparations of
-
-**(a)** meat and meat by-product (Divisions 14 and 21);
-
-**(b)** fish; and
-
-**(c)** poultry meat and poultry meat by-product]
-
-</td>
+<td>Unstandardized foods [except unstandardized preparations of</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td></td>
-</tr>
-<tr>
+<td></td>
+<td></td>
+<td>(a) meat and meat by-product (Divisions 14 and 21);</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(b) fish; and</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(c) poultry meat and poultry meat by-product]</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -27672,26 +28553,35 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
-<td>Unstandardized foods [except unstandardized preparations of
-
-**(a)** meat and meat by-product (Divisions 14 and 21);
-
-**(b)** fish; and
-
-**(c)** poultry meat and poultry meat by-product]
-
-</td>
+<td>Unstandardized foods [except unstandardized preparations of</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td></td>
-</tr>
-<tr>
+<td></td>
+<td></td>
+<td>(a) meat and meat by-product (Divisions 14 and 21);</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(b) fish; and</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(c) poultry meat and poultry meat by-product]</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -27703,29 +28593,40 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
-<td>Unstandardized foods [except unstandardized preparations of
-
-**(a)** meat and meat by-product (Divisions 14 and 21);
-
-**(b)** fish; and
-
-**(c)** poultry meat and poultry meat by-product]
-
-</td>
+<td>Unstandardized foods [except unstandardized preparations of</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td></td>
-</tr>
-<tr>
+<td></td>
+<td></td>
+<td>(a) meat and meat by-product (Divisions 14 and 21);</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
+<td></td>
+<td></td>
+<td>(b) fish; and</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(c) poultry meat and poultry meat by-product]</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Margarine</td>
 <td>(3)</td>
@@ -27740,29 +28641,40 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
-<td>Unstandardized foods [except unstandardized preparations of
-
-**(a)** meat and meat by-product (Divisions 14 and 21);
-
-**(b)** fish; and
-
-**(c)** poultry meat and poultry meat by-product]
-
-</td>
+<td>Unstandardized foods [except unstandardized preparations of</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td></td>
-</tr>
-<tr>
+<td></td>
+<td></td>
+<td>(a) meat and meat by-product (Divisions 14 and 21);</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
+<td></td>
+<td></td>
+<td>(b) fish; and</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(c) poultry meat and poultry meat by-product]</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Margarine</td>
 <td>(3)</td>
@@ -27777,48 +28689,79 @@ No.
 <td>0.02%. If butylated hydroxyanisole, butylated hydroxytoluene or tertiary butyl hydroquinone is also used, the total must not exceed 0.02%</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Dried breakfast cereals; Dehydrated potato products</td>
 <td>(2)</td>
 <td>0.005%. If butylated hydroxyanisole or butylated hydroxytoluene is also used the total must not exceed 0.005%</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Chewing gum</td>
 <td>(3)</td>
 <td>0.02%. If butylated hydroxyanisole or butylated hydroxytoluene is also used the total must not exceed 0.02%</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Essential oils; Dry flavours</td>
 <td>(4)</td>
 <td>0.125%. If butylated hydroxyanisole or butylated hydroxytoluene is also used the total must not exceed 0.125%</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(5)</td>
 <td>Citrus oils</td>
 <td>(5)</td>
 <td>0.5%. If butylated hydroxyanisole or butylated hydroxytoluene is also used the total must not exceed 0.5%</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(6)</td>
-<td>Other unstandardized foods [except unstandardized preparations of**(a)** meat and meat by-product (Divisions 14 and 21);
-
-**(b)** fish; and
-
-**(c)** poultry meat and poultry meat by-product]
-
-</td>
+<td>Other unstandardized foods [except unstandardized preparations of</td>
 <td>(6)</td>
 <td>0.02% of the fat or the oil content of the food. If butylated hydroxyanisole or butylated hydroxytoluene is also used the total must not exceed 0.02% of the fat or the oil content of the food</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(a) meat and meat by-product (Divisions 14 and 21);</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(b) fish; and</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(c) poultry meat and poultry meat by-product]</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
 <td>(7)</td>
 <td>Margarine</td>
 <td>(7)</td>
 <td>0.01% of the fat content. If butylated hydroxyanisole or butylated hydroxytoluene or both are also used the total must not exceed 0.01% of the fat content</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(8)</td>
 <td>Dried cooked poultry meat</td>
 <td>(8)</td>
@@ -27833,26 +28776,35 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
-<td>Unstandardized foods [except unstandardized preparations of
-
-**(a)** meat and meat by-product (Divisions 14 and 21);
-
-**(b)** fish; and
-
-**(c)** poultry meat and poultry meat by-product]
-
-</td>
+<td>Unstandardized foods [except unstandardized preparations of</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td></td>
-</tr>
-<tr>
+<td></td>
+<td></td>
+<td>(a) meat and meat by-product (Divisions 14 and 21);</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(b) fish; and</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(c) poultry meat and poultry meat by-product]</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -27865,37 +28817,24 @@ No.
 </tr>
 <tr>
 <td>T.2</td>
-<td>Tocopherols (alpha-tocopherol;</td>
+<td>Tocopherols (alpha-tocopherol; tocopherols concentrate, mixed)</td>
 <td>(1)</td>
 <td>Fats and oils; Lard; Monoglycerides and diglycerides; Shortening</td>
 <td>(1)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
-<td>tocopherols concentrate, mixed)</td>
+<td></td>
 <td>(2)</td>
-<td>Unstandardized foods [except unstandardized preparations of
-
-**(a)** meat and meat by-product (Divisions 14 and 21);
-
-**(b)** fish; and
-
-**(c)** poultry meat and poultry meat by-product]
-
-</td>
+<td>Unstandardized foods [except unstandardized preparations of</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
 <td></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
 <td></td>
 <td></td>
-<td></td>
+<td>(a) meat and meat by-product (Divisions 14 and 21);</td>
 <td></td>
 <td></td>
 </tr>
@@ -27903,13 +28842,21 @@ No.
 <td></td>
 <td></td>
 <td></td>
+<td>(b) fish; and</td>
 <td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(c) poultry meat and poultry meat by-product]</td>
 <td></td>
 <td></td>
 </tr>
 </table>
 
->  SOR/79-285, ss. 1 to 4; SOR/79-660, s. 18; SOR/79-752, s. 10;  SOR/80-500, s. 7; SOR/81-565, s. 6; SOR/81-934, ss. 13 to 15; SOR/82-383, s. 11; SOR/86-89, s. 7; SOR/86-1020, s. 1; SOR/87-138, ss. 1, 2; SOR/87-469, s. 2; SOR/89-198, ss. 12 to 16; SOR/91-124, ss. 10 to 12; SOR/92-226, s. 1; SOR/92-591, s. 2(F); SOR/94-689, s. 2(F); SOR/95-592, s. 1; SOR/96-241, s. 2; SOR/97-148, s. 7; SOR/97-191, s. 4; SOR/98-459, s. 1; SOR/99-289, ss. 1 to 4; SOR/2003-156, s. 1; SOR/2005-316, ss. 4 to 6..
+> SOR/79-285, ss. 1 to 4; SOR/79-660, s. 18; SOR/79-752, s. 10;  SOR/80-500, s. 7; SOR/81-565, s. 6; SOR/81-934, ss. 13 to 15; SOR/82-383, s. 11; SOR/86-89, s. 7; SOR/86-1020, s. 1; SOR/87-138, ss. 1, 2; SOR/87-469, s. 2; SOR/89-198, ss. 12 to 16; SOR/91-124, ss. 10 to 12; SOR/92-226, s. 1; SOR/92-591, s. 2(F); SOR/94-689, s. 2(F); SOR/95-592, s. 1; SOR/96-241, s. 2; SOR/97-148, s. 7; SOR/97-191, s. 4; SOR/98-459, s. 1; SOR/99-289, ss. 1 to 4; SOR/2003-156, s. 1; SOR/2005-316, ss. 4 to 6..
 
 
 
@@ -27923,17 +28870,10 @@ No.
 <th>Column III</th>
 </tr>
 <tr>
-<th>Item
-
-No.
-
-</th>
+<th>Item No.</th>
 <th>Additive</th>
 <th>Permitted in or Upon</th>
 <th>Maximum Level of Use</th>
-</tr>
-<tr>
-<th> </th>
 </tr>
 <tr>
 <td>A.1</td>
@@ -27968,6 +28908,7 @@ No.
 <td>25 p.p.m. calculated as the anhydrous form</td>
 </tr>
 <tr>
+<td></td>
 <td>Ethylenediaminetetraacetate</td>
 <td>(2)</td>
 <td>French dressing; Mayonnaise; Salad dressing; Unstandardized dressings and sauces</td>
@@ -27975,60 +28916,80 @@ No.
 <td>75 p.p.m. calculated as the anhydrous form</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Potato salad; Sandwich spread</td>
 <td>(3)</td>
 <td>100 p.p.m. calculated as the anhydrous form</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Canned shrimp; Canned tuna</td>
 <td>(4)</td>
 <td>250 p.p.m. calculated as the anhydrous form</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(5)</td>
 <td>Canned crabmeat; Canned lobster; Canned salmon</td>
 <td>(5)</td>
 <td>275 p.p.m. calculated as the anhydrous form</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(6)</td>
 <td>Margarine</td>
 <td>(6)</td>
 <td>75 p.p.m. calculated as the anhydrous form</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(7)</td>
 <td>Canned clams</td>
 <td>(7)</td>
 <td>340 p.p.m. calculated as the anhydrous form</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(8)</td>
 <td>Canned ripe lima beans (butter beans); Canned pinto beans</td>
 <td>(8)</td>
 <td>130 p.p.m calculated as the anhydrous form and in accordance with the requirements of subparagraph B.11.002(d)(vi)</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(9)</td>
 <td>Canned snails; Canned sea snails</td>
 <td>(9)</td>
 <td>300 p.p.m. calculated as the anhydrous form</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(10)</td>
 <td>Canned fava beans</td>
 <td>(10)</td>
 <td>365 p.p.m. calculated as the anhydrous form and in accordance with the requirements of subparagraph B.11.002(d)(vi.1)</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(11)</td>
 <td>Soft drinks; Ready-to-drink teas</td>
 <td>(11)</td>
 <td>33 p.p.m. calculated as the anhydrous form</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(12)</td>
 <td>Pasteurized sous-vide potatoes</td>
 <td>(12)</td>
@@ -28081,12 +29042,16 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Unstandardized foods</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Frozen fish fillets; frozen minced fish; frozen comminuted fish</td>
 <td>(3)</td>
@@ -28101,30 +29066,38 @@ No.
 <td>70 p.p.m.</td>
 </tr>
 <tr>
+<td></td>
 <td>(2)</td>
 <td>Sandwich spread</td>
 <td>(2)</td>
 <td>90 p.p.m</td>
 </tr>
 <tr>
+<td></td>
 <td>(3)</td>
 <td>Canned red kidney beans; Canned chick peas (garbanzo beans); Canned black-eye peas</td>
 <td>(3)</td>
 <td>150 p.p.m in accordance with the requirements of subparagraph B.11.002(d)(vii)</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Dried banana products</td>
 <td>(4)</td>
 <td>265 p.p.m</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(5)</td>
 <td>Aqueous suspensions of colour lake preparations for use in coating confectionery tablets</td>
 <td>(5)</td>
 <td>1% of the colour preparation</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(6)</td>
 <td>Pasteurized **sous-vide** potatoes</td>
 <td>(6)</td>
@@ -28163,12 +29136,15 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
 <td>(2)</td>
 <td>Unstandardized foods</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Solid cut meat; prepared meat; prepared meat by-product; solid cut poultry meat; prepared poultry meat; prepared poultry meat by-product</td>
 <td>(3)</td>
@@ -28183,6 +29159,7 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
 <td>(2)</td>
 <td>Solid cut meat; prepared meat; prepared meat by-product; solid cut poultry meat; prepared poultry meat; prepared poultry meat by-product</td>
 <td>(2)</td>
@@ -28205,30 +29182,40 @@ No.
 <td>Used singly or in combination with sodium hexametaphosphate or sodium tripolyphosphate, or both, total added phosphate not to exceed 0.5% calculated as sodium phosphate, dibasic</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Ice cream mix; Ice milk mix</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Injection or cover solution for the curing of poultry or poultry meat</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice, and in accordance with B.22.021(e)</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Pumping pickle for the curing of pork, beef and lamb cuts</td>
 <td>(4)</td>
 <td>Good Manufacturing Practice, and in accordance with B.14.009(f) and B.14.031(h)</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(5)</td>
 <td>Unstandardized foods</td>
 <td>(5)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(6)</td>
 <td>Solid cut meat; prepared meat; prepared meat by-product; solid cut poultry meat; prepared poultry meat; prepared poultry meat by-product</td>
 <td>(6)</td>
@@ -28243,6 +29230,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Unstandardized foods</td>
 <td>(2)</td>
@@ -28257,30 +29246,40 @@ No.
 <td>Used singly or in combination with sodium acid pyrophosphate or sodium tripolyphosphate, or both, total added phosphate not to exceed 0.5% calculated as sodium phosphate, dibasic</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Ice cream mix; Ice milk mix</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Injection or cover solution for the curing of poultry or poultry meat</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice, and in accordance with B.22.021(e)</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Pumping pickle for the curing of pork, beef and lamb cuts</td>
 <td>(4)</td>
 <td>Good Manufacturing Practice, and in accordance with B.14.009(f) and B.14.031(h)</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(5)</td>
 <td>Unstandardized foods</td>
 <td>(5)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(6)</td>
 <td>Solid cut meat; prepared meat; prepared meat by-product; solid cut poultry meat; prepared poultry meat; prepared poultry meat by-product</td>
 <td>(6)</td>
@@ -28295,24 +29294,31 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
 <td>(2)</td>
 <td>Injection or cover solution for the curing of poultry or poultry meat</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice, and in accordance with B.22.021(e)</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Pumping pickle for the curing of pork, beef and lamb cuts</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice, and in accordance with B.14.009(f) and B.14.031(h)</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Unstandardized foods</td>
 <td>(4)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(5)</td>
 <td>Solid cut meat; prepared meat; prepared meat by-product; solid cut poultry meat; prepared poultry meat; prepared poultry meat by-product</td>
 <td>(5)</td>
@@ -28327,24 +29333,31 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
 <td>(2)</td>
 <td>Injection or cover solution for the curing of poultry or poultry meat</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice, and in accordance with B.22.021(e)</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Pumping pickle for the curing of pork, beef and lamb cuts</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice, and in accordance with B.14.009(f) and B.14.031(h)</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Unstandardized foods</td>
 <td>(4)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(5)</td>
 <td>Solid cut meat; prepared meat; prepared meat by-product; solid cut poultry meat; prepared poultry meat; prepared poultry meat by-product</td>
 <td>(5)</td>
@@ -28359,30 +29372,39 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
 <td>(2)</td>
 <td>Meat tenderizers</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Injection or cover solution for the curing of poultry or poultry meat</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice, and in accordance with B.22.021(e)</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Pumping pickle for the curing of pork, beef and lamb cuts</td>
 <td>(4)</td>
 <td>Good Manufacturing Practice, and in accordance with B.14.009(f) and B.14.031(h)</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(5)</td>
 <td>Unstandardized foods</td>
 <td>(5)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(6)</td>
 <td>Solid cut meat; prepared meat; prepared meat by-product; solid cut poultry meat; prepared poultry meat; prepared poultry meat by-product</td>
 <td>(6)</td>
@@ -28397,30 +29419,39 @@ No.
 <td>Good Manufacturing Practice, and in accordance with B.22.021(e)</td>
 </tr>
 <tr>
+<td></td>
 <td>(2)</td>
 <td>Meat tenderizers</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Pumping pickle for the curing of pork, beef and lamb cuts</td>
 <td>(3)</td>
 <td>Good Manufacturing Practice, and in accordance with B.14.009(f) and B.14.031(h)</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Unstandardized foods</td>
 <td>(4)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(5)</td>
 <td>Solid cut meat; prepared meat; prepared meat by-product; solid cut poultry meat; prepared poultry meat; prepared poultry meat by-product</td>
 <td>(5)</td>
 <td>0.5% total added phosphate, calculated as sodium phosphate, dibasic</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(6)</td>
 <td>Canned seafoods</td>
 <td>(6)</td>
@@ -28436,7 +29467,7 @@ No.
 </tr>
 </table>
 
->  SOR/79-660, ss. 19, 20; SOR/80-501, s. 4; SOR/82-596, ss. 4 to 9; SOR/94-141, s. 1; SOR/94-262, ss. 4 to 12; SOR/94-689, s. 2; SOR/95-435, s. 2; SOR/97-30, s. 1; SOR/97-562, s. 1; SOR/580, s. 1(F); SOR/2005-316, ss. 7 to 11..
+> SOR/79-660, ss. 19, 20; SOR/80-501, s. 4; SOR/82-596, ss. 4 to 9; SOR/94-141, s. 1; SOR/94-262, ss. 4 to 12; SOR/94-689, s. 2; SOR/95-435, s. 2; SOR/97-30, s. 1; SOR/97-562, s. 1; SOR/580, s. 1(F); SOR/2005-316, ss. 7 to 11..
 
 
 
@@ -28450,17 +29481,10 @@ No.
 <th>Column III</th>
 </tr>
 <tr>
-<th>Item
-
-No.
-
-</th>
+<th>Item No.</th>
 <th>Additive</th>
 <th>Permitted in or Upon</th>
 <th>Maximum Level of Use</th>
-</tr>
-<tr>
-<th> </th>
 </tr>
 <tr>
 <td>A.1</td>
@@ -28602,7 +29626,7 @@ No.
 </tr>
 </table>
 
->  SOR/94-689, s. 2(F)..
+> SOR/94-689, s. 2(F)..
 
 
 
@@ -28616,17 +29640,10 @@ No.
 <th>Column III</th>
 </tr>
 <tr>
-<th>Item
-
-No.
-
-</th>
+<th>Item No.</th>
 <th>Additive</th>
 <th>Permitted in or Upon</th>
 <th>Maximum Level of Use</th>
-</tr>
-<tr>
-<th> </th>
 </tr>
 <tr>
 <td>A.1</td>
@@ -28637,12 +29654,15 @@ No.
 <td>2,000 p.p.m. of the flour</td>
 </tr>
 <tr>
+<td></td>
 <td>(2)</td>
 <td>Bread</td>
 <td>(2)</td>
 <td>2,500 p.p.m. of the flour. For combinations see paragraph B.13.021(m)</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Unstandardized foods</td>
 <td>(3)</td>
@@ -28657,12 +29677,16 @@ No.
 <td>2,500 p.p.m. of the flour. For combinations see paragraph B.13.021(m)</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Cider; Honey wine; Wine</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Unstandardized bakery foods</td>
 <td>(3)</td>
@@ -28677,12 +29701,16 @@ No.
 <td>2,500 p.p.m. of the flour. For combinations see paragraph B.13.021(m)</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Ale; Beer; Cider; Honey wine; Light beer; Malt liquor; Porter; Stout; Wine</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Unstandardized bakery foods</td>
 <td>(3)</td>
@@ -28697,12 +29725,16 @@ No.
 <td>2,500 p.p.m. of the flour. For combinations see paragraph B.13.021(m)</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Cider; Honey wine; Wine</td>
 <td>(2)</td>
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Unstandardized bakery foods</td>
 <td>(3)</td>
@@ -28717,6 +29749,8 @@ No.
 <td>2,500 p.p.m. of the flour. For combinations see paragraph B.13.021(m)</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Unstandardized bakery foods</td>
 <td>(2)</td>
@@ -28747,6 +29781,8 @@ No.
 <td>2,500 p.p.m. of the flour. For combinations see paragraph B.13.021(m)</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Unstandardized bakery foods</td>
 <td>(2)</td>
@@ -28761,6 +29797,8 @@ No.
 <td>2,500 p.p.m. of the flour. For combinations see paragraph B.13.021(m)</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Unstandardized bakery foods</td>
 <td>(2)</td>
@@ -28775,12 +29813,16 @@ No.
 <td>7,500 p.p.m. of flour. For combinations see paragraph B.13.021(m)</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Flour</td>
 <td>(2)</td>
 <td>7,500 p.p.m. of flour</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Unstandardized bakery foods</td>
 <td>(3)</td>
@@ -28803,6 +29845,8 @@ No.
 <td>5,000 p.p.m. of the flour</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Unstandardized foods</td>
 <td>(2)</td>
@@ -28841,6 +29885,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Unstandardized bakery foods</td>
 <td>(2)</td>
@@ -28855,6 +29901,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Unstandardized bakery foods</td>
 <td>(2)</td>
@@ -28878,9 +29926,7 @@ No.
 </tr>
 <tr>
 <td>U.1</td>
-<td>[Repealed, SOR/87-5, s. 1]
-
-</td>
+<td>[Repealed, SOR/87-5, s. 1]</td>
 </tr>
 <tr>
 <td>Z.1</td>
@@ -28891,6 +29937,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Bacterial cultures</td>
 <td>(2)</td>
@@ -28898,7 +29946,7 @@ No.
 </tr>
 </table>
 
->  SOR/87-5, s. 1; SOR/94-689, s. 2(F); SOR/95-281, ss. 6, 7..
+> SOR/87-5, s. 1; SOR/94-689, s. 2(F); SOR/95-281, ss. 6, 7..
 
 
 
@@ -28913,18 +29961,11 @@ No.
 <th>Column IV</th>
 </tr>
 <tr>
-<th>Item
-
-No.
-
-</th>
+<th>Item No.</th>
 <th>Additive</th>
 <th>Permitted in or Upon</th>
 <th>Maximum Residue</th>
 <th>Maximum Level of Use</th>
-</tr>
-<tr>
-<th> </th>
 </tr>
 <tr>
 <td>1</td>
@@ -28937,6 +29978,8 @@ No.
 <td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Meat and Egg Marking Inks</td>
 <td></td>
@@ -28955,6 +29998,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Unstandardized flavouring preparations</td>
 <td></td>
@@ -28973,6 +30018,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Unstandardized flavouring preparations</td>
 <td></td>
@@ -28991,6 +30038,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Spice extracts; Natural extractives; (naming the flavour) Flavour (Division 10); Hop extract in accordance with subparagraph B.02.130(b)(v) and paragraph B.02.133(b); Pre-isomerized hop extract in accordance with subparagraph B.02.134(1)(a)(ii)</td>
 <td></td>
@@ -28999,6 +30048,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Egg Products</td>
 <td></td>
@@ -29007,6 +30058,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Cocoa powder</td>
 <td></td>
@@ -29035,6 +30088,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Unstandardized flavouring preparations</td>
 <td></td>
@@ -29043,6 +30098,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Green coffee beans for decaffeination purposes</td>
 <td>(3)</td>
@@ -29051,6 +30108,8 @@ No.
 <td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Tea leaves for decaffeination purposes</td>
 <td>(4)</td>
@@ -29069,6 +30128,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Unstandardized flavouring preparations</td>
 <td></td>
@@ -29077,6 +30138,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Colour mixtures and preparations (Division 6)</td>
 <td></td>
@@ -29085,6 +30148,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Meat and Egg Marking Inks</td>
 <td></td>
@@ -29093,6 +30158,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(5)</td>
 <td>Food additive preparations</td>
 <td></td>
@@ -29101,6 +30168,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(6)</td>
 <td>Hop extract in accordance with subparagraph B.02.130(b)(v) and paragraph B.02.133(b); Pre-isomerized hop extract in accordance with subparagraph B.02.134(1)(a)(iii)</td>
 <td></td>
@@ -29120,9 +30189,7 @@ No.
 </tr>
 <tr>
 <td>7</td>
-<td>[Repealed, SOR/82-406, s. 1]
-
-</td>
+<td>[Repealed, SOR/82-406, s. 1]</td>
 </tr>
 <tr>
 <td>8</td>
@@ -29135,6 +30202,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Unstandardized flavouring preparations</td>
 <td></td>
@@ -29143,6 +30212,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Colour mixtures and preparations (Division 6)</td>
 <td></td>
@@ -29151,6 +30222,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Food additive preparations</td>
 <td></td>
@@ -29169,6 +30242,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Unstandardized flavouring preparations</td>
 <td></td>
@@ -29187,6 +30262,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Unstandardized flavouring preparations</td>
 <td></td>
@@ -29205,6 +30282,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Unstandardized flavouring preparations</td>
 <td></td>
@@ -29223,6 +30302,8 @@ No.
 <td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Hop extract in accordance with subparagraph B.02.130(b)(v) and paragraph B.02.133(a)</td>
 <td>(2)</td>
@@ -29231,6 +30312,8 @@ No.
 <td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Vegetable fats and oils</td>
 <td>(3)</td>
@@ -29239,6 +30322,8 @@ No.
 <td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Vegetable oil seed meals</td>
 <td>(4)</td>
@@ -29247,6 +30332,8 @@ No.
 <td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(5)</td>
 <td>Pre-isomerized hop extract in accordance with subparagraph B.02.134(1)(a)(i) and subsection B.02.134(2)</td>
 <td>(5)</td>
@@ -29265,6 +30352,7 @@ No.
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td>(2)</td>
 <td>Fish protein</td>
 <td>(2)</td>
@@ -29273,6 +30361,8 @@ No.
 <td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>(naming the flavour) Flavour (Division 10)</td>
 <td></td>
@@ -29281,6 +30371,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Unstandardized flavouring preparations</td>
 <td></td>
@@ -29289,6 +30381,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(5)</td>
 <td>Meat and Egg Marking Inks</td>
 <td></td>
@@ -29307,6 +30401,7 @@ No.
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td>(2)</td>
 <td>Hop extract in accordance with subparagraph B.02.130(b)(v) and paragraph B.02.133(a)</td>
 <td>(2)</td>
@@ -29315,6 +30410,8 @@ No.
 <td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Meat and Egg Marking Inks</td>
 <td></td>
@@ -29343,6 +30440,7 @@ No.
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td>(2)</td>
 <td>Hop extract in accordance with subparagraph B.02.130(b)(v) and paragraph B.02.133(a)</td>
 <td>(2)</td>
@@ -29351,6 +30449,8 @@ No.
 <td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Green coffee beans and Tea leaves for decaffeination purposes</td>
 <td>(3)</td>
@@ -29369,6 +30469,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Oil-soluble annatto; Annatto butter colour; Annatto margarine colour</td>
 <td></td>
@@ -29377,6 +30479,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Unstandardized flavouring preparations</td>
 <td></td>
@@ -29385,6 +30489,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Food additive preparations</td>
 <td></td>
@@ -29403,6 +30509,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Unstandardized flavouring preparations</td>
 <td></td>
@@ -29431,6 +30539,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Oil-soluble annatto; Annatto butter colour; Annatto margarine colour</td>
 <td></td>
@@ -29439,6 +30549,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(3)</td>
 <td>Unstandardized flavouring preparations</td>
 <td></td>
@@ -29447,6 +30559,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(4)</td>
 <td>Colour mixtures and preparations (Division 6)</td>
 <td></td>
@@ -29455,6 +30569,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(5)</td>
 <td>Food additive preparations</td>
 <td></td>
@@ -29483,6 +30599,8 @@ No.
 <td>Good Manufacturing Practice</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td>(2)</td>
 <td>Unstandardized flavouring preparations</td>
 <td></td>
@@ -29493,6 +30611,8 @@ No.
 </table>
 
 > SOR/78-403, ss. 26, 27; SOR/82-383, s. 12; SOR/82-406, s. 1; SOR/82-913, s. 5; SOR/82-1071, ss. 21, 22; SOR/84-541, s. 1; SOR/86-89, ss. 8, 9; SOR/86-178, ss. 4 to 7; SOR/86-1112, s. 9; SOR/90-667, s. 1; SOR/94-689, s. 2; SOR/96-259, s. 1; SOR/96-377, s. 1.
+
+
 
 
 
@@ -43274,6 +44394,8 @@ the Minister may issue a registration number for the test kit, which shall be a 
 
 Abacavir and its salts<br />- <i>Abacavir et ses sels</i>
 
+Abatacept<br />- <i>Abatacept</i>
+
 Abciximab<br />- <i>Abciximab</i>
 
 Acarbose and its derivatives<br />- <i>Acarbose et ses dérivés</i>
@@ -43768,6 +44890,8 @@ Deferoxamine and its salts<br />- <i>Déféroxamine et ses sels</i>
 
 Delavirdine and its salts<br />- <i>Délavirdine et ses sels</i>
 
+Deracoxib<br />- <i>Déracoxib</i>
+
 Deserpidine and its alkaloids and salts<br />- <i>Déserpidine, ses alcaloïdes et sels</i>
 
 Desflurane<br />- <i>Desflurane</i>
@@ -43910,6 +45034,8 @@ Enrofloxacin<br />- <i>Enrofloxacine</i>
 
 Entacapone<br />- <i>Entacapone</i>
 
+Entecavir<br />- <i>Entécavir</i>
+
 Epirubicine and its salts<br />- <i>Épirubicine et ses sels</i>
 
 Epoprostenol and its salts<br />- <i>Époprosténol et ses sels</i>
@@ -43919,6 +45045,8 @@ Eprosartan and its salts and derivatives<br />- <i>Éprosartan et ses sels et d�
 Epsiprantel<br />- <i>Epsiprantel</i>
 
 Eptifibatide and its salts<br />- <i>Eptifibatide et ses sels</i>
+
+Erlotinib and its salts<br />- <i>Erlotinib et ses sels</i>
 
 Ertapenem and its salts<br />- <i>Ertapénem et ses sels</i>
 
@@ -44110,6 +45238,8 @@ Hexacyclonate sodium<br />- <i>Hexacyclonate sodique</i>
 
 Hexamethonium and its salts<br />- <i>Hexaméthonium et ses sels</i>
 
+Histrelin and its salts<br />- <i>Histréline et ses sels</i>
+
 Hyaluronic acid and its salts, when sold or recommended for administration by intra-articular injection to horses<br />- <i>Hyaluronique (acide) et ses sels, s’il est vendu ou recommandé pour administration par injection intra-articulaire aux chevaux</i>
 
 Hydralazine and its salts<br />- <i>Hydralazine et ses sels</i>
@@ -44249,6 +45379,8 @@ Losoxantrone and its salts<br />- <i>Losoxantrone et ses sels</i>
 Lovastatin<br />- <i>Lovastatine</i>
 
 Loxapine and its salts<br />- <i>Loxapine et ses sels</i>
+
+Lutropin alfa<br />- <i>Lutropine alfa</i>
 
 Magnesium glutamate hydrobromide<br />- <i>Bromhydrate de glutamate de magnésium</i>
 
@@ -44710,6 +45842,8 @@ Praziquantel, except when sold for the treatment of the tapeworm Anoplocephala p
 
 Prazosin and its salts<br />- <i>Prazosine et ses sels</i>
 
+Pregabalin and its salts and derivatives<br />- <i>Prégabaline, ses sels et ses dérivés</i>
+
 Prenylamine and its salts<br />- <i>Prénylamine et ses sels</i>
 
 Primaquine and its salts<br />- <i>Primaquine et ses sels</i>
@@ -44783,6 +45917,8 @@ Remoxipride and its salts<br />- <i>Rémoxipride et ses sels</i>
 Repaglinide and its salts and derivatives<br />- <i>Répaglinide et ses sels et dérivés</i>
 
 Rescinnamine and its salts<br />- <i>Rescinnamine et ses sels</i>
+
+Resocortol and its derivatives<br />- <i>Résocortol et ses dérivés</i>
 
 Reviparin and its salts<br />- <i>Réviparine et ses sels</i>
 
@@ -44858,6 +45994,8 @@ Sodium nitroprusside and its salts<br />- <i>Sodium (nitroprussiate de) et ses s
 
 Sodium polystyrene sulfonate<br />- <i>Sulfonate de polystyrène de sodium</i>
 
+Solifenacin and its salts<br />- <i>Solifénacine et ses sels</i>
+
 Somatostatin<br />- <i>Somatostatine</i>
 
 Somatrem<br />- <i>Somatrem</i>
@@ -44887,6 +46025,8 @@ Sulindac and its salts<br />- <i>Sulindac et ses sels</i>
 Sulphones and their derivatives<br />- <i>Sulphones et leurs dérivés</i>
 
 Sumatriptan and its salts<br />- <i>Sumatriptan et ses sels</i>
+
+Sunitinib and its salts<br />- <i>Sunitinib et ses sels</i>
 
 Suprofen and its salts<br />- <i>Suprofène et ses sels</i>
 
@@ -45073,6 +46213,8 @@ Trioxsalen<br />- <i>Trioxysalène</i>
 Troglitazone<br />- <i>Troglitazone</i>
 
 Tropicamide and its salts in preparations for parenteral or ophthalmic use, except when sold for use in diagnostic procedures to an optometrist registered in a province of Canada<br />- <i>Tropicamide et ses sels dans les préparations pour usage ophtalmique ou parentéral, sauf lorsque vendu pour usage diagnostique à un optométriste enregistré dans une province du Canada</i>
+
+Trospium chloride<br />- <i>Trospium (chlorure de)</i>
 
 Trovafloxacin and its salts and derivatives<br />- <i>Trovafloxacine et ses sels et dérivés</i>
 
@@ -45454,7 +46596,7 @@ Vitamin K, except Vitamin K1 and Vitamin K2 sold
 
 
 
->  SOR/78-423, s. 5; SOR/78-427, s. 11; SOR/79-754, s. 1; SOR/80-279, s. 1; SOR/81-334, s. 6; SOR/81-358, s. 2; SOR/82-1072, s. 1; SOR/85-551, s. 2; SOR/86-91, s. 5; SOR/86-955, s. 1; SOR/87-332, s. 1; SOR/87-447, s. 1; SOR/87-496, ss. 1 to 18; SOR/87-669, ss. 1, 2; SOR/88-351, ss. 1 to 11; SOR/88-511, ss. 1 to 11; SOR/89-195, s. 1; SOR/89-454, ss. 1 to 4; SOR/89-504, ss. 1 to 4; SOR/89-572, ss. 1 to 45; SOR/90-119, ss. 1 to 10; SOR/90-173, s. 2(F); SOR/90-443, ss. 1(F) to 4 (F), 5, 6(F) to 15(F); SOR/90-585, ss. 1 to 5; SOR/91-197, ss. 1, 2(F); SOR/91-521, ss. 1 to 15; SOR/92-95, ss. 1 to 9; SOR/92-386, ss. 4 to 8; SOR/92-591, s. 2; SOR/92-647, ss. 1 to 15; SOR/92-724, s. 1; SOR/93-110, ss. 1 to 3, 4(E), 5(E), 6 to 11; SOR/93-243, s. 2; SOR/93-435, ss. 1 to 38; SOR/94-166, ss. 1 to 17, 18(E), 19 to 30; SOR/94-286, ss. 1, 2; SOR/94-458, ss. 1 to 13; SOR/94-462, s. 1; SOR/94-557, ss. 1 to 9; SOR/94-461, s. 1; SOR/95-59, s. 1; SOR/95-172, s. 2; SOR/95-201, s. 1; SOR/95-546, s. 1; SOR/96-253, ss. 1, 2; SOR/96-306, s. 1; SOR/97-140, s. 1; SOR/97-407, s. 1; SOR/97-410, ss. 1, 2; SOR/97-414, s. 1; SOR/97-543, ss. 8, 9; SOR/97-544, s. 1; SOR/97-567, s. 1; SOR/98-291, ss. 1 to 7; SOR/98-292, s. 1; SOR/98-293, s. 1; SOR/98-294, s. 1; SOR/99-370, ss. 1, 2(F), 3, 4(F); SOR/99-373, s. 1; SOR/99-374, ss. 1(F), 2; SOR/99-412, s. 1; SOR/2000-119, s. 1; SOR/2000-124, s. 1; SOR/2000-197, ss. 1, 2; SOR/2000-219, s. 2; SOR/2000-403, ss. 1, 2; SOR/2001-95, s. 1; SOR/2001-531, s. 1; SOR/2002-53, s. 1; SOR/2002-418, s. 1; SOR/2003-34, ss. 6 to 8; SOR/2003-36, s. 1; SOR/2003-80, ss. 1, 2; SOR/2003-248, s. 1; SOR/2003-327, s. 1; SOR/2004-108, ss. 1 to 6; SOR/2005-105, s. 1; SOR/2005-167, s. 1; SOR/2005-270, s. 1; SOR/2005-307, s. 1; SOR/2006-143, s. 1; SOR/2006-144, ss. 1, 2; SOR/2006-211, s. 1; SOR/2006-212, s. 1; SOR/2006-213, s. 1; SOR/2006-214, s. 1; SOR/2006-215, s. 1; SOR/2006-251, s. 1; SOR/2007-36, s. 1; SOR/2007-37, s. 1; SOR/2007-38, s. 1; SOR/2007-39, s. 1; SOR/2007-40, s. 1; SOR/2007-41, s. 1; SOR/2007-42, ss. 1, 2; SOR/2007-83, s. 1.
+>  SOR/78-423, s. 5; SOR/78-427, s. 11; SOR/79-754, s. 1; SOR/80-279, s. 1; SOR/81-334, s. 6; SOR/81-358, s. 2; SOR/82-1072, s. 1; SOR/85-551, s. 2; SOR/86-91, s. 5; SOR/86-955, s. 1; SOR/87-332, s. 1; SOR/87-447, s. 1; SOR/87-496, ss. 1 to 18; SOR/87-669, ss. 1, 2; SOR/88-351, ss. 1 to 11; SOR/88-511, ss. 1 to 11; SOR/89-195, s. 1; SOR/89-454, ss. 1 to 4; SOR/89-504, ss. 1 to 4; SOR/89-572, ss. 1 to 45; SOR/90-119, ss. 1 to 10; SOR/90-173, s. 2(F); SOR/90-443, ss. 1(F) to 4 (F), 5, 6(F) to 15(F); SOR/90-585, ss. 1 to 5; SOR/91-197, ss. 1, 2(F); SOR/91-521, ss. 1 to 15; SOR/92-95, ss. 1 to 9; SOR/92-386, ss. 4 to 8; SOR/92-591, s. 2; SOR/92-647, ss. 1 to 15; SOR/92-724, s. 1; SOR/93-110, ss. 1 to 3, 4(E), 5(E), 6 to 11; SOR/93-243, s. 2; SOR/93-435, ss. 1 to 38; SOR/94-166, ss. 1 to 17, 18(E), 19 to 30; SOR/94-286, ss. 1, 2; SOR/94-458, ss. 1 to 13; SOR/94-462, s. 1; SOR/94-557, ss. 1 to 9; SOR/94-461, s. 1; SOR/95-59, s. 1; SOR/95-172, s. 2; SOR/95-201, s. 1; SOR/95-546, s. 1; SOR/96-253, ss. 1, 2; SOR/96-306, s. 1; SOR/97-140, s. 1; SOR/97-407, s. 1; SOR/97-410, ss. 1, 2; SOR/97-414, s. 1; SOR/97-543, ss. 8, 9; SOR/97-544, s. 1; SOR/97-567, s. 1; SOR/98-291, ss. 1 to 7; SOR/98-292, s. 1; SOR/98-293, s. 1; SOR/98-294, s. 1; SOR/99-370, ss. 1, 2(F), 3, 4(F); SOR/99-373, s. 1; SOR/99-374, ss. 1(F), 2; SOR/99-412, s. 1; SOR/2000-119, s. 1; SOR/2000-124, s. 1; SOR/2000-197, ss. 1, 2; SOR/2000-219, s. 2; SOR/2000-403, ss. 1, 2; SOR/2001-95, s. 1; SOR/2001-531, s. 1; SOR/2002-53, s. 1; SOR/2002-418, s. 1; SOR/2003-34, ss. 6 to 8; SOR/2003-36, s. 1; SOR/2003-80, ss. 1, 2; SOR/2003-248, s. 1; SOR/2003-327, s. 1; SOR/2004-108, ss. 1 to 6; SOR/2005-105, s. 1; SOR/2005-167, s. 1; SOR/2005-270, s. 1; SOR/2005-307, s. 1; SOR/2006-143, s. 1; SOR/2006-144, ss. 1, 2; SOR/2006-211, s. 1; SOR/2006-212, s. 1; SOR/2006-213, s. 1; SOR/2006-214, s. 1; SOR/2006-215, s. 1; SOR/2006-251, s. 1; SOR/2007-36, s. 1; SOR/2007-37, s. 1; SOR/2007-38, s. 1; SOR/2007-39, s. 1; SOR/2007-40, s. 1; SOR/2007-41, s. 1; SOR/2007-42, ss. 1, 2; SOR/2007-83, s. 1; SOR/2007-224, s. 1; SOR/2007-234, s. 1.
 
 
 
