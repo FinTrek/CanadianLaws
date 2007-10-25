@@ -32,11 +32,11 @@ Enabling authorities:
 
 ***biotechnology*** means the application of science and engineering to the direct or indirect use of living organisms or parts or products of living organisms in their natural or modified forms; (*biotechnologie*)
 
-***conformity verification body*** means an independent body that has an agreement with the Agency under subsection 14(1) of the [Canadian Food Inspection Agency Act](/en/Acts/Statutes%20of%20Canada/1997/c.%206.md) to administer specific tasks, including assessing, recommending for acceptance and subsequent audit of establishments, operators, graders and laboratories that process, import, sample, test, grade or label seeds; (*organisme de vérification de la conformité*)
+***conformity verification body*** means an independent body that has an agreement with the Agency under subsection 14(1) of the [Canadian Food Inspection Agency Act](/en/Acts/Statutes%20of%20Canada/1997/c.%206.md) to administer specific tasks, including assessing, recommending for acceptance and subsequent audit of establishments, operators, graders, samplers or laboratories that process, import, sample, test, grade or label seeds. (*organisme de vérification de la conformité*)
 
 ***seed*** includes seed derived through biotechnology. (*semences*)
 
-***Seeds Fees Notice*** means the notice in respect of seeds fees that is published from time to time in the Canada Gazette, Part I, pursuant to subsection 26(2) of the [Canadian Food Inspection Agency Act](/en/Acts/Statutes%20of%20Canada/1997/c.%206.md). (*Avis de publication des prix applicables aux semences*)
+***Seeds Fees Notice*** [Repealed, SOR/2007-223, s. 1]
 
 - **(2)** The definitions in this subsection apply in Parts I, III and IV.
 
@@ -70,7 +70,7 @@ Enabling authorities:
 
 ***crop certificate*** means a document that is issued by the Association certifying the crop identified therein has met the standards for varietal purity established by the Association for crops of that kind or species; (*certificat de récolte*)
 
-***Department*** means the Department of Agriculture and Agri-Food; (*ministère*)
+***Department*** [Repealed, SOR/2007-223, s. 1]
 
 ***domestic tag*** means an official tag in respect of seed that is derived from a crop grown in Canada and graded with a Canada pedigreed grade name; (*étiquette canadienne*)
 
@@ -102,20 +102,24 @@ Enabling authorities:
 
 ***official sample*** means a sample of seed that has been drawn by an inspector; (*échantillon officiel*)
 
-***official tag*** means a tag that is issued by the Agency in respect of seed having pedigreed status; (*étiquette officielle*)
+***official tag*** means a label that is issued or approved by the Agency in respect of seed having pedigreed status. (*étiquette officielle*)
 
-***officially-recognized laboratory*** means a seed testing laboratory
-- **(a)** that is designated by the Minister as an accredited laboratory pursuant to section 14 of the [Canada Agricultural Products Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2020%20(4th%20Supp.).md),
-- **(b)** until July 1, 1997, that is operated by or under the authority of a national or state government of a foreign country, or
-- **(c)** until July 1, 1997, that is operated under the supervision of a Registered Seed Technologist of the Society of Commercial Seed Technologists; (*laboratoire reconnu officiellement*)
+***officially recognized laboratory*** means a seed testing laboratory that is designated by the Minister as an accredited laboratory under section 14 of the [Canada Agricultural Products Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2020%20(4th%20Supp.).md). (*laboratoire reconnu officiellement*) 
 
-***officially-recognized sample*** means a sample of seed that has been
-- **(a)** drawn by or under the supervision of a licensed sampler and prepared by a licensed sampler according to recognized standard methods, or
+***officially-recognized laboratory*** [Repealed, SOR/2007-223, s. 1]
+
+***officially recognized sample*** means a sample of seed that has been 
+- **(a)** drawn by or under the supervision of a licensed sampler and prepared by a licensed sampler according to recognized standard methods; or
 - **(b)** drawn and prepared according to recognized standard methods by an individual accredited to do so by
-	- **(i)** an official certifying agency, or
-	- **(ii)** a seed testing laboratory accredited by the International Seed Testing Association to test seed; (*échantillon reconnu officiellement*)
+	- **(i)** a government body, or an officially recognized body, that has the authority to regulate the import, export or marketing of seed,
+	- **(ii)** an official certifying agency, or
+	- **(iii)** a seed testing laboratory accredited by the International Seed Testing Association (ISTA) to issue international seed lot certificates, if the sample is to be tested by the accrediting laboratory or by another laboratory accredited by ISTA. (*échantillon reconnu officiellement*)
 
-***officially-recognized test*** means a test that is performed according to recognized standard methods on an officially-recognized sample in an officially-recognized laboratory or, in the case of determinations of impurities in the kinds or species set out in Tables I to VI of Schedule I or seeds of similar size, an accredited grader; (*essai reconnu officiellement*)
+***officially-recognized sample*** [Repealed, SOR/2007-223, s. 1]
+
+***officially recognized test*** means a test that is performed according to recognized standard methods on an officially recognized sample in an officially recognized laboratory or, in the case of determinations of impurities in the kinds or species set out in Tables I to VI of Schedule I or seeds of similar size, an accredited grader. (*essai reconnu officiellement*) 
+
+***officially-recognized test*** [Repealed, SOR/2007-223, s. 1]
 
 ***pedigreed seed declaration*** means the form supplied by the Agency relating to the declaration of processing of seed of pedigreed status; (*déclaration de semence généalogique*)
 
@@ -142,7 +146,7 @@ Enabling authorities:
 	- **(i)** the crop meets the standards established by an official certifying agency and approved by the Association, and
 	- **(ii)** the seed meets the standards for varietal purity established by the official certifying agency for seed of that kind or species and approved by the Association; (*qualité Enregistrée*)
 
-***Registrar*** means the person designated by the President to accredit graders or license samplers; (*registraire*)
+***Registrar*** [Repealed, SOR/2007-223, s. 1]
 
 ***seed lot*** means a quantity of seed, each portion of which is, within reasonable limits, uniform with respect to purity, germination, variety, type and quality; (*lot de semence*)
 
@@ -150,7 +154,7 @@ Enabling authorities:
 
 ***varietal blend*** means a mixture that contains two or more varieties of the same kind or species of seed; (*mélange de variétés*)
 
-***variety*** has the meaning assigned to cultivar by the International Association of Biological Science’s Commission on the Nomenclature of Cultivated Plants, and denotes an assemblage of cultivated plants, including hybrids constituted by controlled cross-pollination, that
+***variety*** has the meaning assigned to ***cultivar*** by the International Union of Biological Sciences’ Commission for the Nomenclature of Cultivated Plants and denotes an assemblage of cultivated plants, including hybrids constituted by controlled cross-pollination, that
 - **(a)** are distinguished by common morphological, physiological, cytological, chemical or other characteristics, and
 - **(b)** retain their distinguishing characteristics when reproduced; (*variété*)
 
@@ -159,7 +163,7 @@ Enabling authorities:
 - **(3)** Parts I to III are made under the [Seeds Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-8.md).
 
 - **(4)** Part IV is made under the [Canada Agricultural Products Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2020%20(4th%20Supp.).md).
-> SOR/86-850, s. 1; SOR/87-62, s. 1; SOR/91-609, s. 1; SOR/93-162, s. 1; SOR/96-252, s. 2; SOR/97-292, s. 33; SOR/97-534, s. 1; SOR/2000-184, s. 82; SOR/2001-93, s. 1; SOR/2003-6, s. 100.
+> SOR/86-850, s. 1; SOR/87-62, s. 1; SOR/91-609, s. 1; SOR/93-162, s. 1; SOR/96-252, s. 2; SOR/97-292, s. 33; SOR/97-534, s. 1; SOR/2000-184, s. 82; SOR/2001-93, s. 1; SOR/2003-6, s. 100; SOR/2007-223, s. 1.
 
 
 
@@ -174,13 +178,19 @@ Enabling authorities:
 
 
 
-**3** [Repealed, SOR/2000-184, s. 83]
-
-
-
 
 **PART I** 
 ## Seeds other than Seed Potatoes
+
+
+
+### Interpretation
+
+
+**3** In this Part, ***Registrar*** means the person designated by the President to accredit graders or license samplers.
+> SOR/2007-223, s. 2.
+
+
 
 
 
@@ -216,12 +226,12 @@ Enabling authorities:
 		- **(ii)** varieties that are entered into variety registration trials, all of the progeny will be delivered to an industrial mill or plant for the sole purpose of evaluating the variety for its suitability for processing; and
 	- **(e)** all of the progeny of the seed is delivered to the destination specified in the contract referred to in paragraph (d).
 
-- **(5)** Seeds of vegetables, roots and herbs are exempt from the operation of paragraph 3(1)(a) of the Act in so far as they may be sold without a grade name and without conforming with the standards for minimum per cent germination referred to in section 6 if they are labelled pursuant to section 30.
+- **(5)** Seeds of vegetables, roots and herbs are exempt from the operation of paragraph 3(1)(a) of the Act in so far as they may be sold without a grade name and without conforming with the standards for minimum percentage of germination under section 6 if they are labelled in accordance with section 30.
 
-- **(6)** Seed of a kind or species set out in Schedule I that is imported for research purposes is exempt from the operation of paragraph 3(1)(a) of the Act in so far as it may be imported into Canada without conforming with the standards for minimum per cent germination set out in that Schedule.
+- **(6)** Seed of a kind or species set out in Schedule I that is imported for research purposes is exempt from the operation of paragraph 3(1)(a) of the Act in so far as it may be imported into Canada without conforming with the standards for minimum percentage of germination set out in that Schedule.
 
-- **(7)** Flower seed is exempt from the operation of paragraph 3(1)(a) of the Act in so far as it may be imported into Canada without conforming with the seed analysis certificate requirement referred to in subsection 40(2).
-> SOR/96-252, s. 2.
+- **(7)** [Repealed, SOR/2007-223, s. 3]
+> SOR/96-252, s. 2; SOR/2007-223, s. 3.
 
 
 
@@ -242,14 +252,14 @@ Enabling authorities:
 	- **(e)** for any kind or species with 601 to 1,500 seeds per gram, Table IX;
 	- **(f)** for any kind or species of grass with 1,500 or fewer seeds per gram, Table XI;
 	- **(g)** for any kind or species of grass with 1,501 seeds or more per gram, Table XII;
-	- **(h)** for any seed or mixture of seeds for land reclamation purposes, Table XIII;
+	- **(h)** for any seed or mixture of seeds for land reclamation, soil conservation, green cover, wildlife grazing or habitat, wetland restoration and similar purposes, Table XIII;
 	- **(i)** for herbs and vegetables, Table XX, unless they have 1,000 or more seeds per gram, in which case Table XII shall be used; and
-	- **(j)** wildflower mixtures, Table XV.
+	- **(j)** wildflower mixtures and similar products intended for landscape gardening use, Table XV.
 
-- **(3)** Barley seed that has been treated with a product registered as a control product under the [Pest Control Products Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2028.md) for the control of true loose smut (*Ustilago nuda*) is exempt from the standards for true loose smut set out in column IX of Table II to Schedule I.
+- **(3)** Barley seed that has been treated with a product registered as a control product under the [Pest Control Products Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2028.md) for the control of true loose smut (*Ustilago nuda*) is exempt from the standards for true loose smut set out in column 9 of Table II to Schedule I.
 
 - **(4)** Seed referred to in subsection (2) shall not be considered a weed seed for the purpose of that subsection.
-> SOR/86-850, s. 3; SOR/89-368, s. 1, 4(F); SOR/91-609, s. 2; SOR/93-162, s. 2; SOR/96-252, s. 2; SOR/2003-6, s. 101.
+> SOR/86-850, s. 3; SOR/89-368, s. 1, 4(F); SOR/91-609, s. 2; SOR/93-162, s. 2; SOR/96-252, s. 2; SOR/2003-6, s. 101; SOR/2007-223, s. 4.
 
 
 
@@ -263,37 +273,58 @@ Enabling authorities:
 	- **(c)** if graded with the name of one of the Canada Registered grades, the seed shall be of foundation status or registered status and, if two or more seed lots of the same variety are mixed, a new crop certificate is required to be issued by the Association if the seed meets the standards established by the Association;
 	- **(d)** if graded with the name of one of the Canada Certified grades, the seed shall be of foundation status, registered status or certified status and, if two or more seed lots of the same variety are mixed, the Agency shall be so informed;
 	- **(e)** if graded with the name of one of the varietal blend grades, all of the seed shall be of pedigreed status;
-	- **(f)** a mixture of seed that contains different varieties of the same kind or species may not be graded with a Canada pedigreed grade name; and
-	- **(g)** every Canada Certified No. 1 Cereal Mixture and Canada Certified No. 2 Cereal Mixture shall contain only seed of pedigreed status and only one variety per kind or species.
+	- **(f)** a Canada Certified No. 1 Forage Mixture or a Canada Certified No. 2 Forage Mixture may contain more than one variety of a kind or species;
+	- **(g)** every Canada Certified No. 1 Cereal Mixture and Canada Certified No. 2 Cereal Mixture shall contain only seed of pedigreed status and only one variety per kind or species; and
+	- **(h)** a Canada Certified No. 1 Lawn Mixture or a Canada Certified No. 2 Lawn Mixture may contain more than one variety of a kind or species.
 
-- **(2)** In addition to meeting the standards set out in Tables I, II and III to Schedule I, seed to which those Tables apply shall be free from tartarian buckwheat in Manitoba, Saskatchewan, Alberta and British Columbia.
+- **(1.1)** Despite Table I to Schedule I, Canada Foundation No. 2 seed and Canada Registered No. 2 seed may contain one secondary noxious weed seed per 10 kg.
 
-- **(3)** In addition to meeting the standards set out in Tables I, II and III to Schedule I, seed to which those Tables apply shall be free from wild oats in Quebec, Nova Scotia, New Brunswick and Prince Edward Island.
+- **(1.2)** Despite Table I to Schedule I, Canada Certified No. 2 seed may contain one secondary noxious weed seed per 2 kg.
 
-- **(4)** In the grading of seeds of lentils referred to in Table II to Schedule I, a seed head of mallow (*Malva* spp.) shall be considered as a secondary noxious weed.
+- **(1.3)** Despite Table II to Schedule I, Canada Foundation No. 2 oats and Canada Registered No. 2 oats may contain one secondary noxious weed seed per 10 kg.
 
-- **(5)** Seed to which Table VII to Schedule I applies shall be free from seeds of cleavers (*Galium aparine* L. and *Galium spurium* L.).
+- **(1.4)** Despite Table II to Schedule I, Canada Certified No. 1 oats may contain one secondary noxious weed seed per 2 kg.
 
-- **(6)** Column V of Table VIII to Schedule I does not apply to sweet-clover seed.
+- **(1.5)** Despite Table II to Schedule I, Canada Foundation No. 2 seed other than oats, Canada Registered No. 2 seed other than oats and Canada Certified No. 1 seed other than oats may contain one secondary noxious weed seed per 5 kg.
+
+- **(1.6)** Despite Table III to Schedule I, Canada Certified No. 1 Cereal Mixture seed may contain one secondary noxious weed seed per 5 kg.
+
+- **(2)** In addition to meeting the standards set out in Tables I to III to Schedule I, seed to which those Tables apply shall be free from tartarian buckwheat in Manitoba, Saskatchewan, Alberta and British Columbia.
+
+- **(3)** In addition to meeting the standards set out in Tables I to III to Schedule I, seed to which those Tables apply shall be free from wild oats in Quebec, Nova Scotia, New Brunswick and Prince Edward Island.
+
+- **(4)** Despite Table IV to Schedule I, Canada Foundation No. 2 seed, Canada Registered No. 2 seed and Canada Certified No. 1 seed may contain one secondary noxious weed seed per 50 g other than wild oats in flax.
+
+- **(4.1)** Despite Table IV to Schedule I, Canada Foundation No. 1 seed and Canada Registered No. 1 seed of sorghum, Sudan grass and canarygrass may contain one other crop seed per 25 g.
+
+- **(4.2)** Despite Table V to Schedule I, Canada Foundation No. 2 seed may contain one other crop seed per 2 kg.
+
+- **(5)** Seed to which Table VII to Schedule I applies shall be free from seeds of cleavers (*Galium aparine* L.) and false cleavers (*Galium spurium* L.).
+
+- **(6)** Column 5 of Table VIII to Schedule I does not apply to sweet clover seed.
 
 - **(7)** Notwithstanding the kinds and species of seeds set out in Table XI to Schedule I,
-	- **(a)** subcolumn 1 of column X of that Table applies only to Chewing’s fescue, meadow fescue, red fescue, creeping red fescue, tall fescue, annual ryegrass, intermediate ryegrass and perennial ryegrass;
-	- **(b)** subcolumn 2 of column X of that Table applies only to smooth bromegrass, meadow bromegrass, sweet bromegrass, fine-leaved fescue, hard fescue, sheep fescue, various-leaved fescue, creeping foxtail, meadow foxtail, orchardgrass, beardless wheatgrass, northern wheatgrass, pubescent wheatgrass, slender wheatgrass, streambank wheatgrass, Altai wildrye, Dahurian wildrye and Russian wildrye;
-	- **(c)** subcolumn 3 of column X of that Table applies only to crested wheatgrass, intermediate wheatgrass, Siberian wheatgrass, tall wheatgrass, western wheatgrass and tall oatgrass;
-	- **(d)** subcolumn 4 of column X of that Table applies only to reed canarygrass;
-	- **(e)** subcolumn 1 of column XI of that Table applies only to Chewing’s fescue, meadow fescue, red fescue, creeping red fescue, tall fescue, annual ryegrass, intermediate ryegrass, perennial ryegrass and reed canarygrass; and
-	- **(f)** subcolumn 2 of column XI of that Table applies only to smooth bromegrass, meadow bromegrass, sweet bromegrass, fine-leaved fescue, hard fescue, sheep fescue, various-leaved fescue, creeping foxtail, meadow foxtail, tall oatgrass, orchardgrass, beardless wheatgrass, crested wheatgrass, intermediate wheatgrass, northern wheatgrass, pubescent wheatgrass, Siberian wheatgrass, slender wheatgrass, streambank wheatgrass, tall wheatgrass, western wheatgrass, Altai wildrye, Dahurian wildrye and Russian wildrye.
+	- **(a)** subcolumn 1 of column 10 of that Table applies only to Chewing’s fescue, meadow fescue, red fescue, creeping red fescue, tall fescue, annual ryegrass, intermediate ryegrass and perennial ryegrass;
+	- **(b)** subcolumn 2 of column 10 of that Table applies only to smooth bromegrass, meadow bromegrass, sweet bromegrass, fine-leaved fescue, hard fescue, sheep fescue, various-leaved fescue, creeping foxtail, meadow foxtail, orchardgrass, beardless wheatgrass, northern wheatgrass, pubescent wheatgrass, slender wheatgrass, streambank wheatgrass, Altai wildrye, Dahurian wildrye and Russian wildrye;
+	- **(c)** subcolumn 3 of column 10 of that Table applies only to crested wheatgrass, intermediate wheatgrass, Siberian wheatgrass, tall wheatgrass, western wheatgrass and tall oatgrass;
+	- **(d)** subcolumn 4 of column 10 of that Table applies only to reed canarygrass;
+	- **(e)** subcolumn 1 of column 11 of that Table applies only to Chewing’s fescue, meadow fescue, red fescue, creeping red fescue, tall fescue, annual ryegrass, intermediate ryegrass, perennial ryegrass and reed canarygrass; and
+	- **(f)** subcolumn 2 of column 11 of that Table applies only to smooth bromegrass, meadow bromegrass, sweet bromegrass, fine-leaved fescue, hard fescue, sheep fescue, various-leaved fescue, creeping foxtail, meadow foxtail, tall oatgrass, orchardgrass, beardless wheatgrass, crested wheatgrass, intermediate wheatgrass, northern wheatgrass, pubescent wheatgrass, Siberian wheatgrass, slender wheatgrass, streambank wheatgrass, tall wheatgrass, western wheatgrass, Altai wildrye, Dahurian wildrye and Russian wildrye.
 
-- **(8)** Notwithstanding the kinds and species of seeds set out in Table XIII to Schedule I, column V of that Table does not apply to mixtures that contains one per cent or more of sweet-clover seed.
+- **(8)** Despite the kinds and species of seed set out in Table XIII to Schedule I, column 5 of that Table does not apply to mixtures that contain 1% or more of sweet clover seed.
 
 - **(9)** Notwithstanding Table XIII to Schedule I, Common No. 1 Forage Mixture may contain one primary noxious weed per 25 g where there is present, singly or combined, 10 per cent or more of common timothy, dwarf timothy, Canada bluegrass, Kentucky bluegrass or redtop seed.
 
 - **(10)** Notwithstanding Table XIV to Schedule I, all mixtures described on a label to be suitable for shady places shall contain not less than 40 per cent by weight, singly or combined, of Chewing’s fescue, creeping red fescue or rough bluegrass seed.
 
-- **(11)** The diameter of sets set out in column II of Table XXI to Schedule I do not apply to multiplier onions.
+- **(10.1)** In addition to the standards set out in Tables III and XV to Schedule I, kinds or species of seed listed in Schedule I shall meet the minimum percentage of germination set out in the Table in which they appear.
+
+- **(10.2)** Despite Table XVIII to Schedule I, Canada Foundation No. 2 seed may contain one other crop seed per 2 kg.
+
+- **(11)** The diameter of sets set out in column 2 of Table XXI to Schedule I do not apply to multiplier onions.
 
 - **(12)** For the purposes of Table XXI to Schedule I, a tolerance of three per cent by weight is allowed for the oversized or undersized sets for each grade of onion sets.
-> SOR/86-850, s. 4; SOR/93-162, s. 3; SOR/96-252, s. 2; SOR/2000-184, s. 89; SOR/2003-6, s. 102.
+> SOR/86-850, s. 4; SOR/93-162, s. 3; SOR/96-252, s. 2; SOR/2000-184, s. 89; SOR/2003-6, s. 102; SOR/2007-223, s. 5.
 
 
 
@@ -354,15 +385,16 @@ Enabling authorities:
 - **(1)** For the purposes of determining whether the seed meets the standards set out in sections 6 and 7, the seed shall be subject to the following tests
 	- **(a)** in the case of seed to be graded with a Canada pedigreed grade name, other than seed corn, an officially recognized test;
 	- **(b)** in the case of corn to be graded with a Canada pedigreed grade name, non-pedigreed seed of the kinds or species set out in Tables VII to XII to Schedule I, and for the purposes of subsection 40(2), a recognized standard method by
-		- **(i)** an officially-recognized laboratory,
+		- **(i)** an officially recognized laboratory,
 		- **(ii)** in the case of determinations of impurities in the kinds or species set out in Tables I to VI of Schedule I or seeds of a similar size, an accredited grader,
 		- **(iii)** a seed testing laboratory operating under the supervision of a Senior or Associate member of the Commercial Seed Analysts’ Association of Canada,
-		- **(iv)** after July 1, 1997, a seed testing laboratory operating under the supervision of a Registered Seed Technologist registered by the Society of Commercial Seed Technologists, or
-		- **(v)** after July 1, 1997, a seed testing laboratory operated by or under the authority of a national or state government of a foreign country; or
+		- **(iv)** a seed testing laboratory operating under the supervision of a Registered Seed Technologist registered by the Society of Commercial Seed Technologists,
+		- **(v)** a seed testing laboratory operated by or under the authority of a national or state government of a foreign country, or
+		- **(vi)** a seed testing laboratory accredited by the International Seed Testing Association (ISTA); or
 	- **(c)** in the case of all other seed, a recognized standard method.
 
 - **(2)** Barley seed that has been labelled to indicate that it has been neither tested nor treated for true loose smut is exempt from being tested for true loose smut.
-> SOR/96-252, s. 2; SOR/2003-6, s. 104.
+> SOR/96-252, s. 2; SOR/2003-6, s. 104; SOR/2007-223, s. 6.
 
 
 
@@ -384,8 +416,8 @@ Enabling authorities:
 	- **(a)** for the purpose of grading those kinds and species set out in Schedule I, the quantity indicated in Tables 1 and 2 of the Canadian Methods and Procedures for Testing Seed; and
 	- **(b)** for all other purposes, one half of the quantity set out in subsection (2).
 
-- **(4)** Subsections (2) and (3) do not apply if the sample is required for the purpose of checking only the percentage germination.
-> SOR/96-252, s. 2; SOR/2003-6, s. 105.
+- **(4)** Subsections (2) and (3) do not apply if the sample is required for the purpose of checking only the percentage of germination.
+> SOR/96-252, s. 2; SOR/2003-6, s. 105; SOR/2007-223, s. 7(E).
 
 
 
@@ -401,15 +433,15 @@ Enabling authorities:
 	- **(b)** the seed has been conditioned by the grower of the seed on the grower’s premises or by an approved conditioner registered pursuant to Part IV;
 	- **(c)** the grower of the seed has completed and signed a declaration attesting that the seed is derived from a crop that has been issued a crop certificate and that the seed has not become mixed with any other seed; and
 	- **(d)** the seed is graded by an accredited grader, based on
-		- **(i)** the results of an officially-recognized test; or
+		- **(i)** the results of an officially recognized test, or
 		- **(ii)** in the case of seed corn, a test done in accordance with paragraph 11(1)(b).
 
 - **(2)** Where seeds are not conditioned on the grower’s premises and it can be determined that the services of an approved conditioner are not available, a grower may, under the supervision of an inspector, have seed conditioned by other than an approved conditioner.
 
 - **(3)** Imported seed may be graded with a Canada pedigreed grade name only where
 	- **(a)** the seed meets the condition set out in paragraph 1(d); and
-	- **(b)** the seed was imported in a package labelled with a tag of the Organization for Economic Co-operation and Development or the Association of Official Seed Certifying Agencies.
-> SOR/78-314, s. 1; SOR/86-850, s. 6; SOR/88-242, s. 3; SOR/93-162, s. 4; SOR/96-252, s. 2.
+	- **(b)** the seed is imported in a package bearing a label that was issued or approved by an official certifying agency and that indicates that the seed is of pedigreed status.
+> SOR/78-314, s. 1; SOR/86-850, s. 6; SOR/88-242, s. 3; SOR/93-162, s. 4; SOR/96-252, s. 2; SOR/2007-223, s. 8.
 
 
 
@@ -428,7 +460,7 @@ Enabling authorities:
 		- **(ii)** the Registrar, if there is no conformity verification body;
 	- **(b)** submit to an evaluation that is set by the Registrar and that measures knowledge of the principles and practices for the conditioning, sampling, testing and grading of seed of pedigreed status;
 	- **(c)** where the individual wishes to be licensed to sample seed, submit to an evaluation that is set by the Registrar and that measures the individual’s ability to so sample;
-	- **(c.1)** where the individual wishes to be accredited to retrieve, identify, classify and report weed seeds and other impurities from officially-recognized samples, submit to an evaluation that is set by the Registrar and that measures the individual’s ability to so retrieve, identify, classify and report;
+	- **(c.1)** where the individual wishes to be accredited to retrieve, identify, classify and report weed seeds and other impurities from officially recognized samples, submit to an evaluation that is set by the Registrar and that measures the individual’s ability to so retrieve, identify, classify and report;
 	- **(c.2)** where the individual wishes to be accredited to grade seed, submit to an evaluation that is set by the Registrar and that measures the individual’s ability to grade seed; and
 	- **(d)** where the individual wishes to be accredited to evaluate imported seed and accompanying documents for conformity with these Regulations, submit to an evaluation that is set by the Registrar that measures an individual’s ability to so evaluate.
 
@@ -442,10 +474,7 @@ Enabling authorities:
 	- **(a)** on the recommendation of a conformity verification body; or
 	- **(b)** if there is no conformity verification body, on payment of the applicable fee set out in the Canadian Food Inspection Agency Fees Notice and the individual having obtained a mark of at least 80% on the evaluation referred to in paragraph (1)(b) and at least 80% on the evaluation referred to in paragraph (1)(c).
 
-- **(3)** The following individuals are considered to be accredited graders for the purposes of these Regulations for a period beginning on the day on which this Part comes into force and ending on December 31, 1996, namely, an individual:
-	- **(a)** who, immediately before the coming into force of this Part, was authorized to apply official tags or inter-agency tags and seals pursuant to subsection 29(1), as that subsection read immediately before the coming into force of this Part;
-	- **(b)** who was personally responsible for the application of official tags or inter-agency tags and seals to seed of one of the Canada Certified grades on behalf of a corporation that was authorized to do so pursuant to subsection 29(1), as that subsection read immediately before the coming into force of this Part; or
-	- **(c)** who, immediately before the coming into force of this Part, had been accredited by the Department to test seed for both purity and germination.
+- **(3)** [Repealed, SOR/2007-223, s. 9]
 
 - **(4)** [Repealed, SOR/2000-183, s. 39]
 
@@ -453,7 +482,7 @@ Enabling authorities:
 
 - **(6)** The accreditation of a person as a grader or sampler is limited to those activities referred to in paragraphs (1)(b) to (d) for which the person has been evaluated and is qualified.
 
-- **(7)** If a conformity verification body refuses to make a recommendation to the Registrar that an applicant’s accreditation as a grader be certified or renewed, the conformity verification body shall send a notice of that decision to the applicant by registered mail, giving the reasons for the decision and advising that the applicant may request that the Registrar review the decision. The conformity verification body shall also send a copy of the notice, including the reasons, to the Registrar.
+- **(7)** If a conformity verification body refuses to make a recommendation to the Registrar that an applicant’s accreditation as a grader or sampler be certified or renewed, the conformity verification body shall send a notice of that decision to the applicant by registered mail, giving the reasons for the decision and advising that the applicant may request that the Registrar review the decision. The conformity verification body shall also send a copy of the notice, including the reasons, to the Registrar.
 
 - **(8)** The applicant may, within 30 days after the day on which the notice is received, make a written request to the Registrar for a review of the decision.
 
@@ -463,10 +492,10 @@ Enabling authorities:
 
 - **(11)** The review shall be conducted as informally and expeditiously as possible and in such a way as to permit the applicant to present the applicant’s case and to reply to any evidence, but shall not include oral representations unless the Registrar determines that they are necessary.
 
-- **(12)** If the Registrar finds that the conformity verification body should have recommended that the applicant’s accreditation as a grader be certified or renewed, the Registrar shall certify the accreditation or renew it, as the case may be, as if the recommendation had been made.
+- **(12)** If the Registrar finds that the conformity verification body should have recommended that the applicant’s accreditation as a grader or sampler be certified or renewed, the Registrar shall certify the accreditation or renew it, as the case may be, as if the recommendation had been made.
 
 - **(13)** The Registrar shall send a notice of the Registrar’s decision and the reasons for it to the applicant by registered mail.
-> SOR/96-252, s. 2; SOR/97-534, s. 5; SOR/2000-183, s. 39; SOR/2001-93, s. 2; SOR/2003-6, s. 107.
+> SOR/96-252, s. 2; SOR/97-534, s. 5; SOR/2000-183, s. 39; SOR/2001-93, s. 2; SOR/2003-6, s. 107; SOR/2007-223, s. 9.
 
 
 
@@ -503,10 +532,10 @@ Enabling authorities:
 
 - **(7)** The Registrar shall not renew the accreditation of a grader whose accreditation has been suspended three times, or the licence of a sampler whose licence has been suspended three times, unless after the third suspension the grader or sampler has successfully completed the applicable evaluations referred to in subsection 13.1(1).
 
-- **(8)** The Registrar shall not, after three years after the coming into force of this Part, renew the accreditation of a grader who was accredited pursuant to subsection 13.1(3), unless the grader has successfully completed the applicable evaluations referred to in subsection 13.1(1).
+- **(8)** [Repealed, SOR/2007-223, s. 10]
 
 - **(9)** If an individual’s accreditation as a grader or licence as a sampler has been cancelled for a reason set out in any of paragraphs (3)(b) to (e), the Registrar shall not accept an application from the individual to be accredited or licensed again unless 24 months have gone by since the cancellation and the individual satisfies the conditions set out in subsections 13.1(1) to (2.1).
-> SOR/96-252, s. 2; SOR/2001-93, s. 3; SOR/2003-6, s. 108.
+> SOR/96-252, s. 2; SOR/2001-93, s. 3; SOR/2003-6, s. 108; SOR/2007-223, s. 10.
 
 
 
@@ -578,13 +607,13 @@ Enabling authorities:
 	- **(a)** the name and number of noxious weed seeds per unit weight;
 	- **(b)** the name and number of other weed seeds per unit weight or, where the standard set out in Schedule I is based on percentage by weight, the name and percentage by weight of other weed seeds;
 	- **(c)** the name and number of seeds of other crops per unit weight or, where the standard set out in Schedule I is based on percentage by weight, the name and percentage by weight of other crops;
-	- **(d)** the percentage germination of a representative sample of the seed; and
+	- **(d)** the percentage of germination of a representative sample of the seed; and
 	- **(e)** the date on which the test was completed.
 
 - **(2)** Subject to subsection (3), every package of seed of a kind or species that is not set out in Schedule I shall be labelled with the information referred to in paragraphs (1)(a) to (c) as determined pursuant to the appropriate test done in accordance with section 11.
 
 - **(3)** Except for a package of seed marked with the grade name “Canada Foundation Substandard (Purity)”, subsections (1) and 2 do not apply where a vendor, in response to a request of a purchaser made within 1 year after the sale of a package, supplies the purchaser, in writing, within 30 days after the request is made, with the information specified in subsection (1) or (2), as the case may be.
-> SOR/96-252, s. 2.
+> SOR/96-252, s. 2; SOR/2007-223, s. 11(E).
 
 
 
@@ -645,16 +674,16 @@ Enabling authorities:
 ### Seeds of Field Crops
 
 
-**23** Every package of seed of the kinds or species set out in Tables I, II and IV to VII to Schedule I shall be labelled with the following information:
+**23** Every package of seed of the kinds or species set out in Tables I to II.1 and IV to VII to Schedule I shall be labelled with the following information:
 - **(a)** the name and address of the seller, packager or labeller;
 - **(b)** the name of the kind or species of seed;
 - **(c)** the name of the grade of the seed;
 - **(d)** the variety name of the seed, if applicable;
 - **(e)** in the case of imported seed corn, the name of the country of origin of production and, if from the United States, the state of origin of production;
 - **(f)** in the case of seed corn that is a mixture of two or more varieties, the name and percentage of each of the component varieties, the approximate Corn Heat Unit rating or the designation “early”, “medium” or “late”, as appropriate;
-- **(g)** in the case of hybrid seed of corn or hybrid seed of sunflower, sold or offered for sale as a Canada Foundation grade, the total number of seeds of other crops, per kilogram and the percentage germination; and
-- **(h)** in the case of seed that is oilseed rape (rapeseed or Canola), that is not labelled with a Canada pedigreed grade name, the name “Polish type” or "*B. rapa*", “Argentine type” or "*B. napus*", or the words “type not known”, as appropriate.
-> SOR/86-850, s. 12; SOR/96-252, s. 2.
+- **(g)** in the case of hybrid seed of corn or hybrid seed of sunflower, sold or offered for sale as a Canada Foundation grade, the total number of seeds of other crops, per kilogram and the percentage of germination; and
+- **(h)** in the case of seed that is labelled as oilseed rape, rapeseed or canola and that is not labelled with a Canada pedigreed grade name, the name “Polish type” or “*B. rapa*”, “Argentine type” or “*B. napus*”, “*B. juncea*”, or the words “type not known”, as appropriate.
+> SOR/86-850, s. 12; SOR/96-252, s. 2; SOR/2007-223, s. 12.
 
 
 
@@ -702,7 +731,7 @@ Enabling authorities:
 - **(1)** Every package of a mixture of forage seeds of the kinds or species set out in Table XIII to Schedule I shall be labelled with the following information:
 	- **(a)** the name and address of the seller, packager or labeller;
 	- **(b)** the name of the grade of the seed;
-	- **(c)** the name and percentage of each kind or species of seed that singly constitutes three per cent or more by weight or, in the case of sweet-clover, one per cent or more by weight, of the mixture;
+	- **(c)** the name and percentage of each kind or species — and of each variety, if applicable — of seed that singly constitutes 3% or more by weight or, in the case of sweet clover, 1% or more by weight, of the mixture;
 	- **(d)** the percentage by weight of the kinds or species of seed of the mixture not stated on the label pursuant to paragraph (c) preceded by the words “other kinds”; and
 	- **(e)** in the case of alfalfa and red clover seed that is imported, the country of origin of production and, if from the United States, the state of origin of production, and the percentage included in the mixture.
 
@@ -711,7 +740,7 @@ Enabling authorities:
 - **(3)** The information to be labelled on a package pursuant to subsections (1) and (2) shall be
 	- **(a)** on the principal display panel of the package if the labelling information is on the package, or on one side of the tag if the labelling information is on the tag; and
 	- **(b)** of a consistent size of type.
-> SOR/79-367, s. 5; SOR/96-252, s. 2.
+> SOR/79-367, s. 5; SOR/96-252, s. 2; SOR/2007-223, s. 13.
 
 
 
@@ -739,13 +768,13 @@ Enabling authorities:
 - **(1)** Every package of seed that is a lawn grass mixture or turf grass mixture shall be labelled with the following information:
 	- **(a)** the name and address of the seller, packager or labeller;
 	- **(b)** the name of the grade of the seed; and
-	- **(c)** where the package contains more than 5 kg, the name of each kind or species of seed that constitutes
+	- **(c)** if the package contains more than 5 kg of seed, the name of each kind or species — and of each variety, if applicable — of seed that constitutes
 		- **(i)** five per cent or more by weight of the mixture,
 		- **(ii)** three per cent or more by weight of the mixture, in the case of bentgrasses, or
 		- **(iii)** two per cent or more by weight of the mixture, in the case of white clover.
 
 - **(2)** Where the name of any kind, species or variety of seed contained in a lawn grass mixture or turf grass mixture is stated on a label to the exclusion of the other kinds, species or varieties in the mixture, or in a manner to emphasize that name, the percentage by weight of that kind, species or variety in the mixture shall be stated on the label in the same size and colour of type as the name.
-> SOR/79-367, s. 7; SOR/96-252, s. 2.
+> SOR/79-367, s. 7; SOR/96-252, s. 2; SOR/2007-223, s. 14.
 
 
 
@@ -756,7 +785,7 @@ Enabling authorities:
 
 **29** 
 
-- **(1)** A label shall not contain any words or designs to indicate or imply that seed that is a ground cover mixture is suitable for use on home lawns.
+- **(1)** A label shall not contain any words or designs to indicate or imply that seed that is a ground cover mixture is suitable for use on home lawns or for forage production.
 
 - **(2)** Every package of seed that is a ground cover mixture shall be labelled with the following information:
 	- **(a)** the name and address of the seller, packager or labeller;
@@ -766,7 +795,7 @@ Enabling authorities:
 		- **(ii)** that is listed in any provincial legislation as a noxious or restricted weed, where the seller, packager or labeller has the information referred to in subparagraph (i) and supplies the information in writing to purchasers on request.
 
 - **(3)** Where the name of any kind, species or variety of seed contained in a ground cover mixture is stated on a label to the exclusion of the other kinds, species or varieties in the mixture, or in a manner to emphasize that name, the percentage by weight of that kind, species or variety in the mixture shall be stated on the label in the same size and colour of type as the name.
-> SOR/79-367, s. 8; SOR/85-903, s. 1; SOR/96-252, s. 2.
+> SOR/79-367, s. 8; SOR/85-903, s. 1; SOR/96-252, s. 2; SOR/2007-223, s. 15.
 
 
 
@@ -777,12 +806,12 @@ Enabling authorities:
 
 **30** Every package of seed of the kinds or species set out in Tables XVI to XXI to Schedule I and any kinds or species not set out in Schedule I shall be labelled with the following information:
 - **(a)** the name and address of the seller, packager or labeller;
-- **(b)** the name of the kind or species of seed and the variety name of the seed, if applicable;
+- **(b)** the name of the kind or species — and of the variety, if applicable — of the seed, or in the case of mixtures, the name of each kind or species — and of the varieties — of the seed, if applicable;
 - **(c)** if the seed is sold or offered for sale on the basis of grade, the name of the grade of the particular seed; and
 - **(d)** if a germination standard is prescribed for a particular kind or species under subsection 6(1) and the seed is not sold on the basis of a grade of a seed,
 	- **(i)** the year in which the seed was tested for germination pursuant to the appropriate test prescribed by section 11 or the year for which the seed was packaged, and
-	- **(ii)** the percentage of germination of the seed or a minimum guaranteed percentage germination.
-> SOR/96-252, s. 2.
+	- **(ii)** the percentage of germination of the seed or a minimum guaranteed percentage of germination.
+> SOR/96-252, s. 2; SOR/2007-223, s. 16.
 
 
 
@@ -797,10 +826,10 @@ Enabling authorities:
 
 - **(2)** Every package of seed that is a specialty seed shall be labelled with the following information:
 	- **(a)** the name and address of the seller, packager or labeller; and
-	- **(b)** the name of the grade of the seed determined before mixing or attachment of the non-seed constituents.
+	- **(b)** the name of the grade of the seed, if applicable.
 
-- **(3)** In addition to the labelling requirements referred to in subsection (2), every package of seed that is a specialty seed shall be labelled with the information required by the appropriate section with respect to that seed.
-> SOR/96-252, s. 2.
+- **(3)** In addition to the labelling requirements referred to in subsection (2), every package of seed that is a specialty seed shall be labelled with the information required by the appropriate section of these Regulations with respect to that seed.
+> SOR/96-252, s. 2; SOR/2007-223, s. 17.
 
 
 
@@ -833,18 +862,20 @@ Enabling authorities:
 - **(3)** An approved conditioner registered pursuant to Part IV is exempt from subsection (1) where
 	- **(a)** the seed is of certified status;
 	- **(b)** the package of seed has been fastened and labelled by that approved conditioner;
-	- **(c)** the information required by subsection (2) and the name of the approved conditioner are marked indelibly on the package and the layout of the information, the area marked and the colour conform to the domestic tag; and
-	- **(d)** the Agency is notified by the approved conditioner of every request for such packages.
+	- **(c)** the name of the seller, packager or labeller is marked on the package, and
+		- **(i)** the information required by subsection (2) is marked on the package and the layout of the information, the area marked and the colour conform to the domestic tag, or
+		- **(ii)** in the case of packages containing 2 kg or less of seed, the words “Certified Seed” appear in a blue rectangle that meets the colour requirements of the official tag and that has a length to width ratio of approximately 2:1 and the information set out in paragraphs (2)(a) to (c) and (e) appears elsewhere on the package; and
+	- **(d)** in the case of packages referred to in subparagraph (c)(i), each time the approved conditioner proposes to obtain those packages, the approved conditioner notifies the Agency of that proposal.
 
 - **(4)** The approved conditioner referred to in subsection (3) shall maintain complete and up-to-date records concerning the requests for and disposal of any package referred to in that subsection for a period of not less than two years following the disposal of the package.
-> SOR/86-429, s. 1; SOR/96-252, s. 2; SOR/2000-184, s. 89.
+> SOR/86-429, s. 1; SOR/96-252, s. 2; SOR/2000-184, s. 89; SOR/2007-223, s. 18.
 
 
 
 
 **34** 
 
-- **(1)** Subject to subsections (3) and (5) and sections 35 and 37, every package of seed derived from a crop not grown and conditioned in Canada and graded with a Canada pedigreed grade name shall be fastened and tagged with an inter-agency certification tag.
+- **(1)** Subject to subsections (3) and (5) and sections 35 and 37, every package of seed derived in whole or in part from a crop not grown and conditioned in Canada and graded with a Canada pedigreed grade name shall be fastened and tagged with an inter-agency certification tag.
 
 - **(2)** The inter-agency certification tag shall contain the following information:
 	- **(a)** the name of the kind or species of seed;
@@ -857,15 +888,18 @@ Enabling authorities:
 - **(3)** An approved conditioner registered pursuant to Part IV is exempt from subsection (1) where
 	- **(a)** the seed is of certified status;
 	- **(b)** the package of seed has been fastened and labelled by that approved conditioner;
-	- **(c)** the information required by subsection (2) and the name of the approved conditioner are marked indelibly on the package and the layout of the information, the area marked and the colour, conform to the inter-agency certification tag; and
-	- **(d)** the Agency is notified by the approved conditioner of every request for such packages.
+	- **(c)** the name of the seller, packager or labeller is marked on the package, and
+		- **(i)** the information required by subsection (2) is marked on the package and the layout of the information, the area marked and the colour conform to the domestic tag, or
+		- **(ii)** in the case of packages containing 2 kg or less of seed the words “Certified Seed” appear in a blue rectangle that meets the colour requirements of the official tag and that has a length to width ratio of approximately 2:1 and the information set out in paragraphs (2)(a) to (e) appears elsewhere on the package; and
+	- **(d)** in the case of packages referred to in subparagraph (c)(i), each time the approved conditioner proposes to obtain those packages, the approved conditioner notifies the Agency of that proposal.
 
 - **(4)** The approved conditioner referred to in subsection (3) shall maintain complete and up-to-date records concerning the requests for and disposal of any package referred to in that subsection for a period of not less than two years following the disposal of the package.
 
-- **(5)** A package of seed of certified status is exempt from subsection (1) and the requirement that every package be labelled with a grade name where
-	- **(a)** the package bears a label of the Organization for Economic Co-operation and Development or the Association of Official Seed Certifying Agencies; and
-	- **(b)** the Canada pedigreed grade name appears on a document that accompanies each sale of the seed and that bears the name of the person selling the seed and the accredited grader number of the person who graded the seed.
-> SOR/96-252, s. 2; SOR/2000-184, s. 89; SOR/2003-6, s. 109.
+- **(5)** A package of seed of certified status is exempt from subsection (1) if
+	- **(a)** the package bears a label that was issued or approved by an official certifying agency and that indicates that the seed is of pedigreed status;
+	- **(b)** in the case of seed labelled with a Canada pedigreed grade name in Canada, the Canada pedigreed grade name appears on a document that accompanies each sale of the seed and that bears the name of the person selling the seed; and
+	- **(c)** in the case of seed imported into Canada labelled with a Canada pedigreed grade name, the Canada pedigreed grade name and the accredited grader number appear on a label attached to or printed directly on each package of seed.
+> SOR/96-252, s. 2; SOR/2000-184, s. 89; SOR/2003-6, s. 109; SOR/2007-223, s. 19.
 
 
 
@@ -873,8 +907,9 @@ Enabling authorities:
 **35** 
 
 - **(1)** Subject to section 37, every package of seed of a variety that is graded with a Canada pedigreed grade name shall be fastened and tagged with an unregistered variety tag if the seed is
-	- **(a)** of a kind, species or variety not exempt from registration pursuant to section 65; and
-	- **(b)** of a variety not registered pursuant to Part III.
+	- **(a)** of a kind, species or variety not exempt from registration pursuant to section 65;
+	- **(b)** of a variety not registered under Part III; and
+	- **(c)** sold in Canada.
 
 - **(2)** The unregistered variety tag shall contain the following information:
 	- **(a)** the name of the kind or species of seed;
@@ -883,7 +918,7 @@ Enabling authorities:
 	- **(d)** the lot number;
 	- **(e)** the crop certificate number; and
 	- **(f)** if the seed is derived from a crop not grown in Canada, the country or the state of the official certifying agency and the pedigreed reference number of that agency.
-> SOR/96-252, s. 2.
+> SOR/96-252, s. 2; SOR/2007-223, s. 20.
 
 
 
@@ -904,9 +939,10 @@ Enabling authorities:
 
 **37** Seed that has been graded with a Canada pedigreed grade name is exempt from the requirement to be sold in fastened packages where
 - **(a)** the seed is sold in bulk and delivered by a bulk storage facility within the meaning of Part IV;
-- **(b)** the seed is accompanied by a completed official tag at the time of the sale; and
+- **(b)** the seed is accompanied by a completed official tag at the time of the sale;
+- **(b.1)** the seed, at the time of delivery, is accompanied by written information that, if the seed were in a fastened package, would be required by section 19, subsection 20(4) and sections 21 and 35 to be marked on the package or to be contained on the package’s label or tag; and
 - **(c)** the vendor of the seed maintains complete and up-to-date records concerning the pedigree, conditioning, testing done in accordance with section 11 and disposal of the seed for a period of not less than one year following the disposal of the seed.
-> SOR/96-252, s. 2.
+> SOR/96-252, s. 2; SOR/2007-223, s. 21.
 
 
 
@@ -949,7 +985,7 @@ Enabling authorities:
 - **(1)** Subject to subsections (5) and (6), each seed lot that is imported into Canada shall be accompanied by a statement that contains the following information:
 	- **(a)** the name of the kind or species of seed;
 	- **(b)** the quantity of seed;
-	- **(c)** the variety name of the seed for all kinds, species and varieties subject to registration pursuant to Part III, other than common seed of forage crops;
+	- **(c)** the variety name of the seed for all kinds, species and varieties subject to registration under Part III, other than non-pedigreed seed of forage crops;
 	- **(d)** the lot designation of the seed;
 	- **(e)** the name and address of the exporter; and
 	- **(f)** the name and address of the importer.
@@ -964,14 +1000,15 @@ Enabling authorities:
 
 - **(4)** Where seed is imported into Canada by a person other than an establishment registered pursuant to Part IV as an authorized importer, it shall be kept separate and intact in the original packages until a notice of release has been issued by the Agency indicating that the seed meets the requirements of these Regulations.
 
-- **(5)** Subsections (1) to (4) do not apply in respect of a seed lot that is
-	- **(a)** 5 kg or less, in the case of seed of the kinds or species set out in Tables I to VI, or XVI to XVIII to Schedule I, or seeds of similar size; and
-	- **(b)** 500 g or less, in the case of seed of the kinds or species set out in Tables VII to XII to Schedule I, or seeds of similar size.
+- **(5)** Subsections (1) to (4) do not apply in respect of a seed lot that
+	- **(a)** is composed of onion or garlic sets, tree seeds, shrub seeds, ginseng seeds, aquatic plant seeds, true potato seeds or flower seeds, except wildflower seed mixtures;
+	- **(b)** weighs 5 kg or less, in the case of seed of the kinds or species set out in any of Tables I to VI and XVI to XVIII to Schedule I, or seeds of similar size or herb seeds; or
+	- **(c)** weighs 500 g or less, in the case of seed of the kinds or species set out in any of Tables VII to XII to Schedule I, or seeds of similar size.
 
 - **(6)** Subsections (1) to (3) do not apply in respect of seed that is imported by an authorized importer where the authorized importer supplies the Agency with the establishment registration number at the time of importation and the information required by subsection (3) within 30 days after that time.
 
 - **(7)** If seed has been imported into Canada by an authorized importer under subsection (6), it shall be kept separate and intact in the original containers until a notice of release has been completed by an individual accredited under section 13.1 to evaluate imported seed and accompanying documents for conformity with these Regulations or the seed has been tested and found to be in conformity with these Regulations.
-> SOR/86-849, s. 4; SOR/96-252, s. 2; SOR/2000-184, s. 89; SOR/2003-6, s. 110.
+> SOR/86-849, s. 4; SOR/96-252, s. 2; SOR/2000-184, s. 89; SOR/2003-6, s. 110; SOR/2007-223, s. 22.
 
 
 
@@ -2724,10 +2761,10 @@ Inspection for the purpose of certification was made either visually or through 
 - **(1)** Subject to subsection (2) and section 89, the Registrar shall suspend the registration of an establishment where
 	- **(a)** false or misleading information was submitted in support of the application for registration;
 	- **(b)** the establishment does not comply with a provision of the Act, the [Seeds Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-8.md) or these Regulations; or
-	- **(c)** the applicable fee prescribed by the Seeds Fees Order for a service provided to that establishment has not been paid.
+	- **(c)** the applicable fee set out in the Canadian Food Inspection Agency Fees Notice for a service provided to that establishment has not been paid.
 
 - **(2)** The Registrar shall not suspend the registration of an establishment where, before the registrant is heard pursuant to paragraph 89(b), the registrant takes corrective measures and an inspector verifies that those measures have been taken.
-> SOR/96-252, s. 3; SOR/96-273, s. 2.
+> SOR/96-252, s. 3; SOR/96-273, s. 2; SOR/2007-223, s. 23.
 
 
 
@@ -2878,10 +2915,10 @@ Inspection for the purpose of certification was made either visually or through 
 - **(1)** Subject to subsection (2) and section 101, the Registrar shall suspend the licence of an operator where
 	- **(a)** false or misleading information has been submitted in support of the application for a licence;
 	- **(b)** the operator does not comply with a provision of the Act, the [Seeds Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-8.md) or these Regulations; or
-	- **(c)** the applicable fee prescribed by the Seeds Fees Order for a service provided to that operator has not been paid.
+	- **(c)** the applicable fee set out in the Canadian Food Inspection Agency Fees Notice for a service provided to that operator has not been paid.
 
 - **(2)** The Registrar shall not suspend the licence of an operator where, before the operator is heard pursuant to paragraph 101(b), the operator takes corrective measures and an inspector verifies that those measures have been taken.
-> SOR/96-252, s. 3; SOR/96-273, s. 3.
+> SOR/96-252, s. 3; SOR/96-273, s. 3; SOR/2007-223, s. 24.
 
 
 
@@ -3121,9 +3158,7 @@ Inspection for the purpose of certification was made either visually or through 
 
 
 ### **SCHEDULE I** 
-**(ss. 2, 4 to 6, 8 to 10, 19 to 25.1, 31, 33, 34 and Sch. III)**
-## Tables of Grade Standards
-
+**(Sections 2, 5 to 7, 11 and 12, 18, 23 to 27, 30 and 40)**
 #### TABLE I
 <table>
 <tr>
@@ -3131,33 +3166,27 @@ Inspection for the purpose of certification was made either visually or through 
 <td></td>
 </tr>
 <tr>
-<td>**(a)** Wheat, common
-
-</td>
-<td>—*Triticum aestivum* L.</td>
+<td>(a) Wheat, common</td>
+<td>— *Triticum aestivum* L.</td>
 </tr>
 <tr>
-<td>**(b)** Wheat, durum
-
-</td>
-<td>—*Triticum durum* Desf.</td>
+<td>(b) Wheat, durum</td>
+<td>— *Triticum turgidum* L. subsp. *durum* (Desf.) Husn. (= *T. durum* Desf.)</td>
 </tr>
 </table>
 
-
-
 <table>
 <tr>
-<th>I</th>
-<th>II</th>
-<th>III</th>
-<th>IV</th>
-<th>V</th>
-<th>VI</th>
-<th>VII</th>
-<th>VIII</th>
-<th>IX</th>
-<th>X</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
 </tr>
 <tr>
 <th></th>
@@ -3170,30 +3199,31 @@ Inspection for the purpose of certification was made either visually or through 
 <th></th>
 <th>Noxious Weeds</th>
 <th></th>
-<th>Total Barley, Rye & Triticale</th>
-<th>Total Other Crops Including Barley, Rye & Triticale</th>
-<th>Additional Common Wheat in Durum Wheat and Durum Wheat in Common Wheat</th>
-<th>Maximum No. of Ergot Bodies per kg</th>
-<th>Minimum Per Cent Germination</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>Minimum Percentage of Germination</th>
 </tr>
 <tr>
-<th></th>
+<th>Grade Name</th>
 <th>Primary</th>
 <th>Primary Plus Secondary</th>
 <th>Total Weeds</th>
+<th>Total Barley, Rye & Triticale</th>
+<th>Other Crops Including Total Barley, Rye & Triticale</th>
+<th>Additional Common Wheat in Durum Wheat & Durum Wheat in Common Wheat</th>
+<th>Maximum Number of Ergot Bodies per kg</th>
 <th>Common Wheat</th>
 <th>Durum Wheat</th>
 </tr>
 <tr>
-<th></th>
-</tr>
-<tr>
 <td>1. Canada Foundation No. 1</td>
 <td>0</td>
-<td>0.0</td>
+<td>0</td>
 <td>2</td>
-<td>0.2</td>
-<td>0.5</td>
+<td>0</td>
+<td>0</td>
 <td>0</td>
 <td>1</td>
 <td>85</td>
@@ -3202,10 +3232,10 @@ Inspection for the purpose of certification was made either visually or through 
 <tr>
 <td>2. Canada Foundation No. 2</td>
 <td>0</td>
-<td>0.1</td>
+<td>0</td>
 <td>4</td>
-<td>1.0</td>
-<td>2.0</td>
+<td>1</td>
+<td>2</td>
 <td>0</td>
 <td>8</td>
 <td>75</td>
@@ -3214,10 +3244,10 @@ Inspection for the purpose of certification was made either visually or through 
 <tr>
 <td>3. Canada Registered No. 1</td>
 <td>0</td>
-<td>0.0</td>
+<td>0</td>
 <td>3</td>
-<td>0.5</td>
-<td>1.0</td>
+<td>0</td>
+<td>1</td>
 <td>0</td>
 <td>1</td>
 <td>85</td>
@@ -3226,10 +3256,10 @@ Inspection for the purpose of certification was made either visually or through 
 <tr>
 <td>4. Canada Registered No. 2</td>
 <td>0</td>
-<td>0.1</td>
+<td>0</td>
 <td>6</td>
-<td>1.0</td>
-<td>2.0</td>
+<td>1</td>
+<td>2</td>
 <td>0</td>
 <td>8</td>
 <td>75</td>
@@ -3238,22 +3268,22 @@ Inspection for the purpose of certification was made either visually or through 
 <tr>
 <td>5. Canada Certified No. 1</td>
 <td>0</td>
-<td>0.0</td>
+<td>0</td>
 <td>3</td>
-<td>1.0</td>
-<td>2.0</td>
-<td>5</td>
 <td>1</td>
+<td>2</td>
+<td>5</td>
+<td>2</td>
 <td>85</td>
 <td>80</td>
 </tr>
 <tr>
 <td>6. Canada Certified No. 2</td>
 <td>0</td>
-<td>0.5</td>
+<td>0</td>
 <td>6</td>
-<td>2.0</td>
-<td>5.0</td>
+<td>2</td>
+<td>5</td>
 <td>10</td>
 <td>8</td>
 <td>75</td>
@@ -3262,30 +3292,28 @@ Inspection for the purpose of certification was made either visually or through 
 <tr>
 <td>7. Common No. 1</td>
 <td>0</td>
-<td>2.0</td>
+<td>2</td>
 <td>10</td>
-<td>10.0</td>
-<td>10.0</td>
+<td>10</td>
+<td>10</td>
 <td>12</td>
-<td>1</td>
+<td>2</td>
 <td>85</td>
 <td>80</td>
 </tr>
 <tr>
 <td>8. Common No. 2</td>
 <td>2</td>
-<td>4.0</td>
+<td>4</td>
 <td>20</td>
-<td>20.0</td>
-<td>20.0</td>
+<td>20</td>
+<td>20</td>
 <td>24</td>
 <td>8</td>
 <td>70</td>
 <td>70</td>
 </tr>
 </table>
-
-
 
 #### TABLE II
 <table>
@@ -3294,129 +3322,71 @@ Inspection for the purpose of certification was made either visually or through 
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td>(a)</td>
-<td>Barley</td>
+<td>(a) Barley, six-row, two-row, hulless</td>
+<td>— *Hordeum vulgare* L. subsp. *vulgare*</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>— six-row</td>
-<td>—*Hordeum vulgare* L. convar. *hexastichon* Alef.</td>
+<td>(b) Bean, mung</td>
+<td>— *Vigna radiata* (L.) Wilczek var. *radiata*</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>— two-row</td>
-<td>—*Hordeum vulgare* L. convar. *distichon* Alef.</td>
+<td>(c) Buckwheat, common</td>
+<td>— *Fagopyrum esculentum* Moench</td>
 </tr>
 <tr>
-<td></td>
-<td>(b)</td>
-<td>Bean, mung</td>
-<td>—*Vigna radiata* (L.) Wilczek var. *radiata*</td>
+<td>(d) Buckwheat, tartarian</td>
+<td>— *Fagopyrum tataricum* (L.) Gaertn.</td>
 </tr>
 <tr>
-<td></td>
-<td>(c)</td>
-<td>Buckwheat, common</td>
-<td>—*Fagopyrum esculentum* Moench</td>
+<td>(e) Emmer</td>
+<td>— *Triticum turgidum* L. subsp. *dicoccum* (Schrank ex Schübl.) Thell. (= *T. dicoccum* Schrank ex Schübl.)</td>
 </tr>
 <tr>
-<td></td>
-<td>(d)</td>
-<td>Buckwheat, tartarian</td>
-<td>—*Fagopyrum tataricum* (L.) Gaertner</td>
+<td>(f) Lentil</td>
+<td>— *Lens culinaris* Medik.</td>
 </tr>
 <tr>
-<td></td>
-<td>(e)</td>
-<td>Emmer</td>
-<td>—*Triticum dicoccum* Schrank</td>
+<td>(g) Lupine, lupin (grain and forage)</td>
+<td>— *Lupinus* spp.</td>
 </tr>
 <tr>
-<td></td>
-<td>(f)</td>
-<td>Lentil</td>
-<td>—*Lens culinaris* Medikus</td>
+<td>(h) Oats including hulless</td>
+<td>— *Avena sativa* L., *A. nuda* L.</td>
 </tr>
 <tr>
-<td></td>
-<td>(g)</td>
-<td>Lupine, field (non-ornamental)</td>
-<td>—*Lupinus* spp.</td>
+<td>(i) Rye</td>
+<td>— *Secale cereale* L.</td>
 </tr>
 <tr>
-<td></td>
-<td>(h)</td>
-<td>Oat</td>
-<td>—*Avena sativa* L., *A. nuda* L.</td>
+<td>(j) Spelt</td>
+<td>— *Triticum aestivum* L. subsp. *spelta* (L.) Thell. (= *T. spelta* L.)</td>
 </tr>
 <tr>
-<td></td>
-<td>(i)</td>
-<td>Rye</td>
-<td>—*Secale cereale* L.</td>
-</tr>
-<tr>
-<td></td>
-<td>(j)</td>
-<td>Sainfoin</td>
-<td>—*Onobrychis viciifolia* Scop.</td>
-</tr>
-<tr>
-<td></td>
-<td>(k)</td>
-<td>Spelt</td>
-<td>—*Triticum spelta* L.</td>
-</tr>
-<tr>
-<td></td>
-<td>(l)</td>
-<td>Triticale</td>
-<td>—*X Triticosecale* Wittmack</td>
-</tr>
-<tr>
-<td></td>
-<td>(m)</td>
-<td>Vetch, hairy</td>
-<td>—*Vicia villosa* Roth. ssp. *villosa*</td>
-</tr>
-<tr>
-<td></td>
-<td>(n)</td>
-<td>Vetch, Hungarian</td>
-<td>—*Vicia pannonica* Crantz</td>
-</tr>
-<tr>
-<td></td>
-<td>(o)</td>
-<td>Vetch, spring or common</td>
-<td>—*Vicia sativa* L. ssp. *sativa*</td>
+<td>(k) Triticale</td>
+<td>— × *Triticosecale* spp.</td>
 </tr>
 </table>
 
-
-
 <table>
 <tr>
-<th>I</th>
-<th>II</th>
-<th>III</th>
-<th>IV</th>
-<th>V</th>
-<th>VI</th>
-<th>VII</th>
-<th>VIII</th>
-<th>IX</th>
-<th>X</th>
-<th>XI</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th>11</th>
 </tr>
 <tr>
 <th></th>
 <th>Maximum Number of Seeds per kg</th>
-<th>Maximum Number of Ergot Bodies per kg</th>
-<th>Maximum Per cent True Loose Smut in Barley</th>
+<th></th>
+<th></th>
+<th></th>
 <th></th>
 <th></th>
 </tr>
@@ -3425,12 +3395,19 @@ Inspection for the purpose of certification was made either visually or through 
 <th>Noxious Weeds</th>
 <th></th>
 <th></th>
-<th>Minimum Per Cent Germination</th>
+<th>Maximum Number of Ergot Bodies per kg</th>
+<th></th>
+<th>Minimum Percentage of Germination</th>
 </tr>
 <tr>
 <th></th>
 <th></th>
-<th>Primary plus Secondary</th>
+<th>Primary Plus Secondary</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
 <th></th>
 <th></th>
 </tr>
@@ -3440,20 +3417,18 @@ Inspection for the purpose of certification was made either visually or through 
 <th>In Oats</th>
 <th>In Other Kinds</th>
 <th>Total Weeds</th>
-<th>Total Other Crops</th>
-<th>In Barley & Oats</th>
+<th>Other Crops</th>
+<th>In Barley & Oats</th>
 <th>In Triticale & Rye</th>
-<th>Rye, Triticale & Sainfoin</th>
+<th>Maximum Percentage of True Loose Smut in Barley</th>
+<th>Rye, Triticale, Hulless Barley & Hulless Oats</th>
 <th>Other Kinds</th>
 </tr>
 <tr>
-<th></th>
-</tr>
-<tr>
-<td>1. Canada Foundation No. 1</td>
+<td>1. Canada Foundation No. 1</td>
 <td>0</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>0</td>
+<td>0</td>
 <td>2</td>
 <td>1</td>
 <td>1</td>
@@ -3463,10 +3438,10 @@ Inspection for the purpose of certification was made either visually or through 
 <td>85</td>
 </tr>
 <tr>
-<td>2. Canada Foundation No. 2</td>
+<td>2. Canada Foundation No. 2</td>
 <td>0</td>
-<td>0.1</td>
-<td>0.2</td>
+<td>0</td>
+<td>0</td>
 <td>4</td>
 <td>2</td>
 <td>8</td>
@@ -3476,10 +3451,10 @@ Inspection for the purpose of certification was made either visually or through 
 <td>75</td>
 </tr>
 <tr>
-<td>3. Canada Registered No. 1</td>
+<td>3. Canada Registered No. 1</td>
 <td>0</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>0</td>
+<td>0</td>
 <td>3</td>
 <td>2</td>
 <td>1</td>
@@ -3489,10 +3464,10 @@ Inspection for the purpose of certification was made either visually or through 
 <td>85</td>
 </tr>
 <tr>
-<td>4. Canada Registered No. 2</td>
+<td>4. Canada Registered No. 2</td>
 <td>0</td>
-<td>0.1</td>
-<td>0.2</td>
+<td>0</td>
+<td>0</td>
 <td>6</td>
 <td>4</td>
 <td>8</td>
@@ -3502,10 +3477,10 @@ Inspection for the purpose of certification was made either visually or through 
 <td>75</td>
 </tr>
 <tr>
-<td>5. Canada Certified No. 1</td>
+<td>5. Canada Certified No. 1</td>
 <td>0</td>
-<td>0.5</td>
-<td>0.2</td>
+<td>0</td>
+<td>0</td>
 <td>3</td>
 <td>4</td>
 <td>2</td>
@@ -3515,10 +3490,10 @@ Inspection for the purpose of certification was made either visually or through 
 <td>85</td>
 </tr>
 <tr>
-<td>6. Canada Certified No. 2</td>
+<td>6. Canada Certified No. 2</td>
 <td>0</td>
-<td>1.0</td>
-<td>1.0</td>
+<td>1</td>
+<td>1</td>
 <td>6</td>
 <td>10</td>
 <td>8</td>
@@ -3528,10 +3503,10 @@ Inspection for the purpose of certification was made either visually or through 
 <td>75</td>
 </tr>
 <tr>
-<td>7. Common No. 1</td>
+<td>7. Common No. 1</td>
 <td>0</td>
-<td>2.0</td>
-<td>2.0</td>
+<td>2</td>
+<td>2</td>
 <td>10</td>
 <td>25</td>
 <td>2</td>
@@ -3541,10 +3516,10 @@ Inspection for the purpose of certification was made either visually or through 
 <td>85</td>
 </tr>
 <tr>
-<td>8. Common No. 2</td>
+<td>8. Common No. 2</td>
 <td>2</td>
-<td>4.0</td>
-<td>4.0</td>
+<td>4</td>
+<td>4</td>
 <td>20</td>
 <td>50</td>
 <td>8</td>
@@ -3555,47 +3530,156 @@ Inspection for the purpose of certification was made either visually or through 
 </tr>
 </table>
 
+#### TABLE II.1
+<table>
+<tr>
+<td>Applicable to:</td>
+<td></td>
+</tr>
+<tr>
+<td>(a) Sainfoin</td>
+<td>— *Onobrychis viciifolia* Scop.</td>
+</tr>
+<tr>
+<td>(b) Vetch, hairy</td>
+<td>— *Vicia villosa* Roth. subsp. *villosa*</td>
+</tr>
+<tr>
+<td>(c) Vetch, Hungarian</td>
+<td>— *Vicia pannonica* Crantz</td>
+</tr>
+<tr>
+<td>(d) Vetch, common</td>
+<td>— *Vicia sativa* L. subsp. *sativa*</td>
+</tr>
+</table>
 
+<table>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+</tr>
+<tr>
+<th></th>
+<th>Maximum Number of Seeds per kg</th>
+<th></th>
+</tr>
+<tr>
+<th></th>
+<th>Noxious Weeds</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<th>Grade Name</th>
+<th>Primary</th>
+<th>Primary Plus Secondary</th>
+<th>Total Weeds</th>
+<th>Other Crops</th>
+<th>Minimum Percentage of Germination</th>
+</tr>
+<tr>
+<td>1. Canada Foundation No. 1</td>
+<td>0</td>
+<td>1</td>
+<td>20</td>
+<td>10</td>
+<td>75</td>
+</tr>
+<tr>
+<td>2. Canada Foundation No. 2</td>
+<td>0</td>
+<td>2</td>
+<td>40</td>
+<td>20</td>
+<td>65</td>
+</tr>
+<tr>
+<td>3. Canada Registered No. 1</td>
+<td>0</td>
+<td>1</td>
+<td>20</td>
+<td>10</td>
+<td>75</td>
+</tr>
+<tr>
+<td>4. Canada Registered No. 2</td>
+<td>0</td>
+<td>2</td>
+<td>40</td>
+<td>20</td>
+<td>65</td>
+</tr>
+<tr>
+<td>5. Canada Certified No. 1</td>
+<td>0</td>
+<td>5</td>
+<td>40</td>
+<td>40</td>
+<td>75</td>
+</tr>
+<tr>
+<td>6. Canada Certified No. 2</td>
+<td>0</td>
+<td>20</td>
+<td>80</td>
+<td>80</td>
+<td>65</td>
+</tr>
+<tr>
+<td>7. Common No. 1</td>
+<td>0</td>
+<td>20</td>
+<td>50</td>
+<td>50</td>
+<td>70</td>
+</tr>
+<tr>
+<td>8. Common No. 2</td>
+<td>20</td>
+<td>40</td>
+<td>100</td>
+<td>100</td>
+<td>60</td>
+</tr>
+</table>
 
 #### TABLE III
 <table>
 <tr>
-<td>Applicable to:
-
-</td>
-<td></td>
+<td>Applicable to:</td>
 </tr>
 <tr>
-<td>Cereal mixtures composed of seeds of two or more kinds listed in Tables I and II, including field beans, horse beans, tick beans and peas
-
-</td>
+<td>Cereal mixtures composed of seeds of two or more kinds listed in Tables I to II.1, including *Phaseolus vulgaris* L., *Vicia faba* L. and *Pisum sativum* L.</td>
 </tr>
 </table>
 
-
-
 <table>
 <tr>
-<th>I</th>
-<th>II</th>
-<th>III</th>
-<th>IV</th>
-<th>V</th>
-<th>VI</th>
-<th>VII</th>
-<th>VIII</th>
-<th>IX</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
 </tr>
 <tr>
 <th></th>
 <th>Maximum Number of Seeds per kg</th>
-<th>Maximum Per cent True Loose Smut in Barley</th>
-<th>Maximum No. of Ergot Bodies per kg</th>
-<th>Minimum Per Cent Germination for each Component</th>
+<th></th>
+<th></th>
 </tr>
 <tr>
 <th></th>
 <th>Noxious Weeds</th>
+<th></th>
+<th></th>
 <th></th>
 <th></th>
 </tr>
@@ -3604,122 +3688,95 @@ Inspection for the purpose of certification was made either visually or through 
 <th>Primary</th>
 <th>Primary Plus Secondary</th>
 <th>Total Weeds</th>
-<th>Total Other Crops</th>
-<th>Durum Wheat</th>
-<th>Other Species</th>
-</tr>
-<tr>
-<th></th>
+<th>Other Crops</th>
+<th>Maximum Percentage of True Loose Smut in Barley</th>
+<th>Maximum Number of Ergot Bodies per kg</th>
 </tr>
 <tr>
 <td>1. Canada Certified No. 1 Cereal Mixture</td>
 <td>0</td>
-<td>0.2</td>
+<td>0</td>
 <td>3</td>
 <td>5</td>
 <td>2</td>
 <td>3</td>
-<td>80</td>
-<td>85</td>
 </tr>
 <tr>
 <td>2. Canada Certified No. 2 Cereal Mixture</td>
 <td>0</td>
-<td>1.0</td>
+<td>1</td>
 <td>6</td>
 <td>20</td>
 <td>4</td>
 <td>12</td>
-<td>70</td>
-<td>75</td>
 </tr>
 <tr>
 <td>3. Common No. 1 Cereal Mixture</td>
 <td>0</td>
-<td>2.0</td>
+<td>2</td>
 <td>10</td>
 <td>30</td>
 <td>4</td>
 <td>3</td>
-<td>80</td>
-<td>85</td>
 </tr>
 <tr>
 <td>4. Common No. 2 Cereal Mixture</td>
 <td>2</td>
-<td>4.0</td>
+<td>4</td>
 <td>20</td>
 <td>60</td>
 <td>6</td>
 <td>12</td>
-<td>70</td>
-<td>75</td>
 </tr>
 </table>
-
-
 
 #### TABLE IV
 <table>
 <tr>
-<th>Applicable to:
-
-</th>
-<th></th>
-</tr>
-<tr>
-<td>**(a)** Canarygrass
-
-</td>
-<td>*— Phalaris canariensis* L.</td>
-</tr>
-<tr>
-<td>**(b)** Flax, oil and fibre
-
-</td>
-<td>—*Linum usitatissimum* L.</td>
-</tr>
-<tr>
-<td>**(c)** Sorghum
-
-</td>
-<td>—*Sorghum bicolor* (L.) Moench (= *S. vulgare* Pers.), *S.*</td>
-</tr>
-<tr>
-<td></td>
-<td>*almum* Parodi
-
-</td>
-</tr>
-<tr>
-<td>**(d)** Sorghum Sudangrass hybrids
-
-</td>
+<td>Applicable to:</td>
 <td></td>
 </tr>
 <tr>
-<td>**(e)** Sudan grass
-
-</td>
-<td>—*Sorghum sudanense* (Piper) Stapf</td>
+<td>(a) Canarygrass</td>
+<td>— *Phalaris canariensis* L.</td>
+</tr>
+<tr>
+<td>(b) Flax, oilseed and fibre</td>
+<td>— *Linum usitatissimum* L.</td>
+</tr>
+<tr>
+<td>(c) Sorghum</td>
+<td>— *Sorghum bicolor* (L.) Moench</td>
+</tr>
+<tr>
+<td>(d) Sorghum Sudan grass hybrids</td>
+<td>— *Sorghum* ×*drummondi* (Steud.) Millsp. & Chase</td>
+</tr>
+<tr>
+<td>(e) Sudan grass</td>
+<td>— *Sorghum* ×*drummondi* (Steud.) Millsp. & Chase (= *S. sudanese* (Piper) Stapf)</td>
+</tr>
+<tr>
+<td>(f) Hemp</td>
+<td>— *Cannabis sativa* L. subsp. *sativa*</td>
 </tr>
 </table>
 
-
-
 <table>
 <tr>
-<th>I</th>
-<th>II</th>
-<th>III</th>
-<th>IV</th>
-<th>V</th>
-<th>VI</th>
-<th>VII</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
 </tr>
 <tr>
 <th></th>
 <th>Maximum Number of Seeds per 25 g</th>
+<th></th>
 <th></th>
 </tr>
 <tr>
@@ -3727,289 +3784,235 @@ Inspection for the purpose of certification was made either visually or through 
 <th>Noxious Weeds</th>
 <th></th>
 <th>Other Crops</th>
-<th>Minimum Per cent Germination</th>
+<th>Minimum Percentage of Germination</th>
 </tr>
 <tr>
 <th>Grade Name</th>
 <th>Primary</th>
 <th>Primary Plus Secondary</th>
 <th>Total Weeds</th>
-<th>In Sorghum, Sudangrass & Canarygrass</th>
+<th>In Sorghum, Sudan Grass, Sorghum Sudan Grass Hybrids & Canarygrass</th>
 <th>In Other Kinds</th>
+<th>Sorghum</th>
+<th>Other Kinds</th>
 </tr>
 <tr>
-<th></th>
-</tr>
-<tr>
-<td>1. Canada Foundation No. 1</td>
+<td>1. Canada Foundation No. 1</td>
 <td>0</td>
-<td>0.0</td>
+<td>0</td>
 <td>2</td>
-<td>0.5</td>
-<td>0.5</td>
+<td>0</td>
+<td>0</td>
+<td>70</td>
 <td>85</td>
 </tr>
 <tr>
-<td>2. Canada Foundation No. 2</td>
+<td>2. Canada Foundation No. 2</td>
 <td>0</td>
-<td>0.5</td>
+<td>0</td>
 <td>3</td>
-<td>1.0</td>
-<td>1.0</td>
+<td>1</td>
+<td>1</td>
+<td>70</td>
 <td>70</td>
 </tr>
 <tr>
-<td>3. Canada Registered No. 1</td>
+<td>3. Canada Registered No. 1</td>
 <td>0</td>
-<td>0.0</td>
+<td>0</td>
 <td>2</td>
-<td>0.5</td>
-<td>1.0</td>
+<td>0</td>
+<td>1</td>
+<td>70</td>
 <td>85</td>
 </tr>
 <tr>
-<td>4. Canada Registered No. 2</td>
+<td>4. Canada Registered No. 2</td>
 <td>0</td>
-<td>0.5</td>
+<td>0</td>
 <td>3</td>
-<td>1.0</td>
-<td>2.0</td>
+<td>1</td>
+<td>2</td>
+<td>70</td>
 <td>70</td>
 </tr>
 <tr>
-<td>5. Canada Certified No. 1</td>
+<td>5. Canada Certified No. 1</td>
 <td>0</td>
-<td>0.5</td>
+<td>0</td>
 <td>3</td>
-<td>1.0</td>
-<td>1.0</td>
+<td>1</td>
+<td>1</td>
+<td>70</td>
 <td>85</td>
 </tr>
 <tr>
-<td>6. Canada Certified No. 2</td>
+<td>6. Canada Certified No. 2</td>
 <td>0</td>
-<td>2.0</td>
+<td>2</td>
 <td>5</td>
-<td>2.0</td>
-<td>2.0</td>
+<td>2</td>
+<td>2</td>
+<td>70</td>
 <td>70</td>
 </tr>
 <tr>
-<td>7. Common No. 1</td>
+<td>7. Common No. 1</td>
 <td>0</td>
-<td>2.0</td>
+<td>2</td>
 <td>6</td>
-<td>25.0</td>
-<td>2.0</td>
+<td>25</td>
+<td>2</td>
+<td>70</td>
 <td>85</td>
 </tr>
 <tr>
-<td>8. Common No. 2</td>
+<td>8. Common No. 2</td>
 <td>2</td>
-<td>6.0</td>
+<td>6</td>
 <td>10</td>
-<td>50.0</td>
-<td>8.0</td>
+<td>50</td>
+<td>8</td>
+<td>70</td>
 <td>70</td>
 </tr>
 </table>
-
-
 
 #### TABLE V
 <table>
 <tr>
-<td>Applicable to:
-
-</td>
-<td></td>
+<td>Applicable to seed of the following kinds when intended for agricultural field production:</td>
 </tr>
 <tr>
-<td>**(a)** Bean, field and garden
-
-</td>
-<td>—*Phaseolus vulgaris* L.
-
-</td>
+<td>(a) Bean, field</td>
+<td>— *Phaseolus vulgaris* L.</td>
 </tr>
 <tr>
-<td>**(b)** Bean, broad, horse, tick and faba
-
-</td>
-<td>—*Vicia faba* L.
-
-</td>
+<td>(b) Bean, broad, horse, tick and faba</td>
+<td>— *Vicia faba* L.</td>
 </tr>
 <tr>
-<td>**(c)** Bean, lima
-
-</td>
-<td>—*Phaseolus lunatus* L.
-
-</td>
+<td>(c) Chickpea</td>
+<td>— *Cicer arietinum* L.</td>
 </tr>
 <tr>
-<td>**(d)** Bean, scarlet runner
-
-</td>
-<td>—*Phaseolus coccineus* L.
-
-</td>
+<td>(d) Corn (open-pollinated, synthetic)</td>
+<td>— *Zea mays* L. subsp. *mays*</td>
 </tr>
 <tr>
-<td>**(e)** Chickpea
-
-</td>
-<td>—*Cicer arietinum* L.
-
-</td>
+<td>(e) Cowpea</td>
+<td>— *Vigna unguiculata* (L.) Walpers subsp. *unguiculata*</td>
 </tr>
 <tr>
-<td>**(f)** Corn (open-pollinated, synthetic)
-
-</td>
-<td>—*Zea mays* L.
-
-</td>
+<td>(f) Pea, field</td>
+<td>— *Pisum sativum* L.</td>
 </tr>
 <tr>
-<td>**(g)** Cowpea
-
-</td>
-<td>—*Vigna unguiculata* (L.) Walpers ssp.*unguiculata*
-
-</td>
+<td>(g) Safflower</td>
+<td>— *Carthamus tinctorius* L.</td>
 </tr>
 <tr>
-<td>**(h)** Pea, canning, field and garden
-
-</td>
-<td>—*Pisum sativum* L.
-
-</td>
+<td>(h) Soybean</td>
+<td>— *Glycine max* (L.) Merr.</td>
 </tr>
 <tr>
-<td>**(i)** Safflower
-
-</td>
-<td>—*Carthamus tinctorius* L.
-
-</td>
-</tr>
-<tr>
-<td>**(j)** Soybean
-
-</td>
-<td>—*Glycine max* (L.) Merrill
-
-</td>
-</tr>
-<tr>
-<td>**(k)** Sunflower (open-pollinated)
-
-</td>
-<td>—*Helianthus annuus* L.
-
-</td>
+<td>(i) Sunflower (open-pollinated)</td>
+<td>— *Helianthus annuus* L.</td>
 </tr>
 </table>
 
-
-
 <table>
 <tr>
-<th>I</th>
-<th>II</th>
-<th>III</th>
-<th>IV</th>
-<th>V</th>
-<th>VI</th>
-<th>VII</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
 </tr>
 <tr>
 <th></th>
 <th>Maximum Number of Seeds per kg</th>
-<th>Maximum Number of Sclerotia Bodies in Sunflower per kg</th>
-<th>Minimum Per Cent Germination</th>
+<th></th>
+<th>Minimum Percentage of Germination</th>
 </tr>
 <tr>
 <th>Grade Name</th>
-<th>Weeds</th>
+<th>Total Weeds</th>
 <th>Other Crops</th>
-<th>Peas</th>
-<th>Beans & Soybeans</th>
-<th>Other Kinds</th>
+<th>Maximum Number of Sclerotia Bodies in Sunflower per kg</th>
+<th>Pea, Chickpea, Cowpea & Safflower</th>
+<th>Beans & Soybean</th>
+<th>Corn & Sunflower</th>
 </tr>
 <tr>
-<th></th>
-</tr>
-<tr>
-<td>1. Canada Foundation No. 1</td>
+<td>1. Canada Foundation No. 1</td>
 <td>0</td>
-<td>0.0</td>
+<td>0</td>
 <td>1</td>
 <td>80</td>
 <td>85</td>
 <td>90</td>
 </tr>
 <tr>
-<td>2. Canada Foundation No. 2</td>
+<td>2. Canada Foundation No. 2</td>
 <td>0</td>
-<td>0.5</td>
+<td>0</td>
 <td>8</td>
 <td>70</td>
 <td>75</td>
 <td>80</td>
 </tr>
 <tr>
-<td>3. Canada Registered No. 1</td>
+<td>3. Canada Registered No. 1</td>
 <td>0</td>
-<td>0.0</td>
+<td>0</td>
 <td>1</td>
 <td>80</td>
 <td>85</td>
 <td>90</td>
 </tr>
 <tr>
-<td>4. Canada Registered No. 2</td>
+<td>4. Canada Registered No. 2</td>
 <td>0</td>
-<td>1.0</td>
+<td>1</td>
 <td>8</td>
 <td>70</td>
 <td>75</td>
 <td>80</td>
 </tr>
 <tr>
-<td>5. Canada Certified No. 1</td>
+<td>5. Canada Certified No. 1</td>
 <td>0</td>
-<td>1.0</td>
+<td>1</td>
 <td>1</td>
 <td>80</td>
 <td>85</td>
 <td>90</td>
 </tr>
 <tr>
-<td>6. Canada Certified No. 2</td>
+<td>6. Canada Certified No. 2</td>
 <td>0</td>
-<td>3.0</td>
+<td>3</td>
 <td>8</td>
 <td>70</td>
 <td>75</td>
 <td>80</td>
 </tr>
 <tr>
-<td>7. Common No. 1</td>
+<td>7. Common No. 1</td>
 <td>1</td>
-<td>4.0</td>
+<td>4</td>
 <td>4</td>
 <td>75</td>
 <td>80</td>
 <td>90</td>
 </tr>
 <tr>
-<td>8. Common No. 2</td>
+<td>8. Common No. 2</td>
 <td>3</td>
-<td>10.0</td>
+<td>10</td>
 <td>8</td>
 <td>65</td>
 <td>65</td>
@@ -4017,77 +4020,65 @@ Inspection for the purpose of certification was made either visually or through 
 </tr>
 </table>
 
-
-
 #### TABLE VI
 <table>
 <tr>
-<th>Applicable to:</th>
-<th></th>
-<th></th>
-<th></th>
+<td>Applicable to seed of the following kinds when intended for agricultural field production:</td>
 </tr>
 <tr>
-<td>**(a)** Corn, hybrid
-
-</td>
-<td>—*Zea mays* L.</td>
+<td>(a) Corn, hybrid</td>
+<td>— *Zea mays* L. subsp. *mays*</td>
 </tr>
 <tr>
-<td>**(b)** Sunflower, hybrid
-
-</td>
-<td>—*Helianthus annuus* L.</td>
+<td>(b) Sunflower, hybrid</td>
+<td>— *Helianthus annuus* L.</td>
 </tr>
 </table>
 
-
-
 <table>
 <tr>
-<th>I</th>
-<th>II</th>
-<th>III</th>
-<th>IV</th>
-<th>V</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <th></th>
 <th>Maximum Number of Seeds per kg</th>
-<th>Maximum Number of Sclerotia Bodies per kg in Sunflower</th>
-<th>Minimum Per cent Germination</th>
+<th></th>
+<th></th>
 </tr>
 <tr>
 <th>Grade Name</th>
 <th>Weeds</th>
 <th>Other Crops</th>
+<th>Maximum Number of Sclerotia Bodies per kg in Sunflower</th>
+<th>Minimum Percentage of Germination</th>
 </tr>
 <tr>
-<th></th>
-</tr>
-<tr>
-<td>1. Canada Foundation</td>
+<td>1. Canada Foundation</td>
 <td>0</td>
 <td>N/A</td>
 <td>8</td>
 <td>N/A</td>
 </tr>
 <tr>
-<td>2. Canada Certified No. 1</td>
+<td>2. Canada Certified No. 1</td>
 <td>0</td>
 <td>1</td>
 <td>1</td>
 <td>90</td>
 </tr>
 <tr>
-<td>3. Canada Certified No. 2</td>
+<td>3. Canada Certified No. 2</td>
 <td>0</td>
 <td>5</td>
 <td>8</td>
 <td>80</td>
 </tr>
 <tr>
-<td>4. Common</td>
+<td>4. Common</td>
 <td>4</td>
 <td>10</td>
 <td>8</td>
@@ -4095,77 +4086,57 @@ Inspection for the purpose of certification was made either visually or through 
 </tr>
 </table>
 
-
-
 #### TABLE VII
 <table>
 <tr>
-<td>Applicable to:
-
-</td>
+<td>Applicable to:</td>
 <td></td>
 </tr>
 <tr>
-<td>**(a)** Mustard, black
-
-</td>
-<td>—*Brassica nigra* (L.) Koch
-
-</td>
+<td>(a) Mustard, black</td>
+<td>— *Brassica nigra* (L.) W.D.J. Koch</td>
 </tr>
 <tr>
-<td>**(b)** Mustard, oriental or Indian
-
-</td>
-<td>—*Brassica juncea* (L.) Czern. et Coss
-
-</td>
+<td>(b) Mustard, oriental, Indian or brown</td>
+<td>— *Brassica juncea* (L.) Czern.</td>
 </tr>
 <tr>
-<td>**(c)** Mustard, white (= yellow)
-
-</td>
-<td>—*Sinapis alba* L. (= *B. hirta* Moench)
-
-</td>
+<td>(c) Mustard, white (= yellow)</td>
+<td>— *Sinapis alba* L.</td>
 </tr>
 <tr>
-<td>**(d)** Rapeseed, Oilseed Rape includingCanola
-
-</td>
+<td>(d) Rapeseed, oilseed rape, canola</td>
 <td></td>
 </tr>
 <tr>
-<td>— polish type
-
-</td>
-<td>—*Brassica rapa* L.
-
-</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;- Argentine type</td>
+<td>— *Brassica napus* L. var. *napus* (= *B. napus* L. var. *oleifera* Delile)</td>
 </tr>
 <tr>
-<td>— argentine type
-
-</td>
-<td>—*Brassica napus* L.
-
-</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;- Polish type</td>
+<td>— *Brassica rapa* L. subsp. *campestris* (L.) A.R. Clapham</td>
+</tr>
+<tr>
+<td>- *Brassica juncea* type</td>
+<td>— *Brassica juncea* (L.) Czern.</td>
+</tr>
+<tr>
+<td>(e) Radish, oilseed or forage</td>
+<td>— *Raphanus sativus* L. var. *oleiformis* Pers.</td>
 </tr>
 </table>
 
-
-
 <table>
 <tr>
-<th>I</th>
-<th>II</th>
-<th>III</th>
-<th>IV</th>
-<th>V</th>
-<th>VI</th>
-<th>VII</th>
-<th>VIII</th>
-<th>IX</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
 </tr>
 <tr>
 <th></th>
@@ -4177,7 +4148,7 @@ Inspection for the purpose of certification was made either visually or through 
 <th></th>
 <th>Noxious Weeds</th>
 <th></th>
-<th>*B. rapa* in *B. napus* or *B. napus* in *B. rapa*</th>
+<th></th>
 <th></th>
 <th></th>
 <th></th>
@@ -4188,16 +4159,14 @@ Inspection for the purpose of certification was made either visually or through 
 <th>Primary</th>
 <th>Primary Plus Secondary</th>
 <th>Total Weeds</th>
-<th>Other Brassica Crops including *S. alba*</th>
-<th>Non-brassica Crops</th>
-<th>Maximum No. of Sclerotia Bodies per 50 g</th>
-<th>Minimum Per Cent Germination</th>
+<th>*B. rapa* in *B. napus* or *B. napus* in *B. rapa*</th>
+<th>Other Brassica Crops Including *S. alba*</th>
+<th>Other Non-brassica Crops</th>
+<th>Maximum Number of Sclerotia Bodies per 50 g</th>
+<th>Minimum Percentage of Germination</th>
 </tr>
 <tr>
-<th></th>
-</tr>
-<tr>
-<td>1. Canada Foundation No. 1</td>
+<td>1. Canada Foundation No. 1</td>
 <td>0</td>
 <td>0</td>
 <td>5</td>
@@ -4208,7 +4177,7 @@ Inspection for the purpose of certification was made either visually or through 
 <td>90</td>
 </tr>
 <tr>
-<td>2. Canada Foundation No. 2</td>
+<td>2. Canada Foundation No. 2</td>
 <td>0</td>
 <td>0</td>
 <td>10</td>
@@ -4216,10 +4185,10 @@ Inspection for the purpose of certification was made either visually or through 
 <td>1</td>
 <td>2</td>
 <td>2</td>
-<td>75</td>
+<td>80</td>
 </tr>
 <tr>
-<td>3. Canada Registered No. 1</td>
+<td>3. Canada Registered No. 1</td>
 <td>0</td>
 <td>0</td>
 <td>5</td>
@@ -4230,7 +4199,7 @@ Inspection for the purpose of certification was made either visually or through 
 <td>90</td>
 </tr>
 <tr>
-<td>4. Canada Registered No. 2</td>
+<td>4. Canada Registered No. 2</td>
 <td>0</td>
 <td>0</td>
 <td>10</td>
@@ -4238,10 +4207,10 @@ Inspection for the purpose of certification was made either visually or through 
 <td>1</td>
 <td>2</td>
 <td>2</td>
-<td>75</td>
+<td>80</td>
 </tr>
 <tr>
-<td>5. Canada Certified No. 1</td>
+<td>5. Canada Certified No. 1</td>
 <td>0</td>
 <td>1</td>
 <td>5</td>
@@ -4252,7 +4221,7 @@ Inspection for the purpose of certification was made either visually or through 
 <td>90</td>
 </tr>
 <tr>
-<td>6. Canada Certified No. 2</td>
+<td>6. Canada Certified No. 2</td>
 <td>0</td>
 <td>2</td>
 <td>10</td>
@@ -4263,7 +4232,7 @@ Inspection for the purpose of certification was made either visually or through 
 <td>80</td>
 </tr>
 <tr>
-<td>7. Common</td>
+<td>7. Common</td>
 <td>1</td>
 <td>3</td>
 <td>15</td>
@@ -4275,164 +4244,92 @@ Inspection for the purpose of certification was made either visually or through 
 </tr>
 </table>
 
-
-
 #### TABLE VIII
 <table>
 <tr>
-<td>Applicable to:
-
-</td>
+<td>Applicable to:</td>
 <td></td>
 </tr>
 <tr>
-<td>**(a)** Alfalfa
-
-</td>
-<td>—*Medicago sativa* L. (incl. *M. sativa* L. ssp. *falcata* (L.) Arcangeli)
-
-</td>
+<td>(a) Alfalfa</td>
+<td>— *Medicago sativa* L.</td>
 </tr>
 <tr>
-<td>**(b)** Clover, crimson
-
-</td>
-<td>—*Trifolium incarnatum* L.
-
-</td>
+<td>(b) Clover, crimson</td>
+<td>— *Trifolium incarnatum* L.</td>
 </tr>
 <tr>
-<td>**(c)** Clover, red
-
-</td>
-<td>—*Trifolium pratense* L.
-
-</td>
+<td>(c) Clover, red</td>
+<td>— *Trifolium pratense* L.</td>
 </tr>
 <tr>
-<td>**(d)** Clover, subterranean
-
-</td>
-<td>—*Trifolium subterraneum* L.
-
-</td>
+<td>(d) Clover, subterranean</td>
+<td>— *Trifolium subterraneum* L.</td>
 </tr>
 <tr>
-<td>**(e)** Clover, sweet
-
-</td>
+<td>(e) Clover, sweet</td>
 <td></td>
 </tr>
 <tr>
-<td>— white blossom
-
-</td>
-<td>—*Melilotus alba* Medikus
-
-</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;- white blossom</td>
+<td>— *Melilotus albus* Medik.</td>
 </tr>
 <tr>
-<td>— yellow blossom
-
-</td>
-<td>—*Melilotus officinalis* (L.) Pallas
-
-</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;- yellow blossom</td>
+<td>— *Melilotus officinalis* (L.) Lam.</td>
 </tr>
 <tr>
-<td>**(f)** Lespedeza, common or Kobe
-
-</td>
-<td>—*Lespedeza striata* (Thunb. ex Murray) Hook. & Arn.
-
-</td>
+<td>(f) Lespedeza, common or Kobe</td>
+<td>— *Kummerowia striata* (Thunb.) Schindl. (= *Lespedeza striata* (Thunb.) Hook. & Arn.)</td>
 </tr>
 <tr>
-<td>**(g)** Lespedeza, Korean
-
-</td>
-<td>—*Lespedeza stipulacea* Maxim
-
-</td>
+<td>(g) Lespedeza, Korean</td>
+<td>— *Kummerowia stipulacia* (Maxim.) Makino (= *Lespedeza stipulacea* Maxim.)</td>
 </tr>
 <tr>
-<td>**(h)** Lespedeza, sericea or Chinese
-
-</td>
-<td>—*Lespedeza cuneata* (Dum.-Cours.) G. Don
-
-</td>
+<td>(h) Lespedeza, sericea or Chinese</td>
+<td>— *Lespedeza cuneata* (Dum.-Cours.) G. Don</td>
 </tr>
 <tr>
-<td>**(i)** Millet, foxtail or Italian
-
-</td>
-<td>—*Setaria italica* (L.) Beauv.
-
-</td>
+<td>(i) Millet, foxtail or Italian</td>
+<td>— *Setaria italica* (L.) P. Beauv. subsp. *italica*</td>
 </tr>
 <tr>
-<td>**(j)** Millet, Japanese
-
-</td>
-<td>—*Echinochloa crusgalli* (L.) Beauv. var. *frumentacea* (Link) W.F. Wight
-
-</td>
+<td>(j) Millet, Japanese</td>
+<td>— *Echinochloa frumentacea* Link or *E. esculenta* (A. Brown) H. Scholz. (=*Echinochloa crus-galli* (L.) P. Beauv. var. *frumentacea* (Link) E.G. Camus & A. Camus)</td>
 </tr>
 <tr>
-<td>**(k)** Millet, pearl
-
-</td>
-<td>—*Pennisetum americanum* (L.) Schumann (= *P. typhoides* (Burm.) Stapf & C.E. Hubb.)
-
-</td>
+<td>(k) Millet, pearl</td>
+<td>— *Pennisetum glaucum* (L.) R. Br. (= *P. americanum* L. Leeke)</td>
 </tr>
 <tr>
-<td>**(l)** Millet, proso
-
-</td>
-<td>—*Panicum miliaceum* L.
-
-</td>
+<td>(l) Millet, proso</td>
+<td>— *Panicum miliaceum* L. subsp. *miliaceum*</td>
 </tr>
 <tr>
-<td>**(m)** Vetch, crown
-
-</td>
-<td>—*Coronilla varia* L.
-
-</td>
+<td>(m) Vetch, crown</td>
+<td>— *Securigera varia* (L.) Lassen (= *Coronilla varia* L.)</td>
 </tr>
 <tr>
-<td>**(n)** Vetch, kidney
-
-</td>
-<td>—*Anthyllis vulneraria* L.
-
-</td>
+<td>(n) Vetch, kidney</td>
+<td>— *Anthyllis vulneraria* L.</td>
 </tr>
 <tr>
-<td>**(o)** Vetch, milk, cicer
-
-</td>
-<td>—*Astragalus cicer* L.
-
-</td>
+<td>(o) Milk-vetch, cicer</td>
+<td>— *Astragalus cicer* L.</td>
 </tr>
 </table>
 
-
-
 <table>
 <tr>
-<th>I</th>
-<th>II</th>
-<th>III</th>
-<th>IV</th>
-<th>V</th>
-<th>VI</th>
-<th>VII</th>
-<th>VIII</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
 </tr>
 <tr>
 <th></th>
@@ -4451,13 +4348,13 @@ Inspection for the purpose of certification was made either visually or through 
 <th>Primary</th>
 <th>Primary Plus Secondary</th>
 <th>Total Weeds</th>
-<th>Sweet clover</th>
-<th>Brassica Crops including *S. alba*</th>
-<th>Other non-brassica crops</th>
-<th>Minimum Per Cent Germination</th>
+<th>Sweet Clover</th>
+<th>Brassica Crops Including *S. alba*</th>
+<th>Other Non-brassica Crops</th>
+<th>Minimum Percentage of Germination</th>
 </tr>
 <tr>
-<td>1. Canada Foundation No. 1</td>
+<td>1. Canada Foundation No. 1</td>
 <td>0</td>
 <td>0</td>
 <td>5</td>
@@ -4467,7 +4364,7 @@ Inspection for the purpose of certification was made either visually or through 
 <td>85</td>
 </tr>
 <tr>
-<td>2. Canada Foundation No. 2</td>
+<td>2. Canada Foundation No. 2</td>
 <td>0</td>
 <td>2</td>
 <td>30</td>
@@ -4477,7 +4374,7 @@ Inspection for the purpose of certification was made either visually or through 
 <td>70</td>
 </tr>
 <tr>
-<td>3. Canada Registered No. 1</td>
+<td>3. Canada Registered No. 1</td>
 <td>0</td>
 <td>0</td>
 <td>5</td>
@@ -4487,7 +4384,7 @@ Inspection for the purpose of certification was made either visually or through 
 <td>85</td>
 </tr>
 <tr>
-<td>4. Canada Registered No. 2</td>
+<td>4. Canada Registered No. 2</td>
 <td>0</td>
 <td>2</td>
 <td>30</td>
@@ -4497,7 +4394,7 @@ Inspection for the purpose of certification was made either visually or through 
 <td>70</td>
 </tr>
 <tr>
-<td>5. Canada Certified No. 1</td>
+<td>5. Canada Certified No. 1</td>
 <td>0</td>
 <td>5</td>
 <td>50</td>
@@ -4507,7 +4404,7 @@ Inspection for the purpose of certification was made either visually or through 
 <td>80</td>
 </tr>
 <tr>
-<td>6. Canada Certified No. 2</td>
+<td>6. Canada Certified No. 2</td>
 <td>0</td>
 <td>10</td>
 <td>75</td>
@@ -4517,7 +4414,7 @@ Inspection for the purpose of certification was made either visually or through 
 <td>70</td>
 </tr>
 <tr>
-<td>7. Varietal Blend No. 1</td>
+<td>7. Varietal Blend No. 1</td>
 <td>0</td>
 <td>5</td>
 <td>50</td>
@@ -4527,7 +4424,7 @@ Inspection for the purpose of certification was made either visually or through 
 <td>80</td>
 </tr>
 <tr>
-<td>8. Varietal Blend No. 2</td>
+<td>8. Varietal Blend No. 2</td>
 <td>0</td>
 <td>10</td>
 <td>75</td>
@@ -4537,7 +4434,7 @@ Inspection for the purpose of certification was made either visually or through 
 <td>70</td>
 </tr>
 <tr>
-<td>9. Common No. 1</td>
+<td>9. Common No. 1</td>
 <td>0</td>
 <td>5</td>
 <td>75</td>
@@ -4547,7 +4444,7 @@ Inspection for the purpose of certification was made either visually or through 
 <td>80</td>
 </tr>
 <tr>
-<td>10. Common No. 2</td>
+<td>10. Common No. 2</td>
 <td>5</td>
 <td>10</td>
 <td>100</td>
@@ -4558,8 +4455,6 @@ Inspection for the purpose of certification was made either visually or through 
 </tr>
 </table>
 
-
-
 #### TABLE IX
 <table>
 <tr>
@@ -4567,82 +4462,62 @@ Inspection for the purpose of certification was made either visually or through 
 <td></td>
 </tr>
 <tr>
-<td>**(a)** Clover, alsike
-
-</td>
-<td>—*Trifolium hybridum* L.</td>
+<td>(a) Clover, alsike</td>
+<td>— *Trifolium hybridum* L.</td>
 </tr>
 <tr>
-<td>**(b)** Clover, hop or yellow
-
-</td>
-<td>—*Trifolium aureum* Poll. (= *T. agrarium* L.)</td>
+<td>(b) Clover, hop or yellow</td>
+<td>— *Trifolium aureum* Pollich</td>
 </tr>
 <tr>
-<td>**(c)** Clover, hop, large
-
-</td>
-<td>—*Trifolium campestre* Schreber (= *T. procumbens* L.)</td>
+<td>(c) Clover, hop, large</td>
+<td>— *Trifolium campestre* Schreb.</td>
 </tr>
 <tr>
-<td>**(d)** Clover, hop, small (suckling)
-
-</td>
-<td>—*Trifolium dubium* Sibth.</td>
+<td>(d) Clover, hop, small (suckling)</td>
+<td>— *Trifolium dubium* Sibth.</td>
 </tr>
 <tr>
-<td>**(e)** Clover, Persian
-
-</td>
-<td>—*Trifolium resupinatum* L.</td>
+<td>(e) Clover, Persian</td>
+<td>— *Trifolium resupinatum* L.</td>
 </tr>
 <tr>
-<td>**(f)** Clover, strawberry
-
-</td>
-<td>—*Trifolium fragiferum* L.</td>
+<td>(f) Clover, strawberry</td>
+<td>— *Trifolium fragiferum* L.</td>
 </tr>
 <tr>
-<td>**(g)** Clover, white
-
-</td>
-<td>—*Trifolium repens* L.</td>
+<td>(g) Clover, white</td>
+<td>— *Trifolium repens* L.</td>
 </tr>
 <tr>
-<td>**(h)** Medick, black
-
-</td>
-<td>—*Medicago lupulina* L.</td>
+<td>(h) Medick, black</td>
+<td>— *Medicago lupulina* L.</td>
 </tr>
 <tr>
-<td>**(i)** Timothy
-
-</td>
+<td>(i) Timothy</td>
 <td></td>
 </tr>
 <tr>
-<td>— common</td>
-<td>—*Phleum pratense* L.</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;- common</td>
+<td>— *Phleum pratense* L.</td>
 </tr>
 <tr>
-<td>— dwarf</td>
-<td>—*Phleum bertolonii* DC. (= *P. nodosum* auct.)</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;- dwarf</td>
+<td>— *Phleum bertolonii* DC.</td>
 </tr>
 </table>
 
-
-
 <table>
 <tr>
-<th>I</th>
-<th>II</th>
-<th>III</th>
-<th>IV</th>
-<th>V</th>
-<th>VI</th>
-<th>VII</th>
-<th>VIII</th>
-<th>IX</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
 </tr>
 <tr>
 <th></th>
@@ -4664,16 +4539,13 @@ Inspection for the purpose of certification was made either visually or through 
 <th>Primary Plus Secondary</th>
 <th>Total Weeds</th>
 <th>Sweet Clover</th>
-<th>Brassica Crops including *S. alba*</th>
-<th>Other non-brassica crops</th>
-<th>Maximum Per Cent Ergot or Sclerotia Bodies</th>
-<th>Minimum Per Cent Germination</th>
+<th>Brassica Crops Including *S. alba*</th>
+<th>Other Non-brassica Crops</th>
+<th>Maximum Percentage of Ergot or Sclerotia Bodies</th>
+<th>Minimum Percentage of Germination</th>
 </tr>
 <tr>
-<th></th>
-</tr>
-<tr>
-<td>1. Canada Foundation No. 1</td>
+<td>1. Canada Foundation No. 1</td>
 <td>0</td>
 <td>0</td>
 <td>8</td>
@@ -4684,7 +4556,7 @@ Inspection for the purpose of certification was made either visually or through 
 <td>80</td>
 </tr>
 <tr>
-<td>2. Canada Foundation No. 2</td>
+<td>2. Canada Foundation No. 2</td>
 <td>0</td>
 <td>2</td>
 <td>40</td>
@@ -4695,7 +4567,7 @@ Inspection for the purpose of certification was made either visually or through 
 <td>70</td>
 </tr>
 <tr>
-<td>3. Canada Registered No. 1</td>
+<td>3. Canada Registered No. 1</td>
 <td>0</td>
 <td>0</td>
 <td>8</td>
@@ -4706,7 +4578,7 @@ Inspection for the purpose of certification was made either visually or through 
 <td>80</td>
 </tr>
 <tr>
-<td>4. Canada Registered No. 2</td>
+<td>4. Canada Registered No. 2</td>
 <td>0</td>
 <td>2</td>
 <td>40</td>
@@ -4717,7 +4589,7 @@ Inspection for the purpose of certification was made either visually or through 
 <td>70</td>
 </tr>
 <tr>
-<td>5. Canada Certified No. 1</td>
+<td>5. Canada Certified No. 1</td>
 <td>0</td>
 <td>5</td>
 <td>50</td>
@@ -4728,7 +4600,7 @@ Inspection for the purpose of certification was made either visually or through 
 <td>80</td>
 </tr>
 <tr>
-<td>6. Canada Certified No. 2</td>
+<td>6. Canada Certified No. 2</td>
 <td>0</td>
 <td>10</td>
 <td>75</td>
@@ -4739,7 +4611,7 @@ Inspection for the purpose of certification was made either visually or through 
 <td>70</td>
 </tr>
 <tr>
-<td>7. Varietal Blend No. 1</td>
+<td>7. Varietal Blend No. 1</td>
 <td>0</td>
 <td>5</td>
 <td>50</td>
@@ -4750,7 +4622,7 @@ Inspection for the purpose of certification was made either visually or through 
 <td>80</td>
 </tr>
 <tr>
-<td>8. Varietal Blend No. 2</td>
+<td>8. Varietal Blend No. 2</td>
 <td>0</td>
 <td>10</td>
 <td>75</td>
@@ -4761,7 +4633,7 @@ Inspection for the purpose of certification was made either visually or through 
 <td>70</td>
 </tr>
 <tr>
-<td>9. Common No. 1</td>
+<td>9. Common No. 1</td>
 <td>0</td>
 <td>10</td>
 <td>75</td>
@@ -4772,7 +4644,7 @@ Inspection for the purpose of certification was made either visually or through 
 <td>80</td>
 </tr>
 <tr>
-<td>10. Common No. 2</td>
+<td>10. Common No. 2</td>
 <td>5</td>
 <td>20</td>
 <td>125</td>
@@ -4784,8 +4656,6 @@ Inspection for the purpose of certification was made either visually or through 
 </tr>
 </table>
 
-
-
 #### TABLE X
 <table>
 <tr>
@@ -4794,22 +4664,20 @@ Inspection for the purpose of certification was made either visually or through 
 </tr>
 <tr>
 <td>Trefoil, bird’s-foot</td>
-<td>—*Lotus corniculatus* L.</td>
+<td>— *Lotus corniculatus* L.</td>
 </tr>
 </table>
 
-
-
 <table>
 <tr>
-<th>I</th>
-<th>II</th>
-<th>III</th>
-<th>IV</th>
-<th>V</th>
-<th>VI</th>
-<th>VII</th>
-<th>VIII</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
 </tr>
 <tr>
 <th></th>
@@ -4829,15 +4697,12 @@ Inspection for the purpose of certification was made either visually or through 
 <th>Primary Plus Secondary</th>
 <th>Total Weeds</th>
 <th>Sweet Clover</th>
-<th>Brassica Crops including *S. alba*</th>
-<th>Other non-brassica crops</th>
-<th>Minimum Per Cent Germination</th>
+<th>Brassica Crops Including *S. alba*</th>
+<th>Other Non-brassica Crops</th>
+<th>Minimum Percentage of Germination</th>
 </tr>
 <tr>
-<th></th>
-</tr>
-<tr>
-<td>1. Canada Foundation No. 1</td>
+<td>1. Canada Foundation No. 1</td>
 <td>0</td>
 <td>1</td>
 <td>10</td>
@@ -4847,17 +4712,17 @@ Inspection for the purpose of certification was made either visually or through 
 <td>75</td>
 </tr>
 <tr>
-<td>2. Canada Foundation No. 2</td>
+<td>2. Canada Foundation No. 2</td>
 <td>0</td>
 <td>2</td>
-<td>75</td>
+<td>50</td>
 <td>1</td>
 <td>2</td>
 <td>300</td>
 <td>65</td>
 </tr>
 <tr>
-<td>3. Canada Registered No. 1</td>
+<td>3. Canada Registered No. 1</td>
 <td>0</td>
 <td>1</td>
 <td>10</td>
@@ -4867,57 +4732,57 @@ Inspection for the purpose of certification was made either visually or through 
 <td>75</td>
 </tr>
 <tr>
-<td>4. Canada Registered No. 2</td>
+<td>4. Canada Registered No. 2</td>
 <td>0</td>
 <td>2</td>
-<td>75</td>
+<td>50</td>
 <td>1</td>
 <td>2</td>
 <td>300</td>
 <td>65</td>
 </tr>
 <tr>
-<td>5. Canada Certified No. 1</td>
+<td>5. Canada Certified No. 1</td>
 <td>0</td>
-<td>10</td>
-<td>100</td>
-<td>25</td>
+<td>5</td>
+<td>50</td>
+<td>20</td>
 <td>4</td>
 <td>2% by weight</td>
 <td>75</td>
 </tr>
 <tr>
-<td>6. Canada Certified No. 2</td>
+<td>6. Canada Certified No. 2</td>
 <td>0</td>
-<td>20</td>
-<td>200</td>
-<td>50</td>
+<td>10</td>
+<td>100</td>
+<td>30</td>
 <td>6</td>
 <td>5% by weight</td>
 <td>65</td>
 </tr>
 <tr>
-<td>7. Varietal Blend No. 1</td>
+<td>7. Varietal Blend No. 1</td>
 <td>0</td>
-<td>10</td>
-<td>100</td>
-<td>25</td>
+<td>5</td>
+<td>50</td>
+<td>20</td>
 <td>4</td>
 <td>2% by weight</td>
 <td>75</td>
 </tr>
 <tr>
-<td>8. Varietal Blend No. 2</td>
+<td>8. Varietal Blend No. 2</td>
 <td>0</td>
-<td>20</td>
-<td>200</td>
-<td>50</td>
+<td>10</td>
+<td>100</td>
+<td>30</td>
 <td>6</td>
 <td>5% by weight</td>
 <td>65</td>
 </tr>
 <tr>
-<td>9. Common No. 1</td>
+<td>9. Common No. 1</td>
 <td>0</td>
 <td>10</td>
 <td>100</td>
@@ -4927,7 +4792,7 @@ Inspection for the purpose of certification was made either visually or through 
 <td>75</td>
 </tr>
 <tr>
-<td>10. Common No. 2</td>
+<td>10. Common No. 2</td>
 <td>5</td>
 <td>20</td>
 <td>200</td>
@@ -4937,226 +4802,156 @@ Inspection for the purpose of certification was made either visually or through 
 <td>65</td>
 </tr>
 </table>
-
-
 
 #### TABLE XI
 <table>
 <tr>
-<td>Applicable to:
-
-</td>
+<td>Applicable to:</td>
 <td></td>
 </tr>
 <tr>
-<td>**(a)** Bromegrass, meadow
-
-</td>
-<td>—*Bromus riparius* Rehm.</td>
+<td>(a) Bromegrass, meadow</td>
+<td>— *Bromus riparius* Rehmann</td>
 </tr>
 <tr>
-<td>**(b)** Bromegrass, smooth
-
-</td>
-<td>—*Bromus inermis* Leysser</td>
+<td>(b) Bromegrass, smooth</td>
+<td>— *Bromus inermis* Leyss.</td>
 </tr>
 <tr>
-<td>**(c)** Bromegrass, sweet
-
-</td>
-<td>—*Bromus carinatus* Hook. & Arn.</td>
+<td>(c) Bromegrass, sweet</td>
+<td>— *Bromus carinatus* Hook. & Arn.</td>
 </tr>
 <tr>
-<td>**(d)** Canarygrass, reed
-
-</td>
-<td>—*Phalaris arundinacea* L.</td>
+<td>(d) Canarygrass, reed</td>
+<td>— *Phalaris arundinacea* L.</td>
 </tr>
 <tr>
-<td>**(e)** Fescue, Chewing’s
-
-</td>
-<td>—*Festuca rubra* L. var. *commutata* Gaudin</td>
+<td>(e) Fescue, Chewing’s</td>
+<td>— *Festuca rubra* L. subsp. *fallax* (Thuill.) Nyman (= *F. rubra* L. var. *commutata* Gaudin)</td>
 </tr>
 <tr>
-<td>**(f)** Fescue, fine-leaved
-
-</td>
-<td>—*Festuca tenuifolia* Sibth. (= *F. ovina* L. var.*tenuifolia* (Sibth.) Dumort.) (= *F. capillata*Lam.)</td>
+<td>(f) Fescue, fine-leaved</td>
+<td>— *Festuca filiformis* Pourr. (= *F. tenuifolia* Sibth.)</td>
 </tr>
 <tr>
-<td>**(g)** Fescue, hard
-
-</td>
-<td>—*Festuca longifolia* Thuill. (=*F. ovina* L. var .*duriuscula* auct. amer.)</td>
+<td>(g) Fescue, hard</td>
+<td>— *Festuca brevipila* R. Tracey (= *F. longifolia* auct. pl.)</td>
 </tr>
 <tr>
-<td>**(h)** Fescue, meadow
-
-</td>
-<td>—*Festuca pratensis* Hudson</td>
+<td>(h) Fescue, meadow</td>
+<td>— *Festuca pratensis* Huds.</td>
 </tr>
 <tr>
-<td>**(i)** Fescue, red and creeping red
-
-</td>
-<td>—*Festuca rubra* L. var. *rubra*</td>
+<td>(i) Fescue, red and creeping red</td>
+<td>— *Festuca rubra* L. subsp. *rubra*</td>
 </tr>
 <tr>
-<td>**(j)** Fescue, sheep
-
-</td>
-<td>—*Festuca ovina* L.</td>
+<td>(j) Fescue, sheep</td>
+<td>— *Festuca ovina* L.</td>
 </tr>
 <tr>
-<td>**(k)** Fescue, tall
-
-</td>
-<td>—*Festuca arundinacea* Schreber</td>
+<td>(k) Fescue, tall</td>
+<td>— *Festuca arundinacea* Schreb.</td>
 </tr>
 <tr>
-<td>**(l)** Fescue, various-leaved
-
-</td>
-<td>—*Festuca heterophylla* Lam.</td>
+<td>(l) Fescue, various-leaved</td>
+<td>— *Festuca heterophylla* Lam.</td>
 </tr>
 <tr>
-<td>**(m)** Foxtail, creeping
-
-</td>
-<td>—*Alopecurus arundinaceus* Poiret</td>
+<td>(m) Foxtail, creeping</td>
+<td>— *Alopecurus arundinaceus* Poir.</td>
 </tr>
 <tr>
-<td>**(n)** Foxtail, meadow
-
-</td>
-<td>—*Alopecurus pratensis* L.</td>
+<td>(n) Foxtail, meadow</td>
+<td>— *Alopecurus pratensis* L.</td>
 </tr>
 <tr>
-<td>**(o)** Oatgrass, tall
-
-</td>
-<td>—*Arrhenatherum elatius* (L.) Beauv. ex J. & K. Presl.</td>
+<td>(o) Oatgrass, tall</td>
+<td>— *Arrhenatherum elatius* (L.) P. Beauv. ex J.Presl & C. Presl</td>
 </tr>
 <tr>
-<td>**(p)** Orchardgrass
-
-</td>
-<td>—*Dactylis glomerata* L.</td>
+<td>(p) Orchardgrass</td>
+<td>— *Dactylis glomerata* L.</td>
 </tr>
 <tr>
-<td>**(q)** Ryegrass, annual
-
-</td>
-<td>—*Lolium multiflorum* Lam.</td>
+<td>(q) Ryegrass, annual</td>
+<td>— *Lolium multiflorum* Lam.</td>
 </tr>
 <tr>
-<td>**(r)** Ryegrass, intermediate
-
-</td>
-<td>—*Lolium x hybridum* Hausskn.</td>
+<td>(r) Ryegrass, intermediate</td>
+<td>— *Lolium*×*hybridum* Hausskn.</td>
 </tr>
 <tr>
-<td>**(s)** Ryegrass, perennial
-
-</td>
-<td>—*Lolium perenne* L.</td>
+<td>(s) Ryegrass, perennial</td>
+<td>— *Lolium perenne* L.</td>
 </tr>
 <tr>
-<td>**(t)** Wheatgrass, beardless
-
-</td>
-<td>—*Agropyron spicatum* (Pursh) Scribn. & J.G. Smith f. *inerme* (Scribn. & J.G. Smith) Beetle</td>
+<td>(t) Wheatgrass, beardless</td>
+<td>— *Pseudoroegneria spicata* (Pursh) Á. Löve (= *Agropyron spicatum* (Pursh) Scribn. & J.G. Smith f. *inerme* (Scribn. & J.G. Smith) Beetle)</td>
 </tr>
 <tr>
-<td>**(u)** Wheatgrass, crested
-
-</td>
-<td>—*Agropyron cristatum* (L.) Gaertner or *Agropyron desertorum*   (Fischer ex Link)Schult.</td>
+<td>(u) Wheatgrass, crested</td>
+<td>— *Agropyron cristatum* (L.) Gaertn. or *A. desertorum* (Fisch. ex Link) Schult.</td>
 </tr>
 <tr>
-<td>**(v)** Wheatgrass, intermediate
-
-</td>
-<td>—*Agropyron intermedium* (Host) Beauv.</td>
+<td>(v) Wheatgrass, intermediate</td>
+<td>— *Elytrigia intermedia* (Host) Nevski subsp. *intermedia* (= *Agropyron intermedium* (Host) Beauv.)</td>
 </tr>
 <tr>
-<td>**(w)** Wheatgrass, northern
-
-</td>
-<td>—*Agropyron dasystachyum* (Hook.) Scribn.</td>
+<td>(w) Wheatgrass, northern</td>
+<td>— *Elymus lanceolatus* (Scribn. & J.G. Sm.) Gould subsp. *lanceolatus* (= *Agropyron dasystachyum* (Hook.) Scribn.)</td>
 </tr>
 <tr>
-<td>**(x)** Wheatgrass, pubescent
-
-</td>
-<td>—*Agropyron trichophorum* (Link) Richter</td>
+<td>(x) Wheatgrass, pubescent</td>
+<td>— *Elytrigia intermedia* (Host) Nevski subsp. *intermedia* (= *Agropyron trichophorum* (Link) Richter)</td>
 </tr>
 <tr>
-<td>**(y)** Wheatgrass, Siberian.
-
-</td>
-<td>—*Agropyron sibiricum* (Willd.) Beauv</td>
+<td>(y) Wheatgrass, Siberian</td>
+<td>— *Agropyron fragile* (Roth) P. Candargy subsp. *sibiricum* (Willd.) Melderis (= *Agropyron sibiricum* (Willd.) Beauv.)</td>
 </tr>
 <tr>
-<td>**(z)** Wheatgrass, slender
-
-</td>
-<td>—*Agropyron trachycaulum* (Link) Malte ex H.F. Lewis</td>
+<td>(z) Wheatgrass, slender</td>
+<td>— *Elymus trachycaulus* (Link) Gould ex Shinners (= *Agropyron trachycaulum* (Link) Malte ex H.F. Lewis)</td>
 </tr>
 <tr>
-<td>**(aa)** Wheatgrass, streambank
-
-</td>
-<td>—*Agropyron riparium* Scribn. & Smith</td>
+<td>(z.1) Wheatgrass, streambank</td>
+<td>— *Elymus lanceolatus* (Scribn. & J.G. Sm.) Gould subsp. *lanceolatus* (= *Agropyron riparium* Scribn. & Smith)</td>
 </tr>
 <tr>
-<td>**(bb)** Wheatgrass, tall
-
-</td>
-<td>—*Agropyron elongatum* (Host) Beauv.</td>
+<td>(z.2) Wheatgrass, tall</td>
+<td>— *Elytrigia elongata* (Host) Nevski (= *Agropyron elongatum* (Host) P. Beauv.)</td>
 </tr>
 <tr>
-<td>**(cc)** Wheatgrass, western
-
-</td>
-<td>—*Agropyron smithii* Rydb.</td>
+<td>(z.3) Wheatgrass, western</td>
+<td>— *Pascopyrum smithii* (Rydb.) Á. Löve (= *Agropyron smithii* Rydb.)</td>
 </tr>
 <tr>
-<td>**(dd)** Wildrye, Altai
-
-</td>
-<td>—*Elymus angustus* Trin.</td>
+<td>(z.4) Wildrye, Altai</td>
+<td>— *Leymus angustus* (Trin.) Pilg. (= *Elymus angustus* Trin.)</td>
 </tr>
 <tr>
-<td>**(ee)** Wildrye, Dahurian
-
-</td>
-<td>-*Elymus dahuricus* Turcz ex Griseb</td>
+<td>(z.5) Wildrye, Dahurian</td>
+<td>— *Elymus dahuricus* Turcz ex Griseb.</td>
 </tr>
 <tr>
-<td>**(ff)** Wildrye, Russian
-
-</td>
-<td>—*Elymus junceus* Fischer</td>
+<td>(z.6) Wildrye, Russian</td>
+<td>— *Psathyrostachys juncea* (Fisch.) Nevski (= *Elymus junceus* Fisch.)</td>
 </tr>
 </table>
 
-
-
 <table>
 <tr>
-<th>I</th>
-<th>II</th>
-<th>III</th>
-<th>IV</th>
-<th>V</th>
-<th>VI</th>
-<th>VII</th>
-<th>VIII</th>
-<th>IX</th>
-<th>X</th>
-<th>XI</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th>11</th>
 </tr>
 <tr>
 <th></th>
@@ -5171,29 +4966,40 @@ Inspection for the purpose of certification was made either visually or through 
 <th>Other Crops</th>
 <th></th>
 <th></th>
-<th>Minimum Per Cent Pure Seed by Weight</th>
+<th></th>
 </tr>
 <tr>
 <th>Grade Name</th>
 <th>Primary</th>
 <th>Primary Plus Secondary</th>
 <th>Total Weeds</th>
-<th>Brassica Crops including *S. alba*</th>
+<th>Brassica Crops Including *S. alba*</th>
 <th>Sweet Clover</th>
-<th>Meadow Foxtail, Ryegrass and Orchardgrass</th>
-<th>Other Kinds</th>
-<th>Maximum Per Cent Ergot Bodies</th>
-<th>Minimum Per Cent Pure Living Seed</th>
-</tr>
-<tr>
-<th>1  2  3  4</th>
-<th>1  2</th>
+<th>In Meadow Foxtail, Ryegrasses, Orchardgrass & Tall Fescue</th>
+<th>In Other Kinds</th>
+<th>Maximum Percentage of Ergot Bodies</th>
+<th>Minimum Percentage of Pure Living Seed</th>
+<th>Minimum Percentage of Pure Seed by Weight</th>
 </tr>
 <tr>
 <th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>1</th>
+<th>2</th>
 </tr>
 <tr>
-<td>1. Canada Foundation No. 1</td>
+<td>1. Canada Foundation No. 1</td>
 <td>0</td>
 <td>1</td>
 <td>5</td>
@@ -5202,11 +5008,15 @@ Inspection for the purpose of certification was made either visually or through 
 <td>2</td>
 <td>2</td>
 <td>1</td>
-<td>80 75 70 55</td>
-<td>95 90</td>
+<td>80</td>
+<td>75</td>
+<td>70</td>
+<td>55</td>
+<td>95</td>
+<td>90</td>
 </tr>
 <tr>
-<td>2. Canada Foundation No. 2</td>
+<td>2. Canada Foundation No. 2</td>
 <td>0</td>
 <td>2</td>
 <td>25</td>
@@ -5215,11 +5025,15 @@ Inspection for the purpose of certification was made either visually or through 
 <td>20</td>
 <td>20</td>
 <td>2</td>
-<td>70 65 60 50</td>
-<td>90 80</td>
+<td>70</td>
+<td>65</td>
+<td>60</td>
+<td>50</td>
+<td>90</td>
+<td>80</td>
 </tr>
 <tr>
-<td>3. Canada Registered No. 1</td>
+<td>3. Canada Registered No. 1</td>
 <td>0</td>
 <td>1</td>
 <td>5</td>
@@ -5228,11 +5042,15 @@ Inspection for the purpose of certification was made either visually or through 
 <td>2</td>
 <td>2</td>
 <td>1</td>
-<td>80 75 70 55</td>
-<td>95 90</td>
+<td>80</td>
+<td>75</td>
+<td>70</td>
+<td>55</td>
+<td>95</td>
+<td>90</td>
 </tr>
 <tr>
-<td>4. Canada Registered No. 2</td>
+<td>4. Canada Registered No. 2</td>
 <td>0</td>
 <td>2</td>
 <td>25</td>
@@ -5241,11 +5059,15 @@ Inspection for the purpose of certification was made either visually or through 
 <td>20</td>
 <td>20</td>
 <td>2</td>
-<td>70 65 60 50</td>
-<td>90 80</td>
+<td>70</td>
+<td>65</td>
+<td>60</td>
+<td>50</td>
+<td>90</td>
+<td>80</td>
 </tr>
 <tr>
-<td>5. Canada Certified No. 1</td>
+<td>5. Canada Certified No. 1</td>
 <td>0</td>
 <td>4</td>
 <td>50</td>
@@ -5254,11 +5076,15 @@ Inspection for the purpose of certification was made either visually or through 
 <td>2% by weight</td>
 <td>1% by weight</td>
 <td>1</td>
-<td>80 75 70 55</td>
-<td>95 90</td>
+<td>80</td>
+<td>75</td>
+<td>70</td>
+<td>55</td>
+<td>95</td>
+<td>90</td>
 </tr>
 <tr>
-<td>6. Canada Certified No. 2</td>
+<td>6. Canada Certified No. 2</td>
 <td>0</td>
 <td>10</td>
 <td>75</td>
@@ -5267,11 +5093,15 @@ Inspection for the purpose of certification was made either visually or through 
 <td>3% by weight</td>
 <td>2% by weight</td>
 <td>2</td>
-<td>70 65 60 50</td>
-<td>90 80</td>
+<td>70</td>
+<td>65</td>
+<td>60</td>
+<td>50</td>
+<td>90</td>
+<td>80</td>
 </tr>
 <tr>
-<td>7. Varietal Blend No. 1</td>
+<td>7. Varietal Blend No. 1</td>
 <td>0</td>
 <td>4</td>
 <td>50</td>
@@ -5280,11 +5110,15 @@ Inspection for the purpose of certification was made either visually or through 
 <td>2% by weight</td>
 <td>1% by weight</td>
 <td>1</td>
-<td>80 75 70 55</td>
-<td>95 90</td>
+<td>80</td>
+<td>75</td>
+<td>70</td>
+<td>55</td>
+<td>95</td>
+<td>90</td>
 </tr>
 <tr>
-<td>8. Varietal Blend No. 2</td>
+<td>8. Varietal Blend No. 2</td>
 <td>0</td>
 <td>10</td>
 <td>75</td>
@@ -5293,11 +5127,15 @@ Inspection for the purpose of certification was made either visually or through 
 <td>3% by weight</td>
 <td>2% by weight</td>
 <td>2</td>
-<td>70 65 60 50</td>
-<td>90 80</td>
+<td>70</td>
+<td>65</td>
+<td>60</td>
+<td>50</td>
+<td>90</td>
+<td>80</td>
 </tr>
 <tr>
-<td>9. Common No. 1</td>
+<td>9. Common No. 1</td>
 <td>0</td>
 <td>5</td>
 <td>75</td>
@@ -5306,11 +5144,15 @@ Inspection for the purpose of certification was made either visually or through 
 <td>3% by weight</td>
 <td>2% by weight</td>
 <td>1</td>
-<td>80 75 70 55</td>
-<td>95 90</td>
+<td>80</td>
+<td>75</td>
+<td>70</td>
+<td>55</td>
+<td>95</td>
+<td>90</td>
 </tr>
 <tr>
-<td>10. Common No. 2</td>
+<td>10. Common No. 2</td>
 <td>4</td>
 <td>15</td>
 <td>100</td>
@@ -5319,12 +5161,14 @@ Inspection for the purpose of certification was made either visually or through 
 <td>5% by weight</td>
 <td>3% by weight</td>
 <td>2</td>
-<td>70 65 60 50</td>
-<td>90 80</td>
+<td>70</td>
+<td>65</td>
+<td>60</td>
+<td>50</td>
+<td>90</td>
+<td>80</td>
 </tr>
 </table>
-
-
 
 #### TABLE XII
 <table>
@@ -5333,141 +5177,92 @@ Inspection for the purpose of certification was made either visually or through 
 <td></td>
 </tr>
 <tr>
-<td>**(a)** Alkaligrass, weeping
-
-</td>
-<td>—*Puccinellia distans* (L.) Parl.
-
-</td>
+<td>(a) Alkaligrass, weeping</td>
+<td>— *Puccinellia distans* (L.) (Jacq.) Parl.</td>
 </tr>
 <tr>
-<td>**(b)** Bentgrass, colonial (browntop)
-
-</td>
-<td>—*Agrostis capillaris* L. (= *A. tenuis* Sibth.)
-
-</td>
+<td>(b) Bentgrass, colonial (browntop)</td>
+<td>— *Agrostis capillaris* L.</td>
 </tr>
 <tr>
-<td>**(c)** Bentgrass, creeping
-
-</td>
-<td>—*Agrostis stolonifera* L. (= *A. palustris* Hudson)
-
-</td>
+<td>(c) Bentgrass, creeping</td>
+<td>— *Agrostis stolonifera* L.</td>
 </tr>
 <tr>
-<td>**(d)** Bentgrass, velvet
-
-</td>
-<td>—*Agrostis canina* L.
-
-</td>
+<td>(d) Bentgrass, velvet</td>
+<td>— *Agrostis canina* L.</td>
 </tr>
 <tr>
-<td>**(e)** Bluegrass, annual
-
-</td>
-<td>—*Poa annua* L.
-
-</td>
+<td>(e) Bluegrass, annual</td>
+<td>— *Poa annua* L.</td>
 </tr>
 <tr>
-<td>**(f)** Bluegrass, Canada
-
-</td>
-<td>—*Poa compressa* L.
-
-</td>
+<td>(f) Bluegrass, Canada</td>
+<td>— *Poa compressa* L.</td>
 </tr>
 <tr>
-<td>**(g)** Bluegrass, fowl
-
-</td>
-<td>—*Poa palustris* L.
-
-</td>
+<td>(g) Bluegrass, fowl</td>
+<td>— *Poa palustris* L.</td>
 </tr>
 <tr>
-<td>**(h)** Bluegrass, Kentucky
-
-</td>
-<td>—*Poa pratensis* L.
-
-</td>
+<td>(h) Bluegrass, Kentucky</td>
+<td>— *Poa pratensis* L.</td>
 </tr>
 <tr>
-<td>**(i)** Bluegrass, rough
-
-</td>
-<td>—*Poa trivialis* L.
-
-</td>
+<td>(i) Bluegrass, rough</td>
+<td>— *Poa trivialis* L.</td>
 </tr>
 <tr>
-<td>**(j)** Bluegrass, wood
-
-</td>
-<td>—*Poa nemoralis* L.
-
-</td>
+<td>(j) Bluegrass, supina</td>
+<td>— *Poa supina* Schrad.</td>
 </tr>
 <tr>
-<td>**(k)** Crested dogtail
-
-</td>
-<td>—*Cynosurus cristatus* L.
-
-</td>
+<td>(k) Bluegrass, wood</td>
+<td>— *Poa nemoralis* L.</td>
 </tr>
 <tr>
-<td>**(l)** Redtop
-
-</td>
-<td>—*Agrostis gigantea* Roth (= *A. alba* auct.)
-
-</td>
+<td>(l) Crested dogtail</td>
+<td>— *Cynosurus cristatus* L.</td>
+</tr>
+<tr>
+<td>(m) Redtop</td>
+<td>— *Agrostis gigantea* Roth</td>
 </tr>
 </table>
 
-
-
 <table>
 <tr>
-<th>I</th>
-<th>II</th>
-<th>III</th>
-<th>IV</th>
-<th>V</th>
-<th>VI</th>
-<th>VII</th>
-<th>VIII</th>
-<th>IX</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
 </tr>
 <tr>
 <th></th>
-<th>Maximum Number of Noxious Weed Seeds per 25 g</th>
-<th>Maximum Per Cent By Weight</th>
+<th>Maximum Number of Noxious Weed Seeds per 25 g</th>
+<th>Maximum Percentage by Weight</th>
 <th></th>
 <th></th>
-<th>Minimum Per Cent Pure Living Seed</th>
+<th>Minimum Percentage of Pure Living Seed</th>
 </tr>
 <tr>
 <th>Grade Name</th>
 <th>Primary</th>
 <th>Primary Plus Secondary</th>
-<th>Total Weed Seeds</th>
+<th>Total Weeds</th>
 <th>Other Crops</th>
-<th>Maximum Per Cent Ergot Bodies</th>
-<th>Minimum Per Cent Pure Seed By Weight</th>
-<th>Kentucky Bluegrass and Canada Bluegrass</th>
+<th>Maximum Percentage of Ergot Bodies</th>
+<th>Minimum Percentage of Pure Seed by Weight</th>
+<th>Kentucky Bluegrass & Canada Bluegrass</th>
 <th>Other Kinds</th>
 </tr>
 <tr>
-<th></th>
-</tr>
-<tr>
-<td>1. Canada Foundation No. 1</td>
+<td>1. Canada Foundation No. 1</td>
 <td>0</td>
 <td>5</td>
 <td>0.2</td>
@@ -5478,7 +5273,7 @@ Inspection for the purpose of certification was made either visually or through 
 <td>75</td>
 </tr>
 <tr>
-<td>2. Canada Foundation No. 2</td>
+<td>2. Canada Foundation No. 2</td>
 <td>1</td>
 <td>20</td>
 <td>0.5</td>
@@ -5489,7 +5284,7 @@ Inspection for the purpose of certification was made either visually or through 
 <td>65</td>
 </tr>
 <tr>
-<td>3. Canada Registered No. 1</td>
+<td>3. Canada Registered No. 1</td>
 <td>0</td>
 <td>5</td>
 <td>0.2</td>
@@ -5500,9 +5295,9 @@ Inspection for the purpose of certification was made either visually or through 
 <td>75</td>
 </tr>
 <tr>
-<td>4. Canada Registered No. 2</td>
+<td>4. Canada Registered No. 2</td>
 <td>1</td>
-<td>2</td>
+<td>20</td>
 <td>0.5</td>
 <td>2</td>
 <td>3</td>
@@ -5511,7 +5306,7 @@ Inspection for the purpose of certification was made either visually or through 
 <td>65</td>
 </tr>
 <tr>
-<td>5. Canada Certified No. 1</td>
+<td>5. Canada Certified No. 1</td>
 <td>2</td>
 <td>20</td>
 <td>0.5</td>
@@ -5522,7 +5317,7 @@ Inspection for the purpose of certification was made either visually or through 
 <td>75</td>
 </tr>
 <tr>
-<td>6. Canada Certified No. 2</td>
+<td>6. Canada Certified No. 2</td>
 <td>4</td>
 <td>50</td>
 <td>0.8</td>
@@ -5533,7 +5328,7 @@ Inspection for the purpose of certification was made either visually or through 
 <td>65</td>
 </tr>
 <tr>
-<td>7. Varietal Blend No. 1</td>
+<td>7. Varietal Blend No. 1</td>
 <td>2</td>
 <td>20</td>
 <td>0.5</td>
@@ -5544,7 +5339,7 @@ Inspection for the purpose of certification was made either visually or through 
 <td>75</td>
 </tr>
 <tr>
-<td>8. Varietal Blend No. 2</td>
+<td>8. Varietal Blend No. 2</td>
 <td>4</td>
 <td>50</td>
 <td>0.8</td>
@@ -5555,7 +5350,7 @@ Inspection for the purpose of certification was made either visually or through 
 <td>65</td>
 </tr>
 <tr>
-<td>9. Common No. 1</td>
+<td>9. Common No. 1</td>
 <td>4</td>
 <td>20</td>
 <td>0.5</td>
@@ -5566,10 +5361,10 @@ Inspection for the purpose of certification was made either visually or through 
 <td>75</td>
 </tr>
 <tr>
-<td>10. Common No. 2</td>
+<td>10. Common No. 2</td>
 <td>8</td>
 <td>100</td>
-<td>1.0</td>
+<td>1</td>
 <td>5</td>
 <td>3</td>
 <td>75</td>
@@ -5578,27 +5373,33 @@ Inspection for the purpose of certification was made either visually or through 
 </tr>
 </table>
 
-
-
 #### TABLE XIII
 <table>
-<h4>Applicable to: Mixtures of Forage Seeds Composed of Seeds of Two or More Kinds Listed in Tables VIII to XII, Except Mixtures of Grass Seeds Designated by the Seller as Lawn or Turf Grass Mixtures or Ground Cover Mixtures</h4>
 <tr>
-<th>I</th>
-<th>II</th>
-<th>III</th>
-<th>IV</th>
-<th>V</th>
-<th>VI</th>
-<th>VII</th>
-<th>VIII</th>
-<th>IX</th>
-<th>X</th>
-<th>XI</th>
+<td>Applicable to:</td>
+</tr>
+<tr>
+<td>Mixtures of forage seeds composed of seeds of two or more kinds listed in Tables VIII to XII, except mixtures of seeds designated by the seller as lawn or turf mixtures or ground cover mixtures.</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th>11</th>
 </tr>
 <tr>
 <th></th>
-<th>Maximum Number of Seeds per 25 g except where otherwise stated</th>
+<th>Maximum Number of Seeds per 25 g Except Where Otherwise Stated</th>
 <th></th>
 <th></th>
 <th></th>
@@ -5612,26 +5413,23 @@ Inspection for the purpose of certification was made either visually or through 
 <th></th>
 <th></th>
 <th></th>
-<th>Minimum Per Cent Germination</th>
+<th>Minimum Percentage of Germination</th>
 </tr>
 <tr>
 <th>Grade Name</th>
 <th>Primary</th>
-<th>Primary plus Secondary</th>
+<th>Primary Plus Secondary</th>
 <th>Total Weeds</th>
-<th>Sweet clover</th>
+<th>Sweet Clover</th>
 <th>Other Crops</th>
-<th>Brassica Crops including *S. alba*</th>
-<th>Maximum Per Cent Ergot Bodies</th>
-<th>Reed Canary- grass</th>
+<th>Brassica Including *S. alba*</th>
+<th>Maximum Percentage of Ergot Bodies</th>
+<th>Reed Canarygrass</th>
 <th>Kentucky Bluegrass & Canada Bluegrass</th>
-<th>Each other component</th>
+<th>Each Other Component</th>
 </tr>
 <tr>
-<th></th>
-</tr>
-<tr>
-<td>1.Canada Certified No. 1 Forage Mixture</td>
+<td>1. Canada Certified No. 1 Forage Mixture</td>
 <td>0</td>
 <td>10</td>
 <td>100</td>
@@ -5644,7 +5442,7 @@ Inspection for the purpose of certification was made either visually or through 
 <td>75</td>
 </tr>
 <tr>
-<td>2.Canada Certified No. 2 Forage Mixture</td>
+<td>2. Canada Certified No. 2 Forage Mixture</td>
 <td>0</td>
 <td>20</td>
 <td>200</td>
@@ -5657,33 +5455,7 @@ Inspection for the purpose of certification was made either visually or through 
 <td>65</td>
 </tr>
 <tr>
-<td>3.Varietal Blend No. 1 Forage Mixture</td>
-<td>0</td>
-<td>10</td>
-<td>100</td>
-<td>25</td>
-<td>2% by weight</td>
-<td>4</td>
-<td>1</td>
-<td>55</td>
-<td>70</td>
-<td>75</td>
-</tr>
-<tr>
-<td>4.Varietal Blend No. 2 Forage Mixture</td>
-<td>0</td>
-<td>20</td>
-<td>200</td>
-<td>50</td>
-<td>3% by weight</td>
-<td>6</td>
-<td>2</td>
-<td>50</td>
-<td>60</td>
-<td>65</td>
-</tr>
-<tr>
-<td>5.Common No. 1 Forage Mixture</td>
+<td>3. Common No. 1 Forage Mixture</td>
 <td>0</td>
 <td>10</td>
 <td>100</td>
@@ -5696,7 +5468,7 @@ Inspection for the purpose of certification was made either visually or through 
 <td>75</td>
 </tr>
 <tr>
-<td>6.Common No. 2 Forage Mixture</td>
+<td>4. Common No. 2 Forage Mixture</td>
 <td>5</td>
 <td>20</td>
 <td>200</td>
@@ -5710,58 +5482,53 @@ Inspection for the purpose of certification was made either visually or through 
 </tr>
 </table>
 
-
-Note:  A Varietal Blend Forage Mixture is a mixture of two or more kinds of seeds containing two or more varieties of a kind.
-
-
 #### TABLE XIV
 <table>
+<h4>Part I</h4>
 <tr>
-<td>Applicable to: Lawn or Turf Grass Mixtures of Two or More of the Kinds of Seeds Listed in Part II of this Table</td>
+<td>Applicable to:</td>
+</tr>
+<tr>
+<td>Lawn or turf mixtures of two or more kinds of seeds listed in Part 2.</td>
 </tr>
 </table>
 
-
-
 <table>
 <tr>
-<th>I</th>
-<th>II</th>
-<th>III</th>
-<th>IV</th>
-<th>V</th>
-<th>VI</th>
-<th>VII</th>
-<th>VIII</th>
-<th>IX</th>
-<th>X</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
 </tr>
 <tr>
 <th></th>
 <th>Maximum Number of Noxious Weed Seeds per 25 g</th>
 <th></th>
-<th>Maximum Per Cent by Weight</th>
+<th>Maximum Percentage by Weight</th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
 <th>Grade Name</th>
-<th>Noxious Weeds excluding Couchgrass</th>
+<th>Noxious Weeds Excluding Couchgrass</th>
 <th>Couchgrass</th>
 <th>Total Weeds</th>
 <th>White Clover</th>
-<th>Bromegrass, Orchardgrass and Tall Fescue</th>
-<th>Other kinds</th>
-<th>Maximum Per Cent Ergot Bodies</th>
-<th>Minimum Per Cent Pure Seeds by Weight</th>
-<th>Minimum Per Cent Germination of Each Component</th>
+<th>Bromegrass, Orchardgrass & Tall Fescue</th>
+<th>Other Crops</th>
+<th>Maximum Percentage of Ergot Bodies</th>
+<th>Minimum Percentage of Pure Seed by Weight</th>
+<th>Minimum Percentage of Germination of Each Component</th>
 </tr>
 <tr>
-<th></th>
-</tr>
-<tr>
-<td>1.Canada No. 1 Lawn Grass Mixture</td>
+<td>1. Canada Certified No. 1 Lawn Mixture</td>
 <td>20</td>
 <td>10</td>
 <td>0.5</td>
@@ -5769,34 +5536,23 @@ Note:  A Varietal Blend Forage Mixture is a mixture of two or more kinds of see
 <td>1</td>
 <td>2</td>
 <td>2</td>
-<td>85</td>
+<td>90</td>
 <td>70</td>
 </tr>
 <tr>
-<td>2.Canada No. 2 Lawn Grass Mixture</td>
+<td>2. Canada Certified No. 2 Lawn Mixture</td>
 <td>75</td>
 <td>20</td>
-<td>1.0</td>
+<td>1</td>
 <td>5</td>
 <td>2</td>
 <td>3</td>
 <td>3</td>
-<td>75</td>
+<td>80</td>
 <td>60</td>
 </tr>
 <tr>
-<td>3. [Repealed, SOR/96-252, s.7]</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>4. Varietal Blend No. 1 Lawn Grass Mixture</td>
+<td>3. Canada No. 1 Lawn Mixture</td>
 <td>20</td>
 <td>10</td>
 <td>0.5</td>
@@ -5804,91 +5560,73 @@ Note:  A Varietal Blend Forage Mixture is a mixture of two or more kinds of see
 <td>1</td>
 <td>2</td>
 <td>2</td>
-<td>85</td>
+<td>90</td>
 <td>70</td>
 </tr>
 <tr>
-<td>5. Varietal Blend No. 2 Lawn Grass Mixture</td>
+<td>4. Canada No. 2 Lawn Mixture</td>
 <td>75</td>
 <td>20</td>
-<td>1.0</td>
+<td>1</td>
 <td>5</td>
 <td>2</td>
 <td>3</td>
 <td>3</td>
-<td>75</td>
+<td>80</td>
 <td>60</td>
 </tr>
 </table>
 
-
-Note:  A Varietal Blend Lawn Grass Mixture is a mixture of two or more kinds of seeds containing two or more varieties of a kind.
-
-
-#### PART II
 <table>
+<h4>Part II</h4>
 <tr>
-<th>I</th>
-<th>II</th>
-</tr>
-<tr>
-<th></th>
+<th>1</th>
+<th>2</th>
 </tr>
 <tr>
 <td>1. Group A</td>
-<td>Kentucky bluegrass, creeping red fescue, Chewing’s fescue, hard fescue, colonial bentgrass, creeping bentgrass, velvet bentgrass, rough bentgrass, Canada bluegrass, sheep fescue, turf-type tall fescue varieties and turf-type perennial ryegrass varieties</td>
+<td>Kentucky bluegrass, creeping red fescue, Chewing’s fescue, hard fescue, colonial bentgrass, creeping bentgrass, velvet bentgrass, rough bluegrass, Canada bluegrass, sheep fescue, turf-type tall fescue varieties and turf-type perennial ryegrass varieties</td>
 </tr>
 <tr>
 <td>2. Group B</td>
-<td>Redtop, crested wheatgrass, timothy (dwarf-type) and annual ryegrass if none of those species constitutes more than 30 per cent by weight singly and no more than 40 per cent by weight combined of the total mixture</td>
+<td>Redtop, crested wheatgrass, timothy (dwarf-type) and annual ryegrass provided none of those species constitutes more than 30% by weight singly and no more than 40% by weight combined of the total mixture</td>
 </tr>
 <tr>
 <td>3. Group C</td>
-<td>All other kinds of grass if those kinds are indicated on the label</td>
+<td>All other kinds of grass not listed in this Schedule, if those kinds are indicated on the label</td>
 </tr>
 </table>
-
-
-PART III
-
-[Repealed, SOR/93-162, s. 12]
-
 
 #### TABLE XV
 <table>
 <tr>
-<td>Applicable to: Ground Cover Mixtures composed of seed of two or more kinds other than Forage Mixtures and Lawn or Turf Grass Mixtures.</td>
+<td>Applicable to:</td>
+</tr>
+<tr>
+<td>Ground cover mixtures composed of seed of two or more kinds, other than cereal mixtures, forage mixtures and lawn or turf mixtures.</td>
 </tr>
 </table>
 
-
-
 <table>
 <tr>
-<th>I</th>
-<th>II</th>
-<th>III</th>
-<th>IV</th>
-<th>V</th>
-<th>VI</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <th></th>
 <th></th>
-<th>Maximum Per Cent by Weight</th>
-<th></th>
+<th>Maximum Percentage by Weight</th>
 <th></th>
 </tr>
 <tr>
 <th>Grade Name</th>
-<th>Maximum No. of Noxious Weed Seeds per 25 g</th>
-<th>Total Weed Seed</th>
-<th>Other Kinds</th>
-<th>Minimum Per Cent Pure Seed by Weight</th>
-<th>Minimum Per Cent Germination of each Component</th>
-</tr>
-<tr>
-<th></th>
+<th>Maximum Number of Noxious Weed Seeds per 25 g</th>
+<th>Total Weeds</th>
+<th>Other Crops</th>
+<th>Minimum Percentage of Pure Seed by Weight</th>
 </tr>
 <tr>
 <td>1. Canada No. 1 Ground Cover Mixture</td>
@@ -5896,65 +5634,49 @@ PART III
 <td>0.5</td>
 <td>3</td>
 <td>85</td>
-<td>70</td>
 </tr>
 <tr>
 <td>2. Canada No. 2 Ground Cover Mixture</td>
 <td>75</td>
-<td>1.0</td>
+<td>1</td>
 <td>5</td>
 <td>75</td>
-<td>60</td>
 </tr>
 </table>
-
-
 
 #### TABLE XVI
 <table>
 <tr>
-<th>Applicable to:
-
-</th>
-<th></th>
+<td>Applicable to:</td>
+<td></td>
 </tr>
 <tr>
-<th>**(a)** Beet
-
-</th>
-<th>—*Beta vulgaris* L.</th>
+<td>(a) Beet</td>
+<td>— *Beta vulgaris* L. subsp. *vulgaris*</td>
 </tr>
 <tr>
-<th>**(b)** Beet, sugar
-
-</th>
-<th>—*Beta vulgaris* L. var. *saccharifera* Lange</th>
+<td>(b) Beet, sugar</td>
+<td>— *Beta vulgaris* L. subsp. *vulgaris*</td>
 </tr>
 <tr>
-<th>**(c)** Mangel
-
-</th>
-<th>—*Beta vulgaris* L.</th>
+<td>(c) Mangel</td>
+<td>— *Beta vulgaris* L. subsp. *vulgaris*</td>
 </tr>
 <tr>
-<td>**(d)** Swiss chard
-
-</td>
-<td>—*Beta vulgaris* L. var. *cicla* L.</td>
+<td>(d) Swiss chard</td>
+<td>— *Beta vulgaris* L. subsp. *vulgaris*</td>
 </tr>
 </table>
 
-
-
 <table>
 <tr>
-<th>I</th>
-<th>II</th>
-<th>III</th>
-<th>IV</th>
-<th>V</th>
-<th>VI</th>
-<th>VII</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
 </tr>
 <tr>
 <th></th>
@@ -5967,22 +5689,20 @@ PART III
 <th>Noxious Weeds</th>
 <th></th>
 <th></th>
-<th>Maximum Number of Heads of Mayweed in Beet and Sugar Beet per 500 g</th>
+<th></th>
 <th></th>
 </tr>
 <tr>
 <th>Grade Name</th>
 <th>Primary</th>
-<th>Primary plus Secondary</th>
+<th>Primary Plus Secondary</th>
 <th>Total Weeds</th>
 <th>Other Crops</th>
-<th>Minimum Per Cent Germination</th>
+<th>Maximum Number of Heads of Mayweed per 500 g</th>
+<th>Minimum Percentage of Germination</th>
 </tr>
 <tr>
-<th></th>
-</tr>
-<tr>
-<td>1. Canada Foundation No. 1</td>
+<td>1. Canada Foundation No. 1</td>
 <td>0</td>
 <td>2</td>
 <td>10</td>
@@ -5991,7 +5711,7 @@ PART III
 <td>75</td>
 </tr>
 <tr>
-<td>2. Canada Foundation No. 2</td>
+<td>2. Canada Foundation No. 2</td>
 <td>2</td>
 <td>10</td>
 <td>30</td>
@@ -6000,7 +5720,7 @@ PART III
 <td>65</td>
 </tr>
 <tr>
-<td>3. Canada Registered No. 1</td>
+<td>3. Canada Registered No. 1</td>
 <td>0</td>
 <td>2</td>
 <td>10</td>
@@ -6009,7 +5729,7 @@ PART III
 <td>75</td>
 </tr>
 <tr>
-<td>4. Canada Registered No. 2</td>
+<td>4. Canada Registered No. 2</td>
 <td>2</td>
 <td>10</td>
 <td>30</td>
@@ -6018,7 +5738,7 @@ PART III
 <td>65</td>
 </tr>
 <tr>
-<td>5. Canada Certified No. 1</td>
+<td>5. Canada Certified No. 1</td>
 <td>0</td>
 <td>5</td>
 <td>20</td>
@@ -6027,7 +5747,7 @@ PART III
 <td>75</td>
 </tr>
 <tr>
-<td>6. Canada Certified No. 2</td>
+<td>6. Canada Certified No. 2</td>
 <td>2</td>
 <td>20</td>
 <td>50</td>
@@ -6036,7 +5756,7 @@ PART III
 <td>65</td>
 </tr>
 <tr>
-<td>7. Canada No. 1</td>
+<td>7. Canada No. 1</td>
 <td>1</td>
 <td>10</td>
 <td>20</td>
@@ -6045,7 +5765,7 @@ PART III
 <td>75</td>
 </tr>
 <tr>
-<td>8. Canada No. 2</td>
+<td>8. Canada No. 2</td>
 <td>2</td>
 <td>30</td>
 <td>100</td>
@@ -6054,97 +5774,51 @@ PART III
 <td>65</td>
 </tr>
 </table>
-
-
 
 #### TABLE XVII
 <table>
 <tr>
-<th>Applicable to:
-
-</th>
-<th></th>
+<td>Applicable to:</td>
+<td></td>
 </tr>
 <tr>
-<td>**(a)** Cantaloupe
-
-</td>
-<td>—*Cucumis melo* L.</td>
+<td>(a) Cantaloupe, melon</td>
+<td>— *Cucumis melo* L. subsp. *melo*</td>
 </tr>
 <tr>
-<td>**(b)** Citron
-
-</td>
-<td>—*Citrullus lanatus* (Thunb.) Matsum. & Nakai var. *citroides* L. (Bailey) Mansf.</td>
+<td>(b) Citron</td>
+<td>— *Citrullus lanatus* (Thunb.) Matsum. & Nakai var. *citroides* L. (L.H. Bailey) Mansf.</td>
 </tr>
 <tr>
-<td>**(c)** Cucumber
-
-</td>
-<td>—*Cucumis sativus* L.</td>
+<td>(c) Cucumber</td>
+<td>— *Cucumis sativus* L.</td>
 </tr>
 <tr>
-<td>**(d)** Gherkin
-
-</td>
-<td>—*Cucumis anguria* L.</td>
+<td>(d) Gherkin</td>
+<td>— *Cucumis anguria* L.</td>
 </tr>
 <tr>
-<td>**(e)** Muskmelon
-
-</td>
-<td>—*Cucumis melo* L.</td>
+<td>(e) Pumpkin, squash (summer or winter)</td>
+<td>— *Cucurbita* spp.</td>
 </tr>
 <tr>
-<td>**(f)** Pumpkin
-
-</td>
-<td>—*Cucurbita pepo* L. convar. *citrullinina* Greb.</td>
-</tr>
-<tr>
-<td>**(g)** Squash, crookneck
-
-</td>
-<td>—*Cucurbita moschata* Duchesne ex. Poiret</td>
-</tr>
-<tr>
-<td>**(h)** Squash, summer
-
-</td>
-<td>—*Cucurbita pepo* L. var. *melopepo* (L.) Alef.</td>
-</tr>
-<tr>
-<td>**(i)** Squash, winter or autumn
-
-</td>
-<td>—*Cucurbita maxima* Duch.</td>
-</tr>
-<tr>
-<td>**(j)** Vegetable marrow
-
-</td>
-<td>—*Cucurbita pepo.* L. var. *medullosa* Alef.</td>
-</tr>
-<tr>
-<td>**(k)** Watermelon
-
-</td>
-<td>—*Citrullus lanatus* (Thunb.) Matsum. & Nakai var. *lanatus*</td>
+<td>(f) Watermelon</td>
+<td>— *Citrullus lanatus* (Thunb.) Matsum. & Nakai var. *lanatus*</td>
 </tr>
 </table>
 
-
-
 <table>
 <tr>
-<th>I</th>
-<th>II</th>
-<th>III</th>
-<th>IV</th>
-<th>V</th>
-<th>VI</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
+<th></th>
+<th></th>
 <th></th>
 <th>Maximum Number of Seeds per 25 g</th>
 <th></th>
@@ -6159,16 +5833,13 @@ PART III
 <tr>
 <th>Grade Name</th>
 <th>Primary</th>
-<th>Primary plus Secondary</th>
+<th>Primary Plus Secondary</th>
 <th>Total Weeds</th>
 <th>Other Crops</th>
-<th>Minimum Per Cent Germination</th>
+<th>Minimum Percentage of Germination</th>
 </tr>
 <tr>
-<th></th>
-</tr>
-<tr>
-<td>1. Canada Foundation No. 1</td>
+<td>1. Canada Foundation No. 1</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -6176,7 +5847,7 @@ PART III
 <td>80</td>
 </tr>
 <tr>
-<td>2. Canada Foundation No. 2</td>
+<td>2. Canada Foundation No. 2</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -6184,7 +5855,7 @@ PART III
 <td>60</td>
 </tr>
 <tr>
-<td>3. Canada Registered No. 1</td>
+<td>3. Canada Registered No. 1</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -6192,7 +5863,7 @@ PART III
 <td>80</td>
 </tr>
 <tr>
-<td>4. Canada Registered No. 2</td>
+<td>4. Canada Registered No. 2</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -6200,7 +5871,7 @@ PART III
 <td>60</td>
 </tr>
 <tr>
-<td>5. Canada Certified No. 1</td>
+<td>5. Canada Certified No. 1</td>
 <td>0</td>
 <td>1</td>
 <td>1</td>
@@ -6208,7 +5879,7 @@ PART III
 <td>80</td>
 </tr>
 <tr>
-<td>6. Canada Certified No. 2</td>
+<td>6. Canada Certified No. 2</td>
 <td>0</td>
 <td>1</td>
 <td>2</td>
@@ -6216,15 +5887,15 @@ PART III
 <td>75</td>
 </tr>
 <tr>
-<td>7. Canada No. 1</td>
+<td>7. Canada No. 1</td>
 <td>0</td>
-<td>0</td>
+<td>1</td>
 <td>1</td>
 <td>1</td>
 <td>80</td>
 </tr>
 <tr>
-<td>8. Canada No. 2</td>
+<td>8. Canada No. 2</td>
 <td>0</td>
 <td>2</td>
 <td>5</td>
@@ -6232,275 +5903,215 @@ PART III
 <td>70</td>
 </tr>
 </table>
-
-
 
 #### TABLE XVIII
 <table>
 <tr>
-<th>Applicable to seed of the following species when designated by the seller as vegetable types for home gardens:</th>
+<td>Applicable to seed of the following kinds when not intended for agricultural field crop production:</td>
 </tr>
 <tr>
-<td>**(a)** Bean, broad
-
-</td>
-<td>—*Vicia faba* L.</td>
+<td>(a) Bean, garden</td>
+<td>— *Phaseolus vulgaris* L.</td>
 </tr>
 <tr>
-<td>**(b)** Bean, lima
-
-</td>
-<td>—*Phaseolus lunatus* L.</td>
+<td>(b) Bean, broad</td>
+<td>— *Vicia faba* L.</td>
 </tr>
 <tr>
-<td>**(c)** Bean, runner
-
-</td>
-<td>—*Phaseolus coccineus* L.</td>
+<td>(c) Bean, lima</td>
+<td>— *Phaseolus lunatus* L.</td>
 </tr>
 <tr>
-<td>**(d)** Chickpea
-
-</td>
-<td>—*Cicer arietinum* L.</td>
+<td>(d) Bean, runner</td>
+<td>— *Phaseolus coccineus* L.</td>
 </tr>
 <tr>
-<td>**(e)** Corn, pop
-
-</td>
-<td>—*Zea mays* L. var. *praecox* Bonaf. (= *Z. mays* L. var. *everta* (Sturter) Bailey)</td>
+<td>(e) Chickpea</td>
+<td>— *Cicer arietinum* L.</td>
 </tr>
 <tr>
-<td>**(f)** Corn, sweet
-
-</td>
-<td>—*Zea mays* L. var. *rugosa* Bonaf. (= *Z. mays* L. var. *saccharata* (Sturter) Bailey)</td>
+<td>(f) Corn, pop or sweet</td>
+<td>— *Zea mays* L. subsp. *mays*</td>
 </tr>
 <tr>
-<td>**(g)** Pea
-
-</td>
-<td>—*Pisum sativum* L.</td>
+<td>(g) Pea, garden</td>
+<td>— *Pisum sativum* L.</td>
 </tr>
 <tr>
-<td>**(h)** Soybean
-
-</td>
-<td>—*Glycine max* (L.) Merrill</td>
+<td>(h) Soybean</td>
+<td>— *Glycine max* (L.) Merr.</td>
+</tr>
+<tr>
+<td>(i) Sunflower</td>
+<td>— *Helianthus annuus* L.</td>
+</tr>
+<tr>
+<td>(j) Safflower</td>
+<td>— *Carthamus tinctorius* L.</td>
 </tr>
 </table>
 
-
-
 <table>
 <tr>
-<th>I</th>
-<th>II</th>
-<th>III</th>
-<th>IV</th>
-<th>V</th>
-<th>VI</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <th></th>
 <th>Maximum Number of Seeds per kg</th>
-<th>Minimum Per Cent Germination</th>
+<th>Minimum Percentage of Germination</th>
 </tr>
 <tr>
 <th>Grade Name</th>
-<th>Weeds</th>
+<th>Total Weeds</th>
 <th>Other Crops</th>
-<th>Pea</th>
-<th>Bean and Soybean</th>
-<th>Sweet Corn</th>
+<th>Pea, Chickpea, Sunflower & Safflower</th>
+<th>Beans & Soybean</th>
+<th>Corn</th>
 </tr>
 <tr>
-<th></th>
-</tr>
-<tr>
-<td>1. Canada Foundation No. 1</td>
+<td>1. Canada Foundation No. 1</td>
 <td>0</td>
-<td>0.0</td>
+<td>0</td>
 <td>80</td>
 <td>85</td>
-<td>90</td>
+<td>85</td>
 </tr>
 <tr>
-<td>2. Canada Foundation No. 2</td>
+<td>2. Canada Foundation No. 2</td>
 <td>0</td>
-<td>0.5</td>
+<td>0</td>
 <td>70</td>
 <td>75</td>
-<td>80</td>
+<td>75</td>
 </tr>
 <tr>
-<td>3. Canada Registered No. 1</td>
+<td>3. Canada Registered No. 1</td>
 <td>0</td>
-<td>0.0</td>
+<td>0</td>
 <td>80</td>
 <td>85</td>
-<td>90</td>
-</tr>
-<tr>
-<td>4. Canada Registered No. 2</td>
-<td>0</td>
-<td>1.0</td>
-<td>70</td>
-<td>75</td>
-<td>80</td>
-</tr>
-<tr>
-<td>5. Canada Certified No. 1</td>
-<td>0</td>
-<td>1.0</td>
-<td>80</td>
 <td>85</td>
-<td>90</td>
 </tr>
 <tr>
-<td>6. Canada Certified No. 2</td>
+<td>4. Canada Registered No. 2</td>
 <td>0</td>
-<td>3.0</td>
-<td>70</td>
-<td>75</td>
-<td>80</td>
-</tr>
-<tr>
-<td>7. Canada No. 1</td>
 <td>1</td>
-<td>4.0</td>
+<td>70</td>
 <td>75</td>
-<td>80</td>
-<td>90</td>
+<td>75</td>
 </tr>
 <tr>
-<td>8. Canada No. 2</td>
+<td>5. Canada Certified No. 1</td>
+<td>0</td>
+<td>1</td>
+<td>80</td>
+<td>85</td>
+<td>85</td>
+</tr>
+<tr>
+<td>6. Canada Certified No. 2</td>
+<td>0</td>
 <td>3</td>
-<td>10.0</td>
-<td>65</td>
-<td>65</td>
+<td>70</td>
 <td>75</td>
+<td>75</td>
+</tr>
+<tr>
+<td>7. Canada No. 1</td>
+<td>1</td>
+<td>4</td>
+<td>75</td>
+<td>80</td>
+<td>85</td>
+</tr>
+<tr>
+<td>8. Canada No. 2</td>
+<td>3</td>
+<td>10</td>
+<td>65</td>
+<td>65</td>
+<td>70</td>
 </tr>
 </table>
-
-
 
 #### TABLE XIX
 <table>
 <tr>
-<td>Applicable to:
-
-</td>
+<td>Applicable to:</td>
+<td></td>
 </tr>
 <tr>
-<td>**(a)** Broccoli
-
-</td>
-<td>—*Brassica oleracea* L. convar. *botrytis* (L.) Alef. var. *italica*  Plenck
-
-</td>
+<td>(a) Broccoli</td>
+<td>— *Brassica oleracea* L. var. *italica* Plenck</td>
 </tr>
 <tr>
-<td>**(b)** Brussels sprouts
-
-</td>
-<td>—*Brassica oleracea* L. var. *bullata* DC. subvar. *gemmifera* DC.
-
-</td>
+<td>(b) Brussels sprouts</td>
+<td>— *Brassica oleracea* L. var. *gemmifera* Zenker</td>
 </tr>
 <tr>
-<td>**(c)** Cabbage
-
-</td>
-<td>—*Brassica oleracea* L. var. *capitata* L.
-
-</td>
+<td>(c) Cabbage</td>
+<td>— *Brassica oleracea* L. var. *capitata* L.</td>
 </tr>
 <tr>
-<td>**(d)** Cauliflower
-
-</td>
-<td>—*Brassica oleracea* L. Alef. var. *botrytis* L.
-
-</td>
+<td>(d) Cabbage, Chinese</td>
+<td>— *Brassica rapa* L. subsp. *chinensis* (L.) Hanelt or *B. rapa* L. subsp. *pekinensis* (Lour.) Hanelt</td>
 </tr>
 <tr>
-<td>**(e)** Collard
-
-</td>
-<td>—*Brassica oleracea* L. var. *acephala* DC.
-
-</td>
+<td>(e) Cauliflower</td>
+<td>— *Brassica oleracea* L. var. *botrytis* L.</td>
 </tr>
 <tr>
-<td>**(f)** Kale, vegetable
-
-</td>
-<td>—*Brassica oleracea* L. var. *acephala* DC.
-
-</td>
+<td>(f) Collards</td>
+<td>— *Brassica oleracea* L. var. *viridis* L.</td>
 </tr>
 <tr>
-<td>**(g)** Kohlrabi
-
-</td>
-<td>—*Brassica oleracea* L. var. *gongylodes* L.
-
-</td>
+<td>(g) Kale</td>
+<td>— *Brassica oleracea* L. var. *sabellica* L. or *B. oleracea* L. var. *viridis*</td>
 </tr>
 <tr>
-<td>**(h)** Radish
-
-</td>
-<td>—*Raphanus sativus* L.
-
-</td>
+<td>(h) Kohlrabi</td>
+<td>— *Brassica oleracea* L. var. *gongylodes* L.</td>
 </tr>
 <tr>
-<td>**(i)** Rape, forage
-
-</td>
-<td>—*Brassica napus* L., *B. campestris* L.
-
-</td>
+<td>(i) Mustard greens</td>
+<td>— *Brassica juncea* (L.) Czern.</td>
 </tr>
 <tr>
-<td>**(j)** Rutabaga (swede)
-
-</td>
-<td>—*Brassica napus* L. var. *napobrassica* (L.) Reichb.
-
-</td>
+<td>(j) Radish</td>
+<td>— *Raphanus sativus* L.</td>
 </tr>
 <tr>
-<td>**(k)** Spinach mustard
-
-</td>
-<td>—*Brassica perviridis* Bailey, and
-
-</td>
+<td>(k) Rape, forage</td>
+<td>— *Brassica napus* L. var. *napus* or *B. rapa* L. subsp. *campestris* (L.) A.R. Clapham</td>
 </tr>
 <tr>
-<td>**(l)** Turnip
-
-</td>
-<td>—*Brassica rapa* L. var. *rapa* (L.) Thell.
-
-</td>
+<td>(l) Rutabaga (swede)</td>
+<td>— *Brassica napus* L. var. *napobrassica* (L.) Reichb.</td>
+</tr>
+<tr>
+<td>(m) Spinach mustard</td>
+<td>— *Brassica rapa* L. var. *perviridis* L.H. Bailey</td>
+</tr>
+<tr>
+<td>(n) Turnip</td>
+<td>— *Brassica rapa* L. subsp. *rapa*</td>
 </tr>
 </table>
 
-
-
 <table>
 <tr>
-<th>I</th>
-<th>II</th>
-<th>III</th>
-<th>IV</th>
-<th>V</th>
-<th>VI</th>
-<th>VII</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
 </tr>
 <tr>
 <th></th>
@@ -6524,18 +6135,15 @@ PART III
 </tr>
 <tr>
 <th>Grade Name</th>
-<th>In Broccoli, Brussels Sprouts, Cabbage and Cauliflower</th>
+<th>In Broccoli, Brussels Sprouts, Cabbage & Cauliflower</th>
 <th>In Other Kinds</th>
-<th>Primary plus Secondary</th>
+<th>Primary Plus Secondary</th>
 <th>Total Weeds</th>
 <th>Other Crops</th>
-<th>Minimum Per cent Germination</th>
+<th>Minimum Percentage of Germination</th>
 </tr>
 <tr>
-<th></th>
-</tr>
-<tr>
-<td>1. Canada Foundation No. 1</td>
+<td>1. Canada Foundation No. 1</td>
 <td>0</td>
 <td>0</td>
 <td>2</td>
@@ -6544,7 +6152,7 @@ PART III
 <td>80</td>
 </tr>
 <tr>
-<td>2. Canada Foundation No. 2</td>
+<td>2. Canada Foundation No. 2</td>
 <td>2</td>
 <td>2</td>
 <td>10</td>
@@ -6553,7 +6161,7 @@ PART III
 <td>60</td>
 </tr>
 <tr>
-<td>3. Canada Registered No. 1</td>
+<td>3. Canada Registered No. 1</td>
 <td>0</td>
 <td>0</td>
 <td>2</td>
@@ -6562,7 +6170,7 @@ PART III
 <td>80</td>
 </tr>
 <tr>
-<td>4. Canada Registered No. 2</td>
+<td>4. Canada Registered No. 2</td>
 <td>2</td>
 <td>2</td>
 <td>10</td>
@@ -6571,7 +6179,7 @@ PART III
 <td>60</td>
 </tr>
 <tr>
-<td>5. Canada Certified No. 1</td>
+<td>5. Canada Certified No. 1</td>
 <td>0</td>
 <td>0</td>
 <td>5</td>
@@ -6580,7 +6188,7 @@ PART III
 <td>80</td>
 </tr>
 <tr>
-<td>6. Canada Certified No. 2</td>
+<td>6. Canada Certified No. 2</td>
 <td>2</td>
 <td>2</td>
 <td>20</td>
@@ -6589,7 +6197,7 @@ PART III
 <td>70</td>
 </tr>
 <tr>
-<td>7. Canada No. 1</td>
+<td>7. Canada No. 1</td>
 <td>3</td>
 <td>1</td>
 <td>10</td>
@@ -6598,7 +6206,7 @@ PART III
 <td>80</td>
 </tr>
 <tr>
-<td>8. Canada No. 2</td>
+<td>8. Canada No. 2</td>
 <td>5</td>
 <td>2</td>
 <td>50</td>
@@ -6608,372 +6216,216 @@ PART III
 </tr>
 </table>
 
-
-
 #### TABLE XX
 <table>
 <tr>
-<td>Applicable to:
-
-</td>
-<td></td>
-<td>Minimum Per Cent Germination</td>
+<th>Applicable to:</th>
+<th></th>
+<th></th>
 </tr>
 <tr>
-<td>**(a)** Artichoke
-
-</td>
-<td>—*Cynara scolymus* L.
-
-</td>
+<th></th>
+<th></th>
+<th>Minimum Percentage of Germination</th>
+</tr>
+<tr>
+<td>(a) Artichoke</td>
+<td>— *Cynara cardunculus* L. (= *C. scolymus* L.)</td>
 <td>75</td>
 </tr>
 <tr>
-<td>**(b)** Asparagus
-
-</td>
-<td>—*Asparagus officinalis* L. ssp. *officinalis*
-
-</td>
+<td>(b) Asparagus</td>
+<td>— *Asparagus officinalis* L.</td>
 <td>75</td>
 </tr>
 <tr>
-<td>**(c)** Cardoon
-
-</td>
-<td>—*Cynara cardunculus* L.
-
-</td>
+<td>(c) Cardoon</td>
+<td>— *Cynara cardunculus* L.</td>
 <td>55</td>
 </tr>
 <tr>
-<td>**(d)** Carrot (cultivated)
-
-</td>
-<td>—*Daucus carota* L. ssp. *sativa* (Hoffm.) Arcangeli
-
-</td>
+<td>(d) Carrot (cultivated)</td>
+<td>— *Daucus carota* L. subsp. *sativus* (Hoffm.) Arcang.</td>
 <td>60</td>
 </tr>
 <tr>
-<td>**(e)** Celeriac
-
-</td>
-<td>—*Apium graveolens* L. var. *rapaceum* (Miller) Gaudich.
-
-</td>
+<td>(e) Celeriac</td>
+<td>— *Apium graveolens* L. var. *rapaceum* (Mill.) Gaudin</td>
 <td>60</td>
 </tr>
 <tr>
-<td>**(f)** Celery
-
-</td>
-<td>—*Apium graveolens* L. var. *dulce* (Miller) Pers.
-
-</td>
+<td>(f) Celery</td>
+<td>— *Apium graveolens* L. var. *dulce* (Mill.) Pers.</td>
 <td>55</td>
 </tr>
 <tr>
-<td>**(g)** Celtus
-
-</td>
-<td>—*Lactuca sativa* L. var. *asperangia* Bailey
-
-</td>
+<td>(g) Celtuce/celtus</td>
+<td>— *Lactuca sativa* L. var. *angustana* L.H. Bailey</td>
 <td>75</td>
 </tr>
 <tr>
-<td>**(h)** Chervil
-
-</td>
-<td>—*Chaerophyllum bulbosum* L.
-
-</td>
+<td>(h) Chervil</td>
+<td>— *Anthriscus cerefolium* (L.) Hoffm.</td>
 <td>75</td>
 </tr>
 <tr>
-<td>**(i)** Chicory (cultivated)
-
-</td>
-<td>—*Cichorium intybus* L.
-
-</td>
+<td>(i) Chicory (cultivated)</td>
+<td>— *Cichorium intybus* L.</td>
 <td>65</td>
 </tr>
 <tr>
-<td>**(j)** Chive
-
-</td>
-<td>—*Allium schoenoprasum* L.
-
-</td>
+<td>(j) Chives</td>
+<td>— *Allium schoenoprasum* L.</td>
 <td>65</td>
 </tr>
 <tr>
-<td>**(k)** Cornsalad
-
-</td>
-<td>—*Valerianella olitoria* (L.) Poll. (= *V. locusta* Betcke)
-
-</td>
+<td>(k) Cornsalad</td>
+<td>— *Valerianella locusta* (L.) Laterr. (= *V. olitoria* (L.) Poll.)</td>
 <td>75</td>
 </tr>
 <tr>
-<td>**(l)** Cress, garden
-
-</td>
-<td>—*Lepidium sativum* L.
-
-</td>
+<td>(l) Cress, garden</td>
+<td>— *Lepidium sativum* L.</td>
 <td>75</td>
 </tr>
 <tr>
-<td>**(m)** Cress, water
-
-</td>
-<td>—*Nasturtium officinale* R. Brown
-
-</td>
+<td>(m) Cress, water</td>
+<td>— *Nasturtium officinale* R. Br.</td>
 <td>35</td>
 </tr>
 <tr>
-<td>**(n)** Dandelion (cultivated)
-
-</td>
-<td>—*Taraxacum officinale* Wiggers
-
-</td>
+<td>(n) Dandelion (cultivated)</td>
+<td>— *Taraxacum officinale* F.H. Wigg.</td>
 <td>55</td>
 </tr>
 <tr>
-<td>**(o)** Dill
-
-</td>
-<td>—*Anethum graveolens* L.
-
-</td>
+<td>(o) Dill</td>
+<td>— *Anethum graveolens* L.</td>
 <td>50</td>
 </tr>
 <tr>
-<td>**(p)** Eggplant
-
-</td>
-<td>—*Solanum melongena* L.
-
-</td>
+<td>(p) Eggplant</td>
+<td>— *Solanum melongena* L.</td>
 <td>65</td>
 </tr>
 <tr>
-<td>**(q)** Endive
-
-</td>
-<td>—*Cichorium endivia* L.
-
-</td>
+<td>(q) Endive</td>
+<td>— *Cichorium endivia* L.</td>
 <td>65</td>
 </tr>
 <tr>
-<td>**(r)** Leek
-
-</td>
-<td>—*Allium porrum* L.
-
-</td>
+<td>(r) Leek</td>
+<td>— *Allium porrum* L.</td>
 <td>65</td>
 </tr>
 <tr>
-<td>**(s)** Lettuce:
-
-</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>— cos (romaine)
-
-</td>
-<td>—*Lactuca sativa* L. var. *longifolia* Lam.
-
-</td>
+<td>(s) Lettuce — cos (romaine)</td>
+<td>— *Lactuca sativa* L. var. *longifolia* Lam.</td>
 <td>70</td>
 </tr>
 <tr>
-<td>— head
-
-</td>
-<td>—*Lactuca sativa* L. var. *capitata* L.
-
-</td>
+<td>(t) Lettuce — head</td>
+<td>— *Lactuca sativa* L. var. *capitata* L.</td>
 <td>70</td>
 </tr>
 <tr>
-<td>— leaf
-
-</td>
-<td>—*Lactuca sativa* L. var. *crispa* L.
-
-</td>
+<td>(u) Lettuce — leaf</td>
+<td>— *Lactuca sativa* L. var. *crispa* L.</td>
 <td>70</td>
 </tr>
 <tr>
-<td>**(t)** Okra
-
-</td>
-<td>—*Hibiscus esculentus* L.
-
-</td>
+<td>(v) Okra</td>
+<td>— *Abelmoschus esculentus* (L.) Moench (= *Hibiscus esculentus* L.)</td>
 <td>55</td>
 </tr>
 <tr>
-<td>**(u)** Onion
-
-</td>
-<td>—*Allium cepa* L.
-
-</td>
+<td>(w) Onion</td>
+<td>— *Allium cepa* L.</td>
 <td>75</td>
 </tr>
 <tr>
-<td>**(v)** Parsley
-
-</td>
-<td>—*Petroselinum crispum* (Miller) Nym. ex Hill
-
-</td>
+<td>(x) Parsley</td>
+<td>— *Petroselinum crispum* (Mill.) Nyman ex A.W. Hill</td>
 <td>55</td>
 </tr>
 <tr>
-<td>**(w)** Parsnip
-
-</td>
-<td>—*Pastinaca sativa* L.
-
-</td>
+<td>(y) Parsnip</td>
+<td>— *Pastinaca sativa* L. subsp. *sativa*</td>
 <td>60</td>
 </tr>
 <tr>
-<td>**(x)** Pepper
-
-</td>
-<td>—*Capsicum annuum* L.
-
-</td>
+<td>(z) Pepper</td>
+<td>— *Capsicum annuum* L.</td>
 <td>65</td>
 </tr>
 <tr>
-<td>**(y)** Rampion
-
-</td>
-<td>—*Campanula rapunculus* L.
-
-</td>
+<td>(z.1) Rampion</td>
+<td>— *Campanula rapunculus* L.</td>
 <td>55</td>
 </tr>
 <tr>
-<td>**(z)** Rhubarb
-
-</td>
-<td>—*Rheum rhaponticum* L.
-
-</td>
+<td>(z.11) Rhubarb</td>
+<td>— *Rheum* × *hybridum* Murray (= *R. rhaponticum* L. auct.)</td>
 <td>65</td>
 </tr>
 <tr>
-<td>**(aa)** Sage
-
-</td>
-<td>—*Salvia officinalis* L.
-
-</td>
+<td>(z.12) Sage</td>
+<td>— *Salvia officinalis* L.</td>
 <td>50</td>
 </tr>
 <tr>
-<td>**(bb)** Salsify
-
-</td>
-<td>—*Tragopogon porrifolius* L.
-
-</td>
+<td>(z.13) Salsify</td>
+<td>— *Tragopogon porrifolius* L.</td>
 <td>75</td>
 </tr>
 <tr>
-<td>**(cc)** Savory
-
-</td>
-<td>—*Satureja hortensis* L.
-
-</td>
+<td>(z.14) Savory</td>
+<td>— *Satureja hortensis* L. or *S. montana* L.</td>
 <td>50</td>
 </tr>
 <tr>
-<td>**(dd)** Sorrel (cultivated)
-
-</td>
-<td>—*Rumex acetosa* L.
-
-</td>
+<td>(z.15) Sorrel (cultivated)</td>
+<td>— *Rumex acetosa* L.</td>
 <td>65</td>
 </tr>
 <tr>
-<td>**(ee)** Spinach
-
-</td>
-<td>—*Spinacia oleracea* L.
-
-</td>
+<td>(z.16) Spinach</td>
+<td>— *Spinacia oleracea* L.</td>
 <td>65</td>
 </tr>
 <tr>
-<td>**(ff)** Spinach, New Zealand
-
-</td>
-<td>—*Tetragonia tetragonoides* (Pall.) Kuntze (= *T. expensa* Thunb. ex Murray)
-
-</td>
+<td>(z.17) Spinach, New Zealand</td>
+<td>— *Tetragonia tetragonoides* (Pall.) Kuntze</td>
 <td>50</td>
 </tr>
 <tr>
-<td>**(gg)** Thyme
-
-</td>
-<td>—*Thymus vulgaris* L.
-
-</td>
+<td>(z.18) Thyme</td>
+<td>— *Thymus vulgaris* L.</td>
 <td>50</td>
 </tr>
 <tr>
-<td>**(hh)** Tobacco (fine-cured and burley types)
-
-</td>
-<td>—*Nicotiana tabacum* L.
-
-</td>
+<td>(z.19) Tobacco (flue-cured and burley types)</td>
+<td>— *Nicotiana tabacum* L.</td>
 <td>75</td>
 </tr>
 <tr>
-<td>**(ii)** Tomato
-
-</td>
-<td>—*Lycopersicon lycopersicum* (L.) Karsten ex Farwell (= *L. esculentum* Miller)
-
-</td>
+<td>(z.2) Tomato</td>
+<td>— *Lycopersicon esculentum* Mill. (= *L. lycopersicum* (L.) Karsten ex Farwell)</td>
 <td>75</td>
 </tr>
 </table>
 
-
-
 <table>
 <tr>
-<th>I</th>
-<th>II</th>
-<th>III</th>
-<th>IV</th>
-<th>V</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <th></th>
-<th>Maximum Number of Seeds per 25 g</th>
+<th>Maximum Number of Seeds per 25 g</th>
 </tr>
 <tr>
 <th></th>
@@ -6984,12 +6436,9 @@ PART III
 <tr>
 <th>Grade Name</th>
 <th>Primary</th>
-<th>Primary plus Secondary</th>
+<th>Primary Plus Secondary</th>
 <th>Total Weeds</th>
 <th>Other Crops</th>
-</tr>
-<tr>
-<th></th>
 </tr>
 <tr>
 <td>1. Canada Foundation No. 1</td>
@@ -7049,121 +6498,132 @@ PART III
 </tr>
 </table>
 
-
-
 #### TABLE XXI
 <table>
 <tr>
 <td>Applicable to:</td>
-<td></td>
 </tr>
 <tr>
-<td>Onion Sets and multiplier onions
-
-</td>
-<td></td>
+<td>Onion sets and multiplier onions.</td>
 </tr>
 </table>
 
-
-
 <table>
 <tr>
-<th>I</th>
-<th>II</th>
-<th>III</th>
-<th>IV</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
 </tr>
 <tr>
 <th>Grade Name</th>
 <th>Diameter of Sets (cm)</th>
-<th>Per Cent One Variety and Colour</th>
+<th>Percentage of One Variety and Colour</th>
 <th>General Quality</th>
-</tr>
-<tr>
-<th></th>
 </tr>
 <tr>
 <td>1. Canada No. 1</td>
 <td>1 to 2.5</td>
 <td>Not less than 98</td>
-<td>**1** Mature, well cured, sound and dry.
-
-</td>
+<td>(1) Mature, well cured, sound and dry.</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td>**2** Practically free from tops, dirt, leaves or other foreign matter, from disease, decay and moulds and from insect, mechanical, frost or other damage.
-
-</td>
+<td>(2) Practically free from tops, dirt, leaves or other foreign matter, from disease, decay and moulds and from insect, mechanical, frost or other damage.</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(3) Practically free from sprouted bulbs and from soft bulbs when graded.</td>
 </tr>
 <tr>
 <td>2. Canada No. 1 (Large)</td>
 <td>2.5 to 3.5</td>
 <td></td>
-<td>**3** Practically free from sprouted and soft bulbs when graded.
-
-</td>
+<td>(1) Mature, well cured, sound and dry.</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(2) Practically free from tops, dirt, leaves or other foreign matter, from disease, decay and moulds and from insect, mechanical, frost or other damage.</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(3) Practically free from sprouted bulbs and from soft bulbs when graded.</td>
 </tr>
 <tr>
 <td>3. Canada No. 2</td>
 <td>1 to 2.5</td>
 <td>Not less than 90</td>
-<td>**1** Mature, well cured, sound and reasonably dry.
-
-</td>
+<td>(1) Mature, well cured, sound and reasonably dry.</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td>**2** Reasonably free from tops, dirt, leaves or other foreign matter, from disease, decay and moulds and from insect, mechanical, frost or other damage.
-
-</td>
+<td>(2) Reasonably free from tops, dirt, leaves or other foreign matter, from disease, decay and moulds and from insect, mechanical, frost or other damage.</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(3) Reasonably free from soft bulbs and containing not more than 5% sprouts for yellow and 10% for white, red and globe.</td>
 </tr>
 <tr>
 <td>4. Canada No. 2 (Large)</td>
 <td>2.5 to 3.5</td>
 <td></td>
-<td>**3** Reasonably free from soft bulbs and containing not more than 5% sprouts for yellow and 10% for white, red and globe.
-
-</td>
+<td>(1) Mature, well cured, sound and reasonably dry.</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(2) Reasonably free from tops, dirt, leaves or other foreign matter, from disease, decay and moulds and from insect, mechanical, frost or other damage.</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(3) Reasonably free from soft bulbs and containing not more than 5% sprouts for yellow and 10% for white, red and globe.</td>
 </tr>
 </table>
 
-
-*Definition of Terms used in Column IV*
-
-
-
-***Mature, well cured*** means that the sets have necks that are well dried out and have not more than 1% and 2% of thick necks in Canada No. 1 and Canada No. 2 sets, respectively. (*Mûre, bien fanée*)
-
-***Sound*** means that the set is firm and neat and will yield only slightly to moderate pressure. (*Saine*)
-
-***Practically free from tops, dirt, leaves or other foreign matter*** means free for all intents and purposes. Tops, dirt, leaves or other foreign matter should not exceed 1 per cent by weight and not more than 25 per cent of the sets should have tops 6.5 cm long or longer. (*Presque libre de pousses, terre, feuilles ou autres matières étrangères*)
-
-***Practically free from disease, decay and moulds and from insect, mechanical, frost or other damage*** means that not more than 3 per cent combined of the bulbs should be so affected. (*Presque libre de maladies, de pourriture et de moisissures, de dommages causés par les insectes et la gelée, de dommages mécaniques ou d’autres dommages*)
-
-***Practically free from sprouted bulbs*** means that, for yellow sets, not over 3 per cent have visible sprouts and, for red, white and globe sets, that not over 6 per cent have visible sprouts. (*Presque libre de bulbes germés*)
-
-***Practically free from soft bulbs*** means that such bulbs should not be in excess of 3 per cent. (*Presque libre de bulbes mous*)
-
-***Reasonably free from tops, dirt, leaves or other foreign matter*** means that not more than 35 per cent of the bulbs should have tops over 6.5 cm long and dirt, leaves or other foreign matter should not exceed 2 per cent by weight. (*Raisonnablement libre de pousses, terre, feuilles ou autres matières étrangères*)
-
-***Reasonably free from disease, decay and moulds and from insect, mechanical, frost or other damage*** means that not more than 4 per cent combined of the bulbs should be so affected. (*Raisonnablement libre de maladies, de pourriture et de moisissures, de dommages causés par les insectes et la gelée, de dommages mécaniques ou d’autres dommages*)
-
-***Reasonably free from soft bulbs*** means that not more than 5 per cent combined of the bulbs should be so affected. (*Raisonnablement libre de bulbes mous*)
-
-***Sprouted bulbs*** means those bulbs with sprouts exceeding 0.6 cm in length. (*Bulbes germés*)
-
-***Sound, reasonably dry and reasonably free from tops, dirt, leaves or other foreign matter, from decay, disease and moulds and from insect, mechanical, frost or other damage*** means that such conditions and defects may be apparent on examination, but should not be present to an extent that will seriously affect the keeping quality under average storage conditions. (*Raisonnablement saine, raisonnablement sèche et raisonnablement libre de pousses, terre, feuilles ou autres matières étrangères, de maladies, de pourritures et de moisissures, de dommages causés par les insectes et la gelée, de dommages mécaniques ou d’autres dommages*)
-
+#### Definition of Terms Used in Column 4
+<table>
+<tr>
+<td>“Mature, well cured” means that the sets have necks that are well dried out and have not more than 1% and 2% thick necks in Canada No. 1 and Canada No. 2 sets, respectively.</td>
+<td>“Practically free from soft bulbs” means that soft bulbs should not be in excess of 3%.</td>
+</tr>
+<tr>
+<td>“Sound” means that the set is firm and neat and will yield only slightly to moderate pressure.</td>
+<td>“Reasonably free from tops, dirt, leaves or other foreign matter” means that not more than 35% of the bulbs should have tops over 6.5 cm long and dirt, leaves or other foreign matter should not exceed 2% by weight.</td>
+</tr>
+<tr>
+<td>“Practically free from tops, dirt, leaves or other foreign matter” means free for all intents and purposes. Tops, dirt, leaves or other foreign matter should not exceed 1% by weight and not more that 25% of the sets should have tops 6.5 cm long or longer.</td>
+<td>“Reasonably free from disease, decay and moulds and from insect, mechanical, frost or other damage” means that not more than 4% combined of the bulbs should be so affected.</td>
+</tr>
+<tr>
+<td>“Practically free from disease, decay and moulds and from insect, mechanical, frost or other damage” means that not more than 3% combined of the bulbs should be so affected.</td>
+<td>“Reasonably free from soft bulbs” means that not more than 5% combined of the bulbs should be so affected.</td>
+</tr>
+<tr>
+<td>“Practically free from sprouted bulbs” means that, for yellow sets, not over 3% have visible sprouts and, for red, white and globe sets, that not over 6% have visible sprouts.</td>
+<td>“Sprouted bulbs” means those bulbs with sprouts exceeding 0.6 cm in length.</td>
+</tr>
+</table>
 
 #### TABLE XXII
 <table>
-<h4>Applicable to all of the kinds of seeds referred to in Tables I to XX except Tables III, XIII, XIV and XV.</h4>
+<tr>
+<td>Applicable to all kinds of seeds referred to in Tables I to XX except those referred to in Tables III and XIII to XV:</td>
+</tr>
 <tr>
 <td>1</td>
 <td>Canada Foundation Substandard seed is seed of Foundation status that meets the standards for purity for Canada Foundation No. 2 grade seed.</td>
@@ -7178,12 +6638,11 @@ PART III
 </tr>
 <tr>
 <td>4</td>
-<td>Canada Foundation Substandard (Purity) seed is seed of foundation status that meets the standards for purity for common grade seed.</td>
+<td>Canada Foundation Substandard (Purity) seed is seed of Foundation status that meets the standards for purity for common grade seed.</td>
 </tr>
 </table>
 
-
->  SOR/78-314, s. 2; SOR/79-917, s. 1; SOR/82-437, ss. 8 to 10; SOR/86-850, s. 17; SOR/89-368, ss. 3, 4(F); SOR/91-609, s. 4; SOR/93-162, s. 12; SOR/96-252, ss. 4, 5, 6(F), 7 to 9.
+> SOR/78-314, s. 2; SOR/79-917, s. 1; SOR/82-437, ss. 8 to 10; SOR/86-850, s. 17; SOR/89-368, ss. 3, 4(F); SOR/91-609, s. 4; SOR/93-162, s. 12; SOR/96-252, ss. 4, 5, 6(F), 7 to 9; SOR/2007-223, s. 25.
 
 
 
@@ -7192,31 +6651,20 @@ PART III
 **(Section 10)**
 <table>
 <tr>
-<th>Kind</th>
+<th>Kind or Species</th>
 <th>Scientific Name</th>
 </tr>
 <tr>
-<th></th>
-</tr>
-<tr>
 <td>Alfalfa</td>
-<td>*Medicago sativa* L. (incl. *M. sativa* L. ssp. *Falcata* (L.) Arcangeli)</td>
+<td>*Medicago sativa* L.</td>
 </tr>
 <tr>
 <td>Alkaligrass, weeping</td>
-<td>*Puccinellia distans* (L.) Parl.</td>
+<td>*Puccinellia distans* (L.) (Jacq.) Parl.</td>
 </tr>
 <tr>
-<td>Barley</td>
-<td></td>
-</tr>
-<tr>
-<td>— six-row</td>
-<td>*Hordeum vulgare* L. convar. *hexastichon* Alef.</td>
-</tr>
-<tr>
-<td>— two-row</td>
-<td>*Hordeum vulgare* L. convar. *distichon* Alef.</td>
+<td>Barley, six-row, two-row</td>
+<td>*Hordeum vulgare* L. subsp. *vulgare*</td>
 </tr>
 <tr>
 <td>Bean, field</td>
@@ -7232,11 +6680,11 @@ PART III
 </tr>
 <tr>
 <td>Bromegrass, meadow</td>
-<td>*Bromus riparius* Rehm.</td>
+<td>*Bromus riparius* Rehmann</td>
 </tr>
 <tr>
 <td>Bromegrass, smooth</td>
-<td>*Bromus inermis* Leysser</td>
+<td>*Bromus inermis* Leyss.</td>
 </tr>
 <tr>
 <td>Bromegrass, sweet</td>
@@ -7248,7 +6696,7 @@ PART III
 </tr>
 <tr>
 <td>Buckwheat, tartarian</td>
-<td>*Fagopyrum tataricum* (L.) Gaertner</td>
+<td>*Fagopyrum tataricum* (L.) Gaertn.</td>
 </tr>
 <tr>
 <td>Canarygrass</td>
@@ -7257,6 +6705,10 @@ PART III
 <tr>
 <td>Canarygrass, reed</td>
 <td>*Phalaris arundinacea* L.</td>
+</tr>
+<tr>
+<td>Canola, oilseed rape, rapeseed</td>
+<td>*Brassica rapa* L. subsp. *campestris* (L.) A.R. Clapham or *B. napus* L. var. *napus*(= *B. napus* L. var. *oleifera* Delile) or *B. juncea* (L.) Czern.</td>
 </tr>
 <tr>
 <td>Chickpea</td>
@@ -7284,11 +6736,11 @@ PART III
 </tr>
 <tr>
 <td>Clover, sweet (white blossom)</td>
-<td>*Melilotus alba* Medikus</td>
+<td>*Melilotus albus* Medik.</td>
 </tr>
 <tr>
 <td>Clover, sweet (yellow blossom)</td>
-<td>*Melilotus officinalis* (L.) Pallas</td>
+<td>*Melilotus officinalis* (L.) Lam.</td>
 </tr>
 <tr>
 <td>Clover, white</td>
@@ -7296,31 +6748,31 @@ PART III
 </tr>
 <tr>
 <td>Corn, field</td>
-<td>*Zea mays* L.</td>
+<td>*Zea mays* L. subsp. *mays*</td>
 </tr>
 <tr>
 <td>Cowpea</td>
-<td>*Vigna unguiculata* (L.) Walpers ssp. *unguiculata*</td>
+<td>*Vigna unguiculata* (L.) Walpers subsp. *unguiculata*</td>
 </tr>
 <tr>
 <td>Fescue, Chewing’s</td>
-<td>*Festuca rubra* L. var. *commutata* Gaudin</td>
+<td>*Festuca rubra* L. subsp. *fallax* (Thuill.) Nyman (= *F. rubra* L. var. *commutata* Gaudin)</td>
 </tr>
 <tr>
 <td>Fescue, fine-leaved</td>
-<td>*Festuca tenuifolia* Sibth. (= *F. ovina* L. var. *tenuifolia* (Sibth.) Dumort.) (= *F. capillata* Lam.)</td>
+<td>*Festuca filiformis* Pourr. (= *F. tenuifolia* Sibth.)</td>
 </tr>
 <tr>
 <td>Fescue, hard</td>
-<td>*Festuca longifolia* Thuill. (= *F. ovina* L. var. *duriuscula* auct. amer.)</td>
+<td>*Festuca brevipila* R. Tracey (= *F. longifolia* auct. pl.)</td>
 </tr>
 <tr>
 <td>Fescue, meadow</td>
-<td>*Festuca pratensis* Hudson</td>
+<td>*Festuca pratensis* Huds.</td>
 </tr>
 <tr>
 <td>Fescue, red and creeping red</td>
-<td>*Festuca rubra* L. var. *rubra*</td>
+<td>*Festuca rubra* L. subsp. *rubra*</td>
 </tr>
 <tr>
 <td>Fescue, sheep</td>
@@ -7328,15 +6780,15 @@ PART III
 </tr>
 <tr>
 <td>Fescue, tall</td>
-<td>*Festuca arundinacea* Schreber</td>
+<td>*Festuca arundinacea* Schreb.</td>
 </tr>
 <tr>
-<td>Flax, oil</td>
+<td>Flax, oilseed</td>
 <td>*Linum usitatissimum* L.</td>
 </tr>
 <tr>
 <td>Foxtail, creeping</td>
-<td>*Alopecurus arundinaceus* Poiret</td>
+<td>*Alopecurus arundinaceus* Poir.</td>
 </tr>
 <tr>
 <td>Foxtail, meadow</td>
@@ -7344,14 +6796,14 @@ PART III
 </tr>
 <tr>
 <td>Kale, forage</td>
-<td>*Brassica oleracea* L. var. *acephala* DC.</td>
+<td>*Brassica oleracea* L. var. *sabellica* L. or *B. oleracea* L. var. *viridis*</td>
 </tr>
 <tr>
 <td>Lentil</td>
-<td>*Lens culinaris* Medikus</td>
+<td>*Lens culinaris* Medik.</td>
 </tr>
 <tr>
-<td>Lupine, field</td>
+<td>Lupin, lupine (grain and forage types)</td>
 <td>*Lupinus* spp.</td>
 </tr>
 <tr>
@@ -7359,16 +6811,20 @@ PART III
 <td>*Medicago lupulina* L.</td>
 </tr>
 <tr>
+<td>Milk-vetch, cicer</td>
+<td>*Astralagus cicer* L.</td>
+</tr>
+<tr>
 <td>Mustard, black</td>
-<td>*Brassica nigra* (L.) Koch</td>
+<td>*Brassica nigra* (L.) W.D.J. Koch</td>
+</tr>
+<tr>
+<td>Mustard, brown, oriental Indian</td>
+<td>*Brassica juncea* (L.) Czern.</td>
 </tr>
 <tr>
 <td>Mustard, white (= yellow)</td>
-<td>*Sinapis alba* L. (= *B. hirta* Moench)</td>
-</tr>
-<tr>
-<td>Mustard, oriental or Indian</td>
-<td>*Brassica juncea* (L.) Czern. & Coss.</td>
+<td>*Sinapis alba* L.</td>
 </tr>
 <tr>
 <td>Oat</td>
@@ -7376,7 +6832,7 @@ PART III
 </tr>
 <tr>
 <td>Oatgrass, tall</td>
-<td>*Arrhenatherum elatius* (L.) Beauv. ex J. & K. Presl.</td>
+<td>*Arrhenatherum elatius* (L.) P. Beauv. ex J. Presl & C. Presl</td>
 </tr>
 <tr>
 <td>Orchardgrass</td>
@@ -7391,12 +6847,8 @@ PART III
 <td>*Arachis hypogaea* L.</td>
 </tr>
 <tr>
-<td>Rapeseed, Canola</td>
-<td>*Brassica campestris* L., *Brassica napus* L.</td>
-</tr>
-<tr>
 <td>Redtop</td>
-<td>*Agrostis gigantea* Roth (= *A. alba* auct.)</td>
+<td>*Agrostis gigantea* Roth</td>
 </tr>
 <tr>
 <td>Rye</td>
@@ -7408,7 +6860,7 @@ PART III
 </tr>
 <tr>
 <td>Ryegrass, intermediate</td>
-<td>*Lolium x hybridum* Hausskn.</td>
+<td>*Lolium* × *hybridum* Hausskn.</td>
 </tr>
 <tr>
 <td>Ryegrass, perennial</td>
@@ -7420,18 +6872,18 @@ PART III
 </tr>
 <tr>
 <td>Sorghum</td>
-<td>*Sorghum bicolor* (L.) Moench (= *S. vulgare* Pers.), *S. almum* Parodi</td>
+<td>*Sorghum bicolor* (L.) Moench</td>
 </tr>
 <tr>
 <td>Soybean</td>
-<td>*Glycine max* (L.) Merrill</td>
+<td>*Glycine max* (L.) Merr.</td>
 </tr>
 <tr>
-<td>Sudangrass</td>
-<td>*Sorghum sudanense* (Piper) Stapf</td>
+<td>Sudan grass</td>
+<td>*Sorghum* × *drummondi* (Steud.) Millsp. & Chase (= *S. sudanense* (Piper) Stapf)</td>
 </tr>
 <tr>
-<td>Sunflower</td>
+<td>Sunflower (non-ornamental)</td>
 <td>*Helianthus annuus* L.</td>
 </tr>
 <tr>
@@ -7440,7 +6892,7 @@ PART III
 </tr>
 <tr>
 <td>Timothy, dwarf</td>
-<td>*Phleum bertolonii* DC. (= *P. nodosum* auct.)</td>
+<td>*Phleum bertolonii* DC.</td>
 </tr>
 <tr>
 <td>Tobacco (flue-cured and burley types)</td>
@@ -7452,67 +6904,63 @@ PART III
 </tr>
 <tr>
 <td>Triticale</td>
-<td>*X Triticosecale* Wittmack</td>
+<td>× *Triticosecale* spp.</td>
 </tr>
 <tr>
 <td>Vetch, crown</td>
-<td>*Coronilla varia* L.</td>
-</tr>
-<tr>
-<td>Vetch, milk, cicer</td>
-<td>*Astralagus cicer* L.</td>
+<td>*Securigera varia* (L.) Lassen (= *Coronilla varia* L.)</td>
 </tr>
 <tr>
 <td>Wheat, common</td>
-<td>*Triticum aestivum* L. emend. Fiori & Paol.</td>
+<td>*Triticum aestivum* L.</td>
 </tr>
 <tr>
 <td>Wheat, durum</td>
-<td>*Triticum durum* Desf.</td>
+<td>*Triticum turgidum* L. subsp. *durum* (Desf.) Husn. (= *T. durum* Desf.)</td>
 </tr>
 <tr>
 <td>Wheatgrass, beardless</td>
-<td>*Agropyron spicatum* (Pursh) Scribn. & J.G. Smith f. *inerme* (Scribn. & J. G. Smith) Beetle</td>
+<td>*Pseudoroegneria spicata* (Pursh) Á. Löve (= *Agropyron spicatum* (Pursh) Scribn. & J. G. Smith f. *inerme* (Scribn. & J.G. Smith) Beetle)</td>
 </tr>
 <tr>
 <td>Wheatgrass, crested</td>
-<td>*Agropyron cristatum* (L.) Gaertner or *Agropyron desertorum* (Fischer ex Link) Schult.</td>
+<td>*Agropyron cristatum* (L.) Gaertn. or *A. desertorum* (Fisch. ex Link) Schult.</td>
 </tr>
 <tr>
 <td>Wheatgrass, intermediate</td>
-<td>*Agropyron intermedium* (Host) Beauv.</td>
+<td>*Elytrigia intermedia* (Host) Nevski subsp. *intermedia* (= *Agropyron intermedium* (Host) Beauv.)</td>
 </tr>
 <tr>
 <td>Wheatgrass, northern</td>
-<td>*Agropyron dasystachyum* (Hook.) Scribn.</td>
+<td>*Elymus lanceolatus* (Scribn. & J.G. Sm.) Gould subsp. *lanceolatus* (= *Agropyron dasystachyum* (Hook.) Scribn.)</td>
 </tr>
 <tr>
 <td>Wheatgrass, pubescent</td>
-<td>*Agropyron trichophorum* (Link) Richter</td>
+<td>*Elytrigia intermedia* (Host) Nevski subsp. *intermedia* (= *Agropyron trichophorum* (Link) Richter)</td>
 </tr>
 <tr>
 <td>Wheatgrass, Siberian</td>
-<td>*Agropyron sibiricum* (Willd.) Beauv.</td>
+<td>*Agropyron fragile* (Roth) P. Candargy subsp. *sibiricum* (Willd.) Melderis (= *A. sibiricum* (Willd.) Beauv.)</td>
 </tr>
 <tr>
 <td>Wheatgrass, slender</td>
-<td>*Agropyron trachycaulum* (Link) Malte ex H.F. Lewis</td>
+<td>*Elymus trachycaulus* (Link) Gould ex Shinners (= *Agropyron trachycaulum* (Link) Malte ex H.F. Lewis)</td>
 </tr>
 <tr>
 <td>Wheatgrass, streambank</td>
-<td>*Agropyron riparium* Scribn. & Smith</td>
+<td>*Elymus lanceolatus* (Scribn. & J.G. Sm.) Gould subsp. *lanceolatus* (= *Agropyron riparium* Scribn. & Smith)</td>
 </tr>
 <tr>
 <td>Wheatgrass, tall</td>
-<td>*Agropyron elongatum* (Host) Beauv.</td>
+<td>*Elytrigia elongata* (Host) Nevski (= *Agropyron elongatum* (Host) P. Beauv.)</td>
 </tr>
 <tr>
 <td>Wheatgrass, western</td>
-<td>*Agropyron smithii* Rydb.</td>
+<td>*Pascopyrum smithii* (Rydb.) Á. Löve (= *Agropyron smithii* Rydb.)</td>
 </tr>
 <tr>
 <td>Wildrye, Altai</td>
-<td>*Elymus angustus* Trin.</td>
+<td>*Leymus angustus* (Trin.) Pilg. (= *Elymus angustus* Trin.)</td>
 </tr>
 <tr>
 <td>Wildrye, Dahurian</td>
@@ -7520,41 +6968,34 @@ PART III
 </tr>
 <tr>
 <td>Wildrye, Russian</td>
-<td>*Elymus junceus* Fischer</td>
+<td>*Psathyrostachys juncea* (Fisch.) Nevski (= *Elymus junceus* Fisch.)</td>
 </tr>
 </table>
 
->  SOR/82-437, s. 11; SOR/86-850, s. 18; SOR/91-609, s. 5.
+> SOR/82-437, s. 11; SOR/86-850, s. 18; SOR/91-609, s. 5; SOR/2007-223, s. 25.
 
 
 
 
 ### **SCHEDULE III** 
 **(Section 65)**
-
+## Species, Kinds or Types of Crops Subject to Variety Registration
 <table>
 <tr>
 <th>Species, Kind or Type</th>
 <th>Scientific Name</th>
 </tr>
 <tr>
-<th></th>
-</tr>
-<tr>
 <td>Alfalfa (forage type)</td>
-<td>*Medicago sativa* L. (including *M. sativa* L. spp. *falcata* (L.) Arcangeli)</td>
+<td>*Medicago sativa* L.</td>
 </tr>
 <tr>
-<td>Barley</td>
-<td></td>
+<td>Barley, six-row, two-row</td>
+<td>*Hordeum vulgare* L. subsp. *vulgare*</td>
 </tr>
 <tr>
-<td>— six-row</td>
-<td>*Hordeum vulgare* L. convar. *hexastichon* Alef.</td>
-</tr>
-<tr>
-<td>— two-row</td>
-<td>*Hordeum vulgare* L. convar. *distichon* Alef.</td>
+<td>Bean, faba (small-seeded)</td>
+<td>*Vicia faba* L.</td>
 </tr>
 <tr>
 <td>Bean, field</td>
@@ -7566,19 +7007,19 @@ PART III
 </tr>
 <tr>
 <td>Bromegrass, meadow</td>
-<td>*Bromus riparius* Rehm.</td>
+<td>*Bromus riparius* Rehmann</td>
 </tr>
 <tr>
 <td>Bromegrass, smooth</td>
-<td>*Bromus inermis* Leysser</td>
+<td>*Bromus inermis* Leyss.</td>
 </tr>
 <tr>
 <td>Buckwheat</td>
 <td>*Fagopyrum esculentum* Moench</td>
 </tr>
 <tr>
-<td>Canola, oilseed rape</td>
-<td>*Brassica napus* L., *Brassica rapa* L. (= *B. campestris*)</td>
+<td>Canola, oilseed rape, rapeseed</td>
+<td>*Brassica rapa* L. subsp. *campestris* (L.) A.R. Clapham or *B. napus* L. var. *napus*(= *B. napus* L. var. *oleifera* Delile) or *B. juncea* (L.) Czern.</td>
 </tr>
 <tr>
 <td>Canarygrass, annual</td>
@@ -7598,31 +7039,27 @@ PART III
 </tr>
 <tr>
 <td>Clover, sweet (white blossom)</td>
-<td>*Melilotus alba* Medikus</td>
+<td>*Melilotus albus* Medik.</td>
 </tr>
 <tr>
 <td>Clover, sweet (yellow blossom)</td>
-<td>*Melilotus officinalis* (L.) Pallas</td>
+<td>*Melilotus officinalis* (L.) Lam.</td>
 </tr>
 <tr>
 <td>Clover, white</td>
 <td>*Trifolium repens* L.</td>
 </tr>
 <tr>
-<td>Faba bean (small-seeded)</td>
-<td>*Vicia faba minor* L.</td>
-</tr>
-<tr>
 <td>Fescue, meadow (forage type)</td>
-<td>*Festuca**pratensis* Hudson</td>
+<td>*Festuca pratensis* Huds.</td>
 </tr>
 <tr>
 <td>Fescue, red (forage type)</td>
-<td>*Festuca rubra* L. var. *rubra*</td>
+<td>*Festuca rubra* L. subsp. *rubra*</td>
 </tr>
 <tr>
 <td>Fescue, tall (forage type)</td>
-<td>*Festuca arundinacea* Schreber</td>
+<td>*Festuca arundinacea* Schreb.</td>
 </tr>
 <tr>
 <td>Flax (oilseed)</td>
@@ -7630,19 +7067,23 @@ PART III
 </tr>
 <tr>
 <td>Lentil (grain type)</td>
-<td>*Lens culinaris* Medikus</td>
+<td>*Lens culinaris* Medik.</td>
 </tr>
 <tr>
-<td>Lupine (grain and forage types)</td>
+<td>Lupin, lupine (grain and forage types)</td>
 <td>*Lupinus* spp.</td>
 </tr>
 <tr>
-<td>Mustard</td>
-<td>*Brassica juncea* (L.) Czern. & Coss., *Sinapis alba* (L.) (= *B. hirta* Moench)</td>
+<td>Mustard, brown, oriental, Indian</td>
+<td>*Brassica juncea* (L.) Czern.</td>
+</tr>
+<tr>
+<td>Mustard, white (= yellow)</td>
+<td>*Sinapis alba* L.</td>
 </tr>
 <tr>
 <td>Oat (grain type)</td>
-<td>*Avena sativa* L., *Avena nuda* L.</td>
+<td>*Avena sativa* L., *A. nuda* L.</td>
 </tr>
 <tr>
 <td>Orchardgrass</td>
@@ -7670,18 +7111,18 @@ PART III
 </tr>
 <tr>
 <td>Safflower</td>
-<td>*Carthamus tintorius* L.</td>
+<td>*Carthamus tinctorius* L.</td>
 </tr>
 <tr>
 <td>Soybean (oilseed)</td>
-<td>*Glycine max* (L.) Merrill</td>
+<td>*Glycine max* (L.) Merr.</td>
 </tr>
 <tr>
-<td>Sunflower</td>
+<td>Sunflower (non-ornamental)</td>
 <td>*Helianthus annuus* L.</td>
 </tr>
 <tr>
-<td>Timothy (forage type)</td>
+<td>Timothy, common (forage type)</td>
 <td>*Phleum pratense* L.</td>
 </tr>
 <tr>
@@ -7690,63 +7131,63 @@ PART III
 </tr>
 <tr>
 <td>Triticale (grain type)</td>
-<td>*X Triticosecale* Wittmack</td>
+<td>× *Triticosecale* spp.</td>
 </tr>
 <tr>
 <td>Wheat, common</td>
-<td>*Triticum aestivum* L. emend. Fiori & Paol.</td>
+<td>*Triticum aestivum* L.</td>
 </tr>
 <tr>
 <td>Wheat, durum</td>
-<td>*Triticum durum* Desf.</td>
+<td>*Triticum turgidum* L. subsp. *durum* (Desf.) Husn. (= *T. durum* Desf.)</td>
 </tr>
 <tr>
 <td>Wheat, spelt</td>
-<td>*Triticum spelta* L.</td>
+<td>*Triticum aestivum* L. subsp. *spelta* (L.) Thell. (= *T. spelta* L.)</td>
 </tr>
 <tr>
 <td>Wheatgrass, beardless</td>
-<td>*Agropyron spicatum* (Pursh) Scribn. & J.G. Smith f. *inerme* (Scribn. & J.G. Smith) Beetle</td>
+<td>*Pseudoroegneria spicata* (Pursh) Á. Löve (= *Agropyron spicatum* (Pursh) Scribn. & J. G. Smith f. *inerme* (Scribn. & J.G. Smith) Beetle)</td>
 </tr>
 <tr>
 <td>Wheatgrass, crested</td>
-<td>*Agropyron cristatum* (L.) Gaertner, *Agropyron desertorum* (Fischer ex Link) Schult.</td>
+<td>*Agropyron cristatum* (L.) Gaertn. or *A. desertorum* (Fisch. ex Link) Schult.</td>
 </tr>
 <tr>
 <td>Wheatgrass, intermediate</td>
-<td>*Agropyron intermedium* (Host) Beauv.</td>
+<td>*Elytrigia intermedia* (Host) Nevski subsp. *intermedia*(= *Agropyron intermedium* (Host) Beauv.)</td>
 </tr>
 <tr>
 <td>Wheatgrass, northern</td>
-<td>*Agropyron dasystachyum* (Hook.) Scribn.</td>
+<td>*Elymus lanceolatus* (Scribn. & J.G. Sm.) Gould subsp. *lanceolatus* (= *Agropyron dasystachyum* (Hook.) Scribn.)</td>
 </tr>
 <tr>
 <td>Wheatgrass, pubescent</td>
-<td>*Agropyron trichophorum* (Link) Richter</td>
+<td>*Elytrigia intermedia* (Host) Nevski subsp. *intermedia*(= *Agropyron trichophorum* (Link) Richter)</td>
 </tr>
 <tr>
 <td>Wheatgrass, Siberian</td>
-<td>*Agropyron sibiricum* (Willd.) Beauv.</td>
+<td>*Agropyron fragile* (Roth) P. Candargy subsp. *sibiricum* (Willd.) Melderis (= *Agropyron* sibiricum (Willd.) Beauv.)</td>
 </tr>
 <tr>
 <td>Wheatgrass, slender</td>
-<td>*Agropyron trachycaulum* (Link) Malte ex H.F. Lewis</td>
+<td>*Elymus trachycaulus* (Link) Gould ex Shinners (= *Agropyron trachycaulum* (Link) Malte ex H.F. Lewis)</td>
 </tr>
 <tr>
 <td>Wheatgrass, streambank</td>
-<td>*Agropyron riparium* Scribn. & Smith</td>
+<td>*Elymus lanceolatus* (Scribn. & J.G. Sm.) Gould subsp. *lanceolatus* (= *Agropyron riparium* Scribn. & Smith)</td>
 </tr>
 <tr>
 <td>Wheatgrass, tall</td>
-<td>*Agropyron elongatum* (Host) Beauv.</td>
+<td>*Elytrigia elongata* (Host) Nevski (= *Agropyron elongatum* (Host) P. Beauv.)</td>
 </tr>
 <tr>
 <td>Wheatgrass, western</td>
-<td>*Agropyron smithii* Rydb.</td>
+<td>*Pascopyrum smithii* (Rydb.) Á. Löve (= *Agropyron smithii* Rydb.)</td>
 </tr>
 <tr>
 <td>Wildrye, Altai</td>
-<td>*Elymus angustus* Trin.</td>
+<td>*Leymus angustus* (Trin.) Pilg. (= *Elymus angustus* Trin.)</td>
 </tr>
 <tr>
 <td>Wildrye, Dahurian</td>
@@ -7754,12 +7195,11 @@ PART III
 </tr>
 <tr>
 <td>Wildrye, Russian</td>
-<td>*Elymus junceus* Fischer</td>
+<td>*Psathyrostachys juncea* (Fisch.) Nevski (= *Elymus junceus* Fisch.)</td>
 </tr>
 </table>
 
-
->  SOR/97-199, s. 2.
+> SOR/97-199, s. 2; SOR/2007-223, s. 25.
 
 
 
