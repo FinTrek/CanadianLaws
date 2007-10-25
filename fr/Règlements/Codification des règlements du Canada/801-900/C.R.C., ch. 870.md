@@ -17332,439 +17332,407 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <th>Limites de tolérance</th>
 </tr>
 <tr>
-<th> </th>
-</tr>
-<tr>
 <td>C.1</td>
 <td>Silicate double d'aluminium et de calcium</td>
-<td>**(1)** Sel
-
-</td>
-<td>**(1)** 1,0 % sauf pour le sel à fins 2,0 %, conformément aux exigences de l'alinéa B.17.001(1)a).
-
-</td>
+<td>(1)</td>
+<td>Sel</td>
+<td>(1)</td>
+<td>1,0 % sauf pour le sel à fins 2,0 %, conformément aux exigences de l'alinéa B.17.001(1)a).</td>
 </tr>
 <tr>
-<td>**(2)**  Sel d'ail, sel d'oignon
-
-</td>
-<td>**(2)** 2,0 % conformément aux exigences des alinéas B.07.020b) et B.07.02b) respectivement.
-
-</td>
+<td></td>
+<td>(2)</td>
+<td>Sel d'ail, sel d'oignon</td>
+<td>(2)</td>
+<td>2,0 % conformément aux exigences des alinéas B.07.020b) et B.07.02b) respectivement.</td>
 </tr>
 <tr>
-<td>**(3)** Mélanges secs non normalisés
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td></td>
+<td>(3)</td>
+<td>Mélanges secs non normalisés</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>C.2</td>
 <td>Phosphate tricalcique</td>
-<td>**(1)** Sel
-
-</td>
-<td>**(1)** 1,0 %, sauf pour le sel à grains fins, 2,0 %, conformément aux exigences de l'alinéa B.17.001(1)a).
-
-</td>
+<td>(1)</td>
+<td>Sel</td>
+<td>(1)</td>
+<td>1,0 %, sauf pour le sel à grains fins, 2,0 %, conformément aux exigences de l'alinéa B.17.001(1)a).</td>
 </tr>
 <tr>
-<td>**(2)** Sel d'ail, sel d'oignon
-
-</td>
-<td>**(2)** 2,0 % conformément aux exigences des alinéas B.07.020b) et B.07.027b) respectivement.
-
-</td>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Sel d'ail, sel d'oignon</td>
+<td>(2)</td>
+<td>2,0 % conformément aux exigences des alinéas B.07.020b) et B.07.027b) respectivement.</td>
 </tr>
 <tr>
-<td>**(3)** Mélanges de salaison à sec
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td></td>
+<td>(3)</td>
+<td>Mélanges de salaison à sec</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
-<td>**(4)** Mélanges secs non normalisés
-
-</td>
-<td>**(4)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td></td>
+<td>(4)</td>
+<td>Mélanges secs non normalisés</td>
+<td>(4)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
-<td>**(5)** Rocou soluble dans l'huile
-
-</td>
-<td>**(5)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td></td>
+<td>(5)</td>
+<td>Rocou soluble dans l'huile</td>
+<td>(5)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
-<td>**(6)** Sucre à glacer
-
-</td>
-<td>**(6)** Si on l'emploie seul ou avec du silicate de calcium, du carbonate de magnésium, du silicate de magnésium, du stéarate de magnésium, du dioxyde de silicium ou du silicate double d'aluminium et de sodium, le total ne doit pas dépasser 1,5 %
-
-</td>
+<td></td>
+<td></td>
+<td>(6)</td>
+<td>Sucre à glacer</td>
+<td>(6)</td>
+<td>Si on l'emploie seul ou avec du silicate de calcium, du carbonate de magnésium, du silicate de magnésium, du stéarate de magnésium, du dioxyde de silicium ou du silicate double d'aluminium et de sodium, le total ne doit pas dépasser 1,5 %</td>
 </tr>
 <tr>
 <td>C.3</td>
 <td>Silicate de calcium</td>
-<td>**(1)** Sel
-
-</td>
-<td>**(1)** 1,0 %, pour le sel à grains fins, 2,0 %, conformément aux exigences de l'alinéa B.17.001(1)a).
-
-</td>
+<td>(1)</td>
+<td>Sel</td>
+<td>(1)</td>
+<td>1,0 %, pour le sel à grains fins, 2,0 %, conformément aux exigences de l'alinéa B.17.001(1)a).</td>
 </tr>
 <tr>
-<td>**(2)** Sel d'ail, sel d'oignon
-
-</td>
-<td>**(2)** 2,0 % conformément aux exigences des alinéas B.07.020b) et B.07.027b) respectivement.
-
-</td>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Sel d'ail, sel d'oignon</td>
+<td>(2)</td>
+<td>2,0 % conformément aux exigences des alinéas B.07.020b) et B.07.027b) respectivement.</td>
 </tr>
 <tr>
-<td>**(3)** Poudre à pâte
-
-</td>
-<td>**(3)** 5,0 %
-
-</td>
+<td></td>
+<td></td>
+<td>(3)</td>
+<td>Poudre à pâte</td>
+<td>(3)</td>
+<td>5,0 %</td>
 </tr>
 <tr>
-<td>**(4)** Mélange de salaison à sec
-
-</td>
-<td>**(4)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td></td>
+<td>(4)</td>
+<td>Mélange de salaison à sec</td>
+<td>(4)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
-<td>**(5)** Mélanges secs non normalisés
-
-</td>
-<td>**(5)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td></td>
+<td>(5)</td>
+<td>Mélanges secs non normalisés</td>
+<td>(5)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
-<td>**(6)** Sucre à glacer
-
-</td>
-<td>**(6)** Si on l'emploie seul ou avec du phosphate tricalcique, du carbonate de magnésium, du silicate de magnésium, du stéarate de magnésium, du dioxyde de silicium ou du silicate double d'aluminium et de sodium, le total ne doit pas dépasser 1,5 %
-
-</td>
+<td></td>
+<td></td>
+<td>(6)</td>
+<td>Sucre à glacer</td>
+<td>(6)</td>
+<td>Si on l'emploie seul ou avec du phosphate tricalcique, du carbonate de magnésium, du silicate de magnésium, du stéarate de magnésium, du dioxyde de silicium ou du silicate double d'aluminium et de sodium, le total ne doit pas dépasser 1,5 %</td>
 </tr>
 <tr>
-<td>**(7)** Liant à viande ou liant à (nom du produit de viande)
-
-</td>
-<td>**(7)** 1,0 %
-
-</td>
+<td></td>
+<td></td>
+<td>(7)</td>
+<td>Liant à viande ou liant à (nom du produit de viande)</td>
+<td>(7)</td>
+<td>1,0 %</td>
 </tr>
 <tr>
-<td>**(8)** Fromage râpé fin ou en filaments (indication de la variété); fromage cheddar râpé fin ou en filaments; préparations de fromage râpé fin ou en filaments non normalisées
-
-</td>
-<td>**(8)** Si on l'emploie seul ou avec la cellulose microcrystalline ou la cellulose, la quantité totale n'excédant pas 2,0 %
-
-</td>
+<td></td>
+<td></td>
+<td>(8)</td>
+<td>Fromage râpé fin ou en filaments (indication de la variété); fromage cheddar râpé fin ou en filaments; préparations de fromage râpé fin ou en filaments non normalisées</td>
+<td>(8)</td>
+<td>Si on l'emploie seul ou avec la cellulose microcrystalline ou la cellulose, la quantité totale n'excédant pas 2,0 %</td>
 </tr>
 <tr>
-<td>**(9)** La poudre d'oeuf entier; la poudre de blanc d'oeuf (poudre d'albumen); la poudre de jaune d'oeuf; le mélange de poudre d'oeuf entier; le mélange de poudre de jaune d'oeuf
-
-</td>
-<td>**(9)** 2,0 %
-
-</td>
+<td></td>
+<td></td>
+<td>(9)</td>
+<td>La poudre d'oeuf entier; la poudre de blanc d'oeuf (poudre d'albumen); la poudre de jaune d'oeuf; le mélange de poudre d'oeuf entier; le mélange de poudre de jaune d'oeuf</td>
+<td>(9)</td>
+<td>2,0 %</td>
 </tr>
 <tr>
 <td>C.4</td>
 <td>Stéarate de calcium</td>
-<td>**(1)** Sel
-
-</td>
-<td>**(1)** 1,0 %, sauf pour le sel à grains fins 2,0 %, conformément aux exigences de l'alinéa B.17.001(1)a).
-
-</td>
+<td>(1)</td>
+<td>Sel</td>
+<td>(1)</td>
+<td>1,0 %, sauf pour le sel à grains fins 2,0 %, conformément aux exigences de l'alinéa B.17.001(1)a).</td>
 </tr>
 <tr>
-<td>**(2)** Sel d'ail, sel d'oignon
-
-</td>
-<td>**(2)** 2,0 % conformément aux exigences des alinéas B.07.020b) et B.07.027b) respectivement.
-
-</td>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Sel d'ail, sel d'oignon</td>
+<td>(2)</td>
+<td>2,0 % conformément aux exigences des alinéas B.07.020b) et B.07.027b) respectivement.</td>
 </tr>
 <tr>
-<td>**(3)** Mélanges secs non normalisés
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td></td>
+<td>(3)</td>
+<td>Mélanges secs non normalisés</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>C.5</td>
 <td>Cellulose</td>
-<td>Fromage râpé fin ou en filaments (indication de la variété); fromage cheddar râpé fin ou en filaments; préparations de fromage râpé fin ou en filaments non normalisées
-
-</td>
-<td>Si on l'emploie seul ou avec le silicate de calcium ou la cellulose microcristalline, la quantité totale n'excédant pas 2,0 %
-
-</td>
+<td></td>
+<td>Fromage râpé fin ou en filaments (indication de la variété); fromage cheddar râpé fin ou en filaments; préparations de fromage râpé fin ou en filaments non normalisées</td>
+<td></td>
+<td>Si on l'emploie seul ou avec le silicate de calcium ou la cellulose microcristalline, la quantité totale n'excédant pas 2,0 %</td>
 </tr>
 <tr>
 <td>M.1</td>
 <td>Carbonate de magnésium</td>
-<td>**(1)** Sel (sauf si employé dans les préparations de viande et de sous-produits de viande du Titre 14)
-
-</td>
-<td>**(1)** 1,0 % pour le sel à grains fins 2,0 %, conformément aux exigences de l'alinéa B.17.001(1)a).
-
-</td>
+<td>(1)</td>
+<td>Sel (sauf si employé dans les préparations de viande et de sous-produits de viande du Titre 14)</td>
+<td>(1)</td>
+<td>1,0 % pour le sel à grains fins 2,0 %, conformément aux exigences de l'alinéa B.17.001(1)a).</td>
 </tr>
 <tr>
-<td>**(2)** Sel d'ail, sel d'oignon (sauf si employé dans les préparations de viande et de sous-produits de viande du Titre 14)
-
-</td>
-<td>**(2)** 2,0 % conformément aux exigences des alinéas B.07.020b) et B.07.027b) respectivement.
-
-</td>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Sel d'ail, sel d'oignon (sauf si employé dans les préparations de viande et de sous-produits de viande du Titre 14)</td>
+<td>(2)</td>
+<td>2,0 % conformément aux exigences des alinéas B.07.020b) et B.07.027b) respectivement.</td>
 </tr>
 <tr>
-<td>**(3)** Mélanges secs non normalisés (sauf lorsqu'il est utilisé dans les préparations de viande et de sous-produits de la viande du Titre 14)
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td></td>
+<td>(3)</td>
+<td>Mélanges secs non normalisés (sauf lorsqu'il est utilisé dans les préparations de viande et de sous-produits de la viande du Titre 14)</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
-<td>**(4)** Sucre à glacer
-
-</td>
-<td>**(4)** Si on l'emploie seul ou avec du phosphate tricalcique, du silicate de calcium, du silicate de magnésium, du stéarate de magnésium, du dioxyde de silicium ou du silicate double d'aluminium et de sodium, le total ne doit pas dépasser 1,5 %
-
-</td>
+<td></td>
+<td></td>
+<td>(4)</td>
+<td>Sucre à glacer</td>
+<td>(4)</td>
+<td>Si on l'emploie seul ou avec du phosphate tricalcique, du silicate de calcium, du silicate de magnésium, du stéarate de magnésium, du dioxyde de silicium ou du silicate double d'aluminium et de sodium, le total ne doit pas dépasser 1,5 %</td>
 </tr>
 <tr>
 <td>M.2</td>
 <td>Oxyde de magnésium</td>
-<td>Mélanges secs non normalisés (sauf lorsqu'il est utilisé dans les préparations de viande et de sous-produits de la viande du Titre 14)
-
-</td>
-<td>Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>Mélanges secs non normalisés (sauf lorsqu'il est utilisé dans les préparations de viande et de sous-produits de la viande du Titre 14)</td>
+<td></td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>M.3</td>
 <td>Silicate de magnésium</td>
-<td>**(1)** Sel
-
-</td>
-<td>**(1)** 1,0 %, sauf pour le sel à grains fins 2,0 %, conformément aux exigences de l'alinéa B.17.001(1)a).
-
-</td>
+<td>(1)</td>
+<td>Sel</td>
+<td>(1)</td>
+<td>1,0 %, sauf pour le sel à grains fins 2,0 %, conformément aux exigences de l'alinéa B.17.001(1)a).</td>
 </tr>
 <tr>
-<td>**(2)** Sel d'ail et d'oignon
-
-</td>
-<td>**(2)** 2,0 % conformément aux exigences des alinéas B.07.020b) et B.07.027b) respectivement.
-
-</td>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Sel d'ail et d'oignon</td>
+<td>(2)</td>
+<td>2,0 % conformément aux exigences des alinéas B.07.020b) et B.07.027b) respectivement.</td>
 </tr>
 <tr>
-<td>**(3)** Mélanges secs non normalisés
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td></td>
+<td>(3)</td>
+<td>Mélanges secs non normalisés</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
-<td>**(4)** Sucre à glacer
-
-</td>
-<td>**(4)** Si on l'emploie seul ou avec du phosphate tricalcique, du silicate de calcium, du carbonate de magnésium, du stéarate de magnésium, du dioxyde de silicium ou du silicate double d'aluminium et de sodium, le total ne doit pas dépasser 1,5 %
-
-</td>
+<td></td>
+<td></td>
+<td>(4)</td>
+<td>Sucre à glacer</td>
+<td>(4)</td>
+<td>Si on l'emploie seul ou avec du phosphate tricalcique, du silicate de calcium, du carbonate de magnésium, du stéarate de magnésium, du dioxyde de silicium ou du silicate double d'aluminium et de sodium, le total ne doit pas dépasser 1,5 %</td>
 </tr>
 <tr>
 <td>M.4</td>
 <td>Stéarate de magnésium</td>
-<td>**(1)** Sel
-
-</td>
-<td>**(1)** 1,0 %, sauf pour le sel à grains fins 2,0 %, conformément aux exigences de l'alinéa B.17.001(1)a).
-
-</td>
+<td>(1)</td>
+<td>Sel</td>
+<td>(1)</td>
+<td>1,0 %, sauf pour le sel à grains fins 2,0 %, conformément aux exigences de l'alinéa B.17.001(1)a).</td>
 </tr>
 <tr>
-<td>**(2)** Sel d'ail, sel d'oignon
-
-</td>
-<td>**(2)** 2,0 % conformément aux exigences des alinéas B.07.020b) et B.07.027b) respectivement.
-
-</td>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Sel d'ail, sel d'oignon</td>
+<td>(2)</td>
+<td>2,0 % conformément aux exigences des alinéas B.07.020b) et B.07.027b) respectivement.</td>
 </tr>
 <tr>
-<td>**(3)** Mélanges secs non normalisés
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td></td>
+<td>(3)</td>
+<td>Mélanges secs non normalisés</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
-<td>**(4)** Sucre à glacer
-
-</td>
-<td>**(4)** Si on l'emploie seul ou avec du phosphate tricalcique, du silicate de calcium, du carbonate de magnésium, du silicate de magnésium, du dioxyde de silicium ou du silicate double d'aluminium et de sodium, le total ne doit pas dépasser 1,5 %
-
-</td>
+<td></td>
+<td></td>
+<td>(4)</td>
+<td>Sucre à glacer</td>
+<td>(4)</td>
+<td>Si on l'emploie seul ou avec du phosphate tricalcique, du silicate de calcium, du carbonate de magnésium, du silicate de magnésium, du dioxyde de silicium ou du silicate double d'aluminium et de sodium, le total ne doit pas dépasser 1,5 %</td>
 </tr>
 <tr>
 <td>M.5</td>
 <td>Cellulose microcristalline</td>
-<td>Fromage râpé fin ou en filaments (indication de la variété); fromage cheddar râpé fin ou en filaments; préparations de fromage râpé fin ou en filaments non normalisées
-
-</td>
-<td>Si on l'emploie seul ou avec le silicate de calcium ou la cellulose, la quantité totale n'excédant pas 2,0 %
-
-</td>
+<td></td>
+<td>Fromage râpé fin ou en filaments (indication de la variété); fromage cheddar râpé fin ou en filaments; préparations de fromage râpé fin ou en filaments non normalisées</td>
+<td></td>
+<td>Si on l'emploie seul ou avec le silicate de calcium ou la cellulose, la quantité totale n'excédant pas 2,0 %</td>
 </tr>
 <tr>
 <td>P.1</td>
 <td>Propylèneglycol</td>
-<td>Sel
-
-</td>
-<td>0,035 %
-
-</td>
+<td></td>
+<td>Sel</td>
+<td></td>
+<td>0,035 %</td>
 </tr>
 <tr>
 <td>S.1</td>
 <td>Bioxyde de silicium</td>
-<td>**(1)** Sel d'ail; sel d'oignon
-
-</td>
-<td>**(1)** 1,0 % conformément aux exigences des alinéas B.07.020b) et B.07.027b) respectivement.
-
-</td>
+<td>(1)</td>
+<td>Sel d'ail; sel d'oignon</td>
+<td>(1)</td>
+<td>1,0 % conformément aux exigences des alinéas B.07.020b) et B.07.027b) respectivement.</td>
 </tr>
 <tr>
-<td>**(2)** Sel de céleri; poivre de céleri
-
-</td>
-<td>**(2)** 0,5 %.
-
-</td>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Sel de céleri; poivre de céleri</td>
+<td>(2)</td>
+<td>0,5 %.</td>
 </tr>
 <tr>
-<td>**(3)** Mélanges secs non normalisés
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles.
-
-</td>
+<td></td>
+<td></td>
+<td>(3)</td>
+<td>Mélanges secs non normalisés</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles.</td>
 </tr>
 <tr>
-<td>**(4)** Sucre à glacer
-
-</td>
-<td>**(4)** Si on l'emploie seul ou avec du phosphate tricalcique, du silicate de calcium, du carbonate de magnésium, du silicate de magnésium, du stéarate de magnésium ou du silicate double d'aluminium et de sodium, le total ne doit pas dépasser 1,5 %.
-
-</td>
+<td></td>
+<td></td>
+<td>(4)</td>
+<td>Sucre à glacer</td>
+<td>(4)</td>
+<td>Si on l'emploie seul ou avec du phosphate tricalcique, du silicate de calcium, du carbonate de magnésium, du silicate de magnésium, du stéarate de magnésium ou du silicate double d'aluminium et de sodium, le total ne doit pas dépasser 1,5 %.</td>
 </tr>
 <tr>
-<td>**(5)** Aliments vendus sous forme de comprimés
-
-</td>
-<td>**(5)** Bonnes pratiques industrielles.
-
-</td>
+<td></td>
+<td></td>
+<td>(5)</td>
+<td>Aliments vendus sous forme de comprimés</td>
+<td>(5)</td>
+<td>Bonnes pratiques industrielles.</td>
 </tr>
 <tr>
-<td>**(6)** Poivre de cayenne; chili; assaisonnement au chili; paprika; poivre rouge
-
-</td>
-<td>**(6)** 2,0 %.
-
-</td>
+<td></td>
+<td></td>
+<td>(6)</td>
+<td>Poivre de cayenne; chili; assaisonnement au chili; paprika; poivre rouge</td>
+<td>(6)</td>
+<td>2,0 %.</td>
 </tr>
 <tr>
-<td>**(7)** Sel
-
-</td>
-<td>**(7)** 1,0 % (sauf pour le sel à grains fins : 2,0 %) conformément aux exigences de l'alinéa B.17.001(1)a)
-
-</td>
+<td></td>
+<td></td>
+<td>(7)</td>
+<td>Sel</td>
+<td>(7)</td>
+<td>1,0 % (sauf pour le sel à grains fins : 2,0 %) conformément aux exigences de l'alinéa B.17.001(1)a)</td>
 </tr>
 <tr>
 <td>S.2</td>
 <td>Silicate double d'aluminium et de sodium</td>
-<td>**(1)** Sel
-
-</td>
-<td>**(1)** 1,0 %, sauf pour le sel à grains fins 2,0 %, conformément aux exigences de l'alinéa B.17.001(1)a).
-
-</td>
+<td>(1)</td>
+<td>Sel</td>
+<td>(1)</td>
+<td>1,0 %, sauf pour le sel à grains fins 2,0 %, conformément aux exigences de l'alinéa B.17.001(1)a).</td>
 </tr>
 <tr>
-<td>**(2)** Sucre à glacer
-
-</td>
-<td>**(2)** Si on l'emploie seul ou avec du phosphate tricalcique, du silicate de calcium, du carbonate de magnésium, du silicate de magnésium, du stéarate de magnésium ou du dioxyde de silicium, le total ne doit pas dépasser 1,5 %.
-
-</td>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Sucre à glacer</td>
+<td>(2)</td>
+<td>Si on l'emploie seul ou avec du phosphate tricalcique, du silicate de calcium, du carbonate de magnésium, du silicate de magnésium, du stéarate de magnésium ou du dioxyde de silicium, le total ne doit pas dépasser 1,5 %.</td>
 </tr>
 <tr>
-<td>**(3)** La poudre d'oeuf entier; la poudre de blanc d'oeuf (poudre d'albumen); la poudre de jaune d'oeuf; le mélange de poudre d'oeuf entier, le mélange de poudre de jaune d'oeuf
-
-</td>
-<td>**(3)** 2,0 %
-
-</td>
+<td></td>
+<td></td>
+<td>(3)</td>
+<td>La poudre d'oeuf entier; la poudre de blanc d'oeuf (poudre d'albumen); la poudre de jaune d'oeuf; le mélange de poudre d'oeuf entier, le mélange de poudre de jaune d'oeuf</td>
+<td>(3)</td>
+<td>2,0 %</td>
 </tr>
 <tr>
-<td>**(4)** Sel d'ail, sel d'oignon
-
-</td>
-<td>**(4)** 2,0 %, conformément aux exigences des alinéas B.07.020b) et B.07.027b) respectivement.
-
-</td>
+<td></td>
+<td></td>
+<td>(4)</td>
+<td>Sel d'ail, sel d'oignon</td>
+<td>(4)</td>
+<td>2,0 %, conformément aux exigences des alinéas B.07.020b) et B.07.027b) respectivement.</td>
 </tr>
 <tr>
-<td>**(5)** Mélanges secs non normalisés
-
-</td>
-<td>**(5)** Bonnes pratiques industrielles.
-
-</td>
+<td></td>
+<td></td>
+<td>(5)</td>
+<td>Mélanges secs non normalisés</td>
+<td>(5)</td>
+<td>Bonnes pratiques industrielles.</td>
 </tr>
 <tr>
 <td>S.3</td>
 <td>Decahydrate ferrocyanure de sodium</td>
-<td>Sel
-
-</td>
-<td>13 p.p.m. calculé en ferrocyanure de sodium anhydre
-
-</td>
+<td></td>
+<td>Sel</td>
+<td></td>
+<td>13 p.p.m. calculé en ferrocyanure de sodium anhydre</td>
 </tr>
 </table>
 
->  DORS/79-662, art. 3 à 13; DORS/82-913, art. 4; DORS/83-410, art. 2; DORS/84-17, art. 5; DORS/84-801, art. 2; DORS/86-1125, art. 1; DORS/88-534, art. 4; DORS/91-88, art. 3 et 4; DORS/93-477, art. 3 à 5; DORS/94-689, art. 2(F); DORS/97-191, art. 3..
+> DORS/79-662, art. 3 à 13; DORS/82-913, art. 4; DORS/83-410, art. 2; DORS/84-17, art. 5; DORS/84-801, art. 2; DORS/86-1125, art. 1; DORS/88-534, art. 4; DORS/91-88, art. 3 et 4; DORS/93-477, art. 3 à 5; DORS/94-689, art. 2(F); DORS/97-191, art. 3..
 
 
 
@@ -17784,25 +17752,20 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <th>Limites de tolérance</th>
 </tr>
 <tr>
-<th> </th>
-</tr>
-<tr>
 <td>A.1</td>
 <td>Peroxyde d'acétone</td>
-<td>**(1)** Farine; farine de blé entier; pain
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Farine; farine de blé entier; pain</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
-<td>**(2)** Produits de boulangerie non normalisés
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Produits de boulangerie non normalisés</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>A.1A</td>
@@ -17811,48 +17774,41 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <tr>
 <td>A.2</td>
 <td>Persulfate d'ammonium</td>
-<td>**(1)** Farine; farine de blé entier  (2)Pain
-
-</td>
-<td>**(1)** 250 p.p.m.  (2)100 p.p.m. de farine
-
-</td>
+<td>(1)</td>
+<td>Farine; farine de blé entier</td>
+<td>(1)</td>
+<td>250 p.p.m.</td>
 </tr>
 <tr>
-<td>**(2)** Pain
-
-</td>
-<td>**(2)** 100 p.p.m. de farine
-
-</td>
+<td></td>
+<td>(2)</td>
+<td>Pain</td>
+<td>(2)</td>
+<td>100 p.p.m. de farine</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Produits de boulangerie non normalisés
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td>(3)</td>
+<td>Produits de boulangerie non normalisés</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>A.2A</td>
 <td>Acide ascorbique</td>
-<td>**(1)** Farine; farine de blé entier; pain
-
-</td>
-<td>**(1)** 200 p.p.m. de farine
-
-</td>
+<td>(1)</td>
+<td>Farine; farine de blé entier; pain</td>
+<td>(1)</td>
+<td>200 p.p.m. de farine</td>
 </tr>
 <tr>
-<td>**(2)** Produits de boulangerie non normalisés
-
-</td>
-<td>**(2)** 200 p.p.m. de farine
-
-</td>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Produits de boulangerie non normalisés</td>
+<td>(2)</td>
+<td>200 p.p.m. de farine</td>
 </tr>
 <tr>
 <td>A.3</td>
@@ -17865,122 +17821,103 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <tr>
 <td>A.4</td>
 <td>Azodicarbonamide</td>
-<td>Farine; farine de blé entier; pain
-
-</td>
-<td>45 p.p.m. de farine
-
-</td>
+<td></td>
+<td>Farine; farine de blé entier; pain</td>
+<td></td>
+<td>45 p.p.m. de farine</td>
 </tr>
 <tr>
 <td>B.1</td>
 <td>Peroxyde de benzoyle</td>
-<td>Farine; farine de blé entier
-
-</td>
-<td>150 p.p.m.
-
-</td>
+<td></td>
+<td>Farine; farine de blé entier</td>
+<td></td>
+<td>150 p.p.m.</td>
 </tr>
 <tr>
 <td>C.1</td>
 <td>Iodate de calcium</td>
-<td>**(1)** Pain
-
-</td>
-<td>**(1)** 45 p.p.m. de farine
-
-</td>
+<td>(1)</td>
+<td>Pain</td>
+<td>(1)</td>
+<td>45 p.p.m. de farine</td>
 </tr>
 <tr>
-<td>**(2)** Produits de boulangerie non normalisés
-
-</td>
-<td>**(2)** 45 p.p.m. de farine
-
-</td>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Produits de boulangerie non normalisés</td>
+<td>(2)</td>
+<td>45 p.p.m. de farine</td>
 </tr>
 <tr>
 <td>C.2</td>
 <td>Peroxyde de calcium</td>
-<td>**(1)** Pain
-
-</td>
-<td>**(1)** 100 p.p.m. de farine
-
-</td>
+<td>(1)</td>
+<td>Pain</td>
+<td>(1)</td>
+<td>100 p.p.m. de farine</td>
 </tr>
 <tr>
-<td>**(2)** Produits de boulangerie non normalisés
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(2)</td>
+<td>Produits de boulangerie non normalisés</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>C.3</td>
 <td>Stéaroyl-2-lactylate de calcium</td>
-<td>**(1)** Pain
-
-</td>
-<td>**(1)** 3 750 p.p.m. de farine
-
-</td>
+<td>(1)</td>
+<td>Pain</td>
+<td>(1)</td>
+<td>3 750 p.p.m. de farine</td>
 </tr>
 <tr>
-<td>**(2)** Produits de boulangerie non normalisés
-
-</td>
-<td>**(2)** 3 750 p.p.m. de farine
-
-</td>
+<td></td>
+<td>(2)</td>
+<td>Produits de boulangerie non normalisés</td>
+<td>(2)</td>
+<td>3 750 p.p.m. de farine</td>
 </tr>
 <tr>
-<td>**(3)** Mélanges à gâteaux
-
-</td>
-<td>**(3)** 0,5 % du poids sec du mélange
-
-</td>
+<td></td>
+<td></td>
+<td>(3)</td>
+<td>Mélanges à gâteaux</td>
+<td>(3)</td>
+<td>0,5 % du poids sec du mélange</td>
 </tr>
 <tr>
 <td>C.4</td>
 <td>Chlore</td>
-<td>Farine; farine de blé entier
-
-</td>
-<td>Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>Farine; farine de blé entier</td>
+<td></td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>C.5</td>
 <td>Bioxyde de chlore</td>
-<td>Farine; farine de blé entier
-
-</td>
-<td>Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>Farine; farine de blé entier</td>
+<td></td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>C.6</td>
 <td>Chlorhydrate de L-cystéine</td>
-<td>**(1)** Farine; farine de blé entier; pain
-
-</td>
-<td>**(1)** 90 p.p.m.
-
-</td>
+<td>(1)</td>
+<td>Farine; farine de blé entier; pain</td>
+<td>(1)</td>
+<td>90 p.p.m.</td>
 </tr>
 <tr>
-<td>**(2)** Produits de boulangerie non normalisés
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(2)</td>
+<td>Produits de boulangerie non normalisés</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>P.1</td>
@@ -17989,108 +17926,96 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <tr>
 <td>P.2</td>
 <td>Iodate de potassium</td>
-<td>**(1)** Pain
-
-</td>
-<td>**(1)** 45 p.p.m. de farine
-
-</td>
+<td>(1)</td>
+<td>Pain</td>
+<td>(1)</td>
+<td>45 p.p.m. de farine</td>
 </tr>
 <tr>
-<td>**(2)** Produits de boulangerie non normalisés
-
-</td>
-<td>**(2)** 45 p.p.m. de farine
-
-</td>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Produits de boulangerie non normalisés</td>
+<td>(2)</td>
+<td>45 p.p.m. de farine</td>
 </tr>
 <tr>
 <td>P.3</td>
 <td>Persulfate de potassium</td>
-<td>**(1)** Pain
-
-</td>
-<td>**(1)** 100 p.p.m. de farine
-
-</td>
+<td>(1)</td>
+<td>Pain</td>
+<td>(1)</td>
+<td>100 p.p.m. de farine</td>
 </tr>
 <tr>
-<td>**(2)** Produits de boulangerie non normalisés
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Produits de boulangerie non normalisés</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>S.1</td>
 <td>Stéaroyl-2-lactylate de sodium</td>
-<td>**(1)** Pain
-
-</td>
-<td>**(1)** 3 750 p.p.m. de farine
-
-</td>
+<td>(1)</td>
+<td>Pain</td>
+<td>(1)</td>
+<td>3 750 p.p.m. de farine</td>
 </tr>
 <tr>
-<td>**(2)** Produits de boulangerie non normalisés
-
-</td>
-<td>**(2)** 3 750 p.p.m. de farine
-
-</td>
+<td></td>
+<td>(2)</td>
+<td>Produits de boulangerie non normalisés</td>
+<td>(2)</td>
+<td>3 750 p.p.m. de farine</td>
 </tr>
 <tr>
-<td>**(3)** Crêpes et mélanges à crêpes
-
-</td>
-<td>**(3)** 0,3 % du poids des ingrédients secs
-
-</td>
+<td></td>
+<td></td>
+<td>(3)</td>
+<td>Crêpes et mélanges à crêpes</td>
+<td>(3)</td>
+<td>0,3 % du poids des ingrédients secs</td>
 </tr>
 <tr>
-<td>**(4)** Gaufres et mélanges à gaufres
-
-</td>
-<td>**(4)** 0,3 % du poids des ingrédients secs
-
-</td>
+<td></td>
+<td></td>
+<td>(4)</td>
+<td>Gaufres et mélanges à gaufres</td>
+<td>(4)</td>
+<td>0,3 % du poids des ingrédients secs</td>
 </tr>
 <tr>
-<td>**(5)** Mélanges à gâteaux
-
-</td>
-<td>**(5)** 0,5 % du poids sec du mélange
-
-</td>
+<td></td>
+<td></td>
+<td>(5)</td>
+<td>Mélanges à gâteaux</td>
+<td>(5)</td>
+<td>0,5 % du poids sec du mélange</td>
 </tr>
 <tr>
 <td>S.2</td>
 <td>Stéaryl-fumarate de sodium</td>
-<td>**(1)** Pain
-
-</td>
-<td>**(1)** 5 000 p.p.m. de farine
-
-</td>
+<td>(1)</td>
+<td>Pain</td>
+<td>(1)</td>
+<td>5 000 p.p.m. de farine</td>
 </tr>
 <tr>
-<td>**(2)** Produits de boulangerie non normalisés
-
-</td>
-<td>**(2)** 5 000 p.p.m. de farine
-
-</td>
+<td></td>
+<td>(2)</td>
+<td>Produits de boulangerie non normalisés</td>
+<td>(2)</td>
+<td>5 000 p.p.m. de farine</td>
 </tr>
 <tr>
 <td>S.3</td>
 <td>Sulfite de sodium</td>
-<td>Pâte à biscuit
-
-</td>
-<td>500 p.p.m., calculé en bioxyde de soufre
-
-</td>
+<td></td>
+<td>Pâte à biscuit</td>
+<td></td>
+<td>500 p.p.m., calculé en bioxyde de soufre</td>
 </tr>
 </table>
 
@@ -18114,349 +18039,443 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <th>Limites de tolérance</th>
 </tr>
 <tr>
-<th> </th>
-</tr>
-<tr>
 <td>1</td>
-<td>Aluminium métallique
-
-Orcanette
-
-Rocou
-
-Anthocyanines
-
-Rouge de betterave
-
-Canthaxanthine
-
-Noir actif
-
-Carotène
-
-Charbon de bois
-
-Chlorophylle
-
-Cochenille
-
-Oxyde de fer
-
-Orseille
-
-Paprika
-
-Riboflavine
-
-Safran
-
-Bois de santal
-
-Argent métallique
-
-Bioxyde de titane
-
-Curcuma
-
-Xanthophylle
-
-</td>
-<td>**(1)** Confiture de pommes (ou de rhubarbe) et de (nom du fruit); pain; beurre; jus de fruit concentré sauf le jus d'orange concentré congelé; marmelade de figues avec pectine; mélange pour crème glacée; mélange pour lait glacé; sucre à glacer; confiture de (nom du fruit) avec pectine; gelée de (nom du fruit) avec pectine; liqueurs et cordiaux alcoolisés; lait (indication de l'arôme); marinades et achards (relish); marmelade d'ananas avec pectine; sorbet laitier; lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait écrémé (indication de l'arôme) additionné de solides du lait; lait partiellement écrémé (indication de l'arôme) additionné de solides du lait; poisson fumé; pâte de homard et oeufs de poisson (caviar); ketchup de tomates; poisson et viande emballés, marinés ou conditionnés à froid par une autre méthode analogue (Titre 21)
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>Aluminium métallique</td>
+<td>(1)</td>
+<td>Confiture de pommes (ou de rhubarbe) et de (nom du fruit); pain; beurre; jus de fruit concentré sauf le jus d'orange concentré congelé; marmelade de figues avec pectine; mélange pour crème glacée; mélange pour lait glacé; sucre à glacer; confiture de (nom du fruit) avec pectine; gelée de (nom du fruit) avec pectine; liqueurs et cordiaux alcoolisés; lait (indication de l'arôme); marinades et achards (relish); marmelade d'ananas avec pectine; sorbet laitier; lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait écrémé (indication de l'arôme) additionné de solides du lait; lait partiellement écrémé (indication de l'arôme) additionné de solides du lait; poisson fumé; pâte de homard et oeufs de poisson (caviar); ketchup de tomates; poisson et viande emballés, marinés ou conditionnés à froid par une autre méthode analogue (Titre 21)</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
-<td>**(2)** L'oeuf entier liquide ou congelé, la poudre d'oeuf entier; le jaune d'oeuf liquide ou congelé, la poudre de jaune d'oeuf
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles selon les alinéas B.22.034b) et B.22.035b)
-
-</td>
+<td></td>
+<td>Orcanette</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>**(3)** Aliments non normalisés
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>Rocou</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>**(4)** Les graisses et huiles végétales
-
-</td>
-<td>**(4)** Bonnes pratiques industrielles selon l'article B.09.001
-
-</td>
+<td></td>
+<td>Anthocyanines</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>**(5)** Margarine
-
-</td>
-<td>**(5)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>Rouge de betterave</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>**(6)** Fromage (indication de la variété); fromage cheddar; fromage à la crème (avec indication des ingrédients ajoutés); fromage à la crème à tartiner, fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés); fromage conditionné à froid (indication de la variété); fromage conditionné à froid (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage conditionné à froid; préparation de fromage conditionné à froid (avec indication des ingrédients ajoutés)
-
-</td>
-<td>**(6)** Bonnes pratiques industrielles, conformément aux exigences des articles B.08.033, B.08.034, B.08.037, B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3, B.08.041.4, B.08.041.5, B.08.041.6, B.08.041.7, et B.08.041.8.
-
-</td>
+<td></td>
+<td>Canthaxanthine</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>**(7)** Mélange de poisson et de viande préparés visé à l'alinéa B.21.006n)
-
-</td>
-<td>**(7)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>Noir actif</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>**(8)** Longaniza;  Tocino
-
-</td>
-<td>**(8)** 0,1 % conformément aux exigences de l'alinéa B.14.031i) ou du sous-alinéa B.14.032d)(xvi)
-
-</td>
+<td></td>
+<td>Carotène</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>**(9)** Pellicule de collagène comestible (oxyde de fer seulement)
-
-</td>
-<td>**(9)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>Charbon de bois</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>**(10)** Boyaux de saucisse (rocou seulement)
-
-</td>
-<td>**(10)** 1,0 % (les résidus de rocou dans les saucisses préparées avec ces boyaux ne doivent pas dépasser 100 p.p.m.)
-
-</td>
+<td></td>
+<td>Chlorophylle</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>**(11)** Boyaux de saucisse (cochenille seulement)
-
-</td>
-<td>**(11)** 0,75 % (les résidus de cochenille dans les saucisses préparées avec ces boyaux ne doivent pas dépasser 75 p.p.m.)
-
-</td>
+<td></td>
+<td>Cochenille</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Oxyde de fer</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Orseille</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Paprika</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Riboflavine</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Safran</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Bois de santal</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Argent métallique</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Bioxyde de titane</td>
+<td>(2)</td>
+<td>L'oeuf entier liquide ou congelé, la poudre d'oeuf entier; le jaune d'oeuf liquide ou congelé, la poudre de jaune d'oeuf</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles selon les alinéas B.22.034b) et B.22.035b)</td>
+</tr>
+<tr>
+<td></td>
+<td>Curcuma</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>Xanthophylle</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(3)</td>
+<td>Aliments non normalisés</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(4)</td>
+<td>Les graisses et huiles végétales</td>
+<td>(4)</td>
+<td>Bonnes pratiques industrielles selon l'article B.09.001</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(5)</td>
+<td>Margarine</td>
+<td>(5)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(6)</td>
+<td>Fromage (indication de la variété); fromage cheddar; fromage à la crème (avec indication des ingrédients ajoutés); fromage à la crème à tartiner, fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés); fromage conditionné à froid (indication de la variété); fromage conditionné à froid (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage conditionné à froid; préparation de fromage conditionné à froid (avec indication des ingrédients ajoutés)</td>
+<td>(6)</td>
+<td>Bonnes pratiques industrielles, conformément aux exigences des articles B.08.033, B.08.034, B.08.037, B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3, B.08.041.4, B.08.041.5, B.08.041.6, B.08.041.7, et B.08.041.8.</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(7)</td>
+<td>Mélange de poisson et de viande préparés visé à l'alinéa B.21.006n)</td>
+<td>(7)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(8)</td>
+<td>Longaniza; Tocino</td>
+<td>(8)</td>
+<td>0,1 % conformément aux exigences de l'alinéa B.14.031i) ou du sous-alinéa B.14.032d)(xvi)</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(9)</td>
+<td>Pellicule de collagène comestible (oxyde de fer seulement)</td>
+<td>(9)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(10)</td>
+<td>Boyaux de saucisse (rocou seulement)</td>
+<td>(10)</td>
+<td>1,0 % (les résidus de rocou dans les saucisses préparées avec ces boyaux ne doivent pas dépasser 100 p.p.m.)</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(11)</td>
+<td>Boyaux de saucisse (cochenille seulement)</td>
+<td>(11)</td>
+<td>0,75 % (les résidus de cochenille dans les saucisses préparées avec ces boyaux ne doivent pas dépasser 75 p.p.m.)</td>
 </tr>
 <tr>
 <td>1A</td>
-<td>ß-apo-8′-  Caroténal  Ester éthylique de l'acide* ß*-apo-8′-caroténoique</td>
-<td>**(1)** Confiture de pommes (ou de rhubarbe) et de (nom du fruit); pain; beurre; jus de fruit concentré sauf le jus d'orange concentré congelé; marmelade de figues avec pectine; mélange pour crème glacée; mélange pour lait glacé; sucre à glacer; confiture de (nom du fruit) avec pectine; gelée de (nom du fruit) avec pectine; liqueurs et cordiaux alcooliques; margarine; lait (indication de l'arôme); marinades et achards (relish); marmelade d'ananas avec pectine; sorbet laitier; lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait écrémé (indication de l'arôme) additionné de solides du lait; lait partiellement écrémé (indication de l'arôme) additionné de solides du lait; poisson fumé; pâte de homard et oeufs de poisson (caviar); ketchup de tomates
-
-</td>
-<td>**(1)** 35 p.p.m.
-
-</td>
+<td>ß-apo-8′- Caroténal Ester éthylique de l'acide* ß*-apo-8′-caroténoique</td>
+<td>(1)</td>
+<td>Confiture de pommes (ou de rhubarbe) et de (nom du fruit); pain; beurre; jus de fruit concentré sauf le jus d'orange concentré congelé; marmelade de figues avec pectine; mélange pour crème glacée; mélange pour lait glacé; sucre à glacer; confiture de (nom du fruit) avec pectine; gelée de (nom du fruit) avec pectine; liqueurs et cordiaux alcooliques; margarine; lait (indication de l'arôme); marinades et achards (relish); marmelade d'ananas avec pectine; sorbet laitier; lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait écrémé (indication de l'arôme) additionné de solides du lait; lait partiellement écrémé (indication de l'arôme) additionné de solides du lait; poisson fumé; pâte de homard et oeufs de poisson (caviar); ketchup de tomates</td>
+<td>(1)</td>
+<td>35 p.p.m.</td>
 </tr>
 <tr>
-<td>**(2)** Aliments non normalisés
-
-</td>
-<td>**(2)** 35 p.p.m.
-
-</td>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Aliments non normalisés</td>
+<td>(2)</td>
+<td>35 p.p.m.</td>
 </tr>
 <tr>
-<td>**(3)** Fromage (indication de la variété); fromage cheddar; fromage à la crème (avec indication des ingrédients ajoutés); fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés); fromage conditionné à froid (indication de la variété); fromage conditionné à froid (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage conditionné à froid; préparation de fromage conditionné à froid (avec indication des ingrédients ajoutés)
-
-</td>
-<td>**(3)** 35 p.p.m., conformément aux exigences des articles B.08.033, B.08.034, B.08.037, B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3, B.08.041.4, B.08.041.5, B.08.041.6, B.08.041.7 et B.08.041.8
-
-</td>
+<td></td>
+<td></td>
+<td>(3)</td>
+<td>Fromage (indication de la variété); fromage cheddar; fromage à la crème (avec indication des ingrédients ajoutés); fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés); fromage conditionné à froid (indication de la variété); fromage conditionné à froid (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage conditionné à froid; préparation de fromage conditionné à froid (avec indication des ingrédients ajoutés)</td>
+<td>(3)</td>
+<td>35 p.p.m., conformément aux exigences des articles B.08.033, B.08.034, B.08.037, B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3, B.08.041.4, B.08.041.5, B.08.041.6, B.08.041.7 et B.08.041.8</td>
 </tr>
 <tr>
-<td>**(4)** Mélange de poisson et de viande préparés visé à l'alinéa B.21.006n)
-
-</td>
-<td>**(4)** 35 p.p.m.
-
-</td>
+<td></td>
+<td></td>
+<td>(4)</td>
+<td>Mélange de poisson et de viande préparés visé à l'alinéa B.21.006n)</td>
+<td>(4)</td>
+<td>35 p.p.m.</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Caramel</td>
-<td>**(1)** Ale; confiture de pommes (ou de rhubarbe) et de (nom du fruit); bière; eau-de-vie de vin; pain; pain brun; beurre; cidre; vinaigre de cidre; jus de fruit concentré sauf le jus d'orange concentré congelé; marmelade de figues avec pectine; genièvre Hollands; mélange pour crème glacée; mélange pour lait glacé; sucre à glacer; confiture de (nom du fruit) avec pectine; gelée de (nom du fruit) avec pectine; bière légère; liqueurs et cordiaux alcoolisés; liqueur de malt; vinaigre de malt; lait (indication de l'arôme); mincemeat; marinades et achards (relish); marmelade d'ananas avec pectine; porter; rhum; sorbet laitier; lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait écrémé (indication de l'arôme) additionné de solides du lait; lait partiellement écrémé (indication de l'arôme) additionné de solides du lait; poisson fumé; pâte de homard et oeufs de poisson (caviar); stout; ketchup de tomates; whisky; vin; vinaigre de vin; vin de miel
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Ale; confiture de pommes (ou de rhubarbe) et de (nom du fruit); bière; eau-de-vie de vin; pain; pain brun; beurre; cidre; vinaigre de cidre; jus de fruit concentré sauf le jus d'orange concentré congelé; marmelade de figues avec pectine; genièvre Hollands; mélange pour crème glacée; mélange pour lait glacé; sucre à glacer; confiture de (nom du fruit) avec pectine; gelée de (nom du fruit) avec pectine; bière légère; liqueurs et cordiaux alcoolisés; liqueur de malt; vinaigre de malt; lait (indication de l'arôme); mincemeat; marinades et achards (relish); marmelade d'ananas avec pectine; porter; rhum; sorbet laitier; lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait écrémé (indication de l'arôme) additionné de solides du lait; lait partiellement écrémé (indication de l'arôme) additionné de solides du lait; poisson fumé; pâte de homard et oeufs de poisson (caviar); stout; ketchup de tomates; whisky; vin; vinaigre de vin; vin de miel</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
-<td>**(2)** Aliments non normalisés
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Aliments non normalisés</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
-<td>**(3)** Mélange de poisson et de viande préparés visé à l'alinéa B.21.006n)
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td></td>
+<td>(3)</td>
+<td>Mélange de poisson et de viande préparés visé à l'alinéa B.21.006n)</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
-<td>**(4)** Boyaux de saucisse
-
-</td>
-<td>**(4)** 15 % (les résidus de caramel dans les saucisses préparées avec ces boyaux ne doivent pas dépasser 0,15 %)
-
-</td>
+<td></td>
+<td></td>
+<td>(4)</td>
+<td>Boyaux de saucisse</td>
+<td>(4)</td>
+<td>15 % (les résidus de caramel dans les saucisses préparées avec ces boyaux ne doivent pas dépasser 0,15 %)</td>
 </tr>
 <tr>
 <td>3</td>
-<td>Rouge allura
-
-Amaranthe
-
-Erythrosine
-
-Indigotine
-
-Jaune soleil FCF
-
-Tartrazine
-
-</td>
-<td>**(1)** Confiture de pommes (ou de rhubarbe) et de (nom du fruit); pain; beurre; jus de fruit concentré sauf le jus d'orange concentré congelé; marmelade de figues avec pectine; mélange pour crème glacée; mélange pour lait glacé; sucre à glacer; confiture de (nom du fruit) avec pectine; gelée de (nom du fruit) avec pectine; liqueurs et cordiaux alcoolisés; lait (indication de l'arôme); marinades et achards (relish); marmelade d'ananas avec pectine; sorbet laitier; lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait écrémé (indication de l'arôme) additionné de solides du lait; lait partiellement écrémé (indication de l'arôme) additionné de solides du lait; poisson fumé; pâte de homard et oeufs de poisson (caviar); ketchup de tomates
-
-</td>
-<td>**(1)** 300 p.p.m., isolément ou en mélange, en conformité de l'article B.06.002
-
-</td>
+<td>Rouge allura</td>
+<td>(1)</td>
+<td>Confiture de pommes (ou de rhubarbe) et de (nom du fruit); pain; beurre; jus de fruit concentré sauf le jus d'orange concentré congelé; marmelade de figues avec pectine; mélange pour crème glacée; mélange pour lait glacé; sucre à glacer; confiture de (nom du fruit) avec pectine; gelée de (nom du fruit) avec pectine; liqueurs et cordiaux alcoolisés; lait (indication de l'arôme); marinades et achards (relish); marmelade d'ananas avec pectine; sorbet laitier; lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait écrémé (indication de l'arôme) additionné de solides du lait; lait partiellement écrémé (indication de l'arôme) additionné de solides du lait; poisson fumé; pâte de homard et oeufs de poisson (caviar); ketchup de tomates</td>
+<td>(1)</td>
+<td>300 p.p.m., isolément ou en mélange, en conformité de l'article B.06.002</td>
 </tr>
 <tr>
-<td>**(2)** Aliments non normalisés
-
-</td>
-<td>**(2)** 300 p.p.m., isolément ou en mélange, en conformité de l'article B.06.002
-
-</td>
+<td></td>
+<td>Amaranthe</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>**(3)** Mélange de poisson et de viande préparés visé à l'alinéa B.21.006n)
-
-</td>
-<td>**(3)** 300 p.p.m., isolément ou en mélange, en conformité avec l'article B.06.002
-
-</td>
+<td></td>
+<td>Erythrosine</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>**(4)** Anchois salé, chinchard salé et crevette salée
-
-</td>
-<td>**(4)** 125 p.p.m. conformément aux exigences de l'alinéa B.21.021d)
-
-</td>
+<td></td>
+<td>Indigotine</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>**(5)** Longaniza
-
-</td>
-<td>**(5)** 80 p.p.m. de rouge allura conformément aux exigences de la division B.14.032d)(xvi)(B) et 20 p.p.m. de jaune soleil FCF conformément aux exigences de la division B.14.032d)(xvi)(C)
-
-</td>
+<td></td>
+<td>Jaune soleil FCF</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>**(6)** Boyaux de saucisse (jaune soleil FCF seulement)
-
-</td>
-<td>**(6)** 0,15 % (les résidus de jaune soleil FCF dans les saucisses préparées avec ces boyaux ne doivent pas dépasser 15 p.p.m.)
-
-</td>
+<td></td>
+<td>Tartrazine</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>**(7)** Grignotines de maïs à saveur de fromage (jaune soleil FCF seulement)
-
-</td>
-<td>**(7)** 600 p.p.m. isolément. Si combiné avec d’autres colorants nommés à la colonne I du présent article et de l’article 4 du présent tableau, la limite de tolérance permise est de 300 p.p.m. conformément à l’alinéa B.06.002c)
-
-</td>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Aliments non normalisés</td>
+<td>(2)</td>
+<td>300 p.p.m., isolément ou en mélange, en conformité de l'article B.06.002</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(3)</td>
+<td>Mélange de poisson et de viande préparés visé à l'alinéa B.21.006n)</td>
+<td>(3)</td>
+<td>300 p.p.m., isolément ou en mélange, en conformité avec l'article B.06.002</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(4)</td>
+<td>Anchois salé, chinchard salé et crevette salée</td>
+<td>(4)</td>
+<td>125 p.p.m. conformément aux exigences de l'alinéa B.21.021d)</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(5)</td>
+<td>Longaniza</td>
+<td>(5)</td>
+<td>80 p.p.m. de rouge allura conformément aux exigences de la division B.14.032d)(xvi)(B) et 20 p.p.m. de jaune soleil FCF conformément aux exigences de la division B.14.032d)(xvi)(C)</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(6)</td>
+<td>Boyaux de saucisse (jaune soleil FCF seulement)</td>
+<td>(6)</td>
+<td>0,15 % (les résidus de jaune soleil FCF dans les saucisses préparées avec ces boyaux ne doivent pas dépasser 15 p.p.m.)</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(7)</td>
+<td>Grignotines de maïs à saveur de fromage (jaune soleil FCF seulement)</td>
+<td>(7)</td>
+<td>600 p.p.m. isolément. Si combiné avec d’autres colorants nommés à la colonne I du présent article et de l’article 4 du présent tableau, la limite de tolérance permise est de 300 p.p.m. conformément à l’alinéa B.06.002c)</td>
 </tr>
 <tr>
 <td>4</td>
-<td>Bleu brillant FCF
-
-Vert solide FCF
-
-</td>
-<td>**(1)** Confiture de pommes (ou de rhubarbe) et de (nom du fruit); pain; beurre; jus de fruit concentré sauf le jus d'orange concentré congelé; marmelade de figues avec pectine; mélange pour crème glacée; mélange pour lait glacé; sucre à glacer; confiture de (nom du fruit) avec pectine; gelée de (nom du fruit) avec pectine; liqueurs et cordiaux alcoolisés; lait (indication de l'arôme); marinades et achards (relish); marmelade d'ananas avec pectine; sorbet laitier; lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait écrémé (indication de l'arôme) additionné de solides du lait; lait partiellement écrémé (indication de l'arôme) additionné de solides du lait; poisson fumé; pâte de homard et oeufs de poisson (caviar); ketchup de tomates
-
-</td>
-<td>**(1)** 100 p.p.m., isolément ou en mélange, en conformité de l'article B.06.002
-
-</td>
+<td>Bleu brillant FCF</td>
+<td>(1)</td>
+<td>Confiture de pommes (ou de rhubarbe) et de (nom du fruit); pain; beurre; jus de fruit concentré sauf le jus d'orange concentré congelé; marmelade de figues avec pectine; mélange pour crème glacée; mélange pour lait glacé; sucre à glacer; confiture de (nom du fruit) avec pectine; gelée de (nom du fruit) avec pectine; liqueurs et cordiaux alcoolisés; lait (indication de l'arôme); marinades et achards (relish); marmelade d'ananas avec pectine; sorbet laitier; lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait écrémé (indication de l'arôme) additionné de solides du lait; lait partiellement écrémé (indication de l'arôme) additionné de solides du lait; poisson fumé; pâte de homard et oeufs de poisson (caviar); ketchup de tomates</td>
+<td>(1)</td>
+<td>100 p.p.m., isolément ou en mélange, en conformité de l'article B.06.002</td>
 </tr>
 <tr>
-<td>**(2)** Aliments non normalisés
-
-</td>
-<td>**(2)** 100 p.p.m., isolément ou en mélange, en conformité de l'article B.06.002
-
-</td>
+<td></td>
+<td>Vert solide FCF</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>**(3)** Mélange de poisson et de viande préparés visé à l'alinéa B.21.006n)
-
-</td>
-<td>**(3)** 100 p.p.m., isolément ou en mélange, en conformité avec l'article B.06.002
-
-</td>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Aliments non normalisés</td>
+<td>(2)</td>
+<td>100 p.p.m., isolément ou en mélange, en conformité de l'article B.06.002</td>
 </tr>
 <tr>
-<td>**(4)** Feta (bleu brillant FCF seulement)
-
-</td>
-<td>**(4)** 0,10 p.p.m.
-
-</td>
+<td></td>
+<td></td>
+<td>(3)</td>
+<td>Mélange de poisson et de viande préparés visé à l'alinéa B.21.006n)</td>
+<td>(3)</td>
+<td>100 p.p.m., isolément ou en mélange, en conformité avec l'article B.06.002</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(4)</td>
+<td>Feta (bleu brillant FCF seulement)</td>
+<td>(4)</td>
+<td>0,10 p.p.m.</td>
 </tr>
 <tr>
 <td>5</td>
 <td>Rouge citrin n<sup>o</sup> 2</td>
-<td>Écorce des oranges entières
-
-</td>
-<td>2 p.p.m.
-
-</td>
+<td></td>
+<td>Écorce des oranges entières</td>
+<td></td>
+<td>2 p.p.m.</td>
 </tr>
 <tr>
 <td>6</td>
 <td>Ponceau SX</td>
-<td>Écorce de fruits; fruits glacés; cerises glacées; marasques
-
-</td>
-<td>150 p.p.m.
-
-</td>
+<td></td>
+<td>Écorce de fruits; fruits glacés; cerises glacées; marasques</td>
+<td></td>
+<td>150 p.p.m.</td>
 </tr>
 <tr>
 <td>7</td>
 <td>Or</td>
-<td>Boissons alcooliques
-
-</td>
-<td>Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>Boissons alcooliques</td>
+<td></td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 </table>
 
->  DORS/79-752, art. 5; DORS/80-500, art. 6; DORS/82-596, art. 3; DORS/84-440, art. 4; DORS/84-602, art. 1; DORS/89-198, art. 6 à 10; DORS/92-725, art. 5; DORS/93-466, art. 2; DORS/94-689, art. 2(F); DORS/95-434, art. 1; DORS/95-493, art. 1; DORS/97-516, art. 4; DORS/98-580, art. 1(F); DORS/99-96, art. 1; DORS/2000-50, art. 1; DORS/2000-146, art. 1 à 3; DORS/2007-75, art. 3..
+> DORS/79-752, art. 5; DORS/80-500, art. 6; DORS/82-596, art. 3; DORS/84-440, art. 4; DORS/84-602, art. 1; DORS/89-198, art. 6 à 10; DORS/92-725, art. 5; DORS/93-466, art. 2; DORS/94-689, art. 2(F); DORS/95-434, art. 1; DORS/95-493, art. 1; DORS/97-516, art. 4; DORS/98-580, art. 1(F); DORS/99-96, art. 1; DORS/2000-50, art. 1; DORS/2000-146, art. 1 à 3; DORS/2007-75, art. 3..
 
 
 
@@ -18476,2933 +18495,2418 @@ Vert solide FCF
 <th>Limites de tolérance</th>
 </tr>
 <tr>
-<th> </th>
-</tr>
-<tr>
 <td>A.1</td>
 <td>Gomme arabique</td>
-<td>**(1)** Achards (*relish*); cornichons à la moutarde; crème; lait (indication de l’arôme); lait écrémé (indication de l’arôme); lait écrémé (indication de l’arôme) additionné de solides du lait; lait partiellement écrémé (indication de l’arôme); lait partiellement écrémé (indication de l’arôme) additionné de solides du lait; sauce à salade; sauce française
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Achards (*relish*); cornichons à la moutarde; crème; lait (indication de l’arôme); lait écrémé (indication de l’arôme); lait écrémé (indication de l’arôme) additionné de solides du lait; lait partiellement écrémé (indication de l’arôme); lait partiellement écrémé (indication de l’arôme) additionné de solides du lait; sauce à salade; sauce française</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
-<td>**(2)** Crème glacée; mélange pour crème glacée; lait glacé; mélange pour lait glacé
-
-</td>
-<td>**(2)** 0,5 %
-
-</td>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Crème glacée; mélange pour crème glacée; lait glacé; mélange pour lait glacé</td>
+<td>(2)</td>
+<td>0,5 %</td>
 </tr>
 <tr>
-<td>**(3)** Sorbet laitier
-
-</td>
-<td>**(3)** 0,75 %
-
-</td>
+<td></td>
+<td></td>
+<td>(3)</td>
+<td>Sorbet laitier</td>
+<td>(3)</td>
+<td>0,75 %</td>
 </tr>
 <tr>
-<td>**(4)** Aliments non normalisés
-
-</td>
-<td>**(4)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td></td>
+<td>(4)</td>
+<td>Aliments non normalisés</td>
+<td>(4)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
-<td>**(5)** Margarine réduite en calories
-
-</td>
-<td>**(5)** 0,5 % selon les exigences de l'article B.09.017
-
-</td>
+<td></td>
+<td></td>
+<td>(5)</td>
+<td>Margarine réduite en calories</td>
+<td>(5)</td>
+<td>0,5 % selon les exigences de l'article B.09.017</td>
 </tr>
 <tr>
-<td>**(6)** Asperges en conserve, haricots jaunes en conserve; haricots verts en conserve; pois en conserve
-
-</td>
-<td>**(6)** 1,0 % selon les exigences de la disposition B.11.002d)(viii)(C).
-
-</td>
+<td></td>
+<td></td>
+<td>(6)</td>
+<td>Asperges en conserve, haricots jaunes en conserve; haricots verts en conserve; pois en conserve</td>
+<td>(6)</td>
+<td>1,0 % selon les exigences de la disposition B.11.002d)(viii)(C).</td>
 </tr>
 <tr>
 <td>A.2</td>
-<td>Monoglycérides  acétylés</td>
-<td>Aliments non normalisés
-
-</td>
-<td>Bonnes pratiques industrielles
-
-</td>
+<td>Monoglycérides acétylés</td>
+<td></td>
+<td>Aliments non normalisés</td>
+<td></td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>A.3</td>
-<td>Esters tartriques  des mono- et  diglycérides  acétylés</td>
-<td>**(1)** Pain
-
-</td>
-<td>**(1)** 6 000 p.p.m. de farine
-
-</td>
+<td>Esters tartriques des mono- et diglycérides acétylés</td>
+<td>(1)</td>
+<td>Pain</td>
+<td>(1)</td>
+<td>6 000 p.p.m. de farine</td>
 </tr>
 <tr>
-<td>**(2)** Aliments non normalisés
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(2)</td>
+<td>Aliments non normalisés</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
-<td>**(3)** Préparations pour nourrissons à base d'acides aminés cristallisés
-
-</td>
-<td>**(3)** 240 p.p.m. prête à consommer
-
-</td>
+<td></td>
+<td>(3)</td>
+<td>Préparations pour nourrissons à base d'acides aminés cristallisés</td>
+<td>(3)</td>
+<td>240 p.p.m. prête à consommer</td>
 </tr>
 <tr>
 <td>A.4</td>
 <td>Agar-agar</td>
-<td>**(1)** Fromage de porc; (nom de la volaille) en conserve; crème; fromage de tête ou tête fromagée; gelée de (nom du fruit) avec pectine; liant à viande (quand il est vendu pour servir dans les viandes ou dans les sous-produits de la viande conditionnés dans lesquels un agent gélatinisant est autorisé); sous-produits de la viande en pain; pain de viande; lait (indication de l'arôme); cornichons à la moutarde; viande en pot; sous-produits de la viande en pot; poisson ou viande conditionnés (Titre 21); achards (*relish*); lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait écrémé (indication de l'arôme) additionné de solides du lait; lait partiellement écrémé (indication de l'arôme) additionné de solides du lait; fromage fondu au lait écrémé
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Fromage de porc; (nom de la volaille) en conserve; crème; fromage de tête ou tête fromagée; gelée de (nom du fruit) avec pectine; liant à viande (quand il est vendu pour servir dans les viandes ou dans les sous-produits de la viande conditionnés dans lesquels un agent gélatinisant est autorisé); sous-produits de la viande en pain; pain de viande; lait (indication de l'arôme); cornichons à la moutarde; viande en pot; sous-produits de la viande en pot; poisson ou viande conditionnés (Titre 21); achards (*relish*); lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait écrémé (indication de l'arôme) additionné de solides du lait; lait partiellement écrémé (indication de l'arôme) additionné de solides du lait; fromage fondu au lait écrémé</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
-<td>**(2)** Crème glacée; mélange pour crème glacée; lait glacé; mélange pour lait glacé
-
-</td>
-<td>**(2)** 0,5 %
-
-</td>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Crème glacée; mélange pour crème glacée; lait glacé; mélange pour lait glacé</td>
+<td>(2)</td>
+<td>0,5 %</td>
 </tr>
 <tr>
-<td>**(3)** Sorbet laitier
-
-</td>
-<td>**(3)** 0,75 %
-
-</td>
+<td></td>
+<td></td>
+<td>(3)</td>
+<td>Sorbet laitier</td>
+<td>(3)</td>
+<td>0,75 %</td>
 </tr>
 <tr>
-<td>**(4)** Aliments non normalisés
-
-</td>
-<td>**(4)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td></td>
+<td>(4)</td>
+<td>Aliments non normalisés</td>
+<td>(4)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
-<td>**(5)** Margarine réduite en calories
-
-</td>
-<td>**(5)** 0,5 % selon les exigences de l'article B.09.017
-
-</td>
+<td></td>
+<td></td>
+<td>(5)</td>
+<td>Margarine réduite en calories</td>
+<td>(5)</td>
+<td>0,5 % selon les exigences de l'article B.09.017</td>
 </tr>
 <tr>
 <td>A.5</td>
 <td>Algine</td>
-<td>**(1)** Ale; bière; crème; sauce vinaigrette; bière légère; liqueur de malt; lait (indication de l'arôme); cornichons à la moutarde; porter; achards (*relish*); sauce à salade; lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait écrémé (indication de l'arôme) additionné de solides du lait; lait partiellement écrémé (indication de l'arôme) additionné de solides du lait; fromage fondu au lait écrémé; stout
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
-</tr>
-<tr>
-<td>**(2)** Préparations pour nourrissons
-
-</td>
-<td>**(2)** 0,03 % de la préparation pour nourrissons prête à consommer. Si l’on emploie aussi la carraghénine ou la gomme de guar, ou les deux, le total ne doit pas dépasser 0,03 %
-
-</td>
-</tr>
-<tr>
-<td>**(3)** Fromage cottage; fromage cottage en crème; crème glacée; mélange pour crème glacée; lait glacé; mélange pour le lait glacé
-
-</td>
-<td>**(3)** 0,5 %
-
-</td>
-</tr>
-<tr>
-<td>**(4)** Sorbet laitier
-
-</td>
-<td>**(4)** 0,75 %
-
-</td>
-</tr>
-<tr>
-<td>**(5)** Aliments non normalisés
-
-</td>
-<td>**(5)** Bonnes pratiques industrielles
-
-</td>
-</tr>
-<tr>
-<td>**(6)** Margarine réduite en calories
-
-</td>
-<td>**(6)** 0,5 % selon les exigences de l'article B.09.017
-
-</td>
-</tr>
-<tr>
-<td>**(7)** Crème sure
-
-</td>
-<td>**(7)** 0,5 % selon les exigences de la disposition B.08.077b)(vii)(A)
-
-</td>
-</tr>
-<tr>
-<td>**(8)** Asperges en conserve; haricots jaunes en conserves; haricots verts en conserves; pois en conserve
-
-</td>
-<td>**(8)** 1,0 % selon les exigences de la disposition B.11.002d)(viii)(C)
-
-</td>
+<td>(1)</td>
+<td>Ale; bière; crème; sauce vinaigrette; bière légère; liqueur de malt; lait (indication de l'arôme); cornichons à la moutarde; porter; achards (*relish*); sauce à salade; lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait écrémé (indication de l'arôme) additionné de solides du lait; lait partiellement écrémé (indication de l'arôme) additionné de solides du lait; fromage fondu au lait écrémé; stout</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(9)** Préparations pour nourrissons à base d’acides aminés isolés ou d’hydrolysats de protéines, ou des deux
-
-</td>
-<td>**(9)** 0,1 % de la préparation pour nourrissons prête à consommer. Si l’on emploie aussi la carraghénine ou la gomme de guar, ou les deux, le total ne doit pas dépasser 0,1 %
-
-</td>
+<td>(2)</td>
+<td>Préparations pour nourrissons</td>
+<td>(2)</td>
+<td>0,03 % de la préparation pour nourrissons prête à consommer. Si l’on emploie aussi la carraghénine ou la gomme de guar, ou les deux, le total ne doit pas dépasser 0,03 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(10)** Préparations pour nourrissons sans lactose, à base de protéines du lait
-
-</td>
-<td>**(10)** 0,05 % de la préparation pour nourrissons prête à consommer. Si l’on emploie aussi la carraghénine ou la gomme de guar, ou les deux, le total ne doit pas dépasser 0,05 %
-
-</td>
+<td>(3)</td>
+<td>Fromage cottage; fromage cottage en crème; crème glacée; mélange pour crème glacée; lait glacé; mélange pour le lait glacé</td>
+<td>(3)</td>
+<td>0,5 %</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(4)</td>
+<td>Sorbet laitier</td>
+<td>(4)</td>
+<td>0,75 %</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(5)</td>
+<td>Aliments non normalisés</td>
+<td>(5)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(6)</td>
+<td>Margarine réduite en calories</td>
+<td>(6)</td>
+<td>0,5 % selon les exigences de l'article B.09.017</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(7)</td>
+<td>Crème sure</td>
+<td>(7)</td>
+<td>0,5 % selon les exigences de la disposition B.08.077b)(vii)(A)</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(8)</td>
+<td>Asperges en conserve; haricots jaunes en conserves; haricots verts en conserves; pois en conserve</td>
+<td>(8)</td>
+<td>1,0 % selon les exigences de la disposition B.11.002d)(viii)(C)</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(9)</td>
+<td>Préparations pour nourrissons à base d’acides aminés isolés ou d’hydrolysats de protéines, ou des deux</td>
+<td>(9)</td>
+<td>0,1 % de la préparation pour nourrissons prête à consommer. Si l’on emploie aussi la carraghénine ou la gomme de guar, ou les deux, le total ne doit pas dépasser 0,1 %</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(10)</td>
+<td>Préparations pour nourrissons sans lactose, à base de protéines du lait</td>
+<td>(10)</td>
+<td>0,05 % de la préparation pour nourrissons prête à consommer. Si l’on emploie aussi la carraghénine ou la gomme de guar, ou les deux, le total ne doit pas dépasser 0,05 %</td>
 </tr>
 <tr>
 <td>A.6</td>
 <td>Acide alginique</td>
-<td>Mêmes aliments que pour l'algine
-
-</td>
-<td>Mêmes limites de tolérance que pour l'algine
-
-</td>
+<td></td>
+<td>Mêmes aliments que pour l'algine</td>
+<td></td>
+<td>Mêmes limites de tolérance que pour l'algine</td>
 </tr>
 <tr>
 <td>A.7</td>
 <td>Alginate d'ammonium</td>
-<td>Mêmes aliments que pour l'algine
-
-</td>
-<td>Mêmes limites de tolérance que pour l'algine
-
-</td>
+<td></td>
+<td>Mêmes aliments que pour l'algine</td>
+<td></td>
+<td>Mêmes limites de tolérance que pour l'algine</td>
 </tr>
 <tr>
 <td>A.8</td>
 <td>Carraghénine ammoniacale</td>
-<td>Mêmes aliments que pour la carragénine
-
-</td>
-<td>Mêmes limites de tolérance que pour la carraghénine.
-
-</td>
+<td></td>
+<td>Mêmes aliments que pour la carragénine</td>
+<td></td>
+<td>Mêmes limites de tolérance que pour la carraghénine.</td>
 </tr>
 <tr>
 <td>A.9</td>
 <td>Furcelleran d'ammonium</td>
-<td>Mêmes aliments que pour le furcelleran
-
-</td>
-<td>Mêmes limites de tolérance que pour le furcelleran
-
-</td>
+<td></td>
+<td>Mêmes aliments que pour le furcelleran</td>
+<td></td>
+<td>Mêmes limites de tolérance que pour le furcelleran</td>
 </tr>
 <tr>
 <td>A.9A</td>
 <td>Sel d'ammonium de glycéride phosphorylé</td>
-<td>**(1)** Pain; crème; lait (indication de l'arôme); cornichons à la moutarde; achards (*relish*); lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait écrémé (indication de l'arôme) additionné de solides du lait; lait partiellement écrémé (indication de l'arôme) additionné de solides du lait; fromage fondu au lait écrémé
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Pain; crème; lait (indication de l'arôme); cornichons à la moutarde; achards (*relish*); lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait écrémé (indication de l'arôme) additionné de solides du lait; lait partiellement écrémé (indication de l'arôme) additionné de solides du lait; fromage fondu au lait écrémé</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
-<td>**(2)** Crème glacée; mélange pour crème glacée; lait glacé; mélange pour lait glacé
-
-</td>
-<td>**(2)** 0,5 %
-
-</td>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Crème glacée; mélange pour crème glacée; lait glacé; mélange pour lait glacé</td>
+<td>(2)</td>
+<td>0,5 %</td>
 </tr>
 <tr>
-<td>**(3)** Sorbet laitier
-
-</td>
-<td>**(3)** 0,75 %
-
-</td>
+<td></td>
+<td></td>
+<td>(3)</td>
+<td>Sorbet laitier</td>
+<td>(3)</td>
+<td>0,75 %</td>
 </tr>
 <tr>
-<td>**(4)** Aliments non normalisés
-
-</td>
-<td>**(4)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td></td>
+<td>(4)</td>
+<td>Aliments non normalisés</td>
+<td>(4)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
-<td>**(5)** Produits de chocolat; produits du cacao
-
-</td>
-<td>**(5)** 0,7 %
-
-</td>
+<td></td>
+<td></td>
+<td>(5)</td>
+<td>Produits de chocolat; produits du cacao</td>
+<td>(5)</td>
+<td>0,7 %</td>
 </tr>
 <tr>
 <td>A.10</td>
 <td>Arabinogalactane</td>
-<td>Huiles essentielles; sauces non normalisées; mélanges à poudings; base ou mélanges pour breuvage et mélanges de garniture à tarte
-
-</td>
-<td>Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>Huiles essentielles; sauces non normalisées; mélanges à poudings; base ou mélanges pour breuvage et mélanges de garniture à tarte</td>
+<td></td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>B.1</td>
 <td>Levure de boulanger Glycan</td>
-<td>Aliments non normalisés
-
-</td>
-<td>Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>Aliments non normalisés</td>
+<td></td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>C.1</td>
 <td>Alginate de calcium</td>
-<td>Mêmes aliments que pour l'algine
-
-</td>
-<td>Mêmes limites de tolérance que pour l'algine
-
-</td>
+<td></td>
+<td>Mêmes aliments que pour l’algine</td>
+<td></td>
+<td>Mêmes limites de tolérance que pour l’algine</td>
 </tr>
 <tr>
 <td>C.2</td>
 <td>Carbonate de calcium</td>
-<td>**(1)** Aliments non normalisés
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Aliments non normalisés</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
-<td>**(2)** Mélange de poisson et de viande préparés visé à l'alinéa B.21.006n)
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Mélange de poisson et de viande préparés visé à l’alinéa B.21.006n)</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>C.3</td>
 <td>Carraghénine calcique</td>
-<td>Mêmes aliments que pour la carraghénine
-
-</td>
-<td>Mêmes limites de tolérance que pour la carraghénine
-
-</td>
+<td></td>
+<td>Mêmes aliments que pour la carraghénine</td>
+<td></td>
+<td>Mêmes limites de tolérance que pour la carraghénine</td>
 </tr>
 <tr>
 <td>C.4</td>
 <td>Citrate de calcium</td>
-<td>**(1)** Fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés)
-
-</td>
-<td>**(1)** 4,0 %, conformément aux exigences des articles B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 et B.08.041.4
-
-</td>
+<td>(1)</td>
+<td>Fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés)</td>
+<td>(1)</td>
+<td>4,0 %, conformément aux exigences des articles B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 et B.08.041.4</td>
 </tr>
 <tr>
-<td>**(2)** Aliments non normalisés
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Aliments non normalisés</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>C.5</td>
 <td>Furcelleran de calcium</td>
-<td>Mêmes aliments que pour le furcelleran
-
-</td>
-<td>Mêmes limites de tolérance que pour le furcelleran
-
-</td>
+<td></td>
+<td>Mêmes aliments que pour le furcelleran</td>
+<td></td>
+<td>Mêmes limites de tolérance que pour le furcelleran</td>
 </tr>
 <tr>
 <td>C.6</td>
 <td>Gluconate de calcium</td>
-<td>Aliments non normalisés
-
-</td>
-<td>Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>Aliments non normalisés</td>
+<td></td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>C.7</td>
 <td>Glycérophosphate de calcium</td>
-<td>Mélanges à desserts non normalisés
-
-</td>
-<td>Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>Mélanges à desserts non normalisés</td>
+<td></td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>C.8</td>
 <td>Hypophosphite de calcium</td>
-<td>Mélanges à desserts non normalisés
-
-</td>
-<td>Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>Mélanges à desserts non normalisés</td>
+<td></td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>C.9</td>
 <td>Phosphate bicalcique</td>
-<td>**(1)** Fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés)
-
-</td>
-<td>**(1)** 3,5 %, conformément aux exigences des articles B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 et B.08.041.4
-
-</td>
+<td>(1)</td>
+<td>Fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés)</td>
+<td>(1)</td>
+<td>3,5 %, conformément aux exigences des articles B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 et B.08.041.4</td>
 </tr>
 <tr>
-<td>**(2)** Aliments non normalisés
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Aliments non normalisés</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>C.10</td>
 <td>Phosphate tricalcique</td>
-<td>Aliments non normalisés
-
-</td>
-<td>Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>Aliments non normalisés</td>
+<td></td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>C.11</td>
 <td>Sulfate de calcium</td>
-<td>**(1)** Crème glacée; mélange pour crème glacée; lait glacé; mélange pour lait glacé
-
-</td>
-<td>**(1)** 0,5 %
-
-</td>
-</tr>
-<tr>
-<td>**(2)** Sorbet laitier
-
-</td>
-<td>**(2)** 0,75 %
-
-</td>
-</tr>
-<tr>
-<td>**(3)** Aliments non normalisés
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
-</tr>
-<tr>
-<td>**(4)** Fromage cottage en crème
-
-</td>
-<td>**(4)** 0,05 %
-
-</td>
-</tr>
-<tr>
-<td>**(5)** Crème à fouetter thermisée à une chaleur supérieure à 100 °C
-
-</td>
-<td>**(5)** 0,005 %
-
-</td>
+<td>(1)</td>
+<td>Crème glacée; mélange pour crème glacée; lait glacé; mélange pour lait glacé</td>
+<td>(1)</td>
+<td>0,5 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(6)** Mélange de poisson et de viande préparés visé à l’alinéa B.21.006n)
-
-</td>
-<td>**(6)** 0,06 %
-
-</td>
+<td>(2)</td>
+<td>Sorbet laitier</td>
+<td>(2)</td>
+<td>0,75 %</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(3)</td>
+<td>Aliments non normalisés</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(4)</td>
+<td>Fromage cottage en crème</td>
+<td>(4)</td>
+<td>0,05 %</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(5)</td>
+<td>Crème à fouetter thermisée à une chaleur supérieure à 100 °C</td>
+<td>(5)</td>
+<td>0,005 %</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(6)</td>
+<td>Mélange de poisson et de viande préparés visé à l’alinéa B.21.006n)</td>
+<td>(6)</td>
+<td>0,06 %</td>
 </tr>
 <tr>
 <td>C.12</td>
 <td>Tartrate de calcium</td>
-<td>Aliments non normalisés
-
-</td>
-<td>Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>Aliments non normalisés</td>
+<td></td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>C.13</td>
-<td>Carboxyméthyl-cellulose</td>
-<td>Mêmes aliments que pour la carboxyméthylcellulose sodique
-
-</td>
-<td>Mêmes limites de tolérance que pour la carboxyméthylcellulose sodique
-
-</td>
+<td>Carboxyméthylcellulose</td>
+<td></td>
+<td>Mêmes aliments que pour la carboxyméthylcellulose sodique</td>
+<td></td>
+<td>Mêmes limites de tolérance que pour la carboxyméthylcellulose sodique</td>
 </tr>
 <tr>
 <td>C.14</td>
 <td>Gomme de caroube</td>
-<td>**(1)** Crème, sauce vinaigrette; (indication de l'arôme) lait; cornichons à la moutarde; achards (relishes); sauce à salade; (indication de l'arôme) lait écrémé; (indication de l'arôme) lait partiellement écrémé; (indication de l'arôme) lait écrémé additionné de solides du lait; (indication de l'arôme) lait partiellement écrémé additionné de solides du lait; fromage fondu de lait écrémé
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles.
-
-</td>
+<td>(1)</td>
+<td>Crème, sauce vinaigrette; (indication de l'arôme) lait; cornichons à la moutarde; achards (relishes); sauce à salade; (indication de l'arôme) lait écrémé; (indication de l'arôme) lait partiellement écrémé; (indication de l'arôme) lait écrémé additionné de solides du lait; (indication de l'arôme) lait partiellement écrémé additionné de solides du lait; fromage fondu de lait écrémé</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles.</td>
 </tr>
 <tr>
-<td>**(2)** Fromage cottage; fromage cottage en crème; crème glacée; mélange pour crème glacée; lait glacé; mélange pour lait glacé
-
-</td>
-<td>**(2)** 0,5 %
-
-</td>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Fromage cottage; fromage cottage en crème; crème glacée; mélange pour crème glacée; lait glacé; mélange pour lait glacé</td>
+<td>(2)</td>
+<td>0,5 %</td>
 </tr>
 <tr>
-<td>**(3)** Margarine hypocalorique
-
-</td>
-<td>**(3)** 0,5 % selon les exigences de l'alinéa B.09.017b)
-
-</td>
+<td></td>
+<td></td>
+<td>(3)</td>
+<td>Margarine hypocalorique</td>
+<td>(3)</td>
+<td>0,5 % selon les exigences de l'alinéa B.09.017b)</td>
 </tr>
 <tr>
-<td>**(4)** Sorbet laitier
-
-</td>
-<td>**(4)** 0,75 %
-
-</td>
+<td></td>
+<td></td>
+<td>(4)</td>
+<td>Sorbet laitier</td>
+<td>(4)</td>
+<td>0,75 %</td>
 </tr>
 <tr>
-<td>**(5)** Crème sure
-
-</td>
-<td>**(5)** 0,5 % selon les exigences de la disposition B.08.077b)(vii)(A)
-
-</td>
+<td></td>
+<td></td>
+<td>(5)</td>
+<td>Crème sure</td>
+<td>(5)</td>
+<td>0,5 % selon les exigences de la disposition B.08.077b)(vii)(A)</td>
 </tr>
 <tr>
-<td>**(6)** Aliments non normalisés
-
-</td>
-<td>**(6)** Bonnes pratiques industrielles.
-
-</td>
+<td></td>
+<td></td>
+<td>(6)</td>
+<td>Aliments non normalisés</td>
+<td>(6)</td>
+<td>Bonnes pratiques industrielles.</td>
 </tr>
 <tr>
-<td>**(7)** Fromage à la crème; fromage à la crème (avec indication des ingrédients ajoutés); fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés); fromage (indication de la variété) conditionné à froid (avec indication des ingrédients ajoutés); préparation de fromage conditionné à froid; préparation de fromage conditionné à froid (avec indication des ingrédients ajoutés)
-
-</td>
-<td>**(7)** 0,5 %, conformément aux exigences des articles B.08.035, B.08.037, B.08.038, B.08.039, B.08.041.3, B.08.041.4, B.08.041.6, B.08.041.7 et B.08.041.8
-
-</td>
+<td></td>
+<td></td>
+<td>(7)</td>
+<td>Fromage à la crème; fromage à la crème (avec indication des ingrédients ajoutés); fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés); fromage (indication de la variété) conditionné à froid (avec indication des ingrédients ajoutés); préparation de fromage conditionné à froid; préparation de fromage conditionné à froid (avec indication des ingrédients ajoutés)</td>
+<td>(7)</td>
+<td>0,5 %, conformément aux exigences des articles B.08.035, B.08.037, B.08.038, B.08.039, B.08.041.3, B.08.041.4, B.08.041.6, B.08.041.7 et B.08.041.8</td>
 </tr>
 <tr>
 <td>C.15</td>
 <td>Carraghénine</td>
-<td>**(1)** Ale; bière; fromage de porc; (nom de la volaille) en conserve; crème; sauce vinaigrette; fromage de tête ou tête fromagée; gelée à (nom du fruit) avec pectine; bière légère; liqueur de malt; liant à viande (quand il est vendu pour servir dans les viandes ou dans les sous-produits de la viande conditionnés dans lesquels un agent gélatinisant est autorisé); sous-produits de la viande en pain; pain de viande; lait (indication de l'arôme); cornichons à la moutarde; porter; viande en pot; sous-produits de la viande en pot; poisson ou viande conditionnés (Titre 21); achards (*relish*); sauce à salade; lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait écrémé (indication de l'arôme) additionné de solides de lait; lait partiellement écrémé (indication de l'arôme) additionné de solides du lait; stout
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Ale; bière; fromage de porc; (nom de la volaille) en conserve; crème; sauce vinaigrette; fromage de tête ou tête fromagée; gelée à (nom du fruit) avec pectine; bière légère; liqueur de malt; liant à viande (quand il est vendu pour servir dans les viandes ou dans les sous-produits de la viande conditionnés dans lesquels un agent gélatinisant est autorisé); sous-produits de la viande en pain; pain de viande; lait (indication de l'arôme); cornichons à la moutarde; porter; viande en pot; sous-produits de la viande en pot; poisson ou viande conditionnés (Titre 21); achards (*relish*); sauce à salade; lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait écrémé (indication de l'arôme) additionné de solides de lait; lait partiellement écrémé (indication de l'arôme) additionné de solides du lait; stout</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Fromage cottage; fromage cottage en crème; crème glacée; mélange pour crème glacée; lait glacé; mélange pour lait glacé
-
-</td>
-<td>**(2)** 0,5 %
-
-</td>
+<td>(2)</td>
+<td>Fromage cottage; fromage cottage en crème; crème glacée; mélange pour crème glacée; lait glacé; mélange pour lait glacé</td>
+<td>(2)</td>
+<td>0,5 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Lait évaporé
-
-</td>
-<td>**(3)** 0,015 %
-
-</td>
+<td>(3)</td>
+<td>Lait évaporé</td>
+<td>(3)</td>
+<td>0,015 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(4)** Sorbet laitier
-
-</td>
-<td>**(4)** 0,75 %
-
-</td>
+<td>(4)</td>
+<td>Sorbet laitier</td>
+<td>(4)</td>
+<td>0,75 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(5)** Lait évaporé partiellement écrémé; lait concentré partiellement écrémé
-
-</td>
-<td>**(5)** 0,01 %
-
-</td>
+<td>(5)</td>
+<td>Lait évaporé partiellement écrémé; lait concentré partiellement écrémé</td>
+<td>(5)</td>
+<td>0,01 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(6)** Préparations pour nourrissons à base d'acides aminés isolés ou d'hydrolysats de protéines, ou les deux
-
-</td>
-<td>**(6)** 0,1 % de la préparation pour nourrissons prête à consommer. Si l'on emploie aussi l'algine ou la gomme de guar, ou les deux, le total ne doit pas dépasser 0,1 %
-
-</td>
+<td>(6)</td>
+<td>Préparations pour nourrissons à base d'acides aminés isolés ou d'hydrolysats de protéines, ou les deux</td>
+<td>(6)</td>
+<td>0,1 % de la préparation pour nourrissons prête à consommer. Si l'on emploie aussi l'algine ou la gomme de guar, ou les deux, le total ne doit pas dépasser 0,1 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(7)** Préparations pour nourrissons
-
-</td>
-<td>**(7)** 0,03 % de la préparation pour nourrissons prête à consommer. Si l'on emploie aussi l'algine ou la gomme de guar ou les deux, le total ne doit pas dépasser 0,03 %
-
-</td>
+<td>(7)</td>
+<td>Préparations pour nourrissons</td>
+<td>(7)</td>
+<td>0,03 % de la préparation pour nourrissons prête à consommer. Si l'on emploie aussi l'algine ou la gomme de guar ou les deux, le total ne doit pas dépasser 0,03 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(8)** Aliments non normalisés
-
-</td>
-<td>**(8)** Bonnes pratiques industrielles
-
-</td>
+<td>(8)</td>
+<td>Aliments non normalisés</td>
+<td>(8)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(9)** Margarine réduite en calories
-
-</td>
-<td>**(9)** 0,5 % selon les exigences de l'article B.09.017
-
-</td>
+<td>(9)</td>
+<td>Margarine réduite en calories</td>
+<td>(9)</td>
+<td>0,5 % selon les exigences de l'article B.09.017</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(10)** Crème sure
-
-</td>
-<td>**(10)** 0,5 % selon les exigences de la disposition B.08.077b)(vii)(A)
-
-</td>
+<td>(10)</td>
+<td>Crème sure</td>
+<td>(10)</td>
+<td>0,5 % selon les exigences de la disposition B.08.077b)(vii)(A)</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(11)** Asperges en conserve; haricots jaunes en conserve, haricots verts en conserve, pois en conserve
-
-</td>
-<td>**(11)** 1,0 % selon les exigences de la disposition B.11.022d)(viii)(C)
-
-</td>
+<td>(11)</td>
+<td>Asperges en conserve; haricots jaunes en conserve, haricots verts en conserve, pois en conserve</td>
+<td>(11)</td>
+<td>1,0 % selon les exigences de la disposition B.11.022d)(viii)(C)</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(12)** Fromage à la crème; fromage à la crème (avec indication des ingrédients ajoutés); fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés); fromage (indication de la variété) conditionné à froid (avec indication des ingrédients ajoutés); préparation de fromage conditionné à froid; préparation de fromage conditionné à froid (avec indication des ingrédients ajoutés)
-
-</td>
-<td>**(12)** 0,5 %, conformément aux exigences des articles B.08.035, B.08.037, B.08.038, B.08.039, B.08.041.3, B.08.041.4, B.08.041.6, B.08.041.7 et B.08.041.8
-
-</td>
+<td>(12)</td>
+<td>Fromage à la crème; fromage à la crème (avec indication des ingrédients ajoutés); fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés); fromage (indication de la variété) conditionné à froid (avec indication des ingrédients ajoutés); préparation de fromage conditionné à froid; préparation de fromage conditionné à froid (avec indication des ingrédients ajoutés)</td>
+<td>(12)</td>
+<td>0,5 %, conformément aux exigences des articles B.08.035, B.08.037, B.08.038, B.08.039, B.08.041.3, B.08.041.4, B.08.041.6, B.08.041.7 et B.08.041.8</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(13)** Préparations pour nourrissons sans lactose, à base de protéines du lait
-
-</td>
-<td>**(13)** 0,05 % de la préparation pour nourrissons prête à consommer. Si l’on emploie aussi l’algine ou la gomme de guar, ou les deux, le total ne doit pas dépasser 0,05 %
-
-</td>
+<td>(13)</td>
+<td>Préparations pour nourrissons sans lactose, à base de protéines du lait</td>
+<td>(13)</td>
+<td>0,05 % de la préparation pour nourrissons prête à consommer. Si l’on emploie aussi l’algine ou la gomme de guar, ou les deux, le total ne doit pas dépasser 0,05 %</td>
 </tr>
 <tr>
 <td>C.17</td>
-<td>Gomme de  cellulose</td>
-<td>Mêmes aliments que pour la carboxyméthylcellulose sodique
-
-</td>
-<td>Mêmes limites de tolérance que pour la carboxyméthylcellulose sodique
-
-</td>
+<td>Gomme de cellulose</td>
+<td></td>
+<td>Mêmes aliments que pour la carboxyméthylcellulose sodique</td>
+<td></td>
+<td>Mêmes limites de tolérance que pour la carboxyméthylcellulose sodique</td>
 </tr>
 <tr>
 <td>F.1</td>
 <td>Furcelleran</td>
-<td>**(1)** Ale; bière; bière légère; liqueur de malt; porter; stout
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Ale; bière; bière légère; liqueur de malt; porter; stout</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Aliments non normalisés
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Aliments non normalisés</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Margarine réduite en calories
-
-</td>
-<td>**(3)** 0,5 % selon les exigences de l'article B.09.017
-
-</td>
+<td>(3)</td>
+<td>Margarine réduite en calories</td>
+<td>(3)</td>
+<td>0,5 % selon les exigences de l'article B.09.017</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(4)** Asperges en conserve; haricots jaunes en conserve; haricots verts en conserve; pois en conserve
-
-</td>
-<td>**(4)** 1,0 % selon les exigences de la disposition B.11.002d)(viii)(C)
-
-</td>
+<td>(4)</td>
+<td>Asperges en conserve; haricots jaunes en conserve; haricots verts en conserve; pois en conserve</td>
+<td>(4)</td>
+<td>1,0 % selon les exigences de la disposition B.11.002d)(viii)(C)</td>
 </tr>
 <tr>
 <td>G.1</td>
 <td>Gélatine</td>
-<td>**(1)** Fromage de porc; (nom de la volaille) en conserve; crème; fromage de tête ou tête fromagée; gelée de (nom du fruit) avec pectine; liant à viande (quand il est vendu pour servir dans les sous-produits de la viande conditionnés dans lesquels un agent gélatinisant est autorisé); sous-produits de la viande en pain; pain de viande; lait (indication de l'arôme); cornichons à la moutarde; viande en pot; sous-produits de la viande en pot; poisson ou viande conditionnés (Titre 21); jambons, épaules, soc de porc et épaules de porc genre pique-nique préparés; achards (*relish*); lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait écrémé (indication de l'arôme) additionné de solides du lait; lait partiellement écrémé (indication de l'arôme) additionné de solides du lait; fromage fondu au lait écrémé
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Fromage de porc; (nom de la volaille) en conserve; crème; fromage de tête ou tête fromagée; gelée de (nom du fruit) avec pectine; liant à viande (quand il est vendu pour servir dans les sous-produits de la viande conditionnés dans lesquels un agent gélatinisant est autorisé); sous-produits de la viande en pain; pain de viande; lait (indication de l'arôme); cornichons à la moutarde; viande en pot; sous-produits de la viande en pot; poisson ou viande conditionnés (Titre 21); jambons, épaules, soc de porc et épaules de porc genre pique-nique préparés; achards (*relish*); lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait écrémé (indication de l'arôme) additionné de solides du lait; lait partiellement écrémé (indication de l'arôme) additionné de solides du lait; fromage fondu au lait écrémé</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Fromage cottage; fromage cottage en crème; crème glacée; mélange pour crème glacée; lait glacé; mélange pour lait glacé
-
-</td>
-<td>**(2)** 0,5 %
-
-</td>
+<td>(2)</td>
+<td>Fromage cottage; fromage cottage en crème; crème glacée; mélange pour crème glacée; lait glacé; mélange pour lait glacé</td>
+<td>(2)</td>
+<td>0,5 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Sorbet laitier
-
-</td>
-<td>**(3)** 0,75 %
-
-</td>
+<td>(3)</td>
+<td>Sorbet laitier</td>
+<td>(3)</td>
+<td>0,75 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(4)** Crème sure de la disposition B.08.077b)(vii)(A)
-
-</td>
-<td>**(4)** 0,5 % selon les exigences
-
-</td>
+<td>(4)</td>
+<td>Crème sure de la disposition B.08.077b)(vii)(A)</td>
+<td>(4)</td>
+<td>0,5 % selon les exigences</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(5)** Aliments non normalisés
-
-</td>
-<td>**(5)** Bonnes pratiques industrielles.
-
-</td>
+<td>(5)</td>
+<td>Aliments non normalisés</td>
+<td>(5)</td>
+<td>Bonnes pratiques industrielles.</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(6)** Fromage à la crème; fromage à la crème (avec indication des ingrédients ajoutés); fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés); fromage conditionné à froid (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage conditionné à froid; préparation de fromage conditionné à froid (avec indication des ingrédients ajoutés)
-
-</td>
-<td>**(6)** 0,5 %, conformément aux exigences des articles B.08.035, B.08.037, B.08.038, B.08.039, B.08.041.3, B.08.041.4, B.08.041.6, B.08.041.7 et B.08.041.8
-
-</td>
+<td>(6)</td>
+<td>Fromage à la crème; fromage à la crème (avec indication des ingrédients ajoutés); fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés); fromage conditionné à froid (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage conditionné à froid; préparation de fromage conditionné à froid (avec indication des ingrédients ajoutés)</td>
+<td>(6)</td>
+<td>0,5 %, conformément aux exigences des articles B.08.035, B.08.037, B.08.038, B.08.039, B.08.041.3, B.08.041.4, B.08.041.6, B.08.041.7 et B.08.041.8</td>
 </tr>
 <tr>
 <td>G.2</td>
 <td>Gomme gellan</td>
-<td>**(1)** Produits de confiserie; produits de givrage; (sauf pour l'un de ces produits visé par une norme dans le présent règlement)
-
-</td>
-<td>**(1)** 0,5 %
-
-</td>
+<td>(1)</td>
+<td>Produits de confiserie; produits de givrage; (sauf pour l'un de ces produits visé par une norme dans le présent règlement)</td>
+<td>(1)</td>
+<td>0,5 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Tartinades de fruits; aspics; produits de fruits transformés; (sauf pour l'un de ces produits visé par une norme dans le présent règlement)
-
-</td>
-<td>**(2)** 0,3 %
-
-</td>
+<td>(2)</td>
+<td>Tartinades de fruits; aspics; produits de fruits transformés; (sauf pour l'un de ces produits visé par une norme dans le présent règlement)</td>
+<td>(2)</td>
+<td>0,3 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Margarine réduite en calories; tartinades réduites en matière grasse
-
-</td>
-<td>**(3)** 0,25 %
-
-</td>
+<td>(3)</td>
+<td>Margarine réduite en calories; tartinades réduites en matière grasse</td>
+<td>(3)</td>
+<td>0,25 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(4)** Produits laitiers (sauf pour l'un de ces produits visé par une norme dans le présent règlement)
-
-</td>
-<td>**(4)** 0,15 %
-
-</td>
+<td>(4)</td>
+<td>Produits laitiers (sauf pour l'un de ces produits visé par une norme dans le présent règlement)</td>
+<td>(4)</td>
+<td>0,15 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(5)** Sauce vinaigrette; sauce à salade; sauces d'assaisonnements (sauf pour l'un de ces produits visé par une norme dans le présent règlement); gélatines; poudings; garnitures
-
-</td>
-<td>**(5)** 0,1 %
-
-</td>
+<td>(5)</td>
+<td>Sauce vinaigrette; sauce à salade; sauces d'assaisonnements (sauf pour l'un de ces produits visé par une norme dans le présent règlement); gélatines; poudings; garnitures</td>
+<td>(5)</td>
+<td>0,1 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(6)** Mélanges pour pâtisseries; produits de boulangerie; (sauf pour l'un de ces produits visé par une norme dans le présent règlement)
-
-</td>
-<td>**(6)** 0,1 % du mélange sec
-
-</td>
+<td>(6)</td>
+<td>Mélanges pour pâtisseries; produits de boulangerie; (sauf pour l'un de ces produits visé par une norme dans le présent règlement)</td>
+<td>(6)</td>
+<td>0,1 % du mélange sec</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(7)** Sauces; glaçages; sirops de table; (sauf pour l'un de ces produits visé par une norme dans le présent règlement)
-
-</td>
-<td>**(7)** 0,05 %
-
-</td>
+<td>(7)</td>
+<td>Sauces; glaçages; sirops de table; (sauf pour l'un de ces produits visé par une norme dans le présent règlement)</td>
+<td>(7)</td>
+<td>0,05 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(8)** Boissons (sauf pour l'un de ces produits visé par une norme dans le présent règlement)
-
-</td>
-<td>**(8)** 0,08 %
-
-</td>
+<td>(8)</td>
+<td>Boissons (sauf pour l'un de ces produits visé par une norme dans le présent règlement)</td>
+<td>(8)</td>
+<td>0,08 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(9)** Grignotines (sauf pour l'un de ces produits visé par une norme dans le présent règlement)
-
-</td>
-<td>**(9)** 0,1 %
-
-</td>
+<td>(9)</td>
+<td>Grignotines (sauf pour l'un de ces produits visé par une norme dans le présent règlement)</td>
+<td>(9)</td>
+<td>0,1 %</td>
 </tr>
 <tr>
 <td>G.3</td>
 <td>Gomme de guar</td>
-<td>**(1)** Crème; sauce vinaigrette; lait (indication de l'arôme); mincemeat; cornichons à la moutarde; achards (*relish*); sauce à salade; lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait écrémé (indication de l'arôme) additionné de solides du lait; lait partiellement écrémé (indication de l'arôme) additionné de solides du lait; fromage fondu au lait écrémé
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Crème; sauce vinaigrette; lait (indication de l'arôme); mincemeat; cornichons à la moutarde; achards (*relish*); sauce à salade; lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait écrémé (indication de l'arôme) additionné de solides du lait; lait partiellement écrémé (indication de l'arôme) additionné de solides du lait; fromage fondu au lait écrémé</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Fromage cottage; fromage cottage en crème; crème glacée; mélange pour crème glacée; lait glacé; mélange pour lait glacé
-
-</td>
-<td>**(2)** 0,5 %
-
-</td>
+<td>(2)</td>
+<td>Fromage cottage; fromage cottage en crème; crème glacée; mélange pour crème glacée; lait glacé; mélange pour lait glacé</td>
+<td>(2)</td>
+<td>0,5 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Préparations pour nourrissons
-
-</td>
-<td>**(3)** 0,03 % de la préparation pour nourrissons prête à consommer. Si l'on emploie aussi l'algine ou la carragénine ou les deux, le total ne doit pas dépasser 0,03 %
-
-</td>
+<td>(3)</td>
+<td>Préparations pour nourrissons</td>
+<td>(3)</td>
+<td>0,03 % de la préparation pour nourrissons prête à consommer. Si l'on emploie aussi l'algine ou la carragénine ou les deux, le total ne doit pas dépasser 0,03 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(4)** Sorbet laitier
-
-</td>
-<td>**(4)** 0,75 %
-
-</td>
+<td>(4)</td>
+<td>Sorbet laitier</td>
+<td>(4)</td>
+<td>0,75 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(5)** Aliments non normalisés
-
-</td>
-<td>**(5)** Bonnes pratiques industrielles
-
-</td>
+<td>(5)</td>
+<td>Aliments non normalisés</td>
+<td>(5)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(6)** Margarine réduite en calories
-
-</td>
-<td>**(6)** 0,5 % selon les exigences de l'article B.09.017
-
-</td>
+<td>(6)</td>
+<td>Margarine réduite en calories</td>
+<td>(6)</td>
+<td>0,5 % selon les exigences de l'article B.09.017</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(7)** Crème sure de la disposition B.08.077b)(vii)(A)
-
-</td>
-<td>**(7)** 0,5 % selon les exigences
-
-</td>
+<td>(7)</td>
+<td>Crème sure de la disposition B.08.077b)(vii)(A)</td>
+<td>(7)</td>
+<td>0,5 % selon les exigences</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(8)** Asperges en conserve; haricots jaunes en conserve; haricots verts en conserve; pois en conserve
-
-</td>
-<td>**(8)** 1,0 % selon les exigences de la disposition B.11.002d)(viii)(C)
-
-</td>
+<td>(8)</td>
+<td>Asperges en conserve; haricots jaunes en conserve; haricots verts en conserve; pois en conserve</td>
+<td>(8)</td>
+<td>1,0 % selon les exigences de la disposition B.11.002d)(viii)(C)</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(9)** Fromage à la crème; fromage à la crème (avec indication des ingrédients ajoutés); fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés); fromage (indication de la variété) conditionné à froid (avec indication des ingrédients ajoutés); préparation de fromage conditionné à froid; préparation de fromage conditionné à froid (avec indication des ingrédients ajoutés)
-
-</td>
-<td>**(9)** 0,5 %, conformément aux exigences des articles B.08.035, B.08.037, B.08.038, B.08.039, B.08.041.3, B.08.041.4, B.08.041.6, B.08.041.7 et B.08.041.8
-
-</td>
+<td>(9)</td>
+<td>Fromage à la crème; fromage à la crème (avec indication des ingrédients ajoutés); fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés); fromage (indication de la variété) conditionné à froid (avec indication des ingrédients ajoutés); préparation de fromage conditionné à froid; préparation de fromage conditionné à froid (avec indication des ingrédients ajoutés)</td>
+<td>(9)</td>
+<td>0,5 %, conformément aux exigences des articles B.08.035, B.08.037, B.08.038, B.08.039, B.08.041.3, B.08.041.4, B.08.041.6, B.08.041.7 et B.08.041.8</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(10)** Préparations pour nourrissons à base d’acides aminés isolés ou d’hydrolysats de protéines, ou des deux
-
-</td>
-<td>**(10)** 0,1 % de la préparation pour nourrissons prête à consommer. Si l’on emploie aussi l’algine ou la carraghénine, ou les deux, le total ne doit pas dépasser 0,1 %
-
-</td>
+<td>(10)</td>
+<td>Préparations pour nourrissons à base d’acides aminés isolés ou d’hydrolysats de protéines, ou des deux</td>
+<td>(10)</td>
+<td>0,1 % de la préparation pour nourrissons prête à consommer. Si l’on emploie aussi l’algine ou la carraghénine, ou les deux, le total ne doit pas dépasser 0,1 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(11)** Préparations pour nourrissons sans lactose, à base de protéines du lait
-
-</td>
-<td>**(11)** 0,05 % de la préparation pour nourrissons prête à consommer. Si l’on emploie aussi l’algine ou la carraghénine, ou les deux, le total ne doit pas dépasser 0,05 %
-
-</td>
+<td>(11)</td>
+<td>Préparations pour nourrissons sans lactose, à base de protéines du lait</td>
+<td>(11)</td>
+<td>0,05 % de la préparation pour nourrissons prête à consommer. Si l’on emploie aussi l’algine ou la carraghénine, ou les deux, le total ne doit pas dépasser 0,05 %</td>
 </tr>
 <tr>
 <td>G.4</td>
 <td>Gomme sénégal</td>
-<td>Mêmes aliments que pour la gomme arabique
-
-</td>
-<td>Mêmes limites de tolérance que pour la gomme arabique
-
-</td>
+<td></td>
+<td>Mêmes aliments que pour la gomme arabique</td>
+<td></td>
+<td>Mêmes limites de tolérance que pour la gomme arabique</td>
 </tr>
 <tr>
 <td>H.1</td>
 <td>Hydroxylécithine</td>
-<td>**(1)** Produits de chocolat; produits du cacao
-
-</td>
-<td>**(1)** 1,0 %
-
-</td>
+<td>(1)</td>
+<td>Produits de chocolat; produits du cacao</td>
+<td>(1)</td>
+<td>1,0 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Aliments non normalisés
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Aliments non normalisés</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>H.1A</td>
-<td>Hydroxypropyl  cellulose</td>
-<td>Aliments non normalisés
-
-</td>
-<td>Bonnes pratiques industrielles
-
-</td>
+<td>Hydroxypropyl cellulose</td>
+<td></td>
+<td>Aliments non normalisés</td>
+<td></td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>H.2</td>
-<td>Hydroxypropyl  méthylcellulose</td>
-<td>**(1)** Sauce vinaigrette; lait (indication de l'arôme); cornichons à la moutarde; achards (*relish*); lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait écrémé (indication de l'arôme) additionné de solides du lait; lait partiellement écrémé (indication de l'arôme) additionné de solides du lait; sauce à salade
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>Hydroxypropyl méthylcellulose</td>
+<td>(1)</td>
+<td>Sauce vinaigrette; lait (indication de l'arôme); cornichons à la moutarde; achards (*relish*); lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait écrémé (indication de l'arôme) additionné de solides du lait; lait partiellement écrémé (indication de l'arôme) additionné de solides du lait; sauce à salade</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Aliments non normalisés
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Aliments non normalisés</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>I.1</td>
 <td>Gélose de mousse d'Irlande</td>
-<td>Mêmes aliments que pour la carraghénine
-
-</td>
-<td>Mêmes limites de tolérance que pour la carraghénine
-
-</td>
+<td></td>
+<td>Mêmes aliments que pour la carraghénine</td>
+<td></td>
+<td>Mêmes limites de tolérance que pour la carraghénine</td>
 </tr>
 <tr>
 <td>K.1</td>
 <td>Gomme sterculia (Karaya)</td>
-<td>**(1)** Sauce vinaigrette; lait (indication de l'arôme); cornichons à la moutarde; achards (*relish*); lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait écrémé (indication de l'arôme) additionné de solides du lait; lait partiellement écrémé (indication de l'arôme) additionné de solides du lait
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Sauce vinaigrette; lait (indication de l'arôme); cornichons à la moutarde; achards (*relish*); lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait écrémé (indication de l'arôme) additionné de solides du lait; lait partiellement écrémé (indication de l'arôme) additionné de solides du lait</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Fromage cottage; fromage cottage en crème; crème glacée; mélange pour crème glacée; lait glacé; mélange pour lait glacé
-
-</td>
-<td>**(2)** 0,5 %
-
-</td>
+<td>(2)</td>
+<td>Fromage cottage; fromage cottage en crème; crème glacée; mélange pour crème glacée; lait glacé; mélange pour lait glacé</td>
+<td>(2)</td>
+<td>0,5 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Sorbet laitier
-
-</td>
-<td>**(3)** 0,75 %
-
-</td>
+<td>(3)</td>
+<td>Sorbet laitier</td>
+<td>(3)</td>
+<td>0,75 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(4)** Aliments non normalisés
-
-</td>
-<td>**(4)** Bonnes pratiques industrielles
-
-</td>
+<td>(4)</td>
+<td>Aliments non normalisés</td>
+<td>(4)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(5)** Margarine réduite en calories
-
-</td>
-<td>**(5)** 0,5 % selon les exigences de l'article B.09.017
-
-</td>
+<td>(5)</td>
+<td>Margarine réduite en calories</td>
+<td>(5)</td>
+<td>0,5 % selon les exigences de l'article B.09.017</td>
 </tr>
 <tr>
 <td>L.1</td>
-<td>Mono- et diglycérides  lactylés</td>
-<td>**(1)** *Shortening*
-
-</td>
-<td>**(1)** 8,0 % (sauf que le total des mono- et des diglycérides et des mono- et diglycérides lactylés, ne doit pas dépasser 20,0 % du *shortening*)
-
-</td>
+<td>Mono- et diglycérides lactylés</td>
+<td>(1)</td>
+<td>*Shortening*</td>
+<td>(1)</td>
+<td>8,0 % (sauf que le total des mono- et des diglycérides et des mono- et diglycérides lactylés, ne doit pas dépasser 20,0 % du *shortening*)</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Aliments non normalisés
-
-</td>
-<td>**(2)** 8,0 % de la teneur en gras
-
-</td>
+<td>(2)</td>
+<td>Aliments non normalisés</td>
+<td>(2)</td>
+<td>8,0 % de la teneur en gras</td>
 </tr>
 <tr>
 <td>L.1A</td>
-<td>Esters lactyliques  d'acides gras</td>
-<td>Aliments non normalisés
-
-</td>
-<td>Bonnes pratiques industrielles
-
-</td>
+<td>Esters lactyliques d'acides gras</td>
+<td></td>
+<td>Aliments non normalisés</td>
+<td></td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>L.2</td>
 <td>Lécithine</td>
-<td>**(1)** Pain; crème; lait (indication de l'arôme); cornichons à la moutarde; achards (*relish*); lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait écrémé (indication de l'arôme) additionné de solides du lait; lait partiellement écrémé (indication de l'arôme) additionné de solides du lait
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Pain; crème; lait (indication de l'arôme); cornichons à la moutarde; achards (*relish*); lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait écrémé (indication de l'arôme) additionné de solides du lait; lait partiellement écrémé (indication de l'arôme) additionné de solides du lait</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Crème glacée; mélange pour crème glacée; lait glacé; mélange pour lait glacé
-
-</td>
-<td>**(2)** 0,5 %, seul ou en combinaison avec d'autres agents émulsifiants
-
-</td>
+<td>(2)</td>
+<td>Crème glacée; mélange pour crème glacée; lait glacé; mélange pour lait glacé</td>
+<td>(2)</td>
+<td>0,5 %, seul ou en combinaison avec d'autres agents émulsifiants</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Préparations pour nourrissons
-
-</td>
-<td>**(3)** 0,03 % de la préparation pour nourrissons prête à consommer
-
-</td>
+<td>(3)</td>
+<td>Préparations pour nourrissons</td>
+<td>(3)</td>
+<td>0,03 % de la préparation pour nourrissons prête à consommer</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(4)** Sorbet laitier
-
-</td>
-<td>**(4)** 0,75 %
-
-</td>
+<td>(4)</td>
+<td>Sorbet laitier</td>
+<td>(4)</td>
+<td>0,75 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(5)** Aliments non normalisés
-
-</td>
-<td>**(5)** Bonnes pratiques industrielles
-
-</td>
+<td>(5)</td>
+<td>Aliments non normalisés</td>
+<td>(5)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(6)** Margarine
-
-</td>
-<td>**(6)** 0,2 %
-
-</td>
+<td>(6)</td>
+<td>Margarine</td>
+<td>(6)</td>
+<td>0,2 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(7)** Margarine réduite en calories
-
-</td>
-<td>**(7)** 0,5 %
-
-</td>
+<td>(7)</td>
+<td>Margarine réduite en calories</td>
+<td>(7)</td>
+<td>0,5 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(8)** Fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés)
-
-</td>
-<td>**(8)** 0,2 %
-
-</td>
+<td>(8)</td>
+<td>Fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés)</td>
+<td>(8)</td>
+<td>0,2 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(9)** Poudre de lait
-
-</td>
-<td>**(9)** 0,5 %
-
-</td>
+<td>(9)</td>
+<td>Poudre de lait</td>
+<td>(9)</td>
+<td>0,5 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>(10)Produits de chocolat; produits du cacao
-
-</td>
-<td>(10)1,0 %
-
-</td>
+<td>(10)</td>
+<td>Produits de chocolat; produits du cacao</td>
+<td>(10)</td>
+<td>1,0 %</td>
 </tr>
 <tr>
 <td>L.3</td>
 <td>Gomme de caroubier</td>
-<td>Mêmes aliments que pour la gomme de caroube
-
-</td>
-<td>Mêmes limites de tolérance que pour la gomme de caroube.
-
-</td>
+<td></td>
+<td>Mêmes aliments que pour la gomme de caroube</td>
+<td></td>
+<td>Mêmes limites de tolérance que pour la gomme de caroube.</td>
 </tr>
 <tr>
 <td>M.1</td>
 <td>Chlorure de magnésium</td>
-<td>Tofu
-
-</td>
-<td>0,3 %, calculé en sel anhydre
-
-</td>
+<td></td>
+<td>Tofu</td>
+<td></td>
+<td>0,3 %, calculé en sel anhydre</td>
 </tr>
 <tr>
 <td>M.2</td>
 <td>Méthylcellulose</td>
-<td>**(1)** Ale; bière; sauce vinaigrette; bière légère; liqueur de malt; porter; sauce à salade; stout
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Ale; bière; sauce vinaigrette; bière légère; liqueur de malt; porter; sauce à salade; stout</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Aliments non normalisés
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Aliments non normalisés</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>M.3</td>
-<td>Cellulose  méthyl-éthylique</td>
-<td>Aliments non normalisés
-
-</td>
-<td>Bonnes pratiques industrielles
-
-</td>
+<td>Cellulose méthyl-éthylique</td>
+<td></td>
+<td>Aliments non normalisés</td>
+<td></td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>M.4</td>
 <td>Monoglycérides</td>
-<td>**(1)** Pain; crème; pâte de poisson
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Pain; crème; pâte de poisson</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Produits de chocolat; produits du cacao
-
-</td>
-<td>**(2)** 1,5 %
-
-</td>
+<td>(2)</td>
+<td>Produits de chocolat; produits du cacao</td>
+<td>(2)</td>
+<td>1,5 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Mélange pour crème glacée; mélange pour lait glacé
-
-</td>
-<td>**(3)** Stabilisants dans la proportion totale de 0,5 %, conformément aux sous-alinéas B.08.061b)(vi) et B.08.071b)(vi)
-
-</td>
+<td>(3)</td>
+<td>Mélange pour crème glacée; mélange pour lait glacé</td>
+<td>(3)</td>
+<td>Stabilisants dans la proportion totale de 0,5 %, conformément aux sous-alinéas B.08.061b)(vi) et B.08.071b)(vi)</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(4)** Fromage cottage en crème
-
-</td>
-<td>**(4)** Bonnes pratiques industrielles
-
-</td>
+<td>(4)</td>
+<td>Fromage cottage en crème</td>
+<td>(4)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(5)** Préparations pour nourrissons
-
-</td>
-<td>**(5)** 0,25 % de la préparation pour nourrissons prête à consommer
-
-</td>
+<td>(5)</td>
+<td>Préparations pour nourrissons</td>
+<td>(5)</td>
+<td>0,25 % de la préparation pour nourrissons prête à consommer</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(6)** Boyaux de saucisse
-
-</td>
-<td>**(6)** 0,35 % du boyau
-
-</td>
+<td>(6)</td>
+<td>Boyaux de saucisse</td>
+<td>(6)</td>
+<td>0,35 % du boyau</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(7)** Margarine
-
-</td>
-<td>**(7)** 0,5 %
-
-</td>
+<td>(7)</td>
+<td>Margarine</td>
+<td>(7)</td>
+<td>0,5 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(8)** Sorbet laitier
-
-</td>
-<td>**(8)** 0,75 %
-
-</td>
+<td>(8)</td>
+<td>Sorbet laitier</td>
+<td>(8)</td>
+<td>0,75 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(9)** *Shortening*
-
-</td>
-<td>**(9)** 10,0 % (sauf que le total des mono et diglycérides et des mono et diglycérides lactylés ne doit pas dépasser 20,0 % du *shortening*)
-
-</td>
+<td>(9)</td>
+<td>*Shortening*</td>
+<td>(9)</td>
+<td>10,0 % (sauf que le total des mono et diglycérides et des mono et diglycérides lactylés ne doit pas dépasser 20,0 % du *shortening*)</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(10)** Crème sure
-
-</td>
-<td>**(10)** 0,3 %
-
-</td>
+<td>(10)</td>
+<td>Crème sure</td>
+<td>(10)</td>
+<td>0,3 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(11)** Aliments non normalisés
-
-</td>
-<td>**(11)** Bonnes pratiques industrielles
-
-</td>
+<td>(11)</td>
+<td>Aliments non normalisés</td>
+<td>(11)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(12)** Fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés)
-
-</td>
-<td>**(12)** 0,5 % conformément aux exigences des articles B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 et B.08.041.4
-
-</td>
+<td>(12)</td>
+<td>Fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés)</td>
+<td>(12)</td>
+<td>0,5 % conformément aux exigences des articles B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 et B.08.041.4</td>
 </tr>
 <tr>
 <td>M.5</td>
 <td>Mono- et diglycérides</td>
-<td>**(1)** Pain; crème; pâte de poisson
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Pain; crème; pâte de poisson</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Produits de chocolat; produits du cacao
-
-</td>
-<td>**(2)** 1,5 %
-
-</td>
+<td>(2)</td>
+<td>Produits de chocolat; produits du cacao</td>
+<td>(2)</td>
+<td>1,5 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Mélange pour crème glacée; mélange pour lait glacé
-
-</td>
-<td>**(3)** Stabilisants dans la proportion totale de 0,5 %, conformément aux sous-alinéas B.08.061b)(vi) et B.08.071b)(vi)
-
-</td>
+<td>(3)</td>
+<td>Mélange pour crème glacée; mélange pour lait glacé</td>
+<td>(3)</td>
+<td>Stabilisants dans la proportion totale de 0,5 %, conformément aux sous-alinéas B.08.061b)(vi) et B.08.071b)(vi)</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(4)** Fromage cottage;  Fromage cottage en crème
-
-</td>
-<td>**(4)** Bonnes pratiques industrielles
-
-</td>
+<td>(4)</td>
+<td>Fromage cottage; Fromage cottage en crème</td>
+<td>(4)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(5)** Préparations pour nourrissons
-
-</td>
-<td>**(5)** 0,25 % de la préparation pour nourrissons prête à consommer
-
-</td>
+<td>(5)</td>
+<td>Préparations pour nourrissons</td>
+<td>(5)</td>
+<td>0,25 % de la préparation pour nourrissons prête à consommer</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(6)** Boyaux de saucisse
-
-</td>
-<td>**(6)** 0,35 % du boyau
-
-</td>
+<td>(6)</td>
+<td>Boyaux de saucisse</td>
+<td>(6)</td>
+<td>0,35 % du boyau</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(7)** Margarine
-
-</td>
-<td>**(7)** 0,5 %
-
-</td>
+<td>(7)</td>
+<td>Margarine</td>
+<td>(7)</td>
+<td>0,5 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(8)** Sorbet laitier
-
-</td>
-<td>**(8)** 0,75 %
-
-</td>
+<td>(8)</td>
+<td>Sorbet laitier</td>
+<td>(8)</td>
+<td>0,75 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(9)** *Shortening*
-
-</td>
-<td>**(9)** 10,0 % (sauf que le total des mono et diglycérides et des mono et diglycérides lactylés ne doit pas dépasser 20,0 % du *shortening*)
-
-</td>
+<td>(9)</td>
+<td>*Shortening*</td>
+<td>(9)</td>
+<td>10,0 % (sauf que le total des mono et diglycérides et des mono et diglycérides lactylés ne doit pas dépasser 20,0 % du *shortening*)</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(10)** Crème sure
-
-</td>
-<td>**(10)** 0,3 %
-
-</td>
+<td>(10)</td>
+<td>Crème sure</td>
+<td>(10)</td>
+<td>0,3 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(11)** Aliments non normalisés
-
-</td>
-<td>**(11)** Bonnes pratiques industrielles
-
-</td>
+<td>(11)</td>
+<td>Aliments non normalisés</td>
+<td>(11)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(12)** Fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés)
-
-</td>
-<td>**(12)** 0,5 % conformément aux exigences des articles B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 et B.08.041.4
-
-</td>
+<td>(12)</td>
+<td>Fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés)</td>
+<td>(12)</td>
+<td>0,5 % conformément aux exigences des articles B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 et B.08.041.4</td>
 </tr>
 <tr>
 <td>M.6</td>
 <td>Sels monosodiques de mono- et diglycérides phosphorylés</td>
-<td>**(1)** Émulsions à base d'huiles végétales comestibles servant d'enduits pour batterie de cuisine
-
-</td>
-<td>**(1)**  4,0 %
-
-</td>
+<td>(1)</td>
+<td>Émulsions à base d'huiles végétales comestibles servant d'enduits pour batterie de cuisine</td>
+<td>(1)</td>
+<td> 4,0 %</td>
 </tr>
 <tr>
 <td>O.1</td>
 <td>Gomme d'avoine</td>
-<td>**(1)** Aliments non normalisés
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Aliments non normalisés</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>P.1</td>
 <td>Pectine</td>
-<td>**(1)** Confiture de pommes (ou de rhubarbe) et de (nom du fruit); crème, marmelade de figues; marmelade de figues avec pectine; sauce vinaigrette; confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; gelée de (nom du fruit); gelée de (nom du fruit) avec pectine; marmelade de (nom de l'agrume) avec pectine; lait (indication de l'arôme); mincemeat; cornichons à la moutarde; marmelade d'ananas; marmelade d'ananas avec pectine; achards (*relish*); sauce à salade; lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait écrémé (indication de l'arôme) additionné de solides du lait; lait partiellement écrémé (indication de l'arôme) additionné de solides du lait
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Confiture de pommes (ou de rhubarbe) et de (nom du fruit); crème, marmelade de figues; marmelade de figues avec pectine; sauce vinaigrette; confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; gelée de (nom du fruit); gelée de (nom du fruit) avec pectine; marmelade de (nom de l'agrume) avec pectine; lait (indication de l'arôme); mincemeat; cornichons à la moutarde; marmelade d'ananas; marmelade d'ananas avec pectine; achards (*relish*); sauce à salade; lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait écrémé (indication de l'arôme) additionné de solides du lait; lait partiellement écrémé (indication de l'arôme) additionné de solides du lait</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Crème glacée; mélange pour crème glacée; lait glacé; mélange pour lait glacé
-
-</td>
-<td>**(2)** 0,5 %
-
-</td>
+<td>(2)</td>
+<td>Crème glacée; mélange pour crème glacée; lait glacé; mélange pour lait glacé</td>
+<td>(2)</td>
+<td>0,5 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Crème sure
-
-</td>
-<td>**(3)** 0,5 % conformément à la disposition B.08.077b)(vii)(A)
-
-</td>
+<td>(3)</td>
+<td>Crème sure</td>
+<td>(3)</td>
+<td>0,5 % conformément à la disposition B.08.077b)(vii)(A)</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(4)** Sorbet laitier
-
-</td>
-<td>**(4)** 0,75 %
-
-</td>
+<td>(4)</td>
+<td>Sorbet laitier</td>
+<td>(4)</td>
+<td>0,75 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(5)** Aliments non normalisés
-
-</td>
-<td>**(5)** Bonnes pratiques industrielles
-
-</td>
+<td>(5)</td>
+<td>Aliments non normalisés</td>
+<td>(5)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>P.1A</td>
 <td>Esters polyglycéroliques d'acides gras</td>
-<td>**(1)** Aliments non normalisés
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Aliments non normalisés</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
-<td>**(2)** Huiles végétales
-
-</td>
-<td>**(2)** 0,025 %
-
-</td>
+<td>(2)</td>
+<td>Huiles végétales</td>
+<td>(2)</td>
+<td>0,025 %</td>
 </tr>
 <tr>
-<td>**(3)** Margarine réduite en calories
-
-</td>
-<td>**(3)** 0,2 % conformément aux exigences de l'alinéa B.09.017c)
-
-</td>
+<td>(3)</td>
+<td>Margarine réduite en calories</td>
+<td>(3)</td>
+<td>0,2 % conformément aux exigences de l'alinéa B.09.017c)</td>
 </tr>
 <tr>
 <td>P.1B</td>
 <td>Esters polyglycériques d'acides gras d'huile de ricin transestérifiés</td>
-<td>**(1)** Produits de chocolat
-
-</td>
-<td>**(1)** 0,5 %
-
-</td>
+<td>(1)</td>
+<td>Produits de chocolat</td>
+<td>(1)</td>
+<td>0,5 %</td>
 </tr>
 <tr>
-<td>**(2)** Enrobages non normalisés à saveur de chocolat pour produits de confiserie
-
-</td>
-<td>**(2)** 0,25 %
-
-</td>
+<td>(2)</td>
+<td>Enrobages non normalisés à saveur de chocolat pour produits de confiserie</td>
+<td>(2)</td>
+<td>0,25 %</td>
 </tr>
 <tr>
-<td>**(3)** Émulsions à base d'huiles végétales comestibles pour enduire les moules à cuisson
-
-</td>
-<td>**(3)** 2,0 %
-
-</td>
+<td>(3)</td>
+<td>Émulsions à base d'huiles végétales comestibles pour enduire les moules à cuisson</td>
+<td>(3)</td>
+<td>2,0 %</td>
 </tr>
 <tr>
 <td>P.2</td>
-<td>Mono-oélate polyoxyéthylénique (20) de sorbitan  Polysorbate 80</td>
-<td>**(1)** Crème glacée; mélange pour crème glacée; lait glacé; mélange pour lait glacé; sorbet laitier
-
-</td>
-<td>**(1)** 0,1 %. Si l'on emploie le tristéarate polyoxyéthylénique (20) de sorbitan, le total ne doit pas dépasser 0,1 %
-
-</td>
+<td>Mono-oélate polyoxyéthylénique (20) de sorbitan Polysorbate 80</td>
+<td>(1)</td>
+<td>Crème glacée; mélange pour crème glacée; lait glacé; mélange pour lait glacé; sorbet laitier</td>
+<td>(1)</td>
+<td>0,1 %. Si l'on emploie le tristéarate polyoxyéthylénique (20) de sorbitan, le total ne doit pas dépasser 0,1 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Desserts congelés non normalisés
-
-</td>
-<td>**(2)** 0,1 %
-
-</td>
+<td>(2)</td>
+<td>Desserts congelés non normalisés</td>
+<td>(2)</td>
+<td>0,1 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Achards (*relish*) et cornichons
-
-</td>
-<td>**(3)** 0,05 %
-
-</td>
+<td>(3)</td>
+<td>Achards (*relish*) et cornichons</td>
+<td>(3)</td>
+<td>0,05 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(4)** Bases ou mélanges pour breuvages
-
-</td>
-<td>**(4)** 0,05 % du breuvage. Si l'on emploie aussi le monostéarate de sorbitan, le total ne doit pas dépasser 0,05 % du breuvage
-
-</td>
+<td>(4)</td>
+<td>Bases ou mélanges pour breuvages</td>
+<td>(4)</td>
+<td>0,05 % du breuvage. Si l'on emploie aussi le monostéarate de sorbitan, le total ne doit pas dépasser 0,05 % du breuvage</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(5)** Mélange imitation de crème en poudre
-
-</td>
-<td>**(5)** 0,1 %. Si l'on emploie aussi le monostéarate polyoxyéthylénique (20) de sorbitan, le tristéarate polyoxyéthylénique (20) de sorbitan ou le monostéarate de sorbitan, seuls ou mélangés, le total ne doit pas dépasser 0,4 %
-
-</td>
+<td>(5)</td>
+<td>Mélange imitation de crème en poudre</td>
+<td>(5)</td>
+<td>0,1 %. Si l'on emploie aussi le monostéarate polyoxyéthylénique (20) de sorbitan, le tristéarate polyoxyéthylénique (20) de sorbitan ou le monostéarate de sorbitan, seuls ou mélangés, le total ne doit pas dépasser 0,4 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(6)** Garnitures fouettées à l'huile végétale
-
-</td>
-<td>**(6)** 0,05 %. Si l'on emploie aussi le monostéarate polyoxyéthylénique (20) de sorbitan, le tristéarate polyoxyéthylénique (20) de sorbitan ou le monostéarate de sorbitan, seuls ou mélangés, le total ne doit pas dépasser 0,4 %
-
-</td>
+<td>(6)</td>
+<td>Garnitures fouettées à l'huile végétale</td>
+<td>(6)</td>
+<td>0,05 %. Si l'on emploie aussi le monostéarate polyoxyéthylénique (20) de sorbitan, le tristéarate polyoxyéthylénique (20) de sorbitan ou le monostéarate de sorbitan, seuls ou mélangés, le total ne doit pas dépasser 0,4 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(7)** Glaces à gâteaux; mélanges pour glaces à gâteaux
-
-</td>
-<td>**(7)** 0,5 % de la glace à gâteau finie. Si l'on emploie aussi le monostéarate polyoxyéthylénique (20) de sorbitan ou le monostéarate de sorbitan, seuls ou mélangés, le total ne doit pas dépasser 0,5 % de la glace à gâteau finie
-
-</td>
+<td>(7)</td>
+<td>Glaces à gâteaux; mélanges pour glaces à gâteaux</td>
+<td>(7)</td>
+<td>0,5 % de la glace à gâteau finie. Si l'on emploie aussi le monostéarate polyoxyéthylénique (20) de sorbitan ou le monostéarate de sorbitan, seuls ou mélangés, le total ne doit pas dépasser 0,5 % de la glace à gâteau finie</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(8)** Sel
-
-</td>
-<td>**(8)** 10 parties par million
-
-</td>
+<td>(8)</td>
+<td>Sel</td>
+<td>(8)</td>
+<td>10 parties par million</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(9)** Crème fouettée
-
-</td>
-<td>**(9)** 0,1 %
-
-</td>
+<td>(9)</td>
+<td>Crème fouettée</td>
+<td>(9)</td>
+<td>0,1 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(10)** Produits purifiant l'haleine, sous forme de bonbons, de comprimés ou de gomme à mâcher
-
-</td>
-<td>**(10)** 100 p.p.m.
-
-</td>
+<td>(10)</td>
+<td>Produits purifiant l'haleine, sous forme de bonbons, de comprimés ou de gomme à mâcher</td>
+<td>(10)</td>
+<td>100 p.p.m.</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(11)** Fromage cottage en crème
-
-</td>
-<td>**(11)** 80 p.p.m.
-
-</td>
+<td>(11)</td>
+<td>Fromage cottage en crème</td>
+<td>(11)</td>
+<td>80 p.p.m.</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(12)** Huiles d'épice et oléorésines d'épice utilisées dans le mélange de salaison pour mariner des viandes de salaison ou des sous-produits de viande de salaison (Titre 14)
-
-</td>
-<td>**(12)** 0,2 % de la marinade
-
-</td>
+<td>(12)</td>
+<td>Huiles d'épice et oléorésines d'épice utilisées dans le mélange de salaison pour mariner des viandes de salaison ou des sous-produits de viande de salaison (Titre 14)</td>
+<td>(12)</td>
+<td>0,2 % de la marinade</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(13)** Boyaux de saucisse
-
-</td>
-<td>**(13)** 0,15 % de boyau
-
-</td>
+<td>(13)</td>
+<td>Boyaux de saucisse</td>
+<td>(13)</td>
+<td>0,15 % de boyau</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(14)** Agents aromatisants à saveur de fumée
-
-</td>
-<td>**(14)** Bonnes pratiques industrielles. Les résidus de polysorbate 80 ne doivent pas dépasser 275 p.p.m. dans le produit fini.
-
-</td>
+<td>(14)</td>
+<td>Agents aromatisants à saveur de fumée</td>
+<td>(14)</td>
+<td>Bonnes pratiques industrielles. Les résidus de polysorbate 80 ne doivent pas dépasser 275 p.p.m. dans le produit fini.</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(15)** Huiles végétales
-
-</td>
-<td>**(15)** 0,125 %
-
-</td>
+<td>(15)</td>
+<td>Huiles végétales</td>
+<td>(15)</td>
+<td>0,125 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(16)** Préparations de rocou
-
-</td>
-<td>**(16)** 25 % de la préparation colorante totale
-
-</td>
+<td>(16)</td>
+<td>Préparations de rocou</td>
+<td>(16)</td>
+<td>25 % de la préparation colorante totale</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(17)** Préparations de curcuma
-
-</td>
-<td>**(17)** 50 % de la préparation colorante totale
-
-</td>
+<td>(17)</td>
+<td>Préparations de curcuma</td>
+<td>(17)</td>
+<td>50 % de la préparation colorante totale</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(18)** Arômes de fumée liquide concentrés
-
-</td>
-<td>**(18)** Bonne pratiques industrielles. Les résidus de polysorbate 80 ne peuvent dépasser 0,3 % dans le produit fini.
-
-</td>
+<td>(18)</td>
+<td>Arômes de fumée liquide concentrés</td>
+<td>(18)</td>
+<td>Bonne pratiques industrielles. Les résidus de polysorbate 80 ne peuvent dépasser 0,3 % dans le produit fini.</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(19)** Sauce à salade non normalisée
-
-</td>
-<td>**(19)** 0,25 %
-
-</td>
+<td>(19)</td>
+<td>Sauce à salade non normalisée</td>
+<td>(19)</td>
+<td>0,25 %</td>
 </tr>
 <tr>
 <td>P.3</td>
-<td>Monostéarate  polyoxyéthylénique (20) de  sorbitan  Polysorbate 60</td>
-<td>**(1)** Mélange imitation de crème en poudre; agents de crémage à l'huile végétale; garnitures fouettées à l'huile végétale; mélange pour garnitures à l'huile végétale
-
-</td>
-<td>**(1)** 0,4 %. Si l'on emploie aussi le tristéarate polyoxyéthylénique (20) de sorbitan, le monostéarate de sorbitan, ou le mono-oléate polyoxyéthylénique (20) de sorbitan, soit séparément, soit ensemble, le total ne doit pas dépasser 0,4 %, sauf que, dans les garnitures fouettées renfermant de l'huile végétale, on peut employer une combinaison de polysorbate (60) et de monostéarate de sorbitan de plus de 0,4 %, si la proportion de polysorbate (60) ne dépasse pas 0,77 % et celle du monostéarate de sorbitan ne dépasse pas 0,27 % de la garniture fouettée renfermant de l'huile végétale
-
-</td>
+<td>Monostéarate polyoxyéthylénique (20) de sorbitan Polysorbate 60</td>
+<td>(1)</td>
+<td>Mélange imitation de crème en poudre; agents de crémage à l'huile végétale; garnitures fouettées à l'huile végétale; mélange pour garnitures à l'huile végétale</td>
+<td>(1)</td>
+<td>0,4 %. Si l'on emploie aussi le tristéarate polyoxyéthylénique (20) de sorbitan, le monostéarate de sorbitan, ou le mono-oléate polyoxyéthylénique (20) de sorbitan, soit séparément, soit ensemble, le total ne doit pas dépasser 0,4 %, sauf que, dans les garnitures fouettées renfermant de l'huile végétale, on peut employer une combinaison de polysorbate (60) et de monostéarate de sorbitan de plus de 0,4 %, si la proportion de polysorbate (60) ne dépasse pas 0,77 % et celle du monostéarate de sorbitan ne dépasse pas 0,27 % de la garniture fouettée renfermant de l'huile végétale</td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Gâteaux
-
-</td>
-<td>**(2)** 0,5 % du poids à l'état sec. Si l'on emploie aussi le tristéarate polyoxyéthylénique (20) de sorbitan, le total ne doit pas dépasser 0,5 % du poids sec
-
-</td>
+<td></td>
+<td>(2)</td>
+<td>Gâteaux</td>
+<td>(2)</td>
+<td>0,5 % du poids à l'état sec. Si l'on emploie aussi le tristéarate polyoxyéthylénique (20) de sorbitan, le total ne doit pas dépasser 0,5 % du poids sec</td>
 </tr>
 <tr>
 <td></td>
-<td>**(3)** Gâteaux; mélanges à gâteaux
-
-</td>
-<td>**(3)** 0,5 % du poids à l'état sec. Si l'on emploie aussi le monostéarate de sorbitan, le total ne doit pas dépasser 0,7 % du poids à l'état sec
-
-</td>
+<td></td>
+<td>(3)</td>
+<td>Gâteaux; mélanges à gâteaux</td>
+<td>(3)</td>
+<td>0,5 % du poids à l'état sec. Si l'on emploie aussi le monostéarate de sorbitan, le total ne doit pas dépasser 0,7 % du poids à l'état sec</td>
 </tr>
 <tr>
 <td></td>
-<td>**(4)** Enrobages non normalisés pour produits de confiserie et produits de confiserie moulés non normalisés utilisés comme confiserie ou pour la cuisson.
-
-</td>
-<td>**(4)** 0,5 %. Si l'on emploie aussi un mélange de l'un quelconque des ingrédients suivants : tristéarate polyoxyéthymique [polyoxyéthylénique] (20) de sorbitan, monostéarate de sorbitan ou tristéarate de sorbitan, le total ne doit pas dépasser 1,0 %
-
-</td>
+<td></td>
+<td>(4)</td>
+<td>Enrobages non normalisés pour produits de confiserie et produits de confiserie moulés non normalisés utilisés comme confiserie ou pour la cuisson.</td>
+<td>(4)</td>
+<td>0,5 %. Si l'on emploie aussi un mélange de l'un quelconque des ingrédients suivants : tristéarate polyoxyéthymique [polyoxyéthylénique] (20) de sorbitan, monostéarate de sorbitan ou tristéarate de sorbitan, le total ne doit pas dépasser 1,0 %</td>
 </tr>
 <tr>
 <td></td>
-<td>**(5)** Glaces à gâteaux; mélange pour glaces à gâteaux
-
-</td>
-<td>**(5)** 0,5 % de la glace à gâteau finie. Si l'on emploie aussi le monostéarate de sorbitan ou le mono-oléate polyoxyéthylénique (20) de sorbitan, seuls ou mélangés, le total ne doit pas dépasser 0,5 % de la glace à gâteau finie
-
-</td>
+<td></td>
+<td>(5)</td>
+<td>Glaces à gâteaux; mélange pour glaces à gâteaux</td>
+<td>(5)</td>
+<td>0,5 % de la glace à gâteau finie. Si l'on emploie aussi le monostéarate de sorbitan ou le mono-oléate polyoxyéthylénique (20) de sorbitan, seuls ou mélangés, le total ne doit pas dépasser 0,5 % de la glace à gâteau finie</td>
 </tr>
 <tr>
 <td></td>
-<td>**(6)** Poudings; garnitures à tarte
-
-</td>
-<td>**(6)** 0,5 % du poids à l'état sec
-
-</td>
+<td></td>
+<td>(6)</td>
+<td>Poudings; garnitures à tarte</td>
+<td>(6)</td>
+<td>0,5 % du poids à l'état sec</td>
 </tr>
 <tr>
 <td></td>
-<td>**(7)** Bases ou mélanges pour breuvages
-
-</td>
-<td>**(7)** 0,05 % du breuvage. Si l'on emploie aussi le monostéarate de sorbitan, le total ne doit pas dépasser 0,05 % du breuvage
-
-</td>
+<td></td>
+<td>(7)</td>
+<td>Bases ou mélanges pour breuvages</td>
+<td>(7)</td>
+<td>0,05 % du breuvage. Si l'on emploie aussi le monostéarate de sorbitan, le total ne doit pas dépasser 0,05 % du breuvage</td>
 </tr>
 <tr>
 <td></td>
-<td>**(8)** Substitut de crème sure (aigre)
-
-</td>
-<td>**(8)** 0,1 %
-
-</td>
+<td></td>
+<td>(8)</td>
+<td>Substitut de crème sure (aigre)</td>
+<td>(8)</td>
+<td>0,1 %</td>
 </tr>
 <tr>
 <td></td>
-<td>**(9)** Sauces à salade non normalisées; sauces cuisinées, non normalisées, en boîte
-
-</td>
-<td>**(9)** 0,3 %
-
-</td>
+<td></td>
+<td>(9)</td>
+<td>Sauces à salade non normalisées; sauces cuisinées, non normalisées, en boîte</td>
+<td>(9)</td>
+<td>0,3 %</td>
 </tr>
 <tr>
 <td></td>
-<td>**(10)** Base de matière grasse pour l'auto-arrosage de la volaille par injection
-
-</td>
-<td>**(10)** 0,25 %
-
-</td>
+<td></td>
+<td>(10)</td>
+<td>Base de matière grasse pour l'auto-arrosage de la volaille par injection</td>
+<td>(10)</td>
+<td>0,25 %</td>
 </tr>
 <tr>
 <td></td>
-<td>**(11)** Garnitures à sandwich et trempettes non normalisées
-
-</td>
-<td>**(11)** 0,2 %
-
-</td>
+<td></td>
+<td>(11)</td>
+<td>Garnitures à sandwich et trempettes non normalisées</td>
+<td>(11)</td>
+<td>0,2 %</td>
 </tr>
 <tr>
 <td></td>
-<td>**(12)** Bases ou mélanges secs pour soupes
-
-</td>
-<td>**(12)** 250 p.p.m. de soupe prête à consommer
-
-</td>
+<td></td>
+<td>(12)</td>
+<td>Bases ou mélanges secs pour soupes</td>
+<td>(12)</td>
+<td>250 p.p.m. de soupe prête à consommer</td>
 </tr>
 <tr>
 <td></td>
-<td>**(13)** Mélange sec de pâte à frire d'enrobage
-
-</td>
-<td>**(13)** 0,5 % du mélange sec
-
-</td>
+<td></td>
+<td>(13)</td>
+<td>Mélange sec de pâte à frire d'enrobage</td>
+<td>(13)</td>
+<td>0,5 % du mélange sec</td>
 </tr>
 <tr>
 <td></td>
-<td>**(14)** Cocktails alcoolisés préparés
-
-</td>
-<td>**(14)** 120 p.p.m. dans la boisson prête à consommer
-
-</td>
+<td></td>
+<td>(14)</td>
+<td>Cocktails alcoolisés préparés</td>
+<td>(14)</td>
+<td>120 p.p.m. dans la boisson prête à consommer</td>
 </tr>
 <tr>
 <td>P.4</td>
 <td>Polyoxyéthylène (20) Tristéarate de sorbitan; Polysorbate 65</td>
-<td>**(1)** Lait (indication de l'arôme); lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait écrémé (indication de l'arôme) additionné de solides du lait; lait partiellement écrémé (indication de l'arôme) additionné de solides du lait
-
-</td>
-<td>**(1)** 0,5 %
-
-</td>
-</tr>
-<tr>
-<td></td>
-<td>**(2)** Crème glacée; mélange pour crème glacée; lait glacé; mélange pour lait glacé; sorbet laitier
-
-</td>
-<td>**(2)** 0,1 %. Si l'on emploie aussi le mono-oléate polyoxyéthylénique (20) de sorbitan, le total ne doit pas dépasser 0,1 %
-
-</td>
-</tr>
-<tr>
-<td></td>
-<td>**(3)** Desserts congelés non normalisés
-
-</td>
-<td>**(3)** 0,1 %
-
-</td>
-</tr>
-<tr>
-<td></td>
-<td>**(4)** Gâteaux
-
-</td>
-<td>**(4)** 0,3 % du poids à l'état sec. Si l'on emploie aussi le monostéarate polyoxyéthylénique (20) de sorbitan, le total ne doit pas dépasser 0,5 % du poids sec
-
-</td>
-</tr>
-<tr>
-<td></td>
-<td>**(5)** Couvertures à bonbons non normalisés
-
-</td>
-<td>**(5)** 0,5 %. Si l'on emploie aussi un mélange de l'un quelconque des ingrédients suivants : monostéarate polyoxyéthylénique (20) de sorbitan, monostéarate de sorbitan ou tristéarate de sorbitan, le total ne doit pas dépasser 1,0 %
-
-</td>
+<td>(1)</td>
+<td>Lait (indication de l'arôme); lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait écrémé (indication de l'arôme) additionné de solides du lait; lait partiellement écrémé (indication de l'arôme) additionné de solides du lait</td>
+<td>(1)</td>
+<td>0,5 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(6)** Bases ou mélanges pour breuvages
-
-</td>
-<td>**(6)** 0,05 % du breuvage. Si l'on emploie aussi le monostéarate de sorbitan, le total ne doit pas dépasser 0,05 % du breuvage
-
-</td>
+<td>(2)</td>
+<td>Crème glacée; mélange pour crème glacée; lait glacé; mélange pour lait glacé; sorbet laitier</td>
+<td>(2)</td>
+<td>0,1 %. Si l'on emploie aussi le mono-oléate polyoxyéthylénique (20) de sorbitan, le total ne doit pas dépasser 0,1 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(7)** Mélange imitation de crème en poudre; agents de crémage à l'huile végétale; garnitures fouettées à l'huile végétale; mélange pour garniture à l'huile végétale
-
-</td>
-<td>**(7)** 0,4 %. Si l'on emploie aussi le monostéarate polyoxyéthylénique (20) de sorbitan, le monostéarate de sorbitan ou le mono-oléate polyoxyéthylénique (20) de sorbitan, seuls ou mélangés, le total ne doit pas dépasser 0,4 %
-
-</td>
+<td>(3)</td>
+<td>Desserts congelés non normalisés</td>
+<td>(3)</td>
+<td>0,1 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(8)** Produits purifiant l'haleine, sous forme de bonbons, de comprimés et de gomme à mâcher
-
-</td>
-<td>**(8)** 200 p.p.m.
-
-</td>
+<td>(4)</td>
+<td>Gâteaux</td>
+<td>(4)</td>
+<td>0,3 % du poids à l'état sec. Si l'on emploie aussi le monostéarate polyoxyéthylénique (20) de sorbitan, le total ne doit pas dépasser 0,5 % du poids sec</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(5)</td>
+<td>Couvertures à bonbons non normalisés</td>
+<td>(5)</td>
+<td>0,5 %. Si l'on emploie aussi un mélange de l'un quelconque des ingrédients suivants : monostéarate polyoxyéthylénique (20) de sorbitan, monostéarate de sorbitan ou tristéarate de sorbitan, le total ne doit pas dépasser 1,0 %</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(6)</td>
+<td>Bases ou mélanges pour breuvages</td>
+<td>(6)</td>
+<td>0,05 % du breuvage. Si l'on emploie aussi le monostéarate de sorbitan, le total ne doit pas dépasser 0,05 % du breuvage</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(7)</td>
+<td>Mélange imitation de crème en poudre; agents de crémage à l'huile végétale; garnitures fouettées à l'huile végétale; mélange pour garniture à l'huile végétale</td>
+<td>(7)</td>
+<td>0,4 %. Si l'on emploie aussi le monostéarate polyoxyéthylénique (20) de sorbitan, le monostéarate de sorbitan ou le mono-oléate polyoxyéthylénique (20) de sorbitan, seuls ou mélangés, le total ne doit pas dépasser 0,4 %</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(8)</td>
+<td>Produits purifiant l'haleine, sous forme de bonbons, de comprimés et de gomme à mâcher</td>
+<td>(8)</td>
+<td>200 p.p.m.</td>
 </tr>
 <tr>
 <td>P.5</td>
 <td>Stéarate polyoxyéthylénique (8)</td>
-<td>Produits de boulangerie non normalisés
-
-</td>
-<td>0,4 %
-
-</td>
+<td></td>
+<td>Produits de boulangerie non normalisés</td>
+<td></td>
+<td>0,4 %</td>
 </tr>
 <tr>
 <td>P.6</td>
 <td>Alginate de potassium</td>
-<td>Mêmes aliments que pour l'algine
-
-</td>
-<td>Mêmes limites de tolérance que pour l'algine
-
-</td>
+<td></td>
+<td>Mêmes aliments que pour l’algine</td>
+<td></td>
+<td>Mêmes limites de tolérance que pour l'algine</td>
 </tr>
 <tr>
 <td>P.7</td>
 <td>Carragénine potassique</td>
-<td>Mêmes aliments que pour la carraghénine
-
-</td>
-<td>Mêmes limites de tolérance que pour la carraghénine
-
-</td>
+<td></td>
+<td>Mêmes aliments que pour la carraghénine</td>
+<td></td>
+<td>Mêmes limites de tolérance que pour la carraghénine</td>
 </tr>
 <tr>
 <td>P.8</td>
 <td>Chlorure de potassium</td>
-<td>Aliments non normalisés
-
-</td>
-<td>Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>Aliments non normalisés</td>
+<td></td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>P.9</td>
 <td>Citrate de potassium</td>
-<td>**(1)** Fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés)
-
-</td>
-<td>**(1)** 4,0 %, conformément aux exigences des articles B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 et B.08.041.4
-
-</td>
+<td>(1)</td>
+<td>Fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés)</td>
+<td>(1)</td>
+<td>4,0 %, conformément aux exigences des articles B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 et B.08.041.4</td>
 </tr>
 <tr>
 <td>P.10</td>
 <td>Furcelleran de potassium</td>
-<td>Mêmes aliments que pour le furcelleran
-
-</td>
-<td>Mêmes limites de tolérance que pour le furcelleran
-
-</td>
+<td></td>
+<td>Mêmes aliments que pour le furcelleran</td>
+<td></td>
+<td>Mêmes limites de tolérance que pour le furcelleran</td>
 </tr>
 <tr>
 <td>P.11</td>
 <td>Phosphate dipotassique</td>
-<td>**(1)** Fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés)
-
-</td>
-<td>**(1)** 3,5 %, conformément aux exigences des articles B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 et B.08.041.4
-
-</td>
+<td>(1)</td>
+<td>Fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés)</td>
+<td>(1)</td>
+<td>3,5 %, conformément aux exigences des articles B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 et B.08.041.4</td>
 </tr>
 <tr>
 <td>P.12</td>
 <td>Alginate de propylèneglycol</td>
-<td>**(1)** Ale; bière; sauce vinaigrette; bière légère; liqueur de malt; cornichons à la moutarde; porter; fromage fondu; fromage à la crème fondu; achards (*relish*); sauce à salade; stout
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
-</tr>
-<tr>
-<td></td>
-<td>**(2)** Fromage cottage; fromage cottage en crème; crème glacée; mélange pour crème glacée;
-
-</td>
-<td>**(2)** 0,5 %
-
-</td>
-</tr>
-<tr>
-<td></td>
-<td>**(3)** Sorbet laitier
-
-</td>
-<td>**(3)** 0,75 %
-
-</td>
+<td>(1)</td>
+<td>Ale; bière; sauce vinaigrette; bière légère; liqueur de malt; cornichons à la moutarde; porter; fromage fondu; fromage à la crème fondu; achards (*relish*); sauce à salade; stout</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(4)** Aliments non normalisés
-
-</td>
-<td>**(4)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Fromage cottage; fromage cottage en crème; crème glacée; mélange pour crème glacée;</td>
+<td>(2)</td>
+<td>0,5 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(5)** Margarine réduite en calories
-
-</td>
-<td>**(5)** 0,5 % selon les exigences de l'article B.09.017
-
-</td>
+<td>(3)</td>
+<td>Sorbet laitier</td>
+<td>(3)</td>
+<td>0,75 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(6)** Crème sure
-
-</td>
-<td>**(6)** 0,5 % selon les exigences de la disposition B.08.077b)(vii)(A)
-
-</td>
+<td>(4)</td>
+<td>Aliments non normalisés</td>
+<td>(4)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(7)** Asperges et conserve; haricots jaunes en conserve; haricots verts en conserve; pois en conserve
-
-</td>
-<td>**(7)** 1,0 % selon les exigences de la disposition B.11.002d)(viii)(C)
-
-</td>
+<td>(5)</td>
+<td>Margarine réduite en calories</td>
+<td>(5)</td>
+<td>0,5 % selon les exigences de l'article B.09.017</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(8)** Fromage à la crème; fromage à la crème (avec indication des ingrédients ajoutés); fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés); fromage (indication de la variété) conditionné à froid (avec indication des ingrédients ajoutés); préparation de fromage conditionné à froid; préparation de fromage conditionné à froid (avec indication des ingrédients ajoutés)
-
-</td>
-<td>**(8)** 0,5 %, conformément aux exigences des articles B.08.035, B.08.037, B.08.038, B.08.039, B.08.041.3, B.08.041.4, B.08.041.6, B.08.041.7 et B.08.041.8
-
-</td>
+<td>(6)</td>
+<td>Crème sure</td>
+<td>(6)</td>
+<td>0,5 % selon les exigences de la disposition B.08.077b)(vii)(A)</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(7)</td>
+<td>Asperges et conserve; haricots jaunes en conserve; haricots verts en conserve; pois en conserve</td>
+<td>(7)</td>
+<td>1,0 % selon les exigences de la disposition B.11.002d)(viii)(C)</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(8)</td>
+<td>Fromage à la crème; fromage à la crème (avec indication des ingrédients ajoutés); fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés); fromage (indication de la variété) conditionné à froid (avec indication des ingrédients ajoutés); préparation de fromage conditionné à froid; préparation de fromage conditionné à froid (avec indication des ingrédients ajoutés)</td>
+<td>(8)</td>
+<td>0,5 %, conformément aux exigences des articles B.08.035, B.08.037, B.08.038, B.08.039, B.08.041.3, B.08.041.4, B.08.041.6, B.08.041.7 et B.08.041.8</td>
 </tr>
 <tr>
 <td>P.13</td>
 <td>Ether propylèneglycolique de méthylcellulose</td>
-<td>Mêmes aliments que l'hydroxypropyl méthylcellulose
-
-</td>
-<td>Mêmes limites de tolérance que pour l'hydroxypropyl méthylcellulose
-
-</td>
+<td></td>
+<td>Mêmes aliments que l’hydroxypropyl méthylcellulose</td>
+<td></td>
+<td>Mêmes limites de tolérance que pour l’hydroxypropyl méthylcellulose</td>
 </tr>
 <tr>
 <td>P.14</td>
 <td>Esters monoacides gras de propylèneglycol</td>
-<td>**(1)** Mélange pour crème glacée
-
-</td>
-<td>**(1)** 0,35 % de la crème glacée faite du mélange
-
-</td>
+<td>(1)</td>
+<td>Mélange pour crème glacée</td>
+<td>(1)</td>
+<td>0,35 % de la crème glacée faite du mélange</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Aliments non normalisés
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Aliments non normalisés</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>S.1</td>
-<td>Pyrophosphate  acide de sodium</td>
-<td>**(1)** Fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner avec (indication des ingrédients ajoutés)
-
-</td>
-<td>**(1)** 3,5 %, conformément aux exigences des articles B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 et B.08.041.4
-
-</td>
+<td>Pyrophosphate acide de sodium</td>
+<td>(1)</td>
+<td>Fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner avec (indication des ingrédients ajoutés)</td>
+<td>(1)</td>
+<td>3,5 %, conformément aux exigences des articles B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 et B.08.041.4</td>
 </tr>
 <tr>
 <td>S.2</td>
 <td>Alginate de sodium</td>
-<td>**(1)** Mêmes aliments que pour l'algine
-
-</td>
-<td>**(1)** Mêmes limites de tolérance que pour l'algine
-
-</td>
+<td>(1)</td>
+<td>Mêmes aliments que pour l'algine</td>
+<td>(1)</td>
+<td>Mêmes limites de tolérance que pour l'algine</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Gros cristaux de sel
-
-</td>
-<td>**(2)** 15 p.p.m.
-
-</td>
+<td>(2)</td>
+<td>Gros cristaux de sel</td>
+<td>(2)</td>
+<td>15 p.p.m.</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Lustre de poisson congelé
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td>(3)</td>
+<td>Lustre de poisson congelé</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>S.2A</td>
 <td>Phosphate double d'aluminium et de sodium</td>
-<td>**(1)** Fromage à la crème à tartiner; fromage à la crème à tartiner avec (indication des ingrédients ajoutés); fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés)
-
-</td>
-<td>**(1)** 3,5 %, conformément aux exigences des articles B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 et B.08.041.4
-
-</td>
+<td>(1)</td>
+<td>Fromage à la crème à tartiner; fromage à la crème à tartiner avec (indication des ingrédients ajoutés); fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés)</td>
+<td>(1)</td>
+<td>3,5 %, conformément aux exigences des articles B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 et B.08.041.4</td>
 </tr>
 <tr>
 <td>S.3</td>
 <td>Carboxyméthylcellulose sodique</td>
-<td>**(1)** Crème; sauce vinaigrette; lait (indication de l'arôme); cornichons à la moutarde; achards (*relish*); sauce à salade; lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait écrémé (indication de l'arôme) additionné de solides du lait; lait partiellement écrémé (indication de l'arôme) additionné de solides du lait; fromage fondu au lait écrémé
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
-</tr>
-<tr>
-<td></td>
-<td>**(2)** Fromage cottage; fromage cottage en crème; crème glacée; mélange pour crème glacée; lait glacé; mélange pour lait glacé
-
-</td>
-<td>**(2)** 0,5 %
-
-</td>
+<td>(1)</td>
+<td>Crème; sauce vinaigrette; lait (indication de l'arôme); cornichons à la moutarde; achards (*relish*); sauce à salade; lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait écrémé (indication de l'arôme) additionné de solides du lait; lait partiellement écrémé (indication de l'arôme) additionné de solides du lait; fromage fondu au lait écrémé</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Sorbet laitier
-
-</td>
-<td>**(3)** 0,75 %
-
-</td>
+<td>(2)</td>
+<td>Fromage cottage; fromage cottage en crème; crème glacée; mélange pour crème glacée; lait glacé; mélange pour lait glacé</td>
+<td>(2)</td>
+<td>0,5 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(4)** Aliments non normalisés
-
-</td>
-<td>**(4)** Bonnes pratiques industrielles
-
-</td>
+<td>(3)</td>
+<td>Sorbet laitier</td>
+<td>(3)</td>
+<td>0,75 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(5)** Lustre de poisson congelé
-
-</td>
-<td>**(5)** Bonnes pratiques industrielles
-
-</td>
+<td>(4)</td>
+<td>Aliments non normalisés</td>
+<td>(4)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(6)** Fromage (indication de la variété) fondu; fromage (indication de la variété) fondu (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés)
-
-</td>
-<td>**(6)** 0,5 %
-
-</td>
+<td>(5)</td>
+<td>Lustre de poisson congelé</td>
+<td>(5)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(7)** Fromage à la crème; fromage à la crème (avec indication des ingrédients ajoutés); fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés); fromage (indication de la variété) conditionné à froid (avec indication des ingrédients ajoutés); préparation de fromage conditionné à froid; préparation de fromage conditionné à froid (avec indication des ingrédients ajoutés)
-
-</td>
-<td>**(7)** 0,5 %, conformément aux exigences des articles B.08.035, B.08.037, B.08.038, B.08.039, B.08.041.3, B.08.041.4, B.08.041.6, B.08.041.7 et B.08.041.8
-
-</td>
+<td>(6)</td>
+<td>Fromage (indication de la variété) fondu; fromage (indication de la variété) fondu (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés)</td>
+<td>(6)</td>
+<td>0,5 %</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(7)</td>
+<td>Fromage à la crème; fromage à la crème (avec indication des ingrédients ajoutés); fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés); fromage (indication de la variété) conditionné à froid (avec indication des ingrédients ajoutés); préparation de fromage conditionné à froid; préparation de fromage conditionné à froid (avec indication des ingrédients ajoutés)</td>
+<td>(7)</td>
+<td>0,5 %, conformément aux exigences des articles B.08.035, B.08.037, B.08.038, B.08.039, B.08.041.3, B.08.041.4, B.08.041.6, B.08.041.7 et B.08.041.8</td>
 </tr>
 <tr>
 <td>S.4</td>
 <td>Carraghénine sodique</td>
-<td>Mêmes aliments que pour la carraghénine
-
-</td>
-<td>Mêmes limites de tolérance que pour la carraghénine
-
-</td>
+<td></td>
+<td>Mêmes aliments que pour la carraghénine</td>
+<td></td>
+<td>Mêmes limites de tolérance que pour la carraghénine</td>
 </tr>
 <tr>
 <td>S.5</td>
 <td>Glycolate sodique de cellulose</td>
-<td>Mêmes aliments que pour la carboxyméthylcellulose sodique
-
-</td>
-<td>Mêmes limites de tolérance que pour la carboxyméthylcellulose sodique
-
-</td>
+<td></td>
+<td>Mêmes aliments que pour la carboxyméthylcellulose sodique</td>
+<td></td>
+<td>Mêmes limites de tolérance que pour la carboxyméthylcellulose sodique</td>
 </tr>
 <tr>
 <td>S.6</td>
 <td>Citrate de sodium</td>
-<td>**(1)** Fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés)
-
-</td>
-<td>**(1)** 4,0 %, conformément aux exigences des articles B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 et B.08.041.4
-
-</td>
+<td>(1)</td>
+<td>Fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés)</td>
+<td>(1)</td>
+<td>4,0 %, conformément aux exigences des articles B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 et B.08.041.4</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Lait évaporé; lait écrémé évaporé ou lait écrémé concentré; lait évaporé partiellement écrémé ou lait concentré partiellement écrémé
-
-</td>
-<td>**(2)** 0,1 % seul ou associé à du phosphate disodique
-
-</td>
+<td>(2)</td>
+<td>Lait évaporé; lait écrémé évaporé ou lait écrémé concentré; lait évaporé partiellement écrémé ou lait concentré partiellement écrémé</td>
+<td>(2)</td>
+<td>0,1 % seul ou associé à du phosphate disodique</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Crème glacée; mélange pour crème glacée; lait glacé; mélange pour lait glacé
-
-</td>
-<td>**(3)** 0,5 %
-
-</td>
+<td>(3)</td>
+<td>Crème glacée; mélange pour crème glacée; lait glacé; mélange pour lait glacé</td>
+<td>(3)</td>
+<td>0,5 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(4)** Sorbet laitier
-
-</td>
-<td>**(4)** 0,75%
-
-</td>
+<td>(4)</td>
+<td>Sorbet laitier</td>
+<td>(4)</td>
+<td>0,75%</td>
 </tr>
 <tr>
 <td>S.7</td>
 <td>Furcelleran sodique</td>
-<td>Mêmes aliments que pour le furcelleran
-
-</td>
-<td>Mêmes limites de tolérance que pour le furcelleran
-
-</td>
+<td></td>
+<td>Mêmes aliments que pour le furcelleran</td>
+<td></td>
+<td>Mêmes limites de tolérance que pour le furcelleran</td>
 </tr>
 <tr>
 <td>S.8</td>
 <td>Gluconate de sodium</td>
-<td>**(1)** Fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés)
-
-</td>
-<td>**(1)** 4,0 %, conformément aux exigences des articles B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 et B.08.041.4
-
-</td>
+<td>(1)</td>
+<td>Fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés)</td>
+<td>(1)</td>
+<td>4,0 %, conformément aux exigences des articles B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 et B.08.041.4</td>
 </tr>
 <tr>
 <td>S.9</td>
 <td>Hexamétaphosphate de sodium</td>
-<td>**(1)** Cornichons à la moutarde; achards (*relish*);
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
-</tr>
-<tr>
-<td>**(2)** Crème glacée; mélange pour crème glacée; lait glacé; mélange pour lait glacé
-
-</td>
-<td>**(2)** 0,5 %
-
-</td>
-</tr>
-<tr>
-<td>**(3)** Préparations pour nourrissons
-
-</td>
-<td>**(3)** 0,05 % de la préparation pour nourrissons prête à consommer
-
-</td>
+<td>(1)</td>
+<td>Cornichons à la moutarde; achards (*relish*);</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(4)** Sorbet laitier
-
-</td>
-<td>**(4)** 0,75 %
-
-</td>
+<td>(2)</td>
+<td>Crème glacée; mélange pour crème glacée; lait glacé; mélange pour lait glacé</td>
+<td>(2)</td>
+<td>0,5 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(5)** Aliments non normalisés
-
-</td>
-<td>**(5)** Bonnes pratiques industrielles
-
-</td>
+<td>(3)</td>
+<td>Préparations pour nourrissons</td>
+<td>(3)</td>
+<td>0,05 % de la préparation pour nourrissons prête à consommer</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(6)** Fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés)
-
-</td>
-<td>**(6)** 3,5 %, conformément aux exigences des articles B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 et B.08.041.4
-
-</td>
+<td>(4)</td>
+<td>Sorbet laitier</td>
+<td>(4)</td>
+<td>0,75 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(7)** Mélange de poisson et de viande préparés visé à l'alinéa B.21.006n)
-
-</td>
-<td>**(7)** 0,1 %
-
-</td>
+<td>(5)</td>
+<td>Aliments non normalisés</td>
+<td>(5)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(6)</td>
+<td>Fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés)</td>
+<td>(6)</td>
+<td>3,5 %, conformément aux exigences des articles B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 et B.08.041.4</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(7)</td>
+<td>Mélange de poisson et de viande préparés visé à l'alinéa B.21.006n)</td>
+<td>(7)</td>
+<td>0,1 %</td>
 </tr>
 <tr>
 <td>S.11</td>
-<td>Phosphate  disodique</td>
-<td>**(1)** Lait (indication de l'arôme); cornichons à la moutarde; achards (*relish*); lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait écrémé (indication de l'arôme) additionné de solides du lait; lait partiellement écrémé (indication de l'arôme) additionné de solides du lait; fromage fondu au lait écrémé
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>Phosphate disodique</td>
+<td>(1)</td>
+<td>Lait (indication de l'arôme); cornichons à la moutarde; achards (*relish*); lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait écrémé (indication de l'arôme) additionné de solides du lait; lait partiellement écrémé (indication de l'arôme) additionné de solides du lait; fromage fondu au lait écrémé</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Fromage cottage; fromage cottage en crème
-
-</td>
-<td>**(2)** 0,5 %
-
-</td>
+<td>(2)</td>
+<td>Fromage cottage; fromage cottage en crème</td>
+<td>(2)</td>
+<td>0,5 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Lait évaporé; lait écrémé évaporé ou lait écrémé concentré; lait évaporé partiellement écrémé ou lait concentré partiellement écrémé
-
-</td>
-<td>**(3)** 0,1 % seul ou associé à du citrate de sodium
-
-</td>
+<td>(3)</td>
+<td>Lait évaporé; lait écrémé évaporé ou lait écrémé concentré; lait évaporé partiellement écrémé ou lait concentré partiellement écrémé</td>
+<td>(3)</td>
+<td>0,1 % seul ou associé à du citrate de sodium</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(4)** Crème sure
-
-</td>
-<td>**(4)** 0,05 % selon les exigences de la disposition B.08.077b)(vii)(C)
-
-</td>
+<td>(4)</td>
+<td>Crème sure</td>
+<td>(4)</td>
+<td>0,05 % selon les exigences de la disposition B.08.077b)(vii)(C)</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(5)** Aliments non normalisés
-
-</td>
-<td>**(5)** Bonnes pratiques industrielles
-
-</td>
+<td>(5)</td>
+<td>Aliments non normalisés</td>
+<td>(5)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(6)** Fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés)
-
-</td>
-<td>**(6)** 3,5 %, conformément aux exigences des articles B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 et B.08.041.4
-
-</td>
+<td>(6)</td>
+<td>Fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés)</td>
+<td>(6)</td>
+<td>3,5 %, conformément aux exigences des articles B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 et B.08.041.4</td>
 </tr>
 <tr>
 <td>S.12</td>
 <td>Phosphate monosodique</td>
-<td>**(1)** Fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés)
-
-</td>
-<td>**(1)** 3,5 %, conformément aux exigences des articles B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 et B.08.041.4
-
-</td>
+<td>(1)</td>
+<td>Fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés)</td>
+<td>(1)</td>
+<td>3,5 %, conformément aux exigences des articles B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 et B.08.041.4</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Aliments non normalisés
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Aliments non normalisés</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>S.13</td>
-<td>Phosphate  trisodique</td>
-<td>**(1)** Fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés)
-
-</td>
-<td>**(1)** 3,5 %, conformément aux exigences des articles B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 et B.08.041.4
-
-</td>
+<td>Phosphate trisodique</td>
+<td>(1)</td>
+<td>Fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés)</td>
+<td>(1)</td>
+<td>3,5 %, conformément aux exigences des articles B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 et B.08.041.4</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Aliments non normalisés
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Aliments non normalisés</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>S.14</td>
-<td>Tartrate double de  potassium et de sodium</td>
-<td>**(1)** Fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés)
-
-</td>
-<td>**(1)** 4,0 %, conformément aux exigences des articles B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 et B.08.041.4
-
-</td>
+<td>Tartrate double de potassium et de sodium</td>
+<td>(1)</td>
+<td>Fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés)</td>
+<td>(1)</td>
+<td>4,0 %, conformément aux exigences des articles B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 et B.08.041.4</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Aliments non normalisés
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Aliments non normalisés</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>S.15</td>
-<td>Pyrophosphate  tétrasodique</td>
-<td>**(1)** Fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés)
-
-</td>
-<td>**(1)** 3,5 %, conformément aux exigences des articles B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 et B.08.041.4
-
-</td>
+<td>Pyrophosphate tétrasodique</td>
+<td>(1)</td>
+<td>Fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés)</td>
+<td>(1)</td>
+<td>3,5 %, conformément aux exigences des articles B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 et B.08.041.4</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Aliments non normalisés
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Aliments non normalisés</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Mélange de poisson et de viande préparés visé à l'alinéa B.21.006n)
-
-</td>
-<td>**(3)** 0,1 %
-
-</td>
+<td>(3)</td>
+<td>Mélange de poisson et de viande préparés visé à l'alinéa B.21.006n)</td>
+<td>(3)</td>
+<td>0,1 %</td>
 </tr>
 <tr>
 <td>S.15A</td>
 <td>Stéaroyl-2-lactylate de sodium</td>
-<td>**(1)** Glaces et mélanges à glaces
-
-</td>
-<td>**(1)** 0,4 % du poids des ingrédients secs
-
-</td>
-</tr>
-<tr>
-<td></td>
-<td>**(2)** Garnitures et mélanges pour garnitures
-
-</td>
-<td>**(2)** 0,5 % du poids des ingrédients secs
-
-</td>
-</tr>
-<tr>
-<td></td>
-<td>**(3)** Poudings et mélanges à poudings
-
-</td>
-<td>**(3)** 0,2 % du produit fini
-
-</td>
+<td>(1)</td>
+<td>Glaces et mélanges à glaces</td>
+<td>(1)</td>
+<td>0,4 % du poids des ingrédients secs</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(4)** Substituts de crème sure (aigre)
-
-</td>
-<td>**(4)** 1,0 % du poids des ingrédients secs
-
-</td>
+<td>(2)</td>
+<td>Garnitures et mélanges pour garnitures</td>
+<td>(2)</td>
+<td>0,5 % du poids des ingrédients secs</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(5)** Agents de crémage à l'huile végétale
-
-</td>
-<td>**(5)** 2,0 % du poids des ingrédients secs
-
-</td>
+<td>(3)</td>
+<td>Poudings et mélanges à poudings</td>
+<td>(3)</td>
+<td>0,2 % du produit fini</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(6)** Mélange de pâte à frire
-
-</td>
-<td>**(6)** 0,75 % du poids des ingrédients secs
-
-</td>
+<td>(4)</td>
+<td>Substituts de crème sure (aigre)</td>
+<td>(4)</td>
+<td>1,0 % du poids des ingrédients secs</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(7)** Spiritueux à base de crème non normalisés
-
-</td>
-<td>**(7)** 0,35 % dans le produit fini
-
-</td>
+<td>(5)</td>
+<td>Agents de crémage à l'huile végétale</td>
+<td>(5)</td>
+<td>2,0 % du poids des ingrédients secs</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(8)** Sauce à salade; sauce vinaigrette
-
-</td>
-<td>**(8)** 0,4 % du produit fini
-
-</td>
+<td>(6)</td>
+<td>Mélange de pâte à frire</td>
+<td>(6)</td>
+<td>0,75 % du poids des ingrédients secs</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(9)** Soupes
-
-</td>
-<td>**(9)** 0,2 % du produit fini
-
-</td>
+<td>(7)</td>
+<td>Spiritueux à base de crème non normalisés</td>
+<td>(7)</td>
+<td>0,35 % dans le produit fini</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(8)</td>
+<td>Sauce à salade; sauce vinaigrette</td>
+<td>(8)</td>
+<td>0,4 % du produit fini</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(9)</td>
+<td>Soupes</td>
+<td>(9)</td>
+<td>0,2 % du produit fini</td>
 </tr>
 <tr>
 <td>S.16</td>
-<td>Tartrate de  sodium</td>
-<td>**(1)** Fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés)
-
-</td>
-<td>**(1)** 4,0 %, conformément aux exigences des articles B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 et B.08.041.4
-
-</td>
+<td>Tartrate de sodium</td>
+<td>(1)</td>
+<td>Fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés)</td>
+<td>(1)</td>
+<td>4,0 %, conformément aux exigences des articles B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3 et B.08.041.4</td>
 </tr>
 <tr>
 <td>S.16A</td>
-<td>Tripolyphosphate  de sodium</td>
-<td>Mélange de poisson et de viande préparés visé à l'alinéa B.21.006n)
-
-</td>
-<td>0,1 %
-
-</td>
+<td>Tripolyphosphate de sodium</td>
+<td></td>
+<td>Mélange de poisson et de viande préparés visé à l'alinéa B.21.006n)</td>
+<td></td>
+<td>0,1 %</td>
 </tr>
 <tr>
 <td>S.18</td>
-<td>Monostéarate de  sorbitan</td>
-<td>**(1)** Mélange imitation de crème en poudre; agents de crémage à l'huile végétale; garnitures fouettées à l'huile végétale; mélange pour garnitures à l'huile végétale
-
-</td>
-<td>**(1)** 0,4 %. Si l'on emploie aussi le tristéarate polyoxyéthylénique (20) de sorbitan, le polysorbate (60) ou le mono-oléate polyoxyéthylénique (20) de sorbitan, soit séparément, soit ensemble, le total ne doit pas dépasser 0,4 %, sauf que, dans les garnitures fouettées renfermant de l'huile végétale, on peut employer une combinaison de monostéarate de sorbitan et de polysorbate (60) de plus de 0,4 %, si la proportion de monostéarate de sorbitan ne dépasse pas 0,27 % et celle du polysorbate (60) ne dépasse pas 0,77 % du poids de la garniture fouettée renfermant de l'huile végétale
-
-</td>
+<td>Monostéarate de sorbitan</td>
+<td>(1)</td>
+<td>Mélange imitation de crème en poudre; agents de crémage à l'huile végétale; garnitures fouettées à l'huile végétale; mélange pour garnitures à l'huile végétale</td>
+<td>(1)</td>
+<td>0,4 %. Si l'on emploie aussi le tristéarate polyoxyéthylénique (20) de sorbitan, le polysorbate (60) ou le mono-oléate polyoxyéthylénique (20) de sorbitan, soit séparément, soit ensemble, le total ne doit pas dépasser 0,4 %, sauf que, dans les garnitures fouettées renfermant de l'huile végétale, on peut employer une combinaison de monostéarate de sorbitan et de polysorbate (60) de plus de 0,4 %, si la proportion de monostéarate de sorbitan ne dépasse pas 0,27 % et celle du polysorbate (60) ne dépasse pas 0,77 % du poids de la garniture fouettée renfermant de l'huile végétale</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Gâteaux; mélanges à gâteaux
-
-</td>
-<td>**(2)** 0,6 % du poids à l'état sec. Si l'on emploie aussi le monostéarate polyoxyéthylénique (20) de sorbitan le total ne doit pas dépasser 0,7 % du poids à l'état sec
-
-</td>
+<td>(2)</td>
+<td>Gâteaux; mélanges à gâteaux</td>
+<td>(2)</td>
+<td>0,6 % du poids à l'état sec. Si l'on emploie aussi le monostéarate polyoxyéthylénique (20) de sorbitan le total ne doit pas dépasser 0,7 % du poids à l'état sec</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Enrobages non normalisés pour produits de confiserie et produits de confiserie moulés non normalisés utilisés comme confiserie ou pour la cuisson.
-
-</td>
-<td>**(3)** 1,0 %. Si l'on emploie aussi un mélange de l'un quelconque des ingrédients suivants : monostéarate polyoxyéthylénique (20) de sorbitan, tristéarate polyoxyéthylénique (20) de sorbitan ou tristéarate de sorbitan, le total ne doit pas dépasser 1,0 %
-
-</td>
+<td>(3)</td>
+<td>Enrobages non normalisés pour produits de confiserie et produits de confiserie moulés non normalisés utilisés comme confiserie ou pour la cuisson.</td>
+<td>(3)</td>
+<td>1,0 %. Si l'on emploie aussi un mélange de l'un quelconque des ingrédients suivants : monostéarate polyoxyéthylénique (20) de sorbitan, tristéarate polyoxyéthylénique (20) de sorbitan ou tristéarate de sorbitan, le total ne doit pas dépasser 1,0 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(4)** Glaces à gâteaux; mélanges pour glaces à gâteaux
-
-</td>
-<td>**(4)** 0,5 % de la glace à gâteau finie. Si l'on emploie aussi le mono-oléate polyoxyéthylénique (20) de sorbitan ou le monostéarate polyoxyéthylénique (20) de sorbitan, seuls ou mélangés, le total ne doit pas dépasser 0,5 % de la glace à gâteau finie
-
-</td>
+<td>(4)</td>
+<td>Glaces à gâteaux; mélanges pour glaces à gâteaux</td>
+<td>(4)</td>
+<td>0,5 % de la glace à gâteau finie. Si l'on emploie aussi le mono-oléate polyoxyéthylénique (20) de sorbitan ou le monostéarate polyoxyéthylénique (20) de sorbitan, seuls ou mélangés, le total ne doit pas dépasser 0,5 % de la glace à gâteau finie</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(5)** Bases ou mélanges pour breuvages
-
-</td>
-<td>**(5)** 0,05 % dans le breuvage. Si l'on emploie aussi le mono-oléate polyoxyéthylénique (20) de sorbitan, le total ne doit pas dépasser 0,05 % dans le breuvage. Si l'on emploie aussi le monostéarate polyoxyéthylénique (20) de sorbitan, le total ne doit pas dépasser 0,05 % dans le breuvage
-
-</td>
+<td>(5)</td>
+<td>Bases ou mélanges pour breuvages</td>
+<td>(5)</td>
+<td>0,05 % dans le breuvage. Si l'on emploie aussi le mono-oléate polyoxyéthylénique (20) de sorbitan, le total ne doit pas dépasser 0,05 % dans le breuvage. Si l'on emploie aussi le monostéarate polyoxyéthylénique (20) de sorbitan, le total ne doit pas dépasser 0,05 % dans le breuvage</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(6)** Bases ou mélanges secs pour soupes
-
-</td>
-<td>**(6)** 250 p.p.m. de soupe prête à consommer
-
-</td>
+<td>(6)</td>
+<td>Bases ou mélanges secs pour soupes</td>
+<td>(6)</td>
+<td>250 p.p.m. de soupe prête à consommer</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(7)** Levure sèche
-
-</td>
-<td>**(7)** 1,5 % (les résidus de monostéarate de sorbitan dans le pain et les autres produits de boulangerie au levain ne doivent pas dépasser 0,05 %).
-
-</td>
+<td>(7)</td>
+<td>Levure sèche</td>
+<td>(7)</td>
+<td>1,5 % (les résidus de monostéarate de sorbitan dans le pain et les autres produits de boulangerie au levain ne doivent pas dépasser 0,05 %).</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(8)** Produits de chocolat
-
-</td>
-<td>**(8)** 1,0 %
-
-</td>
+<td>(8)</td>
+<td>Produits de chocolat</td>
+<td>(8)</td>
+<td>1,0 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(9)** Poudings
-
-</td>
-<td>**(9)** 0,5 %
-
-</td>
+<td>(9)</td>
+<td>Poudings</td>
+<td>(9)</td>
+<td>0,5 %</td>
 </tr>
 <tr>
 <td>S.18A</td>
-<td>Trioléate de  sorbitan</td>
-<td>Boyaux de saucisse
-
-</td>
-<td>0,35 % de boyau
-
-</td>
+<td>Trioléate de sorbitan</td>
+<td></td>
+<td>Boyaux de saucisse</td>
+<td></td>
+<td>0,35 % de boyau</td>
 </tr>
 <tr>
 <td>S.18B</td>
 <td>Tristéarate de sorbitan</td>
-<td>**(1)** Margarine; shortening
-
-</td>
-<td>**(1)** 1 %
-
-</td>
+<td>(1)</td>
+<td>Margarine; shortening</td>
+<td>(1)</td>
+<td>1 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Enrobages non normalisés pour produits de confiserie et produits de confiserie moulés non normalisés utilisés comme confiserie ou pour la cuisson.
-
-</td>
-<td>**(2)** 1 %, si l'on emploie aussi un mélange de n'importe quel des ingrédients suivants : monostéarate polyoxyéthylénique (20) de sorbitan, tristéarate polyoxyéthylénique (20) de sorbitan ou monostéarate de sorbitan, le total ne doit pas dépasser 1 %
-
-</td>
+<td>(2)</td>
+<td>Enrobages non normalisés pour produits de confiserie et produits de confiserie moulés non normalisés utilisés comme confiserie ou pour la cuisson.</td>
+<td>(2)</td>
+<td>1 %, si l'on emploie aussi un mélange de n'importe quel des ingrédients suivants : monostéarate polyoxyéthylénique (20) de sorbitan, tristéarate polyoxyéthylénique (20) de sorbitan ou monostéarate de sorbitan, le total ne doit pas dépasser 1 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Mélange pour crème glacée
-
-</td>
-<td>**(3)** 0,035 % de la crème glacée faite du mélange
-
-</td>
+<td>(3)</td>
+<td>Mélange pour crème glacée</td>
+<td>(3)</td>
+<td>0,035 % de la crème glacée faite du mélange</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(4)** Desserts congelés non normalisés
-
-</td>
-<td>**(4)** 0,035 %
-
-</td>
+<td>(4)</td>
+<td>Desserts congelés non normalisés</td>
+<td>(4)</td>
+<td>0,035 %</td>
 </tr>
 <tr>
 <td>S.19</td>
-<td>Monoglycéryl-  citrate de stéaryle</td>
-<td>*Shortening*
-
-</td>
-<td>Bonnes pratiques industrielles
-
-</td>
+<td>Monoglycéryl- citrate de stéaryle</td>
+<td></td>
+<td>*Shortening*</td>
+<td></td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>S.20</td>
 <td>Esters saccharosiques d'acides gras</td>
-<td>Préparations colorantes de caroténoïdes
-
-</td>
-<td>1,5 %
-
-</td>
+<td></td>
+<td>Préparations colorantes de caroténoïdes</td>
+<td></td>
+<td>1,5 %</td>
 </tr>
 <tr>
 <td>T.2</td>
@@ -21411,172 +20915,138 @@ Vert solide FCF
 <tr>
 <td>T.3</td>
 <td>Gomme adragante</td>
-<td>**(1)** Sauce vinaigrette; cornichons à la moutarde; sauce à salade; achards (*relish*)
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Sauce vinaigrette; cornichons à la moutarde; sauce à salade; achards (*relish*)</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Fromage cottage; fromage cottage en crème; crème glacée; mélange pour crème glacée; lait glacé; mélange pour lait glacé
-
-</td>
-<td>**(2)** 0,5 %
-
-</td>
+<td>(2)</td>
+<td>Fromage cottage; fromage cottage en crème; crème glacée; mélange pour crème glacée; lait glacé; mélange pour lait glacé</td>
+<td>(2)</td>
+<td>0,5 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Sorbet laitier
-
-</td>
-<td>**(3)** 0,75 %
-
-</td>
+<td>(3)</td>
+<td>Sorbet laitier</td>
+<td>(3)</td>
+<td>0,75 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(4)** Caviar de lump
-
-</td>
-<td>**(4)** 1,0 %
-
-</td>
+<td>(4)</td>
+<td>Caviar de lump</td>
+<td>(4)</td>
+<td>1,0 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(5)** Aliments non normalisés
-
-</td>
-<td>**(5)** Bonnes pratiques industrielles
-
-</td>
+<td>(5)</td>
+<td>Aliments non normalisés</td>
+<td>(5)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(6)** Margarine réduite en calories
-
-</td>
-<td>**(6)** 0,5 % selon les exigences de l'article B.09.017
-
-</td>
+<td>(6)</td>
+<td>Margarine réduite en calories</td>
+<td>(6)</td>
+<td>0,5 % selon les exigences de l'article B.09.017</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(7)** Fromage à la crème; fromage à la crème (avec indication des ingrédients ajoutés); fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage (indication de la variété) conditionné à froid (avec indication des ingrédients ajoutés); préparation de fromage conditionné à froid; préparation de fromage conditionné à froid (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés)
-
-</td>
-<td>**(7)** 0,5 %, conformément aux exigences des articles B.08.035, B.08.037, B.08.038, B.08.039, B.08.041.3, B.08.041.4, B.08.041.6, B.08.041.7 et B.08.041.8
-
-</td>
+<td>(7)</td>
+<td>Fromage à la crème; fromage à la crème (avec indication des ingrédients ajoutés); fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage (indication de la variété) conditionné à froid (avec indication des ingrédients ajoutés); préparation de fromage conditionné à froid; préparation de fromage conditionné à froid (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés)</td>
+<td>(7)</td>
+<td>0,5 %, conformément aux exigences des articles B.08.035, B.08.037, B.08.038, B.08.039, B.08.041.3, B.08.041.4, B.08.041.6, B.08.041.7 et B.08.041.8</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(8)** Poisson et viande préparés déchiquetés, sauf le caviar de lompe; poisson de salaison et chair de poisson de salaison déchiquetés (Titre 21)
-
-</td>
-<td>**(8)** 0,75 %
-
-</td>
+<td>(8)</td>
+<td>Poisson et viande préparés déchiquetés, sauf le caviar de lompe; poisson de salaison et chair de poisson de salaison déchiquetés (Titre 21)</td>
+<td>(8)</td>
+<td>0,75 %</td>
 </tr>
 <tr>
 <td>X.1</td>
 <td>Gomme xanthane</td>
-<td>**(1)** Sauce vinaigrette; sauce à salade; aliments non normalisés
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Sauce vinaigrette; sauce à salade; aliments non normalisés</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Fromage cottage; fromage cottage en crème
-
-</td>
-<td>**(2)** 0,5 %. Si l'on emploie aussi d'autres stabilisants, le total ne doit pas dépasser 0,5 %
-
-</td>
+<td>(2)</td>
+<td>Fromage cottage; fromage cottage en crème</td>
+<td>(2)</td>
+<td>0,5 %. Si l'on emploie aussi d'autres stabilisants, le total ne doit pas dépasser 0,5 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Margarine réduite en calories
-
-</td>
-<td>**(3)** 0,5 % selon les exigences de l'article B.09.017
-
-</td>
+<td>(3)</td>
+<td>Margarine réduite en calories</td>
+<td>(3)</td>
+<td>0,5 % selon les exigences de l'article B.09.017</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(4)** Fromage à la crème; fromage à la crème (avec indication des ingrédients ajoutés); fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés); fromage (indication de la variété) conditionné à froid (avec indication des ingrédients ajoutés); préparation de fromage conditionné à froid; préparation de fromage conditionné à froid (avec indication des ingrédients ajoutés)
-
-</td>
-<td>**(4)** 0,5 %, conformément aux exigences des articles B.08.035, B.08.037, B.08.038, B.08.039, B.08.041.3, B.08.041.4, B.08.041.6, B.08.041.7 et B.08.041.8
-
-</td>
+<td>(4)</td>
+<td>Fromage à la crème; fromage à la crème (avec indication des ingrédients ajoutés); fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés); fromage (indication de la variété) conditionné à froid (avec indication des ingrédients ajoutés); préparation de fromage conditionné à froid; préparation de fromage conditionné à froid (avec indication des ingrédients ajoutés)</td>
+<td>(4)</td>
+<td>0,5 %, conformément aux exigences des articles B.08.035, B.08.037, B.08.038, B.08.039, B.08.041.3, B.08.041.4, B.08.041.6, B.08.041.7 et B.08.041.8</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(5)** Cornichons à la moutarde; achards (*relish*)
-
-</td>
-<td>**(5)** 0,1 %
-
-</td>
+<td>(5)</td>
+<td>Cornichons à la moutarde; achards (*relish*)</td>
+<td>(5)</td>
+<td>0,1 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(6)** Mélange pour crème glacée
-
-</td>
-<td>**(6)** 0,1 %. Si l'on emploie aussi de la cellulose mycrocristalline et d'autres stabilisants, le total ne doit pas dépasser 0,5 %
-
-</td>
+<td>(6)</td>
+<td>Mélange pour crème glacée</td>
+<td>(6)</td>
+<td>0,1 %. Si l'on emploie aussi de la cellulose mycrocristalline et d'autres stabilisants, le total ne doit pas dépasser 0,5 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(7)** Mélange pour lait glacé
-
-</td>
-<td>**(7)** 0,1 %. Si l'on emploi aussi d'autres stabilisants, le total ne doit pas dépasser 0,5 %
-
-</td>
+<td>(7)</td>
+<td>Mélange pour lait glacé</td>
+<td>(7)</td>
+<td>0,1 %. Si l'on emploi aussi d'autres stabilisants, le total ne doit pas dépasser 0,5 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(8)** Sorbet laitier
-
-</td>
-<td>**(8)** 0,1 %. Si l'on emploie aussi d'autres stabilisants, le total ne doit pas dépasser 0,75 %
-
-</td>
+<td>(8)</td>
+<td>Sorbet laitier</td>
+<td>(8)</td>
+<td>0,1 %. Si l'on emploie aussi d'autres stabilisants, le total ne doit pas dépasser 0,75 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(9)** Crème à fouetter thermisée à une chaleur supérieure à 100 °C
-
-</td>
-<td>**(9)** 0,02 %
-
-</td>
+<td>(9)</td>
+<td>Crème à fouetter thermisée à une chaleur supérieure à 100 °C</td>
+<td>(9)</td>
+<td>0,02 %</td>
 </tr>
 </table>
 
@@ -21595,551 +21065,469 @@ Vert solide FCF
 <th>Colonne IV</th>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th>Source</th>
-<th>Permis</th>
-<th>Limites de</th>
-</tr>
-<tr>
 <th>Article</th>
 <th>Additifs</th>
-<th>permise</th>
-<th>dans ou sur</th>
-<th>tolérance</th>
-</tr>
-<tr>
-<th> </th>
+<th>Source permise</th>
+<th>Permis dans ou sur</th>
+<th>Limites de tolérance</th>
 </tr>
 <tr>
 <td>A.01</td>
 <td>α-Acétolactate décarboxylase</td>
 <td>*Bacillus subtilis* ToC46 (pUW235)</td>
-<td>**(1)** Moût de bière
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Moût de bière</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Moût de distillerie
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Moût de distillerie</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>A.02</td>
 <td>Aminopeptidase</td>
 <td>*Lactococcus lactis*</td>
-<td>**(1)** Fromage
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Fromage</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Préparations aromatisantes à base de produits laitiers
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(2)</td>
+<td>Préparations aromatisantes à base de produits laitiers</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Protéines hydrolysées d'origine animale, végétale ou provenant du lait
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(3)</td>
+<td>Protéines hydrolysées d'origine animale, végétale ou provenant du lait</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>A.1</td>
 <td>Amylase</td>
 <td>*Aspergillus niger* var.; *Aspergillus oryzae* var.; *Bacillus subtilis* var.; *Rhizopus oryzae* var.; Malt d'orge</td>
-<td>**(1)** Ale; bière; bière légère; liqueur de malt; porter; stout
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Ale; bière; bière légère; liqueur de malt; porter; stout</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Farine; farine de blé entier; pain
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Farine; farine de blé entier; pain</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Cidre; vin
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td>(3)</td>
+<td>Cidre; vin</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(4)** Sirop au chocolat
-
-</td>
-<td>**(4)** Bonnes pratiques industrielles
-
-</td>
+<td>(4)</td>
+<td>Sirop au chocolat</td>
+<td>(4)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(5)** Moût de distillerie
-
-</td>
-<td>**(5)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(5)</td>
+<td>Moût de distillerie</td>
+<td>(5)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(6)** Céréales séchées de petit déjeuner à saveur de malt
-
-</td>
-<td>**(6)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(6)</td>
+<td>Céréales séchées de petit déjeuner à saveur de malt</td>
+<td>(6)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(7)** Jus de fruits non concentrés
-
-</td>
-<td>**(7)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(7)</td>
+<td>Jus de fruits non concentrés</td>
+<td>(7)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(8)** Céréales précuites (instantanées)
-
-</td>
-<td>**(8)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(8)</td>
+<td>Céréales précuites (instantanées)</td>
+<td>(8)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(9)** Amidon utilisé dans la production des dextrines, du maltose, du dextrose, du glucose (sirop de glucose) ou de solides de glucose (sirop de glucose déshydraté)
-
-</td>
-<td>**(9)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(9)</td>
+<td>Amidon utilisé dans la production des dextrines, du maltose, du dextrose, du glucose (sirop de glucose) ou de solides de glucose (sirop de glucose déshydraté)</td>
+<td>(9)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(10)** Produits de boulangerie non normalisés
-
-</td>
-<td>**(10)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(10)</td>
+<td>Produits de boulangerie non normalisés</td>
+<td>(10)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>*Aspergillus niger* STz18-9 (pHUda7)</td>
-<td>**(1)** Ale; bière; bière légère; liqueur de malt; porter; stout
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Ale; bière; bière légère; liqueur de malt; porter; stout</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Moût de distillerie</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td>**(2)** Moût de distillerie
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>**(3)** Amidon utilisé dans la production des dextrines, du dextrose, du glucose (sirop de glucose) ou de solides de glucose (sirop de glucose déshydraté), du maltose
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td>(3)</td>
+<td>Amidon utilisé dans la production des dextrines, du dextrose, du glucose (sirop de glucose) ou de solides de glucose (sirop de glucose déshydraté), du maltose</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>*Bacillus amyloliquefaciens* EBA 20 (pUBH2); *Bacillus licheniformis*; *Bacillus licheniformis* BML 592 (pAmyAmp); *Bacillus licheniformis* BML 730 (pAmyAmp); *Bacillus licheniformis* LA 57 (pDN1981); *Bacillus licheniformis* LAT8 (pLAT3); *Bacillus licheniformis* LiH 1159 (pLiH1108); *Bacillus licheniformis* LiH 1464 (pLiH1346); *Bacillus licheniformis* PL 1303 (pPL1117)</td>
-<td>**(1)** Moût de distillerie
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Moût de distillerie</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>*Bacillus licheniformis* LA 57 (pDN1981);  *Bacillus licheniformis* PL 1303 (pPL1117)</td>
-<td>**(2)** Amidon utilisé dans la production des dextrines, du maltose, du dextrose, du glucose (sirop de glucose) ou de solides de glucose (sirop de glucose déshydraté)
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>*Bacillus licheniformis* LA 57 (pDN1981); *Bacillus licheniformis* PL 1303 (pPL1117)</td>
+<td>(2)</td>
+<td>Amidon utilisé dans la production des dextrines, du maltose, du dextrose, du glucose (sirop de glucose) ou de solides de glucose (sirop de glucose déshydraté)</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Moût de bière
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(3)</td>
+<td>Moût de bière</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>*Bacillus stearothermophilus*</td>
-<td>**(1)** Amidon utilisé dans la production des dextrines, du maltose, du dextrose, du glucose (sirop de glucose) ou de solides de glucose (sirop de glucose déshydraté)
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Amidon utilisé dans la production des dextrines, du maltose, du dextrose, du glucose (sirop de glucose) ou de solides de glucose (sirop de glucose déshydraté)</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Moût de distillerie
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(2)</td>
+<td>Moût de distillerie</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Moût de bière
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(3)</td>
+<td>Moût de bière</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(4)** Farine; farine de blé entier; pain
-
-</td>
-<td>**(4)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(4)</td>
+<td>Farine; farine de blé entier; pain</td>
+<td>(4)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(5)** Produits de boulangerie non normalisés
-
-</td>
-<td>**(5)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(5)</td>
+<td>Produits de boulangerie non normalisés</td>
+<td>(5)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>*Bacillus subtilis* B1.109 (pCPC720) (ATCC 39, 705)</td>
-<td>**(1)** Amidon utilisé dans la production des dextrines, du maltose, du dextrose, du glucose (sirop de glucose) ou de solides de glucose (sirop de glucose déshydraté)
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Amidon utilisé dans la production des dextrines, du maltose, du dextrose, du glucose (sirop de glucose) ou de solides de glucose (sirop de glucose déshydraté)</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>*Bacillus subtilis* B1.109 (pCPC800)</td>
-<td>**(1)** Amidon utilisé dans la production des dextrines, du maltose, du dextrose, du glucose (sirop de glucose) ou de solides de glucose (sirop de glucose déshydraté)
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Amidon utilisé dans la production des dextrines, du maltose, du dextrose, du glucose (sirop de glucose) ou de solides de glucose (sirop de glucose déshydraté)</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Moût de distillerie
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(2)</td>
+<td>Moût de distillerie</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Moût de bière
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(3)</td>
+<td>Moût de bière</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(4)** Produits de boulangerie
-
-</td>
-<td>**(4)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(4)</td>
+<td>Produits de boulangerie</td>
+<td>(4)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>A.2</td>
 <td>Amylase maltogène</td>
 <td>*Bacillus subtilis* DN1413 (pDN1413); *Bacillus subtilis* LFA 63 (pLFA63)</td>
-<td>**(1)** Amidon utilisé dans la production des dextrines, du maltose, du dextrose, du glucose, (sirop de glucose) ou de solides de glucose (sirop de glucose déshydraté)
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Amidon utilisé dans la production des dextrines, du maltose, du dextrose, du glucose, (sirop de glucose) ou de solides de glucose (sirop de glucose déshydraté)</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Farine; farine de blé entier; pain
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(2)</td>
+<td>Farine; farine de blé entier; pain</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Produits de boulangerie non normalisés
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(3)</td>
+<td>Produits de boulangerie non normalisés</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>B.1</td>
 <td>Présure de bovin</td>
 <td>Extrait aqueux du 4<sup>e</sup> (véritable) estomac de bovins, de mouton et de chèvres adultes</td>
-<td>Fromage, fromage cottage, fromage à la crème, fromage à la crème (avec indication des ingrédients ajoutés), fromage à la crème à tartiner, fromage à la crème à tartiner (avec indication des ingrédients ajoutés)
-
-</td>
-<td>Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>Fromage, fromage cottage, fromage à la crème, fromage à la crème (avec indication des ingrédients ajoutés), fromage à la crème à tartiner, fromage à la crème à tartiner (avec indication des ingrédients ajoutés)</td>
+<td></td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>B.2</td>
 <td>Broméline</td>
 <td>Les ananas *Ananas comosus* et *Ananas bracteatus*</td>
-<td>**(1)** Ale; bière; bière légère; liqueur de malt; porter; stout
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Ale; bière; bière légère; liqueur de malt; porter; stout</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Farine; farine de blé entier; pain
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Farine; farine de blé entier; pain</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Boyaux de saucisse
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(3)</td>
+<td>Boyaux de saucisse</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(4)** Protéine hydrolysée d'origine animale, végétale ou provenant du lait
-
-</td>
-<td>**(4)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(4)</td>
+<td>Protéine hydrolysée d'origine animale, végétale ou provenant du lait</td>
+<td>(4)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(5)** Pièces de viande
-
-</td>
-<td>**(5)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(5)</td>
+<td>Pièces de viande</td>
+<td>(5)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(6)** Produits pour attendrir la viande
-
-</td>
-<td>**(6)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(6)</td>
+<td>Produits pour attendrir la viande</td>
+<td>(6)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(7)** Marinade employée dans la salaison de parties de boeuf
-
-</td>
-<td>**(7)** Bonnes pratiques industrielles selon l'alinéa B.14.009g)
-
-</td>
+<td></td>
+<td>(7)</td>
+<td>Marinade employée dans la salaison de parties de boeuf</td>
+<td>(7)</td>
+<td>Bonnes pratiques industrielles selon l'alinéa B.14.009g)</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(8)** Gaufrettes sucrées, gaufres, crêpes
-
-</td>
-<td>**(8)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(8)</td>
+<td>Gaufrettes sucrées, gaufres, crêpes</td>
+<td>(8)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>C.1</td>
 <td>Catalase</td>
 <td>*Aspergillus niger* var.; *Micrococcus lysodeikticus; Foie de boeuf (Bos taurus*)</td>
-<td>**(1)** Boissons préparées (gazeuses et non gazeuses)
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Boissons préparées (gazeuses et non gazeuses)</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Albumen d'oeuf
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Albumen d'oeuf</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Petit-lait liquide traité au peroxyde d'hydrogène, conformément à l'article H.1, du tableau VIII
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(3)</td>
+<td>Petit-lait liquide traité au peroxyde d'hydrogène, conformément à l'article H.1, du tableau VIII</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>C.2</td>
 <td>Cellulase</td>
 <td>*Aspergillus niger* var.</td>
-<td>**(1)** Moût de distillerie
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Moût de distillerie</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Concentré de café liquide
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Concentré de café liquide</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Extraits d'épices; préparations aromatisantes naturelles et colorants
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(3)</td>
+<td>Extraits d'épices; préparations aromatisantes naturelles et colorants</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>*Trichoderma reesei* QM 9414</td>
-<td>**(1)** Jus de fruits non concentrés
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Jus de fruits non concentrés</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Feuilles de thé destinées à la production de solides de thé
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(2)</td>
+<td>Feuilles de thé destinées à la production de solides de thé</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>C.3</td>
 <td>Chymosine</td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -22150,22 +21538,19 @@ Vert solide FCF
 
 </td>
 <td>*Escherichia coli* K-12, GE81 (pPFZ87A)</td>
-<td>**(1)** Fromage cheddar; fromage (indication de la variété); fromage cottage; fromage à la crème; fromage à la crème (avec indication des ingrédients ajoutés); fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); crème sure
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Fromage cheddar; fromage (indication de la variété); fromage cottage; fromage à la crème; fromage à la crème (avec indication des ingrédients ajoutés); fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); crème sure</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Produits pour desserts à base de lait non normalisés
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(2)</td>
+<td>Produits pour desserts à base de lait non normalisés</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
@@ -22173,1505 +21558,1284 @@ Vert solide FCF
 
 </td>
 <td>*Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR); *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS105)</td>
-<td>**(1)** Fromage cheddar; fromage (indication de la variété); fromage cottage; fromage à la crème; fromage à la crème (avec indication des ingrédients ajoutés); fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); crème sure
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Fromage cheddar; fromage (indication de la variété); fromage cottage; fromage à la crème; fromage à la crème (avec indication des ingrédients ajoutés); fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); crème sure</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Produits pour desserts à base de lait non normalisés
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(2)</td>
+<td>Produits pour desserts à base de lait non normalisés</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>F.1</td>
 <td>Ficine</td>
 <td>Latex de figuier (*Ficus* sp.)</td>
-<td>**(1)** Ale; bière; bière légère; liqueur de malt; porter; stout
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Ale; bière; bière légère; liqueur de malt; porter; stout</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Boyaux de saucisse
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Boyaux de saucisse</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Protéine hydrolysée d'origine animale, végétale ou provenant du lait
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(3)</td>
+<td>Protéine hydrolysée d'origine animale, végétale ou provenant du lait</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(4)** Pièces de viande
-
-</td>
-<td>**(4)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(4)</td>
+<td>Pièces de viande</td>
+<td>(4)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(5)** Produits pour attendrir la viande
-
-</td>
-<td>**(5)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(5)</td>
+<td>Produits pour attendrir la viande</td>
+<td>(5)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(6)** Marinade employée dans la salaison de parties de boeuf
-
-</td>
-<td>**(6)** Bonnes pratiques industrielles selon l'alinéa B.14.009g)
-
-</td>
+<td></td>
+<td>(6)</td>
+<td>Marinade employée dans la salaison de parties de boeuf</td>
+<td>(6)</td>
+<td>Bonnes pratiques industrielles selon l'alinéa B.14.009g)</td>
 </tr>
 <tr>
 <td>G.1</td>
 <td>Glucoamylase (Amyloglucosidase; maltase)</td>
 <td>*Aspergillus niger* var.; *Aspergillus oryzae* var.; *Rhizopus oryzae* var.</td>
-<td>**(1)** Ale; bière; bière légère; liqueur de malt; porter; stout
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Ale; bière; bière légère; liqueur de malt; porter; stout</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Farine; farine de blé entier; pain
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Farine; farine de blé entier; pain</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Sirop au chocolat
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td>(3)</td>
+<td>Sirop au chocolat</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(4)** Moût de distillerie
-
-</td>
-<td>**(4)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(4)</td>
+<td>Moût de distillerie</td>
+<td>(4)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(5)** Céréales précuites (instantanées)
-
-</td>
-<td>**(5)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(5)</td>
+<td>Céréales précuites (instantanées)</td>
+<td>(5)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(6)** Amidon employé dans la production des dextrines, du maltose, du dextrose, du glucose (sirop de glucose) ou de solides de glucose (sirop de glucose déshydraté)
-
-</td>
-<td>**(6)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(6)</td>
+<td>Amidon employé dans la production des dextrines, du maltose, du dextrose, du glucose (sirop de glucose) ou de solides de glucose (sirop de glucose déshydraté)</td>
+<td>(6)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(7)** Produits de boulangerie non normalisés
-
-</td>
-<td>**(7)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(7)</td>
+<td>Produits de boulangerie non normalisés</td>
+<td>(7)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>*Aspergillus niger* STz18-9 (pHUda7)</td>
-<td>**(1)** Ale; bière; bière légère; liqueur de malt; porter; stout
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Ale; bière; bière légère; liqueur de malt; porter; stout</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td>**(2)** Moût de distillerie
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Moût de distillerie</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td>**(3)** Amidon utilisé dans la production des dextrines, du dextrose, du glucose (sirop de glucose) ou de solides de glucose (sirop de glucose déshydraté), du maltose
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td>(3)</td>
+<td>Amidon utilisé dans la production des dextrines, du dextrose, du glucose (sirop de glucose) ou de solides de glucose (sirop de glucose déshydraté), du maltose</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>*Rhizopus niveus* var.</td>
-<td>**(1)** Moût de distillerie
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Moût de distillerie</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Moût servant à la fabrication du vinaigre
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Moût servant à la fabrication du vinaigre</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>*Rhizopus delemar* var.; *Multiplici sporus*</td>
-<td>**(1)** Moût de bière
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Moût de bière</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Moût de distillerie
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Moût de distillerie</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Moût servant à la fabrication du vinaigre
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(3)</td>
+<td>Moût servant à la fabrication du vinaigre</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(4)** Amidon employé dans la production des dextrines, du maltose, du dextrose, du glucose (sirop de glucose) ou de solides de glucose (sirop de glucose déshydraté)
-
-</td>
-<td>**(4)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(4)</td>
+<td>Amidon employé dans la production des dextrines, du maltose, du dextrose, du glucose (sirop de glucose) ou de solides de glucose (sirop de glucose déshydraté)</td>
+<td>(4)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>G.2</td>
 <td>Glucanase</td>
 <td>*Aspergillus niger* var.; *Bacillus subtilis* var.</td>
-<td>**(1)** Ale; bière; bière légère; liqueur de malt; porter; stout
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Ale; bière; bière légère; liqueur de malt; porter; stout</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Maïs pour égrenage
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(2)</td>
+<td>Maïs pour égrenage</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Moût de distillerie
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(3)</td>
+<td>Moût de distillerie</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(4)** Moût servant à la fabrication du vinaigre
-
-</td>
-<td>**(4)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(4)</td>
+<td>Moût servant à la fabrication du vinaigre</td>
+<td>(4)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(5)** Produits de boulangerie non normalisés
-
-</td>
-<td>**(5)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(5)</td>
+<td>Produits de boulangerie non normalisés</td>
+<td>(5)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>*Humicola insolens* var.</td>
-<td>**(1)** Ale; bière; bière légère; liqueur de malt; porter; stout
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Ale; bière; bière légère; liqueur de malt; porter; stout</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Moût de distillerie
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(2)</td>
+<td>Moût de distillerie</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>G.3</td>
-<td>Glucose-  oxydase</td>
+<td>Glucose-oxydase</td>
 <td>*Aspergillus niger* var.</td>
-<td>**(1)** Boissons préparées (gazeuses et non gazeuses)
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Boissons préparées (gazeuses et non gazeuses)</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** L'oeuf entier liquide; le blanc d'oeuf (albumen) et le jaune d'oeuf liquide destiné au séchage
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles selon les alinéas B.22.034b), B.22.035b) et B.22.036b)
-
-</td>
+<td></td>
+<td>(2)</td>
+<td>L'oeuf entier liquide; le blanc d'oeuf (albumen) et le jaune d'oeuf liquide destiné au séchage</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles selon les alinéas B.22.034b), B.22.035b) et B.22.036b)</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Farine; farine de blé entier; pain
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(3)</td>
+<td>Farine; farine de blé entier; pain</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(4)** Produits de boulangerie non normalisés
-
-</td>
-<td>**(4)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(4)</td>
+<td>Produits de boulangerie non normalisés</td>
+<td>(4)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>G.4</td>
-<td>Glucose-  isomérase</td>
+<td>Glucose-isomérase</td>
 <td>*Bacillus coagulans* var.; *Streptomyces olivochromogenes* var.; *Actinoplanes missouriensis* var.; *Streptomyces olivaceus* var.; *Microbacterium arborescens* NRRL B-11022; *Streptomyces murinus* DSM 3252; *Streptomyces rubiginosus* ATCC No. 21,175; *Streptomyces rubiginosus* SYC 5406 (pSYC5239)</td>
-<td>**(1)** Glucose (sirop de glucose) à être partiellement ou complètement transformé en fructose par isomérisation
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Glucose (sirop de glucose) à être partiellement ou complètement transformé en fructose par isomérisation</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>H.1</td>
-<td>Hemicellu-lase</td>
+<td>Hemicellulase</td>
 <td>*Bacillus subtilis* var.</td>
-<td>**(1)** Moût de distillerie
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Moût de distillerie</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Concentré de café liquide
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(2)</td>
+<td>Concentré de café liquide</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Moût destiné à la fabrication du vinaigre
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(3)</td>
+<td>Moût destiné à la fabrication du vinaigre</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>I.01</td>
 <td>Inulinase</td>
 <td>*Aspergillus niger var. Tieghem*</td>
-<td>Inuline
-
-</td>
-<td>Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>Inuline</td>
+<td></td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>I.1</td>
 <td>Invertase</td>
 <td>*Saccharomyces* sp.</td>
-<td>**(1)** Bonbons et autres produits de confiserie avec centre mou ou liquide
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Bonbons et autres produits de confiserie avec centre mou ou liquide</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Produits de boulangerie non normalisés
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(2)</td>
+<td>Produits de boulangerie non normalisés</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>L.1</td>
 <td>Lactase</td>
 <td>*Aspergillus niger* var.; *Aspergillus oryzae* var.;*Kluyveromyces fragilis* (*Kluyveromyces Marxianus* var. *marxianus*); *Kluyveromyces lactis* (*Kluyveromyces Marxianus* var. *lactis*); *Saccharomyces* sp.</td>
-<td>**(1)** Produits enzymatiques pour la réduction du lactose
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Produits enzymatiques pour la réduction du lactose</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Lait destiné à la fabrication du mélange pour la crème glacée
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(2)</td>
+<td>Lait destiné à la fabrication du mélange pour la crème glacée</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Farine; farine de blé entier; pain
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(3)</td>
+<td>Farine; farine de blé entier; pain</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(4)** Lait (indication de l'arôme); lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait malté (indication de l'arôme); lait écrémé additionné de solides du lait (indication de l'arôme); lait partiellement écrémé additionné de solides du lait (indication de l'arôme);
-
-</td>
-<td>**(4)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(4)</td>
+<td>Lait (indication de l'arôme); lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait malté (indication de l'arôme); lait écrémé additionné de solides du lait (indication de l'arôme); lait partiellement écrémé additionné de solides du lait (indication de l'arôme);</td>
+<td>(4)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>Extraits acellulaires de *Candida pseudotropicalis*</td>
-<td>**(1)** Lait destiné à la fabrication du mélange pour la crème glacée
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Lait destiné à la fabrication du mélange pour la crème glacée</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Yogourt
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Yogourt</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Petit-lait
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(3)</td>
+<td>Petit-lait</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(4)** Lait (indication de l'arôme); lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait malté (indication de l'arôme); lait écrémé additionné de solides du lait (indication de l'arôme); lait partiellement écrémé additionné de solides du lait (indication de l'arôme)
-
-</td>
-<td>**(4)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(4)</td>
+<td>Lait (indication de l'arôme); lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait malté (indication de l'arôme); lait écrémé additionné de solides du lait (indication de l'arôme); lait partiellement écrémé additionné de solides du lait (indication de l'arôme)</td>
+<td>(4)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>L.2</td>
 <td>Lipase</td>
 <td>*Aspergillus niger* var.; *Aspergillus oryzae* var.; *Rhizopus oryzae*var.; Tissus comestibles des préestomacs d’agneaux, de chevreaux ou de veaux; Tissus pancréatiques d’animaux</td>
-<td>**(1)** Préparations aromatisantes à base de produits laitiers
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Préparations aromatisantes à base de produits laitiers</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Blanc d'oeuf liquide et séché (albumen liquide et séché)
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Blanc d'oeuf liquide et séché (albumen liquide et séché)</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Fromage Asiago; fromage Bleu; fromage Caciocavallo; fromage cheddar; cheddar destiné à la transformation (fromage cheddar; fromage à caillé brassé; fromage à caillé granuleux; fromage à caillé lavé); fromage Feta; fromage Parmesan; fromage Provolone; fromage Romano
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td>(3)</td>
+<td>Fromage Asiago; fromage Bleu; fromage Caciocavallo; fromage cheddar; cheddar destiné à la transformation (fromage cheddar; fromage à caillé brassé; fromage à caillé granuleux; fromage à caillé lavé); fromage Feta; fromage Parmesan; fromage Provolone; fromage Romano</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(4)** Farine; farine de blé entier; pain
-
-</td>
-<td>**(4)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(4)</td>
+<td>Farine; farine de blé entier; pain</td>
+<td>(4)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(5)** Produits de boulangerie non normalisés
-
-</td>
-<td>**(5)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(5)</td>
+<td>Produits de boulangerie non normalisés</td>
+<td>(5)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(6)** Protéines hydrolysées d'origine animale, végétale ou provenant du lait
-
-</td>
-<td>**(6)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(6)</td>
+<td>Protéines hydrolysées d'origine animale, végétale ou provenant du lait</td>
+<td>(6)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>*Aspergillus oryzae* (MLT-2) (pRML 787) (p3SR2); *Rhizomucor miechei* (Cooney et Emerson) précédemment nommé *Mucor miehei (Cooney et Emerson)*); *Rhizopus niveus*</td>
-<td>**(1)** Graisses et huiles modifiées
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Graisses et huiles modifiées</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Fromage
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Fromage</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Préparations aromatisantes à base de produits laitiers
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td>(3)</td>
+<td>Préparations aromatisantes à base de produits laitiers</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(4)** Protéines hydrolysées d'origine animale, végétale ou provenant du lait
-
-</td>
-<td>**(4)** Bonnes pratiques industrielles
-
-</td>
+<td>(4)</td>
+<td>Protéines hydrolysées d'origine animale, végétale ou provenant du lait</td>
+<td>(4)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>*Penicillium camembertii*</td>
-<td>**(1)** Graisses et huiles comestibles
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Graisses et huiles comestibles</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>L.3</td>
 <td>Lipoxydase</td>
 <td>Grumeaux ou farine de fine Soja</td>
-<td>**(1)** Farine; farine de blé entier; pain
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Farine; farine de blé entier; pain</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>L.4</td>
 <td>Lysozyme</td>
 <td>Blanc d'oeuf</td>
-<td>Fromage
-
-</td>
-<td>Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>Fromage</td>
+<td></td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>M.1</td>
 <td>Enzyme coagulant le lait</td>
 <td>*Rhizomucor miehei* (Cooney et Emerson) (précédemment nommé *Mucor miehei* (Cooney et Emerson)) ou *Mucor pusillus Lindt* par fermentation de culture pure ou *Aspergillus oryzae* RET-1 (pBoel777)</td>
-<td>**(1)** Fromage; fromage cottage; crème sure
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Fromage; fromage cottage; crème sure</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Préparations aromatisantes à base de produits laitiers
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Préparations aromatisantes à base de produits laitiers</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Protéines hydrolysées d'origine animale, végétale ou provenant du lait
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td>(3)</td>
+<td>Protéines hydrolysées d'origine animale, végétale ou provenant du lait</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>*Endothia parasitica* par fermentation de culture pure</td>
-<td>**(1)** Fromage Emmentaler (Emmental ou Suisse)
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Fromage Emmentaler (Emmental ou Suisse)</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Fromage Parmesan
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Fromage Parmesan</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Fromage Romano
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(3)</td>
+<td>Fromage Romano</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(4)** Fromage Mozzarella (Scamorza)
-
-</td>
-<td>**(4)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(4)</td>
+<td>Fromage Mozzarella (Scamorza)</td>
+<td>(4)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(5)** Fromage Mozzarella partiellement écrémé (Scamorza partiellement écrémé)
-
-</td>
-<td>**(5)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(5)</td>
+<td>Fromage Mozzarella partiellement écrémé (Scamorza partiellement écrémé)</td>
+<td>(5)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>P.1</td>
 <td>Pancréatine</td>
 <td>Pancréas de porc (*Sus scrofa*) ou de boeuf (*Bos taurus*)</td>
-<td>**(1)** Blanc d'oeuf liquide et poudre de blanc d'oeuf (albumen liquide et poudre d'albumen)
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Blanc d'oeuf liquide et poudre de blanc d'oeuf (albumen liquide et poudre d'albumen)</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Céréales précuites (instantanées)
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Céréales précuites (instantanées)</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Amidon utilisé dans la production des dextrines, du maltose, du dextrose, du glucose (sirop de glucose) ou de solides de glucose (sirop de glucose déshydraté)
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(3)</td>
+<td>Amidon utilisé dans la production des dextrines, du maltose, du dextrose, du glucose (sirop de glucose) ou de solides de glucose (sirop de glucose déshydraté)</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(4)** Protéines hydrolysées d'origine animale ou végétale ou provenant du lait
-
-</td>
-<td>**(4)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(4)</td>
+<td>Protéines hydrolysées d'origine animale ou végétale ou provenant du lait</td>
+<td>(4)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>P.2</td>
 <td>Papaïne</td>
 <td>Fruit du papayer *Carica papaya* L. (Fam. du *Caricaceae*)</td>
-<td>**(1)** Ale; bière; bière légère; liqueur de malt; porter; stout
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Ale; bière; bière légère; liqueur de malt; porter; stout</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Boeuf avant l'abattage
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Boeuf avant l'abattage</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Boyaux de saucisse; pellicules de collagène hydrosolubles comestibles
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(3)</td>
+<td>Boyaux de saucisse; pellicules de collagène hydrosolubles comestibles</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(4)** Protéine hydrolysée d'origine animale, végétale ou provenant du lait
-
-</td>
-<td>**(4)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(4)</td>
+<td>Protéine hydrolysée d'origine animale, végétale ou provenant du lait</td>
+<td>(4)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(5)** Pièces de viande
-
-</td>
-<td>**(5)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(5)</td>
+<td>Pièces de viande</td>
+<td>(5)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(6)** Produits pour attendrir la viande
-
-</td>
-<td>**(6)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(6)</td>
+<td>Produits pour attendrir la viande</td>
+<td>(6)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(7)** Céréales précuites (instantanées)
-
-</td>
-<td>**(7)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(7)</td>
+<td>Céréales précuites (instantanées)</td>
+<td>(7)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(8)** Marinade employée dans la salaison de parties de boeuf
-
-</td>
-<td>**(8)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(8)</td>
+<td>Marinade employée dans la salaison de parties de boeuf</td>
+<td>(8)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(9)** Produits de boulangerie non normalisés
-
-</td>
-<td>**(9)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(9)</td>
+<td>Produits de boulangerie non normalisés</td>
+<td>(9)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>P.3</td>
 <td>Pectinase</td>
 <td>*Aspergillus niger* var.; *Rhizopus oryzae* var.</td>
-<td>**(1)** Cidre; vin
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Cidre; vin</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Moût de distillerie
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Moût de distillerie</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Jus de fruits non concentrés
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td>(3)</td>
+<td>Jus de fruits non concentrés</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(4)** Préparations naturelles aromatisantes et colorants
-
-</td>
-<td>**(4)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(4)</td>
+<td>Préparations naturelles aromatisantes et colorants</td>
+<td>(4)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(5)** Pelures d'agrumes destinées à la fabrication de confiture, de marmelade et de fruits confits
-
-</td>
-<td>**(5)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(5)</td>
+<td>Pelures d'agrumes destinées à la fabrication de confiture, de marmelade et de fruits confits</td>
+<td>(5)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(6)** Bouillon de légume employé dans les soupes
-
-</td>
-<td>**(6)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(6)</td>
+<td>Bouillon de légume employé dans les soupes</td>
+<td>(6)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(7)** Feuilles de thé destinées à la production de solides de thé
-
-</td>
-<td>**(7)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(7)</td>
+<td>Feuilles de thé destinées à la production de solides de thé</td>
+<td>(7)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>*Aspergillus oryzae* Km-1-1 (pA2PEI)</td>
-<td>**(1)** Cidre; vin
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Cidre; vin</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Jus de fruits non concentrés</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td>**(2)** Jus de fruits non concentrés
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>**(3)** Produits à base de fruits et de légumes non normalisés
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td>(3)</td>
+<td>Produits à base de fruits et de légumes non normalisés</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>P.4</td>
 <td>Pentosanase</td>
 <td>*Aspergillus niger* var.; *Bacillus subtilis* var.</td>
-<td>**(1)** Ale; bière; bière légère; liqueur de malt; porter; stout
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Ale; bière; bière légère; liqueur de malt; porter; stout</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Maïs pour égrenage
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Maïs pour égrenage</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Moût de distillerie
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(3)</td>
+<td>Moût de distillerie</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(4)** Moût destiné à la fabrication du vinaigre
-
-</td>
-<td>**(4)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(4)</td>
+<td>Moût destiné à la fabrication du vinaigre</td>
+<td>(4)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(5)** Produits de boulangerie non normalisés
-
-</td>
-<td>**(5)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(5)</td>
+<td>Produits de boulangerie non normalisés</td>
+<td>(5)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(6)** Farine; farine de blé entier, pain
-
-</td>
-<td>**(4)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(6)</td>
+<td>Farine; farine de blé entier, pain</td>
+<td>(6)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>*Trichoderma reesei* (QM9414)</td>
-<td>**(1)** Farine; farine de blé entier, pain
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Farine; farine de blé entier, pain</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Moût de distillerie
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(2)</td>
+<td>Moût de distillerie</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Produits de boulangerie non normalisés
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(3)</td>
+<td>Produits de boulangerie non normalisés</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>P.5</td>
 <td>Pepsine</td>
 <td>Muqueuse glandulaire de l'estomac de porc</td>
-<td>**(1)** Ale; bière; bière légère; liqueur de malt; porter; stout
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Ale; bière; bière légère; liqueur de malt; porter; stout</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Fromage; fromage cottage; fromage en crème; fromage en crème avec (nom de l'ingrédient ajouté); fromage en crème à tartiner; fromage en crème à tartiner avec (nom de l'ingrédient ajouté)
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(2)</td>
+<td>Fromage; fromage cottage; fromage en crème; fromage en crème avec (nom de l'ingrédient ajouté); fromage en crème à tartiner; fromage en crème à tartiner avec (nom de l'ingrédient ajouté)</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Farine de soja dégraissée
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(3)</td>
+<td>Farine de soja dégraissée</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(4)** Céréales précuites (instantanées)
-
-</td>
-<td>**(4)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(4)</td>
+<td>Céréales précuites (instantanées)</td>
+<td>(4)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(5)** Protéines hydrolysées d'origine animale ou végétale ou provenant du lait
-
-</td>
-<td>**(5)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(5)</td>
+<td>Protéines hydrolysées d'origine animale ou végétale ou provenant du lait</td>
+<td>(5)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>P.6</td>
 <td>Protéase</td>
 <td>*Aspergillus oryzae* var.; *Aspergillus niger* var.; *Bacillus subtilis* var.</td>
-<td>**(1)** Ale; bière; bière légère; liqueur de malt; porter; stout
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Ale; bière; bière légère; liqueur de malt; porter; stout</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Farine; farine de blé entier; pain
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Farine; farine de blé entier; pain</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Préparations aromatisantes à base de produits laitiers
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td>(3)</td>
+<td>Préparations aromatisantes à base de produits laitiers</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(4)** Moût de distillerie
-
-</td>
-<td>**(4)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(4)</td>
+<td>Moût de distillerie</td>
+<td>(4)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(5)** Boyaux de saucisses
-
-</td>
-<td>**(5)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(5)</td>
+<td>Boyaux de saucisses</td>
+<td>(5)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(6)** Protéines hydrolysées d'origine animale, végétale, ou provenant du lait
-
-</td>
-<td>**(6)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(6)</td>
+<td>Protéines hydrolysées d'origine animale, végétale, ou provenant du lait</td>
+<td>(6)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(7)** Poudre de fromage de pulvérisation sèche industrielle
-
-</td>
-<td>**(7)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(7)</td>
+<td>Poudre de fromage de pulvérisation sèche industrielle</td>
+<td>(7)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(8)** Pièces de viande
-
-</td>
-<td>**(8)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(8)</td>
+<td>Pièces de viande</td>
+<td>(8)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(9)** Produits pour attendrir la viande
-
-</td>
-<td>**(9)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(9)</td>
+<td>Produits pour attendrir la viande</td>
+<td>(9)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(10)** Céréales précuites (instantanées)
-
-</td>
-<td>**(10)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(10)</td>
+<td>Céréales précuites (instantanées)</td>
+<td>(10)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(11)** Produits de boulangerie non normalisés
-
-</td>
-<td>**(11)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(11)</td>
+<td>Produits de boulangerie non normalisés</td>
+<td>(11)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(12)** Fromage cheddar; fromage cheddar destiné à la transformation (fromage à caillé brassé; fromage à caillé granuleux; fromage à caillé lavé); fromage Colby
-
-</td>
-<td>**(12)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(12)</td>
+<td>Fromage cheddar; fromage cheddar destiné à la transformation (fromage à caillé brassé; fromage à caillé granuleux; fromage à caillé lavé); fromage Colby</td>
+<td>(12)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>*Micrococcus caseolyticus* var.</td>
-<td>**(1)** Fromage de spécialité à pâte ferme ou demi-ferme, pressée et molle
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Fromage de spécialité à pâte ferme ou demi-ferme, pressée et molle</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>*Bacillus licheniformis* (Cx)</td>
-<td>**(1)** Protéines hydrolysées d'origine animale, végétale ou provenant du lait
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Protéines hydrolysées d'origine animale, végétale ou provenant du lait</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>P.7</td>
 <td>Pullulanase</td>
 <td>*Bacillus acidopullulyticus* NCIB 11647; *Bacillus licheniformis* SE2-Pul-int211 (pUBCDEBRA11DNSI)</td>
-<td>**(1)** Farine; farine de blé entier; pain
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Farine; farine de blé entier; pain</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Amidon utilisé dans la production des dextrines, du dextrose, du glucose (sirop de glucose), de solides de glucose (sirop de glucose déshydraté) ou de sirops et de solides de fructose, du maltose
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Amidon utilisé dans la production des dextrines, du dextrose, du glucose (sirop de glucose), de solides de glucose (sirop de glucose déshydraté) ou de sirops et de solides de fructose, du maltose</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Produits de boulangerie non normalisés
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(3)</td>
+<td>Produits de boulangerie non normalisés</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>*Bacillus licheniformis* BMP 139 (pR11Amp)</td>
-<td>**(1)** Farine; farine de blé entier; pain
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Farine; farine de blé entier; pain</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Moût de bière</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td>**(2)** Moût de bière
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(3)</td>
+<td>Amidon utilisé dans la production des dextrines, du dextrose, du glucose (sirop de glucose), de solides de glucose (sirop de glucose déshydraté) ou de sirops et de solides de fructose, du maltose</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td>**(3)** Amidon utilisé dans la production des dextrines, du dextrose, du glucose (sirop de glucose), de solides de glucose (sirop de glucose déshydraté) ou de sirops et de solides de fructose, du maltose
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>**(4)** Produits de boulangerie non normalisés
-
-</td>
-<td>**(4)** Bonnes pratiques industrielles
-
-</td>
+<td>(4)</td>
+<td>Produits de boulangerie non normalisés</td>
+<td>(4)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>*Bacillus subtilis *B1-163 (pEB301)</td>
-<td>**(1)** Farine; farine de blé entier; pain
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Farine; farine de blé entier; pain</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Moût de bière</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td>**(2)** Moût de bière
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(3)</td>
+<td>Moût de distillerie</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td>**(3)** Moût de distillerie
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td>(4)</td>
+<td>Amidon utilisé dans la production des dextrines, du dextrose, du glucose (sirop de glucose), de solides de glucose (sirop de glucose déshydraté) ou de sirops et de solides de fructose, du maltose</td>
+<td>(4)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td>**(4)** Amidon utilisé dans la production des dextrines, du dextrose, du glucose (sirop de glucose), de solides de glucose (sirop de glucose déshydraté) ou de sirops et de solides de fructose, du maltose
-
-</td>
-<td>**(4)** Bonnes pratiques industrielles
-
-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>**(5)** Produits de boulangerie non normalisés
-
-</td>
-<td>**(5)** 
-
-</td>
+<td>(5)</td>
+<td>Produits de boulangerie non normalisés</td>
+<td>(5)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>R.1</td>
 <td>Présure</td>
 <td>Extrait aqueux du 4<sup>e</sup> (véritable) estomac de veaux, de chevreaux ou d'agneaux</td>
-<td>**(1)** Fromage; fromage cottage; fromage à la crème; fromage à la crème avec (nom des ingrédients ajoutés); fromage à la crème à tartiner; fromage à la crème à tartiner avec (nom des ingrédients ajoutés); crème sure
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Fromage; fromage cottage; fromage à la crème; fromage à la crème avec (nom des ingrédients ajoutés); fromage à la crème à tartiner; fromage à la crème à tartiner avec (nom des ingrédients ajoutés); crème sure</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Produits pour desserts à base de lait non normalisés
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(2)</td>
+<td>Produits pour desserts à base de lait non normalisés</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>T.01</td>
 <td>Transglutaminase</td>
 <td>*Streptoverticillium mobaraense* souche S-8112</td>
-<td>**(1)** Produits de poisson préparé (sauf pour l'un de ces produits visés par une norme dans le présent règlement)
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Produits de poisson préparé non normalisés</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Simili-produits de viande
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Simili-produits de viande</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Produits de fromage (sauf pour l'un de ces produits visés par une norme dans le présent règlement)
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(3)</td>
+<td>Produits de fromage non normalisés</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(4)** Produits de fromage fondu (sauf pour l'un de ces produits visés par une norme dans le présent règlement)
-
-</td>
-<td>**(4)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(4)</td>
+<td>Produits de fromage fondu non normalisés</td>
+<td>(4)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(5)** Produits de fromage à la crème (sauf pour l'un de ces produits visés par une norme dans le présent règlement)
-
-</td>
-<td>**(5)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(5)</td>
+<td>Produits de fromage à la crème non normalisés</td>
+<td>(5)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(6)** Yogourt
-
-</td>
-<td>**(6)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(6)</td>
+<td>Yogourt</td>
+<td>(6)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(7)** Desserts laitiers congelés (sauf pour l'un de ces produits visés par une norme dans le présent règlement)
-
-</td>
-<td>**(7)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(7)</td>
+<td>Desserts laitiers congelés non normalisés</td>
+<td>(7)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>T.1</td>
 <td>Trypsine</td>
-<td>Pancreas de porc  (*Sus scrofa*)</td>
-<td>**(1)** Protéines hydrolysées d'origine animale ou végétale ou provenant du lait
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>Pancreas de porc (*Sus scrofa*)</td>
+<td>(1)</td>
+<td>Protéines hydrolysées d'origine animale ou végétale ou provenant du lait</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>X.1</td>
 <td>Xylanase</td>
 <td>*Aspergillus oryzae * Fa 1-1 (pA2X1TI)</td>
-<td>Farine; farine de blé entier; pain
-
-</td>
-<td>Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>Farine; farine de blé entier; pain</td>
+<td></td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 </table>
 
-> DORS/78-402, art. 6; DORS/78-876, art. 3; DORS/79-662, art. 14 à 17; DORS/80-501, art. 4; DORS/80-632, art. 5; DORS/81-60, art. 11; DORS/81-934, art. 7 à 10; DORS/82-383, art. 10; DORS/82-566, art. 2; DORS/82-1071, art. 17; DORS/84-302, art. 4; DORS/84-762, art. 8 et 9; DORS/84-801, art. 4; DORS/86-89, art. 4 à 6; DORS/86-1112, art. 4; DORS/87-254, art. 2; DORS/87-640, art. 7; DORS/88-281, art. 1; DORS/90-24, art. 1 à 3; DORS/90-87, art. 10 à 12; DORS/90-469, art. 3; DORS/91-124, art. 5(F); DORS/91-487, art. 1; DORS/91-691, art. 1; DORS/92-63, art. 4; DORS/92-94, art. 4; DORS/92-195, art. 1; DORS/92-197, art. 9; DORS/92-231, art. 1; DORS/92-518, art. 1; DORS/92-591, art. 2(F); DORS/94-29, art. 1; DORS/94-182, art. 1; DORS/94-212, art. 9; DORS/94-417, art. 2; DORS/94-552, art. 1; DORS/94-689, art. 2; DORS/94-712, art. 1; DORS/95-65, art. 1; DORS/95-183, art. 9; DORS/95-525, art. 1 et 2; DORS/96-375, art. 1; DORS/97-81, art. 1; DORS/97-82, art. 1; DORS/97-122, art. 4(F) et 5; DORS/97-508, art. 1 et 2; DORS/97-513, art. 1; DORS/97-558, art. 4; DORS/98-454, art. 1; DORS/98-458, art. 6 et 7(F); DORS/2000-336, art. 3 à 5; DORS/2000-417, art. 4; DORS/2003-130, art. 4; DORS/2004-84, art. 1; DORS/2005-98, art. 3 à 7 et 8(F); DORS/2005-394, art. 1 à 6..
+> DORS/78-402, art. 6; DORS/78-876, art. 3; DORS/79-662, art. 14 à 17; DORS/80-501, art. 4; DORS/80-632, art. 5; DORS/81-60, art. 11; DORS/81-934, art. 7 à 10; DORS/82-383, art. 10; DORS/82-566, art. 2; DORS/82-1071, art. 17; DORS/84-302, art. 4; DORS/84-762, art. 8 et 9; DORS/84-801, art. 4; DORS/86-89, art. 4 à 6; DORS/86-1112, art. 4; DORS/87-254, art. 2; DORS/87-640, art. 7; DORS/88-281, art. 1; DORS/90-24, art. 1 à 3; DORS/90-87, art. 10 à 12; DORS/90-469, art. 3; DORS/91-124, art. 5(F); DORS/91-487, art. 1; DORS/91-691, art. 1; DORS/92-63, art. 4; DORS/92-94, art. 4; DORS/92-195, art. 1; DORS/92-197, art. 9; DORS/92-231, art. 1; DORS/92-518, art. 1; DORS/92-591, art. 2(F); DORS/94-29, art. 1; DORS/94-182, art. 1; DORS/94-212, art. 9; DORS/94-417, art. 2; DORS/94-552, art. 1; DORS/94-689, art. 2; DORS/94-712, art. 1; DORS/95-65, art. 1; DORS/95-183, art. 9; DORS/95-525, art. 1 et 2; DORS/96-375, art. 1; DORS/97-81, art. 1; DORS/97-82, art. 1; DORS/97-122, art. 4(F) et 5; DORS/97-508, art. 1 et 2; DORS/97-513, art. 1; DORS/97-558, art. 4; DORS/98-454, art. 1; DORS/98-458, art. 6 et 7(F); DORS/2000-336, art. 3 à 5; DORS/2000-417, art. 4; DORS/2003-130, art. 4; DORS/2004-84, art. 1; DORS/2005-98, art. 3 à 7 et 8(F); DORS/2005-394, art. 1 à 6; DORS/2007-225, art. 1..
 
 
 
@@ -23691,284 +22855,237 @@ Vert solide FCF
 <th>Limites de tolérance</th>
 </tr>
 <tr>
-<th> </th>
-</tr>
-<tr>
 <td>A.1</td>
-<td>Sulfate  d'aluminium</td>
-<td>**(1)** Crabe; homard; saumon; crevettes et thon en conserve; cornichons et achards (*relish*)
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>Sulfate d'aluminium</td>
+<td>(1)</td>
+<td>Crabe; homard; saumon; crevettes et thon en conserve; cornichons et achards (*relish*)</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Aliments non normalisés
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(2)</td>
+<td>Aliments non normalisés</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>A.2</td>
 <td>Sulfate double</td>
-<td>**(1)** Cornichons et achards (*relish*)
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Cornichons et achards (*relish*)</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td>d'aluminium et d'ammonium</td>
-<td>**(2)** Aliments non normalisés
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Aliments non normalisés</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>C.1</td>
 <td>Chlorure de calcium</td>
-<td>**(1)** Pommes en conserve
-
-</td>
-<td>**(1)** 0,026 %, calculé en calcium
-
-</td>
+<td>(1)</td>
+<td>Pommes en conserve</td>
+<td>(1)</td>
+<td>0,026 %, calculé en calcium</td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Pamplemousses en conserve
-
-</td>
-<td>**(2)** 0,035 %, calculé en calcium conformément au sous-alinéa B.11.101c)(vii)
-
-</td>
+<td>(2)</td>
+<td>Pamplemousses en conserve</td>
+<td>(2)</td>
+<td>0,035 %, calculé en calcium conformément au sous-alinéa B.11.101c)(vii)</td>
 </tr>
 <tr>
 <td></td>
-<td>**(3)** Fromage (indication de la variété); fromage cheddar
-
-</td>
-<td>**(3)** 0,02 % du lait et des produits laitiers utilisés
-
-</td>
+<td></td>
+<td>(3)</td>
+<td>Fromage (indication de la variété); fromage cheddar</td>
+<td>(3)</td>
+<td>0,02 % du lait et des produits laitiers utilisés</td>
 </tr>
 <tr>
 <td></td>
-<td>**(4)** Fromage cottage
-
-</td>
-<td>**(4)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(4)</td>
+<td>Fromage cottage</td>
+<td>(4)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(5)** Glaçage de poisson congelé
-
-</td>
-<td>**(5)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(5)</td>
+<td>Glaçage de poisson congelé</td>
+<td>(5)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(6)** Olives
-
-</td>
-<td>**(6)** 1,5 % de la saumure
-
-</td>
+<td></td>
+<td>(6)</td>
+<td>Olives</td>
+<td>(6)</td>
+<td>1,5 % de la saumure</td>
 </tr>
 <tr>
 <td></td>
-<td>**(7)** Cornichons et achards (*relish*)
-
-</td>
-<td>**(7)** 0,4 %
-
-</td>
+<td></td>
+<td>(7)</td>
+<td>Cornichons et achards (*relish*)</td>
+<td>(7)</td>
+<td>0,4 %</td>
 </tr>
 <tr>
 <td></td>
-<td>**(8)** Tomates; légumes en conserve (nom du légume); pommes congelées
-
-</td>
-<td>**(8)** 0,026 %, calculé en calcium et, dans le cas des pois en conserve, 0,035 %, calculé en calcium
-
-</td>
+<td></td>
+<td>(8)</td>
+<td>Tomates; légumes en conserve (nom du légume); pommes congelées</td>
+<td>(8)</td>
+<td>0,026 %, calculé en calcium et, dans le cas des pois en conserve, 0,035 %, calculé en calcium</td>
 </tr>
 <tr>
 <td></td>
-<td>**(9)** Aliments non normalisés
-
-</td>
-<td>**(9)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(9)</td>
+<td>Aliments non normalisés</td>
+<td>(9)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>C.2</td>
-<td>Citrate de  calcium</td>
-<td>**(1)** Tomates; légumes en conserve; pommes congelées; pommes tranchées congelées
-
-</td>
-<td>**(1)** 0,026 %, calculé en calcium
-
-</td>
+<td>Citrate de calcium</td>
+<td>(1)</td>
+<td>Tomates; légumes en conserve; pommes congelées; pommes tranchées congelées</td>
+<td>(1)</td>
+<td>0,026 %, calculé en calcium</td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Pommes en conserve
-
-</td>
-<td>**(2)** 0,026 %, calculé en calcium
-
-</td>
+<td></td>
+<td>(2)</td>
+<td>Pommes en conserve</td>
+<td>(2)</td>
+<td>0,026 %, calculé en calcium</td>
 </tr>
 <tr>
 <td></td>
-<td>**(3)** Aliments non normalisés
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(3)</td>
+<td>Aliments non normalisés</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>C.3</td>
-<td>Gluconate de  calcium</td>
-<td>Aliments non normalisés
-
-</td>
-<td>Bonnes pratiques industrielles
-
-</td>
+<td>Gluconate de calcium</td>
+<td></td>
+<td>Aliments non normalisés</td>
+<td></td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>C.3A</td>
-<td>Lactate de  calcium</td>
-<td>**(1)** Pamplemousses en conserve
-
-</td>
-<td>**(1)** 0,035 %, calculé en calcium, selon le sous-alinéa B.11.101c)(vii)
-
-</td>
+<td>Lactate de calcium</td>
+<td>(1)</td>
+<td>Pamplemousses en conserve</td>
+<td>(1)</td>
+<td>0,035 %, calculé en calcium, selon le sous-alinéa B.11.101c)(vii)</td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Pois en conserve
-
-</td>
-<td>**(2)** 0,035 % calculé en calcium
-
-</td>
+<td></td>
+<td>(2)</td>
+<td>Pois en conserve</td>
+<td>(2)</td>
+<td>0,035 % calculé en calcium</td>
 </tr>
 <tr>
 <td>C.4</td>
-<td>Phosphate  bicalcique</td>
-<td>Aliments non normalisés
-
-</td>
-<td>Bonnes pratiques industrielles
-
-</td>
+<td>Phosphate bicalcique</td>
+<td></td>
+<td>Aliments non normalisés</td>
+<td></td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>C.5</td>
-<td>Phosphate  monocalcique</td>
-<td>**(1)** Tomates; légumes en conserve; pommes congelées
-
-</td>
-<td>**(1)** 0,026 %, calculé en calcium
-
-</td>
+<td>Phosphate monocalcique</td>
+<td>(1)</td>
+<td>Tomates; légumes en conserve; pommes congelées</td>
+<td>(1)</td>
+<td>0,026 %, calculé en calcium</td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Pommes en conserve
-
-</td>
-<td>**(2)** 0,026 %, calculé en calcium
-
-</td>
+<td></td>
+<td>(2)</td>
+<td>Pommes en conserve</td>
+<td>(2)</td>
+<td>0,026 %, calculé en calcium</td>
 </tr>
 <tr>
 <td></td>
-<td>**(3)** Aliments non normalisés
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(3)</td>
+<td>Aliments non normalisés</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>C.6</td>
 <td>Sulfate de calcium</td>
-<td>**(1)** Tomates; légumes en conserve; pommes congelées
-
-</td>
-<td>**(1)** 0,026 %, calculé en calcium
-
-</td>
+<td>(1)</td>
+<td>Tomates; légumes en conserve; pommes congelées</td>
+<td>(1)</td>
+<td>0,026 %, calculé en calcium</td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Pommes en conserve
-
-</td>
-<td>**(2)** 0,026 %, calculé en calcium
-
-</td>
+<td></td>
+<td>(2)</td>
+<td>Pommes en conserve</td>
+<td>(2)</td>
+<td>0,026 %, calculé en calcium</td>
 </tr>
 <tr>
 <td>P.1</td>
 <td>Sulfate double d'aluminium et de potassium</td>
-<td>**(1)** Cornichons et achards (*relish*)
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Cornichons et achards (*relish*)</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Aliments non normalisés
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Aliments non normalisés</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>S.1</td>
-<td>Sulfate double  d'aluminium et de sodium</td>
-<td>**(1)** Cornichons et achards (*relish*)
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>Sulfate double d'aluminium et de sodium</td>
+<td>(1)</td>
+<td>Cornichons et achards (*relish*)</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Aliments non normalisés
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Aliments non normalisés</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 </table>
 
->  DORS/78-402, art. 7; DORS/79-660, art. 11 et 12; DORS/79-752, art. 7; DORS/93-445, art. 1; DORS/94-689, art. 2(F)..
+> DORS/78-402, art. 7; DORS/79-660, art. 11 et 12; DORS/79-752, art. 7; DORS/93-445, art. 1; DORS/94-689, art. 2(F)..
 
 
 
@@ -23988,140 +23105,111 @@ Vert solide FCF
 <th>Limites de tolérance</th>
 </tr>
 <tr>
-<th> </th>
-</tr>
-<tr>
 <td>A.1</td>
 <td>Monoglycérides acétylés</td>
-<td>**(1)** Produits de confiserie
-
-</td>
-<td>**(1)** 0,4 %
-
-</td>
+<td>(1)</td>
+<td>Produits de confiserie</td>
+<td>(1)</td>
+<td>0,4 %</td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Poisson congelé
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Poisson congelé</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>B.1</td>
 <td>Cire d'abeilles</td>
-<td>Bonbons et autres produits de confiserie
-
-</td>
-<td>0,4 %
-
-</td>
+<td></td>
+<td>Bonbons et autres produits de confiserie</td>
+<td></td>
+<td>0,4 %</td>
 </tr>
 <tr>
 <td>C.1</td>
 <td>Cire de carnauba</td>
-<td>Bonbons et autres produits de confiserie
-
-</td>
-<td>0,4 %
-
-</td>
+<td></td>
+<td>Bonbons et autres produits de confiserie</td>
+<td></td>
+<td>0,4 %</td>
 </tr>
 <tr>
 <td>C.2</td>
 <td>Cire de candélilla</td>
-<td>Confiseries
-
-</td>
-<td>0,4 %
-
-</td>
+<td></td>
+<td>Confiseries</td>
+<td></td>
+<td>0,4 %</td>
 </tr>
 <tr>
 <td>G.1</td>
 <td>Gomme arabique</td>
-<td>Bonbons et autres produits de confiserie
-
-</td>
-<td>0,4 %
-
-</td>
+<td></td>
+<td>Bonbons et autres produits de confiserie</td>
+<td></td>
+<td>0,4 %</td>
 </tr>
 <tr>
 <td>G.2</td>
 <td>Résine de benjoin</td>
-<td>Confiseries
-
-</td>
-<td>0,4 %
-
-</td>
+<td></td>
+<td>Confiseries</td>
+<td></td>
+<td>0,4 %</td>
 </tr>
 <tr>
 <td>M.1</td>
 <td>Silicate de magnésium</td>
-<td>Bonbons et autres produits de confiserie
-
-</td>
-<td>0,4 %
-
-</td>
+<td></td>
+<td>Bonbons et autres produits de confiserie</td>
+<td></td>
+<td>0,4 %</td>
 </tr>
 <tr>
 <td>M.2</td>
 <td>Huile minérale</td>
-<td>Bonbons et autres produits de confiserie
-
-</td>
-<td>0,15 %
-
-</td>
+<td></td>
+<td>Bonbons et autres produits de confiserie</td>
+<td></td>
+<td>0,15 %</td>
 </tr>
 <tr>
 <td>P.1</td>
 <td>Vaseline</td>
-<td>Bonbons et autres produits de confiserie
-
-</td>
-<td>0,15 %
-
-</td>
+<td></td>
+<td>Bonbons et autres produits de confiserie</td>
+<td></td>
+<td>0,15 %</td>
 </tr>
 <tr>
 <td>S.1</td>
 <td>Gomme laque</td>
-<td>Décorations à gâteaux; bonbons et autres produits de confiserie
-
-</td>
-<td>0,4 %
-
-</td>
+<td></td>
+<td>Décorations à gâteaux; bonbons et autres produits de confiserie</td>
+<td></td>
+<td>0,4 %</td>
 </tr>
 <tr>
 <td>S.2</td>
 <td>Spermaceti</td>
-<td>Bonbons et autres produits de confiserie
-
-</td>
-<td>0,4 %
-
-</td>
+<td></td>
+<td>Bonbons et autres produits de confiserie</td>
+<td></td>
+<td>0,4 %</td>
 </tr>
 <tr>
 <td>Z.1</td>
 <td>Zéine</td>
-<td>Bonbons et autres produits de confiserie
-
-</td>
-<td>1,0 %
-
-</td>
+<td></td>
+<td>Bonbons et autres produits de confiserie</td>
+<td></td>
+<td>1,0 %</td>
 </tr>
 </table>
 
->  DORS/94-689, art. 2(F)..
+> DORS/94-689, art. 2(F)..
 
 
 
@@ -24143,9 +23231,6 @@ Vert solide FCF
 <th>Limites de tolérance</th>
 </tr>
 <tr>
-<th> </th>
-</tr>
-<tr>
 <td>A.01</td>
 <td>Gomme arabique</td>
 <td></td>
@@ -24157,7 +23242,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td>A.1</td>
-<td>Mono-  glycérides acétylés</td>
+<td>Mono-glycérides acétylés</td>
 <td></td>
 <td>Aliments non normalisés</td>
 <td></td>
@@ -24255,7 +23340,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td>C.2</td>
-<td>Citrate de  caféine</td>
+<td>Citrate de caféine</td>
 <td></td>
 <td>Breuvages de type cola</td>
 <td></td>
@@ -24275,14 +23360,12 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
-<td>(2)</td>
+<td></td>
+<td>(2) </td>
 <td>[Abrogé, DORS/94-227, art. 5]</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(3)</td>
 <td>Bonbons et autres produits de confiserie</td>
@@ -24293,6 +23376,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(4)</td>
 <td>Gomme à mâcher</td>
 <td>(4)</td>
@@ -24301,6 +23385,7 @@ Vert solide FCF
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(5)</td>
 <td>Aliments non normalisés</td>
@@ -24321,6 +23406,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Mélange de poisson et de viande préparés visé à l'alinéa B.21.006n)</td>
 <td>(2)</td>
@@ -24339,6 +23425,7 @@ Vert solide FCF
 <td>Lorsque employé en combinaison avec le chlorure de sodium (sel) et l'hydroxyde de sodium en solution, l'oxyde de calcium ne doit pas dépasser 30 p.p.m.</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(2)</td>
 <td>Mélange de poisson et de viande préparés visés à l'alinéa B.21.006n)</td>
@@ -24359,12 +23446,9 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>[Abrogé, DORS/94-227, art. 6]</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>C.6</td>
@@ -24378,14 +23462,12 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>[Abrogé, DORS/94-227, art. 7]</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(3)</td>
 <td>Petit-lait liquide destiné à la fabrication de produits de petit-lait séché autres que ceux entrant dans les préparations pour nourrissons</td>
@@ -24396,6 +23478,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(4)</td>
 <td>Fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés)</td>
 <td>(4)</td>
@@ -24405,7 +23488,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td>C.7</td>
-<td>Silicate de  calcium</td>
+<td>Silicate de calcium</td>
 <td></td>
 <td>Rocou soluble dans l'huile</td>
 <td></td>
@@ -24425,7 +23508,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td>C.9</td>
-<td>Stéaroyl-2-lactylate de calcium</td>
+<td>Stéaroyl-2- lactylate de calcium</td>
 <td>(1)</td>
 <td>Blancs d'oeufs à l'état liquide et à l'état congelé</td>
 <td>(1)</td>
@@ -24434,6 +23517,7 @@ Vert solide FCF
 <td>0,05 %</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(2)</td>
 <td>Blancs d'oeufs en poudre</td>
@@ -24444,6 +23528,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(3)</td>
 <td>Garnitures de graisse végétale</td>
 <td>(3)</td>
@@ -24452,6 +23537,7 @@ Vert solide FCF
 <td>0,3 %</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(4)</td>
 <td>Pommes de terre déshydratées</td>
@@ -24472,14 +23558,12 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>[Abrogé, DORS/94-227, art. 8]</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(3)</td>
 <td>Poudre à pâte</td>
@@ -24490,7 +23574,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td>C.11</td>
-<td>Anhydride  carbonique</td>
+<td>Anhydride carbonique</td>
 <td>(1)</td>
 <td>Ale; bière; jus de (nom du fruit) gazeux; bière légère; liqueur de malt; porter; cidre; stout; vins; eau dite eau minérale ou eau de source</td>
 <td>(1)</td>
@@ -24500,6 +23584,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Aliments non normalisés</td>
 <td>(2)</td>
@@ -24508,6 +23593,7 @@ Vert solide FCF
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(3)</td>
 <td>Fromage cottage; fromage cottage en crème</td>
@@ -24547,6 +23633,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(3)</td>
 <td>Aliments diététiques dont la teneur en calories ou en glucides est réduite</td>
 <td>(3)</td>
@@ -24555,6 +23642,7 @@ Vert solide FCF
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(4)</td>
 <td>Garniture fouettée à l'huile végétale</td>
@@ -24565,6 +23653,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(5)</td>
 <td>Desserts congelés non normalisés</td>
 <td>(5)</td>
@@ -24573,6 +23662,7 @@ Vert solide FCF
 <td>0,5 %</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(6)</td>
 <td>Garnitures à sandwich et trempettes non normalisées</td>
@@ -24583,6 +23673,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(7)</td>
 <td>Aliments non normalisés autres que les aliments non normalisés mentionnés dans cet article</td>
 <td>(7)</td>
@@ -24591,6 +23682,7 @@ Vert solide FCF
 <td>2,0 %</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(8)</td>
 <td>Mélange pour crème glacée</td>
@@ -24601,6 +23693,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(9)</td>
 <td>Édulcorant de table sous forme de comprimés, contenant de l'aspartame</td>
 <td>(9)</td>
@@ -24609,6 +23702,7 @@ Vert solide FCF
 <td>2,2 %</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(10)</td>
 <td>Crème à fouetter thermisée à une chaleur supérieure à 100 °C</td>
@@ -24625,7 +23719,7 @@ Vert solide FCF
 <td>(1)</td>
 <td>Agent de remplissage</td>
 <td>(1)</td>
-<td> 1 %</td>
+<td>1 %</td>
 </tr>
 <tr>
 <td></td>
@@ -24634,74 +23728,81 @@ Vert solide FCF
 <td>(2)</td>
 <td>Agent de remplissage</td>
 <td>(2)</td>
-<td> 2 %</td>
+<td>2 %</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(3)</td>
 <td>Produits de confiserie à teneur réduite en calories (plus pauvre en Calories)</td>
 <td>(3)</td>
 <td>Agent de remplissage</td>
 <td>(3)</td>
-<td> 25 %</td>
+<td>25 %</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(4)</td>
 <td>Glaces comestibles non normalisées</td>
 <td>(4)</td>
 <td>Agent de remplissage</td>
 <td>(4)</td>
-<td> 3 %</td>
+<td>3 %</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(5)</td>
 <td>Garnitures</td>
 <td>(5)</td>
 <td>Agent de remplissage</td>
 <td>(5)</td>
-<td> 0,5 %</td>
+<td>0,5 %</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(6)</td>
 <td>Aliments vendus sous forme de comprimés</td>
 <td>(6)</td>
 <td>Agent de remplissage</td>
 <td>(6)</td>
-<td> 50 %</td>
+<td>50 %</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(7)</td>
 <td>Glaçages</td>
 <td>(7)</td>
 <td>Agent de remplissage</td>
 <td>(7)</td>
-<td> 1 %</td>
+<td>1 %</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(8)</td>
 <td>Assaisonnements</td>
 <td>(8)</td>
 <td>Agent de remplissage</td>
 <td>(8)</td>
-<td> 3 %</td>
+<td>3 %</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(9)</td>
 <td>Produits de boulangerie sucrés</td>
 <td>(9)</td>
 <td>Agent de remplissage</td>
 <td>(9)</td>
-<td> 8 %</td>
+<td>8 %</td>
 </tr>
 <tr>
 <td>C.14A</td>
-<td>Chloropenta-  fluoréthane</td>
+<td>Chloropentafluoréthane</td>
 <td></td>
 <td>Aliments non normalisés</td>
 <td></td>
@@ -24720,6 +23821,7 @@ Vert solide FCF
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(2)</td>
 <td>Aliments non normalisés</td>
@@ -24760,6 +23862,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Jus d'ananas; Mélanges de jus d'ananas avec d'autres jus de fruits; ananas en conserve (lorsque le jus d'ananas est utilisé comme véhicule de conditionnement)</td>
 <td>(2)</td>
@@ -24768,6 +23871,7 @@ Vert solide FCF
 <td>10 p.p.m. de diméthylpolysiloxane</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(3)</td>
 <td>Surfaces entrant en contact avec les aliments</td>
@@ -24778,6 +23882,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(4)</td>
 <td>Aliments non normalisés</td>
 <td>(4)</td>
@@ -24786,6 +23891,7 @@ Vert solide FCF
 <td>10 p.p.m. de diméthylpolysiloxane</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(5)</td>
 <td>Moût utilisé dans la fabrication d'ale, de bière, de bière légère, de liqueur de malt, de porter et de stout</td>
@@ -24825,7 +23931,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td>E.2</td>
-<td>Oxyde  d'éthylène</td>
+<td>Oxyde d'éthylène</td>
 <td></td>
 <td>Épices entières ou moulues (sauf les mélanges contenant du sel)</td>
 <td></td>
@@ -24859,7 +23965,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td>G.2A</td>
-<td>Glucono-  delta-lactone</td>
+<td>Glucono-delta-lactone</td>
 <td>(1)</td>
 <td>Saucisse cuite; viande en pain</td>
 <td>(1)</td>
@@ -24868,6 +23974,7 @@ Vert solide FCF
 <td>0,5 %</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(2)</td>
 <td>Saucisse sèche</td>
@@ -24888,6 +23995,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Viandes de salaison (Titre 14)</td>
 <td>(2)</td>
@@ -24896,6 +24004,7 @@ Vert solide FCF
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(3)</td>
 <td>Aliments non normalisés</td>
@@ -24926,6 +24035,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Petit-lait liquide destiné à la fabrication de produits de petit-lait séché</td>
 <td>(2)</td>
@@ -24945,7 +24055,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td>L.1</td>
-<td>Esters lactyliques  d'acides gras</td>
+<td>Esters lactyliques d'acides gras</td>
 <td></td>
 <td>Aliments non normalisés</td>
 <td></td>
@@ -24995,7 +24105,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td>M.2</td>
-<td>Carbonate de  magnésium</td>
+<td>Carbonate de magnésium</td>
 <td>(1)</td>
 <td>Farine; farine de blé entier</td>
 <td>(1)</td>
@@ -25005,14 +24115,12 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>[Abrogé, DORS/94-227, art. 9]</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(3)</td>
 <td>Bonbons et autres produits de confiserie</td>
@@ -25023,7 +24131,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td>M.2A</td>
-<td>Chlorure de  magnésium</td>
+<td>Chlorure de magnésium</td>
 <td></td>
 <td>Albumine de l'oeuf (délysozymisée)</td>
 <td></td>
@@ -25043,6 +24151,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Gomme à mâcher</td>
 <td>(2)</td>
@@ -25051,6 +24160,7 @@ Vert solide FCF
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(3)</td>
 <td>Riz</td>
@@ -25070,6 +24180,7 @@ Vert solide FCF
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(2)</td>
 <td>Aliments vendus sous forme de comprimés</td>
@@ -25094,7 +24205,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td>M.5C</td>
-<td>Cellulose méthyl-  éthylique</td>
+<td>Cellulose méthyl-éthylique</td>
 <td></td>
 <td>Aliments non normalisés</td>
 <td></td>
@@ -25104,7 +24215,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td>M.6</td>
-<td>Cellulose micro-  cristalline</td>
+<td>Cellulose micro-cristalline</td>
 <td></td>
 <td>Mêmes aliments qu'à C.13 du présent tableau</td>
 <td></td>
@@ -25124,6 +24235,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Fruits et légumes frais</td>
 <td>(2)</td>
@@ -25133,6 +24245,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(3)</td>
 <td>Boyaux de saucisse</td>
 <td>(3)</td>
@@ -25141,6 +24254,7 @@ Vert solide FCF
 <td>5 % conformément à l'alinéa B.01.047e) (les résidus d'huile minérale dans les saucisses crues préparées avec ces boyaux ne doivent pas dépasser 200 p.p.m.; dans les saucisses cuites, 30 p.p.m.)</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(4)</td>
 <td>Succédané de sel</td>
@@ -25161,7 +24275,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td>M.9</td>
-<td>Mono- et  diglycérides</td>
+<td>Mono- et diglycérides</td>
 <td>(1)</td>
 <td>Confiture de pommes (ou de rhubarde) et de (nom du fruit); huiles et graisses; marmelade de figues; marmelade de figues avec pectine; confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; gelée de (nom du fruit); gelée de (nom du fruit) avec pectine; marmelade de (nom de l'agrume); marmelade de (nom de l'agrume) avec pectine; marmelade d'ananas; marmelade d'ananas avec pectine</td>
 <td>(1)</td>
@@ -25170,6 +24284,7 @@ Vert solide FCF
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(2)</td>
 <td>Aliments non normalisés</td>
@@ -25180,7 +24295,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td>M.10</td>
-<td>Mono-  glycérides</td>
+<td>Mono-glycérides</td>
 <td></td>
 <td>Aliments non normalisés</td>
 <td></td>
@@ -25200,6 +24315,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Margarine</td>
 <td>(2)</td>
@@ -25208,6 +24324,7 @@ Vert solide FCF
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(3)</td>
 <td>Aliments non normalisés</td>
@@ -25228,7 +24345,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td>O.1</td>
-<td>Octafluoro-  cyclobutane</td>
+<td>Octafluoro-cyclobutane</td>
 <td></td>
 <td>Aliments non normalisés</td>
 <td></td>
@@ -25258,6 +24375,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Eau dite eau minérale ou eau de source</td>
 <td>(2)</td>
@@ -25266,6 +24384,7 @@ Vert solide FCF
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(3)</td>
 <td>Vin</td>
@@ -25276,7 +24395,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td>P.1</td>
-<td>Extrait de  pancréas</td>
+<td>Extrait de pancréas</td>
 <td></td>
 <td>Cultures bactériennes productrices d'acides</td>
 <td></td>
@@ -25296,6 +24415,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Fromage et navets</td>
 <td>(2)</td>
@@ -25314,6 +24434,7 @@ Vert solide FCF
 <td>0,15 %, conformément à l'article B.01.047. Si on utilise également une huile minérale comme agent anticollant, la quantité totale de toute combinaison de vaseline et d'huile minérale ne doit pas dépasser 0,15 %</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(2)</td>
 <td>Fruits et légumes frais</td>
@@ -25343,6 +24464,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(3)</td>
 <td>Comprimés de L-lysine</td>
 <td>(3)</td>
@@ -25362,7 +24484,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td>P.3</td>
-<td>Polyvinyl-  pyrrolidone</td>
+<td>Polyvinyl-pyrrolidone</td>
 <td>(1)</td>
 <td>Ale; bière; bière légère; cidre; liqueur de malt; porter; stout; vin</td>
 <td>(1)</td>
@@ -25372,6 +24494,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Édulcorant de table sous forme de comprimés, contenant de l'aspartame</td>
 <td>(2)</td>
@@ -25380,6 +24503,7 @@ Vert solide FCF
 <td>0,3 %</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(3)</td>
 <td>Dispersions de laque dans les confiseries en pastille</td>
@@ -25420,6 +24544,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Préparations émulsifiantes contenant des mono-esters de propylèneglycol</td>
 <td>(2)</td>
@@ -25448,6 +24573,7 @@ Vert solide FCF
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(2)</td>
 <td>Aliments non normalisés</td>
@@ -25508,7 +24634,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td>S.3</td>
-<td>Bicarbonate  de sodium</td>
+<td>Bicarbonate de sodium</td>
 <td>(1)</td>
 <td>Bonbons et autres produits de confiserie</td>
 <td>(1)</td>
@@ -25517,6 +24643,7 @@ Vert solide FCF
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(2)</td>
 <td>Sel ordinaire</td>
@@ -25566,6 +24693,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(3)</td>
 <td>Mélange de poisson et de viande préparés visé à l'alinéa B.21.006n)</td>
 <td>(3)</td>
@@ -25575,7 +24703,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td>S.5</td>
-<td>Décahydrate de  ferrocyanure de  sodium</td>
+<td>Décahydrate de ferrocyanure de sodium</td>
 <td></td>
 <td>Sel dendritique</td>
 <td></td>
@@ -25603,6 +24731,7 @@ Vert solide FCF
 <td>0,5 % de phosphate ajouté total, calculé en phosphate dibasique de sodium</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(3)</td>
 <td>Gélatine qui entre dans la composition des guimauves</td>
@@ -25633,6 +24762,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Le blanc d'oeuf liquide (albumen liquide); le blanc d'oeuf congelé (albumen congelé)</td>
 <td>(2)</td>
@@ -25641,6 +24771,7 @@ Vert solide FCF
 <td>0,0125 %</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(3)</td>
 <td>Gélatine qui entre dans la composition des guimauves</td>
@@ -25670,6 +24801,7 @@ Vert solide FCF
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(2)</td>
 <td>Champignons congelés</td>
@@ -25720,6 +24852,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Blancs d'oeuf en poudre</td>
 <td>(2)</td>
@@ -25729,6 +24862,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(3)</td>
 <td>Garnitures à l'huile ou mélanges pour garnitures</td>
 <td>(3)</td>
@@ -25737,6 +24871,7 @@ Vert solide FCF
 <td>0,3 %</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(4)</td>
 <td>Pommes de terre déshydratées</td>
@@ -25791,7 +24926,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td>S.13</td>
-<td>Chlorure  stanneux</td>
+<td>Chlorure stanneux</td>
 <td>(1)</td>
 <td>Asperges conservées dans des contenants en verre ou des contenants métalliques vernis sur toute leur surface intérieure</td>
 <td>(1)</td>
@@ -25800,6 +24935,7 @@ Vert solide FCF
 <td>25 p.p.m. calculé en étain</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(2)</td>
 <td>Boissons gazeuses en boîtes; jus de citron; jus de fruit concentré sauf le jus d'orange concentré congelé; jus de lime</td>
@@ -25820,6 +24956,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Gomme à mâcher</td>
 <td>(2)</td>
@@ -25828,6 +24965,7 @@ Vert solide FCF
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(3)</td>
 <td>Aliments vendus sous forme de comprimés</td>
@@ -25881,6 +25019,7 @@ Vert solide FCF
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(2)</td>
 <td>Base de gomme à mâcher</td>
@@ -25949,7 +25088,7 @@ Vert solide FCF
 </tr>
 </table>
 
->  DORS/78-401, art. 3; DORS/78-403, art. 23 à 25; DORS/78-876, art. 4; DORS/79-660, art. 13; DORS/79-752, art. 8; DORS/80-632, art. 6 à 13; DORS/81-83, art. 4; DORS/81-617, art. 3; DORS/81-934, art. 11 et 12; DORS/82-566, art. 3 et 4; DORS/82-1071, art. 18 à 20; DORS/83-410, art. 3; DORS/83-584, art. 1; DORS/83-932, art. 5 et 6; DORS/84-17, art. 6; DORS/84-441, art. 1; DORS/84-602, art. 3; DORS/84-762, art. 10; DORS/84-801, art. 5 et 6; DORS/86-1112, art. 5; DORS/86-1125, art. 2; DORS/87-469, art. 1; DORS/87-640, art. 8; DORS/88-419, art. 4; DORS/88-534, art. 5 et 6; DORS/89-175, art. 2; DORS/89-197, art. 1; DORS/89-198, art. 11; DORS/89-555, art. 2 et 3; DORS/91-90, art. 2; DORS/91-124, art. 6 à 9; DORS/91-149, art. 3; DORS/91-186, art. 1; DORS/91-409, art. 7; DORS/91-527, art. 4; DORS/92-229, art. 1; DORS/92-344, art. 2 à 4; DORS/93-276, art. 4 à 11; DORS/94-416, art. 1; DORS/94-227, art. 5 à 10; DORS/94-689, art. 2(F); DORS/94-723, art. 1; DORS/96-260, art. 1; DORS/96-378, art. 1; DORS/97-509, art. 1; DORS/98-580, art. 1(F); DORS/99-97, art. 1; DORS/99-420, art. 11(F); DORS/2000-353, art. 8(F); DORS/2001-94, art. 3; DORS/2005-316, art. 2(F) et 3; DORS/2006-91, art. 6 à 12; DORS/2007-75, art. 7..
+> DORS/78-401, art. 3; DORS/78-403, art. 23 à 25; DORS/78-876, art. 4; DORS/79-660, art. 13; DORS/79-752, art. 8; DORS/80-632, art. 6 à 13; DORS/81-83, art. 4; DORS/81-617, art. 3; DORS/81-934, art. 11 et 12; DORS/82-566, art. 3 et 4; DORS/82-1071, art. 18 à 20; DORS/83-410, art. 3; DORS/83-584, art. 1; DORS/83-932, art. 5 et 6; DORS/84-17, art. 6; DORS/84-441, art. 1; DORS/84-602, art. 3; DORS/84-762, art. 10; DORS/84-801, art. 5 et 6; DORS/86-1112, art. 5; DORS/86-1125, art. 2; DORS/87-469, art. 1; DORS/87-640, art. 8; DORS/88-419, art. 4; DORS/88-534, art. 5 et 6; DORS/89-175, art. 2; DORS/89-197, art. 1; DORS/89-198, art. 11; DORS/89-555, art. 2 et 3; DORS/91-90, art. 2; DORS/91-124, art. 6 à 9; DORS/91-149, art. 3; DORS/91-186, art. 1; DORS/91-409, art. 7; DORS/91-527, art. 4; DORS/92-229, art. 1; DORS/92-344, art. 2 à 4; DORS/93-276, art. 4 à 11; DORS/94-416, art. 1; DORS/94-227, art. 5 à 10; DORS/94-689, art. 2(F); DORS/94-723, art. 1; DORS/96-260, art. 1; DORS/96-378, art. 1; DORS/97-509, art. 1; DORS/98-580, art. 1(F); DORS/99-97, art. 1; DORS/99-420, art. 11(F); DORS/2000-353, art. 8(F); DORS/2001-94, art. 3; DORS/2005-316, art. 2(F) et 3; DORS/2006-91, art. 6 à 12; DORS/2007-75, art. 7..
 
 
 
@@ -25963,631 +25102,526 @@ Vert solide FCF
 <th>Colonne III</th>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th>Permis dans</th>
-<th>Limites de</th>
-</tr>
-<tr>
 <th>Article</th>
 <th>Additifs</th>
-<th>ou sur</th>
-<th>tolérance</th>
-</tr>
-<tr>
-<th> </th>
+<th>Permis dans ou sur</th>
+<th>Limites de tolérance</th>
 </tr>
 <tr>
 <td>A.01</td>
 <td>Acésulfame-potassium</td>
-<td>**(1)** Édulcorants de table
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Édulcorants de table</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Boissons gazéifiées
-
-</td>
-<td>**(2)** 0,025 % dans les boissons, sous leur forme consommable
-
-</td>
+<td></td>
+<td>(2)</td>
+<td>Boissons gazéifiées</td>
+<td>(2)</td>
+<td>0,025 % dans les boissons, sous leur forme consommable</td>
 </tr>
 <tr>
 <td></td>
-<td>**(3)** Boissons; concentrés de boisson; mélanges pour boisson; boissons laitières; (sauf pour ceux de ces produits visés par une norme dans le présent règlement)
-
-</td>
-<td>**(3)** 0,05 % dans les boissons, sous leur forme consommable
-
-</td>
+<td></td>
+<td>(3)</td>
+<td>Boissons; concentrés de boisson; mélanges pour boisson; boissons laitières; (sauf pour ceux de ces produits visés par une norme dans le présent règlement)</td>
+<td>(3)</td>
+<td>0,05 % dans les boissons, sous leur forme consommable</td>
 </tr>
 <tr>
 <td></td>
-<td>**(4)** Desserts; mélanges pour desserts; glaçages; mélanges pour glaçages; garnitures; mélanges pour garnitures; (sauf pour ceux de ces produits visés par une norme dans le présent règlement)
-
-</td>
-<td>**(4)** 0,1 % dans les produits, sous leur forme consommable
-
-</td>
+<td></td>
+<td>(4)</td>
+<td>Desserts; mélanges pour desserts; glaçages; mélanges pour glaçages; garnitures; mélanges pour garnitures; (sauf pour ceux de ces produits visés par une norme dans le présent règlement)</td>
+<td>(4)</td>
+<td>0,1 % dans les produits, sous leur forme consommable</td>
 </tr>
 <tr>
 <td></td>
-<td>**(5)** Gomme à mâcher; rafraîchisseurs d'haleine
-
-</td>
-<td>**(5)** 0,35 %
-
-</td>
+<td></td>
+<td>(5)</td>
+<td>Gomme à mâcher; rafraîchisseurs d'haleine</td>
+<td>(5)</td>
+<td>0,35 %</td>
 </tr>
 <tr>
 <td></td>
-<td>**(6)** Tartinades de fruit (sauf pour ceux de ces produits visés par une norme dans le présent règlement)
-
-</td>
-<td>**(6)** 0,1 %
-
-</td>
+<td></td>
+<td>(6)</td>
+<td>Tartinades de fruit (sauf pour ceux de ces produits visés par une norme dans le présent règlement)</td>
+<td>(6)</td>
+<td>0,1 %</td>
 </tr>
 <tr>
 <td></td>
-<td>**(7)** Sauces à salade (sauf pour ceux de ces produits visés par une norme dans le présent règlement)
-
-</td>
-<td>**(7)** 0,05 %
-
-</td>
+<td></td>
+<td>(7)</td>
+<td>Sauces à salade (sauf pour ceux de ces produits visés par une norme dans le présent règlement)</td>
+<td>(7)</td>
+<td>0,05 %</td>
 </tr>
 <tr>
 <td></td>
-<td>**(8)** Confiserie
-
-</td>
-<td>**(8)** 0,25 %
-
-</td>
+<td></td>
+<td>(8)</td>
+<td>Confiserie</td>
+<td>(8)</td>
+<td>0,25 %</td>
 </tr>
 <tr>
 <td></td>
-<td>**(9)** Mélanges pour pâtisseries; produits de boulangerie; (sauf pour ceux de ces produits visés par une norme dans le présent règlement)
-
-</td>
-<td>**(9)** 0,1 % dans les produits, sous leur forme consommable
-
-</td>
+<td></td>
+<td>(9)</td>
+<td>Mélanges pour pâtisseries; produits de boulangerie; (sauf pour ceux de ces produits visés par une norme dans le présent règlement)</td>
+<td>(9)</td>
+<td>0,1 % dans les produits, sous leur forme consommable</td>
 </tr>
 <tr>
 <td>A.1</td>
 <td>Aspartame</td>
-<td>**(1)** Édulcorants de table
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Édulcorants de table</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Céréales pour petit déjeuner
-
-</td>
-<td>**(2)** 0,5 %
-
-</td>
+<td></td>
+<td>(2)</td>
+<td>Céréales pour petit déjeuner</td>
+<td>(2)</td>
+<td>0,5 %</td>
 </tr>
 <tr>
 <td></td>
-<td>**(3)** Boissons; concentrés de boisson; mélanges pour boisson; (sauf pour l'un de ces produits visés par une norme dans le présent règlement)
-
-</td>
-<td>**(3)** 0,1 % dans les boissons, sous leur forme consommable
-
-</td>
+<td></td>
+<td>(3)</td>
+<td>Boissons; concentrés de boisson; mélanges pour boisson; (sauf pour l'un de ces produits visés par une norme dans le présent règlement)</td>
+<td>(3)</td>
+<td>0,1 % dans les boissons, sous leur forme consommable</td>
 </tr>
 <tr>
 <td></td>
-<td>**(4)** Desserts; mélanges pour desserts; glaçages; mélanges pour glaçages; garnitures; mélanges pour garnitures; (sauf pour l'un de ces produits visés par une norme dans le présent règlement)
-
-</td>
-<td>**(4)** 0,3 % dans les produits, sous leur forme consommable
-
-</td>
+<td></td>
+<td>(4)</td>
+<td>Desserts; mélanges pour desserts; glaçages; mélanges pour glaçages; garnitures; mélanges pour garnitures; (sauf pour l'un de ces produits visés par une norme dans le présent règlement)</td>
+<td>(4)</td>
+<td>0,3 % dans les produits, sous leur forme consommable</td>
 </tr>
 <tr>
 <td></td>
-<td>**(5)** Gomme à mâcher; rafraîchisseurs d'haleine
-
-</td>
-<td>**(5)** 1,0 %
-
-</td>
+<td></td>
+<td>(5)</td>
+<td>Gomme à mâcher; rafraîchisseurs d'haleine</td>
+<td>(5)</td>
+<td>1,0 %</td>
 </tr>
 <tr>
 <td></td>
-<td>**(6)** Tartinades de fruit; purées et sauces; sirops de table; (sauf pour l'un de ces produits visés par une norme dans le présent règlement)
-
-</td>
-<td>**(6)** 0,2 %
-
-</td>
+<td></td>
+<td>(6)</td>
+<td>Tartinades de fruit; purées et sauces; sirops de table; (sauf pour l'un de ces produits visés par une norme dans le présent règlement)</td>
+<td>(6)</td>
+<td>0,2 %</td>
 </tr>
 <tr>
 <td></td>
-<td>**(7)** Sauces à salade; tartinades d'arachides et autres tartinades de noix; (sauf pour l'un de ces produits visés par une norme dans le présent règlement)
-
-</td>
-<td>**(7)** 0,05 %
-
-</td>
+<td></td>
+<td>(7)</td>
+<td>Sauces à salade; tartinades d'arachides et autres tartinades de noix; (sauf pour l'un de ces produits visés par une norme dans le présent règlement)</td>
+<td>(7)</td>
+<td>0,05 %</td>
 </tr>
 <tr>
 <td></td>
-<td>**(8)** Condiments (sauf pour l'un de ces produits visés par une norme dans le présent règlement)
-
-</td>
-<td>**(8)** 0,2 %
-
-</td>
+<td></td>
+<td>(8)</td>
+<td>Condiments (sauf pour l'un de ces produits visés par une norme dans le présent règlement)</td>
+<td>(8)</td>
+<td>0,2 %</td>
 </tr>
 <tr>
 <td></td>
-<td>**(9)** Shellacs de confiserie pour les friandises; assaisonnements sucrés ou mélanges pour enrobage des friandises
-
-</td>
-<td>**(9)** 0,1 %
-
-</td>
+<td></td>
+<td>(9)</td>
+<td>Shellacs de confiserie pour les friandises; assaisonnements sucrés ou mélanges pour enrobage des friandises</td>
+<td>(9)</td>
+<td>0,1 %</td>
 </tr>
 <tr>
 <td></td>
-<td>**(10)** Confiseries et leurs enrobages (sauf pour l'un de ces produits visés par une norme dans le présent règlement)
-
-</td>
-<td>**(10)** 0,3 %
-
-</td>
+<td></td>
+<td>(10)</td>
+<td>Confiseries et leurs enrobages (sauf pour l'un de ces produits visés par une norme dans le présent règlement)</td>
+<td>(10)</td>
+<td>0,3 %</td>
 </tr>
 <tr>
 <td>A.2</td>
 <td>Aspartame, en capsules, pour prévenir sa dégradation pendant la cuisson</td>
-<td>Produits de boulangerie et mélanges pour pâtisseries (sauf pour l'un de ces produits visés par une norme dans le présent règlement)
-
-</td>
-<td>0,4 % dans les produits, sous leur forme consommable
-
-</td>
+<td></td>
+<td>Produits de boulangerie et mélanges pour pâtisseries (sauf pour l'un de ces produits visés par une norme dans le présent règlement)</td>
+<td></td>
+<td>0,4 % dans les produits, sous leur forme consommable</td>
 </tr>
 <tr>
 <td>E.1</td>
 <td>Érythritol</td>
-<td>**(1)** Édulcorants de table
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Édulcorants de table</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Boissons diététiques
-
-</td>
-<td>**(2)** 3,5 %
-
-</td>
+<td>(2)</td>
+<td>Boissons diététiques</td>
+<td>(2)</td>
+<td>3,5 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Garnitures et glaçages à la crème faits à base de gras
-
-</td>
-<td>**(3)** 60 %
-
-</td>
+<td>(3)</td>
+<td>Garnitures et glaçages à la crème faits à base de gras</td>
+<td>(3)</td>
+<td>60 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(4)** Biscuits et gaufrettes diététiques
-
-</td>
-<td>**(4)** 7 %
-
-</td>
+<td>(4)</td>
+<td>Biscuits et gaufrettes diététiques</td>
+<td>(4)</td>
+<td>7 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(5)** Bonbons mous
-
-</td>
-<td>**(5)** 40 %
-
-</td>
+<td>(5)</td>
+<td>Bonbons mous</td>
+<td>(5)</td>
+<td>40 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(6)** Bonbons durs
-
-</td>
-<td>**(6)** 50 %
-
-</td>
+<td>(6)</td>
+<td>Bonbons durs</td>
+<td>(6)</td>
+<td>50 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(7)** Gomme à mâcher
-
-</td>
-<td>**(7)** 60 %
-
-</td>
+<td>(7)</td>
+<td>Gomme à mâcher</td>
+<td>(7)</td>
+<td>60 %</td>
 </tr>
 <tr>
 <td>H.1</td>
 <td>Hydrolysat d'amidon hydrogéné</td>
-<td>Aliments non normalisés
-
-</td>
-<td>Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>Aliments non normalisés</td>
+<td></td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>I.1</td>
 <td>Isomalt</td>
-<td>Aliments non normalisés
-
-</td>
-<td>Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>Aliments non normalisés</td>
+<td></td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>L.1</td>
 <td>Lactitol</td>
-<td>Aliments non normalisés
-
-</td>
-<td>Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>Aliments non normalisés</td>
+<td></td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>M.1</td>
 <td>Maltitol</td>
-<td>Aliments non normalisés
-
-</td>
-<td>Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>Aliments non normalisés</td>
+<td></td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>M.2</td>
 <td>Sirop de maltitol</td>
-<td>Aliments non normalisés
-
-</td>
-<td>Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>Aliments non normalisés</td>
+<td></td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>M.3</td>
 <td>Mannitol</td>
-<td>Aliments non normalisés
-
-</td>
-<td>Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>Aliments non normalisés</td>
+<td></td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>N.1</td>
 <td>Néotame</td>
-<td>**(1)** Édulcorants de table
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Édulcorants de table</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Céréales à déjeuner
-
-</td>
-<td>**(2)** 0,016 %
-
-</td>
+<td>(2)</td>
+<td>Céréales à déjeuner</td>
+<td>(2)</td>
+<td>0,016 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Boissons non normalisées; concentrés de boisson non normalisés; mélanges pour boisson
-
-</td>
-<td>**(3)** 0,003 % dans les boissons, sous leur forme consommable
-
-</td>
+<td>(3)</td>
+<td>Boissons non normalisées; concentrés de boisson non normalisés; mélanges pour boisson</td>
+<td>(3)</td>
+<td>0,003 % dans les boissons, sous leur forme consommable</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(4)** Desserts non normalisés; garnitures; glaçages; mélanges pour desserts; mélanges pour garnitures; mélanges pour glaçages; yogourt
-
-</td>
-<td>**(4)** 0,01 % dans les produits, sous leur forme consommable
-
-</td>
+<td>(4)</td>
+<td>Desserts non normalisés; garnitures; glaçages; mélanges pour desserts; mélanges pour garnitures; mélanges pour glaçages; yogourt</td>
+<td>(4)</td>
+<td>0,01 % dans les produits, sous leur forme consommable</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(5)** Gomme à mâcher; rafraîchisseurs d’haleine
-
-</td>
-<td>**(5)** 0,032 %
-
-</td>
+<td>(5)</td>
+<td>Gomme à mâcher; rafraîchisseurs d’haleine</td>
+<td>(5)</td>
+<td>0,032 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(6)** Purées et sauces non normalisées; sirops de table non normalisés; tartinades de fruit non normalisées
-
-</td>
-<td>**(6)** 0,007 %
-
-</td>
+<td>(6)</td>
+<td>Purées et sauces non normalisées; sirops de table non normalisés; tartinades de fruit non normalisées</td>
+<td>(6)</td>
+<td>0,007 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(7)** Sauces à salade non normalisées; tartinades d’arachides et autres tartinades de fruits à écale
-
-</td>
-<td>**(7)** 0,002 %
-
-</td>
+<td>(7)</td>
+<td>Sauces à salade non normalisées; tartinades d’arachides et autres tartinades de fruits à écale</td>
+<td>(7)</td>
+<td>0,002 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(8)** Condiments non normalisés;
-
-</td>
-<td>**(8)** 0,007 %
-
-</td>
+<td>(8)</td>
+<td>Condiments non normalisés;</td>
+<td>(8)</td>
+<td>0,007 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(9)** Assaisonnements sucrés ou mélanges pour enrobage des friandises; glaçages à confiserie pour friandises;
-
-</td>
-<td>**(9)** 0,0032 %
-
-</td>
+<td>(9)</td>
+<td>Assaisonnements sucrés ou mélanges pour enrobage des friandises; glaçages à confiserie pour friandises;</td>
+<td>(9)</td>
+<td>0,0032 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(10)** Confiseries non normalisées et leurs enrobages
-
-</td>
-<td>**(10)** 0,01 %
-
-</td>
+<td>(10)</td>
+<td>Confiseries non normalisées et leurs enrobages</td>
+<td>(10)</td>
+<td>0,01 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(11)** Produits de boulangerie non normalisés et mélanges pour pâtisseries
-
-</td>
-<td>**(11)** 0,013 % dans les produits, sous leur forme consommable
-
-</td>
+<td>(11)</td>
+<td>Produits de boulangerie non normalisés et mélanges pour pâtisseries</td>
+<td>(11)</td>
+<td>0,013 % dans les produits, sous leur forme consommable</td>
 </tr>
 <tr>
 <td>S.1</td>
 <td>Sorbitol</td>
-<td>**(1)** Mélange de poisson et de viande préparés visé à l'alinéa B.21.006n)
-
-</td>
-<td>**(1)** 6,0 %
-
-</td>
+<td>(1)</td>
+<td>Mélange de poisson et de viande préparés visé à l'alinéa B.21.006n)</td>
+<td>(1)</td>
+<td>6,0 %</td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Aliments non normalisés
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(2)</td>
+<td>Aliments non normalisés</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>S.1.1</td>
 <td>Sirop de sorbitol</td>
-<td>Aliments non normalisés
-
-</td>
-<td>Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>Aliments non normalisés</td>
+<td></td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>S.2</td>
 <td>Sucralose</td>
-<td>**(1)** Édulcorants de table
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Édulcorants de table</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Céréales pour petit déjeuner
-
-</td>
-<td>**(2)** 0,1 %
-
-</td>
+<td></td>
+<td>(2)</td>
+<td>Céréales pour petit déjeuner</td>
+<td>(2)</td>
+<td>0,1 %</td>
 </tr>
 <tr>
 <td></td>
-<td>**(3)** Boissons; concentrés de boisson; mélanges pour boisson; boissons laitières; (sauf pour l'un de ces produits visés par une norme dans le présent règlement)
-
-</td>
-<td>**(3)** 0,025 % dans les boissons, sous leur forme consommable
-
-</td>
+<td></td>
+<td>(3)</td>
+<td>Boissons; concentrés de boisson; mélanges pour boisson; boissons laitières; (sauf pour l'un de ces produits visés par une norme dans le présent règlement)</td>
+<td>(3)</td>
+<td>0,025 % dans les boissons, sous leur forme consommable</td>
 </tr>
 <tr>
 <td></td>
-<td>**(4)** Desserts; mélanges pour desserts; glaçages; mélanges pour glaçages; desserts laitiers; desserts congelés; garnitures; mélanges pour garnitures; (sauf pour l'un de ces produits visés par une norme dans le présent règlement)
-
-</td>
-<td>**(4)** 0,025 % dans les produits, sous leur forme consommable
-
-</td>
+<td></td>
+<td>(4)</td>
+<td>Desserts; mélanges pour desserts; glaçages; mélanges pour glaçages; desserts laitiers; desserts congelés; garnitures; mélanges pour garnitures; (sauf pour l'un de ces produits visés par une norme dans le présent règlement)</td>
+<td>(4)</td>
+<td>0,025 % dans les produits, sous leur forme consommable</td>
 </tr>
 <tr>
 <td></td>
-<td>**(5)** Gomme à mâcher; rafraîchisseurs d'haleine
-
-</td>
-<td>**(5)** 0,15 %
-
-</td>
+<td></td>
+<td>(5)</td>
+<td>Gomme à mâcher; rafraîchisseurs d'haleine</td>
+<td>(5)</td>
+<td>0,15 %</td>
 </tr>
 <tr>
 <td></td>
-<td>**(6)** Tartinades de fruit (sauf pour l'un de ces produits visés par une norme dans le présent règlement)
-
-</td>
-<td>**(6)** 0,045 %
-
-</td>
+<td></td>
+<td>(6)</td>
+<td>Tartinades de fruit (sauf pour l'un de ces produits visés par une norme dans le présent règlement)</td>
+<td>(6)</td>
+<td>0,045 %</td>
 </tr>
 <tr>
 <td></td>
-<td>**(7)** Sauces à salade; condiments; (sauf pour l'un de ces produits visés par une norme dans le présent règlement)
-
-</td>
-<td>**(7)** 0,04 %
-
-</td>
+<td></td>
+<td>(7)</td>
+<td>Sauces à salade; condiments; (sauf pour l'un de ces produits visés par une norme dans le présent règlement)</td>
+<td>(7)</td>
+<td>0,04 %</td>
 </tr>
 <tr>
 <td></td>
-<td>**(8)** Confiseries et leurs enrobages; shellacs de confiserie pour les friandises; assaisonnements sucrés ou mélanges pour enrobage des friandises; (sauf pour l'un de ces produits visés par une norme dans le présent règlement)
-
-</td>
-<td>**(8)** 0,07 %
-
-</td>
+<td></td>
+<td>(8)</td>
+<td>Confiseries et leurs enrobages; shellacs de confiserie pour les friandises; assaisonnements sucrés ou mélanges pour enrobage des friandises; (sauf pour l'un de ces produits visés par une norme dans le présent règlement)</td>
+<td>(8)</td>
+<td>0,07 %</td>
 </tr>
 <tr>
 <td></td>
-<td>**(9)** Mélanges pour pâtisseries; produits de boulangerie; (sauf pour l'un de ces produits visés par une norme dans le présent règlement)
-
-</td>
-<td>**(9)** 0,065 % dans les produits, sous leur forme consommable
-
-</td>
+<td></td>
+<td>(9)</td>
+<td>Mélanges pour pâtisseries; produits de boulangerie; (sauf pour l'un de ces produits visés par une norme dans le présent règlement)</td>
+<td>(9)</td>
+<td>0,065 % dans les produits, sous leur forme consommable</td>
 </tr>
 <tr>
 <td></td>
-<td>**(10)** Produits de fruits et légumes transformés (sauf pour l'un de ces produits visés par une norme dans le présent règlement)
-
-</td>
-<td>**(10)** 0,015 %
-
-</td>
+<td></td>
+<td>(10)</td>
+<td>Produits de fruits et légumes transformés (sauf pour l'un de ces produits visés par une norme dans le présent règlement)</td>
+<td>(10)</td>
+<td>0,015 %</td>
 </tr>
 <tr>
 <td></td>
-<td>**(11)** Boissons alcooliques (sauf pour l'un de ces produits visés par une norme dans le présent règlement)
-
-</td>
-<td>**(11)** 0,07 %
-
-</td>
+<td></td>
+<td>(11)</td>
+<td>Boissons alcooliques (sauf pour l'un de ces produits visés par une norme dans le présent règlement)</td>
+<td>(11)</td>
+<td>0,07 %</td>
 </tr>
 <tr>
 <td></td>
-<td>**(12)** Poudings; mélanges pour poudings
-
-</td>
-<td>**(12)** 0,04 % dans les produits, sous leur forme consommable
-
-</td>
+<td></td>
+<td>(12)</td>
+<td>Poudings; mélanges pour poudings</td>
+<td>(12)</td>
+<td>0,04 % dans les produits, sous leur forme consommable</td>
 </tr>
 <tr>
 <td></td>
-<td>**(13)** Sirops de table (sauf pour l'un de ces produits visés par une norme dans le présent règlement)
-
-</td>
-<td>**(13)** 0,15 %
-
-</td>
+<td></td>
+<td>(13)</td>
+<td>Sirops de table (sauf pour l'un de ces produits visés par une norme dans le présent règlement)</td>
+<td>(13)</td>
+<td>0,15 %</td>
 </tr>
 <tr>
 <td>T.1</td>
 <td>Thaumatin</td>
-<td>**(1)** Gommes à mâcher; rafraîchisseurs d'haleine
-
-</td>
-<td>**(1)** 500 p.p.m.
-
-</td>
+<td>(1)</td>
+<td>Gommes à mâcher; rafraîchisseurs d'haleine</td>
+<td>(1)</td>
+<td>500 p.p.m.</td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Succédanés du sel
-
-</td>
-<td>**(2)** 400 p.p.m.
-
-</td>
+<td></td>
+<td>(2)</td>
+<td>Succédanés du sel</td>
+<td>(2)</td>
+<td>400 p.p.m.</td>
 </tr>
 <tr>
 <td></td>
-<td>**(3)** Une préparation aromatisante de (nom de l'arôme) visée à l'article B.10.005; préparations aromatisantes non normalisées
-
-</td>
-<td>**(3)** 100 p.p.m.
-
-</td>
+<td></td>
+<td>(3)</td>
+<td>Une préparation aromatisante de (nom de l'arôme) visée à l'article B.10.005; préparations aromatisantes non normalisées</td>
+<td>(3)</td>
+<td>100 p.p.m.</td>
 </tr>
 <tr>
 <td>X.1</td>
 <td>Xylitol</td>
-<td>Aliments non normalisés
-
-</td>
-<td>Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>Aliments non normalisés</td>
+<td></td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 </table>
 
->  DORS/93-276, art. 12; DORS/94-625, art. 5; DORS/94-689, art. 2(F); DORS/94-779, art. 3; DORS/97-512, art. 3 et 4; DORS/2004-261, art. 2; DORS/2007-76, art. 3; DORS/2007-176, art. 7..
+> DORS/93-276, art. 12; DORS/94-625, art. 5; DORS/94-689, art. 2(F); DORS/94-779, art. 3; DORS/97-512, art. 3 et 4; DORS/2004-261, art. 2; DORS/2007-76, art. 3; DORS/2007-176, art. 7..
 
 
 
@@ -26607,9 +25641,6 @@ Vert solide FCF
 <th>Limites de tolérance</th>
 </tr>
 <tr>
-<th> </th>
-</tr>
-<tr>
 <td>A.1</td>
 <td>Acide acétique</td>
 <td>(1)</td>
@@ -26619,6 +25650,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Asperges en conserve</td>
 <td>(2)</td>
@@ -26626,12 +25658,14 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(3)</td>
 <td>Gélatine</td>
 <td>(3)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(4)</td>
 <td>Aliments non normalisés</td>
@@ -26671,6 +25705,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Aliments non normalisés</td>
 <td>(2)</td>
@@ -26685,6 +25720,7 @@ Vert solide FCF
 <td>En quantité suffisante pour traiter les produits du cacao conformément à l'article B.04.005</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(2)</td>
 <td>Aliments non normalisés</td>
@@ -26701,7 +25737,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td>A.7</td>
-<td>Citrate d'ammonium  monobasique</td>
+<td>Citrate d'ammonium monobasique</td>
 <td></td>
 <td>Aliments non normalisés</td>
 <td></td>
@@ -26717,12 +25753,14 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Gélatine</td>
 <td>(2)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(3)</td>
 <td>Aliments non normalisés</td>
@@ -26739,6 +25777,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Produits de boulangerie non normalisés</td>
 <td>(2)</td>
@@ -26754,12 +25793,14 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Produits de boulangerie non normalisés</td>
 <td>(2)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(3)</td>
 <td>Lait de beurre sans culture</td>
@@ -26776,6 +25817,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Aliments non normalisés</td>
 <td>(2)</td>
@@ -26791,12 +25833,14 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés); fromage conditionné à froid (indication de la variété); fromage conditionné à froid (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage conditionné à froid; préparation de fromage conditionné à froid (avec indication des ingrédients ajoutés); fromage de petit-lait (indication de la variété)</td>
 <td>(2)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(3)</td>
 <td>Jus de raisin</td>
@@ -26805,12 +25849,14 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(4)</td>
 <td>Aliments non normalisés</td>
 <td>(4)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(5)</td>
 <td>Produits du cacao</td>
@@ -26826,6 +25872,7 @@ Vert solide FCF
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(2)</td>
 <td>Aliments non normalisés</td>
@@ -26873,12 +25920,14 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Pois en conserve</td>
 <td>(2)</td>
 <td>0,01 %</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(3)</td>
 <td>Préparations pour nourrissons</td>
@@ -26887,12 +25936,14 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(4)</td>
 <td>Jus de raisin</td>
 <td>(4)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(5)</td>
 <td>Aliments non normalisés</td>
@@ -26924,6 +25975,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Aliments non normalisés</td>
 <td>(2)</td>
@@ -26946,6 +25998,7 @@ Vert solide FCF
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(2)</td>
 <td>Aliments non normalisés</td>
@@ -26986,12 +26039,14 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Compote de pommes en conserve; pamplemousses en conserve; mandarines en conserve; poires en conserve; ananas en conserve; fraises en conserve</td>
 <td>(2)</td>
 <td>En quantité suffisante pour maintenir le pH entre 4,2 et 4,5</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(3)</td>
 <td>Préparation pour nourrissons</td>
@@ -27000,12 +26055,14 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(4)</td>
 <td>Margarine</td>
 <td>(4)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(5)</td>
 <td>Fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés); fromage conditionné à froid (indication de la variété); fromage conditionné à froid (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage conditionné à froid; préparation de fromage conditionné à froid (avec indication des ingrédients ajoutés); fromage de petit-lait (indication de la variété)</td>
@@ -27014,12 +26071,14 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(6)</td>
 <td>Aliments non normalisés</td>
 <td>(6)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(7)</td>
 <td>Produits du cacao</td>
@@ -27083,6 +26142,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Préparations pour nourrissons</td>
 <td>(2)</td>
@@ -27098,12 +26158,14 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Poires en conserve; fraises en conserve</td>
 <td>(2)</td>
 <td>En quantité suffisante pour maintenir le pH entre 4,2 et 4,5</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(3)</td>
 <td>Margarine</td>
@@ -27112,12 +26174,14 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(4)</td>
 <td>Fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés); fromage conditionné à froid (indication de la variété); fromage conditionné à froid (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage conditionné à froid; préparation de fromage conditionné à froid (avec indication des ingrédients ajoutés); fromage de petit-lait (indication de la variété)</td>
 <td>(4)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(5)</td>
 <td>Aliments non normalisés</td>
@@ -27142,12 +26206,14 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Mélange pour crème glacée; mélange pour lait glacé</td>
 <td>(2)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(3)</td>
 <td>Aliments normalisés</td>
@@ -27187,12 +26253,14 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(3)</td>
 <td>Gélatine; mélange pour crème glacée; mélange pour lait glacé</td>
 <td>(3)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(4)</td>
 <td>Cultures bactériennes</td>
@@ -27225,6 +26293,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Cultures bactériennes</td>
 <td>(2)</td>
@@ -27240,6 +26309,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Compote de pommes en conserve; poires en conserve; fraises en conserve</td>
 <td>(2)</td>
@@ -27247,12 +26317,14 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(3)</td>
 <td>Fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés); fromage conditionné à froid (indication de la variété); fromage conditionné à froid (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage conditionné à froid; préparation de fromage conditionné à froid (avec indication des ingrédients ajoutés); fromage de petit-lait (indication de la variété)</td>
 <td>(3)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(4)</td>
 <td>Aliments non normalisés</td>
@@ -27293,12 +26365,14 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés); fromage conditionné à froid (indication de la variété); fromage conditionné à froid (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage conditionné à froid; préparation de fromage conditionné à froid (avec indication des ingrédients ajoutés); fromage de petit-lait (indication de la variété)</td>
 <td>(2)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(3)</td>
 <td>Protéines de poisson</td>
@@ -27307,12 +26381,14 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(4)</td>
 <td>Aliments non normalisés</td>
 <td>(4)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(5)</td>
 <td>Produits du cacao</td>
@@ -27352,6 +26428,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Aliments non normalisés</td>
 <td>(2)</td>
@@ -27367,12 +26444,14 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Produits du cacao</td>
 <td>(2)</td>
 <td>En quantité suffisante pour traiter les produits du cacao conformément à l'article B.04.005</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(3)</td>
 <td>Fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés); fromage conditionné à froid (indication de la variété); fromage conditionné à froid (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage conditionné à froid; préparation de fromage conditionné à froid (avec indication des ingrédients ajoutés); fromage de petit-lait (indication de la variété)</td>
@@ -27381,6 +26460,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(4)</td>
 <td>Préparations pour nourrissons</td>
 <td>(4)</td>
@@ -27388,12 +26468,14 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(5)</td>
 <td>Margarine</td>
 <td>(5)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(6)</td>
 <td>Aliments non normalisés</td>
@@ -27418,12 +26500,14 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés); fromage conditionné à froid (indication de la variété); fromage conditionné à froid (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage conditionné à froid; préparation de fromage conditionné à froid (avec indication des ingrédients ajoutés); fromage de petit-lait (indication de la variété)</td>
 <td>(2)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(3)</td>
 <td>Margarine</td>
@@ -27432,12 +26516,14 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(4)</td>
 <td>Aliments non normalisés</td>
 <td>(4)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(5)</td>
 <td>Mélange de poisson et de viande préparés visé à l'alinéa B.21.006n)</td>
@@ -27477,6 +26563,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(3)</td>
 <td>Aliments non normalisés</td>
 <td>(3)</td>
@@ -27515,12 +26602,14 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(3)</td>
 <td>Marinade; mélange pour crème glacée; mélange pour lait glacé; saumure et mélange de salaison à sec employés dans le conditionnement des viandes de salaison ou des sous-produits de la viande de salaison; (titre 14 seulement)</td>
 <td>(3)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(4)</td>
 <td>Préparation pour nourrissons</td>
@@ -27529,6 +26618,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(5)</td>
 <td>Margarine</td>
 <td>(5)</td>
@@ -27536,12 +26626,14 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(6)</td>
 <td>Jus de raisin</td>
 <td>(6)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(7)</td>
 <td>Aliments non normalisés</td>
@@ -27644,12 +26736,14 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Produits du cacao</td>
 <td>(2)</td>
 <td>En quantité suffisante pour traiter les produits du cacao conformément à l'alinéa B.04.005</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(3)</td>
 <td>Fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés); fromage conditionné à froid (indication de la variété); fromage conditionné à froid (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage conditionné à froid; préparation de fromage conditionné à froid (avec indication des ingrédients ajoutés); fromage de petit-lait (indication de la variété)</td>
@@ -27658,6 +26752,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(4)</td>
 <td>Préparations pour nourrissons</td>
 <td>(4)</td>
@@ -27665,12 +26760,14 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(5)</td>
 <td>Margarine</td>
 <td>(5)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(6)</td>
 <td>Aliments non normalisés</td>
@@ -27682,14 +26779,15 @@ Vert solide FCF
 <td>Bisulfate de sodium</td>
 <td>(1)</td>
 <td>Ale; bière; bière légère; liqueur de malt; porter; stout</td>
-<td>(1) </td>
+<td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Produits de boulangerie non normalisés</td>
-<td>(2) </td>
+<td>(2)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
@@ -27702,12 +26800,14 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Produits du cacao</td>
 <td>(2)</td>
 <td>En quantité suffisante pour traiter les produits du cacao conformément à l'article B.04.005</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(3)</td>
 <td>Fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés); fromage conditionné à froid (indication de la variété); fromage conditionné à froid (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage conditionné à froid; préparation de fromage conditionné à froid (avec indication des ingrédients ajoutés); fromage de petit-lait (indication de la variété)</td>
@@ -27716,12 +26816,14 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(4)</td>
 <td>Margarine</td>
 <td>(4)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(5)</td>
 <td>Aliments non normalisés</td>
@@ -27738,6 +26840,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Préparations pour nourrissons</td>
 <td>(2)</td>
@@ -27745,12 +26848,14 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(3)</td>
 <td>Aliments non normalisés</td>
 <td>(3)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(4)</td>
 <td>Margarine</td>
@@ -27791,12 +26896,14 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Gélatine; lait écrémé; (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); marinade; mélange pour crème glacée; mélange pour lait glacé; saumure et mélange de salaison à sec employés dans le conditionnement des viandes de salaison ou des sous-produits de la viande de salaison (titre 14 seulement)</td>
 <td>(2)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(3)</td>
 <td>Préparations pour nourrissons</td>
@@ -27805,12 +26912,14 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(4)</td>
 <td>Margarine</td>
 <td>(4)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(5)</td>
 <td>Aliments non normalisés</td>
@@ -27842,6 +26951,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Aliments non normalisés</td>
 <td>(2)</td>
@@ -27856,6 +26966,7 @@ Vert solide FCF
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(2)</td>
 <td>Aliments non normalisés</td>
@@ -27872,6 +26983,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Aliments non normalisés</td>
 <td>(2)</td>
@@ -27887,12 +26999,14 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Aliments non normalisés</td>
 <td>(2)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(3)</td>
 <td>Margarine</td>
@@ -27941,12 +27055,14 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(2)</td>
 <td>Poires en conserve; fraises en conserve</td>
 <td>(2)</td>
 <td>En quantité suffisante pour maintenir le pH entre 4,2 et 4,5</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(3)</td>
 <td>Fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés); fromage conditionné à froid (indication de la variété); fromage conditionné à froid (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage conditionné à froid; préparation de fromage conditionné à froid (avec indication des ingrédients ajoutés); fromage de petit-lait (indication de la variété)</td>
@@ -27955,12 +27071,14 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(4)</td>
 <td>Margarine</td>
 <td>(4)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td>(5)</td>
 <td>Aliments non normalisés</td>
@@ -27969,6 +27087,7 @@ Vert solide FCF
 </tr>
 <tr>
 <td></td>
+<td></td>
 <td>(6)</td>
 <td>Produits du cacao</td>
 <td>(6)</td>
@@ -27976,24 +27095,16 @@ Vert solide FCF
 </tr>
 </table>
 
->  DORS/78-874, art. 4; DORS/79-660, art. 14 à 17; DORS/79-664, art. 3 à 13; DORS/79-752, art. 9; DORS/80-501, art. 4; DORS/86-1112, art. 6 à 8; DORS/92-106, art. 1; DORS/92-344, art. 5; DORS/94-689, art. 2(F); DORS/95-281, art. 2 à 5; DORS/95-436, art. 2 et 3; DORS/97-263, art. 11 à 25; DORS/97-561, art. 3; DORS/98-580, art. 1(F); DORS/2001-94, art. 3; DORS/2006-91, art. 13 à 20; DORS/2007-75, art. 8..
+> DORS/78-874, art. 4; DORS/79-660, art. 14 à 17; DORS/79-664, art. 3 à 13; DORS/79-752, art. 9; DORS/80-501, art. 4; DORS/86-1112, art. 6 à 8; DORS/92-106, art. 1; DORS/92-344, art. 5; DORS/94-689, art. 2(F); DORS/95-281, art. 2 à 5; DORS/95-436, art. 2 et 3; DORS/97-263, art. 11 à 25; DORS/97-561, art. 3; DORS/98-580, art. 1(F); DORS/2001-94, art. 3; DORS/2006-91, art. 13 à 20; DORS/2007-75, art. 8..
 
 
 
-#### TABLEAU XI
+
+**TABLEAU XI** 
+
+#### PARTIE I
 <table>
-<tr>
-<td>PARTIE I</td>
-</tr>
-<tr>
-<td>ADDITIFS ALIMENTAIRES AUTORISÉS COMME AGENTS DE CONSERVATION DE LA CATÉGORIE I</td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
+<h4>ADDITIFS ALIMENTAIRES AUTORISÉS COMME AGENTS DE CONSERVATION DE LA CATÉGORIE I</h4>
 <tr>
 <th></th>
 <th>Colonne I</th>
@@ -28005,388 +27116,300 @@ Vert solide FCF
 <th>Additifs</th>
 <th>Permis dans ou sur</th>
 <th>Limites de tolérance</th>
-</tr>
-<tr>
-<th> </th>
 </tr>
 <tr>
 <td>A.1</td>
 <td>Acide acétique</td>
-<td>**(1)** Poisson de salaison; viandes de salaison; sous-produits de viande de salaison; viande de volaille de salaison; sous-produits de viande de volaille de salaison; marinade; saumure et mélange de salaison à sec, employés dans l'apprêt des viandes de salaison ou des sous-produits de viande de salaison
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Poisson de salaison; viandes de salaison; sous-produits de viande de salaison; viande de volaille de salaison; sous-produits de viande de volaille de salaison; marinade; saumure et mélange de salaison à sec, employés dans l'apprêt des viandes de salaison ou des sous-produits de viande de salaison</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Aliments non normalisés
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Aliments non normalisés</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>A.2</td>
 <td>Acide ascorbique</td>
-<td>**(1)** Ale; asperges blanches en conserve; bière; bière légère; champignons en conserve; cidre; fruits congelés; glaçage pour poisson congelé; tête en fromage ou tête fromagée; liant à viande pour viandes conservées et sous-produits de viande conservée (titre 14 seulement); liqueur de malt; marinade injectable; poisson déchiqueté congelé; poisson conservé; poisson haché congelé; porter; saumure et mélange de salaison à sec employés dans le conditionnement des viandes ou des sous-produits de viande; sous-produits de viande conservés; sous-produits de viande de volaille conservés; stout; thon en conserve; viande conservée; viande de volaille conservée; vin
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Ale; asperges blanches en conserve; bière; bière légère; champignons en conserve; cidre; fruits congelés; glaçage pour poisson congelé; tête en fromage ou tête fromagée; liant à viande pour viandes conservées et sous-produits de viande conservée (titre 14 seulement); liqueur de malt; marinade injectable; poisson déchiqueté congelé; poisson conservé; poisson haché congelé; porter; saumure et mélange de salaison à sec employés dans le conditionnement des viandes ou des sous-produits de viande; sous-produits de viande conservés; sous-produits de viande de volaille conservés; stout; thon en conserve; viande conservée; viande de volaille conservée; vin</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Compote de pommes en conserve
-
-</td>
-<td>**(2)** S'il est utilisé seul ou en combinaison avec l'acide isoascorbique, la quantité totale n'excède pas 150 p.p.m.
-
-</td>
+<td>(2)</td>
+<td>Compote de pommes en conserve</td>
+<td>(2)</td>
+<td>S'il est utilisé seul ou en combinaison avec l'acide isoascorbique, la quantité totale n'excède pas 150 p.p.m.</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Pêches en conserve
-
-</td>
-<td>**(3)** 550 p.p.m.
-
-</td>
+<td>(3)</td>
+<td>Pêches en conserve</td>
+<td>(3)</td>
+<td>550 p.p.m.</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(4)** Aliments non normalisés
-
-</td>
-<td>**(4)** Bonnes pratiques industrielles
-
-</td>
+<td>(4)</td>
+<td>Aliments non normalisés</td>
+<td>(4)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>C.1</td>
 <td>Ascorbate de calcium</td>
-<td>Mêmes aliments que pour l'acide ascorbique
-
-</td>
-<td>Mêmes limites de tolérance que pour l'acide ascorbique
-
-</td>
+<td></td>
+<td>Mêmes aliments que pour l'acide ascorbique</td>
+<td></td>
+<td>Mêmes limites de tolérance que pour l'acide ascorbique</td>
 </tr>
 <tr>
 <td>E.1</td>
 <td>Acide érythorbique</td>
-<td>**(1)** Ale; bière; cidre; fruits congelés; tête en fromage ou tête fromagée; bière légère; liqueur de malt; liant à viande pour viandes de salaison et sous-produits de la viande de salaison (Titre 14 seulement); porter; poisson de salaison; poisson haché congelé; poisson déchiqueté congelé; glaçage pour poisson congelé; viande de salaison; sous-produits de la viande de salaison; viande de volaille de salaison; sous-produits de la viande de volaille de salaison; marinade; saumure et mélange de salaison à sec employés dans le conditionnement des viandes ou des sous-produits de la viande de salaison; stout; vin
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Ale; bière; cidre; fruits congelés; tête en fromage ou tête fromagée; bière légère; liqueur de malt; liant à viande pour viandes de salaison et sous-produits de la viande de salaison (Titre 14 seulement); porter; poisson de salaison; poisson haché congelé; poisson déchiqueté congelé; glaçage pour poisson congelé; viande de salaison; sous-produits de la viande de salaison; viande de volaille de salaison; sous-produits de la viande de volaille de salaison; marinade; saumure et mélange de salaison à sec employés dans le conditionnement des viandes ou des sous-produits de la viande de salaison; stout; vin</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Compote de pommes en conserve
-
-</td>
-<td>**(2)** S'il est utilisé seul ou en combinaison avec l'acide ascorbique, la quantité totale n'excède pas 150 p.p.m.
-
-</td>
+<td>(2)</td>
+<td>Compote de pommes en conserve</td>
+<td>(2)</td>
+<td>S'il est utilisé seul ou en combinaison avec l'acide ascorbique, la quantité totale n'excède pas 150 p.p.m.</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Aliments non normalisés
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td>(3)</td>
+<td>Aliments non normalisés</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>I.1</td>
 <td>Acide isoascorbique</td>
-<td>Mêmes aliments que pour l'acide érythorbique
-
-</td>
-<td>Mêmes limites de tolérance que pour l'acide érythorbique
-
-</td>
+<td></td>
+<td>Mêmes aliments que pour l'acide érythorbique</td>
+<td></td>
+<td>Mêmes limites de tolérance que pour l'acide érythorbique</td>
 </tr>
 <tr>
 <td>P.1</td>
 <td>Nitrate de potassium</td>
-<td>**(1)** Liant à viande pour saucisse séchée; saucisse semi-séchée; viande conservée et sous-produits de viande conservée, préparés selon des méthodes de salaison lente (Titre 14)
-
-</td>
-<td>**(1)** Si le liant à viande est utilisé selon le mode d'emploi donné sur l'étiquette, que le nitrate de potassium soit ajouté seul ou avec du nitrate de sodium, la quantité totale de tels nitrates ainsi ajoutée à chaque lot de saucisse séchée, de saucisse semi-séchée, de viande conservée, ou de sous-produits de viande conservée ne doit pas excéder 0,32 once par 100 livres ou 200 parties par million, calculée avant que le produit ne soit fumé, cuit ou fermenté.
-
-</td>
+<td>(1)</td>
+<td>Liant à viande pour saucisse séchée; saucisse semi-séchée; viande conservée et sous-produits de viande conservée, préparés selon des méthodes de salaison lente (Titre 14)</td>
+<td>(1)</td>
+<td>Si le liant à viande est utilisé selon le mode d'emploi donné sur l'étiquette, que le nitrate de potassium soit ajouté seul ou avec du nitrate de sodium, la quantité totale de tels nitrates ainsi ajoutée à chaque lot de saucisse séchée, de saucisse semi-séchée, de viande conservée, ou de sous-produits de viande conservée ne doit pas excéder 0,32 once par 100 livres ou 200 parties par million, calculée avant que le produit ne soit fumé, cuit ou fermenté.</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Saumure et mélange de salaison à sec employés dans le marinage des viandes conservées et des sous-produits de viande conservée, préparés selon des méthodes de salaison lente (Titre 14)
-
-</td>
-<td>**(2)** Si la saumure ou le mélange de salaison à sec est utilisé selon le mode d'emploi donné sur l'étiquette, que le nitrate de potassium soit ajouté seul ou avec du nitrate de sodium, la quantité totale de tels nitrates ainsi ajouté à chaque lot de viande conservée ou de sous-produits de viande conservée ne doit pas excéder 0,32 once par 100 livres ou 200 parties par million, calculée avant que le produit ne soit fumé, cuit ou fermenté.
-
-</td>
+<td>(2)</td>
+<td>Saumure et mélange de salaison à sec employés dans le marinage des viandes conservées et des sous-produits de viande conservée, préparés selon des méthodes de salaison lente (Titre 14)</td>
+<td>(2)</td>
+<td>Si la saumure ou le mélange de salaison à sec est utilisé selon le mode d'emploi donné sur l'étiquette, que le nitrate de potassium soit ajouté seul ou avec du nitrate de sodium, la quantité totale de tels nitrates ainsi ajouté à chaque lot de viande conservée ou de sous-produits de viande conservée ne doit pas excéder 0,32 once par 100 livres ou 200 parties par million, calculée avant que le produit ne soit fumé, cuit ou fermenté.</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Saucisse séchée; saucisse semi-séchée; viande conservée et sous-produits de viande conservée, préparés selon des méthodes de salaison lente (Titre 14)
-
-</td>
-<td>**(3)** Si le nitrate de potassium est ajouté seul ou avec du nitrate de sodium, la quantité totale de tels nitrates ajoutée à chaque lot de saucisse séchée, de saucisse semi-séchée, de viande conservée, ou de sous-produits de viande conservée ne doit pas excéder 0,32 once par 100 livres ou 200 parties par million, calculée avant que le produit ne soit fumé, cuit ou fermenté.
-
-</td>
+<td>(3)</td>
+<td>Saucisse séchée; saucisse semi-séchée; viande conservée et sous-produits de viande conservée, préparés selon des méthodes de salaison lente (Titre 14)</td>
+<td>(3)</td>
+<td>Si le nitrate de potassium est ajouté seul ou avec du nitrate de sodium, la quantité totale de tels nitrates ajoutée à chaque lot de saucisse séchée, de saucisse semi-séchée, de viande conservée, ou de sous-produits de viande conservée ne doit pas excéder 0,32 once par 100 livres ou 200 parties par million, calculée avant que le produit ne soit fumé, cuit ou fermenté.</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(4)** Fromage mûri, ne contenant pas plus de 68 % d'humidité calculée sur la matière non-grasse, et dans la fabrication duquel la fermentation de l'acide lactique et le salage sont complétés plus de 12 heures après la coagulation de la caillebotte par des enzymes alimentaires, et à l'extérieur duquel on applique du sel, soit à l'état sec ou sous forme de saumure
-
-</td>
-<td>**(4)** S'il est utilisé seul ou avec du nitrate de sodium, le produit contiendra une quantité maximale de 200 p.p.m. (basée sur le lait). Le résidu dans le fromage fini ne devra pas excéder 50 p.p.m.
-
-</td>
+<td>(4)</td>
+<td>Fromage mûri, ne contenant pas plus de 68 % d'humidité calculée sur la matière non-grasse, et dans la fabrication duquel la fermentation de l'acide lactique et le salage sont complétés plus de 12 heures après la coagulation de la caillebotte par des enzymes alimentaires, et à l'extérieur duquel on applique du sel, soit à l'état sec ou sous forme de saumure</td>
+<td>(4)</td>
+<td>S'il est utilisé seul ou avec du nitrate de sodium, le produit contiendra une quantité maximale de 200 p.p.m. (basée sur le lait). Le résidu dans le fromage fini ne devra pas excéder 50 p.p.m.</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(5)** Fromage mûri; moulé; empaqueté à vide
-
-</td>
-<td>**(5)** S'il est utilisé seul ou avec du nitrate de sodium, le produit contiendra une quantité maximale de 200 p.p.m. (basée sur le lait). Le résidu dans le fromage fini ne devra pas excéder 50 p.p.m.
-
-</td>
+<td>(5)</td>
+<td>Fromage mûri; moulé; empaqueté à vide</td>
+<td>(5)</td>
+<td>S'il est utilisé seul ou avec du nitrate de sodium, le produit contiendra une quantité maximale de 200 p.p.m. (basée sur le lait). Le résidu dans le fromage fini ne devra pas excéder 50 p.p.m.</td>
 </tr>
 <tr>
 <td>P.2</td>
 <td>Nitrite de potassium</td>
-<td>**(1)** Liant à viande; marinade; saumure et mélange de salaison à sec, utilisés dans le marinage de la viande conservée et des sous-produits de viande conservée (Titre 14)
-
-</td>
-<td>**(1)** Si le liant à viande, la saumure ou le mélange de salaison à sec est utilisé selon le mode d'emploi donné sur l'étiquette, que le nitrite de potassium soit ajouté seul ou avec du nitrite de sodium, la quantité totale de tels nitrites ajoutée à chaque lot de viande conservée ou de sous-produits de viande conservée ne doit pas excéder 0,32 once par 100 livres ou 200 parties par million, calculée avant que le produit ne soit fumé, cuit ou fermenté.
-
-</td>
+<td>(1)</td>
+<td>Liant à viande; marinade; saumure et mélange de salaison à sec, utilisés dans le marinage de la viande conservée et des sous-produits de viande conservée (Titre 14)</td>
+<td>(1)</td>
+<td>Si le liant à viande, la saumure ou le mélange de salaison à sec est utilisé selon le mode d'emploi donné sur l'étiquette, que le nitrite de potassium soit ajouté seul ou avec du nitrite de sodium, la quantité totale de tels nitrites ajoutée à chaque lot de viande conservée ou de sous-produits de viande conservée ne doit pas excéder 0,32 once par 100 livres ou 200 parties par million, calculée avant que le produit ne soit fumé, cuit ou fermenté.</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Viande conservée, sauf le bacon de flanc, et sous-produits de viande conservée (Titre 14)
-
-</td>
-<td>**(2)** Si le nitrite de potassium est ajouté seul ou avec du nitrite de sodium, la quantité totale de tels nitrites ajoutée à chaque lot de viande conservée, sauf le bacon de flanc, ou de sous-produits de viande conservée ne doit pas excéder 0,32 once par 100 livres ou 200 parties par million, calculée avant que le produit ne soit fumé, cuit ou fermenté.
-
-</td>
+<td>(2)</td>
+<td>Viande conservée, sauf le bacon de flanc, et sous-produits de viande conservée (Titre 14)</td>
+<td>(2)</td>
+<td>Si le nitrite de potassium est ajouté seul ou avec du nitrite de sodium, la quantité totale de tels nitrites ajoutée à chaque lot de viande conservée, sauf le bacon de flanc, ou de sous-produits de viande conservée ne doit pas excéder 0,32 once par 100 livres ou 200 parties par million, calculée avant que le produit ne soit fumé, cuit ou fermenté.</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Bacon de flanc
-
-</td>
-<td>**(3)** Si le nitrite de potassium est ajouté seul ou avec du nitrite de sodium, la quantité totale de tels nitrites ajoutée à chaque lot de bacon de flanc ne doit pas excéder 0,19 once par 100 livres ou 120 parties par million, calculée avant que le produit ne soit fumé, cuit ou fermenté.
-
-</td>
+<td>(3)</td>
+<td>Bacon de flanc</td>
+<td>(3)</td>
+<td>Si le nitrite de potassium est ajouté seul ou avec du nitrite de sodium, la quantité totale de tels nitrites ajoutée à chaque lot de bacon de flanc ne doit pas excéder 0,19 once par 100 livres ou 120 parties par million, calculée avant que le produit ne soit fumé, cuit ou fermenté.</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(4)** Viande de volaille conservée et sous-produits de viande de volaille conservée (Titre 22)
-
-</td>
-<td>**(4)** Si le nitrite de potassium est ajouté seul ou avec du nitrite de sodium, la quantité totale de tels nitrites ajouté à chaque lot de viande de volaille conservée et de sous-produits de viande de volaille conservée ne doit pas excéder 0,32 once par 100 livres ou 200 parties par million, calculée avant que le produit ne soit fumé, cuit ou fermenté.
-
-</td>
+<td>(4)</td>
+<td>Viande de volaille conservée et sous-produits de viande de volaille conservée (Titre 22)</td>
+<td>(4)</td>
+<td>Si le nitrite de potassium est ajouté seul ou avec du nitrite de sodium, la quantité totale de tels nitrites ajouté à chaque lot de viande de volaille conservée et de sous-produits de viande de volaille conservée ne doit pas excéder 0,32 once par 100 livres ou 200 parties par million, calculée avant que le produit ne soit fumé, cuit ou fermenté.</td>
 </tr>
 <tr>
 <td>S.1</td>
 <td>Ascorbate de sodium</td>
-<td>Mêmes aliments que pour l'acide ascorbique
-
-</td>
-<td>Mêmes limites de tolérance que pour l'acide ascorbique
-
-</td>
+<td></td>
+<td>Mêmes aliments que pour l'acide ascorbique</td>
+<td></td>
+<td>Mêmes limites de tolérance que pour l'acide ascorbique</td>
 </tr>
 <tr>
 <td>S.2</td>
 <td>Erythorbate de sodium</td>
-<td>**(1)** Mêmes aliments que pour l'acide érythorbique
-
-</td>
-<td>**(1)** Mêmes limites de tolérance que pour l'acide érythorbique
-
-</td>
+<td>(1)</td>
+<td>Mêmes aliments que pour l'acide érythorbique</td>
+<td>(1)</td>
+<td>Mêmes limites de tolérance que pour l'acide érythorbique</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Clams en conserve
-
-</td>
-<td>**(2)** 350 p.p.m.
-
-</td>
+<td>(2)</td>
+<td>Clams en conserve</td>
+<td>(2)</td>
+<td>350 p.p.m.</td>
 </tr>
 <tr>
 <td>S.3</td>
 <td>Iso-ascorbate de sodium</td>
-<td>Mêmes aliments que pour l'acide érythorbique
-
-</td>
-<td>Mêmes limites de tolérance que pour l'acide érythorbique
-
-</td>
+<td></td>
+<td>Mêmes aliments que pour l'acide érythorbique</td>
+<td></td>
+<td>Mêmes limites de tolérance que pour l'acide érythorbique</td>
 </tr>
 <tr>
 <td>S.4</td>
 <td>Nitrate de sodium</td>
-<td>**(1)** Liant à viande pour saucisse séchée; saucisse semi-séchée; viande conservée et sous-produits de viande conservée, préparés selon des méthodes de salaison lente (Titre 14)
-
-</td>
-<td>**(1)** Si le liant à viande est utilisé selon le mode d'emploi donné sur l'étiquette, que le nitrate de sodium soit ajouté seul ou avec du nitrate de potassium, la quantité totale de tels nitrates ainsi ajoutée à chaque lot de saucisse séchée, de saucisse semi-séchée, de viande conservée ou de sous-produits de viande conservée, ne doit pas excéder 0,32 once par 100 livres ou 200 parties par million, calculée avant que le produit ne soit fumé, cuit ou fermenté.
-
-</td>
+<td>(1)</td>
+<td>Liant à viande pour saucisse séchée; saucisse semi-séchée; viande conservée et sous-produits de viande conservée, préparés selon des méthodes de salaison lente (Titre 14)</td>
+<td>(1)</td>
+<td>Si le liant à viande est utilisé selon le mode d'emploi donné sur l'étiquette, que le nitrate de sodium soit ajouté seul ou avec du nitrate de potassium, la quantité totale de tels nitrates ainsi ajoutée à chaque lot de saucisse séchée, de saucisse semi-séchée, de viande conservée ou de sous-produits de viande conservée, ne doit pas excéder 0,32 once par 100 livres ou 200 parties par million, calculée avant que le produit ne soit fumé, cuit ou fermenté.</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Saumure et mélange de salaison à sec utilisés dans le marinage de viande conservée et de sous-produits de viande conservée, préparés selon des méthodes de salaison lente (Titre 14)
-
-</td>
-<td>**(2)** Si la saumure ou le mélange de salaison à sec est utilisé selon le mode d'emploi donné sur l'étiquette, que le nitrate de sodium soit ajouté seul ou avec du nitrate de potassium, la quantité totale de tels nitrates ainsi ajoutée à chaque lot de viande conservée ou de sous-produits de viande conservée ne doit pas excéder 0,32 once par 100 livres ou 200 parties par million, calculée avant que le produit ne soit fumé, cuit ou fermenté.
-
-</td>
+<td>(2)</td>
+<td>Saumure et mélange de salaison à sec utilisés dans le marinage de viande conservée et de sous-produits de viande conservée, préparés selon des méthodes de salaison lente (Titre 14)</td>
+<td>(2)</td>
+<td>Si la saumure ou le mélange de salaison à sec est utilisé selon le mode d'emploi donné sur l'étiquette, que le nitrate de sodium soit ajouté seul ou avec du nitrate de potassium, la quantité totale de tels nitrates ainsi ajoutée à chaque lot de viande conservée ou de sous-produits de viande conservée ne doit pas excéder 0,32 once par 100 livres ou 200 parties par million, calculée avant que le produit ne soit fumé, cuit ou fermenté.</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Saucisse séchée; saucisse semi-séchée; viande conservée et sous-produits de viande conservée, préparés selon des méthodes de salaison lente (Titre 14)
-
-</td>
-<td>**(3)** Si le nitrate de sodium est ajouté seul ou avec du nitrate de potassium, la quantité totale de tels nitrates ajoutée à chaque lot de saucisse séchée, de saucisse semi-séchée, de viande conservée ou de sous-produits de viande conservée ne doit pas excéder 0,32 once par 100 livres ou 200 parties par million, calculée avant que le produit ne soit fumé, cuit ou fermenté.
-
-</td>
+<td>(3)</td>
+<td>Saucisse séchée; saucisse semi-séchée; viande conservée et sous-produits de viande conservée, préparés selon des méthodes de salaison lente (Titre 14)</td>
+<td>(3)</td>
+<td>Si le nitrate de sodium est ajouté seul ou avec du nitrate de potassium, la quantité totale de tels nitrates ajoutée à chaque lot de saucisse séchée, de saucisse semi-séchée, de viande conservée ou de sous-produits de viande conservée ne doit pas excéder 0,32 once par 100 livres ou 200 parties par million, calculée avant que le produit ne soit fumé, cuit ou fermenté.</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(4)** Fromage mûri, ne contenant pas plus de 68 % d'humidité calculée sur la matière non-grasse, et dans la fabrication duquel la fermentation de l'acide lactique et le salage sont complétés plus de 12 heures après la coagulation de la caillebotte par des enzymes alimentaires et à l'exception duquel on applique du sel, soit à l'état sec ou sous forme de saumure
-
-</td>
-<td>**(4)** S'il est utilisé seul ou avec du nitrate de potassium, le produit contiendra une quantité maximale de 200 p.p.m. (basée sur le lait). Le résidu dans le fromage fini ne devra pas excéder 50 p.p.m.
-
-</td>
+<td>(4)</td>
+<td>Fromage mûri, ne contenant pas plus de 68 % d'humidité calculée sur la matière non-grasse, et dans la fabrication duquel la fermentation de l'acide lactique et le salage sont complétés plus de 12 heures après la coagulation de la caillebotte par des enzymes alimentaires et à l'exception duquel on applique du sel, soit à l'état sec ou sous forme de saumure</td>
+<td>(4)</td>
+<td>S'il est utilisé seul ou avec du nitrate de potassium, le produit contiendra une quantité maximale de 200 p.p.m. (basée sur le lait). Le résidu dans le fromage fini ne devra pas excéder 50 p.p.m.</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(5)** Fromage mûri; moulé; empaqueté à vide
-
-</td>
-<td>**(5)** S'il est utilisé seul ou avec du nitrate de potassium, le produit contiendra une quantité maximale de 200 p.p.m. (basée sur le lait). Le résidu dans le fromage fini ne devra pas excéder 50 p.p.m.
-
-</td>
+<td>(5)</td>
+<td>Fromage mûri; moulé; empaqueté à vide</td>
+<td>(5)</td>
+<td>S'il est utilisé seul ou avec du nitrate de potassium, le produit contiendra une quantité maximale de 200 p.p.m. (basée sur le lait). Le résidu dans le fromage fini ne devra pas excéder 50 p.p.m.</td>
 </tr>
 <tr>
 <td>S.5</td>
 <td>Nitrite de sodium</td>
-<td>**(1)** Liant à viande; marinade; saumure et mélange de salaison à sec utilisés pour le marinage de viande conservée et de sous-produits de viande conservée (Titre 14)
-
-</td>
-<td>**(1)** Si le liant à viande, la marinade, la saumure ou le mélange de salaison à sec est utilisé selon le mode d'emploi donné sur l'étiquette, que le nitrite de sodium soit ajouté seul ou avec du nitrite de potassium, la quantité totale de tels nitrites ainsi ajoutée à chaque lot de viande conservée ou de sous-produits de viande conservée ne doit pas excéder 0,32 once par 100 livres ou 200 parties par million, calculée avant que le produit ne soit fumé, cuit ou fermenté.
-
-</td>
+<td>(1)</td>
+<td>Liant à viande; marinade; saumure et mélange de salaison à sec utilisés pour le marinage de viande conservée et de sous-produits de viande conservée (Titre 14)</td>
+<td>(1)</td>
+<td>Si le liant à viande, la marinade, la saumure ou le mélange de salaison à sec est utilisé selon le mode d'emploi donné sur l'étiquette, que le nitrite de sodium soit ajouté seul ou avec du nitrite de potassium, la quantité totale de tels nitrites ainsi ajoutée à chaque lot de viande conservée ou de sous-produits de viande conservée ne doit pas excéder 0,32 once par 100 livres ou 200 parties par million, calculée avant que le produit ne soit fumé, cuit ou fermenté.</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Viande conservée, sauf le bacon, et sous-produits de viande conservée (Titre 14)
-
-</td>
-<td>**(2)** Si le nitrite de sodium est ajouté seul ou avec du nitrite de potassium, la quantité totale de tels nitrites ajoutée à chaque lot de viande conservée, sauf le bacon de flanc, ou de sous-produits de viande conservée, ne doit pas excéder 0,32 once par 100 livres ou 200 parties par million, calculée avant que le produit ne soit fumé, cuit ou fermenté.
-
-</td>
+<td>(2)</td>
+<td>Viande conservée, sauf le bacon, et sous-produits de viande conservée (Titre 14)</td>
+<td>(2)</td>
+<td>Si le nitrite de sodium est ajouté seul ou avec du nitrite de potassium, la quantité totale de tels nitrites ajoutée à chaque lot de viande conservée, sauf le bacon de flanc, ou de sous-produits de viande conservée, ne doit pas excéder 0,32 once par 100 livres ou 200 parties par million, calculée avant que le produit ne soit fumé, cuit ou fermenté.</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Bacon de flanc
-
-</td>
-<td>**(3)** Si le nitrite de sodium est ajouté seul ou avec du nitrite de potassium, la quantité totale de tels nitrites ajoutée à chaque lot de bacon de flanc ne doit pas excéder 0,19 once par 100 livres ou 120 parties par million, calculée avant que le produit ne soit fumé, cuit ou fermenté.
-
-</td>
+<td>(3)</td>
+<td>Bacon de flanc</td>
+<td>(3)</td>
+<td>Si le nitrite de sodium est ajouté seul ou avec du nitrite de potassium, la quantité totale de tels nitrites ajoutée à chaque lot de bacon de flanc ne doit pas excéder 0,19 once par 100 livres ou 120 parties par million, calculée avant que le produit ne soit fumé, cuit ou fermenté.</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(4)** Viande de volaille conservée et sous-produits de viande de volaille conservée (Titre 22)
-
-</td>
-<td>**(4)** Si le nitrite de sodium est ajouté seul ou avec du nitrite de potassium, la quantité totale de tels nitrites ajoutée à chaque lot de viande de volaille conservée ou de sous-produits de viande de volaille conservée ne doit pas excéder 0,32 once par 100 livres ou 200 parties par million, calculée avant que le produit ne soit fumé, cuit ou fermenté.
-
-</td>
+<td>(4)</td>
+<td>Viande de volaille conservée et sous-produits de viande de volaille conservée (Titre 22)</td>
+<td>(4)</td>
+<td>Si le nitrite de sodium est ajouté seul ou avec du nitrite de potassium, la quantité totale de tels nitrites ajoutée à chaque lot de viande de volaille conservée ou de sous-produits de viande de volaille conservée ne doit pas excéder 0,32 once par 100 livres ou 200 parties par million, calculée avant que le produit ne soit fumé, cuit ou fermenté.</td>
 </tr>
 <tr>
 <td>W.1</td>
 <td>Fumée de bois</td>
-<td>**(1)** Fromage (indication de la variété); fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés); fromage conditionné à froid (indication de la variété); fromage conditionné à froid (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage conditionné à froid; préparation de fromage conditionné à froid (avec indication des ingrédients ajoutés)
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Fromage (indication de la variété); fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés); fromage conditionné à froid (indication de la variété); fromage conditionné à froid (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage conditionné à froid; préparation de fromage conditionné à froid (avec indication des ingrédients ajoutés)</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Poisson conservé; viande conservée (titres 14 et 21); sous-produits de viande conservés (titres 14 et 21); viande de volaille conservée; sous-produits de viande de volaille conservés; saucisses
+<td>(2)</td>
+<td>Poisson conservé; viande conservée (titres 14 et 21); sous-produits de viande conservés (titres 14 et 21); viande de volaille conservée; sous-produits de viande de volaille conservés; saucisses</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(3)</td>
+<td>Aliments non normalisés</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+</table>
 
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>**(3)** Aliments non normalisés
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>PARTIE II</td>
-</tr>
-<tr>
-<td>ADDITIFS ALIMENTAIRES AUTORISÉS COMME AGENTS DE CONSERVATION DE LA CATÉGORIE II</td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
+#### PARTIE II
+<table>
+<h4>ADDITIFS ALIMENTAIRES AUTORISÉS COMME AGENTS DE CONSERVATION DE LA CATÉGORIE II</h4>
 <tr>
 <th></th>
 <th>Colonne I</th>
@@ -28400,496 +27423,442 @@ Vert solide FCF
 <th>Limites de tolérance</th>
 </tr>
 <tr>
-<th> </th>
-</tr>
-<tr>
 <td>B.1</td>
 <td>Acide benzoïque</td>
-<td>**(1)** Confiture de pommes (ou de rhubarbe) et de (nom du fruit); marmelade de figues avec pectine; jus de fruit sauf le jus d'orange concentré congelé; confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; gelée de (nom du fruit) avec pectine; poisson et viande emballés, marinés ou conditionnés à froid par une autre méthode analogue (Titre 21); marmelade de (nom de l'agrume) avec pectine; mincemeat; cornichons et achards (relish); marmelade d'ananas avec pectine; ketchup de tomates; pâte de tomates; pulpe de tomates; purée de tomates
-
-</td>
-<td>**(1)** 1 000 p.p.m.
-
-</td>
+<td>(1)</td>
+<td>Confiture de pommes (ou de rhubarbe) et de (nom du fruit); marmelade de figues avec pectine; jus de fruit sauf le jus d'orange concentré congelé; confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; gelée de (nom du fruit) avec pectine; poisson et viande emballés, marinés ou conditionnés à froid par une autre méthode analogue (Titre 21); marmelade de (nom de l'agrume) avec pectine; mincemeat; cornichons et achards (relish); marmelade d'ananas avec pectine; ketchup de tomates; pâte de tomates; pulpe de tomates; purée de tomates</td>
+<td>(1)</td>
+<td>1 000 p.p.m.</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Aliments non normalisés, [à l'exception des préparations non normalisées de
-
-**a)** viande et sous-produits de viande (Titres 14 et 21);
-
-**b)** poisson; et
-
-**c)** viande de volaille et sous-produits de viande de volaille]
-
-</td>
-<td>**(2)** 1 000 p.p.m.
-
-</td>
+<td>(2)</td>
+<td>Aliments non normalisés, [à l'exception des préparations non normalisées de</td>
+<td>(2)</td>
+<td>1 000 p.p.m.</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td>a) viande et sous-produits de viande (Titres 14 et 21);</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-</tr>
-<tr>
+<td></td>
+<td>b) poisson; et</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Margarine
-
-</td>
-<td>**(3)** Si utilisé seul ou en association avec de l'acide sorbique; la quantité totale ne doit pas excéder 1 000 p.p.m.
-
-</td>
+<td></td>
+<td>c) viande de volaille et sous-produits de viande de volaille]</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(3)</td>
+<td>Margarine</td>
+<td>(3)</td>
+<td>Si utilisé seul ou en association avec de l'acide sorbique; la quantité totale ne doit pas excéder 1 000 p.p.m.</td>
 </tr>
 <tr>
 <td>C.1</td>
 <td>Sorbate de calcium</td>
-<td>Mêmes aliments que pour l'acide sorbique
-
-</td>
-<td>Mêmes limites de tolérance que pour l'acide sorbique
-
-</td>
+<td></td>
+<td>Mêmes aliments que pour l'acide sorbique</td>
+<td></td>
+<td>Mêmes limites de tolérance que pour l'acide sorbique</td>
 </tr>
 <tr>
 <td>H.1</td>
 <td>4-Hexylrésorcine</td>
-<td>Crustacés
-
-</td>
-<td>Bonnes pratiques industrielles. Les résidus dans la partie comestible du produit non cuit ne doivent pas dépasser 1,0 p.p.m.
-
-</td>
+<td></td>
+<td>Crustacés</td>
+<td></td>
+<td>Bonnes pratiques industrielles. Les résidus dans la partie comestible du produit non cuit ne doivent pas dépasser 1,0 p.p.m.</td>
 </tr>
 <tr>
 <td>M.1</td>
 <td>Benzoate de p-hydroxyméthyle</td>
-<td>**(1)** Confiture de pommes (ou de rhubarbe) et de (nom du fruit); marmelade de figues avec pectine; jus de fruit sauf le jus d'orange concentré congelé; confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; gelée de (nom du fruit) avec pectine; poisson et viande emballés, marinés ou conditionnés à froid par une autre méthode analogue (Titre 21); marmelade de (nom de l'agrume) avec pectine; mincemeat; cornichons et achards (relish); marmelade d'ananas avec pectine; ketchup de tomates; pâte de tomates; pulpe de tomates; purée de tomates
-
-</td>
-<td>**(1)** 1 000 p.p.m.
-
-</td>
+<td>(1)</td>
+<td>Confiture de pommes (ou de rhubarbe) et de (nom du fruit); marmelade de figues avec pectine; jus de fruit sauf le jus d'orange concentré congelé; confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; gelée de (nom du fruit) avec pectine; poisson et viande emballés, marinés ou conditionnés à froid par une autre méthode analogue (Titre 21); marmelade de (nom de l'agrume) avec pectine; mincemeat; cornichons et achards (relish); marmelade d'ananas avec pectine; ketchup de tomates; pâte de tomates; pulpe de tomates; purée de tomates</td>
+<td>(1)</td>
+<td>1 000 p.p.m.</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Aliments non normalisés, [à l'exception des préparations non normalisées de
-
-**a)** viande et sous-produits de viande (Titres 14 et 21);
-
-**b)** poisson; et
-
-**c)** viande de volaille et sous-produits de viande de volaille]
-
-</td>
-<td>**(2)** 1 000 p.p.m.
-
-</td>
+<td>(2)</td>
+<td>Aliments non normalisés, [à l'exception des préparations non normalisées de</td>
+<td>(2)</td>
+<td>1 000 p.p.m.</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td>a) viande et sous-produits de viande (Titres 14 et 21);</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
+<td></td>
+<td></td>
+<td>b) poisson; et</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td>c) viande de volaille et sous-produits de viande de volaille]</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>M.2</td>
 <td>Méthylparabène</td>
-<td>Mêmes aliments que pour le benzoate de p-hydroxyméthyle
-
-</td>
-<td>Mêmes limites de tolérance que pour le benzoate de p-hydroxyméthyle
-
-</td>
+<td></td>
+<td>Mêmes aliments que pour le benzoate de p-hydroxyméthyle</td>
+<td></td>
+<td>Mêmes limites de tolérance que pour le benzoate de p-hydroxyméthyle</td>
 </tr>
 <tr>
 <td>P.1</td>
 <td>Benzoate de potassium</td>
-<td>Mêmes aliments que pour l'acide benzoïque
-
-</td>
-<td>1 000 p.p.m., calculé en acide benzoïque
-
-</td>
+<td></td>
+<td>Mêmes aliments que pour l'acide benzoïque</td>
+<td></td>
+<td>1 000 p.p.m., calculé en acide benzoïque</td>
 </tr>
 <tr>
 <td>P.2</td>
 <td>Bisulfite de potassium</td>
-<td>Mêmes aliments que pour l'anhydride sulfureux
-
-</td>
-<td>Mêmes limites de tolérance que pour l'anhydride sulfureux
-
-</td>
+<td></td>
+<td>Mêmes aliments que pour l'anhydride sulfureux</td>
+<td></td>
+<td>Mêmes limites de tolérance que pour l'anhydride sulfureux</td>
 </tr>
 <tr>
 <td>P.3</td>
 <td>Métabisulfite de potassium</td>
-<td>Mêmes aliments que pour l'anhydride sulfureux
-
-</td>
-<td>Mêmes limites de tolérance que pour l'anhydride sulfureux
-
-</td>
+<td></td>
+<td>Mêmes aliments que pour l'anhydride sulfureux</td>
+<td></td>
+<td>Mêmes limites de tolérance que pour l'anhydride sulfureux</td>
 </tr>
 <tr>
 <td>P.4</td>
 <td>Sorbate de potassium</td>
-<td>Mêmes aliments que pour l'acide sorbique
-
-</td>
-<td>Mêmes limites de tolérance que pour l'acide sorbique
-
-</td>
+<td></td>
+<td>Mêmes aliments que pour l'acide sorbique</td>
+<td></td>
+<td>Mêmes limites de tolérance que pour l'acide sorbique</td>
 </tr>
 <tr>
 <td>P.5</td>
 <td>Benzoate de p-hydroxypropyle</td>
-<td>**(1)** Confiture de pommes (ou de rhubarbe) et de (nom du fruit); marmelade de figues avec pectine; jus de fruit sauf le jus d'orange concentré congelé; confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; gelée de (nom du fruit) avec pectine; poisson et viande emballés, marinés ou conditionnés à froid par une autre méthode analogue (Titre 21); marmelade de (nom de l'agrume) avec pectine; mincemeat; cornichons et achards (relish); marmelade d'ananas avec pectine; ketchup de tomates; pâte de tomates; pulpe de tomates; purée de tomates
-
-</td>
-<td>**(1)** 1 000 p.p.m.
-
-</td>
+<td>(1)</td>
+<td>Confiture de pommes (ou de rhubarbe) et de (nom du fruit); marmelade de figues avec pectine; jus de fruit sauf le jus d'orange concentré congelé; confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; gelée de (nom du fruit) avec pectine; poisson et viande emballés, marinés ou conditionnés à froid par une autre méthode analogue (Titre 21); marmelade de (nom de l'agrume) avec pectine; mincemeat; cornichons et achards (relish); marmelade d'ananas avec pectine; ketchup de tomates; pâte de tomates; pulpe de tomates; purée de tomates</td>
+<td>(1)</td>
+<td>1 000 p.p.m.</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Aliments non normalisés, [à l'exception des préparations non normalisées de
-
-**a)** viande et de sous-produits de viande (Titres 14 et 21);
-
-**b)** poisson; et
-
-**c)** viande de volaille et sous-produits de viande de volaille]
-
-</td>
-<td>**(2)** 1 000 p.p.m.
-
-</td>
+<td>(2)</td>
+<td>Aliments non normalisés, [à l'exception des préparations non normalisées de</td>
+<td>(2)</td>
+<td>1 000 p.p.m.</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td>a) viande et de sous-produits de viande (Titres 14 et 21);</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
+<td></td>
+<td></td>
+<td>b) poisson; et</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td>c) viande de volaille et sous-produits de viande de volaille]</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>P.6</td>
 <td>Propylparabène</td>
-<td>Mêmes aliments que pour le benzoate de p-hydroxypropyle
-
-</td>
-<td>Mêmes limites de tolérance que pour le benzoate de p-hydroxypropyle
-
-</td>
+<td></td>
+<td>Mêmes aliments que pour le benzoate de p-hydroxypropyle</td>
+<td></td>
+<td>Mêmes limites de tolérance que pour le benzoate de p-hydroxypropyle</td>
 </tr>
 <tr>
 <td>S.1</td>
 <td>Benzoate de sodium</td>
-<td>Mêmes aliments que pour l'acide benzoïque
-
-</td>
-<td>1 000 p.p.m., calculé en acide benzoïque
-
-</td>
+<td></td>
+<td>Mêmes aliments que pour l'acide benzoïque</td>
+<td></td>
+<td>1 000 p.p.m., calculé en acide benzoïque</td>
 </tr>
 <tr>
 <td>S.2</td>
 <td>Bisulfite de sodium</td>
-<td>Mêmes aliments que pour l'anhydride sulfureux
-
-</td>
-<td>Mêmes limites de tolérance que pour l'anhydride sulfureux
-
-</td>
+<td></td>
+<td>Mêmes aliments que pour l'anhydride sulfureux</td>
+<td></td>
+<td>Mêmes limites de tolérance que pour l'anhydride sulfureux</td>
 </tr>
 <tr>
 <td>S.3</td>
 <td>Métabisulfite de sodium</td>
-<td>Mêmes aliments que pour l'anhydride sulfureux
-
-</td>
-<td>Mêmes limites de tolérance que pour l'anhydride sulfureux
-
-</td>
+<td></td>
+<td>Mêmes aliments que pour l'anhydride sulfureux</td>
+<td></td>
+<td>Mêmes limites de tolérance que pour l'anhydride sulfureux</td>
 </tr>
 <tr>
 <td>S.4</td>
 <td>Sel sodique de l'acide p-hydroxyméthyl benzoïque</td>
-<td>Mêmes aliments que pour le benzoate de p-hydroxyméthyle
-
-</td>
-<td>1 000 p.p.m., calculé en benzoate de p-hydroxyméthyle
-
-</td>
+<td></td>
+<td>Mêmes aliments que pour le benzoate de p-hydroxyméthyle</td>
+<td></td>
+<td>1 000 p.p.m., calculé en benzoate de p-hydroxyméthyle</td>
 </tr>
 <tr>
 <td>S.5</td>
-<td>Sel sodique de l'acide  p-hydroxypropyl</td>
-<td>Mêmes aliments que pour le benzoate de p-hydroxypropyle
-
-</td>
-<td>1 000 p.p.m., calculé en benzoate de p-hydroxypropyle
-
-</td>
+<td>Sel sodique de l'acide p-hydroxypropyl</td>
+<td></td>
+<td>Mêmes aliments que pour le benzoate de p-hydroxypropyle</td>
+<td></td>
+<td>1 000 p.p.m., calculé en benzoate de p-hydroxypropyle</td>
 </tr>
 <tr>
 <td>S.6</td>
 <td>Sorbate de sodium</td>
-<td>Mêmes aliments que pour l'acide sorbique
-
-</td>
-<td>Mêmes limites de tolérance que pour l'acide sorbique
-
-</td>
+<td></td>
+<td>Mêmes aliments que pour l'acide sorbique</td>
+<td></td>
+<td>Mêmes limites de tolérance que pour l'acide sorbique</td>
 </tr>
 <tr>
 <td>S.7</td>
 <td>Sulfite de sodium</td>
-<td>Mêmes aliments que pour l'anhydride sulfureux
-
-</td>
-<td>Mêmes limites de tolérance que pour l'anhydride sulfureux
-
-</td>
+<td></td>
+<td>Mêmes aliments que pour l'anhydride sulfureux</td>
+<td></td>
+<td>Mêmes limites de tolérance que pour l'anhydride sulfureux</td>
 </tr>
 <tr>
 <td>S.8</td>
 <td>Dithionite de sodium</td>
-<td>Mêmes aliments que pour l'anhydride sulfureux
-
-</td>
-<td>Mêmes limites de tolérance que pour l'anhydride sulfureux
-
-</td>
+<td></td>
+<td>Mêmes aliments que pour l'anhydride sulfureux</td>
+<td></td>
+<td>Mêmes limites de tolérance que pour l'anhydride sulfureux</td>
 </tr>
 <tr>
 <td>S.9</td>
 <td>Acide sorbique</td>
-<td>**(1)** Confiture de pommes (ou de rhubarbe) et de (nom du fruit); marmelade de figues avec pectine; jus de fruit sauf le jus d'orange concentré congelé; confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; gelée de (nom du fruit) avec pectine; marmelade de (nom de l'agrume) avec pectine; mincemeat; marinades et achards (relish); marmelade d'ananas avec pectine; poisson desséché, fumé ou salé; pâte de poisson fumé ou salé; sirop (nom de la source de glucose); ketchup de tomates; pâte de tomates; pulpe de tomates; purée de tomates
-
-</td>
-<td>**(1)** 1 000 p.p.m.
-
-</td>
+<td>(1)</td>
+<td>Confiture de pommes (ou de rhubarbe) et de (nom du fruit); marmelade de figues avec pectine; jus de fruit sauf le jus d'orange concentré congelé; confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; gelée de (nom du fruit) avec pectine; marmelade de (nom de l'agrume) avec pectine; mincemeat; marinades et achards (relish); marmelade d'ananas avec pectine; poisson desséché, fumé ou salé; pâte de poisson fumé ou salé; sirop (nom de la source de glucose); ketchup de tomates; pâte de tomates; pulpe de tomates; purée de tomates</td>
+<td>(1)</td>
+<td>1 000 p.p.m.</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Aliments non normalisés [à l'exception des préparations non normalisées de
-
-**a)** viande et sous-produits de viande (Titres 14 et 21);
-
-**b)** poisson; et
-
-**c)** viande de volaille et sous-produits de viande de volaille]
-
-</td>
-<td>**(2)** 1 000 p.p.m.
-
-</td>
+<td>(2)</td>
+<td>Aliments non normalisés [à l'exception des préparations non normalisées de</td>
+<td>(2)</td>
+<td>1 000 p.p.m.</td>
 </tr>
 <tr>
 <td></td>
-</tr>
-<tr>
 <td></td>
-</tr>
-<tr>
+<td></td>
+<td>a) viande et sous-produits de viande (Titres 14 et 21);</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Saumure d'olive
-
-</td>
-<td>**(3)** 300 p.p.m.
-
-</td>
+<td></td>
+<td>b) poisson; et</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(4)** Margarine
-
-</td>
-<td>**(4)** Si utilisé seul ou en association avec de l'acide benzoïque, la quantité totale ne doit pas excéder 1 000 p.p.m.
-
-</td>
+<td></td>
+<td>c) viande de volaille et sous-produits de viande de volaille]</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(5)** Vinaigrettes non normalisées
-
-</td>
-<td>**(5)** 3 350 p.p.m.
-
-</td>
+<td>(3)</td>
+<td>Saumure d'olive</td>
+<td>(3)</td>
+<td>300 p.p.m.</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(4)</td>
+<td>Margarine</td>
+<td>(4)</td>
+<td>Si utilisé seul ou en association avec de l'acide benzoïque, la quantité totale ne doit pas excéder 1 000 p.p.m.</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(5)</td>
+<td>Vinaigrettes non normalisées</td>
+<td>(5)</td>
+<td>3 350 p.p.m.</td>
 </tr>
 <tr>
 <td>S.10</td>
 <td>Anhydride sulfureux</td>
-<td>**(1)** Cidre; vin de miel; vin
-
-</td>
-<td>**(1)** 70 p.p.m. à l'état libre, ou 350 p.p.m. en combinaison, calculé en anhydride sulfureux
-
-</td>
+<td>(1)</td>
+<td>Cidre; vin de miel; vin</td>
+<td>(1)</td>
+<td>70 p.p.m. à l'état libre, ou 350 p.p.m. en combinaison, calculé en anhydride sulfureux</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Ale; bière; bière légère; liqueur de malt; porter; stout
-
-</td>
-<td>**(2)** 15 p.p.m., calculé en anhydride sulfureux
-
-</td>
+<td>(2)</td>
+<td>Ale; bière; bière légère; liqueur de malt; porter; stout</td>
+<td>(2)</td>
+<td>15 p.p.m., calculé en anhydride sulfureux</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Confiture de pommes (ou de rhubarbe) et de (nom du fruit); mélasse qualité fantaisie; marmelade de figues avec pectine; pommes tranchées et congelées; jus de fruit sauf le jus d'orange concentré congelé; gélatine; confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; gelée de (nom du fruit) avec pectine; marmelade de (nom de l'agrume) avec pectine; mincemeat; cornichons et achards (relish); marmelade d'ananas avec pectine; sirop (nom de la source de glucose); mélasse de raffinerie; mélasse de table; ketchup de tomates; pâte de tomates; pulpe de tomates; purée de tomates
-
-</td>
-<td>**(3)** 500 p.p.m., calculé en anhydride sulfureux
-
-</td>
+<td>(3)</td>
+<td>Confiture de pommes (ou de rhubarbe) et de (nom du fruit); mélasse qualité fantaisie; marmelade de figues avec pectine; pommes tranchées et congelées; jus de fruit sauf le jus d'orange concentré congelé; gélatine; confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; gelée de (nom du fruit) avec pectine; marmelade de (nom de l'agrume) avec pectine; mincemeat; cornichons et achards (relish); marmelade d'ananas avec pectine; sirop (nom de la source de glucose); mélasse de raffinerie; mélasse de table; ketchup de tomates; pâte de tomates; pulpe de tomates; purée de tomates</td>
+<td>(3)</td>
+<td>500 p.p.m., calculé en anhydride sulfureux</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(4)** Boissons
-
-</td>
-<td>**(4)** 100 p.p.m., calculé en anhydride sulfureux
-
-</td>
+<td>(4)</td>
+<td>Boissons</td>
+<td>(4)</td>
+<td>100 p.p.m., calculé en anhydride sulfureux</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(5)** Fruits et légumes desséchés
-
-</td>
-<td>**(5)** 2 500 p.p.m., calculé en anhydride sulfureux
-
-</td>
+<td>(5)</td>
+<td>Fruits et légumes desséchés</td>
+<td>(5)</td>
+<td>2 500 p.p.m., calculé en anhydride sulfureux</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(6)** Aliments non normalisés, [à l'exception des aliments reconnus comme sources de thiamine et des préparations non normalisées de(6)500 p.p.m., calculé en anhydride sulfureux, en conformité de l'article B.16.004
-
-**a)** viande et sous-produits de viande (Titres 14 et 21);
-
-**b)** poisson; et
-
-**c)** viande de volaille et sous-produits de viande de volaille]
-
-</td>
-<td></td>
+<td>(6)</td>
+<td>Aliments non normalisés, [à l'exception des aliments reconnus comme sources de thiamine et des préparations non normalisées de</td>
+<td>(6)</td>
+<td>500 p.p.m., calculé en anhydride sulfureux</td>
 </tr>
 <tr>
 <td></td>
-</tr>
-<tr>
 <td></td>
-</tr>
-<tr>
+<td></td>
+<td>a) viande et sous-produits de viande (Titres 14 et 21);</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(7)** Champignons congelés
-
-</td>
-<td>**(7)** 90 p.p.m, calculé en anhydride sulfureux
-
-</td>
-</tr>
-<tr>
 <td></td>
-<td></td>
-<td>**(8)** Dextrose anhydre; monohydrate de dextrose
-
-</td>
-<td>**(8)** 20 p.p.m., calculé en anhydride sulfureux
-
-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>**(9)** Glucose ou sirop de glucose
-
-</td>
-<td>**(9)** 40 p.p.m., sauf pour le glucose ou le sirop de glucose utilisés pour la fabrication des confiseries, pas plus de 400 p.p.m. calculé en anhydride sulfureux
-
-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>**(10)** Solides de glucose ou sirop de glucose déshydraté
-
-</td>
-<td>**(10)** 40 p.p.m., sauf pour les solides de glucose ou le sirop de glucose déshydraté utilisés pour la fabrication des confiseries, pas plus de 150 p.p.m. calculé en anhydride sulfureux
-
-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>**(11)** Crustacés
-
-</td>
-<td>**(11)** Bonnes pratiques industrielles. Les résidus dans la partie comestible du produit non cuit ne doivent pas dépasser 100 p.p.m., calculé en anhydride sulfureux.
-
-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
+<td>b) poisson; et</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>PARTIE III</td>
+<td></td>
+<td></td>
+<td></td>
+<td>c) viande de volaille et sous-produits de viande de volaille]</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>ADDITIFS ALIMENTAIRES AUTORISÉS COMME AGENTS DE CONSERVATION DE LA CATÉGORIE III</td>
+<td></td>
+<td></td>
+<td>(7)</td>
+<td>Champignons congelés</td>
+<td>(7)</td>
+<td>90 p.p.m, calculé en anhydride sulfureux</td>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
+<td></td>
+<td></td>
+<td>(8)</td>
+<td>Dextrose anhydre; monohydrate de dextrose</td>
+<td>(8)</td>
+<td>20 p.p.m., calculé en anhydride sulfureux</td>
 </tr>
+<tr>
+<td></td>
+<td></td>
+<td>(9)</td>
+<td>Glucose ou sirop de glucose</td>
+<td>(9)</td>
+<td>40 p.p.m., sauf pour le glucose ou le sirop de glucose utilisés pour la fabrication des confiseries, pas plus de 400 p.p.m. calculé en anhydride sulfureux</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(10)</td>
+<td>Solides de glucose ou sirop de glucose déshydraté</td>
+<td>(10)</td>
+<td>40 p.p.m., sauf pour les solides de glucose ou le sirop de glucose déshydraté utilisés pour la fabrication des confiseries, pas plus de 150 p.p.m. calculé en anhydride sulfureux</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(11)</td>
+<td>Crustacés</td>
+<td>(11)</td>
+<td>Bonnes pratiques industrielles. Les résidus dans la partie comestible du produit non cuit ne doivent pas dépasser 100 p.p.m., calculé en anhydride sulfureux.</td>
+</tr>
+</table>
+
+#### PARTIE III
+<table>
+<h4>ADDITIFS ALIMENTAIRES AUTORISÉS COMME AGENTS DE CONSERVATION DE LA CATÉGORIE III</h4>
 <tr>
 <th></th>
 <th>Colonne I</th>
@@ -28903,237 +27872,202 @@ Vert solide FCF
 <th>Limites de tolérance</th>
 </tr>
 <tr>
-<th> </th>
-</tr>
-<tr>
 <td>C.1</td>
 <td>Propionate de calcium</td>
-<td>**(1)** Mêmes aliments que pour l'acide propionique
-
-</td>
-<td>**(1)** 2 000 p.p.m., calculé sous forme d’acide propionique
-
-</td>
+<td>(1)</td>
+<td>Mêmes aliments que pour l'acide propionique</td>
+<td>(1)</td>
+<td>2 000 p.p.m., calculé sous forme d’acide propionique</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Tortillas molles
-
-</td>
-<td>**(2)** 4 000 p.p.m.
-
-</td>
+<td>(2)</td>
+<td>Tortillas molles</td>
+<td>(2)</td>
+<td>4 000 p.p.m.</td>
 </tr>
 <tr>
 <td>C.2</td>
 <td>Sorbate de calcium</td>
-<td>Mêmes aliments que pour l'acide sorbique
-
-</td>
-<td>Mêmes limites de tolérance que pour l'acide sorbique
-
-</td>
+<td></td>
+<td>Mêmes aliments que pour l'acide sorbique</td>
+<td></td>
+<td>Mêmes limites de tolérance que pour l'acide sorbique</td>
 </tr>
 <tr>
 <td>N.1</td>
 <td>Natamycine</td>
-<td>**(1)** La surface du fromage (indication de la variété) et du fromage cheddar
-
-</td>
-<td>**(1)** 20 p.p.m., conformément aux exigences des articles B.08.033 et B.08.034
-
-</td>
+<td>(1)</td>
+<td>La surface du fromage (indication de la variété) et du fromage cheddar</td>
+<td>(1)</td>
+<td>20 p.p.m., conformément aux exigences des articles B.08.033 et B.08.034</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** La surface du fromage râpé fin ou en filaments (indication de la variété) et du fromage cheddar râpé fin ou en filaments
-
-</td>
-<td>**(2)** 10 p.p.m., conformément aux exigences des articles B.08.033 et B.08.034
-
-</td>
+<td>(2)</td>
+<td>La surface du fromage râpé fin ou en filaments (indication de la variété) et du fromage cheddar râpé fin ou en filaments</td>
+<td>(2)</td>
+<td>10 p.p.m., conformément aux exigences des articles B.08.033 et B.08.034</td>
 </tr>
 <tr>
 <td>P.1</td>
 <td>Sorbate de potassium</td>
-<td>**(1)** Mêmes aliments que pour l'acide sorbique
-
-</td>
-<td>**(1)** Mêmes limites de tolérance que pour l'acide sorbique
-
-</td>
+<td>(1)</td>
+<td>Mêmes aliments que pour l'acide sorbique</td>
+<td>(1)</td>
+<td>Mêmes limites de tolérance que pour l'acide sorbique</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Tortillas molles
-
-</td>
-<td>**(2)** 5 000 p.p.m.
-
-</td>
+<td>(2)</td>
+<td>Tortillas molles</td>
+<td>(2)</td>
+<td>5 000 p.p.m.</td>
 </tr>
 <tr>
 <td>P.2</td>
 <td>Acide propionique</td>
-<td>**(1)** Pain
-
-</td>
-<td>**(1)** 2 000 p.p.m.
-
-</td>
+<td>(1)</td>
+<td>Pain</td>
+<td>(1)</td>
+<td>2 000 p.p.m.</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Fromage (indication de la variété); fromage cheddar; fromage à la crème; fromage à la crème (avec indication des ingrédients ajoutés); fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés); fromage conditionné à froid (indication de la variété); fromage conditionné à froid (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage conditionné à froid; préparation de fromage conditionné à froid (avec indication des ingrédients ajoutés)
-
-</td>
-<td>**(2)** 2 000 p.p.m. ou 3 000 p.p.m., suivant le cas, conformément aux exigences des articles B.08.033, B.08.034, B.08.035, B.08.037, B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3, B.08.041.4, B.08.041.5, B.08.041.6, B.08.041.7 et B.08.041.8
-
-</td>
+<td>(2)</td>
+<td>Fromage (indication de la variété); fromage cheddar; fromage à la crème; fromage à la crème (avec indication des ingrédients ajoutés); fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés); fromage conditionné à froid (indication de la variété); fromage conditionné à froid (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage conditionné à froid; préparation de fromage conditionné à froid (avec indication des ingrédients ajoutés)</td>
+<td>(2)</td>
+<td>2 000 p.p.m. ou 3 000 p.p.m., suivant le cas, conformément aux exigences des articles B.08.033, B.08.034, B.08.035, B.08.037, B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3, B.08.041.4, B.08.041.5, B.08.041.6, B.08.041.7 et B.08.041.8</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Aliments non normalisés, à l'exception des préparations non normalisées
-
-**a)** de viande et de sous-produits de viande (titres 14 et 21);
-
-**b)** de poisson; et
-
-**c)** de viande de volaille et de sous-produits de viande de volaille
-
-</td>
-<td>**(3)** 2 000 p.p.m.
-
-</td>
+<td>(3)</td>
+<td>Aliments non normalisés, à l'exception des préparations non normalisées</td>
+<td>(3)</td>
+<td>2 000 p.p.m.</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td>a) de viande et de sous-produits de viande (titres 14 et 21);</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
+<td></td>
+<td></td>
+<td>b) de poisson; et</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td>c) de viande de volaille et de sous-produits de viande de volaille</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>S.1</td>
 <td>Diacétate de sodium</td>
-<td>**(1)** Pain;
-
-</td>
-<td>**(1)** 3 000 p.p.m.
-
-</td>
+<td>(1)</td>
+<td>Pain;</td>
+<td>(1)</td>
+<td>3 000 p.p.m.</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Aliments non normalisés, [à l'exception des préparations non normalisées de
-
-**a)** viande et sous-produits de viande (Titres 14 et 21);
-
-**b)** poisson; et
-
-**c)** viande de volaille et sous-produits de viande de volaille]
-
-</td>
-<td>**(2)** 3 000 p.p.m.
-
-</td>
+<td>(2)</td>
+<td>Aliments non normalisés, [à l'exception des préparations non normalisées de</td>
+<td>(2)</td>
+<td>3 000 p.p.m.</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td>a) viande et sous-produits de viande (Titres 14 et 21);</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
+<td>b) poisson; et</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td>c) viande de volaille et sous-produits de viande de volaille]</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>S.2</td>
 <td>Propionate de sodium</td>
-<td>Mêmes aliments que pour l'acide propionique
-
-</td>
-<td>2 000 p.p.m., calculé en acide propionique
-
-</td>
+<td></td>
+<td>Mêmes aliments que pour l'acide propionique</td>
+<td></td>
+<td>2 000 p.p.m., calculé en acide propionique</td>
 </tr>
 <tr>
 <td>S.3</td>
 <td>Sorbate de sodium</td>
-<td>Mêmes aliments que pour l'acide sorbique
-
-</td>
-<td>Mêmes limites de tolérance que pour l'acide sorbique
-
-</td>
+<td></td>
+<td>Mêmes aliments que pour l'acide sorbique</td>
+<td></td>
+<td>Mêmes limites de tolérance que pour l'acide sorbique</td>
 </tr>
 <tr>
 <td>S.4</td>
 <td>Acide sorbique</td>
-<td>**(1)** Pain
-
-</td>
-<td>**(1)** 1 000 p.p.m.
-
-</td>
+<td>(1)</td>
+<td>Pain</td>
+<td>(1)</td>
+<td>1 000 p.p.m.</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Fromage (indication de la variété); fromage cheddar; fromage à la crème; fromage à la crème (avec indication des ingrédients ajoutés); fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés); fromage conditionné à froid (indication de la variété); fromage conditionné à froid (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage conditionné à froid; préparation de fromage conditionné à froid (avec indication des ingrédients ajoutés)
-
-</td>
-<td>**(2)** 3 000 p.p.m., conformément aux exigences des articles B.08.033, B.08.034, B.08.035, B.08.037, B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3, B.08.041.4, B.08.041.5, B.08.041.6, B.08.041.7 et B.08.041.8
-
-</td>
+<td>(2)</td>
+<td>Fromage (indication de la variété); fromage cheddar; fromage à la crème; fromage à la crème (avec indication des ingrédients ajoutés); fromage à la crème à tartiner; fromage à la crème à tartiner (avec indication des ingrédients ajoutés); fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés); fromage conditionné à froid (indication de la variété); fromage conditionné à froid (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage conditionné à froid; préparation de fromage conditionné à froid (avec indication des ingrédients ajoutés)</td>
+<td>(2)</td>
+<td>3 000 p.p.m., conformément aux exigences des articles B.08.033, B.08.034, B.08.035, B.08.037, B.08.038, B.08.039, B.08.040, B.08.041, B.08.041.1, B.08.041.2, B.08.041.3, B.08.041.4, B.08.041.5, B.08.041.6, B.08.041.7 et B.08.041.8</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Cidre; vin; vin de miel
-
-</td>
-<td>**(3)** 500 p.p.m.
-
-</td>
+<td>(3)</td>
+<td>Cidre; vin; vin de miel</td>
+<td>(3)</td>
+<td>500 p.p.m.</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(4)** Aliments non normalisés, à l'exception des préparations non normalisées
-
-**a)** de viande et de sous-produits de viande (titres 14 et 21),
-
-**b)** de poisson; et
-
-**c)** de viande de volaille et de sous-produits de viande de volaille
-
-</td>
-<td>**(4)** 1 000 p.p.m.
-
-</td>
+<td>(4)</td>
+<td>Aliments non normalisés, à l'exception des préparations non normalisées</td>
+<td>(4)</td>
+<td>1 000 p.p.m.</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-</tr>
-<tr>
 <td></td>
-<td></td>
-</tr>
-<tr>
+<td>a) de viande et de sous-produits de viande (titres 14 et 21),</td>
 <td></td>
 <td></td>
 </tr>
@@ -29141,20 +28075,23 @@ Vert solide FCF
 <td></td>
 <td></td>
 <td></td>
+<td>b) de poisson; et</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
-<td>PARTIE IV</td>
+<td></td>
+<td></td>
+<td></td>
+<td>c) de viande de volaille et de sous-produits de viande de volaille</td>
+<td></td>
+<td></td>
 </tr>
-<tr>
-<td>ADDITIFS ALIMENTAIRES AUTORISÉS COMME AGENTS DE CONSERVATION DE LA CATÉGORIE IV</td>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
+</table>
+
+#### PARTIE IV
+<table>
+<h4>ADDITIFS ALIMENTAIRES AUTORISÉS COMME AGENTS DE CONSERVATION DE LA CATÉGORIE IV</h4>
 <tr>
 <th></th>
 <th>Colonne I</th>
@@ -29168,805 +28105,775 @@ Vert solide FCF
 <th>Limites de tolérance</th>
 </tr>
 <tr>
-<th> </th>
-</tr>
-<tr>
 <td>A.1</td>
 <td>Acide ascorbique</td>
-<td>**(1)** Huiles et graisses; saindoux; monoglycérides et diglycérides; *shortening*
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Huiles et graisses; saindoux; monoglycérides et diglycérides; *shortening*</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Aliments non normalisés
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Aliments non normalisés</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>A.2</td>
-<td>Palmitate  d'ascorbyle</td>
-<td>**(1)** Huiles et graisses; saindoux; monoglycérides et diglycérides; *shortening*
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>Palmitate d'ascorbyle</td>
+<td>(1)</td>
+<td>Huiles et graisses; saindoux; monoglycérides et diglycérides; *shortening*</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Aliments non normalisés, [à l'exception des préparations non normalisées de
-
-**a)** viande et sous-produits de viande (Titres 14 et 21);
-
-**b)** poisson; et
-
-**c)** viande de volaille et sous-produits de viande de volaille]
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Aliments non normalisés, [à l'exception des préparations non normalisées de</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td>a) viande et sous-produits de viande (Titres 14 et 21);</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-</tr>
-<tr>
+<td></td>
+<td>b) poisson; et</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Margarine
-
-</td>
-<td>**(3)** 0,02 % de la teneur en gras. Si on emploie aussi le stéarate d'ascorbyle, la quantité totale ne doit pas excéder 0,02 % de la teneur en gras
-
-</td>
+<td></td>
+<td>c) viande de volaille et sous-produits de viande de volaille]</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(3)</td>
+<td>Margarine</td>
+<td>(3)</td>
+<td>0,02 % de la teneur en gras. Si on emploie aussi le stéarate d'ascorbyle, la quantité totale ne doit pas excéder 0,02 % de la teneur en gras</td>
 </tr>
 <tr>
 <td>A.3</td>
-<td>Stéarate  d'ascorbyle</td>
-<td>**(1)** Graisses et huiles; saindoux; monoglycérides et diglycérides; *shortening*
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>Stéarate d'ascorbyle</td>
+<td>(1)</td>
+<td>Graisses et huiles; saindoux; monoglycérides et diglycérides; *shortening*</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Margarine
-
-</td>
-<td>**(2)** 0,02 % de la teneur en gras. Si on emploie aussi le palmitate d'ascorbyle, la quantité totale ne doit pas excéder 0,02 % de la teneur en gras
-
-</td>
+<td>(2)</td>
+<td>Margarine</td>
+<td>(2)</td>
+<td>0,02 % de la teneur en gras. Si on emploie aussi le palmitate d'ascorbyle, la quantité totale ne doit pas excéder 0,02 % de la teneur en gras</td>
 </tr>
 <tr>
 <td>B.1</td>
 <td>Hydroxyanisole butylé (mélange de 2-tertiobutyl-4-hydroxyanisole et de 3-tertiobutyl-4-hydroxyanisole)</td>
-<td>**(1)** Graisses et huiles, saindoux, shortening
-
-</td>
-<td>**(1)** 0,02 %. Si on emploie aussi l'hydroxytoluène butylé, l'hydroquinone de butyle tertiaire ou le gallate de propyle, la quantité totale ne doit pas dépasser 0,02 %
-
-</td>
+<td>(1)</td>
+<td>Graisses et huiles, saindoux, shortening</td>
+<td>(1)</td>
+<td>0,02 %. Si on emploie aussi l'hydroxytoluène butylé, l'hydroquinone de butyle tertiaire ou le gallate de propyle, la quantité totale ne doit pas dépasser 0,02 %</td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Céréales à déjeuner sèches; produits déshydratés de pommes de terre
-
-</td>
-<td>**(2)** 0,005 %. Si on emploie aussi l'hydroxytoluène butylé ou le gallate de propyle, la quantité ne doit pas en dépasser 0,005 %
-
-</td>
+<td></td>
+<td>(2)</td>
+<td>Céréales à déjeuner sèches; produits déshydratés de pommes de terre</td>
+<td>(2)</td>
+<td>0,005 %. Si on emploie aussi l'hydroxytoluène butylé ou le gallate de propyle, la quantité ne doit pas en dépasser 0,005 %</td>
 </tr>
 <tr>
 <td></td>
-<td>**(3)** Gomme à mâcher
-
-</td>
-<td>**(3)** 0,02 %. Si on emploie aussi l'hydroxytoluène butylé ou le gallate de propyle, la quantité ne doit pas en dépasser 0,02 %
-
-</td>
+<td></td>
+<td>(3)</td>
+<td>Gomme à mâcher</td>
+<td>(3)</td>
+<td>0,02 %. Si on emploie aussi l'hydroxytoluène butylé ou le gallate de propyle, la quantité ne doit pas en dépasser 0,02 %</td>
 </tr>
 <tr>
 <td></td>
-<td>**(4)** Huiles essentielles; essences à base d'huile d'agrumes; substances aromatiques sèches
-
-</td>
-<td>**(4)** 0,125 %. Si on emploie aussi l'hydroxytoluène butylé ou le gallate de propyle, la quantité ne doit pas en dépasser 0,125 %
-
-</td>
+<td></td>
+<td>(4)</td>
+<td>Huiles essentielles; essences à base d'huile d'agrumes; substances aromatiques sèches</td>
+<td>(4)</td>
+<td>0,125 %. Si on emploie aussi l'hydroxytoluène butylé ou le gallate de propyle, la quantité ne doit pas en dépasser 0,125 %</td>
 </tr>
 <tr>
 <td></td>
-<td>**(5)** Huiles d'agrumes
-
-</td>
-<td>**(5)** 0,5 %. Si on emploie aussi l'hydroxytoluène butylé ou le gallate de propyle, la quantité ne doit pas en dépasser 0,5 %
-
-</td>
+<td></td>
+<td>(5)</td>
+<td>Huiles d'agrumes</td>
+<td>(5)</td>
+<td>0,5 %. Si on emploie aussi l'hydroxytoluène butylé ou le gallate de propyle, la quantité ne doit pas en dépasser 0,5 %</td>
 </tr>
 <tr>
 <td></td>
-<td>**(6)** Tissus gras de porc ou de boeuf partiellement dégraissés
-
-</td>
-<td>**(6)** 0,0065 %. Si on emploie aussi l'hydroxytoluène butylé, la quantité ne doit pas en dépasser 0,0065 %
-
-</td>
+<td></td>
+<td>(6)</td>
+<td>Tissus gras de porc ou de boeuf partiellement dégraissés</td>
+<td>(6)</td>
+<td>0,0065 %. Si on emploie aussi l'hydroxytoluène butylé, la quantité ne doit pas en dépasser 0,0065 %</td>
 </tr>
 <tr>
 <td></td>
-<td>**(7)** Liquides renfermant de la vitamine A et devant servir d'additifs alimentaires
-
-</td>
-<td>**(7)** 5 mg/1 000 000 unités internationales
-
-</td>
+<td></td>
+<td>(7)</td>
+<td>Liquides renfermant de la vitamine A et devant servir d'additifs alimentaires</td>
+<td>(7)</td>
+<td>5 mg/1 000 000 unités internationales</td>
 </tr>
 <tr>
 <td></td>
-<td>**(8)** Mélanges en poudre pour boissons; mélanges en poudre pour desserts et sucreries
-
-</td>
-<td>**(8)** 0,009 %
-
-</td>
+<td></td>
+<td>(8)</td>
+<td>Mélanges en poudre pour boissons; mélanges en poudre pour desserts et sucreries</td>
+<td>(8)</td>
+<td>0,009 %</td>
 </tr>
 <tr>
 <td></td>
-<td>**(9)** Levure active séchée
-
-</td>
-<td>**(9)** 0,1 %
-
-</td>
+<td></td>
+<td>(9)</td>
+<td>Levure active séchée</td>
+<td>(9)</td>
+<td>0,1 %</td>
 </tr>
 <tr>
 <td></td>
-<td>**(10)** Autres aliments non normalisés, [à l'exception des préparations non normalisées de
-
-**a)** viande et sous-produits de viande (Titres 14 et 21);
-
-**b)** poisson; et
-
-**c)** viande de volaille et sous-produits de viande de volaille]
-
-</td>
-<td>**(10)** 0,02 % de la teneur de l'aliment en gras ou en huile. Si on emploie aussi l'hydroxytoluène butylé ou le gallate de propyle, la quantité ne doit pas en dépasser 0,02 % de la teneur de l'aliment en gras ou en huile
-
-</td>
+<td></td>
+<td>(10)</td>
+<td>Autres aliments non normalisés, [à l'exception des préparations non normalisées de</td>
+<td>(10)</td>
+<td>0,02 % de la teneur de l'aliment en gras ou en huile. Si on emploie aussi l'hydroxytoluène butylé ou le gallate de propyle, la quantité ne doit pas en dépasser 0,02 % de la teneur de l'aliment en gras ou en huile</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td>a) viande et sous-produits de viande (Titres 14 et 21);</td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-</tr>
-<tr>
+<td></td>
+<td></td>
+<td>b) poisson; et</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td>**(11)** Préparations sèches de vitamine D devant être ajoutées aux aliments
-
-</td>
-<td>**(11)** 10 mg/1 000 000 unités internationales
-
-</td>
+<td></td>
+<td></td>
+<td>c) viande de volaille et sous-produits de viande de volaille]</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td>**(12)** Margarine
-
-</td>
-<td>**(12)** 0,01 % de la teneur en gras. Si on emploie aussi l'hydroxytoluène butylé ou le gallate de propyle ou les deux, la quantité totale ne doit pas excéder 0,01 % de la teneur en gras
-
-</td>
+<td></td>
+<td>(11)</td>
+<td>Préparations sèches de vitamine D devant être ajoutées aux aliments</td>
+<td>(11)</td>
+<td>10 mg/1 000 000 unités internationales</td>
 </tr>
 <tr>
 <td></td>
-<td>**(13)** Viande de volaille cuite et séchée
-
-</td>
-<td>**(13)** 0,015 % de la teneur en gras. Si on emploie aussi le gallate de propyle ou l'acide citrique, ou les deux, la quantité totale ne doit pas excéder 0,015 % de la teneur en gras.
-
-</td>
+<td></td>
+<td>(12)</td>
+<td>Margarine</td>
+<td>(12)</td>
+<td>0,01 % de la teneur en gras. Si on emploie aussi l'hydroxytoluène butylé ou le gallate de propyle ou les deux, la quantité totale ne doit pas excéder 0,01 % de la teneur en gras</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(13)</td>
+<td>Viande de volaille cuite et séchée</td>
+<td>(13)</td>
+<td>0,015 % de la teneur en gras. Si on emploie aussi le gallate de propyle ou l'acide citrique, ou les deux, la quantité totale ne doit pas excéder 0,015 % de la teneur en gras.</td>
 </tr>
 <tr>
 <td>B.2</td>
-<td>Hydroxytoluène  butylé (3,5-  ditertiobutyl-4-hydroxytoluène)</td>
-<td>**(1)** Graisses et huiles, saindoux, shortening
-
-</td>
-<td>**(1)** 0,02 %. Si on emploie aussi l'hydroxyanisole butylée, l'hydroquinone de butyle tertiaire ou le gallate de propyle, la quantité totale ne doit pas dépasser 0,02 %
-
-</td>
+<td>Hydroxytoluène butylé (3,5-ditertiobutyl-4-hydroxytoluène)</td>
+<td>(1)</td>
+<td>Graisses et huiles, saindoux, shortening</td>
+<td>(1)</td>
+<td>0,02 %. Si on emploie aussi l'hydroxyanisole butylée, l'hydroquinone de butyle tertiaire ou le gallate de propyle, la quantité totale ne doit pas dépasser 0,02 %</td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Céréales à déjeuner sèches; produits de pommes de terre déshydratés
-
-</td>
-<td>**(2)** 0,005 %. Si on emploie aussi l'hydroxyanisole butylé ou le gallate de propyle, la quantité ne doit pas en dépasser 0,005 %
-
-</td>
+<td></td>
+<td>(2)</td>
+<td>Céréales à déjeuner sèches; produits de pommes de terre déshydratés</td>
+<td>(2)</td>
+<td>0,005 %. Si on emploie aussi l'hydroxyanisole butylé ou le gallate de propyle, la quantité ne doit pas en dépasser 0,005 %</td>
 </tr>
 <tr>
 <td></td>
-<td>**(3)** Gomme à mâcher
-
-</td>
-<td>**(3)** 0,02 %. Si on emploie aussi l'hydroxyanisole butylé ou le gallate de propyle, la quantité ne doit pas en dépasser 0,02 %
-
-</td>
+<td></td>
+<td>(3)</td>
+<td>Gomme à mâcher</td>
+<td>(3)</td>
+<td>0,02 %. Si on emploie aussi l'hydroxyanisole butylé ou le gallate de propyle, la quantité ne doit pas en dépasser 0,02 %</td>
 </tr>
 <tr>
 <td></td>
-<td>**(4)** Huiles essentielles; essences à base d'huiles d'agrumes; substances aromatiques sèches
-
-</td>
-<td>**(4)** 0,125 %. Si on emploie aussi l'hydroxyanisole butylé, ou le gallate de propyle, la quantité ne doit pas en dépasser 0,125 %
-
-</td>
+<td></td>
+<td>(4)</td>
+<td>Huiles essentielles; essences à base d'huiles d'agrumes; substances aromatiques sèches</td>
+<td>(4)</td>
+<td>0,125 %. Si on emploie aussi l'hydroxyanisole butylé, ou le gallate de propyle, la quantité ne doit pas en dépasser 0,125 %</td>
 </tr>
 <tr>
 <td></td>
-<td>**(5)** Huiles d'agrumes
-
-</td>
-<td>**(5)** 0,5 %. Si on emploie aussi l'hydroxyanisole butylé ou le gallate de propyle, la quantité ne doit pas en dépasser 0,5 %
-
-</td>
+<td></td>
+<td>(5)</td>
+<td>Huiles d'agrumes</td>
+<td>(5)</td>
+<td>0,5 %. Si on emploie aussi l'hydroxyanisole butylé ou le gallate de propyle, la quantité ne doit pas en dépasser 0,5 %</td>
 </tr>
 <tr>
 <td></td>
-<td>**(6)** Tissus gras de porc ou de boeuf, partiellement dégraissés
-
-</td>
-<td>**(6)** 0,0065 %. Si on emploie aussi l'hydroxyanisole butylé, la quantité ne doit pas en dépasser 0,0065 %
-
-</td>
+<td></td>
+<td>(6)</td>
+<td>Tissus gras de porc ou de boeuf, partiellement dégraissés</td>
+<td>(6)</td>
+<td>0,0065 %. Si on emploie aussi l'hydroxyanisole butylé, la quantité ne doit pas en dépasser 0,0065 %</td>
 </tr>
 <tr>
 <td></td>
-<td>**(7)** Liquides renfermant de la vitamine A et devant servir d'additifs alimentaires
-
-</td>
-<td>**(7)** 5 mg/1 000 000 unités internationales
-
-</td>
+<td></td>
+<td>(7)</td>
+<td>Liquides renfermant de la vitamine A et devant servir d'additifs alimentaires</td>
+<td>(7)</td>
+<td>5 mg/1 000 000 unités internationales</td>
 </tr>
 <tr>
 <td></td>
-<td>**(8)** Riz à demi cuit
-
-</td>
-<td>**(8)** 0,0035 %
-
-</td>
+<td></td>
+<td>(8)</td>
+<td>Riz à demi cuit</td>
+<td>(8)</td>
+<td>0,0035 %</td>
 </tr>
 <tr>
 <td></td>
-<td>**(9)** Autres aliments non normalisés, [à l'exception des préparations non normalisées de
-
-**a)** viande et de sous-produits de viande (Titres 14 et 21);
-
-**b)** poisson; et
-
-**c)** viande de volaille et sous-produits de viande de volaille]
-
-</td>
-<td>**(9)** 0,02 % de la teneur des aliments en gras ou en huile. Si on emploie aussi l'hydroxyanisole butylé ou le gallate de propyle, la quantité ne doit pas en dépasser 0,02 % de la teneur de l'aliment en gras ou en huile
-
-</td>
+<td></td>
+<td>(9)</td>
+<td>Autres aliments non normalisés, [à l'exception des préparations non normalisées de</td>
+<td>(9)</td>
+<td>0,02 % de la teneur des aliments en gras ou en huile. Si on emploie aussi l'hydroxyanisole butylé ou le gallate de propyle, la quantité ne doit pas en dépasser 0,02 % de la teneur de l'aliment en gras ou en huile</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td>a) viande et de sous-produits de viande (Titres 14 et 21);</td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-</tr>
-<tr>
+<td></td>
+<td></td>
+<td>b) poisson; et</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td>**(10)** Préparations sèches de vitamine D à ajouter aux aliments
-
-</td>
-<td>**(10)** 10 mg/1 000 000 unités internationales
-
-</td>
+<td></td>
+<td></td>
+<td>c) viande de volaille et sous-produits de viande de volaille]</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td>**(11)** Margarine
-
-</td>
-<td>**(11)** 0,01 % de la teneur en gras. Si on emploie aussi l'hydroxyanisole butylé ou le gallate de propyle ou les deux, la quantité totale ne doit pas excéder 0,01 % de la teneur en gras
-
-</td>
+<td></td>
+<td>(10)</td>
+<td>Préparations sèches de vitamine D à ajouter aux aliments</td>
+<td>(10)</td>
+<td>10 mg/1 000 000 unités internationales</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(11)</td>
+<td>Margarine</td>
+<td>(11)</td>
+<td>0,01 % de la teneur en gras. Si on emploie aussi l'hydroxyanisole butylé ou le gallate de propyle ou les deux, la quantité totale ne doit pas excéder 0,01 % de la teneur en gras</td>
 </tr>
 <tr>
 <td>C.1</td>
 <td>Acide citrique</td>
-<td>**(1)** Graisses et huiles; saindoux; monoglycérides et diglycérides; *shortening*
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Graisses et huiles; saindoux; monoglycérides et diglycérides; *shortening*</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Aliments non normalisés, [à l'exception des préparations non normalisées de
-
-**a)** viande et sous-produits de viande (Titres 14 et 21);
-
-**b)** poisson; et
-
-**c)** viande de volaille et sous-produits de viande de volaille]
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Aliments non normalisés, [à l'exception des préparations non normalisées de</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td>a) viande et sous-produits de viande (Titres 14 et 21);</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-</tr>
-<tr>
+<td></td>
+<td>b) poisson; et</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Viande de volaille cuite et séchée
-
-</td>
-<td>**(3)** 0,015 % de la teneur en gras. Si on emploie aussi l'hydroxyanisole butylé ou le gallate de propyle, ou les deux, la quantité totale ne doit pas excéder 0,015 % de la teneur en gras.
-
-</td>
+<td></td>
+<td>c) viande de volaille et sous-produits de viande de volaille]</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(3)</td>
+<td>Viande de volaille cuite et séchée</td>
+<td>(3)</td>
+<td>0,015 % de la teneur en gras. Si on emploie aussi l'hydroxyanisole butylé ou le gallate de propyle, ou les deux, la quantité totale ne doit pas excéder 0,015 % de la teneur en gras.</td>
 </tr>
 <tr>
 <td>C.1.1</td>
 <td>L-cystéine</td>
-<td>Suppléments nutritifs conformes à l'article B.24.201
-
-</td>
-<td>Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>Suppléments nutritifs conformes à l'article B.24.201</td>
+<td></td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>C.2</td>
-<td>Chlorhydrate de  L-cystéine</td>
-<td>Formules de remplacement des sulfites pour les fruits et les légumes préparés
-
-</td>
-<td>Bonnes pratiques industrielles
-
-</td>
+<td>Chlorhydrate de L-cystéine</td>
+<td></td>
+<td>Formules de remplacement des sulfites pour les fruits et les légumes préparés</td>
+<td></td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>G.1</td>
 <td>Résine de gaïac</td>
-<td>**(1)** Graisses et huiles; saindoux; monoglycérides et diglycérides; *shortening*
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Graisses et huiles; saindoux; monoglycérides et diglycérides; *shortening*</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Aliments non normalisés, [à l'exception des préparations non normalisées de
-
-**a)** viande et sous-produits de viande (Titres 14 et 21);
-
-**b)** poisson; et
-
-**c)** viande de volaille et sous-produits de viande de volaille]
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Aliments non normalisés, [à l'exception des préparations non normalisées de</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td>a) viande et sous-produits de viande (Titres 14 et 21);</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
+<td>b) poisson; et</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td>c) viande de volaille et sous-produits de viande de volaille]</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>L.1</td>
 <td>Lécithine</td>
-<td>**(1)** Graisses et huiles; saindoux; monoglycérides et diglycérides; *shortening*
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Graisses et huiles; saindoux; monoglycérides et diglycérides; *shortening*</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Aliments non normalisés, [à l'exception des préparations non normalisées de
-
-**a)** viande et sous-produits de viande (Titres 14 et 21);
-
-**b)** poisson; et
-
-**c)** viande de volaille et sous-produits de viande de volaille]
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Aliments non normalisés, [à l'exception des préparations non normalisées de</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td>a) viande et sous-produits de viande (Titres 14 et 21);</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
+<td>b) poisson; et</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td>c) viande de volaille et sous-produits de viande de volaille]</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>L.2</td>
-<td>Citrate de  lécithine</td>
-<td>**(1)** Graisses et huiles; saindoux; monoglycérides et diglycérides; *shortening*
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>Citrate de lécithine</td>
+<td>(1)</td>
+<td>Graisses et huiles; saindoux; monoglycérides et diglycérides; *shortening*</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Aliments non normalisés, [à l'exception des préparations non normalisées de
-
-**a)** viande et sous-produits de viande (Titres 14 et 21);
-
-**b)** poisson; et
-
-**c)** viande de volaille et sous-produits de viande de volaille]
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Aliments non normalisés, [à l'exception des préparations non normalisées de</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td>a) viande et sous-produits de viande (Titres 14 et 21);</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
+<td>b) poisson; et</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td>c) viande de volaille et sous-produits de viande de volaille]</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>M.1</td>
 <td>Citrate de monoglycéride</td>
-<td>**(1)** Graisses et huiles; saindoux; monoglycérides et diglycérides; *shortening*
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Graisses et huiles; saindoux; monoglycérides et diglycérides; *shortening*</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Aliments non normalisés, [à l'exception des préparations non normalisées de
-
-**a)** viande et sous-produits de viande (Titres 14 et 21);
-
-**b)** poisson; et
-
-**c)** viande de volaille et sous-produits de viande de volaille]
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Aliments non normalisés, [à l'exception des préparations non normalisées de</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td>a) viande et sous-produits de viande (Titres 14 et 21);</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-</tr>
-<tr>
+<td></td>
+<td>b) poisson; et</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Margarine
-
-</td>
-<td>**(3)** 0,01 % de la teneur en gras. Si on emploie aussi le citrate de monoisopropyle ou le citrate de stéaryle ou les deux, la quantité totale ne doit pas excéder 0,01 % de la teneur en gras
-
-</td>
+<td></td>
+<td>c) viande de volaille et sous-produits de viande de volaille]</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(3)</td>
+<td>Margarine</td>
+<td>(3)</td>
+<td>0,01 % de la teneur en gras. Si on emploie aussi le citrate de monoisopropyle ou le citrate de stéaryle ou les deux, la quantité totale ne doit pas excéder 0,01 % de la teneur en gras</td>
 </tr>
 <tr>
 <td>M.2</td>
-<td>Citrate de  monoisopropyle</td>
-<td>**(1)** Graisses et huiles; saindoux; monoglycérides et diglycérides; *shortening*
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>Citrate de monoisopropyle</td>
+<td>(1)</td>
+<td>Graisses et huiles; saindoux; monoglycérides et diglycérides; *shortening*</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Aliments non normalisés, [à l'exception des préparations non normalisées de
-
-**a)** viande et sous-produits de viande (Titres 14 et 21);
-
-**b)** poisson; et
-
-**c)** viande de volaille et sous-produits de viande de volaille]
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Aliments non normalisés, [à l'exception des préparations non normalisées de</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td>a) viande et sous-produits de viande (Titres 14 et 21);</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-</tr>
-<tr>
+<td></td>
+<td>b) poisson; et</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Margarine
-
-</td>
-<td>**(3)** 0,01 % de la teneur en gras. Si on emploie aussi le citrate de monoglycéride ou le citrate de stéaryle ou les deux, la quantité totale ne doit pas excéder 0,01 % de la teneur en gras
-
-</td>
+<td></td>
+<td>c) viande de volaille et sous-produits de viande de volaille]</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(3)</td>
+<td>Margarine</td>
+<td>(3)</td>
+<td>0,01 % de la teneur en gras. Si on emploie aussi le citrate de monoglycéride ou le citrate de stéaryle ou les deux, la quantité totale ne doit pas excéder 0,01 % de la teneur en gras</td>
 </tr>
 <tr>
 <td>P.1</td>
 <td>Gallate de propyle</td>
-<td>**(1)** Graisses et huiles, saindoux, shortening
-
-</td>
-<td>**(1)** 0,02 %. Si on emploie aussi l'hydroxyanisole butylée, l'hydroxytoluène butylé, l'hydroquinone de butyle tertiaire, la quantité totale ne doit pas dépasser 0,02 %
-
-</td>
+<td>(1)</td>
+<td>Graisses et huiles, saindoux, shortening</td>
+<td>(1)</td>
+<td>0,02 %. Si on emploie aussi l'hydroxyanisole butylée, l'hydroxytoluène butylé, l'hydroquinone de butyle tertiaire, la quantité totale ne doit pas dépasser 0,02 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Céréales à déjeuner sèches; produits déshydratés de pommes de terre
-
-</td>
-<td>**(2)** 0,005 %. Si on emploie aussi l'hydroxyanisole butylé ou l'hydroxytoluène butylé, la quantité ne doit pas en dépasser 0,005 %
-
-</td>
+<td>(2)</td>
+<td>Céréales à déjeuner sèches; produits déshydratés de pommes de terre</td>
+<td>(2)</td>
+<td>0,005 %. Si on emploie aussi l'hydroxyanisole butylé ou l'hydroxytoluène butylé, la quantité ne doit pas en dépasser 0,005 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(3)** Gomme à mâcher
-
-</td>
-<td>**(3)** 0,02 %. Si on emploie aussi l'hydroxyanisole butylé ou l'hydroxytoluène butylé, la quantité ne doit pas en dépasser 0,02 %
-
-</td>
+<td>(3)</td>
+<td>Gomme à mâcher</td>
+<td>(3)</td>
+<td>0,02 %. Si on emploie aussi l'hydroxyanisole butylé ou l'hydroxytoluène butylé, la quantité ne doit pas en dépasser 0,02 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(4)** Huiles essentielles; substances aromatiques sèches
-
-</td>
-<td>**(4)** 0,125 %. Si on emploie aussi l'hydroxyanisole butylé ou l'hydroxytoluène butylé la quantité ne doit pas en dépasser 0,125 %
-
-</td>
+<td>(4)</td>
+<td>Huiles essentielles; substances aromatiques sèches</td>
+<td>(4)</td>
+<td>0,125 %. Si on emploie aussi l'hydroxyanisole butylé ou l'hydroxytoluène butylé la quantité ne doit pas en dépasser 0,125 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(5)** Huiles d'agrumes
-
-</td>
-<td>**(5)** 0,5 %. Si on emploie aussi l'hydroxyanisole butylé ou l'hydroxytoluène butylé, la quantité ne doit pas en dépasser 0,5 %
-
-</td>
+<td>(5)</td>
+<td>Huiles d'agrumes</td>
+<td>(5)</td>
+<td>0,5 %. Si on emploie aussi l'hydroxyanisole butylé ou l'hydroxytoluène butylé, la quantité ne doit pas en dépasser 0,5 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(6)** Autres aliments non normalisés, [à l'exception des préparations non normalisées de
-
-**a)** viande et sous-produits de viande (Titres 14 et 21);
-
-**b)** poisson; et
-
-**c)** viande de volaille et sous-produits de viande de volaille]
-
-</td>
-<td>**(6)** 0,02 % de la teneur de l'aliment en gras ou en huile. Si on emploie aussi l'hydroxyanisole butylé ou l'hydroxytoluène butylé, la quantité ne doit pas en dépasser 0,02 % de la teneur de l'aliment en gras ou en huile.
-
-</td>
+<td>(6)</td>
+<td>Autres aliments non normalisés, [à l'exception des préparations non normalisées de</td>
+<td>(6)</td>
+<td>0,02 % de la teneur de l'aliment en gras ou en huile. Si on emploie aussi l'hydroxyanisole butylé ou l'hydroxytoluène butylé, la quantité ne doit pas en dépasser 0,02 % de la teneur de l'aliment en gras ou en huile.</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td>a) viande et sous-produits de viande (Titres 14 et 21);</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>b) poisson; et</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-</tr>
-<tr>
+<td></td>
+<td>c) viande de volaille et sous-produits de viande de volaille]</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(7)** Margarine
-
-</td>
-<td>**(7)** 0,01 % de la teneur en gras. Si on emploie aussi l'hydroxyanisole butylé ou l'hydroxytoluène butylé ou les deux, la quantité totale ne doit pas excéder 0,01 % de la teneur en gras
-
-</td>
+<td>(7)</td>
+<td>Margarine</td>
+<td>(7)</td>
+<td>0,01 % de la teneur en gras. Si on emploie aussi l'hydroxyanisole butylé ou l'hydroxytoluène butylé ou les deux, la quantité totale ne doit pas excéder 0,01 % de la teneur en gras</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(8)** Viande de volaille cuite et séchée
-
-</td>
-<td>**(8)** 0,015 % de la teneur en gras. Si on emploie aussi l'hydroxyanisole butylé ou l'acide citrique, ou les deux, la quantité totale ne doit pas excéder 0,015 % de la teneur en gras.
-
-</td>
+<td>(8)</td>
+<td>Viande de volaille cuite et séchée</td>
+<td>(8)</td>
+<td>0,015 % de la teneur en gras. Si on emploie aussi l'hydroxyanisole butylé ou l'acide citrique, ou les deux, la quantité totale ne doit pas excéder 0,015 % de la teneur en gras.</td>
 </tr>
 <tr>
 <td>T.1</td>
 <td>Acide tartrique</td>
-<td>**(1)** Graisses et huiles; saindoux; monoglycérides et diglycérides; *shortening*
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Graisses et huiles; saindoux; monoglycérides et diglycérides; *shortening*</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(2)** Aliments non normalisés, [à l'exception des préparations non normalisées de
-
-**a)** viande et sous-produits de viande (Titres 14 et 21);
-
-**b)** poisson; et
-
-**c)** viande de volaille et sous-produits de viande de volaille]
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Aliments non normalisés, [à l'exception des préparations non normalisées de</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td>a) viande et sous-produits de viande (Titres 14 et 21);</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
+<td>b) poisson; et</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td>c) viande de volaille et sous-produits de viande de volaille]</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>T.1A</td>
 <td>Hydroquinone de butyle tertiaire</td>
-<td>Graisses et huiles, saindoux, shortening
-
-</td>
-<td>0,02 %. Si on emploie aussi l'hydroxyanisole butylée, l'hydroxytoluène butylé ou le gallate de propyle, la quantité totale ne doit pas dépasser 0,02 %
-
-</td>
+<td></td>
+<td>Graisses et huiles, saindoux, shortening</td>
+<td></td>
+<td>0,02 %. Si on emploie aussi l'hydroxyanisole butylée, l'hydroxytoluène butylé ou le gallate de propyle, la quantité totale ne doit pas dépasser 0,02 %</td>
 </tr>
 <tr>
 <td>T.2</td>
-<td>Tocophérols  (alphatocophérol; concentré de tocophérols mixtes)</td>
-<td>**(1)** Graisses et huiles; saindoux; monoglycérides et diglycérides; *shortening*
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>Tocophérols (alphatocophérol; concentré de tocophérols mixtes)</td>
+<td>(1)</td>
+<td>Graisses et huiles; saindoux; monoglycérides et diglycérides; *shortening*</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Aliments non normalisés, [à l'exception des préparations non normalisées de
-
-**a)** viande et sous-produits de viande (Titres 14 et 21);
-
-**b)** poisson; et
-
-**c)** viande de volaille et sous-produits de viande de volaille]
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(2)</td>
+<td>Aliments non normalisés, [à l'exception des préparations non normalisées de</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-</tr>
-<tr>
 <td></td>
-</tr>
-<tr>
+<td></td>
+<td>a) viande et sous-produits de viande (Titres 14 et 21);</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
+<td></td>
+<td>b) poisson; et</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>c) viande de volaille et sous-produits de viande de volaille]</td>
 <td></td>
 <td></td>
 </tr>
@@ -29992,714 +28899,601 @@ Vert solide FCF
 <th>Limites de tolérance</th>
 </tr>
 <tr>
-<th> </th>
-</tr>
-<tr>
 <td>A.1</td>
 <td>Citrate diammonique</td>
-<td>Aliments non normalisés
-
-</td>
-<td>Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>Aliments non normalisés</td>
+<td></td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>A.2</td>
 <td>Citrate monoammonique</td>
-<td>Aliments non normalisés
-
-</td>
-<td>Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>Aliments non normalisés</td>
+<td></td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>C.1</td>
 <td>Citrate de calcium</td>
-<td>Aliments non normalisés
-
-</td>
-<td>Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>Aliments non normalisés</td>
+<td></td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>C.2</td>
 <td>Versenate (Éthylènediaminetétracétate, ou EDTA) de calcium disodique</td>
-<td>**(1)** Ale; bière; bière légère; liqueur de malt; porter; stout
-
-</td>
-<td>**(1)** 25 p.p.m., sous forme anhydre
-
-</td>
+<td>(1)</td>
+<td>Ale; bière; bière légère; liqueur de malt; porter; stout</td>
+<td>(1)</td>
+<td>25 p.p.m., sous forme anhydre</td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Sauce vinaigrette; mayonnaise; sauce à salade; sauces et mayonnaises non normalisées
-
-</td>
-<td>**(2)** 75 p.p.m., sous forme anhydre
-
-</td>
-</tr>
-<tr>
-<td></td>
-<td>**(3)** Salade de pommes de terre; garnitures à sandwichs
-
-</td>
-<td>**(3)** 100 p.p.m., sous forme anhydre
-
-</td>
-</tr>
-<tr>
-<td></td>
-<td>**(4)** Crevettes en conserve; thon en conserve
-
-</td>
-<td>**(4)** 250 p.p.m., sous forme anhydre
-
-</td>
-</tr>
-<tr>
-<td></td>
-<td>**(5)** Crabe en conserve; homard en conserve; saumon en conserve
-
-</td>
-<td>**(5)** 275 p.p.m., sous forme anhydre
-
-</td>
-</tr>
-<tr>
-<td></td>
-<td>**(6)** Margarine
-
-</td>
-<td>**(6)** 75 p.p.m., sous forme anhydre
-
-</td>
-</tr>
-<tr>
-<td></td>
-<td>**(7)** Palourdes en conserve
-
-</td>
-<td>**(7)** 340 p.p.m., sous forme anhydre
-
-</td>
-</tr>
-<tr>
-<td></td>
-<td>**(8)** Haricots de Lima mûrs (haricots beurre) en conserve; haricots pinto en conserve
-
-</td>
-<td>**(8)** 130 p.p.m., sous forme anhydre et conformément aux exigences du sous-alinéa B.11.002d)(vi)
-
-</td>
-</tr>
-<tr>
-<td></td>
-<td>**(9)** Escargots en conserve; escargots de mer en conserve
-
-</td>
-<td>**(9)** 300 p.p.m., sous forme anhydre
-
-</td>
-</tr>
-<tr>
-<td></td>
-<td>**(10)** Fèves gourganes en conserve
-
-</td>
-<td>**(10)** 365 p.p.m., sous forme anhydre et conformément aux exigences du sous-alinéa B.11.002d)(vi.1)
-
-</td>
-</tr>
-<tr>
-<td></td>
-<td>**(11)** Boissons gazeuses; thés prêts à boire
-
-</td>
-<td>**(11)** 33 p.p.m., sous forme anhydre
-
-</td>
+<td>(2)</td>
+<td>Sauce vinaigrette; mayonnaise; sauce à salade; sauces et mayonnaises non normalisées</td>
+<td>(2)</td>
+<td>75 p.p.m., sous forme anhydre</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(12)** Pommes de terre pasteurisées sous vide
-
-</td>
-<td>**(12)** 100 p.p.m., seul ou en association avec l’EDTA disodique, calculé sous forme d’EDTA disodique anhydre
-
-</td>
+<td>(3)</td>
+<td>Salade de pommes de terre; garnitures à sandwichs</td>
+<td>(3)</td>
+<td>100 p.p.m., sous forme anhydre</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(4)</td>
+<td>Crevettes en conserve; thon en conserve</td>
+<td>(4)</td>
+<td>250 p.p.m., sous forme anhydre</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(5)</td>
+<td>Crabe en conserve; homard en conserve; saumon en conserve</td>
+<td>(5)</td>
+<td>275 p.p.m., sous forme anhydre</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(6)</td>
+<td>Margarine</td>
+<td>(6)</td>
+<td>75 p.p.m., sous forme anhydre</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(7)</td>
+<td>Palourdes en conserve</td>
+<td>(7)</td>
+<td>340 p.p.m., sous forme anhydre</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(8)</td>
+<td>Haricots de Lima mûrs (haricots beurre) en conserve; haricots pinto en conserve</td>
+<td>(8)</td>
+<td>130 p.p.m., sous forme anhydre et conformément aux exigences du sous-alinéa B.11.002d)(vi)</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(9)</td>
+<td>Escargots en conserve; escargots de mer en conserve</td>
+<td>(9)</td>
+<td>300 p.p.m., sous forme anhydre</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(10)</td>
+<td>Fèves gourganes en conserve</td>
+<td>(10)</td>
+<td>365 p.p.m., sous forme anhydre et conformément aux exigences du sous-alinéa B.11.002d)(vi.1)</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(11)</td>
+<td>Boissons gazeuses; thés prêts à boire</td>
+<td>(11)</td>
+<td>33 p.p.m., sous forme anhydre</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(12)</td>
+<td>Pommes de terre pasteurisées sous vide</td>
+<td>(12)</td>
+<td>100 p.p.m., seul ou en association avec l’EDTA disodique, calculé sous forme d’EDTA disodique anhydre</td>
 </tr>
 <tr>
 <td>C.3</td>
 <td>EDTA de calcium disodique</td>
-<td>Mêmes aliments que pour le versenate (éthylènediaminetétracétate) de calcium disodique
-
-</td>
-<td>Mêmes limites de tolérance que pour le versenate (éthylènediaminetétracétate) de calcium disodique
-
-</td>
+<td></td>
+<td>Mêmes aliments que pour le versenate (éthylènediaminetétracétate) de calcium disodique</td>
+<td></td>
+<td>Mêmes limites de tolérance que pour le versenate (éthylènediaminetétracétate) de calcium disodique</td>
 </tr>
 <tr>
 <td>C.4</td>
 <td>Phosphate monocalcique</td>
-<td>**(1)** Mélange pour crème glacée; mélange pour lait glacé; sorbet laitier
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Mélange pour crème glacée; mélange pour lait glacé; sorbet laitier</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Produits laitiers non normalisés
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Produits laitiers non normalisés</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>C.5</td>
 <td>Phosphate tricalcique</td>
-<td>Mélange pour crème glacée; mélange pour lait glacé
-
-</td>
-<td>Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>Mélange pour crème glacée; mélange pour lait glacé</td>
+<td></td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>C.6</td>
 <td>Phytate de calcium</td>
-<td>Fruits glacés ou confits
-
-</td>
-<td>Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>Fruits glacés ou confits</td>
+<td></td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>C.7</td>
 <td>Acide citrique</td>
-<td>**(1)** La marinade, la saumure et le mélange de salaison à sec, employés dans le marinage des viandes ou des sous-produits de viande conservés
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>La marinade, la saumure et le mélange de salaison à sec, employés dans le marinage des viandes ou des sous-produits de viande conservés</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Aliments non normalisés
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(2)</td>
+<td>Aliments non normalisés</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(3)** Filets de poisson congelés; poisson haché congelé; poisson haché menu congelé
-
-</td>
-<td>**(3)** 0,1 %
-
-</td>
+<td></td>
+<td>(3)</td>
+<td>Filets de poisson congelés; poisson haché congelé; poisson haché menu congelé</td>
+<td>(3)</td>
+<td>0,1 %</td>
 </tr>
 <tr>
 <td>D.1</td>
 <td>Versenate (Éthylènediaminetétracétate) disodique</td>
-<td>**(1)** Sauces et condiments
-
-</td>
-<td>**(1)** 70 p.p.m.
-
-</td>
+<td>(1)</td>
+<td>Sauces et condiments</td>
+<td>(1)</td>
+<td>70 p.p.m.</td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Garnitures à sandwichs
-
-</td>
-<td>**(2)** 90 p.p.m.
-
-</td>
-</tr>
-<tr>
-<td></td>
-<td>**(3)** Haricots à hile noir; haricots nains rouges en conserve; pois chiches (Garbanzos) en conserve B.11.002d)(vii)
-
-</td>
-<td>**(3)** 150 p.p.m. conformément aux exigences du sous-alinéa B.11.002d)(vii)
-
-</td>
-</tr>
-<tr>
-<td></td>
-<td>**(4)** Produits à base de bananes séchées
-
-</td>
-<td>**(4)** 265 p.p.m.
-
-</td>
+<td>(2)</td>
+<td>Garnitures à sandwichs</td>
+<td>(2)</td>
+<td>90 p.p.m.</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(5)** Préparation de colorant laque en suspension aqueuse pour utilisation dans l’enrobage de tablettes de confiseries
-
-</td>
-<td>**(5)** 1 % de la préparation de colorant
-
-</td>
+<td>(3)</td>
+<td>Haricots à hile noir; haricots nains rouges en conserve; pois chiches (Garbanzos) en conserve B.11.002d)(vii)</td>
+<td>(3)</td>
+<td>150 p.p.m. conformément aux exigences du sous-alinéa B.11.002d)(vii)</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(6)** Pommes de terre pasteurisées sous vide
-
-</td>
-<td>**(6)** 100 p.p.m., seul ou en association avec l’EDTA de calcium disodique, calculé sous forme d’EDTA disodique anhydre
-
-</td>
+<td>(4)</td>
+<td>Produits à base de bananes séchées</td>
+<td>(4)</td>
+<td>265 p.p.m.</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(5)</td>
+<td>Préparation de colorant laque en suspension aqueuse pour utilisation dans l’enrobage de tablettes de confiseries</td>
+<td>(5)</td>
+<td>1 % de la préparation de colorant</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(6)</td>
+<td>Pommes de terre pasteurisées sous vide</td>
+<td>(6)</td>
+<td>100 p.p.m., seul ou en association avec l’EDTA de calcium disodique, calculé sous forme d’EDTA disodique anhydre</td>
 </tr>
 <tr>
 <td>D.2</td>
 <td>EDTA disodique</td>
-<td>Mêmes aliments que pour le versenate disodique
-
-</td>
-<td>Mêmes limites de tolérance que pour le versenate disodique
-
-</td>
+<td></td>
+<td>Mêmes aliments que pour le versenate disodique</td>
+<td></td>
+<td>Mêmes limites de tolérance que pour le versenate disodique</td>
 </tr>
 <tr>
 <td>G.1</td>
 <td>Glycine</td>
-<td>Mono- et diglycérides
-
-</td>
-<td>0,02 %
-
-</td>
+<td></td>
+<td>Mono- et diglycérides</td>
+<td></td>
+<td>0,02 %</td>
 </tr>
 <tr>
 <td>P.1</td>
 <td>Acide phosphorique</td>
-<td>Mono- et diglycérides
-
-</td>
-<td>0,02 %
-
-</td>
+<td></td>
+<td>Mono- et diglycérides</td>
+<td></td>
+<td>0,02 %</td>
 </tr>
 <tr>
 <td>P.2</td>
-<td>Phosphate mono-  potassique</td>
-<td>**(1)** Mélange pour crème glacée; mélange pour lait glacé; sorbet laitier
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>Phosphate mono-potassique</td>
+<td>(1)</td>
+<td>Mélange pour crème glacée; mélange pour lait glacé; sorbet laitier</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Aliments non normalisés
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Aliments non normalisés</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(3)** Viande coupée solide; viande préparée; sous-produit de viande préparée; viande de volaille coupée solide; viande de volaille préparée; sous-produit de viande de volaille préparée
-
-</td>
-<td>**(3)** 0,5 % en phosphates totaux ajoutés, calculés en phosphate disodique
-
-</td>
+<td></td>
+<td>(3)</td>
+<td>Viande coupée solide; viande préparée; sous-produit de viande préparée; viande de volaille coupée solide; viande de volaille préparée; sous-produit de viande de volaille préparée</td>
+<td>(3)</td>
+<td>0,5 % en phosphates totaux ajoutés, calculés en phosphate disodique</td>
 </tr>
 <tr>
 <td>P.3</td>
 <td>Pyrophosphate tétrapotassique</td>
-<td>Produits pour attendrir la viande
-
-</td>
-<td>Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Produits pour attendrir la viande</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Viande coupée solide; viande préparée; sous-produit de viande préparée; viande de volaille coupée solide; viande de volaille préparée; sous-produit de viande de volaille préparée
-
-</td>
-<td>**(2)** 0,5 % en phosphates totaux ajoutés, calculés en phosphate disodique
-
-</td>
+<td>(2)</td>
+<td>Viande coupée solide; viande préparée; sous-produit de viande préparée; viande de volaille coupée solide; viande de volaille préparée; sous-produit de viande de volaille préparée</td>
+<td>(2)</td>
+<td>0,5 % en phosphates totaux ajoutés, calculés en phosphate disodique</td>
 </tr>
 <tr>
 <td>P.4</td>
 <td>Phosphate dipotassique</td>
-<td>**(1)** Viande coupée solide; viande préparée; sous-produit de viande préparée; viande de volaille coupée solide; viande de volaille préparée; sous-produit de viande de volaille préparée
-
-</td>
-<td>**(1)** 0,5 % en phosphates totaux ajoutés, calculés en phosphate disodique
-
-</td>
+<td>(1)</td>
+<td>Viande coupée solide; viande préparée; sous-produit de viande préparée; viande de volaille coupée solide; viande de volaille préparée; sous-produit de viande de volaille préparée</td>
+<td>(1)</td>
+<td>0,5 % en phosphates totaux ajoutés, calculés en phosphate disodique</td>
 </tr>
 <tr>
 <td>S.1</td>
 <td>Pyrophosphate acide de sodium</td>
-<td>**(1)** Fruits de mer en conserve
-
-</td>
-<td>**(1)** Si employé seul ou en association avec le hexamétaphosphate de sodium ou le tripolyphosphate de sodium, ou les deux, la quantité totale de phosphate ajouté, calculé sous forme de phosphate dibasique de sodium, ne doit pas dépasser 0,5 %
-
-</td>
+<td>(1)</td>
+<td>Fruits de mer en conserve</td>
+<td>(1)</td>
+<td>Si employé seul ou en association avec le hexamétaphosphate de sodium ou le tripolyphosphate de sodium, ou les deux, la quantité totale de phosphate ajouté, calculé sous forme de phosphate dibasique de sodium, ne doit pas dépasser 0,5 %</td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Mélange pour crème glacée; mélange pour lait glacé
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(2)</td>
+<td>Mélange pour crème glacée; mélange pour lait glacé</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(3)** Solution d'injection ou d'immersion servant à la salaison de la volaille ou de la viande de volaille
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles et conformément à B.22.021e)
-
-</td>
+<td></td>
+<td>(3)</td>
+<td>Solution d'injection ou d'immersion servant à la salaison de la volaille ou de la viande de volaille</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles et conformément à B.22.021e)</td>
 </tr>
 <tr>
 <td></td>
-<td>**(4)** Marinade servant à la salaison de coupes de porc, de boeuf ou d'agneau
-
-</td>
-<td>**(4)** Bonnes pratiques industrielles et conformément à B.14.009f) et B.14.031h)
-
-</td>
+<td></td>
+<td>(4)</td>
+<td>Marinade servant à la salaison de coupes de porc, de boeuf ou d'agneau</td>
+<td>(4)</td>
+<td>Bonnes pratiques industrielles et conformément à B.14.009f) et B.14.031h)</td>
 </tr>
 <tr>
 <td></td>
-<td>**(5)** Aliments non normalisés
-
-</td>
-<td>**(5)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(5)</td>
+<td>Aliments non normalisés</td>
+<td>(5)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(6)** Viande coupée solide; viande préparée; sous-produit de viande préparée; viande de volaille coupée solide; viande de volaille préparée; sous-produit de viande de volaille préparée
-
-</td>
-<td>**(6)** 0,5 % en phosphates totaux ajoutés, calculés en phosphate disodique
-
-</td>
+<td></td>
+<td>(6)</td>
+<td>Viande coupée solide; viande préparée; sous-produit de viande préparée; viande de volaille coupée solide; viande de volaille préparée; sous-produit de viande de volaille préparée</td>
+<td>(6)</td>
+<td>0,5 % en phosphates totaux ajoutés, calculés en phosphate disodique</td>
 </tr>
 <tr>
 <td>S.2</td>
 <td>Citrate de sodium</td>
-<td>**(1)** Mélange pour crème glacée; mélange pour lait glacé; sorbet laitier; marinade, saumure et mélange de salaison à sec, employés dans le marinage des viandes ou des sous-produits de viande conservés
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Mélange pour crème glacée; mélange pour lait glacé; sorbet laitier; marinade, saumure et mélange de salaison à sec, employés dans le marinage des viandes ou des sous-produits de viande conservés</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Aliments non normalisés
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(2)</td>
+<td>Aliments non normalisés</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>S.3</td>
 <td>Hexamétaphosphate de sodium</td>
-<td>**(1)** Fruits de mer en conserve
-
-</td>
-<td>**(1)** Si employé seul ou en association avec le pyrophosphate acide de sodium ou le tripolyphosphate de sodium, ou les deux, la quantité totale de phosphate ajouté, calculé sous forme de phosphate dibasique de sodium, ne doit pas dépasser 0,5 %
-
-</td>
+<td>(1)</td>
+<td>Fruits de mer en conserve</td>
+<td>(1)</td>
+<td>Si employé seul ou en association avec le pyrophosphate acide de sodium ou le tripolyphosphate de sodium, ou les deux, la quantité totale de phosphate ajouté, calculé sous forme de phosphate dibasique de sodium, ne doit pas dépasser 0,5 %</td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Mélange pour crème glacée; mélange pour lait glacé
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(2)</td>
+<td>Mélange pour crème glacée; mélange pour lait glacé</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(3)** Solution d'injection ou d'immersion servant à la salaison de la volaille ou de la viande de volaille
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles et conformément à B.22.021e)
-
-</td>
+<td></td>
+<td>(3)</td>
+<td>Solution d'injection ou d'immersion servant à la salaison de la volaille ou de la viande de volaille</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles et conformément à B.22.021e)</td>
 </tr>
 <tr>
 <td></td>
-<td>**(4)** Marinade servant à la salaison de coupes de porc, de boeuf ou d'agneau
-
-</td>
-<td>**(4)** Bonnes pratiques industrielles et conformément à B.14.009f) et B.14.031h)
-
-</td>
+<td></td>
+<td>(4)</td>
+<td>Marinade servant à la salaison de coupes de porc, de boeuf ou d'agneau</td>
+<td>(4)</td>
+<td>Bonnes pratiques industrielles et conformément à B.14.009f) et B.14.031h)</td>
 </tr>
 <tr>
 <td></td>
-<td>**(5)** Aliments non normalisés
-
-</td>
-<td>**(5)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(5)</td>
+<td>Aliments non normalisés</td>
+<td>(5)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(6)** Viande coupée solide; viande préparée; sous-produit de viande préparée; viande de volaille coupée solide; viande de volaille préparée; sous-produit de viande de volaille préparée
-
-</td>
-<td>**(6)** 0,5 % en phosphates totaux ajoutés, calculés en phosphate disodique
-
-</td>
+<td></td>
+<td>(6)</td>
+<td>Viande coupée solide; viande préparée; sous-produit de viande préparée; viande de volaille coupée solide; viande de volaille préparée; sous-produit de viande de volaille préparée</td>
+<td>(6)</td>
+<td>0,5 % en phosphates totaux ajoutés, calculés en phosphate disodique</td>
 </tr>
 <tr>
 <td>S.4</td>
 <td>Phosphate disodique</td>
-<td>**(1)** Mélange pour crème glacée; mélange pour lait glacé; sorbet laitier
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Mélange pour crème glacée; mélange pour lait glacé; sorbet laitier</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Solution d'injection ou d'immersion servant à la salaison de la volaille ou de la viande de volaille
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles et conformément à B.22.021e)
-
-</td>
+<td></td>
+<td>(2)</td>
+<td>Solution d'injection ou d'immersion servant à la salaison de la volaille ou de la viande de volaille</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles et conformément à B.22.021e)</td>
 </tr>
 <tr>
 <td></td>
-<td>**(3)** Marinade servant à la salaison de coupes de porc, de boeuf ou d'agneau
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles et conformément à B.14.009f) et B.14.031h)
-
-</td>
+<td></td>
+<td>(3)</td>
+<td>Marinade servant à la salaison de coupes de porc, de boeuf ou d'agneau</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles et conformément à B.14.009f) et B.14.031h)</td>
 </tr>
 <tr>
 <td></td>
-<td>**(4)** Aliments non normalisés
-
-</td>
-<td>**(4)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(4)</td>
+<td>Aliments non normalisés</td>
+<td>(4)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(5)** Viande coupée solide; viande préparée; sous-produit de viande préparée; viande de volaille coupée solide; viande de volaille préparée; sous-produit de viande de volaille préparée
-
-</td>
-<td>**(5)** 0,5 % en phosphates totaux ajoutés, calculés en phosphate disodique
-
-</td>
+<td></td>
+<td>(5)</td>
+<td>Viande coupée solide; viande préparée; sous-produit de viande préparée; viande de volaille coupée solide; viande de volaille préparée; sous-produit de viande de volaille préparée</td>
+<td>(5)</td>
+<td>0,5 % en phosphates totaux ajoutés, calculés en phosphate disodique</td>
 </tr>
 <tr>
 <td>S.5</td>
 <td>Phosphate monosodique</td>
-<td>**(1)** Mélange pour crème glacée; mélange pour lait glacé; sorbet laitier
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Mélange pour crème glacée; mélange pour lait glacé; sorbet laitier</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Solution d'injection ou d'immersion servant à la salaison de la volaille ou de la viande de volaille
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles et conformément à B.22.021e)
-
-</td>
+<td>(2)</td>
+<td>Solution d'injection ou d'immersion servant à la salaison de la volaille ou de la viande de volaille</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles et conformément à B.22.021e)</td>
 </tr>
 <tr>
 <td></td>
-<td>**(3)** Marinade servant à la salaison de coupes de porc, de boeuf ou d'agneau
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles et conformément à B.14.009f) et B.14.031h)
-
-</td>
+<td></td>
+<td>(3)</td>
+<td>Marinade servant à la salaison de coupes de porc, de boeuf ou d'agneau</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles et conformément à B.14.009f) et B.14.031h)</td>
 </tr>
 <tr>
 <td></td>
-<td>**(4)** Aliments non normalisés
-
-</td>
-<td>**(4)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(4)</td>
+<td>Aliments non normalisés</td>
+<td>(4)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(5)** Viande coupée solide; viande préparée; sous-produit de viande préparée; viande de volaille coupée solide; viande de volaille préparée; sous-produit de viande de volaille préparée
-
-</td>
-<td>**(5)** 0,5 % en phosphates totaux ajoutés, calculés en phosphate disodique
-
-</td>
+<td></td>
+<td>(5)</td>
+<td>Viande coupée solide; viande préparée; sous-produit de viande préparée; viande de volaille coupée solide; viande de volaille préparée; sous-produit de viande de volaille préparée</td>
+<td>(5)</td>
+<td>0,5 % en phosphates totaux ajoutés, calculés en phosphate disodique</td>
 </tr>
 <tr>
 <td>S.6</td>
 <td>Pyrophosphate tétrasodique</td>
-<td>**(1)** Mélange pour crème glacée; mélange pour lait glacé; sorbet laitier
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Mélange pour crème glacée; mélange pour lait glacé; sorbet laitier</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Produits pour attendrir la viande
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Produits pour attendrir la viande</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(3)** Solution d'injection ou d'immersion servant à la salaison de la volaille ou de la viande de volaille
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles et conformément à B.22.021e)
-
-</td>
+<td></td>
+<td>(3)</td>
+<td>Solution d'injection ou d'immersion servant à la salaison de la volaille ou de la viande de volaille</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles et conformément à B.22.021e)</td>
 </tr>
 <tr>
 <td></td>
-<td>**(4)** Marinade servant à la salaison de coupes de porc, de boeuf ou d'agneau
-
-</td>
-<td>**(4)** Bonnes pratiques industrielles et conformément à B.14.009f) et B.14.031h)
-
-</td>
+<td></td>
+<td>(4)</td>
+<td>Marinade servant à la salaison de coupes de porc, de boeuf ou d'agneau</td>
+<td>(4)</td>
+<td>Bonnes pratiques industrielles et conformément à B.14.009f) et B.14.031h)</td>
 </tr>
 <tr>
 <td></td>
-<td>**(5)** Aliments non normalisés
-
-</td>
-<td>**(5)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(5)</td>
+<td>Aliments non normalisés</td>
+<td>(5)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(6)** Viande coupée solide; viande préparée; sous-produit de viande préparée; viande de volaille coupée solide; viande de volaille préparée; sous-produit de viande de volaille préparée
-
-</td>
-<td>**(6)** 0,5 % en phosphates totaux ajoutés, calculés en phosphate disodique
-
-</td>
+<td></td>
+<td>(6)</td>
+<td>Viande coupée solide; viande préparée; sous-produit de viande préparée; viande de volaille coupée solide; viande de volaille préparée; sous-produit de viande de volaille préparée</td>
+<td>(6)</td>
+<td>0,5 % en phosphates totaux ajoutés, calculés en phosphate disodique</td>
 </tr>
 <tr>
 <td>S.7</td>
-<td>Tripolyphosphate  de sodium</td>
-<td>**(1)** Solution d'injection ou d'immersion servant à la salaison de la volaille ou de la viande de volaille
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles et conformément à B.22.021e)
-
-</td>
-</tr>
-<tr>
-<td></td>
-<td>**(2)** Produits pour attendrir la viande
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
-</tr>
-<tr>
-<td></td>
-<td>**(3)** Marinade servant à la salaison de coupes de porc, de boeuf ou d'agneau
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles et conformément à B.14.009f) et B.14.031h)
-
-</td>
-</tr>
-<tr>
-<td></td>
-<td>**(4)** Aliments non normalisés
-
-</td>
-<td>**(4)** Bonnes pratiques industrielles
-
-</td>
-</tr>
-<tr>
-<td></td>
-<td>**(5)** Viande coupée solide; viande préparée; sous-produit de viande préparée; viande de volaille coupée solide; viande de volaille préparée; sous-produit de viande de volaille préparée
-
-</td>
-<td>**(5)** 0,5 % en phosphates totaux ajoutés, calculés en phosphate disodique
-
-</td>
+<td>Tripolyphosphate de sodium</td>
+<td>(1)</td>
+<td>Solution d'injection ou d'immersion servant à la salaison de la volaille ou de la viande de volaille</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles et conformément à B.22.021e)</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>**(6)** Fruits de mer en conserve
-
-</td>
-<td>**(6)** Si employé seul ou en association avec le pyrophosphate acide de sodium ou le hexamétaphosphate de sodium, ou les deux, la quantité totale de phosphate ajouté, calculé sous forme de phosphate dibasique de sodium, ne doit pas dépasser 0,5 %
-
-</td>
+<td>(2)</td>
+<td>Produits pour attendrir la viande</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(3)</td>
+<td>Marinade servant à la salaison de coupes de porc, de boeuf ou d'agneau</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles et conformément à B.14.009f) et B.14.031h)</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(4)</td>
+<td>Aliments non normalisés</td>
+<td>(4)</td>
+<td>Bonnes pratiques industrielles</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(5)</td>
+<td>Viande coupée solide; viande préparée; sous-produit de viande préparée; viande de volaille coupée solide; viande de volaille préparée; sous-produit de viande de volaille préparée</td>
+<td>(5)</td>
+<td>0,5 % en phosphates totaux ajoutés, calculés en phosphate disodique</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>(6)</td>
+<td>Fruits de mer en conserve</td>
+<td>(6)</td>
+<td>Si employé seul ou en association avec le pyrophosphate acide de sodium ou le hexamétaphosphate de sodium, ou les deux, la quantité totale de phosphate ajouté, calculé sous forme de phosphate dibasique de sodium, ne doit pas dépasser 0,5 %</td>
 </tr>
 <tr>
 <td>S.8</td>
-<td>Citrate de  stéaryle</td>
-<td>Margarine
-
-</td>
-<td>0,01 % de la teneur en gras. Si on emploie aussi le citrate de monoglycéride ou le citrate de monoisopropyle ou les deux, la quantité totale ne doit pas excéder 0,01 % de la teneur en gras
-
-</td>
+<td>Citrate de stéaryle</td>
+<td></td>
+<td>Margarine</td>
+<td></td>
+<td>0,01 % de la teneur en gras. Si on emploie aussi le citrate de monoglycéride ou le citrate de monoisopropyle ou les deux, la quantité totale ne doit pas excéder 0,01 % de la teneur en gras</td>
 </tr>
 </table>
 
->  DORS/79-660, art. 19 et 20; DORS/80-501, art. 4; DORS/82-596, art. 4 à 9; DORS/94-141, art. 1; DORS/94-262, art. 4 à 12; DORS/94-689, art. 2; DORS/95-435, art. 2; DORS/97-30, art. 1; DORS/97-562, art. 1; DORS/98-580, art. 1(F); DORS/2005-316, art. 7 à 11..
+> DORS/79-660, art. 19 et 20; DORS/80-501, art. 4; DORS/82-596, art. 4 à 9; DORS/94-141, art. 1; DORS/94-262, art. 4 à 12; DORS/94-689, art. 2; DORS/95-435, art. 2; DORS/97-30, art. 1; DORS/97-562, art. 1; DORS/98-580, art. 1(F); DORS/2005-316, art. 7 à 11..
 
 
 
@@ -30717,9 +29511,6 @@ Vert solide FCF
 <th>Additifs</th>
 <th>Permis dans ou sur</th>
 <th>Limites de tolérance</th>
-</tr>
-<tr>
-<th> </th>
 </tr>
 <tr>
 <td>A.1</td>
@@ -30861,7 +29652,7 @@ Vert solide FCF
 </tr>
 </table>
 
->  DORS/94-689, art. 2(F)..
+> DORS/94-689, art. 2(F)..
 
 
 
@@ -30881,341 +29672,279 @@ Vert solide FCF
 <th>Limites de tolérance</th>
 </tr>
 <tr>
-<th> </th>
-</tr>
-<tr>
 <td>A.1</td>
 <td>Chlorure d'ammonium</td>
-<td>**(1)** Farine; farine de blé entier
-
-</td>
-<td>**(1)** 2 000 p.p.m. de farine
-
-</td>
+<td>(1)</td>
+<td>Farine; farine de blé entier</td>
+<td>(1)</td>
+<td>2 000 p.p.m. de farine</td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Pain
-
-</td>
-<td>**(2)** 2 500 p.p.m. de farine. Pour les mélanges, voir l'alinéa B.13.021m)
-
-</td>
+<td>(2)</td>
+<td>Pain</td>
+<td>(2)</td>
+<td>2 500 p.p.m. de farine. Pour les mélanges, voir l'alinéa B.13.021m)</td>
 </tr>
 <tr>
 <td></td>
-<td>**(3)** Aliments non normalisés
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(3)</td>
+<td>Aliments non normalisés</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>A.2</td>
 <td>Phosphate diammonique</td>
-<td>**(1)** Pain
-
-</td>
-<td>**(1)** 2 500 p.p.m. de farine. Pour les mélanges, voir l'alinéa B.13.021m)
-
-</td>
+<td>(1)</td>
+<td>Pain</td>
+<td>(1)</td>
+<td>2 500 p.p.m. de farine. Pour les mélanges, voir l'alinéa B.13.021m)</td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Cidre; vin de miel; vin
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Cidre; vin de miel; vin</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(3)** Produits de boulangerie non normalisés
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(3)</td>
+<td>Produits de boulangerie non normalisés</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>A.3</td>
 <td>Phosphate monoammonique</td>
-<td>**(1)** Pain
-
-</td>
-<td>**(1)** 2 500 p.p.m. de farine. Pour les mélanges, voir l'alinéa B.13.021m)
-
-</td>
+<td>(1)</td>
+<td>Pain</td>
+<td>(1)</td>
+<td>2 500 p.p.m. de farine. Pour les mélanges, voir l'alinéa B.13.021m)</td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Ale; bière; cidre; vin de miel; bière légère; liqueur de malt; porter; stout; vin
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Ale; bière; cidre; vin de miel; bière légère; liqueur de malt; porter; stout; vin</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(3)** Produits de boulangerie non normalisés
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(3)</td>
+<td>Produits de boulangerie non normalisés</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>A.4</td>
 <td>Sulfate d'ammonium</td>
-<td>**(1)** Pain
-
-</td>
-<td>**(1)** 2 500 p.p.m. de farine. Pour les mélanges, voir l'alinéa B.13.021m)
-
-</td>
+<td>(1)</td>
+<td>Pain</td>
+<td>(1)</td>
+<td>2 500 p.p.m. de farine. Pour les mélanges, voir l'alinéa B.13.021m)</td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Cidre; vin de miel; vin
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(2)</td>
+<td>Cidre; vin de miel; vin</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(3)** Produits de boulangerie non normalisés
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(3)</td>
+<td>Produits de boulangerie non normalisés</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>C.1</td>
 <td>Carbonate de calcium</td>
-<td>**(1)** Pain
-
-</td>
-<td>**(1)** 2 500 p.p.m. de farine. Pour les mélanges, voir l'alinéa B.13.021m)
-
-</td>
+<td>(1)</td>
+<td>Pain</td>
+<td>(1)</td>
+<td>2 500 p.p.m. de farine. Pour les mélanges, voir l'alinéa B.13.021m)</td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Produits de boulangerie non normalisés
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(2)</td>
+<td>Produits de boulangerie non normalisés</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>C.2</td>
 <td>Chlorure de calcium</td>
-<td>Produits de boulangerie non normalisés
-
-</td>
-<td>Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>Produits de boulangerie non normalisés</td>
+<td></td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>C.3</td>
 <td>Citrate de calcium</td>
-<td>Produits de boulangerie non normalisés
-
-</td>
-<td>Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>Produits de boulangerie non normalisés</td>
+<td></td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>C.4</td>
 <td>Lactate de calcium</td>
-<td>**(1)** Pain
-
-</td>
-<td>**(1)** 2 500 p.p.m. de farine. Pour les mélanges, voir l'alinéa B.13.021m)
-
-</td>
+<td>(1)</td>
+<td>Pain</td>
+<td>(1)</td>
+<td>2 500 p.p.m. de farine. Pour les mélanges, voir l'alinéa B.13.021m)</td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Produits de boulangerie non normalisés
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(2)</td>
+<td>Produits de boulangerie non normalisés</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>C.5</td>
 <td>Phosphate bicalcique</td>
-<td>**(1)** Pain
-
-</td>
-<td>**(1)** 2 500 p.p.m. de farine. Pour les mélanges, voir l'alinéa B.13.021m)
-
-</td>
+<td>(1)</td>
+<td>Pain</td>
+<td>(1)</td>
+<td>2 500 p.p.m. de farine. Pour les mélanges, voir l'alinéa B.13.021m)</td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Produits de boulangerie non normalisés
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(2)</td>
+<td>Produits de boulangerie non normalisés</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>C.6</td>
 <td>Phosphate monocalcique</td>
-<td>**(1)** Pain
-
-</td>
-<td>**(1)** 7 500 p.p.m. de farine. Pour les mélanges, voir l'alinéa B.13.021m)
-
-</td>
+<td>(1)</td>
+<td>Pain</td>
+<td>(1)</td>
+<td>7 500 p.p.m. de farine. Pour les mélanges, voir l'alinéa B.13.021m)</td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Farine
-
-</td>
-<td>**(2)** 7 500 p.p.m. de farine
-
-</td>
+<td></td>
+<td>(2)</td>
+<td>Farine</td>
+<td>(2)</td>
+<td>7 500 p.p.m. de farine</td>
 </tr>
 <tr>
 <td></td>
-<td>**(3)** Produits de boulangerie non normalisés
-
-</td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(3)</td>
+<td>Produits de boulangerie non normalisés</td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>C.7</td>
 <td>Phosphate tricalcique</td>
-<td>Produits de boulangerie non normalisés
-
-</td>
-<td>Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>Produits de boulangerie non normalisés</td>
+<td></td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>C.8</td>
 <td>Sulfate de calcium</td>
-<td>**(1)** Pain
-
-</td>
-<td>**(1)** 5 000 p.p.m. de farine
-
-</td>
+<td>(1)</td>
+<td>Pain</td>
+<td>(1)</td>
+<td>5 000 p.p.m. de farine</td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Produits de boulangerie non normalisés
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(2)</td>
+<td>Produits de boulangerie non normalisés</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>F.1</td>
 <td>Sulfate ferreux</td>
-<td>Cultures bactériennes
-
-</td>
-<td>Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>Cultures bactériennes</td>
+<td></td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>M.1</td>
 <td>Sulfate de manganèse</td>
-<td>Ale; bière; bière légère; liqueur de malt; porter; stout
-
-</td>
-<td>Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>Ale; bière; bière légère; liqueur de malt; porter; stout</td>
+<td></td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>P.1</td>
 <td>Acide phosphorique</td>
-<td>Ale; bière; bière légère; liqueur de malt; porter; stout
-
-</td>
-<td>Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>Ale; bière; bière légère; liqueur de malt; porter; stout</td>
+<td></td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>P.2</td>
 <td>Chlorure de potassium</td>
-<td>**(1)** Ale; bière; bière légère; liqueur de malt; porter; stout
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Ale; bière; bière légère; liqueur de malt; porter; stout</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Produits de boulangerie non normalisés
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Produits de boulangerie non normalisés</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>P.4</td>
 <td>Phosphate bipotassique</td>
-<td>**(1)** Ale; bière; cidre; vin de miel; bière légère; liqueur de malt; porter; stout; vin
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Ale; bière; cidre; vin de miel; bière légère; liqueur de malt; porter; stout; vin</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Produits de boulangerie non normalisés
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Produits de boulangerie non normalisés</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>P.5</td>
 <td>Phosphate monopotassique</td>
-<td>Ale; bière; cidre; vin de miel; bière légère; liqueur de malt; porter; stout; vin
-
-</td>
-<td>Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>Ale; bière; cidre; vin de miel; bière légère; liqueur de malt; porter; stout; vin</td>
+<td></td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>S.1</td>
 <td>Sulfate de sodium</td>
-<td>Produits de boulangerie non normalisés
-
-</td>
-<td>Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>Produits de boulangerie non normalisés</td>
+<td></td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>U.1</td>
@@ -31224,25 +29953,22 @@ Vert solide FCF
 <tr>
 <td>Z.1</td>
 <td>Sulfate de zinc</td>
-<td>**(1)** Ale; bière; bière légère; liqueur de malt; porter; stout
-
-</td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td>(1)</td>
+<td>Ale; bière; bière légère; liqueur de malt; porter; stout</td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Cultures bactériennes
-
-</td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(2)</td>
+<td>Cultures bactériennes</td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 </table>
 
->  DORS/87-5, art. 1; DORS/94-689, art. 2(F); DORS/95-281, art. 6 et 7..
+> DORS/87-5, art. 1; DORS/94-689, art. 2(F); DORS/95-281, art. 6 et 7..
 
 
 
@@ -31264,234 +29990,223 @@ Vert solide FCF
 <th>Limites de tolérance</th>
 </tr>
 <tr>
-<th> </th>
-</tr>
-<tr>
 <td>1</td>
 <td>Acétone</td>
-<td>**(1)** Extraits d'épices; extractifs naturels
-
-</td>
-<td>**(1)** 30 p.p.m.
-
-</td>
+<td>(1)</td>
+<td>Extraits d'épices; extractifs naturels</td>
+<td>(1)</td>
+<td>30 p.p.m.</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Encres à marquer la viande et les oeufs
-
-</td>
 <td></td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Encres à marquer la viande et les oeufs</td>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Alcool benzylique</td>
-<td>**(1)** Préparation aromatisante de (nom de l'arôme) (Titre 10)
-
-</td>
+<td>(1)</td>
+<td>Préparation aromatisante de (nom de l'arôme) (Titre 10)</td>
 <td></td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Préparations aromatisantes non normalisées
-
-</td>
 <td></td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Préparations aromatisantes non normalisées</td>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>3</td>
 <td>1,3-Butylène- glycol</td>
-<td>**(1)** Préparation aromatisante de (nom de l'arôme) (Titre 10)
-
-</td>
+<td>(1)</td>
+<td>Préparation aromatisante de (nom de l'arôme) (Titre 10)</td>
 <td></td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Préparations aromatisantes non normalisées
-
-</td>
 <td></td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Préparations aromatisantes non normalisées</td>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>3.1</td>
 <td>Dioxyde de carbone</td>
-<td>**(1)** Graines de café vertes et feuilles de thé destinées à la décaféination
-
-</td>
+<td>(1)</td>
+<td>Graines de café vertes et feuilles de thé destinées à la décaféination</td>
 <td></td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Extraits d'épices; extractifs naturels; préparation aromatisante de (nom de l'arôme) (titre 10); extrait de houblon, conformément au sous-alinéa B.02.130b)(v) et à l'alinéa B.02.133b); extrait de houblon pré-isomérisé, conformément au sous-alinéa B.02.134(1)a)(ii)
-
-</td>
 <td></td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Extraits d'épices; extractifs naturels; préparation aromatisante de (nom de l'arôme) (titre 10); extrait de houblon, conformément au sous-alinéa B.02.130b)(v) et à l'alinéa B.02.133b); extrait de houblon pré-isomérisé, conformément au sous-alinéa B.02.134(1)a)(ii)</td>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(3)** Produits des oeufs
-
-</td>
 <td></td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td>(3)</td>
+<td>Produits des oeufs</td>
+<td></td>
+<td></td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(4)** Poudre de cacao
-
-</td>
 <td></td>
-<td>**(4)** Bonnes pratiques industrielles
-
-</td>
+<td>(4)</td>
+<td>Poudre de cacao</td>
+<td></td>
+<td></td>
+<td>(4)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>4</td>
 <td>Huile de ricin</td>
-<td>Rocou soluble dans l'huile; rocou, colorant pour le beurre; rocou, colorant pour la margarine
-
-</td>
 <td></td>
-<td>Bonnes pratiques industrielles
-
-</td>
+<td>Rocou soluble dans l'huile; rocou, colorant pour le beurre; rocou, colorant pour la margarine</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>5</td>
 <td>Acétate d'éthyle</td>
-<td>**(1)** Extraits d'épices; extractifs naturels; préparation aromatisante de (nom de l'arôme) (Titre 10)
-
-</td>
+<td>(1)</td>
+<td>Extraits d'épices; extractifs naturels; préparation aromatisante de (nom de l'arôme) (Titre 10)</td>
 <td></td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Préparations aromatisantes non normalisées
-
-</td>
 <td></td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Préparations aromatisantes non normalisées</td>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(3)** Graines de café vertes destinées à la décaféination
-
-</td>
-<td>**(3)** 10 p.p.m. dans les cafés faits de graines rôties et les cafés décaféinés solubles (instantanés)
-
-</td>
+<td></td>
+<td>(3)</td>
+<td>Graines de café vertes destinées à la décaféination</td>
+<td>(3)</td>
+<td>10 p.p.m. dans les cafés faits de graines rôties et les cafés décaféinés solubles (instantanés)</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td>**(4)** Feuilles de thé destinées à la décaféination
-
-</td>
-<td>**(4)** 50 p.p.m.
-
-</td>
+<td></td>
+<td>(4)</td>
+<td>Feuilles de thé destinées à la décaféination</td>
+<td>(4)</td>
+<td>50 p.p.m.</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>6</td>
 <td>Alcool éthylique (éthanol)</td>
-<td>**(1)** Extraits d'épices; extractifs naturels; préparation aromatisante de (nom de l'arôme) (Titre 10)
-
-</td>
+<td>(1)</td>
+<td>Extraits d'épices; extractifs naturels; préparation aromatisante de (nom de l'arôme) (Titre 10)</td>
 <td></td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Préparations aromatisantes non normalisées
-
-</td>
 <td></td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Préparations aromatisantes non normalisées</td>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(3)** Mélanges colorants et préparations colorantes (Titre 6)
-
-</td>
 <td></td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td>(3)</td>
+<td>Mélanges colorants et préparations colorantes (Titre 6)</td>
+<td></td>
+<td></td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(4)** Encres à marquer la viande et les oeufs
-
-</td>
 <td></td>
-<td>**(4)** Bonnes pratiques industrielles
-
-</td>
+<td>(4)</td>
+<td>Encres à marquer la viande et les oeufs</td>
+<td></td>
+<td></td>
+<td>(4)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(5)** Préparations d'additifs alimentaires
-
-</td>
 <td></td>
-<td>**(5)** Bonnes pratiques industrielles
-
-</td>
+<td>(5)</td>
+<td>Préparations d'additifs alimentaires</td>
+<td></td>
+<td></td>
+<td>(5)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(6)** Extrait de houblon, conformément au sous-alinéa B.02.130b)(v) et à l'alinéa B.02.133b); extrait de houblon pré-isomérisé, conformément au sous-alinéa B.02.134(1)a)(iii)
-
-</td>
 <td></td>
-<td>**(6)** Bonnes pratiques industrielles
-
-</td>
+<td>(6)</td>
+<td>Extrait de houblon, conformément au sous-alinéa B.02.130b)(v) et à l'alinéa B.02.133b); extrait de houblon pré-isomérisé, conformément au sous-alinéa B.02.134(1)a)(iii)</td>
+<td></td>
+<td></td>
+<td>(6)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>6.A</td>
 <td>Alcool éthylique dénaturé avec méthanol</td>
-<td>Farine de graines végétales oléagineuses
-
-</td>
-<td>10 p.p.m. de methanol
-
-</td>
+<td></td>
+<td>Farine de graines végétales oléagineuses</td>
+<td></td>
+<td>10 p.p.m. de methanol</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -31501,441 +30216,423 @@ Vert solide FCF
 <tr>
 <td>8</td>
 <td>Glycérol (glycérine)</td>
-<td>**(1)** Extrait de (nom de l'arôme); essence de (nom de l'arôme); préparation aromatisante de (nom de l'arôme) (Titre 10)
-
-</td>
+<td>(1)</td>
+<td>Extrait de (nom de l'arôme); essence de (nom de l'arôme); préparation aromatisante de (nom de l'arôme) (Titre 10)</td>
 <td></td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Préparations aromatisantes non normalisées
-
-</td>
 <td></td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Préparations aromatisantes non normalisées</td>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(3)** Mélanges colorants et préparations colorantes (Titre 6)
-
-</td>
 <td></td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td>(3)</td>
+<td>Mélanges colorants et préparations colorantes (Titre 6)</td>
+<td></td>
+<td></td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(4)** Préparations d'additifs alimentaires
-
-</td>
 <td></td>
-<td>**(4)** Bonnes pratiques industrielles
-
-</td>
+<td>(4)</td>
+<td>Préparations d'additifs alimentaires</td>
+<td></td>
+<td></td>
+<td>(4)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>9</td>
 <td>Diacétate de glycéryle</td>
-<td>**(1)** Préparation aromatisante de (nom de l'arôme) (Titre 10)
-
-</td>
+<td>(1)</td>
+<td>Préparation aromatisante de (nom de l'arôme) (Titre 10)</td>
 <td></td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Préparations aromatisantes non normalisées
-
-</td>
 <td></td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Préparations aromatisantes non normalisées</td>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>10</td>
 <td>Triacétate de glycéryle (triacétine)</td>
-<td>**(1)** Préparation aromatisante de (nom de l'arôme) (Titre 10)
-
-</td>
+<td>(1)</td>
+<td>Préparation aromatisante de (nom de l'arôme) (Titre 10)</td>
 <td></td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Préparations aromatisantes non normalisées
-
-</td>
 <td></td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Préparations aromatisantes non normalisées</td>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>11</td>
 <td>Tributyrate de glycéryle (tributyrine)</td>
-<td>**(1)** Préparation aromatisante de (nom de l'arôme) (Titre 10)
-
-</td>
+<td>(1)</td>
+<td>Préparation aromatisante de (nom de l'arôme) (Titre 10)</td>
 <td></td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Préparations aromatisantes non normalisées
-
-</td>
 <td></td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Préparations aromatisantes non normalisées</td>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>12</td>
 <td>Hexane</td>
-<td>**(1)** Extraits d'épices; extractifs naturels
-
-</td>
-<td>**(1)** 25 p.p.m.
-
-</td>
+<td>(1)</td>
+<td>Extraits d'épices; extractifs naturels</td>
+<td>(1)</td>
+<td>25 p.p.m.</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Extrait de houblon, conformément au sous-alinéa B.02.130b)(v) et à l'alinéa B.02.133a)
-
-</td>
-<td>**(2)** 2,2 %
-
-</td>
+<td></td>
+<td>(2)</td>
+<td>Extrait de houblon, conformément au sous-alinéa B.02.130b)(v) et à l'alinéa B.02.133a)</td>
+<td>(2)</td>
+<td>2,2 %</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td>**(3)** Graisses et huiles végétales
-
-</td>
-<td>**(3)** 10 p.p.m.
-
-</td>
+<td></td>
+<td>(3)</td>
+<td>Graisses et huiles végétales</td>
+<td>(3)</td>
+<td>10 p.p.m.</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td>**(4)** Farine de graines végétales oléagineuses
-
-</td>
-<td>**(4)** 10 p.p.m.
-
-</td>
+<td></td>
+<td>(4)</td>
+<td>Farine de graines végétales oléagineuses</td>
+<td>(4)</td>
+<td>10 p.p.m.</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td>**(5)** Extrait de houblon pré-isomérisé, conformément au sous-alinéa B.02.134(1)a)(i) et au paragraphe B.02.134(2)
-
-</td>
-<td>**(5)** 1,5 p.p.m., par rapport à la teneur, exprimée en pourcentage, d'acide iso-alpha dans l'extrait de houblon pré-isomérisé.
-
-</td>
+<td></td>
+<td>(5)</td>
+<td>Extrait de houblon pré-isomérisé, conformément au sous-alinéa B.02.134(1)a)(i) et au paragraphe B.02.134(2)</td>
+<td>(5)</td>
+<td>1,5 p.p.m., par rapport à la teneur, exprimée en pourcentage, d'acide iso-alpha dans l'extrait de houblon pré-isomérisé.</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>13</td>
 <td>Alcool isopropylique) (Isopropanol)</td>
-<td>**(1)** Extraits d'épices; extractifs naturels
-
-</td>
-<td>**(1)** 50 p.p.m.
-
-</td>
+<td>(1)</td>
+<td>Extraits d'épices; extractifs naturels</td>
+<td>(1)</td>
+<td>50 p.p.m.</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Protéines de poisson
-
-</td>
-<td>**(2)** 0,15 %
-
-</td>
+<td>(2)</td>
+<td>Protéines de poisson</td>
+<td>(2)</td>
+<td>0,15 %</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td>**(3)** Préparation aromatisante de (nom de l'arôme) (Titre 10)
-
-</td>
+<td>(3)</td>
+<td>Préparation aromatisante de (nom de l'arôme) (Titre 10)</td>
 <td></td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(4)** Préparations aromatisantes non normalisées
-
-</td>
 <td></td>
-<td>**(4)** Bonnes pratiques industrielles
-
-</td>
+<td>(4)</td>
+<td>Préparations aromatisantes non normalisées</td>
+<td></td>
+<td></td>
+<td>(4)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(5)** Encres à marquer la viande et les oeufs
-
-</td>
 <td></td>
-<td>**(5)** Bonnes pratiques industrielles
-
-</td>
+<td>(5)</td>
+<td>Encres à marquer la viande et les oeufs</td>
+<td></td>
+<td></td>
+<td>(5)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>14</td>
 <td>Alcool méthylique (méthanol)</td>
-<td>**(1)** Extraits d'épices; extractifs naturels
-
-</td>
-<td>**(1)** 50 p.p.m.
-
-</td>
+<td>(1)</td>
+<td>Extraits d'épices; extractifs naturels</td>
+<td>(1)</td>
+<td>50 p.p.m.</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Extrait de houblon, conformément au sous-alinéa B.02.130b)(v) et à l'alinéa B.02.133a)
-
-</td>
-<td>**(2)** 2,2 %
-
-</td>
+<td>(2)</td>
+<td>Extrait de houblon, conformément au sous-alinéa B.02.130b)(v) et à l'alinéa B.02.133a)</td>
+<td>(2)</td>
+<td>2,2 %</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td>**(3)** Encres à marquer la viande et les oeufs
-
-</td>
 <td></td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td>(3)</td>
+<td>Encres à marquer la viande et les oeufs</td>
+<td></td>
+<td></td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>14.1</td>
-<td>Méthyléthyl-  cétone (2-Butanone)</td>
-<td>Extraits d'épices; extractifs naturels
-
-</td>
-<td>50 p.p.m.
-
-</td>
+<td>Méthyléthyl-cétone (2-Butanone)</td>
+<td></td>
+<td>Extraits d'épices; extractifs naturels</td>
+<td></td>
+<td>50 p.p.m.</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>15</td>
-<td>Chlorure de méthylène  (Dichloro-  méthane)</td>
-<td>**(1)** Extraits d'épices; extractifs naturels
-
-</td>
-<td>**(1)** 30 p.p.m.
-
-</td>
+<td>Chlorure de méthylène (Dichloro-méthane)</td>
+<td>(1)</td>
+<td>Extraits d'épices; extractifs naturels</td>
+<td>(1)</td>
+<td>30 p.p.m.</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Extrait de houblon, conformément au sous-alinéa B.02.130b)(v) et à l'alinéa B.02.133a)
-
-</td>
-<td>**(2)** 2,2 % dans l'extrait de houblon
-
-</td>
+<td>(2)</td>
+<td>Extrait de houblon, conformément au sous-alinéa B.02.130b)(v) et à l'alinéa B.02.133a)</td>
+<td>(2)</td>
+<td>2,2 % dans l'extrait de houblon</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td>**(3)** Grains de café vert et feuilles de thé devant être décaféinés
-
-</td>
-<td>**(3)** 10 p.p.m. dans le café décaféiné torréfié, le café soluble instantané décaféiné, les feuilles de thé décaféiné et le thé instantané décaféiné.
-
-</td>
+<td></td>
+<td>(3)</td>
+<td>Grains de café vert et feuilles de thé devant être décaféinés</td>
+<td>(3)</td>
+<td>10 p.p.m. dans le café décaféiné torréfié, le café soluble instantané décaféiné, les feuilles de thé décaféiné et le thé instantané décaféiné.</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>16</td>
 <td>Monoglycérides et diglycérides</td>
-<td>**(1)** Préparation aromatisante de (nom de l'arôme) (Titre 10)
-
-</td>
+<td>(1)</td>
+<td>Préparation aromatisante de (nom de l'arôme) (Titre 10)</td>
 <td></td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Rocou soluble dans l'huile; rocou, colorant pour le beurre; rocou, colorant pour la margarine
-
-</td>
 <td></td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Rocou soluble dans l'huile; rocou, colorant pour le beurre; rocou, colorant pour la margarine</td>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(3)** Préparations aromatisantes non normalisées
-
-</td>
 <td></td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td>(3)</td>
+<td>Préparations aromatisantes non normalisées</td>
+<td></td>
+<td></td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(4)** Préparations d'additifs alimentaires
-
-</td>
 <td></td>
-<td>**(4)** Bonnes pratiques industrielles
-
-</td>
+<td>(4)</td>
+<td>Préparations d'additifs alimentaires</td>
+<td></td>
+<td></td>
+<td>(4)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>17</td>
 <td>Citrate de monoglycérides</td>
-<td>**(1)** Extraits d'épices; extractifs naturels
-
-</td>
+<td>(1)</td>
+<td>Extraits d'épices; extractifs naturels</td>
 <td></td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Préparations aromatisantes non normalisées
-
-</td>
+<td>(2)</td>
+<td>Préparations aromatisantes non normalisées</td>
 <td></td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>18</td>
 <td>2-Nitropropane</td>
-<td>Huiles végétales
-
-</td>
-<td>0,5 p.p.m.
-
-</td>
+<td></td>
+<td>Huiles végétales</td>
+<td></td>
+<td>0,5 p.p.m.</td>
+<td></td>
 <td></td>
 </tr>
 <tr>
 <td>19</td>
-<td>1,2-Propylène-  glycol  (1,2-propanédiol)</td>
-<td>**(1)** Extrait de (nom de l'arôme); essence de (nom de l'arôme); préparation aromatisante de (nom de l'arôme) (Titre 10)
-
-</td>
+<td>1,2-Propylène-glycol (1,2-propanédiol)</td>
+<td>(1)</td>
+<td>Extrait de (nom de l'arôme); essence de (nom de l'arôme); préparation aromatisante de (nom de l'arôme) (Titre 10)</td>
 <td></td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Rocou soluble dans l'huile; rocou, colorant pour le beurre; rocou, colorant pour la margarine
-
-</td>
 <td></td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Rocou soluble dans l'huile; rocou, colorant pour le beurre; rocou, colorant pour la margarine</td>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(3)** Préparations aromatisantes non normalisées
-
-</td>
 <td></td>
-<td>**(3)** Bonnes pratiques industrielles
-
-</td>
+<td>(3)</td>
+<td>Préparations aromatisantes non normalisées</td>
+<td></td>
+<td></td>
+<td>(3)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(4)** Mélanges colorants et préparations colorantes (Titre 6)
-
-</td>
 <td></td>
-<td>**(4)** Bonnes pratiques industrielles
-
-</td>
+<td>(4)</td>
+<td>Mélanges colorants et préparations colorantes (Titre 6)</td>
+<td></td>
+<td></td>
+<td>(4)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(5)** Préparations d'additifs alimentaires
-
-</td>
 <td></td>
-<td>**(5)** Bonnes pratiques industrielles
-
-</td>
+<td>(5)</td>
+<td>Préparations d'additifs alimentaires</td>
+<td></td>
+<td></td>
+<td>(5)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>20</td>
 <td>Mono et diesters de propylène-glycol et d'acides gras lipogènes</td>
-<td>Rocou soluble dans l'huile; rocou, colorant pour le beurre; rocou, colorant pour la margarine
-
-</td>
 <td></td>
-<td>Bonnes pratiques industrielles
-
-</td>
+<td>Rocou soluble dans l'huile; rocou, colorant pour le beurre; rocou, colorant pour la margarine</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>21</td>
-<td>Citrate de  triéthyle</td>
-<td>**(1)** Préparation aromatisante de (nom de l'arôme) (Titre 10)
-
-</td>
+<td>Citrate de triéthyle</td>
+<td>(1)</td>
+<td>Préparation aromatisante de (nom de l'arôme) (Titre 10)</td>
 <td></td>
-<td>**(1)** Bonnes pratiques industrielles
-
-</td>
+<td></td>
+<td>(1)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td></td>
-<td>**(2)** Préparations aromatisantes non normalisées
-
-</td>
 <td></td>
-<td>**(2)** Bonnes pratiques industrielles
-
-</td>
+<td>(2)</td>
+<td>Préparations aromatisantes non normalisées</td>
+<td></td>
+<td></td>
+<td>(2)</td>
+<td>Bonnes pratiques industrielles</td>
 </tr>
 </table>
 
 > DORS/78-403, art. 26 et 27; DORS/82-383, art. 12; DORS/82-406, art. 1; DORS/82-913, art. 5; DORS/82-1071, art. 21 et 22; DORS/84-541, art. 1; DORS/86-89, art. 8 et 9; DORS/86-178, art. 4 à 7; DORS/86-1112, art. 9; DORS/90-667, art. 1; DORS/94-689, art. 2; DORS/96-259, art. 1; DORS/96-377, art. 1.
+
+
 
 
 
@@ -45661,6 +44358,8 @@ le ministre peut émettre un numéro d’enregistrement pour ce nécessaire, qu�
 
 Abacavir et ses sels<br />- <i>Abacavir and its salts</i>
 
+Abatacept <br />- <i>Abatacept</i>
+
 Abciximab<br />- <i>Abciximab</i>
 
 Acarbose et ses dérivés<br />- <i>Acarbose and its derivatives</i>
@@ -46173,6 +44872,8 @@ Déféroxamine et ses sels<br />- <i>Deferoxamine and its salts</i>
 
 Délavirdine et ses sels<br />- <i>Delavirdine and its salts</i>
 
+Déracoxib<br />- <i>Deracoxib</i>
+
 Déserpidine, ses alcaloïdes et sels<br />- <i>Deserpidine and its alkaloids and salts</i>
 
 Desflurane<br />- <i>Desflurane</i>
@@ -46315,6 +45016,8 @@ Enrofloxacine<br />- <i>Enrofloxacin</i>
 
 Entacapone<br />- <i>Entacapone</i>
 
+Entécavir <br />- <i>Entecavir</i>
+
 Épirubicine et ses sels<br />- <i>Epirubicine and its salts</i>
 
 Époprosténol et ses sels<br />- <i>Epoprostenol and its salts</i>
@@ -46324,6 +45027,8 @@ Entacapone<br />- <i>Entacapone</i>
 Epsiprantel<br />- <i>Epsiprantel</i>
 
 Eptifibatide et ses sels<br />- <i>Eptifibatide and its salts</i>
+
+Erlotinib et ses sels<br />- <i>Erlotinib and its salts</i>
 
 Ertapénem et ses sels<br />- <i>Ertapenem and its salts</i>
 
@@ -46513,6 +45218,8 @@ Hexacyclonate sodique<br />- <i>Hexacyclonate sodium</i>
 
 Hexaméthonium et ses sels<br />- <i>Hexamethonium and its salts</i>
 
+Histréline et ses sels<br />- <i>Histrelin and its salts</i>
+
 Hyaluronique (acide) et ses sels, s'il est vendu ou recommandé pour administration par injection intra-articulaire aux chevaux<br />- <i>Hyaluronic acid and its salts, when sold or recommended for administration by intra-articular injection to horses</i>
 
 Hydralazine et ses sels<br />- <i>Hydralazine and its salts</i>
@@ -46646,6 +45353,8 @@ Losoxantrone et ses sels<br />- <i>Losoxantrone and its salts</i>
 Lovastatine<br />- <i>Lovastatin</i>
 
 Loxapine et ses sels<br />- <i>Loxapine and its salts</i>
+
+Lutropine alfa<br />- <i>Lutropine alfa</i>
 
 Maprotiline et ses sels<br />- <i>Maprotiline and its salts</i>
 
@@ -47101,6 +45810,8 @@ Praziquantel, sauf s’il est vendu pour le traitement du ver solitaire Anoploce
 
 Prazosine et ses sels<br />- <i>Prazosin and its salts</i>
 
+Prégabaline, ses sels et ses dérivés<br />- <i>Pregabalin and its salts and derivatives </i>
+
 Prénylamine et ses sels<br />- <i>Prenylamine and its salts</i>
 
 Primaquine et ses sels<br />- <i>Primaquine and its salts</i>
@@ -47175,6 +45886,8 @@ Répaglinide et ses sels et dérivés<br />- <i>Repaglinide and its salts and de
 
 Rescinnamine et ses sels<br />- <i>Rescinnamine and its salts</i>
 
+Résocortol et ses dérivés<br />- <i>Resocortol and its derivatives</i>
+
 Réviparine et ses sels<br />- <i>Reviparin and its salts</i>
 
 Ribavirine<br />- <i>Ribavirin</i>
@@ -47243,6 +45956,8 @@ Sirolimus et ses dérivés<br />- <i>Sirolimus and its derivatives</i>
 
 Sodium (nitroprussiate de) et ses sels<br />- <i>Sodium nitroprusside and its salts</i>
 
+Solifénacine et ses sels<br />- <i>Solifenacin and its salts</i>
+
 Somatostatine<br />- <i>Somatostatin</i>
 
 Somatrem<br />- <i>Somatrem</i>
@@ -47272,6 +45987,8 @@ Sulindac et ses sels<br />- <i>Sulindac and its salts</i>
 Sulphones et leurs dérivés<br />- <i>Sulphones and their derivatives</i>
 
 Sumatriptan et ses sels<br />- <i>Sumatriptan and its salts</i>
+
+Sunitinib et ses sels<br />- <i>Sunitinib and its salts</i>
 
 Suprofène et ses sels<br />- <i>Suprofen and its salts</i>
 
@@ -47460,6 +46177,8 @@ Trioxysalène<br />- <i>Trioxsalen</i>
 Troglitazone<br />- <i>Troglitazone</i>
 
 Tropicamide et ses sels dans les préparations pour usage ophtalmique ou parentéral, sauf lorsque vendu pour usage diagnostique à un optométriste enregistré dans une province du Canada<br />- <i>Tropicamide and its salts in preparations for parenteral or ophthalmic use, except when sold for use in diagnostic procedures to an optometrist registered in a province of Canada</i>
+
+Trospium (chlorure de)<br />- <i>Trospium chloride</i>
 
 Trovafloxacine et ses sels et dérivés<br />- <i>Trovafloxacin and its salts and derivatives</i>
 
@@ -47837,7 +46556,7 @@ Vitamine K, sauf la vitamine K<sub>1</sub> et la vitamine K<sub>2</sub> vendues 
 **b)** *in oral dosage form for use in humans if the maximum recommended daily dose is 0.120 mg or less*
 
 
-> DORS/78-423, art. 5; DORS/78-427, art. 11; DORS/79-754, art. 1; DORS/80-279, art. 1; DORS/81-334, art. 6; DORS/81-358, art. 2; DORS/82-1072, art. 1; DORS/85-551, art. 2; DORS/86-91, art. 5; DORS/86-955, art. 1; DORS/87-332, art. 1; DORS/87-447, art. 1; DORS/87-496, art. 1 à 18; DORS/87-669, art. 1 et 2; DORS/88-351, art. 1 à 11; DORS/88-511, art. 1 à 11; DORS/89-195, art. 1; DORS/89-454, art. 1 à 4; DORS/89-504, art. 1 à 4; DORS/89-572, art. 1 à 45; DORS/90-119, art. 1 à 10; DORS/90-173, art. 2(F); DORS/90-443, art. 1(F) à 4(F), 5 et 6(F) à 15(F); DORS/90-585, art. 1 à 5; DORS/91-197, art. 1 et 2(F); DORS/91-521, art. 1 à 15; DORS/92-95, art. 1 à 9; DORS/92-386, art. 4 à 8; DORS/92-591, art. 2; DORS/92-647, art. 1 à 15; DORS/92-724, art. 1; DORS/93-110, art. 1 à 3, 4(A), 5(A) et 6 à 11; DORS/93-243, art. 2; DORS/93-435, art. 1 à 38; DORS/94-166, art. 1 à 17, 18(A) et 19 à 30; DORS/94-286, art. 1 et 2; DORS/94-458, art. 1 à 13; DORS/94-462, art. 1; DORS/94-557, art. 1 à 9; DORS/94-461, art. 1; DORS/95-59, art. 1; DORS/95-172, art. 2; DORS/95-201, art. 1; DORS/95-546, art. 1; DORS/96-253, art. 1 et 2; DORS/96-306, art. 1; DORS/97-140, art. 1; DORS/97-407, art. 1; DORS/97-410, art. 1 et 2; DORS/97-414, art. 1; DORS/97-543, art. 8 et 9; DORS/97-544, art. 1; DORS/97-567, art. 1; DORS/98-291, art. 1 à 7; DORS/98-292, art. 1; DORS/98-293, art. 1; DORS/98-294, art. 1; DORS/99-370, art. 1, 2(F), 3 et 4(F); DORS/99-373, art. 1; DORS/99-374, art. 1(F) et 2; DORS/99-412, art. 1; DORS/2000-119, art. 1; DORS/2000-124, art. 1; DORS/2000-197, art. 1 et 2; DORS/2000-219, art. 2; DORS/2000-403, art. 1 et 2; DORS/2001-95, art. 1; DORS/2001-531, art. 1; DORS/2002-53, art. 1; DORS/2002-418, art. 1; DORS/2003-34, art. 6 à 8; DORS/2003-36, art. 1; DORS/2003-80, art. 1 et 2; DORS/2003-248, art. 1; DORS/2003-327, art. 1; DORS/2004-108, art. 1 à 6; DORS/2005-105, art. 1; DORS/2005-167, art. 1; DORS/2005-270, art. 1; DORS/2005-307, art. 1; DORS/2006-143, art. 1; DORS/2006-144, art. 1 et 2; DORS/2006-211, art. 1; DORS/2006-212, art. 1; DORS/2006-213, art. 1; DORS/2006-214, art. 1; DORS/2006-215, art. 1; DORS/2006-251, art. 1; DORS/2007-36, art. 1; DORS/2007-37, art. 1; DORS/2007-38, art. 1; DORS/2007-39, art. 1; DORS/2007-40, art. 1; DORS/2007-41, art. 1; DORS/2007-42, art. 1 et 2; DORS/2007-83, art. 1.
+> DORS/78-423, art. 5; DORS/78-427, art. 11; DORS/79-754, art. 1; DORS/80-279, art. 1; DORS/81-334, art. 6; DORS/81-358, art. 2; DORS/82-1072, art. 1; DORS/85-551, art. 2; DORS/86-91, art. 5; DORS/86-955, art. 1; DORS/87-332, art. 1; DORS/87-447, art. 1; DORS/87-496, art. 1 à 18; DORS/87-669, art. 1 et 2; DORS/88-351, art. 1 à 11; DORS/88-511, art. 1 à 11; DORS/89-195, art. 1; DORS/89-454, art. 1 à 4; DORS/89-504, art. 1 à 4; DORS/89-572, art. 1 à 45; DORS/90-119, art. 1 à 10; DORS/90-173, art. 2(F); DORS/90-443, art. 1(F) à 4(F), 5 et 6(F) à 15(F); DORS/90-585, art. 1 à 5; DORS/91-197, art. 1 et 2(F); DORS/91-521, art. 1 à 15; DORS/92-95, art. 1 à 9; DORS/92-386, art. 4 à 8; DORS/92-591, art. 2; DORS/92-647, art. 1 à 15; DORS/92-724, art. 1; DORS/93-110, art. 1 à 3, 4(A), 5(A) et 6 à 11; DORS/93-243, art. 2; DORS/93-435, art. 1 à 38; DORS/94-166, art. 1 à 17, 18(A) et 19 à 30; DORS/94-286, art. 1 et 2; DORS/94-458, art. 1 à 13; DORS/94-462, art. 1; DORS/94-557, art. 1 à 9; DORS/94-461, art. 1; DORS/95-59, art. 1; DORS/95-172, art. 2; DORS/95-201, art. 1; DORS/95-546, art. 1; DORS/96-253, art. 1 et 2; DORS/96-306, art. 1; DORS/97-140, art. 1; DORS/97-407, art. 1; DORS/97-410, art. 1 et 2; DORS/97-414, art. 1; DORS/97-543, art. 8 et 9; DORS/97-544, art. 1; DORS/97-567, art. 1; DORS/98-291, art. 1 à 7; DORS/98-292, art. 1; DORS/98-293, art. 1; DORS/98-294, art. 1; DORS/99-370, art. 1, 2(F), 3 et 4(F); DORS/99-373, art. 1; DORS/99-374, art. 1(F) et 2; DORS/99-412, art. 1; DORS/2000-119, art. 1; DORS/2000-124, art. 1; DORS/2000-197, art. 1 et 2; DORS/2000-219, art. 2; DORS/2000-403, art. 1 et 2; DORS/2001-95, art. 1; DORS/2001-531, art. 1; DORS/2002-53, art. 1; DORS/2002-418, art. 1; DORS/2003-34, art. 6 à 8; DORS/2003-36, art. 1; DORS/2003-80, art. 1 et 2; DORS/2003-248, art. 1; DORS/2003-327, art. 1; DORS/2004-108, art. 1 à 6; DORS/2005-105, art. 1; DORS/2005-167, art. 1; DORS/2005-270, art. 1; DORS/2005-307, art. 1; DORS/2006-143, art. 1; DORS/2006-144, art. 1 et 2; DORS/2006-211, art. 1; DORS/2006-212, art. 1; DORS/2006-213, art. 1; DORS/2006-214, art. 1; DORS/2006-215, art. 1; DORS/2006-251, art. 1; DORS/2007-36, art. 1; DORS/2007-37, art. 1; DORS/2007-38, art. 1; DORS/2007-39, art. 1; DORS/2007-40, art. 1; DORS/2007-41, art. 1; DORS/2007-42, art. 1 et 2; DORS/2007-83, art. 1; DORS/2007-224, art. 1; DORS/2007-234, art. 1.
 
 
 
