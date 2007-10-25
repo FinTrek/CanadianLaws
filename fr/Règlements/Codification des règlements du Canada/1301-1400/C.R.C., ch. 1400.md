@@ -30,11 +30,11 @@ Autorités habilitantes :
 
 - **(1)** Les définitions qui suivent s’appliquent au présent règlement.
 
-***Avis de publication des prix applicables aux semences*** Avis publié dans la Gazette du Canada, Partie I, en vertu du paragraphe 26(2) de la [Loi sur l’Agence canadienne d’inspection des aliments](/fr/Lois/Lois%20du%20Canada/1997/ch.%206.md), avec ses modifications successives. (*Seeds Fees Notice*)
+***Avis de publication des prix applicables aux semences*** [Abrogée, DORS/2007-223, art. 1]
 
 ***biotechnologie*** Application des sciences ou de l’ingénierie à l’utilisation des organismes vivants ou de leurs parties ou produits, sous leur forme naturelle ou modifiée. (*biotechnology*)
 
-***organisme de vérification de la conformité*** Organisme qui a conclu un accord avec l’Agence en vertu du paragraphe 14(1) de la [Loi sur l’Agence canadienne d’inspection des aliments](/fr/Lois/Lois%20du%20Canada/1997/ch.%206.md) pour notamment évaluer, recommander aux fins d’acceptation et vérifier les établissements, les exploitants, les classificateurs et les laboratoires qui transforment, importent, échantillonnent, mettent à l’essai, classent ou étiquettent des semences. (*conformity verification body*)
+***organisme de vérification de la conformité*** Organisme qui a conclu un accord avec l’Agence en vertu du paragraphe 14(1) de la [Loi sur l’Agence canadienne d’inspection des aliments](/fr/Lois/Lois%20du%20Canada/1997/ch.%206.md) pour notamment évaluer, recommander aux fins d’acceptation et vérifier les établissements, les exploitants, les classificateurs, les échantillonneurs ou les laboratoires qui transforment, importent, échantillonnent, mettent à l’essai, classent ou étiquettent des semences. (*conformity verification body*)
 
 ***semences*** Vise notamment les semences issues de la biotechnologie. (*seed*)
 
@@ -69,25 +69,23 @@ Autorités habilitantes :
 ***échantillon reconnu officiellement*** Échantillon de semence qui a été :
 - **a)** soit prélevé par un échantillonneur agréé, ou sous sa supervision, et préparé par un échantillonneur agréé selon les méthodes normalisées reconnues;
 - **b)** soit prélevé et préparé selon les méthodes normalisées reconnues par une personne qui est agréée pour ce faire par l’un ou l’autre des organismes suivants :
-	- **(i)** une agence officielle de certification,
-	- **(ii)** un laboratoire d’analyse des semences agréé par l’Association internationale d’essais de semences pour ce faire. (*officially-recognized sample*)
+	- **(i)** un organisme gouvernemental ou un organisme reconnu officiellement qui a le pouvoir de réglementer l’importation, l’exportation ou la commercialisation des semences,
+	- **(ii)** une agence officielle de certification,
+	- **(iii)** un laboratoire d’analyse des semences agréé par l’Association internationale d’essais de semences (ISTA) pour délivrer des certificats internationaux de lots de semences, dans le cas d’un échantillon qui doit être analysé par le laboratoire agréé ou par un autre laboratoire agréé par l’ISTA. (*officially recognized sample*)
 
 ***échantillonneur agréé*** Personne agréée aux termes du paragraphe 13.1(2.1). (*licensed sample*)
 
-***essai reconnu officiellement*** Essai effectué selon les méthodes normalisées reconnues à l’égard d’un échantillon reconnu officiellement dans un laboratoire reconnu officiellement ou, s’il s’agit d’analyser les impuretés présentes dans les semences des sortes ou espèces visées aux tableaux I à VI de l’annexe I ou dans des semences de grosseur semblable, par un classificateur agréé. (*officially-recognized test*)
+***essai reconnu officiellement*** Essai effectué selon les méthodes normalisées reconnues à l’égard d’un échantillon reconnu officiellement dans un laboratoire reconnu officiellement ou, s’il s’agit d’analyser les impuretés présentes dans les semences des sortes ou espèces visées aux tableaux I à VI de l’annexe I ou dans des semences de grosseur semblable, par un classificateur agréé. (*officially recognized test*)
 
 ***étiquette canadienne*** Étiquette officielle à l’égard d’une semence provenant d’une récolte cultivée au Canada et classée sous une dénomination de la catégorie Canada généalogique. (*domestic tag*)
 
 ***étiquette de certification inter-agences*** Étiquette officielle à l’égard d’une semence qui est certifiée par une agence officielle de certification et qui est classée sous une dénomination de la catégorie Canada généalogique. (*inter-agency certification tag*)
 
-***étiquette de qualité Généalogique*** Étiquette officielle à l’égard d’une semence provenant d’une récolte non cultivée au Canada et non classée. (*pedigreed status tag*)
+***étiquette de qualité Généalogique*** Étiquette officielle à l’égard d’une semence provenant d’une récolte cultivée au Canada et non classée. (*pedigreed status tag*)
 
-***étiquette officielle*** Étiquette délivrée par l’Agence à l’égard d’une semence de qualité Généalogique. (*official tag*)
+***étiquette officielle*** Étiquette délivrée ou approuvée par l’Agence à l’égard d’une semence de qualité Généalogique. (*official tag*)
 
-***laboratoire reconnu officiellement*** Laboratoire d’analyse des semences qui, selon le cas :
-- **a)** est désigné par le ministre à titre de laboratoire agréé en application de l’article 14 de la [Loi sur les produits agricoles au Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%2020%20(4e%20suppl.).md);
-- **b)** jusqu’au 1<sup>er</sup> juillet 1997, est exploité par le gouvernement d’un État ou d’un pays étrangers ou sous son autorité;
-- **c)** jusqu’au 1<sup>er</sup> juillet 1997, est exploité sous la surveillance d’un technicien des semences agréé par la **Society of Commercial Seed Technologists**. (*officially-recognized laboratory*)
+***laboratoire reconnu officiellement*** Laboratoire d’analyse des semences qui est désigné par le ministre à titre de laboratoire agréé en application de l’article 14 de la [Loi sur les produits agricoles au Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%2020%20(4e%20suppl.).md). (*officially recognized laboratory*)
 
 ***Loi***
 - **a)** Pour les parties I et III, la [Loi sur les semences](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-8.md);
@@ -104,7 +102,7 @@ Autorités habilitantes :
 
 ***méthodes et procédés canadiens d’essai des semences*** Méthodes et procédés d’essai des semences décrits dans le document intitulé Méthodes et procédés canadiens d’essai des semences, rédigé par l’Agence, avec ses modifications successives. (*Canadian Methods and Procedures for Testing Seed*)
 
-***ministère*** Le ministère de l’Agriculture et de l’Agroalimentaire. (*Department*)
+***ministère*** [Abrogée, DORS/2007-223, art. 1]
 
 ***nom de variété*** Mot ou chiffre, ou combinaison de lettres et de chiffres, désignant une variété. (*variety name*)
 
@@ -140,7 +138,7 @@ Autorités habilitantes :
 
 ***qualité Généalogique*** Se dit d’une semence qui est de qualité Fondation, de qualité Enregistrée ou de qualité Certifiée ou que l’Association a approuvée à titre de semence du sélectionneur ou de semence Select. (*pedigreed status*)
 
-***registraire*** Personne désignée par le président en vue d’agréer les classificateurs ou les échantillonneurs. (*Registrar*)
+***registraire*** [Abrogée, DORS/2007-223, art. 1]
 
 ***scellé*** Se dit d’un emballage fermé de façon qu’il est impossible de l’ouvrir facilement sans que cela ne paraisse. (*fastened*)
 
@@ -152,14 +150,14 @@ Autorités habilitantes :
 - **a)** les provinces du Manitoba, de la Saskatchewan et d’Alberta;
 - **b)** les parties de la Colombie-Britannique connues sous le nom du district de la rivière de la Paix et de la région de Creston-Wynndell. (*Canadian Wheat Board area*)
 
-***variété*** Signification attribuée au cultivar par l’Association internationale de la Commission des sciences biologiques pour la nomenclature des plantes cultivées qui dénote un ensemble de plantes cultivées, y compris les hybrides obtenus par pollinisation croisée contrôlée, qui :
+***variété*** Signification attribuée à un cultivar par l’Union internationale de la Commission des sciences biologiques pour la nomenclature des plantes cultivées qui dénote un ensemble de plantes cultivées, y compris les hybrides obtenus par pollinisation croisée contrôlée, qui :
 - **a)** se distinguent par des caractéristiques communes d’ordre morphologique, physiologique, cytologique, chimique ou autre;
 - **b)** conservent leurs caractéristiques distinctives après multiplication. (*variety*)
 
 - **(3)** Les parties I à III sont prises en vertu de la [Loi sur les semences](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-8.md).
 
 - **(4)** La partie IV est prise en vertu de la [Loi sur les produits agricoles au Canada](/fr/Lois/Lois%20du%20Canada/1985/ch.%2020%20(4e%20suppl.).md).
-> DORS/86-850, art. 1; DORS/87-62, art. 1; DORS/91-609, art. 1; DORS/93-162, art. 1; DORS/96-252, art. 2; DORS/97-292, art. 33; DORS/97-534, art. 1; DORS/2000-184, art. 82; DORS/2001-93, art. 1; DORS/2003-6, art. 100.
+> DORS/86-850, art. 1; DORS/87-62, art. 1; DORS/91-609, art. 1; DORS/93-162, art. 1; DORS/96-252, art. 2; DORS/97-292, art. 33; DORS/97-534, art. 1; DORS/2000-184, art. 82; DORS/2001-93, art. 1; DORS/2003-6, art. 100; DORS/2007-223, art. 1.
 
 
 
@@ -174,13 +172,19 @@ Autorités habilitantes :
 
 
 
-**3** [Abrogé, DORS/2000-184, art. 83]
-
-
-
 
 **PARTIE I** 
 ## Semences autres que les pommes de terre de semence
+
+
+
+### Définition
+
+
+**3** Dans la présente partie, ***registraire*** s’entend de la personne désignée par le président en vue d’agréer les classificateurs ou les échantillonneurs.
+> DORS/2007-223, art. 2.
+
+
 
 
 
@@ -220,8 +224,8 @@ Autorités habilitantes :
 
 - **(6)** La semence des sortes ou espèces figurant à l’annexe I qui est importée à des fins de recherche est soustraite à l’application de l’alinéa 3(1)a) de la Loi pourvu qu’elle puisse être importée au Canada sans avoir à satisfaire aux normes de pourcentage minimal de germination énoncées à cette annexe.
 
-- **(7)** La semence de fleur est soustraite à l’application de l’alinéa 3(1)a) de la Loi pourvu qu’elle puisse être importée au Canada sans avoir à se conformer à l’exigence visant le certificat d’analyse de la semence prévue au paragraphe 40(2).
-> DORS/96-252, art. 2.
+- **(7)** [Abrogé, DORS/2007-223, art. 3]
+> DORS/96-252, art. 2; DORS/2007-223, art. 3.
 
 
 
@@ -242,14 +246,14 @@ Autorités habilitantes :
 	- **e)** pour les sortes ou espèces comportant de 601 à 1 500 semences par gramme, le tableau IX;
 	- **f)** pour les sortes ou espèces comportant 1 500 semences ou moins par gramme, le tableau XI;
 	- **g)** pour les sortes ou espèces comportant 1 501 semences ou plus par gramme, le tableau XII;
-	- **h)** pour les semences ou mélanges utilisés pour la remise en état du terrain, le tableau XIII;
+	- **h)** pour les semences ou mélanges utilisés pour la remise en état du terrain, la préservation du sol, la couverture végétale, le pâturage ou l’habitat de la faune, la restauration de marécages, et à des fins semblables, le tableau XIII;
 	- **i)** pour les herbes et les légumes, le tableau XX, sauf s’ils comportent 1 000 semences ou plus par gramme, auquel cas il s’agit du tableau XII;
-	- **j)** pour les mélanges de fleurs sauvages, le tableau XV.
+	- **j)** pour les mélanges de fleurs sauvages et produits analogues destinés aux jardins paysagers, le tableau XV.
 
-- **(3)** La semence d’orge qui a été traitée avec un produit agréé aux termes de la [Loi sur les produits antiparasitaires](/fr/Lois/Lois%20du%20Canada/2002/ch.%2028.md) comme moyen de lutte contre le charbon nu véritable (*Ustilago nuda*) n’a pas à satisfaire aux normes visant le charbon nu véritable énoncées à la colonne IX du tableau II de l’annexe I.
+- **(3)** La semence d’orge qui a été traitée avec un produit agréé aux termes de la [Loi sur les produits antiparasitaires](/fr/Lois/Lois%20du%20Canada/2002/ch.%2028.md) comme moyen de lutte contre le charbon nu véritable (*Ustilago nuda*) n’a pas à satisfaire aux normes visant le charbon nu véritable énoncées à la colonne 9 du tableau II de l’annexe I.
 
 - **(4)** Les semences visées au paragraphe (2) ne sont pas considérées comme de la semence de mauvaises herbes aux fins de ce paragraphe.
-> DORS/86-850, art. 3; DORS/89-368, art. 1 et 4(F); DORS/91-609, art. 2; DORS/93-162, art. 2; DORS/96-252, art. 2; DORS/2003-6, art. 101.
+> DORS/86-850, art. 3; DORS/89-368, art. 1 et 4(F); DORS/91-609, art. 2; DORS/93-162, art. 2; DORS/96-252, art. 2; DORS/2003-6, art. 101; DORS/2007-223, art. 4.
 
 
 
@@ -263,37 +267,58 @@ Autorités habilitantes :
 	- **c)** dans le cas d’une semence classée sous une dénomination de l’une des catégories Canada Enregistrée, elle doit être de qualité Fondation ou de qualité Enregistrée et si deux ou plusieurs lots de semence de la même variété sont mélangés, l’Association est tenue de délivrer un nouveau certificat de récolte pourvu que la semence satisfasse aux normes établies par elle;
 	- **d)** dans le cas d’une semence classée sous une dénomination de l’une des catégories Canada Certifiée, elle doit être de qualité Fondation, de qualité Enregistrée ou de qualité Certifiée et l’Agence doit être informée du mélange de deux ou plusieurs lots de semence de la même variété;
 	- **e)** dans le cas d’une semence classée sous une dénomination de l’une des catégories Mélange de variétés, elle doit être toute de qualité Généalogique;
-	- **f)** un mélange de semences contenant différentes variétés de la même sorte ou espèce ne peut être classé sous une dénomination de la catégorie Canada généalogique;
-	- **g)** les mélanges de céréales Canada Certifié n<sup>o</sup> 1 et Canada Certifié n<sup>o</sup> 2 ne peuvent contenir que des semences de qualité Généalogique et qu’une variété par sorte ou espèce.
+	- **f)** un mélange de plantes fourragères Canada Certifiée n<sup>o</sup> 1 ou un mélange de plantes fourragères Canada Certifiée n<sup>o</sup> 2 peuvent contenir plus qu’une variété par sorte ou espèce;
+	- **g)** les mélanges de céréales Canada Certifiée n<sup>o</sup> 1 et Canada Certifiée n<sup>o</sup> 2 ne peuvent contenir que des semences de qualité Généalogique et qu’une variété par sorte ou espèce;
+	- **h)** un mélange de graminées à pelouse Canada Certifiée n<sup>o</sup> 1 ou un mélange de graminées à pelouse Canada Certifiée n<sup>o</sup> 2 peuvent contenir plus qu’une variété par sorte ou espèce.
 
-- **(2)** En plus de satisfaire aux normes prévues aux tableaux I, II et III de l’annexe I, la semence figurant à ces tableaux doit, au Manitoba, en Saskatchewan, en Alberta et en Colombie-Britannique, être exempte de sarrasin de Tartarie.
+- **(1.1)** Malgré le tableau I de l’annexe I, les semences Canada Fondation n<sup>o</sup> 2 et Canada Enregistrée n<sup>o</sup> 2 peuvent contenir une graine de mauvaise herbe nuisible secondaire par 10 kg.
 
-- **(3)** En plus de satisfaire aux normes prévues aux tableaux I, II et III de l’annexe I, la semence figurant à ces tableaux doit, au Québec, en Nouvelle-Écosse, au Nouveau-Brunswick et à l’Île-du-Prince-Édouard, être exempte de folle avoine.
+- **(1.2)** Malgré le tableau I de l’annexe I, les semences Canada Certifiée n<sup>o</sup> 2 peuvent contenir une graine de mauvaise herbe nuisible secondaire par 2 kg.
 
-- **(4)** Pour la classification des semences de lentilles figurant au tableau II de l’annexe I, la tige porte-graines de la mauve (*Malva* spp.) est considérée comme une mauvaise herbe nuisible secondaire.
+- **(1.3)** Malgré le tableau II de l’annexe I, les semences d’avoine Canada Fondation n<sup>o</sup> 2 et Canada Enregistrée n<sup>o</sup> 2 peuvent contenir une graine de mauvaise herbe nuisible secondaire par 10 kg.
 
-- **(5)** Les semences figurant au tableau VII de l’annexe I doivent être exemptes de graines de gaillet gratteron (*Galium aparine* L. et *Galium spurium* L.).
+- **(1.4)** Malgré le tableau II de l’annexe I, les semences d’avoine Canada Certifiée n<sup>o</sup> 1 peuvent contenir une graine de mauvaise herbe nuisible secondaire par 2 kg.
 
-- **(6)** La colonne V du tableau VIII de l’annexe I ne s’applique pas aux semences du mélilot.
+- **(1.5)** Malgré le tableau II de l’annexe I, les semences Canada Fondation n<sup>o</sup> 2, autres que l’avoine, Canada Enregistrée n<sup>o</sup> 2, autres que l’avoine, et Canada Certifiée n<sup>o</sup> 1, autres que l’avoine, peuvent contenir une graine de mauvaise herbe nuisible secondaire par 5 kg.
+
+- **(1.6)** Malgré le tableau III de l’annexe I, les semences de mélanges de céréales Canada Certifiée n<sup>o</sup> 1 peuvent contenir une graine de mauvaise herbe nuisible secondaire par 5 kg.
+
+- **(2)** En plus de satisfaire aux normes prévues aux tableaux I à III de l’annexe I, la semence figurant à ces tableaux doit, au Manitoba, en Saskatchewan, en Alberta et en Colombie-Britannique, être exempte de sarrasin de Tartarie.
+
+- **(3)** En plus de satisfaire aux normes prévues aux tableaux I à III de l’annexe I, la semence figurant à ces tableaux doit, au Québec, en Nouvelle-Écosse, au Nouveau-Brunswick et à l’Île-du-Prince-Édouard, être exempte de folle avoine.
+
+- **(4)** Malgré le tableau IV de l’annexe I, les semences Canada Fondation n<sup>o</sup> 2, Canada Enregistrée n<sup>o</sup> 2 et Canada Certifiée n<sup>o</sup> 1 peuvent contenir une graine de mauvaise herbe nuisible secondaire par 50 g, sauf en ce qui concerne la folle avoine dans le lin.
+
+- **(4.1)** Malgré le tableau IV de l’annexe I, les semences Canada Fondation n<sup>o</sup> 1 et Canada Enregistrée n<sup>o</sup> 1 d’alpiste des Canaries, de sorgho commun et d’herbe du Soudan peuvent contenir une semence d’une autre plante cultivée par 25 g.
+
+- **(4.2)** Malgré le tableau V de l’annexe I, les semences Canada Fondation n<sup>o</sup> 2 peuvent contenir une semence d’une autre plante cultivée par 2 kg.
+
+- **(5)** Les semences figurant au tableau VII de l’annexe I doivent être exemptes de graines de gaillet gratteron (*Galium aparine* L.) et de gaillet bâtard (*Galium spurium* L.).
+
+- **(6)** La colonne 5 du tableau VIII de l’annexe I ne s’applique pas aux semences du mélilot.
 
 - **(7)** Malgré les sortes et espèces de semences figurant au tableau XI de l’annexe I :
-	- **a)** la sous-colonne 1 de la colonne X s’applique seulement à la fétuque de Chewing, à la fétuque des prés, à la fétuque rouge, à la fétuque rouge traçante, à la fétuque élevée, au ray-grass annuel, au ray-grass hybride et au ray-grass vivace;
-	- **b)** la sous-colonne 2 de la colonne X s’applique seulement au brome inerme, au brome des prés, au brome doux, aux fétuques à feuilles fines, durette, ovine et à feuilles variées, au vulpin traçant, au vulpin des prés, au dactyle pelotonné, à l’agropyre à épi inerme, à l’agropyre du Nord, à l’agropyre pubescent, à l’agropyre grêle, à l’agropyre des rives, à l’élyme de l’Altai, à l’élyme dahurien et à l’élyme de Russie;
-	- **c)** la sous-colonne 3 de la colonne X s’applique seulement à l’agropyre à crête, à l’agropyre intermédiaire, à l’agropyre de Sibérie, à l’agropyre élevé, à l’agropyre de l’Ouest et à l’avoine élevée;
-	- **d)** la sous-colonne 4 de la colonne X s’applique seulement à l’alpiste roseau des canaries;
-	- **e)** la sous-colonne 1 de la colonne XI s’applique seulement à la fétuque de Chewing, à la fétuque des prés, à la fétuque rouge, à la fétuque rouge traçante, à la fétuque élevée, au ray-grass annuel, au ray-grass hybride, au ray-grass vivace et à l’alpiste roseau des canaries;
-	- **f)** la sous-colonne 2 de la colonne XI s’applique seulement au brome inerme, au brome des prés, au brome doux, aux fétuques à feuilles fines, durette, ovine et à feuilles variées, au vulpin traçant, au vulpin des prés, à l’avoine élevée, au dactyle pelotonné, à l’agropyre à épi inerme, à l’agropyre à crête, à l’agropyre intermédiaire, à l’agropyre du Nord, à l’agropyre pubescent, à l’agropyre de Sibérie, à l’agropyre grêle, à l’agropyre des rives, à l’agropyre élevé, à l’agropyre de l’Ouest, à l’élyme de l’Altai, à l’élyme dahurien et à l’élyme de Russie.
+	- **a)** la sous-colonne 1 de la colonne 10 s’applique seulement à la fétuque de Chewing, à la fétuque des prés, à la fétuque rouge, à la fétuque rouge traçante, à la fétuque élevée, au ray-grass annuel, au ray-grass hybride et au ray-grass vivace;
+	- **b)** la sous-colonne 2 de la colonne 10 s’applique seulement au brome des prés, au brome inerme, au brome doux, aux fétuques à feuilles fines, durette, ovine et à feuilles variées, au vulpin traçant, au vulpin des prés, au dactyle pelotonné, à l’agropyre inerme, à l’agropyre du Nord, à l’agropyre pubescent, à l’agropyre grêle, à l’agropyre des rives, à l’élyme de l’Altaï, à l’élyme dahurien et à l’élyme de Russie;
+	- **c)** la sous-colonne 3 de la colonne 10 s’applique seulement à l’avoine élevée, à l’agropyre à crête, à l’agropyre intermédiaire, à l’agropyre de Sibérie, à l’agropyre élevée et à l’agropyre de l’Ouest;
+	- **d)** la sous-colonne 4 de la colonne 10 s’applique seulement à l’alpiste roseau;
+	- **e)** la sous-colonne 1 de la colonne 11 s’applique seulement à l’alpiste roseau, à la fétuque de Chewing, à la fétuque des prés, à la fétuque rouge, à la fétuque rouge traçante, à la fétuque élevée, au ray-grass annuel, au ray-grass hybride et au ray-grass vivace;
+	- **f)** la sous-colonne 2 de la colonne 11 s’applique seulement au brome des prés, au brome inerme, au brome doux, aux fétuques à feuilles fines, durette, ovine et à feuilles variées, au vulpin traçant, au vulpin des prés, à l’avoine élevée, au dactyle pelotonné, à l’agropyre inerme, à l’agropyre à crête, à l’agropyre intermédiaire, à l’agropyre du Nord, à l’agropyre pubescent, à l’agropyre de Sibérie, à l’agropyre grêle, à l’agropyre des rives, à l’agropyre élevé, à l’agropyre de l’Ouest, à l’élyme de l’Altaï, à l’élyme dahurien et à l’élyme de Russie.
 
-- **(8)** Malgré les sortes et espèces de semences figurant au tableau XIII de l’annexe I, la colonne V ne s’applique pas aux mélanges renfermant un pour cent ou plus de mélilot.
+- **(8)** Malgré les sortes et espèces de semences figurant au tableau XIII de l’annexe I, la colonne 5 ne s’applique pas aux mélanges renfermant un pour cent ou plus de mélilot.
 
 - **(9)** Malgré le tableau XIII de l’annexe I, le mélange de plantes fourragères Ordinaire n<sup>o</sup> 1 peut renfermer une graine de mauvaise herbe nuisible principale par 25 grammes lorsque le mélange comprend, séparément ou en combinaison, 10 pour cent ou plus de semences de fléole des prés ou de type nain, de pâturin du Canada, de pâturin des prés ou d’agrostide blanche.
 
 - **(10)** Malgré le tableau XIV de l’annexe I, tous les mélanges dont l’étiquette indique qu’ils conviennent aux endroits ombragés doivent contenir, séparément ou en combinaison, au moins 40 pour cent, en poids, de fétuque de Chewing, de fétuque rouge traçante ou de pâturin commun.
 
-- **(11)** Les normes visant le diamètre prévues à la colonne II du tableau XXI de l’annexe I ne s’appliquent pas aux oignons patates.
+- **(10.1)** En plus de satisfaire aux normes prévues aux tableaux III et XV de l’annexe I, les sortes et espèces de semences doivent satisfaire au pourcentage minimal de germination énoncé au tableau où elles apparaissent.
+
+- **(10.2)** Malgré le tableau XVIII de l’annexe I, les semences Canada Fondation n<sup>o</sup> 2 peuvent contenir une graine de semence d’une autre plante cultivée par 2 kg.
+
+- **(11)** Les normes visant le diamètre prévues à la colonne 2 du tableau XXI de l’annexe I ne s’appliquent pas aux oignons patates.
 
 - **(12)** Pour l’application du tableau XXI de l’annexe I, un écart de trois pour cent, en poids, est permis quant au diamètre minimal ou maximal de chaque catégorie d’oignons à repiquer.
-> DORS/86-850, art. 4; DORS/93-162, art. 3; DORS/96-252, art. 2; DORS/2000-184, art. 89; DORS/2003-6, art. 102.
+> DORS/86-850, art. 4; DORS/93-162, art. 3; DORS/96-252, art. 2; DORS/2000-184, art. 89; DORS/2003-6, art. 102; DORS/2007-223, art. 5.
 
 
 
@@ -357,12 +382,13 @@ Autorités habilitantes :
 		- **(i)** un laboratoire officiellement reconnu,
 		- **(ii)** un classificateur agréé, dans le cas de la détermination des impuretés présentes dans la semence d’une sorte ou d’une espèce figurant aux tableaux I à VI de l’annexe I ou de semences de grosseur semblable,
 		- **(iii)** un laboratoire d’analyse des semences exploité sous la surveillance d’un membre principal ou associé de la **Commercial Seed Analysts’ Association of Canada**,
-		- **(iv)** après le 1<sup>er</sup> juillet 1997, un laboratoire d’analyse des semences exploité sous la surveillance d’un technicien des semences agréé par la **Society of Commercial Seed Technologists,**
-		- **(v)** après le 1<sup>er</sup> juillet 1997, un laboratoire d’analyse des semences exploité par le gouvernement d’un État ou d’un pays étranger ou sous son autorité;
+		- **(iv)** un laboratoire d’analyse des semences exploité sous la surveillance d’un technicien des semences agréé par la Society of Commercial Seed Technologists,
+		- **(v)** un laboratoire d’analyse des semences exploité par le gouvernement d’un État ou d’un pays étranger ou sous son autorité,
+		- **(vi)** un laboratoire d’analyse des semences agréé par l’Association internationale d’essais de semences (ISTA);
 	- **c)** dans tous les autres cas, un essai effectué conformément à une méthode normalisée reconnue.
 
 - **(2)** La semence d’orge qui porte une étiquette indiquant qu’elle n’a fait l’objet d’aucun essai ou traitement visant le charbon nu véritable n’a pas à subir un tel essai.
-> DORS/96-252, art. 2; DORS/2003-6, art. 104.
+> DORS/96-252, art. 2; DORS/2003-6, art. 104; DORS/2007-223, art. 6.
 
 
 
@@ -385,7 +411,7 @@ Autorités habilitantes :
 	- **b)** à toute autre fin, égal à la moitié de la quantité visée au paragraphe (2).
 
 - **(4)** Les paragraphes (2) et (3) ne s’appliquent pas lorsque l’échantillon ne sert qu’à vérifier le pourcentage de germination.
-> DORS/96-252, art. 2; DORS/2003-6, art. 105.
+> DORS/96-252, art. 2; DORS/2003-6, art. 105; DORS/2007-223, art. 7(A).
 
 
 
@@ -408,8 +434,8 @@ Autorités habilitantes :
 
 - **(3)** La semence importée ne peut être classée sous une dénomination de la catégorie Canada généalogique que si :
 	- **a)** d’une part, la condition visée à l’alinéa (1)d) est respectée;
-	- **b)** d’autre part, la semence a été importée dans un emballage qui est muni d’une étiquette de l’Organisation de coopération et de développement économiques ou de l’**Association of Official Seed Certifying Agencies**.
-> DORS/78-314, art. 1; DORS/86-850, art. 6; DORS/88-242, art. 3; DORS/93-162, art. 4; DORS/96-252, art. 2.
+	- **b)** d’autre part, la semence est importée dans un emballage qui est muni d’une étiquette délivrée ou approuvée par une agence officielle de certification, indiquant sa qualité Généalogique.
+> DORS/78-314, art. 1; DORS/86-850, art. 6; DORS/88-242, art. 3; DORS/93-162, art. 4; DORS/96-252, art. 2; DORS/2007-223, art. 8.
 
 
 
@@ -442,10 +468,7 @@ Autorités habilitantes :
 	- **a)** sur recommandation d’un organisme de vérification de la conformité;
 	- **b)** à défaut de tel organisme, sur paiement du droit applicable figurant dans l’Avis sur les prix de l’Agence canadienne d’inspection des aliments et sur obtention d’au moins 80 % pour l’évaluation visée à l’alinéa (1)b) et d’au moins 80 % pour l’évaluation visée à l’alinéa (1)c).
 
-- **(3)** Les personnes suivantes sont réputées être des classificateurs agréés pour l’application du présent règlement pour la période commençant le jour de l’entrée en vigueur de la présente partie et se terminant le 31 décembre 1996 :
-	- **a)** celles qui, avant l’entrée en vigueur de la présente partie, étaient autorisées à fixer aux semences des étiquettes officielles ou des étiquettes de certification inter-agences et des sceaux en vertu du paragraphe 29(1), dans sa version antérieure à l’entrée en vigueur de la présente partie;
-	- **b)** celles qui étaient personnellement responsables de l’apposition d’étiquettes officielles ou d’étiquettes de certification inter-agences et des sceaux sur de la semence appartenant à l’une des catégories Canada certifiée pour le compte d’une personne morale qui y était autorisée en vertu du paragraphe 29(1), dans sa version antérieure à l’entrée en vigueur de la présente partie;
-	- **c)** celles qui, avant l’entrée en vigueur de la présente partie, étaient agréées par le ministère en vue d’effectuer les essais des semences pour en déterminer la pureté et la germination.
+- **(3)** [Abrogé, DORS/2007-223, art. 9]
 
 - **(4)** [Abrogé, DORS/2000-183, art. 39]
 
@@ -453,7 +476,7 @@ Autorités habilitantes :
 
 - **(6)** L’agrément d’une personne à titre de classificateur ou d’échantillonneur se limite aux activités visées aux alinéas (1)b) à d) à l’égard desquelles la personne a subi avec succès une évaluation.
 
-- **(7)** En cas de refus de la part d’un organisme de vérification de la conformité de recommander l’octroi ou le renouvellement d’un agrément de classificateur, il envoie au demandeur, par courrier recommandé, un avis motivé de sa décision l’informant qu’il peut demander au registraire de réviser la décision. Il envoie copie de cet avis au registraire.
+- **(7)** En cas de refus de la part d’un organisme de vérification de la conformité de recommander l’octroi ou le renouvellement d’un agrément de classificateur ou d’échantillonneur, il envoie au demandeur, par courrier recommandé, un avis motivé de sa décision l’informant qu’il peut demander au registraire de réviser la décision. Il envoie copie de cet avis au registraire.
 
 - **(8)** Le demandeur peut, dans les trente jours suivant la date de réception de l’avis, demander par écrit au registraire de réviser la décision.
 
@@ -463,10 +486,10 @@ Autorités habilitantes :
 
 - **(11)** La révision est menée de façon aussi informelle et expéditive que possible et de manière à permettre au demandeur de présenter ses arguments et de répliquer à tout élément de preuve, mais ne comporte des observations verbales que si le registraire le juge nécessaire.
 
-- **(12)** Si le registraire conclut que l’organisme de vérification de la conformité aurait dû recommander l’octroi ou le renouvellement de l’agrément, il fait droit à la demande initiale comme si l’organisme avait fait la recommandation.
+- **(12)** Si le registraire conclut que l’organisme de vérification de la conformité aurait dû recommander l’octroi ou le renouvellement de l’agrément de classificateur ou d’échantillonneur, il fait droit à la demande initiale comme si l’organisme avait fait la recommandation.
 
 - **(13)** Le registraire envoie un avis motivé de sa décision au demandeur par courrier recommandé.
-> DORS/96-252, art. 2; DORS/97-534, art. 5; DORS/2000-183, art. 39; DORS/2001-93, art. 2; DORS/2003-6, art. 107.
+> DORS/96-252, art. 2; DORS/97-534, art. 5; DORS/2000-183, art. 39; DORS/2001-93, art. 2; DORS/2003-6, art. 107; DORS/2007-223, art. 9.
 
 
 
@@ -503,10 +526,10 @@ Autorités habilitantes :
 
 - **(7)** Le registraire ne peut renouveler l’agrément d’un classificateur ou d’un échantillonneur qui a été suspendu trois fois que si, après la troisième suspension, celui-ci a subi avec succès les évaluations applicables au paragraphe 13.1(1).
 
-- **(8)** Après l’expiration d’une période de trois ans suivant l’entrée en vigueur de la présente partie, le registraire ne peut renouveler l’agrément d’un classificateur agréé en vertu du paragraphe 13.1(3) que si celui-ci a subi avec succès les évaluations applicables visées au paragraphe 13.1(1).
+- **(8)** [Abrogé, DORS/2007-223, art. 10]
 
 - **(9)** En cas de l’annulation de l’agrément de classificateur ou d’échantillonneur d’une personne pour l’un des motifs visés aux alinéas (3)b) à e), le registraire rejette toute demande d’agrément de cette personne pendant les vingt-quatre mois suivant l’annulation, et n’agrée cette personne par la suite que si celle-ci safisfait aux conditions visées aux paragraphes 13.1(1) à (2.1).
-> DORS/96-252, art. 2; DORS/2001-93, art. 3; DORS/2003-6, art. 108.
+> DORS/96-252, art. 2; DORS/2001-93, art. 3; DORS/2003-6, art. 108; DORS/2007-223, art. 10.
 
 
 
@@ -584,7 +607,7 @@ Autorités habilitantes :
 - **(2)** Sous réserve du paragraphe (3), tout emballage d’une semence d’une sorte ou espèce ne figurant pas à l’annexe I doit être muni d’une étiquette portant les renseignements visés aux alinéas (1)a) à c) obtenus à la suite de l’essai applicable effectué conformément à l’article 11.
 
 - **(3)** Sauf en ce qui concerne l’emballage de semence marqué de la catégorie Canada Fondation sous-régulière (Pureté), les paragraphes (1) et (2) ne s’appliquent pas lorsque le vendeur, sur demande de l’acheteur dans l’année qui suit la vente d’un emballage, fournit à celui-ci par écrit dans les 30 jours suivant la demande les renseignements visés aux paragraphes (1) ou (2).
-> DORS/96-252, art. 2.
+> DORS/96-252, art. 2; DORS/2007-223, art. 11(A).
 
 
 
@@ -645,7 +668,7 @@ Autorités habilitantes :
 ### Semences de plantes de grande culture
 
 
-**23** Tout emballage de semence des sortes ou espèces figurant aux tableaux I, II et IV à VII de l’annexe I doit être muni d’une étiquette portant :
+**23** Tout emballage de semence des sortes ou espèces figurant aux tableaux I à II.1 et IV à VII de l’annexe I doit être muni d’une étiquette portant :
 - **a)** les nom et adresse du vendeur, de l’emballeur ou de l’étiqueteur;
 - **b)** le nom de sorte ou d’espèce de la semence;
 - **c)** la dénomination de catégorie de la semence;
@@ -653,8 +676,8 @@ Autorités habilitantes :
 - **e)** dans le cas du maïs de semence importé, le nom du pays d’origine où la semence a été produite et, s’il s’agit des États-Unis, l’État d’origine où elle a été produite;
 - **f)** dans le cas du maïs de semence formé d’un mélange d’au moins deux variétés, le nom et le pourcentage de chacune des variétés constituantes, la cote approximative d’unités thermiques maïs ou la désignation « hâtif », « moyen » ou « tardif »;
 - **g)** dans le cas des semences hybrides de maïs ou de tournesol vendues ou offertes en vente à titre de semence d’une catégorie Canada Fondation, le nombre total de semences d’autres plantes cultivées par kilogramme et le pourcentage de germination;
-- **h)** dans le cas de la semence de colza oléagineux (colza ou Canola) dont l’étiquette ne porte pas une dénomination de la catégorie Canada généalogique, la désignation « type de Pologne » ou « *B. rapa* », « type d’Argentine » ou « *B. napus* » ou la mention « type inconnu », selon le cas.
-> DORS/86-850, art. 12; DORS/96-252, art. 2.
+- **h)** dans le cas de la semence étiquetée comme colza oléagineux, colza ou canola dont l’étiquette ne porte pas une dénomination de la catégorie Canada généalogique, la désignation « type de Pologne » ou « *B. rapa* », « type d’Argentine » ou « *B. napus* », « *B. juncea* », ou la mention « type inconnu », selon le cas.
+> DORS/86-850, art. 12; DORS/96-252, art. 2; DORS/2007-223, art. 12.
 
 
 
@@ -702,7 +725,7 @@ Autorités habilitantes :
 - **(1)** Tout emballage d’un mélange de semences de plantes fourragères des sortes ou espèces figurant au tableau XIII de l’annexe I doit être muni d’une étiquette portant :
 	- **a)** les nom et adresse du vendeur, de l’emballeur ou de l’étiqueteur;
 	- **b)** la dénomination de catégorie de la semence;
-	- **c)** le nom et le pourcentage de chaque sorte ou espèce de semence constituant à elle seule trois pour cent ou plus, en poids, du mélange ou, dans le cas du mélilot, un pour cent ou plus, en poids, du mélange;
+	- **c)** le nom et le pourcentage de chaque sorte ou espèce — et de chaque variété de semence, selon le cas — constituant à elle seule trois pour cent ou plus, en poids, du mélange ou, dans le cas du mélilot, un pour cent ou plus, en poids, du mélange;
 	- **d)** le pourcentage, en poids, des sortes ou espèces de semence du mélange non indiquées sur l’étiquette conformément à l’alinéa c), précédé de la mention « autres sortes »;
 	- **e)** dans le cas de la semence de luzerne et de trèfle rouge importée, le pays d’origine où la semence a été produite et, s’il s’agit des États-Unis, l’État d’origine où la semence a été produite, ainsi que le pourcentage de cette semence contenue dans le mélange.
 
@@ -711,7 +734,7 @@ Autorités habilitantes :
 - **(3)** Les renseignements visés aux paragraphes (1) et (2) doivent paraître :
 	- **a)** sur la principale surface exposée de l’emballage, ou sur un côté de l’étiquette, selon le cas;
 	- **b)** en caractères de même grosseur.
-> DORS/79-367, art. 5; DORS/96-252, art. 2.
+> DORS/79-367, art. 5; DORS/96-252, art. 2; DORS/2007-223, art. 13.
 
 
 
@@ -739,13 +762,13 @@ Autorités habilitantes :
 - **(1)** Tout emballage d’un mélange de graminées à pelouse ou à gazon doit être muni d’une étiquette portant :
 	- **a)** les nom et adresse du vendeur, de l’emballeur ou de l’étiqueteur;
 	- **b)** la dénomination de catégorie de la semence;
-	- **c)** lorsque l’emballage contient plus de 5 kg de semences, le nom de chaque sorte ou espèce de semence qui constitue :
+	- **c)** lorsque l’emballage contient plus de 5 kg de semences, le nom de chaque sorte ou espèce — et de chaque variété de semence, le cas échéant — qui constitue :
 		- **(i)** cinq pour cent ou plus, en poids, du mélange,
 		- **(ii)** trois pour cent ou plus, en poids, du mélange, s’il s’agit d’agrostides,
 		- **(iii)** deux pour cent ou plus, en poids, du mélange, s’il s’agit de trèfle blanc.
 
 - **(2)** Lorsque le nom d’une sorte, espèce ou variété de semence contenue dans un mélange de graminées à pelouse ou à gazon est indiqué sur une étiquette, à l’exclusion des autres sortes, espèces et variétés du mélange ou de façon à ressortir, le pourcentage, en poids, de cette sorte, espèce ou variété doit également y figurer, en caractères de même grosseur et de même couleur que ceux du nom.
-> DORS/79-367, art. 7; DORS/96-252, art. 2.
+> DORS/79-367, art. 7; DORS/96-252, art. 2; DORS/2007-223, art. 14.
 
 
 
@@ -756,7 +779,7 @@ Autorités habilitantes :
 
 **29** 
 
-- **(1)** Aucune étiquette ne doit comporter de mot ou de dessin qui indique ou laisse supposer que la semence d’un mélange de semences de plantes couvre-sol convient pour la pelouse.
+- **(1)** Aucune étiquette ne doit comporter de mot ou de dessin qui indique ou laisse supposer que la semence d’un mélange de semences de plantes couvre-sol convient pour la pelouse ou pour la production fourragère.
 
 - **(2)** Tout emballage d’un mélange de semences de plantes couvre-sol doit être muni d’une étiquette portant :
 	- **a)** les nom et adresse du vendeur, de l’emballeur ou de l’étiqueteur;
@@ -766,7 +789,7 @@ Autorités habilitantes :
 		- **(ii)** est énumérée dans un texte législatif provincial parmi les mauvaises herbes nuisibles ou réglementées, lorsque le vendeur, l’emballeur ou l’étiqueteur dispose des renseignements visés au sous-alinéa (i) et les fournit par écrit aux acheteurs qui en font la demande.
 
 - **(3)** Lorsque le nom d’une sorte, espèce ou variété de semence contenue dans un mélange de semences de plantes couvre-sol est indiqué sur une étiquette, à l’exclusion des autres sortes, espèces et variétés du mélange ou de façon à ressortir, le pourcentage, en poids, de cette sorte, espèce ou variété doit également y figurer, en caractères de même grosseur et de même couleur que ceux du nom.
-> DORS/79-367, art. 8; DORS/85-903, art. 1; DORS/96-252, art. 2.
+> DORS/79-367, art. 8; DORS/85-903, art. 1; DORS/96-252, art. 2; DORS/2007-223, art. 15.
 
 
 
@@ -777,12 +800,12 @@ Autorités habilitantes :
 
 **30** Tout emballage de semence des sortes ou espèces figurant aux tableaux XVI à XXI de l’annexe I et de toute sorte ou espèce non énumérée à cette annexe doit être muni d’une étiquette portant :
 - **a)** les nom et adresse du vendeur, de l’emballeur ou de l’étiqueteur;
-- **b)** le nom de sorte ou d’espèce de la semence, ainsi que le nom de la variété de la semence, le cas échéant;
+- **b)** le nom de la sorte ou de l’espèce de semence — et de chaque variété de semence, le cas échéant — ou, dans le cas des mélanges, le nom de chaque sorte ou espèce de semence — et de chaque variété, le cas échéant — ;
 - **c)** si la semence est vendue ou offerte en vente d’après la catégorie, la dénomination de catégorie;
 - **d)** si une norme de germination est établie pour une sorte ou espèce aux termes du paragraphe 6(1) et que la semence n’est pas vendue d’après une catégorie de semence :
 	- **(i)** l’année au cours de laquelle la semence a subi un essai de germination conformément à l’essai applicable visé à l’article 11 ou l’année pour laquelle elle a été emballée,
 	- **(ii)** le pourcentage de germination de la semence ou un pourcentage de germination minimal garanti.
-> DORS/96-252, art. 2.
+> DORS/96-252, art. 2; DORS/2007-223, art. 16.
 
 
 
@@ -797,10 +820,10 @@ Autorités habilitantes :
 
 - **(2)** Tout emballage de semences spéciales doit être muni d’une étiquette portant :
 	- **a)** les nom et adresse du vendeur, de l’emballeur ou de l’étiqueteur;
-	- **b)** la dénomination de catégorie de la semence déterminée avant qu’elle soit mélangée ou adjointe aux éléments constituants qui ne sont pas des semences.
+	- **b)** le nom de la catégorie de semence, le cas échéant.
 
-- **(3)** En plus de satisfaire aux exigences d’étiquetage visées au paragraphe (2), tout emballage de semences spéciales doit être muni d’une étiquette portant les renseignements exigés par l’article applicable à la semence en cause.
-> DORS/96-252, art. 2.
+- **(3)** En plus de satisfaire aux exigences d’étiquetage visées au paragraphe (2), tout emballage de semences spéciales doit être muni d’une étiquette portant les renseignements exigés par l’article du présent règlement applicable à la semence en cause.
+> DORS/96-252, art. 2; DORS/2007-223, art. 17.
 
 
 
@@ -833,18 +856,20 @@ Autorités habilitantes :
 - **(3)** Le conditionneur agréé en vertu de la partie IV est soustrait à l’application du paragraphe (1) si les conditions suivantes sont réunies :
 	- **a)** la semence est de qualité Certifiée;
 	- **b)** l’emballage a été scellé et étiqueté par lui;
-	- **c)** les renseignements exigés par le paragraphe (2) et son nom sont marqués de façon indélébile sur l’emballage et la disposition des renseignements et la partie marquée, y compris sa couleur, sont conformes à l’étiquette canadienne;
-	- **d)** l’Agence est avisée par lui des demandes pour ces emballages.
+	- **c)** le nom du vendeur, de l’emballeur ou de l’étiqueteur est inscrit sur l’emballage, de même que :
+		- **(i)** soit les renseignements exigés par le paragraphe (2), la disposition de ceux-ci, la partie marquée et la couleur de l’emballage étant conformes à l’étiquette canadienne,
+		- **(ii)** soit, dans le cas des emballages contenant 2 kg de semence ou moins, les mots « semence de qualité Certifiée », lesquels sont inscrits dans un rectangle bleu qui satisfait aux exigences de couleur prévues pour l’étiquette officielle et dont le rapport longueur/largeur est d’environ 2:1, et les renseignements exigés par les alinéas (2)a) à c) et e), lesquels figurent ailleurs sur l’emballage;
+	- **d)** dans le cas des emballages visés au sous-alinéa c)(i), le conditionneur agréé avise l’Agence chaque fois qu’il se propose d’en faire l’acquisition.
 
 - **(4)** Le conditionneur agréé visé au paragraphe (3) conserve des livres complets et à jour sur les demandes pour les emballages visés à ce paragraphe et sur leur aliénation pendant une période d’au moins deux ans suivant l’aliénation.
-> DORS/86-429, art. 1; DORS/96-252, art. 2; DORS/2000-184, art. 89.
+> DORS/86-429, art. 1; DORS/96-252, art. 2; DORS/2000-184, art. 89; DORS/2007-223, art. 18.
 
 
 
 
 **34** 
 
-- **(1)** Sous réserve des paragraphes (3) et (5) et des articles 35 et 37, tout emballage de semence provenant d’une récolte non cultivée et non conditionnée au Canada et classée sous une dénomination de la catégorie Canada généalogique doit être scellé et être muni d’une étiquette de certification inter-agences.
+- **(1)** Sous réserve des paragraphes (3) et (5) et des articles 35 et 37, tout emballage de semence provenant, en entier ou en partie, d’une récolte non cultivée et non conditionnée au Canada et classée sous une dénomination de la catégorie Canada généalogique doit être scellé et être muni d’une étiquette de certification inter-agences.
 
 - **(2)** L’étiquette de certification inter-agences doit porter :
 	- **a)** le nom de sorte ou d’espèce de la semence;
@@ -857,15 +882,18 @@ Autorités habilitantes :
 - **(3)** Le conditionneur agréé en vertu de la partie IV est soustrait à l’application du paragraphe (1) si les conditions suivantes sont réunies :
 	- **a)** la semence est de qualité Certifiée;
 	- **b)** l’emballage a été scellé et étiqueté par lui;
-	- **c)** les renseignements exigés par le paragraphe (2) et son nom sont marqués de façon indélébile sur l’emballage et la disposition des renseignements et la partie marquée, y compris sa couleur, sont conformes à l’étiquette de certification inter-agences;
-	- **d)** l’Agence est avisée par lui des demandes pour ces emballages.
+	- **c)** le nom du vendeur, de l’emballeur ou de l’étiqueteur est inscrit sur l’emballage, de même que :
+		- **(i)** soit les renseignements exigés par le paragraphe (2), la disposition de ceux-ci, la partie marquée et la couleur de l’emballage étant conformes à l’étiquette canadienne,
+		- **(ii)** soit, dans le cas des emballages contenant 2 kg de semence ou moins, les mots « semence Certifiée » , lesquels sont inscrits dans un rectangle bleu qui satisfait aux exigences de couleur prévues pour l’étiquette officielle et dont le rapport longueur/largeur est d’environ 2:1, et les renseignements exigés par les alinéas (2)a) à e), lesquels figurent ailleurs sur l’emballage;
+	- **d)** dans le cas des emballages visés au sous-alinéa c)(i), le conditionneur agréé avise l’Agence chaque fois qu’il se propose d’en faire l’acquisition.
 
 - **(4)** Le conditionneur agréé visé au paragraphe (3) conserve des livres complets et à jour sur les demandes pour les emballages visés à ce paragraphe et sur leur aliénation pendant une période d’au moins deux ans suivant l’aliénation.
 
-- **(5)** L’emballage de semence de qualité Certifiée est soustrait à l’application du paragraphe (1) et n’a pas à être muni d’une étiquette portant la dénomination de catégorie si :
-	- **a)** d’une part, il est muni d’une étiquette de l’Organisation de coopération et de développement économiques ou de l’**Association of Official Seed Certifying Agencies**;
-	- **b)** d’autre part, la dénomination de la catégorie Canada généalogique figure sur le document présenté avec chaque vente et porte le nom du vendeur et le numéro de classificateur agréé de la personne qui a fait la classification de la semence.
-> DORS/96-252, art. 2; DORS/2000-184, art. 89; DORS/2003-6, art. 109.
+- **(5)** L’emballage de semence de qualité Certifiée est soustrait à l’application du paragraphe (1) si :
+	- **a)** il est muni d’une étiquette délivrée ou approuvée par une agence officielle de certification, indiquant sa qualité Généalogique;
+	- **b)** dans le cas de semence étiquetée au Canada, la dénomination de la catégorie Canada généalogique figure sur un document présenté avec chaque vente et porte le nom du vendeur;
+	- **c)** dans le cas de semence importée au Canada et classée sous une dénomination de la catégorie Canada généalogique, la dénomination de la catégorie Canada généalogique et le numéro du classificateur agréé figurent sur l’étiquette qui est fixée à chaque emballage de semences ou qui est imprimée directement sur l’emballage.
+> DORS/96-252, art. 2; DORS/2000-184, art. 89; DORS/2003-6, art. 109; DORS/2007-223, art. 19.
 
 
 
@@ -874,7 +902,8 @@ Autorités habilitantes :
 
 - **(1)** Sous réserve de l’article 37, l’emballage de semence d’une variété classée sous une dénomination de la catégorie Canada généalogique doit être scellé et être muni d’une étiquette de variété non enregistrée si la semence :
 	- **a)** d’une part, est d’une sorte, espèce ou variété qui n’est pas soustraite à l’enregistrement en vertu de l’article 65;
-	- **b)** d’autre part, est d’une variété qui n’est pas enregistrée conformément à la partie III.
+	- **b)** d’autre part, est d’une variété qui n’est pas enregistrée conformément à la partie III;
+	- **c)** est vendue au Canada.
 
 - **(2)** L’étiquette de variété non enregistrée doit porter :
 	- **a)** le nom de sorte ou d’espèce de la semence;
@@ -883,7 +912,7 @@ Autorités habilitantes :
 	- **d)** le numéro du lot;
 	- **e)** le numéro du certificat de récolte;
 	- **f)** si la semence provient d’une récolte non cultivée au Canada, l’État ou le pays de l’agence officielle de certification et le numéro de référence généalogique de l’agence.
-> DORS/96-252, art. 2.
+> DORS/96-252, art. 2; DORS/2007-223, art. 20.
 
 
 
@@ -905,8 +934,9 @@ Autorités habilitantes :
 **37** Toute semence classée sous une dénomination de la catégorie Canada généalogique n’a pas à être vendue dans un emballage scellé si les conditions suivantes sont réunies :
 - **a)** elle est vendue en vrac et livrée par une installation d’entreposage en vrac au sens de la partie IV;
 - **b)** au moment de la vente, elle est accompagnée d’une étiquette officielle remplie;
+- **b.1)** au moment de la livraison, elle est accompagnée de renseignements écrits qui satisfont aux exigences de l’article 19, du paragraphe 20(4) et des articles 21 et 35 en matière de renseignements pour les semences dans les emballages scellés;
 - **c)** le vendeur de la semence conserve des livres complets et à jour sur la généalogie, le conditionnement et l’aliénation de la semence, ainsi que sur les essais qu’elle a subis conformément à l’article 11, pendant une période d’au moins un an suivant l’aliénation.
-> DORS/96-252, art. 2.
+> DORS/96-252, art. 2; DORS/2007-223, art. 21.
 
 
 
@@ -949,7 +979,7 @@ Autorités habilitantes :
 - **(1)** Sous réserve des paragraphes (5) et (6), tout lot de semence importé au Canada doit être accompagné d’une déclaration indiquant :
 	- **a)** le nom de sorte ou d’espèce de la semence;
 	- **b)** la quantité de semence;
-	- **c)** le nom de variété de la semence de toutes les sortes, espèces et variétés à enregistrer conformément à la partie III, sauf les semences communes des récoltes de plantes fourragères;
+	- **c)** le nom de variété de la semence de toutes les sortes, espèces et variétés à enregistrer conformément à la partie III, sauf les semences non généalogiques des récoltes de plantes fourragères;
 	- **d)** la désignation du lot de la semence;
 	- **e)** les nom et adresse de l’exportateur;
 	- **f)** les nom et adresse de l’importateur.
@@ -964,14 +994,15 @@ Autorités habilitantes :
 
 - **(4)** Lorsqu’une semence est importée au Canada par une personne autre qu’un établissement agréé conformément à la partie IV à titre d’importateur autorisé, elle doit être conservée intacte et à part dans les emballages originaux jusqu’à ce que l’Agence délivre l’avis de libération, qui atteste que la semence satisfait aux exigences du présent règlement.
 
-- **(5)** Les paragraphes (1) à (4) ne s’appliquent pas à un lot de semence qui pèse :
-	- **a)** 5 kg ou moins, dans le cas des semences des sortes ou espèces figurant aux tableaux I à VI ou XVI à XVIII de l’annexe I ou des semences de grosseur semblable;
-	- **b)** 500 g ou moins, dans le cas des semences des sortes ou espèces figurant aux tableaux VII à XII de l’annexe I ou des semences de grosseur semblable.
+- **(5)** Les paragraphes (1) à (4) ne s’appliquent pas à un lot de semence qui :
+	- **a)** est composé de semences d’oignon à repiquer, d’ail à repiquer, d’arbre, d’arbuste, de ginseng, de plantes aquatiques, de vraie semence de pomme de terre ou de fleur sauf les mélanges de semences de fleurs sauvages;
+	- **b)** pèse 5 kg ou moins, dans le cas des semences des sortes et espèces figurant à l’un ou l’autre des tableaux I à VI et XVI à XVIII de l’annexe I, des semences de grosseur semblable ou des semences de fines herbes et d’herbes médicinales;
+	- **c)** pèse 500 g ou moins, dans le cas des semences des sortes ou espèces figurant à l’un ou l’autre des tableaux VII à XII de l’annexe I ou des semences de grosseur semblable.
 
 - **(6)** Les paragraphes (1) à (3) ne s’appliquent pas aux semences importées par un importateur autorisé, lorsque celui-ci fournit à l’Agence, au moment de l’importation, le numéro d’agrément de l’établissement et, dans les 30 jours suivant l’importation, les renseignements exigés par le paragraphe (3).
 
 - **(7)** Dans le cas où la semence est importée au Canada par un importateur autorisé conformément au paragraphe (6), elle doit être conservée intacte et à part dans les emballages originaux jusqu’à ce que la personne agréée aux termes de l’article 13.1 pour évaluer la semence importée et les documents l’accompagnant quant à leur conformité au présent règlement ait délivré l’avis de libération ou jusqu’à ce que la semence ait fait l’objet d’un essai qui confirme que la semence satisfait aux exigences du présent règlement.
-> DORS/86-849, art. 4; DORS/96-252, art. 2; DORS/2000-184, art. 89; DORS/2003-6, art. 110.
+> DORS/86-849, art. 4; DORS/96-252, art. 2; DORS/2000-184, art. 89; DORS/2003-6, art. 110; DORS/2007-223, art. 22.
 
 
 
@@ -2724,10 +2755,10 @@ NOTE
 - **(1)** Sous réserve du paragraphe (2) et de l’article 89, le registraire suspend l’agrément d’un établissement pour l’un ou l’autre des motifs suivants :
 	- **a)** des renseignements faux ou trompeurs ont été soumis à l’appui de la demande d’agrément;
 	- **b)** l’établissement n’est pas conforme à la Loi, à la [Loi sur les semences](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-8.md) ou au présent règlement;
-	- **c)** le prix applicable fixé par l’Arrêté sur les prix applicables aux semences pour un service fourni à l’établissement n’a pas été payé.
+	- **c)** le prix applicable figurant dans l'*Avis sur les prix de l’Agence canadienne d’inspection des aliments* pour un service fourni à l’établissement n’a pas été payé.
 
 - **(2)** Le registraire ne suspend pas l’agrément d’un établissement si le détenteur de l’agrément a pris des mesures correctives et que l’inspecteur s’en est assuré avant qu’il soit entendu aux termes de l’alinéa 89b).
-> DORS/96-252, art. 3; DORS/96-273, art. 2.
+> DORS/96-252, art. 3; DORS/96-273, art. 2; DORS/2007-223, art. 23.
 
 
 
@@ -2878,10 +2909,10 @@ NOTE
 - **(1)** Sous réserve du paragraphe (2) et de l’article 101, le registraire suspend le permis d’un exploitant pour l’un ou l’autre des motifs suivants :
 	- **a)** des renseignements faux ou trompeurs ont été fournis à l’appui de la demande de permis;
 	- **b)** l’exploitant ne se conforme pas à la Loi, à la [Loi sur les semences](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-8.md) ou au présent règlement;
-	- **c)** le prix applicable fixé par l’Arrêté sur les prix applicables aux semences pour un service fourni à l’exploitant n’a pas été payé.
+	- **c)** le prix applicable figurant dans l'*Avis sur les prix de l’Agence canadienne d’inspection des aliments* pour un service fourni à l’exploitant n’a pas été payé.
 
 - **(2)** Le registraire ne peut suspendre le permis d’un exploitant lorsque celui-ci, avant d’être entendu aux termes de l’alinéa 101b), a pris des mesures correctives et que l’inspecteur s’en est assuré.
-> DORS/96-252, art. 3; DORS/96-273, art. 3.
+> DORS/96-252, art. 3; DORS/96-273, art. 3; DORS/2007-223, art. 24.
 
 
 
@@ -3121,54 +3152,45 @@ NOTE
 
 
 ### **ANNEXE I** 
-**(articles 2, 4 à 6, 8 à 10, 19 à 25.1, 31, 33, 34 et annexe III)**
-## Tableaux des normes de catégories
-
+**(articles 2, 5 à 7, 11 et 12, 18, 23 à 27, 30 et 40)**
 #### TABLEAU I
 <table>
 <tr>
-<th>Applicable aux espèces suivantes :</th>
-<th></th>
+<td>Applicable à ce qui suit :</td>
+<td></td>
 </tr>
 <tr>
-<td>**a)** Blé commun
-
-</td>
-<td>—*Triticum aestivum* L. emend. Fiori et Paol.</td>
+<td>a) Blé commun</td>
+<td>— *Triticum aestivum* L.</td>
 </tr>
 <tr>
-<td>**b)** Blé durum (Blé dur)
-
-</td>
-<td>—*Triticum durum* Desf.</td>
+<td>b) Blé durum</td>
+<td>— *Triticum turgidum* L. subsp. *durum* (Desf.) Husn. (= *T. durum* Desf.)</td>
 </tr>
 </table>
 
-
-
 <table>
 <tr>
-<th>I</th>
-<th>II</th>
-<th>III</th>
-<th>IV</th>
-<th>V</th>
-<th>VI</th>
-<th>VII</th>
-<th>VIII</th>
-<th>IX</th>
-<th>X</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
 </tr>
 <tr>
 <th></th>
-<th>Nombre maximal de semences par kg</th>
-<th></th>
+<th>Nombre maximal de graines par kg</th>
 <th></th>
 <th></th>
 </tr>
 <tr>
 <th></th>
-<th>Graines de mauvaises herbes nuisibles</th>
+<th>Mauvaises herbes nuisibles</th>
 <th></th>
 <th></th>
 <th></th>
@@ -3177,127 +3199,111 @@ NOTE
 <th>Pourcentage minimal de germination</th>
 </tr>
 <tr>
+<th></th>
+</tr>
+<tr>
 <th>Nom de la catégorie</th>
 <th>Principales</th>
-<th>Principales plus secondaires</th>
-<th>Total des graines de mauvaises herbes</th>
-<th>Total des semences d’orge, de seigle, et de  triticale</th>
-<th>Total des semences d’autres plantes cultivées, y compris l’orge, le seigle et le triticale</th>
-<th>Total des semences de blé commun dans le blé durum et de blé durum dans le blé commun</th>
+<th>Principales et secondaires</th>
+<th>Total de mauvaises herbes</th>
+<th>Total d’orge, de seigle et de triticale</th>
+<th>Autres plantes cultivées, y compris le total d’orge, de seigle et de triticale</th>
+<th>Semences additionnelles de blé commun dans le blé durum et de blé durum dans le blé commun</th>
 <th>Nombre maximal d’ergots par kg</th>
 <th>Blé commun</th>
 <th>Blé durum</th>
 </tr>
 <tr>
-<th></th>
-</tr>
-<tr>
-<td>**1** Canada Fondation n<sup>o</sup> 1
-
-</td>
+<td>1. Canada Fondation n<sup>o</sup> 1</td>
 <td>0</td>
-<td>0,0</td>
+<td>0</td>
 <td>2</td>
-<td>0,2</td>
-<td>0,5</td>
+<td>0</td>
+<td>0</td>
 <td>0</td>
 <td>1</td>
 <td>85</td>
 <td>80</td>
 </tr>
 <tr>
-<td>**2** Canada Fondation n<sup>o</sup> 2
-
-</td>
+<td>2. Canada Fondation n<sup>o</sup> 2</td>
 <td>0</td>
-<td>0,1</td>
+<td>0</td>
 <td>4</td>
-<td>1,0</td>
-<td>2,0</td>
-<td>0</td>
-<td>8</td>
-<td>75</td>
-<td>70</td>
-</tr>
-<tr>
-<td>**3** Canada Enregistrée n<sup>o</sup> 1
-
-</td>
-<td>0</td>
-<td>0,0</td>
-<td>3</td>
-<td>0,5</td>
-<td>1,0</td>
-<td>0</td>
 <td>1</td>
-<td>85</td>
-<td>80</td>
-</tr>
-<tr>
-<td>**4** Canada Enregistrée n<sup>o</sup> 2
-
-</td>
-<td>0</td>
-<td>0,1</td>
-<td>6</td>
-<td>1,0</td>
-<td>2,0</td>
-<td>0</td>
-<td>8</td>
-<td>75</td>
-<td>70</td>
-</tr>
-<tr>
-<td>**5** Canada Certifiée n<sup>o</sup> 1
-
-</td>
-<td>0</td>
-<td>0,0</td>
-<td>3</td>
-<td>1,0</td>
-<td>2,0</td>
-<td>5</td>
-<td>1</td>
-<td>85</td>
-<td>80</td>
-</tr>
-<tr>
-<td>**6** Canada Certifiée n<sup>o</sup> 2
-
-</td>
-<td>0</td>
-<td>0,5</td>
-<td>6</td>
-<td>2,0</td>
-<td>5,0</td>
-<td>10</td>
-<td>8</td>
-<td>75</td>
-<td>70</td>
-</tr>
-<tr>
-<td>**7** Ordinaire n<sup>o</sup> 1
-
-</td>
-<td>0</td>
-<td>2,0</td>
-<td>10</td>
-<td>10,0</td>
-<td>10,0</td>
-<td>12</td>
-<td>1</td>
-<td>85</td>
-<td>80</td>
-</tr>
-<tr>
-<td>**8** Ordinaire n<sup>o</sup> 2
-
-</td>
 <td>2</td>
-<td>4,0</td>
+<td>0</td>
+<td>8</td>
+<td>75</td>
+<td>70</td>
+</tr>
+<tr>
+<td>3. Canada Enregistrée n<sup>o</sup> 1</td>
+<td>0</td>
+<td>0</td>
+<td>3</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>85</td>
+<td>80</td>
+</tr>
+<tr>
+<td>4. Canada Enregistrée n<sup>o</sup> 2</td>
+<td>0</td>
+<td>0</td>
+<td>6</td>
+<td>1</td>
+<td>2</td>
+<td>0</td>
+<td>8</td>
+<td>75</td>
+<td>70</td>
+</tr>
+<tr>
+<td>5. Canada Certifiée n<sup>o</sup> 1</td>
+<td>0</td>
+<td>0</td>
+<td>3</td>
+<td>1</td>
+<td>2</td>
+<td>5</td>
+<td>2</td>
+<td>85</td>
+<td>80</td>
+</tr>
+<tr>
+<td>6. Canada Certifiée n<sup>o</sup> 2</td>
+<td>0</td>
+<td>0</td>
+<td>6</td>
+<td>2</td>
+<td>5</td>
+<td>10</td>
+<td>8</td>
+<td>75</td>
+<td>70</td>
+</tr>
+<tr>
+<td>7. Ordinaire n<sup>o</sup> 1</td>
+<td>0</td>
+<td>2</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td>12</td>
+<td>2</td>
+<td>85</td>
+<td>80</td>
+</tr>
+<tr>
+<td>8. Ordinaire n<sup>o</sup> 2</td>
+<td>2</td>
+<td>4</td>
 <td>20</td>
-<td>20,0</td>
-<td>20,0</td>
+<td>20</td>
+<td>20</td>
 <td>24</td>
 <td>8</td>
 <td>70</td>
@@ -3305,148 +3311,75 @@ NOTE
 </tr>
 </table>
 
-
-
 #### TABLEAU II
 <table>
 <tr>
-<td>Applicable aux espèces suivantes :</td>
+<td>Applicable à ce qui suit :</td>
 <td></td>
 </tr>
 <tr>
-<td>**a)** Orge
-
-</td>
-<td></td>
+<td>a) Orge, à six rangs, à deux rangs, nue</td>
+<td>— *Hordeum vulgare* L. subsp. *vulgare*</td>
 </tr>
 <tr>
-<td>— à six rangs
-
-</td>
-<td>—*Hordeum vulgare* L. convar. *hexastichon* Alef.</td>
+<td>b) Ambérique</td>
+<td>— *Vigna radiata* (L.) Wilczek var. *radiata*</td>
 </tr>
 <tr>
-<td>— à deux rangs
-
-</td>
-<td>—*Hordeum vulgare* L. convar. *distichon* Alef.</td>
+<td>c) Sarrasin commun</td>
+<td>— *Fagopyrum esculentum* Moench</td>
 </tr>
 <tr>
-<td>**b)** Ambérique
-
-</td>
-<td>—*Vigna radiata* (L.) Wilczek var. *radiata*</td>
+<td>d) Sarrasin de Tartarie</td>
+<td>— *Fagopyrum tataricum* (L.) Gaertn.</td>
 </tr>
 <tr>
-<td>**c)** Sarrasin commun
-
-</td>
-<td>—*Fagopyrum esculentum* Moench</td>
+<td>e) Blé amidonnier</td>
+<td>— *Triticum turgidum* L. subsp. *dicoccum* (Schrank ex Schübl.) Thell (= *T. dicoccum* Schrank ex Schübl.)</td>
 </tr>
 <tr>
-<td>**d)** Sarrasin de Tartarie
-
-</td>
-<td>—*Fagopyrum tataricum* (L.) Gaertner</td>
+<td>f) Lentille</td>
+<td>— *Lens culinaris* Medik.</td>
 </tr>
 <tr>
-<td>**e)** Blé amidonnier
-
-</td>
-<td>—*Triticum dicoccum* Schrank</td>
+<td>g) Lupin (grainier et fourrager)</td>
+<td>— *Lupinus* spp.</td>
 </tr>
 <tr>
-<td>**f)** Lentille
-
-</td>
-<td>—*Lens culinaris* Medikus</td>
+<td>h) Avoine, y compris l’avoine nue</td>
+<td>— *Avena sativa* L., A. *nuda* L.</td>
 </tr>
 <tr>
-<td>**g)** Lupin des champs (non ornemental)
-
-</td>
-<td>—*Lupinus spp.*</td>
+<td>i) Seigle</td>
+<td>— *Secale cereale* L.</td>
 </tr>
 <tr>
-<td>**h)** Avoine
-
-</td>
-<td>—*Avena sativa* L., *A. nuda* L.</td>
+<td>j) Épeautre</td>
+<td>— *Triticum aestivum* L. subsp. *spelta* (L.) Thell. (= *T. spelta* L.)</td>
 </tr>
 <tr>
-<td>**i)** Seigle
-
-</td>
-<td>—*Secale cereale* L.</td>
-</tr>
-<tr>
-<td>**j)** Sainfoin
-
-</td>
-<td>—*Onobrychis viciifolia* Scop.</td>
-</tr>
-<tr>
-<td>**k)** Épeautre
-
-</td>
-<td>—*Triticum spelta* L.</td>
-</tr>
-<tr>
-<td>**l)** Triticale
-
-</td>
-<td>—*X Triticosecale* Wittmack</td>
-</tr>
-<tr>
-<td>**m)** Vesce velue
-
-</td>
-<td>—*Vicia villosa* Roth. ssp. *villosa*</td>
-</tr>
-<tr>
-<td>**n)** Vesce de Hongrie
-
-</td>
-<td>—*Vicia pannonica* Crantz</td>
-</tr>
-<tr>
-<td>**o)** Vesce commune ou cultivée
-
-</td>
-<td>—*Vicia sativa* L. ssp. *sativa*</td>
+<td>k) Triticale</td>
+<td>— × *Triticosecale* spp.</td>
 </tr>
 </table>
 
-
-
 <table>
 <tr>
-<th>I</th>
-<th>II</th>
-<th>III</th>
-<th>IV</th>
-<th>V</th>
-<th>VI</th>
-<th>VII</th>
-<th>VIII</th>
-<th>IX</th>
-<th>X</th>
-<th>XI</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th>11</th>
 </tr>
 <tr>
 <th></th>
-<th>Nombre maximal de semences par kg</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<th></th>
-<th>Graines de mauvaises herbes nuisibles</th>
-<th></th>
-<th></th>
+<th>Nombre maximal de graines par kg</th>
 <th></th>
 <th></th>
 <th></th>
@@ -3455,36 +3388,49 @@ NOTE
 </tr>
 <tr>
 <th></th>
-<th></th>
-<th>Principales plus secondaires</th>
+<th>Mauvaises herbes nuisibles</th>
 <th></th>
 <th></th>
 <th>Nombre maximal d’ergots par kg</th>
-<th>Pourcentage maximal de charbon nu véritable dans l’orge</th>
+<th></th>
 <th>Pourcentage minimal de germination</th>
+</tr>
+<tr>
+<th></th>
+</tr>
+<tr>
+<th></th>
+</tr>
+<tr>
+<th></th>
+<th></th>
+<th>Principales et secondaires</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
 <tr>
 <th>Nom de la catégorie</th>
 <th>Principales</th>
 <th>Dans l’avoine</th>
 <th>Dans les autres espèces</th>
-<th>Total des graines de mauvaises herbes</th>
-<th>Total des semences d’autres plantes cultivées</th>
+<th>Total de mauvaises herbes</th>
+<th>Autres plantes cultivées</th>
 <th>Dans l’orge et l’avoine</th>
 <th>Dans le triticale et le seigle</th>
-<th>Seigle, sainfoin et triticale</th>
+<th>Pourcentage maximal de charron nu véritable dans l’orge</th>
+<th>Seigle, triticale, orge nue et avoine nue</th>
 <th>Autres espèces</th>
 </tr>
 <tr>
-<th></th>
-</tr>
-<tr>
-<td>**1** Canada Fondation n<sup>o</sup> 1
-
-</td>
+<td>1. Canada Fondation n<sup>o</sup> 1</td>
 <td>0</td>
-<td>0,0</td>
-<td>0,0</td>
+<td>0</td>
+<td>0</td>
 <td>2</td>
 <td>1</td>
 <td>1</td>
@@ -3494,12 +3440,10 @@ NOTE
 <td>85</td>
 </tr>
 <tr>
-<td>**2** Canada Fondation n<sup>o</sup> 2
-
-</td>
+<td>2. Canada Fondation n<sup>o</sup> 2</td>
 <td>0</td>
-<td>0,1</td>
-<td>0,2</td>
+<td>0</td>
+<td>0</td>
 <td>4</td>
 <td>2</td>
 <td>8</td>
@@ -3509,12 +3453,10 @@ NOTE
 <td>75</td>
 </tr>
 <tr>
-<td>**3** Canada Enregistrée n<sup>o</sup> 1
-
-</td>
+<td>3. Canada Enregistrée n<sup>o</sup> 1</td>
 <td>0</td>
-<td>0,0</td>
-<td>0,0</td>
+<td>0</td>
+<td>0</td>
 <td>3</td>
 <td>2</td>
 <td>1</td>
@@ -3524,12 +3466,10 @@ NOTE
 <td>85</td>
 </tr>
 <tr>
-<td>**4** Canada Enregistrée n<sup>o</sup> 2
-
-</td>
+<td>4. Canada Enregistrée n<sup>o</sup> 2</td>
 <td>0</td>
-<td>0,1</td>
-<td>0,2</td>
+<td>0</td>
+<td>0</td>
 <td>6</td>
 <td>4</td>
 <td>8</td>
@@ -3539,12 +3479,10 @@ NOTE
 <td>75</td>
 </tr>
 <tr>
-<td>**5** Canada Certifiée n<sup>o</sup> 1
-
-</td>
+<td>5. Canada Certifiée n<sup>o</sup> 1</td>
 <td>0</td>
-<td>0,5</td>
-<td>0,2</td>
+<td>0</td>
+<td>0</td>
 <td>3</td>
 <td>4</td>
 <td>2</td>
@@ -3554,12 +3492,10 @@ NOTE
 <td>85</td>
 </tr>
 <tr>
-<td>**6** Canada Certifiée n<sup>o</sup> 2
-
-</td>
+<td>6. Canada Certifiée n<sup>o</sup> 2</td>
 <td>0</td>
-<td>1,0</td>
-<td>1,0</td>
+<td>1</td>
+<td>1</td>
 <td>6</td>
 <td>10</td>
 <td>8</td>
@@ -3569,12 +3505,10 @@ NOTE
 <td>75</td>
 </tr>
 <tr>
-<td>**7** Ordinaire n<sup>o</sup> 1
-
-</td>
+<td>7. Ordinaire n<sup>o</sup> 1</td>
 <td>0</td>
-<td>2,0</td>
-<td>2,0</td>
+<td>2</td>
+<td>2</td>
 <td>10</td>
 <td>25</td>
 <td>2</td>
@@ -3584,12 +3518,10 @@ NOTE
 <td>85</td>
 </tr>
 <tr>
-<td>**8** Ordinaire n<sup>o</sup> 2
-
-</td>
+<td>8. Ordinaire n<sup>o</sup> 2</td>
 <td>2</td>
-<td>4,0</td>
-<td>4,0</td>
+<td>4</td>
+<td>4</td>
 <td>20</td>
 <td>50</td>
 <td>8</td>
@@ -3600,41 +3532,154 @@ NOTE
 </tr>
 </table>
 
+#### TABLEAU II.1
+<table>
+<tr>
+<td>Applicable à ce qui suit :</td>
+<td></td>
+</tr>
+<tr>
+<td>a) Sainfoin</td>
+<td>— *Onobrychis viciifolia* Scop.</td>
+</tr>
+<tr>
+<td>b) Vesce commune ou cultivée</td>
+<td>— *Vicia sativa* L. subsp. *sativa*</td>
+</tr>
+<tr>
+<td>c) Vesce velue</td>
+<td>— *Vicia villosa* Roth. subsp. *villosa*</td>
+</tr>
+<tr>
+<td>d) Vesce de Hongrie</td>
+<td>— *Vicia pannonica* Crantz</td>
+</tr>
+</table>
 
+<table>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+</tr>
+<tr>
+<th></th>
+<th>Nombre maximal de graines par kg</th>
+<th></th>
+</tr>
+<tr>
+<th></th>
+<th>Mauvaises herbes nuisibles</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<th>Nom de la catégorie</th>
+<th>Principales</th>
+<th>Principales et secondaires</th>
+<th>Total de mauvaises herbes</th>
+<th>Autres plantes cultivées</th>
+<th>Pourcentage minimal de germination</th>
+</tr>
+<tr>
+<td>1. Canada Fondation n<sup>o</sup> 1</td>
+<td>0</td>
+<td>1</td>
+<td>20</td>
+<td>10</td>
+<td>75</td>
+</tr>
+<tr>
+<td>2. Canada Fondation n<sup>o</sup> 2</td>
+<td>0</td>
+<td>2</td>
+<td>40</td>
+<td>20</td>
+<td>65</td>
+</tr>
+<tr>
+<td>3. Canada Enregistrée n<sup>o</sup> 1</td>
+<td>0</td>
+<td>1</td>
+<td>20</td>
+<td>10</td>
+<td>75</td>
+</tr>
+<tr>
+<td>4. Canada Enregistrée n<sup>o</sup> 2</td>
+<td>0</td>
+<td>2</td>
+<td>40</td>
+<td>20</td>
+<td>65</td>
+</tr>
+<tr>
+<td>5. Canada Certifiée n<sup>o</sup> 1</td>
+<td>0</td>
+<td>5</td>
+<td>40</td>
+<td>40</td>
+<td>75</td>
+</tr>
+<tr>
+<td>6. Canada Certifiée n<sup>o</sup> 2</td>
+<td>0</td>
+<td>20</td>
+<td>80</td>
+<td>80</td>
+<td>65</td>
+</tr>
+<tr>
+<td>7. Ordinaire n<sup>o</sup> 1</td>
+<td>0</td>
+<td>20</td>
+<td>50</td>
+<td>50</td>
+<td>70</td>
+</tr>
+<tr>
+<td>8. Ordinaire n<sup>o</sup> 2</td>
+<td>20</td>
+<td>40</td>
+<td>100</td>
+<td>100</td>
+<td>60</td>
+</tr>
+</table>
 
 #### TABLEAU III
 <table>
 <tr>
-<td>Applicable aux mélanges de céréales composés de semences de deux ou de plusieurs espèces mentionnées aux tableaux I et II, y compris le haricot de grande culture, la gourgane, la féverole et le pois.
-
-</td>
+<td>Applicable aux :</td>
+</tr>
+<tr>
+<td>Mélanges de céréales composés de semences de deux ou plusieurs espèces de semences mentionnées aux tableaux I à II.1 y compris *Phaseolus vulgaris* L., *Vicia faba* L. et *Pisum sativum* L.</td>
 </tr>
 </table>
 
-
-
 <table>
 <tr>
-<th>I</th>
-<th>II</th>
-<th>III</th>
-<th>IV</th>
-<th>V</th>
-<th>VI</th>
-<th>VII</th>
-<th>VIII</th>
-<th>IX</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
 </tr>
 <tr>
 <th></th>
-<th>Nombre maximal de semences par kg</th>
+<th>Nombre maximal de graines par kg</th>
 <th></th>
 <th></th>
-<th>Pourcentage minimal de germination de chaque composant</th>
 </tr>
 <tr>
 <th></th>
-<th>Graines de mauvaises herbes nuisibles</th>
+<th>Mauvaises herbes nuisibles</th>
 <th></th>
 <th></th>
 <th></th>
@@ -3643,331 +3688,268 @@ NOTE
 <tr>
 <th>Nom de la catégorie</th>
 <th>Principales</th>
-<th>Principales plus secondaires</th>
-<th>Total des graines de mauvaises herbes</th>
-<th>Total des semences d’autres plantes cultivées</th>
+<th>Principales et secondaires</th>
+<th>Total de mauvaises herbes</th>
+<th>Autres plantes cultivées</th>
 <th>Pourcentage maximal de charbon nu véritable dans l’orge</th>
 <th>Nombre maximal d’ergots par kg</th>
-<th>Blé durum</th>
-<th>Autres espèces</th>
 </tr>
 <tr>
-<th></th>
-</tr>
-<tr>
-<td>**1** Mélange de céréales Canada Certifié n<sup>o</sup> 1
-
-</td>
+<td>1. Mélange de céréales Canada Certifiée n<sup>o</sup> 1</td>
 <td>0</td>
-<td>0,2</td>
+<td>0</td>
 <td>3</td>
 <td>5</td>
 <td>2</td>
 <td>3</td>
-<td>80</td>
-<td>85</td>
 </tr>
 <tr>
-<td>**2** Mélange de céréales Canada Certifié n<sup>o</sup> 2
-
-</td>
+<td>2. Mélange de céréales Canada Certifiée n<sup>o</sup> 2</td>
 <td>0</td>
-<td>1,0</td>
+<td>1</td>
 <td>6</td>
 <td>20</td>
 <td>4</td>
 <td>12</td>
-<td>70</td>
-<td>75</td>
 </tr>
 <tr>
-<td>**3** Mélange de céréales Ordinaire n<sup>o</sup> 1
-
-</td>
+<td>3. Mélange de céréales Ordinaire n<sup>o</sup> 1</td>
 <td>0</td>
-<td>2,0</td>
+<td>2</td>
 <td>10</td>
 <td>30</td>
 <td>4</td>
 <td>3</td>
-<td>80</td>
-<td>85</td>
 </tr>
 <tr>
-<td>**4** Mélange de céréales Ordinaire n<sup>o</sup> 2
-
-</td>
+<td>4. Mélange de céréales Ordinaire n<sup>o</sup> 2</td>
 <td>2</td>
-<td>4,0</td>
+<td>4</td>
 <td>20</td>
 <td>60</td>
 <td>6</td>
 <td>12</td>
-<td>70</td>
-<td>75</td>
 </tr>
 </table>
-
-
 
 #### TABLEAU IV
 <table>
 <tr>
-<td>Applicable aux espèces suivantes :</td>
+<td>Applicable à ce qui suit :</td>
 <td></td>
 </tr>
 <tr>
-<td>**a)** Alpiste des canaries
-
-</td>
-<td>—*Phalaris canariensis* L.</td>
+<td>a) Alpiste des Canaries</td>
+<td>— *Phalaris canariensis* L.</td>
 </tr>
 <tr>
-<td>**b)** Lin à filasse et oléagineux
-
-</td>
-<td>—*Linum usitatissimum* L.</td>
+<td>b) Lin à filasse et oléagineux</td>
+<td>— *Linum usitatissimum* L.</td>
 </tr>
 <tr>
-<td>**c)** Sorgho commun
-
-</td>
-<td>—*Sorghum bicolor* (L.) Moench (= *S. vulgare* Pers.), *S. almum* Parodi</td>
+<td>c) Sorgho commun</td>
+<td>— *Sorghum bicolor* (L.) Moench</td>
 </tr>
 <tr>
-<td>**d)** Hybrides issus du sorgho commun et de l’herbe du Soudan
-
-</td>
-<td></td>
+<td>d) Hybrides issus du sorgho commun et de l’herbe du Soudan</td>
+<td>— *Sorghum* ×*drummondi* (Steud.) Millsp. & Chase</td>
 </tr>
 <tr>
-<td>**e)** Herbe du Soudan
-
-</td>
-<td>—*Sorghum sudanense* (Piper) Stapf</td>
+<td>e) Herbe du Soudan</td>
+<td>— *Sorghum* ×*drummondi* (Steud.) Millsp. & Chase (= *S. sudanese* (Piper) Stapf)</td>
+</tr>
+<tr>
+<td>f) Chanvre</td>
+<td>— *Cannabis sativa* L. subsp. *sativa*</td>
 </tr>
 </table>
 
-
-
 <table>
 <tr>
-<th>I</th>
-<th>II</th>
-<th>III</th>
-<th>IV</th>
-<th>V</th>
-<th>VI</th>
-<th>VII</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
 </tr>
 <tr>
 <th></th>
-<th>Nombre maximal de semences par 25 g</th>
-<th></th>
+<th>Nombre maximal de graines par 25 g</th>
 </tr>
 <tr>
 <th></th>
-<th>Graines de mauvaises  herbes nuisibles</th>
+<th>Mauvaises herbes nuisibles</th>
 <th></th>
-<th>Semences d’autres plantes cultivées</th>
-<th></th>
+<th>Autres plantes cultivées</th>
+<th>Pourcentage minimal de germination</th>
 </tr>
 <tr>
 <th>Nom de la catégorie</th>
 <th>Principales</th>
-<th>Principales plus secondaires</th>
-<th>Total des graines de mauvaises herbes</th>
-<th>Dans le Sorgho commun, l’herbe du Soudan et l’alpiste des canaries</th>
-<th>Dans d’autres espèces</th>
-<th>Pourcentage minimal de germination</th>
-</tr>
-<tr>
-<th></th>
+<th>Principales et secondaires</th>
+<th>Total de mauvaises herbes</th>
+<th>Dans le sorgho commun, l’herbe du Soudan, les hybrides issus du sorgho commun et de l’herbe du Soudan et l’alpiste des Canaries</th>
+<th>Dans les autres espèces</th>
+<th>Sorgho commun</th>
+<th>Autres espèces</th>
 </tr>
 <tr>
 <td>1. Canada Fondation n<sup>o</sup> 1</td>
 <td>0</td>
-<td>0,0</td>
+<td>0</td>
 <td>2</td>
-<td>0,5</td>
-<td>0,5</td>
+<td>0</td>
+<td>0</td>
+<td>70</td>
 <td>85</td>
 </tr>
 <tr>
 <td>2. Canada Fondation n<sup>o</sup> 2</td>
 <td>0</td>
-<td>0,5</td>
+<td>0</td>
 <td>3</td>
-<td>1,0</td>
-<td>1,0</td>
+<td>1</td>
+<td>1</td>
+<td>70</td>
 <td>70</td>
 </tr>
 <tr>
 <td>3. Canada Enregistrée n<sup>o</sup> 1</td>
 <td>0</td>
-<td>0,0</td>
+<td>0</td>
 <td>2</td>
-<td>0,5</td>
-<td>1,0</td>
+<td>0</td>
+<td>1</td>
+<td>70</td>
 <td>85</td>
 </tr>
 <tr>
 <td>4. Canada Enregistrée n<sup>o</sup> 2</td>
 <td>0</td>
-<td>0,5</td>
+<td>0</td>
 <td>3</td>
-<td>1,0</td>
-<td>2,0</td>
+<td>1</td>
+<td>2</td>
+<td>70</td>
 <td>70</td>
 </tr>
 <tr>
 <td>5. Canada Certifiée n<sup>o</sup> 1</td>
 <td>0</td>
-<td>0,5</td>
+<td>0</td>
 <td>3</td>
-<td>1,0</td>
-<td>1,0</td>
+<td>1</td>
+<td>1</td>
+<td>70</td>
 <td>85</td>
 </tr>
 <tr>
 <td>6. Canada Certifiée n<sup>o</sup> 2</td>
 <td>0</td>
-<td>2,0</td>
+<td>2</td>
 <td>5</td>
-<td>2,0</td>
-<td>2,0</td>
+<td>2</td>
+<td>2</td>
+<td>70</td>
 <td>70</td>
 </tr>
 <tr>
 <td>7. Ordinaire n<sup>o</sup> 1</td>
 <td>0</td>
-<td>2,0</td>
+<td>2</td>
 <td>6</td>
-<td>25,0</td>
-<td>2,0</td>
+<td>25</td>
+<td>2</td>
+<td>70</td>
 <td>85</td>
 </tr>
 <tr>
 <td>8. Ordinaire n<sup>o</sup> 2</td>
 <td>2</td>
-<td>6,0</td>
+<td>6</td>
 <td>10</td>
-<td>50,0</td>
-<td>8,0</td>
+<td>50</td>
+<td>8</td>
+<td>70</td>
 <td>70</td>
 </tr>
 </table>
 
-
-
 #### TABLEAU V
 <table>
 <tr>
-<td>Applicable aux espèces suivantes :</td>
-<td></td>
+<td>Applicable aux semences des espèces ci-après lorsqu’elles sont utilisées pour la production en plein champs :</td>
 </tr>
 <tr>
-<td>**a)** Haricot, de grande culture et de jardin
-
-</td>
-<td>—*Phaseolus vulgaris* L.</td>
+<td>a) Haricot de grande culture</td>
+<td>— *Phaseolus vulgaris* L.</td>
 </tr>
 <tr>
-<td>**b)** Gourgane et féverole
-
-</td>
-<td>—*Vicia faba* L.</td>
+<td>b) Gourgane et féverole</td>
+<td>— *Vicia faba* L.</td>
 </tr>
 <tr>
-<td>**c)** Haricot de Lima
-
-</td>
-<td>—*Phaseolus lunatus* L.</td>
+<td>c) Pois chiche</td>
+<td>— *Cicer arietinum* L.</td>
 </tr>
 <tr>
-<td>**d)** Haricot d’Espagne
-
-</td>
-<td>—*Phaseolus coccineus* L.</td>
+<td>d) Maïs (pollinisé librement et synthétique)</td>
+<td>— *Zea mays* L. subsp. *mays*</td>
 </tr>
 <tr>
-<td>**e)** Pois chiche
-
-</td>
-<td>—*Cicer arietinum L.*</td>
+<td>e) Pois à vache</td>
+<td>— *Vigna unguiculata* (L.) Walpers subsp. *unguiculata*</td>
 </tr>
 <tr>
-<td>**f)** Maïs (pollinisé librement et synthétique)
-
-</td>
-<td>—*Zea mays* L.</td>
+<td>f) Pois de grande culture</td>
+<td>— *Pisum sativum* L.</td>
 </tr>
 <tr>
-<td>**g)** Pois à vache
-
-</td>
-<td>—*Vigna unguiculata* (L.) Walpers ssp. *unguiculata*</td>
+<td>g) Carthame des teinturiers</td>
+<td>— *Carthamus tinctorius* L.</td>
 </tr>
 <tr>
-<td>**h)** Pois, de conserve, de grande culture et de jardin
-
-</td>
-<td>—*Pisum sativum* L.</td>
+<td>h) Soja</td>
+<td>— *Glycine max* (L.) Merr.</td>
 </tr>
 <tr>
-<td>**i)** Carthame des teinturiers
-
-</td>
-<td>—*Carthamus tinctorius* L.</td>
-</tr>
-<tr>
-<td>**j)** Soja
-
-</td>
-<td>—*Glycine max* (L.) Merrill</td>
-</tr>
-<tr>
-<td>**k)** Tournesol (pollinisé librement)
-
-</td>
-<td>—*Helianthus annuus* L.</td>
+<td>i) Tournesol (pollinisé librement)</td>
+<td>— *Helianthus annuus* L.</td>
 </tr>
 </table>
 
-
-
 <table>
 <tr>
-<th>I</th>
-<th>II</th>
-<th>III</th>
-<th>IV</th>
-<th>V</th>
-<th>VI</th>
-<th>VII</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
 </tr>
 <tr>
 <th></th>
-<th>Nombre maximal de semences par kg</th>
+<th>Nombre maximal de graines par kg</th>
 <th></th>
 <th>Pourcentage minimal de germination</th>
 </tr>
 <tr>
 <th>Nom de la catégorie</th>
-<th>Graines de mauvaises herbes</th>
-<th>Semences d’autres plantes cultivées</th>
+<th>Total de mauvaises herbes</th>
+<th>Autres plantes cultivées</th>
 <th>Nombre maximal de sclérotes dans le tournesol par kg</th>
-<th>Pois</th>
+<th>Pois, pois chiche, pois à vache et carthame des teinturiers</th>
 <th>Haricots et soja</th>
-<th>Autres espèces</th>
-</tr>
-<tr>
-<th></th>
+<th>Maïs et tournesol</th>
 </tr>
 <tr>
 <td>1. Canada Fondation n<sup>o</sup> 1</td>
 <td>0</td>
-<td>0,0</td>
+<td>0</td>
 <td>1</td>
 <td>80</td>
 <td>85</td>
@@ -3976,7 +3958,7 @@ NOTE
 <tr>
 <td>2. Canada Fondation n<sup>o</sup> 2</td>
 <td>0</td>
-<td>0,5</td>
+<td>0</td>
 <td>8</td>
 <td>70</td>
 <td>75</td>
@@ -3985,7 +3967,7 @@ NOTE
 <tr>
 <td>3. Canada Enregistrée n<sup>o</sup> 1</td>
 <td>0</td>
-<td>0,0</td>
+<td>0</td>
 <td>1</td>
 <td>80</td>
 <td>85</td>
@@ -3994,7 +3976,7 @@ NOTE
 <tr>
 <td>4. Canada Enregistrée n<sup>o</sup> 2</td>
 <td>0</td>
-<td>1,0</td>
+<td>1</td>
 <td>8</td>
 <td>70</td>
 <td>75</td>
@@ -4003,7 +3985,7 @@ NOTE
 <tr>
 <td>5. Canada Certifiée n<sup>o</sup> 1</td>
 <td>0</td>
-<td>1,0</td>
+<td>1</td>
 <td>1</td>
 <td>80</td>
 <td>85</td>
@@ -4012,7 +3994,7 @@ NOTE
 <tr>
 <td>6. Canada Certifiée n<sup>o</sup> 2</td>
 <td>0</td>
-<td>3,0</td>
+<td>3</td>
 <td>8</td>
 <td>70</td>
 <td>75</td>
@@ -4021,7 +4003,7 @@ NOTE
 <tr>
 <td>7. Ordinaire n<sup>o</sup> 1</td>
 <td>1</td>
-<td>4,0</td>
+<td>4</td>
 <td>4</td>
 <td>75</td>
 <td>80</td>
@@ -4030,7 +4012,7 @@ NOTE
 <tr>
 <td>8. Ordinaire n<sup>o</sup> 2</td>
 <td>3</td>
-<td>10,0</td>
+<td>10</td>
 <td>8</td>
 <td>65</td>
 <td>65</td>
@@ -4038,60 +4020,48 @@ NOTE
 </tr>
 </table>
 
-
-
 #### TABLEAU VI
 <table>
 <tr>
-<td>Applicable aux espèces suivantes :</td>
-<td></td>
+<td>Applicable aux semences des espèces ci-après lorsqu’elles sont utilisées pour la production en plein champs :</td>
 </tr>
 <tr>
-<td>**a)** Maïs hybride
-
-</td>
-<td>—*Zea mays* L.</td>
+<td>a) Maïs, hybride</td>
+<td>— *Zea mays* L. subsp. *mays*</td>
 </tr>
 <tr>
-<td>**b)** Tournesol hybride
-
-</td>
-<td>—*Helianthus annuus* L</td>
+<td>b) Tournesol, hybride</td>
+<td>— *Helianthus annuus* L.</td>
 </tr>
 </table>
 
-
-
 <table>
 <tr>
-<th>I</th>
-<th>II</th>
-<th>III</th>
-<th>IV</th>
-<th>V</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <th></th>
-<th>Nombre maximal de semences par kg</th>
+<th>Nombre maximal de graines par kg</th>
 <th></th>
 <th></th>
 </tr>
 <tr>
 <th>Nom de la catégorie</th>
-<th>Graines de mauvaises herbes</th>
-<th>Semences d’autres plantes cultivées</th>
-<th>Nombre maximal de sclérotes dans le tournesol  par kg</th>
-<th>Pourcentage minimal de  germination</th>
-</tr>
-<tr>
-<th></th>
+<th>Total de mauvaises herbes</th>
+<th>Autres plantes cultivées</th>
+<th>Nombre maximal de sclérotes dans le tournesol par kg</th>
+<th>Pourcentage minimal de germination</th>
 </tr>
 <tr>
 <td>1. Canada Fondation</td>
 <td>0</td>
-<td>s. o.</td>
+<td>S/O</td>
 <td>8</td>
-<td>s. o.</td>
+<td>S/O</td>
 </tr>
 <tr>
 <td>2. Canada Certifiée n<sup>o</sup> 1</td>
@@ -4116,74 +4086,67 @@ NOTE
 </tr>
 </table>
 
-
-
 #### TABLEAU VII
 <table>
 <tr>
-<td>Applicable aux espèces suivantes :</td>
+<td>Applicable à ce qui suit :</td>
 <td></td>
 </tr>
 <tr>
-<td>**a)** Moutarde noire
-
-</td>
-<td>—*Brassica nigra* (L.) Koch</td>
+<td>a) Moutarde noire</td>
+<td>— *Brassica nigra* (L.) W.D.J. Koch</td>
 </tr>
 <tr>
-<td>**b)** Moutarde de l’Inde
-
-</td>
-<td>—*Brassica juncea* (L.) Czern. et Coss.</td>
+<td>b) Moutarde brune, orientale, de l’Inde</td>
+<td>— *Brassica juncea* (L.) Czern.</td>
 </tr>
 <tr>
-<td>**c)** Moutarde blanche (jaune)
-
-</td>
-<td>—*Sinapis alba* L. (= *B. hirta* Moench)</td>
+<td>c) Moutarde blanche (= jaune)</td>
+<td>— *Sinapis alba* L.</td>
 </tr>
 <tr>
-<td>**d)** Colza, colza oléagineux y compris Canola
-
-</td>
+<td>d) Canola, colza oléagineux, colza</td>
 <td></td>
 </tr>
 <tr>
-<td>— type de Pologne</td>
-<td>—*Brassica rapa* L.</td>
+<td>- type d’Argentine</td>
+<td>— *Brassica napus* L. var. *napus* (= *B. napus* L. var. *oleifera* Delile)</td>
 </tr>
 <tr>
-<td>— type d’Argentine</td>
-<td>—*Brassica napus* L.</td>
+<td>- type de Pologne</td>
+<td>— *Brassica rapa* L. subsp. *campestris* (L.) A.R. Clapham</td>
+</tr>
+<tr>
+<td>- type de *Brassica juncea*</td>
+<td>— *Brassica juncea* (L.) Czern.</td>
+</tr>
+<tr>
+<td>e) Radis, oléagineux ou fourrager</td>
+<td>— *Raphanus sativus* L. var. *oleiformis* Pers.</td>
 </tr>
 </table>
 
-
-
 <table>
 <tr>
-<th>I</th>
-<th>II</th>
-<th>III</th>
-<th>IV</th>
-<th>V</th>
-<th>VI</th>
-<th>VII</th>
-<th>VIII</th>
-<th>IX</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
 </tr>
 <tr>
 <th></th>
-<th>Nombre maximal de semences par 25 g</th>
-<th></th>
-<th></th>
-<th></th>
+<th>Nombre maximal de graines par 25 g</th>
 <th></th>
 <th></th>
 </tr>
 <tr>
 <th></th>
-<th>Graines de mauvaises herbes nuisibles</th>
+<th>Mauvaises herbes nuisibles</th>
 <th></th>
 <th></th>
 <th></th>
@@ -4194,16 +4157,13 @@ NOTE
 <tr>
 <th>Nom de la catégorie</th>
 <th>Principales</th>
-<th>Principales plus secondaires</th>
-<th>Total des graines de mauvaises herbes</th>
-<th>Nombre de semences de *B. rapa* dans *B. napus* ou *B. napus* dans *B. rapa*</th>
-<th>Autres espèces de *Brassica* cultivée, y compris *S. alba*</th>
-<th>Plantes cultivées autres que *Brassica*</th>
-<th>Nombre maximal de sclérotes par 50 g,</th>
+<th>Principales et secondaires</th>
+<th>Total de mauvaises herbes</th>
+<th>*B. rapa* dans *B. napus* ou *B. napus* dans *B. rapa*</th>
+<th>Autres espèces de *brassica* cultivées y compris *S. alba*</th>
+<th>Plantes cultivées autres que *brassica*</th>
+<th>Nombre maximal de sclérotes par 50 g</th>
 <th>Pourcentage minimal de germination</th>
-</tr>
-<tr>
-<th></th>
 </tr>
 <tr>
 <td>1. Canada Fondation n<sup>o</sup> 1</td>
@@ -4225,7 +4185,7 @@ NOTE
 <td>1</td>
 <td>2</td>
 <td>2</td>
-<td>75</td>
+<td>80</td>
 </tr>
 <tr>
 <td>3. Canada Enregistrée n<sup>o</sup> 1</td>
@@ -4247,7 +4207,7 @@ NOTE
 <td>1</td>
 <td>2</td>
 <td>2</td>
-<td>75</td>
+<td>80</td>
 </tr>
 <tr>
 <td>5. Canada Certifiée n<sup>o</sup> 1</td>
@@ -4284,156 +4244,117 @@ NOTE
 </tr>
 </table>
 
-
-
 #### TABLEAU VIII
 <table>
 <tr>
-<td>Applicable aux espèces suivantes :</td>
+<td>Applicable à ce qui suit :</td>
 <td></td>
 </tr>
 <tr>
-<td>**a)** Luzerne
-
-</td>
-<td>—*Medicago sativa* L. (incl. *M. sativa* L. ssp. *falcata* (L.) Arcangeli)</td>
+<td>a) Luzerne</td>
+<td>— *Medicago sativa* L.</td>
 </tr>
 <tr>
-<td>**b)** Trèfle incarnat
-
-</td>
-<td>—*Trifolium incarnatum* L.</td>
+<td>b) Trèfle incarnat</td>
+<td>— *Trifolium incarnatum* L.</td>
 </tr>
 <tr>
-<td>**c)** Trèfle rouge
-
-</td>
-<td>—*Trifolium pratense* L.</td>
+<td>c) Trèfle rouge</td>
+<td>— *Trifolium pratense* L.</td>
 </tr>
 <tr>
-<td>**d)** Trèfle souterrain
-
-</td>
-<td>—*Trifolium subterraneum* L.</td>
+<td>d) Trèfle souterrain</td>
+<td>— *Trifolium subterraneum* L.</td>
 </tr>
 <tr>
-<td>**e)** Trèfle d’odeur ou mélilot
-
-</td>
+<td>e) Mélilot ou trèfle d’odeur</td>
 <td></td>
 </tr>
 <tr>
-<td>— fleurs blanches</td>
-<td>—*Melilotus alba* Medikus</td>
+<td>- fleurs blanches</td>
+<td>— *Melilotus albus* Medik.</td>
 </tr>
 <tr>
-<td>— fleurs jaunes</td>
-<td>—*Melilotus officinalis* (L.) Pallas</td>
+<td>- fleurs jaunes</td>
+<td>— *Melilotus officinalis* (L.) Lam.</td>
 </tr>
 <tr>
-<td>**f)** Lespédeza commune
-
-</td>
-<td>—*Lespedeza striata* (Thunb. ex Murray) Hook. & Arn.</td>
+<td>f) Lespédeza, commun ou kobe</td>
+<td>— *Kummerowia striata* (Thunb.) Schindl. (= *Lespedeza striata* (Thunb.) Hook. & Arn.)</td>
 </tr>
 <tr>
-<td>**g)** Lespédeza de Corée
-
-</td>
-<td>—*Lespedeza stipulacea* Maxim</td>
+<td>g) Lespédeza, de Corée</td>
+<td>— *Kummerowia stipulacia* (Maxim.) Makino (= *Lespedeza stipulacea* Maxim.)</td>
 </tr>
 <tr>
-<td>**h)** Lespédeza de Chine
-
-</td>
-<td>—*Lespedeza cuneata* (Dum.-Cours.) G. Don</td>
+<td>h) Lespédeza, sericea ou de Chine</td>
+<td>— *Lespedeza cuneata* (Dum.-Cours.) G. Don</td>
 </tr>
 <tr>
-<td>**i)** Millet des oiseaux
-
-</td>
-<td>—*Setaria italica* (L.) Beauv.</td>
+<td>i) Millet des oiseaux</td>
+<td>— *Setaria italica* (L.) P. Beauv. subsp. *italica*</td>
 </tr>
 <tr>
-<td>**j)** Millet japonais
-
-</td>
-<td>—*Echinochloa crusgalli* (L.) Beauv. var. *frumentacea* (Link) W.F. Wight</td>
+<td>j) Millet japonais</td>
+<td>— *Echinochloa frumentacea* Link ou *E. esculenta* (A. Brown) H. Scholz. (= *Echinochloa crus-galli* (L.) P. Beauv. var. *frumentacea* (Link) E.G. Camus & A. Camus)</td>
 </tr>
 <tr>
-<td>**k)** Millet perlé
-
-</td>
-<td>—*Pennisetum americanum* (L.) Schumann (= *P. typhoides* (Burm.) Stapf & C.F. Hubb)</td>
+<td>k) Millet perlé</td>
+<td>— *Pennisetum glaucum* (L.) R.Br. (= *P. americanum* L. Leeke)</td>
 </tr>
 <tr>
-<td>**l)** Millet proso
-
-</td>
-<td>—*Panicum miliaceum* L.</td>
+<td>l) Millet proso</td>
+<td>— *Panicum miliaceum* L. subsp. *miliaceum*</td>
 </tr>
 <tr>
-<td>**m)** Coronille bigarrée
-
-</td>
-<td>—*Coronilla varia* L.</td>
+<td>m) Coronille bigarrée</td>
+<td>— *Securigera varia* (L.) Lassen (= *Coronilla varia* L.)</td>
 </tr>
 <tr>
-<td>**n)** Anthyllide vulnéraire
-
-</td>
-<td>—*Anthyllis vulneraria* L.</td>
+<td>n) Anthyllide vulnéraire</td>
+<td>— *Anthyllis vulneraria* L.</td>
 </tr>
 <tr>
-<td>**o)** Astragale pois chiche
-
-</td>
-<td>—*Astragalus cicer* L.</td>
+<td>o) Astragale pois chiche</td>
+<td>— *Astragalus cicer* L.</td>
 </tr>
 </table>
 
-
-
 <table>
 <tr>
-<th>I</th>
-<th>II</th>
-<th>III</th>
-<th>IV</th>
-<th>V</th>
-<th>VI</th>
-<th>VII</th>
-<th>VIII</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
 </tr>
 <tr>
 <th></th>
-<th>Nombre maximal de semences par 25 g sauf indication contraire</th>
+<th>Nombre maximal de graines par 25 g, sauf indication contraire</th>
 <th></th>
 </tr>
 <tr>
 <th></th>
-<th>Graines de mauvaises  herbes nuisibles</th>
+<th>Mauvaises herbes nuisibles</th>
 <th></th>
-<th>Semences d’autres cultures</th>
+<th>Autres plantes cultivées</th>
 <th></th>
 </tr>
 <tr>
-<th>Dénomination de catégorie</th>
+<th>Nom de la catégorie</th>
 <th>Principales</th>
 <th>Principales et secondaires</th>
-<th>Total des graines de mauvaises herbes</th>
+<th>Total de mauvaises herbes</th>
 <th>Mélilot</th>
-<th>Espèces de *Brassica* cultivées y compris *S. alba*</th>
-<th>Plantes cultivées autres que *Brassica*</th>
+<th>Espèces de *brassica* cultivées y compris *S. alba*</th>
+<th>Plantes cultivées autres que *brassica*</th>
 <th>Pourcentage minimal de germination</th>
 </tr>
 <tr>
-<th></th>
-</tr>
-<tr>
-<td>**1** Canada Fondation n<sup>o</sup> 1
-
-</td>
+<td>1. Canada Fondation n<sup>o</sup> 1</td>
 <td>0</td>
 <td>0</td>
 <td>5</td>
@@ -4443,9 +4364,7 @@ NOTE
 <td>85</td>
 </tr>
 <tr>
-<td>**2** Canada Fondation n<sup>o</sup> 2
-
-</td>
+<td>2. Canada Fondation n<sup>o</sup> 2</td>
 <td>0</td>
 <td>2</td>
 <td>30</td>
@@ -4455,9 +4374,7 @@ NOTE
 <td>70</td>
 </tr>
 <tr>
-<td>**3** Canada Enregistrée n<sup>o</sup> 1
-
-</td>
+<td>3. Canada Enregistrée n<sup>o</sup> 1</td>
 <td>0</td>
 <td>0</td>
 <td>5</td>
@@ -4467,9 +4384,7 @@ NOTE
 <td>85</td>
 </tr>
 <tr>
-<td>**4** Canada Enregistrée n<sup>o</sup> 2
-
-</td>
+<td>4. Canada Enregistrée n<sup>o</sup> 2</td>
 <td>0</td>
 <td>2</td>
 <td>30</td>
@@ -4479,203 +4394,158 @@ NOTE
 <td>70</td>
 </tr>
 <tr>
-<td>**5** Canada Certifiée n<sup>o</sup> 1
-
-</td>
+<td>5. Canada Certifiée n<sup>o</sup> 1</td>
 <td>0</td>
 <td>5</td>
 <td>50</td>
 <td>20</td>
 <td>4</td>
-<td>1 % au poids</td>
+<td>1% au poids</td>
 <td>80</td>
 </tr>
 <tr>
-<td>**6** Canada Certifiée n<sup>o</sup> 2
-
-</td>
+<td>6. Canada Certifiée n<sup>o</sup> 2</td>
 <td>0</td>
 <td>10</td>
 <td>75</td>
 <td>30</td>
 <td>6</td>
-<td>2 % au poids</td>
+<td>2% au poids</td>
 <td>70</td>
 </tr>
 <tr>
-<td>**7** Mélange de variétés n<sup>o</sup> 1
-
-</td>
+<td>7. Mélange de variétés n<sup>o</sup> 1</td>
 <td>0</td>
 <td>5</td>
 <td>50</td>
 <td>20</td>
 <td>4</td>
-<td>1 % au poids</td>
+<td>1% au poids</td>
 <td>80</td>
 </tr>
 <tr>
-<td>**8** Mélange de variétés n<sup>o</sup> 2
-
-</td>
+<td>8. Mélange de variétés n<sup>o</sup> 2</td>
 <td>0</td>
 <td>10</td>
 <td>75</td>
 <td>30</td>
 <td>6</td>
-<td>2 % au poids</td>
+<td>2% au poids</td>
 <td>70</td>
 </tr>
 <tr>
-<td>**9** Ordinaire n<sup>o</sup> 1
-
-</td>
+<td>9. Ordinaire n<sup>o</sup> 1</td>
 <td>0</td>
 <td>5</td>
 <td>75</td>
 <td>25</td>
 <td>8</td>
-<td>2 % au poids</td>
+<td>2% au poids</td>
 <td>80</td>
 </tr>
 <tr>
-<td>**10** Ordinaire n<sup>o</sup> 2
-
-</td>
+<td>10. Ordinaire n<sup>o</sup> 2</td>
 <td>5</td>
 <td>10</td>
 <td>100</td>
 <td>50</td>
-<td>10.</td>
-<td>3 % au poids</td>
+<td>10</td>
+<td>3% au poids</td>
 <td>70</td>
 </tr>
 </table>
-
-
 
 #### TABLEAU IX
 <table>
 <tr>
-<th>Applicable aux espèces suivantes :
-
-</th>
-<th></th>
-</tr>
-<tr>
-<td>**a)** Trèfle Alsike
-
-</td>
-<td>—*Trifolium hybridum* L.</td>
-</tr>
-<tr>
-<td>**b)** Trèfle jaune
-
-</td>
-<td>—*Trifolium aureum* Poll. (=*T. agrarium* L.)</td>
-</tr>
-<tr>
-<td>**c)** Trèfle des champs, grand
-
-</td>
-<td>—*Trifolium campestre* Schreber (=*T. procumbens* L.)</td>
-</tr>
-<tr>
-<td>**d)** Trèfle des champs, petit
-
-</td>
-<td>—*Trifolium dubium* Sibth.</td>
-</tr>
-<tr>
-<td>**e)** Trèfle de Perse
-
-</td>
-<td>—*Trifolium resupinatum* L.</td>
-</tr>
-<tr>
-<td>**f)** Trèfle port-fraise
-
-</td>
-<td>—*Trifolium fragiferum* L.</td>
-</tr>
-<tr>
-<td>**g)** Trèfle blanc
-
-</td>
-<td>—*Trifolium repens* L.</td>
-</tr>
-<tr>
-<td>**h)** Lupuline
-
-</td>
-<td>—*Medicago lupulina* L.</td>
-</tr>
-<tr>
-<td>**i)** Fléole (mil),
-
-</td>
+<td>Applicable à ce qui suit :</td>
 <td></td>
 </tr>
 <tr>
-<td>— commun 
-
-</td>
-<td>—*Phleum pratense* L.</td>
+<td>a) Trèfle Alsike</td>
+<td>— *Trifolium hybridum* L.</td>
 </tr>
 <tr>
-<td>— de type nain 
-
-</td>
-<td>—*Phleum bertolonii* DC. (=*P. nodosum* auct.)</td>
+<td>b) Trèfle jaune</td>
+<td>— *Trifolium aureum* Pollich</td>
+</tr>
+<tr>
+<td>c) Trèfle des champs, grand</td>
+<td>— *Trifolium campestre* Schreb.</td>
+</tr>
+<tr>
+<td>d) Trèfle des champs, petit</td>
+<td>— *Trifolium dubium* Sibth.</td>
+</tr>
+<tr>
+<td>e) Trèfle de Perse</td>
+<td>— *Trifolium resupinatum* L.</td>
+</tr>
+<tr>
+<td>f) Trèfle porte-fraise</td>
+<td>— *Trifolium fragiferum* L.</td>
+</tr>
+<tr>
+<td>g) Trèfle blanc</td>
+<td>— *Trifolium repens* L.</td>
+</tr>
+<tr>
+<td>h) Lupuline</td>
+<td>— *Medicago lupulina* L.</td>
+</tr>
+<tr>
+<td>i) Fléole (mil)</td>
+<td></td>
+</tr>
+<tr>
+<td>- des prés</td>
+<td>— *Phleum pratense* L.</td>
+</tr>
+<tr>
+<td>- de type nain</td>
+<td>— *Phleum bertolonii* DC.</td>
 </tr>
 </table>
 
-
-
 <table>
 <tr>
-<th>I</th>
-<th>II</th>
-<th>III</th>
-<th>IV</th>
-<th>V</th>
-<th>VI</th>
-<th>VII</th>
-<th>VIII</th>
-<th>IX</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
 </tr>
 <tr>
 <th></th>
-<th>Nombre maximal de semences par 25 g sauf indication contraire</th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<th></th>
-<th>Graines de mauvaises herbes nuisibles</th>
-<th></th>
-<th>Semences d’autres cultures</th>
+<th>Nombre maximal de graines par 25 g, sauf indication contraire</th>
 <th></th>
 <th></th>
 </tr>
 <tr>
-<th>Dénomination de catégorie</th>
+<th></th>
+<th>Mauvaises herbes nuisibles</th>
+<th></th>
+<th>Autres plantes cultivées</th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<th>Nom de la catégorie</th>
 <th>Principales</th>
-<th>Principales  et  secondaires</th>
-<th>Total des  graines de  mauvaises  herbes</th>
+<th>Principales et secondaires</th>
+<th>Total de mauvaises herbes</th>
 <th>Mélilot</th>
-<th>Espèces de  *Brassica* cultivées  y compris  *S. alba*</th>
-<th>Plantes cultivées autres que *Brassica*</th>
-<th>Pourcentage  maximal  d’ergots  ou de  sclérotes</th>
+<th>Espèces de *brassica* cultivées y compris *S. alba*</th>
+<th>Plantes cultivées autres que *brassica*</th>
+<th>Pourcentage maximal d’ergots ou sclérotes</th>
 <th>Pourcentage minimal de germination</th>
 </tr>
 <tr>
-<th></th>
-</tr>
-<tr>
-<td>**1** Canada Fondation n<sup>o</sup> 1
-
-</td>
+<td>1. Canada Fondation n<sup>o</sup> 1</td>
 <td>0</td>
 <td>0</td>
 <td>8</td>
@@ -4686,9 +4556,7 @@ NOTE
 <td>80</td>
 </tr>
 <tr>
-<td>**2** Canada Fondation n<sup>o</sup> 2
-
-</td>
+<td>2. Canada Fondation n<sup>o</sup> 2</td>
 <td>0</td>
 <td>2</td>
 <td>40</td>
@@ -4699,9 +4567,7 @@ NOTE
 <td>70</td>
 </tr>
 <tr>
-<td>**3** Canada Enregistrée n<sup>o</sup> 1
-
-</td>
+<td>3. Canada Enregistrée n<sup>o</sup> 1</td>
 <td>0</td>
 <td>0</td>
 <td>8</td>
@@ -4712,9 +4578,7 @@ NOTE
 <td>80</td>
 </tr>
 <tr>
-<td>**4** Canada Enregistrée n<sup>o</sup> 2
-
-</td>
+<td>4. Canada Enregistrée n<sup>o</sup> 2</td>
 <td>0</td>
 <td>2</td>
 <td>40</td>
@@ -4725,141 +4589,120 @@ NOTE
 <td>70</td>
 </tr>
 <tr>
-<td>**5** Canada Certifiée n<sup>o</sup> 1
-
-</td>
+<td>5. Canada Certifiée n<sup>o</sup> 1</td>
 <td>0</td>
 <td>5</td>
 <td>50</td>
 <td>10</td>
 <td>4</td>
-<td>1 % au poids</td>
+<td>1% au poids</td>
 <td>1</td>
 <td>80</td>
 </tr>
 <tr>
-<td>**6** Canada Certifiée n<sup>o</sup> 2
-
-</td>
+<td>6. Canada Certifiée n<sup>o</sup> 2</td>
 <td>0</td>
 <td>10</td>
 <td>75</td>
 <td>25</td>
 <td>6</td>
-<td>2 % au poids</td>
+<td>2% au poids</td>
 <td>2</td>
 <td>70</td>
 </tr>
 <tr>
-<td>**7** Mélange de variétés n<sup>o</sup> 1
-
-</td>
+<td>7. Mélange de variétés n<sup>o</sup> 1</td>
 <td>0</td>
 <td>5</td>
 <td>50</td>
 <td>10</td>
 <td>4</td>
-<td>1 % au poids</td>
+<td>1% au poids</td>
 <td>1</td>
 <td>80</td>
 </tr>
 <tr>
-<td>**8** Mélange de variétés n<sup>o</sup> 2
-
-</td>
+<td>8. Mélange de variétés n<sup>o</sup> 2</td>
 <td>0</td>
 <td>10</td>
 <td>75</td>
 <td>25</td>
 <td>6</td>
-<td>2 % au poids</td>
+<td>2% au poids</td>
 <td>2</td>
 <td>70</td>
 </tr>
 <tr>
-<td>**9** Ordinaire n<sup>o</sup> 1
-
-</td>
+<td>9. Ordinaire n<sup>o</sup> 1</td>
 <td>0</td>
 <td>10</td>
 <td>75</td>
 <td>25</td>
 <td>8</td>
-<td>2 % au poids</td>
+<td>2% au poids</td>
 <td>1</td>
 <td>80</td>
 </tr>
 <tr>
-<td>**10** Ordinaire n<sup>o</sup> 2
-
-</td>
+<td>10. Ordinaire n<sup>o</sup> 2</td>
 <td>5</td>
 <td>20</td>
 <td>125</td>
 <td>50</td>
 <td>10</td>
-<td>3 % au poids</td>
+<td>3% au poids</td>
 <td>2</td>
 <td>70</td>
 </tr>
 </table>
 
-
-
 #### TABLEAU X
 <table>
 <tr>
-<th>Applicable aux espèces suivantes :</th>
-<th></th>
+<td>Applicable au :</td>
+<td></td>
 </tr>
 <tr>
 <td>Lotier corniculé</td>
-<td>—*Lotus corniculatus* L.</td>
+<td>— *Lotus corniculatus* L.</td>
 </tr>
 </table>
 
-
-
 <table>
 <tr>
-<th>I</th>
-<th>II</th>
-<th>III</th>
-<th>IV</th>
-<th>V</th>
-<th>VI</th>
-<th>VII</th>
-<th>VIII</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
 </tr>
 <tr>
 <th></th>
-<th>Nombre maximal de semences par 25 g sauf indication contraire</th>
+<th>Nombre maximal de graines par 25 g, sauf indication contraire</th>
 <th></th>
 </tr>
 <tr>
 <th></th>
-<th>Graines de mauvaises  herbes nuisibles</th>
+<th>Mauvaises herbes nuisibles</th>
 <th></th>
-<th>Semences d’autres cultures</th>
+<th>Autres plantes cultivées</th>
 <th></th>
 </tr>
 <tr>
-<th>Dénomination de catégorie</th>
+<th>Nom de la catégorie</th>
 <th>Principales</th>
 <th>Principales et secondaires</th>
-<th>Total des graines de mauvaises herbes</th>
+<th>Total de mauvaises herbes</th>
 <th>Mélilot</th>
-<th>Espèces de *Brassica* cultivées  y compris *S. alba*</th>
-<th>Plantes cultivées autres que *Brassica*</th>
+<th>Espèces de *brassica* cultivées y compris *S. alba*</th>
+<th>Plantes cultivées autres que *brassica*</th>
 <th>Pourcentage minimal de germination</th>
 </tr>
 <tr>
-<th></th>
-</tr>
-<tr>
-<td>**1** Canada Fondation n<sup>o</sup> 1
-
-</td>
+<td>1. Canada Fondation n<sup>o</sup> 1</td>
 <td>0</td>
 <td>1</td>
 <td>10</td>
@@ -4869,21 +4712,17 @@ NOTE
 <td>75</td>
 </tr>
 <tr>
-<td>**2** Canada Fondation n<sup>o</sup> 2
-
-</td>
+<td>2. Canada Fondation n<sup>o</sup> 2</td>
 <td>0</td>
 <td>2</td>
-<td>75</td>
+<td>50</td>
 <td>1</td>
 <td>2</td>
 <td>300</td>
 <td>65</td>
 </tr>
 <tr>
-<td>**3** Canada Enregistrée n<sup>o</sup> 1
-
-</td>
+<td>3. Canada Enregistrée n<sup>o</sup> 1</td>
 <td>0</td>
 <td>1</td>
 <td>10</td>
@@ -4893,348 +4732,281 @@ NOTE
 <td>75</td>
 </tr>
 <tr>
-<td>**4** Canada Enregistrée n<sup>o</sup> 2
-
-</td>
+<td>4. Canada Enregistrée n<sup>o</sup> 2</td>
 <td>0</td>
 <td>2</td>
-<td>75</td>
+<td>50</td>
 <td>1</td>
 <td>2</td>
 <td>300</td>
 <td>65</td>
 </tr>
 <tr>
-<td>**5** Canada Certifiée n<sup>o</sup> 1
-
-</td>
+<td>5. Canada Certifiée n<sup>o</sup> 1</td>
 <td>0</td>
-<td>10</td>
-<td>100</td>
-<td>25</td>
+<td>5</td>
+<td>50</td>
+<td>20</td>
 <td>4</td>
-<td>2 % au poids</td>
+<td>2% au poids</td>
 <td>75</td>
 </tr>
 <tr>
-<td>**6** Canada Certifiée n<sup>o</sup> 2
-
-</td>
-<td>0</td>
-<td>20</td>
-<td>200</td>
-<td>50</td>
-<td>6</td>
-<td>5 % au poids</td>
-<td>65</td>
-</tr>
-<tr>
-<td>**7** Mélange de variétés n<sup>o</sup> 1
-
-</td>
+<td>6. Canada Certifiée n<sup>o</sup> 2</td>
 <td>0</td>
 <td>10</td>
 <td>100</td>
-<td>25</td>
-<td>4</td>
-<td>2 % au poids</td>
-<td>75</td>
-</tr>
-<tr>
-<td>**8** Mélange de variétés n<sup>o</sup> 2
-
-</td>
-<td>0</td>
-<td>20</td>
-<td>200</td>
-<td>50</td>
+<td>30</td>
 <td>6</td>
-<td>5 % au poids</td>
+<td>5% au poids</td>
 <td>65</td>
 </tr>
 <tr>
-<td>**9** Ordinaire n<sup>o</sup> 1
-
-</td>
+<td>7. Mélange de variétés n<sup>o</sup> 1</td>
+<td>0</td>
+<td>5</td>
+<td>50</td>
+<td>20</td>
+<td>4</td>
+<td>2% au poids</td>
+<td>75</td>
+</tr>
+<tr>
+<td>8. Mélange de variétés n<sup>o</sup> 2</td>
+<td>0</td>
+<td>10</td>
+<td>100</td>
+<td>30</td>
+<td>6</td>
+<td>5% au poids</td>
+<td>65</td>
+</tr>
+<tr>
+<td>9. Ordinaire n<sup>o</sup> 1</td>
 <td>0</td>
 <td>10</td>
 <td>100</td>
 <td>25</td>
 <td>8</td>
-<td>3 % au poids</td>
+<td>3% au poids</td>
 <td>75</td>
 </tr>
 <tr>
-<td>**10** Ordinaire n<sup>o</sup> 2
-
-</td>
+<td>10. Ordinaire n<sup>o</sup> 2</td>
 <td>5</td>
 <td>20</td>
 <td>200</td>
 <td>100</td>
 <td>10</td>
-<td>5 % au poids</td>
+<td>5% au poids</td>
 <td>65</td>
 </tr>
 </table>
-
-
 
 #### TABLEAU XI
 <table>
 <tr>
-<th>Applicable aux espèces suivantes :
-
-</th>
-<th></th>
+<td>Applicable à ce qui suit :</td>
+<td></td>
 </tr>
 <tr>
-<td>**a)** Brome des prés
-
-</td>
-<td>—*Bromus riparius* Rehm.</td>
+<td>a) Brome des prés</td>
+<td>— *Bromus riparius* Rehmann</td>
 </tr>
 <tr>
-<td>**b)** Brome inerme
-
-</td>
-<td>—*Bromus inermis* Leysser</td>
+<td>b) Brome inerme</td>
+<td>— *Bromus inermis* Leyss.</td>
 </tr>
 <tr>
-<td>**c)** Brome doux
-
-</td>
-<td>—*Bromus carinatus* Hook. & Arn.</td>
+<td>c) Brome doux</td>
+<td>— *Bromus carinatus* Hook. & Arn.</td>
 </tr>
 <tr>
-<td>**d)** Alpiste roseau des canaries
-
-</td>
-<td>—*Phalaris arundinacea* L.</td>
+<td>d) Alpiste roseau</td>
+<td>— *Phalaris arundinacea* L.</td>
 </tr>
 <tr>
-<td>**e)** Fétuque de Chewing
-
-</td>
-<td>—*Festuca rubra* L. var. *commutata* Gaudin</td>
+<td>e) Fétuque de Chewing</td>
+<td>— *Festuca rubra* L. subsp. *fallax* (Thuill.) Nyman (= *F. rubra* L. var. *commutata* Gaudin)</td>
 </tr>
 <tr>
-<td>**f)** Fétuque à feuilles fines
-
-</td>
-<td>—*Festuca tenuifolia* Sibth. (=*F. ovina* L. var. *tenuifolia* (Sibth.) Dumort.) (=*F. capillata* Lam.)</td>
+<td>f) Fétuque à feuilles fines</td>
+<td>— *Festuca filiformis* Pourr. (= *F. tenuifolia* Sibth.)</td>
 </tr>
 <tr>
-<td>**g)** Fétuque durette
-
-</td>
-<td>—*Festuca longifolia* Thuill. (=*F. ovina* L. var. *duriuscula* auct. amer.)</td>
+<td>g) Fétuque durette</td>
+<td>— *Festuca brevipila* R. Tracey (= *F. longifolia* auct. pl.)</td>
 </tr>
 <tr>
-<td>**h)** Fétuque des prés
-
-</td>
-<td>—*Festuca pratensis* Hudson</td>
+<td>h) Fétuque des prés</td>
+<td>— *Festuca pratensis* Huds.</td>
 </tr>
 <tr>
-<td>**i)** Fétuque rouge et fétuque rouge traçante
-
-</td>
-<td>—*Festuca rubra* L. var. *rubra*</td>
+<td>i) Fétuque rouge et fétuque rouge traçante</td>
+<td>— *Festuca rubra* L. subsp. *rubra*</td>
 </tr>
 <tr>
-<td>**j)** Fétuque ovine
-
-</td>
-<td>—*Festuca ovina* L.</td>
+<td>j) Fétuque ovine</td>
+<td>— *Festuca ovina* L.</td>
 </tr>
 <tr>
-<td>**k)** Fétuque élevée
-
-</td>
-<td>—*Festuca arundinacea* Schreber</td>
+<td>k) Fétuque élevée</td>
+<td>— *Festuca arundinacea* Schreb.</td>
 </tr>
 <tr>
-<td>**l)** Fétuque à feuilles variées
-
-</td>
-<td>—*Festuca heterophylla* Lam.</td>
+<td>l) Fétuque à feuilles variées</td>
+<td>— *Festuca heterophylla* Lam.</td>
 </tr>
 <tr>
-<td>**m)** Vulpin traçant
-
-</td>
-<td>—*Alopecurus arundinaceus* Poiret</td>
+<td>m) Vulpin traçant</td>
+<td>— *Alopecurus arundinaceus* Poir.</td>
 </tr>
 <tr>
-<td>**n)** Vulpin des prés
-
-</td>
-<td>—*Alopecurus pratensis* L.</td>
+<td>n) Vulpin des prés</td>
+<td>— *Alopecurus pratensis* L.</td>
 </tr>
 <tr>
-<td>**o)** Avoine élevée
-
-</td>
-<td>—*Arrhenatherum elatius* (L.) Beauv. ex J. & K. Presl.</td>
+<td>o) Avoine élevée</td>
+<td>— *Arrhenatherum elatius* (L.) P. Beauv. ex J.Presl & C. Presl</td>
 </tr>
 <tr>
-<td>**p)** Dactyle pelotonné
-
-</td>
-<td>—*Dactylis glomerata* L.</td>
+<td>p) Dactyle pelotonné</td>
+<td>— *Dactylis glomerata* L.</td>
 </tr>
 <tr>
-<td>**q)** Ray-grass annuel
-
-</td>
-<td>—*Lolium multiflorum* Lam.</td>
+<td>q) Ray-grass annuel</td>
+<td>— *Lolium multiflorum* Lam.</td>
 </tr>
 <tr>
-<td>**r)** Ray-grass hybride
-
-</td>
-<td>—*Lolium x hybridum* Hausskn.</td>
+<td>r) Ray-grass hybride</td>
+<td>— *Lolium* ×*hybridum* Hausskn.</td>
 </tr>
 <tr>
-<td>**s)** Ray-grass vivace
-
-</td>
-<td>—*Lolium perenne* L.</td>
+<td>s) Ray-grass vivace</td>
+<td>— *Lolium perenne* L.</td>
 </tr>
 <tr>
-<td>**t)** Agropyre à épi inerme
-
-</td>
-<td>—*Agropyron spicatum* (Pursh) Scribn. & J.G. Smith f. *inerme* (Scribn. & J.G. Smith) Beetle</td>
+<td>t) Agropyre inerme</td>
+<td>— *Pseudoroegneria spicata* (Pursh) Á. Löve (= *Agropyron spicatum* (Pursh) Scribn. & J. G. Smith f. *inerme* (Scribn. & J. G. Smith) Beetle)</td>
 </tr>
 <tr>
-<td>**u)** Agropyre à crête
-
-</td>
-<td>—*Agropyron cristatum* (L.) Gaertner ou *Agropyron desertorum* Fischer ex Link) Schult.</td>
+<td>u) Agropyre à crête</td>
+<td>— *Agropyron cristatum* (L.) Gaertn. ou *A. desertorum* (Fisch. ex Link) Schult.</td>
 </tr>
 <tr>
-<td>**v)** Agropyre intermédiaire
-
-</td>
-<td>—*Agropyron intermedium* (Host) Beauv.</td>
+<td>v) Agropyre intermédiaire</td>
+<td>— *Elytrigia intermedia* (Host) Nevski subsp. *intermedia* (= *Agropyron intermedium* (Host) Beauv.)</td>
 </tr>
 <tr>
-<td>**w)** Agropyre du Nord
-
-</td>
-<td>—*Agropyron dasystachyum* (Hook.) Scribn.</td>
+<td>w) Agropyre du Nord</td>
+<td>— *Elymus lanceolatus* (Scribn. & J. G. Sm.) Gould subsp. *lanceolatus* (= *Agropyron dasystachyum* (Hook.) Scribn.)</td>
 </tr>
 <tr>
-<td>**x)** Agropyre pubescent
-
-</td>
-<td>—*Agropyron trichophorum* (Link) Richter</td>
+<td>x) Agropyre pubescent</td>
+<td>— *Elytrigia intermedia* (Host) Nevski subsp. *intermedia* (= *Agropyron trichophorum* (Link) Richter)</td>
 </tr>
 <tr>
-<td>**y)** Agropyre de Sibérie
-
-</td>
-<td>—*Agropyron sibiricum* (Willd.) Beauv.</td>
+<td>y) Agropyre de Sibérie</td>
+<td>— *Agropyron fragile* (Roth) P. Candargy subsp. *sibiricum* (Willd.) Melderis (= *Agropyron sibiricum* (Willd.) Beauv.)</td>
 </tr>
 <tr>
-<td>**z)** Agropyre grêle
-
-</td>
-<td>—*Agropyron trachycaulum* (Link) Malte ex H.F. Lewis</td>
+<td>z) Agropyre grêle</td>
+<td>— *Elymus trachycaulus* (Link) Gould ex Shinners (= *Agropyron trachycaulum* (Link) Malte ex H.F. Lewis)</td>
 </tr>
 <tr>
-<td>**aa)** Agropyre des rives
-
-</td>
-<td>—*Agropyron riparium* Scribn. & Smith</td>
+<td>z.1) Agropyre des rives</td>
+<td>— *Elymus lanceolatus* (Scribn. & J. G. Sm.) Gould subsp. *lanceolatus* (= *Agropyron riparium* Scribn. & Smith)</td>
 </tr>
 <tr>
-<td>**bb)** Agropyre élevé
-
-</td>
-<td>—*Agropyron elongatum* (Host) Beauv.</td>
+<td>z.2) Agropyre élevé</td>
+<td>— *Elytrigia elongata* (Host) Nevski (= *Agropyron elongatum* (Host) P. Beauv.)</td>
 </tr>
 <tr>
-<td>**cc)** Agropyre de l’Ouest
-
-</td>
-<td>—*Agropyron smithii* Rydb.</td>
+<td>z.3) Agropyre de l’Ouest</td>
+<td>— *Pascopyrum smithii* (Rydb.) Á. Löve (= *Agropyron smithii* Rydb.)</td>
 </tr>
 <tr>
-<td>**dd)** Élyme de l’Altaï
-
-</td>
-<td>—*Elymus angustus* Trin.</td>
+<td>z.4) Élyme de l’Altaï</td>
+<td>— *Leymus angustus* (Trin.) Pilg. (= *Elymus angustus* Trin.)</td>
 </tr>
 <tr>
-<td>**ee)** Élyme dahurien .
-
-</td>
-<td>—*Elymus dahuricus* Turcz ex Griseb</td>
+<td>z.5) Élyme dahurien</td>
+<td>— *Elymus dahuricus* Turcz ex Griseb.</td>
 </tr>
 <tr>
-<td>**ff)** Élyme de Russie
-
-</td>
-<td>—*Elymus junceus* Fischer</td>
+<td>z.6) Élyme de Russie</td>
+<td>— *Psathyrostachys juncea* (Fisch.) Nevski (= *Elymus junceus* Fisch.)</td>
 </tr>
 </table>
 
-
-
 <table>
 <tr>
-<th>I</th>
-<th>II</th>
-<th>III</th>
-<th>IV</th>
-<th>V</th>
-<th>VI</th>
-<th>VII</th>
-<th>VIII</th>
-<th>IX</th>
-<th>X</th>
-<th>XI</th>
-</tr>
-<tr>
-<th></th>
-<th>Nombre maximal de semences par 25 g sauf indication contraire</th>
-<th></th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th>11</th>
 <th></th>
 </tr>
 <tr>
 <th></th>
-<th>Graines de mauvaises herbes nuisibles</th>
+<th>Nombre maximal de graines par 25 g, sauf indication contraire</th>
 <th></th>
-<th>Semences d’autres cultures</th>
 <th></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<th></th>
+<th>Mauvaises herbes nuisibles</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<th>Autres plantes cultivées</th>
+</tr>
+<tr>
+<th>Nom de la catégorie</th>
+<th>Principales</th>
+<th>Princi pales et secon daires</th>
+<th>Total de mauvaises herbes</th>
+<th>Espèces de *bras- sica* y compris *S. alba*</th>
+<th>Mélilot</th>
+<th>Dans : vulpin des prés, ray-grass, dactyle pelotonné et fétuque élevée</th>
+<th>Dans les autres espèces</th>
+<th>Pourcen- tage maximal d’ergots</th>
 <th>Pourcentage minimal de semences pures vivantes</th>
 <th>Pourcentage minimal de semences pures au poids</th>
 </tr>
 <tr>
-<th>Dénomination de catégorie</th>
-<th>Principales</th>
-<th>Principales et secondaires</th>
-<th>Total des graines de mauvaises herbes</th>
-<th>Espèces de *Brassica* cultivées y compris *S. alba*</th>
-<th>Mélilot</th>
-<th>Vulpin des prés, raygrass et dactyle pelotonné</th>
-<th>Autres espèces</th>
-<th>Pourcentage maximal d’ergots</th>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>1</td>
+<td>2</td>
 </tr>
 <tr>
-<th>1  2  3  4</th>
-<th>1  2</th>
-</tr>
-<tr>
-<th></th>
-</tr>
-<tr>
-<td>**1** Canada Fondation n<sup>o</sup> 1
-
-</td>
+<td>1. Canada Fondation n<sup>o</sup> 1</td>
 <td>0</td>
 <td>1</td>
 <td>5</td>
@@ -5243,13 +5015,15 @@ NOTE
 <td>2</td>
 <td>2</td>
 <td>1</td>
-<td>80 75 70 55</td>
-<td>95 90</td>
+<td>80</td>
+<td>75</td>
+<td>70</td>
+<td>55</td>
+<td>95</td>
+<td>90</td>
 </tr>
 <tr>
-<td>**2** Canada Fondation N<sup>o</sup> 2
-
-</td>
+<td>2. Canada Fondation n<sup>o</sup> 2</td>
 <td>0</td>
 <td>2</td>
 <td>25</td>
@@ -5258,13 +5032,15 @@ NOTE
 <td>20</td>
 <td>20</td>
 <td>2</td>
-<td>70 65 60 50</td>
-<td>90 80</td>
+<td>70</td>
+<td>65</td>
+<td>60</td>
+<td>50</td>
+<td>90</td>
+<td>80</td>
 </tr>
 <tr>
-<td>**3** Canada Enregistrée n<sup>o</sup> 1
-
-</td>
+<td>3. Canada Enregistrée n<sup>o</sup> 1</td>
 <td>0</td>
 <td>1</td>
 <td>5</td>
@@ -5273,13 +5049,15 @@ NOTE
 <td>2</td>
 <td>2</td>
 <td>1</td>
-<td>80 75 70 55</td>
-<td>95 90</td>
+<td>80</td>
+<td>75</td>
+<td>70</td>
+<td>55</td>
+<td>95</td>
+<td>90</td>
 </tr>
 <tr>
-<td>**4** Canada Enregistrée n<sup>o</sup> 2
-
-</td>
+<td>4. Canada Enregistrée n<sup>o</sup> 2</td>
 <td>0</td>
 <td>2</td>
 <td>25</td>
@@ -5288,196 +5066,188 @@ NOTE
 <td>20</td>
 <td>20</td>
 <td>2</td>
-<td>70 65 60 50</td>
-<td>90 80</td>
+<td>70</td>
+<td>65</td>
+<td>60</td>
+<td>50</td>
+<td>90</td>
+<td>80</td>
 </tr>
 <tr>
-<td>**5** Canada Certifiée n<sup>o</sup> 1
-
-</td>
+<td>5. Canada Certifiée n<sup>o</sup> 1</td>
 <td>0</td>
 <td>4</td>
 <td>50</td>
 <td>4</td>
 <td>5</td>
-<td>2 % au poids</td>
-<td>1 % au poids</td>
+<td>2% au poids</td>
+<td>1% au poids</td>
 <td>1</td>
-<td>80 75 70 55</td>
-<td>95 90</td>
+<td>80</td>
+<td>75</td>
+<td>70</td>
+<td>55</td>
+<td>95</td>
+<td>90</td>
 </tr>
 <tr>
-<td>**6** Canada Certifiée n<sup>o</sup> 2
-
-</td>
+<td>6. Canada Certifiée n<sup>o</sup> 2</td>
 <td>0</td>
 <td>10</td>
 <td>75</td>
 <td>6</td>
 <td>20</td>
-<td>3 % au poids</td>
-<td>2 % au poids</td>
+<td>3% au poids</td>
+<td>2% au poids</td>
 <td>2</td>
-<td>70 65 60 50</td>
-<td>90 80</td>
+<td>70</td>
+<td>65</td>
+<td>60</td>
+<td>50</td>
+<td>90</td>
+<td>80</td>
 </tr>
 <tr>
-<td>**7** Mélange de variétés n<sup>o</sup> 1
-
-</td>
+<td>7. Mélange de variétés n<sup>o</sup> 1</td>
 <td>0</td>
 <td>4</td>
 <td>50</td>
 <td>4</td>
 <td>5</td>
-<td>2 % au poids</td>
-<td>1 % au poids</td>
+<td>2% au poids</td>
+<td>1% au poids</td>
 <td>1</td>
-<td>80 75 70 55</td>
-<td>95 90</td>
+<td>80</td>
+<td>75</td>
+<td>70</td>
+<td>55</td>
+<td>95</td>
+<td>90</td>
 </tr>
 <tr>
-<td>**8** Mélange de variétés n<sup>o</sup> 2
-
-</td>
+<td>8. Mélange de variétés n<sup>o</sup> 2</td>
 <td>0</td>
 <td>10</td>
 <td>75</td>
 <td>6</td>
 <td>20</td>
-<td>3 % au poids</td>
-<td>2 % au poids</td>
+<td>3% au poids</td>
+<td>2% au poids</td>
 <td>2</td>
-<td>70 65 60 50</td>
-<td>90 80</td>
+<td>70</td>
+<td>65</td>
+<td>60</td>
+<td>50</td>
+<td>90</td>
+<td>80</td>
 </tr>
 <tr>
-<td>**9** Ordinaire n<sup>o</sup> 1
-
-</td>
+<td>9. Ordinaire n<sup>o</sup> 1</td>
 <td>0</td>
 <td>5</td>
 <td>75</td>
 <td>8</td>
 <td>25</td>
-<td>3 % au poids</td>
-<td>2 % au poids</td>
+<td>3% au poids</td>
+<td>2% au poids</td>
 <td>1</td>
-<td>80 75 70 55</td>
-<td>95 90</td>
+<td>80</td>
+<td>75</td>
+<td>70</td>
+<td>55</td>
+<td>95</td>
+<td>90</td>
 </tr>
 <tr>
-<td>**10** Ordinaire n<sup>o</sup> 2
-
-</td>
+<td>10. Ordinaire n<sup>o</sup> 2</td>
 <td>4</td>
 <td>15</td>
 <td>100</td>
 <td>10</td>
 <td>50</td>
-<td>5 % au poids</td>
-<td>3 % au poids</td>
+<td>5% au poids</td>
+<td>3% au poids</td>
 <td>2</td>
-<td>70 65 60 50</td>
-<td>90 80</td>
+<td>70</td>
+<td>65</td>
+<td>60</td>
+<td>50</td>
+<td>90</td>
+<td>80</td>
 </tr>
 </table>
-
-
 
 #### TABLEAU XII
 <table>
 <tr>
-<th>Applicable aux espèces suivantes :</th>
-<th></th>
+<td>Applicable à ce qui suit :</td>
+<td></td>
 </tr>
 <tr>
-<td>**a)** Puccinellie à fleurs distantes  
-
-</td>
-<td>—*Puccinellia distans* (L.) Parl.</td>
+<td>a) Puccinellie à fleurs distantes</td>
+<td>— *Puccinellia distans* (L.) (Jacq.) Parl.</td>
 </tr>
 <tr>
-<td>**b)** Agrostide fine
-
-</td>
-<td>—*Agrostis capillaris* L. (=*A. tenuis* Sibth.)</td>
+<td>b) Agrostide fine</td>
+<td>— *Agrostis capillaris* L.</td>
 </tr>
 <tr>
-<td>**c)** Agrostide traçante
-
-</td>
-<td>—*Agrostis stolonifera* L. (=*A. palustris* Hudson)</td>
+<td>c) Agrostide traçante</td>
+<td>— *Agrostis stolonifera* L.</td>
 </tr>
 <tr>
-<td>**d)** Agrostide des chiens
-
-</td>
-<td>—*Agrostis canina* L.</td>
+<td>d) Agrostide des chiens</td>
+<td>— *Agrostis canina* L.</td>
 </tr>
 <tr>
-<td>**e)** Pâturin annuel
-
-</td>
-<td>—*Poa annua* L.</td>
+<td>e) Pâturin annuel</td>
+<td>— *Poa annua* L.</td>
 </tr>
 <tr>
-<td>**f)** Pâturin du Canada
-
-</td>
-<td>—*Poa compressa* L.</td>
+<td>f) Pâturin du Canada</td>
+<td>— *Poa compressa* L.</td>
 </tr>
 <tr>
-<td>**g)** Pâturin des marais
-
-</td>
-<td>—*Poa palustris* L.</td>
+<td>g) Pâturin des marais</td>
+<td>— *Poa palustris* L.</td>
 </tr>
 <tr>
-<td>**h)** Pâturin du Kentucky
-
-</td>
-<td>—*Poa pratensis* L.</td>
+<td>h) Pâturin du Kentucky</td>
+<td>— *Poa pratensis* L.</td>
 </tr>
 <tr>
-<td>**i)** Pâturin commun
-
-</td>
-<td>—*Poa trivialis* L.</td>
+<td>i) Pâturin commun</td>
+<td>— *Poa trivialis* L.</td>
 </tr>
 <tr>
-<td>**j)** Pâturin des bois
-
-</td>
-<td>—*Poa nemoralis* L.</td>
+<td>j) Pâturin couché</td>
+<td>— *Poa supina* Schrad.</td>
 </tr>
 <tr>
-<td>**k)** Crételle des prés
-
-</td>
-<td>—*Cynosurus cristatus* L.</td>
+<td>k) Pâturin des bois</td>
+<td>— *Poa nemoralis* L.</td>
 </tr>
 <tr>
-<td>**l)** Agrostide blanche ou commune
-
-</td>
-<td>—*Agrostis gigantea* Roth (=*A. alba* auct.)</td>
+<td>l) Crételle des prés</td>
+<td>— *Cynosurus cristatus* L.</td>
+</tr>
+<tr>
+<td>m) Agrostide blanche ou commune</td>
+<td>— *Agrostis gigantea* Roth</td>
 </tr>
 </table>
 
-
-
 <table>
 <tr>
-<th>I</th>
-<th>II</th>
-<th>III</th>
-<th>IV</th>
-<th>V</th>
-<th>VI</th>
-<th>VII</th>
-<th>VIII</th>
-<th>IX</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
 </tr>
 <tr>
 <th></th>
@@ -5488,18 +5258,18 @@ NOTE
 <th>Pourcentage minimal de semences pures vivantes</th>
 </tr>
 <tr>
-<th>Dénomination de catégorie</th>
+<th></th>
+</tr>
+<tr>
+<th>Nom de la catégorie</th>
 <th>Principales</th>
 <th>Principales et secondaires</th>
-<th>Total des graines de mauvaises herbes</th>
-<th>Semences d’autres plantes cultivées</th>
+<th>Total de mauvaises herbes</th>
+<th>Autres plantes cultivées</th>
 <th>Pourcentage maximal d’ergots</th>
 <th>Pourcentage minimal de semences pures au poids</th>
 <th>Pâturin du Kentucky et du Canada</th>
 <th>Autres espèces</th>
-</tr>
-<tr>
-<th></th>
 </tr>
 <tr>
 <td>1. Canada Fondation n<sup>o</sup> 1</td>
@@ -5537,7 +5307,7 @@ NOTE
 <tr>
 <td>4. Canada Enregistrée n<sup>o</sup> 2</td>
 <td>1</td>
-<td>2</td>
+<td>20</td>
 <td>0,5</td>
 <td>2</td>
 <td>3</td>
@@ -5568,7 +5338,7 @@ NOTE
 <td>65</td>
 </tr>
 <tr>
-<td>7. Mélange de variété n<sup>o</sup> 1</td>
+<td>7. Mélange de variétés n<sup>o</sup> 1</td>
 <td>2</td>
 <td>20</td>
 <td>0,5</td>
@@ -5579,7 +5349,7 @@ NOTE
 <td>75</td>
 </tr>
 <tr>
-<td>8. Mélange de variété n<sup>o</sup> 2</td>
+<td>8. Mélange de variétés n<sup>o</sup> 2</td>
 <td>4</td>
 <td>50</td>
 <td>0,8</td>
@@ -5604,7 +5374,7 @@ NOTE
 <td>10. Ordinaire n<sup>o</sup> 2</td>
 <td>8</td>
 <td>100</td>
-<td>1,0</td>
+<td>1</td>
 <td>5</td>
 <td>3</td>
 <td>75</td>
@@ -5613,67 +5383,74 @@ NOTE
 </tr>
 </table>
 
-
-
 #### TABLEAU XIII
 <table>
-<h4>Applicable aux mélanges de semences de plantes fourragères composés de semences de deux ou plusieurs espèces mentionnées aux tableaux VIII à XII, sauf les mélanges de semences de plantes désignés par le vendeur comme Mélange de graminées à pelouse ou à gazon, ou comme Mélange de plantes couvre-sol</h4>
 <tr>
-<th>I</th>
-<th>II</th>
-<th>III</th>
-<th>IV</th>
-<th>V</th>
-<th>VI</th>
-<th>VII</th>
-<th>VIII</th>
-<th>IX</th>
-<th>X</th>
-<th>XI</th>
+<td>Applicable aux :</td>
+</tr>
+<tr>
+<td>Mélanges de semences de plantes fourragères composés de semences de deux ou plusieurs espèces mentionnées aux tableaux VIII à XII, sauf les mélanges de semences de plantes désignés par le vendeur comme mélange à pelouse ou à gazon, ou comme mélange de plantes couvre-sol.</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th>11</th>
 </tr>
 <tr>
 <th></th>
-<th>Nombre maximal de semences par 25 g sauf indication contraire</th>
+<th>Nombre maximal de graines par 25 g,</th>
 <th></th>
 <th></th>
 <th></th>
 <th></th>
 </tr>
 <tr>
-<th></th>
-<th>Graines de mauvaises herbes nuisibles</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Pourcentage minimal  de germination</th>
+<th>sauf indication contraire</th>
 </tr>
 <tr>
-<th>Dénomination de catégorie</th>
-<th>Principales</th>
-<th>Principales et secondaires</th>
-<th>Total des graines de mauvaises herbes</th>
+<th></th>
+<th>Mauvaises herbes nuisibles</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>Pourcentage minimal de germination</th>
+</tr>
+<tr>
+<th></th>
+</tr>
+<tr>
+<th>Nom de la catégorie</th>
+<th>Princi- pales</th>
+<th>Princi- pales et secon- daires</th>
+<th>Total de mau- vaises herbes nui- sibles</th>
 <th>Mélilot</th>
-<th>Semences d’autres plantes cultivées</th>
-<th>Espèces  de *Brassica* cultivées y compris *S. alba*</th>
-<th>Pour-centage maximal d’ergots</th>
-<th>Alpiste roseau des canaries</th>
-<th>Pâturin  du  Kentucky et du Canada</th>
+<th>Autres plantes cultivées</th>
+<th>Espèces de *bras- sica* y compris *S. alba*</th>
+<th>Pourcentage maximal d’ergots</th>
+<th>Alpiste roseau</th>
+<th>Pâturin du Kentucky et du Canada</th>
 <th>Chaque autre composant</th>
 </tr>
 <tr>
-<th></th>
-</tr>
-<tr>
-<td>**1** Mélange de plantes fourragères Canada Certifié n<sup>o</sup> 1
-
-</td>
+<td>1. Mélange de plantes fourragères Canada Certifiée n<sup>o</sup> 1</td>
 <td>0</td>
 <td>10</td>
 <td>100</td>
 <td>25</td>
-<td>2 % au poids</td>
+<td>2% au poids</td>
 <td>4</td>
 <td>1</td>
 <td>55</td>
@@ -5681,14 +5458,15 @@ NOTE
 <td>75</td>
 </tr>
 <tr>
-<td>**2** Mélange de plantes fourragères Canada Certifié n<sup>o</sup> 2
-
-</td>
+<td></td>
+</tr>
+<tr>
+<td>2. Mélange de plantes fourragères Canada Certifiée n<sup>o</sup> 2</td>
 <td>0</td>
 <td>20</td>
 <td>200</td>
 <td>50</td>
-<td>3 % au poids</td>
+<td>3% au poids</td>
 <td>6</td>
 <td>2</td>
 <td>50</td>
@@ -5696,44 +5474,15 @@ NOTE
 <td>65</td>
 </tr>
 <tr>
-<td>**3** Mélange de variétés de plantes fourragères n<sup>o</sup> 1
-
-</td>
-<td>0</td>
-<td>10</td>
-<td>100</td>
-<td>25</td>
-<td>2 % au poids</td>
-<td>4</td>
-<td>1</td>
-<td>55</td>
-<td>70</td>
-<td>75</td>
+<td></td>
 </tr>
 <tr>
-<td>**4** Mélange de variétés de plantes fourragères n<sup>o</sup> 2
-
-</td>
-<td>0</td>
-<td>20</td>
-<td>200</td>
-<td>50</td>
-<td>3 % au poids</td>
-<td>6</td>
-<td>2</td>
-<td>50</td>
-<td>60</td>
-<td>65</td>
-</tr>
-<tr>
-<td>**5** Mélange de plantes fourragères Ordinaire n<sup>o</sup> 1
-
-</td>
+<td>3. Mélange de plantes fourragères Ordinaire n<sup>o</sup> 1</td>
 <td>0</td>
 <td>10</td>
 <td>100</td>
 <td>50</td>
-<td>3 % au poids</td>
+<td>3% au poids</td>
 <td>8</td>
 <td>1</td>
 <td>55</td>
@@ -5741,14 +5490,12 @@ NOTE
 <td>75</td>
 </tr>
 <tr>
-<td>**6** Mélange de plantes fourragères Ordinaire n<sup>o</sup> 2
-
-</td>
+<td>4. Mélange de plantes fourragères Ordinaire n<sup>o</sup> 2</td>
 <td>5</td>
 <td>20</td>
 <td>200</td>
 <td>100</td>
-<td>5 % au poids</td>
+<td>5% au poids</td>
 <td>10</td>
 <td>2</td>
 <td>50</td>
@@ -5757,33 +5504,29 @@ NOTE
 </tr>
 </table>
 
-
-Note : Un mélange de variétés  de plantes fourragères est  composé de deux ou plusieurs  espèces de semences qui  contiennent deux ou plusieurs  variétés d’une espèce.
-
-
 #### TABLEAU XIV
 <table>
+<h4>Partie I</h4>
 <tr>
-<td>Applicable aux mélanges de graminées à pelouse ou à gazon contenant deux ou plusieurs des espèces mentionnées ou visées à la partie II</td>
+<td>Applicable aux :</td>
+</tr>
+<tr>
+<td>Mélanges à pelouse ou à gazon contenant deux ou plusieurs des espèces mentionnées à la partie II du présent tableau.</td>
 </tr>
 </table>
 
-
-PARTIE I
-
-
 <table>
 <tr>
-<th>I</th>
-<th>II</th>
-<th>III</th>
-<th>IV</th>
-<th>V</th>
-<th>VI</th>
-<th>VII</th>
-<th>VIII</th>
-<th>IX</th>
-<th>X</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
 </tr>
 <tr>
 <th></th>
@@ -5794,24 +5537,25 @@ PARTIE I
 <th></th>
 </tr>
 <tr>
-<th>Dénomination de catégorie</th>
-<th>Mauvaises herbes nuisibles,  à l’exclusion du chiendent</th>
+<th></th>
+</tr>
+<tr>
+<th></th>
+</tr>
+<tr>
+<th>Nom de la catégorie</th>
+<th>Mauvaises herbes nuisibles, à l’exclusion du chiendent</th>
 <th>Chiendent</th>
 <th>Total de mauvaises herbes</th>
 <th>Trèfle blanc</th>
 <th>Brome inerme, dactyle pelotonné et fétuque élevée</th>
-<th>Autres espèces</th>
+<th>Autres plantes cultivées</th>
 <th>Pourcentage maximal d’ergots</th>
 <th>Pourcentage minimal de semences pures au poids</th>
 <th>Pourcentage minimal de germination de chaque composant</th>
 </tr>
 <tr>
-<th></th>
-</tr>
-<tr>
-<td>**1** Mélange de graminées à pelouse Canada n<sup>o</sup> 1
-
-</td>
+<td>1. Mélange à pelouse Canada Certifiée n<sup>o</sup> 1</td>
 <td>20</td>
 <td>10</td>
 <td>0,5</td>
@@ -5819,40 +5563,23 @@ PARTIE I
 <td>1</td>
 <td>2</td>
 <td>2</td>
-<td>85</td>
+<td>90</td>
 <td>70</td>
 </tr>
 <tr>
-<td>**2** Mélange de graminées à pelouse Canada n<sup>o</sup> 2
-
-</td>
+<td>2. Mélange à pelouse Canada Certifiée n<sup>o</sup> 2</td>
 <td>75</td>
 <td>20</td>
-<td>1,0</td>
+<td>1</td>
 <td>5</td>
 <td>2</td>
 <td>3</td>
 <td>3</td>
-<td>75</td>
+<td>80</td>
 <td>60</td>
 </tr>
 <tr>
-<td>**3** [Abrogé, DORS/96-252, art. 7]
-
-</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>**4** Mélange de variétés de graminées à pelouse n<sup>o</sup> 1
-
-</td>
+<td>3. Mélange à pelouse Canada n<sup>o</sup> 1</td>
 <td>20</td>
 <td>10</td>
 <td>0,5</td>
@@ -5860,192 +5587,147 @@ PARTIE I
 <td>1</td>
 <td>2</td>
 <td>2</td>
-<td>85</td>
+<td>90</td>
 <td>70</td>
 </tr>
 <tr>
-<td>**5** Mélange de variétés de graminées à pelouse n<sup>o</sup> 2
-
-</td>
+<td>4. Mélange à pelouse Canada n<sup>o</sup> 2</td>
 <td>75</td>
 <td>20</td>
-<td>1,0</td>
+<td>1</td>
 <td>5</td>
 <td>2</td>
 <td>3</td>
 <td>3</td>
-<td>75</td>
+<td>80</td>
 <td>60</td>
 </tr>
 </table>
 
-
-Note : Un mélange de graminées à pelouse ou à gazon est composé de deux ou plusieurs espèces de semences qui contiennent deux ou plusieurs variétés d’une espèce.
-
-
-#### PARTIE II
 <table>
-<h4>Espèces de mélanges de graminées à pelouse ou à gazon figurant à la partie I du présent tableau</h4>
+<h4>Partie II</h4>
 <tr>
-<th>I</th>
-<th>II</th>
-</tr>
-<tr>
-<th></th>
+<th>1</th>
+<th>2</th>
 </tr>
 <tr>
 <td>1. Groupe A</td>
-<td>pâturin du Kentucky, fétuque rouge traçante, fétuque de Chewing, fétuque durette, agrostide fine, agrostide traçante, agrostide des chiens, pâturin commun, pâturin du Canada, fétuque ovine, variétés à gazon de fétuque élevée, variétés à gazon de ray-grass vivace,</td>
+<td>Pâturin du Kentucky, fétuque rouge traçante, fétuque de Chewing, fétuque durette, agrostide fine, agrostide traçante, agrostide des chiens, pâturin commun, pâturin du Canada, fétuque ovine, variétés à gazon de fétuque élevée, variétés à gazon de ray-grass vivace</td>
 </tr>
 <tr>
 <td>2. Groupe B</td>
-<td>agrostide blanche ou commune, agropyre à crête, fléole (de type nain) et ray-grass annuel pourvu que, séparément, elles ne constituent pas plus de 30 pour cent en poids du mélange et, en combinaison, pas plus de 40 pour cent en poids du mélange,</td>
+<td>Agrostide blanche ou commune, agropyre à crête, fléole (de type nain), ray-grass annuel pourvu que, séparément, aucune de ces espèces ne constitue pas plus de 30 % en poids du mélange et, en combinaison, pas plus de 40 % en poids du mélange</td>
 </tr>
 <tr>
 <td>3. Groupe C</td>
-<td>toute autre espèce de graminées pourvu qu’elle soit indiquée sur l’étiquette.</td>
+<td>Toutes autres espèces de graminées qui ne sont pas mentionnées dans la présente annexe pourvu qu’elles soient indiquées sur l’étiquette</td>
 </tr>
 </table>
-
-
-PARTIE III
-
-[Abrogée, DORS/93-162, art. 12]
-
 
 #### TABLEAU XV
 <table>
 <tr>
-<th>Applicable à :</th>
+<td>Applicable aux :</td>
 </tr>
 <tr>
-<td>Mélanges de plantes couvre-sol constitués de semences de deux ou plusieurs espèces autres que les mélanges de plantes fourragères ou les mélanges d’herbes à pelouse ou à gazon.</td>
+<td>Mélanges de plantes couvre-sol composés de graines de deux ou plusieurs espèces, sauf les mélanges de céréales, mélanges de plantes fourragères ou mélanges à pelouse ou à gazon.</td>
 </tr>
 </table>
 
-
-
 <table>
 <tr>
-<th>I</th>
-<th>II</th>
-<th>III</th>
-<th>IV</th>
-<th>V</th>
-<th>VI</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <th></th>
 <th></th>
 <th>Pourcentage maximal au poids</th>
 <th></th>
-<th></th>
 </tr>
 <tr>
 <th>Nom de la catégorie</th>
 <th>Nombre maximal de graines de mauvaises herbes nuisibles par 25 g</th>
-<th>Total des graines de mauvaises herbes</th>
-<th>Autres espèces cultivées</th>
+<th>Total de mauvaises herbes</th>
+<th>Autres plantes cultivées</th>
 <th>Pourcentage minimal de semences pures au poids</th>
-<th>Pourcentage minimal de germination de chaque composant</th>
 </tr>
 <tr>
-<th></th>
-</tr>
-<tr>
-<td>**1** Mélange de plantes couvre-sol Canada n<sup>o</sup> 1
-
-</td>
+<td>1. Mélange de plantes couvre-sol Canada n<sup>o</sup> 1</td>
 <td>25</td>
 <td>0,5</td>
 <td>3</td>
 <td>85</td>
-<td>70</td>
 </tr>
 <tr>
-<td>**2** Mélange de plantes couvre-sol Canada n<sup>o</sup> 2
-
-</td>
+<td>2. Mélange de plantes couvre-sol Canada n<sup>o</sup> 2</td>
 <td>75</td>
-<td>1,0</td>
+<td>1</td>
 <td>5</td>
 <td>75</td>
-<td>60</td>
 </tr>
 </table>
-
-
 
 #### TABLEAU XVI
 <table>
 <tr>
-<th>Applicable aux espèces suivantes :
-
-</th>
-<th></th>
+<td>Applicable à ce qui suit :</td>
+<td></td>
 </tr>
 <tr>
-<td>**a)** Betterave
-
-</td>
-<td>—*Beta vulgaris* L.</td>
+<td>a) Betterave</td>
+<td>— *Beta vulgaris* L. subsp. *vulgaris*</td>
 </tr>
 <tr>
-<td>**b)** Betterave à sucre
-
-</td>
-<td>—*Beta vulgaris* L. var. *saccharifera* Lange</td>
+<td>b) Betterave à sucre</td>
+<td>— *Beta vulgaris* L. subsp. *vulgaris*</td>
 </tr>
 <tr>
-<td>**c)** Betterave fourragère
-
-</td>
-<td>—*Beta vulgaris* L.</td>
+<td>c) Betterave fourragère</td>
+<td>— *Beta vulgaris* L. subsp. *vulgaris*</td>
 </tr>
 <tr>
-<td>**d)** Bette à carde (poirée)
-
-</td>
-<td>—*Beta vulgaris* L. var. *cicla* L.</td>
+<td>d) Bette à carde (poirée)</td>
+<td>— *Beta vulgaris* L. subsp. *vulgaris*</td>
 </tr>
 </table>
 
-
-
 <table>
 <tr>
-<th>I</th>
-<th>II</th>
-<th>III</th>
-<th>IV</th>
-<th>V</th>
-<th>VI</th>
-<th>VII</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
 </tr>
 <tr>
 <th></th>
-<th>Nombre maximal de semences par 500 g</th>
+<th>Nombre maximal de graines par 500 g</th>
 <th></th>
 <th></th>
 </tr>
 <tr>
 <th></th>
-<th>Graines de mauvaises  herbes nuisibles</th>
+<th>Mauvaises herbes nuisibles</th>
 <th></th>
 <th></th>
-<th>Nombre maximal de capitules de camomille des chiens dans la betterave et la betterave à sucre par 500 g</th>
+<th></th>
+<th></th>
 <th></th>
 </tr>
 <tr>
 <th>Nom de la catégorie</th>
 <th>Principales</th>
 <th>Principales et secondaires</th>
-<th>Total des graines de mauvaises herbes</th>
+<th>Total de mauvaises herbes</th>
 <th>Autres plantes cultivées</th>
+<th>Nombre maximal de capitules de camomille des chiens par 500 g</th>
 <th>Pourcentage minimal de germination</th>
-</tr>
-<tr>
-<th></th>
 </tr>
 <tr>
 <td>1. Canada Fondation n<sup>o</sup> 1</td>
@@ -6057,7 +5739,7 @@ PARTIE III
 <td>75</td>
 </tr>
 <tr>
-<td>2. Canada Fondation n<sup>o</sup> 2</td>
+<td>2. Canada Fonda tion n<sup>o</sup> 2</td>
 <td>2</td>
 <td>10</td>
 <td>30</td>
@@ -6121,103 +5803,55 @@ PARTIE III
 </tr>
 </table>
 
-
-
 #### TABLEAU XVII
 <table>
 <tr>
-<th>Applicable aux espèces suivantes :
-
-</th>
-<th></th>
+<td>Applicable à ce qui suit :</td>
+<td></td>
 </tr>
 <tr>
-<td>**a)** Melon brodé (cantaloup)
-
-</td>
-<td>—*Cucumis melo* L.</td>
+<td>a) Cantaloup, melon brodé</td>
+<td>— *Cucumis melo* L. subsp. *melo*</td>
 </tr>
 <tr>
-<td>**b)** Melon citron
-
-</td>
-<td>—*Citrullus lanatus* (Thunb.) Matsum. & Nakai var. *citroides* L. (Bailey) Mansf.</td>
+<td>b) Melon citron</td>
+<td>— *Citrullus lanatus* (Thunb.) Matsum. & Nakai var. *citroides* L. (L.H. Bailey) Mansf.</td>
 </tr>
 <tr>
-<td>**c)** Concombre
-
-</td>
-<td>—*Cucumis sativus* L.</td>
+<td>c) Concombre</td>
+<td>— *Cucumis sativus* L.</td>
 </tr>
 <tr>
-<td>**d)** Cornichon
-
-</td>
-<td>—*Cucumis anguria* L.</td>
+<td>d) Cornichon</td>
+<td>— *Cucumis anguria* L.</td>
 </tr>
 <tr>
-<td>**e)** Melon brodé
-
-</td>
-<td>—*Cucumis melo* L.</td>
+<td>e) Citrouille, courge (d’été ou d’hiver)</td>
+<td>— *Cucurbita* spp.</td>
 </tr>
 <tr>
-<td>**f)** Citrouille
-
-</td>
-<td>—*Cucurbita pepo* L. convar. *citrullinina* Greb.</td>
-</tr>
-<tr>
-<td>**g)** Courge musquée
-
-</td>
-<td>—*Cucurbita moschata* Duchesne ex. Poiret</td>
-</tr>
-<tr>
-<td>**h)** Courge d’été
-
-</td>
-<td>—*Cucurbita pepo* L. var. *melopepo* (L.) Alef.</td>
-</tr>
-<tr>
-<td>**i)** Courge d’hiver, potiron
-
-</td>
-<td>—*Cucurbita maxima* Duch.</td>
-</tr>
-<tr>
-<td>**j)** Courge à la moëlle ou courgette
-
-</td>
-<td>—*Cucurbita pepo.* L. var. *medullosa* Alef.</td>
-</tr>
-<tr>
-<td>**k)** Melon d’eau ou pastèque
-
-</td>
-<td>—*Citrullus lanatus* (Thunb.) Matsum. & Nakai var. *lanatus*</td>
+<td>f) Melon d’eau ou pastèque</td>
+<td>— *Citrullus lanatus* (Thunb.) Matsum. & Nakai var. *lanatus*</td>
 </tr>
 </table>
 
-
-
 <table>
 <tr>
-<th>I</th>
-<th>II</th>
-<th>III</th>
-<th>IV</th>
-<th>V</th>
-<th>VI</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <th></th>
-<th>Nombre maximal de semences par 25 g</th>
+<th>Nombre maximal de graines par 25 g</th>
 <th></th>
 </tr>
 <tr>
 <th></th>
-<th>Graines de mauvaises herbes nuisibles</th>
+<th>Mauvaises herbes nuisibles</th>
 <th></th>
 <th></th>
 <th></th>
@@ -6225,15 +5859,12 @@ PARTIE III
 <tr>
 <th>Nom de la catégorie</th>
 <th>Principales</th>
-<th>Principales plus secondaires</th>
-<th>Total des graines de mauvaises herbes</th>
+<th>Principales et secondaires</th>
+<th>Total de mauvaises herbes</th>
 <th>Autres plantes cultivées</th>
 <th>Pourcentage minimal de germination</th>
 </tr>
 <tr>
-<th></th>
-</tr>
-<tr>
 <td>1. Canada Fondation n<sup>o</sup> 1</td>
 <td>0</td>
 <td>0</td>
@@ -6284,7 +5915,7 @@ PARTIE III
 <tr>
 <td>7. Canada n<sup>o</sup> 1</td>
 <td>0</td>
-<td>0</td>
+<td>1</td>
 <td>1</td>
 <td>1</td>
 <td>80</td>
@@ -6298,262 +5929,224 @@ PARTIE III
 <td>70</td>
 </tr>
 </table>
-
-
 
 #### TABLEAU XVIII
 <table>
 <tr>
-<th>Applicable aux espèces suivantes lorsque désignées par le vendeur comme légumes pour les potagers domestiques :</th>
-<th></th>
+<td>Applicable aux espèces ci-après lorsqu’elles ne sont pas destinées à la production agricole de grandes cultures :</td>
 </tr>
 <tr>
-<td>**a)** Gourgane et féverole
-
-</td>
-<td>—*Vicia faba* L.</td>
+<td>a) Haricot, jardin</td>
+<td>— *Phaseolus vulgaris* L.</td>
 </tr>
 <tr>
-<td>**b)** Haricot de Lima
-
-</td>
-<td>—*Phaseolus lunatus* L.</td>
+<td>b) Gourgane et féverole</td>
+<td>— *Vicia faba* L.</td>
 </tr>
 <tr>
-<td>**c)** Haricot d’Espagne
-
-</td>
-<td>—*Phaseolus coccineus* L.</td>
+<td>c) Haricot de Lima</td>
+<td>— *Phaseolus lunatus* L.</td>
 </tr>
 <tr>
-<td>**d)** Pois chiche
-
-</td>
-<td>—*Cicer arietinum* L.</td>
+<td>d) Haricot d’Espagne</td>
+<td>— *Phaseolus coccineus* L.</td>
 </tr>
 <tr>
-<td>**e)** Maïs à éclater
-
-</td>
-<td>—*Zea mays* L. var. *praecox* Bonaf. (= *Z. mays* L. var. *everta* (Sturter) Bailey)</td>
+<td>e) Pois chiche</td>
+<td>— *Cicer arietinum* L.</td>
 </tr>
 <tr>
-<td>**f)** Maïs sucré
-
-</td>
-<td>—*Zea mays* L. var. *rugosa* Bonaf. (= *Z. mays* L. var. *saccharata* (Sturter) Bailey)</td>
+<td>f) Maïs à éclater ou sucré</td>
+<td>— *Zea mays* L. subsp. *mays*</td>
 </tr>
 <tr>
-<td>**g)** Pois
-
-</td>
-<td>—*Pisum sativum* L.</td>
+<td>g) Pois, jardin</td>
+<td>— *Pisum sativum* L.</td>
 </tr>
 <tr>
-<td>**h)** Soja
-
-</td>
-<td>—*Glycine max* (L.) Merrill12</td>
+<td>h) Soja</td>
+<td>— *Glycine max* (L.) Merr.</td>
+</tr>
+<tr>
+<td>i) Tournesol</td>
+<td>— *Helianthus annuus* L.</td>
+</tr>
+<tr>
+<td>j) Carthame des teinturiers</td>
+<td>— *Carthamus tinctorius* L.</td>
 </tr>
 </table>
 
-
-
 <table>
 <tr>
-<th>I</th>
-<th>II</th>
-<th>III</th>
-<th>IV</th>
-<th>V</th>
-<th>VI</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
 </tr>
 <tr>
 <th></th>
-<th>Nombre maximal de semences par kg</th>
-<th>Pourcentage minimal  de germination</th>
+<th>Nombre maximal de graines par kg</th>
+<th>Pourcentage minimal de germination</th>
 </tr>
 <tr>
 <th>Nom de la catégorie</th>
-<th>Graines de mauvaises herbes</th>
-<th>Autres plantes cultivées</th>
-<th>Pois</th>
-<th>Haricots et soja</th>
-<th>Maïs sucré</th>
-</tr>
-<tr>
-<th></th>
+<th>Total de mauvaises herbes</th>
+<th>Autre plantes cultivées</th>
+<th>Pois, pois chiche, tournesol et carthame des teinturiers</th>
+<th>Haricots, gourgane, féverole et soja</th>
+<th>Maïs</th>
 </tr>
 <tr>
 <td>1. Canada Fondation n<sup>o</sup> 1</td>
 <td>0</td>
-<td>0,0</td>
+<td>0</td>
 <td>80</td>
 <td>85</td>
-<td>90</td>
+<td>85</td>
 </tr>
 <tr>
 <td>2. Canada Fondation n<sup>o</sup> 2</td>
 <td>0</td>
-<td>0,5</td>
+<td>0</td>
 <td>70</td>
 <td>75</td>
-<td>80</td>
+<td>75</td>
 </tr>
 <tr>
 <td>3. Canada Enregistrée n<sup>o</sup> 1</td>
 <td>0</td>
-<td>0,0</td>
+<td>0</td>
 <td>80</td>
 <td>85</td>
-<td>90</td>
+<td>85</td>
 </tr>
 <tr>
 <td>4. Canada Enregistrée n<sup>o</sup> 2</td>
 <td>0</td>
-<td>1,0</td>
+<td>1</td>
 <td>70</td>
 <td>75</td>
-<td>80</td>
+<td>75</td>
 </tr>
 <tr>
 <td>5. Canada Certifiée n<sup>o</sup> 1</td>
 <td>0</td>
-<td>1,0</td>
+<td>1</td>
 <td>80</td>
 <td>85</td>
-<td>90</td>
+<td>85</td>
 </tr>
 <tr>
 <td>6. Canada Certifiée n<sup>o</sup> 2</td>
 <td>0</td>
-<td>3,0</td>
+<td>3</td>
 <td>70</td>
 <td>75</td>
-<td>80</td>
+<td>75</td>
 </tr>
 <tr>
 <td>7. Canada n<sup>o</sup> 1</td>
 <td>1</td>
-<td>4,0</td>
+<td>4</td>
 <td>75</td>
 <td>80</td>
-<td>90</td>
+<td>85</td>
 </tr>
 <tr>
 <td>8. Canada n<sup>o</sup> 2</td>
 <td>3</td>
-<td>10,0</td>
+<td>10</td>
 <td>65</td>
 <td>65</td>
-<td>75</td>
+<td>70</td>
 </tr>
 </table>
-
-
 
 #### TABLEAU XIX
 <table>
 <tr>
-<td>Applicable aux espèces suivantes :
-
-</td>
+<td>Applicable à ce qui suit :</td>
 <td></td>
 </tr>
 <tr>
-<td>**a)** Brocoli
-
-</td>
-<td>—*Brassica oleracea* L. convar. *botrytis* (L.) Alef. var. *italica* Plenck</td>
+<td>a) Brocoli</td>
+<td>— *Brassica oleracea* L. var. *italica* Plenck</td>
 </tr>
 <tr>
-<td>**b)** Choux de Bruxelles
-
-</td>
-<td>—*Brassica oleracea* L. var. *bullata* DC. subvar. *gemmifera* DC.</td>
+<td>b) Chou de Bruxelles</td>
+<td>— *Brassica oleracea* L. var. *gemmifera* Zenker</td>
 </tr>
 <tr>
-<td>**c)** Chou
-
-</td>
-<td>—*Brassica oleracea* L. var. *capitata* L.</td>
+<td>c) Chou</td>
+<td>— *Brassica oleracea* L. var. *capitata* L.</td>
 </tr>
 <tr>
-<td>**d)** Chou-fleur
-
-</td>
-<td>—*Brassica oleracea* L. Alef. var. *botrytis* L.</td>
+<td>d) Chou de Chine</td>
+<td>— *Brassica rapa* L. subsp. *chinensis* (L.) Hanelt ou *B. rapa* L. subsp. *pekinensis* (Lour.) Hanelt</td>
 </tr>
 <tr>
-<td>**e)** Chou à rosette ou collard
-
-</td>
-<td>—*Brassica oleracea* L. var. *acephala* DC.</td>
+<td>e) Chou-fleur</td>
+<td>— *Brassica oleracea* L. var. *botrytis* L.</td>
 </tr>
 <tr>
-<td>**f)** Chou frisé ou chou vert (Kale)
-
-</td>
-<td>—*Brassica oleracea* L. var. *acephala* DC.</td>
+<td>f) Chou à rosette ou collards</td>
+<td>— *Brassica oleracea* L. var. *viridis* L.</td>
 </tr>
 <tr>
-<td>**g)** Chou-rave
-
-</td>
-<td>—*Brassica oleracea* L. var. *gongylodes* L.</td>
+<td>g) Chou frisé</td>
+<td>— *Brassica oleracea* L. var. *sabellica* L. ou *B. oleracea* L. var. *viridis*</td>
 </tr>
 <tr>
-<td>**h)** Radis
-
-</td>
-<td>—*Raphanus sativus* L.</td>
+<td>h) Chou-rave</td>
+<td>— *Brassica oleracea* L. var. *gongylodes* L.</td>
 </tr>
 <tr>
-<td>**i)** Colza, fourragère
-
-</td>
-<td>—*Brassica napus* L., *B. campestris* L.</td>
+<td>i) Feuilles de moutarde</td>
+<td>— *Brassica juncea* (L.) Czern.</td>
 </tr>
 <tr>
-<td>**j)** Rutabaga
-
-</td>
-<td>—*Brassica napus* L. var. *napobrassica* (L.) Reichb.</td>
+<td>j) Radis</td>
+<td>— *Raphanus sativus* L.</td>
 </tr>
 <tr>
-<td>**k)** Moutarde épinard
-
-</td>
-<td>—*Brassica perviridis* Bailey</td>
+<td>k) Colza fourragère</td>
+<td>— *Brassica napus* L. var. *napus* ou *B. rapa* L. subsp. *campestris* (L.) A.R. Clapham</td>
 </tr>
 <tr>
-<td>**l)** Navet
-
-</td>
-<td>—*Brassica rapa* L. var. *rapa* (L.) Thell.</td>
+<td>l) Rutabaga</td>
+<td>— *Brassica napus* L. var. *napobrassica* (L.) Reichb.</td>
+</tr>
+<tr>
+<td>m) Moutarde épinard</td>
+<td>— *Brassica rapa* L. var. *perviridis* L. H. Bailey</td>
+</tr>
+<tr>
+<td>n) Navet</td>
+<td>— *Brassica rapa* L. subsp. *rapa*</td>
 </tr>
 </table>
 
-
-
 <table>
 <tr>
-<th>I</th>
-<th>II</th>
-<th>III</th>
-<th>IV</th>
-<th>V</th>
-<th>VI</th>
-<th>VII</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
 </tr>
 <tr>
 <th></th>
-<th>Nombre maximal de semences par 25 g</th>
+<th>Nombre maximal de graines par 25 g</th>
 <th></th>
 </tr>
 <tr>
 <th></th>
-<th>Graines de mauvaises herbes nuisibles</th>
+<th>Mauvaises herbes nuisibles</th>
 <th></th>
 <th></th>
 <th></th>
@@ -6569,14 +6162,11 @@ PARTIE III
 <tr>
 <th>Nom de la catégorie</th>
 <th>Dans le brocoli, le chou de Bruxelles, le chou et le chou-fleur</th>
-<th>Dans  d’autres  espèces  cultivées</th>
-<th>Principales plus secondaires</th>
-<th>Total des graines de mauvaises herbes</th>
+<th>Dans les autres espèces</th>
+<th>Principales et secondaires</th>
+<th>Total de mauvaises herbes</th>
 <th>Autres plantes cultivées</th>
-<th>Pourcentage minimal de  germination</th>
-</tr>
-<tr>
-<th></th>
+<th>Pourcentage minimal de germination</th>
 </tr>
 <tr>
 <td>1. Canada Fondation n<sup>o</sup> 1</td>
@@ -6652,312 +6242,235 @@ PARTIE III
 </tr>
 </table>
 
-
-
 #### TABLEAU XX
 <table>
 <tr>
-<td>Applicable aux espèces suivantes :</td>
+<td>Applicable à ce qui suit :</td>
 <td></td>
-<td>Pourcentage minimal  de germination</td>
+<td></td>
 </tr>
 <tr>
-<td>**a)** Artichaut
-
-</td>
-<td>—*Cynara scolymus* L.</td>
+<td></td>
+<td></td>
+<td>Pourcentage minimal de germination</td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td>a) Artichaut</td>
+<td>— *Cynara cardunculus* L. (= *C. scolymus* L.)</td>
 <td>75</td>
 </tr>
 <tr>
-<td>**b)** Asperge
-
-</td>
-<td>—*Asparagus officinalis* L. ssp. *officinalis*</td>
+<td>b) Asperge</td>
+<td>— *Asparagus officinalis* L.</td>
 <td>75</td>
 </tr>
 <tr>
-<td>**c)** Cardon
-
-</td>
-<td>—*Cynara cardunculus* L.</td>
+<td>c) Cardon</td>
+<td>— *Cynara cardunculus* L.</td>
 <td>55</td>
 </tr>
 <tr>
-<td>**d)** Carotte (cultivée)
-
-</td>
-<td>—*Daucus carota* L. ssp. *sativa* (Hoffm.) Arcangeli</td>
+<td>d) Carotte (cultivée)</td>
+<td>— *Daucus carota* L. subsp. *sativus* (Hoffm.) Arcang.</td>
 <td>60</td>
 </tr>
 <tr>
-<td>**e)** Céleri-rave
-
-</td>
-<td>—*Apium graveolens* L. var. *rapaceum* (Miller) Gaudich</td>
+<td>e) Céleri-rave</td>
+<td>— *Apium graveolens* L. var. *rapaceum* (Mill.) Gaudin</td>
 <td>60</td>
 </tr>
 <tr>
-<td>**f)** Céleri
-
-</td>
-<td>—*Apium graveolens* L. var. *dulce* (Miller) Pers.</td>
+<td>f) Céleri</td>
+<td>— *Apium graveolens* L. var. *dulce* (Mill.) Pers.</td>
 <td>55</td>
 </tr>
 <tr>
-<td>**g)** Celtuce
-
-</td>
-<td>—*Lactuca sativa* L. var. *asperangia* Bailey</td>
+<td>g) Celtuce/celtus</td>
+<td>— *Lactuca sativa* L. var. *angustana* L.H. Bailey</td>
 <td>75</td>
 </tr>
 <tr>
-<td>**h)** Cerfeuil
-
-</td>
-<td>—*Chaerophyllum bulbosum* L.</td>
+<td>h) Cerfeuil</td>
+<td>— *Anthriscus cerefolium* (L.) Hoffm.</td>
 <td>75</td>
 </tr>
 <tr>
-<td>**i)** Chicorée ordinaire (cultivée)
-
-</td>
-<td>—*Cichorium intybus* L.</td>
+<td>i) Chicorée (cultivée)</td>
+<td>— *Cichorium intybus* L.</td>
 <td>65</td>
 </tr>
 <tr>
-<td>**j)** Ciboulette
-
-</td>
-<td>—*Allium schoenoprasum* L.</td>
+<td>j) Ciboulette</td>
+<td>— *Allium schoenoprasum* L.</td>
 <td>65</td>
 </tr>
 <tr>
-<td>**k)** Mâche
-
-</td>
-<td>—*Valerianella olitoria* (L.) Poll. (= *V. Locusta* Betcke)</td>
+<td>k) Mâche</td>
+<td>— *Valerianella locusta* (L.) Laterr. (= *V. olitoria* (L.) Poll.)</td>
 <td>75</td>
 </tr>
 <tr>
-<td>**l)** Cresson alénois
-
-</td>
-<td>—*Lepidium sativum* L.</td>
+<td>l) Cresson alénois</td>
+<td>— *Lepidium sativum* L.</td>
 <td>75</td>
 </tr>
 <tr>
-<td>**m)** Cresson de fontaine
-
-</td>
-<td>—*Nasturtium officinale* R. Brown</td>
+<td>m) Cresson de fontaine</td>
+<td>— *Nasturtium officinale* R.Br.</td>
 <td>35</td>
 </tr>
 <tr>
-<td>**n)** Pissenlit (cultivé)
-
-</td>
-<td>—*Taraxacum officinale* Wiggers</td>
+<td>n) Pissenlit (cultivé)</td>
+<td>— *Taraxacum officinale* F.H. Wigg.</td>
 <td>55</td>
 </tr>
 <tr>
-<td>**o)** Aneth
-
-</td>
-<td>—*Anethum graveolens* L.</td>
+<td>o) Aneth</td>
+<td>— *Anethum graveolens* L.</td>
 <td>50</td>
 </tr>
 <tr>
-<td>**p)** Aubergine
-
-</td>
-<td>—*Solanum melongena* L.</td>
+<td>p) Aubergine</td>
+<td>— *Solanum melongena* L.</td>
 <td>65</td>
 </tr>
 <tr>
-<td>**q)** Chicorée endive
-
-</td>
-<td>—*Cichorium endivia* L.</td>
+<td>q) Chicorée endive</td>
+<td>— *Cichorium endivia* L.</td>
 <td>65</td>
 </tr>
 <tr>
-<td>**r)** Poireau
-
-</td>
-<td>—*Allium porrum* L.</td>
+<td>r) Poireau</td>
+<td>— *Allium porrum* L.</td>
 <td>65</td>
 </tr>
 <tr>
-<td>**s)** Laitue
-
-</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>— romaine
-
-</td>
-<td>—*Lactuca sativa* L. var. *longifolia* Lam.</td>
+<td>s) Laitue - cos (romaine)</td>
+<td>— *Lactuca sativa* L. var. *longifolia* Lam.</td>
 <td>70</td>
 </tr>
 <tr>
-<td>— pommée
-
-</td>
-<td>—*Lactuca sativa* L. var. *capitata* L.</td>
+<td>t) Laitue - pommée</td>
+<td>— *Lactuca sativa* L. var. *capitata* L.</td>
 <td>70</td>
 </tr>
 <tr>
-<td>— frisée
-
-</td>
-<td>—*Lactuca sativa* L. var. *crispa* L.</td>
+<td>u) Laitue - frisée</td>
+<td>— *Lactuca sativa* L. var. *crispa* L.</td>
 <td>70</td>
 </tr>
 <tr>
-<td>**t)** Gombo
-
-</td>
-<td>—*Hibiscus esculentus* L.</td>
+<td>v) Gombo</td>
+<td>— *Abelmoschus esculentus* (L.) Moench (= *Hibiscus esculentus* L.)</td>
 <td>55</td>
 </tr>
 <tr>
-<td>**u)** Oignon
-
-</td>
-<td>—*Allium cepa* L.</td>
+<td>w) Oignon</td>
+<td>— *Allium cepa* L.</td>
 <td>75</td>
 </tr>
 <tr>
-<td>**v)** Persil
-
-</td>
-<td>—*Petroselinum crispum* (Miller) Nym. ex Hill</td>
+<td>x) Persil</td>
+<td>— *Petroselinum crispum* (Mill.) Nyman ex A.W. Hill</td>
 <td>55</td>
 </tr>
 <tr>
-<td>**w)** Panais
-
-</td>
-<td>—*Pastinaca sativa* L.</td>
+<td>y) Panais</td>
+<td>— *Pastinaca sativa* L. subsp. *sativa*</td>
 <td>60</td>
 </tr>
 <tr>
-<td>**x)** Piment commun
-
-</td>
-<td>—*Capsicum annuum* L.</td>
+<td>z) Piment commun</td>
+<td>— *Capsicum annuum* L.</td>
 <td>65</td>
 </tr>
 <tr>
-<td>**y)** Raiponce
-
-</td>
-<td>—*Campanula rapunculus* L.</td>
+<td>z.1) Raiponce</td>
+<td>— *Campanula rapunculus* L.</td>
 <td>55</td>
 </tr>
 <tr>
-<td>**z)** Rhubarbe
-
-</td>
-<td>—*Rheum rhaponticum* L.</td>
+<td>z.11) Rhubarbe</td>
+<td>— *Rheum* × *hybridum* Murray (= *R. rhaponticum* L. auct.)</td>
 <td>65</td>
 </tr>
 <tr>
-<td>**aa)** Sauge
-
-</td>
-<td>—*Salvia officinalis* L.</td>
+<td>z.12) Sauge</td>
+<td>— *Salvia officinalis* L.</td>
 <td>50</td>
 </tr>
 <tr>
-<td>**bb)** Salsifis
-
-</td>
-<td>—*Tragopogon porrifolius* L.</td>
+<td>z.13) Salsifis</td>
+<td>— *Tragopogon porrifolius* L.</td>
 <td>75</td>
 </tr>
 <tr>
-<td>**cc)** Sarriette
-
-</td>
-<td>—*Satureja hortensis* L.</td>
+<td>z.14) Sarriette</td>
+<td>— *Satureja hortensis* L. ou S. *montana* L.</td>
 <td>50</td>
 </tr>
 <tr>
-<td>**dd)** Oseille (cultivée)
-
-</td>
-<td>—*Rumex acetosa* L.</td>
+<td>z.15) Oseille (cultivée)</td>
+<td>— *Rumex acetosa* L.</td>
 <td>65</td>
 </tr>
 <tr>
-<td>**ee)** Épinard
-
-</td>
-<td>—*Spinacia oleracea* L.</td>
+<td>z.16) Épinard</td>
+<td>— *Spinacia oleracea* L.</td>
 <td>65</td>
 </tr>
 <tr>
-<td>**ff)** Épinard de Nouvelle-Zélande
-
-</td>
-<td>—*Tetragonia tetragonoides* (Pall.) Kuntze (= *T. expensa* Thunb. ex Murray)</td>
+<td>z.17) Épinard de 90Nouvelle-Zélande</td>
+<td>— *Tetragonia tetragonoides* (Pall.) Kuntze</td>
 <td>50</td>
 </tr>
 <tr>
-<td>**gg)** Thym
-
-</td>
-<td>—*Thymus vulgaris* L.</td>
+<td></td>
+</tr>
+<tr>
+<td>z.18) Thym</td>
+<td>— *Thymus vulgaris* L.</td>
 <td>50</td>
 </tr>
 <tr>
-<td>**hh)** Tabac
-
-</td>
-<td>—*Nicotiana tabacum* L.</td>
+<td>z.19) Tabac</td>
+<td>— *Nicotiana tabacum* L.</td>
 <td>75</td>
 </tr>
 <tr>
-<td>**ii)** Tomate
-
-</td>
-<td>—*Lycopersicon lycopersicum* (L.) Karsten ex Farwell (= *L. esculentum* Miller)</td>
+<td>z.2) Tomate</td>
+<td>— *Lycopersicon esculentum* Mill. (= *L. lycopersicum* (L.) Karsten ex Farwell)</td>
 <td>75</td>
 </tr>
 </table>
 
-
-
 <table>
 <tr>
-<th>I</th>
-<th>II</th>
-<th>III</th>
-<th>IV</th>
-<th>V</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <th></th>
-<th>Nombre maximal de semences par 25 g</th>
+<th>Nombre maximal de graines par 25 g</th>
 </tr>
 <tr>
 <th></th>
-<th>Graines de mauvaises herbes nuisibles</th>
+<th>Mauvaises herbes nuisibles</th>
 <th></th>
 <th></th>
 </tr>
 <tr>
 <th>Nom de la catégorie</th>
 <th>Principales</th>
-<th>Principales plus secondaires</th>
-<th>Total des graines de mauvaises  herbes</th>
+<th>Principales et secondaires</th>
+<th>Total de mauvaises herbes</th>
 <th>Autres plantes cultivées</th>
-</tr>
-<tr>
-<th></th>
 </tr>
 <tr>
 <td>1. Canada Fondation n<sup>o</sup> 1</td>
@@ -7017,23 +6530,19 @@ PARTIE III
 </tr>
 </table>
 
-
-
 #### TABLEAU XXI
 <table>
 <tr>
-<td>Applicable aux oignons à repiquer et aux oignons patates :</td>
+<td>Applicable aux : Oignons à repiquer et oignons patates.</td>
 </tr>
 </table>
 
-
-
 <table>
 <tr>
-<th>I</th>
-<th>II</th>
-<th>III</th>
-<th>IV</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
 </tr>
 <tr>
 <th>Nom de la catégorie</th>
@@ -7042,182 +6551,207 @@ PARTIE III
 <th>Qualité générale</th>
 </tr>
 <tr>
-<th></th>
-</tr>
-<tr>
-<td>**1** Canada n<sup>o</sup> 1
-
-</td>
-<td>1  à 2,5</td>
+<td>1. Canada n<sup>o</sup> 1</td>
+<td>1 à 2,5</td>
 <td>Pas moins de 98</td>
-<td>**1** Mûre, bien fanée, saine et sèche.
-
-</td>
+<td>(1) Mûre, bien fanée, saine et sèche.</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td>**2** Presque libre de pousses, terre, feuilles ou autres matières étrangères, de maladies, de pourriture et de moisissures, de dommages causés par les insectes et la gelée, de dommages mécaniques ou d’autres dommages.
-
-</td>
+<td>(2) Presque libre de pousses, terre, feuilles ou autres matières étrangères, de maladies, de pourriture et de moisissures, de dommages causés par les insectes et la gelée, de dommages mécaniques ou d’autres dommages.</td>
 </tr>
 <tr>
-<td>**2** Canada n<sup>o</sup> 1 (grosse)
-
-</td>
+<td></td>
+<td></td>
+<td></td>
+<td>(3) Presque libre de bulbes germés ou mous, lors du classement.</td>
+</tr>
+<tr>
+<td>2. Canada n<sup>o</sup> 1 (grosse)</td>
 <td>2,5 à 3,5</td>
 <td></td>
-<td>**3** Presque libre de bulbes germés ou mous, lors du classement.
-
-</td>
+<td>(1) Mûre, bien fanée, saine et sèche.</td>
 </tr>
 <tr>
-<td>**3** Canada N<sup>o</sup> 2
-
-</td>
-<td>1  à 2,5</td>
+<td></td>
+<td></td>
+<td></td>
+<td>(2) Presque libre de pousses, terre, feuilles ou autres matières étrangères, de maladies, de pourriture et de moisissures, de dommages causés par les insectes et la gelée, de dommages mécaniques ou d’autres dommages.</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(3) Presque libre de bulbes germés ou mous, lors du classement.</td>
+</tr>
+<tr>
+<td>3. Canada n<sup>o</sup> 2</td>
+<td>1 à 2,5</td>
 <td>Pas moins de 90</td>
-<td>**1** Mûre, bien fanée, saine et raisonnablement sèche.
-
-</td>
+<td>(1) Mûre, bien fanée, saine et raisonnablement sèche.</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td>**2** Raisonnablement libre de pousses, terre, feuilles ou autres matières étrangères, de maladies, de pourriture et de moisissures, de dommages causés par les insectes et la gelée, de dommages mécaniques ou d’autres dommages.
-
-</td>
+<td>(2) Raisonnablement libre de pousses, terre, feuilles ou autres matières étrangères, de maladies, de pourriture et de moisissures, de dommages causés par les insectes et la gelée, de dommages mécaniques et d’autres dommages.</td>
 </tr>
 <tr>
-<td>**4** Canada n<sup>o</sup> 2 (grosse)
-
-</td>
+<td></td>
+<td></td>
+<td></td>
+<td>(3) Raisonnablement libre de bulbes mous et contenant au plus 5 % de bulbes germés, pour les jaunes, et 10 %, pour les blancs, les rouges et les globes.</td>
+</tr>
+<tr>
+<td>4. Canada n<sup>o</sup> 2 (grosse)</td>
 <td>2,5 à 3,5</td>
 <td></td>
-<td>**3** Raisonnablement libre de bulbes mous et contenant au plus 5 % de bulbes germés, pour les jaunes, et 10 %, pour les blancs, les rouges et les globe.
-
-</td>
+<td>(1) Mûre, bien fanée, saine et raisonnablement sèche.</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(2) Raisonnablement libre de pousses, terre, feuilles ou autres matières étrangères, de maladies, de pourriture et de moisissures, de dommages causés par les insectes et la gelée, de dommages mécaniques et d’autres dommages.</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>(3) Raisonnablement libre de bulbes mous et contenant au plus 5 % de bulbes germés, pour les jaunes, et 10 %, pour les blancs, les rouges et les globes.</td>
 </tr>
 </table>
 
-
-*Définition des termes utilisés à la colonne IV*
-
-
-
-***Mûre, bien fanée*** signifie que les cols des oignons à repiquer sont bien séchés, au plus 1 % et 2 % pour les catégories Canada n<sup>o</sup> 1 et Canada n<sup>o</sup> 2 étant épaissis. (*Mature, well cured*)
-
-***Saine*** signifie que l’oignon à repiquer est ferme et lisse et ne se comprime que légèrement sous une pression modérée. (*Sound*)
-
-***Presque libre de pousses, terre, feuilles ou autres matières étrangères*** signifie exempte, à toutes fins utiles. Les pousses, la terre, les feuilles et les autres matières étrangères ne doivent pas représenter plus de 1 %, au poids, et au plus 25 % des oignons à repiquer peuvent avoir des pousses de 6,5 cm de longueur. (*Practically free from tops, dirt, leaves or other foreign matter*)
-
-***Presque libre de maladies, de pourriture et de moisissures, de dommages causés par les insectes et la gelée, de dommages mécaniques ou d’autres dommages*** signifie qu’une combinaison d’au plus 3 % des bulbes peuvent être ainsi touchés. (*Practically free from disease, decay and moulds and from insect, mechanical, frost or other damage*)
-
-***Presque libre de bulbes germés*** signifie qu’au plus 3 % de germes sont discernables pour les oignons à repiquer jaunes, et 6 %, pour les rouges, les blancs et les globe. (*Practically free from sprouted bulbs*)
-
-***Presque libre de bulbes mous*** signifie que ces bulbes ne doivent pas dépasser 3 % au total. (*Practically free from soft bulbs*)
-
-***Raisonnablement libre de pousses, terre, feuilles ou autres matières étrangères*** signifie qu’au plus 35 % des bulbes peuvent avoir des pousses mesurant plus de 6,5 cm de longueur et que la terre, les feuilles et les autres matières étrangères ne devraient pas dépasser 2 % au poids. (*Reasonably free from tops, dirt, leaves or other foreign matter*)
-
-***Raisonnablement libre de maladies, de pourriture et de moisissures, de dommages causés par les insectes et la gelée, de dommages mécaniques ou d’autres dommages*** signifie qu’une combinaison d’au plus 4 % des bulbes peuvent être ainsi touchés. (*Reasonably free from disease, decay and moulds and from insect, mechanical, frost or other damage*)
-
-***Raisonnablement libre de bulbes mous*** signifie qu’au plus 5 % des bulbes peuvent être mous. (*Reasonably free from soft bulbs*)
-
-***Bulbes germés*** désigne ceux dont les germes mesurent plus de 0,6 cm de longueur. (*Sprouted bulbs*)
-
-***Raisonnablement saine, raisonnablement sèche et raisonnablement libre de pousses, terre, feuilles ou autres matières étrangères, de maladies, de pourritures et de moisissures, de dommages causés par les insectes et la gelée, de dommages mécaniques ou d’autres dommages*** signifie que ces dommages et défauts peuvent être discernables à l’examen mais qu’ils ne doivent pas être suffisamment importants pour nuire à la conservation dans des conditions moyennes d’entreposage. (*Sound, reasonably dry and reasonably free from tops, dirt, leaves or other foreign matter, from decay, disease and moulds and from insect, mechanical, frost or other damage*)
-
+#### Définition des expressions utilisées à la colonne 4
+<table>
+<tr>
+<td>« Mûre, bien fanée » se dit de la qualité des oignons à repiquer dont les cols sont bien séchés, au plus 1 % et 2 % pour les catégories Canada n<sup>o</sup> 1 et Canada n<sup>o</sup> 2 étant épaissis;</td>
+<td>« Raisonnablement libre de pousses, terre, feuilles ou autres matières étrangères » se dit de la qualité des oignons à repiquer dont au plus 35 % des bulbes peuvent mesurer au-delà de 6,5 cm de longueur et que la terre, les feuilles et les autres matières étrangères ne devraient pas dépasser 2 % au poids.</td>
+</tr>
+<tr>
+<td>« Saine » se dit de la qualité de l’oignon à repiquer qui est ferme et lisse et qui ne se comprime que légèrement sous une pression modérée.</td>
+<td>« Raisonnablement libre de maladies, de pourriture et de moisissures, de dommages causés par les insectes et la gelée, de dommages mécaniques et d’autres dommages » se dit de la qualité des oignons à repiquer dont au plus 4 % des bulbes peuvent être ainsi touchés.</td>
+</tr>
+<tr>
+<td>« Presque libre de pousses, terre, feuilles ou autres matières étrangères » se dit de la qualité des oignons à repiquer qui sont exempts à toutes fins pratiques de pousses, terre, feuilles et autres matières étrangères. Celles-ci ne doivent pas représenter plus de l % au poids, et au plus 25 % des oignons à repiquer peuvent avoir des pousses de 6,5 cm de longueur.</td>
+<td>« Raisonnablement libre de bulbes mous » se dit de la qualité où au plus 5 % des bulbes peuvent être mous.</td>
+</tr>
+<tr>
+<td>« Presque libre de maladies, de pourriture et de moisissures, de dommages causés par les insectes et la gelée, de dommages mécaniques ou d’autres dommages » se dit de la qualité des oignons à repiquer dont au plus 3 % des bulbes peuvent être ainsi touchés.</td>
+<td>« Bulbes germés » se dit de la qualité des bulbes dont les germes mesurent plus de 0,6 cm de longueur.</td>
+</tr>
+<tr>
+<td>« Presque libre de bulbes germés » s’entend d’au plus 3 % de germes discernables, pour les oignons à repiquer jaunes, et 6 %, pour les rouges, les blancs et les globes;</td>
+<td></td>
+</tr>
+<tr>
+<td>« Presque libre de bulbes mous » se dit de la qualité où au plus 3 % des bulbes peuvent être mous.</td>
+<td></td>
+</tr>
+</table>
 
 #### TABLEAU XXII
 <table>
-<h4>Applicable à toutes les espèces de semences mentionnées aux tableaux I à XX, sauf celles des tableaux III, XIII, XIV et XV.</h4>
+<tr>
+<td>Applicable à toutes semences des espèces mentionnées aux tableaux I à XX, sauf celles mentionnées aux tableaux III et XIII à XV.</td>
+</tr>
 <tr>
 <td>1</td>
-<td>La semence Canada Fondation sous-régulière est une semence répondant aux normes de pureté de la catégorie Canada Fondation n<sup>o</sup> 2.</td>
+<td>La semence Canada Fondation sous-régulière est une semence répondant aux normes de pureté de la catégorie Canada Fondation n<sup>o</sup> 2.</td>
+</tr>
+<tr>
+<td></td>
 </tr>
 <tr>
 <td>2</td>
-<td>La semence Canada Enregistrée sous-régulière est une semence répondant aux normes de pureté de la catégorie Canada Enregistrée n<sup>o</sup> 2.</td>
+<td>La semence Canada Enregistrée sous-régulière est une semence répondant aux normes de pureté de la catégorie Canada Enregistrée n<sup>o</sup> 2.</td>
 </tr>
 <tr>
 <td>3</td>
-<td>La semence Canada Certifiée sous-régulière est une semence répondant aux normes de pureté de la catégorie Canada Certifiée n<sup>o</sup> 2.</td>
+<td>La semence Canada Certifiée sous-régulière est une semence répondant aux normes de pureté de la catégorie Canada Certifiée n<sup>o</sup> 2.</td>
+</tr>
+<tr>
+<td></td>
 </tr>
 <tr>
 <td>4</td>
 <td>La semence Canada Fondation sous-régulière (Pureté) est une semence de qualité Fondation répondant aux normes de pureté de la semence de catégorie commune.</td>
 </tr>
+<tr>
+<td></td>
+</tr>
 </table>
 
-
->  DORS/78-314, art. 2; DORS/79-917, art. 1; DORS/82-437, art. 8 à 10; DORS/86-850, art. 17; DORS/89-368, art. 3 et 4(F); DORS/91-609, art. 4; DORS/93-162, art. 12; DORS/96-252, art. 4, 5, 6(F) et 7 à 9.
+> DORS/78-314, art. 2; DORS/79-917, art. 1; DORS/82-437, art. 8 à 10; DORS/86-850, art. 17; DORS/89-368, art. 3 et 4(F); DORS/91-609, art. 4; DORS/93-162, art. 12; DORS/96-252, art. 4, 5, 6(F) et 7 à 9; DORS/2007-223, art. 25.
 
 
 
 
 ### **ANNEXE II** 
 **(article 10)**
-
 <table>
 <tr>
-<th>Espèce</th>
+<th>Sorte ou espèce</th>
 <th>Nom scientifique</th>
 </tr>
 <tr>
-<th></th>
-</tr>
-<tr>
 <td>Agropyre à crête</td>
-<td>*Agropyron cristatum* (L.) Gaertner ou *Agropyron desertorum* (Fischer ex Link) Schult.</td>
+<td>*Agropyron cristatum* (L.) Gaertn. ou</td>
 </tr>
 <tr>
-<td>Agropyre à épi inerme</td>
-<td>*Agropyron spicatum* (Pursh) Scribn. & J.G. Smith f. *inerme* (Scribn. & J.G. Smith) Beetle</td>
+<td>*A. desertorum* (Fisch. ex Link) Schult.</td>
 </tr>
 <tr>
 <td>Agropyre de l’Ouest</td>
-<td>*Agropyron smithii* Rydb.</td>
+<td>*Pascopyrum smithii* (Rydb.) Á.</td>
+</tr>
+<tr>
+<td>Löve (= *Agropyron smithii* Rydb.)</td>
 </tr>
 <tr>
 <td>Agropyre de Sibérie</td>
-<td>*Agropyron sibiricum* (Willd.) Beauv.</td>
+<td>*Agropyron fragile* (Roth) P. Candargy subsp. *sibiricum* (Willd.) Melderis (= *A. sibiricum* (Willd.) Beauv.)</td>
 </tr>
 <tr>
 <td>Agropyre des rives</td>
-<td>*Agropyron riparium* Scribn. & Smith</td>
+<td>*Elymus lanceolatus* (Scribn. & J.G. Sm.) Gould subsp. *lanceolatus* (= *Agropyron riparium* Scribn. & Smith)</td>
 </tr>
 <tr>
 <td>Agropyre du Nord</td>
-<td>*Agropyron dasystachyum* (Hook.) Scribn.</td>
+<td>*Elymus lanceolatus* (Scribn. & J.G. Sm.) Gould subsp. *lanceolatus* (= *Agropyron dasystachyum* (Hook.) Scribn.)</td>
 </tr>
 <tr>
 <td>Agropyre élevé</td>
-<td>*Agropyron elongatum* (Host) Beauv.</td>
+<td>*Elytrigia elongata* (Host) Nevski (= *Agropyron elongatum* (Host) P. Beauv.)</td>
 </tr>
 <tr>
 <td>Agropyre grêle</td>
-<td>*Agropyron trachycaulum* (Link) Malte ex H.F. Lewis</td>
+<td>*Elymus trachycaulus* (Link) Gould ex Shinners (= *Agropyron trachycaulum* (Link) Malte ex H.F. Lewis)</td>
+</tr>
+<tr>
+<td>Agropyre inerme</td>
+<td>*Pseudoroegneria spicata* (Pursh) Á. Löve (= *Agropyron spicatum* (Pursh) Scribn. & J.G. Smith f. *inerme* (Scribn. & J.G. Smith) Beetle)</td>
 </tr>
 <tr>
 <td>Agropyre intermédiaire</td>
-<td>*Agropyron intermedium* (Host) Beauv.</td>
+<td>*Elytrigia intermedia* (Host) Nevski subsp. *intermedia* (= *Agropyron intermedium* (Host) Beauv.)</td>
 </tr>
 <tr>
 <td>Agropyre pubescent</td>
-<td>*Agropyron trichophorum* (Link) Richter</td>
+<td>*Elytrigia intermedia* (Host) Nevski subsp. *intermedia* (= *Agropyron trichophorum* (Link) Richter)</td>
 </tr>
 <tr>
 <td>Agrostide blanche ou commune</td>
-<td>*Agrostis gigantea* Roth (=*A. alba* auct.)</td>
+<td>*Agrostis gigantea* Roth</td>
 </tr>
 <tr>
-<td>Alpiste des canaries</td>
+<td>Alpiste des Canaries</td>
 <td>*Phalaris canariensis* L.</td>
 </tr>
 <tr>
-<td>Alpiste roseau des canaries</td>
+<td>Alpiste roseau</td>
 <td>*Phalaris arundinacea* L.</td>
 </tr>
 <tr>
@@ -7238,19 +6772,22 @@ PARTIE III
 </tr>
 <tr>
 <td>Avoine élevée</td>
-<td>*Arrhenatherum elatius* (L.) Beauv. ex J. & K. Presl.</td>
+<td>*Arrhenatherum elatius* (L.) P. Beauv. ex</td>
 </tr>
 <tr>
-<td>Blé commun (cultivé)</td>
-<td>*Triticum aestivum* L. emend. Fiori & Paol.</td>
+<td>J. Presl & C. Presl</td>
 </tr>
 <tr>
-<td>Blé dur</td>
-<td>*Triticum durum* Desf.</td>
+<td>Blé commun</td>
+<td>*Triticum aestivum* L.</td>
+</tr>
+<tr>
+<td>Blé durum</td>
+<td>*Triticum turgidum* L. subsp. *durum* (Desf.) Husn. (= *T. durum* Desf.)</td>
 </tr>
 <tr>
 <td>Brome des prés</td>
-<td>*Bromus riparius* Rehm.</td>
+<td>*Bromus riparius* Rehmann</td>
 </tr>
 <tr>
 <td>Brome doux</td>
@@ -7258,87 +6795,99 @@ PARTIE III
 </tr>
 <tr>
 <td>Brome inerme</td>
-<td>*Bromus inermis* Leysser</td>
+<td>*Bromus inermis* Leyss.</td>
 </tr>
 <tr>
-<td>Chou frisé ou chou vert  (Kale)</td>
-<td>*Brassica oleracea* L. var. *acephala* DC.</td>
+<td>Canola, colza oléagineux, colza</td>
+<td>*Brassica rapa* L. subsp. *campestris* (L.) A.R. Clapham ou *B. napus* L. var. *napus* (= *B. napus* L. var. *oleifera* Delile)ou *B. juncea* (L.) Czern.</td>
 </tr>
 <tr>
-<td>Colza, Canola</td>
-<td>*Brassica campestris* L., *Brassica napus* L.</td>
+<td>Chou frisé ou chou vert (Kale) (type fourrager)</td>
+<td>*Brassica oleracea* L. var. *sabellica* L. ou</td>
+</tr>
+<tr>
+<td>*B. oleracea* L. var. *viridis*</td>
 </tr>
 <tr>
 <td>Coronille bigarrée</td>
-<td>*Coronilla varia* L.</td>
+<td>*Securigera varia* (L.) Lassen (= *Coronilla varia* L.)</td>
 </tr>
 <tr>
 <td>Dactyle pelotonné</td>
 <td>*Dactylis glomerata* L.</td>
 </tr>
 <tr>
-<td>Élyme de l’Altaï</td>
-<td>*Elymus angustus* Trin.</td>
-</tr>
-<tr>
 <td>Élyme dahurien</td>
 <td>*Elymus dahuricus* Turcz ex Griseb.</td>
 </tr>
 <tr>
+<td>Élyme de l’Altaï</td>
+<td>*Leymus angustus* (Trin.) Pilg.</td>
+</tr>
+<tr>
+<td>(= *Elymus angustus* Trin.)</td>
+</tr>
+<tr>
 <td>Élyme de Russie</td>
-<td>*Elymus junceus* Fischer</td>
+<td>*Psathyrostachys juncea* (Fisch.)</td>
+</tr>
+<tr>
+<td>Nevski (= *Elymus junceus* Fisch.)</td>
 </tr>
 <tr>
 <td>Fétuque à feuilles fines</td>
-<td>*Festuca tenuifolia* Sibth. (=*F. ovina* L. var. *tenuifolia* (Sibth.) Dumort) (=*F. capillata* Lam)</td>
+<td>*Festuca filiformis* Pourr. (= *F. tenuifolia* Sibth.)</td>
 </tr>
 <tr>
 <td>Fétuque de Chewing</td>
-<td>*Festuca rubra* L. var. *commutata* Gaudin</td>
+<td>*Festuca rubra* L. subsp. *fallax* (Thuill.) Nyman (= *F. rubra* L. var. *commutata* Gaudin)</td>
 </tr>
 <tr>
 <td>Fétuque des prés</td>
-<td>*Festuca pratensis* Hudson</td>
+<td>*Festuca pratensis* Huds.</td>
 </tr>
 <tr>
 <td>Fétuque durette</td>
-<td>*Festuca longifolia* Thuill. (=*F. ovina* L. var. *duriuscula* auct. amer.)</td>
+<td>*Festuca brevipila* R. Tracey</td>
+</tr>
+<tr>
+<td>(= *F. longifolia* auct. pl.)</td>
 </tr>
 <tr>
 <td>Fétuque élevée</td>
-<td>*Festuca arundinacea* Schreber</td>
+<td>*Festuca arundinacea* Schreb.</td>
 </tr>
 <tr>
 <td>Fétuque ovine</td>
 <td>*Festuca ovina* L.</td>
 </tr>
 <tr>
-<td>Fétuque rouge et fétuque rouge traçante</td>
-<td>*Festuca rubra* L. var. *rubra*</td>
+<td>Fétuque rouge et fétuque rouge traçante</td>
+<td>*Festuca rubra* L. subsp. *rubra*</td>
 </tr>
 <tr>
-<td>Fléole (mil)</td>
+<td>Fléole des prés (mil)</td>
 <td>*Phleum pratense* L.</td>
 </tr>
 <tr>
 <td>Fléole (mil) (de type nain)</td>
-<td>*Phleum bertolonii* DC. (=*P. nodosum* auct.)</td>
+<td>*Phleum bertolonii* DC.</td>
 </tr>
 <tr>
 <td>Gourgane et féverole</td>
 <td>*Vicia faba* L.</td>
 </tr>
 <tr>
-<td>Haricot de grande culture ou de jardin</td>
+<td>Haricot de grande culture</td>
 <td>*Phaseolus vulgaris* L.</td>
 </tr>
 <tr>
 <td>Herbe du Soudan</td>
-<td>*Sorghum sudanense* (Piper) Stapf</td>
+<td>*Sorghum* × *drummondi* (Steud.) Millsp. & Chase(= *S. sudanense* (Piper) Stapf)</td>
 </tr>
 <tr>
 <td>Lentille</td>
-<td>*Lens culinaris* Medikus</td>
+<td>*Lens culinaris* Medik.</td>
 </tr>
 <tr>
 <td>Lin oléagineux</td>
@@ -7349,7 +6898,7 @@ PARTIE III
 <td>*Lotus corniculatus* L.</td>
 </tr>
 <tr>
-<td>Lupin des champs</td>
+<td>Lupin (grainier et fourrager)</td>
 <td>*Lupinus* spp.</td>
 </tr>
 <tr>
@@ -7358,39 +6907,39 @@ PARTIE III
 </tr>
 <tr>
 <td>Luzerne</td>
-<td>*Medicago sativa* L. (incl. *M. sativa* L. ssp. *falcata* (L.) Arcangeli)</td>
+<td>*Medicago sativa* L.</td>
 </tr>
 <tr>
 <td>Maïs de grande culture</td>
-<td>*Zea mays* L.</td>
+<td>*Zea mays* L. subsp. *mays*</td>
 </tr>
 <tr>
-<td>Moutarde blanche (=jaune)</td>
-<td>*Sinapis alba* L. (=*B. hirta* Moench)</td>
+<td>Mélilot ou trèfle d’odeur (fleurs blanches)</td>
+<td>*Melilotus albus* Medik.</td>
 </tr>
 <tr>
-<td>Moutarde de l’Inde</td>
-<td>*Brassica juncea* (L.) Czern. & Coss.</td>
+<td>Mélilot ou trèfle d’odeur (fleurs jaunes)</td>
+<td>*Melilotus officinalis* (L.) Lam.</td>
+</tr>
+<tr>
+<td>Moutarde blanche (= jaune)</td>
+<td>*Sinapis alba* L.</td>
+</tr>
+<tr>
+<td>Moutarde, brune, orientale, de l’Inde</td>
+<td>*Brassica juncea* (L.) Czern.</td>
 </tr>
 <tr>
 <td>Moutarde noire</td>
-<td>*Brassica nigra* (L.) Koch</td>
+<td>*Brassica nigra* (L.) W.D.J. Koch</td>
 </tr>
 <tr>
-<td>Orge</td>
-<td></td>
-</tr>
-<tr>
-<td>— à six rangs</td>
-<td>*Hordeum vulgare* L. convar. *hexastichon* Alef.</td>
-</tr>
-<tr>
-<td>— à deux rangs</td>
-<td>*Hordeum vulgare* L. convar. *distichon* Alef.</td>
+<td>Orge, à six rangs, à deux rangs</td>
+<td>*Hordeum vulgare* L. subsp. *vulgare*</td>
 </tr>
 <tr>
 <td>Pois à vache</td>
-<td>*Vigna unguiculata* (L.) Walpers ssp. *unguiculata*</td>
+<td>*Vigna unguiculata* (L.) Walpers subsp. *unguiculata*</td>
 </tr>
 <tr>
 <td>Pois chiche</td>
@@ -7402,7 +6951,7 @@ PARTIE III
 </tr>
 <tr>
 <td>Puccinellie à fleurs distantes</td>
-<td>*Puccinellia distans* (L.) Parl.</td>
+<td>*Puccinellia distans* (L.) (Jacq.) Parl.</td>
 </tr>
 <tr>
 <td>Ray-grass annuel</td>
@@ -7410,7 +6959,7 @@ PARTIE III
 </tr>
 <tr>
 <td>Ray-grass hybride</td>
-<td>*Lolium x hybridum* Hausskn.</td>
+<td>*Lolium* × *hybridum* Hausskn.</td>
 </tr>
 <tr>
 <td>Ray-grass vivace</td>
@@ -7426,7 +6975,7 @@ PARTIE III
 </tr>
 <tr>
 <td>Sarrasin de Tartarie</td>
-<td>*Fagopyrum tataricum* (L.) Gaertner</td>
+<td>*Fagopyrum tataricum* (L.) Gaertn.</td>
 </tr>
 <tr>
 <td>Seigle</td>
@@ -7434,18 +6983,18 @@ PARTIE III
 </tr>
 <tr>
 <td>Soja</td>
-<td>*Glycine max* (L.) Merrill</td>
+<td>*Glycine max* (L.) Merr.</td>
 </tr>
 <tr>
 <td>Sorgho commun</td>
-<td>*Sorghum bicolor* (L.) Moench (=*S. vulgare* Pers.), *S. almum* Parodi</td>
+<td>*Sorghum bicolor* (L.) Moench</td>
 </tr>
 <tr>
 <td>Tabac (jaune et Burley)</td>
 <td>*Nicotiana tabacum* L.</td>
 </tr>
 <tr>
-<td>Tournesol</td>
+<td>Tournesol (non ornemental)</td>
 <td>*Helianthus annuus* L.</td>
 </tr>
 <tr>
@@ -7465,14 +7014,6 @@ PARTIE III
 <td>*Trifolium incarnatum* L.</td>
 </tr>
 <tr>
-<td>Trèfle d’odeur ou mélilot (fleurs blanches)</td>
-<td>*Melilotus alba* Medikus</td>
-</tr>
-<tr>
-<td>Trèfle d’odeur ou mélilot (fleurs jaunes)</td>
-<td>*Melilotus officinalis* (L.) Pallas</td>
-</tr>
-<tr>
 <td>Trèfle rouge</td>
 <td>*Trifolium pratense* L.</td>
 </tr>
@@ -7482,7 +7023,7 @@ PARTIE III
 </tr>
 <tr>
 <td>Triticale</td>
-<td>*X Triticosecale* Wittmack</td>
+<td>× *Triticosecale* spp.</td>
 </tr>
 <tr>
 <td>Vulpin des prés</td>
@@ -7490,66 +7031,68 @@ PARTIE III
 </tr>
 <tr>
 <td>Vulpin traçant</td>
-<td>*Alopecurus arundinaceus* Poiret</td>
+<td>*Alopecurus arundinaceus* Poir.</td>
 </tr>
 </table>
 
-
->  DORS/82-437, art. 11; DORS/86-850, art. 18; DORS/91-609, art. 5.
+> DORS/82-437, art. 11; DORS/86-850, art. 18; DORS/91-609, art. 5; DORS/2007-223, art. 25.
 
 
 
 
 ### **ANNEXE III** 
 **(article 65)**
-
+## Espèces, sortes ou types dont les variétés doivent être enregistrées
 <table>
 <tr>
-<th>Espèces, sorte ou type</th>
+<th>Espèce, sorte ou type</th>
 <th>Nom scientifique</th>
 </tr>
 <tr>
-<th></th>
+<td>Agropyre à crête</td>
+<td>*Agropyron cristatum* (L.) Gaertn. ou</td>
 </tr>
 <tr>
-<td>Agropyre à crête</td>
-<td>*Agropyron cristatum* (L.) Gaertner,   *Agropyron desertorum* (Fischer ex Link) Schult.</td>
+<td>*A. desertorum* (Fisch. ex Link) Schult.</td>
 </tr>
 <tr>
 <td>Agropyre de l’Ouest</td>
-<td>*Agropyron smithii* Rydb.</td>
+<td>*Pascopyrum smithii* (Rydb.) Á. Löve (= *Agropyron smithii* Rydb.)</td>
 </tr>
 <tr>
 <td>Agropyre de Sibérie</td>
-<td>*Agropyron sibiricum* (Willd.) Beauv.</td>
+<td>*Agropyron fragile* (Roth) P. Candargy subsp. *sibiricum* (Willd.) Melderis (= *Agropyron**sibiricum* (Willd.) Beauv.)</td>
 </tr>
 <tr>
 <td>Agropyre des rives</td>
-<td>*Agropyron riparium* Scribn. & Smith</td>
+<td>*Elymus lanceolatus* (Scribn. & J.G. Sm.) Gould subsp. *lanceolatus* (= *Agropyron riparium* Scribn. & Smith)</td>
 </tr>
 <tr>
 <td>Agropyre du Nord</td>
-<td>*Agropyron dasystachyum* (Hook.) Scribn.</td>
+<td>*Elymus lanceolatus* (Scribn. & J.G. Sm.) Gould subsp. *lanceolatus* (= *Agropyron dasystachyum*(Hook.) Scribn.)</td>
 </tr>
 <tr>
 <td>Agropyre élevé</td>
-<td>*Agropyron elongatum* (Host) Beauv.</td>
+<td>*Elytrigia elongata* (Host) Nevski (= *Agropyron elongatum* (Host) P. Beauv.)</td>
 </tr>
 <tr>
 <td>Agropyre grêle</td>
-<td>*Agropyron trachycaulum* (Link) Malte ex H.F. Lewis</td>
+<td>*Elymus trachycaulus* (Link) Gould ex Shinners (= *Agropyron trachycaulum* (Link) Malte ex H.F. Lewis)</td>
 </tr>
 <tr>
 <td>Agropyre inerme</td>
-<td>*Agropyron spicatum* (Pursh) Scribn. & J.G. Smith f. *inerme* (Scribn. & J.G. Smith) Beetle</td>
+<td>*Pseudoroegneria spicata* (Pursh) Á. Löve</td>
+</tr>
+<tr>
+<td>(= *Agropyron spicatum* (Pursh) Scribn. & J. G. Smith f. *inerme* (Scribn. & J.G. Smith) Beetle)</td>
 </tr>
 <tr>
 <td>Agropyre intermédiaire</td>
-<td>*Agropyron intermedium* (Host) Beauv.</td>
+<td>*Elytrigia intermedia* (Host) Nevski subsp. *intermedia* (= *Agropyron intermedium* (Host)Beauv.)</td>
 </tr>
 <tr>
 <td>Agropyre pubescent</td>
-<td>*Agropyron trichophorum* (Link) Richter</td>
+<td>*Elytrigia intermedia* (Host) Nevski subsp. *intermedia* (= *Agropyron trichophorum* (Link) Richter)</td>
 </tr>
 <tr>
 <td>Alpiste des Canaries</td>
@@ -7561,70 +7104,79 @@ PARTIE III
 </tr>
 <tr>
 <td>Avoine (type grainier)</td>
-<td>*Avena sativa* L., *Avena nuda* L.</td>
+<td>*Avena sativa* L., *A. nuda* L.</td>
 </tr>
 <tr>
 <td>Blé commun</td>
-<td>*Triticum aestivum* L. emend. Fiori & Paol.</td>
+<td>*Triticum aestivum* L.</td>
 </tr>
 <tr>
-<td>Blé dur</td>
-<td>*Triticum durum* Desf.</td>
+<td>Blé durum</td>
+<td>*Triticum turgidum* L. subsp. *durum* (Desf.) Husn. (= *T. durum* Desf.)</td>
 </tr>
 <tr>
 <td>Brome des prés</td>
-<td>*Bromus riparius* Rehm.</td>
+<td>*Bromus riparius* Rehmann</td>
 </tr>
 <tr>
 <td>Brome inerme</td>
-<td>*Bromus inermis* Leysser</td>
+<td>*Bromus inermis* Leyss.</td>
 </tr>
 <tr>
-<td>Canola/colza oléagineux</td>
-<td>*Brassica napus* L., *Brassica rapa* L. (= *B. campestris*)</td>
+<td>Canola, colza oléagineux, colza</td>
+<td>*Brassica rapa* L. subsp. *campestris* (L.)</td>
 </tr>
 <tr>
-<td>Carthame</td>
-<td>*Carthamus tintorius* L.</td>
+<td>A.R. Clapham ou *B. napus* L. var. *napus*</td>
+</tr>
+<tr>
+<td>(= *B. napus* L. var. *oleifera* Delile) ou *B. juncea* (L.) Czern.</td>
+</tr>
+<tr>
+<td>Carthame des teinturiers</td>
+<td>*Carthamus tinctorius* L.</td>
 </tr>
 <tr>
 <td>Dactyle pelotonné</td>
 <td>*Dactylis glomerata* L.</td>
 </tr>
 <tr>
-<td>Élyme de Daourie</td>
+<td>Élyme dahurien</td>
 <td>*Elymus dahuricus* Turcz ex Griseb.</td>
 </tr>
 <tr>
 <td>Élyme de l’Altaï</td>
-<td>*Elymus angustus* Trin.</td>
+<td>*Leymus angustus* (Trin.) Pilg. (= *Elymus angustus* Trin.)</td>
 </tr>
 <tr>
 <td>Élyme de Russie</td>
-<td>*Elymus junceus* Fischer</td>
+<td>*Psathyrostachys juncea* (Fisch.) Nevski (= *Elymus junceus* Fisch.)</td>
 </tr>
 <tr>
 <td>Épeautre</td>
-<td>*Triticum spelta* L.</td>
+<td>*Triticum aestivum* L. subsp. *spelta* (L.) Thell.</td>
 </tr>
 <tr>
-<td>Féverole (à petits grains)</td>
-<td>*Vicia faba minor* L.</td>
+<td>(= *T. spelta* L.)</td>
 </tr>
 <tr>
 <td>Fétuque des prés (type fourrager)</td>
-<td>*Festuca pratensis* Hudson</td>
+<td>*Festuca pratensis* Huds.</td>
 </tr>
 <tr>
 <td>Fétuque élevée (type fourrager)</td>
-<td>*Festuca arundinacea* Schreber</td>
+<td>*Festuca arundinacea* Schreb.</td>
 </tr>
 <tr>
 <td>Fétuque rouge (type fourrager)</td>
-<td>*Festuca rubra* L. var. *rubra*</td>
+<td>*Festuca rubra* L. subsp. *rubra*</td>
 </tr>
 <tr>
-<td>Fléole des prés (type fourrager)</td>
+<td>Féverole (à petits grains)</td>
+<td>*Vicia faba* L.</td>
+</tr>
+<tr>
+<td>Fléole des prés (mil) (type fourrager)</td>
 <td>*Phleum pratense* L.</td>
 </tr>
 <tr>
@@ -7633,10 +7185,10 @@ PARTIE III
 </tr>
 <tr>
 <td>Lentille (type grainier)</td>
-<td>*Lens culinaris* Medikus</td>
+<td>*Lens culinaris* Medik.</td>
 </tr>
 <tr>
-<td>Lin oléagineux</td>
+<td>Lin (oléagineux)</td>
 <td>*Linum usitatissimum* L.</td>
 </tr>
 <tr>
@@ -7649,31 +7201,27 @@ PARTIE III
 </tr>
 <tr>
 <td>Luzerne (type fourrager)</td>
-<td>*Medicago sativa* L. (y compris *M. sativa* L. spp. *falcata* (L.) Arcangeli)</td>
+<td>*Medicago sativa* L.</td>
 </tr>
 <tr>
-<td>Mélilot (fleurs blanches)</td>
-<td>*Melilotus alba* Medikus</td>
+<td>Mélilot ou trèfle d’odeur (fleurs blanches)</td>
+<td>*Melilotus albus* Medik.</td>
 </tr>
 <tr>
-<td>Mélilot (fleurs jaunes)</td>
-<td>*Melilotus officinalis* (L.) Pallas</td>
+<td>Mélilot ou trèfle d’odeur (fleurs jaunes)</td>
+<td>*Melilotus officinalis* (L.) Lam.</td>
 </tr>
 <tr>
-<td>Moutarde</td>
-<td>*Brassica juncea* (L.) Czern. & Coss., *Sinapis alba* (L.) (= *B. hirta* Moench)</td>
+<td>Moutarde, blanche (= jaune)</td>
+<td>*Sinapis alba* L.</td>
 </tr>
 <tr>
-<td>Orge</td>
-<td></td>
+<td>Moutarde, brune, orientale, de l’Inde</td>
+<td>*Brassica juncea* (L.) Czern.</td>
 </tr>
 <tr>
-<td>— à six rangs</td>
-<td>*Hordeum vulgare* L. convar. *hexastichon* Alef.</td>
-</tr>
-<tr>
-<td>— à deux rangs</td>
-<td>*Hordeum vulgare* L. convar. *distichon* Alef.</td>
+<td>Orge, à six rangs, à deux rangs</td>
+<td>*Hordeum vulgare* L. subsp. *vulgare*</td>
 </tr>
 <tr>
 <td>Pois de grande culture (type grainier)</td>
@@ -7700,15 +7248,15 @@ PARTIE III
 <td>*Secale cereale* L.</td>
 </tr>
 <tr>
-<td>Soja oléagineux</td>
-<td>*Glycine max* (L.) Merrill</td>
+<td>Soja (oléagineux)</td>
+<td>*Glycine max* (L.) Merr.</td>
 </tr>
 <tr>
 <td>Tabac jaune</td>
 <td>*Nicotiana tabacum* L.</td>
 </tr>
 <tr>
-<td>Tournesol</td>
+<td>Tournesol (non ornemental)</td>
 <td>*Helianthus annuus* L.</td>
 </tr>
 <tr>
@@ -7725,12 +7273,11 @@ PARTIE III
 </tr>
 <tr>
 <td>Triticale (type grainier)</td>
-<td>*X Triticosecale* Wittmack</td>
+<td>× *Triticosecale* spp.</td>
 </tr>
 </table>
 
-
->  DORS/97-199, art. 2.
+> DORS/97-199, art. 2; DORS/2007-223, art. 25.
 
 
 
