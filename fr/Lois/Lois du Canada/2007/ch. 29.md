@@ -605,7 +605,7 @@ où :
 
 <sup><a href='#fn_Ind3062_hq_2658'>[*]</a></sup>**89** La présente partie entre en vigueur à la date fixée par décret.
 
-<a name='fn_Ind3062_hq_2658'><sup>*</sup></a>: [Note : Partie 7 non en vigueur.]<br />
+<a name='fn_Ind3062_hq_2658'><sup>*</sup></a>: [Note : Partie 7 en vigueur le 26 octobre 2007, *voir* TR/2007-95.]<br />
 
 
 
