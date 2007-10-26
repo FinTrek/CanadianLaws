@@ -603,7 +603,7 @@ of the aggregate of the fiscal equalization payment that may be received by Her 
 
 <sup><a href='#fn_Ind4728_hq_2668'>[*]</a></sup>**89** This Part comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind4728_hq_2668'><sup>*</sup></a>: [Note: Part 7 not in force.]<br />
+<a name='fn_Ind4728_hq_2668'><sup>*</sup></a>: [Note: Part 7 in force October 26, 2007, *see* SI/2007-95.]<br />
 
 
 
