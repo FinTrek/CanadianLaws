@@ -1706,7 +1706,7 @@ _________________________
 </tr>
 <tr>
 <td>114</td>
-<td>Locking and Immobilization Systems</td>
+<td>Theft Protection and Rollaway Prevention</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2730,7 +2730,7 @@ _________________________
 </tr>
 </table>
 
-> SOR/78-80, s. 1; SOR/78-910, s. 1(F); SOR/79-305, s. 1; SOR/79-306, s. 2; SOR/79-339, s. 2; SOR/79-340, s. 2; SOR/79-374, s. 2; SOR/79-677, s. 2; SOR/79-940, s. 5; SOR/80-160, s. 1; SOR/80-161, s. 2; SOR/80-282, s. 2; SOR/80-439, s. 2; SOR/80-639, s. 1(F); SOR/81-88, s. 2; SOR/81-665, s. 1; SOR/82-656, s. 2; SOR/82-753, s. 2; SOR/82-754, s. 2; SOR/83-138, s. 1; SOR/84-812, s. 2; SOR/86-682, s. 1; SOR/86-683, s. 2; SOR/86-975, s. 1; SOR/87-658, s. 1; SOR/87-660, s. 3; SOR/88-268, s. 4; SOR/89-384, ss. 2(F), 3 to 5; SOR/90-805, s. 4; SOR/91-425, s. 3; SOR/92-173, s. 5. SOR/92-250, s. 2(F); SOR/92-545, s. 2(F); SOR/93-31, s. 2; SOR/93-146, s. 3; SOR/93-561, s. 2; SOR/94-291, s. 2; SOR/94-669, s. 2; SOR/95-60, s. 1; SOR/95-147, ss. 5, 15(F); SOR/95-164, s. 2; SOR/96-89, s. 1; SOR/96-366, s. 4; SOR/96-437, s. 1; SOR/97-14, s. 1; SOR/97-141, s. 3; SOR/97-200, s. 2; SOR/97-201, s. 2; SOR/97-376, s. 4; SOR/97-421, s. 2; SOR/97-463, s. 1; SOR/97-532, ss. 1, 2; SOR/98-160, s. 2; SOR/98-457, s. 2; SOR/98-595, s. 1; SOR/99-357, s. 2; SOR/2000-182, s. 4; SOR/2000-304, s. 4; SOR/2001-35, ss. 2, 3; SOR/2001-353, s. 1; SOR/2001-486, s. 1; SOR/2002-55, s. 12; SOR/2002-205, s. 2; SOR/2003-272, s. 6; SOR/2003-359, ss. 1 to 3; SOR/2004-195, s. 1; SOR/2005-45, s. 2; SOR/2006-94, s. 1; SOR/2007-180, ss. 2 to 4.
+> SOR/78-80, s. 1; SOR/78-910, s. 1(F); SOR/79-305, s. 1; SOR/79-306, s. 2; SOR/79-339, s. 2; SOR/79-340, s. 2; SOR/79-374, s. 2; SOR/79-677, s. 2; SOR/79-940, s. 5; SOR/80-160, s. 1; SOR/80-161, s. 2; SOR/80-282, s. 2; SOR/80-439, s. 2; SOR/80-639, s. 1(F); SOR/81-88, s. 2; SOR/81-665, s. 1; SOR/82-656, s. 2; SOR/82-753, s. 2; SOR/82-754, s. 2; SOR/83-138, s. 1; SOR/84-812, s. 2; SOR/86-682, s. 1; SOR/86-683, s. 2; SOR/86-975, s. 1; SOR/87-658, s. 1; SOR/87-660, s. 3; SOR/88-268, s. 4; SOR/89-384, ss. 2(F), 3 to 5; SOR/90-805, s. 4; SOR/91-425, s. 3; SOR/92-173, s. 5. SOR/92-250, s. 2(F); SOR/92-545, s. 2(F);SOR/93-31, s. 2; SOR/93-146, s. 3; SOR/93-561, s. 2; SOR/94-291, s. 2; SOR/94-669, s. 2; SOR/95-60, s. 1; SOR/95-147, ss. 5, 15(F); SOR/95-164, s. 2; SOR/96-89, s. 1; SOR/96-366, s. 4; SOR/96-437, s. 1; SOR/97-14, s. 1; SOR/97-141, s. 3; SOR/97-200, s. 2; SOR/97-201, s. 2; SOR/97-376, s. 4; SOR/97-421, s. 2; SOR/97-463, s. 1; SOR/97-532, ss. 1, 2; SOR/98-160, s. 2; SOR/98-457, s. 2; SOR/98-595, s. 1; SOR/99-357, s. 2; SOR/2000-182, s. 4; SOR/2000-304, s. 4; SOR/2001-35, ss. 2, 3; SOR/2001-353, s. 1; SOR/2001-486, s. 1; SOR/2002-55, s. 12; SOR/2002-205, s. 2; SOR/2003-272, s. 6; SOR/2003-359, ss. 1 to 3; SOR/2004-195, s. 1; SOR/2005-45, s. 2; SOR/2006-94, s. 1; SOR/2007-180, ss. 2 to 4; SOR/2007-246, s. 1.
 
 
 
@@ -3668,7 +3668,7 @@ choix du fabricant
 
 **(3)** Subject to subsection (5), where the transmission control sequence includes a park position, the identification of the transmission control positions and the position selected shall be displayed in at least a single location in view of the driver when
 
-**(a)** the ignition switch is turned to a position where the transmission can be shifted; or
+**(a)** the ignition switch is set to the position where the transmission can be shifted; or
 
 
 
@@ -3678,11 +3678,11 @@ choix du fabricant
 
 
 
-**(4)** Subject to subsection (5), where the transmission control sequence does not include a park position, the identification of the transmission control positions and the position selected shall be displayed in at least a single location in view of the driver when the ignition switch is turned to a position where the engine is capable of operation.
+**(4)** Subject to subsection (5), if the transmission control sequence does not include a park position, the identification of the transmission control positions and the position selected shall be displayed in at least a single location in view of the driver when the ignition switch is set to the position where the engine is capable of operation.
 
 
 
-**(5)** The identification of transmission control positions need not be displayed when the ignition switch is turned to the position used to start the vehicle.
+**(5)** The identification of transmission control positions need not be displayed when the ignition switch is set to the position used to start the vehicle.
 
 
 
@@ -3699,7 +3699,7 @@ choix du fabricant
 
 
 
-> SOR/95-164, s. 4; SOR/97-421, ss. 4, 22(F); SOR/2003-189, s. 1; SOR/2003-272, s. 34; SOR/2006-94, s. 4(E)..
+> SOR/95-164, s. 4; SOR/97-421, ss. 4, 22(F); SOR/2003-189, s. 1; SOR/2003-272, s. 34; SOR/2006-94, s. 4(E); SOR/2007-246, s. 2..
 
 
 ### Windshield Defrosting and Defogging
@@ -5609,114 +5609,20 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/97-463, S. 2
 > SOR/79-306, s. 4; SOR/79-940, s. 7; SOR/2000-182, s. 6..
 
 
-### Locking and Immobilization Systems (Standard 114)
-> [SOR/95-164, s. 6(F); SOR/2005-45, s. 3]
-
-
-
-General
-> [SOR/2005-45, s. 3].
-
-
+### Theft Protection and Rollaway Prevention (Standard 114)
 
 
 **114** 
 
-**(1)** In this section, ***self-mobility*** means movement of the vehicle by means of a rolling motion of all the weight-bearing wheels.
+**(1)** With the exception of a walk-in van, every passenger car, every three-wheeled vehicle, and every multi-purpose passenger vehicle and truck with a GVWR of 4 536 kg or less shall conform to the requirements of Technical Standards Document No. 114, Theft Protection and Rollaway Prevention (TSD 114), as amended from time to time.
 
 
 
-**(1.1)** This section does not apply in respect of a vehicle that has a GVWR of 4 536 kg or more or to a walk-in van.
+**(2)** The term ***self-mobility*** in TSD 114 means movement of a vehicle under its own power.
 
 
 
-Locking System
-> [SOR/2005-45, s. 4].
-
-
-
-
-**(2)** Every vehicle shall be equipped with a key-operated locking system that
-
-**(a)** when the key is removed, prevents the normal activation of the vehicle engine or other main source of motive power;
-
-
-
-**(b)** when the key is removed, prevents either the steering or the forward self-mobility of the vehicle or both; and
-
-
-
-**(c)** where the vehicle is equipped with an automatic transmission control with a park position, prevents the removal of the key unless the transmission or the transmission control is locked in the park position or becomes locked in the park position as the direct result of removing the key.
-
-
-
-
-
-**(2.1)** Notwithstanding paragraph (2)(c), where the electrical system of the vehicle fails, an overriding device may allow the removal of the key, if
-
-**(a)** access to the means of activating the overriding device is protected by an opaque cover that must be removed with a tool; and
-
-
-
-**(b)** the conditions referred to in paragraph (2)(b) are met.
-
-
-
-
-
-**(2.11)** Paragraphs 2(b) and 2.1(b) do not apply to any vehicle equipped with an immobilization system that complies with subsection (7).
-
-
-
-**(2.2)** A vehicle referred to in subsection (2) may be equipped with an overriding device that
-
-**(a)** will allow the unlocking of the transmission or the transmission control; and
-
-
-
-**(b)** is designed so as to be activated only by the use of a key or by a means the access to which is protected by an opaque cover that must be removed with a tool and, where the device is not activated by the use of a key, steering shall be prevented.
-
-
-
-
-
-**(2.3)** No vehicle shall move more than 150 mm on a 10 per cent grade when the transmission or transmission control is locked in the park position.
-
-
-
-**(3)** Except where an automatic transmission control is in the park position, the device for deactivating the vehicle engine or any other main source of motive power shall not simultaneously activate the key-operated locking system referred to in subsection (2).
-
-
-
-**(4)** The number of different variations of the locking systems referred to in subsection (2) used by each manufacturer shall be at least 1,000 or a number equal to the number of vehicles manufactured by such manufacturer, whichever is the lesser, taken separately for each prescribed class of vehicle to which this section is applicable.
-
-
-
-**(5)** Except for a vehicle that is manufactured for operation without doors and that either has no doors or has doors that are designed to be easily attached to and removed from the vehicle, a warning to the driver of the vehicle shall be activated whenever the key referred to in subsection (2) has been left in the locking system and the driver’s door is opened, but the warning need not be activated
-
-**(a)** after the key has been manually withdrawn to a position from which it may not be turned;
-
-
-
-**(b)** when the locking system is in the ON or START position; or
-
-
-
-**(c)** after the key has been inserted in the locking system and before it has been turned.
-
-
-
-
-
-**(6)** Compliance with paragraph (2)(c) shall be tested with the vehicle at curb weight plus 91 kg (including the driver), as follows:
-
-**(a)** with the vehicle on a level surface, move the transmission control to any position where it will remain without assistance, including a position between the detent positions but not including the park position and, at that position, try to remove the key from each possible key position; and
-
-
-
-**(b)** drive the vehicle up a 10 per cent grade, stop it with the service brakes, apply the parking brake (if present), release the service brakes, move the transmission control to the park position, apply the service brakes, release the parking brake, release the service brakes, remove the key, verify that the transmission control or the transmission is locked in the park position and verify that vehicle movement is less than or equal to 150 mm after the release of the service brakes.
-
-
+**(3)** Subsection (1) expires on January 1, 2010.
 
 
 
@@ -5724,60 +5630,92 @@ Immobilization System
 
 
 
-**(7)** Effective September 1, 2007, every vehicle, except an emergency vehicle, shall be equipped with an immobilization system that meets
+**(4)** With the exception of a walk-in van and an emergency vehicle, every passenger car, every three-wheeled vehicle, and every multi-purpose passenger vehicle and truck with a GVWR of 4 536 kg or less shall be equipped with an immobilization system that meets one of the following sets of requirements as modified by subsection (5), (6) or (7):
+
+**(a)** section 3, subsection 4.3, sections 6 to 10 and subsections 12.1, 12.2 and 12.16 of National Standard of Canada CAN/ULC-S338-98, entitled Automobile Theft Deterrent Equipment and Systems: Electronic Immobilization (May 1998), published by the Underwriters’ Laboratories of Canada;
 
 
 
-**(a)** the requirements respecting the performance and testing of an electronic immobilization system that are set out in National Standard of Canada CAN/ULC-S338-98, entitled Standard for Automobile Theft Deterrent Equipment and Systems: Electronic Immobilization (May 1998), published by the Underwriters’ Laboratories of Canada (ULC), except that
+**(b)** the general and particular specifications of an immobilizer that are set out in Part III of ECE Regulation No. 97, entitled Uniform Provisions Concerning the Approval of Vehicle Alarm Systems (VAS) and of Motor Vehicles with Regard to Their Alarm Systems (AS), as revised on October 14, 2002; or
 
 
 
-**(i)** the requirements set out in section 1.6 and the requirements respecting non-OEM systems as defined in section 2, local noise regulations and radio frequency interference immunity shall not apply, and
-
-
-
-**(ii)** a reference to a ***manufacturer of an electronic immobilization system*** shall be read as a reference to a ***manufacturer***; or
-
-
-
-**(b)** the general and particular specifications, operation parameters and test conditions of an immobiliser that are set out in Part III of ECE Regulation No. 97, entitled Uniform Provisions Concerning the Approval of Vehicle Alarm Systems (VAS) and of Motor Vehicles with Regard to Their Alarm Systems (AS), as revised on October 14, 2002, except that
-
-
-
-**(i)** the requirements respecting aftermarket installation, type approval and radio emissions shall not apply,
-
-
-
-**(ii)** for the purposes of section 31.7, the word ***rapidly*** shall mean less than 5 minutes and the words ***time consuming*** shall mean at least 5 minutes
-
-
-
-**(iii)** despite any statement to the contrary in sections 31.10 and 31.11, the immobilization system shall not have any impact on the vehicle’s brake system, and
-
-
-
-**(iv)** for the purposes of section 32.4.1, the words “a maximum of 5 min” shall be replaced by the words “a maximum of 1 min”.
-
-
-
-**(8)** A vehicle equipped with an immobilization system that complies with subsection (7) shall be accompanied by the following written information:
-
-
-
-**(a)** instructions regarding operating and maintaining the system; and
-
-
-
-**(b)** a warning to not leave in the vehicle a device or a combination that disarms or deactivates the system.
-
-
-
-**(9)** The information referred to in subsection (8) shall be provided in English, French or both official languages, as requested by the first retail purchaser.
+**(c)** the general and particular specifications of an immobilizer that are set out in Part IV of ECE Regulation No. 116, entitled Uniform Technical Prescriptions Concerning the Protection of Motor Vehicles Against Unauthorized Use, as revised on March 6, 2006.
 
 
 
 
-> SOR/79-940, s. 7; SOR/95-164, s. 6; SOR/97-264, s. 3; SOR/97-421, s. 6; SOR/2005-45, s. 4..
+
+**(5)** The requirements set out in National Standard of Canada CAN/ULC-S338-98 are modified as follows:
+
+**(a)** the requirements respecting non-OEM systems as defined in section 2, respecting local noise regulations and respecting radio frequency interference immunity do not apply; and
+
+
+
+**(b)** a reference to a “manufacturer of an electronic immobilization system” is to be read as a reference to a “manufacturer”.
+
+
+
+
+
+**(6)** The requirements set out in Part III of ECE Regulation No. 97 are modified as follows:
+
+**(a)** the aftermarket, type approval and radio emission requirements do not apply;
+
+
+
+**(b)** for the purposes of section 31.7, the word “rapidly” means less than 5 minutes and the words “time consuming” mean at least 5 minutes;
+
+
+
+**(c)** despite any statement to the contrary in sections 31.10 and 31.11, the immobilization system shall not have any impact on the vehicle’s brake system; and
+
+
+
+**(d)** for the purposes of section 32.4.1, the expression “maximum of 5 minutes” is replaced by the expression “a maximum of 1 minute”.
+
+
+
+
+
+**(7)** The requirements set out in Part IV of ECE Regulation No. 116 are modified as follows:
+
+**(a)** the aftermarket, type approval and radio emission requirements do not apply;
+
+
+
+**(b)** for the purposes of section 8.2.7, the word “rapidly” means less than 5 minutes and the expression “time consuming” means at least 5 minutes;
+
+
+
+**(c)** despite any statement to the contrary in sections 8.2.10 and 8.2.11, the immobilization system shall not have any impact on the vehicle’s brake system; and
+
+
+
+**(d)** for the purposes of section 8.3.4.1, the expression “maximum of 5 minutes” is replaced by the expression “a maximum of 1 minute”.
+
+
+
+
+
+**(8)** A vehicle equipped with an immobilization system shall be accompanied by the following written information:
+
+**(a)** instructions for operating and maintaining the system; and
+
+
+
+**(b)** a warning not to leave in the vehicle a device or a combination that disarms or deactivates the system.
+
+
+
+
+
+**(9)** The information shall be provided in English, French or both official languages, as requested by the first retail purchaser.
+
+
+
+
+> SOR/79-940, s. 7; SOR/95-164, s. 6; SOR/97-264, s. 3; SOR/97-421, s. 6; SOR/2005-45, s. 4; SOR/2007-246, s. 3..
 
 
 ### Vehicle Identification Number
