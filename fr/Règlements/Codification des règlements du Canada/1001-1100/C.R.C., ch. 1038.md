@@ -1704,7 +1704,7 @@ _________________________
 </tr>
 <tr>
 <td>114</td>
-<td>Systèmes de verrouillage et d’immobilisation</td>
+<td>Protection contre le vol et immobilisation</td>
 <td></td>
 <td>X</td>
 <td></td>
@@ -2728,7 +2728,7 @@ _________________________
 </tr>
 </table>
 
-> DORS/78-80, art. 1; DORS/78-910, art. 1(F); DORS/79-305, art. 1; DORS/79-306, art. 2; DORS/79-339, art. 2; DORS/79-340, art. 2; DORS/79-374, art. 2; DORS/79-677, art. 2; DORS/79-940, art. 5; DORS/80-160, art. 1; DORS/80-161, art. 2; DORS/80-282, art. 2; DORS/80-439, art. 2; DORS/80-639, art. 1(F); DORS/81-88, art. 2; DORS/81-665, art. 1; DORS/82-656, art. 2; DORS/82-753, art. 2; DORS/82-754, art. 2; DORS/83-138, art. 1; DORS/84-812, art. 2; DORS/86-682, art. 1; DORS/86-683, art. 2; DORS/86-975, art. 1; DORS/87-658, art. 1; DORS/87-660, art. 3; DORS/88-268, art. 4; DORS/89-384, art. 2(F) et 3 à 5; DORS/90-805, art. 4; DORS/91-425, art. 3; DORS/92-173, art. 5; DORS/92-250, art. 2(F); DORS/92-545, art. 2(F); DORS/93-31, art. 2; DORS/93-146, art. 3; DORS/93-561, art. 2; DORS/94-291, art. 2; DORS/94-669, art. 2; DORS/95-60, art. 1; DORS/95-147, art. 5 et 15(F); DORS/95-164, art. 2; DORS/96-89, art. 1; DORS/96-366, art. 4; DORS/96-437, art. 1; DORS/97-14, art. 1; DORS/97-141, art. 3; DORS/97-200, art. 2; DORS/97-201, art. 2; DORS/97-376, art. 4; DORS/97-421, art. 2; DORS/97-463, art. 1; DORS/97-532, art. 1 et 2; DORS/98-160, art. 2; DORS/98-457, art. 2; DORS/98-595, art. 1; DORS/99-357, art. 2; DORS/2000-182, art. 4; DORS/2000-304, art. 4; DORS/2001-35, art. 2 et 3; DORS/2001-353, art. 1; DORS/2001-486, art. 1; DORS/2002-55, art. 12; DORS/2002-205, art. 2; DORS/2003-272, art. 6; DORS/2003-359, art. 1 à 3; DORS/2004-195, art. 1; DORS/2005-45, art. 2; DORS/2006-94, art. 1; DORS/2007-180, art. 2 à 4.
+> DORS/78-80, art. 1; DORS/78-910, art. 1(F); DORS/79-305, art. 1; DORS/79-306, art. 2; DORS/79-339, art. 2; DORS/79-340, art. 2; DORS/79-374, art. 2; DORS/79-677, art. 2; DORS/79-940, art. 5; DORS/80-160, art. 1; DORS/80-161, art. 2; DORS/80-282, art. 2; DORS/80-439, art. 2; DORS/80-639, art. 1(F); DORS/81-88, art. 2; DORS/81-665, art. 1; DORS/82-656, art. 2; DORS/82-753, art. 2; DORS/82-754, art. 2; DORS/83-138, art. 1; DORS/84-812, art. 2; DORS/86-682, art. 1; DORS/86-683, art. 2; DORS/86-975, art. 1; DORS/87-658, art. 1; DORS/87-660, art. 3; DORS/88-268, art. 4; DORS/89-384, art. 2(F) et 3 à 5; DORS/90-805, art. 4; DORS/91-425, art. 3; DORS/92-173, art. 5; DORS/92-250, art. 2(F); DORS/92-545, art. 2(F); DORS/93-31, art. 2; DORS/93-146, art. 3; DORS/93-561, art. 2; DORS/94-291, art. 2; DORS/94-669, art. 2; DORS/95-60, art. 1; DORS/95-147, art. 5 et 15(F); DORS/95-164, art. 2; DORS/96-89, art. 1; DORS/96-366, art. 4; DORS/96-437, art. 1; DORS/97-14, art. 1; DORS/97-141, art. 3; DORS/97-200, art. 2; DORS/97-201, art. 2; DORS/97-376, art. 4; DORS/97-421, art. 2; DORS/97-463, art. 1; DORS/97-532, art. 1 et 2; DORS/98-160, art. 2; DORS/98-457, art. 2; DORS/98-595, art. 1; DORS/99-357, art. 2; DORS/2000-182, art. 4; DORS/2000-304, art. 4; DORS/2001-35, art. 2 et 3; DORS/2001-353, art. 1; DORS/2001-486, art. 1; DORS/2002-55, art. 12; DORS/2002-205, art. 2; DORS/2003-272, art. 6; DORS/2003-359, art. 1 à 3; DORS/2004-195, art. 1; DORS/2005-45, art. 2; DORS/2006-94, art. 1; DORS/2007-180, art. 2 à 4; DORS/2007-246, art. 1.
 
 
 
@@ -3666,7 +3666,7 @@ choix du fabricant
 
 **(3)** Sous réserve du paragraphe (5), lorsque la commande de la boîte de vitesses comprend une position de stationnement, l’identification des positions de la commande et de la position choisie doit être affichée à au moins un endroit et à la vue du conducteur dans l’un ou l’autre des cas suivants :
 
-**a)** le commutateur d’allumage est tourné dans une position qui permet d’enclencher la boîte de vitesses;
+**a)** le commutateur d’allumage est dans la position qui permet d’enclencher la boîte de vitesses;
 
 
 
@@ -3676,11 +3676,11 @@ choix du fabricant
 
 
 
-**(4)** Sous réserve du paragraphe (5), lorsque la séquence de la commande de la boîte de vitesses ne comprend pas de position de stationnement, l’identification des positions de la commande et de la position choisie doit être affichée à au moins un endroit à la vue du conducteur lorsque le commutateur d’allumage est tourné dans une position qui permet la mise en marche du moteur.
+**(4)** Sous réserve du paragraphe (5), si la séquence de la commande de la boîte de vitesses ne comprend pas de position de stationnement, l’identification des positions de la commande et de la position choisie doit être affichée à au moins un endroit à la vue du conducteur lorsque le commutateur d’allumage est dans la position qui permet la mise en marche du moteur.
 
 
 
-**(5)** Il n’est pas nécessaire que l’identification des positions de la commande soit affichée lorsque le commutateur d’allumage est tourné dans la position de démarrage du véhicule.
+**(5)** Il n’est pas nécessaire que l’identification des positions de la commande soit affichée lorsque le commutateur d’allumage est dans la position de démarrage du véhicule.
 
 
 
@@ -3697,7 +3697,7 @@ choix du fabricant
 
 
 
-> DORS/95-164, art. 4; DORS/97-421, art. 4 et 22(F); DORS/2003-189, art. 1; DORS/2003-272, art. 34; DORS/2006-94, art. 4(A)..
+> DORS/95-164, art. 4; DORS/97-421, art. 4 et 22(F); DORS/2003-189, art. 1; DORS/2003-272, art. 34; DORS/2006-94, art. 4(A); DORS/2007-246, art. 2..
 
 
 ### Dégivrage et désembuage du pare-brise
@@ -5611,114 +5611,20 @@ CE GRAPHIQUE N’EST PAS EXPOSÉ, VOIR DORS/97-463, ART. 2
 > DORS/79-306, art. 4; DORS/79-940, art. 7; DORS/2000-182, art. 6..
 
 
-### Systèmes de verrouillage et d’immobilisation (Norme 114)
-> [DORS/95-164, art. 6(F); DORS/2005-45, art. 3]
-
-
-
-Disposition génnérale
-> [DORS/2005-45, art. 3].
-
-
+### Protection contre le vol et immobilisation (norme 114)
 
 
 **114** 
 
-**(1)** Dans le présent article, ***mouvement*** désigne le mouvement du véhicule par rotation de toutes les roues qui en supportent le poids.
+**(1)** À l’exception des fourgons à accès en position debout, les voitures de tourisme, les véhicules à trois roues, ainsi que les véhicules de tourisme à usages multiples et les camions ayant un PNBV de moins de 4 536 kg, doivent être conformes aux exigences du Document de normes techniques no 114 — Protection contre le vol et immobilisation (DNT 114), avec ses modifications successives.
 
 
 
-**(1.1)** Le présent article ne s’applique pas aux véhicules dont le PNBV est de 4 536 kg ou plus ou aux fourgons à accès en position debout.
+**(2)** Dans le DNT 114, la mention « mis en mouvement » s’entend du déplacement du véhicule par ses propres moyens.
 
 
 
-Système de verrouillage
-> [DORS/2005-45, art. 4].
-
-
-
-
-**(2)** Tout véhicule doit être muni d’un système de verrouillage à clé qui :
-
-**a)** lorsque la clé en est retirée, empêche la mise en marche normale du moteur ou de toute autre source principale de puissance motrice du véhicule;
-
-
-
-**b)** lorsque la clé en est retirée, bloque la direction ou le mouvement vers l’avant du véhicule, ou les deux;
-
-
-
-**c)** lorsque le véhicule est muni d’une commande de la boîte de vitesses automatique avec une position de stationnement, empêche l’extraction de la clé, à moins que la boîte de vitesses ou la commande de la boîte de vitesses ne soit verrouillée en position de stationnement ou ne devienne verrouillée dans cette position du fait que la clé est retirée.
-
-
-
-
-
-**(2.1)** Malgré l’alinéa (2)c), s’il y a défaillance du système électrique du véhicule, un dispositif de surpassement peut permettre l’extraction de la clé si, à la fois :
-
-**a)** l’accès au moyen d’actionner le dispositif de surpassement est protégé par un couvercle opaque qui ne peut être retiré qu’avec un outil;
-
-
-
-**b)** les conditions prévues à l’alinéa (2)b) sont respectées.
-
-
-
-
-
-**(2.11)** Cependant, les alinéas (2)b) et (2.1)b) ne s’appliquent pas aux véhicules munis d’un système d’immobilisation conforme au paragraphe (7).
-
-
-
-**(2.2)** Tout véhicule visé au paragraphe (2) peut être muni d’un dispositif de surpassement qui :
-
-**a)** permet de déverrouiller la boîte de vitesses ou la commande de la boîte de vitesses;
-
-
-
-**b)** est conçu de façon à ne pouvoir être actionné qu’avec une clé ou par un moyen dont l’accès est protégé par un couvercle opaque qui ne peut être retiré qu’avec un outil et, dans le cas où le dispositif n’est pas actionné par clé, la direction doit être bloquée.
-
-
-
-
-
-**(2.3)** Aucun véhicule ne doit se déplacer de plus de 150 mm sur une pente de 10 pour cent lorsque la boîte de vitesses ou la commande de la boîte de vitesses est verrouillé dans la position de stationnement.
-
-
-
-**(3)** Sauf dans le cas d’une boîte de vitesses automatique dont la commande est en position de stationnement, le dispositif utilisé pour arrêter le moteur ou toute autre source principale de puissance motrice du véhicule ne doit pas actionner simultanément le système de verrouillage à clé mentionné au paragraphe (2).
-
-
-
-**(4)** Le nombre des divers systèmes de verrouillage à clé mentionnés au paragraphe (2) et utilisés par chaque fabricant, doit être d’au moins 1 000 ou être égal au nombre de véhicules fabriqués par ce fabriquant, si ce dernier nombre est inférieur à 1 000 pour chaque catégorie prescrite de véhicules à laquelle le présent article s’applique.
-
-
-
-**(5)** Sauf dans le cas d’un véhicule fabriqué pour être utilisé sans porte qui soit n’est pas muni de porte soit est muni de portes conçues pour être facilement mises en place et enlevées, un dispositif d’avertissement du conducteur doit être mis en action lorsque la clé visée au paragraphe (2) est laissée dans le système de verrouillage et que la porte côté conducteur est ouverte, mais ce dispositif n’a pas à être actionné :
-
-**a)** après que la clé est retirée manuellement à une position de laquelle elle ne peut plus tourner;
-
-
-
-**b)** lorsque le système de verrouillage à clé se trouve en position ALLUMAGE (ON) ou en position DÉMARRAGE (START); ou
-
-
-
-**c)** après que la clé a été insérée dans le système de verrouillage et avant qu’elle soit tournée.
-
-
-
-
-
-**(6)** La conformité à l’alinéa (2)c) est vérifiée avec le véhicule à son poids à vide plus 91 kg, le poids du conducteur étant compris, mis à l’essai selon la procédure suivante :
-
-**a)** avec le véhicule reposant sur une surface au niveau, déplacer la commande de la boîte de vitesses à toute position où il se maintiendra seul — y compris à toute position entre les positions de blocage, à l’exception de la position de stationnement — et, à cette position, essayer d’enlever la clé de chacune des positions où elle peut être tournée;
-
-
-
-**b)** conduire le véhicule sur une pente de 10 pour cent puis arrêter en utilisant les freins de service, appliquer le frein de stationnement (s’il y en a un), desserrer les freins de service, déplacer la commande de la boîte de vitesses à la position de stationnement, appliquer les freins de service, desserrer le frein de stationnement, desserrer les freins de service, enlever la clé, vérifier que la commande de la boîte de vitesses ou la boîte de vitesses est verrouillé dans la position de stationnement et vérifier que le mouvement du véhicule est inférieur ou égal à 150 mm après desserrage des freins de service.
-
-
+**(3)** Le paragraphe (1) cesse d’avoir effet le 1<sup>er</sup> janvier 2010.
 
 
 
@@ -5726,43 +5632,75 @@ Système d’immobilisation
 
 
 
-**(7)** À compter du 1<sup>er</sup> septembre 2007, tout véhicule, sauf un véhicule de secours, doit être muni d’un système d’immobilisation qui est conforme aux exigences de l’un ou l’autre des documents suivants :
+**(4)** À l’exception des fourgons à accès en position debout et des véhicules de secours, les voitures de tourisme, les véhicules à trois roues, ainsi que les véhicules de tourisme à usages multiples et les camions ayant un PNBV de moins de 4 536 kg, doivent être munis d’un système d’immobilisation qui est conforme, compte tenu des changements prévus aux paragraphes (5), (6) ou (7), aux exigences de l’un des documents suivants :
 
-**a)** les exigences relatives à la performance et à la mise à l’essai d’un système d’immobilisation électronique qui figurent dans la norme nationale du Canada CAN/ULC-S338-98, intitulée Norme sur les systèmes et les appareillages de prévention du vol de véhicules automobiles : immobilisation électronique (mai 1998) et publiée par les Laboratoires des Assureurs du Canada (ULC), sauf que :
-
-**(i)** les exigences de l’article 1.6 ainsi que celles qui sont relatives aux systèmes non-OEM, au sens de l’article 2, à la réglementation locale sur le bruit et à l’immunité aux parasites de haute fréquence ne s’appliquent pas,
+**a)** le chapitre 3, la section 4.3, les chapitres 6 à 10 et les sections 12.1, 12.2 et 12.16 de la norme nationale du Canada CAN/ULC-S338-98, intitulée Norme sur les systèmes et les appareillages de prévention du vol de véhicules automobiles : immobilisation électronique (mai 1998) et publiée par les Laboratoires des assureurs du Canada;
 
 
 
-**(ii)** la mention ***fabricant du système d’immobilisation électronique*** vaut mention de ***fabricant*** .
+**b)** les spécifications générales et particulières visant le dispositif d’immobilisation qui figurent à la troisième partie du règlement n<sup>o</sup> 97 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des systèmes d’alarme pour véhicules (SAV) et des automobiles en ce qui concerne leurs systèmes d’alarme (SA), modifié le 14 octobre 2002;
 
 
 
-
-
-**b)** les prescriptions générales et particulières ainsi que les paramètres de fonctionnement et les conditions d’essai visant le dispositif d’immobilisation qui figurent dans la troisième partie du Règlement No. 97 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des systèmes d’alarme pour véhicules (SAV) et des automobiles en ce qui concerne leurs systèmes d’alarme (SA), modifié le 14 octobre 2002, sauf que :
-
-**(i)** les exigences relatives aux systèmes d’immobilisation installés après la vente, à l’homologation de type et aux émissions radio ne s’appliquent pas,
-
-
-
-**(ii)** pour l’application de l’article 31.7, ***rapidement*** s’entend d’une période de moins de cinq minutes et « longue » qualifie une opération d’une durée minimale de cinq minutes,
-
-
-
-**(iii)** malgré toute disposition contraire figurant aux articles 31.10 et 31.11, le dispositif d’immobilisation ne doit avoir aucune incidence sur le système de freinage du véhicule,
-
-
-
-**(iv)** pour l’application de l’article 32.4.1, les mots « cinq minutes au maximum » doivent être remplacés par « une minute au maximum ».
+**c)** les spécifications générales et particulières visant le dispositif d’immobilisation qui figurent à la quatrième partie du règlement n<sup>o</sup> 116 de la CEE, intitulé Prescriptions techniques uniformes relatives à la protection des véhicules automobiles contre une utilisation non autorisée, modifié le 6 mars 2006.
 
 
 
 
 
+**(5)** L’application de la norme nationale du Canada CAN/ULC-S338-98 est assujettie aux changements suivants :
+
+**a)** les exigences relatives aux systèmes non-*OEM*, tels qu’ils sont définis au chapitre 2, à la réglementation locale sur le bruit et à l’immunité aux parasites de haute fréquence ne s’appliquent pas;
 
 
-**(8)** Les renseignements ci-après doivent être fournis par écrit et accompagner les véhicules munis d’un système d’immobilisation conforme au paragraphe (7) :
+
+**b)** la mention « fabricant du système d’immobilisation électronique » vaut mention de « fabricant ».
+
+
+
+
+
+**(6)** L’application de la troisième partie du règlement n<sup>o</sup> 97 de la CEE est assujettie aux changements suivants :
+
+**a)** les exigences relatives aux systèmes d’immobilisation installés après la vente, à l’homologation de type et aux émissions radio ne s’appliquent pas;
+
+
+
+**b)** pour l’application du paragraphe 31.7, le mot « rapidement » s’entend d’une période de moins de cinq minutes et le mot « longue », d’une période d’au moins cinq minutes;
+
+
+
+**c)** malgré toute disposition contraire des paragraphes 31.10 et 31.11, le système d’immobilisation ne doit avoir aucune incidence sur le système de freinage du véhicule;
+
+
+
+**d)** pour l’application du paragraphe 32.4.1, l’expression « cinq minutes au maximum » est remplacée par « une minute au maximum ».
+
+
+
+
+
+**(7)** L’application de la quatrième partie du règlement n<sup>o</sup> 116 de la CEE est assujettie aux changements suivants :
+
+**a)** les exigences relatives aux systèmes d’immobilisation installés après la vente, à l’homologation de type et aux émissions radio ne s’appliquent pas;
+
+
+
+**b)** pour l’application du paragraphe 8.2.7, le mot « rapidement » s’entend d’une période de moins de cinq minutes et le mot « longue », d’une période d’au moins cinq minutes;
+
+
+
+**c)** malgré toute disposition contraire des paragraphes 8.2.10 et 8.2.11, le système d’immobilisation ne doit avoir aucune incidence sur le système de freinage du véhicule;
+
+
+
+**d)** pour l’application du paragraphe 8.3.4.1, l’expression « 5 minutes au maximum » est remplacée par « une minute au maximum ».
+
+
+
+
+
+**(8)** Les renseignements ci-après doivent être fournis par écrit et accompagner les véhicules munis d’un système d’immobilisation :
 
 **a)** des instructions concernant l’utilisation et l’entretien du système;
 
@@ -5774,12 +5712,12 @@ Système d’immobilisation
 
 
 
-**(9)** Les renseignements visés au paragraphe (8) doivent être fournis en français, en anglais ou dans les deux langues officielles, selon la demande du premier usager du véhicule.
+**(9)** Les renseignements doivent être fournis en français, en anglais ou dans les deux langues officielles, selon la demande du premier usager du véhicule.
 
 
 
 
-> DORS/79-940, art. 7; DORS/95-164, art. 6; DORS/97-264, art. 3; DORS/97-421, art. 6; DORS/2005-45, art. 4..
+> DORS/79-940, art. 7; DORS/95-164, art. 6; DORS/97-264, art. 3; DORS/97-421, art. 6; DORS/2005-45, art. 4; DORS/2007-246, art. 3..
 
 
 ### Numéro d’identification du véhicule
