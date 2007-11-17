@@ -786,7 +786,7 @@ of the aggregate of the fiscal equalization payment that may be received by Her 
 
 <sup><a href='#fn_Ind46FA_hq_2664'>[*]</a></sup>**123** Subsections 91(2), 103(2), 104(2) and 113(2) come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind46FA_hq_2664'><sup>*</sup></a>: [Note: Subsections 91(2), 103(2), 104(2) and 113(2) not in force.]<br />
+<a name='fn_Ind46FA_hq_2664'><sup>*</sup></a>: [Note: Subsection 103(2) in force November 17, 2007, *see* SI/2007-105; subsections 91(2), 104(2) and 113(2) in force November 17, 2007, *see* SI/2007-106.]<br />
 
 
 
