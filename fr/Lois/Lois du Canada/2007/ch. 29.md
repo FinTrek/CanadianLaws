@@ -788,7 +788,7 @@ où :
 
 <sup><a href='#fn_Ind3113_hq_2661'>[*]</a></sup>**123** Les paragraphes 91(2), 103(2), 104(2) et 113(2) entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='fn_Ind3113_hq_2661'><sup>*</sup></a>: [Note : Paragraphes 91(2), 103(2), 104(2) et 113(2) non en vigueur.]<br />
+<a name='fn_Ind3113_hq_2661'><sup>*</sup></a>: [Note : Paragraphe 103(2) en vigueur le 17 novembre 2007, *voir* TR/2007-105; paragraphes 91(2), 104(2) et 113(2) en vigueur le 17 novembre 2007, *voir* TR/2007-106.]<br />
 
 
 
