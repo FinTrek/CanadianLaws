@@ -39,21 +39,21 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***accord spécifique*** Accord conclu entre Sa Majesté du chef du Canada et une première nation participante et portant sur la compétence qu’exerce celle-ci en matière d’éducation sur ses terres autochtones, y compris les modifications qui peuvent lui être apportées conformément à ses dispositions.
+***accord spécifique*** Accord conclu entre Sa Majesté du chef du Canada et une première nation participante et portant sur la compétence qu’exerce celle-ci en matière d’éducation sur ses terres autochtones, y compris les modifications qui peuvent lui être apportées conformément à ses dispositions. (*individual agreement*)
 
-***Autorité scolaire*** L’Autorité scolaire des premières nations constituée par l’article 11.
+***Autorité scolaire*** L’Autorité scolaire des premières nations constituée par l’article 11. (*Authority*)
 
-***conseil de la première nation participante*** Le conseil de la bande au sens du paragraphe 2(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md).
+***conseil de la première nation participante*** Le conseil de la bande au sens du paragraphe 2(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md). (*council of a participating First Nation*)
 
-***éducation*** Les programmes et services éducatifs de même nature que ceux généralement fournis aux écoliers, de la classe maternelle jusqu’à la douzième année.
+***éducation*** Les programmes et services éducatifs de même nature que ceux généralement fournis aux écoliers, de la classe maternelle jusqu’à la douzième année. (*education*)
 
-***loi autochtone*** Loi visée au paragraphe 9(1).
+***loi autochtone*** Loi visée au paragraphe 9(1). (*First Nation law*)
 
-***ministre*** Le ministre des Affaires indiennes et du Nord canadien.
+***ministre*** Le ministre des Affaires indiennes et du Nord canadien. (*Minister*)
 
-***première nation participante*** Bande dont le nom figure à l’annexe.
+***première nation participante*** Bande dont le nom figure à l’annexe. (*participating First Nation*)
 
-***terres autochtones*** Réserve, au sens du paragraphe 2(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), située en Colombie-Britannique et mise de côté pour la première nation participante. Sont visées par la présente définition les terres de la première nation au sens du paragraphe 2(1) de la [Loi sur la gestion des terres des premières nations](/fr/Lois/Lois%20du%20Canada/1999/ch.%2024.md).
+***terres autochtones*** Réserve, au sens du paragraphe 2(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), située en Colombie-Britannique et mise de côté pour la première nation participante. Sont visées par la présente définition les terres de la première nation au sens du paragraphe 2(1) de la [Loi sur la gestion des terres des premières nations](/fr/Lois/Lois%20du%20Canada/1999/ch.%2024.md). (*First Nation land*)
 
 **Terminologie : [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md)**
 
@@ -471,7 +471,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#F-11.75_f_s35'>[*]</a></sup>**35** Les dispositions de la présente loi entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='F-11.75_f_s35'><sup>*</sup></a>: [Note : Loi non en vigueur.]<br />
+<a name='F-11.75_f_s35'><sup>*</sup></a>: [Note : Loi en vigueur le 22 novembre 2007, *voir* TR/2007-91.]<br />
 
 
 
