@@ -39,21 +39,21 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** The following definitions apply in this Act.
 
-***Authority*** means the First Nations Education Authority established by section 11.
+***Authority*** means the First Nations Education Authority established by section 11. (*Autorité scolaire*)
 
-***council of a participating First Nation*** has the same meaning as the expression ***council of the band*** in subsection 2(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md).
+***council of a participating First Nation*** has the same meaning as the expression ***council of the band*** in subsection 2(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md). (*conseil de la première nation participante*)
 
-***education*** means education programs and services of a nature generally provided to students from kindergarten to grade 12.
+***education*** means education programs and services of a nature generally provided to students from kindergarten to grade 12. (*éducation*)
 
-***First Nation land*** means a ***reserve***, as that term is defined in subsection 2(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), that is situated in British Columbia and that is set apart for a participating First Nation, and includes ***first nation land*** as that term is defined in subsection 2(1) of the [First Nations Land Management Act](/en/Acts/Statutes%20of%20Canada/1999/c.%2024.md).
+***First Nation land*** means a ***reserve***, as that term is defined in subsection 2(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), that is situated in British Columbia and that is set apart for a participating First Nation, and includes ***first nation land*** as that term is defined in subsection 2(1) of the [First Nations Land Management Act](/en/Acts/Statutes%20of%20Canada/1999/c.%2024.md). (*terres autochtones*)
 
-***First Nation law*** means a law made under subsection 9(1).
+***First Nation law*** means a law made under subsection 9(1). (*loi autochtone*)
 
-***individual agreement*** means an agreement entered into between Her Majesty in right of Canada and a participating First Nation with respect to jurisdiction over education by the participating First Nation on First Nation land, and includes any amendments to the agreement made pursuant to its provisions.
+***individual agreement*** means an agreement entered into between Her Majesty in right of Canada and a participating First Nation with respect to jurisdiction over education by the participating First Nation on First Nation land, and includes any amendments to the agreement made pursuant to its provisions. (*accord spécifique*)
 
-***Minister*** means the Minister of Indian Affairs and Northern Development.
+***Minister*** means the Minister of Indian Affairs and Northern Development. (*ministre*)
 
-***participating First Nation*** means a band named in the schedule.
+***participating First Nation*** means a band named in the schedule. (*première nation participante*)
 
 **Words and expressions in [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md)**
 
@@ -475,7 +475,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#F-11.75_e_s35'>[*]</a></sup>**35** The provisions of this Act come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='F-11.75_e_s35'><sup>*</sup></a>: [Note: Act not in force.]<br />
+<a name='F-11.75_e_s35'><sup>*</sup></a>: [Note: Act in force November 22, 2007, *see* SI/2007-91.]<br />
 
 
 
