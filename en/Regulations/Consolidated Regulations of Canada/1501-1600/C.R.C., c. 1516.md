@@ -1,6 +1,6 @@
 > [Go to French version](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1501-1600/C.R.C.,%20ch.%201516.md)
 
-# Regulations Respecting The Administration and Disposition of Minerals Belonging to Her Majesty in Right of Canada Under All Lands Forming Part of The Northwest Territories
+# Northwest Territories and Nunavut Mining Regulations
 
 **C.R.C., c. 1516**
 
@@ -10,16 +10,14 @@ Enabling authorities:
 ----------
 
 
-
-## Short Title
-
-
-**1** These Regulations may be cited as the Canada Mining Regulations.
+**1** [Repealed, SOR/2007-273, s. 2]
 
 
 
 
 ## Interpretation
+> [SOR/2007-273, s. 3(F)]
+
 
 
 **2** 
@@ -34,7 +32,7 @@ Enabling authorities:
 
 ***authorized officer*** means any person authorized by the Minister to perform any function related to the administration and enforcement of these Regulations; (*agent autorisé*)
 
-***Chief*** means the Director, Mineral Resources, of the Natural Resources and Environment Branch of the Department of Indian Affairs and Northern Development; (*chef*)
+***Chief*** means the Chief of Financial Analysis and Royalties Administration of the Mineral Resources Directorate of the Natural Resources and Environment Branch of the Department of Indian Affairs and Northern Development; (*chef*)
 
 ***claim*** means a plot of land located or acquired in the manner prescribed by these Regulations; (*claim*)
 
@@ -44,7 +42,7 @@ Enabling authorities:
 
 ***Department*** means the Department of Indian Affairs and Northern Development; (*ministère*)
 
-***depreciable assets***, in respect of a mine, means buildings, plant, machinery and equipment that form part of the mine; (*actif amortissable*)
+***depreciable assets*** means buildings, plant, machinery and equipment; (*actif amortissable*)
 
 ***Deputy Mining Recorder*** means a person designated as a Deputy Mining Recorder pursuant to section 4; (*registraire minier adjoint*)
 
@@ -58,11 +56,11 @@ Enabling authorities:
 
 ***identification tag*** means a tag used to mark a corner of a claim and made of a substance and of a size approved by the Minister and issued as one of a set of four by the Mining Recorder; (*plaque d’identification*)
 
-***lease*** means a lease of a recorded claim granted to the holder of the claim pursuant to section 58; (*concession*)
+***lease*** means a lease of a recorded claim granted to the holder of the claim pursuant to section 58; (*bail*)
 
 ***legal post*** means a post, tree, mound of earth or stone used for making a claim in accordance with section 14; (*borne légale*)
 
-***lessee*** means a person in whose name a lease of a claim is granted under these Regulations; (*concessionnaire*)
+***lessee***[Repealed, SOR/2007-273, s. 4]
 
 ***licence*** means a licence to prospect issued under section 8; (*licence*)
 
@@ -72,11 +70,9 @@ Enabling authorities:
 
 ***locator*** means a licensee who locates a claim or for whom a claim is located; (*localisateur*)
 
-***mine*** means any work or undertaking in which minerals or ore containing minerals are removed from the earth or from talus by any method, and includes works, mills, concentrators, machinery, plant and buildings below or above ground belonging to or used in connection with the mine; (*mine*)
+***mine*** means a work or undertaking that produces or has produced minerals or processed minerals from the lands referred to in section 3, and includes the depreciable assets that are located in the Territories, below or above ground and used in connection with the work or undertaking; (*mine*)
 
-***mineral*** means precious and base metals and other naturally occurring substances that can be mined, but does not include
-- **(a)** coal, petroleum and related hydrocarbons, native sulphur, construction stone, carving stone, limestone, soapstone, marble, gypsum, shale, clay, sand, gravel, volcanic ash, earth, ochre, marl or peat, or
-- **(b)** any other substances regulated under the [Territorial Coal Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1501-1600/C.R.C.,%20c.%201522.md), the [Territorial Dredging Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1501-1600/C.R.C.,%20c.%201523.md) or the [Territorial Quarrying Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1501-1600/C.R.C.,%20c.%201527.md); (*minéraux*)
+***mineral*** means any naturally occurring inorganic substance found on or under any surface of land, but does not include native sulphur, construction stone, carving stone, limestone, soapstone, marble, gypsum, shale, clay, sand, gravel, volcanic ash, diatomaceous earth, ochre, granite, slate, marl, loam, earth, flint, sodium chloride or soil; (*minéral*)
 
 ***mineral claim staking sheet*** means
 - **(a)** a map of an area bounded on the north and south by 15-minute intervals of latitude and on the east and west by 30-minute intervals of longitude south of 68 degrees north latitude, or
@@ -85,30 +81,37 @@ Enabling authorities:
 ***mining district*** means an area established as a mining district pursuant to paragraph 23(g) of the Act; (*district minier*)
 
 ***mining property*** means
-- **(a)** a recorded claim or lease within the boundaries of which a mine is situated, or
-- **(b)** a group of contiguous recorded claims or leases, or both, within the boundaries of which a mine is situated,
-	- **(i)** that are held by the same owner, or
-	- **(ii)** where the mine is operated as a joint venture, that are held exclusively by the members of the joint venture or parties related thereto, regardless of the degree of ownership of each claim or lease; (*propriété minière*)
+- **(a)** a recorded claim, or a recorded claim that is subject to a lease, within the boundaries of which a mine or part of a mine is situated, or
+- **(b)** a group of contiguous recorded claims, whether or not subject to a lease, within the boundaries of which a mine or part of a mine is situated,
+	- **(i)** that are the property of the same owner, or
+	- **(ii)** if the mine is operated as a joint venture, that are owned exclusively by the members of the joint venture or parties related to the members of the joint venture, regardless of the degree of ownership of each claim or lease; (*propriété minière*)
+
+***mining reclamation trust*** means a trust that is established for a mine and
+- **(a)** is created for the purposes of subsection 17(1) of the [Northwest Territories Waters Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2039.md) or subsection 76(1) of the [Nunavut Waters and Nunavut Surface Rights Tribunal Act](/en/Acts/Statutes%20of%20Canada/2002/c.%2010.md), or
+- **(b)** is created as a condition of
+	- **(i)** a lease issued under the [Territorial Lands Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1501-1600/C.R.C.,%20c.%201525.md),
+	- **(ii)** a contract with the Minister relating to the reclamation or environmental management of a mining property, or
+	- **(iii)** a permit issued under Part 3 or 4 of the [Mackenzie Valley Resource Management Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2025.md) or under the [Territorial Land Use Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1501-1600/C.R.C.,%20c.%201524.md); (*fiducie de restauration minière*)
 
 ***Mining Recorder*** means a person designated as a mining recorder pursuant to section 4; (*registraire minier*)
 
-***mining royalty valuer*** means a person designated by the Minister as a mining royalty valuer; (*évaluateur des redevances minières*)
+***mining royalty valuer*** means a person acting on the Minister’s behalf for the purpose of ascertaining the value of minerals or processed minerals produced from a mine; (*évaluateur des redevances minières*)
 
 ***Minister*** means the Minister of Indian Affairs and Northern Development; (*ministre*)
 
-***owner***, in respect of a claim, lease, mine, mining property or abandoned mining work, means any person with a legal or beneficial interest therein; (*propriétaire*)
+***owner***, in respect of a recorded claim, lease, mine or mining property, means any person with a legal or beneficial interest in the recorded claim, lease, mine or mining property; (*propriétaire*)
 
 ***permit*** means a permit to prospect issued under section 29; (*permis*)
 
 ***permittee*** means a person who holds a permit; (*titulaire de permis*)
 
-***processing*** means
-- **(a)** crushing, grinding, floatation, beneficiation, concentrating, milling, roasting, smelting, leaching, recrystallization or refining performed to recover minerals from ore or from a mineral-bearing substance, or
-- **(b)** where the output of a mine is precious or semi-precious stones, cleaning and sorting that output; (*traitement*)
+***precious stone*** means a diamond, a sapphire, an emerald or a ruby; (*pierre précieuse*)
+
+***processing*** means crushing, grinding, floatation, beneficiation, concentrating, milling, roasting, smelting, leaching, recrystallization or refining performed on minerals, and if the output of a mine is precious stones, cleaning and sorting that output; (*traitement*)
 
 ***processing assets*** means tailings disposal facilities and depreciable assets located in the Territories that are used directly and exclusively in processing; (*biens utilisés pour le traitement*)
 
-***qualifying environmental trust*** means a qualifying environmental trust, as defined in subsection 248(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), that is created by a trust indenture approved by the Minister; (*fiducie pour l’environnement admissible*)
+***qualifying environmental trust***[Repealed, SOR/2007-273, s. 4]
 
 ***recorded claim*** means a claim recorded with the Mining Recorder in the manner prescribed by these Regulations; (*claim enregistré*)
 
@@ -118,7 +121,7 @@ Enabling authorities:
 - **(a)** related persons within the meaning of section 251 of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), read without reference to paragraph 251(5)(b),
 - **(b)** associated corporations within the meaning of section 256 of that Act, read without reference to subsection 256(1.4),
 - **(c)** affiliated persons within the meaning of section 251.1 of that Act, or
-- **(d)** other than for the purpose of paragraph 67.1(1)(b), owners or operators of the same mine; (*liées*)
+- **(d)** other than for the purpose of subsection 67.1(1), owners or operators of the same mine; (*liées*)
 
 ***representation work*** means work of a kind described in subsection 38(1); (*travaux obligatoires*)
 
@@ -135,12 +138,12 @@ Enabling authorities:
 ***undeducted balance*** means
 - **(a)** in respect of a depreciation allowance, the original cost of the depreciable assets in respect of which the depreciation allowance is claimed, less any depreciation allowances previously claimed in respect of those assets,
 - **(b)** in respect of a development allowance, the unamortized balance of costs eligible for a development allowance under paragraph 65.1(1)(h), and
-- **(c)** in respect of a qualifying environmental trust contribution allowance, the total of all contributions made to the qualifying environmental trust, less any deductions previously claimed; (*fraction non amortie*)
+- **(c)** in respect of a mining reclamation trust contribution allowance, the total of all contributions made to the mining reclamation trust, less any deductions previously claimed; (*fraction non amortie*)
 
 ***year***, for the purpose of representation work, means the period between the date of the recording of a claim and the anniversary date next following, and then from year to year. (*année*)
 
 - **(2)** For the purposes of these Regulations, a person who is related to another person is considered to be also related to any person to whom the other person is related.
-> SOR/79-234, s. 1; SOR/88-9, s. 2; SOR/92-552, s. 1(F); 1998, c. 14, ss. 101(F), 102(F); SOR/99-219, s. 1.
+> SOR/79-234, s. 1; SOR/88-9, s. 2; SOR/92-552, s. 1(F); 1998, c. 14, ss. 101(F), 102(F); SOR/99-219, s. 1; SOR/2007-273, s. 4.
 
 
 
@@ -149,12 +152,8 @@ Enabling authorities:
 ## Application
 
 
-**3** 
-
-- **(1)** These Regulations apply to lands in the Territories that are vested in Her Majesty in right of Canada or of which the Government of Canada has power to dispose.
-
-- **(2)** These Regulations are subject to any Act governing the production, conservation and control of ores containing radioactive elements.
-> SOR/88-9, s. 3.
+**3** These Regulations apply in respect of territorial lands in the Northwest Territories and in Nunavut referred to in subsections 3(1) and (2) of the Act.
+> SOR/88-9, s. 3; SOR/2007-273, s. 5.
 
 
 
@@ -229,7 +228,7 @@ that is filed with a Mining Recorder as evidence of representation work on a min
 	- **(e)** acquire a lease of a recorded claim.
 
 - **(7)** No person shall locate a claim unless the person is 18 years of age or older.
-> SOR/79-234, s. 4; SOR/97-117, s. 1.
+> SOR/79-234, s. 4; SOR/97-117, s. 1; SOR/2007-273, s. 6(F).
 
 
 
@@ -268,7 +267,7 @@ that is filed with a Mining Recorder as evidence of representation work on a min
 
 **11** 
 
-- **(1)** Subject to any regulations made under the [Territorial Lands Act](/en/Acts/Revised%20Statutes%20of%20Canada/T/T-7.md), a licensee may enter, prospect for minerals and locate claims on lands other than lands
+- **(1)** No licensee shall prospect for minerals or stake a claim on lands
 	- **(a)** to which the National Parks Act applies;
 	- **(b)** used as a cemetery or burial ground;
 	- **(c)** in respect of which a claim has been recorded and has not lapsed;
@@ -280,7 +279,7 @@ that is filed with a Mining Recorder as evidence of representation work on a min
 	- **(i)** [Repealed, SOR/88-9, s. 6]
 
 - **(2)** Where a roadway, railway or other right-of-way is included in a recorded claim, the holder of the claim shall not have the right to enter on the right-of-way for the purpose of prospecting or development without the permission of the Mining Recorder for the district in which the claim is situated, which permission shall not be refused unless the holder has first been given the opportunity of being heard.
-> SOR/88-9, s. 6; SOR/99-219, s. 2.
+> SOR/88-9, s. 6; SOR/99-219, s. 2; SOR/2007-273, s. 7.
 
 
 
@@ -537,12 +536,12 @@ all the information placed in or on the post being replaced and the distance in 
 
 **27** 
 
-- **(1)** Subject to these Regulations and to any other regulations made under section 5 or 23 of the Act, the holder of a recorded claim has the exclusive right to prospect for minerals and to develop any mine on the land within the boundaries of the claim.
+- **(1)** No person other than the holder of a recorded claim or the lessee may prospect on, remove minerals or processed minerals from or develop a mine on land within the boundaries of the recorded claim or recorded claim that is subject to a lease.
 
-- **(2)** No person shall remove, sell or otherwise dispose of minerals or mineral-bearing substances from a recorded claim the gross value of which exceeds $100,000, other than for assay or testing purposes, before the holder of the claim is granted a lease for the claim.
+- **(2)** No person shall remove minerals or processed minerals whose gross value exceeds $100,000 from a recorded claim, other than for the purposes of assay and testing to determine the existence, location, extent, quality or economic potential of a mineral deposit in the lands constituting the recorded claim, before the holder of the claim has been granted a lease for the claim.
 
 - **(3)** The holder of a recorded claim who has not been granted a surface lease or grant of the land comprised in the claim is not entitled to erect any building to be used as a dwelling or any mill, concentrator or other mine building or create any tailings or waste disposal area in connection with the commencement of production from a mine on that claim.
-> SOR/99-219, s. 3.
+> SOR/99-219, s. 3; SOR/2007-273, s. 8.
 
 
 
@@ -563,6 +562,8 @@ by filing with the Mining Recorder a notice of protest in Form 4 of Schedule III
 - **(4)** Where a recorded claim is cancelled under subsection (2), the claim or any part thereof shall be open for relocation under these Regulations
 	- **(a)** after 12 o’clock noon on the day following the 30th day after the day of cancellation; or
 	- **(b)** where a review is made by the Minister and the Minister confirms the cancellation of the claim, after 12 o’clock noon on the day following the 30th day after the day the Minister confirms the cancellation of the claim.
+> SOR/2007-273, s. 9(F).
+
 
 
 
@@ -822,7 +823,9 @@ issue a certificate in Form 8 of Schedule III, giving a common anniversary date 
 
 
 
-**42** No representation work is required to be done on a recorded claim between the day on which an application for a lease of that claim is filed with the Mining Recorder and the day on which a lease is granted, if the holder of the claim has met the requirements of section 58.
+**42** No representation work is required to be done on a recorded claim for the period beginning on the day on which an application for a lease of that claim is filed with the Mining Recorder and ending on the day on which a lease is granted, if the holder of the claim has met the requirements of section 58.
+> SOR/2007-273, s. 10.
+
 
 
 
@@ -896,7 +899,7 @@ the Mining Recorder shall give written notice to the holder specifying the defau
 - **(2)** Where the holder of a recorded claim fails, within 60 days from the date of a notice given to him pursuant to subsection (1), to remedy the default specified in that notice,
 	- **(a)** the claim shall be deemed to have lapsed, without any declaration of cancellation or forfeiture on the part of Her Majesty; and
 	- **(b)** the land within the claim shall be open for relocation under these Regulations after 12 o’clock noon on the day following the first business day following the expiration of the 60 days referred to in subsection (1).
-> SOR/79-234, s. 17.
+> SOR/79-234, s. 17; SOR/2007-273, s. 11(F).
 
 
 
@@ -912,20 +915,20 @@ the Mining Recorder shall give written notice to the holder specifying the defau
 **47** 
 
 - **(1)** An engineer of mines or an authorized officer may, at any reasonable time,
-	- **(a)** enter on any claim or mine site and inspect the claim or mine site or records or books of account kept therein and may take samples or specimens of minerals or ores;
+	- **(a)** enter on any recorded claim, recorded claim that is subject to a lease, or mining property, and inspect the claim, mining property or mine, and records or books of account and take samples of minerals or processed minerals;
 	- **(b)** require the operator of a mine to produce for inspection or for the purpose of obtaining copies thereof or extracts therefrom any records or books of account relating to the operation of the mine; and
 	- **(c)** subject to subsection (2), require the holder of a recorded claim to provide him with copies of any plans, drill logs or reports of geological, geochemical, geophysical, engineering or other surveys relating to exploration, development or operation of the claim or any mine thereon.
 
 - **(2)** Information relating to exploration results not filed as representation work shall be kept confidential until such time as it has been released to the public by the holder of the recorded claim or until the claim or lease lapses or is cancelled, whichever is the earlier.
 
-- **(3)** Every authorized officer shall be furnished with a certificate of authorization and on entering any claim or mine site, or any premises or place described in subparagraph (1)(a)(ii), shall, if so required, produce the certificate to the owner or persons in charge thereof.
+- **(3)** Every authorized officer shall be furnished with a certificate of authorization and, on entering any claim, mining property or mine, shall, if requested, produce the certificate to the owner or persons in charge of that place.
 
-- **(4)** The owner or person in charge of any claim or mine site or any premises or place described in subparagraph (1)(a)(ii) and every person found therein shall give to an authorized officer all reasonable assistance in his power to enable the officer to carry out his duties and functions under these Regulations, and shall furnish him with such information with respect to the administration and enforcement of these Regulations as he may reasonably require.
+- **(4)** The owner or person in charge of any claim, mining property or mine and every person found in that place shall give the authorized officer all reasonable assistance in their power to enable that officer to carry out his or her duties and functions under these Regulations, and shall furnish that officer with any information with respect to the administration and enforcement of these Regulations as may reasonably be required.
 
 - **(5)** No person shall obstruct or hinder an authorized officer in carrying out his duties and functions under these Regulations.
 
 - **(6)** No person shall make a false or misleading statement either orally or in writing to an authorized officer engaged in carrying out his duties and functions under these Regulations.
-> SOR/88-9, s. 15.
+> SOR/88-9, s. 15; SOR/2007-273, s. 12.
 
 
 
@@ -1104,6 +1107,8 @@ by filing with the Mining Recorder a notice of protest in Form 4 of Schedule III
 
 
 ## Leases
+> [SOR/2007-273, s. 13(F)]
+
 
 
 **58** 
@@ -1142,7 +1147,7 @@ by filing with the Mining Recorder a notice of protest in Form 4 of Schedule III
 - **(9)** The Chief shall notify the Mining Recorder of the granting of a lease of a recorded claim and of any assignment of that lease or of any interest therein.
 
 - **(10) to (12)** [Repealed, SOR/88-9, s. 17]
-> SOR/79-234, s. 20; SOR/88-9, s. 17.
+> SOR/79-234, s. 20; SOR/88-9, s. 17; SOR/2007-273, s. 14(F).
 
 
 
@@ -1161,7 +1166,7 @@ by filing with the Mining Recorder a notice of protest in Form 4 of Schedule III
 	- **(a)** the part to be surrendered comprises one or more entire mineral claims that were recorded before the coming into force of these Regulations, or
 	- **(b)** if the part to be surrendered is a mineral claim recorded after the coming into force of these Regulations or part of such a mineral claim, the area contained in the lease is reduced in accordance with section 43, and
 the reduced area is surveyed in accordance with sections 54 to 57.
-> SOR/79-234, s. 21; SOR/99-219, s. 4.
+> SOR/79-234, s. 21; SOR/99-219, s. 4; SOR/2007-273, s. 15(F).
 
 
 
@@ -1180,67 +1185,96 @@ whichever is the lesser.
 - **(4)** The Chief shall, 30 days after the date on which the rent is due, send to each lessee who has not paid his rent for the year a notice in Form 16 of Schedule III stating the amount of rent due for the year.
 
 - **(5)** Where the rent due under a lease of a recorded claim is not paid within 60 days from the date indicated on the notice sent pursuant to subsection (4), the Minister may cancel the lease.
+> SOR/2007-273, s. 16(F).
+
 
 
 
 **61** 
 
-- **(1)** A lease of a recorded claim shall be in such form as the Minister may determine and contain such terms and conditions as may be prescribed by these Regulations and other applicable legislation.
+- **(1)** A lessee may, by giving a notice in writing to the Mining Recorder, surrender the lease.
 
-- **(2)** A lessee may, at any time during the term of a lease, with the approval of the Chief, surrender his interest in the lease, and the area covered by the lease shall be open for relocation under these Regulations on a day fixed by the Chief.
+- **(2)** A surrender of a lease is effective on the day on which it is recorded by the Mining Recorder.
+> SOR/88-9, s. 18; SOR/2007-273, s. 17.
 
-- **(3)** Where a lease lapses or is cancelled,
-	- **(a)** the area covered by the lease or any part thereof shall be open for relocation under these Regulations after 12 o’clock noon on the day following the first business day following the day that the lease lapsed or was cancelled; and
-	- **(b)** the lessee, if he is not under an obligation to pay any moneys to Her Majesty in respect of the lease, may remove from the area covered by the lease all his personal property including any minerals or ore extracted from the claim at any time within
-		- **(i)** 180 days from the date that the lease lapsed or was cancelled, or
-		- **(ii)** such additional period, not exceeding one year, as the Mining Recorder may fix.
-> SOR/88-9, s. 18.
+
+
+
+**61.1** If a lease expires or is cancelled or surrendered, the area of the recorded claim that formed the subject of that lease shall be open for staking under these Regulations as of noon on the day after the first business day after the day on which the lease expired or was cancelled or surrendered, as the case may be.
+> SOR/2007-273, s. 17.
 
 
 
 
 
 ## Transfer of a Claim or Lease
-> [SOR/88-9, s. 19]
-
 
 
 **62** 
 
-- **(1)** Subject to subsections (4) and (5), a recorded claim or lease, or an interest therein, may be transferred to a licensee at any time.
+- **(1)** Subject to subsections (2) to (5) and section 62.1, a holder of a recorded claim or lease or, if the holder has died or become insolvent, an executor, an administrator or a trustee may transfer the claim or lease at any time to a licensee.
 
-- **(2)** A transfer of a lease shall be filed with the Chief together with
+- **(2)** All transfers of a recorded claim or lease shall be in a form prescribed by the Minister under section 28 of the Act and shall be signed by the holder of the claim or the lessee and the assignee and filed with the Mining Recorder, accompanied by
 	- **(a)** the applicable fee set out in Schedule I; and
-	- **(b)** the original lease.
+	- **(b)** in the case of a transfer of a lease, a duplicate original lease.
 
-- **(3)** A transfer of a recorded claim, or of any interest therein, shall be
-	- **(a)** filed with the Mining Recorder of the mining district in which the claim is situated, in a form prescribed by the Minister under section 28 of the Act; and
-	- **(b)** signed by the holder of the claim.
+- **(3)** No transfer of a recorded claim or lease is effective until the Mining Recorder has recorded it.
 
-- **(4)** No lease, or any interest therein, may be transferred if rent owing under the lease is unpaid.
+- **(4)** Subject to subsection 62.1(1), the Mining Recorder shall not record the transfer of a lease if rent owing under the lease is unpaid.
 
-- **(5)** No recorded claim or lease that is part of a mining property, or any interest therein, shall be transferred if mining royalties are due and unpaid in respect of the mining property, unless security in the amount of the unpaid royalties has been deposited with the Minister.
-> SOR/88-9, s. 20; SOR/99-219, s. 5.
+- **(5)** Subject to subsection 62.1(1), the Mining Recorder shall not record the transfer of a recorded claim or lease of a mining property in respect of which mining royalties are due and unpaid, unless security in the amount of the unpaid royalties has been deposited with the Minister.
+> SOR/88-9, s. 20; SOR/99-219, s. 5; SOR/2007-273, s. 17.
 
+
+
+
+**62.1** 
+
+- **(1)** At the written request of the Minister, the Mining Recorder shall record a transfer of a recorded claim or a recorded claim subject to a lease to Her Majesty if
+	- **(a)** the Minister has realized on a charge or security over the real property of the holder of the claim or the lessee for the costs of remedying the environmental condition or environmental damage under subsection 11.8(8) of the [Companies’ Creditors Arrangement Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-36.md) or subsection 14.06(7) of the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md);
+	- **(b)** the claim or lease has been transferred to Her Majesty by a court order made under the [Companies’ Creditors Arrangement Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-36.md) or the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md); or
+	- **(c)** the Minister has accepted the claim or lease as a security in respect of a debt or other obligation owed to Her Majesty and the Minister has realized on the security under section 156 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md).
+
+- **(2)** In the case of a recorded claim transferred to Her Majesty
+	- **(a)** the requirements for the payment of fees and for representation work in respect of the claim are suspended for the period during which the claim is held by Her Majesty; and
+	- **(b)** the periods set out in subsections 38(2) and 58(1) and section 59 are extended by the period during which the claim or lease is held by Her Majesty.
+
+- **(3)** In the case of a lease transferred to Her Majesty, no rent is payable on the lease for the period during which the lease is held by Her Majesty.
+
+- **(4)** A recorded claim or lease that has been transferred to her Majesty under subsection (1) may be transferred to a licencee.
+> SOR/2007-273, s. 17.
+
+
+
+
+
+## Other Documents
+> [SOR/2007-273, s. 17]
 
 
 
 **63** 
 
 - **(1)** A Mining Recorder shall register
-	- **(a)** every judgement or order relating to ownership of a claim or lease made by a judge of a court of competent jurisdiction, the Minister, the Supervising Mining Recorder or a Mining Recorder;
+	- **(a)** every judgment or order relating to the ownership of a recorded claim or a lease made by a judge of a court of competent jurisdiction, the Minister, the Supervising Mining Recorder or a Mining Recorder;
 	- **(b)** against the recorded claims and leases that constitute a mining property or any interest therein, a notice of mining royalties due and unpaid for the amount of any mining royalties payable that have not been paid within 30 days after
 		- **(i)** the delivery to the Chief of a mining royalty return in respect thereof, or
 		- **(ii)** where a notice of assessment has been sent under subsection 67.2(1) or (2), the date of the notice of assessment, unless an application for review of the assessment has been made under section 84; and
 	- **(c)** subject to subsection (2), on the payment of the applicable fee set out in Schedule I, every other document filed in relation to a claim or lease.
 
-- **(2)** No notice of an express or constructive trust shall be registered against a recorded claim.
+- **(2)** No notice of an express or constructive trust shall be recorded against a recorded claim or lease other than those trusts administered by the persons referred to in subsection 62(1).
 
 - **(3)** All persons shall be considered to have received notice of every document registered under subsection (1) as of the date of registration of the document.
 
 - **(4)** A transfer of a recorded claim or lease, or any interest therein, is subject to all judgements, orders, liens and other encumbrances that were registered against the claim or lease, or any interest therein, at the time of registration of the transfer.
-> SOR/99-219, s. 5.
+> SOR/99-219, s. 5; SOR/2007-273, s. 18.
 
+
+
+
+
+## Royalties
+> [SOR/2007-273, s. 19]
 
 
 
@@ -1248,28 +1282,26 @@ whichever is the lesser.
 
 - **(1)** For the purposes of these Regulations, the date on which a mine commences production is
 	- **(a)** where the mine includes a mill or concentrator, the first day of the first 90-day period during which the mill or concentrator operates at an average of at least 60 per cent of its rated capacity; and
-	- **(b)** where the mine does not include a mill or concentrator, the day the mine begins to produce minerals or mineral-bearing substances in reasonable commercial quantities.
+	- **(b)** if the mine does not include a mill or concentrator, the day the mine begins to produce minerals in reasonable commercial quantities.
 
-- **(2)** For the purposes of these Regulations, a mineral or mineral-bearing substance shall be considered to be produced and part of the output of a mine if the mineral or mineral-bearing substance is in a saleable form or has been removed from the mine.
+- **(2)** For the purposes of these Regulations, a mineral or processed mineral is considered to be produced and to be part of the output of a mine if the mineral or processed mineral is in a saleable form or has been removed from the mine.
 
-- **(3)** For the purposes of these Regulations, minerals or mineral-bearing substances produced from the reprocessing of tailings from a mine shall be considered to form part of the output of the mine.
+- **(3)** For the purposes of these Regulations, a mineral or processed mineral produced from the reprocessing of tailings from a mine is considered to form part of the output of the mine.
 
 - **(4)** For the purposes of these Regulations,
-	- **(a)** where minerals or mineral-bearing substances that have been sold by an operator to a person not related to the operator are later sold to a person related to the operator, those minerals or mineral-bearing substances shall be considered to have been sold by the operator to a related person; and
-	- **(b)** where minerals or mineral-bearing substances that have been sold by an operator to a person related to the operator are later sold to a person not related to the operator and evidence of that sale is provided, those minerals or mineral-bearing substances shall be considered to have been sold by the operator to a person not related to the operator.
-> SOR/88-9, s. 22; SOR/99-219, s. 5.
+	- **(a)** if minerals or processed minerals that have been sold by an operator to a person not related to the operator are later sold to a person related to the operator, those minerals or processed minerals are considered to have been sold by the operator to a related person; and
+	- **(b)** if minerals or processed minerals that have been sold by an operator to a person related to the operator are later sold to a person not related to the operator and proof of that sale is provided, those minerals or processed minerals are considered to have been sold by the operator to a person not related to the operator.
+> SOR/88-9, s. 22; SOR/99-219, s. 5; SOR/2007-273, s. 20.
 
 
 
 
 **65** 
 
-- **(1)** For each fiscal year, royalties shall be paid to Her Majesty in right of Canada by the owner or operator of every mine on lands referred to in subsection 3(1), on the value of the output of the mine during that fiscal year, in an amount equal to the lesser of
+- **(1)** Each fiscal year, the owner or operator of a mine shall pay to Her Majesty royalties on the value of the mine’s output during that fiscal year in an amount equal to the lesser of
 	- **(a)** 13% of the value of the output of the mine; and
 	- **(b)** the amount calculated in accordance with the following table.
-
-## TABLE
-
+#### TABLE
 <table>
 <tr>
 <th></th>
@@ -1280,11 +1312,6 @@ whichever is the lesser.
 <th>Item</th>
 <th>Value of output ($)</th>
 <th>Royalty payable on that portion of the value</th>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
 </tr>
 <tr>
 <td>1</td>
@@ -1344,45 +1371,67 @@ whichever is the lesser.
 </table>
 
 
-- **(2)** Royalties payable under subsection (1) in respect of a mine accrue during a fiscal year as the output of the mine is produced and shall be paid to the Receiver General and delivered to the Chief not later than the last day of the fourth month after the end of that fiscal year.
+- **(2)** The royalties payable to the Receiver General under subsection (1) in respect of a mine accrue during a fiscal year as the output of a mine is produced and shall be remitted to the Chief not later than the last day of the fourth month after the end of that fiscal year.
 
-- **(3)** Subject to paragraph 67.1(1)(b), Her Majesty may recover the entire amount of the royalties payable on a mine under subsection (1) from any person who was an owner or operator of the mine, or a person related thereto, during the fiscal year in respect of which the royalties were payable.
+- **(3)** Subject to paragraph 67.1(1)(b), any person who was an owner or operator of a mine during the fiscal year in respect of which the royalties were payable is jointly and severally liable for the entire amount of the royalties payable in respect of the period during which that person was an owner or operator.
 
 - **(4)** For the purposes of this section, the value of the output of a mine for a fiscal year shall be calculated in accordance with the formula
 ```
-A + B - C + D + E + F + G + H - I
+A + B - C + D + E + F + G + H - I + J
 ```
 where
 - **A** is the total of
-- **(a)** the proceeds from sales, during the fiscal year, of minerals or mineral-bearing substances produced from the mine to persons not related to the operator, where evidence of those sales is provided, and
-- **(b)** the market value of any minerals or mineral-bearing substances produced from the mine that were otherwise sold or transferred during the fiscal year, determined under subsection (5),
-- **B** is the market value of any inventories of minerals or mineral-bearing substances produced from the mine, as at the end of the fiscal year, determined under subsection (5),
-- **C** is the market value of any inventories of minerals or mineral-bearing substances produced from the mine, as at the beginning of the fiscal year, determined under subsection (5),
+- **(a)** the proceeds from sales, during the fiscal year, of minerals or processed minerals produced from the mine to persons not related to the operator, if proof of those sales is provided,
+- **(b)** the market value of any minerals or processed minerals produced from the mine that were sold or transferred to a person related to the operator, or to any other person if the proof of that disposition is not provided, and
+- **(c)** if the minerals or processed minerals produced from the mine are precious stones that have been cut or polished before their sale or transfer, the market value of those precious stones before they were cut or polished,
+- **B** is the market value of any inventories of minerals and processed minerals produced from the mine, as at the end of the fiscal year, determined under subsection (5),
+- **C** is the market value of any inventories of minerals and processed minerals produced from the mine, as at the beginning of the fiscal year, determined under subsection (5),
 - **D** is the lesser of
 - **(a)** the amount of any payment received during the fiscal year that is related to a cost that has been claimed as a deduction or allowance under this section, and
 - **(b)** that cost,
 - **E** is any excess amount referred to in paragraph 65.1(5)(b),
-- **F** is any amount withdrawn during the fiscal year from a qualifying environmental trust established in respect of the mine, up to a maximum of the aggregate of the amounts contributed to the trust,
-- **G** is any proceeds received during the fiscal year from insurance on minerals or mineral-bearing substances produced from the mine,
-- **H** is the amount of any grants in respect of the mine that were made to the operator, or of any loans to the operator in respect of the mine that were forgiven, by the federal government during the fiscal year, and
-- **I** is the total of the deductions and allowances claimed under subsection 65.1(1).
+- **F** is any amount withdrawn, during the fiscal year, from a mining reclamation trust established in respect of lands referred to in section 3, up to the maximum of the total of the amounts contributed to the trust,
+- **G** is the amount of any proceeds received, during the fiscal year, from insurance on minerals or processed minerals produced from the mine,
+- **H** is the amount of any grants in respect of the mine that were made to the operator, or of any loans to the operator in respect of the mine that were forgiven, by the federal government during the fiscal year,
+- **I** is the total of the deductions and allowances claimed under subsection 65.1(1), and
+- **J** is the total of
+- **(a)** the amount by which the sum of the amounts referred to in paragraphs 65.1(8)(d) and (8.1)(e) exceeds the undeducted balance of the depreciable assets eligible for a depreciation allowance at the end of the fiscal year, and
+- **(b)** the amount by which the sum of the amounts referred to in paragraphs 65.1(8.1)(c) and (d) exceeds the undeducted balance of the development allowance at the end of the fiscal year.
 
 
 
-- **(5)** Subject to subsection (6), the market value of minerals or mineral-bearing substances sold or transferred to a person related to the operator, or to any other person where evidence of the proceeds of disposition is not provided, and of inventories of minerals and mineral-bearing substances, shall be
-	- **(a)** in respect of precious or semi-precious stones, the maximum amount that would be expected to be realized from the sale of the stones on the open market, after sorting into market assortments,
-		- **(i)** in respect of stones in inventory at the beginning or end of the fiscal year of the mine, as at that time, and
-		- **(ii)** in any other case, as at the last time the stones were valued by the mining royalty valuer; and
-	- **(b)** in respect of any other minerals or mineral-bearing substances, the amount that would be expected to be realized from the sale of those minerals or mineral-bearing substances, to a person who is not related to the operator,
-		- **(i)** at the beginning or end of the fiscal year, where the value is calculated for opening or closing inventory purposes, and
-		- **(ii)** at the time the minerals or mineral-bearing substances were shipped from the mine, where the value is calculated for any other purpose.
+- **(4.1)** For the purpose of determining the value of A in subsection (4), if a mine is operated as a joint venture whose members deliver separate mining royalty returns under subsection 67.1(1),
+	- **(a)** a diversion of any or all of the production of the mine from one member of the joint venture to another does not constitute a sale or transfer for the purposes of subsection 69(2), even if consideration is paid for the diversion; and
+	- **(b)** any consideration paid to the member from whom the production was diverted shall be included by that member as proceeds of sale of minerals or processed minerals produced from the mine.
 
-- **(6)** Where precious or semi-precious stones produced from a mine are to be sold to a person related to the operator of the mine,
-	- **(a)** if the mining royalty valuer and the operator have agreed on a sample and price book for the period during which the valuation takes place and the mining royalty valuer and the operator agree that the stones have been sorted according to that sample, the value of the stones, including their value for inventory purposes, is the value as determined in accordance with the sample and price book; or
-	- **(b)** if the mining royalty valuer and the operator agree on a value for the stones, the value of the stones, including their value for inventory purposes, is the agreed-on value.
+- **(4.2)** No costs related to the production of or value for minerals or processed minerals from the lands other than those referred to in section 3 shall be taken into account for the purposes of determining the values of A to D, G and I in subsection (4).
 
-- **(7)** Gains and losses from hedging transactions shall not be included in calculating the value of the output of a mine.
-> SOR/79-234, s. 22; SOR/88-9, s. 23; SOR/98-433, s. 1; SOR/99-219, s. 5.
+- **(4.3)** In the case of a mining royalty return for the last year of production of a mine, the operator may, for the purpose of determining the value of B in subsection (4), elect to use the actual proceeds from the sale to a party not related to the operator of minerals or processed minerals in inventory at the end of the fiscal year, if proof of that sale is provided, rather than the market value of the inventory of minerals or processed minerals at the end of that fiscal year as required under subsection (4).
+
+- **(4.4)** An election made under subsection (4.3) is irrevocable.
+
+- **(5)** If the minerals or processed minerals referred to in paragraphs (b) and (c) of the description of A, and in the descriptions of B and C, in subsection (4) are precious stones, the market value of the precious stones is as follows:
+	- **(a)** if the mining royalty valuer and the operator agree on a value for the stones, that value; or
+	- **(b)** if the mining royalty valuer and the operator cannot agree on a value for the stones, the maximum amount that could be realized from the sale of the stones on the open market after they are sorted into market assortments.
+
+- **(6)** For the purpose of subsection (5), the market value shall be determined
+	- **(a)** when the value is calculated for inventory purposes, at the beginning or end of the fiscal year; and
+	- **(b)** when the value is calculated for any other purpose, as at the last time the precious stones were valued by the mining royalty valuer.
+
+- **(7)** If the minerals and processed minerals referred to in paragraphs (b) and (c) of the description of A, and in the descriptions of B and C, in subsection (4) are not precious stones, their market value is the price that could be obtained from their sale to a person who is not related to the operator.
+
+- **(8)** For the purpose of subsection (7), the market value shall be determined
+	- **(a)** when the value is calculated for inventory purposes, at the beginning or end of the fiscal year; and
+	- **(b)** when the value is calculated for any other purpose, at the time the minerals or processed minerals are shipped from the mine.
+
+- **(9)** Gains and losses from hedging transactions shall not be included in calculating the value of the mine’s output.
+
+- **(10)** For the purpose of these Regulations, the Bank of Canada’s noon exchange rate shall be used to convert foreign currencies into Canadian dollars:
+	- **(a)** as at the date of that transaction if a transaction is carried out in a foreign currency; and
+	- **(b)** as at the last day of the fiscal year if inventories have been valued in a foreign currency.
+
+- **(11)** When operating costs are incurred for operations outside of Canada, the operator may convert foreign currency transactions for those costs into Canadian dollars using the Bank of Canada’s average noon exchange rate for the month in which those expenses costs incurred.
+> SOR/79-234, s. 22; SOR/88-9, s. 23; SOR/98-433, s. 1; SOR/99-219, s. 5; SOR/2007-273, s. 21.
 
 
 
@@ -1390,33 +1439,38 @@ where
 **65.1** 
 
 - **(1)** In calculating the value of the output of a mine for a fiscal year, only the following deductions and allowances may be claimed:
-	- **(a)** the costs, incurred during the fiscal year, of sorting, valuing, marketing and selling the minerals or mineral-bearing substances produced from the mine;
-	- **(b)** the costs, incurred during the fiscal year, of insurance, storage, handling and transportation to the smelter, treatment plant or refinery or to market of, and any duties payable in respect of, the minerals or mineral-bearing substances produced from the mine;
-	- **(c)** the costs, incurred during the fiscal year, of mining and processing ore or mineral-bearing substances from the mine or of reprocessing tailings from the mine;
-	- **(d)** the costs, incurred during the fiscal year, of repair and maintenance at the mine;
+	- **(a)** the costs, incurred during the fiscal year, of sorting, valuing, marketing and selling the minerals or processed minerals produced from the mine;
+	- **(b)** the costs, incurred during the fiscal year, of insurance, storage, handling and transportation to the processing plant or market, in respect of the minerals or processed minerals produced from the mine;
+	- **(c)** the costs, incurred during the fiscal year, of mining and processing minerals or processed minerals from the mine;
+	- **(d)** the costs, incurred during the fiscal year, of repair, maintenance or reclamation at the mine;
+	- **(d.1)** the consideration paid by a member of a joint venture for minerals or processed minerals diverted from another member of the joint venture, when each member is delivering a separate mining royalty return in accordance with section 67.1;
 	- **(e)** general and indirect costs incurred during the fiscal year for property, employees or operations at the mine that are not otherwise allocated to operating costs;
 	- **(f)** exploration costs incurred during the fiscal year by an owner of the mine on land referred to in subsection 3(1), other than on the mining property, if those costs have not been otherwise claimed as an allowance or deduction under these Regulations, in an amount not exceeding 10 per cent of the value of the output of the mine multiplied by the owner’s share of that output, calculated
 		- **(i)** after deduction of the costs referred to in paragraphs (a) to (e), and
-		- **(ii)** before deduction of any depreciation allowance, qualifying environmental trust contribution allowance, development allowance or processing allowance;
-	- **(g)** subject to subsection (5), a depreciation allowance, not exceeding the undeducted balance of the depreciable assets at the end of the fiscal year of the mine;
-	- **(h)** a development allowance, determined by the operator, not exceeding the undeducted balance at the end of the fiscal year of the mine of
+		- **(ii)** before the deduction of any depreciation allowance, mining reclamation trust contribution allowance, development allowance or processing allowance;
+	- **(g)** subject to subsection (5), paragraphs (8)(d) and (8.1)(e) and subsection (9), a depreciation allowance for the depreciable assets of the mine, and for the depreciable assets of any facilities located outside the Territories that are used for the processing of minerals or processed minerals produced from the mine in an amount not exceeding the undeducted balance of the cost of those depreciable assets at the end of the fiscal year of the mine;
+	- **(h)** a development allowance, not exceeding the undeducted balance at the end of the fiscal year of the mine of
 		- **(i)** exploration costs incurred, prior to the date of commencement of production, on the mining property as constituted on the date of commencement of production and not deducted under paragraph (f) in respect of any other mine,
-		- **(ii)** all costs incurred for the purposes of bringing the mine into production, less the aggregate of
-			- **(A)** the value of any minerals or mineral-bearing substances produced from the mining property that were sold or transferred prior to the date of commencement of production, calculated in accordance with section 65, and
-			- **(B)** the market value of any minerals or mineral-bearing substances produced from the mining property that are in inventory on the date of commencement of production, calculated in accordance with subsection 65(5),
+		- **(ii)** all costs incurred before the date of the commencement of production for the purposes of bringing the mine into production less the total of
+			- **(A)** the value of any minerals or processed minerals produced from the mining property that were sold or transferred before the date of commencement of production, calculated in accordance with section 65, and
+			- **(B)** the market value of any minerals or processed minerals produced from the mining property that are in inventory on the date of commencement of production, calculated in accordance with section 65,
 		- **(iii)** exploration costs incurred on the mining property after the date of commencement of production,
 		- **(iv)** costs incurred after the date of commencement of production for workings designed for continuing use, including the clearing, removing or stripping of overburden from a new deposit at the mine, the sinking, excavation or extension of a mine shaft, main haulage way or similar underground work, the construction of an adit or other underground entry and the construction of a road or of tailings disposal structures at the mine, and
-		- **(v)** where minerals or mineral-bearing substances are being produced in reasonable commercial quantities from a recorded claim or lease that was incorporated into the mining property after the date of commencement of production,
+		- **(v)** if minerals or processed minerals are being produced in commercial quantities from a recorded claim or recorded claim that is subject to a lease that was incorporated into the mining property after the date of the commencement of production of the mine, or from another mining property that was incorporated into the mine after the date of the commencement of production,
 			- **(A)** where the claim or lease was purchased, the purchase price of the claim or lease or the amount referred to in clause (B), whichever is the lesser, or
 			- **(B)** in any other case, the costs referred to in subparagraphs (i) and (ii) that were incurred on the incorporated claim or lease and that have not been previously claimed as a deduction or allowance under these Regulations;
-	- **(i)** a qualifying environmental trust contribution allowance, determined by the operator, not exceeding the undeducted balance at the end of the fiscal year of amounts contributed to the qualifying environmental trust in respect of the mine; and
-	- **(j)** if ore or mineral-bearing substances are processed by the operator of the mine prior to sale, an annual processing allowance equal to the lesser of
-		- **(i)** subject to subsection (2), 8 per cent of the original cost of processing assets owned by the operator at the end of the fiscal year of the mine, and
-		- **(ii)** 65 per cent of the value of the output of the mine, after deduction of the amounts referred to in paragraphs (a) to (i).
+	- **(i)** a mining reclamation trust contribution allowance, determined by the operator, not exceeding the undeducted balance at the end of the fiscal year of amounts contributed to the mining reclamation trust with respect to any environmental impact resulting from the mining of minerals from lands referred to in section 3;
+	- **(j)** if minerals or processed minerals are processed by the operator of the mine before their sale or transfer, an annual processing allowance equal to the lesser of
+		- **(i)** subject to subsection (2), 8% of the original cost of the processing assets used by the operator in the processing of the output of the mine during the fiscal year, and
+		- **(ii)** 65% of the value of the output of the mine, after deduction of the amounts referred to in paragraphs (a) to (i); and
+	- **(k)** if minerals or processed minerals from the mine are processed at another mine, or at any facilities located outside the Territories that are used for the processing of minerals or processed minerals produced from another mine that is owned by the operator or by a person related to the operator, the total of
+		- **(i)** the amount of the costs of the other mine that are not deductible under paragraph (8)(b),
+		- **(ii)** the amount by which the processing allowance for the other mine is reduced under paragraph (8)(c), and
+		- **(iii)** the amount by which the undeducted balance of the original cost of the other mine’s depreciable assets is adjusted under paragraph (8)(d).
 
 - **(2)** Where a mine is in production for less than 12 months in a fiscal year or a fiscal year of a mine is less than 12 months,
-	- **(a)** the processing allowance shall be a percentage equal to 8 per cent multiplied by one-twelfth times the number of months in the fiscal year that the mine is in production or the number of months in the shortened fiscal year, as the case may be; and
-	- **(b)** the amounts in column I of the table to subsection 65(1) shall be reduced by multiplying each amount by one-twelfth times the number of months in the fiscal year that the mine is in production or the number of months in the shortened fiscal year, as the case may be.
+	- **(a)** the deduction for processing allowance calculated under subparagraph (1)(j)(i) shall be multiplied by one-twelfth times the number of months in the fiscal year that the mine was in production or the number of months in the shortened fiscal year, as the case may be; and
+	- **(b)** each dollar amount in column I of the table to subsection 65(1) shall be multiplied by one-twelfth times the number of months in the fiscal year that the mine was in production or the number of months in the shortened fiscal year, as the case may be.
 
 - **(3)** Where the operator of a mine claims a deduction for costs incurred in a transaction with a related person, the costs allowed as a deduction under this section shall be the amount of the actual costs incurred by the related person, exclusive of any profit, gain or commission to the related person or to any other related person.
 
@@ -1432,38 +1486,53 @@ where
 
 - **(7)** Where the operator of a mine purchases an asset that is eligible for a depreciation allowance from a related person or transfers to the mine an asset from another mine owned by the operator, the cost of the asset for the purposes of calculating a depreciation allowance is the amount that the operator could be expected to pay to purchase that asset from a person not related to the operator.
 
-- **(8)** Where in a particular fiscal year the operator of a mine uses processing assets at a mine to process mineral or mineral-bearing substances produced at another mine,
-	- **(a)** the revenue earned from the processing shall not be included in the value of the output of that mine;
-	- **(b)** the deductions for the fiscal year for the mill operating costs and asset base used for the calculation of the processing allowance shall be reduced by a percentage equal to the proportion of the mill operating costs attributable to the processing of the minerals or mineral-bearing substances from the other mine in that fiscal year; and
-	- **(c)** the depreciation allowance for depreciable assets involved in processing for the fiscal year shall be reduced by a percentage equal to the proportion of the mill operating costs attributable to the processing of the minerals or mineral-bearing substances from the other mine.
+- **(8)** If, in a particular fiscal year, a mine’s operator uses the mine’s depreciable assets, or any facilities located outside the Territories that are used for the processing of minerals or processed minerals produced from the mine, to process minerals or processed minerals other than those produced from the mine,
+	- **(a)** the revenue earned from the sale or processing of those minerals or processed minerals shall not be included in the value of the output of the mine;
+	- **(b)** the deduction for the costs incurred during the fiscal year under paragraphs (1)(a) to (e) shall be reduced by any costs incurred for the processing of minerals or processed minerals not produced from the mine;
+	- **(c)** the original cost of the processing assets used to calculate the processing allowance amount under subparagraph (1)(j)(i) shall be reduced by an amount equal to the original cost of the processing assets multiplied by the ratio of the costs incurred during the fiscal year under paragraphs (1)(a) to (e) of processing minerals or processed minerals not produced from the mine to the total costs incurred during the fiscal year under those paragraphs of processing all minerals or processed minerals at the mine; and
+	- **(d)** the undeducted balance of the original cost of the mine’s depreciable assets at the end of the fiscal year shall be adjusted to exclude an amount equal to the original cost of the depreciable assets used to process minerals or processed minerals not produced from the mine multiplied by the ratio of the costs incurred under paragraphs (1)(a) to (e) during that fiscal year and all prior fiscal years for the processing through those assets of minerals or processed minerals not produced from the mine to the total costs incurred under those paragraphs during that fiscal year and all prior fiscal years for the processing through those assets of all minerals and processed minerals at the mine.
 
-- **(9)** Where a deduction for a depreciation allowance in a fiscal year has been reduced pursuant to paragraph (8)(c), the undeducted balance of the depreciable assets of the mine that are eligible for a depreciation allowance for the fiscal year shall be reduced by the amount of the depreciation allowance claimed, before any reduction pursuant to that paragraph for the proportion of mill operating costs attributable to the processing of the minerals or mineral-bearing substances from the other mine.
+- **(8.1)** If a mine produces minerals or processed minerals from the lands referred to in section 3 and any other lands,
+	- **(a)** the deduction for the costs incurred during the fiscal year under paragraphs (1)(a) to (e) shall be reduced by any costs incurred for the production of minerals or processed minerals from lands other than those referred to in section 3;
+	- **(b)** the original cost of the processing assets used to calculate the processing allowance under subparagraph (1)(j)(i) shall be reduced by an amount equal to the original cost of the processing assets multiplied by the ratio of the costs incurred during the fiscal year under paragraphs (1)(a) to (e) for the processing of minerals or processed minerals produced from lands other than those referred to in section 3 to the total costs incurred during the fiscal year, under those paragraphs, for the processing of all minerals or processed minerals at the mine;
+	- **(c)** the undeducted balance of costs eligible for the mine’s development allowance at the end of the fiscal year shall be adjusted to exclude an amount equal to the costs referred to in subparagraph (1)(h)(ii) multiplied by the ratio of the costs incurred under paragraphs (1)(a) to (e) during that fiscal year and all prior fiscal years for the production of minerals or processed minerals from lands other than those referred to in section 3 to the total costs incurred under those paragraphs during that fiscal year and all prior fiscal years for the production of all minerals or processed minerals at the mine;
+	- **(d)** the undeducted balance of costs eligible for the mine’s development allowance at the end of the fiscal year shall be adjusted to exclude an amount equal to the costs of the workings referred to in subparagraph (1)(h)(iv) used in the production of minerals or processed minerals from lands other than those referred to in section 3 multiplied by the ratio of the costs incurred under paragraphs (1)(c) to (e) during that fiscal year and all prior fiscal years for the use of those workings in the production of minerals or processed minerals from lands other than those referred to in section 3 to the total costs incurred under those paragraphs during that fiscal year and all prior fiscal years for the use of those workings in the production of all minerals or processed minerals at the mine; and
+	- **(e)** the undeducted balance of the original cost of the mine’s depreciable assets at the end of the fiscal year shall be adjusted to exclude an amount equal to the original cost of the depreciable assets used in the production or processing of minerals or processed minerals produced from lands other than those referred to in section 3 multiplied by the ratio of the costs incurred under paragraphs (1)(a) to (e) during that fiscal year and all prior fiscal years for the use of those assets for the production or processing of minerals or processed minerals produced from lands other than those referred to in section 3 to the total costs incurred under those paragraphs during that fiscal year and all prior fiscal years for the use of those assets for the production or processing of all minerals or processed minerals produced at the mine.
+
+- **(9)** The adjustments referred to in paragraphs (8)(d) and (8.1)(c) to (e) shall each be calculated at the end of each fiscal year of the mine with the difference between the amount calculated for that fiscal year and the amount calculated for the previous fiscal year being added to or subtracted from the undeducted balance of the depreciable assets or the undeducted balance of the costs eligible for the development allowance, as the case may be.
 
 - **(10)** Notwithstanding any other subsection of this section, no deduction or allowance shall be made in respect of a mine in relation to
-	- **(a)** the capital cost of buildings, plant, machinery or equipment, other than under paragraph (1)(g);
-	- **(b)** depletion in the value of the mine or mining property by reason of exhaustion of the ore or minerals;
+	- **(a)** the capital cost of the depreciable assets, other than those subject to the depreciation allowance under paragraph (1)(g);
+	- **(b)** depletion in the value of the mine or mining property by reason of exhaustion of the minerals;
 	- **(c)** where an owner or the operator of the mine is a corporation,
 		- **(i)** remuneration and travel costs of directors,
 		- **(ii)** stock transfer agents’ fees,
-		- **(iii)** the preparation of corporate financial statements, shareholders’ reports and shareholders’ meetings, and
-		- **(iv)** legal, accounting and other costs incurred in connection with incorporations, reorganizations or security or stock issues;
+		- **(iii)** shareholders’ meetings or the preparation of shareholders’ reports, and
+		- **(iv)** legal, accounting and other costs incurred in connection with incorporations, reorganizations, financing or security or stock issues;
 	- **(d)** interest on any debt, including an overdraft, loan, mortgage, advance, debenture or bond, that is capitalized or expensed for accounting purposes;
-	- **(e)** remuneration of executive officers, administrative and consulting costs and costs in respect of offices not located at the minesite, unless that remuneration or those costs are directly related to operations of the mine or to the marketing and selling of minerals or mineral-bearing substances produced from the mine;
-	- **(f)** taxes on profits, property or capital, or payments in lieu of such taxes, paid to any level of government;
-	- **(g)** royalties paid for the use of mining property or royalties calculated on revenue, production or profits of the mine;
+	- **(e)** remuneration of executive officers, administrative and consulting costs and costs in respect of offices not located at the mine site, unless that remuneration or those costs are directly related to operations of the mine or to the marketing and selling of minerals or processed minerals produced from the mine;
+	- **(f)** the taxes on profits, property or capital, or payments in lieu of those taxes, paid to any level of government and the cost of preparing returns in respect of those taxes, except for customs duties, sales and excise taxes not otherwise refundable to the operator and any taxes related to the employment of employees, and the cost of preparing a return in respect of those taxes;
+	- **(g)** the royalties paid for the use of mining property or royalties calculated on revenue, production or profits of the mine, and the cost of calculating the royalties, except for the cost of calculating those royalties that are payable under these Regulations;
 	- **(h)** payments made to an organization, community or corporation, including an aboriginal organization, community or corporation, that are not attributable to the provision of goods and services directly related to the development and operation of the mine or to prospecting and exploration on land referred to in subsection 3(1);
 	- **(i)** payments made for the use or lease of, or access to, the surface of the land on which the mine is located;
 	- **(j)** discounts on bonds, debentures, shares or sales of receivables;
-	- **(k)** increases in reserves or provisions for contingencies, other than in respect of a qualifying environmental trust;
+	- **(k)** increases in reserves or provisions for contingencies, other than in respect of a mining reclamation trust;
 	- **(l)** dues and memberships for persons other than employees involved in the operation of the mine;
-	- **(m)** insurance premiums that are not applicable to minerals or mineral-bearing substances produced from the mine;
+	- **(m)** insurance premiums other than those paid for minerals or processed minerals produced from the mine;
 	- **(n)** costs incurred during the fiscal year to produce revenue that does not form part of the value of the output of the mine;
 	- **(o)** subject to subparagraph 65.1(1)(h)(v), the purchase price of a recorded claim, a lease or a mine;
 	- **(p)** the purchase price of any financial instrument;
 	- **(q)** charitable donations;
-	- **(r)** advertising costs not directly identified with the output of a particular mine; or
-	- **(s)** any cost not evidenced in accordance with generally accepted auditing practices.
-> SOR/99-219, s. 5.
+	- **(r)** advertising costs not directly identified with the output of a particular mine;
+	- **(s)** any cost not evidenced in accordance with generally accepted auditing standards;
+	- **(t)** the cost of inventories of fuel, other consumables and spare parts that have not been consumed in the operation of the mine;
+	- **(u)** the costs of staking or recording a claim, or the cost of surveying the claim for the purpose of taking it to lease;
+	- **(v)** rent paid for the lease of a recorded claim under these Regulations;
+	- **(w)** the cost of preparing any financial information not required for the calculation of mining royalties;
+	- **(x)** any cost incurred after any precious stones have been last valued by the mining royalty valuer, if those stones were sold or transferred to a related party, or to any other person if proof of the disposition is not provided, or if the stones were cut and polished before their sale or transfer;
+	- **(y)** any costs related to public, community or government relations unless those costs were incurred for environmental assessments or other regulatory processes; and
+	- **(z)** any fines, penalties or bribes.
+> SOR/99-219, s. 5; SOR/2007-273, s. 22.
 
 
 
@@ -1473,40 +1542,44 @@ where
 - **(1)** A change in the ownership or of the operator of a mine does not affect
 	- **(a)** the undeducted balance of the depreciable assets eligible for a depreciation allowance;
 	- **(b)** the undeducted balance of the costs eligible for a development allowance;
-	- **(c)** the undeducted balance of contributions to a qualifying environmental trust; or
+	- **(c)** the undeducted balance of contributions to a mining reclamation trust; or
 	- **(d)** the original cost of the assets used for calculating a processing allowance.
 
 - **(2)** Subject to paragraph 65.1(1)(h), where a recorded claim or lease lapses, is cancelled or is surrendered, any costs incurred in respect of that claim or lease that would otherwise be eligible for a development allowance expire and are no longer eligible for a development allowance in respect of any mine.
-> SOR/99-219, s. 5.
+
+- **(3)** If a mining property is acquired by the operator of another mine and the operations on the two mining properties are combined to become a single operation, the undeducted balance of the costs eligible for the development allowance, the undeducted balance of the cost of the depreciable assets eligible for the depreciation allowance, the undeducted balance of the contributions to a mining reclamation trust and the original cost of the processing assets eligible for the processing allowance for each mine shall be combined.
+
+- **(4)** For the purpose of subsection (3), if an operator purchases a mining property from the Minister, the value of the undeducted balance of the costs eligible for the development allowance, of the undeducted balance of the cost of the depreciable assets eligible for the depreciation allowance and of the original cost of the processing assets eligible for the processing allowance of the purchased mine shall be the lesser of the value established at the time the Minister acquired the mining property, and the value established in the agreement of purchase and sale for that property.
+> SOR/99-219, s. 5; SOR/2007-273, s. 23.
 
 
 
 
 **66** 
 
-- **(1)** Where in a particular year ore, minerals or mineral-bearing substances from a lease the gross value of which exceeds $100,000 are treated at a mine, removed from a mine, sold or otherwise disposed of, the lessee shall, within one month after the end of the year, deliver to the Chief a statement setting out
+- **(1)** If, in a particular year, minerals or processed minerals from a recorded claim that is subject to a lease whose gross value exceeds $100,000 are treated at a mine, removed from a mine, sold or otherwise disposed of, the lessee shall, within one month after the end of that year, deliver to the Chief a statement setting out
 	- **(a)** the name and a description of the mine;
 	- **(b)** the names and addresses of all owners, operators and other lessees of the mine;
 	- **(c)** the name and address of a person to whom notices may be sent;
-	- **(d)** the weight and value of ore, minerals or mineral-bearing substances treated at the mine, removed from the mine, sold or otherwise disposed of during the year and during each month of the year; and
+	- **(d)** the weight and value of minerals or processed minerals treated at the mine, removed from the mine, sold or otherwise disposed of during the year and during each month of that year; and
 	- **(e)** the design capacity of any mill, concentrator or other processing plant at the mine.
 
 - **(2)** A lessee who has delivered a statement under subsection (1) shall forthwith notify the Chief of
 	- **(a)** any change in the name and address of the person to whom notices may be sent; and
 	- **(b)** any change in the ownership or of the operator of the mine.
-> SOR/99-219, s. 5.
+> SOR/99-219, s. 5; SOR/2007-273, s. 24.
 
 
 
 
 **67** 
 
-- **(1)** On or before the last day of the fourth month after the end of each fiscal year of a mine, including the fiscal year in which the mine commences production, and on or before the same day in each year after the mine ceases production until the mine is completely reclaimed, the operator of the mine shall deliver to the Chief a mining royalty return, on a form prescribed by the Minister under section 28 of the Act, setting out
+- **(1)** On or before the last day of the fourth month after the end of each fiscal year of a mine, including the fiscal year during which the mine commences production and all subsequent years for which there are any amounts that qualify for determining the values of A to H and J in subsection 65(4), the operator of the mine shall deliver to the Chief a mining royalty return, on a form prescribed by the Minister under section 28 of the Act, setting out
 	- **(a)** the name and a description of the mine;
 	- **(b)** the name and address of the operator;
-	- **(c)** the names of smelters, refineries or mills to which ore, mineral or mineral-bearing substances have been shipped from the mine for treatment;
-	- **(d)** the weight of the minerals or mineral-bearing substances produced from the mine that were produced during the fiscal year of the mine;
-	- **(e)** the weight and value of the minerals or mineral-bearing substances produced from the mine that were
+	- **(c)** the names of processing plants to which minerals or processed minerals have been shipped from the mine for treatment;
+	- **(d)** the weight of the minerals or processed minerals produced from the mine during the fiscal year;
+	- **(e)** the weight and value of the minerals or processed minerals produced from the mine that were
 		- **(i)** sold or transferred during the fiscal year of the mine to persons not related to the operator;
 		- **(ii)** sold or transferred during the fiscal year of the mine to persons related to the operator;
 		- **(iii)** in inventory at the beginning of the fiscal year of the mine, and
@@ -1522,17 +1595,17 @@ where
 		- **(vi)** the original cost of depreciable assets disposed of during the fiscal year;
 	- **(i)** in respect of development allowances,
 		- **(i)** the undeducted balance at the beginning of the fiscal year of costs eligible for a development allowance,
-		- **(ii)** where the return is filed for the first fiscal year of the mine, the amount of the costs identified in subparagraphs 65.1(1)(h)(i) and (ii),
+		- **(ii)** if the mining royalty return is delivered for the first fiscal year of the mine, the amount of the costs determined under subparagraphs 65.1(1)(h)(i) and (ii),
 		- **(iii)** the amounts of each of the costs identified in subparagraphs 65.1(1)(h)(iii) to (v) incurred during the fiscal year,
 		- **(iv)** the undeducted balance of costs eligible for a development allowance at the end of the fiscal year prior to deduction of a development allowance, and
 		- **(v)** the undeducted balance of costs eligible for a development allowance at the end of the fiscal year after deduction of a development allowance;
-	- **(j)** in respect of any qualifying environmental trust for the mine,
-		- **(i)** the total of all amounts contributed to the qualifying environmental trust,
-		- **(ii)** the undeducted balance of contributions to the qualifying environmental trust at the beginning of the fiscal year,
-		- **(iii)** the amounts contributed to the qualifying environmental trust during the fiscal year,
-		- **(iv)** the undeducted balance of contributions to the qualifying environmental trust at the end of the fiscal year prior to any deduction of a qualifying environmental trust contribution allowance,
-		- **(v)** the undeducted balance of contributions to the qualifying environmental trust at the end of the fiscal year after deduction of a qualifying environmental trust contribution allowance, and
-		- **(vi)** the total of all amounts withdrawn from the qualifying environmental trust during the fiscal year and in previous fiscal years;
+	- **(j)** in respect of any mining reclamation trust established for lands referred to in section 3,
+		- **(i)** the total of all amounts contributed to the mining reclamation trust,
+		- **(ii)** the undeducted balance of contributions of the mining reclamation trust at the beginning of the fiscal year,
+		- **(iii)** the amounts contributed to the mining reclamation trust during the fiscal year,
+		- **(iv)** the undeducted balance of contributions to the mining reclamation trust at the end of the fiscal year before any deduction of a mining reclamation trust contribution allowance,
+		- **(v)** the undeducted balance of contributions to the mining reclamation trust at the end of the fiscal year after the deduction of a mining reclamation trust contribution allowance, and
+		- **(vi)** the total of all amounts withdrawn from the mining reclamation trust during the fiscal year and in previous fiscal years;
 	- **(k)** in respect of processing assets,
 		- **(i)** the original cost of the processing assets at the beginning of the fiscal year,
 		- **(ii)** the original cost of any new processing assets added to the mine during the fiscal year,
@@ -1546,15 +1619,19 @@ where
 - **(2)** Every mining royalty return shall be
 	- **(a)** accompanied by the financial statements for the mine or, where the mine has no financial statements, the financial statements of the operator of the mine, and a reconciliation of those financial statements to the mining royalty return; and
 	- **(b)** signed and include a statement under oath or solemn affirmation by the operator of the mine or, where the operator of the mine is a corporation, by an officer of the corporation, that the financial statements are to that person’s knowledge and belief complete and correct.
-> SOR/99-219, s. 5.
+
+- **(3)** If a mine’s operator makes an election under subsection 65(4.3),
+	- **(a)** the operator shall deliver the initial mining royalty return for the fiscal year using the market value of the inventories of minerals or processed minerals and then deliver an amended mining royalty return once those inventories have been sold; and
+	- **(b)** the operator shall deliver a mining royalty return for the mine’s subsequent fiscal years if there are any amounts that qualify for determining the values of D to H in subsection 65(4), or if the mine recommences production.
+> SOR/99-219, s. 5; SOR/2007-273, s. 25.
 
 
 
 
 **67.1** 
 
-- **(1)** Where a mine is operated as a joint venture and each member of the joint venture takes its share of the output of the mine in kind and sells that share separately from the other members of the joint venture to different purchasers
-	- **(a)** each member may deliver to the Chief a separate mining royalty return for the royalty payable under subsection 65(1) on the value of its share of the output of the mine, in lieu of including that information in a return delivered under subsection 67(1); and
+- **(1)** If a mine is operated as a joint venture and each member of the joint venture takes its share of the output of the mine in kind and sells that share separately and independently from other members of the joint venture to purchasers who are not related to any of the members of the joint venture,
+	- **(a)** each member may deliver to the Chief a separate mining royalty return for the royalty payable under subsection 65(1) on the value of its share of the output of the mine, in lieu of including that information in a mining royalty return delivered under subsection 67(1); and
 	- **(b)** each member, and any person related to that member, is liable to pay only those royalties attributable to that member’s share of the output of the mine.
 
 - **(2)** Where, pursuant to subsection (1), more than one member of a joint venture delivers a mining royalty return to the Chief for a single mine,
@@ -1571,13 +1648,13 @@ where
 		- **(iv)** a development allowance based on
 			- **(A)** a percentage of the costs referred to in subparagraphs 65.1(1)(h)(i) to (v) that were incurred jointly, equal to the percentage of the output of the mine received by that member, and
 			- **(B)** the costs referred to in subparagraphs 65.1(1)(h)(i) to (v) incurred by that member alone,
-		- **(v)** a qualifying environmental trust contribution allowance based on a percentage of the amounts contributed to a qualifying environmental trust for the mine equal to the percentage of the output of the mine received by that member, and
+		- **(v)** a mining reclamation trust contribution allowance equal to the amount contributed to a mining reclamation trust in respect of the lands referred to in section 3 by that member, and
 		- **(vi)** a processing allowance based on
 			- **(A)** a percentage of the processing assets of the mine that are jointly held equal to the percentage of the output of the mine received by that member, and
 			- **(B)** the processing assets of the mine held by that member alone;
 	- **(d)** the amounts in column I of the table to subsection 65(1) shall be adjusted by multiplying each amount by a percentage equal to the percentage of the output of the mine received by that member; and
 	- **(e)** each mining royalty return shall be based on the same fiscal year.
-> SOR/99-219, s. 5.
+> SOR/99-219, s. 5; SOR/2007-273, s. 26.
 
 
 
@@ -1598,48 +1675,56 @@ where
 
 **68** 
 
-- **(1)** Every operator of a mine shall keep at an office in Canada and make available to the Chief to substantiate information required on mining royalty returns, records, books of account and other documents evidencing
-	- **(a)** the weight and value of all ore, minerals or mineral-bearing substances produced from the mine, sold by the operator or processed at the mine;
-	- **(b)** the returns from the smelter, mill or refinery and any other returns of amounts derived from the sale of ore, minerals or mineral-bearing substances;
-	- **(c)** the costs, payments, allowances and other deductions referred to in section 65.1;
-	- **(d)** financial statements of each owner and the operator;
-	- **(e)** where the financial statements of an owner or operator of the mine are audited by an external auditor,
+- **(1)** Every operator of a mine shall keep at an office in Canada and make available to the Chief, to substantiate information required on mining royalty returns,
+	- **(a)** records, books of account and other documents evidencing
+		- **(i)** the weight of all minerals extracted from the mine and of all minerals or processed minerals processed at the mine, whether or not they are produced from the mine,
+		- **(ii)** the weight and value of all minerals or processed minerals produced from the mine, sold, transferred or removed from the mine by the mine’s operator,
+		- **(iii)** any amounts received from a processing plant and any other amounts received from the sale of minerals or processed minerals, and
+		- **(iv)** the costs, payments, allowances and other deductions referred to in section 65.1;
+	- **(b)** the financial statements of the mine and the operator;
+	- **(c)** a reconciliation between the documents referred to in paragraphs (a) and (b) and the mining royalty return;
+	- **(d)** if the financial statements of an owner or the operator of the mine are audited by an external auditor,
 		- **(i)** the audited financial statements and the accompanying signed audit opinion of the external auditor, and
-		- **(ii)** any working papers and documentation prepared by the external auditor that are in the possession of the operator or owner;
-	- **(f)** any documents filed by an owner or the operator with a stock exchange or securities commission; and
-	- **(g)** any other information necessary for ascertaining the amount of royalty payable under section 65.
+		- **(ii)** any working papers and documentation prepared by the external auditor that are in the possession of an owner or the operator;
+	- **(e)** any documents filed by an owner or the operator with a stock exchange or securities commission;
+	- **(f)** any documents related to any internal audits of a company that is an owner or the operator; and
+	- **(g)** any other documents that contain information necessary for ascertaining the amount of royalty payable under section 65.
 
 - **(2)** No person shall disclose information of a confidential nature acquired for the purposes of sections 65 to 69, except
 	- **(a)** to the extent necessary to determine the amount of royalties payable under section 65;
 	- **(b)** where required under a land claims agreement referred to in section 35 of the Constitution Act, 1982; or
 	- **(c)** under an agreement entered into by the Minister for the purpose of the administration of section 65 with the government of a country, province or state, or with an aboriginal organization owning mineral rights, under which the officers of that government or aboriginal organization are provided with the information and the Chief is provided with information from the government or aboriginal organization.
-> SOR/99-219, s. 5.
+> SOR/99-219, s. 5; SOR/2007-273, s. 27.
 
 
 
 
 **69** 
 
-- **(1)** No ore, minerals or mineral-bearing substances produced from a mine, other than precious or semi-precious stones, shall be removed from the mine, other than for assay or testing purposes, until the weight and any other information necessary to establish the value thereof has been ascertained and entered in the books of account referred to in subsection 68(1).
+- **(1)** Subject to subsection (2), no minerals or processed minerals produced from a mine shall be removed from the mine, other than for the purposes of assay and testing to determine the existence, location, extent, quality or economic potential of a mineral deposit in the lands constituting the mining property, until the weight and any other information necessary to establish the value of those minerals or processed minerals has been ascertained and entered in the books of account referred to in subsection 68(1).
 
-- **(2)** No precious or semi-precious stones shall be removed from a mine, other than for assay or testing purposes, or sold until they have been valued by a mining royalty valuer.
+- **(2)** No precious stones shall be removed from a mine, other than in a bulk sample or in a concentrate for the purposes of establishing the grade and the value of the stones in a mineral deposit, or cut, polished, sold or otherwise transferred, until they have been valued by a mining royalty valuer.
 
-- **(3)** The operator of a mine shall provide in the Territories any facilities and equipment, other than computer equipment, necessary for a mining royalty valuer to value any precious or semi-precious stones produced from the mine.
+- **(3)** The operator of a mine shall provide in the Territories any facilities and equipment, other than computer equipment, necessary for a mining royalty valuer to value any precious stones produced from the mine.
 
-- **(4)** For the purposes of these Regulations, facilities within the Territories that are provided for valuation by a mining royalty valuer of precious or semi-precious stones produced from a mine shall be considered to be part of the mine and any transfer of such stones from one part of a mine to another shall not be considered to constitute removal from the mine.
+- **(4)** For the purposes of these Regulations, facilities referred to in subsection (3) are considered to be part of the mine and any transfer of the precious stones from one part of the mine to another does not constitute removal from the mine.
 
-- **(5)** Where any part of the output of a mine consists of precious or semi-precious stones, no stones shall be sold or removed from the mine until the operator of the mine has cleaned the stones so as to remove all substances from the stones that are not part of the stones.
+- **(5)** No precious stones shall be presented to the mining royalty valuer until the operator of the mine has cleaned the stones so as to remove all substances from the stones that are not part of them.
 
-- **(6)** As soon as any precious or semi-precious stones have been processed into a saleable form, they shall be made available to a mining royalty valuer for valuation.
+- **(6)** As soon as any precious stones have been processed into a saleable form, they shall be presented to a mining royalty valuer for valuation.
 
-- **(7)** Where the operator of a mine that produces precious or semi-precious stones transfers or sells those stones to persons who are not related to the operator and to persons who are related to the operator, the operator shall make available to a mining royalty valuer, for separate valuation prior to their transfer or sale, all stones that are to be transferred or sold to a person related to the operator.
+- **(7)** An operator who produces precious stones and transfers or sells them to persons who are not related to the operator shall present to a mining royalty valuer
+	- **(a)** all stones that are to be transferred or sold to a person related to the operator, for separate valuation before their transfer or sale; and
+	- **(b)** all stones that are to be cut or polished by the operator or any related party, for separate valuation before their being cut or polished.
 
-- **(8)** For the purposes of subsections (6) and (7), unless otherwise agreed on by the operator and the mining royalty valuer, an operator shall
-	- **(a)** in respect of diamonds with a weight of more than 10.8 carats, make the diamonds available to the mining royalty valuer individually and provide the weight and the operator’s estimate of the value of each diamond;
-	- **(b)** in respect of diamonds with a weight of from 1.8 carats to 10.8 carats, make the diamonds available to the mining royalty valuer in lots separated according to carats, and provide the number of diamonds per lot and the operator’s estimate of the value of each lot;
-	- **(c)** in respect of diamonds with a weight of from 3 grainers to less than 1.8 carats, make the diamonds available to the mining royalty valuer in lots separated according to weight in grainers, from which a randomly selected sample, accurately representing the composition of the lot, has been separated, and provide the operator’s estimate of the value of each lot; and
-	- **(d)** in respect of diamonds with a weight of less than 3 grainers, make the diamonds available to the mining royalty valuer in lots separated according to sieve size, from which a randomly selected sample, accurately representing the composition of the lot, has been separated, and provide the operator’s estimate of the value of each lot.
-> SOR/99-219, s. 5.
+- **(8)** For the purposes of subsections (6) and (7), unless otherwise agreed on by the operator and the mining royalty valuer, an operator shall present to the mining royalty valuer
+	- **(a)** diamonds with a weight of 10.8 carats or more, individually, together with the weight of each diamond;
+	- **(b)** diamonds with a weight from 2.8 carats to 10.79 carats, in lots separated according to weight in carats, together with the number of diamonds per lot;
+	- **(c)** diamonds with a weight from 3 grainers to 10 grainers, in lots separated according to weight in grainers, from which randomly selected samples, accurately representing the composition of each lot, have been separated; and
+	- **(d)** diamonds with a weight of less than 3 grainers, in lots separated according to industry standard DTC sieve sizes, from which randomly selected samples, accurately representing the composition of each lot, have been separated.
+
+- **(9)** If diamonds are presented to the mining royalty valuer under subsection (8), the operator shall provide an estimate of the market value of each diamond or lot, as the case may be, to the Chief.
+> SOR/99-219, s. 5; SOR/2007-273, s. 28.
 
 
 
@@ -1700,18 +1785,7 @@ the Supervising Mining Recorder may appoint a person to be the representative of
 ## Prohibitions and Reservations
 
 
-**73** 
-
-- **(1)** Where the holder of a recorded claim, the owner, operator, lessee or manager of a mine or any employee or agent of any such person discharges or causes to be discharged from his claim or from any mining operation thereon any substance that, in the opinion of the Minister, is or is likely to be harmful to humans, animals or vegetation, the Minister may, by order in writing, require that person
-	- **(a)** to treat the substance before it is discharged so that it is not discharged in a form harmful to humans, animals or vegetation;
-	- **(b)** to limit the discharge of the substance in such manner as the Minister may order; or
-	- **(c)** to cease all operations causing such discharge.
-
-- **(2)** No person shall prospect, perform representation work on a claim or deposit earth, clay, stone or any mineral ore or mine tailings on any claim except
-	- **(a)** in accordance with
-		- **(i)** any Act of Parliament, or
-		- **(ii)** these Regulations or any other regulations made pursuant to the [Territorial Lands Act](/en/Acts/Revised%20Statutes%20of%20Canada/T/T-7.md); or
-	- **(b)** with the approval of an engineer of mines and in accordance with such terms and conditions as he may fix.
+**73** [Repealed, SOR/2007-273, s. 29]
 
 
 
@@ -1774,6 +1848,8 @@ the Supervising Mining Recorder may appoint a person to be the representative of
 - **(1)** Where the holder or a co-holder of a recorded claim for which no lease has been granted dies or is declared by a court of competent jurisdiction to be incapable of managing his affairs and notice thereof, satisfactory to the Mining Recorder, is filed with the Mining Recorder within 90 days of the date of such death or declaration, calculation of the time within which any thing is required by these Regulations to be done by such holder or co-holder with respect to that claim shall be suspended for a period commencing with the day of the death or of the declaration and ending on the third anniversary of such day or on the 30th day from the day the claim or interest therein is transferred to the person administering the estate of such holder or co-holder, whichever is the earlier.
 
 - **(2)** Where, prior to the filing with the Mining Recorder of the notice mentioned in subsection (1), land included in a recorded claim in which a person described in subsection (1) has an interest has been located in accordance with these Regulations by a locator who, in good faith, thought the claim had lapsed or been abandoned, the Mining Recorder may, on being satisfied that the administrator of the estate of that person has, within the time fixed by the Mining Recorder, paid an amount to the locator equal to the costs incurred by the locator in locating the claim, cancel the recording of the claim in the name of the locator and record the claim in the name of the administrator.
+> SOR/2007-273, s. 30(F).
+
 
 
 
@@ -1786,7 +1862,7 @@ the Supervising Mining Recorder may appoint a person to be the representative of
 - **(3)** Notwithstanding any relief granted by the Chief under subsection (2), the Chief may order the lessee, permittee or holder of a mineral claim to commence and diligently continue to fulfill a requirement referred to in subsection (1) that is necessary to keep the lease, permit or claim in good standing where, in his opinion, the circumstances that prevented the requirement from being fulfilled no longer exist and any period of suspension granted under subsection (1), as shortened by an order under this subsection, shall be added to the term or period of the lease, permit or claim for the purposes of determining compliance with the requirements of these Regulations.
 
 - **(4)** Any relief granted or order made by the Chief under this section shall be recorded in the records of the Mining Recorder or of the Chief, whichever records are relevant.
-> SOR/79-234, s. 25.
+> SOR/79-234, s. 25; SOR/2007-273, s. 31(F).
 
 
 
@@ -1860,7 +1936,7 @@ and in good standing on November 15, 1977 and includes a prior claim as defined 
 - **(5)** On the renewal of a prior lease under subsection (4), the renewed lease is subject in all respects to these Regulations, other than subsection 60(2), as if the lease has been renewed under subsection 59(2).
 
 - **(6)** If the holder of a prior lease does not apply for a renewal thereof under subsection (4), the Minister may send a notice of expiry to the holder of the lease by registered mail and if the holder of the lease fails to apply for a renewal of the lease within 60 days of the date of the registration of the notice, all rights of the holder of the prior lease in respect thereof terminate forthwith without any declaration of cancellation or forfeiture.
-> SOR/78-813, s. 1; SOR/88-9, s. 28.
+> SOR/78-813, s. 1; SOR/88-9, s. 28; SOR/2007-273, s. 32(F).
 
 
 
@@ -1872,7 +1948,7 @@ and in good standing on November 15, 1977 and includes a prior claim as defined 
 - **(2)** Notwithstanding subsections 24(1) and (3) and section 25, but subject to subsection (3), a claim recorded prior to the coming into force of these Regulations shall be deemed to be recorded under section 24 if the holder of the claim complies or agrees to comply with section 38 and thereafter all provisions of these Regulations shall apply to such claim.
 
 - **(3)** A claim deemed to be recorded under subsection (2) is subject to the rights of any recorded owner or any person entitled to record a claim in the area covered by the claim.
-> SOR/79-234, s. 26.
+> SOR/79-234, s. 26; SOR/2007-273, s. 33(F).
 
 
 
@@ -2018,7 +2094,7 @@ and in good standing on November 15, 1977 and includes a prior claim as defined 
 </tr>
 </table>
 
-> SOR/97-117, s. 6; SOR/99-219, ss. 7, 8.
+> SOR/97-117, s. 6; SOR/99-219, ss. 7, 8; SOR/2007-273, ss. 34(F), 35(F).
 
 
 
@@ -2215,10 +2291,10 @@ By mechanical means — $14 per cubic yard;
 FORMS
 
 
-GRAPHIC IS NOT DISPLAYED, SEE C.R.C., C. 1516, P. 13507 TO 13528; SOR/79-234, S. 31; SOR/88-9, S. 29; SOR/97-117, SS. 7 TO 9; SOR/99-219, S. 10.
+GRAPHIC IS NOT DISPLAYED, SEE C.R.C., C. 1516, P. 13507 TO 13528; SOR/79-234, S. 31; SOR/88-9, S. 29; SOR/97-117, SS. 7 TO 9; SOR/99-219, S. 10; SOR/2007-273, SS. 36, 37.
 
 
->  SOR/79-234, s. 31; SOR/88-9, s. 29; SOR/97-117, ss. 7 to 9; SOR/99-219, s. 10.
+> SOR/79-234, s. 31; SOR/88-9, s. 29; SOR/97-117, ss. 7 to 9; SOR/99-219, s. 10; SOR/2007-273, ss. 36, 37.
 
 
 
