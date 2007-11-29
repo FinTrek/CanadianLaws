@@ -1,6 +1,6 @@
 > [Aller à la version anglaise](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1501-1600/C.R.C.,%20c.%201516.md)
 
-# Règlement concernant l’administration et l’aliénation des minéraux appartenant à sa majesté du chef du canada dans toutes les terres faisant partie des territoires du nord-ouest
+# Règlement sur l’exploitation minière dans les Territoires du Nord-Ouest et au Nunavut
 
 **C.R.C., ch. 1516**
 
@@ -10,23 +10,21 @@ Autorités habilitantes :
 ----------
 
 
-
-## Titre abrégé
-
-
-**1** Le présent règlement peut être cité sous le titre : Règlement sur l’exploitation minière au Canada.
+**1** [Abrogé, DORS/2007-273, art. 2]
 
 
 
 
-## Interprétation
+## Définitions
+> [DORS/2007-273, art. 3(F)]
+
 
 
 **2** 
 
-- **(1)** Dans le présent règlement,
+- **(1)** Les définitions qui suivent s’appliquent au présent règlement.
 
-***actif amortissable*** S’agissant d’une mine, s’entend des immeubles, des usines, de la machinerie et de l’équipement qui en font partie. (*depreciable assets*)
+***actif amortissable*** S’entend des bâtiments, des usines, de la machinerie et du matériel. (*depreciable assets*)
 
 ***agent autorisé*** désigne toute personne autorisée par le ministre à accomplir des fonctions se rapportant à l’administration du présent règlement ou à sa mise en application; (*authorized officer*)
 
@@ -36,11 +34,13 @@ Autorités habilitantes :
 
 ***arpenteur général*** désigne l’arpenteur général défini dans la [Loi sur l’arpentage des terres du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-6.md); (*Surveyor General*)
 
+***bail*** Bail d’un claim enregistré accordé au détenteur de celui-ci en vertu de l’article 58. (*lease*)
+
 ***biens utilisés pour le traitement*** Installations d’évacuation et actifs amortissables qui sont situés dans les territoires et qui sont utilisés directement et exclusivement pour le traitement. (*processing assets*)
 
 ***borne légale*** désigne un poteau, un arbre ou un monticule de terre ou de roches, utilisé pour localiser un claim, selon l’article 14; (*legal post*)
 
-***chef*** Le directeur des Ressources minérales de la Direction générale des ressources naturelles et de l’environnement du ministère des Affaires indiennes et du Nord canadien. (*Chief*)
+***chef*** Le chef de l’Analyse financière et de l’Administration des redevances de la Direction des ressources minérales de la Direction générale des ressources naturelles et de l’environnement du ministère des Affaires indiennes et du Nord canadien. (*Chief*)
 
 ***claim*** signifie une parcelle de terrain située ou acquise de la façon prescrite par le présent règlement; (*claim*)
 
@@ -50,17 +50,17 @@ Autorités habilitantes :
 
 ***co-détenteur*** désigne une personne au nom de laquelle un claim a été inscrit en vertu du présent règlement, soit conjointement, soit en commun avec une autre personne; (*co-holder*)
 
-***concession*** désigne la concession d’un claim enregistré accordée au détenteur d’un claim en vertu de l’article 58; (*lease*)
+***concession***[Abrogée, DORS/2007-273, art. 4]
 
-***concessionnaire*** désigne le détenteur d’une concession pour un claim accordé en vertu du présent règlement; (*lessee*)
+***concessionnaire***[Abrogée, DORS/2007-273, art. 4]
 
-***détenteur des droits de surface*** désigne le concessionnaire ou le détenteur officiel des droits de surface de la terre où un claim minier est enregistré ou sur le point de l’être; (*surface holder*)
+***détenteur des droits de surface*** Le preneur à bail ou le détenteur officiel des droits de surface de la terre sur laquelle un claim est enregistré ou sur le point de l’être. (*surface holder*)
 
 ***district minier*** Région constituée comme telle en vertu de l’alinéa 23g) de la Loi. (*mining district*)
 
 ***essai***[Abrogée, DORS/79-234, art. 1]
 
-***évaluateur des redevances minières*** La personne nommée à ce titre par le ministre. (*mining royalty valuer*)
+***évaluateur des redevances minières*** Personne chargée au nom du ministre de déterminer la valeur des minéraux ou minéraux traités produits par une mine. (*mining royalty valuer*)
 
 ***exercice*** S’agissant d’une mine, l’exercice de l’exploitant au sens de l’article 249.1 de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md). (*fiscal year*)
 
@@ -68,12 +68,19 @@ Autorités habilitantes :
 - **a)** une carte d’une région délimitée au nord et au sud à des intervalles latitudinaux de 15 minutes et, à l’est et à l’ouest, à des intervalles longitudinaux de 30 minutes, au sud du 68<sup>e</sup> degré de latitude nord, ou
 - **b)** une carte d’une région délimitée au nord et au sud à des intervalles latitudinaux de 15 minutes et, à l’est et à l’ouest, à des intervalles longitudinaux de un degré, au nord du 68<sup>e</sup> degré de latitude nord; (*mineral claim staking sheet*)
 
-***fiducie pour l’environnement admissible*** Fiducie pour l’environnement admissible au sens du paragraphe 248(1) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), créée par un acte de fiducie approuvé par le ministre. (*qualifying environmental trust*)
+***fiducie de restauration minière*** Fiducie qui est établie à l’égard d’une mine et qui, selon le cas :
+- **a)** est créée pour l’application du paragraphe 17(1) de la [Loi sur les eaux des Territoires du Nord-Ouest](/fr/Lois/Lois%20du%20Canada/1992/ch.%2039.md) ou du paragraphe 76(1) de la [Loi sur les eaux du Nunavut et le Tribunal des droits de surface du Nunavut](/fr/Lois/Lois%20du%20Canada/2002/ch.%2010.md);
+- **b)** est créée en raison :
+	- **(i)** soit d’un bail accordé en vertu du [Règlement sur les terres territoriales](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1501-1600/C.R.C.,%20ch.%201525.md),
+	- **(ii)** soit d’un contrat conclu avec le ministre relativement à la restauration ou à la gestion environnementale d’une propriété minière,
+	- **(iii)** soit d’un permis délivré en vertu de la partie 3 ou 4 de la [Loi sur la gestion des ressources de la vallée du Mackenzie](/fr/Lois/Lois%20du%20Canada/1998/ch.%2025.md) ou en vertu du [Règlement sur l’utilisation des terres territoriales](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1501-1600/C.R.C.,%20ch.%201524.md). (*mining reclamation trust*)
+
+***fiducie pour l’environnement admissible***[Abrogée, DORS/2007-273, art. 4]
 
 ***fraction non amortie***
 - **a)** Dans le cas d’une déduction pour amortissement, le coût d’origine des actifs amortissables à l’égard desquels la déduction est réclamée, moins toute déduction pour amortissement réclamée au préalable à leur égard;
 - **b)** dans le cas d’une déduction relative à l’aménagement, la fraction non amortie des frais admissibles à la déduction aux termes de l’alinéa 65.11(1)h);
-- **c)** dans le cas d’une déduction relative à l’apport à une fiducie pour l’environnement admissible, le total de tous les apports effectués au profit de la fiducie, moins toute déduction réclamée au préalable. (*undeducted balance*)
+- **c)** dans le cas d’une déduction relative à l’apport effectué au profit d’une fiducie de restauration minière, le total de tous les apports effectués au profit de la fiducie, moins toute déduction réclamée au préalable. (*undeducted balance*)
 
 ***frais d’exploration*** Toute dépense engagée en vue de déterminer l’existence, l’emplacement, l’étendue, la qualité ou le potentiel économique d’un gisement de minéraux dans les territoires. Sont exclus de la présente définition les frais de démarrage d’une mine. (*exploration cost*)
 
@@ -87,7 +94,7 @@ Autorités habilitantes :
 - **a)** des personnes liées au sens de l’article 251 de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), abstraction faite de l’alinéa 251(5)b);
 - **b)** des sociétés associées au sens de l’article 256 de cette loi, abstraction faite du paragraphe 256(1.4);
 - **c)** des personnes affiliées au sens de l’article 251.1 de cette loi;
-- **d)** sauf pour l’application de l’alinéa 67.1(1)b), des exploitants ou des propriétaires de la même mine. (*related*)
+- **d)** sauf pour l’application du paragraphe 67.1(1), des propriétaires ou des exploitants de la même mine. (*related*)
 
 ***localisateur***, un titulaire de licence qui localise un claim ou pour [qui] un claim est localisé; (*locator*)
 
@@ -95,11 +102,11 @@ Autorités habilitantes :
 
 ***Loi*** La [Loi sur les terres territoriales](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-7.md). (*Act*)
 
-***mine*** signifie un travail ou une entreprise au cours desquels un minéral ou minerai est extrait du sol ou d’un talus par quelque méthode que ce soit; ce terme comprend les ouvrages, les broyeurs, les concentrateurs, l’outillage, les installations et les constructions situés sur ou dans le sol, appartenant à la mine ou utilisés à cette fin; (*mine*)
+***mine*** Ouvrage ou entreprise — y compris les actifs amortissables souterrains et de surface connexes qui sont situés dans les territoires — produisant ou ayant produit des minéraux ou minéraux traités des terres visées à l’article 3. (*mine*)
 
-***minéraux*** Métaux précieux et usuels et autres substances naturelles exploitables. Ne sont pas considérés comme des minéraux :
-- **a)** la houille, le pétrole et les hydrocarbures connexes, le soufre natif, la pierre de construction, la pierre pour sculpture, le calcaire, la stéatite, le marbre, le gypse, le shale, l’argile, le sable, le gravier, les cendres volcaniques, la terre, l’ocre, la marne et la tourbe;
-- **b)** toute autre substance régie par le [Règlement territorial sur la houille](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1501-1600/C.R.C.,%20ch.%201522.md), le [Règlement territorial sur le dragage](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1501-1600/C.R.C.,%20ch.%201523.md) ou le [Règlement sur l’exploitation de carrières territoriales](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1501-1600/C.R.C.,%20ch.%201527.md). (*mineral*)
+***minéral*** Toute substance inorganique existant dans la nature trouvée sur ou sous la surface de la terre. Ne sont pas visés par la présente définition le soufre natif, la pierre de construction, la pierre à tailler, le calcaire, la stéatite, le marbre, le gypse, le schiste argileux, l’argile, le sable, le gravier, les cendres volcaniques, la terre de diatomées, l’ocre, le granite, l’ardoise, la marne, le terreau, la terre, le silex, le chlorure de sodium et le sol. (*mineral*)
+
+***minéraux***[Abrogée, DORS/2007-273, art. 4]
 
 ***ministère*** le ministère des Affaires indiennes et du Nord canadien; (*Department*)
 
@@ -107,17 +114,19 @@ Autorités habilitantes :
 
 ***permis*** désigne un permis de prospection délivré en vertu de l’article 29; (*permit*)
 
+***pierre précieuse*** Diamant, saphir, émeraude ou rubis. (*precious stone*)
+
 ***plaque d’identification*** désigne une plaque servant à marquer les coins d’un claim, d’une matière et de dimensions approuvées par le ministre, délivrée comme partie d’un jeu de quatre plaques par le registraire minier; (*identification tag*)
 
 ***plaque de superficie réduite*** désigne une plaque servant à marquer les coins d’un claim dont la superficie a été réduite selon l’article 43; cette plaque doit être d’une matière et de dimensions approuvées par le ministre, et délivrée comme partie d’un jeu de quatre plaques par le registraire minier; (*reduced area tag*)
 
-***propriétaire*** En ce qui concerne un claim, une concession, une mine, une propriété minière ou des ouvrages miniers abandonnés, toute personne y ayant un intérêt en common law ou un intérêt bénéficiaire. (*owner*)
+***propriétaire*** En ce qui concerne un claim enregistré, un bail, une mine ou une propriété minière, toute personne y ayant un intérêt de common law ou un intérêt bénéficiaire. (*owner*)
 
-***propriété minière*** :
-- **a)** Un claim enregistré ou une concession dans les limites duquel se trouve une mine;
-- **b)** un groupe de claims enregistrés ou de concessions, ou des deux, qui sont contigus, dans les limites desquels se trouve une mine et qui, selon le cas :
-	- **(i)** sont détenus par le même propriétaire,
-	- **(ii)** sont détenus exclusivement par les membres d’une coentreprise ou par des personnes qui leurs sont liées, lorsque la mine est exploitée en coentreprise, quel que soit le degré de participation de chaque membre dans chaque claim ou concession. (*mining property*)
+***propriété minière*** Selon le cas :
+- **a)** claim enregistré ou claim enregistré faisant l’objet d’un bail, dans les limites duquel se trouve tout ou partie d’une mine;
+- **b)** groupe de claims enregistrés contigus — faisant ou non l’objet d’un bail — dans les limites desquels se trouve tout ou partie d’une mine et qui :
+	- **(i)** soit appartiennent au même propriétaire,
+	- **(ii)** soit appartiennent en exclusivité aux membres d’une coentreprise ou aux personnes qui leur sont liées, si la mine est exploitée en coentreprise, quel que soit le degré de participation des membres dans les claims ou les baux. (*mining property*)
 
 ***registraire minier*** désigne une personne nommée à ce titre en vertu de l’article 4; (*Mining Recorder*)
 
@@ -131,16 +140,14 @@ Autorités habilitantes :
 
 ***titulaire de permis*** désigne une personne détenant un permis; (*permittee*)
 
-***traitement*** Selon le cas :
-- **a)** le concassage, la pulvérisation, la flottation, l’enrichissement, la concentration, le broyage, le grillage, la fusion, le lessivage, la recristallisation ou l’affinage effectué en vue de retirer un minéral d’un minerai ou d’une substance minéralisée;
-- **b)** dans le cas d’une mine produisant des pierres précieuses ou des pierres fines, leur épuration et leur tri. (*processing*)
+***traitement*** Le concassage, la pulvérisation, la flottation, l’enrichissement, la concentration, le broyage, le grillage, la fusion, le lessivage, la recristallisation ou l’affinage effectué sur des minéraux et, si une mine produit des pierres précieuses, l’épuration et le tri de celles-ci. (*processing*)
 
 ***travaux d’exploration*** désigne les activités visant à déterminer le potentiel économique d’une zone de permis; (*exploratory work*)
 
 ***travaux obligatoires*** désigne les travaux du genre décrit au paragraphe 38(1). (*representation work*)
 
 - **(2)** Pour l’application du présent règlement, une personne liée à une autre est considérée être également liée à toute personne liée à celle-ci.
-> DORS/79-234, art. 1; DORS/88-9, art. 2; DORS/92-552, art. 1(F); 1998, ch. 14, art. 101(F) et 102(F); DORS/99-219, art. 1.
+> DORS/79-234, art. 1; DORS/88-9, art. 2; DORS/92-552, art. 1(F); 1998, ch. 14, art. 101(F) et 102(F); DORS/99-219, art. 1; DORS/2007-273, art. 4.
 
 
 
@@ -149,12 +156,8 @@ Autorités habilitantes :
 ## Application
 
 
-**3** 
-
-- **(1)** Le présent règlement s’applique aux terres situées dans les territoires appartenant à Sa Majesté du chef du Canada ou dont le gouvernement du Canada peut légalement disposer.
-
-- **(2)** Le présent règlement est sujet à toute loi régissant la production, la conservation et le contrôle des minerais contenant des éléments radioactifs.
-> DORS/88-9, art. 3.
+**3** Le présent règlement s’applique aux terres territoriales visées aux paragraphes 3(1) et (2) de la Loi qui sont situées dans les Territoires du Nord-Ouest et au Nunavut.
+> DORS/88-9, art. 3; DORS/2007-273, art. 5.
 
 
 
@@ -226,10 +229,10 @@ ne doit, une fois versé dans les dossiers du registraire minier comme preuve de
 	- **b)** de présenter une demande d’enregistrement d’un claim;
 	- **c)** d’acquérir un claim enregistré ou des intérêts dans un tel claim par cession;
 	- **d)** de soumettre une demande de certificat de travail ou de prolongation;
-	- **e)** d’obtenir la concession pour un claim enregistré.
+	- **e)** d’obtenir un bail pour un claim enregistré.
 
 - **(7)** Il est interdit à toute personne de moins de dix-huit ans de localiser un claim.
-> DORS/79-234, art. 4; DORS/97-117, art. 1.
+> DORS/79-234, art. 4; DORS/97-117, art. 1; DORS/2007-273, art. 6(F).
 
 
 
@@ -268,7 +271,7 @@ ne doit, une fois versé dans les dossiers du registraire minier comme preuve de
 
 **11** 
 
-- **(1)** Sous réserve de tout règlement établi en vertu de la [Loi sur les terres territoriales](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-7.md), le titulaire d’une licence peut pénétrer sur les terres, y prospecter des minéraux et y localiser des claims, sauf sur les terres
+- **(1)** Le titulaire d’une licence ne peut prospecter ni des minéraux ni jalonner des claims sur les terres :
 	- **a)** auxquelles s’applique la Loi sur les parcs nationaux;
 	- **b)** servant de cimetières;
 	- **c)** pour lesquelles a été enregistré un claim minier non périmé;
@@ -276,11 +279,11 @@ ne doit, une fois versé dans les dossiers du registraire minier comme preuve de
 	- **e)** réservées par le gouverneur en conseil à l’une des fins mentionnées à l’article 23 de la Loi;
 	- **f)** sur lesquelles il est interdit, en vertu d’un décret du gouverneur en conseil, de pénétrer pour y prospecter des minéraux et y localiser un claim minier, sous réserve des modalités du décret;
 	- **g)** qui sont placés sous l’administration et le contrôle du ministre de la Défense nationale, du ministre de l’Énergie, des Mines et des Ressources ou du ministre des Transports, à moins d’avoir obtenu le consentement écrit du ministre intéressé; ou
-	- **h)** dont la surface a été concédée ou donnée à bail par Sa Majesté à moins que le concessionnaire ou le preneur à bail n’y consente ou à moins qu’une ordonnance autorisant à y pénétrer n’ait été rendue en vertu du paragraphe 72(3).
+	- **h)** dont la surface a été donnée à bail par Sa Majesté, à moins que le preneur à bail n’y consente ou qu’une ordonnance autorisant à entrer sur ces terres n’ait été rendue en vertu du paragraphe 72(3).
 	- **i)** [Abrogé, DORS/88-9, art. 6]
 
 - **(2)** Lorsqu’une route, une voie ferrée, ou toute autre emprise se situe dans les limites d’un claim enregistré, le détenteur du claim ne peut avoir le droit de pénétrer dans cette emprise pour y prospecter ou l’exploiter sans l’autorisation du registraire minier du district où le claim est situé, laquelle autorisation ne sera pas refusée sans que le détenteur ait eu la possibilité de se faire entendre.
-> DORS/88-9, art. 6; DORS/99-219, art. 2.
+> DORS/88-9, art. 6; DORS/99-219, art. 2; DORS/2007-273, art. 7.
 
 
 
@@ -536,12 +539,12 @@ tous les renseignements placés sur ou dans la borne remplacée et la distance e
 
 **27** 
 
-- **(1)** Sous réserve des autres dispositions du présent règlement et de tout autre règlement pris en vertu des articles 5 ou 23 de la Loi, le détenteur d’un claim enregistré a le droit exclusif de prospecter des minéraux et d’aménager des mines dans les limites de ce claim.
+- **(1)** Seul le détenteur d’un claim enregistré ou le preneur à bail peut faire de la prospection, déplacer des minéraux ou minéraux traités ou aménager des mines dans les limites d’un claim enregistré ou d’un claim enregistré faisant l’objet d’un bail.
 
-- **(2)** Il est interdit, sauf pour des essais ou des épreuves, d’enlever d’un claim enregistré des minéraux ou substances minéralisées — ou de vendre ou d’aliéner autrement de tels minéraux ou substances — dont la valeur brute s’élève à plus de 100 000 $, avant qu’une concession soit accordée au détenteur du claim.
+- **(2)** Il est interdit de déplacer des minéraux ou minéraux traités à l’extérieur d’un claim enregistré si leur valeur brute s’élève à plus de 100 000 $, sauf pour des essais ou des épreuves visant à établir l’existence, l’emplacement, l’étendue, évaluer la qualité ou le potentiel économique d’un dépôt minéral sur les terres visées par le claim avant que le détenteur du claim n’ait obtenu un bail pour celui-ci.
 
-- **(3)** Le détenteur d’un claim enregistré qui n’a pas obtenu une concession pour la surface de la terre comprise dans le claim n’a pas le droit d’ériger un bâtiment devant servir de demeure ou un broyeur, concentrateur ou autre bâtiment minier, ni de créer une zone de dépôt de résidus ou de déchets provenant du début de la production d’une mine sur ce claim.
-> DORS/99-219, art. 3.
+- **(3)** Le détenteur d’un claim enregistré qui n’a pas obtenu de bail ou de concession pour la surface de la terre comprise dans le claim n’a pas le droit d’ériger un bâtiment devant servir d’habitation, une usine de broyage, un concentrateur ou tout autre bâtiment minier, ni de créer une zone de dépôt de résidus ou de stériles provenant du début de la production d’une mine sur ce claim.
+> DORS/99-219, art. 3; DORS/2007-273, art. 8.
 
 
 
@@ -555,13 +558,15 @@ tous les renseignements placés sur ou dans la borne remplacée et la distance e
 	- **b)** d’un ingénieur des mines avant l’enregistrement d’un arpentage de ce claim,
 sur production, auprès du registraire minier, d’un avis d’opposition établi selon la formule 4 de l’annexe III.
 
-- **(2)** Lorsque le registraire minier en chef est convaincu que l’enregistrement d’un claim pour lequel une concession n’a pas été accordée a été obtenu grâce à une déclaration fausse ou trompeuse faite sciemment par le détenteur du claim, le registraire minier en chef peut, après avoir entendu le détenteur ou toute personne comparaissant en son nom, annuler le claim.
+- **(2)** Lorsqu’il est convaincu que l’enregistrement d’un claim pour lequel un bail n’a pas été accordé a été obtenu grâce à une déclaration fausse ou trompeuse faite sciemment par le détenteur du claim, le registraire minier en chef peut, après avoir entendu le détenteur ou toute personne comparaissant en son nom, annuler le claim.
 
 - **(3)** Lorsqu’un claim enregistré est annulé par le registraire minier en chef en vertu du paragraphe (2), il doit sans délai envoyer par courrier recommandé un exemplaire de cette ordonnance à toute personne visée par cette mesure.
 
 - **(4)** Lorsqu’un claim enregistré est annulé en vertu du paragraphe (2), le claim ou toute partie de ce claim peut être relocalisé en vertu du présent règlement
 	- **a)** après midi, le lendemain du 30<sup>e</sup> jour suivant celui de l’annulation; ou
 	- **b)** lorsqu’un examen est fait par le ministre et que ce dernier confirme l’annulation du claim, après midi, le lendemain du 30<sup>e</sup> jour suivant celui où le ministre a confirmé l’annulation du claim.
+> DORS/2007-273, art. 9(F).
+
 
 
 
@@ -821,7 +826,9 @@ délivrer un certificat établi selon la formule 8 de l’annexe III et donner �
 
 
 
-**42** L’exécution des travaux obligatoires sur un claim enregistré n’est pas requise entre la date de dépôt au registraire minier d’une demande de concession de ce claim et la date à laquelle la concession est accordée si le détenteur du claim a satisfait aux exigences de l’article 58.
+**42** S’il satisfait aux exigences de l’article 58, le détenteur d’un claim enregistré n’a pas à exécuter de travaux obligatoires sur ce claim au cours de la période commençant le jour du dépôt de la demande de bail auprès du registraire minier et se terminant le jour où le bail est accordé.
+> DORS/2007-273, art. 10.
+
 
 
 
@@ -889,13 +896,13 @@ la garantie déposée auprès du registraire minier avant la délivrance du cert
 	- **a)** de se conformer au paragraphe 27(2),
 	- **b)** de déposer auprès du registraire minier, dans le délai fixé, l’état visé au paragraphe 41(1),
 	- **c)** d’obtenir un certificat conformément aux paragraphes 44(3) ou (5), selon le cas, avant l’expiration de la période de 30 jours qui suit la date d’anniversaire de l’enregistrement du claim, ou
-	- **d)** de présenter une demande de concession dans le délai fixé par l’article 58,
+	- **d)** de présenter une demande de bail dans le délai fixé par l’article 58,
 le registraire minier doit donner au détenteur du claim un avis écrit précisant l’omission et l’informant que, s’il n’y pouvait pas dans les 60 jours de la date de l’avis, le claim sera considéré périmé conformément au paragraphe (2).
 
 - **(2)** Lorsque le détenteur d’un claim enregistré omet, dans les 60 jours à compter de la date à laquelle un avis lui est remis selon le paragraphe (1), de réparer la faute précisée dans cet avis,
 	- **a)** le claim est considéré périmé sans qu’il y ait déclaration d’annulation ou de confiscation de la part de Sa Majesté; et
 	- **b)** le terrain compris dans ce claim doit être ouvert à la relocalisation en vertu du présent règlement après midi le lendemain du premier jour ouvrable qui suit l’expiration de la période de 60 jours visée au paragraphe (1).
-> DORS/79-234, art. 17.
+> DORS/79-234, art. 17; DORS/2007-273, art. 11(F).
 
 
 
@@ -911,20 +918,20 @@ le registraire minier doit donner au détenteur du claim un avis écrit précisa
 **47** 
 
 - **(1)** Un ingénieur des mines ou un agent autorisé peut, à tout moment jugé raisonnable
-	- **a)** pénétrer dans un claim ou une concession minière et examiner le claim, la concession minière, les dossiers ou les livres et prélever des échantillons ou des spécimens de minéraux ou de minerai;
+	- **a)** pénétrer dans un claim enregistré, un claim enregistré faisant l’objet d’un bail ou une propriété minière et examiner le claim, la propriété minière ou la mine ainsi que les dossiers ou les livres et prélever des échantillons de minéraux ou minéraux traités;
 	- **b)** exiger de l’exploitant d’une mine qu’il produise tout dossier ou livre de comptabilité se rapportant aux activités de la mine pour les examiner ou en tirer des doubles; et
 	- **c)** sous réserve du paragraphe (2), exiger du détenteur d’un claim enregistré qu’il lui fournisse des doubles de tous les plans, carnets de sondage ou rapports de levés géologiques, géochimiques, géophysiques, techniques ou autres se rapportant à l’exploration, l’exploitation ou le fonctionnement du claim ou de la mine qui s’y trouve.
 
-- **(2)** Les renseignements sur les résultats de l’exploitation qui n’ont pas été déposés à titre de travaux obligatoires sont confidentiels jusqu’à ce que le détenteur du claim enregistré les rende publics ou jusqu’à ce que le claim ou la concession soit périmée ou annulée, selon la date la plus rapprochée.
+- **(2)** Les renseignements sur les résultats de l’exploitation qui n’ont pas été déposés à titre d’état des travaux obligatoires sont confidentiels jusqu’à ce que le détenteur du claim enregistré les rende publics ou jusqu’à ce que le claim ou le bail soit périmé ou annulé, selon la première de ces éventualités à se présenter.
 
-- **(3)** Chaque agent autorisé dispose d’un certificat d’autorisation et, en pénétrant dans un claim, une concession minière, une propriété ou un lieu visés au sous-alinéa (1)a)(ii) il doit, sur demande, présenter ce certificat au propriétaire ou aux préposés.
+- **(3)** Tout agent autorisé dispose d’un certificat d’autorisation et, en pénétrant dans un claim, une propriété minière ou une mine, il présente, sur demande, ce certificat au propriétaire ou au responsable des lieux.
 
-- **(4)** Le propriétaire d’un claim, d’une concession minière, d’une propriété ou d’un lieu visés au sous-alinéa (1)a)(ii), ou tout préposé et toute personne qui se trouve dans ces lieux doit donner, dans les limites de ses pouvoirs, toute l’aide nécessaire à l’agent autorisé pour que celui-ci puisse exercer les fonctions et les tâches que le présent règlement lui assigne, et il doit lui fournir les renseignements se rattachant à l’administration et à l’application du présent règlement que l’agent autorisé peut raisonnablement lui demander.
+- **(4)** Le propriétaire ou le responsable d’un claim, d’une propriété minière ou d’une mine, ainsi que toute personne qui s’y trouve, sont tenus, dans les limites de leurs pouvoirs, de prêter à l’agent autorisé toute l’assistance possible dans l’exercice des fonctions qui lui sont dévolues par le présent règlement, et de lui fournir les renseignements qu’il peut raisonnablement exiger quant à l’administration et l’application du présent règlement.
 
 - **(5)** Nul ne doit empêcher un agent autorisé d’exercer les fonctions et les tâches que le présent règlement lui assigne.
 
 - **(6)** Nul ne doit faire de déclaration fausse ou trompeuse, oralement ou par écrit, à un agent autorisé lorsque celui-ci exerce les fonctions et les tâches que le présent règlement lui assigne.
-> DORS/88-9, art. 15.
+> DORS/88-9, art. 15; DORS/2007-273, art. 12.
 
 
 
@@ -1102,17 +1109,19 @@ en déposant auprès du registraire minier un avis de contestation selon la form
 
 
 
-## Concessions
+## Baux
+> [DORS/2007-273, art. 13(F)]
+
 
 
 **58** 
 
-- **(1)** Le détenteur d’un claim enregistré peut faire une demande de concession pour ce claim :
+- **(1)** Le détenteur d’un claim enregistré peut faire une demande de bail pour ce claim :
 	- **a)** lorsque le certificat concernant ce claim prévu à l’article 39(1) n’a pas été émis au plus tard 30 jours après le 10<sup>e</sup> anniversaire de l’enregistrement du claim;
 	- **b)** lorsque le certificat concernant ce claim prévu à l’article 39(1) a été émis au plus tard 30 jours après la date d’anniversaire commune suivant le 10<sup>e</sup> anniversaire de la date d’enregistrement d’origine du claim.
 
-- **(2)** Le détenteur d’un claim enregistré obtient du ministre une concession pour ce claim :
-	- **a)** s’il a déposé une demande de concession visée au paragraphe (1);
+- **(2)** Le détenteur d’un claim enregistré obtient du ministre un bail pour ce claim :
+	- **a)** s’il a déposé la demande de bail visée au paragraphe (1);
 	- **a.1)** si son droit au claim n’est pas contesté;
 	- **a.2)** lorsqu’il a reçu un avis selon le paragraphe (5), s’il s’est conformé au paragraphe (6);
 	- **b)** s’il a :
@@ -1120,11 +1129,11 @@ en déposant auprès du registraire minier un avis de contestation selon la form
 		- **(ii)** décidé de commencer l’exploitation dans son claim;
 	- **c)** si l’arpentage du claim a été enregistré au bureau du registraire minier;
 	- **d)** si le droit prescrit à l’annexe I et le loyer de la première année ont été payés au registraire minier; et
-	- **e)** si la demande de concession rédigée selon la formule 15 de l’annexe III a été déposée auprès du registraire minier.
+	- **e)** si la demande de bail rédigée selon la formule 15 de l’annexe III a été déposée auprès du registraire minier.
 
 - **(3)** Lorsqu’il calcule, pour l’application du paragraphe (2), la valeur des travaux obligatoires faits dans un claim enregistré, le registraire minier ne doit pas inclure les travaux obligatoires d’un genre visé à l’alinéa 38(1)d) dont la valeur dépasse 2 $ l’acre, ou d’un genre visé à l’alinéa 38(1)e) dont la valeur dépasse 2 $ l’acre.
 
-- **(4)** Lorsqu’il reçoit la demande de concession, le registraire minier doit envoyer la demande au chef, qui peut
+- **(4)** Sur réception de la demande de bail, le registraire minier l’envoie au chef qui peut :
 	- **a)** informer le ministre que les exigences des paragraphes (1) et (2) ont été respectées; ou
 	- **b)** rejeter la demande si l’auteur ne s’est pas conformé à toutes les exigences du présent règlement.
 
@@ -1138,108 +1147,137 @@ en déposant auprès du registraire minier un avis de contestation selon la form
 
 - **(8)** [Abrogé, DORS/88-9, art. 17]
 
-- **(9)** Si le chef accorde une concession pour un claim enregistré ou s’il attribue cette concession ou tout intérêt qui s’y rapporte, il en avise le registraire minier.
+- **(9)** Si le chef accorde un bail pour un claim enregistré ou s’il cède ce bail ou tout intérêt qui s’y rapporte, il en avise le registraire minier.
 
 - **(10) à (12)** [Abrogés, DORS/88-9, art. 17]
-> DORS/79-234, art. 20; DORS/88-9, art. 17.
+> DORS/79-234, art. 20; DORS/88-9, art. 17; DORS/2007-273, art. 14(F).
 
 
 
 
 **59** 
 
-- **(1)** La concession accordée selon les paragraphes 58(2) ou (8) est d’une durée de 21 ans à compter de la date d’entrée en vigueur indiquée sur la concession.
+- **(1)** La durée de validité du bail est de vingt et un ans à compter de la date d’entrée en vigueur qui y est indiquée.
 
-- **(2)** À l’expiration de la concession visée au paragraphe (1), y compris une concession renouvelée, sur demande du concessionnaire et sur paiement du droit applicable prévu à l’annexe I, et sous réserve des autres dispositions du présent règlement, le ministre renouvelle la concession pour une période de 21 ans.
+- **(2)** À l’expiration du bail, y compris le bail renouvelé, le preneur à bail peut demander au ministre de le renouveler pour une période de vingt et un ans et, sur paiement du droit applicable prévu à l’annexe I et sous réserve des dispositions du présent règlement, le ministre renouvelle le bail.
 
 - **(2.1)** [Abrogé, DORS/99-219, art. 4]
 
-- **(3)** Si le concessionnaire ne fait pas de demande de renouvellement selon le paragraphe (2), le ministre peut lui envoyer par courrier recommandé un avis d’expiration et, si le concessionnaire ne fait pas de demande de renouvellement de sa concession dans les 60 jours qui suivent la date de mise à la poste de cet avis, son droit au renouvellement est aussitôt annulé, sans qu’il y ait déclaration d’annulation ou de confiscation.
+- **(3)** Si le preneur à bail ne présente pas de demande de renouvellement conformément au paragraphe (2), le ministre peut lui envoyer, par courrier recommandé, un avis d’expiration et, s’il ne présente pas de demande de renouvellement dans les soixante jours suivant la date de mise à la poste de l’avis, son droit au renouvellement est aussitôt annulé, sans qu’il y ait déclaration d’annulation ou de déchéance.
 
-- **(4)** On peut abandonner, au moment du renouvellement selon le présent règlement, une partie du terrain visé par une concession si
+- **(4)** Au moment du renouvellement prévu par le présent règlement, une partie du terrain visé par un bail peut être abandonnée si :
 	- **a)** la partie à abandonner couvre au moins un claim minier entier enregistré avant l’entrée en vigueur du présent règlement, ou
-	- **b)** la surface de la concession est réduite de la manière prescrite à l’article 43, lorsque la partie à abandonner est un claim minier enregistré après l’entrée en vigueur du présent règlement ou une partie de ce claim, et
+	- **b)** la surface du terrain visé par le bail est réduite conformément à l’article 43, lorsque la partie à abandonner est un claim minier enregistré après l’entrée en vigueur du présent règlement ou une partie de ce claim, et
 la surface réduite est arpentée conformément aux articles 54 à 57.
-> DORS/79-234, art. 21; DORS/99-219, art. 4.
+> DORS/79-234, art. 21; DORS/99-219, art. 4; DORS/2007-273, art. 15(F).
 
 
 
 
 **60** 
 
-- **(1)** Sous réserve du paragraphe (2), le loyer d’un claim enregistré pour lequel une concession a été accordée est indiqué à l’annexe I.
+- **(1)** Sous réserve du paragraphe (2), le loyer d’un claim enregistré pour lequel un bail a été accordé est indiqué à l’annexe I.
 
-- **(2)** Lorsque des travaux d’un genre visé à l’alinéa 38(1)a) ont été faits sur un claim enregistré pour lequel une concession a été accordée aux termes du présent règlement, on doit déduire du loyer de l’année au cours de laquelle ces travaux ont été faits, pour ce claim ainsi que pour au plus cinq claims enregistrés adjacents détenus par le même concessionnaire et faisant l’objet d’une concession accordée aux termes du présent règlement, un montant égal
+- **(2)** Si des travaux d’un type énuméré à l’alinéa 38(1)a) ont été exécutés sur un claim enregistré pour lequel un bail a été accordé, il faut déduire du loyer de l’année d’exécution des travaux, pour ce claim ainsi que pour au plus cinq claims enregistrés adjacents détenus par le même preneur à bail et faisant l’objet d’un bail, une somme égale :
 	- **a)** au montant dépensé pendant l’année pour ces travaux, conformément à l’approbation du ministre, ou
-	- **b)** à 50 pour cent du loyer de l’année pour la ou les concessions,
+	- **b)** à 50 % du loyer de l’année pour les baux,
 selon le moins élevé de ces deux montants.
 
-- **(3)** Le loyer annuel dû en vertu d’une concession doit être payé au chef à la date de la signature de la concession et, par la suite, à chaque anniversaire de la date d’entrée en vigueur.
+- **(3)** Le loyer annuel dû en vertu d’un bail est payé au chef à la date de la signature du bail et, par la suite, à chaque anniversaire de la date d’entrée en vigueur.
 
-- **(4)** Trente jours après la date d’échéance du loyer, le chef doit envoyer à chaque concessionnaire qui n’a pas payé son loyer pour l’année un avis rédigé selon la formule 16 de l’annexe III indiquant le montant du loyer dû pour l’année.
+- **(4)** Trente jours après la date d’échéance du loyer, le chef envoie à chaque preneur à bail qui n’a pas payé son loyer pour l’année un avis rédigé selon la formule 16 de l’annexe III indiquant le montant du loyer impayé.
 
-- **(5)** Lorsque le loyer dû en vertu de la concession d’un claim enregistré n’est pas payé dans les 60 jours suivant la date apparaissant sur l’avis expédié selon le paragraphe (4), le ministre peut annuler la concession.
+- **(5)** Si le loyer n’est pas payé dans les soixante jours suivant la date apparaissant sur l’avis visé au paragraphe (4), le ministre peut annuler le bail.
+> DORS/2007-273, art. 16(F).
+
 
 
 
 **61** 
 
-- **(1)** La concession d’un claim enregistré est dans la forme que le ministre peut déterminer et renferme les modalités prescrites par le présent règlement et toute autre législation applicable.
+- **(1)** Le preneur à bail peut abandonner le bail en donnant au registraire minier un avis écrit à cet effet.
 
-- **(2)** À tout moment de la durée d’une concession, le concessionnaire peut, avec l’approbation du chef, abandonner tout intérêt relatif à cette concession et le terrain visé par la concession doit être ouvert à la relocalisation en vertu du présent règlement à une date fixée par le chef.
-
-- **(3)** Lorsqu’une concession expire ou est annulée,
-	- **a)** le terrain visé par la concession ou toute partie de ce dernier doit être ouvert à la relocalisation en vertu du présent règlement, après-midi le jour suivant le premier jour ouvrable après le jour d’expiration ou d’annulation de la concession;
-	- **b)** si le concessionnaire ne doit aucune somme d’argent à Sa Majesté, relativement à la concession, il peut retirer du terrain couvert par la concession tous ses biens personnels, y compris le minerai extrait du claim,
-		- **(i)** dans les 180 jours à compter de la date d’expiration ou d’annulation de la concession, ou
-		- **(ii)** au cours de la période additionnelle fixée par le registraire minier laquelle ne peut dépasser un an.
-> DORS/88-9, art. 18.
+- **(2)** L’abandon du bail prend effet le jour de son enregistrement par le registraire minier.
+> DORS/88-9, art. 18; DORS/2007-273, art. 17.
 
 
 
 
+**61.1** Dans le cas où le bail est expiré, annulé ou abandonné, le terrain visé par celui-ci peut faire l’objet d’un jalonnement aux termes du présent règlement à compter de midi le lendemain du premier jour ouvrable qui suit le jour de l’expiration, de l’annulation ou de l’abandon.
+> DORS/2007-273, art. 17.
 
-## Cession d’un claim ou d’une concession
-> [DORS/88-9, art. 19]
 
+
+
+
+## Cession d’un claim ou d’un bail
 
 
 **62** 
 
-- **(1)** Sous réserve des paragraphes (4) et (5), un claim enregistré ou une concession, ou tout intérêt y afférent, peut être cédé à un titulaire de licence.
+- **(1)** Sous réserve des paragraphes (2) à (5) et de l’article 62.1, le détenteur d’un claim enregistré ou le preneur à bail ou, s’il décède ou devient insolvable, son exécuteur testamentaire, son administrateur successoral ou son syndic peut, à tout moment, céder le claim ou le bail à un titulaire de licence.
 
-- **(2)** L’acte de cession d’une concession est déposé auprès du chef et est accompagné :
-	- **a)** du droit applicable prévu à l’annexe I;
-	- **b)** de l’original de la concession.
+- **(2)** Toute cession de claim enregistré ou de bail est établie selon la formule prescrite par le ministre en vertu de l’article 28 de la Loi. Elle est signée par le détenteur du claim ou le preneur à bail et le cessionnaire et est déposée auprès du registraire minier accompagnée :
+	- **a)** des droits prévus à l’annexe I;
+	- **b)** dans le cas d’une cession de bail, d’une copie du bail original.
 
-- **(3)** L’acte de cession d’un claim enregistré, ou de tout intérêt afférent, doit satisfaire aux conditions suivantes :
-	- **a)** il est déposé auprès du registraire minier du district minier où le claim est situé, en la formule prescrite par le ministre en vertu de l’article 28 de la Loi;
-	- **b)** il est signé par le détenteur du claim.
+- **(3)** La cession entre en vigueur au moment de son enregistrement par le registraire minier.
 
-- **(4)** Aucune concession ni aucun intérêt y afférent ne peuvent être cédés si le loyer exigible aux termes de la concession est impayé.
+- **(4)** Sous réserve du paragraphe 62.1(1), le registraire minier ne peut enregistrer la cession d’un bail dont le loyer est impayé.
 
-- **(5)** Aucun claim enregistré ni aucune concession qui font partie d’une propriété minière, ni aucun intérêt y afférent, ne peuvent être cédés si des redevances minières sont exigibles et impayées à l’égard de cette propriété, à moins qu’une garantie correspondant au montant des redevances impayées ait été déposée auprès du ministre.
-> DORS/88-9, art. 20; DORS/99-219, art. 5.
+- **(5)** Sous réserve du paragraphe 62.1(1), le registraire minier n’enregistre la cession d’un claim enregistré ou d’un bail visant une propriété minière à l’égard de laquelle des redevances minières sont impayées que si une garantie équivalant à la somme due a été déposée auprès du ministre.
+> DORS/88-9, art. 20; DORS/99-219, art. 5; DORS/2007-273, art. 17.
 
+
+
+
+**62.1** 
+
+- **(1)** Sur demande écrite du ministre, le registraire minier enregistre la cession d’un claim enregistré ou d’un bail au nom de Sa Majesté dans les cas suivants :
+	- **a)** le ministre a réalisé une sûreté de premier rang sur un bien réel du détenteur du claim ou du preneur à bail pour couvrir les frais de réparation du fait ou dommage lié à l’environnement en vertu du paragraphe 11.8(8) de la [Loi sur les arrangements avec les créanciers des compagnies](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-36.md) ou du paragraphe 14.06(7) de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md);
+	- **b)** le claim ou le bail a été cédé à Sa Majesté en raison d’une ordonnance judiciaire rendue sous le régime de la [Loi sur les arrangements avec les créanciers des compagnies](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-36.md) ou de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md);
+	- **c)** le ministre a accepté le claim ou le bail à titre de garantie à l’égard d’une créance de Sa Majesté et il a réalisé cette garantie en vertu de l’article 156 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
+
+- **(2)** Dans le cas où un claim enregistré est cédé à Sa Majesté :
+	- **a)** les exigences relatives au paiement des droits et aux travaux obligatoires à l’égard du claim sont suspendues tant que Sa Majesté détient le claim;
+	- **b)** les périodes visées aux paragraphes 38(2) et 58(1) et à l’article 59 sont prolongées de la période de détention du claim ou du bail par Sa Majesté.
+
+- **(3)** Le loyer d’un bail cédé à Sa Majesté n’est pas exigible pendant la période de détention du bail par Sa Majesté.
+
+- **(4)** Sa Majesté peut céder à un titulaire de licence le claim enregistré ou le bail qui a lui été précédemment cédé au titre du paragraphe (1).
+> DORS/2007-273, art. 17.
+
+
+
+
+
+## Autres documents
+> [DORS/2007-273, art. 17]
 
 
 
 **63** 
 
 - **(1)** Le registraire minier enregistre les documents suivants :
-	- **a)** tout jugement ou ordonnance relativement à la propriété d’un claim ou d’une concession qui émane du juge d’un tribunal compétent, du ministre, du registraire minier en chef ou d’un registraire minier;
-	- **b)** un avis à l’égard des claims enregistrés et des concessions qui constituent une propriété minière ou des intérêts y afférents, portant sur des redevances minières exigibles et impayées dans les 30 jours suivant :
+	- **a)** tout jugement ou ordonnance portant sur la propriété d’un claim enregistré ou d’un bail qui émane du juge d’un tribunal compétent, du ministre, du registraire minier en chef ou d’un registraire minier;
+	- **b)** un avis à l’égard des claims enregistrés et des claims enregistrés faisant l’objet de baux qui constituent une propriété minière ou des intérêts y afférents, portant sur des redevances minières exigibles et impayées dans les trente jours suivant :
 		- **(i)** l’envoi au chef d’une déclaration de redevances minières les concernant,
 		- **(ii)** la date de l’avis de cotisation, lorsqu’un tel avis a été envoyé aux termes des paragraphes 67.2(1) ou (2), à moins qu’une demande de révision de l’avis ait été présentée en vertu de l’article 84;
-	- **c)** sous réserve du paragraphe (2), sur paiement du droit applicable prévu à l’annexe I, tout autre document déposé relativement à un claim ou à une concession.
+	- **c)** sous réserve du paragraphe (2), sur paiement du droit applicable prévu à l’annexe I, tout autre document déposé relativement à un claim ou à un bail.
 
-- **(2)** Aucun avis d’une fiducie expresse ou judiciaire ne peut être inscrit au dossier d’un claim enregistré.
+- **(2)** L’avis de fiducie expresse ou judiciaire n’est inscrit au registre d’un claim enregistré ou d’un bail que si la fiducie en cause est administrée par une personne visée au paragraphe 62(1).
 
 - **(3)** Tous les intéressés sont réputés avoir été avisés des documents enregistrés aux termes du paragraphe (1) à la date d’enregistrement.
 
-- **(4)** La cession d’un claim enregistré ou d’une concession, ou de tout intérêt y afférent, est assujettie à tout jugement, ordonnance, privilège ou charge enregistré à l’égard du claim ou de la concession, ou de l’intérêt y afférent, à la date de l’enregistrement de l’acte de cession.
-> DORS/99-219, art. 5.
+- **(4)** La cession d’un claim enregistré ou d’un bail, ou de tout intérêt y afférent, est assujettie à tout jugement, ordonnance, privilège ou grèvement enregistré à l’égard du claim ou du bail, ou de l’intérêt y afférent, à la date de l’enregistrement de l’acte de cession.
+> DORS/99-219, art. 5; DORS/2007-273, art. 18.
 
+
+
+
+
+## Redevances
+> [DORS/2007-273, art. 19]
 
 
 
@@ -1247,28 +1285,26 @@ selon le moins élevé de ces deux montants.
 
 - **(1)** Pour l’application du présent règlement, le jour de mise en production de la mine est :
 	- **a)** lorsque la mine comprend une usine de broyage ou un concentrateur, le premier jour de la première période de 90 jours pendant laquelle l’usine de broyage ou le concentrateur fonctionne en moyenne à au moins 60 pour cent de sa capacité;
-	- **b)** lorsque la mine ne comprend pas d’usine de broyage ou de concentrateur, la date à laquelle des minéraux ou des substances minéralisées commencent à en être extraits en quantités commerciales raisonnables.
+	- **b)** si la mine ne comprend pas d’usine de broyage ni de concentrateur, la date à laquelle des minéraux commencent à en être produits en quantité commerciale raisonnable.
 
-- **(2)** Pour l’application du présent règlement, un minéral ou une substance minéralisée est considéré comme étant extrait d’une mine et comme faisant partie de sa production si le minéral ou la substance est sous une forme vendable ou a été retiré de la mine.
+- **(2)** Pour l’application du présent règlement, tout minéral ou minéral traité est considéré comme étant produit par une mine et comme faisant partie de sa production s’il est sous une forme vendable ou s’il a été retiré de la mine.
 
-- **(3)** Pour l’application du présent règlement, les minéraux ou substances minéralisées provenant du traitement des résidus d’une mine sont réputés faire partie de sa production.
+- **(3)** Pour l’application du présent règlement, tout minéral ou minéral traité provenant du recyclage des résidus d’une mine est réputé faire partie de sa production.
 
 - **(4)** Pour l’application du présent règlement :
-	- **a)** lorsque les minéraux ou substances minéralisées ayant été vendus par l’exploitant à une personne qui ne lui est pas liée sont par la suite revendus à une personne qui lui est liée, ils sont réputés avoir été vendus directement par l’exploitant à la personne qui lui est liée;
-	- **b)** lorsque les minéraux ou substances minéralisées ayant été vendus par l’exploitant à une personne qui lui est liée sont par la suite revendus à une personne qui ne lui est pas liée et qu’une preuve à cet égard est fournie, ils sont réputés avoir été vendus directement par l’exploitant à la personne qui ne lui est pas liée.
-> DORS/88-9, art. 22; DORS/99-219, art. 5.
+	- **a)** si des minéraux ou minéraux traités ayant été vendus par l’exploitant à une personne qui ne lui est pas liée sont par la suite revendus à une personne qui lui est liée, ils sont réputés avoir été vendus par l’exploitant à la personne qui lui est liée;
+	- **b)** si des minéraux ou minéraux traités ayant été vendus par l’exploitant à une personne qui lui est liée sont par la suite revendus à une personne qui ne lui est pas liée et qu’une preuve à cet égard est fournie, ils sont réputés avoir été vendus par l’exploitant à la personne qui ne lui est pas liée.
+> DORS/88-9, art. 22; DORS/99-219, art. 5; DORS/2007-273, art. 20.
 
 
 
 
 **65** 
 
-- **(1)** Pour toute mine située sur des terres visées au paragraphe 3(1), le propriétaire ou l’exploitant verse à Sa Majesté, pour chaque exercice, des redevances d’un montant égal au moindre des montants suivants :
-	- **a)** 13 % de la valeur de la production de la mine durant l’exercice;
-	- **b)** le montant calculé conformément au tableau du présent paragraphe.
-
-## TABLEAU
-
+- **(1)** Le propriétaire ou l’exploitant d’une mine verse à Sa Majesté, pour chaque exercice, des redevances sur la valeur de la production de la mine durant l’exercice en cause d’une somme égale à la moins élevée des sommes suivantes :
+	- **a)** 13 % de la valeur de la production de la mine;
+	- **b)** la somme calculée conformément au tableau ci-après.
+#### TABLEAU
 <table>
 <tr>
 <th></th>
@@ -1279,11 +1315,6 @@ selon le moins élevé de ces deux montants.
 <th>Article</th>
 <th>Valeur de la production ($)</th>
 <th>Pourcentage</th>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
 </tr>
 <tr>
 <td>1</td>
@@ -1343,43 +1374,65 @@ selon le moins élevé de ces deux montants.
 </table>
 
 
-- **(2)** Les redevances payables en vertu du paragraphe (1) s’accumulent au cours de l’exercice à mesure que s’effectue la production de la mine, et sont payées à l’ordre du receveur général et remises au chef au plus tard le dernier jour du quatrième mois suivant la fin de l’exercice.
+- **(2)** Les redevances s’accumulent pendant l’exercice à mesure que la production avance. Elles sont payées à l’ordre du receveur général et remises au chef au plus tard le dernier jour du quatrième mois suivant la fin de l’exercice en cause.
 
-- **(3)** Sous réserve de l’alinéa 67.1(1)b), Sa Majesté peut, en ce qui concerne des redevances payables aux termes du paragraphe (1) pour un exercice donné, recouvrer le plein montant des redevances auprès de toute personne qui était, au cours de cet exercice, propriétaire ou exploitant de la mine ou auprès d’une personne qui lui est liée.
+- **(3)** Sous réserve de l’alinéa 67.1(1)b), toute personne qui était le propriétaire ou l’exploitant d’une mine pendant un exercice au cours duquel des redevances étaient dues est solidairement responsable du montant total des redevances à payer pour la période pendant laquelle elle était le propriétaire ou l’exploitant.
 
 - **(4)** Pour l’application du présent article, la valeur de la production d’une mine au cours d’un exercice est calculée selon la formule suivante :
 ```
-A + B - C + D + E + F + G + H - I
+A + B - C + D + E + F + G + H - I + J
 ```
 où :
-- **A** représente la somme :
-- **a)** du produit — preuve à l’appui — de la vente, durant l’exercice, des minéraux ou des substances minéralisées extraits de la mine, à des personnes qui ne sont pas liées à l’exploitant;
-- **b)** de la valeur marchande — déterminée conformément au paragraphe (5) — de tout minéral ou substance minéralisée extraits de la mine et vendus ou autrement aliénés en cours d’exercice;
-- **B** la valeur marchande — déterminée conformément au paragraphe (5) — de tout minéral ou substance minéralisée extraits de la mine en stock à la fin de l’exercice;
-- **C** la valeur marchande — déterminée conformément au paragraphe (5) — de tout minéral ou substance minéralisée extraits de la mine en stock au début de l’exercice;
+- **A** représente le total des sommes suivantes :
+- **a)** le produit de la vente, pendant l’exercice, des minéraux ou minéraux traités produits par la mine à des personnes non liées à l’exploitant, si la preuve de la vente est fournie,
+- **b)** la valeur marchande des minéraux ou minéraux traités produits par la mine qui ont été vendus ou transférés à une personne liée à l’exploitant ou, si la preuve de la disposition n’est pas fournie, à toute autre personne,
+- **c)** si les minéraux ou minéraux traités produits par la mine sont des pierres précieuses qui ont été taillées ou polies avant leur vente ou leur transfert, la valeur marchande de ces pierres précieuses avant leur taille ou leur polissage;
+- **B** la valeur marchande, déterminée conformément au paragraphe (5), des minéraux et minéraux traités produits par la mine en stock à la fin de l’exercice;
+- **C** la valeur marchande, déterminée conformément au paragraphe (5), des minéraux et minéraux traités produits par la mine en stock au début de l’exercice;
 - **D** le moindre des montants suivants :
 - **a)** tout paiement reçu au cours de l’exercice relativement à des frais pour lesquels une déduction a été réclamée en vertu du présent article,
 - **b)** ces frais;
 - **E** tout montant excédentaire visé à l’alinéa 65.1(5)b);
-- **F** tout montant retiré au cours de l’exercice d’une fiducie pour l’environnement admissible établie à l’égard de la mine, jusqu’à concurrence de l’ensemble des apports effectués au profit de la fiducie;
-- **G** toute prestation d’assurance versée, au cours de l’exercice, à l’égard de minéraux ou substances minéralisées provenant de la mine;
-- **H** toute subvention accordée à l’exploitant par le gouvernement fédéral relativement à la mine ou tout prêt relatif à celle-ci dont celui-ci lui a fait remise, au cours de l’exercice;
-- **I** le total des déductions réclamées en application du paragraphe 65.1(1).
+- **F** toute somme retirée, pendant l’exercice, d’une fiducie de restauration minière établie à l’égard de terres visées à l’article 3 jusqu’à concurrence du total des sommes versées à la fiducie;
+- **G** toute prestation d’assurance reçue, pendant l’exercice, à l’égard de minéraux et minéraux traités produits par la mine;
+- **H** toute subvention ou tout prêt — pour lequel l’exploitant a été dispensé de remboursement — accordé à l’exploitant par le gouvernement fédéral relativement à la mine pendant l’exercice;
+- **I** le total des déductions réclamées en application du paragraphe 65.1(1);
+- **J** le total des sommes suivantes :
+- **a)** l’excédent du total des sommes visées aux alinéas 65.1(8)d) et (8.1)e) sur la fraction non amortie des actifs amortissables admissibles à la déduction pour amortissement à la fin de l’exercice,
+- **b)** l’excédent du total des sommes visées aux alinéas 65.1(8.1)c) et d) sur la fraction non amortie de la déduction relative à l’aménagement à la fin de l’exercice.
 
-- **(5)** Sous réserve du paragraphe (6), la valeur marchande des minéraux ou des substances minéralisées vendus ou autrement aliénés à une personne liée à l’exploitant ou à toute autre personne lorsque la preuve du produit de la vente ou de l’aliénation n’est pas fournie, ainsi que la valeur marchande des minéraux et des substances minéralisées en stock est :
-	- **a)** en ce qui a trait aux pierres précieuses ou fines, le produit maximum probable de leur vente sur le marché libre, une fois triées en assortiments commerciaux :
-		- **(i)** dans le cas de pierres en stock au début ou à la fin de l’exercice de la mine, au début ou à la fin de celui-ci, selon le cas,
-		- **(ii)** dans les autres cas, au moment de leur dernière évaluation par l’évaluateur des redevances minières;
-	- **b)** en ce qui a trait aux autres minéraux ou substances minéralisées, le produit probable de leur vente à une personne qui n’est pas liée à l’exploitant :
-		- **(i)** au début ou à la fin de l’exercice lorsque la valeur est établie pour le stock d’ouverture ou de fermeture,
-		- **(ii)** au moment où les minéraux ou substances minéralisées sont expédiés de la mine, lorsque la valeur est établie à toute autre fin.
+- **(4.1)** Dans le calcul de la valeur de l’élément A de la formule figurant au paragraphe (4), si la mine est exploitée en une coentreprise dont les membres remettent des déclarations de redevances minières distinctes conformément au paragraphe 67.1(1) :
+	- **a)** la réaffectation de la totalité ou d’une partie de la production de la mine par un membre de la coentreprise en faveur d’un autre membre ne constitue pas une vente ni un transfert pour l’application du paragraphe 69(2), même si une contrepartie est versée pour cette réaffectation;
+	- **b)** toute contrepartie versée au membre dont la production a été réaffectée est incluse par ce membre comme produit de la vente des minéraux ou minéraux traités produits par la mine.
 
-- **(6)** La valeur des pierres précieuses ou fines — y compris leur valeur aux fins d’inventaire — extraites d’une mine qui sont destinées à être vendues à une personnes liée à l’exploitant de celle-ci est :
-	- **a)** si l’exploitant et l’évaluateur des redevances minières ont convenu d’un échantillon et d’une liste des prix pour la période au cours de laquelle l’évaluation est faite et conviennent que les pierres ont été triées selon cet échantillon, la valeur établie selon cette liste des prix et cet échantillon;
-	- **b)** la valeur convenue entre l’exploitant et l’évaluateur, le cas échéant.
+- **(4.2)** Il n’est pas tenu compte, dans le calcul de la valeur des éléments A à D, G et I de la formule figurant au paragraphe (4), de la valeur des minéraux et minéraux traités provenant des terres qui ne sont pas visées à l’article 3 et de leurs coûts de production.
 
-- **(7)** Les gains et les pertes provenant d’opérations de couverture ne peuvent entrer dans le calcul de la valeur de la production d’une mine.
-> DORS/79-234, art. 22; DORS/88-9, art. 23; DORS/98-433, art. 1; DORS/99-219, art. 5.
+- **(4.3)** Dans le cas de la déclaration de redevances minières établie pour le dernier exercice de production de la mine, l’exploitant peut, dans le calcul de la valeur de l’élément B de la formule figurant au paragraphe (4), choisir d’utiliser le produit réel de la vente des minéraux ou minéraux traités en stock à la fin de l’exercice à une personne non liée à l’exploitant, si la preuve de la vente est fournie, au lieu de la valeur marchande des minéraux ou minéraux traités en stock à la fin de l’exercice comme le prévoit le paragraphe (4).
+
+- **(4.4)** Le choix fait en application du paragraphe (4.3) est irrévocable.
+
+- **(5)** Si les minéraux ou minéraux traités visés aux alinéas b) et c) de l’élément A et aux éléments B et C de la formule figurant au paragraphe (4) sont des pierres précieuses, leur valeur marchande est la suivante :
+	- **a)** dans le cas où l’évaluateur des redevances minières et l’exploitant s’entendent sur la valeur des pierres, cette valeur;
+	- **b)** dans le cas où ils ne s’entendent pas, la valeur maximale qui pourrait être obtenue de la vente des pierres sur le marché libre une fois celles-ci triées selon leur classement commercial.
+
+- **(6)** Pour l’application du paragraphe (5), la valeur marchande est calculée :
+	- **a)** au début ou à la fin de l’exercice, dans le cas où il s’agit de déterminer la valeur des stocks;
+	- **b)** au moment de la dernière évaluation de l’évaluateur des redevances minières, dans les autres cas.
+
+- **(7)** Si les minéraux ou minéraux traités visés aux alinéas b) et c) de l’élément A et aux éléments B et C de la formule figurant au paragraphe (4) ne sont pas des pierres précieuses, leur valeur marchande est égale au prix qui pourrait être obtenu de leur vente à une personne non liée à l’exploitant.
+
+- **(8)** Pour l’application du paragraphe (7), la valeur marchande est calculée :
+	- **a)** au début ou à la fin de l’exercice, dans le cas où il s’agit de déterminer la valeur des stocks;
+	- **b)** au moment où les minéraux ou minéraux traités sont expédiés de la mine, dans les autres cas.
+
+- **(9)** Les gains et les pertes provenant d’opérations de couverture n’entrent pas dans le calcul de la valeur de la production de la mine.
+
+- **(10)** Pour l’application du présent règlement, le taux de change utilisé pour convertir en dollars canadiens les devises étrangères est celui annoncé par la Banque du Canada à midi :
+	- **a)** le jour où la transaction en devises étrangères est effectuée;
+	- **b)** si les stocks sont évalués en devises étrangères, le jour où prend fin l’exercice.
+
+- **(11)** Lorsque des frais d’exploitation sont engagés pour des opérations ayant lieu à l’extérieur du Canada, l’exploitant peut convertir en dollars canadiens les transactions en devises étrangères relatives à ces frais, selon le taux de change moyen à midi de la Banque du Canada du mois au cours duquel les frais ont été engagés.
+> DORS/79-234, art. 22; DORS/88-9, art. 23; DORS/98-433, art. 1; DORS/99-219, art. 5; DORS/2007-273, art. 21.
 
 
 
@@ -1387,33 +1440,38 @@ où :
 **65.1** 
 
 - **(1)** Dans le calcul de la valeur de la production d’une mine pour un exercice, seuls les montants suivants peuvent être déduits :
-	- **a)** les frais engagés au cours de l’exercice pour trier, évaluer, commercialiser et vendre les minéraux ou les substances minéralisées extraits de la mine;
-	- **b)** les frais engagés au cours de l’exercice pour l’assurance visant les minéraux ou les substances minéralisées extraits de la mine, pour leur entreposage, leur manutention et leur transport vers l’usine de fusion, l’usine de traitement ou l’usine d’affinage ou les marchés, et les droits payables à leur égard;
-	- **c)** les frais engagés au cours de l’exercice pour l’extraction des minéraux ou des substances minéralisées de la mine et leur traitement ou pour le traitement des résidus de la mine;
-	- **d)** les frais engagés au cours de l’exercice pour les réparations et l’entretien de la mine;
+	- **a)** les frais engagés au cours de l’exercice au titre du triage, de l’évaluation, de la commercialisation et de la vente des minéraux ou minéraux traités produits par la mine;
+	- **b)** les frais engagés au cours de l’exercice au titre de l’assurance, de l’entreposage et de la manutention des minéraux ou minéraux traités produits par la mine ainsi qu’au titre de leur transport vers une usine de traitement ou vers les marchés;
+	- **c)** les frais engagés au cours de l’exercice au titre de la production et du traitement des minéraux ou minéraux traités de la mine;
+	- **d)** les frais engagés à la mine au cours de l’exercice au titre des réparations, de l’entretien et des restaurations;
+	- **d.1)** la contrepartie versée par un membre d’une coentreprise pour les minéraux ou minéraux traités réaffectés à un autre membre de la coentreprise, si chaque membre remet une déclaration de redevances minières distincte conformément à l’article 67.1;
 	- **e)** les frais généraux et indirects engagés au cours de l’exercice et qui ne sont pas autrement compris dans les frais d’exploitation, lorsqu’ils ont trait aux biens, aux employés ou aux opérations de la mine;
 	- **f)** les frais d’exploration engagés au cours de l’exercice par un propriétaire de la mine sur des terres visées au paragraphe 3(1), ailleurs que sur la propriété minière, si une déduction n’a pas déjà été réclamée à leur égard aux termes du présent règlement, jusqu’à concurrence de 10 % de la valeur de la production de la mine multipliée par la part du propriétaire de cette production, calculée :
 		- **(i)** après soustraction des montants visés aux alinéas a) à e),
-		- **(ii)** avant soustraction de toute déduction pour amortissement ou relative à l’aménagement, au traitement ou à l’apport à une fiducie pour l’environnement admissible;
-	- **g)** sous réserve du paragraphe (5), une déduction pour amortissement ne dépassant pas la fraction non amortie des actifs amortissables à la fin de l’exercice de la mine;
-	- **h)** une déduction relative à l’aménagement, déterminée par l’exploitant, ne dépassant pas la fraction non amortie à la fin de l’exercice de la mine des montants suivants :
+		- **(ii)** avant soustraction de toute déduction pour amortissement ou toute déduction relative à l’aménagement, au traitement ou à l’apport effectué au profit d’une fiducie de restauration minière;
+	- **g)** sous réserve du paragraphe (5), des alinéas (8)d) et (8.1)e) et du paragraphe (9), une déduction pour amortissement des actifs amortissables de la mine et des actifs amortissables des installations situées à l’extérieur des territoires et utilisées pour le traitement des minéraux ou minéraux traités produits par la mine dont le montant ne dépasse pas la fraction non amortie du coût de ces actifs amortissables à la fin de l’exercice;
+	- **h)** une déduction relative à l’aménagement ne dépassant pas la fraction non amortie à la fin de l’exercice du total des sommes suivantes :
 		- **(i)** les frais d’exploration engagés, avant la date de mise en production, sur la propriété minière telle qu’elle était à cette date, et non déduits aux termes de l’alinéa f) à l’égard de toute autre mine,
-		- **(ii)** tous les frais de démarrage de la mine, moins :
-			- **(A)** la valeur des minéraux ou des substances minéralisées extraits de la propriété minière qui ont été vendus ou autrement aliénés avant la date de mise en production, calculée conformément à l’article 65,
-			- **(B)** la valeur marchande des minéraux ou substances minéralisées extraits de la propriété minière qui sont en stock à la date de mise en production, calculée conformément au paragraphe 65(5),
+		- **(ii)** l’excédent des frais engagés avant la date de mise en production de la mine en vue d’en lancer la production sur le total des sommes suivantes :
+			- **(A)** la valeur des minéraux ou minéraux traités provenant de la propriété minière qui ont été vendus ou transférés avant la date de mise en production, calculée conformément à l’article 65,
+			- **(B)** la valeur marchande des minéraux ou minéraux traités provenant de la propriété minière qui sont en stock à la date de mise en production, calculée conformément à l’article 65,
 		- **(iii)** les frais d’exploration engagés sur la propriété minière après la date de mise en production,
 		- **(iv)** les frais engagés après la date de début de la production pour des ouvrages conçus pour un usage prolongé, y compris le dégagement ou l’enlèvement des terrains de recouvrement d’un nouveau gisement à la mine, la perforation, le creusage ou l’extension d’un puits de mine, d’une galerie de roulage principale ou autres travaux souterrains similaires, la construction d’une galerie horizontale ou autre voie d’accès souterraine, et la construction d’une route ou de structures d’évacuation des résidus à la mine,
-		- **(v)** lorsque des minéraux ou substances minéralisées proviennent en quantité commerciale raisonnable d’un claim enregistré ou d’une concession qui a été incorporé à la propriété minière existante après la date de mise en production :
-			- **(A)** dans le cas où le claim ou la concession a été acheté, le prix d’achat ou, s’il est moindre, le montant visé à la division (B),
-			- **(B)** dans les autres cas, les frais visés aux sous-alinéas (i) et (ii) engagés à l’égard du claim ou de la concession ainsi incorporé et pour lesquels une déduction n’a pas déjà été réclamée aux termes du présent règlement;
-	- **i)** une déduction relative à l’apport à une fiducie pour l’environnement admissible, déterminée par l’exploitant, ne dépassant pas la fraction non amortie, à la fin de l’exercice, des apports effectués au profit de la fiducie pour l’environnement admissible à l’égard de la mine;
-	- **j)** si du minerai ou des substances minéralisées sont traités par l’exploitant de la mine avant la vente, une déduction annuelle relative au traitement égale au moindre des montants suivants :
-		- **(i)** sous réserve du paragraphe (2), 8 % du coût d’origine des biens utilisés pour le traitement et appartenant à l’exploitant à la fin de l’exercice de la mine,
-		- **(ii)** 65 % de la valeur de la production de la mine, après soustraction des montants visés aux alinéas a) à i).
+		- **(v)** si des minéraux ou minéraux traités sont produits en quantité commerciale soit à partir d’un claim enregistré ou d’un claim enregistré faisant l’objet d’un bail qui a été incorporé à la propriété minière après la date de mise en production, soit à partir d’une autre propriété minière qui a été incorporée à la mine après la date de mise en production :
+			- **(A)** dans le cas où le claim ou le bail a été acheté, le prix d’achat ou, s’ils sont moins élevés, les frais visés à la division (B),
+			- **(B)** dans les autres cas, les frais visés aux sous-alinéas (i) et (ii) engagés à l’égard du claim ou du bail ainsi incorporé et pour lesquels une déduction n’a pas déjà été réclamée en vertu du présent règlement;
+	- **i)** une déduction relative à l’apport effectué au profit d’une fiducie de restauration minière, déterminée par l’exploitant, ne dépassant pas la fraction non amortie, à la fin de l’exercice, des apports effectués au profit de la fiducie de restauration minière en raison des répercussions environnementales découlant de l’exploitation minière des terres visées à l’article 3;
+	- **j)** si des minéraux ou minéraux traités ont été traités par l’exploitant de la mine avant leur vente ou leur transfert, une déduction annuelle relative au traitement égale à la moins élevée des sommes suivantes :
+		- **(i)** sous réserve du paragraphe (2), 8 % du coût d’origine des biens utilisés pour le traitement dont l’exploitant fait usage dans le traitement de la production de la mine pendant l’exercice,
+		- **(ii)** 65 % de la valeur de la production de la mine, déduction faite des sommes visées aux alinéas a) à i);
+	- **k)** si des minéraux ou minéraux traités de la mine sont traités dans une autre mine ou dans des installations situées à l’extérieur des territoires et utilisées pour le traitement des minéraux ou minéraux traités produits par une autre mine appartenant à l’exploitant ou à une personne liée à celui-ci, le total des sommes suivantes :
+		- **(i)** les frais engagés à l’égard de l’autre mine qui ne sont pas déductibles aux termes de l’alinéa (8)b),
+		- **(ii)** la réduction aux termes de l’alinéa (8)c) de la déduction relative au traitement de l’autre mine,
+		- **(iii)** le rajustement de la fraction non amortie du coût d’origine des actifs amortissables de l’autre mine aux termes de l’alinéa (8)d).
 
 - **(2)** Lorsqu’une mine est en production durant moins de 12 mois au cours d’un exercice ou que son exercice est de moins de 12 mois :
-	- **a)** la déduction relative au traitement correspond à 8 % de un douzième du nombre de mois de production de la mine durant l’exercice ou du nombre de mois que comprend l’exercice inférieur à 12 mois;
-	- **b)** chaque montant indiqué à la colonne I du tableau du paragraphe 65(1) est multiplié par un douzième du nombre de mois de production de la mine durant cet exercice ou du nombre de mois que comprend l’exercice inférieur à 12 mois.
+	- **a)** la déduction relative au traitement calculée conformément au sous-alinéa (1)j)(i) est multipliée par un douzième du nombre de mois de production de la mine pendant l’exercice ou du nombre de mois que comprend l’exercice de moins de douze mois;
+	- **b)** les sommes indiquées à la colonne I du tableau du paragraphe 65(1) sont multipliées par un douzième du nombre de mois de production de la mine pendant l’exercice ou du nombre de mois que comprend l’exercice de moins de douze mois.
 
 - **(3)** Lorsque l’exploitant d’une mine réclame une déduction pour les frais engagés relativement à une opération avec une personne liée, le montant de la déduction permise par le présent article est le montant des frais réels engagés par la personne liée, à l’exclusion de tout bénéfice, gain ou commission versé à cette personne ou à toute autre personne liée à l’exploitant.
 
@@ -1429,38 +1487,53 @@ où :
 
 - **(7)** Lorsque l’exploitant d’une mine achète d’une personne liée un actif admissible à une déduction pour amortissement ou cède à la mine un actif provenant d’une autre mine lui appartenant, le coût de l’actif aux fins du calcul de cette déduction correspond au montant probable qu’il aurait à payer pour acheter cet actif d’une personne qui ne lui est pas liée.
 
-- **(8)** Lorsque, au cours d’un exercice donné, l’exploitant d’une mine se sert de biens utilisés pour le traitement dans une mine pour traiter des minéraux ou des substances minéralisées extraites d’une autre mine :
-	- **a)** les produits du traitement ne sont pas inclus dans la valeur de la production de cette mine;
-	- **b)** les déductions pour l’exercice au titre des frais d’exploitation de l’usine de broyage et de l’ensemble des immobilisations utilisés pour calculer la déduction relative au traitement sont réduits d’un pourcentage égal à la proportion des frais d’exploitation de l’usine de broyage qui sont attribuables au traitement des minéraux ou des substances minéralisées provenant de l’autre mine durant cet exercice;
-	- **c)** la déduction pour amortissement des actifs amortissables servant au traitement pour l’exercice doit être réduite d’un pourcentage égal à la proportion des frais d’exploitation de l’usine de broyage qui sont attribuables au traitement des minéraux ou des substances minéralisées provenant de l’autre mine.
+- **(8)** Si, au cours d’un exercice, l’exploitant d’une mine se sert des actifs amortissables de la mine ou d’installations situées à l’extérieur des territoires et utilisées pour le traitement des minéraux ou minéraux traités produits par la mine pour traiter des minéraux ou minéraux traités qui ne proviennent pas de la mine :
+	- **a)** les revenus tirés de la vente ou du traitement de ces minéraux ou minéraux traités sont exclus de la valeur de la production de la mine;
+	- **b)** la déduction pour les frais engagés pendant l’exercice aux termes des alinéas (1)a) à e) est réduite des frais engagés pour le traitement de minéraux ou minéraux traités qui ne proviennent pas de la mine;
+	- **c)** le coût d’origine des biens utilisés pour le traitement ayant servi au calcul de la déduction relative au traitement aux termes du sous-alinéa (1)j)(i) est réduit d’une somme égale au coût d’origine des biens utilisés pour le traitement multiplié par le rapport entre, d’une part, les frais engagés pendant l’exercice aux termes des alinéas (1)a) à e) pour le traitement des minéraux ou minéraux traités qui ne proviennent pas de la mine et, d’autre part, le total des frais engagés pendant l’exercice aux termes des mêmes alinéas pour le traitement de tous les minéraux ou minéraux traités à la mine;
+	- **d)** la fraction non amortie du coût d’origine des actifs amortissables de la mine à la fin de l’exercice est rajustée par soustraction d’une somme égale au coût d’origine des actifs amortissables ayant servi au traitement de minéraux ou minéraux traités qui ne proviennent pas de la mine multiplié par le rapport entre, d’une part, les frais engagés pendant l’exercice et tous les exercices précédents aux termes des alinéas (1)a) à e) pour le traitement au moyen de ces actifs des minéraux ou minéraux traités qui ne proviennent pas de la mine et, d’autre part, le total des frais engagés pendant l’exercice et tous les exercices précédents aux termes des mêmes alinéas pour le traitement au moyen de ces actifs de tous les minéraux ou minéraux traités à la mine.
 
-- **(9)** Lorqu’une déduction pour amortissement au cours d’un exercice a été réduite conformément à l’alinéa (8)c), la fraction non amortie des actifs amortissables de la mine admissibles à une telle déduction pour l’exercice est réduite du montant de la déduction pour amortissement réclamée avant toute réduction visée à cet alinéa relativement à la proportion des frais d’exploitation de l’usine de broyage qui sont attribuables au traitement des minéraux ou des substances minéralisées provenant de l’autre mine.
+- **(8.1)** Si des minéraux ou minéraux traités sont produits par une mine située à la fois sur des terres visées à l’article 3 et sur d’autres terres :
+	- **a)** la déduction pour les frais engagés pendant l’exercice aux termes des alinéas (1)a) à e) est réduite des frais engagés pour la production de minéraux ou minéraux traités qui ne proviennent pas des terres visées à l’article 3;
+	- **b)** le coût d’origine des biens utilisés pour le traitement ayant servi au calcul de la déduction relative au traitement aux termes du sous-alinéa (1)j)(i) est réduit d’une somme égale au coût d’origine des biens utilisés pour le traitement multiplié par le rapport entre, d’une part, les frais engagés pendant l’exercice aux termes des alinéas (1)a) à e) pour le traitement des minéraux ou minéraux traités qui ne proviennent pas des terres visées à l’article 3 et, d’autre part, le total des frais engagés pendant l’exercice aux termes des mêmes alinéas pour le traitement de tous les minéraux ou minéraux traités à la mine;
+	- **c)** la fraction non amortie des frais admissibles à la déduction relative à l’aménagement de la mine à la fin de l’exercice est rajustée par soustraction d’une somme égale aux frais engagés aux termes du sous-alinéa (1)h)(ii) multipliée par le rapport entre, d’une part, les frais engagés pendant l’exercice et tous les exercices précédents aux termes des alinéas (1)a) à e) pour la production de minéraux ou minéraux traités qui ne proviennent pas des terres visées à l’article 3 et, d’autre part, le total des frais engagés pendant l’exercice et tous les exercices précédents aux termes des mêmes alinéas pour la production de tous les minéraux ou minéraux traités à la mine;
+	- **d)** la fraction non amortie des frais admissibles à la déduction relative à l’aménagement de la mine à la fin de l’exercice est rajustée par soustraction d’une somme égale aux frais engagés pour les ouvrages visés au sous-alinéa (1)h)(iv) servant à la production de minéraux ou minéraux traités qui ne proviennent pas des terres visées à l’article 3 multipliée par le rapport entre, d’une part, les frais engagés pendant l’exercice et tous les exercices précédents aux termes des alinéas (1)c) à e) pour l’usage de ces ouvrages dans la production de minéraux ou minéraux traités qui ne proviennent pas des terres visées à l’article 3 et, d’autre part, le total des frais engagés pendant l’exercice et tous les exercices précédents aux termes des mêmes alinéas pour l’usage de ces ouvrages dans la production de tous les minéraux ou minéraux traités à la mine;
+	- **e)** la fraction non amortie du coût d’origine des actifs amortissables de la mine à la fin de l’exercice est rajustée par soustraction d’une somme égale au coût d’origine des actifs amortissables utilisés dans la production ou le traitement des minéraux ou minéraux traités qui ne proviennent pas des terres visées à l’article 3 multiplié par le rapport entre, d’une part, les frais engagés pendant l’exercice et tous les exercices précédents aux termes des alinéas (1)a) à e) pour l’utilisation de ces actifs dans la production ou le traitement des minéraux ou minéraux traités qui ne proviennent pas des terres visées à l’article 3 et, d’autre part, le total des frais engagés pendant l’exercice et tous les exercices précédents aux termes des mêmes alinéas pour l’utilisation de ces actifs dans la production ou le traitement de tous les minéraux ou minéraux traités à la mine.
+
+- **(9)** Les rajustements prévus aux alinéas (8)d) et (8.1)c) à e) sont calculés à la fin de chaque exercice de la mine et la différence entre la somme calculée pour l’exercice et la somme calculée pour les exercices précédents est additionnée à la fraction non amortie des actifs amortissables ou des frais admissibles à la déduction relative à l’aménagement, ou en est soustraite, s’il y a lieu.
 
 - **(10)** Malgré les autres dispositions du présent article, aucune déduction n’est accordée relativement à une mine pour :
-	- **a)** le coût en capital d’usines, de machinerie, d’équipement ou d’immeubles autres que ceux visés à l’alinéa (1)g);
-	- **b)** la baisse de la valeur de la mine ou de la propriété minière par suite de l’épuisement des réserves de minerai ou de minéraux;
+	- **a)** le coût en capital des actifs amortissables autres que ceux visés par la déduction pour amortissement prévue à l’alinéa (1)g);
+	- **b)** la baisse de la valeur de la mine ou de la propriété minière en raison de l’épuisement des réserves de minéraux;
 	- **c)** lorsque le propriétaire ou l’exploitant de la mine est une société :
 		- **(i)** la rémunération et les frais de déplacement des administrateurs,
 		- **(ii)** les honoraires versés aux agents des transferts des actions,
-		- **(iii)** l’établissement des états financiers et des rapports des actionnaires et la préparation des réunions des actionnaires,
-		- **(iv)** les frais pour services juridiques et services de comptabilité ou autres, liés à la constitution en personne morale de sociétés, aux réorganisations et à l’émission de valeurs mobilières ou d’actions;
+		- **(iii)** les réunions des actionnaires et l’établissement des rapports des actionnaires,
+		- **(iv)** les frais juridiques, de comptabilité et autres liés à la constitution en personne morale, aux réorganisations, au financement et à l’émission de valeurs mobilières ou d’actions;
 	- **d)** l’intérêt sur toute dette, y compris les découverts, les emprunts, les avances, les hypothèques, les débentures ou les obligations, capitalisé ou passé en charges à des fins de comptabilité;
-	- **e)** la rémunération des dirigeants et les frais engagés pour des services de gestion et de consultation et pour les bureaux hors mine, sauf s’ils sont directement liés à l’exploitation de la mine ou à la commercialisation et à la vente des minéraux ou des substances minéralisées qui en sont extraits;
-	- **f)** les impôts payables sur les profits, les biens ou le capital, ou les paiements en tenant lieu, versés à tous les niveaux de gouvernement;
-	- **g)** les redevances payées pour l’utilisation d’une propriété minière ou les redevances calculées sur les produits, la production ou les bénéfices de la mine;
+	- **e)** la rémunération des dirigeants, les frais d’administration et de consultation ainsi que les frais relatifs aux bureaux qui ne sont pas situés sur le site de la mine, sauf s’ils sont directement liés à l’exploitation de la mine ou à la commercialisation et à la vente des minéraux ou minéraux traités produits par la mine;
+	- **f)** les impôts ou taxes sur les bénéfices, les biens ou le capital, ou les paiements en tenant lieu, versés à tous les ordres de gouvernement et les frais de préparation des déclarations de revenus relatifs à ces impôts ou taxes, à l’exception des droits de douanes, des taxes de vente et d’accise qui ne sont pas à rembourser à l’exploitant et des impôts concernant l’emploi de personnel, ainsi que les frais de préparation des déclarations de revenus relatifs à ces taxes;
+	- **g)** les redevances payées pour l’utilisation d’une propriété minière ou les redevances calculées sur les revenus, la production ou les bénéfices de la mine et les frais relatifs au calcul de ces redevances sauf si ces frais sont de redevances à payer au titre du présent règlement;
 	- **h)** les paiements faits à un organisme, à une collectivité ou à une société autochtone ou autre, qui ne sont pas attribuables à la fourniture de biens et à la prestation de services directement reliés à l’aménagement et à l’exploitation de la mine ou à la prospection et à l’exploration sur des terres visées au paragraphe 3(1);
 	- **i)** les paiements effectués pour utiliser ou louer la surface du terrain sur lequel se trouve la mine, ou pour y avoir accès;
 	- **j)** les escomptes accordés sur les obligations, les débentures, les actions et les créances vendues;
-	- **k)** les augmentations du fonds de réserve ou de la réserve pour éventualités, à l’exception de celles se rapportant à une fiducie pour l’environnement admissible;
+	- **k)** les augmentations du fonds de réserve ou de la réserve pour éventualités, à l’exception de celles se rapportant à une fiducie de restauration minière;
 	- **l)** les droits d’adhésion versés pour des personnes, autres que les employés, prenant part à l’exploitation de la mine;
-	- **m)** les primes d’assurance, sauf celles versées pour les minéraux ou substances minéralisées extraits de la mine;
-	- **n)** les frais engagés au cours de l’exercice pour obtenir des produits qui n’entrent pas dans le calcul de la valeur de la production de la mine;
-	- **o)** sous réserve du sous-alinéa 65.1(1)h)(v), le prix d’achat d’un claim enregistré, d’une concession ou d’une mine;
+	- **m)** les primes d’assurance, sauf celles payées pour les minéraux ou minéraux traités produits par la mine;
+	- **n)** les frais engagés pendant l’exercice pour générer des revenus qui n’entrent pas dans le calcul de la valeur de la production de la mine;
+	- **o)** sous réserve du sous-alinéa 65.1(1)h)(v), le prix d’achat d’un claim enregistré, d’un claim enregistré faisant l’objet d’un bail ou d’une mine;
 	- **p)** le prix d’achat de tout instrument financier;
 	- **q)** les dons de charité;
 	- **r)** les frais engagés pour la publicité ne visant pas la production d’une mine en particulier;
-	- **s)** les frais non dûment attestés conformément aux pratiques de vérification généralement reconnues.
-> DORS/99-219, art. 5.
+	- **s)** les frais qui ne sont pas attestés conformément aux normes de vérification généralement reconnues;
+	- **t)** le coût des stocks de combustible, des biens de consommation ou des pièces de rechange qui n’ont pas été utilisés dans le cadre de l’exploitation de la mine;
+	- **u)** le coût du jalonnement ou de l’enregistrement d’un claim ou le coût de l’arpentage d’un claim effectué en vue d’obtenir un bail;
+	- **v)** le loyer payé pour le bail d’un claim enregistré en vertu du présent règlement;
+	- **w)** les coûts relatifs à l’établissement de données financières qui ne sont pas nécessaires au calcul des redevances minières;
+	- **x)** les frais engagés après la dernière évaluation des pierres précieuses faite par l’évaluateur des redevances minières si celles-ci ont été vendues ou transférées à une personne liée ou à toute autre personne, si la preuve de leur disposition n’est pas fournie, ou si elles ont été taillées ou polies avant leur vente ou leur transfert;
+	- **y)** les frais engagés pour les relations publiques et administratives et pour les relations avec les collectivités, sauf s’ils ont été engagés pour une évaluation environnementale ou pour tout autre processus réglementaire;
+	- **z)** toute amende, peine et sanction de même que tout paiement illicite.
+> DORS/99-219, art. 5; DORS/2007-273, art. 22.
 
 
 
@@ -1470,46 +1543,50 @@ où :
 - **(1)** Le changement de propriétaire ou d’exploitant de la mine n’a pas pour effet de modifier :
 	- **a)** la fraction non amortie des actifs amortissables admissibles à une déduction pour amortissement;
 	- **b)** la fraction non amortie des frais admissibles à la déduction relative à l’aménagement;
-	- **c)** la fraction non amortie des apports effectués au profit d’une fiducie pour l’environnement admissible;
+	- **c)** la fraction non amortie des apports effectués au profit d’une fiducie de restauration minière;
 	- **d)** le coût d’origine des actifs ayant servi au calcul de la déduction relative au traitement.
 
-- **(2)** Sous réserve de l’alinéa 65.1(1)h), lorsque un claim enregistré ou une concession devient périmé, est annulé ou abandonné, tous les frais engagés relativement à ce claim ou cette concession qui seraient autrement admissibles à une déduction relative à l’aménagement cessent d’être admissibles à une telle déduction à l’égard de toute mine sur ce terrain.
-> DORS/99-219, art. 5.
+- **(2)** Sous réserve de l’alinéa 65.1(1)h), si un claim enregistré ou un bail devient périmé ou est annulé ou abandonné, tous les frais engagés relativement au claim ou au bail qui seraient autrement admissibles à une déduction relative à l’aménagement deviennent périmés et cessent d’être admissibles à une telle déduction à l’égard de toute mine.
+
+- **(3)** Si une propriété minière est acquise par l’exploitant d’une autre mine et que les activités des propriétés minières sont regroupées dans une seule, la fraction non amortie des coûts admissibles à une déduction relative à l’aménagement, la fraction non amortie du coût des actifs amortissables admissible à une déduction pour amortissement, la fraction non amortie des apports effectués au profit d’une fiducie de restauration minière et le coût d’origine des biens utilisés pour le traitement admissible à la déduction relative au traitement pour chaque mine doivent être regroupés.
+
+- **(4)** Pour l’application du paragraphe (3), si l’exploitant achète une propriété minière du ministre, la valeur de la fraction non amortie des coûts admissibles à une déduction relative à l’aménagement, de la fraction non amortie du coût des actifs amortissables admissible à une déduction pour amortissement et du coût d’origine des biens utilisés pour le traitement admissible à la déduction relative au traitement de la mine achetée correspond à celle établie au moment où le ministre a acquis la propriété minière ou à celle établie dans la convention d’achat-vente de la propriété, si celle-ci est inférieure.
+> DORS/99-219, art. 5; DORS/2007-273, art. 23.
 
 
 
 
 **66** 
 
-- **(1)** Lorsque, au cours d’une année donnée, du minerai, des minéraux ou des substances minéralisées provenant d’une concession et dont la valeur brute dépasse 100 000 $ sont traités à une mine ou en sont retirés, ou sont vendus ou autrement aliénés, le concessionnaire, dans le mois suivant la fin de cette année, remet au chef une déclaration qui comprend :
+- **(1)** Si, au cours d’une année donnée, des minéraux ou minéraux traités qui proviennent d’un claim enregistré faisant l’objet d’un bail et dont la valeur brute dépasse 100 000 $ sont traités à la mine, en sont retirés ou sont vendus ou autrement disposés, le preneur à bail, dans le mois suivant la fin de cette année, remet au chef une déclaration qui comporte les renseignements suivants :
 	- **a)** le nom et la description de la mine;
-	- **b)** les nom et adresse de tous les propriétaires, exploitants et autres concessionnaires de la mine;
+	- **b)** les nom et adresse de tous les propriétaires, exploitants et preneurs à bail de la mine;
 	- **c)** les nom et adresse d’une personne à qui les avis peuvent être envoyés;
-	- **d)** le poids et la valeur du minerai, des minéraux ou des substances minéralisées traités à la mine, retirés de celle-ci, ou vendus ou autrement aliénés durant l’année et au cours de chaque mois de l’année;
+	- **d)** le poids et la valeur des minéraux ou minéraux traités qui ont été traités à la mine, retirés de celle-ci, vendus ou autrement disposés pendant l’année et au cours de chaque mois de l’année;
 	- **e)** la capacité de production nominale de toute usine de traitement à la mine, notamment toute usine de broyage ou de concentration.
 
-- **(2)** Le concessionnaire qui a produit la déclaration avise sans délai le chef :
+- **(2)** Le preneur à bail qui a produit la déclaration avise sans délai le chef :
 	- **a)** de tout changement apporté aux nom et adresse de la personne à qui les avis peuvent être envoyés;
 	- **b)** de tout changement de propriétaire ou d’exploitant de la mine.
-> DORS/99-219, art. 5.
+> DORS/99-219, art. 5; DORS/2007-273, art. 24.
 
 
 
 
 **67** 
 
-- **(1)** Au plus tard le dernier jour du quatrième mois suivant la fin de l’exercice d’une mine, y compris celui où la production a commencé, et au plus tard le même jour chaque année après que la production de la mine a cessé jusqu’à ce que celle-ci soit complètement déclassée, l’exploitant de la mine remet au chef une déclaration de redevances minières sur la formule prescrite par le ministre aux termes de l’article 28 de la Loi, qui comprend :
+- **(1)** Au plus tard le dernier jour du quatrième mois suivant la fin de l’exercice d’une mine, y compris l’exercice au cours duquel la production a débuté et tous les exercices suivants au cours desquels des sommes sont indiquées pour calculer la valeur des éléments A à H et J de la formule figurant au paragraphe 65(4), l’exploitant de la mine remet au chef une déclaration de redevances minières, selon la formule prescrite par le ministre conformément à l’article 28 de la Loi, qui comporte les renseignements suivants :
 	- **a)** le nom et la description de la mine;
 	- **b)** les nom et adresse de l’exploitant;
-	- **c)** le nom de toute usine de fusion, d’affinage ou de broyage où le minerai, les minéraux ou les substances minéralisées ont été expédiés de la mine pour traitement;
-	- **d)** le poids des minéraux ou substances minéralisées provenant de la mine extraits au cours de l’exercice;
-	- **e)** le poids et la valeur des minéraux ou substances minéralisées extraits de la mine :
+	- **c)** le nom des usines de traitement où les minéraux ou minéraux traités ont été expédiés de la mine pour traitement;
+	- **d)** le poids des minéraux ou minéraux traités produits par la mine pendant l’exercice;
+	- **e)** le poids et la valeur des minéraux ou minéraux traités produits par la mine :
 		- **(i)** vendus ou autrement aliénés au cours de l’exercice à des personnes non liées à l’exploitant,
 		- **(ii)** vendus ou autrement aliénés au cours de l’exercice à des personnes liées à l’exploitant,
 		- **(iii)** en stock au début de l’exercice,
 		- **(iv)** en stock à la fin de l’exercice;
 	- **f)** tous les frais et déductions réclamés aux termes du paragraphe 65.1(1);
-	- **g)** dans le cas d’une déduction réclamée au titre des frais d’exploration en vertu de l’alinéa 65.1(1)f), ou lorsque des frais sont inclus dans les frais admissibles au titre de la déduction relative à l’aménagement en vertu de l’alinéa 65.1(1)h), les claims enregistrés ou les concessions pour lesquels ces frais ont été engagés;
+	- **g)** dans le cas d’une déduction réclamée au titre des frais d’exploration en vertu de l’alinéa 65.1(1)f), ou lorsque des frais sont inclus dans les frais admissibles au titre de la déduction relative à l’aménagement en vertu de l’alinéa 65.1(1)h), les claims enregistrés ou les baux pour lesquels ces frais ont été engagés;
 	- **h)** en ce qui a trait aux actifs amortissables :
 		- **(i)** leur fraction non amortie au début de l’exercice,
 		- **(ii)** le coût de l’acquisition de tels actifs au cours de l’exercice,
@@ -1519,11 +1596,11 @@ où :
 		- **(vi)** le coût d’origine des actifs amortissables aliénés au cours de l’exercice;
 	- **i)** en ce qui a trait aux déductions relatives à l’aménagement :
 		- **(i)** la fraction non amortie au début de l’exercice des frais admissibles au titre d’une telle déduction,
-		- **(ii)** lorsque la déclaration porte sur le premier exercice de la mine, le montant des frais énumérés aux sous-alinéas 65.1(1)h)(i) et (ii),
+		- **(ii)** si la déclaration de redevances minières est présentée pour le premier exercice de la mine, le montant des frais déterminés conformément aux sous-alinéas 65.1(1)h)(i) et (ii),
 		- **(iii)** le montant des frais indiqués à chacun des sous-alinéas 65.1(1)h)(iii) à (v) engagés au cours de l’exercice,
 		- **(iv)** la fraction non amortie des frais admissibles à une telle déduction à la fin de l’exercice, avant la soustraction d’une telle déduction,
 		- **(v)** la fraction non amortie des frais admissibles à une telle déduction à la fin de l’exercice, après soustraction d’une telle déduction;
-	- **j)** en ce qui a trait à une fiducie pour l’environnement admissible relativement à la mine :
+	- **j)** en ce qui a trait à une fiducie de restauration minière établie à l’égard de terres visées à l’article 3 :
 		- **(i)** le total des apports effectués à son profit,
 		- **(ii)** la fraction non amortie des apports effectués à son profit au début de l’exercice,
 		- **(iii)** les apports effectués à son profit au cours de l’exercice,
@@ -1542,16 +1619,20 @@ où :
 
 - **(2)** Toute déclaration de redevances minières est :
 	- **a)** accompagnée des états financiers de la mine ou, à défaut, de ceux de l’exploitant, et d’un état de rapprochement de ces états financiers et de la déclaration;
-	- **b)** signée par l’exploitant de la mine et est accompagnée d’une déclaration sous serment ou d’une affirmation solennelle de l’exploitant ou, si l’exploitant est une société, d’un dirigeant de celle-ci, attestant qu’à sa connaissance, les états financiers sont complets et exacts. 
-> DORS/99-219, art. 5.
+	- **b)** signée par l’exploitant de la mine et est accompagnée d’une déclaration sous serment ou d’une affirmation solennelle de l’exploitant ou, si l’exploitant est une société, d’un dirigeant de celle-ci, attestant qu’à sa connaissance, les états financiers sont complets et exacts.
+
+- **(3)** Si l’exploitant fait le choix prévu au paragraphe 65(4.3) :
+	- **a)** il est tenu de remettre une première déclaration de redevances minières pour l’exercice dans laquelle il utilise la valeur marchande des stocks de minéraux ou minéraux traités, puis de remettre une déclaration modifiée une fois les stocks vendus;
+	- **b)** il est tenu de remettre une déclaration de redevances minières pour tout exercice ultérieur de la mine si des sommes sont indiquées pour calculer la valeur des éléments D à H de la formule figurant au paragraphe 65(4) ou si la mine reprend la production.
+> DORS/99-219, art. 5; DORS/2007-273, art. 25.
 
 
 
 
 **67.1** 
 
-- **(1)** Lorsqu’une mine est exploitée en coentreprise et que chaque membre de la coentreprise prend sa part de la production de la mine en nature et la vend de façon indépendante des autres membres à des acheteurs différents :
-	- **a)** chaque membre peut remettre au chef une déclaration de redevances minières distincte, pour les redevances payables aux termes du paragraphe 65(1) sur la valeur de sa part, plutôt que d’inclure ces renseignements dans la déclaration visée au paragraphe 67(1);
+- **(1)** Si une mine est exploitée en coentreprise et que chaque membre de la coentreprise prend sa part de la production en nature et la vend séparément et indépendamment des autres membres à des acheteurs qui ne sont pas liés aux membres de la coentreprise :
+	- **a)** chaque membre peut remettre au chef une déclaration de redevances minières distincte, pour les redevances à payer aux termes du paragraphe 65(1) sur la valeur de sa part, plutôt que d’inclure ces renseignements dans la déclaration de redevances minières visée au paragraphe 67(1);
 	- **b)** chaque membre, ou toute personne qui lui est liée, n’est redevable que des redevances relatives à sa part.
 
 - **(2)** Lorsque, pour une seule mine, plus d’un membre de la coentreprise remet au chef une déclaration de redevances minières aux termes du paragraphe (1) :
@@ -1568,13 +1649,13 @@ où :
 		- **(iv)** une déduction relative à l’aménagement fondée sur :
 			- **(A)** le pourcentage des frais mentionnés aux sous-alinéas 65.1(1)h)(i) à (v) engagés conjointement qui est égal au pourcentage de la production de la mine qu’il a reçu,
 			- **(B)** les frais mentionnés aux sous-alinéas 65.1(1)h)(i) à (v) qu’il a engagés seul,
-		- **(v)** une déduction relative à l’apport à une fiducie pour l’environnement admissible fondée sur un pourcentage des apports effectués au profit d’une telle fiducie pour la mine qui est égal au pourcentage de la production de la mine qu’il a reçu,
+		- **(v)** une déduction relative à l’apport effectué au profit d’une fiducie de restauration minière égale aux apports qu’il a effectués au profit d’une telle fiducie relativement à des terres visées à l’article 3,
 		- **(vi)** une déduction relative au traitement fondée sur :
 			- **(A)** le pourcentage des biens utilisés pour le traitement à la mine détenus conjointement qui est égal au pourcentage de la production de la mine qu’il a reçu,
 			- **(B)** les biens utilisés pour le traitement à la mine qu’il détient seul;
 	- **d)** chaque montant indiqué à la colonne I du tableau du paragraphe 65(1) est rajusté en le multipliant par un pourcentage égal au pourcentage de la production de la mine qu’il a reçu;
 	- **e)** chaque déclaration vise le même exercice.
-> DORS/99-219, art. 5.
+> DORS/99-219, art. 5; DORS/2007-273, art. 26.
 
 
 
@@ -1595,48 +1676,56 @@ où :
 
 **68** 
 
-- **(1)** Afin d’étayer les renseignements requis dans les déclarations de redevances, l’exploitant d’une mine tient, dans un bureau au Canada, des dossiers, des livres comptables et d’autres documents qu’il met à la disposition du chef et qui établissent :
-	- **a)** le poids et la valeur du minerai, des minéraux ou des substances minéralisées provenant de la mine, vendus par l’exploitant ou traités à la mine;
-	- **b)** les revenus provenant de la fusion, du broyage ou de l’affinage et tout autre revenu résultant de la vente du minerai, des minéraux ou des substances minéralisées;
-	- **c)** les frais, paiements et déductions visés à l’article 65.1;
-	- **d)** les états financiers de chaque propriétaire et de l’exploitant;
-	- **e)** lorsque les états financiers de l’exploitant ou d’un propriétaire de la mine sont vérifiés par un vérificateur externe :
-		- **(i)** les états financiers vérifiés ainsi que l’opinion signée par le vérificateur,
-		- **(ii)** les documents de travail et la documentation préparés par le vérificateur externe qui sont en possession du propriétaire ou de l’exploitant;
-	- **f)** tout document déposé par l’exploitant ou un propriétaire auprès d’une bourse de valeurs mobilières ou d’une commission de valeurs mobilières;
-	- **g)** tout autre renseignement nécessaire au calcul des redevances payables aux termes de l’article 65.
+- **(1)** Afin de corroborer les renseignements devant figurer dans les déclarations de redevances minières, l’exploitant d’une mine tient dans un bureau situé au Canada les documents ci-après et les met à la disposition du chef :
+	- **a)** les dossiers, les livres comptables et les autres documents qui établissent :
+		- **(i)** le poids de tous les minéraux extraits de la mine et de tous les minéraux ou minéraux traités qui ont été traités à la mine, qu’ils soient produits ou non par la mine,
+		- **(ii)** le poids et la valeur des minéraux ou minéraux traités produits par la mine, vendus, transférés ou retirés de la mine par l’exploitant,
+		- **(iii)** les sommes provenant des usines de traitement et toute autre somme résultant de la vente des minéraux ou minéraux traités,
+		- **(iv)** les frais, paiements et déductions visés à l’article 65.1;
+	- **b)** les états financiers de la mine et de l’exploitant;
+	- **c)** un état de rapprochement des documents visés aux alinéas a) et b) et de la déclaration de redevances minières;
+	- **d)** si les états financiers d’un exploitant ou d’un propriétaire de la mine sont vérifiés par un vérificateur externe :
+		- **(i)** les états financiers vérifiés ainsi que l’opinion signée par le vérificateur externe,
+		- **(ii)** les documents de travail et la documentation préparés par le vérificateur externe que le propriétaire ou l’exploitant a en sa possession;
+	- **e)** les documents déposés par l’exploitant ou le propriétaire auprès d’une bourse de valeurs mobilières ou d’une commission des valeurs mobilières;
+	- **f)** les documents relatifs aux vérifications internes de la société qui est propriétaire ou exploitant;
+	- **g)** tout autre document contenant des renseignements nécessaires au calcul des redevances à payer en application de l’article 65.
 
 - **(2)** Il est interdit de divulguer des renseignements de nature confidentielle obtenus pour l’application des articles 65 à 69, sauf :
 	- **a)** dans la mesure nécessaire au calcul des redevances payables aux termes de l’article 65;
 	- **b)** lorsque l’exigent les accords sur les revendications territoriales des peuples autochtones mentionnés à l’article 35 de la Loi constitutionnelle de 1982;
 	- **c)** en vertu d’une entente signée par le ministre pour l’application de l’article 65 avec le gouvernement d’un pays, d’une province ou d’un État, ou avec une organisation autochtone possédant des droits miniers, en vertu de laquelle les dirigeants de ce gouvernement ou de cette organisation reçoivent ces renseignements et le chef reçoit des renseignements du gouvernement ou de l’organisation.
-> DORS/99-219, art. 5.
+> DORS/99-219, art. 5; DORS/2007-273, art. 27.
 
 
 
 
 **69** 
 
-- **(1)** Aucun minerai, minéral ou substance minéralisée extrait d’une mine, autre que des pierres précieuses ou fines, ne peut en être retiré, sauf pour des essais ou des épreuves, tant que le poids et tous autres renseignements nécessaires pour en déterminer la valeur n’ont pas été constatés et consignés dans les livres comptables visés au paragraphe 68(1).
+- **(1)** Sous réserve du paragraphe (2), les minéraux ou minéraux traités produits par une mine ne peuvent pas en être retirés, sauf pour des essais ou des épreuves afin d’établir l’existence, l’emplacement, l’étendue, la qualité et le potentiel économique d’un gisement minier sur les terres faisant partie de la propriété minière, tant que le poids et les autres renseignements nécessaires pour en déterminer la valeur n’ont pas été constatés et consignés dans les livres comptables visés au paragraphe 68(1).
 
-- **(2)** Aucune pierre précieuse ou fine ne peut être retirée d’une mine, sauf pour des essais ou des épreuves, ni vendue, tant que sa valeur n’a pas été vérifiée par un évaluateur des redevances minières.
+- **(2)** Les pierres précieuses ne peuvent pas être retirées d’une mine, sauf dans un échantillon en vrac ou dans un concentré dans le but de déterminer la teneur et la valeur des pierres dans un gisement minier, ni être taillées, polies, vendues ou autrement transférées, tant que leur valeur n’a pas été établie par un évaluateur des redevances minières.
 
-- **(3)** L’exploitant d’une mine fournit, dans les territoires, les installations et l’équipement, autre que le matériel informatique, permettant à l’évaluateur des redevances minières de procéder à l’évaluation des pierres précieuses ou fines extraites de la mine.
+- **(3)** L’exploitant d’une mine fournit, dans les territoires, les installations et le matériel, autre que le matériel informatique, permettant à l’évaluateur des redevances minières de procéder à l’évaluation des pierres précieuses produites par la mine.
 
-- **(4)** Pour l’application du présent règlement, les installations visées au paragraphe (3) sont réputées faire partie de la mine et les pierres déplacées d’un endroit de la mine à un autre sont réputées ne pas en avoir été retirées.
+- **(4)** Pour l’application du présent règlement, les installations visées au paragraphe (3) sont réputées faire partie de la mine et les pierres précieuses déplacées d’un endroit de la mine à un autre sont réputées ne pas en avoir été retirées.
 
-- **(5)** Lorsqu’une mine produit des pierres précieuses ou fines, l’exploitant est tenu de nettoyer les pierres afin de les débarrasser de toute substance étrangère avant de les vendre ou de les retirer de la mine.
+- **(5)** L’exploitant est tenu de nettoyer les pierres précieuses afin de les débarrasser de toute substance étrangère avant de les présenter à l’évaluateur des redevances minières.
 
-- **(6)** Dès qu’elles ont été traitées de façon à être commercialisables, les pierres précieuses ou fines sont mises à la disposition d’un évaluateur des redevances minières pour être évaluées.
+- **(6)** Dès qu’elles ont été traitées de façon à être vendables, les pierres précieuses sont présentées à un évaluateur des redevances minières pour être évaluées.
 
-- **(7)** Lorsque l’exploitant d’une mine produisant des pierres précieuses ou fines vend ou aliène autrement celles-ci à des personnes qui lui sont liées ainsi qu’à d’autres personnes, il doit mettre à la disposition de l’évaluateur des redevances minières les pierres destinées aux personnes qui lui sont liées afin qu’elles soient évaluées séparément avant leur vente ou aliénation.
+- **(7)** L’exploitant qui produit des pierres précieuses et qui les vend ou les transfère à des personnes qui ne lui sont pas liées présente à l’évaluateur des redevances minières :
+	- **a)** les pierres qui doivent être vendues ou transférées à une personne qui lui est liée afin qu’elles soient évaluées séparément avant leur vente ou leur transfert;
+	- **b)** celles qui doivent être taillées ou polies par l’exploitant ou une personne qui lui est liée afin qu’elles soient évaluées séparément avant leur taille ou leur polissage.
 
-- **(8)** Pour l’application des paragraphes (6) et (7), l’exploitant, à moins qu’il en ait convenu autrement avec l’évaluateur des redevances minières :
-	- **a)** présente à l’évaluateur chaque diamant de plus de 10,8 carats individuellement en lui indiquant le poids et sa propre évaluation de sa valeur;
-	- **b)** pour les diamants dont le poids est d’au moins 1,8 carat sans dépasser 10,8 carats, présente à l’évaluateur des lots séparés, triés selon les carats, en lui indiquant le nombre de diamants par lot et sa propre évaluation de la valeur de chaque lot;
-	- **c)** pour les diamants dont le poids est d’au moins 3 grains et de moins 1,8 carat, présente à l’évaluateur des lots séparés, triés selon le poids en grains, ainsi qu’un échantillon représentatif de chaque lot, sélectionné au hasard, en lui indiquant sa propre évaluation de la valeur de chaque lot;
-	- **d)** pour les diamants de moins de 3 grains, présente à l’évaluateur des lots séparés, selon la grandeur déterminée par tamisage, ainsi qu’un échantillon représentatif de chaque lot, sélectionné au hasard, en lui indiquant sa propre évaluation de la valeur de chaque lot.
-> DORS/99-219, art. 5.
+- **(8)** Pour l’application des paragraphes (6) et (7), l’exploitant, à moins qu’il n’en ait convenu autrement avec l’évaluateur des redevances minières, présente à celui-ci :
+	- **a)** chaque diamant dont le poids est de 10,8 carats ou plus en lui en indiquant le poids;
+	- **b)** les diamants dont le poids varie de 2,8 carats à 10,79 carats, en des lots séparés selon leur poids en carats, en lui en indiquant le nombre par lot;
+	- **c)** les diamants dont le poids varie de 3 à 10 grains, en des lots séparés selon leur poids en grains, desquels ont été prélevés des échantillons, choisis au hasard, représentatifs de chaque lot;
+	- **d)** les diamants dont le poids est inférieur à 3 grains, en des lots séparés selon la grandeur déterminée au moyen d’un tamis DTC qui représente la norme de l’industrie, desquels ont été prélevés des échantillons, choisis au hasard, représentatifs de chaque lot.
+
+- **(9)** Si des diamants sont présentés à l’évaluateur des redevances minières conformément au paragraphe (8), l’exploitant fournit au chef une évaluation de la valeur marchande de chaque diamant ou de chaque lot, selon le cas.
+> DORS/99-219, art. 5; DORS/2007-273, art. 28.
 
 
 
@@ -1697,18 +1786,7 @@ le registraire minier en chef peut nommer l’arbitre du détenteur ou le prési
 ## Interdictions et réserves
 
 
-**73** 
-
-- **(1)** Lorsque le détenteur d’un claim enregistré, le propriétaire, le concessionnaire ou le gérant d’une mine ou tout employé ou agent de ces personnes déverse ou fait en sorte que soit déversée de son claim ou de toute exploitation minière qui s’y trouve, une substance qui, de l’avis du ministre, est ou peut être nuisible aux humains, aux animaux ou à la végétation, le ministre peut, par une ordonnance écrite, exiger que cette personne
-	- **a)** traite la substance avant qu’elle ne soit déversée, de façon à ce qu’elle ne soit pas nuisible;
-	- **b)** limite le déversement de la substance de la façon qu’il ordonne; ou
-	- **c)** cesse les travaux causant ce déversement.
-
-- **(2)** Il est interdit de déposer de la terre, de l’argile, des roches, du minerai ou des résidus miniers sur un claim, d’y faire de la prospection ou d’y exécuter des travaux obligatoires, si ce n’est
-	- **a)** conformément
-		- **(i)** à toute loi du Parlement, ou
-		- **(ii)** au présent règlement ou à tout autre règlement établi en vertu de la [Loi sur les terres territoriales](/fr/Lois/Lois%20révisées%20du%20Canada/T/T-7.md); ou
-	- **b)** avec l’approbation d’un ingénieur des mines et conformément aux modalités qu’il peut établir.
+**73** [Abrogé, DORS/2007-273, art. 29]
 
 
 
@@ -1768,22 +1846,24 @@ le registraire minier en chef peut nommer l’arbitre du détenteur ou le prési
 
 **80** 
 
-- **(1)** Lorsque le détenteur ou co-détenteur d’un claim enregistré n’ayant pas fait l’objet d’une concession meurt ou est déclaré incapable d’administrer ses affaires par un tribunal compétent et qu’un avis à cet effet est déposé auprès du registraire minier dans les 90 jours suivant la date du décès ou de la déclaration, à la satisfaction du registraire minier, le calcul du délai exigé pour que le détenteur ou co-détenteur accomplisse toute action requise en vertu du présent règlement à l’égard de ce claim est suspendu durant la période débutant le jour du décès ou de la déclaration et se terminant le jour du troisième anniversaire de cette date ou le 30<sup>e</sup> jour suivant la date où le claim, ou tout intérêt à l’égard de ce claim, est cédé à la personne administrant la succession de ce détenteur ou co-détenteur, soit la date la plus proche.
+- **(1)** Si le détenteur ou le co-détenteur d’un claim enregistré n’ayant pas fait l’objet d’un bail meurt ou est déclaré incapable d’administrer ses affaires par un tribunal compétent et qu’un avis à cet effet est déposé auprès du registraire minier dans les quatre-vingt-dix jours suivant la date du décès ou de la déclaration, à la satisfaction du registraire minier, le calcul du délai exigé pour que le détenteur ou le co-détenteur accomplisse toute action requise en vertu du présent règlement à l’égard du claim est suspendu pendant la période commençant le jour du décès ou de la déclaration et se terminant le jour du troisième anniversaire de cette date ou le trentième jour suivant la date où le claim, ou tout intérêt à l’égard du claim, est cédé à la personne administrant la succession du détenteur ou du co-détenteur, selon la première de ces éventualités à se présenter.
 
 - **(2)** Si, avant le dépôt de l’avis mentionné au paragraphe (1) auprès du registraire minier, le terrain compris dans un claim enregistré à l’égard duquel une personne mentionnée au paragraphe (1) a un intérêt a été localisé conformément au présent règlement par un localisateur qui, de bonne foi, croyait que le claim était annulé ou abandonné, le registraire minier peut, s’il est convaincu que l’administrateur de la succession de la personne a payé au localisateur, dans un délai fixé par le registraire minier, un montant égal aux coûts subis par le localisateur lorsqu’il a localisé le claim, annuler l’enregistrement du claim au nom du localisateur et l’enregistrer au nom de l’administrateur.
+> DORS/2007-273, art. 30(F).
+
 
 
 
 **81** 
 
-- **(1)** Nonobstant toute disposition du présent règlement, un concessionnaire, un titulaire de permis ou un détenteur de claim minier qui est dans l’impossibilité d’accomplir toute action exigée selon le présent règlement en raison de circonstances sur lesquelles il n’exerce aucun pouvoir peut s’adresser au chef pour obtenir toute ordonnance d’exemption justifiée par les circonstances afin que la concession, le permis ou le claim demeure en règle durant la période où cette action ne peut être accomplie.
+- **(1)** Malgré les autres dispositions du présent règlement, le preneur à bail, le titulaire de permis ou le détenteur de claim minier qui est dans l’impossibilité de satisfaire à une exigence du présent règlement en raison de circonstances indépendantes de sa volonté peut s’adresser au chef pour obtenir une ordonnance d’exemption justifiée par les circonstances afin que le bail, le permis ou le claim demeure en règle pendant la période en cause.
 
 - **(2)** Sur réception de la demande visée au paragraphe (1), le chef peut accorder toute exemption qu’il estime nécessaire dans les circonstances.
 
-- **(3)** Nonobstant toute exemption accordée par le chef en vertu du paragraphe (2), celui-ci peut ordonner au concessionnaire, au titulaire d’un permis ou au détenteur d’un claim minier de commencer et de poursuivre avec diligence l’action visée au paragraphe (1) qui est nécessaire pour garder en règle la concession, le permis ou le claim, s’il juge que les circonstances justifiant l’incapacité d’accomplir cette action n’existent plus, et tout délai accordé en vertu du paragraphe (1), tel qu’il a été écourté par une ordonnance émise en vertu du présent paragraphe, est ajouté à la durée de la concession, du permis ou du claim lorsqu’il s’agit de déterminer s’il y a eu conformité aux exigences du présent règlement.
+- **(3)** Malgré toute exemption accordée par le chef en vertu du paragraphe (2), celui-ci peut ordonner au preneur à bail, au titulaire de permis ou au détenteur de claim minier de commencer et de continuer avec diligence à satisfaire à l’exigence visée au paragraphe (1) qui est nécessaire pour garder en règle le bail, le permis ou le claim, s’il juge que les circonstances justifiant l’incapacité de remplir cette exigence n’existent plus, et tout délai accordé en vertu du paragraphe (1), tel qu’il a été écourté par une ordonnance rendue en vertu du présent paragraphe, est ajouté à la durée du bail, du permis ou du claim lorsqu’il s’agit d’établir si les exigences du présent règlement ont été respectées.
 
 - **(4)** Une exemption accordée par le chef ou une ordonnance émise par ce dernier selon le présent article doit être inscrite dans les registres du registraire minier ou ceux du chef, selon le cas.
-> DORS/79-234, art. 25.
+> DORS/79-234, art. 25; DORS/2007-273, art. 31(F).
 
 
 
@@ -1842,34 +1922,34 @@ et en règle au 15 novembre 1977.
 
 **86** 
 
-- **(1)** Dans le présent article, « concession antérieure » signifie une concession accordée avant le 15 novembre 1977, en vertu
+- **(1)** Dans le présent article, ***bail antérieur*** s’entend d’une concession accordée avant le 15 novembre 1977, en vertu :
 	- **a)** du Règlement sur l’exploitation du quartz dans les territoires du Nord-Ouest,
 	- **b)** du Règlement sur l’exploitation des placers dans les territoires du Nord-Ouest, ou
 	- **c)** du Règlement sur l’exploitation minière au Canada, établi par le décret C.P. 1960-717 du 26 mai 1960,
 et en règle au 15 novembre 1977; l’expression comprend un claim antérieur, tel que défini à l’article 85, à l’égard duquel une concession a été accordée en vertu du présent règlement ou du Règlement sur l’exploitation minière au Canada établi par le décret C.P. 1961-325 du 3 mars 1961.
 
-- **(2)** Nulle disposition du présent règlement ne doit s’interpréter comme étant préjudiciable aux droits des détenteurs de claims antérieurs et de concessions antérieures.
+- **(2)** Le présent règlement n’a pas pour effet de porter préjudice aux droits des détenteurs de claims antérieurs et de baux antérieurs.
 
-- **(3)** Les paragraphes 59(2) et 60(2) ne s’appliquent pas aux concessions antérieures.
+- **(3)** Les paragraphes 59(2) et 60(2) ne s’appliquent pas aux baux antérieurs.
 
-- **(4)** Nonobstant ce règlement, mais sous réserve des paragraphes (5) et (6), à l’expiration de la durée d’une concession antérieure, le détenteur de cette concession peut demander au ministre de la lui renouveler pour une durée de 21 ans; le ministre peut, si ce détenteur s’est conformé aux modalités de la concession, lui accorder le renouvellement de cette concession.
+- **(4)** Malgré les autres dispositions du présent règlement, mais sous réserve des paragraphes (5) et (6), à l’expiration de la durée d’un bail antérieur, le preneur à bail peut demander au ministre de le lui renouveler pour une durée de vingt et un ans; le ministre peut, si le preneur s’est conformé aux modalités du bail, lui accorder le renouvellement du bail.
 
-- **(5)** Lors du renouvellement d’une concession antérieure en vertu du paragraphe (4), la concession renouvelée est assujettie au présent règlement, à l’exception du paragraphe 60(2), comme si la concession avait été renouvelée en vertu du paragraphe 59(2).
+- **(5)** Lors du renouvellement d’un bail antérieur en vertu du paragraphe (4), le bail renouvelé est assujetti au présent règlement, à l’exception du paragraphe 60(2), comme s’il avait été renouvelé en vertu du paragraphe 59(2).
 
-- **(6)** Si le détenteur d’une concession antérieure n’en demande pas le renouvellement, le ministre peut lui envoyer, par courrier recommandé, un avis d’expiration; ce détenteur a alors 60 jours à partir de la date de recommandation de cet avis pour procéder au renouvellement, à défaut de quoi tous ses droits sur la concession antérieure prennent fin sans autre déclaration d’annulation ou de déchéance.
-> DORS/78-813, art. 1; DORS/88-9, art. 28.
+- **(6)** Si le preneur à bail d’un bail antérieur n’en demande pas le renouvellement, le ministre peut lui envoyer, par courrier recommandé, un avis d’expiration; si le preneur n’a toujours pas présenté de demande de renouvellement dans les soixante jours qui suivent la date de l’envoi de l’avis, ses droits sur le bail antérieur prennent fin sans qu’il y ait de déclaration d’annulation ou de déchéance.
+> DORS/78-813, art. 1; DORS/88-9, art. 28; DORS/2007-273, art. 32(F).
 
 
 
 
 **87** 
 
-- **(1)** Sous réserve des articles 85 et 86, les permis, claims miniers et concessions délivrés ou accordés avant le 15 novembre 1977 et en règle lors du 15 novembre 1977, sont réputés avoir été accordés ou délivrés en vertu du présent règlement.
+- **(1)** Sous réserve des articles 85 et 86, les permis, claims miniers et concessions délivrés ou accordés avant le 15 novembre 1977 et en règle le 15 novembre 1977 sont réputés avoir été accordés ou délivrés en vertu du présent règlement.
 
 - **(2)** Nonobstant les paragraphes 24(1) et (3) et l’article 25, mais sous réserve du paragraphe (3), un claim enregistré avant l’entrée en vigueur du présent règlement est réputé enregistré selon l’article 24 lorsque le détenteur du claim se conforme ou accepte de se conformer à l’article 38 et, par la suite, toutes les dispositions du présent règlement s’appliquent à ce claim.
 
 - **(3)** Un claim réputé enregistré selon le paragraphe (2) est sujet aux droits de tout propriétaire enregistré ou de toute personne habilitée à enregistrer un claim dans le secteur couvert par ce claim.
-> DORS/79-234, art. 26.
+> DORS/79-234, art. 26; DORS/2007-273, art. 33(F).
 
 
 
@@ -1960,12 +2040,12 @@ et en règle au 15 novembre 1977; l’expression comprend un claim antérieur, t
 </tr>
 <tr>
 <td>12</td>
-<td>Concession pour un claim ou renouvellement de la concession</td>
+<td>Bail ou renouvellement d’un bail</td>
 <td>25,00</td>
 </tr>
 <tr>
 <td>13</td>
-<td>Enregistrement du transfert d’une concession ou d’un permis de prospection</td>
+<td>Enregistrement de la cession d’un bail ou d’un permis de prospection</td>
 <td>25,00</td>
 </tr>
 <tr>
@@ -1998,7 +2078,7 @@ et en règle au 15 novembre 1977; l’expression comprend un claim antérieur, t
 </tr>
 <tr>
 <td>18</td>
-<td>Location aux termes d’une concession, l’acre par année :</td>
+<td>Location aux termes d’un bail, l’acre par année :</td>
 <td></td>
 </tr>
 <tr>
@@ -2015,7 +2095,7 @@ et en règle au 15 novembre 1977; l’expression comprend un claim antérieur, t
 </tr>
 </table>
 
-> DORS/97-117, art. 6; DORS/99-219, art. 7 et 8.
+> DORS/97-117, art. 6; DORS/99-219, art. 7 et 8; DORS/2007-273, art. 34(F) et 35(F).
 
 
 
@@ -2212,10 +2292,10 @@ La liste suivante précise les normes d’évaluation des travaux obligatoires e
 FORMULAIRES
 
 
-CE GRAPHIQUE N’EST PAS EXPOSÉ, VOIR C.R.C., CH. 1516, P. 13507 À 13528; DORS/79-234, ART. 31; DORS/88-9, ART. 29; DORS/97-117, ART. 7 À 9; DORS/99-219, ART. 10
+CE GRAPHIQUE N’EST PAS EXPOSÉ, VOIR C.R.C., CH. 1516, P. 13507 À 13528; DORS/79-234, ART. 31; DORS/88-9, ART. 29; DORS/97-117, ART. 7 À 9; DORS/99-219, ART. 10; DORS/2007-273, ART. 36 ET 37.
 
 
->  DORS/79-234, art. 31; DORS/88-9, art. 29; DORS/97-117, art. 7 à 9; DORS/99-219, art. 10.
+> DORS/79-234, art. 31; DORS/88-9, art. 29; DORS/97-117, art. 7 à 9; DORS/99-219, art. 10; DORS/2007-273, art. 36 et 37.
 
 
 
