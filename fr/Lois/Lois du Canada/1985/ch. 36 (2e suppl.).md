@@ -1678,7 +1678,7 @@ French version only***renseignements*** Tous éléments d’information ainsi qu
 
 **Renseignements protégés**
 
-- **(2)** Sous réserve des autres dispositions du présent article, les renseignements fournis pour l’application de la présente loi, de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md), de leurs règlements ou de la partie II.1 de la [Loi sur l’Office national de l’énergie](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-7.md) sont protégés, que leur fourniture soit obligatoire ou non.
+- **(2)** Sous réserve des autres dispositions du présent article, les renseignements fournis pour l’application de la présente loi, de la [Loi sur les opérations pétrolières au Canada](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-7.md), à l’exception de sa partie 0.1, de leurs règlements ou de la partie II.1 de la [Loi sur l’Office national de l’énergie](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-7.md) sont protégés, que leur fourniture soit obligatoire ou non.
 
 **Communication**
 
@@ -1721,7 +1721,7 @@ French version only***renseignements*** Tous éléments d’information ainsi qu
 		- **(ii)** par ailleurs, lorsque cinq ans se sont écoulés depuis leur achèvement.
 
 - **(8)** [Abrogé, L.R. (1985), ch. 21 (4<sup>e</sup> suppl.), art. 4]
-> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 101, ch. 21 (4<sup>e</sup> suppl.), art. 4; 1992, ch. 35, art. 38; 1994, ch. 10, art. 18.
+> L.R. (1985), ch. 36 (2<sup>e</sup> suppl.), art. 101, ch. 21 (4<sup>e</sup> suppl.), art. 4; 1992, ch. 35, art. 38; 1994, ch. 10, art. 18; 2007, ch. 35, art. 151.
 
 
 
