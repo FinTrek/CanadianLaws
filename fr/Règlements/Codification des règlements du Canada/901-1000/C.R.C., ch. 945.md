@@ -734,6 +734,40 @@ doit remplir une déclaration de renseignements selon le formulaire prescrit, en
 
 
 
+### Définitions
+
+
+**204.1** 
+
+- **(1)** Les définitions qui suivent s’appliquent au présent article.
+
+***fiducie de placement ouverte*** Est une fiducie de placement ouverte à un moment donné la fiducie ouverte dont la totalité ou la presque totalité de la juste valeur marchande des biens est attribuable, à ce moment, à la juste valeur marchande de ses biens qui sont :
+- **a)** des unités de fiducies ouvertes;
+- **b)** des participations dans des sociétés de personnes ouvertes, au sens du paragraphe 229.1(1);
+- **c)** des actions du capital-actions de sociétés publiques;
+- **d)** toute combinaison de biens visés aux alinéas a) à c). (*public investment trust*)
+
+***fiducie ouverte*** Est une fiducie ouverte à un moment donné la fiducie de fonds commun de placement dont les unités sont inscrites, à ce moment, à la cote d’une bourse de valeurs désignée située au Canada. (*public trust*)
+
+### Obligation de communiquer des renseignements
+
+
+- **(2)** La fiducie qui est une fiducie ouverte au cours de son année d’imposition est tenue, dans le délai fixé au paragraphe (3) :
+	- **a)** d’une part, de rendre publics, sur le formulaire prescrit, des renseignements la concernant pour l’année en affichant ce formulaire, d’une manière qui est accessible au grand public, sur le site Web de la CDS Innovations Inc.;
+	- **b)** d’autre part, d’aviser le ministre par écrit du moment auquel le formulaire est ainsi affiché.
+
+### Délai
+
+
+- **(3)** La fiducie ouverte est tenue de remplir les exigences du paragraphe (2) pour son année d’imposition dans le délai suivant :
+	- **a)** sous réserve de l’alinéa b), au plus tard le soixantième jour suivant la fin de l’année d’imposition;
+	- **b)** si elle est une fiducie de placement ouverte au cours de l’année d’imposition, au plus tard le soixante-septième jour suivant la fin de l’année civile dans laquelle l’année d’imposition prend fin.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; 2007, ch. 35, art. 72.
+
+
+
+
+
 ### Date de production des déclarations
 
 
@@ -1208,6 +1242,47 @@ doit remplir une déclaration de renseignements selon le formulaire prescrit, en
 	- **a)** le 90<sup>e</sup> jour suivant la date de cessation de l’entreprise ou des activités;
 	- **b)** la date limite de production visée au paragraphe (5).
 > [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/89-519, art. 2; DORS/93-443, art. 1; DORS/94-686, art. 53(F), 78(F), 79(F) et 81(F); 2007, ch. 29, art. 30.
+
+
+
+
+
+### Définitions
+
+
+**229.1** 
+
+- **(1)** Les définitions qui suivent s’appliquent au présent article.
+
+***société de personnes de placement ouverte*** Est une société de personnes de placement ouverte à un moment donné la société de personnes ouverte dont la totalité ou la presque totalité de la juste valeur marchande des biens est attribuable, à ce moment, à la juste valeur marchande de ses biens qui sont :
+- **a)** des unités de fiducies ouvertes, au sens du paragraphe 204.1(1);
+- **b)** des participations dans des sociétés de personnes ouvertes;
+- **c)** des actions du capital-actions de sociétés publiques;
+- **d)** toute combinaison de biens visés aux alinéas a) à c). (*public investment partner-ship*)
+
+***société de personnes ouverte*** Est une société de personnes ouverte à un moment donné la société de personnes dont les participations sont inscrites, à ce moment, à la cote d’une bourse de valeurs désignée située au Canada et qui, à ce moment, exploite une entreprise au Canada ou est une société de personnes canadienne. (*public partnership*)
+
+### Obligation de communiquer des renseignements
+
+
+- **(2)** Les associés d’une société de personnes qui est une société de personnes ouverte au cours de son exercice sont tenus, dans le délai fixé au paragraphe (3) :
+	- **a)** d’une part, de rendre publics, sur le formulaire prescrit, des renseignements concernant la société de personnes pour l’exercice en affichant ce formulaire, d’une manière qui est accessible au grand public, sur le site Web de la CDS Innovations Inc.;
+	- **b)** d’autre part, d’aviser le ministre par écrit du moment auquel le formulaire est ainsi affiché.
+
+### Délai
+
+
+- **(3)** Les associés d’une société de personnes ouverte sont tenus de remplir les exigences du paragraphe (2) pour l’exercice de la société de personnes dans le délai suivant :
+	- **a)** sous réserve de l’alinéa b), au plus tard au premier en date des jours suivants :
+		- **(i)** le soixantième jour suivant la fin de l’année civile dans laquelle l’exercice prend fin,
+		- **(ii)** le jour qui suit de quatre mois la fin de l’exercice;
+	- **b)** si la société de personnes est une société de personnes de placement ouverte au cours de l’exercice, au plus tard le soixante-septième jour suivant la fin de l’année civile dans laquelle l’exercice prend fin.
+
+### Obligation réputée remplie
+
+
+- **(4)** Les associés d’une société de personnes qui sont tenus de remplir les exigences du paragraphe (2) relativement à la société de personnes pour un exercice de celle-ci sont réputés les avoir remplies si l’un d’eux, ayant le pouvoir d’agir pour le compte de la société de personnes, les a remplies.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; 2007, ch. 35, art. 73.
 
 
 
@@ -8422,13 +8497,8 @@ le total des montants au titre du traitement ou du salaire du particulier qui pe
 ### Bourses de valeurs au Canada
 
 
-**3200** Pour l’application de la Loi, les bourses de valeurs au Canada ci-après sont des bourses de valeurs au Canada visées et des bourses de valeurs visées :
-- **a)** les groupes 1 et 2 de la Bourse de croissance TSX, aussi connue sous le nom de Bourse canadienne de croissance;
-- **a.1)** [Abrogé, DORS/2003-395, art. 1]
-- **b)** la Bourse de Montréal;
-- **c)** la Bourse de Toronto.
-- **d) et e)** [Abrogés, DORS/2003-395, art. 1]
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/80-129, art. 1; DORS/80-682, art. 1; DORS/81-725, art. 2; DORS/84-948, art. 12; DORS/85-696, art. 7 et 8; DORS/88-165, art. 16; DORS/89-409, art. 1; DORS/94-140, art. 6; DORS/2001-187, art. 3; DORS/2003-395, art. 1.
+**3200** [Abrogé, 2007, ch. 35, art. 74]
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/80-129, art. 1; DORS/80-682, art. 1; DORS/81-725, art. 2; DORS/84-948, art. 12; DORS/85-696, art. 7 et 8; DORS/88-165, art. 16; DORS/89-409, art. 1; DORS/94-140, art. 6; DORS/2001-187, art. 3; DORS/2003-395, art. 1; 2007, ch. 35, art. 74.
 
 
 
@@ -8437,45 +8507,8 @@ le total des montants au titre du traitement ou du salaire du particulier qui pe
 ### Bourses de valeurs hors du Canada
 
 
-**3201** Pour l’application de la Loi, les bourses de valeurs hors Canada ci-après sont des bourses de valeurs visées :
-- **a)** en Australie, la Bourse de l’Australie;
-- **b)** en Belgique, la Bourse de Bruxelles;
-- **c)** en France, la Bourse de Paris;
-- **d)** en Allemagne, la Bourse de Francfort;
-- **e)** à Hong Kong, la Bourse de Hong Kong;
-- **f)** en Italie, la Bourse de Milan;
-- **g)** au Japon, la Bourse de Tokyo;
-- **h)** au Mexique, la Bourse de Mexico;
-- **i)** aux Pays-Bas, la Bourse d’Amsterdam;
-- **j)** en Nouvelle-Zélande, la Bourse de la Nouvelle-Zélande;
-- **k)** à Singapour, la Bourse de Singapour;
-- **l)** en Espagne, la Bourse de Madrid;
-- **m)** en Suisse, la Bourse de Zurich;
-- **n)** au Royaume-Uni, London Stock Exchange;
-- **o)** aux États-Unis :
-	- **(i)** American Stock Exchange,
-	- **(ii)** Boston Stock Exchange,
-	- **(iii)** Chicago Board of Options,
-	- **(iv)** Chicago Board of Trade,
-	- **(v)** Cincinnati Stock Exchange,
-	- **(vi)** Intermountain Stock Exchange,
-	- **(vii)** Midwest Stock Exchange,
-	- **(viii)** National Association of Securities Dealers Automated Quotation System,
-	- **(ix)** New York Stock Exchange,
-	- **(x)** Pacific Stock Exchange,
-	- **(xi)** Philadelphia Stock Exchange,
-	- **(xii)** Spokane Stock Exchange;
-- **p)** en Irlande, Irish Stock Exchange;
-- **q)** en Israël, la bourse de Tel-Aviv;
-- **r)** en Autriche, la bourse de Vienne;
-- **s)** au Danemark, la bourse de Copenhague;
-- **t)** en Finlande, la bourse de Helsinki;
-- **u)** en Norvège, la bourse d’Oslo;
-- **v)** en Afrique du Sud, la bourse de Johannesburg;
-- **w)** en Suède, la bourse de Stockholm;
-- **x)** au Luxembourg, la bourse de Luxembourg;
-- **y)** en Pologne, les marchés principal et parallèle de la bourse de Varsovie.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/81-725, art. 3; DORS/86-488, art. 4; DORS/88-165, art. 17; DORS/89-102, art. 1; DORS/89-409, art. 2; DORS/92-660, art. 1; DORS/94-126, art. 1; DORS/94-140, art. 7; DORS/97-408, art. 1; DORS/2001-187, art. 4; DORS/2005-15, art. 1.
+**3201** [Abrogé, 2007, ch. 35, art. 74]
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/81-725, art. 3; DORS/86-488, art. 4; DORS/88-165, art. 17; DORS/89-102, art. 1; DORS/89-409, art. 2; DORS/92-660, art. 1; DORS/94-126, art. 1; DORS/94-140, art. 7; DORS/97-408, art. 1; DORS/2001-187, art. 4; DORS/2005-15, art. 1; 2007, ch. 35, art. 74.
 
 
 
@@ -8692,14 +8725,14 @@ a été inscrit de façon inexacte ou illisible doit être considérée comme g�
 
 ***année d’imposition*** S’entend au sens de l’alinéa 149.1(1)l) de la Loi. (*taxation year*)
 
-***bourse de valeurs*** Bourse de valeurs visée à la partie XXXII. (*prescribed stock exchange*)
+***bourse de valeurs***[Abrogée, 2007, ch. 35, art. 75]
 
 ***fondation de bienfaisance*** S’entend au sens de l’alinéa 149.1(1)a) de la Loi. (*charitable foundation*)
 
 ***placement non admissible*** S’entend au sens de l’alinéa 149.1(1)e.1) de la Loi. (*non-qualified investment*)
 
 ***société immobilière à dividendes limités*** S’entend au sens de l’alinéa 149(1)n) de la Loi. (*limited-dividend housing company*) 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/87-632, art. 1; DORS/94-686, art. 51(F) et 73(F).
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/87-632, art. 1; DORS/94-686, art. 51(F) et 73(F); 2007, ch. 35, art. 75.
 
 
 
@@ -8732,11 +8765,11 @@ a été inscrit de façon inexacte ou illisible doit être considérée comme g�
 
 **3702** 
 
-- **(1)** Pour l’application du paragraphe 3701(1), la valeur des biens ou de la partie des biens qui, le dernier jour d’une période, appartiennent à une fondation de bienfaisance et ne sont pas directement affectés à des activités de bienfaisance ou à des fins administratives, est arrêtée ce jour-là et correspond :
+- **(1)** Pour l’application du paragraphe 3701(1), la valeur des biens ou de la partie des biens qui, le dernier jour d’une période, appartiennent à une fondation de bienfaisance et ne sont pas directement affectés à des activités de bienfaisance ou à des fins administratives, est arrêtée ce jour-là et correspond :
 	- **a)** dans le cas de placements non admissibles, au plus élevé de leur juste valeur marchande ce jour-là ou de leur coût indiqué pour la fondation;
-	- **b)** sous réserve de l’alinéa c), dans le cas d’autres biens que des placements non admissibles :
-		- **(i)** s’il s’agit d’actions d’une société cotées à une bourse de valeurs, au cours de clôture ou à la moyenne des cours acheteurs et vendeurs de l’action ce jour-là ou, à défaut de l’un et de l’autre, au dernier cours de clôture ou à la dernière moyenne des cours acheteurs et vendeurs,
-		- **(ii)** s’il s’agit d’actions d’une société non cotées à une bourse de valeurs, à la juste valeur marchande des actions ce jour-là,
+	- **b)** sous réserve de l’alinéa c), dans le cas d’autres biens que des placements non admissibles :
+		- **(i)** s’il s’agit d’actions d’une société cotées à une bourse de valeurs désignée, au cours de clôture ou à la moyenne des cours acheteurs et vendeurs de l’action ce jour-là ou, à défaut de l’un et de l’autre, au dernier cours de clôture ou à la dernière moyenne des cours acheteurs et vendeurs,
+		- **(ii)** s’il s’agit d’actions d’une société non cotées à une bourse de valeurs désignée, à la juste valeur marchande des actions ce jour-là,
 		- **(iii)** s’il s’agit de droits sur des biens immeubles, à la juste valeur marchande du droit ce jour-là moins le montant de toute dette — portant intérêt à un taux raisonnable — contractée par la fondation pour l’acquisition de ce droit et dont le remboursement est garanti par le bien immeuble ou ce droit,
 		- **(iv)** s’il s’agit de biens qui font l’objet d’une promesse de don, à zéro,
 		- **(v)** s’il s’agit de droits dans des biens dont la fondation n’a pas actuellement l’usage ou la jouissance, à zéro,
@@ -8751,13 +8784,13 @@ au moindre de la juste valeur marchande des biens ce jour-là ou du montant calc
 (A / 0,045) × (12 / B)
 ```
 où 
-- **«A»** représente le revenu gagné sur les biens au cours de la période,
-- **«B»** représente le nombre de mois de la période.
+- **« A »** représente le revenu gagné sur les biens au cours de la période,
+- **« B »** représente le nombre de mois de la période.
 
-- **(2)** Pour l’application du paragraphe (1), l’une des méthodes de fixation de la juste valeur marchande des biens ou d’une partie des biens en cause le dernier jour d’une période donnée que le ministre peut accepter est l’évaluation faite par un expert indépendant :
+- **(2)** Pour l’application du paragraphe (1), l’une des méthodes de fixation de la juste valeur marchande des biens ou d’une partie des biens en cause le dernier jour d’une période donnée que le ministre peut accepter est l’évaluation faite par un expert indépendant :
 	- **a)** dans les trois ans précédant ce jour, dans le cas d’un bien visé au sous-alinéa (1)b)(ii) ou (iii);
 	- **b)** dans l’année précédant ce jour, dans le cas d’un bien visé à l’alinéa (1)a), au sous-alinéa (1)b)(vii) ou à l’alinéa (1)c).
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/87-632, art. 1; DORS/94-686, art. 22(F), 51(F), 73(F) et 79(F).
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/87-632, art. 1; DORS/94-686, art. 22(F), 51(F), 73(F) et 79(F); 2007, ch. 35, art. 76.
 
 
 
@@ -9289,7 +9322,7 @@ personnes, autres que les dirigeants de la société, dont chacune détient
 
 - **(2)** Pour l’application du sous-alinéa c)(i) de la définition de ***société publique*** au paragraphe 89(1) de la Loi, les conditions suivantes doivent être remplies à l’égard d’une société :
 	- **a)** les dirigeants de la société doivent détenir plus de 90 pour cent des actions émises et en circulation de chaque catégorie d’actions du capital-actions de la société qui
-		- **(i)** était, à une date postérieure à la date où la société est devenue pour la dernière fois une société publique, admise à une bourse de valeurs au Canada visée par règlement aux fins de l’article 89 de la Loi, ou
+		- **(i)** était, à une date postérieure à la date où la société est devenue pour la dernière fois une société publique, admise à une bourse de valeurs désignée située au Canada, ou
 		- **(ii)** était une catégorie, désignée comme il est prévu à l’alinéa (1)a), en vertu duquel la société est devenue pour la dernière fois une société publique;
 	- **b)** à l’égard de chaque catégorie d’actions visée au sous-alinéa a)(i) ou (ii), il doit y avoir moins de
 		- **(i)** lorsque les actions de cette catégorie sont des actions à revenu variable, 50, et
@@ -9300,16 +9333,16 @@ personnes, autres que les dirigeants de la société dont chacune détient
 	- **c)** il ne doit pas y avoir de catégorie d’actions du capital-actions de la société qui soit admissible à une répartition dans le public et qui remplisse les conditions énoncées aux alinéas (1)b) et c).
 
 - **(3)** Lorsqu’en vertu d’une fusion (au sens attribué par l’article 87 de la Loi) de sociétés remplacées dont une ou plusieurs étaient, immédiatement avant la fusion, une société publique, les actions d’une quelconque catégorie du capital-actions de toute société publique de ce genre qui était
-	- **a)** à une date postérieure à la date où la société est devenue pour la dernière fois une société publique, admise à une bourse de valeurs au Canada visée par règlement aux fins de l’article 89 de la Loi, ou
+	- **a)** à une date postérieure à la date où la société est devenue pour la dernière fois une société publique, admise à une bourse de valeurs désignée située au Canada, ou
 	- **b)** la catégorie désignée comme il est prévu à l’alinéa (1)a), en vertu duquel la société est devenue pour la dernière fois une société publique,
-sont converties en actions d’une quelconque catégorie (désignée dans le présent paragraphe comme la «nouvelle catégorie») du capital-actions de la nouvelle société, la nouvelle catégorie doit être réputée, aux fins du paragraphe (2), être une catégorie désignée comme il est prévu à l’alinéa (1)a), en vertu duquel la nouvelle société est devenue pour la dernière fois une société publique.
+sont converties en actions d’une quelconque catégorie (désignée dans le présent paragraphe comme la « nouvelle catégorie ») du capital-actions de la nouvelle société, la nouvelle catégorie doit être réputée, aux fins du paragraphe (2), être une catégorie désignée comme il est prévu à l’alinéa (1)a), en vertu duquel la nouvelle société est devenue pour la dernière fois une société publique.
 
 - **(4)** Le choix prévu aux sous-alinéas b)(i) ou c)(i) de la définition de ***société publique*** au paragraphe 89(1) de la Loi se fait par la présentation au ministre des documents suivants :
 	- **a)** la formule prescrite par le ministre;
 	- **b)** lorsque les administrateurs de la société sont légalement habilités à administrer les affaires de la société, une copie certifiée conforme de leur résolution autorisant l’exercice de l’option;
 	- **c)** lorsque les administrateurs de la société ne sont pas légalement habilités à administrer les affaires de la société, une copie certifiée conforme de l’autorisation de l’exercice de l’option par la personne ou par les personnes légalement habilitées à administrer les affaires de la société; et
 	- **d)** une déclaration statutaire faite par un administrateur de la société indiquant qu’après avoir effectué une enquête raisonnable dans le but de s’informer à cet égard, à sa connaissance, la société remplit toutes les conditions prescrites qui doivent être remplies à la date où l’option est exercée.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/83-268, art. 8; DORS/94-686, art. 74(F) et 79(F); DORS/2001-216, art. 3.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/83-268, art. 8; DORS/94-686, art. 74(F) et 79(F); DORS/2001-216, art. 3; 2007, ch. 35, art. 77.
 
 
 
@@ -9477,9 +9510,9 @@ et une caisse de crédit est réputée avoir accordé un avantage ou un privilè
 			- **(A)** que la fiducie de régime possède une action ou un titre de la société coopérative, ou
 			- **(B)** qu’un placement enregistré possède une action ou un titre de la société coopérative si la fiducie de régime a investi dans ce placement enregistré,et une société coopérative est réputée avoir accordé un avantage ou un privilège à une personne au cours d’une année si, à une date quelconque de cette année, cette personne continue de bénéficier d’un avantage ou d’un privilège qui lui avait été accordé au cours d’une année antérieure;
 	- **i)** d’une obligation, d’un billet ou d’un titre semblable (appelé dans le présent alinéa le «titre») d’une société canadienne
-		- **(i)** si le paiement du principal du titre et de l’intérêt sur celui-ci est garanti par une société ou une fiducie de fonds commun de placement dont les actions ou les unités, selon le cas, sont cotées sur une bourse de valeurs mentionnée à l’article 3200,
+		- **(i)** si le paiement du principal du titre et de l’intérêt sur celui-ci est garanti par une société ou une fiducie de fonds commun de placement dont les actions ou les unités, selon le cas, sont cotées sur une bourse de valeurs désignée située au Canada,
 		- **(ii)** si la société est contrôlée directement ou indirectement par :
-			- **(A)** une ou plusieurs sociétés dont les actions sont cotées sur une bourse de valeurs mentionnée à l’article 3200,
+			- **(A)** une ou plusieurs sociétés dont les actions sont cotées sur une bourse de valeurs désignée située au Canada,
 			- **(B)** une ou plusieurs fiducies de fonds commun de placement dont les unités sont cotées sur une telle bourse,
 			- **(C)** une ou plusieurs sociétés et fiducies de fonds commun de placement dont les actions ou les unités, selon le cas, sont cotées sur une telle bourse,
 		- **(iii)** si, au moment où le titre est acquis par la fiducie de régime, la société qui a émis le titre est
@@ -9640,7 +9673,7 @@ la participation ou l’intérêt visé aux sous-alinéas a)(i) ou (ii) est rép
 		- **(i)** soit un montant au titre ou en paiement intégral ou partiel des services fournis à l’émetteur ou à la personne liée, ou pour leur compte,
 		- **(ii)** soit un montant relatif à l’acquisition des marchandises de l’émetteur ou de la personne liée, ou aux services fournis par ceux-ci.
 L’action cesse définitivement d’être un tel placement pour la fiducie immédiatement avant la réception du montant.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/81-725, art. 4; DORS/83-819, art. 1; DORS/85-202, art. 1; DORS/86-390, art. 2; DORS/86-1092, art. 12(F); DORS/88-165, art. 24(F); DORS/92-660, art. 2; DORS/94-471, art. 1; DORS/94-472, art. 1; DORS/94-686, art. 26(F), 72(F), 74(F), 75(F), 78(F) et 79(F); DORS/95-513, art. 1; DORS/96-450, art. 1; DORS/98-250, art. 1; DORS/99-9, art. 1; DORS/99-81, art. 1; DORS/99-102, art. 1; DORS/2001-216, art. 6, 10(F) et 11(F); DORS/2001-289, art. 8(A); DORS/2005-264, art. 6; DORS/2007-212, art. 2; 2007, ch. 29, art. 32.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/81-725, art. 4; DORS/83-819, art. 1; DORS/85-202, art. 1; DORS/86-390, art. 2; DORS/86-1092, art. 12(F); DORS/88-165, art. 24(F); DORS/92-660, art. 2; DORS/94-471, art. 1; DORS/94-472, art. 1; DORS/94-686, art. 26(F), 72(F), 74(F), 75(F), 78(F) et 79(F); DORS/95-513, art. 1; DORS/96-450, art. 1; DORS/98-250, art. 1; DORS/99-9, art. 1; DORS/99-81, art. 1; DORS/99-102, art. 1; DORS/2001-216, art. 6, 10(F) et 11(F); DORS/2001-289, art. 8(A); DORS/2005-264, art. 6; 2007, ch. 29, art. 32, ch. 35, art. 89; DORS/2007-212, art. 2.
 
 
 
@@ -11368,76 +11401,76 @@ qui appartient
 
 **6201** 
 
-- **(1)** Aux fins de l’alinéa f) de la définition ***action privilégiée à terme*** au paragraphe 248(1) de la Loi, une action qui a été acquise pour la dernière fois avant le 29 juin 1982 et qui fait partie d’une catégorie du capital-actions d’une société inscrite à une bourse de valeurs visée à l’article 3200 est une action prescrite à moins que plus de 10 pour cent des actions émises et en circulation de cette catégorie-là ne soient détenues par
+- **(1)** Aux fins de l’alinéa f) de la définition ***action privilégiée à terme*** au paragraphe 248(1) de la Loi, une action qui a été acquise pour la dernière fois avant le 29 juin 1982 et qui fait partie d’une catégorie du capital-actions d’une société inscrite à une bourse de valeurs désignée située au Canada est une action prescrite à moins que plus de 10 pour cent des actions émises et en circulation de cette catégorie-là ne soient détenues par
 	- **a)** le propriétaire de cette action; ou
 	- **b)** le propriétaire de cette action et des personnes liées à ce dernier.
 
-- **(2)** Pour l’application de l’alinéa f) de la définition de ***action privilégiée à terme***, au paragraphe 248(1) de la Loi, l’action acquise après le 28 juin 1982 et qui fait partie d’une catégorie du capital-actions d’une société qui est cotée à une bourse de valeurs visée à l’article 3200 est une action prescrite, à un moment donné, relativement à une autre société qui reçoit un dividende sur cette action à ce moment, sauf si :
-	- **a)** dans le cas où cette autre société est une institution financière véritable :
+- **(2)** Pour l’application de l’alinéa f) de la définition de ***action privilégiée à terme***, au paragraphe 248(1) de la Loi, l’action acquise après le 28 juin 1982 et qui fait partie d’une catégorie du capital-actions d’une société qui est cotée à une bourse de valeurs désignée située au Canada est une action prescrite, à un moment donné, relativement à une autre société qui reçoit un dividende sur cette action à ce moment, sauf si :
+	- **a)** dans le cas où cette autre société est une institution financière véritable :
 		- **(i)** l’action n’est pas une action privilégiée imposable,
 		- **(ii)** cette autre société seule ou avec les institutions financières véritables avec lesquelles elle a un lien de dépendance reçoivent au moment donné des dividendes — autres que les dividendes versés sur des actions visées au paragraphe (5) — sur plus de cinq pour cent des actions émises et en circulation de cette catégorie, et
 		- **(iii)** cette autre société ou une institution financière véritable avec laquelle elle a un lien de dépendance reçoit à ce moment un dividende sur une action — autre qu’une action visée au paragraphe (5) — de cette catégorie acquise après le 15 décembre 1987 et avant le moment donné;
-	- **b)** dans le cas où cette autre société est une institution financière véritable, l’action :
+	- **b)** dans le cas où cette autre société est une institution financière véritable, l’action :
 		- **(i)** n’est pas une action privilégiée imposable,
 		- **(ii)** a été acquise après le 15 décembre 1987 et avant le moment donné, et
 		- **(iii)** est réputée, en application des sous-alinéas h)(i), (ii), (iii) ou (v) de la définition d’***action privilégiée à terme*** au paragraphe 248(1) de la Loi, avoir été émise après le 15 décembre 1987 et avant le moment donné; ou
 	- **c)** dans tous les cas, cette autre société seule ou avec les personnes avec lesquelles elle a un lien de dépendance reçoivent au moment donné des dividendes — autres que les dividendes versés sur des actions visées au paragraphe (5) — sur plus de 10 pour cent des actions émises et en circulation de cette catégorie.
 
-- **(3)** Aux fins de l’alinéa 112(2.2)g) de la Loi et de l’alinéa f) de la définition d’***action privilégiée à terme*** au paragraphe 248(1) de la Loi, est une action prescrite toute action d’une des séries suivantes d’actions privilégiées du capital-actions de la Massey-Ferguson Limitée qui a été émise après le 15 juillet 1981 et avant le 23 mars 1982 :
-	- **a)** actions privilégiées de 25 $ convertibles et rachetables au gré de l’émetteur ou du détenteur, à dividende cumulatif — série C;
-	- **b)** actions privilégiées de 25 $ rachetables au gré de l’émetteur ou du détenteur, à dividende cumulatif — série D; ou
-	- **c)** actions privilégiées de 25 $ convertibles et rachetables au gré de l’émetteur ou du détenteur, à dividende cumulatif — série E.
+- **(3)** Aux fins de l’alinéa 112(2.2)g) de la Loi et de l’alinéa f) de la définition d’***action privilégiée à terme*** au paragraphe 248(1) de la Loi, est une action prescrite toute action d’une des séries suivantes d’actions privilégiées du capital-actions de la Massey-Ferguson Limitée qui a été émise après le 15 juillet 1981 et avant le 23 mars 1982 :
+	- **a)** actions privilégiées de 25 $ convertibles et rachetables au gré de l’émetteur ou du détenteur, à dividende cumulatif — série C;
+	- **b)** actions privilégiées de 25 $ rachetables au gré de l’émetteur ou du détenteur, à dividende cumulatif — série D; ou
+	- **c)** actions privilégiées de 25 $ convertibles et rachetables au gré de l’émetteur ou du détenteur, à dividende cumulatif — série E.
 
-- **(4)** L’action d’une catégorie du capital-actions d’une société qui est cotée à une bourse de valeurs visée à l’article 3200 est, à un moment donné, une action exclue de la définition de ***action particulière à une institution financière***, au paragraphe 248(1) de la Loi, relativement à une autre société qui est une institution financière véritable qui reçoit un dividende à ce moment sur cette action, sauf si des dividendes, autres que des dividendes reçus sur des actions visées au paragraphe (5.1), sont reçus, à ce moment, par cette autre société ou par celle-ci et d’autres institutions financières véritables avec lesquelles elle a un lien de dépendance, sur plus de :
-	- **a)** 10 % des actions de cette catégorie qui étaient émises et en circulation au moment, antérieur au moment donné, où l’autre société ou une institution financière véritable avec laquelle elle a un lien de dépendance a acquis pour la dernière fois une action de cette catégorie, dans le cas où aucune de ces sociétés ne reçoit, au moment donné, de dividende sur une action (sauf une action visée au paragraphe (5.1)) de cette catégorie acquise après le 15 décembre 1987 et avant le moment donné;
-	- **b)** 5 % des actions de cette catégorie qui étaient émises et en circulation au moment, antérieur au moment donné, où l’autre société ou une institution financière véritable avec laquelle elle a un lien de dépendance a acquis pour la dernière fois une action de cette catégorie, dans le cas où l’une de ces sociétés reçoit, au moment donné, un dividende sur une action (sauf une action visée au paragraphe (5.1)) de cette catégorie acquise après le 15 décembre 1987 et avant le moment donné.
+- **(4)** L’action d’une catégorie du capital-actions d’une société qui est cotée à une bourse de valeurs désignée située au Canada est, à un moment donné, une action exclue de la définition de ***action particulière à une institution financière***, au paragraphe 248(1) de la Loi, relativement à une autre société qui est une institution financière véritable qui reçoit un dividende à ce moment sur cette action, sauf si des dividendes, autres que des dividendes reçus sur des actions visées au paragraphe (5.1), sont reçus, à ce moment, par cette autre société ou par celle-ci et d’autres institutions financières véritables avec lesquelles elle a un lien de dépendance, sur plus de :
+	- **a)** 10 % des actions de cette catégorie qui étaient émises et en circulation au moment, antérieur au moment donné, où l’autre société ou une institution financière véritable avec laquelle elle a un lien de dépendance a acquis pour la dernière fois une action de cette catégorie, dans le cas où aucune de ces sociétés ne reçoit, au moment donné, de dividende sur une action (sauf une action visée au paragraphe (5.1)) de cette catégorie acquise après le 15 décembre 1987 et avant le moment donné;
+	- **b)** 5 % des actions de cette catégorie qui étaient émises et en circulation au moment, antérieur au moment donné, où l’autre société ou une institution financière véritable avec laquelle elle a un lien de dépendance a acquis pour la dernière fois une action de cette catégorie, dans le cas où l’une de ces sociétés reçoit, au moment donné, un dividende sur une action (sauf une action visée au paragraphe (5.1)) de cette catégorie acquise après le 15 décembre 1987 et avant le moment donné.
 
-- **(5)** L’action d’une catégorie du capital-actions d’une société qui est cotée à une bourse de valeurs visée à l’article 3200 est, à un moment donné, une action exclue de la définition de ***action privilégiée à terme***, au paragraphe 248(1) de la Loi, par l’effet de l’alinéa f) de cette définition, relativement à une autre société qui est autorisée par permis ou agrément, en vertu de la législation d’une province, à faire le commerce de valeurs et qui détient l’action comme bien à porter à l’inventaire de l’entreprise qu’elle exploite normalement sauf si, selon le cas :
+- **(5)** L’action d’une catégorie du capital-actions d’une société qui est cotée à une bourse de valeurs désignée située au Canada est, à un moment donné, une action exclue de la définition de ***action privilégiée à terme***, au paragraphe 248(1) de la Loi, par l’effet de l’alinéa f) de cette définition, relativement à une autre société qui est autorisée par permis ou agrément, en vertu de la législation d’une province, à faire le commerce de valeurs et qui détient l’action en vue de la vendre dans le cadre de l’entreprise qu’elle exploite normalement sauf si, selon le cas :
 	- **a)** il est raisonnable de considérer que l’action a été acquise dans le cadre d’une série d’opérations ou d’événements dont l’un des principaux objets consistait à se soustraire à l’application du paragraphe 112(2.1) de la Loi ou à en restreindre l’application;
-	- **b)** l’action n’a pas été acquise par cette autre société dans le cadre d’une souscription publique d’actions de cette catégorie et, selon le cas :
+	- **b)** l’action n’a pas été acquise par cette autre société dans le cadre d’une souscription publique d’actions de cette catégorie et, selon le cas :
 		- **(i)** cette autre société seule ou avec les sociétés qu’elle contrôle reçoivent au moment donné des dividendes sur plus de 10 pour cent des actions émises et en circulation de cette catégorie,
-		- **(ii)** cette autre société est une institution financière véritable et :
+		- **(ii)** cette autre société est une institution financière véritable et :
 			- **(A)** l’action n’est pas une action privilégiée imposable,
 			- **(B)** cette autre société seule ou avec les sociétés qu’elle contrôle reçoivent au moment donné des dividendes sur plus de cinq pour cent des actions émises et en circulation de cette catégorie, et
 			- **(C)** cette autre société ou une société qu’elle contrôle reçoit au moment donné un dividende sur une action de cette catégorie acquise après le 15 décembre 1987 et avant le moment donné,
-		- **(iii)** cette autre société est une institution financière véritable et l’action :
+		- **(iii)** cette autre société est une institution financière véritable et l’action :
 			- **(A)** n’est pas une action privilégiée imposable,
 			- **(B)** a été acquise après le 15 décembre 1987 et avant le moment donné, et
 			- **(C)** est réputée, en application des sous-alinéas h)(i), (ii), (iii) ou (v) de la définition d’***action privilégiée à terme*** au paragraphe 248(1) de la Loi, avoir été émise après le 15 décembre 1987 et avant le moment donné.
 
-- **(5.1)** L’action d’une catégorie du capital-actions d’une société qui est cotée à une bourse de valeurs visée à l’article 3200 est, à un moment donné, une action exclue de la définition de ***action particulière à une institution financière***, au paragraphe 248(1) de la Loi, relativement à une autre société qui est autorisée par permis ou agrément, en vertu de la législation d’une province, à faire le commerce de valeurs et qui détient l’action comme bien à porter à l’inventaire de l’entreprise qu’elle exploite normalement sauf si, selon le cas :
+- **(5.1)** L’action d’une catégorie du capital-actions d’une société qui est cotée à une bourse de valeurs désignée située au Canada est, à un moment donné, une action exclue de la définition de ***action particulière à une institution financière***, au paragraphe 248(1) de la Loi, relativement à une autre société qui est autorisée par permis ou agrément, en vertu de la législation d’une province, à faire le commerce de valeurs et qui détient l’action en vue de la vendre dans le cadre de l’entreprise qu’elle exploite normalement sauf si, selon le cas :
 	- **a)** il est raisonnable de considérer que l’action a été acquise dans le cadre d’une série d’opérations ou d’événements dont l’un des principaux objets consistait à se soustraire à l’application de l’article 187.3 de la Loi ou à en restreindre l’application;
-	- **b)** l’action n’a pas été acquise par l’autre société dans le cadre d’une souscription publique d’actions de cette catégorie et, selon le cas :
-		- **(i)** des dividendes sont reçus, au moment donné, par l’autre société ou par celle-ci et des sociétés qu’elle contrôle, sur plus de 10 % des actions de cette catégorie qui étaient émises et en circulation au moment, antérieur au moment donné, où l’une de ces sociétés a acquis pour la dernière fois une action de cette catégorie,
-		- **(ii)** l’autre société est une institution financière véritable et les conditions suivantes sont réunies :
-			- **(A)** des dividendes sont reçus, au moment donné, par l’autre société ou par celle-ci et des sociétés qu’elle contrôle, sur plus de 5 % des actions de cette catégorie qui étaient émises et en circulation au moment, antérieur au moment donné, où l’une de ces sociétés a acquis pour la dernière fois une action de cette catégorie,
+	- **b)** l’action n’a pas été acquise par l’autre société dans le cadre d’une souscription publique d’actions de cette catégorie et, selon le cas :
+		- **(i)** des dividendes sont reçus, au moment donné, par l’autre société ou par celle-ci et des sociétés qu’elle contrôle, sur plus de 10 % des actions de cette catégorie qui étaient émises et en circulation au moment, antérieur au moment donné, où l’une de ces sociétés a acquis pour la dernière fois une action de cette catégorie,
+		- **(ii)** l’autre société est une institution financière véritable et les conditions suivantes sont réunies :
+			- **(A)** des dividendes sont reçus, au moment donné, par l’autre société ou par celle-ci et des sociétés qu’elle contrôle, sur plus de 5 % des actions de cette catégorie qui étaient émises et en circulation au moment, antérieur au moment donné, où l’une de ces sociétés a acquis pour la dernière fois une action de cette catégorie,
 			- **(B)** un dividende est reçu, au moment donné, par l’autre société ou par une société qu’elle contrôle, sur une action de cette catégorie acquise après le 15 décembre 1987 et avant le moment donné,
-		- **(iii)** l’autre société est une institution financière véritable et l’action répond aux conditions suivantes :
+		- **(iii)** l’autre société est une institution financière véritable et l’action répond aux conditions suivantes :
 			- **(A)** elle a été acquise après le 15 décembre 1987 et avant le moment donné,
 			- **(B)** elle est réputée, par l’effet des sous-alinéas h)(i), (ii), (iii) ou (v) de la définition de ***action privilégiée à terme*** au paragraphe 248(1) de la Loi, avoir été émise après le 15 décembre 1987 et avant le moment donné.
 
 - **(6)** Pour l’application de l’alinéa f) de la définition de ***action privilégiée à terme*** au paragraphe 248(1) de la Loi, l’action du capital-actions d’une société qui est une institution membre d’une compagnie d’assurance-dépôts, au sens de l’article 137.1 de la Loi, est une action visée relativement à la compagnie d’assurance-dépôts et à chacune de ses filiales à cent pour cent qui est réputée être une compagnie d’assurance-dépôts en application du paragraphe 137.1(5.1) de la Loi.
 
-- **(7)** Pour l’application de la définition d’***action privilégiée imposable*** au paragraphe 248(1) de la Loi, les actions suivantes sont des actions prescrites, à un moment donné :
+- **(7)** Pour l’application de la définition d’***action privilégiée imposable*** au paragraphe 248(1) de la Loi, les actions suivantes sont des actions prescrites, à un moment donné :
 	- **a)** les actions privilégiées de catégorie A de St. Marys Paper Inc. émises le 7 juillet 1987 qui sont rachetables, convertibles et portent un dividende cumulatif de 8,5 pour cent, dans le cas où ces actions ne sont pas réputées, en application de l’alinéa e) de la définition d’***action privilégiée imposable*** au paragraphe 248(1) de la Loi, avoir été émises après cette date et avant le moment donné;
-	- **b)** les actions privilégiées rachetables et cumulatives de CanUtilities Holdings Ltd. émises avant le 1<sup>er</sup> juillet 1991, sauf si la contrepartie pour laquelle elles ont été émises dépasse 300 000 000 $ ou si le moment donné est postérieur au 1<sup>er</sup> juillet 2001.
+	- **b)** les actions privilégiées rachetables et cumulatives de CanUtilities Holdings Ltd. émises avant le 1<sup>er</sup> juillet 1991, sauf si la contrepartie pour laquelle elles ont été émises dépasse 300 000 000 $ ou si le moment donné est postérieur au 1<sup>er</sup> juillet 2001.
 
-- **(8)** Pour l’application de l’alinéa 112(2.2)d) de la Loi, de l’alinéa i) de la définition d’***action privilégiée à court terme***, de la définition d’***action privilégiée imposable*** et de l’alinéa f) de la définition d’***action privilégiée à terme*** au paragraphe 248(1) de la Loi, sont des actions prescrites, à un moment donné, les actions privilégiées échangeables de Canada Cement Lafarge Ltd. (appelées «anciennes actions» au présent paragraphe), les actions privilégiées échangeables de Lafarge Canada Inc. et les actions de toute société résultant de la fusion ou de l’unification de Lafarge Canada Inc. avec une ou plusieurs autres sociétés, dans le cas où les caractéristiques de ces actions, au moment donné, sont identiques, ou presque, à celles des anciennes actions au 18 juin 1987. Pour l’application du présent paragraphe, la fusion ou l’unification d’une ou plusieurs sociétés avec une autre société qui elle-même résulte de la fusion ou de l’unification de Lafarge Canada Inc. avec une ou plusieurs autres sociétés est réputée constituer une fusion de Lafarge Canada Inc. avec une autre société.
+- **(8)** Pour l’application de l’alinéa 112(2.2)d) de la Loi, de l’alinéa i) de la définition d’***action privilégiée à court terme***, de la définition d’***action privilégiée imposable*** et de l’alinéa f) de la définition d’***action privilégiée à terme*** au paragraphe 248(1) de la Loi, sont des actions prescrites, à un moment donné, les actions privilégiées échangeables de Canada Cement Lafarge Ltd. (appelées « anciennes actions » au présent paragraphe), les actions privilégiées échangeables de Lafarge Canada Inc. et les actions de toute société résultant de la fusion ou de l’unification de Lafarge Canada Inc. avec une ou plusieurs autres sociétés, dans le cas où les caractéristiques de ces actions, au moment donné, sont identiques, ou presque, à celles des anciennes actions au 18 juin 1987. Pour l’application du présent paragraphe, la fusion ou l’unification d’une ou plusieurs sociétés avec une autre société qui elle-même résulte de la fusion ou de l’unification de Lafarge Canada Inc. avec une ou plusieurs autres sociétés est réputée constituer une fusion de Lafarge Canada Inc. avec une autre société.
 
 - **(9)** Lorsqu’il s’agit de déterminer, selon les paragraphes (2), (4), (5) et (5.1), le moment de l’acquisition d’une action d’une catégorie du capital-actions d’une société, les actions de cette catégorie que le contribuable a acquises à un moment donné avant de disposer d’actions de la même catégorie sont réputées avoir fait l’objet d’une disposition avant les actions de la même catégorie qu’il a acquises à une date antérieure à ce moment.
 
-- **(10)** Pour l’application des paragraphes (2), (4), (5) et (5.1) et du présent paragraphe :
+- **(10)** Pour l’application des paragraphes (2), (4), (5) et (5.1) et du présent paragraphe :
 	- **a)** le contribuable qui est bénéficiaire d’une fiducie et à qui celle-ci attribue un montant au cours d’une année d’imposition conformément au paragraphe 104(19) de la Loi est réputé avoir reçu ce montant au moment où la fiducie l’a reçu;
 	- **b)** le contribuable qui est un associé d’une société de personnes qui a reçu un dividende est réputé avoir reçu sa part du dividende au moment où la société de personnes a reçu le dividende.
 
-- **(11)** Pour l’application des paragraphes (2), (4), (5) et (5.1) :
-	- **a)** la personne qui a acquis une action du capital-actions d’une société après le 15 décembre 1987 conformément à une convention écrite conclue avant le 16 décembre 1987 est réputée l’avoir acquise avant le 16 décembre 1987;
-	- **b)** la personne qui a acquis une action du capital-actions d’une société après le 15 décembre 1987 et avant juillet 1988 dans le cadre d’un appel public à l’épargne fait conformément à un prospectus, à un prospectus provisoire, à une déclaration d’enregistrement, à une notice d’offre ou à un avis, produits avant le 16 décembre 1987 auprès d’un organisme public selon la législation sur les valeurs mobilières applicable là où les actions ont été placées, est réputée avoir acquis l’action avant le 16 décembre 1987;
-	- **c)** l’action dont une institution financière véritable est propriétaire le 15 décembre 1987 et qui est transférée, par suite d’une ou plusieurs opérations entre institutions financières véritables liées, à une autre institution financière véritable est réputée avoir été acquise par cette autre institution avant cette date et après le 28 juin 1982, sauf si, à un moment donné après le 15 décembre 1987 et avant le transfert de l’action, l’action était la propriété d’un actionnaire qui, au moment donné, n’était pas une institution financière véritable liée à l’autre institution financière véritable;
-	- **d)** une nouvelle société qui a acquis une action d’une société remplacée lors d’une fusion, au sens de l’article 87 de la Loi, est réputée l’avoir acquise au moment où la société remplacée l’avait acquise si, selon le cas :
-		- **(i)** chacune des sociétés remplacées, au sens de l’article 87 de la Loi, était une institution financière véritable tout au long de la période commençant le 16 décembre 1987 et se terminant au moment de la fusion et les sociétés remplacées étaient liées les unes aux autres tout au long de cette période,
-		- **(ii)** chacune des sociétés remplacées et la nouvelle société, au sens de l’article 87 de la Loi, sont des sociétés visées aux alinéas a) à d) de la définition d’***institution financière véritable*** au paragraphe 248(1) de la Loi.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/80-130, art. 2; DORS/84-948, art. 16; DORS/85-963, art. 1; DORS/86-1092, art. 16; DORS/89-409, art. 4; DORS/92-681, art. 3(F); DORS/94-686, art. 33(F), 78(F) et 79(F); DORS/95-357, art. 1.
+- **(11)** Pour l’application des paragraphes (2), (4), (5) et (5.1) :
+	- **a)** la personne qui a acquis une action du capital-actions d’une société après le 15 décembre 1987 conformément à une convention écrite conclue avant le 16 décembre 1987 est réputée l’avoir acquise avant le 16 décembre 1987;
+	- **b)** la personne qui a acquis une action du capital-actions d’une société après le 15 décembre 1987 et avant juillet 1988 dans le cadre d’un appel public à l’épargne fait conformément à un prospectus, à un prospectus provisoire, à une déclaration d’enregistrement, à une notice d’offre ou à un avis, produits avant le 16 décembre 1987 auprès d’un organisme public selon la législation sur les valeurs mobilières applicable là où les actions ont été placées, est réputée avoir acquis l’action avant le 16 décembre 1987;
+	- **c)** l’action dont une institution financière véritable est propriétaire le 15 décembre 1987 et qui est transférée, par suite d’une ou plusieurs opérations entre institutions financières véritables liées, à une autre institution financière véritable est réputée avoir été acquise par cette autre institution avant cette date et après le 28 juin 1982, sauf si, à un moment donné après le 15 décembre 1987 et avant le transfert de l’action, l’action était la propriété d’un actionnaire qui, au moment donné, n’était pas une institution financière véritable liée à l’autre institution financière véritable;
+	- **d)** une nouvelle société qui a acquis une action d’une société remplacée lors d’une fusion, au sens de l’article 87 de la Loi, est réputée l’avoir acquise au moment où la société remplacée l’avait acquise si, selon le cas :
+		- **(i)** chacune des sociétés remplacées, au sens de l’article 87 de la Loi, était une institution financière véritable tout au long de la période commençant le 16 décembre 1987 et se terminant au moment de la fusion et les sociétés remplacées étaient liées les unes aux autres tout au long de cette période,
+		- **(ii)** chacune des sociétés remplacées et la nouvelle société, au sens de l’article 87 de la Loi, sont des sociétés visées aux alinéas a) à d) de la définition d’***institution financière véritable*** au paragraphe 248(1) de la Loi.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/80-130, art. 2; DORS/84-948, art. 16; DORS/85-963, art. 1; DORS/86-1092, art. 16; DORS/89-409, art. 4; DORS/92-681, art. 3(F); DORS/94-686, art. 33(F), 78(F) et 79(F); DORS/95-357, art. 1; 2007, ch. 35, art. 78 et 89.
 
 
 
@@ -12393,41 +12426,42 @@ Ne sont pas des paiements exclus les paiements prévus par un titre de créance 
 
 **7303.1** 
 
-- **(1)** Pour l’application de l’article 110.7 de la Loi, sont des zones nordiques pour une année d’imposition :
-	- **a)** le territoire du Yukon ou les Territoires du Nord-Ouest;
+- **(1)** Pour l’application de l’article 110.7 de la Loi, sont des zones nordiques pour une année d’imposition :
+	- **a)** le territoire du Yukon, les Territoires du Nord-Ouest ou le Nunavut;
 	- **b)** les parties de la Colombie-Britannique, de l’Alberta et de la Saskatchewan sises au nord de 57°30’ de latitude N.;
-	- **c)** la partie du Manitoba sise :
+	- **c)** la partie du Manitoba sise :
 		- **(i)** soit au nord de 56°20’ de latitude N.,
 		- **(ii)** soit au nord de 52°30’ de latitude N. et à l’est de 95°25’ de longitude O.;
-	- **d)** la partie de l’Ontario sise :
+	- **d)** la partie de l’Ontario sise :
 		- **(i)** soit au nord de 52°30’ de latitude N.,
 		- **(ii)** soit au nord de 51°05’ de latitude N. et à l’est de 89°10’ de longitude O.;
-	- **e)** la partie du Québec sise :
+	- **e)** la partie du Québec sise :
 		- **(i)** soit au nord de 51°05’ de latitude N.,
 		- **(ii)** soit au nord du golfe du Saint-Laurent et à l’est de 63°00’ de longitude O.;
 	- **f)** le Labrador, y compris Belle Isle.
 
-- **(2)** Pour l’application de l’article 110.7 de la Loi, sont des zones intermédiaires pour une année d’imposition les îles de la Reine-Charlotte, l’île d’Anticosti, les îles de la Madeleine et l’île de Sable, ainsi que les régions suivantes qui ne font pas partie d’une zone nordique visée au paragraphe (1) pour l’année :
-	- **a)** la partie de la Colombie-Britannique sise :
+- **(2)** Pour l’application de l’article 110.7 de la Loi, sont des zones intermédiaires pour une année d’imposition les îles de la Reine-Charlotte, l’île d’Anticosti, les îles de la Madeleine et l’île de Sable, ainsi que les régions suivantes qui ne font pas partie d’une zone nordique visée au paragraphe (1) pour l’année :
+	- **a)** la partie de la Colombie-Britannique sise :
 		- **(i)** soit au nord de 55°35’ de latitude N.,
-		- **(ii)** soit au nord de 55°00’ de latitude N. et à l’est de 122°00’ de longitude O.;
+		- **(ii)** soit au nord de 55°00’ de latitude N. et à l’est de 122°00’ de longitude O.,
+		- **(iii)** soit au nord de 55°13′ de latitude N. et à l’est de 123°16′ de longitude O.;
 	- **b)** la partie de l’Alberta sise au nord de 55°00’ de latitude N.;
-	- **c)** la partie de la Saskatchewan sise :
+	- **c)** la partie de la Saskatchewan sise :
 		- **(i)** soit au nord de 55°00’ de latitude N.,
 		- **(ii)** soit au nord de 54°15’ de latitude N. et à l’est de 107°00’ de longitude O.,
 		- **(iii)** soit au nord de 53°20’ de latitude N. et à l’est de 103°00’ de longitude O.;
-	- **d)** la partie du Manitoba sise :
+	- **d)** la partie du Manitoba sise :
 		- **(i)** soit au nord de 53°20’ de latitude N.,
 		- **(ii)** soit au nord de 52°10’ de latitude N. et à l’est de 97°40’ de longitude O.,
 		- **(iii)** soit au nord de 51°30’ de latitude N. et à l’est de 96°00’ de longitude O.;
 	- **e)** la partie de l’Ontario sise au nord de 50°35’ de latitude N.;
-	- **f)** la partie du Québec sise :
+	- **f)** la partie du Québec sise :
 		- **(i)** soit au nord de 50°35’ de latitude N. et à l’ouest de 79°00’ de longitude O.,
 		- **(ii)** soit au nord de 49°00’ de latitude N., à l’est de 79°00’ de longitude O. et à l’ouest de 74°00’ de longitude O.,
 		- **(iii)** soit au nord de 50°00’ de latitude N., à l’est de 74°00’ de longitude O. et à l’ouest de 70°00’ de longitude O.,
 		- **(iv)** soit au nord de 50°45’ de latitude N., à l’est de 70°00’ de longitude O. et à l’ouest de 65°30’ de longitude O.,
 		- **(v)** soit au nord du golfe du Saint-Laurent, à l’est de 65°30’ de longitude O. et à l’ouest de 63°00’ de longitude O.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/93-440, art. 2.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/93-440, art. 2; 2007, ch. 35, art. 79.
 
 
 
@@ -12780,6 +12814,12 @@ où
 </table>
 
 > [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ;  DORS/94-127, art. 1; DORS/2000-63, art. 2; DORS/2005-264, art. 14.
+
+
+
+
+**7310** Pour l’application de la définition de ***apprenti admissible*** au paragraphe 127(9) de la Loi, est un métier visé relativement à une province tout au long d’une année d’imposition le métier qui, à tout moment de cette année, est un métier désigné Sceau rouge pour la province dans le cadre du Programme des normes interprovinciales Sceau rouge.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; 2007, ch. 35, art. 80.
 
 
 
@@ -16488,8 +16528,8 @@ ou les droits dans ces actions, créances ou participations ou les droits de les
 
 - **(2)** Ne sont pas des placements interdits :
 	- **a)** les obligations, les billets, les hypothèques ou des titres semblables visés à la division 212(1)b)(ii)(C) de la Loi;
-	- **b)** les actions cotées à une bourse de valeurs visée aux articles 3200 ou 3201;
-	- **c)** les obligations, les billets ou des titres semblables d’une société dont des actions sont cotées à une bourse de valeurs visée aux articles 3200 ou 3201;
+	- **b)** les actions cotées à une bourse de valeurs désignée;
+	- **c)** les obligations, les billets ou des titres semblables d’une société dont des actions sont cotées à une bourse de valeurs désignée;
 	- **d)** les droits dans des biens visés aux alinéas b) ou c) ou les droits de les acquérir;
 	- **e)** les hypothèques sur les biens immeubles situés au Canada qui, à la fois :
 		- **(i)** sont assurées conformément à la [Loi nationale sur l’habitation](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-11.md) ou par une société qui offre au public au Canada des services d’assureur d’hypothèques, si le ministre n’a pas renoncé à appliquer la présente condition et si le total du montant payé pour l’hypothèque et du montant de toute somme impayée au moment où l’hypothèque est acquise aux termes d’une hypothèque de rang égal ou supérieur à l’hypothèque en question dépasse 75 pour cent de la juste valeur marchande, à ce moment, des biens immeubles visés par celle-ci,
@@ -16510,7 +16550,7 @@ ou les droits dans ces actions, créances ou participations ou les droits de les
 - **(3)** Ne sont pas des placements interdits dans le cadre d’un régime de pension agréé les placements acquis par le régime avant le 28 mars 1988.
 
 - **(4)** Pour l’application du paragraphe (3), lorsque, à un moment donné après le 27 mars 1988, le principal d’une obligation, d’un billet, d’une hypothèque ou d’un autre titre semblable augmente par suite de l’avance ou du prêt de montants supplémentaires ou lorsque l’échéance d’un tel titre est reportée après ce moment, le titre est réputé, après ce moment, avoir été émis à ce moment.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/94-686, art. 62, 78(F) et 79(F); DORS/2001-67, art. 9.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/94-686, art. 62, 78(F) et 79(F); DORS/2001-67, art. 9; 2007, ch. 35, art. 86.
 
 
 
@@ -17312,6 +17352,61 @@ sur le total des montants représentant chacun :
 	- **i)** de la publicité;
 	- **j)** une production produite principalement à des fins industrielles ou institutionnelles.
 > [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2005-126, art. 5.
+
+
+
+
+
+**PARTIE XCIV** 
+## Programmes d’activités physiques
+
+
+
+### Définitions
+
+
+**9400** 
+
+- **(1)** Les définitions qui suivent s’appliquent à la présente partie.
+
+***activité physique*** Toute activité supervisée convenant aux enfants (à l’exception d’une activité dont l’une des composantes essentielles exige de l’enfant qu’il monte dans ou sur un véhicule à moteur) qui :
+- **a)** dans le cas d’un enfant admissible à l’égard duquel une somme est déductible en application de l’article 118.3 de la Loi dans le calcul du revenu d’une personne pour une année d’imposition, permet à l’enfant de bouger et de dépenser de l’énergie de façon visible dans un contexte récréatif;
+- **b)** dans le cas de tout autre enfant, contribue à l’endurance cardio-respiratoire et à la réalisation d’un ou de plusieurs des objectifs suivants :
+	- **(i)** la force musculaire,
+	- **(ii)** l’endurance musculaire,
+	- **(iii)** la souplesse,
+	- **(iv)** l’équilibre. (*physical activity*)
+
+***enfant admissible*** S’entend au sens du paragraphe 118.03(1) de la Loi. (*qualifying child*)
+
+### Programme d’activité physique
+
+
+- **(2)** Pour l’application de la définition de ***dépense admissible pour activités physiques*** au paragraphe 118.03(1) de la Loi, sont des programmes d’activités physiques :
+	- **a)** tout programme hebdomadaire, ne faisant pas partie du programme d’études d’une école, d’une durée d’au moins huit semaines consécutives dans le cadre duquel la totalité ou la presque totalité des activités comprennent une part importante d’activités physiques;
+	- **b)** tout programme, ne faisant pas partie du programme d’études d’une école, d’une durée d’au moins cinq jours consécutifs et dont plus de 50 % des activités quotidiennes comprennent une part importante d’activités physiques;
+	- **c)** tout programme, ne faisant pas partie du programme d’études d’une école, d’une durée d’au moins huit semaines consécutives qui est offert aux enfants par un club, une association ou une organisation semblable (appelés « organisation » au présent article) dans des circonstances où le participant au programme peut choisir parmi diverses activités si, selon le cas :
+		- **(i)** plus de 50 % des activités offertes aux enfants par l’organisation sont des activités qui comprennent une part importante d’activités physiques,
+		- **(ii)** plus de 50 % du temps prévu pour les activités offertes aux enfants dans le cadre du programme est réservé à des activités qui comprennent une part importante d’activités physiques;
+	- **d)** toute adhésion à une organisation, ne faisant pas partie du programme d’études d’une école, d’une durée d’au moins huit semaines consécutives si plus de 50 % des activités offertes aux enfants par l’organisation comprennent une part importante d’activités physiques.
+
+### Installation polyvalente
+
+
+- **(3)** Pour l’application de la définition de ***dépense admissible pour activités physiques*** au paragraphe 118.03(1) de la Loi, est un programme d’activités physiques la partie d’un programme — qui ne remplit pas les exigences de l’alinéa (2)c) et ne fait pas partie du programme d’études d’une école — d’une durée d’au moins huit semaines consécutives, offerte aux enfants par une organisation dans des circonstances où le participant au programme peut choisir parmi diverses activités qui représente, selon le cas :
+	- **a)** le pourcentage des activités offertes aux enfants par l’organisation qui sont des activités comprenant une part importante d’activités physiques;
+	- **b)** le pourcentage du temps prévu pour les activités du programme qui est réservé à des activités comprenant une part importante d’activités physiques.
+
+### Adhésion
+
+
+- **(4)** Pour l’application de la définition de ***dépense admissible pour activités physiques*** au paragraphe 118.03(1) de la Loi, est un programme d’activités physiques la partie d’une adhésion à une organisation — qui ne remplit pas les exigences de l’alinéa (2)d) et ne fait pas partie du programme d’études d’une école — d’une durée d’au moins huit semaines consécutives qui représente le pourcentage des activités offertes aux enfants par l’organisation qui sont des activités comprenant une part importante d’activités physiques.
+
+### Équitation
+
+
+- **(5)** Pour l’application de la définition de ***activité physique*** au paragraphe (1), l’équitation est réputée être une activité qui contribue à l’endurance cardio-respiratoire et à la réalisation d’un ou de plusieurs des objectifs suivants : la force musculaire, l’endurance musculaire, la souplesse et l’équilibre.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; 2007, ch. 35, art. 88.
 
 
 
