@@ -37,28 +37,30 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **2** In this Act,
 
-***agreement*** means an agreement entered into pursuant to subsection 4(1);
+***agreement***, unless the context indicates otherwise, means an agreement entered into under subsection 4(1); (*accord*)
 
-***agricultural product*** means
+***agricultural product*** means
 - **(a)** an animal, a plant or an animal or plant product, or
-- **(b)** a product, including any food or drink, that is wholly or partly derived from an animal or a plant;
+- **(b)** a product, including any food or drink, that is wholly or partly derived from an animal or a plant; (*produit agricole*)
 
-***crop insurance program*** means a program for the insurance of specified agricultural products against loss from natural causes that is established by the laws of a province and administered by the province;
+***crop insurance program*** means a program for the insurance of specified agricultural products against loss from natural causes that is established by the laws of a province and administered by the province; (*assurance-récolte*)
 
-***gross revenue insurance program*** means a program that combines the protection offered by a crop insurance program and the protection offered by a revenue insurance program;
+***financial institution*** has the same meaning as in section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md); (*institution financière*)
 
-***Minister*** means the Minister of Agriculture and Agri-Food;
+***gross revenue insurance program*** means a program that combines the protection offered by a crop insurance program and the protection offered by a revenue insurance program; (*régime universel*)
 
- ou ***net income stabilization account program*** means a program under which
+***Minister*** means the Minister of Agriculture and Agri-Food; (*ministre*)
+
+***net income stabilization account program*** means a program under which
 - **(a)** a participating producer elects to contribute to an account established pursuant to an agreement and to which Canada and the provinces that are parties to the agreement contribute, and
-- **(b)** that enables payments to be made to that producer from that account on terms and conditions set out in the agreement;
+- **(b)** that enables payments to be made to that producer from that account on terms and conditions set out in the agreement; (*programme compte de stabilisation du revenu net* ou *programme*)
 
-Version anglaise seulement***prescribed*** means prescribed by regulation made by the Governor in Council;
+***prescribed*** means prescribed by regulation made by the Governor in Council; (***Version anglaise seulement***)
 
-***revenue insurance program*** means a program that is designed to insure a portion of the value of an eligible agricultural product produced or marketed by a producer participating in the program;
+***revenue insurance program*** means a program that is designed to insure a portion of the value of an eligible agricultural product produced or marketed by a producer participating in the program; (*assurance-revenu*)
 
-***reinsurance agreement*** means that part of an agreement respecting the reinsurance of a portion of a liability for the payment of indemnities under a crop insurance program or a gross revenue insurance program.
-> 1991, c. 22, s. 2; 1994, c. 38, s. 25.
+***reinsurance agreement*** means that part of an agreement respecting the reinsurance of a portion of a liability for the payment of indemnities under a crop insurance program or a gross revenue insurance program. (*accord de réassurance*)
+> 1991, c. 22, s. 2; 1994, c. 38, s. 25; 2007, c. 35, s. 154.
 
 
 
@@ -75,7 +77,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation made b
 
 
 
-## Protection of Producers' Income
+## Protection of Producers’ Income
 
 
 
@@ -203,7 +205,9 @@ Version anglaise seulement***prescribed*** means prescribed by regulation made b
 
 - **(2)** The account for each producer participating in a net income stabilization program shall be composed of
 	- **(a)** Fund No. 1, to which shall be credited all amounts paid by the producer in respect of the program; and
-	- **(b)** Fund No. 2, to which shall be credited all other amounts paid in respect of that producer as or on account of contributions, interest and bonuses.
+	- **(b)** Fund No. 2, to which shall be credited all amounts paid in respect of that producer by Canada or a province.
+> 1991, c. 22, s. 8; 2007, c. 35, s. 155.
+
 
 
 
@@ -353,15 +357,15 @@ Version anglaise seulement***prescribed*** means prescribed by regulation made b
 
 
 
-### Net Income Stabilization Account
+### Net Income Stabilization Account in the Accounts of Canada
 
 
 
-**Net Income Stabilization Account to be established**
+**Establishment**
 
 **15** 
 
-- **(1)** Where an agreement provides for the establishment and administration by the Government of Canada of a net income stabilization account program in respect of an agricultural product or class of agricultural products, there shall be established in the accounts of Canada a Net Income Stabilization Account.
+- **(1)** If an agreement that provides for the establishment and administration by the Government of Canada of a net income stabilization account program in respect of an agricultural product or class of agricultural products indicates that the accounts of producers participating in the program are to be in the accounts of Canada, there shall be established in the accounts of Canada a Net Income Stabilization Account.
 
 **Credits to Net Income Stabilization Account**
 
@@ -388,6 +392,59 @@ Version anglaise seulement***prescribed*** means prescribed by regulation made b
 **Charges to Net Income Stabilization Accounts**
 
 - **(7)** Subject to paragraph 8(1)(b), there shall be paid out of the Consolidated Revenue Fund and charged to a Net Income Stabilization Account, separately in respect of each producer participating in the net income stabilization account program, all amounts paid under the agreement providing for that program in respect of that producer.
+> 1991, c. 22, s. 15; 2007, c. 35, s. 158.
+
+
+
+
+
+### Net Income Stabilization Accounts in Financial Institutions
+
+
+
+**Agreement with financial institutions**
+
+**15.1** 
+
+- **(1)** If an agreement that provides for the establishment of a net income stabilization account program in respect of an agricultural product or class of agricultural products indicates that the accounts of producers participating in the program are to be in financial institutions, the Minister may enter into an agreement with one or more financial institutions to provide for their holding of Net Income Stabilization Accounts of producers participating in the program.
+
+**Contents — terms and conditions**
+
+- **(2)** An agreement with a financial institution must set the terms and conditions required for the holding of Net Income Stabilization Accounts including, but not limited to, the prescribed terms and conditions and the following terms and conditions:
+	- **(a)** the financial institution may hold only one Net Income Stabilization Account in respect of any particular producer; and
+	- **(b)** the financial institution may permit withdrawals to be made from a Net Income Stabilization Account only as provided for in the agreement.
+
+**Contents — additional provisions**
+
+- **(3)** In addition to the terms and conditions required by subsection (2), an agreement with a financial institution must provide for
+	- **(a)** the nature of the investments that may be held in a Net Income Stabilization Account;
+	- **(b)** the account transactions that the financial institution must perform in accordance with the agreement;
+	- **(c)** the information that must be submitted to the Minister by the financial institution in the periods specified in the agreement;
+	- **(d)** the Minister’s right of access to and right to audit any records held by the financial institution that contain information relating to the Net Income Stabilization Accounts held by it and the manner in which those rights are to be exercised;
+	- **(e)** the penalties that may be imposed if the financial institution does not comply with the agreement;
+	- **(f)** the terms and conditions respecting the amendment, termination or expiry of the agreement; and
+	- **(g)** the manner of transferring Net Income Stabilization Accounts held by the financial institution on the termination or expiry of the agreement.
+
+**Limit of one Account**
+
+- **(4)** A particular producer may hold only one Net Income Stabilization Account at financial institutions at any time in respect of the program to which the Account relates.
+
+**Payments to Her Majesty**
+
+- **(5)** A financial institution that holds a Net Income Stabilization Account of a particular producer shall, on the direction of the Minister, pay from the Account to Her Majesty in right of Canada or in right of a province
+	- **(a)** any amount that is owing by the producer in respect of amounts paid into the Account in excess of the producer’s entitlement under the program to which the Account relates or any other program established under this Act;
+	- **(b)** any administrative fees or penalties under the program to which the Account relates or any other program in respect of which amounts were paid into the Account; or
+	- **(c)** all or part of any other amount that is owing by the producer to Her Majesty.
+
+**No assignments, etc.**
+
+- **(6)** Except for the purposes of the [Agricultural Marketing Programs Act](/en/Acts/Statutes%20of%20Canada/1997/c.%2020.md), an amount in a Net Income Stabilization Account of a producer may not be assigned or given as security, and any transaction that purports to do so is void to that extent.
+
+**Exemption from attachment, etc.**
+
+- **(7)** An amount in a Net Income Stabilization Account of a producer is exempt from attachment, seizure and execution, except in the case of a producer who has the status of a bankrupt, or if the attachment, seizure or execution is for the purpose of satisfying the provisions of an agreement or court order relating to separation or divorce that provides for the division of the Account into separate Net Income Stabilization Accounts.
+> 2007, c. 35, s. 159.
+
 
 
 
@@ -431,6 +488,8 @@ Version anglaise seulement***prescribed*** means prescribed by regulation made b
 **Charges to Revenue Insurance Fund**
 
 - **(8)** There shall be paid out of the Consolidated Revenue Fund and charged to a Revenue Insurance Fund established in respect of a revenue insurance program all amounts paid under the agreement providing for that program.
+> 1991, c. 22, s. 16; 2007, c. 35, s. 160(F).
+
 
 
 
@@ -482,7 +541,7 @@ is insufficient for the payment of amounts required to be charged to that Fund o
 
 
 
-## Payments Out of Consolidated Revenue  Fund
+## Payments Out of Consolidated Revenue Fund
 
 
 
