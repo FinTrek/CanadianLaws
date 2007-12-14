@@ -431,7 +431,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 #### Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve
 
 
-**78** [Modification]
+**78** [Abrogé, 2007, ch. 35, art. 169]
 
 
 
@@ -455,98 +455,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-
-#### Dispositions transitoires
-
-
-
-**Effet du choix par Terre-Neuve- et-Labrador — exercice 2007-2008**
-
-**83** 
-
-- **(1)** Pour l’exercice commençant le 1<sup>er</sup> avril 2007, si Terre-Neuve-et-Labrador fait le choix prévu au paragraphe 3.7(1) de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md), édicté par l’article 62 de la présente loi :
-	- **a)** l’article 220 de la Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve est réputé avoir le libellé suivant :
-
-**Calcul**
-
-**220** Le paiement visé à l’article 219 pour un exercice correspond à la somme des éléments suivants :
-	- **a)** l’excédent éventuel du montant obtenu au sous-alinéa (i) sur celui obtenu au sous-alinéa (ii) :
-		- **(i)** l’un des pourcentages ci-après par rapport à la somme du paiement de péréquation que recevrait Sa Majesté du chef de la province sous le régime de la partie I de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md) pour l’exercice précédent et du montant calculé conformément au présent alinéa pour l’exercice précédent, dans sa version applicable à cet exercice :
-			- **(A)** quatre-vingt-quinze pour cent, lorsque la moyenne des sommes représentant le potentiel de la province pour les exercices pris en compte dans le calcul du paiement de péréquation pour l’exercice visé est au plus égale à soixante-dix pour cent de la moyenne des moyennes nationales pour ces mêmes exercices,
-			- **(B)** quatre-vingt-dix pour cent, lorsque la moyenne des sommes représentant le potentiel de la province pour les exercices pris en compte dans le calcul du paiement de péréquation est au plus égale à soixante-quinze pour cent mais supérieure à soixante-dix pour cent de la moyenne des moyennes nationales pour ces mêmes exercices,
-			- **(C)** quatre-vingt-cinq pour cent, lorsque la moyenne des sommes représentant le potentiel de la province pour les exercices pris en compte dans le calcul du paiement de péréquation est supérieure à soixante-quinze pour cent de la moyenne des moyennes nationales pour ces mêmes exercices,
-		- **(ii)** le paiement de péréquation que recevrait Sa Majesté du chef de la province si celui-ci était calculé au titre de l’article 3.2 de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md), compte non tenu de l’article 3.4 de cette loi, pour l’exercice;
-	- **b)** la fraction dégressive, pour l’exercice, correspond à l’excédent du montant visé au sous-alinéa (i) sur celui visé au sous-alinéa (ii) :
-		- **(i)** la somme du paiement de péréquation que recevrait Sa Majesté du chef de la province sous le régime de la partie I de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md) pour l’exercice précédent et du montant calculé conformément à l’alinéa a) pour ce même exercice, dans sa version applicable à cet exercice,
-		- **(ii)** la somme du paiement de péréquation que recevrait Sa Majesté du chef de la province si celui-ci était calculé au titre de l’article 3.2 de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md), compte non tenu de l’article 3.4 de cette loi, pour l’exercice et du montant calculé conformément à l’alinéa a) pour ce même exercice.
-
-
-	- **b)** la mention, à l’article 220 de cette loi, de toute moyenne, sauf celle visée par la définition de ***moyenne nationale***, s’entend d’une moyenne pondérée où le dernier exercice pris en compte dans le calcul du paiement de péréquation est pondéré de 50 %, la pondération étant de 25 % pour les deux autres exercices pris en compte dans ce calcul;
-	- **c)** la définition de ***paiement de péréquation***, à l’article 18 de la [Loi sur les paiements de péréquation compensatoires supplémentaires à la Nouvelle-Écosse et à Terre-Neuve-et-Labrador](/fr/Lois/Lois%20du%20Canada/2005/ch.%2030,%20art.%2085.md), est réputée avoir le libellé suivant :
-
-
-***paiement de péréquation***
-	- **a)** Pour l’application de l’article 22, le paiement de péréquation que recevrait la province de Terre-Neuve-et-Labrador pour l’exercice si celui-ci était calculé au titre de l’article 3.2 de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md), compte non tenu de l’article 3.4 de cette loi;
-	- **b)** pour l’application des articles 24 à 26, le paiement de péréquation que recevrait la province de Terre-Neuve-et-Labrador pour l’exercice sous le régime de la partie I de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md), si la capacité fiscale totale par habitant correspondait au résultat du calcul suivant :
-```
-A + B + (C / F)
-```
-où :
-- **A,** B, C et F s’entendent au sens de la définition de ***capacité fiscale totale par habitant*** au paragraphe 3.5(1) de cette loi.
-
-
-
-**Effet du choix par la Nouvelle- Écosse — exercice 2007-2008**
-
-- **(2)** Pour l’exercice commençant le 1<sup>er</sup> avril 2007, si la Nouvelle-Écosse fait le choix prévu au paragraphe 3.7(1) de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md), édicté par l’article 62 de la présente loi, la définition de ***paiement de péréquation***, à l’article 4 de la [Loi sur les paiements de péréquation compensatoires supplémentaires à la Nouvelle-Écosse et à Terre-Neuve-et-Labrador](/fr/Lois/Lois%20du%20Canada/2005/ch.%2030,%20art.%2085.md), est réputée avoir le libellé suivant :
-
-
-***paiement de péréquation***
-- **a)** Pour l’application de l’article 8, le paiement de péréquation que recevrait la province de la Nouvelle-Écosse pour l’exercice si celui-ci était calculé au titre de l’article 3.2 de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md), compte non tenu de l’article 3.4 de cette loi;
-- **b)** pour l’application des articles 10 à 12, le paiement de péréquation que recevrait la province de la Nouvelle-Écosse pour l’exercice sous le régime de la partie I de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md), si la capacité fiscale totale par habitant correspondait au résultat du calcul suivant :
-```
-A + B + (C / F)
-```
-où :
-- **A,** B, C et F s’entendent au sens de la définition de ***capacité fiscale totale par habitant*** au paragraphe 3.5(1) de cette loi.
-
-
-
-**Effet du choix par Terre-Neuve- et-Labrador — exercice 2008-2009**
-
-- **(3)** Pour l’exercice commençant le 1<sup>er</sup> avril 2008, si Terre-Neuve-et-Labrador ne fait pas fait le choix prévu au paragraphe 3.7(3) de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md), édicté par l’article 62 de la présente loi, et qu’elle avait fait le choix prévu au paragraphe 3.7(1) de cette loi, édicté par l’article 62 de la présente loi, pour l’exercice précédent :
-	- **a)** le sous-alinéa 220a)(i) de la Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve est réputé avoir le libellé suivant :
-
-		- **(i)** l’un des pourcentages ci-après par rapport à la somme du paiement de péréquation que recevrait Sa Majesté du chef de la province si celui-ci était calculé au titre de l’article 3.2 de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md), compte non tenu de l’article 3.4 de cette loi, pour l’exercice précédent et du montant calculé conformément au présent alinéa pour l’exercice précédent, dans sa version applicable à cet exercice :
-
-
-	- **b)** l’alinéa 220b) de cette loi est réputé avoir le libellé suivant :
-
-	- **b)** la fraction dégressive, pour l’exercice, correspond à l’excédent du montant visé au sous-alinéa (i) sur celui visé au sous-alinéa (ii) :
-		- **(i)** la somme du paiement de péréquation que recevrait Sa Majesté du chef de la province si celui-ci était calculé au titre de l’article 3.2 de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md), compte non tenu de l’article 3.4 de cette loi, pour l’exercice précédent et du montant calculé conformément à l’alinéa a) pour ce même exercice, dans sa version applicable à cet exercice,
-		- **(ii)** la somme du paiement de péréquation que recevrait Sa Majesté du chef de la province si celui-ci était calculé au titre de l’article 3.2 de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md), compte non tenu de l’article 3.4 de cette loi, pour l’exercice et du montant calculé conformément à l’alinéa a) pour ce même exercice.
-
-
-
-**Effet du choix par Terre-Neuve- et-Labrador — exercice 2008-2009**
-
-- **(4)** Pour le premier exercice commençant après l’entrée en vigueur de l’article 220 de la Loi de mise en oeuvre de l’Accord atlantique Canada — Terre-Neuve, édicté par l’article 78 de la présente loi :
-	- **a)** le sous-alinéa 220a)(i) de cette loi est réputé avoir le libellé suivant :
-
-		- **(i)** l’un des pourcentages ci-après par rapport à la somme du paiement de péréquation que recevrait Sa Majesté du chef de la province sous le régime de la partie I de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md) pour l’exercice précédent et du montant calculé conformément au présent alinéa pour l’exercice précédent, dans sa version applicable à cet exercice :
-
-
-	- **b)** l’alinéa 220b) de cette loi est réputé avoir le libellé suivant :
-
-	- **b)** la fraction dégressive, pour l’exercice, correspond à l’excédent du montant visé au sous-alinéa (i) sur celui visé au sous-alinéa (ii) :
-		- **(i)** la somme du paiement de péréquation que recevrait Sa Majesté du chef de la province sous le régime de la partie I de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md) pour l’exercice précédent et du montant calculé conformément à l’alinéa a) pour ce même exercice, dans sa version applicable à cet exercice,
-		- **(ii)** la somme du paiement de péréquation qui pourrait être effectué au profit de Sa Majesté du chef de la province si celui-ci était calculé au titre de l’article 3.2 de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md), compte non tenu de l’article 3.4 de cette loi, pour l’exercice et du montant calculé conformément à l’alinéa a) pour ce même exercice.
-
-
-
-**Réserve**
-
-- **(5)** Si Terre-Neuve-et-Labrador fait le choix prévu au paragraphe 3.7(3) de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md), édicté par l’article 62 de la présente loi, pour l’exercice commençant le 1<sup>er</sup> avril 2008 et qu’elle avait fait le choix prévu au paragraphe 3.7(1) de cette loi, édicté par cet article 62, pour l’exercice précédent, le paragraphe (4) ne s’applique pas.
+**83** [Abrogé, 2007, ch. 35, art. 170]
 
 
 
@@ -559,15 +468,19 @@ où :
 
 **84** 
 
-- <sup><a href='#fn_Ind30F4_hq_2659'>[*]</a></sup>**(1)** Les articles 78, 79 et 82 entrent en vigueur à la date fixée par décret, laquelle ne peut être antérieure à la date de tout choix fait par Terre-Neuve-et-Labrador en vertu du paragraphe 3.7(3) de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md), édicté par l’article 62 de la présente loi.
+- **(1)** Les articles 79 et 82 entrent en vigueur ou sont réputés être entrés en vigueur le 1<sup>er</sup> avril du premier exercice à l’égard duquel Terre-Neuve-et-Labrador fait le choix prévu au paragraphe 3.7(3) de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md).
 
-<a name='fn_Ind30F4_hq_2659'><sup>*</sup></a>: [Note : Articles 78, 79 et 82 non en vigueur.]<br />
+**Avis**
 
-**Nouvelle- Écosse**
+- <sup><a href='#fn_Ind5591_hq_3837'>[*]</a></sup>**(2) ** Le ministre des Finances fait publier dans la Gazette du Canada un avis de la date d’entrée en vigueur des articles 79 et 82.
 
-- <sup><a href='#fn_Ind30F4_hq_2660'>[**]</a></sup>**(2)** L’article 81 entre en vigueur à la date fixée par décret, laquelle ne peut être antérieure à la date de tout choix fait par la Nouvelle-Écosse en vertu du paragraphe 3.7(3) de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md), édicté par l’article 62 de la présente loi.
+<a name='fn_Ind5591_hq_3837'><sup>*</sup></a>: [Note : Articles 79 et 82 non en vigueur.]<br />
 
-<a name='fn_Ind30F4_hq_2660'><sup>**</sup></a>: [Note : Article 81 non en vigueur.]<br />
+**Nouvelle-Écosse**
+
+- **(3)** L’article 81 entre en vigueur ou est réputé être entré en vigueur le 1<sup>er</sup> avril 2008.
+> 2007, ch. 29, art. 84, ch. 35, art. 171.
+
 
 
 
