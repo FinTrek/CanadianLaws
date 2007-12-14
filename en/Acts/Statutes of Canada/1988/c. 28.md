@@ -65,7 +65,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***fundamental decision*** means a decision made by the Board respecting the exercise of a power or the performance of a duty pursuant to a provision of this Act that expressly provides for the exercise of the power or the performance of the duty subject to sections 32 to 37;
 
-***gas*** means natural gas and includes all substances, other than oil, that are produced in association with natural gas;
+***gas*** means natural gas and includes all substances, other than oil, that are produced in association with natural gas, but does not include coal-bed methane associated with the development or operation of a coal mine;
 
 Version anglaise seulement***government*** means the Federal Government, the Provincial Government or both, as the context requires;
 
@@ -96,7 +96,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulations made 
 ***Provincial Minister*** means the Minister of Mines and Energy of the Province;
 
 ***Sable Island*** means the area, whether above or under water, that is within the limits described in Schedule III.
-> 1988, c. 28, s. 2; 1993, c. 47, s. 11; 1994, c. 26, s. 16(F), c. 41, s. 37.
+> 1988, c. 28, s. 2; 1993, c. 47, s. 11; 1994, c. 26, s. 16(F), c. 41, s. 37; 2007, c. 33, s. 16.
 
 
 
