@@ -275,6 +275,15 @@ and in respect of whom a national child benefit supplement, or a special allowan
 
 
 
+**Collection of information**
+
+**12.1** If the Minister considers it advisable, the Minister may, subject to conditions agreed on by the Minister and the Minister of National Revenue, collect the Social Insurance Number of any registered education savings plan subscriber as well as any prescribed information, for the administration of section 146.1 and Parts X.4 and X.5 of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
+> 2007, c. 35, s. 176.
+
+
+
+
+
 **Regulations**
 
 **13** The Governor in Council may make regulations for carrying out the purpose and provisions of this Act and, without limiting the generality of the foregoing, may make regulations
@@ -287,8 +296,11 @@ and in respect of whom a national child benefit supplement, or a special allowan
 - **(g)** specifying the requirements of this Act or the regulations relating to the payment of CES grants or Canada Learning Bonds that may be waived by the Minister to avoid undue hardship;
 - **(h)** governing or prohibiting the sharing of CES grants or Canada Learning Bonds, and the earnings generated on them;
 - **(i)** specifying circumstances under which all or part of any amount paid under this Act is to be repaid to the Minister;
-- **(j)** specifying circumstances under which the earnings generated on Canada Learning Bonds repaid under regulations made under paragraph (i) are to be repaid to the Minister and establishing the manner of determining the amount of those earnings; and
-- **(k)** establishing, for the purpose of determining an amount required to be repaid under this Act in respect of CES grants or Canada Learning Bonds, the manner of determining the portion, if any, of an educational assistance payment made under a registered education savings plan that is attributable to CES grants or Canada Learning Bonds, as the case may be.
+- **(j)** specifying circumstances under which the earnings generated on Canada Learning Bonds repaid under regulations made under paragraph (i) are to be repaid to the Minister and establishing the manner of determining the amount of those earnings;
+- **(k)** establishing, for the purpose of determining an amount required to be repaid under this Act in respect of CES grants or Canada Learning Bonds, the manner of determining the portion, if any, of an educational assistance payment made under a registered education savings plan that is attributable to CES grants or Canada Learning Bonds, as the case may be; and
+- **(l)** specifying information that the Minister may collect under section 12.1.
+> 2004, c. 26, s. 13; 2007, c. 35, s. 177.
+
 
 
 
