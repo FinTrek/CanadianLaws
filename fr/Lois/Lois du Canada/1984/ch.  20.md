@@ -27,8 +27,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Définition de Convention**
 
-**2** Pour l’application de la présente loi, ***Convention*** s’entend de la convention conclue entre le gouvernement du Canada et le gouvernement des États-Unis ainsi que des Protocoles qui la modifient, dont les textes figurent respectivement aux annexes II, III, IV et V.
-> 1984, ch. 20, art. 2; 1995, ch. 34, art. 1; 1997, ch. 38, art. 34.
+**2** Pour l’application de la présente loi, ***Convention*** s’entend de la convention conclue entre le gouvernement du Canada et le gouvernement des États-Unis ainsi que des Protocoles qui la modifient, dont les textes figurent respectivement aux annexes I, II, III, IV, V et VI.
+> 1984, ch. 20, art. 2; 1995, ch. 34, art. 1; 1997, ch. 38, art. 34; 2007, ch. 32, art. 1.
 
 
 
@@ -57,11 +57,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Promulgation des dates**
+**Avis**
 
-<sup><a href='#nbp_C-10.7_F_hq_8404'>[*]</a></sup>**4** Avis des dates d’entrée en vigueur et de cessation d’effet de la Convention sont donnés par proclamation du gouverneur en conseil publiée dans la Gazette du Canada.
+<sup><a href='#nbp_C-10.7_F_hq_8404'>[*]</a></sup>**4** Le ministre des Finances fait publier dans la Gazette du Canada un avis des dates d’entrée en vigueur et de cessation d’effet de la Convention dans les soixante jours suivant son entrée en vigueur ou sa dénonciation.
 
 <a name='nbp_C-10.7_F_hq_8404'><sup>*</sup></a>: [Note: Convention en vigueur le 16 août 1984, *voir* TR/84-233.]<br />
+> 1984, ch. 20, art. 4; 2007, ch. 32, art. 2.
+
 
 
 
