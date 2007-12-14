@@ -266,6 +266,15 @@ où :
 
 
 
+**Renseignements**
+
+**12.1** S’il l’estime indiqué, le ministre peut, aux conditions dont il convient avec le ministre du Revenu national, recueillir, pour l’application de l’article 146.1 et des parties X.4 et X.5 de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), le numéro d’assurance sociale de tout souscripteur d’un régime enregistré d’épargne-études ainsi que tout autre renseignement prévu par règlement.
+> 2007, ch. 35, art. 176.
+
+
+
+
+
 **Règlements**
 
 **13** Le gouverneur en conseil peut, par règlement, prendre toute mesure d’application de la présente loi et, notamment :
@@ -279,7 +288,10 @@ où :
 - **h)** régir ou interdire le partage des subventions pour l’épargne-études ou des bons d’études, de même que des revenus générés par eux;
 - **i)** préciser les circonstances dans lesquelles tout ou partie d’une somme versée aux termes de la présente loi est à rembourser au ministre;
 - **j)** préciser les circonstances dans lesquelles les revenus générés par tout bon d’études remboursé aux termes des règlements pris en vertu de l’alinéa i) sont à rembourser au ministre et établir le mode de calcul de ces revenus;
-- **k)** établir, en vue du calcul d’une somme à rembourser aux termes de la présente loi relativement à des subventions pour l’épargne-études ou des bons d’études, le mode de calcul de la partie éventuelle d’un paiement d’aide aux études effectué dans le cadre d’un régime enregistré d’épargne-études qui est imputable à des subventions pour l’épargne-études ou à des bons d’études, selon le cas.
+- **k)** établir, en vue du calcul d’une somme à rembourser aux termes de la présente loi relativement à des subventions pour l’épargne-études ou des bons d’études, le mode de calcul de la partie éventuelle d’un paiement d’aide aux études effectué dans le cadre d’un régime enregistré d’épargne-études qui est imputable à des subventions pour l’épargne-études ou à des bons d’études, selon le cas;
+- **l)** prévoir les renseignements que le ministre peut recueillir au titre de l’article 12.1.
+> 2004, ch. 26, art. 13; 2007, ch. 35, art. 177.
+
 
 
 
