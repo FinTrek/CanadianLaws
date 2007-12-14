@@ -27,8 +27,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Definition of Convention**
 
-**2** In this Act, ***Convention*** means the Convention between the Government of Canada and the Government of the United States set out in Schedule I, as amended by the Protocols set out in Schedules II, III, IV and V.
-> 1984, c. 20, s. 2; 1995, c. 34, s. 1; 1997, c. 38, s. 34.
+**2** In this Act, ***Convention*** means the Convention between the Government of Canada and the Government of the United States set out in Schedule I, as amended by the Protocols set out in Schedules II, III, IV, V and VI.
+> 1984, c. 20, s. 2; 1995, c. 34, s. 1; 1997, c. 38, s. 34; 2007, c. 32, s. 1.
 
 
 
@@ -57,11 +57,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**Promulgation of dates**
+**Notification**
 
-<sup><a href='#fn_C-10.7_E_hq_8604'>[*]</a></sup>**4** Notice of the day the Convention comes into force and of the day it ceases to be effective shall be given by proclamation of the Governor in Council published in the Canada Gazette.
+<sup><a href='#fn_C-10.7_E_hq_8604'>[*]</a></sup>**4** The Minister of Finance shall cause a notice of the day on which the Convention enters into force and of the day on which it ceases to have effect to be published in the Canada Gazette within 60 days after its entry into force or termination.
 
 <a name='fn_C-10.7_E_hq_8604'><sup>*</sup></a>: [Note: Convention in force on August 16, 1984, *see* SI/84-233.]<br />
+> 1984, c. 20, s. 4; 2007, c. 32, s. 2.
+
 
 
 
