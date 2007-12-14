@@ -431,7 +431,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 #### Canada-Newfoundland Atlantic Accord Implementation Act
 
 
-**78** [Amendment]
+**78** [Repealed, 2007, c. 35, s. 169]
 
 
 
@@ -455,96 +455,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-
-#### Transitional Provisions
-
-
-
-**Effect of election by Newfoundland and Labrador — fiscal year 2007-2008**
-
-**83** 
-
-- **(1)** For the fiscal year that begins on April 1, 2007, if Newfoundland and Labrador makes the election under subsection 3.7(1) of the [Federal-Provincial Fiscal Arrangements Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20F-6.md), as enacted by section 62 of this Act,
-	- **(a)** section 220 of the Canada-Newfoundland Atlantic Accord Implementation Act shall be read as follows:
-
-**Calculation**
-
-**220** The fiscal equalization offset payment that is to be paid to Her Majesty in right of the Province for a fiscal year pursuant to section 219 is the amount, as determined by the Federal Minister, equal to the aggregate of
-	- **(a)** the amount, if any, by which
-		- **(i)** the fiscal equalization payment that would be received by Her Majesty in right of the Province for the fiscal year if the amount of that payment were determined in accordance with section 3.2 of the [Federal-Provincial Fiscal Arrangements Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20F-6.md), without regard to section 3.4 of that Act,
-is less than
-		- **(ii)** where the average of the per capita fiscal capacity of the Province for the fiscal years taken into account in the calculation of the fiscal equalization payment for that fiscal year is less than or equal to 70 per cent of the average, for those fiscal years, of the national average per capita fiscal capacity, 95 per cent,
-		- **(iii)** where the average of the per capita fiscal capacity of the Province for the fiscal years taken into account in the calculation of the fiscal equalization payment for that fiscal year is less than or equal to 75 per cent but greater than 70 per cent of the average, for those fiscal years, of the national average per capita fiscal capacity, 90 per cent, or
-		- **(iv)** where the average of the per capita fiscal capacity of the Province for the fiscal years taken into account in the calculation of the fiscal equalization payment for that fiscal year is greater than 75 per cent of the average, for those fiscal years, of the national average per capita fiscal capacity, 85 per cent
-of the aggregate of the fiscal equalization payment that would be received by Her Majesty in right of the Province under Part I of the [Federal-Provincial Fiscal Arrangements Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20F-6.md) for the fiscal year immediately preceding the fiscal year and the amount computed in accordance with this paragraph for the fiscal year immediately preceding the fiscal year as this paragraph read for that fiscal year, and
-	- **(b)** the phase-out portion, in respect of the fiscal year, of the amount, as determined by the Federal Minister, by which
-		- **(i)** the aggregate of the fiscal equalization payment that would be received by Her Majesty in right of the Province under Part I of the [Federal-Provincial Fiscal Arrangements Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20F-6.md) for the fiscal year immediately preceding the fiscal year and the amount computed in accordance with paragraph (a) for the fiscal year immediately preceding the fiscal year as that paragraph read for that fiscal year
-is greater than
-		- **(ii)** the aggregate of the fiscal equalization payment that would be received by Her Majesty in right of the Province if the amount of that payment were determined in accordance with section 3.2 of the [Federal-Provincial Fiscal Arrangements Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20F-6.md), without regard to section 3.4 of that Act, for the fiscal year and the amount computed in accordance with paragraph (a) for the fiscal year.
-
-
-	- **(b)** a reference to ***average*** in section 220 of that Act, except within the expression ***national average per capita fiscal capac- ity***, shall be considered to mean a weighted average where the most recent fiscal year that is taken into account in the calculation of the fiscal equalization payment shall be weighted at 50% and each of the other two fiscal years that are taken into account in the calculation of the fiscal equalization payment shall be weighted at 25%; and
-	- **(c)** the definition ***fiscal equalization payment*** in section 18 of the [Nova Scotia and Newfoundland and Labrador Additional Fiscal Equalization Offset Payments Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2030,%20s.%2085.md) shall be read as follows:
-
-
-***fiscal equalization payment*** means
-	- **(a)** for the purposes of section 22, the fiscal equalization payment that would be received by the Province for a fiscal year if the amount of that payment were determined in accord- ance with section 3.2 of the [Federal-Provincial Fiscal Arrangements Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20F-6.md), without regard to section 3.4 of that Act; and
-	- **(b)** for the purposes of sections 24 to 26, the fiscal equalization payment that would be received by the Province for a fiscal year under Part I of the [Federal-Provincial Fiscal Arrangements Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20F-6.md) if the Province’s total per capita fiscal capacity were the amount determined by the formula
-```
-A + B + (C / F)
-```
-where
-- **A,** B, C and F have the same meaning as in the definition ***total per capita fiscal capacity*** in subsection 3.5(1) of that Act.
-
-
-
-**Effect of election by Nova Scotia — fiscal year 2007-2008**
-
-- **(2)** For the fiscal year that begins on April 1, 2007, if Nova Scotia makes the election under subsection 3.7(1) of the [Federal-Provincial Fiscal Arrangements Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20F-6.md), as enacted by section 62 of this Act, the definition ***fiscal equalization payment*** in section 4 of the [Nova Scotia and Newfoundland and Labrador Additional Fiscal Equalization Offset Payments Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2030,%20s.%2085.md) shall be read as follows:
-
-
-***fiscal equalization payment*** means 
-- **(a)** for the purposes of section 8, the fiscal equalization payment that would be received by the Province for a fiscal year if the amount of that payment were determined in accord- ance with section 3.2 of the [Federal-Provincial Fiscal Arrangements Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20F-6.md), without regard to section 3.4 of that Act; and
-- **(b)** for the purposes of sections 10 to 12, the fiscal equalization payment that would be received by the Province for a fiscal year under Part I of the [Federal-Provincial Fiscal Arrangements Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20F-6.md) if the Province’s total per capita fiscal capacity were the amount determined by the formula
-```
-A + B + (C / F)
-```
-where
-- **A,** B, C and F have the same meaning as in the definition ***total per capita fiscal capacity*** in subsection 3.5(1) of that Act.
-
-
-
-**Effect of election by Newfoundland and Labrador — fiscal year 2008-2009**
-
-- **(3)** For the fiscal year that begins on April 1, 2008, if Newfoundland and Labrador does not make the election under subsection 3.7(3) of the [Federal-Provincial Fiscal Arrangements Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20F-6.md), as enacted by section 62 of this Act, and made, in respect of the preceding fiscal year, the election under subsection 3.7(1) of that Act, as enacted by that section 62,
-	- **(a)** the portion of paragraph 220(a) of the Canada-Newfoundland Atlantic Accord Implementation Act after subparagraph (iv) shall be read as follows:
-
-of the aggregate of the fiscal equalization payment that would be received by Her Majesty in right of the Province if the amount of that payment were determined in accord-ance with section 3.2 of the [Federal-Provincial Fiscal Arrangements Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20F-6.md), without regard to section 3.4 of that Act, for the fiscal year immediately preceding the fiscal year and the amount computed in accordance with this paragraph for the fiscal year immediately preceding the fiscal year as this paragraph read for that fiscal year, and
-
-
-	- **(b)** subparagraph 220(b)(i) of that Act shall be read as follows:
-
-		- **(i)** the aggregate of the fiscal equalization payment that would be received by Her Majesty in right of the Province if the amount of that payment were determined in accordance with section 3.2 of the [Federal-Provincial Fiscal Arrangements Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20F-6.md), without regard to section 3.4 of that Act, for the fiscal year immediately preceding the fiscal year and the amount computed in accordance with paragraph (a) for the fiscal year immediately preceding the fiscal year as that paragraph read for that fiscal year
-
-
-
-**Effect of election by Newfoundland and Labrador — fiscal year 2008-2009 and subsequent fiscal years**
-
-- **(4)** For the first fiscal year that begins after the coming into force of section 220 of the Canada-Newfoundland Atlantic Accord Implementation Act, as enacted by section 78 of this Act,
-	- **(a)** the portion of paragraph 220(a) of that Act after subparagraph (iv) shall be read as follows:
-
-of the aggregate of the fiscal equalization payment that may be received by Her Majesty in right of the Province under Part I of the [Federal-Provincial Fiscal Arrangements Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20F-6.md) for the fiscal year immediately preceding the fiscal year and the amount computed in accordance with this paragraph for the fiscal year immediately preceding the fiscal year as this paragraph read for that fiscal year, and
-
-
-	- **(b)** subparagraph 220(b)(i) of that Act shall be read as follows:
-
-		- **(i)** the aggregate of the fiscal equalization payment that may be received by Her Majesty in right of the Province under Part I of the [Federal-Provincial Fiscal Arrangements Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20F-6.md) for the fiscal year immediately preceding the fiscal year and the amount computed in accordance with paragraph (a) for the fiscal year immediately preceding the fiscal year as that paragraph read for that fiscal year
-
-
-
-**Non-application**
-
-- **(5)** If Newfoundland and Labrador makes the election under subsection 3.7(3) of the [Federal-Provincial Fiscal Arrangements Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20F-6.md), as enacted by section 62 of this Act, for the fiscal year beginning on April 1, 2008 and that province had made the election under subsection 3.7(1) of that Act, as enacted by that section 62, for the preceding fiscal year, subsection (4) does not apply.
+**83** [Repealed, 2007, c. 35, s. 170]
 
 
 
@@ -557,15 +468,19 @@ of the aggregate of the fiscal equalization payment that may be received by Her 
 
 **84** 
 
-- <sup><a href='#fn_Ind4739_hq_2669'>[*]</a></sup>**(1)** Sections 78, 79 and 82 come into force on a day to be fixed by order of the Governor in Council, but the day that is fixed must not be before the day on which Newfoundland and Labrador makes the election under subsection 3.7(3) of the [Federal-Provincial Fiscal Arrangements Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20F-6.md), as enacted by section 62 of this Act.
+- **(1)** Sections 79 and 82 come into force, or are deemed to have come into force, on April 1 of the first fiscal year in respect of which Newfoundland and Labrador makes the election under subsection 3.7(3) of the [Federal-Provincial Fiscal Arrangements Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20F-6.md).
 
-<a name='fn_Ind4739_hq_2669'><sup>*</sup></a>: [Note: Sections 78, 79 and 82 not in force.]<br />
+**Notice**
+
+- <sup><a href='#fn_Ind21A6_hq_3836'>[*]</a></sup>**(2)** The Minister of Finance shall publish in the Canada Gazette the date on which sections 79 and 82 come into force.
+
+<a name='fn_Ind21A6_hq_3836'><sup>*</sup></a>: [Note: Sections 79 and 82 not in force.]<br />
 
 **Nova Scotia**
 
-- <sup><a href='#fn_Ind4739_hq_2670'>[**]</a></sup>**(2)** Section 81 comes into force on a day to be fixed by order of the Governor in Council, but the day that is fixed must not be before the day on which Nova Scotia makes the election under subsection 3.7(3) of the [Federal-Provincial Fiscal Arrangements Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20F-6.md), as enacted by section 62 of this Act.
+- **(3)** Section 81 comes into force, or is deemed to have come into force, on April 1, 2008.
+> 2007, c. 29, s. 84, c. 35, s. 171.
 
-<a name='fn_Ind4739_hq_2670'><sup>**</sup></a>: [Note: Section 81 not in force.]<br />
 
 
 
