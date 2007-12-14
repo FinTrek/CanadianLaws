@@ -11,7 +11,7 @@ Sanctionnée sur le 11 avril 1991
 
 
 
-Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
 
 
@@ -37,22 +37,24 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***accord*** Accord conclu au titre du paragraphe 4(1).
+***accord*** Sauf indication contraire du contexte, accord conclu au titre du paragraphe 4(1). (*agreement*)
 
-***accord de réassurance*** Partie d’un accord prévoyant une réassurance partielle en ce qui touche l’obligation de paiement d’indemnités au titre du régime universel ou de l’assurance-récolte.
+***accord de réassurance*** Partie d’un accord prévoyant une réassurance partielle en ce qui touche l’obligation de paiement d’indemnités au titre du régime universel ou de l’assurance-récolte. (*reinsurance agreement*)
 
-***assurance-récolte*** Régime d’assurance institué et administré par une province pour couvrir les dommages d’origine naturelle causés à certains produits agricoles.
+***assurance-récolte*** Régime d’assurance institué et administré par une province pour couvrir les dommages d’origine naturelle causés à certains produits agricoles. (*crop insurance program*)
 
-***assurance-revenu*** Régime d’assurance destiné à garantir une partie de la valeur d’un produit agricole produit ou commercialisé par un adhérent.
+***assurance-revenu*** Régime d’assurance destiné à garantir une partie de la valeur d’un produit agricole produit ou commercialisé par un adhérent. (*revenue insurance program*)
 
-***ministre*** Le ministre de l’Agriculture et de l’Agroalimentaire.
+***institution financière*** S’entend au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md). (*financial institution*)
 
-***produit agricole*** Tout produit végétal ou animal — ou d’origine végétale ou animale —, y compris les aliments et boissons qui en proviennent en tout ou en partie.
+***ministre*** Le ministre de l’Agriculture et de l’Agroalimentaire. (*Minister*)
 
- ou ***programme compte de stabilisation du revenu net*** ou ***programme*** Programme institué par un accord pour permettre aux producteurs agricoles adhérents de déposer des sommes d’argent dans un compte — où sont également versées les contributions fédérales et provinciales — en vue de leur retrait éventuel, aux conditions stipulées dans l’accord.
+***produit agricole*** Tout produit végétal ou animal — ou d’origine végétale ou animale —, y compris les aliments et boissons qui en proviennent en tout ou en partie. (*agricultural product*)
 
-***régime universel*** Régime combinant les protections offertes, respectivement, par l’assurance-récolte et l’assurance-revenu.
-> 1991, ch. 22, art. 2; 1994, ch. 38, art. 25.
+***programme compte de stabilisation du revenu net*** ou ***programme*** Programme institué par un accord pour permettre aux producteurs agricoles adhérents de déposer des sommes d’argent dans un compte — où sont également versées les contributions fédérales et provinciales — en vue de leur retrait éventuel, aux conditions stipulées dans l’accord. (*net income stabilization account program*)
+
+***régime universel*** Régime combinant les protections offertes, respectivement, par l’assurance-récolte et l’assurance-revenu. (*gross revenue insurance program*)
+> 1991, ch. 22, art. 2; 1994, ch. 38, art. 25; 2007, ch. 35, art. 154.
 
 
 
@@ -174,7 +176,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **8** 
 
-- **(1)** L’accord instituant un programme fixe, outre ceux déjà mentionnés au paragraphe 5(1), les éléments suivants :
+- **(1)** L’accord instituant un programme fixe, outre ceux déjà mentionnés au paragraphe 5(1), les éléments suivants :
 	- **a)** le mode de détermination et le niveau des coûts de production et des marges brutes à partir duquel un producteur est admissible, ainsi que, dans le cas des ventes nettes, le seuil et le plafond;
 	- **b)** sous réserve du paragraphe (2), les modalités d’ouverture des comptes des producteurs et celles de dépôt et retrait;
 	- **c)** les plafonds admissibles des comptes;
@@ -183,9 +185,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Précision**
 
-- **(2)** Le compte de chaque producteur participant consiste en deux fonds :
+- **(2)** Le compte de chaque producteur participant consiste en deux fonds :
 	- **a)** le premier, qui est crédité des sommes qu’il verse relativement au programme;
-	- **b)** le second, qui est crédité des autres sommes versées à son égard à titre de contributions, d’intérêt ou de bonis.
+	- **b)** le second, qui est crédité des sommes versées à son égard par le fédéral ou une province.
+> 1991, ch. 22, art. 8; 2007, ch. 35, art. 155.
+
 
 
 
@@ -274,7 +278,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-## Caisses et compte
+## Caisses et comptes
 
 
 
@@ -327,15 +331,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-### Compte de stabilisation du revenu net
+### Compte de stabilisation du revenu net parmi les comptes du canada
 
 
 
-**Ouverture**
+**Ouverture — comptes du Canada**
 
 **15** 
 
-- **(1)** Est ouvert parmi les comptes du Canada un compte spécial intitulé « compte de stabilisation du revenu net » — appelé le compte au présent article — dans le cas où l’accord prévoit que le fédéral administrera le programme.
+- **(1)** Est ouvert parmi les comptes du Canada un compte intitulé « compte de stabilisation du revenu net » dans le cas où l’accord institue un programme administré par le fédéral pour un produit agricole ou une catégorie de produits agricoles et prévoit l’ouverture, parmi ces comptes, des comptes des producteurs agricoles participants.
 
 **Versements à porter au crédit du compte**
 
@@ -347,7 +351,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Redressement annuel**
 
-- **(4)** À la fin de chaque exercice, le ministre des Finances procède au redressement du compte, en fonction du montant dont celui-ci  aurait dû être crédité aux termes du paragraphe (3), par l’inscription à son crédit ou débit, selon le cas, de la somme nécessaire.
+- **(4)** À la fin de chaque exercice, le ministre des Finances procède au redressement du compte, en fonction du montant dont celui-ci aurait dû être crédité aux termes du paragraphe (3), par l’inscription à son crédit ou débit, selon le cas, de la somme nécessaire.
 
 **Report des opérations comptables**
 
@@ -360,6 +364,59 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Sommes portées au débit du compte**
 
 - **(7)** Sous réserve de l’alinéa 8(1)b), les sommes versées aux termes de l’accord au titre des paiements prévus sous son régime sont prélevées sur le Trésor et portées au débit du compte du producteur en cause.
+> 1991, ch. 22, art. 15; 2007, ch. 35, art. 158.
+
+
+
+
+
+### Comptes de stabilisation du revenu net — institutions financières
+
+
+
+**Conclusion d’accords avec les institutions financières**
+
+**15.1** 
+
+- **(1)** Dans le cas où l’accord institue un programme pour un produit agricole ou une catégorie de produits agricoles et prévoit l’ouverture, dans une institution financière, des comptes des producteurs agricoles participants, le ministre peut conclure avec une ou plusieurs institutions financières un accord prévoyant la tenue, par celles-ci, des comptes de stabilisation du revenu net des producteurs participants.
+
+**Teneur de l’accord : dispositions générales**
+
+- **(2)** L’accord conclu avec l’institution financière prévoit, outre celles fixées par règlement, les conditions imposées à celle-ci pour la tenue des comptes de stabilisation du revenu net, notamment les suivantes :
+	- **a)** elle tient un seul compte pour chacun des producteurs;
+	- **b)** elle ne peut autoriser de prélèvements sur le compte du producteur qu’en conformité avec l’accord.
+
+**Teneur de l’accord : dispositions additionnelles**
+
+- **(3)** Il précise en outre les éléments suivants :
+	- **a)** la nature des placements qui peuvent être détenus dans le compte;
+	- **b)** les opérations au compte que l’institution financière doit accomplir en conformité avec l’accord;
+	- **c)** les renseignements que l’institution financière doit fournir au ministre dans les délais prévus;
+	- **d)** le droit du ministre d’avoir accès aux documents de l’institution financière contenant des renseignements au sujet des comptes et de les vérifier, ainsi que les modalités d’exercice de ce droit;
+	- **e)** les pénalités dont est passible l’institution financière en cas d’inobservation de l’accord;
+	- **f)** les modalités de modification, de résiliation ou d’extinction de l’accord;
+	- **g)** les modes de transfert des comptes tenus par l’institution financière en cas de résiliation ou d’extinction de l’accord.
+
+**Un seul compte**
+
+- **(4)** Le producteur ne peut détenir, relativement à tout programme, qu’un seul compte de stabilisation du revenu net avec les institutions financières.
+
+**Droit de prélèvement**
+
+- **(5)** Sur ordre du ministre, l’institution financière prélève sur le compte du producteur et verse à Sa Majesté du chef du Canada ou d’une province :
+	- **a)** les sommes versées en trop à ce dernier au titre du programme afférent au compte ou de tout autre programme ou régime institué en vertu de la présente loi;
+	- **b)** les frais administratifs et pénalités perçus à l’égard du compte dans le cadre du programme afférent au compte ou de tout autre programme ou régime au titre duquel des contributions sont faites au compte;
+	- **c)** les sommes destinées au règlement partiel ou total de toute autre dette du producteur envers Sa Majesté.
+
+**Protection des comptes**
+
+- **(6)** Sauf pour l’application de la [Loi sur les programmes de commercialisation agricole](/fr/Lois/Lois%20du%20Canada/1997/ch.%2020.md), les sommes détenues au compte du producteur ne peuvent être cédées ni données en garantie, et toute opération en ce sens est nulle.
+
+**Impossibilité de saisie**
+
+- **(7)** Elles sont aussi exemptes d’exécution, de saisie et de saisie-arrêt, sauf si le producteur participant est failli ou si son compte doit être divisé en deux comptes distincts en exécution d’un jugement de divorce ou d’une ordonnance relative à une séparation.
+> 2007, ch. 35, art. 159.
+
 
 
 
@@ -372,7 +429,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **16** 
 
-- **(1)** Est ouvert parmi les comptes du Canada un compte spécial intitulé « caisse d’assurance-revenu » — appelé la caisse au présent article — dans le cas où l’accord prévoit que le fédéral administrera un régime d’assurance-revenu pour un produit agricole ou une catégorie de produits agricoles.
+- **(1)** Est ouvert parmi les comptes du Canada un compte intitulé « caisse d’assurance-revenu » — appelé la caisse au présent article — dans le cas où l’accord prévoit que le fédéral administrera un régime d’assurance-revenu pour un produit agricole ou une catégorie de produits agricoles.
 
 **Prorogation**
 
@@ -401,6 +458,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Sommes portées au débit de la caisse**
 
 - **(8)** Les sommes versées aux termes de l’accord au titre des paiements prévus pour l’assurance-revenu sont prélevées sur le Trésor et portées au débit de la caisse en cause.
+> 1991, ch. 22, art. 16; 2007, ch. 35, art. 160(F).
+
 
 
 
