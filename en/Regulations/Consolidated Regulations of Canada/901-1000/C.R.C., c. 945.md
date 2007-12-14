@@ -737,6 +737,40 @@ shall, in addition to any other return required by the Act or these Regulations,
 
 
 
+### Interpretation
+
+
+**204.1** 
+
+- **(1)** The following definitions apply in this section.
+
+***public investment trust***, at any time, means a public trust all or substantially all of the fair market value of the property of which is, at that time, attributable to the fair market value of property of the trust that is
+- **(a)** units of public trusts;
+- **(b)** partnership interests in public partnerships (as defined in subsection 229.1(1));
+- **(c)** shares of the capital stock of public corporations; or
+- **(d)** any combination of properties referred to in paragraphs (a) to (c). (*fiducie de placement ouverte*)
+
+***public trust***, at any time, means a mutual fund trust the units of which are, at that time, listed on a designated stock exchange in Canada. (*fiducie ouverte*)
+
+### Required Information Disclosure
+
+
+- **(2)** A trust that is, at any time in a taxation year of the trust, a public trust shall, within the time required by subsection (3),
+	- **(a)** make public, in prescribed form, information in respect of the trust for the taxation year by posting that prescribed form, in a manner that is accessible to the general public, on the Internet website of CDS Innovations Inc.; and
+	- **(b)** notify the Minister in writing as to when the posting of the prescribed form, as required by paragraph (a), has been made.
+
+### Required Disclosure Time
+
+
+- **(3)** The time required for a public trust to satisfy the requirements of subsection (2) in respect of the public trust for a taxation year of the public trust is
+	- **(a)** subject to paragraph (b), on or before the day that is 60 days after the end of the taxation year; and
+	- **(b)** where the public trust is, at any time in the taxation year, a public investment trust, on or before the day that is 67 days after the end of the calendar year in which the taxation year ends.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; 2007, c. 35, s. 72.
+
+
+
+
+
 ### Date Returns To Be Filed
 
 
@@ -1212,6 +1246,47 @@ shall be filed on or before March 31, 1984.
 	- **(a)** the day that is 90 days after the discontinuance of the business or activity, and
 	- **(b)** the day the return is required to be filed under subsection (5).
 > [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/89-519, s. 2; SOR/93-443, s. 1; SOR/94-686, ss. 53(F), 78(F), 79(F), 81(F); 2007, c. 29, s. 30.
+
+
+
+
+
+### Definitions
+
+
+**229.1** 
+
+- **(1)** The definitions in this subsection apply in this section.
+
+***public investment partnership***, at any time, means a public partnership all or substantially all of the fair market value of the property of which is, at that time, attributable to the fair market value of property of the partnership that is
+- **(a)** units of public trusts (as defined in subsection 204.1(1));
+- **(b)** partnership interests in public partnerships;
+- **(c)** shares of the capital stock of public corporations; or
+- **(d)** any combination of properties referred to in paragraphs (a) to (c). (*société de personnes de placement ouverte*)
+
+***public partnership***, at any time, means a partnership the partnership interests in which are, at that time, listed on a designated stock exchange in Canada if, at that time, the partnership carries on a business in Canada or is a Canadian partnership. (*société de personnes ouverte*)
+
+### Required Information Disclosure
+
+
+- **(2)** Every member of a partnership that is, at any time in a fiscal period of the partnership, a public partnership shall, within the time required by subsection (3),
+	- **(a)** make public, in prescribed form, information in respect of the public partnership for the fiscal period by posting the prescribed form, in a manner that is accessible to the general public, on the Internet website of CDS Innovations Inc.; and
+	- **(b)** notify the Minister in writing as to when the posting of the prescribed form, as required by paragraph (a), has been made.
+
+### Required Disclosure Time
+
+
+- **(3)** The time required for the members of a public partnership to satisfy the requirements of subsection (2) in respect of the public partnership for a fiscal period of the public partnership is
+	- **(a)** subject to paragraph (b), on or before the day that is the earlier of
+		- **(i)** 60 days after the end of the calendar year in which the fiscal period ends, and
+		- **(ii)** four months after the end of the fiscal period; and
+	- **(b)** where the public partnership is, at any time in the fiscal period, a public investment partnership, on or before the day that is 67 days after the end of the calendar year in which the fiscal period ends.
+
+### Obligation Fulfilled by One Partner Deemed Fulfilled by All
+
+
+- **(4)** Every member of a partnership that is required to satisfy the requirements of subsection (2) in respect of the partnership for a fiscal period of the partnership will be deemed to have satisfied those requirements if a particular member of the partnership, who has authority to act for the partnership, has satisfied those requirements in respect of the partnership for the fiscal period.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; 2007, c. 35, s. 73.
 
 
 
@@ -8465,13 +8540,8 @@ except any such expenditure incurred by a corporation that derives all or substa
 ### Stock Exchanges in Canada
 
 
-**3200** For the purposes of the Act, the following are prescribed stock exchanges in Canada:
-- **(a)** Tiers 1 and 2 of the TSX Venture Exchange (also known as Tiers 1 and 2 of the Canadian Venture Exchange);
-- **(a.1)** [Repealed, SOR/2003-395, s. 1]
-- **(b)** Montreal Stock Exchange; and
-- **(c)** Toronto Stock Exchange.
-- **(d) and (e)** [Repealed, SOR/2003-395, s. 1]
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/80-129, s. 1; SOR/80-682, s. 1; SOR/81-725, s. 2; SOR/84-948, s. 12; SOR/85-696, ss. 7, 8; SOR/88-165, s. 16; SOR/89-409, s. 1; SOR/94-140, s. 6; SOR/2001-187, s. 3; SOR/2003-395, s. 1.
+**3200** [Repealed, 2007, c. 35, s. 74]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/80-129, s. 1; SOR/80-682, s. 1; SOR/81-725, s. 2; SOR/84-948, s. 12; SOR/85-696, ss. 7, 8; SOR/88-165, s. 16; SOR/89-409, s. 1; SOR/94-140, s. 6; SOR/2001-187, s. 3; SOR/2003-395, s. 1; 2007, c. 35, s. 74.
 
 
 
@@ -8480,45 +8550,8 @@ except any such expenditure incurred by a corporation that derives all or substa
 ### Stock Exchanges Outside Canada
 
 
-**3201** For the purposes of the Act, the following are prescribed stock exchanges outside Canada:
-- **(a)** in Australia, the Australian Stock Exchange;
-- **(b)** in Belgium, the Brussels Stock Exchange;
-- **(c)** in France, the Paris Stock Exchange;
-- **(d)** in Germany, the Frankfurt Stock Exchange;
-- **(e)** in Hong Kong, the Hong Kong Stock Exchange;
-- **(f)** in Italy, the Milan Stock Exchange;
-- **(g)** in Japan, the Tokyo Stock Exchange;
-- **(h)** in Mexico, the Mexico City Stock Exchange;
-- **(i)** in the Netherlands, the Amsterdam Stock Exchange;
-- **(j)** in New Zealand, the New Zealand Stock Exchange;
-- **(k)** in Singapore, the Singapore Stock Exchange;
-- **(l)** in Spain, the Madrid Stock Exchange;
-- **(m)** in Switzerland, the Zurich Stock Exchange;
-- **(n)** in the United Kingdom, the London Stock Exchange;
-- **(o)** in the United States,
-	- **(i)** the American Stock Exchange,
-	- **(ii)** the Boston Stock Exchange,
-	- **(iii)** the Chicago Board of Options,
-	- **(iv)** the Chicago Board of Trade,
-	- **(v)** the Cincinnati Stock Exchange,
-	- **(vi)** the Intermountain Stock Exchange,
-	- **(vii)** the Midwest Stock Exchange,
-	- **(viii)** the National Association of Securities Dealers Automated Quotation System,
-	- **(ix)** the New York Stock Exchange,
-	- **(x)** the Pacific Stock Exchange,
-	- **(xi)** the Philadelphia Stock Exchange, and
-	- **(xii)** the Spokane Stock Exchange;
-- **(p)** in Ireland, the Irish Stock Exchange;
-- **(q)** in Israel, the Tel Aviv Stock Exchange;
-- **(r)** in Austria, the Vienna Stock Exchange;
-- **(s)** in Denmark, the Copenhagen Stock Exchange;
-- **(t)** in Finland, the Helsinki Stock Exchange;
-- **(u)** in Norway, the Oslo Stock Exchange;
-- **(v)** in South Africa, the Johannesburg Stock Exchange;
-- **(w)** in Sweden, the Stockholm Stock Exchange;
-- **(x)** in Luxembourg, the Luxembourg Stock Exchange; and
-- **(y)** in Poland, the main and parallel markets of the Warsaw Stock Exchange.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-725, s. 3; SOR/86-488, s. 4; SOR/88-165, s. 17; SOR/89-102, s. 1; SOR/89-409, s. 2; SOR/92-660, s. 1; SOR/94-126, s. 1; SOR/94-140, s. 7; SOR/97-408, s. 1; SOR/2001-187, s. 4; SOR/2005-15, s. 1.
+**3201** [Repealed, 2007, c. 35, s. 74]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-725, s. 3; SOR/86-488, s. 4; SOR/88-165, s. 17; SOR/89-102, s. 1; SOR/89-409, s. 2; SOR/92-660, s. 1; SOR/94-126, s. 1; SOR/94-140, s. 7; SOR/97-408, s. 1; SOR/2001-187, s. 4; SOR/2005-15, s. 1; 2007, c. 35, s. 74.
 
 
 
@@ -8740,10 +8773,10 @@ section 3501 shall not apply and the copy of the portion of the return, relating
 
 ***non-qualified investment*** has the meaning assigned by paragraph 149.1(1)(e.1) of the Act; (*placement non admissible*)
 
-***prescribed stock exchange*** means a stock exchange referred to in Part XXXII; (*bourse de valeurs*)
+***prescribed stock exchange***[Repealed, 2007, c. 35, s. 75]
 
 ***taxation year*** has the meaning assigned by paragraph 149.1(1)(l) of the Act. (*année d’imposition*)
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/87-632, s. 1; SOR/94-686, ss. 51(F), 73(F).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/87-632, s. 1; SOR/94-686, ss. 51(F), 73(F); 2007, c. 35, s. 75.
 
 
 
@@ -8779,8 +8812,8 @@ section 3501 shall not apply and the copy of the portion of the return, relating
 - **(1)** For the purposes of subsection 3701(1), the value of property or a portion thereof owned by a charitable foundation, and not used directly in charitable activities or administration, on the last day of a period shall be determined as of that day and shall be
 	- **(a)** in the case of a non-qualified investment, the greater of its fair market value on that day and its cost amount to the foundation;
 	- **(b)** subject to paragraph (c), in the case of property other than a non-qualified investment that is
-		- **(i)** a share of a corporation that is listed on a prescribed stock exchange, the closing price or the average of the bid and asked prices of that share on that day or, if there is no closing price or bid and asked prices on that day, on the last preceding day for which there was a closing price or bid and asked prices,
-		- **(ii)** a share of a corporation that is not listed on a prescribed stock exchange, the fair market value of that share on that day,
+		- **(i)** a share of a corporation that is listed on a designated stock exchange, the closing price or the average of the bid and asked prices of that share on that day or, if there is no closing price or bid and asked prices on that day, on the last preceding day for which there was a closing price or bid and asked prices,
+		- **(ii)** a share of a corporation that is not listed on a designated stock exchange, the fair market value of that share on that day,
 		- **(iii)** an interest in real property, the fair market value on that day of the interest less the amount of any debt of the foundation incurred in respect of the acquisition of the interest and secured by the real property or the interest therein, where the debt bears a reasonable rate of interest,
 		- **(iv)** a contribution that is the subject of a pledge, nil,
 		- **(v)** an interest in property where the foundation does not have the present use or enjoyment of the interest, nil,
@@ -8801,7 +8834,7 @@ where
 - **(2)** For the purposes of subsection (1), a method that the Minister may accept for the determination of the fair market value of property or a portion thereof on the last day of a period is an independent appraisal made
 	- **(a)** in the case of property described in subparagraph (1)(b)(ii) or (iii), not more than three years before that day; and
 	- **(b)** in the case of property described in paragraph (1)(a), subparagraph (1)(b)(vii) or paragraph (1)(c), not more than one year before that day.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/87-632, s. 1; SOR/94-686, ss. 22(F), 51(F), 73(F), 79(F).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/87-632, s. 1; SOR/94-686, ss. 22(F), 51(F), 73(F), 79(F); 2007, c. 35, s. 76.
 
 
 
@@ -9332,7 +9365,7 @@ persons, other than insiders of the corporation, each of whom holds
 
 - **(2)** For the purposes of subparagraph (c)(i) of the definition ***public corporation*** in subsection 89(1) of the Act, the following conditions are prescribed in respect of a corporation:
 	- **(a)** insiders of the corporation shall hold more than 90 per cent of the issued and outstanding shares of each class of shares of the capital stock of the corporation that
-		- **(i)** was, at any time after the corporation last became a public corporation, listed on a stock exchange in Canada prescribed for the purposes of section 89 of the Act, or
+		- **(i)** was, at any time after the corporation last became a public corporation, listed on a designated stock exchange in Canada, or
 		- **(ii)** was a class, designated as described in paragraph (1)(a), by virtue of which the corporation last became a public corporation;
 	- **(b)** in respect of each class of shares described in subparagraph (a)(i) or (ii), there shall be fewer than
 		- **(i)** where the shares of that class are equity shares, 50, and
@@ -9343,7 +9376,7 @@ persons, other than insiders of the corporation, each of whom holds
 	- **(c)** there shall be no class of shares of the capital stock of the corporation that is qualified for distribution to the public and complies with the conditions described in paragraphs (1)(b) and (c).
 
 - **(3)** Where, by virtue of an amalgamation (within the meaning assigned by section 87 of the Act) of predecessor corporations any one or more of which was, immediately before the amalgamation, a public corporation, shares of any class of the capital stock of any such public corporation that was
-	- **(a)** at any time after the corporation last became a public corporation, listed on a stock exchange in Canada prescribed for the purposes of section 89 of the Act, or
+	- **(a)** at any time after the corporation last became a public corporation, listed on a designated stock exchange in Canada, or
 	- **(b)** the class, designated as described in paragraph (1)(a), by virtue of which the corporation last became a public corporation,
 are converted into shares of any class (in this subsection referred to as the “new class”) of the capital stock of the new corporation, the new class shall, for the purposes of subsection (2), be deemed to be a class, designated as described in paragraph (1)(a), by virtue of which the new corporation last became a public corporation.
 
@@ -9352,7 +9385,7 @@ are converted into shares of any class (in this subsection referred to as the �
 	- **(b)** where the directors of the corporation are legally entitled to administer the affairs of the corporation, a certified copy of their resolution authorizing the election to be made;
 	- **(c)** where the directors of the corporation are not legally entitled to administer the affairs of the corporation, a certified copy of the authorization of the making of the election by the person or persons legally entitled to administer the affairs of the corporation; and
 	- **(d)** a statutory declaration made by a director of the corporation stating that, after reasonable inquiry for the purpose of informing himself in that regard, to the best of his knowledge the corporation complies with all the prescribed conditions that must be complied with at the time the election is made.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/83-268, s. 8; SOR/94-686, ss. 74(F), 79(F); SOR/2001-216, s. 3.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/83-268, s. 8; SOR/94-686, ss. 74(F), 79(F); SOR/2001-216, s. 3; 2007, c. 35, s. 77.
 
 
 
@@ -9520,11 +9553,11 @@ and a credit union shall be deemed to have granted a benefit or privilege to a p
 			- **(A)** the plan trust of a share or obligation of the cooperative corporation, or
 			- **(B)** a registered investment of a share or obligation of the cooperative corporation if the plan trust has invested in that registered investment,and a cooperative corporation shall be deemed to have granted a benefit or privilege to a person in a year if at any time in that year that person continues to enjoy a benefit or privilege that was granted in a prior year;
 	- **(i)** a bond, debenture, note or similar obligation (in this paragraph referred to as the “obligation”) of a Canadian corporation
-		- **(i)** if payment of the principal amount of the obligation and the interest on the principal amount is guaranteed by a corporation or a mutual fund trust whose shares or units, as the case may be, are listed on a stock exchange referred to in section 3200,
+		- **(i)** if payment of the principal amount of the obligation and the interest on the principal amount is guaranteed by a corporation or a mutual fund trust whose shares or units, as the case may be, are listed on a designated stock exchange in Canada,
 		- **(ii)** if the corporation is controlled directly or indirectly by
 			- **(A)** one or more corporations,
 			- **(B)** one or more mutual fund trusts, or
-			- **(C)** one or more corporations and mutual fund trustswhose shares or units, as the case may be, are listed on a stock exchange referred to in section 3200, or
+			- **(C)** one or more corporations and mutual fund trustswhose shares or units, as the case may be, are listed on a designated stock exchange in Canada, or
 		- **(iii)** if, at the time the obligation is acquired by the plan trust, the corporation that issued the obligation is
 			- **(A)** a corporation that, in respect of its capital stock, has issued and outstanding share capital carried in its books at not less than $25 million, or
 			- **(B)** a corporation that is controlled by a corporation described in clause (A)and has issued and outstanding bonds, debentures, notes or similar obligations having in the aggregate a principal amount of at least $10 million that are held by at least 300 different persons and were issued by the corporation by means of one or more offerings, provided that in respect of each such offering a prospectus, registration statement or similar document was filed with and, where required by law, accepted for filing by a public authority in Canada pursuant to and in accordance with the laws of Canada or a province and there was a lawful distribution to the public of those bonds, debentures, notes or similar obligations in accordance with that document;
@@ -9686,7 +9719,7 @@ the issuer of the share or a person related to that issuer,
 		- **(i)** on account of, or in lieu or in satisfaction of, payment for the services to or for the issuer or the person related to the issuer, or
 		- **(ii)** in respect of the acquisition of the goods from, or the services provided by, the issuer or the person related to the issuer,
 the share shall, immediately before the amount is received, cease to be and shall not thereafter be a qualified investment for the trust.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-725, s. 4; SOR/83-819, s. 1; SOR/85-202, s. 1; SOR/86-390, s. 2; SOR/86-1092, s. 12(F); SOR/88-165, s. 24(F); SOR/92-660, s. 2; SOR/94-471, s. 1; SOR/94-472, s. 1; SOR/94-686, ss. 26(F), 72(F), 74(F), 75(F), 78(F), 79(F); SOR/95-513, s. 1; SOR/96-450, s. 1; SOR/98-250, s. 1; SOR/99-9, s. 1; SOR/99-81, s. 1; SOR/99-102, s. 1; SOR/2001-216, ss. 6, 10(F),11(F); SOR/2001-289, s. 8(E); SOR/2005-264, s. 6; SOR/2007-212, s. 2; 2007, c. 29, s. 32.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-725, s. 4; SOR/83-819, s. 1; SOR/85-202, s. 1; SOR/86-390, s. 2; SOR/86-1092, s. 12(F); SOR/88-165, s. 24(F); SOR/92-660, s. 2; SOR/94-471, s. 1; SOR/94-472, s. 1; SOR/94-686, ss. 26(F), 72(F), 74(F), 75(F), 78(F), 79(F); SOR/95-513, s. 1; SOR/96-450, s. 1; SOR/98-250, s. 1; SOR/99-9, s. 1; SOR/99-81, s. 1; SOR/99-102, s. 1; SOR/2001-216, ss. 6, 10(F),11(F); SOR/2001-289, s. 8(E); SOR/2005-264, s. 6; 2007, c. 29, s. 32, c. 35, s. 89; SOR/2007-212, s. 2.
 
 
 
@@ -11457,11 +11490,11 @@ that was acquired by the taxpayer from a person with whom the taxpayer does not 
 
 **6201** 
 
-- **(1)** For the purposes of paragraph (f) of the definition ***term preferred share*** in subsection 248(1) of the Act, a share last acquired before June 29, 1982 and of a class of the capital stock of a corporation that is listed on a stock exchange referred to in section 3200 is a prescribed share unless more than 10 per cent of the issued and outstanding shares of that class are owned by
+- **(1)** For the purposes of paragraph (f) of the definition ***term preferred share*** in subsection 248(1) of the Act, a share last acquired before June 29, 1982 and of a class of the capital stock of a corporation that is listed on a designated stock exchange in Canada is a prescribed share unless more than 10 per cent of the issued and outstanding shares of that class are owned by
 	- **(a)** the owner of that share; or
 	- **(b)** the owner of that share and persons related to him.
 
-- **(2)** For the purposes of paragraph (f) of the definition ***term preferred share*** in subsection 248(1) of the Act, a share acquired after June 28, 1982 and of a class of the capital stock of a corporation that is listed on a stock exchange referred to in section 3200 is a prescribed share at any particular time with respect to another corporation that receives a dividend at the particular time in respect of the share unless
+- **(2)** For the purposes of paragraph (f) of the definition ***term preferred share*** in subsection 248(1) of the Act, a share acquired after June 28, 1982 and of a class of the capital stock of a corporation that is listed on a designated stock exchange in Canada is a prescribed share at any particular time with respect to another corporation that receives a dividend at the particular time in respect of the share unless
 	- **(a)** where the other corporation is a restricted financial institution,
 		- **(i)** the share is not a taxable preferred share,
 		- **(ii)** dividends (other than dividends received on shares prescribed under subsection (5)) are received at the particular time by the other corporation or by the other corporation and restricted financial institutions with which the other corporation does not deal at arm’s length, in respect of more than 5 per cent of the issued and outstanding shares of that class, and
@@ -11477,11 +11510,11 @@ that was acquired by the taxpayer from a person with whom the taxpayer does not 
 	- **(b)** $25 Cumulative Redeemable Retractable Preferred Shares, Series D; or
 	- **(c)** $25 Cumulative Redeemable Retractable Convertible Preferred Shares, Series E.
 
-- **(4)** For the purposes of the definition ***taxable RFI share*** in subsection 248(1) of the Act, a share of a class of the capital stock of a corporation that is listed on a stock exchange referred to in section 3200 is a prescribed share at any particular time with respect to another corporation that is a restricted financial institution that receives a dividend at the particular time in respect of the share unless dividends (other than dividends received on shares prescribed under subsection (5.1)) are received at that time by the other corporation, or by the other corporation and restricted financial institutions with which the other corporation does not deal at arm’s length, in respect of more than
+- **(4)** For the purposes of the definition ***taxable RFI share*** in subsection 248(1) of the Act, a share of a class of the capital stock of a corporation that is listed on a designated stock exchange in Canada is a prescribed share at any particular time with respect to another corporation that is a restricted financial institution that receives a dividend at the particular time in respect of the share unless dividends (other than dividends received on shares prescribed under subsection (5.1)) are received at that time by the other corporation, or by the other corporation and restricted financial institutions with which the other corporation does not deal at arm’s length, in respect of more than
 	- **(a)** 10 per cent of the shares of that class that were issued and outstanding at the last time, before the particular time, at which the other corporation or a restricted financial institution with which the other corporation does not deal at arm’s length acquired a share of that class, where no dividend is received at the particular time by any such corporation in respect of a share (other than a share prescribed under subsection (5.1)) of that class acquired after December 15, 1987 and before the particular time; or
 	- **(b)** 5 per cent of the shares of that class that were issued and outstanding at the last time, before the particular time, at which the other corporation or a restricted financial institution with which the other corporation does not deal at arm’s length acquired a share of that class, where a dividend is received at the particular time by any such corporation in respect of a share (other than a share prescribed under subsection (5.1)) of that class acquired after December 15, 1987 and before the particular time.
 
-- **(5)** For the purposes of paragraph (f) of the definition ***term preferred share*** in subsection 248(1) of the Act, a share of a class of the capital stock of a corporation that is listed on a stock exchange referred to in section 3200 is a prescribed share at any particular time with respect to another corporation that is registered or licensed under the laws of a province to trade in securities and that holds the share as inventory of the business ordinarily carried on by it unless
+- **(5)** For the purpose of paragraph (f) of the definition ***term preferred share*** in subsection 248(1) of the Act, a share of a class of the capital stock of a corporation that is listed on a designated stock exchange in Canada is a prescribed share at any particular time with respect to another corporation that is registered or licensed under the laws of a province to trade in securities and that holds the share for the purpose of sale in the course of the business ordinarily carried on by it unless
 	- **(a)** it may reasonably be considered that the share was acquired as part of a series of transactions or events one of the main purposes of which was to avoid or limit the application of subsection 112(2.1) of the Act; or
 	- **(b)** the share was not acquired by the other corporation in the course of an underwriting of shares of that class to be distributed to the public and
 		- **(i)** dividends are received at the particular time by the other corporation or by the other corporation and corporations controlled by the other corporation in respect of more than 10 per cent of the issued and outstanding shares of that class,
@@ -11494,7 +11527,7 @@ that was acquired by the taxpayer from a person with whom the taxpayer does not 
 			- **(B)** was acquired after December 15, 1987 and before the particular time, and
 			- **(C)** was, by reason of subparagraph (h)(i), (ii), (iii) or (v) of the definition ***term preferred share*** in subsection 248(1) of the Act, deemed to have been issued after December 15, 1987 and before the particular time.
 
-- **(5.1)** For the purposes of the definition ***taxable RFI share*** in subsection 248(1) of the Act, a share of a class of the capital stock of a corporation that is listed on a stock exchange referred to in section 3200 is a prescribed share at any particular time with respect to another corporation that is registered or licensed under the laws of a province to trade in securities and that holds the share as inventory of the business ordinarily carried on by it unless
+- **(5.1)** For the purpose of the definition ***taxable RFI share*** in subsection 248(1) of the Act, a share of a class of the capital stock of a corporation that is listed on a designated stock exchange in Canada is a prescribed share at any particular time with respect to another corporation that is registered or licensed under the laws of a province to trade in securities and that holds the share for the purpose of sale in the course of the business ordinarily carried on by it unless
 	- **(a)** it may reasonably be considered that the share was acquired as part of a series of transactions or events one of the main purposes of which was to avoid or limit the application of section 187.3 of the Act; or
 	- **(b)** the share was not acquired by the other corporation in the course of an underwriting of shares of that class to be distributed to the public and
 		- **(i)** dividends are received at the particular time by the other corporation, or by the other corporation and corporations controlled by the other corporation, in respect of more than 10 per cent of the shares of that class issued and outstanding at the last time before the particular time at which any such corporation acquired a share of that class,
@@ -11527,7 +11560,7 @@ that was acquired by the taxpayer from a person with whom the taxpayer does not 
 		- **(i)** each of the predecessor corporations (within the meaning assigned by section 87 of the Act) was a restricted financial institution throughout the period beginning December 16, 1987 and ending at the particular time and the predecessor corporations were related to each other throughout that period, or
 		- **(ii)** each of the predecessor corporations and the new corporation (within the meaning assigned by section 87 of the Act) is a corporation described in any of paragraphs (a) to (d) of the definition ***restricted financial institution*** in subsection 248(1) of the Act,
 a share acquired by the new corporation from a predecessor corporation on the amalgamation shall be deemed to have been acquired by the new corporation at the time it was acquired by the predecessor corporation.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/80-130, s. 2; SOR/84-948, s. 16; SOR/85-963, s. 1; SOR/86-1092, s. 16; SOR/89-409, s. 4; SOR/92-681, s. 3(F); SOR/94-686, ss. 33(F); 78(F), 79(F); SOR/95-357, s. 1.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/80-130, s. 2; SOR/84-948, s. 16; SOR/85-963, s. 1; SOR/86-1092, s. 16; SOR/89-409, s. 4; SOR/92-681, s. 3(F); SOR/94-686, ss. 33(F); 78(F), 79(F); SOR/95-357, s. 1; 2007, c. 35, ss. 78, 89.
 
 
 
@@ -12492,7 +12525,7 @@ and the purpose of the corporation is to provide loans, loan guarantees, bridge 
 **7303.1** 
 
 - **(1)** An area is a prescribed northern zone for a taxation year for the purposes of section 110.7 of the Act where it is
-	- **(a)** the Yukon Territory or the Northwest Territories;
+	- **(a)** the Yukon Territory, the Northwest Territories or Nunavut;
 	- **(b)** those parts of British Columbia, Alberta and Saskatchewan that lie north of 57°30‘N latitude;
 	- **(c)** that part of Manitoba that lies
 		- **(i)** north of 56°20‘N latitude, or
@@ -12507,8 +12540,9 @@ and the purpose of the corporation is to provide loans, loan guarantees, bridge 
 
 - **(2)** An area is a prescribed intermediate zone for a taxation year for the purposes of section 110.7 of the Act where it is the Queen Charlotte Islands, Anticosti Island, the Magdalen Islands or Sable Island, or where it is not part of a prescribed northern zone referred to in subsection (1) for the year and is
 	- **(a)** that part of British Columbia that lies
-		- **(i)** north of 55°35‘N latitude, or
-		- **(ii)** north of 55°00‘N latitude and east of 122°00‘W longitude;
+		- **(i)** north of 55°35‘N latitude,
+		- **(ii)** north of 55°00‘N latitude and east of 122°00‘W longitude, or
+		- **(iii)** north of 55°13′N latitude and east of 123°16′W longitude;
 	- **(b)** that part of Alberta that lies north of 55°00‘N latitude;
 	- **(c)** that part of Saskatchewan that lies
 		- **(i)** north of 55°00‘N latitude,
@@ -12525,7 +12559,7 @@ and the purpose of the corporation is to provide loans, loan guarantees, bridge 
 		- **(iii)** north of 50°00‘N latitude, east of 74°00‘W longitude and west of 70°00‘W longitude,
 		- **(iv)** north of 50°45‘N latitude, east of 70°00‘W longitude and west of 65°30‘W longitude, or
 		- **(v)** north of the Gulf of St. Lawrence, east of 65°30‘W longitude and west of 63°00‘W longitude.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/93-440, s. 2.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/93-440, s. 2; 2007, c. 35, s. 79.
 
 
 
@@ -12878,6 +12912,12 @@ where
 </table>
 
 > [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ;  SOR/94-127, s. 1; SOR/2000-63, s. 2; SOR/2005-264, s. 14.
+
+
+
+
+**7310** For the purpose of the definition ***eligible apprentice*** in subsection 127(9) of the Act, a prescribed trade in respect of a province means, at all times in a taxation year, a trade that is, at any time in that taxation year, a Red Seal trade for the province under the Interprovincial Standards Red Seal Program.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; 2007, c. 35, s. 80.
 
 
 
@@ -16635,8 +16675,8 @@ or an interest in, or a right to acquire, such a share, interest or debt.
 
 - **(2)** A prohibited investment does not include
 	- **(a)** a bond, debenture, note, mortgage or similar obligation described in clause 212(1)(b)(ii)(C) of the Act;
-	- **(b)** a share listed on a stock exchange referred to in section 3200 or 3201;
-	- **(c)** a bond, debenture, note or similar obligation of a corporation any shares of which are listed on a stock exchange referred to in section 3200 or 3201;
+	- **(b)** a share listed on a designated stock exchange;
+	- **(c)** a bond, debenture, note or similar obligation of a corporation any shares of which are listed on a designated stock exchange;
 	- **(d)** an interest in, or a right to acquire, property referred to in paragraph (b) or (c); or
 	- **(e)** a mortgage in respect of real property situated in Canada that
 		- **(i)** where this condition has not been waived by the Minister and the amount paid for the mortgage, together with the amount of any indebtedness outstanding at the time the mortgage was acquired under any mortgage or hypothec that ranks equally with or superior to the mortgage, exceeds 75 per cent of the fair market value, at that time, of the real property that is subject to the mortgage, is insured under the [National Housing Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-11.md) or by a corporation that offers its services to the public in Canada as an insurer of mortgages,
@@ -16657,7 +16697,7 @@ or an interest in, or a right to acquire, such a share, interest or debt.
 - **(3)** A prohibited investment in respect of a registered pension plan does not include an investment that was acquired by the plan before March 28, 1988.
 
 - **(4)** For the purposes of subsection (3), where at any time after March 27, 1988, the principal amount of a bond, debenture, note, mortgage or similar obligation increases as a consequence of the advancement or lending of additional amounts, or the maturity date of such an obligation is extended, the obligation shall, after that time, be deemed to have been issued at that time.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/94-686, ss. 62, 78(F), 79(F); SOR/2001-67, s. 9.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/94-686, ss. 62, 78(F), 79(F); SOR/2001-67, s. 9; 2007, c. 35, s. 86.
 
 
 
@@ -17464,6 +17504,61 @@ exceeds
 	- **(i)** advertising; and
 	- **(j)** a production produced primarily for industrial, corporate or institutional purposes.
 > [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2005-126, s. 5.
+
+
+
+
+
+**PART XCIV** 
+## Prescribed Programs of Physical Activity
+
+
+
+### Interpretation
+
+
+**9400** 
+
+- **(1)** The following definitions apply in this Part.
+
+***physical activity*** means a supervised activity suitable for children (other than an activity where a child rides on or in a motorized vehicle as an essential component of the activity) that
+- **(a)** in the case of a qualifying child in respect of whom an amount is deductible under section 118.3 of the Act in computing any person’s income for the taxation year, results in movement and in an observable expenditure of energy in a recreational context; and
+- **(b)** in the case of any other child, contributes to cardio-respiratory endurance and to one or more of the following:
+	- **(i)** muscular strength,
+	- **(ii)** muscular endurance,
+	- **(iii)** flexibility, and
+	- **(iv)** balance. (*activité physique*)
+
+***qualifying child*** has the meaning assigned by subsection 118.03(1) of the Act. (*enfant admissible*)
+
+### Prescribed Program of Physical Activity
+
+
+- **(2)** For the purpose of the definition ***eligible fitness expense*** in subsection 118.03(1) of the Act, a prescribed program of physical activity is
+	- **(a)** a weekly program, that is not part of a school’s curriculum, of a duration of eight or more consecutive weeks in which all or substantially all of the activities include a significant amount of physical activity;
+	- **(b)** a program, that is not part of a school’s curriculum, of a duration of five or more consecutive days of which more than 50% of the daily activities include a significant amount of physical activity;
+	- **(c)** a program, that is not part of a school’s curriculum, of a duration of eight or more consecutive weeks, offered to children by a club, association or similar organization (in this section referred to as an “organization”) in circumstances where a participant in the program may select amongst a variety of activities if
+		- **(i)** more than 50% of those activities offered to children by the organization are activities that include a significant amount of physical activity, or
+		- **(ii)** more than 50% of the time scheduled for activities offered to children in the program is scheduled for activities that include a significant amount of physical activity; or
+	- **(d)** a membership in an organization, that is not part of a school’s curriculum, of a duration of eight or more consecutive weeks if more than 50% of all the activities offered to children by the organization include a significant amount of physical activity.
+
+### Mixed-use Facility
+
+
+- **(3)** For the purpose of the definition ***eligible fitness expense*** in subsection 118.03(1) of the Act, a prescribed program of physical activity is that portion of a program, which program does not meet the requirements of paragraph (2)(c) and is not part of a school’s curriculum, of a duration of eight or more consecutive weeks, offered to children by an organization in circumstances where a participant in the program may select amongst a variety of activities
+	- **(a)** that is the percentage of those activities offered to children by the organization that are activities that include a significant amount of physical activity; or
+	- **(b)** that is the percentage of the time scheduled for activities in the program that is scheduled for activities that include a significant amount of physical activity.
+
+### Membership
+
+
+- **(4)** For the purpose of the definition ***eligible fitness expense*** in subsection 118.03(1) of the Act, a prescribed program of physical activity is that portion of a membership in an organization, which membership does not meet the requirements of paragraph (2)(d) and is not part of a school’s curriculum, of a duration of eight or more consecutive weeks that is the percentage of all the activities offered to children by the organization that are activities that include a significant amount of physical activity.
+
+### Horseback Riding
+
+
+- **(5)** For the purpose of the definition ***physical activity*** in subsection (1), horseback riding is deemed to be an activity that contributes to cardio-respiratory endurance and to one or more of muscular strength, muscular endurance, flexibility and balance.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; 2007, c. 35, s. 88.
 
 
 
