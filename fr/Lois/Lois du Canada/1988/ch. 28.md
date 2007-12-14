@@ -47,7 +47,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***décision majeure*** Décision de l’Office visant l’exercice d’attributions sous le régime de la présente loi expressément assujetties aux articles 32 à 37.
 
-***gaz*** Le gaz naturel et toutes les substances produites avec le gaz naturel, à l’exclusion du pétrole.
+***gaz*** Le gaz naturel et toutes les substances produites avec le gaz naturel, à l’exclusion du pétrole ainsi que du méthane de houille lié à la mise en valeur ou à l’exploitation d’une mine de charbon.
 
 ***gisement*** Réservoir souterrain naturel contenant ou paraissant contenir un dépôt de pétrole, de gaz, ou des deux, et séparé ou paraissant séparé de tout autre dépôt de ce genre.
 
@@ -61,7 +61,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***loi provinciale*** La loi, dans sa version modifiée, intitulée Canada-Nova Scotia Offshore Petroleum Resources Accord Implementation (Nova Scotia) Act, chapitre 3 des lois intitulées Statutes of Nova Scotia, 1987.
 
-***loi sur les redevances*** La loi, dans sa version modifiée, intitulée Offshore Petroleum Royalty Act, chapitre 9 des lois intitulées Statutes of Nova Scotia, 1987.
+***loi sur les redevances*** La loi, dans sa version modifiée, intitulée Offshore Petroleum Royalty Act, chapitre 9 des lois intitulées *Statutes of Nova Scotia, 1987*.
 
 ***ministre fédéral*** Le ministre des Ressources naturelles.
 
@@ -88,7 +88,7 @@ French version only***règlement*** Texte d’application pris par le gouverneur
 ***titre*** A le sens donné à l’article 49.
 
  ou ***zone extracôtière*** ou ***zone*** Les zones terrestres et sous-marines situées dans les limites fixées à l’annexe I.
-> 1988, ch. 28, art. 2; 1993, ch. 47, art. 11; 1994, ch. 26, art. 16(F), ch. 41, art. 37.
+> 1988, ch. 28, art. 2; 1993, ch. 47, art. 11; 1994, ch. 26, art. 16(F), ch. 41, art. 37; 2007, ch. 33, art. 16.
 
 
 
