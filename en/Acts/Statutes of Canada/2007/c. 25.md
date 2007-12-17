@@ -277,7 +277,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(2)** Section 13 comes into force on December 31, 2010.
 
-<a name='fnO-92s15_e'><sup>*</sup></a>: [Note: Act not in force.]<br />
+<a name='fnO-92s15_e'><sup>*</sup></a>: [Note: Act, other than section 13, in force December 17, 2007, *see* SI/2007-117.]<br />
 
 
 
