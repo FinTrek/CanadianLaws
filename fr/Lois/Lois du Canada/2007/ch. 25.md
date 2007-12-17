@@ -275,7 +275,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** L’article 13 entre en vigueur le 31 décembre 2010.
 
-<a name='footnotestar_f'><sup>*</sup></a>: [Note : Loi non en vigueur.]<br />
+<a name='footnotestar_f'><sup>*</sup></a>: [Note : Loi, à l’exception de l’article 13, en vigueur le 17 décembre 2007, *voir* TR/2007-117.]<br />
 
 
 
