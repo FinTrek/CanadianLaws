@@ -1195,39 +1195,45 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 
 **12** 
 
-- **(1)** L’entreprise dont le ministère des Transports a retenu les services par contrat pour établir et réaliser le programme national d’inspection, d’attestation et d’enregistrement des véhicules, connue sous le nom de registraire des véhicules importés, est la personne désignée pour l’application du paragraphe 7(2) de la Loi.
+- **(1)** L’entreprise dont le ministère des Transports a retenu les services par contrat pour établir et réaliser le programme national d’inspection, d’attestation et d’enregistrement des véhicules, connue sous le nom de registraire des véhicules importés, est la personne désignée pour l’application du paragraphe 7(2) de la Loi.
 
-- **(2)** Ne sont pas visés pour l’application du paragraphe 7(2) de la Loi les importateurs qui sont des entreprises visées aux alinéas a) et b) de la définition d’***entreprise*** à l’article 2 de la Loi.
+- **(2)** Ne sont pas visés pour l’application du paragraphe 7(2) de la Loi les importateurs qui sont des entreprises visées aux alinéas a) et b) de la définition d’***entreprise*** à l’article 2 de la Loi.
 
-- **(3)** Pour l’application du paragraphe 7(2) de la Loi, il est permis d’importer au Canada un véhicule visé à ce paragraphe lorsque sont réunies les conditions suivantes :
+- **(3)** Pour l’application du paragraphe 7(2) de la Loi, il est permis d’importer au Canada un véhicule visé à ce paragraphe lorsque sont réunies les conditions suivantes :
 	- **a)** dans le cas d’un véhicule autre qu’une motocyclette à usage restreint, une motoneige ou un traîneau de motoneige, les entreprises ont fabriqué le véhicule en se conformant aux lois fédérales des États-Unis qui s’appliquaient à la date de sa fabrication, tel qu’indiqué sur les étiquettes de conformité américaines apposées sur le véhicule ou selon l’assurance écrite de chacune d’entre elles;
 	- **a.1)** dans le cas d’une motoneige, l’entreprise a fabriqué le véhicule en se conformant aux normes de sécurité du *Snowmobile Safety and Certification Committee, Inc.* qui s’appliquaient à la date de sa fabrication, tel qu’indiqué sur l’étiquette de certification apposée sur le véhicule ou selon l’assurance écrite de l’entreprise;
 	- **b)** tout défaut de conception, de fabrication ou de fonctionnement du véhicule ou de ses pièces qui faisait l’objet d’un avis de défaut ou de non-conformité sous le régime des lois fédérales des États-Unis a été corrigé;
-	- **c)** dans le cas d’un véhicule incomplet, d’un autobus, d’un véhicule de tourisme à usages multiples, d’une voiture de tourisme, d’un camion, d’une motocyclette à habitacle fermé ou d’un véhicule à trois roues, l’entreprise qui a procédé à l’assemblage principal du véhicule l’a fait en se conformant à l’article 210 de l’annexe IV;
-	- **d)** dans le cas d’un autobus scolaire, l’entreprise qui a procédé à l’assemblage principal du véhicule l’a fait en se conformant à l’article 222 de l’annexe IV;
+	- **c)** dans le cas d’un véhicule incomplet, d’un autobus, d’un véhicule de tourisme à usages multiples, d’une voiture de tourisme, d’un camion, d’une motocyclette à habitacle fermé ou d’un véhicule à trois roues, l’entreprise qui a procédé à l’assemblage principal du véhicule l’a fait en se conformant à l’article 210 de l’annexe IV;
+	- **d)** dans le cas d’un autobus scolaire, l’entreprise qui a procédé à l’assemblage principal du véhicule l’a fait en se conformant à l’article 222 de l’annexe IV;
 	- **d.1)** dans le cas d’une motocyclette à usage restreint, celle-ci est conçue pour rouler sur deux ou quatre roues;
-	- **e)** dans le cas où la personne qui importe un véhicule le fait en vue de sa vente ou d’usages industriel, professionnel, commercial ou collectif ou à d’autres fins analogues, le véhicule est importé via l’un des bureaux de douane désignés à l’annexe VIII;
-	- **f)** l’importateur enregistre le véhicule auprès du registraire des véhicules importés et fait une déclaration de la manière prévue au paragraphe (6).
+	- **e)** dans le cas où la personne qui importe un véhicule le fait en vue de sa vente ou d’usages industriel, professionnel, commercial ou collectif ou à d’autres fins analogues, le véhicule est importé via l’un des bureaux de douane désignés à l’annexe VIII;
+	- **f)** l’importateur enregistre le véhicule auprès du registraire des véhicules importés et fait une déclaration de la manière prévue au paragraphe (6).
 
-- **(4)** Malgré l’alinéa (3)c), il est permis d’importer un véhicule qui n’est pas conforme à l’article 210 de l’annexe IV si, avant d’être attesté par le registraire des véhicules importés, le véhicule peut être rendu conforme à cet article par le remplacement du siège ou des glissières par un siège ou des glissières utilisés pour un véhicule de la même marque et du même modèle qui est fabriqué pour le marché canadien.
+- **(4)** Malgré l’alinéa (3)c), il est permis d’importer un véhicule qui n’est pas conforme à l’article 210 de l’annexe IV si, avant d’être attesté par le registraire des véhicules importés, le véhicule peut être rendu conforme à cet article par le remplacement du siège ou des glissières par un siège ou des glissières utilisés pour un véhicule de la même marque et du même modèle qui est fabriqué pour le marché canadien.
 
-- **(5)** La déclaration visée à l’alinéa (3)f) est signée par l’importateur ou son représentant dûment autorisé et elle contient :
+- **(4.1)** Pour l’application du paragraphe 7(2) de la Loi, tout véhicule qui a été vendu aux États-Unis et dont le constructeur n’a pas attesté la conformité au paragraphe 114(4) de l’annexe IV du présent règlement peut être importé au Canada dans l’un ou l’autre des cas ci-après, malgré que sa conformité au paragraphe 114(4) n’ait pas été attestée :
+	- **a)** le véhicule était muni au moment de sa construction d’un système d’immobilisation électronique;
+	- **b)** l’importateur du véhicule fait une déclaration selon laquelle :
+		- **(i)** d’une part, le véhicule sera muni d’un système d’immobilisation qui est conforme à la norme nationale du Canada CAN/ULC-S338-98, intitulée Norme sur les systèmes et les appareillages de prévention du vol de véhicules automobiles : immobilisation électronique (mai 1998) et publiée par les Laboratoires des assureurs du Canada, avant sa présentation pour immatriculation sous le régime des lois d’une province,
+		- **(ii)** d’autre part, dans les 45 jours qui suivent son importation, le véhicule sera conduit à une station d’inspection autorisée par le registraire des véhicules importés à remplir la fonction d’inspection qui déterminera si le véhicule a été rendu conforme à la norme.
+
+- **(5)** La déclaration visée à l’alinéa (3)f) est signée par l’importateur ou son représentant dûment autorisé et elle contient :
 	- **a)** la catégorie, la marque, le modèle et le numéro d’identification du véhicule;
 	- **b)** la date de présentation du véhicule à l’importation;
 	- **c)** le nom et l’adresse de l’entreprise ou du particulier qui importe le véhicule;
-	- **d)** dans le cas d’un véhicule, autre qu’une motocyclette à usage restreint, une motoneige ou un traîneau de motoneige, qui porte les étiquettes de conformité visées à l’alinéa (3)a), une mention selon laquelle le véhicule porte ces étiquettes et, si les lois fédérales des États-Unis l’exigent, l’étiquette — contenant des renseignements sur le contrôle des gaz émis par le véhicule — qui a été apposée par l’entreprise qui a fabriqué le véhicule;
-	- **d.1)** dans le cas d’une motoneige qui porte l’étiquette visée à l’alinéa (3)a.1), une mention selon laquelle le véhicule porte cette étiquette;
-	- **e)** dans le cas où le véhicule mentionné à l’alinéa d) ne porte pas les étiquettes visées à cet alinéa, une mention de chaque entreprise qui a fabriqué le véhicule ou de son représentant dûment autorisé, indiquant que le véhicule était conforme aux lois fédérales des États-Unis qui lui étaient applicables à la date de sa fabrication;
-	- **e.1)** dans le cas où une motoneige ne porte pas l’étiquette visée à l’alinéa d.1), une mention de l’entreprise qui a fabriqué le véhicule ou de son représentant dûment autorisé, indiquant que le véhicule était conforme aux normes de sécurité du Snowmobile Safety and Certification Committee, Inc. qui lui étaient applicables à la date de sa fabrication;
+	- **d)** dans le cas d’un véhicule, autre qu’une motocyclette à usage restreint, une motoneige ou un traîneau de motoneige, qui porte les étiquettes de conformité visées à l’alinéa (3)a), une mention selon laquelle le véhicule porte ces étiquettes et, si les lois fédérales des États-Unis l’exigent, l’étiquette — contenant des renseignements sur le contrôle des gaz émis par le véhicule — qui a été apposée par l’entreprise qui a fabriqué le véhicule;
+	- **d.1)** dans le cas d’une motoneige qui porte l’étiquette visée à l’alinéa (3)a.1), une mention selon laquelle le véhicule porte cette étiquette;
+	- **e)** dans le cas où le véhicule mentionné à l’alinéa d) ne porte pas les étiquettes visées à cet alinéa, une mention de chaque entreprise qui a fabriqué le véhicule ou de son représentant dûment autorisé, indiquant que le véhicule était conforme aux lois fédérales des États-Unis qui lui étaient applicables à la date de sa fabrication;
+	- **e.1)** dans le cas où une motoneige ne porte pas l’étiquette visée à l’alinéa d.1), une mention de l’entreprise qui a fabriqué le véhicule ou de son représentant dûment autorisé, indiquant que le véhicule était conforme aux normes de sécurité du Snowmobile Safety and Certification Committee, Inc. qui lui étaient applicables à la date de sa fabrication;
 	- **f)** si une étiquette de conformité américaine est apposée sur le véhicule, le nom de l’entreprise qui l’a fabriqué, tel qu’il figure sur l’étiquette;
 	- **g)** le mois et l’année où l’assemblage principal du véhicule a pris fin d’après l’étiquette de conformité américaine apposée sur le véhicule ou selon la mention de l’entreprise qui a procédé à l’assemblage principal ou de son représentant dûment autorisé;
-	- **h)** une mention indiquant que, dans les 45 jours qui suivent son importation, le véhicule sera rendu conforme à toutes les normes applicables à sa catégorie prévues par le présent règlement et conduit à une station d’inspection autorisée par le registraire des véhicules importés à remplir la fonction d’inspection; celle-ci déterminera si le véhicule a été rendu conforme aux normes de sécurité des véhicules automobiles du Canada.
+	- **h)** une mention indiquant que, dans les 45 jours qui suivent son importation, le véhicule sera rendu conforme à toutes les normes applicables à sa catégorie prévues par le présent règlement et conduit à une station d’inspection autorisée par le registraire des véhicules importés à remplir la fonction d’inspection; celle-ci déterminera si le véhicule a été rendu conforme aux normes de sécurité des véhicules automobiles du Canada.
 
 - **(6)** L’enregistrement et la déclaration sont faits à l’aide du formulaire fourni par le ministre, au bureau de douane suivant :
-	- **a)** dans le cas de l’importateur visé à l’alinéa (3)e), à un bureau de douane désigné;
+	- **a)** dans le cas de l’importateur visé à l’alinéa (3)e), à un bureau de douane désigné;
 	- **b)** dans tout autre cas, au bureau de douane le plus proche qui soit ouvert.
 
-- **(7)** La station d’inspection autorisée détermine la conformité de tout véhicule visé au paragraphe 7(2) de la Loi avec les normes de sécurité des véhicules automobiles du Canada.
+- **(7)** La station d’inspection autorisée détermine la conformité de tout véhicule visé au paragraphe 7(2) de la Loi avec les normes de sécurité des véhicules automobiles du Canada.
 
 - **(8)** Un véhicule qui a été déterminé conforme aux normes prévues par le présent règlement et pour lequel le registraire responsable de la conformité des véhicules importés a délivré une attestation de conformité, doit porter une étiquette indiquant au moins les renseignements suivants, dans les deux langues officielles :
 	- **a)** le nom et l’adresse :
@@ -1240,18 +1246,18 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 		- **(i)** le poids nominal brut du véhicule, exprimé en kilogrammes,
 		- **(ii)** le poids nominal brut sur l’essieu, exprimé en kilogrammes, donné pour chaque essieu, de l’avant à l’arrière.
 
-- **(9)** L’étiquette visée au paragraphe (8) doit :
+- **(9)** L’étiquette visée au paragraphe (8) doit :
 	- **a)** être fixée en permanence :
-		- **(i)** soit sur la même surface que celle où se trouve une étiquette de conformité visée à l’alinéa (3)a),
-		- **(ii)** soit, si aucune des étiquettes de conformité visées à l’alinéa (3)a) n’est apposée sur le véhicule, à l’endroit approprié mentionné au paragraphe 6(3);
+		- **(i)** soit sur la même surface que celle où se trouve une étiquette de conformité visée à l’alinéa (3)a),
+		- **(ii)** soit, si aucune des étiquettes de conformité visées à l’alinéa (3)a) n’est apposée sur le véhicule, à l’endroit approprié mentionné au paragraphe 6(3);
 	- **b)** résister aux intempéries ou être à l’abri des intempéries;
 	- **c)** porter des inscriptions :
 		- **(i)** claires et indélébiles,
 		- **(ii)** en creux, en relief ou d’une couleur contrastant avec celle du fond de l’étiquette,
-		- **(iii)** en majuscules et en chiffres d’au moins 2 mm de haut.
+		- **(iii)** en majuscules et en chiffres d’au moins 2 mm de haut.
 
-- **(10)** Si une des étiquettes de conformité visées à l’alinéa (3)a) n’est pas apposée sur le véhicule, une mention indiquant que le véhicule a été fabriqué conformément aux lois fédérales des États-Unis qui lui étaient applicables à la date de sa fabrication est apposée sur l’étiquette visée au paragraphe (8) ou sur une étiquette distincte à côté de celle-ci.
-> DORS/80-441, art. 1; DORS/95-147, art. 2; DORS/96-90, art. 1; DORS/2000-304, art. 3; DORS/2002-55, art. 10; DORS/2003-272, art. 5; DORS/2006-94, art. 4(A).
+- **(10)** Si une des étiquettes de conformité visées à l’alinéa (3)a) n’est pas apposée sur le véhicule, une mention indiquant que le véhicule a été fabriqué conformément aux lois fédérales des États-Unis qui lui étaient applicables à la date de sa fabrication est apposée sur l’étiquette visée au paragraphe (8) ou sur une étiquette distincte à côté de celle-ci.
+> DORS/80-441, art. 1; DORS/95-147, art. 2; DORS/96-90, art. 1; DORS/2000-304, art. 3; DORS/2002-55, art. 10; DORS/2003-272, art. 5; DORS/2006-94, art. 4(A); DORS/2007-307, art. 1.
 
 
 
