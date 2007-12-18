@@ -1197,39 +1197,45 @@ except that the volume of fuel referred to in paragraph (b) does not include any
 
 **12** 
 
-- **(1)** The company contracted to the Department of Transport to establish and operate the national program of vehicle inspection, certification and registration, to be known as the registrar of imported vehicles, is the person designated for the purposes of subsection 7(2) of the Act.
+- **(1)** The company contracted to the Department of Transport to establish and operate the national program of vehicle inspection, certification and registration, to be known as the registrar of imported vehicles, is the person designated for the purposes of subsection 7(2) of the Act.
 
-- **(2)** Subsection 7(2) of the Act does not apply to a person who is a company referred to in paragraph (a) or (b) of the definition ***company*** in section 2 of the Act.
+- **(2)** Subsection 7(2) of the Act does not apply to a person who is a company referred to in paragraph (a) or (b) of the definition ***company*** in section 2 of the Act.
 
-- **(3)** For the purposes of subsection 7(2) of the Act, a person may import into Canada a vehicle referred to in that subsection where the following conditions are met:
+- **(3)** For the purposes of subsection 7(2) of the Act, a person may import into Canada a vehicle referred to in that subsection where the following conditions are met:
 	- **(a)** in the case of a vehicle other than a restricted-use motorcycle, a snowmobile or a snowmobile cutter, the vehicle was manufactured by a company to conform to the applicable United States federal laws on the date of manufacture, as shown on the American compliance labels on the vehicle or on a written statement from each company that manufactured the vehicle;
 	- **(a.1)** in the case of a snowmobile, the vehicle was manufactured by a company to conform, on the date of manufacture, to the applicable safety standards of the Snowmobile Safety and Certification Committee, Inc., as shown on the certification label on the snowmobile or on a written statement from the company that manufactured the snowmobile;
 	- **(b)** any defect in the vehicle’s construction, design or functioning, or in the construction, design or functioning of its components, that was the subject of a notice of defect or nonconformity under United States federal laws was corrected;
-	- **(c)** in the case of an incomplete vehicle, truck, enclosed motorcycle, multi-purpose passenger vehicle, three-wheeled vehicle, passenger car or bus, the vehicle was manufactured by the company that completed the main assembly of the vehicle to conform to section 210 of Schedule IV;
-	- **(d)** in the case of a school bus, the vehicle was manufactured by the company that completed the main assembly of the vehicle to conform to section 222 of Schedule IV;
+	- **(c)** in the case of an incomplete vehicle, truck, enclosed motorcycle, multi-purpose passenger vehicle, three-wheeled vehicle, passenger car or bus, the vehicle was manufactured by the company that completed the main assembly of the vehicle to conform to section 210 of Schedule IV;
+	- **(d)** in the case of a school bus, the vehicle was manufactured by the company that completed the main assembly of the vehicle to conform to section 222 of Schedule IV;
 	- **(d.1)** in the case of a restricted-use motorcycle, the vehicle is designed to travel on two or four wheels;
-	- **(e)** where the person is importing the vehicle for sale or for any commercial, industrial, occupational, institutional or other like use, the vehicle is imported at a customs office designated in Schedule VIII; and
-	- **(f)** the person registers the vehicle with the registrar of imported vehicles, and makes a declaration, in the manner set out in subsection (6).
+	- **(e)** where the person is importing the vehicle for sale or for any commercial, industrial, occupational, institutional or other like use, the vehicle is imported at a customs office designated in Schedule VIII; and
+	- **(f)** the person registers the vehicle with the registrar of imported vehicles, and makes a declaration, in the manner set out in subsection (6).
 
-- **(4)** Notwithstanding paragraph (3)(c) a person may import a vehicle that does not comply with section 210 of Schedule IV if, before being certified by the registrar of imported vehicles, the vehicle can be made to conform to that section by changing a seat or the seat tracks for a seat or seat tracks that are used in vehicles of the same make and model that are manufactured for the Canadian market.
+- **(4)** Notwithstanding paragraph (3)(c) a person may import a vehicle that does not comply with section 210 of Schedule IV if, before being certified by the registrar of imported vehicles, the vehicle can be made to conform to that section by changing a seat or the seat tracks for a seat or seat tracks that are used in vehicles of the same make and model that are manufactured for the Canadian market.
 
-- **(5)** The declaration referred to in paragraph (3)(f) shall be signed by the person importing the vehicle or that person’s duly authorized representative and set out
+- **(4.1)** For the purposes of subsection 7(2) of the Act, a vehicle that has been sold at the retail level in the United States and that has not been certified by the manufacturer as conforming to subsection 114(4) of Schedule IV to these Regulations may be imported into Canada despite not being certified to conform to subsection 114(4) if
+	- **(a)** the vehicle was fitted at the time of manufacture with an electronic immobilization system; or
+	- **(b)** the person importing the vehicle states in their declaration that the vehicle
+		- **(i)** will be fitted with an immobilization system that conforms to National Standard of Canada CAN/ULC-S338-98, entitled Automobile Theft Deterrent Equipment and Systems: Electronic Immobilization (May 1998), published by the Underwriters’ Laboratories of Canada, before it is presented for registration under the laws of a province, and
+		- **(ii)** will be taken, within 45 days after its importation, to an inspection station authorized by the registrar of imported vehicles to carry out an inspection function to determine that the vehicle has been made to conform to the standard.
+
+- **(5)** The declaration referred to in paragraph (3)(f) shall be signed by the person importing the vehicle or that person’s duly authorized representative and set out
 	- **(a)** the class, make, model and vehicle identification number of the vehicle;
 	- **(b)** the date the vehicle is presented for importation;
 	- **(c)** the name and address of the company or individual importing the vehicle;
-	- **(d)** in the case of a vehicle other than a restricted-use motorcycle, a snowmobile or a snowmobile cutter, where the vehicle bears the compliance labels referred to in paragraph (3)(a), a statement that the vehicle bears those labels and, where required by United States federal laws, the vehicle emission control label applied by the company that manufactured the vehicle;
-	- **(d.1)** in the case of a snowmobile, where the snowmobile bears the certification label referred to in paragraph (3)(a.1), a statement that the vehicle bears that label;
-	- **(e)** where a vehicle referred to in paragraph (d) does not bear the labels referred to in that paragraph, a statement from each company that manufactured the vehicle or its duly authorized representative that, on the date of manufacture, the vehicle conformed to the applicable United States federal laws;
-	- **(e.1)** where a snowmobile does not bear the certification label referred to in paragraph (d.1), a statement from the company that manufactured the vehicle or its duly authorized representative that, on the date of manufacture, the vehicle conformed to the applicable safety standards of the Snowmobile Safety and Certification Committee, Inc.;
+	- **(d)** in the case of a vehicle other than a restricted-use motorcycle, a snowmobile or a snowmobile cutter, where the vehicle bears the compliance labels referred to in paragraph (3)(a), a statement that the vehicle bears those labels and, where required by United States federal laws, the vehicle emission control label applied by the company that manufactured the vehicle;
+	- **(d.1)** in the case of a snowmobile, where the snowmobile bears the certification label referred to in paragraph (3)(a.1), a statement that the vehicle bears that label;
+	- **(e)** where a vehicle referred to in paragraph (d) does not bear the labels referred to in that paragraph, a statement from each company that manufactured the vehicle or its duly authorized representative that, on the date of manufacture, the vehicle conformed to the applicable United States federal laws;
+	- **(e.1)** where a snowmobile does not bear the certification label referred to in paragraph (d.1), a statement from the company that manufactured the vehicle or its duly authorized representative that, on the date of manufacture, the vehicle conformed to the applicable safety standards of the Snowmobile Safety and Certification Committee, Inc.;
 	- **(f)** where an American compliance label is applied to the vehicle, the name of the company that manufactured the vehicle, as shown on the label;
 	- **(g)** the month and year during which the main assembly of the vehicle was completed, as shown on the American compliance label applied to the vehicle or on the statement by the company that completed the main assembly of the vehicle or by its duly authorized representative; and
-	- **(h)** a statement that the vehicle will be made to conform to all applicable standards prescribed under these Regulations for that class of vehicle and will be taken, within 45 days after its importation, to an inspection station authorized by the registrar of imported vehicles to carry out an inspection function to determine that a vehicle has been made to conform to the Canada motor vehicle safety standards.
+	- **(h)** a statement that the vehicle will be made to conform to all applicable standards prescribed under these Regulations for that class of vehicle and will be taken, within 45 days after its importation, to an inspection station authorized by the registrar of imported vehicles to carry out an inspection function to determine that a vehicle has been made to conform to the Canada motor vehicle safety standards.
 
 - **(6)** A declaration and registration shall be made using the form provided by the Minister:
-	- **(a)** in the case of a person referred to in paragraph (3)(e), at a designated customs office; and
+	- **(a)** in the case of a person referred to in paragraph (3)(e), at a designated customs office; and
 	- **(b)** in any other case, at the nearest customs office that is open for business.
 
-- **(7)** An authorized inspection station shall determine that a vehicle referred to in subsection 7(2) of the Act has been made to conform to the Canada motor vehicle safety standards.
+- **(7)** An authorized inspection station shall determine that a vehicle referred to in subsection 7(2) of the Act has been made to conform to the Canada motor vehicle safety standards.
 
 - **(8)** A vehicle that has been determined to conform to the standards prescribed under these Regulations and in respect of which a certificate of conformity has been issued by the registrar of imported vehicles, shall bear a label in both official languages that displays at least the following information:
 	- **(a)** the name and address of
@@ -1242,18 +1248,18 @@ except that the volume of fuel referred to in paragraph (b) does not include any
 		- **(i)** the gross vehicle weight rating of the vehicle expressed in kilograms, and
 		- **(ii)** the gross axle weight rating for each axle of the vehicle, expressed in kilograms and listed in order from front to rear.
 
-- **(9)** The label referred to in subsection (8) shall
+- **(9)** The label referred to in subsection (8) shall
 	- **(a)** be permanently applied
-		- **(i)** to the same surface as that to which a compliance label referred to in paragraph (3)(a) is applied, or
-		- **(ii)** where none of the compliance labels referred to in paragraph (3)(a) is applied to the vehicle, in the appropriate location referred to in subsection 6(3);
+		- **(i)** to the same surface as that to which a compliance label referred to in paragraph (3)(a) is applied, or
+		- **(ii)** where none of the compliance labels referred to in paragraph (3)(a) is applied to the vehicle, in the appropriate location referred to in subsection 6(3);
 	- **(b)** be resistant to or protected against any weather condition to which the label may be exposed; and
 	- **(c)** have lettering that is
 		- **(i)** clear and indelible,
 		- **(ii)** indented, embossed or in a colour that contrasts with the background colour of the label, and
-		- **(iii)** in block capitals and numerals not less than 2 mm in height.
+		- **(iii)** in block capitals and numerals not less than 2 mm in height.
 
-- **(10)** Where any compliance label referred to in paragraph (3)(a) is not applied to the vehicle, a statement that indicates that the vehicle was manufactured to conform to the applicable United States federal laws on the date of manufacture shall be displayed on the label referred to in subsection (8) or on a label applied beside that compliance label.
-> SOR/80-441, s. 1; SOR/95-147, s. 2; SOR/96-90, s. 1; SOR/2000-304, s. 3; SOR/2002-55, s. 10; SOR/2003-272, s. 5; SOR/2006-94, s. 4(E).
+- **(10)** Where any compliance label referred to in paragraph (3)(a) is not applied to the vehicle, a statement that indicates that the vehicle was manufactured to conform to the applicable United States federal laws on the date of manufacture shall be displayed on the label referred to in subsection (8) or on a label applied beside that compliance label.
+> SOR/80-441, s. 1; SOR/95-147, s. 2; SOR/96-90, s. 1; SOR/2000-304, s. 3; SOR/2002-55, s. 10; SOR/2003-272, s. 5; SOR/2006-94, s. 4(E); SOR/2007-307, s. 1.
 
 
 
