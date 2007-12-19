@@ -609,16 +609,18 @@ la somme reçue par le gouvernement du Canada aux termes de l’entente mentionn
 
 - **(1)** Malgré l’article 5 de la Loi, ne sont pas astreintes à contribuer au compte de pension de retraite ou à la Caisse de retraite de la fonction publique en application de cette disposition la personne qui est âgée de 71 ans ou plus le 31 décembre 2002, à l’égard de toute période d’emploi dans la fonction publique postérieure au 31 décembre de l’année où elle a atteint cet âge, et la personne qui est âgée de 71 ans ou plus le 31 décembre 1995, à l’égard de toute période d’emploi dans la fonction publique postérieure au 31 mars 1996.
 
-- **(2)** Malgré l’article 5 de la Loi, n’est pas astreinte à contribuer au compte de pension de retraite ou à la Caisse de retraite de la fonction publique en application de cette disposition la personne qui atteint l’âge de 69 ans le 1<sup>er</sup> janvier 2003 ou après cette date, à l’égard de toute période d’emploi dans la fonction publique postérieure au 31 décembre de l’année où elle a atteint cet âge.
+- **(2)** Malgré l’article 5 de la Loi, n’est pas astreinte à contribuer à la Caisse de retraite de la fonction publique en application de cette disposition la personne qui a atteint l’âge de 69 ans le 1<sup>er</sup> janvier 2003 ou après cette date mais avant le 1<sup>er</sup> janvier 2007, à l’égard de toute période d’emploi dans la fonction publique postérieure au 31 décembre de l’année où elle a atteint cet âge.
 
-- **(3)** Malgré l’article 5 de la Loi, n’est pas astreinte à contribuer au compte de pension de retraite ou à la Caisse de retraite de la fonction publique en application de cette disposition la personne qui atteint l’âge de 70 ou 71 ans pendant l’année 2003, à l’égard de toute période d’emploi dans la fonction publique postérieure au 31 décembre 2003.
+- **(3)** Malgré l’article 5 de la Loi, n’est pas astreinte à contribuer à la Caisse de retraite de la fonction publique en application de cette disposition la personne qui a atteint l’âge de 70 ou 71 ans pendant l’année 2003, à l’égard de toute période d’emploi dans la fonction publique postérieure au 31 décembre 2003.
 
-- **(4)** La personne qui, n’eût été les paragraphes (1), (2) ou (3), serait astreinte à contribuer au compte de pension de retraite ou à la Caisse de retraite de la fonction publique est à la fois :
+- **(4)** Malgré l’article 5 de la Loi, n’est pas astreinte à contribuer à la Caisse de retraite de la fonction publique en application de cette disposition la personne qui atteint l’âge de 71 ans le l<sup>er</sup> janvier 2009 ou après cette date, à l’égard de toute période d’emploi dans la fonction publique postérieure au 31 décembre de l’année où elle a atteint cet âge.
+
+- **(5)** La personne qui, n’eût été les paragraphes (1), (2), (3) ou (4), serait astreinte à contribuer au compte de pension de retraite ou à la Caisse de retraite de la fonction publique est à la fois :
 	- **a)** un contributeur pour l’application de l’alinéa 29a) de la Loi;
 	- **b)** un participant au sens du paragraphe 47(1) de la Loi.
 
-- **(5)** Malgré le paragraphe 69(3) de la Loi et sous réserve du paragraphe 69(6) de la Loi, l’année ou le mois de la retraite de la personne visée aux paragraphes (1), (2) ou (3) à ou pour laquelle, ou relativement au service de laquelle, une pension est payable est, pour l’application de l’article 69 de la Loi, l’année ou le mois, selon le cas, au cours desquels cette personne cesse, en application des paragraphes (1), (2) ou (3), d’être astreinte à contribuer au compte de pension de retraite ou à la Caisse de retraite de la fonction publique.
-> DORS/96-18, art. 2; DORS/2002-365, art. 2.
+- **(6)** Malgré le paragraphe 69(3) de la Loi et sous réserve du paragraphe 69(6) de la Loi, l’année ou le mois de la retraite de la personne visée aux paragraphes (1), (2), (3) ou (4) à ou pour laquelle, ou relativement au service de laquelle, une pension est à payer est, pour l’application de l’article 69 de la Loi, l’année ou le mois, selon le cas, au cours desquels cette personne cesse, en application des paragraphes (1), (2), (3) ou (4), d’être astreinte à contribuer au compte de pension de retraite ou à la Caisse de retraite de la fonction publique.
+> DORS/96-18, art. 2; DORS/2002-365, art. 2; DORS/2008-2, art. 1.
 
 
 
