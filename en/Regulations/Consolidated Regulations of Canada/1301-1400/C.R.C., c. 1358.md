@@ -606,18 +606,20 @@ the amount that is received by the Government of Canada pursuant to the agreemen
 
 **12.1** 
 
-- **(1)** Notwithstanding section 5 of the Act, a person who attained 71 years of age on or before December 31, 2002 is not required to contribute to the Superannuation Account or the Public Service Pension Fund under that provision in respect of any employment in the Public Service after December 31 of the year in which he or she attained that age or, in the case of a person who attained 71 years of age on or before December 31, 1995, after March 31, 1996.
+- **(1)** Despite section 5 of the Act, a person who attained 71 years of age on or before December 31, 2002 is not required to contribute to the Superannuation Account or the Public Service Pension Fund under that section in respect of any employment in the public service after December 31 of the year in which he or she attained that age or, in the case of a person who attained 71 years of age on or before December 31, 1995, after March 31, 1996.
 
-- **(2)** Notwithstanding section 5 of the Act, a person who attains 69 years of age on or after January 1, 2003 is not required to contribute to the Superannuation Account or the Public Service Pension Fund under that provision in respect of any employment in the Public Service after December 31 of the year in which he or she attains that age.
+- **(2)** Despite section 5 of the Act, a person who attained 69 years of age on or after January 1, 2003 and before January 1, 2007 is not required to contribute to the Public Service Pension Fund under that section in respect of any employment in the public service after December 31 of the year in which he or she attains that age.
 
-- **(3)** Notwithstanding section 5 of the Act, a person who attains 70 or 71 years of age during the year 2003 is not required to contribute to the Superannuation Account or the Public Service Pension Fund under that provision in respect of any employment in the Public Service after December 31, 2003.
+- **(3)** Despite section 5 of the Act, a person who attained 70 or 71 years of age during the year 2003 is not required to contribute to the Public Service Pension Fund under that section in respect of any employment in the public service after December 31, 2003.
 
-- **(4)** A person who would be required to contribute to the Superannuation Account or the Public Service Pension Fund but for the application of subsection (1), (2) or (3) is
+- **(4)** Despite section 5 of the Act, a person who attains 71 years of age on or after January 1, 2009 is not required to contribute to the Public Service Pension Fund under that section in respect of any employment in the public service after December 31 of the year in which he or she attains that age.
+
+- **(5)** A person who would be required to contribute to the Superannuation Account or the Public Service Pension Fund but for the application of subsection (1), (2), (3) or (4) is
 	- **(a)** a contributor for the purposes of paragraph 29(a) of the Act; and
 	- **(b)** a participant within the meaning of subsection 47(1) of the Act.
 
-- **(5)** Notwithstanding subsection 69(3) of the Act and subject to subsection 69(6) of the Act, for the purposes of section 69 of the Act, the retirement year or retirement month of a person referred to in subsection (1), (2) or (3) to whom, in respect of whom or in respect of whose service a pension is payable is the year or month, as the case may be, in which, pursuant to subsection (1), (2) or (3), he or she ceases to be required to contribute to the Superannuation Account or the Public Service Pension Fund.
-> SOR/96-18, s. 2; SOR/2002-365, s. 2.
+- **(6)** Despite subsection 69(3) of the Act and subject to subsection 69(6) of the Act, for the purposes of section 69 of the Act, the retirement year or retirement month of a person referred to in subsection (1), (2), (3) or (4) to whom, in respect of whom or in respect of whose service a pension is payable is the year or month, as the case may be, in which, in accordance with subsection (1), (2), (3) or (4), he or she ceases to be required to contribute to the Superannuation Account or the Public Service Pension Fund.
+> SOR/96-18, s. 2; SOR/2002-365, s. 2; SOR/2008-2, s. 1.
 
 
 
