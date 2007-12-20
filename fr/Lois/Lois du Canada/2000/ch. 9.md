@@ -2864,15 +2864,23 @@ Cependant, la présente définition ne vise pas les contributions versées à l�
 
 - **(2.1)** Il est entendu que, pour l’application de l’alinéa (2)b), le directeur général des élections peut autoriser à titre de pièce d’identité tout document, indépendamment de son auteur.
 
-**Personne inscrite à titre d'Indien**
+**Personne inscrite à titre d’Indien**
 
-- **(2.2)** Pour l'application de l'alinéa (2)b), un document délivré par le gouvernement du Canada certifiant qu'une personne est inscrite à titre d'Indien sous le régime de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md) constitue une pièce d'identité autorisée.
+- **(2.2)** Pour l’application de l’alinéa (2)b), un document délivré par le gouvernement du Canada certifiant qu’une personne est inscrite à titre d’Indien sous le régime de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md) constitue une pièce d’identité autorisée.
 
 **Serment**
 
 - **(3)** Cependant, l’électeur peut également établir son identité et sa résidence en prêtant le serment prescrit, s’il est accompagné d’un électeur dont le nom figure sur la liste électorale de la même section de vote qui, à la fois :
 	- **a)** présente au scrutateur et au greffier du scrutin les pièces d’identité visées aux alinéas (2)a) ou b);
 	- **b)** répond de l’électeur, sous serment, sur le formulaire prescrit.
+
+**Preuve de résidence**
+
+- **(3.1)** Si l’adresse qui figure sur les pièces d’identité fournies aux termes du paragraphe (2) ou de l’alinéa (3)a) n’établit pas la résidence de l’électeur, mais qu’elle concorde avec les renseignements figurant à l’égard de celui-ci sur la liste électorale, la résidence de l’électeur est réputée avoir été établie.
+
+**Demande de prestation de serment**
+
+- **(3.2)** Malgré le paragraphe (3.1), le scrutateur, le greffier du scrutin ou le candidat ou son représentant qui a des doutes raisonnables au sujet de la résidence de l’électeur peut lui demander de prêter le serment prescrit. La résidence n’est alors réputée établie que si la personne prête le serment.
 
 **Électeur admis à voter**
 
@@ -2889,7 +2897,7 @@ Cependant, la présente définition ne vise pas les contributions versées à l�
 **Publication**
 
 - **(7)** Chaque année et dans les trois jours suivant la date de délivrance du bref, le directeur général des élections publie, selon les modalités qu’il estime indiquées, un avis indiquant les types de pièces autorisés pour l’application de l’alinéa (2)b). Le premier avis annuel est publié au plus tard six mois après l’entrée en vigueur du présent paragraphe.
-> 2000, ch. 9, art. 143; 2007, ch. 21, art. 21.
+> 2000, ch. 9, art. 143; 2007, ch. 21, art. 21, ch. 37, art. 1.
 
 
 
@@ -3178,10 +3186,10 @@ Cependant, la présente définition ne vise pas les contributions versées à l�
 **161** 
 
 - **(1)** L’électeur dont le nom ne figure pas déjà sur la liste électorale peut, le jour du scrutin, s’inscrire en personne s’il établit son identité et sa résidence :
-	- **a)** soit en présentant les pièces visées aux alinéas 143(2)a) ou b);
+	- **a)** soit en présentant la pièce visée à l’alinéa 143(2)a) sur laquelle figure une adresse qui établit sa résidence ou les pièces visées à l’alinéa 143(2)b) dont au moins une porte une telle adresse;
 	- **b)** soit en prêtant le serment prescrit, s’il est accompagné d’un électeur dont le nom figure sur la liste électorale de la même section de vote et qui, à la fois :
-		- **(i)** présente les pièces visées aux alinéas 143(2)a) ou b),
-		- **(ii)** répond de lui, sous serment, sur le formulaire prescrit.
+		- **(i)** présente soit la pièce visée à l’alinéa 143(2)a) sur laquelle figure une adresse qui établit sa résidence ou qui concorde avec les renseignements figurant à son égard sur la liste électorale, soit les pièces visées à l’alinéa 143(2)b) dont au moins une porte une telle adresse,
+		- **(ii)** répond de lui, sous serment, sur le formulaire prescrit, lequel comporte une déclaration portant sur la résidence des deux électeurs.
 
 **Lieu de l’inscription**
 
@@ -3206,7 +3214,7 @@ Cependant, la présente définition ne vise pas les contributions versées à l�
 **Interdiction d’agir à titre de répondant**
 
 - **(7)** L’électeur pour lequel un autre électeur s’est porté répondant ne peut lui-même agir à ce titre à la même élection.
-> 2000, ch. 9, art. 161; 2007, ch. 21, art. 26.
+> 2000, ch. 9, art. 161; 2007, ch. 21, art. 26, ch. 37, art. 2.
 
 
 
@@ -3390,10 +3398,10 @@ Cependant, la présente définition ne vise pas les contributions versées à l�
 **Conditions**
 
 - **(2)** Il ne peut toutefois être inscrit que s’il établit son identité et sa résidence :
-	- **a)** soit en présentant les pièces visées aux alinéas 143(2)a) ou b);
+	- **a)** soit en présentant la pièce visée à l’alinéa 143(2)a) sur laquelle figure une adresse qui établit sa résidence ou les pièces visées à l’alinéa 143(2)b) dont au moins une porte une telle adresse;
 	- **b)** soit en prêtant le serment prescrit, s’il est accompagné d’un électeur dont le nom figure sur la liste électorale de la même section de vote et qui, à la fois :
-		- **(i)** présente les pièces visées aux alinéas 143(2)a) ou b),
-		- **(ii)** répond de lui, sous serment, sur le formulaire prescrit.
+		- **(i)** présente soit la pièce visée à l’alinéa 143(2)a) sur laquelle figure une adresse qui établit sa résidence ou qui concorde avec les renseignements figurant à son égard sur la liste électorale, soit les pièces visées à l’alinéa 143(2)b) dont au moins une porte une telle adresse,
+		- **(ii)** répond de lui, sous serment, sur le formulaire prescrit, lequel comporte une déclaration portant sur la résidence des deux électeurs.
 
 **Certificat d’inscription**
 
@@ -3410,7 +3418,7 @@ Cependant, la présente définition ne vise pas les contributions versées à l�
 **Interdiction d’agir à titre de répondant**
 
 - **(6)** L’électeur pour lequel un autre électeur s’est porté répondant ne peut lui-même agir à ce titre à la même élection.
-> 2000, ch. 9, art. 169; 2007, ch. 21, art. 30.
+> 2000, ch. 9, art. 169; 2007, ch. 21, art. 30, ch. 37, art. 3.
 
 
 
