@@ -2887,6 +2887,14 @@ It does not include a contribution made by an eligible individual under Part 18 
 	- **(a)** provides to the deputy returning officer and the poll clerk the piece or pieces of identification referred to in paragraph (2)(a) or (b), respectively; and
 	- **(b)** vouches for him or her on oath in the prescribed form.
 
+**Proof of residence**
+
+- **(3.1)** If the address contained in the piece or pieces of identification provided under subsection (2) or paragraph (3)(a) does not prove the elector’s residence but is consistent with information related to the elector that appears on the list of electors, the elector’s residence is deemed to have been proven.
+
+**Request to take an oath**
+
+- **(3.2)** Despite subsection (3.1), a deputy returning officer, poll clerk, candidate or candidate’s representative who has reasonable doubts concerning the residence of an elector referred to in that subsection may request that the elector take the prescribed oath, in which case his or her residence is deemed to have been proven only if he or she takes that oath.
+
 **Voting**
 
 - **(4)** If the deputy returning officer is satisfied that an elector’s identity and residence have been proven in accordance with subsection (2) or (3), the elector’s name shall be crossed off the list and, subject to section 144, the elector shall be immediately allowed to vote.
@@ -2902,7 +2910,7 @@ It does not include a contribution made by an eligible individual under Part 18 
 **Publication**
 
 - **(7)** The Chief Electoral Officer shall publish each year, and within three days after the issue of a writ, in a manner that he or she considers appropriate, a notice setting out the types of identification that are authorized for the purpose of paragraph (2)(b). The first annual notice shall be published no later than six months after the coming into force of this subsection.
-> 2000, c. 9, s. 143; 2007, c. 21, s. 21.
+> 2000, c. 9, s. 143; 2007, c. 21, s. 21, c. 37, s. 1.
 
 
 
@@ -3191,10 +3199,10 @@ It does not include a contribution made by an eligible individual under Part 18 
 **161** 
 
 - **(1)** An elector whose name is not on the list of electors may register in person on polling day if the elector
-	- **(a)** provides as proof of his or her identity and residence the piece or pieces of identification referred to in paragraph 143(2)(a) or (b), respectively; or
+	- **(a)** provides as proof of his or her identity and residence the piece or pieces of identification referred to in paragraph 143(2)(a) or (b), respectively, which piece or one of which pieces must contain an address that proves his or her residence; or
 	- **(b)** proves his or her identity and residence by taking the prescribed oath, and is accompanied by an elector whose name appears on the list of electors for the same polling division and who
-		- **(i)** provides the piece or pieces of identification referred to in paragraph 143(2)(a) or (b), respectively, and
-		- **(ii)** vouches for him or her on oath in the prescribed form.
+		- **(i)** provides the piece or pieces of identification referred to in paragraph 143(2)(a) or (b), respectively, which piece or one of which pieces must contain either an address that proves his or her residence or an address that is consistent with information related to him or her that appears on the list of electors, and
+		- **(ii)** vouches for him or her on oath in the prescribed form, which form must include a statement as to the residence of both electors.
 
 **Place of registration**
 
@@ -3221,7 +3229,7 @@ It does not include a contribution made by an eligible individual under Part 18 
 **Prohibition — vouchee acting as voucher**
 
 - **(7)** An elector who has been vouched for at an election may not vouch for another elector at that election.
-> 2000, c. 9, s. 161; 2007, c. 21, s. 26.
+> 2000, c. 9, s. 161; 2007, c. 21, s. 26, c. 37, s. 2.
 
 
 
@@ -3405,10 +3413,10 @@ It does not include a contribution made by an eligible individual under Part 18 
 **Conditions**
 
 - **(2)** An elector shall not be registered unless he or she
-	- **(a)** provides as proof of his or her identity and residence the piece or pieces of identification referred to in paragraph 143(2)(a) or (b), respectively; or
+	- **(a)** provides as proof of his or her identity and residence the piece or pieces of identification referred to in paragraph 143(2)(a) or (b), respectively, which piece or one of which pieces must contain an address that proves his or her residence; or
 	- **(b)** proves his or her identity and residence by taking the prescribed oath, and is accompanied by an elector whose name appears on the list of electors for the same polling division and who
-		- **(i)** provides the piece or pieces of identification referred to in paragraph 143(2)(a) or (b), respectively, and
-		- **(ii)** vouches for him or her on oath in the prescribed form.
+		- **(i)** provides the piece or pieces of identification referred to in paragraph 143(2)(a) or (b), respectively, which piece or one of which pieces must contain either an address that proves his or her residence or an address that is consistent with information related to him or her that appears on the list of electors, and
+		- **(ii)** vouches for him or her on oath in the prescribed form, which form must include a statement as to the residence of both electors.
 
 **Registration certificate**
 
@@ -3425,7 +3433,7 @@ It does not include a contribution made by an eligible individual under Part 18 
 **Prohibition — vouchee acting as voucher**
 
 - **(6)** An elector who has been vouched for at an election may not vouch for another elector at that election.
-> 2000, c. 9, s. 169; 2007, c. 21, s. 30.
+> 2000, c. 9, s. 169; 2007, c. 21, s. 30, c. 37, s. 3.
 
 
 
