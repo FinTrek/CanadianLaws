@@ -3260,6 +3260,8 @@ It does not include a contribution made by an eligible individual under Part 18 
 - **(g)** indicate, if applicable, on the prescribed form that the elector refused to comply with a legal requirement to provide the piece or pieces of identification referred to in paragraph 143(2)(a) or (b), respectively, or to take an oath;
 - **(h)** indicate, if applicable, on the prescribed form that the elector has been allowed to vote under subsection 148.1(2);
 - **(i)** indicate, if applicable, on the prescribed form that an elector has voted in the circumstances described in section 147, that the prescribed oath has been taken or that any other oath that was required to be taken was taken, note any objection that was made on behalf of any of the candidates and indicate the candidate’s name;
+- **(i.1)** on request, and at intervals of no less than 30 minutes, provide to a candidate’s representative, on the prescribed form and as directed by the Chief Electoral Officer, the identity of every elector who has exercised his or her right to vote on polling day, excluding that of electors who registered on that day; 
+- **(i.2)** on request, after the close of the advance polling station, provide to a candidate’s representative, on the prescribed form and as directed by the Chief Electoral Officer, the identity of every elector who has exercised his or her right to vote on that day excluding that of electors who registered on that day; and
 - **(j)** indicate, if applicable, on the prescribed form, that an elector has voted under a registration certificate issued under subsection 161(4).
 > 2000, c. 9, s. 162; 2007, c. 21, s. 28.
 
