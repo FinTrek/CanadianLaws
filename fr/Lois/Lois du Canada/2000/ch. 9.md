@@ -3245,6 +3245,8 @@ Cependant, la présente définition ne vise pas les contributions versées à l�
 - **g)** indique sur le formulaire prescrit, le cas échéant, que l’électeur a refusé de présenter les pièces visées aux alinéas 143(2)a) ou b) ou de prêter serment alors qu’il y était légalement tenu;
 - **h)** indique sur le formulaire prescrit, le cas échéant, que l’électeur a été admis à voter conformément au paragraphe 148.1(2);
 - **i)** indique sur le formulaire prescrit, le cas échéant, que l’électeur a voté dans les circonstances visées à l’article 147 et qu’il a prêté le serment prescrit et tout autre serment exigé et indique, s’il y a lieu, les oppositions présentées au nom d’un candidat et le nom de ce candidat;
+- **i.1)** sur demande, et à intervalles minimaux de trente minutes, fournit aux représentants des candidats, sur le formulaire prescrit et selon les directives du directeur général des élections, l’identité des électeurs ayant exercé leur droit de vote le jour du scrutin à l’exclusion de celle des électeurs s’étant inscrit le jour même;
+- **i.2)** sur demande, après la fermeture du bureau de vote par anticipation, fournit aux représentants des candidats, sur le formulaire prescrit et selon les directives du directeur général des élections, l’identité des électeurs ayant exercé leur droit de vote ce jour-là, à l’exclusion de celle des électeurs s’étant inscrit le jour même;
 - **j)** inscrit sur le formulaire prescrit, le cas échéant, que l’électeur a voté sur remise d’un certificat d’inscription délivré en vertu du paragraphe 161(4).
 > 2000, ch. 9, art. 162; 2007, ch. 21, art. 28.
 
