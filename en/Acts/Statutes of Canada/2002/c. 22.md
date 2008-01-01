@@ -1216,13 +1216,13 @@ Version anglaise seulement***prescribed*** means
 - **(b)** at which, in the ordinary course of the person’s business, the person regularly sells, otherwise than through vending machines, tobacco products to consumers, within the meaning of section 123 of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md), attending at the shop or store; and
 - **(c)** in respect of which separate records are maintained.
 
-***taxed tobacco*** of a person means cigarettes, tobacco sticks, loose tobacco and cigars, in respect of which duty has been imposed under section 42 before July 1, 2006 at a rate set out in paragraph 1(b), 2(b) or 3(b) of Schedule 1 or in section 4 of that Schedule, as those provisions read on June 30, 2006, and that, at the beginning of July 1, 2006,
+***taxed tobacco*** of a person means cigarettes, tobacco sticks, loose tobacco and cigars, in respect of which duty has been imposed under section 42 before January 1, 2008 at a rate set out in paragraph 1(b), 2(b) or 3(b) of Schedule 1 or in section 4 of that Schedule, as those provisions read on December 31, 2007, and that, at the beginning of January 1, 2008,
 - **(a)** were owned by that person for sale in the ordinary course of a business of the person;
 - **(b)** were not held in a vending machine; and
 - **(c)** were not relieved from that duty under this Act.
 
 ***unit*** means one cigarette, tobacco stick, gram of loose tobacco or cigar.
-> 2006, c. 4, s. 34.
+> 2006, c. 4, s. 34; 2007, c. 35, s. 197.
 
 
 
@@ -1231,11 +1231,11 @@ Version anglaise seulement***prescribed*** means
 **Imposition of tax**
 
 **58.2** Subject to section 58.3, every person shall pay to Her Majesty a tax on all taxed tobacco of the person at the rate of
-- **(a)** 0.2799 cent per cigarette;
-- **(b)** 0.2517 cent per tobacco stick;
-- **(c)** 0.1919 cent per gram of loose tobacco; and
-- **(d)** 0.1814 cent per cigar.
-> 2006, c. 4, s. 34.
+- **(a)** 0.295 cent per cigarette;
+- **(b)** 0.275 cent per tobacco stick;
+- **(c)** 0.195 cent per gram of loose tobacco; and
+- **(d)** 0.19 cent per cigar.
+> 2006, c. 4, s. 34; 2007, c. 35, s. 198.
 
 
 
@@ -1243,8 +1243,8 @@ Version anglaise seulement***prescribed*** means
 
 **Exemption for small retail inventory**
 
-**58.3** Tax under this Part in respect of the inventory of all taxed tobacco of a person that is held at the beginning of July 1, 2006 at a separate retail establishment of the person is not payable if that retail establishment holds inventory of 30,000 or fewer units.
-> 2006, c. 4, s. 34.
+**58.3** Tax under this Part in respect of the inventory of all taxed tobacco of a person that is held at the beginning of January 1, 2008 at a separate retail establishment of the person is not payable if that retail establishment holds inventory of 30,000 or fewer units.
+> 2006, c. 4, s. 34; 2007, c. 35, s. 199.
 
 
 
@@ -1263,12 +1263,12 @@ Version anglaise seulement***prescribed*** means
 
 **58.5** 
 
-- **(1)** Every person liable to pay tax under this Part shall, on or before August 31, 2006, file a return with the Minister in the prescribed form and manner.
+- **(1)** Every person liable to pay tax under this Part shall, on or before February 29, 2008, file a return with the Minister in the prescribed form and manner.
 
 **Separate returns**
 
 - **(2)** A person authorized under subsection 239(2) of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) to file separate returns in respect of a separate branch or division may file separate returns under this Part in respect of that branch or division.
-> 2006, c. 4, s. 34.
+> 2006, c. 4, s. 34; 2007, c. 35, s. 200.
 
 
 
@@ -1278,7 +1278,7 @@ Version anglaise seulement***prescribed*** means
 
 **58.6** 
 
-- **(1)** Every person shall pay to the Receiver General the total tax payable by the person under this Part on or before August 31, 2006.
+- **(1)** Every person shall pay to the Receiver General the total tax payable by the person under this Part on or before February 29, 2008.
 
 **Minimum interest**
 
@@ -1289,7 +1289,7 @@ Version anglaise seulement***prescribed*** means
 - **(3)** The Minister may at any time extend in writing the time for filing a return, or paying the tax payable, under this Part and, where the Minister so extends the time,
 	- **(a)** the return shall be filed or tax payable shall be paid within the time as so extended; and
 	- **(b)** interest is payable under section 170 as if the time had not been extended.
-> 2006, c. 4, s. 34.
+> 2006, c. 4, s. 34; 2007, c. 35, s. 201.
 
 
 
@@ -4080,22 +4080,22 @@ It includes a person who is appointed to exercise the authority of a creditor un
 
 - **(2)** The amount determined under this subsection for an offence under subsection (1) is the greater of
 	- **(a)** the total of
-		- **(i)** $0.165 multiplied by the number of cigarettes to which the offence relates,
-		- **(ii)** $0.121 multiplied by the number of tobacco sticks to which the offence relates,
-		- **(iii)** $0.112 multiplied by the number of grams of manufactured tobacco other than cigarettes or tobacco sticks to which the offence relates, and
-		- **(iv)** $0.284 multiplied by the number of cigars to which the offence relates, and
+		- **(i)** $0.17 multiplied by the number of cigarettes to which the offence relates,
+		- **(ii)** $0.127 multiplied by the number of tobacco sticks to which the offence relates,
+		- **(iii)** $0.116 multiplied by the number of grams of manufactured tobacco other than cigarettes or tobacco sticks to which the offence relates, and
+		- **(iv)** $0.29 multiplied by the number of cigars to which the offence relates, and
 	- **(b)** $1,000 in the case of an indictable offence and $500 in the case of an offence punishable on summary conviction.
 
 **Maximum amount**
 
 - **(3)** The amount determined under this subsection for an offence under subsection (1) is the greater of
 	- **(a)** the total of
-		- **(i)** $0.246 multiplied by the number of cigarettes to which the offence relates,
-		- **(ii)** $0.182 multiplied by the number of tobacco sticks to which the offence relates,
-		- **(iii)** $0.168 multiplied by the number of grams of manufactured tobacco other than cigarettes or tobacco sticks to which the offence relates, and
-		- **(iv)** $0.66 multiplied by the number of cigars to which the offence relates, and
+		- **(i)** $0.255 multiplied by the number of cigarettes to which the offence relates,
+		- **(ii)** $0.19 multiplied by the number of tobacco sticks to which the offence relates,
+		- **(iii)** $0.174 multiplied by the number of grams of manufactured tobacco other than cigarettes or tobacco sticks to which the offence relates, and
+		- **(iv)** $0.67 multiplied by the number of cigars to which the offence relates, and
 	- **(b)** $2,000 in the case of an indictable offence and $1,000 in the case of an offence punishable on summary conviction.
-> 2002, c. 22, s. 216; 2006, c. 4, s. 35.
+> 2002, c. 22, s. 216; 2006, c. 4, s. 35; 2007, c. 35, s. 202.
 
 
 
@@ -4466,10 +4466,10 @@ exceeds
 **Contravention of subsection 50(5)**
 
 **240** Every tobacco licensee who contravenes subsection 50(5) is liable to a penalty equal to the total of
-- **(a)** $0.355548 per cigarette that was removed in contravention of that subsection,
-- **(b)** $0.205 per tobacco stick that was removed in contravention of that subsection, and
-- **(c)** $203.804 per kilogram of manufactured tobacco, other than cigarettes and tobacco sticks, that was removed in contravention of that subsection.
-> 2002, c. 22, s. 240; 2003, c. 15, s. 46; 2006, c. 4, s. 36.
+- **(a)** $0.361448 per cigarette that was removed in contravention of that subsection,
+- **(b)** $0.2105 per tobacco stick that was removed in contravention of that subsection, and
+- **(c)** $207.704 per kilogram of manufactured tobacco, other than cigarettes and tobacco sticks, that was removed in contravention of that subsection.
+> 2002, c. 22, s. 240; 2003, c. 15, s. 46; 2006, c. 4, s. 36; 2007, c. 35, s. 203.
 
 
 
@@ -6249,36 +6249,81 @@ However, nothing in this subsection limits the liability of the transferor under
 **(Section 42)**
 ## Rates of Duty on Tobacco Products
 **1** Cigarettes:
-- **(a)** $0.374875 for each five cigarettes or fraction of five cigarettes contained in any package, if the cigarettes are black stock
-	- **(i)** for delivery by the tobacco licensee who manufactured them to a duty free shop or customs bonded warehouse,
-	- **(ii)** for delivery by the tobacco licensee who manufactured them to a person for use as ships’ stores in accordance with the *Ships’ Stores Regulations*, or
-	- **(iii)** for export by the tobacco licensee who manufactured them for delivery to a foreign duty free shop or as foreign ships’ stores; and
-- **(b)** $0.41025 for each five cigarettes or fraction of five cigarettes contained in any package, in any other case.
+
+**(a)** $0.374875 for each five cigarettes or fraction of five cigarettes contained in any package, if the cigarettes are black stock
+
+**(i)** for delivery by the tobacco licensee who manufactured them to a duty free shop or customs bonded warehouse,
+
+
+
+**(ii)** for delivery by the tobacco licensee who manufactured them to a person for use as ships’ stores in accordance with the [Ships’ Stores Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/96/40.md), or
+
+
+
+**(iii)** for export by the tobacco licensee who manufactured them for delivery to a foreign duty free shop or as foreign ships’ stores; and
+
+
+
+
+
+**(b)** $0.425 for each five cigarettes or fraction of five cigarettes contained in any package, in any other case.
+
+
 
 
 **2** Tobacco sticks:
-- **(a)** $0.054983 per stick, if the tobacco sticks are black stock
-	- **(i)** for delivery by the tobacco licensee who manufactured them to a duty free shop or customs bonded warehouse,
-	- **(ii)** for delivery by the tobacco licensee who manufactured them to a person for use as ships’ stores in accordance with the *Ships’ Stores Regulations,* or
-	- **(iii)** for export by the tobacco licensee who manufactured them for delivery to a foreign duty free shop or as foreign ships’ stores; and
-- **(b)** $0.0605 per stick, in any other case.
+
+**(a)** $0.054983 per stick, if the tobacco sticks are black stock
+
+**(i)** for delivery by the tobacco licensee who manufactured them to a duty free shop or customs bonded warehouse,
+
+
+
+**(ii)** for delivery by the tobacco licensee who manufactured them to a person for use as ships’ stores in accordance with the Ships’ Stores Regulations, or
+
+
+
+**(iii)** for export by the tobacco licensee who manufactured them for delivery to a foreign duty free shop or as foreign ships’ stores; and
+
+
+
+
+
+**(b)** $0.06325 per stick, in any other case.
+
+
 
 
 **3** Manufactured tobacco other than cigarettes and tobacco sticks:
-- **(a)** $49.983 per kilogram, if the manufactured tobacco is black stock
-	- **(i)** for delivery by the tobacco licensee who manufactured it to a duty free shop or customs bonded warehouse,
-	- **(ii)** for delivery by the tobacco licensee who manufactured it to a person for use as ships’ stores in accordance with the *Ships’ Stores Regulations*, or
-	- **(iii)** for export by the tobacco licensee who manufactured it for delivery to a foreign duty free shop or as foreign ships’ stores; and
-- **(b)** $55.90 per kilogram, in any other case.
+
+**(a)** $49.983 per kilogram, if the manufactured tobacco is black stock
+
+**(i)** for delivery by the tobacco licensee who manufactured it to a duty free shop or customs bonded warehouse,
 
 
-**4** Cigars: $16.60 per 1,000 cigars.
+
+**(ii)** for delivery by the tobacco licensee who manufactured it to a person for use as ships’ stores in accordance with the [Ships’ Stores Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/96/40.md), or
+
+
+
+**(iii)** for export by the tobacco licensee who manufactured it for delivery to a foreign duty free shop or as foreign ships’ stores; and
+
+
+
+
+
+**(b)** $57.85 per kilogram, in any other case.
+
+
+
+
+**4** Cigars: $18.50 per 1,000 cigars.
 
 
 **5** Raw leaf tobacco: $1.572 per kilogram.
 
 
-> 2002, c. 22, Sch. 1; 2003, c. 15, ss. 47 to 49; 2006, c. 4, ss. 37 to 40.
+> 2002, c. 22, Sch. 1; 2003, c. 15, ss. 47 to 49; 2006, c. 4, ss. 37 to 40; 2007, c. 35, ss. 204 to 207.
 
 
 
@@ -6290,11 +6335,11 @@ Cigars:
 
 The greater of
 
-**(a)** $0.066 per cigar, and
+**(a)** $0.067 per cigar, and
 
 
 
-**(b)** 66%, computed on
+**(b)** 67%, computed on
 
 **(i)** the sale price, in the case of cigars manufactured in Canada, or
 
@@ -6309,7 +6354,7 @@ The greater of
 
 
 
-> 2002, c. 22, Sch. 2; 2003, c. 15, s. 50; 2006, c. 4, s. 41.
+> 2002, c. 22, Sch. 2; 2003, c. 15, s. 50; 2006, c. 4, s. 41; 2007, c. 35, s. 208.
 
 
 
