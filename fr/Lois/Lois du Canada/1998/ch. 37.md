@@ -39,25 +39,22 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***ADN*** Acide désoxyribonucléique.
 
-
- 
-***adolescent*** S'entend au sens du paragraphe 2(1) de la 
-[Loi sur le système de justice pénale pour les adolescents](/fr/Lois/Lois%20du%20Canada/2002/ch.%201.md) .
+***adolescent*** S’entend, selon le cas, au sens du paragraphe 2(1) de la [Loi sur le système de justice pénale pour les adolescents](/fr/Lois/Lois%20du%20Canada/2002/ch.%201.md) ou du paragraphe 2(1) de la [Loi sur les jeunes contrevenants](/fr/Lois/Lois%20révisées%20du%20Canada/Y/Y-1.md).
 
 ***analyse génétique*** Analyse, à des fins médicolégales, de l’ADN de substances corporelles.
 
+***autorisation*** S’entend au sens des articles 487.055 ou 487.091 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou de l’article 196.24 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md).
 
 ***commissaire*** Le commissaire de la Gendarmerie royale du Canada.
 
+***infraction désignée*** S’entend au sens de l’article 487.04 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou de l’article 196.11 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md).
 
-***infraction désignée*** S’entend au sens de l’article 487.04 du 
-[Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou de l’article 196.11 de la 
-[Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md).
+***[Loi sur les jeunes contrevenants](/fr/Lois/Lois%20révisées%20du%20Canada/Y/Y-1.md)*** Le chapitre Y-1 des Lois révisées du Canada (1985).
 
+***ordonnance*** Ordonnance rendue en vertu de l’article 487.051 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou de l’article 196.14 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md).
 
 ***profil d’identification génétique*** Résultats de l’analyse génétique.
-
-> 1998, ch. 37, art. 2; 2000, ch. 10, art. 4; 2002, ch. 1, art. 187.
+> 1998, ch. 37, art. 2; 2000, ch. 10, art. 4; 2002, ch. 1, art. 187; 2005, ch. 25, art. 14; 2007, ch. 22, art. 27.
 
 
 
@@ -118,12 +115,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Fichier des condamnés**
 
-- **(4)** Le fichier des condamnés contient les profils d’identification génétique établis à partir des substances corporelles visées au paragraphe 487.071(1) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou au paragraphe 196.22(1) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md).
+- **(4)** Le fichier des condamnés contient les profils d’identification génétique établis à partir des substances corporelles prélevées en vertu de toute ordonnance ou autorisation.
 
 **Renseignements supplémentaires**
 
 - **(5)** Outre les profils d’identification génétique visés aux paragraphes (3) et (4), la banque de données contient, à l’égard de chacun d’entre eux, des renseignements à partir desquels peuvent être retrouvés, dans le cas des premiers, le numéro attribué à l’enquête au cours de laquelle a été trouvée la substance corporelle ayant servi à établir le profil et, dans le cas des seconds, l’identité de la personne sur laquelle a été prélevée la substance corporelle ayant servi à établir le profil.
-> 1998, ch. 37, art. 5; 2000, ch. 10, art. 6; 2005, ch. 10, art. 34.
+> 1998, ch. 37, art. 5; 2000, ch. 10, art. 6; 2005, ch. 10, art. 34, ch. 25, art. 15; 2007, ch. 22, art. 28.
 
 
 
@@ -139,10 +136,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** Il procède à l’analyse génétique des substances corporelles qui lui ont été transmises s’il estime que l’infraction mentionnée dans l’ordonnance ou l’autorisation est une infraction désignée et enregistre le profil d’identification génétique obtenu au fichier des condamnés.
 
-**Conservation de l'ordonnance ou de l'autorisation**
+**Conservation de l’ordonnance ou de l’autorisation**
 
-- **(3)** Il conserve le double de l’ordonnance ou de l’autorisation transmis au titre du paragraphe 487.071(2) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou du paragraphe 196.161(2) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md).
-> 2005, ch. 25, art. 16.
+- **(3)** Il conserve le double de l’ordonnance ou de l’autorisation transmis au titre du paragraphe 487.071(2) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou du paragraphe 196.22(2) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md).
+> 2005, ch. 25, art. 16; 2007, ch. 22, art. 29.
 
 
 
@@ -160,9 +157,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** Il procède à l’analyse génétique des substances corporelles si le procureur général ou le directeur des poursuites militaires, selon le cas, lui confirme la validité de l’ordonnance ou de l’autorisation ou lui en transmet une version corrigée.
 
-**Annulation de l’ordonnance ou de l’autorisation**
+**Erreur de fond**
 
-- **(3)** Il détruit sans délai les substances corporelles prélevées en vertu de l’ordonnance ou de l’autorisation et les renseignements qui l’accompagnent en cas d’annulation de l’ordonnance ou de l’autorisation.
+- **(3)** Si le procureur général ou le directeur des poursuites militaires, selon le cas, avise le commissaire que l’infraction mentionnée dans l’ordonnance ou l’autorisation n’est pas une infraction désignée, ce dernier détruit sans délai les substances corporelles prélevées en vertu de l’ordonnance ou de l’autorisation et les renseignements qui l’accompagnent.
 
 **Destruction des substances corporelles et des renseignements**
 
@@ -171,7 +168,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **b)** soit une version corrigée de l’ordonnance ou de l’autorisation;
 	- **c)** soit un avis du procureur général ou du directeur des poursuites militaires, selon le cas, lui demandant un délai supplémentaire — lequel ne peut excéder quatre-vingt-dix jours — pour examiner l’ordonnance ou l’autorisation;
 	- **d)** soit un avis l’informant que la question de savoir si l’ordonnance ou l’autorisation est défectueuse est pendante devant un juge ou un tribunal.
-> 2005, ch. 25, art. 16.
+> 2005, ch. 25, art. 16; 2007, ch. 22, art. 30.
 
 
 
@@ -229,9 +226,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Utilisation restreinte de l’information**
+**Utilisation restreinte de l'information**
 
-**8** Le destinataire de l’information communiquée en application du paragraphe 6(1) ou la personne qui a accès à l’information contenue dans la banque de données en vertu de l’article 7 ne peut l’utiliser que conformément à ce paragraphe ou cet article.
+**8** Le destinataire de l'information communiquée en application des paragraphes 6(1) ou (6.1) ou la personne qui a accès à l'information en vertu de l’article 7 ne peut l’utiliser qu’aux fins visées à ces paragraphes ou à cet article.
+> 1998, ch. 37, art. 8; 2005, ch. 25, art. 17.1.
+
 
 
 
@@ -251,30 +250,28 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Sous réserve du paragraphe (2), de l’article 9.1 et de la [Loi sur le casier judiciaire](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-47.md), tout renseignement contenu dans le fichier des condamnés y est conservé pour une période indéterminée.
 
-**Exception**
+**Radiation**
 
-- **(2)** Il doit être rendu inaccessible une fois pour toutes :
-	- **a)** s’il concerne une personne déclarée coupable d’une infraction désignée, dès que la déclaration de culpabilité est annulée et qu’un verdict d’acquittement définitif est consigné;
-	- **b)** s’il concerne une personne absoute, en vertu de l’article 730 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), d’une infraction désignée :
-		- **(i)** un an après son absolution inconditionnelle, si elle n’a pas été déclarée coupable d’une autre infraction au cours de cette année,
-		- **(ii)** trois ans après son absolution sous conditions, si elle n’a pas été déclarée coupable d’une autre infraction au cours de ces trois années.
-	- **c) à e)** [Abrogés, 2000, ch. 10, art. 8]
-> 1998, ch. 37, art. 9; 2000, ch. 10, art. 8.
+- **(2)** Il doit être rendu inaccessible une fois pour toutes dans les délais suivants :
+	- **a)** sans délai après l’annulation de façon définitive de toutes les ordonnances ou autorisations de prélèvement de substances corporelles sur l’intéressé;
+	- **b)** sans délai après le verdict d’acquittement définitif de l’intéressé à l’égard de toutes les infractions désignées ayant fait l’objet d’une ordonnance ou d’une autorisation;
+	- **c)** un an après l’absolution inconditionnelle ou trois ans après l’absolution sous conditions, en vertu de l’article 730 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), si l’intéressé, ne faisant pas l’objet d’une ordonnance ou d’une autorisation à l’égard d’une autre infraction désignée, n’a pas, au cours de la période en cause, fait l’objet d’un verdict de culpabilité ou de non-responsabilité criminelle pour cause de troubles mentaux à l’égard d’une infraction désignée.
+> 1998, ch. 37, art. 9; 2000, ch. 10, art. 8; 2005, ch. 25, art. 18; 2007, ch. 22, art. 32.
 
 
 
 
 
-**Durée de conservation — jeunes contrevenants**
+**Conservation des renseignements — adolescents**
 
 **9.1** 
 
-- **(1)** Tout renseignement contenu dans le fichier des condamnés qui concerne un adolescent déclaré coupable, sous le régime de la [Loi sur les jeunes contrevenants](/fr/Lois/Lois%20révisées%20du%20Canada/Y/Y-1.md), d’une infraction désignée doit être rendu définitivement inaccessible au moment où les derniers éléments du dossier de l’adolescent qui ont trait à cette infraction doivent être détruits au titre des paragraphes 45(2), 45.02(3) ou 45.03(3) de cette loi.
+- **(1)** Tout renseignement contenu dans le fichier des condamnés qui concerne un adolescent déclaré coupable, sous le régime de la [Loi sur les jeunes contrevenants](/fr/Lois/Lois%20révisées%20du%20Canada/Y/Y-1.md) ou de la [Loi sur le système de justice pénale pour les adolescents](/fr/Lois/Lois%20du%20Canada/2002/ch.%201.md), d’une infraction désignée doit être rendu inaccessible une fois pour toutes au moment où le dossier de l’adolescent qui a trait à cette infraction doit être détruit, scellé ou transmis à l’archiviste national au titre de la partie 6 de la [Loi sur le système de justice pénale pour les adolescents](/fr/Lois/Lois%20du%20Canada/2002/ch.%201.md).
 
 **Exception**
 
-- **(2)** Toutefois, l’article 9 s’applique à tout renseignement contenu dans ce fichier et qui concerne le dossier d’un adolescent auquel s’applique l’article 45.01 ou le paragraphe 45.02(2) de la [Loi sur les jeunes contrevenants](/fr/Lois/Lois%20révisées%20du%20Canada/Y/Y-1.md).
-> 2000, ch. 10, art. 9.
+- **(2)** Toutefois, l’article 9 s’applique à tout renseignement contenu dans ce fichier qui a trait soit à une infraction désignée, au sens du paragraphe 2(1) de la [Loi sur le système de justice pénale pour les adolescents](/fr/Lois/Lois%20du%20Canada/2002/ch.%201.md), soit au dossier d’un adolescent auquel s’applique le paragraphe 120(6) de cette loi.
+> 2000, ch. 10, art. 9; 2005, ch. 25, art. 19.
 
 
 
@@ -284,15 +281,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **10** 
 
-- **(1)** Lorsque des substances corporelles lui sont transmises conformément au paragraphe 487.071(2) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou au paragraphe 196.22(2) de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md), le commissaire doit, sous réserve des autres dispositions du présent article ou de l’article 10.1, entreposer en lieu sûr, aux fins de l’analyse génétique, les parties d’échantillons qu’il juge utiles et détruire sans délai les autres.
+- **(1)** Sous réserve des autres dispositions du présent article ou de l’article 10.1, le commissaire entrepose en lieu sûr, aux fins de l’analyse génétique, les parties d’échantillons des substances corporelles transmises conformément à l’article 487.071 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) ou à l’article 196.22 de la [Loi sur la défense nationale](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-5.md) qu’il juge utiles et détruit sans délai les autres.
 
 **Progrès technique**
 
 - **(2)** L’analyse génétique des substances corporelles ainsi entreposées peut être effectuée lorsque le commissaire estime qu’elle est justifiée en raison des progrès techniques importants intervenus depuis que le profil d’identification génétique de la personne qui a fourni les substances ou sur qui elles ont été prélevées a été établi pour la dernière fois.
 
-**Transmission et utilisation des profils**
-
-- **(3)** Les profils d’identification génétique établis à partir des substances corporelles entreposées sont transmis au commissaire pour dépôt au fichier des condamnés; ils ne peuvent être utilisés qu’à cette seule fin.
+- **(3)** [Abrogé, 2005, ch. 25, art. 20]
 
 **Accès**
 
@@ -308,32 +303,30 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Destruction obligatoire dans certaines circonstances**
 
-- **(7)** Il est cependant tenu de les détruire dans les délais mentionnés ci-dessous :
-	- **a)** dès l’annulation de la déclaration de culpabilité et la consignation du verdict d’acquittement définitif, dans le cas où la personne dont elles proviennent a été déclarée coupable d’une infraction désignée;
-	- **b)** dans le cas où elle a été absoute, en vertu de l’article 730 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), d’une infraction désignée :
-		- **(i)** un an après son absolution inconditionnelle, si elle n’a pas été déclarée coupable d’une autre infraction au cours de cette année,
-		- **(ii)** trois ans après son absolution sous conditions, si elle n’a pas été déclarée coupable d’une autre infraction au cours de ces trois années.
-	- **c) à e)** [Abrogés, 2000, ch. 10, art. 10]
+- **(7)** Il est cependant tenu de les détruire dans les délais suivants :
+	- **a)** sans délai après l’annulation de façon définitive de toutes les ordonnances ou autorisations de prélèvement de substances corporelles sur l’intéressé;
+	- **b)** sans délai après le verdict d’acquittement définitif de l’intéressé à l’égard de toutes les infractions désignées qui ont fait l’objet d’une ordonnance ou d’une autorisation;
+	- **c)** un an après l’absolution inconditionnelle ou trois ans après l’absolution sous conditions, en vertu de l’article 730 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), si l’intéressé, ne faisant pas l’objet d’une ordonnance ou d’une autorisation à l’égard d’une autre infraction désignée, n’a pas, au cours de la période en cause, fait l’objet d’un verdict de culpabilité ou de non-responsabilité criminelle pour cause de troubles mentaux à l’égard d’une infraction désignée.
 
 **Réhabilitation**
 
 - **(8)** Malgré toute autre disposition du présent article, dans le cas où elles proviennent d’une personne ayant bénéficié d’une réhabilitation au sens de la [Loi sur le casier judiciaire](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-47.md), les substances corporelles entreposées doivent être conservées à part et il est interdit d’en révéler l’existence ou de les utiliser pour analyse génétique.
-> 1998, ch. 37, art. 10; 2000, ch. 10, art. 10. .
+> 1998, ch. 37, art. 10; 2000, ch. 10, art. 10; 2005, ch. 25, art. 20; 2007, ch. 22, art. 33.
 
 
 
 
 
-**Destruction des substances — jeunes contrevenants**
+**Destruction des substances — adolescents**
 
 **10.1** 
 
-- **(1)** Les substances corporelles d’un adolescent déclaré coupable, sous le régime de la [Loi sur les jeunes contrevenants](/fr/Lois/Lois%20révisées%20du%20Canada/Y/Y-1.md), d’une infraction désignée doivent être détruites au moment où les derniers éléments du dossier de l’adolescent qui ont trait à cette infraction doivent être détruits au titre des paragraphes 45(2), 45.02(3) ou 45.03(3) de cette loi.
+- **(1)** Les substances corporelles d’un adolescent déclaré coupable, sous le régime de la [Loi sur les jeunes contrevenants](/fr/Lois/Lois%20révisées%20du%20Canada/Y/Y-1.md) ou de la [Loi sur le système de justice pénale pour les adolescents](/fr/Lois/Lois%20du%20Canada/2002/ch.%201.md), d’une infraction désignée doivent être détruites au moment où le dossier de l’adolescent qui a trait à cette infraction doit être détruit, scellé ou transmis à l’archiviste national au titre de la partie 6 de la [Loi sur le système de justice pénale pour les adolescents](/fr/Lois/Lois%20du%20Canada/2002/ch.%201.md).
 
 **Exception**
 
-- **(2)** Toutefois, les paragraphes 10(6) et (7) s’appliquent à la destruction des substances corporelles qui ont trait au dossier d’un adolescent auquel s’applique l’article 45.01 ou le paragraphe 45.02(2) de la [Loi sur les jeunes contrevenants](/fr/Lois/Lois%20révisées%20du%20Canada/Y/Y-1.md).
-> 2000, ch. 10, art. 11.
+- **(2)** Toutefois, les paragraphes 10(6) et (7) s’appliquent à la destruction des substances corporelles qui ont trait soit à une infraction désignée, au sens du paragraphe 2(1) de la [Loi sur le système de justice pénale pour les adolescents](/fr/Lois/Lois%20du%20Canada/2002/ch.%201.md), soit au dossier d’un adolescent auquel s’applique le paragraphe 120(6) de cette loi.
+> 2000, ch. 10, art. 11; 2005, ch. 25, art. 21.
 
 
 
@@ -341,9 +334,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Infraction**
 
-**11** Quiconque contrevient aux paragraphes 6(6) ou (7), à l’article 8 ou aux paragraphes 10(3) ou (5) est coupable, selon le cas :
+**11** Quiconque contrevient aux paragraphes 6(6) ou (7), à l’article 8 ou au paragraphe 10(5) est coupable, selon le cas :
 - **a)** d’un acte criminel et passible d’un emprisonnement maximal de deux ans;
 - **b)** d’une infraction punissable sur déclaration de culpabilité par procédure sommaire et passible d’une amende maximale de 2 000 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines.
+> 1998, ch. 37, art. 11; 2005, ch. 25, art. 22.
+
 
 
 
