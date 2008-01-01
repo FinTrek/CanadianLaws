@@ -199,16 +199,19 @@ suivant que le choisit le bénéficiaire, avec intérêt au taux de quatre pour 
 ### Taux annuel de traitement maximal
 
 
-**5.1** Pour l’application de l’alinéa 5(3)d) de la Loi, nulle personne ne peut contribuer au compte de pension de retraite en ce qui regarde la partie de son taux annuel de traitement qui dépasse le montant déterminé selon la formule suivante, arrondi à la centaine supérieure :
+**5.1** Pour l’application de l’alinéa 5(6)b) de la Loi,  le taux annuel de traitement correspond à la somme établie selon la formule ci-après, arrondie à la centaine supérieure :
 ```
-(A - 0,013B) ÷ (0,02) + B
+(A - (B×C)) ÷ (0,02) + C
 ```
- où
+où :
 - **A** représente :
-- **a)** à l’égard du traitement qu’elle a reçu pour les années 1994 ou 1995, 1 722,22 $
-- **b)** à l’égard du traitement qu’elle a reçu pour toute année après 1995, le montant du plafond des prestations déterminées au sens du paragraphe 8500(1) du [Règlement de l’impôt sur le revenu](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/901-1000/C.R.C.,%20ch.%20945.md);
-- **B** le montant du maximum des gains annuels ouvrant droit à pension de cette personne pour l’année en cause, déterminé conformément à l’article 18 du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md).
-> DORS/94-767, art. 1.
+- **a)** à l’égard du traitement que la personne a reçu pour les années 1994 ou 1995, 1 722,22 $,
+- **b)** à l’égard du traitement qu’elle a reçu pour toute année postérieure à 1995, le montant du plafond des prestations déterminées pour l’année en cause, établi conformément à la définition de ***plafond des prestations déterminées*** qui figure au paragraphe 8500(1) du [Règlement de l’impôt sur le revenu](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/901-1000/C.R.C.,%20ch.%20945.md);
+- **B** 
+- **a)** à l’égard du traitement que la personne a reçu pour toute année postérieure à 1993 et antérieure à 2008, 0,013,
+- **b)** à l’égard du traitement qu’elle a reçu pour toute année postérieure à 2007, 0,01375,
+- **C ** le montant du maximum des gains annuels ouvrant droit à pension pour l’année en cause, établi conformément à l’article 18 du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md).
+> DORS/94-767, art. 1; DORS/2008-1, art. 1.
 
 
 
@@ -564,13 +567,16 @@ la somme reçue par le gouvernement du Canada aux termes de l’entente mentionn
 ### Par les corporations
 
 
-**9** Le président du Conseil du Trésor détermine le montant que doit verser, conformément à l’article 37 de la Loi, un organisme de la fonction publique ou tout autre organisme mentionnés à l’annexe I, selon les dispositions suivantes :
+**9** Le montant que doit verser, conformément à l’article 37 de la Loi, l’organisme de la fonction publique ou tout autre organisme mentionné à l’annexe I, correspond à ce qui suit :
 - **a)** dans le cas de contributions d’un employé à l’égard d’une période de service courant antérieure au 1<sup>er</sup> avril 2000, un montant égal au montant des contributions que l’employé est tenu de verser, à moins que l’employé ne verse, à l’égard de cette période, un montant égal au double de celui qu’il aurait été tenu de verser en vertu de l’article 5 de la Loi et, le cas échéant, en vertu de l’article 65 de la Loi dans sa version au 31 décembre 1999;
 - **b)** dans le cas de contributions d’un employé à l’égard de toute période de service accompagné d’option qui est visée à l’alinéa 6(1)b) de la Loi et pour laquelle l’option est exercée avant le 1<sup>er</sup> avril 2000, un montant égal au montant des contributions et intérêts que l’employé est tenu de verser, à moins que l’employé ne soit tenu de verser, à l’égard de cette période, un montant égal au double de celui qu’il aurait été tenu de verser à l’égard d’une période semblable de service courant;
-- **c)** dans le cas de contributions d’un employé à l’égard d’une période de service courant postérieure au 31 mars 2000, un montant égal à 2,14 fois le montant des contributions que l’employé est tenu de verser, à moins que l’employé ne verse, à l’égard de cette période, un montant égal au double de celui qu’il aurait été tenu de verser en vertu de l’article 5 de la Loi;
-- **d)** dans le cas de contributions d’un employé à l’égard de toute période de service accompagné d’option qui est visée à l’alinéa 6(1)b) de la Loi et pour laquelle l’option est exercée après le 31 mars 2000, un montant égal à 2,14 fois le montant des contributions et intérêts que l’employé est tenu de verser, à moins que l’employé ne soit tenu de verser, à l’égard de cette période, un montant égal au double de celui qu’il aurait été tenu de verser à l’égard d’une période semblable de service courant;
-- **e)** dans les cas visés aux alinéas c) ou d) où l’employé est tenu de verser une contribution double, un montant égal à 0,56 fois le montant des contributions et intérêts que l’employé est tenu de verser à l’égard de la période de service visée à l’alinéa pertinent.
-> DORS/93-450, art. 11(F) et 12; DORS/2000-137, art. 1.
+- **c)** dans le cas de contributions d’un employé à l’égard d’une période de service courant commençant après le 31 mars 2000 et se terminant avant le 1<sup>er</sup> janvier 2008, un montant égal à 2,14 fois le montant des contributions que l’employé est tenu de verser, à moins que l’employé ne verse, à l’égard de cette période, un montant égal au double de celui qu’il aurait été tenu de verser au titre de l’article 5 de la Loi;
+- **d)** dans le cas de contributions d’un employé à l’égard de toute période de service accompagné d’option visée à l’alinéa 6(1)b) de la Loi pour laquelle l’option est exercée après le 31 mars 2000 et avant le 1<sup>er</sup> janvier 2008, un montant égal à 2,14 fois le montant des contributions et intérêts que l’employé est tenu de verser, à moins que celui-ci ne soit tenu de verser, à l’égard de cette période, un montant égal au double de celui qu’il aurait été tenu de verser à l’égard d’une période semblable de service courant;
+- **e)** dans les cas visés aux alinéas c) ou d) où l’employé est tenu de verser une contribution double, un montant égal à 0,56 fois le montant des contributions et intérêts que l’employé est tenu de verser à l’égard de la période de service visée à l’alinéa pertinent;
+- **f)** dans le cas de contributions d’un employé à l’égard d’une période de service courant commençant le 1<sup>er</sup> janvier 2008 ou après cette date, le montant obtenu par leur multiplication par le même multiplicateur que celui qui a servi à déterminer le montant à déposer à la Caisse de retraite de la fonction publique conformément à l’alinéa 44.2(3)a) de la Loi, à moins que l’employé ne soit tenu de verser, à l’égard de cette période, un montant correspondant au double de celui qu’il aurait été tenu de verser au titre de l’article 5 de la Loi;
+- **g)** dans le cas de contributions d’un employé à l’égard d’une période de service accompagné d’option visée à l’alinéa 6(1)b) de la Loi pour laquelle l’option a été exercée le 1<sup>er</sup> janvier 2008 ou après cette date, le montant obtenu par leur multiplication par le même multiplicateur que celui qui a servi à déterminer le montant à déposer à la Caisse de retraite de la fonction publique conformément à l’alinéa 44.2(3)b) de la Loi, à moins que l’employé ne soit tenu de verser, à l’égard de cette période, un montant correspondant au double de celui qu’il aurait été tenu de verser à l’égard d’une période semblable de service courant;
+- **h)** dans le cas de contributions de l’employé qui est tenu de verser, à l’égard de la période de service visée à l’alinéa f) ou g), le double du montant qu’il aurait normalement été tenu de verser, le montant obtenu par leur multiplication par le même multiplicateur que celui qui a servi à déterminer le montant à déposer à la Caisse de retraite de la fonction publique conformément au paragraphe 44.2(3) de la Loi.
+> DORS/93-450, art. 11(F) et 12; DORS/2000-137, art. 1; DORS/2007-306, art. 1.
 
 
 
