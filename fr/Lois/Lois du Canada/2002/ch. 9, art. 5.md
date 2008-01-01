@@ -241,37 +241,37 @@ Sanctionnée sur le 27 mars 2002
 **12** 
 
 - **(1)** Sous réserve du paragraphe (3), si un service de transport aérien est acquis au Canada, le droit relatif au service correspond à :
-	- **a)** 4,67 $ pour chaque embarquement assujetti compris dans le service, jusqu’à concurrence de 9,34 $, si, à la fois :
+	- **a)** 4,67 $ pour chaque embarquement assujetti compris dans le service, jusqu’à concurrence de 9,33 $, si, à la fois :
 		- **(i)** le service ne comprend pas le transport vers une destination à l’étranger,
 		- **(ii)** la taxe prévue au paragraphe 165(1) de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) doit être payée relativement au service;
-	- **b)** 4,95 $ pour chaque embarquement assujetti compris dans le service, jusqu’à concurrence de 9,90 $, si, à la fois :
+	- **b)** 4,90 $ pour chaque embarquement assujetti compris dans le service, jusqu’à concurrence de 9,80 $, si, à la fois :
 		- **(i)** le service ne comprend pas le transport vers une destination à l’étranger,
 		- **(ii)** la taxe prévue au paragraphe 165(1) de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) n’a pas à être payée relativement au service;
-	- **c)** 7,94 $ pour chaque embarquement assujetti compris dans le service, jusqu’à concurrence de 15,89 $, si, à la fois :
+	- **c)** 7,94 $ pour chaque embarquement assujetti compris dans le service, jusqu’à concurrence de 15,89 $, si, à la fois :
 		- **(i)** le service comprend le transport vers une destination à l’étranger et ne comprend pas le transport vers une destination à l’extérieur de la zone continentale,
 		- **(ii)** la taxe prévue au paragraphe 165(1) de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) doit être payée relativement au service;
-	- **d)** 8,42 $ pour chaque embarquement assujetti compris dans le service, jusqu’à concurrence de 16,84 $, si, à la fois :
+	- **d)** 8,34 $ pour chaque embarquement assujetti compris dans le service, jusqu’à concurrence de 16,68 $, si, à la fois :
 		- **(i)** le service comprend le transport vers une destination à l’étranger et ne comprend pas le transport vers une destination à l’extérieur de la zone continentale,
 		- **(ii)** la taxe prévue au paragraphe 165(1) de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) n’a pas à être payée relativement au service;
-	- **e)** 17 $, si le service comprend le transport vers une destination à l’extérieur de la zone continentale.
+	- **e)** 17 $, si le service comprend le transport vers une destination à l’extérieur de la zone continentale.
 
 **Droit — service acquis à l’étranger**
 
 - **(2)** Sous réserve du paragraphe (3), si un service de transport aérien est acquis à l’étranger, le droit relatif au service correspond à :
-	- **a)** 7,94 $ pour chaque embarquement assujetti d’un particulier à bord d’un aéronef utilisé pour le transport du particulier vers une destination à l’étranger, mais à l’intérieur de la zone continentale, jusqu’à concurrence de 15,89 $, si, à la fois :
+	- **a)** 7,94 $ pour chaque embarquement assujetti d’un particulier à bord d’un aéronef utilisé pour le transport du particulier vers une destination à l’étranger, mais à l’intérieur de la zone continentale, jusqu’à concurrence de 15,89 $, si, à la fois :
 		- **(i)** le service ne comprend pas le transport vers une destination à l’extérieur de la zone continentale,
 		- **(ii)** la taxe prévue au paragraphe 165(1) de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) doit être payée relativement au service;
-	- **b)** 8,42 $ pour chaque embarquement assujetti d’un particulier à bord d’un aéronef utilisé pour le transport du particulier vers une destination à l’étranger, mais à l’intérieur de la zone continentale, jusqu’à concurrence de 16,84 $, si, à la fois :
+	- **b)** 8,34 $ pour chaque embarquement assujetti d’un particulier à bord d’un aéronef utilisé pour le transport du particulier vers une destination à l’étranger, mais à l’intérieur de la zone continentale, jusqu’à concurrence de 16,68 $, si, à la fois :
 		- **(i)** le service ne comprend pas le transport vers une destination à l’extérieur de la zone continentale,
 		- **(ii)** la taxe prévue au paragraphe 165(1) de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) n’a pas à être payée relativement au service;
-	- **c)** 17 $, si le service comprend le transport vers une destination à l’extérieur de la zone continentale.
+	- **c)** 17 $, si le service comprend le transport vers une destination à l’extérieur de la zone continentale.
 
 **Droit déterminé par règlement**
 
 - **(3)** Le droit relatif à un service de transport aérien visé par règlement correspond au moins élevé des montants suivants :
 	- **a)** le montant déterminé relativement au service en application des paragraphes (1) ou (2), selon le cas;
 	- **b)** le montant déterminé par règlement, ou déterminé selon des règles prévues par règlement, relativement au service.
-> 2002, ch. 9, art. 5 « 12 »; 2003, ch. 15, art. 44; 2005, ch. 19, art. 2, ch. 30, art. 20; 2006, ch. 4, art. 33.
+> 2002, ch. 9, art. 5 « 12 »; 2003, ch. 15, art. 44; 2005, ch. 19, art. 2, ch. 30, art. 20; 2006, ch. 4, art. 33; 2007, ch. 35, art. 196.
 
 
 
