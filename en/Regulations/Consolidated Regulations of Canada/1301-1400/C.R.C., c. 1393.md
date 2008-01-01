@@ -363,16 +363,19 @@ where
 ## Maximum Salary
 
 
-**8.1** For the purposes of subsection 5(9) of the Act, no person shall contribute to the Superannuation Account or the Royal Canadian Mounted Police Pension Fund in respect of any portion of the person’s annual rate of pay that is in excess of the amount determined by the formula
+**8.1** For the purposes of subsection 5(9) of the Act, the annual rate of pay is equal to the amount determined by the following formula and rounded to the next highest multiple of $100:
 ```
-(A – 0.013B) ÷ (0.02) + B
+(A – (B x C)) ÷ (0.02) + C
 ```
-and rounded to the next highest multiple of $100, where
+where
 - **A** is
-- **(a)** in respect of pay received in 1995, $1,722.22, and
-- **(b)** in respect of pay received in any year after 1995, the amount of the defined benefit limit determined for that year pursuant to subsection 8500(1) of the [Income Tax Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/901-1000/C.R.C.,%20c.%20945.md); and
-- **B** is the Year's Maximum Pensionable Earnings for that year determined pursuant to section 18 of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md).
->  SOR/95-119, s. 1; SOR/2006-134, s. 3.
+- **(a)** in respect of pay received by the person for 1995, $1,722.22, and
+- **(b)** in respect of pay received by the person for any year after 1995, the amount of the defined benefit limit determined for that year in accordance with the definition ***defined benefit limit*** in subsection 8500(1) of the [Income Tax Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/901-1000/C.R.C.,%20c.%20945.md);
+- **B** is
+- **(a)** in respect of pay received by the person for any year after 1994 and before 2008, 0.013, and
+- **(b)** in respect of pay received by the person for any year after 2007, 0.01375; and
+- **C** is the Year’s Maximum Pensionable Earnings determined for that year in accordance with section 18 of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md).
+>  SOR/95-119, s. 1; SOR/2006-134, s. 3; SOR/2007-283, s. 1.
 
 
 
@@ -710,28 +713,36 @@ A/50 x B x C/D
 ```
 where
 - **A** is the number of years in the segment;
-- **B** is
-- **(a)** in respect of pensionable service credited to the contributor before December 16, 1994, the average annual pay during any period selected by or on behalf of the contributor consisting of consecutive periods of pensionable service totalling five years or those years of pensionable service that the contributor has if the contributor has less, and
-- **(b)** in respect of pensionable service credited to the contributor after December 15, 1994, the lesser of
-- **(i)** the average annual pay referred to in paragraph (a), and
-- **(ii)** the amount determined under section 8.1 of the Royal Canadian Mounted Police Superannuation Regulations as it read on the day on which the contributor most recently ceased to be a member of the Force;
+- **B** is the average annual pay during any period selected by or on behalf of the contributor consisting of consecutive periods of pensionable service totalling five years or those years of pensionable service that the contributor has if the contributor has less, that pay being calculated, in respect of pensionable service credited to the contributor after December 15, 1994, without taking into account that part of the annual rate of pay that exceeds the amount determined in accordance with section 8.1 of the Royal Canadian Mounted Police Superannuation Regulations;
 - **C** is the weekly average of the hours of work, determined in accordance with section 5.3 of those Regulations, for which the contributor was engaged during the segment; and
 - **D** is the normal number of hours of work per week for full-time members.
 
-- **(2)** In respect of a contributor who has been a part-time member or a part-time employee during the contributor’s period of pensionable service, there shall be a deduction from the amount of the annuity, if the contributor has reached the age of 65 years or has become entitled to a disability pension under the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md) or a provincial pension plan, determined in accordance with the following formula for each segment of the period during which the value of variable “C” changes:
+- **(2)** In respect of a contributor who has been a part-time member or a part-time employee during the contributor’s period of pensionable service, there shall be a deduction from the amount of the annuity, if the contributor has reached the age of 65 years or has become entitled to a disability pension under the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md) or a provincial pension plan, determined in accordance with the following formula for each segment of the period during which the value of variable “E” changes:
 ```
-0.007 x A x B x C/D
+A × B × C
 ```
 where
-- **A** is the lesser of the number of years, credited to the contributor, in the segment after 1965 or after the contributor has attained the age of 18 years;
-- **B** is the lesser of
-- **(a)** the average annual pay referred to in paragraph (a) of variable “B” in subsection (1), and
-- **(b)** the average of the Year’s Maximum Pensionable Earnings, within the meaning of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), for five years consisting of the year in which the contributor most recently ceased to be a member of the Force and the four preceding years;
-- **C** is the weekly average of the hours of work, determined in accordance with section 5.3 of the Royal Canadian Mounted Police Superannuation Regulations, for which the contributor was engaged during the segment; and
-- **D** is the normal number of hours of work per week for full-time members.
+- **A** is
+- **(a)** if the contributor was born before 1943, 0.007,
+- **(b)** if the contributor was born in 1943, 0.00685,
+- **(c)** if the contributor was born in 1944, 0.0067,
+- **(d)** if the contributor was born in 1945, 0.00655,
+- **(e)** if the contributor was born in 1946, 0.0064, or
+- **(f)** if the contributor was born after 1946, 0.00625;
+- **B** is the lesser of the number of years, credited to the contributor, in the segment after 1965 or after the contributor has attained the age of 18 years; and
+- **C** is the lesser of
+- **(a)** the average of the Year’s Maximum Pensionable Earnings, within the meaning of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), for five years consisting of the year in which the contributor most recently ceased to be a member of the Force and the four preceding years, and
+- **(b)** an amount determined in accordance with the following formula:
+```
+D × E/F
+```
+where
+- **D** is the average annual pay referred to in variable “B” in subsection (1),
+- **E** is the weekly average of the hours of work, determined in accordance with section 5.3 of the Royal Canadian Mounted Police Superannuation Regulations, for which the contributor was engaged during the segment, and
+- **F** is the normal number of hours of work per week for full-time members.
 
 
-> SOR/2006-134, s. 5.
+> SOR/2006-134, s. 5; SOR/2007-283, s. 2.
 
 
 
@@ -740,7 +751,7 @@ where
 
 - **(1)** For the purposes of subsections 10(1) to (3) of the Act as adapted by section 17.2, the pay of the contributor shall be the pay authorized to be paid to the contributor if the contributor was a full-time member at the following times:
 	- **(a)** on the most recent occasion on which the contributor became a contributor, in the case of any period of service or part of a period of service referred to in clause 6(b)(ii)(C), (D), (E), (G) or (N) of the Act, despite paragraph 10(4)(a) of the Act;
-	- **(b)** on the day on which the contributor made the election, in the case of any period of service or part of a period of service referred to in clause 6(b)(ii)(K) of the Act, or referred to in clause 6(b)(ii)(C), (D), (E), (G), (I) or (N) of the Act in respect of which the contributor has made an election under clause 6(b)(ii)(J) of the Act, despite paragraph 10(4)(a) of the Act;
+	- **(b)** on the day on which the contributor made the election, in the case of any period of service or part of a period of service referred to in clause 6(b)(ii)(C), (D), (E), (G) or (N) of the Act in respect of which the contributor has made an election under clause 6(b)(ii)(J) of the Act, despite paragraph 10(4)(a) of the Act;
 	- **(c)** on the day before the day on which clause 6(b)(ii)(M) of the Act, as enacted by subsection 172(4) of the [Public Sector Pension Investment Board Act](/en/Acts/Statutes%20of%20Canada/1999/c.%2034.md), being chapter 34 of the Statutes of Canada, 1999, comes into force, in the case of any period of service or part of a period of service referred to in that clause; or
 	- **(d)** during any other period of service or part of a period of service.
 
@@ -752,7 +763,7 @@ where
 - **A** is the pay that would have been authorized to be paid to the contributor if the contributor had been a full-time member at that time;
 - **B** is the weekly average of the hours of work for which the contributor was engaged; and
 - **C** is the total of the weekly averages of the hours of work for which the contributor was engaged in all positions.
-> SOR/2006-134, s. 5.
+> SOR/2006-134, s. 5; SOR/2007-283, s. 3.
 
 
 
@@ -776,14 +787,12 @@ A x B x C/D x 1%
 ```
 where
 - **A** is the number of years of the segment;
-- **B** is
-- **(a)** in respect of pensionable service credited to the contributor before December 16, 1994, the average annual pay during any period selected by or on behalf of the contributor consisting of consecutive periods of pensionable service totalling five years or those years of pensionable service that the contributor has if the contributor has less, and
-- **(b)** in respect of pensionable service credited to the contributor after December 15, 1994, the lesser of
-- **(i)** the average annual pay referred to in paragraph (a), and
-- **(ii)** the amount determined under section 8.1 of the Royal Canadian Mounted Police Superannuation Regulations as it read on the day on which the contributor most recently ceased to be a member of the Force;
+- **B** is the average annual pay during any period selected by or on behalf of the contributor consisting of consecutive periods of pensionable service totalling five years or those years of pensionable service that the contributor has if the contributor has less, that pay being calculated, in respect of pensionable service credited to the contributor after December 15, 1994, without taking into account that part of the annual rate of pay that exceeds the amount determined in accordance with section 8.1 of the Royal Canadian Mounted Police Superannuation Regulations;
 - **C** is the weekly average of the hours of work, determined in accordance with section 5.3 of those Regulations, for which the contributor was engaged during the segment; and
 - **D** is the normal number of hours of work per week for full-time members.
-> SOR/2006-134, s. 5.
+
+- **(1.2)** For the purposes of variable “B” in subsection (1.1), the pay of the contributor shall be determined in accordance with section 17.3 of the Royal Canadian Mounted Police Superannuation Regulations.
+> SOR/2006-134, s. 5; SOR/2007-283, s. 4.
 
 
 
