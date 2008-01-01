@@ -4078,18 +4078,18 @@ et comme étant certifié par la Commission ou une personne employée en applica
 
 **144** Les définitions qui suivent s’appliquent à la présente partie.
 
-***année d’imposition*** S’entend au sens de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md).
+***année d’imposition*** S’entend au sens de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md). (*taxation year*)
 
-***ministre*** Le ministre du Revenu national.
+***ministre*** Le ministre du Revenu national. (*Minister*)
 
-***personne*** S’entend au sens du paragraphe 248(1) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md).
+***personne*** S’entend au sens du paragraphe 248(1) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md). (*person*)
 
-***prestations*** Prestations payables en vertu de la présente loi, compte non tenu de la présente partie.
+***prestations*** Prestations payables en vertu de la présente loi, compte non tenu de la présente partie. (*benefits*)
 
-***remboursement de prestations*** Le montant déterminé en vertu de l’article 145.
+***remboursement de prestations*** Le montant déterminé en vertu de l’article 145. (*benefit repayment*)
 
-***revenu*** Le montant qui serait le revenu d’une personne pour une période, déterminé en application de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), si aucun montant n’était déductible selon les alinéas 60v.1), w), et y) de cette loi, ni inclus au titre d’un gain provenant d’une disposition de bien auquel l’article 79 de la même loi s’applique ou au titre du paragraphe 56(6) de la même loi.
-> 1996, ch. 23, art. 144; 2006, ch. 4, art. 172.
+***revenu*** Le montant qui serait le revenu d’une personne pour une période, déterminé en application de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), si aucun montant n’était déductible selon les alinéas 60v.1), w), y) et z) de cette loi, ni inclus au titre d’un gain provenant d’une disposition de bien auquel l’article 79 de la même loi s’applique ou au titre de l’alinéa 56(1)q.1) ou du paragraphe 56(6) de la même loi. (*income*)
+> 1996, ch. 23, art. 144; 2006, ch. 4, art. 172; 2007, ch. 35, art. 128.
 
 
 
