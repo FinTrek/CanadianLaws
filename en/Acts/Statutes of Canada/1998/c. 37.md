@@ -37,6 +37,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **2** The definitions in this section apply in this Act.
 
+***authorization*** means an authorization made under section 487.055 or 487.091 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or section 196.24 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md).
+
 ***Commissioner*** means the Commissioner of the Royal Canadian Mounted Police.
 
 ***designated offence*** means a designated offence within the meaning of section 487.04 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or section 196.11 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md).
@@ -47,9 +49,12 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***forensic DNA analysis***, in relation to a bodily substance, means forensic DNA analysis of the bodily substance.
 
-***young person***  has the meaning assigned by subsection 2(1) of the 
-[Youth Criminal Justice Act](/en/Acts/Statutes%20of%20Canada/2002/c.%201.md) .
-> 1998, c. 37, s. 2; 2000, c. 10, s. 4; 2002, c. 1, s. 187.
+***order*** means an order made under section 487.051 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or section 196.14 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md).
+
+***[Young Offenders Act](/en/Acts/Revised%20Statutes%20of%20Canada/Y/Y-1.md)*** means chapter Y-1 of the Revised Statutes of Canada, 1985.
+
+***young person*** has the meaning assigned by subsection 2(1) of the [Youth Criminal Justice Act](/en/Acts/Statutes%20of%20Canada/2002/c.%201.md) or subsection 2(1) of the [Young Offenders Act](/en/Acts/Revised%20Statutes%20of%20Canada/Y/Y-1.md), as the case may be.
+> 1998, c. 37, s. 2; 2000, c. 10, s. 4; 2002, c. 1, s. 187; 2005, c. 25, s. 14; 2007, c. 22, s. 27.
 
 
 
@@ -110,14 +115,14 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Convicted offenders index**
 
-- **(4)** The convicted offenders index shall contain DNA profiles derived from bodily substances described in subsection 487.071(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), subsection 196.22(1) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md).
+- **(4)** The convicted offenders index shall contain DNA profiles derived from bodily substances that are taken under orders and authorizations.
 
 **Other information**
 
 - **(5)** In addition to the DNA profiles referred to in subsections (3) and (4), the DNA data bank shall contain, in relation to each of the profiles, information from which can be established
 	- **(a)** in the case of a profile in the crime scene index, the case number of the investigation associated with the bodily substance from which the profile was derived; and
 	- **(b)** in the case of a profile in the convicted offenders index, the identity of the person from whose bodily substance the profile was derived.
-> 1998, c. 37, s. 5; 2000, c. 10, s. 6; 2005, c. 10, s. 34.
+> 1998, c. 37, s. 5; 2000, c. 10, s. 6; 2005, c. 10, s. 34, c. 25, s. 15; 2007, c. 22, s. 28.
 
 
 
@@ -135,8 +140,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Retention of order or authorization**
 
-- **(3)** The Commissioner shall retain the copy of the order or authorization transmitted under subsection 487.071(2) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or subsection 196.161(2) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md).
-> 2005, c. 25, s. 16.
+- **(3)** The Commissioner shall retain the copy of the order or authorization transmitted under subsection 487.071(2) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or subsection 196.22(2) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md).
+> 2005, c. 25, s. 16; 2007, c. 22, s. 29.
 
 
 
@@ -154,9 +159,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(2)** If the Attorney General or Director of Military Prosecutions, as the case may be, confirms in writing that the order or authorization is valid or sends a copy of a corrected order or authorization to the Commissioner, the Commissioner shall conduct a forensic DNA analysis of any bodily substances collected under it.
 
-**Revoked order or authorization**
+**Substantive defect**
 
-- **(3)** The Commissioner shall, without delay, destroy any bodily substances collected and any information transmitted with them if the order or authorization for their collection is revoked.
+- **(3)** If the Attorney General or the Director of Military Prosecutions, as the case may be, informs the Commissioner that the offence referred to in the order or authorization is not a designated offence, the Commissioner shall, without delay, destroy the bodily substances collected under the order or authorization and the information transmitted with it.
 
 **Destruction of bodily substances**
 
@@ -165,7 +170,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(b)** a corrected order or authorization;
 	- **(c)** a notice that the Attorney General or Director of Military Prosecutions requires an additional period of not greater than 90 days to review the order or authorization; or
 	- **(d)** a notice that the issue of whether or not the order or authorization is defective is under review by a judge or in proceedings before a court.
-> 2005, c. 25, s. 16.
+> 2005, c. 25, s. 16; 2007, c. 22, s. 30.
 
 
 
@@ -227,7 +232,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Unauthorized use of information**
 
-**8** No person to whom information is communicated under subsection 6(1) or who has access to information under paragraph 7(a) or (b) shall use that information other than for the purposes referred to in that subsection or those paragraphs.
+**8** No person to whom information is communicated under subsection 6(1) or (6.1) or who has access to information under paragraph 7(a) or (b) shall use that information other than for the purposes referred to in that subsection or paragraph.
+> 1998, c. 37, s. 8; 2005, c. 25, s. 17.1.
+
 
 
 
@@ -247,30 +254,30 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** Subject to subsection (2), section 9.1 and the [Criminal Records Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-47.md), information in the convicted offenders index shall be kept indefinitely.
 
-**Access to information to be permanently removed**
+**Information to be permanently removed**
 
-- **(2)** Access to the following information in the convicted offenders index shall be permanently removed without delay after
-	- **(a)** in the case of information in relation to a person who has been convicted of a designated offence, the conviction is quashed and a final acquittal entered; and
-	- **(b)** in the case of information in relation to a person who has been discharged under section 730 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) of a designated offence,
-		- **(i)** the expiry of one year after the person is discharged absolutely, unless the person is convicted during that year of another offence, or
-		- **(ii)** the expiry of three years after the person is discharged conditionally, unless the person is convicted during those three years of another offence.
-	- **(c) to (e)** [Repealed, 2000, c. 10, s. 8]
-> 1998, c. 37, s. 9; 2000, c. 10, s. 8.
+- **(2)** Access to information in the convicted offenders index shall be permanently removed
+	- **(a)** without delay after every order or authorization for the collection of bodily substances from the person to whom the information relates is finally set aside;
+	- **(b)** without delay after the person is finally acquitted of every designated offence in connection with which an order was made or an authorization was granted; or
+	- **(c)** one year after the day on which the person is discharged absolutely, or three years after the day on which they are discharged conditionally, of a designated offence under section 730 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) if they are not subject to an order or authorization that relates to another designated offence and are neither convicted of, nor found not criminally responsible on account of mental disorder for, a designated offence during that period.
+> 1998, c. 37, s. 9; 2000, c. 10, s. 8; 2005, c. 25, s. 18; 2007, c. 22, s. 32.
 
 
 
 
 
-**Young offenders — access to information removed**
+**Young persons — access to information removed**
 
 **9.1** 
 
-- **(1)** Access to information in the convicted offenders index in relation to a young person who has been found guilty of a designated offence under the [Young Offenders Act](/en/Acts/Revised%20Statutes%20of%20Canada/Y/Y-1.md) shall be permanently removed without delay when the last part of the record in relation to the same offence is required to be destroyed under subsection 45(2), 45.02(3) or 45.03(3) of the [Young Offenders Act](/en/Acts/Revised%20Statutes%20of%20Canada/Y/Y-1.md).
+- **(1)** Access to information in the convicted offenders index in relation to a young person who has been found guilty under the [Young Offenders Act](/en/Acts/Revised%20Statutes%20of%20Canada/Y/Y-1.md) or under the [Youth Criminal Justice Act](/en/Acts/Statutes%20of%20Canada/2002/c.%201.md) of a designated offence shall be permanently removed without delay when the record relating to the same offence is required to be destroyed, sealed or transmitted to the National Archivist of Canada under Part 6 of the [Youth Criminal Justice Act](/en/Acts/Statutes%20of%20Canada/2002/c.%201.md).
 
 **Exception**
 
-- **(2)** Section 9 nevertheless applies to information in the convicted offenders index in relation to a young person’s record to which section 45.01 or subsection 45.02(2) of the [Young Offenders Act](/en/Acts/Revised%20Statutes%20of%20Canada/Y/Y-1.md) applies.
-> 2000, c. 10, s. 9.
+- **(2)** Section 9 nevertheless applies to information in the convicted offenders index in relation to
+	- **(a)** a presumptive offence within the meaning of subsection 2(1) of the [Youth Criminal Justice Act](/en/Acts/Statutes%20of%20Canada/2002/c.%201.md); or
+	- **(b)** a record to which subsection 120(6) of that Act applies.
+> 2000, c. 10, s. 9; 2005, c. 25, s. 19.
 
 
 
@@ -280,15 +287,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **10** 
 
-- **(1)** When bodily substances are transmitted to the Commissioner under subsection 487.071(2) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or subsection 196.22(2) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md), the Commissioner shall, subject to this section and section 10.1, safely and securely store, for the purpose of forensic DNA analysis, the portions of the samples of the bodily substances that the Commissioner considers appropriate and without delay destroy any remaining portions.
+- **(1)** When bodily substances are transmitted to the Commissioner under section 487.071 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or section 196.22 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md), the Commissioner shall, subject to this section and section 10.1, safely and securely store, for the purpose of forensic DNA analysis, the portions of the samples of the bodily substances that the Commissioner considers appropriate and without delay destroy any remaining portions.
 
 **Change in technology**
 
 - **(2)** Forensic DNA analysis of stored bodily substances may be performed if the Commissioner is of the opinion that the analysis is justified because significant technological advances have been made since the time when a DNA profile of the person who provided the bodily substances, or from whom they were taken, was last derived.
 
-**Transmission of DNA profile**
-
-- **(3)** Any DNA profile that is derived from stored bodily substances shall be transmitted to the Commissioner for entry in the convicted offenders index and no person shall use such a DNA profile except to transmit it under this subsection.
+- **(3)** [Repealed, 2005, c. 25, s. 20]
 
 **Access**
 
@@ -304,32 +309,32 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Mandatory destruction in certain cases**
 
-- **(7)** The Commissioner shall nevertheless destroy the stored bodily substances of a person without delay
-	- **(a)** if the person has been convicted of a designated offence, after the conviction is quashed and a final acquittal entered; and
-	- **(b)** if the person has been discharged under section 730 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) of a designated offence,
-		- **(i)** after the expiry of one year after the person is discharged absolutely, unless the person is convicted during that year of another offence, or
-		- **(ii)** after the expiry of three years after the person is discharged conditionally, unless the person is convicted during those three years of another offence.
-	- **(c) to (e)** [Repealed, 2000, c. 10, s. 10]
+- **(7)** The Commissioner shall destroy the stored bodily substances of a person
+	- **(a)** without delay after every order or authorization for the collection of bodily substances from the person is finally set aside;
+	- **(b)** without delay after the person is finally acquitted of every designated offence in connection with which an order was made or an authorization was granted; or
+	- **(c)** one year after the day on which the person is discharged absolutely, or three years after the day on which they are discharged conditionally, of a designated offence under section 730 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) if they are not subject to an order or authorization that relates to another designated offence and are neither convicted of, nor found not criminally responsible on account of mental disorder for, a designated offence during that period.
 
 **Where pardon granted**
 
 - **(8)** Despite anything in this section, stored bodily substances of a person in respect of whom a pardon, within the meaning of section 2 of the [Criminal Records Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-47.md), is in effect shall be kept separate and apart from other stored bodily substances, and no such bodily substance shall be used for forensic DNA analysis, nor shall the existence of such a bodily substance be communicated to any person.
-> 1998, c. 37, s. 10; 2000, c. 10, s. 10.
+> 1998, c. 37, s. 10; 2000, c. 10, s. 10; 2005, c. 25, s. 20; 2007, c. 22, s. 33.
 
 
 
 
 
-**Young offenders — destruction of bodily substances**
+**Young persons — destruction of bodily substances**
 
 **10.1** 
 
-- **(1)** The Commissioner shall, without delay, destroy stored bodily substances of a young person who has been found guilty of a designated offence under the [Young Offenders Act](/en/Acts/Revised%20Statutes%20of%20Canada/Y/Y-1.md) when the last part of the record in relation to the same offence is required to be destroyed under subsection 45(2), 45.02(3) or 45.03(3) of the [Young Offenders Act](/en/Acts/Revised%20Statutes%20of%20Canada/Y/Y-1.md).
+- **(1)** The Commissioner shall, without delay, destroy stored bodily substances of a young person who has been found guilty of a designated offence under the [Young Offenders Act](/en/Acts/Revised%20Statutes%20of%20Canada/Y/Y-1.md) or under the [Youth Criminal Justice Act](/en/Acts/Statutes%20of%20Canada/2002/c.%201.md) when the record relating to the same offence is required to be destroyed, sealed or transmitted to the National Archivist of Canada under Part 6 of the [Youth Criminal Justice Act](/en/Acts/Statutes%20of%20Canada/2002/c.%201.md).
 
 **Exception**
 
-- **(2)** Subsections 10(6) and (7) nevertheless apply to the destruction of stored bodily substances of a young person relating to a record to which section 45.01 or subsection 45.02(2) of the [Young Offenders Act](/en/Acts/Revised%20Statutes%20of%20Canada/Y/Y-1.md) applies.
-> 2000, c. 10, s. 11.
+- **(2)** Subsections 10(6) and (7) nevertheless apply to the destruction of stored bodily substances of a young person that relate to
+	- **(a)** a presumptive offence within the meaning of subsection 2(1) of the [Youth Criminal Justice Act](/en/Acts/Statutes%20of%20Canada/2002/c.%201.md); or
+	- **(b)** a record to which subsection 120(6) of that Act applies.
+> 2000, c. 10, s. 11; 2005, c. 25, s. 21.
 
 
 
@@ -337,9 +342,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Offence**
 
-**11** Every person who contravenes subsection 6(6) or (7), section 8 or subsection 10(3) or (5)
+**11** Every person who contravenes subsection 6(6) or (7), section 8 or subsection 10(5)
 - **(a)** is guilty of an indictable offence and liable to imprisonment for a term not exceeding two years; or
 - **(b)** is guilty of an offence punishable on summary conviction and liable to a fine not exceeding $2,000 or to imprisonment for a term not exceeding six months, or to both.
+> 1998, c. 37, s. 11; 2005, c. 25, s. 22.
+
 
 
 
