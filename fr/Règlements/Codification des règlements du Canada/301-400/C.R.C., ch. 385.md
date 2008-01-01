@@ -212,42 +212,40 @@ et, aux fins des alinéas a) et b), comprend une période d’une heure ou d’u
 
 **8** 
 
-- **(1)** Sous réserve des paragraphes (1.1), (1.11), (1.12) et (2), la cotisation de l’employé et la cotisation de l’employeur doivent être remises au receveur général au plus tard le 15<sup>e</sup> jour du mois qui suit celui au cours duquel l’employeur a payé à l’employé la rémunération à l’égard de laquelle les cotisations devaient être versées.
+- **(1)** Sous réserve des paragraphes (1.1), (1.11), (1.12) et (2), la cotisation de l’employé et la cotisation de l’employeur doivent être remises au receveur général au plus tard le 15<sup>e</sup> jour du mois qui suit celui au cours duquel l’employeur a payé à l’employé la rémunération à l’égard de laquelle les cotisations devaient être versées.
 
-- **(1.1)** Sous réserve du paragraphe (1.11), dans le cas où la retenue mensuelle moyenne effectuée par un employeur pour la deuxième année civile précédant une année civile donnée est :
+- **(1.1)** Sous réserve du paragraphe (1.11), dans le cas où la retenue mensuelle moyenne effectuée par un employeur pour la deuxième année civile précédant une année civile donnée est :
 	- **a)** égale ou supérieure à 15 000 $ et inférieure à 50 000 $, l’employeur doit remettre au receveur général la cotisation de l’employé et la cotisation de l’employeur :
-		- **(i)** à l’égard de la rémunération payée avant le 16<sup>e</sup> jour d’un mois de l’année civile donnée, au plus tard le 25<sup>e</sup> jour de ce mois,
-		- **(ii)** à l’égard de la rémunération payée après le 15<sup>e</sup> jour d’un mois de l’année civile donnée, au plus tard le 10<sup>e</sup> jour du mois suivant;
+		- **(i)** à l’égard de la rémunération payée avant le 16<sup>e</sup> jour d’un mois de l’année civile donnée, au plus tard le 25<sup>e</sup> jour de ce mois,
+		- **(ii)** à l’égard de la rémunération payée après le 15<sup>e</sup> jour d’un mois de l’année civile donnée, au plus tard le 10<sup>e</sup> jour du mois suivant;
 	- **b)** égale ou supérieure à 50 000 $, l’employeur doit remettre au receveur général la cotisation de l’employé et la cotisation de l’employeur au plus tard le troisième jour — samedis et jours fériés non compris — suivant la fin des périodes suivantes au cours desquelles la rémunération a été payée :
-		- **(i)** la période commençant le 1<sup>er</sup> jour et se terminant le 7<sup>e</sup> jour d’un mois de l’année civile donnée,
-		- **(ii)** la période commençant le 8<sup>e</sup> jour et se terminant le 14<sup>e</sup> jour d’un mois de l’année civile donnée,
-		- **(iii)** la période commençant le 15<sup>e</sup> jour et se terminant le 21<sup>e</sup> jour d’un mois de l’année civile donnée,
-		- **(iv)** la période commençant le 22<sup>e</sup> jour et se terminant le dernier jour d’un mois de l’année civile donnée.
+		- **(i)** la période commençant le 1<sup>er</sup> jour et se terminant le 7<sup>e</sup> jour d’un mois de l’année civile donnée,
+		- **(ii)** la période commençant le 8<sup>e</sup> jour et se terminant le 14<sup>e</sup> jour d’un mois de l’année civile donnée,
+		- **(iii)** la période commençant le 15<sup>e</sup> jour et se terminant le 21<sup>e</sup> jour d’un mois de l’année civile donnée,
+		- **(iv)** la période commençant le 22<sup>e</sup> jour et se terminant le dernier jour d’un mois de l’année civile donnée.
 
-- **(1.11)** L’employeur visé aux alinéas (1.1)a) ou b) qui serait normalement tenu de remettre la cotisation de l’employé et la cotisation de l’employeur pour une année civile donnée conformément à l’un ou l’autre de ces alinéas peut choisir de les remettre :
-	- **a)** conformément au paragraphe (1), si la retenue mensuelle moyenne effectuée par lui pour l’année civile précédant l’année civile donnée est inférieure à 15 000 $ et s’il informe le ministre de son choix;
+- **(1.11)** L’employeur visé aux alinéas (1.1)a) ou b) qui serait normalement tenu de remettre la cotisation de l’employé et la cotisation de l’employeur pour une année civile donnée conformément à l’un ou l’autre de ces alinéas peut choisir de les remettre :
+	- **a)** conformément au paragraphe (1), si la retenue mensuelle moyenne effectuée par lui pour l’année civile précédant l’année civile donnée est inférieure à 15 000 $ et s’il informe le ministre de son choix;
 	- **b)** si la retenue mensuelle moyenne effectuée par lui pour l’année civile précédant l’année civile donnée est égale ou supérieure à 15 000 $ et inférieure à 50 000 $ et s’il informe le ministre de son choix :
-		- **(i)** à l’égard de la rémunération payée avant le 16<sup>e</sup> jour d’un mois de l’année civile donnée, au plus tard le 25<sup>e</sup> jour de ce mois,
-		- **(ii)** à l’égard de la rémunération payée après le 15<sup>e</sup> jour d’un mois de l’année civile donnée, au plus tard le 10<sup>e</sup> jour du mois suivant.
+		- **(i)** à l’égard de la rémunération payée avant le 16<sup>e</sup> jour d’un mois de l’année civile donnée, au plus tard le 25<sup>e</sup> jour de ce mois,
+		- **(ii)** à l’égard de la rémunération payée après le 15<sup>e</sup> jour d’un mois de l’année civile donnée, au plus tard le 10<sup>e</sup> jour du mois suivant.
 
 - **(1.12)** Lorsque à un moment donné, à la fois :
-	- **a)** la retenue mensuelle moyenne effectuée par un employeur pour la première ou la deuxième année civile précédant l’année civile donnée qui inclut ce moment est inférieure à 1 000 $,
-	- **b)** tout au long de la période de 12 mois qui précède ce moment, l’employeur a remis, au plus tard à la date où ils devaient être remis, tous les montants devant être :
-		- **(i)** soit déduits ou retenus aux termes du paragraphe 153(1) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md),
-		- **(ii)** soit remis aux termes de la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md),
-	- **c)** tout au long de la période de 12 mois qui précède ce moment, l’employeur a produit toutes les déclarations qui devaient être produites aux termes de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) ou de la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) au plus tard à la date où ces déclarations devaient être produites aux termes de ces lois,
+	- **a)** la retenue mensuelle moyenne effectuée par un employeur pour la première ou la deuxième année civile précédant l’année civile donnée qui inclut ce moment est inférieure à 3 000 $;
+	- **b)** tout au long de la période de 12 mois qui précède ce moment, l’employeur a remis, au plus tard à la date où ils devaient être remis, tous les montants à remettre ou à verser aux termes du paragraphe 21(1) de la Loi, du paragraphe 82(1) de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md), de la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) ou du paragraphe 153(1) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md);
+	- **c)** tout au long de la période de 12 mois qui précède ce moment, l’employeur a produit toutes les déclarations qui devaient être produites aux termes de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) ou de la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) au plus tard à la date où ces déclarations devaient être produites aux termes de ces lois,
 les cotisations payables au cours d’un mois qui se termine après le moment donné et qui tombe dans l’année civile donnée peuvent être remises par l’employeur au receveur général :
-	- **d)** au plus tard le 15 avril de l’année civile donnée en ce qui concerne les cotisations payées au cours des mois de janvier, février et mars de l’année donnée,
-	- **e)** au plus tard le 15 juillet de l’année civile donnée en ce qui concerne les cotisations payées au cours des mois d’avril, mai et juin de l’année donnée,
-	- **f)** au plus tard le 15 octobre de l’année civile donnée en ce qui concerne les cotisations payées au cours des mois de juillet, août et septembre de l’année donnée,
-	- **g)** au plus tard le 15 janvier de l’année qui suit l’année civile donnée en ce qui concerne les cotisations payées au cours des mois d’octobre, novembre et décembre de l’année donnée.
+	- **d)** au plus tard le 15 avril de l’année civile donnée en ce qui concerne les cotisations payées au cours des mois de janvier, février et mars de l’année donnée,
+	- **e)** au plus tard le 15 juillet de l’année civile donnée en ce qui concerne les cotisations payées au cours des mois d’avril, mai et juin de l’année donnée,
+	- **f)** au plus tard le 15 octobre de l’année civile donnée en ce qui concerne les cotisations payées au cours des mois de juillet, août et septembre de l’année donnée,
+	- **g)** au plus tard le 15 janvier de l’année qui suit l’année civile donnée en ce qui concerne les cotisations payées au cours des mois d’octobre, novembre et décembre de l’année donnée.
 
-- **(1.2)** Pour l’application du présent article, la retenue mensuelle moyenne effectuée par un employeur pour une année civile est déterminée conformément aux paragraphes 108(1.2) et (1.3) du [Règlement de l’impôt sur le revenu](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/901-1000/C.R.C.,%20ch.%20945.md).
+- **(1.2)** Pour l’application du présent article, la retenue mensuelle moyenne effectuée par un employeur pour une année civile est déterminée conformément aux paragraphes 108(1.2) et (1.3) du [Règlement de l’impôt sur le revenu](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/901-1000/C.R.C.,%20ch.%20945.md).
 
 - **(2)** L’employeur qui exploite une entreprise ou exerce une activité à l’égard de laquelle il occupe des employés dans des emplois ouvrant droit à pension doit, s’il cesse d’exploiter cette entreprise ou d’exercer cette activité, faire remise au receveur général, dans les sept jours d’une telle cessation, de toutes les cotisations de l’employé et de l’employeur dont il est tenu de faire remise à l’égard desdits employés.
 
 - **(3)** Tout paiement fait par l’employeur au titre de la cotisation de l’employé ou de la cotisation de l’employeur doit être accompagné d’une déclaration en la forme prescrite.
-> DORS/87-714, art. 1; DORS/90-47, art. 1; DORS/93-94, art. 1; DORS/97-472, art. 1.
+> DORS/87-714, art. 1; DORS/90-47, art. 1; DORS/93-94, art. 1; DORS/97-472, art. 1; 2007, ch. 35, art. 90.
 
 
 
