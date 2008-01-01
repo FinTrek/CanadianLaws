@@ -4135,21 +4135,21 @@ is admissible in evidence for all purposes for which the recorded document would
 
 **144** In this Part,
 
-***benefit repayment*** means an amount determined under section 145;
+***benefit repayment*** means an amount determined under section 145; (*remboursement de prestations*)
 
-***benefits*** means benefits under this Act, read without reference to this Part;
+***benefits*** means benefits under this Act, read without reference to this Part; (*prestations*)
 
-***income*** of a person for a period means the amount that would be their income for the period determined under the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) if no amount were
-- **(a)** deductible under paragraphs 60(v.1), (w) and (y) of that Act,
+***income*** of a person for a period means the amount that would be their income for the period determined under the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) if no amount were
+- **(a)** deductible under paragraphs 60(v.1), (w), (y) and (z) of that Act,
 - **(b)** included in respect of a gain from a disposition of property to which section 79 of that Act applies, or
-- **(c)** included under subsection 56(6) of that Act;
+- **(c)** included under paragraph 56(1)(q.1) or subsection 56(6) of that Act; (*revenu*)
 
-***Minister*** means the Minister of National Revenue;
+***Minister*** means the Minister of National Revenue; (*ministre*)
 
-***person*** has the meaning given that term in subsection 248(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md);
+***person*** has the meaning given that term in subsection 248(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md); (*personne*)
 
-***taxation year*** means a taxation year within the meaning of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
-> 1996, c. 23, s. 144; 2006, c. 4, s. 172.
+***taxation year*** means a taxation year within the meaning of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md). (*année d’imposition*)
+> 1996, c. 23, s. 144; 2006, c. 4, s. 172; 2007, c. 35, s. 128.
 
 
 
