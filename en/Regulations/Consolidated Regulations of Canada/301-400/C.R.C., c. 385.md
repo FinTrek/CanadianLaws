@@ -212,42 +212,40 @@ where
 
 **8** 
 
-- **(1)** Subject to subsections (1.1), (1.11), (1.12) and (2), the employee’s contribution and the employer’s contribution shall be remitted to the Receiver General on or before the 15th day of the month following the month in which the employer paid to the employee the remuneration in respect of which those contributions were required to be made.
+- **(1)** Subject to subsections (1.1), (1.11), (1.12) and (2), the employee’s contribution and the employer’s contribution shall be remitted to the Receiver General on or before the 15th day of the month following the month in which the employer paid to the employee the remuneration in respect of which those contributions were required to be made.
 
-- **(1.1)** Subject to subsection (1.11), where the average monthly withholding amount of an employer for the second calendar year preceding a particular calendar year is
+- **(1.1)** Subject to subsection (1.11), where the average monthly withholding amount of an employer for the second calendar year preceding a particular calendar year is
 	- **(a)** equal to or greater than $15,000 and less than $50,000, the employer shall remit the employee’s contribution and the employer’s contribution to the Receiver General
-		- **(i)** in respect of remuneration paid before the 16th day of a month in the particular calendar year, on or before the 25th day of the month, and
-		- **(ii)** in respect of remuneration paid after the 15th day of a month in the particular calendar year, on or before the 10th day of the following month; or
+		- **(i)** in respect of remuneration paid before the 16th day of a month in the particular calendar year, on or before the 25th day of the month, and
+		- **(ii)** in respect of remuneration paid after the 15th day of a month in the particular calendar year, on or before the 10th day of the following month; or
 	- **(b)** equal to or greater than $50,000, the employer shall remit the employee’s contribution and the employer’s contribution to the Receiver General on or before the third day, not including a Saturday or holiday, after the end of the following periods in which remuneration was paid,
-		- **(i)** the period beginning on the first day of a month in the particular calendar year and ending on the 7th day of the month,
-		- **(ii)** the period beginning on the 8th day of a month in the particular calendar year and ending on the 14th day of the month,
-		- **(iii)** the period beginning on the 15th day of a month in the particular calendar year and ending on the 21st day of the month, and
-		- **(iv)** the period beginning on the 22nd day of a month in the particular calendar year and ending on the last day of the month.
+		- **(i)** the period beginning on the first day of a month in the particular calendar year and ending on the 7th day of the month,
+		- **(ii)** the period beginning on the 8th day of a month in the particular calendar year and ending on the 14th day of the month,
+		- **(iii)** the period beginning on the 15th day of a month in the particular calendar year and ending on the 21st day of the month, and
+		- **(iv)** the period beginning on the 22nd day of a month in the particular calendar year and ending on the last day of the month.
 
-- **(1.11)** Where an employer referred to in paragraph (1.1)(a) or (b) would otherwise be required to remit the employee’s contribution and employer’s contribution in respect of a particular calendar year in accordance with that paragraph, the employer may elect to remit those contributions
-	- **(a)** in accordance with subsection (1), if the average monthly withholding amount of the employer for the calendar year preceding the particular calendar year is less than $15,000 and the employer has advised the Minister that the employer has so elected; or
+- **(1.11)** Where an employer referred to in paragraph (1.1)(a) or (b) would otherwise be required to remit the employee’s contribution and employer’s contribution in respect of a particular calendar year in accordance with that paragraph, the employer may elect to remit those contributions
+	- **(a)** in accordance with subsection (1), if the average monthly withholding amount of the employer for the calendar year preceding the particular calendar year is less than $15,000 and the employer has advised the Minister that the employer has so elected; or
 	- **(b)** if the average monthly withholding amount of the employer for the calendar year preceding the particular calendar year is equal to or greater than $15,000 and less than $50,000 and the employer has advised the Minister that the employer has so elected,
-		- **(i)** in respect of remuneration paid before the 16th day of a month in the particular calendar year, on or before the 25th day of the month, and
-		- **(ii)** in respect of remuneration paid after the 15th day of a month in the particular calendar year, on or before the 10th day of the following month.
+		- **(i)** in respect of remuneration paid before the 16th day of a month in the particular calendar year, on or before the 25th day of the month, and
+		- **(ii)** in respect of remuneration paid after the 15th day of a month in the particular calendar year, on or before the 10th day of the following month.
 
 - **(1.12)** If at any time
-	- **(a)** the average monthly withholding amount in respect of an employer for either the first or the second calendar year before the particular calendar year that includes that time is less than $1,000,
-	- **(b)** throughout the 12-month period before that time, the employer has remitted, on or before the day on or before which the amounts were required to be remitted, all amounts each of which was required to be
-		- **(i)** deducted or withheld under subsection 153(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), or
-		- **(ii)** remitted under Part IX of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md), and
-	- **(c)** throughout the 12-month period before that time, the employer has filed all returns each of which was required to be filed under the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) or Part IX of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) on or before the day on or before which those returns were required to be filed under those Acts,
+	- **(a)** the average monthly withholding amount in respect of an employer for either the first or the second calendar year before the particular calendar year that includes that time is less than $3,000;
+	- **(b)** throughout the 12-month period before that time, the employer has remitted, on or before the day on or before which the amounts were required to be remitted, all amounts each of which was required to be remitted under subsection 21(1) of the Act, under subsection 82(1) of the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md), under Part IX of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) or under subsection 153(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md); and
+	- **(c)** throughout the 12-month period before that time, the employer has filed all returns each of which was required to be filed under the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) or Part IX of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) on or before the day on or before which those returns were required to be filed under those Acts,
 contributions payable in a month that ends after that time and that is in the particular calendar year may be remitted by the employer to the Receiver General
-	- **(d)** in respect of such contributions paid in January, February and March of the particular calendar year, on or before the 15th day of April of the particular year,
-	- **(e)** in respect of such contributions paid in April, May and June of the particular calendar year, on or before the 15th day of July of the particular year,
-	- **(f)** in respect of such contributions paid in July, August and September of the particular calendar year, on or before the 15th day of October of the particular year, and
-	- **(g)** in respect of such contributions paid in October, November and December of the particular calendar year, on or before the 15th day of January of the year following the particular year.
+	- **(d)** in respect of such contributions paid in January, February and March of the particular calendar year, on or before the 15th day of April of the particular year,
+	- **(e)** in respect of such contributions paid in April, May and June of the particular calendar year, on or before the 15th day of July of the particular year,
+	- **(f)** in respect of such contributions paid in July, August and September of the particular calendar year, on or before the 15th day of October of the particular year, and
+	- **(g)** in respect of such contributions paid in October, November and December of the particular calendar year, on or before the 15th day of January of the year following the particular year.
 
-- **(1.2)** For the purpose of this section, the average monthly withholding amount of an employer for a calendar year is determined pursuant to subsections 108(1.2) and (1.3) of the [Income Tax Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/901-1000/C.R.C.,%20c.%20945.md).
+- **(1.2)** For the purpose of this section, the average monthly withholding amount of an employer for a calendar year is determined pursuant to subsections 108(1.2) and (1.3) of the [Income Tax Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/901-1000/C.R.C.,%20c.%20945.md).
 
 - **(2)** An employer carrying on a business or activity with respect to which he employs employees in pensionable employment shall, if he ceases to carry on that business or activity, within seven days of so ceasing remit to the Receiver General any employee’s contribution and any employer’s contribution that he is required to remit with respect to those employees.
 
 - **(3)** Every payment by an employer of an employee’s contribution or an employer’s contribution shall be accompanied by a return in prescribed form.
-> SOR/87-714, s. 1; SOR/90-47, s. 1; SOR/93-94, s. 1; SOR/97-472, s. 1.
+> SOR/87-714, s. 1; SOR/90-47, s. 1; SOR/93-94, s. 1; SOR/97-472, s. 1; 2007, c. 35, s. 90.
 
 
 
