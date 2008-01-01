@@ -1211,13 +1211,13 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 
 ***tabac à cigarettes*** Tabac en vrac, manufacturé et haché fin, servant à la confection de cigarettes.
 
-***tabac imposé*** Cigarettes, bâtonnets de tabac, tabac à cigarettes et cigares sur lesquels le droit prévu à l’article 42 a été imposé avant le 1<sup>er</sup> juillet 2006 au taux figurant aux alinéas 1b), 2b) ou 3b) ou à l’article 4 de l’annexe 1, dans leur version applicable le 30 juin 2006, et qui, à zéro heure le 1<sup>er</sup> juillet 2006, à la fois : 
+***tabac imposé*** Cigarettes, bâtonnets de tabac, tabac à cigarettes et cigares sur lesquels le droit prévu à l’article 42 a été imposé avant le 1<sup>er</sup> janvier 2008 au taux figurant aux alinéas 1b), 2b) ou 3b) ou à l’article 4 de l’annexe 1, dans leur version applicable le 31 décembre 2007, et qui, à zéro heure le 1<sup>er</sup> janvier 2008, à la fois : 
 - **a)** étaient offerts en vente dans le cours normal des activités de leur propriétaire;
 - **b)** n’étaient pas offerts en vente par distributeur automatique;
 - **c)** n’étaient pas exonérés de ce droit en vertu de la loi.
 
 ***unité*** Cigarette, bâtonnet de tabac, gramme de tabac à cigarettes ou cigare.
-> 2006, ch. 4, art. 34.
+> 2006, ch. 4, art. 34; 2007, ch. 35, art. 197.
 
 
 
@@ -1226,11 +1226,11 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 **Assujettissement**
 
 **58.2** Sous réserve de l’article 58.3, tout propriétaire de tabac imposé est tenu de payer à Sa Majesté une taxe sur ce tabac au taux de :
-- **a)** 0,2799 cent par cigarette;
-- **b)** 0,2517 cent par bâtonnet de tabac;
-- **c)** 0,1919 cent par gramme de tabac à cigarettes;
-- **d)** 0,1814 cent par cigare.
-> 2006, ch. 4, art. 34.
+- **a)** 0,295 cent par cigarette;
+- **b)** 0,275 cent par bâtonnet de tabac;
+- **c)** 0,195 cent par gramme de tabac à cigarettes;
+- **d)** 0,19 cent par cigare.
+> 2006, ch. 4, art. 34; 2007, ch. 35, art. 198.
 
 
 
@@ -1238,8 +1238,8 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 
 **Exemption pour petits détaillants**
 
-**58.3** La taxe prévue par la présente partie n’est pas exigible sur les stocks de tabac imposé qu’un exploitant détient à zéro heure le 1<sup>er</sup> juillet 2006 dans son établissement de détail distinct si ces stocks n’excèdent pas 30 000 unités.
-> 2006, ch. 4, art. 34.
+**58.3** La taxe prévue par la présente partie n’est pas exigible sur les stocks de tabac imposé qu’un exploitant détient à zéro heure le 1<sup>er</sup> janvier 2008 dans son établissement de détail distinct si ces stocks n’excèdent pas 30 000 unités.
+> 2006, ch. 4, art. 34; 2007, ch. 35, art. 199.
 
 
 
@@ -1258,12 +1258,12 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 
 **58.5** 
 
-- **(1)** Tout redevable de la taxe prévue par la présente partie est tenu de présenter au ministre, au plus tard le 31 août 2006, une déclaration en la forme et selon les modalités autorisées par celui-ci.
+- **(1)** Tout redevable de la taxe prévue par la présente partie est tenu de présenter au ministre, au plus tard le 29 février 2008, une déclaration en la forme et selon les modalités autorisées par celui-ci.
 
 **Déclarations distinctes**
 
 - **(2)** Toute personne autorisée, en vertu du paragraphe 239(2) de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md), à produire des déclarations distinctes pour des succursales ou divisions peut aussi en produire pour chacune d’elles en application de la présente partie.
-> 2006, ch. 4, art. 34.
+> 2006, ch. 4, art. 34; 2007, ch. 35, art. 200.
 
 
 
@@ -1273,7 +1273,7 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 
 **58.6** 
 
-- **(1)** Toute personne est tenue de verser au receveur général, au plus tard le 31 août 2006, le total de la taxe dont elle est redevable en vertu de la présente partie.
+- **(1)** Toute personne est tenue de verser au receveur général, au plus tard le 29 février 2008, le total de la taxe dont elle est redevable en vertu de la présente partie.
 
 **Intérêts de moins de 25 $**
 
@@ -1284,7 +1284,7 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 - **(3)** Le ministre peut, à tout moment, proroger par écrit le délai prévu par la présente partie pour la production d’une déclaration ou le versement de la taxe exigible. Le cas échéant :
 	- **a)** la déclaration doit être produite ou la taxe exigible, payée dans le délai prorogé;
 	- **b)** les intérêts sont exigibles aux termes de l’article 170 comme si le délai n’avait pas été prorogé.
-> 2006, ch. 4, art. 34.
+> 2006, ch. 4, art. 34; 2007, ch. 35, art. 201.
 
 
 
@@ -4046,22 +4046,22 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 
 - **(2)** La somme déterminée selon le présent paragraphe pour l’infraction visée au paragraphe (1) correspond au plus élevé des montants suivants :
 	- **a)** la somme des produits suivants :
-		- **(i)** le produit de 0,165 $ par le nombre de cigarettes auxquelles l’infraction se rapporte,
-		- **(ii)** le produit de 0,121$ par le nombre de bâtonnets de tabac auxquels l’infraction se rapporte,
-		- **(iii)** le produit de 0,112 $ par le nombre de grammes de tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac, auxquels l’infraction se rapporte,
-		- **(iv)** le produit de 0,284 $ par le nombre de cigares auxquels l’infraction se rapporte;
+		- **(i)** le produit de 0,17 $ par le nombre de cigarettes auxquelles l’infraction se rapporte,
+		- **(ii)** le produit de 0,127 $ par le nombre de bâtonnets de tabac auxquels l’infraction se rapporte,
+		- **(iii)** le produit de 0,116 $ par le nombre de grammes de tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac, auxquels l’infraction se rapporte,
+		- **(iv)** le produit de 0,29 $ par le nombre de cigares auxquels l’infraction se rapporte;
 	- **b)** 1 000 $, s’il s’agit d’un acte criminel, et 500 $, s’il s’agit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire.
 
 **Amende maximale**
 
 - **(3)** La somme déterminée selon le présent paragraphe pour l’infraction visée au paragraphe (1) correspond au plus élevé des montants suivants :
 	- **a)** la somme des produits suivants :
-		- **(i)** le produit de 0,246 $ par le nombre de cigarettes auxquelles l’infraction se rapporte,
-		- **(ii)** le produit de 0,182 $ par le nombre de bâtonnets de tabac auxquels l’infraction se rapporte,
-		- **(iii)** le produit de 0,168 $ par le nombre de grammes de tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac, auxquels l’infraction se rapporte,
-		- **(iv)** le produit de 0,66 $ par le nombre de cigares auxquels l’infraction se rapporte;
+		- **(i)** le produit de 0,255 $ par le nombre de cigarettes auxquelles l’infraction se rapporte,
+		- **(ii)** le produit de 0,19 $ par le nombre de bâtonnets de tabac auxquels l’infraction se rapporte,
+		- **(iii)** le produit de 0,174 $ par le nombre de grammes de tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac, auxquels l’infraction se rapporte,
+		- **(iv)** le produit de 0,67 $ par le nombre de cigares auxquels l’infraction se rapporte;
 	- **b)** 2 000 $, s’il s’agit d’un acte criminel, et 1 000 $, s’il s’agit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire.
-> 2002, ch. 22, art. 216; 2006, ch. 4, art. 35.
+> 2002, ch. 22, art. 216; 2006, ch. 4, art. 35; 2007, ch. 35, art. 202.
 
 
 
@@ -4429,10 +4429,10 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 **Contravention — par. 50(5)**
 
 **240** Le titulaire de licence de tabac qui contrevient au paragraphe 50(5) est passible d’une pénalité égale à la somme des montants suivants :
-- **a)** 0,355 548 $ par cigarette retirée en contravention avec ce paragraphe;
-- **b)** 0,205 $ par bâtonnet de tabac retiré en contravention avec ce paragraphe;
-- **c)** 203,804 $ par kilogramme de tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac, retiré en contravention avec ce paragraphe.
-> 2002, ch. 22, art. 240; 2003, ch. 15, art. 46; 2006, ch. 4, art. 36.
+- **a)** 0,361 448 $ par cigarette retirée en contravention avec ce paragraphe;
+- **b)** 0,2105 $ par bâtonnet de tabac retiré en contravention avec ce paragraphe;
+- **c)** 207,704 $ par kilogramme de tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac, retiré en contravention avec ce paragraphe.
+> 2002, ch. 22, art. 240; 2003, ch. 15, art. 46; 2006, ch. 4, art. 36; 2007, ch. 35, art. 203.
 
 
 
@@ -6190,36 +6190,81 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 **(article 42)**
 ## Taux du droit sur les produits du tabac
 **1** Cigarettes :
-- **a)** 0,374 875 $ par quantité de cinq cigarettes, ou fraction de cette quantité, contenue dans un paquet, si les cigarettes constituent des produits non ciblés destinés, selon le cas :
-	- **(i)** à être livrés par le titulaire de licence de tabac qui les a fabriqués à une boutique hors taxes ou à un entrepôt de stockage,
-	- **(ii)** à être livrés par le titulaire de licence de tabac qui les a fabriqués à une personne pour utilisation à titre de provisions de bord conformément au [Règlement sur les provisions de bord](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/96/40.md),
-	- **(iii)** à être exportés par le titulaire de licence de tabac qui les a fabriqués pour livraison à une boutique hors taxes à l’étranger ou à titre de provisions de bord à l’étranger;
-- **b)** 0,410 25 $ par quantité de cinq cigarettes, ou fraction de cette quantité, contenue dans un paquet, dans les autres cas.
+
+**a)** 0,374 875 $ par quantité de cinq cigarettes, ou fraction de cette quantité, contenue dans un paquet, si les cigarettes constituent des produits non ciblés destinés, selon le cas :
+
+**(i)** à être livrés par le titulaire de licence de tabac qui les a fabriqués à une boutique hors taxes ou à un entrepôt de stockage,
+
+
+
+**(ii)** à être livrés par le titulaire de licence de tabac qui les a fabriqués à une personne pour utilisation à titre de provisions de bord conformément au [Règlement sur les provisions de bord](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/96/40.md),
+
+
+
+**(iii)** à être exportés par le titulaire de licence de tabac qui les a fabriqués pour livraison à une boutique hors taxes à l’étranger ou à titre de provisions de bord à l’étranger;
+
+
+
+
+
+**b)** 0,425 $ par quantité de cinq cigarettes, ou fraction de cette quantité, contenue dans un paquet, dans les autres cas.
+
+
 
 
 **2** Bâtonnets de tabac :
-- **a)** 0,054 983 $ le bâtonnet, si les bâtonnets de tabac constituent des produits non ciblés destinés, selon le cas :
-	- **(i)** à être livrés par le titulaire de licence de tabac qui les a fabriqués à une boutique hors taxes ou à un entrepôt de stockage,
-	- **(ii)** à être livrés par le titulaire de licence de tabac qui les a fabriqués à une personne pour utilisation à titre de provisions de bord conformément au [Règlement sur les provisions de bord](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/96/40.md),
-	- **(iii)** à être exportés par le titulaire de licence de tabac qui les a fabriqués pour livraison à une boutique hors taxes à l’étranger ou à titre de provisions de bord à l’étranger;
-- **b)** 0,0605 $ le bâtonnet, dans les autres cas.
+
+**a)** 0,054 983 $ le bâtonnet, si les bâtonnets de tabac constituent des produits non ciblés destinés, selon le cas :
+
+**(i)** à être livrés par le titulaire de licence de tabac qui les a fabriqués à une boutique hors taxes ou à un entrepôt de stockage,
+
+
+
+**(ii)** à être livrés par le titulaire de licence de tabac qui les a fabriqués à une personne pour utilisation à titre de provisions de bord conformément au [Règlement sur les provisions de bord](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/96/40.md),
+
+
+
+**(iii)** à être exportés par le titulaire de licence de tabac qui les a fabriqués pour livraison à une boutique hors taxes à l’étranger ou à titre de provisions de bord à l’étranger;
+
+
+
+
+
+**b)** 0,063 25 $ le bâtonnet, dans les autres cas.
+
+
 
 
 **3** Tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac :
-- **a)** 49,983 $ le kilogramme, si le tabac fabriqué constitue un produit non ciblé destiné, selon le cas :
-	- **(i)** à être livré par le titulaire de licence de tabac qui l’a fabriqué à une boutique hors taxes ou à un entrepôt de stockage,
-	- **(ii)** à être livré par le titulaire de licence de tabac qui l’a fabriqué à une personne pour utilisation à titre de provisions de bord conformément au [Règlement sur les provisions de bord](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/96/40.md),
-	- **(iii)** à être exporté par le titulaire de licence de tabac qui l’a fabriqué pour livraison à une boutique hors taxes à l’étranger ou à titre de provisions de bord à l’étranger;
-- **b)** 55,90 $ le kilogramme, dans les autres cas.
+
+**a)** 49,983 $ le kilogramme, si le tabac fabriqué constitue un produit non ciblé destiné, selon le cas :
+
+**(i)** à être livré par le titulaire de licence de tabac qui l’a fabriqué à une boutique hors taxes ou à un entrepôt de stockage,
 
 
-**4** Cigares, 16,60 $ le lot de 1 000 cigares.
+
+**(ii)** à être livré par le titulaire de licence de tabac qui l’a fabriqué à une personne pour utilisation à titre de provisions de bord conformément au [Règlement sur les provisions de bord](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/96/40.md),
+
+
+
+**(iii)** à être exporté par le titulaire de licence de tabac qui l’a fabriqué pour livraison à une boutique hors taxes à l’étranger ou à titre de provisions de bord à l’étranger;
+
+
+
+
+
+**b)** 57,85 $ le kilogramme, dans les autres cas.
+
+
+
+
+**4** Cigares, 18,50 $ le lot de 1 000 cigares.
 
 
 **5** Tabac en feuilles, 1,572 $ le kilogramme.
 
 
-> 2002, ch. 22, ann. 1; 2003, ch. 15, art. 47 à 49; 2006, ch. 4, art. 37 à 40.
+> 2002, ch. 22, ann. 1; 2003, ch. 15, art. 47 à 49; 2006, ch. 4, art. 37 à 40; 2007, ch. 35, art. 204 à 207.
 
 
 
@@ -6229,11 +6274,11 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 ## Droit additionnel sur les cigares
 Cigares — la plus élevée des sommes suivantes :
 
-**a)** 0,066 $ le cigare;
+**a)** 0,067 $ le cigare;
 
 
 
-**b)** 66 % de la somme applicable suivante :
+**b)** 67 % de la somme applicable suivante :
 
 **(i)** le prix de vente, dans le cas de cigares fabriqués au Canada,
 
@@ -6246,7 +6291,7 @@ Cigares — la plus élevée des sommes suivantes :
 
 
 
-> 2002, ch. 22, ann. 2; 2003, ch. 15, art. 50; 2006, ch. 4, art. 41.
+> 2002, ch. 22, ann. 2; 2003, ch. 15, art. 50; 2006, ch. 4, art. 41; 2007, ch. 35, art. 208.
 
 
 
