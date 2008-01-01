@@ -376,16 +376,19 @@ où :
 ## Taux de solde annuel maximal
 
 
-**8.1** Pour l’application du paragraphe 5(9) de la Loi, nul ne peut contribuer au compte de pension de retraite ou à la Caisse de retraite de la Gendarmerie royale du Canada à l’égard de la partie de son taux de solde annuel qui dépasse la somme déterminée selon la formule ci-après, arrondie à la centaine supérieure :
+**8.1** Pour l’application du paragraphe 5(9) de la Loi, le taux de solde annuel correspond à la somme établie selon la formule ci-après, arrondie à la centaine supérieure :
 ```
-(A – 0,013B) ÷ (0,02) + B
+(A – (B x C)) ÷ (0.02) + C
 ```
 où :
-- **A** représente
-- **a)** à l’égard de la solde qu’elle a reçue pour l’année 1995, 1 722,22 $
-- **b)** à l’égard de la solde qu’elle a reçue pour toute année après 1995, le montant du plafond des prestations déterminées au sens du paragraphe 8500(1) du [Règlement de l’impôt sur le revenu](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/901-1000/C.R.C.,%20ch.%20945.md);
-- **B** le montant du maximum des gains annuels ouvrant droit à pension de cette personne pour l’année en cause, déterminé conformément à l’article 18 du[Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md)
-> DORS/95-119, art. 1; DORS/2006-134, art. 3.
+- **A** représente :
+- **a)** à l’égard de la solde que la personne a reçue pour l’année 1995, 1 722,22 $,
+- **b)** à l’égard de la solde qu’elle a reçue pour toute année postérieure à 1995, le montant du plafond des prestations déterminées pour l’année en cause, établi conformément à la définition de ***plafond des prestations déterminées*** qui figure au paragraphe 8500(1) du [Règlement de l’impôt sur le revenu](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/901-1000/C.R.C.,%20ch.%20945.md);
+- **B** 
+- **a)** à l’égard de la solde que la personne a reçue pour toute année postérieure à 1994 et antérieure à 2008, 0,013,
+- **b)** à l’égard de la solde qu’elle a reçue pour toute année postérieure à 2007, 0,01375;
+- **C** le montant du maximum des gains annuels ouvrant droit à pension pour l’année en cause, établi conformément à l’article 18 du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md).
+> DORS/95-119, art. 1; DORS/2006-134, art. 3; DORS/2007-283, art. 1.
 
 
 
@@ -722,28 +725,36 @@ A/50 x B x C/D
 ```
 où
 - **A** représente le nombre d’années comprises dans le segment;
-- **B** selon le cas :
-- **a)** à l’égard du service ouvrant droit à pension porté à son crédit avant le 16 décembre 1994, la solde annuelle moyenne durant soit toute période, choisie par le contributeur ou en son nom, composée de périodes consécutives de service ouvrant droit à pension formant un total de cinq années, soit ses années de service ouvrant droit à pension s’il en compte moins de cinq,
-- **b)** à l’égard du service ouvrant droit à pension porté à son crédit après le 15 décembre 1994, la moins élevée des sommes suivantes :
-- **(i)** la solde annuelle moyenne visée à l’alinéa a),
-- **(ii)** la somme déterminée aux termes de l’article 8.1 du Règlement sur la pension de retraite de la Gendarmerie royale du Canada dans sa version le jour où le contributeur a cessé la dernière fois d’être membre de la Gendarmerie;
+- **B** la solde annuelle moyenne durant soit toute période, choisie par le contributeur ou en son nom, composée de périodes consécutives de service ouvrant droit à pension formant un total de cinq années, soit ses années de service ouvrant droit à pension s’il en compte moins de cinq, cette solde étant calculée, à l’égard du service ouvrant droit à pension porté à son crédit après le 15 décembre 1994, sans tenir compte de la partie de son taux de solde annuel qui dépasse la somme établie conformément à l’article 8.1 du Règlement sur la pension de retraite de la Gendarmerie royale du Canada;
 - **C** la moyenne hebdomadaire des heures de travail, établie conformément à l’article 5.3 du même règlement, pour lesquelles le contributeur était engagé durant ce segment;
 - **D** le nombre normal d’heures de travail par semaine des mem-bres à plein temps.
 
-- **(2)** L’annuité du contributeur qui a été membre à temps partiel ou employé à temps partiel pendant sa période de service ouvrant droit à pension et qui soit a atteint soixante-cinq ans, soit a droit à une pension d’invalidité aux termes du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md) ou d’un régime provincial de pensions est réduite de la somme calculée selon la formule ci-après pour chaque segment de cette période pour lequel la valeur de l’élément C varie :
+- **(2)** L’annuité du contributeur qui a été membre à temps partiel ou employé à temps partiel pendant sa période de service ouvrant droit à pension et qui soit a atteint soixante-cinq ans, soit a droit à une pension d’invalidité aux termes du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md) ou d’un régime provincial de pensions est réduite de la somme calculée selon la formule ci-après pour chaque segment de cette période pour lequel la valeur de l’élément E varie :
 ```
-0.007 x A x B x C/D
+A × B × C
 ```
 où :
-- **A** représente le nombre d’années comprises dans le segment, qui ont été portées à son crédit soit après 1965, soit après son dix-huitième anniversaire, le nombre le moins élevé étant à retenir;
-- **B** la moins élevée des sommes suivantes :
-- **a)** la solde annuelle moyenne visée à l’alinéa a) de l’élément B de la formule figurant au paragraphe (1),
-- **b)** la moyenne du maximum des gains annuels ouvrant droit à pension, au sens du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), des cinq années constituées de l’année où il a cessé la dernière fois d’être membre de la Gendarmerie et des quatre années précédentes;
-- **C** la moyenne hebdomadaire des heures de travail, établie conformément à l’article 5.3 du Règlement sur la pension de retraite de la Gendarmerie royale du Canada, pour lesquelles le contributeur était engagé durant ce segment;
-- **D** le nombre normal d’heures de travail par semaine des membres à plein temps.
+- **A** représente :
+- **a) ** si le contributeur est né avant 1943, 0,007,
+- **b) ** s’il est né en 1943, 0,00685,
+- **c) ** s’il est né en 1944, 0,0067,
+- **d) ** s’il est né en 1945, 0,00655,
+- **e) ** s’il est né en 1946, 0,0064,
+- **f) ** s’il est né après 1946, 0,00625;
+- **B** le nombre d’années comprises dans le segment qui ont été portées à son crédit soit après 1965, soit après son dix-huitième anniversaire, le nombre le moins élevé étant à retenir;
+- **C** la moins élevée des sommes suivantes :
+- **a) ** la moyenne du maximum des gains annuels ouvrant droit à pension, au sens du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), des cinq années constituées de l’année où il a cessé la dernière fois d’être membre de la Gendarmerie et des quatre années précédentes,
+- **b) ** la somme calculée selon la formule suivante :
+```
+D × E/F
+```
+où :
+- **D** représente la solde annuelle moyenne visée à l’élément B de la formule figurant au paragraphe (1),
+- **E** la moyenne hebdomadaire des heures de travail, établie conformément à l’article 5.3 du Règlement sur la pension de retraite de la Gendarmerie royale du Canada, pour lesquelles le contributeur était engagé durant ce segment,
+- **F** le nombre normal d’heures de travail par semaine des membres à plein temps.
 
 
-> DORS/2006-134, art. 5.
+> DORS/2006-134, art. 5; DORS/2007-283, art. 2.
 
 
 
@@ -752,7 +763,7 @@ où :
 
 - **(1)** Pour l’application des paragraphes 10(1) à (3) de la Loi dans leur version adaptée par l’article 17.2, la solde du contributeur est la solde qu’on était autorisé à lui payer, s’il était alors membre à plein temps :
 	- **a)** soit la dernière fois qu’il est devenu contributeur, dans le cas d’une période de service ou d’une fraction d’une période de service prévue aux divisions 6b)(ii)(C), (D), (E), (G) ou (N) de la Loi, malgré l’alinéa 10(4)a) de la Loi;
-	- **b)** soit le jour où il a effectué le choix, dans le cas d’une période de service ou d’une fraction d’une période de service prévue soit à la division 6b)(ii)(K) de la Loi, soit aux divisions 6b)(ii)(C), (D), (E), (G), (I) ou (N) de la Loi à l’égard de laquelle le contributeur a effectué un choix en vertu de la divi-sion 6b)(ii)(J) de la Loi, malgré l’alinéa 10(4)a) de la Loi;
+	- **b)** soit le jour où il a effectué le choix, dans le cas d’une période de service ou d’une fraction d’une période de service prévue aux divisions 6b)(ii)(C), (D), (E), (G) ou (N) de la Loi à l’égard de laquelle le contributeur a effectué un choix en vertu de la division 6b)(ii)(J) de la Loi, malgré l’alinéa 10(4)a) de la Loi;
 	- **c)** soit la veille de l’entrée en vigueur de la division 6b)(ii)(M) de la Loi, édictée par le paragraphe 172(4) de la [Loi sur l’Office d’investissement des régimes de pensions du secteur public](/fr/Lois/Lois%20du%20Canada/1999/ch.%2034.md), chapitre 34 des Lois du Canada (1999), dans le cas d’une période de service ou d’une fraction d’une période de service prévue à cette division;
 	- **d)** soit durant toute autre période de service ou fraction de période de service.
 
@@ -764,7 +775,7 @@ où
 - **A** représente la solde qu’on aurait été autorisé à lui payer s’il avait alors été membre à plein temps;
 - **B** la moyenne hebdomadaire des heures de travail pour lesquelles il était engagé;
 - **C** le total des moyennes hebdomadaires, pour tous ces postes, des heures de travail pour lesquelles il était engagé.
-> DORS/2006-134, art. 5.
+> DORS/2006-134, art. 5; DORS/2007-283, art. 3.
 
 
 
@@ -788,14 +799,12 @@ A x B x C/D x 1 %
 ```
 où
 - **A** représente le nombre d’années comprises dans le segment;
-- **B** selon le cas :
-- **a)** à l’égard du service ouvrant droit à pension porté à son crédit avant le 16 décembre 1994, la solde annuelle moyenne durant soit toute période, choisie par le contributeur ou en son nom, composée de périodes consécutives de service ouvrant droit à pension formant un total de cinq années, soit ses années de service ouvrant droit à pension s’il en compte moins de cinq,
-- **b)** à l’égard du service ouvrant droit à pension porté à son crédit après le 15 décembre 1994, la moins élevée des sommes suivantes :
-- **(i)** la solde annuelle moyenne visée à l’alinéa a),
-- **(ii)** la somme déterminée aux termes de l’article 8.1 du Règlement sur la pension de retraite de la Gendarmerie royale du Canada dans sa version le jour où le contributeur a cessé la dernière fois d’être membre de la Gendarmerie;
+- **B** la solde annuelle moyenne durant soit toute période, choisie par le contributeur ou en son nom, composée de périodes consécutives de service ouvrant droit à pension formant un total de cinq années, soit ses années de service ouvrant droit à pension s’il en compte moins de cinq, cette solde étant calculée, à l’égard du service ouvrant droit à pension porté à son crédit après le 15 décembre 1994, sans tenir compte de la partie de son taux de solde annuel qui dépasse la somme déterminée conformément à l’article 8.1 du Règlement sur la pension de retraite de la Gendarmerie royale du Canada;
 - **C** la moyenne hebdomadaire des heures de travail, établie conformément à l’article 5.3 du même règlement, pour lesquelles le contributeur était engagé durant ce segment;
 - **D** le nombre normal d’heures de travail par semaine des membres à plein temps.
-> DORS/2006-134, art. 5.
+
+- **(1.2)** Pour l’application de l’élément B de la formule figurant au paragraphe (1.1), la solde du contributeur est établie conformément à l’article 17.3 du Règlement sur la pension de retraite de la Gendarmerie royale du Canada.
+> DORS/2006-134, art. 5; DORS/2007-283, art. 4.
 
 
 
