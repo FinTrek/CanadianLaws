@@ -494,10 +494,8 @@ the amount to be deducted or withheld by the employer from any such payment is t
 		- **(ii)** in respect of payments made after the 15th day of a month in particular calendar year, on or before the 10th day of the following month.
 
 - **(1.12)** If at any time
-	- **(a)** the average monthly withholding amount in respect of an employer for either the first or the second calendar year before the particular calendar year that includes that time is less than $1,000,
-	- **(b)** throughout the 12-month period before that time, the employer has remitted, on or before the day on or before which the amounts were required to be remitted, all amounts each of which was required to be
-		- **(i)** deducted or withheld under subsection 153(1) of the Act, or
-		- **(ii)** remitted under Part IX of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md), and
+	- **(a)** the average monthly withholding amount in respect of an employer for either the first or the second calendar year before the particular calendar year that includes that time is less than $3,000,
+	- **(b)** throughout the 12-month period before that time, the employer has remitted, on or before the day on or before which the amounts were required to be remitted, all amounts each of which was required to be remitted under subsection 153(1) of the Act, under subsection 21(1) of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), under subsection 82(1) of the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md) or under Part IX of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md), and
 	- **(c)** throughout the 12-month period before that time, the employer has filed all returns each of which was required to be filed under this Act or Part IX of the [Excise Tax Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-15.md) on or before the day on or before which those returns were required to be filed under those Acts,
 all amounts deducted or withheld from payments described in the definition ***remuneration*** in subsection 100(1) that are made by the employer in a month that ends after that time and that is in the particular calendar year may be remitted to the Receiver General
 	- **(d)** in respect of such payments made in January, February and March of the particular calendar year, on or before the 15th day of April of the particular year,
@@ -525,7 +523,7 @@ the other employer shall be deemed to be a corporation associated with the parti
 - **(3)** Remittances made to the Receiver General under subsection 153(1) of the Act shall be accompanied by a return in prescribed form.
 
 - **(4)** Amounts deducted or withheld under subsection 153(4) of the Act shall be remitted to the Receiver General within 60 days after the end of the taxation year subsequent to the 12-month period referred to in that subsection.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/87-718, s. 1; SOR/88-165, s. 31(F); SOR/89-579, s. 1; SOR/91-536, s. 3; SOR/93-93, s. 1; SOR/94-686, s. 79(F); SOR/97-472, s. 3; SOR/99-17, s. 4.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/87-718, s. 1; SOR/88-165, s. 31(F); SOR/89-579, s. 1; SOR/91-536, s. 3; SOR/93-93, s. 1; SOR/94-686, s. 79(F); SOR/97-472, s. 3; SOR/99-17, s. 4; 2007, c. 35, s. 71.
 
 
 
@@ -1060,10 +1058,10 @@ shall, in addition to any other return required by the Act or these Regulations,
 	- **(h)** a small business investment trust (within the meaning assigned by subsection 5103(1)).
 	- **(i)** [Repealed, SOR/2005-264, s. 4]
 
-- **(2)** Where in any taxation year a reporting person (other than a registered investment) claims that a share of its capital stock issued by it, or an interest as a beneficiary under it, is a qualified investment under section 146, 146.1, 146.3 or 204 of the Act, the reporting person shall, in respect of the year and within 90 days after the end of the year, make an information return in prescribed form.
+- **(2)** Where in any taxation year a reporting person (other than a registered investment) claims that a share of its capital stock issued by it, or an interest as a beneficiary under it, is a qualified investment under section 146, 146.1, 146.3, 204 or 205 of the Act, the reporting person shall, in respect of the year and within 90 days after the end of the year, make an information return in prescribed form.
 
 - **(3)** [Repealed, SOR/2005-264, s. 4]
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/85-160, s. 2; SOR/88-165, s. 31(F); SOR/94-686, s. 79(F); SOR/2000-62, s. 1; SOR/2001-216, s. 1; SOR/2005-264, s. 4.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/85-160, s. 2; SOR/88-165, s. 31(F); SOR/94-686, s. 79(F); SOR/2000-62, s. 1; SOR/2001-216, s. 1; SOR/2005-264, s. 4; 2007, c. 35, s. 125.
 
 
 
@@ -9522,10 +9520,10 @@ that group shall, subject to subsection (4), be deemed to be one person for the 
 
 **4900** 
 
-- **(1)** For the purposes of paragraph (d) of the definition ***qualified investment*** in subsection 146(1) of the Act, paragraph (e) of the definition ***qualified investment*** in subsection 146.1(1) of the Act, paragraph (c) of the definition ***qualified investment*** in subsection 146.3(1) of the Act and paragraph (h) of the definition ***qualified investment*** in section 204 of the Act, each of the following investments is prescribed as a qualified investment for a plan trust at a particular time if at that time it is
+- **(1)** For the purposes of paragraph (d) of the definition ***qualified investment*** in subsection 146(1) of the Act, paragraph (e) of the definition ***qualified investment*** in subsection 146.1(1) of the Act, paragraph (c) of the definition ***qualified investment*** in subsection 146.3(1) of the Act, paragraph (h) of the definition ***qualified investment*** in section 204 of the Act and paragraph (d) of the definition ***qualified investment*** in subsection 205(1) of the Act, each of the following investments is prescribed as a qualified investment for a plan trust at a particular time if at that time it is
 	- **(a)** an interest in a trust or a share of the capital stock of a corporation that was a registered investment for the plan trust during the calendar year in which the particular time occurs or the immediately preceding year;
 	- **(b)** a share of the capital stock of a public corporation other than a mortgage investment corporation;
-	- **(c)** a share of the capital stock of a mortgage investment corporation that does not hold as part of its property at any time during the calendar year in which the particular time occurs any indebtedness, whether by way of mortgage or otherwise, of a person who is an annuitant, a beneficiary, an employer or a subscriber under the governing plan of the plan trust or of any other person who does not deal at arm’s length with that person;
+	- **(c)** a share of the capital stock of a mortgage investment corporation that does not hold as part of its property at any time during the calendar year in which the particular time occurs any indebtedness, whether by way of mortgage or otherwise, of a person who is a connected person under the governing plan of the plan trust;
 	- **(c.1)** a bond, debenture, note or similar obligation of a public corporation other than a mortgage investment corporation;
 	- **(d)** a unit of a mutual fund trust;
 	- **(d.1)** [Repealed, 2007, c. 29, s. 32]
@@ -9536,11 +9534,11 @@ that group shall, subject to subsection (4), be deemed to be one person for the 
 		- **(i)** the property is
 			- **(A)** a share of the capital stock of, a unit of, or a debt issued by, the issuer or another person or partnership that does not, when the security is issued, deal at arm’s length with the issuer, or
 			- **(B)** a warrant issued by the issuer or another person or partnership that does not, when the security is issued, deal at arm’s length with the issuer, that gives the holder the right to acquire a share or unit described in clause (A), and
-		- **(ii)** the issuer deals at arm’s length with each person who is an annuitant, a beneficiary, an employer or a subscriber under the governing plan of the plan trust;
+		- **(ii)** the issuer is not a connected person under the governing plan of the plan trust;
 	- **(e.01)** [Repealed, 2007, c. 29, s. 32]
 	- **(e.1)** a share of, or deposit with, a société d’entraide économique,
 	- **(f)** a share of, or similar interest in a credit union;
-	- **(g)** a bond, debenture, note or similar obligation (in this paragraph referred to as the “obligation”) issued by, or a deposit with, a credit union that, except where the plan trust is governed by a registered education savings plan, has not at any time during the calendar year in which the particular time occurs granted any benefit or privilege to a person who is an annuitant, a beneficiary or an employer under the governing plan of the plan trust, or to any other person who does not deal at arm’s length with that person, as a result of the ownership by
+	- **(g)** a bond, debenture, note or similar obligation (in this paragraph referred to as the “obligation”) issued by, or a deposit with, a credit union that, except where the plan trust is governed by a registered education savings plan, has not at any time during the calendar year in which the particular time occurs granted any benefit or privilege to a person who is a connected person under the governing plan of the plan trust, as a result of the ownership by
 		- **(i)** the plan trust of a share or obligation of, or a deposit with, the credit union, or
 		- **(ii)** a registered investment of a share or obligation of, or a deposit with, the credit union if the plan trust has invested in that registered investment,
 and a credit union shall be deemed to have granted a benefit or privilege to a person in a year if at any time in that year that person continues to enjoy a benefit or privilege that was granted in a prior year;
@@ -9549,7 +9547,7 @@ and a credit union shall be deemed to have granted a benefit or privilege to a p
 		- **(ii)** whose obligations were, at the end of each month of
 			- **(A)** the last taxation year, if any, of the cooperative corporation prior to the date of acquisition of the obligation by the plan trust, or
 			- **(B)** the period commencing three months after the date an obligation was first acquired by any plan trust and ending on the last day of the taxation year of the cooperative corporation in which that period commenced,whichever of the periods referred to in clause (A) or (B) commences later, held by plan trusts the average number of which is not less than 100 computed on the basis that no two plan trusts shall have the same individual as an annuitant or a beneficiary, as the case may be, and
-		- **(iii)** that, except where the plan trust is governed by a registered education savings plan, has not at any time during the calendar year in which the particular time occurs granted any benefit or privilege to a person who is an annuitant, a beneficiary or an employer under the governing plan of the plan trust, or to any other person who does not deal at arm’s length with that person, as a result of the ownership by
+		- **(iii)** that, except where the plan trust is governed by a registered education savings plan, has not at any time during the calendar year in which the particular time occurs granted any benefit or privilege to a person who is a connected person under the governing plan of the plan trust, as a result of the ownership by
 			- **(A)** the plan trust of a share or obligation of the cooperative corporation, or
 			- **(B)** a registered investment of a share or obligation of the cooperative corporation if the plan trust has invested in that registered investment,and a cooperative corporation shall be deemed to have granted a benefit or privilege to a person in a year if at any time in that year that person continues to enjoy a benefit or privilege that was granted in a prior year;
 	- **(i)** a bond, debenture, note or similar obligation (in this paragraph referred to as the “obligation”) of a Canadian corporation
@@ -9566,7 +9564,7 @@ and a credit union shall be deemed to have granted a benefit or privilege to a p
 		- **(ii)** the payment of the principal amount of which is guaranteed by Her Majesty in right of a province;
 	- **(i.11)** a share of the capital stock of a Canadian corporation that is registered under section 11 of the Equity Tax Credit Act, chapter 3 of the Statutes of Nova Scotia, 1993, the registration of which has not been revoked under that Act;
 	- **(i.12)** a share of the capital stock of a Canadian corporation that is registered under section 39 of the Risk Capital Investment Tax Credits Act, chapter 22 of the Statutes of the Northwest Territories, 1998, the registration of which has not been revoked under that Act;
-	- **(i.2)** indebtedness of a Canadian corporation (other than a corporation that does not deal at arm’s length with a person who is an annuitant, a beneficiary, an employer or a subscriber under the governing plan of the plan trust) represented by a bankers’ acceptance;
+	- **(i.2)** indebtedness of a Canadian corporation (other than a corporation that is a connected person under the governing plan of the plan trust) represented by a bankers’ acceptance;
 	- **(i.3)** a debt obligation issued by a Canadian corporation or a trust resident in Canada, where
 		- **(i)** the principal purpose of the corporation or trust is to derive income from, or from the disposition of, property that is
 			- **(A)** a debt obligation, or a lease, that arose in the ordinary course of business between parties dealing with each other at arm’s length,
@@ -9578,7 +9576,7 @@ and a credit union shall be deemed to have granted a benefit or privilege to a p
 			- **(B)** at the time the debt obligation is issued, the corporation or trust has issued and outstanding debt of at least $25 million;
 	- **(j)** a debt obligation of a debtor, or an interest, or for civil law a right, in that debt obligation, where
 		- **(i)** the debt obligation is fully secured by a mortgage, charge, hypothec or similar instrument in respect of real or immovable property situated in Canada, or would be fully secured were it not for a decline in the fair market value of the property after the debt obligation was issued, and
-		- **(ii)** the debtor (and any person or partnership who does not deal at arm’s length with the debtor) is not an annuitant, a beneficiary, an employer or a subscriber under the governing plan of the plan trust;
+		- **(ii)** the debtor (and any partnership that does not deal at arm’s length with the debtor) is not a connected person under the governing plan of the plan trust;
 	- **(j.1)** a debt obligation secured by a mortgage, charge, hypothec or similar instrument in respect of real or immovable property situated in Canada, or an interest, or for civil law a right, in that debt obligation, where the debt obligation is
 		- **(i)** administered by an approved lender under the [National Housing Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-11.md), and
 		- **(ii)** insured
@@ -9606,14 +9604,14 @@ and a credit union shall be deemed to have granted a benefit or privilege to a p
 	- **(m) to (n.1)** [Repealed, 2007, c. 29, s. 32]
 	- **(o)** a bond, debenture, note or similar obligation issued by the government of a country other than Canada and that had, at the time of purchase, an investment grade rating with a bond rating agency that in the ordinary course of its business rates the debt obligations issued by that government;
 	- **(p) and (p.1)** [Repealed, 2007, c. 29, s. 32]
-	- **(q)** a debt issued by a Canadian corporation (other than a corporation with share capital or a corporation that does not deal at arm’s length with a person who is an annuitant, a beneficiary, an employer or a subscriber under the governing plan of the plan trust) where
+	- **(q)** a debt issued by a Canadian corporation (other than a corporation with share capital or a corporation that is a connected person under the governing plan of the plan trust) where
 		- **(i)** the taxable income of the corporation is exempt from tax under Part I of the Act because of paragraph 149(1)(l) of the Act, and
 		- **(ii)** either
 			- **(A)** before the particular time and after 1995, the corporation
 				- **(I)** acquired, for a total consideration of not less than $25 million, property from Her Majesty in right of Canada or a province, and
 				- **(II)** put that property to a use that is the same as or similar to the use to which the property was put before the acquisition described in subclause (I), or
 			- **(B)** at the time of the acquisition of the debt by the plan trust, it was reasonable to expect that clause (A) would apply in respect of the debt no later than one year after the time of the acquisition;
-	- **(r)** a debt issued by a Canadian corporation (other than a corporation with share capital or a corporation that does not deal at arm’s length with a person who is an annuitant, a beneficiary or an employer under the governing plan of the plan trust) if
+	- **(r)** a debt issued by a Canadian corporation (other than a corporation with share capital or a corporation that is a connected person under the governing plan of the plan trust) if
 		- **(i)** the taxable income of the corporation is exempt from tax under Part I of the Act because of paragraph 149(1)(l) of the Act, and
 		- **(ii)** either
 			- **(A)** the debt is issued by the corporation as part of an issue of debt by the corporation for an amount of at least $25 million, or
@@ -9656,7 +9654,7 @@ and a credit union shall be deemed to have granted a benefit or privilege to a p
 
 - **(4)** [Repealed, SOR/2001-216, s. 6]
 
-- **(5)** For the purposes of paragraph (e) of the definition ***qualified investment*** in subsection 146.1(1) of the Act, a property is prescribed as a qualified investment for a trust governed by a registered education savings plan at any time if at that time the property is an interest in a trust or a share of the capital stock of a corporation that was a registered investment for a trust governed by a registered retirement savings plan during the calendar year in which that time occurs or during the preceding year.
+- **(5)** For the purposes of paragraph (e) of the definition ***qualified investment*** in subsection 146.1(1) of the Act and paragraph (d) of the definition ***qualified investment*** in subsection 205(1) of the Act, a property is prescribed as a qualified investment for a trust governed by a registered education savings plan or a trust governed by a registered disability savings plan at any time if at that time the property is an interest in a trust or a share of the capital stock of a corporation that was a registered investment for a trust governed by a registered retirement savings plan during the calendar year in which that time occurs or during the preceding year.
 
 - **(6)** Subject to subsections (8) and (9), for the purposes of paragraph (d) of the definition ***qualified investment*** in subsection 146(1) of the Act, paragraph (e) of the definition ***qualified investment*** in subsection 146.1(1) of the Act and paragraph (c) of the definition ***qualified investment*** in subsection 146.3(1) of the Act, a property is prescribed as a qualified investment for a trust governed by a registered retirement savings plan, a registered education savings plan and a registered retirement income fund at any time if at that time the property is
 	- **(a)** a share of the capital stock of an eligible corporation (within the meaning assigned by subsection 5100(1)), unless a person who is an annuitant, a beneficiary or a subscriber under the plan or fund is a designated shareholder of the corporation;
@@ -9719,7 +9717,7 @@ the issuer of the share or a person related to that issuer,
 		- **(i)** on account of, or in lieu or in satisfaction of, payment for the services to or for the issuer or the person related to the issuer, or
 		- **(ii)** in respect of the acquisition of the goods from, or the services provided by, the issuer or the person related to the issuer,
 the share shall, immediately before the amount is received, cease to be and shall not thereafter be a qualified investment for the trust.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-725, s. 4; SOR/83-819, s. 1; SOR/85-202, s. 1; SOR/86-390, s. 2; SOR/86-1092, s. 12(F); SOR/88-165, s. 24(F); SOR/92-660, s. 2; SOR/94-471, s. 1; SOR/94-472, s. 1; SOR/94-686, ss. 26(F), 72(F), 74(F), 75(F), 78(F), 79(F); SOR/95-513, s. 1; SOR/96-450, s. 1; SOR/98-250, s. 1; SOR/99-9, s. 1; SOR/99-81, s. 1; SOR/99-102, s. 1; SOR/2001-216, ss. 6, 10(F),11(F); SOR/2001-289, s. 8(E); SOR/2005-264, s. 6; 2007, c. 29, s. 32, c. 35, s. 89; SOR/2007-212, s. 2.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-725, s. 4; SOR/83-819, s. 1; SOR/85-202, s. 1; SOR/86-390, s. 2; SOR/86-1092, s. 12(F); SOR/88-165, s. 24(F); SOR/92-660, s. 2; SOR/94-471, s. 1; SOR/94-472, s. 1; SOR/94-686, ss. 26(F), 72(F), 74(F), 75(F), 78(F), 79(F); SOR/95-513, s. 1; SOR/96-450, s. 1; SOR/98-250, s. 1; SOR/99-9, s. 1; SOR/99-81, s. 1; SOR/99-102, s. 1; SOR/2001-216, ss. 6, 10(F),11(F); SOR/2001-289, s. 8(E); SOR/2005-264, s. 6; 2007, c. 29, s. 32, c. 35, ss. 89, 126; SOR/2007-212, s. 2.
 
 
 
@@ -9738,6 +9736,8 @@ the share shall, immediately before the amount is received, cease to be and shal
 
 ***allocation in proportion to patronage*** has the meaning assigned by subsection 135(4) of the Act; (*répartition proportionnelle à l’apport commercial*)
 
+***connected person***, in relation to a governing plan of a plan trust, means a person who is an annuitant, a beneficiary, an employer or a subscriber under, or a holder of, the governing plan and any person who does not deal at arms’s length with that person; (*personne rattachée*)
+
 ***connected shareholder*** of a corporation at any time is a person (other than an exempt person in respect of the corporation) who owns, directly or indirectly, at that time, not less than 10% of the issued shares of any class of the capital stock of the corporation or of any other corporation that is related to the corporation and, for the purposes of this definition,
 - **(a)** paragraphs (a) to (e) of the definition ***specified shareholder*** in subsection 248(1) of the Act apply, and
 - **(b)** an exempt person in respect of a corporation is a person who deals at arm’s length with the corporation where the total of all amounts, each of which is the cost amount of any share of the capital stock of the corporation, or of any other corporation that is related to it, that the person owns or is deemed to own for the purposes of the definition ***specified shareholder*** in subsection 248(1) of the Act, is less than $25,000; (*actionnaire rattaché*)
@@ -9753,7 +9753,7 @@ the share shall, immediately before the amount is received, cease to be and shal
 - **(d)** is or is related to an employee of the corporation or a corporation related thereto, where any group of employees of the corporation or of the corporation related thereto, as the case may be, controls the corporation, except where the group of employees includes a person or a related group that controls the corporation, or
 - **(e)** does not deal at arm’s length with the corporation; (*actionnaire désigné*)
 
-***governing plan*** means a registered retirement savings plan, a registered education savings plan, a registered retirement income fund, a deferred profit sharing plan or a revoked plan; (*régime d’encadrement*)
+***governing plan*** means a registered retirement savings plan, a registered education savings plan, a registered retirement income fund, a registered disability savings plan, a deferred profit sharing plan or a revoked plan; (*régime d’encadrement*)
 
 ***plan trust*** means a trust governed by a governing plan; (*fiducie de régime*)
 
@@ -9785,7 +9785,7 @@ the share shall, immediately before the amount is received, cease to be and shal
 - **(2.3)** For the purpose of this Part, a person is deemed to be a designated shareholder of a corporation at any time if the person would be a designated shareholder of the corporation at that time if, at that time, paragraphs (2.2)(a) to (c) applied in respect of that person.
 
 - **(3)** [Repealed, SOR/2005-264, s. 7]
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-725, s. 4; SOR/86-390, s. 3; SOR/86-1092, s. 13(E); SOR/90-606, s. 1; SOR/94-471, s. 2; SOR/94-686, ss. 27(F), 58(F), 78(F), 79(F); SOR/95-513, s. 2; SOR/2001-216, ss. 7, 11(F); SOR/2005-264, s. 7.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-725, s. 4; SOR/86-390, s. 3; SOR/86-1092, s. 13(E); SOR/90-606, s. 1; SOR/94-471, s. 2; SOR/94-686, ss. 27(F), 58(F), 78(F), 79(F); SOR/95-513, s. 2; SOR/2001-216, ss. 7, 11(F); SOR/2005-264, s. 7; 2007, c. 35, s. 127.
 
 
 
@@ -12950,7 +12950,7 @@ where
 - **(2)** A recognized forestry professional referred to in subsection (1) is a forestry professional who has a degree, diploma or certificate recognized by the Canadian Forestry Accreditation Board, the Canadian Institute of Forestry or the Canadian Council of Technicians and Technologists.
 
 - **(3)** A recognized forestry professional referred to in subsection (1) is not required to express an opinion as to the completeness or correctness of a description of past activities referred to in subparagraph (1)(b)(iii) or of information referred to in subparagraph (1)(b)(iv) if the information was not prepared by that recognized forestry professional.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2007-35, ss. 1, 2.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2007-35, s. 1.
 
 
 
@@ -13757,12 +13757,12 @@ where
 		- **(ii)** where the year in which the value of the fixed rate was last established precedes the year immediately preceding the year in which the increase occurs,
 			- **(A)** the Minister has approved in writing the application of this paragraph in respect of the past service event,
 			- **(B)** there are more than nine active members (within the meaning assigned by paragraph 8306(4)(a)) under the provision, and
-			- **(C)** the plan is not a designated plan under section 8515,
+			- **(C)** the plan is not a designated plan,
 	- **(f.2)** where the formula for determining the amount of lifetime retirement benefits payable under the provision to the individual includes a limit that is the product of the duration of the individual’s pensionable service and the lesser of a percentage of the individual’s remuneration and a fixed rate the value of which can reasonably be considered to be fixed each year as a portion of the defined benefit limit for that year, benefits payable as a direct consequence of an increase, after the pension credit year, in the value of the fixed rate to reflect the defined benefit limit for the year in which the increase occurs, if
 		- **(i)** except as otherwise expressly permitted by the Minister, it is reasonable to consider that, for years after 1989, the ratio of the fixed rate to the defined benefit limit has been, and will remain, constant,
 		- **(ii)** the benefits are not provided as a consequence of a second or subsequent increase in the value of the fixed rate after the time that retirement benefits under the provision commenced to be paid to the individual,
 		- **(iii)** the Minister has approved in writing the application of this paragraph in respect of the past service event, and
-		- **(iv)** the plan is not a designated plan under section 8515,
+		- **(iv)** the plan is not a designated plan,
 	- **(g)** where
 		- **(i)** the provision is a flat benefit provision,
 		- **(ii)** at the particular time, the amount (expressed on an annual basis) of lifetime retirement benefits provided under the provision to each member in respect of pensionable service in each calendar year does not exceed 40 per cent of the defined benefit limit for the year that includes the particular time,
@@ -13872,7 +13872,7 @@ the individual’s provisional PSPA with respect to an employer who participates
 
 
 - **(10)** Where, as a consequence of a past service event, benefits become provided to an individual under a defined benefit provision of a registered pension plan in respect of a period throughout which the individual was employed outside Canada, and the Minister has consented in writing to the application of this subsection, each provisional PSPA of the individual that is associated with the past service event shall be determined on the assumption that no benefits were provided in respect of the period.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 4; SOR/96-311, s. 7; SOR/99-9, s. 6; SOR/2001-67, s. 2; SOR/2005-264, s. 18.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 4; SOR/96-311, s. 7; SOR/99-9, s. 6; SOR/2001-67, s. 2; SOR/2005-264, s. 18; 2007, c. 35, s. 81.
 
 
 
@@ -15002,6 +15002,8 @@ on or before the day that an information return required by that regulator is to
 - **(b)** in full-time attendance at an educational institution, or
 - **(c)** dependent on the individual by reason of mental or physical infirmity; (*personne à charge*)
 
+***designated plan*** has the meaning assigned by section 8515; (*régime désigné*)
+
 ***disabled*** means, in relation to an individual, suffering from a physical or mental impairment that prevents the individual from performing the duties of the employment in which the individual was engaged before the commencement of the impairment; (*invalide*)
 
 ***eligible period of reduced pay*** of an employee with respect to an employer means a period (other than a period in which the employee is, at any time after 1990, connected with the employer or a period any part of which is a period of disability of the employee)
@@ -15069,7 +15071,7 @@ and, for the purposes of this definition, 2 corporations that are related to eac
 
 - **(1.1)** The definition ***surplus*** in subsection (1) applies for the purpose of subsection 147.3(7.1) of the Act.
 
-- **(2)** All words and expressions used in this Part that are defined in subsection 147.1(1) of the Act have the meanings assigned in that subsection.
+- **(2)** All words and expressions used in this Part that are defined in subsection 147.1(1) of the Act or in Part LXXXIII have the meanings assigned in those provisions.
 
 - **(3)** For the purposes of this Part, a person is connected with an employer at any time where, at that time, the person
 	- **(a)** owns, directly or indirectly, not less than 10 per cent of the issued shares of any class of the capital stock of the employer or of any other corporation that is related to the employer,
@@ -15100,7 +15102,7 @@ shall be deemed to be a contribution made under the provision on behalf of the i
 	- **(a)** for the purpose of determining whether the member benefits are permissible under this Part, the non-member benefits shall be disregarded;
 	- **(b)** for the purpose of determining whether the non-member benefits are permissible under this Part, the member benefits shall be disregarded; and
 	- **(c)** for the purpose of determining a pension adjustment, pension adjustment reversal or provisional past service pension adjustment of the individual under Part LXXXIII, the non-member benefits shall be disregarded.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/94-686, ss. 76(F), 78(F), 79(F); SOR/95-64, s. 8; SOR/99-9, s. 19; SOR/2001-67, s. 5; SOR/2001-188, s. 8; SOR/2003-328, s. 7; SOR/2005-264, s. 24; SOR/2007-116, s. 15.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/94-686, ss. 76(F), 78(F), 79(F); SOR/95-64, s. 8; SOR/99-9, s. 19; SOR/2001-67, s. 5; SOR/2001-188, s. 8; SOR/2003-328, s. 7; SOR/2005-264, s. 24; 2007, c. 35, s. 82; SOR/2007-116, s. 15.
 
 
 
@@ -15518,7 +15520,7 @@ and where
 
 #### Eligible Service
 
-	- **(a)** the only lifetime retirement benefits provided under the provision to a member (other than additional lifetime retirement benefits provided to a member because the member is totally and permanently disabled at the time the member’s retirement benefits commence to be paid) are lifetime retirement benefits provided in respect of one or more of the following periods, namely,
+	- **(a)** the only lifetime retirement benefits provided under the provision to a member (other than additional lifetime retirement benefits provided to a member because the member is totally and permanently disabled at the time the member’s retirement benefits commence to be paid) are lifetime retirement benefits provided in respect of one or more of the following periods (other than the portion of a period that is after the calendar year in which the member attains 71 years of age), namely,
 		- **(i)** a period throughout which the member is employed in Canada by, and receives remuneration from, an employer who participates in the plan,
 		- **(ii)** a period throughout which the member was employed in Canada by, and received remuneration from, a predecessor employer to an employer who participates in the plan,
 		- **(iii)** an eligible period of temporary absence of the member with respect to an employer who participates in the plan or a predecessor employer to such an employer,
@@ -15711,8 +15713,9 @@ which stipulation may provide that an amendment to the plan, or a return of cont
 the following rules apply:
 	- **(c)** the condition in paragraph (3)(b) is not applicable in respect of benefits provided under the provision to the member in respect of a period throughout which payment of the member’s benefits is suspended,
 	- **(d)** where the member was totally and permanently disabled at the time the member’s retirement benefits commenced to be paid, the condition in paragraph (3)(b) is not applicable in respect of benefits provided under the provision to the member in respect of a period of disability of the member,
-	- **(e)** the conditions in paragraphs (2)(b) and (3)(c) and (d) and section 8504 are applicable in respect of benefits payable under the provision to the member after a suspension of the member’s retirement benefits as if the member’s retirement benefits had not previously commenced to be paid, and
-	- **(f)** for the purpose of paragraph 8502(c) as it applies in respect of benefits provided under the provision on the death of the member during or after a period throughout which payment of the member’s benefits is suspended, subsections (2) and (6) are applicable as if the member’s retirement benefits had not commenced to be paid before the period.
+	- **(e)** the conditions in paragraphs (2)(b) and (3)(c) and (d) and section 8504 are applicable in respect of benefits payable under the provision to the member after a suspension of the member’s retirement benefits as if the member’s retirement benefits had not previously commenced to be paid,
+	- **(f)** for the purpose of paragraph 8502(c) as it applies in respect of benefits provided under the provision on the death of the member during or after a period throughout which payment of the member’s benefits is suspended, subsections (2) and (6) are applicable as if the member’s retirement benefits had not commenced to be paid before the period, and
+	- **(g)** the provisions in paragraph (2)(m), Part LXXXIII and subsection 8517(4) that depend on whether the member’s retirement benefits have commenced to be paid apply to past service events, commutations and transfers occurring in the period in which the member’s benefits are suspended as if the member’s benefits had not previously commenced to be paid.
 
 #### Re-employed Member — Special Rules Not Applicable
 
@@ -15769,7 +15772,89 @@ the following rules apply for the purposes of the conditions in subsection 8504(
 		- **(ii)** before December 11, 1989 where the contribution has not, before that date, been approved by the Minister under paragraph 20(1)(s) of the Act, and
 	- **(c)** it is reasonable to consider that all or substantially all of such portion of the contribution as is in respect of past service benefits was paid by the employer, with the consent of the member, in lieu of a payment or other benefit to which the member would otherwise be entitled,
 the plan becomes, for the purposes of paragraph 147.1(11)(c) of the Act, a revocable plan on the later of December 11, 1989 and the day immediately before the day on which the contribution is made.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 11; SOR/99-9, s. 22; SOR/2001-67, s. 6; SOR/2001-188, ss. 11, 14 to 16; SOR/2003-396, s. 1; SOR/2005-264, s. 27; 2007, c. 29, s. 35; SOR/2007-116, s. 16(F).
+
+#### Definitions
+
+
+- **(16)** The following definitions apply in this subsection and in subsections (17) to (23).
+
+***qualifying period*** of a member under a defined benefit provision of a pension plan means a period throughout which the member is employed by an employer who participates in the plan but does not include any period that is before the day that is the first day, on or after the later of the following days, in respect of which retirement benefits are provided under the provision to the member:
+- **(a)** the day on which retirement benefits first commenced to be paid to the member under the provision; and
+- **(b)** the member’s specified eligibility day under the provision. (*période admissible*)
+
+***specified eligibility day*** of a member under a defined benefit provision of a pension plan means the earlier of
+- **(a)** the later of
+	- **(i)** the day on which the member attains 55 years of age, and
+	- **(ii)** the day on which the member attains the earliest age at which payment of the member’s lifetime retirement benefits may commence under the terms of the provision without a reduction computed by reference to the member’s age, duration of service, or both (and without any other similar reduction), otherwise than because of the member being totally and permanently disabled; and
+- **(b)** the day on which the member attains 60 years of age. (*date d’admissibilité*)
+
+#### Bridging Benefits Payable on a Stand-alone Basis
+
+
+- **(17)** The condition in subparagraph (2)(b)(i) that bridging benefits be payable to a member under a defined benefit provision of a pension plan for a period beginning no earlier than the time lifetime retirement benefits commence to be paid under the provision to the member does not apply where the following conditions are satisfied:
+	- **(a)** the bridging benefits do not commence to be paid before the member’s specified eligibility day under the provision;
+	- **(b)** the plan provides that bridging benefits are payable under the provision to the member only for calendar months
+		- **(i)** at any time in which the member is employed by an employer who participates in the plan, or
+		- **(ii)** that begin on or after the time the member’s lifetime retirement benefits under the provision commence to be paid;
+	- **(c)** the member was not, at any time before the time at which the bridging benefits commence to be paid, connected with an employer who participates in the plan; and
+	- **(d)** the plan is not a designated plan.
+
+#### Rules of Application
+
+
+- **(18)** Where bridging benefits under a defined benefit provision of a pension plan commence to be paid to a member in circumstances to which subsection (17) applies, the following rules apply:
+	- **(a)** if the member dies before lifetime retirement benefits under the provision commence to be paid to the member, subsections (2) and (6) apply in respect of benefits provided under the provision on the death of the member as if the bridging benefits had not commenced to be paid before the member’s death; and
+	- **(b)** the provisions in paragraph (2)(m), Part LXXXIII and subsection 8517(4) that depend on whether the member’s retirement benefits have commenced to be paid apply to past service events, commutations and transfers occurring before lifetime retirement benefits under the provision commence to be paid to the member as if the bridging benefits had not commenced to be paid.
+
+#### Benefit Accruals After Pension Commencement
+
+
+- **(19)** Paragraph (3)(b) does not apply to retirement benefits (in this subsection and in subsections (20) and (21) referred to as “additional benefits”) provided under a defined benefit provision of a pension plan to a member of the plan if the following conditions are satisfied:
+	- **(a)** the additional benefits are provided in respect of all or part of a qualifying period of the member under the provision;
+	- **(b)** the amount of retirement benefits payable to the member under the provision for each whole calendar month in the qualifying period does not exceed 5% of the amount (expressed on an annualized basis) of retirement benefits that have accrued under the provision to the member to the beginning of the month, determined without a reduction computed by reference to the member’s age, duration of service, or both, and without any other similar reduction (except that, if the plan limits the amount of pensionable service of a member or prohibits the provision of benefits in respect of periods after a member attains a specific age or combination of age and pensionable service, this condition does not apply to any calendar month in respect of which no benefits can be provided to the member because of the limit or prohibition, as the case may be);
+	- **(c)** no part of the additional benefits are provided as a consequence of a past service event, unless the benefits are provided in circumstances to which subsection 8306(1) would apply if no qualifying transfers were made in connection with the past service event;
+	- **(d)** the member was not, at any time before the additional benefits become provided, connected with an employer who participates in the plan; and
+	- **(e)** the plan is not a designated plan.
+
+#### Redetermination of Benefits
+
+
+- **(20)** Where the amount of retirement benefits payable under a defined benefit provision of a pension plan to a member is redetermined to include additional benefits provided to the member in respect of a qualifying period of the member under the provision, the conditions in paragraph (2)(b) and section 8504 apply in respect of benefits payable under the provision to the member after the redetermination as if the member’s retirement benefits had first commenced to be paid at the time of the redetermination.
+
+#### Rules of Application
+
+
+- **(21)** Where additional benefits are provided under a defined benefit provision of a pension plan to a member in respect of a qualifying period of the member under the provision, the following rules apply:
+	- **(a)** if the qualifying period ends as a consequence of the member’s death, subsections (2) and (6) apply in respect of benefits provided under the provision on the death of the member as if the member’s retirement benefits had not commenced to be paid before the member’s death; and
+	- **(b)** the provisions in paragraph (2)(m), Part LXXXIII and subsection 8517(4) that depend on whether the member’s retirement benefits have commenced to be paid apply to past service events, commutations and transfers occurring in the qualifying period as if the member’s retirement benefits had not commenced to be paid.
+
+#### Anti-avoidance
+
+
+- **(22)** Subsections (20) and (21) do not apply where it is reasonable to consider that one of the main reasons for the provision of additional benefits to the member is to obtain the benefit of any of those subsections.
+
+#### Cross-plan Rules
+
+
+- **(23)** Where a member is provided with benefits under two or more associated defined benefit provisions, the determination of whether the conditions in subsections (17) and (19) are satisfied in respect of benefits payable or provided to the member under a particular associated provision shall be made on the basis of the following assumptions:
+	- **(a)** benefits payable to the member under each of the other associated provisions were payable under the particular associated provision;
+	- **(b)** if, before the member’s specified eligi-bility day (determined without reference to this paragraph) under the particular associated provision, the member had commenced to receive retirement benefits under another associated provision on or after the member’s specified eligibility day under that provision, the member’s specified eligibility day under the particular associated provision were the member’s specified eligibility day under that other associated provision; and
+	- **(c)** if one or more of the other associated provisions is in a designated plan, the plan that includes the particular provision were also a designated plan.
+
+#### Associated Defined Benefit Provisions
+
+
+- **(24)** For the purpose of subsection (23), a defined benefit provision is associated with another defined benefit provision (other than a provision that is not in a registered pension plan) if
+	- **(a)** the provisions are in the same pension plan; or
+	- **(b)** the provisions are in separate pension plans and
+		- **(i)** there is an employer who participates in both plans, or
+		- **(ii)** an employer who participates in one of the plans does not deal at arm’s length with an employer who participates in the other plan.
+
+#### Subsection (24) not Applicable
+
+
+- **(25)** A particular defined benefit provision of a pension plan is not associated with a defined benefit provision of another pension plan if it is unreasonable to expect the benefits under the particular provision to be coordinated with the benefits under the other provision and the Minister has agreed not to treat the particular provision as being associated with the other provision.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 11; SOR/99-9, s. 22; SOR/2001-67, s. 6; SOR/2001-188, ss. 11, 14 to 16; SOR/2003-396, s. 1; SOR/2005-264, s. 27; 2007, c. 29, s. 35, c. 35, s. 83; SOR/2007-116, s. 16(F).
 
 
 
@@ -15820,7 +15905,7 @@ where
 #### Highest Average Compensation
 
 
-- **(2)** For the purposes of subsection (1) and paragraph 8505(3)(d), the highest average compensation of a member of a pension plan for the purpose of a defined benefit provision of the plan, indexed to the calendar year (in this subsection referred to as the “year of commencement”) in which the member’s retirement benefits under the provision commence to be paid, is,
+- **(2)** For the purposes of subsection (1) and paragraph 8505(3)(d), the highest average compensation of a member of a pension plan for the purpose of a defined benefit provision of the plan, indexed to the calendar year (in this subsection referred to as the “year of commencement”) in which the member’s lifetime retirement benefits under the provision commence to be paid, is,
 	- **(a)** in the case of a member who has been employed for 3 non-overlapping periods of 12 consecutive months each by employers who participated under the provision for the benefit of the member, 1/3 of the greatest of all amounts each of which is the aggregate of the member’s total indexed compensation for the purpose of the provision for each of the 36 months in 3 such periods throughout which the member was so employed, and
 	- **(b)** in any other case, the amount determined by the formula
 ```
@@ -15943,7 +16028,7 @@ unless it is unreasonable to expect the benefits under the particular provision 
 - **(14)** The retirement benefits provided to a member under a defined benefit provision of a pension plan shall be deemed to comply with the condition in paragraph (5)(b) where they would so comply if the ratio that is determined under subparagraph (5)(b)(ii) were replaced by a substantially similar measure of the change in the Consumer Price Index.
 
 - **(15)** The lifetime retirement benefits provided to a member under a defined benefit provision of a pension plan shall be deemed to comply with the condition in subsection (6) where they would so comply if the amount C in the formula set out in paragraph (6)(b) were replaced by a substantially similar measure of the change in the Consumer Price Index.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/2001-67, s. 7.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/2001-67, s. 7; 2007, c. 35, s. 84.
 
 
 
@@ -16289,8 +16374,11 @@ where
 			- **(B)** contributions are made by or on behalf of the individual under a money purchase provision of a registered pension plan (other than a plan that is, in the year, a specified multi-employer plan) in respect of the period,pursuant to terms of the plan that apply in respect of periods that are not regular periods of employment,
 		- **(iii)** the lifetime retirement benefits or the contributions, as the case may be, exceed the benefits that would otherwise be provided or the contributions that would otherwise be made if the benefits or contributions were based on the services actually rendered by the individual and the remuneration actually received by the individual,
 		- **(iv)** the individual’s pension adjustment for the year with respect to the employer includes an amount in respect of the lifetime retirement benefits or the contributions, as the case may be,
-		- **(v)** no benefits are provided in respect of the period to the individual under a defined benefit provision of any registered pension plan in which the employer does not participate, and
-		- **(vi)** no contributions are made by or on behalf of the individual in respect of the period under a money purchase provision of a registered pension plan or a deferred profit sharing plan in which the employer does not participate; and
+		- **(v)** no benefits are provided in respect of the period to the individual under a defined benefit provision of any registered pension plan in which the employer does not participate,
+		- **(vi)** no contributions are made by or on behalf of the individual in respect of the period under a money purchase provision of a registered pension plan or a deferred profit sharing plan in which the employer does not participate, and
+		- **(vii)** no part of the period is after the earlier of
+			- **(A)** the time at which bridging benefits commence to be paid to the individual in circumstances to which subsection 8503(17) applied, and
+			- **(B)** the earliest day in respect of which benefits have been provided to the individual in circumstances to which subsection 8503(19) applied; and
 	- **(b)** a period of parenting of an individual is all or a part of a period that begins
 		- **(i)** at the time of the birth of a child of whom the individual is a natural parent, or
 		- **(ii)** at the time the individual adopts a child,
@@ -16332,7 +16420,7 @@ where
 	- **(a)** a period of disability of the individual, or
 	- **(b)** an eligible period of reduced pay or temporary absence of the individual with respect to the employer,
 and that is not part of a longer such period.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 14.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 14; 2007, c. 35, s. 85.
 
 
 
@@ -16674,7 +16762,7 @@ the condition in paragraph 8503(3)(a) does not apply in respect of such portion 
 or an interest in, or a right to acquire, such a share, interest or debt.
 
 - **(2)** A prohibited investment does not include
-	- **(a)** a bond, debenture, note, mortgage or similar obligation described in clause 212(1)(b)(ii)(C) of the Act;
+	- **(a)** a debt obligation described in paragraph (a) of the definition ***fully exempt interest*** in subsection 212(3) of the Act;
 	- **(b)** a share listed on a designated stock exchange;
 	- **(c)** a bond, debenture, note or similar obligation of a corporation any shares of which are listed on a designated stock exchange;
 	- **(d)** an interest in, or a right to acquire, property referred to in paragraph (b) or (c); or
@@ -16827,7 +16915,7 @@ the plan becomes, for the purposes of paragraph 147.1(11)(c) of the Act, a revoc
 		- **(iii)** the valuation is prepared in accordance with generally accepted actuarial principles applicable with respect to a valuation prepared on the basis that a plan will be terminated, and
 		- **(iv)** where more than one employer participates in the plan, assets and actuarial liabilities are apportioned in a reasonable manner among participating employers;
 	- **(c)** the recommendation is approved by the Minister; and
-	- **(d)** at the time the contribution is made, the plan is not a designated plan under section 8515.
+	- **(d)** at the time the contribution is made, the plan is not a designated plan.
 
 #### Contributions Required by Pension Benefits Legislation
 
@@ -16842,14 +16930,14 @@ the plan becomes, for the purposes of paragraph 147.1(11)(c) of the Act, a revoc
 		- **(ii)** all assumptions made for the purposes of the valuation are reasonable at the time the valuation is prepared and at the time the contribution is made, and
 		- **(iii)** where more than one employer participates in the plan, assets and actuarial liabilities are apportioned in a reasonable manner among participating employers;
 	- **(c)** the recommendation is approved by the Minister; and
-	- **(d)** at the time the contribution is made, the plan is not a designated plan under section 8515.
+	- **(d)** at the time the contribution is made, the plan is not a designated plan.
 
 #### Shared Funding Arrangement
 
 
 - **(4)** A contribution that is made by an employer to a registered pension plan is described in this subsection if
 	- **(a)** responsibility for the governance of the plan is shared between the participating employers and the members of the plan;
-	- **(b)** the contribution is made pursuant to an arrangement approved by the Minister under which it is reasonable to expect that, on a long-term basis, the members’ entitlement to benefit from actuarial surplus, the members’ obligation to fund actuarial deficiencies and the members’ obligation to make regular current service contributions, under the defined benefit provisions of the plan, will not be less than 66 2/3% or more than 100% of each such entitlement or obligation of the participating employers;
+	- **(b)** the contribution is made pursuant to an arrangement approved by the Minister under which it is reasonable to expect that, on a long-term basis, the members’ entitlement to benefit from actuarial surplus, the members’ obligation to fund actuarial deficiencies and the members’ obligation to make regular current service contributions, under the defined benefit provisions of the plan, will not be less than 66 2/3% or more than 100% of each such entitlement or obligation of the participating employers;
 	- **(c)** the contribution is a current service contribution that would be an eligible contribution under subsection 147.2(2) of the Act if no contributions were prescribed for the purposes of that subsection and if that subsection were read without reference to subparagraphs (d)(ii) and (iii);
 	- **(d)** the recommendation pursuant to which the contribution is made is such that the current service contributions to be made by the employer and the employer’s employees in respect of the provisions do not exceed,
 		- **(i)** where the amount of actuarial surplus in respect of the employer is not more than 10% of the amount of actuarial liabilities apportioned to the employer in respect of the employer’s employees and former employees, the current service contributions that would be required if there were no actuarial surplus under the provisions,
@@ -16857,8 +16945,8 @@ the plan becomes, for the purposes of paragraph 147.1(11)(c) of the Act, a revoc
 		- **(iii)** where the amount of actuarial surplus in respect of the employer is greater than 15%, but not more than 20%, of the amount of actuarial liabilities apportioned to the employer in respect of the employer’s employees and former employees, 50% of the current service contributions that would be required if there were no actuarial surplus under the provisions,
 		- **(iv)** where the amount of actuarial surplus in respect of the employer is greater than 20%, but not more than 25%, of the amount of actuarial liabilities apportioned to the employer in respect of the employer’s employees and former employees, 25% of the current service contributions that would be required if there were no actuarial surplus under the provisions, and
 		- **(v)** where the amount of actuarial surplus in respect of the employer is greater than 25% of the amount of actuarial liabilities apportioned to the employer in respect of the employer’s employees and former employees, nil; and
-	- **(e)** at the time the contribution is made, the plan is not a designated plan under section 8515.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 18; SOR/99-9, s. 25; SOR/2003-328, s. 10.
+	- **(e)** at the time the contribution is made, the plan is not a designated plan.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 18; SOR/99-9, s. 25; SOR/2003-328, s. 10; 2007, c. 35, s. 87.
 
 
 
