@@ -493,10 +493,8 @@ le montant que l’employeur doit déduire ou retenir sur un tel paiement est la
 		- **(ii)** à l’égard des paiements effectués après le 15<sup>e</sup> jour d’un mois de l’année civile donnée, au plus tard le 10<sup>e</sup> jour du mois suivant.
 
 - **(1.12)** Lorsque à un moment donné, à la fois :
-	- **a)** la retenue mensuelle moyenne effectuée par un employeur pour la première ou la deuxième année civile précédant l’année civile donnée qui inclut ce moment est inférieure à 1 000 $,
-	- **b)** tout au long de la période de 12 mois qui précède ce moment, l’employeur a remis, au plus tard à la date où ils devaient être remis, tous les montants devant être :
-		- **(i)** soit déduits ou retenus aux termes du paragraphe 153(1) de la Loi,
-		- **(ii)** soit remis aux termes de la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md),
+	- **a)** la retenue mensuelle moyenne effectuée par un employeur pour la première ou la deuxième année civile précédant l’année civile donnée qui inclut ce moment est inférieure à 3 000 $;
+	- **b)** tout au long de la période de 12 mois qui précède ce moment, l’employeur a remis, au plus tard à la date où ils devaient être remis, tous les montants à remettre ou à verser aux termes du paragraphe 153(1) de la Loi, du paragraphe 21(1) du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md), du paragraphe 82(1) de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md) ou de la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md);
 	- **c)** tout au long de la période de 12 mois qui précède ce moment, l’employeur a produit toutes les déclarations qui devaient être produites aux termes de la présente Loi ou de la partie IX de la [Loi sur la taxe d’accise](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-15.md) au plus tard à la date où ces déclarations devaient être produites aux termes de ces lois,
 les montants déduits ou retenus sur les paiements visés à la définition de ***rémunération*** au paragraphe 100(1) qui sont effectués par l’employeur au cours d’un mois qui se termine après le moment donné et qui tombe dans l’année civile donnée peuvent être remis au receveur général :
 	- **d)** au plus tard le 15 avril de l’année civile donnée en ce qui concerne les paiements effectués au cours des mois de janvier, février et mars de l’année donnée,
@@ -523,7 +521,7 @@ cet autre employeur est réputé être une société associée à l’employeur 
 - **(3)** Les remises au Receveur général en vertu du paragraphe 153(1) de la Loi doivent être accompagnées d’une déclaration selon le formulaire prescrit.
 
 - **(4)** Les montants déduits ou retenus en vertu du paragraphe 153(4) de la Loi doivent être remis au Receveur général dans les 60 jours de la fin de l’année d’imposition qui suit la période de 12 mois mentionnée dans ce paragraphe.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/87-718, art. 1; DORS/88-165, art. 31(F); DORS/89-579, art. 1; DORS/91-536, art. 3; DORS/93-93, art. 1; DORS/94-686, art. 79(F); DORS/97-472, art. 3; DORS/99-17, art. 4.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/87-718, art. 1; DORS/88-165, art. 31(F); DORS/89-579, art. 1; DORS/91-536, art. 3; DORS/93-93, art. 1; DORS/94-686, art. 79(F); DORS/97-472, art. 3; DORS/99-17, art. 4; 2007, ch. 35, art. 71.
 
 
 
@@ -1057,10 +1055,10 @@ doit remplir une déclaration de renseignements selon le formulaire prescrit, en
 	- **h) ** les fiducies de placement dans des petites entreprises au sens du paragraphe 5103(1).
 	- **i) ** [Abrogé, DORS/2005-264, art. 4]
 
-- **(2)** Le déclarant, sauf un placement enregistré, qui déclare, au cours d’une année d’imposition, qu’une action de son capital-actions qu’il a émise ou qu’une participation d’un de ses bénéficiaires est un placement admissible pour l’application des articles 146, 146.1, 146.3 ou 204 de la Loi est tenu de produire, pour l’année et dans les 90 jours suivant la fin de cette année, une déclaration de renseignements sur le formulaire prescrit.
+- **(2)** Le déclarant, sauf un placement enregistré, qui déclare, au cours d’une année d’imposition, qu’une action de son capital-actions qu’il a émise ou qu’une participation d’un de ses bénéficiaires est un placement admissible pour l’application des articles 146, 146.1, 146.3, 204 ou 205 de la Loi est tenu de produire, pour l’année et dans les 90 jours suivant la fin de cette année, une déclaration de renseignements sur le formulaire prescrit.
 
 - **(3)** [Abrogé, DORS/2005-264, art. 4]
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/85-160, art. 2; DORS/88-165, art. 31(F); DORS/94-686, art. 79(F); DORS/2000-62, art. 1; DORS/2001-216, art. 1; DORS/2005-264, art. 4.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/85-160, art. 2; DORS/88-165, art. 31(F); DORS/94-686, art. 79(F); DORS/2000-62, art. 1; DORS/2001-216, art. 1; DORS/2005-264, art. 4; 2007, ch. 35, art. 125.
 
 
 
@@ -9479,10 +9477,10 @@ ce groupe doit être, sous réserve du paragraphe (4), réputé être une person
 
 **4900** 
 
-- **(1)** Pour l’application de l’alinéa d) de la définition de ***placement admissible*** au paragraphe 146(1) de la Loi, de l’alinéa e) de la définition de ***placement admissible*** au paragraphe 146.1(1) de la Loi, de l’alinéa c) de la définition de ***placement admissible*** au paragraphe 146.3(1) de la Loi et de l’alinéa h) de la définition de ***placement admissible*** à l’article 204 de la Loi, chacun des placements suivants constitue un placement admissible pour une fiducie de régime à une date donnée si, à cette date, il s’agit :
+- **(1)** Pour l’application de l’alinéa d) de la définition de ***placement admissible*** au paragraphe 146(1) de la Loi, de l’alinéa e) de la définition de ***placement admissible*** au paragraphe 146.1(1) de la Loi, de l’alinéa c) de la définition de ***placement admissible*** au paragraphe 146.3(1) de la Loi, de l’alinéa h) de la définition de ***placement admissible*** à l’article 204 de la Loi et de l’alinéa d) de la définition de ***placement admissible*** au paragraphe 205(1) de la Loi, chacun des placements ci-après constitue un placement admissible pour une fiducie de régime à une date donnée si, à cette date, il s’agit :
 	- **a)** d’un intérêt dans une fiducie ou d’une action du capital-actions d’une société qui constitue un placement enregistré pour la fiducie de régime au cours de l’année civile pendant laquelle tombe la date donnée ou de l’année immédiatement antérieure;
 	- **b)** d’une action du capital-actions d’une société publique, sauf une société de placement hypothécaire;
-	- **c)** d’une action du capital-actions d’une société de placement hypothécaire qui, à aucun moment de l’année civile qui comprend la date donnée, ne détient parmi ses biens une dette — sous forme d’hypothèque ou toute autre forme — d’une personne qui est un rentier, un bénéficiaire, un employeur ou un souscripteur en vertu du régime d’encadrement de la fiducie de régime, ou de toute autre personne qui a un lien de dépendance avec cette personne;
+	- **c)** d’une action du capital-actions d’une société de placement hypothécaire qui, à aucun moment de l’année civile qui comprend la date donnée, ne détient parmi ses biens une dette — sous forme d’hypothèque ou toute autre forme — d’une personne qui est une personne rattachée en vertu du régime d’encadrement de la fiducie de régime;
 	- **c.1)** de quelque obligation, billet ou titre semblable d’une société publique, sauf une société de placement hypothécaire;
 	- **d)** d’une unité d’une fiducie de fonds communs de placement;
 	- **d.1)** [Abrogé, 2007, ch. 29, art. 32]
@@ -9493,11 +9491,11 @@ ce groupe doit être, sous réserve du paragraphe (4), réputé être une person
 		- **(i)** le bien est, selon le cas :
 			- **(A)** une action du capital-actions, une unité ou une créance de l’émetteur ou d’une autre personne ou société de personnes qui, au moment de l’émission du titre, a un lien de dépendance avec l’émetteur,
 			- **(B)** un droit de souscription émis par l’émetteur ou par une autre personne ou société de personnes qui, au moment de l’émission du titre, a un lien de dépendance avec l’émetteur, lequel droit confère au détenteur le droit d’acquérir des actions ou unités visées à la division (A),
-		- **(ii)** l’émetteur et quiconque est rentier, bénéficiaire, employeur ou souscripteur en vertu du régime d’encadrement de la fiducie de régime n’ont entre eux aucun lien de dépendance;
+		- **(ii)** l’émetteur n’est pas une personne rattachée en vertu du régime d’encadrement de la fiducie de régime;
 	- **e.01)** [Abrogé, 2007, ch. 29, art. 32]
 	- **e.1)** un dépôt auprès d’une société d’entraide économique ou une action de son capital-actions;
 	- **f)** d’une action d’une caisse de crédit ou d’un intérêt dans une caisse de crédit;
-	- **g)** d’une obligation, d’un billet ou d’un autre titre semblable (appelé « titre » au présent alinéa) émis par une caisse de crédit, ou d’un dépôt auprès d’une caisse de crédit, qui, sauf si la fiducie de régime est régie par un régime enregistré d’épargne-études, n’a accordé, à aucun moment de l’année civile qui comprend la date donnée, d’avantage ou de privilège à une personne qui est un rentier, un bénéficiaire ou un employeur en vertu du régime d’encadrement de la fiducie de régime, ou à toute autre personne qui a un lien de dépendance avec cette personne, du fait :
+	- **g)** d’une obligation, d’un billet ou d’un autre titre semblable (appelé « titre » au présent alinéa) émis par une caisse de crédit, ou d’un dépôt auprès d’une caisse de crédit, qui, sauf si la fiducie de régime est régie par un régime enregistré d’épargne-études, n’a accordé, à aucun moment de l’année civile qui comprend la date donnée, d’avantage ou de privilège à une personne qui est une personne rattachée en vertu du régime d’encadrement de la fiducie de régime, du fait :
 		- **(i)** que la fiducie de régime possède une action ou un titre de la caisse de crédit, ou a un dépôt auprès de la caisse de crédit, ou
 		- **(ii)** qu’un placement enregistré possède une action ou un titre de la caisse de crédit, ou un dépôt auprès de la caisse de crédit, si la fiducie de régime a investi dans ce placement enregistré,
 et une caisse de crédit est réputée avoir accordé un avantage ou un privilège à une personne au cours d’une année si, à une date quelconque de cette année, cette personne continue de bénéficier d’un avantage ou d’un privilège qui lui avait été accordé au cours d’une année antérieure;
@@ -9506,7 +9504,7 @@ et une caisse de crédit est réputée avoir accordé un avantage ou un privilè
 		- **(ii)** dont les titres étaient, à la fin de chaque mois de
 			- **(A)** la dernière année d’imposition de la société coopérative, s’il en est, avant la date à laquelle la fiducie de régime a acquis le titre, ou
 			- **(B)** la période commençant trois mois après la date à laquelle la fiducie de régime a acquis un premier titre et se terminant le dernier jour de l’année d’imposition de la société coopérative au cours de laquelle cette période a commencé,en retenant celle des périodes visées à la disposition (A) ou (B) qui débute le plus tard, détenus par des fiducies de régime dont le nombre moyen, calculé en tenant compte du fait qu’aucune fiducie de régime ne peut avoir le même particulier comme rentier ou bénéficiaire, selon le cas, n’est pas inférieur à 100, et
-		- **(iii)** qui, sauf si la fiducie de régime est régie par un régime enregistré d’épargne-études, n’a accordé, à aucun moment de l’année civile qui comprend la date donnée, d’avantage ou de privilège à une personne qui est un rentier, un bénéficiaire ou un employeur en vertu du régime d’encadrement de la fiducie de régime, ou à toute autre personne qui a un lien de dépendance avec cette personne, du fait :
+		- **(iii)** qui, sauf si la fiducie de régime est régie par un régime enregistré d’épargne-études, n’a accordé, à aucun moment de l’année civile qui comprend la date donnée, d’avantage ou de privilège à une personne qui est une personne rattachée en vertu du régime d’encadrement de la fiducie de régime, du fait :
 			- **(A)** que la fiducie de régime possède une action ou un titre de la société coopérative, ou
 			- **(B)** qu’un placement enregistré possède une action ou un titre de la société coopérative si la fiducie de régime a investi dans ce placement enregistré,et une société coopérative est réputée avoir accordé un avantage ou un privilège à une personne au cours d’une année si, à une date quelconque de cette année, cette personne continue de bénéficier d’un avantage ou d’un privilège qui lui avait été accordé au cours d’une année antérieure;
 	- **i)** d’une obligation, d’un billet ou d’un titre semblable (appelé dans le présent alinéa le «titre») d’une société canadienne
@@ -9523,7 +9521,7 @@ et une caisse de crédit est réputée avoir accordé un avantage ou un privilè
 		- **(ii)** d’autre part, dont le paiement du principal est garanti par Sa Majesté du chef d’une province;
 	- **i.11)** d’une action du capital-actions d’une société canadienne qui est agréée en vertu de l’article 11 de la loi intitulée Equity Tax Credit Act, chapitre 3 des Statutes of Nova Scotia, 1993, et dont l’agrément n’a pas été retiré en vertu de cette loi;
 	- **i.12)** d’une action du capital-actions d’une société canadienne qui est inscrite aux termes de l’article 39 de la Loi sur les crédits d’impôt pour investissement de capital de risque, chapitre 22 des Lois des Territoires du Nord-Ouest de 1998, et dont l’inscription n’a pas été révoquée en vertu de cette loi;
-	- **i.2)** d’une dette d’une société canadienne (sauf une société qui a un lien de dépendance avec une personne qui est un rentier, un bénéficiaire, un employeur ou un souscripteur en vertu du régime d’encadrement de la fiducie de régime), attestée par une acceptation de banque;
+	- **i.2)** d’une dette d’une société canadienne (sauf une société qui est une personne rattachée en vertu du régime d’encadrement de la fiducie de régime), attestée par une acceptation de banque;
 	- **i.3)** d’un titre de créance émis par une société canadienne ou par une fiducie résidant au Canada si, à la fois :
 		- **(i)** la société ou la fiducie a pour principal objet de tirer un revenu d’un bien, ou de la disposition d’un bien, qui est :
 			- **(A)** soit un titre de créance ou un bail qui a pris naissance dans le cours normal des activités d’une entreprise entre des parties sans lien de dépendance,
@@ -9535,7 +9533,7 @@ et une caisse de crédit est réputée avoir accordé un avantage ou un privilè
 			- **(B)** au moment de l’émission du titre de créance, les créances émises et en circulation de la société ou de la fiducie s’élèvent à au moins 25 000 000 $;
 	- **j)** d’un titre de créance d’un débiteur, ou d’un intérêt ou, pour l’application du droit civil, un droit sur ce titre, dans le cas où, à la fois :
 		- **(i)** le titre de créance est entièrement garanti par une hypothèque, une sûreté ou un instrument semblable relatif à un bien immeuble ou réel situé au Canada, ou le serait n’était une diminution de la juste valeur marchande du bien qui s’est opérée après l’émission du titre de créance,
-		- **(ii)** le débiteur (et toute personne ou société de personnes avec lequel il a un lien de dépendance) n’est ni rentier, ni bénéficiaire, ni employeur, ni souscripteur en vertu du régime d’encadrement de la fiducie de régime;
+		- **(ii)** le débiteur (et toute société de personnes avec laquelle il a un lien de dépendance) n’est pas une personne rattachée en vertu du régime d’encadrement de la fiducie de régime;
 	- **j.1)** d’un titre de créance garanti par une hypothèque, une sûreté ou un instrument semblable relatif à un bien immeuble ou réel situé au Canada, ou d’un intérêt ou, pour l’application du droit civil, un droit sur ce titre, si le titre de créance est, à la fois :
 		- **(i)** administré par un prêteur agréé sous le régime de la [Loi nationale sur l’habitation](/fr/Lois/Lois%20révisées%20du%20Canada/N/N-11.md),
 		- **(ii)** assuré :
@@ -9563,14 +9561,14 @@ et une caisse de crédit est réputée avoir accordé un avantage ou un privilè
 	- **m) à n.1)** [Abrogés, 2007, ch. 29, art. 32]
 	- **o)** d’une obligation, d’un billet ou d’un titre semblable émis par le gouvernement d’un pays étranger, qui, au moment de l’achat, était assorti d’une cote élevée de solvabilité attribuée par une agence de cotation des titres qui, dans le cours normal des activités de son entreprise, évalue la cote des titres de créance émis par ce gouvernement;
 	- **p) et p.1)** [Abrogés, 2007, ch. 29, art. 32]
-	- **q)** d’un titre de créance émis par une société canadienne (sauf une société à capital-actions ou une société qui a un lien de dépendance avec une personne qui est un rentier, un bénéficiaire, un employeur ou un souscripteur en vertu du régime d’encadrement de la fiducie de régime), si les conditions suivantes sont réunies :
+	- **q)** d’un titre de créance émis par une société canadienne (sauf une société à capital-actions ou une société qui est une personne rattachée en vertu du régime d’encadrement de la fiducie de régime), si les conditions suivantes sont réunies :
 		- **(i)** le revenu imposable de la société est exonéré de l’impôt prévu à la partie I de la Loi par l’effet de l’alinéa 149(1)l) de la Loi,
 		- **(ii)** selon le cas :
 			- **(A)** avant la date donnée et après 1995, la société :
 				- **(I)** a acquis un bien auprès de Sa Majesté du chef du Canada ou d’une province pour une contrepartie totale d’au moins 25 000 000 $,
 				- **(II)** a utilisé ce bien à une fin identique ou semblable à celle à laquelle il était utilisé avant cette acquisition,
 			- **(B)** au moment de l’acquisition du titre de créance par la fiducie de régime, il était raisonnable de s’attendre à ce que la division (A) s’applique au titre dans l’année suivant ce moment;
-	- **r)** d’un titre de créance émis par une société canadienne (sauf une société à capital-actions ou une société qui a un lien de dépendance avec une personne qui est un rentier, un bénéficiaire ou un employeur aux termes du régime régissant la fiducie de régime), si les conditions suivantes sont réunies :
+	- **r)** d’un titre de créance émis par une société canadienne (sauf une société à capital-actions ou une société qui est une personne rattachée en vertu du régime d’encadrement de la fiducie de régime), si les conditions suivantes sont réunies :
 		- **(i)** le revenu imposable de la société est exonéré de l’impôt prévu à la partie I de la Loi par l’effet de l’alinéa 149(1)l) de la Loi,
 		- **(ii)** l’un ou l’autre des faits suivants se vérifie :
 			- **(A)** le titre de créance est émis par la société dans le cadre d’une émission de titres de créance de la société d’un montant d’au moins 25 000 000 $,
@@ -9613,7 +9611,7 @@ et une caisse de crédit est réputée avoir accordé un avantage ou un privilè
 
 - **(4)** [Abrogé, DORS/2001-216, art. 6]
 
-- **(5)** Pour l’application de l’alinéa e) de la définition de ***placement admissible*** au paragraphe 146.1(1) de la Loi, un bien est un placement admissible pour une fiducie régie par un régime enregistré d’épargne-études à un moment donné s’il est, à ce moment, une participation dans une fiducie ou une action du capital-actions d’une société qui était un placement enregistré pour une fiducie régie par un régime enregistré d’épargne-retraite au cours de l’année civile qui comprend ce moment ou au cours de l’année précédente.
+- **(5)** Pour l’application de l’alinéa e) de la définition de ***placement admissible*** au paragraphe 146.1(1) de la Loi et de l’alinéa d) de la définition de ***placement admissible*** au paragraphe 205(1) de la Loi, un bien est un placement admissible pour une fiducie régie par un régime enregistré d’épargne-études ou une fiducie régie par un régime enregistré d’épargne-invalidité à un moment donné s’il est, à ce moment, une participation dans une fiducie ou une action du capital-actions d’une société qui était un placement enregistré pour une fiducie régie par un régime enregistré d’épargne-retraite au cours de l’année civile qui comprend ce moment ou au cours de l’année précédente.
 
 - **(6)** Pour l’application de l’alinéa d) de la définition de ***placement admissible*** au paragraphe 146(1) de la Loi, de l’alinéa e) de la définition de ***placement admissible*** au paragraphe 146.1(1) de la Loi et de l’alinéa c) de la définition de ***placement admissible*** au paragraphe 146.3(1) de la Loi, un bien constitue, sous réserve des paragraphes (8) et (9), un placement admissible pour une fiducie régie par un régime enregistré d’épargne-retraite, un régime enregistré d’épargne-études ou un fonds enregistré de revenu de retraite à un moment donné s’il est, à ce moment :
 	- **a)** une action du capital-actions d’une société admissible, au sens du paragraphe 5100(1), sauf si une personne qui est un rentier, un bénéficiaire ou un souscripteur en vertu du régime ou du fonds est un actionnaire désigné de la société;
@@ -9673,7 +9671,7 @@ la participation ou l’intérêt visé aux sous-alinéas a)(i) ou (ii) est rép
 		- **(i)** soit un montant au titre ou en paiement intégral ou partiel des services fournis à l’émetteur ou à la personne liée, ou pour leur compte,
 		- **(ii)** soit un montant relatif à l’acquisition des marchandises de l’émetteur ou de la personne liée, ou aux services fournis par ceux-ci.
 L’action cesse définitivement d’être un tel placement pour la fiducie immédiatement avant la réception du montant.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/81-725, art. 4; DORS/83-819, art. 1; DORS/85-202, art. 1; DORS/86-390, art. 2; DORS/86-1092, art. 12(F); DORS/88-165, art. 24(F); DORS/92-660, art. 2; DORS/94-471, art. 1; DORS/94-472, art. 1; DORS/94-686, art. 26(F), 72(F), 74(F), 75(F), 78(F) et 79(F); DORS/95-513, art. 1; DORS/96-450, art. 1; DORS/98-250, art. 1; DORS/99-9, art. 1; DORS/99-81, art. 1; DORS/99-102, art. 1; DORS/2001-216, art. 6, 10(F) et 11(F); DORS/2001-289, art. 8(A); DORS/2005-264, art. 6; 2007, ch. 29, art. 32, ch. 35, art. 89; DORS/2007-212, art. 2.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/81-725, art. 4; DORS/83-819, art. 1; DORS/85-202, art. 1; DORS/86-390, art. 2; DORS/86-1092, art. 12(F); DORS/88-165, art. 24(F); DORS/92-660, art. 2; DORS/94-471, art. 1; DORS/94-472, art. 1; DORS/94-686, art. 26(F), 72(F), 74(F), 75(F), 78(F) et 79(F); DORS/95-513, art. 1; DORS/96-450, art. 1; DORS/98-250, art. 1; DORS/99-9, art. 1; DORS/99-81, art. 1; DORS/99-102, art. 1; DORS/2001-216, art. 6, 10(F) et 11(F); DORS/2001-289, art. 8(A); DORS/2005-264, art. 6; 2007, ch. 29, art. 32, ch. 35, art. 89 et 126; DORS/2007-212, art. 2.
 
 
 
@@ -9722,9 +9720,11 @@ sauf si le total des montants dont chacun représente le coût indiqué d’une 
 	- **(i)** d’une part, n’a pas reçu de paiement de la coopérative après le 29 novembre 1994 par suite d’une répartition proportionnelle à l’apport commercial relativement à des marchandises de consommation ou des services,
 	- **(ii)** d’autre part, après l’acquisition de la part ou de l’action par la fiducie régie par le régime ou le fonds, ne recevra vraisemblablement pas de paiement de la coopérative par suite d’une répartition proportionnelle à l’apport commercial relativement à des marchandises de consommation ou des services. (*qualifying share*)
 
+***personne rattachée*** Est une personne rattachée en vertu du régime d’encadrement d’une fiducie de régime la personne qui est un rentier, un bénéficiaire, un employeur, un souscripteur ou un titulaire du régime d’encadrement et toute personne avec laquelle elle a un lien de dépendance. (*connected person*)
+
 ***régime annulé***[Abrogée, DORS/2001-216, art. 7]
 
-***régime d’encadrement*** Régime enregistré d’épargne-retraite, régime enregistré d’épargne-études, fonds enregistré de revenu de retraite, régime de participation différée aux bénéfices ou régime dont l’agrément est retiré. (*governing plan*)
+***régime d’encadrement*** Régime enregistré d’épargne-retraite, régime enregistré d’épargne-études, fonds enregistré de revenu de retraite, régime enregistré d’épargne-invalidité, régime de participation différée aux bénéfices ou régime dont l’agrément est retiré. (*governing plan*)
 
 ***régime dont l’agrément est retiré*** S’entend au sens de l’article 204 de la Loi. (*revoked plan*)
 
@@ -9746,7 +9746,7 @@ sauf si le total des montants dont chacun représente le coût indiqué d’une 
 - **(2.3)** Pour l’application de la présente partie, une personne est réputée être un actionnaire désigné d’une société à un moment donné dans le cas où elle serait un tel actionnaire à ce moment si les alinéas (2.2)a) à c) s’appliquaient alors à son égard.
 
 - **(3)** [Abrogé, DORS/2005-264, art. 7]
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/81-725, art. 4; DORS/86-390, art. 3; DORS/86-1092, art. 13(A); DORS/90-606, art. 1; DORS/94-471, art. 2; DORS/94-686, art. 27(F), 58(F), 78(F) et 79(F); DORS/95-513, art. 2; DORS/2001-216, art. 7 et 11(F); DORS/2005-264, art. 7.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/81-725, art. 4; DORS/86-390, art. 3; DORS/86-1092, art. 13(A); DORS/90-606, art. 1; DORS/94-471, art. 2; DORS/94-686, art. 27(F), 58(F), 78(F) et 79(F); DORS/95-513, art. 2; DORS/2001-216, art. 7 et 11(F); DORS/2005-264, art. 7; 2007, ch. 35, art. 127.
 
 
 
@@ -12852,7 +12852,7 @@ où
 - **(2)** Le professionnel reconnu de la foresterie visé au paragraphe (1) est titulaire d’un diplôme ou d’un certificat reconnu par le Bureau canadien d’agrément en foresterie, par l’Institut forestier du Canada ou par le Conseil canadien des techniciens et technologues.
 
 - **(3)** Le professionnel reconnu de la foresterie visé au paragraphe (1) n’a pas à se prononcer sur l’exhaustivité ou l’exactitude de toute description d’activités passées visée au sous-alinéa (1)b)(iii) ou de tout renseignement visé au sous-alinéa (1)b)(iv) si celui-ci n’a pas été établi par lui.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2007-35, art. 1 et 2.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2007-35, art. 1.
 
 
 
@@ -13581,7 +13581,7 @@ sa rétribution est calculée comme s’il avait reçu pour la période une rém
 
 **8303** 
 
-- **(1)** Pour l’application du paragraphe 248(1) de la Loi, « facteur d’équivalence pour services passés » d’un particulier pour une année civile quant à un employeur s’entend du total des montants suivants :
+- **(1)** Pour l’application du paragraphe 248(1) de la Loi, ***facteur d’équivalence pour services passés*** d’un particulier pour une année civile quant à un employeur s’entend du total des montants suivants :
 	- **a)** le facteur d’équivalence pour services passés accumulé du particulier pour l’année quant à l’employeur, calculé à la fin de l’année;
 	- **b)** le total des montants représentant chacun le facteur d’équivalence pour services passés (régime étranger), calculé selon les paragraphes 8308.1(5) ou (6), du particulier quant à l’employeur qui est rattaché à la modification au cours de l’année des prestations prévues par un régime étranger au sens du paragraphe 8308.1(1);
 	- **c)** le total des montants représentant chacun le facteur d’équivalence pour services passés (mécanisme de retraite déterminé), calculé selon les paragraphes 8308.3(4) ou (5), du particulier quant à l’employeur qui est rattaché à la modification au cours de l’année des prestations prévues par un mécanisme de retraite déterminé au sens du paragraphe 8308.3(1).
@@ -13609,7 +13609,7 @@ A - B - C + D
 ```
 où 
 - **A** représente le total des montants représentant chacun, pour une année civile postérieure à 1989 et antérieure à l’année donnée, le montant qui correspondrait au crédit de pension du particulier pour l’année quant à l’employeur dans le cadre de la disposition à prestations déterminées d’un régime de pension agréé (sauf un régime qui est, au moment donné, un régime interentreprises déterminé) si le droit à pension du particulier pour l’année quant à l’employeur dans le cadre de la disposition était égal à son droit à pension révisé pour l’année quant à l’employeur dans le cadre de la disposition, calculé au moment donné;
-- **B** le total qui serait calculé à l’élément A si le passage «calculé au moment donné» y était remplacé par le passage «calculé immédiatement avant le moment donné»;
+- **B** le total qui serait calculé à l’élément A si le passage « calculé au moment donné » y était remplacé par le passage « calculé immédiatement avant le moment donné »;
 - **C** la partie du montant des transferts admissibles du particulier, effectués relativement au fait lié aux services passés, qui n’est pas déduite dans le calcul de son facteur d’équivalence pour services passés provisoire quant à un autre employeur;
 - **D** le total des montants représentant chacun un transfert excédentaire de cotisations déterminées relativement au particulier et au fait lié aux services passés qui n’entre dans le calcul d’aucun autre facteur d’équivalence pour services passés provisoire du particulier qui est rattaché au fait.
 
@@ -13621,7 +13621,7 @@ où
 #### Pension normalisée
 
 
-- **(5)** Pour l’application du paragraphe (4), la pension normalisée prévue pour un particulier par la disposition à prestations déterminées d’un régime de pension agréé à un moment donné, déterminée pour une année civile (appelée «année du crédit de pension» au présent paragraphe), correspond au montant, calculé sur une année, des prestations viagères, sauf les prestations exclues, qui seraient payables au particulier aux termes de la disposition immédiatement après le moment donné si les hypothèses suivantes étaient admises :
+- **(5)** Pour l’application du paragraphe (4), la pension normalisée prévue pour un particulier par la disposition à prestations déterminées d’un régime de pension agréé à un moment donné, déterminée pour une année civile (appelée « année du crédit de pension » au présent paragraphe), correspond au montant, calculé sur une année, des prestations viagères, sauf les prestations exclues, qui seraient payables au particulier aux termes de la disposition immédiatement après le moment donné si les hypothèses suivantes étaient admises :
 	- **a)** lorsque des prestations viagères ne commencent pas à être versées au particulier aux termes de la disposition avant le moment donné, elles commencent à lui être versées immédiatement après ce moment;
 	- **b)** lorsque le particulier n’a pas atteint 65 ans avant le moment où des prestations viagères commencent à lui être versées (ou sont présumées, par l’effet de l’alinéa a), avoir commencé à lui être versées), il avait atteint cet âge à ce moment;
 	- **c)** les prestations viagères du particulier sont calculées compte tenu des faits liés aux services passés qui se sont produits au moment donné ou avant, mais non de ceux qui se sont produits après;
@@ -13631,7 +13631,7 @@ où
 		- **(ii)** tout ou partie des prestations viagères du particulier pour l’année du crédit de pension découlent d’un fait lié aux services passés et sont conformes aux modalités de la disposition qui permettent que des prestations soient assurées aux participants du régime pour des périodes d’emploi auprès d’employeurs qui ne participent pas dans le cadre de la disposition,
 la rémunération que le particulier reçoit, pour une période d’emploi, de chacun de ces employeurs qui lui assurent des prestations aux termes de la disposition constitue de la rémunération qu’il reçoit d’un employeur qui a participé dans le cadre de la disposition à son profit.
 Pour l’application du présent paragraphe, les prestations suivantes sont exclues :
-	- **f)** lorsque la formule qui sert au calcul des prestations viagères payables au particulier aux termes de la disposition comprend le calcul d’un montant correspondant au produit d’un taux fixe et de la durée de tout ou partie des services validables du particulier, les prestations qui découlent directement de l’augmentation, à un moment quelconque (appelé «moment de l’augmentation» au présent alinéa) postérieur à l’année du crédit de pension, de la valeur du taux fixe, sauf les suivantes :
+	- **f)** lorsque la formule qui sert au calcul des prestations viagères payables au particulier aux termes de la disposition comprend le calcul d’un montant correspondant au produit d’un taux fixe et de la durée de tout ou partie des services validables du particulier, les prestations qui découlent directement de l’augmentation, à un moment quelconque (appelé « moment de l’augmentation » au présent alinéa) postérieur à l’année du crédit de pension, de la valeur du taux fixe, sauf les suivantes :
 		- **(i)** les prestations assurées par suite de la deuxième augmentation, ou d’une augmentation subséquente, apportée à la valeur du taux fixe après le début du versement au particulier des prestations de retraite prévues par la disposition,
 		- **(ii)** les prestations qui n’auraient pas été assurées si la valeur du taux fixe avait été portée au montant calculé selon la formule suivante :
 ```
@@ -13648,18 +13648,18 @@ où
 		- **(ii)** dans le cas où l’année au cours de laquelle la valeur du taux fixe a été établie la dernière fois est antérieure à l’année précédant l’année de l’augmentation :
 			- **(A)** le ministre a approuvé par écrit l’application du présent alinéa relativement au fait lié aux services passés,
 			- **(B)** la disposition compte plus de neuf participants actifs, au sens de l’alinéa 8306(4)a),
-			- **(C)** le régime n’est pas un régime désigné aux termes de l’article 8515;
+			- **(C)** le régime n’est pas un régime désigné;
 	- **f.2)** lorsque la formule de calcul des prestations viagères payables au particulier aux termes de la disposition comprend un plafond qui correspond au produit de la durée des services validables du particulier et d’un pourcentage de sa rémunération ou, s’il est moins élevé, d’un taux fixe dont il est raisonnable de considérer la valeur comme étant fixée chaque année à un montant représentant une proportion du plafond des prestations déterminées pour l’année, les prestations qui découlent directement d’une augmentation apportée à la valeur du taux fixe, après l’année du crédit de pension, pour tenir compte du plafond des prestations déterminées pour l’année de l’augmentation, si, à la fois :
 		- **(i)** sauf autorisation contraire expresse du ministre, il est raisonnable de considérer que, pour les années postérieures à 1989, le rapport entre le taux fixe et le plafond des prestations déterminées a été constant et le demeurera,
 		- **(ii)** les prestations ne sont pas assurées par suite d’une deuxième augmentation, ou d’une augmentation subséquente, apportée à la valeur du taux fixe après le début du versement au particulier des prestations de retraite prévues par la disposition,
 		- **(iii)** le ministre a approuvé par écrit l’application du présent alinéa relativement au fait lié aux services passés,
-		- **(iv)** le régime n’est pas un régime désigné aux termes de l’article 8515;
+		- **(iv)** le régime n’est pas un régime désigné;
 	- **g)** lorsque les conditions suivantes sont réunies :
 		- **(i)** la disposition en question est une disposition à prestations forfaitaires,
 		- **(ii)** au moment donné, le montant, calculé sur une année, des prestations viagères assurées à chaque participant aux termes de la disposition pour les services validables effectués au cours de chaque année civile ne représente pas plus de 40 pour cent du plafond des prestations déterminées pour l’année qui comprend le moment donné,
 		- **(iii)** les conditions énoncées au paragraphe 8306(2) sont remplies en ce qui concerne la disposition et le fait lié aux services passés à l’égard duquel la pension normalisée est calculée,
 		- **(iv)** un seul taux fixe s’applique au calcul des prestations viagères du particulier,
-les prestations qui découlent directement de l’augmentation, à un moment quelconque (appelé «moment de l’augmentation» au présent alinéa) postérieur à l’année du crédit de pension, de la valeur du taux fixe, sauf les suivantes :
+les prestations qui découlent directement de l’augmentation, à un moment quelconque (appelé « moment de l’augmentation » au présent alinéa) postérieur à l’année du crédit de pension, de la valeur du taux fixe, sauf les suivantes :
 		- **(v)** les prestations prévues par suite de la deuxième augmentation, ou d’une augmentation subséquente, apportée à la valeur du taux fixe après le début du versement au particulier des prestations de retraite prévues par la disposition,
 		- **(vi)** les prestations qui n’auraient pas été assurées si la valeur du taux fixe avait été portée au plus élevé des montants suivants :
 			- **(A)** le plus élevé des montants représentant chacun le montant calculé selon la formule suivante :
@@ -13678,13 +13678,13 @@ où
 - **D** représente la valeur du taux fixe immédiatement avant le moment de l’augmentation;
 - **E** le montant dont la valeur du taux fixe visée à l’élément D devrait être majorée pour que les prestations viagères annuelles du particulier augmentent de 18 $ par année de services validables;
 - **F** la durée (en années et fractions d’années) de la période commençant le dernier en date du 1<sup>er</sup> janvier 1984 et du jour où la valeur du taux fixe visée à l’élément D s’est appliquée pour la première fois, et se terminant le jour qui comprend le moment de l’augmentation;
-	- **h)** si la disposition en question est une disposition à prestations forfaitaires, les prestations qui découlent directement de l’augmentation, à un moment quelconque (appelé «moment de l’augmentation» au présent alinéa) postérieur à l’année du crédit de pension, de la valeur du taux fixe prévue par la disposition dans le cas où, à la fois :
+	- **h)** si la disposition en question est une disposition à prestations forfaitaires, les prestations qui découlent directement de l’augmentation, à un moment quelconque (appelé « moment de l’augmentation » au présent alinéa) postérieur à l’année du crédit de pension, de la valeur du taux fixe prévue par la disposition dans le cas où, à la fois :
 		- **(i)** la valeur du taux fixe a été augmentée en conformité avec une convention conclue avant 1992,
 		- **(ii)** au moment de la conclusion de cette convention, il était raisonnable de s’attendre à ce que le pourcentage d’augmentation de la valeur du taux fixe soit à peu près égal ou soit inférieur au pourcentage d’augmentation du salaire moyen depuis l’année civile de la dernière augmentation de la valeur du taux fixe avant le moment de l’augmentation (ou, s’il s’agit de la première augmentation, depuis l’année civile à laquelle la valeur initiale du taux fixe s’est appliquée pour la première fois) jusqu’à l’année civile qui comprend le moment de l’augmentation;
 	- **i)** si la disposition en question est une disposition à prestations forfaitaires aux termes de laquelle les prestations de retraite de chaque participant sont fonction de sa catégorie d’emploi ou de son taux de rémunération de sorte que le rapport entre les prestations viagères et la rémunération n’augmente pas de façon marquée à mesure que la rémunération augmente, les prestations qui découlent directement d’un changement, intervenu après l’année du crédit de pension, touchant sa catégorie d’emploi ou son taux de rémunération;
 	- **j)** lorsque les conditions suivantes sont réunies :
 		- **(i)** les services validables du particulier dans le cadre de la disposition prennent fin avant le moment donné,
-		- **(ii)** les prestations viagères assurées au particulier aux termes de la disposition ont fait l’objet d’un rajustement de coût de vie ou d’un autre rajustement semblable pour la période (appelée «période de report» au présent alinéa) commençant au dernier en date des moments suivants et se terminant au premier en date du moment donné et du moment du début du versement au particulier des prestations viagères prévues par la disposition :
+		- **(ii)** les prestations viagères assurées au particulier aux termes de la disposition ont fait l’objet d’un rajustement de coût de vie ou d’un autre rajustement semblable pour la période (appelée « période de report » au présent alinéa) commençant au dernier en date des moments suivants et se terminant au premier en date du moment donné et du moment du début du versement au particulier des prestations viagères prévues par la disposition :
 			- **(A)** le moment auquel les services validables du particulier dans le cadre de la disposition prennent fin,
 			- **(B)** si les prestations viagères du particulier sont fonction de sa rémunération, la fin de la plus récente période pour laquelle le particulier a reçu une rémunération qui entre dans le calcul de ses prestations viagères,
 			- **(C)** si les prestations viagères du particulier sont fonction de sa rémunération et si celle-ci fait l’objet du rajustement visé à l’alinéa 8302(3)h), la fin de la période pour laquelle le rajustement est effectué,
@@ -13730,7 +13730,7 @@ pour l’application du paragraphe (6), le montant est réputé avoir été pay�
 #### Transfert excédentaire de cotisations déterminées
 
 
-- **(7.1)** Dans le cas où, par suite d’un fait lié aux services passés, des prestations viagères sont assurées à un particulier aux termes d’une disposition à prestations déterminées d’un régime de pension agréé (sauf un régime interentreprises déterminé) pour une période (appelée « période de services passés » au présent paragraphe) qui, à la fois :
+- **(7.1)** Dans le cas où, par suite d’un fait lié aux services passés, des prestations viagères sont assurées à un particulier aux termes d’une disposition à prestations déterminées d’un régime de pension agréé (sauf un régime interentreprises déterminé) pour une période (appelée « période de services passés » au présent paragraphe) qui, à la fois :
 	- **a)** était antérieurement une période de services validables du particulier dans le cadre d’une disposition à prestations déterminées donnée d’un régime de pension agréé (sauf un régime interentreprises déterminé),
 	- **b)** a cessé d’être une période de services validables du particulier dans le cadre de la disposition donnée par suite du paiement d’un montant unique qui a été transféré en totalité ou en partie pour le compte du particulier de la disposition donnée à un régime enregistré d’épargne-retraite, à un fonds enregistré de revenu de retraite, à une disposition à cotisations déterminées d’un régime de pension agréé ou à une disposition à prestations déterminées d’un régime de pension agréé qui était un régime interentreprises déterminé au moment du transfert,
 	- **c)** n’a été, à aucun moment après le paiement du montant unique et avant le fait lié aux services passés, une période de services validables du particulier dans le cadre d’une disposition à prestations déterminées d’un régime de pension agréé (sauf un régime interentreprises déterminé),
@@ -13760,7 +13760,7 @@ Pour l’application du présent paragraphe, l’administrateur du régime déte
 
 
 - **(10)** Lorsque, par suite d’un fait lié aux services passés, des prestations sont assurées à un particulier aux termes de la disposition à prestations déterminées d’un régime de pension agréé pour une période tout au long de laquelle le particulier occupait un emploi à l’étranger et que le ministre consent par écrit à appliquer le présent paragraphe, chaque facteur d’équivalence pour services passés provisoire du particulier qui est rattaché au fait est calculé selon l’hypothèse qu’aucune prestation n’est assurée pour la période.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/95-64, art. 4; DORS/96-311, art. 7; DORS/99-9, art. 6; DORS/2001-67, art. 2; DORS/2005-264, art. 18.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/95-64, art. 4; DORS/96-311, art. 7; DORS/99-9, art. 6; DORS/2001-67, art. 2; DORS/2005-264, art. 18; 2007, ch. 35, art. 81.
 
 
 
@@ -14915,6 +14915,8 @@ l’émetteur remplit, dans les 30 jours suivant la réception de la demande, le
 - **e)** pilote de ligne;
 - **f)** travailleur paramédical. (*public safety occupation*)
 
+***régime désigné*** S’entend au sens de l’article 8515. (*designated plan*)
+
 ***régime exclu*** S’entend, selon le cas :
 - **a)** d’un régime existant qui comportait une disposition à prestations déterminées le 27 mars 1988;
 - **b)** d’un régime de pension institué en vue d’assurer des prestations à un ou plusieurs particuliers aux termes d’une disposition à prestations déterminées en remplacement des prestations auxquelles ils avaient droit aux termes d’une telle disposition d’un autre régime exclu, indépendamment du fait que des prestations soient aussi assurées à d’autres particuliers. (*grandfathered plan*)
@@ -14936,7 +14938,7 @@ Pour l’application de la présente définition, les sociétés qui sont liées
 
 - **(1.1)** La définition de ***surplus*** au paragraphe (1) s’applique dans le cadre du paragraphe 147.3(7.1) de la Loi.
 
-- **(2)** Les termes utilisés à la présente partie qui sont définis au paragraphe 147.1(1) de la Loi s’entendent au sens de celui-ci.
+- **(2)** Les termes de la présente partie qui sont définis au paragraphe 147.1(1) de la Loi ou dans la partie LXXXIII s’entendent au sens de ces dispositions.
 
 - **(3)** Pour l’application de la présente partie, une personne est rattachée à un employeur à un moment donné si, à ce moment, selon le cas :
 	- **a)** elle est, directement ou indirectement, propriétaire d’au moins 10 pour cent des actions émises d’une catégorie du capital-actions de l’employeur ou de toute société liée à celui-ci;
@@ -14966,7 +14968,7 @@ Pour l’application du présent paragraphe :
 	- **a)** pour déterminer si les prestations de participant sont permises par la présente partie, il n’est pas tenu compte des prestations de non-participant;
 	- **b)** pour déterminer si les prestations de non-participant sont permises par la présente partie, il n’est pas tenu compte des prestations de participant;
 	- **c)** pour calculer le facteur d’équivalence, le facteur d’équivalence rectifié ou le facteur d’équivalence pour services passés du particulier en vertu de la partie LXXXIII, il n’est pas tenu compte des prestations de non-participant.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/94-686, art. 76(F), 78(F) et 79(F); DORS/95-64, art. 8; DORS/99-9, art. 19; DORS/2001-67, art. 5; DORS/2001-188, art. 8; DORS/2003-328, art. 7; DORS/2005-264, art. 24; DORS/2007-116, art. 15.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/94-686, art. 76(F), 78(F) et 79(F); DORS/95-64, art. 8; DORS/99-9, art. 19; DORS/2001-67, art. 5; DORS/2001-188, art. 8; DORS/2003-328, art. 7; DORS/2005-264, art. 24; 2007, ch. 35, art. 82; DORS/2007-116, art. 15.
 
 
 
@@ -15249,7 +15251,7 @@ où
 
 #### Prestation après-retraite au survivant
 
-	- **d)** des prestations de retraite (appelées «prestations au survivant» au présent alinéa) assurées à un ou plusieurs bénéficiaires d’un participant décédé après le début du versement à celui-ci des prestations de retraite prévues par la disposition, si les conditions suivantes sont réunies :
+	- **d)** des prestations de retraite (appelées « prestations au survivant » au présent alinéa) assurées à un ou plusieurs bénéficiaires d’un participant décédé après le début du versement à celui-ci des prestations de retraite prévues par la disposition, si les conditions suivantes sont réunies :
 		- **(i)** chaque bénéficiaire est, au moment du décès du participant, soit l’époux ou le conjoint de fait ou l’ex-époux ou l’ancien conjoint de fait du participant, soit une personne à la charge du participant,
 		- **(ii)** les prestations au survivant assurées à l’époux ou au conjoint de fait ou à l’ex-époux ou à l’ancien conjoint de fait sont payables pour une période commençant après le décès du participant et se terminant au décès de l’époux ou du conjoint de fait ou de l’ex-époux ou de l’ancien conjoint de fait,
 		- **(iii)** les prestations au survivant assurées à une personne à charge sont payables pour une période commençant après le décès du participant et se terminant au plus tard à la fin de la période admissible de prestations au survivant de cette personne,
@@ -15258,7 +15260,7 @@ où
 
 #### Prestation préretraite au survivant
 
-	- **e)** des prestations de retraite (appelées «prestations au survivant» au présent alinéa) assurées à un ou plusieurs bénéficiaires d’un participant décédé avant le début du versement à celui-ci des prestations de retraite prévues par la disposition, si les conditions suivantes sont réunies :
+	- **e)** des prestations de retraite (appelées « prestations au survivant » au présent alinéa) assurées à un ou plusieurs bénéficiaires d’un participant décédé avant le début du versement à celui-ci des prestations de retraite prévues par la disposition, si les conditions suivantes sont réunies :
 		- **(i)** aucune autre prestation (sauf celles permises par les alinéas g), j), l.1) ou n)) n’est payable par suite du décès du participant,
 		- **(ii)** chaque bénéficiaire est, au moment du décès du participant, soit l’époux ou le conjoint de fait ou l’ex-époux ou l’ancien conjoint de fait du participant, soit une personne à la charge du participant,
 		- **(iii)** les prestations au survivant assurées à l’époux ou au conjoint de fait ou à l’ex-époux ou à l’ancien conjoint de fait sont payables pour une période commençant après le décès du participant et se terminant au décès de l’époux ou du conjoint de fait ou de l’ex-époux ou de l’ancien conjoint de fait,
@@ -15277,7 +15279,7 @@ où
 
 #### Prestation préretraite au survivant — autre règle
 
-	- **f)** des prestations de retraite (appelées «prestations au survivant» au présent alinéa) assurées au bénéficiaire d’un participant décédé avant le début du versement à celui-ci des prestations de retraite prévues par la disposition, si les conditions suivantes sont réunies :
+	- **f)** des prestations de retraite (appelées « prestations au survivant » au présent alinéa) assurées au bénéficiaire d’un participant décédé avant le début du versement à celui-ci des prestations de retraite prévues par la disposition, si les conditions suivantes sont réunies :
 		- **(i)** aucune autre prestation (sauf celles permises par les alinéas g), j), l.1) ou n)) n’est payable par suite du décès du participant,
 		- **(ii)** le bénéficiaire est l’époux ou le conjoint de fait ou l’ex-époux ou l’ancien conjoint de fait du participant,
 		- **(iii)** les prestations au survivant sont payables pour une période commençant au plus tard au dernier en date des jours suivants et se terminant au décès du bénéficiaire :
@@ -15301,7 +15303,7 @@ lesquelles prestations seraient conformes à l’alinéa c) si la personne parti
 		- **(ii)** si le sous-alinéa (iii) ne s’applique pas, aucun montant unique ne dépasse le solde, immédiatement avant le versement, du compte net des cotisations du participant,
 		- **(iii)** aucun montant unique ne dépasse le montant qui correspondrait au solde, immédiatement avant le versement du montant unique, du compte net des cotisations du participant si, pour chaque cotisation pour services courants que le participant verse aux termes de la disposition, le compte était crédité, au moment du versement de la cotisation, d’un montant supplémentaire égal à la cotisation (à l’exception de la partie éventuelle de celle-ci qui est versée pour une ou plusieurs périodes autres que des périodes d’emploi régulier et que le participant n’aurait pas été tenu de verser s’il s’était agi de périodes d’emploi régulier), dans le cas où :
 			- **(A)** soit le ministre renonce, conformément au paragraphe (5), à appliquer à la disposition la condition énoncée à l’alinéa (4)a),
-			- **(B)** soit les cotisations que le participant verse aux termes de la disposition pour chaque année civile postérieure à 1990 seraient conformes à l’alinéa (4)a) si le pourcentage «70 pour cent» à la division (4)a)(i)(B) était remplacé par le pourcentage «50 pour cent»;
+			- **(B)** soit les cotisations que le participant verse aux termes de la disposition pour chaque année civile postérieure à 1990 seraient conformes à l’alinéa (4)a) si le pourcentage « 70 pour cent » à la division (4)a)(i)(B) était remplacé par le pourcentage « 50 pour cent »;
 
 #### Paiement de la valeur de rachat des prestations au décès préretraite
 
@@ -15318,8 +15320,8 @@ lesquelles prestations seraient conformes à l’alinéa c) si la personne parti
 
 #### Prestation de décès après-retraite supplémentaire
 
-	- **k)** des prestations de retraite (appelées «prestations de décès supplémentaires» au présent alinéa) payables après le décès d’un participant qui survient après le début du versement à celui-ci des prestations de retraite prévues par la disposition qui constituent :
-		- **(i)** soit des prestations de retraite assurées à l’époux ou au conjoint de fait ou à l’ex-époux ou à l’ancien conjoint de fait du participant qui dépassent les prestations permises par l’alinéa d), mais qui seraient ainsi permises si le pourcentage « 66 2/3 pour cent » au sous-alinéa d)(iv) était remplacé par le pourcentage « 100 pour cent »,
+	- **k)** des prestations de retraite (appelées « prestations de décès supplémentaires » au présent alinéa) payables après le décès d’un participant qui survient après le début du versement à celui-ci des prestations de retraite prévues par la disposition qui constituent :
+		- **(i)** soit des prestations de retraite assurées à l’époux ou au conjoint de fait ou à l’ex-époux ou à l’ancien conjoint de fait du participant qui dépassent les prestations permises par l’alinéa d), mais qui seraient ainsi permises si le pourcentage « 66 2/3 pour cent » au sous-alinéa d)(iv) était remplacé par le pourcentage « 100 pour cent »,
 		- **(ii)** soit des prestations de retraite assurées à un ou plusieurs bénéficiaires du participant qui dépassent les prestations permises par l’alinéa c) mais qui seraient ainsi permises s’il était fait abstraction de la division c)(i)(A),
 		- **(iii)** soit une combinaison des prestations de retraite visées aux sous-alinéas (i) et (ii),
 et si les conditions suivantes sont réunies :
@@ -15333,17 +15335,17 @@ et si les conditions suivantes sont réunies :
 
 #### Prestation de raccordement supplémentaire
 
-	- **l)** des prestations de raccordement dépassant celles que permet l’alinéa b) — l’excédent étant appelé «prestations de raccordement supplémentaires» au présent alinéa — assurées à un participant, si les conditions suivantes sont réunies :
+	- **l)** des prestations de raccordement dépassant celles que permet l’alinéa b) — l’excédent étant appelé « prestations de raccordement supplémentaires » au présent alinéa — assurées à un participant, si les conditions suivantes sont réunies :
 		- **(i)** les prestations de raccordement supplémentaires seraient permises par l’alinéa b) si, à la fois :
-			- **(A)** la formule figurant au sous-alinéa b)(ii) était remplacée par « A/12 × C »,
+			- **(A)** la formule figurant au sous-alinéa b)(ii) était remplacée par « A/12 × C »,
 			- **(B)** l’élément A de cette formule était remplacé par ce qui suit :
-- **« A** représente 40 % du maximum des gains annuels ouvrant droit à pension pour l’année du début du versement des prestations de raccordement au participant, »
+- **« A** représente 40 % du maximum des gains annuels ouvrant droit à pension pour l’année du début du versement des prestations de raccordement au participant, »
 		- **(ii)** les prestations de raccordement supplémentaires sont prévues en remplacement de la totalité ou d’une partie des prestations qui seraient payables par ailleurs au participant aux termes de la disposition,
 		- **(iii)** la valeur actualisée, au moment du début du versement au participant des prestations de retraite prévues par la disposition, de toutes les prestations ainsi prévues pour le participant ne dépasse pas la valeur actualisée, à ce moment, des prestations qui seraient ainsi prévues en l’absence des prestations de raccordement supplémentaires;
 
 #### Prestation de raccordement du survivant
 
-	- **l.1)** des prestations de retraite (appelées « prestations de raccordement du survivant » au présent alinéa) assurées au bénéficiaire d’un participant après le décès de ce dernier, si les conditions suivantes sont réunies :
+	- **l.1)** des prestations de retraite (appelées « prestations de raccordement du survivant » au présent alinéa) assurées au bénéficiaire d’un participant après le décès de ce dernier, si les conditions suivantes sont réunies :
 		- **(i)** le bénéficiaire est l’époux ou le conjoint de fait ou l’ex-époux ou l’ancien conjoint de fait du participant,
 		- **(ii)** les prestations de raccordement du survivant sont payables par suite du choix du bénéficiaire,
 		- **(iii)** ces prestations seraient conformes à l’alinéa l) si le bénéficiaire participait au régime;
@@ -15383,7 +15385,7 @@ et si les conditions suivantes sont réunies :
 
 #### Services admissibles
 
-	- **a)** les seules prestations viagères prévues pour un participant par la disposition (sauf les prestations viagères supplémentaires qui lui sont assurées en raison de son invalidité totale et permanente au moment où des prestations de retraite commencent à lui être versées) sont celles qui se rapportent à une ou plusieurs des périodes suivantes :
+	- **a)** les seules prestations viagères prévues pour un participant par la disposition (sauf les prestations viagères supplémentaires qui lui sont assurées en raison de son invalidité totale et permanente au moment où des prestations de retraite commencent à lui être versées) sont celles qui se rapportent à une ou plusieurs des périodes ci-après, à l’exclusion de la partie d’une période qui est postérieure à l’année civile dans laquelle le participant atteint 71 ans :
 		- **(i)** la période tout au long de laquelle il est au service, au Canada, d’un employeur qui participe au régime et dont il reçoit une rémunération,
 		- **(ii)** la période tout au long de laquelle il est au service, au Canada, d’un employeur remplacé, quant à un employeur qui participe au régime, dont il reçoit une rémunération,
 		- **(iii)** une période admissible d’absence temporaire du participant en ce qui concerne un employeur qui participe au régime ou un employeur remplacé quant à un tel employeur,
@@ -15396,7 +15398,7 @@ et si les conditions suivantes sont réunies :
 
 #### Prestations postérieures au début du service
 
-	- **b)** aucune prestation n’est assurée à un participant par la disposition (appelée «disposition donnée» au présent alinéa) pour une période postérieure au début du versement au participant de prestations de retraite prévues par une disposition à prestations déterminées :
+	- **b)** aucune prestation n’est assurée à un participant par la disposition (appelée « disposition donnée » au présent alinéa) pour une période postérieure au début du versement au participant de prestations de retraite prévues par une disposition à prestations déterminées :
 		- **(i)** soit du régime,
 		- **(ii)** soit d’un autre régime de pension agréé si, selon le cas :
 			- **(A)** l’employeur qui a participé à la disposition donnée au profit du participant a aussi participé, au profit de celui-ci, à la disposition à prestations déterminées de l’autre régime,
@@ -15430,7 +15432,7 @@ pour l’application du présent alinéa :
 
 #### Prestation majorée pour participant invalide
 
-	- **d)** lorsque les prestations viagères assurées à un participant par la disposition varient selon qu’il a ou non une déficience mentale ou physique au moment (appelé «début du versement» au présent alinéa) où les prestations de retraite prévues par la disposition commencent à lui être versées :
+	- **d)** lorsque les prestations viagères assurées à un participant par la disposition varient selon qu’il a ou non une déficience mentale ou physique au moment (appelé « début du versement » au présent alinéa) où les prestations de retraite prévues par la disposition commencent à lui être versées :
 		- **(i)** les prestations viagères qui lui sont payables sont conformes au plafond qui serait calculé selon la formule figurant à l’alinéa c) si le participant n’avait pas de déficience au début du versement, dans le cas où :
 			- **(A)** il n’a pas d’invalidité totale et permanente au début du versement,
 			- **(B)** il a une telle invalidité à ce moment et est rattaché, après 1990, à un employeur qui a participé au régime,
@@ -15481,7 +15483,7 @@ le montant qui est ainsi déduit comprend les prestations viagères ou la rente 
 
 #### Prestation de raccordement — restriction
 
-	- **k)** des prestations de raccordement ne sont pas versées aux termes de la disposition au participant qui reçoit de telles prestations aux termes d’une autre disposition à prestations déterminées du régime (appelé «régime donné» au présent alinéa) ou de la disposition à prestations déterminées d’un autre régime de pension agréé; toutefois, la présente condition ne s’applique pas si le ministre y renonce ou si les conditions suivantes sont réunies :
+	- **k)** des prestations de raccordement ne sont pas versées aux termes de la disposition au participant qui reçoit de telles prestations aux termes d’une autre disposition à prestations déterminées du régime (appelé « régime donné » au présent alinéa) ou de la disposition à prestations déterminées d’un autre régime de pension agréé; toutefois, la présente condition ne s’applique pas si le ministre y renonce ou si les conditions suivantes sont réunies :
 		- **(i)** les prestations de raccordement sont versées au participant aux termes d’une seule disposition à prestations déterminées du régime donné,
 		- **(ii)** la décision d’assurer au participant des prestations de raccordement aux termes du régime donné n’a été prise ni par le participant, ni par des personnes avec lesquelles il a un lien de dépendance, ni à la fois par le participant et ces personnes,
 		- **(iii)** l’employeur qui a participé à un régime de pension agréé (sauf le régime donné), dont la disposition à prestations déterminées prévoit le versement de prestations de raccordement au participant :
@@ -15506,7 +15508,7 @@ pour l’application du présent alinéa, ne sont pas des prestations de raccord
 		- **(i)** le total des cotisations pour services courants à verser par le participant pour une année civile postérieure à 1990, ne comprenant ni période d’invalidité ni période admissible de salaire réduit ou d’absence temporaire de celui-ci, ne dépasse pas le moins élevé des montants suivants :
 			- **(A)** 9 pour cent du total de la rétribution que le participant reçoit pour l’année d’un employeur qui participe au régime au cours de l’année au profit du participant,
 			- **(B)** le total de 1 000 $ et de 70 pour cent de l’ensemble des montants représentant chacun le crédit de pension du participant (déterminé selon la partie LXXXIII) pour l’année quant à l’employeur dans le cadre de la disposition, abstraction faite des alinéas 8302(2)b) et (3)g),
-		- **(ii)** la méthode de calcul des cotisations pour services courants à verser par le participant pour une année civile qui comprend une période d’invalidité ou une période admissible de salaire réduit ou d’absence temporaire de celui-ci — ces périodes étant appelées «périodes de services réduits» au présent sous-alinéa — est conforme à celle qui sert à calculer les cotisations pour les années visées au sous-alinéa (i), sauf que le participant peut verser ou peut être tenu de verser, pour les périodes de services réduits, des cotisations pour services courants ne dépassant pas le montant qui sert à juste titre à financer ses prestations pour ces périodes,
+		- **(ii)** la méthode de calcul des cotisations pour services courants à verser par le participant pour une année civile qui comprend une période d’invalidité ou une période admissible de salaire réduit ou d’absence temporaire de celui-ci — ces périodes étant appelées « périodes de services réduits » au présent sous-alinéa — est conforme à celle qui sert à calculer les cotisations pour les années visées au sous-alinéa (i), sauf que le participant peut verser ou peut être tenu de verser, pour les périodes de services réduits, des cotisations pour services courants ne dépassant pas le montant qui sert à juste titre à financer ses prestations pour ces périodes,
 		- **(iii)** le total des cotisations à verser par le participant relativement aux prestations qui, par suite d’une opération, d’un événement ou de circonstances se produisant à un moment donné, sont assurées aux termes de la disposition pour des périodes antérieures à ce moment, ne dépasse pas le montant qui sert à juste titre à financer ces prestations;
 
 #### Versement anticipé des cotisations des participants
@@ -15577,7 +15579,8 @@ les règles suivantes s’appliquent :
 	- **c)** la condition énoncée à l’alinéa (3)b) ne s’applique pas aux prestations assurées au participant aux termes de la disposition pour une période tout au long de laquelle le versement des prestations au participant est suspendu;
 	- **d)** lorsque le participant avait une invalidité totale et permanente au moment où les prestations de retraite ont commencé à lui être versées, la condition énoncée à l’alinéa (3)b) ne s’applique pas aux prestations qui lui sont assurées par la disposition pour une période d’invalidité;
 	- **e)** les conditions énoncées aux alinéas (2)b), (3)c) et d) et à l’article 8504 s’appliquent aux prestations payables au participant aux termes de la disposition après la suspension comme si les prestations de retraite n’avaient pas commencé à lui être versées;
-	- **f)** pour l’application de l’alinéa 8502c) aux prestations prévues par la disposition au décès du participant survenu pendant ou après une période tout au long de laquelle leur versement est suspendu, les paragraphes (2) et (6) s’appliquent comme si le versement des prestations de retraite au participant n’avait pas commencé avant cette période.
+	- **f)** pour l’application de l’alinéa 8502c) aux prestations prévues par la disposition au décès du participant survenu pendant ou après une période tout au long de laquelle leur versement est suspendu, les paragraphes (2) et (6) s’appliquent comme si le versement des prestations de retraite au participant n’avait pas commencé avant cette période;
+	- **g)** les dispositions de l’alinéa (2)m), de la partie LXXXIII et du paragraphe 8517(4) dont l’application varie selon que les prestations de retraite du participant ont commencé à être versées s’appliquent aux faits liés aux services passés, aux rachats et aux transferts se produisant au cours de la période où les prestations du participant sont suspendues comme si les prestations du participant n’avaient pas commencé à être versées.
 
 #### Inapplication des règles spéciales au participant employé de nouveau
 
@@ -15610,7 +15613,7 @@ les règles suivantes s’appliquent :
 
 
 - **(13)** Malgré le paragraphe (3) :
-	- **a)** pour l’application de la condition énoncée à l’alinéa (3)b) aux prestations prévues par le régime de pension institué par la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md), le passage «un autre régime de pension agréé» au sous-alinéa (3)b)(ii) ne désigne pas les régimes de pension institués par la [Loi sur la pension de retraite des Forces canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-17.md) et la [Loi sur la pension de retraite de la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-11.md);
+	- **a)** pour l’application de la condition énoncée à l’alinéa (3)b) aux prestations prévues par le régime de pension institué par la [Loi sur la pension de la fonction publique](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-36.md), le passage « un autre régime de pension agréé » au sous-alinéa (3)b)(ii) ne désigne pas les régimes de pension institués par la [Loi sur la pension de retraite des Forces canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-17.md) et la [Loi sur la pension de retraite de la Gendarmerie royale du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/R/R-11.md);
 	- **b)** la condition énoncée à l’alinéa (3)c) ne s’applique pas aux prestations prévues par le régime de pension institué par la [Loi sur la pension de retraite des Forces canadiennes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-17.md).
 
 #### Réduction artificielle du facteur d’équivalence
@@ -15618,7 +15621,7 @@ les règles suivantes s’appliquent :
 
 - **(14)** Lorsque les conditions suivantes sont réunies :
 	- **a)** les prestations viagères assurées à un participant aux termes de la disposition à prestations déterminées d’un régime de pension agréé sont fonction de sa rémunération,
-	- **b)** certains types de rémunération (appelée «rémunération exclue» au présent paragraphe) n’entrent pas dans le calcul de ses prestations viagères,
+	- **b)** certains types de rémunération (appelée « rémunération exclue » au présent paragraphe) n’entrent pas dans le calcul de ses prestations viagères,
 	- **c)** il est raisonnable de considérer que l’un des principaux motifs pour lesquels un employeur lui a versé des sommes sous forme de rémunération exclue consistait à réduire artificiellement son crédit de pension quant à l’employeur dans le cadre de la disposition,
 les présomptions suivantes s’appliquent aux fins des conditions énoncées au paragraphe 8504(1) :
 	- **d)** le participant est réputé avoir été rattaché à l’employeur pendant qu’il était à son service;
@@ -15628,12 +15631,94 @@ les présomptions suivantes s’appliquent aux fins des conditions énoncées au
 
 
 - **(15)** L’agrément d’un régime de pension agréé peut être retiré en application de l’alinéa 147.1(11)c) de la Loi au dernier en date du 11 décembre 1989 et de la veille du versement d’une cotisation d’employeur au régime, si les conditions suivantes sont réunies :
-	- **a)** tout ou partie de la cotisation est versée au titre des prestations (appelées «prestations pour services passés» au présent paragraphe) prévues par le régime pour un participant relativement à une période antérieure à 1990 et antérieure à l’année civile au cours de laquelle la cotisation est versée;
+	- **a)** tout ou partie de la cotisation est versée au titre des prestations (appelées « prestations pour services passés » au présent paragraphe) prévues par le régime pour un participant relativement à une période antérieure à 1990 et antérieure à l’année civile au cours de laquelle la cotisation est versée;
 	- **b)** la cotisation est versée :
 		- **(i)** soit après le 10 décembre 1989,
 		- **(ii)** soit avant le 11 décembre 1989 lorsqu’elle n’a pas été approuvée par le ministre avant cette date aux termes de l’alinéa 20(1)s) de la Loi;
 	- **c)** il est raisonnable de considérer que l’employeur, en accord avec le participant, a versé la totalité, ou presque, de la partie de la cotisation qui se rapporte aux prestations pour services passés au lieu de payer au participant un montant ou autre prestation auquel il aurait droit par ailleurs.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/95-64, art. 11; DORS/99-9, art. 22; DORS/2001-67, art. 6; DORS/2001-188, art. 11 et 14 à 16; DORS/2003-396, art. 1; DORS/2005-264, art. 27; 2007, ch. 29, art. 35; DORS/2007-116, art. 16(F).
+
+#### Définitions
+
+
+- **(16)** Les définitions qui suivent s’appliquent au présent paragraphe et aux paragraphes (17) à (23).
+
+***date d’admissibilité*** Le premier en date des jours ci-après applicable à un participant dans le cadre de la disposition à prestations déterminées d’un régime de pension :
+- **a)** le dernier en date des jours suivants :
+	- **(i)** le jour où le participant atteint 55 ans,
+	- **(ii)** le jour où le participant atteint l’âge minimal auquel les prestations viagères prévues par la disposition peuvent commencer à lui être versées sans réduction fondée sur son âge ou sur la durée de ses services, ou sur les deux, et sans autre réduction de même nature, et autrement qu’en raison de son invalidité totale et permanente, le cas échéant;
+- **b)** le jour où le participant atteint 60 ans. (*specified eligibility day*)
+
+***période admissible*** Période tout au long de laquelle un participant dans le cadre de la disposition à prestations déterminées d’un régime de pension est au service d’un employeur qui participe au régime. En est exclue toute période qui est antérieure à la date où des prestations de retraite commencent à être assurées au participant dans le cadre de la disposition, laquelle date correspond au dernier en date des jours ci-après ou y est postérieure :
+- **a)** le jour où les prestations de retraite prévues par la disposition ont commencé pour la première fois à être versées au participant;
+- **b)** la date d’admissibilité applicable au participant dans le cadre de la disposition. (*qualifying period*)
+
+#### Prestations de raccordement
+
+
+- **(17)** La condition énoncée au sous-alinéa (2)b)(i) voulant que des prestations de raccordement soient payables à un participant aux termes de la disposition à prestations déterminées d’un régime de pension pour une période commençant au plus tôt au début du versement au participant des prestations viagères prévues par la disposition ne s’applique pas si les conditions suivantes sont réunies :
+	- **a)** les prestations de raccordement ne commencent pas à être versées avant la date d’admissibilité applicable au participant dans le cadre de la disposition;
+	- **b)** le régime prévoit que des prestations de raccordement ne sont payables au participant aux termes de la disposition que pour les mois civils suivants :
+		- **(i)** soit ceux au cours desquels le participant est au service d’un employeur qui participe au régime,
+		- **(ii)** soit ceux qui commencent au moment, ou après le moment, où les prestations viagères prévues par la disposition commencent à être versées au participant;
+	- **c)** le participant n’était, à aucun moment antérieur au début du versement des prestations de raccordement, rattaché à un employeur qui participe au régime;
+	- **d)** le régime n’est pas un régime désigné.
+
+#### Règles d’application
+
+
+- **(18)** Lorsque des prestations de raccordement prévues par une disposition à prestations déterminées d’un régime de pension commencent à être versées à un participant dans les circonstances visées au paragraphe (17), les règles suivantes s’appliquent :
+	- **a)** si le participant décède avant que les prestations viagères prévues par la disposition commencent à lui être versées, les paragraphes (2) et (6) s’appliquent relativement aux prestations prévues par la disposition au décès du participant comme si le versement des prestations de raccordement n’avait pas commencé avant son décès;
+	- **b)** les dispositions de l’alinéa (2)m), de la partie LXXXIII et du paragraphe 8517(4) dont l’application varie selon que les prestations de retraite du participant ont commencé à être versées s’appliquent aux faits liés aux services passés, aux rachats et aux transferts se produisant avant le début du versement des prestations viagères au participant comme si les prestations de raccordement n’avaient pas commencé à être versées.
+
+#### Prestations acquises après le début du versement de la pension
+
+
+- **(19)** L’alinéa (3)b) ne s’applique pas aux prestations de retraite (appelées « prestations additionnelles » au présent paragraphe et aux paragraphes (20) et (21)) assurées à un participant par la disposition à prestations déterminées d’un régime de pension si les conditions suivantes sont réunies :
+	- **a)** les prestations additionnelles sont prévues pour tout ou partie d’une période admissible du participant relativement à la disposition;
+	- **b)** le montant des prestations de retraite payables au participant aux termes de la disposition pour chaque mois civil complet de la période admissible n’excède pas 5 % du montant, calculé sur une année, des prestations de retraite qui sont acquises au participant aux termes de la disposition au début du mois, déterminées sans réduction fondée sur son âge ou sur la durée de ses services, ou sur les deux, et sans autre réduction de même nature; toutefois, si le régime limite la durée des services validables d’un participant ou ne permet pas que des prestations soient assurées relativement à des périodes postérieures au moment où le participant atteint soit un âge déterminé, soit un âge déterminé et un nombre déterminé d’années de services validables, la présente condition ne s’applique pas à tout mois civil relativement auquel aucune prestation ne peut être assurée au participant en raison de la limite ou de l’interdiction, selon le cas;
+	- **c)** aucune partie des prestations additionnelles n’est prévue par suite d’un fait lié aux services passés, à moins que les prestations ne soient assurées dans des circonstances où le paragraphe 8306(1) s’appliquerait si aucun transfert admissible n’était effectué relativement au fait lié aux services passés;
+	- **d)** le participant n’était, à aucun moment antérieur au moment où les prestations additionnelles sont assurées, rattaché à un employeur qui participe au régime;
+	- **e)** le régime n’est pas un régime désigné.
+
+#### Montant révisé des prestations
+
+
+- **(20)** Lorsque le montant des prestations de retraite payables à un participant aux termes de la disposition à prestations déterminées d’un régime de pension est révisé afin de tenir compte des prestations additionnelles qui lui sont assurées pour une période admissible relativement à la disposition, les conditions énoncées à l’alinéa (2)b) et à l’article 8504 s’appliquent relativement aux prestations payables au participant aux termes de la disposition après la révision comme si les prestations de retraite du participant avaient commencé à être versées au moment de la révision.
+
+#### Règles d’application
+
+
+- **(21)** Lorsque des prestations additionnelles sont assurées à un participant aux termes de la disposition à prestations déterminées d’un régime de pension pour une période admissible relativement à la disposition, les règles suivantes s’appliquent :
+	- **a)** si la période admissible prend fin en raison du décès du participant, les paragraphes (2) et (6) s’appliquent relativement aux prestations prévues par la disposition au décès du participant comme si les prestations de retraite du participant n’avait pas commencé à être versées avant son décès;
+	- **b)** les dispositions de l’alinéa (2)m), de la partie LXXXIII et du paragraphe 8517(4) dont l’application varie selon que les prestations viagères du participant ont commencé à être versées s’appliquent aux faits liés aux services passés, aux rachats et aux transferts se produisant au cours de la période admissible comme si les prestations de retraite n’avaient pas commencé à être versées.
+
+#### Anti-évitement
+
+
+- **(22)** Les paragraphes (20) et (21) ne s’appliquent pas s’il est raisonnable de considérer que l’une des raisons principales pour lesquelles les prestations additionnelles sont assurées au participant consiste à tirer profit de ces paragraphes.
+
+#### Participation à plusieurs dispositions
+
+
+- **(23)** Lorsque des prestations sont assurées à un participant aux termes de plusieurs dispositions à prestations déterminées liées, la question de savoir si les conditions énoncées aux paragraphes (17) et (19) sont remplies relativement aux prestations payables ou assurées au participant aux termes d’une disposition liée donnée est déterminée selon les hypothèses suivantes :
+	- **a)** les prestations payables au participant aux termes de chacune des autres dispositions liées sont payables aux termes de la disposition donnée;
+	- **b)** dans l’éventualité où le participant aurait commencé, avant la date d’admissibilité qui lui est applicable (déterminée compte non tenu du présent alinéa) dans le cadre de la disposition donnée, à recevoir des prestations de retraite aux termes d’une autre disposition liée à la date d’admissibilité qui lui est applicable dans le cadre de cette disposition, ou après cette date, la date d’admissibilité qui lui est applicable dans le cadre de la disposition donnée correspond à celle qui lui est applicable dans le cadre de l’autre disposition liée;
+	- **c)** si une ou plusieurs des autres dispositions liées font partie d’un régime désigné, le régime qui comprend la disposition donnée est également un régime désigné.
+
+#### Dispositions à prestations déterminées liées
+
+
+- **(24)** Pour l’application du paragraphe (23), une disposition à prestations déterminées est liée à une autre disposition semblable (sauf celle qui ne fait pas partie d’un régime de pension agréé) si :
+	- **a)** les dispositions font partie du même régime de pension;
+	- **b)** les dispositions font partie de régimes de pension distincts mais, selon le cas :
+		- **(i)** un employeur donné participe aux deux régimes,
+		- **(ii)** un employeur qui participe à l’un des régimes a un lien de dépendance avec un employeur qui participe à l’autre régime.
+
+#### Non-application du paragraphe (24)
+
+
+- **(25)** Une disposition à prestations déterminées donnée d’un régime de pension n’est pas liée à une disposition semblable d’un autre régime de pension s’il n’est pas raisonnable de s’attendre à ce que les prestations prévues par la disposition donnée soient coordonnées avec celles prévues par l’autre disposition et si le ministre a convenu de ne pas considérer la disposition donnée comme étant liée à l’autre disposition.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/95-64, art. 11; DORS/99-9, art. 22; DORS/2001-67, art. 6; DORS/2001-188, art. 11 et 14 à 16; DORS/2003-396, art. 1; DORS/2005-264, art. 27; 2007, ch. 29, art. 35, ch. 35, art. 83; DORS/2007-116, art. 16(F).
 
 
 
@@ -15649,8 +15734,8 @@ les présomptions suivantes s’appliquent aux fins des conditions énoncées au
 **8504** 
 
 - **(1)** Pour l’application du sous-alinéa 8502c)(i), les conditions suivantes s’appliquent aux prestations viagères assurées à un participant aux termes de la disposition à prestations déterminées d’un régime de pension :
-	- **a)** les prestations viagères, calculées sur une année, qui sont payables au participant pour l’année civile où leur versement débute (appelée «année du début» au présent alinéa) ne dépassent pas le total des montants suivants :
-		- **(i)** le total des montants représentant chacun le moins élevé des montants suivants pour l’année civile postérieure à 1990 (appelée «année déterminée» au présent alinéa) où le participant est, à un moment donné, rattaché à un employeur qui, au cours de cette année, participe au régime au profit du participant :
+	- **a)** les prestations viagères, calculées sur une année, qui sont payables au participant pour l’année civile où leur versement débute (appelée « année du début » au présent alinéa) ne dépassent pas le total des montants suivants :
+		- **(i)** le total des montants représentant chacun le moins élevé des montants suivants pour l’année civile postérieure à 1990 (appelée « année déterminée » au présent alinéa) où le participant est, à un moment donné, rattaché à un employeur qui, au cours de cette année, participe au régime au profit du participant :
 			- **(A)** le montant calculé selon la formule suivante :
 ```
 0,02 × A × (B / C)
@@ -15684,7 +15769,7 @@ où
 #### Rétribution moyenne la plus élevée
 
 
-- **(2)** Pour l’application du paragraphe (1) et de l’alinéa 8505(3)d), la rétribution moyenne la plus élevée d’un participant dans le cadre de la disposition à prestations déterminées d’un régime de pension, indexée à l’année civile (appelée «année du début» au présent paragraphe) où débute le versement au participant des prestations de retraite prévues par la disposition, est égale au montant suivant :
+- **(2)** Pour l’application du paragraphe (1) et de l’alinéa 8505(3)d), la rétribution moyenne la plus élevée d’un participant dans le cadre de la disposition à prestations déterminées d’un régime de pension, indexée à l’année civile (appelée « année du début » au présent paragraphe) où débute le versement au participant des prestations viagères prévues par la disposition, est égale au montant suivant :
 	- **a)** si, pendant trois périodes non chevauchantes de 12 mois consécutifs, le participant a été au service d’employeurs qui ont participé dans le cadre de la disposition à son profit, le tiers du plus élevé des montants représentant chacun la somme de sa rétribution totale indexée aux fins de la disposition pour chacun des 36 mois de ces périodes tout au long desquelles il était au service de tels employeurs;
 	- **b)** sinon, le montant calculé selon la formule suivante :
 ```
@@ -15698,7 +15783,7 @@ Pour l’application du présent paragraphe, la rétribution totale indexée d�
 J × (K / L)
 ```
 où 
-- **J** représente le total des montants correspondant chacun à la fraction, qu’il est raisonnable de considérer comme reçue au cours de ce mois ou comme s’y rapportant autrement, de la rétribution que le participant a reçue, pour l’année civile (appelée «année de la rétribution» au présent paragraphe) qui comprend le mois, d’un employeur qui participait dans le cadre de la disposition à son profit;
+- **J** représente le total des montants correspondant chacun à la fraction, qu’il est raisonnable de considérer comme reçue au cours de ce mois ou comme s’y rapportant autrement, de la rétribution que le participant a reçue, pour l’année civile (appelée « année de la rétribution » au présent paragraphe) qui comprend le mois, d’un employeur qui participait dans le cadre de la disposition à son profit;
 - **K** le plus élevé des montants représentant chacun le salaire moyen pour une année civile qui n’est ni antérieure à la dernière en date de l’année de la rétribution et de 1986 ni postérieure à l’année du début;
 - **L** le salaire moyen pour la dernière en date de l’année de la rétribution et de 1986.
 
@@ -15727,7 +15812,7 @@ le participant est réputé :
 #### Prestations de retraite avant 65 ans
 
 
-- **(5)** Pour l’application du sous-alinéa 8502c)(i), les conditions suivantes s’appliquent aux prestations de retraite payables à un participant aux termes de la disposition à prestations déterminées d’un régime de pension pour la période (appelée «période de raccordement» au présent paragraphe) après le début du versement des prestations jusqu’au moment où le participant atteint 65 ans :
+- **(5)** Pour l’application du sous-alinéa 8502c)(i), les conditions suivantes s’appliquent aux prestations de retraite payables à un participant aux termes de la disposition à prestations déterminées d’un régime de pension pour la période (appelée « période de raccordement » au présent paragraphe) après le début du versement des prestations jusqu’au moment où le participant atteint 65 ans :
 	- **a)** le montant, calculé sur une année, des prestations de retraite payables au participant pour la partie de la période de raccordement qui fait partie de l’année civile du début du versement des prestations ne dépasse pas le montant calculé selon la formule suivante :
 ```
 (A × B) + (0,25 × C × (D / 35))
@@ -15746,8 +15831,8 @@ où
 #### Prestations antérieures à 1990
 
 
-- **(6)** Pour l’application du sous-alinéa 8502c)(i) et sous réserve du paragraphe (7), des prestations viagères sont assurées à un participant aux termes de la disposition à prestations déterminées d’un régime de pension pour des services validables accomplis au cours d’une année civile antérieure à 1990 (appelée «année des prestations» au présent paragraphe) à la condition que le montant visé à l’alinéa a) ne dépasse pas le montant visé à l’alinéa b) :
-	- **a)** le montant des prestations viagères, calculé sur une année et payable au participant pour une année civile donnée (appelée «année du versement» au présent paragraphe);
+- **(6)** Pour l’application du sous-alinéa 8502c)(i) et sous réserve du paragraphe (7), des prestations viagères sont assurées à un participant aux termes de la disposition à prestations déterminées d’un régime de pension pour des services validables accomplis au cours d’une année civile antérieure à 1990 (appelée « année des prestations » au présent paragraphe) à la condition que le montant visé à l’alinéa a) ne dépasse pas le montant visé à l’alinéa b) :
+	- **a)** le montant des prestations viagères, calculé sur une année et payable au participant pour une année civile donnée (appelée « année du versement » au présent paragraphe);
 	- **b)** le montant calculé selon la formule suivante :
 ```
 (2 / 3) × A × B × C
@@ -15806,7 +15891,7 @@ Toutefois, les dispositions ne sont pas liées s’il n’est pas raisonnable de
 - **(14)** Les prestations de retraite assurées à un participant aux termes de la disposition à prestations déterminées d’un régime de pension sont réputées conformes à la condition énoncée à l’alinéa (5)b) dans le cas où elles le seraient si le rapport déterminé au sous-alinéa (5)b)(ii) était remplacé par une mesure à peu près semblable de la variation de l’indice des prix à la consommation.
 
 - **(15)** Les prestations viagères assurées à un participant aux termes de la disposition à prestations déterminées d’un régime de pension sont réputées conformes à la condition énoncée au paragraphe (6) dans le cas où elles le seraient si l’élément C de la formule figurant à l’alinéa (6)b) était remplacé par une mesure à peu près semblable de la variation de l’indice des prix à la consommation.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/2001-67, art. 7.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/2001-67, art. 7; 2007, ch. 35, art. 84.
 
 
 
@@ -16109,28 +16194,28 @@ où :
 
 **8507** 
 
-- **(1)** Pour l’application de l’alinéa b) de la définition de ***rétribution*** au paragraphe 147.1(1) de la Loi, les montants suivants entrent dans le calcul de la rétribution qu’un particulier reçoit d’un employeur pour une année civile postérieure à 1990 :
+- **(1)** Pour l’application de l’alinéa b) de la définition de ***rétribution*** au paragraphe 147.1(1) de la Loi, les montants suivants entrent dans le calcul de la rétribution qu’un particulier reçoit d’un employeur pour une année civile postérieure à 1990 :
 	- **a)** si l’année comporte une période admissible du particulier quant à l’employeur, le montant calculé au paragraphe (2) pour la période;
 	- **b)** si l’année comporte une période d’invalidité du particulier, le montant qui serait calculé selon l’alinéa (2)a) pour cette période s’il s’agissait d’une période admissible du particulier quant à l’employeur.
 
 #### Rétribution supplémentaire au titre d’une période admissible
 
 
-- **(2)** Pour l’application de l’alinéa (1)a) et du paragraphe (5), le montant calculé relativement à la période d’une année civile qui constitue une période admissible d’un particulier quant à un employeur correspond au moins élevé des montants suivants :
-	- **a)** l’excédent éventuel du montant visé au sous-alinéa (i) sur le montant visé au sous-alinéa (ii) :
+- **(2)** Pour l’application de l’alinéa (1)a) et du paragraphe (5), le montant calculé relativement à la période d’une année civile qui constitue une période admissible d’un particulier quant à un employeur correspond au moins élevé des montants suivants :
+	- **a)** l’excédent éventuel du montant visé au sous-alinéa (i) sur le montant visé au sous-alinéa (ii) :
 		- **(i)** le montant qui aurait vraisemblablement constitué la rémunération du particulier pour la période, reçue de l’employeur, si le particulier lui avait rendu des services de façon régulière tout au long de la période (compte tenu des services qu’il lui a rendus avant la période complète de salaire réduit dont la période fait partie) et si son taux de rémunération avait été proportionnel à son taux de rémunération avant le début de la période complète de salaire réduit,
 		- **(ii)** la rémunération du particulier pour la période, reçue de l’employeur;
-	- **b)** le montant calculé selon la formule suivante :
+	- **b)** le montant calculé selon la formule suivante :
 ```
 (5 + A + B - C) × D
 ```
 où 
 - **A** représente le moins élevé de 3 et du montant qui correspondrait à la fraction cumulative de rétribution supplémentaire du particulier quant à l’employeur, calculée jusqu’au moment immédiatement avant la fin de la période, si les seules périodes admissibles du particulier étaient également des périodes d’obligations familiales;
-- **B** représente :
+- **B** représente :
 	- **(i)** si aucune partie de la période n’est une période d’obligations familiales, zéro,
-	- **(ii)** autrement, le moins élevé des montants suivants :
+	- **(ii)** autrement, le moins élevé des montants suivants :
 	- **(A)** l’excédent éventuel de 3 sur le montant calculé à l’élément A,
-	- **(B)** le rapport entre :
+	- **(B)** le rapport entre :
 	- **(I)** d’une part, le montant qui serait calculé selon l’alinéa a) si la rémunération visée aux sous-alinéas a)(i) et (ii) était celle pour la partie de la période qui constitue une période d’obligations familiales,
 	- **(II)** d’autre part, le montant calculé à l’élément D;
 - **C** représente la fraction cumulative de rétribution supplémentaire du particulier quant à l’employeur, calculée jusqu’au moment immédiatement avant la fin de la période;
@@ -16139,24 +16224,27 @@ où
 #### Période admissible et période d’obligations familiales
 
 
-- **(3)** Pour l’application du présent article :
-	- **a)** une période d’une année civile est une période admissible d’un particulier au cours de l’année quant à un employeur, si les conditions suivantes sont réunies :
+- **(3)** Pour l’application du présent article :
+	- **a)** une période d’une année civile est une période admissible d’un particulier au cours de l’année quant à un employeur, si les conditions suivantes sont réunies :
 		- **(i)** la période est une période admissible de salaire réduit ou d’absence temporaire du particulier au cours de l’année quant à l’employeur,
-		- **(ii)** l’une ou l’autre des situations suivantes existe :
+		- **(ii)** l’une ou l’autre des situations suivantes existe :
 			- **(A)** des prestations viagères sont assurées au particulier pour la période aux termes de la disposition à prestations déterminées d’un régime de pension agréé (sauf un régime qui est un régime interentreprises déterminé au cours de l’année) en conformité avec les modalités du régime qui s’appliquent à des périodes autres que des périodes régulières d’emploi,
 			- **(B)** des cotisations sont versées par le particulier ou pour son compte pour la période aux termes d’une telle disposition en conformité avec de telles modalités,
 		- **(iii)** les prestations viagères ou les cotisations dépassent les prestations qui seraient prévues par ailleurs, ou les cotisations qui seraient versées par ailleurs, si elles étaient fonction des services effectivement rendus et de la rémunération effectivement reçue, par le particulier,
 		- **(iv)** le facteur d’équivalence du particulier pour l’année quant à l’employeur comprend un montant au titre des prestations viagères ou des cotisations,
 		- **(v)** aucune prestation se rapportant à la période n’est assurée au particulier aux termes de la disposition à prestations déterminées d’un régime de pension agréé auquel l’employeur ne participe pas,
-		- **(vi)** aucune cotisation n’est versée par le particulier, ou pour son compte, pour la période aux termes d’un régime de participation différée aux bénéfices, ou de la disposition à cotisations déterminées d’un régime de pension agréé, auxquels l’employeur ne participe pas;
-	- **b)** une période d’obligations familiales constitue tout ou partie d’une période commençant à l’un des moments suivants et se terminant 12 mois après le moment en question :
+		- **(vi)** aucune cotisation n’est versée par le particulier, ou pour son compte, pour la période aux termes d’un régime de participation différée aux bénéfices, ou de la disposition à cotisations déterminées d’un régime de pension agréé, auxquels l’employeur ne participe pas,
+		- **(vii)** aucune partie de la période n’est postérieure au premier en date des moments suivants :
+			- **(A)** le moment auquel des prestations de raccordement commencent à être versées au particulier dans les circonstances visées au paragraphe 8503(17),
+			- **(B)** le premier jour relativement auquel des prestations sont assurées au particulier dans les circonstances visées au paragraphe 8503(19);
+	- **b)** une période d’obligations familiales constitue tout ou partie d’une période commençant à l’un des moments suivants et se terminant 12 mois après le moment en question :
 		- **(i)** soit au moment de la naissance d’un enfant dont le particulier est le père biologique ou la mère biologique,
 		- **(ii)** soit au moment de l’adoption d’un enfant par le particulier.
 
 #### Fraction cumulative de rétribution supplémentaire
 
 
-- **(4)** Pour l’application du présent article, la fraction cumulative de rétribution supplémentaire d’un particulier quant à un employeur, déterminée jusqu’à un moment donné, correspond au total des montants représentant chacun la fraction de rétribution supplémentaire se rapportant à une période qui prend fin au plus tard à ce moment et qui constitue une période admissible du particulier — incluse dans une année civile postérieure à 1990 — quant à l’une des personnes suivantes :
+- **(4)** Pour l’application du présent article, la fraction cumulative de rétribution supplémentaire d’un particulier quant à un employeur, déterminée jusqu’à un moment donné, correspond au total des montants représentant chacun la fraction de rétribution supplémentaire se rapportant à une période qui prend fin au plus tard à ce moment et qui constitue une période admissible du particulier — incluse dans une année civile postérieure à 1990 — quant à l’une des personnes suivantes :
 	- **a)** l’employeur;
 	- **b)** un employeur qui a un lien de dépendance avec le premier;
 	- **c)** un autre employeur qui participe à un régime de pension agréé auquel le premier employeur participe au profit du particulier.
@@ -16164,14 +16252,14 @@ où
 #### Fraction de rétribution supplémentaire
 
 
-- **(5)** Pour l’application du paragraphe (4), la fraction de rétribution supplémentaire se rapportant à une période admissible d’un particulier au cours d’une année civile quant à un employeur donné est calculée selon la formule suivante :
+- **(5)** Pour l’application du paragraphe (4), la fraction de rétribution supplémentaire se rapportant à une période admissible d’un particulier au cours d’une année civile quant à un employeur donné est calculée selon la formule suivante :
 ```
 E / D
 ```
 où 
 - **D** représente le montant calculé à l’élément D de l’alinéa (2)b) pour la période;
-- **E** représente :
-- **a)** si les conditions suivantes sont réunies :
+- **E** représente :
+- **a)** si les conditions suivantes sont réunies :
 - **(i)** tout ou partie de la période est une période tout au long de laquelle le particulier rend des services à un autre employeur en conformité avec une entente à laquelle le paragraphe 8308(7) s’applique,
 - **(ii)** l’employeur donné est l’employeur donné dont il est question au paragraphe 8308(7) dans son application à l’entente,
 - **(iii)** l’employeur donné et l’autre employeur sont sans lien de dépendance,le montant qui serait calculé selon le paragraphe (2) pour la période si aucune rémunération n’était incluse, dans le calcul de l’excédent visé à l’alinéa (2)a), au titre de la partie de la période qui est visée au sous-alinéa a)(i);
@@ -16185,10 +16273,10 @@ où
 #### Période complète de salaire réduit
 
 
-- **(7)** Au paragraphe (2), est une période complète de salaire réduit d’un particulier quant à un employeur la période qui consiste en une ou plusieurs périodes correspondant chacune à une des périodes suivantes qui ne fait pas partie d’une semblable période de plus longue durée :
+- **(7)** Au paragraphe (2), est une période complète de salaire réduit d’un particulier quant à un employeur la période qui consiste en une ou plusieurs périodes correspondant chacune à une des périodes suivantes qui ne fait pas partie d’une semblable période de plus longue durée :
 	- **a)** une période d’invalidité du particulier;
 	- **b)** une période admissible de salaire réduit ou d’absence temporaire du particulier quant à l’employeur.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/95-64, art. 14.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/95-64, art. 14; 2007, ch. 35, art. 85.
 
 
 
@@ -16527,7 +16615,7 @@ la condition énoncée à l’alinéa 8503(3)a) ne s’applique pas à la fracti
 ou les droits dans ces actions, créances ou participations ou les droits de les acquérir.
 
 - **(2)** Ne sont pas des placements interdits :
-	- **a)** les obligations, les billets, les hypothèques ou des titres semblables visés à la division 212(1)b)(ii)(C) de la Loi;
+	- **a)** les titres de créance visés à l’alinéa a) de la définition de ***intérêts entièrement exonérés*** au paragraphe 212(3) de la Loi;
 	- **b)** les actions cotées à une bourse de valeurs désignée;
 	- **c)** les obligations, les billets ou des titres semblables d’une société dont des actions sont cotées à une bourse de valeurs désignée;
 	- **d)** les droits dans des biens visés aux alinéas b) ou c) ou les droits de les acquérir;
@@ -16679,7 +16767,7 @@ le régime devient, pour l’application de l’alinéa 147.1(11)c) de la Loi, u
 		- **(iii)** l’évaluation est établie en conformité avec les principes actuariels généralement reconnus qui s’appliquent aux évaluations fondées sur l’éventualité de la cessation d’un régime,
 		- **(iv)** si plus d’un employeur participe au régime, l’actif et la dette actuarielle sont répartis de façon raisonnable entre les employeurs;
 	- **c)** le conseil est approuvé par le ministre;
-	- **d)** au moment du versement de la cotisation, le régime n’est pas un régime désigné aux termes de l’article 8515.
+	- **d)** au moment du versement de la cotisation, le régime n’est pas un régime désigné.
 
 #### Cotisations requises par la législation sur les prestations de pension
 
@@ -16694,7 +16782,7 @@ le régime devient, pour l’application de l’alinéa 147.1(11)c) de la Loi, u
 		- **(ii)** toutes les hypothèses formulées en vue de l’évaluation sont raisonnables au moment où celle-ci est établie ainsi qu’au moment où la cotisation est versée,
 		- **(iii)** si plus d’un employeur participe au régime, l’actif et la dette actuarielle sont répartis de façon raisonnable entre les employeurs;
 	- **c)** le conseil est approuvé par le ministre;
-	- **d)** au moment du versement de la cotisation, le régime n’est pas un régime désigné aux termes de l’article 8515.
+	- **d)** au moment du versement de la cotisation, le régime n’est pas un régime désigné.
 
 #### Convention de capitalisation partagée
 
@@ -16709,8 +16797,8 @@ le régime devient, pour l’application de l’alinéa 147.1(11)c) de la Loi, u
 		- **(iii)** si le surplus actuariel quant à l’employeur représente plus de 15 % mais au plus 20 % des dettes actuarielles qui lui ont été attribuées au titre de ses employés actuels et anciens, 50 % des cotisations pour services courants qui seraient à verser en l’absence de surplus actuariel afférent aux dispositions,
 		- **(iv)** si le surplus actuariel quant à l’employeur représente plus de 20 % mais au plus 25 % des dettes actuarielles qui lui ont été attribuées au titre de ses employés actuels et anciens, 25 % des cotisations pour services courants qui seraient à verser en l’absence de surplus actuariel afférent aux dispositions,
 		- **(v)** si le surplus actuariel quant à l’employeur représente plus de 25 % des dettes actuarielles qui lui ont été attribuées au titre de ses employés actuels et anciens, zéro;
-	- **e)** au moment du versement de la cotisation, le régime n’est pas un régime désigné aux termes de l’article 8515.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/95-64, art. 18; DORS/99-9, art. 25; DORS/2003-328, art. 10.
+	- **e)** au moment du versement de la cotisation, le régime n’est pas un régime désigné.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/92-51, art. 7; DORS/95-64, art. 18; DORS/99-9, art. 25; DORS/2003-328, art. 10; 2007, ch. 35, art. 87.
 
 
 
