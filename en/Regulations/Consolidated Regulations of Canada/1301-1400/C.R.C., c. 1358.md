@@ -196,16 +196,19 @@ as the recipient elects, with interest at the rate of four per cent per annum.
 ### Maximum Salary
 
 
-**5.1** For the purposes of paragraph 5(3)(d) of the Act, no person shall contribute to the Superannuation Account in respect of any portion of the person’s annual rate of salary that is in excess of the amount determined by the formula
+**5.1** For the purposes of paragraph 5(6)(b) of the Act, the annual rate of salary is equal to the amount determined by the following formula and rounded to the next highest multiple of $100:
 ```
-(A - 0.013B) ÷ (0.02) + B
+(A - (B×C)) ÷ (0.02) + C
 ```
-and rounded to the next highest multiple of $100, where
+where
 - **A** is
-- **(a)** in respect of salary received in 1994 or 1995, $1,722.22, and
-- **(b)** in respect of salary received in any year after 1995, the amount of the defined benefit limit determined for that year pursuant to subsection 8500(1) of the [Income Tax Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/901-1000/C.R.C.,%20c.%20945.md); and
-- **B** is the Year’s Maximum Pensionable Earnings for that year determined pursuant to section 18 of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md).
->  SOR/94-767, s. 1.
+- **(a)** in respect of salary received by the person for 1994 or 1995, $1,722.22, and
+- **(b)** in respect of salary received by the person for any year after 1995, the amount of the defined benefit limit determined for that year in accordance with the definition ***defined benefit limit*** in subsection 8500(1) of the [Income Tax Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/901-1000/C.R.C.,%20c.%20945.md);
+- **B** is
+- **(a)** in respect of salary received by the person for any year after 1993 and before 2008, 0.013, and
+- **(b)** in respect of salary received by the person for any year after 2007, 0.01375, and
+- **C ** is the Year’s Maximum Pensionable Earnings determined for that year in accordance with section 18 of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md).
+> SOR/94-767, s. 1; SOR/2008-1, s. 1.
 
 
 
@@ -563,13 +566,16 @@ the amount that is received by the Government of Canada pursuant to the agreemen
 ### By Corporations
 
 
-**9** The President of the Treasury Board shall determine the amount to be paid pursuant to section 37 of the Act by a Public Service corporation or other corporation specified in Schedule I, in accordance with the following:
+**9** The amount to be paid under section 37 of the Act by a Public Service corporation or other corporation specified in Schedule I is
 - **(a)** in the case of contributions of an employee in respect of any period of current service before April 1, 2000, an amount equal to the amount of contributions required to be paid by the employee, unless the employee contributes in respect of such period an amount equal to twice the amount the employee would have been required to pay under section 5 of the Act and under section 65 of the Act as it read on December 31, 1999, if applicable;
 - **(b)** in the case of contributions of an employee in respect of any period of elective service specified in paragraph 6(1)(b) of the Act for which an election is made before April 1, 2000, an amount equal to the amount of contributions and interest required to be paid by the employee, unless the employee, in respect of such period, is required to contribute an amount equal to twice the amount that would have been required to be paid by the employee in respect of a similar period of current service;
-- **(c)** in the case of contributions of an employee in respect of any period of current service after March 31, 2000, an amount equal to 2.14 times the amount of contributions required to be paid by the employee, unless the employee contributes in respect of such period an amount equal to twice the amount the employee would have been required to pay under section 5 of the Act;
-- **(d)** in the case of contributions of an employee in respect of any period of elective service specified in paragraph 6(1)(b) of the Act for which an election is made after March 31, 2000, an amount equal to 2.14 times the amount of contributions and interest required to be paid by the employee, unless the employee, in respect of such period, is required to contribute an amount equal to twice the amount that would have been required to be paid by the employee in respect of a similar period of current service; and
-- **(e)** in the case of contributions of an employee referred to in paragraphs (c) or (d) who is required to contribute twice the amount the employee would otherwise have been required to contribute in respect of a period of current service or elective service, an amount equal to 0.56 times the amount of contributions and interest required to be paid by the employee in respect of the periods of service referred to in those paragraphs.
-> SOR/93-450, ss. 11(F), 12; SOR/2000-137, s. 1.
+- **(c)** in the case of contributions of an employee in respect of any period of current service after March 31, 2000 and before January 1, 2008, an amount equal to 2.14 times the amount of contributions required to be paid by the employee, unless the employee contributes in respect of that period an amount equal to twice the amount the employee would have been required to pay under section 5 of the Act;
+- **(d)** in the case of contributions of an employee in respect of any period of elective service specified in paragraph 6(1)(b) of the Act for which an election is made after March 31, 2000 and before January 1, 2008, an amount equal to 2.14 times the amount of contributions and interest required to be paid by the employee, unless the employee, in respect of that period, is required to contribute an amount equal to twice the amount that would have been required to be paid by the employee in respect of a similar period of current service;
+- **(e)** in the case of contributions of an employee referred to in paragraphs (c) or (d) who is required to contribute twice the amount the employee would otherwise have been required to contribute in respect of a period of current service or elective service, an amount equal to 0.56 times the amount of contributions and interest required to be paid by the employee in respect of the periods of service referred to in those paragraphs;
+- **(f)** in the case of contributions of an employee in respect of any period of current service beginning on or after January 1, 2008, an amount obtained by multiplying those contributions by the same multiplier as that used to determine the amount to be deposited into the Public Service Pension Fund in accordance with paragraph 44.2(3)(a) of the Act, unless the employee, in respect of that period, is required to contribute an amount equal to twice the amount the employee would have been required to pay under section 5 of the Act;
+- **(g)** in the case of contributions of an employee in respect of any period of elective service specified in paragraph 6(1)(b) of the Act for which an election is made on or after January 1, 2008, an amount obtained by multiplying those contributions by the same multiplier as that used to determine the amount to be deposited into the Public Service Pension Fund in accordance with paragraph 44.2(3)(b) of the Act, unless the employee, in respect of that period, is required to contribute an amount equal to twice the amount the employee would have been required to pay in respect of a similar period of current service; and
+- **(h)** in the case of contributions of an employee who is required to contribute twice the amount the employee would otherwise have been required to contribute in respect of the period of service referred to in paragraph (f) or (g), an amount obtained by multiplying those contributions by the same multiplier as that used to determine the amount to be deposited into the Public Service Pension Fund in accordance with subsection 44.2(3) of the Act.
+> SOR/93-450, ss. 11(F), 12; SOR/2000-137, s. 1; SOR/2007-306, s. 1.
 
 
 
