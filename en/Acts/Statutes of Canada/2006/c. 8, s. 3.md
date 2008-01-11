@@ -64,7 +64,9 @@ Assented to on 12 December 2006
 
 **Notification**
 
-**6** The Minister of Finance shall cause a notice of the day on which the Convention enters into force and of the day on which it ceases to have effect to be published in the Canada Gazette within 60 days after its entry into force or termination.
+<sup><a href='#fn_IndFD3_hq_4084'>[*]</a></sup>**6** The Minister of Finance shall cause a notice of the day on which the Convention enters into force and of the day on which it ceases to have effect to be published in the Canada Gazette within 60 days after its entry into force or termination.
+
+<a name='fn_IndFD3_hq_4084'><sup>*</sup></a>: [Note: Convention and Protocol in force April 12, 2007, *see* Canada Gazette Part I, Volume 142, page 184.]<br />
 
 
 
