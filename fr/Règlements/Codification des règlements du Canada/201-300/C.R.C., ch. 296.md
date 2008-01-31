@@ -1804,29 +1804,15 @@ importées d’un pays autre que les États-Unis sont nettoyées, désinfectées
 
 
 
-### Utilisation des matières résiduelles comestibles dans l’alimentation des porcs et de la volaille
+### Viande, sous-produits de viande ou carcasses dans l’alimentation du bétail ou de la volaille
 
 
-**111** La définition qui suit s’applique à la présente partie.
-
-***matière résiduelle comestible*** Matière comestible qui ne sert pas à traiter, fabriquer, vendre, préparer ou servir de la nourriture, ou qui reste après ces opérations. (*edible residual material*)
-> DORS/79-839, art. 29; DORS/85-689, art. 9; DORS/97-85, art. 68.
+**111** [Abrogé, DORS/2008-20, art. 1]
 
 
 
-
-**112** 
-
-- **(1)** Sous réserve du paragraphe (3), il est interdit de nourrir de matières résiduelles comestibles des porcs ou de la volaille ou de permettre que ceux-ci y aient accès ou en soient nourris, à moins de détenir un permis délivré par le ministre en vertu de l’article 160 et de s’y conformer.
-
-- **(2)** Le permis visé au paragraphe (1) demeure en vigueur pendant l’année civile de sa délivrance ou pour la période plus courte qui y est indiquée.
-
-- **(3)** Une personne peut nourrir de matières résiduelles comestibles provenant de sa maison ou de sa ferme les porcs et la volaille qu’elle élève et qui se trouvent sur les mêmes lieux que la maison ou la ferme.
-
-- **(4)** Le paragraphe (3) ne s’applique pas à l’exploitant d’un hôtel, d’un motel, d’un restaurant, d’un abattoir, d’une école, d’un collège, d’un hôpital, d’un orphelinat ou de tout autre établissement.
-
-- **(5) et (6)** [Abrogés, DORS/2002-334, art. 1]
-> DORS/85-689, art. 10; DORS/97-85, art. 68; DORS/2002-334, art. 1.
+**112** Il est interdit de nourrir les porcs ou la volaille avec de la viande, des sous-produits de viande, ou des aliments soupçonnés de contenir de la viande ou des sous-produits de viande, ou de leur permettre d’avoir accès à ceux-ci.
+> DORS/85-689, art. 10; DORS/97-85, art. 68; DORS/2002-334, art. 1; DORS/2008-20, art. 1.
 
 
 
@@ -1839,9 +1825,9 @@ importées d’un pays autre que les États-Unis sont nettoyées, désinfectées
 
 **113.1** Sous réserve de la partie XIV, il est interdit de donner tout ou partie de la carcasse d’un animal en nourriture à du bétail ou à de la volaille à moins que la carcasse ou la partie de carcasse, selon le cas :
 - **a)** n’ait été traitée dans une usine de traitement à l’égard de laquelle un permis a été délivré conformément à la partie XIV;
-- **b)** lorsqu’elle est donnée à des porcs ou à de la volaille, ne soit donnée conformément à un permis visé au paragraphe 112(1);
+- **b)** [Abrogé, DORS/2008-20, art. 2]
 - **c)** n’ait été traitée de manière à prévenir l’introduction de toute maladie déclarable ou de toute autre épizootie grave.
-> DORS/97-478, art. 15.
+> DORS/97-478, art. 15; DORS/2008-20, art. 2.
 
 
 
