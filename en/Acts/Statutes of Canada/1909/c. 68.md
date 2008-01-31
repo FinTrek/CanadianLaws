@@ -72,20 +72,28 @@ WHEREAS an Association known as the Canadian Red Cross Society has been in opera
 
 
 
-**False representation**
+**Fraudulent representation**
 
 **4** 
 
-- **(1)** From and after the passing of this Act it shall be unlawful for any person or corporation within the jurisdiction of the Parliament of Canada to falsely and fraudulently hold himself or itself out as, or represent or pretend himself or itself to be a member of, or agent for, The Canadian Red Cross Society for the purposes of soliciting, collecting or receiving money or material.
+- **(1)** No person shall fraudulently represent himself or herself to be a member or representative of, or agent for, the Society for the purposes of soliciting, collecting or receiving money or material.
 
 **Unlawful use of name, emblem, badge, etc.**
 
-- **(2)** No person or corporation shall wear, use or display for the purposes of his or its trade or business or for the purpose of inducing the belief that he or it is a member of, or agent for The Canadian Red Cross Society, or for any other purposes whatsoever without the written consent and authority of The Canadian Red Cross Society, the heraldic emblem of the Red Cross on a white ground, or the words "Red Cross" or the Geneva Cross or any other word, mark, device or thing likely to be mistaken for them or either of them.
+- **(2)** No person shall wear, use or display for the purposes of his or her trade or business, for the purpose of inducing the belief that he or she is a member or representative of, or agent for, the Society or for any other purposes whatsoever, without the Society’s written authorization, any of the following:
+	- **(a)** the heraldic emblem of the Red Cross on a white ground, or the words “Red Cross” or “Geneva Cross”;
+	- **(b)** the emblem of the Red Crescent on a white ground, referred to in Article 38 of Schedule I to the [Geneva Conventions Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-3.md), or the words “Red Crescent”;
+	- **(c)** the third Protocol emblem — commonly known as the “Red Crystal” — referred to in Article 2, paragraph 2 of Schedule VII to the [Geneva Conventions Act](/en/Acts/Revised%20Statutes%20of%20Canada/G/G-3.md) and composed of a red frame in the shape of a square on edge on a white ground, or the words “Red Crystal”; or
+	- **(d)** any other word, mark, device or thing likely to be mistaken for anything mentioned in paragraphs (a) to (c).
 
 **Penalty**
 
-- **(3)** Any person or corporation violating the provisions of this section shall be guilty of an offence, and shall be liable on summary conviction to a fine of not less than one or more than five hundred dollars, or imprisonment for a term not exceeding one year, or both, for each and every offence, and shall be liable to forfeit any goods, wares or merchandise upon which, or in connection with which, the said emblem or words or any coloured imitation thereof were used. The fine so collected shall be paid to The Canadian Red Cross Society.
-> 1909, c. 68, s. 4; 1922, c. 13, s. 2.
+- **(3)** Every person who contravenes subsection (1) or (2) is guilty of an offence, and is liable on summary conviction to a fine of not less than $100 but not more than $500, or imprisonment for a term not exceeding one year, or both, for each offence, and any goods, wares or merchandise on which, or in connection with which, any of the emblems or words mentioned in paragraphs (2)(a) to (c) or any coloured imitation of them were used are liable to forfeiture to Her Majesty in right of Canada. The proceeds of the fine so collected shall be paid to the Society.
+
+**Exception**
+
+- **(4)** No person contravenes subsection (2) by wearing, using or displaying the emblem or words referred to in paragraph (2)(b) or (c), or any other word, mark, device or thing likely to be mistaken for them, if the person has done so lawfully since before the coming into force of this subsection.
+> 1909, c. 68, s. 4; 1922, c. 13, s. 2; 2007, c. 26, s. 4.
 
 
 
@@ -157,6 +165,15 @@ WHEREAS an Association known as the Canadian Red Cross Society has been in opera
 
 **9** The name of the Society in the French language shall be "La Société canadienne de la Croix-Rouge".
 > 1950, c. 62, s. 3.
+
+
+
+
+
+**Short title**
+
+**10** This Act may be cited as the Canadian Red Cross Society Act.
+> 2007, c. 26, s. 5.
 
 
 
