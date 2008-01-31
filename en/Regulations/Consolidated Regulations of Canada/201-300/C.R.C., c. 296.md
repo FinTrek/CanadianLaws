@@ -1808,29 +1808,15 @@ has been imported into Canada from any country other than the United States, it 
 
 
 
-### Use of Edible Residual Material in Feeding Swine or Poultry
+### Meat, Meat By-products or Carcasses in Feeding Livestock or Poultry
 
 
-**111** The definition in this section applies in this Part.
-
-***edible residual material*** means edible material that remains after, or is not used in, the processing, manufacturing, preparing, serving or sale of food. (*matière résiduelle comestible*)
-> SOR/79-839, s. 29; SOR/85-689, s. 9; SOR/97-85, s. 68.
+**111** [Repealed, SOR/2008-20, s. 1]
 
 
 
-
-**112** 
-
-- **(1)** Subject to subsection (3), no person shall feed edible residual material to swine or poultry or permit swine or poultry to have access to or to be fed edible residual material unless that person does so under and in accordance with a permit issued by the Minister pursuant to section 160.
-
-- **(2)** A permit referred to in subsection (1) shall remain in force for the calendar year in which it is issued, or for such shorter period as is stated therein.
-
-- **(3)** A person may feed edible residual material produced in the person’s house or on the person’s farm to swine and poultry that are raised by that person and that are located on the same premises as the house or farm in which the material was produced.
-
-- **(4)** Subsection (3) does not apply to a person who operates a hotel, motel, restaurant, slaughter-house, school, college, hospital, orphanage or other institution.
-
-- **(5) and (6)** [Repealed, SOR/2002-334, s. 1]
-> SOR/85-689, s. 10; SOR/97-85, s. 68; SOR/2002-334, s. 1.
+**112** No person shall feed meat, meat by-products or food that is suspected to contain meat or meat by-products to swine or poultry, or permit swine or poultry to have access to the meat or by-products.
+> SOR/85-689, s. 10; SOR/97-85, s. 68; SOR/2002-334, s. 1; SOR/2008-20, s. 1.
 
 
 
@@ -1842,10 +1828,10 @@ has been imported into Canada from any country other than the United States, it 
 
 
 **113.1** Subject to Part XIV, no person shall feed the carcass of an animal or part of one to livestock or poultry unless
-- **(a)** the carcass or part of it has been rendered in a rendering plant in respect of which a permit has been issued in accordance with Part XIV;
-- **(b)** where it is fed to swine or poultry, it is so fed in accordance with a permit referred to in subsection 112(1); or
+- **(a)** the carcass or part of it has been rendered in a rendering plant in respect of which a permit has been issued in accordance with Part XIV; or
+- **(b)** [Repealed, SOR/2008-20, s. 2]
 - **(c)** it is processed in a manner which would prevent the introduction into Canada of any reportable disease or any other serious epizootic disease.
-> SOR/97-478, s. 15.
+> SOR/97-478, s. 15; SOR/2008-20, s. 2.
 
 
 
