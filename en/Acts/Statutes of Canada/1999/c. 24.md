@@ -54,7 +54,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 ***first nation*** means a band named in the schedule.
 
-***first nation land*** means reserve land to which a land code applies and includes all the interests in and resources of the land that are within the legislative authority of Parliament.
+***first nation land*** means reserve land to which a land code applies and includes all the interests or rights in, and resources of, the land that are within the legislative authority of Parliament.
 
 ***first nation law*** means a law referred to in section 20.
 
@@ -64,15 +64,19 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 ***individual agreement*** means an agreement with a first nation entered into under subsection 6(3).
 
-***interest***, in relation to first nation land, means any estate, right or interest of any nature in or to the land but does not include title to the land.
+***interest***, in relation to first nation land in Canada elsewhere than in Quebec, means any estate, right or interest of any nature in or to the land, but does not include title to the land.
 
 ***land code*** means a land code of a first nation referred to in subsection 6(1).
 
-***licence***, in relation to first nation land, means any right of use or occupation of the land other than an interest in that land.
+***licence***, in relation to first nation land, means
+- **(a)** in Canada elsewhere than in Quebec, any right of use or occupation of the land other than an interest in that land;
+- **(b)** in Quebec, any right to use or occupy the land other than a right as defined in this subsection.
 
 ***Minister*** means the Minister of Indian Affairs and Northern Development.
 
 ***project*** has the same meaning as in subsection 2(1) of the [Canadian Environmental Assessment Act](/en/Acts/Statutes%20of%20Canada/1992/c.%2037.md).
+
+***right***, in relation to first nation land in Quebec, means any right of any nature in or to that land, including the rights of a lessee, but does not include title to the land.
 
 **Words and expressions in [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md)**
 
@@ -81,6 +85,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Not land claims agreement**
 
 - **(3)** For greater certainty, neither the Framework Agreement nor this Act is a land claims agreement referred to in section 35 of the Constitution Act, 1982.
+> 1999, c. 24, s. 2; 2007, c. 17, s. 1.
+
 
 
 
@@ -139,15 +145,15 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 	- **(a)** a legal description of the land that will be subject to the land code;
 	- **(b)** the general rules and procedures applicable to the use and occupancy of first nation land, including use and occupancy under
 		- **(i)** licences and leases, and
-		- **(ii)** interests in first nation land held pursuant to allotments under subsection 20(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) or pursuant to the custom of the first nation;
-	- **(c)** the procedures that apply to the transfer, by testamentary disposition or succession, of any interest in first nation land;
+		- **(ii)** interests or rights in first nation land held pursuant to allotments under subsection 20(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) or pursuant to the custom of the first nation;
+	- **(c)** the procedures that apply to the transfer, by testamentary disposition or succession, of any interest or right in first nation land;
 	- **(d)** the general rules and procedures respecting revenues from natural resources obtained from first nation land;
 	- **(e)** the requirements for accountability to first nation members for the management of first nation land and moneys derived from first nation land;
-	- **(f)** a community consultation process for the development of general rules and procedures respecting, in cases of breakdown of marriage, the use, occupation and possession of first nation land and the division of interests in first nation land;
+	- **(f)** a community consultation process for the development of general rules and procedures respecting, in cases of breakdown of marriage, the use, occupation and possession of first nation land and the division of interests or rights in first nation land;
 	- **(g)** the rules that apply to the enactment and publication of first nation laws;
 	- **(h)** the rules that apply to conflicts of interest in the management of first nation land;
-	- **(i)** the establishment or identification of a forum for the resolution of disputes in relation to interests in first nation land;
-	- **(j)** the general rules and procedures that apply in respect of the granting or expropriation by the first nation of interests in first nation land;
+	- **(i)** the establishment or identification of a forum for the resolution of disputes in relation to interests or rights in first nation land;
+	- **(j)** the general rules and procedures that apply in respect of the granting or expropriation by the first nation of interests or rights in first nation land;
 	- **(k)** the general rules and procedures for the delegation, by the council of the first nation, of its authority to manage first nation land;
 	- **(l)** the procedures that apply to an approval of an exchange of first nation land; and
 	- **(m)** the procedures for amending the land code.
@@ -160,9 +166,11 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(3)** A first nation that wishes to establish a land management regime shall, in accordance with the Framework Agreement, enter into an individual agreement with the Minister describing the land that will be subject to the land code and providing for
 	- **(a)** the terms of the transfer of administration of that land;
-	- **(b)** a description of the interests and licences that have been granted by Her Majesty in or in relation to that land, and the date and other terms of the transfer to the first nation of Her Majesty’s rights and obligations as grantor of those interests and licences;
+	- **(b)** a description of the interests or rights and licences that have been granted by Her Majesty in or in relation to that land, and the date and other terms of the transfer to the first nation of Her Majesty’s rights and obligations as grantor of those interests or rights and licences;
 	- **(c)** the environmental assessment process that will apply to projects on that land until the enactment of first nation laws in relation to that subject; and
 	- **(d)** any other relevant matter.
+> 1999, c. 24, s. 6; 2007, c. 17, s. 2.
+
 
 
 
@@ -179,11 +187,13 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Condition**
 
-- **(2)** A portion of a reserve may not be excluded from a land code if the exclusion would have the effect of placing the administration of a lease or other interest in land in more than one land management regime.
+- **(2)** A portion of a reserve may not be excluded from a land code if the exclusion would have the effect of placing the administration of a lease, other interest or a right in that land in more than one land management regime.
 
 **Exclusion no longer valid**
 
 - **(3)** A first nation shall amend the legal description of first nation land in its land code to include a portion excluded under subsection (1) if the first nation and the Minister agree that the condition that justified the exclusion no longer exists, and the individual agreement shall be amended accordingly.
+> 1999, c. 24, s. 7; 2007, c. 17, s. 3.
+
 
 
 
@@ -241,7 +251,9 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Third parties**
 
-- **(4)** If other persons have an interest in the land that is to be subject to the proposed land code, the council shall, within a reasonable time before the vote, take appropriate measures to inform those persons of the proposed land code, this Act and the date of the vote.
+- **(4)** If other persons have an interest or right in the land that is to be subject to the proposed land code, the council shall, within a reasonable time before the vote, take appropriate measures to inform those persons of the proposed land code, this Act and the date of the vote.
+> 1999, c. 24, s. 10; 2007, c. 17, s. 4.
+
 
 
 
@@ -336,19 +348,21 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **16** 
 
-- **(1)** After the coming into force of a land code, no interest in or licence in relation to first nation land may be acquired or granted except in accordance with the land code of the first nation.
+- **(1)** After the coming into force of a land code, no interest or right in or licence in relation to first nation land may be acquired or granted except in accordance with the land code of the first nation.
 
-**Interests of third parties**
+**Interests or rights of third parties**
 
-- **(2)** Subject to subsections (3) and (4), interests in and licences in relation to first nation land that exist on the coming into force of a land code continue in accordance with their terms and conditions.
+- **(2)** Subject to subsections (3) and (4), interests or rights in and licences in relation to first nation land that exist on the coming into force of a land code continue in accordance with their terms and conditions.
 
 **Transfer of rights of Her Majesty**
 
-- **(3)** On the coming into force of the land code of a first nation, the rights and obligations of Her Majesty as grantor in respect of the interests and licences described in the first nation’s individual agreement are transferred to the first nation in accordance with that agreement.
+- **(3)** On the coming into force of the land code of a first nation, the rights and obligations of Her Majesty as grantor in respect of the interests or rights and the licences described in the first nation’s individual agreement are transferred to the first nation in accordance with that agreement.
 
-**Interests of first nation members**
+**Interests and rights of first nation members**
 
-- **(4)** Interests in first nation land held on the coming into force of a land code by first nation members pursuant to allotments under subsection 20(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) or pursuant to the custom of the first nation are subject to the provisions of the land code governing the transfer and lease of interests in first nation land and sharing in natural resource revenues.
+- **(4)** Interests or rights in first nation land held on the coming into force of a land code by first nation members pursuant to allotments under subsection 20(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) or pursuant to the custom of the first nation are subject to the provisions of the land code governing the transfer and lease of interests or rights in first nation land and sharing in natural resource revenues.
+> 1999, c. 24, s. 16; 2007, c. 17, s. 5.
+
 
 
 
@@ -361,7 +375,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **17** 
 
-- **(1)** A first nation shall, in accordance with the Framework Agreement and following the community consultation process provided for in its land code, establish general rules and procedures, in cases of breakdown of marriage, respecting the use, occupation and possession of first nation land and the division of interests in first nation land.
+- **(1)** A first nation shall, in accordance with the Framework Agreement and following the community consultation process provided for in its land code, establish general rules and procedures, in cases of breakdown of marriage, respecting the use, occupation and possession of first nation land and the division of interests or rights in first nation land.
 
 **Establishment of rules and procedures**
 
@@ -370,6 +384,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Disputes**
 
 - **(3)** The first nation or the Minister may refer any dispute relating to the establishment of the general rules and procedures to an arbitrator in accordance with the Framework Agreement.
+> 1999, c. 24, s. 17; 2007, c. 17, s. 6.
+
 
 
 
@@ -388,14 +404,14 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(1)** A first nation has, after the coming into force of its land code and subject to the Framework Agreement and this Act, the power to manage first nation land and, in particular, may
 	- **(a)** exercise the powers, rights and privileges of an owner in relation to that land;
-	- **(b)** grant interests in and licences in relation to that land;
+	- **(b)** grant interests or rights in and licences in relation to that land;
 	- **(c)** manage the natural resources of that land; and
 	- **(d)** receive and use all moneys acquired by or on behalf of the first nation under its land code.
 
 **Legal capacity**
 
 - **(2)** For any purpose related to first nation land, a first nation has the legal capacity necessary to exercise its powers and perform its duties and functions and, in particular, may
-	- **(a)** acquire and hold real and personal property;
+	- **(a)** acquire and hold property;
 	- **(b)** enter into contracts;
 	- **(c)** borrow money;
 	- **(d)** expend and invest money; and
@@ -408,6 +424,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Management body**
 
 - **(4)** A body established to manage first nation land is a legal entity having the capacity, rights, powers and privileges of a natural person.
+> 1999, c. 24, s. 18; 2007, c. 17, s. 7.
+
 
 
 
@@ -428,7 +446,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **20** 
 
 - **(1)** The council of a first nation has, in accordance with its land code, the power to enact laws respecting
-	- **(a)** interests in and licences in relation to first nation land;
+	- **(a)** interests or rights in and licences in relation to first nation land;
 	- **(b)** the development, conservation, protection, management, use and possession of first nation land; and
 	- **(c)** any matter arising out of or ancillary to the exercise of that power.
 
@@ -436,7 +454,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(2)** Without restricting the generality of subsection (1), first nation laws may include laws respecting
 	- **(a)** the regulation, control or prohibition of land use and development including zoning and subdivision control;
-	- **(b)** subject to section 5, the creation, acquisition and granting of interests in and licences in relation to first nation land and prohibitions in relation thereto;
+	- **(b)** subject to section 5, the creation, acquisition and granting of interests or rights in and licences in relation to first nation land and prohibitions in relation thereto;
 	- **(c)** environmental assessment and environmental protection;
 	- **(d)** the provision of local services in relation to first nation land and the imposition of equitable user charges for those services; and
 	- **(e)** the provision of services for the resolution of disputes in relation to first nation land.
@@ -448,6 +466,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Inconsistency**
 
 - **(4)** In the event of any inconsistency or conflict between the land code of a first nation and the provisions of a first nation law or of a by-law made by its council under section 81 of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), the land code prevails to the extent of the inconsistency or conflict.
+> 1999, c. 24, s. 20; 2007, c. 17, s. 8.
+
 
 
 
@@ -537,11 +557,13 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Regulations**
 
-- **(3)** The Governor in Council may, on the recommendation of the Minister and in accordance with the Framework Agreement, make regulations respecting the administration of the First Nation Land Register, the registration of interests in it and the recording of any other matter, including but not limited to regulations respecting
-	- **(a)** the effects of registering interests, including priorities;
-	- **(b)** the payment of fees for the registration of interests and for any other service in relation to the Register;
+- **(3)** The Governor in Council may, on the recommendation of the Minister and in accordance with the Framework Agreement, make regulations respecting the administration of the First Nation Land Register, the registration of interests or rights in it and the recording of any other matter, including but not limited to regulations respecting
+	- **(a)** the effects of registering interests or rights, including priorities;
+	- **(b)** the payment of fees for the registration of interests or rights and for any other service in relation to the Register;
 	- **(c)** the appointment, remuneration, powers, functions and duties of officers and employees who administer the Register; and
 	- **(d)** the keeping, by officers and employees, of documents that are not registrable.
+> 1999, c. 24, s. 25; 2007, c. 17, s. 9.
+
 
 
 
@@ -558,7 +580,9 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Expropriation**
 
-- **(2)** Interests in first nation land may not be expropriated except by Her Majesty or a first nation in accordance with the Framework Agreement and this Act.
+- **(2)** Interests or rights in first nation land may not be expropriated except by Her Majesty or a first nation in accordance with the Framework Agreement and this Act.
+> 1999, c. 24, s. 26; 2007, c. 17, s. 10.
+
 
 
 
@@ -590,27 +614,29 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **28** 
 
-- **(1)** A first nation may, in accordance with the general rules and procedures contained in its land code, expropriate any interest in its first nation land that, in the opinion of its council, is necessary for community works or other first nation community purposes.
+- **(1)** A first nation may, in accordance with the general rules and procedures contained in its land code, expropriate any interest or right in its first nation land that, in the opinion of its council, is necessary for community works or other first nation community purposes.
 
 **Exception**
 
-- **(2)** An interest in first nation land obtained under section 35 of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) or held by Her Majesty is not subject to expropriation by a first nation.
+- **(2)** An interest or right in first nation land obtained under section 35 of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) or held by Her Majesty is not subject to expropriation by a first nation.
 
 **Effective date**
 
-- **(3)** An expropriation takes effect from the day on which a notice of expropriation is registered in the First Nation Land Register or the thirtieth day after the day on which the notice is served on the person whose interest is expropriated, whichever is the earlier.
+- **(3)** An expropriation takes effect from the day on which a notice of expropriation is registered in the First Nation Land Register or the thirtieth day after the day on which the notice is served on the person whose interest or right is expropriated, whichever is the earlier.
 
 **Effect of expropriation**
 
-- **(4)** An expropriated interest becomes the property of the first nation free of any previous claim or encumbrance.
+- **(4)** An expropriated interest becomes the property of the first nation free of any previous claim or encumbrance. In Quebec, a first nation becomes the holder of an expropriated right free of any previous right, charge or claim.
 
 **Compensation**
 
-- **(5)** A first nation shall pay fair compensation to the holder of an expropriated interest and, in determining that compensation, the first nation shall apply the rules set out in the [Expropriation Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-21.md), with such modifications as the circumstances require.
+- **(5)** A first nation shall pay fair compensation to the holder of an expropriated interest or right and, in determining that compensation, the first nation shall apply the rules set out in the [Expropriation Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-21.md), with such modifications as the circumstances require.
 
 **Resolution of disputes**
 
 - **(6)** Any dispute concerning compensation shall be determined according to the system for the resolution of such disputes established by a first nation in accordance with the Framework Agreement.
+> 1999, c. 24, s. 28; 2007, c. 17, s. 11.
+
 
 
 
@@ -619,7 +645,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **29** 
 
-- **(1)** An interest in first nation land may be expropriated by Her Majesty for the use of a federal department or agency and with the consent and by order of the Governor in Council.
+- **(1)** An interest or right in first nation land may be expropriated by Her Majesty for the use of a federal department or agency and with the consent and by order of the Governor in Council.
 
 **Consent of Governor in Council**
 
@@ -629,8 +655,8 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(3)** The Governor in Council may consent to an expropriation only if the Governor in Council is satisfied that, in addition to any other legal requirements that may apply, the following requirements have been met:
 	- **(a)** there is no other reasonably feasible alternative to the expropriation, such as the use of land that is not first nation land;
-	- **(b)** reasonable efforts have been made to acquire the interest through agreement with the first nation;
-	- **(c)** the most limited interest necessary is expropriated for the shortest time possible; and
+	- **(b)** reasonable efforts have been made to acquire the interest or right through agreement with the first nation;
+	- **(c)** the most limited interest or right necessary is expropriated for the shortest time possible; and
 	- **(d)** information relevant to the expropriation is provided to the first nation.
 
 **Report to be made public**
@@ -644,15 +670,19 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **Time of consent**
 
 - **(6)** The Governor in Council may not consent to the expropriation before the expiration of the period referred to in subsection (5) or, if the first nation has referred the matter to a neutral evaluator, before the neutral evaluator has reported on the matter.
+> 1999, c. 24, s. 29; 2007, c. 17, s. 12.
+
 
 
 
 
 **Partial expropriation**
 
-**30** If less than the full interest of a first nation in first nation land is expropriated by Her Majesty,
-- **(a)** the land in which an interest is expropriated continues to be first nation land and subject to the provisions of the land code and first nation laws that are not inconsistent with the expropriation; and
+**30** If less than the full interest of a first nation, or less than the entire right of a first nation, in first nation land is expropriated by Her Majesty,
+- **(a)** the land in which an interest or right is expropriated continues to be first nation land and subject to the provisions of the land code and first nation laws that are not inconsistent with the expropriation; and
 - **(b)** the first nation continues to have the right to use and occupy that land except to the extent that the use and occupation is inconsistent with the expropriation.
+> 1999, c. 24, s. 30; 2007, c. 17, s. 13.
+
 
 
 
@@ -661,21 +691,21 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **31** 
 
-- **(1)** Where an interest in first nation land is expropriated by Her Majesty, compensation shall be provided to the first nation consisting of
+- **(1)** Where an interest or right in first nation land is expropriated by Her Majesty, compensation shall be provided to the first nation consisting of
 	- **(a)** land that, when accepted by that first nation, will become first nation land; and
 	- **(b)** any additional compensation required to achieve the total compensation determined under subsection (3).
 
 **Land of a lesser area**
 
-- **(2)** Land provided to a first nation as compensation may be of an area that is less than the area of the land in which an interest has been expropriated if the total area of the land comprised in a reserve of the first nation is not less following the expropriation than at the coming into force of its land code.
+- **(2)** Land provided to a first nation as compensation may be of an area that is less than the area of the land in which an interest or right has been expropriated if the total area of the land comprised in a reserve of the first nation is not less following the expropriation than at the coming into force of its land code.
 
 **Determination of compensation**
 
 - **(3)** The total compensation shall be determined taking into account the following factors:
-	- **(a)** the market value of the expropriated interest or of the land in which an interest has been expropriated;
+	- **(a)** the market value of the expropriated interest or right or of the land in which an interest or right has been expropriated;
 	- **(b)** the replacement value of any improvement to the land;
 	- **(c)** any expenses or losses resulting from a disturbance attributable to the expropriation;
-	- **(d)** any reduction in the value of any interest in first nation land that is not expropriated;
+	- **(d)** any reduction in the value of any interest or right in first nation land that is not expropriated;
 	- **(e)** any adverse effect on any cultural or other special value of the land to the first nation; and
 	- **(f)** the value of any special economic advantage arising out of or incidental to the occupation or use of the land to the extent that that value is not otherwise compensated.
 
@@ -689,7 +719,9 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **Limit**
 
-- **(6)** Any claim or encumbrance in respect of an interest expropriated by Her Majesty may only be made or discharged against the compensation paid under this section.
+- **(6)** Any claim or encumbrance in respect of an interest expropriated by Her Majesty may only be made or discharged against the compensation paid under this section. In Quebec, any right, charge or claim in respect of a right expropriated by Her Majesty may only be made or discharged against the compensation paid under this section.
+> 1999, c. 24, s. 31; 2007, c. 17, s. 14.
+
 
 
 
@@ -698,22 +730,26 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **32** 
 
-- **(1)** An interest in first nation land expropriated by Her Majesty that is no longer required for the purpose for which it was expropriated shall revert to the first nation and, if the full interest of the first nation was expropriated, it shall be returned to the first nation in accordance with terms and conditions negotiated by the first nation and the expropriating department or agency.
+- **(1)** An interest or right in first nation land expropriated by Her Majesty that is no longer required for the purpose for which it was expropriated shall revert to the first nation and, if the full interest or the entire right of the first nation was expropriated, it shall be returned to the first nation in accordance with terms and conditions negotiated by the first nation and the expropriating department or agency.
 
 **Improvements**
 
-- **(2)** When an interest reverts or is returned to a first nation, the minister responsible for the expropriating department or agency shall determine the disposition of any improvements made to the land.
+- **(2)** When an interest or right reverts or is returned to a first nation, the minister responsible for the expropriating department or agency shall determine the disposition of any improvements made to the land.
 
 **Dispute**
 
-- **(3)** If the first nation and the expropriating department or agency cannot agree on the terms and conditions of the return of the full interest, the first nation or the department or agency may, in accordance with the Framework Agreement, refer the matter to an arbitrator.
+- **(3)** If the first nation and the expropriating department or agency cannot agree on the terms and conditions of the return of the full interest or of the entire right, the first nation or the department or agency may, in accordance with the Framework Agreement, refer the matter to an arbitrator.
+> 1999, c. 24, s. 32; 2007, c. 17, s. 15.
+
 
 
 
 
 **[Expropriation Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-21.md)**
 
-**33** Without limiting the generality of section 37, in the event of any inconsistency or conflict between this Act and the [Expropriation Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-21.md) in relation to the expropriation of interests in first nation land by Her Majesty, this Act prevails to the extent of the inconsistency or conflict.
+**33** Without limiting the generality of section 37, in the event of any inconsistency or conflict between this Act and the [Expropriation Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-21.md) in relation to the expropriation of interests or rights in first nation land by Her Majesty, this Act prevails to the extent of the inconsistency or conflict.
+> 1999, c. 24, s. 33; 2007, c. 17, s. 16.
+
 
 
 
@@ -793,13 +829,15 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 	- **(b)** any regulations made under section 57 of that Act; and
 	- **(c)** to the extent of any inconsistency or conflict with the Framework Agreement, the land code or first nation laws, any regulations made under sections 42 and 73 of that Act.
 
-**Leasehold interests**
+**Leasehold interests or leases**
 
-- **(2)** Subsection 89(1.1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) continues to apply to leasehold interests in any first nation land that was designated land on the coming into force of a first nation’s land code.
+- **(2)** Subsection 89(1.1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md) continues to apply to leasehold interests or leases in any first nation land that was designated land on the coming into force of a first nation’s land code.
 
 **Application**
 
-- **(3)** A land code may extend the application of subsection 89(1.1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), or any portion of it, to other leasehold interests in first nation land.
+- **(3)** A land code may extend the application of subsection 89(1.1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md), or any portion of it, to other leasehold interests or leases in first nation land.
+> 1999, c. 24, s. 38; 2007, c. 17, s. 17.
+
 
 
 
@@ -810,11 +848,13 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(1)** The [Indian Oil and Gas Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-7.md)
 	- **(a)** continues to apply in respect of any first nation land that was subject to that Act on the coming into force of the land code of a first nation; and
-	- **(b)** applies in respect of an interest in first nation land that is granted to Her Majesty for the exploitation of oil and gas pursuant to a land code.
+	- **(b)** applies in respect of an interest or right in first nation land that is granted to Her Majesty for the exploitation of oil and gas pursuant to a land code.
 
 **Royalties**
 
 - **(2)** For greater certainty, the provisions of the [Indian Oil and Gas Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-7.md) respecting the payment of royalties to Her Majesty in trust for a first nation apply, notwithstanding any other provision of this Act, in respect of first nation land referred to in subsection (1).
+> 1999, c. 24, s. 39; 2007, c. 17, s. 18.
+
 
 
 
