@@ -502,31 +502,36 @@ conformément à l’ordonnance qui précise la manière, le lieu, les condition
 
 **10** Les définitions qui suivent s’appliquent au présent article et aux articles 11 à 16.
 
-***animal réglementé*** Désigne tout oeuf d’incubation, toute tortue terrestre ou aquatique, tout oiseau, toute abeille à miel ou tout mammifère, à l’exclusion de leur matériel génétique et de tout animal appartenant à l’ordre des rongeurs, des cétacés, des pinnipèdes et des siréniens. (*regulated animal*)
+***animal réglementé*** Oeuf d’incubation, tortue terrestre ou aquatique, oiseau, abeille à miel ou mammifère, à l’exclusion de ce qui suit : 
+- **a)** leur matériel génétique;
+- **b)** tout animal des ordres des cétacés, des pinnipèdes et des siréniens;
+- **c)** tout animal de l’ordre des rongeurs, sauf :
+	- **(i)** les chiens de prairie (*Cynomys sp*.), les rats géants de Gambie (*Cricetomys gambianus*) et les écureuils de la famille des sciuridés, quel que soit leur pays de provenance,
+	- **(ii)** tout autre animal de cet ordre provenant d’Afrique. (*regulated animal*)
 
-***document de référence*** Le document établi par l’Agence et intitulé Document de référence relatif à l’importation qui porte la date du 25 janvier 2007 et le numéro de politique AHPD-DSAE-IE-2002-3-4. (*import reference document*)
+***document de référence*** Le document établi par l’Agence et intitulé Document de référence relatif à l’importation qui porte la date du 25 janvier 2007 et le numéro de politique AHPD-DSAE-IE-2002-3-4. (*import reference document*)
 
-***embryon*** Oeuf fécondé, autre qu’un oeuf d’incubation, avant son implantation dans un animal. (*embryo*)
+***embryon*** Oeuf fécondé, autre qu’un oeuf d’incubation, avant son implantation dans un animal. (*embryo*)
 
-***espèce*** À l’égard du matériel génétique, espèce à laquelle appartient l’animal dont provient ce matériel. (*species*)
+***espèce*** À l’égard du matériel génétique, espèce à laquelle appartient l’animal dont provient ce matériel. (*species*)
 
-***matériel génétique*** Sperme, cellules germinales mâles ou femelles, ou matériel héréditaire prélevé de ces cellules pour produire un zygote, y compris l’embryon, mais à l’exclusion de l’oeuf d’incubation. (*germplasm*)
+***matériel génétique*** Sperme, cellules germinales mâles ou femelles, ou matériel héréditaire prélevé de ces cellules pour produire un zygote, y compris l’embryon, mais à l’exclusion de l’oeuf d’incubation. (*germplasm*)
 
-***région*** Pays ou, si le document de référence le précise, partie de pays ou groupe de pays contigus ou de parties de pays contiguës. (*area*)
+***région*** Pays ou, si le document de référence le précise, partie de pays ou groupe de pays contigus ou de parties de pays contiguës. (*area*)
 
-***région à faible risque*** Région désignée dans le document de référence comme région à faible risque pour une espèce d’animal réglementé. (*low risk area*)
+***région à faible risque*** Région désignée dans le document de référence comme région à faible risque pour une espèce d’animal réglementé. (*low risk area*)
 
-***région à risque équivalent*** Région désignée dans le document de référence comme région à risque équivalent pour une espèce d’animal réglementé. (*equivalent risk area*)
+***région à risque équivalent*** Région désignée dans le document de référence comme région à risque équivalent pour une espèce d’animal réglementé. (*equivalent risk area*)
 
 ***région d’origine***
 - **a)** À l’égard d’un animal réglementé, région dans laquelle l’animal est né ou dans laquelle il a vécu sans restrictions relatives à une maladie, telles l’isolation ou la mise en quarantaine, pendant les soixante jours qui ont précédé son entrée au Canada;
-- **b)** à l’égard du matériel génétique, région dans laquelle il a été prélevé sur un animal réglementé ou a été importé sans restrictions quant à son usage. (*area of origin*)
+- **b)** à l’égard du matériel génétique, région dans laquelle il a été prélevé sur un animal réglementé ou a été importé sans restrictions quant à son usage. (*area of origin*)
 
-***région non désignée*** Région désignée dans le document de référence comme région non désignée pour une espèce d’animal réglementé. (*undesignated area*)
+***région non désignée*** Région désignée dans le document de référence comme région non désignée pour une espèce d’animal réglementé. (*undesignated area*)
 
-***vétérinaire officiel*** Vétérinaire qui est :
+***vétérinaire officiel*** Vétérinaire qui est :
 - **a)** soit employé par l’autorité responsable de la mise en place et de la surveillance des services vétérinaires dans un pays, de la délivrance de certificats relativement à l’état de santé et à l’origine des animaux qui s’y trouvent et de l’inspection d’animaux réglementés en vue de la protection de la santé publique et de la santé des animaux dans ce pays;
-- **b)** soit autorisé par cette autorité à délivrer de tels certificats et à faire de telles inspections, si les services vétérinaires et les mécanismes de délivrance d’autorisations et d’inspection dans le pays sont équivalents aux services et mécanismes canadiens correspondants en ce qui concerne l’efficacité de la protection de la santé publique et de la santé des animaux. (*official veterinarian*)
+- **b)** soit autorisé par cette autorité à délivrer de tels certificats et à faire de telles inspections, si les services vétérinaires et les mécanismes de délivrance d’autorisations et d’inspection dans le pays sont équivalents aux services et mécanismes canadiens correspondants en ce qui concerne l’efficacité de la protection de la santé publique et de la santé des animaux. (*official veterinarian*)
 > DORS/78-69, art. 7; DORS/97-85, art. 4; DORS/2001-210, art. 3; DORS/2003-264, art. 2; DORS/2004-80, art. 15; DORS/2007-24, art. 6.
 
 
