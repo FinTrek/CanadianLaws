@@ -58,21 +58,27 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***conseil*** En ce qui touche une première nation, le conseil de la bande au sens du paragraphe 2(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md).
 
+***droit*** S’agissant des terres de la première nation situées au Québec, tout droit de quelque nature que ce soit portant sur celles-ci et, par assimilation, tout droit du locataire; est cependant exclu le titre de propriété.
+
 ***électeur*** Personne qui satisfait aux conditions prévues au paragraphe 10(2).
 
-***intérêts*** S’agissant des terres de la première nation, les domaines, droits ou autres intérêts portant sur celles-ci; est cependant exclu le titre de propriété.
+***intérêt*** S’agissant des terres de la première nation situées au Canada mais ailleurs qu’au Québec, tout domaine, droit ou autre intérêt portant sur celles-ci; est cependant exclu le titre de propriété.
+
+***intérêts***[Abrogée, 2007, ch. 17, art. 1]
 
 ***membre de la première nation*** Personne dont le nom apparaît sur la liste de bande relative à la première nation ou qui a droit à ce que son nom y figure.
 
 ***ministre*** Le ministre des Affaires indiennes et du Nord canadien.
 
-***permis*** S’agissant des terres de la première nation, les droits et permissions d’utiliser ou d’occuper celles-ci. Sont exclus les intérêts.
+***permis*** S’agissant des terres de la première nation :
+- **a)** situées au Canada mais ailleurs qu’au Québec, tout droit d’usage ou d’occupation portant sur celles-ci ou toute permission au même effet, autre qu’un intérêt;
+- **b)** situées au Québec, tout droit d’utiliser ou d’occuper celles-ci, autre qu’un droit au sens du présent paragraphe.
 
 ***première nation*** Bande dont le nom figure à l’annexe.
 
 ***projet d’exploitation*** Projet au sens du paragraphe 2(1) de la [Loi canadienne sur l’évaluation environnementale](/fr/Lois/Lois%20du%20Canada/1992/ch.%2037.md).
 
-***terres de la première nation*** Terres d’une réserve auxquelles s’applique le code foncier. Sont compris les intérêts afférents ainsi que les ressources qui s’y trouvent, dans la mesure où ils relèvent de la compétence fédérale.
+***terres de la première nation*** Terres d’une réserve auxquelles s’applique le code foncier. Sont compris les droits ou intérêts afférents ainsi que les ressources qui s’y trouvent, dans la mesure où ils relèvent de la compétence fédérale.
 
 ***texte législatif*** Texte législatif visé à l’article 20.
 
@@ -83,6 +89,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Pas un accord sur des revendications territoriales**
 
 - **(3)** Il est entendu que ni l’accord-cadre ni la présente loi constitue un accord sur des revendications territoriales au sens de l’article 35 de la Loi constitutionnelle de 1982.
+> 1999, ch. 24, art. 2; 2007, ch. 17, art. 1.
+
 
 
 
@@ -136,15 +144,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** La mise en place d’un régime de gestion des terres, par la première nation, en conformité avec l’accord-cadre et la présente loi est subordonnée à l’adoption d’un code foncier applicable à l’ensemble des terres comprises dans sa réserve et dans lequel figurent les éléments suivants :
 	- **a)** la description officielle des terres visées;
-	- **b)** les règles générales — de procédure et autres — applicables en matière d’utilisation et d’occupation de ces terres, notamment en vertu d’un permis ou d’un bail ou en vertu d’un intérêt découlant soit de la possession accordée en conformité avec le paragraphe 20(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), soit de la coutume de la première nation;
-	- **c)** les règles de procédure applicables en matière de transfert, par dévolution successorale, d’intérêts sur ces terres;
+	- **b)** les règles générales — de procédure et autres — applicables en matière d’utilisation et d’occupation de ces terres, notamment en vertu d’un permis ou d’un bail ou en vertu d’un droit ou intérêt découlant soit de la possession accordée en conformité avec le paragraphe 20(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), soit de la coutume de la première nation;
+	- **c)** les règles de procédure applicables en matière de transfert, par dévolution successorale, de droits ou intérêts sur ces terres;
 	- **d)** les règles générales — de procédure et autres — applicables en matière de revenus tirés des ressources naturelles de ces terres;
 	- **e)** les règles applicables en matière de responsabilité, devant les membres de la première nation, en ce qui touche la gestion des terres de la première nation et celle des fonds qui y sont liés;
-	- **f)** une disposition relative au processus de consultation populaire visant l’établissement de règles applicables, en cas d’échec du mariage, en matière soit d’utilisation, d’occupation ou de possession des terres de la première nation, soit de partage des intérêts sur celles-ci;
+	- **f)** une disposition relative au processus de consultation populaire visant l’établissement de règles applicables, en cas d’échec du mariage, en matière soit d’utilisation, d’occupation ou de possession des terres de la première nation, soit de partage des droits ou intérêts sur celles-ci;
 	- **g)** les règles d’édiction et de publication des textes législatifs;
 	- **h)** les règles applicables en matière de conflit d’intérêts dans la gestion des terres de la première nation;
-	- **i)** une disposition prévoyant soit la constitution d’un organe chargé de régler les différends concernant les intérêts sur les terres de la première nation, soit l’attribution de cette fonction à un organe donné;
-	- **j)** les règles générales — de procédure et autres — applicables en matière d’attribution ou d’expropriation, par la première nation, d’intérêts sur ses terres;
+	- **i)** une disposition prévoyant soit la constitution d’un organe chargé de régler les différends concernant les droits ou intérêts sur les terres de la première nation, soit l’attribution de cette fonction à un organe donné;
+	- **j)** les règles générales — de procédure et autres — applicables en matière d’attribution ou d’expropriation, par la première nation, de droits ou intérêts sur ses terres;
 	- **k)** les règles générales — de procédure et autres — applicables en matière de délégation, par le conseil de la première nation, de ses pouvoirs de gestion des terres;
 	- **l)** la procédure d’approbation en matière d’échange de terres;
 	- **m)** la procédure de modification du code foncier.
@@ -157,9 +165,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(3)** La mise en place d’un régime de gestion des terres est en outre subordonnée à la conclusion, par le ministre et la première nation et en conformité avec l’accord-cadre, d’un accord spécifique qui, en plus de mentionner les terres visées :
 	- **a)** fixe les modalités de transfert des pouvoirs et fonctions en matière de gestion des terres;
-	- **b)** précise les intérêts et les permis qui ont été accordés par Sa Majesté relativement aux terres en question ainsi que la date et les autres modalités du transfert, à la première nation, des droits et obligations de Sa Majesté à l’égard de ceux-ci;
+	- **b)** précise les droits ou intérêts et les permis qui ont été accordés par Sa Majesté relativement aux terres en question ainsi que la date et les autres modalités du transfert, à la première nation, des droits et obligations de Sa Majesté à l’égard de ceux-ci;
 	- **c)** établit un régime d’évaluation environnementale applicable aux projets d’exploitation devant être mis en oeuvre sur les terres en question jusqu’à la prise de textes législatifs sur le sujet;
 	- **d)** prévoit tout autre élément pertinent.
+> 1999, ch. 24, art. 6; 2007, ch. 17, art. 2.
+
 
 
 
@@ -176,11 +186,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Condition**
 
-- **(2)** L’exclusion est invalide si elle a pour effet d’assujettir un bail ou quelque autre intérêt à plus d’un régime de gestion.
+- **(2)** L’exclusion est invalide si elle a pour effet d’assujettir un bail, quelque autre intérêt ou quelque droit à plus d’un régime de gestion.
 
 **Cessation d’effet**
 
 - **(3)** La première nation qui, en accord avec le ministre, conclut que l’exclusion n’est plus justifiée aux termes du paragraphe (1) est tenue de modifier le code foncier de façon à y ajouter la description officielle de la partie auparavant exclue. L’accord spécifique doit être modifié de façon équivalente.
+> 1999, ch. 24, art. 7; 2007, ch. 17, art. 3.
+
 
 
 
@@ -236,9 +248,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(3)** Le conseil est tenu, avant de procéder à la consultation populaire, de prendre les mesures utiles — notamment celles prévues par l’accord-cadre — pour retrouver tous les électeurs et les informer, d’une part, de leur droit de vote et des modalités d’exercice de ce droit et, d’autre part, de la teneur de l’accord-cadre, de la présente loi, du projet de code foncier ainsi que de l’accord spécifique.
 
-**Titulaires d’intérêts**
+**Titulaires de droits ou intérêts**
 
-- **(4)** Il est en outre tenu de prendre, en temps utile avant le scrutin, les mesures indiquées pour porter la présente loi, le projet de code foncier et la date prévue pour le scrutin à la connaissance de tout autre titulaire d’intérêts sur les terres en question.
+- **(4)** Il est en outre tenu de prendre, en temps utile avant le scrutin, les mesures indiquées pour porter la présente loi, le projet de code foncier et la date prévue pour le scrutin à la connaissance de tout autre titulaire de droits ou intérêts sur les terres en question.
+> 1999, ch. 24, art. 10; 2007, ch. 17, art. 4.
+
 
 
 
@@ -333,19 +347,21 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **16** 
 
-- **(1)** L’acquisition ou l’attribution d’intérêts ou de permis relatifs aux terres de la première nation ne peuvent, à compter de l’entrée en vigueur du code foncier, être effectuées qu’en conformité avec celui-ci.
+- **(1)** L’acquisition ou l’attribution de droits ou intérêts ou de permis relatifs aux terres de la première nation ne peuvent, à compter de l’entrée en vigueur du code foncier, être effectuées qu’en conformité avec celui-ci.
 
-**Droits des tiers**
+**Droits ou intérêts des tiers**
 
-- **(2)** Sous réserve des paragraphes (3) et (4), les intérêts et les permis détenus, à la date d’entrée en vigueur du code foncier, relativement aux terres de la première nation sont maintenus, ainsi que les conditions dont ils sont assortis.
+- **(2)** Sous réserve des paragraphes (3) et (4), les droits ou intérêts et les permis détenus, à la date d’entrée en vigueur du code foncier, relativement aux terres de la première nation sont maintenus, ainsi que les conditions dont ils sont assortis.
 
 **Transfert**
 
-- **(3)** Les droits et obligations de Sa Majesté à l’égard des intérêts et des permis précisés dans l’accord spécifique sont, à la date d’entrée en vigueur du code foncier, transférés à la première nation en conformité avec cet accord.
+- **(3)** Les droits et obligations de Sa Majesté à l’égard des droits ou intérêts et des permis précisés dans l’accord spécifique sont, à la date d’entrée en vigueur du code foncier, transférés à la première nation en conformité avec cet accord.
 
-**Droits des membres de la première nation**
+**Droits ou intérêts des membres de la première nation**
 
-- **(4)** Sont assujettis, à compter de la date d’entrée en vigueur du code foncier, aux dispositions de celui-ci en matière de transfert, de cession à bail et de participation aux revenus tirés des ressources naturelles, les intérêts des membres de la première nation sur les terres de celle-ci qui découlent soit de la possession accordée en conformité avec le paragraphe 20(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), soit de la coutume de la première nation.
+- **(4)** Sont assujettis, à compter de la date d’entrée en vigueur du code foncier, aux dispositions de celui-ci en matière de transfert, de bail et de participation aux revenus tirés des ressources naturelles, les droits ou intérêts des membres de la première nation sur ses terres qui découlent soit de la possession accordée en conformité avec le paragraphe 20(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md), soit de la coutume de la première nation.
+> 1999, ch. 24, art. 16; 2007, ch. 17, art. 5.
+
 
 
 
@@ -358,7 +374,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **17** 
 
-- **(1)** La première nation doit veiller à l’établissement, en conformité avec l’accord-cadre et au terme du processus de consultation populaire prévu à cette fin dans le code foncier, de règles générales — de procédure et autres — applicables, en cas d’échec du mariage, en matière soit d’utilisation, d’occupation ou de possession des terres de la première nation, soit de partage des intérêts sur celles-ci.
+- **(1)** La première nation doit veiller à l’établissement, en conformité avec l’accord-cadre et au terme du processus de consultation populaire prévu à cette fin dans le code foncier, de règles générales — de procédure et autres — applicables, en cas d’échec du mariage, en matière soit d’utilisation, d’occupation ou de possession des terres de la première nation, soit de partage des droits ou intérêts sur celles-ci.
 
 **Mise en place**
 
@@ -367,6 +383,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Différend**
 
 - **(3)** La première nation ou le ministre peut, en conformité avec l’accord-cadre, saisir un arbitre de tout différend relatif à l’établissement de ces règles.
+> 1999, ch. 24, art. 17; 2007, ch. 17, art. 6.
+
 
 
 
@@ -385,14 +403,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** La première nation est, à compter de l’entrée en vigueur du code foncier et sous réserve de l’accord-cadre et des autres dispositions de la présente loi, investie des pouvoirs de gestion relatifs à ses terres. Elle peut notamment :
 	- **a)** exercer tous les pouvoirs et droits liés au titre de propriété;
-	- **b)** attribuer des intérêts et des permis relativement à ces terres;
+	- **b)** attribuer des droits ou intérêts et des permis relativement à ces terres;
 	- **c)** gérer les ressources naturelles de ces terres;
 	- **d)** recevoir et utiliser les fonds qu’elle perçoit ou qui sont perçus pour son compte sous le régime du code foncier.
 
 **Capacité**
 
 - **(2)** Elle a, à l’égard de ses terres, la capacité juridique nécessaire à l’exercice de ses attributions et peut notamment :
-	- **a)** acquérir et détenir des biens meubles et immeubles;
+	- **a)** acquérir et détenir des biens;
 	- **b)** conclure des contrats;
 	- **c)** contracter des emprunts;
 	- **d)** dépenser ou placer des fonds;
@@ -405,6 +423,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Organe de gestion**
 
 - **(4)** Tout organe mis sur pied en vue de la gestion des terres de la première nation est une entité juridique dotée de la capacité d’une personne physique.
+> 1999, ch. 24, art. 18; 2007, ch. 17, art. 7.
+
 
 
 
@@ -425,7 +445,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **20** 
 
 - **(1)** Le conseil de la première nation peut, en conformité avec le code foncier, prendre des textes législatifs en ce qui touche :
-	- **a)** les intérêts et les permis relatifs aux terres de la première nation;
+	- **a)** les droits ou intérêts et les permis relatifs aux terres de la première nation;
 	- **b)** la mise en valeur, la conservation, la protection, la gestion, l’utilisation et la possession de celles-ci;
 	- **c)** toute question qui découle de l’exercice de ces pouvoirs ou qui y est accessoire.
 
@@ -433,7 +453,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** Sans que soit limitée la portée générale de ce qui précède, les textes législatifs peuvent :
 	- **a)** prévoir le zonage ou le lotissement des terres de la première nation ou autrement en régir ou en interdire l’exploitation ou l’utilisation;
-	- **b)** sous réserve de l’article 5, régir la création, l’acquisition et l’attribution d’intérêts ou de permis relatifs à ces terres et prévoir des interdictions à ce sujet;
+	- **b)** sous réserve de l’article 5, régir la création, l’acquisition et l’attribution de droits ou intérêts ou de permis relatifs à ces terres et prévoir des interdictions à ce sujet;
 	- **c)** régir la protection de l’environnement et l’évaluation environnementale;
 	- **d)** régir la prestation de services locaux relativement à ces terres et la fixation de droits équitables à cet égard;
 	- **e)** prévoir la fourniture de services de règlement des différends relatifs aux terres.
@@ -445,6 +465,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Incompatibilité**
 
 - **(4)** Le code foncier l’emporte sur les dispositions incompatibles des textes législatifs de la première nation ou des règlements administratifs pris par son conseil en vertu de l’article 81 de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md).
+> 1999, ch. 24, art. 20; 2007, ch. 17, art. 8.
+
 
 
 
@@ -534,11 +556,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Règlements**
 
-- **(3)** Le gouverneur en conseil peut, sur recommandation du ministre et en conformité avec l’accord-cadre, prendre des règlements concernant la tenue du registre, l’enregistrement des intérêts dans celui-ci ainsi que toute autre forme d’inscription pouvant y être faite. Ces règlements peuvent régir, entre autres :
-	- **a)** les effets de l’enregistrement, notamment sur le rang des intérêts entre eux;
+- **(3)** Le gouverneur en conseil peut, sur recommandation du ministre et en conformité avec l’accord-cadre, prendre des règlements concernant la tenue du registre, l’enregistrement des droits ou intérêts dans celui-ci ainsi que toute autre forme d’inscription pouvant y être faite. Ces règlements peuvent régir, entre autres :
+	- **a)** les effets de l’enregistrement, notamment sur le rang des droits ou intérêts entre eux;
 	- **b)** les droits exigibles pour tout enregistrement dans ce registre ou tout autre service offert relativement à celui-ci;
 	- **c)** la nomination, la rémunération et les attributions des fonctionnaires nécessaires à la tenue du registre;
 	- **d)** la conservation par ceux-ci des documents non susceptibles d’enregistrement.
+> 1999, ch. 24, art. 25; 2007, ch. 17, art. 9.
+
 
 
 
@@ -555,7 +579,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Expropriation**
 
-- **(2)** Par ailleurs, seuls Sa Majesté et la première nation peuvent procéder à l’expropriation d’intérêts sur ces terres, et ce en conformité avec l’accord-cadre et la présente loi.
+- **(2)** Par ailleurs, seuls Sa Majesté et la première nation peuvent procéder à l’expropriation de droits ou intérêts sur ces terres, et ce en conformité avec l’accord-cadre et la présente loi.
+> 1999, ch. 24, art. 26; 2007, ch. 17, art. 10.
+
 
 
 
@@ -585,11 +611,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **28** 
 
-- **(1)** La première nation peut, en conformité avec les règles prévues par le code foncier, procéder à l’expropriation des intérêts sur ses terres dont elle a besoin, de l’avis de son conseil, à des fins d’intérêt collectif, notamment la réalisation d’ouvrages devant servir à la collectivité.
+- **(1)** La première nation peut, en conformité avec les règles prévues par le code foncier, procéder à l’expropriation des droits ou intérêts sur ses terres dont elle a besoin, de l’avis de son conseil, à des fins d’intérêt collectif, notamment la réalisation d’ouvrages devant servir à la collectivité.
 
 **Exception**
 
-- **(2)** Ne sont toutefois pas susceptibles d’expropriation par la première nation les intérêts obtenus sous le régime de l’article 35 de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md) ou détenus par Sa Majesté.
+- **(2)** Ne sont toutefois pas susceptibles d’expropriation par la première nation les droits ou intérêts obtenus sous le régime de l’article 35 de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md) ou détenus par Sa Majesté.
 
 **Prise d’effet**
 
@@ -597,15 +623,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Effet**
 
-- **(4)** Les intérêts expropriés deviennent la propriété de la première nation, libres de toutes charges.
+- **(4)** Les intérêts expropriés deviennent la propriété de la première nation, libres de toute réclamation et de tout grèvement antérieurs. Au Québec, la première nation devient titulaire des droits expropriés, libres de tout droit, charge ou réclamation antérieurs.
 
 **Indemnisation**
 
-- **(5)** La première nation est tenue de verser au titulaire de tout intérêt exproprié une indemnité équitable et d’appliquer, dans le calcul de celle-ci, les règles prévues par la [Loi sur l’expropriation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-21.md), compte tenu des adaptations nécessaires.
+- **(5)** La première nation est tenue de verser au titulaire de tout droit ou intérêt exproprié une indemnité équitable et d’appliquer, dans le calcul de celle-ci, les règles prévues par la [Loi sur l’expropriation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-21.md), compte tenu des adaptations nécessaires.
 
 **Règlement des différends**
 
 - **(6)** Les différends relatifs à l’indemnisation sont réglés selon le système mis sur pied à cette fin par la première nation en conformité avec l’accord-cadre.
+> 1999, ch. 24, art. 28; 2007, ch. 17, art. 11.
+
 
 
 
@@ -614,7 +642,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **29** 
 
-- **(1)** L’expropriation d’intérêts sur les terres de la première nation par Sa Majesté n’est valide que si elle est agréée par décret et effectuée pour le bénéfice d’un ministère ou organisme du gouvernement fédéral — ci-après appelé « l’expropriant ».
+- **(1)** L’expropriation de droits ou intérêts sur les terres de la première nation par Sa Majesté n’est valide que si elle est agréée par décret et effectuée pour le bénéfice d’un ministère ou organisme du gouvernement fédéral — ci-après appelé « l’expropriant ».
 
 **Justification**
 
@@ -624,8 +652,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(3)** Le gouverneur en conseil ne donne son agrément à l’expropriation que s’il est convaincu que, outre celles prescrites par toute autre règle de droit, les conditions suivantes sont remplies :
 	- **a)** il n’existe aucune solution de rechange réalisable dans les circonstances, telle l’utilisation de terres autres que celles de la première nation;
-	- **b)** des efforts valables ont été déployés en vue de procéder à l’acquisition des intérêts par convention avec la première nation;
-	- **c)** l’expropriation projetée a été restreinte, en ce qui touche l’étendue des intérêts et la période pour laquelle ils sont expropriés, au strict nécessaire;
+	- **b)** des efforts valables ont été déployés en vue de procéder à l’acquisition des droits ou intérêts par convention avec la première nation;
+	- **c)** l’expropriation projetée a été restreinte, en ce qui touche l’étendue des droits ou intérêts et la période pour laquelle ils sont expropriés, au strict nécessaire;
 	- **d)** les renseignements pertinents ont été communiqués à la première nation.
 
 **Rapport public**
@@ -639,15 +667,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Délai**
 
 - **(6)** Le gouverneur en conseil ne peut donner son agrément avant l’expiration du délai prévu au paragraphe (5) ou, en cas de renvoi à un conciliateur, avant que celui-ci ait remis son rapport.
+> 1999, ch. 24, art. 29; 2007, ch. 17, art. 12.
+
 
 
 
 
 **Expropriation partielle**
 
-**30** Dans les cas où l’expropriation par Sa Majesté ne porte pas sur la totalité des intérêts de la première nation sur les terres en question :
+**30** Dans les cas où l’expropriation par Sa Majesté ne vise pas l’intégralité du droit ou de l’intérêt de la première nation sur les terres en question :
 - **a)** celles-ci demeurent des terres de la première nation assujetties aux dispositions de son code foncier et de ses textes législatifs qui sont compatibles avec les conditions de l’expropriation;
 - **b)** la première nation a le droit de continuer de les occuper et de les utiliser pour autant qu’elle ne contrevienne pas aux conditions de l’expropriation.
+> 1999, ch. 24, art. 30; 2007, ch. 17, art. 13.
+
 
 
 
@@ -656,7 +688,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **31** 
 
-- **(1)** La première nation a droit, en cas d’expropriation d’intérêts sur ses terres par Sa Majesté, à une indemnité composée, d’une part, de terres qui sont destinées à devenir, une fois acceptées par la première nation, des terres de celle-ci et, d’autre part, de toute autre forme d’indemnité nécessaire pour parvenir au total calculé en conformité avec le paragraphe (3).
+- **(1)** La première nation a droit, en cas d’expropriation de droits ou intérêts sur ses terres par Sa Majesté, à une indemnité composée, d’une part, de terres qui sont destinées à devenir, une fois acceptées par la première nation, des terres de celle-ci et, d’autre part, de toute autre forme d’indemnité nécessaire pour parvenir au total calculé en conformité avec le paragraphe (3).
 
 **Terres de remplacement**
 
@@ -665,10 +697,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Calcul de l’indemnité**
 
 - **(3)** L’indemnité totale est calculée compte tenu des éléments suivants :
-	- **a)** la valeur marchande des intérêts expropriés ou des terres visées par l’expropriation;
+	- **a)** la valeur marchande des droits ou intérêts expropriés ou des terres visées par l’expropriation;
 	- **b)** la valeur de remplacement de toute amélioration apportée à ces terres;
 	- **c)** les pertes et les dépenses attribuables aux troubles de jouissance découlant de l’expropriation;
-	- **d)** la diminution de valeur des intérêts non expropriés sur les terres de la première nation;
+	- **d)** la diminution de valeur des droits ou intérêts non expropriés sur les terres de la première nation;
 	- **e)** les répercussions nuisibles de l’expropriation sur la valeur culturelle ou toute autre valeur particulière, pour la première nation, de ces terres;
 	- **f)** la valeur de tout avantage économique particulier lié à l’occupation ou à l’utilisation des terres, dans la mesure où cette valeur n’est pas par ailleurs visée par l’indemnité.
 
@@ -682,7 +714,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Limite**
 
-- **(6)** Le recouvrement de toute réclamation ou la réalisation de toute charge, relativement aux intérêts expropriés par Sa Majesté, ne peuvent être poursuivis que jusqu’à concurrence de l’indemnité versée au titre du présent article.
+- **(6)** Le recouvrement de toute réclamation ou la réalisation de tout grèvement, relativement aux intérêts expropriés par Sa Majesté, ne peuvent être poursuivis que jusqu’à concurrence de l’indemnité versée au titre du présent article. Au Québec, le recouvrement de tout droit, charge ou réclamation relativement aux droits expropriés par Sa Majesté ne peut être poursuivi que jusqu’à concurrence de l’indemnité versée au titre du présent article.
+> 1999, ch. 24, art. 31; 2007, ch. 17, art. 14.
+
 
 
 
@@ -691,22 +725,26 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **32** 
 
-- **(1)** Les intérêts expropriés par Sa Majesté qui ne sont plus nécessaires aux fins ayant donné lieu à l’expropriation sont restitués à la première nation. Dans le cas d’expropriation portant sur la totalité des intérêts de la première nation sur les terres en question, la restitution est effectuée selon les modalités fixées par celle-ci et l’expropriant.
+- **(1)** Les droits ou intérêts expropriés par Sa Majesté qui ne sont plus nécessaires aux fins ayant donné lieu à l’expropriation sont restitués à la première nation. Dans le cas d’expropriation portant sur l’intégralité du droit ou de l’intérêt de la première nation sur les terres en question, la restitution est effectuée selon les modalités fixées par celle-ci et l’expropriant.
 
 **Sort des améliorations**
 
-- **(2)** Le ministre responsable de l’expropriant décide, en cas de restitution des intérêts expropriés, du sort des améliorations apportées aux terres en question.
+- **(2)** Le ministre responsable de l’expropriant décide, en cas de restitution des droits ou intérêts expropriés, du sort des améliorations apportées aux terres en question.
 
 **Différend**
 
 - **(3)** En cas de différend relatif aux modalités visées au paragraphe (1), la première nation ou l’expropriant peut renvoyer l’affaire à un arbitre en conformité avec l’accord-cadre.
+> 1999, ch. 24, art. 32; 2007, ch. 17, art. 15.
+
 
 
 
 
 **[Loi sur l’expropriation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-21.md)**
 
-**33** Les dispositions de la présente loi l’emportent, en ce qui touche l’expropriation d’intérêts sur les terres de la première nation par Sa Majesté, sur les dispositions incompatibles de la [Loi sur l’expropriation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-21.md).
+**33** Les dispositions de la présente loi l’emportent, en ce qui touche l’expropriation de droits ou intérêts sur les terres de la première nation par Sa Majesté, sur les dispositions incompatibles de la [Loi sur l’expropriation](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-21.md).
+> 1999, ch. 24, art. 33; 2007, ch. 17, art. 16.
+
 
 
 
@@ -788,11 +826,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Baux**
 
-- **(2)** Le paragraphe 89(1.1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md) continue de s’appliquer en ce qui touche les baux relatifs aux terres de la première nation qui, à l’entrée en vigueur du code foncier, constituent des terres désignées.
+- **(2)** Le paragraphe 89(1.1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md) continue de s’appliquer en ce qui touche les baux ou intérêts à bail relatifs aux terres de la première nation qui, à l’entrée en vigueur du code foncier, constituent des terres désignées.
 
 **Application étendue**
 
-- **(3)** Le code foncier peut par ailleurs étendre l’application du paragraphe 89(1.1) de cette loi — même en partie seulement — à tout autre bail relatif aux terres de la première nation.
+- **(3)** Le code foncier peut par ailleurs étendre l’application du paragraphe 89(1.1) de cette loi — même en partie seulement — à tout autre bail ou intérêt à bail relatif aux terres de la première nation.
+> 1999, ch. 24, art. 38; 2007, ch. 17, art. 17.
+
 
 
 
@@ -801,11 +841,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **39** 
 
-- **(1)** La [Loi sur le pétrole et le gaz des terres indiennes](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-7.md) continue de s’appliquer en ce qui touche les terres de la première nation qui y sont assujetties à la date d’entrée en vigueur du code foncier de cette dernière. Elle s’applique aussi en ce qui touche les intérêts sur les terres de la première nation accordés à Sa Majesté, après cette date, pour l’exploitation du pétrole et du gaz.
+- **(1)** La [Loi sur le pétrole et le gaz des terres indiennes](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-7.md) continue de s’appliquer en ce qui touche les terres de la première nation qui y sont assujetties à la date d’entrée en vigueur du code foncier de cette dernière. Elle s’applique aussi en ce qui touche les droits ou intérêts sur les terres de la première nation accordés à Sa Majesté, après cette date, pour l’exploitation du pétrole et du gaz.
 
 **Redevances**
 
 - **(2)** Sans que soit limitée la portée générale de ce qui précède, les dispositions de cette loi prévoyant le paiement de redevances à Sa Majesté en fiducie pour les premières nations s’appliquent malgré toute autre disposition de la présente loi.
+> 1999, ch. 24, art. 39; 2007, ch. 17, art. 18.
+
 
 
 
