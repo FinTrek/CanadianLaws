@@ -506,31 +506,36 @@ the inspector may order the person who owns or has possession, care or control o
 
 **10** The definitions in this section apply in this section and in sections 11 to 16.
 
-***area*** means a country or, if so identified in the import reference document, a part of a country or a number of contiguous countries or contiguous parts of countries. (*région*)
+***area*** means a country or, if so identified in the import reference document, a part of a country or a number of contiguous countries or contiguous parts of countries. (*région*)
 
-***area of origin*** means
+***area of origin*** means
 - **(a)** with respect to a regulated animal, the area in which the animal was born or the area where the animal has lived without restrictions relating to disease, such as restrictions for isolation or quarantine, for the sixty-day period immediately before the date of entry; and
-- **(b)** with respect to germplasm, the area in which the germplasm was taken from a regulated animal or into which it was previously imported for unrestricted use. (*région d’origine*)
+- **(b)** with respect to germplasm, the area in which the germplasm was taken from a regulated animal or into which it was previously imported for unrestricted use. (*région d’origine*)
 
-***embryo*** means a fertilized ovum, other than a hatching egg, before it is implanted into an animal. (*embryon*)
+***embryo*** means a fertilized ovum, other than a hatching egg, before it is implanted into an animal. (*embryon*)
 
-***equivalent risk area*** means, in respect of a species of regulated animal, an area identified as an equivalent risk area for that species in the import reference document. (*région à risque équivalent*)
+***equivalent risk area*** means, in respect of a species of regulated animal, an area identified as an equivalent risk area for that species in the import reference document. (*région à risque équivalent*)
 
-***germplasm*** means semen, male or female germ cells or genetic material taken from a male or female germ cell for the purpose of producing a zygote and includes embryos but does not include a hatching egg. (*matériel génétique*)
+***germplasm*** means semen, male or female germ cells or genetic material taken from a male or female germ cell for the purpose of producing a zygote and includes embryos but does not include a hatching egg. (*matériel génétique*)
 
-***import reference document*** means the document prepared by the Agency and entitled Import Reference Document, bearing the date January 25, 2007 and policy number AHPD-DSAE-IE-2002-3-4. (*document de référence*)
+***import reference document*** means the document prepared by the Agency and entitled Import Reference Document, bearing the date January 25, 2007 and policy number AHPD-DSAE-IE-2002-3-4. (*document de référence*)
 
-***low risk area*** means, in respect of a species of regulated animal, an area identified as a low risk area for that species in the import reference document. (*région à faible risque*)
+***low risk area*** means, in respect of a species of regulated animal, an area identified as a low risk area for that species in the import reference document. (*région à faible risque*)
 
-***official veterinarian*** means a veterinarian who is
+***official veterinarian*** means a veterinarian who is
 - **(a)** employed by the authority responsible for implementing and supervising or auditing the carrying out of veterinary services in a country, the issuance of certificates respecting the health and origin of animals in that country and the performance of inspections of regulated animals for the purpose of protecting animal and public health in that country; or
-- **(b)** authorized by that authority to issue those certificates and perform those inspections, if the systems for providing veterinary services, issuing authorizations and performing inspections in that country are equivalent to the corresponding systems in Canada in terms of their effectiveness in protecting animal and public health. (*vétérinaire officiel*)
+- **(b)** authorized by that authority to issue those certificates and perform those inspections, if the systems for providing veterinary services, issuing authorizations and performing inspections in that country are equivalent to the corresponding systems in Canada in terms of their effectiveness in protecting animal and public health. (*vétérinaire officiel*)
 
-***regulated animal*** means a hatching egg, turtle, tortoise, bird, honeybee or mammal, but does not include germplasm or members of the orders *Rodentia*, *Cetacea*, *Pinnipedia* and *Sirenia*. (*animal réglementé*)
+***regulated animal*** means a hatching egg, turtle, tortoise, bird, honeybee or mammal, but does not include 
+- **(a)** germplasm;
+- **(b)** members of the orders *Cetacea*, *Pinnipedia* and *Sirenia*; or
+- **(c)** members of the order *Rodentia*, other than
+	- **(i)** prairie dogs (*Cynomys sp.*), African Giant Pouched Rats (*Cricetomys gambianus*) and squirrels of the family *Sciuridae*, from any country, and
+	- **(ii)** any other members of the order from Africa. (*animal réglementé*)
 
-***species*** means, in respect of germplasm, the species of the animal that it is from. (*espèce*)
+***species*** means, in respect of germplasm, the species of the animal that it is from. (*espèce*)
 
-***undesignated area*** means, in respect of a species of regulated animal, an area identified as an undesignated area for that species in the import reference document. (*région non désignée*)
+***undesignated area*** means, in respect of a species of regulated animal, an area identified as an undesignated area for that species in the import reference document. (*région non désignée*)
 > SOR/78-69, s. 7; SOR/97-85, s. 4; SOR/2001-210, s. 3; SOR/2003-264, s. 2; SOR/2004-80, s. 15; SOR/2007-24, s. 6.
 
 
