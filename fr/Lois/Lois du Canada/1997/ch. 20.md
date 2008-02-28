@@ -58,6 +58,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***avance*** Paiement versé par anticipation à un producteur admissible pour son produit agricole.
 
+***bétail*** Les bovins, ovins, porcins, bisons et autres animaux éventuellement désignés par règlement.
+
 ***campagne agricole*** En ce qui concerne tel produit agricole, toute période d’au plus dix-huit mois — ou le nombre de mois supérieur fixé par le ministre — prévue par l’accord de garantie d’avance relativement à ce produit.
 
 ***carnet de livraison*** Carnet de livraison au sens du paragraphe 2(1) de la [Loi sur la Commission canadienne du blé](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-24.md).
@@ -87,7 +89,7 @@ Pour l’application des parties I et IV, est assimilée au producteur toute per
 ***unité de récolte***[Abrogée, 2006, ch. 3, art. 1]
 
 - **(2)** [Abrogé, 2006, ch. 3, art. 1]
-> 1997, ch. 20, art. 2; 1998, ch. 17, art. 30; 2001, ch. 27, art. 203; 2006, ch. 3, art. 1.
+> 1997, ch. 20, art. 2; 1998, ch. 17, art. 30; 2001, ch. 27, art. 203; 2006, ch. 3, art. 1; 2008, ch. 7, art. 1.
 
 
 
@@ -205,13 +207,18 @@ Pour l’application des parties I et IV, est assimilée au producteur toute per
 	- **d)** de s’assurer que le taux d’intérêt applicable à l’emprunt ne dépasse pas le taux fixé dans l’accord de garantie d’avance;
 	- **e)** de prendre des mesures, conformément à l’accord de garantie d’avance, en vue de s’assurer, avant le versement de l’avance :
 		- **(i)** s’agissant d’un produit agricole entreposable, soit qu’il est commercialisable et entreposé de façon qu’il le reste jusqu’à ce qu’il en soit disposé en conformité avec l’accord de remboursement, soit, s’il est en cours de production ou à produire, que le montant de l’avance est couvert par l’un des programmes figurant à l’annexe et que toute somme pouvant être reçue au titre de ce programme est cessible,
-		- **(ii)** s’agissant d’un produit agricole non entreposable, soit qu’il est commercialisable et gardé de façon qu’il le reste jusqu’à ce qu’il en soit disposé en conformité avec l’accord de remboursement, que le montant de l’avance est couvert par l’un des programmes figurant à l’annexe et que toute somme pouvant être reçue au titre de ce programme est cessible, soit, s’il est en cours de production ou à produire, que ce montant est couvert par l’un de ces programmes et que toute somme pouvant être reçue au titre de ce programme est cessible;
+		- **(ii)** s’agissant d’un produit agricole non entreposable, soit qu’il est commercialisable et gardé de façon qu’il le reste jusqu’à ce qu’il en soit disposé en conformité avec l’accord de remboursement, que le montant de l’avance est couvert par l’un des programmes figurant à l’annexe et que toute somme pouvant être reçue au titre de ce programme est cessible, soit, s’il est en cours de production ou à produire, que ce montant est couvert par l’un de ces programmes et que toute somme pouvant être reçue au titre de ce programme est cessible,
+		- **(iii)** malgré les sous-alinéas (i) et (ii), s’agissant de bétail, qu’il est commercialisable et est gardé de façon qu’il le reste jusqu’à ce qu’il en soit disposé en conformité avec l’accord de remboursement;
 	- **f)** de rembourser, avec les intérêts afférents, le prêteur sur les sommes qu’il reçoit en vue du remboursement des avances qu’il consent, dans le délai prévu par l’accord de garantie d’avance;
 	- **g)** dans le cas où le producteur admissible est en défaut :
 		- **(i)** de verser au prêteur, dans le délai prévu par l’accord de garantie d’avance, un pourcentage donné — déterminé conformément aux règlements — du montant dont le producteur est redevable au titre de l’alinéa 22a),
 		- **(ii)** de verser au ministre dans le même délai le pourcentage ainsi déterminé du montant des intérêts que le ministre a versés en vertu du paragraphe 9(1);
 	- **h)** de verser au ministre les intérêts supplémentaires résultant de son omission de faire les paiements visés aux alinéas f) et g);
 	- **i)** dans le cas où le ministre a effectué le versement prévu au paragraphe 23(1) et qu’après ce versement le producteur rembourse à l’agent d’exécution une partie de l’avance, de remettre au ministre sur le montant remboursé, dans le délai prévu par l’accord de garantie d’avance, un pourcentage de ce remboursement, déterminé conformément aux règlements.
+
+**Modalités particulières**
+
+- **(3.01)** L’accord de garantie d’avance peut prévoir, à titre de modalités régissant l’octroi et le remboursement des avances, l’obligation pour le producteur d’informer l’agent d’exécution de sa participation à tout programme figurant à l’annexe et celle de céder, s’il est en défaut, toute somme à laquelle il a droit au titre d’un tel programme à l’agent d’exécution à concurrence des sommes dont il est redevable au titre de l’article 22, et au ministre à concurrence de celles dont il est redevable au titre de l’article 23.
 
 **Exception**
 
@@ -236,7 +243,7 @@ Pour l’application des parties I et IV, est assimilée au producteur toute per
 **Pourcentage visé à l’alinéa (3)g)**
 
 - **(6)** Le pourcentage visé à l’alinéa (3)g) qui est déterminé conformément à tout règlement doit être d’au moins 1 % et d’au plus 15 %. Si un règlement détermine une méthode de calcul à cet égard, le pourcentage est réputé être de 1 % si le résultat du calcul est de moins de 1 % et il est réputé être de 15 % si ce résultat est de plus de 15 %.
-> 1997, ch. 20, art. 5; 1999, ch. 26, art. 42; 2006, ch. 3, art. 3.
+> 1997, ch. 20, art. 5; 1999, ch. 26, art. 42; 2006, ch. 3, art. 3; 2008, ch. 7, art. 2.
 
 
 
@@ -248,10 +255,10 @@ Pour l’application des parties I et IV, est assimilée au producteur toute per
 
 - **(1)** Le ministre peut conclure un accord de garantie d’avance avec un agent d’exécution sans donner la garantie visée à l’alinéa 5(1)a) s’il est convaincu que le remboursement des avances qui seront octroyées au titre de l’accord sera garanti par une autre personne ou entité.
 
-**Non-application**
+**Non-application de certaines dispositions**
 
-- **(2)** L’alinéa 5(3)i) et, sauf indication contraire qui est précisée dans l’accord, l’article 23 ne s’appliquent pas aux accords de garantie d’avance que le ministre a conclus sans donner la garantie.
-> 2006, ch. 3, art. 4.
+- **(2)** L’alinéa 5(3)i), l’article 23 et, sauf stipulation contraire de l’accord, les alinéas 5(3)c) et e) à h), 10(1)g) et h) et (2)b) et c) ne s’appliquent pas aux accords de garantie d’avance que le ministre a conclus sans donner la garantie.
+> 2006, ch. 3, art. 4; 2008, ch. 7, art. 3.
 
 
 
@@ -270,12 +277,32 @@ Pour l’application des parties I et IV, est assimilée au producteur toute per
 
 **7** 
 
-- **(1)** Malgré l’alinéa 5(3)e), l’accord de garantie d’avance peut autoriser l’agent d’exécution à verser, sous réserve des conditions qui y sont établies, une partie de l’avance à titre d’avance de secours au producteur admissible qui éprouve des difficultés de production en raison de conditions de production anormales attribuables au climat ou à un désastre naturel, s’il est raisonnable de s’attendre à ce que le produit agricole soit commercialisable.
+- **(1)** L’accord de garantie d’avance peut autoriser l’agent d’exécution à verser, sous réserve des conditions qui y sont établies, une partie de l’avance à titre d’avance de secours au producteur admissible qui éprouve :
+	- **a)** des difficultés de production en raison de conditions de production anormales attribuables au climat ou à un désastre naturel, s’il est raisonnable de s’attendre à ce que le produit agricole soit commercialisable;
+	- **b)** de graves difficultés financières, si le gouverneur en conseil a, sur la recommandation du ministre et du ministre des Finances, déclaré, compte tenu des critères réglementaires éventuels, que de telles difficultés touchent telle catégorie de producteurs admissibles dont il fait partie et que les avances de secours permettraient vraisemblablement de les atténuer de façon importante.
+
+**Période de versement**
+
+- **(2)** En agissant au titre de l’alinéa (1)b), le gouverneur en conseil précise la date limite — non postérieure à celle de la fin de la campagne agricole — pour verser les avances de secours en question.
 
 **Plafond**
 
-- **(2)** Le montant maximal de l’avance de secours se limite à 50 % ou le pourcentage fixé par règlement — à concurrence de 25 000 $ ou le montant fixé par règlement — de l’avance qui, selon l’agent d’exécution, pourrait être octroyée pour la quantité du produit agricole qui sera produite.
-> 1997, ch. 20, art. 7; 2006, ch. 3, art. 4.
+- **(3)** Le montant maximal de l’avance de secours est le suivant :
+	- **a)** dans le cas visé à l’alinéa (1)a), 50 % — ou le pourcentage fixé par règlement — de l’avance qui, selon l’agent d’exécution, pourrait être octroyée pour la quantité du produit agricole qui sera produite, à concurrence de 25 000 $ ou du montant fixé par règlement;
+	- **b)** dans le cas visé à l’alinéa (1)b), 100 % — ou le pourcentage fixé par règlement — de l’avance mentionnée à l’alinéa a), à concurrence de 400 000 $ ou du montant fixé par règlement.
+
+**Non-application de certaines dispositions**
+
+- **(4)** L’alinéa 5(3)e) ne s’applique pas à l’égard des avances de secours versées au titre de l’alinéa (1)a) et, sauf stipulation contraire de l’accord de garantie d’avance, les alinéas 5(3)e) et g), le paragraphe 5(3.01), les alinéas 10(1)g) et h) et (2)b) à c) et le paragraphe 19(3) ne s’appliquent pas à l’égard des avances de secours versées au titre de l’alinéa (1)b).
+
+**Pourcentage applicable**
+
+- **(5)** Sauf dans le cas où l’alinéa 5(3)g) s’applique aux termes de l’accord de garantie d’avance à l’égard des avances de secours versées au titre de l’alinéa (1)b), le pourcentage mentionné à l’alinéa 5(3)i) et au paragraphe 23(1) est, pour l’avance de secours versée au titre de l’alinéa (1)b), 100 % et ne peut être déterminé par règlement.
+
+**Sûreté**
+
+- **(6)** L’accord de garantie d’avance peut prévoir, au lieu de la sûreté exigée par les règlements d’application de l’article 12 ou en sus de celle-ci, la sûreté que l’agent d’exécution est tenu de prendre à l’égard des avances de secours versées au titre de l’alinéa (1)b).
+> 1997, ch. 20, art. 7; 2006, ch. 3, art. 4; 2008, ch. 7, art. 4.
 
 
 
@@ -334,10 +361,13 @@ Pour l’application des parties I et IV, est assimilée au producteur toute per
 		- **(ii)** tous les actionnaires, associés ou membres, selon le cas, s’engagent solidairement par écrit envers l’agent d’exécution pour les sommes visées à l’article 22 et donnent en garantie du remboursement de l’avance les sûretés que peut exiger l’agent d’exécution;
 	- **e)** ni lui ni les producteurs liés visés par l’accord de garantie d’avance ne sont en défaut relativement à un accord de remboursement;
 	- **f)** il n’est pas inadmissible aux termes du paragraphe 21(4);
+	- **f.1)** il démontre à l’agent d’exécution qu’il peut remplir les obligations que l’accord de remboursement lui impose;
 	- **g)** il n’a consenti, ni sur le produit agricole visé par l’avance garantie ni sur toute somme qu’il peut recevoir au titre de l’un des programmes figurant à l’annexe, aucune sûreté prenant rang avant la sûreté visée à l’article 12;
 	- **h)** il démontre :
 		- **(i)** dans le cas où le produit agricole visé par l’avance garantie est entreposable, soit que celui-ci est commercialisable et entreposé de façon qu’il le reste jusqu’à ce qu’il en soit disposé, soit, s’il est en cours de production ou à produire, que le montant de l’avance est couvert par l’un des programmes figurant à l’annexe et que toute somme pouvant être reçue au titre de ce programme est cessible,
-		- **(ii)** dans le cas où le produit agricole visé par l’avance garantie est non entreposable, soit que celui-ci est commercialisable et gardé de façon qu’il le reste jusqu’à ce qu’il en soit disposé, que le montant de l’avance est couvert par l’un des programmes figurant à l’annexe et que toute somme pouvant être reçue au titre de ce programme est cessible, soit, s’il est en cours de production ou à produire, que ce montant est couvert par l’un de ces programmes et que toute somme pouvant être reçue au titre de ce programme est cessible.
+		- **(ii)** dans le cas où le produit agricole visé par l’avance garantie est non entreposable, soit que celui-ci est commercialisable et gardé de façon qu’il le reste jusqu’à ce qu’il en soit disposé, que le montant de l’avance est couvert par l’un des programmes figurant à l’annexe et que toute somme pouvant être reçue au titre de ce programme est cessible, soit, s’il est en cours de production ou à produire, que ce montant est couvert par l’un de ces programmes et que toute somme pouvant être reçue au titre de ce programme est cessible,
+		- **(iii)** malgré les sous-alinéas (i) et (ii), s’agissant de bétail visé par l’avance garantie, qu’il est commercialisable et est gardé de façon qu’il le reste jusqu’à ce qu’il en soit disposé;
+	- **i)** il respecte les conditions supplémentaires établies par règlement.
 
 **Partage de sûreté**
 
@@ -349,13 +379,16 @@ Pour l’application des parties I et IV, est assimilée au producteur toute per
 	- **a)** à rembourser l’avance :
 		- **(i)** en vendant le produit agricole visé par l’avance à un ou plusieurs acheteurs que l’agent désigne et en autorisant par écrit ceux-ci à retenir sur le prix de chaque unité de production la somme déterminée conformément au calendrier prévu dans l’accord,
 		- **(ii)** en vendant, selon les conditions établies par l’accord, le produit agricole visé par l’avance et en remettant à l’agent, pour chaque unité de production, la somme déterminée conformément au calendrier prévu dans l’accord,
-		- **(iii)** en versant à l’agent toute somme reçue au titre d’un programme figurant à l’annexe,
-		- **(iv)** en cédant à l’agent toute somme à laquelle il a droit au titre d’un tel programme,
+		- **(iii)** en versant à l’agent, conformément aux modalités prévues dans l’accord, toute somme reçue au titre d’un programme figurant à l’annexe,
+		- **(iv)** en cédant à l’agent, conformément aux modalités prévues dans l’accord, toute somme à laquelle il a droit au titre d’un tel programme,
 		- **(v)** en versant à l’agent, sans preuve de vente du produit agricole, toute somme, à concurrence du maximum fixé par règlement,
 		- **(vi)** en combinant les moyens visés aux sous-alinéas (i) à (v);
 	- **b)** à faire en sorte :
 		- **(i)** dans le cas où le produit agricole visé par l’avance garantie est entreposable, soit qu’il soit entreposé de façon qu’il reste commercialisable jusqu’à ce qu’il en soit disposé en conformité avec l’accord, soit, s’il est en cours de production ou à produire, que le montant de l’avance soit couvert par l’un des programmes figurant à l’annexe et que toute somme pouvant être reçue au titre de ce programme soit cessible,
-		- **(ii)** dans le cas où le produit agricole visé par l’avance est non entreposable, soit qu’il soit gardé de façon qu’il reste commercialisable jusqu’à ce qu’il en soit disposé en conformité avec l’accord, que le montant de l’avance soit couvert par l’un des programmes figurant à l’annexe et que toute somme pouvant être reçue au titre de ce programme soit cessible, soit, s’il est en cours de production ou à produire, que ce montant soit couvert par l’un de ces programmes et que toute somme pouvant être reçue au titre de ce programme soit cessible;
+		- **(ii)** dans le cas où le produit agricole visé par l’avance est non entreposable, soit qu’il soit gardé de façon qu’il reste commercialisable jusqu’à ce qu’il en soit disposé en conformité avec l’accord, que le montant de l’avance soit couvert par l’un des programmes figurant à l’annexe et que toute somme pouvant être reçue au titre de ce programme soit cessible, soit, s’il est en cours de production ou à produire, que ce montant soit couvert par l’un de ces programmes et que toute somme pouvant être reçue au titre de ce programme soit cessible,
+		- **(iii)** malgré les sous-alinéas (i) et (ii), s’agissant de bétail visé par l’avance, qu’il soit gardé de façon qu’il reste commercialisable jusqu’à ce qu’il en soit disposé en conformité avec l’accord;
+	- **b.1)** si l’accord de garantie d’avance le prévoit, à informer l’agent d’exécution de sa participation à tout programme figurant à l’annexe;
+	- **b.2)** si cet accord le prévoit, à céder, s’il est en défaut, toute somme à laquelle il a droit au titre d’un tel programme à l’agent d’exécution à concurrence des sommes dont il est redevable au titre de l’article 22, et au ministre à concurrence de celles dont il est redevable au titre de l’article 23.
 	- **c)** à rembourser le trop-perçu éventuel sur l’avance dans le délai prévu dans l’accord, lequel délai commence à courir le jour où le producteur prend connaissance de ce versement excédentaire ou, s’il est antérieur, le jour où l’agent lui envoie par la poste ou lui remet un avis à cet effet;
 	- **d)** à respecter toutes autres modalités de l’accord, notamment en ce qui concerne la livraison du produit agricole ou le paiement d’intérêts, et ce, avant et après toute défaillance.
 
@@ -366,7 +399,7 @@ Pour l’application des parties I et IV, est assimilée au producteur toute per
 **Renseignements**
 
 - **(4)** Le producteur est tenu de donner à l’agent d’exécution tous les renseignements que celui-ci lui demande pour l’application de la présente loi.
-> 1997, ch. 20, art. 10; 1999, ch. 26, art. 45; 2006, ch. 3, art. 6.
+> 1997, ch. 20, art. 10; 1999, ch. 26, art. 45; 2006, ch. 3, art. 6; 2008, ch. 7, art. 5.
 
 
 
@@ -568,7 +601,15 @@ Pour l’application des parties I et IV, est assimilée au producteur toute per
 **Frais engagés par le ministre**
 
 - **(3)** Le producteur est redevable au ministre des frais engagés par celui-ci pour procéder au recouvrement en vertu du paragraphe (2), y compris les frais juridiques et les intérêts sur le montant des frais calculés conformément à l’accord de remboursement.
-> 1997, ch. 20, art. 23; 1999, ch. 26, art. 46.
+
+**Prescription**
+
+- **(4)** Toute poursuite visant le recouvrement par le ministre d’une créance relative au montant non remboursé de l’avance, aux intérêts ou aux frais se prescrit par six ans à compter de la date à laquelle il est subrogé dans les droits de l’agent d’exécution.
+
+**Compensation et déduction**
+
+- **(5)** Le recouvrement, par voie de compensation ou de déduction, du montant d’une telle créance peut être effectué en tout temps sur toute somme à payer par l’État à la personne qui est redevable ou à sa succession.
+> 1997, ch. 20, art. 23; 1999, ch. 26, art. 46; 2008, ch. 7, art. 6.
 
 
 
@@ -824,14 +865,17 @@ Pour l’application des parties I et IV, est assimilée au producteur toute per
 	- **a)** prévoir, pour l’application de la définition de ***agent d’exécution*** au paragraphe 2(1), les critères devant servir :
 		- **(i)** à établir si un organisme représente des producteurs dans une région,
 		- **(ii)** à déterminer, généralement ou pour une région donnée, ce qui constitue une proportion importante d’un produit agricole;
+	- **a.1)** désigner, pour l’application de la définition de ***bétail*** au paragraphe 2(1), les animaux à considérer comme tel;
 	- **b)** prévoir, pour l’application du paragraphe 4.1(1), les critères devant servir à établir :
 		- **(i)** le prix moyen d’un produit agricole,
 		- **(ii)** si un produit agricole est non transformé ou s’il n’a subi que la transformation nécessaire à sa conservation et à son entreposage;
 	- **c)** déterminer le pourcentage visé à l’alinéa 5(3)g) ou la méthode de calcul de celui-ci, ce pourcentage pouvant différer selon l’expérience et le rendement antérieur de l’agent d’exécution;
 	- **d)** déterminer la méthode de calcul du pourcentage visé à l’alinéa 5(3)i) et au paragraphe 23(1);
-	- **d.1)** fixer les montants visés aux paragraphes 5(5), 7(2) et 9(1), à l’alinéa 20(1)b) et au paragraphe 20(1.1), lesquels peuvent différer, pour l’application du paragraphe 9(1), de l’alinéa 20(1)b) ou du paragraphe 20(1.1), à l’égard de catégories de producteurs;
-	- **e)** fixer les pourcentages visés au paragraphe 7(2), à l’alinéa 9(2)c), au paragraphe 19(2) et à l’alinéa 20(2)c);
+	- **d.1)** fixer les montants visés au paragraphe 5(5), aux alinéas 7(3)a) et b), au paragraphe 9(1), à l’alinéa 20(1)b) et au paragraphe 20(1.1), lesquels peuvent différer, pour l’application du paragraphe 9(1), de l’alinéa 20(1)b) ou du paragraphe 20(1.1), à l’égard de catégories de producteurs;
+	- **d.2)** préciser des critères pour l’application de l’alinéa 7(1)b);
+	- **e)** fixer les pourcentages visés aux alinéas 7(3)a) et b) et 9(2)c), au paragraphe 19(2) et à l’alinéa 20(2)c);
 	- **e.1)** prévoir, pour l’application de l’alinéa 10(1)a), les critères devant servir à déterminer quand le producteur cesse d’être le propriétaire du produit agricole ou cesse d’être responsable de sa commercialisation;
+	- **e.2)** prévoir, pour l’application de l’alinéa 10(1)i), les conditions supplémentaires, notamment selon la catégorie de producteurs ou de produits agricoles, la somme dont ils peuvent être redevables et les risques afférents;
 	- **f)** fixer un montant pour l’application du sous-alinéa 10(2)a)(v);
 	- **f.1)** définir, pour l’application de l’alinéa 10(2)c), ***trop-perçu***;
 	- **f.2)** régir les sûretés que les agents d’exécution sont tenus de prendre aux termes de l’article 12;
@@ -843,12 +887,12 @@ Pour l’application des parties I et IV, est assimilée au producteur toute per
 
 **Recommandation**
 
-- **(2)** Les règlements visés à l’alinéa (1)d.1) et ceux visés à l’alinéa (1)e) dans la mesure où ils fixent les pourcentages visés aux paragraphes 7(2) et 19(2) ne peuvent être pris que sur la recommandation du ministre, à laquelle doit souscrire le ministre des Finances.
+- **(2)** Les règlements visés à l’alinéa (1)d.1) et ceux visés à l’alinéa (1)e) dans la mesure où ils fixent les pourcentages visés aux alinéas 7(3)a) et b) et au paragraphe 19(2) ne peuvent être pris que sur la recommandation du ministre, à laquelle doit souscrire le ministre des Finances.
 
 **Différentes sûretés exigibles**
 
 - **(3)** Les règlements visés à l’alinéa (1)f.2) peuvent exiger que différentes sûretés soient prises selon les catégories de produits agricoles, les sommes dont les producteurs peuvent être redevables et les risques afférents.
-> 1997, ch. 20, art. 40; 1999, ch. 26, art. 47; 2006, ch. 3, art. 16.
+> 1997, ch. 20, art. 40; 1999, ch. 26, art. 47; 2006, ch. 3, art. 16; 2008, ch. 7, art. 7.
 
 
 
@@ -873,10 +917,14 @@ Pour l’application des parties I et IV, est assimilée au producteur toute per
 
 <a name='A-3.7_fr_1'><sup>*</sup></a>: [Note : Paragraphe 42(1) en vigueur le 27 novembre 2006, *voir* TR/2006-136.]<br />
 
+**Avances de secours**
+
+- **(1.1)** L’examen des dispositions de la présente loi relatives aux avances de secours versées au titre de l’alinéa 7(1)b) et de leur application doit en particulier permettre d’évaluer si elles sont nécessaires et de déterminer la mesure dans laquelle elles devraient être conservées ou modifiées.
+
 **Dépôt du rapport**
 
 - **(2)** Le ministre fait déposer devant chaque chambre du Parlement, dans les trente premiers jours de séance de celle-ci suivant l’établissement du rapport de l’examen, une copie de celui-ci.
-> 1997, ch. 20, art. 42; 2006, ch. 3, art. 17.
+> 1997, ch. 20, art. 42; 2006, ch. 3, art. 17; 2008, ch. 7, art. 8.
 
 
 
