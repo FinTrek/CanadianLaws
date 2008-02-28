@@ -12859,7 +12859,31 @@ où
 
 
 **PARTIE LXXV** 
-## [Abrogée, DORS/2001-295, art. 7]
+## Missions visées
+
+
+**7500** Les missions ci-après sont visées pour l’application de la subdivision 110(1)f)(v)(A)(II) de la Loi :
+- **a)** Opération Palladium (Bosnie-Herzégovine);
+- **b)** Opération Halo (Haïti);
+- **c)** Opération Danaca (Moyen-Orient — plateau du Golan);
+- **d)** Opération Calumet (Moyen-Orient — Sinaï);
+- **e)** Opération Jade (Moyen-Orient — Jérusalem, Damas et Égypte);
+- **f)** Opération Iraqi Freedom (Koweït);
+- **g)** Opération Solitude (Sénégal);
+- **h)** Opération Altair (golfe Persique);
+- **i)** Opération Hamlet (Haïti);
+- **j)** Opération Structure (Sri Lanka);
+- **k)** Opération Habitation (Haïti);
+- **l)** Opération Augural (Soudan — Khartoum);
+- **m)** Opération Bronze (Bosnie-Herzégovine — Force de stabilisation de l’Organisation du traité de l’Atlantique Nord);
+- **n)** Opération Boreas (Bosnie-Herzégovine — Force européenne);
+- **o)** Opération Safari (Soudan — Khartoum);
+- **p)** Opération Gladius (plateau du Golan);
+- **q)** Opération Augural (Éthiopie — Addis-Abeba);
+- **r)** Mission des Nations Unies au Soudan — Composante de police civile (Soudan — Khartoum).
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2008-49, art. 1.
+
+
 
 
 
