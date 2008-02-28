@@ -453,27 +453,15 @@ Dans l’une ou l’autre de ces éventualités, le quorum est réputé avoir to
 
 - **(1)** L’Office peut acquiescer à tout ou partie d’une demande ou prendre un arrêté, ou, s’il l’estime indiqué, accorder une réparation supplémentaire ou substitutive.
 
-**Restriction**
-
-- **(2)** L’Office n’acquiesce à tout ou partie de la demande d’un expéditeur relative au prix ou au service d’un envoi que s’il estime, compte tenu des circonstances, que celui-ci subirait autrement un préjudice commercial important.
-
-**Circonstances**
-
-- **(3)** Les circonstances peuvent notamment comprendre :
-	- **a)** le marché et les conditions du marché qui ont trait aux marchandises en cause;
-	- **b)** les lieux desservis et l’importance du trafic;
-	- **c)** l’ampleur des activités connexes;
-	- **d)** la nature du trafic ou du service en cause;
-	- **e)** la possibilité pour l’expéditeur de faire appel à un autre mode de transport des marchandises;
-	- **f)** tout autre élément que l’Office estime pertinent.
+- **(2) et (3)** [Abrogés, 2008, ch. 5, art. 1]
 
 **Modification**
 
 - **(4)** L’Office peut, notamment sous condition, apporter ou autoriser toute modification aux procédures prises devant lui.
 
-**Arbitrage**
+- **(5)** [Abrogé, 2008, ch. 5, art. 1]
+> 1996, ch. 10, art. 27; 2008, ch. 5, art. 1.
 
-- **(5)** Le présent article ne s’applique pas à l’arbitrage prévu par la partie IV.
 
 
 
@@ -630,16 +618,20 @@ Dans l’une ou l’autre de ces éventualités, le quorum est réputé avoir to
 
 **36.2** 
 
-- **(1)** Si l’article 36.1 ne s’applique pas, l’Office peut, sur demande de toutes les parties en cause, agir à titre de médiateur ou d’arbitre à l’égard de tout différend portant sur toute question relative aux chemins de fer visée aux parties III ou IV ou sur l’application de prix ou de frais au transport de marchandises par chemin de fer ou à des services connexes.
+- **(1)** Si les articles 36.1 et 169.1 ne s’appliquent pas, l’Office peut, sur demande de toutes les parties en cause, agir à titre de médiateur ou d’arbitre à l’égard de tout différend portant sur une question relative aux chemins de fer visée aux parties III ou IV ou sur l’application de taux ou de frais au transport de marchandises par chemin de fer ou à des services connexes.
 
-**Remboursement à l'Office**
+**Liste**
+
+- **(1.1)** L’Office peut établir une liste de personnes, choisies ou non parmi ses membres ou son personnel, pour agir à titre de médiateur ou d’arbitre.
+
+**Remboursement à l’Office**
 
 - **(2)** Les demandeurs sont solidairement tenus de rembourser à l’Office les frais afférents à la médiation ou à l’arbitrage.
 
-**Impossibilité d'agir**
+**Impossibilité d’agir**
 
 - **(3)** La personne qui agit à titre de médiateur ou d’arbitre ne peut agir dans le cadre d’autres procédures devant l’Office à l’égard des questions qui ont fait l’objet de la médiation ou de l’arbitrage.
-> 2007, ch. 19, art. 7.
+> 2007, ch. 19, art. 7; 2008, ch. 5, art. 8 et 9.
 
 
 
@@ -1916,7 +1908,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 
 
 **SECTION I** 
-### DÉFINITIONS ET CHAMP D’APPLICATION
+### Définitions et champ d’application
 
 
 
@@ -1990,7 +1982,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 
 
 **SECTION II** 
-### CONSTRUCTION ET EXPLOITATION DES CHEMINS DE FER
+### Construction et exploitation des chemins de fer
 
 
 
@@ -2317,7 +2309,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 
 
 **SECTION III** 
-### OPÉRATIONS FINANCIÈRES DES COMPAGNIES DE CHEMIN DE FER
+### Opérations financières des compagnies de chemin de fer
 
 
 
@@ -2485,7 +2477,7 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 
 
 **SECTION IV** 
-### PRIX, TARIF ET SERVICES
+### Prix, tarif et services
 
 
 
@@ -2667,18 +2659,20 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 
 
 
-**Hausse de prix**
+**Avis de modification du tarif**
 
 **119** 
 
-- **(1)** La compagnie de chemin de fer qui a l’intention de hausser les prix d’un tarif de transport publie la modification au moins vingt jours avant la date de sa prise d’effet.
+- **(1)** La compagnie de chemin de fer qui a l’intention de hausser les prix d’un tarif de transport publie la modification au moins trente jours avant la date de sa prise d’effet.
 
 **Prise d’effet des tarifs**
 
-- **(2)** Une fois le tarif établi et publié conformément à la présente section et à la section VI :
+- **(2)** Une fois le tarif établi et publié conformément à la présente section et à la section VI :
 	- **a)** les prix mentionnés sont les prix licites de la compagnie et, sous réserve du paragraphe (1), prennent effet à la date indiquée dans le tarif;
 	- **b)** le tarif remplace tout ou partie des tarifs antérieurs dans la mesure où il comporte une modification du prix;
 	- **c)** chaque compagnie propriétaire ou exploitante d’une ligne de chemin de fer visée par le tarif doit exiger les prix mentionnés jusqu’à la cessation d’effet de ceux-ci, ou jusqu’au remplacement du tarif, au titre de la présente loi.
+> 1996, ch. 10, art. 119; 2008, ch. 5, art. 2.
+
 
 
 
@@ -2686,6 +2680,45 @@ Ces directives sont, par dérogation aux autres dispositions de la présente par
 **Application aux navires**
 
 **120** Les dispositions de la présente section, relativement aux tarifs, en tant que l’Office juge qu’elles peuvent s’appliquer, s’appliquent au transport effectué par une compagnie de chemin de fer par eau entre des endroits ou des ports du Canada, si elle possède, affrète, emploie, entretient ou met en service des navires, ou est partie à quelque arrangement pour employer, entretenir ou mettre en service des navires à ces fins.
+
+
+
+
+**Frais ou conditions déraisonnables**
+
+**120.1** 
+
+- **(1)** Sur dépôt d’une plainte de tout expéditeur assujetti à un tarif applicable à plus d’un expéditeur — autre qu’un tarif visé au paragraphe 165(3) — prévoyant des frais relatifs au transport ou aux services connexes ou des conditions afférentes, l’Office peut, s’il les estime déraisonnables, fixer de nouveaux frais ou de nouvelles conditions par ordonnance.
+
+**Validité**
+
+- **(2)** L’ordonnance précise la période de validité de ces frais ou conditions, qui ne peut excéder un an.
+
+**Facteurs à prendre en compte**
+
+- **(3)** Pour décider si les frais ou conditions sont déraisonnables, l’Office tient compte des facteurs suivants :
+	- **a)** le but dans lequel les frais ou conditions sont imposés;
+	- **b)** les pratiques suivies par l’industrie pour leur fixation;
+	- **c)** dans le cas d’une plainte relative à des services connexes, l’existence d’une solution de rechange efficace, bien adaptée et concurrentielle;
+	- **d)** tout autre facteur que l’Office estime pertinent.
+
+**Obligations**
+
+- **(4)** Les frais ou conditions fixés par l’Office doivent être commercialement équitables et raisonnables tant pour les expéditeurs qui y sont assujettis que pour la compagnie de chemin de fer qui a établi le tarif les prévoyant.
+
+**Modification du tarif**
+
+- **(5)** La compagnie de chemin de fer modifie le tarif en conséquence dès le prononcé de l’ordonnance par l’Office.
+
+**Pas de modification**
+
+- **(6)** La compagnie de chemin de fer ne peut modifier son tarif à l’égard des frais et conditions fixés par l’Office avant l’expiration de la période de validité précisée au titre du paragraphe (2).
+
+**Précision**
+
+- **(7)** Il est entendu que le présent article ne s’applique pas aux prix relatifs au transport.
+> 2008, ch. 5, art. 3.
+
 
 
 
@@ -3056,7 +3089,7 @@ où
 
 
 **SECTION V** 
-### TRANSFERTS ET CESSATION DE L’EXPLOITATION DE LIGNES
+### Transferts et cessation de l’exploitation de lignes
 
 
 
@@ -3257,10 +3290,40 @@ où
 
 
 
+**Obligation découlant du retour**
+
+**146.01** 
+
+- **(1)** Si, au titre de la convention de transfert résultant notamment du processus établi en vertu des articles 143 à 145, la ligne de chemin de fer ou les droits d’exploitation d’une telle ligne font retour à la compagnie qui les avait transférés, celle-ci doit, dans les soixante jours suivant le retour, reprendre l’exploitation de la ligne ou se conformer au processus établi en vertu de ces articles.
+
+**Absence d’obligation**
+
+- **(2)** Le cas échéant, la compagnie de chemin de fer qui choisit de suivre le processus établi en vertu des articles 143 à 145 n’est pas assujettie au paragraphe 142(2) à l’égard de la ligne ou des droits d’exploitation et elle n’a pas d’obligation en vertu de la présente loi relativement à l’exploitation de la ligne de chemin de fer.
+> 2008, ch. 5, art. 4.
+
+
+
+
+
+**Exception**
+
+**146.02** Malgré l’article 146.01, si une ligne de chemin de fer ou les droits d’exploitation d’une ligne font retour à la compagnie de chemin de fer visée à cet article, les droits et obligations découlant, avant le retour, de tout accord auquel sont parties le propriétaire de la ligne ou le détenteur des droits d’exploitation et une société de transport publique, au sens de l’article 87, relativement à l’exploitation d’un service de passagers sur la ligne sont, sauf avis contraire donné par la société avant le retour, dévolus dès le retour à la compagnie de chemin de fer qui est alors tenue de reprendre l’exploitation de la ligne.
+> 2008, ch. 5, art. 8.
+
+
+
+
+
 **Indemnisation**
 
-**146.1** La compagnie de chemin de fer qui cesse d’exploiter un embranchement tributaire du transport du grain mentionné à l’annexe I, ou une partie d’un tel embranchement, passant dans une municipalité fait à celle-ci trois versements annuels à compter de la date où elle avise l’Office en application du paragraphe 146(1). Chaque versement est égal au produit de 10 000 $ et du nombre de milles de l’embranchement ou de la partie d’embranchement situés dans le territoire de la municipalité.
-> 2000, ch. 16, art. 8; 2007, ch. 19, art. 41(F).
+**146.1** 
+
+- **(1)** La compagnie de chemin de fer qui cesse d’exploiter un embranchement tributaire du transport du grain mentionné à l’annexe I, ou une partie d’un tel embranchement, passant dans une municipalité fait à celle-ci trois versements annuels à compter de la date où elle avise l’Office en application du paragraphe 146(1). Chaque versement est égal au produit de 10 000 $ et du nombre de milles de l’embranchement ou de la partie d’embranchement situés dans le territoire de la municipalité.
+
+**Indemnisation**
+
+- **(2)** Si la compagnie à laquelle s’applique le paragraphe 146.01(1) ne reprend pas l’exploitation d’un embranchement tributaire du transport du grain mentionné à l’annexe I dans le délai prévu à ce paragraphe et qu’aucune convention de transfert n’est conclue au titre du processus établi en vertu des articles 143 à 145, la compagnie effectue les versements annuels prévus au paragraphe (1) à compter du lendemain du dernier jour où l’offre aurait pu être acceptée au titre de l’article 145.
+> 2000, ch. 16, art. 8; 2007, ch. 19, art. 41(F); 2008, ch. 5, art. 5.
 
 
 
@@ -3361,7 +3424,7 @@ Cette offre leur est faite simultanément.
 
 
 **SECTION VI** 
-### TRANSPORT DU GRAIN DE L’OUEST
+### Transport du grain de l’Ouest
 
 
 
@@ -3522,6 +3585,29 @@ où
 
 
 
+#### Liste des voies d’évitement
+
+
+
+**Liste des voies d’évitement disponibles**
+
+**151.1** 
+
+- **(1)** La compagnie de chemin de fer régie est tenue d’établir et de tenir à jour la liste de ses voies d’évitement situées dans la région de l’Ouest où peuvent être chargés des wagons affectés par la Commission canadienne des grains au titre du paragraphe 87(2) de la [Loi sur les grains du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/G/G-10.md).
+
+**Publication de la liste**
+
+- **(2)** Elle publie sa liste sur son site Internet.
+
+**Suppression de la liste**
+
+- **(3)** Elle ne peut supprimer une voie d’évitement de la liste qu’à l’expiration d’un délai de soixante jours suivant la publication d’un avis à cet effet dans un journal à grande diffusion dans la région concernée.
+> 2008, ch. 5, art. 6.
+
+
+
+
+
 #### Règlements
 
 
@@ -3621,7 +3707,7 @@ où
 
 
 **SECTION VII** 
-### AUTRES DISPOSITIONS
+### Autres dispositions
 
 
 
@@ -3751,7 +3837,9 @@ où
 
 **Compagnies de chemin de fer**
 
-**160** Les articles 161 à 169 s’appliquent également, avec les adaptations nécessaires, aux prix appliqués ou proposés par une compagnie de chemin de fer et aux conditions qu’elle impose pour la fourniture de services à une administration ferroviaire de banlieue désignée par le gouvernement d’une province ou à une compagnie de chemin de fer se livrant au transport de passagers.
+**160** Les articles 161 à 169 s’appliquent également, avec les adaptations nécessaires, aux prix appliqués ou proposés par une compagnie de chemin de fer et aux conditions qu’elle impose pour la fourniture de services à une autre compagnie de chemin de fer se livrant au transport de passagers qui n’est pas une société de transport publique au sens de l’article 87.
+> 1996, ch. 10, art. 160; 2008, ch. 5, art. 8.
+
 
 
 
@@ -3976,6 +4064,104 @@ où
 
 - **(3)** L’Office fait porter la liste d’arbitres à la connaissance des représentants des expéditeurs et des transporteurs dans tout le pays.
 > 1996, ch. 10, art. 169; 2000, ch. 16, art. 17..
+
+
+
+
+
+**Médiation**
+
+**169.1** 
+
+- **(1)** Les parties à un arbitrage peuvent d’un commun accord faire appel à un médiateur, notamment l’Office, pour que celui-ci règle la question qui lui est soumise pour arbitrage au titre de l’article 161.
+
+**Liste**
+
+- **(2)** L’Office peut établir une liste de personnes, choisies ou non parmi ses membres ou son personnel, pour agir comme médiateur dans les cas où il est retenu à ce titre aux termes du paragraphe (1).
+
+**Caractère confidentiel**
+
+- **(3)** Sauf accord entre les parties à l’effet contraire, tout ce qui se rapporte à la médiation du différend est confidentiel et les renseignements fournis par une partie dans le cadre de la médiation ne peuvent servir à d’autres fins à moins qu’elle n’y consente.
+
+**Délai**
+
+- **(4)** Sauf accord entre les parties à l’effet contraire, la médiation doit se terminer dans les trente jours suivant le renvoi de la question au médiateur.
+
+**Effets de la médiation**
+
+- **(5)** La médiation a pour effet :
+	- **a)** de suspendre, jusqu’à ce qu’elle prenne fin, la procédure d’arbitrage;
+	- **b)** de prolonger, d’une période égale à sa durée initiale, le délai dont dispose l’arbitre pour rendre sa décision.
+
+**Impossibilité d’agir**
+
+- **(6)** La personne qui agit à titre de médiateur ne peut agir dans le cadre d’autres procédures à l’égard d’aucune question ayant fait l’objet de la médiation.
+> 2008, ch. 5, art. 7.
+
+
+
+
+
+**Offre conjointe — expéditeurs**
+
+**169.2** 
+
+- **(1)** Dans le cas où plusieurs expéditeurs sont insatisfaits des prix appliqués ou proposés par un transporteur pour le transport de marchandises, ou des conditions imposées à l’égard de ce transport, et que les expéditeurs et le transporteur ne sont pas en mesure de régler eux-mêmes la question, ils peuvent la soumettre conjointement à l’Office pour arbitrage, auquel cas les articles 161 à 169 s’appliquent à eux avec les adaptations nécessaires.
+
+**Conditions**
+
+- **(2)** La question soumise conjointement doit être commune à tous les expéditeurs, qui doivent présenter une seule et même offre dont les conditions s’appliquent à tous.
+
+**Arbitrage écarté**
+
+- **(3)** L’Office écarte l’arbitrage prévu au paragraphe (1) lorsque les expéditeurs ne peuvent le convaincre que des efforts ont été déployés pour régler la question par médiation.
+
+**Caractère confidentiel**
+
+- **(4)** Sauf accord entre les parties à l’effet contraire, tout ce qui se rapporte à une médiation du différend est confidentiel et les renseignements fournis par une partie dans le cadre de la médiation ne peuvent servir à d’autres fins à moins qu’elle n’y consente.
+
+**Impossibilité d’agir**
+
+- **(5)** La personne qui agit à titre de médiateur ne peut agir dans le cadre d’autres procédures à l’égard d’aucune question ayant fait l’objet de la médiation.
+
+**Question soumise par plusieurs expéditeurs**
+
+- **(6)** En cas de soumission conjointe d’une question en vertu du paragraphe (1) :
+	- **a)** le délai est de vingt jours pour l’application du paragraphe 161.1(1);
+	- **b)** l’arbitre peut proroger les délais prévus aux paragraphes 163(3) et (4) et à l’alinéa 164.1a) s’il l’estime indiqué;
+	- **c)** la décision de l’arbitre est, par dérogation à l’alinéa 165(2)b), rendue dans les cent vingt jours suivant la date de réception par l’Office de la demande d’arbitrage ou, dans le cas de la demande entendue conformément à l’article 164.1, dans les quatre-vingt-dix jours suivant cette date, sauf accord entre les parties à l’effet contraire.
+> 2008, ch. 5, art. 7.
+
+
+
+
+
+**Délai — demande préliminaire**
+
+**169.3** 
+
+- **(1)** Malgré les articles 162 et 162.1, toute demande présentée par le transporteur relativement à une question soumise à l’Office pour arbitrage au titre du paragraphe 169.2(1) est présentée à ce dernier au plus tard sept jours après la soumission de cette question à l’arbitrage.
+
+**Signification**
+
+- **(2)** Le transporteur signifie copie de la demande à chacun des expéditeurs qui ont soumis la question à l’arbitrage au plus tard le dernier jour prévu pour la présentation de la demande.
+
+**Réponse des expéditeurs**
+
+- **(3)** Au plus tard cinq jours après la signification au dernier expéditeur au titre du paragraphe (2), les expéditeurs présentent à l’Office une réponse commune et en signifie copie au transporteur.
+
+**Réplique du transporteur**
+
+- **(4)** Au plus tard deux jours après la signification au transporteur au titre du paragraphe (3), celui-ci présente à l’Office sa réplique et en signifie copie à chacun des expéditeurs.
+
+**Décision de l’Office**
+
+- **(5)** L’Office décide de la demande au plus tard le jour où la question doit être soumise à l’arbitrage au titre du paragraphe 162(1).
+
+**Présomption**
+
+- **(6)** Si aucune demande n’est présentée par le transporteur dans le délai prévu au paragraphe (1), les conditions visées au paragraphe 169.2(2) sont réputées remplies.
+> 2008, ch. 5, art. 7.
 
 
 
@@ -4498,7 +4684,7 @@ où
 
 
 
-## Entrée en vigueur
+### Entrée en vigueur
 
 
 
