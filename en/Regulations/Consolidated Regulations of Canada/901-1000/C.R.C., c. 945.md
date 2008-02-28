@@ -12957,7 +12957,31 @@ where
 
 
 **PART LXXV** 
-## [Repealed, SOR/2001-295, s. 7]
+## Prescribed Missions
+
+
+**7500** For the purpose of subclause 110(1)(f)(v)(A)(II) of the Act, the following are prescribed missions:
+- **(a)** Operation Palladium (Bosnia-Herzegovina);
+- **(b)** Operation Halo (Haiti);
+- **(c)** Operation Danaca (Middle East - Golan Heights);
+- **(d)** Operation Calumet (Middle East - Sinai);
+- **(e)** Operation Jade (Middle East - Jerusalem, Damascus and Egypt);
+- **(f)** Operation Iraqi Freedom (Kuwait);
+- **(g)** Operation Solitude (Senegal);
+- **(h)** Operation Altair (Persian Gulf);
+- **(i)** Operation Hamlet (Haiti);
+- **(j)** Operation Structure (Sri Lanka);
+- **(k)** Operation Habitation (Haiti);
+- **(l)** Operation Augural (Sudan - Kartoum);
+- **(m)** Operation Bronze (Bosnia-Herzegovina - North Atlantic Treaty Organization Stabilisation Force);
+- **(n)** Operation Boreas (Bosnia-Herzegovina - European Union Force);
+- **(o)** Operation Safari (Sudan - Kartoum);
+- **(p)** Operation Gladius (Golan Heights);
+- **(q)** Operation Augural (Ethiopia - Addis Ababa); and
+- **(r)** United Nations Mission in the Sudan - Civilian Policing Component (Sudan - Kartoum).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2008-49, s. 1.
+
+
 
 
 
