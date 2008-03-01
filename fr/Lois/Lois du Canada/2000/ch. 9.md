@@ -11,7 +11,7 @@ Sanctionnée sur le 31 mai 2000
 
 
 
-Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
 
 
@@ -139,7 +139,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **(ii)** s’il y a plus d’un juge exerçant une telle juridiction, le doyen,
 	- **(iii)** si aucun juge n’exerce cette juridiction, tout juge désigné à cette fin par le ministre de la Justice.
 
-***liste électorale*** Liste dressée pour une section de vote et indiquant les nom, prénoms et adresses municipale et postale de chaque électeur.
+***liste électorale*** Liste dressée pour une section de vote et indiquant les nom, prénoms et adresses municipale et postale de chaque électeur ainsi que l’identificateur attribué à l’électeur par le directeur général des élections. 
 
 ***liste électorale officielle*** Liste électorale dressée par le directeur du scrutin au titre de l’article 106.
 
@@ -976,10 +976,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** Le Registre des électeurs contient les nom, prénoms, sexe, date de naissance et adresses municipale et postale de chaque électeur inscrit et tous autres renseignements fournis dans le cadre des paragraphes 49(2), 194(7), 195(7), 223(2), 233(2) et 251(3).
 
+**Identificateur**
+
+- **(2.1)** Le Registre des électeurs contient également l’identificateur unique, généré de façon aléatoire, que le directeur général des élections attribue à chaque électeur.
+
 **Inscription facultative**
 
 - **(3)** L’inscription au Registre des électeurs est facultative.
-> 2000, ch. 9, art. 44; 2001, ch. 21, art. 4.
+> 2000, ch. 9, art. 44; 2001, ch. 21, art. 4; 2007, ch. 21, art. 4.
 
 
 
@@ -989,19 +993,21 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **45** 
 
-- **(1)** Au plus tard le 15 octobre de chaque année, le directeur général des élections envoie au député de chaque circonscription et, sur demande, à chaque parti enregistré y ayant soutenu un candidat lors de la dernière élection, une copie sous forme électronique — tirée du Registre des électeurs — des listes électorales de la circonscription.
+- **(1)** Au plus tard le 15 novembre de chaque année, le directeur général des élections envoie au député de chaque circonscription et, sur demande, à chaque parti enregistré y ayant soutenu un candidat lors de la dernière élection, une copie sous forme électronique — tirée du Registre des électeurs — des listes électorales de la circonscription.
 
 **Teneur des listes**
 
-- **(2)** Ces listes comportent, pour chaque électeur, ses nom, prénoms et adresses municipale et postale et se présentent en la forme établie par le directeur général des élections selon l’adresse municipale ou, si cela ne convient pas, selon l’ordre alphabétique des noms.
+- **(2)** Ces listes comportent, pour chaque électeur, ses nom, prénoms, adresses municipale et postale, ainsi que l’identificateur qui lui a été attribué par le directeur général des élections et sont dressées en la forme établie par le directeur général des élections selon l’ordre des adresses municipales ou, si cela ne convient pas, selon l’ordre alphabétique des noms.
 
 **Exception**
 
-- **(3)** Le présent article ne s’applique pas lorsque la date visée au paragraphe (1) tombe pendant la période électorale ou lorsque le scrutin d’une élection générale a été tenu dans les trois mois précédant cette date.
+- **(3)** Le présent article ne s’applique pas lorsque la date visée au paragraphe (1) tombe pendant la période électorale ou lorsque le scrutin d’une élection générale a été tenu dans les six mois précédant cette date.
 
 **Cas de fusion de partis**
 
 - **(4)** Pour l’application du paragraphe (1), le parti enregistré issu d’une fusion est réputé avoir soutenu un candidat lors de l’élection précédente si un des partis enregistrés fusionnant avait soutenu un candidat lors de cette élection.
+> 2000, ch. 9, art. 45; 2007, ch. 21, art. 5.
+
 
 
 
@@ -1178,7 +1184,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **56** Il est interdit à quiconque :
 - **a)** de faire sciemment, oralement ou par écrit, une déclaration fausse ou trompeuse relativement à sa qualité d’électeur ou au sujet des autres renseignements visés à l’article 49;
-- **b)** de faire sciemment, oralement ou par écrit, une déclaration fausse ou trompeuse relativement à la qualité d’électeur, au nom, aux prénoms, au sexe ou aux adresses municipale ou postale d’une autre personne en vue de la faire radier du Registre des électeurs;
+- **b)** de faire sciemment, oralement ou par écrit, une déclaration fausse ou trompeuse relativement à la qualité d’électeur, aux nom, prénoms, sexe ou adresses municipale ou postale d’une autre personne, ou encore à l’identificateur qui lui a été attribué par le directeur général des élections en vue de la faire radier du Registre des électeurs;
 - **c)** de demander que soit inscrit au Registre des électeurs le nom d’une personne sachant que celle-ci n’a pas qualité d’électeur;
 - **d)** de demander volontairement que soit inscrit au Registre des électeurs le nom d’une chose ou d’un animal;
 - **e)** d’utiliser sciemment un renseignement personnel tiré du Registre des électeurs sauf :
@@ -1980,13 +1986,19 @@ Cependant, la présente définition ne vise pas les contributions versées à l�
 
 - **(1)** Dans les meilleurs délais après la délivrance du bref, le directeur général des élections dresse la liste électorale préliminaire de chaque section de vote de la circonscription et la fait parvenir au directeur du scrutin de celle-ci avec tous les autres renseignements figurant au Registre des électeurs qui concernent les électeurs de cette circonscription.
 
+**Distribution des listes préliminaires**
+
+- **(1.1)** Le directeur général des élections fait parvenir à chaque parti enregistré ou admissible qui lui en fait la demande une copie, sous forme électronique, des listes électorales préliminaires pour la circonscription à l’égard de laquelle un bref a été délivré.
+
 **Présentation des noms sur la liste**
 
-- **(2)** La liste électorale préliminaire ne contient que les nom, prénoms et adresses des électeurs et est dressée selon l’ordre des adresses municipales ou, si cet ordre ne convient pas, selon l’ordre alphabétique des noms.
+- **(2)** La liste électorale préliminaire ne contient que les nom et adresse des électeurs ainsi que l’identificateur attribué à chacun d’eux par le directeur général des élections et est dressée selon l’ordre des adresses municipales ou, si cet ordre ne convient pas, selon l’ordre alphabétique des noms.
 
 **Publication des listes préliminaires**
 
 - **(3)** Le directeur général des élections doit, au plus tard le trente et unième jour précédant le jour du scrutin, établir le nombre de noms figurant sur toutes les listes préliminaires des électeurs dans chaque circonscription et faire publier ce renseignement dans la Gazette du Canada.
+> 2000, ch. 9, art. 93; 2007, ch. 21, art. 13.
+
 
 
 
@@ -2207,6 +2219,19 @@ Cependant, la présente définition ne vise pas les contributions versées à l�
 
 
 
+### Listes électorales préliminaires à jour
+
+
+
+**Transmission des listes**
+
+**104.1** Le dix-neuvième jour précédant le jour du scrutin, le directeur du scrutin communique à chaque candidat de la circonscription qui en fait la demande une copie, sous forme électronique, des listes électorales préliminaires à jour pour sa circonscription.
+> 2007, ch. 21, art. 17.
+
+
+
+
+
 ### Listes électorales révisées et listes électorales officielles
 
 
@@ -2239,15 +2264,17 @@ Cependant, la présente définition ne vise pas les contributions versées à l�
 
 **Transmission des listes**
 
-- **(2)** Le directeur du scrutin remet aux scrutateurs la liste électorale révisée ou la liste électorale officielle, selon le cas, dont ils ont besoin pour les opérations dans leur bureau de vote par anticipation ou bureau de scrutin, avec la mention du sexe de chaque électeur y figurant.
+- **(2)** Le directeur du scrutin remet aux scrutateurs la liste électorale révisée ou la liste électorale officielle, selon le cas, dont ils ont besoin pour les opérations dans leur bureau de vote par anticipation ou bureau de scrutin, avec la mention du sexe et de la date de naissance de chaque électeur y figurant.
 
 **Copies aux candidats**
 
-- **(3)** Le directeur du scrutin remet aussi deux copies des listes électorales révisées et des listes électorales officielles, dont une sous forme électronique, à chacun des candidats.
+- **(3)** Le directeur du scrutin remet aussi à chacun des candidats deux copies, dont une sous forme électronique, des listes électorales révisées et des listes électorales officielles sur lesquelles le sexe et la date de naissance des électeurs sont omis.
 
 **Copies supplémentaires**
 
 - **(4)** À la demande d’un candidat, le directeur du scrutin lui remet jusqu’à quatre copies imprimées supplémentaires des listes.
+> 2000, ch. 9, art. 107; 2007, ch. 21, art. 18.
+
 
 
 
@@ -2310,7 +2337,9 @@ Cependant, la présente définition ne vise pas les contributions versées à l�
 
 **Candidats**
 
-- **(3)** Les candidats qui, au titre de l’article 94 ou du paragraphe 107(3), reçoivent copie de listes électorales préliminaires, révisées ou officielles peuvent les utiliser, en période électorale, pour communiquer avec leurs électeurs, notamment pour demander des contributions et faire campagne.
+- **(3)** Les candidats qui, au titre des articles 94 ou 104.1 ou du paragraphe 107(3), reçoivent copie de listes électorales préliminaires, révisées ou officielles peuvent les utiliser, en période électorale, pour communiquer avec leurs électeurs, notamment pour demander des contributions et faire campagne.
+> 2000, ch. 9, art. 110; 2007, ch. 21, art. 19.
+
 
 
 
@@ -3638,7 +3667,7 @@ Cependant, la présente définition ne vise pas les contributions versées à l�
 
 
 **SECTION 1** 
-### ADMINISTRATION ET FORMALITÉS PRÉLIMINAIRES
+### Administration et formalités préliminaires
 
 
 
@@ -3744,7 +3773,7 @@ Cependant, la présente définition ne vise pas les contributions versées à l�
 
 
 **SECTION 2** 
-### ÉLECTEURS DES FORCES CANADIENNES
+### Électeurs des Forces canadiennes
 
 
 
@@ -4204,7 +4233,7 @@ Cependant, la présente définition ne vise pas les contributions versées à l�
 
 
 **SECTION 3** 
-### ÉLECTEURS RÉSIDANT TEMPORAIREMENT À L’ÉTRANGER
+### Électeurs résidant temporairement à l’étranger
 
 
 
@@ -4343,7 +4372,7 @@ Cependant, la présente définition ne vise pas les contributions versées à l�
 
 
 **SECTION 4** 
-### ÉLECTEURS RÉSIDANT AU CANADA
+### Électeurs résidant au Canada
 
 
 
@@ -4503,7 +4532,7 @@ Cependant, la présente définition ne vise pas les contributions versées à l�
 
 
 **SECTION 5** 
-### ÉLECTEURS INCARCÉRÉS
+### Électeurs incarcérés
 
 
 
@@ -4748,7 +4777,7 @@ Cependant, la présente définition ne vise pas les contributions versées à l�
 
 
 **SECTION 6** 
-### DÉPOUILLEMENT DU SCRUTIN AU BUREAU DU DIRECTEUR GÉNÉRAL DES ÉLECTIONS
+### Dépouillement du scrutin au bureau du directeur général des élections
 
 
 
@@ -4887,7 +4916,7 @@ Cependant, la présente définition ne vise pas les contributions versées à l�
 
 
 **SECTION 7** 
-### DÉPOUILLEMENT DU SCRUTIN AU BUREAU DU DIRECTEUR DU SCRUTIN
+### Dépouillement du scrutin au bureau du directeur du scrutin
 
 
 
@@ -5012,7 +5041,7 @@ Cependant, la présente définition ne vise pas les contributions versées à l�
 
 
 **SECTION 8** 
-### COMMUNICATION DES RÉSULTATS DU VOTE
+### Communication des résultats du vote
 
 
 
@@ -5030,7 +5059,7 @@ Cependant, la présente définition ne vise pas les contributions versées à l�
 
 
 **SECTION 9** 
-### INTERDICTIONS
+### Interdictions
 
 
 
@@ -6527,7 +6556,7 @@ La notification avise en outre les partis admissibles qu’ils disposent des tre
 
 
 **SECTION 1** 
-### ENREGISTREMENT DES PARTIS POLITIQUES
+### Enregistrement des partis politiques
 
 
 
@@ -7960,7 +7989,7 @@ La demande est notifiée au directeur général des élections.
 
 
 **SECTION 2** 
-### DISPOSITIONS FINANCIÈRES GÉNÉRALES
+### Dispositions financières générales
 
 
 
@@ -8409,7 +8438,7 @@ Le produit de la multiplication est arrondi au multiple de cent le plus proche.
 
 
 **SECTION 3** 
-### FINANCEMENT DES PARTIS ENREGISTRÉS
+### Financement des partis enregistrés
 
 
 
@@ -9705,7 +9734,7 @@ La demande est notifiée au directeur général des élections.
 
 
 **SECTION 4** 
-### GESTION FINANCIÈRE DES CANDIDATS
+### Gestion financière des candidats
 
 
 
@@ -9868,7 +9897,7 @@ La demande est notifiée au directeur général des élections.
 
 **442** 
 
-- **(1)** Le 15 octobre, comme si une élection avait lieu à cette date, le directeur général des élections actualise le plafond des dépenses électorales prévu à l’article 440 pour chaque circonscription à l’aide de la liste électorale — tirée du Registre des électeurs — établie pour cette circonscription.
+- **(1)** Le 15 novembre de chaque année, comme si une élection avait lieu à cette date, le directeur général des élections actualise le plafond des dépenses électorales prévu à l’article 440 pour chaque circonscription à l’aide de la liste électorale tirée du Registre des électeurs qui est établie pour cette circonscription.
 
 **Accès au plafond actualisé**
 
@@ -9879,6 +9908,12 @@ La demande est notifiée au directeur général des élections.
 **Estimation du plafond**
 
 - **(3)** Il représente une estimation du montant des dépenses électorales pouvant être engagées dans la circonscription qui est susceptible d’être modifiée à la hausse ou à la baisse dans le cadre d’une période électorale.
+
+**Exception**
+
+- **(4)** Le présent article ne s’applique pas lorsque la date visée au paragraphe (1) tombe pendant la période électorale ou lorsque le scrutin d’une élection générale a été tenu dans les six mois précédant cette date.
+> 2000, ch. 9, art. 442; 2007, ch. 21, art. 34.
+
 
 
 
