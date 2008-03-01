@@ -121,7 +121,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***leadership contestant*** means a person who has been registered in the registry of leadership contestants referred to in section 435.07 and who, or whose financial agent, has not yet complied with sections 435.3 to 435.47 in respect of that leadership contest.
 
-***list of electors*** means the list showing the surname, given names, civic address and mailing address of every elector in a polling division.
+***list of electors*** means the list showing the surname, given names, civic address and mailing address of every elector in a polling division and the identifier that is assigned to the elector by the Chief Electoral Officer. 
 
 ***member*** means a member of the House of Commons.
 
@@ -982,10 +982,14 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(2)** The Register of Electors shall contain, for each elector who is included in it, his or her surname, given names, sex, date of birth, civic address, mailing address and any other information that is provided under subsections 49(2), 194(7), 195(7), 223(2), 233(2) and 251(3).
 
+**Identifier**
+
+- **(2.1)** The Register of Electors must also contain, for each elector, a unique, randomly generated identifier that is assigned by the Chief Electoral Officer.
+
 **Inclusion optional**
 
 - **(3)** Inclusion in the Register of Electors is at the option of the elector.
-> 2000, c. 9, s. 44; 2001, c. 21, s. 4.
+> 2000, c. 9, s. 44; 2001, c. 21, s. 4; 2007, c. 21, s. 4.
 
 
 
@@ -995,19 +999,21 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **45** 
 
-- **(1)** By October 15 in each year, the Chief Electoral Officer shall send to the member for each electoral district and, on request, to each registered party that endorsed a candidate in the electoral district in the last election, a copy in electronic form — taken from the Register of Electors — of the lists of electors for the electoral district.
+- **(1)** By November 15 in each year, the Chief Electoral Officer shall send to the member for each electoral district and, on request, to each registered party that endorsed a candidate in the electoral district in the last election, a copy in electronic form — taken from the Register of Electors — of the lists of electors for the electoral district.
 
 **Contents of lists of electors**
 
-- **(2)** The lists of electors shall set out each elector’s surname, given names, civic address and mailing address, and shall be arranged in the form established by the Chief Electoral Officer according to the civic addresses of the electors or, if that is not appropriate, in alphabetical order by their surnames.
+- **(2)** The lists of electors shall set out each elector’s surname, given names, civic address and mailing address, and the identifier that is assigned to the elector by the Chief Electoral Officer and shall be arranged in the form established by the Chief Electoral Officer according to the civic addresses of the electors or, if that is not appropriate, in alphabetical order by their surnames.
 
 **Exception**
 
-- **(3)** This section does not apply if October 15 falls during an election period or if the vote at a general election was held during the three months before that date.
+- **(3)** This section does not apply if November 15 falls during an election period or if the vote at a general election was held during the six months before that date.
 
 **Merger of parties**
 
 - **(4)** For the purpose of subsection (1), a registered party that is the result of a merger of two or more registered parties is deemed to have endorsed a candidate in the last election if one of the merging parties so endorsed a candidate.
+> 2000, c. 9, s. 45; 2007, c. 21, s. 5.
+
 
 
 
@@ -1189,7 +1195,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **56** No person shall
 - **(a)** knowingly make a false or misleading statement, orally or in writing, relating to their qualification as an elector or relating to any other information referred to in section 49;
-- **(b)** knowingly make a false or misleading statement, orally or in writing, relating to another person’s qualification as an elector, surname, given names, sex, civic address or mailing address for the purpose of having that person’s name deleted from the Register of Electors;
+- **(b)** knowingly make a false or misleading statement, orally or in writing, relating to another person’s qualification as an elector, to the surname, given names, sex, civic address or mailing address of that person, or to the identifier assigned to that person by the Chief Electoral Officer, for the purpose of having that person’s name deleted from the Register of Electors;
 - **(c)** request the listing in the Register of Electors of the name of a person who is not qualified as an elector, knowing that the person is not so qualified;
 - **(d)** wilfully apply to have included in the Register of Electors the name of an animal or thing;
 - **(e)** knowingly use personal information that is obtained from the Register of Electors except as follows:
@@ -1993,13 +1999,19 @@ It does not include a contribution made by an eligible individual under Part 18 
 
 - **(1)** As soon as possible after the issue of a writ, the Chief Electoral Officer shall prepare a preliminary list of electors for each polling division in an electoral district, and shall send it to the returning officer for the electoral district along with all the other information in the Register of Electors that relates to the electors of that electoral district.
 
+**Distribution of preliminary lists**
+
+- **(1.1)** The Chief Electoral Officer shall distribute, to each registered party or eligible party that requests it, one copy in electronic form of the preliminary lists of electors for an electoral district in respect of which a writ has been issued.
+
 **Form of preliminary list of electors**
 
-- **(2)** A preliminary list of electors shall contain only the names and addresses of electors in the electoral district, and shall be arranged according to the civic addresses of the electors or, if that is not appropriate, in alphabetical order by their names.
+- **(2)** A preliminary list of electors shall contain only the name and address of each elector in the electoral district and the identifier that is assigned to the elector by the Chief Electoral Officer and shall be arranged according to the civic addresses of the electors or, if that is not appropriate, in alphabetical order by their names.
 
 **Publication of preliminary lists**
 
 - **(3)** The Chief Electoral Officer shall, not later than the 31st day before polling day, determine the number of names appearing on the preliminary lists of electors for each electoral district and cause that information to be published in the Canada Gazette.
+> 2000, c. 9, s. 93; 2007, c. 21, s. 13.
+
 
 
 
@@ -2220,6 +2232,19 @@ It does not include a contribution made by an eligible individual under Part 18 
 
 
 
+### Updated Preliminary Lists of Electors
+
+
+
+**Distribution of lists**
+
+**104.1** Each returning officer shall, on the 19th day before polling day, distribute to each candidate in the electoral district who requests it, one copy in electronic form of the most current preliminary lists of electors for that electoral district.
+> 2007, c. 21, s. 17.
+
+
+
+
+
 ### Revised Lists of Electors and Official Lists of Electors
 
 
@@ -2250,17 +2275,19 @@ It does not include a contribution made by an eligible individual under Part 18 
 
 - **(1)** The revised list of electors and official list of electors for each polling division shall be in the form established by the Chief Electoral Officer.
 
-**Transmittal of lists**
+**Transmittal of list**
 
-- **(2)** Each returning officer shall deliver to the deputy returning officers the revised lists of electors or official lists of electors, as the case may be, that the deputy returning officers need to conduct the vote in their respective advance polling stations or polling stations. The lists shall indicate the sex of each elector.
+- **(2)** Each returning officer shall deliver to each deputy returning officer the revised list of electors or official list of electors, as the case may be, that the deputy returning officer needs to conduct the vote in his or her respective advance polling station or polling station. The list shall indicate each elector’s sex and date of birth.
 
-**Copies to candidates**
+**Transmittal to candidates**
 
-- **(3)** Each returning officer shall deliver to each candidate a printed copy and a copy in electronic form of the revised lists of electors and the official lists of electors.
+- **(3)** Each returning officer shall deliver to each candidate a printed copy and a copy in electronic form of a version of the revised lists of electors and the official lists of electors that does not indicate an elector’s sex or date of birth.
 
 **Extra copies**
 
 - **(4)** On the request of a candidate, the returning officer may provide a maximum of four additional printed copies of the revised lists of electors and the official lists of electors.
+> 2000, c. 9, s. 107; 2007, c. 21, s. 18.
+
 
 
 
@@ -2323,7 +2350,9 @@ It does not include a contribution made by an eligible individual under Part 18 
 
 **Candidates**
 
-- **(3)** A candidate who receives a copy of preliminary lists of electors under section 94, or a copy of revised lists of electors or official lists of electors under subsection 107(3), may use the lists for communicating with his or her electors during an election period, including using them for soliciting contributions and campaigning.
+- **(3)** A candidate who receives a copy of the preliminary lists of electors under section 94 or 104.1, or a copy of the revised lists of electors or the official lists of electors under subsection 107(3), may use the lists for communicating with his or her electors during an election period, including using them for soliciting contributions and campaigning.
+> 2000, c. 9, s. 110; 2007, c. 21, s. 19.
+
 
 
 
@@ -3653,7 +3682,7 @@ It does not include a contribution made by an eligible individual under Part 18 
 
 
 **DIVISION 1** 
-### ADMINISTRATION AND GENERAL PROCEDURES
+### Administration and General Procedures
 
 
 
@@ -3759,7 +3788,7 @@ It does not include a contribution made by an eligible individual under Part 18 
 
 
 **DIVISION 2** 
-### CANADIAN FORCES ELECTORS
+### Canadian Forces Electors
 
 
 
@@ -4225,7 +4254,7 @@ It does not include a contribution made by an eligible individual under Part 18 
 
 
 **DIVISION 3** 
-### ELECTORS TEMPORARILY RESIDENT OUTSIDE CANADA
+### Electors Temporarily Resident Outside Canada
 
 
 
@@ -4366,7 +4395,7 @@ It does not include a contribution made by an eligible individual under Part 18 
 
 
 **DIVISION 4** 
-### ELECTORS RESIDING IN CANADA
+### Electors Residing in Canada
 
 
 
@@ -4530,7 +4559,7 @@ It does not include a contribution made by an eligible individual under Part 18 
 
 
 **DIVISION 5** 
-### INCARCERATED ELECTORS
+### Incarcerated Electors
 
 
 
@@ -4775,7 +4804,7 @@ It does not include a contribution made by an eligible individual under Part 18 
 
 
 **DIVISION 6** 
-### COUNTING OF VOTES AT THE OFFICE OF THE CHIEF ELECTORAL OFFICER
+### Counting of Votes at the Office of the Chief Electoral Officer
 
 
 
@@ -4914,7 +4943,7 @@ It does not include a contribution made by an eligible individual under Part 18 
 
 
 **DIVISION 7** 
-### COUNTING OF VOTES IN THE OFFICE OF THE RETURNING OFFICER
+### Counting of Votes in the Office of the Returning Officer
 
 
 
@@ -5039,7 +5068,7 @@ It does not include a contribution made by an eligible individual under Part 18 
 
 
 **DIVISION 8** 
-### COMMUNICATION OF THE RESULTS OF THE VOTE
+### Communication of the Results of the Vote
 
 
 
@@ -5057,7 +5086,7 @@ It does not include a contribution made by an eligible individual under Part 18 
 
 
 **DIVISION 9** 
-### PROHIBITIONS
+### Prohibitions
 
 
 
@@ -6563,7 +6592,7 @@ The notice shall advise an eligible party referred to in paragraph (b) that it h
 
 
 **DIVISION 1** 
-### REGISTRATION OF POLITICAL PARTIES
+### Registration of Political Parties
 
 
 
@@ -7998,7 +8027,7 @@ The applicant shall notify the Chief Electoral Officer of the application.
 
 
 **DIVISION 2** 
-### GENERAL FINANCIAL PROVISIONS
+### General Financial Provisions
 
 
 
@@ -8447,7 +8476,7 @@ The resulting amounts shall be rounded to the nearest hundred dollars.
 
 
 **DIVISION 3** 
-### FINANCIAL ADMINISTRATION OF REGISTERED PARTIES
+### Financial Administration of Registered Parties
 
 
 
@@ -9749,7 +9778,7 @@ The applicant shall notify the Chief Electoral Officer that the application has 
 
 
 **DIVISION 4** 
-### FINANCIAL ADMINISTRATION OF CANDIDATES
+### Financial Administration of Candidates
 
 
 
@@ -9912,7 +9941,7 @@ The applicant shall notify the Chief Electoral Officer that the application has 
 
 **442** 
 
-- **(1)** On October 15 in each year, the Chief Electoral Officer shall calculate the maximum amount referred to in section 440 for each electoral district, based on the lists of electors in the Register of Electors, as if an election were then to be held.
+- **(1)** On November 15 in each year, the Chief Electoral Officer shall calculate the maximum amount referred to in section 440 for each electoral district, based on the lists of electors in the Register of Electors, as if an election were then to be held.
 
 **Availability of estimates**
 
@@ -9923,6 +9952,12 @@ The applicant shall notify the Chief Electoral Officer that the application has 
 **Maximum amount not guaranteed**
 
 - **(3)** The maximum amount calculated under subsection (1) is an estimate and, as such, may be increased or decreased for an electoral district in the subsequent election period.
+
+**Exception**
+
+- **(4)** This section does not apply if November 15 falls during an election period or if the vote at a general election was held during the six months before that date.
+> 2000, c. 9, s. 442; 2007, c. 21, s. 34.
+
 
 
 
