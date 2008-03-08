@@ -1636,6 +1636,25 @@ Par dérogation à toute disposition contraire de la présente loi ou des règle
 
 
 
+**Exception — conditions préalables**
+
+**72.1** 
+
+- **(1)** La banque peut permettre à ses filiales d’acquérir ses actions par l’entremise d’une émission de celles-ci en leur faveur si, préalablement à l’acquisition, les conditions prévues par les règlements pour l’application du présent paragraphe sont remplies.
+
+**Conditions ultérieures**
+
+- **(2)** Après l’acquisition d’actions effectivement ou censément autorisée par le paragraphe (1), les conditions prévues par les règlements pour l’application du présent paragraphe doivent être remplies.
+
+**Inobservation des conditions**
+
+- **(3)** Malgré l’article 16 et le paragraphe 66(2), la banque est tenue de se conformer aux obligations réglementaires si, d’une part, l’acquisition était effectivement ou censément autorisée par le paragraphe (1) et, d’autre part, une des conditions prévues par les règlements pour l’application des paragraphes (1) ou (2) n’est pas remplie ou cesse de l’être.
+> 2007, ch. 6, art. 9.
+
+
+
+
+
 **Annulation des actions**
 
 **73** 
@@ -8336,22 +8355,24 @@ où :
 
 
 
-**Avis écrit de la banque**
+**Avis de la banque**
 
 **413.1** 
 
-- **(1)** La banque visée à l’alinéa 413(1)b) doit, avant d’ouvrir un compte de dépôt au Canada et selon les modalités réglementaires, aviser par écrit la personne qui en fait la demande du fait que ses dépôts ne seront pas assurés par la Société d’assurance-dépôts du Canada et lui communiquer toute l’information réglementaire.
+- **(1)** La banque visée aux alinéas 413(1)b) ou c) doit, avant d’ouvrir un compte de dépôt — ou de fournir relativement à un dépôt un produit réglementaire — au Canada et selon les modalités réglementaires :
+	- **a)** aviser par écrit la personne qui en fait la demande du fait que ses dépôts dans le compte ou le dépôt relatif au produit réglementaire ne seront pas assurés par la Société d’assurance-dépôts du Canada ou, dans le cas où la demande est faite par téléphone, l’en aviser oralement;
+	- **b)** lui communiquer toute l’information réglementaire.
 
 **Avis publics**
 
-- **(2)** Elle doit également, afin d’informer le public, afficher, de la façon prévue par règlement, dans ses succursales au Canada, des avis indiquant que les dépôts qu’elle détient ne sont pas assurés par la Société d’assurance-dépôts du Canada et publier, de la même façon, cette information dans sa publicité.
+- **(2)** Elle doit également, afin d’informer le public, afficher, de la façon prévue par règlement, dans ses succursales et dans ses points de service réglementaires au Canada où des dépôts sont acceptés et sur ceux de ses sites Web où des dépôts sont acceptés au Canada, des avis indiquant que les dépôts qu’elle détient ne sont pas assurés par la Société d’assurance-dépôts du Canada et faire paraître la même information dans sa publicité.
 
 **Règlements**
 
 - **(3)** Le gouverneur en conseil peut, par règlement :
 	- **a)** prévoir la façon de donner les avis prévus au paragraphe (1) et préciser les renseignements supplémentaires qu’ils doivent contenir;
 	- **b)** régir les avis prévus au paragraphe (2).
-> 1997, ch. 15, art. 43; 2001, ch. 9, art. 103.
+> 1997, ch. 15, art. 43; 2001, ch. 9, art. 103; 2007, ch. 6, art. 24.
 
 
 
@@ -11231,94 +11252,78 @@ Toutefois, l’entité canadienne n’est pas un tel établissement du simple fa
 
 
 
-**Arrêté de désignation**
+**Application**
 
 **508** 
 
-- **(1)** Sous réserve du paragraphe (2), le ministre peut, par arrêté, déclarer qu’une banque étrangère qui remplit l’une ou l’autre des conditions suivantes a la qualité de banque étrangère désignée pour l’application de la présente partie :
-	- **a)** elle est une banque d’après la législation du territoire sous le régime des lois duquel elle a été constituée ou d’un territoire où elle exerce ses activités;
-	- **b)** elle se livre, directement ou non, à la prestation de services financiers et adopte, pour désigner ou décrire son activité, une dénomination qui comprend l’un des mots « bank », « banque », « banking » ou « bancaire », employé seul ou combiné avec d’autres mots ou un ou plusieurs mots d’une autre langue que le français ou l’anglais, ayant un sens analogue;
-	- **c)** le ministre est d’avis, après consultation du surintendant, qu’elle est réglementée comme une banque ou au même titre qu’une banque sur le territoire sous le régime des lois duquel elle a été constituée ou sur un territoire où elle exerce ses activités;
-	- **d)** sauf si elle est visée aux alinéas a) à c), l’une des conditions suivantes est remplie :
-		- **(i)** sous réserve des règlements, la fraction — exprimée en pourcentage — dont le numérateur correspond à la valeur totale de l’actif des banques étrangères visées à l’un des alinéas a) à c) et qui sont liées à elle et le dénominateur correspond à la valeur totale de son actif et de celui des entités qui sont liées à elle est égale ou supérieure au pourcentage important fixé par règlement,
-		- **(ii)** sous réserve des règlements, la fraction — exprimée en pourcentage — dont le numérateur correspond à la valeur totale des recettes d’exploitation des banques étrangères visées à l’un des alinéas a) à c) et qui sont liées à elle et le dénominateur correspond à la valeur totale de ses recettes d’exploitation et de celles des entités qui sont liées à elle est égale ou supérieure au pourcentage important fixé par règlement.
+- **(1)** La présente partie s’applique aux entités suivantes :
+	- **a)** une banque étrangère qui, selon le cas :
+		- **(i)** est une banque d’après la législation du territoire sous le régime des lois duquel elle a été constituée ou d’un territoire où elle exerce ses activités,
+		- **(ii)** se livre à la prestation de services financiers et adopte, pour désigner ou décrire son activité, une dénomination qui comprend l’un des mots « *bank* », « banque », « *banking* » ou « bancaire », employé seul ou combiné avec d’autres mots, ou un ou plusieurs mots d’une autre langue que le français ou l’anglais ayant un sens analogue,
+		- **(iii)** est réglementée comme une institution de dépôt ou comme une banque sur le territoire sous le régime des lois duquel elle a été constituée ou sur un territoire où elle exerce ses activités;
+	- **b)** une entité qui est liée à une banque étrangère et qui, selon le cas :
+		- **(i)** est membre d’un groupe bancaire important,
+		- **(ii)** est contrôlée par une banque étrangère visée à l’un ou l’autre des sous-alinéas a)(i) à (iii),
+		- **(iii)** est liée à une banque étrangère visée à l’un ou l’autre des sous-alinéas a)(i) à (iii) et cette banque étrangère ou toute entité qu’elle contrôle :
+			- **(A)** exerce des activités commerciales — autres que des activités consistant à détenir ou à gérer des biens immeubles ou à effectuer toutes opérations à leur égard — au Canada,
+			- **(B)** maintient des succursales — autres que des bureaux visés à l’article 522 ou son siège — au Canada,
+			- **(C)** établit, maintient ou achète pour utilisation au Canada des guichets automatiques, des terminaux d’un système décentralisé ou d’autres services automatiques semblables, ou reçoit au Canada des données qui en proviennent, sauf dans les cas prévus aux articles 511 ou 512,
+			- **(D)** acquiert ou détient le contrôle d’une entité canadienne ou un intérêt de groupe financier dans celle-ci,
+			- **(E)** acquiert ou détient une action ou un titre de participation d’une entité canadienne et l’une ou l’autre des conditions suivantes est remplie :
+				- **(I)** une entité liée à la banque étrangère détient le contrôle de l’entité canadienne ou un intérêt de groupe financier dans celle-ci,
+				- **(II)** la banque étrangère, une entité liée à la banque étrangère et une ou plusieurs autres entités liées à la banque étrangère détiendraient, si elles étaient une seule et même personne, le contrôle de l’entité canadienne ou un intérêt de groupe financier dans celle-ci.
 
-**Restrictions**
+**Membre d’un groupe bancaire important**
 
-- **(2)** Le ministre ne peut prendre un arrêté dans le cadre du paragraphe (1) dans le cas d’une banque étrangère visée à l’un des alinéas (1)a) à c) que dans l’un ou l’autre des cas suivants :
-	- **a)** la banque étrangère ou une entité contrôlée par celle-ci se trouve dans l’une ou l’autre des situations suivantes — ou s’y trouvera :
-		- **(i)** elle exerce des activités commerciales — autres que des activités consistant à détenir ou gérer des biens immeubles ou à effectuer toutes opérations à leur égard — au Canada,
-		- **(ii)** elle maintient ou maintiendra des succursales — autres que des bureaux visés à l’article 522 ou que son siège — au Canada,
-		- **(iii)** elle établit, maintient ou achète pour utilisation au Canada des guichets automatiques, des terminaux d’un système décentralisé ou d’autres services automatiques semblables, ou reçoit au Canada des données qui en proviennent, sauf cas prévus aux articles 511 ou 512,
-		- **(iv)** elle détient ou acquiert le contrôle d’une entité canadienne ou un intérêt de groupe financier dans celle-ci;
-		- **(v)** elle acquiert ou détient une action ou un titre de participation d’une entité canadienne et l’une des conditions suivantes est remplie :
-			- **(A)** une entité liée à la banque étrangère détient le contrôle de l’entité canadienne ou un intérêt de groupe financier dans celle-ci,
-				- **(B)** une entité liée à la banque étrangère et une ou plusieurs autres entités liées à la banque étrangère détiendraient, si elles étaient une seule et même personne, le contrôle de l’entité canadienne ou un intérêt de groupe financier dans celle-ci;
-	- **b)** elle est contrôlée par un particulier et :
-		- **(i)** l’une des conditions suivantes est remplie :
-			- **(A)** sous réserve des règlements, la fraction — exprimée en pourcentage — dont le numérateur correspond à la valeur totale de son actif et de celui d’autres banques étrangères visées à l’un des alinéas (1)a) à c) et qui sont liées à elle et le dénominateur correspond à la valeur totale de son actif et de celui des entités qui sont liées à elle est égale ou supérieure au pourcentage important fixé par règlement,
-				- **(B)** sous réserve des règlements, la fraction — exprimée en pourcentage — dont le numérateur correspond à la valeur totale de ses recettes d’exploitation et de celles d’autres banques étrangères visées à l’un des alinéas (1)a) à c) et qui sont liées à elle et le dénominateur correspond à la valeur totale de ses recettes d’exploitation et de celles des entités qui sont liées à elle est égale ou supérieure au pourcentage important fixé par règlement,
-		- **(ii)** une entité liée à elle se trouve — ou se trouvera — dans l’une ou l’autre des situations suivantes :
-			- **(A)** elle exerce des activités commerciales — autres que des activités consistant à détenir ou gérer des biens immeubles ou à effectuer toutes opérations à leur égard — au Canada,
-				- **(B)** elle maintient ou maintiendra des succursales — autres que des bureaux visés à l’article 522 ou que son siège — au Canada,
-				- **(C)** elle établit, maintient ou achète pour utilisation au Canada des guichets automatiques, des terminaux d’un système décentralisé ou d’autres services automatiques semblables, ou reçoit au Canada des données qui en proviennent, sauf cas prévus aux articles 511 ou 512,
-				- **(D)** elle détient ou acquiert le contrôle d’une entité canadienne ou un intérêt de groupe financier dans celle-ci.
+- **(2)** Pour l’application du présent article, une entité est membre d’un groupe bancaire important si un des ratios ci-après, exprimé en pourcentage, est égal ou supérieur au pourcentage réglementaire prévu pour l’application du présent paragraphe :
+```
+A/B ou C/D
+```
+où :
+- **A** représente la somme des actifs totaux des banques étrangères visées à l’un ou l’autre des sous-alinéas (1)a)(i) à (iii) avec lesquelles l’entité est liée, à l’exception des actifs totaux des banques étrangères visées à l’un ou l’autre de ces sous-alinéas dont l’actif est consolidé dans l’actif total de l’une ou l’autre de ces banques étrangères avec laquelle l’entité est liée;
+- **B** représente :
+- **a)** dans le cas où personne ne contrôle l’entité, l’actif total de l’entité,
+- **b)** dans tous les autres cas, la somme des actifs totaux de l’entité et de toutes les entités qui sont du même groupe que l’entité, à l’exception des entités dont l’actif total est consolidé dans l’actif total d’une entité qui est du même groupe que l’entité;
+- **C** représente la somme des recettes d’exploitation totales des banques étrangères visées à l’un ou l’autre des sous-alinéas (1)a)(i) à (iii) avec lesquelles l’entité est liée, à l’exception des recettes d’exploitation totales des banques étrangères visées à l’un ou l’autre de ces sous-alinéas dont les recettes sont consolidées dans les recettes d’exploitation totales de l’une ou l’autre de ces banques étrangères avec laquelle l’entité est liée;
+- **D** représente :
+- **a)** dans le cas où personne ne contrôle l’entité, les recettes d’exploitation totales de l’entité,
+- **b)** dans tous les autres cas, la somme des recettes d’exploitation totales de l’entité et de toutes les entités qui sont du même groupe que l’entité, à l’exception des entités dont les recettes d’exploitation totales sont consolidées dans les recettes d’exploitation totales d’une entité qui est du même groupe que l’entité.
+
+**Exemption du statut de membre d’un groupe bancaire important**
+
+- **(3)** Malgré le paragraphe (2), le ministre peut exempter, sous réserve des modalités qu’il estime appropriées, une entité du statut de membre d’un groupe bancaire important, si ni l’un ni l’autre des ratios n’est supérieur au pourcentage réglementaire prévu pour l’application du présent paragraphe.
 
 **Non-application des paragraphes 507(4) à (7)**
 
-- **(2.1)** Les paragraphes 507(4) à (7) ne s’appliquent pas pour ce qui est de déterminer l’existence du contrôle ou de l’intérêt de groupe financier dans le cadre de l’alinéa (2)a).
+- **(4)** Les paragraphes 507(4) à (7) ne s’appliquent pas pour ce qui est de vérifier l’existence du contrôle ou de l’intérêt de groupe financier pour l’application du sous-alinéa (1)b)(iii).
 
-**Présomption**
+**Définitions**
 
-- **(3)** Est réputée faire l’objet d’un arrêté de désignation la banque étrangère qui faisait l’objet d’un arrêté pris au titre du paragraphe 521(1.06), dans sa version à l’entrée en vigueur du présent paragraphe, et non annulé.
-> 1991, ch. 46, art. 508, ch. 47, art. 756; 1993, ch. 44, art. 29; 1994, ch. 47, art. 26; 1999, ch. 28, art. 28; 2001, ch. 9, art. 132.
+- **(5)** Les définitions qui suivent s’appliquent au présent article.
 
+***actif total*** S’agissant d’une entité, la valeur totale des éléments d’actif :
+- **a)** qui sont déclarés sur une base consolidée dans ses plus récents états financiers établis selon les principes comptables généralement reconnus :
+	- **(i)** soit dans le territoire où l’entité a été formée ou constituée,
+	- **(ii)** soit dans un territoire où elle exerce ses activités,
+	- **(iii)** soit dans un pays ou territoire membre de l’OMC, au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord sur l’Organisation mondiale du commerce](/fr/Lois/Lois%20du%20Canada/1994/ch.%2047.md);
+- **b)** si ses plus récents états financiers n’ont pas été établis de la façon prévue à l’alinéa a), qui auraient été déclarés sur une base consolidée dans ses plus récents états financiers si ceux-ci avaient été établis selon les principes comptables généralement reconnus au Canada. (*total assets*)
 
-
-
-
-**Arrêté d’exemption**
-
-**509** 
-
-- **(1)** Le ministre peut, par arrêté, soustraire une banque étrangère à l’application des dispositions de la présente partie à l’exception du présent article, des articles 507 et 508, du paragraphe 522.25(3), des articles 522.26 et 522.28, du paragraphe 522.29(2) et de l’article 522.3.
-
-**Restrictions**
-
-- **(2)** La banque étrangère désignée et la banque étrangère qui est liée à une banque étrangère désignée ne peuvent faire l’objet d’un arrêté d’exemption.
-
-**Présomption de prise d’arrêté**
-
-- **(3)** L’arrêté d’exemption est réputé avoir été pris à l’entrée en vigueur du présent paragraphe à l’égard d’une banque étrangère qui, avant cette entrée en vigueur, avait obtenu le consentement donné en vertu du paragraphe 521(1), si le consentement n’avait pas été annulé et si elle-même ou une entité liée à elle ne faisait pas l’objet d’un arrêté au titre du paragraphe 521(1.06), dans la version de ces paragraphes à l’entrée en vigueur du présent paragraphe.
-
-**Obligation d’aviser le ministre**
-
-- **(4)** La banque étrangère qui fait l’objet d’un arrêté d’exemption est tenue d’aviser par écrit le ministre de toute circonstance nouvelle qui peut toucher son admissibilité à l’arrêté de désignation.
-
-**Annulation de l’arrêté**
-
-- **(5)** L’arrêté d’exemption est réputé annulé si la banque étrangère ou une autre banque étrangère qui est une entité liée à elle est une banque étrangère désignée; le ministre peut annuler l’arrêté si la banque étrangère ou une autre banque étrangère qui est une entité liée à elle remplit les conditions visées à l’article 508.
-
-**Effet sur les entités liées**
-
-- **(6)** Les dispositions de la présente partie, à l’exception du présent article, des articles 507 et 508, du paragraphe 522.25(3), des articles 522.26 et 522.28, du paragraphe 522.29(2) et de l’article 522.3, ne s’appliquent pas à l’entité liée à une banque étrangère qui fait l’objet d’un arrêté d’exemption.
-
-**Autorisation**
-
-- **(7)** Dans le cas où l’arrêté d’exemption est annulé ou réputé l’être au titre du paragraphe (5), le ministre peut, par arrêté, autoriser la banque étrangère qui en faisait l’objet et toute entité liée à celle-ci à continuer de contrôler une entité canadienne ou à continuer de détenir un intérêt de groupe financier dans une entité canadienne malgré l’interdiction prévue aux sections 3 ou 4 ou à continuer d’exercer des activités, ou de maintenir une succursale, qu’il leur serait par ailleurs interdit d’exercer, ou de maintenir, aux termes de ces sections.
-> 1991, ch. 46, art. 509; 2001, ch. 9, art. 132.
+***recettes d’exploitation totales*** S’agissant d’une entité, les recettes d’exploitation totales :
+- **a)** qui sont déclarées sur une base consolidée dans ses plus récents états financiers établis selon les principes comptables généralement reconnus :
+	- **(i)** soit dans le territoire où l’entité a été formée ou constituée,
+	- **(ii)** soit dans un territoire où elle exerce ses activités,
+	- **(iii)** soit dans un pays ou territoire membre de l’OMC, au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord sur l’Organisation mondiale du commerce](/fr/Lois/Lois%20du%20Canada/1994/ch.%2047.md);
+- **b)** si ses plus récents états financiers n’ont pas été établis de la façon prévue à l’alinéa a), qui auraient été déclarées sur une base consolidée dans ses plus récents états financiers si ceux-ci avaient été établis selon les principes comptables généralement reconnus au Canada. (*total revenue*)
+> 1991, ch. 46, art. 508, ch. 47, art. 756; 1993, ch. 44, art. 29; 1994, ch. 47, art. 26; 1999, ch. 28, art. 28; 2001, ch. 9, art. 132; 2007, ch. 6, art. 49.
 
 
 
 
+**509** [Abrogé, 2007, ch. 6, art. 49]
 
-**Non-application — institutions fédérales liées**
 
-**509.1** Le paragraphe 510(1) ne s’applique pas :
-- **a)** à une entité visée à l’un des alinéas 468(1)a) à f) et qui est liée à une banque étrangère;
-- **b)** à une entité canadienne qui est contrôlée par une entité visée à l’alinéa a) ou dans laquelle une entité visée à l’alinéa a) a un intérêt de groupe financier.
-> 2001, ch. 9, art. 132.
 
+**509.1** [Abrogé, 2007, ch. 6, art. 49]
 
 
 
@@ -11966,50 +11971,57 @@ Elle doit toutefois prendre les mesures nécessaires pour éliminer le contrôle
 
 
 
-**Banque étrangère désignée**
+#### Agrément relatif aux établissements financiers au Canada
+
+
+
+**Agrément relatif aux établissements financiers : banque étrangère**
 
 **522.21** 
 
-- **(1)** La banque étrangère qui n’a pas d’établissement financier au Canada doit être une banque étrangère désignée ou être liée à une banque étrangère désignée pour :
-	- **a)** acquérir ou détenir le contrôle des entités suivantes ou en être un propriétaire important :
-		- **(i)** une entité visée à l’un ou l’autre des alinéas 468(1)g) à i),
-		- **(ii)** une entité canadienne admissible qui est une entité s’occupant de services financiers,
-		- **(iii)** une entité canadienne qui est une entité s’occupant de services financiers et pour laquelle l’acquisition ou la détention du contrôle ou de l’intérêt qui a fait d’elle un propriétaire important constitue un placement provisoire permis par l’article 522.14;
-	- **b)** faire le commerce des valeurs mobilières au Canada ou y exercer les activités commerciales d’une société coopérative de crédit dans le cadre de l’article 522.18.
+- **(1)** La banque étrangère ne peut, sans avoir obtenu au préalable l’agrément écrit du ministre, avoir un établissement financier au Canada.
 
-**Entité liée à une banque étrangère désignée**
+**Exception**
 
-- **(2)** L’entité liée à une banque étrangère et qui n’a pas d’établissement financier au Canada doit être liée à une banque étrangère désignée pour :
-	- **a)** acquérir ou détenir le contrôle des entités suivantes ou en être un propriétaire important :
-		- **(i)** une entité visée à l’un ou l’autre des alinéas 468(1)g) à i),
-		- **(ii)** une entité canadienne admissible qui est une entité s’occupant de services financiers,
-		- **(iii)** une entité canadienne qui est une entité s’occupant de services financiers et pour laquelle l’acquisition ou la détention du contrôle ou de l’intérêt qui a fait d’elle un propriétaire important constitue un placement provisoire permis par l’article 522.14;
-	- **b)** faire le commerce des valeurs mobilières au Canada ou y exercer les activités commerciales d’une société coopérative de crédit dans le cadre de l’article 522.18.
+- **(2)** Le paragraphe (1) ne s’applique pas si la banque étrangère ou toute entité liée à la banque étrangère :
+	- **a)** est une banque étrangère autorisée;
+	- **b)** est une société d’assurances étrangère;
+	- **c)** contrôle ou est un propriétaire important d’une entité canadienne visée à l’un des alinéas 468(1)a) à f);
+	- **d)** a déjà reçu l’agrément du ministre lui permettant d’avoir un établissement financier au Canada.
 
-**Banque étrangère désignée ayant un établissement financier au Canada**
+**Présomption — banque étrangère**
 
-- **(3)** La banque étrangère ayant un établissement financier au Canada doit être une banque étrangère désignée ou être liée à une banque étrangère désignée pour :
-	- **a)** acquérir ou détenir le contrôle des entités suivantes ou un intérêt de groupe financier dans ces entités :
-		- **(i)** une entité visée à l’un ou l’autre des alinéas 468(1)g) à i),
-		- **(ii)** une entité canadienne admissible,
-		- **(iii)** une entité canadienne pour laquelle l’acquisition ou la détention du contrôle ou de l’intérêt constitue un placement provisoire permis par l’article 522.14,
-		- **(iv)** une entité à activités commerciales restreintes;
-	- **b)** faire le commerce des valeurs mobilières au Canada ou y exercer les activités commerciales d’une société coopérative de crédit dans le cadre de l’article 522.18;
-	- **c)** maintenir une succursale ou exercer une activité commerciale permise dans le cadre de l’article 522.19.
-
-**Entité liée à une banque étrangère désignée ayant un établissement financier au Canada**
-
-- **(4)** L’entité liée à une banque étrangère et qui a un établissement financier au Canada doit être liée à une banque étrangère désignée pour :
-	- **a)** acquérir ou détenir le contrôle des entités suivantes ou un intérêt de groupe financier dans ces entités :
-		- **(i)** une entité visée à l’un ou l’autre des alinéas 468(1)g) à i),
-		- **(ii)** une entité canadienne admissible,
-		- **(iii)** une entité canadienne pour laquelle l’acquisition ou la détention du contrôle ou de l’intérêt constitue un placement provisoire permis par l’article 522.14,
-		- **(iv)** une entité à activités commerciales restreintes;
-	- **b)** faire le commerce des valeurs mobilières au Canada ou y exercer les activités commerciales d’une société coopérative de crédit dans le cadre de l’article 522.18;
-	- **c)** maintenir une succursale ou exercer une activité commerciale permise dans le cadre de l’article 522.19.
-> 2001, ch. 9, art. 132.
+- **(3)** La banque étrangère qui, en vertu du paragraphe 508(1), dans sa version antérieure à la date d’entrée en vigueur du présent paragraphe, faisait l’objet d’un arrêté de désignation qui n’a pas été annulé est réputée avoir reçu l’agrément du ministre lui permettant d’avoir un établissement financier au Canada.
+> 2001, ch. 9, art. 132; 2007, ch. 6, art. 67.
 
 
+
+
+
+**Agrément relatif aux établissements financiers : entité liée à une banque étrangère**
+
+**522.211** 
+
+- **(1)** L’entité liée à une banque étrangère ne peut, sans avoir obtenu au préalable l’agrément écrit du ministre, avoir un établissement financier au Canada.
+
+**Exception**
+
+- **(2)** Le paragraphe (1) ne s’applique pas si l’entité liée à une banque étrangère, la banque étrangère ou toute autre entité liée à la banque étrangère :
+	- **a)** soit est une banque étrangère autorisée;
+	- **b)** soit est une société d’assurances étrangère;
+	- **c)** soit contrôle ou est un propriétaire important d’une entité canadienne visée à l’un des alinéas 468(1)a) à f);
+	- **d)** soit a déjà reçu l’agrément du ministre lui permettant d’avoir un établissement financier au Canada.
+
+**Présomption — entité liée**
+
+- **(3)** L’entité liée à une banque étrangère qui, en vertu du paragraphe 508(1), dans sa version antérieure à la date d’entrée en vigueur du présent paragraphe, faisait l’objet d’un arrêté de désignation qui n’a pas été annulé est réputée avoir reçu l’agrément du ministre lui permettant d’avoir un établissement financier au Canada.
+> 2007, ch. 6, art. 67.
+
+
+
+
+
+#### Agréments relatifs aux placements et aux activités
 
 
 
@@ -12017,15 +12029,16 @@ Elle doit toutefois prendre les mesures nécessaires pour éliminer le contrôle
 
 **522.22** 
 
-- **(1)** Sous réserve du paragraphe (2) et des règlements, la banque étrangère ou l’entité liée à une banque étrangère ne peut, sans avoir obtenu au préalable l’agrément écrit du ministre donné par arrêté :
+- **(1)** Sous réserve du paragraphe (2) et des règlements, la banque étrangère ou l’entité liée à une banque étrangère ne peut, sans avoir obtenu au préalable l’agrément écrit du ministre :
 	- **a)** acquérir, auprès d’une personne qui n’est pas un membre du groupe de la banque étrangère, le contrôle d’une entité canadienne visée à l’un des alinéas 468(1)g) à i);
-	- **b)** acquérir le contrôle d’une entité canadienne qui exerce une activité visée à l’alinéa 522.08(1)a) et qui exerce, dans le cadre de son activité commerciale, des activités d’intermédiaire financier comportant des risques importants de crédit ou de marché, notamment une entité s’occupant de financement, si le contrôle est acquis auprès d’une entité visée à l’un des alinéas 468(1)a) à f) qui n’est pas un membre du groupe de la banque étrangère, étant toutefois exclue l’entité canadienne dont les activités se limitent aux activités qu’exercent les entités suivantes :
+	- **b)** acquérir le contrôle d’une entité canadienne qui exerce une activité visée à l’alinéa 522.08(1)a) et qui exerce, dans le cadre de son activité commerciale, des activités d’intermédiaire financier comportant des risques importants de crédit ou de marché, notamment une entité s’occupant de financement, si le contrôle est acquis auprès d’une entité visée à l’un des alinéas 468(1)a) à f) qui n’est pas un membre du groupe de la banque étrangère, étant toutefois exclue l’entité canadienne dont les activités se limitent aux activités qu’exercent les entités suivantes :
 		- **(i)** une entité s’occupant d’affacturage, au sens des règlements,
 		- **(ii)** une entité s’occupant de crédit-bail;
 	- **c)** acquérir ou détenir le contrôle d’une entité canadienne dont l’activité commerciale comporte des activités visées à l’alinéa 522.08(1)d), ou un intérêt de groupe financier dans celle-ci;
-	- **d)** acquérir ou détenir le contrôle d’une entité canadienne exerçant des activités visées aux alinéas 410(1)c) ou c.1), ou un intérêt de groupe financier dans celle-ci;
+	- **d)** acquérir ou détenir le contrôle d’une entité canadienne exerçant au Canada des activités visées à l’alinéa 410(1)c), ou un intérêt de groupe financier dans celle-ci;
+	- **d.1)** acquérir ou détenir le contrôle d’une entité canadienne exerçant des activités visées à l’alinéa 410(1)c.1), ou un intérêt de groupe financier dans celle-ci;
 	- **e)** acquérir ou détenir le contrôle d’une entité canadienne exerçant des activités prévues par les règlements d’application de l’alinéa 522.08(1)f), ou un intérêt de groupe financier dans celle-ci;
-	- **f)** faire le commerce des valeurs mobilières ou exercer les activités commerciales d’une société coopérative de crédit dans le cadre de l’article 522.18;
+	- **f)** exercer une activité commerciale permise dans le cadre des alinéas 522.18(1)a) ou b) ou du paragraphe 522.18(2);
 	- **g)** acquérir ou détenir le contrôle d’une entité à activités commerciales restreintes, ou un intérêt de groupe financier dans celle-ci;
 	- **h)** maintenir une succursale ou exercer une activité commerciale permise dans le cadre de l’article 522.19;
 	- **i)** exercer les activités visées à l’alinéa 510(1)c) dans les circonstances visées aux alinéas 513(1)a) ou (2)c).
@@ -12041,7 +12054,11 @@ Elle doit toutefois prendre les mesures nécessaires pour éliminer le contrôle
 **Souscripteur à forfait**
 
 - **(4)** Les dispositions de la présente partie n’ont pas pour effet d’empêcher la banque étrangère ou l’entité liée à une banque étrangère d’acquérir un intérêt de groupe financier dans une entité canadienne dans le cas où l’acquisition est le fait d’un souscripteur à forfait, dans le cadre d’une souscription publique d’actions ou de titres de participation de l’entité canadienne, pourvu que le souscripteur ne détienne l’intérêt que pour une période d’au plus six mois.
-> 2001, ch. 9, art. 132.
+
+**Application**
+
+- **(5)** Le paragraphe (1) s’applique, que l’agrément du ministre soit requis ou non au titre des articles 522.21 ou 522.211.
+> 2001, ch. 9, art. 132; 2007, ch. 6, art. 68.
 
 
 
@@ -16149,6 +16166,25 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 - **(2)** La société peut autoriser ses filiales à détenir, à titre de sûreté, soit ses actions ou les actions d’une personne morale qui la contrôle, soit des titres de participation d’une entité qui la contrôle, pourvu que la sûreté ait une valeur peu importante selon les critères qu’elle a établis et qui sont approuvés par écrit par le surintendant.
 > 2001, ch. 9, art. 183; 2005, ch. 54, art. 88(F).
+
+
+
+
+
+**Exception — conditions préalables**
+
+**716.1** 
+
+- **(1)** La société de portefeuille bancaire peut permettre à ses filiales d’acquérir ses actions par l’entremise d’une émission de celles-ci en leur faveur si, préalablement à l’acquisition, les conditions prévues par les règlements pour l’application du présent paragraphe sont remplies.
+
+**Conditions ultérieures**
+
+- **(2)** Après l’acquisition d’actions effectivement ou censément autorisée par le paragraphe (1), les conditions prévues par les règlements pour l’application du présent paragraphe doivent être remplies.
+
+**Inobservation des conditions**
+
+- **(3)** Malgré l’article 665 et le paragraphe 710(2), la société de portefeuille bancaire est tenue de se conformer aux obligations réglementaires si, d’une part, l’acquisition était effectivement ou censément autorisée par le paragraphe (1) et, d’autre part, une des conditions prévues par les règlements pour l’application des paragraphes (1) ou (2) n’est pas remplie ou cesse de l’être.
+> 2007, ch. 6, art. 111.
 
 
 
