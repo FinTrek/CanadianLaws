@@ -1888,6 +1888,25 @@ where the security interest is nominal or immaterial when measured by criteria e
 
 
 
+**Exception — conditions before acquisition**
+
+**76.01** 
+
+- **(1)** A company may permit any of its subsidiaries to acquire shares of the company through the issuance of those shares by the company to the subsidiary if the conditions prescribed for the purposes of this subsection are met before the subsidiary acquires the shares.
+
+**Conditions after acquisition**
+
+- **(2)** After a subsidiary has acquired shares under the purported authority of subsection (1), the conditions prescribed for the purposes of this subsection must be met.
+
+**Non-compliance with conditions**
+
+- **(3)** If a company permits any of its subsidiaries to acquire shares of the company under the purported authority of subsection (1) and one or more of the conditions prescribed for the purposes of subsections (1) and (2) were not met, are not met or cease to be met, as the case may be, then, despite section 16 and subsection 70(2), the company must comply with the prescribed requirements.
+> 2007, c. 6, s. 197.
+
+
+
+
+
 **Holding in market-indexed segregated fund**
 
 **76.1** A company may hold shares of the company or shares or ownership interests of an entity that controls the company, if
@@ -16977,6 +16996,25 @@ the entity shall not control the insurance holding company one year after the da
 
 
 
+**Exception — conditions before acquisition**
+
+**755.1** 
+
+- **(1)** An insurance holding company may permit any of its subsidiaries to acquire shares of the insurance holding company through the issuance of those shares by the insurance holding company to the subsidiary if the conditions prescribed for the purposes of this subsection are met before the subsidiary acquires the shares.
+
+**Conditions after acquisition**
+
+- **(2)** After a subsidiary has acquired shares under the purported authority of subsection (1), the conditions prescribed for the purposes of this subsection must be met.
+
+**Non-compliance with conditions**
+
+- **(3)** If an insurance holding company permits any of its subsidiaries to acquire shares of the insurance holding company under the purported authority of subsection (1) and one or more of the conditions prescribed for the purposes of subsections (1) and (2) were not met, are not met or cease to be met, as the case may be, then, despite section 702 and subsection 749(2), the insurance holding company must comply with the prescribed requirements.
+> 2007, c. 6, s. 316.
+
+
+
+
+
 **Cancellation of shares**
 
 **756** 
@@ -20367,7 +20405,7 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 
 
 
-#### Qualified Privilege
+##### Qualified Privilege
 
 
 
