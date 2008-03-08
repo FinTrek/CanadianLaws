@@ -1544,6 +1544,25 @@ Il doit cependant auparavant donner à la société la possibilité de lui prés
 
 
 
+**Exception — conditions préalables**
+
+**75.1** 
+
+- **(1)** La société peut permettre à ses filiales d’acquérir ses actions par l’entremise d’une émission de celles-ci en leur faveur si, préalablement à l’acquisition, les conditions prévues par les règlements pour l’application du présent paragraphe sont remplies.
+
+**Conditions ultérieures**
+
+- **(2)** Après l’acquisition d’actions effectivement ou censément autorisée par le paragraphe (1), les conditions prévues par les règlements pour l’application du présent paragraphe doivent être remplies.
+
+**Inobservation des conditions**
+
+- **(3)** Malgré l’article 15 et le paragraphe 69(2), la société est tenue de se conformer aux obligations réglementaires si, d’une part, l’acquisition était effectivement ou censément autorisée par le paragraphe (1) et, d’autre part, une des conditions prévues par les règlements pour l’application des paragraphes (1) ou (2) n’est pas remplie ou cesse de l’être.
+> 2007, ch. 6, art. 343.
+
+
+
+
+
 **Annulation des actions**
 
 **76** 
@@ -7782,9 +7801,107 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 
 
-**Restrictions : dépôts**
+**Conditions pour accepter des dépôts**
 
-**413** Il est interdit à la société d’accepter des dépôts au Canada, sauf si elle est une institution membre au sens de la [Loi sur la Société d’assurance-dépôts du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-3.md).
+**413** 
+
+- **(1)** Il est interdit à la société d’accepter des dépôts au Canada, sauf :
+	- **a)** si elle est une institution membre au sens de l’article 2 de la [Loi sur la Société d’assurance-dépôts du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-3.md);
+	- **b)** si, n’étant pas une institution membre au sens de cet article, elle est autorisée à le faire au titre du paragraphe 26.03(1) de cette loi;
+	- **c)** si elle est autorisée, au titre de son agrément de fonctionnement, à accepter des dépôts uniquement en conformité avec le paragraphe (2).
+
+**Obligation de la société**
+
+- **(2)** La société visée aux alinéas (1)b) ou c) doit s’assurer que les dépôts payables au Canada qu’elle détient satisfont en tout temps, après le trentième jour suivant l’autorisation visée à cet alinéa, à l’équation suivante :
+```
+A/B ≤ 0,01
+```
+où :
+- **A** représente le total de la somme de tous les dépôts de moins de 150 000 $, calculée sur une base quotidienne, détenus par cette société durant les trente derniers jours;
+- **B** le total de la somme de tous les dépôts détenus par cette société, calculée sur une base quotidienne, pour chacun de ces trente jours.
+
+**Taux de change**
+
+- **(3)** Pour l’application du paragraphe (2), le taux de change applicable pour la détermination du montant en dollars canadiens d’un dépôt fait en devises étrangères est déterminé conformément aux règles visées au paragraphe 26.03(2) de la [Loi sur la Société d’assurance-dépôts du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-3.md).
+
+**Définition de dépôt**
+
+- **(4)** Pour l’application du paragraphe (2), ***dépôt*** s’entend au sens que lui donne, dans le cadre de l’assurance-dépôts, l’annexe de la [Loi sur la Société d’assurance-dépôts du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-3.md), exception faite des paragraphes 2(2), (5) et (6) de cette annexe. Ne sont toutefois pas considérés comme des dépôts les dépôts prévus par les règlements.
+
+**Règlements**
+
+- **(5)** Le gouverneur en conseil peut, par règlement :
+	- **a)** prévoir les dépôts visés au paragraphe (4);
+	- **b)** prévoir les modalités et conditions relatives à l’acceptation de ces dépôts.
+> 1991, ch. 45, art. 413; 2007, ch. 6, art. 358.
+
+
+
+
+
+**Avis de la société**
+
+**413.1** 
+
+- **(1)** La société visée aux alinéas 413(1)b) ou c) doit, avant d’ouvrir un compte de dépôt — ou de fournir relativement à un dépôt un produit réglementaire — au Canada et selon les modalités réglementaires :
+	- **a)** aviser par écrit la personne qui en fait la demande du fait que ses dépôts dans le compte ou le dépôt relatif au produit réglementaire ne seront pas assurés par la Société d’assurance-dépôts du Canada ou, dans le cas où la demande est faite par téléphone, l’en aviser oralement;
+	- **b)** lui communiquer toute l’information réglementaire.
+
+**Avis publics**
+
+- **(2)** Elle doit également, afin d’informer le public, afficher, de la façon prévue par règlement, dans ses bureaux et dans ses points de service réglementaires au Canada où des dépôts sont acceptés et sur ceux de ses sites Web où des dépôts sont acceptés au Canada, des avis indiquant que les dépôts qu’elle détient ne sont pas assurés par la Société d’assurance-dépôts du Canada et faire paraître la même information dans sa publicité.
+
+**Règlements**
+
+- **(3)** Le gouverneur en conseil peut, par règlement :
+	- **a)** prévoir la façon de donner les avis prévus au paragraphe (1) et préciser les renseignements supplémentaires qu’ils doivent contenir;
+	- **b)** régir les avis prévus au paragraphe (2).
+> 2007, ch. 6, art. 358.
+
+
+
+
+
+**Restriction**
+
+**413.2** 
+
+- **(1)** Sous réserve des règlements, la société visée aux alinéas 413(1)b) ou c) ne peut, dans le cadre de l’exercice de ses activités au Canada, faire fonction de mandataire pour l’acceptation d’un dépôt de moins de 150 000 $ payable au Canada.
+
+**Définition de dépôt**
+
+- **(2)** Pour l’application du présent article, ***dépôt*** s’entend au sens du paragraphe 413(4).
+
+**Règlements**
+
+- **(3)** Le gouverneur en conseil peut, par règlement, régir les circonstances dans lesquelles une société visée par le paragraphe (1) peut faire fonction de mandataire pour l’acceptation d’un dépôt de moins de 150 000 $ payable au Canada et les modalités afférentes.
+> 2007, ch. 6, art. 358.
+
+
+
+
+
+**Interdiction de partager des locaux**
+
+**413.3** 
+
+- **(1)** Sous réserve des règlements, la société visée aux alinéas 413(1)b) ou c) ne peut exercer ses activités au Canada dans les mêmes locaux qu’une institution membre, au sens de l’article 2 de la [Loi sur la Société d’assurance-dépôts du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-3.md), qui fait partie de son groupe.
+
+**Exception**
+
+- **(2)** Le paragraphe (1) ne s’applique qu’aux locaux ou parties de local dans lesquels la société et l’institution membre traitent avec le public et auxquels le public a accès.
+
+**Interdiction relative aux locaux adjacents**
+
+- **(3)** Sous réserve des règlements, la société visée aux alinéas 413(1)b) ou c) ne peut exercer ses activités au Canada dans des locaux adjacents à ceux d’un bureau ou d’une succursale d’une institution membre, au sens de l’article 2 de la [Loi sur la Société d’assurance-dépôts du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-3.md), qui fait partie de son groupe que si elle indique clairement à ses clients que ses activités et les locaux où elle les exerce sont distincts de ceux de l’institution membre.
+
+**Règlements**
+
+- **(4)** Le gouverneur en conseil peut, par règlement :
+	- **a)** régir les circonstances dans lesquelles une société visée aux alinéas 413(1)b) ou c) peut exercer ses activités au Canada dans les mêmes locaux qu’une institution membre visée par le paragraphe (1) ainsi que les modalités afférentes;
+	- **b)** régir les circonstances dans lesquelles une société visée aux alinéas 413(1)b) ou c) peut exercer ses activités au Canada dans des locaux adjacents à ceux d’un bureau ou d’une succursale d’une institution membre visée par le paragraphe (3) ainsi que les modalités afférentes.
+> 2007, ch. 6, art. 358.
+
 
 
 
