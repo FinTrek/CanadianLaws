@@ -1686,6 +1686,25 @@ where the security interest is nominal or immaterial when measured by criteria e
 
 
 
+**Exception — conditions before acquisition**
+
+**72.1** 
+
+- **(1)** A bank may permit any of its subsidiaries to acquire shares of the bank through the issuance of those shares by the bank to the subsidiary if the conditions prescribed for the purposes of this subsection are met before the subsidiary acquires the shares.
+
+**Conditions after acquisition**
+
+- **(2)** After a subsidiary has acquired shares under the purported authority of subsection (1), the conditions prescribed for the purposes of this subsection must be met.
+
+**Non-compliance with conditions**
+
+- **(3)** If a bank permits any of its subsidiaries to acquire shares of the bank under the purported authority of subsection (1) and one or more of the conditions prescribed for the purposes of subsections (1) and (2) were not met, are not met or cease to be met, as the case may be, then, despite section 16 and subsection 66(2), the bank must comply with the prescribed requirements.
+> 2007, c. 6, s. 9.
+
+
+
+
+
 **Cancellation of shares**
 
 **73** 
@@ -8473,18 +8492,18 @@ where
 
 
 
-**Notice before opening account**
+**Notice before opening account or providing prescribed product**
 
 **413.1** 
 
-- **(1)** Before a bank to which paragraph 413(1)(b) applies opens a deposit account in Canada, the bank shall give the person requesting the opening of the account, in the prescribed manner,
-	- **(a)** a notice in writing that the deposit will not be insured by the Canada Deposit Insurance Corporation; and
+- **(1)** Before a bank referred to in paragraph 413(1)(b) or (c) opens a deposit account in Canada or provides in Canada a prescribed product that relates to a deposit, the bank shall, in the prescribed manner, give the person requesting the opening of the account or the provision of the product
+	- **(a)** a notice in writing that deposits to the deposit account, or that the deposit that relates to the prescribed product, as the case may be, will not be insured by the Canada Deposit Insurance Corporation or, if the request is made by telephone, a verbal notice to that effect; and
 	- **(b)** any other information that may be prescribed.
 
 **Other notice**
 
-- **(2)** A bank to which paragraph 413(1)(b) applies shall, in accordance with such regulations as may be made,
-	- **(a)** post notices in its branches in Canada to inform the public that deposits with the bank are not insured by the Canada Deposit Insurance Corporation; and
+- **(2)** A bank referred to in paragraph 413(1)(b) or (c) shall, in accordance with any regulations that may be made,
+	- **(a)** post notices at all of its branches, and at prescribed points of service, in Canada where deposits are accepted, and on all of its websites at which deposits are accepted in Canada, to inform the public that deposits with the bank are not insured by the Canada Deposit Insurance Corporation; and
 	- **(b)** include in its advertisements notices to inform the public that deposits with the bank are not insured by the Canada Deposit Insurance Corporation.
 
 **Regulations**
@@ -8492,7 +8511,7 @@ where
 - **(3)** The Governor in Council may make regulations
 	- **(a)** prescribing the manner in which notices referred to in subsection (1) are to be given and the additional information to be contained in the notices; and
 	- **(b)** respecting notices for the purpose of subsection (2).
-> 1997, c. 15, s. 43; 2001, c. 9, s. 103.
+> 1997, c. 15, s. 43; 2001, c. 9, s. 103; 2007, c. 6, s. 24.
 
 
 
@@ -11454,94 +11473,78 @@ would, if they were one person, control the Canadian entity.
 
 
 
-**Designation order**
+**Application**
 
 **508** 
 
-- **(1)** Subject to subsection (2), the Minister may, by order, designate a foreign bank to be a designated foreign bank for the purposes of this Part if
-	- **(a)** the foreign bank is a bank according to the laws of the jurisdiction under whose laws it was incorporated or in any jurisdiction in which it carries on business;
-	- **(b)** the foreign bank engages, directly or indirectly, in the business of providing financial services and employs, to identify or describe its business, a name that includes the word “bank”, “banque”, “banking” or “bancaire”, either alone or in combination with other words, or any word or words in any language other than English or French corresponding generally thereto;
-	- **(c)** the foreign bank, in the opinion of the Minister, after consultation with the Superintendent, is regulated as or like a bank, according to the jurisdiction under whose laws it was incorporated or in any jurisdiction in which it carries on business; or
-	- **(d)** the foreign bank is not a foreign bank described in any of paragraphs (a) to (c) and one of the following conditions is met:
-		- **(i)** subject to the regulations, the following ratio, expressed as a percentage, is equal to or greater than the prescribed material percentage: the value of the total assets of foreign banks described in any of paragraphs (a) to (c) that are associated with the foreign bank to the value of the total assets of the foreign bank and entities associated with the foreign bank, or
-		- **(ii)** subject to the regulations, the following ratio, expressed as a percentage, is equal to or greater than the prescribed material percentage: the value of the total revenues of foreign banks described in any of paragraphs (a) to (c) that are associated with the foreign bank to the value of the total revenues of the foreign bank and entities associated with the foreign bank.
-
-**Restriction**
-
-- **(2)** The Minister may only make an order under subsection (1) in respect of a foreign bank described in any of paragraphs (1)(a) to (c) if
-	- **(a)** the foreign bank or an entity controlled by the foreign bank is or will be
-		- **(i)** engaging in or carrying on business in Canada, other than holding, managing or otherwise dealing with real property,
-		- **(ii)** maintaining a branch in Canada, other than an office referred to in section 522,
-		- **(iii)** establishing, maintaining or acquiring for use in Canada an automated banking machine, a remote service unit or a similar automated service, or, in Canada, accepting data from such a machine, unit or service other than in circumstances described in section 511 or 512,
-		- **(iv)** acquiring or holding control of, or a substantial investment in, a Canadian entity, or
-		- **(v)** acquiring or holding any share or ownership interest in a Canadian entity and
-			- **(A)** an entity associated with the foreign bank holds control of, or a substantial investment in, the Canadian entity, or
-			- **(B)** an entity associated with the foreign bank and one or more other entities associated with the foreign bank would, if they were one person, hold control of, or a substantial investment in, the Canadian entity; or
-	- **(b)** the foreign bank is controlled by an individual and
-		- **(i)** one of the following conditions is met:
-			- **(A)** subject to the regulations, the following ratio, expressed as a percentage, is equal to or greater than the prescribed material percentage: the value of the total assets of the foreign bank and other foreign banks described in any of paragraphs (1)(a) to (c) that are associated with the foreign bank to the value of the total assets of the foreign bank and entities associated with the foreign bank, or
-			- **(B)** subject to the regulations, the following ratio, expressed as a percentage, is equal to or greater than the prescribed material percentage: the value of the total revenues of the foreign bank and other foreign banks described in any of paragraphs (1)(a) to (c) that are associated with the foreign bank to the value of the total revenues of the foreign bank and entities associated with the foreign bank, and
-		- **(ii)** an entity associated with the foreign bank is or will be
+- **(1)** This Part applies to
+	- **(a)** a foreign bank that
+		- **(i)** is a bank according to the laws of the jurisdiction under whose laws it was incorporated or in any jurisdiction in which it carries on business,
+		- **(ii)** engages in the business of providing financial services and employs, to identify or describe its business, a name that includes the word “bank”, “*banque*”, “banking” or “*bancaire*”, either alone or in combination with other words, or any word or words in any language other than English or French corresponding generally to any of those words, or
+		- **(iii)** is regulated as a bank or as a deposit-taking institution according to the jurisdiction under whose laws it was incorporated or in any jurisdiction in which it carries on business; and
+	- **(b)** an entity that is associated with a foreign bank and that is
+		- **(i)** a member of a material banking group,
+		- **(ii)** controlled by a foreign bank described in any of subparagraphs (a)(i) to (iii), or
+		- **(iii)** associated with a foreign bank described in any of subparagraphs (a)(i) to (iii) and that foreign bank or any entity controlled by that foreign bank is
 			- **(A)** engaging in or carrying on business in Canada, other than holding, managing or otherwise dealing with real property,
 			- **(B)** maintaining a branch in Canada, other than an office referred to in section 522,
-			- **(C)** establishing, maintaining or acquiring for use in Canada an automated banking machine, a remote service unit or a similar automated service, or, in Canada, accepting data from such a machine, unit or service other than in circumstances described in section 511 or 512, or
-			- **(D)** acquiring or holding control of, or a substantial investment in, a Canadian entity.
+			- **(C)** establishing, maintaining or acquiring for use in Canada an automated banking machine, a remote service unit or a similar automated service, or, in Canada, accepting data from such a machine, unit or service other than in circumstances described in section 511 or 512,
+			- **(D)** acquiring or holding control of, or a substantial investment in, a Canadian entity, or
+			- **(E)** acquiring or holding any share or ownership interest in a Canadian entity and
+				- **(I)** an entity associated with the foreign bank holds control of, or a substantial investment in, the Canadian entity, or
+				- **(II)** the foreign bank, an entity associated with the foreign bank and one or more other entities associated with the foreign bank would, if they were one person, hold control of, or a substantial investment in, the Canadian entity.
+
+**Member of a material banking group**
+
+- **(2)** For the purposes of this section, an entity is a member of a material banking group if either of the following ratios, expressed as a percentage, is equal to or greater than the percentage prescribed for the purpose of this subsection:
+```
+A/B or C/D
+```
+where
+- **A** is the sum of the total assets of all foreign banks described in any of subparagraphs (1)(a)(i) to (iii) with which the entity is associated, other than the total assets of foreign banks described in any of those subparagraphs whose assets are consolidated into the total assets of any foreign bank described in any of those subparagraphs with which the entity is associated;
+- **B** is
+- **(a)** if the entity is not controlled by any person, the total assets of the entity, or
+- **(b)** in any other case, the sum of the total assets of the entity and of all its affiliates, other than entities whose total assets are consolidated into the total assets of an affiliate of the entity;
+- **C** is the sum of the total revenue of all foreign banks described in any of subparagraphs (1)(a)(i) to (iii) with which the entity is associated, other than the total revenue of foreign banks described in any of those subparagraphs whose revenue is consolidated into the total revenue of any foreign bank described in any of those subparagraphs with which the entity is associated; and
+- **D** is
+- **(a)** if the entity is not controlled by any person, the total revenue of the entity, or
+- **(b)** in any other case, the sum of the total revenue of the entity and of all its affiliates, other than entities whose total revenue is consolidated into the total revenue of an affiliate of the entity.
+
+**Exemption from material banking group status**
+
+- **(3)** Despite subsection (2), the Minister may, subject to any terms and conditions that he or she considers appropriate, exempt an entity from being a member of a material banking group if neither of the ratios determined in accordance with that subsection in relation to that entity exceeds the percentage prescribed for the purposes of this subsection.
 
 **Subsections 507(4) to (7) do not apply**
 
-- **(2.1)** Subsections 507(4) to (7) do not apply with respect to the making of any determination relating to control or a substantial investment for the purposes of paragraph (2)(a).
+- **(4)** Subsections 507(4) to (7) do not apply with respect to the making of any determination relating to control or a substantial investment for the purposes of subparagraph (1)(b)(iii).
 
-**Deeming**
+**Definitions**
 
-- **(3)** A foreign bank that was designated under subsection 521(1.06) as that subsection read immediately before the coming into force of this subsection and whose designation has not been revoked is deemed to be the subject of a designation order.
-> 1991, c. 46, s. 508, c. 47, s. 756; 1993, c. 44, s. 29; 1994, c. 47, s. 26; 1999, c. 28, s. 28; 2001, c. 9, s. 132.
+- **(5)** The following definitions apply in this section.
 
+***total assets***, in respect of an entity, means the total value of its assets 
+- **(a)** as reported on a consolidated basis in its most recently completed financial statements that were prepared in accordance with generally accepted accounting principles in
+	- **(i)** the jurisdiction in which the entity was formed or incorporated,
+	- **(ii)** a jurisdiction in which it carries on business, or
+	- **(iii)** a country or territory that is a WTO Member as defined in subsection 2(1) of the [World Trade Organization Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2047.md); or
+- **(b)** if its most recently completed financial statements were not prepared in the manner described in paragraph (a), as would have been reported on a consolidated basis in its most recently completed financial statements had they been prepared in accordance with generally accepted accounting principles in Canada. (*actif total*)
 
-
-
-
-**Exemption order**
-
-**509** 
-
-- **(1)** The Minister may, by order, determine that this Part, other than this section, sections 507 and 508, subsection 522.25(3), sections 522.26 and 522.28, subsection 522.29(2) and section 522.3, does not apply to a foreign bank.
-
-**Restriction**
-
-- **(2)** No order may be made under subsection (1) in respect of a designated foreign bank or a foreign bank that is associated with a designated foreign bank.
-
-**Deemed order**
-
-- **(3)** An exemption order is deemed to have been made on the coming into force of this subsection in respect of a foreign bank if, immediately before the coming into force of this subsection, the foreign bank had received consent under subsection 521(1), the consent had not been revoked and the foreign bank or an entity associated with it was not designated under subsection 521(1.06), as those subsections read immediately before the coming into force of this subsection.
-
-**Change in circumstances**
-
-- **(4)** A foreign bank that is the subject of an exemption order shall advise the Minister in writing of any change in circumstances that may affect its eligibility for a designation order.
-
-**Revocation of order**
-
-- **(5)** An exemption order in respect of a foreign bank is deemed to be revoked if the foreign bank, or another foreign bank that is an entity associated with the foreign bank, is a designated foreign bank. The Minister may revoke an exemption order in respect of a foreign bank if the conditions for designation set out in section 508 are met by the foreign bank or by another foreign bank that is an entity associated with the foreign bank.
-
-**Effect of exemption order on associated entities**
-
-- **(6)** This Part, other than this section, sections 507 and 508, subsection 522.25(3), sections 522.26 and 522.28, subsection 522.29(2) and section 522.3, does not apply to an entity associated with a foreign bank that is the subject of an exemption order.
-
-**Authorization**
-
-- **(7)** If an exemption order in respect of a foreign bank is revoked or deemed to be revoked under subsection (5), the Minister may, by order, authorize the foreign bank and any entity associated with it to continue to hold control of, or a substantial investment in, a Canadian entity that the foreign bank or the entity associated with the foreign bank would not otherwise be allowed to continue to hold under Division 3 or 4 or to continue to engage in any activities or to engage in or carry on any business or to maintain a branch that the foreign bank or the entity associated with the foreign bank would not otherwise be allowed to continue to engage in or carry on or maintain under Division 3 or 4.
-> 1991, c. 46, s. 509; 2001, c. 9, s. 132.
+***total revenue***, in respect of an entity, means its total revenue
+- **(a)** as reported on a consolidated basis in its most recently completed financial statements that were prepared in accordance with generally accepted accounting principles in
+	- **(i)** the jurisdiction in which the entity was formed or incorporated,
+	- **(ii)** a jurisdiction in which it carries on business, or
+	- **(iii)** a country or territory that is a WTO Member as defined in subsection 2(1) of the [World Trade Organization Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2047.md); or
+- **(b)** if its most recently completed financial statements were not prepared in the manner described in paragraph (a), as would have been reported on a consolidated basis in its most recently completed financial statements had they been prepared in accordance with generally accepted accounting principles in Canada. (*recettes d’exploitation totales*)
+> 1991, c. 46, s. 508, c. 47, s. 756; 1993, c. 44, s. 29; 1994, c. 47, s. 26; 1999, c. 28, s. 28; 2001, c. 9, s. 132; 2007, c. 6, s. 49.
 
 
 
 
+**509** [Repealed, 2007, c. 6, s. 49]
 
-**Non-application re federal institutions associated with a foreign bank**
 
-**509.1** Subsection 510(1) does not apply to
-- **(a)** an entity referred to in any of paragraphs 468(1)(a) to (f) that is an entity associated with a foreign bank; or
-- **(b)** a Canadian entity that an entity referred to in paragraph (a) controls, or in which such an entity has a substantial investment.
-> 2001, c. 9, s. 132.
 
+**509.1** [Repealed, 2007, c. 6, s. 49]
 
 
 
@@ -12199,50 +12202,57 @@ it may retain the control or the substantial investment for five years, but it s
 
 
 
-**Obligation to be designated**
+#### Approval to Have a Financial Establishment in Canada
+
+
+
+**No financial establishment without approval — foreign bank**
 
 **522.21** 
 
-- **(1)** A foreign bank that does not have a financial establishment in Canada must be a designated foreign bank or be associated with a designated foreign bank in order to
-	- **(a)** acquire or hold control of, or be a major owner of,
-		- **(i)** an entity referred to in any of paragraphs 468(1)(g) to (i),
-		- **(ii)** a permitted Canadian entity that is a financial services entity, or
-		- **(iii)** a Canadian entity that is a financial services entity, by way of a temporary investment permitted by section 522.14; or
-	- **(b)** in Canada, engage in or carry on the business of dealing in securities or the business of a cooperative credit society referred to in section 522.18.
+- **(1)** A foreign bank may not, without the prior written approval of the Minister, have a financial establishment in Canada.
 
-**Entity associated with a designated foreign bank**
+**Exception**
 
-- **(2)** An entity that is associated with a foreign bank and that does not have a financial establishment in Canada must be associated with a designated foreign bank in order for the entity to
-	- **(a)** acquire or hold control of, or be a major owner of,
-		- **(i)** an entity referred to in any of paragraphs 468(1)(g) to (i),
-		- **(ii)** a permitted Canadian entity that is a financial services entity, or
-		- **(iii)** a Canadian entity that is a financial services entity, by way of a temporary investment permitted by section 522.14; or
-	- **(b)** in Canada, engage in or carry on the business of dealing in securities or the business of a cooperative credit society referred to in section 522.18.
+- **(2)** Subsection (1) does not apply if the foreign bank or any entity associated with the foreign bank
+	- **(a)** is an authorized foreign bank;
+	- **(b)** is a foreign insurance company;
+	- **(c)** controls or is a major owner of a Canadian entity referred to in any of paragraphs 468(1)(a) to (f); or
+	- **(d)** has already received the approval of the Minister to have a financial establishment in Canada.
 
-**Designated foreign bank that has a financial establishment in Canada**
+**Deeming**
 
-- **(3)** A foreign bank that has a financial establishment in Canada must be a designated foreign bank or be associated with a designated foreign bank in order to
-	- **(a)** acquire or hold control of, or a substantial investment in,
-		- **(i)** an entity referred to in any of paragraphs 468(1)(g) to (i),
-		- **(ii)** a permitted Canadian entity,
-		- **(iii)** a Canadian entity, by way of a temporary investment permitted by section 522.14, or
-		- **(iv)** a limited commercial entity;
-	- **(b)** in Canada, engage in or carry on the business of dealing in securities or the business of a cooperative credit society referred to in section 522.18; or
-	- **(c)** maintain a branch or engage in or carry on a business permitted by section 522.19.
-
-**Entity associated with designated foreign bank that has a financial establishment in Canada**
-
-- **(4)** An entity that is associated with a foreign bank and that has a financial establishment in Canada must be an entity associated with a foreign bank that is a designated foreign bank in order for the entity to
-	- **(a)** acquire or hold control of, or a substantial investment in,
-		- **(i)** an entity referred to in any of paragraphs 468(1)(g) to (i),
-		- **(ii)** a permitted Canadian entity,
-		- **(iii)** a Canadian entity, by way of a temporary investment permitted by section 522.14, or
-		- **(iv)** a limited commercial entity;
-	- **(b)** in Canada, engage in or carry on the business of dealing in securities or the business of a cooperative credit society referred to in section 522.18; or
-	- **(c)** maintain a branch or engage in or carry on a business permitted by section 522.19.
-> 2001, c. 9, s. 132.
+- **(3)** A foreign bank that was the subject of a designation order under subsection 508(1) as that subsection read immediately before the coming into force of this subsection and whose designation order has not been revoked is deemed to have received the approval of the Minister to have a financial establishment in Canada.
+> 2001, c. 9, s. 132; 2007, c. 6, s. 67.
 
 
+
+
+
+**No financial establishment without approval — associated entity**
+
+**522.211** 
+
+- **(1)** An entity that is associated with a foreign bank may not, without the prior written approval of the Minister, have a financial establishment in Canada.
+
+**Exception**
+
+- **(2)** Subsection (1) does not apply if the entity associated with a foreign bank, the foreign bank or any other entity associated with the foreign bank
+	- **(a)** is an authorized foreign bank;
+	- **(b)** is a foreign insurance company;
+	- **(c)** controls or is a major owner of a Canadian entity referred to in any of paragraphs 468(1)(a) to (f); or
+	- **(d)** has already received the approval of the Minister to have a financial establishment in Canada.
+
+**Deeming**
+
+- **(3)** An entity associated with a foreign bank that was the subject of a designation order under subsection 508(1) as that subsection read immediately before the coming into force of this subsection and whose designation order has not been revoked is deemed to have received the approval of the Minister to have a financial establishment in Canada.
+> 2007, c. 6, s. 67.
+
+
+
+
+
+#### Approvals in Respect of Investments and Activities
 
 
 
@@ -12250,15 +12260,16 @@ it may retain the control or the substantial investment for five years, but it s
 
 **522.22** 
 
-- **(1)** Subject to subsection (2) and the regulations, a foreign bank or an entity associated with a foreign bank may not, without the prior written approval of the Minister, given by order,
+- **(1)** Subject to subsection (2) and the regulations, a foreign bank or an entity associated with a foreign bank may not, without the prior written approval of the Minister,
 	- **(a)** acquire control of a Canadian entity referred to in any of paragraphs 468(1)(g) to (i) from a person who is not a member of the foreign bank’s group;
 	- **(b)** acquire control of a Canadian entity whose business includes one or more of the activities referred to in paragraph 522.08(1)(a) and that engages, as part of its business, in any financial intermediary activity that exposes the Canadian entity to material market or credit risk — including a finance entity — if the control is acquired from an entity referred to in any of paragraphs 468(1)(a) to (f) that is not a member of the foreign bank’s group, but does not include a Canadian entity whose activities are limited to the activities of one or more of the following entities:
 		- **(i)** a factoring entity as defined in the regulations, or
 		- **(ii)** a financial leasing entity;
 	- **(c)** acquire or hold control of, or a substantial investment in, a Canadian entity whose business includes one or more of the activities referred to in paragraph 522.08(1)(d);
-	- **(d)** acquire or hold control of, or a substantial investment in, a Canadian entity that engages in an activity described in paragraph 410(1)(c) or (c.1);
+	- **(d)** acquire or hold control of, or a substantial investment in, a Canadian entity that engages in Canada in an activity described in paragraph 410(1)(c);
+	- **(d.1)** acquire or hold control of, or a substantial investment in, a Canadian entity that engages in an activity described in paragraph 410(1)(c.1);
 	- **(e)** acquire or hold control of, or a substantial investment in, a Canadian entity that engages in an activity prescribed for the purposes of paragraph 522.08(1)(f);
-	- **(f)** engage in or carry on the business of dealing in securities or the business of a cooperative credit society referred to in section 522.18;
+	- **(f)** engage in or carry on a business permitted by paragraph 522.18(1)(a) or (b) or subsection 522.18(2);
 	- **(g)** acquire or hold control of, or a substantial investment in, a limited commercial entity;
 	- **(h)** maintain a branch or engage in or carry on a business permitted by section 522.19; or
 	- **(i)** engage in an activity referred to in paragraph 510(1)(c) in the circumstances described in paragraph 513(1)(a) or (2)(c).
@@ -12277,7 +12288,11 @@ and that indirect acquisition is disclosed to the Minister in writing before the
 **Substantial investment by underwriter**
 
 - **(4)** Nothing in this Part precludes a foreign bank or an entity associated with a foreign bank from acquiring a substantial investment in a Canadian entity if the substantial investment is acquired in the course of a distribution to the public of shares or ownership interests in the Canadian entity by a securities underwriter so long as the securities underwriter holds the substantial investment for no longer than six months.
-> 2001, c. 9, s. 132.
+
+**Application**
+
+- **(5)** Subsection (1) applies regardless of whether or not the approval of the Minister is required under section 522.21 or 522.211.
+> 2001, c. 9, s. 132; 2007, c. 6, s. 68.
 
 
 
@@ -16490,6 +16505,25 @@ that is prohibited by section 693 or 695, the Superintendent may, by order, dire
 
 - **(2)** A bank holding company may permit its subsidiaries to hold by way of a security interest shares of the bank holding company or of any body corporate that controls the bank holding company, or any ownership interests of any entity that controls the bank holding company, if the security interest is nominal or immaterial when measured by criteria established by the bank holding company that have been approved in writing by the Superintendent.
 > 2001, c. 9, s. 183; 2005, c. 54, s. 88(F).
+
+
+
+
+
+**Exception — conditions before acquisition**
+
+**716.1** 
+
+- **(1)** A bank holding company may permit any of its subsidiaries to acquire shares of the bank holding company through the issuance of those shares by the bank holding company to the subsidiary if the conditions prescribed for the purposes of this subsection are met before the subsidiary acquires the shares.
+
+**Conditions after acquisition**
+
+- **(2)** After a subsidiary has acquired shares under the purported authority of subsection (1), the conditions prescribed for the purposes of this subsection must be met.
+
+**Non-compliance with conditions**
+
+- **(3)** If a bank holding company permits any of its subsidiaries to acquire shares of the bank holding company under the purported authority of subsection (1) and one or more of the conditions prescribed for the purposes of subsections (1) and (2) were not met, are not met or cease to be met, as the case may be, then, despite section 665 and subsection 710(2), the bank holding company must comply with the prescribed requirements.
+> 2007, c. 6, s. 111.
 
 
 
