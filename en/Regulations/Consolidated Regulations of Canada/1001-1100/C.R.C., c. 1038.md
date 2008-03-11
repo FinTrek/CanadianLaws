@@ -91,6 +91,10 @@ Enabling authorities:
 
 ***auto transporter*** means a truck and a trailer designed for use in combination to transport motor vehicles where the truck is designed to carry cargo other than at the fifth wheel and that cargo is to be loaded only by means of the trailer; (*porte-autos*)
 
+***back door*** means a door or door system on the back of a motor vehicle through which passengers can enter or leave the vehicle or cargo can be loaded or unloaded, but does not include
+- **(a)** a trunk lid, or
+- **(b)** a door or window that is composed entirely of glazing material and whose latches or hinge systems are attached directly to the glazing material; (*porte arrière*)
+
 ***backup system*** means a portion of a service brake system, such as a pump, that automatically supplies energy in the event of a primary brake power source failure; (*système de secours*)
 
 ***battery charging indicator*** means a device showing whether the battery is being charged or discharged; (*indicateur de charge*)
@@ -123,7 +127,7 @@ Enabling authorities:
 
 ***buckle*** means a quick-release connector that secures a person in a seat belt assembly; (*attache*)
 
-***built-in booster cushion*** means a device that is designed as an integral part of a vehicle seating system, for the purpose of seating a child in an elevated position on the vehicle seat in order to adapt an adult seat belt assembly of the motor vehicle to the child; (*coussin d’appoint intégré*)
+***built-in booster cushion*** means a device that is designed as an integral part of a vehicle seating system, for the purpose of seating in an elevated position a person who weighs at least 18 kg (40 pounds), in order to adapt an adult seat belt assembly of the motor vehicle to the person; (*coussin d’appoint intégré*)
 
 ***built-in child restraint system*** means a device, except a Type 1 or Type 2 seat belt assembly, that is designed to restrain a child and that is an integral part of a vehicle seating system; (*ensemble intégré de retenue d’enfant*)
 
@@ -281,6 +285,8 @@ Enabling authorities:
 ***headlamp assembly*** means an assembly that consists of one or more headlamps, aiming devices, headlamp retaining components, electrical connectors and mounting brackets, and which may include a housing and one or more bulbs; (*montage de projecteur*)
 
 ***head restraint*** means a device that limits rearward angular displacement of the occupant’s head relative to their torso line; (*appuie-tête*)
+
+***hearse*** means a vehicle that contains only one row of occupant seats, is designed exclusively for transporting a body and casket and is equipped with features to secure a casket in place during the operation of the vehicle; (*corbillard*)
 
 ***heavy duty vehicle***[Repealed, SOR/2001-35, s. 1]
 
@@ -466,7 +472,7 @@ but does not include a power-assisted bicycle, a restricted-use motorcycle, a lo
 
 ***on-off-highway vehicle***[Repealed, SOR/2004-250, s. 1]
 
-***open-body type vehicle*** means a convertible vehicle that has no top over the occupants’ compartment or that has over the occupants’ compartment a top that can easily be installed or removed by the operator of the vehicle; (*véhicule de type ouvert*)
+***open-body type vehicle*** means a vehicle that has no top over the occupant compartment or that has a top over the occupant compartment that can be installed or removed by the operator of the vehicle; (*véhicule de type ouvert*)
 
 ***open motorcycle*** means a motorcycle that
 - **(a)** has steering handlebars that are completely constrained from rotating in relation to the axle of only one wheel in contact with the ground,
@@ -579,17 +585,15 @@ but does not include a power-assisted bicycle, a restricted-use motorcycle, a lo
 
 ***seat back retainer***[Repealed, SOR/2007-180, s. 1]
 
-***seat belt anchorage*** means any component, other than the webbing or straps, involved in transferring seat belt load to the vehicle structure, including the attachment hardware, seat frames, seat pedestals, the vehicle structure and any part of the vehicle the failure of which causes separation of the belt from the vehicle structure; (*ancrage de ceinture de sécurité*)
+***seat belt anchorage*** means any component of a vehicle, other than the webbing or straps, involved in transferring seat belt loads to the vehicle structure, including the attachment hardware, seat frames, seat pedestals, the vehicle structure and any part of the vehicle whose failure causes separation of the belt from the vehicle structure; (*ancrage de ceinture de sécurité*)
 
 ***seat belt assembly*** means any strap, webbing or similar device designed to secure a person in a vehicle in order to mitigate the results of any accident and includes all necessary buckles and other fasteners and all attachment hardware; (*ceinture de sécurité*)
 
-***seating reference point*** means the unique Design H-point, as defined in section 2.2.11.1 of SAE Recommended Practice J1100 (June 1993), that
+***seating reference point*** means the unique Design H-Point, as defined in section 3.11.1 of SAE Recommended Practice J1100, Motor Vehicle Dimensions (February 2001), that
 - **(a)** establishes the rearmost normal design driving or riding position of each designated seating position, taking into account all modes of adjustment — horizontal, vertical and tilt — in a vehicle,
-- **(b)** has X, Y and Z coordinates, as defined in section 2.2.3 of SAE Recommended Practice J1100 (June 1993), established relative to the designed vehicle structure,
+- **(b)** has X, Y and Z coordinates, as defined in section 3.3 of SAE Recommended Practice J1100, Motor Vehicle Dimensions (February 2001), established relative to the designed vehicle structure,
 - **(c)** simulates the position of the pivot centre of the human torso and thigh, and
-
-
-- **(d)** is the reference point employed to position the H-point template with the 95th percentile leg, described in section 4.1 of SAE Standard J826, Devices for Use in Defining and Measuring Vehicle Seating Accommodation (July 1995), or, if that template cannot be positioned, the reference point when the seat is in its rearmost adjustment position; (*point de référence de position assise*)
+- **(d)** is the reference point employed to position the H-Point template with the 95th percentile leg, as described in section 4.1 of SAE Standard J826, Devices for Use in Defining and Measuring Vehicle Seating Accommodation (July 1995), or, if that template cannot be positioned, the reference point when the seat is in its rearmost adjustment position; (*point de référence de position assise*)
 
 ***seat orientation reference line (SORL)*** means the horizontal line through point Z as illustrated in Figure 1 of sections 213, 213.1 and 213.3; (*ligne repère d’orientation du siège (LROS)*)
 
@@ -745,8 +749,8 @@ except that the volume of fuel referred to in paragraph (b) does not include any
 
 ***95th percentile adult male*** means a person having as physical characteristics a mass of 97.5 kg, height of 1849 mm, erect sitting height of 965 mm, normal sitting height of 930 mm, hip sitting breadth of 419 mm, hip sitting circumference of 1199 mm, waist sitting circumference of 1080 mm, chest depth of 267 mm, chest circumference of 1130 mm, knee height of 594 mm, popliteal height of 490 mm, elbow rest height of 295 mm, thigh clearance height of 175 mm, buttock-to-knee length of 640 mm, buttock-to-poples length of 549 mm, elbow-to-elbow breadth of 506 mm and seat breadth of 404 mm. (*95<sup>e</sup> percentile adulte du sexe masculin*)
 
-- **(2)** In the case of any bench or split-bench seat having more than 1 270 mm of hip room, as measured in accordance with sections 5.1.32, 5.2.31 and 5.4.26 of SAE Recommended Practice J1100 (June 1993), in a passenger car, truck or multi-purpose passenger vehicle having a GVWR of less than 4 536 kg, the seat shall be deemed to contain not less than three designated seating positions, unless the seat design or vehicle design is such that the centre position is not capable of being used as a seating position.
-> SOR/78-257, s. 1; SOR/78-351, s. 1; SOR/78-525, s. 1; SOR/79-306, s. 1; SOR/79-339, s. 1; SOR/79-340, s. 1; SOR/79-374, s. 1; SOR/79-677, s. 1; SOR/79-719, s. 1; SOR/79-940, s. 1; SOR/80-161, s. 1; SOR/80-282, s. 1; SOR/80-439, s. 1; SOR/80-440, s. 1; SOR/80-636, s. 1; SOR/80-638, s. 1; SOR/80-782, s. 1; SOR/81-88, s. 1; SOR/81-1033, s. 1; SOR/82-569, s. 1; SOR/82-656, s. 1; SOR/82-753, s. 1; SOR/82-754, s. 1; SOR/83-176, s. 1; SOR/83-859, s. 1; SOR/84-374, s. 1; SOR/84-812, s. 1; SOR/86-161, s. 1; SOR/86-683, s. 1; SOR/86-976, s. 1; SOR/86-977, s. 1; SOR/87-154, s. 1; SOR/87-497, s. 1; SOR/87-578, s. 1; SOR/87-660, s. 1; SOR/88-268, s. 1; SOR/89-384, s. 1; SOR/90-588, s. 1; SOR/90-805, s. 1; SOR/91-425, s. 1; SOR/91-692, s. 1; SOR/92-173, s. 1; SOR/92-250, s. 1; SOR/92-545, s. 1; SOR/93-5, s. 1; SOR/93-31, s. 1; SOR/93-146, s. 1; SOR/93-561, s. 1; SOR/94-291, s. 1; SOR/94-669, s. 1; SOR/94-670, s. 2(F); SOR/94-692, s. 2(F); SOR/94-717, s. 1; SOR/95-147, s. 1; SOR/95-164, s. 1; SOR/95-536, s. 7; SOR/96-366, s. 1; SOR/97-141, s. 1; SOR/97-200, s. 1; SOR/97-201, s. 1; SOR/97-421, ss. 1, 17, 22(F); SOR/97-447, s. 1; SOR/98-125, s. 1; SOR/98-160, s. 1; SOR/98-457, s. 1; SOR/98-524, s. 1(F); SOR/99-357, s. 1; SOR/2000-182, s. 1; SOR/2000-304, s. 1; SOR/2001-35, s. 1; SOR/2001-117, s. 1; SOR/2001-152, s. 1; SOR/2002-15, s. 25(F); SOR/2002-55, s. 1; SOR/2002-187, s. 1; SOR/2002-205, s. 1; SOR/2003-57, s. 3(F); SOR/2003-272, s. 1; SOR/2004-250, s. 1; SOR/2005-45, s. 1; SOR/2006-94, s. 4(E); SOR/2007-180, s. 1.
+- **(2)** In the case of any bench or split-bench seat having more than 1 270 mm of hip room, as measured in accordance with sections 6.1.34, 6.2.31 and 6.4.27 of SAE Recommended Practice J1100, Motor Vehicle Dimensions (February 2001), in a passenger car, truck or multi-purpose passenger vehicle having a GVWR of less than 4 536 kg, the seat shall be deemed to contain not less than three designated seating positions unless the seat design or vehicle design is such that the centre position is not capable of being used as a seating position.
+> SOR/78-257, s. 1; SOR/78-351, s. 1; SOR/78-525, s. 1; SOR/79-306, s. 1; SOR/79-339, s. 1; SOR/79-340, s. 1; SOR/79-374, s. 1; SOR/79-677, s. 1; SOR/79-719, s. 1; SOR/79-940, s. 1; SOR/80-161, s. 1; SOR/80-282, s. 1; SOR/80-439, s. 1; SOR/80-440, s. 1; SOR/80-636, s. 1; SOR/80-638, s. 1; SOR/80-782, s. 1; SOR/81-88, s. 1; SOR/81-1033, s. 1; SOR/82-569, s. 1; SOR/82-656, s. 1; SOR/82-753, s. 1; SOR/82-754, s. 1; SOR/83-176, s. 1; SOR/83-859, s. 1; SOR/84-374, s. 1; SOR/84-812, s. 1; SOR/86-161, s. 1; SOR/86-683, s. 1; SOR/86-976, s. 1; SOR/86-977, s. 1; SOR/87-154, s. 1; SOR/87-497, s. 1; SOR/87-578, s. 1; SOR/87-660, s. 1; SOR/88-268, s. 1; SOR/89-384, s. 1; SOR/90-588, s. 1; SOR/90-805, s. 1; SOR/91-425, s. 1; SOR/91-692, s. 1; SOR/92-173, s. 1; SOR/92-250, s. 1; SOR/92-545, s. 1; SOR/93-5, s. 1; SOR/93-31, s. 1; SOR/93-146, s. 1; SOR/93-561, s. 1; SOR/94-291, s. 1; SOR/94-669, s. 1; SOR/94-670, s. 2(F); SOR/94-692, s. 2(F); SOR/94-717, s. 1; SOR/95-147, s. 1; SOR/95-164, s. 1; SOR/95-536, s. 7; SOR/96-366, s. 1; SOR/97-141, s. 1; SOR/97-200, s. 1; SOR/97-201, s. 1; SOR/97-421, ss. 1, 17, 22(F); SOR/97-447, s. 1; SOR/98-125, s. 1; SOR/98-160, s. 1; SOR/98-457, s. 1; SOR/98-524, s. 1(F); SOR/99-357, s. 1; SOR/2000-182, s. 1; SOR/2000-304, s. 1; SOR/2001-35, s. 1; SOR/2001-117, s. 1; SOR/2001-152, s. 1; SOR/2002-15, s. 25(F); SOR/2002-55, s. 1; SOR/2002-187, s. 1; SOR/2002-205, s. 1; SOR/2003-57, s. 3(F); SOR/2003-272, s. 1; SOR/2004-250, s. 1; SOR/2005-45, s. 1; SOR/2006-94, s. 4(E); SOR/2007-180, s. 1; SOR/2008-72, s. 1; SOR/2008-73, s. 1.
 
 
 
@@ -2033,7 +2037,7 @@ _________________________
 <tr>
 <td>206</td>
 <td>Door Locks and Door Retention Components</td>
-<td></td>
+<td>X</td>
 <td>X</td>
 <td></td>
 <td></td>
@@ -2736,7 +2740,7 @@ _________________________
 </tr>
 </table>
 
-> SOR/78-80, s. 1; SOR/78-910, s. 1(F); SOR/79-305, s. 1; SOR/79-306, s. 2; SOR/79-339, s. 2; SOR/79-340, s. 2; SOR/79-374, s. 2; SOR/79-677, s. 2; SOR/79-940, s. 5; SOR/80-160, s. 1; SOR/80-161, s. 2; SOR/80-282, s. 2; SOR/80-439, s. 2; SOR/80-639, s. 1(F); SOR/81-88, s. 2; SOR/81-665, s. 1; SOR/82-656, s. 2; SOR/82-753, s. 2; SOR/82-754, s. 2; SOR/83-138, s. 1; SOR/84-812, s. 2; SOR/86-682, s. 1; SOR/86-683, s. 2; SOR/86-975, s. 1; SOR/87-658, s. 1; SOR/87-660, s. 3; SOR/88-268, s. 4; SOR/89-384, ss. 2(F), 3 to 5; SOR/90-805, s. 4; SOR/91-425, s. 3; SOR/92-173, s. 5. SOR/92-250, s. 2(F); SOR/92-545, s. 2(F);SOR/93-31, s. 2; SOR/93-146, s. 3; SOR/93-561, s. 2; SOR/94-291, s. 2; SOR/94-669, s. 2; SOR/95-60, s. 1; SOR/95-147, ss. 5, 15(F); SOR/95-164, s. 2; SOR/96-89, s. 1; SOR/96-366, s. 4; SOR/96-437, s. 1; SOR/97-14, s. 1; SOR/97-141, s. 3; SOR/97-200, s. 2; SOR/97-201, s. 2; SOR/97-376, s. 4; SOR/97-421, s. 2; SOR/97-463, s. 1; SOR/97-532, ss. 1, 2; SOR/98-160, s. 2; SOR/98-457, s. 2; SOR/98-595, s. 1; SOR/99-357, s. 2; SOR/2000-182, s. 4; SOR/2000-304, s. 4; SOR/2001-35, ss. 2, 3; SOR/2001-353, s. 1; SOR/2001-486, s. 1; SOR/2002-55, s. 12; SOR/2002-205, s. 2; SOR/2003-272, s. 6; SOR/2003-359, ss. 1 to 3; SOR/2004-195, s. 1; SOR/2005-45, s. 2; SOR/2006-94, s. 1; SOR/2007-180, ss. 2 to 4; SOR/2007-246, s. 1.
+> SOR/78-80, s. 1; SOR/78-910, s. 1(F); SOR/79-305, s. 1; SOR/79-306, s. 2; SOR/79-339, s. 2; SOR/79-340, s. 2; SOR/79-374, s. 2; SOR/79-677, s. 2; SOR/79-940, s. 5; SOR/80-160, s. 1; SOR/80-161, s. 2; SOR/80-282, s. 2; SOR/80-439, s. 2; SOR/80-639, s. 1(F); SOR/81-88, s. 2; SOR/81-665, s. 1; SOR/82-656, s. 2; SOR/82-753, s. 2; SOR/82-754, s. 2; SOR/83-138, s. 1; SOR/84-812, s. 2; SOR/86-682, s. 1; SOR/86-683, s. 2; SOR/86-975, s. 1; SOR/87-658, s. 1; SOR/87-660, s. 3; SOR/88-268, s. 4; SOR/89-384, ss. 2(F), 3 to 5; SOR/90-805, s. 4; SOR/91-425, s. 3; SOR/92-173, s. 5. SOR/92-250, s. 2(F); SOR/92-545, s. 2(F);SOR/93-31, s. 2; SOR/93-146, s. 3; SOR/93-561, s. 2; SOR/94-291, s. 2; SOR/94-669, s. 2; SOR/95-60, s. 1; SOR/95-147, ss. 5, 15(F); SOR/95-164, s. 2; SOR/96-89, s. 1; SOR/96-366, s. 4; SOR/96-437, s. 1; SOR/97-14, s. 1; SOR/97-141, s. 3; SOR/97-200, s. 2; SOR/97-201, s. 2; SOR/97-376, s. 4; SOR/97-421, s. 2; SOR/97-463, s. 1; SOR/97-532, ss. 1, 2; SOR/98-160, s. 2; SOR/98-457, s. 2; SOR/98-595, s. 1; SOR/99-357, s. 2; SOR/2000-182, s. 4; SOR/2000-304, s. 4; SOR/2001-35, ss. 2, 3; SOR/2001-353, s. 1; SOR/2001-486, s. 1; SOR/2002-55, s. 12; SOR/2002-205, s. 2; SOR/2003-272, s. 6; SOR/2003-359, ss. 1 to 3; SOR/2004-195, s. 1; SOR/2005-45, s. 2; SOR/2006-94, s. 1; SOR/2007-180, ss. 2 to 4; SOR/2007-246, s. 1; SOR/2008-73, s. 2.
 
 
 
@@ -5278,15 +5282,15 @@ General
 
 **(14)** For the purposes of subsections (16) to (25), a driver’s eye position shall be represented by the left and right eye points as defined in SAE Recommended Practice J1050, Describing and Measuring the Driver’s Field of View (August 1994), and shall be at any place within the area defined by a 95th percentile eyellipse in accordance with SAE Recommended Practice J941, Motor Vehicle Drivers’ Eye Locations (June 1997), with the following adaptations:
 
-**(a)** a 50/50 male-to-female ratio must be used for the male/female mix;
+**(a)** a 50/50 male-to-female ratio must be used for the male/female mix; and
 
 
 
-**(b)** “heel point” referred to in that Recommended Practice and in other documents referenced in that Recommended Practice means the “accelerator heel point (AHP)” as defined in SAE Recommended Practice J1100, Motor Vehicle Dimensions (June 1993), and the position of the heel point is that determined by the manufacturer; and
+**(b)** ***heel point*** referred to in that Recommended Practice and in other documents referenced in that Recommended Practice means the ***accelerator heel point (AHP)*** as defined in section 3.16.1 of SAE Recommended Practice J1100, Motor Vehicle Dimensions (February 2001), and the position of the heel point is that determined by the manufacturer.
 
 
 
-**(c)** “seating reference point (SgRP)” referred to in that Recommended Practice and in other documents referenced in that Recommended Practice has the same meaning as in SAE Recommended Practice J1100, Motor Vehicle Dimensions (June 1993).
+**(c)** [Repealed, SOR/2008-72, s. 2]
 
 
 
@@ -5583,7 +5587,7 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/97-463, S. 2
 
 
 
-> SOR/79-940, s. 7; SOR/80-439, s. 3; SOR/82-918, s. 1; SOR/87-658, s. 2; SOR/88-268, s. 6; SOR/95-147, s. 9; SOR/97-463, s. 2; SOR/2002-55, s. 13; SOR/2002-448, s. 1; SOR/2003-272, s. 14; SOR/2006-94, s. 4(E)..
+> SOR/79-940, s. 7; SOR/80-439, s. 3; SOR/82-918, s. 1; SOR/87-658, s. 2; SOR/88-268, s. 6; SOR/95-147, s. 9; SOR/97-463, s. 2; SOR/2002-55, s. 13; SOR/2002-448, s. 1; SOR/2003-272, s. 14; SOR/2006-94, s. 4(E); SOR/2008-72, s. 2..
 
 
 **111.1** [Repealed, SOR/87-658, s. 2]
@@ -5765,7 +5769,7 @@ Immobilization System
 
 
 
-**(ii)** located inside the passenger compartment, and
+**(ii)** located inside the occupant compartment, and
 
 
 
@@ -6355,7 +6359,7 @@ Immobilization System
 
 
 
-> SOR/79-940, s. 7; SOR/82-753, s. 3; SOR/87-660, s. 5; SOR/88-268, s. 7; SOR/88-535, s. 1; SOR/92-545, s. 3; SOR/94-670, s. 2(F); SOR/97-532, s. 3; SOR/2000-182, s. 7; SOR/2000-241, s. 1; SOR/2000-304, s. 5; SOR/2002-55, s. 14; SOR/2003-272, s. 15; SOR/2004-250, s. 3; SOR/2006-94, s. 4(E)..
+> SOR/79-940, s. 7; SOR/82-753, s. 3; SOR/87-660, s. 5; SOR/88-268, s. 7; SOR/88-535, s. 1; SOR/92-545, s. 3; SOR/94-670, s. 2(F); SOR/97-532, s. 3; SOR/2000-182, s. 7; SOR/2000-241, s. 1; SOR/2000-304, s. 5; SOR/2002-55, s. 14; SOR/2003-272, s. 15; SOR/2004-250, s. 3; SOR/2006-94, s. 4(E); SOR/2008-72, s. 3(E)..
 
 
 ### Motor Vehicle Brake Fluids (Standard 116)
@@ -7315,7 +7319,7 @@ Date of Expiration
 
 
 
-> SOR/95-60, s. 2; SOR/2003-272, s. 21; SOR/2006-94, s. 4(E); SOR/2007-180, s. 11..
+> SOR/95-60, s. 2; SOR/2003-272, s. 21; SOR/2006-94, s. 4(E); SOR/2007-180, s. 11; SOR/2008-72, s. 4(F)..
 
 
 ### Driver Impact Protection
@@ -7382,7 +7386,7 @@ Date of Expiration
 
 
 
-**(c)** convertible and open body type vehicles have the top, if any, correctly in place in the configuration of a closed passenger compartment;
+**(c)** convertible and open-body type vehicles have the top, if any, correctly in place in the configuration of a closed occupant compartment;
 
 
 
@@ -7401,7 +7405,7 @@ Date of Expiration
 
 
 
-> SOR/80-440, s. 2; SOR/83-138, s. 4; SOR/90-387, s. 1; SOR/94-692, s. 2(F); SOR/97-201, s. 5; SOR/97-421, s. 22(F); SOR/2006-94, s. 4(E)..
+> SOR/80-440, s. 2; SOR/83-138, s. 4; SOR/90-387, s. 1; SOR/94-692, s. 2(F); SOR/97-201, s. 5; SOR/97-421, s. 22(F); SOR/2006-94, s. 4(E); SOR/2008-72, s. 5..
 
 
 ### Glazing Materials
@@ -7494,24 +7498,40 @@ Date of Expiration
 
 **206** 
 
-**(1)** Every enclosed motorcycle, multi-purpose passenger vehicle, three-wheeled vehicle, passenger car and truck that is equipped with side doors or back doors shall be so equipped in accordance with Technical Standards Document No. 206, Door Locks and Door Retention Components, as amended from time to time (hereinafter referred to as TSD 206).
+**(1)** Subject to subsection (2), every enclosed motorcycle, multi-purpose passenger vehicle, three-wheeled vehicle, passenger car and truck that is equipped with side doors or back doors shall be so equipped in accordance with
+
+**(a)** Technical Standards Document No. 206, Door Locks and Door Retention Components, as amended from time to time (hereinafter referred to as TSD 206); or
 
 
 
-**(2)** For the purposes of section S4(b)(1)(i) of TSD 206, production is the total of the number of vehicles referred to in that paragraph that are manufactured in Canada for sale in Canada and the number of vehicles referred to in that paragraph that are imported into Canada.
-
-
-
-**(3)** Despite section S5.1.1.2 of TSD 206, compliance with section S4.1.1.3 shall be demonstrated in accordance with section 6 of SAE Recommended Practice J839, Passenger Car Side Door Latch Systems (June 1991), or any equivalent tests.
-
-
-
-**(4)** This section expires on January 1, 2010.
+**(b)** the general requirements, performance requirements and test procedures that are set out in ECE Regulation No. 11, entitled Uniform Provisions Concerning the Approval of Motor Vehicles with regard to Door Locks and Door Retention Components, in the version in effect on June 11, 2007, as amended from time to time by any 03 series of amendments subsequent to that date (hereinafter referred to as ECE Regulation No. 11).
 
 
 
 
-> SOR/97-14, s. 2; SOR/2001-116, s. 3; SOR/2002-55, s. 21; SOR/2003-272, s. 23; SOR/2005-42, ss. 7, 8; SOR/2006-94, s. 4(E)..
+
+**(2)** Subject to subsection (5), until August 31, 2009, every enclosed motorcycle, multi-purpose passenger vehicle, three-wheeled vehicle, passenger car and truck that is equipped with side doors or back doors may be so equipped in accordance with TSD 206 as it read on August 23, 1996, instead of in accordance with subsection (1).
+
+
+
+**(3)** Beginning on September 1, 2009, every bus with a GVWR of 4 536 kg or less that is equipped with side doors or back doors shall be so equipped in accordance with subsection (1).
+
+
+
+**(4)** For the purposes of paragraph 6.3.2 of ECE Regulation No. 11, the locking device shall be the device referred to in paragraph 6.3.2.1(a) or (b) of that Regulation.
+
+
+
+**(5)** Despite sections S5.1.1.2 and S5.4.1.2 of TSD 206 as it read on August 23, 1996, compliance with sections S4.1.1.3 and S4.4.1.4 of that document shall be demonstrated in accordance with paragraph S5.1.1.4(a) or (b) of the document referred to in paragraph (1)(a).
+
+
+
+**(6)** This section expires on January 1, 2010.
+
+
+
+
+> SOR/97-14, s. 2; SOR/2001-116, s. 3; SOR/2002-55, s. 21; SOR/2003-272, s. 23; SOR/2005-42, ss. 7, 8; SOR/2006-94, s. 4(E); SOR/2008-73, s. 3..
 
 
 ### Anchorage of Seats
@@ -7863,7 +7883,7 @@ Crash Protection Requirements
 
 **(22)** Where a vehicle is tested in accordance with subsection (23), during the test
 
-**(a)** each anthropomorphic test device shall be completely contained within the outer surface of the vehicle passenger compartment;
+**(a)** each anthropomorphic test device shall be completely contained within the outer surface of the vehicle occupant compartment;
 
 
 
@@ -7954,7 +7974,7 @@ Air Bags
 
 
 
-**(26)** Where a vehicle is equipped at a designated seating position with an air bag, the vehicle shall, if scheduled maintenance or replacement of the air bag is required, have a label permanently affixed within the passenger compartment of the vehicle, in letters of not less than 6 points in height stating, in both official languages, the manufacturer’s recommended maintenance or replacement schedule by
+**(26)** If a vehicle is equipped at a designated seating position with an air bag, the vehicle shall, if scheduled maintenance or replacement of the air bag is required, have a label permanently affixed within the occupant compartment of the vehicle stating, in letters of not less than 6 points in height, in both official languages, the manufacturer’s recommended maintenance or replacement schedule by
 
 **(a)** month and year;
 
@@ -8171,7 +8191,7 @@ Transitional Provisions
 
 
 
-> SOR/78-80, s. 2; SOR/80-782, s. 2; SOR/87-578, s. 2; SOR/90-387, s. 3; SOR/93-5, s. 4; SOR/97-201, s. 5; SOR/97-447, s. 5; SOR/98-125, s. 6; SOR/98-524, s. 4(F); SOR/2002-55, s. 17; SOR/2003-272, s. 24; SOR/2006-94, s. 4(E); SOR/2007-180, s. 12..
+> SOR/78-80, s. 2; SOR/80-782, s. 2; SOR/87-578, s. 2; SOR/90-387, s. 3; SOR/93-5, s. 4; SOR/97-201, s. 5; SOR/97-447, s. 5; SOR/98-125, s. 6; SOR/98-524, s. 4(F); SOR/2002-55, s. 17; SOR/2003-272, s. 24; SOR/2006-94, s. 4(E); SOR/2007-180, s. 12; SOR/2008-72, s. 6..
 
 
 ### Seat Belt Assemblies (Standard 209)
@@ -8300,23 +8320,23 @@ Transitional Provisions
 
 **210** 
 
-**(1)** Subject to subsection (2), seat belt anchorages shall be installed for each designated seating position in a vehicle for the following types of seat belt assemblies:
+**(1)** The following seat belt anchorages shall be installed in a designated seating position in respect of which a seat belt assembly has been installed under section 208:
 
-**(a)** a Type 2 manual seat belt assembly where required by section 208; and
-
-
-
-**(b)** in any other case, a Type 1 or Type 2 manual seat belt assembly.
+**(a)** if a Type 1 seat belt assembly has been installed, seat belt anchorages for a pelvic restraint; or
 
 
 
+**(b)** if a Type 2 seat belt assembly has been installed, seat belt anchorages for a combination pelvic and upper torso restraint.
 
 
-**(2)** Seat belt anchorages need not be installed for a passenger seat in a bus.
 
 
 
-**(2.1)** Only the strength test requirements set out in subsections (7) to (10) apply to enclosed motorcycles.
+**(2)** Only the strength test requirements set out in subsections (7) to (10) apply to enclosed motorcycles.
+
+
+
+**(2.1)** [Repealed, SOR/2008-72, s. 7]
 
 
 
@@ -8340,7 +8360,7 @@ Anchorage Positioning Requirements
 
 
 
-**(iii)** in the case of a seat with a travel of more than 70 mm, a point 63.5 mm to the fore of, and 9.5 mm above, the seating reference point
+**(iii)** in the case of a seat with a travel of more than 70 mm, a point 64 mm to the fore of, and 10 mm above, the seating reference point
 
 
 
@@ -8370,7 +8390,7 @@ to the nearest contact point of the belt with the seat belt anchorage shall exte
 
 **(5)** In the case of each non-adjustable seat belt anchorage for the upper end of an upper torso restraint, the intersection of the longitudinal centreline of the bolt hole and the surface of the mounting structure or, in designs using another means of attachment to the vehicle structure, the centroid of the means shall be located within the range indicated in section 6.1 of SAE Recommended Practice J383, Motor Vehicle Seat Belt Anchorages — Design Recommendations (June 1995), with reference to an H-point template described in section 4.1 of SAE Standard J826, Devices for Use in Defining and Measuring Vehicle Seating Accommodation (July 1995), where
 
-**(a)** the H-point of the template is located at the unique Design H-point of the seat, as defined in section 2.2.11.1 of SAE Recommended Practice J1100 (June 1993), at the full rearward and full downward position of the seat; and
+**(a)** the H-Point of the template is located at the unique Design H-Point of the seat, as defined in section 3.11.1 of SAE Recommended Practice J1100, Motor Vehicle Dimensions (February 2001), at the full rearward and full downward position of the seat; and
 
 
 
@@ -8388,11 +8408,11 @@ Strength Requirements
 
 
 
-**(7)** Except in the case of side-facing seats, when the seat belt anchorages for a Type 1 manual seat belt assembly or for the pelvic portion of a Type 2 manual seat belt assembly that is equipped with a detachable upper torso restraint are tested for strength in accordance with Test Method 210 — Seat Belt Anchorages (December 1996) by applying a force of 22 240 N, none of the seat belt anchorages shall separate completely from the vehicle structure or seat structure.
+**(7)** Except in the case of side-facing seats, when the seat belt anchorages for a Type 1 seat belt assembly or for the pelvic portion of a Type 2 seat belt assembly that is equipped with a detachable upper torso restraint are tested for strength in accordance with Test Method 210 — Seat Belt Anchorages (January 2006) by applying a force of 22 241 N, none of the seat belt anchorages shall separate completely from the vehicle structure or seat structure.
 
 
 
-**(8)** When the seat belt anchorages for the pelvic portion and for the upper torso portion of a Type 2 manual seat belt assembly are tested for strength in accordance with Test Method 210 — Seat Belt Anchorages (December 1996) by simultaneously applying a force of 13 344 N, none of the seat belt anchorages shall separate completely from the vehicle structure or seat structure.
+**(8)** When the seat belt anchorages for the pelvic portion and for the upper torso portion of a Type 2 seat belt assembly are tested for strength in accordance with Test Method 210 — Seat Belt Anchorages (January 2006) by simultaneously applying a force of 13 345 N, none of the seat belt anchorages shall separate completely from the vehicle structure or seat structure.
 
 
 
@@ -8406,7 +8426,7 @@ Strength Requirements
 
 
 
-**(b)** laterally adjacent but not common to the same seat and at least one of the anchorages is located within 304.8 mm of the anchorage for the adjacent seating position, as measured between the vertical centrelines of the bolt holes or, in designs using another means of attachment to the vehicle structure, the centroids of such means.
+**(b)** laterally adjacent but not common to the same seat and at least one of the anchorages is located within 305 mm of the anchorage for the adjacent seating position, as measured between the vertical centrelines of the bolt holes or, in designs using another means of attachment to the vehicle structure, the centroids of those means.
 
 
 
@@ -8416,12 +8436,12 @@ Information Respecting Restraint Systems
 
 
 
-**(11)** The English and French versions of the owner’s manual for a three-wheeled vehicle, passenger car, multi-purpose passenger vehicle or truck with a GVWR of not more than 4 536 kg and rear designated seating positions shall contain a statement indicating that children and infants are safer when properly restrained in a child restraint system or infant restraint system secured in a rear seating position.
+**(11)** The English and French versions of the owner’s manual for a three-wheeled vehicle, passenger car, multi-purpose passenger vehicle, bus or truck with a GVWR of 4 536 kg or less and rear designated seating positions, other than a school bus, shall contain a statement indicating that children and infants are safer when properly restrained in a child restraint system or infant restraint system secured in a rear seating position.
 
 
 
 
-> SOR/90-588, s. 3; SOR/93-5, s. 5; SOR/97-447, s. 7; SOR/2003-57, ss. 1, 3(F), 4(F); SOR/2003-272, s. 25; SOR/2006-94, s. 4(E); SOR/2007-180, s. 14..
+> SOR/90-588, s. 3; SOR/93-5, s. 5; SOR/97-447, s. 7; SOR/2003-57, ss. 1, 3(F), 4(F); SOR/2003-272, s. 25; SOR/2006-94, s. 4(E); SOR/2007-180, s. 14; SOR/2008-72, s. 7..
 
 
 ### User-ready Tether Anchorages for Restraint Systems (Standard 210.1)
@@ -8458,15 +8478,11 @@ Information Respecting Restraint Systems
 
 **(2)** This section does not apply to
 
-**(a)** a convertible;
+**(a)** a designated seating position at which a built-in child restraint system is provided that is not part of a removable vehicle seat; or
 
 
 
-**(b)** an open-body type vehicle; or
-
-
-
-**(c)** a designated seating position at which a built-in child restraint system is provided that is not part of a removable vehicle seat.
+**(b)** a hearse.
 
 
 
@@ -8476,7 +8492,7 @@ General
 
 
 
-**(3)** Subject to subsections (3.2) and (3.3), a user-ready tether anchorage shall be installed
+**(3)** Subject to subsection (3.3), a user-ready tether anchorage shall be installed in a vehicle, other than a convertible or an open-body type vehicle,
 
 **(a)** for each forward-facing designated seating position, other than that of the driver, in a vehicle that has only one row of forward-facing designated seating positions;
 
@@ -8486,11 +8502,11 @@ General
 
 
 
-**(c)** for each of any two forward-facing designated seating positions in the second row of seating positions in a multi-purpose passenger vehicle that has five or fewer designated seating positions;
+**(c)** for all forward-facing designated seating positions that are located to the rear of the first row of designated seating positions in a multi-purpose passenger vehicle that has less than five designated seating positions;
 
 
 
-**(d)** for each of any three forward-facing designated seating positions that are located to the rear of the first row of designated seating positions in a multi-purpose passenger vehicle that has six or more designated seating positions;
+**(d)** for each of any three forward-facing designated seating positions that are located to the rear of the first row of designated seating positions in a multi-purpose passenger vehicle that has five or more designated seating positions;
 
 
 
@@ -8516,7 +8532,7 @@ General
 
 
 
-**(3.2)** A truck that has no forward-facing designated seating position in the second row of seating positions is not required to be equipped with a user-ready tether anchorage before September 1, 2004.
+**(3.2)** [Repealed, SOR/2008-72, s. 8]
 
 
 
@@ -8536,11 +8552,11 @@ Tether Anchorage Positioning
 
 
 
-**(5)** Subject to subsections (6) and (7), the portion of each user-ready tether anchorage that is designed to bind with a tether strap hook shall be located within the shaded zone, as shown in Figures 3 to 7, of the designated seating position for which it is installed, with reference to the H-point of a template described in section 4.1 of SAE Standard J826, Devices for Use in Defining and Measuring Vehicle Seating Accommodation (July 1995), if
+**(5)** Subject to subsections (5.1) and (7), the portion of each user-ready tether anchorage that is designed to bind with a tether strap hook shall be located within the shaded zone, as shown in Figures 3 to 7, of the designated seating position for which it is installed, with reference to the H-point of a template described in section 4.1 of SAE Standard J826, Devices for Use in Defining and Measuring Vehicle Seating Accommodation (July 1995), if
 
-**(a)** the H-point of the template is located
+**(a)** the H-Point of the template is located
 
-**(i)** at the unique Design H-point of the designated seating position, as defined in section 2.2.11.1 of SAE Recommended Practice J1100 (June 1993), at the full downward and full rearward position of the seat, or
+**(i)** at the unique Design H-Point of the designated seating position, as defined in section 3.11.1 of SAE Recommended Practice J1100, Motor Vehicle Dimensions (February 2001), at the full downward and full rearward position of the seat, or
 
 
 
@@ -8564,27 +8580,7 @@ Tether Anchorage Positioning
 
 
 
-**(6)** Until September 1, 2004, the portion of each user-ready tether anchorage that is designed to bind with the tether strap hook may be located, in a passenger car, three-wheeled vehicle or multi-purpose passenger vehicle, within the shaded zone, as shown in Figures 8 to 11, of the designated seating position for which it is installed, with reference to the shoulder reference point of a template described in section 3.1 of SAE Standard J826 (June 1992), if
-
-**(a)** the H-point of the template is located
-
-**(i)** at the unique Design H-point of the designated seating position, as defined in section 2.2.11.1 of SAE Recommended Practice J1100 (June 1993), at the full downward and full rearward position of the seat, or
-
-
-
-**(ii)** in the case of a designated seating position that is equipped with a lower universal anchorage system, midway between the two lower universal anchorage system bars;
-
-
-
-
-
-**(b)** the torso line of the template is at the same angle to the vertical plane as the vehicle seat back with the seat adjusted to its full rearward and full downward position and the seat back in its most upright position; and
-
-
-
-**(c)** the template is positioned in the vertical longitudinal plane that contains the H-point of the template.
-
-
+**(6)** [Repealed, SOR/2008-72, s. 8]
 
 
 
@@ -8598,7 +8594,7 @@ Tether Anchorage Positioning
 
 
 
-**(c)** when tested after being installed as it is intended to be used, is of sufficient strength to withstand, with the user-ready tether anchorage, the load referred to in subsection (8) or (9), as applicable.
+**(c)** when tested after being installed as it is intended to be used, is of sufficient strength to withstand, with the user-ready tether anchorage, the force referred to in subsection (8).
 
 
 
@@ -8608,9 +8604,9 @@ Strength Requirements
 
 
 
-**(8)** Subject to subsections (9) and (10), every user-ready tether anchorage in a row of designated seating positions shall, when tested, withstand the application of a force of 10 000 N
+**(8)** Subject to subsection (10), every user-ready tether anchorage in a row of designated seating positions shall, when tested, withstand the application of a force of 10 000 N
 
-**(a)** applied by means of one of the following types of test devices, installed as a child restraint system would be in accordance with the manufacturer’s installation instructions, namely,
+**(a)** applied by means of one of the following types of test devices, installed as a child restraint system would be in accordance with the vehicle manufacturer’s installation instructions, namely,
 
 **(i)** a test device shown in Figures 12 to 16, or
 
@@ -8644,51 +8640,15 @@ Strength Requirements
 
 
 
-**(9)** Until September 1, 2004, every user-ready tether anchorage in a row of designated seating positions in a passenger car or three-wheeled vehicle may, when tested, subject to subsection (10), withstand the application of a force of 5 300 N, which force shall be
-
-**(a)** applied by means of a belt strap that
-
-**(i)** extends not less than 250 mm forward from the vertical plane touching the rear top edge of the vehicle seat back,
+**(9)** [Repealed, SOR/2008-72, s. 8]
 
 
 
-**(ii)** is fitted at one end with suitable hardware for applying the force and at the other end with a bracket for the attachment of the user-ready tether anchorage, and
+**(10)** If the zones in which tether anchorages are located overlap and if, in the overlap area, a user-ready tether anchorage is installed that is designed to accept the tether strap hooks of two restraint systems simultaneously, both portions of the tether anchorage that are designed to bind with a tether strap hook shall withstand the force referred to in subsection (8) applied to both portions simultaneously.
 
 
 
-**(iii)** passes over the top of the vehicle seat back as shown in Figure 19;
-
-
-
-
-
-**(b)** applied
-
-**(i)** in a forward direction parallel to the vehicle’s longitudinal vertical plane, and
-
-
-
-**(ii)** initially, along a horizontal line or along any line below that line that is at an angle to that line of not more than 20°;
-
-
-
-
-
-**(c)** attained within 30 seconds, at any onset force rate of not more than 135 000 N/s; and
-
-
-
-**(d)** maintained at a 5 300-N level for a minimum of one second.
-
-
-
-
-
-**(10)** If the zones in which tether anchorages are located overlap and if, in the overlap area, a user-ready tether anchorage is installed that is designed to accept the tether strap hooks of two restraint systems simultaneously, both portions of the tether anchorage that are designed to bind with a tether strap hook shall withstand the force referred to in subsection (8) or (9), as the case may be, applied to both portions simultaneously.
-
-
-
-**(11)** If a bench seat in a bus or a row of designated seating positions in another vehicle has more than one user-ready tether anchorage and a distance of 400 mm or more, measured in accordance with Figure 20, separates the midpoints of adjacent designated seating positions, the force referred to in subsection (8), (9) or (10), as the case may be, shall be applied simultaneously to each user-ready tether anchorage in the manner specified in that subsection.
+**(11)** If a bench seat in a bus or a row of designated seating positions in another vehicle has more than one user-ready tether anchorage and a distance of 400 mm or more, measured in accordance with Figure 20, separates the midpoints of adjacent designated seating positions, the force referred to in subsection (8) or (10), as the case may be, shall be applied simultaneously to each user-ready tether anchorage in the manner specified in that subsection.
 
 
 
@@ -8696,16 +8656,74 @@ Strength Requirements
 
 
 
-Figures 1 to 20
+Figures 1 to 7
 
-GRAPHIC IS NOT DISPLAYED, SEE SOR/98-457, S. 3; SOR/2000-44, SS. 2, 3; SOR/2002-205, S. 3; SOR/2003-272, S. 26
-
-
+GRAPHIC IS NOT DISPLAYED, SEE SOR/98-457, S. 3; SOR/2000-44, S. 2
 
 
 
 
-> SOR/86-975, s. 2; SOR/92-545, s. 5; SOR/94-669, s. 3; SOR/95-536, s. 7; SOR/98-457, s. 3; SOR/2000-44, ss. 1 to 3; SOR/2002-205, s. 3; SOR/2003-272, s. 26; SOR/2006-94, ss. 2, 4(E); SOR/2007-180, s. 15..
+
+Figures 8 to 11 [Repealed, SOR/2008-72, s. 8]
+
+
+
+Figures 12 to 16
+
+GRAPHIC IS NOT DISPLAYED, SEE SOR/98-457, S. 3; SOR/2000-44, S. 3
+
+
+
+
+
+Figures 17 and 18 [Repealed, SOR/2002-205, s. 3]
+
+
+
+Figure 19 [Repealed, SOR/2008-72, s. 8]
+
+
+> Image: Diagram showing Measurement of Distance Between Adjacent Designated Seating Positions for Use in Simultaneous Testing with measurements and descriptions.
+
+
+**Legend:**
+
+**d = centre to centre distance between the bars of a lower universal anchorage system for a given seating position (nominal distance of 280 mm)**
+
+
+
+**D = distance between vertical longitudinal planes located midway between the bars of a lower universal anchorage system for a given seating position**
+
+
+
+**SgRP = seating reference point**
+
+
+
+
+
+**Notes:**
+
+**1. Drawing not to scale**
+
+
+
+**2. The midpoint of a designated seating position lies in the vertical longitudinal plane that is equidistant from the vertical longitudinal planes through the geometric centre of each of the two bars of the lower universal anchorage system installed at the seating position. For those designated seating positions that do not have the lower universal anchorage system bars, the midpoint of a designated seating position lies in the vertical longitudinal plane that passes through the SgRP of the seating position**
+
+
+
+**3. The distance shall be measured between the vertical longitudinal planes passing through the midpoints of adjacent designated seating positions along a line perpendicular to the planes**
+
+
+
+
+
+**Figure 20 - Measurement of Distance Between Adjacent Designated Seating Positions for Use in Simultaneous Testing**
+
+
+
+
+> SOR/86-975, s. 2; SOR/92-545, s. 5; SOR/94-669, s. 3; SOR/95-536, s. 7; SOR/98-457, s. 3; SOR/2000-44, ss. 1 to 3; SOR/2002-205, s. 3; SOR/2003-272, s. 26; SOR/2006-94, ss. 2, 4(E); SOR/2007-180, s. 15; SOR/2008-72, s. 8..
 
 
 ### Lower Universal Anchorage Systems for Restraint Systems and Booster Cushions (Standard 210.2)
@@ -8760,9 +8778,13 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/98-457, S. 3; SOR/2000-44, SS. 2, 3; SOR/2002-
 
 
 
-**(iii)** has no seating position located to the rear of the first row of seating positions that is able to accommodate a child restraint fixture shown in Figures 2 to 4.
+**(iii)** has no seating position located to the rear of the first row of seating positions that is able to accommodate a child restraint fixture shown in Figures 2 to 4; or
 
 
+
+
+
+**(d)** a hearse.
 
 
 
@@ -8777,7 +8799,7 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/98-457, S. 3; SOR/2000-44, SS. 2, 3; SOR/2002-
 
 
 
-**(b)** have a diameter of 6 mm ± 0.1 mm and a length of not less than 25 mm;
+**(b)** have a diameter of 6 mm ± 0.1 mm and a length, measured in accordance with Figure 12, of not less than 25 mm;
 
 
 
@@ -8809,7 +8831,7 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/98-457, S. 3; SOR/2000-44, SS. 2, 3; SOR/2002-
 
 
 
-**(c)** in each of two forward-facing designated seating positions that are located to the rear of the first row of seating positions in a multi-purpose passenger vehicle that has more than two rows of seating positions, but at least one lower universal anchorage system must be installed in a seating position in the second row of seating positions;
+**(c)** in two forward-facing designated seating positions that are located to the rear of the first row of seating positions in a multi-purpose passenger vehicle that has more than two rows of seating positions, but at least one lower universal anchorage system must be installed in a seating position in the second row of seating positions;
 
 
 
@@ -8831,11 +8853,11 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/98-457, S. 3; SOR/2000-44, SS. 2, 3; SOR/2002-
 
 
 
-**(5)** Despite paragraph 4(a), a truck that has no forward-facing designated seating position in the second row of seating positions is not required to be equipped with a lower universal anchorage system before September 1, 2004.
+**(5)** [Repealed, SOR/2008-72, s. 9]
 
 
 
-**(6)** A lower universal anchorage system may be installed only at a designated seating position that is equipped with a user-ready tether anchorage, except in the case of a convertible.
+**(6)** A lower universal anchorage system shall be installed only at a designated seating position that is equipped with a user-ready tether anchorage, except in the case of a convertible or an open-body type vehicle.
 
 
 
@@ -8851,7 +8873,7 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/98-457, S. 3; SOR/2000-44, SS. 2, 3; SOR/2002-
 
 
 
-**(10)** Until August 31, 2006, a lower universal anchorage system may consist of horizontal bars that are foldable.
+**(10)** [Repealed, SOR/2008-72, s. 9]
 
 
 
@@ -8873,13 +8895,13 @@ Strength Requirements
 
 **(13)** A lower universal anchorage system installed in a row of designated seating positions shall not separate completely from the vehicle seat or seat anchorage or the structure of the vehicle when tested
 
-**(a)** by pulling with a force of 15 000 N, which force is
+**(a)** subject to subsection (15), by pulling with a force of 15 000 N, which force is
 
-**(i)** applied by means of a test device shown in Figures 7 and 8 that is installed using both the user ready tether anchorage and the lower universal anchorage system as a child restraint system would be installed in accordance with the vehicle manufacturer’s instructions,
+**(i)** applied by means of a test device shown in Figures 7 and 8 that is installed using both the associated user-ready tether anchorage and the lower universal anchorage system as a child restraint system would be installed in accordance with the vehicle manufacturer’s instructions,
 
 
 
-**(ii)** applied in a forward direction parallel to the vehicle’s vertical longitudinal plane through the X point on the test device, starting with a pre-load force of 500 N, maintained for at least two minutes but not more than five minutes,
+**(ii)** applied in a forward direction parallel to the vehicle’s vertical longitudinal plane through the X point on the test device, starting with a pre-load force of 500 N,
 
 
 
@@ -8903,7 +8925,7 @@ Strength Requirements
 
 
 
-**(ii)** applied along a vertical longitudinal plane that is at an angle of 75° ± 5° to either side of a vertical longitudinal plane that is parallel to the vehicle’s longitudinal centre line, through the X point on the test device, starting with a pre-load force of 500 N, maintained for at least two minutes but not more than five minutes,
+**(ii)** applied along a vertical longitudinal plane that is at an angle of 75º ± 5º to either side of a vertical longitudinal plane that is parallel to the vehicle’s longitudinal centre line, through the X point on the test device, starting with a pre-load force of 500 N,
 
 
 
@@ -8923,17 +8945,17 @@ Strength Requirements
 
 
 
-**(14)** When a force of 5 000 N is applied in accordance with paragraph (13)(b), the lower universal anchorage system shall not permit the X point on the test device to be displaced by more than 125 mm, if the test device is installed in an outboard designated seating position, or 150 mm, if the test device is installed in an inboard designated seating position.
+**(14)** When a force of 5 000 N is applied in accordance with paragraph (13)(b), the lower universal anchorage system shall not permit the X point on the test device to be displaced in the direction of the applied force by more than 125 mm if the test device is installed in an outboard designated seating position or by more than 150 mm if the test device is installed in an inboard designated seating position.
 
 
 
-**(15)** Until August 31, 2004, instead of being tested by the application of a force of 15 000 N in accordance with paragraph 13(a), a lower universal anchorage system installed in a row of designated seating positions may be tested by pulling with a force of 8 000 N ± 250 N, during the application of which it shall not separate completely from the vehicle seat or seat anchorage or the structure of the vehicle, and which is
+**(15)** A lower universal anchorage system installed in a designated seating position that is not equipped with an associated user-ready tether anchorage shall be tested by the application of a force of 11 000 N that is
 
-**(a)** applied by means of a test device shown in Figures 7 and 8 that is installed using both the user ready tether anchorage and the lower universal anchorage system, as a child restraint system would be installed in accordance with the vehicle manufacturer’s instructions;
+**(a)** applied by means of a test device shown in Figures 7 and 8 that is installed using only the lower universal anchorage system;
 
 
 
-**(b)** applied in a forward direction, parallel to the vehicle’s vertical longitudinal plane through the X point on the test device, starting with a pre-load force of 500 N ± 25 N;
+**(b)** applied in a forward direction parallel to the vehicle’s vertical longitudinal plane through the X point on the test device, starting with a pre-load force of 500 N;
 
 
 
@@ -8941,11 +8963,11 @@ Strength Requirements
 
 
 
-**(d)** attained within 2 seconds; and
+**(d)** attained within 30 seconds, at any onset force rate of not more than 135 000 N/s; and
 
 
 
-**(e)** maintained at a level of 8 000 N ± 250 N for a minimum of 0.25 seconds ± 0.05 seconds.
+**(e)** maintained at a level of 11 000 N for a minimum of one second.
 
 
 
@@ -9003,7 +9025,7 @@ Information Respecting Lower Universal Anchorage Systems
 
 
 
-**(18)** Subject to subsections (19), (20) and (21), if a lower universal anchorage system is not visible along a line making an upward angle of at least 30° with the horizontal plane without compression of the seat cushion or seat back of the seating position, the presence of each bar of the system shall be indicated by the symbol shown in Figure 10, consisting of a circle containing a pictogram, which symbol shall meet the following conditions:
+**(18)** Subject to subsections (19) and (20), if a lower universal anchorage system is not visible along a line making an upward angle of at least 30° with the horizontal plane without compression of the seat cushion or seat back of the seating position, the presence of each bar of the system shall be indicated by the symbol shown in Figure 10, consisting of a circle containing a pictogram, which symbol shall meet the following conditions:
 
 **(a)** the pictogram shall contrast with the background of the circle;
 
@@ -9043,23 +9065,7 @@ Information Respecting Lower Universal Anchorage Systems
 
 
 
-**(21)** Until August 31, 2004, a manufacturer may
-
-**(a)** replace the symbol shown in Figure 10 by a mark consisting of an inscription in letters, a drawing or a solid or open circle that contrasts with its background, namely, the seat back or seat cushion of the vehicle;
-
-
-
-**(b)** show a contrast only between the seat back or seat cushion of the vehicle and the outlines of a line drawing in the form of the circle and pictogram of the symbol shown in Figure 10;
-
-
-
-**(c)** indicate the presence of only one of the bars of the lower universal anchorage system in the manner provided by subsection (18) or (20); or
-
-
-
-**(d)** place the mark or symbol used to indicate the presence of a lower universal anchorage system in an easily visible location on the seat back or seat cushion of the vehicle instead of in the locations specified in paragraphs 18(c) and (d).
-
-
+**(21)** [Repealed, SOR/2008-72, s. 9]
 
 
 
@@ -9069,15 +9075,7 @@ Information Respecting Lower Universal Anchorage Systems
 
 
 
-**(b)** if, in accordance with paragraph 21(a), a mark other than the symbol shown in Figure 10 is marked on a seat back, seat cushion or cover over the lower universal anchorage system,
-
-**(i)** an explanation that the mark indicates the presence of a lower universal anchorage system, and a reproduction of the mark, and
-
-
-
-**(ii)** an explanation that the symbol shown in Figure 10 indicates the presence of a lower connector system on a child restraint system or booster cushion, and a reproduction of the symbol;
-
-
+**(b)** [Repealed, SOR/2008-72, s. 9]
 
 
 
@@ -9099,16 +9097,72 @@ Information Respecting Lower Universal Anchorage Systems
 
 
 
-Figures 1 to 11
+Figures 1 to 8
 
 GRAPHIC IS NOT DISPLAYED, SEE SOR/2002-205, S. 4
 
 
 
 
+> Image: Diagram showing Measurement of Distance Between Adjacent Designated Seating Positions for Use in Simultaneous Testing with measurements and descriptions.
 
 
-> SOR/2002-205, s. 4; SOR/2003-272, s. 27; SOR/2005-342, s. 4; SOR/2006-94, ss. 3, 4(E)..
+**Legend:**
+
+**d = centre to centre distance between the bars of a lower universal anchorage system for a given seating position (nominal distance of 280 mm)**
+
+
+
+**D = distance between vertical longitudinal planes located midway between the bars of a lower universal anchorage system for a given seating position**
+
+
+
+**SgRP = seating reference point**
+
+
+
+
+
+**Notes:**
+
+**1. Drawing not to scale**
+
+
+
+**2. The midpoint of a designated seating position lies in the vertical longitudinal plane that is equidistant from the vertical longitudinal planes through the geometric centre of each of the two bars of the lower universal anchorage system installed at the seating position. For those designated seating positions that do not have the lower universal anchorage system bars, the midpoint of a designated seating position lies in the vertical longitudinal plane that passes through the SgRP of the seating position**
+
+
+
+**3. The distance shall be measured between the vertical longitudinal planes passing through the midpoints of adjacent designated seating positions along a line perpendicular to the planes**
+
+
+
+
+
+**Figure 9 - Measurement of Distance Between Adjacent Designated Seating Positions for Use in Simultaneous Testing**
+
+
+
+Figures 10 and 11
+
+GRAPHIC IS NOT DISPLAYED, SEE SOR/2002-205, S. 4; SOR/2008-72, S. 9
+
+
+
+
+> Image: Diagram showing Width of Lower Universal Anchorage Bar, Top View with measurement.
+
+
+**Note: Drawing not to scale**
+
+
+
+**Figure 12 — Width of Lower Universal Anchorage Bar, Top View**
+
+
+
+
+> SOR/2002-205, s. 4; SOR/2003-272, s. 27; SOR/2005-342, s. 4; SOR/2006-94, ss. 3, 4(E); SOR/2008-72, s. 9..
 
 
 **211** [Repealed, SOR/97-421, s. 13]
@@ -9191,7 +9245,7 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/2002-205, S. 4
 **(8)** For the purposes of subsection (2), the test shall be conducted on the windshield mounting material and all vehicle components in direct contact with the mounting material at any temperature between -9°C (15°F) and 43°C (110°F).
 
 
-> SOR/80-282, s. 3; SOR/82-274, s. 1; SOR/90-387, s. 2(F); SOR/93-5, s. 6; SOR/94-692, s. 2(F); SOR/95-536, s. 7(F); SOR/97-201, s. 5; SOR/97-421, ss. 17, 22(F); SOR/2003-57, s. 2..
+> SOR/80-282, s. 3; SOR/82-274, s. 1; SOR/90-387, s. 2(F); SOR/93-5, s. 6; SOR/94-692, s. 2(F); SOR/95-536, s. 7(F); SOR/97-201, s. 5; SOR/97-421, ss. 17, 22(F); SOR/2003-57, s. 2; SOR/2008-72, s. 10(F)..
 
 
 
@@ -9221,9 +9275,9 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/2002-205, S. 4
 
 
 
-**(2)** Every built-in child restraint system when tested in accordance with subsection (1) shall, subject to subsection (6), provide restraint against rearward movement of the head of the child by means of a continuous seat back that is an integral part of the system and that has
+**(2)** Every built-in child restraint system when tested in accordance with subsection (1) shall, subject to subsection (6), provide restraint against rearward movement of the head of the anthropomorphic test device by means of a continuous seat back that is an integral part of the system and that has
 
-**(a)** a height, measured along the system seat back surface for the child in the vertical longitudinal plane passing through the longitudinal centre line of the child restraint system from the lowest point on the system seating surface that is contactable by the buttocks of the seated anthropometric test device, of at least 500 mm (20 inches); and
+**(a)** a height, measured along the system seat back surface in the vertical longitudinal plane passing through the longitudinal centre line of the child restraint system from the lowest point on the system seating surface that is contactable by the buttocks of the seated anthropomorphic test device, of at least 500 mm (20 inches); and
 
 
 
@@ -9247,7 +9301,7 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/2002-205, S. 4
 
 **(4)** Every built-in booster cushion, when tested in accordance with subsection (1) shall
 
-**(a)** subject to subsection (6), provide restraint against rearward movement of the head of the child by means of a continuous seat back that is an integral part of the cushion and that
+**(a)** subject to subsection (6), provide restraint against rearward movement of the head of the anthropomorphic test device by means of a continuous seat back that is an integral part of the cushion and that
 
 **(i)** has a height, measured along the cushion seat back surface in the vertical longitudinal plane passing through the longitudinal centre line of the cushion from the lowest point on the cushion seating surface that is contactable by the buttocks of the seated anthropometric test device, of at least 560 mm (22 inches), and
 
@@ -9279,7 +9333,7 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/2002-205, S. 4
 
 
 
-**(d)** subject to subsection (6), provide restraint against rearward movement of the head of the child by means of a continuous seat back that is an integral part of the system and that limits the rearward rotation of the anthropometric test device’s head so that the angle between the head and the torso is at no time during the impact testing greater than 45° as compared to the head-torso angle prior to the test.
+**(d)** subject to subsection (6), provide restraint against rearward movement of the head of the anthropomorphic test device by means of a continuous seat back that is an integral part of the system and that limits the rearward rotation of the anthropomorphic test device’s head so that the angle between the head and the torso is at no time during the impact testing greater than 45° as compared to the head-torso angle prior to the test.
 
 
 
@@ -9419,15 +9473,23 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/2002-205, S. 4
 
 **(17)** Every built-in child restraint system and built-in booster cushion shall have indelibly printed on them, or otherwise permanently affixed to them, a label in both English and French, in a prominent location in letters and numerals of not less than 10 point and on a contrasting background,
 
-**(a)** a statement indicating the recommended range of weights and heights for which children can safely use the restraint;
+**(a)** a statement indicating
+
+**(i)** in the case of a built-in child restraint system, the weight and height range of the children for whom it is designed, as recommended by the manufacturer, and
 
 
 
-**(b)** a statement warning that failure to follow the manufacturer’s instructions on the use of the system or the cushion can result in the child striking the vehicle’s interior during a sudden stop or crash;
+**(ii)** in the case of a built-in booster cushion, that it is for use by persons who weigh at least 18 kg (40 pounds) and who are at least the minimum height recommended by the manufacturer;
 
 
 
-**(c)** in the case of a built-in restraint system that has belts designed to restrain the child, a statement to adjust snugly the belts provided with the system around the child; and
+
+
+**(b)** a statement warning that failure to follow the manufacturer’s instructions on the use of the system or the cushion can result in the person striking the vehicle’s interior during a sudden stop or crash;
+
+
+
+**(c)** in the case of a built-in child restraint system that has belts designed to restrain the child, a statement to adjust snugly the belts provided with the system around the child; and
 
 
 
@@ -9437,11 +9499,11 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/2002-205, S. 4
 
 
 
-**(18)** The recommended weight and height referred to in paragraph (17)(a) shall be expressed in both metric and imperial measurements with the metric measurements stated first, followed by the imperial measurements in parentheses.
+**(18)** The weights and heights referred to in paragraph (17)(a) shall be expressed with the metric measurements stated first, followed by the equivalent imperial measurements in parentheses.
 
 
 
-**(19)** Every built-in child restraint system and built-in booster cushion shall be accompanied by printed instructions in both English and French that provide a step-by-step procedure, including appropriate diagrams, for using the built-in child restraint system or built-in booster cushion, for positioning a child in the system or on the cushion, for adjusting the belts provided and, where applicable, for adjusting the restraint harness to fit the child.
+**(19)** Every built-in child restraint system and built-in booster cushion shall be accompanied by printed instructions in both English and French that provide a step-by-step procedure, including appropriate diagrams, for using the built-in child restraint system or built-in booster cushion, for positioning a person in the system or on the cushion, for adjusting the belts provided and, if applicable, for adjusting the restraint harness to fit the person.
 
 
 
@@ -9458,7 +9520,7 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/2002-205, S. 4
 
 
 
-> SOR/94-669, s. 6; SOR/2007-180, ss. 16, 21..
+> SOR/94-669, s. 6; SOR/2007-180, ss. 16, 21; SOR/2008-72, s. 11..
 
 
 ### Side Door Strength
@@ -10255,7 +10317,7 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/81-665, S. 2.
 
 
 
-> SOR/81-665, s. 2; SOR/97-201, s. 4; SOR/97-421, ss. 17, 22(F)..
+> SOR/81-665, s. 2; SOR/97-201, s. 4; SOR/97-421, ss. 17, 22(F); SOR/2008-72, s. 12(F)..
 
 
 ### Rollover Protection
@@ -11134,7 +11196,7 @@ where
 
 
 
-**(3)** This section does not apply to vehicles equipped with a back door, as defined in section S3 of TSD 401.
+**(3)** This section does not apply to vehicles equipped with a back door, as defined in subsection 2(1) of these Regulations.
 
 
 
@@ -11143,7 +11205,7 @@ where
 
 
 
-> SOR/2007-180, s. 19..
+> SOR/2007-180, s. 19; SOR/2008-73, s. 4..
 
 
 ### Low-speed Vehicles (Standard 500)
