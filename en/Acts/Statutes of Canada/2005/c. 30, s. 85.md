@@ -73,7 +73,14 @@ Assented to on 29 June 2005
 
 ***fiscal equalization offset payment*** means the fiscal equalization offset payment that may be made to the Province for a fiscal year under Part V of the Canada–Nova Scotia Offshore Petroleum Resources Accord Implementation Act.
 
-***fiscal equalization payment*** means the fiscal equalization payment that may be made to the Province for a fiscal year under Part I of the [Federal-Provincial Fiscal Arrangements Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20F-6.md).
+***fiscal equalization payment*** means 
+- **(a)** for the purposes of section 8, the fiscal equalization payment that would be received by the Province for a fiscal year if the amount of that payment were determined in accord-ance with section 3.2 of the [Federal-Provincial Fiscal Arrangements Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20F-6.md), without regard to section 3.4 of that Act; and
+- **(b)** for the purposes of sections 10 to 12, the fiscal equalization payment that would be received by the Province for a fiscal year under Part I of the [Federal-Provincial Fiscal Arrangements Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20F-6.md) if the Province’s total per capita fiscal capacity were the amount determined by the formula
+```
+A + B + (C / F)
+```
+where
+- **A,** B, C and F have the same meaning as in the definition ***total per capita fiscal capacity*** in subsection 3.5(1) of that Act.
 
 ***offshore revenue*** in respect of any fiscal year means the aggregate of the following amounts paid to the Province for that fiscal year:
 - **(a)** amounts paid under paragraph 219(2)(b) of the Canada–Nova Scotia Offshore Petroleum Resources Accord Implementation Act;
@@ -83,6 +90,8 @@ Assented to on 29 June 2005
 ***petroleum*** has the same meaning as in section 2 of the Canada–Nova Scotia Offshore Petroleum Resources Accord Implementation Act.
 
 Version anglaise seulement***Province*** means the Province of Nova Scotia.
+> 2005, c. 30, s. 85 “4”; 2007, c. 29, s. 81.
+
 
 
 
