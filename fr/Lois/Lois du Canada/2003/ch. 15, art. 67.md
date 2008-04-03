@@ -766,7 +766,7 @@ où :
 <td>Council of Lower Kootenay
 
 </td>
-<td>Réserves de Lower Kootenay, sauf la réserve désignée comme St. Mary's No. 1A.
+<td>Réserves de Lower Kootenay, sauf la réserve désignée comme St. Mary’s No. 1A.
 
 </td>
 </tr>
@@ -782,13 +782,24 @@ où :
 </td>
 </tr>
 <tr>
-<td>Première Nation Akisqnuk (aussi connue sous les noms de Columbia Lake Indian Band et de ?Akisq'nuk First Nation)
+<td>Nation Nisga’a, au sens de l’Accord définitif nisga’a tel que ce terme est défini dans la [Loi sur l’Accord définitif nisga’a](/fr/Lois/Lois%20du%20Canada/2000/ch.%207.md), L.C. 2000, ch. 7
+
+</td>
+<td>Gouvernement Nisga’a Lisims, au sens de l’Accord définitif nisga’a tel que ce terme est défini dans la [Loi sur l’Accord définitif nisga’a](/fr/Lois/Lois%20du%20Canada/2000/ch.%207.md), L.C. 2000, ch. 7
+
+</td>
+<td>Terres Nisga’a, au sens de l’Accord définitif nisga’a tel que ce terme est défini dans la [Loi sur l’Accord définitif nisga’a](/fr/Lois/Lois%20du%20Canada/2000/ch.%207.md), L.C. 2000, ch. 7
+
+</td>
+</tr>
+<tr>
+<td>Première Nation Akisqnuk (aussi connue sous les noms de Columbia Lake Indian Band et de ?Akisq’nuk First Nation)
 
 </td>
 <td>Conseil de la Première Nation Akisqnuk
 
 </td>
-<td>Réserves de Columbia Lake, sauf la réserve désignée comme St. Mary's No. 1A.
+<td>Réserves de Columbia Lake, sauf la réserve désignée comme St. Mary’s No. 1A.
 
 </td>
 </tr>
@@ -936,13 +947,13 @@ où :
 </td>
 </tr>
 <tr>
-<td>St. Mary's
+<td>St. Mary’s
 
 </td>
-<td>Council of St. Mary's
+<td>Council of St. Mary’s
 
 </td>
-<td>Réserves de St. Mary's, sauf la réserve désignée comme St.Â Mary's No. 1A.Mary's No. 1A.
+<td>Réserves de St. Mary’s, sauf la réserve désignée comme St.Â Mary’s No. 1A.Mary’s No. 1A.
 
 </td>
 </tr>
@@ -975,7 +986,7 @@ où :
 <td>Council of Tobacco Plains
 
 </td>
-<td>Réserves des Tobacco Plains, sauf la réserve désignée comme St. Mary's No. 1A.
+<td>Réserves des Tobacco Plains, sauf la réserve désignée comme St. Mary’s No. 1A.
 
 </td>
 </tr>
@@ -1014,7 +1025,7 @@ où :
 </tr>
 </table>
 
-> 2003, ch. 15, s. 67 « ann. »; DORS/2004-281; 2005, ch. 19, art. 11; DORS/2005-363; DORS/2006-201, 294; DORS/2007-111; DORS/2007-185, art. 1 et 2.
+> 2003, ch. 15, s. 67 « ann. »; DORS/2004-281; 2005, ch. 19, art. 11; DORS/2005-363; DORS/2006-201, 294; DORS/2007-111; DORS/2007-185, art. 1 et 2; DORS/2008-103.
 
 
 
