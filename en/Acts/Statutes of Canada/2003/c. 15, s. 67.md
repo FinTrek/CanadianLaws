@@ -651,9 +651,15 @@ where
 </td>
 </tr>
 <tr>
-<td>Akisqnuk First Nation (also known as Columbia Lake Indian Band and ?Akisq'nuk First Nation)</td>
-<td>Council of the Akisqnuk First Nation</td>
-<td>Reserves of Columbia Lake, other than the reserve designated as St. Mary's No. 1A.</td>
+<td>Akisqnuk First Nation (also known as Columbia Lake Indian Band and ?Akisq’nuk First Nation)
+
+</td>
+<td>Council of the Akisqnuk First Nation
+
+</td>
+<td>Reserves of Columbia Lake, other than the reserve designated as St. Mary’s No. 1A.
+
+</td>
 </tr>
 <tr>
 <td>Bonaparte
@@ -810,9 +816,15 @@ where
 </td>
 </tr>
 <tr>
-<td>Lower Kootenay</td>
-<td>Council of Lower Kootenay</td>
-<td>Reserves of Lower Kootenay, other than the reserve designated as St. Mary's No. 1A.</td>
+<td>Lower Kootenay
+
+</td>
+<td>Council of Lower Kootenay
+
+</td>
+<td>Reserves of Lower Kootenay, other than the reserve designated as St. Mary’s No. 1A.
+
+</td>
 </tr>
 <tr>
 <td>Muskeg Lake
@@ -822,6 +834,17 @@ where
 
 </td>
 <td>Reserve of Muskeg Lake
+
+</td>
+</tr>
+<tr>
+<td>Nisga’a Nation, within the meaning assigned by the Nisga’a Final Agreement, as defined in the [Nisga’a Final Agreement Act](/en/Acts/Statutes%20of%20Canada/2000/c.%207.md), S.C. 2000, c. 7
+
+</td>
+<td>Nisga’a Lisims Government, within the meaning assigned by the Nisga’a Final Agreement, as defined in the [Nisga’a Final Agreement Act](/en/Acts/Statutes%20of%20Canada/2000/c.%207.md), S.C. 2000, c. 7
+
+</td>
+<td>Nisga’a Lands, within the meaning assigned by the Nisga’a Final Agreement, as defined in the [Nisga’a Final Agreement Act](/en/Acts/Statutes%20of%20Canada/2000/c.%207.md), S.C. 2000, c. 7
 
 </td>
 </tr>
@@ -881,9 +904,15 @@ where
 </td>
 </tr>
 <tr>
-<td>St. Mary's</td>
-<td>Council of St. Mary's</td>
-<td>Reserves of St. Mary's, other than the reserve designated as St. Mary's No. 1A.</td>
+<td>St. Mary’s
+
+</td>
+<td>Council of St. Mary’s
+
+</td>
+<td>Reserves of St. Mary’s, other than the reserve designated as St. Mary’s No. 1A.
+
+</td>
 </tr>
 <tr>
 <td>Ta’an Kwach’an Council
@@ -930,9 +959,15 @@ where
 </td>
 </tr>
 <tr>
-<td>Tobacco Plains</td>
-<td>Council of Tobacco Plains</td>
-<td>Reserves of Tobacco Plains, other than the reserve designated as St. Mary's No. 1A.</td>
+<td>Tobacco Plains
+
+</td>
+<td>Council of Tobacco Plains
+
+</td>
+<td>Reserves of Tobacco Plains, other than the reserve designated as St. Mary’s No. 1A.
+
+</td>
 </tr>
 <tr>
 <td>Tr’ondëk Hwëch’in
@@ -991,7 +1026,7 @@ where
 </tr>
 </table>
 
-> 2003, c. 15, s. 67 "Sch."; SOR/2004-281; 2005, c. 19, s. 11; SOR/2005-363; SOR/2006-201, 294; SOR/2007-111; DORS/2007-185, ss. 1, 2.
+> 2003, c. 15, s. 67 “Sch.”; SOR/2004-281; 2005, c. 19, s. 11; SOR/2005-363; SOR/2006-201, 294; SOR/2007-111; SOR/2007-185, ss. 1, 2; SOR/2008-103.
 
 
 
