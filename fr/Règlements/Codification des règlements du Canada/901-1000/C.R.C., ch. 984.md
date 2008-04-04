@@ -26,8 +26,12 @@ Autorités habilitantes :
 
 ***Loi*** désigne la [Loi sur les juges](/fr/Lois/Lois%20révisées%20du%20Canada/J/J-1.md); (*Act*)
 
-***nouvelle résidence*** La résidence d’un juge qui est située dans le lieu ou dans la région où il est tenu de résider pour exercer ses fonctions ou la résidence dans laquelle le juge, son survivant ou son enfant s’établit dans les deux ans qui suivent sa retraite, sa démission ou son décès. (*new residence*) 
-> TR/79-130, art. 1; TR/91-16, art. 1(F); TR/2003-143, art. 3.
+***nouvelle résidence*** La résidence d’un juge :
+- **a)** soit qui est située dans le lieu ou dans la région où il est tenu de résider pour exercer ses fonctions;
+- **b)** soit dans laquelle, selon le cas :
+	- **(i)** il s’établit au cours de l’une des périodes de deux ans prévues aux alinéas 40(1)c) et e) de la Loi,
+	- **(ii)** son survivant ou son enfant s’établit dans les deux ans qui suivent son décès. (*new residence*)
+> TR/79-130, art. 1; TR/91-16, art. 1(F); TR/2003-143, art. 3; TR/2007-48, art. 1.
 
 
 
@@ -56,7 +60,9 @@ Autorités habilitantes :
 	- **k)** dans le cas où le juge est tenu de s’installer dans un nouveau lieu de résidence par suite d’une nomination ou d’une mutation, les frais de déplacement et de subsistance qu’il engage avant d’y établir sa nouvelle résidence permanente, ou pour rendre visite à l’occasion aux membres de sa maisonnée qui habitent encore l’ancienne résidence, pendant une période de six mois suivant la date de sa nomination ou de sa mutation.
 
 - **(2)** Si, en raison des conditions défavorables du marché immobilier, l’ancienne résidence du juge ne peut être vendue dans la période de six mois visée aux alinéas (1)j) ou k), le gouverneur en conseil peut autoriser une période additionnelle raisonnable dans les circonstances.
-> TR/78-107, art. 1; TR/83-46, art. 1; TR/86-99, art. 1; TR/91-16, art. 2; TR/2003-143, art. 4.
+
+- **(3)** Il est entendu que les frais de déplacement visés à l’alinéa (1)a) ne comprennent pas les frais que le juge a engagés au cours de la période visée au sous-alinéa b)(i) de la définition de ***nouvelle résidence*** à l’article 2 après s’être établi dans sa nouvelle résidence ni ceux qu’il a engagés pour rendre visite, à l’occasion, aux membres de sa maisonnée pendant cette période.
+> TR/78-107, art. 1; TR/83-46, art. 1; TR/86-99, art. 1; TR/91-16, art. 2; TR/2003-143, art. 4; TR/2007-48, art. 2.
 
 
 
