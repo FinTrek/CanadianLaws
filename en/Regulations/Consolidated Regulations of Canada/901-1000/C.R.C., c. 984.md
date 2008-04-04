@@ -26,8 +26,12 @@ Enabling authorities:
 
 ***former residence*** of a judge means the residence that a judge had immediately before that judge was required to change the judge’s place of residence to assume or perform the functions or duties of a judge, or, in the case of the judge’s retirement, resignation or death, the residence at the place or in the area where the judge was required to reside to assume or perform the judge’s function or duties as a judge; (*ancienne résidence*)
 
-***new residence*** of a judge means the residence at the place or in the area where a judge is required to reside to assume or perform the judge’s functions and duties as a judge, or the residence to which the judge or the judge’s survivor or child chooses to move within two years of the judge’s retirement, resignation or death. (*nouvelle résidence*) 
-> SI/79-130, s. 1; SI/91-16, s. 1(F); SI/2003-143, s. 3.
+***new residence*** of a judge means the residence
+- **(a)** at the place or in the area where the judge is required to reside to assume or perform the judge’s functions and duties as a judge, or
+- **(b)** to which
+	- **(i)** the judge moves during one of the two-year periods referred to in paragraphs 40(1)(c) and (e) of the Act, or
+	- **(ii)** the judge’s survivor or child moves within two years after the judge’s death. (*nouvelle résidence*)
+> SI/79-130, s. 1; SI/91-16, s. 1(F); SI/2003-143, s. 3; SI/2007-48, s. 1.
 
 
 
@@ -56,7 +60,9 @@ Enabling authorities:
 	- **(k)** where a judge is required to move to a new place of residence on appointment or transfer, the travelling and lodging costs, including amounts expended for meals, incurred by the judge before the establishment of the permanent new residence or in order to visit from time to time members of the judge’s household still resident in the former residence, within the six-month period after the judge’s appointment or transfer.
 
 - **(2)** Where, on account of unfavourable conditions in the real estate market, the judge’s former residence cannot be sold within the six month period referred to in paragraph (1)(j) or (k), the Governor in Council may prescribe such an additional period as is reasonable in the circumstances.
-> SI/78-107, s. 1; SI/83-46, s. 1; SI/86-99, s. 1; SI/91-16, s. 2; SI/2003-143, s. 4.
+
+- **(3)** For greater certainty, the travelling costs referred to in paragraph (1)(a) do not include those incurred by the judge after the establishment of the judge in the new residence during one of the periods referred to in subparagraph (b)(i) of the definition ***new residence*** in section 2 or those incurred by the judge in order to visit from time to time members of the judge’s household during one of those periods.
+> SI/78-107, s. 1; SI/83-46, s. 1; SI/86-99, s. 1; SI/91-16, s. 2; SI/2003-143, s. 4; SI/2007-48, s. 2.
 
 
 
