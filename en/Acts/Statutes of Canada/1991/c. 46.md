@@ -9235,6 +9235,23 @@ a bank is, on the acquisition of that warehouse receipt or bill of lading, veste
 
 
 
+**Regulations — aircraft objects**
+
+**436.1** 
+
+- **(1)** The Governor in Council may make regulations respecting the application of sections 426 to 436 to aircraft objects, including regulations
+	- **(a)** removing classes of aircraft objects from the application of those sections or reinstating their application to those classes of aircraft objects; and
+	- **(b)** eliminating rights and powers acquired under those sections in relation to aircraft objects.
+
+**Definition of aircraft objects**
+
+- **(2)** In subsection (1), aircraft objects has the same meaning as in subsection 2(1) of the [International Interests in Mobile Equipment (aircraft equipment) Act](/en/Acts/Statutes%20of%20Canada/2005/c.%203.md).
+> 2005, c. 3, s. 10.
+
+
+
+
+
 #### Deposit Acceptance
 
 
