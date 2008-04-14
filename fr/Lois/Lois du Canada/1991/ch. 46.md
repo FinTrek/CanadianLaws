@@ -9081,6 +9081,23 @@ la banque est, dès l’acquisition du récépissé d’entrepôt ou du connaiss
 
 
 
+**Règlement — biens aéronautiques**
+
+**436.1** 
+
+- **(1)** Le gouverneur en conseil peut, par règlement, régir l’application des articles 426 à 436 aux biens aéronautiques, et notamment :
+	- **a)** soustraire toute catégorie de biens aéronautiques à l’application de ces articles ou rétablir leur application à son égard;
+	- **b)** supprimer les droits et pouvoirs acquis sous le régime de ces articles relativement aux biens aéronautiques.
+
+**Définition de biens aéronautiques**
+
+- **(2)** Au paragraphe (1), biens aéronautiques s’entend au sens du paragraphe 2(1) de la [Loi sur les garanties internationales portant sur des matériels d’équipement mobiles (matériels d’équipement aéronautiques)](/fr/Lois/Lois%20du%20Canada/2005/ch.%203.md).
+> 2005, ch. 3, art. 10.
+
+
+
+
+
 #### Dépôts
 
 
