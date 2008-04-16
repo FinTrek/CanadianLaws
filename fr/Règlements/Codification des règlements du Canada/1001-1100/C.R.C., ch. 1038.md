@@ -42,7 +42,7 @@ Autorités habilitantes :
 
 ***année de modèle*** désigne l’année utilisée pour désigner un modèle de véhicule distinct, indépendamment de l’année civile réelle de production du véhicule, dans la mesure où la période de production est inférieure à deux ans; (*model year*)
 
-***ANSI*** L’*American National Standards Institute*. (*ANSI*)
+***ANSI*** L’American National Standards Institute. (*ANSI*)
 
 ***ANS Z26***[Abrogée, DORS/94-717, art. 1]
 
@@ -429,7 +429,7 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 
 ***motocyclette à vitesse limitée*** Motocyclette qui, à la fois :
 - **a)** a un guidon dont la rotation se transmet sans intermédiaire à l’axe d’une seule roue en contact avec le sol;
-- **b)** peut atteindre une vitesse maximale de 70 km/h, déterminée conformément à la norme ISO 7117-1981 de l’Organisation internationale de normalisation, intitulée Véhicules routiers — Méthode de mesurage de la vitesse maximale des motocyclettes;
+- **b)** a une vitesse maximale de 70 km/h ou moins, mesurée conformément à la norme ISO 7117-1981 de l’Organisation internationale de normalisation, intitulée Véhicules routiers — Méthode de mesurage de la vitesse maximale des motocyclettes;
 - **c)** a un siège d’une hauteur minimale, sans charge, de 650 mm;
 - **d)** ne comporte pas une structure renfermant partiellement ou complètement le conducteur et son passager, autre que la partie du véhicule située devant le torse du conducteur et le dossier du siège. (*limited-speed motorcycle*)
 
@@ -555,7 +555,7 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 
 ***remorque pour charges longues*** désigne un véhicule conçu pour être traîné par un autre véhicule au moyen d’une barre d’assemblage ou d’un timon ou pour être attaché ou autrement fixé au véhicule remorqueur, utilisé pour le transport de charges longues ou de forme irrégulière comme les poteaux, les tuyaux, les pièces de charpente et autres articles pouvant généralement se maintenir comme des poutres placées entre des points d’appui; (*pole trailer*)
 
-***remorque pour embarcation*** Remorque conçue pour transporter une embarcation et munie d’un échafaudage genre berceau permettant le lancement de l’embarcation par l’arrière. (*boat trailer*)
+***remorque pour embarcation***[Abrogée, DORS/2008-104, art. 1]
 
 ***remorque pour motoneige*** désigne une remorque conçue essentiellement pour le transport des motoneiges ou des traîneaux de motoneige; (*snowmobile trailer*)
 
@@ -750,7 +750,7 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 ***95<sup>e</sup> percentile adulte du sexe masculin*** Personne ayant pour caractéristiques physiques une masse de 97,5 kg, une taille de 1 849 mm, une hauteur en position assise droite de 965 mm, une hauteur en position assise normale de 930 mm, une largeur de hanches en position assise de 419 mm, un tour de hanches en position assise de 1 199 mm, un tour de ceinture en position assise de 1 080 mm, une profondeur de poitrine de 267 mm, un tour de poitrine de 1 130 mm, une hauteur de genoux de 594 mm, une hauteur de jarret de 490 mm, une hauteur de coude en position assise de 295 mm, une épaisseur de cuisses de 175 mm, une distance fesse-genou de 640 mm, une distance fesse-jarret de 549 mm, un écart entre les coudes de 506 mm et une largeur de siège de 404 mm. (*95th percentile adult male*)
 
 - **(2)** Dans le cas d’une banquette unie ou divisée offrant plus de 1 270 mm au niveau des hanches, valeur mesurée conformément aux articles 6.1.34, 6.2.31 et 6.4.27 de la pratique recommandée J1100 de la SAE intitulée *Motor Vehicle Dimensions* (février 2001), dans une voiture de tourisme, un camion ou un véhicule de tourisme à usages multiples qui ont un PNBV inférieur à 4 536 kg, la banquette est censée comprendre au moins trois places assises désignées, à moins que la conception de la banquette ou du véhicule soit telle que l’espace central ne peut servir de place assise.
-> DORS/78-257, art. 1; DORS/78-351, art. 1; DORS/78-525, art. 1; DORS/79-306, art. 1; DORS/79-339, art. 1; DORS/79-340, art. 1; DORS/79-374, art. 1; DORS/79-677, art. 1; DORS/79-719, art. 1; DORS/79-940, art. 1; DORS/80-161, art. 1; DORS/80-282, art. 1; DORS/80-439, art. 1; DORS/80-440, art. 1; DORS/80-636, art. 1; DORS/80-638, art. 1; DORS/80-782, art. 1; DORS/81-88, art. 1; DORS/81-1033, art. 1; DORS/82-569, art. 1; DORS/82-656, art. 1; DORS/82-753, art. 1; DORS/82-754, art. 1; DORS/83-176, art. 1; DORS/83-859, art. 1; DORS/84-374, art. 1; DORS/84-812, art. 1; DORS/86-161, art. 1; DORS/86-683, art. 1; DORS/86-976, art. 1; DORS/86-977, art. 1; DORS/87-154, art. 1; DORS/87-497, art. 1; DORS/87-578, art. 1; DORS/87-660, art. 1; DORS/88-268, art. 1; DORS/89-384, art. 1; DORS/90-588, art. 1; DORS/90-805, art. 1; DORS/91-425, art. 1; DORS/91-692, art. 1; DORS/92-173, art. 1; DORS/92-250, art. 1; DORS/92-545, art. 1; DORS/93-5, art. 1; DORS/93-31, art. 1; DORS/93-146, art. 1; DORS/93-561, art. 1; DORS/94-291, art. 1; DORS/94-669, art. 1; DORS/94-670, art. 2(F); DORS/94-692, art. 2(F); DORS/94-717, art. 1; DORS/95-147, art. 1; DORS/95-164, art. 1; DORS/95-536, art. 7; DORS/96-366, art. 1; DORS/97-141, art. 1; DORS/97-200, art. 1; DORS/97-201, art. 1; DORS/97-421, art. 1, 17 et 22(F); DORS/97-447, art. 1; DORS/98-125, art. 1; DORS/98-160, art. 1; DORS/98-457, art. 1; DORS/98-524, art. 1(F); DORS/99-357, art. 1; DORS/2000-182, art. 1; DORS/2000-304, art. 1; DORS/2001-35, art. 1; DORS/2001-117, art. 1; DORS/2001-152, art. 1; DORS/2002-15, art. 25(F); DORS/2002-55, art. 1; DORS/2002-187, art. 1; DORS/2002-205, art. 1; DORS/2003-57, art. 3(F); DORS/2003-272, art. 1; DORS/2004-250, art. 1; DORS/2005-45, art. 1; DORS/2006-94, art. 4(A); DORS/2007-180, art. 1; DORS/2008-72, art. 1; DORS/2008-73, art. 1.
+> DORS/78-257, art. 1; DORS/78-351, art. 1; DORS/78-525, art. 1; DORS/79-306, art. 1; DORS/79-339, art. 1; DORS/79-340, art. 1; DORS/79-374, art. 1; DORS/79-677, art. 1; DORS/79-719, art. 1; DORS/79-940, art. 1; DORS/80-161, art. 1; DORS/80-282, art. 1; DORS/80-439, art. 1; DORS/80-440, art. 1; DORS/80-636, art. 1; DORS/80-638, art. 1; DORS/80-782, art. 1; DORS/81-88, art. 1; DORS/81-1033, art. 1; DORS/82-569, art. 1; DORS/82-656, art. 1; DORS/82-753, art. 1; DORS/82-754, art. 1; DORS/83-176, art. 1; DORS/83-859, art. 1; DORS/84-374, art. 1; DORS/84-812, art. 1; DORS/86-161, art. 1; DORS/86-683, art. 1; DORS/86-976, art. 1; DORS/86-977, art. 1; DORS/87-154, art. 1; DORS/87-497, art. 1; DORS/87-578, art. 1; DORS/87-660, art. 1; DORS/88-268, art. 1; DORS/89-384, art. 1; DORS/90-588, art. 1; DORS/90-805, art. 1; DORS/91-425, art. 1; DORS/91-692, art. 1; DORS/92-173, art. 1; DORS/92-250, art. 1; DORS/92-545, art. 1; DORS/93-5, art. 1; DORS/93-31, art. 1; DORS/93-146, art. 1; DORS/93-561, art. 1; DORS/94-291, art. 1; DORS/94-669, art. 1; DORS/94-670, art. 2(F); DORS/94-692, art. 2(F); DORS/94-717, art. 1; DORS/95-147, art. 1; DORS/95-164, art. 1; DORS/95-536, art. 7; DORS/96-366, art. 1; DORS/97-141, art. 1; DORS/97-200, art. 1; DORS/97-201, art. 1; DORS/97-421, art. 1, 17 et 22(F); DORS/97-447, art. 1; DORS/98-125, art. 1; DORS/98-160, art. 1; DORS/98-457, art. 1; DORS/98-524, art. 1(F); DORS/99-357, art. 1; DORS/2000-182, art. 1; DORS/2000-304, art. 1; DORS/2001-35, art. 1; DORS/2001-117, art. 1; DORS/2001-152, art. 1; DORS/2002-15, art. 25(F); DORS/2002-55, art. 1; DORS/2002-187, art. 1; DORS/2002-205, art. 1; DORS/2003-57, art. 3(F); DORS/2003-272, art. 1; DORS/2004-250, art. 1; DORS/2005-45, art. 1; DORS/2006-94, art. 4(A); DORS/2007-180, art. 1; DORS/2008-72, art. 1; DORS/2008-73, art. 1; DORS/2008-104, art. 1.
 
 
 
@@ -1144,14 +1144,14 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 
 **10** 
 
-- **(1)** L’entreprise tient, par écrit ou sous forme électronique ou optique facilement lisible, les dossiers visés à l’alinéa 5(1)g) de la Loi qui démontrent que les véhicules qu’elle fabrique ou importe sont conformes aux normes réglementaires qui lui sont applicables, et les conserve pour une période d’au moins cinq ans suivant la date de fabrication ou d’importation.
+- **(1)** Pour chaque véhicule sur lequel la marque nationale de sécurité est apposée, l’entreprise tient, par écrit ou sous forme électronique ou optique facilement lisible, les dossiers visés à l’alinéa 5(1)g) de la Loi qui démontrent que le véhicule est conforme aux normes réglementaires qui lui sont applicables, et les conserve pour une période d’au moins cinq ans suivant la date de fabrication ou d’importation.
 
 - **(2)** L’entreprise qui fait tenir les dossiers visés au paragraphe (1) par une autre personne conserve le nom et l’adresse de cette personne.
 
 - **(3)** Sur demande écrite d’un inspecteur, l’entreprise envoie à celui-ci une copie des dossiers visés au paragraphe (1), dans l’une ou l’autre langue officielle :
 	- **a)** dans les 30 jours ouvrables qui suivent la date de mise à la poste de la demande;
 	- **b)** dans le cas où les dossiers doivent être traduits, dans les 45 jours ouvrables qui suivent la date de mise à la poste de la demande.
-> DORS/79-940, art. 3; DORS/87-450, art. 1; DORS/88-536, art. 1; DORS/95-147, art. 2; DORS/98-524, art. 2.
+> DORS/79-940, art. 3; DORS/87-450, art. 1; DORS/88-536, art. 1; DORS/95-147, art. 2; DORS/98-524, art. 2; DORS/2008-104, art. 2.
 
 
 
@@ -1362,10 +1362,10 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 
 - **(3)** Pour l’application du paragraphe 10(6) de la Loi, les rapports trimestriels à présenter, à la suite du rapport visé au paragraphe (2) contiennent les renseignements suivants :
 	- **a)** le numéro, le titre ou la désignation attribués à l’avis de défaut par l’entreprise;
-	- **b)** le nombre de véhicules visés;
+	- **b)** le nombre révisé de véhicules visés par l’avis de défaut, le cas échéant;
 	- **c)** les dates auxquelles les avis de défaut ont été donnés aux propriétaires actuels des véhicules;
 	- **d)** le nombre ou le pourcentage des véhicules corrigés, y compris ceux qui n’ont nécessité qu’une inspection.
-> DORS/95-147, art. 2; DORS/98-524, art. 3.
+> DORS/95-147, art. 2; DORS/98-524, art. 3; DORS/2008-104, art. 3.
 
 
 
@@ -1378,8 +1378,8 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 
 - **(1)** Des documents contenant des méthodes d’essai de sécurité des véhicules automobiles sont publiés par le ministère des Transports sous le titre principal Méthode d’essai, suivi d’un numéro d’identification, d’un titre descriptif et de la date de publication.
 
-- **(2)** Il est possible d’obtenir toute méthode d’essai en écrivant au directeur général de la Direction générale de la sécurité routière et de la réglementation automobile, à l’adresse suivante : Transports Canada, 330, rue Sparks, Ottawa (Ontario) K1A 0N5.
-> DORS/97-141, art. 2; DORS/97-421, art. 16.
+- **(2)** [Abrogé, DORS/2008-104, art. 4]
+> DORS/97-141, art. 2; DORS/97-421, art. 16; DORS/2008-104, art. 4.
 
 
 
@@ -1390,10 +1390,10 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 
 **16** 
 
-- **(1)** Pour l’application de l’article 12 de la Loi, tout document de normes techniques, y compris toute modification apportée à ce document, est publié par le ministère des Transports et porte le titre principal Document de normes techniques, suivi d’un numéro d’identification, d’un titre descriptif et de la date de publication.
+- **(1)** Pour l’application de l’article 12 de la Loi, tout document de normes techniques, y compris toute modification apportée à ce document, est publié par le ministère des Transports et porte le titre principal Document de normes techniques, suivi d’un numéro d’identification, d’un titre descriptif et de la date de publication.
 
-- **(2)** Il est possible d’obtenir tout document de normes techniques en écrivant au directeur général de la Direction générale de la sécurité routière et de la réglementation automobile, à l’adresse suivante : Transports Canada, 330, rue Sparks, Ottawa (Ontario) K1A 0N5.
-> DORS/96-366, art. 3; DORS/97-421, art. 16.
+- **(2)** [Abrogé, DORS/2008-104, art. 5]
+> DORS/96-366, art. 3; DORS/97-421, art. 16; DORS/2008-104, art. 5.
 
 
 
@@ -1428,29 +1428,34 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 
 ### **ANNEXE II** 
 **(article 3)**
-## Canada
 ## Ministère des Transports
 ## Loi sur la sécurité automobile (paragraphe 3(2))
 ## Règlement sur la sécurité des véhicules automobiles (article 3)
 
 ## Autorisation du ministre
 
-En vertu de la [Loi sur la sécurité automobile](/fr/Lois/Lois%20du%20Canada/1993/ch.%2016.md), le ministre des Transports autorise par les présentes [ nom et adresse ] à utiliser et à apposer, dans ses locaux situés au lieu suivant : [ lieu ], la marque nationale de sécurité et le numéro d’autorisation [ n<sup>o</sup> ] sur tout véhicule d’une catégorie réglementaire, pourvu que le véhicule et ses pièces soient conformes aux normes de sécurité des véhicules automobiles du Canada applicables.
+En vertu de la [Loi sur la sécurité automobile](/fr/Lois/Lois%20du%20Canada/1993/ch.%2016.md) et du Règlement sur la sécurité des véhicules automobiles,
+
+[nom et adresse de l’entreprise]
 
 
-Date d’expiration : _________________________
+
+est autorisée à utiliser et à apposer, sur tout véhicule d’une catégorie visée à l’article 4 du Règlement sur la sécurité des véhicules automobiles, la marque nationale de sécurité et le numéro d’autorisation _________________________, pourvu que le véhicule et ses pièces soient conformes à toutes les Normes de sécurité des véhicules automobiles du Canada qui s’appliquent.
 
 
-Fait à Ottawa, le _________________________ 19_________________________
 
 
-_________________________
+La marque nationale de sécurité et le numéro d’autorisation sont apposés aux locaux suivants : [identification des locaux]
 
 
-*pour le ministre des Transports*
+Cette autorisation du ministre expire _________________________
 
 
-> DORS/95-147, art. 4.
+Fait à Ottawa, le _________________________ 20_________________________
+
+
+<p>_________________________<br />pour le ministre des Transports, de l’Infrastructure et des Collectivités<br /></p>
+> DORS/95-147, art. 4; DORS/2008-104, art. 6.
 
 
 
@@ -2516,7 +2521,7 @@ _________________________
 </tr>
 <tr>
 <td>401</td>
-<td>Mécanisme de déverrouillage</td>
+<td>Mécanisme de déverrouillage du coffre interne</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2725,8 +2730,8 @@ _________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 <td>X</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2740,7 +2745,7 @@ _________________________
 </tr>
 </table>
 
-> DORS/78-80, art. 1; DORS/78-910, art. 1(F); DORS/79-305, art. 1; DORS/79-306, art. 2; DORS/79-339, art. 2; DORS/79-340, art. 2; DORS/79-374, art. 2; DORS/79-677, art. 2; DORS/79-940, art. 5; DORS/80-160, art. 1; DORS/80-161, art. 2; DORS/80-282, art. 2; DORS/80-439, art. 2; DORS/80-639, art. 1(F); DORS/81-88, art. 2; DORS/81-665, art. 1; DORS/82-656, art. 2; DORS/82-753, art. 2; DORS/82-754, art. 2; DORS/83-138, art. 1; DORS/84-812, art. 2; DORS/86-682, art. 1; DORS/86-683, art. 2; DORS/86-975, art. 1; DORS/87-658, art. 1; DORS/87-660, art. 3; DORS/88-268, art. 4; DORS/89-384, art. 2(F) et 3 à 5; DORS/90-805, art. 4; DORS/91-425, art. 3; DORS/92-173, art. 5; DORS/92-250, art. 2(F); DORS/92-545, art. 2(F); DORS/93-31, art. 2; DORS/93-146, art. 3; DORS/93-561, art. 2; DORS/94-291, art. 2; DORS/94-669, art. 2; DORS/95-60, art. 1; DORS/95-147, art. 5 et 15(F); DORS/95-164, art. 2; DORS/96-89, art. 1; DORS/96-366, art. 4; DORS/96-437, art. 1; DORS/97-14, art. 1; DORS/97-141, art. 3; DORS/97-200, art. 2; DORS/97-201, art. 2; DORS/97-376, art. 4; DORS/97-421, art. 2; DORS/97-463, art. 1; DORS/97-532, art. 1 et 2; DORS/98-160, art. 2; DORS/98-457, art. 2; DORS/98-595, art. 1; DORS/99-357, art. 2; DORS/2000-182, art. 4; DORS/2000-304, art. 4; DORS/2001-35, art. 2 et 3; DORS/2001-353, art. 1; DORS/2001-486, art. 1; DORS/2002-55, art. 12; DORS/2002-205, art. 2; DORS/2003-272, art. 6; DORS/2003-359, art. 1 à 3; DORS/2004-195, art. 1; DORS/2005-45, art. 2; DORS/2006-94, art. 1; DORS/2007-180, art. 2 à 4; DORS/2007-246, art. 1; DORS/2008-73, art. 2.
+> DORS/78-80, art. 1; DORS/78-910, art. 1(F); DORS/79-305, art. 1; DORS/79-306, art. 2; DORS/79-339, art. 2; DORS/79-340, art. 2; DORS/79-374, art. 2; DORS/79-677, art. 2; DORS/79-940, art. 5; DORS/80-160, art. 1; DORS/80-161, art. 2; DORS/80-282, art. 2; DORS/80-439, art. 2; DORS/80-639, art. 1(F); DORS/81-88, art. 2; DORS/81-665, art. 1; DORS/82-656, art. 2; DORS/82-753, art. 2; DORS/82-754, art. 2; DORS/83-138, art. 1; DORS/84-812, art. 2; DORS/86-682, art. 1; DORS/86-683, art. 2; DORS/86-975, art. 1; DORS/87-658, art. 1; DORS/87-660, art. 3; DORS/88-268, art. 4; DORS/89-384, art. 2(F) et 3 à 5; DORS/90-805, art. 4; DORS/91-425, art. 3; DORS/92-173, art. 5; DORS/92-250, art. 2(F); DORS/92-545, art. 2(F); DORS/93-31, art. 2; DORS/93-146, art. 3; DORS/93-561, art. 2; DORS/94-291, art. 2; DORS/94-669, art. 2; DORS/95-60, art. 1; DORS/95-147, art. 5 et 15(F); DORS/95-164, art. 2; DORS/96-89, art. 1; DORS/96-366, art. 4; DORS/96-437, art. 1; DORS/97-14, art. 1; DORS/97-141, art. 3; DORS/97-200, art. 2; DORS/97-201, art. 2; DORS/97-376, art. 4; DORS/97-421, art. 2; DORS/97-463, art. 1; DORS/97-532, art. 1 et 2; DORS/98-160, art. 2; DORS/98-457, art. 2; DORS/98-595, art. 1; DORS/99-357, art. 2; DORS/2000-182, art. 4; DORS/2000-304, art. 4; DORS/2001-35, art. 2 et 3; DORS/2001-353, art. 1; DORS/2001-486, art. 1; DORS/2002-55, art. 12; DORS/2002-205, art. 2; DORS/2003-272, art. 6; DORS/2003-359, art. 1 à 3; DORS/2004-195, art. 1; DORS/2005-45, art. 2; DORS/2006-94, art. 1; DORS/2007-180, art. 2 à 4; DORS/2007-246, art. 1; DORS/2008-73, art. 2; DORS/2008-104, art. 7(F) et 8(F).
 
 
 
@@ -3719,7 +3724,7 @@ choix du fabricant
 
 **(1)** Dans le présent article,
 
-***charge de route*** désigne la puissance requise pour déplacer un véhicule donné ayant une charge de 400 livres en plus de son poids à vide sur une surface plane, propre, sèche et lisse en béton de ciment portland ou sur toute autre surface ayant le même coefficient de frottement, à une vitesse donnée, dans une atmosphère immobile, à 68 degrés Fahrenheit et à une pression barométrique normale de 29,92 pouces de mercure, compte tenu du frottement dû aux mouvements de translation et de rotation et de la résistance de l’air; (*road load*) 
+***charge de route*** La puissance requise pour déplacer le véhicule à sa masse à vide plus 180 kg sur une surface plane, propre, sèche et lisse, en béton de ciment portland, ou sur toute autre surface ayant le même coefficient de frottement, à une vitesse donnée, dans une atmosphère immobile, à 20 °C et à une pression barométrique normalisée de 101,3 kPa, compte tenu du frottement dû aux mouvements de translation et de rotation et de la résistance de l’air. (*road load*)
 
 ***dégivrer*** signifie faire fondre le givre ou la glace sur la surface intérieure ou extérieure d’un vitrage; (*defrost*) 
 
@@ -3777,7 +3782,7 @@ choix du fabricant
 
 
 
-**e)** une ou deux glaces peuvent être baissées de un pouce au total;
+**e)** une ou deux glaces peuvent être baissées de 25 mm au total;
 
 
 
@@ -3785,7 +3790,7 @@ choix du fabricant
 
 
 
-**g)** la vitesse du vent ne doit pas dépasser 3,2 km/h (deux milles/h); et
+**g)** la vitesse du vent ne doit pas dépasser 3 km/h;
 
 
 
@@ -3796,7 +3801,7 @@ choix du fabricant
 
 
 
-> DORS/97-264, art. 1; DORS/2003-272, art. 8..
+> DORS/97-264, art. 1; DORS/2003-272, art. 8; DORS/2008-104, art. 9..
 
 
 ### Système essuie-glace et lave-glace
@@ -3818,7 +3823,7 @@ choix du fabricant
 
 
 
-***ligne de référence de la surface vitrée*** désigne l’intersection de la surface vitrée et d’un plan horizontal passant à 25 pouces au-dessus du point de référence de position assise, comme l’indique la figure 1 de la Pratique recommandée J903a (mai 1966) de la SAE; (*glazing surface reference line*) 
+***ligne de référence de la surface vitrée*** L’intersection de la surface vitrée et d’un plan horizontal passant à 635 mm au-dessus du point de référence de position assise, comme l’indique la figure 1 de la pratique recommandée J903a de la SAE (mai 1966). (*glazing surface reference line*)
 
 ***ouverture de jour*** désigne l’ouverture libre maximale de la surface vitrée, définie au paragraphe 2.3.12 de la partie E, « Ground Vehicle Practice », des Aerospace-Automotive Drawing Standards (septembre 1963) de la SAE; (*daylight opening*) 
 
@@ -3862,7 +3867,7 @@ choix du fabricant
 
 
 
-**b)** se trouve dans la zone délimitée par une ligne tracée sur la surface vitrée à 1 pouce de distance des limites de l’ouverture de jour.
+**b)** se trouve dans la zone délimitée par une ligne tracée sur la surface vitrée à 25 mm des limites de l’ouverture de jour.
 
 
 
@@ -4153,36 +4158,25 @@ choix du fabricant
 
 
 
->  DORS/94-670, art. 2(F); DORS/97-264, art. 2; DORS/2002-55, art. 21; DORS/2003-272, art. 9; DORS/2006-94, art. 4(A)..
+>  DORS/94-670, art. 2(F); DORS/97-264, art. 2; DORS/2002-55, art. 21; DORS/2003-272, art. 9; DORS/2006-94, art. 4(A); DORS/2008-104, art. 10..
 
 
 ### Systèmes de freinage hydraulique et électrique (Norme 105)
 
 
-#### Dispositions générales
-
-
 **105** 
 
-**(1)** Sous réserve de l’article 135, les véhicules automobiles doivent être conformes aux exigences du Document de normes techniques no 105 — Systèmes de freinage hydraulique et électrique, avec ses modifications successives, ci-après appelé le « DNT 105 ».
+**(1)** Sous réserve de l’article 135, les véhicules automobiles doivent être conformes au Document de normes techniques no 105 — Systèmes de freinage hydraulique et électrique (DNT 105), avec ses modifications successives.
 
 
 
-**(2) et (3)** [Abrogés, DORS/2001-35, art. 4]
-
-Document de normes techniques n<sup>o</sup> 105
+**(2)** Malgré les dispositions S5.3 et S5.3.5b) du DNT 105, si un indicateur commun est utilisé, celui-ci doit afficher le symbole visé au paragraphe 101(9) de la présente annexe pour le mauvais fonctionnement du système de freinage.
 
 
 
+**(3)** Malgré la disposition S5.3 du DNT 105, les mots dont l’affichage est exigé par la disposition S5.3.5 du DNT 105 :
 
-
-**(4)** Malgré les dispositions S5.3 et S5.3.5b) du DNT 105, si un indicateur commun est utilisé, celui-ci doit afficher le symbole visé au paragraphe 101(9) de la présente annexe pour le mauvais fonctionnement du système de freinage.
-
-
-
-**(5)** Malgré la disposition S5.3 du DNT 105, les mots dont l’affichage est exigé en vertu de la disposition S5.3.5 du DNT 105 :
-
-**a)** dans les cas visés aux dispositions S5.3.5c)1)A), B) et D), peuvent être remplacés par un symbole conforme aux couleurs exigées au paragraphe 101(9.1) de la présente annexe ou accompagnés de celui-ci;
+**a)** dans les cas visés aux dispositions S5.3.5c)1)A), B) et D), peuvent être remplacés par un symbole conforme aux couleurs exigées par le paragraphe 101(9.1) de la présente annexe ou accompagnés de celui-ci;
 
 
 
@@ -4192,24 +4186,20 @@ Document de normes techniques n<sup>o</sup> 105
 
 
 
-**(6)** Malgré les dispositions S5.3 et S5.3.5c)1)C) du DNT 105, si un indicateur distinct est utilisé pour signaler le mauvais fonctionnement d’un dispositif de frein anti-blocage, celui-ci doit afficher le symbole correspondant qui figure au tableau II de l’article 101 de la présente annexe.
+**(4)** Malgré les dispositions S5.3 et S5.3.5c)1)C) du DNT 105, si un indicateur distinct est utilisé pour signaler le mauvais fonctionnement d’un dispositif de frein anti-blocage, celui-ci doit afficher le symbole correspondant qui figure au tableau II de l’article 101 de la présente annexe.
 
 
 
-**(7)** La mention prévue à la disposition S5.4.3 du DNT 105 peut être remplacée par une autre mention au même effet.
-
-Cessation d’effet
+**(5)** La mention figurant dans la disposition S5.4.3 du DNT 105 peut être remplacée par une autre mention au même effet.
 
 
 
-
-
-**(8)** Le présent article cesse d’avoir effet le 1<sup>er</sup> janvier 2010.
+**(6)** Le présent article cesse d’avoir effet le 1<sup>er</sup> janvier 2010.
 
 
 
 
->  DORS/79-374, art. 3; DORS/80-637, art. 1; DORS/86-683, art. 3; DORS/86-976, art. 3; DORS/91-144, art. 1; DORS/96-89, art. 2; DORS/97-200, art. 4 et 6; DORS/97-421, art. 5; DORS/98-524, art. 4(F); DORS/99-357, art. 3; DORS/2001-35, art. 4; DORS/2005-42, art. 13..
+>  DORS/79-374, art. 3; DORS/80-637, art. 1; DORS/86-683, art. 3; DORS/86-976, art. 3; DORS/91-144, art. 1; DORS/96-89, art. 2; DORS/97-200, art. 4 et 6; DORS/97-421, art. 5; DORS/98-524, art. 4(F); DORS/99-357, art. 3; DORS/2001-35, art. 4; DORS/2005-42, art. 13; DORS/2008-104, art. 11..
 
 
 ### Boyaux de frein (Norme 106)
@@ -4269,11 +4259,11 @@ Cessation d’effet
 
 **108** 
 
-**(1)** Sauf disposition contraire du présent article, tout autobus, camion, motocyclette, remorque, véhicule de tourisme à usages multiples et voiture de tourisme doit être muni des feux, des dispositifs rétroréfléchissants et des pièces d’équipement complémentaires qui sont exigés aux termes du Document de normes techniques no 108 — Feux, dispositifs réfléchissants et pièces d’équipement complémentaires, avec ses modifications successives, ci-après appelé le « DNT 108 ».
+**(1)** Tout autobus, camion, motocyclette, remorque, véhicule de tourisme à usages multiples et voiture de tourisme doit être muni des feux, des dispositifs rétroréfléchissants et des pièces d’équipement complémentaires qui sont exigés par le Document de normes techniques no 108 — Feux, dispositifs réfléchissants et pièces d’équipement complémentaires (DNT 108), avec ses modifications successives.
 
 
 
-**(1.1)** Sauf disposition contraire du présent article, tout véhicule à trois roues doit être muni des feux, des dispositifs rétroréfléchissants et des pièces d’équipement complémentaires qui sont exigés par le DNT 108 pour les voitures de tourisme.
+**(1.1)** Tout véhicule à trois roues doit être muni des feux, des dispositifs rétroréfléchissants et des pièces d’équipement complémentaires qui sont exigés par le DNT 108 pour les voitures de tourisme.
 
 
 
@@ -4281,7 +4271,7 @@ Cessation d’effet
 
 
 
-**(3)** Sauf disposition contraire du présent article, les feux, les dispositifs rétroréfléchissants et les pièces d’équipement complémentaires exigés par le présent article doivent être conçus, installés et être visibles en conformité avec le DNT 108, exception faite des figures 11 à 14, 16, 18, 21 et 22.
+**(3)** Les feux, les dispositifs rétroréfléchissants et les pièces d’équipement complémentaires qui sont exigés par le présent article doivent être conçus, installés et visibles conformément aux exigences du DNT 108, exception faite des figures 11 à 14, 16, 18, 21 et 22.
 
 
 
@@ -4307,7 +4297,7 @@ Cessation d’effet
 
 
 
-**b)** soit être communiqués, sur demande, par le fabricant du véhicule au directeur général de la Direction générale de la sécurité routière et de la réglementation automobile Transports Canada, 330, rue Sparks, Ottawa (Ontario) K1A 0N5.
+**b)** soit être communiqués par le fabricant du véhicule au ministre, à la demande de celui-ci.
 
 
 
@@ -4357,13 +4347,13 @@ Position de l’équipement obligatoire — S5.3 du DNT 108
 
 
 
-**(14)** Pour l’application de la disposition S5.3.1 et du tableau II du DNT 108, la position des feux d’identification arrière d’une semi-remorque fourgon munie de portes arrière à ouverture latérale est conforme à cette disposition lorsque les feux sont placés :
+**(14)** Pour l’application de la disposition S5.3 et du tableau II du DNT 108, la position des feux d’identification arrière d’une semi-remorque fourgon munie de portes arrière à ouverture latérale est conforme à cette disposition lorsque les feux sont placés :
 
-**a)** au-dessus des portes arrière ou sur les portes arrière, le plus près possible du sommet du véhicule, dans le cas où la face verticale de la traverse supérieure se prolonge, sur le plan longitudinal vertical médian du véhicule, d’au moins 25 mm au dessus des portes arrière;
+**a)** au-dessus des portes arrière ou sur les portes arrière, le plus près possible du sommet du véhicule, dans le cas où la face verticale de la traverse supérieure se prolonge, sur l’axe central vertical du véhicule, d’au moins 25 mm au-dessus des portes arrière;
 
 
 
-**b)** au-dessus ou au-dessous des portes arrière ou sur les portes arrière, le plus près possible du sommet du véhicule, dans le cas où la face verticale de la traverse supérieure se prolonge, sur le plan longitudinal vertical médian du véhicule, de moins de 25 mm au dessus des portes arrière.
+**b)** au-dessus ou au-dessous des portes arrière ou sur les portes arrière, le plus près possible du sommet du véhicule, dans le cas où la face verticale de la traverse supérieure se prolonge, sur l’axe central vertical du véhicule, de moins de 25 mm au dessus des portes arrière.
 
 
 
@@ -4373,7 +4363,7 @@ Position de l’équipement obligatoire — S5.3 du DNT 108
 
 
 
-**(15)** Pour l’application de la disposition S5.3.1.1 du DNT 108, l’intensité lumineuse d’un feu de freinage surélevé doit être mesurée aux points d’essai applicables précisés à la figure 10 du DNT 108.
+**(15)** [Abrogé, DORS/2008-104, art. 12]
 
 
 
@@ -4451,13 +4441,6 @@ Systèmes de perceptibilité — S5.7 du DNT 108
 <th>Degré d’angle d’éclairage</th>
 <th>Angle de divergence de 0,2°</th>
 <th>Angle de divergence de 0,5°</th>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
 </tr>
 <tr>
 <td>1</td>
@@ -4539,11 +4522,11 @@ Exigences relatives aux projecteurs — S7 du DNT 108
 
 
 
-**(27)** Malgré la disposition S7.3.7(e)(8) du DNT 108, les figures en conformité desquelles le déflectomètre visé à l’article 4.5 de la norme J580 de la SAE, intitulée Sealed Beam Headlamp Assembly, (décembre 1986) doit être conçu sont celles spécifiées dans une norme ou une pratique recommandée de la Society of Automotive Engineers ou communiquées par le fabricant du véhicule au directeur général, lorsque celui-ci en fait la demande.
+**(27)** Malgré la disposition S7.3.7(e)(8) du DNT 108, les figures en conformité desquelles le déflectomètre visé à l’article 4.5 de la norme J580 de la SAE, intitulée Sealed Beam Headlamp Assembly, (décembre 1986) doit être conçu sont celles spécifiées dans une norme ou une pratique recommandée de la Society of Automotive Engineers (SAE) ou communiquées par le fabricant du véhicule au ministre, lorsque celui-ci en fait la demande.
 
 
 
-**(28)** Malgré la disposition S7.3.8(c)(2) du DNT 108, les figures en conformité desquelles l’adaptateur spécial et le déflectomètre doivent être conçus sont celles spécifiées dans une norme ou une pratique recommandée de la Society of Automotive Engineers ou communiquées par le fabricant du véhicule au directeur général, lorsque celui ci en fait la demande.
+**(28)** Malgré la disposition S7.3.8(c)(2) du DNT 108, les figures en conformité desquelles l’adaptateur spécial et le déflectomètre doivent être conçus sont celles spécifiées dans une norme ou une pratique recommandée de la Society of Automotive Engineers (SAE) ou communiquées par le fabricant du véhicule au ministre, lorsque celui ci en fait la demande.
 
 
 
@@ -4827,7 +4810,7 @@ Visibilité
 
 
 
-**(65)** Les feux de jour sont assujettis aux dispositions S5.1.3 et S5.3.1.1 du DNT 108.
+**(65)** Les feux de jour doivent être conformes aux dispositions S5.1.3 et S5.3 du DNT 108.
 
 
 
@@ -4838,7 +4821,7 @@ Cessation d’effet
 **(66)** Le présent article cesse d’avoir effet le 1<sup>er</sup> janvier 2010.
 
 
-> DORS/79-306, art. 3; DORS/80-636, art. 2; DORS/84-812, art. 3; DORS/86-979, art. 1; DORS/87-497, art. 2; DORS/87-660, art. 4; DORS/88-268, art. 5; DORS/91-692, art. 2; DORS/94-374, art. 5; DORS/94-692, art. 2(F); DORS/95-147, art. 8; DORS/95-164, art. 5; DORS/96-366, art. 5; DORS/97-421, art. 16, 18(A) et 22(F); DORS/99-112, art. 1; DORS/99-426, art. 1; DORS/2000-182, art. 5; DORS/2001-60, art. 1; DORS/2001-116, art. 1; DORS/2001-353, art. 2; DORS/2003-272, art. 10; DORS/2005-42, art. 1 et 2; DORS/2006-94, art. 4(A)..
+> DORS/79-306, art. 3; DORS/80-636, art. 2; DORS/84-812, art. 3; DORS/86-979, art. 1; DORS/87-497, art. 2; DORS/87-660, art. 4; DORS/88-268, art. 5; DORS/91-692, art. 2; DORS/94-374, art. 5; DORS/94-692, art. 2(F); DORS/95-147, art. 8; DORS/95-164, art. 5; DORS/96-366, art. 5; DORS/97-421, art. 16, 18(A) et 22(F); DORS/99-112, art. 1; DORS/99-426, art. 1; DORS/2000-182, art. 5; DORS/2001-60, art. 1; DORS/2001-116, art. 1; DORS/2001-353, art. 2; DORS/2003-272, art. 10; DORS/2005-42, art. 1 et 2; DORS/2006-94, art. 4(A); DORS/2008-104, art. 12..
 
 
 
@@ -5672,7 +5655,7 @@ Système d’immobilisation
 
 
 
-**(6)** L’application de la troisième partie du règlement n<sup>o</sup> 97 de la CEE est assujettie aux changements suivants :
+**(6)** La conformité à l’alinéa (2)c) est vérifiée avec le véhicule à sa masse à vide plus 91 kg (y compris le conducteur), selon la procédure suivante :
 
 **a)** les exigences relatives aux systèmes d’immobilisation installés après la vente, à l’homologation de type et aux émissions radio ne s’appliquent pas;
 
@@ -5729,7 +5712,7 @@ Système d’immobilisation
 
 
 
-> DORS/79-940, art. 7; DORS/95-164, art. 6; DORS/97-264, art. 3; DORS/97-421, art. 6; DORS/2005-45, art. 4; DORS/2007-246, art. 3..
+> DORS/79-940, art. 7; DORS/95-164, art. 6; DORS/97-264, art. 3; DORS/97-421, art. 6; DORS/2005-45, art. 4; DORS/2007-246, art. 3; DORS/2008-104, art. 13..
 
 
 ### Numéro d’identification du véhicule
@@ -6668,36 +6651,25 @@ Système d’immobilisation
 ### Systèmes de freinage à air comprimé (Norme 121)
 
 
-#### Dispositions générales
-
-
 **121** 
 
-**(1)** Les véhicules automobiles munis d’un système de freinage à air comprimé auxquels s’applique le Document de normes techniques no 121 — Systèmes de freinage à air comprimé, ci-après appelé le « DNT 121 », doivent être conformes aux exigences de ce document, avec ses modifications successives.
+**(1)** Les véhicules automobiles qui sont munis d’un système de freinage à air comprimé et auxquels s’applique le Document de normes techniques no 121 — Systèmes de freinage à air comprimé (DNT 121) doivent être conformes au DNT 121, avec ses modifications successives.
 
 
 
 **(2)** Lorsqu’un camion ou un autobus est muni d’une soupape de limitation de pression dans les freins avant, celle-ci doit être automatique et fonctionner pendant le serrage des freins de service.
 
-Document de normes techniques n<sup>o</sup> 121
+
+
+**(3)** Les indicateurs du mauvais fonctionnement du dispositif de frein anti-blocage visés à la disposition S5.1.6.2 du DNT 121 doivent afficher le symbole correspondant qui figure au tableau II de l’article 101 de la présente annexe, et les mots qui accompagnent les symboles doivent être dans les deux langues officielles.
 
 
 
-
-
-**(3)** Les indicateurs du mauvais fonctionnement du dispositif de frein anti-blocage visés à la disposition S5.1.6.2 du DNT 121 doivent afficher le symbole correspondant qui figure au tableau II de l’article 101 de la présente annexe et les mots qui accompagnent les symboles doivent être dans les deux langues officielles.
-
-
-
-**(4)** Malgré la disposition S5.2.3.3.a) du DNT 121, les remorques et les chariots de conversion construits avant le 1<sup>er</sup> mars 2010 doivent, en plus d’être conformes aux exigences de la disposition S5.2.3.2 de ce DNT, être munis d’un indicateur externe indiquant la défaillance des freins anti-blocage qui est conforme aux exigences prévues aux dispositions S5.2.3.3b) à d).
+**(4)** Malgré la disposition S5.2.3.3a) du DNT 121, les remorques et les chariots de conversion construits avant le 1<sup>er</sup> mars 2010 doivent, en plus d’être conformes aux exigences de la disposition S5.2.3.2 de ce DNT, être munis d’un indicateur externe du mauvais fonctionnement du dispositif de frein anti-blocage qui est conforme aux exigences prévues aux dispositions S5.2.3.3b) à d) du DNT 121.
 
 
 
 **(5)** L’essai concernant la force de freinage statique sur les freins de stationnement, auquel il est fait référence à la disposition S5.6.1 du DNT 121, doit être effectué dans les deux directions, soit vers l’avant et vers l’arrière.
-
-
-
-Cessation d’effet
 
 
 
@@ -6706,7 +6678,7 @@ Cessation d’effet
 
 
 
->  DORS/78-351, art. 2; DORS/79-547, art. 1; DORS/79-940, art. 7; DORS/80-638, art. 2; DORS/92-250, art. 4; DORS/94-374, art. 5(F); DORS/94-670, art. 2(F); DORS/95-147, art. 15(F); DORS/96-89, art. 3 et 4(F); DORS/97-200, art. 6; DORS/97-421, art. 9(A) et 22(F); DORS/98-524, art. 4(F); DORS/99-357, art. 4; DORS/2002-55, art. 21; DORS/2005-42, art. 13..
+>  DORS/78-351, art. 2; DORS/79-547, art. 1; DORS/79-940, art. 7; DORS/80-638, art. 2; DORS/92-250, art. 4; DORS/94-374, art. 5(F); DORS/94-670, art. 2(F); DORS/95-147, art. 15(F); DORS/96-89, art. 3 et 4(F); DORS/97-200, art. 6; DORS/97-421, art. 9(A) et 22(F); DORS/98-524, art. 4(F); DORS/99-357, art. 4; DORS/2002-55, art. 21; DORS/2005-42, art. 13; DORS/2008-104, art. 14..
 
 
 ### Systèmes de freinage des motocyclettes (Norme 122)
@@ -6907,42 +6879,23 @@ Cessation d’effet
 
 
 
-#### Dispositions générales
-
-
 **135** 
 
-**(1) et (1.1)** [Abrogés, DORS/2003-272, art. 20]
+**(1)** Les voitures de tourisme, les véhicules à trois roues, ainsi que les véhicules de tourisme à usages multiples, camions et autobus dont le poids nominal brut est de 3 500 kg ou moins, doivent être conformes au Document de normes techniques no 135 — Systèmes de freinage de véhicules légers (DNT 135), avec ses modifications successives.
 
 
 
-**(2)** Les voitures de tourisme et les véhicules à trois roues doivent être conformes au Document de normes techniques nº 135 — Systèmes de freinage de véhicules légers, avec ses modifications successives, ci-après appelé le « DNT 135 ».
+**(2)** La mention figurant à la disposition S5.4.3 du DNT 135 peut être remplacée par une autre mention au même effet.
 
 
 
-**(2.1)** Jusqu’au 31 août 2002, les véhicules de tourisme à usages multiples, camions et autobus dont le poids nominal brut est de 3 500 kg ou moins peuvent être conformes aux exigences de l’article 105 de la présente annexe ou du DNT 135.
+**(3)** Malgré les dispositions S5.5 et S5.5.5b) du DNT 135, si un indicateur commun est utilisé, celui-ci doit afficher le symbole visé au paragraphe 101(9) de la présente annexe pour le mauvais fonctionnement du système de freinage.
 
 
 
-**(2.2)** À compter du 1<sup>er</sup> septembre 2002, les véhicules de tourisme à usages multiples, camions et autobus dont le poids nominal brut est de 3 500 kg ou moins doivent être conformes aux exigences du DNT 135.
+**(4)** Malgré la disposition S5.5 du DNT 135, les mots dont l’affichage est exigé par la disposition S5.5.5 du DNT 135 :
 
-
-
-Document de normes techniques n<sup>o</sup> 135
-
-
-
-**(3)** La mention visée à la disposition S5.4.3 du DNT 135 peut être remplacée par une autre mention au même effet.
-
-
-
-**(4)** Malgré les dispositions S5.5 et S5.5.5b) du DNT 135, si un indicateur commun est utilisé, l’indicateur doit afficher le symbole prévu au paragraphe 101(9) de la présente annexe pour le mauvais fonctionnement du système de freinage.
-
-
-
-**(5)** Malgré la disposition S5.5 du DNT 135, les mots dont l’affichage est exigé en vertu de la disposition S5.5.5 du DNT 135 :
-
-**a)** dans les cas visés aux dispositions S5.5.5 d)1), 2), 4) et 5) et dans le cas de l’indicateur du compensateur de freinage visé à la disposition S5.5.5d)3), peuvent être remplacés par un symbole conforme aux couleurs exigées au paragraphe 101(9.1) de la présente annexe ou accompagnés de celui-ci;
+**a)** dans les cas visés aux dispositions S5.5.5d)1), 2), 4) et 5) et dans le cas de l’indicateur du compensateur de freinage visé à la disposition S5.5.5d)3), peuvent être remplacés par un symbole conforme aux couleurs exigées par le paragraphe 101(9.1) de la présente annexe ou accompagnés de celui-ci;
 
 
 
@@ -6952,24 +6905,20 @@ Document de normes techniques n<sup>o</sup> 135
 
 
 
-**(6)** Malgré les dispositions S5.5 et S5.5.5d)3) du DNT 135, si un indicateur distinct est utilisé pour signaler une défaillance de fonctionnement électrique d’un dispositif de frein anti-blocage, l’indicateur doit afficher le symbole correspondant qui figure au tableau II de l’article 101 de la présente annexe.
+**(5)** Malgré les dispositions S5.5 et S5.5.5d)3) du DNT 135, si un indicateur distinct est utilisé pour signaler une défaillance du fonctionnement électrique d’un dispositif de frein anti-blocage, celui-ci doit afficher le symbole correspondant qui figure au tableau II de l’article 101 de la présente annexe.
 
 
 
-**(7)** Le mot « car » employé dans les dispositions S6.3.6 et S6.3.7 de la version anglaise du DNT 135 vaut mention de « véhicule ».
+**(6)** Le mot « car » employé dans les dispositions S6.3.6 et S6.3.7 de la version anglaise du DNT 135 vaut mention de « vehicle ».
 
 
 
-Cessation d’effet
-
-
-
-**(8)** Le présent article cesse d’avoir effet le 1<sup>er</sup> janvier 2010.
+**(7)** Le présent article cesse d’avoir effet le 1<sup>er</sup> janvier 2010.
 
 
 
 
-> DORS/97-200, art. 5; DORS/99-357, art. 5; DORS/2001-35, art. 6; DORS/2003-272, art. 20; DORS/2005-42, art. 13; DORS/2006-94, art. 4(A)..
+> DORS/97-200, art. 5; DORS/99-357, art. 5; DORS/2001-35, art. 6; DORS/2003-272, art. 20; DORS/2005-42, art. 13; DORS/2006-94, art. 4(A); DORS/2008-104, art. 15..
 
 
 **PARTIE III** 
@@ -7645,7 +7594,7 @@ simultanément, dans le cas d’un siège muni d’une ou de plusieurs ceintures
 
 **208** 
 
-**(1)** Sous réserve des paragraphes (2.1) et (8) à (10), tout véhicule doit être muni, aux places désignées extérieures avant, d’une ceinture de sécurité manuelle de type 2 qui :
+**(1)** Sous réserve des paragraphes (2.1) et (8) à (10), tout véhicule doit être muni, aux places assises désignées extérieures avant, d’une ceinture de sécurité manuelle de type 2 qui :
 
 **a)** comprend une ceinture-baudrier non détachable;
 
@@ -8187,7 +8136,7 @@ Dispositions transitoires
 
 
 
-> DORS/78-80, art. 2; DORS/80-782, art. 2; DORS/87-578, art. 2; DORS/90-387, art. 3; DORS/93-5, art. 4; DORS/97-201, art. 5; DORS/97-447, art. 5; DORS/98-125, art. 6; DORS/98-524, art. 4(F); DORS/2002-55, art. 17; DORS/2003-272, art. 24; DORS/2006-94, art. 4(A); DORS/2007-180, art. 12; DORS/2008-72, art. 6..
+> DORS/78-80, art. 2; DORS/80-782, art. 2; DORS/87-578, art. 2; DORS/90-387, art. 3; DORS/93-5, art. 4; DORS/97-201, art. 5; DORS/97-447, art. 5; DORS/98-125, art. 6; DORS/98-524, art. 4(F); DORS/2002-55, art. 17; DORS/2003-272, art. 24; DORS/2006-94, art. 4(A); DORS/2007-180, art. 12; DORS/2008-72, art. 6; DORS/2008-104, art. 16(F)..
 
 
 ### Ceintures de sécurité (Norme 209)
@@ -8827,19 +8776,19 @@ Figure 19 [Abrogée, DORS/2008-72, art. 8]
 
 
 
-**d)** le cas échéant, à deux places assises désignées faisant face à l’avant, sauf celle du conducteur et celles de toute banquette qui compte un siège adjacent à l’issue de secours, à bord des autobus scolaires ayant au plus 24 places assises désignées pour passager;
+**d)** à deux places assises désignées faisant face à l’avant, autre que celle du conducteur et celles de toute banquette qui compte un siège adjacent à l’issue de secours, à bord des autobus scolaires ayant au plus 24 places assises désignées pour passager;
 
 
 
-**e)** le cas échéant, à quatre places assises désignées faisant face à l’avant, sauf celle du conducteur et celles de toute banquette qui compte un siège adjacent à l’issue de secours, à bord des autobus scolaires ayant au moins 25 places assises désignées pour passager, mais au plus 65 places assises désignées pour passager;
+**e)** à quatre places assises désignées faisant face à l’avant, autre que celle du conducteur et celles de toute banquette qui compte un siège adjacent à l’issue de secours, à bord des autobus scolaires ayant au moins 25 places assises désignées pour passager, mais au plus 65 places assises désignées pour passager;
 
 
 
-**f)** le cas échéant, à huit places assises désignées faisant face à l’avant, sauf celle du conducteur et celles de toute banquette qui compte un siège adjacent à l’issue de secours, à bord des autobus scolaires ayant au moins 66 places assises désignées pour passager;
+**f)** à huit places assises désignées faisant face à l’avant, autre que celle du conducteur et celles de toute banquette qui compte un siège adjacent à l’issue de secours, à bord des autobus scolaires ayant au moins 66 places assises désignées pour passager;
 
 
 
-**g)** le cas échéant, à deux places assises désignées faisant face à l’avant, sauf celle du conducteur, à bord des autobus autres que des autobus scolaires.
+**g)** à deux places assises désignées faisant face à l’avant, autre que celle du conducteur, à bord des autobus autres que des autobus scolaires.
 
 
 
@@ -9152,7 +9101,7 @@ CES GRAPHIQUES NE SONT PAS EXPOSÉS, VOIR DORS/2002-205, ART. 4; DORS/2008-72, a
 **Figure 12 — Largeur de la barre du dispositif universel d’ancrages d’attaches inférieurs, vue de dessus**
 
 
->  DORS/2002-205, art. 4; DORS/2003-272, art. 27; DORS/2005-342, art. 4; DORS/2006-94, art. 3 et 4(A); DORS/2008-72, art. 9..
+>  DORS/2002-205, art. 4; DORS/2003-272, art. 27; DORS/2005-342, art. 4; DORS/2006-94, art. 3 et 4(A); DORS/2008-72, art. 9; DORS/2008-104, art. 17..
 
 
 
@@ -9501,7 +9450,7 @@ CES GRAPHIQUES NE SONT PAS EXPOSÉS, VOIR DORS/2002-205, ART. 4; DORS/2008-72, a
 
 **(20)** Les instructions visées au paragraphe (19) doivent :
 
-**a)** indiquer les conséquences immédiates qu’entraîne le non-respect des instruction d’utilisation de l’ensemble de retenue d’enfant visées aux paragraphes (17) et (19);
+**a)** indiquer les conséquences immédiates qu’entraîne le non-respect des instructions d’utilisation de l’ensemble de retenue d’enfant visées aux paragraphes (17) et (19);
 
 
 
@@ -9512,7 +9461,7 @@ CES GRAPHIQUES NE SONT PAS EXPOSÉS, VOIR DORS/2002-205, ART. 4; DORS/2008-72, a
 
 
 
-> DORS/94-669, art. 6; DORS/2007-180, art. 16 et 21; DORS/2008-72, art. 11..
+> DORS/94-669, art. 6; DORS/2007-180, art. 16 et 21; DORS/2008-72, art. 11; DORS/2008-104, art. 18..
 
 
 ### Résistance des portes latérales
@@ -10696,7 +10645,7 @@ CHAMP D’APPLICATION
 
 **(2)** Le présent article s’applique aux remorques d’un PNBV de 4 536 kg ou plus sauf :
 
-**a)** les remorques à poutre télescopique, les remorques pour bois à pâte, les remorques à roues arrière reculées ou les remorques aménagées en habitation temporaire;
+**a)** les remorques pour charges longues, les remorques pour bois à pâte, les remorques à roues arrière reculées ou les remorques aménagées en habitation temporaire;
 
 
 
@@ -10768,7 +10717,7 @@ EXIGENCES DE MISE À L’ESSAI
 
 
 
-**c)** avoir une garde au sol d’au plus 560 mm, mesurée à l’un quelconque des supports auquel la pièce horizontale est fixée, comme l’indique la figure 3, après que l’essai d’absorption d’énergie est terminé ou, si cet essai n’est pas exigé, après que l’essai de charge uniforme est terminé.
+**c)** avoir une garde au sol d’au plus 560 mm, mesurée à chaque support auquel la pièce horizontale est fixée, comme l’indique la figure 3, après que l’essai d’absorption d’énergie est terminé ou, si cet essai n’est pas exigé, après que l’essai de charge uniforme est terminé.
 
 
 
@@ -10796,7 +10745,7 @@ EXIGENCES DE MISE À L’ESSAI
 
 
 
-**c)** avoir une garde au sol d’au plus 560 mm, mesurée à l’un quelconque des supports auquel la pièce horizontale est fixée, comme l’indique la figure 3, après que l’essai d’absorption d’énergie est terminé ou, si cet essai n’est pas exigé, après que l’essai de charge est terminé.
+**c)** avoir une garde au sol d’au plus 560 mm, mesurée à chaque support auquel la pièce horizontale est fixée, comme l’indique la figure 3, après que l’essai d’absorption d’énergie est terminé ou, si cet essai n’est pas exigé, après que l’essai de charge uniforme est terminé.
 
 
 
@@ -10809,7 +10758,7 @@ EXIGENCES DE MISE À L’ESSAI
 
 > Image: Diagramme montrant un test d’application d’une charge d’essai pour une remorque avec mesures et descriptions.
 
-> DORS/2004-195, art. 2..
+> DORS/2004-195, art. 2; DORS/2008-104, art. 19..
 
 
 
@@ -10832,8 +10781,7 @@ EXIGENCES DE MISE À L’ESSAI
 
 
 
-Document de normes techniques n<sup>o</sup> 301
-
+#### Document de normes techniques n<sup>o</sup> 301
 
 
 **(3)** Au lieu d’être soumis à l’essai conformément aux dispositions S6.2(a) et S6.3(a) du DNT 301, le véhicule visé au paragraphe (1) peut, au choix du fabricant, être soumis à un essai conformément aux dispositions S6.2(b) et S6.3(b) du DNT 301 avant le 1<sup>er</sup> septembre 2009.
@@ -10844,8 +10792,7 @@ Document de normes techniques n<sup>o</sup> 301
 
 
 
-Cessation d’effet
-
+#### Cessation d’effet
 
 
 **(5)** Le présent article cesse d’avoir effet le 28 février 2009.
@@ -10893,7 +10840,7 @@ Cessation d’effet
 
 
 
-**(1.3)** Les paragraphes (1.1) et (1.2) cessent d’avoir effet à la date d’expiration du DNT 301.
+**(1.3)** Les paragraphes (1.1) et (1.2) cessent d’avoir effet le 28 février 2009.
 
 
 
@@ -10946,7 +10893,7 @@ Cessation d’effet
 
 
 
-> DORS/82-754, art. 3; DORS/97-421, art. 17; DORS/2001-152, art. 2; DORS/2002-55, art. 18; DORS/2003-272, art. 29; DORS/2004-89, art. 2..
+> DORS/82-754, art. 3; DORS/97-421, art. 17; DORS/2001-152, art. 2; DORS/2002-55, art. 18; DORS/2003-272, art. 29; DORS/2004-89, art. 2; DORS/2008-104, art. 20..
 
 
 ### Étanchéité du circuit d’alimentation en carburant de type GNC (Norme 301.2)
@@ -10986,7 +10933,7 @@ Cessation d’effet
 
 
 
-**(1.3)** Les paragraphes (1.1) et (1.2) cessent d’avoir effet à la date d’expiration du DNT 301.
+**(1.3)** Les paragraphes (1.1) et (1.2) cessent d’avoir effet le 28 février 2009.
 
 
 
@@ -11053,7 +11000,7 @@ où :
 
 
 
-> DORS/82-754, art. 3; DORS/95-77, art. 1; DORS/2001-152, art. 2; DORS/2002-55, art. 19; DORS/2003-272, art. 30; DORS/2004-89, art. 3; DORS/2005-342, art. 5..
+> DORS/82-754, art. 3; DORS/95-77, art. 1; DORS/2001-152, art. 2; DORS/2002-55, art. 19; DORS/2003-272, art. 30; DORS/2004-89, art. 3; DORS/2005-342, art. 5; DORS/2008-104, art. 21..
 
 
 ### Étanchéité du circuit d’alimentation en carburant des véhicules à trois roues et des motocyclettes (Norme 301.3)
@@ -11455,7 +11402,7 @@ CE GRAPHIQUE N’EST PAS EXPOSÉ, VOIR DORS/2003-272, ART. 33
 
 **(5)** Lorsque l’attelage du chariot de conversion de type C comprend deux yeux de métal, ceux-ci doivent :
 
-**a)** être séparés latéralement par une distance de 762 mm, ± 2 mm;
+**a)** être séparés latéralement par une distance de 762 mm ± 2 mm;
 
 
 
@@ -11463,7 +11410,7 @@ CE GRAPHIQUE N’EST PAS EXPOSÉ, VOIR DORS/2003-272, ART. 33
 
 
 
-**c)** avoir une hauteur de montage de 900 mm, ± 10 mm, lorsque le chariot de conversion de type C est vide;
+**c)** avoir une hauteur de montage de 900 mm ± 10 mm, lorsque le chariot de conversion de type C est vide;
 
 
 
@@ -11602,7 +11549,7 @@ CE GRAPHIQUE N’EST PAS EXPOSÉ, VOIR DORS/2003-272, ART. 33
 
 
 
-> DORS/93-146, art. 4..
+> DORS/93-146, art. 4; DORS/2008-104, art. 22..
 
 
 ### Exigences pour l’attelage du chariot de conversion de type C
@@ -11636,7 +11583,7 @@ CE GRAPHIQUE N’EST PAS EXPOSÉ, VOIR DORS/2003-272, ART. 33
 
 **(3)** Lorsque l’attelage mentionné au paragraphe (1) comprend deux boules d’attelage distinctes, celles-ci doivent :
 
-**a)** être séparées latéralement par une distance de 762 mm, ± 2 mm;
+**a)** être séparés latéralement par une distance de 762 mm ± 2 mm;
 
 
 
@@ -11644,7 +11591,7 @@ CE GRAPHIQUE N’EST PAS EXPOSÉ, VOIR DORS/2003-272, ART. 33
 
 
 
-**c)** avoir une hauteur de montage verticale de 900 mm, ± 10 mm, lorsque la remorque est vide;
+**c)** avoir une hauteur de montage de 900 mm ± 10 mm, lorsque la remorque est vide;
 
 
 
@@ -11667,7 +11614,7 @@ CE GRAPHIQUE N’EST PAS EXPOSÉ, VOIR DORS/2003-272, ART. 33
 
 
 
-> DORS/93-146, art. 4..
+> DORS/93-146, art. 4; DORS/2008-104, art. 23..
 
 
 ### Dispositifs d’ancrage des chargements de remorque (Norme 905)
