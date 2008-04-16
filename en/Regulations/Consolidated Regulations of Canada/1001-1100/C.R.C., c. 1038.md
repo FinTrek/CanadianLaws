@@ -348,7 +348,7 @@ Enabling authorities:
 
 ***limited-speed motorcycle*** means a motorcycle that
 - **(a)** has steering handlebars that are completely constrained from rotating in relation to the axle of only one wheel in contact with the ground,
-- **(b)** has a maximum attainable speed of 70 km/h or less, measured in accordance with International Organization for Standardization standard ISO 7117-1981, Road vehicles — measurement method for the maximum speed of motorcycles,
+- **(b)** has a maximum speed of 70 km/h or less, measured in accordance with International Organization for Standardization standard ISO 7117-1981, Road vehicles — measurement method for the maximum speed of motorcycles,
 - **(c)** has a minimum seat height, when the vehicle is unladen, of 650 mm, and
 - **(d)** does not have a structure partially or fully enclosing the driver and passenger, other than that part of the vehicle forward of the driver’s torso and the seat backrest; (*motocyclette à vitesse limitée*)
 
@@ -395,7 +395,7 @@ Enabling authorities:
 
 ***mobile home*** means a vehicle that is more than 102 inches in overall width and that is designed to be drawn behind another vehicle and to be used as a living or working accommodation unit; (*maison roulante*)
 
-***mobility-impaired occupant*** means a person whose mass is 9 kg or more and who, for orthopaedic reasons or because of the person’s size, build or other physical characteristics, is unable to use a child restraint system or a Type 1 or Type 2 seat belt; (*occupant à mobilité réduite*)
+***mobility-impaired occupant*** means a person whose mass is 9 kg or more and who, for orthopaedic reasons or because of the person’s build or other physical characteristics, is unable to use a child restraint system or a Type 1 or Type 2 seat belt; (*occupant à mobilité réduite*)
 
 ***model*** means the name that a manufacturer applies to a family of vehicles of the same class, make, line, series and body type; (*modèle*)
 
@@ -750,7 +750,7 @@ except that the volume of fuel referred to in paragraph (b) does not include any
 ***95th percentile adult male*** means a person having as physical characteristics a mass of 97.5 kg, height of 1849 mm, erect sitting height of 965 mm, normal sitting height of 930 mm, hip sitting breadth of 419 mm, hip sitting circumference of 1199 mm, waist sitting circumference of 1080 mm, chest depth of 267 mm, chest circumference of 1130 mm, knee height of 594 mm, popliteal height of 490 mm, elbow rest height of 295 mm, thigh clearance height of 175 mm, buttock-to-knee length of 640 mm, buttock-to-poples length of 549 mm, elbow-to-elbow breadth of 506 mm and seat breadth of 404 mm. (*95<sup>e</sup> percentile adulte du sexe masculin*)
 
 - **(2)** In the case of any bench or split-bench seat having more than 1 270 mm of hip room, as measured in accordance with sections 6.1.34, 6.2.31 and 6.4.27 of SAE Recommended Practice J1100, Motor Vehicle Dimensions (February 2001), in a passenger car, truck or multi-purpose passenger vehicle having a GVWR of less than 4 536 kg, the seat shall be deemed to contain not less than three designated seating positions unless the seat design or vehicle design is such that the centre position is not capable of being used as a seating position.
-> SOR/78-257, s. 1; SOR/78-351, s. 1; SOR/78-525, s. 1; SOR/79-306, s. 1; SOR/79-339, s. 1; SOR/79-340, s. 1; SOR/79-374, s. 1; SOR/79-677, s. 1; SOR/79-719, s. 1; SOR/79-940, s. 1; SOR/80-161, s. 1; SOR/80-282, s. 1; SOR/80-439, s. 1; SOR/80-440, s. 1; SOR/80-636, s. 1; SOR/80-638, s. 1; SOR/80-782, s. 1; SOR/81-88, s. 1; SOR/81-1033, s. 1; SOR/82-569, s. 1; SOR/82-656, s. 1; SOR/82-753, s. 1; SOR/82-754, s. 1; SOR/83-176, s. 1; SOR/83-859, s. 1; SOR/84-374, s. 1; SOR/84-812, s. 1; SOR/86-161, s. 1; SOR/86-683, s. 1; SOR/86-976, s. 1; SOR/86-977, s. 1; SOR/87-154, s. 1; SOR/87-497, s. 1; SOR/87-578, s. 1; SOR/87-660, s. 1; SOR/88-268, s. 1; SOR/89-384, s. 1; SOR/90-588, s. 1; SOR/90-805, s. 1; SOR/91-425, s. 1; SOR/91-692, s. 1; SOR/92-173, s. 1; SOR/92-250, s. 1; SOR/92-545, s. 1; SOR/93-5, s. 1; SOR/93-31, s. 1; SOR/93-146, s. 1; SOR/93-561, s. 1; SOR/94-291, s. 1; SOR/94-669, s. 1; SOR/94-670, s. 2(F); SOR/94-692, s. 2(F); SOR/94-717, s. 1; SOR/95-147, s. 1; SOR/95-164, s. 1; SOR/95-536, s. 7; SOR/96-366, s. 1; SOR/97-141, s. 1; SOR/97-200, s. 1; SOR/97-201, s. 1; SOR/97-421, ss. 1, 17, 22(F); SOR/97-447, s. 1; SOR/98-125, s. 1; SOR/98-160, s. 1; SOR/98-457, s. 1; SOR/98-524, s. 1(F); SOR/99-357, s. 1; SOR/2000-182, s. 1; SOR/2000-304, s. 1; SOR/2001-35, s. 1; SOR/2001-117, s. 1; SOR/2001-152, s. 1; SOR/2002-15, s. 25(F); SOR/2002-55, s. 1; SOR/2002-187, s. 1; SOR/2002-205, s. 1; SOR/2003-57, s. 3(F); SOR/2003-272, s. 1; SOR/2004-250, s. 1; SOR/2005-45, s. 1; SOR/2006-94, s. 4(E); SOR/2007-180, s. 1; SOR/2008-72, s. 1; SOR/2008-73, s. 1.
+> SOR/78-257, s. 1; SOR/78-351, s. 1; SOR/78-525, s. 1; SOR/79-306, s. 1; SOR/79-339, s. 1; SOR/79-340, s. 1; SOR/79-374, s. 1; SOR/79-677, s. 1; SOR/79-719, s. 1; SOR/79-940, s. 1; SOR/80-161, s. 1; SOR/80-282, s. 1; SOR/80-439, s. 1; SOR/80-440, s. 1; SOR/80-636, s. 1; SOR/80-638, s. 1; SOR/80-782, s. 1; SOR/81-88, s. 1; SOR/81-1033, s. 1; SOR/82-569, s. 1; SOR/82-656, s. 1; SOR/82-753, s. 1; SOR/82-754, s. 1; SOR/83-176, s. 1; SOR/83-859, s. 1; SOR/84-374, s. 1; SOR/84-812, s. 1; SOR/86-161, s. 1; SOR/86-683, s. 1; SOR/86-976, s. 1; SOR/86-977, s. 1; SOR/87-154, s. 1; SOR/87-497, s. 1; SOR/87-578, s. 1; SOR/87-660, s. 1; SOR/88-268, s. 1; SOR/89-384, s. 1; SOR/90-588, s. 1; SOR/90-805, s. 1; SOR/91-425, s. 1; SOR/91-692, s. 1; SOR/92-173, s. 1; SOR/92-250, s. 1; SOR/92-545, s. 1; SOR/93-5, s. 1; SOR/93-31, s. 1; SOR/93-146, s. 1; SOR/93-561, s. 1; SOR/94-291, s. 1; SOR/94-669, s. 1; SOR/94-670, s. 2(F); SOR/94-692, s. 2(F); SOR/94-717, s. 1; SOR/95-147, s. 1; SOR/95-164, s. 1; SOR/95-536, s. 7; SOR/96-366, s. 1; SOR/97-141, s. 1; SOR/97-200, s. 1; SOR/97-201, s. 1; SOR/97-421, ss. 1, 17, 22(F); SOR/97-447, s. 1; SOR/98-125, s. 1; SOR/98-160, s. 1; SOR/98-457, s. 1; SOR/98-524, s. 1(F); SOR/99-357, s. 1; SOR/2000-182, s. 1; SOR/2000-304, s. 1; SOR/2001-35, s. 1; SOR/2001-117, s. 1; SOR/2001-152, s. 1; SOR/2002-15, s. 25(F); SOR/2002-55, s. 1; SOR/2002-187, s. 1; SOR/2002-205, s. 1; SOR/2003-57, s. 3(F); SOR/2003-272, s. 1; SOR/2004-250, s. 1; SOR/2005-45, s. 1; SOR/2006-94, s. 4(E); SOR/2007-180, s. 1; SOR/2008-72, s. 1; SOR/2008-73, s. 1; SOR/2008-104, s. 1.
 
 
 
@@ -1144,14 +1144,14 @@ except that the volume of fuel referred to in paragraph (b) does not include any
 
 **10** 
 
-- **(1)** A company shall maintain in writing or in readily readable electronic or optical form the records referred to in paragraph 5(1)(g) of the Act that show that the vehicles it manufactures or imports conform to all prescribed standards applicable to it and retain those records for at least five years after the date of manufacture or importation.
+- **(1)** For each vehicle to which the national safety mark is applied, a company shall maintain in writing or in readily readable electronic or optical form the records referred to in paragraph 5(1)(g) of the Act that show that the vehicle conforms to all prescribed standards applicable to it and retain those records for at least five years after the date of manufacture or importation.
 
 - **(2)** Where the records referred to in subsection (1) are maintained on behalf of a company, the company shall keep the name and address of the person who maintains those records.
 
 - **(3)** On request in writing from an inspector, a company shall send to that inspector a copy, in either official language, of the records referred to in subsection (1) within
 	- **(a)** 30 working days after the mailing of the request; or
 	- **(b)** where the records must be translated, 45 working days after the mailing of the request.
-> SOR/79-940, s. 3; SOR/87-450, s. 1; SOR/88-536, s. 1; SOR/95-147, s. 2; SOR/98-524, s. 2.
+> SOR/79-940, s. 3; SOR/87-450, s. 1; SOR/88-536, s. 1; SOR/95-147, s. 2; SOR/98-524, s. 2; SOR/2008-104, s. 2.
 
 
 
@@ -1362,10 +1362,10 @@ except that the volume of fuel referred to in paragraph (b) does not include any
 
 - **(3)** For the purposes of subsection 10(6) of the Act, the quarterly reports to be submitted following the report referred to in subsection (2) shall contain the following information:
 	- **(a)** the number, title or other identification assigned by the company to the notice of defect;
-	- **(b)** the number of vehicles affected by the notice of defect;
+	- **(b)** the revised number of vehicles affected by the notice of defect, if applicable;
 	- **(c)** the date that notices of defect were given to the current owners of the affected vehicles; and
 	- **(d)** the total number or percentage of vehicles repaired, including vehicles requiring inspection only.
-> SOR/95-147, s. 2; SOR/98-524, s. 3.
+> SOR/95-147, s. 2; SOR/98-524, s. 3; SOR/2008-104, s. 3.
 
 
 
@@ -1378,8 +1378,8 @@ except that the volume of fuel referred to in paragraph (b) does not include any
 
 - **(1)** Documents that contain motor vehicle safety test methods shall be published by the Department of Transport under the main title Test Method, followed by an identification number, a descriptive title and the publication date.
 
-- **(2)** A test method may be obtained by writing to the Director General, Road Safety and Motor Vehicle Regulation Directorate, Transport Canada, 330 Sparks Street, Ottawa, Ontario K1A 0N5.
-> SOR/97-141, s. 2; SOR/97-421, s. 16.
+- **(2)** [Repealed, SOR/2008-104, s. 4]
+> SOR/97-141, s. 2; SOR/97-421, s. 16; SOR/2008-104, s. 4.
 
 
 
@@ -1390,10 +1390,10 @@ except that the volume of fuel referred to in paragraph (b) does not include any
 
 **16** 
 
-- **(1)** For the purposes of section 12 of the Act, every technical standards document, including all of the amendments to it, shall be published by the Department of Transport and have the main title Technical Standards Document, followed by an identification number, a descriptive title and the publication date.
+- **(1)** For the purposes of section 12 of the Act, every technical standards document, including all of the amendments to it, shall be published by the Department of Transport and have the main title Technical Standards Document, followed by an identification number, a descriptive title and the publication date.
 
-- **(2)** A technical standards document may be obtained by writing to the Director General, Road Safety and Motor Vehicle Regulation Directorate, Transport Canada, 330 Sparks Street, Ottawa, Ontario K1A 0N5.
-> SOR/96-366, s. 3; SOR/97-421, s. 16.
+- **(2)** [Repealed, SOR/2008-104, s. 5]
+> SOR/96-366, s. 3; SOR/97-421, s. 16; SOR/2008-104, s. 5.
 
 
 
@@ -1428,29 +1428,34 @@ except that the volume of fuel referred to in paragraph (b) does not include any
 
 ### **SCHEDULE II** 
 **(Section 3)**
-## Canada
 ## Department of Transport
 ## Motor Vehicle Safety Act (subsection 3(2))
 ## Motor Vehicle Safety Regulations (section 3)
 
 ## Ministerial Authorization
 
-Pursuant to the [Motor Vehicle Safety Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2016.md), I, Minister of Transport, hereby authorize [       name and address          ] to use and apply at its premises located at [     location    ] the national safety mark and this authorization number [  #  ] on any vehicle of a prescribed class, provided that the vehicle and its components conform to all the Canada motor vehicle safety standards applicable thereto.
+Pursuant to the [Motor Vehicle Safety Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2016.md) and the Motor Vehicle Safety Regulations,
+
+[company name and address]
 
 
-This authorization expires on: _________________________
+
+is authorized to use and apply the national safety mark, and the authorization number _________________________, to any vehicle of a class referred to in section 4 of the Motor Vehicle Safety Regulations, on condition that the vehicle and its components conform to all the applicable Canada Motor Vehicle Safety Standards.
 
 
-Issued in Ottawa on _________________________, 19_________________________
 
 
-_________________________
+The national safety mark and the authorization number are applied at the following premises: [identification of the premises]
 
 
-*for the Minister of Transport*
+This ministerial authorization expires on _________________________
 
 
-> SOR/95-147, s. 4.
+Issued in Ottawa on _________________________, 20_________________________
+
+
+<p>_________________________<br />for the Minister of Transport, Infrastructure and Communities<br /></p>
+> SOR/95-147, s. 4; SOR/2008-104, s. 6.
 
 
 
@@ -2740,7 +2745,7 @@ _________________________
 </tr>
 </table>
 
-> SOR/78-80, s. 1; SOR/78-910, s. 1(F); SOR/79-305, s. 1; SOR/79-306, s. 2; SOR/79-339, s. 2; SOR/79-340, s. 2; SOR/79-374, s. 2; SOR/79-677, s. 2; SOR/79-940, s. 5; SOR/80-160, s. 1; SOR/80-161, s. 2; SOR/80-282, s. 2; SOR/80-439, s. 2; SOR/80-639, s. 1(F); SOR/81-88, s. 2; SOR/81-665, s. 1; SOR/82-656, s. 2; SOR/82-753, s. 2; SOR/82-754, s. 2; SOR/83-138, s. 1; SOR/84-812, s. 2; SOR/86-682, s. 1; SOR/86-683, s. 2; SOR/86-975, s. 1; SOR/87-658, s. 1; SOR/87-660, s. 3; SOR/88-268, s. 4; SOR/89-384, ss. 2(F), 3 to 5; SOR/90-805, s. 4; SOR/91-425, s. 3; SOR/92-173, s. 5. SOR/92-250, s. 2(F); SOR/92-545, s. 2(F);SOR/93-31, s. 2; SOR/93-146, s. 3; SOR/93-561, s. 2; SOR/94-291, s. 2; SOR/94-669, s. 2; SOR/95-60, s. 1; SOR/95-147, ss. 5, 15(F); SOR/95-164, s. 2; SOR/96-89, s. 1; SOR/96-366, s. 4; SOR/96-437, s. 1; SOR/97-14, s. 1; SOR/97-141, s. 3; SOR/97-200, s. 2; SOR/97-201, s. 2; SOR/97-376, s. 4; SOR/97-421, s. 2; SOR/97-463, s. 1; SOR/97-532, ss. 1, 2; SOR/98-160, s. 2; SOR/98-457, s. 2; SOR/98-595, s. 1; SOR/99-357, s. 2; SOR/2000-182, s. 4; SOR/2000-304, s. 4; SOR/2001-35, ss. 2, 3; SOR/2001-353, s. 1; SOR/2001-486, s. 1; SOR/2002-55, s. 12; SOR/2002-205, s. 2; SOR/2003-272, s. 6; SOR/2003-359, ss. 1 to 3; SOR/2004-195, s. 1; SOR/2005-45, s. 2; SOR/2006-94, s. 1; SOR/2007-180, ss. 2 to 4; SOR/2007-246, s. 1; SOR/2008-73, s. 2.
+> SOR/78-80, s. 1; SOR/78-910, s. 1(F); SOR/79-305, s. 1; SOR/79-306, s. 2; SOR/79-339, s. 2; SOR/79-340, s. 2; SOR/79-374, s. 2; SOR/79-677, s. 2; SOR/79-940, s. 5; SOR/80-160, s. 1; SOR/80-161, s. 2; SOR/80-282, s. 2; SOR/80-439, s. 2; SOR/80-639, s. 1(F); SOR/81-88, s. 2; SOR/81-665, s. 1; SOR/82-656, s. 2; SOR/82-753, s. 2; SOR/82-754, s. 2; SOR/83-138, s. 1; SOR/84-812, s. 2; SOR/86-682, s. 1; SOR/86-683, s. 2; SOR/86-975, s. 1; SOR/87-658, s. 1; SOR/87-660, s. 3; SOR/88-268, s. 4; SOR/89-384, ss. 2(F), 3 to 5; SOR/90-805, s. 4; SOR/91-425, s. 3; SOR/92-173, s. 5. SOR/92-250, s. 2(F); SOR/92-545, s. 2(F);SOR/93-31, s. 2; SOR/93-146, s. 3; SOR/93-561, s. 2; SOR/94-291, s. 2; SOR/94-669, s. 2; SOR/95-60, s. 1; SOR/95-147, ss. 5, 15(F); SOR/95-164, s. 2; SOR/96-89, s. 1; SOR/96-366, s. 4; SOR/96-437, s. 1; SOR/97-14, s. 1; SOR/97-141, s. 3; SOR/97-200, s. 2; SOR/97-201, s. 2; SOR/97-376, s. 4; SOR/97-421, s. 2; SOR/97-463, s. 1; SOR/97-532, ss. 1, 2; SOR/98-160, s. 2; SOR/98-457, s. 2; SOR/98-595, s. 1; SOR/99-357, s. 2; SOR/2000-182, s. 4; SOR/2000-304, s. 4; SOR/2001-35, ss. 2, 3; SOR/2001-353, s. 1; SOR/2001-486, s. 1; SOR/2002-55, s. 12; SOR/2002-205, s. 2; SOR/2003-272, s. 6; SOR/2003-359, ss. 1 to 3; SOR/2004-195, s. 1; SOR/2005-45, s. 2; SOR/2006-94, s. 1; SOR/2007-180, ss. 2 to 4; SOR/2007-246, s. 1; SOR/2008-73, s. 2; SOR/2008-104, ss. 7(F), 8(F).
 
 
 
@@ -3727,7 +3732,7 @@ choix du fabricant
 
 ***entire windshield*** means area A as referred to in section 104 of this Schedule; (*pare-brise tout entier*)
 
-***road load*** means the power output required to move the vehicle at curb weight plus 400 pounds on level, clean, dry, smooth portland cement concrete pavement or other surface with an equivalent coefficient of surface friction at a specified speed through still air at 68 degrees Fahrenheit and standard barometric pressure of 29.92 inches of mercury, and includes driveline friction, rolling friction and air resistance. (*charge de route*)
+***road load*** means the power output required to move the vehicle at the curb mass plus 180 kg on level, clean, dry, smooth portland cement concrete pavement or other surface with an equivalent coefficient of surface friction at a specified speed through still air at 20°C and a standard barometric pressure of 101.3 kPa, and includes driveline friction, rolling friction and air resistance. (*charge de route*)
 
 
 
@@ -3777,7 +3782,7 @@ choix du fabricant
 
 
 
-**(e)** one or two windows may be open a total of one inch;
+**(e)** one or two windows may be open a total of 25 mm;
 
 
 
@@ -3785,7 +3790,7 @@ choix du fabricant
 
 
 
-**(g)** the wind velocity is at any level from 0 to 3.2 km/h (0 to 2 mph); and
+**(g)** the wind velocity is at any level from 0 to 3 km/h; and
 
 
 
@@ -3796,7 +3801,7 @@ choix du fabricant
 
 
 
-> SOR/97-264, s. 1; SOR/2003-272, s. 8..
+> SOR/97-264, s. 1; SOR/2003-272, s. 8; SOR/2008-104, s. 9..
 
 
 ### Windshield Wiping and Washing System
@@ -3810,7 +3815,7 @@ choix du fabricant
 
 ***daylight opening*** means the maximum unobstructed opening through the glazing surface as defined in paragraph 2.3.12 of Section E, Ground Vehicle Practice, SAE Aerospace-Automotive Drawing Standards, (September 1963); (*ouverture de jour*)
 
-***glazing surface reference line*** means the intersection of the glazing surface and a horizontal plane 25 inches above the seating reference point, as shown in Figure 1 of SAE Recommended Practice J903a, (May 1966); (*ligne de référence de la surface vitrée*)
+***glazing surface reference line*** means the intersection of the glazing surface and a horizontal plane 635 mm above the seating reference point, as shown in Figure 1 of SAE Recommended Practice J903a (May 1966); (*ligne de référence de la surface vitrée*)
 
 ***overall width*** means the maximum overall body width dimension W116 as defined in Section E, Ground Vehicle Practice, SAE Aerospace-Automotive Drawing Standards, (September 1963); (*largeur hors tout*)
 
@@ -3862,7 +3867,7 @@ choix du fabricant
 
 
 
-**(b)** is within the area bounded by a perimeter line on the glazing surface 1 inch from the edge of the daylight opening.
+**(b)** is within the area bounded by a perimeter line on the glazing surface 25 mm from the edge of the daylight opening.
 
 
 
@@ -4153,34 +4158,23 @@ choix du fabricant
 
 
 
-> SOR/94-670, s. 2(F); SOR/97-264, s. 2; SOR/2002-55, s. 21; SOR/2003-272, s. 9; SOR/2006-94, s. 4(E)..
+> SOR/94-670, s. 2(F); SOR/97-264, s. 2; SOR/2002-55, s. 21; SOR/2003-272, s. 9; SOR/2006-94, s. 4(E); SOR/2008-104, s. 10..
 
 
 ### Hydraulic and Electric Brake Systems (Standard 105)
 
 
-#### General
-
-
 **105** 
 
-**(1)** Subject to section 135, every motor vehicle shall conform to Technical Standards Document No. 105, Hydraulic and Electric Brake Systems, as amended from time to time (hereafter referred to as TSD 105).
+**(1)** Subject to section 135, every motor vehicle shall conform to Technical Standards Document No. 105, Hydraulic and Electric Brake Systems (TSD 105), as amended from time to time.
 
 
 
-**(2) and (3)** [Repealed, SOR/2001-35, s. 4]
-
-Technical Standards Document No. 105
+**(2)** Despite section S5.3 and paragraph S5.3.5(b) of TSD 105, if a common indicator is used, the indicator shall display the symbol referred to in subsection 101(9) of this Schedule for brake system malfunction.
 
 
 
-
-
-**(4)** Notwithstanding sections S5.3 and S5.3.5(b) of TSD 105, if a common indicator is used, the indicator shall display the symbol referred to in subsection 101(9) of this Schedule for brake system malfunction.
-
-
-
-**(5)** Notwithstanding section S5.3 of TSD 105, the words required to be displayed under section S5.3.5 of TSD 105
+**(3)** Despite section S5.3 of TSD 105, the words required to be displayed under section S5.3.5 of TSD 105
 
 **(a)** in the cases referred to in paragraphs S5.3.5(c)(1)(A), (B) and (D), may be replaced or accompanied by a symbol that conforms to the colour requirements of subsection 101(9.1) of this Schedule; and
 
@@ -4192,24 +4186,20 @@ Technical Standards Document No. 105
 
 
 
-**(6)** Notwithstanding sections S5.3 and S5.3.5(c)(1)(C) of TSD 105, if a separate indicator is used to indicate a malfunction in an antilock brake system, the indicator shall display the corresponding symbol shown in Table II to section 101 of this Schedule.
+**(4)** Despite section S5.3 and paragraph S5.3.5(c)(1)(C) of TSD 105, if a separate indicator is used to indicate a malfunction in an antilock brake system, the indicator shall display the corresponding symbol shown in Table II to section 101 of this Schedule.
 
 
 
-**(7)** The statement set out in section S5.4.3 of TSD 105 may be replaced by another statement to the same effect.
-
-Expiry Date
+**(5)** The statement set out in section S5.4.3 of TSD 105 may be replaced by another statement to the same effect.
 
 
 
+**(6)** This section expires on January 1, 2010.
 
 
-**(8)** This section expires on January 1, 2010.
+> SOR/79-374, s. 3; SOR/80-637, s. 1; SOR/86-683, s. 3; SOR/86-976, s. 3; SOR/91-144, s. 1; SOR/96-85, s. 2; SOR/97-200, ss. 4, 6; SOR/97-421, s. 5; SOR/98-524, s. 4(F); SOR/99-357, s. 3; SOR/2001-35, s. 4; SOR/2005-42, s. 13; SOR/2008-104, s. 11..
 
 
-
-
-> SOR/79-374, s. 3; SOR/80-637, s. 1; SOR/86-683, s. 3; SOR/86-976, s. 3; SOR/91-144, s. 1; SOR/96-85, s. 2; SOR/97-200, ss. 4, 6; SOR/97-421, s. 5; SOR/98-524, s. 4(F); SOR/99-357, s. 3; SOR/2001-35, s. 4; SOR/2005-42, s. 13..
 
 
 ### Brake Hoses (Standard 106)
@@ -4269,11 +4259,11 @@ Expiry Date
 
 **108** 
 
-**(1)** Except as otherwise provided by this section, every passenger car, multi-purpose passenger vehicle, motorcycle, truck, trailer and bus shall be equipped with the lamps, retroreflective devices and associated equipment required by Technical Standards Document No. 108, Lamps, Reflective Devices and Associated Equipment, as amended from time to time (hereinafter referred to as TSD 108).
+**(1)** Every passenger car, multi-purpose passenger vehicle, motorcycle, truck, trailer and bus shall be equipped with the lamps, retroreflective devices and associated equipment required by Technical Standards Document No. 108, Lamps, Reflective Devices and Associated Equipment (TSD 108), as amended from time to time.
 
 
 
-**(1.1)** Except as otherwise provided by this section, every three-wheeled vehicle shall be equipped with the lamps, retroreflective devices and associated equipment required by TSD 108 for passenger cars.
+**(1.1)** Every three-wheeled vehicle shall be equipped with the lamps, retroreflective devices and associated equipment required by TSD 108 for passenger cars.
 
 
 
@@ -4281,7 +4271,7 @@ Expiry Date
 
 
 
-**(3)** Except as otherwise provided by this section, lamps, retroreflective devices and associated equipment required by this section shall be designed, installed and visible in accordance with the requirements of TSD 108, except Figures 11 to 14, 16, 18, 21 and 22.
+**(3)** Lamps, retroreflective devices and associated equipment required by this section shall be designed, installed and visible in accordance with the requirements of TSD 108, except Figures 11 to 14, 16, 18, 21 and 22.
 
 
 
@@ -4307,7 +4297,7 @@ Expiry Date
 
 
 
-**(b)** provided, by the vehicle manufacturer at the Director General’s request, to the Director General, Road Safety and Motor Vehicle Regulation Directorate, Transport Canada, 330 Sparks Street, Ottawa, Ontario K1A 0N5.
+**(b)** provided by the vehicle manufacturer to the Minister, at the Minister’s request.
 
 
 
@@ -4357,13 +4347,13 @@ Location of Required Equipment — Section S5.3 of TSD 108
 
 
 
-**(14)** For the purposes of section S5.3.1 and Table II of TSD 108, the location of rear identification lamps on a van trailer with side-opening rear doors conforms to that section, if the lamps are located as high as practicable
+**(14)** For the purposes of section S5.3 and Table II of TSD 108, the location of rear identification lamps on a van trailer with side-opening rear doors conforms to that section if the lamps are located as close as practicable to the top of the vehicle
 
-**(a)** above or on the rear doors, where the vertical face of the header rail, measured on the vertical longitudinal median plane of the vehicle, extends at least 25 mm above the rear doors; or
+**(a)** above or on the rear doors, where the vertical face of the header rail, measured on the vertical centreline of the vehicle, extends at least 25 mm above the rear doors; or
 
 
 
-**(b)** above or below or on the rear doors, where the vertical face of the header rail, measured on the vertical longitudinal median plane of the vehicle, extends less than 25 mm above the rear doors.
+**(b)** above or below or on the rear doors, where the vertical face of the header rail, measured on the vertical centreline of the vehicle, extends less than 25 mm above the rear doors.
 
 
 
@@ -4373,7 +4363,7 @@ Location of Required Equipment — Section S5.3 of TSD 108
 
 
 
-**(15)** For the purposes of section S5.3.1.1 of TSD 108, the test points from which the photometric output of a centre high-mounted stop lamp shall be measured are the applicable test points specified in Figure 10 of TSD 108.
+**(15)** [Repealed, SOR/2008-104, s. 12]
 
 
 
@@ -4450,10 +4440,6 @@ Conspicuity Systems — Section S5.7 of TSD 108
 <th>Entrance Angle (in degrees)</th>
 <th>Observation Angle of 0.2°</th>
 <th>Observation Angle of 0.5°</th>
-</tr>
-<tr>
-<th></th>
-<th></th>
 </tr>
 <tr>
 <td>1</td>
@@ -4535,11 +4521,11 @@ Headlighting Requirements — Section S7 of TSD 108
 
 
 
-**(27)** Despite section S7.3.7(e)(8) of TSD 108, the figures to which a deflectometer referred to in section 4.5 of SAE Standard J580, Sealed Beam Headlamp Assembly (December 1986) shall be designed to conform are those specified in a standard or recommended practice issued by the Society of Automotive Engineers (SAE) or provided by the vehicle manufacturer to the Director General, at the Director General’s request.
+**(27)** Despite section S7.3.7(e)(8) of TSD 108, the figures to which a deflectometer referred to in section 4.5 of SAE Standard J580, Sealed Beam Headlamp Assembly (December 1986) shall be designed to conform are those specified in a standard or recommended practice issued by the Society of Automotive Engineers (SAE) or provided by the vehicle manufacturer to the Minister, at the Minister’s request.
 
 
 
-**(28)** Despite section S7.3.8(c)(2) of TSD 108, the figures to which the special adapter and the deflectometer shall be designed to conform are those specified in a standard or recommended practice issued by the Society of Automotive Engineers (SAE) or provided by the vehicle manufacturer to the Director General, at the Director General’s request.
+**(28)** Despite section S7.3.8(c)(2) of TSD 108, the figures to which the special adapter and the deflectometer shall be designed to conform are those specified in a standard or recommended practice issued by the Society of Automotive Engineers (SAE) or provided by the vehicle manufacturer to the Minister, at the Minister’s request.
 
 
 
@@ -4823,7 +4809,7 @@ Visibility
 
 
 
-**(65)** A daytime running lamp shall meet the requirements of sections S5.1.3 and S5.3.1.1 of TSD 108.
+**(65)** A daytime running lamp shall meet the requirements of sections S5.1.3 and S5.3 of TSD 108.
 
 
 
@@ -4834,7 +4820,7 @@ Date of Expiration
 **(66)** This section expires on January 1, 2010.
 
 
-> SOR/79-306, s. 3; SOR/80-636, s. 2; SOR/84-812, s. 3; SOR/86-979, s. 1; SOR/87-497, s. 2; SOR/87-660, s. 4; SOR/88-268, s. 5; SOR/91-692, s. 2; SOR/94-374, s. 5; SOR/94-692, s. 2(F); SOR/95-147, s. 8; SOR/95-164, s. 5; SOR/96-366, s. 5; SOR/97-421, ss. 16, 18(E), 22(F); SOR/99-112, s. 1; SOR/99-426, s. 1; SOR/2000-182, s. 5; SOR/2001-60, s. 1; SOR/2001-116, s. 1; SOR/2001-353, s. 2; SOR/2003-272, s. 10; SOR/2005-42, ss. 1, 2; SOR/2006-94, s. 4(E)..
+> SOR/79-306, s. 3; SOR/80-636, s. 2; SOR/84-812, s. 3; SOR/86-979, s. 1; SOR/87-497, s. 2; SOR/87-660, s. 4; SOR/88-268, s. 5; SOR/91-692, s. 2; SOR/94-374, s. 5; SOR/94-692, s. 2(F); SOR/95-147, s. 8; SOR/95-164, s. 5; SOR/96-366, s. 5; SOR/97-421, ss. 16, 18(E), 22(F); SOR/99-112, s. 1; SOR/99-426, s. 1; SOR/2000-182, s. 5; SOR/2001-60, s. 1; SOR/2001-116, s. 1; SOR/2001-353, s. 2; SOR/2003-272, s. 10; SOR/2005-42, ss. 1, 2; SOR/2006-94, s. 4(E); SOR/2008-104, s. 12..
 
 
 
@@ -5668,7 +5654,7 @@ Immobilization System
 
 
 
-**(6)** The requirements set out in Part III of ECE Regulation No. 97 are modified as follows:
+**(6)** Compliance with paragraph (2)(c) shall be verified with the vehicle at curb mass plus 91 kg (including the driver), as follows:
 
 **(a)** the aftermarket, type approval and radio emission requirements do not apply;
 
@@ -5725,7 +5711,7 @@ Immobilization System
 
 
 
-> SOR/79-940, s. 7; SOR/95-164, s. 6; SOR/97-264, s. 3; SOR/97-421, s. 6; SOR/2005-45, s. 4; SOR/2007-246, s. 3..
+> SOR/79-940, s. 7; SOR/95-164, s. 6; SOR/97-264, s. 3; SOR/97-421, s. 6; SOR/2005-45, s. 4; SOR/2007-246, s. 3; SOR/2008-104, s. 13..
 
 
 ### Vehicle Identification Number
@@ -6672,12 +6658,9 @@ Immobilization System
 ### Air Brake Systems (Standard 121)
 
 
-#### General
-
-
 **121** 
 
-**(1)** Every motor vehicle that is equipped with an air brake system and to which Technical Standards Document No. 121, Air Brake Systems (hereafter referred to as TSD 121) applies shall conform to TSD 121, as amended from time to time.
+**(1)** Every motor vehicle that is equipped with an air brake system and to which Technical Standards Document No. 121, Air Brake Systems (TSD 121) applies shall conform to TSD 121, as amended from time to time.
 
 
 
@@ -6685,23 +6668,15 @@ Immobilization System
 
 
 
-Technical Standards Document No. 121
-
-
-
 **(3)** Every antilock brake system malfunction indicator referred to in section S5.1.6.2 of TSD 121 shall display the corresponding symbol shown for this indicator in Table II to section 101 of this Schedule, and all words accompanying the symbols shall be displayed in both official languages.
 
 
 
-**(4)** Notwithstanding section S5.2.3.3(a) of TSD 121, in addition to meeting the requirements of section S5.2.3.2 of TSD 121, each trailer and each trailer converter dolly manufactured before March 1, 2010 shall be equipped with an external antilock malfunction indicator lamp that meets the requirements of paragraphs S5.2.3.3(b) to (d).
+**(4)** Despite paragraph S5.2.3.3(a) of TSD 121, in addition to meeting the requirements of section S5.2.3.2 of TSD 121, each trailer and each trailer converter dolly manufactured before March 1, 2010 shall be equipped with an external antilock brake system malfunction indicator lamp that meets the requirements of paragraphs S5.2.3.3(b) to (d) of TSD 121.
 
 
 
 **(5)** The test of the parking brake static retardation force that is referred to in section S5.6.1 of TSD 121 must be conducted in both the forward and rearward directions.
-
-
-
-Expiry Date
 
 
 
@@ -6710,7 +6685,7 @@ Expiry Date
 
 
 
-> SOR/78-351, s. 2; SOR/79-547, s. 1; SOR/79-940, s. 7; SOR/80-638, s. 2; SOR/92-250, s. 4; SOR/94-374, s. 5(F), SOR/94-670, s. 2(F); SOR/95-147, s. 15(F); SOR/96-89, ss. 3, 4(F); SOR/97-200, s. 6; SOR/97-421, ss. 9(E), 22(F); SOR/98-524, s. 4(F); SOR/99-357, s. 4; SOR/2002-55, s. 21; SOR/2005-42, s. 13..
+> SOR/78-351, s. 2; SOR/79-547, s. 1; SOR/79-940, s. 7; SOR/80-638, s. 2; SOR/92-250, s. 4; SOR/94-374, s. 5(F), SOR/94-670, s. 2(F); SOR/95-147, s. 15(F); SOR/96-89, ss. 3, 4(F); SOR/97-200, s. 6; SOR/97-421, ss. 9(E), 22(F); SOR/98-524, s. 4(F); SOR/99-357, s. 4; SOR/2002-55, s. 21; SOR/2005-42, s. 13; SOR/2008-104, s. 14..
 
 
 ### Motorcycle Brake Systems (Standard 122)
@@ -6911,42 +6886,23 @@ Expiry Date
 
 
 
-#### General
-
-
 **135** 
 
-**(1) and (1.1)** [Repealed, SOR/2003-272, s. 20]
+**(1)** Every passenger car, every three-wheeled vehicle, and every multi-purpose passenger vehicle, truck and bus with a gross vehicle weight rating of 3 500 kg or less shall conform to Technical Standards Document No. 135, Light Vehicle Brake Systems (TSD 135), as amended from time to time.
 
 
 
-**(2)** Every passenger car and three-wheeled vehicle shall conform to Technical Standards Document No. 135, Light Vehicle Brake Systems, as amended from time to time (hereinafter referred to as TSD 135).
+**(2)** The statement set out in section S5.4.3 of TSD 135 may be replaced by another statement to the same effect.
 
 
 
-**(2.1)** Until August 31, 2002, every multi-purpose passenger vehicle, truck and bus with a gross vehicle weight rating of 3 500 kg or less may conform to section 105 of this schedule or to TSD 135.
+**(3)** Despite section S5.5 and paragraph S5.5.5(b) of TSD 135, if a common indicator is used, the indicator shall display the symbol for brake system malfunction referred to in subsection 101(9) of this Schedule.
 
 
 
-**(2.2)** On and after September 1, 2002, every multi-purpose passenger vehicle, truck and bus with a gross vehicle weight rating of 3 500 kg or less shall conform to TSD 135.
+**(4)** Despite section S5.5 of TSD 135, the words required to be displayed under section S5.5.5 of TSD 135
 
-
-
-**(3)** The statement set out in paragraph S5.4.3 of TSD 135 may be replaced by another statement to the same effect.
-
-
-
-Technical Standards Document No. 135
-
-
-
-**(4)** Notwithstanding sections S5.5 and S5.5.5(b) of TSD 135, if a common indicator is used, the indicator shall display the symbol for brake system malfunction referred to in subsection 101(9) of this Schedule.
-
-
-
-**(5)** Notwithstanding section S5.5 of TSD 135, the words required to be displayed pursuant to paragraph S5.5.5 of TSD 135,
-
-**(a)** in the cases referred to in paragraphs S5.5.5(d)(1), (2), (4) and (5) and in the case of the variable brake proportioning system indicator referred to in paragraph S5.5.5(d)(3), may be replaced or accompanied by a symbol that conforms to the colour requirements of subsection 101(9.1) of this Schedule; and
+**(a)** may be replaced or accompanied by a symbol that conforms to the colour requirements of subsection 101(9.1) of this Schedule in the cases referred to in paragraphs S5.5.5(d)(1), (2), (4) and (5) and in the case of the variable brake proportioning system indicator referred to in paragraph S5.5.5(d)(3); and
 
 
 
@@ -6956,24 +6912,20 @@ Technical Standards Document No. 135
 
 
 
-**(6)** Notwithstanding sections S5.5 and S5.5.5(d)(3) of TSD 135, if a separate indicator is used to indicate an electrical functional failure in an antilock brake system, the indicator shall display the corresponding symbol shown in Table II to section 101 of this Schedule.
+**(5)** Despite section S5.5 and paragraph S5.5.5(d)(3) of TSD 135, if a separate indicator is used to indicate an electrical functional failure in an antilock brake system, the indicator shall display the corresponding symbol shown in Table II to section 101 of this Schedule.
 
 
 
-**(7)** The word “car” used in sections S6.3.6 and S6.3.7 of the English version of TSD 135 shall be read as “vehicle”.
+**(6)** The word “car” used in sections S6.3.6 and S6.3.7 of the English version of TSD 135 shall be read as “vehicle”.
 
 
 
-Date of Expiration
+**(7)** This section expires on January 1, 2010.
 
 
-
-**(8)** This section expires on January 1, 2010.
-
+> SOR/97-200, s. 5; SOR/99-357, s. 5; SOR/2001-35, s. 6; SOR/2003-272, s. 20; SOR/2005-42. s. 13; SOR/2006-94, s. 4(E); SOR/2008-104, s. 15..
 
 
-
-> SOR/97-200, s. 5; SOR/99-357, s. 5; SOR/2001-35, s. 6; SOR/2003-272, s. 20; SOR/2005-42. s. 13; SOR/2006-94, s. 4(E)..
 
 
 **PART III** 
@@ -8191,7 +8143,7 @@ Transitional Provisions
 
 
 
-> SOR/78-80, s. 2; SOR/80-782, s. 2; SOR/87-578, s. 2; SOR/90-387, s. 3; SOR/93-5, s. 4; SOR/97-201, s. 5; SOR/97-447, s. 5; SOR/98-125, s. 6; SOR/98-524, s. 4(F); SOR/2002-55, s. 17; SOR/2003-272, s. 24; SOR/2006-94, s. 4(E); SOR/2007-180, s. 12; SOR/2008-72, s. 6..
+> SOR/78-80, s. 2; SOR/80-782, s. 2; SOR/87-578, s. 2; SOR/90-387, s. 3; SOR/93-5, s. 4; SOR/97-201, s. 5; SOR/97-447, s. 5; SOR/98-125, s. 6; SOR/98-524, s. 4(F); SOR/2002-55, s. 17; SOR/2003-272, s. 24; SOR/2006-94, s. 4(E); SOR/2007-180, s. 12; SOR/2008-72, s. 6; SOR/2008-104, s. 16(F)..
 
 
 ### Seat Belt Assemblies (Standard 209)
@@ -8827,7 +8779,7 @@ Figure 19 [Repealed, SOR/2008-72, s. 8]
 
 
 
-**(b)** in each of any two forward-facing designated seating positions in the second row of seating positions in a passenger car, three-wheeled vehicle or truck;
+**(b)** in two forward-facing designated seating positions in the second row of seating positions in a passenger car, three-wheeled vehicle or truck;
 
 
 
@@ -8835,19 +8787,19 @@ Figure 19 [Repealed, SOR/2008-72, s. 8]
 
 
 
-**(d)** for each of any two forward-facing designated seating positions, other than that of the driver or those in a bench seat that contains an adjacent seat in relation to the emergency exit, in a school bus that has 24 or fewer designated passenger seating positions;
+**(d)** in two forward-facing designated seating positions, other than that of the driver or those in a bench seat that contains an adjacent seat in relation to the emergency exit, in a school bus that has 24 or fewer designated passenger seating positions;
 
 
 
-**(e)** for each of any four forward-facing designated seating positions, other than that of the driver or those in a bench seat that contains an adjacent seat in relation to the emergency exit, in a school bus that has 25 or more, but 65 or fewer, designated passenger seating positions;
+**(e)** in four forward-facing designated seating positions, other than that of the driver or those in a bench seat that contains an adjacent seat in relation to the emergency exit, in a school bus that has 25 or more, but 65 or fewer, designated passenger seating positions;
 
 
 
-**(f)** for each of any eight forward-facing designated seating positions, other than that of the driver or those in a bench seat that contains an adjacent seat in relation to the emergency exit, in a school bus that has 66 or more designated passenger seating positions; and
+**(f)** in eight forward-facing designated seating positions, other than that of the driver or those in a bench seat that contains an adjacent seat in relation to the emergency exit, in a school bus that has 66 or more designated passenger seating positions; and
 
 
 
-**(g)** for each of any two forward-facing designated seating positions, other than that of the driver, in a bus other than a school bus.
+**(g)** in two forward-facing designated seating positions, other than that of the driver, in a bus other than a school bus.
 
 
 
@@ -9162,7 +9114,7 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/2002-205, S. 4; SOR/2008-72, S. 9
 
 
 
-> SOR/2002-205, s. 4; SOR/2003-272, s. 27; SOR/2005-342, s. 4; SOR/2006-94, ss. 3, 4(E); SOR/2008-72, s. 9..
+> SOR/2002-205, s. 4; SOR/2003-272, s. 27; SOR/2005-342, s. 4; SOR/2006-94, ss. 3, 4(E); SOR/2008-72, s. 9; SOR/2008-104, s. 17..
 
 
 **211** [Repealed, SOR/97-421, s. 13]
@@ -9343,7 +9295,7 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/2002-205, S. 4; SOR/2008-72, S. 9
 
 
 
-**(7)** Every built-in child restrain system shall provide a surface for the support of the child’s back that has a continuous surface area of not less than 54 800 mm<sup>2</sup> (85 square inches).
+**(7)** Every built-in child restraint system shall provide a surface for the support of the child’s back that has a continuous surface area of not less than 54 800 mm<sup>2</sup> (85 square inches).
 
 
 
@@ -9520,7 +9472,7 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/2002-205, S. 4; SOR/2008-72, S. 9
 
 
 
-> SOR/94-669, s. 6; SOR/2007-180, ss. 16, 21; SOR/2008-72, s. 11..
+> SOR/94-669, s. 6; SOR/2007-180, ss. 16, 21; SOR/2008-72, s. 11; SOR/2008-104, s. 18..
 
 
 ### Side Door Strength
@@ -10777,7 +10729,7 @@ TEST REQUIREMENTS
 
 
 
-**(c)** have a ground clearance not exceeding 560 mm, measured at any one support to which the horizontal member is attached, as shown in Figure 3, after completion of the energy absorption test or, if that test is not required, after completion of the uniform load test.
+**(c)** have a ground clearance not exceeding 560 mm, measured at each support to which the horizontal member is attached, as shown in Figure 3, after completion of the energy absorption test or, if that test is not required, after completion of the uniform load test.
 
 
 
@@ -10805,7 +10757,7 @@ TEST REQUIREMENTS
 
 
 
-**(c)** have a ground clearance not exceeding 560 mm, measured at any one support to which the horizontal member is attached, as shown in Figure 3, after completion of the energy absorption test or, if that test is not required, after completion of the load test.
+**(c)** have a ground clearance not exceeding 560 mm, measured at each support to which the horizontal member is attached, as shown in Figure 3, after completion of the energy absorption test or, if that test is not required, after completion of the uniform load test.
 
 
 
@@ -10822,7 +10774,7 @@ TEST REQUIREMENTS
 
 
 
-> SOR/2004-195, s. 2..
+> SOR/2004-195, s. 2; SOR/2008-104, s. 19..
 
 
 **PART IV** 
@@ -10844,8 +10796,7 @@ TEST REQUIREMENTS
 
 
 
-Technical Standards Document No. 301
-
+#### Technical Standards Document No. 301
 
 
 **(3)** Instead of being tested in accordance with paragraphs S6.2(a) and S6.3(a) of TSD 301, a vehicle referred to in subsection (1) may, at the option of the manufacturer, be tested in accordance with paragraphs S6.2(b) and S6.3(b) of TSD 301 before September 1, 2009.
@@ -10856,8 +10807,7 @@ Technical Standards Document No. 301
 
 
 
-Expiry Date
-
+#### Expiry Date
 
 
 **(5)** This section expires on February 28, 2009.
@@ -10905,7 +10855,7 @@ Expiry Date
 
 
 
-**(1.3)** Subsections (1.1) and (1.2) expire on the day that TSD 301 expires.
+**(1.3)** Subsections (1.1) and (1.2) expire on February 28, 2009.
 
 
 
@@ -10958,7 +10908,7 @@ Expiry Date
 
 
 
-> SOR/82-754, s. 3; SOR/97-421, s. 17; SOR/2001-152, s. 2; SOR/2002-55, s. 18; SOR/2003-272, s. 29; SOR/2004-89, s. 2..
+> SOR/82-754, s. 3; SOR/97-421, s. 17; SOR/2001-152, s. 2; SOR/2002-55, s. 18; SOR/2003-272, s. 29; SOR/2004-89, s. 2; SOR/2008-104, s. 20..
 
 
 ### CNG Fuel System Integrity (Standard 301.2)
@@ -10998,7 +10948,7 @@ Expiry Date
 
 
 
-**(1.3)** Subsections (1.1) and (1.2) expire on the day that TSD 301 expires.
+**(1.3)** Subsections (1.1) and (1.2) expire on February 28, 2009.
 
 
 
@@ -11065,7 +11015,7 @@ where
 
 
 
-> SOR/82-754, s. 3; SOR/95-77, s. 1; SOR/2001-152, s. 2; SOR/2002-55, s. 19; SOR/2003-272, s. 30; SOR/2004-89, s. 3; SOR/2005-342, s. 5..
+> SOR/82-754, s. 3; SOR/95-77, s. 1; SOR/2001-152, s. 2; SOR/2002-55, s. 19; SOR/2003-272, s. 30; SOR/2004-89, s. 3; SOR/2005-342, s. 5; SOR/2008-104, s. 21..
 
 
 ### Fuel System Integrity for Three-wheeled Vehicles and Motorcycles (Standard 301.3)
@@ -11467,7 +11417,7 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/2003-272, S. 33
 
 **(5)** Where the coupling on a C-dolly consists of two metal eyes, the two eyes shall
 
-**(a)** be separated laterally by a distance of 762 mm, ± 2 mm;
+**(a)** be separated laterally by a distance of 762 mm ± 2 mm;
 
 
 
@@ -11475,7 +11425,7 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/2003-272, S. 33
 
 
 
-**(c)** have a mounting height of 900 mm, ± 10 mm, when the C-dolly is not loaded; and
+**(c)** have a mounting height of 900 mm ± 10 mm, when the C-dolly is not loaded; and
 
 
 
@@ -11614,7 +11564,7 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/2003-272, S. 33
 
 
 
-> SOR/93-146, s. 4..
+> SOR/93-146, s. 4; SOR/2008-104, s. 22..
 
 
 ### C-dolly Hitch Requirements
@@ -11648,7 +11598,7 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/2003-272, S. 33
 
 **(3)** Where a coupling referred to in subsection (1) consists of two separate hitches, the hitches shall
 
-**(a)** be separated laterally by a distance of 762 mm, ± 2 mm;
+**(a)** be separated laterally by a distance of 762 mm ± 2 mm;
 
 
 
@@ -11656,7 +11606,7 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/2003-272, S. 33
 
 
 
-**(c)** have a mounting height of 900 mm, ± 10 mm, when the trailer is not loaded; and
+**(c)** have a mounting height of 900 mm ± 10 mm, when the trailer is not loaded; and
 
 
 
@@ -11679,7 +11629,7 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/2003-272, S. 33
 
 
 
-> SOR/93-146, s. 4..
+> SOR/93-146, s. 4; SOR/2008-104, s. 23..
 
 
 ### Trailer Cargo Anchoring Devices (Standard 905)
