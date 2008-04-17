@@ -120,13 +120,15 @@ Autorités habilitantes :
 
 **3** 
 
-- **(1)** Sous réserve du paragraphe (2), le présent règlement, partie I exceptée, s’applique aux petits bâtiments suivants :
+- **(1)** Sous réserve des paragraphes (2) et (3), le présent règlement, la partie I exceptée, s’applique aux petits bâtiments suivants :
 	- **a)** les embarcations de plaisance;
 	- **b)** les bâtiments qui transportent des passagers, au plus 12, et dont la jauge brute ne dépasse pas 15 tonneaux;
 	- **c)** les bâtiments à propulsion mécanique qui ont une jauge brute maximale de 15 tonneaux, qui ne transportent aucun passager et qui ne sont ni des embarcations de plaisance ni des bateaux de pêche.
 
 - **(2)** Le présent règlement ne s’applique pas aux engins flottants ayant moins de 2 m de longueur et n’étant pas conçus pour être munis d’un moteur.
-> DORS/99-54, art. 1; DORS/2005-29, art. 2.
+
+- **(3)** Le présent règlement ne s’applique pas aux bâtiments auxquels s’applique le [Règlement sur les bâtiments à usage spécial](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2008/121.md).
+> DORS/99-54, art. 1; DORS/2005-29, art. 2; DORS/2008-121, art. 19.
 
 
 
