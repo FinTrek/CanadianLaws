@@ -1502,9 +1502,14 @@ An organization shall investigate all complaints. If a complaint is found to be 
 <td>[Federal Real Property and Federal Immovables Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2050.md)</td>
 <td>Sections 3, 5 to 7, 11 and 16</td>
 </tr>
+<tr>
+<td>2</td>
+<td>[Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md)</td>
+<td>Subsection 254(1)</td>
+</tr>
 </table>
 
-> 2000, c. 5, Sch. 2; SOR/2004-309, s. 1. .
+> 2000, c. 5, Sch. 2; SOR/2004-309, s. 1; SOR/2008-114.
 
 
 
