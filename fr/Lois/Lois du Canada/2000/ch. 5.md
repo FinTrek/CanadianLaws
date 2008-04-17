@@ -1486,9 +1486,14 @@ Une organisation doit faire enquête sur toutes les plaintes. Si une plainte est
 <td>[Loi sur les immeubles fédéraux et les biens réels fédéraux](/fr/Lois/Lois%20du%20Canada/1991/ch.%2050.md)</td>
 <td>Articles 3, 5 à 7, 11 et 16</td>
 </tr>
+<tr>
+<td>2</td>
+<td>[Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md)</td>
+<td>Paragraphe 254(1)</td>
+</tr>
 </table>
 
-> 2000, ch. 5, ann. 2; DORS/2004-309, art. 1.
+> 2000, ch. 5, ann. 2; DORS/2004-309, art. 1; DORS/2008-114.
 
 
 
