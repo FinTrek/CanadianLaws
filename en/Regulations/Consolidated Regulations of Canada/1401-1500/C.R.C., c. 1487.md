@@ -120,13 +120,15 @@ Enabling authorities:
 
 **3** 
 
-- **(1)** Subject to subsection (2), these Regulations, except Part I, apply in respect of the following small vessels:
+- **(1)** Subject to subsections (2) and (3), these Regulations, except for Part I, apply in respect of the following small vessels:
 	- **(a)** a pleasure craft;
 	- **(b)** a passenger-carrying vessel that does not exceed 15 tons gross tonnage and that does not carry more than 12 passengers; and
 	- **(c)** a power-driven vessel that does not exceed 15 tons gross tonnage, that does not carry passengers and that is neither a pleasure craft nor a fishing vessel.
 
 - **(2)** These Regulations do not apply to floating devices that measure less than 2 m in length and that are not designed to be fitted with a motor.
-> SOR/99-54, s. 1; SOR/2005-29, s. 2.
+
+- **(3)** These Regulations do not apply in respect of vessels in respect of which the [Special-purpose Vessels Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2008/121.md) apply.
+> SOR/99-54, s. 1; SOR/2005-29, s. 2; SOR/2008-121, s. 19.
 
 
 
