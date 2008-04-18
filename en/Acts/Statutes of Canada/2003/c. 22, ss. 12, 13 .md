@@ -23,7 +23,7 @@ the public service has contributed to the building of Canada, and will continue 
 
 Canada will continue to benefit from a public service that is based on merit and non-partisanship and in which these values are independently safeguarded;
 
-Canada will also continue to gain from a public service that strives for excellence, that is representative of Canada's diversity and that is able to serve the public with integrity and in their official language of choice;
+Canada will also continue to gain from a public service that strives for excellence, that is representative of Canada’s diversity and that is able to serve the public with integrity and in their official language of choice;
 
 the public service, whose members are drawn from across the country, reflects a myriad of backgrounds, skills and professions that are a unique resource for Canada;
 
@@ -756,6 +756,21 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(6)** Persons described in subsection (1) shall be appointed in priority to persons described in subsection (4), and persons described in each of those subsections shall be appointed in the order determined by the Commission.
 > 2003, c. 22, s. 12 “41”; 2006, c. 9, s. 103.
+
+
+
+
+
+**Resumption of employment**
+
+**41.1** 
+
+- **(1)** At the end of a leave of absence from employment that is taken by an employee who is a member of the reserve force in order to take part in an operation or activity referred to in paragraphs 247.5(1)(a) to (f) of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md), the deputy head shall reinstate the employee in the position that the employee occupied on the day before the day on which the leave begins.
+
+**Workforce adjustment**
+
+- **(2)** Despite subsection (1), if a deputy head is not able to reinstate the employee in that position by reason of a workforce adjustment, the workforce adjustment measures that are established by the employer or the measures that are set out in agreements relating to workforce adjustment apply.
+> 2008, c. 15, s. 6.
 
 
 
