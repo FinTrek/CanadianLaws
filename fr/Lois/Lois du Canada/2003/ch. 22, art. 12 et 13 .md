@@ -796,6 +796,21 @@ French version only***nomination interne*** Nomination d’une personne faisant 
 
 
 
+**Reprise de l’emploi**
+
+**41.1** 
+
+- **(1)** L’administrateur général est tenu de réintégrer dans son poste antérieur le fonctionnaire qui est membre de la force de réserve à la fin du congé qu’il a pris afin de prendre part à une opération ou à une activité visées aux alinéas 247.5(1)a) à f) du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md).
+
+**Exception**
+
+- **(2)** Par dérogation au paragraphe (1), l’administrateur général se conforme aux mesures de restructuration des effectifs prises par l’employeur ou celles figurant dans les accords sur le réaménagement des effectifs, s’il ne peut réintégrer le fonctionnaire dans son poste antérieur en raison d’une restructuration des effectifs.
+> 2008, ch. 15, art. 6.
+
+
+
+
+
 **Défaut de nomination — congé**
 
 **42** La personne visée au paragraphe 41(1) qui n’est pas nommée à un poste dans le délai applicable aux termes de ce paragraphe perd sa qualité de fonctionnaire à l’expiration de ce délai.
