@@ -92,11 +92,13 @@ Enabling authorities:
 
 - **(2.4)** For the purpose of subsection (2.3), "specified part" in respect of the Halifax compulsory pilotage area means that part of the Halifax compulsory pilotage area described in section 2 of Part III of the schedule that lies between a line commencing at a point at Latitude 44°39’15”N., Longitude 63°34’44”W., thence on a bearing of 063°(True) for a distance of 640 m, thence on a bearing of 335°(True) to shore, and a line commencing at a point at Latitude 44°39’50”N., Longitude 63°35’30”W., thence on a bearing of 063°(True) for a distance of 380 m, and thence on a bearing of 335°(True) to shore.
 
+- **(2.5)** Despite subsection (1), a ship that is less than 15 000 gross tons is not subject to compulsory pilotage within the portion of the Voisey’s Bay compulsory pilotage area described in paragraph 2(a) of Part II of the schedule (Zone A, Outer).
+
 - **(3)** Despite subsection (2), a ship referred to in paragraph (2)(b), (c), (d), (e) or (f) is subject to compulsory pilotage if there is a risk to navigational safety because of
 	- **(a)** the seaworthiness of the ship;
 	- **(b)** unusual conditions on board the ship; or
 	- **(c)** weather conditions, tides, currents or ice.
-> SOR/82-52, s. 1; SOR/82-527, s. 1; SOR/86-685, s. 1; SOR/87-722, s. 1(F); SOR/90-576, s. 1; SOR/99-153, s. 1; SOR/2000-338, s. 1; SOR/2006-73, s. 2.
+> SOR/82-52, s. 1; SOR/82-527, s. 1; SOR/86-685, s. 1; SOR/87-722, s. 1(F); SOR/90-576, s. 1; SOR/99-153, s. 1; SOR/2000-338, s. 1; SOR/2006-73, s. 2; SOR/2008-29, s. 1.
 
 
 
@@ -438,27 +440,19 @@ every holder of a licence or pilotage certificate who was performing pilotage du
 
 
 ### **SCHEDULE** 
-**(s. 3)**
-
-
+**(Section 3 and subsections 4(2.1), (2.2), (2.4) and (2.5))**
 
 **PART I** 
 ## Compulsory Pilotage Areas of New Brunswick
 
 
-
-
-## Miramichi Compulsory Pilotage Area
+### Miramichi Compulsory Pilotage Area
 
 **1** The Miramichi compulsory pilotage area consists of all the navigable waters within a line drawn from Pointe Morin to the north end of Portage Island, THENCE, on a bearing of 114° (True) to a position at Latitude 47°07′30″N., Longitude 64°47′00″W. and THENCE, on a bearing of 191° (True) to Point Escuminac Light.
 
 
 
-
-
-
-
-## Restigouche Compulsory Pilotage Area
+### Restigouche Compulsory Pilotage Area
 
 **2** The Restigouche compulsory pilotage area is composed of two areas, namely:
 - **(a)** Restigouche compulsory pilotage area (Zone A Dalhousie) which consists of all the navigable waters within a line drawn from Little Belledune Point on a bearing of 000° (True) for a distance of 3.0 nautical miles, and a line drawn from a latter geographical point to Misquasha Point and a line drawn from Peuplier Point to Pointe à Fleurant; and
@@ -466,19 +460,9 @@ every holder of a licence or pilotage certificate who was performing pilotage du
 
 
 
-
-
-
-
-## Saint John Compulsory Pilotage Area
+### Saint John Compulsory Pilotage Area
 
 **3** The Saint John compulsory pilotage area consists of all the navigable waters within a line drawn across the Saint John Harbour from a position at Latitude 45°15′48″N., Longitude 66°04′48″W., 136° (True) to a position at Latitude 45°15′42″N., Longitude 66°04′36.8″ W. and all the navigable waters within a line bearing 180° (True) from Cape Spencer for a distance of 1.6 nautical miles, thence 270° (True) for a distance of 4.16 nautical miles, thence 295° (True) for a distance of 5.3 nautical miles to shore.
-
-
-
-
-
-
 
 
 
@@ -486,47 +470,38 @@ every holder of a licence or pilotage certificate who was performing pilotage du
 ## Compulsory Pilotage Areas of Newfoundland and Labrador
 
 
-
-
-## Bay of Exploits Compulsory Pilotage Area
+### Bay of Exploits Compulsory Pilotage Area
 
 **1** The Bay of Exploits compulsory pilotage area consists of two areas, namely,
 - **(a)** Botwood Compulsory Pilotage Area, which consists of all the navigable waters inside a line drawn from Govers Point at a position of Latitude 49°19′36.5″ N., Longitude 55°13′42.2″ W., to Cabbage Harbour Head at a position of Latitude 49°19′54″ N., Longitude 55°11′42.5″ W.; and
 - **(b)** Lewisporte Compulsory Pilotage Area, which consists of all the navigable waters inside a line drawn from Long Point at a position of Latitude 49°21′00″ N., Longitude 54°54′18″ W., to Sivier Island, South End at a position of Latitude 49°20′30″ N., Longitude 54°58′54″ W.
 
 
-**2** [Repealed, SOR/98-113, s. 1]
+
+### Voisey’s Bay Compulsory Pilotage Area
+
+**2** The Voisey’s Bay compulsory pilotage area consists of the following areas:
+- **(a)** Voisey’s Bay compulsory pilotage area (Zone A, Outer), which consists of all the navigable waters within a line drawn from a position at Latitude 56°20′00″ N, Longitude 60°30′00″ W, to a position at Latitude 56°26.5′00″ N, Longitude 61°10′00″ W, thence to a position at Latitude 56°22.7′00″ N, Longitude 61°10′00″ W, thence to a position at Latitude 56°17.5′00″ N, Longitude 60°30′00″ W, and thence to the point of commencement; and
+- **(b)** Voisey’s Bay compulsory pilotage area (Zone B, Inner), which consists of all the navigable waters adjacent to Akuliakatak Peninsula between Latitudes 56°22.7′00″ N and 56°26.5′00″ N and west of Longitude 61°10′00″ W.
 
 
 **3** [Repealed, SOR/82-52, s. 4]
 
 
 
-
-
-
-
-## Holyrood Compulsory Pilotage Area
+### Holyrood Compulsory Pilotage Area
 
 **4** The Holyrood compulsory pilotage area consists of all the navigable waters within a line drawn from Salmon Cove Point on a bearing of 090° (True) to the east shore of Conception Bay.
 
 
 
-
-
-
-
-## Humber Arm Compulsory Pilotage Area
+### Humber Arm Compulsory Pilotage Area
 
 **5** The Humber Arm compulsory pilotage area consists of all the navigable waters east of a line drawn from Frenchman's Head to McIver Point.
 
 
 
-
-
-
-
-## Placentia Bay Compulsory Pilotage Area
+### Placentia Bay Compulsory Pilotage Area
 > [SOR/90-576, s. 8(F)]
 
 
@@ -537,29 +512,15 @@ every holder of a licence or pilotage certificate who was performing pilotage du
 
 
 
-
-
-
-
-## St. John's Compulsory Pilotage Area
+### St. John's Compulsory Pilotage Area
 
 **8** The St. John's compulsory pilotage area consists of all the navigable waters of the Harbour of St. John's west of a line drawn from North Head to South Head and all the navigable waters seaward of that line within a radius of two nautical miles.
 
 
 
-
-
-
-
-## Stephenville Compulsory Pilotage Area
+### Stephenville Compulsory Pilotage Area
 
 **9** The Stephenville compulsory pilotage area consists of all the navigable waters in Stephenville Pond and all the navigable waters within a line drawn from Indian Head Light in a direction of 210° (True) for a distance of 600 m, thence 320° (True) for a distance of 900 m, thence 030° (True) for a distance of 820 m to shore.
-
-
-
-
-
-
 
 
 
@@ -567,9 +528,7 @@ every holder of a licence or pilotage certificate who was performing pilotage du
 ## Compulsory Pilotage Areas of Nova Scotia
 
 
-
-
-## Cape Breton Compulsory Pilotage Area
+### Cape Breton Compulsory Pilotage Area
 
 **1** The Cape Breton compulsory pilotage area is composed of four areas, namely:
 - **(a)** Cape Breton compulsory pilotage area (Zone A Sydney) which consists of all the navigable waters within a line drawn from Swivel Point to McGillivray Point and a line six nautical miles seaward thereof drawn parallel thereto;
@@ -583,29 +542,15 @@ every holder of a licence or pilotage certificate who was performing pilotage du
 
 
 
-
-
-
-
-## Halifax Compulsory Pilotage Area
+### Halifax Compulsory Pilotage Area
 
 **2** The Halifax compulsory pilotage area consists of all the navigable waters within a line drawn from Chebucto Head at a position Latitude 44°30′05″ N., Longitude 63°31′12″W., to Hartlen Point at a position Latitude 44°35′20″N., Longitude 63°27′07″W.
 
 
 
-
-
-
-
-## Pugwash Compulsory Pilotage Area
+### Pugwash Compulsory Pilotage Area
 
 **3** The Pugwash compulsory pilotage area consists of all the navigable waters within a line drawn from Pugwash Point to a geographic point situated at a distance of 2.1 nautical miles on a bearing of 025° (True), THENCE, for a distance of 2.2 nautical miles on a bearing of 270° (True), and THENCE, on a bearing of 205° (True) to Lewis Head.
-
-
-
-
-
-
 
 
 
@@ -613,27 +558,17 @@ every holder of a licence or pilotage certificate who was performing pilotage du
 ## Compulsory Pilotage Area of Prince Edward Island
 
 
-
-
-## Charlottetown Compulsory Pilotage Area
+### Charlottetown Compulsory Pilotage Area
 
 **1** The Charlottetown compulsory pilotage area consists of all the navigable waters within a line drawn from Rice Point to a geographic point situated at a distance of 7.9 nautical miles on a bearing of 180° (True), THENCE, for a distance of 7.7 nautical miles on a bearing of 090° (True), and THENCE, on a bearing of 000° (True) to Prim Point.
 
 
 
-
-
-
-
-## Confederation Bridge Compulsory Pilotage Area
+### Confederation Bridge Compulsory Pilotage Area
 
 **2** The Confederation Bridge compulsory pilotage area consists of all the navigable waters within a quadrilateral commencing at a point at Latitude 46°11′00″ N, Longitude 63°47′00″ W, thence on a bearing of 340° (True) for a distance of 4.4 nautical miles to a position at Latitude 46°15′12″ N, Longitude 63°49′12″ W, thence on a bearing of 107° (True) for a distance of 4.1 nautical miles to a position at Latitude 46°14′00″ N, Longitude 63°43′30″ W, thence on a bearing of 157° (True) for a distance of 3.75 nautical miles to a position at Latitude 46°10′30″ N, Longitude 63°41′30″ W, thence on a bearing of 277° (True) for a distance of 3.9 nautical miles to the point of commencement.
 
 
-
-
-
-
->  SOR/82-52, ss. 3 to 7; SOR/82-953, s. 1; SOR/90-576, ss. 8(F), 9, 10(F); SOR/97-355, s. 1; SOR/97-452, s. 1; SOR/98-113, s. 1; SOR/2000-338, s. 2; SOR/2006-73, ss. 16, 17(F).
+>  SOR/82-52, ss. 3 to 7; SOR/82-953, s. 1; SOR/90-576, ss. 8(F), 9, 10(F); SOR/97-355, s. 1; SOR/97-452, s. 1; SOR/98-113, s. 1; SOR/2000-338, s. 2; SOR/2006-73, ss. 16, 17(F); SOR/2008-29, ss. 2, 3.
 
 
