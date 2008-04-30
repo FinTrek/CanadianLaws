@@ -92,11 +92,13 @@ Autorités habilitantes :
 
 - **(2.4)** Pour l'application du paragraphe (2.3), «partie spécifiée» de la zone de pilotage obligatoire de Halifax désigne la partie de la zone décrite à l'article 2 de la partie III de l'annexe qui se trouve à l'intérieur de la zone délimitée par des lignes, tracées à partir d'un point situé par 44°39’15” de latitude N et 63°34’44” de longitude O; de là, sur un relèvement de 063° (V) sur une distance de 640 m; de là, sur un relèvement de 335° (V) jusqu'au littoral; à partir d'un point situé par 44°39’50” de latitude N et 63°35’30” de longitude O; de là, sur un relèvement de 063° (V) sur une distance de 380 m; et de là, sur un relèvement de 335° (V) jusqu'au littoral.
 
+- **(2.5)** Malgré le paragraphe (1), les navires ayant une jauge brute de moins de 15 000 tonneaux ne sont pas assujettis au pilotage obligatoire dans la partie de la zone de pilotage obligatoire de la baie Voisey’s décrite à l’alinéa 2a) de la partie II de l’annexe (Zone A, secteur extérieur).
+
 - **(3)** Malgré le paragraphe (2), tout navire visé aux alinéas 2b), c), d) e) ou f) est assujetti au pilotage obligatoire si son utilisation risque de compromettre la sécurité de la navigation en raison, selon le cas :
 	- **a)** de la navigabilité du navire;
 	- **b)** de circonstances exceptionnelles à bord du navire;
 	- **c)** des conditions météorologiques, des marées, des courants ou de l’état des glaces.
-> DORS/82-52, art. 1; DORS/82-527, art. 1; DORS/86-685, art. 1; DORS/87-722, art. 1(F); DORS/90-576, art. 1; DORS/99-153, art. 1; DORS/2000-338, art. 1; DORS/2006-73, art. 2.
+> DORS/82-52, art. 1; DORS/82-527, art. 1; DORS/86-685, art. 1; DORS/87-722, art. 1(F); DORS/90-576, art. 1; DORS/99-153, art. 1; DORS/2000-338, art. 1; DORS/2006-73, art. 2; DORS/2008-29, art. 1.
 
 
 
@@ -443,27 +445,19 @@ tout titulaire d'un brevet ou d'un certificat de pilotage qui remplissait les fo
 
 
 ### **ANNEXE** 
-**(art. 3)**
-
-
+**(article 3 et paragraphes 4(2.1), (2.2), (2.4) et (2.5))**
 
 **PARTIE I** 
 ## Zones de pilotage obligatoire du nouveau-brunswick
 
 
-
-
-## Zone de pilotage obligatoire de Miramichi
+### Zone de pilotage obligatoire de Miramichi
 
 **1** La zone de pilotage obligatoire de Miramichi comprend toutes les eaux navigables en deçà d’une ligne tirée à partir de la pointe Morin jusqu’à l’extrémité nord de l’île Portage et DE LÀ, sur un relèvement de 114° (V) jusqu’à un point situé par 47°07′30″ de latitude N. et 64°47′00″ de longitude O., et DE LÀ, sur un relèvement de 191° (V) jusqu’au feu de la pointe Escuminac.
 
 
 
-
-
-
-
-## Zone de pilotage obligatoire de Restigouche
+### Zone de pilotage obligatoire de Restigouche
 
 **2** La zone de pilotage obligatoire de Restigouche est composée de deux zones :
 - **a)** la zone de pilotage obligatoire de Restigouche (Zone A, Dalhousie) comprend toutes les eaux navigables situées entre une ligne tirée à partir de Little Belledune Point sur un relèvement de 000° (V), sur une distance de 3,0 milles marins, et une ligne tirée de ce dernier point géographique jusqu’à la pointe Misquasha et une ligne tirée de la pointe Peuplier jusqu’à la pointe à Fleurant; et
@@ -471,19 +465,9 @@ tout titulaire d'un brevet ou d'un certificat de pilotage qui remplissait les fo
 
 
 
-
-
-
-
-## Zone de pilotage obligatoire de Saint-John
+### Zone de pilotage obligatoire de Saint-John
 
 **3** La zone de pilotage obligatoire de Saint-John comprend toutes les eaux navigables en deçà d’une ligne tirée en travers du port de Saint-John à partir d’un point situé par 45°15′48″ de latitude N et de 66°04′48″ de longitude O, sur un relèvement de 136° (V) jusqu’à un point situé par 45°15′42″ de latitude N et de 66°04′36,8″ de longitude O, ainsi que toutes les eaux navigables en deçà d’une ligne tirée sur un relèvement de 180° (V) à partir du cap Spencer sur une distance de 1,6 mille marin, et de là, sur un relèvement de 270° (V) sur une distance de 4,16 milles marins, et de là, sur un relèvement de 295° (V) sur une distance de 5,3 milles marins jusqu’au littoral.
-
-
-
-
-
-
 
 
 
@@ -491,47 +475,38 @@ tout titulaire d'un brevet ou d'un certificat de pilotage qui remplissait les fo
 ## Zones de pilotage obligatoire de terre-neuve-et-labrador
 
 
-
-
-## Zone de pilotage obligatoire de la baie des Exploits
+### Zone de pilotage obligatoire de la baie des Exploits
 
 **1** La zone de pilotage obligatoire de la baie des Exploits comprend :
 - **a)** la zone de pilotage obligatoire de Botwood qui comprend toutes les eaux navigables qui s’étendent en deçà d’une ligne tirée à partir de la pointe Govers à un point situé par 49°19′36,5″ de latitude N. et 55°13′42,2″ de longitude O., jusqu’à Cabbage Harbour Head à un point situé par 49°19′54″ de latitude N. et 55°11′42,5″ de longitude O.; et
 - **b)** la zone de pilotage obligatoire de Lewisporte qui comprend toutes les eaux navigables qui s’étendent en deçà d’une ligne tirée à partir de la pointe Long, à un point situé par 49°21′00″ de latitude N. et 54°54′18″ de longitude O., jusqu’à Sivier Island, South End, à un point situé par 49°20′30″ de latitude N. et 54°58′54″ de longitude O.
 
 
-**2** [Abrogé, DORS/98-113, art. 1]
+
+### Zone de pilotage obligatoire de la baie Voisey’s
+
+**2** La zone de pilotage obligatoire de la baie Voisey’s est composée :
+- **a)** de la zone de pilotage obligatoire de la baie Voisey’s (Zone A, secteur extérieur), qui est composée de toutes les eaux navigables situées en deçà d’une ligne tirée à partir d’un point situé par 56°20′00″ de latitude N. et 60°30′00″ de longitude O., jusqu’à un point situé par 56°26,5′00″ de latitude N. et 61°10′00″ de longitude O., de là, jusqu’à un point situé par 56°22,7′00″ de latitude N. et 61°10′00″ de longitude O., de là, à un point situé par 56°17,5′00″ de latitude N. et 60°30′00″ de longitude O., et de là, jusqu’au point de commencement;
+- **b)** de la zone de pilotage obligatoire de la baie Voisey’s (Zone B, secteur intérieur), qui est composée de toutes les eaux navigables adjacentes à la péninsule Akuliakatak situées entre 56°22,7′00″ de latitude N. et 56°26,5′00″ de latitude N. et à l’ouest de 61°10′00″ de longitude O.
 
 
 **3** [Abrogé, DORS/82-52, art. 4]
 
 
 
-
-
-
-
-## Zone de pilotage obligatoire de Holyrood
+### Zone de pilotage obligatoire de Holyrood
 
 **4** La zone de pilotage obligatoire de Holyrood comprend toutes les eaux navigables en deçà d’une ligne tirée à partir de Salmon Cove Point sur un relèvement de 090° (V) jusqu’au rivage est de la baie de la Conception.
 
 
 
-
-
-
-
-## Zone de pilotage obligatoire de Humber Arm
+### Zone de pilotage obligatoire de Humber Arm
 
 **5** La zone de pilotage obligatoire de Humber Arm comprend toutes les eaux navigables à l’est d’une ligne tirée à partir de Frenchman’s Head jusqu’à McIver Point.
 
 
 
-
-
-
-
-## Zone de pilotage obligatoire de la baie Placentia
+### Zone de pilotage obligatoire de la baie Placentia
 > [DORS/90-576, art. 8(F)]
 
 
@@ -542,29 +517,15 @@ tout titulaire d'un brevet ou d'un certificat de pilotage qui remplissait les fo
 
 
 
-
-
-
-
-## Zone de pilotage obligatoire de St. John’s
+### Zone de pilotage obligatoire de St. John’s
 
 **8** La zone de pilotage obligatoire de St. John’s comprend toutes les eaux navigables du port de St. John’s situées à l’ouest d’une ligne tirée à partir du cap North jusqu’au cap South, ainsi que toutes les eaux navigables au large de cette ligne dans un rayon de 2 milles marins.
 
 
 
-
-
-
-
-## Zone de pilotage obligatoire de Stephenville
+### Zone de pilotage obligatoire de Stephenville
 
 **9** La zone de pilotage obligatoire de Stephenville comprend toutes les eaux navigables de l’étang de Stephenville en decà d’une ligne tirée à partir du phare de Indian Head sur un relèvement de 210° (V) sur une distance de 600 m, de là, sur un relèvement de 320° (V) sur une distance de 900 m, et de là, sur un relèvement de 030° (V) sur une distance de 820 m jusqu’au littoral.
-
-
-
-
-
-
 
 
 
@@ -572,9 +533,7 @@ tout titulaire d'un brevet ou d'un certificat de pilotage qui remplissait les fo
 ## Zones de pilotage obligatoire de la nouvelle-écosse
 
 
-
-
-## Zone de pilotage obligatoire du Cap-Breton
+### Zone de pilotage obligatoire du Cap-Breton
 
 **1** La zone de pilotage obligatoire du Cap-Breton est composée de quatre zones, soit :
 - **a)** la zone de pilotage obligatoire du Cap-Breton (Zone A, Sydney) comprend toutes les eaux navigables situées entre une ligne tirée à partir de la pointe Swivel jusqu’à la pointe McGillivray et une ligne parallèle à cette dernière et tirée à six milles marins au large;
@@ -588,29 +547,15 @@ tout titulaire d'un brevet ou d'un certificat de pilotage qui remplissait les fo
 
 
 
-
-
-
-
-## Zone de pilotage obligatoire de Halifax
+### Zone de pilotage obligatoire de Halifax
 
 **2** La zone de pilotage obligatoire de Halifax comprend toutes les eaux navigables en deçà d’une ligne tirée à partir du cap Chébouctou à un point situé par 44°30′05″ de latitude N. et 63°31′12″ de longitude O., jusqu’à la pointe Hartlen à un point situé par 44°35′20″ de latitude N. et 63°27′07″ de longitude O.
 
 
 
-
-
-
-
-## Zone de pilotage obligatoire de Pugwash
+### Zone de pilotage obligatoire de Pugwash
 
 **3** La zone de pilotage obligatoire de Pugwash comprend toutes les eaux navigables en deçà d’une ligne tirée à partir de la pointe Pugwash jusqu’à un point géographique situé à une distance de 2,1 milles marins sur un relèvement de 025° (V), et DE LÀ, sur une distance de 2,2 milles marins, sur un relèvement de 270° (V), et DE LÀ, sur un relèvement de 205° (V) jusqu’au cap Lewis.
-
-
-
-
-
-
 
 
 
@@ -618,27 +563,17 @@ tout titulaire d'un brevet ou d'un certificat de pilotage qui remplissait les fo
 ## Zone de pilotage obligatoire de l’île-du-prince-édouard
 
 
-
-
-## Zone de pilotage obligatoire de Charlottetown
+### Zone de pilotage obligatoire de Charlottetown
 
 **1** La zone de pilotage obligatoire de Charlottetown comprend toutes les eaux navigables en deçà d’une ligne tirée à partir de la pointe Rice jusqu’à un point géographique situé à une distance de 7,9 milles marins sur un relèvement de 180° (V) et, DE LÀ, jusqu’à un autre point situé à 7,7 milles marins, sur un relèvement de 090° (V) et, DE LÀ, sur un relèvement de 000° (V) jusqu’à la pointe Prim.
 
 
 
-
-
-
-
-## Zone de pilotage obligatoire du pont de la Confédération
+### Zone de pilotage obligatoire du pont de la Confédération
 
 **2** La zone de pilotage obligatoire du pont de la Confédération comprend toutes les eaux navigables situées à l’intérieur d’un quadrilatère commençant à un point situé par 46°11′00″ de latitude N. et 63°47′00″ de longitude O., de là, sur un relèvement de 340° (V) sur une distance de 4,4 milles marins jusqu’à un point situé par 46°15′12″ de latitude N. et 63°49′12″ de longitude O., de là, sur un relèvement de 107° (V) sur une distance de 4,1 milles marins jusqu’à un point situé par 46°14′00″ de latitude N. et 63°43′30″ de longitude O., de là, sur un relèvement de 157° (V) sur une distance de 3,75 milles marins jusqu’à un point situé par 46°10′30″ de latitude N. et 63°41′30″ de longitude O., de là, sur un relèvement de 277° (V) sur une distance de 3,9 milles marins jusqu’au point de commencement.
 
 
-
-
-
-
->  DORS/82-52, art. 3 à 7; DORS/82-953, art. 1; DORS/90-576, art. 8(F), 9 et 10(F); DORS/97-355, art. 1; DORS/97-452, art. 1; DORS/98-113, art. 1; DORS/2000-338, art. 2; DORS/2006-73, art. 16 et 17(F).
+>  DORS/82-52, art. 3 à 7; DORS/82-953, art. 1; DORS/90-576, art. 8(F), 9 et 10(F); DORS/97-355, art. 1; DORS/97-452, art. 1; DORS/98-113, art. 1; DORS/2000-338, art. 2; DORS/2006-73, art. 16 et 17(F); DORS/2008-29, art. 2 et 3.
 
 
