@@ -4624,7 +4624,7 @@ is guilty of an offence punishable on summary conviction and liable to a fine no
 - **(o.2)** section 221 (causing bodily harm by criminal negligence);
 - **(p)** section 236 (manslaughter);
 - **(q)** section 239 (attempt to commit murder);
-- **(r)** section 244 (causing bodily harm with intent);
+- **(r)** section 244 (discharging firearm with intent);
 - **(s)** section 246 (overcoming resistance to commission of offence);
 - **(s.1)** subsections 249(3) and (4) (dangerous operation causing bodily harm and dangerous operation causing death);
 - **(s.2)** subsections 255(2) and (3) (impaired driving causing bodily harm and impaired driving causing death);
@@ -4687,9 +4687,9 @@ is guilty of an offence punishable on summary conviction and liable to a fine no
 - **(b)** section 5 (breach of responsibility committed in Canada by military commanders or other superiors);
 - **(c)** section 6 (genocide, etc., committed outside Canada); and
 - **(d)** section 7 (breach of responsibility committed outside Canada by military commanders or other superiors).
-> 1992, c. 20, Sch. I; 1995, c. 39, s. 165, c. 42, ss. 64 to 67; 2000, c. 24, s. 41; 2001, c. 41, ss. 91 to 93
 
 
+> 1992, c. 20, Sch. I; 1995, c. 39, s. 165, c. 42, ss. 64 to 67; 2000, c. 24, s. 41; 2001, c. 41, ss. 91 to 93; 2008, c. 6, s. 57
 
 
 
