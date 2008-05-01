@@ -7031,7 +7031,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 #### Wine
 
 
-**B.02.100** [S]. **Wine**
+**B.02.100** **[S]. Wine**
 - **(a)** shall be an alcoholic beverage that is produced by the complete or partial alcoholic fermentation of fresh grapes, grape must, products derived solely from fresh grapes, or any combination of them;
 - **(b)** may have added to it during the course of the manufacture
 	- **(i)** yeast,
@@ -7067,8 +7067,8 @@ shall be shown on the principal display panel of the label of a simulated meat p
 	- **(xx)** oak chips and particles; and
 - **(c)** prior to final filtration may be treated with
 	- **(i)** a strongly acid cation exchange resin in the sodium ion form, or
-	- **(ii)** a weakly basic anion exchange resin in the hydroxyl ion form. 
-> SOR/78-402, s. 1; SOR/81-565, s. 1; SOR/84-300, ss. 14(F), 15(E); SOR/2006-91, s. 1.
+	- **(ii)** a weakly basic anion exchange resin in the hydroxyl ion form.
+> SOR/78-402, s. 1; SOR/81-565, s. 1; SOR/84-300, ss. 14(F), 15(E); SOR/2006-91, s. 1; SOR/2008-142, s. 1(F).
 
 
 
