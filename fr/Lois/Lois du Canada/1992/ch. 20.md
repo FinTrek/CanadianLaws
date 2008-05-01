@@ -4345,7 +4345,7 @@ Il est alors autorisé à faire prêter serment.
 
 ### **ANNEXE I** 
 **(paragraphes 107(1), 125(1) et 126(7) et articles 129 et 130)**
-**1** Une infraction prévue par l’une des dispositions suivantes du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) et poursuivie par mise en accusation :
+**1** Une infraction prévue par l’une des dispositions suivantes du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) et poursuivie par mise en accusation :
 - **a)** article 75 (piraterie);
 - **a.1)** article 76 (détournement d’un aéronef);
 - **a.2)** article 77 (atteinte à la sécurité des aéronefs ou des aéroports);
@@ -4371,7 +4371,7 @@ Il est alors autorisé à faire prêter serment.
 - **o.2)** article 221 (causer des lésions corporelles par négligence criminelle);
 - **p)** article 236 (homicide involontaire coupable);
 - **q)** article 239 (tentative de meurtre);
-- **r)** article 244 (fait de causer intentionnellement des lésions corporelles);
+- **r)** article 244 (décharger une arme à feu avec une intention particulière);
 - **s)** article 246 (fait de vaincre la résistance à la perpétration d’une infraction);
 - **s.1)** paragraphes 249(3) et (4) (conduite dangereuse causant ainsi des lésions corporelles et conduite de façon dangereuse causant ainsi la mort);
 - **s.2)** paragraphes 255(2) et (3) (capacité de conduite affaiblie);
@@ -4391,19 +4391,19 @@ Il est alors autorisé à faire prêter serment.
 - **z.32)** article 431 (attaque contre les locaux officiels, le logement privé ou les moyens de transport d’une personne jouissant d’une protection internationale);
 - **z.33)** article 431.1 (attaque contre les locaux officiels, le logement privé ou les moyens de transport du personnel des Nations Unies ou du personnel associé);
 - **z.34)** paragraphe 431.2(2) (engin explosif ou autre engin meurtrier);
-- **z.4)** article 433 (incendie criminel : danger pour la vie humaine);
-- **z.5)** article 434.1 (incendie criminel : biens propres);
+- **z.4)** article 433 (incendie criminel : danger pour la vie humaine);
+- **z.5)** article 434.1 (incendie criminel : biens propres);
 - **z.6)** article 436 (incendie criminel par négligence);
 - **z.7)** alinéa 465(1)a) (complot en vue de commettre un meurtre).
 
 
-**2** Une infraction prévue par l’une des dispositions suivantes du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), dans leur version antérieure au 1<sup>er</sup> juillet 1990, et poursuivie par mise en accusation :
+**2** Une infraction prévue par l’une des dispositions suivantes du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), dans leur version antérieure au 1<sup>er</sup> juillet 1990, et poursuivie par mise en accusation :
 - **a)** article 433 (incendie criminel);
-- **b)** article 434 (incendie : dommages matériels);
+- **b)** article 434 (incendie : dommages matériels);
 - **c)** article 436 (incendie par négligence).
 
 
-**3** Une infraction prévue par l’une des dispositions suivantes du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), chapitre C-34 des Statuts revisés du Canada de 1970, dans leur version antérieure au 4 janvier 1983, et poursuivie par mise en accusation :
+**3** Une infraction prévue par l’une des dispositions suivantes du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), chapitre C-34 des Statuts revisés du Canada de 1970, dans leur version antérieure au 4 janvier 1983, et poursuivie par mise en accusation :
 - **a)** article 144 (viol);
 - **b)** article 145 (tentative de viol);
 - **c)** article 149 (attentat à la pudeur d’une personne du sexe féminin);
@@ -4412,7 +4412,7 @@ Il est alors autorisé à faire prêter serment.
 - **f)** article 246 (voies de fait avec intention).
 
 
-**4** Une infraction prévue par l’une des dispositions suivantes du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), chapitre C-34 des Statuts revisés du Canada de 1970, dans leur version antérieure au 1<sup>er</sup> janvier 1988, et poursuivie par mise en accusation :
+**4** Une infraction prévue par l’une des dispositions suivantes du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), chapitre C-34 des Statuts revisés du Canada de 1970, dans leur version antérieure au 1<sup>er</sup> janvier 1988, et poursuivie par mise en accusation :
 - **a)** article 146 (rapports sexuels avec une personne du sexe féminin de moins de 14 ans);
 - **b)** article 151 (séduction d’une personne du sexe féminin de 16 à 18 ans);
 - **c)** article 153 (rapports sexuels avec sa belle-fille);
@@ -4422,21 +4422,21 @@ Il est alors autorisé à faire prêter serment.
 - **g)** article 167 (maître de maison qui permet le déflorement).
 
 
-**5** L’infraction prévue à l’alinéa 348(1)b) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) lorsqu’elle consiste à s’introduire en un endroit par effraction et à y commettre un acte criminel mentionné à l’un des articles 1 à 4 de la présente annexe et que la commission de celui-ci :
+**5** L’infraction prévue à l’alinéa 348(1)b) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) lorsqu’elle consiste à s’introduire en un endroit par effraction et à y commettre un acte criminel mentionné à l’un des articles 1 à 4 de la présente annexe et que la commission de celui-ci :
 - **a)** soit est spécifiée dans le mandat de dépôt;
 - **b)** soit est spécifiée dans la sommation, la dénonciation ou l’acte d’accusation qui a donné lieu à la condamnation;
 - **c)** soit est mentionnée dans les motifs du jugement du juge au procès;
 - **d)** soit est mentionnée dans une déclaration de faits admise en preuve conformément à l’article 655 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
 
 
-**6** Une infraction visée par l’une des dispositions suivantes de la [Loi sur les crimes contre l’humanité et les crimes de guerre](/fr/Lois/Lois%20du%20Canada/2000/ch.%2024.md) :
+**6** Une infraction visée par l’une des dispositions suivantes de la [Loi sur les crimes contre l’humanité et les crimes de guerre](/fr/Lois/Lois%20du%20Canada/2000/ch.%2024.md) :
 - **a)** article 4 (génocide, crime contre l’humanité, etc., commis au Canada);
-- **b)** article 5 (manquement à la responsabilité au Canada : chef militaire ou autre supérieur);
+- **b)** article 5 (manquement à la responsabilité au Canada : chef militaire ou autre supérieur);
 - **c)** article 6 (génocide, crime contre l’humanité, etc., commis à l’étranger);
-- **d)** article 7 (manquement à la responsabilité à l’étranger : chef militaire ou autre supérieur).
-> 1992, ch. 20, ann. I; 1995, ch. 39, art. 165, ch. 42, art. 64 à 67; 2000, ch. 24, art. 41; 2001, ch. 41, art. 91 à 93
+- **d)** article 7 (manquement à la responsabilité à l’étranger : chef militaire ou autre supérieur).
 
 
+> 1992, ch. 20, ann. I; 1995, ch. 39, art. 165, ch. 42, art. 64 à 67; 2000, ch. 24, art. 41; 2001, ch. 41, art. 91 à 93; 2008, ch. 6, art. 57
 
 
 
