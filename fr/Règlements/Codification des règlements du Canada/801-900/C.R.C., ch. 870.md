@@ -7019,7 +7019,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 #### Vin
 
 
-**B.02.100** [N]. Le **vin**
+**B.02.100** **[N].** Le **vin**
 - **a)** doit être une boisson alcoolique produite par la fermentation alcoolique complète ou partielle de raisins frais, de moût de raisin, de produits dérivés uniquement de raisins frais ou d’un mélange de plusieurs de ces ingrédients;
 - **b)** peut être additionné, en cours de fabrication,
 	- **(i)** de levure,
@@ -7028,35 +7028,35 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 	- **(iv)** de nourriture pour les levures, en conformité avec le tableau XIV de l’article B.16.100,
 	- **(v)** de sulfate de calcium en quantité telle que la teneur en sulfates solubles de vin fini ne dépasse pas 0,2 pour cent en poids par volume, calculée en sulfate de potassium,
 	- **(vi)** de carbonate de calcium en quantité telle que la teneur en acide tartrique du vin fini ne soit pas inférieure à 0,15 pour cent en poids par volume,
-	- **(vii)** d'anhydride sulfureux, y compris ses sels, en quantité telle que sa teneur dans le vin fini ne dépasse pas
-		- **(A)** 70 parties par million à l'état libre, ou
-		- **(B)** 350 parties par million à l'état combiné, calculé en anhydride sulfureux,
+	- **(vii)** d’anhydride sulfureux, y compris ses sels, en quantité telle que sa teneur dans le vin fini ne dépasse pas
+		- **(A)** 70 parties par million à l’état libre, ou
+		- **(B)** 350 parties par million à l’état combiné, calculé en anhydride sulfureux,
 	- **(viii)** de l’une ou plusieurs des substances suivantes :
-		- **(A)** acide citrique, acide fumarique, acide lactique, acide malique, acide tartrique, bicarbonate de potassium, carbonate de potassium et citrate de potassium, à une concentration maximale conforme aux bonnes pratiques industrielles,
-		- **(B)** acide métatartrique à une concentration maximale de 0,01 pour cent,
-		- **(C)** tartrate acide de potassium à une concentration maximale de 0,42 pour cent,
-	- **(ix)** d’amylase et de pectinase, à une concentration maximale conforme aux bonnes pratiques industrielles,
-	- **(x)** d’acide ascorbique, d’acide érythorbique ou des sels de l’un ou l’autre de ces acides, à une concentration maximale conforme aux bonnes pratiques industrielles,
+		- **(A)** acide citrique, acide fumarique, acide lactique, acide malique, acide tartrique, bicarbonate de potassium, carbonate de potassium et citrate de potassium, selon les limites de tolérance conformes aux bonnes pratiques industrielles,
+		- **(B)** acide métatartrique, selon une limite de tolérance de 0,01 pour cent,
+		- **(C)** tartrate acide de potassium, selon une limite de tolérance de 0,42 pour cent,
+	- **(ix)** d’amylase et de pectinase, selon les limites de tolérance conformes aux bonnes pratiques industrielles,
+	- **(x)** d’acide ascorbique ou de ses sels ou d’acide érythorbique ou de ses sels, selon les limites de tolérance conformes aux bonnes pratiques industrielles,
 	- **(xi)** d’agent antimousse, en conformité avec le tableau VIII de l’article B.16.100,
 	- **(xii)** de l’un ou plusieurs des agents de collage suivants :
 		- **(A)** albumine, argile, bioxyde de silicium, blanc d’œuf, caséine, charbon activé, colle de poisson, polyvinylpolypyrrolidone et terre de diatomées,
-		- **(B)** agar-agar, ferrocyanure de potassium, gélatine et gomme arabique, à une concentration maximale conforme aux bonnes pratiques industrielles,
-		- **(C)** acide tannique à une concentration maximale de 200 parties par million,
-		- **(D)** polyvinylpyrrolidone à une concentration maximale de 2 parties par million dans le produit fini,
-	- **(xiii)** de caramel à une concentration maximale conforme aux bonnes pratiques industrielles,
-	- **(xiv)** d'eau-de-vie de vin (brandy), d'eau-de-vie de fruits, ou d'alcool obtenu par fermentation alcoolique de substances alimentaires puis par distillation jusqu'à production d'alcool titrant au moins 94 pour cent en volume,
+		- **(B)** agar-agar, ferrocyanure de potassium, gélatine et gomme arabique, selon les limites de tolérance conformes aux bonnes pratiques industrielles,
+		- **(C)** acide tannique, selon une limite de tolérance de 200 parties par million,
+		- **(D)** polyvinylpyrrolidone, en une quantité ne dépassant pas 2 parties par million dans le produit fini,
+	- **(xiii)** de caramel, selon une limite de tolérance conforme aux bonnes pratiques industrielles,
+	- **(xiv)** d’eau-de-vie de vin (brandy), d’eau-de-vie de fruits, ou d’alcool obtenu par fermentation alcoolique de substances alimentaires puis par distillation jusqu’à production d’alcool titrant au moins 94 pour cent en volume,
 	- **(xv)** de l’une ou plusieurs des substances suivantes :
-		- **(A)** anhydride carbonique et ozone, à une concentration maximale conforme aux bonnes pratiques industrielles,
+		- **(A)** anhydride carbonique et ozone, selon les limites de tolérance conformes aux bonnes pratiques industrielles,
 		- **(B)** oxygène,
-	- **(xvi)** d'acide sorbique ou de ses sels, n'excédant pas 500 parties par million, calculé en acide sorbique,
+	- **(xvi)** d’acide sorbique ou de ses sels, n’excédant pas 500 parties par million, calculé en acide sorbique,
 	- **(xvii)** de bactéries malolactiques des genres *Lactobacillus*, *Leuconostoc* et *Pediococcus*,
 	- **(xviii)** de sulfate de cuivre en quantité telle que la teneur en cuivre du produit fini ne dépasse pas 0,0001 pour cent,
 	- **(xix)** d’azote,
-	- **(xx)** de copeaux et de particules de chêne;
+	- **(xx)** de rognures et de particules de chêne;
 - **c)** peut, avant la dernière filtration, être traité avec
-	- **(i)** une résine fortement acide échangeuse de cations sous forme d'ions sodium, ou
-	- **(ii)** une résine faiblement basique échangeuse d'anions sous forme d'ions hydroxyl.
-> DORS/78-402, art. 1; DORS/81-565, art. 1; DORS/84-300, art. 14(F) et 15(A); DORS/2006-91, art. 1.
+	- **(i)** une résine fortement acide échangeuse de cations sous forme d’ions sodium, ou
+	- **(ii)** une résine faiblement basique échangeuse d’anions sous forme d’ions hydroxyl.
+> DORS/78-402, art. 1; DORS/81-565, art. 1; DORS/84-300, art. 14(F) et 15(A); DORS/2006-91, art. 1; DORS/2008-142, art. 1(F).
 
 
 
