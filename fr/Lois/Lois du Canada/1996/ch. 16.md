@@ -11,7 +11,7 @@ Sanctionnée sur le 20 juin 1996
 
 
 
-Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
+Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des communes du Canada, édicte :
 
 
 
@@ -355,6 +355,75 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+## Ombudsman de l’approvisionnement
+
+
+
+**Nomination**
+
+**22.1** 
+
+- **(1)** Le gouverneur en conseil peut nommer un ombudsman de l’approvisionnement pour un mandat maximal de cinq ans.
+
+**Rémunération et indemnités**
+
+- **(2)** L’ombudsman de l’approvisionnement reçoit la rémunération et les indemnités fixées par le gouverneur en conseil.
+
+**Attributions de l’ombudsman**
+
+- **(3)** L’ombudsman de l’approvisionnement exerce les attributions ci-après conformément aux règlements :
+	- **a)** examiner les pratiques d’acquisition de matériel et de services des ministères pour en évaluer l’équité, l’ouverture et la transparence, et présenter, le cas échéant, au ministre en cause des recommandations pour les améliorer;
+	- **b)** examiner toute plainte relative à la conformité, avec les règlements pris en vertu de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), de l’attribution d’un marché de l’État en vue de l’acquisition de matériel ou de services par un ministère qui serait assujetti à l’Accord, au sens de l’article 2 de la Loi de mise en œuvre de l’Accord sur le commerce intérieur, si sa valeur n’était pas inférieure à la somme prévue à l’article 502 de cet accord;
+	- **c)** examiner toute plainte relative à la gestion de tout marché de l’État en vue de l’acquisition de matériel ou de services par un ministère;
+	- **d)** veiller à donner l’accès, sur demande des parties à un tel marché, à un mécanisme de règlement extrajudiciaire des différends.
+
+**Autres fonctions**
+
+- **(4)** Il exerce aussi toute autre fonction que le gouverneur en conseil ou le ministre peut lui attribuer par décret ou arrêté, selon le cas, à l’égard des pratiques d’acquisition de matériel et de services des ministères.
+> 2006, ch. 9, art. 306.
+
+
+
+
+
+**Dépôt d’une plainte**
+
+**22.2** 
+
+- **(1)** Seule la personne qui remplit les conditions prévues par règlement et qui est un fournisseur canadien au sens de l’article 518 de l’accord visé à l’alinéa 22.1(3)b) peut déposer la plainte visée aux alinéas 22.1(3)b) ou c).
+
+**Moment du dépôt**
+
+- **(2)** La plainte peut être déposée uniquement une fois le marché en cause attribué.
+
+**Conclusions et recommandations**
+
+- **(3)** L’ombudsman de l’approvisionnement remet au plaignant, au ministre et au ministre en cause, dans le délai réglementaire suivant le dépôt de la plainte, ses conclusions et ses éventuelles recommandations.
+
+**Restriction**
+
+- **(4)** Il ne peut recommander l’annulation du marché visé par la plainte.
+> 2006, ch. 9, art. 306.
+
+
+
+
+
+**Rapport annuel**
+
+**22.3** 
+
+- **(1)** Dans les quatre mois suivant la fin de chaque exercice, l’ombudsman de l’approvisionnement présente au ministre le rapport de ses activités pour l’exercice.
+
+**Dépôt au Parlement**
+
+- **(2)** Le ministre fait déposer un exemplaire du rapport annuel devant chaque chambre du Parlement dans les quinze premiers jours de séance de celle-ci suivant la réception du rapport.
+> 2006, ch. 9, art. 306.
+
+
+
+
+
 ## Règlements
 
 
@@ -383,6 +452,18 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(4)** Les règlements pris aux termes du paragraphe (1) n’empêchent pas la Couronne de recouvrer, par les moyens légaux ordinaires, les droits, dédommagements et amendes en souffrance.
 > 1996, ch. 16, art. 23; 2001, ch. 4, art. 159.
+
+
+
+
+
+**Règlements**
+
+**23.1** Le gouverneur en conseil peut prendre des règlements concernant :
+- **a)** l’exercice des attributions de l’ombudsman de l’approvisionnement prévues au paragraphe 22.1(3), notamment en ce qui touche les ministères à l’égard desquels il n’exerce pas ses attributions;
+- **b)** le dépôt des plaintes visées aux alinéas 22.1(3)b) ou c), notamment en ce qui touche les conditions préalables au dépôt et les modalités de celui-ci;
+- **c)** la nature des recommandations que l’ombudsman de l’approvisionnement peut faire pour donner suite à une plainte et le délai dans lequel il doit le faire.
+> 2006, ch. 9, art. 307.
 
 
 
