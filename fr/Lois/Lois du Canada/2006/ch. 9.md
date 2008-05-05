@@ -1877,7 +1877,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - <sup><a href='#fn_Ind40C5_hq_1750'>[*]</a></sup>**(1)** Les articles 306 et 307 entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='fn_Ind40C5_hq_1750'><sup>*</sup></a>: [Note : Articles 301 à 305 et 308 à 313 en vigueur à la sanction le 12 décembre 2006; articles 306 et 307 non en vigueur.]<br />
+<a name='fn_Ind40C5_hq_1750'><sup>*</sup></a>: [Note : Articles 301 à 305 et 308 à 313 en vigueur à la sanction le 12 décembre 2006; articles 306 et 307 en vigueur le 5 mai 2008, *voir* TR/2008-52.]<br />
 
 **Décret**
 
