@@ -358,6 +358,75 @@ where the Minister is authorized to do that thing under this or any other Act of
 
 
 
+## Procurement Ombudsman
+
+
+
+**Appointment**
+
+**22.1** 
+
+- **(1)** The Governor in Council may appoint a Procurement Ombudsman for a term of not more than five years.
+
+**Remuneration and expenses**
+
+- **(2)** The Procurement Ombudsman shall be paid the remuneration and expenses that may be fixed by the Governor in Council.
+
+**General duties and functions**
+
+- **(3)** The Procurement Ombudsman shall, in accord­ance with the regulations,
+	- **(a)** review the practices of departments for acquiring materiel and services to assess their fairness, openness and transparency and make any appropriate recommendations to the relevant department for the improvement of those practices;
+	- **(b)** review any complaint respecting the compliance with any regulations made under the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) of the award of a contract for the acquisition of materiel or services by a department to which the Agreement, as defined in section 2 of the [Agreement on Internal Trade Implementation Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2017.md), would apply if the value of the contract were not less than the amount referred to in article 502 of that Agreement;
+	- **(c)** review any complaint respecting the administration of a contract for the acquisition of materiel or services by a department; and
+	- **(d)** ensure that an alternative dispute resolution process is provided, on request of each party to such a contract.
+
+**Other duties and functions**
+
+- **(4)** The Procurement Ombudsman shall also perform any other duty or function respecting the practices of departments for acquiring materiel and services that may be assigned to the Procurement Ombudsman by order of the Governor in Council or the Minister.
+> 2006, c. 9, s. 306.
+
+
+
+
+
+**Person who may complain**
+
+**22.2** 
+
+- **(1)** A person may only file a complaint referred to in paragraph 22.1(3)(b) or (c) if that person is a Canadian supplier within the meaning of article 518 of the agreement referred to in paragraph 22.1(3)(b) and meets any requirements prescribed by the regulations.
+
+**Timing of complaint**
+
+- **(2)** The complaint may only be filed after the award of the contract to which the complaint relates.
+
+**Findings and recommendations**
+
+- **(3)** The Procurement Ombudsman shall, within the period after the complaint is filed that may be established by the regulations, provide the complainant, the relevant minister and the Minister with the Procurement Ombudsman’s fin­dings and any recommendations.
+
+**Limitation**
+
+- **(4)** The Procurement Ombudsman may not recommend the cancellation of the contract to which the complaint relates.
+> 2006, c. 9, s. 306.
+
+
+
+
+
+**Annual Report**
+
+**22.3** 
+
+- **(1)** The Procurement Ombudsman shall, within four months after the end of each fiscal year, deliver a report respecting the activities of the Procurement Ombudsman in that year to the Minister.
+
+**Annual report to be laid**
+
+- **(2)** The Minister shall cause a copy of the report to be laid before each House of Parliament on any of the first 15 days on which that House is sitting after the Minister receives the report.
+> 2006, c. 9, s. 306.
+
+
+
+
+
 ## Regulations
 
 
@@ -386,6 +455,18 @@ where the Minister is authorized to do that thing under this or any other Act of
 
 - **(4)** No regulation made under subsection (1) impairs the right of the Crown to recover in the ordinary course of law unpaid tolls, dues, damages or fines.
 > 1996, c. 16, s. 23; 2001, c. 4, s. 159.
+
+
+
+
+
+**Regulations**
+
+**23.1** The Governor in Council may make regulations respecting
+- **(a)** the performing of the duties and functions of the Procurement Ombudsman referred to in subsection 22.1(3), including the departments in respect of which those duties and functions shall not be performed;
+- **(b)** the filing of complaints referred to in paragraphs 22.1(3)(b) and (c), including any conditions that must be met before a complaint may be filed and the manner in which it must be filed; and
+- **(c)** the types of recommendations that the Procurement Ombudsman may make in response to the complaints and the time within which they must be made.
+> 2006, c. 9, s. 307.
 
 
 
