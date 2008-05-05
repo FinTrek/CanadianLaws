@@ -1877,7 +1877,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - <sup><a href='#nbp_Ind658C_hq_1746'>[*]</a></sup>**(1)** Sections 306 and 307 come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='nbp_Ind658C_hq_1746'><sup>*</sup></a>: [Note: Sections 301 to 305 and 308 to 313 in force on assent December 12, 2006; sections 306 and 307 not in force.]<br />
+<a name='nbp_Ind658C_hq_1746'><sup>*</sup></a>: [Note: Sections 301 to 305 and 308 to 313 in force on assent December 12, 2006; sections 306 and 307 in force May 5, 2008, *see* SI/2008-52.]<br />
 
 **Order in council**
 
