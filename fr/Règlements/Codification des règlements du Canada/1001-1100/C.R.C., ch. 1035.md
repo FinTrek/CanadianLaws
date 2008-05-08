@@ -880,9 +880,6 @@ un permis autorisant à tuer, dans les limites de l’aéroport, les oiseaux mig
 <th>Hareldes kakawis, eiders et macreuses</th>
 </tr>
 <tr>
-<th></th>
-</tr>
-<tr>
 <td>1</td>
 <td>Toutes les zones côtières</td>
 <td>Troisième samedi de septembre au dernier samedi de décembre</td>
@@ -948,9 +945,6 @@ un permis autorisant à tuer, dans les limites de l’aéroport, les oiseaux mig
 <th>Bécassines</th>
 </tr>
 <tr>
-<th></th>
-</tr>
-<tr>
 <td>Prises par jour</td>
 <td>6 a)</td>
 <td>6</td>
@@ -1004,9 +998,6 @@ un permis autorisant à tuer, dans les limites de l’aéroport, les oiseaux mig
 <th>Région</th>
 <th>Canards (autres qu’Arlequins plongeurs et eiders), oies et bernaches et bécassines</th>
 <th>Eiders</th>
-</tr>
-<tr>
-<th></th>
 </tr>
 <tr>
 <td>1</td>
@@ -1069,9 +1060,6 @@ un permis autorisant à tuer, dans les limites de l’aéroport, les oiseaux mig
 <th>Bécassines</th>
 </tr>
 <tr>
-<th></th>
-</tr>
-<tr>
 <td>Prises par jour</td>
 <td>6a)</td>
 <td>6</td>
@@ -1088,15 +1076,17 @@ un permis autorisant à tuer, dans les limites de l’aéroport, les oiseaux mig
 <tr>
 <td></td>
 </tr>
+<tr>
+<td>**a)** Dont un seul Garrot d’Islande.
+
+</td>
+</tr>
+<tr>
+<td>**b)** Dont deux au plus peuvent être des Garrots d’Islande.
+
+</td>
+</tr>
 </table>
-
-
-**a) ** Dont un seul Garrot d’Islande.
-
-
-
-**b) ** Dont deux au plus peuvent être des Garrots d’Islande.
-
 
 
 
@@ -1114,9 +1104,6 @@ un permis autorisant à tuer, dans les limites de l’aéroport, les oiseaux mig
 <th>Article</th>
 <th>Région</th>
 <th>Guillemot marmette et Guillemot de Brünnich<sup><a href='#footnotestar_f'>[*]</a></sup></th>
-</tr>
-<tr>
-<th></th>
 </tr>
 <tr>
 <td>1</td>
@@ -1174,9 +1161,6 @@ un permis autorisant à tuer, dans les limites de l’aéroport, les oiseaux mig
 <th>Marmettes</th>
 </tr>
 <tr>
-<th> </th>
-</tr>
-<tr>
 <td>Prises par jour</td>
 <td>20</td>
 </tr>
@@ -1211,9 +1195,6 @@ un permis autorisant à tuer, dans les limites de l’aéroport, les oiseaux mig
 <th>Bécasses</th>
 </tr>
 <tr>
-<th></th>
-</tr>
-<tr>
 <td>1</td>
 <td>Tout le territoire de l’Île-du-Prince-Édouard</td>
 <td>15 septembre (Journée de la relève)</td>
@@ -1245,13 +1226,10 @@ TABLEAU I.1
 <th>Bécassines</th>
 </tr>
 <tr>
-<th> </th>
-</tr>
-<tr>
 <td>Prises par jour</td>
-<td>  6a)</td>
-<td>  5</td>
-<td>  8</td>
+<td>6a)</td>
+<td>5</td>
+<td>8</td>
 <td>10</td>
 </tr>
 <tr>
@@ -1262,7 +1240,7 @@ TABLEAU I.1
 <td>20</td>
 </tr>
 <tr>
-<td> </td>
+<td></td>
 </tr>
 <tr>
 <td>**a)** Dont quatre au plus peuvent être des Canards colverts-noirs hybrides ou Canards noirs et un seul peut être un Garrot d’Islande.
@@ -1309,9 +1287,6 @@ TABLEAU I.1
 <th>Bécasses et bécassines</th>
 </tr>
 <tr>
-<th></th>
-</tr>
-<tr>
 <td>1</td>
 <td>Zone n<sup>o</sup> 1</td>
 <td>22 septembre (Journée de la relève)</td>
@@ -1351,7 +1326,7 @@ TABLEAU I.1
 
 **1** Dans la présente partie,
 
-**a)** *** Zone n<sup>o</sup> 1*** désigne les comtés d’Antigonish, Pictou, Colchester, Cumberland, Hants, Kings et Annapolis;
+**a)** ***Zone n<sup>o</sup> 1*** désigne les comtés d’Antigonish, Pictou, Colchester, Cumberland, Hants, Kings et Annapolis;
 
 
 
@@ -1390,14 +1365,11 @@ TABLEAU I.1
 <th>Bécassines</th>
 </tr>
 <tr>
-<th> </th>
-</tr>
-<tr>
 <td>Prises par jour</td>
-<td>  6a)</td>
-<td>  5</td>
-<td>  5</td>
-<td>  8</td>
+<td>6a)</td>
+<td>5</td>
+<td>5</td>
+<td>8</td>
 <td>10</td>
 </tr>
 <tr>
@@ -1409,7 +1381,7 @@ TABLEAU I.1
 <td>20</td>
 </tr>
 <tr>
-<td> </td>
+<td></td>
 </tr>
 <tr>
 <td>**a)** Dont quatre au plus peuvent être des Canards noirs et un seul peut être un Garrot d’Islande.
@@ -1452,9 +1424,6 @@ TABLEAU I.1
 <th>Bécasses</th>
 </tr>
 <tr>
-<th></th>
-</tr>
-<tr>
 <td>1</td>
 <td>Zone n<sup>o</sup> 1</td>
 <td>15 septembre (Journée de la relève)</td>
@@ -1474,12 +1443,19 @@ TABLEAU I.1
 </tr>
 <tr>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>**a)** Dans la Zone n<sup>o</sup> 1 et la Zone n<sup>o</sup> 2, la chasse à la Bernache du Canada et à la Bernache de Hutchins est permise uniquement sur les terres agricoles.
+
+</td>
 </tr>
 </table>
-
-
-**a)** Dans la Zone n<sup>o</sup> 1 et la Zone n<sup>o</sup> 2, la chasse à la Bernache du Canada et à la Bernache de Hutchins est permise uniquement sur les terres agricoles.
-
 
 
 
@@ -1557,9 +1533,6 @@ TABLEAU I.1
 <th>Bécassines</th>
 </tr>
 <tr>
-<th></th>
-</tr>
-<tr>
 <td>Prises par jour</td>
 <td>6a)</td>
 <td>6c)</td>
@@ -1575,27 +1548,35 @@ TABLEAU I.1
 <td>16</td>
 <td>20</td>
 </tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td>**a)** Dont trois au plus peuvent être des Canards noirs et un seul peut être un Garrot d’Islande.
+
+</td>
+</tr>
+<tr>
+<td>**b)** Dont six au plus peuvent être des Canards noirs et deux au plus peuvent être des Garrots d’Islande.
+
+</td>
+</tr>
+<tr>
+<td>**c)** Dont quatre au plus peuvent être des macreuses et dans la zone n<sup>o</sup> 1, du 1<sup>er</sup> février au 24 février, il n’est pas permis de prendre plus de quatre eiders par jour.
+
+</td>
+</tr>
+<tr>
+<td>**d)** Dont huit au plus peuvent être des macreuses et dans la zone n<sup>o</sup> 1, du 1<sup>er</sup> février au 24 février, il n’est pas permis de posséder plus de huit eiders.
+
+</td>
+</tr>
+<tr>
+<td>**e)** Un total d’au plus trois Bernaches du Canada ou Bernaches de Hutchins supplémentaires, ou une combinaison des deux, peuvent être prises par jour et il est permis de posséder un total d’au plus six Bernaches du Canada ou Bernaches de Hutchins supplémentaires, ou une combinaison des deux, du 4 au 14 septembre inclusivement.
+
+</td>
+</tr>
 </table>
-
-
-**a)** Dont trois au plus peuvent être des Canards noirs et un seul peut être un Garrot d’Islande.
-
-
-
-**b)** Dont six au plus peuvent être des Canards noirs et deux au plus peuvent être des Garrots d’Islande.
-
-
-
-**c)** Dont quatre au plus peuvent être des macreuses et dans la zone n<sup>o</sup> 1, du 1<sup>er</sup> février au 24 février, il n’est pas permis de prendre plus de quatre eiders par jour.
-
-
-
-**d)** Dont huit au plus peuvent être des macreuses et dans la zone n<sup>o</sup> 1, du 1<sup>er</sup> février au 24 février, il n’est pas permis de posséder plus de huit eiders.
-
-
-
-**e)** Un total d’au plus trois Bernaches du Canada ou Bernaches de Hutchins supplémentaires, ou une combinaison des deux, peuvent être prises par jour et il est permis de posséder un total d’au plus six Bernaches du Canada ou Bernaches de Hutchins supplémentaires, ou une combinaison des deux, du 4 au 14 septembre inclusivement.
-
 
 
 
@@ -1626,9 +1607,6 @@ TABLEAU I.1
 <th>Eiders et Hareldes kakawis</th>
 <th>Foulques et gallinules</th>
 <th>Bécasses</th>
-</tr>
-<tr>
-<th></th>
 </tr>
 <tr>
 <td>1</td>
@@ -1845,9 +1823,6 @@ TABLEAU I.1
 <th>Méthodes ou matériel de chasse supplémentaires</th>
 </tr>
 <tr>
-<th></th>
-</tr>
-<tr>
 <td>1</td>
 <td>District A</td>
 <td>Du 1<sup>er</sup> mai au 30 juin
@@ -1855,7 +1830,7 @@ TABLEAU I.1
 Du 1<sup>er</sup> septembre au 10 décembre
 
 </td>
-<td>Enregistrements d’appels d’oiseaux  d), f)</td>
+<td>Enregistrements d’appels d’oiseaux d), f)</td>
 </tr>
 <tr>
 <td>2</td>
@@ -1961,15 +1936,12 @@ Du quatrième samedi de septembre au 26 décembre
 <th>Bécassines</th>
 </tr>
 <tr>
-<th> </th>
-</tr>
-<tr>
 <td>Prises par jour</td>
-<td>  6 a), b), c), d), f)</td>
-<td>  5 f)</td>
+<td>6 a), b), c), d), f)</td>
+<td>5 f)</td>
 <td>20 f)</td>
 <td>4 f)</td>
-<td>  8 e), f)</td>
+<td>8 e), f)</td>
 <td>10 f)</td>
 </tr>
 <tr>
@@ -1982,7 +1954,7 @@ Du quatrième samedi de septembre au 26 décembre
 <td>20</td>
 </tr>
 <tr>
-<td> </td>
+<td></td>
 </tr>
 <tr>
 <td>**a)** Il est permis de prendre au plus quatre Canards noirs par jour et d’en posséder au plus huit dans les districts A, B, C, D, E, F et J.
@@ -2041,9 +2013,6 @@ Du quatrième samedi de septembre au 26 décembre
 <th>Bécasses</th>
 </tr>
 <tr>
-<th></th>
-</tr>
-<tr>
 <td>1</td>
 <td>District de la baie d’Hudson et de la baie James</td>
 <td>du 1<sup>er</sup> septembre au 15 décembre</td>
@@ -2074,27 +2043,32 @@ Du quatrième samedi de septembre au 26 décembre
 <tr>
 <td></td>
 </tr>
+<tr>
+<td>**a)** Dans les secteurs de gestion de la faune 60 à 89, 90 (à l’exclusion de la partie du canton de South Walsingham au sud de la route de comté 42, lequel comprend Long Point) et 91 à 95.
+
+</td>
+</tr>
+<tr>
+<td>**b)** Dans les secteurs de gestion de la faune 60 à 72, 83 et 95.
+
+</td>
+</tr>
+<tr>
+<td>**c)** Dans les secteurs de gestion de la faune 73 à 82 et 84 à 93.
+
+</td>
+</tr>
+<tr>
+<td>**d)** Dans le secteur de gestion de la faune 94.
+
+</td>
+</tr>
+<tr>
+<td>**e)** Il est interdit de chasser les oiseaux migrateurs au cours de la saison de chasse dans les secteurs de gestion de la faune 73 à 82 inclusivement et 84 à 94 inclusivement, les dimanches compris dans la période allant du 9 septembre au 30 décembre, ainsi que le 24 février. L’interdiction ne s’applique pas aux fauconniers, qui peuvent chasser seulement les canards les dimanches compris dans la période allant du 23 septembre au 16 décembre.
+
+</td>
+</tr>
 </table>
-
-
-**a)** Dans les secteurs de gestion de la faune 60 à 89, 90 (à l’exclusion de la partie du canton de South Walsingham au sud de la route de comté 42, lequel comprend Long Point) et 91 à 95.
-
-
-
-**b)** Dans les secteurs de gestion de la faune 60 à 72, 83 et 95.
-
-
-
-**c)** Dans les secteurs de gestion de la faune 73 à 82 et 84 à 93.
-
-
-
-**d)** Dans le secteur de gestion de la faune 94.
-
-
-
-**e)** Il est interdit de chasser les oiseaux migrateurs au cours de la saison de chasse dans les secteurs de gestion de la faune 73 à 82 inclusivement et 84 à 94 inclusivement, les dimanches compris dans la période allant du 9 septembre au 30 décembre, ainsi que le 24 février. L’interdiction ne s’applique pas aux fauconniers, qui peuvent chasser seulement les canards les dimanches compris dans la période allant du 23 septembre au 16 décembre.
-
 
 
 
@@ -2213,9 +2187,6 @@ Le quart est du lot 7 et la moitié ouest du lot 8 qui s’étend au sud de la r
 <th>Bécasses</th>
 </tr>
 <tr>
-<th></th>
-</tr>
-<tr>
 <td>Prises par jour</td>
 <td>6 a)b)c)d)</td>
 <td>5 e)f)g)h)</td>
@@ -2236,39 +2207,47 @@ Le quart est du lot 7 et la moitié ouest du lot 8 qui s’étend au sud de la r
 <tr>
 <td></td>
 </tr>
+<tr>
+<td>**a)** Il est permis de prendre un seul Canard noir par jour et de posséder au plus deux Canards noirs dans le district central et le district sud, et de prendre au plus deux Canards noirs par jour et de posséder au plus quatre Canards noirs dans le district de la baie d’Hudson et de la baie James, ainsi que dans le district nord.
+
+</td>
+</tr>
+<tr>
+<td>**b)** Il est permis de prendre au plus quatre Fuligules à dos blanc par jour et de posséder au plus huit Fuligules à dos blanc.
+
+</td>
+</tr>
+<tr>
+<td>**c)** Il est permis de prendre au plus quatre Fuligules à tête rouge par jour et de posséder au plus huit Fuligules à tête rouge.
+
+</td>
+</tr>
+<tr>
+<td>**d)** Il est permis de prendre un seul Garrot d’Islande par jour et de posséder au plus deux Garrots d’Islande.
+
+</td>
+</tr>
+<tr>
+<td>**e)** Il est permis de prendre un total d’au plus trois Bernaches du Canada ou Bernaches de Hutchins par jour, ou une combinaison des deux, dans la partie du secteur de gestion de faune 1D située dans le district de la baie d’Hudson et de la baie James, ainsi que dans les secteurs de gestion de faune 23 à 31 et 37 à 41, du 10 septembre au 15 décembre.
+
+</td>
+</tr>
+<tr>
+<td>**f)** Il est permis de prendre un total d’au plus deux Bernaches du Canada ou Bernaches de Hutchins par jour, ou une combinaison des deux, dans le secteur de gestion de la faune 94, du 22 septembre au 20 octobre et du 24 novembre au 5 janvier.
+
+</td>
+</tr>
+<tr>
+<td>**g)** Il est permis de prendre un total d’au plus trois Bernaches du Canada ou Bernaches de Hutchins par jour, ou une combinaison des deux, dans les secteurs de gestion de la faune 82 à 86 et 93, du 22 septembre au 31 octobre.
+
+</td>
+</tr>
+<tr>
+<td>**h)** Il est permis de prendre un total d’au plus trois Bernaches du Canada ou Bernaches de Hutchins supplémentaires par jour, ou une combinaison des deux, dans les secteurs de gestion de la faune 36 et 45, du 1<sup>er</sup> au 9 septembre; dans le district central, du 4 au 14 septembre; dans les secteurs de gestion de la faune 60 à 89, 90 (à l’exclusion de la partie du canton de South Walsingham au sud de la route de comté 42, lequel comprend Long Point) et 91 à 95, du 7 au 17 septembre, ainsi que dans les secteurs de gestion de la faune 73 à 82 et 84 à 93, du 21 au 28 février.
+
+</td>
+</tr>
 </table>
-
-
-**a)** Il est permis de prendre un seul Canard noir par jour et de posséder au plus deux Canards noirs dans le district central et le district sud, et de prendre au plus deux Canards noirs par jour et de posséder au plus quatre Canards noirs dans le district de la baie d’Hudson et de la baie James, ainsi que dans le district nord.
-
-
-
-**b)** Il est permis de prendre au plus quatre Fuligules à dos blanc par jour et de posséder au plus huit Fuligules à dos blanc.
-
-
-
-**c)** Il est permis de prendre au plus quatre Fuligules à tête rouge par jour et de posséder au plus huit Fuligules à tête rouge.
-
-
-
-**d)** Il est permis de prendre un seul Garrot d’Islande par jour et de posséder au plus deux Garrots d’Islande.
-
-
-
-**e)** Il est permis de prendre un total d’au plus trois Bernaches du Canada ou Bernaches de Hutchins par jour, ou une combinaison des deux, dans la partie du secteur de gestion de faune 1D située dans le district de la baie d’Hudson et de la baie James, ainsi que dans les secteurs de gestion de faune 23 à 31 et 37 à 41, du 10 septembre au 15 décembre.
-
-
-
-**f)** Il est permis de prendre un total d’au plus deux Bernaches du Canada ou Bernaches de Hutchins par jour, ou une combinaison des deux, dans le secteur de gestion de la faune 94, du 22 septembre au 20 octobre et du 24 novembre au 5 janvier.
-
-
-
-**g)** Il est permis de prendre un total d’au plus trois Bernaches du Canada ou Bernaches de Hutchins par jour, ou une combinaison des deux, dans les secteurs de gestion de la faune 82 à 86 et 93, du 22 septembre au 31 octobre.
-
-
-
-**h)** Il est permis de prendre un total d’au plus trois Bernaches du Canada ou Bernaches de Hutchins supplémentaires par jour, ou une combinaison des deux, dans les secteurs de gestion de la faune 36 et 45, du 1<sup>er</sup> au 9 septembre; dans le district central, du 4 au 14 septembre; dans les secteurs de gestion de la faune 60 à 89, 90 (à l’exclusion de la partie du canton de South Walsingham au sud de la route de comté 42, lequel comprend Long Point) et 91 à 95, du 7 au 17 septembre, ainsi que dans les secteurs de gestion de la faune 73 à 82 et 84 à 93, du 21 au 28 février.
-
 
 
 
@@ -2297,9 +2276,6 @@ Le quart est du lot 7 et la moitié ouest du lot 8 qui s’étend au sud de la r
 <th>Canards, Bernaches du Canada, Bernaches de Hutchins, foulques et bécassines NON-RÉSIDENTS DU CANADA</th>
 <th>Grues du Canada RÉSIDENTS ET NON-RÉSIDENTS DU CANADA</th>
 <th>Oies des neiges et Oies de Ross NON-RÉSIDENTS DU CANADA</th>
-</tr>
-<tr>
-<th></th>
 </tr>
 <tr>
 <td>1</td>
@@ -2380,9 +2356,6 @@ TABLEAU I.1
 <th>Méthodes ou matériel de chasse supplémentaires</th>
 </tr>
 <tr>
-<th> </th>
-</tr>
-<tr>
 <td>1</td>
 <td>Zone 1</td>
 <td>Du 1<sup>er</sup> avril au 31 mai
@@ -2411,7 +2384,7 @@ Du 15 au 30 août
 <td>Enregistrements d’appels d’oiseaux a), b)</td>
 </tr>
 <tr>
-<td> </td>
+<td></td>
 </tr>
 <tr>
 <td>**a)** « Enregistrements d’appels d’oiseaux » vise les appels d’oiseaux appartenant à une espèce mentionnée dans le titre de la colonne 2.
@@ -2483,23 +2456,13 @@ Du 15 au 30 août
 <th>Bécassines</th>
 </tr>
 <tr>
-<th> </th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
 <td>Prises par jour</td>
-<td>  8a)</td>
-<td>  8c)</td>
+<td>8a)</td>
+<td>8c)</td>
 <td>20</td>
-<td>  5</td>
-<td>  5</td>
-<td>  8</td>
+<td>5</td>
+<td>5</td>
+<td>8</td>
 <td>10</td>
 </tr>
 <tr>
@@ -2513,7 +2476,7 @@ Du 15 au 30 août
 <td>20</td>
 </tr>
 <tr>
-<td> </td>
+<td></td>
 </tr>
 <tr>
 <td>**a)** Dans la zone n<sup>o</sup> 4, pour les résidents, pas plus de quatre oiseaux peuvent être des Fuligules à tête rouge ou Fuligules à dos blanc, au total.
@@ -2585,9 +2548,6 @@ TABLEAU III
 <th>Grues du Canada</th>
 </tr>
 <tr>
-<th> </th>
-</tr>
-<tr>
 <td>1</td>
 <td>N<sup>o</sup> 1 (nord)</td>
 <td>du 1<sup>er</sup> septembre au 16 décembre</td>
@@ -2606,7 +2566,7 @@ TABLEAU III
 <td>du 1<sup>er</sup> septembre au 16 décembre c)</td>
 </tr>
 <tr>
-<td> </td>
+<td></td>
 </tr>
 <tr>
 <td>**a)** Saison de chasse aux oiseaux rapaces du 1<sup>er</sup> septembre au 16 décembre.
@@ -2682,9 +2642,6 @@ TABLEAU I.1
 <th>Méthodes ou matériel de chasse supplémentaires</th>
 </tr>
 <tr>
-<th> </th>
-</tr>
-<tr>
 <td>1</td>
 <td>Est du 106° de longitude ouest</td>
 <td>Du 1<sup>er</sup> avril au 31 mai</td>
@@ -2697,7 +2654,7 @@ TABLEAU I.1
 <td>Enregistrements d’appels d’oiseaux a), b)</td>
 </tr>
 <tr>
-<td> </td>
+<td></td>
 </tr>
 <tr>
 <td>**a)** « Enregistrements d’appels d’oiseaux » vise les appels d’oiseaux appartenant à une espèce mentionnée dans le titre de la colonne 2.
@@ -2728,14 +2685,11 @@ TABLEAU I.1
 <th>Bécassines</th>
 </tr>
 <tr>
-<th> </th>
-</tr>
-<tr>
 <td>Prises par jour</td>
-<td>  8a)</td>
+<td>8a)</td>
 <td>20</td>
-<td>  8c)</td>
-<td>  5</td>
+<td>8c)</td>
+<td>5</td>
 <td>10</td>
 <td>10</td>
 </tr>
@@ -2749,7 +2703,7 @@ TABLEAU I.1
 <td>20</td>
 </tr>
 <tr>
-<td> </td>
+<td></td>
 </tr>
 <tr>
 <td>**a)** Dont trois au plus peuvent être un Canard pilet.
@@ -2802,9 +2756,6 @@ TABLEAU I.1
 </th>
 <th>Foulques et bécassines</th>
 <th>Saison de fauconnerie pour canards, foulques et bécassines</th>
-</tr>
-<tr>
-<th></th>
 </tr>
 <tr>
 <td>1. Zone n<sup>o</sup> 1 a)</td>
@@ -3049,7 +3000,7 @@ au 16 décembre
 
 
 
-**b)** La zone n<sup>o</sup> 2 désigne la partie de l’Alberta comprise dans les secteurs de gestion de la faune 344, 347, 349, 350, 351, 352, 353, 354, 355, 356, 357, 358, 359, 360, 520, 521, 522, 523, 524, 525, 526, 527, 528, 534, 535, 536, 537, 539, 540, 542 et 544;
+**b)** ***Zone n<sup>o</sup> 2*** désigne la partie de l’Alberta comprise dans les secteurs de gestion de la faune 344, 347, 349, 350, 351, 352, 353, 354, 355, 356, 357, 358, 359, 360, 520, 521, 522, 523, 524, 525, 526, 527, 528, 534, 535, 536, 537, 539, 540, 541, 542 et 544;
 
 
 
@@ -3116,13 +3067,10 @@ TABLEAU I.1
 <th>Bécassines</th>
 </tr>
 <tr>
-<th> </th>
-</tr>
-<tr>
 <td>Prises par jour</td>
-<td>  8a)</td>
+<td>8a)</td>
 <td>20</td>
-<td>  8c)</td>
+<td>8c)</td>
 <td>10</td>
 <td>10</td>
 </tr>
@@ -3135,7 +3083,7 @@ TABLEAU I.1
 <td>20</td>
 </tr>
 <tr>
-<td> </td>
+<td></td>
 </tr>
 <tr>
 <td>**a)** Dont quatre au plus peuvent être des Canards pilets.
@@ -3190,9 +3138,6 @@ TABLEAU I.1
 <th>Bernaches cravants</th>
 <th>Pigeons à queue barrée</th>
 <th>Tourterelles tristes</th>
-</tr>
-<tr>
-<th></th>
 </tr>
 <tr>
 <td>1</td>
@@ -3285,83 +3230,102 @@ TABLEAU I.1
 <tr>
 <td></td>
 </tr>
+<tr>
+<td>**a)** Secteurs provinciaux de gestion 1-3 et 1-8 à 1-15 inclusivement, et pour la Bernache du Canada et la Bernache de Hutchins seulement.
+
+</td>
+</tr>
+<tr>
+<td>**b)** Secteurs provinciaux de gestion 1-1, 1-2, 1-4 à 1-7 inclusivement, et pour la Bernache du Canada et la Bernache de Hutchins seulement.
+
+</td>
+</tr>
+<tr>
+<td>**c)** Voir le règlement provincial pour les restrictions locales.
+
+</td>
+</tr>
+<tr>
+<td>**d)** Secteurs provinciaux de gestion 2-2 à 2-10 inclusivement et 2-12 à 2-19 inclusivement, et pour les canards, la Bernache du Canada et la Bernache de Hutchins seulement et, de plus, dans les secteurs provinciaux de gestion 2-4 et 2-5 pour l’Oie des neiges et l’Oie de Ross seulement.
+
+</td>
+</tr>
+<tr>
+<td>**e)** Secteur provincial de gestion 2-11 seulement.
+
+</td>
+</tr>
+<tr>
+<td>**f)** Pour les canards, la Bernache du Canada et la Bernache de Hutchins seulement.
+
+</td>
+</tr>
+<tr>
+<td>**g)** Secteurs provinciaux de gestion 2-2 à 2-10 inclusivement et 2-12 à 2-19 inclusivement.
+
+</td>
+</tr>
+<tr>
+<td>**h)** Secteurs provinciaux de gestion 2-4 et 2-5 seulement.
+
+</td>
+</tr>
+<tr>
+<td>**i)** Secteurs provinciaux de gestion 2-5 à 2-7 inclusivement, 2-9, 2-10 et 2-12 à 2-17 inclusivement, et pour la Bernache du Canada et la Bernache de Hutchins seulement.
+
+</td>
+</tr>
+<tr>
+<td>**j)** Secteurs provinciaux de gestion 2-2 à 2-4 inclusivement, 2-8, 2-18 et 2-19, et pour la Bernache du Canada et la Bernache de Hutchins seulement.
+
+</td>
+</tr>
+<tr>
+<td>**k)** Pour la Bernache du Canada et la Bernache de Hutchins seulement.
+
+</td>
+</tr>
+<tr>
+<td>**l)** Secteur provincial de gestion 2-4 seulement.
+
+</td>
+</tr>
+<tr>
+<td>**m)** Secteurs provinciaux de gestion 2-2 à 2-19 inclusivement.
+
+</td>
+</tr>
+<tr>
+<td>**n)** Secteurs provinciaux de gestion 3-12 à 3-18 inclusivement, 3-30 à 3-35 inclusivement et 3-38 à 3-44 inclusivement pour l’Oie rieuse, la Bernache du Canada et la Bernache de Hutchins, et secteurs provinciaux de gestion 3-19, 3-20, 3-26 à 3-29 inclusivement, 3-36 et 3-37 pour l’Oie rieuse seulement.
+
+</td>
+</tr>
+<tr>
+<td>**o)** Secteurs provinciaux de gestion 3-19, 3-20, 3-26 à 3-29 inclusivement, 3-36 et 3-37 pour la Bernache du Canada et la Bernache de Hutchins seulement.
+
+</td>
+</tr>
+<tr>
+<td>**p)** Secteurs provinciaux de gestion 3-13 à 3-17 inclusivement.
+
+</td>
+</tr>
+<tr>
+<td>**q)** Secteurs provinciaux de gestion 6-1, 6-2, 6-4 à 6-10 inclusivement, et 6-15 à 6-30 inclusivement.
+
+</td>
+</tr>
+<tr>
+<td>**r)** Secteurs provinciaux de gestion 6-3 et 6-11 à 6-14 inclusivement.
+
+</td>
+</tr>
+<tr>
+<td>**s)** Pour l’Oie rieuse seulement.
+
+</td>
+</tr>
 </table>
-
-
-**a)** Secteurs provinciaux de gestion 1-3 et 1-8 à 1-15 inclusivement, et pour la Bernache du Canada et la Bernache de Hutchins seulement.
-
-
-
-**b)** Secteurs provinciaux de gestion 1-1, 1-2, 1-4 à 1-7 inclusivement, et pour la Bernache du Canada et la Bernache de Hutchins seulement.
-
-
-
-**c)** Voir le règlement provincial pour les restrictions locales.
-
-
-
-**d)** Secteurs provinciaux de gestion 2-2 à 2-10 inclusivement et 2-12 à 2-19 inclusivement, et pour les canards, la Bernache du Canada et la Bernache de Hutchins seulement et, de plus, dans les secteurs provinciaux de gestion 2-4 et 2-5 pour l’Oie des neiges et l’Oie de Ross seulement.
-
-
-
-**e)** Secteur provincial de gestion 2-11 seulement.
-
-
-
-**f)** Pour les canards, la Bernache du Canada et la Bernache de Hutchins seulement.
-
-
-
-**g)** Secteurs provinciaux de gestion 2-2 à 2-10 inclusivement et 2-12 à 2-19 inclusivement.
-
-
-
-**h)** Secteurs provinciaux de gestion 2-4 et 2-5 seulement.
-
-
-
-**i)** Secteurs provinciaux de gestion 2-5 à 2-7 inclusivement, 2-9, 2-10 et 2-12 à 2-17 inclusivement, et pour la Bernache du Canada et la Bernache de Hutchins seulement.
-
-
-
-**j)** Secteurs provinciaux de gestion 2-2 à 2-4 inclusivement, 2-8, 2-18 et 2-19, et pour la Bernache du Canada et la Bernache de Hutchins seulement.
-
-
-
-**k)** Pour la Bernache du Canada et la Bernache de Hutchins seulement.
-
-
-
-**l)** Secteur provincial de gestion 2-4 seulement.
-
-
-
-**m)** Secteurs provinciaux de gestion 2-2 à 2-19 inclusivement.
-
-
-
-**n)** Secteurs provinciaux de gestion 3-12 à 3-18 inclusivement, 3-30 à 3-35 inclusivement et 3-38 à 3-44 inclusivement pour l’Oie rieuse, la Bernache du Canada et la Bernache de Hutchins, et secteurs provinciaux de gestion 3-19, 3-20, 3-26 à 3-29 inclusivement, 3-36 et 3-37 pour l’Oie rieuse seulement.
-
-
-
-**o)** Secteurs provinciaux de gestion 3-19, 3-20, 3-26 à 3-29 inclusivement, 3-36 et 3-37 pour la Bernache du Canada et la Bernache de Hutchins seulement.
-
-
-
-**p)** Secteurs provinciaux de gestion 3-13 à 3-17 inclusivement.
-
-
-
-**q)** Secteurs provinciaux de gestion 6-1, 6-2, 6-4 à 6-10 inclusivement, et 6-15 à 6-30 inclusivement.
-
-
-
-**r)** Secteurs provinciaux de gestion 6-3 et 6-11 à 6-14 inclusivement.
-
-
-
-**s)** Pour l’Oie rieuse seulement.
-
 
 
 
@@ -3428,9 +3392,6 @@ TABLEAU I.1
 <th>Tourterelles tristes</th>
 </tr>
 <tr>
-<th> </th>
-</tr>
-<tr>
 <td>Prises par jour</td>
 <td>8a)c)e)k)</td>
 <td>5g)i), 10m)</td>
@@ -3449,7 +3410,7 @@ TABLEAU I.1
 <td>10</td>
 </tr>
 <tr>
-<td> </td>
+<td></td>
 </tr>
 <tr>
 <td>**a)** Dont quatre au plus peuvent être des Canard pilets.
@@ -3539,9 +3500,6 @@ TABLEAU I.1
 <th>Canards, oies et bernaches, foulques et bécassines</th>
 </tr>
 <tr>
-<th> </th>
-</tr>
-<tr>
 <td>1</td>
 <td>Dans les Territoires du Nord-Ouest</td>
 <td>Du 1<sup>er</sup> septembre au 10 décembre</td>
@@ -3569,23 +3527,34 @@ TABLEAU I.1
 <h4>Maximums de prises et maximums d’oiseaux à posséder dans les Territoires du Nord-Ouest</h4>
 <tr>
 <th>Maximums</th>
-<th>Canards RÉSIDENTS DU CANADA</th>
-<th>Canards NON-RÉSIDENTS DU CANADA</th>
-<th>Oies et bernaches RÉSIDENTS DU CANADA</th>
-<th>Oies et bernaches NON-RÉSIDENTS DU CANADA</th>
-<th>Foulques RÉSIDENTS DU CANADA ET NON-RÉSIDENTS DU CANADA</th>
-<th>Bécassines RÉSIDENTS DU CANADA</th>
-<th>Bécassines NON-RÉSIDENTS DU CANADA</th>
-</tr>
-<tr>
-<th> </th>
+<th>Canards RÉSIDENTS DU CANADA
+
+</th>
+<th>Canards NON-RÉSIDENTS DU CANADA
+
+</th>
+<th>Oies et bernaches RÉSIDENTS DU CANADA
+
+</th>
+<th>Oies et bernaches NON-RÉSIDENTS DU CANADA
+
+</th>
+<th>Foulques RÉSIDENTS DU CANADA ET NON-RÉSIDENTS DU CANADA
+
+</th>
+<th>Bécassines RÉSIDENTS DU CANADA
+
+</th>
+<th>Bécassines NON-RÉSIDENTS DU CANADA
+
+</th>
 </tr>
 <tr>
 <td>Prises par jour</td>
 <td>25</td>
-<td>  8</td>
+<td>8</td>
 <td>15</td>
-<td>  5 a)</td>
+<td>5 a)</td>
 <td>25</td>
 <td>10</td>
 <td>10</td>
@@ -3601,7 +3570,7 @@ TABLEAU I.1
 <td>20</td>
 </tr>
 <tr>
-<td> </td>
+<td></td>
 </tr>
 <tr>
 <td>**a)** Sauf que les non-résidents ne peuvent prendre plus de deux Oies rieuses par jour ni en avoir plus de quatre en leur possession.
@@ -3637,9 +3606,6 @@ TABLEAU I.1
 <th>Grues du Canada</th>
 <th>Râles et foulques</th>
 <th>Bécassines</th>
-</tr>
-<tr>
-<th> </th>
 </tr>
 <tr>
 <td>1</td>
@@ -3709,12 +3675,9 @@ TABLEAU I.1
 <th>Bécassines</th>
 </tr>
 <tr>
-<th> </th>
-</tr>
-<tr>
 <td>Prises par jour</td>
-<td>  8a)</td>
-<td>  5b)</td>
+<td>8a)</td>
+<td>5b)</td>
 <td>2</td>
 <td>0c)</td>
 <td>10</td>
@@ -3728,7 +3691,7 @@ TABLEAU I.1
 <td>30d)</td>
 </tr>
 <tr>
-<td> </td>
+<td></td>
 </tr>
 <tr>
 <td>**a)** Sauf qu’il est permis de prendre 17 canards de plus par jour, sans maximum d’oiseaux à posséder, dans le nord du territoire du Yukon.
@@ -3773,15 +3736,12 @@ TABLEAU I.1
 <th>Canards, oies et bernaches, foulques et bécassines</th>
 </tr>
 <tr>
-<th> </th>
-</tr>
-<tr>
 <td>1</td>
 <td>Tout le Nunavut</td>
 <td>du 1<sup>er</sup> septembre au 10 décembre a)</td>
 </tr>
 <tr>
-<td> </td>
+<td></td>
 </tr>
 <tr>
 <td>**a)** Des enregistrements d’appels d’Oies des neiges et des leurres blancs peuvent être utilisés pour chasser l’Oie des neiges. Ce faisant, tout oiseau migrateur pour lequel il y a une saison de chasse ouverte peut aussi être pris.
@@ -3810,16 +3770,13 @@ TABLEAU I.1
 <th>Méthodes ou matériel de chasse supplémentaires</th>
 </tr>
 <tr>
-<th> </th>
-</tr>
-<tr>
 <td>1</td>
 <td>Tout le Nunavut</td>
 <td>Du 1<sup>er</sup> mai au 7 juin</td>
 <td>Enregistrements d’appels d’oiseaux a) b)</td>
 </tr>
 <tr>
-<td> </td>
+<td></td>
 </tr>
 <tr>
 <td>**a)** « Enregistrements d’appels d’oiseaux » vise les appels d’oiseaux appartenant à une espèce mentionnée dans le titre de la colonne 2.
@@ -3851,14 +3808,11 @@ TABLEAU I.1
 <th>Bécassines NON-RÉSIDENTS DU CANADA</th>
 </tr>
 <tr>
-<th> </th>
-</tr>
-<tr>
 <td>Prises par jour</td>
 <td>25c)g)</td>
-<td>  8c)g)</td>
+<td>8c)g)</td>
 <td>15b)e)</td>
-<td>  5a)b)e)</td>
+<td>5a)b)e)</td>
 <td>25</td>
 <td>10</td>
 <td>10</td>
@@ -3874,7 +3828,7 @@ TABLEAU I.1
 <td>20</td>
 </tr>
 <tr>
-<td> </td>
+<td></td>
 </tr>
 <tr>
 <td>**a)** Sauf que les non-résidents ne peuvent prendre plus de deux Oies rieuses par jour ni en avoir plus de quatre en leur possession.
@@ -3920,7 +3874,7 @@ TABLEAU I.1
 
 
 
-> DORS/78-579, art. 1; DORS/79-544, art. 10; DORS/79-621, art. 1; DORS/80-577, art. 11 à 19; DORS/81-641, art. 7 à 16; DORS/82-703, art. 8 à 17; DORS/82-826, art. 1; DORS/83-594, art. 2 à 11; DORS/84-561, art. 2 à 11; DORS/84-947, art. 1 à 3; DORS/85-694, art. 6 à 14; DORS/86-834, art. 1 à 10; DORS/87-464, art. 1 à 10; DORS/88-374, art. 1 à 9; DORS/88-457, art. 1 et 2; DORS/89-343, art. 1 à 10; DORS/89-389, art. 1(A), 2 et 3(F); DORS/89-472, art. 1 et 2; DORS/90-424, art. 1 à 8 et 10 à 12; DORS/90-425, art. 1; DORS/90-623, art. 2 à 5; DORS/91-492, art. 1 à 10; DORS/92-532, art. 1 à 12; DORS/93-344, art. 1, 2(F) et 3 à 13; DORS/93-438, art. 1 à 8; DORS/94-449, art. 1 à 15, 16(F) et 17 à 24; DORS/95-296, art. 1 à 28 et 29(F); DORS/96-308, art. 1 à 41; DORS/97-364, art. 1 à 31; DORS/97-400, art. 3; DORS/98-343, art. 1 à 4, 5(A), 6 à 29, 30(F) et 31 à 35; DORS/99-147, art. 6 à 8; DORS/99-263, art. 1 à 5(F), 6, 7, 8(F), 9, 10, 11(F), 12 à 14, 15(F), 16 à 26, 27(F), 28 à 54, 55(F) et 56 à 64; err., Vol. 133, N<sup>o</sup>o 16; DORS/2000-88, art. 6 à 13; DORS/2000-240, art. 1 à 20; DORS/2000-331, art. 4; DORS/2000-347, art. 3, 4, 6 et 7; DORS/2001-90, art. 1 à 4; DORS/2001-215, art. 1 à 24; DORS/2002-80, art. 2 à 5; DORS/2002-212, art. 1 à 25; DORS/2002-394, art. 1; DORS/2003-84, art. 2 et 3; DORS/2003-221, art. 1 à 17; DORS/2004-37, art. 1 à 3; DORS/2004-138, art. 2(F), 3(F), 4 à 21, 22(F), 23(F), 24 à 31, 32(F), 33 à 35, 36(F), 37, 38, 39(F) et 40 à 42; DORS/2005-64, art. 1 à 3; DORS/2005-186, art. 5 à 15, 16(A) et 17 à 26; DORS/2006-52, art. 1; DORS/2006-136, art. 2 à 10, 11(A), 12, 13(A) et 14 à 30; DORS/2006-284, art. 1; DORS/2007-140, art. 2 à 12, 13(A) et 14 à 32.
+> DORS/78-579, art. 1; DORS/79-544, art. 10; DORS/79-621, art. 1; DORS/80-577, art. 11 à 19; DORS/81-641, art. 7 à 16; DORS/82-703, art. 8 à 17; DORS/82-826, art. 1; DORS/83-594, art. 2 à 11; DORS/84-561, art. 2 à 11; DORS/84-947, art. 1 à 3; DORS/85-694, art. 6 à 14; DORS/86-834, art. 1 à 10; DORS/87-464, art. 1 à 10; DORS/88-374, art. 1 à 9; DORS/88-457, art. 1 et 2; DORS/89-343, art. 1 à 10; DORS/89-389, art. 1(A), 2 et 3(F); DORS/89-472, art. 1 et 2; DORS/90-424, art. 1 à 8 et 10 à 12; DORS/90-425, art. 1; DORS/90-623, art. 2 à 5; DORS/91-492, art. 1 à 10; DORS/92-532, art. 1 à 12; DORS/93-344, art. 1, 2(F) et 3 à 13; DORS/93-438, art. 1 à 8; DORS/94-449, art. 1 à 15, 16(F) et 17 à 24; DORS/95-296, art. 1 à 28 et 29(F); DORS/96-308, art. 1 à 41; DORS/97-364, art. 1 à 31; DORS/97-400, art. 3; DORS/98-343, art. 1 à 4, 5(A), 6 à 29, 30(F) et 31 à 35; DORS/99-147, art. 6 à 8; DORS/99-263, art. 1 à 5(F), 6, 7, 8(F), 9, 10, 11(F), 12 à 14, 15(F), 16 à 26, 27(F), 28 à 54, 55(F) et 56 à 64; err., Vol. 133, N<sup>o</sup>o 16; DORS/2000-88, art. 6 à 13; DORS/2000-240, art. 1 à 20; DORS/2000-331, art. 4; DORS/2000-347, art. 3, 4, 6 et 7; DORS/2001-90, art. 1 à 4; DORS/2001-215, art. 1 à 24; DORS/2002-80, art. 2 à 5; DORS/2002-212, art. 1 à 25; DORS/2002-394, art. 1; DORS/2003-84, art. 2 et 3; DORS/2003-221, art. 1 à 17; DORS/2004-37, art. 1 à 3; DORS/2004-138, art. 2(F), 3(F), 4 à 21, 22(F), 23(F), 24 à 31, 32(F), 33 à 35, 36(F), 37, 38, 39(F) et 40 à 42; DORS/2005-64, art. 1 à 3; DORS/2005-186, art. 5 à 15, 16(A) et 17 à 26; DORS/2006-52, art. 1; DORS/2006-136, art. 2 à 10, 11(A), 12, 13(A) et 14 à 30; DORS/2006-284, art. 1; DORS/2007-140, art. 2 à 12, 13(A) et 14 à 32; DORS/2008-149, art. 1.
 
 
 
