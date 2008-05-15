@@ -167,7 +167,7 @@ Autorités habilitantes :
 
 **4** 
 
-- **(1)** Sous réserve des paragraphes (3) et 5.1(1), il est interdit à quiconque de pratiquer la pêche, de se livrer à l’aquaculture ou de tenir un concours à moins d’y être autorisé par un permis délivré en vertu du présent règlement, du [Règlement de pêche (dispositions générales)](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/93/53.md) ou du [Règlement sur les permis de pêche communautaires des Autochtones](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/93/332.md).
+- **(1)** Sous réserve du paragraphe (3), de l’article 4.1 et du paragraphe 5.1(1), il est interdit à quiconque de pratiquer la pêche, de se livrer à l’aquaculture ou de tenir un concours à moins d’y être autorisé par un permis délivré en vertu du présent Règlement, du [Règlement de pêche (dispositions générales)](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/93/53.md) ou du [Règlement sur les permis de pêche communautaires des Autochtones](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/93/332.md).
 
 - **(2)** Sous réserve du paragraphe 6(14.1), sur réception de la demande d’un permis et, le cas échéant, de la carte des prises pour la conservation du saumon visés à la colonne I de l’annexe III, accompagnée du droit applicable prévu à la colonne II, le ministre peut délivrer le permis et la carte.
 
@@ -178,12 +178,26 @@ Autorités habilitantes :
 - **(4)** Tout poisson pris par une personne âgée de moins de 16 ans est compté comme faisant partie des prises du titulaire de permis visé à l’alinéa (3)b).
 
 - **(5)** La personne âgée de moins de 16 ans visée au paragraphe (3) doit, sur demande d’un agent des pêches ou d’un garde-pêche, présenter la preuve de son âge.
-> DORS/82-875, art. 3; DORS/87-439, art. 2; DORS/89-155, art. 2; DORS/92-444, art. 2; DORS/93-60, art. 3; DORS/93-339, art. 2; DORS/94-269, art. 2; DORS/99-98, art. 2; DORS/2003-339, art. 3.
+> DORS/82-875, art. 3; DORS/87-439, art. 2; DORS/89-155, art. 2; DORS/92-444, art. 2; DORS/93-60, art. 3; DORS/93-339, art. 2; DORS/94-269, art. 2; DORS/99-98, art. 2; DORS/2003-339, art. 3; DORS/2008-152, art. 1.
 
 
 
 
-**4.1** [Abrogé, DORS/89-155, art. 3]
+
+## Semaine nationale de la pêche
+
+
+**4.1** 
+
+- **(1)** Tout résident du Yukon peut pratiquer la pêche à la ligne sans permis durant l’une ou l’autre des périodes suivantes :
+	- **a)** la période commençant le dernier vendredi du mois de juin et se terminant à minuit le lundi suivant, si le 1<sup>er</sup> juillet tombe un samedi, un dimanche ou un lundi;
+	- **b)** la période commençant le premier vendredi du mois de juillet et se terminant à minuit le lundi suivant, si le 1<sup>er</sup> juillet ne tombe pas durant les jours visés à l’alinéa a).
+
+- **(2)** Le paragraphe (1) ne s’applique pas aux personnes qui participent à un concours.
+
+- **(3)** La personne qui pratique la pêche à la ligne sans permis durant la période visée au paragraphe (1) doit, sur demande d’un agent des pêches ou d’un garde-pêche, présenter la preuve qu’elle est un résident du Yukon.
+> DORS/2008-152, art. 2.
+
 
 
 
