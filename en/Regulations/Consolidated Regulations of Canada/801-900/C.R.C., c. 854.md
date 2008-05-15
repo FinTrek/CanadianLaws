@@ -167,7 +167,7 @@ Enabling authorities:
 
 **4** 
 
-- **(1)** Subject to subsections (3) and 5.1(1), no person shall fish, engage in fish farming or hold a derby except under the authority of a licence issued under these Regulations, the [Fishery (General) Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/93/53.md) or the [Aboriginal Communal Fishing Licences Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/93/332.md).
+- **(1)** Subject to subsection (3), section 4.1 and subsection 5.1(1), no person shall fish, engage in fish farming or hold a derby except under the authority of a licence issued under these Regulations, the [Fishery (General) Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/93/53.md) or the [Aboriginal Communal Fishing Licences Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/93/332.md).
 
 - **(2)** Subject to subsection 6(14.1), on receipt of an application for a licence and, where applicable, a Salmon Conservation Catch Card as set out in column I of an item of Schedule III, together with the applicable fee set out in column II of that item, the Minister may issue the licence or the Salmon Conservation Catch Card.
 
@@ -178,12 +178,26 @@ Enabling authorities:
 - **(4)** All fish caught by a person under 16 years of age shall be counted as part of the catch of the licence holder referred to in paragraph 3(b).
 
 - **(5)** The person under 16 years of age referred to in subsection (3) shall, at the request of a fishery officer or fishery guardian, produce proof of age.
-> SOR/82-875, s. 3; SOR/87-439, s. 2; SOR/89-155, s. 2; SOR/92-444, s. 2; SOR/93-60, s. 3; SOR/93-339, s. 2; SOR/94-269, s. 2; SOR/99-98, s. 2; SOR/2003-339, s. 3.
+> SOR/82-875, s. 3; SOR/87-439, s. 2; SOR/89-155, s. 2; SOR/92-444, s. 2; SOR/93-60, s. 3; SOR/93-339, s. 2; SOR/94-269, s. 2; SOR/99-98, s. 2; SOR/2003-339, s. 3; SOR/2008-152, s. 1.
 
 
 
 
-**4.1** [Repealed, SOR/89-155, s. 3]
+
+## National Fishing Week
+
+
+**4.1** 
+
+- **(1)** A Yukon resident may engage in angling without a licence
+	- **(a)** during the period that begins on the last Friday in June and ends at midnight on the Monday immediately following that Friday, if July 1 falls within that period; or
+	- **(b)** during the period that begins on the first Friday in July and ends at midnight on the Monday immediately following that Friday, if July 1 does not fall within the period referred to in paragraph (a).
+
+- **(2)** Subsection (1) does not apply to angling by a participant in a derby.
+
+- **(3)** A person engaged in angling without a licence during a period referred to in subsection (1) shall, at the request of a fishery officer or fishery guardian, produce proof that the person is a Yukon resident.
+> SOR/2008-152, s. 2.
+
 
 
 
