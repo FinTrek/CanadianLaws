@@ -11311,11 +11311,11 @@ would exceed 50 per cent of the regulatory capital of the bank.
 
 - **(1)** The following definitions apply in this Part.
 
-***designated foreign bank*** means a foreign bank that is the subject of a designation order.
+***designated foreign bank***[Repealed, 2007, c. 6, s. 48]
 
-***designation order*** means an order made under subsection 508(1).
+***designation order***[Repealed, 2007, c. 6, s. 48]
 
-***exemption order*** means an order made under subsection 509(1).
+***exemption order***[Repealed, 2007, c. 6, s. 48]
 
 ***finance entity*** means a Canadian entity that is a finance entity as defined in the regulations.
 
@@ -11345,7 +11345,7 @@ would exceed 50 per cent of the regulatory capital of the bank.
 - **(a)** leasing activities; or
 - **(b)** leasing activities and activities other than those described in paragraphs (a) to (h) of the definition ***financial services entity***.
 
-***limited commercial entity*** means a Canadian entity that a foreign bank or an entity associated with a foreign bank may control in accordance with section 522.09, or in which a foreign bank or an entity associated with a foreign bank is permitted to acquire a substantial investment in accordance with that section.
+***limited commercial entity*** means a Canadian entity that a foreign bank or an entity associated with a foreign bank may control in accordance with subsection 522.09(1) or (2), or in which a foreign bank or an entity associated with a foreign bank is permitted to acquire a substantial investment in accordance with that subsection.
 
 ***non-bank affiliate of a foreign bank*** means a Canadian entity, other than a bank,
 - **(a)** in which a foreign bank or an entity associated with a foreign bank holds a substantial investment, or
@@ -11456,7 +11456,7 @@ would, if they were one person, control the Canadian entity.
 - **(15)** For the purposes of this Part, a foreign bank has, or is deemed to have, a financial establishment in Canada if the foreign bank or any entity associated with the foreign bank
 	- **(a)** is an authorized foreign bank;
 	- **(b)** is a foreign insurance company;
-	- **(c)** is a foreign securities dealer, or a foreign cooperative credit society, that has received the approval of the Minister under paragraph 522.22(1)(f) to engage in or to carry on the business of dealing in securities or the business of a cooperative credit society; or
+	- **(c)** has received the approval of the Minister under paragraph 522.22(1)(f); or
 	- **(d)** controls, or is a major owner of,
 		- **(i)** a Canadian entity referred to in any of paragraphs 468(1)(a) to (i), or
 		- **(ii)** a Canadian entity that is a financial services entity.
@@ -11466,7 +11466,7 @@ would, if they were one person, control the Canadian entity.
 - **(16)** For the purposes of this Part, an entity associated with a foreign bank has, or is deemed to have, a financial establishment in Canada if the entity, the foreign bank or any other entity associated with the foreign bank
 	- **(a)** is an authorized foreign bank;
 	- **(b)** is a foreign insurance company;
-	- **(c)** is a foreign securities dealer, or a foreign cooperative credit society, that has received the approval of the Minister under paragraph 522.22(1)(f) to engage in or to carry on the business of dealing in securities or the business of a cooperative credit society; or
+	- **(c)** has received the approval of the Minister under paragraph 522.22(1)(f); or
 	- **(d)** controls, or is a major owner of,
 		- **(i)** a Canadian entity referred to in any of paragraphs 468(1)(a) to (i), or
 		- **(ii)** a Canadian entity that is a financial services entity.
@@ -11590,7 +11590,26 @@ where
 **Deeming re acts of agent, etc. — associated entities**
 
 - **(3)** For the purposes of this Part, an entity associated with a foreign bank is deemed to be carrying out or to have carried out anything prohibited by subsection (1) if it is carried out by a nominee or agent of the entity associated with the foreign bank acting as such.
-> 1991, c. 46, s. 510; 1996, c. 6, s. 9; 1997, c. 15, s. 77; 2001, c. 9, s. 132.
+
+**Non-application re federal institutions associated with a foreign bank**
+
+- **(4)** Subsection (1) does not apply to
+	- **(a)** an entity referred to in any of paragraphs 468(1)(a) to (f) that is an entity associated with a foreign bank; or
+	- **(b)** a Canadian entity that an entity referred to in paragraph (a) controls, or in which such an entity has a substantial investment.
+
+**Non-application re Canadian entity associated with a foreign bank**
+
+- **(5)** Paragraphs (1)(a) and (b) do not apply to a Canadian entity that is an entity associated with a foreign bank and that is held or acquired in accordance with this Part.
+> 1991, c. 46, s. 510; 1996, c. 6, s. 9; 1997, c. 15, s. 77; 2001, c. 9, s. 132; 2007, c. 6, s. 50.
+
+
+
+
+
+**Exception re real property holding and management**
+
+**510.1** Except as may be prescribed, paragraphs 510(1)(a) and (b) do not apply in respect of the holding or managing of, or otherwise dealing with, real property in Canada by a foreign bank or an entity associated with a foreign bank.
+> 2007, c. 6, s. 51.
 
 
 
@@ -11598,8 +11617,8 @@ where
 
 **Exception re accessing accounts**
 
-**511** Nothing in paragraphs 510(1)(a) to (c) is to be construed as prohibiting a foreign bank or an entity associated with a foreign bank from entering into an arrangement with one or more Canadian financial institutions by which customers of the foreign bank or the entity who are natural persons not ordinarily resident in Canada may access in Canada their accounts located outside Canada through the use of automated banking machines located in Canada and operated by the Canadian financial institution or institutions.
-> 1991, c. 46, s. 511; 2001, c. 9, s. 132.
+**511** Nothing in paragraphs 510(1)(a) to (c) is to be construed as prohibiting a foreign bank or an entity associated with a foreign bank from providing its customers who are natural persons not ordinarily resident in Canada with access in Canada to their accounts located outside Canada through the use of automated banking machines located in Canada.
+> 1991, c. 46, s. 511; 2001, c. 9, s. 132; 2007, c. 6, s. 51.
 
 
 
@@ -11618,8 +11637,8 @@ where
 
 **513** 
 
-- **(1)** A foreign bank, or an entity associated with a foreign bank, that has received the approval of the Minister under paragraph 522.22(1)(f) to engage in or carry on the business of dealing in securities or the business of a cooperative credit society may
-	- **(a)** if it is a foreign securities dealer that has also received the approval of the Minister under paragraph 522.22(1)(i), engage in the activities referred to in paragraph 510(1)(c) so long as they relate to its business of dealing in securities engaged in or carried on by it in accordance with provincial laws relating to securities dealing; and
+- **(1)** A foreign bank, or an entity associated with a foreign bank, that has received the approval of the Minister under paragraph 522.22(1)(f) may
+	- **(a)** if it is a foreign securities dealer that has also received the approval of the Minister under paragraph 522.22(1)(i), engage in the activities referred to in paragraph 510(1)(c) so long as they relate to its business referred to in paragraph 522.18(1)(b); and
 	- **(b)** if it is a foreign cooperative credit society, engage in the activities referred to in paragraph 510(1)(c) so long as they relate to its business as a cooperative credit society engaged in or carried on by it in accordance with provincial laws relating to cooperative credit societies.
 
 **Non-application**
@@ -11628,26 +11647,16 @@ where
 	- **(a)** a Canadian entity referred to in any of paragraphs 468(1)(g) to (i);
 	- **(b)** a prescribed Canadian entity, other than a permitted Canadian entity, that is controlled by a Canadian entity referred to in paragraph (a); or
 	- **(c)** any other Canadian entity, other than a limited commercial entity, that is acquired or held by a foreign bank or an entity associated with a foreign bank in accordance with Divisions 4 and 5, and that has received the approval of the Minister under paragraph 522.22(1)(i).
-> 1991, c. 46, s. 513; 1997, c. 15, s. 78; 1999, c. 28, s. 29; 2001, c. 9, s. 132.
+> 1991, c. 46, s. 513; 1997, c. 15, s. 78; 1999, c. 28, s. 29; 2001, c. 9, s. 132; 2007, c. 6, s. 52.
 
 
 
 
-
-**Exception re real property holding and management**
-
-**514** Except as may be prescribed, paragraphs 510(1)(a) and (b) do not apply in respect of the holding, managing and other dealing with real property in Canada by a foreign bank or an entity associated with a foreign bank.
-> 1991, c. 46, s. 514; 1997, c. 15, s. 79; 2001, c. 9, s. 132.
+**514** [Repealed, 2007, c. 6, s. 53]
 
 
 
-
-
-**Non-application re Canadian entity associated with a foreign bank**
-
-**515** Paragraphs 510(1)(a) and (b) do not apply to a Canadian entity that is an entity associated with a foreign bank and that is held or acquired in accordance with this Part.
-> 1991, c. 46, s. 515; 1997, c. 15, s. 80; 2001, c. 9, s. 132.
-
+**515** [Repealed, 2007, c. 6, s. 53]
 
 
 
@@ -11656,12 +11665,12 @@ where
 
 **516** 
 
-- **(1)** If a foreign bank maintains a branch or engages in or carries on business in Canada that it maintained or engaged in or carried on before becoming a foreign bank and that branch or business is not permitted by or under this Part, the foreign bank may continue to maintain that branch or engage in or carry on that business for a period of six months from the time it became a foreign bank or for any other shorter period that may be specified or approved by the Minister.
+- **(1)** If an entity becomes a foreign bank, or an entity associated with a foreign bank, to which this Part applies and immediately before it became such a foreign bank or such an entity it maintained a branch or engaged in or carried on business in Canada that is not permitted by or under this Part, it may continue to maintain that branch or engage in or carry on that business for a period of six months after the day on which it became such a foreign bank or such an entity, or for any other shorter period that may be specified or approved by the Minister.
 
-**Change of status**
+**Transitional**
 
-- **(2)** If a foreign bank holds control of or holds a substantial investment in a Canadian entity and it did so before becoming a foreign bank and that holding is not permitted by or under this Part, the foreign bank may continue to hold control of, or a substantial investment in, the Canadian entity for a period of six months from the time it became a foreign bank or for any other shorter period that may be specified or approved by the Minister.
-> 1991, c. 46, s. 516; 2001, c. 9, s. 132.
+- **(2)** If a foreign bank or an entity associated with a foreign bank was permitted by section 516 or 517, as that section read immediately before the day on which this subsection came into force, to maintain a branch or engage in or carry on business in Canada that is not permitted by or under this Part, it may continue to maintain that branch or engage in or carry on that business for the period during which it could have done so under that section**.**
+> 1991, c. 46, s. 516; 2001, c. 9, s. 132; 2007, c. 6, s. 53.
 
 
 
@@ -11671,12 +11680,12 @@ where
 
 **517** 
 
-- **(1)** If an entity associated with a foreign bank maintains a branch or engages in or carries on business in Canada that it maintained or engaged in or carried on before the foreign bank became a foreign bank and that branch or business is not permitted by or under this Part, the entity may continue to maintain that branch or engage in or carry on that business for a period of six months from the time the foreign bank became a foreign bank or for any other shorter period that may be specified or approved by the Minister.
+- **(1)** If an entity becomes a foreign bank, or an entity associated with a foreign bank, to which this Part applies and immediately before it became such a foreign bank or such an entity it held control of, or a substantial investment in, a Canadian entity and that control or substantial investment is not permitted by or under this Part, it may continue to hold control of, or a substantial investment in, the Canadian entity for a period of six months after the day on which it became such a foreign bank or such an entity, or for any other shorter period that may be specified or approved by the Minister.
 
-**Change of status**
+**Transitional**
 
-- **(2)** If an entity associated with a foreign bank holds control of or holds a substantial investment in a Canadian entity and it did so before the foreign bank became a foreign bank and that holding is not permitted by or under this Part, the entity may continue to hold control of, or a substantial investment in, the Canadian entity for a period of six months from the time the foreign bank became a foreign bank or for any other shorter period that may be specified or approved by the Minister.
-> 1991, c. 46, s. 517; 1997, c. 15, s. 81; 2001, c. 9, s. 132.
+- **(2)** If a foreign bank or an entity associated with a foreign bank was permitted by section 516 or 517, as that section read immediately before the day on which this subsection came into force, to hold control of, or a substantial investment in, a Canadian entity and that holding is not permitted by or under this Part, it may continue to hold control of, or the substantial investment in, the Canadian entity for the period during which it could have done so under that section.
+> 1991, c. 46, s. 517; 1997, c. 15, s. 81; 2001, c. 9, s. 132; 2007, c. 6, s. 53.
 
 
 
@@ -11684,8 +11693,8 @@ where
 
 **Restriction**
 
-**517.1** If an order has been made under subsection 973.1(1) in respect of a foreign bank or an entity associated with a foreign bank and section 516 applies to the foreign bank or section 517 applies to the entity, as the case may be, the period under section 516 or 517 may not extend beyond the expiry of the period referred to in the order made under subsection 973.1(1).
-> 2001, c. 9, s. 132.
+**517.1** If an order has been made under subsection 973.1(1) in respect of a foreign bank or an entity associated with a foreign bank and section 516 or 517 applies to the foreign bank or entity, as the case may be, the period under section 516 or 517 may not extend beyond the expiry of the period referred to in the order made under subsection 973.1(1).
+> 2001, c. 9, s. 132; 2007, c. 6, s. 54(E).
 
 
 
@@ -11722,10 +11731,8 @@ where
 
 **Exception**
 
-- **(4)** Despite subsection (1), a foreign bank, or an entity associated with a foreign bank, that has received the approval of the Minister under paragraph 522.22(1)(f) to engage in or carry on the business of dealing in securities or the business of a cooperative credit society may
-	- **(a)** if it is a foreign securities dealer, guarantee any securities or accept any bills of exchange or depository bills in relation to its business of dealing in securities engaged in or carried on by it in accordance with provincial laws relating to securities dealing; and
-	- **(b)** if it is a foreign cooperative credit society, guarantee any securities or accept any bills of exchange or depository bills in relation to its business as a cooperative credit society engaged in or carried on by it in accordance with provincial laws relating to cooperative credit societies.
-> 1991, c. 46, s. 518; 1997, c. 15, s. 82; 1999, c. 28, s. 30, c. 31, s. 15(F); 2001, c. 9, s. 132.
+- **(4)** Despite subsection (1), a foreign bank, or an entity associated with a foreign bank, that has received the approval of the Minister under paragraph 522.22(1)(f) may guarantee any securities or accept any bills of exchange or depository bills in relation to its business permitted under paragraph 522.18(1)(a) or (b).
+> 1991, c. 46, s. 518; 1997, c. 15, s. 82; 1999, c. 28, s. 30, c. 31, s. 15(F); 2001, c. 9, s. 132; 2007, c. 6, s. 55.
 
 
 
@@ -11735,7 +11742,7 @@ where
 
 **519** 
 
-- **(1)** Despite anything in this Part, but subject to subsection (5) and section 509, a non-bank affiliate of a foreign bank shall not, in Canada,
+- **(1)** Despite subsections 510(4) and (5), a non-bank affiliate of a foreign bank shall not, in Canada,
 	- **(a)** engage in the business of accepting deposit liabilities;
 	- **(b)** engage in the business of acting as an agent for the acceptance of deposit liabilities for a foreign bank or an entity associated with a foreign bank, other than for
 		- **(i)** an authorized foreign bank,
@@ -11743,43 +11750,49 @@ where
 		- **(iii)** an entity referred to in any of paragraphs 468(1)(a), (c), (d) and (h) or a trust or loan corporation referred to in paragraph 468(1)(g); or
 	- **(c)** represent to the public that any instrument issued by it is a deposit or that any liability incurred by it is a deposit.
 
-**Disclosure of status**
+**Exception**
 
-- **(2)** Despite anything in this Part, but subject to subsections (4) to (6) and section 509, a non-bank affiliate of a foreign bank that carries on as part of its business the provision of financial services shall not borrow money in Canada from the public without disclosing that
-	- **(a)** the non-bank affiliate is not a member institution of the Canada Deposit Insurance Corporation;
-	- **(b)** the liability incurred by the non-bank affiliate through the borrowing is not a deposit; and
-	- **(c)** the non-bank affiliate is not regulated as a financial institution in Canada.
+- **(2)** Subsection (1) does not apply to a non-bank affiliate that is
+	- **(a)** a trust or loan corporation incorporated by or under an Act of Parliament or of the legislature of a province;
+	- **(b)** a Canadian entity referred to in paragraph 468(1)(d) or (h); or
+	- **(c)** a prescribed entity.
+> 1991, c. 46, s. 519; 1997, c. 15, s. 83; 1999, c. 28, s. 31; 2001, c. 9, s. 132; 2007, c. 6, s. 56.
+
+
+
+
+
+**Borrowing from the public — non-bank affiliates**
+
+**519.1** 
+
+- **(1)** A non-bank affiliate of a foreign bank that carries on as part of its business the provision of financial services may borrow money in Canada from the public only if it discloses that
+	- **(a)** it is not a member institution of the Canada Deposit Insurance Corporation;
+	- **(b)** the liability incurred by it through the borrowing is not a deposit; and
+	- **(c)** it is not regulated as a financial institution in Canada.
 
 **Manner of disclosure**
 
-- **(3)** The disclosure shall be
+- **(2)** The disclosure must be
 	- **(a)** in a prospectus, information circular or other offering document or a similar document related to the borrowing or, if there is no such document, in a statement delivered to the lender; or
 	- **(b)** in any other manner that may be prescribed.
 
 **Exception for certain borrowing**
 
-- **(4)** Subsection (2) does not apply
+- **(3)** Subsection (1) does not apply
 	- **(a)** to a borrowing of a prescribed class or type or to a borrowing in prescribed circumstances or in a prescribed manner; or
 	- **(b)** except as may be provided in any regulations, to a borrowing
 		- **(i)** from a person in an amount of $150,000 or more, or
 		- **(ii)** through the issue of instruments in denominations of $150,000 or more.
 
-**Exception - deposit-taking institutions**
+**Exception**
 
-- **(5)** Subsections (1) and (2) do not apply to a non-bank affiliate that is
-	- **(a)** a trust or loan corporation incorporated under an Act of Parliament or of the legislature of a province;
-	- **(b)** a Canadian entity referred to in paragraph 468(1)(d) or (h); or
-	- **(c)** a prescribed entity.
-
-**Exception - insurance company or securities dealer**
-
-- **(6)** Subsection (2) does not apply if the non-bank affiliate is
-	- **(a)** an insurance company incorporated under an Act of Parliament or of the legislature of a province;
-	- **(b)** a bank holding company or an insurance holding company;
-	- **(c)** an entity controlled by a bank holding company or an insurance holding company or in which a bank holding company or an insurance holding company has a substantial investment;
-	- **(d)** a financial institution referred to in paragraph (g) of the definition “financial institution” in section 2; or
-	- **(e)** a prescribed entity.
-> 1991, c. 46, s. 519; 1997, c. 15, s. 83; 1999, c. 28, s. 31; 2001, c. 9, s. 132.
+- **(4)** Subsection (1) does not apply to a non-bank affiliate that is
+	- **(a)** a Canadian entity referred to in any of paragraphs 468(1)(b), (c) or (e) to (g);
+	- **(b)** an entity controlled by a bank holding company or an insurance holding company or in which a bank holding company or an insurance holding company has a substantial investment;
+	- **(c)** a financial institution referred to in paragraph (g) of the definition ***financial institution*** in section 2; or
+	- **(d)** a prescribed entity.
+> 2007, c. 6, s. 56.
 
 
 
@@ -11789,47 +11802,63 @@ where
 
 **520** 
 
-- **(1)** Despite anything in this Part, but subject to subsection (5) and section 509, a foreign bank — or an entity that is associated with a foreign bank and that is incorporated or formed otherwise than by or under an Act of Parliament or of the legislature of a province — shall not, as part of its business in Canada,
+- **(1)** A foreign bank — or an entity that is associated with a foreign bank and that is incorporated or formed otherwise than by or under an Act of Parliament or of the legislature of a province — shall not, as part of its business in Canada,
 	- **(a)** engage in the business of accepting deposit liabilities;
-	- **(b)** engage in the business of acting as an agent for the acceptance of deposit liabilities for a foreign bank or an entity associated with a foreign bank, other than for
-		- **(i)** an authorized foreign bank,
-		- **(ii)** a foreign cooperative credit society that has received the approval of the Minister under paragraph 522.22(1)(f) to engage in or carry on the business of a cooperative credit society, or
-		- **(iii)** an entity referred to in any of paragraphs 468(1)(a), (c), (d) and (h) or a trust or loan corporation referred to in paragraph 468(1)(g); or
+	- **(b)** engage in the business of acting as an agent for the acceptance of deposit liabilities for a foreign bank or an entity associated with a foreign bank; or
 	- **(c)** represent to the public that any instrument issued by it is a deposit or that any liability incurred by it is a deposit.
 
-**Disclosure of status**
+**Exception**
 
-- **(2)** Despite anything in this Part, but subject to subsections (4) to (6) and section 509, a foreign bank or entity referred to in subsection (1) that carries on, as part of its business in Canada, the provision of financial services shall not borrow money in Canada from the public without disclosing that
-	- **(a)** the foreign bank or entity is not a member institution of the Canada Deposit Insurance Corporation;
-	- **(b)** the liability incurred through the borrowing is not a deposit; and
-	- **(c)** the foreign bank or entity is not regulated as a financial institution in Canada.
+- **(2)** Subsection (1) does not apply to
+	- **(a)** a foreign bank that is an authorized foreign bank; or
+	- **(b)** a foreign cooperative credit society that has received the approval of the Minister under paragraph 522.22(1)(f) to engage in or carry on the business of a cooperative credit society.
+
+**Exception**
+
+- **(3)** Paragraph (1)(b) does not apply to a foreign securities dealer that has received the approval of the Minister under paragraph 522.22(1)(f) or to a foreign insurance company — or to a prescribed entity — that engages in the business of acting as an agent for the acceptance of deposit liabilities for
+	- **(a)** an authorized foreign bank;
+	- **(b)** a foreign cooperative credit society that has received the approval of the Minister under paragraph 522.22(1)(f) to engage in or carry on the business of a cooperative credit society; or
+	- **(c)** an entity referred to in paragraph 468(1)(a), (c), (d) or (h) or a trust or loan corporation referred to in paragraph 468(1)(g).
+> 1991, c. 46, s. 520; 1999, c. 28, s. 32; 2001, c. 9, s. 132; 2007, c. 6, s. 56.
+
+
+
+
+
+**Borrowing from the public**
+
+**520.1** 
+
+- **(1)** A foreign bank — or an entity that is associated with a foreign bank and that is incorporated or formed otherwise than by or under an Act of Parliament or of the legislature of a province — may, as part of its business in Canada, borrow money in Canada from the public only if
+	- **(a)** it maintains a branch in Canada as permitted by section 522.05 or 522.19 or it engages in or carries on business in Canada as permitted by that section; and
+	- **(b)** it discloses that
+		- **(i)** it is not a member institution of the Canada Deposit Insurance Corporation,
+		- **(ii)** the liability incurred through the borrowing is not a deposit, and
+		- **(iii)** it is not regulated as a financial institution in Canada.
 
 **Manner of disclosure**
 
-- **(3)** The disclosure shall be
+- **(2)** The disclosure must be
 	- **(a)** in a prospectus, information circular or other offering document or a similar document related to the borrowing or, if there is no such document, in a statement delivered to the lender; or
 	- **(b)** in any other manner that may be prescribed.
 
 **Exception for certain borrowing**
 
-- **(4)** Subsection (2) does not apply
-	- **(a)** to a borrowing of a prescribed class or type or to a borrowing in prescribed circumstances or in a prescribed manner; or
-	- **(b)** except as may be provided in any regulations, to a borrowing
+- **(3)** The disclosure is not required in respect of
+	- **(a)** a borrowing of a prescribed class or type or a borrowing in prescribed circumstances or in a prescribed manner; or
+	- **(b)** except as may be provided in any regulations, a borrowing
 		- **(i)** from a person in an amount of $150,000 or more, or
 		- **(ii)** through the issue of instruments in denominations of $150,000 or more.
 
-**Non-application - authorized foreign banks and foreign cooperative credit societies**
+**Exception**
 
-- **(5)** Subsections (1) and (2) do not apply to
-	- **(a)** a foreign bank that is an authorized foreign bank; or
-	- **(b)** a foreign cooperative credit society that has received the approval of the Minister under paragraph 522.22(1)(f) to engage in or carry on the business of a cooperative credit society.
-
-**Non-application foreign insurance company or securities dealer**
-
-- **(6)** Subsection (2) does not apply to a foreign bank, or an entity associated with a foreign bank, that is
-	- **(a)** a foreign insurance company; or
-	- **(b)** a foreign securities dealer that has received the approval of the Minister under paragraph 522.22(1)(f) to engage in or carry on the business of dealing in securities.
-> 1991, c. 46, s. 520; 1999, c. 28, s. 32; 2001, c. 9, s. 132.
+- **(4)** Subsection (1) does not apply to
+	- **(a)** an authorized foreign bank;
+	- **(b)** a foreign cooperative credit society that has received the approval of the Minister under paragraph 522.22(1)(f) to engage in or carry on the business of a cooperative credit society;
+	- **(c)** a foreign insurance company;
+	- **(d)** a foreign securities dealer that has received the approval of the Minister under paragraph 522.22(1)(f); or
+	- **(e)** a prescribed entity.
+> 2007, c. 6, s. 56.
 
 
 
@@ -11978,8 +12007,8 @@ may in Canada engage in the activities of a leasing entity so long as it does no
 
 **Investment in a financial institution**
 
-**522.07** Subject to the requirements relating to designation and approval set out in Division 5, a foreign bank or an entity associated with a foreign bank may acquire or hold control of, or a substantial investment in, a Canadian entity referred to in any of paragraphs 468(1)(a) to (i).
-> 2001, c. 9, s. 132.
+**522.07** Subject to the requirements relating to approval set out in Division 5, a foreign bank or an entity associated with a foreign bank may acquire or hold control of, or a substantial investment in, a Canadian entity referred to in any of paragraphs 468(1)(a) to (i).
+> 2001, c. 9, s. 132; 2007, c. 6, s. 58.
 
 
 
@@ -11989,12 +12018,13 @@ may in Canada engage in the activities of a leasing entity so long as it does no
 
 **522.08** 
 
-- **(1)** Subject to subsection (2) and the requirements relating to designation and approval set out in Division 5, a foreign bank or an entity associated with a foreign bank may acquire or hold control of, or a substantial investment in, a Canadian entity, other than an entity referred to in paragraphs 468(1)(a) to (i), whose business is limited to one or more of the following:
+- **(1)** Subject to subsection (2) and the requirements relating to approval set out in Division 5, a foreign bank or an entity associated with a foreign bank may acquire or hold control of, or a substantial investment in, a Canadian entity, other than an entity referred to in any of paragraphs 468(1)(a) to (i), whose business is limited to one or more of the following:
 	- **(a)** engaging in
 		- **(i)** any financial service activity that a bank is permitted to engage in under any of paragraphs 409(2)(a) to (d), or
 		- **(ii)** any other activity that a bank is permitted to engage in under section 410 or 411;
-	- **(b)** acquiring or holding shares of, or ownership interests in, entities that a foreign bank or an entity associated with a foreign bank is permitted to acquire or hold under this Division or Division 8, other than limited commercial entities, except in prescribed circumstances, including shares or ownership interests acquired or held in accordance with regulations made under paragraph 522.23(a) concerning specialized financing;
-	- **(c)** engaging in the provision of any services exclusively to any or all of the following, so long as the Canadian entity is providing those services to the foreign bank or to any member of the foreign bank’s group, namely,
+	- **(b)** acquiring or holding shares of, or ownership interests in, entities that a foreign bank or an entity associated with a foreign bank is permitted to acquire or hold under this Division or Division 8 — other than limited commercial entities, except in prescribed circumstances;
+	- **(b.1)** acquiring or holding shares of, or ownership interests in, entities incorporated or formed otherwise than by or under an Act of Parliament or of the legislature of a province;
+	- **(c)** engaging in the provision of any services exclusively to any or all of the following, so long as the Canadian entity is also providing those services to the foreign bank or to any member of the foreign bank’s group, namely,
 		- **(i)** the foreign bank,
 		- **(ii)** any member of the foreign bank’s group,
 		- **(iii)** any entity that is primarily engaged in the business of providing financial services,
@@ -12003,10 +12033,10 @@ may in Canada engage in the activities of a leasing entity so long as it does no
 			- **(B)** an entity in which a foreign bank or an entity associated with a foreign bank is permitted to acquire a substantial investment under this section and section 522.07, or
 			- **(C)** a prescribed entity, or
 		- **(v)** any prescribed person, if it is doing so under prescribed terms and conditions, if any are prescribed;
-	- **(d)** engaging in any activity that a bank is permitted to engage in — or in any other prescribed activity — , other than an activity referred to in paragraph (a) or (e), that relates to
+	- **(d)** engaging in any activity that a bank is permitted to engage in — or in any other prescribed activity —, other than an activity referred to in paragraph (a) or (e), that relates to
 		- **(i)** the promotion, sale, delivery or distribution of a financial product or financial service that is provided by the foreign bank or by any member of the foreign bank’s group, or
 		- **(ii)** if a significant portion of the business of the Canadian entity involves an activity referred to in subparagraph (i), the promotion, sale, delivery or distribution of a financial product or financial service that is provided by any other entity that is primarily engaged in the business of providing financial services;
-	- **(e)** engaging in the activities referred to in the definition “mutual fund entity”, “mutual fund distribution entity” or “real property brokerage entity” in subsection 464(1); and
+	- **(e)** engaging in the activities referred to in the definition ***closed-end fund***, ***mutual fund distribution entity***, ***mutual fund entity*** or ***real property brokerage entity*** in subsection 464(1); and
 	- **(f)** engaging in prescribed activities, under prescribed terms and conditions, if any are prescribed.
 
 **Additional restriction**
@@ -12016,22 +12046,47 @@ may in Canada engage in the activities of a leasing entity so long as it does no
 	- **(b)** dealing in securities, except as may be permitted under paragraph (1)(e) or as may be permitted to a bank under paragraph 409(2)(c);
 	- **(c)** activities that a bank is not permitted to engage in under section 416, if the Canadian entity engages in the activities of a finance entity or of any other entity as may be prescribed;
 	- **(d)** acquiring or holding control of, or a substantial investment in, another Canadian entity unless
-		- **(i)** in the case of a Canadian entity that is controlled by the foreign bank or the entity associated with a foreign bank, the foreign bank or the entity associated with a foreign bank itself would be permitted to acquire or hold control of, or a substantial investment in, the other Canadian entity under this section, section 522.07, any of paragraphs 522.1(a) to (d) or Division 8, or
-		- **(ii)** in the case of a Canadian entity that is not controlled by the foreign bank or the entity associated with a foreign bank, the foreign bank or the entity associated with a foreign bank itself would be permitted to acquire or hold control of, or a substantial investment in, the other Canadian entity under this section, section 522.07, paragraph 522.1(a), (c) or (d) or Division 8; or
+		- **(i)** in the case of a Canadian entity that is controlled by the foreign bank or the entity associated with a foreign bank, the foreign bank or the entity associated with a foreign bank itself would be permitted to acquire or hold control of, or a substantial investment in, the other Canadian entity under this section or section 522.07 or 522.1 or Division 8, or
+		- **(ii)** in the case of a Canadian entity that is not controlled by the foreign bank or the entity associated with a foreign bank, the foreign bank or the entity associated with a foreign bank itself would be permitted to acquire or hold control of, or a substantial investment in, the other Canadian entity under this section, section 522.07, any of paragraphs 522.1(a) or (c) to (e) or Division 8; or
 	- **(e)** any prescribed activity.
-> 2001, c. 9, s. 132.
+
+**Exception**
+
+- **(2.1)** Despite paragraph (2)(a), a foreign bank or an entity associated with a foreign bank may acquire or hold control of, or acquire or increase a substantial investment in, any entity that acts as a trustee of a trust if the entity has been authorized under the laws of a province to act as a trustee of a trust and the entity is
+	- **(a)** a closed-end fund;
+	- **(b)** a mutual fund entity; or
+	- **(c)** an entity whose business is limited to engaging in one or more of the following:
+		- **(i)** the activities of a mutual fund distribution entity,
+		- **(ii)** any activity that a bank is permitted to engage in under paragraph 410(1)(c.2), and
+		- **(iii)** the provision of investment counselling services and portfolio management services.
+> 2001, c. 9, s. 132; 2007, c. 6, s. 59.
 
 
 
 
 
-**Investment in a limited commercial entity**
+**Investment in a limited commercial entity — foreign bank**
 
-**522.09** Subject to the requirements relating to approval and designation set out in Division 5, a foreign bank or an entity associated with a foreign bank that has a financial establishment in Canada may acquire or hold control of, or a substantial investment in, a Canadian entity that is not
-- **(a)** an entity referred to in any of paragraphs 468(1)(a) to (i), or
-- **(b)** a Canadian entity that engages in more than the prescribed portion of — or if no portion is prescribed, 10 per cent of — the activities referred to in paragraphs 522.08(1)(a) to (f) or in any of paragraphs (a) to (h) of the definition “financial services entity” in subsection 507(1), determined in the prescribed manner,
-if the Canadian entity does not engage in any leasing activities and, in the opinion of the Minister, engages in or carries on business that is the same as, or similar, related or incidental to, the business outside Canada of the foreign bank or the entity associated with a foreign bank.
-> 2001, c. 9, s. 132.
+**522.09** 
+
+- **(1)** Subject to the requirements relating to approval set out in Division 5, a foreign bank that has a financial establishment in Canada may acquire or hold control of, or a substantial investment in, a Canadian entity if
+	- **(a)** the Canadian entity is not an entity referred to in any of paragraphs 468(1)(a) to (i);
+	- **(b)** the Canadian entity does not engage in more than the prescribed portion of — or if no portion is prescribed, 10 per cent of — the activities referred to in paragraphs 522.08(1)(a) to (f) or in any of paragraphs (a) to (h) of the definition ***financial services entity*** in subsection 507(1), determined in the prescribed manner;
+	- **(c)** the Canadian entity does not engage in any leasing activities; and
+	- **(d)** in the opinion of the Minister, the Canadian entity engages in or carries on business that is the same as, or similar, related or incidental to, the business outside Canada of the foreign bank or any entity associated with the foreign bank.
+
+**Investment in a limited commercial entity — entity associated with a foreign bank**
+
+- **(2)** Subject to the requirements relating to approval set out in Division 5, an entity that is associated with a foreign bank and that has a financial establishment in Canada may acquire or hold control of, or a substantial investment in, a Canadian entity if
+	- **(a)** the Canadian entity is not an entity referred to in any of paragraphs 468(1)(a) to (i);
+	- **(b)** the Canadian entity does not engage in more than the prescribed portion of — or if no portion is prescribed, 10 per cent of — the activities referred to in paragraphs 522.08(1)(a) to (f) or in any of paragraphs (a) to (h) of the definition ***financial services entity*** in subsection 507(1), determined in the prescribed manner;
+	- **(c)** the Canadian entity does not engage in leasing activities; and
+	- **(d)** in the opinion of the Minister, the Canadian entity engages in or carries on business that is the same as, or similar, related or incidental to, the business outside Canada of the entity associated with the foreign bank, the foreign bank or any other entity associated with the foreign bank.
+
+**Investment in holding body corporate — limited commercial entities**
+
+- **(3)** A foreign bank or an entity associated with a foreign bank may acquire or hold control of, or a substantial investment in, a Canadian entity whose business is limited to acquiring or holding shares of, or ownership interests in, limited commercial entities.
+> 2001, c. 9, s. 132; 2007, c. 6, s. 60.
 
 
 
@@ -12042,9 +12097,10 @@ if the Canadian entity does not engage in any leasing activities and, in the opi
 **522.1** A foreign bank or an entity associated with a foreign bank may acquire or hold control of, or a substantial investment in, a Canadian entity
 - **(a)** by way of an investment permitted by any of sections 522.11 to 522.13;
 - **(b)** by way of a temporary investment permitted by section 522.14;
-- **(c)** as a result of a default that has occurred under the terms of an agreement with respect to a loan or under any other documents governing the terms of a loan, as permitted by section 522.15; or
-- **(d)** through a realization of security, as permitted by section 522.15.
-> 2001, c. 9, s. 132.
+- **(c)** as a result of a default that has occurred under the terms of an agreement with respect to a loan or under any other documents governing the terms of a loan, as permitted by section 522.15;
+- **(d)** through a realization of security, as permitted by section 522.15; or
+- **(e)** if it does so in accordance with regulations made under paragraph 522.23(a) concerning specialized financing.
+> 2001, c. 9, s. 132; 2007, c. 6, s. 61.
 
 
 
@@ -12062,8 +12118,8 @@ if the Canadian entity does not engage in any leasing activities and, in the opi
 
 **Indirect investments through federal institutions**
 
-- **(2)** If a foreign bank or an entity associated with a foreign bank acquires or holds control of, or a substantial investment in, a Canadian entity under subsection (1), none of the requirements relating to designation and approval set out in Division 5 apply in respect of that acquisition or holding.
-> 2001, c. 9, s. 132.
+- **(2)** If a foreign bank or an entity associated with a foreign bank acquires or holds control of, or a substantial investment in, a Canadian entity under subsection (1), none of the requirements relating to approval set out in Division 5 apply in respect of that acquisition or holding.
+> 2001, c. 9, s. 132; 2007, c. 6, s. 62.
 
 
 
@@ -12098,7 +12154,7 @@ may acquire or hold control of, or a substantial investment in, a Canadian entit
 
 **522.14** 
 
-- **(1)** Subject to the requirements relating to designation set out in Division 5, a foreign bank or an entity associated with a foreign bank may, by way of temporary investment, acquire or hold control of, or a substantial investment in, a Canadian entity if the foreign bank or the entity associated with a foreign bank has a financial establishment in Canada or would, by virtue of the temporary investment, have a financial establishment in Canada.
+- **(1)** Subject to sections 522.21 and 522.211, a foreign bank or an entity associated with a foreign bank may, by way of temporary investment, acquire or hold control of, or a substantial investment in, a Canadian entity if the foreign bank or the entity associated with a foreign bank has a financial establishment in Canada or would, by virtue of the temporary investment, have a financial establishment in Canada.
 
 **Divestiture**
 
@@ -12110,8 +12166,8 @@ may acquire or hold control of, or a substantial investment in, a Canadian entit
 
 **Exception**
 
-- **(4)** When a foreign bank, or an entity associated with a foreign bank, acquires or holds, by way of a temporary investment, control of, or a substantial investment in, a Canadian entity for which the approval of the Minister is required under this Part, the foreign bank or entity associated with the foreign bank shall, within 90 days after acquiring control, or after acquiring the substantial investment,
-	- **(a)** apply to the Minister for approval to retain control of the Canadian entity or to continue to hold the substantial investment in the Canadian entity for a period specified by the Minister or for an indeterminate period; or
+- **(4)** If a foreign bank, or an entity associated with a foreign bank, acquires or holds, by way of a temporary investment, control of, or a substantial investment in, a Canadian entity for which the approval of the Minister would have been required under any of paragraphs 522.22(1)(a) to (e) if the foreign bank or the entity associated with a foreign bank had acquired the control or the substantial investment under section 522.07 or 522.08, the foreign bank or the entity associated with a foreign bank shall, within 90 days after acquiring control, or after acquiring the substantial investment,
+	- **(a)** apply to the Minister for approval to retain control of the Canadian entity or to continue to hold the substantial investment in the Canadian entity for a period specified by the Minister or for an indeterminate period on any terms and conditions that the Minister considers appropriate; or
 	- **(b)** do all things necessary to ensure that, on the expiry of the 90 days, it no longer controls the Canadian entity or holds a substantial investment in the Canadian entity.
 
 **Deemed temporary investment**
@@ -12121,7 +12177,7 @@ may acquire or hold control of, or a substantial investment in, a Canadian entit
 **Notification**
 
 - **(6)** Within 90 days after acquiring control or a substantial investment under subsection (1) or (5), a foreign bank or an entity associated with a foreign bank shall notify the Minister in writing of the acquisition.
-> 2001, c. 9, s. 132.
+> 2001, c. 9, s. 132; 2007, c. 6, s. 63.
 
 
 
@@ -12173,10 +12229,16 @@ it may retain the control or the substantial investment for five years, but it s
 
 **Business of a cooperative credit society and dealing in securities**
 
-**522.18** Subject to the requirements relating to designation and approval set out in Division 5, a foreign bank — or an entity associated with a foreign bank —
-- **(a)** that is a foreign cooperative credit society may, in Canada, engage in or carry on the business of a cooperative credit society, so long as that business is engaged in or carried on in accordance with provincial laws relating to cooperative credit societies; or
-- **(b)** that is a foreign securities dealer may, in Canada, engage in or carry on the business of dealing in securities, so long as that business is engaged in or carried on in accordance with provincial laws relating to securities dealing.
-> 2001, c. 9, s. 132.
+**522.18** 
+
+- **(1)** Subject to the requirements relating to approval set out in Division 5, a foreign bank — or an entity associated with a foreign bank —
+	- **(a)** that is a foreign cooperative credit society may, in Canada, engage in or carry on the business of a cooperative credit society, so long as that business is engaged in or carried on in accordance with provincial laws relating to cooperative credit societies; or
+	- **(b)** that is a foreign securities dealer may, in Canada, engage in or carry on the business of dealing in securities, or the business of providing investment counselling services and portfolio management services, so long as that business is engaged in or carried on in accordance with provincial laws relating to securities dealing or investment counselling and portfolio management.
+
+**Business of investment counselling services and portfolio management services**
+
+- **(2)** Subject to the requirements relating to approval set out in Division 5, an entity associated with a foreign bank incorporated or formed, and regulated, otherwise than by or under an Act of Parliament or of the legislature of a province, that engages in or carries on, outside Canada, the business of providing investment counselling services and portfolio management services may engage in or carry on that business in Canada so long as that business in Canada is engaged in or carried on in accordance with provincial laws relating to investment counselling and portfolio management.
+> 2001, c. 9, s. 132; 2007, c. 6, s. 64.
 
 
 
@@ -12186,27 +12248,31 @@ it may retain the control or the substantial investment for five years, but it s
 
 **522.19** 
 
-- **(1)** Subject to the requirements relating to designation and approval in Division 5 and subject to subsection (2), a foreign bank, or an entity that is incorporated or formed otherwise than by or under an Act of Parliament or of the legislature of a province and that is associated with a foreign bank, that has a financial establishment in Canada may maintain a branch in Canada or engage in or carry on business in Canada, so long as
+- **(1)** Subject to the requirements relating to approval set out in Division 5, and subject to subsection (2), a foreign bank, or an entity that is incorporated or formed otherwise than by or under an Act of Parliament or of the legislature of a province and that is associated with a foreign bank, that has a financial establishment in Canada may maintain a branch in Canada or engage in or carry on business in Canada, so long as
 	- **(a)** less than the prescribed portion — or if no portion is prescribed, 10 per cent — of its business in Canada, determined in the prescribed manner, consists of one or more of the activities referred to in any of
 		- **(i)** paragraphs 522.08(1)(a) to (f), and
-		- **(ii)** paragraphs (a) to (g) of the definition “financial services entity” in subsection 507(1);
+		- **(ii)** paragraphs (a) to (g) of the definition ***financial services entity*** in subsection 507(1);
 	- **(b)** less than the prescribed portion — or if no portion is prescribed, 10 per cent — of its business outside Canada, determined in the prescribed manner, consists of one or more of the activities referred to in any of
 		- **(i)** paragraphs 522.08(1)(a) to (f),
-		- **(ii)** paragraphs (a) to (g) of the definition “financial services entity” in subsection 507(1), and
+		- **(ii)** paragraphs (a) to (g) of the definition ***financial services entity*** in subsection 507(1), and
 		- **(iii)** paragraph (h) of that definition, except under prescribed circumstances; and
 	- **(c)** in the opinion of the Minister, the business in Canada is the same as, or similar, related or incidental to, the business outside Canada of the foreign bank or the entity associated with a foreign bank.
 
 **Prohibition**
 
 - **(2)** A foreign bank — or an entity associated with a foreign bank — that maintains a branch or engages in or carries on any business under subsection (1) may not in Canada engage in any leasing activities.
-> 2001, c. 9, s. 132.
+> 2001, c. 9, s. 132; 2007, c. 6, s. 65.
 
 
 
 
 
 **DIVISION 5** 
-### Designation And Approvals
+### Approvals
+
+
+
+#### Application
 
 
 
@@ -12323,14 +12389,15 @@ and that indirect acquisition is disclosed to the Minister in writing before the
 **Regulations**
 
 **522.23** The Governor in Council may make regulations for the purposes of this Part and, in particular, may make regulations
-- **(a)** concerning specialized financing for the purposes of paragraph 522.08(1)(b);
+- **(a)** concerning specialized financing;
 - **(b)** for the purposes of subsection 522.22(1) or (2), permitting the acquisition or holding of control or the acquisition or holding of substantial investments, or prescribing the circumstances under which either of those subsections does not apply or the foreign banks, entities associated with foreign banks or other entities in respect of which either of those subsections does not apply, including prescribing foreign banks, entities associated with foreign banks or other entities on the basis of the activities they engage in;
 - **(c)** restricting the ownership by foreign banks, or entities associated with foreign banks, of shares in a body corporate or of ownership interests in an unincorporated entity under Division 3 or 4 and imposing terms and conditions applicable to foreign banks, or entities associated with foreign banks, that own such shares or interests;
 - **(d)** in respect of sections 409 to 411, for the purposes of paragraph 522.08(1)(a), subsection 522.22(1) and section 522.24;
-- **(e)** respecting the calculation referred to in paragraphs 508(1)(d) and (2)(b), including regulations respecting the classes of entities associated with the foreign bank, and the classes of foreign banks described in any of paragraphs 508(1)(a) to (c) that are associated with the foreign bank, that are to be taken into account in that calculation;
-- **(f)** defining any terms in paragraphs 508(1)(d) and (2)(b); and
-- **(g)** defining “factoring entity” for the purpose of paragraph 522.22(1)(b).
-> 2001, c. 9, s. 132.
+- **(e)** respecting the calculation referred to in subsection 508(2), including regulations respecting the classes of entities associated with a foreign bank, and the classes of foreign banks described in any of subparagraphs 508(1)(a)(i) to (iii) that are associated with a foreign bank, that are to be taken into account in that calculation;
+- **(f)** defining any terms in subsection 508(2);
+- **(g)** respecting exemptions under subsection 508(3); and
+- **(h)** defining ***factoring entity*** for the purpose of paragraph 522.22(1)(b).
+> 2001, c. 9, s. 132; 2007, c. 6, s. 69.
 
 
 
@@ -12359,68 +12426,37 @@ and that indirect acquisition is disclosed to the Minister in writing before the
 
 - **(3)** The Minister may, by order, direct a foreign bank or an entity associated with a foreign bank, within any period that the Minister considers reasonable, to dispose of assets used in a business or activity engaged in or carried on, or to dispose of the control of an entity or a substantial investment in an entity acquired or held, in contravention of this Part or in contravention of any terms and conditions imposed
 	- **(a)** under subsection 522.26(2); or
-	- **(b)** under subsection 518(4) or 521(1.02), as it read immediately before the coming into force of this section.
-> 2001, c. 9, s. 132.
+	- **(b)** under subsection 518(4) or 521(1.02), as it read immediately before October 24, 2001.
+> 2001, c. 9, s. 132; 2007, c. 6, s. 70.
 
 
 
 
-
-**Definition**
-
-**522.26** 
-
-- **(1)** In this section and section 522.27, “decision” means a decision, an order, an approval, an extension or a permission of or by the Minister under this Part.
-
-**Ministerial terms and condition**
-
-- **(2)** A decision may include any terms and conditions that the Minister considers appropriate.
-
-**Minister may vary or revoke**
-
-- **(3)** The Minister may vary or revoke a previous decision.
-
-**Effective date of decision**
-
-- **(4)** A decision varying or revoking a previous decision takes effect three months after the day it is made, or at any other time that is agreed to by the Minister and the foreign bank, or the entity associated with a foreign bank, to which the decision relates.
 
 **Publication**
 
-- **(5)** The Minister shall publish in the Canada Gazette a notice of the making or revocation of a designation order or an exemption order.
-> 2001, c. 9, s. 132.
+**522.26** The Superintendent must publish in the Canada Gazette a notice of every approval granted for the purpose of section 522.21 or 522.211 and of every revocation of any such approval.
+> 2001, c. 9, s. 132; 2007, c. 6, s. 71.
 
 
 
 
 
-**Statements and returns**
+**Obligation to provide information**
 
-**522.27** Not later than six months after the end of its financial year or any other period that the Superintendent may specify, a foreign bank or an entity associated with a foreign bank in respect of which a decision has been made by the Minister shall, except to the extent that the Superintendent has exempted it in relation to any of the following, provide the Superintendent with
-- **(a)** a copy of its financial statements and those of each non-bank affiliate of the foreign bank for the financial year;
-- **(b)** a list, in a form satisfactory to the Superintendent, of businesses and activities engaged in or carried on by it under sections 514, 522.18 and 522.19;
-- **(c)** a list, in a form satisfactory to the Superintendent, of each non-bank affiliate of the foreign bank, with a description of the nature of the business engaged in or carried on by it; and
-- **(d)** any other information that may be prescribed for the purposes of this section.
-> 2001, c. 9, s. 132.
+**522.27** A foreign bank or entity associated with a foreign bank shall, at the times and in the form specified by the Superintendent, provide the Superintendent with the information that he or she may require.
+> 2001, c. 9, s. 132; 2007, c. 6, s. 71.
 
 
 
 
 
 **DIVISION 7** 
-### Non-Application Of Investment Canada Act
+> [Repealed, 2007, c. 6, s. 72]
 
 
 
-**[Investment Canada Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2028%20(1st%20Supp.).md)**
-
-**522.28** The [Investment Canada Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2028%20(1st%20Supp.).md) does not apply in respect of any of the following, whether it occurs directly or indirectly:
-- **(a)** the acquisition of control, within the meaning of that Act, of an entity referred to in any of paragraphs 468(1)(a) to (f) by a foreign bank or by an entity associated with a foreign bank;
-- **(b)** the establishment of a new Canadian business, within the meaning of that Act, that is the insurance business in Canada of a foreign insurance company that is a foreign bank that is the subject of an exemption order or that is an entity associated with a foreign bank that is the subject of an exemption order;
-- **(c)** the acquisition of control, within the meaning of that Act, of a Canadian entity by an entity referred to in any of paragraphs 468(1)(a) to (f) that is controlled by a foreign bank or by an entity associated with a foreign bank;
-- **(d)** the establishment of a new Canadian business, within the meaning of that Act, that is authorized by Division 4 by a foreign bank, or by an entity associated with a foreign bank; and
-- **(e)** the acquisition of control, within the meaning of that Act, of a Canadian entity in accordance with Division 4 by a foreign bank, or by an entity associated with a foreign bank.
-> 2001, c. 9, s. 132.
-
+**522.28** [Repealed, 2007, c. 6, s. 72]
 
 
 
@@ -12436,19 +12472,19 @@ and that indirect acquisition is disclosed to the Minister in writing before the
 
 - **(1)** The following definitions apply in this Division.
 
-***affected entity*** means
+***affected entity*** means
 - **(a)** an entity associated with a foreign bank that is an affected foreign bank and that has a financial establishment in Canada; or
-- **(b)** a prescribed entity associated with a foreign bank referred to in paragraph (c) of the definition “affected foreign bank”.
+- **(b)** a prescribed entity associated with a foreign bank referred to in paragraph (c) of the definition ***affected foreign bank***. (*entité visée*)
 
-***affected foreign bank*** means a foreign bank that
-- **(a)** immediately before the day this Division comes into force, was the subject of an order made under subsection 524(1) or former subsection 521(1.06) and whose order has not been revoked;
-- **(b)** on or before June 13, 2000, controlled a foreign bank subsidiary as defined in former section 2; or
-- **(c)** for the purposes of subsections 522.32(6) and (7) is a prescribed foreign bank that meets any of the conditions for designation set out in any of paragraphs 508(1)(a) to (d).
+***affected foreign bank*** means a foreign bank that
+- **(a)** immediately before the day this Division comes into force, was the subject of an order made under subsection 524(1) or former subsection 521(1.06) and whose order has not been revoked; or
+- **(b)** on or before June 13, 2000, controlled a foreign bank subsidiary as defined in former section 2.
+- **(c)** [Repealed, 2007, c. 6, s. 73] (*banque étrangère visée*)
 
 **Former provision**
 
 - **(2)** Every reference in this Division to a former provision means a reference to that provision as it read immediately before the day this Division comes into force.
-> 2001, c. 9, s. 132.
+> 2001, c. 9, s. 132; 2007, c. 6, s. 73.
 
 
 
@@ -12546,6 +12582,43 @@ and that indirect acquisition is disclosed to the Minister in writing before the
 	- **(a)** is not an authorized foreign bank; and
 	- **(b)** does not control, and is not a major shareholder of, a bank or a bank holding company.
 > 2001, c. 9, s. 132.
+
+
+
+
+
+**PART XII.01** 
+## Non-Application of the Investment Canada Act
+
+
+
+**[Investment Canada Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2028%20(1st%20Supp.).md)**
+
+**522.34** 
+
+- **(1)** The [Investment Canada Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2028%20(1st%20Supp.).md) does not apply in respect of any of the following, whether it occurs directly or indirectly:
+	- **(a)** the acquisition of control of a Canadian business, within the meaning of that Act, that is an entity referred to in any of paragraphs 468(1)(a) to (f) by a foreign bank or by an entity associated with a foreign bank;
+	- **(b)** the establishment of a new Canadian business, within the meaning of that Act, that is the insurance business in Canada of a foreign insurance company that is a foreign bank to which Part XII does not apply or that is an entity associated with a foreign bank to which that Part does not apply;
+	- **(c)** the acquisition of control of a Canadian business, within the meaning of that Act, by an entity referred to in any of paragraphs 468(1)(a) to (f) that is controlled by a foreign bank or by an entity associated with a foreign bank;
+	- **(d)** the establishment of a new Canadian business, within the meaning of that Act, by a foreign bank to which Part XII applies, or by an entity associated with a foreign bank to which that Part applies, that has a financial establishment in Canada, or would have one by virtue of the establishment of the new Canadian business; and
+	- **(e)** the acquisition of control of a Canadian business, within the meaning of that Act, by a foreign bank to which Part XII applies, or by an entity associated with a foreign bank to which that Part applies, that has a financial establishment in Canada, or would have one by virtue of the acquisition.
+
+**Definitions**
+
+- **(2)** The following definitions apply in subsection (1).
+
+***entity associated with a foreign bank*** means an entity that is or is deemed to be associated with a foreign bank within the meaning of section 507. (*entité liée à une banque étrangère*)
+
+***foreign insurance company*** means a foreign company as defined in subsection 2(1) of the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md). (*société d’assurances étrangère*)
+
+**Financial establishment in Canada**
+
+- **(3)** For the purpose of subsection (1), a foreign bank has a financial establishment in Canada if the foreign bank has or is deemed to have a financial establishment in Canada for the purpose of Part XII.
+
+**Financial establishment in Canada**
+
+- **(4)** For the purpose of subsection (1), an entity associated with a foreign bank has a financial establishment in Canada if the entity has or is deemed to have a financial establishment in Canada for the purpose of Part XII.
+> 2007, c. 6, s. 74.
 
 
 
@@ -21418,7 +21491,7 @@ if the Superintendent is satisfied that the information will be treated as confi
 
 
 
-##### Inspection of Bank Holding Companies
+#### Inspection of Bank Holding Companies
 
 
 
@@ -22101,28 +22174,42 @@ together with such other information about the background, business record and e
 
 - **(1)** Except to the extent permitted by the regulations, every person who uses the name of a bank or of a bank holding company in a prospectus, offering memorandum, takeover bid circular, advertisement for a transaction related to securities or in any other document in connection with a transaction related to securities is guilty of an offence.
 
-**Unauthorized use of title “bank”, etc.**
+**Unauthorized name**
 
-- **(2)** Subject to the regulations and subsections (4) to (6.1) and (10) to (12), every entity that acquires, adopts or retains a name that, in any language, includes the word “bank”, “banker” or “banking”, either alone or in combination with other words, or any word or words of import equivalent thereto, and every person who, in any language, uses the word “bank”, “banker” or “banking”, either alone or in combination with other words, or any word or words of import equivalent thereto, to indicate or describe a business in Canada or any part of a business in Canada, without being authorized to do so by this Act or any other Act of Parliament, is guilty of an offence.
+- **(2)** Subject to the regulations and subsections (4) to (5.1), (6) and (12), every entity, other than a bank, that acquires, adopts or retains a name that includes the word “bank”, “banker” or “banking”, either alone or in combination with other words, to indicate or describe a business in Canada or any part of a business in Canada, without being authorized to do so by this Act or any other Act of Parliament, is guilty of an offence.
 
-**Unauthorized use of the name of a bank holding company**
+**Unauthorized use of word “bank”, “banker” or “banking”**
 
-- **(3)** Subject to the regulations and subsections (7) to (9.1), every entity that acquires, adopts or retains, in any language, the name of a bank holding company and every person who, in any language, uses the name of a bank holding company to indicate or describe a business in Canada or any part of a business in Canada, without being authorized to do so by this Act or any other Act of Parliament, is guilty of an offence.
+- **(2.1)** Subject to the regulations and subsections (4) to (5.1), (6) and (12), every person, other than a bank, who uses the word “bank”, “banker” or “banking” to indicate or describe a business in Canada or any part of a business in Canada, without being authorized to do so by this Act or any other Act of Parliament, is guilty of an offence.
+
+**Unauthorized use of name or identifying mark of bank or foreign bank**
+
+- **(2.2)** Subject to the regulations and subsections (4), (5), (5.2), (5.3) and (10) to (12), every person who uses the name or any identifying mark of a bank or a foreign bank to indicate or describe a business in Canada or any part of a business in Canada, without being authorized to do so by this Act or any other Act of Parliament, is guilty of an offence.
+
+**Unauthorized statements regarding association with a bank, etc.**
+
+- **(2.3)** Subject to the regulations and subsections (4), (5.2) and (12), every person is guilty of an offence who, without being authorized to do so by this Act or any other Act of Parliament, makes any statement that a business is connected, associated or affiliated with a bank or a foreign bank.
+
+**Unauthorized use of name or identifying mark of a bank holding company**
+
+- **(3)** Subject to the regulations and subsections (7) to (9.1) and (12), every entity that acquires, adopts or retains the name of a bank holding company and every person who uses the name or any identifying mark of a bank holding company to indicate or describe a business in Canada or any part of a business in Canada, without being authorized to do so by this Act or any other Act of Parliament, is guilty of an offence.
 
 **Permitted use**
 
-- **(4)** No person commits an offence who uses the word “bank”, “banker” or “banking”
-	- **(a)** in relation to a business that is not engaged in financial activities, unless the business is carried out by a prescribed entity;
-	- **(b)** in a description of the corporate relationship of an entity controlled by a bank to that bank;
-	- **(b.1)** with the approval of the Minister and subject to terms and conditions that the Minister may impose, in a description of the corporate relationship of an entity in which a bank has a substantial investment to that bank;
-	- **(b.2)** in a description of the corporate relationship of an entity controlled by a bank holding company to that bank holding company;
-	- **(b.3)** with the approval of the Minister and subject to terms and conditions that the Minister may impose, in a description of the corporate relationship of an entity in which a bank holding company has a substantial investment to that bank holding company;
+- **(4)** No person commits an offence under any of subsections (2) to (2.3) if the activity referred to in that subsection is done
+	- **(a)** in a description of the corporate relationship between a bank and an entity controlled by the bank;
+	- **(b)** subject to the regulations, in a description of a corporate relationship between a bank and an entity affiliated with the bank;
+	- **(b.1)** in a description of the corporate relationship between a bank holding company and an entity controlled by the bank holding company;
+	- **(b.2) and (b.3)** [Repealed, 2007, c. 6, s. 129]
 	- **(c)** in an advertisement in Canada by or on behalf of a foreign bank in respect of its facilities outside Canada;
 	- **(d)** in the identification of representative offices of a foreign bank in Canada;
 	- **(e)** in relation to the business in Canada of an authorized foreign bank;
-	- **(f)** in a description made in accordance with the regulations of the corporate relationship of a bank or a bank holding company with a foreign bank or an entity associated with a foreign bank within the meaning of section 507 that controls the bank or bank holding company;
-	- **(g)** in a description made in accordance with the regulations of the corporate relationship of a prescribed Canadian entity with a foreign bank or an entity associated with a foreign bank within the meaning of section 507;
-	- **(h)** in a description made in accordance with the regulations of the corporate relationship of a prescribed entity associated with a foreign bank within the meaning of section 507 with the foreign bank or with another prescribed entity;
+	- **(f)** in a description of the corporate relationship between a bank or a bank holding company and a foreign bank that controls the bank or the bank holding company;
+	- **(f.1)** in a description of the corporate relationship between a bank or a bank holding company and an entity that is associated with a foreign bank and that controls the bank or the bank holding company;
+	- **(g)** subject to the regulations, in a description of the corporate relationship between a non-bank affiliate of a foreign bank, within the meaning of subsection 507(1), and a foreign bank that controls the non-bank affiliate, if the non-bank affiliate is not a bank holding company or an entity that is controlled by a bank holding company;
+	- **(h)** subject to the regulations, in a description of the corporate relationship between a non-bank affiliate of a foreign bank, within the meaning of subsection 507(1), and an entity that is associated with a foreign bank that controls the non-bank affiliate, if
+		- **(i)** the non-bank affiliate is not a bank holding company or an entity that is controlled by a bank holding company, and
+		- **(ii)** the entity is not a bank, a bank holding company, a foreign bank or an entity controlled by a bank or a bank holding company;
 	- **(i)** in the identification of a body corporate that was a non-bank affiliate of a foreign bank within the meaning of subsection 303(1) of the Bank Act, being chapter B-1 of the Revised Statutes of Canada, 1985, at any time before June 1, 1981;
 	- **(j)** in the identification of a Canadian financial institution that
 		- **(i)** was controlled by a bank that was a subsidiary of a foreign bank before June 15, 1997 but that has ceased to be so controlled,
@@ -22132,45 +22219,37 @@ together with such other information about the background, business record and e
 
 **Permitted use**
 
-- **(5)** No subsidiary of a bank commits an offence by reason only that it uses the name of the bank of which it is a subsidiary in its corporate name or a name under which it carries on business or by reason only that it uses any identifying mark, logogram or insignia of that bank in carrying on its business.
+- **(5)** No subsidiary of a bank commits an offence by reason only that it uses the name of the bank of which it is a subsidiary in its corporate name or a name under which it carries on business or by reason only that it uses any identifying mark of that bank in carrying on its business.
 
 **Permitted use**
 
-- **(5.1)** No entity in which a bank has a substantial investment commits an offence by reason only that it uses the name of the bank in its corporate name or a name under which it carries on business or by reason only that it uses any identifying mark, logogram or insignia of that bank in carrying on its business if it does so with the approval of the Minister and subject to terms and conditions that the Minister may impose.
+- **(5.1)** No person commits an offence under subsection (2) or (2.1) if the activity referred to in that subsection is in relation to a business that is not engaged in financial activities, unless the business is carried out by a prescribed entity.
 
 **Permitted use**
 
-- **(6)** No financial institution that was controlled by a bank on June 25, 1999 and that had a name that included the word “bank”, “banker” or “banking” on that day commits an offence by reason only that it uses that word in its name or in a name under which it carries on business if the financial institution is a subsidiary of a bank holding company that controls the bank.
+- **(5.2)** No bank commits an offence under subsection (2.2) or (2.3) if it is affiliated with the bank or the foreign bank.
 
 **Permitted use**
 
-- **(6.1)** No financial institution in which a bank had a substantial investment on June 25, 1999 and that had a name that included the word “bank”, “banker” or “banking” on that day commits an offence by reason only that it uses that word in its name or in a name under which it carries on business if the financial institution is an entity in which the bank or a bank holding company that controls the bank has a substantial investment and the financial institution uses that word with the approval of the Minister and subject to terms and conditions that the Minister may impose.
+- **(5.3)** Subject to the regulations, no entity affiliated with a bank commits an offence by reason only that the entity uses the name of the bank in the entity’s corporate name or in a name under which the entity carries on business or by reason only that it uses any identifying mark of the bank in carrying on its business, if the entity does not use the word “bank”, “banker” or “banking” in its corporate name, in a name under which it carries on business or in any of its identifying marks.
 
 **Permitted use**
 
-- **(7)** No subsidiary of a bank holding company commits an offence by reason only that it uses the name of the bank holding company in the subsidiary’s corporate name or in a name under which it carries on business, so long as, if the subsidiary is not a bank or a subsidiary of the bank, it does not use the word “bank”, “banker” or “banking” in its corporate name or in a name under which it carries on business.
+- **(6)** No financial institution that was controlled by a bank on June 25, 1999 and that had a name that included the word “bank”, “banker” or “banking” on that day commits an offence by reason only that it uses that word in its corporate name or in a name under which it carries on business if the financial institution is a subsidiary of a bank holding company that controls the bank.
+
+- **(6.1)** [Repealed, 2007, c. 6, s. 129]
 
 **Permitted use**
 
-- **(7.1)** No entity in which a bank holding company has a substantial investment commits an offence by reason only that it uses the name of the bank holding company in its corporate name or in a name under which it carries on business, so long as
-	- **(a)** it uses that name with the approval of the Minister and subject to terms and conditions that the Minister may impose; and
-	- **(b)** if the entity is not any of the following, it does not use the word “bank”, “banker” or “banking” in its corporate name or in a name under which it carries on business:
-		- **(i)** a bank,
-		- **(ii)** a subsidiary of a bank, and
-		- **(iii)** an entity that has received an approval under subsection (5.1).
+- **(7)** No subsidiary of a bank holding company commits an offence by reason only that it uses the name of the bank holding company in the subsidiary’s corporate name or in a name under which it carries on business, or by reason only that it uses any identifying mark of the bank holding company in carrying on its business, so long as, if the subsidiary is not a bank or a subsidiary of a bank, it does not use the word “bank”, “banker” or “banking” in its corporate name, in a name under which it carries on business or in any of its identifying marks.
+
+- **(7.1)** [Repealed, 2007, c. 6, s. 129]
 
 **Permitted use**
 
-- **(8)** No subsidiary of a bank holding company commits an offence by reason only that it uses any identifying mark, logogram or insignia of the bank holding company in carrying on the subsidiary’s business, so long as, if the subsidiary is not a bank or a subsidiary of the bank, it does not use any identifying mark, logogram or insignia that includes the word “bank”, “banker” or “banking”.
+- **(8)** Subject to the regulations, no entity affiliated with a bank holding company commits an offence by reason only that the entity uses the name of the bank holding company in the entity’s corporate name or in a name under which the entity carries on business or by reason only that it uses any identifying mark of the bank holding company in carrying on its business, if the entity does not use the word “bank”, “banker” or “banking” in its corporate name, in a name under which it carries on business or in any of its identifying marks.
 
-**Permitted use**
-
-- **(8.1)** No entity in which a bank holding company has a substantial investment commits an offence by reason only that it uses any identifying mark, logogram or insignia of the bank holding company in carrying on its business, so long as
-	- **(a)** it does so with the approval of the Minister and subject to terms and conditions that the Minister may impose; and
-	- **(b)** if the entity is not any of the following, it does not use any identifying mark, logogram or insignia that includes the word “bank”, “banker” or “banking”:
-		- **(i)** a bank,
-		- **(ii)** a subsidiary of a bank, and
-		- **(iii)** an entity that has received an approval under subsection (5.1).
+- **(8.1)** [Repealed, 2007, c. 6, s. 129]
 
 **Permitted use**
 
@@ -22178,49 +22257,55 @@ together with such other information about the background, business record and e
 
 **Permitted use**
 
-- **(9.1)** No entity in which a bank holding company has a substantial investment commits an offence by reason only that it uses the name of the bank holding company in a description of its corporate relationship to the bank holding company if it does so with the approval of the Minister and subject to terms and conditions that the Minister may impose.
+- **(9.1)** Subject to the regulations, no entity affiliated with a bank holding company commits an offence by reason only that the entity uses the name of the bank holding company in a description of the entity’s corporate relationship with the bank holding company.
 
 **Permitted use**
 
-- **(10)** No Canadian entity that is an entity associated with a foreign bank within the meaning of section 507 commits an offence by reason only that it uses the name of the foreign bank or any identifying mark, logogram or insignia of the foreign bank or the name of a prescribed entity associated with a foreign bank within the meaning of section 507 or any identifying mark, logogram or insignia of any such entity, so long as it does not use, in any language, the word “bank”, “banker” or “banking” and so long as
-	- **(a)** it does so with the approval of the Minister and subject to terms and conditions that the Minister may impose; or
-	- **(b)** it does so in prescribed circumstances and in accordance with prescribed terms and conditions.
+- **(10)** Subject to the regulations, no Canadian entity that is an entity associated with a foreign bank commits an offence by reason only that it uses the name of the foreign bank in its corporate name or in a name under which it carries on business, or by reason only that it uses any identifying mark of the foreign bank in carrying on its business, if
+	- **(a)** it does not use the word “bank”, “banker” or “banking” in its corporate name, in a name under which it carries on business or in any of its identifying marks; and
+	- **(b)** the foreign bank has consented to the use.
+
+- **(10.1)** [Repealed, 2007, c. 6, s. 129]
 
 **Permitted use**
 
-- **(10.1)** No Canadian entity in which a foreign bank or an entity associated with a foreign bank within the meaning of section 507 has a substantial investment commits an offence by reason only that it uses the name of the foreign bank or any identifying mark, logogram or insignia of the foreign bank or the name of a prescribed entity associated with a foreign bank within the meaning of section 507 or any identifying mark, logogram or insignia of that prescribed entity, so long as it does not use, in any language, the word “bank”, “banker” or “banking” and so long as
-	- **(a)** it does so with the approval of the Minister and subject to terms and conditions that the Minister may impose; or
-	- **(b)** it does so in prescribed circumstances and in accordance with prescribed terms and conditions.
+- **(11)** Subject to the regulations, no foreign bank that carries on a business or activity referred to in section 510.1, 522.05, 522.18 or 522.19, and no entity incorporated or formed by or under the laws of a country other than Canada that carries on a business or activity referred to in any of those provisions and that is an entity associated with a foreign bank, commits an offence by reason only that it uses its name or any of its identifying marks if it does not use the word “bank”, “banker” or “banking”.
 
-**Permitted use**
+**Permitted use — consent**
 
-- **(11)** Subject to subsection (12), no foreign bank that carries on a business or activity referred to in section 514, 522.05, 522.18 or 522.19 and no entity incorporated or formed by or under the laws of a country other than Canada that carries on a business or activity referred to in any of those provisions and that is an entity associated with a foreign bank within the meaning of section 507 commits an offence by reason only that it uses
-	- **(a)** its name or any of its identifying marks, logograms or insignia, or
-	- **(b)** the name of an entity associated with a foreign bank within the meaning of section 507 or any identifying mark, logogram or insignia of that entity,
-so long as it does not use, in any language, the word “bank”, “banker” or “banking”.
+- **(12)** No person commits an offence under any of subsections (2) to (3) if the activity referred to in that subsection has been approved by the Superintendent and is in accordance with any terms and conditions that the Superintendent may impose and, if the activity involves the use of the name or any identifying mark of a bank, a bank holding company or a foreign bank, the bank, bank holding company or foreign bank has consented to the use.
 
-**Permitted use**
+**Words “bank”, “banker” or “banking”**
 
-- **(12)** A foreign bank, or an entity associated with a foreign bank, that is referred to in subsection (11) may use the word “bank”, “banker” or “banking” in prescribed circumstances if it does so in accordance with prescribed terms and conditions.
+- **(13)** For the purposes of this section, the word “bank”, “banker” or “banking” includes
+	- **(a)** any of those words in any language; and
+	- **(b)** any word or words, in any language, that are equivalent to any of those words.
 
-**Deemed use of “bank”, etc.**
+**Entity’s name**
 
-- **(13)** For the purposes of this section, the following are deemed to be a use of the word “bank”, “banker” or “banking”:
-	- **(a)** any statement that a business, other than a bank that is a subsidiary of a foreign bank or the business in Canada of an authorized foreign bank, is connected, associated or affiliated with a bank or a foreign bank; and
-	- **(b)** the use of any identifying mark, logogram, insignia or name of a bank or a foreign bank or a name substantially similar to any such name.
+- **(14)** For the purposes of this section, other than subsection (1), an entity’s name includes
+	- **(a)** a name that is substantially similar to the entity’s name; and
+	- **(b)** the entity’s name in any language.
 
-**Deeming**
+**Identifying marks**
 
-- **(14)** For the purposes of this section, the use of the name of a bank holding company is deemed to include the use of any identifying mark, logogram, insignia or name of the bank holding company or a name substantially similar to any such name.
+- **(15)** For the purposes of this section, an identifying mark of an entity includes
+	- **(a)** any logogram, insignia or logo of the entity;
+	- **(b)** the initials or any acronym of the entity; and
+	- **(c)** any mark that is substantially similar to any identifying mark of the entity.
 
-**Deeming**
+**Definition of foreign bank**
 
-- **(15)** For the purposes of this section, the identifying mark, logogram or insignia of an entity is deemed to include the logo, initials or acronym of that entity.
+- **(16)** In this section, ***foreign bank*** means a foreign bank to which Part XII applies.
+
+**Entity associated with a foreign bank**
+
+- **(17)** For the purposes of this section, an entity is associated with a foreign bank if the entity is or is deemed to be associated with the foreign bank within the meaning of section 507 and is an entity to which Part XII applies.
 
 **Regulations**
 
-- **(16)** The Governor in Council may make regulations for the purposes of subsections (1) to (3) or paragraph (4)(a), (f), (g) or (h).
-> 2001, c. 9, s. 183.
+- **(18)** The Governor in Council may make regulations for the purposes of subsections (1) to (3), paragraphs (4)(b), (g) and (h) and subsections (5.3), (8) and (9.1) to (11).
+> 2001, c. 9, s. 183; 2007, c. 6, s. 129.
 
 
 
