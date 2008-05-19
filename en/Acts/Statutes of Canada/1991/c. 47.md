@@ -6528,9 +6528,7 @@ the registers and records required or authorized by this Act to be prepared and 
 
 
 **DIVISION VII** 
-### 
-> [Repealed, 1997, c. 15, s. 230]
-
+### [Repealed, 1997, c. 15, s. 230]
 
 
 
@@ -10439,6 +10437,24 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 - **(b)** the manner, place and time in which, and the persons to whom information is to be disclosed; and
 - **(c)** the content and form of any advertisement by companies or any prescribed class of companies relating to any matter referred to in paragraph (a).
 > 2001, c. 9, s. 425; 2007, c. 6, s. 231.
+
+
+
+
+
+**Provisions that do not apply**
+
+**489.3** 
+
+- **(1)** Paragraphs 165(2)(f) and (g) and sections 479 to 489.2 do not apply in respect of a company if
+	- **(a)** the order approving the commencement and carrying on of business by the company restricts it to the reinsurance of risks within a class of insurance specified in the order;
+	- **(b)** it has provided the Commissioner with a declaration stating that it is not dealing with a prescribed group of consumers or carrying on any prescribed activity; and
+	- **(c)** after providing the declaration, it continues to not deal with that prescribed group.
+
+**Notice if action taken that causes provisions to apply**
+
+- **(2)** The company must give notice to the Commissioner if it subsequently deals with the prescribed group referred to in the declaration.
+> 2007, c. 6, s. 232.
 
 
 
