@@ -1,6 +1,6 @@
 > [Aller à la version anglaise](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md)
 
-# Loi sur les sociétés d'assurances
+# Loi sur les sociétés d’assurances
 
 **L.C. 1991, ch. 47**
 
@@ -6385,9 +6385,7 @@ Dans le cas où le requérant est une entité, celle-ci fait établir la déclar
 
 
 **SECTION VII** 
-### 
-> [Abrogée, 1997, ch. 15, art. 230]
-
+### [Abrogée, 1997, ch. 15, art. 230]
 
 
 
@@ -10219,6 +10217,24 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 - **b)** les modalités de temps, de lieu et de forme de la communication, ainsi que le destinataire de celle-ci;
 - **c)** le contenu et la forme de la publicité relative aux questions visées à l’alinéa a).
 > 2001, ch. 9, art. 425; 2007, ch. 6, art. 231.
+
+
+
+
+
+**Exceptions**
+
+**489.3** 
+
+- **(1)** Les alinéas 165(2)f) et g) et les articles 479 à 489.2 ne s’appliquent pas à la société si les conditions suivantes sont réunies :
+	- **a)** l’ordonnance d’agrément de fonctionnement l’autorise seulement à réassurer des risques dans certaines branches d’assurance;
+	- **b)** la société a présenté une déclaration au commissaire attestant qu’elle ne traite pas avec un groupe de consommateurs prévu par règlement ou n’exerce pas d’activité réglementaire;
+	- **c)** elle continue, par la suite, de ne pas traiter avec ce groupe.
+
+**Avis au Commissaire**
+
+- **(2)** Si elle traite, par la suite, avec ce groupe, la société en avise le commissaire.
+> 2007, ch. 6, art. 232.
 
 
 
