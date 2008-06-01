@@ -337,6 +337,44 @@ la conception du contenant, les matériaux utilisés pour sa fabrication ou la p
 
 
 
+### Exemptions
+
+
+
+#### Application
+
+
+**A.01.066** Les articles A.01.067 et A.01.068 ne s’appliquent pas aux drogues suivantes :
+- **a)** toute drogue qui est inscrite aux annexes I, II, III, IV ou V de la [Loi réglementant certaines drogues et autres substances](/fr/Lois/Lois%20du%20Canada/1996/ch.%2019.md);
+- **b)** toute drogue qui est énumérée ou décrite à l’annexe F, autre qu’une drogue énumérée ou décrite à la partie II de cette annexe qui est :
+	- **(i)** soit présentée sous une forme impropre à l’usage humain,
+	- **(ii)** soit étiquetée de la façon prévue à l’alinéa C.01.046b).
+> DORS/2007-288, art. 1.
+
+
+
+
+
+#### Publicité
+
+
+**A.01.067** Est exemptée de l’application du paragraphe 3(1) de la Loi toute drogue dont la publicité est faite, auprès du grand public, à titre de mesure préventive — mais non à titre de traitement ou de moyen de guérison — d’une maladie, d’un désordre ou d’un état physique anormal énuméré à l’annexe A de la Loi.
+> DORS/2007-288, art. 1.
+
+
+
+
+
+#### Vente
+
+
+**A.01.068** Est exemptée de l’application du paragraphe 3(2) de la Loi, en ce qui concerne sa vente par une personne, à titre de mesure préventive — mais non à titre de traitement ou de moyen de guérison — d’une maladie, d’un désordre ou d’un état physique anormal énuméré à l’annexe A de la Loi, toute drogue qui est représentée par une étiquette ou dont la publicité auprès du grand public est faite par la personne en cause.
+> DORS/2007-288, art. 1.
+
+
+
+
+
 **PARTIE B** 
 ## Aliments
 
@@ -4203,8 +4241,7 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 
 ##### Modèles standard et horizontal — enfants âgés de moins de deux ans
-##### 
-> [DORS/2003-11, art. 20; err.(A), Vol. 137, N° 5].
+> [DORS/2003-11, art. 20; err.(A), Vol. 137, n<sup>o</sup> 5]
 
 
 
@@ -9937,8 +9974,8 @@ déterminés selon la méthode officielle MFO-2, Examen microbiologique de la cr
 
 
 
-#### Sorbet laitier[DORS/98-580, art. 1(F)]
-> .
+#### Sorbet laitier
+> [DORS/98-580, art. 1(F)]
 
 
 
@@ -10473,7 +10510,7 @@ sauf que le poids global des ingrédients permis aux alinéas d) et e) ne doit p
 
 **TITRE 11** 
 ### Fruits, légumes, leurs produits et succédanés
-> [DORS/78-478, art. 1].
+> [DORS/78-478, art. 1]
 
 
 
@@ -11093,7 +11130,7 @@ sauf que le poids global des ingrédients permis aux alinéas d) et e) ne doit p
 
 **TITRE 12** 
 ### Eau et glace préemballées
-> [DORS/80-633, art. 1].
+> [DORS/80-633, art. 1]
 
 
 
@@ -38925,7 +38962,9 @@ jugés acceptables par le Directeur.
 
 
 
-#### Préparations insuliniques[DORS/82-769, art. 5].
+#### Préparations insuliniques
+> [DORS/82-769, art. 5]
+
 
 
 **C.04.550** 
@@ -39590,7 +39629,9 @@ jugés acceptables par le Directeur.
 
 
 
-#### Étiquetage des préparations insuliniques[DORS/82-769, art. 8].
+#### Étiquetage des préparations insuliniques
+> [DORS/82-769, art. 8]
+
 
 
 **C.04.650** L’emballeur-étiqueteur d’injection insulinique ne peut mettre sur l’étiquette de cette préparation insulinique « Insuline faite avec des cristaux d’insuline-zinc » que si elle a été préparée avec des cristaux d’insuline-zinc.
@@ -39777,7 +39818,9 @@ si
 
 
 
-#### Extraits hypophysaires (lobe antérieur)[DORS/82-769, art. 14].
+#### Extraits hypophysaires (lobe antérieur)
+> [DORS/82-769, art. 14]
+
 
 
 **C.04.675** L’extrait hypophysaire (lobe antérieur) doit comprendre tous les produits naturels préparés à partir du lobe antérieur de la glande hypophysaire d’animaux, et possédant des propriétés physiologiques associées aux hormones du lobe antérieur de la glande hypophysaire, et leurs noms propres doivent être
@@ -41278,9 +41321,8 @@ dans chaque forme posologique individuelle, s’il porte une étiquette indiquan
 
 
 
-### Titre 10[Abrogé, DORS/98-423, art. 9]
-> .
-
+**TITRE 10** 
+### [Abrogé, DORS/98-423, art. 9]
 
 
 
@@ -42223,9 +42265,8 @@ précisées dans le Food Chemicals Codex, troisième édition, 1981, publié par
 
 
 
-### Titre 4[Abrogé, DORS/2003-196, art. 105]
-> .
-
+**TITRE 4** 
+### [Abrogé, DORS/2003-196, art. 105]
 
 
 
