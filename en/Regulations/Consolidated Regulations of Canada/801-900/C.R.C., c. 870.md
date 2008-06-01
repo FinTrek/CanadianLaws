@@ -337,6 +337,44 @@ the design of the container, the materials used in its construction or the incor
 
 
 
+### Exemptions
+
+
+
+#### Application
+
+
+**A.01.066** Sections A.01.067 and A.01.068 do not apply to
+- **(a)** a drug included in Schedule I, II, III, IV or V to the [Controlled Drugs and Substances Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2019.md); or
+- **(b)** a drug that is listed or described in Schedule F, other than a drug that is listed or described in Part II of that Schedule and that is
+	- **(i)** in a form not suitable for human use, or
+	- **(ii)** labelled in the manner prescribed by paragraph C.01.046(b).
+> SOR/2007-288, s. 1.
+
+
+
+
+
+#### Advertising
+
+
+**A.01.067** A drug is exempt from subsection 3(1) of the Act with respect to its advertisement to the general public as a preventative, but not as a treatment or cure, for any of the diseases, disorders or abnormal physical states referred to in Schedule A to the Act.
+> SOR/2007-288, s. 1.
+
+
+
+
+
+#### Sale
+
+
+**A.01.068** A drug is exempt from subsection 3(2) of the Act with respect to its sale by a person where the drug is represented by label or is advertised by that person to the general public as a preventative, but not as a treatment or cure, for any of the diseases, disorders or abnormal physical states referred to in Schedule A to the Act.
+> SOR/2007-288, s. 1.
+
+
+
+
+
 **PART B** 
 ## Foods
 
@@ -4203,8 +4241,7 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 
 ##### Standard and Horizontal Formats — Children under Two Years of Age
-##### 
-> [SOR/2003-11, s. 20; err.(E), Vol. 137, No. 5].
+> [SOR/2003-11, s. 20; err.(E), Vol. 137, No. 5]
 
 
 
@@ -9946,7 +9983,9 @@ as determined by official method MFO-2, Microbiological Examination of Ice Cream
 
 
 
-#### Sherbet [SOR/98-580, s. 1(F)].
+#### Sherbet
+> [SOR/98-580, s. 1(F)]
+
 
 
 **B.08.063** [S]. **Sherbet**
@@ -10479,8 +10518,8 @@ except that the total weight of the ingredients permitted under paragraphs (d) a
 
 
 **DIVISION 11** 
-### Fruits, Vegetables, Their Products And Substitutes 
-> [SOR/78-478, s. 1].
+### Fruits, Vegetables, Their Products And Substitutes
+> [SOR/78-478, s. 1]
 
 
 
@@ -11100,8 +11139,8 @@ per 100 millilitres when the drink is ready to serve.
 
 
 **DIVISION 12** 
-### Prepackaged Water And Ice 
-> [SOR/80-633, s. 1].
+### Prepackaged Water And Ice
+> [SOR/80-633, s. 1]
 
 
 
@@ -38939,7 +38978,9 @@ acceptable to the Director.
 
 
 
-#### Insulin Preparations [SOR/82-769, s. 5].
+#### Insulin Preparations
+> [SOR/82-769, s. 5]
+
 
 
 **C.04.550** 
@@ -39604,7 +39645,9 @@ acceptable to the Director.
 
 
 
-#### Labelling of Insulin Preparations [SOR/82-769, s. 8].
+#### Labelling of Insulin Preparations
+> [SOR/82-769, s. 8]
+
 
 
 **C.04.650** The packager/labeller of Insulin Injection may label that insulin preparation “Insulin made from Zinc-Insulin crystals” only when it has been prepared from zinc-insulin crystals.
@@ -39791,7 +39834,9 @@ if
 
 
 
-#### Anterior Pituitary Extracts [SOR/82-769, s. 14].
+#### Anterior Pituitary Extracts
+> [SOR/82-769, s. 14]
+
 
 
 **C.04.675** Anterior pituitary extract shall include all natural products, prepared from the anterior lobe of the pituitary gland of animals, having physiological properties associated with the hormones of the anterior pituitary gland and their proper names shall be
@@ -41292,9 +41337,8 @@ per individual dosage form if it has a label that states that it is not a standa
 
 
 
-### Division 10 [Repealed, SOR/98-423, s. 9]
-> .
-
+**DIVISION 10** 
+### [Repealed, SOR/98-423, s. 9]
 
 
 
@@ -42239,9 +42283,8 @@ as set out in the Food Chemicals Codex, Third Edition, 1981, published by the Na
 
 
 
-### Division 4 [Repealed, SOR/2003-196, s. 105]
-> .
-
+**DIVISION 4** 
+### [Repealed, SOR/2003-196, s. 105]
 
 
 
