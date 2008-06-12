@@ -44441,6 +44441,8 @@ Abatacept<br />- <i>Abatacept</i>
 
 Abciximab<br />- <i>Abciximab</i>
 
+Acamprosate and its salts<br />- <i>Acamprosate et ses sels</i>
+
 Acarbose and its derivatives<br />- <i>Acarbose et ses dérivés</i>
 
 Acebutolol and its salts<br />- <i>Acébutolol et ses sels</i>
@@ -45329,6 +45331,8 @@ Indomethacin<br />- <i>Indométhacine</i>
 
 Infliximab<br />- <i>Infliximab</i>
 
+Inhaled human insulin<br />- <i>Insuline humaine inhalée</i>
+
 Inosiplex<br />- <i>Inosiplex</i>
 
 Interferon<br />- <i>Interféron</i>
@@ -45529,6 +45533,8 @@ Mexiletine and its salts<br />- <i>Mésiletine et ses sels</i>
 
 Mezlocillin and its salts and derivatives<br />- <i>Mézlocilline, ses sels et dérivés</i>
 
+Micafungin and its salts<br />- <i>Micafungine et ses sels</i>
+
 Miconazole and its salts (except in preparations for topical and vaginal use)<br />- <i>Miconazole et ses sels (sauf dans les préparations pour usage topique et vaginal)</i>
 
 Midodrine and its salts<br />- <i>Midodrine et ses sels</i>
@@ -45654,6 +45660,30 @@ Nicotine and its salts, for human use, except
 
 
 **e)** *sous forme de pastille contenant 4 mg ou moins de nicotine par unité posologique*
+
+
+
+
+
+Nicotinic acid when sold in
+
+**(a)** a modified-release oral dosage form that provides 500 mg or more per dosage unit or per daily dose; or
+
+
+
+**(b)** an immediate-release oral dosage form that provides more than 500 mg per dosage unit or per daily dose
+
+
+
+
+
+*Acide nicotinique vendu sous l’une des forme suivantes :*
+
+**a)** *en forme posologique à libération modifiée fournissant, par unité posologique ou par dose quotidienne, 500 mg ou plus d’acide nicotinique administré par voie orale;*
+
+
+
+**b)** *en forme posologique à libération immédiate fournissant, par unité posologique ou par dose quotidienne, plus de 500 mg d’acide nicotinique administré par voie orale*
 
 
 
@@ -45815,6 +45845,8 @@ Pilocarpine and its salts<br />- <i>Pilocarpine et ses sels</i>
 
 Pimecrolimus<br />- <i>Pimécrolimus</i>
 
+Pimobendan<br />- <i>Pimobendan</i>
+
 Pimozide<br />- <i>Pimozide</i>
 
 Pinaverium bromide<br />- <i>Pinavérium (bromure de)</i>
@@ -45836,6 +45868,8 @@ Pipobroman<br />- <i>Pipobroman</i>
 Pirbuterol and its salts<br />- <i>Pirbutérol et ses sels</i>
 
 Pirenzepine and its salts<br />- <i>Pirenzépine et ses sels</i>
+
+Pirlimycin and its salts<br />- <i>Pirlimycine et ses sels</i>
 
 Piroxicam and its salts<br />- <i>Piroxicam et ses sels</i>
 
@@ -46038,6 +46072,8 @@ Sildenafil and its salts<br />- <i>Sildénafil et ses sels</i>
 Simvastatin<br />- <i>Simvastatine</i>
 
 Sirolimus and its derivatives<br />- <i>Sirolimus et ses dérivés</i>
+
+Sitaxentan and its salts<br />- <i>Sitaxentan et ses sels</i>
 
 Sodium aurothiomalate<br />- <i>Aurothiomalate de sodium</i>
 
@@ -46306,6 +46342,8 @@ Valsartan and its salts and derivatives<br />- <i>Valsartan et ses sels et déri
 Vancomycin and its salts and derivatives<br />- <i>Vancomycine, ses sels et dérivés</i>
 
 Vardenafil and its salts<br />- <i>Vardénafil et ses sels</i>
+
+Varenicline and its salts<br />- <i>Varénicline et ses sels</i>
 
 Vasopressin and its salts<br />- <i>Vasopressine et ses sels</i>
 
@@ -46655,7 +46693,7 @@ Vitamin K, except Vitamin K1 and Vitamin K2 sold
 
 
 
->  SOR/78-423, s. 5; SOR/78-427, s. 11; SOR/79-754, s. 1; SOR/80-279, s. 1; SOR/81-334, s. 6; SOR/81-358, s. 2; SOR/82-1072, s. 1; SOR/85-551, s. 2; SOR/86-91, s. 5; SOR/86-955, s. 1; SOR/87-332, s. 1; SOR/87-447, s. 1; SOR/87-496, ss. 1 to 18; SOR/87-669, ss. 1, 2; SOR/88-351, ss. 1 to 11; SOR/88-511, ss. 1 to 11; SOR/89-195, s. 1; SOR/89-454, ss. 1 to 4; SOR/89-504, ss. 1 to 4; SOR/89-572, ss. 1 to 45; SOR/90-119, ss. 1 to 10; SOR/90-173, s. 2(F); SOR/90-443, ss. 1(F) to 4 (F), 5, 6(F) to 15(F); SOR/90-585, ss. 1 to 5; SOR/91-197, ss. 1, 2(F); SOR/91-521, ss. 1 to 15; SOR/92-95, ss. 1 to 9; SOR/92-386, ss. 4 to 8; SOR/92-591, s. 2; SOR/92-647, ss. 1 to 15; SOR/92-724, s. 1; SOR/93-110, ss. 1 to 3, 4(E), 5(E), 6 to 11; SOR/93-243, s. 2; SOR/93-435, ss. 1 to 38; SOR/94-166, ss. 1 to 17, 18(E), 19 to 30; SOR/94-286, ss. 1, 2; SOR/94-458, ss. 1 to 13; SOR/94-462, s. 1; SOR/94-557, ss. 1 to 9; SOR/94-461, s. 1; SOR/95-59, s. 1; SOR/95-172, s. 2; SOR/95-201, s. 1; SOR/95-546, s. 1; SOR/96-253, ss. 1, 2; SOR/96-306, s. 1; SOR/97-140, s. 1; SOR/97-407, s. 1; SOR/97-410, ss. 1, 2; SOR/97-414, s. 1; SOR/97-543, ss. 8, 9; SOR/97-544, s. 1; SOR/97-567, s. 1; SOR/98-291, ss. 1 to 7; SOR/98-292, s. 1; SOR/98-293, s. 1; SOR/98-294, s. 1; SOR/99-370, ss. 1, 2(F), 3, 4(F); SOR/99-373, s. 1; SOR/99-374, ss. 1(F), 2; SOR/99-412, s. 1; SOR/2000-119, s. 1; SOR/2000-124, s. 1; SOR/2000-197, ss. 1, 2; SOR/2000-219, s. 2; SOR/2000-403, ss. 1, 2; SOR/2001-95, s. 1; SOR/2001-531, s. 1; SOR/2002-53, s. 1; SOR/2002-418, s. 1; SOR/2003-34, ss. 6 to 8; SOR/2003-36, s. 1; SOR/2003-80, ss. 1, 2; SOR/2003-248, s. 1; SOR/2003-327, s. 1; SOR/2004-108, ss. 1 to 6; SOR/2005-105, s. 1; SOR/2005-167, s. 1; SOR/2005-270, s. 1; SOR/2005-307, s. 1; SOR/2006-143, s. 1; SOR/2006-144, ss. 1, 2; SOR/2006-211, s. 1; SOR/2006-212, s. 1; SOR/2006-213, s. 1; SOR/2006-214, s. 1; SOR/2006-215, s. 1; SOR/2006-251, s. 1; SOR/2007-36, s. 1; SOR/2007-37, s. 1; SOR/2007-38, s. 1; SOR/2007-39, s. 1; SOR/2007-40, s. 1; SOR/2007-41, s. 1; SOR/2007-42, ss. 1, 2; SOR/2007-83, s. 1; SOR/2007-224, s. 1; SOR/2007-234, s. 1; SOR/2008-35, s. 1; SOR/2008-100, s. 1; SOR/2008-101, ss. 1, 2; SOR/2008-108, s. 1.
+> SOR/78-423, s. 5; SOR/78-427, s. 11; SOR/79-754, s. 1; SOR/80-279, s. 1; SOR/81-334, s. 6; SOR/81-358, s. 2; SOR/82-1072, s. 1; SOR/85-551, s. 2; SOR/86-91, s. 5; SOR/86-955, s. 1; SOR/87-332, s. 1; SOR/87-447, s. 1; SOR/87-496, ss. 1 to 18; SOR/87-669, ss. 1, 2; SOR/88-351, ss. 1 to 11; SOR/88-511, ss. 1 to 11; SOR/89-195, s. 1; SOR/89-454, ss. 1 to 4; SOR/89-504, ss. 1 to 4; SOR/89-572, ss. 1 to 45; SOR/90-119, ss. 1 to 10; SOR/90-173, s. 2(F); SOR/90-443, ss. 1(F) to 4 (F), 5, 6(F) to 15(F); SOR/90-585, ss. 1 to 5; SOR/91-197, ss. 1, 2(F); SOR/91-521, ss. 1 to 15; SOR/92-95, ss. 1 to 9; SOR/92-386, ss. 4 to 8; SOR/92-591, s. 2; SOR/92-647, ss. 1 to 15; SOR/92-724, s. 1; SOR/93-110, ss. 1 to 3, 4(E), 5(E), 6 to 11; SOR/93-243, s. 2; SOR/93-435, ss. 1 to 38; SOR/94-166, ss. 1 to 17, 18(E), 19 to 30; SOR/94-286, ss. 1, 2; SOR/94-458, ss. 1 to 13; SOR/94-462, s. 1; SOR/94-557, ss. 1 to 9; SOR/94-461, s. 1; SOR/95-59, s. 1; SOR/95-172, s. 2; SOR/95-201, s. 1; SOR/95-546, s. 1; SOR/96-253, ss. 1, 2; SOR/96-306, s. 1; SOR/97-140, s. 1; SOR/97-407, s. 1; SOR/97-410, ss. 1, 2; SOR/97-414, s. 1; SOR/97-543, ss. 8, 9; SOR/97-544, s. 1; SOR/97-567, s. 1; SOR/98-291, ss. 1 to 7; SOR/98-292, s. 1; SOR/98-293, s. 1; SOR/98-294, s. 1; SOR/99-370, ss. 1, 2(F), 3, 4(F); SOR/99-373, s. 1; SOR/99-374, ss. 1(F), 2; SOR/99-412, s. 1; SOR/2000-119, s. 1; SOR/2000-124, s. 1; SOR/2000-197, ss. 1, 2; SOR/2000-219, s. 2; SOR/2000-403, ss. 1, 2; SOR/2001-95, s. 1; SOR/2001-531, s. 1; SOR/2002-53, s. 1; SOR/2002-418, s. 1; SOR/2003-34, ss. 6 to 8; SOR/2003-36, s. 1; SOR/2003-80, ss. 1, 2; SOR/2003-248, s. 1; SOR/2003-327, s. 1; SOR/2004-108, ss. 1 to 6; SOR/2005-105, s. 1; SOR/2005-167, s. 1; SOR/2005-270, s. 1; SOR/2005-307, s. 1; SOR/2006-143, s. 1; SOR/2006-144, ss. 1, 2; SOR/2006-211, s. 1; SOR/2006-212, s. 1; SOR/2006-213, s. 1; SOR/2006-214, s. 1; SOR/2006-215, s. 1; SOR/2006-251, s. 1; SOR/2007-36, s. 1; SOR/2007-37, s. 1; SOR/2007-38, s. 1; SOR/2007-39, s. 1; SOR/2007-40, s. 1; SOR/2007-41, s. 1; SOR/2007-42, ss. 1, 2; SOR/2007-83, s. 1; SOR/2007-224, s. 1; SOR/2007-234, s. 1; SOR/2008-35, s. 1; SOR/2008-100, s. 1; SOR/2008-101, ss. 1, 2; SOR/2008-108, s. 1; SOR/2008-204, s. 1; SOR/2008-205, s. 1; SOR/2008-206, s. 1; SOR/2008-207, s. 1.
 
 
 
