@@ -44403,6 +44403,8 @@ Abatacept <br />- <i>Abatacept</i>
 
 Abciximab<br />- <i>Abciximab</i>
 
+Acamprosate et ses sels<br />- <i>Acamprosate and its salts</i>
+
 Acarbose et ses dérivés<br />- <i>Acarbose and its derivatives</i>
 
 Acébutolol et ses sels<br />- <i>Acebutolol and its salts</i>
@@ -44424,6 +44426,34 @@ Acide folique présenté en unités posologiques orales contenant chacune plus d
 Acide ibandronique et ses sels<br />- <i>Ibandronic acid and its salts</i>
 
 Acide lactique, s'il est recommandé pour usage parentéral comme agent sclérosant<br />- <i>Lactic acid, when recommended for parenteral use as a tissue sclerosing agent</i>
+
+
+
+Acide nicotinique vendu sous l’une des forme suivantes :
+
+**a)** en forme posologique à libération modifiée fournissant, par unité posologique ou par dose quotidienne, 500 mg ou plus d’acide nicotinique administré par voie orale;
+
+
+
+**b)** en forme posologique à libération immédiate fournissant, par unité posologique ou par dose quotidienne, plus de 500 mg d’acide nicotinique administré par voie orale
+
+
+
+
+
+*Nicotinic acid when sold in*
+
+*(a)**a modified-release oral dosage form that provides 500 mg or more per dosage unit or per daily dose; or*
+
+
+
+*(b)**an immediate-release oral dosage form that provides more than 500 mg per dosage unit or per daily dose*
+
+
+
+
+
+
 
 Acide risédronique et ses sels<br />- <i>Risedronic acid and its salts</i>
 
@@ -45305,6 +45335,8 @@ Infliximab<br />- <i>Infliximab</i>
 
 Inosiplex<br />- <i>Inosiplex</i>
 
+Insuline humaine inhalée<br />- <i>Inhaled human insulin</i>
+
 Interféron<br />- <i>Interferon</i>
 
 Iodochlorhydroxyquinoléine (sauf dans les préparations pour usage topique sur la peau)<br />- <i>Iodochlorohydroxyquin (except in preparations for topical use on the skin)</i>
@@ -45492,6 +45524,8 @@ Métronïdazole<br />- <i>Metronidazole</i>
 Métyrapone et ses sels<br />- <i>Metyrapone and its salts</i>
 
 Mézlocilline, ses sels et dérivés<br />- <i>Mezlocillin and its salts and derivatives</i>
+
+Micafungine et ses sels<br />- <i>Micafungin and its salts</i>
 
 Miconazole et ses sels (sauf dans les préparations pour usage topique et vaginal)<br />- <i>Miconazole and its salts (except in preparations for topical and vaginal use)</i>
 
@@ -45781,6 +45815,8 @@ Pilocarpine et ses sels<br />- <i>Pilocarpine and its salts</i>
 
 Pimécrolimus<br />- <i>Pimecrolimus</i>
 
+Pimobendan<br />- <i>Pimobendan</i>
+
 Pimozide<br />- <i>Pimozide</i>
 
 Pinavérium (bromure de)<br />- <i>Pinaverium bromide</i>
@@ -45802,6 +45838,8 @@ Pipobroman<br />- <i>Pipobroman</i>
 Pirbutérol et ses sels<br />- <i>Pirbuterol and its salts</i>
 
 Pirenzépine et ses sels<br />- <i>Pirenzepine and its salts</i>
+
+Pirlimycine et ses sels<br />- <i>Pirlimycin and its salts</i>
 
 Piroxicam et ses sels<br />- <i>Piroxicam and its salts</i>
 
@@ -46002,6 +46040,8 @@ Sildénafil et ses sels<br />- <i>Sildenafil and its salts</i>
 Simvastatine<br />- <i>Simvastatin</i>
 
 Sirolimus et ses dérivés<br />- <i>Sirolimus and its derivatives</i>
+
+Sitaxentan et ses sels<br />- <i>Sitaxentan and its salts</i>
 
 Sodium (nitroprussiate de) et ses sels<br />- <i>Sodium nitroprusside and its salts</i>
 
@@ -46270,6 +46310,8 @@ Valsartan et ses sels et dérivés<br />- <i>Valsartan and its salts and derivat
 Vancomycine, ses sels et dérivés<br />- <i>Vancomycin and its salts and derivatives</i>
 
 Vardénafil et ses sels<br />- <i>Vardenafil and its salts</i>
+
+Varénicline et ses sels<br />- <i>Varenicline and its salts</i>
 
 Vasopressine et ses sels<br />- <i>Vasopressin and its salts</i>
 
@@ -46613,7 +46655,7 @@ Vitamine K, sauf la vitamine K<sub>1</sub> et la vitamine K<sub>2</sub> vendues 
 **b)** *in oral dosage form for use in humans if the maximum recommended daily dose is 0.120 mg or less*
 
 
-> DORS/78-423, art. 5; DORS/78-427, art. 11; DORS/79-754, art. 1; DORS/80-279, art. 1; DORS/81-334, art. 6; DORS/81-358, art. 2; DORS/82-1072, art. 1; DORS/85-551, art. 2; DORS/86-91, art. 5; DORS/86-955, art. 1; DORS/87-332, art. 1; DORS/87-447, art. 1; DORS/87-496, art. 1 à 18; DORS/87-669, art. 1 et 2; DORS/88-351, art. 1 à 11; DORS/88-511, art. 1 à 11; DORS/89-195, art. 1; DORS/89-454, art. 1 à 4; DORS/89-504, art. 1 à 4; DORS/89-572, art. 1 à 45; DORS/90-119, art. 1 à 10; DORS/90-173, art. 2(F); DORS/90-443, art. 1(F) à 4(F), 5 et 6(F) à 15(F); DORS/90-585, art. 1 à 5; DORS/91-197, art. 1 et 2(F); DORS/91-521, art. 1 à 15; DORS/92-95, art. 1 à 9; DORS/92-386, art. 4 à 8; DORS/92-591, art. 2; DORS/92-647, art. 1 à 15; DORS/92-724, art. 1; DORS/93-110, art. 1 à 3, 4(A), 5(A) et 6 à 11; DORS/93-243, art. 2; DORS/93-435, art. 1 à 38; DORS/94-166, art. 1 à 17, 18(A) et 19 à 30; DORS/94-286, art. 1 et 2; DORS/94-458, art. 1 à 13; DORS/94-462, art. 1; DORS/94-557, art. 1 à 9; DORS/94-461, art. 1; DORS/95-59, art. 1; DORS/95-172, art. 2; DORS/95-201, art. 1; DORS/95-546, art. 1; DORS/96-253, art. 1 et 2; DORS/96-306, art. 1; DORS/97-140, art. 1; DORS/97-407, art. 1; DORS/97-410, art. 1 et 2; DORS/97-414, art. 1; DORS/97-543, art. 8 et 9; DORS/97-544, art. 1; DORS/97-567, art. 1; DORS/98-291, art. 1 à 7; DORS/98-292, art. 1; DORS/98-293, art. 1; DORS/98-294, art. 1; DORS/99-370, art. 1, 2(F), 3 et 4(F); DORS/99-373, art. 1; DORS/99-374, art. 1(F) et 2; DORS/99-412, art. 1; DORS/2000-119, art. 1; DORS/2000-124, art. 1; DORS/2000-197, art. 1 et 2; DORS/2000-219, art. 2; DORS/2000-403, art. 1 et 2; DORS/2001-95, art. 1; DORS/2001-531, art. 1; DORS/2002-53, art. 1; DORS/2002-418, art. 1; DORS/2003-34, art. 6 à 8; DORS/2003-36, art. 1; DORS/2003-80, art. 1 et 2; DORS/2003-248, art. 1; DORS/2003-327, art. 1; DORS/2004-108, art. 1 à 6; DORS/2005-105, art. 1; DORS/2005-167, art. 1; DORS/2005-270, art. 1; DORS/2005-307, art. 1; DORS/2006-143, art. 1; DORS/2006-144, art. 1 et 2; DORS/2006-211, art. 1; DORS/2006-212, art. 1; DORS/2006-213, art. 1; DORS/2006-214, art. 1; DORS/2006-215, art. 1; DORS/2006-251, art. 1; DORS/2007-36, art. 1; DORS/2007-37, art. 1; DORS/2007-38, art. 1; DORS/2007-39, art. 1; DORS/2007-40, art. 1; DORS/2007-41, art. 1; DORS/2007-42, art. 1 et 2; DORS/2007-83, art. 1; DORS/2007-224, art. 1; DORS/2007-234, art. 1; DORS/2008-35, art. 1; DORS/2008-100, art. 1; DORS/2008-101, art. 1 et 2; DORS/2008-108, art. 1.
+> DORS/78-423, art. 5; DORS/78-427, art. 11; DORS/79-754, art. 1; DORS/80-279, art. 1; DORS/81-334, art. 6; DORS/81-358, art. 2; DORS/82-1072, art. 1; DORS/85-551, art. 2; DORS/86-91, art. 5; DORS/86-955, art. 1; DORS/87-332, art. 1; DORS/87-447, art. 1; DORS/87-496, art. 1 à 18; DORS/87-669, art. 1 et 2; DORS/88-351, art. 1 à 11; DORS/88-511, art. 1 à 11; DORS/89-195, art. 1; DORS/89-454, art. 1 à 4; DORS/89-504, art. 1 à 4; DORS/89-572, art. 1 à 45; DORS/90-119, art. 1 à 10; DORS/90-173, art. 2(F); DORS/90-443, art. 1(F) à 4(F), 5 et 6(F) à 15(F); DORS/90-585, art. 1 à 5; DORS/91-197, art. 1 et 2(F); DORS/91-521, art. 1 à 15; DORS/92-95, art. 1 à 9; DORS/92-386, art. 4 à 8; DORS/92-591, art. 2; DORS/92-647, art. 1 à 15; DORS/92-724, art. 1; DORS/93-110, art. 1 à 3, 4(A), 5(A) et 6 à 11; DORS/93-243, art. 2; DORS/93-435, art. 1 à 38; DORS/94-166, art. 1 à 17, 18(A) et 19 à 30; DORS/94-286, art. 1 et 2; DORS/94-458, art. 1 à 13; DORS/94-462, art. 1; DORS/94-557, art. 1 à 9; DORS/94-461, art. 1; DORS/95-59, art. 1; DORS/95-172, art. 2; DORS/95-201, art. 1; DORS/95-546, art. 1; DORS/96-253, art. 1 et 2; DORS/96-306, art. 1; DORS/97-140, art. 1; DORS/97-407, art. 1; DORS/97-410, art. 1 et 2; DORS/97-414, art. 1; DORS/97-543, art. 8 et 9; DORS/97-544, art. 1; DORS/97-567, art. 1; DORS/98-291, art. 1 à 7; DORS/98-292, art. 1; DORS/98-293, art. 1; DORS/98-294, art. 1; DORS/99-370, art. 1, 2(F), 3 et 4(F); DORS/99-373, art. 1; DORS/99-374, art. 1(F) et 2; DORS/99-412, art. 1; DORS/2000-119, art. 1; DORS/2000-124, art. 1; DORS/2000-197, art. 1 et 2; DORS/2000-219, art. 2; DORS/2000-403, art. 1 et 2; DORS/2001-95, art. 1; DORS/2001-531, art. 1; DORS/2002-53, art. 1; DORS/2002-418, art. 1; DORS/2003-34, art. 6 à 8; DORS/2003-36, art. 1; DORS/2003-80, art. 1 et 2; DORS/2003-248, art. 1; DORS/2003-327, art. 1; DORS/2004-108, art. 1 à 6; DORS/2005-105, art. 1; DORS/2005-167, art. 1; DORS/2005-270, art. 1; DORS/2005-307, art. 1; DORS/2006-143, art. 1; DORS/2006-144, art. 1 et 2; DORS/2006-211, art. 1; DORS/2006-212, art. 1; DORS/2006-213, art. 1; DORS/2006-214, art. 1; DORS/2006-215, art. 1; DORS/2006-251, art. 1; DORS/2007-36, art. 1; DORS/2007-37, art. 1; DORS/2007-38, art. 1; DORS/2007-39, art. 1; DORS/2007-40, art. 1; DORS/2007-41, art. 1; DORS/2007-42, art. 1 et 2; DORS/2007-83, art. 1; DORS/2007-224, art. 1; DORS/2007-234, art. 1; DORS/2008-35, art. 1; DORS/2008-100, art. 1; DORS/2008-101, art. 1 et 2; DORS/2008-108, art. 1; DORS/2008-204, art. 1; DORS/2008-205, art. 1; DORS/2008-206, art. 1; DORS/2008-207, art. 1.
 
 
 
