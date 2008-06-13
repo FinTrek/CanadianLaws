@@ -220,7 +220,27 @@ Version anglaise seulement***prescribed***, in the case of a form or the informa
 
 
 
-**9** [Repealed, 1998, c. 21, s. 99]
+
+**Agreement to pay interest**
+
+**9** 
+
+- **(1)** The Minister may enter into an agreement with a lender respecting the payment of interest — or a province respecting the payment of interest on provincial student loans — by borrowers who are referred to in a regulation that is made under paragraph 15(k) or (k.2).
+
+**Payment on behalf of reservist**
+
+- **(2)** If there is no agreement, the Minister may pay the interest on behalf of those borrowers.
+> 1994, c. 28, s. 9; 1998, c. 21, s. 99; 2008, c. 15, s. 2
+
+
+
+
+
+**Personal information**
+
+**9.1** Personal information as defined in section 3 of the [Privacy Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-21.md) — that is under the control of a government institution as defined in that section — shall, on request, be made available to the Minister for the purposes of a regulation that is made under paragraph 15(k), (k.1), (k.2) or (k.3).
+> 2008, c. 15, s. 2
+
 
 
 
@@ -463,7 +483,10 @@ where
 - **(h)** respecting the subrogation of Her Majesty in right of Canada to the rights of a lender;
 - **(i)** prescribing the circumstances under which a loan or a certificate of eligibility may be denied to a student, or an interest-free period referred to in subsection 7(1) may be terminated by the Minister;
 - **(j)** prescribing student loans to which section 7, 8, 10 or 11 or subsection 12(4) applies;
-- **(k)** [Repealed, 2005, c. 34, s. 63]
+- **(k)** respecting the circumstances in which no interest is payable by members of the reserve force in respect of their student loans;
+- **(k.1)** respecting the circumstances in which no fees may be charged to members of the reserve force on their student loans;
+- **(k.2)** respecting the circumstances in which no amount on account of principal or interest is required to be paid by members of the reserve force in respect of their student loans;
+- **(k.3)** respecting the payment of interest under subsection 9(2);
 - **(l)** providing, in respect of student loans made to full-time and part-time students, for the gratuitous payment, including the method of calculating it, whether conditionally or unconditionally, by the Minister to lenders of amounts in respect of such loans, and for the discharge of such loans to the extent of those amounts;
 - **(m)** notwithstanding any other provision of this Act, providing for the operation of a student loan program for part-time students, including the determination of a student’s status, terms of repayment of the loans, the advancement of loan funds and the maximum number of weeks or periods of studies that may elapse after which the principal amounts of the loans commence to be payable by the borrowers;
 - **(n)** providing for the establishment and operation of a program to provide special interest-free or interest-reduced periods to borrowers, including the terms and conditions of the granting or termination of the periods, the making, continuation or alteration of agreements between borrowers and lenders when the periods are granted or terminated and the authorization of lenders to grant or terminate the periods and otherwise administer the program;
@@ -471,7 +494,7 @@ where
 - **(p)** providing for the establishment and operation of grant programs, and additional grant programs for qualifying students whose financial needs are greater than the maximum amount of the financial assistance that may be given to the student, and prescribing classes of persons who are eligible for grants;
 - **(q)** prescribing anything that is to be prescribed by the regulations; and
 - **(r)** generally, for carrying into effect the purposes and provisions of this Act.
-> 1994, c. 28, s. 15; 1998, c. 21, s. 100; 2000, c. 14, s. 20; 2005, c. 34, s. 63
+> 1994, c. 28, s. 15; 1998, c. 21, s. 100; 2000, c. 14, s. 20; 2005, c. 34, s. 63; 2008, c. 15, s. 3
 
 
 
