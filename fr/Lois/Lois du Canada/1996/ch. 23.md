@@ -2585,6 +2585,10 @@ Loi sur le ministère des Ressources humaines et du Développement des compéten
 
 - **(3)** Si au moment de verser le montant l’employeur est une personne visée par règlement, le montant est versé au compte du receveur général dans une institution financière au sens de la définition de ***institution financière*** au paragraphe 190(1) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md), compte non tenu des alinéas d) et e).
 
+**Exception — versement à une institution financière**
+
+- **(3.1)** Pour l’application du paragraphe (3), la personne visée par règlement est réputée avoir versé un montant au compte du receveur général dans une institution financière visée à ce paragraphe si elle l’a remis au receveur général au moins un jour avant la date où il est exigible.
+
 **Obligation découlant de l’omission de faire la retenue**
 
 - **(4)** Sous réserve du paragraphe (5), tout employeur qui n’effectue pas, aux conditions et au moment prévus au paragraphe (1), la retenue sur la rétribution d’un assuré et son versement est débiteur envers Sa Majesté, à partir de la date où la retenue aurait dû être effectuée, de la somme globale qui aurait dû être retenue et versée.
@@ -2608,8 +2612,16 @@ Loi sur le ministère des Ressources humaines et du Développement des compéten
 **Pénalité pour ne pas avoir remis un montant**
 
 - **(9)** Tout employeur qui, au cours d’une année, ne remet pas au receveur général, à l’échéance, un montant qu’il est tenu de lui remettre est passible d’une pénalité égale à, selon le cas :
-	- **a)** dix pour cent de ce montant;
+	- **a)** sous réserve de l’alinéa b) :
+		- **(i)** si le receveur général reçoit ce montant au plus tard à la date où il est exigible, mais que le montant n’est pas payé de la manière prévue, trois pour cent du montant,
+		- **(ii)** si le receveur général reçoit ce montant :
+			- **(A)** au plus trois jours après la date où il est exigible, trois pour cent du montant,
+			- **(B)** plus de trois jours mais au plus cinq jours après la date où il est exigible, cinq pour cent du montant,
+			- **(C)** plus de cinq jours mais au plus sept jours après la date où il est exigible, sept pour cent du montant,
+		- **(iii)** si ce montant n’est pas payé ou remis au plus tard le septième jour suivant la date où il est exigible, dix pour cent du montant;
 	- **b)** si, au moment du défaut, une pénalité était payable par l’employeur en application du présent paragraphe pour un montant qu’il était tenu de remettre au cours de l’année et si le défaut a été commis sciemment ou dans des circonstances équivalant à faute lourde, vingt pour cent de ce montant.
+> 1996, ch. 23, art. 82; 2008, ch. 28, art. 39.
+
 
 
 
