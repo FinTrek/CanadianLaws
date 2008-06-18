@@ -8806,17 +8806,17 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 	- **(i)** de deux cent cinquante mille dollars ou moins à une personne physique,
 	- **(ii)** fait soit au gouvernement du Canada ou d’une province ou à une municipalité — ou à un de leurs organismes — , soit au gouvernement d’un pays étranger ou d’une de ses subdivisions politiques — ou à un de leurs organismes — , soit à un organisme international prévu par règlement,
 	- **(iii)** soit garanti par un gouvernement, une municipalité ou un organisme visé au sous-alinéa (ii), soit pleinement garanti par des titres émis par eux,
-	- **(iv)** garanti par une hypothèque immobilière :
-		- **(A)** si la garantie consiste en une hypothèque sur un immeuble résidentiel et que la somme du montant du prêt et du solde à payer de tout autre prêt garanti par hypothèque de rang égal ou supérieur sur l’immeuble ne dépasse pas soixante-quinze pour cent de la valeur de l’immeuble à la date de l’octroi ou de l’acquisition du prêt,
-		- **(B)** si la garantie consiste en une hypothèque sur un immeuble autre que résidentiel et que :
-			- **(I)** d’une part, la somme du montant du prêt et du solde à payer de tout autre prêt garanti par hypothèque de rang égal ou supérieur sur l’immeuble ne dépasse pas soixante-quinze pour cent de la valeur de l’immeuble à la date de l’octroi ou de l’acquisition du prêt,
+	- **(iv)** garanti par une hypothèque immobilière :
+		- **(A)** si la garantie consiste en une hypothèque sur un immeuble résidentiel et que la somme du montant du prêt et du solde à payer de tout autre prêt garanti par hypothèque de rang égal ou supérieur sur l’immeuble ne dépasse pas quatre-vingts pour cent de la valeur de l’immeuble à la date de l’octroi ou de l’acquisition du prêt,
+		- **(B)** si la garantie consiste en une hypothèque sur un immeuble autre que résidentiel et que :
+			- **(I)** d’une part, la somme du montant du prêt et du solde à payer de tout autre prêt garanti par hypothèque de rang égal ou supérieur sur l’immeuble ne dépasse pas quatre-vingts pour cent de la valeur de l’immeuble à la date de l’octroi ou de l’acquisition du prêt,
 			- **(II)** d’autre part, à la date de l’octroi ou de l’acquisition du prêt, l’immeuble rapporte des revenus suffisants pour couvrir les dépenses annuelles y afférentes, notamment les paiements relatifs à l’hypothèque ou à toute autre hypothèque de rang égal ou supérieur,
-	- **(v)** garanti par une hypothèque immobilière :
-		- **(A)** si la garantie consiste en une hypothèque sur un immeuble résidentiel et que, d’une part, la somme du montant du prêt et du solde à payer de tout autre prêt garanti par hypothèque de rang égal ou supérieur sur l’immeuble dépasse soixante-quinze pour cent de la valeur de l’immeuble à la date de l’octroi ou de l’acquisition du prêt et, d’autre part, le remboursement de la portion qui excède soixante-quinze pour cent est garanti ou assuré par un organisme gouvernemental ou un assureur privé agréés par le surintendant,
-		- **(B)** si la garantie consiste en une hypothèque sur un immeuble autre que résidentiel et si les conditions suivantes sont réunies :
-			- **(I)** la somme du montant du prêt et du solde à payer de tout autre prêt garanti par hypothèque de rang égal ou supérieur sur l’immeuble dépasse soixante-quinze pour cent de la valeur de l’immeuble à la date de l’octroi ou de l’acquisition du prêt,
-			- **(II)** le remboursement de la portion qui excède soixante-quinze pour cent est garanti ou assuré par un organisme gouvernemental ou un assureur privé agréés par le surintendant,
-			- **(III)** l’immeuble rapporte à la date de l’octroi ou de l’acquisition du prêt, des revenus suffisants pour couvrir les dépenses annuelles y afférentes, notamment les paiements relatifs à l’hypothèque ou à toute autre hypothèque de rang égal ou supérieur,
+	- **(v)** garanti par une hypothèque immobilière :
+		- **(A)** si la garantie consiste en une hypothèque sur un immeuble résidentiel et que, d’une part, la somme du montant du prêt et du solde à payer de tout autre prêt garanti par hypothèque de rang égal ou supérieur sur l’immeuble dépasse quatre-vingts pour cent de la valeur de l’immeuble à la date de l’octroi ou de l’acquisition du prêt et, d’autre part, le remboursement de la portion qui excède quatre-vingts pour cent est garanti ou assuré par un organisme gouvernemental ou un assureur privé agréés par le surintendant,
+		- **(B)** si la garantie consiste en une hypothèque sur un immeuble autre que résidentiel et si les conditions suivantes sont réunies :
+			- **(I)** la somme du montant du prêt et du solde à payer de tout autre prêt garanti par hypothèque de rang égal ou supérieur sur l’immeuble dépasse quatre-vingts pour cent de la valeur de l’immeuble à la date de l’octroi ou de l’acquisition du prêt,
+			- **(II)** le remboursement de la portion qui excède quatre-vingts pour cent est garanti ou assuré par un organisme gouvernemental ou un assureur privé agréés par le surintendant,
+			- **(III)** l’immeuble rapporte, à la date de l’octroi ou de l’acquisition du prêt, des revenus suffisants pour couvrir les dépenses annuelles y afférentes, notamment les paiements relatifs à l’hypothèque ou à toute autre hypothèque de rang égal ou supérieur,
 		- **(C)** si le prêt est visé à l’alinéa 418(2)d),
 	- **(vi)** qui soit consiste en un dépôt par la société auprès d’une autre institution financière, soit est pleinement garanti par des dépôts auprès d’une institution financière, y compris la société, ou par des titres de créance garantis par une institution financière, sauf la société, ou par une garantie d’une institution financière autre que la société,
 	- **(vii)** consenti à une entité que la société contrôle;
@@ -8849,7 +8849,7 @@ constitue une justification et une autorisation suffisantes pour donner effet à
 	- **a)** à l’argent ou aux autres éléments d’actif détenus par la société à titre de fiduciaire, à l’exception des fonds en fiducie garantie et des éléments d’actif détenus à leur égard;
 	- **b)** à la détention d’une sûreté sur un bien immeuble, sauf si celle-ci est considérée comme un intérêt immobilier au titre de l’alinéa 467a);
 	- **c)** à la détention d’une sûreté sur les titres d’une entité.
-> 1991, ch. 45, art. 449 et 560; 1993, ch. 34, art. 128(F); 1997, ch. 15, art. 386; 2001, ch. 9, art. 550; 2007, ch. 6, art. 369.
+> 1991, ch. 45, art. 449 et 560; 1993, ch. 34, art. 128(F); 1997, ch. 15, art. 386; 2001, ch. 9, art. 550; 2007, ch. 6, art. 369; 2008, ch. 28, art. 163.
 
 
 
