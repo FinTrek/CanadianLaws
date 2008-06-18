@@ -1,6 +1,6 @@
 > [Aller à la version anglaise](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md)
 
-# Loi sur l'immigration et la protection des réfugiés
+# Loi sur l’immigration et la protection des réfugiés
 
 **L.C. 2001, ch. 27**
 
@@ -257,11 +257,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **11** 
 
-- **(1)** L’étranger doit, préalablement à son entrée au Canada, demander à l’agent les visa et autres documents requis par règlement, lesquels sont délivrés sur preuve, à la suite d’un contrôle, qu’il n’est pas interdit de territoire et se conforme à la présente loi.
+- **(1)** L’étranger doit, préalablement à son entrée au Canada, demander à l’agent les visa et autres documents requis par règlement. L’agent peut les délivrer sur preuve, à la suite d’un contrôle, que l’étranger n’est pas interdit de territoire et se conforme à la présente loi.
 
 **Cas de la demande parrainée**
 
 - **(2)** Ils ne peuvent être délivrés à l’étranger dont le répondant ne se conforme pas aux exigences applicables au parrainage.
+> 2001, ch. 27, art. 11; 2008, ch. 28, art. 116.
+
 
 
 
@@ -494,11 +496,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **25** 
 
-- **(1)** Le ministre doit, sur demande d’un étranger interdit de territoire ou qui ne se conforme pas à la présente loi, et peut, de sa propre initiative, étudier le cas de cet étranger et peut lui octroyer le statut de résident permanent ou lever tout ou partie des critères et obligations applicables, s’il estime que des circonstances d’ordre humanitaire relatives à l’étranger — compte tenu de l’intérêt supérieur de l’enfant directement touché — ou l’intérêt public le justifient.
+- **(1)** Le ministre doit, sur demande d’un étranger se trouvant au Canada qui est interdit de territoire ou qui ne se conforme pas à la présente loi, et peut, de sa propre initiative ou sur demande d’un étranger se trouvant hors du Canada, étudier le cas de cet étranger et peut lui octroyer le statut de résident permanent ou lever tout ou partie des critères et obligations applicables, s’il estime que des circonstances d’ordre humanitaire relatives à l’étranger — compte tenu de l’intérêt supérieur de l’enfant directement touché — ou l’intérêt public le justifient.
 
 **Critères provinciaux**
 
 - **(2)** Le statut ne peut toutefois être octroyé à l’étranger visé au paragraphe 9(1) qui ne répond pas aux critères de sélection de la province en cause qui lui sont applicables.
+> 2001, ch. 27, art. 25; 2008, ch. 28, art. 117.
+
 
 
 
@@ -1646,6 +1650,49 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+#### Instructions sur le traitement des demandes
+
+
+
+**Application**
+
+**87.3** 
+
+- **(1)** Le présent article s’applique aux demandes de visa et autres documents visées au paragraphe 11(1), sauf celle faite par la personne visée au paragraphe 99(2), aux demandes de parrainage faites par une personne visée au paragraphe 13(1), aux demandes de statut de résident permanent visées au paragraphe 21(1) ou de résident temporaire visées au paragraphe 22(1) faites par un étranger se trouvant au Canada ainsi qu’aux demandes prévues au paragraphe 25(1) faites par un étranger se trouvant hors du Canada.
+
+**Atteinte des objectifs d’immigration**
+
+- **(2)** Le traitement des demandes se fait de la manière qui, selon le ministre, est la plus susceptible d’aider l’atteinte des objectifs fixés pour l’immigration par le gouvernement fédéral.
+
+**Instructions**
+
+- **(3)** Pour l’application du paragraphe (2), le ministre peut donner des instructions sur le traitement des demandes, notamment en précisant l’un ou l’autre des points suivants :
+	- **a)** les catégories de demandes à l’égard desquelles s’appliquent les instructions;
+	- **b)** l’ordre de traitement des demandes, notamment par catégorie;
+	- **c)** le nombre de demandes à traiter par an, notamment par catégorie;
+	- **d)** la disposition des demandes dont celles faites de nouveau.
+
+**Respect des instructions**
+
+- **(4)** L’agent — ou la personne habilitée à exercer les pouvoirs du ministre prévus à l’article 25 — est tenu de se conformer aux instructions avant et pendant le traitement de la demande; s’il ne procède pas au traitement de la demande, il peut, conformément aux instructions du ministre, la retenir, la retourner ou en disposer.
+
+**Précision**
+
+- **(5)** Le fait de retenir ou de retourner une demande ou d’en disposer ne constitue pas un refus de délivrer les visa ou autres documents, d’octroyer le statut ou de lever tout ou partie des critères et obligations applicables.
+
+**Publication**
+
+- **(6)** Les instructions sont publiées dans la Gazette du Canada.
+
+**Précision**
+
+- **(7)** Le présent article n’a pas pour effet de porter atteinte au pouvoir du ministre de déterminer de toute autre façon la manière la plus efficace d’assurer l’application de la loi.
+> 2008, ch. 28, art. 118.
+
+
+
+
+
 #### Prêts
 
 
@@ -1741,13 +1788,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Contenu du rapport**
 
 - **(2)** Le rapport précise notamment :
-	- **a)** les activités et les initiatives en matière de sélection des étrangers et notamment les mesures prises en coopération avec les provinces;
+	- **a)** les instructions données au titre de l’article 87.3 ainsi que les activités et les initiatives en matière de sélection des étrangers, notamment les mesures prises en coopération avec les provinces;
 	- **b)** pour le Canada, le nombre d’étrangers devenus résidents permanents et dont il est prévu qu’ils le deviendront pour l’année suivante;
 	- **b.1)** pour le Canada, le profil linguistique des étrangers devenus résidents permanents;
 	- **c)** pour chaque province partie à un accord visé au paragraphe 9(1), les nombres, par catégorie, de ces étrangers devenus résidents permanents, d’une part, et, d’autre part, qu’elle prévoit qu’ils y deviendront résidents permanents l’année suivante;
 	- **d)** le nombre de permis de séjour temporaire délivrés au titre de l’article 24 et, le cas échéant, les faits emportant interdiction de territoire;
 	- **e)** le nombre d’étrangers à qui le statut de résident permanent a été octroyé au titre du paragraphe 25(1);
 	- **f)** une analyse comparative entre les sexes des répercussions de la présente loi.
+> 2001, ch. 27, art. 94; 2008, ch. 28, art. 119.
+
 
 
 
