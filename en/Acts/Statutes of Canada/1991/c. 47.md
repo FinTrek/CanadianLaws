@@ -10485,18 +10485,18 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 	- **(i)** a loan to a natural person in an amount of two hundred and fifty thousand dollars or less,
 	- **(ii)** a loan to the Government of Canada, the government of a province, a municipality, or to any agency thereof, or to the government of a foreign country or any political subdivision thereof, or any agency thereof, or to a prescribed international agency,
 	- **(iii)** a loan that is guaranteed by, or fully secured by securities issued by, a government, a municipality or an agency referred to in subparagraph (ii),
-	- **(iv)** a loan that is secured by a mortgage on real property, where
-		- **(A)** the mortgage is on residential property and the amount of the loan, together with the amount then outstanding of any mortgage having an equal or prior claim against the property, does not exceed 75% of the value of the property at the time the loan is made or acquired, or
+	- **(iv)** a loan that is secured by a mortgage on real property, if
+		- **(A)** the mortgage is on residential property and the amount of the loan, together with the amount then outstanding of any mortgage having an equal or prior claim against the property, does not exceed 80% of the value of the property at the time the loan is made or acquired, or
 		- **(B)** the mortgage is on real property other than residential property and
-			- **(I)** the amount of the loan, together with the amount then outstanding of any mortgage having an equal or prior claim against the property, does not exceed 75% of the value of the property at the time the loan is made or acquired, and
+			- **(I)** the amount of the loan, together with the amount then outstanding of any mortgage having an equal or prior claim against the property, does not exceed 80% of the value of the property at the time the loan is made or acquired, and
 			- **(II)** at the time the loan is made or acquired, the property provides an annual income sufficient to pay all annual expenses related to the property, including the payments owing under the mortgage and the mortgages having an equal or prior claim against the property,
-	- **(v)** a loan that is secured by a mortgage on real property, where
+	- **(v)** a loan that is secured by a mortgage on real property, if
 		- **(A)** the mortgage is on residential property and
-			- **(I)** the amount of the loan, together with the amount then outstanding of any mortgage having an equal or prior claim against the property, exceeds 75% of the value of the property at the time the loan is made or acquired, and
-			- **(II)** repayment of the amount of the loan that exceeds 75% of the value of the property is guaranteed or insured by a government agency or private insurer approved by the Superintendent,
+			- **(I)** the amount of the loan, together with the amount then outstanding of any mortgage having an equal or prior claim against the property, exceeds 80% of the value of the property at the time the loan is made or acquired, and
+			- **(II)** repayment of the amount of the loan that exceeds 80% of the value of the property is guaranteed or insured by a government agency or private insurer approved by the Superintendent,
 		- **(B)** the mortgage is on real property other than residential property and
-			- **(I)** the amount of the loan, together with the amount then outstanding of any mortgage having an equal or prior claim against the property, exceeds 75% of the value of the property at the time the loan is made or acquired,
-			- **(II)** repayment of the amount of the loan that exceeds 75% of the value of the property is guaranteed or insured by a government agency or private insurer approved by the Superintendent, and
+			- **(I)** the amount of the loan, together with the amount then outstanding of any mortgage having an equal or prior claim against the property, exceeds 80% of the value of the property at the time the loan is made or acquired,
+			- **(II)** repayment of the amount of the loan that exceeds 80% of the value of the property is guaranteed or insured by a government agency or private insurer approved by the Superintendent, and
 			- **(III)** at the time the loan is made or acquired, the property provides an annual income sufficient to pay all annual expenses related to the property, including the payments owing under the mortgage and the mortgages having an equal or prior claim against the property, or
 		- **(C)** the loan is one referred to in paragraph 469(2)(d),
 	- **(vi)** a loan that
@@ -10566,7 +10566,7 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 - **(3)** A reference in this Part to the assets or liabilities of a company does not include
 	- **(a)** assets of a segregated fund maintained pursuant to section 451; or
 	- **(b)** liabilities of the company under the policies and for the amounts in respect of which such a fund is maintained.
-> 1991, c. 47, ss. 490, 760; 1993, c. 34, s. 81(F); 1997, c. 15, s. 264; 2001, c. 9, s. 426; 2007, c. 6, s. 233.
+> 1991, c. 47, ss. 490, 760; 1993, c. 34, s. 81(F); 1997, c. 15, s. 264; 2001, c. 9, s. 426; 2007, c. 6, s. 233; 2008, c. 28, s. 154.
 
 
 
