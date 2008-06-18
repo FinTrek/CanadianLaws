@@ -257,11 +257,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **11** 
 
-- **(1)** A foreign national must, before entering Canada, apply to an officer for a visa or for any other document required by the regulations. The visa or document shall be issued if, following an examination, the officer is satisfied that the foreign national is not inadmissible and meets the requirements of this Act.
+- **(1)** A foreign national must, before entering Canada, apply to an officer for a visa or for any other document required by the regulations. The visa or document may be issued if, following an examination, the officer is satisfied that the foreign national is not inadmissible and meets the requirements of this Act.
 
 **If sponsor does not meet requirements**
 
 - **(2)** The officer may not issue a visa or other document to a foreign national whose sponsor does not meet the sponsorship requirements of this Act.
+> 2001, c. 27, s. 11; 2008, c. 28, s. 116.
+
 
 
 
@@ -496,11 +498,13 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **25** 
 
-- **(1)** The Minister shall, upon request of a foreign national who is inadmissible or who does not meet the requirements of this Act, and may, on the Minister’s own initiative, examine the circumstances concerning the foreign national and may grant the foreign national permanent resident status or an exemption from any applicable criteria or obligation of this Act if the Minister is of the opinion that it is justified by humanitarian and compassionate considerations relating to them, taking into account the best interests of a child directly affected, or by public policy considerations.
+- **(1)** The Minister shall, upon request of a foreign national in Canada who is inadmissible or who does not meet the requirements of this Act, and may, on the Minister’s own initiative or on request of a foreign national outside Canada, examine the circumstances concerning the foreign national and may grant the foreign national permanent resident status or an exemption from any applicable criteria or obligation of this Act if the Minister is of the opinion that it is justified by humanitarian and compassionate considerations relating to them, taking into account the best interests of a child directly affected, or by public policy considerations.
 
 **Provincial criteria**
 
 - **(2)** The Minister may not grant permanent resident status to a foreign national referred to in subsection 9(1) if the foreign national does not meet the province’s selection criteria applicable to that foreign national.
+> 2001, c. 27, s. 25; 2008, c. 28, s. 117.
+
 
 
 
@@ -1664,6 +1668,49 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
+#### Instructions on Processing Applications and Requests
+
+
+
+**Application**
+
+**87.3** 
+
+- **(1)** This section applies to applications for visas or other documents made under subsection 11(1), other than those made by persons referred to in subsection 99(2), sponsorship applications made by persons referred to in subsection 13(1), applications for permanent resident status under subsection 21(1) or temporary resident status under subsection 22(1) made by foreign nationals in Canada and to requests under subsection 25(1) made by foreign nationals outside Canada.
+
+**Attainment of immigration goals**
+
+- **(2)** The processing of applications and requests is to be conducted in a manner that, in the opinion of the Minister, will best support the attainment of the immigration goals established by the Government of Canada.
+
+**Instructions**
+
+- **(3)** For the purposes of subsection (2), the Minister may give instructions with respect to the processing of applications and requests, including instructions
+	- **(a)** establishing categories of applications or requests to which the instructions apply;
+	- **(b)** establishing an order, by category or otherwise, for the processing of applications or requests;
+	- **(c)** setting the number of applications or requests, by category or otherwise, to be processed in any year; and
+	- **(d)** providing for the disposition of applications and requests, including those made subsequent to the first application or request.
+
+**Compliance with instructions**
+
+- **(4)** Officers and persons authorized to exercise the powers of the Minister under section 25 shall comply with any instructions before processing an application or request or when processing one. If an application or request is not processed, it may be retained, returned or otherwise disposed of in accordance with the instructions of the Minister.
+
+**Clarification**
+
+- **(5)** The fact that an application or request is retained, returned or otherwise disposed of does not constitute a decision not to issue the visa or other document, or grant the status or exemption, in relation to which the application or request is made.
+
+**Publication**
+
+- **(6)** Instructions shall be published in the Canada Gazette.
+
+**Clarification**
+
+- **(7)** Nothing in this section in any way limits the power of the Minister to otherwise determine the most efficient manner in which to administer this Act.
+> 2008, c. 28, s. 118.
+
+
+
+
+
 #### Loans
 
 
@@ -1759,13 +1806,15 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Contents of report**
 
 - **(2)** The report shall include a description of
-	- **(a)** the activities and initiatives taken concerning the selection of foreign nationals, including measures taken in cooperation with the provinces;
+	- **(a)** the instructions given under section 87.3 and other activities and initiatives taken concerning the selection of foreign nationals, including measures taken in cooperation with the provinces;
 	- **(b)** in respect of Canada, the number of foreign nationals who became permanent residents, and the number projected to become permanent residents in the following year;
 	- **(b.1)** in respect of Canada, the linguistic profile of foreign nationals who became permanent residents;
 	- **(c)** in respect of each province that has entered into a federal-provincial agreement described in subsection 9(1), the number, for each class listed in the agreement, of persons that became permanent residents and that the province projects will become permanent residents there in the following year;
 	- **(d)** the number of temporary resident permits issued under section 24, categorized according to grounds of inadmissibility, if any;
 	- **(e)** the number of persons granted permanent resident status under subsection 25(1); and
 	- **(f)** a gender-based analysis of the impact of this Act.
+> 2001, c. 27, s. 94; 2008, c. 28, s. 119.
+
 
 
 
