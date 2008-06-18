@@ -133,6 +133,12 @@ Est toutefois exclue la zone adjacente au sens de l’article 2 de la [Loi sur l
 
 - **(2)** Sa Majesté du chef du Canada remet à Sa Majesté du chef de la province, selon les modalités prévues par cet accord, toute somme ainsi versée au receveur général.
 
+**Paiement sur le Trésor**
+
+- **(3)** À la demande du ministre, il peut être payé sur le Trésor à Sa Majesté du chef de la province toute somme à remettre au cours de l’exercice au titre du paragraphe (2).
+> 2007, ch. 33, art. 10; 2008, ch. 28, art. 152.
+
+
 
 
 
