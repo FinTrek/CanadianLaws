@@ -151,6 +151,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **(ii)** soit à être livré à un centre de remplissage libre-service et à y être utilisé;
 - **b)** dans le cas d’un contenant spécial de vin, qu’il est destiné à être livré à un centre de remplissage libre-service et à y être utilisé.
 
+***matériel de fabrication du tabac*** Toute machine ou tout matériel conçu ou modifié expressément pour la fabrication d’un produit du tabac.
+
 ***mention obligatoire*** Mention réglementaire que doit porter, en application de la présente loi, un contenant de produits du tabac qui n’ont pas à être estampillés en vertu de la présente loi.
 
 ***ministre*** Le ministre du Revenu national.
@@ -249,7 +251,7 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 - **c)** boisson visée aux alinéas a) ou b) qui est fortifiée jusqu’à concurrence de 22,9 % d’alcool éthylique absolu par volume.
 
 ***vinerie libre-service*** Local d’un exploitant autorisé de vinerie libre-service que le ministre a désigné à titre de vinerie libre-service de l’exploitant.
-> 2002, ch. 22, art. 2; 2005, ch. 38, art. 92; 2007, ch. 18, art. 67.
+> 2002, ch. 22, art. 2; 2005, ch. 38, art. 92; 2007, ch. 18, art. 67; 2008, ch. 28, art. 50.
 
 
 
@@ -273,13 +275,15 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 
 **5** 
 
-- **(1)** Pour l’application des paragraphes 30(1) et 32(1), de l’article 61, des paragraphes 70(1) et 88(1) et des articles 230 et 231, la chose qu’une personne a en sa possession au su et avec le consentement d’autres personnes est réputée être sous la garde et en la possession de toutes ces personnes et de chacune d’elles.
+- **(1)** Pour l’application des paragraphes 30(1), 32(1) et 32.1(1), de l’article 61, des paragraphes 70(1) et 88(1) et des articles 230 et 231, la chose qu’une personne a en sa possession au su et avec le consentement d’autres personnes est réputée être sous la garde et en la possession de toutes ces personnes et de chacune d’elles.
 
-**Sens de « possession »**
+**Sens de possession**
 
-- **(2)** Au présent article, aux paragraphes 30(1) et 32(1), à l’article 61 et aux paragraphes 70(1) et 88(1), « possession » s’entend du fait pour une personne d’avoir une chose en sa possession personnelle ainsi que du fait, pour elle :
+- **(2)** Au présent article, aux paragraphes 30(1), 32(1) et 32.1(1), à l’article 61 et aux paragraphes 70(1) et 88(1), ***possession*** s’entend du fait pour une personne d’avoir une chose en sa possession personnelle ainsi que du fait, pour elle :
 	- **a)** de savoir qu’une autre personne l’a en sa possession effective ou sous sa garde effective pour son compte;
 	- **b)** de savoir qu’elle l’a dans un endroit quelconque, à son usage ou avantage, ou à celui d’une autre personne.
+> 2002, ch. 22, art. 5; 2008, ch. 28, art. 51.
+
 
 
 
@@ -575,11 +579,19 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 
 **23** 
 
-- **(1)** Pour une raison qu’il juge suffisante dans l’intérêt public, le ministre peut refuser de délivrer une licence, un agrément ou une autorisation.
+- **(1)** Le ministre peut refuser de délivrer une licence, un agrément ou une autorisation à une personne s’il est fondé à croire :
+	- **a)** soit que l’accès au local de la personne sera refusé ou entravé par une personne quelconque;
+	- **b)** soit que l’intérêt public le justifie d’une façon générale.
 
 **Modification ou renouvellement**
 
 - **(2)** Sous réserve des règlements, le ministre peut modifier, suspendre, renouveler, révoquer ou rétablir une licence, un agrément ou une autorisation.
+
+**Révocation, etc. — accès au local**
+
+- **(2.1)** Le ministre peut modifier, suspendre ou révoquer la licence, l’agrément ou l’autorisation d’une personne si, selon le cas :
+	- **a)** l’accès au local du titulaire de la licence, de l’agrément ou de l’autorisation est refusé ou entravé par une personne quelconque;
+	- **b)** d’une façon générale, l’intérêt public le justifie.
 
 **Conditions**
 
@@ -587,6 +599,8 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 	- **a)** peut, sous réserve des règlements, préciser les activités dont la licence, l’agrément ou l’autorisation permet l’exercice ainsi que le local où elles peuvent être exercées;
 	- **b)** exige, dans le cas d’une licence de spiritueux ou d’une licence de tabac, que soit fournie sous une forme qu’il juge acceptable une caution d’une somme déterminée conformément aux règlements;
 	- **c)** peut imposer d’autres conditions qu’il estime indiquées relativement à l’exercice des activités visées par la licence, l’agrément ou l’autorisation.
+> 2002, ch. 22, art. 23; 2008, ch. 28, art. 52.
+
 
 
 
@@ -794,6 +808,31 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 
 
 
+**Interdiction — possession de matériel de fabrication du tabac**
+
+**32.1** 
+
+- **(1)** Il est interdit de posséder du matériel de fabrication du tabac dans l’intention de fabriquer un produit du tabac, à moins :
+	- **a)** d’être titulaire de licence de tabac;
+	- **b)** d’être un particulier qui fabrique du tabac fabriqué ou des cigares pour son usage personnel comme le permet le paragraphe 25(3).
+
+**Interdiction — importation de matériel de fabrication du tabac**
+
+- **(2)** Il est interdit d’importer du matériel de fabrication du tabac, sauf si l’un des faits suivants se vérifie :
+	- **a)** l’importateur est titulaire de licence de tabac;
+	- **b)** le matériel est conçu pour être utilisé par un particulier qui fabrique du tabac fabriqué ou des cigares pour son usage personnel comme le permet le paragraphe 25(3) et n’est pas conçu pour la fabrication commerciale;
+	- **c)** l’importateur fournit au ministre de la Sécurité publique et de la Protection civile une preuve, agréée par celui-ci, que le matériel est importé, selon le cas :
+		- **(i)** pour le compte d’un titulaire de licence de tabac,
+		- **(ii)** dans le seul but d’être entretenu, modifié ou réparé au Canada, si le matériel est destiné à être exporté aussitôt achevé l’entretien, la modification ou la réparation,
+		- **(iii)** par une personne qui exploite une entreprise qui consiste à fournir le matériel, ou pour son compte,
+		- **(iv)** en vue de son mouvement en transit au Canada;
+	- **d)** le matériel est importé dans les circonstances et selon les modalités prévues par règlement.
+> 2008, ch. 28, art. 53.
+
+
+
+
+
 **Interdiction de vendre ou de distribuer sauf dans l’emballage d’origine**
 
 **33** Il est interdit :
@@ -859,10 +898,16 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 
 **Mentions obligatoires — produits importés**
 
-- **(2)** Sous réserve du paragraphe (3), il est interdit de livrer des contenants de cigares ou de tabac fabriqué importés qui ne portent pas les mentions obligatoires et autres mentions prévues par règlement :
+- **(2)** Sous réserve des paragraphes (2.1) et (3), il est interdit de livrer des contenants de cigares ou de tabac fabriqué importés qui ne portent pas les mentions obligatoires et autres mentions prévues par règlement :
 	- **a)** à une boutique hors taxes pour les vendre ou les offrir en vente conformément à la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md);
 	- **b)** à un représentant accrédité;
 	- **c)** à un entrepôt de stockage.
+
+**Livraison de tabac estampillé importé**
+
+- **(2.1)** Les contenants de tabac fabriqué importé, fabriqué à l’étranger et estampillé peuvent être livrés :
+	- **a)** à une boutique hors taxes pour qu’ils soient vendus ou offerts en vente conformément à la [Loi sur les douanes](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(2e%20suppl.).md);
+	- **b)** à un entrepôt de stockage.
 
 **Exception — tabac fabriqué visé par règlement**
 
@@ -877,7 +922,7 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 **Distinction entre les cigarettes**
 
 - **(5)** Pour l’application du paragraphe (4), la cigarette d’un type donné ou d’une composition donnée vendue sous une appellation commerciale donnée peut être considérée comme différente d’une autre cigarette vendue sous la même appellation s’il est raisonnable de la considérer ainsi compte tenu des propriétés physiques de l’une et l’autre avant et pendant la consommation.
-> 2002, ch. 22, art. 38; 2007, ch. 18, art. 82.
+> 2002, ch. 22, art. 38; 2007, ch. 18, art. 82; 2008, ch. 28, art. 54.
 
 
 
@@ -979,7 +1024,15 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 
 **Exonération — tabac estampillé importé par un particulier**
 
-**47** Le tabac fabriqué importé par un particulier pour son usage personnel est exonéré du droit imposé en vertu de l’article 42 s’il a été fabriqué au Canada et est estampillé.
+**47** 
+
+- **(1)** Le tabac fabriqué importé par un particulier pour son usage personnel est exonéré du droit imposé en vertu de l’article 42 s’il a été fabriqué au Canada et est estampillé.
+
+**Exonération — réimportation par un particulier de tabac estampillé**
+
+- **(2)** Le tabac fabriqué importé par un particulier pour son usage personnel est exonéré du droit imposé en vertu de l’article 42 s’il a été fabriqué à l’étranger, a déjà été importé au Canada et est estampillé.
+> 2002, ch. 22, art. 47; 2008, ch. 28, art. 55.
+
 
 
 
@@ -1108,11 +1161,13 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 
 **53** 
 
-- **(1)** Un droit spécial est imposé, aux taux figurant à l’article 1 de l’annexe 3, sur le tabac fabriqué importé qui est livré à une boutique hors taxes.
+- **(1)** Un droit spécial est imposé, aux taux figurant à l’article 1 de l’annexe 3, sur le tabac fabriqué importé qui est livré à une boutique hors taxes et qui n’est pas estampillé.
 
 **Paiement du droit**
 
 - **(2)** Le droit spécial est exigible de l’exploitant agréé de boutique hors taxes au moment de la livraison.
+> 2002, ch. 22, art. 53; 2008, ch. 28, art. 56.
+
 
 
 
@@ -1135,7 +1190,9 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 
 **Exception**
 
-- **(4)** Le tabac du voyageur qui est importé par un particulier pour son usage personnel n’est pas frappé du droit spécial s’il a été fabriqué au Canada et est estampillé.
+- **(4)** Le tabac du voyageur qui est importé par un particulier pour son usage personnel n’est pas frappé du droit spécial s’il est estampillé et a déjà été frappé du droit prévu à l’article 42.
+> 2002, ch. 22, art. 54; 2008, ch. 28, art. 57.
+
 
 
 
@@ -3002,6 +3059,29 @@ où :
 
 
 
+**Remboursement — tabac non ciblé importé**
+
+**180.1** 
+
+- **(1)** Le ministre peut rembourser à la personne qui a importé du tabac fabriqué la somme déterminée selon le paragraphe (2) relativement au tabac si, à la fois :
+	- **a)** la personne fournit au ministre une preuve, agréée par celui-ci, des faits suivants :
+		- **(i)** le droit imposé sur le tabac en vertu de l’article 42, au taux fixé aux alinéas 1b), 2b) ou 3b) de l’annexe 1, a été acquitté,
+		- **(ii)** il s’agit de tabac non ciblé qui :
+			- **(A)** a été livré à une boutique hors taxes ou à un entrepôt de stockage ou à une personne pour utilisation à titre de provisions de bord conformément au [Règlement sur les provisions de bord](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/96/40.md),
+			- **(B)** a été exporté pour livraison à une boutique hors taxes à l’étranger ou à titre de provisions de bord à l’étranger;
+	- **b)** la personne demande le remboursement au ministre dans les deux ans suivant l’importation du tabac.
+
+**Montant du remboursement**
+
+- **(2)** Le montant du remboursement est égal à l’excédent du droit visé à l’alinéa a) sur le droit visé à l’alinéa b) :
+	- **a)** le droit visé au sous-alinéa (1)a)(i);
+	- **b)** le droit qui aurait été imposé sur le tabac en vertu de l’article 42 si le taux de droit applicable avait été celui fixé aux alinéas 1a), 2a) ou 3a) de l’annexe 1.
+> 2008, ch. 28, art. 58.
+
+
+
+
+
 **Produits du tabac façonnés de nouveau ou détruits**
 
 **181** Le ministre peut rembourser à un titulaire de licence de tabac le droit payé sur un produit du tabac qui est façonné de nouveau ou détruit par le titulaire de licence conformément à l’article 41 si celui-ci en fait la demande dans les deux ans suivant la nouvelle façon ou la destruction du produit.
@@ -3659,6 +3739,10 @@ comme si la personne avait versé, le jour postérieur visé au sous-alinéa (ii
 
 - **(2)** Tout tabaculteur et tout organisme établi en vertu d’une loi provinciale sur la commercialisation du tabac en feuilles cultivé dans la province doit tenir des registres permettant d’établir la quantité de tabac en feuilles qu’il cultive ou reçoit, ou dont il dispose.
 
+**Obligation de tenir des registres — matériel de fabrication du tabac**
+
+- **(2.1)** Quiconque possède du matériel de fabrication du tabac (sauf s’il s’agit de matériel qui est conçu pour être utilisé par un particulier qui fabrique du tabac fabriqué ou des cigares pour son usage personnel comme le permet le paragraphe 25(3) mais qui n’est pas conçu pour la fabrication commerciale) doit tenir des registres permettant d’établir le type de matériel, sa source ainsi que la disposition dont il a fait l’objet.
+
 **Forme et contenu**
 
 - **(3)** Le ministre peut préciser par écrit la forme d’un registre ainsi que les renseignements qu’il doit contenir.
@@ -3678,6 +3762,8 @@ comme si la personne avait versé, le jour postérieur visé au sous-alinéa (ii
 **Durée de conservation**
 
 - **(7)** La personne obligée de tenir des registres doit les conserver pendant la période de six ans suivant la fin de l’année qu’ils visent ou pendant toute autre période fixée par règlement.
+> 2002, ch. 22, art. 206; 2008, ch. 28, art. 59.
+
 
 
 
@@ -4004,9 +4090,11 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 
 **Production, vente, etc., illégales de tabac ou d’alcool**
 
-**214** Quiconque contrevient aux articles 25, 27, 29, 60 ou 62 commet une infraction passible, sur déclaration de culpabilité :
+**214** Quiconque contrevient aux articles 25, 27 ou 29, au paragraphe 32.1(1) ou aux articles 60 ou 62 commet une infraction passible, sur déclaration de culpabilité :
 - **a)** par mise en accusation, d’une amende d’au moins 50 000 $, sans dépasser 1 000 000 $, et d’un emprisonnement maximal de cinq ans, ou de l’une de ces peines;
 - **b)** par procédure sommaire, d’une amende d’au moins 10 000 $, sans dépasser 500 000 $, et d’un emprisonnement maximal de dix-huit mois, ou de l’une de ces peines.
+> 2002, ch. 22, art. 214; 2008, ch. 28, art. 60.
+
 
 
 
@@ -4047,7 +4135,7 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 - **(2)** La somme déterminée selon le présent paragraphe pour l’infraction visée au paragraphe (1) correspond au plus élevé des montants suivants :
 	- **a)** la somme des produits suivants :
 		- **(i)** le produit de 0,17 $ par le nombre de cigarettes auxquelles l’infraction se rapporte,
-		- **(ii)** le produit de 0,127 $ par le nombre de bâtonnets de tabac auxquels l’infraction se rapporte,
+		- **(ii)** le produit de 0,17 $ par le nombre de bâtonnets de tabac auxquels l’infraction se rapporte,
 		- **(iii)** le produit de 0,116 $ par le nombre de grammes de tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac, auxquels l’infraction se rapporte,
 		- **(iv)** le produit de 0,29 $ par le nombre de cigares auxquels l’infraction se rapporte;
 	- **b)** 1 000 $, s’il s’agit d’un acte criminel, et 500 $, s’il s’agit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire.
@@ -4057,11 +4145,11 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 - **(3)** La somme déterminée selon le présent paragraphe pour l’infraction visée au paragraphe (1) correspond au plus élevé des montants suivants :
 	- **a)** la somme des produits suivants :
 		- **(i)** le produit de 0,255 $ par le nombre de cigarettes auxquelles l’infraction se rapporte,
-		- **(ii)** le produit de 0,19 $ par le nombre de bâtonnets de tabac auxquels l’infraction se rapporte,
+		- **(ii)** le produit de 0,255 $ par le nombre de bâtonnets de tabac auxquels l’infraction se rapporte,
 		- **(iii)** le produit de 0,174 $ par le nombre de grammes de tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac, auxquels l’infraction se rapporte,
 		- **(iv)** le produit de 0,67 $ par le nombre de cigares auxquels l’infraction se rapporte;
 	- **b)** 2 000 $, s’il s’agit d’un acte criminel, et 1 000 $, s’il s’agit d’une infraction punissable sur déclaration de culpabilité par procédure sommaire.
-> 2002, ch. 22, art. 216; 2006, ch. 4, art. 35; 2007, ch. 35, art. 202.
+> 2002, ch. 22, art. 216; 2006, ch. 4, art. 35; 2007, ch. 35, art. 202; 2008, ch. 28, art. 61.
 
 
 
@@ -4430,9 +4518,9 @@ Est assimilée au séquestre la personne nommée pour exercer le pouvoir d’un 
 
 **240** Le titulaire de licence de tabac qui contrevient au paragraphe 50(5) est passible d’une pénalité égale à la somme des montants suivants :
 - **a)** 0,361 448 $ par cigarette retirée en contravention avec ce paragraphe;
-- **b)** 0,2105 $ par bâtonnet de tabac retiré en contravention avec ce paragraphe;
+- **b)** 0,361 448 $ par bâtonnet de tabac retiré en contravention avec ce paragraphe;
 - **c)** 207,704 $ par kilogramme de tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac, retiré en contravention avec ce paragraphe.
-> 2002, ch. 22, art. 240; 2003, ch. 15, art. 46; 2006, ch. 4, art. 36; 2007, ch. 35, art. 203.
+> 2002, ch. 22, art. 240; 2003, ch. 15, art. 46; 2006, ch. 4, art. 36; 2007, ch. 35, art. 203; 2008, ch. 28, art. 62.
 
 
 
@@ -6214,7 +6302,7 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 
 **2** Bâtonnets de tabac :
 
-**a)** 0,054 983 $ le bâtonnet, si les bâtonnets de tabac constituent des produits non ciblés destinés, selon le cas :
+**a)** 0,074 975 $ le bâtonnet, si les bâtonnets de tabac constituent des produits non ciblés destinés, selon le cas :
 
 **(i)** à être livrés par le titulaire de licence de tabac qui les a fabriqués à une boutique hors taxes ou à un entrepôt de stockage,
 
@@ -6230,7 +6318,7 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 
 
 
-**b)** 0,063 25 $ le bâtonnet, dans les autres cas.
+**b)** 0,085 $ le bâtonnet, dans les autres cas.
 
 
 
@@ -6264,7 +6352,7 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 **5** Tabac en feuilles, 1,572 $ le kilogramme.
 
 
-> 2002, ch. 22, ann. 1; 2003, ch. 15, art. 47 à 49; 2006, ch. 4, art. 37 à 40; 2007, ch. 35, art. 204 à 207.
+> 2002, ch. 22, ann. 1; 2003, ch. 15, art. 47 à 49; 2006, ch. 4, art. 37 à 40; 2007, ch. 35, art. 204 à 207; 2008, ch. 28, art. 63.
 
 
 
@@ -6305,7 +6393,7 @@ Cigares — la plus élevée des sommes suivantes :
 
 
 
-**b)** 0,055 $ le bâtonnet de tabac;
+**b)** 0,075 $ le bâtonnet de tabac;
 
 
 
@@ -6320,7 +6408,7 @@ Cigares — la plus élevée des sommes suivantes :
 
 
 
-**b)** 0,055 $ le bâtonnet de tabac;
+**b)** 0,075 $ le bâtonnet de tabac;
 
 
 
@@ -6335,7 +6423,7 @@ Cigares — la plus élevée des sommes suivantes :
 
 
 
-**b)** 0,055 $ le bâtonnet de tabac;
+**b)** 0,075 $ le bâtonnet de tabac;
 
 
 
@@ -6350,7 +6438,7 @@ Cigares — la plus élevée des sommes suivantes :
 
 
 
-**b)** 0,042 $ le bâtonnet de tabac;
+**b)** 0,095 724 $ le bâtonnet de tabac;
 
 
 
@@ -6359,7 +6447,7 @@ Cigares — la plus élevée des sommes suivantes :
 
 
 
-> 2002, ch. 22, ann. 3; 2003, ch. 15, art. 51 à 54.
+> 2002, ch. 22, ann. 3; 2003, ch. 15, art. 51 à 54; 2008, ch. 28, art. 65 à 68.
 
 
 
