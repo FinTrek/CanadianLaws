@@ -9046,18 +9046,18 @@ is sufficient justification and authority for giving effect to the transmission 
 	- **(i)** a loan to a natural person in an amount of two hundred and fifty thousand dollars or less,
 	- **(ii)** a loan to the Government of Canada, the government of a province, a municipality, or to any agency thereof, or to the government of a foreign country or any political subdivision thereof, or any agency thereof, or to a prescribed international agency,
 	- **(iii)** a loan that is guaranteed by, or fully secured by securities issued by, a government, a municipality or an agency referred to in subparagraph (ii),
-	- **(iv)** a loan that is secured by a mortgage on real property, where
-		- **(A)** the mortgage is on residential property and the amount of the loan, together with the amount then outstanding of any mortgage having an equal or prior claim against the property, does not exceed 75% of the value of the property at the time the loan is made or acquired, or
+	- **(iv)** a loan that is secured by a mortgage on real property, if
+		- **(A)** the mortgage is on residential property and the amount of the loan, together with the amount then outstanding of any mortgage having an equal or prior claim against the property, does not exceed 80% of the value of the property at the time the loan is made or acquired, or
 		- **(B)** the mortgage is on real property other than residential property and
-			- **(I)** the amount of the loan, together with the amount then outstanding of any mortgage having an equal or prior claim against the property, does not exceed 75% of the value of the property at the time the loan is made or acquired, and
+			- **(I)** the amount of the loan, together with the amount then outstanding of any mortgage having an equal or prior claim against the property, does not exceed 80% of the value of the property at the time the loan is made or acquired, and
 			- **(II)** at the time the loan is made or acquired, the property provides an annual income sufficient to pay all annual expenses related to the property, including the payments owing under the mortgage and the mortgages having an equal or prior claim against the property,
-	- **(v)** a loan that is secured by a mortgage on real property, where
+	- **(v)** a loan that is secured by a mortgage on real property, if
 		- **(A)** the mortgage is on residential property and
-			- **(I)** the amount of the loan, together with the amount then outstanding of any mortgage having an equal or prior claim against the property, exceeds 75% of the value of the property at the time the loan is made or acquired, and
-			- **(II)** repayment of the amount of the loan that exceeds 75% of the value of the property is guaranteed or insured by a government agency or private insurer approved by the Superintendent,
+			- **(I)** the amount of the loan, together with the amount then outstanding of any mortgage having an equal or prior claim against the property, exceeds 80% of the value of the property at the time the loan is made or acquired, and
+			- **(II)** repayment of the amount of the loan that exceeds 80% of the value of the property is guaranteed or insured by a government agency or private insurer approved by the Superintendent,
 		- **(B)** the mortgage is on real property other than residential property and
-			- **(I)** the amount of the loan, together with the amount then outstanding of any mortgage having an equal or prior claim against the property, exceeds 75% of the value of the property at the time the loan is made or acquired,
-			- **(II)** repayment of the amount of the loan that exceeds 75% of the value of the property is guaranteed or insured by a government agency or private insurer approved by the Superintendent, and
+			- **(I)** the amount of the loan, together with the amount then outstanding of any mortgage having an equal or prior claim against the property, exceeds 80% of the value of the property at the time the loan is made or acquired,
+			- **(II)** repayment of the amount of the loan that exceeds 80% of the value of the property is guaranteed or insured by a government agency or private insurer approved by the Superintendent, and
 			- **(III)** at the time the loan is made or acquired, the property provides an annual income sufficient to pay all annual expenses related to the property, including the payments owing under the mortgage and the mortgages having an equal or prior claim against the property, or
 		- **(C)** the loan is one referred to in paragraph 418(2)(d),
 	- **(vi)** a loan that
@@ -9127,7 +9127,7 @@ is sufficient justification and authority for giving effect to the transmission 
 	- **(a)** money or other assets held in trust by a company, other than guaranteed trust money and assets held in respect thereof;
 	- **(b)** the holding of a security interest in real property, unless the security interest is prescribed pursuant to paragraph 467(a) to be an interest in real property; or
 	- **(c)** the holding of a security interest in securities of an entity.
-> 1991, c. 45, ss. 449, 560; 1993, c. 34, s. 128(F); 1997, c. 15, s. 386; 2001, c. 9, s. 550; 2007, c. 6, s. 369.
+> 1991, c. 45, ss. 449, 560; 1993, c. 34, s. 128(F); 1997, c. 15, s. 386; 2001, c. 9, s. 550; 2007, c. 6, s. 369; 2008, c. 28, s. 163.
 
 
 
