@@ -8043,62 +8043,62 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente partie.
 
-***action participante*** Action d’une personne morale qui donne le droit de participer sans limite à ses bénéfices et à la répartition du reliquat de ses biens en cas de dissolution.
+***action participante*** Action d’une personne morale qui donne le droit de participer sans limite à ses bénéfices et à la répartition du reliquat de ses biens en cas de dissolution. (*participating share*)
 
-***courtier de fonds mutuels*** Entité dont la principale activité est celle d’un agent intermédiaire dans la vente de parts, d’actions ou d’autres intérêts d’un fonds mutuel et dans la perception des paiements y afférents, à condition que :
+***courtier de fonds mutuels*** Entité dont la principale activité est celle d’un agent intermédiaire dans la vente de parts, d’actions ou d’autres intérêts d’un fonds mutuel et dans la perception des paiements y afférents, à condition que :
 - **a)** le produit de la vente soit versé au fonds, déduction faite de la commission de vente et des frais de service;
-- **b)** le fait que la vente comporte une commission et des frais de service soit porté à la connaissance de l’acquéreur avant l’achat.
+- **b)** le fait que la vente comporte une commission et des frais de service soit porté à la connaissance de l’acquéreur avant l’achat. (*mutual fund distribution entity*)
 
-***courtier immobilier*** Entité dont l’activité consiste principalement :
+***courtier immobilier*** Entité dont l’activité consiste principalement :
 - **a)** à agir en qualité de mandataire pour des acheteurs, des vendeurs, des créanciers ou débiteurs hypothécaires, des locataires ou des bailleurs de biens immeubles;
-- **b)** à fournir des services de consultation et d’évaluation en matière de biens immeubles.
+- **b)** à fournir des services de consultation et d’évaluation en matière de biens immeubles. (*real property brokerage entity*)
 
-***entité admissible*** Entité dans laquelle l’association est autorisée à acquérir un intérêt de groupe financier dans le cadre de l’article 390.
+***entité admissible*** Entité dans laquelle l’association est autorisée à acquérir un intérêt de groupe financier dans le cadre de l’article 390. (*permitted entity*)
 
-***entité s’occupant d’affacturage*** S’entend au sens des règlements.
+***entité s’occupant d’affacturage*** S’entend au sens des règlements. (*factoring entity*)
 
-***entité s’occupant de crédit-bail*** Entité dont l’activité est limitée au crédit-bail de biens meubles et aux activités connexes prévues aux règlements et est conforme à ceux-ci et qui, dans l’exercice de son activité au Canada, s’abstient :
+***entité s’occupant de crédit-bail*** Entité dont l’activité est limitée au crédit-bail de biens meubles et aux activités connexes prévues aux règlements et est conforme à ceux-ci et qui, dans l’exercice de son activité au Canada, s’abstient :
 - **a)** de diriger ses clients, présents ou potentiels, vers des marchands donnés de tels biens;
 - **b)** de conclure des contrats de location portant sur des véhicules à moteur dont le poids brut, au sens des règlements, est inférieur à vingt et une tonnes;
-- **c)** de conclure avec des personnes physiques des contrats de location portant sur des meubles meublants, au sens des règlements.
+- **c)** de conclure avec des personnes physiques des contrats de location portant sur des meubles meublants, au sens des règlements. (*financial leasing entity*)
 
-***entité s’occupant de financement*** S’entend au sens des règlements.
+***entité s’occupant de financement*** S’entend au sens des règlements. (*finance entity*)
 
-***entité s’occupant de financement spécial*** S’entend au sens des règlements.
+***entité s’occupant de financement spécial*** S’entend au sens des règlements. (*specialized financing entity*)
 
-***entité s’occupant de fonds mutuels*** Entité qui réunit les conditions suivantes :
+***entité s’occupant de fonds mutuels*** Entité qui réunit les conditions suivantes :
 - **a)** son activité se limite au placement de ses fonds de façon à offrir des services de diversification de placements et de gestion professionnelle aux détenteurs de ses titres;
-- **b)** ses titres autorisent leurs détenteurs à recevoir, sur demande ou dans le délai spécifié après la demande, un montant calculé sur la base d’un droit proportionnel à tout ou partie des capitaux propres de l’émetteur, y compris tout fonds distinct ou compte en fiducie.
+- **b)** ses titres autorisent leurs détenteurs à recevoir, sur demande ou dans le délai spécifié après la demande, un montant calculé sur la base d’un droit proportionnel à tout ou partie des capitaux propres de l’émetteur, y compris tout fonds distinct ou compte en fiducie. (*mutual fund entity*)
 
-***filiale réglementaire*** La filiale qui fait partie d’une catégorie de filiales prévue par règlement.
+***filiale réglementaire*** La filiale qui fait partie d’une catégorie de filiales prévue par règlement. (*prescribed subsidiary*)
 
-***fonds d’investissement à capital fixe*** Entité dont l’activité se limite au placement de ses fonds de façon à offrir des services de diversification de placements et de gestion professionnelle aux détenteurs de ses titres et dont les titres : 
+***fonds d’investissement à capital fixe*** Entité dont l’activité se limite au placement de ses fonds de façon à offrir des services de diversification de placements et de gestion professionnelle aux détenteurs de ses titres et dont les titres : 
 - **a)** sont diffusés au public en nombre fixe dans le cadre d’une émission faite en vertu d’un prospectus provisoire, d’un prospectus, d’un prospectus simplifié ou d’un document de même nature, conformément aux lois d’une province ou d’un pays étranger;
 - **b)** sont négociés en bourse ou sur les marchés hors cote;
-- **c)** font l’objet, à une date d’échéance fixe, d’une liquidation dont le produit est réparti proportionnellement entre les détenteurs de titres.
+- **c)** font l’objet, à une date d’échéance fixe, d’une liquidation dont le produit est réparti proportionnellement entre les détenteurs de titres. (*closed-end fund*)
 
- ou ***prêt*** ou ***emprunt*** Tout arrangement pour obtenir des fonds ou du crédit, à l’exception des placements dans les valeurs mobilières; y sont assimilés notamment l’acceptation et l’endossement ou autre garantie ainsi que le dépôt, le crédit-bail, le contrat de vente conditionnelle et la convention de rachat.
+***prêt*** ou ***emprunt*** Tout arrangement pour obtenir des fonds ou du crédit, à l’exception des placements dans les valeurs mobilières; y sont assimilés notamment l’acceptation et l’endossement ou autre garantie ainsi que le dépôt, le crédit-bail, le contrat de vente conditionnelle et la convention de rachat. (*loan*)
 
-***prêt commercial*** Selon le cas :
-- **a)** prêt consenti ou acquis par une association, à l’exception du prêt :
+***prêt commercial*** Selon le cas :
+- **a)** prêt consenti ou acquis par une association, à l’exception du prêt :
 	- **(i)** de deux cent cinquante mille dollars ou moins à une personne physique,
-	- **(ii)** fait soit au gouvernement du Canada ou d’une province ou à une municipalité — ou à un de leurs organismes — , soit au gouvernement d’un pays étranger ou d’une de ses subdivisions politiques — ou à un de leurs organismes — , soit à un organisme international prévu par règlement,
+	- **(ii)** fait soit au gouvernement du Canada ou d’une province ou à une municipalité — ou à un de leurs organismes —, soit au gouvernement d’un pays étranger ou d’une de ses subdivisions politiques — ou à un de leurs organismes —, soit à un organisme international prévu par règlement,
 	- **(iii)** soit garanti par un gouvernement, une municipalité ou un organisme visé au sous-alinéa (ii), soit pleinement garanti par des titres émis par eux,
-	- **(iv)** garanti par une hypothèque immobilière :
-		- **(A)** si la garantie consiste en une hypothèque sur un immeuble résidentiel et que la somme du montant du prêt et du solde à payer de tout autre prêt garanti par hypothèque de rang égal ou supérieur sur l’immeuble ne dépasse pas soixante-quinze pour cent de la valeur de l’immeuble à la date de l’octroi ou de l’acquisition du prêt,
-		- **(B)** si la garantie consiste en une hypothèque sur un immeuble autre que résidentiel et que :
-			- **(I)** d’une part, la somme du montant du prêt et du solde à payer de tout autre prêt garanti par hypothèque de rang égal ou supérieur sur l’immeuble ne dépasse pas soixante-quinze pour cent de la valeur de l’immeuble à la date de l’octroi ou de l’acquisition du prêt,
+	- **(iv)** garanti par une hypothèque immobilière :
+		- **(A)** si la garantie consiste en une hypothèque sur un immeuble résidentiel et que la somme du montant du prêt et du solde à payer de tout autre prêt garanti par hypothèque de rang égal ou supérieur sur l’immeuble ne dépasse pas quatre-vingts pour cent de la valeur de l’immeuble à la date de l’octroi ou de l’acquisition du prêt,
+		- **(B)** si la garantie consiste en une hypothèque sur un immeuble autre que résidentiel et que :
+			- **(I)** d’une part, la somme du montant du prêt et du solde à payer de tout autre prêt garanti par hypothèque de rang égal ou supérieur sur l’immeuble ne dépasse pas quatre-vingts pour cent de la valeur de l’immeuble à la date de l’octroi ou de l’acquisition du prêt,
 			- **(II)** d’autre part, à la date de l’octroi ou de l’acquisition du prêt, l’immeuble rapporte des revenus suffisants pour couvrir les dépenses annuelles y afférentes, notamment les paiements relatifs à l’hypothèque ou à toute autre hypothèque de rang égal ou supérieur,
-	- **(v)** garanti par une hypothèque immobilière :
-		- **(A)** si la garantie consiste en une hypothèque sur un immeuble résidentiel et que, d’une part, la somme du montant du prêt et du solde à payer de tout autre prêt garanti par hypothèque de rang égal ou supérieur sur l’immeuble dépasse soixante-quinze pour cent de la valeur de l’immeuble à la date de l’octroi ou de l’acquisition du prêt et, d’autre part, le remboursement de la portion qui excède soixante-quinze pour cent est garanti ou assuré par un organisme gouvernemental ou un assureur privé agréés par le surintendant,
-		- **(B)** si la garantie consiste en une hypothèque sur un immeuble autre que résidentiel et si les conditions suivantes sont réunies :
-			- **(I)** la somme du montant du prêt et du solde à payer de tout autre prêt garanti par hypothèque de rang égal ou supérieur sur l’immeuble dépasse soixante-quinze pour cent de la valeur de l’immeuble à la date de l’octroi ou de l’acquisition du prêt,
-			- **(II)** le remboursement de la portion qui excède soixante-quinze pour cent est garanti ou assuré par un organisme gouvernemental ou un assureur privé agréés par le surintendant,
+	- **(v)** garanti par une hypothèque immobilière :
+		- **(A)** si la garantie consiste en une hypothèque sur un immeuble résidentiel et que, d’une part, la somme du montant du prêt et du solde à payer de tout autre prêt garanti par hypothèque de rang égal ou supérieur sur l’immeuble dépasse quatre-vingts pour cent de la valeur de l’immeuble à la date de l’octroi ou de l’acquisition du prêt et, d’autre part, le remboursement de la portion qui excède quatre-vingts pour cent est garanti ou assuré par un organisme gouvernemental ou un assureur privé agréés par le surintendant,
+		- **(B)** si la garantie consiste en une hypothèque sur un immeuble autre que résidentiel et si les conditions suivantes sont réunies :
+			- **(I)** la somme du montant du prêt et du solde à payer de tout autre prêt garanti par hypothèque de rang égal ou supérieur sur l’immeuble dépasse quatre-vingts pour cent de la valeur de l’immeuble à la date de l’octroi ou de l’acquisition du prêt,
+			- **(II)** le remboursement de la portion qui excède quatre-vingts pour cent est garanti ou assuré par un organisme gouvernemental ou un assureur privé agréés par le surintendant,
 			- **(III)** l’immeuble rapporte, à la date de l’octroi ou de l’acquisition du prêt, des revenus suffisants pour couvrir les dépenses annuelles y afférentes, notamment les paiements relatifs à l’hypothèque ou à toute autre hypothèque de rang égal ou supérieur,
 	- **(vi)** qui soit consiste en un dépôt par l’association auprès d’une institution financière, soit est pleinement garanti par des dépôts auprès d’une institution financière, y compris l’association, ou par des titres de créance garantis par une institution financière, autre que l’association, ou par une garantie d’une institution financière, autre que l’association,
 	- **(vii)** consenti à une autre association aux conditions éventuellement fixées par règlement,
 	- **(viii)** consenti à une entité visée par règlement aux conditions éventuellement fixées par règlement;
-- **b)** placement dans des titres de créance, à l’exception :
+- **b)** placement dans des titres de créance, à l’exception :
 	- **(i)** des titres de créance garantis par une institution financière, autre que l’association, ou pleinement garantis par des dépôts auprès d’une institution financière, y compris l’association, ou par des titres de créance garantis par une institution financière, sauf l’association,
 	- **(ii)** des titres de créance émis par le gouvernement du Canada ou d’une province, une municipalité, un de leurs organismes, le gouvernement d’un pays étranger ou d’une de ses subdivisions politiques, un organisme d’un tel gouvernement ou un organisme international prévu par règlement,
 	- **(iii)** des titres de créance garantis par un gouvernement, une municipalité ou un organisme visé au sous-alinéa (ii) ou pleinement garantis par des titres émis par eux,
@@ -8106,18 +8106,18 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 	- **(v)** des titres de créance émis par une autre association aux conditions éventuellement fixées par règlement,
 	- **(vi)** des titres de créance d’une entité que l’association contrôle,
 	- **(vii)** des titres de créance d’une entité visée par règlement émis aux conditions éventuellement fixées par règlement;
-- **c)** placement dans des actions d’une personne morale ou des titres de participation d’une entité non constituée en personne morale, à l’exception :
+- **c)** placement dans des actions d’une personne morale ou des titres de participation d’une entité non constituée en personne morale, à l’exception :
 	- **(i)** des actions et titres qui sont largement distribués au sens des règlements,
 	- **(ii)** des actions et titres de participation d’une entité contrôlée par l’association,
-	- **(iii)** des actions participantes.
+	- **(iii)** des actions participantes. (*commercial loan*)
 
-***véhicule à moteur*** Véhicule motorisé conçu pour être utilisé principalement sur la voie publique pour le transport de personnes ou de choses, à l’exclusion des :
+***véhicule à moteur*** Véhicule motorisé conçu pour être utilisé principalement sur la voie publique pour le transport de personnes ou de choses, à l’exclusion des :
 - **a)** autobus, ambulances, camions utilitaires ou voitures de pompiers;
-- **b)** véhicules motorisés destinés à un usage particulier, qui comportent d’importants éléments spéciaux de nature à les rendre propres à un usage spécifique.
+- **b)** véhicules motorisés destinés à un usage particulier, qui comportent d’importants éléments spéciaux de nature à les rendre propres à un usage spécifique. (*motor vehicle*)
 
 **Membre du groupe d’une association**
 
-- **(2)** Pour l’application de la présente partie, est membre du groupe d’une association :
+- **(2)** Pour l’application de la présente partie, est membre du groupe d’une association :
 	- **a)** toute entité visée à l’alinéa 390(1)a) qui contrôle l’association;
 	- **b)** une filiale de l’association ou de toute entité visée à l’alinéa 390(1)a) qui contrôle l’association;
 	- **c)** une entité dans laquelle l’association ou toute entité visée à l’alinéa 390(1)a) qui contrôle l’association ont un intérêt de groupe financier;
@@ -8125,10 +8125,10 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 **Non-application**
 
-- **(3)** La présente partie ne s’applique pas :
+- **(3)** La présente partie ne s’applique pas :
 	- **a)** à la détention d’une sûreté sur un bien immeuble, sauf si celle-ci est considérée comme un intérêt immobilier au titre de l’alinéa 403a);
 	- **b)** à la détention d’une sûreté sur les titres d’une entité.
-> 1991, ch. 48, art. 386; 1993, ch. 34, art. 55(F); 1997, ch. 15, art. 140; 2001, ch. 9, art. 314; 2007, ch. 6, art. 171.
+> 1991, ch. 48, art. 386; 1993, ch. 34, art. 55(F); 1997, ch. 15, art. 140; 2001, ch. 9, art. 314; 2007, ch. 6, art. 171; 2008, ch. 28, art. 151.
 
 
 
