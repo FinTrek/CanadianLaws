@@ -423,11 +423,12 @@ Version anglaise seulement***prescribed*** means
 ***specified premises*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md).
 
 ***spirits*** means spirits, as defined in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md),
-- **(a)** of an alcoholic strength by volume exceeding 22.9%, of tariff item No. 2204.10.90, 2204.21.32, 2204.21.49, 2204.29.32, 2204.29.49, 2204.30.90, 2205.10.30, 2205.90.30, 2206.00.19, 2206.00.22, 2206.00.39, 2206.00.49, 2206.00.72 or 2206.00.93, that are classified under that tariff item or with the container in which they are imported; or
+- **(a)** of an alcoholic strength by volume exceeding 22.9%, of tariff item No. 2204.10.90, 2204.21.32, 2204.21.49, 2204.29.32, 2204.29.49, 2204.30.90, 2205.10.30, 2205.90.30, 2206.00.19, 2206.00.22, 2206.00.39, 2206.00.49, 2206.00.72 or 2206.00.93, that are classified under that tariff item or with the container in which they are imported;
+- **(a.1)** of an alcoholic strength by volume exceeding 11.9%, of heading No. 22.03, that are classified under that heading or with the container in which they are imported; or
 - **(b)** of heading No. 22.07 or 22.08, other than of tariff item No. 2207.20.11, 2207.20.12, 2207.20.90 or 2208.90.30, that are classified under that heading or with the container in which they are imported.
 
 ***wine*** means wine, as defined in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md), of heading 22.04, 22.05 or 22.06, other than of tariff item No. 2204.10.90, 2204.21.32, 2204.21.49, 2204.29.32, 2204.29.49, 2204.30.90, 2205.10.30, 2205.90.30, 2206.00.19, 2206.00.22, 2206.00.39, 2206.00.49, 2206.00.72 or 2206.00.93, that is classified under that heading or with the container in which it is imported.
-> 1997, c. 36, s. 21; 2001, c. 16, s. 3; 2002, c. 22, ss. 346, 412; 2003, c. 15, s. 45; 2007, c. 18, s. 142.
+> 1997, c. 36, s. 21; 2001, c. 16, s. 3; 2002, c. 22, ss. 346, 412; 2003, c. 15, s. 45; 2007, c. 18, s. 142; 2008, c. 28, s. 70.
 
 
 
@@ -2475,11 +2476,10 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 	- **(a)** subject to section 95, exported directly from the bonded warehouse; or
 	- **(b)** designated as ships’ stores by regulations made under paragraph 99(g), supplied for use on board a conveyance of a class prescribed by regulations under that paragraph and exported.
 
-**Non-application to Canadian manufactured tobacco**
+**Exception**
 
-- **(3)** This section does not apply to any duty imposed under the 
-[Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md) in respect of manufactured tobacco that is manufactured in Canada.
-> 1997, c. 36, s. 92; 2001, c. 16, s. 5; 2002, c. 22, s. 350.
+- **(3)** This section does not apply to any duty imposed under the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md) in respect of manufactured tobacco that is manufactured in Canada and imported manufactured tobacco that is stamped in accordance with that Act.
+> 1997, c. 36, s. 92; 2001, c. 16, s. 5; 2002, c. 22, s. 350; 2008, c. 28, s. 71.
 
 
 
