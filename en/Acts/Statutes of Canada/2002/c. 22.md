@@ -237,6 +237,8 @@ Version anglaise seulement***prescribed*** means
 
 ***tobacco licensee*** means a person who holds a tobacco licence issued under section 14.
 
+***tobacco manufacturing equipment*** means any machinery or equipment designed or modified specifically for the manufacture of a tobacco product.
+
 ***tobacco marking*** means prescribed information that is required under this Act to be printed on or affixed to a container of tobacco products that are not required under this Act to be stamped.
 
 ***tobacco product*** means manufactured tobacco, packaged raw leaf tobacco or cigars.
@@ -252,7 +254,7 @@ Version anglaise seulement***prescribed*** means
 - **(c)** a beverage described by paragraph (a) or (b) that is fortified not in excess of 22.9% absolute ethyl alcohol by volume.
 
 ***wine licensee*** means a person who holds a wine licence issued under section 14.
-> 2002, c. 22, s. 2; 2005, c. 38, s. 92; 2007, c. 18, s. 67.
+> 2002, c. 22, s. 2; 2005, c. 38, s. 92; 2007, c. 18, s. 67; 2008, c. 28, s. 50.
 
 
 
@@ -276,13 +278,15 @@ Version anglaise seulement***prescribed*** means
 
 **5** 
 
-- **(1)** For the purposes of subsections 30(1) and 32(1), section 61, subsections 70(1) and 88(1) and sections 230 and 231, if one of two or more persons, with the knowledge and consent of the rest of them, has anything in the person’s possession, it is deemed to be in the custody and possession of each and all of them.
+- **(1)** For the purposes of subsections 30(1), 32(1) and 32.1(1), section 61, subsections 70(1) and 88(1) and sections 230 and 231, if one of two or more persons, with the knowledge and consent of the rest of them, has anything in the person’s possession, it is deemed to be in the custody and possession of each and all of them.
 
-**Meaning of “possession”**
+**Meaning of possession**
 
-- **(2)** In this section and in subsections 30(1) and 32(1), section 61 and subsections 70(1) and 88(1), “possession” means not only having in one’s own personal possession but also knowingly
+- **(2)** In this section and in subsections 30(1), 32(1) and 32.1(1), section 61 and subsections 70(1) and 88(1), ***possession*** means not only having in one’s own personal possession but also knowingly
 	- **(a)** having in the actual possession or custody of another person; or
 	- **(b)** having in any place, whether belonging to or occupied by one’s self or not, for one’s own use or benefit or that of another person.
+> 2002, c. 22, s. 5; 2008, c. 28, s. 51.
+
 
 
 
@@ -580,11 +584,19 @@ Version anglaise seulement***prescribed*** means
 
 **23** 
 
-- **(1)** The Minister may, for any reason the Minister considers sufficient in the public interest, refuse to issue a licence or registration.
+- **(1)** The Minister may refuse to issue a licence or registration to a person if the Minister has reason to believe
+	- **(a)** that access to the person’s premises will be denied or impeded by any person; or
+	- **(b)** that the refusal is otherwise in the public interest.
 
 **Amendment or renewal**
 
 - **(2)** Subject to the regulations, the Minister may amend, suspend, renew, cancel or reinstate any licence or registration.
+
+**Cancellation, etc. — access to premises**
+
+- **(2.1)** The Minister may amend, suspend or cancel any licence or registration of a person if
+	- **(a)** access to the premises of the licensee or registrant is denied or impeded by any person; or
+	- **(b)** it is otherwise in the public interest.
 
 **Conditions imposed by Minister**
 
@@ -592,6 +604,8 @@ Version anglaise seulement***prescribed*** means
 	- **(a)** may, subject to the regulations, specify the activities that may be carried on under the licence or registration and the premises where those activities may be carried on;
 	- **(b)** shall, in the case of a spirits licence or a tobacco licence, require security in a form satisfactory to the Minister and in an amount determined in accordance with the regulations; and
 	- **(c)** may impose any other conditions that the Minister considers appropriate with respect to the carrying on of activities under the licence or registration.
+> 2002, c. 22, s. 23; 2008, c. 28, s. 52.
+
 
 
 
@@ -799,6 +813,31 @@ Version anglaise seulement***prescribed*** means
 
 
 
+**Prohibition — possession of tobacco manufacturing equipment**
+
+**32.1** 
+
+- **(1)** No person shall possess tobacco manufacturing equipment with the intent of manufacturing a tobacco product unless
+	- **(a)** the person is a tobacco licensee; or
+	- **(b)** the person is an individual manufacturing manufactured tobacco or cigars for their personal use as permitted under subsection 25(3).
+
+**Prohibition — importation of tobacco manufacturing equipment**
+
+- **(2)** No person shall import tobacco manufacturing equipment unless
+	- **(a)** the person is a tobacco licensee;
+	- **(b)** the equipment is designed for use by an individual manufacturing manufactured tobacco or cigars for their personal use as permitted under subsection 25(3) and is not designed for commercial manufacturing;
+	- **(c)** the person provides evidence satisfactory to the Minister of Public Safety and Emergency Preparedness that the equipment is imported
+		- **(i)** on a tobacco licensee’s behalf,
+		- **(ii)** for the sole purpose of maintenance, alteration or repair in Canada, if the equipment is intended to be exported immediately after the maintenance, alteration or repair is completed,
+		- **(iii)** by or on behalf of a person who carries on a business of supplying that equipment, or
+		- **(iv)** for in-transit movement through Canada; or
+	- **(d)** it is imported in prescribed circumstances or under prescribed terms and conditions.
+> 2008, c. 28, s. 53.
+
+
+
+
+
 **No sale or distribution except in original package**
 
 **33** No person shall
@@ -864,10 +903,16 @@ Version anglaise seulement***prescribed*** means
 
 **No delivery of imported tobacco without markings**
 
-- **(2)** Subject to subsection (3), no person shall deliver a container of imported manufactured tobacco or cigars that does not have printed on it or affixed to it tobacco markings and other prescribed information to
+- **(2)** Subject to subsections (2.1) and (3), no person shall deliver a container of imported manufactured tobacco or cigars that does not have printed on it or affixed to it tobacco markings and other prescribed information to
 	- **(a)** a duty free shop for sale or offer for sale in accordance with the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md);
 	- **(b)** an accredited representative; or
 	- **(c)** a customs bonded warehouse.
+
+**Delivery of imported stamped tobacco**
+
+- **(2.1)** A container of imported manufactured tobacco that was manufactured outside Canada and is stamped may be delivered to
+	- **(a)** a duty free shop for sale or offer for sale in accordance with the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md); or
+	- **(b)** a customs bonded warehouse.
 
 **Exception for prescribed manufactured tobacco**
 
@@ -882,7 +927,7 @@ Version anglaise seulement***prescribed*** means
 **Distinguishing different cigarettes**
 
 - **(5)** For the purpose of subsection (4), a cigarette of a particular type or formulation sold under a brand may be considered to be different from another cigarette sold under that brand if it is reasonable to consider them to be different having regard to their physical characteristics before and during consumption.
-> 2002, c. 22, s. 38; 2007, c. 18, s. 82.
+> 2002, c. 22, s. 38; 2007, c. 18, s. 82; 2008, c. 28, s. 54.
 
 
 
@@ -984,7 +1029,15 @@ Version anglaise seulement***prescribed*** means
 
 **Duty relieved — stamped tobacco imported by individual**
 
-**47** The duty imposed under section 42 is relieved on manufactured tobacco imported by an individual for their personal use if it was manufactured in Canada and is stamped.
+**47** 
+
+- **(1)** The duty imposed under section 42 is relieved on manufactured tobacco imported by an individual for their personal use if it was manufactured in Canada and is stamped.
+
+**Duty relieved — reimportation of stamped tobacco by individual**
+
+- **(2)** The duty imposed under section 42 is relieved on manufactured tobacco imported by an individual for their personal use if it was manufactured outside Canada, was previously imported into Canada and is stamped.
+> 2002, c. 22, s. 47; 2008, c. 28, s. 55.
+
 
 
 
@@ -1113,11 +1166,13 @@ Version anglaise seulement***prescribed*** means
 
 **53** 
 
-- **(1)** A special duty is imposed on imported manufactured tobacco that is delivered to a duty free shop at the rates set out in section 1 of Schedule 3.
+- **(1)** A special duty is imposed, at the rates set out in section 1 of Schedule 3, on imported manufactured tobacco that is delivered to a duty free shop and that is not stamped.
 
 **When and by whom duty is payable**
 
 - **(2)** The special duty is payable at the time of delivery and is payable by the duty free shop licensee.
+> 2002, c. 22, s. 53; 2008, c. 28, s. 56.
+
 
 
 
@@ -1140,7 +1195,9 @@ Version anglaise seulement***prescribed*** means
 
 **Exception**
 
-- **(4)** The special duty is not imposed on traveller’s tobacco imported by an individual for their personal use if it was manufactured in Canada and is stamped.
+- **(4)** The special duty is not imposed on traveller’s tobacco imported by an individual for their personal use if duty under section 42 was previously imposed on the tobacco and the tobacco is stamped.
+> 2002, c. 22, s. 54; 2008, c. 28, s. 57.
+
 
 
 
@@ -3007,6 +3064,30 @@ where
 
 
 
+**Refund — imported black stock tobacco**
+
+**180.1** 
+
+- **(1)** The Minister may refund to a person who has imported manufactured tobacco an amount determined in accordance with subsection (2) in respect of the tobacco if
+	- **(a)** the person provides evidence satisfactory to the Minister that
+		- **(i)** duty was imposed on the tobacco under section 42 at a rate set out in paragraph 1(b), 2(b) or 3(b) of Schedule 1 and paid, and
+		- **(ii)** the tobacco was black stock
+			- **(A)** that was delivered to a duty free shop or customs bonded warehouse or to a person for use as ships’ stores in accordance with the [Ships’ Stores Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/96/40.md), or
+			- **(B)** that was exported for delivery to a foreign duty free shop or as foreign ships’ stores; and
+	- **(b)** the person applies to the Minister for the refund within two years after the tobacco was imported.
+
+**Determination of refund**
+
+- **(2)** The amount of the refund is equal to the amount by which
+	- **(a)** the duty referred to in subparagraph (1)(a)(i)
+exceeds
+	- **(b)** the duty that would have been imposed under section 42 on the tobacco if the applicable rate of duty had been the rate set out in paragraph 1(a), 2(a) or 3(a) of Schedule 1.
+> 2008, c. 28, s. 58.
+
+
+
+
+
 **Re-worked or destroyed tobacco products**
 
 **181** The Minister may refund to a tobacco licensee the duty paid on a tobacco product that is re-worked or destroyed by the tobacco licensee in accordance with section 41 if the licensee applies for the refund within two years after the tobacco product is re-worked or destroyed.
@@ -3687,6 +3768,10 @@ and ending on the day on which the refund is paid to the person.
 
 - **(2)** Every tobacco grower and every body established under provincial law for the marketing of raw leaf tobacco grown in the province shall keep records that will enable the determination of the amount of raw leaf tobacco grown, received or disposed of by them.
 
+**Keeping records — tobacco manufacturing equipment**
+
+- **(2.1)** Every person who possesses tobacco manufacturing equipment (other than equipment that is designed for use by an individual manufacturing manufactured tobacco or cigars for their personal use as permitted under subsection 25(3) and that is not designed for commercial manufacturing) shall keep records that will enable the determination of the source, the type and the disposition of that equipment.
+
 **Minister may specify information**
 
 - **(3)** The Minister may specify in writing the form a record is to take and any information that the record must contain.
@@ -3706,6 +3791,8 @@ and ending on the day on which the refund is paid to the person.
 **Period for retention**
 
 - **(7)** Every person who is required to keep records shall retain them until the expiry of six years after the end of the year to which they relate or for any other period that may be prescribed.
+> 2002, c. 22, s. 206; 2008, c. 28, s. 59.
+
 
 
 
@@ -4038,9 +4125,11 @@ It includes a person who is appointed to exercise the authority of a creditor un
 
 **Unlawful production, sale, etc., of tobacco or alcohol**
 
-**214** Every person who contravenes section 25, 27, 29, 60 or 62 is guilty of an offence and liable
+**214** Every person who contravenes section 25, 27 or 29, subsection 32.1(1) or section 60 or 62 is guilty of an offence and liable
 - **(a)** on conviction on indictment, to a fine of not less than $50,000 and not more than $1,000,000 or to imprisonment for a term of not more than five years, or to both; or
 - **(b)** on summary conviction, to a fine of not less than $10,000 and not more than $500,000 or to imprisonment for a term of not more than 18 months, or to both.
+> 2002, c. 22, s. 214; 2008, c. 28, s. 60.
+
 
 
 
@@ -4081,7 +4170,7 @@ It includes a person who is appointed to exercise the authority of a creditor un
 - **(2)** The amount determined under this subsection for an offence under subsection (1) is the greater of
 	- **(a)** the total of
 		- **(i)** $0.17 multiplied by the number of cigarettes to which the offence relates,
-		- **(ii)** $0.127 multiplied by the number of tobacco sticks to which the offence relates,
+		- **(ii)** $0.17 multiplied by the number of tobacco sticks to which the offence relates,
 		- **(iii)** $0.116 multiplied by the number of grams of manufactured tobacco other than cigarettes or tobacco sticks to which the offence relates, and
 		- **(iv)** $0.29 multiplied by the number of cigars to which the offence relates, and
 	- **(b)** $1,000 in the case of an indictable offence and $500 in the case of an offence punishable on summary conviction.
@@ -4091,11 +4180,11 @@ It includes a person who is appointed to exercise the authority of a creditor un
 - **(3)** The amount determined under this subsection for an offence under subsection (1) is the greater of
 	- **(a)** the total of
 		- **(i)** $0.255 multiplied by the number of cigarettes to which the offence relates,
-		- **(ii)** $0.19 multiplied by the number of tobacco sticks to which the offence relates,
+		- **(ii)** $0.255 multiplied by the number of tobacco sticks to which the offence relates,
 		- **(iii)** $0.174 multiplied by the number of grams of manufactured tobacco other than cigarettes or tobacco sticks to which the offence relates, and
 		- **(iv)** $0.67 multiplied by the number of cigars to which the offence relates, and
 	- **(b)** $2,000 in the case of an indictable offence and $1,000 in the case of an offence punishable on summary conviction.
-> 2002, c. 22, s. 216; 2006, c. 4, s. 35; 2007, c. 35, s. 202.
+> 2002, c. 22, s. 216; 2006, c. 4, s. 35; 2007, c. 35, s. 202; 2008, c. 28, s. 61.
 
 
 
@@ -4467,9 +4556,9 @@ exceeds
 
 **240** Every tobacco licensee who contravenes subsection 50(5) is liable to a penalty equal to the total of
 - **(a)** $0.361448 per cigarette that was removed in contravention of that subsection,
-- **(b)** $0.2105 per tobacco stick that was removed in contravention of that subsection, and
+- **(b)** $0.361448 per tobacco stick that was removed in contravention of that subsection, and
 - **(c)** $207.704 per kilogram of manufactured tobacco, other than cigarettes and tobacco sticks, that was removed in contravention of that subsection.
-> 2002, c. 22, s. 240; 2003, c. 15, s. 46; 2006, c. 4, s. 36; 2007, c. 35, s. 203.
+> 2002, c. 22, s. 240; 2003, c. 15, s. 46; 2006, c. 4, s. 36; 2007, c. 35, s. 203; 2008, c. 28, s. 62.
 
 
 
@@ -6273,7 +6362,7 @@ However, nothing in this subsection limits the liability of the transferor under
 
 **2** Tobacco sticks:
 
-**(a)** $0.054983 per stick, if the tobacco sticks are black stock
+**(a)** $0.074975 per stick, if the tobacco sticks are black stock
 
 **(i)** for delivery by the tobacco licensee who manufactured them to a duty free shop or customs bonded warehouse,
 
@@ -6289,7 +6378,7 @@ However, nothing in this subsection limits the liability of the transferor under
 
 
 
-**(b)** $0.06325 per stick, in any other case.
+**(b)** $0.085 per stick, in any other case.
 
 
 
@@ -6323,7 +6412,7 @@ However, nothing in this subsection limits the liability of the transferor under
 **5** Raw leaf tobacco: $1.572 per kilogram.
 
 
-> 2002, c. 22, Sch. 1; 2003, c. 15, ss. 47 to 49; 2006, c. 4, ss. 37 to 40; 2007, c. 35, ss. 204 to 207.
+> 2002, c. 22, Sch. 1; 2003, c. 15, ss. 47 to 49; 2006, c. 4, ss. 37 to 40; 2007, c. 35, ss. 204 to 207; 2008, c. 28, s. 63.
 
 
 
@@ -6368,7 +6457,7 @@ The greater of
 
 
 
-**(b)** $0.055 per stick, in the case of tobacco sticks; and
+**(b)** $0.075 per stick, in the case of tobacco sticks; and
 
 
 
@@ -6383,7 +6472,7 @@ The greater of
 
 
 
-**(b)** $0.055 per stick, in the case of tobacco sticks; and
+**(b)** $0.075 per stick, in the case of tobacco sticks; and
 
 
 
@@ -6398,7 +6487,7 @@ The greater of
 
 
 
-**(b)** $0.055 per stick, in the case of tobacco sticks; and
+**(b)** $0.075 per stick, in the case of tobacco sticks; and
 
 
 
@@ -6413,7 +6502,7 @@ The greater of
 
 
 
-**(b)** $0.042 per stick, in the case of tobacco sticks; and
+**(b)** $0.095724 per stick, in the case of tobacco sticks; and
 
 
 
@@ -6422,7 +6511,7 @@ The greater of
 
 
 
-> 2002, c. 22, Sch. 3; 2003, c. 15, ss. 51 to 54.
+> 2002, c. 22, Sch. 3; 2003, c. 15, ss. 51 to 54; 2008, c. 28, ss. 65 to 68.
 
 
 
