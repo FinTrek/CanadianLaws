@@ -44,8 +44,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ***établissement agréé*** Établissement d’enseignement agréé conformément au paragraphe 3(1) ou au sens de la [Loi fédérale sur les prêts aux étudiants](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-23.md).
 
 ***étudiant admissible*** S’entend de quiconque, à la fois :
-- **a)** est un citoyen canadien, un résident permanent au sens du paragraphe 2(1) de la 
-[Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) ou une personne protégée au sens du paragraphe 95(2) de cette loi;
+- **a)** est un citoyen canadien, un résident permanent au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) ou une personne protégée au sens du paragraphe 95(2) de cette loi;
 - **b)** est inscrit ou remplit les conditions d’inscription à un établissement agréé, en qualité d’étudiant à temps plein ou d’étudiant à temps partiel, pour une période d’études au niveau postsecondaire;
 - **c)** a l’intention de suivre, à temps plein ou partiel, les cours d’un tel établissement, pour cette période d’études, s’il a les moyens financiers pour le faire.
 
@@ -60,7 +59,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Expressions employées à l’égard d’années de prêt antérieures**
 
 - **(3)** Dans la présente loi, les expressions employées à l’égard d’une année de prêt antérieure à celle au cours de laquelle le présent article entre en vigueur s’entendent au sens de la [Loi fédérale sur les prêts aux étudiants](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-23.md).
-> 1994, ch. 28, art. 2; 2001, ch. 27, art. 219; 2003, ch. 15, art. 9
+
+**Documents et communications sous forme électronique**
+
+- **(4)** Dans la présente loi et les règlements, tout document ou autre forme de communication peut être établi sous forme électronique et la mention de tout document vise notamment sa version électronique.
+> 1994, ch. 28, art. 2; 2001, ch. 27, art. 219; 2003, ch. 15, art. 9; 2008, ch. 28, art. 101
 
 
 
@@ -111,9 +114,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **5** Le ministre peut, s’il le juge à propos, avec l’agrément du ministre des Finances, conclure un accord avec un prêteur en vue de l’octroi par celui-ci de prêts d’études ou d’autres formes d’aide financière aux étudiants. L’accord peut notamment prévoir :
 - **a)** le paiement, en tout ou en partie, par le ministre au prêteur :
 	- **(i)** d’une somme correspondant à l’intérêt sur les prêts d’études à l’égard de la période visée au paragraphe 7(1),
-	- **(ii)** d’une somme correspondant à l’intérêt sur les prêts d’études dans le cas d’une exemption accordée en application d’un règlement pris en vertu de l’alinéa 15n),
+	- **(ii)** d’une somme correspondant à l’intérêt sur les prêts d’études dans le cas d’une exemption accordée en application d’un règlement pris en vertu de l’alinéa 15(1)n),
 	- **(iii)** du principal et de l’intérêt dans les cas prévus par les articles 10 ou 11,
-	- **(iv)** des montants visés à l’alinéa 15l),
+	- **(iv)** des montants visés à l’alinéa 15(1)l),
 	- **(v)** d’une prime contre les risques liés aux prêts d’études octroyés par celui-ci,
 	- **(vi)** des montants nécessaires au rachat de créances correspondant aux prêts d’études échus pour lesquels il n’y a eu aucun versement en vue du remboursement pendant au moins un an, ainsi que d’un certain pourcentage des sommes recouvrées par lui à l’égard de ces créances,
 	- **(vii)** des montants correspondant au rajustement du principal et de l’intérêt en cas d’erreur, commise par inadvertance, sur le taux d’intérêt ou le montant à rembourser dans le contrat de prêt consolidé ou dans le contrat de prêt simple,
@@ -126,12 +129,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **b)** les modalités de vérification et de rectification de tous ces paiements;
 - **c)** sous réserve des règlements, les cas dans lesquels un prêteur est, sur demande d’un étudiant admissible, tenu de lui consentir une aide financière jusqu’à concurrence du plafond ou du montant maximal déterminé conformément à l’article 12;
 - **d)** le mode de calcul des intérêts payables par l’emprunteur au prêteur et le montant sur lequel ils doivent être calculés, ainsi que leur taux ou le mode de détermination de celui-ci;
-- **e)** le remboursement du prêt d’études en fonction du revenu;
+- **e)** le remboursement du prêt d’études par l’emprunteur ou par une catégorie d’emprunteurs, en fonction du revenu;
 - **f)** les dispositions qui doivent figurer dans les contrats de prêts, la possibilité de modifier ces contrats et les conditions et effets des modifications;
 - **g)** la procédure à suivre par le prêteur en ce qui concerne les prêts d’études, notamment en matière d’octroi et de recouvrement;
 - **h)** l’établissement de rapports au ministre concernant les prêts d’études;
 - **i)** les conditions et modalités relatives aux obligations contractuelles du ministre et du prêteur.
-> 1994, ch. 28, art. 5; 2004, ch. 25, art. 191
+> 1994, ch. 28, art. 5; 2004, ch. 25, art. 191; 2008, ch. 28, art. 102 et 110
 
 
 
@@ -167,7 +170,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **6.2** 
 
-- **(1)** Le ministre peut conclure avec une personne morale constituée par une loi fédérale ou provinciale faisant affaire au Canada (ci-après « fournisseur de services  ») un accord concernant l’administration de prêts d’études ou d’autres formes d’aide financière qu’il octroie aux étudiants admissibles. L’accord peut notamment prévoir :
+- **(1)** Le ministre peut conclure avec une personne morale constituée par une loi fédérale ou provinciale faisant affaire au Canada (ci-après « fournisseur de services  ») un accord concernant l’administration de prêts d’études ou d’autres formes d’aide financière qu’il octroie aux étudiants admissibles. L’accord peut notamment prévoir :
 	- **a)** le versement, au nom du ministre, des sommes prêtées ou des autres formes d’aide financière;
 	- **b)** les modalités de vérification et de rectification des paiements faits par le ministre au titre de l’accord;
 	- **c)** le mode de calcul des intérêts à payer par le ministre au fournisseur de services et le montant sur lequel ils doivent être calculés, ainsi que leur taux ou le mode de détermination de celui-ci;
@@ -176,10 +179,16 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **f)** les conditions et modalités relatives aux obligations contractuelles du ministre et du fournisseur de services;
 	- **g)** le versement, par le ministre, d’une rémunération au fournisseur de services pour l’administration des prêts d’études et des autres formes d’aide financière.
 
-**[Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md)**
+**[Règlement de 1997 sur la réception et le dépôt des fonds publics](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/98/128.md)**
 
-- **(2)** La [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md) s’applique au fournisseur de services, à l’égard des activités qu’il exerce en application de la présente loi, comme s’il était une institution fédérale.
-> 2000, ch. 14, art. 17
+- **(2)** Malgré l’article 3 du [Règlement de 1997 sur la réception et le dépôt des fonds publics](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/98/128.md), le versement au crédit du receveur général des sommes ci-après qui constituent des fonds publics perçus ou reçus par voie électronique par un fournisseur de services avec lequel un accord a été conclu en vertu du paragraphe (1) se fait par le dépôt de celles-ci, au plus tard deux jours ouvrables suivant leur perception ou réception, dans un compte ouvert en vertu du paragraphe 17(2) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) :
+	- **a)** les fonds perçus ou reçus pour le remboursement d’une aide financière ou d’un prêt garanti, au sens du paragraphe 2(1) de la [Loi fédérale sur les prêts aux étudiants](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-23.md), ou le paiement d’intérêts afférents à une telle aide ou un tel prêt;
+	- **b)** les intérêts que le fournisseur de services a reçus sur les sommes visées à l’alinéa a).
+
+**Définition de jour ouvrable**
+
+- **(3)** Pour l’application du présent article, ***jour ouvrable*** s’entend d’un jour qui n’est ni un samedi ni un jour férié.
+> 2000, ch. 14, art. 17; 2008, ch. 28, art. 103
 
 
 
@@ -202,18 +211,22 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **7** 
 
-- **(1)** Sous réserve des règlements, les prêts d’études, visés par les règlements pris en vertu de l’alinéa 15j), ne portent pas intérêt pour l’emprunteur pour la période d’études qu’il accomplit comme étudiant à temps plein ou toute période ultérieure se terminant le dernier jour du mois où il cesse d’être étudiant à temps plein.
+- **(1)** Sous réserve des règlements, les prêts d’études, visés par les règlements pris en vertu de l’alinéa 15(1)j), ne portent pas intérêt pour l’emprunteur pour la période d’études qu’il accomplit comme étudiant à temps plein ou toute période ultérieure se terminant le dernier jour du mois où il cesse d’être étudiant à temps plein.
 
 **Frais**
 
 - **(2)** Il ne peut y avoir de frais afférents au prêt d’études pour la période d’études que l’emprunteur accomplit comme étudiant à temps plein ou toute période ultérieure se terminant le dernier jour du mois où il cesse d’être étudiant à temps plein.
+> 1994, ch. 28, art. 7; 2008, ch. 28, art. 110
+
 
 
 
 
 **Report de paiement**
 
-**8** Sous réserve des règlements, le paiement du principal ou des intérêts d’un prêt d’études visé par les règlements pris en vertu de l’alinéa 15j) et consenti à un étudiant à temps plein peut être différé jusqu’au dernier jour du septième mois suivant celui où l’emprunteur cesse d’être étudiant à temps plein.
+**8** Sous réserve des règlements, le paiement du principal ou des intérêts d’un prêt d’études visé par les règlements pris en vertu de l’alinéa 15(1)j) et consenti à un étudiant à temps plein peut être différé jusqu’au dernier jour du septième mois suivant celui où l’emprunteur cesse d’être étudiant à temps plein.
+> 1994, ch. 28, art. 8; 2008, ch. 28, art. 110
+
 
 
 
@@ -296,11 +309,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Délivrance**
+**Délivrance des certificats**
 
 **12** 
 
-- **(1)** Sous réserve des règlements, l’autorité compétente visée à l’alinéa 3(1)a) peut, sur demande de l’étudiant admissible, lui délivrer ou faire délivrer, en la forme déterminée par le ministre, un certificat d’admissibilité pour une période d’études donnée dans un établissement agréé situé au Canada ou à l’extérieur du pays, si elle estime que :
+- **(1)** Sous réserve des règlements, l’autorité compétente visée à l’alinéa 3(1)a) peut, sur demande de l’étudiant admissible, délivrer ou faire délivrer à celui-ci ou à son égard, en la forme déterminée par le ministre, un certificat d’admissibilité pour une période d’études donnée dans un établissement agréé situé au Canada ou à l’extérieur du pays, si elle estime que :
 	- **a)** d’une part, il a atteint un niveau et des résultats satisfaisants;
 	- **b)** d’autre part, il a besoin d’aide financière.
 
@@ -314,9 +327,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Plafond pour certains étudiants à temps plein**
 
-- **(4)** Dans le cas d’un étudiant à temps plein, le plafond pour la province du prêt d’études visé par les règlements pris en vertu de l’alinéa 15j) est le moindre des éléments suivants :
+- **(4)** Dans le cas d’un étudiant à temps plein, le plafond pour la province du prêt d’études visé par les règlements pris en vertu de l’alinéa 15(1)j) est le moindre des éléments suivants :
 	- **a)** le montant qui représente le plafond réglementaire pour la province;
-	- **b)** le produit des éléments suivants :
+	- **b)** le produit des éléments suivants :
 		- **(i)** le montant visé au paragraphe (2),
 		- **(ii)** le pourcentage réglementaire pour la province.
 
@@ -335,6 +348,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Idem**
 
 - **(8)** Le montant maximal de l’aide financière, quand un certificat d’admissibilité n’est pas requis, est fixé par règlement ou calculé conformément aux formules réglementaires.
+> 1994, ch. 28, art. 12; 2008, ch. 28, art. 107 et 110
+
 
 
 
@@ -372,19 +387,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Calcul du paiement**
 
-- **(4)** Le montant compensatoire versé pour toute année de prêt — appelée « année courante » au présent paragraphe — est déterminé par le ministre, après consultation du statisticien en chef du Canada, par application de la formule suivante :
-	- **a)** d’abord multiplication de l’élément visé au sous-alinéa (i) par celui visé au sous-alinéa (ii) :
+- **(4)** Le montant compensatoire versé pour toute année de prêt — appelée « année courante » au présent paragraphe — est déterminé par le ministre, après consultation du statisticien en chef du Canada, par application de la formule suivante :
+	- **a)** d’abord multiplication de l’élément visé au sous-alinéa (i) par celui visé au sous-alinéa (ii) :
 		- **(i)** le coût net par tête pour les provinces participantes pendant l’année de prêt 1990-1991,
 		- **(ii)** le produit du nombre estimatif de personnes dans cette province qui, le premier jour de l’année courante, sont âgées d’au moins dix-huit ans et de moins de vingt-cinq ans et du facteur de progression déterminé en conformité avec le paragraphe (5) pour chaque année de prêt comprise dans la période allant du 1<sup>er</sup> août 1991 au 31 juillet de l’année courante;
 	- **b)** puis calcul de la différence entre le produit obtenu conformément à l’alinéa a) et le coût net pour cette province durant l’année courante.
 
 **Facteur de progression**
 
-- **(5)** Pour l’application du sous-alinéa (4)a)(ii) :
-	- **a)** sous réserve de l’alinéa b), le facteur de progression retenu pour une année de prêt est une fraction dont :
+- **(5)** Pour l’application du sous-alinéa (4)a)(ii) :
+	- **a)** sous réserve de l’alinéa b), le facteur de progression retenu pour une année de prêt est une fraction dont :
 		- **(i)** le numérateur est le coût net par tête pour les provinces participantes pendant l’année en question,
 		- **(ii)** le dénominateur est le coût net par tête pour les provinces participantes pendant l’année de prêt précédente;
-	- **b)** le facteur de progression retenu pour la première année de prêt pendant laquelle un régime provincial de prêts d’études est en vigueur, conformément à l’avis requis au titre du paragraphe (1), est une fraction dont :
+	- **b)** le facteur de progression retenu pour la première année de prêt pendant laquelle un régime provincial de prêts d’études est en vigueur, conformément à l’avis requis au titre du paragraphe (1), est une fraction dont :
 		- **(i)** le numérateur est le coût net par tête pendant cette première année pour les provinces participantes,
 		- **(ii)** le dénominateur est le coût net par tête pendant l’année de prêt précédente pour les provinces participantes au cours de cette première année.
 
@@ -392,64 +407,50 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(6)** Les définitions qui suivent s’appliquent au présent article.
 
-***coût net*** À l’égard d’une province, pour une année de prêt, le montant obtenu par la formule suivante :
+***coût net*** À l’égard d’une province, pour une année de prêt, le montant obtenu par la formule suivante :
 ```
 (A + B) - (C + D)
 ```
 où :
-- **A** représente le total estimatif des sommes que le ministre a, au cours de cette année, payées tant aux prêteurs, fournisseurs de services ou institutions financières, conformément soit à la présente loi, aux règlements ou à l’accord conclu entre eux en vertu des articles 5, 6.2 ou 6.3, soit à la [Loi fédérale sur les prêts aux étudiants](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-23.md) et à ses règlements, qu’aux agences de recouvrement, pour les prêts d’études et les prêts garantis consentis sur la foi des certificats d’admissibilité délivrés au cours d’une année de prêt par l’autorité compétente de la province, ainsi que le total estimatif des sommes versées aux personnes visées à l’alinéa 15p), à l’exclusion toutefois des sommes versées dans le cadre de l’alinéa 5e) ou des règlements pris conformément à l’alinéa 15o) qui prévoient le remboursement de prêts d’études en fonction du revenu et des sommes payées, en vertu du sous-alinéa 18b)(ii), au titre de la quote-part provinciale;
+- **A** représente le total estimatif des sommes que le ministre a, au cours de cette année, payées tant aux prêteurs, fournisseurs de services ou institutions financières, conformément soit à la présente loi, aux règlements ou à l’accord conclu entre eux en vertu des articles 5, 6.2 ou 6.3, soit à la [Loi fédérale sur les prêts aux étudiants](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-23.md) et à ses règlements, qu’aux agences de recouvrement, pour les prêts d’études et les prêts garantis consentis sur la foi des certificats d’admissibilité délivrés au cours d’une année de prêt par l’autorité compétente de la province, ainsi que le total estimatif des sommes versées aux personnes visées à l’alinéa 15(1)p), à l’exclusion toutefois des sommes versées dans le cadre de l’alinéa 5e) ou des règlements pris conformément à l’alinéa 15(1)o) qui prévoient le remboursement de prêts d’études en fonction du revenu et des sommes payées, en vertu du sous-alinéa 18b)(ii), au titre de la quote-part provinciale;
 - **B** le total estimatif des sommes suivantes :
-- **a)
-** le montant des intérêts calculés, pour cette année, en fonction du taux précisé en vertu du paragraphe 20(2), relativement aux prêts impayés visés à l’élément A et consentis sous le régime de l’article 6.1;
-- **b)
-** le montant dont est réduit, au cours de cette année, en conformité avec les règlements, le principal impayé des prêts visés à l’alinéa 
-a);
-- **c)
-** le montant représentant le principal et l’intérêt impayés des prêts visés à l’alinéa 
-a) relativement auxquels les obligations de l’emprunteur s’éteignent, au cours de cette année, en raison de son décès ou de son invalidité;
-- **d)
-** le montant représentant le principal et l’intérêt impayés des prêts visés à l’alinéa 
-a) pour lesquels le ministre prend, au cours de cette année, des mesures de recouvrement, dont est réduit le montant représentant le principal et l’intérêt impayés de ces prêts pour lesquels il met fin à des mesures de recouvrement au cours de cette même année en raison de la survenance de faits qui, conformément aux règlements, entraînent la levée des restrictions à l’octroi d’une aide financière;
-- **C** le total estimatif des sommes perçues, au cours de cette année, par Sa Majesté du chef du Canada ou pour son compte, notamment sous le régime de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), à l’égard des prêts visés à l’élément A — sauf ceux consentis sous le régime de l’article 6.1 — , à l’exclusion des sommes perçues dans le cadre de l’alinéa 5e) ou des règlements pris conformément à l’alinéa 15o) qui prévoient le remboursement de prêts d’études en fonction du revenu et des sommes reçues, en vertu du sous-alinéa 18b)(ii), au titre de la quote-part provinciale;
-- **D** le total estimatif des intérêts perçus, au cours de cette année, par Sa Majesté du chef du Canada ou pour son compte, relativement aux prêts visés à l’élément A et consentis sous le régime de l’article 6.1 et des sommes perçues, au cours de cette année, au moyen des mesures de recouvrement prises par le ministre à l’égard de tels prêts.
+- **a)** le montant des intérêts calculés, pour cette année, en fonction du taux précisé en vertu du paragraphe 20(2), relativement aux prêts impayés visés à l’élément A et consentis sous le régime de l’article 6.1;
+- **b)** le montant dont est réduit, au cours de cette année, en conformité avec les règlements, le principal impayé des prêts visés à l’alinéa a);
+- **c)** le montant représentant le principal et l’intérêt impayés des prêts visés à l’alinéa a) relativement auxquels les obligations de l’emprunteur s’éteignent, au cours de cette année, en raison de son décès ou de son invalidité;
+- **d)** le montant représentant le principal et l’intérêt impayés des prêts visés à l’alinéa a) pour lesquels le ministre prend, au cours de cette année, des mesures de recouvrement, dont est réduit le montant représentant le principal et l’intérêt impayés de ces prêts pour lesquels il met fin à des mesures de recouvrement au cours de cette même année en raison de la survenance de faits qui, conformément aux règlements, entraînent la levée des restrictions à l’octroi d’une aide financière;
+- **C** le total estimatif des sommes perçues, au cours de cette année, par Sa Majesté du chef du Canada ou pour son compte, notamment sous le régime de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), à l’égard des prêts visés à l’élément A — sauf ceux consentis sous le régime de l’article 6.1 — , à l’exclusion des sommes perçues dans le cadre de l’alinéa 5e) ou des règlements pris conformément à l’alinéa 15(1)o) qui prévoient le remboursement de prêts d’études en fonction du revenu et des sommes reçues, en vertu du sous-alinéa 18b)(ii), au titre de la quote-part provinciale;
+- **D** le total estimatif des intérêts perçus, au cours de cette année, par Sa Majesté du chef du Canada ou pour son compte, relativement aux prêts visés à l’élément A et consentis sous le régime de l’article 6.1 et des sommes perçues, au cours de cette année, au moyen des mesures de recouvrement prises par le ministre à l’égard de tels prêts. (*net costs*)
 
-***coût net par tête*** À l’égard des provinces participantes pour une année de prêt, la fraction dont :
+***coût net par tête*** À l’égard des provinces participantes pour une année de prêt, la fraction dont :
 - **a)** le numérateur est la différence entre le coût net total du programme pour l’année en question et le total des coûts nets pendant celle-ci pour les provinces non participantes;
-- **b)** le dénominateur est le nombre estimatif de personnes dans les provinces participantes qui, le premier jour de l’année en question, sont âgées d’au moins dix-huit ans et de moins de vingt-cinq ans.
+- **b)** le dénominateur est le nombre estimatif de personnes dans les provinces participantes qui, le premier jour de l’année en question, sont âgées d’au moins dix-huit ans et de moins de vingt-cinq ans. (*net per capita costs*)
 
-***coût net total du programme*** Pour une année de prêt, le montant obtenu par la formule suivante :
+***coût net total du programme*** Pour une année de prêt, le montant obtenu par la formule suivante :
 ```
 (A + B) - (C + D)
 ```
 où :
-- **A** représente le total des sommes que le ministre a, au cours de cette année, payées tant aux prêteurs, fournisseurs de services ou institutions financières, conformément soit à la présente loi, aux règlements ou à l’accord conclu entre eux en vertu des articles 5, 6.2 ou 6.3, soit à la [Loi fédérale sur les prêts aux étudiants](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-23.md) et à ses règlements, qu’aux agences de recouvrement, pour les prêts d’études et les prêts garantis consentis sur la foi des certificats d’admissibilité délivrés au cours d’une année de prêt par les autorités compétentes des provinces participantes, ainsi que le total des sommes versées aux personnes visées à l’alinéa 15p), à l’exclusion toutefois des sommes versées dans le cadre de l’alinéa 5e) ou des règlements pris conformément à l’alinéa 15o) qui prévoient le remboursement de prêts d’études en fonction du revenu et des sommes payées, en vertu du sous-alinéa 18b)(ii), au titre de la quote-part provinciale;
+- **A** représente le total des sommes que le ministre a, au cours de cette année, payées tant aux prêteurs, fournisseurs de services ou institutions financières, conformément soit à la présente loi, aux règlements ou à l’accord conclu entre eux en vertu des articles 5, 6.2 ou 6.3, soit à la [Loi fédérale sur les prêts aux étudiants](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-23.md) et à ses règlements, qu’aux agences de recouvrement, pour les prêts d’études et les prêts garantis consentis sur la foi des certificats d’admissibilité délivrés au cours d’une année de prêt par les autorités compétentes des provinces participantes, ainsi que le total des sommes versées aux personnes visées à l’alinéa 15(1)p), à l’exclusion toutefois des sommes versées dans le cadre de l’alinéa 5e) ou des règlements pris conformément à l’alinéa 15(1)o) qui prévoient le remboursement de prêts d’études en fonction du revenu et des sommes payées, en vertu du sous-alinéa 18b)(ii), au titre de la quote-part provinciale;
 - **B** le total des sommes suivantes :
-- **a)
-** le montant estimatif des intérêts calculés, pour cette année, en fonction du taux précisé en vertu du paragraphe 20(2), relativement aux prêts impayés visés à l’élément A et consentis sous le régime de l’article 6.1;
-- **b)
-** le montant dont est réduit, au cours de cette année, en conformité avec les règlements, le principal impayé des prêts visés à l’alinéa 
-a);
-- **c)
-** le montant représentant le principal et l’intérêt impayés des prêts visés à l’alinéa 
-a) relativement auxquels les obligations de l’emprunteur s’éteignent, au cours de cette année, en raison de son décès ou de son invalidité;
-- **d)
-** le montant représentant le principal et l’intérêt impayés des prêts visés à l’alinéa 
-a) pour lesquels le ministre prend, au cours de cette année, des mesures de recouvrement, dont est réduit le montant représentant le principal et l’intérêt impayés de ces prêts pour lesquels il met fin à des mesures de recouvrement au cours de cette même année en raison de la survenance de faits qui, conformément aux règlements, entraînent la levée des restrictions à l’octroi d’une aide financière;
-- **C** le total des sommes perçues, au cours de cette année, par Sa Majesté du chef du Canada ou pour son compte, notamment sous le régime de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), à l’égard des prêts visés à l’élément A — sauf ceux consentis sous le régime de l’article 6.1 — , à l’exclusion des sommes perçues dans le cadre de l’alinéa 5e) ou des règlements pris conformément à l’alinéa 15o) qui prévoient le remboursement de prêts d’études en fonction du revenu et des sommes reçues, en vertu du sous-alinéa 18b)(ii), au titre de la quote-part provinciale;
-- **D** le total des intérêts perçus, au cours de cette année, par Sa Majesté du chef du Canada ou pour son compte, relativement aux prêts visés à l’élément A et consentis sous le régime de l’article 6.1 et des sommes perçues, au cours de cette année, au moyen des mesures de recouvrement prises par le ministre à l’égard de tels prêts.
+- **a)** le montant estimatif des intérêts calculés, pour cette année, en fonction du taux précisé en vertu du paragraphe 20(2), relativement aux prêts impayés visés à l’élément A et consentis sous le régime de l’article 6.1;
+- **b)** le montant dont est réduit, au cours de cette année, en conformité avec les règlements, le principal impayé des prêts visés à l’alinéa a);
+- **c)** le montant représentant le principal et l’intérêt impayés des prêts visés à l’alinéa a) relativement auxquels les obligations de l’emprunteur s’éteignent, au cours de cette année, en raison de son décès ou de son invalidité;
+- **d)** le montant représentant le principal et l’intérêt impayés des prêts visés à l’alinéa a) pour lesquels le ministre prend, au cours de cette année, des mesures de recouvrement, dont est réduit le montant représentant le principal et l’intérêt impayés de ces prêts pour lesquels il met fin à des mesures de recouvrement au cours de cette même année en raison de la survenance de faits qui, conformément aux règlements, entraînent la levée des restrictions à l’octroi d’une aide financière;
+- **C** le total des sommes perçues, au cours de cette année, par Sa Majesté du chef du Canada ou pour son compte, notamment sous le régime de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), à l’égard des prêts visés à l’élément A — sauf ceux consentis sous le régime de l’article 6.1 — , à l’exclusion des sommes perçues dans le cadre de l’alinéa 5e) ou des règlements pris conformément à l’alinéa 15(1)o) qui prévoient le remboursement de prêts d’études en fonction du revenu et des sommes reçues, en vertu du sous-alinéa 18b)(ii), au titre de la quote-part provinciale;
+- **D** le total des intérêts perçus, au cours de cette année, par Sa Majesté du chef du Canada ou pour son compte, relativement aux prêts visés à l’élément A et consentis sous le régime de l’article 6.1 et des sommes perçues, au cours de cette année, au moyen des mesures de recouvrement prises par le ministre à l’égard de tels prêts. (*total program net costs*)
 
 **Exception**
 
 - **(7)** Les sommes ci-après ne sont prises en compte pour le calcul visé aux définitions de ***coût net*** ou ***coût net total du programme*** au paragraphe (6) que si le gouvernement de la province convainc le ministre, dans un avis qui doit lui parvenir avant le début de l’année de prêt, que les effets de son régime d’aide financière aux étudiants sont essentiellement les mêmes, dans chacun des domaines visés, que ceux du régime fédéral établi par la présente loi et ses règlements :
 	- **a)** les sommes résultant de l’application du sous-alinéa 5a)(viii) ou des articles 7, 10 et 11;
-	- **b)** celles résultant de la mise en oeuvre de programmes établis par règlement pris en vertu des alinéas 15l), m), n) ou p);
-	- **c)** dans le cas des prêts consentis sous le régime de l’article 6.1, les sommes relatives à l’extinction des obligations de l’emprunteur conformément aux articles 10.1 ou 11.1 ou à la réduction du principal impayé conformément aux règlements pris en vertu de l’alinéa 15o) autres que les règlements qui prévoient le remboursement des prêts en fonction du revenu;
+	- **b)** celles résultant de la mise en oeuvre de programmes établis par règlement pris en vertu des alinéas 15(1)l), m), n) ou p);
+	- **c)** dans le cas des prêts consentis sous le régime de l’article 6.1, les sommes relatives à l’extinction des obligations de l’emprunteur conformément aux articles 10.1 ou 11.1 ou à la réduction du principal impayé conformément aux règlements pris en vertu de l’alinéa 15(1)o) autres que les règlements qui prévoient le remboursement des prêts en fonction du revenu;
 	- **d)** celles résultant de la mise en oeuvre de programmes établis par règlement pris en vertu de l’article 11 de la [Loi fédérale sur les prêts aux étudiants](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-23.md).
 
 **Montants négatifs**
 
 - **(8)** Si le montant calculé conformément à la formule « (A + B) - (C + D) » au paragraphe (6) est négatif, il est considéré comme égal à zéro.
-> 1994, ch. 28, art. 14; 2000, ch. 14, art. 19; 2003, ch. 15, art. 10; 2005, ch. 30, art. 112
+> 1994, ch. 28, art. 14; 2000, ch. 14, art. 19; 2003, ch. 15, art. 10; 2005, ch. 30, art. 112; 2008, ch. 28, art. 110
 
 
 
@@ -461,30 +462,38 @@ a) pour lesquels le ministre prend, au cours de cette année, des mesures de rec
 
 **Règlements**
 
-**15** Le gouverneur en conseil peut, par règlement :
-- **a)** définir les termes énumérés au paragraphe 2(2);
-- **b)** prévoir la possibilité de cession entre prêteurs de contrats de prêt d’études qu’ils ont conclus avec les emprunteurs, et préciser les conditions et effets de la cession;
-- **c)** prévoir les modalités de transfert de contrats de prêt d’études entre succursales d’un même prêteur, et préciser les conditions et effets du transfert;
-- **d)** prévoir les modalités permettant l’établissement du certificat d’admissibilité et déterminer les dispositions à y inclure;
-- **e)** prévoir les conditions à remplir par un étudiant admissible préalablement au versement du prêt d’études;
-- **e.1)** définir, pour l’application de l’article 6.3, ce qu’est une institution financière et prévoir les circonstances dans lesquelles elle peut verser aux étudiants admissibles les sommes prêtées;
-- **f)** fixer, pour les prêts consentis à un étudiant à temps plein, le nombre maximal de semaines ou de périodes d’études après lesquelles, par dérogation aux autres dispositions de la présente loi, l’emprunteur doit commencer à payer le principal et les intérêts du prêt;
-- **g)** déterminer dans quelles circonstances un emprunteur est étudiant à temps plein ou cesse de l’être;
-- **h)** prendre des mesures concernant la subrogation de Sa Majesté du chef du Canada dans les droits d’un prêteur;
-- **i)** déterminer les cas justifiant l’annulation de l’exemption du paiement d’intérêt prévue au paragraphe 7(1) ou le refus d’un prêt d’études ou d’un certificat d’admissibilité;
-- **j)** prévoir le ou les prêts d’études auxquels s’appliquent les articles 7, 8, 10 et 11 et le paragraphe 12(4);
-- **k)** régir les circonstances dans lesquelles les prêts d’études ne portent pas intérêt pour les membres de la force de réserve;
-- **k.1)** régir les circonstances dans lesquelles il ne peut y avoir de frais afférents aux prêts d’études des membres de la force de réserve;
-- **k.2)** régir les circonstances dans lesquelles le paiement du principal ou des intérêts des prêts d’études consentis aux membres de la force de réserve peuvent être différés;
-- **k.3)** régir le paiement des intérêts prévu au paragraphe 9(2);
-- **l)** prévoir, avec ou sans condition, le remboursement, ainsi que son mode de calcul, au prêteur par le ministre du montant d’une partie du prêt d’études et la décharge correspondante en ce qui concerne l’étudiant à temps plein ou à temps partiel;
-- **m)** prévoir, malgré toute autre disposition de la présente loi, dans le cas d’un étudiant à temps partiel, les modalités d’application d’un programme de prêts d’études, notamment en ce qui concerne la détermination de son statut, le remboursement de prêts ou les avances de fonds ainsi que le nombre maximal de semaines ou de périodes d’études après lesquelles l’emprunteur doit commencer à payer le principal et les intérêts du prêt;
-- **n)** prévoir l’élaboration et la mise en oeuvre d’un programme d’exemptions totales ou partielles, pendant des périodes spéciales, pour le paiement d’intérêts — ainsi que la conclusion, prorogation ou modification correspondante des accords entre emprunteurs et prêteurs — , en fixer les conditions de même que les modalités de cessation et déléguer aux prêteurs le pouvoir de les accorder, d’y mettre fin et de gérer le programme;
-- **o)** prévoir l’élaboration et la mise en oeuvre pour une province soit d’un dispositif de prêt — financé par Sa Majesté du chef du Canada ou son mandataire — dont le remboursement peut être fonction du revenu, soit d’un tel programme de remboursement;
-- **p)** prévoir l’élaboration et la mise en oeuvre de programmes d’attribution de bourses et d’attribution de bourses supplémentaires pour les étudiants admissibles dont les besoins d’aide financière sont supérieurs à ce que prévoit le plafond de l’aide financière qui peut leur être octroyée, et les catégories de personnes pouvant en bénéficier;
-- **q)** prendre toute autre mesure d’ordre réglementaire prévue par la présente loi;
-- **r)** de façon générale, prendre toute autre mesure d’application de la présente loi.
-> 1994, ch. 28, art. 15; 1998, ch. 21, art. 100; 2000, ch. 14, art. 20; 2005, ch. 34, art. 63; 2008, ch. 15, art. 3
+**15** 
+
+- **(1)** Le gouverneur en conseil peut, par règlement :
+	- **a)** définir les termes énumérés au paragraphe 2(2);
+	- **b)** prévoir la possibilité de cession entre prêteurs de contrats de prêt d’études qu’ils ont conclus avec les emprunteurs, et préciser les conditions et effets de la cession;
+	- **c)** prévoir les modalités de transfert de contrats de prêt d’études entre succursales d’un même prêteur, et préciser les conditions et effets du transfert;
+	- **d)** prévoir les modalités permettant l’établissement du certificat d’admissibilité et déterminer les dispositions à y inclure;
+	- **d.1)** régir la délivrance des certificats d’admissibilité et prévoir leur remise subséquente par ceux à qui ils ont été délivrés;
+	- **e)** prévoir les conditions à remplir préalablement au versement du prêt d’études;
+	- **e.1)** définir, pour l’application de l’article 6.3, ce qu’est une institution financière et prévoir les circonstances dans lesquelles elle peut verser aux étudiants admissibles les sommes prêtées;
+	- **f)** fixer, pour les prêts consentis à un étudiant à temps plein, le nombre maximal de semaines ou de périodes d’études après lesquelles, par dérogation aux autres dispositions de la présente loi, l’emprunteur doit commencer à payer le principal et les intérêts du prêt;
+	- **f.1)** régir les circonstances dans lesquelles le paiement du principal ou des intérêts des prêts d’études peut être différé;
+	- **g)** déterminer dans quelles circonstances un emprunteur est étudiant à temps plein ou cesse de l’être;
+	- **h)** prendre des mesures concernant la subrogation de Sa Majesté du chef du Canada dans les droits d’un prêteur;
+	- **i)** déterminer les cas justifiant l’annulation de l’exemption du paiement d’intérêt prévue au paragraphe 7(1) ou le refus d’un prêt d’études ou d’un certificat d’admissibilité;
+	- **j)** prévoir le ou les prêts d’études auxquels s’appliquent les articles 7, 8, 10 et 11 et le paragraphe 12(4);
+	- **k)** régir les circonstances dans lesquelles les prêts d’études ne portent pas intérêt pour les membres de la force de réserve;
+	- **k.1)** régir les circonstances dans lesquelles il ne peut y avoir de frais afférents aux prêts d’études des membres de la force de réserve;
+	- **k.2)** régir les circonstances dans lesquelles le paiement du principal ou des intérêts des prêts d’études consentis aux membres de la force de réserve peuvent être différés;
+	- **k.3)** régir le paiement des intérêts prévu au paragraphe 9(2);
+	- **l)** prévoir, avec ou sans condition, le remboursement, ainsi que son mode de calcul, au prêteur par le ministre du montant d’une partie du prêt d’études et la décharge correspondante en ce qui concerne l’étudiant à temps plein ou à temps partiel;
+	- **m)** prévoir, malgré toute autre disposition de la présente loi, dans le cas d’un étudiant à temps partiel, les modalités d’application d’un programme de prêts d’études, notamment en ce qui concerne la détermination de son statut, le remboursement de prêts ou les avances de fonds ainsi que le nombre maximal de semaines ou de périodes d’études après lesquelles l’emprunteur doit commencer à payer le principal et les intérêts du prêt;
+	- **n)** prévoir l’élaboration et la mise en oeuvre d’un programme d’exemptions totales ou partielles, pendant des périodes spéciales, pour le paiement d’intérêts par les emprunteurs ou par des catégories d’emprunteurs — ainsi que la conclusion, prorogation ou modification correspondante des accords entre emprunteurs et prêteurs —, en fixer les conditions de même que les modalités de cessation et autoriser les prêteurs à accorder de telles exemptions et y mettre fin et à gérer le programme;
+	- **o)** prévoir l’élaboration et la mise en oeuvre pour une province soit d’un dispositif de prêt — financé par Sa Majesté du chef du Canada ou son mandataire — dont le remboursement par les emprunteurs ou par des catégories d’emprunteurs peut être fonction du revenu, soit d’un tel programme de remboursement;
+	- **p)** prévoir l’élaboration et la mise en oeuvre de programmes d’attribution de bourses et d’attribution de bourses supplémentaires pour les étudiants admissibles dont les besoins d’aide financière sont supérieurs au plafond d’aide financière pouvant leur être octroyé, les catégories de personnes pouvant en bénéficier et les circonstances dans lesquelles ces bourses doivent être, en tout ou en partie, remboursées ou converties en prêts;
+	- **q)** prendre toute autre mesure d’ordre réglementaire prévue par la présente loi;
+	- **r)** de façon générale, prendre toute autre mesure d’application de la présente loi.
+
+**Systèmes électroniques**
+
+- **(2)** Il peut en outre prendre des règlements prévoyant l’établissement et l’exploitation de systèmes électroniques qui fournissent de l’information sur l’assistance financière aux étudiants admissibles ou aux emprunteurs et qui peuvent recevoir de ceux-ci des renseignements et prévoyant les opérations pouvant être effectuées à l’égard de cette assistance financière au moyen de ces systèmes.
+> 1994, ch. 28, art. 15; 1998, ch. 21, art. 100; 2000, ch. 14, art. 20; 2005, ch. 34, art. 63; 2008, ch. 15, art. 3, ch. 28, art. 108
 
 
 
@@ -497,6 +506,35 @@ a) pour lesquels le ministre prend, au cours de cette année, des mesures de rec
 **Formulaires et renseignements**
 
 **16** Les formulaires et autres documents à utiliser dans le cadre de l’octroi d’aide financière aux étudiants ou de nature à favoriser l’application de la présente loi, de même que les renseignements à fournir dans ces documents, en plus de ceux exigés par la présente loi ou les règlements, sont, selon le cas, déterminés par le ministre ou assujettis à son approbation.
+
+
+
+
+**Droit de recouvrement par le ministre**
+
+**16.01** Le ministre peut recouvrer un prêt consenti à un emprunteur mineur au titre d’un accord conclu en vertu de l’article 6.1, ainsi que les intérêts afférents, comme si l’emprunteur avait été majeur au moment où l’accord a été conclu.
+> 2008, ch. 28, art. 109
+
+
+
+
+
+**Renonciation**
+
+**16.02** À la demande d’un étudiant admissible ou d’un emprunteur, le ministre peut, pour éviter qu’un préjudice injustifié ne soit causé à celui-ci, l’exempter de l’obligation :
+- **a)** de respecter les délais prévus par règlement en ce qui a trait à la remise de sa confirmation d’inscription ou de son certificat d’admissibilité;
+- **b)** de respecter les modalités — de forme et autres — prévues par règlement, ou déterminées ou approuvées par le ministre, selon lesquelles les renseignements à son égard doivent être fournis.
+> 2008, ch. 28, art. 109
+
+
+
+
+
+**Refus d’aide financière en raison d’une erreur**
+
+**16.03** S’il est convaincu qu’en raison d’une erreur commise dans le cadre de l’application de la présente loi ou des règlements une personne s’est vu refuser l’aide financière à laquelle elle aurait eu droit, le ministre peut prendre des mesures correctives pour la placer dans la situation où elle se retrouverait sous l’autorité de la présente loi s’il n’y avait pas eu erreur.
+> 2008, ch. 28, art. 109
+
 
 
 
