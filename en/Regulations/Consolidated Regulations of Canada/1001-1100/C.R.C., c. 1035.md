@@ -446,7 +446,7 @@ shall not be regarded as a place where bait has been deposited.
 
 **15** 
 
-- **(1)** Subject to subsections (4) and (5) and sections 23.1 and 23.2, no person shall hunt a migratory bird
+- **(1)** Subject to subsections (4) and (5) and section 23.1, no person shall hunt a migratory bird
 	- **(a)** except with a long bow and arrow or with a shotgun not larger than number 10 gauge;
 	- **(b)** by the use or aid of live birds, including non-migratory birds;
 	- **(c)** by the use or aid of recorded bird calls, except as permitted in any part of Schedule I;
@@ -470,7 +470,7 @@ shall not be regarded as a place where bait has been deposited.
 - **(6)** Notwithstanding paragraph (1)(a), migratory game birds may be hunted with the aid of raptors in any area of a province that is designated by the province as an area in which persons may hunt with the aid of raptors.
 
 - **(7)** [Repealed, SOR/99-147, s. 4]
-> SOR/79-544, s. 7; SOR/82-703, s. 5; SOR/85-694, s. 4; SOR/93-431, s. 3; SOR/98-527, s. 1; SOR/99-147, s. 4; SOR/2000-331, ss. 2, 3; SOR/2002-80, s. 1.
+> SOR/79-544, s. 7; SOR/82-703, s. 5; SOR/85-694, s. 4; SOR/93-431, s. 3; SOR/98-527, s. 1; SOR/99-147, s. 4; SOR/2000-331, ss. 2, 3; SOR/2002-80, s. 1; SOR/2008-217, s. 1.
 
 
 
@@ -876,25 +876,29 @@ to kill on the airport migratory birds that are considered by such manager, comm
 <tr>
 <th>Item</th>
 <th>Area</th>
-<th>Ducks, Including Mergansers (Other Than Long-tailed Ducks<sup><a href='#footnotestar1_e'>[*]</a></sup>, Harlequin Ducks, Eiders and Scoters), Geese and Snipe</th>
-<th>Long-tailed Ducks<sup><a href='#footnotestar1_e'>[*]</a></sup>, Eiders and Scoters</th>
+<th>Ducks, Including Mergansers (Other Than Long-tailed Ducks, Harlequin Ducks, Eiders and Scoters), Geese and Snipe</th>
+<th>Long-tailed Ducks, Eiders and Scoters</th>
 </tr>
 <tr>
 <td>1</td>
 <td>All Coastal Zones</td>
-<td>Third Saturday of September to last Saturday of December</td>
+<td>Second Saturday of September (Waterfowler Heritage Day)</td>
 <td>Fourth Saturday of November to the last day of February</td>
+</tr>
+<tr>
+<td>Third Saturday of September to last Saturday of December</td>
 </tr>
 <tr>
 <td>2</td>
 <td>All Inland Zones</td>
-<td>Third Saturday of September to last Saturday of December</td>
+<td>Second Saturday of September (Waterfowler Heritage Day)</td>
 <td>No open season</td>
+</tr>
+<tr>
+<td>Third Saturday of September to last Saturday of December</td>
 </tr>
 </table>
 
-
-<a name='footnotestar1_e'><sup>*</sup></a>: Long-tailed Duck is the current name for Oldsquaw.<br />
 
 
 
@@ -940,9 +944,9 @@ to kill on the airport migratory birds that are considered by such manager, comm
 <h4>Bag and Possession Limits On the Island of Newfoundland</h4>
 <tr>
 <th>Limits</th>
-<th>Ducks (Other Than Mergansers, Long-tailed Ducks<sup><a href='#footnotestar2_e'>[*]</a></sup>, Harlequin Ducks, Eiders and Scoters)</th>
+<th>Ducks (Other Than Mergansers, Long-tailed Ducks, Harlequin Ducks, Eiders and Scoters)</th>
 <th>Mergansers</th>
-<th>Long-tailed Ducks<sup><a href='#footnotestar2_e'>[*]</a></sup>, Eiders and Scoters</th>
+<th>Long-tailed Ducks, Eiders and Scoters</th>
 <th>Geese</th>
 <th>Snipe</th>
 </tr>
@@ -983,8 +987,6 @@ to kill on the airport migratory birds that are considered by such manager, comm
 </table>
 
 
-<a name='footnotestar2_e'><sup>*</sup></a>: Long-tailed Duck is the current name for Oldsquaw.<br />
-
 
 
 
@@ -1018,8 +1020,11 @@ to kill on the airport migratory birds that are considered by such manager, comm
 <tr>
 <td>3</td>
 <td>Southern Labrador Zone</td>
-<td>Second Saturday in September to third Saturday in December</td>
+<td>First Saturday in September (Waterfowler Heritage Day)</td>
 <td>Fourth Saturday in November to last day of February</td>
+</tr>
+<tr>
+<td>Second Saturday in September to third Saturday in December</td>
 </tr>
 <tr>
 <td>4</td>
@@ -1117,7 +1122,7 @@ to kill on the airport migratory birds that are considered by such manager, comm
 <tr>
 <td>2</td>
 <td>Zone No. 2</td>
-<td>October 7 to January 20</td>
+<td>October 6 to January 20</td>
 </tr>
 <tr>
 <td>3</td>
@@ -1199,9 +1204,9 @@ to kill on the airport migratory birds that are considered by such manager, comm
 <tr>
 <td>1</td>
 <td>Throughout Prince Edward Island</td>
-<td>September 15 (Waterfowler Heritage Day)</td>
+<td>Third Saturday of September (Waterfowler Heritage Day)</td>
 <td>First Monday of October to second Saturday of December</td>
-<td>Last Monday in September to second Saturday in December</td>
+<td>Last Monday of September to second Saturday of December</td>
 </tr>
 </table>
 
@@ -1283,7 +1288,7 @@ TABLE I.1
 <th>Ducks (Other Than Harlequin Ducks) and Geese</th>
 <th>Ducks (Other Than Harlequin Ducks)</th>
 <th>Additional Seasons for Common and Red-breasted Mergansers</th>
-<th>Additional Seasons for Long-tailed Ducks<sup><a href='#fn_Ind7418_hq_4652'>[*]</a></sup>, Eiders and Scoters (in Coastal Waters Only)</th>
+<th>Additional Seasons for Long-tailed Ducks, Eiders and Scoters (in Coastal Waters Only)</th>
 <th>Additional Seasons for Scaup, Goldeneyes and Buffleheads</th>
 <th>Geese</th>
 <th>Woodcock and Snipe</th>
@@ -1291,7 +1296,7 @@ TABLE I.1
 <tr>
 <td>1</td>
 <td>Zone No. 1</td>
-<td>September 22 (Waterfowler Heritage Day)</td>
+<td>Third Saturday of September (Waterfowler Heritage Day)</td>
 <td>October 1 to December 31</td>
 <td>No additional seasons</td>
 <td>No additional seasons</td>
@@ -1302,18 +1307,22 @@ TABLE I.1
 <tr>
 <td>2</td>
 <td>Zone No. 2</td>
-<td>September 22 (Waterfowler Heritage Day)</td>
+<td>Third Saturday of September (Waterfowler Heritage Day)</td>
 <td>October 8 to December 31</td>
-<td>October 1 to 6 and January 1 to 7 (in coastal waters only)</td>
-<td>October 1 to 6 and January 1 to 7</td>
+<td>October 1 to 7 (in coastal waters only)</td>
+<td>October 1 to 7</td>
 <td>January 1 to 7</td>
 <td>October 8 to January 15</td>
 <td>October 1 to November 30</td>
 </tr>
 <tr>
+<td>January 1 to 7 (in coastal waters only)</td>
+<td>January 1 to 7</td>
+</tr>
+<tr>
 <td>3</td>
 <td>Zone No. 3</td>
-<td>September 22 (Waterfowler Heritage Day)</td>
+<td>Third Saturday of September (Waterfowler Heritage Day)</td>
 <td>October 8 to December 31</td>
 <td>January 1 to 7</td>
 <td>No additional seasons</td>
@@ -1323,8 +1332,6 @@ TABLE I.1
 </tr>
 </table>
 
-
-<a name='fn_Ind7418_hq_4652'><sup>*</sup></a>: Long-tailed Duck is the current name for Oldsquaw.<br />
 
 
 
@@ -1362,8 +1369,8 @@ TABLE I.1
 <h4>Bag and Possession Limits in Nova Scotia</h4>
 <tr>
 <th>Limits</th>
-<th>Ducks (Other Than Common and Red-breasted Mergansers, Long-tailed Ducks<sup><a href='#footnotestar4_e'>[*]</a></sup>, Harlequin Ducks, Eiders and Scoters)</th>
-<th>Common and Red-breasted Mergansers, Long-tailed Ducks<sup><a href='#footnotestar4_e'>[*]</a></sup>, Eiders and Scoters</th>
+<th>Ducks (Other Than Common and Red-breasted Mergansers, Long-tailed Ducks, Harlequin Ducks, Eiders and Scoters)</th>
+<th>Common and Red-breasted Mergansers, Long-tailed Ducks, Eiders and Scoters</th>
 <th>Geese</th>
 <th>Woodcock</th>
 <th>Snipe</th>
@@ -1400,8 +1407,6 @@ TABLE I.1
 </table>
 
 
-<a name='footnotestar4_e'><sup>*</sup></a>: Long-tailed Duck is the current name for Oldsquaw.<br />
-
 
 
 **PART IV** 
@@ -1426,34 +1431,34 @@ TABLE I.1
 <th>Ducks (Other Than Harlequin Ducks) and Geese</th>
 <th>Ducks (Other Than Harlequin Ducks), Geese (Other Than Canada Geese and Cackling Geese) and Snipe</th>
 <th>Canada Geese and Cackling Geese</th>
-<th>Additional Seasons for Common and Red-breasted Mergansers, Long-tailed Ducks<sup><a href='#fn_Ind7418_hq_4653'>[*]</a></sup>, Eiders and Scoters (in Coastal Waters Only)</th>
+<th>Additional Seasons for Common and Red-breasted Mergansers, Long-tailed Ducks, Eiders and Scoters (in Coastal Waters Only)</th>
 <th>Woodcock</th>
 </tr>
 <tr>
 <td>1</td>
 <td>Zone No. 1</td>
-<td>September 15 (Waterfowler Heritage Day)</td>
+<td>Third Saturday of September (Waterfowler Heritage Day)</td>
 <td>October 15 to January 4</td>
-<td>September 4 to September 14 (a) and October 15 to January 4</td>
-<td>February 1 to 23</td>
+<td>For a period of 11 days beginning on the Tuesday after Labour Day Monday (a)</td>
+<td>February 1 to 24</td>
 <td>September 15 to November 30</td>
+</tr>
+<tr>
+<td>October 15 to January 4</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Zone No. 2</td>
-<td>September 15 (Waterfowler Heritage Day)</td>
-<td>October 1 to December 17</td>
-<td>September 4 to September 14 (a) and October 1 to December 17</td>
+<td>Third Saturday of September (Waterfowler Heritage Day)</td>
+<td>October 1 to December 18</td>
+<td>For a period of 11 days beginning on the Tuesday after Labour Day Monday (a)</td>
 <td>No additional seasons</td>
 <td>September 15 to November 30</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>October 1 to December 18</td>
+</tr>
+<tr>
 <td></td>
 </tr>
 <tr>
@@ -1463,8 +1468,6 @@ TABLE I.1
 </tr>
 </table>
 
-
-<a name='fn_Ind7418_hq_4653'><sup>*</sup></a>: Long-tailed Duck is the current name for Oldsquaw.<br />
 
 
 
@@ -1534,8 +1537,8 @@ TABLE I.1
 <h4>Bag and Possession Limits in New Brunswick</h4>
 <tr>
 <th>Limits</th>
-<th>Ducks (Other Than Common and Red-breasted Mergansers, Long-tailed Ducks<sup><a href='#fn_Ind7435_hq_4654'>[*]</a></sup>, Harlequin Ducks, Eiders and Scoters)</th>
-<th>Common and Red-breasted Mergansers, Long-tailed Ducks<sup><a href='#fn_Ind7435_hq_4654'>[*]</a></sup>, Eiders and Scoters</th>
+<th>Ducks (Other Than Common and Red-breasted Mergansers, Long-tailed Ducks, Harlequin Ducks, Eiders and Scoters)</th>
+<th>Common and Red-breasted Mergansers, Long-tailed Ducks, Eiders and Scoters</th>
 <th>Geese</th>
 <th>Woodcock</th>
 <th>Snipe</th>
@@ -1585,14 +1588,12 @@ TABLE I.1
 </td>
 </tr>
 <tr>
-<td>**(e)** Not more than a total of three additional Canada Geese or Cackling Geese, or any combination of these, may be taken daily and not more than a total of six additional Canada Geese or Cackling Geese, or any combination of these, may be possessed from September 4 to September 14 inclusive.
+<td>**(e)** Not more than a total of three additional Canada Geese or Cackling Geese, or any combination of them, may be taken daily and not more than a total of six additional Canada Geese or Cackling Geese, or any combination of them, may be possessed for a period of 11 days beginning of the Tuesday after Labour Day Monday.
 
 </td>
 </tr>
 </table>
 
-
-<a name='fn_Ind7435_hq_4654'><sup>*</sup></a>: Long-tailed Duck is the current name for Oldsquaw.<br />
 
 
 
@@ -1617,9 +1618,9 @@ TABLE I.1
 <th>Item</th>
 <th>Area</th>
 <th>Ducks (Other Than Harlequin Ducks), Geese, Woodcock and Snipe</th>
-<th>Ducks (Other Than Eiders, Harlequin and Long-tailed Ducks<sup><a href='#fn_Ind7435_hq_4656'>[*]</a></sup>), Geese (Other Than Canada Geese, Cackling Geese and Snow Geese) and Snipe</th>
+<th>Ducks (Other Than Eiders, Harlequin and Long-tailed Ducks), Geese (Other Than Canada Geese, Cackling Geese and Snow Geese) and Snipe</th>
 <th>Canada Geese and Cackling Geese</th>
-<th>Eiders and Long-tailed Ducks<sup><a href='#fn_Ind7435_hq_4656'>[*]</a></sup></th>
+<th>Eiders and Long-tailed Ducks</th>
 <th>Coots and Gallinules</th>
 <th>Woodcock</th>
 </tr>
@@ -1636,37 +1637,43 @@ TABLE I.1
 <tr>
 <td>2</td>
 <td>District B</td>
-<td>Second Saturday of September (Waterfowler Heritage Day)</td>
-<td>Third Saturday of September to December 26</td>
-<td>Third Saturday of September to December 26</td>
+<td>The Saturday preceding the opening of the migratory bird hunting season identified in column 3 (Waterfowler Heritage Day)</td>
+<td>For a period of 104 days beginning on the first Saturday after September 11</td>
+<td>The first Saturday after September 11 to the first Saturday after December 25</td>
 <td>October 1 to January 14 (b)</td>
 <td>No open season</td>
-<td>Nearest Saturday that is before or after September 11, or September 11 if that day is a Saturday, to December 22</td>
+<td>For the period beginning on September 11 if that day is a Saturday or, if not, on the nearer Saturday that is before or after September 11 and ending on the first Saturday after December 25</td>
 </tr>
 <tr>
 <td>3</td>
 <td>Districts C, D and E</td>
-<td>Second Saturday of September (Waterfowler Heritage Day)</td>
-<td>Third Saturday of September to December 26 (c)</td>
-<td>September 1 to the Friday before the third Saturday of September (a) and the third Saturday of September to December 16</td>
-<td>Third Saturday of September to December 26</td>
+<td>The Saturday preceding the opening of the migratory bird hunting season identified in column 3 (Waterfowler Heritage Day)</td>
+<td>For a period of 104 days beginning on the first Saturday after September 11 (c)</td>
+<td>September 1 to the Friday before the first Saturday after September 11 (a)</td>
+<td>The first Saturday after September 11 to the first Saturday after December 25</td>
 <td>No open season</td>
-<td>Nearest Saturday that is before or after September 18, or September 18 if that day is a Saturday, to December 26</td>
+<td>For the period beginning on September 18 if that day is a Saturday or, if not, on the nearer Saturday that is before or after September 18 and ending on the first Saturday after December 25</td>
+</tr>
+<tr>
+<td>The first Saturday after September 11 to December 16</td>
 </tr>
 <tr>
 <td>4</td>
-<td>Districts F, G, H and I</td>
-<td>Third Saturday of September (d) (Waterfowler Heritage Day)</td>
-<td>Fourth Saturday of September to December 26 (c)</td>
-<td>September 6 to the Friday before the fourth Saturday of September (a) and the fourth Saturday of September to December 21</td>
-<td>Fourth Saturday of September to December 26</td>
-<td>Fourth Saturday of September to December 26</td>
-<td>Nearest Saturday that is before or after September 18, or September 18 if that day is a Saturday, to December 26</td>
+<td>District F</td>
+<td>The Saturday preceding the opening of the migratory bird hunting season identified in column 3 (d) (Waterfowler Heritage Day)</td>
+<td>For a period of 96 days beginning on the first Saturday after September 18 (c)</td>
+<td>September 6 to the Friday before the first Saturday after September 18 (a)</td>
+<td>The first Saturday after September 18 to the first Saturday after January 1 of the following year</td>
+<td>The first Saturday after September 18 to the first Saturday after January 1 of the following year</td>
+<td>For the period beginning on September 18 if that day is a Saturday or, if not, on the nearer Saturday that is before or after September 18 and ending on the first Saturday after January 1 of the following year</td>
+</tr>
+<tr>
+<td>The first Saturday after September 18 to December 21</td>
 </tr>
 <tr>
 <td>5</td>
-<td>District J</td>
-<td>Second to last Saturday of September (Waterfowler Heritage Day)</td>
+<td>District G</td>
+<td>Second-to-last Saturday of September (Waterfowler Heritage Day)</td>
 <td>Last Saturday of September to December 26</td>
 <td>Last Saturday of September to December 26</td>
 <td>November 1 to February 14</td>
@@ -1677,12 +1684,12 @@ TABLE I.1
 <td></td>
 </tr>
 <tr>
-<td>**(a)** In Districts C, D, E, F, G, H and I, hunting for Canada Geese and Cackling Geese is allowed only on farmland.
+<td>**(a)** In Districts C, D, E and F, hunting for Canada Geese and Cackling Geese is allowed only on farmland.
 
 </td>
 </tr>
 <tr>
-<td>**(b)** In District B along the North Shore west of the Natashquan River, the hunting seasons for eiders and Oldsquaw are from October 1 to October 24 inclusive and from November 15 to February 5 inclusive.
+<td>**(b)** In District B along the North Shore west of the Natashquan River, the hunting season for eiders and Long-tailed Ducks, respectively, begins on October 1 and ends on October 24 and begins on November 15 and ends on February 5.
 
 </td>
 </tr>
@@ -1692,14 +1699,12 @@ TABLE I.1
 </td>
 </tr>
 <tr>
-<td>**(d)** In Districts F, G, H and I, hunting for Coots and Gallinules is allowed during Waterfowler Heritage Day.
+<td>**(d)** In District F, hunting for Coots and Gallinules is allowed during Waterfowler Heritage Day.
 
 </td>
 </tr>
 </table>
 
-
-<a name='fn_Ind7435_hq_4656'><sup>*</sup></a>: Long-tailed Duck is the current name for Oldsquaw.<br />
 
 
 
@@ -1717,31 +1722,23 @@ TABLE I.1
 
 
 
-**(d)** ***District D: Lac Saint-Jean*** means that part of the Province of Quebec included in that portion of Provincial Hunting Zones 18, 21 and 28 lying west of longitude 70°00′ and in that portion of Provincial Hunting Zone 27 lying west of longitude 70°00′ and north of the latitude at the Saint-Siméon wharf to county road 381 and from there north to the limit of District F;
+**(d)** ***District D: Lac Saint-Jean*** means that part of the Province of Quebec included in that portion of Provincial Hunting Zones 18, 21 and 28 lying west of longitude 70°00′ and in that portion of Provincial Hunting Zone 27 lying west of longitude 70°00′ and north of the latitude at the Saint-Siméon wharf to Route 381 and from there to the northern limit of Provincial Hunting Zone 27;
 
 
 
-**(e)** ***District E: Lower St. Lawrence*** means that part of the Province of Quebec included in Provincial Hunting Zone 1; that portion of Hunting Zone 2 lying east of Highway No. 185 to its intersection with du Loup River, and lying east of a line running along the centre of said river to the north end of the Rivière-du-Loup wharf; that portion of Provincial Hunting Zone 28 lying east of longitude 70°00′; that portion of Provincial Hunting Zone 27 lying east of longitude 70°00′ and north of the latitude at the Saint-Siméon wharf; that portion of Provincial Hunting Zone 18 and the waters of the Saguenay lying east of the limit of District D; including the waters of Chaleur Bay, and of the St. Lawrence River lying east of the ferry crossing from Saint-Siméon to Rivière-du-Loup to the boundaries of Districts B and J;
+**(e)** ***District E: Lower St. Lawrence*** means that part of the Province of Quebec included in Provincial Hunting Zone 1; that portion of Hunting Zone 2 lying east of Route 185 to its intersection with du Loup River, and lying east of a line running along the centre of that river to the north end of the Rivière-du-Loup wharf; that portion of Provincial Hunting Zone 28 lying east of longitude 70°00′; that portion of Provincial Hunting Zone 27 lying east of longitude 70°00′ and north of the latitude at the Saint-Siméon wharf; that portion of Provincial Hunting Zone 18 and the waters of the Saguenay lying east of the limit of District D; including the waters of Chaleur Bay, and of the St. Lawrence River lying east of the ferry crossing from Saint-Siméon to Rivière-du-Loup to the boundaries of Districts B and G;
 
 
 
-**(f)** ***District F: Quebec*** means that part of the Province of Quebec included in that portion of Provincial Hunting Zone 2 lying west of District E; Provincial Hunting Zone 3; that portion of Provincial Hunting Zones 26 and 27 lying south of Districts D and E; that portion of Provincial Hunting Zone 7 lying east of District G; that portion of Provincial Hunting Zone 26 lying south of District D and lying east of District H; including the waters of the St. Lawrence River lying west of District E and east of District G;
+**(f)** ***District F: Quebec*** means that part of the Province of Quebec included in that portion of Provincial Hunting Zone 2 lying west of District E; Provincial Hunting Zones 3 to 11 inclusive, 15 and 26; including that portion of Provincial Hunting Zone 27 lying south of Districts D and E; including the waters of the St. Lawrence River lying west of District E; and
 
 
 
-**(g)** ***District G: Lac Saint-Pierre*** means that part of the Province of Quebec included in a quadrilateral limited in the north by Provincial Hunting Zone 7; limited in the east by Highway no. 159, southward to Highway no. 138; from there westward to the middle of the bridge over the Batiscan River, from there by a straight line crossing the St. Lawrence River to join the St-Pierre-Les-Becquets wharf, from there to the junction of Highway no. 132, on Highway no. 132 westward to the junction of Highway no. 218, and on Highway no. 218 to the junction of Highway no. 20; limited in the south by Highway no. 20; and limited in the west by Highway no. 239 to its junction with Highway no. 133, from there northward to its junction with the west limit of Provincial Hunting Zone 7;
+**(g)** ***District G: Îles-de-la-Madeleine*** means the lands and waters included in the County of the Magdalen Islands in the Province of Quebec.
 
 
 
-**(h)** ***District H: Montreal-Outaouais*** means that part of the Province of Quebec included in Provincial Hunting Zone 8 lying south of District G and west of District I, that part of Provincial Hunting Zones 9 to 11 and 15, as well as that portion of Provincial Hunting Zone 26 located west of longitude 73°00′;
-
-
-
-**(i)** ***District I: Cantons de l’Est*** means that part of the Province of Quebec included in Provincial Hunting Zones 4 to 6 inclusive; and
-
-
-
-**(j)** ***District J: Îles-de-la-Madeleine*** means the lands and waters included in the County of the Magdalen Islands in the Province of Quebec.
+**(h) to (j)** [Repealed, SOR/2008-217, s. 12]
 
 
 
@@ -1852,30 +1849,48 @@ TABLE I.1
 <tr>
 <td>2</td>
 <td>District B</td>
-<td>Third Saturday of September to December 26</td>
+<td>First Saturday after September 11 to the first Saturday after December 25</td>
 <td>Recorded bird calls (d), (f)</td>
 </tr>
 <tr>
 <td>3</td>
 <td>Districts C and D</td>
-<td>April 1 to May 31 (a), September 1 to the Friday before the third Saturday of September (a) and the third Saturday of September to December 26</td>
+<td>April 1 to May 31 (a)</td>
 <td>Recorded bird calls (d), (f)</td>
+</tr>
+<tr>
+<td>September 1 to the Friday before the first Saturday after September 11 (a</td>
+</tr>
+<tr>
+<td>the first Saturday after September 11 to the first Saturday after December 25</td>
 </tr>
 <tr>
 <td>4</td>
 <td>District E</td>
-<td>April 1 to May 31 (a), September 1 to the Friday before the third Saturday of September (a) and the third Saturday of September to December 26</td>
+<td>April 1 to May 31 (a)</td>
 <td>Recorded bird calls (d), (f); bait or bait crop area (e)</td>
+</tr>
+<tr>
+<td>September 1 to the Friday before the first Saturday after September 11 (a</td>
+</tr>
+<tr>
+<td>the first Saturday after September 11 to the first Saturday after December 25</td>
 </tr>
 <tr>
 <td>5</td>
-<td>Districts F, G. H and I</td>
-<td>April 1 to May 31 (a), (b), (c), September 6 to the Friday before the fourth Saturday of September (a) and the fourth Saturday of September to December 26</td>
+<td>District F</td>
+<td>April 1 to May 31 (a), (b), (c),</td>
 <td>Recorded bird calls (d), (f); bait or bait crop area (e)</td>
 </tr>
 <tr>
+<td>September 6 to the Friday before the first Saturday after September 18 (a)</td>
+</tr>
+<tr>
+<td>the first Saturday after September 18 to the first Saturday after January 1 of the following year</td>
+</tr>
+<tr>
 <td>6</td>
-<td>District J</td>
+<td>District G</td>
 <td>Last Saturday of September to December 26</td>
 <td>Recorded bird calls (d), (f)</td>
 </tr>
@@ -1893,7 +1908,7 @@ TABLE I.1
 </td>
 </tr>
 <tr>
-<td>**(c)** In District G, on the north shore of the St. Lawrence River, no person shall hunt north of the St. Lawrence River and south of a line located at 1000 m north of Highway 40 between Montée St-Laurent and the Maskinongé River. On the south shore of the St. Lawrence River, no person shall hunt south of the St. Lawrence River and north of the railroad right-of-way located near Route 132 between the Nicolet River in the east and Lacerte Road in the west.
+<td>**(c)** In District F, on the north shore of the St. Lawrence River, no person shall hunt north of the St. Lawrence River and south of a line located at 1000 m north of Highway 40 between Montée St-Laurent and the Maskinongé River. On the south shore of the St. Lawrence River, no person shall hunt south of the St. Lawrence River and north of the railroad right-of-way located near Route 132 between the Nicolet River in the east and Lacerte Road in the west.
 
 </td>
 </tr>
@@ -1931,18 +1946,18 @@ TABLE I.1
 <th>Snipe</th>
 </tr>
 <tr>
-<td>Daily Bags</td>
-<td>6(a), (b), (c), (d), (f)</td>
-<td>5  (f))</td>
-<td>20(f)</td>
-<td>4(f)</td>
-<td>8(e), (f)</td>
-<td>10(f)</td>
+<td>Daily Bags.</td>
+<td>6 (a), (b), (c), (f)</td>
+<td>5 (d), (f)</td>
+<td>20 (f)</td>
+<td>4 (f)</td>
+<td>8 (e), (f)</td>
+<td>10 (f)</td>
 </tr>
 <tr>
-<td>Possession</td>
-<td>12(a), (b), (c), (d)</td>
-<td>10</td>
+<td>Possession.</td>
+<td>12 (a), (b), (c), (f)</td>
+<td>20</td>
 <td>60</td>
 <td>8</td>
 <td>16</td>
@@ -1950,34 +1965,40 @@ TABLE I.1
 </tr>
 <tr>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>**(a)** Not more than four Black Ducks may be taken daily, with a possession limit of eight in Districts A, B, C, D, E, F and J.
+<td>**a)** Not more than four Black Ducks may be taken daily, with a possession limit of eight in Districts A, B, C, D, E, F (east of Route 155 and Highway 55) and G.
 
 </td>
 </tr>
 <tr>
-<td>**(b)** Not more than two Black Ducks may be taken daily, with a possession limit of four in Districts G, H and I. Between November 1 and December 26, not more than four Black Ducks may be taken daily, with a possession limit of eight in Districts G, H and I (only lying east of the Gatineau River).
+<td>**(b)** Not more than two Black Ducks may be taken daily, with a possession limit of four in District F (west of Route 155 and Highway 55). Not more than four Black Ducks may be taken daily, with a possession limit of eight in District F (east of the Gatineau River) in the period beginning on November 1 and ending on the first Saturday after January 1 of the following year.
 
 </td>
 </tr>
 <tr>
-<td>**(c)** Not more than two Blue-winged Teal may be taken daily, with a possession limit of four in Districts A, B, C, D, E and J.
+<td>**(c)** Not more than one Barrow’s Goldeneye or Blue-winged Teal may be taken daily, with a possession limit of two.
 
 </td>
 </tr>
 <tr>
-<td>**(d)** Not more than one Blue-winged Teal may be taken daily, with a possession limit of two in Districts F, G, H and I.
+<td>**(d)** Not more than 10 Canada Geese or Cackling Geese can be taken daily from September 1 to September 25.
 
 </td>
 </tr>
 <tr>
-<td>**(e)** For non-residents of Canada, not more than four woodcock may be taken daily.
+<td>**(e)** For non-residents of Canada, not more than four Woodcock may be taken daily.
 
 </td>
 </tr>
 <tr>
-<td>**(f)** Not more than three birds in total may be taken on Waterfowler Heritage Day. The additional species restrictions described in paragraphs (b), (c) and (d) continue to apply within that limit.
+<td>**(f)** Not more than three birds in total may be taken or possessed during Waterfowler Heritage Days, but the additional species restrictions described in notes (b) and (c) apply within that total.
 
 </td>
 </tr>
@@ -2010,56 +2031,87 @@ TABLE I.1
 <tr>
 <td>1</td>
 <td>Hudson–James Bay District</td>
-<td>September 1 to December 15</td>
-<td>September 1 to December 15</td>
+<td>September 1 to December 16</td>
+<td>September 1 to December 16</td>
 <td>September 1 to December 15</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Northern District</td>
-<td>September 10 to December 15</td>
-<td>September 1 to December 15</td>
+<td>September 10 to December 25 (a)</td>
+<td>September 1 to December 16</td>
 <td>September 15 to December 15</td>
 </tr>
 <tr>
 <td>3</td>
 <td>Central District</td>
-<td>September 15 to December 20</td>
-<td>September 4 to December 20</td>
+<td>For a period of 107 days beginning on the third Saturday of September (b)</td>
+<td>For a period of 107 days beginning on the day after Labour Day</td>
 <td>September 20 to December 20</td>
 </tr>
 <tr>
 <td>4</td>
 <td>Southern District</td>
-<td>September 22 to December 20 (e)</td>
-<td>September 7 to September 17 (a), (e), September 22 to December 26 (b), September 22 to January 5 (c), (e), September 22 to October 20 (d), (e), November 24 to January 5 (d), (e) and February 21 to 28 (c), (e)</td>
-<td>September 25 to December 20 (e)</td>
+<td>For a period of 107 days beginning on the fourth Saturday of September (c)</td>
+<td>For a period of 11 days beginning on the first Thursday after Labour Day (d), (f);</td>
+<td>September 25 to December 20</td>
+</tr>
+<tr>
+<td>For a period of 11 days beginning on the first Thursday after Labour Day except for any Sunday within this period (e), (f), (g)</td>
+</tr>
+<tr>
+<td>For a period of 96 days beginning on the fourth Saturday of September (d)</td>
+</tr>
+<tr>
+<td>For a period of 105 days beginning on the fourth Saturday of September except for any Sunday within this period (e), (g)</td>
+</tr>
+<tr>
+<td>For a period of eight days beginning on the fourth Saturday of February except for any Sunday within this period (e), (g), (h)</td>
 </tr>
 <tr>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>**(a)** In Wildlife Management Units 60 to 89, 90 (excluding that part of the Township of South Walsingham south of County Road 42, which includes Long Point) and 91 to 95.
+<td>**(a)** Except for American Black Ducks for which the open season begins on September 10 and ends on December 15.
 
 </td>
 </tr>
 <tr>
-<td>**(b)** In Wildlife Management Units 60 to 72, 83 and 95.
+<td>**(b)** Except for American Black Ducks for which the open season begins on the third Saturday of September and ends on December 20.
 
 </td>
 </tr>
 <tr>
-<td>**(c)** In Wildlife Management Units 73 to 82 and 84 to 93.
+<td>**(c)** Except for American Black Ducks for which the open season begins on the fourth Saturday of September and ends on December 20.
 
 </td>
 </tr>
 <tr>
-<td>**(d)** In Wildlife Management Unit 94.
+<td>**(d)** In municipalities where Sunday gun hunting is permitted by provincial regulations.
 
 </td>
 </tr>
 <tr>
-<td>**(e)** No person shall hunt migratory birds on Sundays during the hunting season in Wildlife Management Units 73 to 82 inclusive and 84 to 94 inclusive from September 9 to December 30, and February 24. Sunday exclusions do not apply to falconers, who may hunt only ducks on Sundays from September 23 to December 16.
+<td>**(e)** In municipalities where Sunday gun hunting is not permitted by provincial regulations.
+
+</td>
+</tr>
+<tr>
+<td>**(f)** Excluding that part of the Township of South Walsingham south of County Road 42, which includes Long Point.
+
+</td>
+</tr>
+<tr>
+<td>**(g)** No person shall hunt Canada geese or Cackling geese by any means on Sundays during the hunting season in municipalities where Sunday gun hunting is not permitted by provincial regulations.
+
+</td>
+</tr>
+<tr>
+<td>**(h)** Except in Wildlife Management Unit 94.
 
 </td>
 </tr>
@@ -2076,7 +2128,15 @@ TABLE I.1
 
 
 
-**1** In this Part, a reference to a Wildlife Management Unit is a reference to that unit in the Province of Ontario as referred to in Schedule 1 of section 6 of Part 6 of Ontario Regulation 663/98 (Area Descriptions) made under the Fish and Wildlife Conservation Act, 1997, S.O. 1997, c. 41, and if a wildlife management unit is referred to by whole number only, the whole number includes a reference to all of the wildlife management units referred to in that schedule by that number used in combination with a letter, or a letter and another number.
+**1** In this Part,
+
+**(a)** a reference to a Wildlife Management Unit is a reference to that unit in the Province of Ontario as referred to in Schedule 1 of Part 6 of Ontario Regulation 663/98 (Area Descriptions) made under the Fish and Wildlife Conservation Act, 1997, S.O. 1997, c. 41, and if a wildlife management unit is referred to by whole number only, the whole number includes a reference to all of the wildlife management units referred to in that schedule by that number used in combination with a letter, or a letter and another number; and
+
+
+
+**(b)** a reference to municipalities where Sunday gun hunting is permitted is a reference to those municipalities in the Province of Ontario referred to in Schedule 1 of Part 7 of Ontario Regulation 663/98 (Area Descriptions) as being the area south of the French and Mattawa rivers where it is permitted to hunt with a gun on Sundays under Ontario Regulation 665/98 (Hunting) made under the Fish and Wildlife Conservation Act, 1997, S.O. 1997, c. 41.
+
+
 
 
 
@@ -2094,7 +2154,7 @@ TABLE I.1
 
 
 
-**(d)** ***Southern District*** means that part of the Province of Ontario comprising Wildlife Management Units 60A and 61 to 95 inclusive.
+**(d)** ***Southern District*** means that part of the Province of Ontario comprising Wildlife Management Units 60 to 95 inclusive.
 
 
 
@@ -2184,7 +2244,7 @@ The east quarter of Lot 7 and the west half of Lot 8 extending south of Regional
 <tr>
 <td>Daily bags</td>
 <td>6 (a), (b), (c), (d)</td>
-<td>5 (e), (f), (g), (h)</td>
+<td>5 (e), (f), (g), (h), (i)</td>
 <td>5</td>
 <td>10</td>
 <td>10</td>
@@ -2223,22 +2283,27 @@ The east quarter of Lot 7 and the west half of Lot 8 extending south of Regional
 </td>
 </tr>
 <tr>
-<td>**(e)** A total of not more than three Canada Geese or Cackling Geese, or any combination of these, may be taken daily in that portion of Wildlife Management Unit 1D in Hudson–James Bay District and in Wildlife Management Units 23 to 31 and 37 to 41 from September 10 to December 15.
+<td>**(e)** A total of not more than three Canada Geese or Cackling Geese, or any combination of them, may be taken daily in that portion of Wildlife Management Unit 1D in Hudson–James Bay District and in Wildlife Management Units 23 to 31 inclusive and 37 to 41 inclusive in the period beginning on September 10 and ending on December 16.
 
 </td>
 </tr>
 <tr>
-<td>**(f)** A total of not more than two Canada Geese or Cackling Geese, or any combination of these, may be taken daily in Wildlife Management Unit 94 from September 22 to October 20 and from November 24 to January 5.
+<td>**(f)** A total of not more than two Canada Geese or Cackling Geese, or any combination of them, may be taken daily in Wildlife Management Unit 94 in the period beginning on the fourth Saturday in September and ending on the last day of the open season.
 
 </td>
 </tr>
 <tr>
-<td>**(g)** A total of not more than three Canada Geese or Cackling Geese, or any combination of these, may be taken daily in Wildlife Management Units 82 to 86 and 93 from September 22 to October 31.
+<td>**(g)** A total of not more than three Canada Geese or Cackling Geese, or any combination of them, may be taken daily in Wildlife Management Units 82 to 86 inclusive and 93 in the period beginning on the fourth Saturday of September and ending on October 31.
 
 </td>
 </tr>
 <tr>
-<td>**(h)** A total of three additional Canada Geese or Cackling Geese, or any combination of these, may be taken daily in Wildlife Management Units 36 and 45 from September 1 to September 9; in Central District from September 4 to September 14; in Wildlife Management Units 60 to 89, 90 (excluding that part of the Township of South Walsingham, south of County Road 42, which includes Long Point) and 91 to 95 from September 7 to September 17; and in Wildlife Management Units 73 to 82 and 84 to 93 from February 21 to February 28.
+<td>**(h)** A total of five additional Canada Geese or Cackling Geese, or any combination of them, may be taken daily in Wildlife Management Units 36 and 45 in the period beginning on September 1 and ending on September 9; in Wildlife Management Units 42 to 44 inclusive and 46 to 59 inclusive in the period beginning on the day after Labour Day and ending on the Friday preceding the third Saturday of September ; in Wildlife Management Units 60 to 81 inclusive, 87 to 92 inclusive and 95 in the 11–day period beginning on the first Thursday after Labour Day; and in municipalities where Sunday gun hunting is permitted in Wildlife Management Units 60 to 81 inclusive and 87 to 92 inclusive in the eight-day period beginning on the fourth Saturday of February.
+
+</td>
+</tr>
+<tr>
+<td>**(i)** A total of three additional Canada Geese or Cackling Geese, or any combination of them, may be taken daily in Wildlife Management Units 82 to 86 inclusive, 93 and 94 in the 11–day period beginning on the first Thursday after Labour Day and in municipalities where Sunday gun hunting is not permitted in Wildlife Management Units 82 to 86 inclusive and 93 in the eight–day period beginning on the fourth Saturday in February.
 
 </td>
 </tr>
@@ -2317,7 +2382,7 @@ The east quarter of Lot 7 and the west half of Lot 8 extending south of Regional
 </td>
 </tr>
 <tr>
-<td>**(b)** Snow Goose call recordings may be used for the purpose of hunting Snow Geese. If those recordings are used with decoys, the decoys must represent white or blue phase Snow Geese only. Any migratory bird for which there is an open season may also be taken.
+<td>**(b)** Snow Goose call recordings may be used but, if used with decoys, the decoys may only represent white or blue phase Snow Geese, or any combination of them.
 
 </td>
 </tr>
@@ -2383,7 +2448,7 @@ TABLE I.1
 </td>
 </tr>
 <tr>
-<td>**(b)** If decoys are used when hunting with recorded Snow Goose calls, the decoys must represent white or blue phase Snow Geese only.
+<td>**(b)** Snow Goose call recordings may be used but, if used with decoys, the decoys may only represent white or blue phase Snow Geese, or any combination of them.
 
 </td>
 </tr>
@@ -2527,15 +2592,9 @@ TABLE III
 <th>Item</th>
 <th>District</th>
 <th>Ducks, Coots and Snipe</th>
-<th>Geese RESIDENTS OF SASKATCHEWAN
-
-</th>
-<th>White Geese (Snow and Ross Geese) NON-RESIDENTS OF SASKATCHEWAN
-
-</th>
-<th>Dark Geese (Canada and White-fronted Geese) NON-RESIDENTS OF SASKATCHEWAN
-
-</th>
+<th>Geese RESIDENTS OF CANADA</th>
+<th>White Geese (Snow and Ross’s Geese) NON-RESIDENTS OF CANADA</th>
+<th>Dark Geese (Canada and White-fronted) NON-RESIDENTS OF CANADA</th>
 <th>Sandhill Cranes</th>
 </tr>
 <tr>
@@ -2565,7 +2624,7 @@ TABLE III
 </td>
 </tr>
 <tr>
-<td>**(b)** Except White-fronted Geese; season for residents of Saskatchewan for White-fronted Geese is from September 10 to December 16.
+<td>**(b)** Except White-fronted Geese; season for residents of Canada for White-fronted Geese begins on September 10 and ends on December 16.
 
 </td>
 </tr>
@@ -2575,7 +2634,7 @@ TABLE III
 </td>
 </tr>
 <tr>
-<td>**(d)** Snow Goose call recordings and white decoys may be used for the purpose of hunting snow geese. In so doing, any migratory bird for which there is an open season may also be taken.
+<td>**(d)** Snow Goose call recordings may be used but, if used with decoys, the decoys may only represent white phase snow geese.
 
 </td>
 </tr>
@@ -2600,7 +2659,7 @@ TABLE III
 
 
 
-**3** In this Part, the open season for geese for residents and non-residents of Saskatchewan in District No. 2 (South), and the Provincial Wildlife Management Zones 43, 47 to 59 and 67 to 69 of District No. 1 (North), includes only that part of each day from one-half hour before sunrise to 12:00 noon, local time, from September 1 to October 14, and, on and after October 15, geese may be hunted from one-half hour before sunrise until one-half hour after sunset, except east of 106° west longitude where, on and after September 1, White Geese (Snow and Ross’s Geese) may be hunted from one-half hour before sunrise until one-half hour after sunset. Note: Last Mountain Lake National Wildlife Area is closed to all hunting until September 20.
+**3** In this Part, the open season for geese for residents and non-residents of Canada in District No. 2 (South), and the Provincial Wildlife Management Zones 43, 47 to 59 inclusive and 67 to 69 inclusive of District No. 1 (North), includes only that part of each day from one-half hour before sunrise to 12:00 noon, local time, from September 1 to October 14, and, on and after October 15, geese may be hunted from one-half hour before sunrise until one-half hour after sunset, except east of 106° west longitude where, on and after September 1, White Geese (Snow and Ross’s Geese) may be hunted from one-half hour before sunrise until one-half hour after sunset. Note: Last Mountain Lake National Wildlife Area is closed to all hunting until September 20.
 
 
 
@@ -2653,7 +2712,7 @@ TABLE I.1
 </td>
 </tr>
 <tr>
-<td>**(b)** If decoys are used when hunting with recorded Snow Goose calls, the decoys must represent white or blue phase Snow Geese.
+<td>**(b)** Snow Goose call recordings may be used but, if used with decoys, the decoys may only represent white or blue phase Snow Geese, or any combination of them.
 
 </td>
 </tr>
@@ -2707,12 +2766,12 @@ TABLE I.1
 </td>
 </tr>
 <tr>
-<td>**(c)** For residents of Saskatchewan, not more than four may be White-fronted Geese. For non-residents of Saskatchewan, not more than three may be White-fronted Geese.
+<td>**(c)** For residents of Canada, not more than four may be White-fronted Geese. For non-residents of Canada, not more than three may be White-fronted Geese.
 
 </td>
 </tr>
 <tr>
-<td>**(d)** For residents of Saskatchewan, not more than eight may be White-fronted Geese. For non-residents of Saskatchewan, not more than six may be White-fronted Geese.
+<td>**(d)** For residents of Canada, not more than eight may be White-fronted Geese. For non-residents of Canada, not more than six may be White-fronted Geese.
 
 </td>
 </tr>
@@ -2739,7 +2798,7 @@ TABLE I.1
 <tr>
 <th>Area</th>
 <th>Ducks</th>
-<th>White Geese (Snow and Ross’s Geese)</th>
+<th>White Geese (Snow and Ross’s Geese) (b)</th>
 <th>Dark Geese (Canada and White-fronted Geese)</th>
 <th>Coots and snipe</th>
 <th>Falconry season for ducks, coots and snipe</th>
@@ -2816,6 +2875,11 @@ TABLE I.1
 
 </td>
 </tr>
+<tr>
+<td>**(b)** Snow Goose call recordings may be used but, if used with decoys, the decoys may only represent white or blue phase Snow Geese, or any combination of them.
+
+</td>
+</tr>
 </table>
 
 
@@ -2823,35 +2887,35 @@ TABLE I.1
 
 **1** In this Part,
 
-**(a)** ***Zone No. 1*** means that part of Alberta included in Wildlife Management Units 501, 502, 503, 504, 505, 506, 509, 510, 511, 512, 514, 515, 516, 517, 518, 519, 529, 530, 531, 532 and 841;
+**(a)** ***Zone No. 1*** means that part of Alberta included in Wildlife Management Units 501 to 506 inclusive, 509 to 512 inclusive, 514 to 519 inclusive, 529 to 532 inclusive and 841;
 
 
 
-**(b)** ***Zone No. 2*** means that part of Alberta included in Wildlife Management Units 344, 347, 349, 350, 351, 352, 353, 354, 355, 356, 357, 358, 359, 360, 520, 521, 522, 523, 524, 525, 526, 527, 528, 534, 535, 536, 537, 539, 540, 541, 542 and 544;
+**(b)** ***Zone No. 2*** means that part of Alberta included in Wildlife Management Units 344, 347, 349 to 360 inclusive, 520 to 528 inclusive, 534 to 537 inclusive, 539 to 542 inclusive and 544;
 
 
 
-**(c)** ***Zone No. 3*** means that part of Alberta included in Wildlife Management Units 200, 202, 203, 204, 230, 232, 234, 236, 238, 240, 252, 254, 256, 258, 260 and 500;
+**(c)** ***Zone No. 3*** means that part of Alberta included in Wildlife Management Units 200, 202 to 204 inclusive, 230, 232, 234, 236, 238, 240, 252, 254, 256, 258, 260 and 500;
 
 
 
-**(d)** ***Zone No. 4*** means that part of Alberta included in Wildlife Management Units 206, 208, 216, 220, 221, 222, 224, 226, 228, 242, 244, 246, 248, 250, 320, 322, 324, 326, 328, 330, 332, 334, 336, 337, 338, 339, 340, 342, 346, 348, 429, 507, 508 and 936;
+**(d)** ***Zone No. 4*** means that part of Alberta included in Wildlife Management Units 206, 208, 216, 220 to 222 inclusive, 224, 226, 228, 242, 244, 246, 248, 250, 320, 322, 324, 326, 328, 330, 332, 334, 336 to 340 inclusive, 342, 346, 348, 429, 507, 508 and 936;
 
 
 
-**(e)** ***Zone No. 5*** means that part of Alberta included in Wildlife Management Units 151, 160, 162, 163, 164 and 166;
+**(e)** ***Zone No. 5*** means that part of Alberta included in Wildlife Management Units 151, 160, 162 to 164 inclusive and 166;
 
 
 
-**(f)** ***Zone No. 6*** means that part of Alberta included in Wildlife Management Units 104, 106, 108, 110, 112, 128, 130, 132, 134, 136, 138, 140, 142, 152, 156, 158, 210, 212, 214, 300, 302, 303, 304, 305, 306, 308, 310, 312 and 314;
+**(f)** ***Zone No. 6*** means that part of Alberta included in Wildlife Management Units 104, 106, 108, 110, 112, 128, 130, 132, 134, 136, 138, 140, 142, 152, 156, 158, 210, 212, 214, 300, 302 to 306 inclusive, 308, 310, 312 and 314;
 
 
 
-**(g)** ***Zone No. 7*** means that part of Alberta included in Wildlife Management Units 102, 116, 118, 119, 124, 144, 148 and 150; and
+**(g)** ***Zone No. 7*** means that part of Alberta included in Wildlife Management Units 102, 116, 118 and 119, 124, 144, 148 and 150; and
 
 
 
-**(h)** ***Zone No. 8*** means that part of Alberta included in Wildlife Management Units 316, 318, 400, 402, 404, 406, 408, 410, 412, 414, 416, 417, 418, 420, 422, 426, 428, 430, 432, 434, 436, 437, 438, 439, 440, 441, 442, 444, 445 and 446.
+**(h)** ***Zone No. 8*** means that part of Alberta included in Wildlife Management Units 316, 318, 400, 402, 404, 406, 408, 410, 412, 414, 416 to 418 inclusive, 420, 422, 426, 428, 430, 432, 434, 436 to 442 inclusive and 444 to 446 inclusive.
 
 
 
@@ -2965,10 +3029,20 @@ TABLE I.1
 <tr>
 <td>1</td>
 <td>No. 1</td>
-<td>September 29 and 30 (Waterfowler Heritage Days)</td>
-<td>October 6 to January 18</td>
-<td>October 6 to January 18</td>
-<td>October 6 to January 18 (a), September 8 to 16 (b), (c), October 6 to November 23, December 15 to January 6 (b), (c) and February 16 to March 10 (b), (c)</td>
+<td>Weekend before Thanksgiving weekend (Waterfowler Heritage Days)</td>
+<td>For a period of 105 days beginning on the Saturday of Thanksgiving weekend</td>
+<td>For a period of 105 days beginning on the Saturday of Thanksgiving weekend</td>
+<td>For a period of 105 days beginning on the Saturday of Thanksgiving weekend (a)
+
+For a period of nine days beginning on the first Saturday of September (b), (c)
+
+For a period of 44 days beginning on the Saturday of Thanksgiving
+
+For a period of 23 days beginning on the third Saturday of December (b), (c)
+
+For the period of 29 days ending on March 10 (b), (c)
+
+</td>
 <td>No open season</td>
 <td>September 15 to 30</td>
 <td>No open season</td>
@@ -2976,21 +3050,55 @@ TABLE I.1
 <tr>
 <td>2</td>
 <td>No. 2</td>
-<td>September 1 and 2 (e), (f) and September 29 and 30 (Waterfowler Heritage Days)</td>
-<td>October 6 to January 18 (c), (g) and September 10 to December 23 (e)</td>
-<td>October 6 to January 1 (h) and February 23 to March 10 (h)</td>
-<td>October 6 to January 18 (i), September 8 to 16 (c), (j), October 6 to November 25 (c), (j), December 15 to January 6 (c), (j), February 18 to March 10 (c), (j) and September 10 to December 23 (e), (k)</td>
-<td>March 1 to March 10 (c), (l)</td>
+<td>Weekend before Thanksgiving weekend (d)
+
+Weekend before September 10 (e), (f)
+
+(Waterfowler Heritage Days on both weekends)
+
+</td>
+<td>For a period of 105 days beginning on the Saturday of Thanksgiving weekend (c), (g)
+
+September 10 to December 23 (e)
+
+</td>
+<td>For a period of 86 days beginning on the Saturday of Thanksgiving weekend (h)
+
+For the period of 19 days ending on March 10 (h)
+
+</td>
+<td>For a period of 105 days beginning on the Saturday of Thanksgiving weekend (i)
+
+For a period of nine days beginning on the first Saturday of September (c), (j)
+
+For a period of 44 days beginning on the Saturday of Thanksgiving (c), (j)
+
+For a period of 23 days beginning on the third Saturday in December (c), (j)
+
+For the period of 29 days ending on March 10 (c), (j)
+
+September 10 to December 23 (e), (k)
+
+</td>
+<td>March 1 to 10 (c), (l)</td>
 <td>September 15 to 30 (m)</td>
 <td>No open season</td>
 </tr>
 <tr>
 <td>3</td>
 <td>No. 3</td>
-<td>September 1 and 2 (Waterfowler Heritage Days)</td>
+<td>First two-day weekend in September (Waterfowler Heritage Days)</td>
 <td>September 10 to December 23</td>
 <td>September 10 to December 23</td>
-<td>September 10 to December 23 (n), September 10 to 20 (o), October 1 to December 23 (o) and March 1 to March 10 (o)</td>
+<td>September 10 to December 23 (n)
+
+September 10 to 20 (o)
+
+October 1 to December 23 (o)
+
+March 1 to March 10 (o)
+
+</td>
 <td>No open season</td>
 <td>September 15 to 30 (p)</td>
 <td>September 1 to 30</td>
@@ -2998,7 +3106,7 @@ TABLE I.1
 <tr>
 <td>4</td>
 <td>No. 4</td>
-<td>September 1 and 2 (Waterfowler Heritage Days)</td>
+<td>First two-day weekend in September (Waterfowler Heritage Days)</td>
 <td>September 10 to December 23</td>
 <td>September 10 to December 23</td>
 <td>September 10 to December 23</td>
@@ -3009,7 +3117,7 @@ TABLE I.1
 <tr>
 <td>5</td>
 <td>No. 5</td>
-<td>September 8 and 9 (Waterfowler Heritage Days)</td>
+<td>Weekend before 15 September (Waterfowler Heritage Days)</td>
 <td>September 15 to December 25</td>
 <td>September 15 to December 25</td>
 <td>September 15 to December 25</td>
@@ -3020,10 +3128,22 @@ TABLE I.1
 <tr>
 <td>6</td>
 <td>No. 6</td>
-<td>September 1 and 2 (q) and September 15 and 16 (r) (Waterfowler Heritage Days)</td>
-<td>September 3 to November 30 (q) and October 1 to January 13 (r)</td>
-<td>September 3 to November 30 (q) and October 1 to January 13 (r)</td>
-<td>September 3 to November 30 (q) and October 1 to January 13 (r)</td>
+<td>First two-day weekend in September (q), (r) (Waterfowler Heritage Days)</td>
+<td>September 1 to November 30 except for the first two-day weekend in September (q)
+
+October 1 to January 13 (r)
+
+</td>
+<td>September 1 to November 30 except for the first two-day weekend in September (q)
+
+October 1 to January 13 (r)
+
+</td>
+<td>September 1 to November 30 except for the first two-day weekend in September (q)
+
+October 1 to January 13 (r)
+
+</td>
 <td>No open season</td>
 <td>No open season</td>
 <td>No open season</td>
@@ -3042,10 +3162,18 @@ TABLE I.1
 <tr>
 <td>8</td>
 <td>No. 8</td>
-<td>September 1 and 2 (Waterfowler Heritage Days)</td>
+<td>First two-day weekend in September (Waterfowler Heritage Days)</td>
 <td>September 12 to December 25</td>
 <td>September 12 to December 25</td>
-<td>September 12 to December 25 (s), September 20 to November 28 (k), December 20 to January 5 (k) and February 21 to March 10 (k)</td>
+<td>September 12 to December 25 (s)
+
+September 20 to November 28 (k)
+
+December 20 to January 5 (k)
+
+February 21 to March 10 (k)
+
+</td>
 <td>No open season</td>
 <td>No open season</td>
 <td>September 1 to 30</td>
@@ -3567,7 +3695,7 @@ TABLE I.1
 <td></td>
 </tr>
 <tr>
-<td>**(a)** Snow Goose call recordings and white decoys may be used for the purpose of hunting snow geese. In so doing, any migratory bird for which there is an open season may also be taken.
+<td>**(a)** Snow Goose call recordings may be used but, if used with decoys, the decoys may only represent white phase snow geese.
 
 </td>
 </tr>
@@ -3711,7 +3839,7 @@ TABLE I.1
 
 
 
-> SOR/78-579, s. 1; SOR/79-544, s. 10; SOR/79-621, s. 1; SOR/80-577, ss. 11 to 19; SOR/81-641, ss. 7 to 16; SOR/82-703, ss. 8 to 17; SOR/82-826, s. 1; SOR/83-594, ss. 2 to 11; SOR/84-561, ss. 2 to 11; SOR/84-947, ss. 1 to 3; SOR/85-694, ss. 6 to 14; SOR/86-834, ss. 1 to 10; SOR/87-464, ss. 1 to 10; SOR/88-374, ss. 1 to 9; SOR/88-457, ss. 1, 2; SOR/89-343, ss. 1 to 10; SOR/89-389, ss. 1(E), 2, 3(F); SOR/89-472, ss. 1, 2; SOR/90-424, ss. 1 to 8, 10 to 12; SOR/90-425, s. 1; SOR/90-623, ss. 2 to 5; SOR/91-492, ss. 1 to 10; SOR/92-532, ss. 1 to 12; SOR/93-344, ss. 1, 2(F), 3 to 13; SOR/93-438, ss. 1 to 8; SOR/94-449, ss. 1 to 15, 16(F), 17 to 24; SOR/95-296, ss. 1 to 28, 29(F); SOR/96-308, ss. 1 to 41; SOR/97-364, ss. 1 to 31; SOR/97-400, s. 3; SOR/98-343, ss. 1 to 4, 5(E), 6 to 29, 30(F), 31 to 35; SOR/99-147, ss. 6 to 8; SOR/99-263, ss. 1 to 5 (F), 6, 7, 8(F), 9, 10, 11(F), 12 to 14, 15(F), 16 to 26, 27(F), 28 to 54, 55(F), 56 to 64; err., Vol. 133, No. 16; SOR/2000-88, ss. 6 to 13; SOR/2000-240, ss. 1 to 20; SOR/2000-331, s. 4; SOR/2000-347, ss. 3, 4, 6, 7; SOR/2001-90, ss. 1 to 4; SOR/2001-215, ss. 1 to 24; SOR/2002-80, ss. 2 to 5; SOR/2002-212, ss. 1 to 25; SOR/2002-394, s. 1; SOR/2003-84, ss. 2, 3; SOR/2003-221, ss. 1 to 17; SOR/2004-37, ss. 1 to 3; SOR/2004-138, ss. 2(F), 3(F), 4 to 21, 22(F), 23(F), 24 to 31, 32(F), 33 to 35, 36(F), 37, 38, 39(F), 40 to 42; SOR/2005-64, ss. 1 to 3; SOR/2005-186, ss. 5 to 15, 16(E), 17 to 26; SOR/2006-52, s. 1; SOR/2006-136, ss. 2 to 10, 11(E), 12, 13(E), 14 to 30; SOR/2006-284, s. 1; SOR/2007-140, ss. 2 to 12, 13(E), 14 to 32; SOR/2008-149, s. 1.
+> SOR/78-579, s. 1; SOR/79-544, s. 10; SOR/79-621, s. 1; SOR/80-577, ss. 11 to 19; SOR/81-641, ss. 7 to 16; SOR/82-703, ss. 8 to 17; SOR/82-826, s. 1; SOR/83-594, ss. 2 to 11; SOR/84-561, ss. 2 to 11; SOR/84-947, ss. 1 to 3; SOR/85-694, ss. 6 to 14; SOR/86-834, ss. 1 to 10; SOR/87-464, ss. 1 to 10; SOR/88-374, ss. 1 to 9; SOR/88-457, ss. 1, 2; SOR/89-343, ss. 1 to 10; SOR/89-389, ss. 1(E), 2, 3(F); SOR/89-472, ss. 1, 2; SOR/90-424, ss. 1 to 8, 10 to 12; SOR/90-425, s. 1; SOR/90-623, ss. 2 to 5; SOR/91-492, ss. 1 to 10; SOR/92-532, ss. 1 to 12; SOR/93-344, ss. 1, 2(F), 3 to 13; SOR/93-438, ss. 1 to 8; SOR/94-449, ss. 1 to 15, 16(F), 17 to 24; SOR/95-296, ss. 1 to 28, 29(F); SOR/96-308, ss. 1 to 41; SOR/97-364, ss. 1 to 31; SOR/97-400, s. 3; SOR/98-343, ss. 1 to 4, 5(E), 6 to 29, 30(F), 31 to 35; SOR/99-147, ss. 6 to 8; SOR/99-263, ss. 1 to 5 (F), 6, 7, 8(F), 9, 10, 11(F), 12 to 14, 15(F), 16 to 26, 27(F), 28 to 54, 55(F), 56 to 64; err., Vol. 133, No. 16; SOR/2000-88, ss. 6 to 13; SOR/2000-240, ss. 1 to 20; SOR/2000-331, s. 4; SOR/2000-347, ss. 3, 4, 6, 7; SOR/2001-90, ss. 1 to 4; SOR/2001-215, ss. 1 to 24; SOR/2002-80, ss. 2 to 5; SOR/2002-212, ss. 1 to 25; SOR/2002-394, s. 1; SOR/2003-84, ss. 2, 3; SOR/2003-221, ss. 1 to 17; SOR/2004-37, ss. 1 to 3; SOR/2004-138, ss. 2(F), 3(F), 4 to 21, 22(F), 23(F), 24 to 31, 32(F), 33 to 35, 36(F), 37, 38, 39(F), 40 to 42; SOR/2005-64, ss. 1 to 3; SOR/2005-186, ss. 5 to 15, 16(E), 17 to 26; SOR/2006-52, s. 1; SOR/2006-136, ss. 2 to 10, 11(E), 12, 13(E), 14 to 30; SOR/2006-284, s. 1; SOR/2007-140, ss. 2 to 12, 13(E), 14 to 32; SOR/2008-149, s. 1; SOR/2008-217, ss. 2 to 18, 19(F), 20 to 33, 34(E).
 
 
 
