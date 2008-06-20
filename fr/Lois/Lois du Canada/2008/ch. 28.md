@@ -784,7 +784,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_Ind7C15_hq_4908'>[*]</a></sup>**135** Les dispositions de la présente partie ou celles de la [Loi sur l’Office de financement de l’assurance-emploi du Canada](/fr/Lois/Lois%20du%20Canada/2008/ch.%2028,%20art.%20121.md), édictée par l’article 121, entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='fn_Ind7C15_hq_4908'><sup>*</sup></a>: [Note : Partie 7 non en vigueur.]<br />
+<a name='fn_Ind7C15_hq_4908'><sup>*</sup></a>: [Note : Loi, à l’exception de l’alinéa 4a), édictée par l’article 121 et articles 123 et 134 en vigueur le 20 juin 2008, *voir* TR/2008-76.]<br />
 
 
 
