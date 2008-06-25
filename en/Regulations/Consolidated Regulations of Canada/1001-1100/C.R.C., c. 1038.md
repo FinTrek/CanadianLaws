@@ -9579,156 +9579,28 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/97-201, S. 3
 
 **215** 
 
-**(1)** Every vehicle that is impacted at its unloaded vehicle weight by a pendulum-type testing device in accordance with subsections (3) to (5) shall, where prior to each impact in any test described in this section it had
+**(1)** A passenger car shall be equipped with bumpers that conform to either
 
-**(a)** its front wheels parallel to the vehicle’s longitudinal centreline,
+**(a)** the requirements set out in paragraph 6, and the low-speed-impact test procedure set out in Annex 3 — except for paragraph 4 of that Annex, of ECE Regulation No. 42 — Uniform Provisions Concerning the Approval of Vehicles with Regard to Their Front and Rear Protective Devices (Bumpers, etc.), in the version dated June 12, 2007, as amended after that date by any amendment in the 00 series of amendments; or
 
 
 
-**(b)** its tires inflated to the vehicle manufacturer’s recommended pressure indicated on the placard pursuant to subsection 110(5) for the specified loading condition,
+**(b)** the requirements, conditions and test procedures set out in title 49, part 581, of the Code of Federal Regulations of the United States (revised as of October 1, 2006).
 
 
 
-**(c)** its brakes disengaged and the transmission in neutral, and
 
 
+**(2)** Until August 31, 2009, a passenger car may conform either to the requirements of this section in its current version or as it read before the coming into force of these Regulations.
 
-**(d)** trailer hitches and licence plate brackets removed from the vehicle,
 
 
+**(3)** A passenger car shall conform to the requirements of this section as of September 1, 2009.
 
-have, during and after each impact in any test described in this section,
 
 
 
-**(e)** each lamp or reflective device, except licence plate lamps, free of cracks and meeting the visibility requirements of section 108 or 108.1, whichever is applicable,
-
-
-
-**(f)** the aim of each headlamp to which section 108 is applicable adjustable to within the beam aim inspection limits specified in SAE Standard J599, Lighting Inspection Code (May 1981),
-
-
-
-**(g)** the aim of each headlamp to which section 108.1 is applicable adjustable to within the beam aim inspection limits required under that section,
-
-
-
-**(h)** the hood, trunk and doors operating in the normal manner,
-
-
-
-**(i)** no leaks in the fuel and cooling systems and no constricted fluid passages and all sealing devices and caps operating in the normal manner,
-
-
-
-**(j)** no leaks or constrictions in the exhaust system, and
-
-
-
-**(k)** the propulsion, suspension, steering and braking systems in adjustment and operating in the normal manner.
-
-
-
-
-
-**(2)** Every vehicle that, after being impacted by a pendulum-type testing device in accordance with subsections (3) to (5), is impacted into a fixed-collision barrier that is perpendicular to the line of travel of the vehicle while it is travelling longitudinally forward at 8 km/h (5 mph) and longitudinally rearward at 8 km/h (5 mph), with its engine operating at idle speed and subject to the conditions set out in paragraphs (1)(a) to (d) shall, during and after each impact, meet the requirements of paragraphs (1)(e) to (k).
-
-
-
-**(3)** Every vehicle shall be impacted on the front surface and rear surface two times each with the impact line at any height between 500 mm (20 inches) and 400 mm (16 inches) in accordance with the following longitudinal impact test procedure:
-
-**(a)** for impacts at a height between 500 mm (20 inches) and 400 mm (16 inches), place the test device shown in Figure 2 to this section so that plane A is vertical and the impact line is horizontal at a height within the range;
-
-
-
-**(b)** for each impact, position the test device so that the impact line is at least 50 mm (two inches) apart in vertical direction from its position in any prior impact, unless the midpoint of the impact line with respect to the vehicle is to be positioned more than 300 mm (12 inches) apart laterally from its position in any prior impact;
-
-
-
-**(c)** for each impact, align the vehicle so that it touches, but does not move, the test device, with the vehicle’s longitudinal centreline perpendicular to the plane that includes plane A of the test device and with the test device at any position inboard of the vehicle corner test position specified in subsection (4);
-
-
-
-**(d)** move the test device away from the vehicle, then release it so that plane A remains vertical from release until the onset of rebound, and the arc described by any point on the impact line is constant, with a radius of not less than 3.3 m (11 feet), and lies in a plane parallel to the vertical plane through the vehicle’s longitudinal centreline;
-
-
-
-**(e)** impact the vehicle with the test device moving at 8 km/h (5 mph) at the moment of impact; and
-
-
-
-**(f)** perform the impacts at intervals of not less than 30 minutes.
-
-
-
-
-
-**(4)** Every vehicle shall be impacted on a front corner and a rear corner once each with the impact line at a height of 500 mm (20 inches) in accordance with the following corner impact test procedure:
-
-**(a)** for an impact at a height of 500 mm (20 inches) place the test device shown in Figure 1 to this section so that plane A is vertical and the impact line is horizontal at the specified height;
-
-
-
-**(b)** for each impact align the vehicle so that a vehicle corner touches, but does not move, the lateral centre of the test device, with plane A of the test device forming an angle of 60 degrees with a vertical longitudinal plane;
-
-
-
-**(c)** move the test device away from the vehicle, then release it so that plane A remains vertical from release until the onset of rebound, and the arc described by any point on the impact line is constant, with a radius of not less than 3.3 m (11 feet), and lies in a vertical plane at an angle of 30 degrees to the vertical plane through the vehicle’s longitudinal centreline; and
-
-
-
-**(d)** impact each corner with the test device moving at 4.8 km/h (3 mph) at the moment of impact.
-
-
-
-
-
-**(5)** For the purposes of subsections (3) and (4),
-
-**(a)** the test device consists of a block with one side contoured as specified in Figures 1 and 2 to this section with the impact ridge made of hardened steel;
-
-
-
-**(b)** with plane A vertical, the impact line shown in the said Figures 1 and 2 is horizontal at the same height as the test device’s centre of percussion;
-
-
-
-**(c)** the effective impacting mass of the test device is equal to the mass of the tested vehicle; and
-
-
-
-**(d)** when impacted by the test device, the vehicle is at rest on a level, rigid concrete surface.
-
-
-
-
-
-FIGURE 1
-
-DRAWING: TEST DEVICE
-
-
-
-
-
-GRAPHIC IS NOT DISPLAYED, SEE SOR/79-338, S. 1
-
-
-
-FIGURE 2
-
-DRAWING: TEST DEVICE
-
-
-
-
-
-GRAPHIC IS NOT DISPLAYED, SEE SOR/79-338, S. 1
-
-
-
-
-> SOR/79-338, s. 1; SOR/79-940, s. 8; SOR/91-692, s. 5; SOR/94-692, s. 2(F); SOR/97-421, s. 22(F)..
+> SOR/79-338, s. 1; SOR/79-940, s. 8; SOR/91-692, s. 5; SOR/94-692, s. 2(F); SOR/97-421, s. 22(F); SOR/2008-199, s. 1..
 
 
 ### Roof Intrusion Protection
