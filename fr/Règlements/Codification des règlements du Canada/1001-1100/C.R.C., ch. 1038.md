@@ -9568,156 +9568,28 @@ CE GRAPHIQUE N’EST PAS EXPOSÉ, VOIR DORS/97-201, ART. 3
 
 **215** 
 
-**(1)** Un véhicule qui subit, à son poids sans charge, l’impact d’un dispositif d’essai du type pendule, selon les paragraphes (3) à (5), doit avoir avant l’impact, lors d’un essai décrit au présent article,
+**(1)** Les voitures de tourisme doivent être munies de pare-chocs conformes :
 
-**a)** ses roues avant parallèles avec son axe longitudinal,
+**a)** soit aux spécifications prévues à l’article 6 et à la procédure d’essai de choc à basse vitesse prévue à l’annexe 3, à l’exception du paragraphe 4 de cette annexe, qui figurent au règlement n<sup>o</sup> 42 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des véhicules en ce qui concerne leurs dispositifs de protection (pare-chocs, etc.) à l’avant et à l’arrière, dans sa version au 12 juin 2007, tel qu’il est modifié après cette date par tout amendement de la série 00 d’amendements;
 
 
 
-**b)** ses pneumatiques gonflés à la pression recommandée par le fabricant du véhicule tel qu’indiquée, pour la charge spécifiée, sur la plaque visée au paragraphe 110(5),
+**b)** soit aux exigences, aux conditions et à la procédure d’essai qui figurent à la partie 581 du titre 49 du Code of Federal Regulations des États-Unis, dans sa version révisée au 1<sup>er</sup> octobre 2006.
 
 
 
-**c)** ses freins desserrés et sa boîte de vitesses au point mort, et
 
 
+**(2)** Jusqu’au 31 août 2009, les voitures de tourisme peuvent être conformes aux exigences du présent article dans sa version actuelle ou dans sa version antérieure à l’entrée en vigueur du présent règlement.
 
-**d)** ses crochets d’attelage pour remorque ainsi que les supports pour la plaque d’immatriculation enlevés,
 
 
+**(3)** À compter du 1<sup>er</sup> septembre 2009, les voitures de tourisme doivent être conformes aux exigences du présent article.
 
-et avoir pendant et après chaque impact,
 
 
 
-**e)** tous les feux et cataphotes, sauf les lampes de plaque d’immatriculation, exempts de fêlures et conformes aux exigences de visibilité prévues aux articles 108 ou 108.1 de la présente annexe, selon le cas,
-
-
-
-**f)** pour les projecteurs conformes à l’article 108, leur faisceau réglable dans les limites prescrites dans la norme J599 de la SAE, « Lighting Inspection Code » (mai 1981),
-
-
-
-**g)** pour les projecteurs conformes à l’article 108.1 de la présente annexe, leur faisceau réglable dans les limites prévues à cet article,
-
-
-
-**h)** le capot, le couvercle du coffre et les portes en état de fonctionner normalement,
-
-
-
-**i)** les circuits de carburant et de refroidissement exempts de fuites et d’étranglements et les dispositifs de scellement et bouchons de remplissage en état de fonctionner normalement,
-
-
-
-**j)** le système d’échappement exempt de fuites et d’étranglements, et
-
-
-
-**k)** les systèmes de propulsion, de suspension, de direction et de freinage réglés et en état de fonctionner normalement.
-
-
-
-
-
-**(2)** Un véhicule qui a déjà subi l’impact d’un dispositif d’essai du type pendule dans les conditions décrites aux paragraphes (3) à (5) et qui subit un impact contre une barrière fixe pour essais de collision placée perpendiculairement à sa ligne de déplacement lorsqu’il se déplace à une vitesse longitudinale, vers l’avant, de 8 km/h (5 mi/h) ou, vers l’arrière, de 8 km/h (5 mi/h) alors que le moteur tourne au ralenti et qu’il répond aux exigences des alinéas (1)a) à d), doit, pendant et après chaque impact, répondre aux exigences prévues aux alinéas (1)e) à k).
-
-
-
-**(3)** Un véhicule doit être soumis à deux impacts sur la surface avant et à deux sur la surface arrière, la ligne d’impact étant située à une hauteur comprise entre 500 mm (20 pouces) et 400 mm (16 pouces), conformément à la procédure d’impact longitudinal suivante :
-
-**a)** dans le cas des impacts à une hauteur comprise entre 500 mm (20 pouces) et 400 mm (16 pouces), placer le dispositif d’essai illustré à la figure 2 du présent article de telle sorte que le plan A soit vertical et la ligne d’impact horizontale située entre les limites prescrites;
-
-
-
-**b)** avant chaque impact, placer le dispositif d’essai de façon que la ligne d’impact se trouve au moins à 50 mm (deux pouces), en direction verticale, de sa position lors d’un impact précédent, à moins que le milieu de la ligne d’impact ne soit, par rapport au véhicule, à une distance latérale de plus de 300 mm (12 pouces) de sa position lors d’un impact précédent;
-
-
-
-**c)** avant chaque impact, placer le véhicule de façon qu’il touche, sans le déplacer, le dispositif d’essai; l’axe longitudinal du véhicule étant perpendiculaire au plan prolongeant le plan A du dispositif d’essai, ce dispositif d’essai étant situé dans les limites des positions prescrites au paragraphe (4) pour l’essai d’impact sur les coins;
-
-
-
-**d)** écarter le dispositif d’essai du véhicule, puis le relâcher de façon à ce que le plan A demeure vertical pendant toute la course du dispositif et jusqu’à ce qu’il commence à rebondir, l’arc décrit d’un rayon d’au moins 3,3 m (11 pieds) et situé dans un plan parallèle au plan vertical passant par l’axe longitudinal du véhicule étant constant en tout point de la ligne d’impact;
-
-
-
-**e)** relâcher le dispositif d’essai contre le véhicule de façon à ce que l’impact se produise à 8 km/h (5 mi/h); et
-
-
-
-**f)** réaliser les impacts à des intervalles d’au moins 30 min.
-
-
-
-
-
-**(4)** Tout véhicule doit être soumis à l’impact du dispositif d’essai une fois à un coin avant et une fois à un coin arrière, la ligne d’impact se trouvant à une hauteur de 500 mm (20 pouces), le tout selon la procédure suivante :
-
-**a)** dans le cas d’un impact à une hauteur de 500 mm (20 pouces), placer le dispositif d’essai illustré à la figure 1 du présent article de façon à ce que le plan A soit vertical et la ligne d’impact horizontale, à la hauteur prescrite;
-
-
-
-**b)** pour tous les impacts, placer le véhicule de telle sorte qu’un de ses coins touche mais sans le déplacer, le centre latéral du dispositif d’essai, le plan A de ce dispositif formant un angle de 60° avec un plan longitudinal vertical;
-
-
-
-**c)** écarter le dispositif d’essai du véhicule, puis le relâcher de façon à ce que le plan A demeure vertical pendant toute la course du dispositif et jusqu’à ce qu’il commence à rebondir, l’arc décrit d’un rayon d’au moins 3,3 m (11 pieds) et situé dans un plan vertical faisant un angle de 30° avec le plan vertical passant par l’axe longitudinal du véhicule étant constant en tout point de la ligne d’impact; et
-
-
-
-**d)** relâcher le dispositif d’essai sur chaque coin de façon que l’impact se produise à 4,8 km/h (3 mi/h).
-
-
-
-
-
-**(5)** Aux fins des paragraphes (3) et (4),
-
-**a)** le dispositif d’essai consiste en un bloc dont l’un des côtés est profilé comme l’indiquent les figures 1 et 2 du présent article et dont l’arête d’impact est faite d’acier trempé;
-
-
-
-**b)** le plan A vertical, la ligne d’impact indiquée sur les figures 1 et 2 est horizontale et au même niveau que le centre de percussion du dispositif d’essai;
-
-
-
-**c)** la masse du dispositif d’essai qui cause directement le choc est égale à la masse du véhicule essayé; et
-
-
-
-**d)** au moment où il subit l’impact du dispositif d’essai, le véhicule se trouve immobile sur une surface de béton plane et rigide.
-
-
-
-
-
-FIGURE 1
-
-DESSIN : DISPOSITIF D’ESSAI
-
-
-
-
-
-CE GRAPHIQUE N’EST PAS EXPOSÉ, VOIR DORS/79-338, ART. 1
-
-
-
-FIGURE 2
-
-DESSIN : DISPOSITIF D’ESSAI
-
-
-
-
-
-CE GRAPHIQUE N’EST PAS EXPOSÉ, VOIR DORS/79-338, ART. 1
-
-
-
-
->  DORS/79-338, art. 1; DORS/79-940, art. 8; DORS/91-692, art. 5; DORS/94-692, art. 2(F); DORS/97-421, art. 22(F)..
+>  DORS/79-338, art. 1; DORS/79-940, art. 8; DORS/91-692, art. 5; DORS/94-692, art. 2(F); DORS/97-421, art. 22(F); DORS/2008-199, art. 1..
 
 
 ### Résistance du pavillon à la pénétration
