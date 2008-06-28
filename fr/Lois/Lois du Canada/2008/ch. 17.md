@@ -149,6 +149,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_Ind772E_hq_4681'>[*]</a></sup>**6** La présente loi entre en vigueur trente jours après la date de sa sanction.
 
-<a name='fn_Ind772E_hq_4681'><sup>*</sup></a>: [Note : Loi non en vigueur.]<br />
+<a name='fn_Ind772E_hq_4681'><sup>*</sup></a>: [Note : Loi en vigueur le 28 juin 2008.]<br />
 
 
