@@ -149,6 +149,6 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#fn_IndABF_hq_4678'>[*]</a></sup>**6** This Act comes into force 30 days after the day on which it receives royal assent.
 
-<a name='fn_IndABF_hq_4678'><sup>*</sup></a>: [Note: Act not in force.]<br />
+<a name='fn_IndABF_hq_4678'><sup>*</sup></a>: [Note: Act in force June 28, 2008.]<br />
 
 
