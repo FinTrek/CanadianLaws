@@ -6385,7 +6385,7 @@ However, nothing in this subsection limits the liability of the transferor under
 
 **3** Manufactured tobacco other than cigarettes and tobacco sticks:
 
-**(a)** $49.983 per kilogram, if the manufactured tobacco is black stock
+**(a)** $2.49915 per 50 grams or fraction of 50 grams contained in any package, if the manufactured tobacco is black stock
 
 **(i)** for delivery by the tobacco licensee who manufactured it to a duty free shop or customs bonded warehouse,
 
@@ -6401,7 +6401,7 @@ However, nothing in this subsection limits the liability of the transferor under
 
 
 
-**(b)** $57.85 per kilogram, in any other case.
+**(b)** $2.8925 per 50 grams or fraction of 50 grams contained in any package, in any other case.
 
 
 
@@ -6412,7 +6412,7 @@ However, nothing in this subsection limits the liability of the transferor under
 **5** Raw leaf tobacco: $1.572 per kilogram.
 
 
-> 2002, c. 22, Sch. 1; 2003, c. 15, ss. 47 to 49; 2006, c. 4, ss. 37 to 40; 2007, c. 35, ss. 204 to 207; 2008, c. 28, s. 63.
+> 2002, c. 22, Sch. 1; 2003, c. 15, ss. 47 to 49; 2006, c. 4, ss. 37 to 40; 2007, c. 35, ss. 204 to 207; 2008, c. 28, ss. 63, 64.
 
 
 
@@ -6461,7 +6461,7 @@ The greater of
 
 
 
-**(c)** $0.05 per gram, in the case of manufactured tobacco other than cigarettes or tobacco sticks.
+**(c)** $2.50 per 50 grams or fraction of 50 grams contained in any package, in the case of manufactured tobacco other than cigarettes or tobacco sticks.
 
 
 
@@ -6476,7 +6476,7 @@ The greater of
 
 
 
-**(c)** $0.05 per gram, in the case of manufactured tobacco other than cigarettes or tobacco sticks.
+**(c)** $2.50 per 50 grams or fraction of 50 grams contained in any package, in the case of manufactured tobacco other than cigarettes or tobacco sticks.
 
 
 
@@ -6506,7 +6506,7 @@ The greater of
 
 
 
-**(c)** $46.002 per kilogram, in the case of tobacco products other than cigarettes or tobacco sticks.
+**(c)** $2.3001 per 50 grams or fraction of 50 grams contained in any package, in the case of tobacco products other than cigarettes or tobacco sticks.
 
 
 
