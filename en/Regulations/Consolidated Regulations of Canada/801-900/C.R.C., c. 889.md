@@ -1590,7 +1590,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <tr>
 <th>Grade Name</th>
 <th>Minimum Test Weight</th>
-<th>Variety</th>
+<th></th>
 <th>Minimum Hard Vitreous Kernels</th>
 <th>Minimum Protein</th>
 <th>Degree of Soundness</th>
@@ -1601,6 +1601,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 </tr>
 <tr>
 <th>kg/hL</th>
+<th>Variety</th>
 <th>%</th>
 <th>%</th>
 <th>%</th>
@@ -1678,9 +1679,9 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <tr>
 <th>Grade Name</th>
 <th>Minimum Test Weight</th>
-<th>Variety</th>
+<th></th>
 <th>Minimum Protein</th>
-<th>Degree of Soundness</th>
+<th></th>
 <th>Matter Other Than Cereal Grains</th>
 <th>Total</th>
 <th>Contrasting Classes</th>
@@ -1688,7 +1689,9 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 </tr>
 <tr>
 <th>kg/hL</th>
+<th>Variety</th>
 <th>%</th>
+<th>Degree of Soundness</th>
 <th>%</th>
 <th>%</th>
 <th>%</th>
@@ -1735,17 +1738,19 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <tr>
 <th>Grade Name</th>
 <th>Minimum Test Weight</th>
-<th>Variety</th>
+<th></th>
 <th>Minimum Protein</th>
-<th>Degree of Soundness</th>
+<th></th>
 <th>Matter Other Than Cereal Grains</th>
 <th>Total</th>
 <th>Contrasting Classes</th>
 <th>Total</th>
 </tr>
 <tr>
-<th>kg/hL</th>
+<th>kg/hL </th>
+<th>Variety</th>
 <th>%</th>
+<th>Degree of Soundness</th>
 <th>%</th>
 <th>%</th>
 <th>%</th>
@@ -1790,16 +1795,19 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th></th>
 </tr>
 <tr>
-<th>Grade Name</th>
+<th></th>
 <th>Minimum Test Weight</th>
-<th>Variety</th>
-<th>Degree of Soundness</th>
+<th></th>
+<th></th>
 <th>Matter Other Than Cereal Grains</th>
 <th>Total</th>
 <th>Wheats of Other Classes or Varieties</th>
 </tr>
 <tr>
+<th>Grade Name</th>
 <th>kg/hL</th>
+<th>Variety</th>
+<th>Degree of Soundness</th>
 <th>%</th>
 <th>%</th>
 <th>%</th>
@@ -1848,16 +1856,19 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th></th>
 </tr>
 <tr>
-<th>Grade Name</th>
+<th></th>
 <th>Minimum Test Weight</th>
-<th>Variety</th>
-<th>Degree of Soundness</th>
+<th></th>
+<th></th>
 <th>Matter Other Than Cereal Grains</th>
 <th>Total</th>
 <th>Amber Durum</th>
 </tr>
 <tr>
+<th>Grade Name</th>
 <th>kg/hL</th>
+<th>Variety</th>
+<th>Degree of Soundness</th>
 <th>%</th>
 <th>%</th>
 <th>%</th>
@@ -1890,7 +1901,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <tr>
 <th>Grade Name</th>
 <th>Minimum Test Weight</th>
-<th>Variety</th>
+<th></th>
 <th>Minimum Hard Vitreous Kernels</th>
 <th>Minimum Protein</th>
 <th>Degree of Soundness</th>
@@ -1901,6 +1912,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 </tr>
 <tr>
 <th>kg/hL</th>
+<th>Variety</th>
 <th>%</th>
 <th>%</th>
 <th>%</th>
@@ -2062,7 +2074,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>48</td>
 <td>92% sound groats</td>
 <td>1</td>
-<td>* No limit</td>
+<td><sup>[*]</sup>No limit</td>
 <td>8</td>
 <td>8</td>
 <td>8</td>
@@ -2074,7 +2086,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 </table>
 
 
-<sup>*</sup>:  Not included in total damage.<br />
+<a name='fn_Ind593F_hq_18072'><sup>*</sup></a>: Not included in total damage.<br />
 #### TABLE 8
 <table>
 <h4>Barley, Canada Western Malting (CW)</h4>
@@ -2084,10 +2096,10 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th>Maximum Limits of Foreign Material</th>
 </tr>
 <tr>
-<th>Grade Name</th>
+<th></th>
 <th>Minimum Test Weight</th>
-<th>Variety</th>
-<th>Degree of Soundness</th>
+<th></th>
+<th></th>
 <th>Barley of Other Types</th>
 <th>Inseparable Seeds</th>
 <th>Other Cereal Grains</th>
@@ -2095,7 +2107,10 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th>Total</th>
 </tr>
 <tr>
+<th>Grade Name</th>
 <th>kg/hL</th>
+<th>Variety</th>
+<th>Degree of Soundness</th>
 <th>%</th>
 <th>%</th>
 <th>%</th>
@@ -2200,16 +2215,18 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th>Maximum Limits of Foreign Material</th>
 </tr>
 <tr>
-<th>Grade Name</th>
+<th></th>
 <th>Minimum Test Weight</th>
-<th>Degree of Soundness</th>
+<th></th>
 <th>Inseparable Seeds</th>
 <th>Other Cereal Grains</th>
 <th>Wild Oats</th>
 <th>Total</th>
 </tr>
 <tr>
+<th>Grade Name</th>
 <th>kg/hL</th>
+<th>Degree of Soundness</th>
 <th>%</th>
 <th>%</th>
 <th>%</th>
@@ -2249,7 +2266,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th>Varieties with Adhered Hulls</th>
 <th>Other Hulless Varieties</th>
 <th>Total Adhered Hulls</th>
-<th>Degree of Soundness</th>
+<th></th>
 <th>Inseparable Seeds</th>
 <th>Other Cereal Grains</th>
 <th>Wild Oats</th>
@@ -2260,6 +2277,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th>%</th>
 <th>%</th>
 <th>%</th>
+<th>Degree of Soundness</th>
 <th>%</th>
 <th>%</th>
 <th>%</th>
@@ -2318,23 +2336,25 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th>Foreign Material</th>
 </tr>
 <tr>
-<th>Grade Name</th>
+<th></th>
 <th>Minimum Test Weight</th>
-<th>Degree of Soundness</th>
+<th></th>
 <th>Cereal Grains Other Than Wheat</th>
 <th>Ergot</th>
 <th>Matter Other Than Cereal Grain</th>
 <th>Total</th>
 </tr>
 <tr>
+<th>Grade Name</th>
 <th>kg/hL</th>
+<th>Degree of Soundness</th>
 <th>%</th>
 <th>%</th>
 <th>%</th>
 <th>%</th>
 </tr>
 <tr>
-<td>No. 1 CW </td>
+<td>No. 1 CW</td>
 <td>72</td>
 <td>Well matured, practically free from weather-damaged kernels</td>
 <td>1.5</td>
@@ -2372,16 +2392,19 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th>Maximum Limits of Damage</th>
 </tr>
 <tr>
-<th>Grade Name</th>
+<th></th>
 <th>Minimum Test Weight</th>
-<th>Variety</th>
-<th>Degree of Soundness</th>
+<th></th>
+<th></th>
 <th>Commercially Pure Seed</th>
 <th>Heated</th>
 <th>Total</th>
 </tr>
 <tr>
+<th>Grade Name</th>
 <th>kg/hL</th>
+<th>Variety</th>
+<th>Degree of Soundness</th>
 <th>%</th>
 <th>%</th>
 <th>%</th>
@@ -2424,15 +2447,18 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th>Maximum Limits of Damage</th>
 </tr>
 <tr>
-<th>Grade Name</th>
+<th></th>
 <th>Minimum Test Weigh</th>
-<th>Variety</th>
-<th>Degree of Soundness</th>
+<th></th>
+<th></th>
 <th>Heated</th>
 <th>Total</th>
 </tr>
 <tr>
+<th>Grade Name</th>
 <th>kg/hL</th>
+<th>Variety</th>
+<th>Degree of Soundness</th>
 <th>%</th>
 <th>%</th>
 </tr>
@@ -2515,17 +2541,20 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th>Standard of Quality</th>
 <th>Maximum Limits of Damage</th>
 <th></th>
+<th></th>
 </tr>
 <tr>
-<th>Grade Name</th>
+<th></th>
 <th>Minimum Test Weight</th>
-<th>Degree of Soundness</th>
+<th></th>
 <th>Heated</th>
 <th>Total</th>
 <th>Cracked Corn and Foreign Material</th>
 </tr>
 <tr>
+<th>Grade Name</th>
 <th>kg/hL</th>
+<th>Degree of Soundness</th>
 <th>%</th>
 <th>%</th>
 <th>%</th>
@@ -2596,8 +2625,8 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th></th>
 </tr>
 <tr>
-<th>Grade Name</th>
-<th>Degree of Soundness</th>
+<th></th>
+<th></th>
 <th>Heated</th>
 <th>Total</th>
 <th>Matter Other Than Cereal Grains</th>
@@ -2606,6 +2635,8 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th>Dehulled Seeds</th>
 </tr>
 <tr>
+<th>Grade Name</th>
+<th>Degree of Soundness</th>
 <th>%</th>
 <th>%</th>
 <th>%</th>
@@ -2869,16 +2900,18 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th></th>
 </tr>
 <tr>
-<th>Grade Name</th>
+<th></th>
 <th>Minimum Test Weight</th>
-<th>Degree of Soundness</th>
+<th></th>
 <th>Heated</th>
 <th>Insect Damage</th>
 <th>Total</th>
 <th>Dehulled Seeds</th>
 </tr>
 <tr>
+<th>Grade Name</th>
 <th>kg/hL</th>
+<th>Degree of Soundness</th>
 <th>%</th>
 <th>%</th>
 <th>%</th>
@@ -2919,9 +2952,9 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th>Foreign Material</th>
 </tr>
 <tr>
-<th>Grade Name</th>
+<th></th>
 <th>Minimum Test Weight</th>
-<th>Degree of Soundness</th>
+<th></th>
 <th>Dehulled</th>
 <th>Immature</th>
 <th>Total</th>
@@ -2930,7 +2963,9 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th>Total</th>
 </tr>
 <tr>
+<th>Grade Name</th>
 <th>kg/hL</th>
+<th>Degree of Soundness</th>
 <th>%</th>
 <th>%</th>
 <th>%</th>
@@ -2988,9 +3023,9 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th>Foreign Material</th>
 </tr>
 <tr>
-<th>Grade Name</th>
+<th></th>
 <th>Minimum Test Weight</th>
-<th>Degree of Soundness</th>
+<th></th>
 <th>Splits</th>
 <th>Other Colours or Bicoloured Other Than for Mixed Soybeans</th>
 <th>Heat-Damaged or Mouldy</th>
@@ -2999,7 +3034,9 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th>Total</th>
 </tr>
 <tr>
+<th>Grade Name</th>
 <th>kg/hL</th>
+<th>Degree of Soundness</th>
 <th>%</th>
 <th>%</th>
 <th>%</th>
@@ -3848,8 +3885,8 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th></th>
 </tr>
 <tr>
-<th>Grade Name</th>
-<th>Standard of Quality</th>
+<th></th>
+<th></th>
 <th>Other Classes That Blend</th>
 <th>Stones, Shale or Similar Material</th>
 <th>Total</th>
@@ -3858,6 +3895,8 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th>Total Damage Including Splits, Foreign Material and Contrasting Classes</th>
 </tr>
 <tr>
+<th>Grade Name</th>
+<th>Standard of Quality</th>
 <th>%</th>
 <th>%</th>
 <th>%</th>
@@ -4306,7 +4345,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <tr>
 <td>No. 1 CER</td>
 <td>75</td>
-<td>Any registered variety of red wheat</td>
+<td>Any registered variety of red wheat excluding Feed class</td>
 <td>Reasonably well matured, reasonably free from damaged kernels</td>
 <td>0.2</td>
 <td>0.75</td>
@@ -4315,7 +4354,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <tr>
 <td>No. 2 CER</td>
 <td>72</td>
-<td>Any registered variety of red wheat</td>
+<td>Any registered variety of red wheat excluding Feed class</td>
 <td>Fairly well matured, reasonably free from severely damaged kernels</td>
 <td>0.3</td>
 <td>1.5</td>
@@ -4324,7 +4363,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <tr>
 <td>No. 3 CER</td>
 <td>69</td>
-<td>Any registered variety of red wheat</td>
+<td>Any registered variety of red wheat excluding Feed class</td>
 <td>May be frost-damaged, immature or weather-damaged, moderately free from severely damaged kernels</td>
 <td>0.5</td>
 <td>3.5</td>
@@ -4348,16 +4387,19 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th>Foreign Material</th>
 </tr>
 <tr>
-<th>Grade Name</th>
+<th></th>
 <th>Minimum Test Weight</th>
-<th>Variety</th>
-<th>Degree of Soundness</th>
+<th></th>
+<th></th>
 <th>Matter Other Than Cereal Grains</th>
 <th>Total</th>
 <th>Contrasting Classes</th>
 </tr>
 <tr>
+<th>Grade Name</th>
 <th>kg/hL</th>
+<th>Variety</th>
+<th>Degree of Soundness</th>
 <th>%</th>
 <th>%</th>
 <th>%</th>
@@ -4407,16 +4449,19 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th>Foreign Material</th>
 </tr>
 <tr>
-<th>Grade Name</th>
+<th></th>
 <th>Minimum Test Weight</th>
-<th>Variety</th>
-<th>Degree of Soundness</th>
+<th></th>
+<th></th>
 <th>Matter Other Than Cereal Grains</th>
 <th>Total</th>
 <th>Contrasting Classes</th>
 </tr>
 <tr>
+<th>Grade Name</th>
 <th>kg/hL</th>
+<th>Variety</th>
+<th>Degree of Soundness</th>
 <th>%</th>
 <th>%</th>
 <th>%</th>
@@ -4466,16 +4511,19 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th>Foreign Material</th>
 </tr>
 <tr>
-<th>Grade Name</th>
+<th></th>
 <th>Minimum Test Weight</th>
-<th>Variety</th>
-<th>Degree of Soundness</th>
+<th></th>
+<th></th>
 <th>Matter Other Than Cereal Grains</th>
 <th>Total</th>
 <th>Contrasting Classes</th>
 </tr>
 <tr>
+<th>Grade Name</th>
 <th>kg/hL</th>
+<th>Variety</th>
+<th>Degree of Soundness</th>
 <th>%</th>
 <th>%</th>
 <th>%</th>
@@ -4526,17 +4574,20 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th>Wheat of Other Classes or Varieties</th>
 </tr>
 <tr>
-<th>Grade Name</th>
+<th></th>
 <th>Minimum Test Weight</th>
-<th>Variety</th>
-<th>Degree of Soundness</th>
+<th></th>
+<th></th>
 <th>Matter Other Than Cereal Grains</th>
 <th>Total</th>
 <th>Contrasting Classes</th>
 <th>Total</th>
 </tr>
 <tr>
+<th>Grade Name</th>
 <th>kg/hL</th>
+<th>Variety</th>
+<th>Degree of Soundness</th>
 <th>%</th>
 <th>%</th>
 <th>%</th>
@@ -4590,16 +4641,19 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th>Foreign Material</th>
 </tr>
 <tr>
-<th>Grade Name</th>
+<th></th>
 <th>Minimum Test Weight</th>
-<th>Variety</th>
-<th>Degree of Soundness</th>
+<th></th>
+<th></th>
 <th>Matter Other Than Cereal Grains</th>
 <th>Total</th>
 <th>Wheats of Other Classes</th>
 </tr>
 <tr>
+<th>Grade Name</th>
 <th>kg/hL</th>
+<th>Variety</th>
+<th>Degree of Soundness</th>
 <th>%</th>
 <th>%</th>
 <th>%</th>
@@ -4649,16 +4703,19 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th>Foreign Material</th>
 </tr>
 <tr>
-<th>Grade Name</th>
+<th></th>
 <th>Minimum Test Weight</th>
-<th>Variety</th>
-<th>Degree of Soundness</th>
+<th></th>
+<th></th>
 <th>Matter Other Than Cereal Grains</th>
 <th>Total</th>
 <th>Amber Durum</th>
 </tr>
 <tr>
+<th>Grade Name</th>
 <th>kg/hL</th>
+<th>Variety</th>
+<th>Degree of Soundness</th>
 <th>%</th>
 <th>%</th>
 <th>%</th>
@@ -4690,9 +4747,9 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th>Foreign Material</th>
 </tr>
 <tr>
-<th>Grade Name</th>
+<th></th>
 <th>Minimum Test Weight</th>
-<th>Degree of Soundness</th>
+<th></th>
 <th>Heated</th>
 <th>Total</th>
 <th>Barley</th>
@@ -4701,7 +4758,9 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th>Total Damage and Foreign Material</th>
 </tr>
 <tr>
+<th>Grade Name</th>
 <th>kg/hL</th>
+<th>Degree of Soundness</th>
 <th>%</th>
 <th>%</th>
 <th>%</th>
@@ -4762,99 +4821,53 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th></th>
 <th>Standard of Quality</th>
 <th></th>
-<th>Maximum Limits of Foreign Material</th>
+<th></th>
+<th></th>
+<th>Maximum Limits of</th>
 </tr>
 <tr>
 <th></th>
 <th></th>
 <th></th>
 <th></th>
-<th>Barley of Other Types</th>
+<th></th>
+<th>Foreign Material</th>
+</tr>
+<tr>
+<th></th>
+<th></th>
+<th>Fusarium</th>
+<th>Heated</th>
+<th>Frost</th>
 <th>Inseparable Seeds</th>
-<th>Other Cereal Grains</th>
-<th>Wild Oats</th>
-<th>Total</th>
+<th>Large oil-bearing seeds</th>
 </tr>
 <tr>
 <th>Grade Name</th>
-<th>kg/hL</th>
 <th>Variety</th>
-<th>Degree of Soundness</th>
 <th>%</th>
 <th>%</th>
 <th>%</th>
 <th>%</th>
 <th>%</th>
-</tr>
-<tr>
-<td>Special Select CE Two-row</td>
-<td>63</td>
-<td>Any selected variety of the class Barley, Canada Eastern Malting Two-Row designated as such by order of the Commission</td>
-<td>Reasonably sound, fairly well matured, may be moderately weather-stained, not severely discoloured</td>
-<td>1</td>
-<td>0.2</td>
-<td>1</td>
-<td>0.2</td>
-<td>1</td>
-</tr>
-<tr>
-<td>Free of large oil-bearing seeds</td>
-</tr>
-<tr>
-<td>Special Select CE Six-row</td>
-<td>62</td>
-<td>Any selected variety of the class Barley, Canada Eastern Malting Six-Row designated as such by order of the Commission</td>
-<td>Reasonably sound, fairly well matured, may be moderately weather-stained, not severely discoloured</td>
-<td>1</td>
-<td>0.2</td>
-<td>1</td>
-<td>0.2</td>
-<td>1</td>
-</tr>
-<tr>
-<td>Free of large oil-bearing seeds</td>
 </tr>
 <tr>
 <td>Select CE Two-row</td>
-<td>61</td>
-<td>Any selected variety of the class Barley, Canada Eastern Malting Two-Row designated as such by order of the Commission</td>
-<td>Fairly sound, may be slightly immature and moderately weather-stained or discoloured</td>
-<td>3</td>
+<td>Any selected variety of the class Barley, Canada Eastern Malting Two-row designated as such by order of the Commission</td>
 <td>0.2</td>
-<td>1</td>
-<td>0.5</td>
-<td>1.5</td>
-</tr>
-<tr>
-<td>Free of large oil-bearing seeds</td>
+<td>0.1</td>
+<td>2</td>
+<td>0.2</td>
+<td>Nil</td>
 </tr>
 <tr>
 <td>Select CE Six-row</td>
-<td>60</td>
-<td>Any selected variety of the class Barley, Canada Eastern Malting Six-Row designated as such by order of the Commission</td>
-<td>Fairly sound, may be slightly immature and moderately weather-stained or discoloured</td>
-<td>3</td>
+<td>Any selected variety of the class Barley, Canada Eastern Malting Six-row designated as such by order of the Commission</td>
 <td>0.2</td>
-<td>1</td>
-<td>0.5</td>
-<td>1.5</td>
-</tr>
-<tr>
-<td>Free of large oil-bearing seeds</td>
-</tr>
-<tr>
-<td>Standard Select CE Two-row and Six-row</td>
-<td>No minimum</td>
-<td>Any selected variety of the class Barley, Canada Eastern Malting Two-Row or Barley, Canada Eastern Malting Six-Row, designated as such by order of the Commission</td>
-<td>Excluded from other grades of malt quality barley on account of weather-staining or discoloration</td>
-<td>No limit</td>
+<td>0.1</td>
+<td>2</td>
 <td>0.2</td>
-<td>No limit</td>
-<td>No limit</td>
-<td>No limit</td>
-</tr>
-<tr>
-<td>Free of large oil-bearing seeds</td>
+<td>Nil</td>
 </tr>
 </table>
 
@@ -4912,7 +4925,10 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <tr>
 <th></th>
 <th>Standard of Quality</th>
-<th>Maximum Limits</th>
+<th>Maximum Limits of</th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
 <tr>
 <th></th>
@@ -4924,9 +4940,9 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th>Foreign Material</th>
 </tr>
 <tr>
-<th></th>
+<th>Grade Name</th>
 <th>Minimum Test Weight</th>
-<th></th>
+<th>Degree of Soundness</th>
 <th>Varieties with Adhered Hulls</th>
 <th>Other Hulless Varieties</th>
 <th>Total Adhered Hulls</th>
@@ -4936,9 +4952,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th>Total</th>
 </tr>
 <tr>
-<th>Grade Name</th>
 <th>kg/hL</th>
-<th>Degree of Soundness</th>
 <th>%</th>
 <th>%</th>
 <th>%</th>
@@ -4962,6 +4976,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <tr>
 <td></td>
 <td></td>
+<td></td>
 <td>Free of large oil-bearing seeds</td>
 <td></td>
 <td></td>
@@ -4980,6 +4995,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <td>1</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td>Free of large oil-bearing seeds</td>
@@ -5002,7 +5018,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 </table>
 
 
-<sup></sup>: Note: Barley that does not meet the specifications for Standard Canada Eastern Hulless will be graded according to quality into the “General Purpose” grades.<br />
+<sup></sup>: Note: If specifications for Standard Canada Eastern Hulless are not met, grade according to quality into the “General Purpose” grades.<br />
 #### TABLE 49
 <table>
 <h4>Rye, Canada Eastern (CE)</h4>
@@ -5120,7 +5136,12 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <tr>
 <th></th>
 <th></th>
-<th>Maximum Limits of Foreign Material</th>
+<th>Maximum Limits of</th>
+</tr>
+<tr>
+<th></th>
+<th></th>
+<th>Foreign Material</th>
 </tr>
 <tr>
 <th>Grade Name</th>
@@ -5154,11 +5175,11 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 </tr>
 <tr>
 <td>Mixed Grain, CE</td>
-<td>Mixtures of cereal grains and wild oats, no single cereal grain exceeding 50% but containing 50% or</td>
+<td>Mixtures of cereal grains and wild oats, no single cereal grain exceeding 50% but containing 50% or greater of total cereal grains</td>
 <td>2</td>
 </tr>
 <tr>
-<td>greater of total cereal grains</td>
+<td></td>
 </tr>
 </table>
 
@@ -5172,15 +5193,17 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th></th>
 </tr>
 <tr>
-<th>Grade Name</th>
+<th></th>
 <th>Minimum Test Weight</th>
-<th>Degree of Soundness</th>
+<th></th>
 <th>Heated</th>
 <th>Total</th>
 <th>Cracked Corn and Foreign Material</th>
 </tr>
 <tr>
+<th>Grade Name</th>
 <th>kg/hL</th>
+<th>Degree of Soundness</th>
 <th>%</th>
 <th>%</th>
 <th>%</th>
@@ -5458,11 +5481,11 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th>Foreign Material</th>
 </tr>
 <tr>
-<th></th>
+<th>Grade Name</th>
 <th>Minimum Test Weight</th>
 <th></th>
 <th>Minimum Protein</th>
-<th></th>
+<th>Degree of Soundness</th>
 <th>Ergot</th>
 <th>Excreta</th>
 <th>Matter Other Than Cereal Grains</th>
@@ -5471,11 +5494,9 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th>Total</th>
 </tr>
 <tr>
-<th>Grade Name</th>
 <th>kg/hL</th>
 <th>Variety</th>
 <th>%</th>
-<th>Degree of Soundness</th>
 <th>%</th>
 <th>%</th>
 <th>%</th>
@@ -5543,14 +5564,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <tr>
 <th></th>
 <th>Standard of Quality</th>
-<th>Maximum Limits of</th>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Foreign Material</th>
+<th>Maximum Limits of Foreign Material</th>
 </tr>
 <tr>
 <th></th>
@@ -5599,7 +5613,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 </tr>
 </table>
 
-> SOR/78-55, s. 5; SOR/79-543, s. 2; SOR/80-575, ss. 1, 2; SOR/81-559, s. 1; SOR/82-740, s. 1; SOR/83-628, s. 3; SOR/85-677, s. 8; SOR/87-391, s. 1; SOR/88-506, s. 1; SOR/89-364, s. 1; SOR/89-395, s. 2(F); SOR/90-324, ss. 1(F), 2(F), 3 to 5; SOR/91-282, ss. 1 to 4; SOR/92-172, ss. 1, 2(F), 3(F), 4, 5, 6(F); SOR/93-362, ss. 1 to 10; SOR/94-507, ss. 1 to 3; SOR/95-336, ss. 1 to 5; SOR/95-403, s. 1; SOR/96-300, ss. 1 to 3; SOR/97-285, ss. 1 to 4; SOR/97-356, s. 1; SOR/98-333, ss. 1 to 5; SOR/99-303, ss. 1 to 7; SOR/2000-213, s. 8; SOR/2000-276, ss. 1 to 6; SOR/2001-242, ss. 1 to 4; SOR/2002-286, ss. 1 to 4, 5(E), 6, 7(E), 8, 9(F), 10(E), 11(F), 12(F), 13(F), 14 to 16, 17(F); SOR/2003-285, ss. 2 to 4, 5(F), 6, 7(F), 8(F); SOR/2004-169, ss. 1, 2, 3(F), 4, 5(F), 6 to 9, 10(F), 11, 12, 13(F), 14; SOR/2005-225, ss. 1(F), 2(F), 3(F), 4, 5: SOR/2005-330, s. 1(E); SOR/2006-146, s. 1; SOR/2007-162, ss. 1, 2.
+> SOR/78-55, s. 5; SOR/79-543, s. 2; SOR/80-575, ss. 1, 2; SOR/81-559, s. 1; SOR/82-740, s. 1; SOR/83-628, s. 3; SOR/85-677, s. 8; SOR/87-391, s. 1; SOR/88-506, s. 1; SOR/89-364, s. 1; SOR/89-395, s. 2(F); SOR/90-324, ss. 1(F), 2(F), 3 to 5; SOR/91-282, ss. 1 to 4; SOR/92-172, ss. 1, 2(F), 3(F), 4, 5, 6(F); SOR/93-362, ss. 1 to 10; SOR/94-507, ss. 1 to 3; SOR/95-336, ss. 1 to 5; SOR/95-403, s. 1; SOR/96-300, ss. 1 to 3; SOR/97-285, ss. 1 to 4; SOR/97-356, s. 1; SOR/98-333, ss. 1 to 5; SOR/99-303, ss. 1 to 7; SOR/2000-213, s. 8; SOR/2000-276, ss. 1 to 6; SOR/2001-242, ss. 1 to 4; SOR/2002-286, ss. 1 to 4, 5(E), 6, 7(E), 8, 9(F), 10(E), 11(F), 12(F), 13(F), 14 to 16, 17(F); SOR/2003-285, ss. 2 to 4, 5(F), 6, 7(F), 8(F); SOR/2004-169, ss. 1, 2, 3(F), 4, 5(F), 6 to 9, 10(F), 11, 12, 13(F), 14; SOR/2005-225, ss. 1(F), 2(F), 3(F), 4, 5: SOR/2005-330, s. 1(E); SOR/2006-146, s. 1; SOR/2007-162, ss. 1, 2; SOR/2008-219, ss. 19, 20(F), 21 to 23, 24(F), 26.
 
 
 
