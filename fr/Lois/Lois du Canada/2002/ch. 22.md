@@ -6325,7 +6325,7 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 
 **3** Tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac :
 
-**a)** 49,983 $ le kilogramme, si le tabac fabriqué constitue un produit non ciblé destiné, selon le cas :
+**a)** 2,499 15 $ la quantité de 50 grammes, ou fraction de cette quantité, contenue dans un emballage, si le tabac fabriqué constitue un produit non ciblé destiné, selon le cas :
 
 **(i)** à être livré par le titulaire de licence de tabac qui l’a fabriqué à une boutique hors taxes ou à un entrepôt de stockage,
 
@@ -6341,7 +6341,7 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 
 
 
-**b)** 57,85 $ le kilogramme, dans les autres cas.
+**b)** 2,8925 $ la quantité de 50 grammes, ou fraction de cette quantité, contenue dans un emballage, dans les autres cas.
 
 
 
@@ -6352,7 +6352,7 @@ Toutefois, le présent paragraphe ne limite en rien la responsabilité du cédan
 **5** Tabac en feuilles, 1,572 $ le kilogramme.
 
 
-> 2002, ch. 22, ann. 1; 2003, ch. 15, art. 47 à 49; 2006, ch. 4, art. 37 à 40; 2007, ch. 35, art. 204 à 207; 2008, ch. 28, art. 63.
+> 2002, ch. 22, ann. 1; 2003, ch. 15, art. 47 à 49; 2006, ch. 4, art. 37 à 40; 2007, ch. 35, art. 204 à 207; 2008, ch. 28, art. 63 et 64.
 
 
 
@@ -6397,7 +6397,7 @@ Cigares — la plus élevée des sommes suivantes :
 
 
 
-**c)** 0,05 $ le gramme de tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac.
+**c)** 2,50 $ la quantité de 50 grammes, ou fraction de cette quantité, de tabac fabriqué contenue dans un emballage, à l’exclusion des cigarettes et des bâtonnets de tabac.
 
 
 
@@ -6412,7 +6412,7 @@ Cigares — la plus élevée des sommes suivantes :
 
 
 
-**c)** 0,05 $ le gramme de tabac fabriqué, à l’exclusion des cigarettes et des bâtonnets de tabac.
+**c)** 2,50 $ la quantité de 50 grammes, ou fraction de cette quantité, de tabac fabriqué contenue dans un emballage, à l’exclusion des cigarettes et des bâtonnets de tabac.
 
 
 
@@ -6442,7 +6442,7 @@ Cigares — la plus élevée des sommes suivantes :
 
 
 
-**c)** 46,002 $ le kilogramme de produits du tabac, à l’exclusion des cigarettes et des bâtonnets de tabac.
+**c)** 2,3001 $ la quantité de 50 grammes, ou fraction de cette quantité, de produits du tabac contenue dans un emballage, à l’exclusion des cigarettes et des bâtonnets de tabac.
 
 
 
