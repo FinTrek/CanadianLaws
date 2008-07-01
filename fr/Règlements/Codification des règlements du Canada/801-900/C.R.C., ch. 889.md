@@ -2995,13 +2995,16 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <td>Canada n<sup>o</sup> 3</td>
 <td>66</td>
-<td>Fraîche, odeur naturelle, peut être tachée</td>
+<td>Fraîche, odeur naturelle, peut</td>
 <td>20</td>
 <td>5</td>
 <td>1</td>
 <td>5</td>
 <td>0,5</td>
 <td>3</td>
+</tr>
+<tr>
+<td>être tachée</td>
 </tr>
 <tr>
 <td>Canada n<sup>o</sup> 4</td>
@@ -3293,7 +3296,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>5</td>
 </tr>
 <tr>
-<td>Canada n<sup>o</sup> 2</td>
+<td>Canada n<sup>o</sup> </td>
 <td>Passablement bien mûri, odeur agréable, couleur naturelle raisonnablement bonne</td>
 <td>Au plus 1,5 % d’autres graines apparentes qui ne sont pas facilement séparées de la graine de colza, à être évaluées comme impuretés</td>
 <td>6</td>
@@ -3580,10 +3583,13 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <td>Canada n<sup>o</sup> 3</td>
 <td>Aucun minimum</td>
-<td>Odeur raisonnablement agréable, exclue des grades supérieurs en raison du poids léger ou de grains endommagés</td>
+<td>Odeur raisonnablement agréable, exclue des grades supérieurs en raison du poids léger ou</td>
 <td>3</td>
 <td>2</td>
 <td>7</td>
+</tr>
+<tr>
+<td>de grains endommagés</td>
 </tr>
 </table>
 
@@ -3641,7 +3647,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>2</td>
 </tr>
 <tr>
-<td>Canada n<sup>o</sup> 1</td>
+<td>Canada n<sup>o</sup> 1</td>
 <td>Couleur raisonnablement bonne</td>
 <td>1</td>
 <td>0,05</td>
@@ -4245,7 +4251,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <td>CER n<sup>o</sup> 1</td>
 <td>75</td>
-<td>Toute variété de blé rouge enregistrée</td>
+<td>Toute variété de blé rouge enregistrée autre que la classe fourragère</td>
 <td>Raisonnablement bien mûri, raisonnablement exempt de grains endommagés</td>
 <td>0,2</td>
 <td>0,75</td>
@@ -4254,7 +4260,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <td>CER n<sup>o</sup> 2</td>
 <td>72</td>
-<td>Toute variété de blé rouge enregistrée</td>
+<td>Toute variété de blé rouge enregistrée autre que la classe fourragère</td>
 <td>Passablement bien mûri, raisonnablement exempt de grains fortement endommagés</td>
 <td>0,3</td>
 <td>1,5</td>
@@ -4263,7 +4269,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <td>CER n<sup>o</sup> 3</td>
 <td>69</td>
-<td>Toute variété de blé rouge enregistrée</td>
+<td>Toute variété de blé rouge enregistrée autre que la classe fourragère</td>
 <td>Peut être atteint par la gelée, immature ou abîmé par les intempéries, modérément exempt de grains fortement endommagés</td>
 <td>0,5</td>
 <td>3,5</td>
@@ -4706,124 +4712,61 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <th></th>
 <th>Norme de qualité</th>
-<th>Limites maximales de matières étrangères</th>
+<th></th>
+<th></th>
+<th></th>
+<th>Limites maximales</th>
+</tr>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>Matières étrangères</th>
 </tr>
 <tr>
 <th>Nom de grade</th>
-<th>Poids spécifique minimum </th>
 <th></th>
-<th></th>
-<th>Orge d’autres types</th>
+<th>Fusariée</th>
+<th>Échauffée</th>
+<th>Gelée</th>
 <th>Graines inséparables</th>
-<th>Autres céréales</th>
-<th>Folle avoine</th>
-<th>Total</th>
+<th>Grosses graines oléagineuses</th>
 </tr>
 <tr>
-<th>kg/hl</th>
 <th>Variété</th>
-<th>Condition</th>
 <th>%</th>
 <th>%</th>
 <th>%</th>
 <th>%</th>
 <th>%</th>
-</tr>
-<tr>
-<td>Extra spéciale EC à deux rangs</td>
-<td>63</td>
-<td>Toute variété sélectionnée de la classe d’orge brassicole, Est canadien à deux rangs désignée comme telle par arrêté de la Commission</td>
-<td>Raisonnablement saine, passablement bien mûrie, peut être modérément tachée par les intempéries, non fortement décolorée</td>
-<td>1</td>
-<td>0,2</td>
-<td>1</td>
-<td>0,2</td>
-<td>1</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Exempte de grosses graines oléagineuses</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Extra spéciale EC à six rangs</td>
-<td>62</td>
-<td>Toute variété sélectionnée de la classe d’orge brassicole, Est canadien à six rangs désignée comme telle par arrêté de la Commission</td>
-<td>Raisonnablement saine, passablement bien mûrie, peut être modérément tachée par les intempéries, non fortement décolorée</td>
-<td>1</td>
-<td>0,2</td>
-<td>1</td>
-<td>0,2</td>
-<td>1</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Exempte de grosses graines oléagineuses</td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>Extra EC à deux rangs</td>
-<td>61</td>
 <td>Toute variété sélectionnée de la classe d’orge brassicole, Est canadien à deux rangs désignée comme telle par arrêté de la Commission</td>
-<td>Passablement saine, peut être légèrement immature et modérément tachée par les intempéries ou décolorée</td>
-<td>3</td>
 <td>0,2</td>
-<td>1</td>
-<td>0,5</td>
-<td>1,5</td>
+<td>0,1</td>
+<td>2</td>
+<td>0,2</td>
+<td>Aucune</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>Exempte de grosses graines oléagineuses</td>
-<td></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
 <td>Extra EC à six rangs</td>
-<td>60</td>
 <td>Toute variété sélectionnée de la classe d’orge brassicole, Est canadien à six rangs désignée comme telle par arrêté de la Commission</td>
-<td>Passablement saine, peut être légèrement immature et modérément tachée par les intempéries ou décolorée</td>
-<td>3</td>
 <td>0,2</td>
-<td>1</td>
-<td>0,5</td>
-<td>1,5</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>Exempte de grosses graines oléagineuses</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>Extra standard EC à deux rangs et à six rangs</td>
-<td>Aucun minimum</td>
-<td>Toute variété sélectionnée de la classe d’orge brassicole, Est canadien à deux rangs ou de la classe d’orge brassicole, Est canadien à six rangs désignée comme telle par arrêté de la Commission</td>
-<td>Exclue des autres grades d’orge brassicole en raison de taches dues aux intempéries ou d’une décoloration</td>
-<td>Aucune limite</td>
+<td>0,1</td>
+<td>2</td>
 <td>0,2</td>
-<td>Aucune limite</td>
-<td>Aucune limite</td>
-<td>Aucune limite</td>
-</tr>
-<tr>
-<td></td>
-<td>Exempte de grosses graines oléagineuses</td>
+<td>Aucune</td>
 </tr>
 </table>
 
 
-<sup></sup>: Remarque : L’orge qui n’est pas sélectionnée pour le maltage est classée, selon sa qualité, dans l’un des grades « à des fins générales ».<br />
+<sup></sup>: Remarque : L’orge qui n’est pas sélectionnée pour le maltage est classée, selon sa qualité, dans l’un des grades « à des fins générales ».<br />
 #### TABLEAU 47
 <table>
 <h4>Orge à des fins générales, Est canadien (EC)</h4>
@@ -4874,13 +4817,23 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <th></th>
 <th>Norme de qualité</th>
-<th>Limites maximales de matières étrangères</th>
+<th>Limites maximales</th>
+<th></th>
+</tr>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>Matières étrangères</th>
 </tr>
 <tr>
 <th>Nom de grade</th>
-<th>Poids spécifique minimum kg/hl</th>
+<th>Poids spécifique minimum</th>
 <th></th>
-<th>Variétés avec glumes adhérées %</th>
+<th>Variétés avec glumes adhérées</th>
 <th>Autres variétés à grains nus</th>
 <th>Total, glumes adhérées</th>
 <th>Graines inséparables</th>
@@ -4889,8 +4842,9 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <th>Total</th>
 </tr>
 <tr>
+<th>kg/hl</th>
 <th>Condition</th>
-<th></th>
+<th>%</th>
 <th>%</th>
 <th>%</th>
 <th>%</th>
@@ -4911,13 +4865,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>1</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
 <td>Exempte de grosses graines oléagineuses</td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>Orge extra à grains nus EC à six rangs</td>
@@ -4955,7 +4903,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 </table>
 
 
-<sup></sup>: Remarque : Si les caractéristiques de l’orge standard à grains nus de l’Est canadien ne sont pas satisfaites, classer en fonction de la qualité dans les grades « à des fins générales ».<br />
+<sup></sup>: Remarque : Si l’orge n’a pas les caractéristiques de l’orge standard à grains nus de l’Est canadien classer en fonction de la qualité dans les grades « à des fins générales ».<br />
 #### TABLEAU 49
 <table>
 <h4>Seigle, Est canadien (EC)</h4>
@@ -4992,7 +4940,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>2</td>
 </tr>
 <tr>
-<td>EC n<sup>o</sup> 2 </td>
+<td>EC n<sup>o</sup> 2</td>
 <td>69</td>
 <td>Raisonnablement bien mûri, raisonnablement exempt de grains abîmés par les intempéries</td>
 <td>3</td>
@@ -5072,7 +5020,12 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <th></th>
 <th></th>
-<th>Limites maximales de matières étrangères</th>
+<th>Limites maximales</th>
+</tr>
+<tr>
+<th></th>
+<th></th>
+<th>Matières étrangères</th>
 </tr>
 <tr>
 <th>Nom de grade</th>
@@ -5081,32 +5034,32 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 </tr>
 <tr>
 <td>Grain mélangé, blé EC</td>
-<td>Mélanges de céréales et de folle avoine contenant plus de 50 % de blé</td>
+<td>Mélanges de céréales et de folle avoine, contenant plus de 50 % de blé</td>
 <td>2</td>
 </tr>
 <tr>
 <td>Grain mélangé, seigle EC</td>
-<td>Mélanges de céréales et de folle avoine contenant plus de 50 % de seigle</td>
+<td>Mélanges de céréales et de folle avoine, contenant plus de 50 % de seigle</td>
 <td>2</td>
 </tr>
 <tr>
 <td>Grain mélangé, orge EC</td>
-<td>Mélanges de céréales et de folle avoine contenant plus de 50 % d’orge</td>
+<td>Mélanges de céréales et de folle avoine, contenant plus de 50 % d’orge</td>
 <td>2</td>
 </tr>
 <tr>
 <td>Grain mélangé, avoine EC</td>
-<td>Mélanges de céréales et de folle avoine contenant plus de 50 % d’avoine</td>
+<td>Mélanges de céréales et de folle avoine, contenant plus de 50 % d’avoine</td>
 <td>2</td>
 </tr>
 <tr>
 <td>Grain mélangé, triticale EC</td>
-<td>Mélanges de céréales et de folle avoine contenant plus de 50 % de triticale</td>
+<td>Mélanges de céréales et de folle avoine, contenant plus de 50 % de triticale</td>
 <td>2</td>
 </tr>
 <tr>
 <td>Grain mélangé, EC</td>
-<td>Mélanges de céréales et de folle avoine contenant 50 % ou plus de céréales au total, sans que la proportion d’aucune céréale n’excède 50 %</td>
+<td>Mélanges de céréales et de folle avoine, sans que la proportion d’aucune céréale n’excède 50 % mais contenant 50 % ou plus de céréales au total</td>
 <td>2</td>
 </tr>
 </table>
@@ -5118,15 +5071,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <th></th>
 <th>Norme de qualité</th>
 <th></th>
-<th>Limites maximales </th>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th>Dommages </th>
-<th></th>
-<th></th>
+<th>Limites maximales de dommages</th>
 </tr>
 <tr>
 <th></th>
@@ -5179,7 +5124,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <td>EC n<sup>o</sup> 5</td>
 <td>58</td>
-<td>Peut avoir une légère odeur, mais aucune odeur sure ou de moisi</td>
+<td>Peut dégager une légère odeur, mais aucune odeur sure ou de moisi</td>
 <td>3</td>
 <td>15</td>
 <td>12</td>
@@ -5187,7 +5132,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 </table>
 
 
-<sup></sup>: Remarque :La couleur est ajoutée au nom de grade.<br />
+<sup></sup>: Remarque : La couleur est ajoutée au nom de grade.<br />
 #### TABLEAU 53
 <table>
 <h4>Blé expérimental, Ouest canadien (OC EXPRMTL)</h4>
@@ -5487,14 +5432,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <th></th>
 <th>Norme de qualité</th>
-<th>Limites maximales</th>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th>Matières étrangères</th>
+<th>Limites maximales de matières étrangères</th>
 </tr>
 <tr>
 <th>Nom de grade</th>
@@ -5516,7 +5454,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <td>CEHWS n<sup>o</sup> 1</td>
 <td>75</td>
-<td>Toute variété de la classe CEHWS désignée comme telle par arrêté de la Commission </td>
+<td>Toute variété de la classe CEHWS désignée comme telle par arrêté de la Commission</td>
 <td>Raisonnablement bien mûri, raisonnablement exempt de grains endommagés</td>
 <td>0,2</td>
 <td>0,75</td>
@@ -5525,7 +5463,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <td>CEHWS n<sup>o</sup> 2</td>
 <td>72</td>
-<td>Toute variété de la classe CEHWS désignée comme telle par arrêté de la Commission </td>
+<td>Toute variété de la classe CEHWS désignée comme telle par arrêté de la Commission</td>
 <td>Passablement bien mûri, peut être modérément abîmé par les intempéries, raisonnablement exempt de grains fortement endommagés</td>
 <td>0,3</td>
 <td>1,5</td>
@@ -5542,7 +5480,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 </tr>
 </table>
 
-> DORS/78-55, art. 5; DORS/79-543, art. 2; DORS/80-575, art. 1 et 2; DORS/81-559, art. 1; DORS/82-740, art. 1; DORS/83-628, art. 3; DORS/85-677, art. 8; DORS/87-391, art. 1; DORS/88-506, art. 1; DORS/89-364, art. 1; DORS/89-395, art. 2(F); DORS/90-324, art. 1(F), 2(F) et 3 à 5; DORS/91-282, art. 1 à 4; DORS/92-172, art. 1, 2(F), 3(F), 4, 5 et 6(F); DORS/93-362, art. 1 à 10; DORS/94-507, art. 1 à 3; DORS/95-336, art. 1 à 5; DORS/95-403, art. 1; DORS/96-300, art. 1 à 3; DORS/97-285, art. 1 à 4; DORS/97-356, art. 1; DORS/98-333, art. 1 à 5; DORS/99-303, art. 1 à 7; DORS/2000-213, art. 8; DORS/2000-276, art. 1 à 6; DORS/2001-242, art. 1 à 4; DORS/2002-286, art. 1 à 4, 5(A), 6, 7(A), 8, 9(F), 10(A), 11(F), 12(F), 13(F), 14 à 16 et 17(F); DORS/2003-285, art. 2 à 4, 5(F), 6, 7(F) et 8(F); DORS/2004-169, art. 1, 2, 3(F), 4, 5(F), 6 à 9, 10(F), 11, 12, 13(F) et 14; DORS/2005-225, art. 1(F), 2(F), 3(F), 4 et 5; DORS/2005-330, art. 1(A); DORS/2006-146, art. 1; DORS/2007-162, art. 1 et 2.
+> DORS/78-55, art. 5; DORS/79-543, art. 2; DORS/80-575, art. 1 et 2; DORS/81-559, art. 1; DORS/82-740, art. 1; DORS/83-628, art. 3; DORS/85-677, art. 8; DORS/87-391, art. 1; DORS/88-506, art. 1; DORS/89-364, art. 1; DORS/89-395, art. 2(F); DORS/90-324, art. 1(F), 2(F) et 3 à 5; DORS/91-282, art. 1 à 4; DORS/92-172, art. 1, 2(F), 3(F), 4, 5 et 6(F); DORS/93-362, art. 1 à 10; DORS/94-507, art. 1 à 3; DORS/95-336, art. 1 à 5; DORS/95-403, art. 1; DORS/96-300, art. 1 à 3; DORS/97-285, art. 1 à 4; DORS/97-356, art. 1; DORS/98-333, art. 1 à 5; DORS/99-303, art. 1 à 7; DORS/2000-213, art. 8; DORS/2000-276, art. 1 à 6; DORS/2001-242, art. 1 à 4; DORS/2002-286, art. 1 à 4, 5(A), 6, 7(A), 8, 9(F), 10(A), 11(F), 12(F), 13(F), 14 à 16 et 17(F); DORS/2003-285, art. 2 à 4, 5(F), 6, 7(F) et 8(F); DORS/2004-169, art. 1, 2, 3(F), 4, 5(F), 6 à 9, 10(F), 11, 12, 13(F) et 14; DORS/2005-225, art. 1(F), 2(F), 3(F), 4 et 5; DORS/2005-330, art. 1(A); DORS/2006-146, art. 1; DORS/2007-162, art. 1 et 2; DORS/2008-219, art. 19, 20(F), 21 à 23, 24(F) et 26.
 
 
 
