@@ -661,13 +661,15 @@ Sanctionnée sur le 12 décembre 2006
 
 **37** 
 
-- **(1)** L’ex-titulaire de charge publique principal qui communique, en vertu de l’alinéa 5(1)a) de la Loi sur l’enregistrement des lobbyistes, ou qui obtient une entrevue, en vertu de l’alinéa 5(1)b) de cette loi, avec un titulaire de charge publique durant la période applicable visée à l’article 36 est tenu d’en faire rapport au commissaire.
+- **(1)** L’ex-titulaire de charge publique principal qui communique, en vertu de l’alinéa 5(1)a) de la [Loi sur le lobbying](/fr/Lois/Lois%20du%20Canada/1985/ch.%2044%20(4e%20suppl.).md), ou qui obtient une entrevue, en vertu de l’alinéa 5(1)b) de cette loi, avec un titulaire de charge publique durant la période applicable visée à l’article 36 est tenu d’en faire rapport au commissaire.
 
 **Déclaration**
 
 - **(2)** L’ex-titulaire de charge publique principal fournit une déclaration dans laquelle figurent les renseignements suivants :
 	- **a)** relativement à toute communication ou entrevue visée au paragraphe (1), le nom du titulaire, la date de la communication ou de l’entrevue, les renseignements utiles à la détermination de l’objet de la communication ou de l’entrevue et tout autre renseignement exigé par le commissaire;
 	- **b)** tout changement des renseignements contenus dans la déclaration ainsi que tout renseignement additionnel qu’il aurait été tenu de fournir dans la déclaration mais qui n’a été porté à sa connaissance qu’après la transmission de sa déclaration.
+> 2006, ch. 9, art. 2 « 37 » et 36.
+
 
 
 
@@ -755,7 +757,9 @@ Sanctionnée sur le 12 décembre 2006
 
 **Précision**
 
-**42** Il est entendu que l’exemption accordée à l’égard d’une personne en vertu de l’article 38 ou que la réduction ou l’annulation accordée en vertu de l’article 39 est sans effet sur les obligations et interdictions auxquelles est assujetti l’intéressé sous le régime de la Loi sur l’enregistrement des lobbyistes.
+**42** Il est entendu que l’exemption accordée à l’égard d’une personne en vertu de l’article 38, ou que la réduction ou l’annulation accordée en vertu de l’article 39 est sans effet sur les obligations et interdictions auxquelles est assujetti l’intéressé sous le régime de la [Loi sur le lobbying](/fr/Lois/Lois%20du%20Canada/1985/ch.%2044%20(4e%20suppl.).md).
+> 2006, ch. 9, art. 2 « 42 » et 35.
+
 
 
 
