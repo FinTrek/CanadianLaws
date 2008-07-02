@@ -695,7 +695,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - <sup><a href='#nbp_Ind6E93_hq_1743'>[*]</a></sup>**(5)** Sections 65 to 82, 84 to 88 and 89 to 98 come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='nbp_Ind6E93_hq_1743'><sup>*</sup></a>: [Note: Sections 65 to 82, 84 to 88 and 89 to 98 not in force.]<br />
+<a name='nbp_Ind6E93_hq_1743'><sup>*</sup></a>: [Note: Sections 65 to 82, 84 to 88 and 89 to 98 in force July 2, 2008, *see* SI/2008-41.]<br />
 
 **Coming into force**
 
