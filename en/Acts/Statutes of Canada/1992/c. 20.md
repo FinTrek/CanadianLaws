@@ -67,7 +67,7 @@ Version anglaise seulement***institutional head***, in relation to a penitentiar
 
 ***intoxicant*** means a substance that, if taken into the body, has the potential to impair or alter judgment, behaviour or the capacity to recognize reality or meet the ordinary demands of life, but does not include caffeine, nicotine or any authorized medication used in accordance with directions given by a staff member or a registered health care professional;
 
-***long-term supervision*** means long-term supervision ordered under paragraph 753.1(3)(b), or subparagraph 759(3)(a)(i), 759(4)(a)(ii) or 759(4.2)(a)(i) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md);
+***long-term supervision*** means long-term supervision ordered under subsection 753(4), 753.01(5) or (6) or 753.1(3) or subparagraph 759(3)(a)(i) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md);
 
 ***Minister*** means the Minister of Public Safety and Emergency Preparedness;
 
@@ -105,7 +105,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 - **(2)** Except as otherwise provided by this Part or by regulations made under paragraph 96(b),
 	- **(a)** powers, duties and functions that this Part assigns to the Commissioner may only be exercised or performed by the Commissioner or, where the Commissioner is absent or incapacitated or where the office is vacant, by the person acting in the place of the Commissioner; and
 	- **(b)** powers, duties and functions that this Part assigns to the institutional head may only be exercised or performed by the institutional head or, where the institutional head is absent or incapacitated or where the office is vacant, by the person who, at the relevant time, is in charge of the penitentiary.
-> 1992, c. 20, s. 2; 1995, c. 42, s. 1; 1997, c. 17, s. 11; 2000, c. 12, s. 88; 2002, c. 1, s. 171; 2004, c. 21, s. 39; 2005, c. 10, s. 34
+> 1992, c. 20, s. 2; 1995, c. 42, s. 1; 1997, c. 17, s. 11; 2000, c. 12, s. 88; 2002, c. 1, s. 171; 2004, c. 21, s. 39; 2005, c. 10, s. 34; 2008, c. 6, s. 56
 
 
 
