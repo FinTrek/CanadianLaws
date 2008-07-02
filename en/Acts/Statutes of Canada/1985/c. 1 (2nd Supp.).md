@@ -5616,7 +5616,7 @@ lies on the person, other than Her Majesty, who is a party to the proceeding or 
 
 **Impaired driving offences**
 
-- **(2)** A designated officer who is at a customs office and is performing the normal duties of an officer or is acting in accordance with section 99.1 has the powers and obligations of a peace officer under sections 254 and 256 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) and may, on demanding samples of a person’s blood or breath under subsection 254(3) of that Act, require that the person accompany the officer, or a peace officer referred to in paragraph (c) of the definition ***peace officer*** in section 2 of that Act, for the purpose of taking the samples.
+- **(2)** A designated officer who is at a customs office performing the normal duties of an officer or is acting in accordance with section 99.1 has the powers and obligations of a peace officer under sections 254 and 256 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md). If, by demand, they require a person to provide samples of blood or breath under subsection 254(3) of that Act, or to submit to an evaluation under subsection 254(3.1) of that Act, they may also require the person to accompany a peace officer referred to in paragraph (c) of the definition ***peace officer*** in section 2 of that Act, for that purpose.
 
 **Power to detain**
 
@@ -5625,7 +5625,7 @@ lies on the person, other than Her Majesty, who is a party to the proceeding or 
 **Limitation on powers**
 
 - **(4)** A designated officer may not use any power conferred on the officer for the enforcement of this Act for the sole purpose of looking for evidence of a criminal offence under any other Act of Parliament.
-> 1998, c. 7, s. 1; 2001, c. 25, s. 84.
+> 1998, c. 7, s. 1; 2001, c. 25, s. 84; 2008, c. 6, s. 59.
 
 
 
