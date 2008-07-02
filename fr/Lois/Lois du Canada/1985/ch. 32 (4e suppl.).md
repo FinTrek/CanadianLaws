@@ -1594,8 +1594,8 @@
 
 **Admissibilité**
 
-- **(7)** Les résultats des tests d’alcoolémie effectués sous le régime du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) sont admissibles en preuve dans les poursuites intentées en application de la présente loi pour violation des règlements concernant la consommation d’alcool. L’article 258 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) s’applique, compte tenu des adaptations de circonstance.
-> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 41; 1999, ch. 9, art. 31.
+- **(7)** Les résultats des analyses servant à déterminer la concentration ou la présence d’alcool ou de drogue dans les échantillons de substances corporelles prélevés sous le régime du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) sont admissibles en preuve dans les poursuites intentées au titre de la présente loi pour violation des règles ou règlements concernant la consommation d’alcool ou de drogue. L’article 258 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) s’applique, compte tenu des adaptations nécessaires.
+> L.R. (1985), ch. 32 (4<sup>e</sup> suppl.), art. 41; 1999, ch. 9, art. 31; 2008, ch. 6, art. 60.
 
 
 
