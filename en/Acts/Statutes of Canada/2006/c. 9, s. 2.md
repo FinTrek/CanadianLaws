@@ -661,7 +661,7 @@ Assented to on 12 December 2006
 
 **37** 
 
-- **(1)** A former reporting public office holder who, during the applicable period under section 36, has any communication referred to in paragraph 5(1)(a) of the Lobbyists Registration Act or arranges a meeting referred to in paragraph 5(1)(b) of that Act shall report that communication or meeting to the Commissioner.
+- **(1)** A former reporting public office holder who, during the applicable period under section 36, has any communication referred to in paragraph 5(1)(a) of the [Lobbying Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2044%20(4th%20Supp.).md) or arranges a meeting referred to in paragraph 5(1)(b) of that Act shall report that communication or meeting to the Commissioner.
 
 **Requirement to file return**
 
@@ -672,6 +672,8 @@ Assented to on 12 December 2006
 		- **(iii)** particulars to identify the subject-matter of the communication or meeting, and
 		- **(iv)** any other information that the Commissioner requires; and
 	- **(b)** if any information contained in the return is no longer correct or additional information that the former reporting public office holder would have been required to provide in the return has come to his or her knowledge after the return was filed, provides the corrected or additional information.
+> 2006, c. 9, ss. 2 "37", 36.
+
 
 
 
@@ -759,7 +761,9 @@ Assented to on 12 December 2006
 
 **No impact**
 
-**42** For greater certainty, no exemption granted in respect of a person under section 38 and no waiver or reduction granted in respect of a person under section 39 affects any obligation or prohibition that applies to that person under the Lobbyists Registration Act.
+**42** For greater certainty, no exemption granted in respect of a person under section 38 and no waiver or reduction granted in respect of a person under section 39 affects any obligation or prohibition that applies to that person under the [Lobbying Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2044%20(4th%20Supp.).md).
+> 2006, c. 9, ss. 2 "42", 35.
+
 
 
 
