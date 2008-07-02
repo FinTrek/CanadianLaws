@@ -391,8 +391,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **b.1)** le commissariat à l’intégrité du secteur public;
 	- **c)** le bureau du vérificateur général;
 	- **d)** le commissariat à l’information;
-	- **e)** le commissariat à la protection de la vie privée.
-> L.R. (1985), ch. 31 (4<sup>e</sup> suppl.), art. 24; 2005, ch. 46, art. 56.5; 2006, ch. 9, art. 222.
+	- **e)** le commissariat à la protection de la vie privée;
+	- **f)** le Commissariat au lobbying.
+> L.R. (1985), ch. 31 (4<sup>e</sup> suppl.), art. 24; 2005, ch. 46, art. 56.5; 2006, ch. 9, art. 96 et 222.
 
 
 
