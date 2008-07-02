@@ -420,9 +420,10 @@ the decision, order or judgment, including any reasons given therefor, shall be 
 	- **(b)** the Office of the Chief Electoral Officer;
 	- **(b.1)** the Office of the Public Sector Integrity Commissioner;
 	- **(c)** the Office of the Auditor General;
-	- **(d)** the Office of the Information Commissioner; and
-	- **(e)** the Office of the Privacy Commissioner.
-> R.S., 1985, c. 31 (4th Supp.), s. 24; 2005, c. 46, s. 56.5; 2006, c. 9, s. 222.
+	- **(d)** the Office of the Information Commissioner;
+	- **(e)** the Office of the Privacy Commissioner; and
+	- **(f)** the Office of the Commissioner of Lobbying.
+> R.S., 1985, c. 31 (4th Supp.), s. 24; 2005, c. 46, s. 56.5; 2006, c. 9, ss. 96, 222.
 
 
 
