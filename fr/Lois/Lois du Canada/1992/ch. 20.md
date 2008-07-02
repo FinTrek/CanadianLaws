@@ -67,7 +67,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **d)** les montants d’argent, excédant les plafonds réglementaires, lorsqu’ils sont possédés sans autorisation;
 - **e)** toutes autres choses possédées sans autorisation et susceptibles de mettre en danger la sécurité d’une personne ou du pénitencier.
 
- ou ***peine*** ou ***peine d'emprisonnement*** S'entend notamment d'une peine spécifique imposée en vertu de la [Loi sur le système de justice pénale pour les adolescents](/fr/Lois/Lois%20du%20Canada/2002/ch.%201.md) et d'une peine d'emprisonnement imposée par une entité étrangère à un Canadien qui a été transféré au Canada sous le régime de la [Loi sur le transfèrement international des délinquants](/fr/Lois/Lois%20du%20Canada/2004/ch.%2021.md).
+ ou ***peine*** ou ***peine d’emprisonnement*** S’entend notamment d’une peine spécifique imposée en vertu de la [Loi sur le système de justice pénale pour les adolescents](/fr/Lois/Lois%20du%20Canada/2002/ch.%201.md) et d’une peine d’emprisonnement imposée par une entité étrangère à un Canadien qui a été transféré au Canada sous le régime de la [Loi sur le transfèrement international des délinquants](/fr/Lois/Lois%20du%20Canada/2004/ch.%2021.md).
 
 ***pénitencier*** Établissement — bâtiment et terrains — administré à titre permanent ou temporaire par le Service pour la prise en charge et la garde des détenus ainsi que tout autre lieu déclaré tel aux termes de l’article 7.
 
@@ -77,7 +77,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***substance intoxicante*** Toute substance qui, une fois introduite dans le corps humain, peut altérer le comportement, le jugement, le sens de la réalité ou l’aptitude à faire face aux exigences normales de la vie. Sont exclus la caféine et la nicotine, ainsi que tous médicaments dont la consommation est autorisée conformément aux instructions d’un agent ou d’un professionnel de la santé agréé.
 
-***surveillance de longue durée*** La surveillance de longue durée ordonnée en vertu du paragraphe 753.1(3) ou des sous-alinéas 759(3)a)(i), (4)a)(ii) ou (4.2)a)(i) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
+***surveillance de longue durée*** La surveillance de longue durée ordonnée en vertu des paragraphes 753(4), 753.01(5) ou (6) ou 753.1(3) ou du sous-alinéa 759(3)a)(i) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
 
 ***victime***
 - **a)** La personne qui a subi des dommages corporels ou moraux par suite de la perpétration d’une infraction;
@@ -88,7 +88,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Délégation**
 
 - **(2)** Sauf dans les cas visés à l’alinéa 96b) et sous réserve de la présente partie, les pouvoirs et fonctions conférés par celle-ci au commissaire et au directeur du pénitencier sont, en cas d’absence, d’empêchement ou de vacance de leur poste, respectivement exercés par le suppléant ou par la personne qui est alors responsable du pénitencier.
-> 1992, ch. 20, art. 2; 1995, ch. 42, art. 1; 1997, ch. 17, art. 11; 2000, ch. 12, art. 88; 2002, ch. 1, art. 171; 2004, ch. 21, art. 39; 2005, ch. 10, art. 34
+> 1992, ch. 20, art. 2; 1995, ch. 42, art. 1; 1997, ch. 17, art. 11; 2000, ch. 12, art. 88; 2002, ch. 1, art. 171; 2004, ch. 21, art. 39; 2005, ch. 10, art. 34; 2008, ch. 6, art. 56
 
 
 
