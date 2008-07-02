@@ -695,7 +695,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - <sup><a href='#nbp_Ind4021_hq_1742'>[*]</a></sup>**(5)** Les articles 65 à 82, 84 à 88 et 89 à 98 entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='nbp_Ind4021_hq_1742'><sup>*</sup></a>: [Note : Articles 65 à 82, 84 à 88 et 89 à 98 non en vigueur.]<br />
+<a name='nbp_Ind4021_hq_1742'><sup>*</sup></a>: [Note : Articles 65 à 82, 84 à 88 et 89 à 98 en vigueur le 2 juillet 2008, *voir* TR/2008-41.]<br />
 
 **Entrée en vigueur**
 
