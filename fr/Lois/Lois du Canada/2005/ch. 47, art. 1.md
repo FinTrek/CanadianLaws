@@ -8,7 +8,7 @@
 Sanctionnée sur le 25 novembre 2005
 
 ```
-[Édictée par l'article 1 du chapitre 47 des Lois du Canada (2005), non en vigueur.]
+[Édictée par l’article 1 du chapitre 47 des Lois du Canada (2005), en vigueur le 7 juillet 2008, voir TR/2008-78.]
 ```
 ----------
 
