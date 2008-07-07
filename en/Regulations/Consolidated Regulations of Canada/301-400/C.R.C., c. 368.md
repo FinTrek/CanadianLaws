@@ -584,6 +584,28 @@ However, the court may order that the notice is not required to be given to the 
 
 
 
+## Prescribed Pension Plans for Operation of Subsection 60(1.5) and Sections 81.5 and 81.6 of the Act
+
+
+**59.1** A pension plan regulated by an Act of Parliament or of the legislature of a province is prescribed for the purposes of
+- **(a)** [Not in force]
+- **(b)** sections 81.5 and 81.6 of the Act.
+> SOR/2008-223, s. 1.
+
+
+
+
+
+## Prescribed Plan for Operation of Paragraph 67(1)(B.3) of the Act
+
+
+**59.2** A deferred profit sharing plan, as defined in subsection 147(1) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), is prescribed for the purpose of paragraph 67(1)(b.3) of the Act.
+> SOR/2008-223, s. 1.
+
+
+
+
+
 ## Taxation of Accounts and Discharge of Trustee
 
 
@@ -745,7 +767,7 @@ However, the court may order that the notice is not required to be given to the 
 
 
 ## Application for Bankruptcy Order
-> SOR/2007-61, s. 14.
+> [SOR/2007-61, s. 14]
 
 
 
