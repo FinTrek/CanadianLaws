@@ -584,6 +584,28 @@ Toutefois, le tribunal peut rendre une ordonnance dispensant de l’envoi d’un
 
 
 
+## Régime de pension prescrit pour l’application du paragraphe 60(1.5) et des articles 81.5 et 81.6 de la loi
+
+
+**59.1** Tout régime de pension qui est régi par une loi fédérale ou provinciale est un régime de pension prescrit pour l’application des dispositions suivantes :
+- **a)** [Non en vigueur]
+- **b)** les articles 81.5 et 81.6 de la Loi.
+> DORS/2008-223, art. 1.
+
+
+
+
+
+## Régime prescrit pour l’application de l’alinéa 67(1)b.3) De la loi
+
+
+**59.2** Est un régime prescrit, pour l’application de l’alinéa 67(1)b.3) de la Loi, tout régime de participation différée aux bénéfices, au sens du paragraphe 147(1) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md).
+> DORS/2008-223, art. 1.
+
+
+
+
+
 ## Taxation des comptes et libération du syndic
 
 
