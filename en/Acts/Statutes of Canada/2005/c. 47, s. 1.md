@@ -8,7 +8,7 @@
 Assented to on 25 November 2005
 
 ```
-[Enacted by section 1 of chapter 47 of the Statutes of Canada, 2005, not in force.]
+[Enacted by section 1 of chapter 47 of the Statutes of Canada, 2005, in force July 7, 2008, see SI/2008-78.]
 ```
 ----------
 
@@ -152,7 +152,7 @@ Assented to on 25 November 2005
 **Application**
 
 **8** To receive a payment, an individual is to apply to the Minister in the manner and during the period provided for in the regulations.
-> 2005, c. 47, s. 1 "8"; 2007, c. 36, s. 87.
+> 2005, c. 47, s. 1 “8”; 2007, c. 36, s. 87.
 
 
 
@@ -161,7 +161,7 @@ Assented to on 25 November 2005
 **Minister’s determination of eligibility**
 
 **9** If the Minister determines that the applicant is eligible to receive a payment, the Minister shall make the payment.
-> 2005, c. 47, s. 1 "9"; 2007, c. 36, s. 87.
+> 2005, c. 47, s. 1 “9”; 2007, c. 36, s. 87.
 
 
 
@@ -170,7 +170,7 @@ Assented to on 25 November 2005
 **Notification**
 
 **10** The Minister is to inform the applicant of their eligibility or ineligibility to receive a payment.
-> 2005, c. 47, s. 1 "10"; 2007, c. 36, s. 87.
+> 2005, c. 47, s. 1 “10”; 2007, c. 36, s. 87.
 
 
 
@@ -183,7 +183,7 @@ Assented to on 25 November 2005
 **Request for review**
 
 **11** An applicant who is informed under section 10 may request a review of their eligibility or ineligibility, as the case may be.
-> 2005, c. 47, s. 1 "11"; 2007, c. 36, s. 87.
+> 2005, c. 47, s. 1 “11”; 2007, c. 36, s. 87.
 
 
 
@@ -192,7 +192,7 @@ Assented to on 25 November 2005
 **Review**
 
 **12** The Minister may confirm, vary or rescind a determination of eligibility made under section 9. If the Minister varies the determination, the Minister shall make any payment resulting from the variation.
-> 2005, c. 47, s. 1 "12"; 2007, c. 36, s. 87.
+> 2005, c. 47, s. 1 “12”; 2007, c. 36, s. 87.
 
 
 
@@ -201,7 +201,7 @@ Assented to on 25 November 2005
 **Review is final**
 
 **13** Subject to the right of appeal under section 14, the Minister’s confirmation, variation or rescission, as the case may be, is final and may not be questioned or reviewed in any court.
-> 2005, c. 47, s. 1 "13"; 2007, c. 36, s. 87.
+> 2005, c. 47, s. 1 “13”; 2007, c. 36, s. 87.
 
 
 
@@ -214,7 +214,7 @@ Assented to on 25 November 2005
 **Appeal on question of law or jurisdiction**
 
 **14** The applicant may appeal the decision made by the Minister under section 12 to an adjudicator only on a question of law or jurisdiction.
-> 2005, c. 47, s. 1 "14"; 2007, c. 36, s. 87.
+> 2005, c. 47, s. 1 “14”; 2007, c. 36, s. 87.
 
 
 
@@ -230,7 +230,7 @@ Assented to on 25 November 2005
 **Appeal on the record**
 
 **16** The appeal is to be an appeal on the record and no new evidence is admissible.
-> 2005, c. 47, s. 1 "16"; 2007, c. 36, s. 88.
+> 2005, c. 47, s. 1 “16”; 2007, c. 36, s. 88.
 
 
 
@@ -239,7 +239,7 @@ Assented to on 25 November 2005
 **Adjudicator’s decision**
 
 **17** The adjudicator may confirm, vary or rescind the decision made by the Minister under section 12. If the adjudicator varies the decision, the Minister shall make any payment resulting from the variation.
-> 2005, c. 47, s. 1 "17"; 2007, c. 36, s. 88.
+> 2005, c. 47, s. 1 “17”; 2007, c. 36, s. 88.
 
 
 
@@ -255,7 +255,7 @@ Assented to on 25 November 2005
 **No review by certiorari, etc.**
 
 **19** No order may be made to review, prohibit or restrain and no process entered or proceeding taken to question, review, prohibit or restrain in any court — whether by way of injunction, *certiorari*, prohibition, *quo warranto* or otherwise — an action of an adjudicator under this Act.
-> 2005, c. 47, s. 1 "19"; 2007, c. 36, s. 89.
+> 2005, c. 47, s. 1 “19”; 2007, c. 36, s. 89.
 
 
 
@@ -264,7 +264,7 @@ Assented to on 25 November 2005
 **Decision is final**
 
 **20** The adjudicator’s decision is final and may not be questioned or reviewed in any court.
-> 2005, c. 47, s. 1 "20"; 2007, c. 36, s. 89.
+> 2005, c. 47, s. 1 “20”; 2007, c. 36, s. 89.
 
 
 
@@ -315,7 +315,7 @@ Assented to on 25 November 2005
 **Minister to pay fees and expenses**
 
 - **(2)** The Minister shall, in the circumstances prescribed by regulation, pay the fees or expenses that are prescribed by regulation.
-> 2005, c. 47, s. 1 "22"; 2007, c. 36, s. 89.
+> 2005, c. 47, s. 1 “22”; 2007, c. 36, s. 89.
 
 
 
@@ -403,7 +403,7 @@ Assented to on 25 November 2005
 **Information to be made available to Minister**
 
 **27** Despite subsection 139(5) of the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md), personal information relating to an applicant that is collected or obtained by the Canada Employment Insurance Commission must, if requested by the Minister, be made available to the Minister to determine the applicant’s eligibility to receive a payment under this Act.
-> 2005, c. 47, ss. 1 "27", 140.
+> 2005, c. 47, ss. 1 “27”, 140.
 
 
 
@@ -416,7 +416,7 @@ Assented to on 25 November 2005
 **Social Insurance Number**
 
 **29** No person may knowingly use, communicate or allow to be communicated a Social Insurance Number that was obtained for a purpose related to an application for a payment under this Act except for the purpose of the administration or enforcement of this Act or the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md).
-> 2005, c. 47, s. 1 "29"; 2007, c. 36, s. 90.
+> 2005, c. 47, s. 1 “29”; 2007, c. 36, s. 90.
 
 
 
@@ -465,7 +465,7 @@ Assented to on 25 November 2005
 **Certificate of default**
 
 - **(3)** The amount of any debt referred to in subsection (2) that remains unpaid 30 days after the day on which the notice is sent may be certified by the Minister, and registration of the certificate in the Federal Court has the same effect as a judgment of that Court for the amount specified in the certificate and all related registration costs.
-> 2005, c. 47, s. 1 "32"; 2007, c. 36, s. 91.
+> 2005, c. 47, s. 1 “32”; 2007, c. 36, s. 91.
 
 
 
@@ -474,7 +474,7 @@ Assented to on 25 November 2005
 **Garnishment**
 
 **33** If the Minister is of the opinion that a person is or is about to become liable to pay an amount to an individual who is indebted to Her Majesty under section 32, the Minister may, by written notice, order the person to pay to the Receiver General on account of the individual’s liability all or part of the amount otherwise payable to the individual.
-> 2005, c. 47, s. 1 "33"; 2007, c. 36, s. 91.
+> 2005, c. 47, s. 1 “33”; 2007, c. 36, s. 91.
 
 
 
@@ -483,7 +483,7 @@ Assented to on 25 November 2005
 **No payment or partial payment**
 
 **34** If the Minister determines that an individual did not receive all or part of a payment that they were eligible to receive, the Minister shall make a payment to them in an amount equal to the amount that they did not receive.
-> 2005, c. 47, s. 1 "34"; 2007, c. 36, s. 92(E).
+> 2005, c. 47, s. 1 “34”; 2007, c. 36, s. 92(E).
 
 
 
@@ -511,7 +511,7 @@ Assented to on 25 November 2005
 **Maintaining an action**
 
 - **(2)** For the purposes of subsection (1), Her Majesty in right of Canada may maintain an action in the name of the individual or Her Majesty in right of Canada.
-> 2005, c. 47, s. 1 "36"; 2007, c. 36, s. 93.
+> 2005, c. 47, s. 1 “36”; 2007, c. 36, s. 93.
 
 
 
@@ -520,7 +520,7 @@ Assented to on 25 November 2005
 **Amount not assignable**
 
 **37** An amount that is payable under this Act is not capable of being assigned, charged, attached, anticipated or given as security and any transaction appearing to do so is void or, in Quebec, null.
-> 2005, c. 47, s. 1 "37"; 2007, c. 36, s. 93.
+> 2005, c. 47, s. 1 “37”; 2007, c. 36, s. 93.
 
 
 
@@ -554,7 +554,7 @@ Assented to on 25 November 2005
 **Due diligence**
 
 - **(4)** No person may be convicted of an offence under subsection (2) if the person establishes that they exercised due diligence to prevent the commission of the offence.
-> 2005, c. 47, s. 1 "38"; 2007, c. 36, s. 93.
+> 2005, c. 47, s. 1 “38”; 2007, c. 36, s. 93.
 
 
 
@@ -569,7 +569,7 @@ Assented to on 25 November 2005
 **Limitation of prosecutions**
 
 - **(2)** A prosecution for an offence under subsection (1) may be commenced at any time within two years after the day on which the subject matter of the prosecution arose.
-> 2005, c. 47, s. 1 "39"; 2007, c. 36, s. 93.
+> 2005, c. 47, s. 1 “39”; 2007, c. 36, s. 93.
 
 
 
