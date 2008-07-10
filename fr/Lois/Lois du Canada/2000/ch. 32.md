@@ -939,14 +939,16 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 ### **ANNEXE 1** 
-**(*articles 2, 5, 6, 7 et 38*)**
+**(articles 2, 5, 6, 7 et 38)**
 ## Parcs nationaux du Canada
 
 **PARTIE 1 — COLOMBIE-BRITANNIQUE** 
+
+
 ### (1) Parc national des Glaciers du Canada
 
 
-Toutes les latitudes et longitudes indiquées ci-après font référence au système géodésique nord-américain de 1927 et tous les accidents topographiques indiqués sont conformes à la première édition de la carte « Map Compilation and Reproduction » MCR 219 (Parcs nationaux des Glaciers et du Mont-Revelstoke) compilée à partir des cartes 82N/3, 82N/4, 82N/5, 82N/6, 82L/16 et 82M/1 de la série 1 : 50 000 du système national de référence cartographique et d’information fournie par Environnement Canada Parcs; ladite carte MCR a été produite à l’échelle de 1 : 70 000 par la Direction des levés et de la cartographie, Énergie, Mines et Ressources Canada, 1987;
+Toutes les latitudes et longitudes indiquées ci-après font référence au système géodésique nord-américain de 1927 et tous les accidents topographiques indiqués sont conformes à la première édition de la carte « Map Compilation and Reproduction » MCR 219 (Parcs nationaux des Glaciers et du Mont-Revelstoke) compilée à partir des cartes 82N/3, 82N/4, 82N/5, 82N/6, 82L/16 et 82M/1 de la série 1 : 50 000 du système national de référence cartographique et d’information fournie par Environnement Canada Parcs; ladite carte MCR a été produite à l’échelle de 1 : 70 000 par la Direction des levés et de la cartographie, Énergie, Mines et Ressources Canada, 1987;
 
 
 
@@ -958,7 +960,7 @@ Dans le district de Kootenay;
 
 
 
-Toute cette parcelle de terrain plus particulièrement décrite comme il suit :
+Toute cette parcelle de terrain plus particulièrement décrite comme il suit :
 
 
 
@@ -970,7 +972,7 @@ De là, vers le nord-est suivant la limite de partage des eaux qui divise le bas
 
 
 
-De là, sur une direction d’environ 84°18′18″, une distance d’environ 8 494,6 mètres (27 869,4 pieds) suivant les parcours consécutifs d’une partie de la limite du Parc national des Glaciers jusqu’à l’ancienne borne de fer A.T.C. marquée N.P.4 indiquée sur ledit plan 43227 auxdites archives; ladite borne est située à l’extrémité nord des montagnes dénommées « Prairie Hills »;
+De là, sur une direction d’environ 84°18′18″, une distance d’environ 8 494,6 mètres (27 869,4 pieds) suivant les parcours consécutifs d’une partie de la limite du Parc national des Glaciers jusqu’à l’ancienne borne de fer A.T.C. marquée N.P.4 indiquée sur ledit plan 43227 auxdites archives; ladite borne est située à l’extrémité nord des montagnes dénommées « Prairie Hills »;
 
 
 
@@ -1026,14 +1028,14 @@ De là, généralement vers le nord-est, le sud-est et l’est suivant les sinuo
 
 
 
-Ladite parcelle renfermant environ 1 349 kilomètres carrés.
+Ladite parcelle renfermant environ 1 349 kilomètres carrés.
 
 
 
 ### (2) Parc national Yoho du Canada
 
 
-L’ensemble du lopin de terre, dans la province de la Colombie-Britannique, plus précisément décrit comme il suit :
+L’ensemble du lopin de terre, dans la province de la Colombie-Britannique, plus précisément décrit comme il suit :
 
 
 
@@ -1101,7 +1103,7 @@ De là, dans une direction en général sud-est et suivant ledit sommet des Mont
 
 
 
-Ledit lopin renfermant une superficie d’environ 131 312,0685 hectares.
+Ledit lopin renfermant une superficie d’environ 131 312,0685 hectares.
 
 
 
@@ -1120,7 +1122,7 @@ Dans l’ancienne ceinture de chemin de fer;
 
 
 
-Toute cette parcelle de terrain plus particulièrement décrite comme suit :
+Toute cette parcelle de terrain plus particulièrement décrite comme suit :
 
 
 
@@ -1128,7 +1130,7 @@ Premièrement,
 
 
 
-Conformément au plan déposé aux Archives des terres du Canada à Ottawa sous le numéro 43402 et dont une copie a été déposée au Bureau des titres de biens-fonds à Kamloops sous le numéro D.F. 23953 :
+Conformément au plan déposé aux Archives des terres du Canada à Ottawa sous le numéro 43402 et dont une copie a été déposée au Bureau des titres de biens-fonds à Kamloops sous le numéro D.F. 23953 :
 
 
 
@@ -1160,7 +1162,7 @@ Deuxièmement,
 
 
 
-Conformément au plan du lot 3643 déposé auxdites archives sous le numéro 63656 et constituant une copie du plan officiel ratifié en vertu de l’article 63 de la Land Act, à Victoria (C.-B.) le 30 novembre 1977, et portant le numéro F.B. 18077 :
+Conformément au plan du lot 3643 déposé auxdites archives sous le numéro 63656 et constituant une copie du plan officiel ratifié en vertu de l’article 63 de la Land Act, à Victoria (C.-B.) le 30 novembre 1977, et portant le numéro F.B. 18077 :
 
 
 
@@ -1180,7 +1182,7 @@ Troisièmement,
 
 
 
-Conformément audit plan 43402 :
+Conformément audit plan 43402 :
 
 
 
@@ -1228,7 +1230,7 @@ Quatrièmement,
 
 
 
-Conformément aux plans 63417 et 67619 auxdites archives :
+Conformément aux plans 63417 et 67619 auxdites archives :
 
 
 
@@ -1236,11 +1238,11 @@ Continuant à partir du coin sud-ouest dudit quart nord-est de la section 14;
 
 
 
-De là, dans une direction de S45°13′10″O, une distance de 1 149,83 mètres jusqu’au coin sud-ouest de ladite section 14;
+De là, dans une direction de S45°13′10″O, une distance de 1 149,83 mètres jusqu’au coin sud-ouest de ladite section 14;
 
 
 
-De là, dans une direction de S45°13′50″O, une distance de 1 148,94 mètres jusqu’au coin sud-est de la subdivision officielle 11 de la section 10, dans ledit township 24;
+De là, dans une direction de S45°13′50″O, une distance de 1 148,94 mètres jusqu’au coin sud-est de la subdivision officielle 11 de la section 10, dans ledit township 24;
 
 
 
@@ -1252,7 +1254,7 @@ Cinquièmement,
 
 
 
-Conformément au plan 29235 auxdites archives, qui constitue une copie du plan du quart sud-est du township 24 du rang 2 à l’ouest du 6<sup>e</sup> méridien :
+Conformément au plan 29235 auxdites archives, qui constitue une copie du plan du quart sud-est du township 24 du rang 2 à l’ouest du 6<sup>e</sup> méridien :
 
 
 
@@ -1379,7 +1381,7 @@ De là, dans une direction de 0°35′00″ en suivant la limite est de ladite s
 ### (4) Parc national Kootenay du Canada
 
 
-L’ensemble du lopin de terre, dans la province de la Colombie-Britannique, plus précisément décrit comme il suit :
+L’ensemble du lopin de terre, dans la province de la Colombie-Britannique, plus précisément décrit comme il suit :
 
 
 
@@ -1403,7 +1405,7 @@ De là, vers l’ouest en longeant une hauteur très prononcée soit une distanc
 
 
 
-Puis, en ligne droite à travers la vallée du ruisseau Verdant, soit une distance de 2 187,762 mètres plus ou moins, d’après un relèvement de 199°06′ jusqu’à un cairn;
+Puis, en ligne droite à travers la vallée du ruisseau Verdant, soit une distance de 2 187,762 mètres plus ou moins, d’après un relèvement de 199°06′ jusqu’à un cairn;
 
 
 
@@ -1415,11 +1417,11 @@ Puis, dans une direction généralement sud-est le long de la crête Hawk jusqu�
 
 
 
-Puis, en ligne droite sur une distance de 1 214,793 mètres plus ou moins, d’après un relèvement de 191°20′ jusqu’à un cairn sur la rive droite de la rivière Simpson;
+Puis, en ligne droite sur une distance de 1 214,793 mètres plus ou moins, d’après un relèvement de 191°20′ jusqu’à un cairn sur la rive droite de la rivière Simpson;
 
 
 
-De là, en ligne droite sur une distance de 1 575,407 mètres plus ou moins, d’après un relèvement de 160°35′ jusqu’à un cairn;
+De là, en ligne droite sur une distance de 1 575,407 mètres plus ou moins, d’après un relèvement de 160°35′ jusqu’à un cairn;
 
 
 
@@ -1603,7 +1605,7 @@ De là, généralement vers le nord-nord-ouest en suivant la crête de ladite ch
 
 
 
-De là, vers le nord et l’est le long d’une crête bien déterminée constituant les confins méridionaux du bassin du ruisseau Boyce jusqu’à un point d’intersection de ladite crête avec le prolongement sud d’une ligne droite ayant un relèvement de 218°49′ plus ou moins depuis un cairn établi à un point sur la limite occidentale du lot collectif 12053 à une distance de 743,094 mètres plus ou moins au sud de l’angle nord-ouest dudit lot jusqu’à un cairn à une distance de 1 102,22 mètres plus ou moins sur ledit relèvement depuis le cairn mentionné en premier lieu;
+De là, vers le nord et l’est le long d’une crête bien déterminée constituant les confins méridionaux du bassin du ruisseau Boyce jusqu’à un point d’intersection de ladite crête avec le prolongement sud d’une ligne droite ayant un relèvement de 218°49′ plus ou moins depuis un cairn établi à un point sur la limite occidentale du lot collectif 12053 à une distance de 743,094 mètres plus ou moins au sud de l’angle nord-ouest dudit lot jusqu’à un cairn à une distance de 1 102,22 mètres plus ou moins sur ledit relèvement depuis le cairn mentionné en premier lieu;
 
 
 
@@ -1667,15 +1669,17 @@ De là, vers l’est, en ligne droite, à travers la vallée du ruisseau Tokumm,
 
 
 
-Ledit lopin renfermant une superficie de 140 636 hectares.
+Ledit lopin renfermant une superficie de 140 636 hectares.
 
 
 
 **PARTIE 2 — ALBERTA** 
+
+
 ### (1) Parc national Banff du Canada
 
 
-L’ensemble et chaque partie d’une certaine parcelle ou d’une certaine étendue de terre située dans la province d’Alberta et plus particulièrement décrite comme il suit :
+L’ensemble et chaque partie d’une certaine parcelle ou d’une certaine étendue de terre située dans la province d’Alberta et plus particulièrement décrite comme il suit :
 
 
 
@@ -1691,27 +1695,27 @@ De là, continuant vers le nord, le long de ladite ligne de partage des eaux ent
 
 
 
-De là, d’après un relèvement astronomique de 332°14′ jusqu’à un point sur le profil naturel à une altitude de 1 707 mètres au-dessus du niveau de la mer, ainsi que ledit profil figure sur ledit plan;
+De là, d’après un relèvement astronomique de 332°14′ jusqu’à un point sur le profil naturel à une altitude de 1 707 mètres au-dessus du niveau de la mer, ainsi que ledit profil figure sur ledit plan;
 
 
 
-De là, vers le sud-ouest en suivant ledit profil naturel sur une distance de 2 408 mètres environ jusqu’à son intersection avec la rive droite de la rivière Spray;
+De là, vers le sud-ouest en suivant ledit profil naturel sur une distance de 2 408 mètres environ jusqu’à son intersection avec la rive droite de la rivière Spray;
 
 
 
-De là, traversant la rivière Spray et vers le nord en suivant ledit profil naturel sur une distance 1 100 mètres environ, jusqu’à son intersection avec la rive droite du ruisseau Bryant;
+De là, traversant la rivière Spray et vers le nord en suivant ledit profil naturel sur une distance 1 100 mètres environ, jusqu’à son intersection avec la rive droite du ruisseau Bryant;
 
 
 
-De là, traversant le ruisseau Bryant et vers le nord-est le long dudit profil naturel, sur une distance de 4 900 mètres environ, jusqu’à son intersection avec une ligne ayant un relèvement indiqué de 9°48′ et passant à travers une borne d’arpentage réglementaire portant le numéro 3 et un monticule de pierres, ainsi que ladite ligne et ladite borne figurent sur ledit plan;
+De là, traversant le ruisseau Bryant et vers le nord-est le long dudit profil naturel, sur une distance de 4 900 mètres environ, jusqu’à son intersection avec une ligne ayant un relèvement indiqué de 9°48′ et passant à travers une borne d’arpentage réglementaire portant le numéro 3 et un monticule de pierres, ainsi que ladite ligne et ladite borne figurent sur ledit plan;
 
 
 
-De là, vers le nord, le long de ladite ligne sur une distance de 2 988,17 mètres jusqu’à une borne d’arpentage réglementaire portant le numéro 4, le cairn et la borne de parc situés au nord de la rive droite de la rivière Spray, ainsi que ladite borne ci-dessus mentionnée figure sur ledit plan;
+De là, vers le nord, le long de ladite ligne sur une distance de 2 988,17 mètres jusqu’à une borne d’arpentage réglementaire portant le numéro 4, le cairn et la borne de parc situés au nord de la rive droite de la rivière Spray, ainsi que ladite borne ci-dessus mentionnée figure sur ledit plan;
 
 
 
-De là, vers l’est et le sud, en suivant à une distance constante les méandres de la rive droite de la rivière Spray, sur une distance de 1 400 mètres environ, jusqu’à un point sur une ligne ayant un relèvement indiqué de 279°14′ et passant à travers un cairn et une borne de parc situés sur la rive gauche des gorges de la rivière Spray, ainsi que la ligne, le cairn et la borne susdits figurent sur ledit plan;
+De là, vers l’est et le sud, en suivant à une distance constante les méandres de la rive droite de la rivière Spray, sur une distance de 1 400 mètres environ, jusqu’à un point sur une ligne ayant un relèvement indiqué de 279°14′ et passant à travers un cairn et une borne de parc situés sur la rive gauche des gorges de la rivière Spray, ainsi que la ligne, le cairn et la borne susdits figurent sur ledit plan;
 
 
 
@@ -1727,7 +1731,7 @@ De là, vers le nord et le nord-ouest, le long de la crête de la chaîne Goat j
 
 
 
-De là, vers le nord, le long de ladite ligne sur une distance de 6 366,4 mètres environ jusqu’audit sommet le plus au sud qui se trouve sur la ligne de partage des eaux qui sépare le bassin hydrographique de la rivière Spray de celui de la rivière Bow;
+De là, vers le nord, le long de ladite ligne sur une distance de 6 366,4 mètres environ jusqu’audit sommet le plus au sud qui se trouve sur la ligne de partage des eaux qui sépare le bassin hydrographique de la rivière Spray de celui de la rivière Bow;
 
 
 
@@ -1771,7 +1775,7 @@ De là, vers le nord, le long de la ligne de partage des eaux qui forme la limit
 
 
 
-De là, vers le nord-ouest, le long de la ligne susdite sur une distance de 6 612,94 mètres environ jusqu’au dernier cairn susmentionné sur ladite montagne Dormer;
+De là, vers le nord-ouest, le long de la ligne susdite sur une distance de 6 612,94 mètres environ jusqu’au dernier cairn susmentionné sur ladite montagne Dormer;
 
 
 
@@ -1787,7 +1791,7 @@ De là, vers le nord-ouest, le long d’une ligne de partage des eaux bien défi
 
 
 
-De là, en suivant une ligne ayant un relèvement astronomique de 289°13,1′, sur une distance de 2 728,7 mètres environ, jusqu’à un cairn et une borne de parc réglementaire, ainsi que lesdits cairn et borne en dernier lieu mentionnés figurent sur le plan susdit en dernier lieu mentionné;
+De là, en suivant une ligne ayant un relèvement astronomique de 289°13,1′, sur une distance de 2 728,7 mètres environ, jusqu’à un cairn et une borne de parc réglementaire, ainsi que lesdits cairn et borne en dernier lieu mentionnés figurent sur le plan susdit en dernier lieu mentionné;
 
 
 
@@ -1847,7 +1851,7 @@ De là, en suivant la ligne de partage des eaux en dernier lieu mentionnée et p
 
 
 
-De là, le long de ladite ligne ayant un relèvement de 334°57′30″ sur une distance de 2 878,5 mètres environ, jusqu’à un cairn et une borne de parc réglementaire sur la ligne de partage des eaux formant la limite est du bassin hydrographique du ruisseau Owen, ainsi que les lignes, cairn et borne susdits en dernier lieu mentionnés figurent sur le dernier plan susmentionné;
+De là, le long de ladite ligne ayant un relèvement de 334°57′30″ sur une distance de 2 878,5 mètres environ, jusqu’à un cairn et une borne de parc réglementaire sur la ligne de partage des eaux formant la limite est du bassin hydrographique du ruisseau Owen, ainsi que les lignes, cairn et borne susdits en dernier lieu mentionnés figurent sur le dernier plan susmentionné;
 
 
 
@@ -1867,7 +1871,7 @@ De là, vers l’ouest, le sud-est et le sud-ouest, en longeant la ligne de part
 
 
 
-De là, vers le sud-ouest en suivant ladite ligne sur une distance de 1 130,7 mètres environ, jusqu’à un cairn et une borne de parc réglementaire, ainsi que lesdits cairn et borne en dernier lieu mentionnés figurent sur le dernier plan susmentionné;
+De là, vers le sud-ouest en suivant ladite ligne sur une distance de 1 130,7 mètres environ, jusqu’à un cairn et une borne de parc réglementaire, ainsi que lesdits cairn et borne en dernier lieu mentionnés figurent sur le dernier plan susmentionné;
 
 
 
@@ -1887,18 +1891,18 @@ De là, vers le sud, en suivant la frontière interprovinciale jusqu’au point 
 
 
 
-Soit une superficie d’environ 6 641 kilomètres carrés, les limites décrites aux présentes apparaissant sur ladite carte numéro 40427 déposée auxdites archives.
+Soit une superficie d’environ 6 641 kilomètres carrés, les limites décrites aux présentes apparaissant sur ladite carte numéro 40427 déposée auxdites archives.
 
 
 
 ### (2) Parc national des Lacs-Waterton du Canada
 
 
-Dans la province d’Alberta, la totalité des parcelles de terrain ainsi décrites sous Premièrement et Deuxièmement comme il suit :
+Dans la province d’Alberta, la totalité des parcelles de terrain ainsi décrites sous Premièrement et Deuxièmement comme il suit :
 
 
 
-Premièrement : Commençant à l’angle nord-est de la réserve indienne de Blood 148A (anciennement la réserve de Blood, Timber Limit A) selon le plan numéro 4513 déposé aux Archives d’arpentage des terres du Canada, à Ottawa, dont une copie a été aussi déposée au bureau des titres de biens-fonds pour la division d’enregistrement du sud de l’Alberta à Calgary au numéro 1714 H.I., l’angle étant situé à l’intersection de la limite nord de la section numéro 28, township 1, rang 28, à l’ouest du 4<sup>e</sup> méridien et de la rive gauche de la rivière Belly selon le plan;
+Premièrement : Commençant à l’angle nord-est de la réserve indienne de Blood 148A (anciennement la réserve de Blood, Timber Limit A) selon le plan numéro 4513 déposé aux Archives d’arpentage des terres du Canada, à Ottawa, dont une copie a été aussi déposée au bureau des titres de biens-fonds pour la division d’enregistrement du sud de l’Alberta à Calgary au numéro 1714 H.I., l’angle étant situé à l’intersection de la limite nord de la section numéro 28, township 1, rang 28, à l’ouest du 4<sup>e</sup> méridien et de la rive gauche de la rivière Belly selon le plan;
 
 
 
@@ -2002,7 +2006,7 @@ De là, vers le nord suivant cette rive, selon le plan 4513 et selon le plan num
 
 
 
-Deuxièmement : L’ensemble de Parcel X et la partie de l’emprise de Chief Mountain Highway située à l’intérieur des limites de la réserve indienne comme l’indique le plan numéro RD 3817 déposé auxdites archives, dont une copie a été déposée au bureau au numéro 2184 G.U.;
+Deuxièmement : L’ensemble de Parcel X et la partie de l’emprise de Chief Mountain Highway située à l’intérieur des limites de la réserve indienne comme l’indique le plan numéro RD 3817 déposé auxdites archives, dont une copie a été déposée au bureau au numéro 2184 G.U.;
 
 
 
@@ -2013,7 +2017,7 @@ L’ensemble des parcelles ayant une superficie d’environ 505 kilomètres carr
 ### (3) Parc national Jasper du Canada
 
 
-L’ensemble et chaque partie d’une certaine parcelle ou d’une certaine étendue de terre située dans la province d’Alberta et plus particulièrement décrite comme il suit :
+L’ensemble et chaque partie d’une certaine parcelle ou d’une certaine étendue de terre située dans la province d’Alberta et plus particulièrement décrite comme il suit :
 
 
 
@@ -2033,7 +2037,7 @@ De là, vers le nord-est, le long d’une ligne ayant un relèvement de 218°48�
 
 
 
-De là, en direction nord-est, le long d’une ligne ayant un relèvement de 58°42,2′ sur une distance de 1 130,7 mètres, environ, jusqu’à un cairn et une borne de parc réglementaire, ainsi que les derniers ligne, cairn et borne susdits figurent sur ledit plan, les cairn et borne susdits en dernier lieu mentionnés se trouvant sur une crête nettement dessinée de ladite ligne de partage des eaux qui sépare le bassin hydrographique de la rivière Saskatchewan du Nord de celui de la rivière Athabasca, dominant le col Sunwapta;
+De là, en direction nord-est, le long d’une ligne ayant un relèvement de 58°42,2′ sur une distance de 1 130,7 mètres, environ, jusqu’à un cairn et une borne de parc réglementaire, ainsi que les derniers ligne, cairn et borne susdits figurent sur ledit plan, les cairn et borne susdits en dernier lieu mentionnés se trouvant sur une crête nettement dessinée de ladite ligne de partage des eaux qui sépare le bassin hydrographique de la rivière Saskatchewan du Nord de celui de la rivière Athabasca, dominant le col Sunwapta;
 
 
 
@@ -2085,7 +2089,7 @@ De là, dans une direction générale nord-ouest, suivant une crête nettement d
 
 
 
-De là, d’après un relèvement de 281°58′ le long de la partie en dernier lieu mentionnée de cette limite sur une distance de 2 623,9 mètres, environ, jusqu’à un monticule de pierres sur un point de roc percé par un tunnel du chemin de fer Canadien National, ainsi que ledit monticule figure sur le dernier plan susmentionné;
+De là, d’après un relèvement de 281°58′ le long de la partie en dernier lieu mentionnée de cette limite sur une distance de 2 623,9 mètres, environ, jusqu’à un monticule de pierres sur un point de roc percé par un tunnel du chemin de fer Canadien National, ainsi que ledit monticule figure sur le dernier plan susmentionné;
 
 
 
@@ -2101,7 +2105,7 @@ De là, dans une direction générale ouest, en suivant une ligne de partage des
 
 
 
-De là, vers le sud-ouest, le long de la dernière partie susmentionnée de la limite nord sur une distance de 4 021,7 mètres, environ, jusqu’à un cairn sis au poste de triangulation n<sup>o</sup> 90 (Lambert, 1927), ainsi que ledit cairn en dernier lieu mentionné figure sur le dernier plan susdit;
+De là, vers le sud-ouest, le long de la dernière partie susmentionnée de la limite nord sur une distance de 4 021,7 mètres, environ, jusqu’à un cairn sis au poste de triangulation n<sup>o</sup> 90 (Lambert, 1927), ainsi que ledit cairn en dernier lieu mentionné figure sur le dernier plan susdit;
 
 
 
@@ -2109,7 +2113,7 @@ De là, vers le sud-ouest, le nord-ouest, le nord-est et le nord-ouest, le long 
 
 
 
-De là, d’après un relèvement de 322°42′ le long de ladite partie en dernier lieu mentionnée de la limite nord sur une distance de 4 746,7 mètres, environ, jusqu’à un cairn de pierre érigé au poste de triangulation n<sup>o</sup> 68 (Lambert, 1927), lequel est un point situé sur la ligne de partage des eaux qui sépare le bassin hydrographique du ruisseau Rock de celui de la rivière Wildhay à 53°27′ de latitude et à 118°21′ de longitude;
+De là, d’après un relèvement de 322°42′ le long de ladite partie en dernier lieu mentionnée de la limite nord sur une distance de 4 746,7 mètres, environ, jusqu’à un cairn de pierre érigé au poste de triangulation n<sup>o</sup> 68 (Lambert, 1927), lequel est un point situé sur la ligne de partage des eaux qui sépare le bassin hydrographique du ruisseau Rock de celui de la rivière Wildhay à 53°27′ de latitude et à 118°21′ de longitude;
 
 
 
@@ -2157,7 +2161,7 @@ De là, vers le sud, en suivant la frontière interprovinciale jusqu’au point 
 
 
 
-Ladite région contenant environ 10 878 kilomètres carrés;
+Ladite région contenant environ 10 878 kilomètres carrés;
 
 
 
@@ -2176,7 +2180,7 @@ Dans le township 54, du rang 19, et dans les townships 52, 53 et 54, du rang 20,
 
 
 
-L’ensemble de la parcelle de terre dont les limites s’établissent plus précisément comme il suit :
+L’ensemble de la parcelle de terre dont les limites s’établissent plus précisément comme il suit :
 
 
 
@@ -2240,11 +2244,11 @@ En excluant ce qui suit,
 
 
 
-Premièrement : tous les terrains situés entre les principales limites d’une route qui passe dans ledit township 53, selon le plan numéro 55576 déposé aux Archives d’arpentage des terres du Canada, à Ottawa, et dont une copie est déposée au Bureau des titres de biens-fonds pour la circonscription d’enregistrement du nord de l’Alberta, district d’Edmonton, sous le numéro 2194 R.S.;
+Premièrement : tous les terrains situés entre les principales limites d’une route qui passe dans ledit township 53, selon le plan numéro 55576 déposé aux Archives d’arpentage des terres du Canada, à Ottawa, et dont une copie est déposée au Bureau des titres de biens-fonds pour la circonscription d’enregistrement du nord de l’Alberta, district d’Edmonton, sous le numéro 2194 R.S.;
 
 
 
-Deuxièmement : les mines et les minéraux se trouvant à l’intérieur de la section 13 du township 53, dans le rang 20, à l’ouest du 4<sup>e</sup> méridien, tel que l’indique le certificat portant le numéro de titre 1364 (livre K.Q., folio 43) enregistré le 29 janvier 1957 dans la circonscription d’enregistrement du nord de l’Alberta.
+Deuxièmement : les mines et les minéraux se trouvant à l’intérieur de la section 13 du township 53, dans le rang 20, à l’ouest du 4<sup>e</sup> méridien, tel que l’indique le certificat portant le numéro de titre 1364 (livre K.Q., folio 43) enregistré le 29 janvier 1957 dans la circonscription d’enregistrement du nord de l’Alberta.
 
 
 
@@ -2259,7 +2263,7 @@ Les limites décrites aux présentes apparaissant sur un plan du parc Elk Island
 ### (5) Parc national Wood Buffalo du Canada
 
 
-L’ensemble et chaque partie d’un certain lopin ou d’une certaine étendue de terre qui est située en partie dans les Territoires du nord-ouest et en partie dans la province d’Alberta, et plus particulièrement décrite comme il suit :
+L’ensemble et chaque partie d’un certain lopin ou d’une certaine étendue de terre qui est située en partie dans les Territoires du nord-ouest et en partie dans la province d’Alberta, et plus particulièrement décrite comme il suit :
 
 
 
@@ -2347,7 +2351,7 @@ Excluant de là, toutes les îles dans la rivière des Esclaves contenues à l�
 
 
 
-L’ensemble contenant par mesurage une superficie d’environ 44 807 kilomètres carrés, plus ou moins, et tel que les limites décrites aux présentes sont indiquées en hachures noires sur la carte du parc Wood Buffalo et qui sont sujettes à la « note » qui y est inscrite relativement aux limites dans certaines rivières; ladite carte a été émise par le Service de l’hydrographie et de la cartographie, ministère des Mines et des Ressources, à Ottawa, en 1947, et une copie en est déposée aux Archives d’arpentage des terres du Canada, à Ottawa, sous le numéro 40393;
+L’ensemble contenant par mesurage une superficie d’environ 44 807 kilomètres carrés, plus ou moins, et tel que les limites décrites aux présentes sont indiquées en hachures noires sur la carte du parc Wood Buffalo et qui sont sujettes à la « note » qui y est inscrite relativement aux limites dans certaines rivières; ladite carte a été émise par le Service de l’hydrographie et de la cartographie, ministère des Mines et des Ressources, à Ottawa, en 1947, et une copie en est déposée aux Archives d’arpentage des terres du Canada, à Ottawa, sous le numéro 40393;
 
 
 
@@ -2355,31 +2359,33 @@ Excepté ce qui suit,
 
 
 
-Premièrement : toutes ces terres situées à l’intérieur de la réserve indienne de Peace Point n<sup>o</sup> 222 décrites sur le plan d’arpentage déposé aux Archives d’arpentage des terres du Canada, à Ottawa, sous le numéro 71277, et enregistré au Bureau des titres de biens-fonds à Edmonton sous le numéro 882-0308, la réserve ayant une superficie d’environ 5,18 kilomètres carrés (518 hectares); sont inclus les mines et les minéraux;
+Premièrement : toutes ces terres situées à l’intérieur de la réserve indienne de Peace Point n<sup>o</sup> 222 décrites sur le plan d’arpentage déposé aux Archives d’arpentage des terres du Canada, à Ottawa, sous le numéro 71277, et enregistré au Bureau des titres de biens-fonds à Edmonton sous le numéro 882-0308, la réserve ayant une superficie d’environ 5,18 kilomètres carrés (518 hectares); sont inclus les mines et les minéraux;
 
 
 
-Deuxièmement : dans le canton 124, rang 10, à l’ouest du 4<sup>e</sup> méridien, les parcelles de terre constituant le lot 6 de la partie de la réserve indienne de Thebathi n<sup>o</sup> 196 décrites sur le plan d’arpentage déposé aux Archives d’arpentage des terres du Canada, à Ottawa, sous le numéro 85625, et enregistré au Bureau des titres de biens-fonds à Edmonton sous le numéro 0126326, ces terres ayant ensemble une superficie d’environ 1,81 kilomètre carré (181 hectares); sont inclus les mines et les minéraux;
+Deuxièmement : dans le canton 124, rang 10, à l’ouest du 4<sup>e</sup> méridien, les parcelles de terre constituant le lot 6 de la partie de la réserve indienne de Thebathi n<sup>o</sup> 196 décrites sur le plan d’arpentage déposé aux Archives d’arpentage des terres du Canada, à Ottawa, sous le numéro 85625, et enregistré au Bureau des titres de biens-fonds à Edmonton sous le numéro 0126326, ces terres ayant ensemble une superficie d’environ 1,81 kilomètre carré (181 hectares); sont inclus les mines et les minéraux;
 
 
 
-Troisièmement : dans le canton théorique 121, rang 9, à l’ouest du 4<sup>e</sup> méridien, les parcelles de terre constituant les limites extérieures de la réserve indienne de Eejeré k’elni kue n<sup>o</sup> 196I (site de Hay Camp) sur le levé et qui sont décrites sur le plan d’arpentage déposé aux Archives d’arpentage des terres du Canada, à Ottawa, sous le numéro 84988, et enregistré au Bureau des titres de biens-fonds à Edmonton sous le numéro 0123033, ces terres ayant ensemble une superficie d’environ 2,13 kilomètres carrés (213 hectares); sont inclus les mines et les minéraux;
+Troisièmement : dans le canton théorique 121, rang 9, à l’ouest du 4<sup>e</sup> méridien, les parcelles de terre constituant les limites extérieures de la réserve indienne de Eejeré k’elni kue n<sup>o</sup> 196I (site de Hay Camp) sur le levé et qui sont décrites sur le plan d’arpentage déposé aux Archives d’arpentage des terres du Canada, à Ottawa, sous le numéro 84988, et enregistré au Bureau des titres de biens-fonds à Edmonton sous le numéro 0123033, ces terres ayant ensemble une superficie d’environ 2,13 kilomètres carrés (213 hectares); sont inclus les mines et les minéraux;
 
 
 
-Quatrièmement : dans le canton théorique 121, rang 14 et le canton théorique 122, rangs 13 et 14, à l’ouest du 4<sup>e</sup> méridien, les parcelles de terre constituant les limites extérieures de la réserve indienne de Tsu nedehe tue n<sup>o</sup> 196H (site de Pine Lake) sur le levé et qui sont décrites sur le plan d’arpentage déposé aux Archives d’arpentage des terres du Canada, à Ottawa, sous le numéro 85626, et enregistré au Bureau des titres de biens-fonds à Edmonton sous le numéro 0126334, ces terres ayant ensemble une superficie d’environ 5,86 kilomètres carrés (586 hectares); sont inclus les mines et les minéraux.
+Quatrièmement : dans le canton théorique 121, rang 14 et le canton théorique 122, rangs 13 et 14, à l’ouest du 4<sup>e</sup> méridien, les parcelles de terre constituant les limites extérieures de la réserve indienne de Tsu nedehe tue n<sup>o</sup> 196H (site de Pine Lake) sur le levé et qui sont décrites sur le plan d’arpentage déposé aux Archives d’arpentage des terres du Canada, à Ottawa, sous le numéro 85626, et enregistré au Bureau des titres de biens-fonds à Edmonton sous le numéro 0126334, ces terres ayant ensemble une superficie d’environ 5,86 kilomètres carrés (586 hectares); sont inclus les mines et les minéraux.
 
 
 
-Le reste représentant une superficie d’environ 44 792 kilomètres carrés (4 479 200 hectares).
+Le reste représentant une superficie d’environ 44 792 kilomètres carrés (4 479 200 hectares).
 
 
 
 **PARTIE 3 — SASKATCHEWAN** 
+
+
 ### (1) Parc national de Prince Albert du Canada
 
 
-L’ensemble et chaque partie d’une certaine parcelle ou d’une certaine étendue de terre située dans la province de la Saskatchewan et qui peut être plus particulièrement décrite comme il suit :
+L’ensemble et chaque partie d’une certaine parcelle ou d’une certaine étendue de terre située dans la province de la Saskatchewan et qui peut être plus particulièrement décrite comme il suit :
 
 
 
@@ -2394,14 +2400,14 @@ Dans la province de la Saskatchewan;
 
 
 
-Toutes les terres plus particulièrement décrites comme suit :
+Toutes les terres plus particulièrement décrites comme suit :
 
 
 
 ### Bloc Est
 
 
-Dans le township 1, rang 4, à l’ouest du 3<sup>ième</sup> méridien :
+Dans le township 1, rang 4, à l’ouest du 3<sup>ième</sup> méridien :
 
 
 
@@ -2441,7 +2447,7 @@ Les réserves pour chemin est-ouest, adjacentes et sises du côté nord des limi
 
 
 
-Dans le township 1, rang 5, à l’ouest du 3<sup>ième</sup> méridien :
+Dans le township 1, rang 5, à l’ouest du 3<sup>ième</sup> méridien :
 
 
 
@@ -2453,7 +2459,7 @@ La section 36, à distraire du quart sud-ouest, toutes les terres recouvertes pa
 
 
 
-Dans le township 1, rang 6, à l’ouest du 3<sup>ième</sup> méridien :
+Dans le township 1, rang 6, à l’ouest du 3<sup>ième</sup> méridien :
 
 
 
@@ -2565,7 +2571,7 @@ Les réserves pour chemin est-ouest, adjacentes et sises du côté nord des limi
 
 
 
-Dans le township 1, rang 7, à l’ouest du 3<sup>ième</sup> méridien :
+Dans le township 1, rang 7, à l’ouest du 3<sup>ième</sup> méridien :
 
 
 
@@ -2585,7 +2591,7 @@ Les réserves pour chemin est-ouest, adjacentes et sises du côté nord de la li
 
 
 
-Dans le township 2, rang 4, à l’ouest du 3<sup>ième</sup> méridien :
+Dans le township 2, rang 4, à l’ouest du 3<sup>ième</sup> méridien :
 
 
 
@@ -2601,7 +2607,7 @@ Les réserves pour chemin nord-sud, adjacentes et sises du côté ouest de la li
 
 
 
-Dans le township 2, rang 5, à l’ouest du 3<sup>ième</sup> méridien :
+Dans le township 2, rang 5, à l’ouest du 3<sup>ième</sup> méridien :
 
 
 
@@ -2613,7 +2619,7 @@ Les réserves pour chemin nord-sud, adjacentes et sises du côté ouest des limi
 
 
 
-Dans le township 2, rang 6, à l’ouest du 3<sup>ième</sup> méridien :
+Dans le township 2, rang 6, à l’ouest du 3<sup>ième</sup> méridien :
 
 
 
@@ -2637,7 +2643,7 @@ Les réserves pour chemin nord-sud, adjacentes et sises du côté ouest des limi
 
 
 
-Dans le township 2, rang 7, à l’ouest du 3<sup>ième</sup> méridien :
+Dans le township 2, rang 7, à l’ouest du 3<sup>ième</sup> méridien :
 
 
 
@@ -2645,7 +2651,7 @@ La section 25.
 
 
 
-Dans le township 3, rang 6, à l’ouest du 3<sup>ième</sup> méridien :
+Dans le township 3, rang 6, à l’ouest du 3<sup>ième</sup> méridien :
 
 
 
@@ -2664,7 +2670,7 @@ Les réserves pour chemin nord-sud, adjacentes et sises du côté ouest des limi
 ### Bloc Ouest
 
 
-Dans le township 1, rang 10, à l’ouest du 3<sup>ième</sup> méridien :
+Dans le township 1, rang 10, à l’ouest du 3<sup>ième</sup> méridien :
 
 
 
@@ -2684,7 +2690,7 @@ Les quarts nord-est, nord-ouest et sud-ouest de la section 9, à distraire desdi
 
 
 
-La partie du quart sud-est de la section 9 décrite comme suit : Commençant au coin nord-est dudit quart de section, de là vers le sud suivant la limite est jusqu’à la limite sud; de là vers l’ouest suivant la limite sud jusqu’à son intersection avec la rive gauche de la rivière Frenchman; de là vers le nord-est et l’ouest suivant les sinuosités de la rive gauche jusqu’à son intersection avec la limite ouest; de là vers le nord suivant la limite ouest jusqu’à son intersection avec la rive gauche; de là vers le nord-est suivant les sinuosités de la rive gauche jusqu’à son intersection avec la limite nord du quart de section; de là vers l’est suivant la limite nord jusqu’au point de départ tel qu’indiqué sur le plan du township daté le 15 février 1918. De même, dans le quart sud-est de la section 9, toutes les terres sises à l’ouest de la rive droite de la rivière Frenchman tel qu’indiqué sur ledit plan dudit township;
+La partie du quart sud-est de la section 9 décrite comme suit : Commençant au coin nord-est dudit quart de section, de là vers le sud suivant la limite est jusqu’à la limite sud; de là vers l’ouest suivant la limite sud jusqu’à son intersection avec la rive gauche de la rivière Frenchman; de là vers le nord-est et l’ouest suivant les sinuosités de la rive gauche jusqu’à son intersection avec la limite ouest; de là vers le nord suivant la limite ouest jusqu’à son intersection avec la rive gauche; de là vers le nord-est suivant les sinuosités de la rive gauche jusqu’à son intersection avec la limite nord du quart de section; de là vers l’est suivant la limite nord jusqu’au point de départ tel qu’indiqué sur le plan du township daté le 15 février 1918. De même, dans le quart sud-est de la section 9, toutes les terres sises à l’ouest de la rive droite de la rivière Frenchman tel qu’indiqué sur ledit plan dudit township;
 
 
 
@@ -2700,7 +2706,7 @@ Les réserves pour chemin est-ouest, adjacentes et sises du côté nord des limi
 
 
 
-Dans le township 2, rang 9, à l’ouest du 3<sup>ième</sup> méridien :
+Dans le township 2, rang 9, à l’ouest du 3<sup>ième</sup> méridien :
 
 
 
@@ -2708,7 +2714,7 @@ Les sections 6, 7 et 18.
 
 
 
-Dans le township 2, rang 10, à l’ouest du 3<sup>ième</sup> méridien :
+Dans le township 2, rang 10, à l’ouest du 3<sup>ième</sup> méridien :
 
 
 
@@ -2748,7 +2754,7 @@ Les réserves pour chemin est-ouest, adjacentes et sises du côté nord des limi
 
 
 
-Dans le township 2, rang 11, à l’ouest du 3<sup>ième</sup> méridien :
+Dans le township 2, rang 11, à l’ouest du 3<sup>ième</sup> méridien :
 
 
 
@@ -2784,7 +2790,7 @@ Les réserves pour chemin est-ouest, adjacentes et sises du côté nord des limi
 
 
 
-Dans le township 2, rang 12, à l’ouest du 3<sup>ième</sup> méridien :
+Dans le township 2, rang 12, à l’ouest du 3<sup>ième</sup> méridien :
 
 
 
@@ -2876,7 +2882,7 @@ Les réserves pour chemin est-ouest, adjacentes et sises du côté nord des limi
 
 
 
-Dans le township 2, rang 13, à l’ouest du 3<sup>ième</sup> méridien :
+Dans le township 2, rang 13, à l’ouest du 3<sup>ième</sup> méridien :
 
 
 
@@ -2928,7 +2934,7 @@ Les réserves pour chemin est-ouest, adjacentes et sises du côté nord des limi
 
 
 
-Dans le township 3, rang 11, à l’ouest du 3<sup>ième</sup> méridien :
+Dans le township 3, rang 11, à l’ouest du 3<sup>ième</sup> méridien :
 
 
 
@@ -2972,7 +2978,7 @@ La partie originale de la réserve pour chemin sise au sud et adjacente à la se
 
 
 
-Dans le township 3, rang 12, à l’ouest du 3<sup>ième</sup> méridien :
+Dans le township 3, rang 12, à l’ouest du 3<sup>ième</sup> méridien :
 
 
 
@@ -3028,7 +3034,7 @@ La partie originale de la réserve pour chemin sise au sud et adjacente à la se
 
 
 
-Dans le township 3, rang 13, à l’ouest du 3<sup>ième</sup> méridien :
+Dans le township 3, rang 13, à l’ouest du 3<sup>ième</sup> méridien :
 
 
 
@@ -3048,7 +3054,7 @@ La moitié ouest, le quart sud-est et les subdivisions légales 9, 10 et 15 du q
 
 
 
-Le quart nord-est de la section 4, à distraire de celui-ci :
+Le quart nord-est de la section 4, à distraire de celui-ci :
 
 
 
@@ -3056,7 +3062,7 @@ a) environ 2,88 acres (1,17 hectares), pour route tel qu’indiqué sur le plan 
 
 
 
-b) La partie commençant au coin nord-est dudit quart de section; de là, vers le sud, une distance de 1 320 pieds (402,34 mètres) suivant la limite est; de là, vers l’ouest et parallèle à la limite nord, une distance de 1 320 pieds (402,34 mètres); de là, vers le nord et parallèle à la limite est jusqu’à la limite nord; de là, vers l’est suivant la limite nord jusqu’au point de départ;
+b) La partie commençant au coin nord-est dudit quart de section; de là, vers le sud, une distance de 1 320 pieds (402,34 mètres) suivant la limite est; de là, vers l’ouest et parallèle à la limite nord, une distance de 1 320 pieds (402,34 mètres); de là, vers le nord et parallèle à la limite est jusqu’à la limite nord; de là, vers l’est suivant la limite nord jusqu’au point de départ;
 
 
 
@@ -3102,7 +3108,7 @@ Dans la province du Manitoba;
 
 
 
-Toutes ces terres plus particulièrement décrites comme il suit :
+Toutes ces terres plus particulièrement décrites comme il suit :
 
 
 
@@ -3122,7 +3128,7 @@ Toutes ces terres plus particulièrement décrites comme il suit :
 
 
 
-(5) dans le township 19, rang 18 :
+(5) dans le township 19, rang 18 :
 
 
 
@@ -3134,7 +3140,7 @@ Toutes ces terres plus particulièrement décrites comme il suit :
 
 
 
-**c)** toute cette partie de l’emprise originale de la route du gouvernement de la Puissance touchant la limite nord de la section 19, décrite comme il suit : commençant à un point situé sur la limite nord de la section 19 à une distance de 34 pieds (10,36 mètres) à l’est du coin nord-ouest de la section 19; de là, vers l’est suivant ladite limite nord sur une distance de 400 pieds (121,92 mètres); de là, vers le nord à angle droit avec ladite limite sur une distance de 66 pieds (20,12 mètres) jusqu’à la limite nord de ladite emprise originale de la route du gouvernement de la Puissance; de là, vers l’ouest suivant la limite nord de ladite emprise sur une distance de 382 pieds (116,43 mètres); de là, en ligne droite vers le sud-ouest jusqu’au point de départ;
+**c)** toute cette partie de l’emprise originale de la route du gouvernement de la Puissance touchant la limite nord de la section 19, décrite comme il suit : commençant à un point situé sur la limite nord de la section 19 à une distance de 34 pieds (10,36 mètres) à l’est du coin nord-ouest de la section 19; de là, vers l’est suivant ladite limite nord sur une distance de 400 pieds (121,92 mètres); de là, vers le nord à angle droit avec ladite limite sur une distance de 66 pieds (20,12 mètres) jusqu’à la limite nord de ladite emprise originale de la route du gouvernement de la Puissance; de là, vers l’ouest suivant la limite nord de ladite emprise sur une distance de 382 pieds (116,43 mètres); de là, en ligne droite vers le sud-ouest jusqu’au point de départ;
 
 
 
@@ -3166,13 +3172,13 @@ les deux dernières emprises de route telles qu’indiquées sur le plan 30750 a
 
 
 
-**(10)** dans le township 20, rang 19, toutes les sections; excepté :
+**(10)** dans le township 20, rang 19, toutes les sections; excepté :
 
-**a) ** les sections 5, 6, 7 et 8, la moitié ouest de la section 4, la partie de la moitié est de la section 4 qui se trouve à l’ouest de la réserve indienne de Clear Lake n<sup>o</sup> 61A et le quart sud-ouest de la section 18;
+**a)** les sections 5, 6, 7 et 8, la moitié ouest de la section 4, la partie de la moitié est de la section 4 qui se trouve à l’ouest de la réserve indienne de Clear Lake n<sup>o</sup> 61A et le quart sud-ouest de la section 18;
 
 
 
-**b)** la réserve indienne de Clear Lake No. 61A, comprenant :
+**b)** la réserve indienne de Clear Lake No. 61A, comprenant :
 
 la partie fractionnaire de la demie est de la section 4; la section fractionnaire 9; la section fractionnaire 10; le quart fractionnaire sud-ouest de la section 15 et le quart fractionnaire sud-est de la section 16;
 
@@ -3198,7 +3204,7 @@ ladite réserve indienne telle qu’indiquée sur le plan 76982 auxdites archive
 
 
 
-**(14)** dans le township 21, rang 16, toutes les sections, excepté :
+**(14)** dans le township 21, rang 16, toutes les sections, excepté :
 
 **a)** les sections 1, 12, 13, 22, 23, 24, 25, 26, 27, 32, 33, 34, 35 et 36;
 
@@ -3312,13 +3318,15 @@ ladite réserve indienne telle qu’indiquée sur le plan 76982 auxdites archive
 
 **(40)** dans le township 23, rang 26, les sections 1 à 5 inclusivement et 8 à 17 inclusivement;
 
-lesdites terres renfermant ensemble environ 2 969 kilomètres carrés.
+lesdites terres renfermant ensemble environ 2 969 kilomètres carrés.
 
 
 
 
 
 ### (2) Parc national Wapusk du Canada
+
+
 
 
 Toutes les sections et coins de section théoriques ci-après indiqués sont basés sur le système géodésique nord-américain de 1927. Toutes les directions sont grilles et se rapportent à la zone 15 du système de quadrillage de la projection transverse universelle de Mercator.
@@ -3333,7 +3341,7 @@ Dans la province du Manitoba;
 
 
 
-Toute cette parcelle de terrain indiquée comme « Parcel A » sur le plan déposé au bureau du directeur des levés à Winnipeg (Manitoba) sous le numéro 1970l, incluant l’estran en bordure de la côte nord-est du Manitoba, les lacs, les rivières, les îles, les ruisseaux, les mines et minéraux, et tous les autres domaines, droits et intérêts normalement réservés à la Couronne (Manitoba) en vertu de la Loi sur les terres domaniales (Manitoba), c. C340 de la C.P.L.M., et toutes les réserves théoriques pour chemin du gouvernement se trouvant à l’intérieur des limites plus particulièrement décrites comme suit :
+Toute cette parcelle de terrain indiquée comme « Parcel A » sur le plan déposé au bureau du directeur des levés à Winnipeg (Manitoba) sous le numéro 1970l, incluant l’estran en bordure de la côte nord-est du Manitoba, les lacs, les rivières, les îles, les ruisseaux, les mines et minéraux, et tous les autres domaines, droits et intérêts normalement réservés à la Couronne (Manitoba) en vertu de la Loi sur les terres domaniales (Manitoba), c. C340 de la C.P.L.M., et toutes les réserves théoriques pour chemin du gouvernement se trouvant à l’intérieur des limites plus particulièrement décrites comme suit :
 
 
 
@@ -3401,11 +3409,15 @@ De là, en ligne droite vers le nord jusqu’au point de départ.
 
 
 
-Ladite parcelle renfermant une superficie d’environ 11 475 kilomètres carrés.
+Ladite parcelle renfermant une superficie d’environ 11 475 kilomètres carrés.
+
+
 
 
 
 **PARTIE 5 — ONTARIO** 
+
+
 ### (1) Parc national des Îles-du-Saint-Laurent du Canada
 
 
@@ -3417,7 +3429,7 @@ Dans les comtés de Leeds et de Frontenac;
 
 
 
-Toutes ces parcelles de terrain plus particulièrement décrites sous Premièrement à Douzièmement, comme suit :
+Toutes ces parcelles de terrain plus particulièrement décrites sous Premièrement à Douzièmement, comme suit :
 
 
 
@@ -3425,11 +3437,11 @@ Premièrement
 
 
 
-Les 17 îles suivantes selon les plans 50113, 50114, 50115 et 50116 des Archives d’arpentage des terres du Canada, à Ottawa :
+Les 17 îles suivantes selon les plans 50113, 50114, 50115 et 50116 des Archives d’arpentage des terres du Canada, à Ottawa :
 
 
 
-Dans le canton de Pittsburgh :
+Dans le canton de Pittsburgh :
 
 
 
@@ -3457,7 +3469,7 @@ renfermant environ 3,24 hectares;
 
 
 
-Dans le canton de Front of Leeds and Lansdowne :
+Dans le canton de Front of Leeds and Lansdowne :
 
 
 
@@ -3557,7 +3569,7 @@ renfermant environ 2,95 hectares;
 
 
 
-Dans le canton de Front of Yonge :
+Dans le canton de Front of Yonge :
 
 
 
@@ -3569,7 +3581,7 @@ renfermant environ 5,30 hectares;
 
 
 
-Dans le canton d’Elizabethtown :
+Dans le canton d’Elizabethtown :
 
 
 
@@ -3585,11 +3597,11 @@ Deuxièmement
 
 
 
-Les 88 îles suivantes selon les plans 61449, 61450, 61451 et 61452 des Archives d’arpentage des terres du Canada à Ottawa, dont des copies sont déposées au Bureau d’enregistrement de Brockville sous les numéros LE 338, LE 339, LE 340 et LE 341 respectivement :
+Les 88 îles suivantes selon les plans 61449, 61450, 61451 et 61452 des Archives d’arpentage des terres du Canada à Ottawa, dont des copies sont déposées au Bureau d’enregistrement de Brockville sous les numéros LE 338, LE 339, LE 340 et LE 341 respectivement :
 
 
 
-Dans le canton de Front of Leeds and Lansdowne :
+Dans le canton de Front of Leeds and Lansdowne :
 
 
 
@@ -3597,7 +3609,7 @@ Les îles 04, 7C, 8C, 10A, 18B, 27D, 31C, 31D, 32A, 32B, 33B, 33J, 34A, 34G, 34H
 
 
 
-Dans le canton de Front of Escott :
+Dans le canton de Front of Escott :
 
 
 
@@ -3605,7 +3617,7 @@ Les îles 106B, 106C, 107A, 108A, 108B, 112D, 112E, 113A, 113B, 113K et 113L, re
 
 
 
-Dans le canton de Front of Yonge :
+Dans le canton de Front of Yonge :
 
 
 
@@ -3617,7 +3629,7 @@ Troisièmement
 
 
 
-Dans le canton de Front of Escott :
+Dans le canton de Front of Escott :
 
 
 
@@ -3657,7 +3669,7 @@ Dans la municipalité de canton de Front of Escott;
 
 
 
-Ces parties de l’île Grenadier (Bathurst) décrites comme suit :
+Ces parties de l’île Grenadier (Bathurst) décrites comme suit :
 
 
 
@@ -3813,7 +3825,7 @@ Dans la municipalité de canton de Front of Leeds and Lansdowne;
 
 
 
-Ces parties de l’île Hill (Leroux) décrites comme suit :
+Ces parties de l’île Hill (Leroux) décrites comme suit :
 
 
 
@@ -3864,7 +3876,7 @@ Dans les townships de Mersea et de Pelee;
 
 
 
-Toutes ces parcelles de terrain plus particulièrement décrites sous Premièrement et Deuxièmement comme suit :
+Toutes ces parcelles de terrain plus particulièrement décrites sous Premièrement et Deuxièmement comme suit :
 
 
 
@@ -3872,7 +3884,7 @@ Premièrement, toute cette parcelle de terrain connue sous le nom de la pointe P
 
 
 
-Ladite parcelle renfermant une superficie d’environ 1 500 hectares.
+Ladite parcelle renfermant une superficie d’environ 1 500 hectares.
 
 
 
@@ -3880,7 +3892,7 @@ Deuxièmement, toute cette parcelle de terrain étant l’île Middle dans le la
 
 
 
-SOUS RÉSERVES, cette partie de l’île Middle cédée à Sa Majesté la Reine du chef du Canada par l’acte de renonciation « Quit Claim Deed » daté le 6 janvier 1958, enregistré au bureau d’enregistrement pour la division d’enregistrement du comté d’Essex le 9 mars 1960 sous le numéro 215703, renfermant environ 0,3 hectares (0,75 acres) et plus particulièrement décrite comme suit :
+SOUS RÉSERVES, cette partie de l’île Middle cédée à Sa Majesté la Reine du chef du Canada par l’acte de renonciation « Quit Claim Deed » daté le 6 janvier 1958, enregistré au bureau d’enregistrement pour la division d’enregistrement du comté d’Essex le 9 mars 1960 sous le numéro 215703, renfermant environ 0,3 hectares (0,75 acres) et plus particulièrement décrite comme suit :
 
 
 
@@ -3923,17 +3935,17 @@ Lesdites parcelles décrite sous Premièrement et Deuxièmement renfermant ensem
 ### (3) Parc national des Îles-de-la-Baie-Georgienne du Canada
 
 
-L’ensemble des îles ou parties d’îles situées dans la Baie Georgienne, province d’Ontario, comme il suit :
+L’ensemble des îles ou parties d’îles situées dans la Baie Georgienne, province d’Ontario, comme il suit :
 
 
 
 **a)** Îles ou parties d’îles vis-à-vis le township Baxter, qui fait désormais partie du township de Georgian Bay, dans la municipalité régionale de Muskoka.
 
-Île Beausoleil, contenant environ 1 098 hectares, sous le plan 789 déposé aux Archives d’arpentage des terres du Canada, à Ottawa, plan de ladite île signé par W. Galbraith, arpenteur provincial, en date du 10 août 1907.
+Île Beausoleil, contenant environ 1 098 hectares, sous le plan 789 déposé aux Archives d’arpentage des terres du Canada, à Ottawa, plan de ladite île signé par W. Galbraith, arpenteur provincial, en date du 10 août 1907.
 
 
 
-Les 6 îles suivantes, sous le plan 385 déposé auxdites archives, plan d’îles de la Baie Georgienne signé par C.E. Fitton, arpenteur provincial, en date du 4 janvier 1897 :
+Les 6 îles suivantes, sous le plan 385 déposé auxdites archives, plan d’îles de la Baie Georgienne signé par C.E. Fitton, arpenteur provincial, en date du 4 janvier 1897 :
 
 
 
@@ -3961,7 +3973,7 @@ Les 6 îles suivantes, sous le plan 385 déposé auxdites archives, plan d’îl
 
 
 
-Les 4 îles suivantes, sous le plan 380 déposé auxdites archives, carte de certaines îles de la Baie Georgienne, sous la signature de J.G. Sing, arpenteur fédéral et provincial, en date du 16 avril 1900 :
+Les 4 îles suivantes, sous le plan 380 déposé auxdites archives, carte de certaines îles de la Baie Georgienne, sous la signature de J.G. Sing, arpenteur fédéral et provincial, en date du 16 avril 1900 :
 
 
 
@@ -3981,7 +3993,7 @@ Les 4 îles suivantes, sous le plan 380 déposé auxdites archives, carte de cer
 
 
 
-Les 11 îles suivantes, sous le plan 381 déposé auxdites archives, carte de certaines îles de la Baie Georgienne signée par J.G. Sing, arpenteur fédéral et provincial, en date du 16 avril 1900 :
+Les 11 îles suivantes, sous le plan 381 déposé auxdites archives, carte de certaines îles de la Baie Georgienne signée par J.G. Sing, arpenteur fédéral et provincial, en date du 16 avril 1900 :
 
 
 
@@ -4035,13 +4047,9 @@ Lot B, île n<sup>o</sup> 95, contenant environ 17,85 hectares, sous le plan 434
 
 
 
-
-
-
-
 **b)** Îles ou parties d’îles vis-à-vis le township Gibson, qui fait désormais partie du township de Georgian Bay, dans la municipalité régionale de Muskoka.
 
-Lots E, F et M, île Bone (n<sup>o</sup> 75), sous le plan 50222, déposé auxdites archives et dont une copie a également été déposée audit bureau, sous le numéro 28622 :
+Lots E, F et M, île Bone (n<sup>o</sup> 75), sous le plan 50222, déposé auxdites archives et dont une copie a également été déposée audit bureau, sous le numéro 28622 :
 
 
 
@@ -4061,15 +4069,7 @@ Lot D, île Portage (n<sup>o</sup> 139), contenant environ 7,53 hectares, sous l
 
 
 
-
-
-
-
 Île n<sup>o</sup> 200 (Île Gray), contenant environ 5,06 hectares, sous le plan 399 déposé auxdites archives, plan de certaines îles de la Baie Georgienne signé par J.G. Sing, arpenteur fédéral et provincial, en date du 20 avril 1901.
-
-
-
-
 
 
 
@@ -4077,7 +4077,7 @@ Lot D, île Portage (n<sup>o</sup> 139), contenant environ 7,53 hectares, sous l
 
 **c)** Îles vis-à-vis le township Freeman, qui fait désormais partie du township de Georgian Bay, dans la municipalité régionale du Muskoka.
 
-Les 3 îles suivantes, sous ledit plan 399 :
+Les 3 îles suivantes, sous ledit plan 399 :
 
 
 
@@ -4093,7 +4093,7 @@ Les 3 îles suivantes, sous ledit plan 399 :
 
 
 
-Les 11 îles suivantes, sous le plan 409 déposé auxdites archives, plan de certaines îles de la Baie Georgienne signé par J.G. Sing, arpenteur fédéral et provincial, en date du 12 juin 1902 :
+Les 11 îles suivantes, sous le plan 409 déposé auxdites archives, plan de certaines îles de la Baie Georgienne signé par J.G. Sing, arpenteur fédéral et provincial, en date du 12 juin 1902 :
 
 
 
@@ -4153,7 +4153,7 @@ Les 11 îles suivantes, sous le plan 409 déposé auxdites archives, plan de cer
 
 **d)** Îles vis-à-vis le township Conger, maintenant appelé township of the Archipelago, dans le district de Parry Sound.
 
-Les 3 îles suivantes, sous ledit plan 409 :
+Les 3 îles suivantes, sous ledit plan 409 :
 
 
 
@@ -4173,7 +4173,7 @@ Les 3 îles suivantes, sous ledit plan 409 :
 
 **e)** Îles vis-à-vis le township St. Edmunds, au nord de la péninsule Saugeen, dans le comté de Bruce.
 
-Les 18 îles suivantes ou parties d’icelles, sous le plan 2693 déposé auxdites archives, plan indiquant les îles Cape Hurd, tiré des levés faits par W.R. White, arpenteur provincial, en 1936, et des renseignements fournis par le ministère de la Marine et approuvés le 30 juillet 1942 :
+Les 18 îles suivantes ou parties d’icelles, sous le plan 2693 déposé auxdites archives, plan indiquant les îles Cape Hurd, tiré des levés faits par W.R. White, arpenteur provincial, en 1936, et des renseignements fournis par le ministère de la Marine et approuvés le 30 juillet 1942 :
 
 
 
@@ -4260,29 +4260,33 @@ Lesdites îles et parties d’îles contenant en tout environ 25,64 kilomètres 
 
 
 **PARTIE 6 — QUÉBEC** 
+
+
 ### (1) Parc national Forillon du Canada
 
 
-Partant d’un point sur l’emprise sud-est de la route n<sup>o</sup> 6A situé à 40 chaînes du point d’intersection de l’emprise nord-est de la route n<sup>o</sup> 6 avec le prolongement de l’emprise sud-est de la route n<sup>o</sup> 6A; de là, successivement, les lignes et démarcations suivantes : une ligne droite en allant vers le sud-est jusqu’à un point sur la limite entre les lots 29A et 28G du 1<sup>er</sup> rang du canton de Baie-de-Gaspé-Nord situé à 77 chaînes de la limite entre le 1<sup>er</sup> rang et le 2<sup>e</sup> rang dudit canton, distance mesurée le long de la limite entre les lots 28G et 29A; vers le sud-ouest, la limite entre les lots 29A et 28G et son prolongement jusqu’à l’emprise sud-ouest de la route n<sup>o</sup> 6; l’emprise sud-ouest de la route n<sup>o</sup> 6 vers le nord-ouest jusqu’à la limite entre les lots 34B et 34C du 1<sup>er</sup> rang du canton de Baie-de-Gaspé-Nord; la limite entre les lots 34B et 34C, vers le sud-ouest, jusqu’à la laisse moyenne de basse mer; dans la baie de Gaspé, une ligne suivant parallèlement à 500 pieds de la laisse moyenne de basse mer les côtés ouest et sud de la péninsule de Pénouil ainsi que la rive de ladite baie jusqu’au point où elle rencontre le prolongement de la limite entre les lots 15A et 14B du 1<sup>er</sup> rang du canton de Baie-de-Gaspé-Nord; ledit prolongement et la limite entre les lots 15A et 14B jusqu’à l’emprise nord-est de la route n<sup>o</sup> 6 (entre la ligne séparative des lots 29A et 28G et la ligne séparative des lots 15A et 14B du 1<sup>er</sup> rang du canton de Baie-de-Gaspé-Nord, la limite suit les emprises nord-est et sud-ouest de la route n<sup>o</sup> 6); la limite entre les lots 15A et 14B, vers le nord-est, jusqu’à un point situé à 67 chaînes de la limite entre le 1<sup>er</sup> rang et le 2<sup>e</sup> rang du canton de Baie-de-Gaspé-Nord, distance mesurée le long de la limite entre les lots 15A et 14B; une ligne droite vers le sud-est, jusqu’à un point sur la limite entre les lots 9 et 8A du 1<sup>er</sup> rang du canton de Baie-de-Gaspé-Nord situé à 72 chaînes de la limite entre le 1<sup>er</sup> rang et le 2<sup>e</sup> rang dudit canton, distance mesurée le long de la limite entre les lots 9 et 8A; une ligne droite, vers le sud-est, jusqu’à un point sur la limite entre les lots 3A et 2A du 1<sup>er</sup> rang du canton de Baie-de-Gaspé-Nord situé à 90 chaînes de la limite entre le 1<sup>er</sup> rang et le 2<sup>e</sup> rang dudit canton, distance mesurée le long de la limite entre les lots 3A et 2A; une ligne droite, vers le sud-est, jusqu’à un point sur la limite entre les cantons de Baie-de-Gaspé-Nord et de Cap-des-Rosiers situé à 20 chaînes de l’emprise nord-est de la route n<sup>o</sup> 6, distance mesurée le long de la limite entre lesdits cantons; une ligne droite, vers le sud-est, jusqu’à un point sur la limite entre les lots 3C et 4A du 1<sup>er</sup> rang sud du canton de Cap-des-Rosiers situé à 58 chaînes de la limite entre le 1<sup>er</sup> rang sud et le 2<sup>e</sup> rang sud dudit canton, distance mesurée le long de la limite entre les lots 3C et 4A; une ligne droite vers le sud-est, jusqu’à un point sur la limite entre les lots 8B et 9A du 1<sup>er</sup> rang sud du canton de Cap-des-Rosiers situé à 77 chaînes de la limite entre le 1<sup>er</sup> rang sud et le 2<sup>e</sup> rang sud dudit canton, distance mesurée le long de la limite entre les lots 8B et 9A; une ligne droite, vers le sud-est, jusqu’à un point sur la limite entre les lots 10I et 11A du 1<sup>er</sup> rang sud du canton de Cap-des-Rosiers situé à 79 chaînes de la limite entre le 1<sup>er</sup> rang sud et le 2<sup>e</sup> rang sud dudit canton, distance mesurée le long de la limite entre les lots 10I et 11A; une ligne droite, vers le sud-est, jusqu’à un point sur la limite est du lot 19B du 1<sup>er</sup> rang sud du canton de Cap-des-Rosiers situé à 20 chaînes de l’emprise nord-est de la route n<sup>o</sup> 6, distance mesurée le long de la limite est du lot 19B; vers le sud, la limite est du lot 19B et son prolongement jusqu’à une ligne parallèle distante de 152,4 mètres de la laisse moyenne de basse mer; dans la baie de Gaspé et le golfe Saint-Laurent, en suivant une ligne parallèle distante de 152,4 mètres de la laisse moyenne de basse mer jusqu’au prolongement de la limite entre les lots B-56 et B-13 du 1<sup>er</sup> rang est du canton de Cap-des-Rosiers; vers le nord-ouest, ledit prolongement et la limite entre les lots B-56 et B-13 jusqu’à l’emprise sud-est de la route n<sup>o</sup> 6; l’emprise sud-est de la route n<sup>o</sup> 6, vers le sud-ouest, jusqu’au prolongement de la limite entre les lots B-18 et B-55 du 1<sup>er</sup> rang est du canton de Cap-des-Rosiers; ledit prolongement et la limite sud du lot B-18 jusqu’à un point situé à 60 chaînes de l’emprise nord-ouest de la route n<sup>o</sup> 6, distance mesurée le long de la limite sud du lot B-18; une ligne droite, vers le nord-ouest, jusqu’à un point sur la limite entre les lots 28-4 et 29-1 du 1<sup>er</sup> rang nord du canton de Cap-des-Rosiers situé à 63 chaînes de la limite entre le 1<sup>er</sup> rang nord et le 2<sup>e</sup> rang nord dudit canton, distance mesurée le long de la limite entre les lots 28-4 et 29-1; une ligne droite, vers le nord-ouest, jusqu’au point d’intersection de la limite entre les lots 60-5 et 61-1 du 1<sup>er</sup> rang sud de L’Anse-aux-Griffons du canton de Cap-des-Rosiers avec la limite nord du lot 57-4 du 1<sup>er</sup> rang nord dudit canton; une ligne droite, vers le nord-ouest, jusqu’à un point sur la limite entre les lots 65-5 et 66-1 du 1<sup>er</sup> rang sud de L’Anse-aux-Griffons du canton de Cap-des-Rosiers situé à 45 chaînes de la limite entre le 1<sup>er</sup> rang sud de L’Anse-aux-Griffons et le 1<sup>er</sup> rang nord dudit canton, distance mesurée le long de la limite entre les lots 65-5 et 66-1; une ligne droite, vers l’ouest, jusqu’à un point sur la limite entre les lots 73-2 et 74-1 du 1<sup>er</sup> rang sud de L’Anse-aux-Griffons du canton de Cap-des-Rosiers situé à 95 chaînes de la limite entre le 1<sup>er</sup> rang sud de L’Anse-aux-Griffons et le 2<sup>e</sup> rang nord dudit canton, distance mesurée le long de la limite entre les lots 73-2 et 74-1; vers le nord, la limite entre les lots 73-2 et 74-1 et son prolongement jusqu’à la rive nord de la rivière de L’Anse-aux-Griffons; vers le nord-est, la rive nord de ladite rivière jusqu’à la limite entre les lots 11-4 et 12-1 du 1<sup>er</sup> rang nord de L’Anse-aux-Griffons du canton de Cap-des-Rosiers; vers le nord-ouest, la limite entre les lots 12-1 et 11-4 jusqu’à un point situé à 82 chaînes de la limite entre le 1<sup>er</sup> rang nord de L’Anse-aux-Griffons et le 2<sup>e</sup> rang nord de L’Anse-aux-Griffons du canton de Cap-des-Rosiers, distance mesurée le long de la limite entre les lots 11-4 et 12-1; une ligne droite, vers le nord-est, jusqu’à un point sur la limite entre les lots 4-2 et 5-1 du 1<sup>er</sup> rang nord de L’Anse-aux-Griffons du canton de Cap-des-Rosiers situé à 69 chaînes de la limite entre le 1<sup>er</sup> rang nord de L’Anse-aux-Griffons et le 2<sup>e</sup> rang nord de L’Anse-aux-Griffons dudit canton, distance mesurée le long de la limite entre les lots 5-1 et 4-2; vers le nord-ouest, la limite entre les lots 5-1 et 4-2 jusqu’à la limite nord-ouest du 1<sup>er</sup> rang nord de L’Anse-aux-Griffons du canton de Cap-des-Rosiers; vers le nord-est, la limite nord-ouest du 1<sup>er</sup> rang nord de L’Anse-aux-Griffons du canton de Cap-des-Rosiers jusqu’à l’emprise sud-ouest de la route n<sup>o</sup> 6; l’emprise sud-ouest de la route n<sup>o</sup> 6 jusqu’à la limite entre les lots 4-2 et 5-1 du 1<sup>er</sup> rang est du canton de Fox; vers le sud, la limite entre les lots 4-2 et 5-1 jusqu’à la limite entre le 1<sup>er</sup> rang est et le 2<sup>e</sup> rang est du canton de Fox; vers le nord-ouest, la limite entre le 1<sup>er</sup> rang est et le 2<sup>e</sup> rang est du canton de Fox jusqu’au point d’intersection de la limite entre les lots 520-3 et 520-4 du 2<sup>e</sup> rang est du canton de Fox; une ligne droite, vers le nord-ouest, jusqu’au point d’intersection de la limite entre les lots 510 et 509-1 du 2<sup>e</sup> rang est du canton de Fox avec la limite entre le rang sud de la rivière et le 2<sup>e</sup> rang est dudit canton; vers l’ouest, la limite entre le rang sud de la rivière et le 2<sup>e</sup> rang est du canton de Fox jusqu’à la limite entre les lots 127-1 et 129-1 du rang sud de la rivière dudit canton; vers le nord-ouest, la limite entre les lots 127-1 et 129-1 jusqu’à un point situé à 64 chaînes de la limite entre le rang sud de la rivière et le 2<sup>e</sup> rang est du canton de Fox, distance mesurée le long de la limite entre les lots 127-1 et 129-1; une ligne droite, vers l’ouest, jusqu’à un point sur la limite entre les lots 151-1 et 152 du rang sud de la rivière du canton de Fox situé à 64 chaînes de la limite entre le rang sud de la rivière et le 2<sup>e</sup> rang est dudit canton, distance mesurée le long de la limite nord-est du lot 152; vers le nord-ouest, la limite entre les lots 151-1 et 152 jusqu’à la rive sud de la Rivière au Renard; vers le nord-ouest, la rive sud-ouest de la Rivière au Renard jusqu’à l’emprise sud-est de la route n<sup>o</sup> 6A; vers le sud-ouest, l’emprise sud-est de la route n<sup>o</sup> 6A jusqu’à la rive nord-est de la Rivière au Renard; vers le sud-ouest, la rive nord-est de ladite rivière jusqu’à la limite nord-est du lot 547-1 du rang sud du chemin du canton de Fox; vers le nord-ouest, la limite nord-est du lot 547-1 jusqu’à l’emprise sud-est de la route n<sup>o</sup> 6A; vers le sud-ouest, l’emprise sud-est de la route n<sup>o</sup> 6A jusqu’à la limite sud-ouest du lot 562 du rang nord du chemin du canton de Fox; vers le sud-est, la limite sud-ouest des lots 562 du rang nord du chemin et 559-1 du rang sud du chemin jusqu’à un point situé à 49 chaînes de la limite entre le rang sud du chemin et le 5<sup>e</sup> rang est du canton de Fox, distance mesurée le long de la limite nord-est du lot 560-1 du rang sud du chemin du canton de Fox; une ligne droite, vers le sud-ouest, jusqu’à un point sur la limite sud-ouest du lot 560-2 du rang sud du chemin du canton de Fox situé à 41 chaînes de la limite entre le rang sud du chemin et le 5<sup>e</sup> rang est du canton de Fox, distance mesurée le long de la limite sud-ouest du lot 560-2; vers le nord-ouest, la limite nord-est du lot 19 du rang est du chemin du canton de Baie-de-Gaspé-Nord jusqu’à l’emprise sud-est de la route n<sup>o</sup> 6A; vers le sud-ouest, l’emprise sud-est de la route n<sup>o</sup> 6A jusqu’à la limite entre les lots 11 et 12 du rang est du chemin du canton de Baie-de-Gaspé-Nord; vers le sud-est, la limite entre les lots 11 et 12 jusqu’à la limite sud-est du rang est du chemin du canton de Baie-de-Gaspé-Nord; vers le sud-ouest, la limite sud-est du rang est du chemin du canton de Baie-de-Gaspé-Nord jusqu’à la limite sud-ouest du lot 1 du rang est du chemin du canton de Baie-de-Gaspé-Nord; vers le nord-ouest, la limite sud-ouest du lot 1 jusqu’à l’emprise sud-est de la route n<sup>o</sup> 6A; enfin, vers le sud-ouest, l’emprise sud-est de la route n<sup>o</sup> 6A jusqu’au point de départ.
+Partant d’un point sur l’emprise sud-est de la route n<sup>o</sup> 6A situé à 40 chaînes du point d’intersection de l’emprise nord-est de la route n<sup>o</sup> 6 avec le prolongement de l’emprise sud-est de la route n<sup>o</sup> 6A; de là, successivement, les lignes et démarcations suivantes : une ligne droite en allant vers le sud-est jusqu’à un point sur la limite entre les lots 29A et 28G du 1<sup>er</sup> rang du canton de Baie-de-Gaspé-Nord situé à 77 chaînes de la limite entre le 1<sup>er</sup> rang et le 2<sup>e</sup> rang dudit canton, distance mesurée le long de la limite entre les lots 28G et 29A; vers le sud-ouest, la limite entre les lots 29A et 28G et son prolongement jusqu’à l’emprise sud-ouest de la route n<sup>o</sup> 6; l’emprise sud-ouest de la route n<sup>o</sup> 6 vers le nord-ouest jusqu’à la limite entre les lots 34B et 34C du 1<sup>er</sup> rang du canton de Baie-de-Gaspé-Nord; la limite entre les lots 34B et 34C, vers le sud-ouest, jusqu’à la laisse moyenne de basse mer; dans la baie de Gaspé, une ligne suivant parallèlement à 500 pieds de la laisse moyenne de basse mer les côtés ouest et sud de la péninsule de Pénouil ainsi que la rive de ladite baie jusqu’au point où elle rencontre le prolongement de la limite entre les lots 15A et 14B du 1<sup>er</sup> rang du canton de Baie-de-Gaspé-Nord; ledit prolongement et la limite entre les lots 15A et 14B jusqu’à l’emprise nord-est de la route n<sup>o</sup> 6 (entre la ligne séparative des lots 29A et 28G et la ligne séparative des lots 15A et 14B du 1<sup>er</sup> rang du canton de Baie-de-Gaspé-Nord, la limite suit les emprises nord-est et sud-ouest de la route n<sup>o</sup> 6); la limite entre les lots 15A et 14B, vers le nord-est, jusqu’à un point situé à 67 chaînes de la limite entre le 1<sup>er</sup> rang et le 2<sup>e</sup> rang du canton de Baie-de-Gaspé-Nord, distance mesurée le long de la limite entre les lots 15A et 14B; une ligne droite vers le sud-est, jusqu’à un point sur la limite entre les lots 9 et 8A du 1<sup>er</sup> rang du canton de Baie-de-Gaspé-Nord situé à 72 chaînes de la limite entre le 1<sup>er</sup> rang et le 2<sup>e</sup> rang dudit canton, distance mesurée le long de la limite entre les lots 9 et 8A; une ligne droite, vers le sud-est, jusqu’à un point sur la limite entre les lots 3A et 2A du 1<sup>er</sup> rang du canton de Baie-de-Gaspé-Nord situé à 90 chaînes de la limite entre le 1<sup>er</sup> rang et le 2<sup>e</sup> rang dudit canton, distance mesurée le long de la limite entre les lots 3A et 2A; une ligne droite, vers le sud-est, jusqu’à un point sur la limite entre les cantons de Baie-de-Gaspé-Nord et de Cap-des-Rosiers situé à 20 chaînes de l’emprise nord-est de la route n<sup>o</sup> 6, distance mesurée le long de la limite entre lesdits cantons; une ligne droite, vers le sud-est, jusqu’à un point sur la limite entre les lots 3C et 4A du 1<sup>er</sup> rang sud du canton de Cap-des-Rosiers situé à 58 chaînes de la limite entre le 1<sup>er</sup> rang sud et le 2<sup>e</sup> rang sud dudit canton, distance mesurée le long de la limite entre les lots 3C et 4A; une ligne droite vers le sud-est, jusqu’à un point sur la limite entre les lots 8B et 9A du 1<sup>er</sup> rang sud du canton de Cap-des-Rosiers situé à 77 chaînes de la limite entre le 1<sup>er</sup> rang sud et le 2<sup>e</sup> rang sud dudit canton, distance mesurée le long de la limite entre les lots 8B et 9A; une ligne droite, vers le sud-est, jusqu’à un point sur la limite entre les lots 10I et 11A du 1<sup>er</sup> rang sud du canton de Cap-des-Rosiers situé à 79 chaînes de la limite entre le 1<sup>er</sup> rang sud et le 2<sup>e</sup> rang sud dudit canton, distance mesurée le long de la limite entre les lots 10I et 11A; une ligne droite, vers le sud-est, jusqu’à un point sur la limite est du lot 19B du 1<sup>er</sup> rang sud du canton de Cap-des-Rosiers situé à 20 chaînes de l’emprise nord-est de la route n<sup>o</sup> 6, distance mesurée le long de la limite est du lot 19B; vers le sud, la limite est du lot 19B et son prolongement jusqu’à une ligne parallèle distante de 152,4 mètres de la laisse moyenne de basse mer; dans la baie de Gaspé et le golfe Saint-Laurent, en suivant une ligne parallèle distante de 152,4 mètres de la laisse moyenne de basse mer jusqu’au prolongement de la limite entre les lots B-56 et B-13 du 1<sup>er</sup> rang est du canton de Cap-des-Rosiers; vers le nord-ouest, ledit prolongement et la limite entre les lots B-56 et B-13 jusqu’à l’emprise sud-est de la route n<sup>o</sup> 6; l’emprise sud-est de la route n<sup>o</sup> 6, vers le sud-ouest, jusqu’au prolongement de la limite entre les lots B-18 et B-55 du 1<sup>er</sup> rang est du canton de Cap-des-Rosiers; ledit prolongement et la limite sud du lot B-18 jusqu’à un point situé à 60 chaînes de l’emprise nord-ouest de la route n<sup>o</sup> 6, distance mesurée le long de la limite sud du lot B-18; une ligne droite, vers le nord-ouest, jusqu’à un point sur la limite entre les lots 28-4 et 29-1 du 1<sup>er</sup> rang nord du canton de Cap-des-Rosiers situé à 63 chaînes de la limite entre le 1<sup>er</sup> rang nord et le 2<sup>e</sup> rang nord dudit canton, distance mesurée le long de la limite entre les lots 28-4 et 29-1; une ligne droite, vers le nord-ouest, jusqu’au point d’intersection de la limite entre les lots 60-5 et 61-1 du 1<sup>er</sup> rang sud de L’Anse-aux-Griffons du canton de Cap-des-Rosiers avec la limite nord du lot 57-4 du 1<sup>er</sup> rang nord dudit canton; une ligne droite, vers le nord-ouest, jusqu’à un point sur la limite entre les lots 65-5 et 66-1 du 1<sup>er</sup> rang sud de L’Anse-aux-Griffons du canton de Cap-des-Rosiers situé à 45 chaînes de la limite entre le 1<sup>er</sup> rang sud de L’Anse-aux-Griffons et le 1<sup>er</sup> rang nord dudit canton, distance mesurée le long de la limite entre les lots 65-5 et 66-1; une ligne droite, vers l’ouest, jusqu’à un point sur la limite entre les lots 73-2 et 74-1 du 1<sup>er</sup> rang sud de L’Anse-aux-Griffons du canton de Cap-des-Rosiers situé à 95 chaînes de la limite entre le 1<sup>er</sup> rang sud de L’Anse-aux-Griffons et le 2<sup>e</sup> rang nord dudit canton, distance mesurée le long de la limite entre les lots 73-2 et 74-1; vers le nord, la limite entre les lots 73-2 et 74-1 et son prolongement jusqu’à la rive nord de la rivière de L’Anse-aux-Griffons; vers le nord-est, la rive nord de ladite rivière jusqu’à la limite entre les lots 11-4 et 12-1 du 1<sup>er</sup> rang nord de L’Anse-aux-Griffons du canton de Cap-des-Rosiers; vers le nord-ouest, la limite entre les lots 12-1 et 11-4 jusqu’à un point situé à 82 chaînes de la limite entre le 1<sup>er</sup> rang nord de L’Anse-aux-Griffons et le 2<sup>e</sup> rang nord de L’Anse-aux-Griffons du canton de Cap-des-Rosiers, distance mesurée le long de la limite entre les lots 11-4 et 12-1; une ligne droite, vers le nord-est, jusqu’à un point sur la limite entre les lots 4-2 et 5-1 du 1<sup>er</sup> rang nord de L’Anse-aux-Griffons du canton de Cap-des-Rosiers situé à 69 chaînes de la limite entre le 1<sup>er</sup> rang nord de L’Anse-aux-Griffons et le 2<sup>e</sup> rang nord de L’Anse-aux-Griffons dudit canton, distance mesurée le long de la limite entre les lots 5-1 et 4-2; vers le nord-ouest, la limite entre les lots 5-1 et 4-2 jusqu’à la limite nord-ouest du 1<sup>er</sup> rang nord de L’Anse-aux-Griffons du canton de Cap-des-Rosiers; vers le nord-est, la limite nord-ouest du 1<sup>er</sup> rang nord de L’Anse-aux-Griffons du canton de Cap-des-Rosiers jusqu’à l’emprise sud-ouest de la route n<sup>o</sup> 6; l’emprise sud-ouest de la route n<sup>o</sup> 6 jusqu’à la limite entre les lots 4-2 et 5-1 du 1<sup>er</sup> rang est du canton de Fox; vers le sud, la limite entre les lots 4-2 et 5-1 jusqu’à la limite entre le 1<sup>er</sup> rang est et le 2<sup>e</sup> rang est du canton de Fox; vers le nord-ouest, la limite entre le 1<sup>er</sup> rang est et le 2<sup>e</sup> rang est du canton de Fox jusqu’au point d’intersection de la limite entre les lots 520-3 et 520-4 du 2<sup>e</sup> rang est du canton de Fox; une ligne droite, vers le nord-ouest, jusqu’au point d’intersection de la limite entre les lots 510 et 509-1 du 2<sup>e</sup> rang est du canton de Fox avec la limite entre le rang sud de la rivière et le 2<sup>e</sup> rang est dudit canton; vers l’ouest, la limite entre le rang sud de la rivière et le 2<sup>e</sup> rang est du canton de Fox jusqu’à la limite entre les lots 127-1 et 129-1 du rang sud de la rivière dudit canton; vers le nord-ouest, la limite entre les lots 127-1 et 129-1 jusqu’à un point situé à 64 chaînes de la limite entre le rang sud de la rivière et le 2<sup>e</sup> rang est du canton de Fox, distance mesurée le long de la limite entre les lots 127-1 et 129-1; une ligne droite, vers l’ouest, jusqu’à un point sur la limite entre les lots 151-1 et 152 du rang sud de la rivière du canton de Fox situé à 64 chaînes de la limite entre le rang sud de la rivière et le 2<sup>e</sup> rang est dudit canton, distance mesurée le long de la limite nord-est du lot 152; vers le nord-ouest, la limite entre les lots 151-1 et 152 jusqu’à la rive sud de la Rivière au Renard; vers le nord-ouest, la rive sud-ouest de la Rivière au Renard jusqu’à l’emprise sud-est de la route n<sup>o</sup> 6A; vers le sud-ouest, l’emprise sud-est de la route n<sup>o</sup> 6A jusqu’à la rive nord-est de la Rivière au Renard; vers le sud-ouest, la rive nord-est de ladite rivière jusqu’à la limite nord-est du lot 547-1 du rang sud du chemin du canton de Fox; vers le nord-ouest, la limite nord-est du lot 547-1 jusqu’à l’emprise sud-est de la route n<sup>o</sup> 6A; vers le sud-ouest, l’emprise sud-est de la route n<sup>o</sup> 6A jusqu’à la limite sud-ouest du lot 562 du rang nord du chemin du canton de Fox; vers le sud-est, la limite sud-ouest des lots 562 du rang nord du chemin et 559-1 du rang sud du chemin jusqu’à un point situé à 49 chaînes de la limite entre le rang sud du chemin et le 5<sup>e</sup> rang est du canton de Fox, distance mesurée le long de la limite nord-est du lot 560-1 du rang sud du chemin du canton de Fox; une ligne droite, vers le sud-ouest, jusqu’à un point sur la limite sud-ouest du lot 560-2 du rang sud du chemin du canton de Fox situé à 41 chaînes de la limite entre le rang sud du chemin et le 5<sup>e</sup> rang est du canton de Fox, distance mesurée le long de la limite sud-ouest du lot 560-2; vers le nord-ouest, la limite nord-est du lot 19 du rang est du chemin du canton de Baie-de-Gaspé-Nord jusqu’à l’emprise sud-est de la route n<sup>o</sup> 6A; vers le sud-ouest, l’emprise sud-est de la route n<sup>o</sup> 6A jusqu’à la limite entre les lots 11 et 12 du rang est du chemin du canton de Baie-de-Gaspé-Nord; vers le sud-est, la limite entre les lots 11 et 12 jusqu’à la limite sud-est du rang est du chemin du canton de Baie-de-Gaspé-Nord; vers le sud-ouest, la limite sud-est du rang est du chemin du canton de Baie-de-Gaspé-Nord jusqu’à la limite sud-ouest du lot 1 du rang est du chemin du canton de Baie-de-Gaspé-Nord; vers le nord-ouest, la limite sud-ouest du lot 1 jusqu’à l’emprise sud-est de la route n<sup>o</sup> 6A; enfin, vers le sud-ouest, l’emprise sud-est de la route n<sup>o</sup> 6A jusqu’au point de départ.
 
 
 
-La superficie du territoire compris à l’intérieur des limites décrites ci-dessus est de 21 696 hectares.
+La superficie du territoire compris à l’intérieur des limites décrites ci-dessus est de 21 696 hectares.
 
 
 
 ### (2) Parc national de la Mauricie du Canada
 
 
-Dans les municipalités du comté de Champlain et St-Maurice, dans les seigneuries de Batiscan et Cap de la Madeleine et les cantons Allard, Belleau, Desaulniers, Matawin et Radnor : toute cette étendue de terre contournée par un trait noir épais et considérée comme étant le parc national de la Mauricie sur le plan numéro 61255 déposé aux Archives d’arpentage des terres du Canada, à Ottawa, contenant environ 53 613 hectares.
+Dans les municipalités du comté de Champlain et St-Maurice, dans les seigneuries de Batiscan et Cap de la Madeleine et les cantons Allard, Belleau, Desaulniers, Matawin et Radnor : toute cette étendue de terre contournée par un trait noir épais et considérée comme étant le parc national de la Mauricie sur le plan numéro 61255 déposé aux Archives d’arpentage des terres du Canada, à Ottawa, contenant environ 53 613 hectares.
 
 
 
 **PARTIE 7 — NOUVEAU-BRUNSWICK** 
+
+
 ### (1) Parc national Fundy du Canada
 
 
-L’ensemble et chaque partie d’un certain lopin ou d’une certaine étendue de terre située dans la province du Nouveau-Brunswick et qui peut être plus particulièrement décrite comme il suit :
+L’ensemble et chaque partie d’un certain lopin ou d’une certaine étendue de terre située dans la province du Nouveau-Brunswick et qui peut être plus particulièrement décrite comme il suit :
 
 
 
@@ -4305,7 +4309,7 @@ Dans le comté de Kent;
 
 
 
-Toutes ces parcelles décrites sous Premièrement et Deuxièmement comme il suit :
+Toutes ces parcelles décrites sous Premièrement et Deuxièmement comme il suit :
 
 
 
@@ -4317,7 +4321,7 @@ Toute cette parcelle selon un plan déposé aux Archives d’arpentage des terre
 
 
 
-ladite parcelle renfermant environ 23 882 hectares.
+ladite parcelle renfermant environ 23 882 hectares.
 
 
 
@@ -4333,11 +4337,13 @@ ladite parcelle renfermant environ 40,9 hectares.
 
 
 
-Lesdites parcelles renfermant ensemble environ 23 922,9 hectares.
+Lesdites parcelles renfermant ensemble environ 23 922,9 hectares.
 
 
 
 **PARTIE 8 — NOUVELLE-ÉCOSSE** 
+
+
 ### (1) Parc national des Hautes-Terres-du-Cap-Breton du Canada
 
 
@@ -4353,7 +4359,7 @@ La totalité du parc national des Hautes-Terres-du-Cap-Breton délimité en roug
 
 
 
-Excepté la parcelle située à Ingonish, faisant partie de la concession de la Couronne n<sup>o</sup> 5219 faite à l’honorable T.D. Archibald, le 20 septembre 1860, et qui est décrite plus particulièrement de la façon suivante :
+Excepté la parcelle située à Ingonish, faisant partie de la concession de la Couronne n<sup>o</sup> 5219 faite à l’honorable T.D. Archibald, le 20 septembre 1860, et qui est décrite plus particulièrement de la façon suivante :
 
 
 
@@ -4400,7 +4406,7 @@ Dans la province de la Nouvelle-Écosse;
 
 
 
-Toutes ces parcelles plus particulièrement décrites sous Premièrement et Deuxièmement comme il suit :
+Toutes ces parcelles plus particulièrement décrites sous Premièrement et Deuxièmement comme il suit :
 
 
 
@@ -4412,7 +4418,7 @@ Toute cette parcelle dans les comtés d’Annapolis, Digby et Queens, telle qu�
 
 
 
-ladite parcelle renfermant environ 38 145,7 hectares (94 260 acres).
+ladite parcelle renfermant environ 38 145,7 hectares (94 260 acres).
 
 
 
@@ -4424,19 +4430,21 @@ Toute cette parcelle située à South West Port Mouton, dans le comté de Queens
 
 
 
-ladite parcelle renfermant environ 2 218 hectares (5 480 acres).
+ladite parcelle renfermant environ 2 218 hectares (5 480 acres).
 
 
 
-Lesdites parcelles renfermant ensemble environ 40 363,7 hectares (99 740 acres).
+Lesdites parcelles renfermant ensemble environ 40 363,7 hectares (99 740 acres).
 
 
 
 **PARTIE 9 — ÎLE-DU-PRINCE-ÉDOUARD** 
+
+
 ### Parc national de l’Île-du-Prince-Édouard du Canada
 
 
-Toutes ces parcelles de terrain longeant la côte nord de l’Île-du-Prince-Édouard et plus particulièrement décrites sous Parcelle 1 à Parcelle 5, comme suit :
+Toutes ces parcelles de terrain longeant la côte nord de l’Île-du-Prince-Édouard et plus particulièrement décrites sous Parcelle 1 à Parcelle 5, comme suit :
 
 
 
@@ -4472,7 +4480,7 @@ De là, continuant le long desdites limites rectilignes, qui constituent, en par
 
 
 
-EXCEPTÉ ces parcelles décrites comme suit :
+EXCEPTÉ ces parcelles décrites comme suit :
 
 
 
@@ -4552,11 +4560,13 @@ De là, suivant vers le sud ladite limite est, jusqu’au point de départ.
 
 
 
-Lesdites parcelles 1 à 5 renfermant ensemble environ 2 149,8 hectares (21,5 kilomètres carrés).
+Lesdites parcelles 1 à 5 renfermant ensemble environ 2 149,8 hectares (21,5 kilomètres carrés).
 
 
 
 **PARTIE 10 — TERRE-NEUVE** 
+
+
 ### (1) Parc national Terra-Nova du Canada
 
 
@@ -4564,7 +4574,7 @@ Premièrement
 
 
 
-Toute l’étendue ou la parcelle de terre située dans les anciens districts de Bonavista-Nord et de Bonavista-Sud, dans la province de Terre-Neuve, telle qu’elle est indiquée sur le plan numéro 50066 déposé aux Archives d’arpentage des terres du Canada, à Ottawa, dont copie a été enregistrée au folio 44 du volume 455 au Bureau d’enregistrement à St. John’s, Terre-Neuve; ladite parcelle ou étendue étant d’environ 39 627 hectares.
+Toute l’étendue ou la parcelle de terre située dans les anciens districts de Bonavista-Nord et de Bonavista-Sud, dans la province de Terre-Neuve, telle qu’elle est indiquée sur le plan numéro 50066 déposé aux Archives d’arpentage des terres du Canada, à Ottawa, dont copie a été enregistrée au folio 44 du volume 455 au Bureau d’enregistrement à St. John’s, Terre-Neuve; ladite parcelle ou étendue étant d’environ 39 627 hectares.
 
 
 
@@ -4583,15 +4593,24 @@ L’ensemble d’une certaine étendue de terre située dans les districts de St
 
 
 
-Ladite étendue de terre renferme une superficie d’environ 1 805 kilomètres carrés qui comprend les îlots White Rock et l’île Stearing, mais non la parcelle désignée « Parcel 4 ».
+Ladite étendue de terre renferme une superficie d’environ 1 805 kilomètres carrés qui comprend les îlots White Rock et l’île Stearing, mais non la parcelle désignée « Parcel 4 ».
+
+
+
+### (3) Parc national des Monts-Torngat du Canada
+
+
+Toute la parcelle de terre située dans la province de Terre-Neuve-et-Labrador et figurant sur le plan cartographique descriptif établi par le ministère des Ressources naturelles en date du 18 janvier 2005, inscrit au *Crown Lands Registry Office* de St. John’s (Terre-Neuve-et-Labrador), sous le numéro SP 372, et dont une copie est jointe comme appendice D-1 de l’Accord, au sens de l’article 2 de la [Loi sur l’Accord sur les revendications territoriales des Inuit du Labrador](/fr/Lois/Lois%20du%20Canada/2005/ch.%2027.md). Cette parcelle couvre une superficie d’environ 9 700 kilomètres carrés.
 
 
 
 **PARTIE 11 — YUKON** 
+
+
 ### (1) Parc national Ivvavik du Canada
 
 
-Toutes les latitudes et longitudes indiquées ci-après font référence au Système géodésique nord-américain de 1927 et tous les accidents topographiques indiqués sont conformes à la première édition des cartes du Système national de référence cartographique 117B/9, 117A/12 Cottonwood Creek, 117A/11 Welcome Mountain, 117D/3E et 3W Crow River, 117D/6E et 6W Kay Point, 117D/5E Loney Creek, 117D/11W & 117D/12E Herschel Island, 117D/12W Herschel Island, et 117C/9E et 9W Clarence Lagoon, et la deuxième édition de la carte du Système national de référence cartographique 117A/14 Babbage River, toutes établies et dressées à l’échelle de 1:50 000 par le ministère de l’Énergie, des Mines et des Ressources, à Ottawa, et ainsi qu’à une partie de l’Atlas de la frontière canado-américaine;
+Toutes les latitudes et longitudes indiquées ci-après font référence au Système géodésique nord-américain de 1927 et tous les accidents topographiques indiqués sont conformes à la première édition des cartes du Système national de référence cartographique 117B/9, 117A/12 Cottonwood Creek, 117A/11 Welcome Mountain, 117D/3E et 3W Crow River, 117D/6E et 6W Kay Point, 117D/5E Loney Creek, 117D/11W & 117D/12E Herschel Island, 117D/12W Herschel Island, et 117C/9E et 9W Clarence Lagoon, et la deuxième édition de la carte du Système national de référence cartographique 117A/14 Babbage River, toutes établies et dressées à l’échelle de 1:50 000 par le ministère de l’Énergie, des Mines et des Ressources, à Ottawa, et ainsi qu’à une partie de l’Atlas de la frontière canado-américaine;
 
 
 
@@ -4599,7 +4618,7 @@ Au Yukon;
 
 
 
-Toute cette parcelle de terrain plus particulièrement décrite ci-après :
+Toute cette parcelle de terrain plus particulièrement décrite ci-après :
 
 
 
@@ -4607,7 +4626,7 @@ Commençant au point d’intersection de la frontière canado-américaine, près
 
 
 
-De là, généralement vers l’est, le long de ladite ligne de partage des eaux jusqu’à son intersection avec la longitude passant par la station de triangulation de la Division des levés géodésiques Pete 51-A, numéro 568051, par environ 68°37′17″ de latitude; ladite station étant enregistrée dans la banque de données de la Division des levés géodésiques du ministère de l’Énergie, des Mines et des Ressources, à Ottawa, et ayant les coordonnées géographiques publiées que voici : latitude 68°37′17,08385″ et longitude 139°44′37,86856″;
+De là, généralement vers l’est, le long de ladite ligne de partage des eaux jusqu’à son intersection avec la longitude passant par la station de triangulation de la Division des levés géodésiques Pete 51-A, numéro 568051, par environ 68°37′17″ de latitude; ladite station étant enregistrée dans la banque de données de la Division des levés géodésiques du ministère de l’Énergie, des Mines et des Ressources, à Ottawa, et ayant les coordonnées géographiques publiées que voici : latitude 68°37′17,08385″ et longitude 139°44′37,86856″;
 
 
 
@@ -4643,14 +4662,14 @@ Ladite parcelle comprenant tous les hauts-fonds, îles, bancs de sable et flèch
 
 
 
-Ladite parcelle renfermant environ 9 750 kilomètres carrés.
+Ladite parcelle renfermant environ 9 750 kilomètres carrés.
 
 
 
 ### (2) Parc national Vuntut du Canada
 
 
-Toutes les latitudes et longitudes mentionnées ci-après se rapportent au Système géodésique nord-américain de 1927; tous les accidents topographiques mentionnés ci-après, étant selon la première édition des cartes 117A/3, 117A/4, 117A/5, 117A/6, 117A/11, 117A/12, 117B/1, 117B/8 et 117B/9 du Système national de référence cartographique, dressées à l’échelle de 1:50 000 par le ministère de l’Énergie, des Mines et des Ressources, à Ottawa, et selon une partie de l’Atlas de la frontière canado-américaine;
+Toutes les latitudes et longitudes mentionnées ci-après se rapportent au Système géodésique nord-américain de 1927; tous les accidents topographiques mentionnés ci-après, étant selon la première édition des cartes 117A/3, 117A/4, 117A/5, 117A/6, 117A/11, 117A/12, 117B/1, 117B/8 et 117B/9 du Système national de référence cartographique, dressées à l’échelle de 1:50 000 par le ministère de l’Énergie, des Mines et des Ressources, à Ottawa, et selon une partie de l’Atlas de la frontière canado-américaine;
 
 
 
@@ -4658,7 +4677,7 @@ Au Yukon;
 
 
 
-Toute cette parcelle de terrain plus particulièrement décrite comme il suit :
+Toute cette parcelle de terrain plus particulièrement décrite comme il suit :
 
 
 
@@ -4686,14 +4705,14 @@ De là, vers le nord suivant ladite frontière internationale jusqu’au point d
 
 
 
-Ladite parcelle renfermant environ 4 345 kilomètres carrés.
+Ladite parcelle renfermant environ 4 345 kilomètres carrés.
 
 
 
 ### (3) Parc national Kluane du Canada
 
 
-Au Yukon :
+Au Yukon :
 
 
 
@@ -4706,6 +4725,8 @@ Parmi les autres terres mises de côté à ce titre, celles délimitées, le cas
 
 
 **PARTIE 12 — TERRITOIRES DU NORD-OUEST** 
+
+
 ### (1) Parc national Aulavik du Canada
 
 
@@ -4717,11 +4738,11 @@ Sur l’île Banks;
 
 
 
-Toute cette parcelle de terrain plus particulièrement décrite ci-après :
+Toute cette parcelle de terrain plus particulièrement décrite ci-après :
 
 
 
-Tous les accidents topographiques mentionnés ci-après, étant selon la première édition de la carte « Cape M’Clure », et la deuxième édition des cartes « Mercy Bay », « White Sand Creek », « Deans Dundas Bay », « Jesse Harbour » et « Bernard River » numéros 98E, 88F, 88C, 88B, 98A et 98D et C du Système national de référence cartographique, dressées à l’échelle de 1:250 000 par le ministère de l’Énergie, des Mines et des Ressources à Ottawa (les cartes 98E, 88B et 88C sont dressées par le Service topographique de l’Armée, Génie royal canadien). Toutes les coordonnées proviennent des cartes susmentionnées et se rapportent au Système géodésique nord-américain de 1927.
+Tous les accidents topographiques mentionnés ci-après, étant selon la première édition de la carte « Cape M’Clure », et la deuxième édition des cartes « Mercy Bay », « White Sand Creek », « Deans Dundas Bay », « Jesse Harbour » et « Bernard River » numéros 98E, 88F, 88C, 88B, 98A et 98D et C du Système national de référence cartographique, dressées à l’échelle de 1:250 000 par le ministère de l’Énergie, des Mines et des Ressources à Ottawa (les cartes 98E, 88B et 88C sont dressées par le Service topographique de l’Armée, Génie royal canadien). Toutes les coordonnées proviennent des cartes susmentionnées et se rapportent au Système géodésique nord-américain de 1927.
 
 
 
@@ -4813,7 +4834,7 @@ De là, vers l’est, le sud, l’est, le nord et le nord-est le long de la lign
 
 
 
-Ladite parcelle renfermant environ 12 200 kilomètres carrés.
+Ladite parcelle renfermant environ 12 200 kilomètres carrés.
 
 
 
@@ -4824,7 +4845,7 @@ Dans les Territoires du Nord-Ouest;
 
 
 
-Dans la région désignée du règlement de la revendication foncière des Inuvialuit :
+Dans la région désignée du règlement de la revendication foncière des Inuvialuit :
 
 
 
@@ -4832,7 +4853,7 @@ Parc national proposé de Tuktut Nogait dans la région désignée du règlement
 
 
 
-Toute cette parcelle plus particulièrement décrite comme il suit : (coordonnées géographiques suivant le Système géodésique nord-américain de 1927)
+Toute cette parcelle plus particulièrement décrite comme il suit : (coordonnées géographiques suivant le Système géodésique nord-américain de 1927)
 
 
 
@@ -4872,11 +4893,13 @@ De là, vers le nord et l’est en suivant le filet d’eau central de la riviè
 
 
 
-Ladite parcelle renfermant environ 16 340 kilomètres carrés.
+Ladite parcelle renfermant environ 16 340 kilomètres carrés.
 
 
 
 **PARTIE 13 — NUNAVUT** 
+
+
 ### (1) Parc national de Sirmilik du Canada
 
 
@@ -4884,18 +4907,14 @@ Dans le Nunavut;
 
 
 
-Toutes ces parcelles décrites comme les parties I à IV comme suit :
+Toutes ces parcelles décrites comme les parties I à IV comme suit :
 
 
 
 ### Partie I
 
 
-
-
-
-
-Toute cette parcelle de terrain plus particulièrement décrite comme suit : Tous les accidents topographiques mentionnés ci-après, étant selon les premières éditions des cartes « Pond Inlet » et « Icebound Lakes » numéros 38B et 37G du Système national de référence cartographique, tel qu’indiqué sur les feuillets 13 et 10 de 237 respectivement sur les cartes déposées au Bureau des titres de biens-fonds à Yellowknife sous les numéros 2405-13 et 2405-10 respectivement, des copies étant déposées aux Archives des terres du Canada à Ottawa sous le numéro 77288. Toutes les coordonnées proviennent des cartes susmentionnées et se rapportent au Système de référence géodésique nord-américain, 1927.
+Toute cette parcelle de terrain plus particulièrement décrite comme suit : Tous les accidents topographiques mentionnés ci-après, étant selon les premières éditions des cartes « Pond Inlet » et « Icebound Lakes » numéros 38B et 37G du Système national de référence cartographique, tel qu’indiqué sur les feuillets 13 et 10 de 237 respectivement sur les cartes déposées au Bureau des titres de biens-fonds à Yellowknife sous les numéros 2405-13 et 2405-10 respectivement, des copies étant déposées aux Archives des terres du Canada à Ottawa sous le numéro 77288. Toutes les coordonnées proviennent des cartes susmentionnées et se rapportent au Système de référence géodésique nord-américain, 1927.
 
 
 
@@ -4903,7 +4922,7 @@ Commençant au repère de limite 177PI tel qu’indiqué sur le plan de la parce
 
 
 
-De là, dans une direction de 114°10′31″ et une distance de 27 201,56 mètres jusqu’au repère de limite 176PI tel qu’indiqué sur ledit plan;
+De là, dans une direction de 114°10′31″ et une distance de 27 201,56 mètres jusqu’au repère de limite 176PI tel qu’indiqué sur ledit plan;
 
 
 
@@ -4923,31 +4942,31 @@ De là, vers l’ouest jusqu’au repère de limite 66PI tel qu’indiqué sur l
 
 
 
-De là, dans une direction de 9°49′13″ et une distance de 3 294,30 mètres jusqu’au repère de limite 75PI tel qu’indiqué sur ledit plan;
+De là, dans une direction de 9°49′13″ et une distance de 3 294,30 mètres jusqu’au repère de limite 75PI tel qu’indiqué sur ledit plan;
 
 
 
-De là, dans une direction de 275°21′29″ et une distance de 5 412,98 mètres jusqu’au repère de limite 74PI tel qu’indiqué sur ledit plan;
+De là, dans une direction de 275°21′29″ et une distance de 5 412,98 mètres jusqu’au repère de limite 74PI tel qu’indiqué sur ledit plan;
 
 
 
-De là, dans une direction de 336°45′38″ et une distance de 7 679,00 mètres jusqu’au repère de limite 73PI tel qu’indiqué sur ledit plan;
+De là, dans une direction de 336°45′38″ et une distance de 7 679,00 mètres jusqu’au repère de limite 73PI tel qu’indiqué sur ledit plan;
 
 
 
-De là, dans une direction de 73°57′32″ et une distance de 6 381,74 mètres jusqu’au repère de limite 72PI tel qu’indiqué sur ledit plan;
+De là, dans une direction de 73°57′32″ et une distance de 6 381,74 mètres jusqu’au repère de limite 72PI tel qu’indiqué sur ledit plan;
 
 
 
-De là, dans une direction de 319°32′01″ et une distance de 4 199,38 mètres jusqu’au repère de limite 71PI tel qu’indiqué sur ledit plan;
+De là, dans une direction de 319°32′01″ et une distance de 4 199,38 mètres jusqu’au repère de limite 71PI tel qu’indiqué sur ledit plan;
 
 
 
-De là, dans une direction de 256°10′48″ et une distance de 12 526,34 mètres jusqu’au repère de limite 70PI tel qu’indiqué sur ledit plan;
+De là, dans une direction de 256°10′48″ et une distance de 12 526,34 mètres jusqu’au repère de limite 70PI tel qu’indiqué sur ledit plan;
 
 
 
-De là, dans une direction de 168°47′25″ et une distance de 6 127,41 mètres jusqu’au repère de limite 69PI tel qu’indiqué sur ledit plan;
+De là, dans une direction de 168°47′25″ et une distance de 6 127,41 mètres jusqu’au repère de limite 69PI tel qu’indiqué sur ledit plan;
 
 
 
@@ -4955,7 +4974,7 @@ De là, vers le nord-ouest en suivant la sinuosité de la laisse de haute mer or
 
 
 
-De là, dans une direction de 77°20′14″ et une distance de 2 062,04 mètres jusqu’au repère de limite 161PI étant à l’intersection de la laisse de haute mer ordinaire d’un lac sans nom et de la laisse de haute mer ordinaire de la rive gauche d’un ruisseau sans nom à l’extrémité sud dudit lac sans nom tel qu’indiqué sur ledit plan;
+De là, dans une direction de 77°20′14″ et une distance de 2 062,04 mètres jusqu’au repère de limite 161PI étant à l’intersection de la laisse de haute mer ordinaire d’un lac sans nom et de la laisse de haute mer ordinaire de la rive gauche d’un ruisseau sans nom à l’extrémité sud dudit lac sans nom tel qu’indiqué sur ledit plan;
 
 
 
@@ -4971,7 +4990,7 @@ De là, vers le nord-est en traversant le détroit Oliver jusqu’au repère de 
 
 
 
-Ladite parcelle décrite sous la PARTIE I renfermant environ 3 144 kilomètres carrés.
+Ladite parcelle décrite sous la PARTIE I renfermant environ 3 144 kilomètres carrés.
 
 
 
@@ -4982,11 +5001,7 @@ Sur l’île Bylot;
 
 
 
-
-
-
-
-Toute cette parcelle plus particulièrement décrite comme suit : Tous les accidents topographiques mentionnés ci-après, étant selon les premières éditions des cartes « Pond Inlet » et « Milne Inlet » numéros 38B et 48A du Système national de référence cartographique, tel qu’indiqué sur les feuillets 13, 27 et 30 de 237 respectivement sur les cartes déposées au Bureau des titres de biens-fonds à Yellowknife sous les numéros 2405-13, 2405-27 et 2405-30 respectivement, des copies étant déposées aux Archives des terres du Canada à Ottawa sous le numéro 77288, ainsi que la deuxième édition de la carte « Bylot Island » numéro 38C du Système de référence cartographique national, dressées à l’échelle de 1 : 250 000 par le ministère de l’Énergie, des Mines et des Ressources (anciennement le ministère des Mines et des Relevés techniques) à Ottawa. Toutes les coordonnées proviennent des cartes ci-haut mentionnées et font référence au système géodésique nord-américain de 1927.
+Toute cette parcelle plus particulièrement décrite comme suit : Tous les accidents topographiques mentionnés ci-après, étant selon les premières éditions des cartes « Pond Inlet » et « Milne Inlet » numéros 38B et 48A du Système national de référence cartographique, tel qu’indiqué sur les feuillets 13, 27 et 30 de 237 respectivement sur les cartes déposées au Bureau des titres de biens-fonds à Yellowknife sous les numéros 2405-13, 2405-27 et 2405-30 respectivement, des copies étant déposées aux Archives des terres du Canada à Ottawa sous le numéro 77288, ainsi que la deuxième édition de la carte « Bylot Island » numéro 38C du Système de référence cartographique national, dressées à l’échelle de 1 : 250 000 par le ministère de l’Énergie, des Mines et des Ressources (anciennement le ministère des Mines et des Relevés techniques) à Ottawa. Toutes les coordonnées proviennent des cartes ci-haut mentionnées et font référence au système géodésique nord-américain de 1927.
 
 
 
@@ -4998,15 +5013,15 @@ De là, vers l’ouest, le nord-ouest, le nord, l’est et le sud-est en suivant
 
 
 
-De là, dans une direction de 210°17′11″ et une distance de 8 786,12 mètres jusqu’au repère de limite 35PI tel qu’indiqué sur ledit plan;
+De là, dans une direction de 210°17′11″ et une distance de 8 786,12 mètres jusqu’au repère de limite 35PI tel qu’indiqué sur ledit plan;
 
 
 
-De là, dans une direction de 249°38′15″ et une distance de 7 882,77 mètres jusqu’au repère de limite 34PI tel qu’indiqué sur ledit plan;
+De là, dans une direction de 249°38′15″ et une distance de 7 882,77 mètres jusqu’au repère de limite 34PI tel qu’indiqué sur ledit plan;
 
 
 
-De là, dans une direction de 200°27′17″ et une distance de 3 248,81 mètres jusqu’au repère de limite 33PI tel qu’indiqué sur ledit plan;
+De là, dans une direction de 200°27′17″ et une distance de 3 248,81 mètres jusqu’au repère de limite 33PI tel qu’indiqué sur ledit plan;
 
 
 
@@ -5014,23 +5029,23 @@ De là, vers l’ouest en suivant la laisse de haute mer ordinaire du passage Po
 
 
 
-De là, dans une direction de 6°14′21″ et une distance de 6 754,00 mètres jusqu’au repère de limite 182PI tel qu’indiqué sur ledit plan;
+De là, dans une direction de 6°14′21″ et une distance de 6 754,00 mètres jusqu’au repère de limite 182PI tel qu’indiqué sur ledit plan;
 
 
 
-De là, dans une direction de 258°41′12″ et une distance de 12 600,00 mètres jusqu’au repère de limite 181PI tel qu’indiqué sur ledit plan;
+De là, dans une direction de 258°41′12″ et une distance de 12 600,00 mètres jusqu’au repère de limite 181PI tel qu’indiqué sur ledit plan;
 
 
 
-De là, dans une direction de 220°58′27″ et une distance de 7 475,51 mètres jusqu’au repère de limite 180PI tel qu’indiqué sur ledit plan;
+De là, dans une direction de 220°58′27″ et une distance de 7 475,51 mètres jusqu’au repère de limite 180PI tel qu’indiqué sur ledit plan;
 
 
 
-De là, dans une direction de 26°14′23″ et une distance de 13 892,64 mètres jusqu’au repère de limite 179PI tel qu’indiqué sur ledit plan, étant le point de départ.
+De là, dans une direction de 26°14′23″ et une distance de 13 892,64 mètres jusqu’au repère de limite 179PI tel qu’indiqué sur ledit plan, étant le point de départ.
 
 
 
-SOUS RÉSERVES, une parcelle connue sous le nom de « Polar Sport Hunt Camp » située à proximité du cap Walter Bathurst, selon l’article 14.3.1 de l’Entente sur les répercussions et les retombées pour les Inuit, entre les Inuit dans la région du Nunavut et Sa Majesté la Reine du chef du Canada signée à Pond Inlet le 12 août 1999, ladite parcelle plus particulièrement décrite comme suit :
+SOUS RÉSERVES, une parcelle connue sous le nom de « Polar Sport Hunt Camp » située à proximité du cap Walter Bathurst, selon l’article 14.3.1 de l’Entente sur les répercussions et les retombées pour les Inuit, entre les Inuit dans la région du Nunavut et Sa Majesté la Reine du chef du Canada signée à Pond Inlet le 12 août 1999, ladite parcelle plus particulièrement décrite comme suit :
 
 
 
@@ -5058,7 +5073,7 @@ Ladite parcelle renfermant environ 11 kilomètres carrés.
 
 
 
-Le restant de la parcelle décrite sous la PARTIE II renfermant environ 10 858 kilomètres carrés.
+Le restant de la parcelle décrite sous la PARTIE II renfermant environ 10 858 kilomètres carrés.
 
 
 
@@ -5069,11 +5084,7 @@ Sur l’île de Baffin;
 
 
 
-
-
-
-
-Toute cette parcelle plus particulièrement décrite comme suit : Tous les accidents topographiques mentionnés ci-après, étant selon la première édition de la carte « Milne Inlet » 48A et la deuxième édition de la carte « Navy Board Inlet » 48D du Système national de référence cartographique, tel qu’indiqué sur les feuillets 27 et 30 de 237 respectivement sur les cartes déposées au Bureau des titres de biens-fonds à Yellowknife sous les numéros 2405-27 et 2405-30 respectivement, des copies étant déposées aux Archives des terres du Canada à Ottawa sous le numéro 77288. Toutes les coordonnées proviennent des cartes ci-haut mentionnées et font référence au système géodésique nord-américain de 1927.
+Toute cette parcelle plus particulièrement décrite comme suit : Tous les accidents topographiques mentionnés ci-après, étant selon la première édition de la carte « Milne Inlet » 48A et la deuxième édition de la carte « Navy Board Inlet » 48D du Système national de référence cartographique, tel qu’indiqué sur les feuillets 27 et 30 de 237 respectivement sur les cartes déposées au Bureau des titres de biens-fonds à Yellowknife sous les numéros 2405-27 et 2405-30 respectivement, des copies étant déposées aux Archives des terres du Canada à Ottawa sous le numéro 77288. Toutes les coordonnées proviennent des cartes ci-haut mentionnées et font référence au système géodésique nord-américain de 1927.
 
 
 
@@ -5081,11 +5092,11 @@ Commençant au repère de limite 233PI tel qu’indiqué sur le plan de la parce
 
 
 
-De là, dans une direction de 190°09′21″ et une distance de 15 449,93 mètres jusqu’au repère de limite 232PI tel qu’indiqué sur ledit plan 82243;
+De là, dans une direction de 190°09′21″ et une distance de 15 449,93 mètres jusqu’au repère de limite 232PI tel qu’indiqué sur ledit plan 82243;
 
 
 
-De là, dans une direction de 132°49′06″ et une distance de 6 249,07 mètres jusqu’au repère de limite 231PI tel qu’indiqué sur ledit plan;
+De là, dans une direction de 132°49′06″ et une distance de 6 249,07 mètres jusqu’au repère de limite 231PI tel qu’indiqué sur ledit plan;
 
 
 
@@ -5113,7 +5124,7 @@ De là, vers le nord-ouest jusqu’au repère de limite 236PI tel qu’indiqué 
 
 
 
-De là, dans une direction de 288°11′00″ et une distance de 15 138,35 mètres jusqu’au repère de limite 235PI tel qu’indiqué sur ledit plan 82190;
+De là, dans une direction de 288°11′00″ et une distance de 15 138,35 mètres jusqu’au repère de limite 235PI tel qu’indiqué sur ledit plan 82190;
 
 
 
@@ -5133,35 +5144,35 @@ De là, vers le nord-ouest jusqu’au repère de limite 50AB tel qu’indiqué s
 
 
 
-De là, dans une direction de 329°30′48″ et une distance de 3 944,92 mètres jusqu’au repère de limite 49AB tel qu’indiqué sur ledit plan;
+De là, dans une direction de 329°30′48″ et une distance de 3 944,92 mètres jusqu’au repère de limite 49AB tel qu’indiqué sur ledit plan;
 
 
 
-De là, dans une direction de 313°44′26″ et une distance de 10 583,47 mètres jusqu’au repère de limite 48AB tel qu’indiqué sur ledit plan;
+De là, dans une direction de 313°44′26″ et une distance de 10 583,47 mètres jusqu’au repère de limite 48AB tel qu’indiqué sur ledit plan;
 
 
 
-De là, dans une direction de 54°52′23″ et une distance de 6 908,85 mètres jusqu’au repère de limite 47AB tel qu’indiqué sur ledit plan;
+De là, dans une direction de 54°52′23″ et une distance de 6 908,85 mètres jusqu’au repère de limite 47AB tel qu’indiqué sur ledit plan;
 
 
 
-De là, dans une direction de 79°50′50″ et une distance de 5 757,86 mètres jusqu’au repère de limite 46AB tel qu’indiqué sur ledit plan;
+De là, dans une direction de 79°50′50″ et une distance de 5 757,86 mètres jusqu’au repère de limite 46AB tel qu’indiqué sur ledit plan;
 
 
 
-De là, dans une direction de 340°19′51″ et une distance de 6 498,32 mètres jusqu’au repère de limite 45AB tel qu’indiqué sur ledit plan;
+De là, dans une direction de 340°19′51″ et une distance de 6 498,32 mètres jusqu’au repère de limite 45AB tel qu’indiqué sur ledit plan;
 
 
 
-De là, dans une direction de 268°38′30″ et une distance de 6 114,03 mètres jusqu’au repère de limite 44AB tel qu’indiqué sur ledit plan;
+De là, dans une direction de 268°38′30″ et une distance de 6 114,03 mètres jusqu’au repère de limite 44AB tel qu’indiqué sur ledit plan;
 
 
 
-De là, dans une direction de 224°25′02″ et une distance de 4 032,53 mètres jusqu’au repère de limite 43AB tel qu’indiqué sur ledit plan;
+De là, dans une direction de 224°25′02″ et une distance de 4 032,53 mètres jusqu’au repère de limite 43AB tel qu’indiqué sur ledit plan;
 
 
 
-De là, dans une direction de 251°44′36″ et une distance de 5 093,84 mètres jusqu’au repère de limite 42AB tel qu’indiqué sur ledit plan;
+De là, dans une direction de 251°44′36″ et une distance de 5 093,84 mètres jusqu’au repère de limite 42AB tel qu’indiqué sur ledit plan;
 
 
 
@@ -5173,7 +5184,7 @@ De là, vers le nord-est en suivant ledit prolongement jusqu’au repère de lim
 
 
 
-De là, dans une direction de 49°54′41″ et une distance de 17 629,52 mètres jusqu’au repère de limite 54AB tel qu’indiqué sur ledit plan;
+De là, dans une direction de 49°54′41″ et une distance de 17 629,52 mètres jusqu’au repère de limite 54AB tel qu’indiqué sur ledit plan;
 
 
 
@@ -5181,11 +5192,11 @@ De là, vers le nord-est en suivant la sinuosité de la laisse de haute mer ordi
 
 
 
-De là, dans une direction de 112°53′16″ et une distance de 8 947,05 mètres jusqu’au repère de limite 58AB tel qu’indiqué sur ledit plan;
+De là, dans une direction de 112°53′16″ et une distance de 8 947,05 mètres jusqu’au repère de limite 58AB tel qu’indiqué sur ledit plan;
 
 
 
-De là, dans une direction de 22°54′26″ et une distance de 14 326,67 mètres jusqu’au repère de limite 57AB tel qu’indiqué sur ledit plan;
+De là, dans une direction de 22°54′26″ et une distance de 14 326,67 mètres jusqu’au repère de limite 57AB tel qu’indiqué sur ledit plan;
 
 
 
@@ -5193,15 +5204,15 @@ De là, vers l’est en suivant la sinuosité de la laisse de haute mer ordinair
 
 
 
-De là, dans une direction de 168°17′55″ et une distance de 11 388,34 mètres jusqu’au repère de limite 247PI tel qu’indiqué sur ledit plan;
+De là, dans une direction de 168°17′55″ et une distance de 11 388,34 mètres jusqu’au repère de limite 247PI tel qu’indiqué sur ledit plan;
 
 
 
-De là, dans une direction de 149°04′08″ et une distance de 8 452,73 mètres jusqu’au repère de limite 246PI tel qu’indiqué sur ledit plan;
+De là, dans une direction de 149°04′08″ et une distance de 8 452,73 mètres jusqu’au repère de limite 246PI tel qu’indiqué sur ledit plan;
 
 
 
-De là, dans une direction de 104°40′01″ et une distance de 5 426,72 mètres jusqu’au repère de limite 245PI tel qu’indiqué sur ledit plan;
+De là, dans une direction de 104°40′01″ et une distance de 5 426,72 mètres jusqu’au repère de limite 245PI tel qu’indiqué sur ledit plan;
 
 
 
@@ -5209,31 +5220,31 @@ De là, vers le sud en suivant la sinuosité de la laisse de haute mer ordinaire
 
 
 
-De là, dans une direction de 287°33′31″ et une distance de 1 381,24 mètres jusqu’au repère de limite 243PI tel qu’indiqué sur ledit plan;
+De là, dans une direction de 287°33′31″ et une distance de 1 381,24 mètres jusqu’au repère de limite 243PI tel qu’indiqué sur ledit plan;
 
 
 
-De là, dans une direction de 250°07′54″ et une distance de 6 296,69 mètres jusqu’au repère de limite 242PI tel qu’indiqué sur ledit plan;
+De là, dans une direction de 250°07′54″ et une distance de 6 296,69 mètres jusqu’au repère de limite 242PI tel qu’indiqué sur ledit plan;
 
 
 
-De là, dans une direction de 174°19′10″ et une distance de 8 672,30 mètres jusqu’au repère de limite 241PI tel qu’indiqué sur ledit plan;
+De là, dans une direction de 174°19′10″ et une distance de 8 672,30 mètres jusqu’au repère de limite 241PI tel qu’indiqué sur ledit plan;
 
 
 
-De là, dans une direction de 147°14′04″ et une distance de 2 882,61 mètres jusqu’au repère de limite 240PI tel qu’indiqué sur ledit plan;
+De là, dans une direction de 147°14′04″ et une distance de 2 882,61 mètres jusqu’au repère de limite 240PI tel qu’indiqué sur ledit plan;
 
 
 
-De là, dans une direction de 166°48′38″ et une distance de 3 785,15 mètres jusqu’au repère de limite 239PI tel qu’indiqué sur ledit plan;
+De là, dans une direction de 166°48′38″ et une distance de 3 785,15 mètres jusqu’au repère de limite 239PI tel qu’indiqué sur ledit plan;
 
 
 
-De là, dans une direction de 105°46′59″ et une distance de 1 405,05 mètres jusqu’au repère de limite 238PI tel qu’indiqué sur ledit plan;
+De là, dans une direction de 105°46′59″ et une distance de 1 405,05 mètres jusqu’au repère de limite 238PI tel qu’indiqué sur ledit plan;
 
 
 
-De là, dans une direction de 53°38′52″ et une distance de 2 027,07 mètres jusqu’au repère de limite 237PI tel qu’indiqué sur ledit plan;
+De là, dans une direction de 53°38′52″ et une distance de 2 027,07 mètres jusqu’au repère de limite 237PI tel qu’indiqué sur ledit plan;
 
 
 
@@ -5241,7 +5252,7 @@ De là, vers le sud-est en suivant la laisse de haute mer ordinaire du passage N
 
 
 
-Ladite parcelle décrite sous la PARTIE III renfermant environ 8 031 kilomètres carrés.
+Ladite parcelle décrite sous la PARTIE III renfermant environ 8 031 kilomètres carrés.
 
 
 
@@ -5252,7 +5263,7 @@ Sur l’île de Baffin;
 
 
 
-Toute cette parcelle plus particulièrement décrite comme suit : Tous les accidents topographiques mentionnés ci-après, étant selon les deuxièmes éditions des cartes « Arctic Bay » et « Navy Board » 48C et 48D du Système national de référence cartographique, tel qu’indiqué sur les feuillets 29 et 30 de 237 respectivement sur les cartes déposées au Bureau des titres de biens-fonds à Yellowknife sous les numéros 2405-29 et 2405-30 respectivement, des copies étant déposées aux Archives des terres du Canada à Ottawa sous le numéro 77288. Toutes les coordonnées proviennent des cartes ci-haut mentionnées et font référence au système géodésique nord-américain de 1927.
+Toute cette parcelle plus particulièrement décrite comme suit : Tous les accidents topographiques mentionnés ci-après, étant selon les deuxièmes éditions des cartes « Arctic Bay » et « Navy Board » 48C et 48D du Système national de référence cartographique, tel qu’indiqué sur les feuillets 29 et 30 de 237 respectivement sur les cartes déposées au Bureau des titres de biens-fonds à Yellowknife sous les numéros 2405-29 et 2405-30 respectivement, des copies étant déposées aux Archives des terres du Canada à Ottawa sous le numéro 77288. Toutes les coordonnées proviennent des cartes ci-haut mentionnées et font référence au système géodésique nord-américain de 1927.
 
 
 
@@ -5288,7 +5299,7 @@ Ladite parcelle décrite sous la PARTIE IV renfermant environ 167 kilomètres ca
 
 
 
-Lesdites parcelles décrites sous les PARTIES I, II, III et IV renfermant ensemble environ 22 200 kilomètres carrés.
+Lesdites parcelles décrites sous les PARTIES I, II, III et IV renfermant ensemble environ 22 200 kilomètres carrés.
 
 
 
@@ -5303,7 +5314,7 @@ Sur et adjacente à la péninsule Cumberland sur l’île de Baffin;
 
 
 
-Toute la parcelle de terrain plus précisément décrite ci-après : tous les accidents topographiques mentionnés ci-après, tels qu’ils figurent dans la première édition des cartes Pangnirtung, Clearwater Fiord, Nedlukseak Fiord, Ekalugad Fiord, Home Bay, Okoa Bay, Padloping Island et Cape Dyer, portant respectivement les numéros 26I, 26J, 26O, 27B, 27A, 26P, 16M & N, 16L & K du Système de référence cartographique national, tel qu’indiqué sur les feuillets 83, 84, 88, 91, 90, 89, 65 et 64 de 237 respectivement des cartes déposées au Bureau des titres de biens-fonds à Yellowknife sous les numéros 2405-83, 2405-84, 2405-88, 2405-91, 2405-90, 2405-89, 2405-65 et 2405-64 respectivement, des copies sont déposées aux Archives d’arpentage des terres du Canada à Ottawa sous le numéro 77288, ainsi que sur la première édition de la carte Isurtuq River, portant le numéro 26N du Système de référence cartographique national, dressées à l’échelle de 1 : 250 000 par le ministère de l’Énergie, des Mines et des Ressources (anciennement le ministère des Mines et des Relevés techniques) à Ottawa. Toutes les coordonnées proviennent des cartes ci-haut mentionnées et font référence au système géodésique nord-américain de 1927.
+Toute la parcelle de terrain plus précisément décrite ci-après : tous les accidents topographiques mentionnés ci-après, tels qu’ils figurent dans la première édition des cartes Pangnirtung, Clearwater Fiord, Nedlukseak Fiord, Ekalugad Fiord, Home Bay, Okoa Bay, Padloping Island et Cape Dyer, portant respectivement les numéros 26I, 26J, 26O, 27B, 27A, 26P, 16M & N, 16L & K du Système de référence cartographique national, tel qu’indiqué sur les feuillets 83, 84, 88, 91, 90, 89, 65 et 64 de 237 respectivement des cartes déposées au Bureau des titres de biens-fonds à Yellowknife sous les numéros 2405-83, 2405-84, 2405-88, 2405-91, 2405-90, 2405-89, 2405-65 et 2405-64 respectivement, des copies sont déposées aux Archives d’arpentage des terres du Canada à Ottawa sous le numéro 77288, ainsi que sur la première édition de la carte Isurtuq River, portant le numéro 26N du Système de référence cartographique national, dressées à l’échelle de 1 : 250 000 par le ministère de l’Énergie, des Mines et des Ressources (anciennement le ministère des Mines et des Relevés techniques) à Ottawa. Toutes les coordonnées proviennent des cartes ci-haut mentionnées et font référence au système géodésique nord-américain de 1927.
 
 
 
@@ -5311,7 +5322,7 @@ Commençant au sommet du pic Overlord, à l’extrémité nord-est du fjord Pang
 
 
 
-De là vers le nord-ouest, jusqu’à un sommet d’environ 1 372 mètres d’altitude, situé par environ 66°24′00″ de latitude et par environ 65°33′20″ de longitude;
+De là vers le nord-ouest, jusqu’à un sommet d’environ 1 372 mètres d’altitude, situé par environ 66°24′00″ de latitude et par environ 65°33′20″ de longitude;
 
 
 
@@ -5323,7 +5334,7 @@ De là vers le nord, jusqu’au sommet du pic Niord, situé par environ 66°26�
 
 
 
-De là vers le nord, jusqu’à un sommet d’environ 1 219 mètres d’altitude, situé par environ 66°29′30″ de latitude et par environ 65°33′30″ de longitude;
+De là vers le nord, jusqu’à un sommet d’environ 1 219 mètres d’altitude, situé par environ 66°29′30″ de latitude et par environ 65°33′30″ de longitude;
 
 
 
@@ -5331,7 +5342,7 @@ De là vers le nord-est, jusqu’au sommet du mont Odin, situé par environ 66°
 
 
 
-De là vers le nord-est, jusqu’à un sommet d’environ 1 676 mètres d’altitude, situé par environ 66°34′00″ de latitude et par environ 65°22′00″ de longitude;
+De là vers le nord-est, jusqu’à un sommet d’environ 1 676 mètres d’altitude, situé par environ 66°34′00″ de latitude et par environ 65°22′00″ de longitude;
 
 
 
@@ -5339,11 +5350,11 @@ De là vers le nord-est, jusqu’au sommet du pic Freya situé par environ 66°3
 
 
 
-De là vers l’ouest, jusqu’à un sommet d’environ 1 981 mètres d’altitude, situé par environ 66°38′50″ de latitude et par environ 65°27′40″ de longitude;
+De là vers l’ouest, jusqu’à un sommet d’environ 1 981 mètres d’altitude, situé par environ 66°38′50″ de latitude et par environ 65°27′40″ de longitude;
 
 
 
-De là vers le nord-ouest, jusqu’à un sommet d’environ 1 524 mètres d’altitude, situé par environ 66°42′20″ de latitude et par environ 65°43′00″ de longitude;
+De là vers le nord-ouest, jusqu’à un sommet d’environ 1 524 mètres d’altitude, situé par environ 66°42′20″ de latitude et par environ 65°43′00″ de longitude;
 
 
 
@@ -5363,15 +5374,15 @@ De là vers le nord, jusqu’à un sommet d’environ 853 mètres d’altitude, 
 
 
 
-De là vers le nord-ouest, jusqu’à un sommet d’environ 1 158 mètres d’altitude, situé par environ 66°55′10″ de latitude et par environ 66°34′30″ de longitude;
+De là vers le nord-ouest, jusqu’à un sommet d’environ 1 158 mètres d’altitude, situé par environ 66°55′10″ de latitude et par environ 66°34′30″ de longitude;
 
 
 
-De là vers le nord-ouest, jusqu’à un sommet d’environ 1 067 mètres d’altitude, situé par environ 67°02′00″ de latitude et par environ 66°39′40″ de longitude;
+De là vers le nord-ouest, jusqu’à un sommet d’environ 1 067 mètres d’altitude, situé par environ 67°02′00″ de latitude et par environ 66°39′40″ de longitude;
 
 
 
-De là vers l’ouest, jusqu’à un sommet d’environ 1 067 mètres d’altitude, situé par environ 67°01′30″ de latitude et par environ 66°54′00″ de longitude;
+De là vers l’ouest, jusqu’à un sommet d’environ 1 067 mètres d’altitude, situé par environ 67°01′30″ de latitude et par environ 66°54′00″ de longitude;
 
 
 
@@ -5407,7 +5418,7 @@ De là vers le nord, jusqu’à un sommet d’environ 914 mètres d’altitude, 
 
 
 
-De là vers le nord-est, jusqu’à un sommet situé par environ 68°12′00″ de latitude et par environ 67°50′40″ de longitude, ledit sommet étant approximativement situé à la côte d’altitude de 1 590 pieds indiquée sur ladite carte « Home Bay »;
+De là vers le nord-est, jusqu’à un sommet situé par environ 68°12′00″ de latitude et par environ 67°50′40″ de longitude, ledit sommet étant approximativement situé à la côte d’altitude de 1 590 pieds indiquée sur ladite carte « Home Bay »;
 
 
 
@@ -5415,7 +5426,7 @@ De là vers le nord-est, jusqu’à un sommet d’environ 792 mètres d’altitu
 
 
 
-De là vers le nord-est, jusqu’à un sommet d’environ 1 036 mètres d’altitude, situé par environ 68°17′20″ de latitude et par environ 67°23′00″ de longitude;
+De là vers le nord-est, jusqu’à un sommet d’environ 1 036 mètres d’altitude, situé par environ 68°17′20″ de latitude et par environ 67°23′00″ de longitude;
 
 
 
@@ -5511,15 +5522,15 @@ De là franc ouest, jusqu’audit dernier sommet;
 
 
 
-De là vers le sud-ouest, jusqu’à un sommet d’environ 1 372 mètres d’altitude, situé par environ 67°39′20″ de latitude et par environ 65°01′00″ de longitude;
+De là vers le sud-ouest, jusqu’à un sommet d’environ 1 372 mètres d’altitude, situé par environ 67°39′20″ de latitude et par environ 65°01′00″ de longitude;
 
 
 
-De là vers le sud-est, jusqu’à un sommet d’environ 1 219 mètres d’altitude, situé par environ 67°29′00″ de latitude et par environ 64°42′30″ de longitude;
+De là vers le sud-est, jusqu’à un sommet d’environ 1 219 mètres d’altitude, situé par environ 67°29′00″ de latitude et par environ 64°42′30″ de longitude;
 
 
 
-De là vers le sud-est, jusqu’à un sommet situé par environ 67°22′00″ de latitude et par environ 64°29′00″ de longitude, ledit sommet étant approximativement situé à la côte d’altitude de 4 525 pieds indiquée sur ladite carte « Okoa Bay » et se trouvant sur la ligne de partage des eaux qui constitue la limite nord du bassin du fjord Maktak;
+De là vers le sud-est, jusqu’à un sommet situé par environ 67°22′00″ de latitude et par environ 64°29′00″ de longitude, ledit sommet étant approximativement situé à la côte d’altitude de 4 525 pieds indiquée sur ladite carte « Okoa Bay » et se trouvant sur la ligne de partage des eaux qui constitue la limite nord du bassin du fjord Maktak;
 
 
 
@@ -5539,19 +5550,19 @@ De là vers le sud-est, jusqu’à un sommet d’environ 762 mètres d’altitud
 
 
 
-De là vers le sud, jusqu’à un sommet situé par environ 67°02′20″ de latitude et par environ 63°52′20″ de longitude, ledit sommet étant approximativement situé à la côte d’altitude de 4 364 pieds (1 330 mètres) indiquée sur ladite carte « Padloping Island »;
+De là vers le sud, jusqu’à un sommet situé par environ 67°02′20″ de latitude et par environ 63°52′20″ de longitude, ledit sommet étant approximativement situé à la côte d’altitude de 4 364 pieds (1 330 mètres) indiquée sur ladite carte « Padloping Island »;
 
 
 
-De là vers le sud, jusqu’à un sommet d’environ 1 219 mètres d’altitude, situé par environ 66°55′00″ de latitude et par environ 63°56′00″ de longitude;
+De là vers le sud, jusqu’à un sommet d’environ 1 219 mètres d’altitude, situé par environ 66°55′00″ de latitude et par environ 63°56′00″ de longitude;
 
 
 
-De là vers le sud-ouest, jusqu’à un sommet d’environ 1 067 mètres d’altitude, situé par environ 66°50′40″ de latitude et par environ 64°08′40″ de longitude;
+De là vers le sud-ouest, jusqu’à un sommet d’environ 1 067 mètres d’altitude, situé par environ 66°50′40″ de latitude et par environ 64°08′40″ de longitude;
 
 
 
-De là vers le sud-ouest, jusqu’à un sommet d’environ 1 524 mètres d’altitude, situé par environ 66°42′40″ de latitude et par environ 64°35′00″ de longitude;
+De là vers le sud-ouest, jusqu’à un sommet d’environ 1 524 mètres d’altitude, situé par environ 66°42′40″ de latitude et par environ 64°35′00″ de longitude;
 
 
 
@@ -5559,19 +5570,19 @@ De là vers le sud-ouest, jusqu’au sommet du mont Fleming, situé par environ 
 
 
 
-De là vers le sud-ouest, jusqu’à un sommet d’environ 1 981 mètres d’altitude, situé par environ 66°34′20″ de latitude et par environ 65°04′30″ de longitude;
+De là vers le sud-ouest, jusqu’à un sommet d’environ 1 981 mètres d’altitude, situé par environ 66°34′20″ de latitude et par environ 65°04′30″ de longitude;
 
 
 
-De là vers le sud-ouest, jusqu’à un sommet d’environ 1 676 mètres d’altitude, situé par environ 66°29′40″ de latitude et par environ 65°10′30″ de longitude;
+De là vers le sud-ouest, jusqu’à un sommet d’environ 1 676 mètres d’altitude, situé par environ 66°29′40″ de latitude et par environ 65°10′30″ de longitude;
 
 
 
-De là vers l’ouest, jusqu’à un sommet d’environ 1 829 mètres d’altitude, situé par environ 66°28′40″ de latitude et par environ 65°19′30″ de longitude;
+De là vers l’ouest, jusqu’à un sommet d’environ 1 829 mètres d’altitude, situé par environ 66°28′40″ de latitude et par environ 65°19′30″ de longitude;
 
 
 
-De là vers le sud-ouest, jusqu’à un sommet d’environ 1 219 mètres d’altitude, situé par environ 66°26′40″ de latitude et par environ 65°26′00″ de longitude;
+De là vers le sud-ouest, jusqu’à un sommet d’environ 1 219 mètres d’altitude, situé par environ 66°26′40″ de latitude et par environ 65°26′00″ de longitude;
 
 
 
@@ -5579,11 +5590,11 @@ De là vers le sud, jusqu’au point de départ;
 
 
 
-SOUS RÉSERVES des parcelles décrites à l’annexe 8-1 de l’Accord sur les revendications territoriales du Nunavut, lesdites parcelles plus particulièrement décrites comme suit :
+SOUS RÉSERVES des parcelles décrites à l’annexe 8-1 de l’Accord sur les revendications territoriales du Nunavut, lesdites parcelles plus particulièrement décrites comme suit :
 
 
 
-Les fjords Narpaing et Quajon, du passage entre le fjord Quajon et la parcelle de terres inuit BI-38/26P, des îles situées dans ces fjords et ce passage, de Kivitoo Harbour et de la station du réseau DEW de Kivitoo et des parcelles de terres inuit suivantes :
+Les fjords Narpaing et Quajon, du passage entre le fjord Quajon et la parcelle de terres inuit BI-38/26P, des îles situées dans ces fjords et ce passage, de Kivitoo Harbour et de la station du réseau DEW de Kivitoo et des parcelles de terres inuit suivantes :
 
 
 
@@ -5607,7 +5618,7 @@ BI-38/26 P
 
 
 
-Ledit parc national d’Auyuittuq du Canada renfermant environ 13 089 kilomètres carrés.
+Ledit parc national d’Auyuittuq du Canada renfermant environ 13 089 kilomètres carrés.
 
 
 
@@ -5622,11 +5633,7 @@ Sur l’Île d’Ellesmere;
 
 
 
-Tout élément topographique étant conforme au répertoire géographique du Canada (Territoires du Nord-Ouest) première édition, Ottawa 1980 ainsi qu’avec les feuilles du Système National de Référence Cartographique suivantes : (120C et D Lady Franklin Bay), (120E Robeson Channel), (120F et G Clements Markham Inlet), (340E et H M’Clintock Inlet) et (340D Tanquary Fiord) produites à l’échelle de 1:250 000 par le ministère de l’Énergie, des Mines et des Ressources à Ottawa; toute cette partie de ladite Île d’Ellesmere, incluant une partie de l’Océan Arctique, les baies, les fjords, Discovery Harbour, les entrées, les rivières, les îles et tous les cours d’eau se trouvant à l’intérieur des limites ainsi décrites :
-
-
-
-
+Tout élément topographique étant conforme au répertoire géographique du Canada (Territoires du Nord-Ouest) première édition, Ottawa 1980 ainsi qu’avec les feuilles du Système National de Référence Cartographique suivantes : (120C et D Lady Franklin Bay), (120E Robeson Channel), (120F et G Clements Markham Inlet), (340E et H M’Clintock Inlet) et (340D Tanquary Fiord) produites à l’échelle de 1:250 000 par le ministère de l’Énergie, des Mines et des Ressources à Ottawa; toute cette partie de ladite Île d’Ellesmere, incluant une partie de l’Océan Arctique, les baies, les fjords, Discovery Harbour, les entrées, les rivières, les îles et tous les cours d’eau se trouvant à l’intérieur des limites ainsi décrites :
 
 
 
@@ -5718,15 +5725,15 @@ De là, vers le sud jusqu’au sommet du mont Ayles par environ 82°43′ de lat
 
 
 
-De là, vers le sud jusqu’à un sommet non dénommé ayant une élévation d’environ 1 829 mètres par environ 82°31′ de latitude et par environ 77°04′ de longitude;
+De là, vers le sud jusqu’à un sommet non dénommé ayant une élévation d’environ 1 829 mètres par environ 82°31′ de latitude et par environ 77°04′ de longitude;
 
 
 
-De là, franc sud et jusqu’à un sommet non dénommé ayant une élévation d’environ 1 676 mètres par environ 81°49′ de latitude et par environ 77°04′ de longitude;
+De là, franc sud et jusqu’à un sommet non dénommé ayant une élévation d’environ 1 676 mètres par environ 81°49′ de latitude et par environ 77°04′ de longitude;
 
 
 
-De là, vers le sud-ouest jusqu’à un sommet non dénommé ayant une élévation d’environ 1 524 mètres par environ 81°34′ de latitude et par environ 79°03′ de longitude;
+De là, vers le sud-ouest jusqu’à un sommet non dénommé ayant une élévation d’environ 1 524 mètres par environ 81°34′ de latitude et par environ 79°03′ de longitude;
 
 
 
@@ -5750,10 +5757,10 @@ Sauf et à distraire des susdites limites, l’île Ward Hunt en entier, avec dr
 
 
 
-Les terres décrites ci-dessus renferment environ 37 775 kilomètres carrés.
+Les terres décrites ci-dessus renferment environ 37 775 kilomètres carrés.
 
 
-> 2000, ch. 32, ann. 1; 2001, ch. 34, art. 25(F); 2002, ch. 7, art. 106; DORS/2003-345; 2004, ch. 20, art. 1; DORS/2004-300.
+> 2000, ch. 32, ann. 1; 2001, ch. 34, art. 25(F); 2002, ch. 7, art. 106; DORS/2003-345; 2004, ch. 20, art. 1; DORS/2004-300; 2008, ch. 2, art. 13.
 
 
 
@@ -5762,7 +5769,7 @@ Les terres décrites ci-dessus renferment environ 37 775 kilomètres carrés.
 **(articles 2, 6, 7 et 41)**
 ## Réserves à vocation de parc national du Canada
 
-### Réserve à vocation de parc national Kluane du Canada
+### réserve à vocation de parc national kluane du canada
 
 
 Dans le Yukon;
@@ -5905,7 +5912,7 @@ Excepté également les parties de ladite parcelle transférées au parc nationa
 
 
 
-### Réserve à vocation de parc national Nahanni du Canada
+### réserve à vocation de parc national nahanni du canada
 
 
 Dans les Territoires du nord-ouest;
@@ -6068,7 +6075,7 @@ De là, en direction est, en ligne droite, jusqu’au point de départ; toutes l
 
 
 
-### Réserve à vocation de parc national de l’Archipel-de-Mingan du Canada
+### réserve à vocation de parc national de l’archipel-de-mingan du canada
 
 
 Dans la province de Québec;
@@ -6095,10 +6102,10 @@ Les longitudes mentionnées dans la présente description proviennent des feuill
 
 
 
-### Réserve à vocation de parc national Pacific Rim du Canada
+### réserve à vocation de parc national pacific rim du canada
 
 
-### Partie I
+### partie i
 
 
 Toutes les parcelles ou étendues de terre et toutes les laisses et les étendues couvertes d’eau se trouvant dans le district de Clayoquot et situées à l’intérieur des limites suivantes :
@@ -6265,7 +6272,7 @@ Troisièmement : la parcelle 1 et le chemin de rattachement du village, lesquel
 
 
 
-### Partie II
+### partie ii
 
 
 Toutes les parcelles ou étendues de terre et toutes les laisses et les étendues couvertes d’eau se trouvant dans le district de Barclay et situées à l’intérieur des limites suivantes :
@@ -6308,7 +6315,7 @@ La réserve indienne de Cleho n<sup>o</sup> 6, la réserve indienne de Keith Isl
 
 
 
-### Partie III
+### partie iii
 
 
 Premièrement :
@@ -6603,7 +6610,7 @@ Deuxièmement : le lot 2 du bloc 10, les lots 1 et 2 du bloc 16, le lot 8 du blo
 
 
 
-### Partie IV
+### partie iv
 
 
 Toutes les parcelles ou étendues de terre et toutes les laisses et les étendues couvertes d’eau se trouvant dans le district de Clayoquot et situées à l’intérieur des limites suivantes :
@@ -6638,7 +6645,7 @@ De là, franc sud jusqu’audit coin nord-est de la section 70, étant le point 
 
 
 
-### Réserve à vocation de parc national Gwaii Haanas du Canada
+### réserve à vocation de parc national gwaii haanas du canada
 
 
 Dans la province de la Colombie-Britannique;
@@ -7168,12 +7175,7 @@ De là, généralement vers le nord, le nord-ouest et le nord-est suivant la lai
 Note explicative : Tous les accidents topographiques mentionnés sont conformes aux publications suivantes : Répertoire géographique du Canada (Colombie-Britannique), troisième édition, Ottawa 1985; Cartes du Système national de référence cartographique, (103 B-C Moresby Island, Édition 2) dressée à une échelle de 1 : 250 000 par le Service topographique de l’Armée à Ottawa; Cartes du Système national de référence cartographique (102-0/14 et 102-0/15 Cape St. James), (103B/2W Lyman Point), (103B/3 Kunghit Island), (103B/5 Gowgaia Bay), (103B/6 Burnaby Island), (103B/11 Ramsay Island), (103B/12 Darwin Sound), (103B/13 et 103B/14 Louise Island) et (103C/9 Tasu Head) dressées à une échelle de 1 : 50 000 par le ministère de l’Énergie, des Mines et des Ressources à Ottawa et la charte 3853 du Service hydrographique du Canada (S.H.C.), dressé à une échelle de 1 : 150 000 par le ministère des Pêches et Océans à Ottawa.
 
 
-
-### Réserve à vocation de parc national des Monts-Torngat du Canada
-
-Toute la parcelle de terre située dans la province de Terre-Neuve-et-Labrador et figurant sur le plan cartographique descriptif établi par le ministère des Ressources naturelles en date du 18 janvier 2005, inscrit au Crown Lands Registry Office de St. John’s (Terre-Neuve-et-Labrador), sous le numéro SP 372, et dont une copie est jointe comme appendice D-1 de l’Accord, au sens de l’article 2 de la  [Loi sur l’Accord sur les revendications territoriales des Inuit du Labrador](/fr/Lois/Lois%20du%20Canada/2005/ch.%2027.md). Cette parcelle couvre une superficie d’environ 9 700 kilomètres carrés.
-
-> 2000, ch. 32, ann. 2; 2002, ch. 7, art. 107(A); 2004, ch. 20, art. 2; 2005, ch. 27, art. 17.
+> 2000, ch. 32, ann. 2; 2002, ch. 7, art. 107(A); 2004, ch. 20, art. 2; 2005, ch. 27, art. 17; 2008, ch. 2, art. 14.
 
 
 
