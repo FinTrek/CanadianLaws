@@ -956,6 +956,8 @@ or any lesser maximum amount that may be prescribed by the regulations in respec
 ## National Parks of Canada
 
 **PART 1 — BRITISH COLUMBIA** 
+
+
 ### (1) Glacier National Park of Canada
 
 
@@ -1685,6 +1687,8 @@ The said parcel comprising an area of 140 636 hectares.
 
 
 **PART 2 — ALBERTA** 
+
+
 ### (1) Banff National Park of Canada
 
 
@@ -2389,6 +2393,8 @@ The remainder containing about 44 792 square kilometres (4,479,200 hectares).
 
 
 **PART 3 — SASKATCHEWAN** 
+
+
 ### (1) Prince Albert National Park of Canada
 
 
@@ -3102,6 +3108,8 @@ All lands described in the East and West blocks above include all mines and mine
 
 
 **PART 4 — MANITOBA** 
+
+
 ### (1) Riding Mountain National Park of Canada
 
 
@@ -3329,7 +3337,9 @@ Said lands containing together about 2,969 square kilometres.
 
 
 
-### (2) Wapusk National Park of Canada
+### (2) wapusk national park of canada
+
+
 
 
 All theoretical section and township corners hereinafter are based on the North American Datum of 1927. All bearings are grid and are referred to Zone 15 of the Universal Transverse Mercator Grid System.
@@ -3416,7 +3426,11 @@ Said parcel containing an area of about 11 475 square kilometres.
 
 
 
+
+
 **PART 5 — ONTARIO** 
+
+
 ### (1) St. Lawrence Islands National Park of Canada
 
 
@@ -3801,10 +3815,6 @@ In the Township of Front of Yonge;
 
 
 In the Broken Front Concession;
-
-
-
-
 
 
 
@@ -4283,6 +4293,8 @@ Said Islands and parts of islands containing together about 25.64 square kilomet
 
 
 **PART 6 — QUEBEC** 
+
+
 ### (1) Forillon National Park of Canada
 
 
@@ -4302,6 +4314,8 @@ In the county municipalities of Champlain and St-Maurice, in the Seigniories of 
 
 
 **PART 7 — NEW BRUNSWICK** 
+
+
 ### (1) Fundy National Park of Canada
 
 
@@ -4361,6 +4375,8 @@ Said parcels containing together about 23 922.9 hectares.
 
 
 **PART 8 — NOVA SCOTIA** 
+
+
 ### (1) Cape Breton Highlands National Park of Canada
 
 
@@ -4456,6 +4472,8 @@ Said parcels containing together about 40 363.7 hectares (99,740 acres).
 
 
 **PART 9 — PRINCE EDWARD ISLAND** 
+
+
 ### Prince Edward Island National Park of Canada
 
 
@@ -4580,6 +4598,8 @@ Said parcels 1 to 5 containing together about 2 149.8 hectares (21.5 square kilo
 
 
 **PART 10 — NEWFOUNDLAND** 
+
+
 ### (1) Terra Nova National Park of Canada
 
 
@@ -4610,7 +4630,16 @@ Said tract or tracts contains an area of approximately 1805 square kilometres an
 
 
 
+### (3) Torngat Mountains National Park of Canada
+
+
+All that parcel of land in the Province of Newfoundland and Labrador shown on a descriptive map plan prepared by the Department of Natural Resources, dated November 15, 2004 and recorded in the Crown Lands Registry Office in St. John’s, Newfoundland and Labrador, under number SP 367; a copy of the plan is attached as appendix D-1 to the Agreement, as defined in section 2 of the [Labrador Inuit Land Claims Agreement Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2027.md); the parcel contains an area of approximately 9 700 square kilometres.
+
+
+
 **PART 11 — YUKON** 
+
+
 ### (1) Ivvavik National Park of Canada
 
 
@@ -4729,6 +4758,8 @@ And such other portions of the said reserve as are identified as lands for a nat
 
 
 **PART 12 — NORTHWEST TERRITORIES** 
+
+
 ### (1) Aulavik National Park of Canada
 
 
@@ -4892,6 +4923,8 @@ Said parcel containing about 16 340 square kilometres.
 
 
 **PART 13 — NUNAVUT** 
+
+
 ### (1) Sirmilik National Park of Canada
 
 
@@ -5768,7 +5801,7 @@ Excluding thereout and therefrom the whole of Ward Hunt Island together with a r
 The above described lands containing about 37 775 square kilometres.
 
 
-> 2000, c. 32, Sch. 1; 2001, c. 34, s. 25(F); 2002, c. 7, s. 106; SOR/2003-345; 2004, c. 20, s. 1; SOR/2004-300.
+> 2000, c. 32, Sch. 1; 2001, c. 34, s. 25(F); 2002, c. 7, s. 106; SOR/2003-345; 2004, c. 20, s. 1; SOR/2004-300; 2008, c. 2, s. 13.
 
 
 
@@ -5777,7 +5810,7 @@ The above described lands containing about 37 775 square kilometres.
 **(Sections 2, 6, 7 and 41)**
 ## National Park Reserves of Canada
 
-### Kluane National Park Reserve of Canada
+### kluane national park reserve of canada
 
 
 In Yukon;
@@ -5920,7 +5953,7 @@ Also saving and excepting, those portions of said parcel transferred to Kluane N
 
 
 
-### Nahanni National Park Reserve of Canada
+### nahanni national park reserve of canada
 
 
 In the Northwest Territories:
@@ -6083,7 +6116,7 @@ Thence easterly in a straight line to the point of commencement; all co-ordinate
 
 
 
-### Mingan Archipelago National Park Reserve of Canada
+### mingan archipelago national park reserve of canada
 
 
 In the Province of Quebec;
@@ -6110,10 +6143,10 @@ The longitudes mentioned above were scaled from the 1:250,000 map sheets 12L and
 
 
 
-### Pacific Rim National Park Reserve of Canada
+### pacific rim national park reserve of canada
 
 
-### Part I
+### part i
 
 
 All those parcels or tracts of land, together with all that foreshore and land covered by water, situated in Clayoquot District and lying within the following described limits:
@@ -6280,7 +6313,7 @@ Thirdly: Parcel 1 and Village Connector Road, as shown on a plan recorded in the
 
 
 
-### Part II
+### part ii
 
 
 All those parcels or tracts of land, together with all that foreshore and land covered by water, situated in Barclay District and lying within the following described limits:
@@ -6323,7 +6356,7 @@ Cleho Indian Reserve No. 6, Keith Island Indian Reserve No. 7, Nettle Island Ind
 
 
 
-### Part III
+### part iii
 
 
 Firstly: Lot A in Section 18 as shown on Plan 38380 in said office, and the west half of the north half of the north half of the southeast quarter of said Section 18, all in Township 1, Barclay District.
@@ -6606,7 +6639,7 @@ Secondly: Lot 2 of Block 10, Lots 1 and 2 of Block 16, Lot 8 of Block 18 and Lot
 
 
 
-### Part IV
+### part iv
 
 
 All those parcels or tracts of land, together with all that foreshore and land covered by water, situated in Clayoquot District and lying within the following described limits:
@@ -6641,7 +6674,7 @@ Thence due south to said northeast corner of Section 70, being the point of comm
 
 
 
-### Gwaii Haanas National Park Reserve of Canada
+### gwaii haanas national park reserve of canada
 
 
 In the Province of British Columbia;
@@ -7175,14 +7208,7 @@ Thence generally northerly, northwesterly and northeasterly along the ordinary h
 Explanatory Note: All topographic features herein referred to being according to the Gazetteer of Canada (British Columbia) Third Edition, Ottawa 1985; to National Topographic Series (N.T.S.) Map, (103 B-C Moresby Island, Edition 2) produced at a scale of 1:250,000 by the Army Survey Establishment at Ottawa; to N.T.S. Maps (102-0/14 and 102-0/15 Cape St. James), (103B/2W Lyman Point), (103B/3 Kunghit Island), (103B/5 Gowgaia Bay), (103B/6 Burnaby Island), (103B/11 Ramsay Island), (103B/12 Darwin Sound), (103B/13 and 103B/14 Louise Island) and (103C/9 Tasu Head) produced at a scale of 1:50,000 by the Department of Energy, Mines and Resources at Ottawa and to Canadian Hydrographic Service (C.H.S.) Chart 3853 produced at a scale of 1:150,000 by the Department of Fisheries and Oceans, Ottawa.
 
 
-
-### Torngat Mountains National Park Reserve of Canada
-
-
-All that parcel of land in the Province of Newfoundland and Labrador shown on a descriptive map plan prepared by the Department of Natural Resources, dated November 15, 2004 and recorded in the Crown Lands Registry Office in St. John’s, Newfoundland and Labrador, under number SP 367; a copy of the plan is attached as appendix D-1 to the Agreement, as defined in section 2 of the  [Labrador Inuit Land Claims Agreement Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2027.md); said parcel contains an area of approximately 9 700 square kilometres.
-
-
-> 2000, c. 32, Sch. 2; 2002, c. 7, s. 107(E); 2004, c. 20, s. 2; 2005, c. 27, s. 17.
+> 2000, c. 32, Sch. 2; 2002, c. 7, s. 107(E); 2004, c. 20, s. 2; 2005, c. 27, s. 17; 2008, c. 2, s. 14.
 
 
 
