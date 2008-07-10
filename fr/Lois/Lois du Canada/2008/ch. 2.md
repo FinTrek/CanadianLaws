@@ -56,9 +56,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***accord*** L’accord sur les revendications territoriales conclu entre les Inuits du Nunavik et Sa Majesté la Reine du chef du Canada et signé le 1<sup>er</sup> décembre 2006, avec ses modifications éventuelles.
+***accord*** L’accord sur les revendications territoriales conclu entre les Inuits du Nunavik et Sa Majesté la Reine du chef du Canada et signé le 1<sup>er</sup> décembre 2006, avec ses modifications éventuelles. (*Agreement*)
 
-***Makivik*** La société constituée par la Loi sur la Société Makivik, L.R.Q., ch. S-18.1, et représentant les Inuits du Nord québécois.
+***Makivik*** La société constituée par la Loi sur la Société Makivik, L.R.Q., ch. S-18.1, et représentant les Inuits du Nord québécois. (*Makivik*)
 
 
 
@@ -245,6 +245,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_Ind7052_hq_4136'>[*]</a></sup>**15** La présente loi entre en vigueur à la date fixée par décret.
 
-<a name='fn_Ind7052_hq_4136'><sup>*</sup></a>: [Note : Loi non en vigueur.]<br />
+<a name='fn_Ind7052_hq_4136'><sup>*</sup></a>: [Note : Loi en vigueur le 10 juillet 2008, *voir* TR/2008-72.]<br />
 
 
