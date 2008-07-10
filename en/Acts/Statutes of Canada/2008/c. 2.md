@@ -54,9 +54,9 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 **2** The following definitions apply in this Act.
 
-***Agreement*** means the land claims agreement between the Nunavik Inuit and Her Majesty the Queen in right of Canada signed on December 1, 2006, including any amendments made to it. 
+***Agreement*** means the land claims agreement between the Nunavik Inuit and Her Majesty the Queen in right of Canada signed on December 1, 2006, including any amendments made to it. (*accord*)
 
-***Makivik*** means the corporation established by An Act respecting the Makivik Corporation, R.S.Q., c. S-18.1, and representing the Inuit of northern Quebec.
+***Makivik*** means the corporation established by An Act respecting the Makivik Corporation, R.S.Q., c. S-18.1, and representing the Inuit of northern Quebec. (*Makivik*)
 
 
 
@@ -248,6 +248,6 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 
 <sup><a href='#fn_Ind957_hq_4134'>[*]</a></sup>**15** This Act comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind957_hq_4134'><sup>*</sup></a>: [Note: Act not in force.]<br />
+<a name='fn_Ind957_hq_4134'><sup>*</sup></a>: [Note: Act in force July 10, 2008, *see* SI/2008-72.]<br />
 
 
