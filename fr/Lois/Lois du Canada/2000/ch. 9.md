@@ -13208,8 +13208,6 @@ Directeur général des élections
 
 Alberta
 
-
-
 Election Act, R.S.A. 2000, ch. E-1
 
 
@@ -13222,9 +13220,9 @@ Vital Statistics Act, R.S.A. 2000, ch. V-4
 
 
 
+
+
 Colombie-Britannique
-
-
 
 Election Act, R.S.B.C. 1996, ch. 106
 
@@ -13238,9 +13236,9 @@ Vital Statistics Act, R.S.B.C. 1996, ch. 479
 
 
 
+
+
 Île-du-Prince-Édouard
-
-
 
 Election Act, R.S.P.E.I. 1988, ch. E-1.1
 
@@ -13250,27 +13248,27 @@ Highway Traffic Act, R.S.P.E.I. 1988, ch. H-5
 
 
 
-Vital Statistics Act, R.S.P.E.I. 1988, ch. V-4
+Vital Statistics Act, R.S.P.E.I. 1988, ch. V-4.1
+
+
 
 
 
 Manitoba
 
-
-
-*Code de la route*, S.M. 1985-86, ch. 3
-
-
-
-Loi électorale, L.R.M. 1987, ch. E30
+Code de la route, L.M. 1985-86, ch. 3
 
 
 
-Loi sur la Ville de Winnipeg, S.M. 1989-90, ch. 10
+Loi électorale, L.M. 2006, ch. 15, ann. A
 
 
 
-Loi sur l’élection des autorités locales, L.R.M 1987, ch. L180
+Loi sur la charte de la Ville de Winnipeg, L.M. 2002, ch. 39
+
+
+
+Loi sur les élections municipales et scolaires, L.M. 2005, ch. 27
 
 
 
@@ -13278,9 +13276,9 @@ Loi sur les statistiques de l’état civil, L.R.M. 1987, ch. V60
 
 
 
+
+
 Nouveau-Brunswick
-
-
 
 Loi électorale, L.R.N.-B. 1973, ch. E-3
 
@@ -13294,9 +13292,9 @@ Loi sur les véhicules à moteur, L.R.N.-B. 1973, ch. M-17
 
 
 
+
+
 Nouvelle-Écosse
-
-
 
 Elections Act, R.S.N.S. 1989, ch. 140
 
@@ -13310,11 +13308,11 @@ Vital Statistics Act, R.S.N.S. 1989, ch. 494
 
 
 
+
+
 Nunavut
 
-
-
-Loi électorale, L.R.T.N.-O. 1988, ch. E-2, reproduite pour le Nunavut par l’article 29 de la [Loi sur le Nunavut](/fr/Lois/Lois%20du%20Canada/1993/ch.%2028.md), L.C. 1993, ch. 28
+Loi électorale du Nunavut, L.Nun. 2002, ch. 17
 
 
 
@@ -13326,19 +13324,19 @@ Loi sur les véhicules automobiles, L.R.T.N.-O. 1988, ch. M-16, reproduite pour 
 
 
 
+
+
 Ontario
 
-
-
-*Code de la route*, L.R.O. 1990, ch. H.8
-
-
-
-Loi de 1996 sur les élections municipales, L.O. 1996, ch. 32
+Code de la route, L.R.O. 1990, ch. H.8
 
 
 
-*Loi électorale*, L.R.O. 1990, ch. E.6
+Loi de 1996 sur les élections municipales, L.O. 1996, ch. 32, ann.
+
+
+
+Loi électorale, L.R.O. 1990, ch. E.6
 
 
 
@@ -13346,9 +13344,9 @@ Loi sur les statistiques de l’état civil, L.R.O. 1990, ch. V.4
 
 
 
+
+
 Québec
-
-
 
 Code civil du Québec, L.Q. 1991, ch. 64
 
@@ -13362,9 +13360,9 @@ Loi électorale, L.R.Q., ch. E-3.3
 
 
 
+
+
 Saskatchewan
-
-
 
 Loi de 1995 sur les services de l’état civil, L.S. 1995, ch. V-7,1
 
@@ -13374,35 +13372,31 @@ The Election Act, 1996, S.S. 1996, ch. E-6.01
 
 
 
-The Highway Traffic Act, S.S. 1986, ch. H-3.1
+The Traffic Safety Act, S.S. 2004, ch. T-18.1
 
 
 
-The Vehicle Administration Act, S.S. 1986, ch. V-2.1
+
+
+Terre-Neuve-et-Labrador
+
+Elections Act, 1991, S.N.L. 1992, ch. E-3.1
 
 
 
-Terre-Neuve
+Highway Traffic Act, R.S.N.L. 1990, ch. H-3
 
 
 
-Elections Act, 1991, S.N. 1992, ch. E-3.1
+Vital Statistics Act, R.S.N.L. 1990, ch. V-6
 
 
-
-Highway Traffic Act, R.S.N. 1990, ch. H-3
-
-
-
-Vital Statistics Act, R.S.N. 1990, ch. V-6
 
 
 
 Territoires du Nord-Ouest
 
-
-
-Loi électorale, L.R.T.N.-O. 1988, ch. E-2
+Loi sur les élections et les référendums, L.T.N.-O. 2006, ch. 15
 
 
 
@@ -13414,33 +13408,39 @@ Loi sur les véhicules automobiles, L.R.T.N.-O. 1988, ch. M-16
 
 
 
+
+
 Yukon
 
-
-
-Loi sur les élections, L.Y. 1999, ch. 13
-
-
-
-Loi sur les statistiques de l’état civil, L.R.Y. 1986, ch. 175
+Loi sur les élections, L.R.Y. 2002, ch. 63
 
 
 
-Loi sur les véhicules automobiles, L.R.Y. 1986, ch. 118
+Loi sur les statistiques de l’état civil, L.R.Y. 2002, ch. 225
+
+
+
+Loi sur les véhicules automobiles, L.R.Y. 2002, ch. 153
+
+
 
 
 
 ### Autres sources de renseignements
 
 
-Info-direct<sup>TM</sup> pour l’Alberta
+Curateur public (Québec)
+
+
+
+Info-direct<sup>TM</sup>
 
 
 
 La base de données du Programme national sur les changements d’adresse de la Société canadienne des postes
 
 
-> 2000, ch. 9, ann. 2; Gazette du Canada Partie I, édition spéciale volume 134, n<sup>os</sup>os 6 et 8; Gazette du Canada Partie I, édition spéciale volume 135, n<sup>o</sup>o 1; 2002, ch. 7, art. 95; Gazette du Canada Partie I, volume 137, page 685; Gazette du Canada Partie I, volume 138, pages 283, 976 et 1329.
+> 2000, ch. 9, ann. 2; Gazette du Canada Partie I, édition spéciale volume 134, n<sup>os</sup>os 6 et 8; Gazette du Canada Partie I, édition spéciale volume 135, n<sup>o</sup>o 1; 2002, ch. 7, art. 95; Gazette du Canada Partie I, volume 137, page 685; Gazette du Canada Partie I, volume 138, pages 283, 976 et 1329; Gazette du Canada Partie I, volume 140, page 3630; Gazette du Canada Partie I, volume 142, pages 2159 à 2161.
 
 
 
