@@ -1007,30 +1007,24 @@ Autorités habilitantes :
 
 
 
-**41** Sous réserve de l’article 42, la semence de toute variété est soustraite à l’application de l’alinéa 3(1)b) de la Loi pourvu qu’elle puisse être importée au Canada à l’une ou l’autre des fins suivantes :
-- **a)** le conditionnement;
-- **b)** la recherche;
-- **c)** l’ensemencement par l’importateur;
-- **d)** la vente conformément au paragraphe 5(4).
-> DORS/96-252, art. 2.
+**41** 
+
+- **(1)** La semence de toute variété est soustraite à l’application de l’alinéa 3(1)b) de la Loi si elle est importée au Canada à l’une ou l’autre des fins suivantes :
+	- **a)** le conditionnement;
+	- **b)** la recherche;
+	- **c)** l’ensemencement par l’importateur;
+	- **d)** la vente conformément au paragraphe 5(4).
+
+- **(2)** Toutefois, la semence de toute variété de blé de printemps, de blé d’hiver ou de blé dur importée dans le territoire de la Commission canadienne du blé n’est soustraite à l’application de l’alinéa 3(1)b) de la Loi que si elle est importée à l’une ou l’autre des fins suivantes :
+	- **a) ** le conditionnement;
+	- **b) ** la recherche;
+	- **c) ** la vente conformément au paragraphe 5(4).
+> DORS/96-252, art. 2; DORS/2008-228, art. 1.
 
 
 
 
-**42** La semence de blé de printemps, de blé d’hiver, de blé dur ou d’orge de printemps ne peut être importée dans le territoire de la Commission canadienne du blé que dans l’un ou l’autre des cas suivants :
-- **a)** elle est une semence de qualité Généalogique d’une variété enregistrée conformément à la partie III et sa vente dans ce territoire n’est visée par aucune restriction;
-- **b)** elle :
-	- **(i)** dans le cas du blé, se distingue visuellement de toutes les variétés de blé de printemps, de blé d’hiver et de blé dur qui sont enregistrées conformément à la partie III pour ce territoire et qui conviennent à l’usinage, à la boulangerie ou aux pâtes alimentaires,
-	- **(ii)** dans le cas de l’orge, se distingue de toutes les variétés d’orge de printemps qui sont enregistrées conformément à la partie III pour ce territoire et qui conviennent à la production de malt ou d’orge perlé;
-- **c)** dans le cas où elle est d’une variété non enregistrée conformément à la partie III pour ce territoire, est importée dans ce territoire à des fins d’amélioration ou de recherche phytologiques et l’importateur, à la fois :
-	- **(i)** s’adonne à des travaux d’amélioration ou de recherche phytologiques relatifs au blé de printemps, au blé d’hiver, au blé dur ou à l’orge de printemps,
-	- **(ii)** s’engage par écrit à ce que la semence importée et toute sa descendance :
-		- **(A)** ne soient pas vendues à quiconque se trouve au Canada,
-		- **(B)** ne soient pas distribuées à quiconque au Canada n’est pas habilité en vertu du présent alinéa à importer cette semence,
-		- **(C)** ne soient pas semées ni par ailleurs utilisées à des fins autres que l’amélioration ou la recherche phytologiques,
-	- **(iii)** s’engage par écrit à fournir au ministre, à la demande de celui-ci, aux fins de vérifier s’il se conforme à l’engagement visé au sous-alinéa (ii), des renseignements sur l’importation, la distribution, l’utilisation et l’aliénation de la semence et de toute sa descendance.
-> DORS/85-903, art. 2; DORS/88-297, art. 1; DORS/96-252, art. 2.
-
+**42** [Abrogé, DORS/2008-228, art. 2]
 
 
 
