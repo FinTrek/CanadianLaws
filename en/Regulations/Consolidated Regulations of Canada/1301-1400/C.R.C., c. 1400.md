@@ -1013,30 +1013,24 @@ Enabling authorities:
 
 
 
-**41** Subject to section 42, seed of any variety is exempt from the operation of paragraph 3(1)(b) of the Act in so far as it may be imported into Canada for the purpose of
-- **(a)** conditioning;
-- **(b)** research;
-- **(c)** seeding by the importer; or
-- **(d)** sale pursuant to subsection 5(4).
-> SOR/96-252, s. 2.
+**41** 
+
+- **(1)** Subject to subsection (2), seed of any variety is exempt from the operation of paragraph 3(1)(b) of the Act if it is imported into Canada for the purpose of
+	- **(a)** conditioning;
+	- **(b)** research;
+	- **(c)** seeding by the importer; or
+	- **(d)** sale pursuant to subsection 5(4).
+
+- **(2)** Seed of any variety of spring wheat, winter wheat or durum wheat that is imported into the Canadian Wheat Board Area is exempt from the operation of paragraph 3(1)(b) of the Act only if it is imported for the purpose of
+	- **(a)** conditioning;
+	- **(b)** research; or
+	- **(c)** sale pursuant to subsection 5(4).
+> SOR/96-252, s. 2; SOR/2008-228, s. 1.
 
 
 
 
-**42** Seed of spring wheat, winter wheat, durum wheat or spring barley may be imported into the Canadian Wheat Board Area only where
-- **(a)** the seed is of pedigreed status of a variety registered under Part III and there are no restrictions with respect to its sale in the Canadian Wheat Board Area;
-- **(b)** the seed
-	- **(i)** in the case of wheat, is visually distinguishable from all varieties of spring wheat, winter wheat and durum wheat that are suitable for milling and baking or for making alimentary pastes, and that are registered under Part III for the Canadian Wheat Board Area, and
-	- **(ii)** in the case of barley, is distinguishable from all varieties of spring barley that are suitable for malting or pearling and that are registered under Part III for the Canadian Wheat Board Area; or
-- **(c)** in the case of seed that is of a variety not registered under Part III for the Canadian Wheat Board Area, it is imported into the Canadian Wheat Board Area for plant breeding or plant research purposes, and the importer
-	- **(i)** is actively engaged in plant breeding or plant research with spring wheat, winter wheat, durum wheat or spring barley,
-	- **(ii)** agrees in writing that the seed imported and any progeny thereof
-		- **(A)** will not be sold to any person in Canada,
-		- **(B)** will not be distributed to any person in Canada who is not qualified under this paragraph to import such seed, and
-		- **(C)** will not be sown or otherwise used for any purpose other than plant breeding or plant research, and
-	- **(iii)** undertakes in writing, on request, for the purpose of verifying compliance with the agreement referred to in subparagraph (ii), to provide the Minister with information relating to the importation, distribution, use and disposition of the seed and of any progeny thereof.
-> SOR/85-903, s. 2; SOR/88-297, s. 1; SOR/96-252, s. 2.
-
+**42** [Repealed, SOR/2008-228, s. 2]
 
 
 
