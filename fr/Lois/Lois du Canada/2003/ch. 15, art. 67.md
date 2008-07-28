@@ -738,6 +738,17 @@ où :
 </td>
 </tr>
 <tr>
+<td>Kahkewistahaw
+
+</td>
+<td>Council of Kahkewistahaw
+
+</td>
+<td>Réserve de Kahkewistahaw
+
+</td>
+</tr>
+<tr>
 <td>Kamloops
 
 </td>
@@ -1023,9 +1034,20 @@ où :
 
 </td>
 </tr>
+<tr>
+<td>Whitecap Dakota First Nation
+
+</td>
+<td>Council of the Whitecap Dakota First Nation
+
+</td>
+<td>Réserve de Whitecap Dakota First Nation
+
+</td>
+</tr>
 </table>
 
-> 2003, ch. 15, s. 67 « ann. »; DORS/2004-281; 2005, ch. 19, art. 11; DORS/2005-363; DORS/2006-201, 294; DORS/2007-111; DORS/2007-185, art. 1 et 2; DORS/2008-103.
+> 2003, ch. 15, s. 67 « ann. »; DORS/2004-281; 2005, ch. 19, art. 11; DORS/2005-363; DORS/2006-201, 294; DORS/2007-111; DORS/2007-185, art. 1 et 2; DORS/2008-103, 234, 235.
 
 
 
