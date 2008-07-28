@@ -267,19 +267,17 @@ that is filed with a Mining Recorder as evidence of representation work on a min
 
 **11** 
 
-- **(1)** No licensee shall prospect for minerals or stake a claim on lands
-	- **(a)** to which the National Parks Act applies;
-	- **(b)** used as a cemetery or burial ground;
-	- **(c)** in respect of which a claim has been recorded and has not lapsed;
-	- **(d)** the minerals in which have been granted or leased by Her Majesty;
-	- **(e)** set apart and appropriated by the Governor in Council for a purpose set out in section 23 of the Act;
-	- **(f)** the entry on which for the purpose of prospecting for minerals and locating a claim thereon is prohibited by order of the Governor in Council, subject to the terms and conditions contained in the order;
-	- **(g)** under the administration and control of the Minister of National Defence, the Minister of Energy, Mines and Resources or the Minister of Transport, unless the consent of that Minister has been obtained in writing; or
-	- **(h)** the surface of which has been granted or leased by Her Majesty, unless the grantee or lessee consents thereto or an order authorizing entry thereon has been made pursuant to subsection 72(3).
-	- **(i)** [Repealed, SOR/88-9, s. 6]
+- **(1)** No person shall prospect for minerals or stake a claim on lands
+	- **(a)** that are used as a cemetery;
+	- **(b)** that are subject to a recorded claim or lease;
+	- **(c)** that are subject to a prospecting permit, unless the person is the holder of the permit or is acting on behalf of the holder;
+	- **(d)** for which the minerals are subject to a grant by Her Majesty;
+	- **(e)** that have been withdrawn from disposal or set apart and appropriated by the Governor in Council under paragraphs 23(a) to (e) of the Act;
+	- **(f)** that are subject to a prohibition on prospecting or staking a claim under a land use plan that has been approved under federal legislation or a land claim agreement; or
+	- **(g)** the surface of which is subject to a grant or lease by Her Majesty, unless the owner of those lands or the holder of the lease has consented to the prospecting or staking or an order authorizing entry on those lands has been made under subsection 72(3).
 
-- **(2)** Where a roadway, railway or other right-of-way is included in a recorded claim, the holder of the claim shall not have the right to enter on the right-of-way for the purpose of prospecting or development without the permission of the Mining Recorder for the district in which the claim is situated, which permission shall not be refused unless the holder has first been given the opportunity of being heard.
-> SOR/88-9, s. 6; SOR/99-219, s. 2; SOR/2007-273, s. 7.
+- **(2)** Despite paragraph (1)(b), the holder of a recorded claim or a lease, or a person acting on their behalf, may prospect on lands subject to that recorded claim or lease.
+> SOR/88-9, s. 6; SOR/99-219, s. 2; SOR/2007-273, s. 7; SOR/2008-240, s. 1.
 
 
 
