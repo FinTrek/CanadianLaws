@@ -271,19 +271,17 @@ ne doit, une fois versé dans les dossiers du registraire minier comme preuve de
 
 **11** 
 
-- **(1)** Le titulaire d’une licence ne peut prospecter ni des minéraux ni jalonner des claims sur les terres :
-	- **a)** auxquelles s’applique la Loi sur les parcs nationaux;
-	- **b)** servant de cimetières;
-	- **c)** pour lesquelles a été enregistré un claim minier non périmé;
-	- **d)** dont les minéraux ont été concédés ou donnés à bail par Sa Majesté;
-	- **e)** réservées par le gouverneur en conseil à l’une des fins mentionnées à l’article 23 de la Loi;
-	- **f)** sur lesquelles il est interdit, en vertu d’un décret du gouverneur en conseil, de pénétrer pour y prospecter des minéraux et y localiser un claim minier, sous réserve des modalités du décret;
-	- **g)** qui sont placés sous l’administration et le contrôle du ministre de la Défense nationale, du ministre de l’Énergie, des Mines et des Ressources ou du ministre des Transports, à moins d’avoir obtenu le consentement écrit du ministre intéressé; ou
-	- **h)** dont la surface a été donnée à bail par Sa Majesté, à moins que le preneur à bail n’y consente ou qu’une ordonnance autorisant à entrer sur ces terres n’ait été rendue en vertu du paragraphe 72(3).
-	- **i)** [Abrogé, DORS/88-9, art. 6]
+- **(1)** Nul ne peut prospecter des minéraux ou jalonner un claim sur les terres suivantes :
+	- **a)** celles servant de cimetière;
+	- **b)** celles à l’égard desquelles un claim a été enregistré ou un bail octroyé;
+	- **c)** celles à l’égard desquelles un permis de prospection a été accordé, à moins d’être le titulaire du permis ou d’agir au nom de celui-ci;
+	- **d)** celles dont les minéraux ont été concédés par Sa Majesté;
+	- **e)** celles déclarées inaliénables ou réservées par le gouverneur en conseil en vertu des alinéas 23a) à e) de la Loi;
+	- **f)** celles faisant l’objet d’une interdiction de prospecter ou de jalonner prévue dans un plan d’aménagement approuvé sous le régime d’une loi fédérale ou d’un accord sur des revendications territoriales;
+	- **g)** celles dont la surface a été concédée ou donnée à bail par Sa Majesté, à moins que le propriétaire ou le preneur à bail n’ait consenti à la prospection ou au jalonnement ou qu’une ordonnance autorisant à entrer sur ces terres n’ait été rendue en vertu du paragraphe 72(3).
 
-- **(2)** Lorsqu’une route, une voie ferrée, ou toute autre emprise se situe dans les limites d’un claim enregistré, le détenteur du claim ne peut avoir le droit de pénétrer dans cette emprise pour y prospecter ou l’exploiter sans l’autorisation du registraire minier du district où le claim est situé, laquelle autorisation ne sera pas refusée sans que le détenteur ait eu la possibilité de se faire entendre.
-> DORS/88-9, art. 6; DORS/99-219, art. 2; DORS/2007-273, art. 7.
+- **(2)** Malgré l’alinéa (1)b), le détenteur du claim enregistré ou le preneur à bail, ou toute personne agissant en leur nom, peut prospecter les terres visées par le claim enregistré ou le bail.
+> DORS/88-9, art. 6; DORS/99-219, art. 2; DORS/2007-273, art. 7; DORS/2008-240, art. 1.
 
 
 
