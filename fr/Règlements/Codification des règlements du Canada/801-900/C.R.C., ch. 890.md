@@ -345,10 +345,10 @@ Autorités habilitantes :
 <tr>
 <th>Article</th>
 <th>Grain</th>
-<th>Gourd — % de teneur en eau</th>
-<th>Humide — % de teneur en eau</th>
-<th>Mouillé — % de teneur en eau</th>
-<th>Trempé — % de teneur en eau</th>
+<th>Gourd — % de teneur en eau</th>
+<th>Humide — % de teneur en eau</th>
+<th>Mouillé — % de teneur en eau</th>
+<th>Trempé — % de teneur en eau</th>
 </tr>
 <tr>
 <td>1</td>
@@ -385,6 +385,14 @@ Autorités habilitantes :
 <tr>
 <td>5</td>
 <td>Blé dur ambré, Ouest canadien</td>
+<td>de 14,6 % à 17,0 %</td>
+<td>plus de 17,0 %</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>5.1</td>
+<td>Blé à des fins générales, Ouest canadien</td>
 <td>de 14,6 % à 17,0 %</td>
 <td>plus de 17,0 %</td>
 <td></td>
@@ -523,7 +531,7 @@ Autorités habilitantes :
 </tr>
 </table>
 
-> DORS/78-500, art. 1; DORS/79-534, art. 3 et 4; DORS/80-513, art. 2; DORS/84-615, art. 5; DORS/88-370, art. 2; DORS/90-359, art. 2; DORS/93-363, art. 1; DORS/94-488, art. 1; DORS/95-392, art. 1; DORS/97-284, art. 1; DORS/97-425, art. 1; DORS/2001-241, art. 1.
+> DORS/78-500, art. 1; DORS/79-534, art. 3 et 4; DORS/80-513, art. 2; DORS/84-615, art. 5; DORS/88-370, art. 2; DORS/90-359, art. 2; DORS/93-363, art. 1; DORS/94-488, art. 1; DORS/95-392, art. 1; DORS/97-284, art. 1; DORS/97-425, art. 1; DORS/2001-241, art. 1; DORS/2008-227, art. 1.
 
 
 
