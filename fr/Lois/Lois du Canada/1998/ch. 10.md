@@ -39,42 +39,46 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***administration portuaire*** Administration portuaire constituée en vertu de l’article 8.
+***administration portuaire*** Administration portuaire constituée ou prorogée en vertu de la présente loi. (*port authority*)
 
-***bien réel fédéral*** S’entend au sens de l’article 2 de la [Loi sur les immeubles fédéraux et les biens réels fédéraux](/fr/Lois/Lois%20du%20Canada/1991/ch.%2050.md).
+***bien réel fédéral*** S’entend au sens de l’article 2 de la [Loi sur les immeubles fédéraux et les biens réels fédéraux](/fr/Lois/Lois%20du%20Canada/1991/ch.%2050.md). (*federal real property*)
 
-***droits*** Toute forme de taxes, droits, péages, contributions ou prix. Sont inclus dans la présente définition les droits d’amarrage, les droits d’accostage et les droits de port.
+***droit*** S’entend de toute forme de taxe, péage, contribution ou redevance, notamment pour l’accès, l’accostage et l’amarrage au port, à l’exclusion de toute somme versée au titre d’un bail ou d’un permis. (*fees*)
 
-***immeuble fédéral*** S’entend au sens de l’article 2 de la [Loi sur les immeubles fédéraux et les biens réels fédéraux](/fr/Lois/Lois%20du%20Canada/1991/ch.%2050.md).
+***droits***[Abrogée, 2008, ch. 21, art. 1]
+
+***immeuble fédéral*** S’entend au sens de l’article 2 de la [Loi sur les immeubles fédéraux et les biens réels fédéraux](/fr/Lois/Lois%20du%20Canada/1991/ch.%2050.md). (*federal immovable*)
 
 ***immeubles fédéraux***[Abrogée, 2001, ch. 4, art. 133]
 
-***installations portuaires*** Quais, jetées, brise-lames, installations, ouvrages, terminaux, entrepôts et autres bâtiments, situés dans les eaux navigables, à la surface de celles-ci ou à proximité, affectés à la navigation ou aux transports par eau, y compris tous les terrains liés à leur utilisation.
+***installation portuaire*** Quai, jetée, brise-lames, terminal, entrepôt ou autre construction situés dans les eaux navigables ou à la surface ou à proximité de celles-ci — y compris les terrains liés à leur utilisation ou adjacents aux eaux navigables — et affectés à la navigation ou au transport par eau. (*port facility*)
 
-***installations portuaires publiques*** Les installations portuaires désignées comme installations portuaires publiques en application de l’article 65.
+***installations portuaires***[Abrogée, 2008, ch. 21, art. 1]
 
-***marchandises*** Biens meubles, à l’exclusion d’un navire.
+***installations portuaires publiques*** Les installations portuaires désignées comme installations portuaires publiques en application de l’article 65. (*public port facility*)
 
-***ministre*** Le ministre des Transports.
+***marchandises*** Biens meubles ou biens personnels, à l’exclusion des navires. (*goods*)
 
-***navire*** Tout genre de bâtiment, bateau ou embarcation conçu, utilisé ou utilisable, exclusivement ou non, pour la navigation maritime, autopropulsé ou non et indépendamment du mode de propulsion; la présente définition vise également les hydravions, les radeaux et les estacades de billes ou de bois de construction.
+***ministre*** Le ministre des Transports. (*Minister*)
 
-***Office*** L’Office des transports du Canada maintenu par le paragraphe 7(1) de la [Loi sur les transports au Canada](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md).
+***navire*** Tout genre de bâtiment, bateau ou embarcation conçu, utilisé ou utilisable, exclusivement ou non, pour la navigation maritime, autopropulsé ou non et indépendamment du mode de propulsion; la présente définition vise également les hydravions, les radeaux et les estacades de billes ou de bois de construction. (*ship*)
 
-***personne*** S’entend notamment d’une société de personnes, d’une association et d’une personne morale.
+***Office*** L’Office des transports du Canada maintenu par le paragraphe 7(1) de la [Loi sur les transports au Canada](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md). (*Agency*)
 
-***port public*** Port désigné comme port public en application de l’article 65.
+***personne*** S’entend notamment d’une société de personnes, d’une association et d’une personne morale. (*person*)
 
-***propriétaire*** Y sont assimilés :
+***port public*** Port désigné comme port public en application de l’article 65. (*public port*)
+
+***propriétaire*** Y sont assimilés :
 - **a)** dans le cas d’un navire, l’agent, l’affréteur en coque nue ou le capitaine de celui-ci;
-- **b)** dans le cas de marchandises, l’agent, l’expéditeur, le consignataire ou le dépositaire de celles-ci, de même que la personne qui les transporte à destination ou en provenance de toute propriété placée sous l’administration ou la compétence d’une administration portuaire ou du ministre, en passant par une telle propriété ou au-dessus de celle-ci.
+- **b)** dans le cas de marchandises, l’agent, l’expéditeur, le consignataire ou le dépositaire de celles-ci, de même que la personne qui les transporte à destination ou en provenance de tout immeuble ou bien réel visé par la présente loi ou en passant sur ou au-dessus de celui-ci. (*owner*)
 
-***voie maritime*** La voie en eau profonde entre le port de Montréal et les Grands Lacs construite et entretenue en conformité avec l’accord du 19 mars 1941 entre le Canada et les États-Unis pour le développement de la navigation et l’aménagement de l’énergie dans le bassin des Grands Lacs et du Saint-Laurent; la présente définition vise également les écluses, canaux et installations entre le port de Montréal et le lac Érié dont l’ensemble est connu sous l’appellation de voie maritime du Saint-Laurent.
+***voie maritime*** La voie en eau profonde entre le port de Montréal et les Grands Lacs construite et entretenue en conformité avec l’accord du 19 mars 1941 entre le Canada et les États-Unis pour le développement de la navigation et l’aménagement de l’énergie dans le bassin des Grands Lacs et du Saint-Laurent; la présente définition vise également les écluses, canaux et installations entre le port de Montréal et le lac Érié dont l’ensemble est connu sous l’appellation de voie maritime du Saint-Laurent. (*Seaway*)
 
 **Terminologie**
 
 - **(2)** Sauf indication contraire, les autres termes de la présente loi s’entendent au sens de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md).
-> 1998, ch. 10, art. 2; 2001, ch. 4, art. 133.
+> 1998, ch. 10, art. 2; 2001, ch. 4, art. 133; 2008, ch. 21, art. 1.
 
 
 
@@ -91,21 +95,24 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-## Politique maritime nationale
+## Objet de la loi
 
 
 
-**Politique maritime nationale**
+**Objectifs**
 
-**4** Il est déclaré que l’objectif de la présente loi est de :
-- **a)** mettre en œuvre une politique maritime nationale qui vise à assurer la mise en place de l’infrastructure maritime qui est nécessaire au Canada et qui constitue un outil de soutien efficace pour la réalisation des objectifs socioéconomiques locaux, régionaux et nationaux, et qui permettra de promouvoir et préserver la compétitivité du Canada et ses objectifs commerciaux;
+**4** Compte tenu de l’importance du transport maritime au Canada et de sa contribution à l’économie canadienne, la présente loi a pour objet de :
+- **a)** mettre en oeuvre une politique maritime qui permette au Canada de se doter de l’infrastructure maritime dont il a besoin, qui le soutienne efficacement dans la réalisation de ses objectifs socioéconomiques nationaux, régionaux et locaux aussi bien que commerciaux, et l’aide à promouvoir et préserver sa compétitivité;
+- **a.1)** promouvoir la vitalité des ports dans le but de contribuer à la compétitivité, la croissance et la prospérité économique du Canada;
 - **b)** fonder l’infrastructure maritime et les services sur des pratiques internationales et des approches compatibles avec celles de ses principaux partenaires commerciaux dans le but de promouvoir l’harmonisation des normes qu’appliquent les différentes autorités;
 - **c)** veiller à ce que les services de transport maritime soient organisés de façon à satisfaire les besoins des utilisateurs et leur soient offerts à un coût raisonnable;
 - **d)** fournir un niveau élevé de sécurité et de protection de l’environnement;
 - **e)** offrir un niveau élevé d’autonomie aux administrations locales ou régionales des composantes du réseau des services et installations portuaires et prendre en compte les priorités et les besoins locaux;
 - **f)** gérer l’infrastructure maritime et les services d’une façon commerciale qui favorise et prend en compte l’apport des utilisateurs et de la collectivité où un port ou havre est situé;
 - **g)** prévoir la cession, notamment par voie de transfert, de certains ports et installations portuaires;
-- **h)** favoriser la coordination des activités maritimes avec les réseaux de transport aérien et terrestre.
+- **h)** favoriser la coordination et l’intégration des activités maritimes avec les réseaux de transport aérien et terrestre.
+> 1998, ch. 10, art. 4; 2008, ch. 21, art. 3.
+
 
 
 
@@ -148,7 +155,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Modification de l’annexe**
 
-- **(2)** Le ministre peut, par décret, modifier l’annexe pour en retrancher le nom des administrations portuaires dissoutes ou pour y ajouter, à la partie 2, le nom de nouvelles administrations portuaires.
+- **(2)** Le ministre peut, par règlement, modifier l’annexe.
+> 1998, ch. 10, art. 6; 2008, ch. 21, art. 4.
+
 
 
 
@@ -184,7 +193,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **8** 
 
-- **(1)** Le ministre peut délivrer des lettres patentes de constitution — prenant effet à la date qui y est mentionnée — pour une administration portuaire sans capital-actions en vue d’exploiter un port spécifique au Canada, s’il est convaincu que les conditions suivantes sont réunies :
+- **(1)** Le ministre peut délivrer des lettres patentes — prenant effet à la date qui y est mentionnée — pour la constitution d’une administration portuaire sans capital-actions en vue d’exploiter un port spécifique au Canada, s’il est convaincu que les conditions suivantes sont réunies :
 	- **a)** le port est financièrement autonome et le demeurera vraisemblablement;
 	- **b)** il présente une importance stratégique pour le commerce du Canada;
 	- **c)** il est rattaché à une ligne principale de chemins de fer ou à des axes routiers importants;
@@ -192,7 +201,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Contenu des lettres patentes**
 
-- **(2)** Les lettres patentes doivent préciser les renseignements suivants :
+- **(2)** Les lettres patentes doivent préciser ce qui suit :
 	- **a)** la dénomination sociale de l’administration portuaire;
 	- **b)** le lieu de son siège social;
 	- **c)** les eaux navigables qui relèvent de sa compétence;
@@ -201,14 +210,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **f)** le nombre d’administrateurs, compris entre sept et onze, nommés en conformité avec l’article 14 et choisis de la façon suivante :
 		- **(i)** un administrateur est nommé sur la proposition du ministre,
 		- **(ii)** un administrateur est nommé par les municipalités mentionnées dans les lettres patentes,
-		- **(iii)** un administrateur est nommé par la province où le port est situé, sauf dans le cas du port de Vancouver où un administrateur est nommé par la Colombie-Britannique et un autre nommé par les trois provinces suivantes : l’Alberta, la Saskatchewan et le Manitoba,
+		- **(iii)** un administrateur est nommé par la province où le port est situé et, dans le cas du port situé partiellement ou complètement à Vancouver, un second administrateur est nommé par les trois provinces suivantes : l’Alberta, la Saskatchewan et le Manitoba,
 		- **(iv)** le reste des administrateurs sont choisis parmi les personnes dont la nomination est proposée par le ministre en consultation avec les utilisateurs qu’il choisit ou les catégories d’utilisateurs mentionnées dans les lettres patentes;
 	- **g)** le code de déontologie régissant la conduite des administrateurs et dirigeants de l’administration portuaire;
 	- **h)** le montant des frais — ou le mode de calcul de celui-ci — que l’administration portuaire devra payer annuellement au ministre, à la date fixée par celui-ci, pour le maintien en vigueur de ses lettres patentes, ces frais étant calculés sur les revenus bruts de l’administration;
 	- **i)** la mesure dans laquelle l’administration portuaire et les filiales à cent pour cent de l’administration portuaire peuvent exercer les activités portuaires visées à l’alinéa 28(2) a) et les autres activités visées à l’alinéa 28(2) b);
 	- **j)** la durée maximale des baux ou permis octroyés à l’égard des immeubles fédéraux ou des biens réels fédéraux gérés par l’administration portuaire;
 	- **k)** les limites aux pouvoirs de l’administration portuaire de conclure des contrats à titre de mandataire de Sa Majesté;
-	- **l)** les limites aux pouvoirs de l’administration portuaire d’emprunter des fonds sur son crédit pour l’exploitation du port;
+	- **l)** les limites au pouvoir de l’administration portuaire d’emprunter des fonds sur son crédit pour l’exploitation du port ou le code régissant ce pouvoir;
 	- **m)** toute autre disposition que le ministre juge indiqué d’inclure dans les lettres patentes et qui n’est pas incompatible avec la présente loi.
 
 **Non-application de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
@@ -222,7 +231,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Approbation du gouverneur en conseil**
 
 - **(5)** Les dispositions des lettres patentes relatives à la mesure dans laquelle l’administration portuaire peut emprunter des fonds sur son crédit pour l’exploitation du port doivent être approuvées par le gouverneur en conseil avant la délivrance des lettres patentes.
-> 1998, ch. 10, art. 8; 2001, ch. 4, art. 135.
+> 1998, ch. 10, art. 8; 2001, ch. 4, art. 135; 2008, ch. 21, art. 5.
 
 
 
@@ -230,7 +239,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Lettres patentes supplémentaires**
 
-**9** Le ministre peut, de son propre chef et après avoir consulté le conseil d’administration ou à la demande de celui-ci, délivrer des lettres patentes supplémentaires modifiant les lettres patentes de l’administration portuaire s’il est convaincu que les modifications sont compatibles avec la présente loi, les lettres patentes supplémentaires prenant effet à la date qui y est mentionnée.
+**9** 
+
+- **(1)** Le ministre peut, soit de son propre chef et après avoir avisé le conseil d’administration des modifications proposées, soit sur demande de celui-ci autorisée par résolution, délivrer des lettres patentes supplémentaires modifiant les lettres patentes de l’administration portuaire s’il est convaincu que les modifications sont compatibles avec la présente loi; les lettres patentes supplémentaires prennent effet à la date qui y est mentionnée.
+
+**Avis**
+
+- **(2)** L’avis est donné par écrit et prévoit le délai dans lequel le conseil d’administration peut faire parvenir au ministre ses observations sur les modifications proposées.
+> 1998, ch. 10, art. 9; 2008, ch. 21, art. 6.
+
 
 
 
@@ -243,30 +260,23 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **10** 
 
-- **(1)** Le ministre peut délivrer à l’égard d’une ou plusieurs commissions portuaires constituées en vertu de la [Loi sur les commissions portuaires](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-1.md), de la Loi des commissaires du havre de Hamilton ou de la *Loi de 1911 concernant les commissaires du havre de Toronto* des lettres patentes de prorogation en administration portuaire, s’il est convaincu que le port à exploiter remplit les conditions énumérées au paragraphe 8(1); le contenu de ces lettres patentes est conforme au paragraphe 8(2).
+- **(1)** Le ministre peut délivrer à l’égard de toute commission portuaire constituée en vertu de la [Loi sur les commissions portuaires](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-1.md) des lettres patentes pour sa prorogation en administration portuaire, s’il est convaincu que le port à exploiter remplit les conditions énumérées au paragraphe 8(1); le contenu de ces lettres patentes est conforme au paragraphe 8(2).
 
-**Conséquences des lettres patentes de prorogation**
+**Conséquences des lettres patentes**
 
-- **(2)** À la date de délivrance des lettres patentes de prorogation :
-	- **a)** la commission portuaire devient une administration portuaire;
-	- **b)** les lettres patentes de prorogation sont réputées être les lettres patentes de constitution de l’administration portuaire;
-	- **c)** l’administration portuaire est réputée avoir été constituée sous le régime de l’article 8;
-	- **d)** cesse de s’appliquer :
-		- **(i)** dans le cas de l’Administration portuaire de Hamilton, la Loi des commissaires du havre de Hamilton, la Loi sur les commissaires du havre de Hamilton (1951) et la *Loi de 1957 sur les commissaires du havre de Hamilton*,
-		- **(ii)** dans le cas de l’Administration portuaire de Toronto, la *Loi de 1911 concernant les commissaires du havre de Toronto* et la *Loi de 1985 sur les commissaires du havre de Toronto*,
-		- **(iii)** dans le cas de toute autre administration portuaire qui était une ou plusieurs commissions portuaires, la [Loi sur les commissions portuaires](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-1.md).
+- **(2)** À la date de délivrance des lettres patentes, la commission portuaire devient une administration portuaire et la [Loi sur les commissions portuaires](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-1.md) cesse de s’appliquer.
 
 **Maintien des droits et obligations**
 
-- **(3)** Les droits et obligations d’une administration portuaire qui, avant la délivrance de ses lettres patentes de prorogation, était une ou plusieurs commissions portuaires sont les suivants :
+- **(3)** Les droits et obligations d’une administration portuaire qui, avant la délivrance de ses lettres patentes, était une ou plusieurs commissions portuaires sont les suivants :
 	- **a)** la dénomination sociale de l’administration portuaire remplace celle de la commission portuaire dans les contrats, conventions collectives, baux, licences, permis et autres documents auxquels la commission est partie à l’égard du port;
 	- **b)** la gestion des immeubles fédéraux et des biens réels fédéraux, et des droits s’y rattachant, mentionnés dans les lettres patentes est confiée à l’administration portuaire;
 	- **c)** les immeubles et les biens réels, autres que les immeubles fédéraux et les biens réels fédéraux, que la commission occupait ou dont elle détenait le titre, sous son propre nom ou autrement, et qui sont mentionnés dans les lettres patentes, ainsi que les droits s’y rattachant, deviennent les biens et les droits de l’administration portuaire;
-	- **d)** les biens meubles et les droits s’y rattachant que la commission portuaire administre ou dont elle détient le titre pour le compte de Sa Majesté du chef du Canada — qu’elle le détienne sous son propre nom ou sous celui de Sa Majesté — deviennent des biens et droits de l’administration portuaire;
+	- **d)** les biens meubles ou biens personnels et les droits s’y rattachant que la commission portuaire administre ou dont elle détient le titre pour le compte de Sa Majesté du chef du Canada — qu’elle le détienne sous son propre nom ou sous celui de Sa Majesté — deviennent des biens et droits de l’administration portuaire;
 	- **e)** aucune atteinte n’est portée aux causes d’action ou réclamations déjà nées que pouvait exercer la commission portuaire — ou qui pouvaient l’être contre elle — , et aux responsabilités et obligations existantes de cette commission, toutefois les jugements ou ordonnances judiciaires rendus doivent d’abord être exécutés contre l’administration portuaire;
 	- **f)** les poursuites civiles, pénales ou administratives engagées par ou contre la commission portuaire se poursuivent par ou contre l’administration portuaire seulement;
 	- **g)** sous réserve de l’alinéa e), toute décision judiciaire ou quasi judiciaire rendue en faveur de la commission portuaire ou contre celle-ci est exécutoire par ou contre l’administration portuaire seulement.
-> 1998, ch. 10, art. 10; 2001, ch. 4, art. 136.
+> 1998, ch. 10, art. 10; 2001, ch. 4, art. 136; 2008, ch. 21, art. 7.
 
 
 
@@ -299,7 +309,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** la dénomination sociale de l’administration portuaire remplace celle de la société portuaire locale dans les contrats, conventions collectives, baux, licences, permis et autres documents auxquels la société portuaire locale, la Société canadienne des ports ou leurs prédécesseurs sont partie à l’égard du port;
 	- **b)** les immeubles et les biens réels, et les droits s’y rattachant, que la société portuaire locale administre ou dont elle détient le titre pour le compte de Sa Majesté du chef du Canada — qu’elle le détienne sous son propre nom ou sous celui de Sa Majesté — demeurent des biens et droits de Sa Majesté;
 	- **c)** la gestion des immeubles fédéraux et des biens réels fédéraux, et des droits s’y rattachant, mentionnés dans les lettres patentes est confiée à l’administration portuaire;
-	- **d)** les biens meubles et les droits s’y rattachant que la société portuaire locale administre ou dont elle détient le titre — qu’elle le détienne sous son propre nom ou sous celui de Sa Majesté — pour le compte de Sa Majesté du chef du Canada deviennent des biens et droits de l’administration portuaire;
+	- **d)** les biens meubles ou biens personnels et les droits s’y rattachant que la société portuaire locale administre ou dont elle détient le titre pour le compte de Sa Majesté du chef du Canada — qu’elle le détienne sous son propre nom ou sous celui de Sa Majesté — deviennent des biens et droits de l’administration portuaire;
 	- **e)** aucune atteinte n’est portée aux causes d’action ou réclamations déjà nées que pouvait exercer la société portuaire locale — ou qui pouvaient l’être contre elle — , et aux responsabilités et obligations existantes de cette société, toutefois les jugements et ordonnances judiciaires rendus doivent d’abord être exécutés contre l’administration portuaire;
 	- **f)** les poursuites civiles, pénales ou administratives engagées par ou contre la société portuaire locale se poursuivent par ou contre l’administration portuaire seulement;
 	- **g)** sous réserve de l’alinéa e), toute décision judiciaire ou quasi judiciaire rendue en faveur de la société portuaire locale ou contre celle-ci est exécutoire par ou contre l’administration portuaire seulement.
@@ -310,7 +320,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** la dénomination sociale de l’administration portuaire remplace celle de la Société canadienne des ports ou des sociétés qu’elle remplace dans les contrats, conventions collectives, baux, licences, permis et autres documents auxquels la Société ou une société remplacée est partie à l’égard du port;
 	- **b)** les immeubles et les biens réels, et les droits s’y rattachant, qui constituent le port et que la Société canadienne des ports administre ou dont elle détient le titre pour le compte de Sa Majesté du chef du Canada — qu’elle le détienne sous son propre nom ou sous celui de Sa Majesté — demeurent des biens et droits de Sa Majesté;
 	- **c)** la gestion des immeubles fédéraux et des biens réels fédéraux, et des droits s’y rattachant, mentionnés dans les lettres patentes est confiée à l’administration portuaire;
-	- **d)** les biens meubles et les droits s’y rattachant qui sont liés aux ports et que la Société canadienne des ports administre ou dont elle détient le titre — qu’elle le détienne sous son propre nom ou sous celui de Sa Majesté — pour le compte de Sa Majesté du chef du Canada deviennent des biens et droits de l’administration portuaire;
+	- **d)** les biens meubles ou biens personnels et les droits s’y rattachant qui sont liés aux ports et que la Société canadienne des ports administre ou dont elle détient le titre — qu’elle le détienne sous son propre nom ou sous celui de Sa Majesté — pour le compte de Sa Majesté du chef du Canada deviennent des biens et droits de l’administration portuaire;
 	- **e)** aucune atteinte n’est portée aux causes d’action ou réclamations déjà nées que pouvait exercer la Société canadienne des ports — ou qui pouvaient l’être contre elle — , et aux responsabilités et obligations existantes de cette société à l’égard du port, sauf dans la mesure où les jugements et ordonnances rendus doivent d’abord être exécutés contre l’administration portuaire;
 	- **f)** les poursuites civiles, pénales ou administratives engagées par ou contre la Société canadienne des ports à l’égard du port se poursuivent par ou contre l’administration portuaire seulement;
 	- **g)** sous réserve de l’alinéa e), toute décision judiciaire ou quasi judiciaire rendue en faveur de la Société canadienne des ports ou contre celle-ci à l’égard du port est exécutoire par ou contre l’administration portuaire seulement.
@@ -318,7 +328,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Détermination du périmètre portuaire par le ministre**
 
 - **(5)** Le ministre peut, pour l’application du paragraphe (4), fixer le périmètre du port non autonome qui devient régi par une administration portuaire et trancher toute question soulevée en matière de biens, de droits et d’obligations de l’administration.
-> 1998, ch. 10, art. 12; 2001, ch. 4, art. 137.
+> 1998, ch. 10, art. 12; 2001, ch. 4, art. 137; 2008, ch. 21, art. 8.
 
 
 
@@ -337,6 +347,29 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+### Fusion d’administrations portuaires
+
+
+
+**Administrateurs**
+
+**13.1** 
+
+- **(1)** Le gouverneur en conseil peut, durant la période commençant à la date où il ordonne à des administrations portuaires de fusionner et se terminant le jour précédant celui de la prise d’effet de la fusion, révoquer tout administrateur d’une administration portuaire fusionnante.
+
+**Paragraphe 14(2.3)**
+
+- **(2)** Le paragraphe 14(2.3) ne s’applique pas à l’administrateur de l’administration portuaire fusionnante qui est en poste à la date où le gouverneur en conseil ordonne la fusion.
+
+**Maintien en vigueur des droits existants**
+
+- **(3)** Les droits en vigueur à l’égard d’un port à la date de prise d’effet de la fusion demeurent en vigueur pendant une période de six mois sauf s’ils sont remplacés plus tôt au titre du paragraphe 49(1).
+> 2008, ch. 21, art. 9.
+
+
+
+
+
 ### Administrateurs
 
 
@@ -351,9 +384,29 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **c)** la ou les provinces mentionnées dans les lettres patentes nomment un ou deux administrateurs, selon ce que prévoient celles-ci;
 	- **d)** le gouverneur en conseil nomme les autres candidats dont la nomination est proposée par le ministre en consultation avec les utilisateurs qu’il choisit ou les catégories d’utilisateurs mentionnés dans les lettres patentes.
 
+**Administrateurs nommés par les municipalités et provinces**
+
+- **(1.1)** Si le poste à pourvoir au titre des alinéas (1)b) ou c) est vacant depuis plus d’un an, le gouverneur en conseil peut y nommer tout administrateur dont la nomination est proposée par le ministre.
+
 **Mandat**
 
-- **(2)** Les administrateurs sont nommés pour un mandat maximal de trois ans renouvelable une seule fois, ces mandats étant, dans la mesure du possible, échelonnés de manière que leur expiration au cours d’une même année touche au plus la moitié des administrateurs.
+- **(2)** Les administrateurs sont nommés pour un mandat maximal de trois ans renouvelable au plus deux fois, ces mandats étant, dans la mesure du possible, échelonnés de manière que leur expiration au cours d’une même année touche au plus la moitié des administrateurs.
+
+**Durée maximale du mandat**
+
+- **(2.1)** Un administrateur ne peut être en poste pendant plus de neuf années consécutives.
+
+**Prise d’effet**
+
+- **(2.2)** La nomination d’un administrateur prend effet à la date où l’avis de nomination est reçu par l’administration portuaire.
+
+**Prolongation du mandat**
+
+- **(2.3)** Sous réserve du paragraphe (2.1), s’il n’est pas pourvu à sa succession, le mandat de l’administrateur se prolonge jusqu’à son renouvellement ou la nomination de son remplaçant.
+
+**Administrateurs nommés par les municipalités et provinces**
+
+- **(2.4)** Sous réserve du paragraphe (2.1) et malgré le paragraphe (2), le mandat de l’administrateur nommé au titre du paragraphe (1.1) pour combler le poste d’administrateur visé aux alinéas (1)b) ou c) expire le jour de la nomination à ce poste d’un administrateur au titre de celui des alinéas qui est applicable.
 
 **Non-admissibilité**
 
@@ -370,6 +423,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Quorum**
 
 - **(6)** Sous réserve des lettres patentes, la majorité des administrateurs en fonction constitue le quorum; lorsque celui-ci est atteint, les administrateurs peuvent exercer leurs fonctions.
+> 1998, ch. 10, art. 14; 2008, ch. 21, art. 10.
+
 
 
 
@@ -392,13 +447,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **16** Les personnes suivantes ne peuvent être administrateurs d’une administration portuaire :
 - **a)** les maires, conseillers, dirigeants et employés des municipalités mentionnées dans les lettres patentes;
 - **b)** les députés de la législature d’une province mentionnée dans les lettres patentes et les dirigeants et employés de l’administration publique provinciale ou d’une société d’État provinciale;
-- **c)** les sénateurs et les députés fédéraux, et les dirigeants et employés de l’administration publique fédérale ou d’une société d’État fédérale;
+- **c)** les sénateurs et les députés fédéraux;
+- **c.1)** les dirigeants et employés de l’administration publique fédérale, d’une société d’État fédérale ou d’une administration portuaire;
 - **d)** les personnes qui ne sont pas résidents canadiens au sens du paragraphe 2(1) de la [Loi canadienne sur les sociétés par actions](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-44.md);
 - **e)** les administrateurs, dirigeants et employés d’un utilisateur du port;
 - **f)** les personnes âgées de moins de dix-huit ans;
 - **g)** les personnes atteintes d’une déficience mentale qui ont été reconnues comme telles par un tribunal même étranger;
 - **h)** les faillis non libérés.
-> 1998, ch. 10, art. 16; 2003, ch. 22, art. 113(A).
+> 1998, ch. 10, art. 16; 2003, ch. 22, art. 113(A); 2008, ch. 21, art. 11.
 
 
 
@@ -424,12 +480,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Le mandat d’un administrateur prend fin en raison :
 	- **a)** de son décès ou de sa démission;
-	- **b)** de sa révocation pour motif valable par décision de l’autorité qui l’a nommé — le gouverneur en conseil, les municipalités, la ou les provinces ou les autres administrateurs, selon le cas;
+	- **b)** de sa révocation pour motif valable par l’autorité qui l’a nommé — le gouverneur en conseil, les municipalités ou la ou les provinces, selon le cas;
 	- **c)** de son inhabilité à l’exercer, au sens de l’article 16.
 
 **Date de prise d’effet de la démission**
 
 - **(2)** La démission d’un administrateur prend effet à la date à laquelle l’administration portuaire reçoit sa lettre de démission ou à la date postérieure qui y est indiquée.
+> 1998, ch. 10, art. 19; 2008, ch. 21, art. 12.
+
 
 
 
@@ -454,6 +512,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Nomination du personnel**
 
 - **(3)** L’administration portuaire peut nommer le personnel qu’elle estime nécessaire au fonctionnement du port.
+
+
+
+
+**Délégation**
+
+**21.1** Sous réserve des lettres patentes, le conseil d’administration peut déléguer aux dirigeants ou à un comité constitué par les administrateurs les pouvoirs de gestion des activités de l’administration portuaire.
+> 2008, ch. 21, art. 13.
+
 
 
 
@@ -507,9 +574,24 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Interdiction de crédits**
 
-**25** Il ne peut être accordé à une administration portuaire ou à une filiale à cent pour cent d’une administration portuaire aucune somme par voie de crédit affecté par le Parlement pour lui permettre d’exécuter ses obligations :
-- **a)** même si l’administration portuaire ou la filiale est mandataire de Sa Majesté du chef du Canada au titre de l’article 7;
-- **b)** par dérogation à toute autorisation prévue par une autre loi, à l’exception de la [Loi sur les mesures d’urgence](/fr/Lois/Lois%20du%20Canada/1985/ch.%2022%20(4e%20suppl.).md), de toute autre loi en matière de situations d’urgence, d’une loi d’application générale permettant le versement de subventions ou de toute autorisation de financement visant à permettre à Sa Majesté d’exécuter les obligations découlant d’un accord existant au moment de l’entrée en vigueur du présent alinéa.
+**25** Sauf dans les cas ci-après, il ne peut être accordé à une administration portuaire ou à une filiale à cent pour cent d’une administration portuaire aucune somme par voie de crédit affecté par le Parlement pour lui permettre d’exécuter ses obligations, et ce même si l’administration portuaire ou la filiale est mandataire de Sa Majesté du chef du Canada au titre de l’article 7 :
+- **a)** la somme :
+	- **(i)** est versée au titre de la [Loi sur les mesures d’urgence](/fr/Lois/Lois%20du%20Canada/1985/ch.%2022%20(4e%20suppl.).md) ou de toute autre loi en matière de situation d’urgence,
+	- **(ii)** est une contribution au coût en capital d’un projet d’infrastructure,
+	- **(iii)** est une contribution versée pour la durabilité environnementale,
+	- **(iv)** est une contribution versée pour répondre à des exigences liées à la sûreté;
+- **b)** l’autorisation de financement visant à permettre à Sa Majesté d’exécuter les obligations découle d’un accord conclu avant le 1<sup>er</sup> mars 1999.
+> 1998, ch. 10, art. 25; 2008, ch. 21, art. 14.
+
+
+
+
+
+**Contribution**
+
+**25.1** Le ministre peut, avec l’approbation du gouverneur en conseil donnée sur recommandation du Conseil du Trésor et selon les modalités précisées par le gouverneur en conseil sur recommandation du Conseil du Trésor, verser toute contribution visée au sous-alinéa 25a)(iv).
+> 2008, ch. 21, art. 15.
+
 
 
 
@@ -531,7 +613,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **c)** en ce qui touche le contenu et la forme des documents à établir conformément au paragraphe 37(2) et les renseignements visés au paragraphe 37(3);
 	- **d)** pour fixer le plancher de rémunération visé à l’alinéa 37(3) c) et la méthode pour l’établir;
 	- **e)** en ce qui touche l’assurance que l’administration portuaire ou ses filiales à cent pour cent doivent maintenir;
-	- **f)** pour régir l’imposition d’obligations à une administration portuaire ou à ses filiales à cent pour cent à titre de mandataire de Sa Majesté du chef du Canada, notamment l’indemnisation par elles de Sa Majesté.
+	- **f)** pour régir l’imposition d’obligations à une administration portuaire ou à ses filiales à cent pour cent à titre de mandataire de Sa Majesté du chef du Canada, notamment l’indemnisation par elles de Sa Majesté;
+	- **g)** pour prévoir les renseignements et documents qu’une administration portuaire doit fournir au ministre à sa demande;
+	- **h)** en ce qui touche les fusions d’administrations portuaires.
 
 **Application**
 
@@ -540,6 +624,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Obligation de Sa Majesté**
 
 - **(3)** Les règlements pris en vertu du paragraphe (1) peuvent être rendus obligatoires pour Sa Majesté du chef du Canada ou d’une province.
+> 1998, ch. 10, art. 27; 2008, ch. 21, art. 16.
+
 
 
 
@@ -566,19 +652,23 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Réserves**
 
-- **(4)** L’administration portuaire ne peut exercer que les pouvoirs et activités commerciales que prévoient ses lettres patentes et de plus elle ne peut les exercer d’une façon incompatible avec les lettres patentes ou avec la présente loi.
+- **(4)** L’administration portuaire n’exerce que les pouvoirs et activités prévus par ses lettres patentes; elle ne peut les exercer d’une façon incompatible avec ces dernières ou avec la présente loi.
 
 **Capacité contractuelle**
 
 - **(5)** L’administration portuaire ou la filiale à cent pour cent d’une administration portuaire qui conclut un contrat autrement qu’à titre de mandataire de Sa Majesté du chef du Canada, y compris un contrat visant à emprunter des fonds, doit le faire sous son propre nom et indiquer expressément dans le contrat qu’elle le conclut pour son propre compte et non à titre de mandataire de Sa Majesté.
 
-**Contrat de sous-traitance**
+**Code régissant le pouvoir d’emprunt**
 
-- **(6)** Les administrateurs d’une administration portuaire doivent prendre toutes les mesures nécessaires pour veiller à ce que l’administration portuaire et toute filiale à cent pour cent de celle-ci se conforment au paragraphe (5) et que tout contrat de sous-traitance résultant directement ou indirectement d’un contrat visé à ce paragraphe indique expressément que l’administration portuaire ou la filiale, selon le cas, a conclu le contrat pour son propre compte et non à titre de mandataire de Sa Majesté du chef du Canada.
+- **(5.1)** L’administration portuaire assujettie à un code régissant le pouvoir d’emprunt qui, par contrat ou autre écrit, emprunte des fonds doit y indiquer expressément que l’emprunt est fait en conformité avec ce code.
+
+**Responsabilité des administrateurs**
+
+- **(6)** Les administrateurs d’une administration portuaire doivent prendre toutes les mesures nécessaires pour veiller à ce que celle-ci et ses filiales à cent pour cent se conforment aux paragraphes (5) et, s’il y a lieu, (5.1), et à ce que tout contrat de sous-traitance résultant directement ou indirectement d’un contrat visé au paragraphe (5) mentionne expressément que l’administration portuaire ou la filiale, selon le cas, conclut le contrat pour son propre compte et non à titre de mandataire de Sa Majesté du chef du Canada.
 
 **Limites au pouvoir d’emprunt**
 
-- **(7)** En cas de violation des paragraphes (5) ou (6), le ministre des Finances peut, sur recommandation du ministre des Transports, imposer les limites qu’il estime dans l’intérêt public au pouvoir d’emprunt de l’administration portuaire ou de la filiale concernée, notamment quant aux modalités de temps et aux conditions de l’opération d’emprunt.
+- **(7)** En cas de violation des paragraphes (5), (5.1) ou (6) ou de l’article 30.1, le ministre des Finances peut, sur recommandation du ministre des Transports, imposer au pouvoir d’emprunt de l’administration portuaire ou de la filiale concernée les limites qu’il estime dans l’intérêt public, notamment quant aux modalités de temps et aux conditions de l’opération d’emprunt.
 
 **Statut de non-mandataire de Sa Majesté**
 
@@ -602,7 +692,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Activités antérieures**
 
-- **(13)** La filiale à cent pour cent d’une administration portuaire peut continuer à exercer les pouvoirs et les activités commerciales qu’elle exerçait le 1<sup>er</sup> décembre 1995; les pouvoirs et les activités qu’elle cesse d’exercer après cette date ne peuvent être exercés de nouveau que si les lettres patentes le permettent.
+- **(13)** La filiale à cent pour cent d’une administration portuaire peut continuer à exercer les pouvoirs et les activités qu’elle exerçait le 1<sup>er</sup> décembre 1995; les pouvoirs et les activités qu’elle cesse d’exercer après cette date ne peuvent être exercés de nouveau que si les lettres patentes le lui permettent.
 
 **Restrictions**
 
@@ -612,7 +702,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **c)** d’acquérir la totalité ou la quasi-totalité des éléments d’actif d’une autre société;
 	- **d)** de vendre ou, de façon générale, céder les actions d’une filiale à cent pour cent d’une administration portuaire;
 	- **e)** de demander la dissolution ou la fusion d’une filiale à cent pour cent d’une administration portuaire.
-> 1998, ch. 10, art. 28; 2001, ch. 4, art. 138.
+> 1998, ch. 10, art. 28; 2001, ch. 4, art. 138; 2008, ch. 21, art. 17.
 
 
 
@@ -645,6 +735,25 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**Politique d’emprunt**
+
+**30.1** 
+
+- **(1)** Les administrateurs de l’administration portuaire assujettie à un code régissant le pouvoir d’emprunt certifient au ministre que la politique d’emprunt de celle-ci est conforme au code.
+
+**Changements à la politique d’emprunt**
+
+- **(2)** En cas de changement à cette politique, les administrateurs de l’administration portuaire certifient au ministre qu’elle est toujours conforme au code.
+
+**Copie au ministre**
+
+- **(3)** Ils fournissent une copie de la politique d’emprunt au ministre si ce dernier en fait la demande.
+> 2008, ch. 21, art. 18.
+
+
+
+
+
 **Pouvoir d’emprunt**
 
 **31** 
@@ -655,22 +764,22 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** Sauf disposition contraire des lettres patentes ou des règlements administratifs, le conseil d’administration peut, par résolution, déléguer les pouvoirs visés au paragraphe (1) à un comité constitué par les administrateurs.
 
-**Charge**
+**Sûreté**
 
-- **(3)** Sous réserve du paragraphe (4), l’administration portuaire ne peut grever les immeubles fédéraux et les biens réels fédéraux qu’elle gère ou détient d’une sûreté, notamment d’une hypothèque, sauf pour donner en gage une somme égale au revenu qu’elle en retire.
+- **(3)** Sous réserve du paragraphe (4), l’administration portuaire ne peut grever les immeubles fédéraux et les biens réels fédéraux qu’elle gère d’une sûreté, notamment d’une hypothèque; elle peut toutefois grever d’une sûreté le revenu qu’elle en retire.
 
 **Charge sur les accessoires**
 
 - **(4)** L’administration portuaire peut, si ses lettres patentes le permettent, grever d’une sûreté les accessoires fixés à demeure sur des immeubles fédéraux et des biens réels fédéraux, au même titre que Sa Majesté, et, à cette fin, peut établir et délivrer, au lieu de Sa Majesté, les documents requis.
 
-**Définition de « sûreté »**
+**Définition de sûreté**
 
-- **(5)** Pour l’application des paragraphes (3) et (4), ***sûreté*** s’entend d’un droit grevant les biens d’une administration portuaire pour garantir l’exécution de ses obligations.
+- **(5)** Pour l’application des paragraphes (3) et (4), ***sûreté*** s’entend d’un droit grevant les biens gérés par une administration portuaire pour garantir l’exécution de ses obligations ou d’un intérêt sur ceux-ci aux mêmes fins.
 
 **Application du droit provincial**
 
 - **(6)** Les concessions visées au paragraphe (4) peuvent être faites par un acte qui, en vertu des lois de la province de situation de l’immeuble fédéral ou du bien réel fédéral, peut servir à faire des concessions entre sujets de droit privé.
-> 1998, ch. 10, art. 31; 2001, ch. 4, art. 139.
+> 1998, ch. 10, art. 31; 2001, ch. 4, art. 139; 2008, ch. 21, art. 19.
 
 
 
@@ -754,7 +863,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Rémunération**
 
-- **(3)** Est mentionnée dans les états financiers annuels la rémunération totale de chacune des personnes suivantes, de même que les traitements, honoraires, indemnités ou tout autre avantage que l’administration portuaire ou l’une de ses filiales à cent pour cent leur verse :
+- **(3)** Est mentionnée dans les états financiers annuels la rémunération totale de chacune des personnes ci-après — notamment, honoraires, indemnités ou tout autre avantage — que l’administration portuaire ou l’une de ses filiales à cent pour cent leur verse en espèce ou en nature :
 	- **a)** les administrateurs;
 	- **b)** le premier dirigeant;
 	- **c)** les dirigeants et employés dont la rémunération est supérieure au plancher réglementaire.
@@ -766,6 +875,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Autres renseignements**
 
 - **(5)** Les administrations portuaires présentent au ministre les comptes, budgets, relevés, livres, rapports et autres renseignements que celui-ci peut exiger, y compris les renseignements relatifs à leurs éventuels éléments de passif ou à ceux de leurs filiales à cent pour cent, le cas échéant.
+> 1998, ch. 10, art. 37; 2008, ch. 21, art. 20.
+
 
 
 
@@ -790,7 +901,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Plan d’activités**
 
-**39** Les administrations portuaires présentent, tous les ans, au ministre un plan quinquennal d’activités et celui de chacune de leurs filiales à cent pour cent, le cas échéant, renfermant les renseignements que celui-ci peut exiger, notamment les changements importants à l’égard des renseignements fournis dans le plan d’activités antérieur.
+**39** Les administrations portuaires présentent au ministre, dans les trois mois suivant la fin de chaque exercice, le plan quinquennal de leurs activités et de celles de chacune de leurs filiales à cent pour cent, contenant les renseignements que le ministre peut exiger en ce qui concerne, notamment, les changements importants par rapport aux renseignements fournis dans le plan d’activités antérieur.
+> 1998, ch. 10, art. 39; 2008, ch. 21, art. 21.
+
 
 
 
@@ -875,15 +988,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **44** 
 
-- **(1)** Pour l’application de la [Loi sur les immeubles fédéraux et les biens réels fédéraux](/fr/Lois/Lois%20du%20Canada/1991/ch.%2050.md), le ministre a la gestion des immeubles fédéraux et des biens réels fédéraux qui se trouvent dans le port qu’une administration portuaire exploite en vertu de ses lettres patentes, à l’exception de ceux dont la gestion est confiée à un autre membre du Conseil privé de la Reine pour le Canada.
+- **(1)** Pour l’application de la [Loi sur les immeubles fédéraux et les biens réels fédéraux](/fr/Lois/Lois%20du%20Canada/1991/ch.%2050.md), le ministre a la responsabilité des immeubles fédéraux et des biens réels fédéraux qui se trouvent dans le port qu’une administration portuaire exploite en vertu de ses lettres patentes, à l’exception de ceux dont la responsabilité est confiée à un autre membre du Conseil privé de la Reine pour le Canada.
 
 **Pouvoir du ministre**
 
-- **(2)** Le ministre peut, par lettres patentes, confier à l’administration portuaire la gestion d’un immeuble fédéral ou d’un bien réel fédéral soit qui est géré par lui au titre du paragraphe (1), soit qui est géré par un membre du Conseil privé de la Reine pour le Canada, s’il a le consentement de ce membre.
+- **(2)** Le ministre peut, par lettres patentes ou lettres patentes supplémentaires, confier à l’administration portuaire la gestion d’un immeuble fédéral ou d’un bien réel fédéral qui est soit sous sa responsabilité au titre du paragraphe (1), soit sous celle d’un autre membre du Conseil privé de la Reine pour le Canada qui y a consenti.
 
-**Non-application de certaines autres lois**
+**Non-application**
 
-- **(3)** Lorsque le ministre confie la gestion d’un immeuble fédéral ou d’un bien réel fédéral à une administration portuaire, la [Loi sur les immeubles fédéraux et les biens réels fédéraux](/fr/Lois/Lois%20du%20Canada/1991/ch.%2050.md), à l’exception des articles 12 à 14 et des alinéas 16(1) a), g) et i) et (2) g), ne s’applique plus à ce bien.
+- **(3)** L’immeuble fédéral ou le bien réel fédéral dont la gestion est confiée à une administration portuaire par le ministre est soustrait à l’application de la [Loi sur les immeubles fédéraux et les biens réels fédéraux](/fr/Lois/Lois%20du%20Canada/1991/ch.%2050.md), mais demeure assujetti aux articles 3, 5, 12 à 14 et 16 de cette loi, dans la mesure où ces dispositions ne sont pas incompatibles avec la présente loi.
 
 **[Loi sur les biens de surplus de la Couronne](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-27.md)**
 
@@ -896,7 +1009,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Possession d’immeubles et de biens réels**
 
 - **(6)** Une administration portuaire ne peut gérer, occuper et détenir que les immeubles et les biens réels qui sont mentionnés dans ses lettres patentes.
-> 1998, ch. 10, art. 44; 2001, ch. 4, art. 140.
+> 1998, ch. 10, art. 44; 2001, ch. 4, art. 140; 2008, ch. 21, art. 22.
 
 
 
@@ -909,12 +1022,16 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(1)** Lorsque le ministre a confié la gestion d’immeubles fédéraux ou de biens réels fédéraux à l’administration portuaire, celle-ci :
 	- **a)** n’est pas tenue de payer pour leur utilisation;
 	- **b)** peut conserver et utiliser les recettes qu’ils génèrent pour l’exploitation du port;
-	- **c)** est tenue d’intenter les actions en justice qui s’y rapportent et de répondre à celles qui sont intentées contre elle;
+	- **c)** est tenue, sous réserve d’éventuelles instructions du procureur général du Canada, d’assurer la conduite de toute action en justice les concernant, en demande comme en défense;
 	- **d)** est tenue d’exécuter toutes les obligations qui s’y rattachent.
 
 **Procédures**
 
-- **(2)** Toute poursuite civile, pénale ou administrative relative à un immeuble fédéral ou à un bien réel fédéral dont la gestion a été confiée à une administration portuaire ou à tout autre bien qu’elle détient — ou à tout fait qui y survient — doit être engagée par cette administration portuaire ou contre elle, à l’exclusion de la Couronne.
+- **(2)** Toute poursuite civile, pénale ou administrative doit être engagée par l’administration portuaire ou contre elle — à l’exclusion de la Couronne — dans le cas où la poursuite est relative, selon le cas :
+	- **a)** à un bien meuble ou bien personnel de l’administration portuaire;
+	- **b)** à un immeuble fédéral ou un bien réel fédéral dont la gestion a été confiée à celle-ci;
+	- **c)** à tout immeuble ou bien réel qu’elle détient;
+	- **d)** à tout acte ou omission qui a un lien quelconque avec un bien meuble ou bien personnel visé à l’alinéa a) ou un immeuble ou bien réel visé aux alinéas b) et c).
 
 **Baux et permis**
 
@@ -924,10 +1041,29 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(3.1)** L’administration portuaire exerce les pouvoirs visés au paragraphe (3) au même titre que Sa Majesté et, à cette fin, peut établir et délivrer, au lieu de Sa Majesté, les documents requis.
 
+**Utilisation temporaire**
+
+- **(3.2)** L’administration portuaire peut au titre de l’alinéa 28(2)a) louer tout immeuble fédéral ou bien réel fédéral qu’elle gère ou accorder des permis à leur égard pour une utilisation temporaire.
+
 **Application du droit provincial**
 
 - **(4)** L’octroi d’un permis ou la location d’un immeuble fédéral ou d’un bien réel fédéral peuvent s’effectuer par un acte qui, en vertu des lois de la province où est situé le bien, peut servir à opérer l’octroi d’un permis ou la location d’un immeuble ou d’un bien réel entre sujets de droit privé.
-> 1998, ch. 10, art. 45; 2001, ch. 4, art. 141.
+> 1998, ch. 10, art. 45; 2001, ch. 4, art. 141; 2008, ch. 21, art. 23.
+
+
+
+
+
+**Acquisition d’immeubles et de biens réels**
+
+**45.1** 
+
+- **(1)** Dans le cas où Sa Majesté du chef du Canada acquiert, à la demande de l’administration portuaire, un immeuble ou bien réel que l’administration entend utiliser pour l’exploitation de son port, celle-ci peut en assumer le coût.
+
+**Retrait de la gestion**
+
+- **(2)** Dans le cas où la gestion de l’immeuble ou du bien réel est retirée à l’administration portuaire, celle-ci ne peut être indemnisée par Sa Majesté relativement au coût du bien.
+> 2008, ch. 21, art. 24.
 
 
 
@@ -937,11 +1073,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **46** 
 
-- **(1)** Sous réserve du paragraphe 45(3), une administration portuaire ne peut aliéner les immeubles fédéraux et les biens réels fédéraux dont la gestion lui est confiée; elle peut toutefois :
-	- **a)** sans que des lettres patentes supplémentaires ne soient délivrées, consentir à leur égard des emprises routières ou des servitudes ou permis pour des droits de passage ou d’accès ou des services publics;
+- **(1)** Sous réserve du paragraphe 45(3), une administration portuaire ne peut disposer des immeubles fédéraux et des biens réels fédéraux dont la gestion lui est confiée; elle peut toutefois :
+	- **a)** sans y être autorisée par lettres patentes supplémentaires, consentir à leur égard des emprises routières, des servitudes, des droits de passage, des permis d’accès ou des permis pour la prestation de services, notamment de services publics;
 	- **b)** dans la mesure où ses lettres patentes l’y autorisent :
-		- **(i)** les échanger contre des immeubles ou des biens réels de valeur marchande comparable à la condition que des lettres patentes supplémentaires soient délivrées et que celles-ci fassent mention que ces derniers deviennent des immeubles fédéraux ou des biens réels fédéraux,
-		- **(ii)** aliéner les accessoires fixés à demeure sur des immeubles fédéraux et des biens réels fédéraux.
+		- **(i)** les échanger contre des immeubles ou des biens réels de valeur comparable, à la condition que soient délivrées au préalable des lettres patentes supplémentaires faisant mention que ceux-ci sont considérés comme des immeubles fédéraux ou des biens réels fédéraux,
+		- **(ii)** disposer des accessoires fixés à demeure sur des immeubles fédéraux et des biens réels fédéraux.
 
 **Pouvoirs**
 
@@ -949,12 +1085,20 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Autres immeubles et biens réels**
 
-- **(2)** Une administration portuaire peut aliéner les immeubles et les biens réels qu’elle occupe ou détient, exception faite des immeubles fédéraux et des biens réels fédéraux, si des lettres patentes supplémentaires sont délivrées; elle peut toutefois — sans que des lettres patentes supplémentaires ne soient délivrées — consentir à leur égard des emprises routières ou des servitudes ou permis pour des droits de passage ou d’accès ou des services publics.
+- **(2)** Toute administration portuaire peut disposer des immeubles ou des biens réels qu’elle détient, autres que des immeubles fédéraux ou des biens réels fédéraux, si elle y est autorisée au préalable par lettres patentes supplémentaires; elle peut toutefois — même en l’absence de telles lettres patentes supplémentaires — consentir à leur égard des emprises routières, des servitudes, des droits de passage, des permis d’accès ou des permis pour la prestation de services, notamment de services publics.
+
+**Acquisition d’immeuble ou de bien réel**
+
+- **(2.1)** Toute administration portuaire peut acquérir ou louer à titre de locataire un immeuble ou un bien réel, autre qu’un immeuble fédéral ou un bien réel fédéral, ou acquérir un permis à leur égard, si elle y est autorisée au préalable par lettres patentes supplémentaires.
+
+**Utilisation temporaire**
+
+- **(2.2)** L’administration portuaire peut au titre de l’alinéa 28(2)b) louer tout immeuble ou bien réel, autre qu’un immeuble fédéral ou bien réel fédéral, qu’elle détient ou accorder des permis à leur égard pour une utilisation temporaire.
 
 **Application du droit provincial**
 
 - **(3)** Les concessions peuvent être faites par un acte qui, en vertu des lois de la province de situation de l’immeuble fédéral ou du bien réel fédéral, peut servir à faire des concessions entre sujets de droit privé.
-> 1998, ch. 10, art. 46; 2001, ch. 4, art. 141.
+> 1998, ch. 10, art. 46; 2001, ch. 4, art. 141; 2008, ch. 21, art. 25.
 
 
 
@@ -962,7 +1106,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Loi sur la protection des eaux navigables**
 
-**47** La Loi sur la protection des eaux navigables ne s’applique pas à un ouvrage, au sens de cette loi, auquel un règlement pris en vertu de l’article 62 de la présente loi s’applique.
+**47** La Loi sur la protection des eaux navigables ne s’applique pas aux ouvrages, au sens de cette loi, exemptés par règlement pris en vertu de l’article 62.
+> 1998, ch. 10, art. 47; 2008, ch. 21, art. 26.
+
 
 
 
@@ -1078,11 +1224,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Publication**
 
-- **(3)** Le préavis est publié dans un journal à grand tirage du lieu où est situé le port, envoyé par courrier ou par voie électronique aux organisations dont les membres, de l’avis de l’administration portuaire, seront touchés par les droits — nouveaux ou révisés — ainsi qu’à tout utilisateur ou toute personne ayant manifesté auprès de la société, au moins dix jours auparavant, le désir de recevoir les préavis exigés par la présente partie; il est aussi inscrit en un endroit accessible sur le réseau communément appelé Internet.
+- **(3)** Le préavis est publié dans un journal à grand tirage du lieu où est situé le port, envoyé par courrier ou par voie électronique aux organisations dont les membres, de l’avis de l’administration portuaire, seront touchés par les droits — nouveaux ou révisés — ainsi qu’à tout utilisateur ou toute personne lui ayant manifesté, au moins dix jours auparavant, le désir de recevoir les préavis exigés par la présente partie; il est aussi inscrit en un endroit accessible sur le réseau communément appelé Internet.
 
 **Exception**
 
 - **(4)** L’obligation de préavis mentionnée au présent article ne s’applique pas aux droits prévus par un contrat conclu en vertu de l’article 53.
+> 1998, ch. 10, art. 51; 2008, ch. 21, art. 27(F).
+
 
 
 
@@ -1091,18 +1239,22 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **52** 
 
-- **(1)** Tout intéressé peut déposer auprès de l’Office une plainte portant qu’un droit fixé aux termes du paragraphe 49(1) comporte une distinction injustifiée; l’Office examine la plainte sans délai et communique ses conclusions à l’administration portuaire qui est liée par celles-ci.
+- **(1)** Tout intéressé peut déposer auprès de l’Office une plainte portant qu’un droit fixé aux termes du paragraphe 49(1) opère une discrimination injustifiée; l’Office examine la plainte sans délai et communique ses conclusions à l’administration portuaire qui est liée par celles-ci.
 
 **Pouvoir de modification ou d’annulation du gouverneur en conseil**
 
 - **(2)** L’article 40 de la [Loi sur les transports au Canada](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md) s’applique, avec les adaptations nécessaires, aux conclusions de l’Office, comme s’il s’agissait d’une décision rendue en application de cette loi.
+> 1998, ch. 10, art. 52; 2008, ch. 21, art. 28(F).
+
 
 
 
 
 **Fixation des droits par contrat**
 
-**53** L’administration portuaire peut par contrat, que les parties peuvent convenir de garder confidentiel, accepter, pour les services visés aux alinéas 49(1) a) à c), des droits différents de ceux qui sont fixés aux termes de ces alinéas.
+**53** L’administration portuaire peut conclure un accord, que les parties peuvent convenir de garder confidentiel, dans lequel les sommes à percevoir par l’administration portuaire, pour les services visés aux alinéas 49(1)a) à c), sont différentes des droits fixés aux termes de ces alinéas.
+> 1998, ch. 10, art. 53; 2008, ch. 21, art. 29.
+
 
 
 
@@ -1156,10 +1308,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **56** 
 
 - **(1)** Afin de promouvoir la sécurité et l’efficacité de la navigation ou la protection de l’environnement dans les eaux du port, l’administration portuaire peut, sous réserve des règlements d’application de l’article 62 et à l’égard de navires ou de catégories de navires :
-	- **a)** contrôler la circulation des navires qui se trouvent dans les eaux du port ou s’apprêtent à y entrer;
+	- **a)** surveiller la circulation des navires qui se trouvent dans les eaux du port ou s’apprêtent à y entrer;
 	- **b)** normaliser les pratiques et procédures que doivent suivre les navires;
 	- **c)** rendre obligatoire à bord des navires la présence de l’équipement permettant l’utilisation de certaines fréquences radio déterminées;
-	- **d)** créer des zones de contrôle de la circulation portuaire pour l’application des alinéas a) à c).
+	- **d)** créer des zones de contrôle de la circulation pour l’application des alinéas a) à c).
 
 **Autorisation d’entrer dans les eaux d’un port**
 
@@ -1170,8 +1322,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Normes nationales**
 
-- **(3)** Sous réserve des règlements d'application de l'article 62, les pratiques et procédures normalisées par une administration portuaire au titre du paragraphe (1) ne peuvent être incompatibles avec les normes et pratiques nationales relatives aux services de trafic maritime, notamment celles établies en vertu de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md).
-> 1998, ch. 10, art. 56; 2001, ch. 26, art. 276.
+- **(3)** Sous réserve des règlements d’application de l’article 62, les pratiques et procédures normalisées par une administration portuaire au titre du paragraphe (1) ne peuvent être incompatibles avec les normes et pratiques nationales relatives aux services de trafic maritime, notamment celles établies en vertu de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md).
+> 1998, ch. 10, art. 56; 2001, ch. 26, art. 276; 2008, ch. 21, art. 30(F).
 
 
 
@@ -1208,13 +1360,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Circulation portuaire**
+**Circulation**
 
 **58** 
 
-- **(1)** Pour promouvoir la sécurité et l’efficacité de la navigation ou la protection de l’environnement, l’administration portuaire peut désigner des personnes, nommément ou au titre de leur appartenance à une catégorie, pour exercer les fonctions suivantes à l’égard des navires qui se trouvent dans le port ou un secteur de celui-ci ou s’apprêtent à y entrer :
+- **(1)** Pour promouvoir la sécurité et l’efficacité de la navigation ou la protection de l’environnement, l’administration portuaire peut désigner, nommément ou au titre de son appartenance à une catégorie, toute personne — à laquelle il remet un certificat de désignation — pour exercer les fonctions ci-après à l’égard des navires qui se trouvent dans le port ou un secteur de celui-ci ou s’apprêtent à y entrer :
 	- **a)** donner une autorisation de mouvement à ces navires, leur permettant d’entrer dans le port ou l’un de ses secteurs, d’en sortir ou de s’y déplacer;
-	- **b)** ordonner au capitaine, au pilote, à l’officier de quart à la passerelle ou à toute autre personne responsable du navire de fournir les renseignements précisés par l’agent concernant le navire;
+	- **b)** ordonner à toute personne responsable du navire — notamment capitaine et officier de quart à la passerelle — ou au pilote de fournir les renseignements précisés par l’agent concernant le navire;
 	- **c)** ordonner à un navire d’utiliser dans ses communications avec la station portuaire ou avec d’autres navires des fréquences radio déterminées;
 	- **d)** sous réserve du paragraphe (2), ordonner à un navire de — au moment indiqué ou pendant la période indiquée :
 		- **(i)** soit quitter le quai, le poste ou l’installation portuaire où il se trouve,
@@ -1225,20 +1377,20 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** La personne désignée en vertu du paragraphe (1) ne peut ordonner à un navire d’effectuer les manœuvres prévues à l’alinéa (1) d) que lorsqu’elle a des motifs raisonnables de croire à l’existence de l’une des conditions suivantes :
 	- **a)** l’absence de disponibilité de poste;
-	- **b)** un problème de pollution ou un risque sérieux de pollution dans la zone;
+	- **b)** un problème de pollution ou un risque sérieux de pollution dans la zone de contrôle de la circulation;
 	- **c)** la proximité d’animaux dont le bien-être peut être mis en danger par les mouvements du navire;
-	- **d)** la présence d’obstacles à la navigation dans la zone;
-	- **e)** la proximité d’un navire apparemment en difficulté ou qui représente un risque de pollution ou constitue un danger pour la vie ou la propriété;
-	- **f)** la proximité d'un navire qui se déplace de façon dangereuse, dont l'équipement de navigation ou de radiocommunication est défectueux ou qui n'est pas muni des cartes et documents exigés par les règlements pris en vertu de l'alinéa 120(1)b) de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md);
+	- **d)** la présence d’obstacles à la navigation dans la zone de contrôle de la circulation;
+	- **e)** la proximité d’un navire apparemment en difficulté ou qui présente un risque de pollution ou un danger pour les personnes et les biens;
+	- **f)** la proximité d’un navire qui se déplace de façon dangereuse, dont l’équipement de navigation ou de radiocommunication est défectueux ou qui n’est pas muni des cartes et documents exigés par les règlements pris en vertu de l’alinéa 120(1)b) de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md);
 	- **g)** la trop forte densité de la circulation qui constitue un risque inacceptable pour la navigation, le public ou l’environnement;
 	- **h)** l’efficacité des opérations portuaires peut être compromise.
 
 **Interdiction**
 
 - **(3)** Il est interdit à un navire :
-	- **a)** dans les cas où il est tenu d’obtenir une autorisation de mouvement, d’entrer dans un port ou dans une zone de circulation portuaire de ce port, d’en sortir ou de s’y déplacer sans avoir obtenu une telle autorisation sous le régime du présent article;
+	- **a)** dans les cas où il est tenu d’obtenir une autorisation de mouvement, d’entrer dans un port ou dans une zone de contrôle de la circulation de ce port, d’en sortir ou de s’y déplacer sans avoir obtenu une telle autorisation sous le régime du présent article;
 	- **b)** dans les cas où il est tenu de maintenir la communication directe avec une personne nommée en vertu du paragraphe (1), de se déplacer dans un port sans être capable de maintenir la communication.
-> 1998, ch. 10, art. 58; 2001, ch. 26, art. 277.
+> 1998, ch. 10, art. 58; 2001, ch. 26, art. 277; 2008, ch. 21, art. 31.
 
 
 
@@ -1249,20 +1401,22 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **59** 
 
 - **(1)** Sous réserve du paragraphe (2), commet une infraction et encourt une amende maximale de 5 000 $ lorsque l’infraction concerne un navire d’une longueur de vingt mètres ou moins et de 50 000 $ lorsque l’infraction concerne un navire d’une longueur de plus de vingt mètres, la personne ou le navire qui :
-	- **a)** soit ne se conforme pas aux formalités et procédures établies en vertu de l’alinéa 56(1) b) ou n’a pas à bord l’équipement permettant l’utilisation des fréquences déterminées par l’administration portuaire en vertu de cet alinéa;
+	- **a)** soit ne se conforme pas aux pratiques et procédures établies en vertu de l’alinéa 56(1)b) ou n’a pas à bord l’équipement permettant l’utilisation des fréquences déterminées par l’administration portuaire en vertu de cet alinéa;
 	- **b)** soit ne se conforme pas aux ordres qu’une personne lui donne en vertu du paragraphe 58(1);
 	- **c)** soit ne se conforme pas au paragraphe 58(3);
 	- **d)** soit fait sciemment à la personne nommée en vertu du paragraphe 58(1), oralement ou par écrit, une déclaration fausse ou trompeuse.
 
 **Moyen de défense**
 
-- **(2)** Constitue un moyen de défense à une accusation pour une infraction visée au paragraphe (1) le fait, pour le capitaine, le pilote, l’officier de quart à la passerelle ou toute autre personne responsable du navire :
+- **(2)** Constitue un moyen de défense à une accusation pour une infraction visée au paragraphe (1) le fait, pour le capitaine, l’officier de quart à la passerelle ou toute autre personne responsable du navire ou pour le pilote :
 	- **a)** d’avoir eu des motifs raisonnables de croire qu’obéir aurait mis en danger des vies, le navire, un autre navire ou tout autre bien;
 	- **b)** dans le cas d’une accusation pour une infraction visée à l’alinéa (1) b), d’avoir avisé la personne nommée en vertu du paragraphe 58(1) aussitôt que possible de la contravention et de ses motifs d’agir ainsi.
 
 **Preuve d’une infraction par un navire**
 
-- **(3)** Lorsqu’un navire est poursuivi pour infraction au présent article, il suffit pour établir l’infraction de prouver que l’acte ou la négligence qui la constitue est le fait du capitaine ou d’une autre personne à bord du navire, que celle-ci soit identifiée ou non.
+- **(3)** Lorsqu’un navire est poursuivi pour infraction au présent article, il suffit pour établir l’infraction de prouver que l’acte ou l’omission qui la constitue est le fait du capitaine ou d’une autre personne à bord du navire, que celle-ci soit identifiée ou non.
+> 1998, ch. 10, art. 59; 2008, ch. 21, art. 32.
+
 
 
 
@@ -1280,7 +1434,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Maintien de l’ordre et de la sécurité des personnes et des biens**
 
-**61** Sous réserve des règlements d’application de l’article 62, les administrations portuaires sont tenues de prendre les mesures nécessaires en vue du maintien de l’ordre et de la sécurité des personnes et des biens dans le port.
+**61** 
+
+- **(1)** Sous réserve des règlements d’application de l’article 62, les administrations portuaires sont tenues de prendre les mesures nécessaires en vue du maintien de l’ordre et de la sécurité des personnes et des biens dans le port.
+
+**Sûreté du transport maritime**
+
+- **(2)** Sous réserve des règlements pris en vertu de la [Loi sur la sûreté du transport maritime](/fr/Lois/Lois%20du%20Canada/1994/ch.%2040.md), les administrations portuaires sont tenues de prendre les mesures nécessaires en vue du maintien de la sûreté du transport maritime.
+> 1998, ch. 10, art. 61; 2008, ch. 21, art. 33.
+
 
 
 
@@ -1296,12 +1458,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **(1)** Pour l’application de la présente partie, le gouverneur en conseil peut prendre des règlements concernant :
 	- **a)** la navigation et l’usage des eaux navigables par les navires dans le port, y compris le mouillage, l’amarrage, le chargement et le déchargement de ceux-ci, ainsi que l’équipement de chargement et de déchargement;
 	- **b)** l’usage du port, la protection de son environnement, y compris la réglementation ou l’interdiction de l’équipement, de bâtiments, d’ouvrages ou d’activités;
-	- **c)** l’enlèvement, la destruction ou l’aliénation de navires ou de toutes parties s’en étant détachées, de bâtiments, d’ouvrages ou d’autres choses qui gênent la navigation dans le port et le recouvrement des coûts afférents;
+	- **c)** l’enlèvement ou la disposition, notamment par destruction, de navires ou de toutes parties s’en étant détachées, de bâtiments, d’ouvrages ou d’autres choses qui gênent la navigation dans le port, et le recouvrement des coûts afférents;
 	- **d)** le maintien de l’ordre et la sécurité des personnes et des biens dans le port;
+	- **d.1)** les renseignements et documents que doit fournir le propriétaire ou la personne responsable du navire à l’administration portuaire;
 	- **e)** la réglementation des personnes, véhicules et aéronefs dans le port;
 	- **f)** la réglementation — y compris l’interdiction — de l’excavation, de l’enlèvement ou du dépôt de matériaux ou de toute autre activité de nature à avoir un effet quelconque sur la navigabilité d’un port ou sur les terrains voisins;
 	- **g)** la réglementation — y compris l’interdiction — du transport, de la manipulation et du stockage dans le port d’explosifs ou d’autres substances qui, à son avis, constituent un danger — réel ou potentiel — pour les personnes ou les biens;
-	- **h)** l’obligation de gérance d’une administration portuaire à l’égard des immeubles fédéraux et des biens réels fédéraux confiés à sa gestion.
+	- **h)** les obligations d’une administration portuaire à l’égard des immeubles fédéraux et des biens réels fédéraux placés sous sa gestion.
 
 **Application**
 
@@ -1314,7 +1477,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Mesure transitoire**
 
 - **(4)** Sous réserve du paragraphe 49(6), les règlements pris avant l’entrée en vigueur du présent article relativement à un port visé par les lettres patentes délivrées à une administration portuaire sont, dans la mesure de leur compatibilité avec la présente loi, maintenus en vigueur pour une période prenant fin à la date du premier anniversaire de la prise d’effet des lettres patentes ou, si elle est antérieure, à la date à laquelle de nouveaux règlements sont pris en vertu du paragraphe (1) relativement à ce port en remplacement des premiers.
-> 1998, ch. 10, art. 62; 2001, ch. 4, art. 143.
+> 1998, ch. 10, art. 62; 2001, ch. 4, art. 143; 2008, ch. 21, art. 34.
 
 
 
@@ -1366,7 +1529,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **65** 
 
 - **(1)** Le gouverneur en conseil peut, par règlement :
-	- **a)** désigner port public tout plan d’eau navigable relevant du Parlement, y compris l’estran;
+	- **a)** désigner comme port public tout plan d’eau navigable relevant du Parlement de même que le fond de ce plan d’eau s’il est sous la responsabilité du ministre, y compris l’estran;
 	- **b)** fixer le périmètre de tout port public;
 	- **c)** désigner publiques des installations portuaires sous la gestion du ministre.
 
@@ -1393,6 +1556,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Continuité des décrets**
 
 - **(7)** Les décrets d’exclusion pris en vertu du paragraphe 8(2) de la Loi sur les ports et installations portuaires publics sont assimilés à des règlements d’abrogation pris en vertu du paragraphe (6) et restent en vigueur jusqu’à leur abrogation en vertu de ce même paragraphe.
+> 1998, ch. 10, art. 65; 2008, ch. 21, art. 35.
+
 
 
 
@@ -1401,16 +1566,16 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **66** 
 
-- **(1)** Pour l’application de la [Loi sur les immeubles fédéraux et les biens réels fédéraux](/fr/Lois/Lois%20du%20Canada/1991/ch.%2050.md), le ministre est chargé de la gestion des immeubles fédéraux et des biens réels fédéraux qui font partie des ports publics ou des installations portuaires publiques.
+- **(1)** Pour l’application de la [Loi sur les immeubles fédéraux et les biens réels fédéraux](/fr/Lois/Lois%20du%20Canada/1991/ch.%2050.md), le ministre a la responsabilité des immeubles fédéraux et des biens réels fédéraux qui font partie des ports publics ou des installations portuaires publiques.
 
 **Autres ports et installations**
 
-- **(2)** Le ministre n’a pas la gestion des immeubles fédéraux et des biens réels fédéraux qui sont placés sous la gestion d’un autre membre du Conseil privé de la Reine pour le Canada.
+- **(2)** Le ministre n’a pas la responsabilité des immeubles fédéraux et des biens réels fédéraux qui sont placés sous la responsabilité d’un autre membre du Conseil privé de la Reine pour le Canada.
 
 **Pouvoir du ministre**
 
-- **(3)** Il est entendu que l’abrogation de la désignation de port public ou d’installation portuaire publique ne porte pas atteinte au pouvoir de gestion du ministre en vertu de la [Loi sur les immeubles fédéraux et les biens réels fédéraux](/fr/Lois/Lois%20du%20Canada/1991/ch.%2050.md) sur les immeubles et les biens réels qui faisaient partie du port ou de l’installation et qui appartiennent à Sa Majesté.
-> 1998, ch. 10, art. 66; 2001, ch. 4, art. 144.
+- **(3)** Il est entendu que l’abrogation de la désignation de port public ou d’installation portuaire publique est sans effet sur la responsabilité du ministre, en vertu de la [Loi sur les immeubles fédéraux et les biens réels fédéraux](/fr/Lois/Lois%20du%20Canada/1991/ch.%2050.md), à l’égard des immeubles fédéraux et des biens réels fédéraux qui faisaient partie du port ou de l’installation et qui appartiennent à Sa Majesté.
+> 1998, ch. 10, art. 66; 2001, ch. 4, art. 144; 2008, ch. 21, art. 36(F).
 
 
 
@@ -1459,7 +1624,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **69** 
 
-- **(1)** Pour la totalité ou une partie d’un port public ou d’une installation portuaire publique, le ministre peut nommer, en qualité de directeur de port ou de gardien de quai, toute personne qu’il estime qualifiée et déterminer ses responsabilités.
+- **(1)** Pour tout ou partie d’un port public ou d’une installation portuaire publique, le ministre peut nommer, en qualité de directeur de port ou de gardien de quai, toute personne qu’il estime qualifiée et déterminer ses responsabilités, notamment celle de percevoir les droits et les intérêts y afférents.
 
 **Rémunération**
 
@@ -1468,6 +1633,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Disposition transitoire**
 
 - **(3)** Les nominations à titre de directeur de port ou de gardien de quai faites par le ministre en vertu du paragraphe 11(2) de la Loi sur les ports et installations portuaires publics et les rémunérations fixées par le gouverneur en conseil en vertu du paragraphe 11(3) de cette loi et attachées à ces nominations demeurent en vigueur comme si elles avaient été faites ou fixées en vertu du présent article.
+> 1998, ch. 10, art. 69; 2008, ch. 21, art. 37.
+
 
 
 
@@ -1491,23 +1658,23 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **71** 
 
-- **(1)** Par dérogation à la [Loi sur les immeubles fédéraux et les biens réels fédéraux](/fr/Lois/Lois%20du%20Canada/1991/ch.%2050.md), le ministre peut louer les immeubles fédéraux et les biens réels fédéraux qui font ou faisaient partie d’un port public ou d’installations portuaires publiques ou accorder des permis à leur égard, les baux d’une durée supérieure à vingt ans devant être approuvés par le gouverneur en conseil.
+- **(1)** Par dérogation à la [Loi sur les immeubles fédéraux et les biens réels fédéraux](/fr/Lois/Lois%20du%20Canada/1991/ch.%2050.md), le ministre peut louer les immeubles fédéraux et les biens réels fédéraux qui font ou faisaient partie d’un port public ou d’installations portuaires publiques ou accorder des permis à leur égard qui, comme les baux, doivent être approuvés par le gouverneur en conseil, si leur durée est supérieure à vingt ans.
 
 **Application du droit provincial**
 
 - **(2)** L’octroi d’un permis ou la location d’un immeuble fédéral ou d’un bien réel fédéral peuvent s’effectuer par un acte qui, en vertu des lois de la province où est situé le bien, peut servir à opérer l’octroi d’un permis ou la location d’un immeuble ou d’un bien réel entre sujets de droit privé.
-> 1998, ch. 10, art. 71; 2001, ch. 4, art. 145.
+> 1998, ch. 10, art. 71; 2001, ch. 4, art. 145; 2008, ch. 21, art. 38(F).
 
 
 
 
 
-**Pouvoir d’aliénation**
+**Pouvoir de disposition**
 
 **72** 
 
 - **(1)** Le ministre peut conclure des ententes en vue :
-	- **a)** de l’aliénation, par vente ou tout autre mode de cession, de la totalité ou d’une partie des immeubles fédéraux et des biens réels fédéraux qui faisaient partie d’un port public ou d’installations portuaires publiques;
+	- **a)** de la disposition, par vente ou tout autre mode de cession, de la totalité ou d’une partie des immeubles fédéraux et des biens réels fédéraux qui faisaient partie d’un port public ou d’installations portuaires publiques;
 	- **b)** du transfert à Sa Majesté du chef de la province de la gestion et de la maîtrise de la totalité ou d’une partie des immeubles fédéraux et des biens réels fédéraux qui faisaient partie d’un port public ou des installations portuaires publiques.
 
 **Contenu des ententes**
@@ -1526,22 +1693,20 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(4)** Le ministre peut prendre les mesures qu’il estime indiquées pour mettre en œuvre les ententes et protéger les intérêts ou faire respecter les droits de Sa Majesté au titre de l’entente.
 
-**Aliénation et transfert**
+**Disposition et transfert**
 
-- **(5)** Les aliénations et les transferts peuvent être effectués sous le régime du présent article ou en conformité avec la [Loi sur les immeubles fédéraux et les biens réels fédéraux](/fr/Lois/Lois%20du%20Canada/1991/ch.%2050.md).
+- **(5)** Les dispositions et les transferts peuvent être effectués sous le régime du présent article ou en conformité avec la [Loi sur les immeubles fédéraux et les biens réels fédéraux](/fr/Lois/Lois%20du%20Canada/1991/ch.%2050.md).
 
 **Application du droit provincial**
 
-- **(6)** Les immeubles fédéraux et les biens réels fédéraux visés au présent article peuvent être aliénés ou transférés par un acte qui, en vertu des lois de la province où sont situés ces biens, peut servir à opérer l’aliénation ou le transfert d’immeubles ou de biens réels entre sujets de droit privé.
+- **(6)** La disposition ou le transfert des immeubles fédéraux et des biens réels fédéraux visés au présent article est fait par un acte qui, en vertu des lois de la province où ils sont situés, peut servir à opérer la disposition ou le transfert d’immeubles ou de biens réels entre sujets de droit privé.
 
-**Rapports au Parlement**
-
-- **(7)** Pour chacun des quatre exercices qui suivent l’entrée en vigueur du présent article, le ministre établit un rapport sur les mesures d’aliénation et de transfert prises au cours de l’exercice ainsi que sur la gestion des ports publics et des installations portuaires publiques et le fait déposer devant chaque chambre du Parlement dans les trois mois suivant la fin de l’exercice ou, si elle ne siège pas, dans les quinze premiers jours de séance ultérieurs.
+- **(7)** [Abrogé, 2008, ch. 21, art. 39]
 
 **Gestion ministérielle**
 
-- **(8)** Le ministre conserve, sous réserve des règlements d’application de l’article 74, la gestion des ports et des installations portuaires publiques qu’il n’a ni aliénés ni transférés.
-> 1998, ch. 10, art. 72; 2001, ch. 4, art. 146.
+- **(8)** Le ministre conserve, sous réserve des règlements pris en vertu de l’article 74, la gestion des ports et des installations portuaires publiques qui n’ont fait l’objet ni de disposition ni de transfert.
+> 1998, ch. 10, art. 72; 2001, ch. 4, art. 146; 2008, ch. 21, art. 39.
 
 
 
@@ -1553,7 +1718,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Loi sur la protection des eaux navigables**
 
-**73** La Loi sur la protection des eaux navigables ne s’applique pas à un ouvrage, au sens de cette loi, auquel un règlement pris en vertu de l’article 74 de la présente loi s’applique.
+**73** La Loi sur la protection des eaux navigables ne s’applique pas aux ouvrages, au sens de cette loi, exemptés par règlement pris en vertu de l’article 74.
+> 1998, ch. 10, art. 73; 2008, ch. 21, art. 40.
+
 
 
 
@@ -1566,11 +1733,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **74** 
 
-- **(1)** Le gouverneur en conseil peut prendre des règlements en vue de la gestion, du contrôle, de l’exploitation et de l’utilisation des ports publics et des installations portuaires publiques, notamment dans les domaines suivants :
+- **(1)** Le gouverneur en conseil peut prendre des règlements en vue de la gestion, du contrôle, du développement et de l’utilisation des ports publics et des installations portuaires publiques, notamment dans les domaines suivants :
 	- **a)** la navigation et l’usage d’un port par les navires, y compris leur mouillage, amarrage, chargement et déchargement, ainsi que l’équipement de chargement et de déchargement;
 	- **b)** l’usage de ces ports et installations et la protection de leur environnement, y compris la réglementation ou l’interdiction de l’équipement, de bâtiments, d’ouvrages ou d’activités;
-	- **c)** l’enlèvement, la destruction ou l’aliénation de navires ou de toutes parties s’en étant détachées, de bâtiments, d’ouvrages ou d’autres choses qui gênent la navigation dans ces ports et le recouvrement des coûts afférents;
+	- **c)** l’enlèvement ou la disposition, notamment par destruction, de navires ou de toutes parties s’en étant détachées, de bâtiments, d’ouvrages ou d’autres choses qui gênent la navigation dans ces ports, et le recouvrement des coûts afférents;
 	- **d)** le maintien de l’ordre et la sécurité des personnes et des biens dans le périmètre de ces ports ou aux installations;
+	- **d.1)** les renseignements et documents que doit fournir le propriétaire ou la personne responsable du navire au ministre;
 	- **e)** la réglementation des personnes, véhicules et aéronefs dans le périmètre de ces ports ou aux installations;
 	- **f)** la réglementation — y compris l’interdiction — de l’excavation, de l’enlèvement ou du dépôt de matériaux ou de toute autre activité de nature à avoir un effet quelconque sur la navigabilité du port ou sur l’exploitation des installations portuaires ou sur les terrains voisins;
 	- **g)** la réglementation — y compris l’interdiction — du transport, de la manipulation ou du stockage, dans le périmètre de ces ports ou aux installations, d’explosifs ou d’autres substances qui, à son avis, constituent un danger — réel ou potentiel — pour les personnes ou les biens.
@@ -1582,6 +1750,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Obligation de Sa Majesté**
 
 - **(3)** Les règlements pris en vertu du paragraphe (1) peuvent être rendus obligatoires pour Sa Majesté du chef du Canada ou d’une province.
+> 1998, ch. 10, art. 74; 2008, ch. 21, art. 41.
+
 
 
 
@@ -1737,7 +1907,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **82** Dans la mesure où l’entente visée au paragraphe 80(5) le prévoit et si le ministre l’a annoncé par avis publié dans la Gazette du Canada, les droits et obligations de la personne qui a conclu l’entente sont les suivants :
 - **a)** le nom de la personne remplace celui de l’Administration dans les contrats, conventions collectives, baux, licences, permis et autres documents auxquels l’Administration est partie, à l’exception de ceux que le ministre mentionne expressément, nommément ou par catégorie, dans l’entente et l’avis;
-- **b)** les biens meubles et les droits s’y rattachant que l’Administration administre ou dont elle détient le titre pour le compte de Sa Majesté du chef du Canada — qu’elle détienne le titre en son propre nom ou au nom de Sa Majesté — deviennent des biens et droits de cette personne, à l’exception de ceux que le ministre mentionne expressément, nommément ou par catégorie, dans l’entente et l’avis.
+- **b)** les biens meubles ou biens personnels et les droits s’y rattachant que l’Administration administre ou dont elle détient le titre pour le compte de Sa Majesté du chef du Canada — qu’elle détienne le titre en son propre nom ou au nom de Sa Majesté — deviennent des biens et droits de cette personne, à l’exception de ceux que le ministre mentionne expressément, nommément ou par catégorie, dans l’entente et l’avis.
+> 1998, ch. 10, art. 82; 2008, ch. 21, art. 42.
+
 
 
 
@@ -1884,8 +2056,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **[Loi sur les immeubles fédéraux et les biens réels fédéraux](/fr/Lois/Lois%20du%20Canada/1991/ch.%2050.md)**
 
-**90** Pour l’application de la [Loi sur les immeubles fédéraux et les biens réels fédéraux](/fr/Lois/Lois%20du%20Canada/1991/ch.%2050.md), le ministre et les autres membres du Conseil privé de la Reine pour le Canada sont chargés de la gestion de tous les immeubles et biens réels qui leur sont transférés en vertu des paragraphes 80(1) ou (2).
-> 1998, ch. 10, art. 90; 2001, ch. 4, art. 148.
+**90** Pour l’application de la [Loi sur les immeubles fédéraux et les biens réels fédéraux](/fr/Lois/Lois%20du%20Canada/1991/ch.%2050.md), le ministre ou tout autre membre du Conseil privé de la Reine pour le Canada est responsable de tous les immeubles fédéraux et biens réels fédéraux qui lui sont transférés en vertu des paragraphes 80(1) ou (2).
+> 1998, ch. 10, art. 90; 2001, ch. 4, art. 148; 2008, ch. 21, art. 43(F).
 
 
 
@@ -1904,7 +2076,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Procédures**
 
-- **(2)** Toute poursuite civile, pénale ou administrative relative à un immeuble ou un bien réel dont la gestion a été confiée à une personne qui a conclu une entente en vertu du paragraphe 80(5) ou à tout autre bien qu’elle détient — ou à tout fait qui y survient — doit être engagée soit par cette personne, soit contre celle-ci à l’exclusion de la Couronne.
+- **(2)** Toute poursuite civile, pénale ou administrative relative à un immeuble ou un bien réel dont la gestion a été confiée à une personne qui a conclu une entente en vertu du paragraphe 80(5) ou à tout autre bien qu’elle détient — ou à tout acte ou omission qui y survient — doit être engagée soit par cette personne, soit contre celle-ci à l’exclusion de la Couronne.
 
 **Non-application de la [Loi sur les immeubles fédéraux et les biens réels fédéraux](/fr/Lois/Lois%20du%20Canada/1991/ch.%2050.md)**
 
@@ -1917,7 +2089,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Charge**
 
 - **(5)** La personne qui a conclu une entente en vertu du paragraphe 80(5) ne peut grever d’une sûreté, notamment par hypothèque, les biens qu’elle gère au titre de cette entente sauf pour donner en gage une somme égale à son revenu pour la durée de l’entente et dans les cas où celle-ci le prévoit.
-> 1998, ch. 10, art. 91; 2001, ch. 4, art. 149.
+> 1998, ch. 10, art. 91; 2001, ch. 4, art. 149; 2008, ch. 21, art. 44(F).
 
 
 
@@ -1965,11 +2137,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Plaintes**
 
-- **(2)** Tout intéressé peut déposer auprès de l’Office une plainte portant qu’un droit visé au paragraphe (1) comporte une distinction injustifiée; l’Office examine la plainte sans délai et communique ses conclusions au ministre ou à la personne qui l’a fixé, selon le cas, le ministre et cette personne étant liés par celles-ci.
+- **(2)** Tout intéressé peut déposer auprès de l’Office une plainte portant qu’un droit visé au paragraphe (1) opère une discrimination injustifiée; l’Office examine la plainte sans délai et communique ses conclusions au ministre ou à la personne qui a fixé le droit, selon le cas, le ministre et cette personne étant liés par celles-ci.
 
 **Pouvoir de modification ou d’annulation du gouverneur en conseil**
 
 - **(3)** L’article 40 de la [Loi sur les transports au Canada](/fr/Lois/Lois%20du%20Canada/1996/ch.%2010.md) s’applique, avec les adaptations nécessaires, aux conclusions de l’Office visées au paragraphe (2), comme s’il s’agissait d’une décision rendue en application de cette loi.
+> 1998, ch. 10, art. 94; 2008, ch. 21, art. 45(F).
+
 
 
 
@@ -2034,11 +2208,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **98** 
 
-- **(1)** Le gouverneur en conseil peut prendre des règlements en vue de la gestion, du contrôle, de l’aménagement et de l’utilisation de la voie maritime, des immeubles et des biens réels ou entreprises connexes, notamment en ce qui touche :
+- **(1)** Le gouverneur en conseil peut prendre des règlements en vue de la gestion, du contrôle, du développement et de l’utilisation de la voie maritime, des immeubles ou biens réels ou des entreprises liés à celle-ci, notamment en ce qui touche :
 	- **a)** la navigation et l’usage des eaux navigables de la voie maritime par des navires, y compris le mouillage, l’amarrage, le chargement et le déchargement de ceux-ci, ainsi que l’équipement de chargement et de déchargement;
 	- **b)** l’usage de la voie maritime et des terrains relatifs à la voie maritime et la protection de leur environnement, y compris la réglementation ou l’interdiction de l’équipement, de bâtiments, d’ouvrages ou d’activités;
-	- **c)** l’enlèvement, la destruction ou l’aliénation de navires ou de toutes parties s’en étant détachées, de bâtiments, d’ouvrages ou d’autres choses qui gênent la navigation dans la voie maritime, et le recouvrement des coûts afférents;
+	- **c)** l’enlèvement ou la disposition, notamment par destruction, de navires ou de toutes parties s’en étant détachées, de bâtiments, d’ouvrages ou d’autres choses qui gênent la navigation dans la voie maritime, et le recouvrement des coûts afférents;
 	- **d)** le maintien de l’ordre et la sécurité des personnes et des biens dans la voie maritime ou sur les terrains relatifs à la voie maritime;
+	- **d.1)** les renseignements et documents que doit fournir le propriétaire ou la personne responsable du navire au ministre ou à la personne qui a conclu une entente avec lui en vertu du paragraphe 80(5);
 	- **e)** la réglementation des personnes, des véhicules et des aéronefs dans la voie maritime ou sur les terrains relatifs à la voie maritime;
 	- **f)** la réglementation — y compris l’interdiction — de l’excavation, de l’enlèvement ou du dépôt de matériaux ou de toute autre activité de nature à avoir un effet quelconque sur la navigabilité de la voie maritime ou sur les terrains voisins;
 	- **g)** la réglementation — y compris l’interdiction — du transport, de la manipulation et du stockage dans la voie maritime ou sur les terrains relatifs à la voie maritime, d’explosifs ou d’autres substances qui, à son avis, constituent un danger — réel ou apparent — pour les personnes ou les biens.
@@ -2050,7 +2225,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Présomption**
 
 - **(3)** Les règlements pris par l’Administration en vertu de l’article 20 de la Loi sur l’administration de la voie maritime du Saint-Laurent sont, dans la mesure où ils ne sont pas incompatibles avec la présente loi, réputés avoir été pris par le gouverneur en conseil en vertu du présent article.
-> 1998, ch. 10, art. 98; 2001, ch. 4, art. 150(F).
+> 1998, ch. 10, art. 98; 2001, ch. 4, art. 150(F); 2008, ch. 21, art. 46.
 
 
 
@@ -2080,7 +2255,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Loi sur la protection des eaux navigables**
 
-**101** La Loi sur la protection des eaux navigables ne s’applique pas à un ouvrage, au sens de cette loi, auquel un règlement pris en application de l’article 98 de la présente loi s’applique.
+**101** La Loi sur la protection des eaux navigables ne s’applique pas aux ouvrages, au sens de cette loi, exemptés par règlement pris en vertu de l’article 98.
+> 1998, ch. 10, art. 101; 2008, ch. 21, art. 47.
+
 
 
 
@@ -2174,11 +2351,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **107** 
 
-- **(1)** Les droits et les intérêts afférents au navire ou aux marchandises au titre de la présente loi doivent être acquittés par le propriétaire ou le responsable du navire, ou le propriétaire des marchandises sans préjudice des recours ouverts en droit contre d’autres personnes.
+- **(1)** Les droits et les intérêts fixés sous le régime de la présente loi à l’égard des navires ou des marchandises doivent être acquittés par le propriétaire ou le responsable du navire ou le propriétaire des marchandises sans préjudice des recours ouverts en droit contre d’autres personnes.
 
 **Paiement des droits**
 
 - **(2)** Les droits et les intérêts fixés sous le régime de la présente loi à l’égard d’une personne, d’un véhicule ou d’un aéronef doivent être acquittés par cette personne ou le propriétaire du véhicule ou de l’aéronef.
+> 1998, ch. 10, art. 107; 2008, ch. 21, art. 48(F).
+
 
 
 
@@ -2306,7 +2485,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **115** 
 
 - **(1)** L’agent de l’autorité peut ordonner la rétention d’un navire ou des marchandises à bord si, à leur propos, il a des motifs raisonnables de croire qu’il y a eu, selon le cas :
-	- **a)** contravention par le propriétaire ou le responsable du navire ou des marchandises d’une disposition de la présente loi qui s’applique au navire ou aux marchandises;
+	- **a)** contravention par le navire, ou le propriétaire ou le responsable du navire ou des marchandises, à une disposition de la présente loi ou des règlements qui s’applique au navire ou aux marchandises;
 	- **b)** non-acquittement des droits ou des intérêts imposés sous le régime de la présente loi;
 	- **c)** des dommages causés aux biens dont la gestion est confiée à l’autorité portuaire, au ministre ou à une personne qui a conclu une entente avec le ministre en vertu du paragraphe 80(5), si les dommages sont attribuables au navire ou à la faute ou à la négligence d’un membre d’équipage agissant dans l’exercice de ses fonctions ou en exécution d’un ordre de son supérieur.
 
@@ -2321,6 +2500,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Ordre écrit**
 
 - **(4)** L’ordre de rétention visé au paragraphe (1) ou (2) est donné par écrit; il est adressé à toutes les personnes qui, dans les lieux où se trouve ou se trouvera le navire visé, sont autorisées à lui donner congé.
+> 1998, ch. 10, art. 115; 2008, ch. 21, art. 49.
+
 
 
 
@@ -2346,9 +2527,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Congés**
 
 - **(4)** Les personnes à qui un ordre de rétention est adressé en conformité avec le paragraphe 115(4) et qui l’ont reçu donnent congé au navire retenu dans les cas où elles ont des motifs raisonnables de croire que :
-	- **a)** le navire n’a pas été accusé d’une infraction à la présente loi dans les trente jours qui suivent la rétention;
-	- **b)** le navire a été accusé d’une infraction à la présente loi dans le délai mentionné à l’alinéa a) et :
-		- **(i)** soit un cautionnement que le ministre juge acceptable, d’un montant égal à l’amende maximale qui peut être infligée ou à une somme inférieure approuvée par le ministre, a été versé à Sa Majesté du chef du Canada,
+	- **a)** il y a eu remise d’un cautionnement de cent mille dollars à l’administration portuaire, au ministre ou à la personne qui a conclu une entente avec lui en vertu du paragraphe 80(5), selon le cas, et le destinataire l’a jugée acceptable;
+	- **a.1)** le navire n’a pas été accusé d’une infraction à la présente loi dans les trente jours qui suivent la rétention;
+	- **b)** le navire a été accusé d’une infraction à la présente loi dans le délai mentionné à l’alinéa a.1) et :
+		- **(i)** soit un cautionnement d’un montant ne dépassant pas 5 000 $ que le ministre juge acceptable a été versé à Sa Majesté du chef du Canada,
 		- **(ii)** soit les poursuites relatives à cette infraction ont été abandonnées;
 	- **c)** un cautionnement, dans le cas où la rétention a été ordonnée par suite du non-acquittement de droits, d’un montant ne dépassant pas la somme des droits et des intérêts y afférents que l’administration portuaire, le ministre ou la personne qui a conclu une entente avec le ministre en vertu du paragraphe 80(5), selon le cas, juge satisfaisant, est déposé au tribunal;
 	- **d)** un cautionnement, dans le cas où la rétention a été ordonnée parce que les dommages visés à l’alinéa 115(1) c) ont été causés, d’un montant ne dépassant pas la somme des dommages — selon l’estimation qu’en fait l’administration portuaire, le ministre ou la personne qui a conclu une entente avec le ministre en vertu du paragraphe 80(5), selon le cas — et que l’administration, le ministre ou cette personne juge satisfaisant, est déposé au tribunal;
@@ -2357,6 +2539,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Détermination judiciaire du cautionnement**
 
 - **(5)** Le capitaine ou le propriétaire qui conteste le montant du cautionnement demandé en vertu de l’alinéa (4) c) ou d) peut demander au tribunal de le fixer.
+> 1998, ch. 10, art. 116; 2008, ch. 21, art. 50.
+
 
 
 
@@ -2369,7 +2553,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** le navire est retenu pour violation de la présente loi;
 	- **b)** le navire a été accusé d’infraction à la présente loi dans les trente jours suivant l’ordre de rétention;
 	- **c)** personne n’a comparu au nom du navire dans les trente jours suivant l’accusation;
-	- **d)** le cautionnement visé à l’alinéa 116(4) b) n’a pas été versé.
+	- **d)** le cautionnement visé aux alinéas 116(4)a) ou b) n’a pas été remis.
 
 **Vente du navire**
 
@@ -2377,7 +2561,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** le navire est retenu pour non-paiement des droits ou des intérêts;
 	- **b)** des procédures ont été intentées contre le navire dans les trente jours suivant l’ordre de rétention;
 	- **c)** personne n’a comparu au nom du navire dans les trente jours suivant l’accusation;
-	- **d)** le cautionnement visé à l’alinéa 116(4) c) n’a pas été versé.
+	- **d)** le cautionnement visé aux alinéas 116(4)a) ou c) n’a pas été remis.
 
 **Vente du navire**
 
@@ -2385,7 +2569,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **a)** des dommages visés à l’alinéa 115(1) c) ont été causés;
 	- **b)** des procédures ont été intentées contre le navire dans les trente jours suivant l’ordre de rétention;
 	- **c)** personne n’a comparu ou n’a présenté de défense au nom du navire dans les trente jours suivant la date à laquelle les procédures ont été intentées;
-	- **d)** le cautionnement visé à l’alinéa 116(4) d) n’a pas été versé.
+	- **d)** le cautionnement visé aux alinéas 116(4)a) ou d) n’a pas été remis.
 
 **Vente du navire : comparution sans cautionnement**
 
@@ -2394,6 +2578,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **b)** le navire a été accusé d’infraction à la présente loi ou fait l’objet de procédure pour défaut de paiement des droits ou, si les dommages mentionnés à l’alinéa 115(1) c) sont à l’origine de la rétention, des procédures ont été intentées contre le navire dans les trente jours suivant l’ordre de rétention;
 	- **c)** il y a eu comparution ou dépôt de la défense dans les trente jours suivant l’accusation ou la date à laquelle les procédures ont été instituées mais le cautionnement visé au paragraphe 116(4) n’a pas été versé;
 	- **d)** le navire est reconnu coupable ou responsable, selon le cas, et une amende est infligée mais n’est pas payée immédiatement ou le montant des dommages-intérêts auquel il est condamné n’est pas payé immédiatement.
+> 1998, ch. 10, art. 117; 2008, ch. 21, art. 51.
+
 
 
 
@@ -2497,7 +2683,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Vente de marchandises périssables**
 
-**121** S’il estime que des marchandises saisies et retenues conformément à la présente loi ou qui ont été abandonnées risquent de se détériorer, l’agent de l’autorité peut les aliéner, notamment par vente, selon les modalités et aux prix justifiés par les circonstances. Le produit de l’aliénation est affecté au paiement des frais qu’elle a occasionnés, ainsi qu’à l’acquittement des sommes dues à l’égard du navire ou des marchandises.
+**121** S’il estime que des marchandises saisies et retenues conformément à la présente loi ou qui ont été abandonnées risquent de se détériorer, l’agent de l’autorité peut en disposer, notamment par vente, selon les modalités et aux prix justifiés par les circonstances. Le produit de la disposition est affecté au paiement des frais qu’elle a occasionnés, ainsi qu’à l’acquittement des sommes dues à l’égard du navire ou des marchandises.
+> 1998, ch. 10, art. 121; 2008, ch. 21, art. 52(F).
+
 
 
 
@@ -2506,14 +2694,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **122** 
 
-- **(1)** L'administration portuaire, le ministre ou la personne qui a conclu une entente en vertu du paragraphe 80(5) est toujours titulaire d'un privilège sur le navire et sur le produit de toute aliénation qui en est faite, pour sa créance; ce privilège a priorité sur tous autres droits et créances, quelle qu'en soit la nature, à la seule exception des créances salariales des membres de l'équipage, visées par la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md), dans les cas suivants :
+- **(1)** L’administration portuaire, le ministre ou la personne qui a conclu une entente en vertu du paragraphe 80(5) est toujours titulaire d’un privilège sur le navire et sur le produit de toute disposition qui en est faite, pour sa créance; ce privilège a priorité sur tous autres droits et créances, quelle qu’en soit la nature, à la seule exception des créances salariales des membres de l’équipage, visées par la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md), dans les cas suivants :
 	- **a)** pour défaut de paiement des droits et des intérêts exigibles à l’égard du navire ou de sa cargaison;
 	- **b)** pour dommages causés à des biens par le navire ou par la faute ou la négligence d’un membre de son équipage agissant dans l’exercice de ses fonctions ou sous les ordres d’un officier supérieur.
 
 **Privilèges — marchandises**
 
 - **(2)** L’administration portuaire, le ministre ou la personne qui a conclu une entente en vertu du paragraphe 80(5) est toujours titulaire d’un privilège sur les marchandises placées sous leur compétence pour les droits et les intérêts qui leur sont dus à l’égard de ces marchandises; ce privilège a priorité sur tous autres droits et créances, quelle qu’en soit la nature. L’administration, le ministre ou cette personne peuvent saisir ces marchandises en exécution du privilège.
-> 1998, ch. 10, art. 122; 2001, ch. 26, art. 279.
+> 1998, ch. 10, art. 122; 2001, ch. 26, art. 279; 2008, ch. 21, art. 53(F).
 
 
 
@@ -2564,15 +2752,25 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **127** 
 
-- **(1)** La personne qui contrevient à une disposition de la présente loi, exception faite de l’article 107, ou d’un règlement d’application de la présente loi pour laquelle aucune autre peine n’est expressément prévue par la présente loi ou un règlement pris en vertu de l’alinéa 27(1) a) est coupable d’une infraction et passible d’une amende maximale de 5 000 $ dans le cas d’un particulier ou de 50 000 $ dans le cas d’une personne morale.
+- **(1)** La personne ou le navire qui contrevient à une disposition de la présente loi, exception faite de l’article 107, ou de ses règlements pour laquelle aucune autre peine n’est expressément prévue par la présente loi ou qui contrevient à un règlement pris en vertu de l’alinéa 27(1)a) est coupable d’une infraction passible d’une amende maximale de 5 000 $ dans le cas d’une personne physique et de 50 000 $ dans le cas d’une personne morale ou d’un navire.
+
+**Preuve d’une infraction par un navire**
+
+- **(1.1)** Lorsqu’un navire est poursuivi pour infraction à une disposition de la présente loi, exception faite de l’article 107, ou de ses règlements, il suffit pour établir la responsabilité du navire de prouver que l’acte ou l’omission qui la constitue est le fait du capitaine ou d’une autre personne à bord du navire, que celle-ci soit identifiée ou non.
+
+**Règlement administratif**
+
+- **(1.2)** Nul ne peut être déclaré coupable d’une infraction à la présente loi pour avoir contrevenu à un règlement administratif pris en vertu de l’article 30.
 
 **Disculpation**
 
-- **(2)** Nul ne peut être déclaré coupable d’une infraction à la présente loi s’il établit qu’il a exercé toute la diligence convenable pour l’empêcher.
+- **(2)** Nul ne peut être déclaré coupable d’une infraction à la présente loi s’il établit qu’il a pris toutes les précautions voulues pour prévenir sa perpétration.
 
 **Code de déontologie**
 
 - **(3)** Par dérogation au paragraphe (1), un administrateur ou un dirigeant d’une administration portuaire n’est pas coupable d’une infraction à la présente loi du seul fait qu’il ne se conforme pas au code de déontologie que comportent les lettres patentes de cette administration.
+> 1998, ch. 10, art. 127; 2008, ch. 21, art. 54.
+
 
 
 
@@ -2586,6 +2784,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Prescription**
 
 - **(2)** Les poursuites visant une infraction se prescrivent par un an à compter de sa perpétration.
+> 1998, ch. 10, art. 128; 2008, ch. 21, art. 55(A).
+
 
 
 
@@ -2594,11 +2794,273 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **129** 
 
-- **(1)** Le tribunal peut, en plus des peines prévues, ordonner à la personne déclarée coupable d’une infraction à une disposition de la partie 1 ou d’un règlement pris en vertu de l’alinéa 27(1) a) de se conformer à la disposition à laquelle elle a contrevenu.
+- **(1)** Le tribunal peut, en plus des peines prévues, ordonner à la personne ou au navire déclaré coupable d’une infraction à une disposition de la partie 1 ou d’un règlement pris en vertu de l’alinéa 27(1)a) de se conformer à la disposition en cause.
 
 **Maintien des recours civils**
 
 - **(2)** Les recours civils ne sont ni éteints ni modifiés du fait d’une infraction à une disposition de la partie 1 ou d’un règlement pris en vertu de l’alinéa 27(1) a).
+> 1998, ch. 10, art. 129; 2008, ch. 21, art. 56.
+
+
+
+
+
+### Pénalités
+
+
+
+**Définition de Tribunal d’appel**
+
+**129.01** Pour l’application des articles 129.06, 129.08 et 129.1 à 129.13, ***Tribunal d’appel*** s’entend du Tribunal d’appel des transports du Canada, constitué par le paragraphe 2(1) de la [Loi sur le Tribunal d’appel des transports du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2029.md).
+> 2008, ch. 21, art. 57.
+
+
+
+
+
+**Violation**
+
+**129.02** La contravention à un texte désigné sous le régime de l’alinéa 129.03a) constitue une violation qui expose son auteur à la pénalité maximale prévue par règlement.
+> 2008, ch. 21, art. 57.
+
+
+
+
+
+**Pouvoir réglementaire**
+
+**129.03** Le gouverneur en conseil peut, par règlement :
+- **a)** désigner comme texte dont la contravention peut être poursuivie comme violation :
+	- **(i)** toute disposition de la présente loi, à l’exception des alinéas 59(1)d) et 126b),
+	- **(ii)** toute disposition des règlements,
+	- **(iii)** toute directive qui peut être émise au titre des règlements;
+- **b)** prévoir la pénalité maximale applicable à telle violation, laquelle est plafonnée à 5 000 $ dans le cas où l’auteur est une personne physique et à 25 000 $ dans le cas d’une personne morale ou d’un navire;
+- **c)** prévoir les critères à prendre en compte pour la détermination de la pénalité;
+- **d)** désigner les textes dont la contravention constitue une violation distincte pour chacun des jours au cours desquels la violation se continue;
+- **e)** régir, notamment par l’établissement de présomptions et de règles de preuve, la signification du procès-verbal visé au paragraphe 129.05(1);
+- **f)** prendre toute autre mesure d’application du présent article et des articles 129.04 à 129.17.
+> 2008, ch. 21, art. 57.
+
+
+
+
+
+**Critères de détermination des pénalités**
+
+**129.04** La pénalité est déterminée, dans chaque cas, compte tenu des critères suivants :
+- **a)** le caractère non punitif de la pénalité, laquelle est destinée à encourager l’observation de la présente loi;
+- **b)** la gravité de la violation, notamment sa fréquence et sa durée;
+- **c)** les antécédents du destinataire du procès-verbal — violation de la présente loi ou condamnation pour infraction à celle-ci — au cours des cinq ans précédant la violation;
+- **d)** tout autre critère prévu sous le régime de l’alinéa 129.03c).
+> 2008, ch. 21, art. 57.
+
+
+
+
+
+**Procès-verbal de violation**
+
+**129.05** 
+
+- **(1)** L’agent de l’autorité peut, s’il a des motifs raisonnables de croire qu’une violation a été commise, dresser un procès-verbal qu’il fait signifier à l’auteur présumé.
+
+**Contenu du procès-verbal**
+
+- **(2)** Le ministre détermine la forme et la teneur des procès-verbaux de violation. Tout procès-verbal mentionne :
+	- **a)** le nom de l’auteur présumé de la violation;
+	- **b)** les faits reprochés;
+	- **c)** le montant de la pénalité à payer;
+	- **d)** les délais et modalités de paiement de la pénalité et de présentation d’une requête en révision;
+	- **e)** le fait que le non-exercice de la faculté prévue à l’article 129.06 dans les délais et selon les modalités prévus vaut déclaration de responsabilité et entraîne l’imposition de la pénalité figurant au procès-verbal.
+> 2008, ch. 21, art. 57.
+
+
+
+
+
+**Option**
+
+**129.06** Le destinataire du procès-verbal doit soit payer la pénalité, soit déposer auprès du Tribunal d’appel une requête en révision des faits reprochés ou du montant de la pénalité.
+> 2008, ch. 21, art. 57.
+
+
+
+
+
+**Paiement de la pénalité**
+
+**129.07** Le paiement de la pénalité dans le délai et selon les modalités prévus dans le procès-verbal vaut déclaration de responsabilité à l’égard de la violation et met fin à la procédure.
+> 2008, ch. 21, art. 57.
+
+
+
+
+
+**Requête en révision**
+
+**129.08** 
+
+- **(1)** La requête en révision est déposée par l’intéressé auprès du Tribunal d’appel à l’adresse indiquée dans le procès-verbal, au plus tard à la date limite qui y est indiquée ou dans le délai supérieur éventuellement accordé par le Tribunal d’appel à la demande de l’intéressé.
+
+**Audience**
+
+- **(2)** Le Tribunal d’appel, sur réception de la requête, fixe les date, heure et lieu de l’audience et en avise par écrit le ministre et l’intéressé.
+
+**Déroulement**
+
+- **(3)** À l’audience, le membre du Tribunal d’appel commis à l’affaire accorde au ministre et à l’intéressé la possibilité de présenter leurs éléments de preuve et leurs observations, conformément aux principes de l’équité procédurale et de la justice naturelle.
+
+**Charge de la preuve**
+
+- **(4)** S’agissant d’une requête portant sur les faits reprochés, il incombe au ministre d’établir que l’intéressé a commis la violation.
+
+**Intéressé non tenu de témoigner**
+
+- **(5)** L’intéressé n’est pas tenu de témoigner à l’audience.
+> 2008, ch. 21, art. 57.
+
+
+
+
+
+**Omission de payer la pénalité ou de présenter une requête**
+
+**129.09** L’omission, par l’intéressé, de payer la pénalité et de présenter une requête en révision dans les délais et selon les modalités prévus dans le procès-verbal vaut déclaration de responsabilité à l’égard de la violation.
+> 2008, ch. 21, art. 57.
+
+
+
+
+
+**Décision**
+
+**129.1** 
+
+- **(1)** Après audition des parties, le membre du Tribunal d’appel informe sans délai l’intéressé et le ministre de sa décision.
+
+**Pas de violation**
+
+- **(2)** S’il décide qu’il n’y a pas eu violation, nulle autre poursuite ne peut, sous réserve de l’article 129.11, être intentée à cet égard.
+
+**Violation**
+
+- **(3)** S’il décide qu’il y a eu violation, il communique à l’intéressé et au ministre le montant de la pénalité à payer.
+> 2008, ch. 21, art. 57.
+
+
+
+
+
+**Appel**
+
+**129.11** 
+
+- **(1)** Le ministre ou l’intéressé peut faire appel au Tribunal d’appel de la décision rendue au titre de l’article 129.1. Le délai d’appel est de trente jours.
+
+**Perte du droit d’appel**
+
+- **(2)** La partie qui ne se présente pas à l’audience portant sur la requête en révision perd le droit de porter la décision en appel, à moins qu’elle ne fasse valoir des motifs valables justifiant son absence.
+
+**Sort de l’appel**
+
+- **(3)** Le comité du Tribunal d’appel peut rejeter l’appel ou y faire droit et substituer sa propre décision à celle en cause.
+
+**Avis**
+
+- **(4)** S’il statue qu’il y a eu violation, le comité informe sans délai l’intéressé de sa décision et du montant de la pénalité à payer.
+> 2008, ch. 21, art. 57.
+
+
+
+
+
+**Créances de Sa Majesté**
+
+**129.12** Constituent une créance de Sa Majesté du chef du Canada, dont le recouvrement peut être poursuivi à ce titre devant le tribunal compétent :
+- **a)** sauf en cas de présentation d’une requête en révision dans les délais et selon les modalités prévus dans le procès-verbal, la pénalité prévue dans celui-ci, à compter de la date de signification du procès-verbal;
+- **b)** la pénalité fixée par le membre du Tribunal d’appel au titre de l’article 129.1 ou par le comité du Tribunal d’appel au titre de l’article 129.11, à compter de la date de la décision du membre ou du comité;
+- **c)** les frais raisonnables engagés en vue du recouvrement d’une somme visée aux alinéas a) ou b).
+> 2008, ch. 21, art. 57.
+
+
+
+
+
+**Certificat de non-paiement**
+
+**129.13** 
+
+- **(1)** Le Tribunal d’appel peut, à la demande du ministre, établir un certificat de non-paiement pour la partie impayée des créances visées à l’article 129.12.
+
+**Enregistrement du certificat**
+
+- **(2)** La juridiction supérieure auprès de laquelle est déposé le certificat visé au paragraphe (1) enregistre celui-ci. L’enregistrement confère au certificat la valeur d’un jugement de cette juridiction pour la somme visée et les frais afférents.
+> 2008, ch. 21, art. 57.
+
+
+
+
+
+**Administrateurs et dirigeants des personnes morales**
+
+**129.14** En cas de commission par une personne morale d’une violation, celui qui, au moment de celle-ci, en était administrateur ou dirigeant est considéré comme coauteur de la violation, sauf si l’action ou l’omission constituant la violation a eu lieu à son insu ou sans son consentement ou s’il a pris les précautions voulues pour l’empêcher.
+> 2008, ch. 21, art. 57.
+
+
+
+
+
+**Responsabilité indirecte — fait des employés et mandataires**
+
+**129.15** L’employeur ou le mandant — qu’il soit une personne ou un navire — est responsable de la violation commise par son employé ou son mandataire dans le cadre de son emploi ou du mandat, que celui-ci soit ou non connu ou poursuivi. L’employeur ou le mandant peut se disculper en prouvant que la perpétration a eu lieu à son insu ou sans son consentement.
+> 2008, ch. 21, art. 57.
+
+
+
+
+
+**Précision — nature des violations**
+
+**129.16** Il est entendu que les violations ne sont pas des infractions; en conséquence, nul ne peut être poursuivi pour violation sur le fondement de l’article 126 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
+> 2008, ch. 21, art. 57.
+
+
+
+
+
+**Prise de précautions**
+
+**129.17** La prise des précautions voulues peut être invoquée dans le cadre de toute procédure en violation.
+> 2008, ch. 21, art. 57.
+
+
+
+
+
+### Dispositions générales
+
+
+
+**Cumul interdit**
+
+**129.18** S’agissant d’un acte ou d’une omission qualifiable à la fois de violation et d’infraction, la procédure en violation et la procédure pénale s’excluent l’une l’autre.
+> 2008, ch. 21, art. 57.
+
+
+
+
+
+**Prescription**
+
+**129.19** 
+
+- **(1)** Les procédures en violation et les poursuites pénales se prescrivent par un an à compter de la date où le ministre a eu connaissance des faits reprochés.
+
+**Attestation du ministre**
+
+- **(2)** Tout document apparemment établi par le ministre et attestant la date où les faits reprochés sont parvenus à sa connaissance fait foi de cette date, en l’absence de preuve contraire, sans qu’il soit nécessaire de prouver l’authenticité de la signature qui y est apposée ni la qualité officielle du signataire.
+> 2008, ch. 21, art. 57.
+
 
 
 
@@ -2647,9 +3109,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Obligation des sociétés remplaçantes**
 
-**133** Lorsque, en vertu de l’article 10, des lettres patentes de prorogation sont délivrées à une commission portuaire constituée en vertu de la [Loi sur les commissions portuaires](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-1.md), de la Loi des commissaires du havre de Hamilton ou de la *Loi de 1911 concernant les commissaires du havre de Toronto* lui conférant le statut d’administration portuaire, les articles 44 à 46 du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) s’appliquent comme si :
+**133** Lorsque, en vertu de l’article 10, des lettres patentes sont délivrées à une commission portuaire la prorogeant en administration portuaire, les articles 44 à 46 du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md) s’appliquent comme si :
 - **a)** une vente d’entreprise avait eu lieu entre la commission portuaire et l’administration portuaire;
 - **b)** les employés de la commission portuaire étaient des employés de l’entreprise.
+> 1998, ch. 10, art. 133; 2008, ch. 21, art. 58.
+
 
 
 
@@ -2965,7 +3429,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **PARTIE 2** 
-### Administrations portuaires qui ne sont pas des administrateurs portuaires initiales
+### Administrations portuaires qui ne sont pas des administrations portuaires initiales
 
 
 
@@ -2973,6 +3437,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 Administration portuaire de Belledune<br />- <i>Belledune Port Authority</i>
 
 
-> 1998, ch. 10, ann.; DORS/2000-125.
+> 1998, ch. 10, ann.; DORS/2000-125; 2008, ch. 21, art. 59(A) et 60(F).
 
 
