@@ -391,6 +391,14 @@ Enabling authorities:
 <td></td>
 </tr>
 <tr>
+<td>5.1</td>
+<td>Wheat, Canada Western General Purpose</td>
+<td>14.6% to 17.0%</td>
+<td>Over 17.0%</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>6</td>
 <td>Oats, Canada Western</td>
 <td>13.6% to 17.0%</td>
@@ -425,9 +433,6 @@ Enabling authorities:
 <tr>
 <td>10</td>
 <td>Mixed Grain, Canada Western</td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 </tr>
 <tr>
@@ -526,7 +531,7 @@ Enabling authorities:
 </tr>
 </table>
 
-> SOR/78-500, s. 1; SOR/79-534, ss. 3, 4; SOR/80-513, s. 2; SOR/84-615, s. 5; SOR/88-370, s. 2; SOR/90-359, s. 2; SOR/93-363, s. 1; SOR/94-488, s. 1; SOR/95-392, s. 1; SOR/97-284, s. 1; SOR/97-425, s. 1; SOR/2001-241, s. 1.
+> SOR/78-500, s. 1; SOR/79-534, ss. 3, 4; SOR/80-513, s. 2; SOR/84-615, s. 5; SOR/88-370, s. 2; SOR/90-359, s. 2; SOR/93-363, s. 1; SOR/94-488, s. 1; SOR/95-392, s. 1; SOR/97-284, s. 1; SOR/97-425, s. 1; SOR/2001-241, s. 1; SOR/2008-227, s. 1.
 
 
 
