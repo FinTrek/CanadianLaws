@@ -1672,6 +1672,8 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <th></th>
 <th>Norme de qualité</th>
 <th>Limites maximales</th>
+<th></th>
+<th></th>
 </tr>
 <tr>
 <th></th>
@@ -1702,25 +1704,25 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 </tr>
 <tr>
 <td>CWRW n<sup>o</sup> 1</td>
-<td>78</td>
+<td>79</td>
 <td>Toute variété de la classe CWRW désignée comme telle par arrêté de la Commission</td>
 <td>9</td>
 <td>Raisonnablement bien mûri, raisonnablement exempt de grains endommagés</td>
 <td>0,2</td>
-<td>1,0</td>
-<td>1,0</td>
-<td>3,0</td>
+<td>0,4</td>
+<td>1</td>
+<td>3</td>
 </tr>
 <tr>
 <td>CWRW n<sup>o</sup> 2</td>
-<td>74</td>
+<td>76,5</td>
 <td>Toute variété de la classe CWRW désignée comme telle par arrêté de la Commission</td>
 <td>Aucun minimum</td>
 <td>Peut être atteint par la gelée, immature ou abîmé par les intempéries, modérément exempt de grains fortement endommagés</td>
 <td>0,5</td>
-<td>2,0</td>
-<td>2,5</td>
-<td>6,0</td>
+<td>0,7</td>
+<td>2</td>
+<td>5</td>
 </tr>
 </table>
 
@@ -1789,6 +1791,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <th></th>
 <th>Norme de qualité</th>
 <th>Limites maximales</th>
+<th></th>
 </tr>
 <tr>
 <th></th>
@@ -1796,10 +1799,11 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <th></th>
 <th></th>
 <th>Matières étrangères</th>
+<th></th>
 </tr>
 <tr>
 <th>Nom de grade</th>
-<th>Poids spécifique minimum kg/hl</th>
+<th>Poids spécifique minimum</th>
 <th>Variété</th>
 <th>Condition</th>
 <th>Matières autres que des céréales</th>
@@ -1807,6 +1811,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <th>Blé d’autres classes ou variétés</th>
 </tr>
 <tr>
+<th>kg/hl</th>
 <th>%</th>
 <th>%</th>
 <th>%</th>
@@ -1824,7 +1829,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>CWSWS n<sup>o</sup> 2</td>
 <td>74</td>
 <td>Toute variété de la classe CWSWS désignée comme telle par arrêté de la Commission</td>
-<td>Passablement bien mûri, modérément abîmé par les intempéries, raisonnablement exempt de grains fortement endommagés</td>
+<td>Passablement bien mûri, peut être modérément abîmé par les intempéries, raisonnablement exempt de grains fortement endommagés</td>
 <td>0,3</td>
 <td>2</td>
 <td>6</td>
@@ -1856,7 +1861,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 </tr>
 <tr>
 <th>Nom de grade</th>
-<th>Poids spécifique minimum kg/hl</th>
+<th>Poids spécifique minimum</th>
 <th>Variété</th>
 <th>Condition</th>
 <th>Matières autres que des céréales</th>
@@ -1864,6 +1869,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <th>Blé dur ambré</th>
 </tr>
 <tr>
+<th>kg/hl</th>
 <th>%</th>
 <th>%</th>
 <th>%</th>
@@ -1871,7 +1877,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <td>Fourrager OC</td>
 <td>65</td>
-<td>Toute classe ou variété de blé autre que le blé dur ambré</td>
+<td>Toute classe ou variété de blé autre que le blé dur ambré et le blé à des fins générales</td>
 <td>Odeur raisonnablement agréable, exclu des autres grades de blé en raison de grains endommagés</td>
 <td>1</td>
 <td>10</td>
@@ -2064,7 +2070,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>48</td>
 <td>92 % de gruau sain</td>
 <td>1</td>
-<td><sup><a href='#footnotet1_f'>[*]</a></sup>Aucune limite</td>
+<td><sup>[*]</sup>Aucune limite</td>
 <td>8</td>
 <td>8</td>
 <td>8</td>
@@ -2076,25 +2082,33 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 </table>
 
 
-<a name='footnotet1_f'><sup>*</sup></a>: Non inclus dans le total des dommages.<br />
+<a name='fn_Ind761A_hq_18140'><sup>*</sup></a>: Non inclus dans le total des dommages.<br />
 #### TABLEAU 8
 <table>
 <h4>Orge brassicole, Ouest canadien (OC)</h4>
 <tr>
 <th></th>
 <th>Norme de qualité</th>
-<th>Limites maximales de matières étrangères</th>
+<th></th>
+<th></th>
+<th></th>
+<th>Limites maximales</th>
 </tr>
 <tr>
 <th>Nom de grade</th>
-<th>Poids spécifique minimum kg/hl</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th>Matières étrangères</th>
+</tr>
+<tr>
 <th>Variété</th>
-<th>Condition</th>
-<th>Orge d’autres types</th>
+<th>Fusariée</th>
+<th>Échauffée</th>
+<th>Gelée</th>
 <th>Graines inséparables</th>
-<th>Autres céréales</th>
-<th>Folle avoine</th>
-<th>Total</th>
+<th>Grosses graines oléagineuses</th>
 </tr>
 <tr>
 <th>%</th>
@@ -2102,76 +2116,29 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <th>%</th>
 <th>%</th>
 <th>%</th>
-</tr>
-<tr>
-<td>Extra spéciale OC à deux rangs</td>
-<td>63</td>
-<td>Toute variété sélectionnée de la classe d’orge brassicole, Ouest canadien à deux rangs désignée comme telle par arrêté de la Commission</td>
-<td>Raisonnablement saine, passablement bien mûrie, peut être modérément tachée par les intempéries, non fortement décolorée</td>
-<td>1</td>
-<td>0,2Exempte de grosses graines oléagineuses
-
-</td>
-<td>1</td>
-<td>0,2</td>
-<td>1</td>
-</tr>
-<tr>
-<td>Extra spéciale OC à six rangs</td>
-<td>62</td>
-<td>Toute variété sélectionnée de la classe d’orge brassicole, Ouest canadien à six rangs désignée comme telle par arrêté de la Commission</td>
-<td>Raisonnablement saine, passablement bien mûrie, peut être modérément tachée par les intempéries, non fortement décolorée</td>
-<td>1</td>
-<td>0,2Exempte de grosses graines oléagineuses
-
-</td>
-<td>1</td>
-<td>0,2</td>
-<td>1</td>
 </tr>
 <tr>
 <td>Extra OC à deux rangs</td>
-<td>61</td>
 <td>Toute variété sélectionnée de la classe d’orge brassicole, Ouest canadien à deux rangs désignée comme telle par arrêté de la Commission</td>
-<td>Passablement saine, peut être légèrement immature et modérément tachée par les intempéries ou décolorée</td>
-<td>3</td>
-<td>0,2Exempte de grosses graines oléagineuses
-
-</td>
-<td>1</td>
-<td>0,5</td>
-<td>1,5</td>
+<td>0,2</td>
+<td>0,1</td>
+<td>2,0</td>
+<td>0,2</td>
+<td>Aucune</td>
 </tr>
 <tr>
 <td>Extra OC à six rangs</td>
-<td>60</td>
 <td>Toute variété sélectionnée de la classe d’orge brassicole, Ouest canadien à six rangs désignée comme telle par arrêté de la Commission</td>
-<td>Passablement saine, peut être légèrement immature et modérément tachée par les intempéries ou décolorée</td>
-<td>3</td>
-<td>0,2Exempte de grosses graines oléagineuses
-
-</td>
-<td>1</td>
-<td>0,5</td>
-<td>1,5</td>
-</tr>
-<tr>
-<td>Extra standard OC à deux rangs ou à six rangs</td>
-<td>Aucun minimum</td>
-<td>Toute variété sélectionnée de la classe d’orge brassicole, Ouest canadien à deux rangs ou d’orge brassicole, Ouest canadien à six rangs désignée comme telle par arrêté de la Commission</td>
-<td>Odeur désagréable, exclue des autres grades d’orge brassicole en raison de taches dues aux intempéries ou d’une décoloration</td>
-<td>Aucune limite</td>
-<td>0,2Exempte de grosses graines oléagineuses
-
-</td>
-<td>Aucune limite</td>
-<td>Aucune limite</td>
-<td>Aucune limite</td>
+<td>0,2</td>
+<td>0,1</td>
+<td>2,0</td>
+<td>0,2</td>
+<td>Aucune</td>
 </tr>
 </table>
 
 
-<sup></sup>: Remarque : L’orge qui n’est pas sélectionnée pour le maltage est classée, selon sa qualité, dans l’un des grades « à des fins générales ».<br />
+<sup></sup>: Remarque : L’orge qui n’est pas sélectionnée pour le maltage est classée, selon sa qualité, dans l’un des grades « à des fins générales ».<br />
 #### TABLEAU 9
 <table>
 <h4>Orge à des fins générales, Ouest canadien (OC)</h4>
@@ -2225,17 +2192,18 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 </tr>
 <tr>
 <th>Nom de grade</th>
-<th>Poids spécifique minimum kg/hl</th>
+<th>Poids spécifique minimum</th>
 <th>Variétés avec glumes adhérées</th>
 <th>Autres variétés à grains nus</th>
 <th>Total, glumes adhérées</th>
 <th>Condition</th>
 <th>Graines inséparables</th>
-<th>Autres céréales </th>
+<th>Autres céréales</th>
 <th>Folle avoine</th>
 <th>Total</th>
 </tr>
 <tr>
+<th>kg/hl</th>
 <th>%</th>
 <th>%</th>
 <th>%</th>
@@ -2251,12 +2219,13 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>5</td>
 <td>5</td>
 <td>Passablement saine, peut être légèrement immature et modérément tachée par les intempéries ou décolorée</td>
-<td>0,2Exempte de grosses graines oléagineuses
-
-</td>
+<td>0,2</td>
 <td>1</td>
 <td>0,5</td>
 <td>1</td>
+</tr>
+<tr>
+<td>Exempte de grosses graines oléagineuses</td>
 </tr>
 <tr>
 <td>Extra à grains nus OC à six rangs</td>
@@ -2265,12 +2234,13 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>5</td>
 <td>5</td>
 <td>Passablement saine, peut être légèrement immature et modérément tachée par les intempéries ou décolorée</td>
-<td>0,2Exempte de grosses graines oléagineuses
-
-</td>
+<td>0,2</td>
 <td>1</td>
 <td>0,5</td>
 <td>1</td>
+</tr>
+<tr>
+<td>Exempte de grosses graines oléagineuses</td>
 </tr>
 <tr>
 <td>Standard OC à grains nus</td>
@@ -2280,7 +2250,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>15</td>
 <td>Odeur raisonnablement agréable, peut être atteinte par la gelée, tachée par les intempéries ou autrement endommagée</td>
 <td>0,2</td>
-<td>Autres céréales</td>
+<td>3</td>
 <td>1</td>
 <td>3</td>
 </tr>
@@ -2348,20 +2318,18 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <th>Limites maximales de dommages</th>
 </tr>
 <tr>
-<th></th>
+<th>Nom de grade</th>
 <th>Poids spécifique minimum</th>
 <th></th>
 <th></th>
-<th></th>
+<th>Graine commercialement pure</th>
 <th>Échauffée</th>
 <th>Total</th>
 </tr>
 <tr>
-<th>Nom de grade</th>
 <th>kg/hl</th>
 <th>Variété</th>
 <th>Condition</th>
-<th>Graine commercialement pure</th>
 <th>%</th>
 <th>%</th>
 </tr>
@@ -2403,7 +2371,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <th>Limites maximales de dommages</th>
 </tr>
 <tr>
-<th></th>
+<th>Nom de grade</th>
 <th>Poids spécifique minimum</th>
 <th></th>
 <th></th>
@@ -2411,7 +2379,6 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <th>Total</th>
 </tr>
 <tr>
-<th>Nom de grade</th>
 <th>kg/hl</th>
 <th>Variété</th>
 <th>Condition</th>
@@ -2495,10 +2462,11 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <th></th>
 <th>Norme de qualité</th>
-<th>Limites maximales de dommages</th>
+<th></th>
+<th>Limites maximales des dommages</th>
 </tr>
 <tr>
-<th></th>
+<th>Nom de grade</th>
 <th>Poids spécifique minimum</th>
 <th></th>
 <th>Échauffé</th>
@@ -2506,7 +2474,6 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <th>Maïs fendillé et matières étrangères</th>
 </tr>
 <tr>
-<th>Nom de grade</th>
 <th>kg/hl</th>
 <th>Condition</th>
 <th>%</th>
@@ -2524,7 +2491,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <td>OC n<sup>o</sup> 2</td>
 <td>66</td>
-<td>Frais, odeur agréable</td>
+<td>Frais et odeur agréable</td>
 <td>0,2</td>
 <td>5</td>
 <td>3</td>
@@ -2532,7 +2499,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <td>OC n<sup>o</sup> 3</td>
 <td>64</td>
-<td>Frais, odeur agréable</td>
+<td>Frais et odeur agréable</td>
 <td>0,5</td>
 <td>7</td>
 <td>5</td>
@@ -2540,7 +2507,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <td>OC n<sup>o</sup> 4</td>
 <td>62</td>
-<td>Frais, odeur agréable</td>
+<td>Frais et odeur agréable</td>
 <td>1</td>
 <td>10</td>
 <td>7</td>
@@ -2548,7 +2515,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <td>OC n<sup>o</sup> 5</td>
 <td>58</td>
-<td>Peut avoir une légère odeur, mais aucune odeur sure ou de moisi</td>
+<td>Peut dégager une légère odeur, mais aucune odeur sure ou de moisi</td>
 <td>3</td>
 <td>15</td>
 <td>12</td>
@@ -2556,7 +2523,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 </table>
 
 
-<sup></sup>: Remarque : La couleur est ajoutée au nom de grade.<br />
+<sup></sup>: Remarque : La couleur est ajoutée au nom de grade.<br />
 #### TABLEAU 16
 <table>
 <h4>Graine de carthame, Canada (Can)</h4>
@@ -2734,7 +2701,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <th></th>
 <th></th>
-<th></th>
+<th>Graine commercialement pure</th>
 <th>Nettement vert</th>
 <th>Échauffé</th>
 <th>Total</th>
@@ -2742,7 +2709,6 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <th>Nom de grade</th>
 <th>Condition</th>
-<th>Graine commercialement pure</th>
 <th>%</th>
 <th>%</th>
 <th>%</th>
@@ -2780,9 +2746,11 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <th></th>
 <th>Norme de qualité</th>
 <th>Limites maximales de dommages</th>
+<th></th>
+<th></th>
 </tr>
 <tr>
-<th></th>
+<th>Nom de grade</th>
 <th>Poids spécifique minimum</th>
 <th></th>
 <th>Échauffée</th>
@@ -2791,7 +2759,6 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <th>Graines décortiquées</th>
 </tr>
 <tr>
-<th>Nom de grade</th>
 <th>kg/hl</th>
 <th>Condition</th>
 <th>%</th>
@@ -2802,7 +2769,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <td>Canada n<sup>o</sup> 1</td>
 <td>31</td>
-<td>Bien mûrie, odeur agréable</td>
+<td>Bien mûrie et odeur agréable</td>
 <td>0,5</td>
 <td>2</td>
 <td>4</td>
@@ -2811,7 +2778,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <td>Canada n<sup>o</sup> 2</td>
 <td>29</td>
-<td>Raisonnablement bien mûrie, odeur agréable</td>
+<td>Raisonnablement bien mûrie et odeur agréable</td>
 <td>1</td>
 <td>4</td>
 <td>8</td>
@@ -2826,6 +2793,8 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <th></th>
 <th>Norme de qualité</th>
 <th>Limites maximales de dommages</th>
+<th></th>
+<th></th>
 </tr>
 <tr>
 <th>Nom de grade</th>
@@ -2847,7 +2816,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <td>Canada n<sup>o</sup> 1</td>
 <td>35</td>
-<td>Bien mûrie, odeur agréable</td>
+<td>Bien mûrie et odeur agréable</td>
 <td>0,5</td>
 <td>2</td>
 <td>5</td>
@@ -2856,7 +2825,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <td>Canada n<sup>o</sup> 2</td>
 <td>31</td>
-<td>Raisonnablement bien mûrie, odeur agréable</td>
+<td>Raisonnablement bien mûrie et odeur agréable</td>
 <td>1</td>
 <td>4</td>
 <td>10</td>
@@ -2873,16 +2842,15 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <th>Limites maximales</th>
 </tr>
 <tr>
-<th></th>
+<th>Nom de grade</th>
 <th></th>
 <th>Dommages</th>
 <th>Matières étrangères</th>
 </tr>
 <tr>
-<th></th>
 <th>Poids spécifique minimum</th>
 <th></th>
-<th></th>
+<th>Décortiqué</th>
 <th>Immature</th>
 <th>Total</th>
 <th>Céréales</th>
@@ -2890,7 +2858,6 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <th>Total</th>
 </tr>
 <tr>
-<th>Nom de grade</th>
 <th>kg/hl</th>
 <th>Condition</th>
 <th>%</th>
@@ -2903,7 +2870,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <td>Canada n<sup>o</sup> 1</td>
 <td>58</td>
-<td>Frais, odeur agréable</td>
+<td>Frais et odeur agréable</td>
 <td>1</td>
 <td>1,5</td>
 <td>4</td>
@@ -2914,7 +2881,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <td>Canada n<sup>o</sup> 2</td>
 <td>55</td>
-<td>Frais, odeur agréable</td>
+<td>Frais et odeur agréable</td>
 <td>2</td>
 <td>1,5</td>
 <td>8</td>
@@ -2944,13 +2911,15 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <th>Limites maximales</th>
 </tr>
 <tr>
+<th>Nom de grade</th>
+<th></th>
 <th></th>
 <th></th>
 <th>Dommages</th>
+<th></th>
 <th>Matières étrangères</th>
 </tr>
 <tr>
-<th>Nom de grade</th>
 <th>Poids spécifique minimum</th>
 <th></th>
 <th>Fendue</th>
@@ -2995,7 +2964,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <td>Canada n<sup>o</sup> 3</td>
 <td>66</td>
-<td>Fraîche, odeur naturelle, peut</td>
+<td>Fraîche, odeur naturelle, peut être tachée</td>
 <td>20</td>
 <td>5</td>
 <td>1</td>
@@ -3004,7 +2973,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>3</td>
 </tr>
 <tr>
-<td>être tachée</td>
+<td></td>
 </tr>
 <tr>
 <td>Canada n<sup>o</sup> 4</td>
@@ -3031,7 +3000,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 </table>
 
 
-<sup></sup>: Remarque : La couleur est ajoutée au nom de grade.<br />
+<sup></sup>: Remarque : La couleur est ajoutée au nom de grade.<br />
 #### TABLEAU 24
 <table>
 <h4>Pois autres que pois verts, Canada (Can)</h4>
@@ -3039,11 +3008,6 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <th></th>
 <th>Norme de qualité</th>
 <th>Limites maximales</th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
 </tr>
 <tr>
 <th></th>
@@ -3051,7 +3015,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <th>Dommages</th>
 </tr>
 <tr>
-<th></th>
+<th>Nom de grade</th>
 <th></th>
 <th>Pois d’autres couleurs</th>
 <th>Matières étrangères</th>
@@ -3064,7 +3028,6 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <th>Total</th>
 </tr>
 <tr>
-<th>Nom de grade</th>
 <th>Couleur</th>
 <th>%</th>
 <th>%</th>
@@ -3116,7 +3079,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>8,5</td>
 </tr>
 <tr>
-<td>Canada n<sup>o</sup> 3</td>
+<td>Canada n<sup>o</sup> 3</td>
 <td>Couleur atypique</td>
 <td>3</td>
 <td>1</td>
@@ -3145,10 +3108,11 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <th></th>
 <th></th>
 <th>Autres classes et délavés</th>
+<th></th>
 <th>Dommages</th>
 </tr>
 <tr>
-<th></th>
+<th>Nom de grade</th>
 <th></th>
 <th>Autres classes</th>
 <th>Délavés</th>
@@ -3163,7 +3127,6 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <th>Total</th>
 </tr>
 <tr>
-<th>Nom de grade</th>
 <th>Couleur</th>
 <th>%</th>
 <th>%</th>
@@ -3225,7 +3188,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 </table>
 
 
-<sup></sup>: Remarque : La variété ou la couleur est ajoutée au nom de grade.<br />
+<sup></sup>: Remarque : La variété ou la couleur est ajoutée au nom de grade.<br />
 #### TABLEAU 26
 <table>
 <h4>Pois fourragers, Canada (Can)</h4>
@@ -3272,17 +3235,15 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <th>Limites maximales de dommages</th>
 </tr>
 <tr>
+<th>Nom de grade</th>
 <th></th>
-<th></th>
-<th></th>
+<th>Graine commercialement pure</th>
 <th>Nettement vert</th>
 <th>Échauffé</th>
 <th>Total</th>
 </tr>
 <tr>
-<th>Nom de grade</th>
 <th>Condition</th>
-<th>Graine commercialement pure</th>
 <th>%</th>
 <th>%</th>
 <th>%</th>
@@ -3296,7 +3257,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <td>5</td>
 </tr>
 <tr>
-<td>Canada n<sup>o</sup> </td>
+<td>Canada n<sup>o</sup> 2</td>
 <td>Passablement bien mûri, odeur agréable, couleur naturelle raisonnablement bonne</td>
 <td>Au plus 1,5 % d’autres graines apparentes qui ne sont pas facilement séparées de la graine de colza, à être évaluées comme impuretés</td>
 <td>6</td>
@@ -3325,16 +3286,16 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <th></th>
 <th></th>
 <th></th>
-<th></th>
 <th>Dommages</th>
+<th></th>
 <th>Graines inséparables apparentes</th>
 </tr>
 <tr>
 <th>Nom de grade</th>
 <th>Condition</th>
 <th>Autres classes</th>
-<th>Nettement verte</th>
-<th>Échauffée</th>
+<th>Nettement vertes</th>
+<th>Échauffées</th>
 <th>Total</th>
 <th>Nettement nuisibles</th>
 <th>Total</th>
@@ -3369,7 +3330,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 </tr>
 <tr>
 <td>Brune Canada n<sup>o</sup> 3</td>
-<td>Peut avoir l’odeur naturelle caractéristique d’une graine de qualité inférieure, pas d’odeur qui révèle une forte détérioration</td>
+<td>Peut dégager l’odeur naturelle caractéristique d’une graine de qualité inférieure, pas d’odeur qui révèle une forte détérioration</td>
 <td>5</td>
 <td>3,5</td>
 <td>0,5</td>
@@ -3379,7 +3340,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 </tr>
 <tr>
 <td>Brune Canada n<sup>o</sup> 4</td>
-<td>Peut avoir l’odeur naturelle caractéristique d’une graine de qualité inférieure, pas d’odeur qui révèle une forte détérioration</td>
+<td>Peut dégager l’odeur naturelle caractéristique d’une graine de qualité inférieure, pas d’odeur qui révèle une forte détérioration</td>
 <td>10</td>
 <td>3,5</td>
 <td>1</td>
@@ -3401,16 +3362,16 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <th></th>
 <th></th>
 <th></th>
-<th></th>
 <th>Dommages</th>
+<th></th>
 <th>Graines inséparables apparentes</th>
 </tr>
 <tr>
 <th>Nom de grade</th>
 <th>Condition</th>
 <th>Autres classes</th>
-<th>Nettement verte</th>
-<th>Échauffée</th>
+<th>Nettement vertes</th>
+<th>Échauffées</th>
 <th>Total</th>
 <th>Nettement nuisibles</th>
 <th>Total</th>
@@ -3445,7 +3406,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 </tr>
 <tr>
 <td>Chinoise Canada n<sup>o</sup> 3</td>
-<td>Peut avoir l’odeur naturelle caractéristique d’une graine de qualité inférieure, pas d’odeur qui révèle une forte détérioration</td>
+<td>Peut dégager l’odeur naturelle caractéristique d’une graine de qualité inférieure, pas d’odeur qui révèle une forte détérioration</td>
 <td>5</td>
 <td>3,5</td>
 <td>0,5</td>
@@ -3455,7 +3416,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 </tr>
 <tr>
 <td>Chinoise Canada n<sup>o</sup> 4</td>
-<td>Peut avoir l’odeur naturelle caractéristique d’une graine de qualité inférieure, pas d’odeur qui révèle une forte détérioration</td>
+<td>Peut dégager l’odeur naturelle caractéristique d’une graine de qualité inférieure, pas d’odeur qui révèle une forte détérioration</td>
 <td>10</td>
 <td>3,5</td>
 <td>1</td>
@@ -3477,16 +3438,16 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <th></th>
 <th></th>
 <th></th>
-<th></th>
 <th>Dommages</th>
+<th></th>
 <th>Graines inséparables apparentes</th>
 </tr>
 <tr>
 <th>Nom de grade</th>
 <th>Condition</th>
 <th>Autres classes</th>
-<th>Nettement verte</th>
-<th>Échauffée</th>
+<th>Nettement vertes</th>
+<th>Échauffées</th>
 <th>Total</th>
 <th>Nettement nuisibles</th>
 <th>Total</th>
@@ -3521,7 +3482,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 </tr>
 <tr>
 <td>Blanche Canada n<sup>o</sup> 3</td>
-<td>Peut avoir l’odeur naturelle caractéristique d’une graine de qualité inférieure, pas d’odeur qui révèle une forte détérioration</td>
+<td>Peut dégager l’odeur naturelle caractéristique d’une graine de qualité inférieure, pas d’odeur qui révèle une forte détérioration</td>
 <td>5</td>
 <td>3,5</td>
 <td>0,5</td>
@@ -3531,7 +3492,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 </tr>
 <tr>
 <td>Blanche Canada n<sup>o</sup> 4</td>
-<td>Peut avoir l’odeur naturelle caractéristique d’une graine de qualité inférieure, pas d’odeur qui révèle une forte détérioration</td>
+<td>Peut dégager l’odeur naturelle caractéristique d’une graine de qualité inférieure, pas d’odeur qui révèle une forte détérioration</td>
 <td>10</td>
 <td>3,5</td>
 <td>1</td>
@@ -3583,13 +3544,10 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <td>Canada n<sup>o</sup> 3</td>
 <td>Aucun minimum</td>
-<td>Odeur raisonnablement agréable, exclue des grades supérieurs en raison du poids léger ou</td>
+<td>Odeur raisonnablement agréable, exclue des grades supérieurs en raison du poids léger ou de grains endommagés</td>
 <td>3</td>
 <td>2</td>
 <td>7</td>
-</tr>
-<tr>
-<td>de grains endommagés</td>
 </tr>
 </table>
 
@@ -3607,8 +3565,8 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <th></th>
 <th>Matières étrangères</th>
 <th></th>
-<th>Total, dommages, matières étrangères et classes contrastantes</th>
-<th>Total, dommages, y compris les haricots fendus, matières étrangères et classes contrastantes</th>
+<th></th>
+<th></th>
 </tr>
 <tr>
 <th>Nom de grade</th>
@@ -3617,6 +3575,8 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <th>Pierres, schiste ou matières analogues</th>
 <th>Total</th>
 <th>Classes contrastantes</th>
+<th>Total, dommages, matières étrangères et classes contrastantes</th>
+<th>Total, dommages, y compris les haricots fendus, matières étrangères et classes contrastantes</th>
 </tr>
 <tr>
 <th>%</th>
@@ -3702,8 +3662,8 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <th></th>
 <th>Matières étrangères</th>
 <th></th>
-<th>Total, dommages, matières étrangères et classes contrastantes</th>
-<th>Total, dommages, y compris les haricots fendus, matières étrangères et classes contrastantes</th>
+<th></th>
+<th></th>
 </tr>
 <tr>
 <th>Nom de grade</th>
@@ -3712,6 +3672,8 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <th>Pierres, schiste ou matières analogues</th>
 <th>Total</th>
 <th>Classes contrastantes</th>
+<th>Total, dommages, matières étrangères et classes contrastantes</th>
+<th>Total, dommages, y compris les haricots fendus, matières étrangères et classes contrastantes</th>
 </tr>
 <tr>
 <th>Norme de qualité</th>
@@ -3799,20 +3761,21 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <th></th>
 <th></th>
 <th>Matières étrangères</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<th>Nom de grade</th>
+<th>Norme de qualité</th>
+<th>Autres classes propres au mélange</th>
+<th>Pierres, schiste ou matières analogues</th>
+<th>Total</th>
 <th>Classes contrastantes</th>
 <th>Total, dommages, matières étrangères et classes contrastantes</th>
 <th>Total, dommages, y compris les haricots fendus, matières étrangères et classes contrastantes</th>
 </tr>
 <tr>
-<th></th>
-<th></th>
-<th>Autres classes propres au mélange</th>
-<th>Pierres, schiste ou matières analogues</th>
-<th>Total</th>
-</tr>
-<tr>
-<th>Nom de grade</th>
-<th>Norme de qualité</th>
 <th>%</th>
 <th>%</th>
 <th>%</th>
@@ -3940,12 +3903,6 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <th></th>
 <th></th>
 <th>Dommages</th>
-<th></th>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th>Dommages</th>
 <th>Endommagement mécanique, y compris les pois chiches fendus</th>
 <th>Verts</th>
 <th>Matières étrangères</th>
@@ -4001,8 +3958,8 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <th>Matières étrangères</th>
 </tr>
 <tr>
-<th></th>
-<th></th>
+<th>Nom de grade</th>
+<th>Condition</th>
 <th>Couleurs contrastantes</th>
 <th>Tachées</th>
 <th>Échauffées</th>
@@ -4013,8 +3970,6 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <th>Total</th>
 </tr>
 <tr>
-<th>Nom de grade</th>
-<th>Condition</th>
 <th>%</th>
 <th>%</th>
 <th>%</th>
@@ -4638,7 +4593,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <th></th>
 <th>Dommages</th>
 <th>Matières étrangères</th>
-<th>Total, dommages et matières étrangères</th>
+<th></th>
 </tr>
 <tr>
 <th>Nom de grade</th>
@@ -4649,6 +4604,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <th>Orge</th>
 <th>Blé</th>
 <th>Folle avoine</th>
+<th>Total, dommages et matières étrangères</th>
 </tr>
 <tr>
 <th>kg/hl</th>
@@ -4685,7 +4641,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 <tr>
 <td>EC n<sup>o</sup> 3</td>
 <td>46</td>
-<td>Passablement bien mûrie, couleur passable, 94 %de gruau sain</td>
+<td>Passablement bien mûrie, couleur passable, 94 % de gruau sain</td>
 <td>1</td>
 <td>4</td>
 <td>6</td>
@@ -5132,7 +5088,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 </table>
 
 
-<sup></sup>: Remarque : La couleur est ajoutée au nom de grade.<br />
+<sup></sup>: Remarque : La couleur est ajoutée au nom de grade.<br />
 #### TABLEAU 53
 <table>
 <h4>Blé expérimental, Ouest canadien (OC EXPRMTL)</h4>
@@ -5480,7 +5436,51 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 </tr>
 </table>
 
-> DORS/78-55, art. 5; DORS/79-543, art. 2; DORS/80-575, art. 1 et 2; DORS/81-559, art. 1; DORS/82-740, art. 1; DORS/83-628, art. 3; DORS/85-677, art. 8; DORS/87-391, art. 1; DORS/88-506, art. 1; DORS/89-364, art. 1; DORS/89-395, art. 2(F); DORS/90-324, art. 1(F), 2(F) et 3 à 5; DORS/91-282, art. 1 à 4; DORS/92-172, art. 1, 2(F), 3(F), 4, 5 et 6(F); DORS/93-362, art. 1 à 10; DORS/94-507, art. 1 à 3; DORS/95-336, art. 1 à 5; DORS/95-403, art. 1; DORS/96-300, art. 1 à 3; DORS/97-285, art. 1 à 4; DORS/97-356, art. 1; DORS/98-333, art. 1 à 5; DORS/99-303, art. 1 à 7; DORS/2000-213, art. 8; DORS/2000-276, art. 1 à 6; DORS/2001-242, art. 1 à 4; DORS/2002-286, art. 1 à 4, 5(A), 6, 7(A), 8, 9(F), 10(A), 11(F), 12(F), 13(F), 14 à 16 et 17(F); DORS/2003-285, art. 2 à 4, 5(F), 6, 7(F) et 8(F); DORS/2004-169, art. 1, 2, 3(F), 4, 5(F), 6 à 9, 10(F), 11, 12, 13(F) et 14; DORS/2005-225, art. 1(F), 2(F), 3(F), 4 et 5; DORS/2005-330, art. 1(A); DORS/2006-146, art. 1; DORS/2007-162, art. 1 et 2; DORS/2008-219, art. 19, 20(F), 21 à 23, 24(F) et 26.
+#### TABLEAU 58
+<table>
+<h4>Blé à des fins générales, Ouest canadien (CWGP)</h4>
+<tr>
+<th></th>
+<th>Limites maximales</th>
+</tr>
+<tr>
+<th>Nom de grade</th>
+<th>Poids spécifique minimum</th>
+<th></th>
+<th>Échauffé</th>
+<th>Fusarié</th>
+<th>Excrétions</th>
+<th>Total, matières étrangères</th>
+</tr>
+<tr>
+<th>kg/hl</th>
+<th>Variété</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+<th>%</th>
+</tr>
+<tr>
+<td>OC n<sup>o</sup> 1</td>
+<td>72</td>
+<td>Toute variété de la classe de blé à des fins générales désignée comme telle par arrêté de la Commission</td>
+<td>2,5</td>
+<td>1</td>
+<td>0,03</td>
+<td>5</td>
+</tr>
+<tr>
+<td>OC n<sup>o</sup> 2</td>
+<td>65</td>
+<td>Toute variété de la classe de blé à des fins générales désignée comme telle par arrêté de la Commission</td>
+<td>2,5</td>
+<td>5</td>
+<td>0,03</td>
+<td>10</td>
+</tr>
+</table>
+
+> DORS/78-55, art. 5; DORS/79-543, art. 2; DORS/80-575, art. 1 et 2; DORS/81-559, art. 1; DORS/82-740, art. 1; DORS/83-628, art. 3; DORS/85-677, art. 8; DORS/87-391, art. 1; DORS/88-506, art. 1; DORS/89-364, art. 1; DORS/89-395, art. 2(F); DORS/90-324, art. 1(F), 2(F) et 3 à 5; DORS/91-282, art. 1 à 4; DORS/92-172, art. 1, 2(F), 3(F), 4, 5 et 6(F); DORS/93-362, art. 1 à 10; DORS/94-507, art. 1 à 3; DORS/95-336, art. 1 à 5; DORS/95-403, art. 1; DORS/96-300, art. 1 à 3; DORS/97-285, art. 1 à 4; DORS/97-356, art. 1; DORS/98-333, art. 1 à 5; DORS/99-303, art. 1 à 7; DORS/2000-213, art. 8; DORS/2000-276, art. 1 à 6; DORS/2001-242, art. 1 à 4; DORS/2002-286, art. 1 à 4, 5(A), 6, 7(A), 8, 9(F), 10(A), 11(F), 12(F), 13(F), 14 à 16 et 17(F); DORS/2003-285, art. 2 à 4, 5(F), 6, 7(F) et 8(F); DORS/2004-169, art. 1, 2, 3(F), 4, 5(F), 6 à 9, 10(F), 11, 12, 13(F) et 14; DORS/2005-225, art. 1(F), 2(F), 3(F), 4 et 5; DORS/2005-330, art. 1(A); DORS/2006-146, art. 1; DORS/2007-162, art. 1 et 2; DORS/2008-219, art. 1, 2(F), 3(F), 4(A), 5, 6(F), 7(A), 8(F), 9(A), 10, 11(A), 12, 13(A), 14, 15(F), 16(A), 17, 18(A), 19, 20(F), 21 à 23, 24(F), 25(A), 26 et 27, err., Vol. 142, n<sup>o</sup>o 15.
 
 
 
