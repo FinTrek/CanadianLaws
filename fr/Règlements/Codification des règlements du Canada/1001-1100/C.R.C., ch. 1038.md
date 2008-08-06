@@ -42,7 +42,7 @@ Autorités habilitantes :
 
 ***année de modèle*** désigne l’année utilisée pour désigner un modèle de véhicule distinct, indépendamment de l’année civile réelle de production du véhicule, dans la mesure où la période de production est inférieure à deux ans; (*model year*)
 
-***ANSI*** L’American National Standards Institute. (*ANSI*)
+***ANSI*** L’*American National Standards Institute*. (*ANSI*)
 
 ***ANS Z26***[Abrogée, DORS/94-717, art. 1]
 
@@ -104,7 +104,7 @@ Autorités habilitantes :
 
 ***boyau de frein***[Abrogée, DORS/2007-180, art. 1]
 
-***camion*** Véhicule conçu essentiellement pour le transport de biens ou d’équipements spécialisés. Sont exclus de la présente définition les véhicules sur chenilles, les remorques, les véhicules de travail, les véhicules importés temporairement à des fins spéciales, les véhicules de compétition, les véhicules conçus pour se déplacer exclusivement hors route et les véhicules à trois roues. (*truck*)
+***camion*** Véhicule conçu essentiellement pour le transport de biens ou d’équipements spécialisés. Sont exclus de la présente définition les véhicules sur chenilles, les remorques, les véhicules de travail, les véhicules importés temporairement à des fins spéciales, les véhicules de compétition, les véhicules conçus pour se déplacer exclusivement hors route, les véhicules à trois roues et les véhicules à basse vitesse. (*truck*)
 
 ***camion-tracteur*** désigne un camion conçu essentiellement pour remorquer d’autres véhicules et dont la construction ne permet pas d’autre charge qu’une partie du poids du véhicule et de la charge remorquée, ainsi que tout véhicule conçu pour accepter un attelage pivotant, à l’exclusion d’un véhicule de dépannage équipé d’une grue; (*truck tractor*)
 
@@ -408,12 +408,12 @@ Le volume de carburant visé à l’alinéa b) ne comprend pas le volume de carb
 
 ***monteur***[Abrogée, DORS/95-147, art. 1]
 
-***motocyclette*** Tout véhicule des sous-catégories motocyclette à vitesse limitée, motocyclette à habitacle fermé, motocyclette sans habitacle fermé et tricycle à moteur, qui, à la fois :
+***motocyclette*** Véhicule qui appartient aux sous-catégories motocyclette à vitesse limitée, motocyclette à habitacle fermé, motocyclette sans habitacle fermé ou tricycle à moteur et qui, à la fois :
 - **a)** est conçu pour rouler sur au plus trois roues en contact avec le sol;
 - **b)** a des roues dont le diamètre de jante minimal est de 250 mm;
 - **c)** a un empattement minimal de 1 016 mm.
 
-Sont exclus de la présente définition les bicyclettes assistées, les motocyclettes à usage restreint, les véhicules à basse vitesse, les voiture de tourisme, les camions, les véhicules de tourisme à usages multiples, les véhicules de compétition, les véhicules importés temporairement à des fins spéciales et les véhicules à trois roues. (*motorcycle*)
+Sont exclus de la présente définition les bicyclettes assistées, les motocyclettes à usage restreint, les voitures de tourisme, les camions, les véhicules de tourisme à usages multiples, les véhicules de compétition, les véhicules importés temporairement à des fins spéciales et les véhicules à trois roues. (*motorcycle*)
 
 ***motocyclette à habitacle fermé*** Motocyclette qui, à la fois :
 - **a)** a un guidon dont la rotation se transmet sans intermédiaire à l’axe d’une seule roue en contact avec le sol;
@@ -674,12 +674,14 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 
 ***véhicule***[Abrogée, DORS/95-536, art. 7]
 
-***véhicule à basse vitesse*** Véhicule, autre qu’un véhicule tout terrain, un camion ou un véhicule importé temporairement à des fins spéciales, qui remplit les conditions suivantes :
-- **a)** il est alimenté par un moteur électrique;
-- **b)** il ne produit pas d’émissions;
-- **c)** il est conçu pour rouler sur quatre roues et pouvoir atteindre une vitesse de plus de 32 km/h mais d’au plus 40 km/h sur 1,6 km, sur une surface asphaltée plane. (*low-speed vehicle*)
+***véhicule à basse vitesse*** Véhicule, autre qu’une motocyclette à usage restreint ou un véhicule importé temporairement à des fins spéciales, qui, à la fois :
+- **a)** est conçu essentiellement pour rouler dans les rues et sur les routes où l’accès et l’usage d’autres catégories de véhicules sont régis par la loi ou un accord;
+- **b)** roule sur quatre roues;
+- **c)** est alimenté par un groupe motopropulseur — un moteur électrique et, s’il y a lieu, une transmission — conçu pour permettre au véhicule d’atteindre une vitesse de 32 km/h mais d’au plus 40 km/h sur une distance de 1,6 km sur une surface asphaltée plane;
+- **d)** n’utilise aucun carburant comme source d’énergie à bord du véhicule;
+- **e)** a un PNBV inférieur à 1 361 kg. (*low-speed vehicle*)
 
-***véhicule à trois roues*** Véhicule, autre qu’un véhicule de compétition, un véhicule à basse vitesse, une réplique d’ancien modèle, une motocyclette, une motocyclette à usage restreint, une remorque ou un véhicule importé temporairement à des fins spéciales, qui, à la fois :
+***véhicule à trois roues*** Véhicule, autre qu’un véhicule de compétition, une réplique d’ancien modèle, une motocyclette, une motocyclette à usage restreint, une remorque ou un véhicule importé temporairement à des fins spéciales, qui, à la fois :
 - **a)** est conçu pour rouler sur trois roues en contact avec le sol;
 - **b)** a au plus quatre places assises désignées;
 - **c)** a un PNBV d’au plus 1 000 kg. (*three-wheeled vehicle*)
@@ -750,7 +752,7 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 ***95<sup>e</sup> percentile adulte du sexe masculin*** Personne ayant pour caractéristiques physiques une masse de 97,5 kg, une taille de 1 849 mm, une hauteur en position assise droite de 965 mm, une hauteur en position assise normale de 930 mm, une largeur de hanches en position assise de 419 mm, un tour de hanches en position assise de 1 199 mm, un tour de ceinture en position assise de 1 080 mm, une profondeur de poitrine de 267 mm, un tour de poitrine de 1 130 mm, une hauteur de genoux de 594 mm, une hauteur de jarret de 490 mm, une hauteur de coude en position assise de 295 mm, une épaisseur de cuisses de 175 mm, une distance fesse-genou de 640 mm, une distance fesse-jarret de 549 mm, un écart entre les coudes de 506 mm et une largeur de siège de 404 mm. (*95th percentile adult male*)
 
 - **(2)** Dans le cas d’une banquette unie ou divisée offrant plus de 1 270 mm au niveau des hanches, valeur mesurée conformément aux articles 6.1.34, 6.2.31 et 6.4.27 de la pratique recommandée J1100 de la SAE intitulée *Motor Vehicle Dimensions* (février 2001), dans une voiture de tourisme, un camion ou un véhicule de tourisme à usages multiples qui ont un PNBV inférieur à 4 536 kg, la banquette est censée comprendre au moins trois places assises désignées, à moins que la conception de la banquette ou du véhicule soit telle que l’espace central ne peut servir de place assise.
-> DORS/78-257, art. 1; DORS/78-351, art. 1; DORS/78-525, art. 1; DORS/79-306, art. 1; DORS/79-339, art. 1; DORS/79-340, art. 1; DORS/79-374, art. 1; DORS/79-677, art. 1; DORS/79-719, art. 1; DORS/79-940, art. 1; DORS/80-161, art. 1; DORS/80-282, art. 1; DORS/80-439, art. 1; DORS/80-440, art. 1; DORS/80-636, art. 1; DORS/80-638, art. 1; DORS/80-782, art. 1; DORS/81-88, art. 1; DORS/81-1033, art. 1; DORS/82-569, art. 1; DORS/82-656, art. 1; DORS/82-753, art. 1; DORS/82-754, art. 1; DORS/83-176, art. 1; DORS/83-859, art. 1; DORS/84-374, art. 1; DORS/84-812, art. 1; DORS/86-161, art. 1; DORS/86-683, art. 1; DORS/86-976, art. 1; DORS/86-977, art. 1; DORS/87-154, art. 1; DORS/87-497, art. 1; DORS/87-578, art. 1; DORS/87-660, art. 1; DORS/88-268, art. 1; DORS/89-384, art. 1; DORS/90-588, art. 1; DORS/90-805, art. 1; DORS/91-425, art. 1; DORS/91-692, art. 1; DORS/92-173, art. 1; DORS/92-250, art. 1; DORS/92-545, art. 1; DORS/93-5, art. 1; DORS/93-31, art. 1; DORS/93-146, art. 1; DORS/93-561, art. 1; DORS/94-291, art. 1; DORS/94-669, art. 1; DORS/94-670, art. 2(F); DORS/94-692, art. 2(F); DORS/94-717, art. 1; DORS/95-147, art. 1; DORS/95-164, art. 1; DORS/95-536, art. 7; DORS/96-366, art. 1; DORS/97-141, art. 1; DORS/97-200, art. 1; DORS/97-201, art. 1; DORS/97-421, art. 1, 17 et 22(F); DORS/97-447, art. 1; DORS/98-125, art. 1; DORS/98-160, art. 1; DORS/98-457, art. 1; DORS/98-524, art. 1(F); DORS/99-357, art. 1; DORS/2000-182, art. 1; DORS/2000-304, art. 1; DORS/2001-35, art. 1; DORS/2001-117, art. 1; DORS/2001-152, art. 1; DORS/2002-15, art. 25(F); DORS/2002-55, art. 1; DORS/2002-187, art. 1; DORS/2002-205, art. 1; DORS/2003-57, art. 3(F); DORS/2003-272, art. 1; DORS/2004-250, art. 1; DORS/2005-45, art. 1; DORS/2006-94, art. 4(A); DORS/2007-180, art. 1; DORS/2008-72, art. 1; DORS/2008-73, art. 1; DORS/2008-104, art. 1.
+> DORS/78-257, art. 1; DORS/78-351, art. 1; DORS/78-525, art. 1; DORS/79-306, art. 1; DORS/79-339, art. 1; DORS/79-340, art. 1; DORS/79-374, art. 1; DORS/79-677, art. 1; DORS/79-719, art. 1; DORS/79-940, art. 1; DORS/80-161, art. 1; DORS/80-282, art. 1; DORS/80-439, art. 1; DORS/80-440, art. 1; DORS/80-636, art. 1; DORS/80-638, art. 1; DORS/80-782, art. 1; DORS/81-88, art. 1; DORS/81-1033, art. 1; DORS/82-569, art. 1; DORS/82-656, art. 1; DORS/82-753, art. 1; DORS/82-754, art. 1; DORS/83-176, art. 1; DORS/83-859, art. 1; DORS/84-374, art. 1; DORS/84-812, art. 1; DORS/86-161, art. 1; DORS/86-683, art. 1; DORS/86-976, art. 1; DORS/86-977, art. 1; DORS/87-154, art. 1; DORS/87-497, art. 1; DORS/87-578, art. 1; DORS/87-660, art. 1; DORS/88-268, art. 1; DORS/89-384, art. 1; DORS/90-588, art. 1; DORS/90-805, art. 1; DORS/91-425, art. 1; DORS/91-692, art. 1; DORS/92-173, art. 1; DORS/92-250, art. 1; DORS/92-545, art. 1; DORS/93-5, art. 1; DORS/93-31, art. 1; DORS/93-146, art. 1; DORS/93-561, art. 1; DORS/94-291, art. 1; DORS/94-669, art. 1; DORS/94-670, art. 2(F); DORS/94-692, art. 2(F); DORS/94-717, art. 1; DORS/95-147, art. 1; DORS/95-164, art. 1; DORS/95-536, art. 7; DORS/96-366, art. 1; DORS/97-141, art. 1; DORS/97-200, art. 1; DORS/97-201, art. 1; DORS/97-421, art. 1, 17 et 22(F); DORS/97-447, art. 1; DORS/98-125, art. 1; DORS/98-160, art. 1; DORS/98-457, art. 1; DORS/98-524, art. 1(F); DORS/99-357, art. 1; DORS/2000-182, art. 1; DORS/2000-304, art. 1; DORS/2001-35, art. 1; DORS/2001-117, art. 1; DORS/2001-152, art. 1; DORS/2002-15, art. 25(F); DORS/2002-55, art. 1; DORS/2002-187, art. 1; DORS/2002-205, art. 1; DORS/2003-57, art. 3(F); DORS/2003-272, art. 1; DORS/2004-250, art. 1; DORS/2005-45, art. 1; DORS/2006-94, art. 4(A); DORS/2007-180, art. 1; DORS/2008-72, art. 1; DORS/2008-73, art. 1; DORS/2008-104, art. 1; DORS/2008-229, art. 1.
 
 
 
@@ -2036,7 +2038,7 @@ Fait à Ottawa, le _________________________ 20_________________________
 <td>X</td>
 <td>X</td>
 <td></td>
-<td></td>
+<td>X</td>
 <td>X</td>
 </tr>
 <tr>
@@ -2745,7 +2747,7 @@ Fait à Ottawa, le _________________________ 20_________________________
 </tr>
 </table>
 
-> DORS/78-80, art. 1; DORS/78-910, art. 1(F); DORS/79-305, art. 1; DORS/79-306, art. 2; DORS/79-339, art. 2; DORS/79-340, art. 2; DORS/79-374, art. 2; DORS/79-677, art. 2; DORS/79-940, art. 5; DORS/80-160, art. 1; DORS/80-161, art. 2; DORS/80-282, art. 2; DORS/80-439, art. 2; DORS/80-639, art. 1(F); DORS/81-88, art. 2; DORS/81-665, art. 1; DORS/82-656, art. 2; DORS/82-753, art. 2; DORS/82-754, art. 2; DORS/83-138, art. 1; DORS/84-812, art. 2; DORS/86-682, art. 1; DORS/86-683, art. 2; DORS/86-975, art. 1; DORS/87-658, art. 1; DORS/87-660, art. 3; DORS/88-268, art. 4; DORS/89-384, art. 2(F) et 3 à 5; DORS/90-805, art. 4; DORS/91-425, art. 3; DORS/92-173, art. 5; DORS/92-250, art. 2(F); DORS/92-545, art. 2(F); DORS/93-31, art. 2; DORS/93-146, art. 3; DORS/93-561, art. 2; DORS/94-291, art. 2; DORS/94-669, art. 2; DORS/95-60, art. 1; DORS/95-147, art. 5 et 15(F); DORS/95-164, art. 2; DORS/96-89, art. 1; DORS/96-366, art. 4; DORS/96-437, art. 1; DORS/97-14, art. 1; DORS/97-141, art. 3; DORS/97-200, art. 2; DORS/97-201, art. 2; DORS/97-376, art. 4; DORS/97-421, art. 2; DORS/97-463, art. 1; DORS/97-532, art. 1 et 2; DORS/98-160, art. 2; DORS/98-457, art. 2; DORS/98-595, art. 1; DORS/99-357, art. 2; DORS/2000-182, art. 4; DORS/2000-304, art. 4; DORS/2001-35, art. 2 et 3; DORS/2001-353, art. 1; DORS/2001-486, art. 1; DORS/2002-55, art. 12; DORS/2002-205, art. 2; DORS/2003-272, art. 6; DORS/2003-359, art. 1 à 3; DORS/2004-195, art. 1; DORS/2005-45, art. 2; DORS/2006-94, art. 1; DORS/2007-180, art. 2 à 4; DORS/2007-246, art. 1; DORS/2008-73, art. 2; DORS/2008-104, art. 7(F) et 8(F).
+> DORS/78-80, art. 1; DORS/78-910, art. 1(F); DORS/79-305, art. 1; DORS/79-306, art. 2; DORS/79-339, art. 2; DORS/79-340, art. 2; DORS/79-374, art. 2; DORS/79-677, art. 2; DORS/79-940, art. 5; DORS/80-160, art. 1; DORS/80-161, art. 2; DORS/80-282, art. 2; DORS/80-439, art. 2; DORS/80-639, art. 1(F); DORS/81-88, art. 2; DORS/81-665, art. 1; DORS/82-656, art. 2; DORS/82-753, art. 2; DORS/82-754, art. 2; DORS/83-138, art. 1; DORS/84-812, art. 2; DORS/86-682, art. 1; DORS/86-683, art. 2; DORS/86-975, art. 1; DORS/87-658, art. 1; DORS/87-660, art. 3; DORS/88-268, art. 4; DORS/89-384, art. 2(F) et 3 à 5; DORS/90-805, art. 4; DORS/91-425, art. 3; DORS/92-173, art. 5; DORS/92-250, art. 2(F); DORS/92-545, art. 2(F); DORS/93-31, art. 2; DORS/93-146, art. 3; DORS/93-561, art. 2; DORS/94-291, art. 2; DORS/94-669, art. 2; DORS/95-60, art. 1; DORS/95-147, art. 5 et 15(F); DORS/95-164, art. 2; DORS/96-89, art. 1; DORS/96-366, art. 4; DORS/96-437, art. 1; DORS/97-14, art. 1; DORS/97-141, art. 3; DORS/97-200, art. 2; DORS/97-201, art. 2; DORS/97-376, art. 4; DORS/97-421, art. 2; DORS/97-463, art. 1; DORS/97-532, art. 1 et 2; DORS/98-160, art. 2; DORS/98-457, art. 2; DORS/98-595, art. 1; DORS/99-357, art. 2; DORS/2000-182, art. 4; DORS/2000-304, art. 4; DORS/2001-35, art. 2 et 3; DORS/2001-353, art. 1; DORS/2001-486, art. 1; DORS/2002-55, art. 12; DORS/2002-205, art. 2; DORS/2003-272, art. 6; DORS/2003-359, art. 1 à 3; DORS/2004-195, art. 1; DORS/2005-45, art. 2; DORS/2006-94, art. 1; DORS/2007-180, art. 2 à 4; DORS/2007-246, art. 1; DORS/2008-73, art. 2; DORS/2008-104, art. 7(F) et 8(F); DORS/2008-229, art. 2.
 
 
 
@@ -11020,24 +11022,20 @@ où :
 
 **500** 
 
-**(1)** Tout véhicule à basse vitesse doit être conforme aux exigences du Document de normes techniques no 500 — Véhicules à basse vitesse, avec ses modifications successives, ci-après appelé le « DNT 500 ».
+**(1)** Tout véhicule à basse vitesse doit être conforme aux exigences du Document de normes techniques no 500 — Véhicules à basse vitesse (DNT 500), avec ses modifications successives.
 
 
 
-**(2)** Malgré la disposition S5(9) du DNT 500, le numéro d’identification du véhicule doit être conforme à l’article 115 de la présente annexe.
+**(2) à (5)** [Non en vigueur]
 
 
 
-**(3)** Malgré la disposition S5(10) du DNT 500, les ceintures de sécurité de type 1 ou de type 2 doivent être conformes à l’article 209 de la présente annexe.
-
-
-
-**(4)** Le présent article cesse d’avoir effet le 1<sup>er</sup> janvier 2010.
+**(6)** Le présent article cesse d’avoir effect le 1<sup>er</sup> juin 2013.
 
 
 
 
-> DORS/2000-304, art. 6; DORS/2005-42, art. 11 et 12..
+> DORS/2000-304, art. 6; DORS/2005-42, art. 11 et 12; DORS/2008-229, art. 3..
 
 
 ### Stabilité des véhicules
