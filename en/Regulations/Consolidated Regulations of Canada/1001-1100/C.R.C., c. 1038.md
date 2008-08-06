@@ -342,9 +342,9 @@ Enabling authorities:
 
 ***light duty vehicle***[Repealed, SOR/2001-35, s. 1]
 
-***light source***[Repealed, SOR/96-366, s. 1]
-
 ***lightly loaded vehicle weight***[Repealed, SOR/99-357, s. 1]
+
+***light source***[Repealed, SOR/96-366, s. 1]
 
 ***limited-speed motorcycle*** means a motorcycle that
 - **(a)** has steering handlebars that are completely constrained from rotating in relation to the axle of only one wheel in contact with the ground,
@@ -364,10 +364,12 @@ Enabling authorities:
 
 ***lower universal anchorage system*** means a device, other than a vehicle seat belt, that is designed to secure the lower part of a restraint system or booster cushion to a vehicle and that transfers loads from the restraint system or booster cushion and its occupant to the vehicle structure or seat; (*dispositif universel d’ancrages d’attaches inférieurs*)
 
-***low-speed vehicle*** means a vehicle, other than an all-terrain vehicle, a truck or a vehicle imported temporarily for special purposes, that
-- **(a)** is powered by an electric motor,
-- **(b)** produces no emissions,
-- **(c)** is designed to travel on four wheels and has an attainable speed in 1.6 km of more than 32 km/h but not more than 40 km/h on a paved level surface; (*véhicule à basse vitesse*)
+***low-speed vehicle*** means a vehicle, other than a restricted-use motorcycle or a vehicle imported temporarily for special purposes, that
+- **(a)** is designed for use primarily on streets and roads where access and the use of other classes of vehicles are controlled by law or agreement,
+- **(b)** travels on four wheels,
+- **(c)** is powered by an electric power train (an electric motor and, if present, a transmission) that is designed to allow the vehicle to attain a speed of 32 km/h but not more than 40 km/h in a distance of 1.6 km on a paved level surface,
+- **(d)** does not use fuel as an on-board source of energy, and
+- **(e)** has a GVWR of less than 1 361 kg; (*véhicule à basse vitesse*)
 
 ***make*** means the name that a manufacturer applies to a group of vehicles; (*marque*)
 
@@ -403,12 +405,12 @@ Enabling authorities:
 
 ***moped***[Repealed, SOR/88-268, s. 1]
 
-***motorcycle*** means a vehicle of the subclasses enclosed motorcycle, open motorcycle, limited-speed motorcycle and motor tricycle, that
+***motorcycle*** means a vehicle that is of the subclasses enclosed motorcycle, open motorcycle, limited-speed motorcycle or motor tricycle, and
 - **(a)** is designed to travel on not more than three wheels in contact with the ground,
 - **(b)** has a minimum wheel rim diameter of 250 mm, and
 - **(c)** has a minimum wheelbase of 1 016 mm,
 
-but does not include a power-assisted bicycle, a restricted-use motorcycle, a low-speed vehicle, a passenger car, a truck, a multi-purpose passenger vehicle, a competition vehicle, a vehicle imported temporarily for special purposes or a three-wheeled vehicle; (*motocyclette*)
+but does not include a power-assisted bicycle, a restricted-use motorcycle, a passenger car, a truck, a multi-purpose passenger vehicle, a competition vehicle, a vehicle imported temporarily for special purposes or a three-wheeled vehicle; (*motocyclette*)
 
 ***motor driven cycle***[Repealed, SOR/88-268, s. 1]
 
@@ -649,7 +651,7 @@ but does not include a power-assisted bicycle, a restricted-use motorcycle, a lo
 
 ***tether strap hook*** means a device that has an interface profile shown in Figure 1 of section 210.1 of Schedule IV and is used to attach a tether strap to a user-ready tether anchorage; (*crochet de la courroie d’attache*)
 
-***three-wheeled vehicle*** means a vehicle, other than a competition vehicle, a low-speed vehicle, an antique reproduction vehicle, a motorcycle, a restricted-use motorcycle, a trailer or a vehicle imported temporarily for special purposes, that
+***three-wheeled vehicle*** means a vehicle, other than a competition vehicle, an antique reproduction vehicle, a motorcycle, a restricted-use motorcycle, a trailer or a vehicle imported temporarily for special purposes, that
 - **(a)** is designed to travel on three wheels in contact with the ground,
 - **(b)** has no more than four designated seating positions, and
 - **(c)** has a GVWR of 1 000 kg or less; (*véhicule à trois roues*)
@@ -666,7 +668,7 @@ but does not include a power-assisted bicycle, a restricted-use motorcycle, a lo
 
 ***transparent cover***[Repealed, SOR/96-366, s. 1]
 
-***truck*** means a vehicle designed primarily for the transportation of property or special-purpose equipment, but does not include a competition vehicle, a crawler-mounted vehicle, a three-wheeled vehicle, a trailer, a work vehicle, a vehicle imported temporarily for special purposes or a vehicle designed for operation exclusively off-road; (*camion*)
+***truck*** means a vehicle designed primarily for the transportation of property or special-purpose equipment, but does not include a competition vehicle, a crawler-mounted vehicle, a three-wheeled vehicle, a trailer, a work vehicle, a vehicle imported temporarily for special purposes, a vehicle designed for operation exclusively off-road or a low-speed vehicle; (*camion*)
 
 ***truck tractor*** means a truck designed primarily for drawing other vehicles and not constructed for carrying any load other than a part of the weight of the vehicle and load drawn, and includes a vehicle designed to accept a fifth-wheel coupling but does not include a crane-equipped breakdown vehicle; (*camion-tracteur*)
 
@@ -750,7 +752,7 @@ except that the volume of fuel referred to in paragraph (b) does not include any
 ***95th percentile adult male*** means a person having as physical characteristics a mass of 97.5 kg, height of 1849 mm, erect sitting height of 965 mm, normal sitting height of 930 mm, hip sitting breadth of 419 mm, hip sitting circumference of 1199 mm, waist sitting circumference of 1080 mm, chest depth of 267 mm, chest circumference of 1130 mm, knee height of 594 mm, popliteal height of 490 mm, elbow rest height of 295 mm, thigh clearance height of 175 mm, buttock-to-knee length of 640 mm, buttock-to-poples length of 549 mm, elbow-to-elbow breadth of 506 mm and seat breadth of 404 mm. (*95<sup>e</sup> percentile adulte du sexe masculin*)
 
 - **(2)** In the case of any bench or split-bench seat having more than 1 270 mm of hip room, as measured in accordance with sections 6.1.34, 6.2.31 and 6.4.27 of SAE Recommended Practice J1100, Motor Vehicle Dimensions (February 2001), in a passenger car, truck or multi-purpose passenger vehicle having a GVWR of less than 4 536 kg, the seat shall be deemed to contain not less than three designated seating positions unless the seat design or vehicle design is such that the centre position is not capable of being used as a seating position.
-> SOR/78-257, s. 1; SOR/78-351, s. 1; SOR/78-525, s. 1; SOR/79-306, s. 1; SOR/79-339, s. 1; SOR/79-340, s. 1; SOR/79-374, s. 1; SOR/79-677, s. 1; SOR/79-719, s. 1; SOR/79-940, s. 1; SOR/80-161, s. 1; SOR/80-282, s. 1; SOR/80-439, s. 1; SOR/80-440, s. 1; SOR/80-636, s. 1; SOR/80-638, s. 1; SOR/80-782, s. 1; SOR/81-88, s. 1; SOR/81-1033, s. 1; SOR/82-569, s. 1; SOR/82-656, s. 1; SOR/82-753, s. 1; SOR/82-754, s. 1; SOR/83-176, s. 1; SOR/83-859, s. 1; SOR/84-374, s. 1; SOR/84-812, s. 1; SOR/86-161, s. 1; SOR/86-683, s. 1; SOR/86-976, s. 1; SOR/86-977, s. 1; SOR/87-154, s. 1; SOR/87-497, s. 1; SOR/87-578, s. 1; SOR/87-660, s. 1; SOR/88-268, s. 1; SOR/89-384, s. 1; SOR/90-588, s. 1; SOR/90-805, s. 1; SOR/91-425, s. 1; SOR/91-692, s. 1; SOR/92-173, s. 1; SOR/92-250, s. 1; SOR/92-545, s. 1; SOR/93-5, s. 1; SOR/93-31, s. 1; SOR/93-146, s. 1; SOR/93-561, s. 1; SOR/94-291, s. 1; SOR/94-669, s. 1; SOR/94-670, s. 2(F); SOR/94-692, s. 2(F); SOR/94-717, s. 1; SOR/95-147, s. 1; SOR/95-164, s. 1; SOR/95-536, s. 7; SOR/96-366, s. 1; SOR/97-141, s. 1; SOR/97-200, s. 1; SOR/97-201, s. 1; SOR/97-421, ss. 1, 17, 22(F); SOR/97-447, s. 1; SOR/98-125, s. 1; SOR/98-160, s. 1; SOR/98-457, s. 1; SOR/98-524, s. 1(F); SOR/99-357, s. 1; SOR/2000-182, s. 1; SOR/2000-304, s. 1; SOR/2001-35, s. 1; SOR/2001-117, s. 1; SOR/2001-152, s. 1; SOR/2002-15, s. 25(F); SOR/2002-55, s. 1; SOR/2002-187, s. 1; SOR/2002-205, s. 1; SOR/2003-57, s. 3(F); SOR/2003-272, s. 1; SOR/2004-250, s. 1; SOR/2005-45, s. 1; SOR/2006-94, s. 4(E); SOR/2007-180, s. 1; SOR/2008-72, s. 1; SOR/2008-73, s. 1; SOR/2008-104, s. 1.
+> SOR/78-257, s. 1; SOR/78-351, s. 1; SOR/78-525, s. 1; SOR/79-306, s. 1; SOR/79-339, s. 1; SOR/79-340, s. 1; SOR/79-374, s. 1; SOR/79-677, s. 1; SOR/79-719, s. 1; SOR/79-940, s. 1; SOR/80-161, s. 1; SOR/80-282, s. 1; SOR/80-439, s. 1; SOR/80-440, s. 1; SOR/80-636, s. 1; SOR/80-638, s. 1; SOR/80-782, s. 1; SOR/81-88, s. 1; SOR/81-1033, s. 1; SOR/82-569, s. 1; SOR/82-656, s. 1; SOR/82-753, s. 1; SOR/82-754, s. 1; SOR/83-176, s. 1; SOR/83-859, s. 1; SOR/84-374, s. 1; SOR/84-812, s. 1; SOR/86-161, s. 1; SOR/86-683, s. 1; SOR/86-976, s. 1; SOR/86-977, s. 1; SOR/87-154, s. 1; SOR/87-497, s. 1; SOR/87-578, s. 1; SOR/87-660, s. 1; SOR/88-268, s. 1; SOR/89-384, s. 1; SOR/90-588, s. 1; SOR/90-805, s. 1; SOR/91-425, s. 1; SOR/91-692, s. 1; SOR/92-173, s. 1; SOR/92-250, s. 1; SOR/92-545, s. 1; SOR/93-5, s. 1; SOR/93-31, s. 1; SOR/93-146, s. 1; SOR/93-561, s. 1; SOR/94-291, s. 1; SOR/94-669, s. 1; SOR/94-670, s. 2(F); SOR/94-692, s. 2(F); SOR/94-717, s. 1; SOR/95-147, s. 1; SOR/95-164, s. 1; SOR/95-536, s. 7; SOR/96-366, s. 1; SOR/97-141, s. 1; SOR/97-200, s. 1; SOR/97-201, s. 1; SOR/97-421, ss. 1, 17, 22(F); SOR/97-447, s. 1; SOR/98-125, s. 1; SOR/98-160, s. 1; SOR/98-457, s. 1; SOR/98-524, s. 1(F); SOR/99-357, s. 1; SOR/2000-182, s. 1; SOR/2000-304, s. 1; SOR/2001-35, s. 1; SOR/2001-117, s. 1; SOR/2001-152, s. 1; SOR/2002-15, s. 25(F); SOR/2002-55, s. 1; SOR/2002-187, s. 1; SOR/2002-205, s. 1; SOR/2003-57, s. 3(F); SOR/2003-272, s. 1; SOR/2004-250, s. 1; SOR/2005-45, s. 1; SOR/2006-94, s. 4(E); SOR/2007-180, s. 1; SOR/2008-72, s. 1; SOR/2008-73, s. 1; SOR/2008-104, s. 1; SOR/2008-229, s. 1.
 
 
 
@@ -2036,7 +2038,7 @@ Issued in Ottawa on _________________________, 20_________________________
 <td></td>
 <td>X</td>
 <td></td>
-<td></td>
+<td>X</td>
 <td>X</td>
 </tr>
 <tr>
@@ -2745,7 +2747,7 @@ Issued in Ottawa on _________________________, 20_________________________
 </tr>
 </table>
 
-> SOR/78-80, s. 1; SOR/78-910, s. 1(F); SOR/79-305, s. 1; SOR/79-306, s. 2; SOR/79-339, s. 2; SOR/79-340, s. 2; SOR/79-374, s. 2; SOR/79-677, s. 2; SOR/79-940, s. 5; SOR/80-160, s. 1; SOR/80-161, s. 2; SOR/80-282, s. 2; SOR/80-439, s. 2; SOR/80-639, s. 1(F); SOR/81-88, s. 2; SOR/81-665, s. 1; SOR/82-656, s. 2; SOR/82-753, s. 2; SOR/82-754, s. 2; SOR/83-138, s. 1; SOR/84-812, s. 2; SOR/86-682, s. 1; SOR/86-683, s. 2; SOR/86-975, s. 1; SOR/87-658, s. 1; SOR/87-660, s. 3; SOR/88-268, s. 4; SOR/89-384, ss. 2(F), 3 to 5; SOR/90-805, s. 4; SOR/91-425, s. 3; SOR/92-173, s. 5. SOR/92-250, s. 2(F); SOR/92-545, s. 2(F);SOR/93-31, s. 2; SOR/93-146, s. 3; SOR/93-561, s. 2; SOR/94-291, s. 2; SOR/94-669, s. 2; SOR/95-60, s. 1; SOR/95-147, ss. 5, 15(F); SOR/95-164, s. 2; SOR/96-89, s. 1; SOR/96-366, s. 4; SOR/96-437, s. 1; SOR/97-14, s. 1; SOR/97-141, s. 3; SOR/97-200, s. 2; SOR/97-201, s. 2; SOR/97-376, s. 4; SOR/97-421, s. 2; SOR/97-463, s. 1; SOR/97-532, ss. 1, 2; SOR/98-160, s. 2; SOR/98-457, s. 2; SOR/98-595, s. 1; SOR/99-357, s. 2; SOR/2000-182, s. 4; SOR/2000-304, s. 4; SOR/2001-35, ss. 2, 3; SOR/2001-353, s. 1; SOR/2001-486, s. 1; SOR/2002-55, s. 12; SOR/2002-205, s. 2; SOR/2003-272, s. 6; SOR/2003-359, ss. 1 to 3; SOR/2004-195, s. 1; SOR/2005-45, s. 2; SOR/2006-94, s. 1; SOR/2007-180, ss. 2 to 4; SOR/2007-246, s. 1; SOR/2008-73, s. 2; SOR/2008-104, ss. 7(F), 8(F).
+> SOR/78-80, s. 1; SOR/78-910, s. 1(F); SOR/79-305, s. 1; SOR/79-306, s. 2; SOR/79-339, s. 2; SOR/79-340, s. 2; SOR/79-374, s. 2; SOR/79-677, s. 2; SOR/79-940, s. 5; SOR/80-160, s. 1; SOR/80-161, s. 2; SOR/80-282, s. 2; SOR/80-439, s. 2; SOR/80-639, s. 1(F); SOR/81-88, s. 2; SOR/81-665, s. 1; SOR/82-656, s. 2; SOR/82-753, s. 2; SOR/82-754, s. 2; SOR/83-138, s. 1; SOR/84-812, s. 2; SOR/86-682, s. 1; SOR/86-683, s. 2; SOR/86-975, s. 1; SOR/87-658, s. 1; SOR/87-660, s. 3; SOR/88-268, s. 4; SOR/89-384, ss. 2(F), 3 to 5; SOR/90-805, s. 4; SOR/91-425, s. 3; SOR/92-173, s. 5. SOR/92-250, s. 2(F); SOR/92-545, s. 2(F);SOR/93-31, s. 2; SOR/93-146, s. 3; SOR/93-561, s. 2; SOR/94-291, s. 2; SOR/94-669, s. 2; SOR/95-60, s. 1; SOR/95-147, ss. 5, 15(F); SOR/95-164, s. 2; SOR/96-89, s. 1; SOR/96-366, s. 4; SOR/96-437, s. 1; SOR/97-14, s. 1; SOR/97-141, s. 3; SOR/97-200, s. 2; SOR/97-201, s. 2; SOR/97-376, s. 4; SOR/97-421, s. 2; SOR/97-463, s. 1; SOR/97-532, ss. 1, 2; SOR/98-160, s. 2; SOR/98-457, s. 2; SOR/98-595, s. 1; SOR/99-357, s. 2; SOR/2000-182, s. 4; SOR/2000-304, s. 4; SOR/2001-35, ss. 2, 3; SOR/2001-353, s. 1; SOR/2001-486, s. 1; SOR/2002-55, s. 12; SOR/2002-205, s. 2; SOR/2003-272, s. 6; SOR/2003-359, ss. 1 to 3; SOR/2004-195, s. 1; SOR/2005-45, s. 2; SOR/2006-94, s. 1; SOR/2007-180, ss. 2 to 4; SOR/2007-246, s. 1; SOR/2008-73, s. 2; SOR/2008-104, ss. 7(F), 8(F); SOR/2008-229, s. 2.
 
 
 
@@ -11035,24 +11037,20 @@ where
 
 **500** 
 
-**(1)** Every low-speed vehicle shall conform to the requirements of Technical Standards Document No. 500, Low-speed Vehicles, as amended from time to time (hereinafter referred to as TSD 500).
+**(1)** Every low-speed vehicle shall conform to the requirements of Technical Standards Document No. 500, Low-speed Vehicles (TSD 500), as amended from time to time.
 
 
 
-**(2)** Despite section S5(9) of TSD 500, the vehicle identification number shall conform to section 115 of this Schedule.
+**(2) to (5)** [Not in force]
 
 
 
-**(3)** Despite section S5(10) of TSD 500, a Type 1 or Type 2 seat belt assembly shall conform to section 209 of this Schedule.
-
-
-
-**(4)** This section expires on January 1, 2010.
+**(6)** This section expires on June 1, 2013.
 
 
 
 
-> SOR/2000-304, s. 6; SOR/2005-42, ss. 11, 12..
+> SOR/2000-304, s. 6; SOR/2005-42, ss. 11, 12; SOR/2008-229, s. 3..
 
 
 ### Vehicle Stability
