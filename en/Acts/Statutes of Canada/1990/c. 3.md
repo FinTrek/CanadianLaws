@@ -37,13 +37,15 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **2** In this Act,
 
-***Board***, with respect to a museum, means the Board of Trustees of that museum;
+***Board***, with respect to a museum, means the Board of Trustees of that museum; (*conseil*)
 
-***Minister***, with respect to a museum, means such member of the Queen’s Privy Council for Canada as may be designated by the Governor in Council as the Minister responsible for that museum for the purposes of this Act;
+***Minister***, with respect to a museum, means such member of the Queen’s Privy Council for Canada as may be designated by the Governor in Council as the Minister responsible for that museum for the purposes of this Act; (*ministre*)
 
-***museum*** means a corporation established by Part I;
+***museum*** means a corporation established by Part I; (*musée*)
 
-***museum material*** means objects, and records, of a type normally kept by a museum for reference or exhibition purposes.
+***museum material*** means objects and documentary material, regardless of medium or form, of a type normally kept by a museum for reference or exhibition purposes. (*matériel de musée*)
+> 1990, c. 3, s. 2; 2008, c. 9, s. 1.
+
 
 
 
@@ -298,6 +300,69 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
+### Establishment of the Canadian Museum for Human Rights
+
+
+
+**Establishment**
+
+**15.1** 
+
+- **(1)** There is established a corporation to be called the Canadian Museum for Human Rights.
+
+**Affiliated museums**
+
+- **(2)** The Canadian Museum for Human Rights shall include any affiliated museums that the Board of the Canadian Museum for Human Rights may, by by-law, establish with the approval of the Governor in Council.
+> 2008, c. 9, s. 2.
+
+
+
+
+
+### Purpose, Capacity and Powers of the Canadian Museum for Human Rights
+
+
+
+**Purpose**
+
+**15.2** The purpose of the Canadian Museum for Human Rights is to explore the subject of human rights, with special but not exclusive reference to Canada, in order to enhance the public’s understanding of human rights, to promote respect for others and to encourage reflection and dialogue.
+> 2008, c. 9, s. 2.
+
+
+
+
+
+**Capacity and powers**
+
+**15.3** 
+
+- **(1)** In furtherance of its purpose, the Canadian Museum for Human Rights has, subject to this Act, the capacity of a natural person and, elsewhere than in Quebec, the rights, powers and privileges of a natural person. In particular, but without limiting the generality of the foregoing, the Canadian Museum for Human Rights may
+	- **(a)** collect museum material related to human rights;
+	- **(b)** maintain its collection by preservation, conservation or restoration or the establishment of records or documentation;
+	- **(c)** sell, exchange, give away, destroy or otherwise dispose of museum material in its collection and use any revenue obtained from that disposal to further its collection;
+	- **(d)** lend or borrow museum material on long- or short-term loan;
+	- **(e)** organize, sponsor, arrange for or participate in travelling exhibitions, in Canada or internationally, of museum material in its collection or from other sources;
+	- **(f)** undertake or sponsor any research related to its purpose or to museology and communicate the results of that research;
+	- **(g)** provide facilities to permit qualified individuals to use or study its collection;
+	- **(h)** promote knowledge and disseminate information related to its purpose, throughout Canada and internationally, by any appropriate means of education and communication;
+	- **(i)** establish and foster links with other organizations that have a purpose similar to its own;
+	- **(j)** share the expertise of its staff by undertaking or sponsoring training and apprenticeship programs that relate to its purpose;
+	- **(k)** provide or arrange for professional and technical services to any other organization that has a purpose similar to its own;
+	- **(l)** acquire property by gift, bequest or otherwise and hold in trust or otherwise, expend, invest, administer and dispose of that property;
+	- **(m)** develop, operate and maintain branches or exhibition centres;
+	- **(n)** operate restaurants, lounges, parking facilities, shops and other facilities for the use of the public;
+	- **(o)** lease or otherwise make available any of its facilities to other persons; and
+	- **(p)** charge for goods, services and admission and use the revenue so obtained for its own purposes.
+
+**Restriction**
+
+- **(2)** The Canadian Museum for Human Rights may not deal with property otherwise than in accordance with the terms, if any, on which it was acquired or is held.
+> 2008, c. 9, s. 2.
+
+
+
+
+
 ### Capacity in Canada and Elsewhere
 
 
@@ -428,11 +493,15 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **23** 
 
-- **(1)** There shall be a Director of each museum, who shall be appointed by the Board of the museum, with the approval of the Governor in Council, to hold office during pleasure for a term not exceeding five years.
+- **(1)** Subject to subsection (1.1), there shall be a Director of each museum who shall be appointed, with the approval of the Governor in Council, by the museum’s Board to hold office during pleasure for a term of not more than five years.
+
+**Director of the Canadian Museum for Human Rights**
+
+- **(1.1)** The Governor in Council shall, by order, on the recommendation of the Minister, appoint the first Director of the Canadian Museum for Human Rights to hold office during pleasure for a term of not more than five years.
 
 **Reappointment**
 
-- **(2)** The Director is eligible to be reappointed on the expiration of any term of office.
+- **(2)** The Director of each museum is eligible to be reappointed, with the approval of the Governor in Council, by the museum’s Board.
 
 **Chief executive officer**
 
@@ -444,11 +513,17 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Remuneration**
 
-- **(5)** The Director shall be paid by the museum such remuneration as the Board, with the approval of the Governor in Council, may determine.
+- **(5)** Subject to subsection (5.1), the Director shall be paid by the museum any remuneration that the Board, with the approval of the Governor in Council, may determine.
+
+**Remuneration — first Director of the Canadian Museum for Human Rights**
+
+- **(5.1)** The first Director of the Canadian Museum for Human Rights shall be paid by that museum for the duration of his or her first term of office any remuneration that the Governor in Council may, by order, on the recommendation of the Minister, determine.
 
 **Acting Director**
 
 - **(6)** If the Director is absent or unable to act or if the office of the Director is vacant, the Board may designate another officer of the museum to act as Director for the time being, but no person so designated shall act in that office for a period exceeding ninety days without the approval of the Governor in Council.
+> 1990, c. 3, s. 23; 2008, c. 9, s. 3.
+
 
 
 
@@ -481,6 +556,21 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 ### General
+
+
+
+**Pre-establishment contracts**
+
+**24.1** 
+
+- **(1)** As of the date of its establishment under this Act, each museum shall be bound by any deed, contract or agreement entered into on its behalf by the Minister before its establishment and shall be entitled to the benefits of any such deed, contract or agreement and the Minister shall cease to be bound.
+
+**Not retroactive**
+
+- **(2)** Subsection (1) does not apply to any museum already established by this Act on the day on which that subsection comes into force.
+> 2008, c. 9, s. 4.
+
+
 
 
 
