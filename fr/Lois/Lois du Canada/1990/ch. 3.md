@@ -37,13 +37,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***conseil*** Relativement à un musée, le conseil d’administration.
+***conseil*** Relativement à un musée, le conseil d’administration. (*Board*)
 
-***matériel de musée*** Objets et documents du type de ceux normalement conservés par un musée à des fins de consultation ou d’exposition.
+***matériel de musée*** Objets et éléments d’information, quel qu’en soit le support, du type de ceux normalement conservés par un musée à des fins de consultation ou d’exposition. (*museum material*)
 
-***ministre*** Le membre du Conseil privé de la Reine pour le Canada chargé par le gouverneur en conseil de l’application de la présente loi à l’égard d’un musée.
+***ministre*** Le membre du Conseil privé de la Reine pour le Canada chargé par le gouverneur en conseil de l’application de la présente loi à l’égard d’un musée. (*Minister*)
 
-***musée*** Personne morale constituée par la partie I.
+***musée*** Personne morale constituée par la partie I. (*museum*)
+> 1990, ch. 3, art. 2; 2008, ch. 9, art. 1.
+
 
 
 
@@ -298,6 +300,69 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+### Constitution du Musée canadien des droits de la personne
+
+
+
+**Constitution**
+
+**15.1** 
+
+- **(1)** Est constituée une personne morale sous le nom de Musée canadien des droits de la personne.
+
+**Musées affiliés**
+
+- **(2)** Le Musée canadien des droits de la personne comprend tout musée affilié institué par règlement administratif de son conseil avec l’agrément du gouverneur en conseil.
+> 2008, ch. 9, art. 2.
+
+
+
+
+
+### Mission, capacité et pouvoirs du Musée canadien des droits de la personne
+
+
+
+**Mission**
+
+**15.2** Le Musée canadien des droits de la personne a pour mission d’explorer le thème des droits de la personne, en mettant un accent particulier sur le Canada, en vue d’accroître la compréhension du public à cet égard, de promouvoir le respect des autres et d’encourager la réflexion et le dialogue.
+> 2008, ch. 9, art. 2.
+
+
+
+
+
+**Capacité et pouvoirs**
+
+**15.3** 
+
+- **(1)** Dans l’exécution de sa mission, le Musée canadien des droits de la personne a, sous réserve des autres dispositions de la présente loi, la capacité d’une personne physique et, ailleurs qu’au Québec, les droits, pouvoirs et privilèges de celle-ci; à ce titre, il peut notamment :
+	- **a)** collectionner du matériel de musée relatif aux droits de la personne;
+	- **b)** gérer sa collection par la préservation, la conservation ou la restauration ainsi que la constitution de registres et de documentation;
+	- **c)** se départir, notamment par vente, échange, don ou destruction, du matériel de musée provenant de sa collection et utiliser le produit de la disposition pour améliorer celle-ci;
+	- **d)** prêter ou emprunter à court et à long terme du matériel de musée;
+	- **e)** organiser, faire organiser ou parrainer, dans l’ensemble du Canada et à l’étranger, des expositions itinérantes de matériel de musée provenant de sa collection ou d’autres sources, ou encore y participer;
+	- **f)** entreprendre ou parrainer des recherches dans les domaines liés à sa mission ou en muséologie et en communiquer les résultats;
+	- **g)** fournir des installations permettant aux personnes qualifiées d’utiliser ou d’étudier sa collection;
+	- **h)** favoriser l’approfondissement des connaissances et diffuser de l’information dans les domaines liés à sa mission, dans l’ensemble du Canada et à l’étranger, par tout moyen de communication et d’enseignement approprié;
+	- **i)** établir et encourager des liens avec tous autres organismes à vocation analogue;
+	- **j)** mettre à contribution la compétence de son personnel en élaborant ou parrainant des programmes de formation ou de perfectionnement dans les domaines liés à sa mission;
+	- **k)** fournir ou assurer des services spécialisés et techniques à tout autre organisme à vocation analogue;
+	- **l)** acquérir des biens, notamment par don ou par legs, les détenir en fiducie ou autrement, les employer, investir ou gérer et en disposer;
+	- **m)** mettre sur pied, exploiter et entretenir des centres d’exposition ou des succursales;
+	- **n)** exploiter des restaurants, débits de boissons, parcs de stationnement, boutiques et autres installations à l’intention du public;
+	- **o)** mettre ses installations à la disposition d’autres personnes, notamment par location;
+	- **p)** exiger des droits d’entrée et des droits pour les biens et services qu’il fournit, et utiliser les recettes ainsi obtenues à ses propres fins.
+
+**Restriction**
+
+- **(2)** Le Musée canadien des droits de la personne ne peut disposer de ses biens qu’aux conditions fixées pour leur acquisition ou détention.
+> 2008, ch. 9, art. 2.
+
+
+
+
+
 ### Capacité au Canada et à l’étranger
 
 
@@ -428,11 +493,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **23** 
 
-- **(1)** Avec l’agrément du gouverneur en conseil, le conseil de chaque musée nomme à titre amovible le directeur pour un mandat maximal de cinq ans.
+- **(1)** Sous réserve du paragraphe (1.1), le conseil de chaque musée, avec l’agrément du gouverneur en conseil, nomme à titre amovible le directeur pour un mandat maximal de cinq ans.
+
+**Directeur du Musée canadien des droits de la personne**
+
+- **(1.1)** Dans le cas du Musée canadien des droits de la personne, le gouverneur en conseil, sur recommandation du ministre, nomme par décret, à titre amovible, le premier titulaire du poste de directeur pour un mandat maximal de cinq ans.
 
 **Renouvellement**
 
-- **(2)** Le mandat du directeur est renouvelable.
+- **(2)** Le mandat du directeur de chaque musée peut être renouvelé par le conseil, avec l’agrément du gouverneur en conseil.
 
 **Attributions**
 
@@ -444,11 +513,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Rémunération**
 
-- **(5)** Le directeur reçoit du musée le traitement que fixe le conseil avec l’agrément du gouverneur en conseil.
+- **(5)** Sous réserve du paragraphe (5.1), le directeur reçoit du musée le traitement que fixe le conseil avec l’agrément du gouverneur en conseil.
+
+**Rémunération du premier directeur du Musée canadien des droits de la personne**
+
+- **(5.1)** Dans le cas du Musée canadien des droits de la personne, le premier titulaire du poste de directeur du musée reçoit de celui-ci, pour la durée de son premier mandat, le traitement que fixe par décret le gouverneur en conseil sur recommandation du ministre.
 
 **Absence ou empêchement**
 
 - **(6)** En cas d’absence ou d’empêchement du directeur ou de vacance de son poste, le conseil peut désigner un autre dirigeant du musée pour assurer l’intérim dont la durée est limitée à quatre-vingt-dix jours, sauf prorogation approuvée par le gouverneur en conseil.
+> 1990, ch. 3, art. 23; 2008, ch. 9, art. 3.
+
 
 
 
@@ -481,6 +556,21 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 ### Dispositions générales
+
+
+
+**Contrats antérieurs à la constitution d’un musée**
+
+**24.1** 
+
+- **(1)** À compter de la date de constitution d’un musée par la présente loi, le musée est lié par tout acte, contrat ou accord signé par le ministre en son nom avant sa constitution et a le droit d’en tirer parti, et le ministre cesse dès lors d’être lié.
+
+**Non-rétroactivité**
+
+- **(2)** Les musées déjà constitués par la présente loi à l’entrée en vigueur du paragraphe (1) sont soustraits à l’application de celui-ci.
+> 2008, ch. 9, art. 4.
+
+
 
 
 
