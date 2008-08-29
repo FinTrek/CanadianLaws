@@ -361,8 +361,9 @@ Enabling authorities:
 	- **(p)** have adequate facilities and means for the thorough washing, cleaning and sanitizing of equipment;
 	- **(q)** be equipped with adequate means of establishing, maintaining and verifying the temperature and humidity of any room where eggs are held;
 	- **(r)** have a room for the inspection of eggs that is suitably equipped for that purpose;
-	- **(s)** if eggs are pasteurized at the egg station, have the equipment necessary for the pasteurization program referred to in paragraph 7(2)(h); and
-	- **(t)** use, for bringing about and maintaining clean and sanitary conditions in the egg station, only those chemical agents that are included on the Reference Listing or, if not included, that the operator has demonstrated to be equally safe and effective.
+	- **(s)** if eggs are pasteurized at the egg station, have the equipment necessary for the pasteurization program referred to in paragraph 7(2)(h);
+	- **(t)** use, for bringing about and maintaining clean and sanitary conditions in the egg station, only those chemical agents that are included on the Reference Listing or, if not included, that the operator has demonstrated to be equally safe and effective; and
+	- **(u)** have one or more separate rooms for the storage of eggs graded Canada A, Canada B or Canada C.
 
 - **(3)** A registered egg station may use water other than potable water referred to in paragraph (2)(k) where it is used solely for fire protection, boilers or auxiliary services and there is no connection between the system for that water and the system for potable water.
 > SOR/90-110, s. 3; SOR/92-12, s. 3; SOR/2006-193, s. 5.
@@ -410,7 +411,9 @@ Enabling authorities:
 
 - **(17)** A room used for storing eggs in a registered egg station shall not also be used for grading eggs that have not been previously graded.
 
-- **(18)** The temperature of any room where eggs are held in a registered egg station shall be maintained at not more than 13°C.
+- **(18)** The temperature of any room where eggs are held in a registered egg station shall be maintained at not more than
+	- **(a)** 10°C in the case of a room holding eggs graded Canada A, Canada B or Canada C; and
+	- **(b)** 13°C in the case of a room holding eggs graded Canada Nest Run, ungraded eggs or eggs bearing a dye-mark.
 
 - **(19)** Nothing that is likely to emit an odour that could affect the flavour of eggs shall be kept in a registered egg station.
 
