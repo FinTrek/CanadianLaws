@@ -366,7 +366,8 @@ Autorités habilitantes :
 	- **q)** être pourvu des moyens voulus pour régler, maintenir et vérifier la température et le degré d’humidité dans les pièces où les oeufs sont entreposés;
 	- **r)** comprendre une pièce réservée à l’inspection des oeufs et équipée convenablement à cette fin;
 	- **s)** si des oeufs sont pasteurisés au poste d’oeufs, être pourvu de l’équipement nécessaire dans le cadre du programme de pasteurisation visé à l’alinéa 7(2)h);
-	- **t)** pour assurer la salubrité et la propreté des lieux, n’utiliser que des agents chimiques figurant dans la Liste de référence ou dont l’utilisation dans un poste d’oeufs, tel qu’il a été démontré par l’exploitant, est tout aussi sûre et efficace.
+	- **t)** pour assurer la salubrité et la propreté des lieux, n’utiliser que des agents chimiques figurant dans la Liste de référence ou dont l’utilisation dans un poste d’oeufs, tel qu’il a été démontré par l’exploitant, est tout aussi sûre et efficace;
+	- **u) ** comprendre une ou plusieurs pièces distinctes pour l’entreposage des oeufs classés Canada A, Canada B et Canada C.
 
 - **(3)** Le poste d’oeufs agréé peut utiliser de l’eau, autre que celle visée à l’alinéa (2)k), si elle sert uniquement à la protection contre les incendies, aux chaudières ou aux services auxiliaires et si le réseau de canalisations de cette eau est indépendant de celui de l’eau potable.
 > DORS/90-110, art. 3; DORS/92-12, art. 3; DORS/2006-193, art. 5.
@@ -414,7 +415,9 @@ Autorités habilitantes :
 
 - **(17)** Aucune pièce du poste d’oeufs agréé servant à l’entreposage des oeufs ne peut être utilisée pour la classification d’oeufs non classés au préalable.
 
-- **(18)** La température de toute pièce du poste d’oeufs agréé où les oeufs sont entreposés doit être maintenue à un maximum de 13 °C.
+- **(18)** La température de toute pièce du poste d’oeufs agréé où des oeufs sont entreposés doit être maintenue à au plus :
+	- **a)** 10 °C dans le cas d’une pièce où sont entreposés des oeufs classés Canada A, Canada B ou Canada C;
+	- **b)** 13 °C dans le cas d’une pièce où sont entreposés des oeufs classés Canada Oeufs toutvenant, des oeufs non classés ou des oeufs portant une marque de teinture.
 
 - **(19)** Aucune substance susceptible de dégager une odeur risquant d’altérer la saveur des oeufs ne peut être gardée dans le poste d’oeufs agréé.
 
@@ -453,7 +456,7 @@ Autorités habilitantes :
 - **(30)** Les oeufs classés qui sont retournés à un poste d’oeufs agréé ne peuvent être acheminés à partir de ce poste en tant qu’oeufs comestibles que vers un poste agréé d’oeufs transformés.
 
 - **(31)** L’eau utilisée pour laver les oeufs doit être d’au moins 11 °C plus chaude que les oeufs et, dans le cas d’un réseau utilisant de l’eau recyclée :
-	- **a)** être maintenue à au moins 40 °C;
+	- **a)** être maintenue à au moins 40 °C;
 	- **b)** être maintenue à un pH d’au moins 10.
 
 - **(32)** À la demande de l’exploitant, le directeur peut désigner une autre température minimale ou une autre valeur de pH minimale, ou les deux, si l’exploitant démontre au directeur qu’une telle mesure ne compromettrait pas l’efficacité ni la sécurité du réseau de lavage des oeufs.
