@@ -5740,13 +5740,17 @@ Système d’immobilisation
 
 
 
-**b)** figurer clairement et de manière indélébile, en creux, en relief ou par impression
+**b)** figurer clairement et de manière indélébile, en creux, en relief ou par impression et de manière à ce qu’il ne puisse être enlevé sans endommager ou abîmer la plaque, l’étiquette ou le véhicule à l’un des endroits suivants :
 
-**(i)** sur une partie du véhicule autre que les vitrages, qui n’est pas conçue pour être enlevée, sauf pour réparation, ou
+**(i)** sur une partie intégrante ou structurale du véhicule, sauf le dessus ou le coussin du tablier,
 
 
 
-**(ii)** sur une plaque ou une étiquette distincte fixée de façon inamovible sur une partie du véhicule décrite au sous-alinéa (i);
+**(ii)** sur le tablier ou le dessus du tablier, s’il n’est pas conçu pour être remplacé à la suite du déploiement du sac gonflable,
+
+
+
+**(iii)** sur une plaque ou une étiquette distinctes fixées en permanence à un endroit visé aux sous-alinéas (i) ou (ii);
 
 
 
@@ -5797,6 +5801,34 @@ Système d’immobilisation
 
 
 **g)** être protégé contre la corrosion.
+
+
+
+
+
+**(2.2)** Au choix du fabricant, le numéro d’identification du véhicule peut aussi figurer sous forme d’un code à barres, laquelle doit satisfaire aux exigences de l’article 5.6 de la ligne directrice AIAG B-10, Trading Partner Labels Implementation Guideline (février 2000), à l’exception des spécifications relatives aux dimensions et à la densité du code, qui doivent satisfaire aux exigences de l’article 4.1 de la norme AIAG B-2, Vehicle Identification Number Label Standard (juin 1988).
+
+
+
+**(2.3)** Le numéro d’identification du véhicule sous forme d’un code à barres doit figurer :
+
+**a)** soit sur l’étiquette de conformité ou l’étiquette informative du véhicule;
+
+
+
+**b)** soit sur une étiquette distincte apposée à côté de l’étiquette de conformité ou de l’étiquette informative conformément aux alinéas 7a) et b) du présent règlement.
+
+
+
+
+
+**(2.4)** Si le numéro d’identification du véhicule figure sur une étiquette sous forme d’un code à barres, il n’est pas nécessaire, jusqu’au 1<sup>er</sup> septembre 2012, qu’il soit aussi apposé conformément à l’alinéa 115(2)b); il peut toutefois, au choix du fabricant, figurer clairement et de manière indélébile, en creux, en relief ou par impression :
+
+**a)** soit sur une partie du véhicule, autre que les vitrages, qui n’est pas conçue pour être enlevée, sauf pour réparation;
+
+
+
+**b)** soit sur une plaque ou une étiquette distinctes fixées en permanence sur une partie du véhicule visée à l’alinéa a).
 
 
 
