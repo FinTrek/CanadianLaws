@@ -5739,13 +5739,17 @@ Immobilization System
 
 
 
-**(b)** be sunk into, embossed on or imprinted, clearly and indelibly, on
+**(b)** be sunk into, embossed on or imprinted, clearly and indelibly, and in such a manner that the vehicle identification number cannot be removed without damaging or defacing the plate, label or vehicle, on
 
-**(i)** any part of the vehicle that is not designed to be removed except for repair, other than glazing, or
+**(i)** an integral or structural part of the vehicle other than the dash-board pad or dash-board cover,
 
 
 
-**(ii)** a separate plate or label that is permanently affixed to a part referred to in subparagraph (i); and
+**(ii)** the dash-board or dash-board cover if it is not designed to be replaced following an air bag deployment, or
+
+
+
+**(iii)** a separate plate or label that is permanently affixed in a location referred to in subparagraph (i) or (ii); and
 
 
 
@@ -5796,6 +5800,34 @@ Immobilization System
 
 
 **(g)** be protected from corrosion.
+
+
+
+
+
+**(2.2)** At the option of the manufacturer, the vehicle identification number may also be displayed in a bar code format that shall meet the requirements of section 5.6 of guideline AIAG B-10, Trading Partner Labels Implementation Guideline (February, 2000), except for the specifications respecting code density and dimensions, which shall meet the requirements of section 4.1 of standard AIAG B-2, Vehicle Identification Number Label Standard (June, 1988).
+
+
+
+**(2.3)** Every bar coded vehicle identification number shall be displayed on
+
+**(a)** the vehicle’s compliance or information label; or
+
+
+
+**(b)** a separate label that is applied beside the compliance or information label in accordance with paragraphs 7(a) and (b) of these Regulations.
+
+
+
+
+
+**(2.4)** If the vehicle identification number is displayed on a label in a bar code format, it need not, until September 1, 2012, also be applied to the vehicle in accordance with paragraph 115(2)(b), but may, at the option of the manufacturer, be sunk into, embossed on or imprinted, clearly and indelibly, on
+
+**(a)** any part of the vehicle that is not designed to be removed except for repair, other than glazing; or
+
+
+
+**(b)** a separate plate or label that is permanently affixed to a part referred to in paragraph (a).
 
 
 
@@ -11551,9 +11583,9 @@ where
 **(b)** tie-down points to which each snowmobile can be secured by ropes or straps and that are of sufficient strength to withstand a force of 2 224.11 N (500 pounds) applied separately from any direction to each tie-down point.
 
 
+
+
 > SOR/2003-359, s. 4.
-
-
 
 
 
