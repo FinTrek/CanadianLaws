@@ -12692,6 +12692,27 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>Rognons, foie et gras de bovin et de chèvre; rognons, foie, peau et gras de poulet</td>
 </tr>
 <tr>
+<td>D.1.1</td>
+<td>diclazuril</td>
+<td>diclazuril</td>
+<td>0,5</td>
+<td>Muscle de dinde et de poulet</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>1,0</td>
+<td>Gras et peau de dinde et de poulet</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>3,0</td>
+<td>Foie de dinde et de poulet</td>
+</tr>
+<tr>
 <td>D.2</td>
 <td>dihydrostreptomycine</td>
 <td>dihydrostreptomycine</td>
@@ -12716,6 +12737,69 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td>6,0</td>
 <td>Foie et rognons de poulet</td>
+</tr>
+<tr>
+<td>D.4</td>
+<td>doramectine</td>
+<td>doramectine</td>
+<td>0,01</td>
+<td>Muscle de porc</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>0,03</td>
+<td>Muscle de bovin</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>0,035</td>
+<td>Foie de porc</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>0,07</td>
+<td>Foie de bovin</td>
+</tr>
+<tr>
+<td>E.01</td>
+<td>enrofloxacine</td>
+<td>desethylene ciprofloxacine</td>
+<td>0,02</td>
+<td>Muscle de bovin</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>0,07</td>
+<td>Foie de bovin</td>
+</tr>
+<tr>
+<td>E.02</td>
+<td>eprinomectine</td>
+<td>eprinomectine B<sub>la</sub></td>
+<td>0,02</td>
+<td>Lait</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>0,1</td>
+<td>Muscle de bovin</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>1,0</td>
+<td>Foie de bovin</td>
 </tr>
 <tr>
 <td>E.1</td>
@@ -12767,6 +12851,20 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>Foie de bovin</td>
 </tr>
 <tr>
+<td>F.3</td>
+<td>flunixine</td>
+<td>flunixine sous forme d’acide</td>
+<td>0,02</td>
+<td>Muscle de bovin</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>0,08</td>
+<td>Foie de bovin</td>
+</tr>
+<tr>
 <td>G.1</td>
 <td>gentamicine</td>
 <td>gentamicine</td>
@@ -12815,6 +12913,41 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>Foie de bovin</td>
 </tr>
 <tr>
+<td>K.1</td>
+<td>kétoprofène</td>
+<td>kétoprofène</td>
+<td>0,05</td>
+<td>Lait</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>0,1</td>
+<td>Muscle de porc</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>0,25</td>
+<td>Muscle de bovin</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>0,5</td>
+<td>Rein de porc</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>0,8</td>
+<td>Rein de bovin</td>
+</tr>
+<tr>
 <td>L.01</td>
 <td>lasalocide</td>
 <td>lasalocide</td>
@@ -12839,6 +12972,20 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(calculé comme chlorhydrate de lévamisole)</td>
 </tr>
 <tr>
+<td>L.2</td>
+<td>lincomycine</td>
+<td>lincomycine</td>
+<td>0,1</td>
+<td>Muscle de porc et de poulet</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>0,5</td>
+<td>Foie de porc et de poulet</td>
+</tr>
+<tr>
 <td>M.01</td>
 <td>maduramicine</td>
 <td>maduramicine</td>
@@ -12849,6 +12996,13 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>M.1</td>
 <td>monensin</td>
 <td>monensin</td>
+<td>0,01</td>
+<td>Lait</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
 <td>0,05</td>
 <td>Tissus comestibles de bovin, de dinde et de poulet</td>
 </tr>
@@ -12875,6 +13029,13 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>N.01</td>
 <td>narasin</td>
 <td>narasin</td>
+<td>0,05</td>
+<td>Muscle de porc et de poulet; foie de porc</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
 <td>0,5</td>
 <td>Gras de poulet</td>
 </tr>
@@ -12912,6 +13073,41 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>novobiocine</td>
 <td>1,0</td>
 <td>Tissus comestibles de bovin, de poulet et de dinde</td>
+</tr>
+<tr>
+<td>O.1</td>
+<td>oxytétracycline</td>
+<td>oxytétracycline</td>
+<td>0,2</td>
+<td>Muscle de bovin, de dinde, de homard, de mouton, de porc, de poulet et de salmonidé</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>0,3</td>
+<td>Miel</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>0,4</td>
+<td>Oeufs</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>0,6</td>
+<td>Foie de bovin, de dinde, de mouton, de porc et de poulet</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>1,2</td>
+<td>Reins de bovin, de dinde, de mouton, de porc et de poulet; gras de bovin et de mouton; peau et gras de dinde, de porc et de poulet</td>
 </tr>
 <tr>
 <td>P.1</td>
@@ -13160,7 +13356,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 </table>
 
-> DORS/84-300, art. 49(A); DORS/91-255, art. 2; DORS/92-591, art. 2; DORS/2002-52, art. 1 à 12; DORS/2005-396, art. 1 à 4.
+> DORS/84-300, art. 49(A); DORS/91-255, art. 2; DORS/92-591, art. 2; DORS/2002-52, art. 1 à 12; DORS/2005-396, art. 1 à 4; DORS/2008-274, art. 1 à 8.
 
 
 
@@ -41570,6 +41766,8 @@ Oséltamivir et ses sels<br />- <i>Oseltamivir and its salts</i>
 
 Oxacilline, ses sels et dérivés<br />- <i>Oxacillin and its salts and derivatives</i>
 
+Oxaliplatine<br />- <i>Oxaliplatin</i>
+
 Oxanamide<br />- <i>Oxanamide</i>
 
 Oxaprozine, ses sels et dérivés<br />- <i>Oxaprozin and its salts and derivatives</i>
@@ -41813,6 +42011,8 @@ Raloxifène et ses sels<br />- <i>Raloxifene and its salts</i>
 Raltitrexed, ses sels et dérivés<br />- <i>Raltitrexed and its salts and derivatives</i>
 
 Ramipril, ses sels et dérivés<br />- <i>Ramipril and its salts and derivatives</i>
+
+Ranibizumab<br />- <i>Ranibizumab</i>
 
 Ranitidine et ses sels, sauf s’ils sont vendus en une concentration de 150 mg ou moins par unité posologique orale et indiqués pour le traitement des brûlures d’estomac<br />- <i>Ranitidine and its salts, except when sold in concentrations of 150 mg or less per oral dosage unit and indicated for the treatment of heartburn</i>
 
@@ -42514,7 +42714,7 @@ Vitamine K, sauf la vitamine K<sub>1</sub> et la vitamine K<sub>2</sub> vendues 
 **b)** *in oral dosage form for use in humans if the maximum recommended daily dose is 0.120 mg or less*
 
 
-> DORS/78-423, art. 5; DORS/78-427, art. 11; DORS/79-754, art. 1; DORS/80-279, art. 1; DORS/81-334, art. 6; DORS/81-358, art. 2; DORS/82-1072, art. 1; DORS/85-551, art. 2; DORS/86-91, art. 5; DORS/86-955, art. 1; DORS/87-332, art. 1; DORS/87-447, art. 1; DORS/87-496, art. 1 à 18; DORS/87-669, art. 1 et 2; DORS/88-351, art. 1 à 11; DORS/88-511, art. 1 à 11; DORS/89-195, art. 1; DORS/89-454, art. 1 à 4; DORS/89-504, art. 1 à 4; DORS/89-572, art. 1 à 45; DORS/90-119, art. 1 à 10; DORS/90-173, art. 2(F); DORS/90-443, art. 1(F) à 4(F), 5 et 6(F) à 15(F); DORS/90-585, art. 1 à 5; DORS/91-197, art. 1 et 2(F); DORS/91-521, art. 1 à 15; DORS/92-95, art. 1 à 9; DORS/92-386, art. 4 à 8; DORS/92-591, art. 2; DORS/92-647, art. 1 à 15; DORS/92-724, art. 1; DORS/93-110, art. 1 à 3, 4(A), 5(A) et 6 à 11; DORS/93-243, art. 2; DORS/93-435, art. 1 à 38; DORS/94-166, art. 1 à 17, 18(A) et 19 à 30; DORS/94-286, art. 1 et 2; DORS/94-458, art. 1 à 13; DORS/94-462, art. 1; DORS/94-557, art. 1 à 9; DORS/94-461, art. 1; DORS/95-59, art. 1; DORS/95-172, art. 2; DORS/95-201, art. 1; DORS/95-546, art. 1; DORS/96-253, art. 1 et 2; DORS/96-306, art. 1; DORS/97-140, art. 1; DORS/97-407, art. 1; DORS/97-410, art. 1 et 2; DORS/97-414, art. 1; DORS/97-543, art. 8 et 9; DORS/97-544, art. 1; DORS/97-567, art. 1; DORS/98-291, art. 1 à 7; DORS/98-292, art. 1; DORS/98-293, art. 1; DORS/98-294, art. 1; DORS/99-370, art. 1, 2(F), 3 et 4(F); DORS/99-373, art. 1; DORS/99-374, art. 1(F) et 2; DORS/99-412, art. 1; DORS/2000-119, art. 1; DORS/2000-124, art. 1; DORS/2000-197, art. 1 et 2; DORS/2000-219, art. 2; DORS/2000-403, art. 1 et 2; DORS/2001-95, art. 1; DORS/2001-531, art. 1; DORS/2002-53, art. 1; DORS/2002-418, art. 1; DORS/2003-34, art. 6 à 8; DORS/2003-36, art. 1; DORS/2003-80, art. 1 et 2; DORS/2003-248, art. 1; DORS/2003-327, art. 1; DORS/2004-108, art. 1 à 6; DORS/2005-105, art. 1; DORS/2005-167, art. 1; DORS/2005-270, art. 1; DORS/2005-307, art. 1; DORS/2006-143, art. 1; DORS/2006-144, art. 1 et 2; DORS/2006-211, art. 1; DORS/2006-212, art. 1; DORS/2006-213, art. 1; DORS/2006-214, art. 1; DORS/2006-215, art. 1; DORS/2006-251, art. 1; DORS/2007-36, art. 1; DORS/2007-37, art. 1; DORS/2007-38, art. 1; DORS/2007-39, art. 1; DORS/2007-40, art. 1; DORS/2007-41, art. 1; DORS/2007-42, art. 1 et 2; DORS/2007-83, art. 1; DORS/2007-224, art. 1; DORS/2007-234, art. 1; DORS/2008-35, art. 1; DORS/2008-100, art. 1; DORS/2008-101, art. 1 et 2; DORS/2008-108, art. 1; DORS/2008-204, art. 1; DORS/2008-205, art. 1; DORS/2008-206, art. 1; DORS/2008-207, art. 1.
+> DORS/78-423, art. 5; DORS/78-427, art. 11; DORS/79-754, art. 1; DORS/80-279, art. 1; DORS/81-334, art. 6; DORS/81-358, art. 2; DORS/82-1072, art. 1; DORS/85-551, art. 2; DORS/86-91, art. 5; DORS/86-955, art. 1; DORS/87-332, art. 1; DORS/87-447, art. 1; DORS/87-496, art. 1 à 18; DORS/87-669, art. 1 et 2; DORS/88-351, art. 1 à 11; DORS/88-511, art. 1 à 11; DORS/89-195, art. 1; DORS/89-454, art. 1 à 4; DORS/89-504, art. 1 à 4; DORS/89-572, art. 1 à 45; DORS/90-119, art. 1 à 10; DORS/90-173, art. 2(F); DORS/90-443, art. 1(F) à 4(F), 5 et 6(F) à 15(F); DORS/90-585, art. 1 à 5; DORS/91-197, art. 1 et 2(F); DORS/91-521, art. 1 à 15; DORS/92-95, art. 1 à 9; DORS/92-386, art. 4 à 8; DORS/92-591, art. 2; DORS/92-647, art. 1 à 15; DORS/92-724, art. 1; DORS/93-110, art. 1 à 3, 4(A), 5(A) et 6 à 11; DORS/93-243, art. 2; DORS/93-435, art. 1 à 38; DORS/94-166, art. 1 à 17, 18(A) et 19 à 30; DORS/94-286, art. 1 et 2; DORS/94-458, art. 1 à 13; DORS/94-462, art. 1; DORS/94-557, art. 1 à 9; DORS/94-461, art. 1; DORS/95-59, art. 1; DORS/95-172, art. 2; DORS/95-201, art. 1; DORS/95-546, art. 1; DORS/96-253, art. 1 et 2; DORS/96-306, art. 1; DORS/97-140, art. 1; DORS/97-407, art. 1; DORS/97-410, art. 1 et 2; DORS/97-414, art. 1; DORS/97-543, art. 8 et 9; DORS/97-544, art. 1; DORS/97-567, art. 1; DORS/98-291, art. 1 à 7; DORS/98-292, art. 1; DORS/98-293, art. 1; DORS/98-294, art. 1; DORS/99-370, art. 1, 2(F), 3 et 4(F); DORS/99-373, art. 1; DORS/99-374, art. 1(F) et 2; DORS/99-412, art. 1; DORS/2000-119, art. 1; DORS/2000-124, art. 1; DORS/2000-197, art. 1 et 2; DORS/2000-219, art. 2; DORS/2000-403, art. 1 et 2; DORS/2001-95, art. 1; DORS/2001-531, art. 1; DORS/2002-53, art. 1; DORS/2002-418, art. 1; DORS/2003-34, art. 6 à 8; DORS/2003-36, art. 1; DORS/2003-80, art. 1 et 2; DORS/2003-248, art. 1; DORS/2003-327, art. 1; DORS/2004-108, art. 1 à 6; DORS/2005-105, art. 1; DORS/2005-167, art. 1; DORS/2005-270, art. 1; DORS/2005-307, art. 1; DORS/2006-143, art. 1; DORS/2006-144, art. 1 et 2; DORS/2006-211, art. 1; DORS/2006-212, art. 1; DORS/2006-213, art. 1; DORS/2006-214, art. 1; DORS/2006-215, art. 1; DORS/2006-251, art. 1; DORS/2007-36, art. 1; DORS/2007-37, art. 1; DORS/2007-38, art. 1; DORS/2007-39, art. 1; DORS/2007-40, art. 1; DORS/2007-41, art. 1; DORS/2007-42, art. 1 et 2; DORS/2007-83, art. 1; DORS/2007-224, art. 1; DORS/2007-234, art. 1; DORS/2008-35, art. 1; DORS/2008-100, art. 1; DORS/2008-101, art. 1 et 2; DORS/2008-108, art. 1; DORS/2008-204, art. 1; DORS/2008-205, art. 1; DORS/2008-206, art. 1; DORS/2008-207, art. 1; DORS/2008-260, art. 1.
 
 
 
