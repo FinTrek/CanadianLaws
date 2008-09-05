@@ -24,72 +24,70 @@ Enabling authorities:
 
 **2** In these Regulations,
 
-***approach wharf*** means that section of a wharf or wall as defined by appropriate signs immediately above and below a lock; (*quai d’approche*)
+***approach wharf*** means that section of a wharf or wall as defined by appropriate signs immediately above and below a lock; (*quai d’approche*)
 
-***basin*** means any navigable area, whether or not it includes a part of the normal canal prism provided for the loading, unloading, turning or passing of vessels; (*bassin*)
+***basin*** means any navigable area, whether or not it includes a part of the normal canal prism provided for the loading, unloading, turning or passing of vessels; (*bassin*)
 
-***bridgemaster*** means a person actually on duty in charge of a bridge; (*maître-pontier*)
+***bridgemaster*** means a person actually on duty in charge of a bridge; (*maître-pontier*)
 
-***Chief*** means the Chief, Canals Division, Department of Transport, or such person duly appointed to act in that behalf; (*chef*)
+***Chief*** means the Chief, Canals Division, Department of Transport, or such person duly appointed to act in that behalf; (*chef*)
 
-***[Collision Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1401-1500/C.R.C.,%20c.%201416.md)*** means
-- **(a)** in relation to vessels in the St. Peters, Canso, St. Ours and Chambly Canals, the Regulations for Preventing Collisions at Sea established under the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md), and
-- **(b)** in relation to vessels in the Ste. Anne, Carillon, Grenville, Rideau, Trent, Murray and Sault Ste. Marie (Canada) Canals, the *Rules of the Road for the Great Lakes*; (*Règles sur les abordages*)
+***[Collision Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1401-1500/C.R.C.,%20c.%201416.md)***[Repealed, SOR/2008-272, s. 52]
 
-***damkeeper*** means a person actually on duty in charge of a dam; (*barragiste*)
+***damkeeper*** means a person actually on duty in charge of a dam; (*barragiste*)
 
-***Department*** means the Department of Transport; (*ministère*)
+***Department*** means the Department of Transport; (*ministère*)
 
-***despatcher*** means a person actually on duty operating a marine radiotelephone station for controlling ship traffic entering or within a canal; (*agent régulateur*)
+***despatcher*** means a person actually on duty operating a marine radiotelephone station for controlling ship traffic entering or within a canal; (*agent régulateur*)
 
-***employee*** includes any person, not being an officer, employed in the Department; (*employé*)
+***employee*** includes any person, not being an officer, employed in the Department; (*employé*)
 
-***goods*** means any animal, commodity or merchandise; (*marchandises*)
+***goods*** means any animal, commodity or merchandise; (*marchandises*)
 
-***lockmaster*** means a person actually on duty in charge of a lock; (*maître-éclusier*)
+***lockmaster*** means a person actually on duty in charge of a lock; (*maître-éclusier*)
 
-***lying in wait*** means the waiting of a vessel, during the season of navigation, for a berth in such portion of a canal designated by the Superintending Engineer for the purpose of the lying-up of vessels; (*en attente*)
+***lying in wait*** means the waiting of a vessel, during the season of navigation, for a berth in such portion of a canal designated by the Superintending Engineer for the purpose of the lying-up of vessels; (*en attente*)
 
-***lying-up*** means the occupying by a vessel, during the season of navigation, of a berth in such portion of a canal designated by the Superintending Engineer for that purpose; (*séjour*)
+***lying-up*** means the occupying by a vessel, during the season of navigation, of a berth in such portion of a canal designated by the Superintending Engineer for that purpose; (*séjour*)
 
-***marine railway operator*** means a person actually on duty in charge of a marine railway; (*conducteur de ber*)
+***marine railway operator*** means a person actually on duty in charge of a marine railway; (*conducteur de ber*)
 
-***master*** means any person in charge of a vessel, except a pilot; (*capitaine*)
+***master*** means any person in charge of a vessel, except a pilot; (*capitaine*)
 
-***Minister*** means the Minister of Transport; (*ministre*)
+***Minister*** means the Minister of Transport; (*ministre*)
 
-***officer*** means any person employed in the Department exercising control in connection with the canals; (*fonctionnaire*)
+***officer*** means any person employed in the Department exercising control in connection with the canals; (*fonctionnaire*)
 
-***owner***, as applied to goods, includes the consignor and the consignee of the goods; (*propriétaire*)
+***owner***, as applied to goods, includes the consignor and the consignee of the goods; (*propriétaire*)
 
-***owner***, as applied to a vessel, includes the authorized agent of the owner; (*propriétaire*)
+***owner***, as applied to a vessel, includes the authorized agent of the owner; (*propriétaire*)
 
-***package freight*** means goods bagged, baled, boxed, bundled, crated, wrapped, enclosed or bound for transportation; (*marchandises en colis*)
+***package freight*** means goods bagged, baled, boxed, bundled, crated, wrapped, enclosed or bound for transportation; (*marchandises en colis*)
 
-***pleasure craft*** means a non-motorized vessel carrying passengers who are engaged in pleasure, recreation and leisure time pursuits and includes any motorized vessel serving Parks Canada in the operation, management and administration of a canal; (*bateau de plaisance*)
+***pleasure craft*** means a non-motorized vessel carrying passengers who are engaged in pleasure, recreation and leisure time pursuits and includes any motorized vessel serving Parks Canada in the operation, management and administration of a canal; (*bateau de plaisance*)
 
-***restricted area*** means any area of canal land declared by the Superintending Engineer to be an area upon which no goods are to be deposited; (*zone interdite*)
+***restricted area*** means any area of canal land declared by the Superintending Engineer to be an area upon which no goods are to be deposited; (*zone interdite*)
 
-***season of navigation*** means the period from the date of the official opening to the date of the official closing of navigation, both dates inclusive; (*saison de navigation*)
+***season of navigation*** means the period from the date of the official opening to the date of the official closing of navigation, both dates inclusive; (*saison de navigation*)
 
-***side wharfage charges*** means charges levied on a vessel loading, unloading or lying in wait in a canal; (*droit d’accostage*)
+***side wharfage charges*** means charges levied on a vessel loading, unloading or lying in wait in a canal; (*droit d’accostage*)
 
-***storage charges*** means charges levied on goods occupying unleased canal property; (*droit d’entreposage*)
+***storage charges*** means charges levied on goods occupying unleased canal property; (*droit d’entreposage*)
 
-***Superintending Engineer*** and ***Superintendent*** means, respectively, the person holding the office of Superintending Engineer or Superintendent of any of the canals under the jurisdiction of the Department, or any person duly authorized to act for any such officer; (*ingénieur-surintendant**and**surintendant*)
+***Superintending Engineer*** and ***Superintendent*** means, respectively, the person holding the office of Superintending Engineer or Superintendent of any of the canals under the jurisdiction of the Department, or any person duly authorized to act for any such officer; (*ingénieur-surintendant**and**surintendant*)
 
-***top wharfage charges*** means charges levied on goods loaded on or unloaded from a vessel in a canal; (*droit de terre-plein*)
+***top wharfage charges*** means charges levied on goods loaded on or unloaded from a vessel in a canal; (*droit de terre-plein*)
 
-***tow*** means to push, pull or otherwise move through the water; (*remorquer* or *touer*)
+***tow*** means to push, pull or otherwise move through the water; (*remorquer* or *touer*)
 
-***unrestricted area*** means an area of unleased land not included in a restricted area; (*zone libre*)
+***unrestricted area*** means an area of unleased land not included in a restricted area; (*zone libre*)
 
-***vessel*** means any ship, boat or other floating craft or equipment; (*navire*)
+***vessel*** means any ship, boat or other floating craft or equipment; (*navire*)
 
-***vessel traffic controller*** means the officer who controls vessel traffic in the Sault Ste. Marie (Canada) Canal; (*contrôleur du trafic maritime*)
+***vessel traffic controller*** means the officer who controls vessel traffic in the Sault Ste. Marie (Canada) Canal; (*contrôleur du trafic maritime*)
 
-***wintering*** means the occupying, by a vessel, during the non-navigation season of a berth within the limits of the canals, whether such vessel be afloat or otherwise. (*hivernage*) 
-> SOR/80-467, s. 1; SOR/81-69, s. 1.
+***wintering*** means the occupying, by a vessel, during the non-navigation season of a berth within the limits of the canals, whether such vessel be afloat or otherwise. (*hivernage*) 
+> SOR/80-467, s. 1; SOR/81-69, s. 1; SOR/2008-272, s. 52.
 
 
 
@@ -244,16 +242,18 @@ Enabling authorities:
 
 
 
-### Rules of the Road for the Great Lakes and Small Vessel Regulations
+### Collision Regulations and Small Vessel Regulations
 
 
 **17** 
 
-- **(1)** The [Collision Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1401-1500/C.R.C.,%20c.%201416.md) shall be complied with by every vessel in any canal subject to the provision of subsection (3).
+- **(1)** Subject to subsection (3), every vessel in any canal shall comply with the [Collision Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1401-1500/C.R.C.,%20c.%201416.md).
 
-- **(2)** The [Small Vessel Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2010/91.md), established under the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md), shall be complied with by every vessel in any canal subject to the provision of subsection (3).
+- **(2)** Subject to subsection (3), every vessel in any canal shall comply with the [Small Vessel Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2010/91.md), made under the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md).
 
 - **(3)** In the event of conflict between the [Collision Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1401-1500/C.R.C.,%20c.%201416.md), the [Small Vessel Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2010/91.md) and the Canal Regulations, the provisions of the Canal Regulations shall govern while the vessel is in a canal.
+> SOR/2008-272, s. 53.
+
 
 
 
@@ -278,6 +278,8 @@ Enabling authorities:
 - **(1)** Every vessel in any canal shall comply with the rules respecting lights as contained in the [Collision Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1401-1500/C.R.C.,%20c.%201416.md).
 
 - **(2)** No vessel shall use a searchlight in such manner that the rays of the searchlight interfere with the navigation of a vessel or the operation of the canal structures.
+> SOR/2008-272, s. 54(F).
+
 
 
 
@@ -289,6 +291,8 @@ Enabling authorities:
 - **(a)** when two vessels are approaching, from opposite directions, a swing bridge that does not provide separate channels for up and down traffic and curtails the normal width of the navigation channel, the downbound vessel shall have the right-of-way, the upbound vessel holding back so that the vessels will pass each other at least 300 feet below the bridge;
 - **(b)** when two vessels, either one of which exceeds 100 feet in length, are approaching a bend in a canal from opposite directions, the downbound vessel shall have the right-of-way and the upbound vessel shall check its speed so as to avoid meeting in the bend; and
 - **(c)** no vessel shall attempt to overtake another vessel while within 1,000 feet of a lock, guard gate or bridge that both are approaching.
+> SOR/2008-272, s. 55(F).
+
 
 
 
