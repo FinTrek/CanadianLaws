@@ -1118,6 +1118,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **55** Nanoose
 
 
-> 1999, ch. 24, ann.; DORS/2003-178; DORS/2006-216; DORS/2008-51.
+**56** Campbell River
+
+
+**57** Sumas
+
+
+**58** Skawahlook
+
+
+> 1999, ch. 24, ann.; DORS/2003-178; DORS/2006-216; DORS/2008-51, 267.
 
 
