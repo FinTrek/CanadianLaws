@@ -55,8 +55,8 @@ Autorités habilitantes :
 
 
 
-**PARTIE I** [Abrogée, DORS/91-635, art. 2]
-
+**PARTIE I** 
+## [Abrogée, DORS/91-635, art. 2]
 
 
 
@@ -70,7 +70,7 @@ Autorités habilitantes :
 
 **6** 
 
-- **(1)** Sont acceptés à la recommandation au tarif de port applicable prévu à la colonne II de l’article 1 de l’annexe VII les objets transmissibles suivants :
+- **(1)** Sont acceptés à la recommandation au tarif de port applicable prévu à la colonne II de l’article 1 de l’annexe VII les objets suivants :
 	- **a)** les envois poste-lettres, au sens du [Règlement sur les envois poste-lettres](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/88/430.md);
 	- **b)** les lettres visées dans le [Règlement sur les envois de la poste aux lettres du régime postal international](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/83/807.md).
 
@@ -86,10 +86,10 @@ Autorités habilitantes :
 
 - **(8)** La signature du destinataire ou de son représentant doit être obtenue avant de livrer un envoi postal recommandé.
 
-- **(9)** N’est pas accepté à la recommandation un objet transmissible qui ne porte que les initiales ou le nom de famille du destinataire, lorsque ces renseignements ne permettent pas de l’identifier clairement.
+- **(9)** N’est pas accepté à la recommandation un objet qui ne porte que les initiales ou le nom de famille du destinataire, lorsque ces renseignements ne permettent pas de l’identifier clairement.
 
-- **(10)** Lorsqu’un ruban adhésif est utilisé pour fermer un objet transmissible visé à l’alinéa (1)b), l’expéditeur appose son nom, sa marque, son tampon ou sa signature sur le ruban.
-> DORS/78-902, art. 1; DORS/82-25, art. 2; DORS/83-802, art. 1; DORS/85-565, art. 2; DORS/86-241, art. 5; DORS/88-441, art. 4; DORS/88-621, art. 1; DORS/90-17, art. 3; DORS/90-800, art. 3; DORS/91-628, art. 2; DORS/91-635, art. 3; DORS/2000-199, art. 10; DORS/2001-447, art. 1; DORS/2002-167, art. 1; DORS/2003-378, art. 2; DORS/2003-382, art. 5(F).
+- **(10)** Lorsqu’un ruban adhésif est utilisé pour fermer un objet visé à l’alinéa (1)b), l’expéditeur appose son nom, sa marque, son tampon ou sa signature sur le ruban.
+> DORS/78-902, art. 1; DORS/82-25, art. 2; DORS/83-802, art. 1; DORS/85-565, art. 2; DORS/86-241, art. 5; DORS/88-441, art. 4; DORS/88-621, art. 1; DORS/90-17, art. 3; DORS/90-800, art. 3; DORS/91-628, art. 2; DORS/91-635, art. 3; DORS/2000-199, art. 10; DORS/2001-447, art. 1; DORS/2002-167, art. 1; DORS/2003-378, art. 2; DORS/2003-382, art. 5(F); DORS/2008-285, art. 3(F).
 
 
 
@@ -119,18 +119,18 @@ Autorités habilitantes :
 
 
 
-**PARTIE III** [Abrogée, DORS/98-559, art. 3]
+**PARTIE III** 
+## [Abrogée, DORS/98-559, art. 3]
 
 
 
-
-**PARTIE IV** [Abrogée, DORS/91-635, art. 4]
-
-
+**PARTIE IV** 
+## [Abrogée, DORS/91-635, art. 4]
 
 
-**PARTIE V** [Abrogée, DORS/90-17, art. 8]
 
+**PARTIE V** 
+## [Abrogée, DORS/90-17, art. 8]
 
 
 
@@ -185,8 +185,8 @@ Autorités habilitantes :
 
 
 
-**PARTIE VII** [Abrogée, DORS/88-441, art. 12]
-
+**PARTIE VII** 
+## [Abrogée, DORS/88-441, art. 12]
 
 
 
@@ -202,19 +202,19 @@ Autorités habilitantes :
 	- **a)** la valeur de l’objet moins toute autre somme reçue en dédommagement;
 	- **b)** le montant de l’assurance obtenue conformément au présent règlement.
 
-- **(2)** Sous réserve du paragraphe (3), une indemnité peut être versée, par suite de la perte ou de la détérioration d’un objet transmissible recommandé, à l’égard :
+- **(2)** Sous réserve du paragraphe (3), une indemnité peut être versée, par suite de la perte ou de la détérioration d’un objet recommandé, à l’égard :
 	- **a)** du port payé pour l’objet;
 	- **b)** de la taxe provinciale payée pour l’objet lorsqu’il existe une preuve du paiement de la taxe et que la Société est convaincue que celle-ci ne peut être recouvrée.
 
-- **(3)** La Société ne verse aucune indemnité, par suite de la perte ou de la détérioration d’un objet transmissible recommandé, à l’égard :
+- **(3)** La Société ne verse aucune indemnité, par suite de la perte ou de la détérioration d’un objet recommandé, à l’égard :
 	- **a)** du tarif de port payé pour les services spéciaux prévus au présent règlement;
 	- **b)** des frais engagés par l’expéditeur ou le destinataire pour demander l’indemnité visée aux paragraphes (1) et (2).
 
-- **(4)** Malgré le paragraphe (1), la Société peut remplacer le contenu de l’objet transmissible recommandé au lieu de verser une indemnité.
+- **(4)** Malgré le paragraphe (1), la Société peut remplacer le contenu de l’objet recommandé au lieu de verser une indemnité.
 
 - **(4.1)** Lorsque la Société, à cause d’une interruption du service postal, retourne à l’expéditeur un envoi recommandé posté pour livraison à l’extérieur du Canada, le tarif de port payé pour cet envoi est remboursé à l’expéditeur.
 
-- **(5)** Aucune indemnité n’est payée en vertu du présent règlement à l’égard d’un objet transmissible recommandé dans les cas suivants :
+- **(5)** Aucune indemnité n’est payée en vertu du présent règlement à l’égard d’un objet recommandé dans les cas suivants :
 	- **a)** l’envoi postal était un envoi commercial que le destinataire n’a ni commandé ni demandé;
 	- **b)** le tort ou le dommage ne résulte pas directement de la perte, de la détérioration, du retard, de la non-livraison ou d’une erreur de livraison d’un envoi;
 	- **c)** l’envoi a été livré sans qu’il y ait eu plainte ou trace de perte, de détérioration ou de spoliation ou sans que ne soient produites des preuves de perte, de détérioration ou de spoliation;
@@ -224,25 +224,25 @@ Autorités habilitantes :
 	- **g)** un voiturier public serait dégagé de toute responsabilité en droit; ou que
 	- **h)** l’envoi recommandé contenait des boissons alcoolisées et a été perdu, détérioré ou spolié.
 
-- **(6)** Aucune indemnité n’est payée en vertu du présent règlement à l’égard d’un objet transmissible recommandé, à moins que :
+- **(6)** Aucune indemnité n’est payée en vertu du présent règlement à l’égard d’un objet recommandé, à moins que :
 	- **a)** le récépissé délivré par la Société à l’expéditeur ne soit disponible;
 	- **b)** sous réserve du paragraphe (9), la personne en cause ne présente une demande à la Société dans les délais suivants :
 		- **(i)** dans le cas d’un objet posté au Canada pour livraison au Canada, dans les quatre-vingt-dix jours suivant sa mise à la poste,
 		- **(ii)** dans le cas d’un objet posté au Canada pour livraison à l’extérieur du pays, dans les six mois suivant sa mise à la poste.
 	- **c)** la personne qui présente la demande d’indemnité n’y joigne des pièces établissant
-		- **(i)** la valeur de l’objet transmissible recommandé,
+		- **(i)** la valeur de l’objet recommandé,
 		- **(ii)** la perte, la détérioration ou la spoliation de l’objet recommandé.
 
 - **(7)** [Abrogé, DORS/98-559, art. 4]
 
-- **(8)** Sous réserve du paragraphe (9), l’indemnité payée en vertu du présent règlement à l’égard d’un objet transmissible recommandé est versée à l’expéditeur ou, à la demande de ce dernier, au destinataire.
+- **(8)** Sous réserve du paragraphe (9), l’indemnité payée en vertu du présent règlement à l’égard d’un objet recommandé est versée à l’expéditeur ou, à la demande de ce dernier, au destinataire.
 
 - **(9)** Lorsque le destinataire, ou l’expéditeur dans le cas où l’envoi lui est retourné, accepte la livraison d’un envoi recommandé posté pour livraison à l’extérieur du Canada sans porter plainte ni signaler la perte ou la détérioration de son contenu, mais informe la Société immédiatement après la livraison qu’il y a perte ou détérioration en lui fournissant la preuve que celle-ci n’est pas survenue après la livraison, l’indemnité peut être payée au destinataire ou à l’expéditeur, selon le cas.
 
 - **(10)** Lorsqu’une indemnité est payée pour la perte d’un envoi recommandé posté pour livraison à l’extérieur du Canada et que l’envoi est ensuite retrouvé, l’expéditeur ou le destinataire, selon le cas, est avisé :
 	- **a)** que l’envoi recommandé a été retrouvé;
 	- **b)** qu’il peut prendre livraison de l’envoi dans les trois mois suivant l’avis en remboursant l’indemnité à la Société.
-> DORS/82-25, art. 11; DORS/83-59, art. 3; DORS/86-241, art. 8; DORS/87-162, art. 6(F); DORS/88-441, art. 13; DORS/90-17, art. 13; DORS/90-800, art. 5; DORS/95-311, art. 3; DORS/98-559, art. 4; DORS/2002-167, art. 3; DORS/2003-378, art. 8.
+> DORS/82-25, art. 11; DORS/83-59, art. 3; DORS/86-241, art. 8; DORS/87-162, art. 6(F); DORS/88-441, art. 13; DORS/90-17, art. 13; DORS/90-800, art. 5; DORS/95-311, art. 3; DORS/98-559, art. 4; DORS/2002-167, art. 3; DORS/2003-378, art. 8; DORS/2008-285, art. 3(F).
 
 
 
@@ -251,19 +251,21 @@ Autorités habilitantes :
 
 
 
-**25** L’article 23 ne s’applique qu’aux objets transmissibles recommandés conformément à l’article 6 qui sont postés au Canada pour distribution au Canada.
-> DORS/2003-378, art. 10; DORS/2005-360, art. 2.
+**25** L’article 23 ne s’applique qu’aux objets recommandés conformément à l’article 6 qui sont postés au Canada pour distribution au Canada.
+> DORS/2003-378, art. 10; DORS/2005-360, art. 2; DORS/2008-285, art. 3(F).
 
 
 
 
 
-### Versement d’une indemnité pour les objets transmissibles recommandés selon la Convention postale universelle
+### Versement d’une indemnité pour les objets recommandés selon la Convention postale universelle
+> [DORS/2008-285, art. 3(F)]
+
 
 
 **26** 
 
-- **(1)** Sous réserve de l’article 25 et des paragraphes (2) à (6), en cas de perte d’un objet transmissible recommandé visé à l’article 25, la Société verse une indemnité égale au montant, en monnaie canadienne, fixé par la Convention postale universelle pour la perte d’un objet recommandé.
+- **(1)** Sous réserve de l’article 25 et des paragraphes (2) à (6), en cas de perte d’un objet recommandé visé à l’article 25, la Société verse une indemnité égale au montant, en monnaie canadienne, fixé par la Convention postale universelle pour la perte d’un objet recommandé.
 
 - **(2)** Il n’est versé d’indemnité selon le paragraphe (1) à moins
 	- **a)** que ne soit présenté le récépissé visé au paragraphe 6(4);
@@ -272,11 +274,11 @@ Autorités habilitantes :
 
 - **(3)** Il n’est pas versé d’indemnité selon le paragraphe (1) lorsque,
 	- **a)** la perte a été entraînée par une force majeure;
-	- **b)** la recommandation de l’objet transmissible ne peut être vérifiée à cause de la destruction par force majeure des dossiers de l’administration postale où s’est produite la perte sauf si une preuve de la responsabilité de l’administration postale est présentée à la Société canadienne des postes par la personne présentant la réclamation;
+	- **b)** la recommandation de l’objet ne peut être vérifiée à cause de la destruction par force majeure des dossiers de l’administration postale où s’est produite la perte sauf si une preuve de la responsabilité de l’administration postale est présentée à la Société canadienne des postes par la personne présentant la réclamation;
 	- **c)** l’objet recommandé contenait des objets inadmissibles visés à l’annexe du [Règlement sur les objets inadmissibles](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/90/10.md);
 	- **d)** l’objet recommandé contenait un article mentionné au paragraphe 18(1);
 	- **e)** [Abrogé, DORS/2003-378, art. 11]
-	- **f)** l’objet transmissible recommandé est saisi par le pays destinataire conformément aux lois de ce pays; ou
+	- **f)** l’objet recommandé est saisi par le pays destinataire conformément aux lois de ce pays; ou
 	- **g)** la détérioration de l’objet recommandé est attribuable à la nature de son contenu.
 
 - **(4)** L’indemnité versée selon le paragraphe (1) doit être versée
@@ -284,62 +286,62 @@ Autorités habilitantes :
 	- **b)** au destinataire ou à une tierce personne, à la demande de l’expéditeur;
 	- **c)** au destinataire ou encore à l’expéditeur ou à une tierce personne, à la demande du destinataire, si ce dernier a pris livraison d’un objet dont le contenu a été entièrement perdu ou détérioré.
 
-- **(5)** Lorsque l’indemnité a été versée selon le paragraphe (1) et que par la suite l’objet transmissible recommandé défini dans ce paragraphe, est retrouvé,
+- **(5)** Lorsque l’indemnité a été versée selon le paragraphe (1) et que par la suite l’objet recommandé défini dans ce paragraphe, est retrouvé,
 	- **a)** on en informe l’expéditeur et le destinataire; et
 	- **b)** on informe l’expéditeur, ou le destinataire si l’expéditeur a demandé que l’indemnité soit versée au destinataire selon le paragraphe (4), qu’il peut venir en prendre livraison
 		- **(i)** dans un délai de trois mois; et
 		- **(ii)** sur remboursement de l’indemnité versée par la Société canadienne des postes.
 
-- **(6)** Aux fins des paragraphes (1) à (5), un objet transmissible recommandé est considéré comme perdu lorsque
+- **(6)** Aux fins des paragraphes (1) à (5), un objet recommandé est considéré comme perdu lorsque
 	- **a)** la Société canadienne des postes ne peut le retrouver,
 	- **b)** tout son contenu a été volé, ou
 	- **c)** son contenu a été détérioré et le coût de réparation ou de remplacement de celui-ci est supérieur à sa valeur dépréciée au moment du dépôt,
 et que
 	- **d)** la perte, le vol ou la détérioration est découvert au moment de la livraison de l’objet au destinataire ou de sa réexpédition à l’expéditeur, ou avant la livraison ou la réexpédition;
 	- **e)** dans le cas d’un objet visé aux alinéas b) ou c), la Société estime que l’emballage de l’objet était raisonnablement adéquat pour le protéger contre le vol ou la détérioration.
-> DORS/81-844, art. 1; DORS/83-802, art. 2; DORS/86-106, art. 1(F); DORS/86-241, art. 10; DORS/90-17, art. 15; DORS/2000-199, art. 11; DORS/2002-167, art. 5; DORS/2003-378, art. 11.
+> DORS/81-844, art. 1; DORS/83-802, art. 2; DORS/86-106, art. 1(F); DORS/86-241, art. 10; DORS/90-17, art. 15; DORS/2000-199, art. 11; DORS/2002-167, art. 5; DORS/2003-378, art. 11; DORS/2008-285, art. 3(F).
 
 
 
 
 
-**PARTIE IX** [Abrogée, DORS/91-184, art. 2]
+**PARTIE IX** 
+## [Abrogée, DORS/91-184, art. 2]
 
 
 
-
-**PARTIE X** [Abrogée, DORS/96-210, art. 2]
-
-
-
-
-**PARTIE XI** [Abrogée, DORS/83-59, art. 4]
+**PARTIE X** 
+## [Abrogée, DORS/96-210, art. 2]
 
 
 
-
-**PARTIE XII** [Abrogée, DORS/90-17, art. 16]
-
-
-
-
-**PARTIE XIII** [Abrogée, DORS/88-441, art. 18]
+**PARTIE XI** 
+## [Abrogée, DORS/83-59, art. 4]
 
 
 
-
-**PARTIE XIV** [Abrogée, DORS/95-311, art. 4]
-
-
-
-
-**PARTIES XV À XVIII** [Abrogées, DORS/90-17, art. 18]
+**PARTIE XII** 
+## [Abrogée, DORS/90-17, art. 16]
 
 
 
+**PARTIE XIII** 
+## [Abrogée, DORS/88-441, art. 18]
 
-**PARTIE XIX** [Abrogée, DORS/88-441, art. 24]
 
+
+**PARTIE XIV** 
+## [Abrogée, DORS/95-311, art. 4]
+
+
+
+**PARTIES XV À XVIII** 
+## [Abrogées, DORS/90-17, art. 18]
+
+
+
+**PARTIE XIX** 
+## [Abrogée, DORS/88-441, art. 24]
 
 
 
