@@ -1125,6 +1125,15 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **55** Nanoose
 
 
-> 1999, c. 24, Sch.; SOR/2003-178; SOR/2006-216; SOR/2008-51.
+**56** Campbell River
+
+
+**57** Sumas
+
+
+**58** Skawahlook
+
+
+> 1999, c. 24, Sch.; SOR/2003-178; SOR/2006-216; SOR/2008-51, 267.
 
 
