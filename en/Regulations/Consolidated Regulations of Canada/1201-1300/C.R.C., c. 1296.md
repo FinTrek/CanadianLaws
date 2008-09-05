@@ -56,8 +56,7 @@ Enabling authorities:
 
 
 **PART I** 
-> [Repealed, SOR/91-635, s. 2]
-
+## [Repealed, SOR/91-635, s. 2]
 
 
 
@@ -90,7 +89,7 @@ Enabling authorities:
 - **(9)** Mailable matter on which the addressee is described only by his initials or his surname, in a manner that does not permit the clear identification of the addressee, shall not be accepted for registration.
 
 - **(10)** Where adhesive tape is used to close an item of mailable matter referred to in paragraph (1)(b), the sender shall apply their name, mark, stamp or signature on the tape.
-> SOR/78-902, s. 1; SOR/82-25, s. 2; SOR/83-802, s. 1; SOR/85-565, s. 2; SOR/86-241, s. 5; SOR/88-441, s. 4; SOR/88-621, s. 1; SOR/90-17, s. 3; SOR/90-800, s. 3; SOR/91-628, s. 2; SOR/91-635, s. 3; SOR/2000-199, s. 10; SOR/2001-447, s. 1; SOR/2002-167, s. 1; SOR/2003-378, s. 2; SOR/2003-382, s. 5(F).
+> SOR/78-902, s. 1; SOR/82-25, s. 2; SOR/83-802, s. 1; SOR/85-565, s. 2; SOR/86-241, s. 5; SOR/88-441, s. 4; SOR/88-621, s. 1; SOR/90-17, s. 3; SOR/90-800, s. 3; SOR/91-628, s. 2; SOR/91-635, s. 3; SOR/2000-199, s. 10; SOR/2001-447, s. 1; SOR/2002-167, s. 1; SOR/2003-378, s. 2; SOR/2003-382, s. 5(F); SOR/2008-285, s. 3(F).
 
 
 
@@ -121,20 +120,17 @@ Enabling authorities:
 
 
 **PART III** 
-> [Repealed, SOR/98-559, s. 3]
-
+## [Repealed, SOR/98-559, s. 3]
 
 
 
 **PART IV** 
-> [Repealed, SOR/91-635, s. 4]
-
+## [Repealed, SOR/91-635, s. 4]
 
 
 
 **PART V** 
-> [Repealed, SOR/90-17, s. 8]
-
+## [Repealed, SOR/90-17, s. 8]
 
 
 
@@ -190,8 +186,7 @@ Enabling authorities:
 
 
 **PART VII** 
-> [Repealed, SOR/88-441, s. 12]
-
+## [Repealed, SOR/88-441, s. 12]
 
 
 
@@ -247,7 +242,7 @@ Enabling authorities:
 - **(10)** Where indemnity is paid for the loss of a registered mail item posted to a country outside Canada and the registered mail item is subsequently found, the sender or addressee, as the case may be, shall be informed that
 	- **(a)** the registered mail item has been found; and
 	- **(b)** the sender or addressee, as the case may be, may take delivery of the registered mail item within three months after being so informed on repayment of the indemnity to the Corporation.
-> SOR/82-25, s. 11; SOR/83-59, s. 3; SOR/86-241, s. 8; SOR/87-162, s. 6(F); SOR/88-441, s. 13; SOR/90-17, s. 13; SOR/90-800, s. 5; SOR/95-311, s. 3; SOR/98-559, s. 4; SOR/2002-167, s. 3; SOR/2003-378, s. 8.
+> SOR/82-25, s. 11; SOR/83-59, s. 3; SOR/86-241, s. 8; SOR/87-162, s. 6(F); SOR/88-441, s. 13; SOR/90-17, s. 13; SOR/90-800, s. 5; SOR/95-311, s. 3; SOR/98-559, s. 4; SOR/2002-167, s. 3; SOR/2003-378, s. 8; SOR/2008-285, s. 3(F).
 
 
 
@@ -257,13 +252,15 @@ Enabling authorities:
 
 
 **25** Section 23 only applies to mailable matter registered under section 6 that is posted in Canada for delivery in Canada.
-> SOR/2003-378, s. 10; SOR/2005-360, s. 2.
+> SOR/2003-378, s. 10; SOR/2005-360, s. 2; SOR/2008-285, s. 3(F).
 
 
 
 
 
 ### Payment of Indemnity for Registered Mailable Matter pursuant to the Universal Postal Convention
+> [SOR/2008-285, s. 3(F)]
+
 
 
 **26** 
@@ -302,57 +299,49 @@ Enabling authorities:
 if
 	- **(d)** the loss, theft or damage is discovered before or at the time of delivery of the mailable matter to the addressee or, where it is returned to the sender, to the sender; and
 	- **(e)** in the case of mailable matter referred to in paragraphs (b) and (c), the packing of the mailable matter was recognized by the Canada Post Corporation as reasonably sufficient to protect the mailable matter against risk of theft or damage.
-> SOR/81-844, s. 1; SOR/83-802, s. 2; SOR/86-106, s. 1(F); SOR/86-241, s. 10; SOR/90-17, s. 15; SOR/2000-199, s. 11; SOR/2002-167, s. 5; SOR/2003-378, s. 11.
+> SOR/81-844, s. 1; SOR/83-802, s. 2; SOR/86-106, s. 1(F); SOR/86-241, s. 10; SOR/90-17, s. 15; SOR/2000-199, s. 11; SOR/2002-167, s. 5; SOR/2003-378, s. 11; SOR/2008-285, s. 3(F).
 
 
 
 
 
 **PART IX** 
-> [Repealed, SOR/91-184, s. 2]
-
+## [Repealed, SOR/91-184, s. 2]
 
 
 
 **PART X** 
-> [Repealed, SOR/96-210, s. 2]
-
+## [Repealed, SOR/96-210, s. 2]
 
 
 
 **PART XI** 
-> [Repealed, SOR/83-59, s. 4]
-
+## [Repealed, SOR/83-59, s. 4]
 
 
 
 **PART XII** 
-> [Repealed, SOR/90-17, s. 16]
-
+## [Repealed, SOR/90-17, s. 16]
 
 
 
 **PART XIII** 
-> [Repealed, SOR/88-441, s. 18]
-
+## [Repealed, SOR/88-441, s. 18]
 
 
 
 **PART XIV** 
-> [Repealed, SOR/95-311, s. 4]
-
+## [Repealed, SOR/95-311, s. 4]
 
 
 
 **PARTS XV TO XVIII** 
-> [Repealed, SOR/90-17, s. 18]
-
+## [Repealed, SOR/90-17, s. 18]
 
 
 
 **PART XIX** 
-> [Repealed, SOR/88-441, s. 24]
-
+## [Repealed, SOR/88-441, s. 24]
 
 
 
