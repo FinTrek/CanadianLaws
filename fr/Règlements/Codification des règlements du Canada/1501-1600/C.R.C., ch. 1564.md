@@ -24,72 +24,70 @@ Autorités habilitantes :
 
 **2** Dans le présent règlement,
 
-***agent régulateur*** désigne une personne qui, étant réellement de service, assure le fonctionnement d’une station radiotéléphonique de marine pour régler la circulation des navires qui entrent dans un canal ou s’y trouvent; (*despatcher*)
+***agent régulateur*** désigne une personne qui, étant réellement de service, assure le fonctionnement d’une station radiotéléphonique de marine pour régler la circulation des navires qui entrent dans un canal ou s’y trouvent; (*despatcher*)
 
-***barragiste*** désigne une personne qui, étant réellement de service, est responsable d’un barrage; (*damkeeper*)
+***barragiste*** désigne une personne qui, étant réellement de service, est responsable d’un barrage; (*damkeeper*)
 
-***bassin*** signifie toute étendue navigable qui, comprenant ou non une partie de la cuvette normale d’un canal, sert à assurer le chargement, le déchargement, le virage ou le passage des navires; (*basin*)
+***bassin*** signifie toute étendue navigable qui, comprenant ou non une partie de la cuvette normale d’un canal, sert à assurer le chargement, le déchargement, le virage ou le passage des navires; (*basin*)
 
-***bateau de plaisance*** désigne une embarcation non motorisée servant au transport de passagers pratiquant la navigation par plaisir, et comprend une embarcation motorisée servant à l’exploitation, à la gestion et à l’administration d’un canal pour les besoins de Parcs Canada; (*pleasure craft*)
+***bateau de plaisance*** désigne une embarcation non motorisée servant au transport de passagers pratiquant la navigation par plaisir, et comprend une embarcation motorisée servant à l’exploitation, à la gestion et à l’administration d’un canal pour les besoins de Parcs Canada; (*pleasure craft*)
 
-***capitaine*** désigne toute personne, à l’exception d’un pilote, qui a le commandement d’un navire; (*master*)
+***capitaine*** désigne toute personne, à l’exception d’un pilote, qui a le commandement d’un navire; (*master*)
 
-***chef*** désigne le chef de la Division des canaux du ministère des Transports, ou toute personne dûment autorisée à agir à ce titre; (*Chief*)
+***chef*** désigne le chef de la Division des canaux du ministère des Transports, ou toute personne dûment autorisée à agir à ce titre; (*Chief*)
 
-***conducteur de ber*** désigne une personne qui, étant réellement de service, est responsable d’un ber; (*marine railway operator*)
+***conducteur de ber*** désigne une personne qui, étant réellement de service, est responsable d’un ber; (*marine railway operator*)
 
-***contrôleur du trafic maritime*** désigne le fonctionnaire qui contrôle le trafic maritime dans le canal de Sault-Sainte-Marie (Canada); (*vessel traffic controller*)
+***contrôleur du trafic maritime*** désigne le fonctionnaire qui contrôle le trafic maritime dans le canal de Sault-Sainte-Marie (Canada); (*vessel traffic controller*)
 
-***droit d’accostage*** signifie un droit imposé sur un navire en chargement, en déchargement ou en attente dans un canal; (*side wharfage charges*)
+***droit d’accostage*** signifie un droit imposé sur un navire en chargement, en déchargement ou en attente dans un canal; (*side wharfage charges*)
 
-***droit d’entreposage*** signifie un droit imposé sur les marchandises occupant toute propriété de canal non donnée à bail; (*storage charges*)
+***droit d’entreposage*** signifie un droit imposé sur les marchandises occupant toute propriété de canal non donnée à bail; (*storage charges*)
 
-***droit de terre-plein*** signifie un droit imposé sur les marchandises chargées ou déchargées par un navire dans un canal; (*top wharfage charges*)
+***droit de terre-plein*** signifie un droit imposé sur les marchandises chargées ou déchargées par un navire dans un canal; (*top wharfage charges*)
 
-***employé*** comprend toute personne, au service du ministère, qui n’est pas un fonctionnaire; (*employee*)
+***employé*** comprend toute personne, au service du ministère, qui n’est pas un fonctionnaire; (*employee*)
 
-***en attente*** signifie le fait pour un navire, pendant la saison de navigation, d’attendre un poste dans toute partie d’un canal désignée par l’ingénieur-surintendant pour le désarmement des navires; (*lying in wait*)
+***en attente*** signifie le fait pour un navire, pendant la saison de navigation, d’attendre un poste dans toute partie d’un canal désignée par l’ingénieur-surintendant pour le désarmement des navires; (*lying in wait*)
 
-***fonctionnaire*** désigne toute personne, au service du ministère, qui exerce une autorité relativement aux canaux; (*officer*)
+***fonctionnaire*** désigne toute personne, au service du ministère, qui exerce une autorité relativement aux canaux; (*officer*)
 
-***hivernage*** signifie l’occupation par un navire, pendant la morte-saison de navigation, d’un poste situé dans les limites d’un canal, que le navire soit à flot ou non; (*wintering*)
+***hivernage*** signifie l’occupation par un navire, pendant la morte-saison de navigation, d’un poste situé dans les limites d’un canal, que le navire soit à flot ou non; (*wintering*)
 
-***ingénieur-surintendant*** et ***surintendant*** désignent respectivement la personne occupant la charge d’ingénieur-surintendant ou de surintendant de l’un des canaux qui relèvent du ministère, ou toute personne dûment autorisée à agir au nom d’un tel fonctionnaire; (*Superintending Engineer*et*Superintendent*)
+***ingénieur-surintendant*** et ***surintendant*** désignent respectivement la personne occupant la charge d’ingénieur-surintendant ou de surintendant de l’un des canaux qui relèvent du ministère, ou toute personne dûment autorisée à agir au nom d’un tel fonctionnaire; (*Superintending Engineer*et*Superintendent*)
 
-***maître-éclusier*** désigne une personne qui, étant réellement de service, est responsable d’une écluse; (*lockmaster*)
+***maître-éclusier*** désigne une personne qui, étant réellement de service, est responsable d’une écluse; (*lockmaster*)
 
-***maître-pontier*** désigne une personne qui, étant réellement de service, est responsable d’un pont; (*bridgemaster*)
+***maître-pontier*** désigne une personne qui, étant réellement de service, est responsable d’un pont; (*bridgemaster*)
 
-***marchandises*** signifie les animaux, denrées ou objets; (*goods*)
+***marchandises*** signifie les animaux, denrées ou objets; (*goods*)
 
-***marchandises en colis*** signifie les marchandises en sacs, balles, caisses, ballots, cageots, enveloppées, enfermées ou liées pour le transport; (*package freight*)
+***marchandises en colis*** signifie les marchandises en sacs, balles, caisses, ballots, cageots, enveloppées, enfermées ou liées pour le transport; (*package freight*)
 
-***ministère*** signifie le ministère des Transports; (*Department*)
+***ministère*** signifie le ministère des Transports; (*Department*)
 
-***ministre*** désigne le ministre des Transports; (*Minister*)
+***ministre*** désigne le ministre des Transports; (*Minister*)
 
-***navire*** signifie tout bâtiment, bateau ou autre embarcation ou matériel flottant; (*vessel*)
+***navire*** signifie tout bâtiment, bateau ou autre embarcation ou matériel flottant; (*vessel*)
 
-***propriétaire***, relativement à des marchandises, comprend l’expéditeur et le destinataire des marchandises; (*owner*)
+***propriétaire***, relativement à des marchandises, comprend l’expéditeur et le destinataire des marchandises; (*owner*)
 
-***propriétaire***, relativement à un navire, comprend le mandataire autorisé du propriétaire; (*owner*)
+***propriétaire***, relativement à un navire, comprend le mandataire autorisé du propriétaire; (*owner*)
 
-***quai d’approche*** signifie la partie d’un quai ou d’un mur délimitée par des indications appropriées juste en aval et juste en amont d’une écluse; (*approach wharf*)
+***quai d’approche*** signifie la partie d’un quai ou d’un mur délimitée par des indications appropriées juste en aval et juste en amont d’une écluse; (*approach wharf*)
 
-***Règles sur les abordages*** désigne
-- **a)** pour les navires se trouvant dans les canaux de Saint-Pierre, de Canso, de Saint-Ours et de Chambly, les *Règles pour prévenir les abordages en mer*, édictées en vertu de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md), et
-- **b)** pour les navires se trouvant dans les canaux de Sainte-Anne, de Carillon, de Grenville, du Rideau, de la Trent, de Murray et de Sault-Sainte-Marie (Canada), les *Règles de route pour les Grands lacs*; (*Collision Regulations*)
+***Règles sur les abordages***[Abrogée, DORS/2008-272, art. 52]
 
-***remorquer*** ou ***touer*** signifie tirer, pousser ou déplacer d’autre façon sur l’eau; (*tow*)
+***remorquer*** ou ***touer*** signifie tirer, pousser ou déplacer d’autre façon sur l’eau; (*tow*)
 
-***saison de navigation*** signifie la période qui s’écoule depuis la date de l’ouverture officielle de la navigation jusqu’à celle de sa clôture officielle, ces deux dates comprises; (*season of navigation*)
+***saison de navigation*** signifie la période qui s’écoule depuis la date de l’ouverture officielle de la navigation jusqu’à celle de sa clôture officielle, ces deux dates comprises; (*season of navigation*)
 
-***séjour*** signifie l’occupation par un navire, pendant la saison de navigation, d’un poste dans la partie d’un canal désignée à cet effet par l’ingénieur-surintendant; (*lying-up*)
+***séjour*** signifie l’occupation par un navire, pendant la saison de navigation, d’un poste dans la partie d’un canal désignée à cet effet par l’ingénieur-surintendant; (*lying-up*)
 
-***zone interdite*** signifie toute étendue de terrain d’un canal déclarée, par ordonnance de l’ingénieur-surintendant, être une étendue où il est défendu de déposer des marchandises; (*restricted area*)
+***zone interdite*** signifie toute étendue de terrain d’un canal déclarée, par ordonnance de l’ingénieur-surintendant, être une étendue où il est défendu de déposer des marchandises; (*restricted area*)
 
-***zone libre*** signifie une étendue de terrain non donnée à bail et non comprise dans une zone interdite. (*unrestricted area*)
-> DORS/80-467, art. 1; DORS/81-69, art. 1.
+***zone libre*** signifie une étendue de terrain non donnée à bail et non comprise dans une zone interdite. (*unrestricted area*)
+> DORS/80-467, art. 1; DORS/81-69, art. 1; DORS/2008-272, art. 52.
 
 
 
@@ -244,16 +242,18 @@ Autorités habilitantes :
 
 
 
-### Règles de route pour les Grands lacs et Règlement sur les petits bâtiments
+### Règlement sur les abordages et Règlement sur les petits bâtiments
 
 
 **17** 
 
-- **(1)** Tout navire, dans tout canal, doit se conformer aux Règles sur les abordages, sous réserve des dispositions du paragraphe (3).
+- **(1)** Sous réserve du paragraphe (3), tout navire, dans tout canal, doit se conformer au [Règlement sur les abordages](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1401-1500/C.R.C.,%20ch.%201416.md).
 
-- **(2)** Tout navire, dans tout canal, doit se conformer au [Règlement sur les petits bâtiments](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2010/91.md), édicté en vertu de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md), sous réserve des dispositions du paragraphe (3).
+- **(2)** Sous réserve du paragraphe (3), tout navire, dans tout canal, doit se conformer au [Règlement sur les petits bâtiments](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2010/91.md), pris en vertu de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md).
 
-- **(3)** Advenant qu’il y ait contradiction entre les Règles sur les abordages ou le [Règlement sur les petits bâtiments](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2010/91.md) et le Règlement sur les canaux, les dispositions du Règlement sur les canaux s’appliquent tant que le navire est dans un canal.
+- **(3)** Tant que le navire navigue dans un canal, les dispositions du Règlement sur les canaux l’emportent sur les dispositions incompatibles du [Règlement sur les abordages](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1401-1500/C.R.C.,%20ch.%201416.md) et du [Règlement sur les petits bâtiments](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2010/91.md).
+> DORS/2008-272, art. 53.
+
 
 
 
@@ -275,9 +275,11 @@ Autorités habilitantes :
 
 **19** 
 
-- **(1)** Tout navire dans un canal doit se conformer aux règles concernant les feux, contenues dans les Règles sur les abordages.
+- **(1)** Tout navire, dans tout canal, doit se conformer aux règles concernant les feux qui sont contenues dans le [Règlement sur les abordages](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1401-1500/C.R.C.,%20ch.%201416.md).
 
 - **(2)** Aucun navire ne peut utiliser un projecteur de manière que ses rayons gênent la navigation d’un autre navire ou la manoeuvre des ouvrages du canal.
+> DORS/2008-272, art. 54(F).
+
 
 
 
@@ -285,10 +287,12 @@ Autorités habilitantes :
 ### Passage des navires en marche
 
 
-**20** Les navires qui se croisent ou se rattrapent dans un canal doivent se conformer aux Règles sur les abordages, sauf dans les cas suivants :
+**20** Les navires qui se croisent ou se rattrapent dans un canal doivent se conformer au [Règlement sur les abordages](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1401-1500/C.R.C.,%20ch.%201416.md), sauf dans les cas suivants :
 - **a)** quand deux navires, venant à la rencontre l’un de l’autre, s’approchent d’un pont tournant n’offrant pas de chenaux distincts au trafic remontant et descendant et restreignant la largeur normale du chenal de navigation, le navire descendant a le droit de passage et le navire remontant doit ralentir afin que la rencontre s’effectue à 300 pieds au moins en aval du pont;
 - **b)** quand deux navires, venant à la rencontre l’un de l’autre, s’approchent d’une courbe dans un canal et que l’un ou l’autre a plus de 100 pieds de longueur, le navire descendant a le droit de passage et le navire remontant doit ralentir afin d’éviter une rencontre dans la courbe; et
 - **c)** quand deux navires approchent d’une écluse, d’une porte de sûreté ou d’un pont, l’un ne doit pas tenter de rattraper l’autre s’il se trouve à moins de 1 000 pieds de l’ouvrage en cause.
+> DORS/2008-272, art. 55(F).
+
 
 
 
