@@ -49,7 +49,7 @@ Enabling authorities:
 - **(b)** for delivery outside Canada,
 	- **(i)** the combined length, width and depth of the material does not exceed 90 cm with the greatest measurement not exceeding 60 cm, and
 	- **(ii)** the material is not less than 14 cm in length and 9 cm in width.
-> SOR/79-194, s. 1; SOR/2003-379, s. 1.
+> SOR/79-194, s. 1; SOR/2003-379, s. 1; SOR/2008-285, s. 1(F).
 
 
 
