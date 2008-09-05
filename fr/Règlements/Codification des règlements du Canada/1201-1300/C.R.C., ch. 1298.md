@@ -142,8 +142,8 @@ Autorités habilitantes :
 	- **a)** si cette adresse est au Canada, être réexpédié à l’expéditeur par la Société;
 	- **b)** si cette adresse est hors du Canada, être traité conformément à l’article 15.
 
-- **(2)** Lorsque l’envoi tombé en rebut est un envoi poste-lettres à tarifs préférentiels selon la définition de la Société, un envoi médiaposte avec adresse ou un envoi publicitaire sans adresse et qu’il porte sur le dessus l’adresse de retour d’un expéditeur au Canada, il est traité de la façon établie par la Société.
-> DORS/88-442, art. 6; DORS/88-622, art. 3; DORS/90-803, art. 3; DORS/91-638, art. 4; DORS/2003-376, art. 2; DORS/2003-382, art. 11(F).
+- **(2)** Lorsque l’envoi tombé en rebut est un envoi poste-lettres à tarifs préférentiels au sens du Guide des postes du Canada, un envoi médiaposte avec adresse, un envoi poste-publications ou un envoi publicitaire sans adresse qui porte sur le dessus l’adresse de retour d’un expéditeur au Canada, il est traité de la façon établie par la Société.
+> DORS/88-442, art. 6; DORS/88-622, art. 3; DORS/90-803, art. 3; DORS/91-638, art. 4; DORS/2003-376, art. 2; DORS/2003-382, art. 11(F); DORS/2008-285, art. 4.
 
 
 
@@ -162,8 +162,8 @@ Autorités habilitantes :
 
 - **(1)** Sous réserve du paragraphe (2), un envoi tombé en rebut qui est ouvert conformément à l’article 11 et dans lequel on trouve l’adresse de l’expéditeur ou du destinataire au Canada, doit être mis sous une autre enveloppe et être renvoyé à l’expéditeur ou transmis au destinataire.
 
-- **(2)** Lorsque l’envoi tombé en rebut et ouvert conformément à l’article 11 est un envoi poste-lettres à tarifs préférentiels selon la définition de la Société, un envoi médiaposte avec adresse ou un envoi publicitaire sans adresse, il est traité de la façon établie par la Société.
-> DORS/88-442, art. 7; DORS/88-622, art. 4; DORS/90-803, art. 4; DORS/91-638, art. 5; DORS/2003-376, art. 3; DORS/2003-382, art. 11(F).
+- **(2)** Lorsque l’envoi tombé en rebut et ouvert conformément à l’article 11 est un envoi poste-lettres à tarifs préférentiels au sens du Guide des postes du Canada, un envoi médiaposte avec adresse, un envoi poste-publications ou un envoi publicitaire sans adresse, il est traité de la façon établie par la Société.
+> DORS/88-442, art. 7; DORS/88-622, art. 4; DORS/90-803, art. 4; DORS/91-638, art. 5; DORS/2003-376, art. 3; DORS/2003-382, art. 11(F); DORS/2008-285, art. 5.
 
 
 
