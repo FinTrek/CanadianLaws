@@ -2476,108 +2476,141 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ### **ANNEXE** 
 **(paragraphes 2(1) et (3))**
-<table>
-<tr>
-<td>Bande indienne Adams Lake</td>
-</tr>
-<tr>
-<td>Première nation ?Akisq’nuk </td>
-</tr>
-<tr>
-<td>Première nation Alexander </td>
-</tr>
-<tr>
-<td>Bande indienne Chehalis</td>
-</tr>
-<tr>
-<td>Pemière nation Chemainus</td>
-</tr>
-<tr>
-<td>Première nation Chippewas de Georgina Island</td>
-</tr>
-<tr>
-<td>Première nation Chippewas de Kettle et Stony Point</td>
-</tr>
-<tr>
-<td>Bande indienne Kamloops</td>
-</tr>
-<tr>
-<td>Première nation Kitselas</td>
-</tr>
-<tr>
-<td>Première nation Lequ’á:mel </td>
-</tr>
-<tr>
-<td>Bande indienne Lower Kootenay</td>
-</tr>
-<tr>
-<td>Bande indienne Lower Nicola</td>
-</tr>
-<tr>
-<td>Nation Metepenagiag Mi’kmaq</td>
-</tr>
-<tr>
-<td>Bande indienne Moricetown</td>
-</tr>
-<tr>
-<td>Nation crie Muskeg Lake</td>
-</tr>
-<tr>
-<td>Première nation Nanoose</td>
-</tr>
-<tr>
-<td>Bande indienne Osoyoos</td>
-</tr>
-<tr>
-<td>Bande Seabird Island</td>
-</tr>
-<tr>
-<td>Première nation Shuswap</td>
-</tr>
-<tr>
-<td>Première nation Shxwhá:y Village </td>
-</tr>
-<tr>
-<td>Première nation Simpcw</td>
-</tr>
-<tr>
-<td>Bande indienne Skeetchestn</td>
-</tr>
-<tr>
-<td>Première nation Sliammon</td>
-</tr>
-<tr>
-<td>Première nation Songhees</td>
-</tr>
-<tr>
-<td>Première nation St. Mary’s</td>
-</tr>
-<tr>
-<td>Premières nations Tla-o-qui-aht </td>
-</tr>
-<tr>
-<td>Bande indienne Tobacco Plains</td>
-</tr>
-<tr>
-<td>Première nation Tobique</td>
-</tr>
-<tr>
-<td>Première nation Tsawout</td>
-</tr>
-<tr>
-<td>Première Nation Tsawwassen</td>
-</tr>
-<tr>
-<td>Première nation Tzeachten</td>
-</tr>
-<tr>
-<td>Nation We Wai Kai</td>
-</tr>
-<tr>
-<td>Première nation White Bear</td>
-</tr>
-</table>
+Bande indienne Adams Lake
 
-> 2005, ch. 9, ann.; DORS/2007-276, art. 1.
+
+Première nation ?Akisq’nuk
+
+
+Première nation Alexander
+
+
+Première nation Chawathil
+
+
+Bande indienne Chehalis
+
+
+Première nation Chemainus
+
+
+Première nation Chippewas de Georgina Island
+
+
+Première nation Chippewas de Kettle et Stony Point
+
+
+Première nation Indian Island
+
+
+Bande indienne Kamloops
+
+
+Première nation Kitselas
+
+
+Première nation Kwaw-Kwaw Apilt
+
+
+Première nation Lequ’á:mel
+
+
+Bande indienne Lower Kootenay
+
+
+Bande indienne Lower Nicola
+
+
+Première nation Matsqui
+
+
+Nation Metepenagiag Mi’kmaq
+
+
+Bande indienne Moricetown
+
+
+Première nation Mosquito, Grizzly Bear’s Head, Lean Man
+
+
+Nation crie Muskeg Lake
+
+
+Première nation Nanoose
+
+
+Bande indienne Neskonlith
+
+
+Bande indienne Osoyoos
+
+
+Bande Seabird Island
+
+
+Première nation Shuswap
+
+
+Première nation Shxwhá:y Village
+
+
+Première nation Shxw’ow’hamel
+
+
+Première nation Simpcw
+
+
+Première nation Skawahlook
+
+
+Bande indienne Skeetchestn
+
+
+Première nation Skowkale
+
+
+Première nation Sliammon
+
+
+Première nation Songhees
+
+
+Première nation Squiala
+
+
+Première nation St. Mary’s
+
+
+Première nation Sumas
+
+
+Premières nations Tla-o-qui-aht
+
+
+Bande indienne Tobacco Plains
+
+
+Première nation Tobique
+
+
+Première nation Tsawout
+
+
+Première Nation Tsawwassen
+
+
+Première nation Tzeachten
+
+
+Nation We Wai Kai
+
+
+Première nation White Bear
+
+
+Première nation Yakweakwioose
+
+
+> 2005, ch. 9, ann.; DORS/2007-276, art. 1; DORS/2008-264.
 
 
