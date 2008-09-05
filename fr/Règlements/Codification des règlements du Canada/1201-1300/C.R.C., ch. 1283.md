@@ -42,14 +42,14 @@ Autorités habilitantes :
 ## Limites de dimension
 
 
-**3** La documentation à l’usage des aveugles postée au Canada peut être expédiée en franchise dans les conditions suivantes :
+**3** La documentation à l’usage des aveugles postée au Canada peut être expédiée sans affranchissement dans les conditions suivantes :
 - **a)** livraison au Canada :
 	- **(i)** la somme de la longueur, de la largeur et de l’épaisseur de l’envoi ne dépasse pas 2 m et la plus grande dimension n’excède pas 1 m,
 	- **(ii)** l’envoi n’a pas moins de 10 cm de longueur et 7 cm de largeur;
 - **b)** livraison à l’extérieur du Canada :
 	- **(i)** la somme de la longueur, de la largeur et de l’épaisseur de l’envoi ne dépasse pas 90 cm et la plus grande dimension n’excède pas 60 cm,
 	- **(ii)** l’envoi n’a pas moins de 14 cm de longueur et 9 cm de largeur.
-> DORS/79-194, art. 1; DORS/2003-379, art. 1.
+> DORS/79-194, art. 1; DORS/2003-379, art. 1; DORS/2008-285, art. 1(F).
 
 
 
