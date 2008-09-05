@@ -2481,108 +2481,141 @@ is guilty of an offence and liable on summary conviction to a fine not exceeding
 
 ### **SCHEDULE** 
 **(Subsections 2(1) and (3))**
-<table>
-<tr>
-<td>Adams Lake Indian Band</td>
-</tr>
-<tr>
-<td>?Akisq’nuk First Nation</td>
-</tr>
-<tr>
-<td>Alexander First Nation</td>
-</tr>
-<tr>
-<td>Chehalis Indian Band</td>
-</tr>
-<tr>
-<td>Chemainus First Nation</td>
-</tr>
-<tr>
-<td>Chippewas of Georgina Island First Nation</td>
-</tr>
-<tr>
-<td>Chippewas of Kettle and Stony Point First Nation</td>
-</tr>
-<tr>
-<td>Kamloops Indian Band</td>
-</tr>
-<tr>
-<td>Kitselas First Nation</td>
-</tr>
-<tr>
-<td>Lequ’á:mel First Nation</td>
-</tr>
-<tr>
-<td>Lower Kootenay Indian Band</td>
-</tr>
-<tr>
-<td>Lower Nicola Indian Band</td>
-</tr>
-<tr>
-<td>Metepenagiag Mi’kmaq Nation</td>
-</tr>
-<tr>
-<td>Moricetown Indian Band</td>
-</tr>
-<tr>
-<td>Muskeg Lake Cree Nation</td>
-</tr>
-<tr>
-<td>Nanoose First Nation</td>
-</tr>
-<tr>
-<td>Osoyoos Indian Band</td>
-</tr>
-<tr>
-<td>Seabird Island Band</td>
-</tr>
-<tr>
-<td>Shuswap First Nation</td>
-</tr>
-<tr>
-<td>Shxwhá:y Village First Nation</td>
-</tr>
-<tr>
-<td>Simpcw First Nation</td>
-</tr>
-<tr>
-<td>Skeetchestn Indian Band</td>
-</tr>
-<tr>
-<td>Sliammon First Nation</td>
-</tr>
-<tr>
-<td>Songhees First Nation</td>
-</tr>
-<tr>
-<td>St. Mary’s First Nation</td>
-</tr>
-<tr>
-<td>Tla-o-qui-aht First Nations</td>
-</tr>
-<tr>
-<td>Tobacco Plains Indian Band</td>
-</tr>
-<tr>
-<td>Tobique First Nation</td>
-</tr>
-<tr>
-<td>Tsawout First Nation</td>
-</tr>
-<tr>
-<td>Tsawwassen First Nation</td>
-</tr>
-<tr>
-<td>Tzeachten First Nation</td>
-</tr>
-<tr>
-<td>We Wai Kai Nation</td>
-</tr>
-<tr>
-<td>White Bear First Nation</td>
-</tr>
-</table>
+Adams Lake Indian Band
 
-> 2005, c. 9, Sch.; SOR/2007-276, s. 1.
+
+?Akisq’nuk First Nation
+
+
+Alexander First Nation
+
+
+Chawathil First Nation
+
+
+Chehalis Indian Band
+
+
+Chemainus First Nation
+
+
+Chippewas of Georgina Island First Nation
+
+
+Chippewas of Kettle and Stony Point First Nation
+
+
+Indian Island First Nation
+
+
+Kamloops Indian Band
+
+
+Kitselas First Nation
+
+
+Kwaw-Kwaw-Apilt First Nation
+
+
+Lequ’á:mel First Nation
+
+
+Lower Kootenay Indian Band
+
+
+Lower Nicola Indian Band
+
+
+Matsqui First Nation
+
+
+Metepenagiag Mi’kmaq Nation
+
+
+Moricetown Indian Band
+
+
+Mosquito, Grizzly Bear’s Head, Lean Man First Nation
+
+
+Muskeg Lake Cree Nation
+
+
+Nanoose First Nation
+
+
+Neskonlith Indian Band
+
+
+Osoyoos Indian Band
+
+
+Seabird Island Band
+
+
+Shuswap First Nation
+
+
+Shxwhá:y Village First Nation
+
+
+Shxw’ow’hamel First Nation
+
+
+Simpcw First Nation
+
+
+Skawahlook First Nation
+
+
+Skeetchestn Indian Band
+
+
+Skowkale First Nation
+
+
+Sliammon First Nation
+
+
+Songhees First Nation
+
+
+Squiala First Nation
+
+
+St. Mary’s First Nation
+
+
+Sumas First Nation
+
+
+Tla-o-qui-aht First Nations
+
+
+Tobacco Plains Indian Band
+
+
+Tobique First Nation
+
+
+Tsawout First Nation
+
+
+Tsawwassen First Nation
+
+
+Tzeachten First Nation
+
+
+We Wai Kai Nation
+
+
+White Bear First Nation
+
+
+Yakweakwioose First Nation
+
+
+> 2005, c. 9, Sch.; SOR/2007-276, s. 1; SOR/2008-264.
 
 
