@@ -1,6 +1,6 @@
 > [Go to French version](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1401-1500/C.R.C.,%20ch.%201416.md)
 
-# Regulations for the Prevention of Collisions
+# Collision Regulations
 
 **C.R.C., c. 1416**
 
@@ -11,108 +11,89 @@ Enabling authorities:
 
 
 
-## Short Title
-
-
-**1** These Regulations may be cited as the Collision Regulations.
-
-
-
-
 ## Interpretation
+> [SOR/2008-272, s. 3(F)]
 
 
-**2** 
 
-- **(1)** In these Regulations,
+**1** 
 
-***Act*** means the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md); (*Loi*)
+- **(1)** The following definitions apply in these Regulations.
 
-***adopted by the Organization***[Repealed, SOR/83-202, s. 1]
+***Act*** means the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md). (*Loi*)
 
-***air cushion vessel*** means a machine designed to derive support in the atmosphere primarily from reactions against the earth’s surface of air expelled from the machine; (*navire à coussin d’air*)
+***air cushion vessel*** means a vessel designed so that the whole or a significant part of its weight can be supported, whether at rest or in motion, by a continuously generated cushion of air dependent for its effectiveness on the proximity of the vessel to the surface over which it operates. (*aéroglisseur*)
 
-***Annex*** means an Annex to Schedule I; (*appendice*)
+***Annex*** means an annex to Schedule 1. (*appendice*)
 
-***approved signal*** means a distress signal recognized internationally by organizations concerned with radiocommunications and maritime safety; (*signal approuvé*)
+***approved signal*** means a distress signal recognized internationally by organizations concerned with radiocommunications and maritime safety. (*signal approuvé*)
 
-***barge*** means a non-self-propelled barge, scow, dredge, pile-driver, hopper, pontoon or houseboat; (*chaland*)
+***barge*** means a non-self-propelled barge, scow, dredge, pile-driver, hopper, pontoon or houseboat. (*chaland*)
+
+***Board*** means the Marine Technical Review Board established by section 26 of the Act. (*Bureau*)
 
 ***Canadian ODAS*** means an ODAS which is owned by
-- **(a)** a person who is a Canadian citizen or a permanent resident of Canada, or
-- **(b)** the Government of Canada, the government of a province, a corporation resident in Canada or a Canadian university; (*ODAS canadien*)
+- **(a)** a person who is a Canadian citizen or a permanent resident of Canada; or
+- **(b)** the Government of Canada, the government of a province, a corporation resident in Canada or a Canadian university. (*SADO canadien*)
 
-***Canadian vessel*** includes
-- **(a)** any vessel that is licensed or registered in Canada, and
-- **(b)** any vessel that is Canadian owned and not licensed, registered or otherwise legally documented by another state; (*navire canadien*)
+***Canadian pleasure craft*** means a pleasure craft that is
+- **(a)** licensed in Canada; or
+- **(b)** principally maintained and operated in Canada and not registered in or licensed or otherwise legally documented by another state. (*embarcation de plaisance canadienne*)
 
-***Canadian waters*** means the territorial sea of Canada and all internal waters of Canada; (*eaux canadiennes*)
+***composite unit*** means a pushing vessel and an associated pushed vessel that are rigidly connected and that are designed as a dedicated and integrated tug and barge combination. (*unité composite*)
 
-***composite unit*** means a pushing vessel and an associated pushed vessel that are rigidly connected and that are designed as a dedicated and integrated tug and barge combination; (*unité composite*)
+***direction of traffic flow*** means the direction for traffic on a route that is indicated by arrows on a reference chart. (*direction du trafic*)
 
-***Convention***[Repealed, SOR/83-202, s. 1]
+***exploration or exploitation vessel*** means a vessel capable of engaging in the drilling for, or the production, conservation or processing of, oil or gas. (*navire d’exploration ou d’exploitation*)
 
-***Department***[Repealed, SOR/2002-429, s. 1]
+***fishing zones*** means the fishing zones described in section 16 of the [Oceans Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2031.md) and prescribed in regulations made under paragraph 25(b) of that Act. (*zones de pêche*)
 
-***direction of traffic flow*** means the direction for traffic in a route that is indicated by arrows on a reference chart; (*direction du trafic*)
+***foreign ODAS*** means an ODAS that is not a Canadian ODAS. (*SADO étranger*)
 
-***Director***[Repealed, SOR/83-202, s. 1]
+***give-way vessel*** means a vessel that is required by these Regulations to keep out of the way of another vessel. (*navire non privilégié*)
 
-***exploration or exploitation vessel*** means a vessel engaged in the exploration or exploitation of the non-living natural resources of the sea bed; (*navire d’exploration ou d’exploitation*)
+***Great Lakes Basin*** means Lakes Ontario, Erie, Huron (including Georgian Bay), Michigan and Superior, their connecting and tributary waters and the Ottawa and St. Lawrence Rivers and their tributaries as far east as the lower exit of the St. Lambert Lock. (*bassin des Grands Lacs*)
 
-***fishing zones*** means the fishing zones described in section 16 of the [Oceans Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2031.md) and prescribed in regulations made under paragraph 25(b) of that Act; (*zones de pêche*)
+***IALA*** means the International Association of Marine Aids to Navigation and Lighthouse Authorities. (*AISM*)
 
-***give-way vessel*** means a vessel that is required by these Regulations to keep out of the way of another vessel; (*navire non privilégié*)
+***inconspicuous, partly submerged vessel or object*** means a raft or vessel or any other floating object that is low in the water and is generally difficult to see. (*navire ou objet peu visible, partiellement submergé*)
 
-***Great Lakes Basin*** means Lakes Ontario, Erie, Huron (including Georgian Bay), Michigan and Superior, their connecting and tributary waters and the Ottawa and St. Lawrence Rivers and their tributaries as far east as the lower exit of St. Lambert Lock; (*Bassin des Grands lacs*)
+***inshore traffic zone*** means a routing measure that is a designated area between the landward boundary of a traffic separation scheme and the adjacent coast that is intended for local traffic. (*zone de navigation côtière*)
 
-***high-speed craft***[Repealed, SOR/2004-27, s. 1]
+***mile*** means the international nautical mile of 1 852 m. (*mille*)
 
-***inconspicuous, partly submerged vessel or object*** means a raft or any other floating vessel or object that is low in the water and is generally difficult to see; (*navire ou objet peu visible, partiellement submergé*)
+***Minister*** means the Minister of Transport. (*ministre*)
 
-***inshore traffic zone*** means a routing measure that is a designated area between the landward boundary of a traffic separation scheme and the adjacent coast that is intended for local traffic; (*zone de navigation côtière*)
+***Notice to Mariners*** means the monthly and annual publication by the Department of Fisheries and Oceans to provide marine information. (*Avis aux navigateurs*)
 
-***mile*** means the international nautical mile of 1 852 metres; (*mille*)
+***Notice to Shipping*** means an urgent release by the Department of Fisheries and Oceans to provide marine information. (*Avis à la navigation*)
 
-***Notice to Mariners*** means a weekly and annual publication by the Department of Fisheries and Oceans to provide marine information; (*Avis aux navigateurs*)
+***ODAS*** means an ocean data acquisition system that consists of any object on or in the water and is designed to collect, store or transmit samples or data relating to the marine environment or the atmosphere or to the uses thereof. (*SADO*)
 
-***Notice to Shipping*** means an urgent release by the Department of Fisheries and Oceans to provide marine information; (*Avis à la navigation*)
+***Organization*** means the International Maritime Organization. (*Organisation*)
 
-***ODAS*** means an ocean data acquisition system that consists of any object on or in the water that is designed to collect, store or transmit samples or data relating to the marine environment or the atmosphere or to the uses thereof; (*ODAS*)
+***raft*** includes a boom. (*radeau*)
 
-***Organization*** means the International Maritime Organization; (*Organisation*)
+***route*** means an area within which there are, at any point, one or two directions of traffic flow and that is delineated on two sides by separation lines, separation zones, natural obstacles or dashed tinted lines except that the continuity of such lines or zones may be interrupted where the route merges with, diverges from or crosses another route. (*route*)
 
-***practical cut-off***[Repealed, SOR/83-202, s. 1]
+***routing system*** means any system of one or more routes or routing measures which systems may include traffic separation schemes, two-way routes, recommended tracks, areas to be avoided, inshore traffic zones, roundabouts, precautionary areas and deep water routes. (*système d’organisation du trafic*)
 
-***prescribed***[Repealed, SOR/83-202, s. 1]
+***Rule*** means a provision in Schedule 1 under a heading that consists of the word “Rule” followed by a number. (*règle*)
 
-***proof of compliance*** means a document or a label that states that a light, shape, sound-signalling appliance or radar reflector meets the standards referred to in section 4 and that is issued by
-- **(a)** a government that is a party to the Convention on the International Regulations for Preventing Collisions at Sea, 1972,
-- **(b)** a society or association for the classification and registry of ships recognized by a government referred to in paragraph (a), or
-- **(c)** an independent testing establishment recognized by the Chairman or by a government referred to in paragraph (a); (*preuve de conformité*)
+***seaplane*** includes any aircraft designed to manoeuvre on the water. (*hydravion*)
 
-***raft*** includes a boom; (*radeau*)
+***separation zone*** or ***separation line*** means a zone or line separating routes in which vessels are proceeding in opposite or nearly opposite directions or separating a route from the adjacent inshore traffic zone. (*zone de séparation*ou*ligne de séparation*)
 
-***Regulations***[Repealed, SOR/83-202, s. 1]
+***traffic lane*** means a route within which there is one direction of traffic flow. (*voie de circulation*)
 
-***route*** means an area within which there are at any point, one or two directions of traffic flow and that is delineated on two sides by separation lines, separation zones, natural obstacles or dashed tinted lines except that the continuity of such lines or zones may be interrupted where the route merges with, diverges from or crosses another route; (*route*)
-
-***routing system*** means any system of one or more routes or routing measures which systems may include traffic separation schemes, two-way routes, recommended tracks, areas to be avoided, inshore traffic zones, roundabouts, precautionary areas and deep water routes; (*système d’organisation du trafic*)
-
-***Rule*** means a provision in Schedule I under a heading that consists of the word ***Rule*** followed by a number; (*règle*)
-
-***seaplane*** includes any aircraft designed to manoeuvre on the water; (*hydravion*)
-
-***separation zone or line*** means a zone or line separating routes in which ships are proceeding in opposite or nearly opposite directions, or separating a route from the adjacent inshore traffic zone; (*zone ou ligne de séparation*)
-
-***traffic lane*** means a route within which there is one direction of traffic flow; (*voie de circulation*)
-
-***traffic separation scheme*** means a routing measure that provides for the separation of opposing streams of traffic by appropriate means and by the establishment of traffic lanes; (*dispositif de séparation du trafic*)
+***traffic separation scheme*** means a routing measure that provides for the separation of opposing streams of traffic by appropriate means and by the establishment of traffic lanes. (*dispositif de séparation du trafic*)
 
 ***trawling*** means fishing by dragging through the water a dredge net or other fishing apparatus. (*chalutage*)
 
-- **(2)** In these Regulations, every reference to a vessel includes a reference to an air cushion vessel when it is over or on the water and a seaplane when it is on the water.
-> SOR/79-238, s. 1(F); SOR/83-202, s. 1; SOR/90-702, s. 1; SOR/2002-429, ss. 1, 13; SOR/2004-27, s. 1.
+- **(2)** For greater certainty, except in section 2, the word “ship” shall, for the purposes of these Regulations, be read as “vessel”.
+
+- **(3)** For the purposes of these Regulations, every reference to “vessel” shall, except in subsection 3(1) and section 4, be read to include a reference to a seaplane when it is on or over the water.
+> SOR/79-238, s. 1(F); SOR/83-202, s. 1; SOR/90-702, s. 1; SOR/2002-429, ss. 1, 13; SOR/2004-27, s. 1; SOR/2008-272, s. 4.
 
 
 
@@ -121,9 +102,13 @@ Enabling authorities:
 ## Prohibition
 
 
-**2.1** No ship of any class shall navigate in any shipping safety control zone prescribed under subsection 11(1) of the [Arctic Waters Pollution Prevention Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-12.md) unless the ship complies with these Regulations.
-> SOR/2002-429, s. 2.
+**2** No ship of any class shall navigate in any shipping safety control zone prescribed under subsection 11(1) of the [Arctic Waters Pollution Prevention Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-12.md) unless the ship complies with these Regulations.
+> SOR/2002-429, s. 2; SOR/2008-272, s. 5.
 
+
+
+
+**2.1** [Repealed, SOR/2008-272, s. 5]
 
 
 
@@ -133,75 +118,103 @@ Enabling authorities:
 
 **3** 
 
-- **(1)** Subject to subsection (4), these Regulations apply to every
-	- **(a)** Canadian vessel or Canadian ODAS located within any waters;
-	- **(b)** vessel or ODAS, other than a Canadian vessel or Canadian ODAS, located within
-		- **(i)** Canadian waters, or
-		- **(ii)** waters in the exclusive economic zone of Canada; and
-	- **(c)** exploration or exploitation vessel that is engaged in exploration or exploitation activities pursuant to a licence issued by the Government of Canada.
+- **(1)** Subject to subsection (2), these Regulations apply in respect of
+	- **(a)** every Canadian ODAS and Canadian vessel located in any waters, including every Canadian vessel that is an exploration or exploitation vessel engaged in exploration or exploitation activities pursuant to a licence issued by the Government of Canada;
+	- **(b)** every pleasure craft, foreign ODAS and foreign vessel located in Canadian waters, including every foreign vessel that is an exploration or exploitation vessel engaged in exploration or exploitation activities pursuant to a licence issued by the Government of Canada; and
+	- **(c)** every seaplane on or over Canadian waters.
 
-- **(2)** [Repealed, SOR/90-702, s. 2]
+- **(2)** As provided for Canadian vessels in subsection 7(3) of the Act, where the laws of a country other than Canada are applicable to a Canadian ODAS that is within the waters of that country and those laws are inconsistent with these Regulations, the laws of that country prevail to the extent of the inconsistency in respect of the Canadian ODAS.
 
 - **(3)** Where there is any inconsistency between a provision of the Rules and a provision of the Rules that falls under the heading “Canadian Modifications”, the latter provision prevails to the extent of the inconsistency.
 
-- **(4)** Where the laws of a state other than Canada are applicable to a Canadian vessel or Canadian ODAS within the territorial sea, inland waters or fishing zones of that state, and those laws are inconsistent with these Regulations, the laws of that state prevail to the extent of the inconsistency in respect of the Canadian vessel or Canadian ODAS.
+- **(4)** These Regulations do not apply in respect of a vessel or aircraft that belongs to the Canadian Forces or a foreign military force or in respect of any other vessel or aircraft that is under the command, control or direction of the Canadian Forces.
 
-- **(5)** Where special rules are made with respect to additional station or signal lights, shapes or whistle signals for ships of war and vessels proceeding under convoy, or with respect to additional station or signal lights, shapes or whistle signals for fishing vessels engaged in fishing as a fleet, the special rules shall operate so as to take precedence over any other portion of the Rules with respect to which there is an inconsistency and these additional station or signal lights, shapes or whistle signals shall, so far as possible, be such that they cannot be mistaken for any light, shape or signal authorized elsewhere under these Rules.
-
-- **(6)** Where there is any inconsistency between a provision of Rule 1 and a provision of this section, the provision of this section prevails to the extent of the inconsistency.
-> SOR/83-202, s. 2; SOR/90-702, s. 2; SOR/2002-429, ss. 3, 14(E); SOR/2004-27, s. 20(E).
+- **(5)** Where there is any inconsistency between a provision of Rule 1 and a provision of this section, the provision of this section prevails to the extent of the inconsistency.
+> SOR/83-202, s. 2; SOR/90-702, s. 2; SOR/2002-429, ss. 3, 14(E); SOR/2004-27, s. 20(E); SOR/2008-272, s. 6.
 
 
 
 
 
-## Standards
+## Compliance
 
 
-**4** Each light, shape, sound-signalling appliance and radar reflector required by these Regulations to be carried or exhibited on a vessel shall meet as a minimum the standards set out in
-- **(a)** Annexes I and III to Schedule I; and
-- **(b)** Transport Canada Standards for Navigation Lights, Shapes, Sound Signal Appliances and Radar Reflectors, 1983, TP 1861, as amended from time to time.
-> SOR/90-702, s. 3.
+**4** The following persons shall ensure that the applicable requirements of sections 5 and 6 and of the Rules set out in Schedule 1 are met:
+- **(a)** the authorized representative of a vessel and the master of a Canadian vessel;
+- **(b)** the owner, the charterer and the operator of a pleasure craft or seaplane and the person in charge of a pleasure craft or seaplane; and
+- **(c)** the owner of an ODAS.
+> SOR/90-702, s. 3; SOR/2008-272, s. 6.
 
 
 
 
 
-## Proof of Compliance
+## Proof of Compliance — Lights, Shapes, Sound-signalling Appliances and Radar Reflectors
 
 
 **5** 
 
-- **(1)** A proof of compliance for each light, shape, sound- signalling appliance and radar reflector on board a vessel shall
-	- **(a)** where the proof of compliance is in the form of a document, be carried on board the vessel; and
-	- **(b)** where the proof of compliance is in the form of a label, be securely affixed to the light, shape, sound-signalling appliance or radar reflector.
+- **(1)** Each light, shape, sound-signalling appliance and radar reflector required by these Regulations to be carried or exhibited on a vessel, except those on a pleasure craft, shall have a proof of compliance stating that the light, shape, sound-signalling appliance or radar reflector meets the standards applicable under section 6.
 
-- **(2)** A proof of compliance issued in a language other than English or French shall be accompanied by an English or French translation.
-> SOR/90-702, s. 3.
+- **(2)** The proof of compliance shall be in the form of
+	- **(a)** a document that is carried on board the vessel in a readily accessible location; or
+	- **(b)** a label that is securely affixed, in a readily visible location, to the light, shape, sound-signalling appliance or radar reflector.
 
+- **(3)** A proof of compliance issued in a language other than English or French shall be accompanied by an English or French translation.
 
-
-
-
-## Inspection Certificates
-
-
-**6** A steamship inspector may withhold the issuance of an inspection certificate or a Safety Convention certificate where
-- **(a)** the equipment referred to in section 5 does not meet the requirements of these Regulations or has no proof of compliance; or
-- **(b)** in the opinion of the steamship inspector, a proof of compliance has been improperly issued or contains incorrect information.
-> SOR/90-702, s. 3.
+- **(4)** The proof of compliance shall be issued by
+	- **(a)** a government that is a party to the Convention on the International Regulations for Preventing Collisions at Sea, 1972;
+	- **(b)** a classification society recognized by a government referred to in paragraph (a) as able to determine whether the equipment meets the applicable standards specified in section 6; or
+	- **(c)** an independent testing establishment recognized by the Minister or by a government referred to in paragraph (a) as able to determine whether the equipment meets the applicable standards specified in section 6.
+> SOR/90-702, s. 3; SOR/2008-272, s. 6.
 
 
 
 
 
-### **SCHEDULE I** 
-**(Sections 3 and 4)**
-> [SOR/90-702, s. 4].
+## Standards — Lights, Shapes, Sound-signalling Appliances and Radar Reflectors
+
+
+**6** 
+
+- **(1)** Each light, shape, sound-signalling appliance and radar reflector required by these Regulations to be carried or exhibited on a vessel shall meet the standards set out in Schedule 1 and its annexes.
+
+- **(2)** If a proof of compliance is issued in Canada in respect of a light, shape or sound-signalling appliance, the light, shape or sound-signalling appliance shall also meet one of the following standards:
+	- **(a)** Standards for Navigation Lights, Shapes, Sound-Signalling Appliances, TP 1861, published by Transport Canada, as amended from time to time;
+	- **(b)** Underwriters Laboratories, Inc. Standard 1104, Marine Navigation Lights, as amended from time to time, except sections 1.1, 1.2, 5.2 and 38.2 and any reference in that Standard to the United States’ regulation entitled Inland Navigation Rules;
+	- **(c)** in the case of a light on a vessel that is of less than 20 metres in length, American Boat and Yacht Council Standard A-16, Electric Navigation Lights, as amended from time to time, except section 16.5 and any reference in that Standard to the United States’ regulation entitled Inland Navigation Rules; or
+	- **(d)** any other testing standard that the Minister determines provides a level of safety that is equivalent to or higher than that of those standards.
+
+- **(3)** Lights carried on a vessel that is not required to be inspected annually or every fourth year under the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md) as it read immediately before the coming into force of the Act need not comply with these Regulations if the lights were constructed and installed in accordance with the Collision Regulations as they read on July 31, 1974, or the [Small Vessel Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2010/91.md) as they read on May 31, 1984, before
+	- **(a)** July 15, 1981, in the case of a vessel of 20 metres or more in length; or
+	- **(b)** June 1, 1984, in the case of a vessel of less than 20 metres in length.
+> SOR/90-702, s. 3; SOR/2008-272, s. 6.
+
+
+
+
+
+## Notices to Mariners and Notices to Shipping
+
+
+**7** Every vessel shall navigate with particular caution where navigation may be difficult or hazardous and, for that purpose, shall comply with any instructions and directions contained in Notices to Mariners or Notices to Shipping that are issued as a result of circumstances such as
+- **(a)** unusual maritime conditions;
+- **(b)** the undertaking of marine or engineering works;
+- **(c)** casualties to a vessel or aid to navigation; or
+- **(d)** changes to hydrographic information.
+> SOR/2008-272, s. 6.
+
+
+
+
+
+### **SCHEDULE 1** 
+**(Subsection 1(1), section 4 and subsection 6(1))**
+> [SOR/90-702, s. 4; SOR/2008-272, s. 7].
 
 ## International Regulations for Preventing Collisions at Sea, 1972 with Canadian Modifications
 
-**PART A — GENERAL** 
+**PART A — GENERAL**
 
 
 ### Rule 1
@@ -209,21 +222,16 @@ Enabling authorities:
 
 #### Application — International
 
-
 **(a)** These Rules shall apply to all vessels upon the high seas and in all waters connected therewith navigable by seagoing vessels.
-
 
 
 **(b)** Nothing in these Rules shall interfere with the operation of special rules made by an appropriate authority for roadsteads, harbours, rivers, lakes or inland waterways connected with the high seas and navigable by sea-going vessels if such special rules conform as closely as possible to these Rules.
 
 
-
 **(c)** Nothing in these Rules shall interfere with the operation of any special rules made by the government of any state with respect to additional station or signal lights, shapes or whistle signals for ships of war and vessels proceeding under convoy, or with respect to additional station or signal lights or shapes for fishing vessels engaged in fishing as a fleet. These additional station or signal lights, shapes or whistle signals shall, so far as possible, be such that they cannot be mistaken for any light, shape or signal authorized elsewhere under these Rules.
 
 
-
 **(d)** Traffic separation schemes may be adopted by the Organization for the purpose of these Rules.
-
 
 
 **(e)** Where the Government concerned determines that a vessel of special construction or purpose cannot comply fully with the provisions of any of these Rules with respect to the number, position, range or arc of visibility of lights or shapes, as well as to the disposition and characteristics of sound-signalling appliances, the vessel shall comply with such other provisions in regard to the number, position, range or arc of visibility of lights or shapes, as well as to the disposition and characteristics of sound-signalling appliances as the Government determines to be the closest possible compliance with these Rules in respect of that vessel.
@@ -232,18 +240,12 @@ Enabling authorities:
 
 #### Application — Canadian Modification
 
-
-**(f)** Where it is necessary to make any determination referred to in paragraph (e) in respect of a Canadian vessel, the determination shall be made by the Chairman.
-
+**(f)** Any determination referred to in paragraph (e) in respect of a Canadian vessel or Canadian pleasure craft shall be made by the Minister.
 
 
 **(g)** Each determination referred to in paragraph (e) shall be evaluated to ensure that there will be no reduction in safety taking into account such factors as the following:
 
-
-
 **(i)** in the case of lights,
-
-
 
 **(A)** any impairment of the visibility or distinctive character of the lights,
 
@@ -261,9 +263,9 @@ Enabling authorities:
 
 
 
+
+
 **(ii)** in the case of sound-signalling appliances,
-
-
 
 **(A)** any impairment of audibility or other characteristics of the sound-signalling appliances,
 
@@ -281,14 +283,16 @@ Enabling authorities:
 
 
 
+
+
+
+
 ### Rule 2
 
 
 #### Responsibility
 
-
 **(a)** Nothing in these Rules shall exonerate any vessel, or the owner, master or crew thereof, from the consequences of any neglect to comply with these Rules or of the neglect of any precaution which may be required by the ordinary practice of seamen, or by the special circumstances of the case.
-
 
 
 **(b)** In construing and complying with these Rules due regard shall be had to all dangers of navigation and collision and to any special circumstances, including the limitations of the vessels involved, which may make a departure from these Rules necessary to avoid immediate danger.
@@ -298,12 +302,9 @@ Enabling authorities:
 ### Rule 3
 
 
-#### General Definitions
-
+#### General Definitions — International
 
 For the purpose of these Rules, except where the context otherwise requires:
-
-
 
 **(a)** The word “vessel” includes every description of water craft, including non-displacement craft, WIG craft and seaplanes, used or capable of being used as a means of transportation on water.
 
@@ -331,11 +332,7 @@ For the purpose of these Rules, except where the context otherwise requires:
 
 **(g)** The term ***vessel restricted in her ability to manoeuvre*** means a vessel which from the nature of her work is restricted in her ability to manoeuvre as required by these Rules and is therefore unable to keep out of the way of another vessel.
 
-
-
 The term “vessels restricted in their ability to manoeuvre” shall include but not be limited to:
-
-
 
 **(i)** a vessel engaged in laying, servicing or picking up a navigation mark, submarine cable or pipeline,
 
@@ -358,6 +355,10 @@ The term “vessels restricted in their ability to manoeuvre” shall include bu
 
 
 **(vi)** a vessel engaged in a towing operation such as severely restricts the towing vessel and her tow in their ability to deviate from their course.
+
+
+
+
 
 
 
@@ -385,7 +386,15 @@ The term “vessels restricted in their ability to manoeuvre” shall include bu
 
 
 
-**PART B — STEERING AND SAILING RULES** 
+
+
+#### General Definitions — Canadian Modification
+
+**(n)** For the purposes of these Rules, the definition of the word “vessel” in paragraph (a) does not apply.
+
+
+
+**PART B — STEERING AND SAILING RULES**
 
 
 **SECTION I — CONDUCT OF VESSELS IN ANY CONDITION OF VISIBILITY** 
@@ -396,7 +405,6 @@ The term “vessels restricted in their ability to manoeuvre” shall include bu
 
 #### Application
 
-
 Rules in this Section apply in any condition of visibility.
 
 
@@ -405,7 +413,6 @@ Rules in this Section apply in any condition of visibility.
 
 
 #### Look-out
-
 
 Every vessel shall at all times maintain a proper look-out by sight and hearing as well as by all available means appropriate in the prevailing circumstances and conditions so as to make a full appraisal of the situation and of the risk of collision.
 
@@ -416,18 +423,12 @@ Every vessel shall at all times maintain a proper look-out by sight and hearing 
 
 #### Safe Speed — International
 
-
 Every vessel shall at all times proceed at a safe speed so that she can take proper and effective action to avoid collision and be stopped within a distance appropriate to the prevailing circumstances and conditions.
-
 
 
 In determining a safe speed the following factors shall be among those taken into account:
 
-
-
 **(a)** By all vessels:
-
-
 
 **(i)** the state of visibility,
 
@@ -453,9 +454,9 @@ In determining a safe speed the following factors shall be among those taken int
 
 
 
+
+
 **(b)** Additionally, by vessels with operational radar:
-
-
 
 **(i)** the characteristics, efficiency and limitations of the radar equipment,
 
@@ -481,30 +482,19 @@ In determining a safe speed the following factors shall be among those taken int
 
 
 
+
+
+
+
 #### Safe Speed — Canadian Modifications
 
-
 **(c)** In the Canadian waters of a roadstead, harbour, river, lake or inland waterway, every vessel passing another vessel or work that includes a dredge, tow, grounded vessel or wreck shall proceed with caution at a speed that will not adversely affect the vessel or work being passed, and shall comply with any relevant instruction or direction contained in any Notice to Mariners or Notice to Shipping.
-
 
 
 **(d)** For the purpose of paragraph (c), where it cannot be determined with certainty that a passing vessel will not adversely affect another vessel or work described in that paragraph, the passing vessel shall proceed with caution at the minimum speed at which she can be kept on her course.
 
 
-
-**(e)** In the Canadian waters of a roadstead, harbour, river, lake or inland waterway, every vessel shall navigate with caution and shall comply with any relevant instruction or direction contained in any Notice to Mariners or Notice to Shipping where abnormal water levels, ice conditions or a casualty to a vessel or aid to navigation may
-
-
-
-**(i)** make navigation difficult or hazardous,
-
-
-
-**(ii)** cause damage to property, or
-
-
-
-**(iii)** block the navigational channel.
+**(e)** [Repealed, SOR/2008-272, s. 10]
 
 
 
@@ -513,22 +503,16 @@ In determining a safe speed the following factors shall be among those taken int
 
 #### Risk of Collision
 
-
 **(a)** Every vessel shall use all available means appropriate to the prevailing circumstances and conditions to determine if risk of collision exists. If there is any doubt such risk shall be deemed to exist.
-
 
 
 **(b)** Proper use shall be made of radar equipment if fitted and operational, including long-range scanning to obtain early warning of risk of collision and radar plotting or equivalent systematic observation of detected objects.
 
 
-
 **(c)** Assumptions shall not be made on the basis of scanty information, especially scanty radar information.
 
 
-
 **(d)** In determining if risk of collision exists the following considerations shall be among those taken into account:
-
-
 
 **(i)** such risk shall be deemed to exist if the compass bearing of an approaching vessel does not appreciably change,
 
@@ -538,39 +522,29 @@ In determining a safe speed the following factors shall be among those taken int
 
 
 
+
+
 ### Rule 8
 
 
 #### Action to avoid Collision
 
-
 **(a)** Any action to avoid collision shall be taken in accordance with the Rules of this Part and shall, if the circumstances of the case admit, be positive, made in ample time and with due regard to the observance of good seamanship.
-
 
 
 **(b)** Any alteration of course and/or speed to avoid collision shall, if the circumstances of the case admit, be large enough to be readily apparent to another vessel observing visually or by radar; a succession of small alterations of course and/or speed should be avoided.
 
 
-
 **(c)** If there is sufficient sea room, alteration of course alone may be the most effective action to avoid a close-quarters situation provided that it is made in good time, is substantial and does not result in another close-quarters situation.
-
 
 
 **(d)** Action taken to avoid collision with another vessel shall be such as to result in passing at a safe distance. The effectiveness of the action shall be carefully checked until the other vessel is finally past and clear.
 
 
-
 **(e)** If necessary to avoid collision or allow more time to assess the situation, a vessel shall slacken her speed or take all way off by stopping or reversing her means of propulsion.
 
 
-
-**(f)** 
-
-**(i)** A vessel which, by any of these Rules, is required not to impede the passage or safe passage of another vessel shall, when required by the circumstances of the case, take early action to allow sufficient sea room for the safe passage of the other vessel.
-
-
-
-
+**(f)** (i) A vessel which, by any of these Rules, is required not to impede the passage or safe passage of another vessel shall, when required by the circumstances of the case, take early action to allow sufficient sea room for the safe passage of the other vessel.
 
 **(ii)** A vessel required not to impede the passage or the safe passage of another vessel is not relieved of this latter obligation if approaching the other vessel so as to involve risk of collision and shall, when taking action, have full regard to the action which may be required by the rules of this Part.
 
@@ -580,42 +554,33 @@ In determining a safe speed the following factors shall be among those taken int
 
 
 
+
+
 ### Rule 9
 
 
 #### Narrow Channels — International
 
-
 **(a)** A vessel proceeding along the course of a narrow channel or fairway shall keep as near to the outer limit of the channel or fairway which lies on her starboard side as is safe and practicable.
-
 
 
 **(b)** A vessel of less than 20 metres in length or a sailing vessel shall not impede the passage of a vessel which can safely navigate only within a narrow channel or fairway.
 
 
-
 **(c)** A vessel engaged in fishing shall not impede the passage of any other vessel navigating within a narrow channel or fairway.
-
 
 
 **(d)** A vessel shall not cross a narrow channel or fairway if such crossing impedes the passage of a vessel which can safely navigate only within such channel or fairway. The latter vessel may use the sound signal prescribed in Rule 34(d) if in doubt as to the intention of the crossing vessel.
 
 
-
-**(e)** 
-
-**(i)** In a narrow channel or fairway when overtaking can take place only if the vessel to be overtaken has to take action to permit safe passing, the vessel intending to overtake shall indicate her intention by sounding the appropriate signal prescribed in Rule 34(c)(i). The vessel to be overtaken shall, if in agreement, sound the appropriate signal prescribed in Rule 34(c)(ii) and take steps to permit safe passing. If in doubt she may sound the signals prescribed in Rule 34(d).
-
-
+**(e)** (i) In a narrow channel or fairway when overtaking can take place only if the vessel to be overtaken has to take action to permit safe passing, the vessel intending to overtake shall indicate her intention by sounding the appropriate signal prescribed in Rule 34(c)(i). The vessel to be overtaken shall, if in agreement, sound the appropriate signal prescribed in Rule 34(c)(ii) and take steps to permit safe passing. If in doubt she may sound the signals prescribed in Rule 34(d).
 
 **(ii)** This Rule does not relieve the overtaking vessel of her obligation under Rule 13.
 
 
 
 
-
 **(f)** A vessel nearing a bend or an area of a narrow channel or fairway where other vessels may be obscured by an intervening obstruction shall navigate with particular alertness and caution and shall sound the appropriate signal prescribed in Rule 34(e).
-
 
 
 **(g)** Any vessel shall, if the circumstances of the case admit, avoid anchoring in a narrow channel.
@@ -624,22 +589,16 @@ In determining a safe speed the following factors shall be among those taken int
 
 #### Narrow Channels — Canadian Modifications
 
-
 **(h)** Notwithstanding paragraph (d), in the waters of the Great Lakes Basin, a vessel that can safely navigate only within a narrow channel or fairway shall, if a crossing vessel impedes her passage, use the sound signal prescribed in Rule 34(d) if in doubt as to the intention of the crossing vessel.
-
 
 
 **(i)** Notwithstanding paragraph (e), in a narrow channel or fairway in the waters of the Great Lakes Basin, a vessel shall indicate its intention to overtake, or its agreement to being overtaken, as the case may be, by sounding the whistle signals prescribed in Rule 34(j).
 
 
-
 **(j)** In the Canadian waters of a narrow channel or fairway a barge or an inconspicuous, partly submerged vessel or object shall not be navigated, moored or anchored so as to impede the safe passage of any other vessel or object using those waters.
 
 
-
 **(k)** Notwithstanding paragraph (a) and Rule 14(a), in the Canadian waters of a narrow channel or fairway where there is a current or tidal stream and two power-driven vessels are meeting each other from opposite directions so as to involve risk of collision,
-
-
 
 **(i)** the vessel proceeding with the current or tidal stream shall be the stand-on vessel and shall propose the place of passage and shall indicate the side on which she intends to pass by sounding the appropriate signal prescribed in Rule 34(a) or (g),
 
@@ -653,19 +612,17 @@ In determining a safe speed the following factors shall be among those taken int
 
 
 
+
+
 ### Rule 10
 
 
 #### Traffic Separation Schemes — International
 
-
 **(a)** This rule applies to traffic separation schemes adopted by the Organization and does not relieve any vessel of her obligation under any other rule.
 
 
-
 **(b)** A vessel using a traffic separation scheme shall:
-
-
 
 **(i)** proceed in the appropriate traffic lane in the general direction of traffic flow for that lane,
 
@@ -679,25 +636,18 @@ In determining a safe speed the following factors shall be among those taken int
 
 
 
+
 **(c)** A vessel shall, so far as practicable, avoid crossing traffic lanes but, if obliged to do so, shall cross on a heading as nearly as practicable at right angles to the general direction of traffic flow.
 
 
-
-**(d)** 
-
-**(i)** A vessel shall not use an inshore traffic zone when it can safely use the appropriate traffic lane within the adjacent traffic separation scheme. However, vessels of less than 20 metres in length, sailing vessels and vessels engaged in fishing may use the inshore traffic zone.
-
-
-
-
+**(d)** (i) A vessel shall not use an inshore traffic zone when it can safely use the appropriate traffic lane within the adjacent traffic separation scheme. However, vessels of less than 20 metres in length, sailing vessels and vessels engaged in fishing may use the inshore traffic zone.
 
 **(ii)** Notwithstanding subparagraph (i), a vessel may use an inshore traffic zone when *en route* to or from a port, an offshore installation or structure, a pilot station or any other place situated within the inshore traffic zone or to avoid immediate danger.
 
 
 
+
 **(e)** A vessel other than a crossing vessel or a vessel joining or leaving a lane shall not normally enter a separation zone or cross a separation line except
-
-
 
 **(i)** in cases of emergency to avoid immediate danger, or
 
@@ -707,28 +657,23 @@ In determining a safe speed the following factors shall be among those taken int
 
 
 
-**(f)** A vessel navigating in areas near the terminations of traffic separation schemes shall do so with particular caution.
 
+**(f)** A vessel navigating in areas near the terminations of traffic separation schemes shall do so with particular caution.
 
 
 **(g)** A vessel shall so far as practicable avoid anchoring in a traffic separation scheme or in areas near its terminations.
 
 
-
 **(h)** A vessel not using a traffic separation scheme shall avoid it by as wide a margin as is practicable.
-
 
 
 **(i)** A vessel engaged in fishing shall not impede the passage of any vessel following a traffic lane.
 
 
-
 **(j)** A vessel of less than 20 metres in length or a sailing vessel shall not impede the safe passage of a power-driven vessel following a traffic lane.
 
 
-
 **(k)** A vessel restricted in her ability to manoeuvre when engaged in an operation for the maintenance of safety of navigation in a traffic separation scheme is exempted from complying with this Rule to the extent necessary to carry out the operation.
-
 
 
 **(l)** A vessel restricted in her ability to manoeuvre when engaged in an operation for the laying, servicing or picking up of a submarine cable, within a traffic separation scheme, is exempted from complying with this Rule to the extent necessary to carry out the operation.
@@ -737,52 +682,51 @@ In determining a safe speed the following factors shall be among those taken int
 
 #### Traffic Separation Schemes — Canadian Modifications
 
-
-**(m)** Traffic separation schemes adopted by the Organization shall be described in Notices to Mariners or Notices to Shipping.
-
+**(m)** Subject to paragraphs (q) and (r), paragraphs (b) to (l) apply to traffic separation schemes described in any current Notice to Mariners or Notice to Shipping.
 
 
-**(m.1)** Subject to paragraphs (o) and (p), paragraphs (a) to (l) apply to any routing system described in Notices to Mariners or Notices to Shipping.
+**(m.1)** [Repealed, SOR/2008-272, s. 11]
 
 
-
-**(n)** Every power-driven vessel of more than 20 metres in length shall use the route within a traffic separation scheme or a routing system by which it can safely proceed to its destination.
-
+**(n)** A vessel shall use the mandatory routing system, if any, required for its category or the cargo carried that is adopted by the Organization and is described in the publication entitled Ships’ Routeing, as amended from time to time, and shall conform to the relevant provisions in force.
 
 
-**(n.1)** A vessel shall use a mandatory ship routing system adopted by the International Maritime Organization as required for its category or the cargo carried and shall conform to the relevant provisions in force unless there are compelling reasons not to use a particular ship routing system. Any such reason shall be recorded in the vessel’s log-book.
+**(n.1)** [Repealed, SOR/2008-272, s. 11]
 
 
-
-**(o)** Paragraphs (b), (c) and (h) do not apply to a vessel engaged in fishing with nets, lines, trawls, trolling lines or other fishing apparatus in or near a routing system located in Canadian waters or fishing zones.
-
+**(o)** A power-driven vessel of more than 20 metres in length shall use a traffic separation scheme and the associated routing system, if any, by which it can safely proceed to its destination, that are adopted by the Organization as recommendations and that are in force and described in the publication Ships’ Routeing, as amended from time to time.
 
 
-**(p)** Paragraphs (b), (c), (e) and (h) do not apply to a vessel engaged in laying, servicing or picking up a navigation mark, submarine cable or pipeline, dredging, surveying, underwater operations or launching or recovering aircraft in or near a routing system located in Canadian waters or fishing zones, where that vessel
+**(p)** The requirements set out in paragraph (n) or (o) do not apply if there are compelling reasons not to use a particular traffic separation scheme or routing system, and the reasons shall be recorded in the vessel’s logbook.
 
 
+**(q)** Paragraphs (b), (c) and (h) do not apply to a vessel engaged in fishing with nets, lines, trawls, trolling lines or other fishing apparatus in or near a routing system located in Canadian waters or fishing zones.
+
+
+**(r)** Paragraphs (b), (c), (e) and (h) do not apply to a vessel engaged in laying, servicing or picking up a navigation mark, submarine cable or pipeline, dredging, surveying, underwater operations or launching or recovering aircraft in or near a routing system located in Canadian waters or fishing zones, where that vessel
 
 **(i)** does not prevent other vessels that use the route from navigating safely,
 
 
 
-**(ii)** identifies herself to approaching vessels and informs them of the location and nature of the operation and of her intentions, and
+**(ii)** identifies itself to approaching vessels and informs them of the location and nature of its operation and of its intentions, and
 
 
 
 **(iii)** informs the Department of Fisheries and Oceans, as soon as possible before the commencement of the operation, of
 
-
-
 **(A)** the nature, location and duration of the operation, and
 
 
 
-**(B)** any cautionary advice necessary concerning the operation.
+**(B)** any necessary cautionary advice concerning the operation.
 
 
 
-**(q)** A vessel making a transatlantic voyage shall, as far as practicable, avoid crossing the Grand Banks of Newfoundland north of latitude 43° north.
+
+
+
+**(s)** A vessel making a transatlantic voyage shall, as far as practicable, avoid crossing the Grand Banks of Newfoundland and Labrador north of 43° north latitude.
 
 
 
@@ -794,7 +738,6 @@ In determining a safe speed the following factors shall be among those taken int
 
 #### Application
 
-
 Rules in this Section apply to vessels in sight of one another.
 
 
@@ -804,10 +747,7 @@ Rules in this Section apply to vessels in sight of one another.
 
 #### Sailing Vessels
 
-
 **(a)** When two sailing vessels are approaching one another, so as to involve risk of collision, one of them shall keep out of the way of the other as follows:
-
-
 
 **(i)** when each has the wind on a different side, the vessel which has the wind on the port side shall keep out of the way of the other,
 
@@ -821,6 +761,7 @@ Rules in this Section apply to vessels in sight of one another.
 
 
 
+
 **(b)** For the purposes of this Rule, the windward side shall be deemed to be the side opposite to that on which the mainsail is carried or, in the case of a square-rigged vessel, the side opposite to that on which the largest fore-and-aft sail is carried.
 
 
@@ -830,17 +771,13 @@ Rules in this Section apply to vessels in sight of one another.
 
 #### Overtaking — International
 
-
 **(a)** Notwithstanding anything contained in the Rules of Part B, Sections I and II, any vessel overtaking any other vessel shall keep out of the way of the vessel being overtaken.
-
 
 
 **(b)** A vessel shall be deemed to be overtaking when coming up with another vessel from a direction more than 22.5 degrees abaft her beam, that is, in such a position with reference to the vessel she is overtaking, that at night she would be able to see only the sternlight of that vessel but neither of her sidelights.
 
 
-
 **(c)** When a vessel is in any doubt as to whether she is overtaking another, she shall assume that this is the case and act accordingly.
-
 
 
 **(d)** Any subsequent alteration of the bearing between the two vessels shall not make the overtaking vessel a crossing vessel within the meaning of these Rules or relieve her of the duty of keeping clear of the overtaken vessel until she is finally past and clear.
@@ -849,20 +786,15 @@ Rules in this Section apply to vessels in sight of one another.
 
 #### Overtaking — Canadian Modification
 
-
-**(e)** Notwithstanding paragraph (b), in the waters of the Great Lakes Basin, a vessel shall be deemed to be overtaking another vessel when at night she would be able to see
-
-
+**(e)** Notwithstanding paragraph (b), in the waters of the Great Lakes Basin, a vessel shall be deemed to be overtaking if approaching another vessel from a direction more than 22.5° abaft her beam, that is, in such a position with reference to the vessel she is overtaking that at night she would not be able to see either of the sidelights of the other vessel but would be able to see
 
 **(i)** the sternlight of the other vessel, or
 
 
 
-**(ii)** in the case of a power-driven vessel lighted in accordance with Rule 23(c) or (e), the all-round white light or lights of the other vessel
+**(ii)** in the case of a power-driven vessel lighted in accordance with Rule 23(d) or (f), the all-round white light or lights of the other vessel.
 
 
-
-but not her sidelights.
 
 
 
@@ -871,13 +803,10 @@ but not her sidelights.
 
 #### Head-on Situation
 
-
 **(a)** When two power-driven vessels are meeting on reciprocal or nearly reciprocal courses so as to involve risk of collision, each shall alter her course to starboard so that each shall pass on the port side of the other.
 
 
-
 **(b)** Such a situation shall be deemed to exist when a vessel sees the other ahead or nearly ahead and by night she could see the masthead lights of the other in a line or nearly in a line and/or both sidelights and by day she observes the corresponding aspect of the other vessel.
-
 
 
 **(c)** When a vessel is in any doubt as to whether such a situation exists she shall assume that it does exist and act accordingly.
@@ -889,15 +818,13 @@ but not her sidelights.
 
 #### Crossing Situation — International
 
-
 **(a)** When two power-driven vessels are crossing so as to involve risk of collision, the vessel which has the other on her own starboard side shall keep out of the way and shall, if the circumstances of the case admit, avoid crossing ahead of the other vessel.
 
 
 
 #### Crossing Situation — Canadian Modification
 
-
-**(b)** Notwithstanding paragraph (a), in Canadian waters, a vessel crossing a river shall keep out of the way of a power-driven vessel ascending or descending the river, except on the St. Lawrence River northeast of Île Rouge.
+**(b)** Notwithstanding paragraph (a), in Canadian waters, a vessel crossing a river shall keep out of the way of a power-driven vessel ascending or descending the river, except on the St. Lawrence River seaward of Île Rouge.
 
 
 
@@ -905,7 +832,6 @@ but not her sidelights.
 
 
 #### Action by Give-way Vessel
-
 
 Every vessel which is directed to keep out of the way of another vessel shall, so far as possible, take early and substantial action to keep well clear.
 
@@ -916,25 +842,17 @@ Every vessel which is directed to keep out of the way of another vessel shall, s
 
 #### Action by Stand-on Vessel
 
-
-**(a)** 
-
-**(i)** Where one of two vessels is to keep out of the way, the other shall keep her course and speed.
-
-
-
-
+**(a)** (i) Where one of two vessels is to keep out of the way, the other shall keep her course and speed.
 
 **(ii)** The latter vessel may however take action to avoid collision by her manoeuvre alone, as soon as it becomes apparent to her that the vessel required to keep out of the way is not taking appropriate action in compliance with these Rules.
+
 
 
 
 **(b)** When, from any cause, the vessel required to keep her course and speed finds herself so close that collision cannot be avoided by the action of the give-way vessel alone, she shall take such action as will best aid to avoid collision.
 
 
-
 **(c)** A power-driven vessel which takes action in a crossing situation in accordance with subparagraph (a)(ii) of this Rule to avoid collision with another power-driven vessel shall, if the circumstances of the case admit, not alter course to port for a vessel on her own port side.
-
 
 
 **(d)** This Rule does not relieve the give-way vessel of her obligation to keep out of the way.
@@ -946,14 +864,9 @@ Every vessel which is directed to keep out of the way of another vessel shall, s
 
 #### Responsibilities between Vessels
 
-
 Except where Rules 9, 10 and 13 otherwise require:
 
-
-
 **(a)** A power-driven vessel underway shall keep out of the way of:
-
-
 
 **(i)** a vessel not under command,
 
@@ -971,9 +884,9 @@ Except where Rules 9, 10 and 13 otherwise require:
 
 
 
+
+
 **(b)** A sailing vessel underway shall keep out of the way of:
-
-
 
 **(i)** a vessel not under command,
 
@@ -987,9 +900,9 @@ Except where Rules 9, 10 and 13 otherwise require:
 
 
 
+
+
 **(c)** A vessel engaged in fishing when underway shall, so far as possible, keep out of the way of:
-
-
 
 **(i)** a vessel not under command,
 
@@ -999,15 +912,13 @@ Except where Rules 9, 10 and 13 otherwise require:
 
 
 
-**(d)** 
-
-**(i)** Any vessel other than a vessel not under command or a vessel restricted in her ability to manoeuvre shall, if the circumstances of the case admit, avoid impeding the safe passage of a vessel constrained by her draught, exhibiting the signals in Rule 28.
 
 
-
-
+**(d)** (i) Any vessel other than a vessel not under command or a vessel restricted in her ability to manoeuvre shall, if the circumstances of the case admit, avoid impeding the safe passage of a vessel constrained by her draught, exhibiting the signals in Rule 28.
 
 **(ii)** A vessel constrained by her draught shall navigate with particular caution having full regard to her special condition.
+
+
 
 
 
@@ -1015,15 +926,13 @@ Except where Rules 9, 10 and 13 otherwise require:
 
 
 
-**(f)** 
-
-**(i)** A WIG craft shall, when taking off, landing and in flight near the surface, keep well clear of all other vessels and avoid impeding their navigation.
-
-
-
-
+**(f)** (i) A WIG craft shall, when taking off, landing and in flight near the surface, keep well clear of all other vessels and avoid impeding their navigation.
 
 **(ii)** A WIG craft operating on the water surface shall comply with the Rules of this Part as a power-driven vessel.
+
+
+
+
 
 
 
@@ -1035,22 +944,16 @@ Except where Rules 9, 10 and 13 otherwise require:
 
 #### Conduct of Vessels in Restricted Visibility
 
-
 **(a)** This Rule applies to vessels not in sight of one another when navigating in or near an area of restricted visibility.
-
 
 
 **(b)** Every vessel shall proceed at a safe speed adapted to the prevailing circumstances and conditions of restricted visibility. A power-driven vessel shall have her engines ready for immediate manoeuvre.
 
 
-
 **(c)** Every vessel shall have due regard to the prevailing circumstances and conditions of restricted visibility when complying with the Rules of Section I of this Part.
 
 
-
 **(d)** A vessel which detects by radar alone the presence of another vessel shall determine if a close-quarters situation is developing and/or risk of collision exists. If so, she shall take avoiding action in ample time, provided that when such action consists of an alteration of course, so far as possible the following shall be avoided:
-
-
 
 **(i)** an alteration of course to port for a vessel forward of the beam, other than for a vessel being overtaken,
 
@@ -1060,11 +963,12 @@ Except where Rules 9, 10 and 13 otherwise require:
 
 
 
+
 **(e)** Except where it has been determined that a risk of collision does not exist, every vessel which hears apparently forward of her beam the fog signal of another vessel, or which cannot avoid a close-quarters situation with another vessel forward of her beam, shall reduce her speed to the minimum at which she can be kept on her course. She shall if necessary take all her way off and in any event navigate with extreme caution until danger of collision is over.
 
 
 
-**PART C — LIGHTS AND SHAPES** 
+**PART C — LIGHTS AND SHAPES**
 
 
 ### Rule 20
@@ -1072,21 +976,16 @@ Except where Rules 9, 10 and 13 otherwise require:
 
 #### Application
 
-
 **(a)** Rules in this Part shall be complied with in all weathers.
-
 
 
 **(b)** The Rules concerning lights shall be complied with from sunset to sunrise, and during such times no other lights shall be exhibited, except such lights as cannot be mistaken for the lights specified in these Rules or do not impair their visibility or distinctive character, or interfere with the keeping of a proper look-out.
 
 
-
 **(c)** The lights prescribed by these Rules shall, if carried, also be exhibited from sunrise to sunset in restricted visibility and may be exhibited in all other circumstances when it is deemed necessary.
 
 
-
 **(d)** The Rules concerning shapes shall be complied with by day.
-
 
 
 **(e)** The lights and shapes specified in these Rules shall comply with the provisions of Annex I to these Regulations.
@@ -1098,36 +997,28 @@ Except where Rules 9, 10 and 13 otherwise require:
 
 #### Definitions — International
 
-
 **(a)** ***Masthead light*** means a white light placed over the fore and aft centreline of the vessel showing an unbroken light over an arc of the horizon of 225 degrees and so fixed as to show the light from right ahead to 22.5 degrees abaft the beam on either side of the vessel.
-
 
 
 **(b)** ***Sidelights*** means a green light on the starboard side and a red light on the port side each showing an unbroken light over an arc of the horizon of 112.5 degrees and so fixed as to show the light from right ahead to 22.5 degrees abaft the beam on its respective side. In a vessel of less than 20 metres in length the sidelights may be combined in one lantern carried on the fore and aft centreline of the vessel.
 
 
-
 **(c)** ***Sternlight*** means a white light placed as nearly as practicable at the stern showing an unbroken light over an arc of the horizon of 135 degrees and so fixed as to show the light 67.5 degrees from right aft on each side of the vessel.
-
 
 
 **(d)** ***Towing light*** means a yellow light having the same characteristics as the “sternlight” defined in paragraph (c) of this Rule.
 
 
-
 **(e)** ***All-round light*** means a light showing an unbroken light over an arc of the horizon of 360 degrees.
-
 
 
 **(f)** ***Flashing light*** means a light flashing at regular intervals at a frequency of 120 flashes or more per minute.
 
 
 
-#### Definitions — Canadian Modification
-
+#### Definitions — Canadian Modifications
 
 **(g)** ***Special flashing light*** means a yellow light flashing at regular intervals at a frequency of 50 to 70 flashes per minute, placed as far forward and as nearly as practicable on the fore and aft centreline of a vessel and showing an unbroken light over an arc of the horizon of not less than 180 degrees nor more than 225 degrees and so fixed as to show the light from right ahead to abeam and not more than 22.5 degrees abaft the beam on either side of the vessel.
-
 
 
 **(h)** ***Blue flashing light*** means a blue all-round light flashing at regular intervals at a frequency of 50 to 70 flashes per minute.
@@ -1139,14 +1030,9 @@ Except where Rules 9, 10 and 13 otherwise require:
 
 #### Visibility of Lights — International
 
-
 The lights prescribed in these Rules shall have an intensity as specified in section 8 of Annex I to these Regulations so as to be visible at the following minimum ranges:
 
-
-
 **(a)** In vessels of 50 metres or more in length:
-
-
 
 **—** a masthead light, six miles,
 
@@ -1168,9 +1054,9 @@ The lights prescribed in these Rules shall have an intensity as specified in sec
 
 
 
+
+
 **(b)** In vessels of 12 metres or more in length but less than 50 metres in length:
-
-
 
 **—** a masthead light, five miles; except that where the length of the vessel is less than 20 metres, three miles,
 
@@ -1192,9 +1078,9 @@ The lights prescribed in these Rules shall have an intensity as specified in sec
 
 
 
+
+
 **(c)** In vessels of less than 12 metres in length:
-
-
 
 **—** a masthead light, two miles,
 
@@ -1216,30 +1102,32 @@ The lights prescribed in these Rules shall have an intensity as specified in sec
 
 
 
+
+
 **(d)** In inconspicuous, partly submerged vessels or objects being towed:
-
-
 
 **—** a white all-round light, three miles.
 
 
 
+
+
+
+
 #### Visibility of Lights — Canadian Modification
 
+**(e)** In vessels exhibiting
 
-**(e)** In vessels being pushed ahead, irrespective of length:
-
-
-
-**—** a special flashing light, two miles.
+**—** a special flashing light, 2 miles.
 
 
 
-**(f)** In any government or police vessel:
+**—** a blue flashing light, 2 miles.
 
 
 
-**—** a blue flashing light, two miles.
+
+**(f)** [Repealed, SOR/2008-272, s. 15]
 
 
 
@@ -1248,10 +1136,7 @@ The lights prescribed in these Rules shall have an intensity as specified in sec
 
 #### Power-driven Vessels Underway — International
 
-
 **(a)** A power-driven vessel underway shall exhibit:
-
-
 
 **(i)** a masthead light forward,
 
@@ -1269,21 +1154,14 @@ The lights prescribed in these Rules shall have an intensity as specified in sec
 
 
 
-**(b)** An air cushion vessel when operating in the non-displacement mode shall, in addition to the lights prescribed in paragraph (a) of this Rule, exhibit an all-round flashing yellow light.
 
+**(b)** An air cushion vessel when operating in the non-displacement mode shall, in addition to the lights prescribed in paragraph (a) of this Rule, exhibit an all-round flashing yellow light.
 
 
 **(c)** A WIG craft only when taking off, landing and in flight near the surface shall, in addition to the lights prescribed in paragraph (a) of this Rule, exhibit a high intensity all-round flashing red light.
 
 
-
-**(d)** 
-
-**(i)** A power-driven vessel of less than 12 metres in length may in lieu of the lights prescribed in paragraph (a) of this Rule exhibit an all-round white light and sidelights.
-
-
-
-
+**(d)** (i) A power-driven vessel of less than 12 metres in length may in lieu of the lights prescribed in paragraph (a) of this Rule exhibit an all-round white light and sidelights.
 
 **(ii)** A power-driven vessel of less than seven metres in length whose maximum speed does not exceed seven knots may in lieu of the lights prescribed in paragraph (a) of this Rule exhibit an all-round white light and shall, if practicable, also exhibit sidelights.
 
@@ -1293,11 +1171,11 @@ The lights prescribed in these Rules shall have an intensity as specified in sec
 
 
 
+
+
 #### Power-driven Vessels Underway — Canadian Modifications
 
-
 **(e)** Rule 23(d)(ii) does not apply to a Canadian power-driven vessel in any waters or to a non-Canadian power-driven vessel in the Canadian waters of a roadstead, harbour, river, lake or inland waterway.
-
 
 
 **(f)** In the waters of the Great Lakes Basin, a power-driven vessel when underway may, instead of the second masthead light and sternlight prescribed in paragraph (a), carry, in the position of the second masthead light, a single all-round white light or two such lights placed not over 800 millimetres apart horizontally, one on either side of the keel and so arranged that one or the other or both shall be visible from any angle of approach and for the same minimum range as the masthead lights.
@@ -1309,10 +1187,7 @@ The lights prescribed in these Rules shall have an intensity as specified in sec
 
 #### Towing and Pushing — International
 
-
 **(a)** A power-driven vessel when towing shall exhibit:
-
-
 
 **(i)** instead of the light prescribed in Rule 23(a)(i) or (a)(ii), two masthead lights in a vertical line. When the length of the tow, measuring from the stern of the towing vessel to the after end of the tow exceeds 200 metres, three such lights in a vertical line,
 
@@ -1334,13 +1209,11 @@ The lights prescribed in these Rules shall have an intensity as specified in sec
 
 
 
+
 **(b)** When a pushing vessel and a vessel being pushed ahead are rigidly connected in a composite unit they shall be regarded as a power-driven vessel and exhibit the lights prescribed in Rule 23.
 
 
-
 **(c)** A power-driven vessel when pushing ahead or towing alongside, except in the case of a composite unit, shall exhibit:
-
-
 
 **(i)** instead of the light prescribed in Rule 23(a)(i) or (a)(ii), two masthead lights in a vertical line,
 
@@ -1354,13 +1227,11 @@ The lights prescribed in these Rules shall have an intensity as specified in sec
 
 
 
+
 **(d)** A power-driven vessel to which paragraph (a) or (c) of this Rule applies shall also comply with Rule 23(a)(ii).
 
 
-
-**(e)** A vessel or object being towed, other than those mentioned in paragraph (g) or this Rule, shall exhibit:
-
-
+**(e)** A vessel or object being towed, other than those mentioned in paragraph (g) of this Rule, shall exhibit:
 
 **(i)** sidelights,
 
@@ -1374,9 +1245,8 @@ The lights prescribed in these Rules shall have an intensity as specified in sec
 
 
 
+
 **(f)** Provided that any number of vessels being towed alongside or pushed in a group shall be lighted as one vessel,
-
-
 
 **(i)** a vessel being pushed ahead, not being part of a composite unit, shall exhibit at the forward end, sidelights,
 
@@ -1386,9 +1256,8 @@ The lights prescribed in these Rules shall have an intensity as specified in sec
 
 
 
+
 **(g)** An inconspicuous, partly submerged vessel or object, or combination of such vessels or objects being towed, shall exhibit:
-
-
 
 **(i)** if it is less than 25 metres in breadth, one all-round white light at or near the forward end and one at or near the after end except that dracones need not exhibit a light at or near the forward end,
 
@@ -1406,8 +1275,8 @@ The lights prescribed in these Rules shall have an intensity as specified in sec
 
 
 
-**(h)** Where from any sufficient cause it is impracticable for a vessel or object being towed to exhibit the lights or shapes prescribed in paragraph (e) or (g) of this Rule, all possible measures shall be taken to light the vessel or object towed or at least to indicate the presence of such vessel or object.
 
+**(h)** Where from any sufficient cause it is impracticable for a vessel or object being towed to exhibit the lights or shapes prescribed in paragraph (e) or (g) of this Rule, all possible measures shall be taken to light the vessel or object towed or at least to indicate the presence of such vessel or object.
 
 
 **(i)** Where from any sufficient cause it is impracticable for a vessel not normally engaged in towing operations to display the lights prescribed in paragraph (a) or (c) of this Rule, such vessel shall not be required to exhibit those lights when engaged in towing another vessel in distress or otherwise in need of assistance. All possible measures shall be taken to indicate the nature of the relationship between the towing vessel and the vessel being towed as authorized by Rule 36, in particular by illuminating the towline.
@@ -1416,52 +1285,43 @@ The lights prescribed in these Rules shall have an intensity as specified in sec
 
 #### Towing and Pushing — Canadian Modifications
 
+**(j)** For the purpose of paragraph (h), if it is impracticable for a barge being towed to comply with paragraph (e) within the Canadian waters of a roadstead, harbour, river, lake or inland waterway, it shall carry one all-round white light at each end; however, in a case where two or more barges are grouped together, the barges
 
-**(j)** Notwithstanding paragraphs (e) and (h), within Canadian waters or fishing zones, where it is impracticable for a barge being towed to comply with paragraph (e) the barge shall exhibit the lights prescribed in paragraphs (k) to (m).
-
-
-
-**(k)** Subject to paragraphs (l) to (n), every barge shall carry one all-round white light at each end of the barge.
+**(i)** may instead carry one all-round white light at each end of the group, and
 
 
 
-**(l)** Where two or more barges are grouped together, the group may be lighted as a single barge.
+**(ii)** if the total length of the group exceeds 100 metres and the group is lighted in accordance with subparagraph (i), shall carry an additional all-round white light located as close as practicable to the mid-point of the group.
 
 
 
-**(m)** Subject to paragraph (n), where two or more barges are grouped together, the total length of the group exceeds 100 metres and the group is lighted as a single barge, the group shall carry an all-round white light located as closely as possible at the middle point of the group, in addition to the lights prescribed in paragraph (k).
+
+**(k)** Notwithstanding paragraph (c), in the waters of the Great Lakes Basin, a power-driven vessel, when pushing ahead or towing alongside, shall exhibit two towing lights in a vertical line instead of the sternlight prescribed in paragraph (c).
+
+
+**(l)** In the waters of the Great Lakes Basin, a special flashing light shall be exhibited at the forward end of a vessel or vessels being pushed ahead, in addition to the lights prescribed in paragraph (f).
+
+
+**(m)** For the purpose of paragraph (h), within the Canadian waters of a roadstead, harbour, river, lake or inland waterway, where it is impracticable for a log tow to comply with paragraph (g), the log tow shall exhibit
+
+**(i)** if it is less than 25 metres in breadth, one all-round white light at or near the forward end and one at or near the after end,
 
 
 
-**(n)** A barge being pushed ahead shall carry, instead of the all-round white lights prescribed in paragraphs (k) and (m), white lights that show an unbroken light over an arc of the horizon of 225 degrees and are fixed so as to show the light from right ahead to 22.5 degrees abaft the beam on either side of the barge.
+**(ii)** if it is less than 25 metres in breadth and exceeds 100 metres in length, one additional all-round white light at or near the mid-point of the length,
 
 
 
-**(o)** Notwithstanding paragraph (c), in the waters of the Great Lakes Basin, a power-driven vessel when pushing ahead or towing alongside shall exhibit two towing lights in a vertical line instead of the sternlight prescribed in paragraph (c).
+**(iii)** if it is 25 metres or more in breadth, a total of four all-round white lights, one at or near each corner, and
 
 
 
-**(p)** In the waters of the Great Lake Basin, a special flashing light shall be exhibited at the forward end of a vessel or vessels being pushed ahead, in addition to the lights prescribed in paragraphs (f) and (n).
+**(iv)** if it is 25 metres or more in breadth and exceeds 100 metres in length, an additional all-round white light at or near the mid-point of each side of the length.
 
 
 
-**(q)** For the purpose of paragraph (h), within the Canadian waters of a roadstead, harbour, river, lake or inland waterway, where it is impracticable for a log tow to comply with paragraph (g), the log tow shall exhibit
 
-
-
-**(i)** if it is less than 25 metres in breadth, one all-round white light at or near the forward end and one at or near the after end,
-
-
-
-**(ii)** if it is less than 25 metres in breadth and exceeds 100 metres in length, one additional all-round white light at or near the mid-point of the length,
-
-
-
-**(iii)** if it is 25 metres or more in breadth, a total of four all-round white lights, one at or near each corner, and
-
-
-
-**(iv)** if it is 25 metres or more in breadth and exceeds 100 metres in length, an additional all-round white light at or near the mid-point of each side of the length.
+**(n)** to (q) [Repealed, SOR/2008-272, s. 16]
 
 
 
@@ -1470,10 +1330,7 @@ The lights prescribed in these Rules shall have an intensity as specified in sec
 
 #### Sailing Vessels Underway and Vessels Under Oars — International
 
-
 **(a)** A sailing vessel underway shall exhibit:
-
-
 
 **(i)** sidelights,
 
@@ -1483,23 +1340,17 @@ The lights prescribed in these Rules shall have an intensity as specified in sec
 
 
 
-**(b)** In a sailing vessel of less than 20 metres in length the lights prescribed in paragraph (a) of this Rule may be combined in one lantern carried at or near the top of the mast where it can best be seen.
 
+**(b)** In a sailing vessel of less than 20 metres in length the lights prescribed in paragraph (a) of this Rule may be combined in one lantern carried at or near the top of the mast where it can best be seen.
 
 
 **(c)** A sailing vessel underway may, in addition to the lights prescribed in paragraph (a) of this Rule, exhibit at or near the top of the mast, where they can best be seen, two all-round lights in a vertical line, the upper being red and the lower green, but these lights shall not be exhibited in conjunction with the combined lantern permitted by paragraph (b) of this Rule.
 
 
-
-**(d)** 
-
-**(i)** A sailing vessel of less than seven metres in length shall, if practicable, exhibit the lights prescribed in paragraph (a) or (b) of this Rule, but if she does not, she shall have ready at hand an electric torch or lighted lantern showing a white light which shall be exhibited in sufficient time to prevent collision.
-
-
-
-
+**(d)** (i) A sailing vessel of less than seven metres in length shall, if practicable, exhibit the lights prescribed in paragraph (a) or (b) of this Rule, but if she does not, she shall have ready at hand an electric torch or lighted lantern showing a white light which shall be exhibited in sufficient time to prevent collision.
 
 **(ii)** A vessel under oars may exhibit the lights prescribed in this Rule for sailing vessels, but if she does not, she shall have ready at hand an electric torch or lighted lantern showing a white light which shall be exhibited in sufficient time to prevent collision.
+
 
 
 
@@ -1509,7 +1360,6 @@ The lights prescribed in these Rules shall have an intensity as specified in sec
 
 #### Sailing Vessels Underway and Vessels Under Oars — Canadian Modification
 
-
 **(f)** Notwithstanding paragraph (e), in the Canadian waters of a roadstead, harbour, river, lake or inland waterway, a vessel of less than 12 metres in length proceeding under sail when also being propelled by machinery is not required to exhibit a conical shape, apex downwards, but may do so.
 
 
@@ -1517,16 +1367,12 @@ The lights prescribed in these Rules shall have an intensity as specified in sec
 ### Rule 26
 
 
-#### Fishing Vessels — International
-
+#### Fishing Vessels
 
 **(a)** A vessel engaged in fishing, whether underway or at anchor, shall exhibit only the lights and shapes prescribed in this Rule.
 
 
-
 **(b)** A vessel when engaged in trawling, by which is meant the dragging through the water of a dredge net or other apparatus used as a fishing appliance, shall exhibit:
-
-
 
 **(i)** two all-round lights in a vertical line, the upper being green and the lower white, or a shape consisting of two cones with their apexes together in a vertical line one above the other,
 
@@ -1540,9 +1386,8 @@ The lights prescribed in these Rules shall have an intensity as specified in sec
 
 
 
+
 **(c)** A vessel engaged in fishing, other than trawling, shall exhibit:
-
-
 
 **(i)** two all-round lights in a vertical line, the upper being red and the lower white, or a shape consisting of two cones with their apexes together in a vertical line one above the other,
 
@@ -1556,30 +1401,14 @@ The lights prescribed in these Rules shall have an intensity as specified in sec
 
 
 
-**(d)** The additional signals described in Annex II apply to a vessel engaged in fishing in close proximity to other vessels engaged in fishing.
 
+**(d)** The additional signals described in Annex II apply to a vessel engaged in fishing in close proximity to other vessels engaged in fishing.
 
 
 **(e)** A vessel when not engaged in fishing shall not exhibit the lights or shapes prescribed in this Rule, but only those prescribed for a vessel of her length.
 
 
-
-#### Fishing Vessels — Canadian Modification
-
-
-**(f)** Notwithstanding paragraph (d), a vessel engaged in fishing in Canadian waters and fishing zones in close proximity to another vessel or vessels engaged in fishing
-
-
-
-**(i)** may, if it is less than 20 metres in length or fishing with purse seine gear, and
-
-
-
-**(ii)** shall, if it is 20 metres or more in length and fishing other than with purse seine gear,
-
-
-
-exhibit and sound the appropriate signals prescribed in Annex II.
+**(f)** [Repealed, SOR/2008-272, s. 18]
 
 
 
@@ -1588,10 +1417,7 @@ exhibit and sound the appropriate signals prescribed in Annex II.
 
 #### Vessels not under Command or Restricted in their Ability to Manoeuvre
 
-
 **(a)** A vessel not under command shall exhibit:
-
-
 
 **(i)** two all-round red lights in a vertical line where they can best be seen,
 
@@ -1605,9 +1431,8 @@ exhibit and sound the appropriate signals prescribed in Annex II.
 
 
 
+
 **(b)** A vessel restricted in her ability to manoeuvre, except a vessel engaged in mineclearance operations, shall exhibit:
-
-
 
 **(i)** three all-round lights in a vertical line where they can best be seen. The highest and lowest of these lights shall be red and the middle light shall be white,
 
@@ -1625,13 +1450,11 @@ exhibit and sound the appropriate signals prescribed in Annex II.
 
 
 
+
 **(c)** A power-driven vessel engaged in a towing operation such as severely restricts the towing vessel and her tow in their ability to deviate from their course shall, in addition to the lights or shapes prescribed in Rule 24(a), exhibit the lights or shapes prescribed in subparagraphs (b)(i) and (ii) of this Rule.
 
 
-
 **(d)** A vessel engaged in dredging or underwater operations, when restricted in her ability to manoeuvre, shall exhibit the lights and shapes prescribed in subparagraphs (b)(i), (ii) and (iii) of this Rule and shall in addition, when an obstruction exists, exhibit:
-
-
 
 **(i)** two all-round red lights or two balls in a vertical line to indicate the side on which the obstruction exists,
 
@@ -1645,9 +1468,8 @@ exhibit and sound the appropriate signals prescribed in Annex II.
 
 
 
+
 **(e)** Whenever the size of a vessel engaged in diving operations makes it impracticable to exhibit all lights and shapes prescribed in paragraph (d) of this Rule, the following shall be exhibited:
-
-
 
 **(i)** three all-round lights in a vertical line where they can best be seen. The highest and lowest of these lights shall be red and the middle light shall be white,
 
@@ -1657,12 +1479,11 @@ exhibit and sound the appropriate signals prescribed in Annex II.
 
 
 
+
 **(f)** A vessel engaged in mineclearance operations shall, in addition to the lights prescribed for a power-driven vessel in Rule 23 or to the lights or shape prescribed for a vessel at anchor in Rule 30 as appropriate, exhibit three all-round green lights or three balls. One of these lights or shapes shall be exhibited near the foremast head and one at each end of the fore yard. These lights or shapes indicate that it is dangerous for another vessel to approach within 1 000 metres of the mineclearance vessel.
 
 
-
 **(g)** Vessels of less than 12 metres in length, except those engaged in diving operations, shall not be required to exhibit the lights and shapes prescribed in this Rule.
-
 
 
 **(h)** The signals prescribed in this Rule are not signals of vessels in distress and requiring assistance. Such signals are contained in Annex IV.
@@ -1674,13 +1495,11 @@ exhibit and sound the appropriate signals prescribed in Annex II.
 
 #### Vessels Constrained by their Draught — International
 
-
 **(a)** A vessel constrained by her draught may, in addition to the lights prescribed for power-driven vessels in Rule 23, exhibit where they can best be seen three all-round red lights in a vertical line, or a cylinder.
 
 
 
 #### Vessels Constrained by their Draught — Canadian Modification
-
 
 **(b)** Notwithstanding paragraph (a), in the Canadian waters of a roadstead, harbour, river, lake or inland waterway, no vessel shall exhibit three all-round red lights in a vertical line or a cylinder.
 
@@ -1691,10 +1510,7 @@ exhibit and sound the appropriate signals prescribed in Annex II.
 
 #### Pilot Vessels
 
-
 **(a)** A vessel engaged on pilotage duty shall exhibit:
-
-
 
 **(i)** at or near the masthead, two all-round lights in a vertical line, the upper being white and the lower red,
 
@@ -1708,6 +1524,7 @@ exhibit and sound the appropriate signals prescribed in Annex II.
 
 
 
+
 **(b)** A pilot vessel when not engaged on pilotage duty shall exhibit the lights or shapes prescribed for a similar vessel of her length.
 
 
@@ -1717,10 +1534,7 @@ exhibit and sound the appropriate signals prescribed in Annex II.
 
 #### Anchored Vessels and Vessels Aground — International
 
-
 **(a)** A vessel at anchor shall exhibit where it can best be seen:
-
-
 
 **(i)** in the fore part, an all-round white light or one ball,
 
@@ -1730,17 +1544,14 @@ exhibit and sound the appropriate signals prescribed in Annex II.
 
 
 
-**(b)** A vessel of less than 50 metres in length may exhibit an all-round white light where it can best be seen instead of the lights prescribed in paragraph (a) of this Rule.
 
+**(b)** A vessel of less than 50 metres in length may exhibit an all-round white light where it can best be seen instead of the lights prescribed in paragraph (a) of this Rule.
 
 
 **(c)** A vessel at anchor may, and a vessel of 100 metres and more in length shall, also use the available working or equivalent lights to illuminate her decks.
 
 
-
 **(d)** A vessel aground shall exhibit the lights prescribed in paragraph (a) or (b) of this Rule and in addition, where they can best be seen:
-
-
 
 **(i)** two all-round red lights in a vertical line,
 
@@ -1750,8 +1561,8 @@ exhibit and sound the appropriate signals prescribed in Annex II.
 
 
 
-**(e)** A vessel of less than seven metres in length, when at anchor, not in or near a narrow channel, fairway or anchorage, or where other vessels normally navigate, shall not be required to exhibit the lights or shape prescribed in paragraphs (a) and (b) of this Rule.
 
+**(e)** A vessel of less than seven metres in length, when at anchor, not in or near a narrow channel, fairway or anchorage, or where other vessels normally navigate, shall not be required to exhibit the lights or shape prescribed in paragraphs (a) and (b) of this Rule.
 
 
 **(f)** A vessel of less than 12 metres in length, when aground, shall not be required to exhibit the lights or shapes prescribed in subparagraphs (d)(i) and (ii) of this Rule.
@@ -1760,8 +1571,14 @@ exhibit and sound the appropriate signals prescribed in Annex II.
 
 #### Anchored Vessels and Vessels Aground — Canadian Modifications
 
+**(g)** In the Canadian waters of a roadstead, harbour, river, lake or inland waterway, instead of exhibiting the lights prescribed by paragraphs (a) to (c) of this Rule, a barge or an inconspicuous, partly submerged vessel or object may, when at anchor, exhibit
 
-**(g)** In the Canadian waters of a roadstead, harbour, river, lake or inland waterway, a barge or an inconspicuous, partly submerged vessel or object may, when at anchor, exhibit the appropriate all-round white lights prescribed by paragraphs 24(g) and (k) to (m) instead of the lights prescribed by paragraphs (a) to (c) of this Rule.
+**(i)** in the case of a barge, those prescribed by paragraph 24(j), and
+
+
+
+**(ii)** in the case of an inconspicuous, partly submerged vessel or object, those prescribed by paragraph 24(g).
+
 
 
 
@@ -1774,12 +1591,11 @@ exhibit and sound the appropriate signals prescribed in Annex II.
 
 #### Seaplanes
 
-
 Where it is impracticable for a seaplane or a WIG craft to exhibit lights and shapes of the characteristics or in the positions prescribed in the Rules of this Part she shall exhibit lights and shapes as closely similar in characteristics and position as is possible.
 
 
 
-**PART D — SOUND AND LIGHT SIGNALS** 
+**PART D — SOUND AND LIGHT SIGNALS**
 
 
 ### Rule 32
@@ -1787,13 +1603,10 @@ Where it is impracticable for a seaplane or a WIG craft to exhibit lights and sh
 
 #### Definitions
 
-
 **(a)** The word ***whistle*** means any sound signalling appliance capable of producing the prescribed blasts and which complies with the specifications in Annex III to these Regulations.
 
 
-
 **(b)** The term ***short blast*** means a blast of about one second’s duration.
-
 
 
 **(c)** The term ***prolonged blast*** means a blast of from four to six seconds’ duration.
@@ -1805,9 +1618,7 @@ Where it is impracticable for a seaplane or a WIG craft to exhibit lights and sh
 
 #### Equipment for Sound Signals — International
 
-
 **(a)** A vessel of 12 metres or more in length shall be provided with a whistle, a vessel of 20 metres or more in length shall be provided with a bell in addition to a whistle, and a vessel of 100 metres or more in length shall, in addition, be provided with a gong, the tone and sound of which cannot be confused with that of the bell. The whistle, bell and gong shall comply with the specification in Annex III to these Regulations. The bell or gong or both may be replaced by other equipment having the same respective sound characteristics, provided that manual sounding of the prescribed signals shall always be possible.
-
 
 
 **(b)** A vessel of less than 12 metres in length shall not be obliged to carry the sound signalling appliances prescribed in paragraph (a) of this Rule but if she does not, she shall be provided with some other means of making an efficient sound signal.
@@ -1816,24 +1627,19 @@ Where it is impracticable for a seaplane or a WIG craft to exhibit lights and sh
 
 #### Equipment for Sound Signals — Canadian Modification
 
+**(c)** Notwithstanding paragraph (b), in the Canadian waters of a roadstead, harbour, river, lake or inland waterway, a vessel shall carry the sound signalling appliances prescribed in paragraph (a) for a vessel of 12 metres or more in length, if it is
 
-**(c)** Notwithstanding paragraph (b), in the Canadian waters of a roadstead, harbour, river, lake or inland waterway, a vessel that is
-
-
-
-**(i)** less than 12 metres in length,
+**(i)** less than 12 metres in length,
 
 
 
-**(ii)** built or converted for the purpose of pushing or pulling any floating object, and
+**(ii)** ordinarily used for the purpose of pushing or pulling any floating object, and
 
 
 
-**(iii)** not solely employed in yarding or warping operations,
+**(iii)** not employed solely in yarding or warping operations.
 
 
-
-shall carry the sound signal appliances prescribed in paragraph (a) for a vessel of 12 metres or more in length.
 
 
 
@@ -1842,10 +1648,7 @@ shall carry the sound signal appliances prescribed in paragraph (a) for a vessel
 
 #### Manoeuvring and Warning Signals — International
 
-
 **(a)** When vessels are in sight of one another, a power-driven vessel underway, when manoeuvring as authorized or required by these Rules, shall indicate that manoeuvre by the following signals on her whistle:
-
-
 
 **—** one short blast to mean “I am altering my course to starboard”,
 
@@ -1859,13 +1662,10 @@ shall carry the sound signal appliances prescribed in paragraph (a) for a vessel
 
 
 
+
 **(b)** Any vessel may supplement the whistle signals prescribed in paragraph (a) of this Rule by light signals, repeated as appropriate, whilst the manoeuvre is being carried out:
 
-
-
 **(i)** these light signals shall have the following significance:
-
-
 
 **—** one flash to mean “I am altering my course to starboard”,
 
@@ -1879,6 +1679,8 @@ shall carry the sound signal appliances prescribed in paragraph (a) for a vessel
 
 
 
+
+
 **(ii)** the duration of each flash shall be about one second, the interval between flashes shall be about one second, and the interval between successive signals shall be not less than 10 seconds,
 
 
@@ -1887,13 +1689,10 @@ shall carry the sound signal appliances prescribed in paragraph (a) for a vessel
 
 
 
+
 **(c)** When in sight of one another in a narrow channel or fairway:
 
-
-
 **(i)** a vessel intending to overtake another shall in compliance with Rule 9(e)(i) indicate her intention by the following signals on her whistle:
-
-
 
 **—** two prolonged blasts followed by one short blast to mean “I intend to overtake you on your starboard side”,
 
@@ -1903,20 +1702,21 @@ shall carry the sound signal appliances prescribed in paragraph (a) for a vessel
 
 
 
+
+
 **(ii)** the vessel about to be overtaken when acting in accordance with Rule 9(e)(i) shall indicate her agreement by the following signal on her whistle;
 
-
-
 **—** one prolonged blast, one short, one prolonged and one short blast, in that order.
+
+
+
 
 
 
 **(d)** When vessels in sight of one another are approaching each other and from any cause either vessel fails to understand the intentions or actions of the other, or is in doubt whether sufficient action is being taken by the other to avoid collision, the vessel in doubt shall immediately indicate such doubt by giving at least five short and rapid blasts on the whistle. Such signal may be supplemented by a light signal of at least five short and rapid flashes.
 
 
-
 **(e)** A vessel nearing a bend or an area of a channel or fairway where other vessels may be obscured by an intervening obstruction shall sound one prolonged blast. Such signal shall be answered with a prolonged blast by any approaching vessel that may be within hearing around the bend or behind the intervening obstruction.
-
 
 
 **(f)** If whistles are fitted on a vessel at a distance apart of more than 100 metres, one whistle only shall be used for giving manoeuvring and warning signals.
@@ -1925,14 +1725,9 @@ shall carry the sound signal appliances prescribed in paragraph (a) for a vessel
 
 #### Manoeuvring and Warning Signals — Canadian Modifications
 
-
 **(g)** Notwithstanding paragraph (a), in the waters of the Great Lakes Basin, when power-driven vessels are in sight of one another and meeting or crossing at a distance within half a mile of each other, each vessel underway, when manoeuvring as authorized or required by these Rules
 
-
-
 **(i)** shall indicate that manoeuvre by the following signals on her whistle:
-
-
 
 **—** one short blast to mean “I intend to leave you on my port side”,
 
@@ -1946,17 +1741,16 @@ shall carry the sound signal appliances prescribed in paragraph (a) for a vessel
 
 
 
+
+
 **(ii)** shall, upon hearing the one or two blast signal, referred to in subparagraph (i), of the other vessel indicate her agreement by sounding the same whistle signal and taking the steps necessary to effect a safe passing. If, however, for any cause, a vessel on hearing a one or two blast signal referred to in subparagraph (i) doubts the safety of the proposed manoeuvre, she shall sound the signal specified in paragraph (d) and each vessel shall take appropriate precautionary action until a safe passing agreement is made.
+
 
 
 
 **(h)** Notwithstanding paragraph (b), in the waters of the Great Lakes Basin, a vessel may supplement the whistle signals prescribed in paragraph (g) by light signals
 
-
-
 **(i)** that have the following significance:
-
-
 
 **—** one flash to mean “I intend to leave you on my port side”,
 
@@ -1970,21 +1764,19 @@ shall carry the sound signal appliances prescribed in paragraph (a) for a vessel
 
 
 
+
+
 **(ii)** the duration of which shall be about one second for each flash.
+
 
 
 
 **(i)** The light used for a signal referred to in paragraph (h), shall, if fitted, be one all-round white or yellow light, visible at a minimum range of two miles, synchronized with the whistle signal referred to in paragraph (g), and shall comply with section 12 of Annex I.
 
 
-
 **(j)** Notwithstanding paragraph (c), in the waters of the Great Lakes Basin, when power-driven vessels are in sight of one another in a narrow channel or fairway,
 
-
-
 **(i)** the vessel intending to overtake another shall, in compliance with Rule 9(i), indicate her intention by the following signals on her whistle:
-
-
 
 **—** one short blast to mean “I intend to overtake you on your starboard side”,
 
@@ -1994,13 +1786,14 @@ shall carry the sound signal appliances prescribed in paragraph (a) for a vessel
 
 
 
+
+
 **(ii)** the vessel about to be overtaken when acting in accordance with Rule 9(i) shall, if in agreement, sound the same signal as given by the other vessel. If in doubt, she shall sound the signal prescribed in paragraph (d).
 
 
 
-**(k)** In the Canadian waters of a roadstead, harbour, river, lake or inland waterway, a power-driven vessel that is leaving a dock or berth shall give a signal of one prolonged blast unless
 
-
+**(k)** In the Canadian waters of a roadstead, harbour, river, lake or inland waterway, a power-driven vessel of 12 metres or more in length that is leaving a dock or berth shall give a signal of one prolonged blast unless
 
 **(i)** the vessel is a ferry making a scheduled departure from a dock or berth from which more than six daily scheduled departures are made,
 
@@ -2014,7 +1807,8 @@ shall carry the sound signal appliances prescribed in paragraph (a) for a vessel
 
 
 
-**(l)** Notwithstanding this Rule and Rule 9, in the Canadian waters of a roadstead, harbour, river, lake or inland waterway, a vessel may use a bridge-to-bridge radiotelephone instead of the prescribed whistle signals to reach agreement in a meeting, crossing or overtaking situation. If agreement is not reached, then whistle signals shall be exchanged in a timely manner and shall prevail.
+
+**(l)** Notwithstanding this Rule and Rule 9, if positive mutual identification of the vessels has been made in the Canadian waters of a roadstead, harbour, river, lake or inland waterway, a vessel may use a bridge-to-bridge radiotelephone instead of the prescribed whistle signals to reach agreement in a meeting, crossing or overtaking situation. If agreement is not reached, then whistle signals shall be exchanged in a timely manner and shall prevail.
 
 
 
@@ -2023,10 +1817,7 @@ shall carry the sound signal appliances prescribed in paragraph (a) for a vessel
 
 #### Sound Signals in Restricted Visibility — International
 
-
 In or near an area of restricted visibility, whether by day or night, the signals prescribed in this Rule shall be used as follows:
-
-
 
 **(a)** A power-driven vessel making way through the water shall sound at intervals of not more than two minutes one prolonged blast.
 
@@ -2072,26 +1863,23 @@ In or near an area of restricted visibility, whether by day or night, the signal
 
 
 
+
+
 #### Sound Signals in Restricted Visibility — Canadian Modification
 
+**(l)** Notwithstanding paragraph (j), in the Canadian waters of a roadstead, harbour, river, lake or inland waterway, a vessel shall sound the signals prescribed for a vessel of 12 metres or more in length if it is
 
-**(l)** Notwithstanding paragraph (j), in the Canadian waters of a roadstead, harbour, river, lake or inland waterway, a vessel that is
-
-
-
-**(i)** less than 12 metres in length,
+**(i)** less than 12 metres in length,
 
 
 
-**(ii)** built or converted for the purpose of pushing or pulling any floating object, and
+**(ii)** ordinarily used for the purpose of pushing or pulling any floating object, and
 
 
 
-**(iii)** not located within a recognized mooring, storage or booming area
+**(iii)** not located within a recognized mooring, storage or booming area.
 
 
-
-shall sound the signals prescribed for a vessel of 12 metres or more in length.
 
 
 
@@ -2099,7 +1887,6 @@ shall sound the signals prescribed for a vessel of 12 metres or more in length.
 
 
 #### Signals to attract Attention
-
 
 If necessary to attract the attention of another vessel any vessel may make light or sound signals that cannot be mistaken for any signal authorized elsewhere in these Rules, or may direct the beam of her searchlight in the direction of the danger, in such a way as not to embarrass any vessel. Any light to attract the attention of another vessel shall be such that it cannot be mistaken for any aid to navigation. For the purpose of this Rule the use of high intensity intermittant or revolving lights, such as strobe lights, shall be avoided.
 
@@ -2110,12 +1897,11 @@ If necessary to attract the attention of another vessel any vessel may make ligh
 
 #### Distress Signals
 
-
 When a vessel is in distress and requires assistance she shall use or exhibit the signals described in Annex IV.
 
 
 
-**PART E — EXEMPTIONS** 
+**PART E — EXEMPTIONS**
 
 
 ### Rule 38
@@ -2123,10 +1909,7 @@ When a vessel is in distress and requires assistance she shall use or exhibit th
 
 #### Exemptions — International
 
-
 Any vessel (or class of vessels) provided that she complies with the requirements of the International Regulations for Preventing Collisions at Sea, 1960, the keel of which is laid or which is at a corresponding stage of construction before the entry into force of these Regulations is exempted from compliance therewith as follows:
-
-
 
 **(a)** The installation of lights with ranges prescribed in Rule 22, until four years after the date of entry into force of these Regulations.
 
@@ -2140,15 +1923,11 @@ Any vessel (or class of vessels) provided that she complies with the requirement
 
 
 
-**(d)** 
-
-**(i)** The repositioning of masthead lights on vessels of less than 150 metres in length, resulting from the prescriptions of section 3(a) of Annex I, permanent exemption.
-
-
-
-
+**(d)** (i) The repositioning of masthead lights on vessels of less than 150 metres in length, resulting from the prescriptions of section 3(a) of Annex I, permanent exemption.
 
 **(ii)** The repositioning of masthead lights on vessels of 150 metres or more in length, resulting from the prescriptions of section 3(a) of Annex I, until nine years after the date of entry into force of these Regulations.
+
+
 
 
 
@@ -2168,34 +1947,21 @@ Any vessel (or class of vessels) provided that she complies with the requirement
 
 
 
+
+
 #### Exemptions — Canadian Modifications
 
-
 **(i)** For the purposes of paragraphs (d), (e), (f) and (g), the nine years referred to therein shall be considered to commence on July 15, 1977.
-
 
 
 **(j)** Notwithstanding paragraph (i), the nine years referred to in paragraphs (d), (e), (f) and (g) shall be considered to commence on March 1, 1983 for vessels exclusively engaged in inland voyages.
 
 
-
-**(k)** In the case of a vessel not required to be inspected under the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md), the lights are exempted from compliance with these Regulations if they were,
-
-
-
-**(i)** before July 15, 1981, where the vessel is 20 metres or more in length, or
+**(k)** [Repealed, SOR/2008-272, s. 25]
 
 
 
-**(ii)** before June 1, 1984, where the vessel is less than 20 metres in length,
-
-
-
-constructed and installed in accordance with the Collision Regulations, as those Regulations read on July 31, 1974, or the [Small Vessel Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2010/91.md), as those Regulations read on May 31, 1984.
-
-
-
-**PART F — ADDITIONAL CANADIAN PROVISIONS** 
+**PART F — ADDITIONAL CANADIAN PROVISIONS**
 
 
 ### Rule 39
@@ -2203,10 +1969,7 @@ constructed and installed in accordance with the Collision Regulations, as those
 
 #### Special Signals for Dangerous Goods
 
-
 In the Canadian waters of a roadstead, harbour, river, lake or inland waterway, a vessel that is taking in, discharging or carrying dangerous goods shall,
-
-
 
 **(a)** when not underway, exhibit where it can best be seen, an all-round red light or the International Code flag “B”; and
 
@@ -2216,19 +1979,17 @@ In the Canadian waters of a roadstead, harbour, river, lake or inland waterway, 
 
 
 
+
+
 ### Rule 40
 
 
 #### Radar Reflectors
 
-
-**(a)** Subject to paragraph (b), a vessel that is less than 20 metres in length or is constructed primarily of non-metallic materials shall be equipped with a passive radar reflector.
-
+**(a)** Subject to paragraph (b), a vessel that is less than 20 metres in length or is constructed primarily of non-metallic materials shall, if practicable, be equipped with a radar reflector or other means to enable the vessel’s detection by other vessels navigating by radar at 3 GHz or 9 GHz.
 
 
 **(b)** Paragraph (a) does not apply where
-
-
 
 **(i)** a vessel operates in limited traffic conditions, daylight, and favourable environmental conditions and where compliance is not essential for the safety of the vessel, or
 
@@ -2238,43 +1999,23 @@ In the Canadian waters of a roadstead, harbour, river, lake or inland waterway, 
 
 
 
-**(c)** The radar reflector prescribed in paragraph (a) shall,
+
+**(c)** The radar reflector or other means to enable detection prescribed in paragraph (a) shall, to the extent practicable, meet the requirements of
+
+**(i)** sections 3 to 5 of the Annex to Resolution A.384(X), made by the Organization and as amended from time to time, if fitted before July 1, 2005,
 
 
 
-**(i)** be capable of performance through 360 degrees of azimuth and responsive to a radar frequency of 9.3 GHz (corresponding wave length 3.2 centimetres),
+**(ii)** sections 3 to 5 of the Annex to Resolution MSC.164(78), made by the Organization and as amended from time to time, if fitted on or after July 1, 2005, or
 
 
 
-**(ii)** have an equivalent echoing area of 10 square metres measured perpendicularly to the main radar lobes,
+**(iii)** other performance standards that the Minister determines provide a level of safety that is equivalent to or higher than that of those standards.
 
 
 
-**(iii)** be mounted or suspended higher than the superstructures and, if practicable, at a height of not less than four metres above the water,
 
-
-
-**(iv)** be positioned and painted so as not to be visually prominent,
-
-
-
-**(v)** be capable of maintaining its performance under the conditions of sea states, vibration, humidity and change of temperature likely to be experienced in the marine environment, and
-
-
-
-**(vi)** be clearly marked so as to indicate any preferred orientation of mounting.
-
-
-
-**(d)** The azimuthal polar diagram of the radar reflector prescribed in paragraph (a) shall have a response not less than minus 6 dB with reference to the maxima of the main radar lobes
-
-
-
-**(i)** over a total angle of 240 degrees, and
-
-
-
-**(ii)** within any arc of more than 10 degrees.
+**(d)** For the purpose of interpreting a document incorporated by reference into this Rule, “should” shall be read to mean “shall” and recommendations shall be mandatory.
 
 
 
@@ -2283,20 +2024,28 @@ In the Canadian waters of a roadstead, harbour, river, lake or inland waterway, 
 
 #### Transponders
 
-
-**(a)** No vessel shall be fitted with a transponder that can transmit radar responder signals or radar beacon signals in the 3 or 10 centimetres marine radar bands unless the use of the transponder is authorized in writing by the Chairman.
-
+**(a)** No vessel, except a vessel in distress, shall use a transponder that can transmit radar responder signals or radar beacon signals in the 3- or 10-centimetre marine radar bands.
 
 
-**(b)** The Chairman may authorize the use of a transponder referred to in paragraph (a) if he is satisfied that the transponder will be used in a manner that will not interfere with or degrade the use of radar in navigation.
+**(b)** Notwithstanding paragraph (a), an exploration or exploitation vessel may use such a transponder if authorized to do so under this Rule and the transponder is used in a manner that does not compromise the safety of navigation.
+
+
+**(c)** The Minister shall authorize the use of a transponder if it will be used in a manner that will not interfere with or degrade the use of radar in navigation, having regard to factors such as
+
+**(i)** the proximity of other transponders and the distinctiveness of their signals,
 
 
 
-**(c)** An authorization referred to in paragraph (a) may contain such conditions as the Chairman considers necessary to ensure that the transponder will be used as described in paragraph (b).
+**(ii)** the frequency, range and power of the transponder, and
 
 
 
-**(d)** No person shall operate a transponder on a vessel except in accordance with the conditions, if any, contained in the authorization prescribed in paragraph (a).
+**(iii)** the marine radar band to be used.
+
+
+
+
+**(d)** [Repealed, SOR/2008-272, s. 28]
 
 
 
@@ -2305,14 +2054,10 @@ In the Canadian waters of a roadstead, harbour, river, lake or inland waterway, 
 
 #### Additional Requirements for Exploration or Exploitation Vessels
 
-
 **(a)** An exploration or exploitation vessel shall display identification panels bearing the name, identification letters or numerals of the vessel so that at least one panel is visible in any direction.
 
 
-
 **(b)** The name, identification letters or numerals referred to in paragraph (a) shall be
-
-
 
 **(i)** black,
 
@@ -2330,9 +2075,8 @@ In the Canadian waters of a roadstead, harbour, river, lake or inland waterway, 
 
 
 
+
 **(c)** Subject to paragraph (h), an exploration or exploitation vessel, when stationary and engaged in drilling or production operations, shall, in lieu of the lights or shapes required by these Rules, exhibit where it can best be seen from any direction a white light or a series of white lights located at an equal height above the water and operating in unison, which light or lights shall
-
-
 
 **(i)** flash the morse letter “U” at intervals of not more than 15 seconds,
 
@@ -2358,13 +2102,11 @@ In the Canadian waters of a roadstead, harbour, river, lake or inland waterway, 
 
 
 
+
 **(d)** The horizontal and vertical extremities of an exploration or exploitation vessel that is stationary and engaged in drilling or production operations shall be adequately marked in compliance with the requirements set out in Transport Canada Standards Obstruction Markings (2nd ed.), 1987, TP 382, as amended from time to time.
 
 
-
 **(e)** An exploration or exploitation vessel, when stationary and engaged in drilling or production operations, shall be equipped with a sound-signalling appliance that
-
-
 
 **(i)** is powered by a reliable power source,
 
@@ -2394,15 +2136,17 @@ In the Canadian waters of a roadstead, harbour, river, lake or inland waterway, 
 
 
 
+
 **(f)** An exploration or exploitation vessel, when stationary and engaged in drilling or production operations, shall, whenever the visibility in any direction is two miles or less, operate the sound-signalling appliance described in paragraph (e) in lieu of the sound signal described in Rule 35.
 
 
-
-**(g)** Every exploration or exploitation vessel shall comply with the relevant technical requirements contained in the Recommendations for the marking of offshore structures, November 1984, published by the International Association of Lighthouse Authorities (IALA), as amended from time to time, and the nominal range of lights shall be computed in accordance with Appendix II of Recommendation for the Notation of Luminous Intensity and Range of Lights, 1967, published by the International Association of Lighthouse Authorities (IALA), as amended from time to time.
-
+**(g)** An exploration or exploitation vessel shall comply with the relevant technical requirements set out in sections 2.3 and 2.4 of, and Appendix 1 to, the IALA’s publication Recommendations for the marking of offshore structures, as amended from time to time, and the nominal range of lights shall be computed in accordance with Appendix II of the IALA’s 1967 publication Recommendations for the notation of luminous intensity and range of lights.
 
 
-**(h)** In the Canadian waters of the Great Lakes Basin, the white light or series of white lights exhibited by an exploration or exploitation vessel when stationary and engaged in drilling or production operations shall have a range of visibility of between eight and 15 miles.
+**(h)** For the purposes of this Rule, wherever the word “Authority” appears in a document incorporated by reference, it shall be read as “Minister”.
+
+
+**(i)** In the Canadian waters of the Great Lakes Basin, the white light or series of white lights exhibited by an exploration or exploitation vessel when stationary and engaged in drilling or production operations shall have a range of visibility of between eight and fifteen miles.
 
 
 
@@ -2411,10 +2155,7 @@ In the Canadian waters of a roadstead, harbour, river, lake or inland waterway, 
 
 #### Safety Zones Around Exploration or Exploitation Vessels
 
-
 **(a)** For the purpose of this Rule, with respect to an exploration or exploitation vessel that is in position for the purpose of exploring or exploiting the non-living natural resources of the sea bed, a safety zone is the area that extends from the outer extremities of the exploration or exploitation vessel to the greater of
-
-
 
 **(i)** 500 metres in all directions, and
 
@@ -2424,17 +2165,14 @@ In the Canadian waters of a roadstead, harbour, river, lake or inland waterway, 
 
 
 
-**(b)** The Chairman may establish a safety zone greater or smaller than the safety zone referred to in paragraph (a), where such a zone is reasonably related to the nature and function of the exploration or exploitation vessel.
 
+**(b)** The Minister may establish a safety zone greater than the safety zone referred to in paragraph (a) if it is reasonably related to the nature and function of the exploration or exploitation vessel and is necessary to ensure navigational safety.
 
 
 **(c)** No vessel shall navigate within a safety zone.
 
 
-
 **(d)** Paragraph (c) does not apply to a vessel that
-
-
 
 **(i)** is in distress,
 
@@ -2452,7 +2190,8 @@ In the Canadian waters of a roadstead, harbour, river, lake or inland waterway, 
 
 
 
-**(e)** All vessels shall comply with any relevant instruction or direction with respect to a safety zone contained in a Notice to Mariners or Notice to Shipping.
+
+**(e)** [Repealed, SOR/2008-272, s. 30]
 
 
 
@@ -2461,18 +2200,13 @@ In the Canadian waters of a roadstead, harbour, river, lake or inland waterway, 
 
 #### Ocean Data Acquisition Systems (ODAS)
 
-
 **(a)** Every Canadian ODAS shall clearly display its identification number on an exterior surface where it can be clearly seen and, if practicable, shall display the name and address of the owner of the ODAS.
 
 
-
-**(b)** Subject to paragraph (f), every ODAS shall be constructed or fitted with a passive radar reflector that has a radar response at least equivalent to a radar reflector required by Rule 40.
-
+**(b)** Subject to paragraph (f), every ODAS shall be constructed or fitted with a radar reflector, or other means, that has a radar response that at least meets the requirements set out in Rule 40.
 
 
 **(c)** Every ODAS that is designed to operate while floating with part of its structure extending above the water shall
-
-
 
 **(i)** be coloured yellow,
 
@@ -2483,8 +2217,6 @@ In the Canadian waters of a roadstead, harbour, river, lake or inland waterway, 
 
 
 **(iii)** where technically practicable,
-
-
 
 **(A)** have a topmark consisting of a yellow “X” shape,
 
@@ -2498,9 +2230,10 @@ In the Canadian waters of a roadstead, harbour, river, lake or inland waterway, 
 
 
 
+
+
+
 **(d)** Subject to paragraph (f), every ODAS designed to operate under water, other than an ODAS referred to in paragraph (e), shall
-
-
 
 **(i)** be escorted by a surface vessel that gives warning of the presence of the ODAS in accordance with Rule 27, or
 
@@ -2510,17 +2243,13 @@ In the Canadian waters of a roadstead, harbour, river, lake or inland waterway, 
 
 
 
-**(e)** Every ODAS designed to operate when resting on the bottom of a sea, lake or river with part of its structure extending above the water shall be marked, exhibit lights and shapes, and sound signals in the same manner as an exploration or exploitation vessel.
 
+**(e)** Every ODAS designed to operate when resting on the bottom of a sea, lake or river with part of its structure extending above the water shall be marked, exhibit lights and shapes, and sound signals in the same manner as an exploration or exploitation vessel.
 
 
 **(f)** Paragraphs (b) and (d) do not apply to an ODAS where
 
-
-
-**(i)** the Chairman has determined that the ODAS does not constitute a potential danger to navigation by reason of
-
-
+**(i)** the Minister has determined that the ODAS does not constitute a potential danger to navigation by reason of
 
 **(A)** its size, material, construction, area or method of operation,
 
@@ -2534,7 +2263,11 @@ In the Canadian waters of a roadstead, harbour, river, lake or inland waterway, 
 
 
 
-**(ii)** the Chairman has given the owner of the ODAS notice in writing of that determination.
+
+
+**(ii)** the Minister has given the owner of the ODAS notice in writing of that determination.
+
+
 
 
 
@@ -2543,14 +2276,7 @@ In the Canadian waters of a roadstead, harbour, river, lake or inland waterway, 
 
 #### Blue Flashing Light
 
-
-**(a)** For the purposes of this Rule, ***government ship*** means a ship or vessel that is owned by and in the service of Her Majesty in right of Canada or of a province and any ship that is owned or operated by a federal, provincial, harbour, river, county or municipal police force. (*navire d’État*)
-
-
-
-**(b)** Any government ship may exhibit as an identification signal a blue flashing light where it
-
-
+**(a)** Any government vessel or any vessel that is owned or operated by a harbour, river, county or municipal police force may exhibit as an identification signal a blue flashing light when the vessel
 
 **(i)** is providing assistance in any waters to any vessel or other craft, aircraft or person that is threatened by grave and imminent danger and requires immediate assistance, or
 
@@ -2560,11 +2286,14 @@ In the Canadian waters of a roadstead, harbour, river, lake or inland waterway, 
 
 
 
-**(c)** Any vessel operated by the Canadian Coast Guard Auxiliary may exhibit a blue flashing light as an identification signal when the vessel participates, at the request of the Canadian Coast Guard, in search and rescue operations.
+
+**(b)** Any vessel operated by the Canadian Coast Guard Auxiliary may exhibit a blue flashing light as an identification signal when the vessel participates, at the request of the Canadian Coast Guard, in search and rescue operations.
 
 
+**(c)** A vessel referred to in paragraph (a) or (b) that exhibits a blue flashing light as an identification signal is not relieved from the obligation to comply with the Steering and Sailing Rules set out in Part B.
 
-**(d)** A vessel referred to in paragraph (b) or (c) that exhibits a blue flashing light as an identification signal is not relieved from the obligation to comply with the Steering and Sailing Rules set out in Part B of this schedule.
+
+**(d)** [Repealed, SOR/2008-272, s. 34]
 
 
 
@@ -2573,78 +2302,58 @@ In the Canadian waters of a roadstead, harbour, river, lake or inland waterway, 
 
 #### Alternate System of Navigation Lights
 
-
-**(a)** For the purposes of this Rule, ***alternate system of navigation lights*** means a system that includes masthead lights, sidelights, a sternlight and anchor lights. (*système de feux de navigation de relais*)
-
+**(a)** For the purpose of this Rule, “alternate system of navigation lights” means a backup system that includes masthead lights, sidelights, a sternlight and the lights prescribed in Rule 30 for vessels at anchor.
 
 
-**(b)** Subject to paragraph (d), every ship built on or after January 1, 1991 that is required to be inspected under the Act shall be fitted with an alternate system of navigation lights.
+**(b)** This Rule does not apply to
 
-
-
-**(c)** Subject to paragraph (d), every ship built before January 1, 1991 that is required to be inspected under the Act shall, before January 1, 1996,
+**(i)** vessels that are less than 15 metres in length,
 
 
 
-**(i)** if it is of 500 tons gross tonnage or more, be fitted with an alternate system of navigation lights, or
+**(ii)** cable ferries, or
 
 
 
-**(ii)** if it is of less than 500 tons gross tonnage, be fitted with or carry on board an alternate system of navigation lights.
+**(iii)** pleasure craft.
 
 
 
-**(d)** Paragraph (b) and subparagraph (c)(ii) do not apply to a vessel of less than 15 metres in length.
+
+**(c)** A Canadian vessel required by Part C to exhibit lights shall be fitted with an alternate system of navigation lights.
+
+
+**(d)** In the case of vessels built before January 1, 1991, that have a gross tonnage of less than 500, the alternate system of navigation lights may consist of oil or electronic lanterns.
+
+
+**(d.1)** [Repealed, SOR/2008-272, s. 35]
+
+
+**(e)** If it is impracticable for a vessel or object being towed or pushed to comply with paragraph (c), spare lights shall be readily available so that the vessel or object maintains compliance with Part C.
+
+
+**(f)** The alternate system of navigation lights shall be supplied by the main source of electric power and the emergency source of electric power that are referred to in section 15 of Annex I, unless otherwise provided by paragraph (g).
+
+
+**(g)** In the case of vessels built before January 1, 1991, having a gross tonnage of less than 500, the alternate system of navigation lights shall be supplied by
+
+**(i)** the vessel’s emergency source of electric power, or
 
 
 
-**(d.1)** For a ship referred to in paragraph (b) or subparagraph (c)(i), the alternate system of navigation lights shall be supplied by the main source of electric power of the ship and one other source of electric power with which the ship is required to be supplied by section 15 of Annex I.
+**(ii)** in the case of oil or electronic lanterns, power of a capacity sufficient for the duration of the intended voyage.
 
 
 
-**(e)** For a ship referred to in subparagraph (c)(ii), the alternate system of navigation lights shall
 
-
-
-**(i)** be supplied by a source of electrical power with which the ship is required to be supplied by section 15 of Annex I, other than the main source of power of the ship, or
-
-
-
-**(ii)** subject to paragraph (f), consist of non-electric lights.
-
-
-
-**(f)** Non-electric lights shall not be used as alternate lights on
-
-
-
-**(i)** a ship or barge whose cargo has volatile or explosive properties that could endanger the ship or barge and its crew, or
-
-
-
-**(ii)** a ship engaged in towing or pushing a ship or barge whose cargo has volatile or explosive properties that could endanger the ships or barge and their respective crews.
-
-
-
-**(g)** For vessels referred to in subparagraph (c)(ii) the alternate system of navigation lights shall be supplied by
-
-
-
-**(i)** an emergency source of electrical power independent of the main power supply, or
-
-
-
-**(ii)** non-electrical lights.
+**(h)** Lights using a flame shall not be used as the alternate system of navigation lights on any vessel carrying, towing or pushing cargo that is volatile or explosive.
 
 
 
 **ANNEX I** 
 ### POSITIONING AND TECHNICAL DETAILS OF LIGHTS AND SHAPES
 
-
 **1** **Definition — International**
-
-
 
 **(a)** The term ***height above the hull*** means height above the uppermost continuous deck. This height shall be measured from the position vertically beneath the location of the light.
 
@@ -2655,8 +2364,6 @@ In the Canadian waters of a roadstead, harbour, river, lake or inland waterway, 
 
 **(b)** The term ***practical cut-off*** means the point on an arc around a source of light at which the intensity of the light is reduced as follows:
 
-
-
 **(i)** for vessels of less than 20 metres in length, where the intensity is reduced to 67 per cent of the minimum required intensity within three or five degrees as appropriate, outside the horizontal sectors referred to in section 9 of this Annex and described in Rule 21, practical cut-off occurs at the point at which the intensity is reduced to 10 per cent of the minimum required intensity within 20 degrees outside the horizontal sectors referred to in section 9 of this Annex and described in Rule 21,
 
 
@@ -2665,19 +2372,20 @@ In the Canadian waters of a roadstead, harbour, river, lake or inland waterway, 
 
 
 
+
+
+
 **2** **Vertical positioning and spacing of lights — International**
 
-
-
 **(a)** On a power-driven vessel of 20 metres or more in length the masthead lights shall be placed as follows:
-
-
 
 **(i)** the forward masthead light, or if only one masthead light is carried, then that light, at a height above the hull of not less than six metres, and, if the breadth of the vessel exceeds six metres, then at a height above the hull not less than such breadth, so however that the light need not be placed at a greater height above the hull than 12 metres,
 
 
 
 **(ii)** when two masthead lights are carried the after one shall be at least 4.5 metres vertically higher than the forward one.
+
+
 
 
 
@@ -2693,7 +2401,7 @@ In the Canadian waters of a roadstead, harbour, river, lake or inland waterway, 
 
 
 
-**(d.1)** Where a masthead light is carried in addition to sidelights and a sternlight or where the all-round light described in subparagraph (c)(i) of Rule 23 is carried in addition to sidelights, the masthead light or the all-round light shall be carried at least one metre higher than the sidelights.
+**(d.1)** Where a masthead light is carried in addition to sidelights and a sternlight or where the all-round light described in subparagraph (d)(i) of Rule 23 is carried in addition to sidelights, the masthead light or the all-round light shall be carried at least one metre higher than the sidelights.
 
 
 
@@ -2701,15 +2409,11 @@ In the Canadian waters of a roadstead, harbour, river, lake or inland waterway, 
 
 
 
-**(f)** 
-
-**(i)** The masthead light or lights prescribed in Rule 23(a) shall be so placed as to be above and clear of all other lights and obstructions except as described in subparagraph (ii).
-
-
-
-
+**(f)** (i) The masthead light or lights prescribed in Rule 23(a) shall be so placed as to be above and clear of all other lights and obstructions except as described in subparagraph (ii).
 
 **(ii)** When it is impracticable to carry the all-round lights prescribed by Rule 27(b)(i) or Rule 28 below the masthead lights, they may be carried above the after masthead light(s) or vertically in between the forward masthead light(s) and after masthead light(s), provided that in the latter case the requirement of section 3(c) of this Annex shall be complied with.
+
+
 
 
 
@@ -2717,13 +2421,11 @@ In the Canadian waters of a roadstead, harbour, river, lake or inland waterway, 
 
 
 
-(h)The sidelights, if in a combined lantern and carried on a power-driven vessel of less than 20 metres in length, shall be placed not less than one metre below the masthead light.
+**(h)** The sidelights, if in a combined lantern and carried on a power-driven vessel of less than 20 metres in length, shall be placed not less than one metre below the masthead light.
 
 
 
 **(i)** When the Rules prescribe two or three lights to be carried in a vertical line, they shall be spaced as follows:
-
-
 
 **(i)** on a vessel of 20 metres in length or more, such lights shall be spaced not less than two metres apart, and the lowest of these lights shall, except where a towing light is required, be placed at a height of not less than four metres above the hull,
 
@@ -2734,6 +2436,8 @@ In the Canadian waters of a roadstead, harbour, river, lake or inland waterway, 
 
 
 **(iii)** when three lights are carried they shall be equally spaced.
+
+
 
 
 
@@ -2750,8 +2454,6 @@ In the Canadian waters of a roadstead, harbour, river, lake or inland waterway, 
 
 **(l)** Notwithstanding paragraph (a), in the waters of the Great Lakes Basin, on a power-driven vessel of 20 metres or more in length the masthead lights may be placed as follows:
 
-
-
 **(i)** the forward masthead light, or if only one masthead light is carried, then that light, at a height above the hull of not less than five metres, and, if the breadth of the vessel exceeds five metres, then at a height above the hull of not less than such breadth, but the light need not be placed at a greater height above the hull than eight metres,
 
 
@@ -2760,7 +2462,9 @@ In the Canadian waters of a roadstead, harbour, river, lake or inland waterway, 
 
 
 
-**(m)** Notwithstanding paragraph (d), in the Canadian waters of a roadstead, harbour, river, lake or inland waterway, the masthead light or the all-round white light referred to in Rule 23(c), for a power-driven vessel of less than 12 metres in length shall be carried at least one metre higher than the sidelights.
+
+
+**(m)** Notwithstanding paragraph (d), in the Canadian waters of a roadstead, harbour, river, lake or inland waterway, the masthead light or the all-round white light referred to in Rule 23(d), for a power-driven vessel of less than 12 metres in length shall be carried at least one metre higher than the sidelights.
 
 
 
@@ -2776,13 +2480,16 @@ In the Canadian waters of a roadstead, harbour, river, lake or inland waterway, 
 
 
 
-**(q)** The all-round white lights prescribed for an inconspicuous, partly submerged vessel or object or a barge in Rules 24(g) and (k), respectively, shall be carried at the same height and shall be placed at a height of not less than two metres above the water.
+**(q)** The all-round white lights prescribed for an inconspicuous, partly submerged vessel or object or a barge in Rules 24(g) and (j), respectively, shall be carried at the same height and shall be placed at a height of not less than two metres above the water.
+
+
+
+**(r)** The vertical separation of masthead lights required by subparagraph (a)(ii) and paragraph (b) is illustrated in Appendix II to Standards for Navigation Lights, Shapes, Sound-Signalling Appliances, TP 1861, published by Transport Canada, as amended from time to time.
+
 
 
 
 **3** **Horizontal Positioning and Spacing of Lights — International**
-
-
 
 **(a)** When two masthead lights are prescribed for a power-driven vessel, the horizontal distance between them shall not be less than one-half of the length of the vessel but need not be more than 100 metres. The forward light shall be placed not more than one-quarter of the length of the vessel from the stem.
 
@@ -2805,8 +2512,6 @@ In the Canadian waters of a roadstead, harbour, river, lake or inland waterway, 
 
 **(e)** Notwithstanding paragraph (a), in the waters of the Great Lakes Basin, where two masthead lights are prescribed for a power-driven vessel,
 
-
-
 **(i)** the horizontal distance between them shall be not less than one-quarter the length of the vessel but need not be more than 50 m, and
 
 
@@ -2815,13 +2520,14 @@ In the Canadian waters of a roadstead, harbour, river, lake or inland waterway, 
 
 
 
+
+
 **(f)** [Repealed, SOR/96-145, s. 4]
 
 
 
+
 **4** **Details of location of direction-indicating lights for fishing vessels, dredgers and vessels engaged in underwater operations**
-
-
 
 **(a)** The light indicating the direction of the outlying gear from a vessel engaged in fishing as prescribed in Rule 26(c)(ii) shall be placed at a horizontal distance of not less than two metres and not more than six metres away from the two all-round red and white lights. This light shall be placed not higher than the all-round white light prescribed in Rule 26(c)(i) and not lower than the sidelights.
 
@@ -2831,29 +2537,24 @@ In the Canadian waters of a roadstead, harbour, river, lake or inland waterway, 
 
 
 
+
 **5** **Screens for Sidelights — International**
-
-
 
 The sidelights of vessels of 20 metres or more in length shall be fitted with inboard screens painted matt black and shall meet the requirements of section 9 of this Annex. On vessels of less than 20 metres in length the sidelights, if necessary to meet the requirements of section 9 of this Annex, shall be fitted with inboard matt black screens. With a combined lantern, using a single vertical filament and a very narrow division between the green and red sections, external screens need not be fitted.
 
 
 
+
 **5.1** **Screens for Lights Other than Sidelights — Canadian Modification**
 
+On power-driven vessels of less than 12 metres in length, constructed after July 31, 1983, the masthead light or the all-round light referred to in Rule 23(d), shall be screened to prevent direct illumination of the vessel forward of the operator’s position.
 
-
-On power-driven vessels of less than 12 metres in length, constructed after July 31, 1983, the masthead light or the all-round light referred to in Rule 23(c), shall be screened to prevent direct illumination of the vessel forward of the operator’s position.
 
 
 
 **6** **Shapes**
 
-
-
 **(a)** Shapes shall be black and of the following sizes:
-
-
 
 **(i)** a ball shall have a diameter of not less than 0.6 metre,
 
@@ -2871,6 +2572,8 @@ On power-driven vessels of less than 12 metres in length, constructed after July
 
 
 
+
+
 **(b)** The vertical distance between shapes shall be at least 1.5 metres.
 
 
@@ -2879,17 +2582,14 @@ On power-driven vessels of less than 12 metres in length, constructed after July
 
 
 
+
 **7** **Colour Specification of Lights — International**
-
-
 
 The chromaticity of all navigation lights shall conform to the following standards, which lie within the boundaries of the area of the diagram specified for each colour by the International Commission on Illumination (CIE).
 
 
 
 The boundaries of the area for each colour are given by indicating the corner co-ordinates, which are as follows:
-
-
 
 **(i)** *White*
 
@@ -2917,8 +2617,6 @@ y  0.385  0.723  0.511  0.356
 
 (iii) *Red*
 
-
-
 x  0.680  0.660  0.735  0.721
 
 
@@ -2927,9 +2625,9 @@ y  0.320  0.320  0.265  0.259
 
 
 
+
+
 (iv) *Yellow*
-
-
 
 x  0.612  0.618  0.575  0.575
 
@@ -2939,9 +2637,9 @@ y  0.382  0.382  0.425  0.406
 
 
 
+
+
 **Colour Specification of Lights — Canadian Modification**
-
-
 
 **(v)** *Restricted Blue*
 
@@ -2955,13 +2653,14 @@ y  0.040  0.142  0.175  0.105
 
 
 
-**8** **Intensity of lights**
 
 
+
+
+
+**8** **Intensity of lights — International**
 
 **(a)** The minimum luminous intensity of lights shall be calculated by using the formula:
-
-
 
 
 ```
@@ -2976,6 +2675,8 @@ where
 
 
 For prescribed lights the value of K shall be 0.8, corresponding to a meteorological visibility of approximately 13 nautical miles.
+
+
 
 
 
@@ -3016,54 +2717,49 @@ For prescribed lights the value of K shall be 0.8, corresponding to a meteorolog
 </table>
 
 
-
-
 **NOTE:** The maximum luminous intensity of navigation lights should be limited to avoid undue glare. This shall not be achieved by a variable control of the luminous intensity.
+
+
+
+
+
+#### Intensity of Lights — Canadian Modification
+
+
+**(c)** All lights, other than a flashing light, shall have a luminous intensity that appears constant and steady.
+
 
 
 
 **9** **Horizontal Sectors — International**
 
-
-
-**(a)** 
-
-**(i)** In the forward direction, sidelights as fitted on the vessel shall show the minimum required intensities. The intensities shall decrease to reach practical cut-off between one degree and three degrees outside the prescribed sectors.
-
-
-
-
+**(a)** (i) In the forward direction, sidelights as fitted on the vessel shall show the minimum required intensities. The intensities shall decrease to reach practical cut-off between one degree and three degrees outside the prescribed sectors.
 
 **(ii)** For sternlights and masthead lights and at 22.5 degrees abaft the beam for sidelights, the minimum required intensities shall be maintained over the arc of the horizon up to five degrees within the limits of the sectors prescribed in Rule 21. From five degrees within the prescribed sectors the intensity may decrease by 50 per cent up to the prescribed limits; it shall decrease steadily to reach practical cut-off at not more than five degrees outside the prescribed sectors.
 
 
 
-**(b)** 
-
-**(i)** All-round lights shall be so located as not to be obscured by masts, topmasts or structures within angular sectors of more than six degrees, except anchor lights prescribed in Rule 30, which need not be placed at an impracticable height above the hull.
 
 
-
-
+**(b)** (i) All-round lights shall be so located as not to be obscured by masts, topmasts or structures within angular sectors of more than six degrees, except anchor lights prescribed in Rule 30, which need not be placed at an impracticable height above the hull.
 
 **(ii)** If it is impracticable to comply with subparagraph (i) by exhibiting only one all-round light, two all-round lights shall be used suitably positioned or screened so that they appear, as far as practicable, as one light at a distance of one mile.
+
+
 
 
 
 #### Horizontal Sectors — Canadian Modification
 
 
-**(c)** Notwithstanding paragraph (b), in the waters of the Great Lakes Basin, the all-round white light or lights referred to in Rule 23(e) shall not be obscured.
+**(c)** Notwithstanding paragraph (b), in the waters of the Great Lakes Basin, the all-round white light or lights referred to in Rule 23(f) shall not be obscured.
+
 
 
 
 **10** **Vertical Sectors — International**
 
-
-
 **(a)** The vertical sectors of electric lights as fitted, with the exception of lights on sailing vessels underway, shall be such that
-
-
 
 **(i)** at least the required minimum intensity is maintained at all angles from five degrees above to five degrees below the horizontal,
 
@@ -3073,15 +2769,17 @@ For prescribed lights the value of K shall be 0.8, corresponding to a meteorolog
 
 
 
+
+
 **(b)** In the case of sailing vessels underway, the vertical sectors of electric lights as fitted shall be such that
-
-
 
 **(i)** at least the required minimum intensity is maintained at all angles from five degrees above to five degrees below the horizontal,
 
 
 
 **(ii)** at least 50 per cent of the required minimum intensity is maintained from 25 degrees above to 25 degrees below the horizontal.
+
+
 
 
 
@@ -3096,17 +2794,15 @@ For prescribed lights the value of K shall be 0.8, corresponding to a meteorolog
 
 
 
+
 **11** **Intensity of non-electric lights**
-
-
 
 Non-electric lights shall so far as practicable comply with the minimum intensities, as specified in the table given in section 8 of this Annex.
 
 
 
+
 **12** **Manoeuvring Light — International**
-
-
 
 **(a)** Notwithstanding the provisions of paragraph 2(f) of this Annex the manoeuvring light described in Rule 34(b) shall be placed in the same fore and aft vertical plane as the masthead light or lights and, where practicable, at a minimum height of two metres vertically above the forward masthead light, provided that it shall be carried not less than two metres vertically above or below the after masthead light. On a vessel where only one masthead light is carried the manoeuvring light, if fitted, shall be carried where it can best be seen, not less than two metres vertically apart from the masthead light.
 
@@ -3115,27 +2811,18 @@ Non-electric lights shall so far as practicable comply with the minimum intensit
 #### Manoeuvring Light — Canadian Modification
 
 
-**(b)** Notwithstanding paragraph (a), in the waters of the Great Lakes Basin, the manoeuvring light referred to in Rule 34(h) shall be placed in the same fore and aft vertical plane as the masthead light or lights at not less than one metre vertically above or below the after masthead light and, where practicable, shall be placed at the minimum height of one metre vertically above the forward masthead light. On a vessel where only one masthead light is carried, the manoeuvring light, if fitted, shall be carried where it can best be seen and shall be located not less than one metre vertically apart from the masthead light.
+**(b)** Notwithstanding paragraph (a), in the waters of the Great Lakes Basin, the manoeuvring light referred to in Rule 34(i) shall be placed in the same fore and aft vertical plane as the masthead light or lights at not less than one metre vertically above or below the after masthead light and, where practicable, shall be placed at the minimum height of one metre vertically above the forward masthead light. On a vessel where only one masthead light is carried, the manoeuvring light, if fitted, shall be carried where it can best be seen and shall be located not less than one metre vertically apart from the masthead light.
+
 
 
 
 **13** **High-speed Craft**<sup><a href='#footnotestar1_e'>[*]</a></sup>
-
-
-
-The masthead light of high-speed craft with a length-to-breadth ra
-
-
 
 **(a)** The masthead light of high-speed craft may be placed at a height related to the breadth of the craft lower than that prescribed in subparagraph 2(a)(i) of this Annex, provided that the base angle of the isosceles triangles formed by the sidelights and masthead light, when seen in end elevation, is not less than 27°.
 
 
 
 **(b)** On high-speed craft of 50 metres or more in length, the vertical separation between foremast and mainmast light of 4.5 metres required by subparagraph 2(a)(ii) of this Annex may be modified provided that such distance shall not be less than the value determined by the following formula:
-
-
-
-
 ```
 y = [(a + 17ψ)C/1000] + 2
 ```
@@ -3153,9 +2840,8 @@ where
 
 
 
+
 **14** **Approval — International**
-
-
 
 **(a)** The construction of lights and shapes and the installation of lights on board a vessel shall be to the satisfaction of the appropriate authority of the State whose flag the vessel is entitled to fly.
 
@@ -3164,37 +2850,35 @@ where
 #### Approval — Canadian Modifications
 
 
-**(b)** For the purpose of paragraph (a), the appropriate Canadian authority is the Chairman.
+**(b)** For the purpose of paragraph (a), the appropriate Canadian authority is the Minister.
 
 
 
-**15** **Electric Power Supply**
 
 
+#### Additional Canadian Provision
 
-Electric power supplied to any navigation lights shall be in compliance with the provisions of the Transport Canada Ship Safety Electrical Standards, 1987, TP 127, as amended from time to time.
+**15** **Electrical Power Supply**
+
+Electric power, including emergency electric power, supplied to any navigation lights other than electronic lanterns shall be in compliance with the requirements of section 11.37 and the applicable provisions set out in Schedule 1 to Ship Electrical Standards, TP 127, published by Transport Canada, as amended from time to time.
+
+
 
 
 
 **ANNEX II** 
 ### ADDITIONAL SIGNALS FOR FISHING VESSELS FISHING IN CLOSE PROXIMITY — INTERNATIONAL
 
-
 **1** **General**
-
-
 
 The lights mentioned herein shall, if exhibited in pursuance of Rule 26(d), be placed where they can best be seen. They shall be at least 0.9 metre apart but at a lower level than lights prescribed in Rule 26(b)(i) and (c)(i). The lights shall be visible all round the horizon at a distance of at least one mile but at a lesser distance than the lights prescribed by these Rules for fishing vessels.
 
 
 
+
 **2** **Signals for trawlers**
 
-
-
 **(a)** Vessels of 20 m or more in length when engaged in trawling, whether using demersal or pelagic gear, shall exhibit
-
-
 
 **(i)** when shooting their nets: two white lights in a vertical line,
 
@@ -3208,9 +2892,9 @@ The lights mentioned herein shall, if exhibited in pursuance of Rule 26(d), be p
 
 
 
+
+
 **(b)** Each vessel of 20 m or more in length engaged in pair trawling shall exhibit
-
-
 
 **(i)** by night, a searchlight directed forward and in the direction of the other vessel of the pair,
 
@@ -3220,36 +2904,33 @@ The lights mentioned herein shall, if exhibited in pursuance of Rule 26(d), be p
 
 
 
+
+
 **(c)** A vessel of less than 20 m in length engaged in trawling, whether using demersal or pelagic gear or engaged in pair trawling, may exhibit the lights prescribed in paragraph (a) or (b), as appropriate.
+
 
 
 
 **3** **Signals for purse seiners**
 
-
-
 Vessels engaged in fishing with purse seine gear may exhibit two yellow lights in a vertical line. These lights shall flash alternately every second and with equal light and occultation duration. These lights may be exhibited only when the vessel is hampered by its fishing gear.
+
+
 
 
 
 #### Additional Signals for Fishing Vessels Fishing in Close Proximity — Canadian Modifications
 
-
 **4** **Special visual signals**
-
-
 
 In Canadian waters and fishing zones, a vessel engaged in pair — trawling shall exhibit at the foremast the International Code flag “T” during the daylight hours.
 
 
 
+
 **5** **Special sound signals**
 
-
-
-**(a)** In Canadian waters and fishing zones, a vessel engaged in fishing as described in Rule 26(f) shall, in any condition of visibility, sound the following signals on her whistle:
-
-
+**(a)** In Canadian waters and fishing zones, a vessel engaged in fishing as described in sections 2 and 3 of this Annex shall, in any condition of visibility, sound the following signals on her whistle:
 
 **(i)** four blasts in succession, namely, two prolonged blasts followed by two short blasts when shooting a net or gear,
 
@@ -3263,33 +2944,30 @@ In Canadian waters and fishing zones, a vessel engaged in pair — trawling shal
 
 
 
+
+
 **(b)** When in or near an area of restricted visibility, the signals described in paragraph (a) shall be sounded four to six seconds after the sound signal prescribed in Rule 35(c).
+
+
 
 
 
 **ANNEX III** 
 ### TECHNICAL DETAILS OF SOUND SIGNAL APPLIANCES
 
-
 **1** **Whistles — International**
 
-
-
 **(a)** *Frequencies and range of audibility*
-
-
 
 The fundamental frequency of the signal shall lie within the range 70-700 Hz. The range of audibility of the signal from a whistle shall be determined by those frequencies, which may include the fundamental and/or one or more higher frequencies, which lie within the range 180-700 Hz (± 1%) for a vessel of 20 metres or more in length, or 180-2100 Hz (± 1%) for a vessel of less than 20 metres in length and which provide the sound pressure levels specified in paragraph (c) below.
 
 
 
+
+
 **(b)** *Limits of fundamental frequencies*
 
-
-
 To ensure a wide variety of whistle characteristics, the fundamental frequency of a whistle shall be between the following limits:
-
-
 
 **(i)** 70-200 Hz, for a vessel 200 metres or more in length,
 
@@ -3303,9 +2981,11 @@ To ensure a wide variety of whistle characteristics, the fundamental frequency o
 
 
 
+
+
+
+
 **(c)** *Sound signal intensity and range of audibility*
-
-
 
 A whistle fitted in a vessel shall provide, in the direction of maximum intensity of the whistle and at a distance of 1 metre from it, a sound pressure level in at least one 1/3<sup>rd</sup> octave band within the range of frequencies 180-700 Hz (± 1%) for a vessel 20 metres or more in length, or 180-2100 Hz (± 1%) for a vessel less than 20 metres in length, of not less than the appropriate figure given in the table below.
 <table>
@@ -3320,12 +3000,12 @@ A whistle fitted in a vessel shall provide, in the direction of maximum intensit
 <td>2</td>
 </tr>
 <tr>
-<td>75 but less than 200</td>
+<td>75 but less than 200</td>
 <td>138</td>
 <td>1.5</td>
 </tr>
 <tr>
-<td>20 but less than 75</td>
+<td>20 but less than 75</td>
 <td>130</td>
 <td>1</td>
 </tr>
@@ -3359,35 +3039,37 @@ In practice the range at which a whistle may be heard is extremely variable and 
 
 
 
+
+
 **(d)** *Directional Properties*
-
-
 
 The sound pressure level of a directional whistle shall be not more than 4 dB below the prescribed sound pressure level on the axis at any direction in the horizontal plane within 45 degrees of the axis. The sound pressure level at any other direction in the horizontal plane shall be not more than 10 dB below the prescribed sound pressure level on the axis, so that the range in any direction will be at least half the range on the forward axis. The sound pressure level shall be measured in that 3rd-octave band which determines the audibility range.
 
 
 
+
+
 **(e)** *Positioning of Whistles*
-
-
 
 When a directional whistle is to be used as the only whistle on a vessel, it shall be installed with its maximum intensity directed straight ahead. A whistle shall be placed as high as practicable on a vessel, in order to reduce interception of the emitted sound by obstructions and also to minimize hearing damage risk to personnel. The sound pressure level of the vessel’s own signal at listening posts shall not exceed 110 dB (A) and so far as practicable should not exceed 100 dB (A).
 
 
 
+
+
 **(f)** *Fitting of more than one whistle*
-
-
 
 If whistles are fitted at a distance apart of more than 100 metres, it shall be so arranged that they are not sounded simultaneously.
 
 
 
+
+
 **(g)** *Combined whistle systems*
 
-
-
 If due to the presence of obstructions the sound field of a single whistle or of one of the whistles referred to in paragraph 1(f) above is likely to have a zone of greatly reduced signal level, it is recommended that a combined whistle system be fitted so as to overcome this reduction. For the purposes of the Rules a combined whistle system is to be regarded as a single whistle. The whistles of a combined system shall be located at a distance apart of not more than 100 metres and arranges to be sounded simultaneously. The frequency of any one whistle shall differ from those of the others by at least 10 Hz.
+
+
 
 
 
@@ -3399,8 +3081,6 @@ If due to the presence of obstructions the sound field of a single whistle or of
 
 
 **(i)** Notwithstanding paragraph (c), in the Canadian waters of a roadstead, harbour, river, lake or inland waterway, the whistle on a vessel of 12 metres or more in length but less than 20 metres in length may provide, in the direction of the forward axis of the whistle and at a distance of one metre from it, a sound pressure level in at least one 1/3rd-octave band of not less than the appropriate figure shown below within the frequency range of 250-2/100 Hz (± 1 per cent):
-
-
 
 **(i)** 250-450 Hz — 120 dB
 
@@ -3414,33 +3094,41 @@ If due to the presence of obstructions the sound field of a single whistle or of
 
 
 
-**(j)** In the Canadian waters of a roadstead, harbour, river, lake or inland waterway, a power-driven vessel that is normally engaged in pushing ahead or towing alongside may, at any time, use a whistle whose characteristic falls within the limits prescribed in paragraph (b) for longest normal length of the vessel and its tow.
+
+
+**(j)** For the purposes of this Annex, the expression “listening posts” means bridge wings or the bow.
+
+
+
+**(k)** For the purposes of this Annex, the methods described in Resolution A.343(IX), made by the Organization, for measuring noise levels at listening posts are recommended.
+
+
+
+**(l)** In the Canadian waters of a roadstead, harbour, river, lake or inland waterway, a power-driven vessel that is normally engaged in pushing ahead or towing alongside may, at any time, use a whistle whose characteristics fall within the limits prescribed in paragraph (b) for the longest normal length of the vessel and its tow.
+
 
 
 
 **2** **Bell or gong**
 
-
-
 **(a)** *Intensity of Signal*
-
-
 
 A bell or gong, or other device having similar sound characteristics shall produce a sound pressure level of not less than 110 dB at a distance of one metre from it.
 
 
 
+
+
 **(b)** *Construction*
-
-
 
 Bells and gongs shall be made of corrosion-resistant material and designed to give a clear tone. The diameter of the mouth of the bell shall be not less than 300 mm for vessels of 20 metres or more in length. Where practicable, a power-driven bell striker is recommended to ensure constant force but manual operation shall be possible. The mass of the striker shall be not less than 3% of the mass of the bell.
 
 
 
+
+
+
 **3** **Approval — International**
-
-
 
 **(a)** The construction of sound signal appliances, their performance and their installation on board a vessel shall be to the satisfaction of the appropriate authority of the State whose flag the vessel is entitled to fly.
 
@@ -3449,17 +3137,16 @@ Bells and gongs shall be made of corrosion-resistant material and designed to gi
 #### Approval — Canadian Modification
 
 
-**(b)** For the purpose of paragraph (a), the appropriate Canadian authority is the Chairman.
+**(b)** For the purpose of paragraph (a), the appropriate Canadian authority is the Minister.
+
+
 
 
 
 **ANNEX IV** 
 ### DISTRESS SIGNALS — INTERNATIONAL
 
-
 **1** The following signals, used or exhibited either together or separately, indicate distress and need of assistance:
-
-
 
 **(a)** a gun or other explosive signal fired at intervals of about a minute;
 
@@ -3473,7 +3160,7 @@ Bells and gongs shall be made of corrosion-resistant material and designed to gi
 
 
 
-**(d)** a signal made by radiotelegraphy or by any other signalling method consisting of the group ... — -... (SOS) in the Morse Code;
+**(d)** a signal made by radiotelegraphy or by any other signalling method consisting of the group . . . - - - . . . (SOS) in the Morse Code;
 
 
 
@@ -3525,13 +3212,11 @@ Bells and gongs shall be made of corrosion-resistant material and designed to gi
 
 
 
+
 **2** The use or exhibition of any of the foregoing signals except for the purpose of indicating distress and need of assistance and the use of other signals which may be confused with any of the above signals is prohibited.
 
 
-
 **3** Attention is drawn to the relevant sections of the International Code of Signals, the Merchant Ship Search and Rescue Manual and the following signals:
-
-
 
 **(a)** a piece of orange canvas with either a black square and circle or other symbol appropriate for identification from the air; and
 
@@ -3541,12 +3226,11 @@ Bells and gongs shall be made of corrosion-resistant material and designed to gi
 
 
 
+
+
 #### Distress Signals — Canadian Modifications
 
-
 **4** In Canadian waters or fishing zones, in addition to the signals described in section 1, the following signals may be used or exhibited either together or separately to indicate distress and need of assistance:
-
-
 
 **(a)** a square shape or anything resembling a square shape; and
 
@@ -3556,14 +3240,14 @@ Bells and gongs shall be made of corrosion-resistant material and designed to gi
 
 
 
+
 **5** Notwithstanding section 2 and paragraph 4(b), a North Cardinal Buoy may use a quick flashing white light flashing at regular intervals of 60 times per minute.
 
 
+**6** For the purpose of section 3 of this Annex, the reference to the Merchant Ship Search and Rescue Manual shall be read as a reference to the International Aeronautical and Maritime Search and Rescue Manual (IAMSAR Manual), Volume III, Mobile Facilities, published by the Organization, as amended from time to time.
 
-**6** For the purpose of section 3, attention is also drawn to the relevant sections of the International Aeronautical and Maritime Search and Rescue Manual (IAMSAR), Volume III, Mobile Facilities, published by the International Maritime Organization, as amended from time to time.
 
-
-> SOR/79-238, s. 2(F); SOR/83-202, s. 3; SOR/85-397, ss. 1 to 3; SOR/87-25, s. 1; SOR/88-10, ss. 1 to 4; SOR/88-322, s. 1; SOR/90-702, ss. 5 to 23; SOR/91-275, ss. 1, 2; SOR/93-112, ss. 1, 2; SOR/94-611, s. 1; SOR/96-145, ss. 1 to 8; SOR/2002-429, ss. 4(F), 5, 6 to 11(F), 12, 14(E); SOR/2003-41, ss. 1, 2; SOR/2004-27, ss. 2, 3, 4(F), 5 to 11, 12(F), 13(F), 14 to 19, 20(E).
+> SOR/79-238, s. 2(F); SOR/83-202, s. 3; SOR/85-397, ss. 1 to 3; SOR/87-25, s. 1; SOR/88-10, ss. 1 to 4; SOR/88-322, s. 1; SOR/90-702, ss. 5 to 23; SOR/91-275, ss. 1, 2; SOR/93-112, ss. 1, 2; SOR/94-611, s. 1; SOR/96-145, ss. 1 to 8; SOR/2002-429, ss. 4(F), 5, 6 to 11(F), 12, 14(E); SOR/2003-41, ss. 1, 2; SOR/2004-27, ss. 2, 3, 4(F), 5 to 11, 12(F), 13(F), 14 to 19, 20(E); SOR/2008-272, ss. 7 to 18, 19(F), 20, 21(F), 22 to 26, 27(F), 28 to 30, 31(F), 32, 33(F), 34 to 36, 37(F), 38 to 42, 43(F), 44, 45, 46(F), 47 to 49, 50(F), 51(F).
 
 
 
