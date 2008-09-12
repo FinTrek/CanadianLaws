@@ -1,6 +1,6 @@
 > [Go to French version](/fr/Lois/Lois%20du%20Canada/2004/ch.%2010.md)
 
-# An Act respecting the registration of information relating to sex offenders, to amend the Criminal Code and to make consequential amendments to other Acts
+# Sex Offender Information Registration Act
 
 **S.C. 2004, c. 10**
 
@@ -63,6 +63,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***database*** means the database that contains the information that is registered under this Act. (*banque de données*)
 
+***finding of not criminally responsible on account of mental disorder*** means a verdict of not criminally responsible on account of mental disorder within the meaning of subsection 672.1(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or a finding of not responsible on account of mental disorder within the meaning of subsection 2(1) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md), as the case may be. (*verdict de non-responsabilité*)
+
 ***information*** includes characteristics recorded and photographs taken under subsection 5(3) and fingerprints taken under subsection 9(2). (*renseignements*)
 
 ***main residence*** means the place in Canada where a person lives most often or, if there is no such place, the place in Canada where they may be found most often. (*résidence principale*)
@@ -73,25 +75,27 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***Ontario Act*** has the same meaning as in subsection 490.011(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md). (*loi ontarienne*)
 
-***order*** means an order under section 490.012 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md). (*ordonnance*)
+***order*** means an order under section 490.012 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or section 227.01 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md). (*ordonnance*)
 
-***person who collects information*** means a person who is authorized under paragraph 18(1)(b) or subsection 19(1) to collect information. (*préposé à la collecte*)
+***person who collects information*** means a person who is authorized to collect information under paragraph 18(1)(b) or subsection 19(1) of this Act or paragraph 227.2(c) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md). (*préposé à la collecte*)
 
-***person who registers information*** means a person who is authorized under paragraph 18(1)(c) or subsection 19(1) to register information. (*préposé à l’enregistrement*)
+***person who registers information*** means a person who is authorized to register information under paragraph 18(1)(c) or subsection 19(1) of this Act or paragraph 227.2(d) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md). (*préposé à l’enregistrement*)
 
-***registration centre*** means a place that is designated as a registration centre under paragraph 18(1)(d) or subsection 19(1). (*bureau d’inscription*)
+***registration centre*** means a place that is designated as a registration centre under paragraph 18(1)(d) or subsection 19(1) of this Act or paragraph 227.2(e) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md). (*bureau d’inscription*)
 
 ***retained*** means retained under a contract for services, whether the contract is entered into with an individual, or with their employer or another person to whom the individual provides services. (*agent contractuel*)
 
 ***secondary residence*** means a place in Canada, other than a main residence, where a person regularly lives. (*résidence secondaire*)
 
-***sex offender*** means a person who is subject to one or more orders or to an obligation under section 490.019 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md). (*délinquant sexuel*)
+***sex offender*** means a person who is subject to one or more orders or to an obligation under section 490.019 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or section 227.06 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md). (*délinquant sexuel*)
 
 **Interpretation**
 
 - **(2)** For the purposes of this Act, a crime is of a sexual nature if it consists of one or more acts that
 	- **(a)** are either sexual in nature or committed with the intent to commit an act or acts that are sexual in nature; and
 	- **(b)** constitute an offence.
+> 2004, c. 10, s. 3; 2007, c. 5, s. 32.
+
 
 
 
@@ -104,38 +108,52 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **4** 
 
-- **(1)** A sex offender shall report, for the first time under this Act, in person to the registration centre that serves the area in which their main residence is located.
-
-**Reporting date**
-
-- **(2)** A person who is subject to an order shall report within 15 days after
+- **(1)** A person who is subject to an order shall report to a registration centre referred to in section 7.1 within 15 days after
 	- **(a)** the order is made, if they are convicted of the offence in connection with which the order is made but are not given a custodial sentence;
 	- **(b)** they receive an absolute or conditional discharge under Part XX.1 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), if they are found not criminally responsible on account of mental disorder for the offence in connection with which the order is made;
+	- **(b.1)** they receive an absolute or conditional discharge or are released from custody under Division 7 of Part III of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md), if they are found not criminally responsible on account of mental disorder for the offence in connection with which the order is made;
+	- **(b.2)** the imprisonment or detention to which they are sentenced for the offence in connection with which the order is made is suspended under section 215 or 216 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md);
 	- **(c)** they are released from custody pending the determination of an appeal relating to the offence in connection with which the order is made; or
 	- **(d)** they are released from custody after serving the custodial portion of a sentence for the offence in connection with which the order is made.
 
-**Reporting date**
+**First obligation to report**
 
-- **(3)** A person who is subject to an obligation under section 490.019 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) shall report,
+- **(2)** A person who is subject to an obligation under section 490.019 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or section 227.06 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) shall report to a registration centre referred to in section 7.1 of this Act
 	- **(a)** if they are not in custody on the day on which they become subject to the obligation, within 15 days after that day; or
 	- **(b)** in any other case, within 15 days after
 		- **(i)** they receive an absolute or conditional discharge under Part XX.1 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md),
+		- **(i.1)** they receive an absolute or conditional discharge or are released from custody under Division 7 of Part III of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md),
+		- **(i.2)** an imprisonment or a detention to which they are sentenced is suspended under section 215 or 216 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md),
 		- **(ii)** they are released from custody pending the determination of an appeal, or
 		- **(iii)** they are released from custody after serving the custodial portion of a sentence.
+
+**Means of reporting**
+
+- **(3)** If a sex offender is required to report to a registration centre designated under this Act, they shall report in person. If they are required to report to a registration centre designated under the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md), they shall report in person unless regulations are made under paragraph 227.2(a) of that Act, in which case they shall report in accordance with those regulations.
 
 **Compliance before leaving Canada**
 
 - **(4)** A sex offender shall not leave Canada before they report under this section.
+> 2004, c. 10, s. 4; 2007, c. 5, s. 33.
+
 
 
 
 
 **Subsequent obligation to report**
 
-**4.1** A sex offender shall subsequently report to the registration centre that serves the area in which their main residence is located in person or in accordance with regulations made under paragraph 18(1)(a) or subsection 19(1),
-- **(a)** within 15 days after they change their main residence or any secondary residence;
-- **(b)** within 15 days after they change their given name or surname; and
-- **(c)** at any time between 11 months and one year after they last reported to a registration centre under this Act.
+**4.1** 
+
+- **(1)** A sex offender shall subsequently report to the registration centre referred to in section 7.1,
+	- **(a)** within 15 days after they change their main residence or any secondary residence;
+	- **(b)** within 15 days after they change their given name or surname; and
+	- **(c)** at any time between 11 months and one year after they last reported to a registration centre under this Act.
+
+**Means of reporting**
+
+- **(2)** If a sex offender is required to report to a registration centre designated under this Act, they shall report in person or in accordance with regulations made under paragraph 18(1)(a) or subsection 19(1). If they are required to report to a registration centre designated under the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md), they shall report in person unless regulations are made under paragraph 227.2(a) of that Act, in which case they shall report in accordance with those regulations.
+> 2004, c. 10, s. 4.1; 2007, c. 5, s. 34.
+
 
 
 
@@ -144,18 +162,28 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **4.2** 
 
-- **(1)** If a person who is subject to an obligation under section 490.019 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) becomes subject to an order, they shall report on the reporting dates established under the order only.
+- **(1)** If a person who is subject to an obligation under section 490.019 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or section 227.06 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) becomes subject to an order, they shall report on the reporting dates established under the order only.
 
 **More than one order**
 
 - **(2)** A person who is subject to more than one order shall report on the reporting dates established under the most recent order only.
+> 2004, c. 10, s. 4.2; 2007, c. 5, s. 35.
+
 
 
 
 
 **Compliance if temporarily outside Canada**
 
-**4.3** A sex offender who is outside Canada when they are required to report under section 4.1 shall report not later than 15 days after they return to Canada.
+**4.3** 
+
+- **(1)** A sex offender who is outside Canada when they are required to report under section 4.1 shall report not later than 15 days after they return to Canada.
+
+**Canadian Forces**
+
+- **(2)** Subsection (1) does not apply to a sex offender who is required to report to a registration centre designated under the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) while they are outside Canada.
+> 2004, c. 10, s. 4.3; 2007, c. 5, s. 36.
+
 
 
 
@@ -169,33 +197,38 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(b)** their date of birth and gender;
 	- **(c)** the address of their main residence and every secondary residence or, if there is no such address, the location of that place;
 	- **(d)** the address of every place at which they are employed or retained, or are engaged on a volunteer basis or, if there is no such address, the location of that place;
+	- **(d.1)** if applicable, their status as an officer or a non-commissioned member of the Canadian Forces within the meaning of subsection 2(1) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) and the address and telephone number of their unit within the meaning of that subsection;
 	- **(e)** the address of every educational institution at which they are enrolled or, if there is no such address, the location of that place;
 	- **(f)** a telephone number at which they may be reached, if any, for every place referred to in paragraphs (c) and (d), and the number of every mobile telephone or pager in their possession; and
 	- **(g)** their height and weight and a description of every physical distinguishing mark that they have.
 
 **Additional information**
 
-- **(2)** When a sex offender provides the information referred to in subsection (1), the person who collects the information may ask them when and where they were convicted of, or found not criminally responsible on account of mental disorder for, an offence in connection with which an order was made or, if they are subject to an obligation under section 490.019 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), a designated offence within the meaning of subsection 490.011(1) of that Act.
+- **(2)** When a sex offender reports to a registration centre, the person who collects the information from them may ask them when and where they were convicted of, or found not criminally responsible on account of mental disorder for, an offence in connection with which an order was made or, if they are subject to an obligation under section 490.019 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or section 227.06 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md), an offence referred to in paragraph (a), (c), (c.1), (d) or (e) of the definition ***designated offence*** in subsection 490.011(1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or in paragraph (a) or (c) of the definition ***designated offence*** in section 227 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md).
 
 **Additional information**
 
 - **(3)** When a sex offender reports to a registration centre in person, the person who collects the information referred to in subsection (1) may record any observable characteristic that may assist in identification of the sex offender, including their eye colour and hair colour, and may require that their photograph be taken.
+> 2004, c. 10, s. 5; 2007, c. 5, s. 37.
 
 
 
 
-**Notice about absence**
+
+**Notification of absence**
 
 **6** 
 
-- **(1)** A sex offender shall notify a person who collects information at the registration centre that serves the area in which their main residence is located
+- **(1)** A sex offender shall notify a person who collects information at the registration centre referred to in section 7.1
 	- **(a)** of every address or location at which they stay or intend to stay, and of their actual or estimated dates of departure from, and return to, their main residence or a secondary residence, not later than 15 days after departure if they are in Canada but are absent from their main residence and every secondary residence for a period of at least 15 consecutive days;
 	- **(b)** of their actual or estimated date of departure from their main residence or a secondary residence, not later than 15 days after departure if they are outside Canada for a period of at least 15 consecutive days; and
 	- **(c)** of their actual return to their main residence or a secondary residence after a departure referred to in paragraph (a) or (b), not later than 15 days after they return, unless they are required to report under section 4.1 or 4.3 within that period.
 
 **Means of notification**
 
-- **(2)** Notification shall be by registered mail or in accordance with regulations made under paragraph 18(1)(a) or subsection 19(1), but a sex offender may not be required to provide notification in person.
+- **(2)** If a sex offender is required to provide notification to a registration centre designated under this Act, they shall provide the notification by registered mail or in accordance with regulations made under paragraph 18(1)(a) or subsection 19(1). If they are required to provide notification to a registration centre designated under the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md), they shall provide the notification by registered mail unless regulations are made under paragraph 227.2(a) of that Act, in which case they shall provide the notification in accordance with those regulations.
+> 2004, c. 10, s. 6; 2007, c. 5, s. 38.
+
 
 
 
@@ -207,41 +240,137 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
+**Registration centre**
+
+**7.1** For the purposes of sections 4, 4.1, 4.3 and 6, the registration centre is one that is designated under paragraph 18(1)(d) or subsection 19(1) that serves the area of the province in which the sex offender’s main residence is located, unless a registration centre designated under paragraph 227.2(e) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) serves a class of persons of which the sex offender is a member or the area in which the unit of the Canadian Forces in which the sex offender is serving is located.
+> 2007, c. 5, s. 39.
+
+
+
+
+
 ## Responsibilities of Persons Who Collect and Register Information
 
 
 
 **Registration of information**
 
-**8** 
+**8** When a police service receives a copy of an order sent in accordance with subparagraph 490.018(1)(d)(iii) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), a person who registers information for the police service shall
+- **(a)** register without delay in the database only the name of the police service and the following information relating to the person who is subject to the order:
+	- **(i)** their given name and surname,
+	- **(ii)** the number that identifies a record of fingerprints collected from them under the [Identification of Criminals Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-1.md), if such a record exists,
+	- **(iii)** every offence to which the order relates,
+	- **(iv)** when and where the offence or offences were committed,
+	- **(v)** when and where the person was convicted of, or found not criminally responsible on account of mental disorder for, the offence or offences,
+	- **(vi)** the age and gender of every victim of the offence or offences, and the victim’s relationship to the person,
+	- **(vii)** the date and duration of the order, and
+	- **(viii)** the court that made the order; and
+- **(b)** ensure that the registration of the information is done in a manner and in circumstances that ensure its confidentiality.
+> 2004, c. 10, s. 8; 2007, c. 5, s. 40.
 
-- **(1)** When a police service receives a copy of an order sent in accordance with subparagraph 490.018(1)(d)(iii) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), a person who registers information for the police service shall
-	- **(a)** register without delay in the database only the name of the police service and the following information relating to the person who is subject to the order:
-		- **(i)** their given name and surname,
-		- **(ii)** the number that identifies a record of fingerprints collected from them under the [Identification of Criminals Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-1.md), if such a record exists,
-		- **(iii)** every offence to which the order relates,
-		- **(iv)** when and where the offence or offences were committed,
-		- **(v)** when and where the person was convicted of, or found not criminally responsible on account of mental disorder for, the offence or offences,
-		- **(vi)** the age and gender of every victim of the offence or offences, and the victim’s relationship to the person,
-		- **(vii)** the date and duration of the order, and
-		- **(viii)** the court that made the order; and
-	- **(b)** ensure that the registration of the information is done in a manner and in circumstances that ensure its confidentiality.
+
+
+
 
 **Registration of information**
 
-- **(2)** When the Attorney General of a province or minister of justice of a territory receives a copy of an affidavit of service and notice sent in accordance with subsection 490.021(6) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), the Attorney General or minister of justice shall
-	- **(a)** register without delay in the database only the following information relating to the person who was served with the notice:
-		- **(i)** their given name and surname,
-		- **(ii)** the number that identifies a record of fingerprints collected from them under the [Identification of Criminals Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-1.md), if such a record exists,
-		- **(iii)** the date on which the notice was served,
-		- **(iv)** every offence referred to in the notice,
-		- **(v)** when and where the offence or offences were committed,
-		- **(vi)** when and where the person was convicted of, or found not criminally responsible on account of mental disorder for, the offence or offences,
-		- **(vii)** the age and gender of every victim of the offence or offences, and the victim’s relationship to the person,
-		- **(viii)** the expected duration of the person’s obligation under section 490.019 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), and
-		- **(ix)** in the case of a person referred to in paragraph 490.02(1)(b) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), the date, if any, on which the person last reported under the Ontario Act and the duration of their obligation to comply with section 3 of that Act;
-	- **(b)** ensure that the registration of the information is done in a manner and in circumstances that ensure its confidentiality; and
-	- **(c)** send the person a copy of all of the information relating to them that is registered in the database, by registered mail, free of charge and without delay.
+**8.1** 
+
+- **(1)** When the Attorney General of a province or the minister of justice of a territory receives a copy of an affidavit of service and a notice sent in accordance with subsection 490.021(6) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), a person who registers information for the Attorney General or the minister of justice shall register without delay in the database only the following information relating to the person who was served with the notice:
+	- **(a)** their given name and surname;
+	- **(b)** the number that identifies a record of fingerprints collected from them under the [Identification of Criminals Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-1.md), if such a record exists;
+	- **(c)** the date on which the notice was served;
+	- **(d)** every offence listed in the notice;
+	- **(e)** when and where the offence or offences were committed;
+	- **(f)** when and where the person was convicted of, or found not criminally responsible on account of mental disorder for, the offence or offences;
+	- **(g)** the age and gender of every victim of the offence or offences, and the victim’s relationship to the person;
+	- **(h)** the expected duration of the person’s obligation under section 490.019 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md); and
+	- **(i)** in the case of a person referred to in paragraph 490.02(1)(b) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), the date, if any, on which the person last reported under the Ontario Act and the duration of their obligation to comply with section 3 of that Act.
+
+**Registration of information**
+
+- **(2)** When the Attorney General of a province or the minister of justice of a territory receives a notice referred to in subsection 490.016(3), 490.017(2), 490.027(3) or 490.029(2) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), a person who registers information for the Attorney General or the minister of justice shall register without delay in the database the fact that a termination order was made.
+
+**Registration of information**
+
+- **(3)** A person who registers information for the Attorney General of a province or the minister of justice of a territory may register in the database the fact that a person has applied in that jurisdiction for an exemption order under section 490.023 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
+
+**Registration of information**
+
+- **(4)** When the Attorney General of a province or the minister of justice of a territory receives a notice referred to in section 490.025 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), a person who registers information for the Attorney General or the minister of justice shall register without delay in the database the fact that the court refused to make an exemption order under subsection 490.023(2) of that Act or that the appeal court dismissed an appeal from such a decision or quashed an exemption order.
+
+**Registration of information**
+
+- **(5)** A person who registers information for the Attorney General of a province or the minister of justice of a territory may register in the database the date on which the custodial portion of a sex offender’s sentence or detention in custody begins and the date of their release or discharge if
+	- **(a)** the sex offender was prosecuted in that jurisdiction for the offence to which the sentence or detention relates; and
+	- **(b)** the offence was not prosecuted under the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md).
+
+**Confidentiality and copy of information**
+
+- **(6)** A person who registers information under this section shall
+	- **(a)** ensure that the registration of the information is done in a manner and in circumstances that ensure its confidentiality; and
+	- **(b)** once the information is registered, on request, send the sex offender or the person served with a notice under section 490.021 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) a copy of all of the information relating to them that is registered in the database, by registered mail, free of charge and without delay.
+> 2007, c. 5, s. 41.
+
+
+
+
+
+**Registration of information — Canadian Forces**
+
+**8.2** 
+
+- **(1)** When the Canadian Forces Provost Marshal receives a copy of an order sent in accordance with subparagraph 227.05(1)(d)(iii) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md), a person who registers information for the Provost Marshal shall register without delay in the database only the following information relating to the person who is subject to the order:
+	- **(a)** their given name and surname;
+	- **(b)** the number that identifies a record of fingerprints collected from them under the [Identification of Criminals Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-1.md), if such a record exists;
+	- **(c)** every offence to which the order relates;
+	- **(d)** when and where the offence or offences were committed;
+	- **(e)** when and where the person was convicted of, or found not criminally responsible on account of mental disorder for, the offence or offences;
+	- **(f)** the age and gender of every victim of the offence or offences, and the victim’s relationship to the person; and
+	- **(g)** the date and duration of the order.
+
+**Registration of information — Canadian Forces**
+
+- **(2)** When the Canadian Forces Provost Marshal receives a copy of an affidavit of service and a notice sent in accordance with subsection 227.08(4) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md), a person who registers information for the Provost Marshal shall register without delay in the database only the following information relating to the person who was served with the notice:
+	- **(a)** their given name and surname;
+	- **(b)** the number that identifies a record of fingerprints collected from them under the [Identification of Criminals Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-1.md), if such a record exists;
+	- **(c)** the date on which the notice was served;
+	- **(d)** every offence listed in the notice;
+	- **(e)** when and where the offence or offences were committed;
+	- **(f)** when and where the person was convicted of, or found not criminally responsible on account of mental disorder for, the offence or offences;
+	- **(g)** the age and gender of every victim of the offence or offences, and the victim’s relationship to the person; and
+	- **(h)** the expected duration of the person’s obligation under section 227.06 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md).
+
+**Registration of information — Canadian Forces**
+
+- **(3)** When the Canadian Forces Provost Marshal receives a notice referred to in subsection 227.04(3), 227.13(3) or 240.5(3) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md), a person who registers information for the Provost Marshal shall register without delay in the database the fact that a termination order was made.
+
+**Registration of information — Canadian Forces**
+
+- **(4)** A person who registers information for the Canadian Forces Provost Marshal may register in the database the fact that a person has applied for an exemption order under section 227.1 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md).
+
+**Registration of information — Canadian Forces**
+
+- **(5)** When the Canadian Forces Provost Marshal receives a notice referred to in section 227.11 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md), a person who registers information for the Provost Marshal shall register without delay in the database the fact that a court martial refused to make an exemption order under subsection 227.1(4) of that Act or that the Court Martial Appeal Court dismissed an appeal from such a decision or quashed an exemption order.
+
+**Registration of information — Canadian Forces**
+
+- **(6)** A person who registers information for the Canadian Forces Provost Marshal may register in the database the date on which the custodial portion of a sex offender’s sentence or detention in custody begins and the date of their release or discharge, if the sex offender was prosecuted under the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) for the offence to which the sentence or detention relates.
+
+**Registration of information — Canadian Forces**
+
+- **(7)** A person who registers information for the Canadian Forces Provost Marshal shall register without delay in the database
+	- **(a)** the fact that a person is the subject of a determination under subsection 227.15(1) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md), the effect of the determination on the person, the date on which the suspension of the time limit, proceeding or obligation first applies and the date on which it ceases to apply;
+	- **(b)** the fact that a person is the subject of a determination under subsection 227.16(1) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) and the date on which the determination was made; and
+	- **(c)** the fact that a person has become, or has ceased to be, subject to a regulation made under paragraph 227.2(a) or (e) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md).
+
+**Confidentiality and copy of information**
+
+- **(8)** A person who registers information under this section shall
+	- **(a)** ensure that the registration of the information is done in a manner and in circumstances that ensure its confidentiality; and
+	- **(b)** once the information is registered under any of subsections (2) to (7), on request, send the sex offender or the person served with a notice under section 227.08 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) a copy of all of the information relating to them that is registered in the database, by registered mail, free of charge and without delay.
+> 2007, c. 5, s. 41.
+
 
 
 
@@ -274,9 +403,11 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Registration of information**
 
 **10** A person who registers information collected at a registration centre
-- **(a)** shall, subject to paragraph (b) and any regulations made under paragraph 19(3)(c), register without delay, in the database, only the information collected under sections 5 and 6;
-- **(b)** may register at any time, in the database, the number that identifies a record of fingerprints collected from a sex offender under the [Identification of Criminals Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-1.md), if such a record exists; and
+- **(a)** shall, subject to paragraph (b) and any regulations made under paragraph 19(3)(c), register without delay in the database only the information collected under sections 5 and 6, the date on which the sex offender reported or provided notification to the registration centre and the province of registration;
+- **(b)** may register at any time in the database the number that identifies a record of fingerprints collected from a sex offender under the [Identification of Criminals Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-1.md), if such a record exists; and
 - **(c)** shall ensure that the registration of the information is done in a manner and in circumstances that ensure its confidentiality.
+> 2004, c. 10, s. 10; 2007, c. 5, s. 42.
+
 
 
 
@@ -284,10 +415,12 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Copy of information**
 
 **11** A person who collects information at a registration centre shall, free of charge,
-- **(a)** either give a copy of the information collected under section 5, dated and signed by the person who collected it, to the sex offender when they report to the registration centre in person and provide information under this Act, or send it to the sex offender by mail or another means agreed to by the sex offender, without delay after it is collected, if they report in accordance with regulations made under paragraph 18(1)(a) or subsection 19(1);
+- **(a)** either give a copy of the information collected under section 5, dated and signed by the person who collected it, to the sex offender when they report to the registration centre in person and provide information under this Act, or send it to the sex offender by mail or another means agreed to by the sex offender, without delay after it is collected, if they report other than in person;
 - **(b)** send the sex offender a copy of the information collected under section 6, dated and signed by the person who collected it, by mail or another means agreed to by the sex offender, without delay after it is collected;
 - **(c)** send the sex offender a copy of all of the information relating to them that is registered in the database, by mail or another means agreed to by the sex offender, without delay once the information referred to in paragraph (a) is registered; and
 - **(d)** at the request of the sex offender, send them a copy of all of the information relating to them that is registered in the database, by mail or another means agreed to by the sex offender, without delay once the information referred to in paragraph (b) is registered.
+> 2004, c. 10, s. 11; 2007, c. 5, s. 43.
+
 
 
 
@@ -296,13 +429,19 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **12** 
 
-- **(1)** A sex offender or a person served with a notice under section 490.021 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) may, at any time, ask a person who collects information at the registration centre that serves the area in which their main residence is located to correct any information relating to them that is registered in the database that they believe contains an error or omission.
+- **(1)** Subject to subsection (2), a sex offender or a person served with a notice under section 490.021 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or section 227.08 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) may, at any time, ask a person who collects information at the registration centre referred to in section 7.1 to correct any information relating to them that is registered in the database and that they believe contains an error or omission.
+
+**Request for correction of information**
+
+- **(2)** The request shall be made to the Canadian Forces Provost Marshal if the information is registered in the database under section 8.2.
 
 **Correction or notation**
 
-- **(2)** The person who collects information shall, without delay, ensure that
+- **(3)** The person to whom the request is made shall, without delay, ensure that
 	- **(a)** information in the database is corrected if they are satisfied that the information contains an error or omission; or
 	- **(b)** a notation is attached to the information in the database that reflects any correction that is requested but not made.
+> 2004, c. 10, s. 12; 2007, c. 5, s. 44.
+
 
 
 
@@ -313,9 +452,17 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Authorization for research**
 
-**13** The Commissioner of the Royal Canadian Mounted Police may authorize a person to consult information that is registered in the database for research or statistical purposes if the Commissioner
-- **(a)** is satisfied that those purposes cannot reasonably be accomplished without consulting that information; and
-- **(b)** obtains from the person a written undertaking that no subsequent disclosure of that information will be made, or be allowed to be made, in a form that could reasonably be expected to identify any individual to whom it relates.
+**13** 
+
+- **(1)** The Commissioner of the Royal Canadian Mounted Police may authorize a person to consult information that is registered in the database, compare the information with other information or, by electronic means, combine the information with, or link it to, any other information contained in a computer system within the meaning of subsection 342.1(2) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), for research or statistical purposes.
+
+**Conditions**
+
+- **(2)** The Commissioner shall not provide the authorization unless the Commissioner
+	- **(a)** is satisfied that those purposes cannot reasonably be accomplished without consulting the information or without comparing or combining the information with, or linking it to, the other information, as the case may be; and
+	- **(b)** obtains from the person a written undertaking that no subsequent disclosure of the information or of any information resulting from the comparison or combination of the information with, or the linking of the information to, other information will be made, or be allowed to be made, in a form that could reasonably be expected to identify any individual to whom it relates.
+> 2004, c. 10, s. 13; 2007, c. 5, s. 45.
+
 
 
 
@@ -335,13 +482,18 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Permanent removal and destruction of information**
 
-- **(2)** Despite any other Act of Parliament, if a person who is subject to an order is finally acquitted of every offence in connection with which the order was made, or receives a free pardon granted under Her Majesty’s royal prerogative of mercy or section 748 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) for every such offence, all information that is collected under this Act or registered in the database in connection with that order shall be destroyed, or permanently removed from the database, in accordance with regulations made under paragraph 19(3)(d).
+- **(2)** Despite any other Act of Parliament, all information that is collected under this Act, or registered in the database, in connection with an order shall be destroyed and permanently removed from the database if
+	- **(a)** the person who is subject to the order is finally acquitted of every offence in connection with which the order was made or receives a free pardon granted under Her Majesty’s royal prerogative of mercy or under section 748 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) for every such offence; or
+	- **(b)** the sentence for every offence in connection with which the order was made ceases to have force and effect under subsection 249.11(2) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md).
 
 **Permanent removal and destruction of information**
 
-- **(3)** Despite any other Act of Parliament, all information that is collected under this Act, or registered in the database, in connection with an obligation under section 490.019 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) shall be destroyed, or permanently removed from the database, in accordance with regulations made under paragraph 19(3)(d) and with any court order made under subsection 490.023(4) or 490.024(2) of that Act, if the person who is subject to the obligation
-	- **(a)** is finally acquitted of every offence to which the obligation relates or receives a free pardon granted under Her Majesty’s royal prerogative of mercy or section 748 of that Act for every such offence; or
-	- **(b)** is granted an exemption order under subsection 490.023(2) of that Act or on an appeal from a decision made under that subsection.
+- **(3)** Despite any other Act of Parliament, all information that is collected under this Act, or registered in the database, in connection with an obligation under section 490.019 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or section 227.06 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) shall be destroyed and permanently removed from the database if
+	- **(a)** the person who is subject to the obligation is finally acquitted of every offence to which it relates or receives a free pardon granted under Her Majesty’s royal prerogative of mercy or under section 748 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) for every such offence;
+	- **(b)** the sentence for every offence to which the obligation relates ceases to have force and effect under subsection 249.11(2) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md); or
+	- **(c)** the person who is subject to the obligation is granted an exemption order under subsection 490.023(2) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or subsection 227.1(4) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) or on an appeal from a decision made under that subsection.
+> 2004, c. 10, s. 15; 2007, c. 5, s. 46.
+
 
 
 
@@ -360,32 +512,53 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(2)** No person shall consult any information that is collected under this Act or registered in the database, unless they are
 	- **(a)** a member or employee of, or a person retained by, a police service who consults the information for the purpose of investigating a specific crime that there are reasonable grounds to suspect is of a sexual nature;
-	- **(b)** a person who collects information at the registration centre at which a sex offender last reported who consults the information in order to ensure compliance by the sex offender with an order or orders or with section 490.019 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md);
-	- **(c)** a person who collects or registers information and who consults the information in order to exercise the functions or perform the duties assigned to them under this Act;
+	- **(b)** a person who collects information at a registration centre designated under this Act in the province in which a sex offender’s main residence is located who consults the information to verify compliance by the sex offender with an order or orders or with an obligation under section 490.019 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or section 227.06 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md);
+	- **(b.1)** a person who collects information at a registration centre designated under the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) who consults the information to verify compliance by a sex offender who is subject to the Code of Service Discipline, or who is an officer, or non-commissioned member, of the primary reserve as defined in section 227 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md), with an order or orders or with an obligation under section 490.019 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or section 227.06 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md);
+	- **(c)** a person who collects or registers information who consults the information in order to exercise the functions or perform the duties assigned to them under this Act;
 	- **(d)** a person who is authorized under section 13 to consult information that is registered in the database for research or statistical purposes and who does so for those purposes;
-	- **(e)** the Commissioner of the Royal Canadian Mounted Police or a person authorized by the Commissioner who consults information that is collected under this Act or registered in the database in order to perform the duties of the Commissioner under this Act; or
+	- **(e)** the Commissioner of the Royal Canadian Mounted Police or a person authorized by the Commissioner who consults information that is collected under this Act or registered in the database in order to perform the duties of the Commissioner under this Act, under subsection 490.03(1) or (2) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or under subsection 227.18(1) or 227.19(1) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md); or
 	- **(f)** a member or employee of, or a person retained by, the Royal Canadian Mounted Police who is authorized to consult the information in order to maintain the database and who does so for that purpose.
 
-**Limited data matching**
+**Unauthorized comparison of information**
 
-- **(3)** No person shall match any information that is collected under this Act or registered in the database with any other data unless
-	- **(a)** the person is a member or employee of, or a person retained by, a police service who matches the data for the purpose of investigating a specific crime that there are reasonable grounds to suspect is of a sexual nature, and the resulting matched data is used for the purpose of that investigation only; or
-	- **(b)** the person is authorized under section 13 to consult information that is registered in the database, and the resulting matched data is made anonymous.
+- **(3)** No person shall compare any information that is collected under this Act or registered in the database with any other information unless
+	- **(a)** they compare information that was consulted in accordance with paragraph (2)(a) with other information for the purpose of investigating a specific crime that there are reasonable grounds to suspect is of a sexual nature;
+	- **(b)** they compare information that was consulted in accordance with paragraph (2)(b) or (b.1) with other information to verify compliance by the sex offender with one or more orders or with an obligation under section 490.019 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or section 227.06 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md), or to investigate an offence under section 490.031 or 490.0311 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), an offence under either of those provisions that is punishable under section 130 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md), or an offence under section 119.1 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md); or
+	- **(c)** they compare the information in accordance with an authorization under section 13.
+
+**Unauthorized combination or linking of information**
+
+- **(3.1)** No person shall, by electronic means, combine any information that is collected under this Act or registered in the database with, or link it to, any other information contained in a computer system within the meaning of subsection 342.1(2) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) unless
+	- **(a)** they combine the information that is registered in the database with, or link it to, information contained in the sex offender registry established under the Ontario Act, for the purpose of registering information under section 8, 8.1 or 10; or
+	- **(b)** they combine or link information in accordance with an authorization under section 13.
 
 **Unauthorized disclosure**
 
 - **(4)** No person shall disclose any information that is collected under this Act or registered in the database or the fact that information relating to a person is collected under this Act or registered in the database, or allow it to be disclosed,
-	- **(a)** except to the sex offender, or the person who was served with a notice under section 490.019 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), to whom the information relates;
-	- **(b)** except to a person referred to in any of paragraphs (2)(a) to (f), if the disclosure to them is necessary to enable them to fulfil the purposes, perform the duties or exercise the functions referred to in that paragraph;
-	- **(c)** except to a member or employee of, or a person retained by, a police service, if the disclosure to them is necessary to ensure compliance by a sex offender with an order or orders or with section 490.019 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md);
-	- **(d)** except to a person or court referred to in any of paragraphs 490.03(1)(a) to (c) and (2)(a) to (c) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), in accordance with that paragraph;
-	- **(e)** except to a person to whom the disclosure is necessary for a prosecution for an offence under section 17 or under section 490.031 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or an appeal from a decision made in such a proceeding, and to a court in connection with the prosecution or appeal, if the information is relevant to that proceeding;
-	- **(f)** except to a person to whom the disclosure is necessary to assist an investigation of any act or omission referred to in subsection 7(4.1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) by a police service in the state where the act or omission was committed; or
-	- **(g)** unless the person is authorized under section 13 to consult information that is registered in the database, the information is disclosed for research or statistical purposes, and the disclosure is not made, or allowed to be made, in a form that could reasonably be expected to identify any individual to whom it relates.
+	- **(a)** unless the disclosure is to the sex offender, or the person served with a notice under section 490.021 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or section 227.08 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md), to whom the information relates;
+	- **(b)** unless the disclosure is expressly authorized under this Act, the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md);
+	- **(c)** unless the disclosure is to a member or an employee of, or a person retained by, a police service and is necessary
+		- **(i)** to enable them to investigate an offence under section 17 or to lay a charge for such an offence,
+		- **(ii)** to enable them to investigate a specific crime that there are reasonable grounds to suspect is of a sexual nature, an offence under section 119.1 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md), an offence under section 490.031 or 490.0311 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or an offence under either of those provisions that is punishable under section 130 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md), or to lay a charge for such an offence, or
+		- **(iii)** to enable them to investigate a criminal offence or a service offence within the meaning of subsection 2(1) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) or to lay a charge for such an offence, as long as the investigation or charge results from an investigation referred to in subparagraph (ii);
+	- **(d)** unless the disclosure is to a prosecutor and is necessary to enable the prosecutor to determine whether a charge for an offence resulting from an investigation referred to in paragraph (c) should be laid;
+	- **(e)** unless the disclosure is to a person who is responsible under the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) for laying, referring or preferring a charge for a service offence and to a person who provides legal advice with respect to the charge, and the disclosure is necessary to enable them to determine whether a charge for a service offence resulting from an investigation referred to in paragraph (c) should be laid, referred or preferred;
+	- **(f)** unless the disclosure is to a prosecutor, judge or justice in a proceeding relating to an application for a search warrant in connection with an investigation referred to in paragraph (c), and the information is relevant to the application;
+	- **(g)** unless the disclosure is to a person who is authorized under the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) to issue a search warrant in connection with the investigation of a service offence and to a person who provides legal advice with respect to the issuance of the search warrant, and the information is relevant to an application for a search warrant in connection with an investigation referred to in paragraph (c);
+	- **(h)** unless the information disclosed is relevant to the proceeding, appeal or review and the disclosure is
+		- **(i)** to a prosecutor in connection with a proceeding that results from an investigation referred to in paragraph (c) and that is before a court of criminal jurisdiction or superior court of criminal jurisdiction within the meaning of section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) or a service tribunal within the meaning of subsection 2(1) of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md),
+		- **(ii)** to the Attorney General within the meaning of section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), or the Minister of National Defence or counsel instructed by the Minister, in connection with an appeal of a decision made in such a proceeding,
+		- **(iii)** to the court or service tribunal presiding over the proceeding or appeal and, in the case of a summary trial under the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md), to a person who provides legal advice to the presiding officer, or
+		- **(iv)** to a review authority under section 249 of the [National Defence Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-5.md) and to a person who provides legal advice to the review authority in connection with its review of a finding of guilty made or punishment imposed in the proceeding or appeal;
+	- **(i)** unless the disclosure to the person is necessary to assist an investigation of any act or omission referred to in subsection 7(4.1) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) by a police service in the state where the act or omission was committed;
+	- **(j)** unless the disclosure is to an employee of, or a person retained by, a person referred to in any of paragraphs (d) to (i) who is authorized by that person to receive information disclosed under that paragraph on their behalf; or
+	- **(k)** unless the disclosure is by a person who is authorized under section 13 to consult information that is registered in the database or to compare or combine that information with, or link it to, other information, the disclosure is for research or statistical purposes and it is not made, or allowed to be made, in a form that could reasonably be expected to identify any individual to whom it relates.
 
 **Unauthorized use**
 
-- **(5)** No person shall use any information that is collected under this Act or registered in the database, or allow it to be used, for a purpose other than those referred to in paragraphs (2)(a) to (f) and (4)(c) to (g).
+- **(5)** No person shall use any information that is collected under this Act or registered in the database, or allow it to be used, for a purpose other than that for which it is consulted, compared, combined, linked or disclosed, as the case may be, under this section.
+> 2004, c. 10, s. 16; 2007, c. 5, s. 47.
+
 
 
 
@@ -396,17 +569,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Offence**
 
-**17** 
+**17** Every person who knowingly contravenes any of subsections 16(1) to (5) is guilty of an offence and liable on summary conviction to a fine of not more than $10,000 or to imprisonment for a term of not more than six months, or to both.
+> 2004, c. 10, s. 17; 2007, c. 5, s. 48.
 
-- **(1)** Every person who knowingly provides false or misleading information under subsection 5(1) or 6(1) is guilty of an offence and liable
-	- **(a)** in the case of a first offence, on summary conviction, to a fine of not more than $10,000 or to imprisonment for a term of not more than six months, or to both; and
-	- **(b)** in the case of a second or subsequent offence,
-		- **(i)** on conviction on indictment, to a fine of not more than $10,000 or to imprisonment for a term of not more than two years, or to both, or
-		- **(ii)** on summary conviction, to a fine of not more than $10,000 or to imprisonment for a term of not more than six months, or to both.
-
-**Offence**
-
-- **(2)** Every person who knowingly contravenes any of subsections 16(1) to (5) is guilty of an offence and liable on summary conviction to a fine of not more than $10,000 or to imprisonment for a term of not more than six months, or to both.
 
 
 
@@ -420,7 +585,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **18** 
 
 - **(1)** The lieutenant governor in council of a province may, for the purposes of this Act, make regulations
-	- **(a)** respecting the means by which classes of persons designated by the lieutenant governor in council of the province are required to report under section 4.1 or 4.3 or provide notification under section 6;
+	- **(a)** respecting the means by which designated classes of persons may report under section 4.1 or 4.3, or provide notification under section 6, to registration centres designated under paragraph (d);
 	- **(b)** authorizing persons or classes of persons in the province to collect information;
 	- **(c)** authorizing persons or classes of persons in the province to register information; and
 	- **(d)** designating places or classes of places in the province as registration centres, and the area of the province served by each registration centre.
@@ -432,6 +597,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Regulations cease to apply**
 
 - **(3)** A regulation made with respect to a matter by the lieutenant governor in council of a province under subsection (2) ceases to apply if the Governor in Council makes a regulation with respect to that matter that applies in the province.
+> 2004, c. 10, s. 18; 2007, c. 5, s. 49.
+
 
 
 
