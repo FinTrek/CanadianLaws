@@ -12,12 +12,7 @@
 
 
 
-
-## Hazardous Materials Information Review Act
-
-
-
-### Short Title
+## Short Title
 
 
 
@@ -28,7 +23,7 @@
 
 
 
-### Interpretation
+## Interpretation
 
 
 
@@ -79,7 +74,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation;
 
 
 
-### Review of Confidential Business Information
+## Review of Confidential Business Information
 
 
 
@@ -107,12 +102,16 @@ may, if the employer considers such information to be confidential business info
 
 **Contents of claim**
 
-- **(4)** A claim for exemption shall contain the information in respect of which the exemption is claimed and such other information as is prescribed and shall be accompanied by the material safety data sheet or label to which it relates.
+- **(4)** A claim for exemption shall be accompanied by the material safety data sheet or label to which the claim relates and shall contain
+	- **(a)** the information in respect of which the exemption is claimed;
+	- **(b)** a declaration stating that the claimant believes that the information in respect of which the exemption is claimed is confidential business information that meets the criteria prescribed under paragraph 48(1)(a) and that information substantiating the claim — as specified in the regulations — is in the possession of, or is available to, the claimant and will be provided on request;
+	- **(c)** a summary of the information substantiating the claim; and
+	- **(d)** any other prescribed information.
 
 **Restriction**
 
 - **(5)** Where a supplier or an employer files a claim for exemption in accordance with this section and the final disposition of the proceedings in relation to the claim is that the claim or a portion of the claim is not valid, the supplier or employer, as the case may be, is not entitled to file any other claim for exemption in relation to the information in respect of which the claim or portion of the claim was determined to be invalid.
-> R.S., 1985, c. 24 (3rd Supp.), s. 11; 1992, c. 1, s. 144(F); 2001, c. 34, s. 49(F).
+> R.S., 1985, c. 24 (3rd Supp.), s. 11; 1992, c. 1, s. 144(F); 2001, c. 34, s. 49(F); 2007, c. 7, s. 1.
 
 
 
@@ -147,10 +146,17 @@ may, if the employer considers such information to be confidential business info
 	- **(a)** decide whether, having regard to the criteria prescribed pursuant to paragraph 48(1)(a), the claim or any portion of the claim is valid; and
 	- **(b)** decide whether the material safety data sheet or label to which the claim relates, except to the extent that it does not disclose the information in respect of which the claim is made, complies with the provisions of the [Hazardous Products Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-3.md) or the provisions of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md), as the case may be.
 
+**Substantiating information**
+
+- **(1.1)** The screening officer may, for the purpose of determining the matter referred to in paragraph (1)(a), ask the claimant to provide the information substantiating the claim for exemption in the following circumstances:
+	- **(a)** an affected party has made written representations with respect to the claim;
+	- **(b)** the information contained in the summary referred to in paragraph 11(4)(c) is to be verified; or
+	- **(c)** any other prescribed circumstances.
+
 **Consultation**
 
 - **(2)** A screening officer may consult officials of the Department of Health for the purpose of determining whether a material safety data sheet or label complies with the provisions of the [Hazardous Products Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-3.md) or the provisions of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md).
-> R.S., 1985, c. 24 (3rd Supp.), s. 13; 1996, c. 8, s. 34.
+> R.S., 1985, c. 24 (3rd Supp.), s. 13; 1996, c. 8, s. 34; 2007, c. 7, s. 2.
 
 
 
@@ -205,11 +211,34 @@ may, if the employer considers such information to be confidential business info
 
 
 
+**Undertaking**
+
+**16.1** 
+
+- **(1)** If a screening officer determines under paragraph 13(1)(b) that a material safety data sheet or label to which a claim for exemption relates does not comply with the provisions of the [Hazardous Products Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-3.md) or the provisions of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md), as the case may be, the screening officer may send an undertaking to the claimant setting out the measures that are required to be taken for the purpose of ensuring compliance with those provisions, except to the extent that they would require the claimant to disclose the information in respect of which the claim is made, in the manner and within the period specified in the undertaking.
+
+**Agreement by claimant**
+
+- **(2)** If the claimant agrees with the measures set out in the undertaking, the claimant shall sign the undertaking and return it to the screening officer together with the amended material safety data sheet or label.
+
+**Notice**
+
+- **(3)** On receipt of the signed undertaking, if the screening officer is satisfied, after reviewing the material safety data sheet or label, that the claimant has taken the measures set out in the undertaking in the manner and within the period specified in it, the screening officer shall send a notice to the claimant confirming their compliance with the undertaking.
+
+**Deemed compliance**
+
+- **(4)** A claimant to whom the notice is sent is, for the purposes of the provisions of the [Hazardous Products Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-3.md) or the provisions of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md), as the case may be, deemed to have complied with those provisions.
+> 2007, c. 7, s. 3.
+
+
+
+
+
 **Order re material safety data sheet**
 
 **17** 
 
-- **(1)** Where under paragraph 13(1)(b) a screening officer determines that a material safety data sheet or label to which a claim for exemption relates does not comply with the provisions of the [Hazardous Products Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-3.md) or the provisions of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md), as the case may be, the screening officer shall order the claimant to comply with those provisions, except to the extent that they would require the claimant to disclose the information in respect of which the claim is made, in the manner and within the period specified in the order.
+- **(1)** If the screening officer does not receive the signed undertaking, or is not satisfied that the claimant has taken the measures set out in the undertaking in the manner and within the period specified in it, the screening officer shall order the claimant to comply with the provisions of the [Hazardous Products Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-3.md) or the provisions of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md), as the case may be, except to the extent that they would require the claimant to disclose the information in respect of which the claim is made, in the manner and within the period specified in the order.
 
 **No retrospective effect**
 
@@ -222,6 +251,8 @@ may, if the employer considers such information to be confidential business info
 **Deemed compliance**
 
 - **(4)** Every claimant who complies with an order under subsection (1) in the manner and within the period specified in the order shall, for the purposes of the provisions of the [Hazardous Products Act](/en/Acts/Revised%20Statutes%20of%20Canada/H/H-3.md) or the provisions of the [Canada Labour Code](/en/Acts/Revised%20Statutes%20of%20Canada/L/L-2.md), as the case may be, be deemed to have complied with those provisions.
+> R.S., 1985, c. 24 (3rd Supp.), s. 17; 2007, c. 7, s. 4.
+
 
 
 
@@ -231,21 +262,27 @@ may, if the employer considers such information to be confidential business info
 **18** 
 
 - **(1)** The Chief Screening Officer shall cause to be published in the Canada Gazette
-	- **(a)** a notice containing prescribed information on each decision made under section 15, and order made under section 16 or 17, by a screening officer; and
-	- **(b)** a notice containing any information that, in the opinion of a screening officer, should have been disclosed on any material safety data sheet or label reviewed by the screening officer.
+	- **(a)** in respect of each decision made under section 15 and each order made under section 16 or 17
+		- **(i)** a notice containing prescribed information, and
+		- **(ii)** a notice containing any information that, in the opinion of a screening officer, should have been disclosed on any material safety data sheet or label reviewed by the screening officer; and
+	- **(b)** in respect of each undertaking for which a notice has been sent under subsection 16.1(3)
+		- **(i)** a notice containing prescribed information, and
+		- **(ii)** a notice containing any information that has been disclosed on any material safety data sheet or label in compliance with the undertaking.
 
 **Copies**
 
-- **(2)** The Chief Screening Officer shall make copies of any notice published in the Canada Gazette under paragraph (1)(a) or (b) available to any person on request in writing.
+- **(2)** The Chief Screening Officer shall make copies of any notice published in the Canada Gazette under subsection (1) available to any person on request in writing.
 
 **Restriction**
 
 - **(3)** No notice referred to in subsection (1) shall disclose any information in respect of which a claim for exemption has been made.
+> R.S., 1985, c. 24 (3rd Supp.), s. 18; 2007, c. 7, s. 5.
 
 
 
 
-### Exemption
+
+## Exemption
 
 
 
@@ -266,7 +303,7 @@ may, if the employer considers such information to be confidential business info
 
 
 
-### Appeals
+## Appeals
 
 
 
@@ -274,7 +311,11 @@ may, if the employer considers such information to be confidential business info
 
 **20** 
 
-- **(1)** A claimant or any affected party may, within such period as may be prescribed, appeal any decision or order of a screening officer made under section 15, 16 or 17 by filing with the Chief Appeals Officer a statement of appeal setting out the grounds on which the appeal is made and any submissions in respect thereof.
+- **(1)** A claimant or an affected party may appeal any decision or order made under section 15, 16 or 17, and an affected party may also appeal any undertaking in respect of which a notice has been published in the Canada Gazette.
+
+**Procedure on appeal**
+
+- **(1.1)** An appeal shall be brought by filing with the Chief Appeals Officer, within the prescribed period, a statement of appeal setting out the grounds on which the appeal is made and any submissions in support of the appeal.
 
 **Manner of filing appeal and fee payable**
 
@@ -283,6 +324,8 @@ may, if the employer considers such information to be confidential business info
 **Stay of order**
 
 - **(3)** An appeal instituted pursuant to subsection (1) in relation to an order of a screening officer made under section 16 or 17 shall stay the operation of the order.
+> R.S., 1985, c. 24 (3rd Supp.), s. 20; 2007, c. 7, s. 6.
+
 
 
 
@@ -310,17 +353,32 @@ may, if the employer considers such information to be confidential business info
 - **(1)** An appeal board shall hear an appeal
 	- **(a)** in accordance with the prescribed procedures;
 	- **(b)** on the basis of
-		- **(i)** the record of the screening officer whose decision or order is being appealed,
-		- **(ii)** the statement of appeal, and
-		- **(iii)** any submissions made to the appeal board by the claimant or by any affected party; and
+		- **(i)** the record of the screening officer in respect of the decision, order or undertaking being appealed,
+		- **(ii)** the statement of appeal,
+		- **(iii)** any submissions made to the appeal board by the claimant or by any affected party, and
+		- **(iv)** any clarifications made by the Commission, in accordance with the regulations, in respect of the record referred to in subparagraph (i); and
 	- **(c)** where appropriate, having regard to the criteria prescribed pursuant to paragraph 48(1)(a).
 
-**Disposition of appeal**
+**Disposition of an appeal of a decision or order**
 
-- **(2)** An appeal board may dispose of an appeal by
+- **(2)** An appeal board may dispose of an appeal of a decision or an order by
 	- **(a)** dismissing the appeal and confirming the decision or order of the screening officer; or
 	- **(b)** allowing the appeal and either varying or rescinding the decision or order being appealed.
-> R.S., 1985, c. 24 (3rd Supp.), s. 23; 2001, c. 34, s. 51(F).
+
+**Disposition of appeal of an undertaking**
+
+- **(3)** An appeal board may dispose of an appeal of an undertaking by
+	- **(a)** dismissing the appeal; or
+	- **(b)** allowing the appeal and making any order that the appeal board considers appropriate.
+
+**No retrospective effect**
+
+- **(4)** No order made under paragraph (3)(b) shall have retrospective effect.
+
+**Compliance with order**
+
+- **(5)** A claimant to whom an order under paragraph (3)(b) is directed shall comply with the order in the manner and within the period specified in the order.
+> R.S., 1985, c. 24 (3rd Supp.), s. 23; 2001, c. 34, s. 51(F); 2007, c. 7, s. 7.
 
 
 
@@ -390,7 +448,7 @@ may, if the employer considers such information to be confidential business info
 
 
 
-### Commission Established
+## Commission Established
 
 
 
@@ -426,7 +484,7 @@ may, if the employer considers such information to be confidential business info
 
 
 
-### Chairman
+## Chairman
 
 
 
@@ -464,7 +522,7 @@ may, if the employer considers such information to be confidential business info
 
 
 
-### Objects of Council
+## Objects of Council
 
 
 
@@ -477,7 +535,7 @@ may, if the employer considers such information to be confidential business info
 
 
 
-### Powers and Functions
+## Powers and Functions
 
 
 
@@ -488,7 +546,7 @@ may, if the employer considers such information to be confidential business info
 
 
 
-### Head Office and Meetings
+## Head Office and Meetings
 
 
 
@@ -506,7 +564,7 @@ may, if the employer considers such information to be confidential business info
 
 
 
-### President
+## President
 
 
 
@@ -565,7 +623,7 @@ may, if the employer considers such information to be confidential business info
 
 
 
-### Staff
+## Staff
 
 
 
@@ -576,7 +634,7 @@ may, if the employer considers such information to be confidential business info
 
 
 
-### Superannuation
+## Superannuation
 
 
 
@@ -595,7 +653,7 @@ may, if the employer considers such information to be confidential business info
 
 
 
-### Organization
+## Organization
 
 
 
@@ -638,7 +696,7 @@ may, if the employer considers such information to be confidential business info
 
 
 
-### Appeal Boards
+## Appeal Boards
 
 
 
@@ -686,7 +744,7 @@ may, if the employer considers such information to be confidential business info
 
 
 
-### Annual Report
+## Annual Report
 
 
 
@@ -707,7 +765,7 @@ may, if the employer considers such information to be confidential business info
 
 
 
-### Confidentiality of Information
+## Confidentiality of Information
 
 
 
@@ -748,7 +806,7 @@ except for the purposes of the administration or enforcement of this Part.
 
 
 
-### Rules
+## Rules
 
 
 
@@ -762,7 +820,7 @@ except for the purposes of the administration or enforcement of this Part.
 
 
 
-### Regulations
+## Regulations
 
 
 
@@ -773,6 +831,8 @@ except for the purposes of the administration or enforcement of this Part.
 - **(1)** The Governor in Council may, on the recommendation of the Minister, after consultation by the Minister with the government of each province and such organizations representative of workers, organizations representative of employers and organizations representative of suppliers as the Minister deems appropriate, make regulations
 	- **(a)** prescribing the criteria to be applied for the purpose of determining whether a claim for exemption is valid;
 	- **(b)** prescribing the procedure to be followed by a screening officer in reviewing a claim for exemption;
+	- **(b.1)** specifying the information that is required for the purpose of substantiating a claim for an exemption;
+	- **(b.2)** respecting the participation of the Commission in an appeal heard before an appeal board;
 	- **(c)** prescribing the procedure to be followed by an appeal board in the hearing of an appeal;
 	- **(d)** defining the expression “affected party” for the purposes of this Part or of any provision thereof;
 	- **(e)** prescribing any other matter or thing, other than a fee or the manner of calculating a fee, that by this Part is to be or may be prescribed; and
@@ -781,11 +841,13 @@ except for the purposes of the administration or enforcement of this Part.
 **Regulations prescribing fees**
 
 - **(2)** The Governor in Council may, on the recommendation of the Minister, after consultation by the Minister with the council, make regulations prescribing fees or the manner of calculating fees to be paid under this Part.
+> R.S., 1985, c. 24 (3rd Supp.), s. 48; 2007, c. 7, s. 8.
 
 
 
 
-### Offence and Punishment
+
+## Offence and Punishment
 
 
 
@@ -808,7 +870,7 @@ except for the purposes of the administration or enforcement of this Part.
 
 
 
-### Liability
+## Liability
 
 
 
