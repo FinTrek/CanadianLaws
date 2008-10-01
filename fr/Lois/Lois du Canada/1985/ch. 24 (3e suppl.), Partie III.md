@@ -12,12 +12,7 @@
 
 
 
-
-## Loi sur le contrôle des renseignements relatifs aux matières dangereuses
-
-
-
-### Titre abrégé
+## Titre abrégé
 
 
 
@@ -28,7 +23,7 @@
 
 
 
-### Définitions
+## Définitions
 
 
 
@@ -77,7 +72,7 @@
 
 
 
-### Contrôle des renseignements confidentiels
+## Contrôle des renseignements confidentiels
 
 
 
@@ -101,14 +96,18 @@
 
 - **(3)** La demande de dérogation est présentée selon les modalités réglementaires et est accompagnée du droit prévu par règlement ou fixé de la manière réglementaire.
 
-**Renseignements et documents**
+**Contenu de la demande**
 
-- **(4)** La demande de dérogation contient les renseignements à l’égard desquels elle est présentée et les autres renseignements prévus par règlement et est accompagnée de la fiche signalétique ou de l’étiquette qu’elle met en cause.
+- **(4)** La demande de dérogation est accompagnée de la fiche signalétique ou de l’étiquette en cause et contient :
+	- **a)** les renseignements à l’égard desquels elle est présentée;
+	- **b)** une déclaration du demandeur indiquant qu’il croit que les renseignements à l’égard desquels elle est présentée sont des renseignements confidentiels satisfaisant aux critères réglementaires établis en application de l’alinéa 48(1)a) et qu’il a à sa disposition les renseignements réglementaires pour la justifier qu’il fournira sur demande;
+	- **c)** un sommaire des renseignements la justifiant;
+	- **d)** tout autre renseignement prévu par règlement.
 
 **Limitation**
 
 - **(5)** Le fournisseur ou l’employeur auteur d’une demande de dérogation conformément au présent article qui est définitivement jugée non fondée en tout ou en partie n’a pas le droit de présenter une autre demande de dérogation à l’égard des renseignements pour lesquels le tout ou la partie de la demande a été jugée non fondée.
-> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 11; 1992, ch. 1, art. 144(F); 2001, ch. 34, art. 49(F).
+> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 11; 1992, ch. 1, art. 144(F); 2001, ch. 34, art. 49(F); 2007, ch. 7, art. 1.
 
 
 
@@ -143,10 +142,17 @@
 	- **a)** décide si, sur la base des critères réglementaires établis en application de l’alinéa 48(1)a), la demande est fondée en tout ou en partie;
 	- **b)** décide si la fiche signalétique ou l’étiquette visée par la demande est conforme, sauf dans la mesure où elle ne divulgue pas les renseignements visés par la demande, aux exigences de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md) ou du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md), selon le cas.
 
+**Renseignements justificatifs**
+
+- **(1.1)** Pour décider de la question visée à l’alinéa (1)a), l’agent de contrôle peut exiger du demandeur la fourniture des renseignements justifiant la demande de dérogation dans les cas suivants :
+	- **a)** une partie touchée a présenté des observations écrites relativement à la demande;
+	- **b)** les renseignements contenus dans le sommaire visé à l’alinéa 11(4)c) doivent faire l’objet d’une vérification;
+	- **c)** en toute autre circonstance prévue par règlement.
+
 **Consultation**
 
 - **(2)** L’agent de contrôle peut consulter les fonctionnaires du ministère de la Santé afin de déterminer si la fiche signalétique ou l’étiquette est conforme aux dispositions de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md) ou à celles du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md).
-> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 13; 1996, ch. 8, art. 34.
+> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 13; 1996, ch. 8, art. 34; 2007, ch. 7, art. 2.
 
 
 
@@ -201,11 +207,34 @@
 
 
 
-**Fiche signalétique**
+**Engagement**
+
+**16.1** 
+
+- **(1)** S’il juge, en vertu de l’alinéa 13(1)b), que la fiche signalétique ou l’étiquette visée par la demande de dérogation n’est pas conforme aux dispositions de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md) ou à celles du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md), selon le cas, l’agent de contrôle peut faire parvenir au demandeur un engagement énonçant les mesures à prendre pour assurer l’observation de ces dispositions — sauf dans la mesure où celles-ci obligeraient le demandeur à divulguer les renseignements visés par la demande — selon les modalités de forme et de temps précisées par l’engagement.
+
+**Accord du demandeur**
+
+- **(2)** Si le demandeur est d’accord avec les mesures proposées, il signe l’engagement et le renvoie à l’agent de contrôle avec la fiche signalétique ou l’étiquette modifiée.
+
+**Avis**
+
+- **(3)** Sur réception de l’engagement signé par le demandeur et s’il est convaincu, après avoir étudié la fiche signalétique ou l’étiquette, que celui-ci a respecté l’engagement, l’agent de contrôle fait parvenir au demandeur un avis confirmant l’exécution de l’engagement.
+
+**Effet de l’avis**
+
+- **(4)** Le demandeur à qui est envoyé l’avis est réputé, pour l’application des dispositions de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md) ou de celles du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md), selon le cas, s’être conformé à ces dispositions.
+> 2007, ch. 7, art. 3.
+
+
+
+
+
+**Ordre**
 
 **17** 
 
-- **(1)** L’agent de contrôle qui juge, en vertu de l’alinéa 13(1)b), qu’une fiche signalétique ou une étiquette visée par une demande de dérogation n’est pas conforme aux dispositions de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md) ou à celles du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md), selon le cas, peut ordonner au demandeur de s’y conformer, sauf dans la mesure où elles obligeraient le demandeur à divulguer les renseignements visés par la demande, selon les modalités de forme et de temps précisées par l’ordre.
+- **(1)** S’il ne reçoit pas l’engagement signé ou n’est pas convaincu que le demandeur l’a respecté, l’agent de contrôle lui ordonne de se conformer aux dispositions de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md) ou à celles du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md), selon le cas, sauf dans la mesure où elles obligeraient le demandeur à divulguer les renseignements visés par la demande, selon les modalités de forme et de temps précisées par l’ordre.
 
 **Absence de rétrospectivité**
 
@@ -218,6 +247,8 @@
 **Observation présumée**
 
 - **(4)** Le demandeur qui se conforme à l’ordre donné en vertu du paragraphe (1), selon ses modalités, est réputé, pour l’application des dispositions de la [Loi sur les produits dangereux](/fr/Lois/Lois%20révisées%20du%20Canada/H/H-3.md) ou de celles du [Code canadien du travail](/fr/Lois/Lois%20révisées%20du%20Canada/L/L-2.md), selon le cas, s’être conformé à ces dispositions.
+> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 17; 2007, ch. 7, art. 4.
+
 
 
 
@@ -226,22 +257,28 @@
 
 **18** 
 
-- **(1)** Le directeur de la Section de contrôle fait publier dans la Gazette du Canada :
-	- **a)** un avis contenant les renseignements réglementaires concernant chaque décision rendue par l’agent de contrôle en vertu de l’article 15 ou ordre donné par celui-ci en vertu des articles 16 ou 17;
-	- **b)** un avis contenant les renseignements qui, de l’avis de l’agent de contrôle, auraient dû être divulgués sur une fiche signalétique ou une étiquette qui lui est soumise.
+- **(1)** Le directeur de la Section de contrôle fait publier dans la Gazette du Canada :
+	- **a)** pour chaque décision rendue en vertu de l’article 15 et chaque ordre donné en vertu des articles 16 ou 17 :
+		- **(i)** un avis contenant les renseignements réglementaires,
+		- **(ii)** un avis contenant les renseignements qui, de l’avis de l’agent de contrôle, auraient dû être divulgués sur la fiche signalétique ou l’étiquette qui lui a été soumise;
+	- **b)** pour chaque engagement à l’égard duquel un avis a été envoyé en vertu du paragraphe 16.1(3) :
+		- **(i)** un avis contenant les renseignements réglementaires,
+		- **(ii)** un avis contenant les renseignements qui ont été divulgués sur la fiche signalétique ou l’étiquette en exécution de l’engagement.
 
 **Exemplaires**
 
-- **(2)** Le directeur de la Section de contrôle met des exemplaires d’un avis publié en vertu des alinéas (1)a) ou b) à la disposition de quiconque en fait la demande par écrit.
+- **(2)** Le directeur de la Section de contrôle met des exemplaires de tout avis publié en vertu du paragraphe (1) à la disposition de quiconque en fait la demande par écrit.
 
 **Limitation**
 
 - **(3)** L’avis prévu au paragraphe (1) ne peut divulguer des renseignements faisant l’objet d’une demande de dérogation.
+> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 18; 2007, ch. 7, art. 5.
 
 
 
 
-### Dérogation
+
+## Dérogation
 
 
 
@@ -262,7 +299,7 @@
 
 
 
-### Appels
+## Appels
 
 
 
@@ -270,7 +307,11 @@
 
 **20** 
 
-- **(1)** Le demandeur ou une partie touchée peut, dans le délai réglementaire, en appeler d’une décision de l’agent de contrôle rendue en vertu de l’article 15 ou d’un ordre donné par celui-ci en vertu des articles 16 ou 17 par dépôt auprès du directeur de la Section d’appel d’une déclaration d’appel énonçant les motifs de l’appel et les représentations à l’appui de celui-ci.
+- **(1)** Le demandeur ou une partie touchée peut appeler de toute décision rendue en vertu de l’article 15 ou de tout ordre donné en vertu des articles 16 ou 17, la partie touchée pouvant en outre appeler de l’engagement à l’égard duquel un avis a été publié dans la Gazette du Canada.
+
+**Procédure en appel**
+
+- **(1.1)** L’appel est formé par le dépôt auprès du directeur de la Section d’appel, dans le délai réglementaire, d’une déclaration d’appel motivée, accompagnée d’observations le cas échéant.
 
 **Modalités de l’appel**
 
@@ -279,6 +320,8 @@
 **Suspension de la décision**
 
 - **(3)** Le pourvoi en appel d’un ordre de l’agent de contrôle donné en vertu des articles 16 ou 17 a pour effet de suspendre l’application de l’ordre dont appel.
+> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 20; 2007, ch. 7, art. 6.
+
 
 
 
@@ -306,17 +349,32 @@
 - **(1)** La commission d’appel est saisie d’un appel :
 	- **a)** conformément à la procédure réglementaire;
 	- **b)** sur la base, à la fois :
-		- **(i)** du dossier de l’agent de contrôle dont la décision ou l’ordre est frappé d’appel,
+		- **(i)** du dossier de l’agent de contrôle afférent à la décision, l’ordre ou l’engagement frappé d’appel,
 		- **(ii)** de la déclaration d’appel,
-		- **(iii)** des observations qui lui sont présentées par le demandeur ou une partie touchée;
+		- **(iii)** des observations qui lui sont présentées par le demandeur ou une partie touchée,
+		- **(iv)** des éclaircissements fournis par le Conseil, conformément aux règlements, à l’égard du dossier visé au sous-alinéa (i);
 	- **c)** d’une décision mettant en cause un critère réglementaire prévu à l’alinéa 48(1)a).
 
-**Décision**
+**Appel formé contre une décision ou un ordre**
 
-- **(2)** La commission peut statuer sur l’appel :
+- **(2)** La commission d’appel peut statuer sur l’appel formé contre une décision ou un ordre :
 	- **a)** soit par rejet de celui-ci et ratification de la décision ou de l’ordre de l’agent de contrôle;
 	- **b)** soit en l’accueillant et en modifiant ou en annulant la décision dont appel.
-> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 23; 2001, ch. 34, art. 51(F).
+
+**Appel formé contre un engagement**
+
+- **(3)** La commission d’appel peut statuer sur l’appel formé contre un engagement :
+	- **a)** soit en le rejetant;
+	- **b)** soit en l’accueillant et en ordonnant toute mesure qu’elle juge indiquée.
+
+**Absence de rétrospectivité**
+
+- **(4)** Les ordres donnés en vertu de l’alinéa (3)b) ne peuvent avoir d’effet rétrospectif.
+
+**Observation de l’ordre**
+
+- **(5)** Le demandeur visé par un ordre prévu à l’alinéa (3)b) est tenu de s’y conformer selon les modalités de forme et de temps qui y sont précisées.
+> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 23; 2001, ch. 34, art. 51(F); 2007, ch. 7, art. 7.
 
 
 
@@ -386,7 +444,7 @@
 
 
 
-### Constitution du Conseil
+## Constitution du conseil
 
 
 
@@ -422,7 +480,7 @@
 
 
 
-### Président
+## Président
 
 
 
@@ -460,7 +518,7 @@
 
 
 
-### Mission du bureau de direction
+## Mission du bureau de direction
 
 
 
@@ -473,7 +531,7 @@
 
 
 
-### Pouvoirs et fonctions
+## Pouvoirs et fonctions
 
 
 
@@ -484,7 +542,7 @@
 
 
 
-### Siège et réunions
+## Siège et réunions
 
 
 
@@ -502,7 +560,7 @@
 
 
 
-### Directeur général
+## Directeur général
 
 
 
@@ -561,7 +619,7 @@
 
 
 
-### Personnel
+## Personnel
 
 
 
@@ -572,7 +630,7 @@
 
 
 
-### Pensions
+## Pensions
 
 
 
@@ -591,7 +649,7 @@
 
 
 
-### Structure
+## Structure
 
 
 
@@ -634,7 +692,7 @@
 
 
 
-### Commissions d’appel
+## Commissions d’appel
 
 
 
@@ -682,7 +740,7 @@
 
 
 
-### Rapport annuel
+## Rapport annuel
 
 
 
@@ -703,7 +761,7 @@
 
 
 
-### Renseignements confidentiels
+## Renseignements confidentiels
 
 
 
@@ -744,7 +802,7 @@ sauf pour l’exécution ou le contrôle d’application de la présente partie.
 
 
 
-### Règles
+## Règles
 
 
 
@@ -758,7 +816,7 @@ sauf pour l’exécution ou le contrôle d’application de la présente partie.
 
 
 
-### Règlements
+## Règlements
 
 
 
@@ -769,6 +827,8 @@ sauf pour l’exécution ou le contrôle d’application de la présente partie.
 - **(1)** Le gouverneur en conseil peut, sur recommandation du ministre, après consultation par celui-ci du gouvernement de chaque province ainsi que des organismes de représentation des travailleurs, des employeurs et des fournisseurs que le ministre estime indiqués, par règlement :
 	- **a)** fixer les critères d’appréciation de la validité des demandes de dérogation;
 	- **b)** fixer la procédure d’étude des demandes de dérogation par l’agent de contrôle;
+	- **b.1)** préciser les renseignements à fournir pour justifier les demandes de dérogation;
+	- **b.2)** régir la participation du Conseil aux appels entendus par une commission d’appel;
 	- **c)** fixer la procédure d’audition d’un appel par une commission d’appel;
 	- **d)** définir l’expression « partie touchée » pour l’application de la présente partie ou de l’une de ses dispositions;
 	- **e)** prendre toute autre mesure réglementaire prévue par la présente partie, à l’exclusion de la détermination d’un droit ou de la manière de le calculer;
@@ -777,11 +837,13 @@ sauf pour l’exécution ou le contrôle d’application de la présente partie.
 **Règlements sur les droits applicables**
 
 - **(2)** Le gouverneur en conseil peut, sur recommandation du ministre, après consultation par celui-ci du bureau de direction, par règlement, fixer les droits applicables en vertu de la présente partie ou la manière de les calculer.
+> L.R. (1985), ch. 24 (3<sup>e</sup> suppl.), art. 48; 2007, ch. 7, art. 8.
 
 
 
 
-### Infractions et peines
+
+## Infractions et peines
 
 
 
@@ -804,7 +866,7 @@ sauf pour l’exécution ou le contrôle d’application de la présente partie.
 
 
 
-### Responsabilité
+## Responsabilité
 
 
 
