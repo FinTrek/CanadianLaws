@@ -54,28 +54,28 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 **2** The following definitions apply in this Act.
 
-***asset*** means tangible property.
+***asset*** means tangible property. (*élément d’actif*)
 
-***claimant*** means a First Nation whose specific claim has been filed with the Tribunal.
+***claimant*** means a First Nation whose specific claim has been filed with the Tribunal. (*revendicateur*)
 
-***claim limit*** means the maximum amount under paragraph 20(1)(b).
+***claim limit*** means the maximum amount under paragraph 20(1)(b). (*indemnité maximale*)
 
-***Crown*** means Her Majesty in right of Canada.
+***Crown*** means Her Majesty in right of Canada. (*Sa Majesté*)
 
-***First Nation*** means
+***First Nation*** means
 - **(a)** a band as defined in subsection 2(1) of the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md);
 - **(b)** a group of persons that was, but is no longer, a band within the meaning of paragraph (a) and that has, under a land claims agreement, retained the right to bring a specific claim; and
-- **(c)** a group of persons that was a band within the meaning of paragraph (a), that is no longer a band by virtue of an Act or agreement mentioned in the schedule and that has not released its right to bring a specific claim.
+- **(c)** a group of persons that was a band within the meaning of paragraph (a), that is no longer a band by virtue of an Act or agreement mentioned in the schedule and that has not released its right to bring a specific claim. (*première nation*)
 
-***land claims agreement*** has the same meaning as in subsection 35(3) of the Constitution Act, 1982.
+***land claims agreement*** has the same meaning as in subsection 35(3) of the Constitution Act, 1982. (*accord sur des revendications territoriales*)
 
-***Minister*** means the Minister of Indian Affairs and Northern Development.
+***Minister*** means the Minister of Indian Affairs and Northern Development. (*ministre*)
 
-***party***, in respect of a specific claim, means any claimant, the Crown or any province or First Nation added as a party under section 23 or 24.
+***party***, in respect of a specific claim, means any claimant, the Crown or any province or First Nation added as a party under section 23 or 24. (*partie*)
 
-***specific claim*** means a claim that is filed under section 14.
+***specific claim*** means a claim that is filed under section 14. (*revendication particulière*)
 
-***Tribunal*** means the Specific Claims Tribunal established by subsection 6(1).
+***Tribunal*** means the Specific Claims Tribunal established by subsection 6(1). (*Tribunal*)
 
 
 
@@ -809,7 +809,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 <sup><a href='#fn_Ind1F03_hq_4874'>[*]</a></sup>**53** This Act comes into force 120 days after the day on which it receives royal assent.
 
-<a name='fn_Ind1F03_hq_4874'><sup>*</sup></a>: [Note: Act not in force.]<br />
+<a name='fn_Ind1F03_hq_4874'><sup>*</sup></a>: [Note: Act in force October 16, 2008.]<br />
 
 
 
