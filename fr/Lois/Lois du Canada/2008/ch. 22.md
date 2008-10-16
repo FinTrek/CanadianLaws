@@ -54,28 +54,28 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***accord sur des revendications territoriales*** S’entend au sens du paragraphe 35(3) de la Loi constitutionnelle de 1982.
+***accord sur des revendications territoriales*** S’entend au sens du paragraphe 35(3) de la Loi constitutionnelle de 1982. (*land claims agreement*)
 
-***élément d’actif*** Tout bien matériel.
+***élément d’actif*** Tout bien matériel. (*asset*)
 
-***indemnité maximale*** La somme maximale prévue à l’alinéa 20(1)b).
+***indemnité maximale*** La somme maximale prévue à l’alinéa 20(1)b). (*claim limit*)
 
-***ministre*** Le ministre des Affaires indiennes et du Nord canadien.
+***ministre*** Le ministre des Affaires indiennes et du Nord canadien. (*Minister*)
 
-***partie*** S’agissant d’une revendication particulière, tout revendicateur, Sa Majesté ou toute province ou première nation à qui la qualité de partie est accordée aux termes des articles 23 ou 24.
+***partie*** S’agissant d’une revendication particulière, tout revendicateur, Sa Majesté ou toute province ou première nation à qui la qualité de partie est accordée aux termes des articles 23 ou 24. (*party*)
 
 ***première nation***
 - **a)** Bande au sens du paragraphe 2(1) de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md);
 - **b)** groupe de personnes qui, bien qu’il ne soit plus une bande visée à l’alinéa a), a maintenu, en vertu d’un accord sur des revendications territoriales, son droit de présenter une revendication particulière;
-- **c)** groupe de personnes qui, bien qu’il ne soit plus une bande visée à l’alinéa a) en raison d’une loi ou d’un accord figurant à l’annexe, n’a pas abandonné son droit de présenter une revendication particulière.
+- **c)** groupe de personnes qui, bien qu’il ne soit plus une bande visée à l’alinéa a) en raison d’une loi ou d’un accord figurant à l’annexe, n’a pas abandonné son droit de présenter une revendication particulière. (*First Nation*)
 
-***revendicateur*** Première nation ayant saisi le Tribunal d’une revendication particulière.
+***revendicateur*** Première nation ayant saisi le Tribunal d’une revendication particulière. (*claimant*)
 
-***revendication particulière*** Revendication dont le Tribunal est saisi au titre de l’article 14.
+***revendication particulière*** Revendication dont le Tribunal est saisi au titre de l’article 14. (*specific claim*)
 
-***Sa Majesté*** Sa Majesté du chef du Canada.
+***Sa Majesté*** Sa Majesté du chef du Canada. (*Crown*)
 
-***Tribunal*** Le Tribunal des revendications particulières constitué par le paragraphe 6(1). 
+***Tribunal*** Le Tribunal des revendications particulières constitué par le paragraphe 6(1). (*Tribunal*)
 
 
 
@@ -809,7 +809,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_Ind7D6C_hq_4873'>[*]</a></sup>**53** La présente loi entre en vigueur cent vingt jours après la date de sa sanction.
 
-<a name='fn_Ind7D6C_hq_4873'><sup>*</sup></a>: [Note : Loi non en vigueur.]<br />
+<a name='fn_Ind7D6C_hq_4873'><sup>*</sup></a>: [Note : Loi en vigueur le 16 octobre 2008.]<br />
 
 
 
