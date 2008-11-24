@@ -55,8 +55,10 @@ where
 - **A** is the number of the contributor’s days of Canadian Forces service in the 364 days before the period; and
 - **B** is the number of days in the 364 days during which the contributor was a member of the Canadian Forces.
 
+- **(3.1)** For the purposes of subsections (1) and (2), days of Canadian Forces service are determined without taking into account section 11.
+
 - **(4)** Any total number of days of Canadian Forces service that includes a fraction shall be rounded to the next higher multiple of a day.
-> SOR/78-197, s. 1; SOR/88-172, s. 1; SOR/2005–75, s. 1; SOR/2007-33, s. 2.
+> SOR/78-197, s. 1; SOR/88-172, s. 1; SOR/2005–75, s. 1; SOR/2007-33, s. 2; SOR/2008-307, s. 1.
 
 
 
@@ -126,11 +128,11 @@ where
 **8.1** 
 
 - **(1)** Despite subsection 41(3) of the Act, a member of the reserve force is considered to be a member of the regular force for the purposes of Part I of the Act, except for paragraph 16(2)(a), and these Regulations
-	- **(a)** on March 1, 2007 if, on that date,
-		- **(i)** the member’s total number of days of Canadian Forces service during any period of 60 months beginning on or after April 1, 1999 was no less than 1,674,
-		- **(ii)** the member already was or became a member of the Canadian Forces during the first month of the period and remained a member of the Canadian Forces throughout the period without any interruption of more than 60 days,
-		- **(iii)** the member is not a person required to contribute to the Public Service Pension Fund or the Royal Canadian Mounted Police Pension Fund, and
-		- **(iv)** the member does not have any pensionable service to their credit under Part I of the Act;
+	- **(a)** on March 1, 2007 if,
+		- **(i)** on that date, the member is not a person required to contribute to the Public Service Pension Fund or the Royal Canadian Mounted Police Pension Fund,
+		- **(ii)** on that date, the member does not have any pensionable service to their credit under Part I of the Act,
+		- **(iii)** on that date, the member’s total number of days of Canadian Forces service during any period of 60 months beginning on or after April 1, 1999 was no less than 1,674, and
+		- **(iv)** during the first month of the period, the member already was or became a member of the Canadian Forces and remained a member, without any interruption of more than 60 days, until March 1, 2007;
 	- **(b)** on the first day of the month in which the member would, despite subsection 4(4) of the [Reserve Force Pension Plan Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2007/32.md), have become a participant in accordance with subsection 4(2) of those Regulations if the member is a person in respect of whom the payment of a transfer value has been effected under subsection 22(2) of the Act;
 	- **(c)** subject to subsection (3), on the day on which they become entitled to receive salary as a member of the reserve force if the member is a contributor who is entitled to a deferred annuity or is in receipt of an annuity or annual allowance under Part I of the Act; or
 	- **(d)** in any other case, on the first day of the month following a period of 60 months ending after March 1, 2007 if
@@ -146,7 +148,7 @@ where
 - **(3)** A member of the reserve force who is in receipt of an annuity or annual allowance under Part I of the Act and who was a member of the regular force, other than by operation of this section, on the day on which they most recently ceased to contribute to the Canadian Forces Pension Fund or Superannuation Account is considered to be a member of the regular force for the purposes of Part I of the Act and these Regulations commencing on the earlier of
 	- **(a)** the day after the day on which the member completes one year of continuous full-time service in the reserve force, and
 	- **(b)** the day after the day on which the member exercises an early contribution option.
-> SOR/2007-33, s. 3.
+> SOR/2007-33, s. 3; SOR/2008-307, s. 2.
 
 
 
@@ -167,12 +169,33 @@ where
 
 
 
+**8.31** In respect of a member of the reserve force referred to in section 8.3, subsection 40(1) of the Act is adapted as follows:
+**40** 
+
+- **(1)** If, on the death of a contributor who, on ceasing to be a member of the regular force, was entitled to an immediate annuity or an annual allowance from which a deduction had been made in accordance with subsection 15(2), there is no person to whom an allowance provided in this Part may be paid, or if the persons to whom the allowance may be paid die or cease to be entitled to it and no other amount may be paid to them under this Part, any amount by which the calculated amount, within the meaning of subsection (2), exceeds the aggregate of all amounts paid to those persons and to the contributor under this Part shall be paid as provided in section 39 for amounts payable under that section.
+
+
+> SOR/2008-307, s. 3.
+
+
+
+
 **8.4** In respect of a member who is described in subsection 8.1(3) of these Regulations, subsections 41(4) and (5) of the Act are adapted as follows:
 
 - **(4)** A member who is described in subsection 8.1(3) of the Canadian Forces Superannuation Regulations may, within the period set out in clauses 6(b)(ii)(G) and (H) as adapted by subsection 12.2(2) of those Regulations, and in the manner prescribed by those Regulations, elect to repay the amount of annuity or annual allowance, referred to in subsection 8.1(3), that the member has received.
 
 - **(5)** The member making the election under subsection (4) shall pay into the Canadian Forces Pension Fund, at the time and in the manner prescribed by the Regulations, an amount equal to the amount of the annuity or annual allowance multiplied by the member’s number of days of Canadian Forces service while in receipt of the annuity or annual allowance, divided by 365.
 > SOR/2007-33, s. 3.
+
+
+
+
+**8.5** In respect of a member of the reserve force referred to in subsection 8.1(3), paragraph 8(2)(c) of the Act is adapted as follows:
+
+- **(c)** an election to pay for a period of service in the reserve force by a member of the reserve force referred to in subsection 8.1(3) of the Canadian Forces Superannuation Regulations, unless the member has made the election referred to in subsection 41(4), as adapted by section 8.4 of those Regulations.
+
+
+> SOR/2008-307, s. 4.
 
 
 
@@ -302,7 +325,7 @@ whether or not he was a contributor during that service and whether or not the s
 	- **(b)** in any other case,
 		- **(i)** the amount that the contributor would have been required to contribute if the rate of pay for that period of service had been the rate of pay in effect at the time of the election under clause 6(b)(ii)(L) of the Act, and
 		- **(ii)** interest within the meaning of subsection 7(2) of the Act.
-> SOR/92-717, s. 10; SOR/95-569, s. 1; SOR/95-570, s. 11(F); SOR/2007-33, s. 5.
+> SOR/92-717, s. 10; SOR/95-569, s. 1; SOR/95-570, s. 11(F); SOR/2007-33, s. 5; SOR/2008-307, s. 5(F).
 
 
 
@@ -340,18 +363,19 @@ shall be recovered in a manner set out for the recovery of unpaid instalments in
 ### Maximum Pay
 
 
-**12.1** For the purposes of paragraph 5(2)(d) of the Act, no person shall contribute to the Superannuation Account in respect of any portion of the person’s annual rate of pay that is in excess of the amount determined by the formula
+**12.1** For the purposes of subsection 5(6) of the Act, the annual rate of pay is equal to the amount determined by the following formula and rounded to the next highest multiple of $100:
 ```
-
-> Image: B plus the quotient of the difference of A minus 0.013B divided by 0.02
-
+(A – (B × C)) ÷ (0.02) + C
 ```
- and rounded to the next highest multiple of $100, where
+where
 - **A** is
-- **(a)** in respect of pay received in 1995, $1,722.22, and
-- **(b)** in respect of pay received in any year after 1995, the amount of the defined benefit limit determined for that year pursuant to subsection 8500(1) of the [Income Tax Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/901-1000/C.R.C.,%20c.%20945.md), and
-- **B** is the Year’s Maximum Pensionable Earnings for that year determined pursuant to section 18 of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md).
-> SOR/95-219, s. 1.
+- **(a)** in respect of pay received by the person for 1995, $1,722.22, and
+- **(b)** in respect of pay received by the person for any year after 1995, the amount of the defined benefit limit determined for that year in accordance with the definition ***defined benefit limit*** in subsection 8500(1) of the [Income Tax Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/901-1000/C.R.C.,%20c.%20945.md);
+- **B** is
+- **(a)** in respect of pay received by the person for any year after 1994 and before 2008, 0.013, and
+- **(b)** in respect of pay received by the person for any year after 2007, 0.01375; and
+- **C** is the Year’s Maximum Pensionable Earnings determined for that year in accordance with section 18 of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md).
+> SOR/95-219, s. 1; SOR/2008-307, s. 6.
 
 
 
@@ -370,12 +394,12 @@ shall be recovered in a manner set out for the recovery of unpaid instalments in
 
 - **(2)** In respect of a member, or former member, of the reserve force who becomes a contributor on or after March 1, 2007, clauses 6(b)(ii)(G) and (H) of the Act are adapted as follows:
 
-	- **(G)** any period of reserve force service, as prescribed in subsection 12.2(1) of the Canadian Forces Superannuation Regulations, if — during the period commencing on the day on which they become a contributor and ending the day before the later of one year after the date of the written notice advising the contributor that they have become entitled to make it and March 1, 2010 — the contributor elects to pay for that service,
+	- **(G)** any period of reserve force service referred to in subsection 12.2(1) of the Canadian Forces Superannuation Regulations, if the contributor elects — during the period beginning on the day on which they become a contributor and ending the later of one year after the date of the written notice advising the contributor that they have become entitled to make the election, and March 1, 2010 — to pay for that service,
 
 
 
-- **(3)** The election for reserve force service set out in clauses 6(b)(ii)(G) and (H) of the Act, as adapted by subsection (2), is for all of the contributor’s reserve force service. However, there shall be counted as pensionable service only the most recent years that would result in not more than 35 years of pensionable service to the contributor’s credit.
-> SOR/2007-33, s. 6.
+- **(3)** The election for reserve force service set out in clauses 6(b)(ii)(G) and (H) of the Act, as adapted by subsection (2), is for all of the contributor’s reserve force service. However, there shall be counted as years of pensionable service, starting with the most recent, only those that would result in a maximum of 35 years of pensionable service to the credit of the contributor.
+> SOR/2007-33, s. 6; SOR/2008-307, s. 7.
 
 
 
@@ -390,7 +414,7 @@ shall be recovered in a manner set out for the recovery of unpaid instalments in
 
 - **(1)** In respect of a contributor who makes an election for reserve force service under clauses 6(b)(ii)(G) and (H) of the Act, as adapted by subsection 12.2(2) of these Regulations, paragraphs 7(1)(g) and (h) of the Act are adapted as follows:
 
-- **(g)** in respect of any period specified in clauses 6(b)(ii)(G) and (H), as adapted by subsection 12.2(2) of the Canadian Forces Superannuation Regulations, the full amount calculated under that subsection or a lesser amount for which the contributor opts at the time of making the election;
+- **(g)** in respect of any period specified in clauses 6(b)(ii)(G) and (H), as adapted by subsection 12.2(2) of the Canadian Forces Superannuation Regulations, the full amount calculated under subsection 12.4(2) of those Regulations or a lesser amount for which the contributor opts at the time of making the election;
 
 
 
@@ -399,7 +423,7 @@ shall be recovered in a manner set out for the recovery of unpaid instalments in
 	- **(b)** the full amount of a top-up election made on the day of the election for reserve force service, using the formula in paragraph 14.6(3)(b) as if the value of E were equal to one and as if the reserve force service had become pensionable service to the contributor’s credit under the [Reserve Force Pension Plan Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2007/32.md) as a result of the past earnings election.
 
 - **(3)** The contributor may not modify the amount for which the contributor has opted.
-> SOR/2007-33, s. 6.
+> SOR/2007-33, s. 6; SOR/2008-307, s. 8.
 
 
 
@@ -486,6 +510,8 @@ at his option; and
 
 
 ### Top-up Election for Contributions Paid Under the Reserve Force Pension Plan Regulations
+> [SOR/2008-307, s. 9(F)]
+
 
 
 **14.2** A contributor is entitled to make a top-up election, once only, to contribute an additional amount in respect of all of the pensionable service that was counted to the contributor’s credit
@@ -542,13 +568,13 @@ where
 - **E** is the proportion referred to in subsection 26(1) of the [Reserve Force Pension Plan Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2007/32.md) in relation to the past earnings election that was made.
 
 - **(4)** The contributor may not modify the amount for which the contributor has opted.
-> SOR/2007-33, s. 8.
+> SOR/2007-33, s. 8; SOR/2008-307, s. 10(F).
 
 
 
 
-**14.7** Section 9 of the Act applies to a top-up election made under section 14.2 as if any amount to be paid in respect of the election were an amount required under subsection 7(1) of the Act to be paid by the contributor in respect of a period of service for which the contributor has elected to pay.
-> SOR/2007-33, s. 8.
+**14.7** Subsections 9(1), as adapted by section 14.1, and (1.1) to (5) of the Act apply to a top-up election made under section 14.2 as if any amount to be paid in respect of the election were an amount required to be paid under subsection 7(1) of the Act.
+> SOR/2007-33, s. 8; SOR/2008-307, s. 11.
 
 
 
@@ -1015,7 +1041,7 @@ where
 - **(1)** [Repealed, SOR/2007-33, s. 11]
 
 - **(2)** A person who makes an election under subsection 41(4) of the Act shall pay the amount payable under that subsection in a lump sum within 30 days after receipt of notification from the Minister of the amount due.
-> SOR/95-570, s. 1; SOR/2001-76, s. 5(F); SOR/2007-33, s. 11.
+> SOR/95-570, s. 1; SOR/2001-76, s. 5(F); SOR/2007-33, s. 11; SOR/2008-307, s. 12(F).
 
 
 
@@ -1079,8 +1105,8 @@ where
 
 - **(3)** The date of the sending of the option or election is the day on which it is delivered or, if it is sent by mail, the day on which it is mailed, and the date of the postmark is evidence of that day.
 
-- **(4)** An option under section 8.2 may be exercised, and a top-up election may be made, only while the contributor is a member of the regular force.
-> SOR/2007-33, s. 12.
+- **(4)** A top-up election may be made only while the contributor is a member of the regular force.
+> SOR/2007-33, s. 12; SOR/2008-307, s. 13.
 
 
 
