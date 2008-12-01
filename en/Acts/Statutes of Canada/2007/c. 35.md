@@ -685,7 +685,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#fn_Ind24D9_hq_3784'>[*]</a></sup>**138** The provisions of the [Canada Disability Savings Act](/en/Acts/Statutes%20of%20Canada/2007/c.%2035,%20s.%20136.md), as enacted by section 136, and section 137 come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind24D9_hq_3784'><sup>*</sup></a>: [Note: Sections 136 and 137 not in force.]<br />
+<a name='fn_Ind24D9_hq_3784'><sup>*</sup></a>: [Note: Sections 136 and 137 in force December 1, 2008, *see* SI/2008-63.]<br />
 
 
 
