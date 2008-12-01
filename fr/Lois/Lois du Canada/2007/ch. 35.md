@@ -685,7 +685,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_Ind47EC_hq_3791'>[*]</a></sup>**138** Les dispositions de la [Loi canadienne sur l’épargne-invalidité](/fr/Lois/Lois%20du%20Canada/2007/ch.%2035,%20art.%20136.md), édictée par l’article 136, ainsi que l’article 137 entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='fn_Ind47EC_hq_3791'><sup>*</sup></a>: [Note : Articles 136 et 137 non en vigueur.]<br />
+<a name='fn_Ind47EC_hq_3791'><sup>*</sup></a>: [Note : Articles 136 et 137 en vigueur le 1<sup>er</sup> décembre 2008, *voir* TR/2008-63.]<br />
 
 
 
