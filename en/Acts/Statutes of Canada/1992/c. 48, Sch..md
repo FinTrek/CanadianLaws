@@ -208,7 +208,7 @@ each such amount being adjusted and rounded in accordance with subsections 122.6
 
 **Release of information**
 
-- **(2)** Any information obtained by or on behalf of the Minister in the course of the administration or enforcement of this Act or the regulations or the carrying out of an agreement entered into under section 11 may be communicated to any person if it can reasonably be regarded as necessary for the purposes of the administration or enforcement of this Act, the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) or the [Canada Education Savings Act](/en/Acts/Statutes%20of%20Canada/2004/c.%2026.md) or a program administered pursuant to an agreement entered into under section 12 of that Act.
+- **(2)** Any information obtained by or on behalf of the Minister in the course of the administration or enforcement of this Act or the regulations or the carrying out of an agreement entered into under section 11 may be communicated to any person if it can reasonably be regarded as necessary for the purposes of the administration or enforcement of this Act, the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md), the [Canada Disability Savings Act](/en/Acts/Statutes%20of%20Canada/2007/c.%2035,%20s.%20136.md) or the [Canada Education Savings Act](/en/Acts/Statutes%20of%20Canada/2004/c.%2026.md) or a program administered under an agreement entered into under section 12 of the [Canada Education Savings Act](/en/Acts/Statutes%20of%20Canada/2004/c.%2026.md).
 
 **Release of information to members of Parliament**
 
@@ -227,7 +227,7 @@ each such amount being adjusted and rounded in accordance with subsections 122.6
 **Offence**
 
 - **(5)** Every person who knowingly contravenes this section by communicating or allowing to be communicated to any person privileged information or by allowing any person to inspect or have access to any statement or other writing containing any such information is guilty of an offence punishable on summary conviction.
-> 1992, c. 48, s. 23 (Sch., s. 10); 1995, c. 33, s. 47; 1996, c. 11, ss. 50, 97, 101, c. 16, s. 61; 1998, c. 19, s. 258; 2004, c. 26, s. 18.
+> 1992, c. 48, s. 23 (Sch., s. 10); 1995, c. 33, s. 47; 1996, c. 11, ss. 50, 97, 101, c. 16, s. 61; 1998, c. 19, s. 258; 2004, c. 26, s. 18; 2007, c. 35, s. 137.
 
 
 
