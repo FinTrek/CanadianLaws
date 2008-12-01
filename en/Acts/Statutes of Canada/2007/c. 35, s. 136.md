@@ -11,7 +11,7 @@ Assented to on 14 December 2007
 
 
 
-[Enacted by section 136 of chapter 35 of the Statutes of Canada, 2007, not in force.]
+[Enacted by section 136 of chapter 35 of the Statutes of Canada, 2007, in force December 1, 2008, *see* SI/2008-63.]
 
 
 
