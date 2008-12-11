@@ -1094,7 +1094,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>1</td>
-<td>Lac Alfred (65-34N, 126-33O)</td>
+<td>Lac Alfred (65-34N, 126-33O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1102,7 +1104,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>2</td>
-<td>Lac Akyuk (70-04N, 127-10O)</td>
+<td>Lac Akyuk (70-04N, 127-10O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1110,7 +1114,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>3</td>
-<td>Lac Billy (69-10N, 124-08O)</td>
+<td>Lac Billy (69-10N, 124-08O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1118,7 +1124,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>4</td>
-<td>Lac Biname (69-04N, 124-35O)</td>
+<td>Lac Biname (69-04N, 124-35O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1126,7 +1134,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>5</td>
-<td>Lac Brackett (65-13N, 125-20O)</td>
+<td>Lac Brackett (65-13N, 125-20O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1134,7 +1144,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>6</td>
-<td>Secteur du cap Parry (69-30N, 124-45O)</td>
+<td>Secteur du cap Parry (69-30N, 124-45O)
+
+</td>
 <td>morue</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1154,7 +1166,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>7</td>
-<td>Lac Doris (65-10N, 128-15O)</td>
+<td>Lac Doris (65-10N, 128-15O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1162,7 +1176,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>8</td>
-<td>Lacs Eskimo (Husky) (69-20N, 132-30O)</td>
+<td>Lacs Eskimo (Husky) (69-20N, 132-30O)
+
+</td>
 <td>corégone</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1188,7 +1204,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>9</td>
-<td>Rivière Hornaday (69-20N, 123-45O)</td>
+<td>Rivière Hornaday (69-20N, 123-45O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1196,7 +1214,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>10</td>
-<td>Lac Lennie (65-34N, 126-30O)</td>
+<td>Lac Lennie (65-34N, 126-30O)
+
+</td>
 <td>corégone</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1204,7 +1224,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>11</td>
-<td>Baie Liverpool (69-45N, 130-00O)</td>
+<td>Baie Liverpool (69-45N, 130-00O)
+
+</td>
 <td>hareng</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1354,7 +1376,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>17</td>
-<td>Lac Mahoney (65-30N, 125-20O)</td>
+<td>Lac Mahoney (65-30N, 125-20O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1362,7 +1386,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>18</td>
-<td>Lac Manuel (67-00N, 128-56O)</td>
+<td>Lac Manuel (67-00N, 128-56O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1370,7 +1396,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>19</td>
-<td>Lac Middle (70-02N, 127-02O)</td>
+<td>Lac Middle (70-02N, 127-02O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1378,7 +1406,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>20</td>
-<td>Rivière Old Horton (70-08N, 127-30O)</td>
+<td>Rivière Old Horton (70-08N, 127-30O)
+
+</td>
 <td>corégone, truite et omble de l’Arctique</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1386,7 +1416,11 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>21</td>
-<td>Rivière Peel (67-37N, 134-52O) jonction avec la riv. Satah</td>
+<td>Rivière Peel (67-37N, 134-52O)
+
+jonction avec la riv. Satah
+
+</td>
 <td>corégone</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1394,7 +1428,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>22</td>
-<td>Lac Reuben (69-16N, 124-16O)</td>
+<td>Lac Reuben (69-16N, 124-16O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1402,7 +1438,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>23</td>
-<td>Lac Rorey (66-55N, 128-25O)</td>
+<td>Lac Rorey (66-55N, 128-25O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1410,7 +1448,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>24</td>
-<td>Lac Seven Island (69-16N, 123-00O)</td>
+<td>Lac Seven Island (69-16N, 123-00O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1418,7 +1458,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>25</td>
-<td>Lac Sitidgi (68-30N, 132-40O)</td>
+<td>Lac Sitidgi (68-30N, 132-40O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1426,7 +1468,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>26</td>
-<td>Lac Tagatui (64-57N, 125-12O)</td>
+<td>Lac Tagatui (64-57N, 125-12O)
+
+</td>
 <td>corégone</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1434,7 +1478,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>27</td>
-<td>Lac Tasseriuk (69-24N, 124-40O)</td>
+<td>Lac Tasseriuk (69-24N, 124-40O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1442,7 +1488,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>28</td>
-<td>Lac Thrasher (69-16N, 124-08O)</td>
+<td>Lac Thrasher (69-16N, 124-08O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1450,7 +1498,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>29</td>
-<td>Lac Whitefish (65-43N, 125-00O)</td>
+<td>Lac Whitefish (65-43N, 125-00O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1458,7 +1508,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>30</td>
-<td>Lac sans nom (69-12N, 123-50O)</td>
+<td>Lac sans nom (69-12N, 123-50O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1466,7 +1518,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>31</td>
-<td>Lac sans nom (69-12N, 123-59O)</td>
+<td>Lac sans nom (69-12N, 123-59O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1474,7 +1528,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>32</td>
-<td>Lac sans nom (69-14N, 123-45O)</td>
+<td>Lac sans nom (69-14N, 123-45O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1482,7 +1538,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>33</td>
-<td>Lac sans nom (69-28N, 124-28O)</td>
+<td>Lac sans nom (69-28N, 124-28O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1490,7 +1548,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>34</td>
-<td>Lac sans nom (69-37N, 124-20O)</td>
+<td>Lac sans nom (69-37N, 124-20O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1501,7 +1561,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>1</td>
-<td>Lac Beaver (61-07N, 117-08O)</td>
+<td>Lac Beaver (61-07N, 117-08O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1509,7 +1571,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>2</td>
-<td>Lac Bedarch (60-19N, 109-57O)</td>
+<td>Lac Bedarch (60-19N, 109-57O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1517,7 +1581,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>3</td>
-<td>Lac Bennathy (60-38N, 110-33O)</td>
+<td>Lac Bennathy (60-38N, 110-33O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1525,7 +1591,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>4</td>
-<td>Lac Blackwater (64-00N, 123-05O)</td>
+<td>Lac Blackwater (64-00N, 123-05O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1533,7 +1601,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>5</td>
-<td>Lacs Champagne (60-40N, 111-10O)</td>
+<td>Lacs Champagne (60-40N, 111-10O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1541,7 +1611,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>6</td>
-<td>Lac Deskenatlata (60-55N, 112-03O)</td>
+<td>Lac Deskenatlata (60-55N, 112-03O)
+
+</td>
 <td>corégone, truite et doré jaune</td>
 <td>133</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1549,7 +1621,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>7</td>
-<td>Lac Disappointment (60-05N, 110-27O)</td>
+<td>Lac Disappointment (60-05N, 110-27O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1557,7 +1631,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>8</td>
-<td>Lac Dogface (Trefiak) (60-17N, 119-05O)</td>
+<td>Lac Dogface (Trefiak) (60-17N, 119-05O)
+
+</td>
 <td>doré jaune</td>
 <td>108</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1565,7 +1641,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>9</td>
-<td>Lac Fork (60-53N, 111-05O)</td>
+<td>Lac Fork (60-53N, 111-05O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1573,7 +1651,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>10</td>
-<td>Lac Gagnon (62-08N, 110-27O)</td>
+<td>Lac Gagnon (62-08N, 110-27O)
+
+</td>
 <td>corégone et truite</td>
 <td>133</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1581,7 +1661,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>11</td>
-<td>Lac Gertrude (60-23N, 111-21O)</td>
+<td>Lac Gertrude (60-23N, 111-21O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1589,7 +1671,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>11.1</td>
-<td>Lac Grandin (63-59N, 119-00O)</td>
+<td>Lac Grandin (63-59N, 119-00O)
+
+</td>
 <td>corégone et truite</td>
 <td>133</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1645,7 +1729,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>18</td>
-<td>Lac Hanging Ice (60-13N, 110-55O)</td>
+<td>Lac Hanging Ice (60-13N, 110-55O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1653,7 +1739,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>19</td>
-<td>Lac High Level (60-50N, 110-39O)</td>
+<td>Lac High Level (60-50N, 110-39O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1661,7 +1749,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>20</td>
-<td>Lac Hjalmar (61-33N, 109-25O)</td>
+<td>Lac Hjalmar (61-33N, 109-25O)
+
+</td>
 <td>corégone truite</td>
 <td>133</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1669,7 +1759,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>21</td>
-<td>Lac Hotel (60-25N, 110-05O)</td>
+<td>Lac Hotel (60-25N, 110-05O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1677,7 +1769,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>22</td>
-<td>Lac Indian Shack (60-39N, 111-05O)</td>
+<td>Lac Indian Shack (60-39N, 111-05O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1685,7 +1779,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>23</td>
-<td>Lac Jack (60-46N, 111-08O)</td>
+<td>Lac Jack (60-46N, 111-08O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1693,7 +1789,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>24</td>
-<td>Lac Kakisa (60-55N, 117-40O)</td>
+<td>Lac Kakisa (60-55N, 117-40O)
+
+</td>
 <td>doré jaune</td>
 <td>108</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1701,7 +1799,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>25</td>
-<td>Lac Keller (64-00N, 121-25O)</td>
+<td>Lac Keller (64-00N, 121-25O)
+
+</td>
 <td>corégone et truite</td>
 <td>133</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1709,7 +1809,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>26</td>
-<td>Lac King (61-05N, 110-32O)</td>
+<td>Lac King (61-05N, 110-32O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1717,7 +1819,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>27</td>
-<td>Lac La Loche (62-02N, 110-53O)</td>
+<td>Lac La Loche (62-02N, 110-53O)
+
+</td>
 <td>corégone et truite</td>
 <td>133</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1725,7 +1829,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>28</td>
-<td>Lac Sainte-Thérèse (64-38N, 121-30O)</td>
+<td>Lac Sainte-Thérèse (64-38N, 121-30O)
+
+</td>
 <td>doré jaune</td>
 <td>114</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1733,7 +1839,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>29</td>
-<td>Lac Largepike (60-04N, 110-19O)</td>
+<td>Lac Largepike (60-04N, 110-19O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1741,7 +1849,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>30</td>
-<td>Lac Leland (60-00N, 110-59O)</td>
+<td>Lac Leland (60-00N, 110-59O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1749,7 +1859,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>31</td>
-<td>Lac McDonald (62-07N, 111-13O)</td>
+<td>Lac McDonald (62-07N, 111-13O)
+
+</td>
 <td>corégone et truite</td>
 <td>133</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1757,7 +1869,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>32</td>
-<td>Lac McEwan (60-48N, 119-57O)</td>
+<td>Lac McEwan (60-48N, 119-57O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1765,7 +1879,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>33</td>
-<td>Lac MacInnis (61-21N, 110-12O)</td>
+<td>Lac MacInnis (61-21N, 110-12O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1773,7 +1889,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>34</td>
-<td>Lac Margaret (63-40N, 109-47O)</td>
+<td>Lac Margaret (63-40N, 109-47O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1781,7 +1899,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>35</td>
-<td>Lac Mistigi (60-25N, 111-47O)</td>
+<td>Lac Mistigi (60-25N, 111-47O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1789,7 +1909,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>36</td>
-<td>Lac Naskethey (61-19N, 109-24O)</td>
+<td>Lac Naskethey (61-19N, 109-24O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1797,7 +1919,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>37</td>
-<td>Lac Naylor (60-33N, 111-27O)</td>
+<td>Lac Naylor (60-33N, 111-27O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1805,7 +1929,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>38</td>
-<td>Lac Nonacho (61-42N, 109-40O)</td>
+<td>Lac Nonacho (61-42N, 109-40O)
+
+</td>
 <td>corégone et truite</td>
 <td>133</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1813,7 +1939,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>39</td>
-<td>Lac O’Conner (61-18N, 111-52O)</td>
+<td>Lac O’Conner (61-18N, 111-52O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1821,7 +1949,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>40</td>
-<td>Lac Oulton (60-46N, 111-20O)</td>
+<td>Lac Oulton (60-46N, 111-20O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1829,7 +1959,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>41</td>
-<td>Lac Piers (60-20N, 111-06O)</td>
+<td>Lac Piers (60-20N, 111-06O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1837,7 +1969,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>42</td>
-<td>Lac Reade (60-53N, 119-55O)</td>
+<td>Lac Reade (60-53N, 119-55O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1845,7 +1979,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>43</td>
-<td>Lac Robinson (60-48N, 110-55O)</td>
+<td>Lac Robinson (60-48N, 110-55O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1853,7 +1989,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>44</td>
-<td>Lac Ruelling (61-22N, 109-33O)</td>
+<td>Lac Ruelling (61-22N, 109-33O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1861,7 +1999,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>45</td>
-<td>Lac Rutledge (61-33N, 110-47O)</td>
+<td>Lac Rutledge (61-33N, 110-47O)
+
+</td>
 <td>corégone et truite</td>
 <td>133</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1869,7 +2009,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>46</td>
-<td>Lac Salkeld (61-35N, 109-50O)</td>
+<td>Lac Salkeld (61-35N, 109-50O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1877,7 +2019,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>46.1</td>
-<td>Lac Scott (60-00N, 106-05O)</td>
+<td>Lac Scott (60-00N, 106-05O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1885,7 +2029,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>47</td>
-<td>Lac Shark (60-29N, 109-32O)</td>
+<td>Lac Shark (60-29N, 109-32O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1893,7 +2039,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>48</td>
-<td>Lac Sibbeston (61-47N, 122-43O)</td>
+<td>Lac Sibbeston (61-47N, 122-43O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1901,7 +2049,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>49</td>
-<td>Lac Soulier (60-41N, 110-08O)</td>
+<td>Lac Soulier (60-41N, 110-08O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1909,7 +2059,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>50</td>
-<td>Lac Sparks (61-12N, 109-40O)</td>
+<td>Lac Sparks (61-12N, 109-40O)
+
+</td>
 <td>corégone et truite</td>
 <td>133</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1917,7 +2069,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>51</td>
-<td>Lac Taltson (61-30N, 110-15O)</td>
+<td>Lac Taltson (61-30N, 110-15O)
+
+</td>
 <td>corégone et truite</td>
 <td>133</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1925,7 +2079,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>52</td>
-<td>Rivière Taltson — de son embouchure à sa jonction avec la riv. Rat (61-20N, 112-40O)</td>
+<td>Rivière Taltson — de son embouchure à sa jonction avec la riv. Rat (61-20N, 112-40O)
+
+</td>
 <td>doré jaune</td>
 <td>114</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1933,7 +2089,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>53</td>
-<td>Lac Tathlina (60-30N, 117-30O)</td>
+<td>Lac Tathlina (60-30N, 117-30O)
+
+</td>
 <td>doré jaune</td>
 <td>108</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1941,7 +2099,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>54</td>
-<td>Lac Telklini (60-02N, 111-15O)</td>
+<td>Lac Telklini (60-02N, 111-15O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1949,7 +2109,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>55</td>
-<td>Lac Tetcho (60-25N, 120-45O)</td>
+<td>Lac Tetcho (60-25N, 120-45O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1957,7 +2119,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>56</td>
-<td>Lac Thekulthili (61-03N, 110-04O)</td>
+<td>Lac Thekulthili (61-03N, 110-04O)
+
+</td>
 <td>corégone et truite</td>
 <td>133</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1965,7 +2129,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>57</td>
-<td>Lacs Thubun (61-34N, 111-45O)</td>
+<td>Lacs Thubun (61-34N, 111-45O)
+
+</td>
 <td>corégone et truite</td>
 <td>133</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1973,7 +2139,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>58</td>
-<td>Lac Tourangeau (60-19N, 110-31O)</td>
+<td>Lac Tourangeau (60-19N, 110-31O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1981,7 +2149,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>59</td>
-<td>Lac Trainor (60-24N, 120-17O)</td>
+<td>Lac Trainor (60-24N, 120-17O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1989,7 +2159,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>60</td>
-<td>Lac Tronka Chua (61-30N, 109-54O)</td>
+<td>Lac Tronka Chua (61-30N, 109-54O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -1997,7 +2169,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>61</td>
-<td>Lac Trudel (60-21N, 111-19O)</td>
+<td>Lac Trudel (60-21N, 111-19O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2005,7 +2179,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>62</td>
-<td>Lac Tsetso (61-51N, 123-01O)</td>
+<td>Lac Tsetso (61-51N, 123-01O)
+
+</td>
 <td>doré jaune</td>
 <td>114</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2013,7 +2189,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>63</td>
-<td>Lac Vandyck (60-12N, 109-28O)</td>
+<td>Lac Vandyck (60-12N, 109-28O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2021,7 +2199,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>64</td>
-<td>Lac Walker (61-52N, 109-57O)</td>
+<td>Lac Walker (61-52N, 109-57O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2029,7 +2209,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>65</td>
-<td>Lac Willow (62-11N, 119-10O)</td>
+<td>Lac Willow (62-11N, 119-10O)
+
+</td>
 <td>corégone et truite</td>
 <td>133</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2037,7 +2219,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>66</td>
-<td>Lac Wrigley (63-51N, 126-10O)</td>
+<td>Lac Wrigley (63-51N, 126-10O)
+
+</td>
 <td>corégone et truite</td>
 <td>133</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2045,7 +2229,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>67</td>
-<td>Lac Yatsore (60-46N, 110-15O)</td>
+<td>Lac Yatsore (60-46N, 110-15O)
+
+</td>
 <td>corégone et truite</td>
 <td>133</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2053,7 +2239,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>68</td>
-<td>Lac Zinto (61-06N, 116-22O)</td>
+<td>Lac Zinto (61-06N, 116-22O)
+
+</td>
 <td>corégone et truite</td>
 <td>133</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2061,7 +2249,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>69</td>
-<td>Lac sans nom (60-10N, 117-55O)</td>
+<td>Lac sans nom (60-10N, 117-55O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2069,7 +2259,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>70</td>
-<td>Lac sans nom (60-10N, 118-10O)</td>
+<td>Lac sans nom (60-10N, 118-10O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2077,7 +2269,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>71</td>
-<td>Lac sans nom (61-15N, 111-59O)</td>
+<td>Lac sans nom (61-15N, 111-59O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2085,7 +2279,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>72</td>
-<td>Lac sans nom (61-28N, 109-35O)</td>
+<td>Lac sans nom (61-28N, 109-35O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2093,7 +2289,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>73</td>
-<td>Lac sans nom (61-50N, 119-28O)</td>
+<td>Lac sans nom (61-50N, 119-28O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2101,7 +2299,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>74</td>
-<td>Lac sans nom (61-51N, 119-27O)</td>
+<td>Lac sans nom (61-51N, 119-27O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2109,7 +2309,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>75</td>
-<td>Lac sans nom (61-51N, 119-32O)</td>
+<td>Lac sans nom (61-51N, 119-32O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2120,7 +2322,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>1</td>
-<td>Lac Alcantara (60-57N, 108-09O)</td>
+<td>Lac Alcantara (60-57N, 108-09O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2128,7 +2332,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>2</td>
-<td>Lac Angus (63-27N, 111-57O)</td>
+<td>Lac Angus (63-27N, 111-57O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2136,7 +2342,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>3</td>
-<td>Lac Arseno (64-34N, 115-39O)</td>
+<td>Lac Arseno (64-34N, 115-39O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2144,7 +2352,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>4</td>
-<td>Lac Atzinging (60-13N, 103-10O)</td>
+<td>Lac Atzinging (60-13N, 103-10O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2152,7 +2362,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>5</td>
-<td>Lac Bartlett (63-05N, 118-20O)</td>
+<td>Lac Bartlett (63-05N, 118-20O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2160,7 +2372,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>6</td>
-<td>Lac Basler (63-55N, 116-00O)</td>
+<td>Lac Basler (63-55N, 116-00O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2168,7 +2382,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>7</td>
-<td>Lac Bélanger (66-08N, 114-57O)</td>
+<td>Lac Bélanger (66-08N, 114-57O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2176,7 +2392,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>8</td>
-<td>Lac Beaverlodge (64-42N, 118-12O)</td>
+<td>Lac Beaverlodge (64-42N, 118-12O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2184,7 +2402,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>9</td>
-<td>Lac Beniah (63-24N, 112-17O)</td>
+<td>Lac Beniah (63-24N, 112-17O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2192,7 +2412,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>10</td>
-<td>Lac Big Rocky (62-19N, 102-15O)</td>
+<td>Lac Big Rocky (62-19N, 102-15O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2200,7 +2422,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>11</td>
-<td>Lac Blaisdelle (62-47N, 113-34O)</td>
+<td>Lac Blaisdelle (62-47N, 113-34O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2208,7 +2432,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>12</td>
-<td>Lac Blatchford (62-11N, 112-35O)</td>
+<td>Lac Blatchford (62-11N, 112-35O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2216,7 +2442,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>13</td>
-<td>Lac Buckham (62-18N, 112-37O)</td>
+<td>Lac Buckham (62-18N, 112-37O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2224,7 +2452,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>14</td>
-<td>Lac Camsell (63-35N, 111-15O)</td>
+<td>Lac Camsell (63-35N, 111-15O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2239,7 +2469,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>16</td>
-<td>Lac Chedabucto (62-24N, 115-30O)</td>
+<td>Lac Chedabucto (62-24N, 115-30O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2247,7 +2479,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>17</td>
-<td>Lac Chipp (62-28N, 112-38O)</td>
+<td>Lac Chipp (62-28N, 112-38O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2255,7 +2489,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>18</td>
-<td>Lac Crapaud (62-56N, 114-01O)</td>
+<td>Lac Crapaud (62-56N, 114-01O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2263,7 +2499,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>19</td>
-<td>Lac Desperation (62-35N, 112-25O)</td>
+<td>Lac Desperation (62-35N, 112-25O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2271,7 +2509,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>20</td>
-<td>Lac Doran (61-14N, 108-05O)</td>
+<td>Lac Doran (61-14N, 108-05O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2286,7 +2526,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>22</td>
-<td>Lac Germaine (63-13N, 114-35O)</td>
+<td>Lac Germaine (63-13N, 114-35O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2294,7 +2536,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>23</td>
-<td>Lac Gordon (63-10N, 113-12O)</td>
+<td>Lac Gordon (63-10N, 113-12O)
+
+</td>
 <td>corégone et truite</td>
 <td>133</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2309,7 +2553,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>25</td>
-<td>Lac Grant (64-54N, 116-35O)</td>
+<td>Lac Grant (64-54N, 116-35O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2317,7 +2563,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>26</td>
-<td>Lac Halliday (61-21N, 108-56O)</td>
+<td>Lac Halliday (61-21N, 108-56O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2325,7 +2573,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>27</td>
-<td>Lac Hardisty (64-30N, 117-45O)</td>
+<td>Lac Hardisty (64-30N, 117-45O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2333,7 +2583,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>28</td>
-<td>Lac Helmer (62-50N, 114-03O)</td>
+<td>Lac Helmer (62-50N, 114-03O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2341,7 +2593,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>29</td>
-<td>Lac Hottah (65-00N, 118-30O)</td>
+<td>Lac Hottah (65-00N, 118-30O)
+
+</td>
 <td>corégone et truite</td>
 <td>133</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2349,7 +2603,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>30</td>
-<td>Lac Ingray (64-20N, 116-10O)</td>
+<td>Lac Ingray (64-20N, 116-10O)
+
+</td>
 <td>corégone et truite</td>
 <td>133</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2357,7 +2613,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>31</td>
-<td>Lac Kasba (60-18N, 102-07O)</td>
+<td>Lac Kasba (60-18N, 102-07O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2365,7 +2623,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>32</td>
-<td>Lac Labrish (63-40N, 116-15O)</td>
+<td>Lac Labrish (63-40N, 116-15O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2373,7 +2633,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>33</td>
-<td>Lac La Martre (63-20N, 118-00O)</td>
+<td>Lac La Martre (63-20N, 118-00O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2381,7 +2643,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>34</td>
-<td>Lac Little Crapeau (64-50N, 116-27O)</td>
+<td>Lac Little Crapeau (64-50N, 116-27O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2389,7 +2653,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>35</td>
-<td>Lac Markham (62-30N, 102-37O)</td>
+<td>Lac Markham (62-30N, 102-37O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2397,7 +2663,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>36</td>
-<td>Lac Mary (62-24N, 103-31O)</td>
+<td>Lac Mary (62-24N, 103-31O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2405,7 +2673,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>37</td>
-<td>Lac Mattberry (64-05N, 115-54O)</td>
+<td>Lac Mattberry (64-05N, 115-54O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2413,7 +2683,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>38</td>
-<td>Lac Mazenod (63-42N, 117-02O)</td>
+<td>Lac Mazenod (63-42N, 117-02O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2421,7 +2693,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>39</td>
-<td>Lac Mackay (63-55N, 110-25O)</td>
+<td>Lac Mackay (63-55N, 110-25O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2429,7 +2703,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>40</td>
-<td>Lac Mosher (63-06N, 115-26O)</td>
+<td>Lac Mosher (63-06N, 115-26O)
+
+</td>
 <td>doré jaune</td>
 <td>114</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2437,7 +2713,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>41</td>
-<td>Lac Pauline (62-03N, 113-12O)</td>
+<td>Lac Pauline (62-03N, 113-12O)
+
+</td>
 <td>corégone et truite</td>
 <td>130</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2445,7 +2723,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>42</td>
-<td>Lac Plante (62-31N, 113-34O)</td>
+<td>Lac Plante (62-31N, 113-34O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2453,7 +2733,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>43</td>
-<td>Lac Porter (61-41N, 108-05O)</td>
+<td>Lac Porter (61-41N, 108-05O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2461,7 +2743,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>44</td>
-<td>Lac Prestige (62-57N, 113-39O)</td>
+<td>Lac Prestige (62-57N, 113-39O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2469,7 +2753,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>45</td>
-<td>Lac Rebesca (64-32N, 116-22O)</td>
+<td>Lac Rebesca (64-32N, 116-22O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2477,7 +2763,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>46</td>
-<td>Lac Rivett (63-18N, 111-48O)</td>
+<td>Lac Rivett (63-18N, 111-48O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2485,7 +2773,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>47</td>
-<td>Lac Ross (62-41N, 113-16O)</td>
+<td>Lac Ross (62-41N, 113-16O)
+
+</td>
 <td>corégone et truite</td>
 <td>133</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2493,7 +2783,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>48</td>
-<td>Lac Saddle (63-54N, 116-31O)</td>
+<td>Lac Saddle (63-54N, 116-31O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2508,7 +2800,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>50</td>
-<td>Lac Selwyn (60-05N, 104-25O)</td>
+<td>Lac Selwyn (60-05N, 104-25O)
+
+</td>
 <td>corégone et truite</td>
 <td>133</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2516,7 +2810,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>51</td>
-<td>Lac Slemon (63-13N, 116-01O)</td>
+<td>Lac Slemon (63-13N, 116-01O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2524,7 +2820,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>52</td>
-<td>Lac Sparrow (62-37N, 113-40O)</td>
+<td>Lac Sparrow (62-37N, 113-40O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2532,7 +2830,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>53</td>
-<td>Lac Thistlethwaite (63-10N, 113-37O)</td>
+<td>Lac Thistlethwaite (63-10N, 113-37O)
+
+</td>
 <td>corégone et truite</td>
 <td>133</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2540,7 +2840,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>54</td>
-<td>Lac Upper Ross (62-43N, 113-08O)</td>
+<td>Lac Upper Ross (62-43N, 113-08O)
+
+</td>
 <td>corégone et truite</td>
 <td>133</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2548,7 +2850,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>55</td>
-<td>Lac Victory (62-40N, 113-05O)</td>
+<td>Lac Victory (62-40N, 113-05O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2556,7 +2860,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>56</td>
-<td>Lac Wecho (63-58N, 113-50O)</td>
+<td>Lac Wecho (63-58N, 113-50O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2564,7 +2870,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>57</td>
-<td>Lac Wedge (62-51N, 113-41O)</td>
+<td>Lac Wedge (62-51N, 113-41O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2572,7 +2880,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>58</td>
-<td>Lac Whitefish (62-41N, 106-48O)</td>
+<td>Lac Whitefish (62-41N, 106-48O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2580,7 +2890,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>59</td>
-<td>Lac sans nom (62-32N, 113-48O)</td>
+<td>Lac sans nom (62-32N, 113-48O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2588,7 +2900,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>60</td>
-<td>Lac sans nom (62-45N, 114-05O)</td>
+<td>Lac sans nom (62-45N, 114-05O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2596,7 +2910,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>61</td>
-<td>Lac sans nom (62-45N, 114-07O)</td>
+<td>Lac sans nom (62-45N, 114-07O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2604,7 +2920,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>62</td>
-<td>Lac sans nom (63-16N, 116-15O)</td>
+<td>Lac sans nom (63-16N, 116-15O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2615,7 +2933,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>1</td>
-<td>Secteur de la rivière Agnew (Baie Ilaunallic) (70-40N, 92-40O)</td>
+<td>Secteur de la rivière Agnew (Baie Ilaunallic) (70-40N, 92-40O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2623,7 +2943,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>2</td>
-<td>Rivière Arrowsmith (68-23N, 90-17O)</td>
+<td>Rivière Arrowsmith (68-23N, 90-17O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2631,7 +2953,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>2.1</td>
-<td>Rivière Back (67-15N, 95-15O)</td>
+<td>Rivière Back (67-15N, 95-15O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2639,7 +2963,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>3</td>
-<td>Rivière Becher (68-45N, 90-08O)</td>
+<td>Rivière Becher (68-45N, 90-08O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2647,7 +2973,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>4</td>
-<td>Lac Buffit (69-43N, 107-55O)</td>
+<td>Lac Buffit (69-43N, 107-55O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2655,7 +2983,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>5</td>
-<td>Lac Casey (69-37N, 107-50O)</td>
+<td>Lac Casey (69-37N, 107-50O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2663,7 +2993,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>6</td>
-<td>Rivière Coppermine (67-49N, 115-04O)</td>
+<td>Rivière Coppermine (67-49N, 115-04O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2671,7 +3003,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>7</td>
-<td>Rivière Curtis (Baie Committee) (67-12N, 87-28O)</td>
+<td>Rivière Curtis (Baie Committee) (67-12N, 87-28O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2679,7 +3013,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>8</td>
-<td>Lac Ekalluk (69-45N, 104-30O)</td>
+<td>Lac Ekalluk (69-45N, 104-30O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2687,7 +3023,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>9</td>
-<td>Rivière Ekalluk (69-25N, 106-17O)</td>
+<td>Rivière Ekalluk (69-25N, 106-17O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2695,7 +3033,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>10</td>
-<td>Rivière Ellice (68-03N, 104-00O)</td>
+<td>Rivière Ellice (68-03N, 104-00O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2703,7 +3043,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>11</td>
-<td>Lac Ferguson (69-25N, 105-30O)</td>
+<td>Lac Ferguson (69-25N, 105-30O)
+
+</td>
 <td>truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2711,7 +3053,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>12</td>
-<td>Lac Flying Horse (69-47N, 105-12O)</td>
+<td>Lac Flying Horse (69-47N, 105-12O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2719,7 +3063,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>13</td>
-<td>Rivière Halovik (R. 30 Mi.) (69-10N, 107-04O)</td>
+<td>Rivière Halovik (R. 30 Mi.) (69-10N, 107-04O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2727,7 +3073,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>13.1</td>
-<td>Rivière Hayes (67-08N, 95-17O)</td>
+<td>Rivière Hayes (67-08N, 95-17O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2735,7 +3083,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>14</td>
-<td>Rivière Jayco, baie Albert Edward (69-34N, 103-21O)</td>
+<td>Rivière Jayco, baie Albert Edward (69-34N, 103-21O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2750,7 +3100,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>16</td>
-<td>Rivière Kagloryuak (70-18N, 111-24O)</td>
+<td>Rivière Kagloryuak (70-18N, 111-24O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2758,7 +3110,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>16.1</td>
-<td>Rivière Kaleet (67-40N, 97-11O)</td>
+<td>Rivière Kaleet (67-40N, 97-11O)
+
+</td>
 <td>cisco de l’Arctique</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2766,7 +3120,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>17</td>
-<td>Baie Keith (baie Committee) (68-15N, 88-15O)</td>
+<td>Baie Keith (baie Committee) (68-15N, 88-15O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2774,7 +3130,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>18</td>
-<td>Rivière Kellett (68-21N, 90-07O)</td>
+<td>Rivière Kellett (68-21N, 90-07O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2782,7 +3140,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>19</td>
-<td>Lac Kitiga (69-15N, 105-40O)</td>
+<td>Lac Kitiga (69-15N, 105-40O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2790,7 +3150,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>20</td>
-<td>Rivière Kulgayuk (pointe Dease) (68-16N, 105-03O)</td>
+<td>Rivière Kulgayuk (pointe Dease) (68-16N, 105-03O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2798,7 +3160,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>21</td>
-<td>Rivière Kuujjuar, Secteur de l’inlet Minto (71-16N, 116-48O)</td>
+<td>Rivière Kuujjuar, Secteur de l’inlet Minto (71-16N, 116-48O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2806,7 +3170,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>22</td>
-<td>Rivière Lauchlan (baie Byron) (68-56N, 108-30O)</td>
+<td>Rivière Lauchlan (baie Byron) (68-56N, 108-30O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2814,7 +3180,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>23</td>
-<td>Lac Lord Lindsay (70-10N, 92-25O)</td>
+<td>Lac Lord Lindsay (70-10N, 92-25O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2822,7 +3190,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>24</td>
-<td>Lac Merkley (69-45N, 107-40O)</td>
+<td>Lac Merkley (69-45N, 107-40O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2830,7 +3200,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>25</td>
-<td>Rivière Murchison (68-35N, 93-30O)</td>
+<td>Rivière Murchison (68-35N, 93-30O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2838,7 +3210,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>26</td>
-<td>Secteur de la rivière Norway Bay (71-05N, 104-33O)</td>
+<td>Secteur de la rivière Norway Bay (71-05N, 104-33O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2846,7 +3220,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>27</td>
-<td>Rivière Paliryuak (Surrey) (69-27N, 106-40O)</td>
+<td>Rivière Paliryuak (Surrey) (69-27N, 106-40O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2854,7 +3230,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>28</td>
-<td>Lac Pangtium (69-42N, 106-22O)</td>
+<td>Lac Pangtium (69-42N, 106-22O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2862,7 +3240,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>29</td>
-<td>Rivière Perry (67-43N, 102-10O)</td>
+<td>Rivière Perry (67-43N, 102-10O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2870,7 +3250,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>30</td>
-<td>Secteur de Port Parry (69-40N, 97-20O)</td>
+<td>Secteur de Port Parry (69-40N, 97-20O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2878,7 +3260,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>31</td>
-<td>Lac Shead (69-40N, 108-24O)</td>
+<td>Lac Shead (69-40N, 108-24O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2886,7 +3270,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>32</td>
-<td>Rivière Simpson (67-48N, 100-45O)</td>
+<td>Rivière Simpson (67-48N, 100-45O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2894,7 +3280,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>33</td>
-<td>Lac Stanwell-Fletcher (72-39N, 94-41O)</td>
+<td>Lac Stanwell-Fletcher (72-39N, 94-41O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2902,7 +3290,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>34</td>
-<td>Lac Surrey (69-40N, 107-13O)</td>
+<td>Lac Surrey (69-40N, 107-13O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2910,7 +3300,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>35</td>
-<td>Lac Tahoe (70-15N, 108-45O)</td>
+<td>Lac Tahoe (70-15N, 108-45O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2918,7 +3310,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>36</td>
-<td>Secteur de la rivière Thomsen, île Banks (74-08N, 119-58O)</td>
+<td>Secteur de la rivière Thomsen, île Banks (74-08N, 119-58O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2926,7 +3320,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>37</td>
-<td>Lac Toassie (69-41N, 106-39O)</td>
+<td>Lac Toassie (69-41N, 106-39O)
+
+</td>
 <td>corégone et cisco de l’Arctique</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2934,7 +3330,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>38</td>
-<td>Lac Washburn (70-05N, 107-30O)</td>
+<td>Lac Washburn (70-05N, 107-30O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2942,7 +3340,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>39</td>
-<td>Lac Wickware (69-48N, 108-25O)</td>
+<td>Lac Wickware (69-48N, 108-25O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2950,7 +3350,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>40</td>
-<td>Rivière sans nom, à l’est de la rivière Ellice (67-53N, 103-07O)</td>
+<td>Rivière sans nom, à l’est de la rivière Ellice (67-53N, 103-07O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2958,7 +3360,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>41</td>
-<td>Rivière sans nom (pointe Dease) (68-16N, 104-58O)</td>
+<td>Rivière sans nom (pointe Dease) (68-16N, 104-58O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2966,7 +3370,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>42</td>
-<td>Lac sans nom (68-55N, 104-53O)</td>
+<td>Lac sans nom (68-55N, 104-53O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2974,7 +3380,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>43</td>
-<td>Lac sans nom (68-57N, 104-17O)</td>
+<td>Lac sans nom (68-57N, 104-17O)
+
+</td>
 <td>touladi, corégone et omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2982,7 +3390,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>44</td>
-<td>Lac sans nom (68-57N, 104-45O)</td>
+<td>Lac sans nom (68-57N, 104-45O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2990,7 +3400,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>45</td>
-<td>Lac sans nom (68-57N, 104-58O)</td>
+<td>Lac sans nom (68-57N, 104-58O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -2998,7 +3410,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>46</td>
-<td>Lac sans nom (69-00N, 104-22O)</td>
+<td>Lac sans nom (69-00N, 104-22O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3006,7 +3420,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>47</td>
-<td>Lac sans nom (69-01N, 104-38O)</td>
+<td>Lac sans nom (69-01N, 104-38O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3014,7 +3430,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>48</td>
-<td>Lac sans nom (69-02N, 103-17O)</td>
+<td>Lac sans nom (69-02N, 103-17O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3022,7 +3440,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>49</td>
-<td>Lac sans nom (69-03N, 104-47O)</td>
+<td>Lac sans nom (69-03N, 104-47O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3030,7 +3450,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>50</td>
-<td>Lac sans nom (69-04N, 103-01O)</td>
+<td>Lac sans nom (69-04N, 103-01O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3038,7 +3460,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>51</td>
-<td>Lac sans nom (69-04N, 103-14O)</td>
+<td>Lac sans nom (69-04N, 103-14O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3046,7 +3470,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>52</td>
-<td>Lac sans nom (69-04N, 103-55O)</td>
+<td>Lac sans nom (69-04N, 103-55O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3054,7 +3480,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>53</td>
-<td>Lac sans nom (69-04N, 104-20O)</td>
+<td>Lac sans nom (69-04N, 104-20O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3062,7 +3490,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>54</td>
-<td>Lac sans nom (69-04N, 104-47O)</td>
+<td>Lac sans nom (69-04N, 104-47O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3070,7 +3500,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>55</td>
-<td>Lac sans nom (69-05N, 104-10O)</td>
+<td>Lac sans nom (69-05N, 104-10O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3078,7 +3510,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>56</td>
-<td>Lac sans nom (69-05N, 104-40O)</td>
+<td>Lac sans nom (69-05N, 104-40O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3086,7 +3520,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>57</td>
-<td>Lac sans nom (69-06N, 103-40O)</td>
+<td>Lac sans nom (69-06N, 103-40O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3094,7 +3530,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>58</td>
-<td>Lac sans nom (69-06N, 104-00O)</td>
+<td>Lac sans nom (69-06N, 104-00O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3102,7 +3540,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>59</td>
-<td>Lac sans nom (69-06N, 104-40O)</td>
+<td>Lac sans nom (69-06N, 104-40O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3110,7 +3550,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>60</td>
-<td>Lac sans nom (69-07N, 104-50O)</td>
+<td>Lac sans nom (69-07N, 104-50O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3118,7 +3560,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>61</td>
-<td>Lac sans nom (69-09N, 102-57O)</td>
+<td>Lac sans nom (69-09N, 102-57O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3126,7 +3570,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>62</td>
-<td>Lac sans nom (69-09N, 104-10O)</td>
+<td>Lac sans nom (69-09N, 104-10O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3134,7 +3580,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>63</td>
-<td>Lac sans nom (69-09N, 104-42O)</td>
+<td>Lac sans nom (69-09N, 104-42O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3142,7 +3590,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>64</td>
-<td>Lac sans nom (69-09N, 105-20O)</td>
+<td>Lac sans nom (69-09N, 105-20O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3150,7 +3600,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>65</td>
-<td>Lac sans nom (69-11N, 103-55O)</td>
+<td>Lac sans nom (69-11N, 103-55O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3158,7 +3610,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>66</td>
-<td>Lac sans nom (69-11N, 105-24O)</td>
+<td>Lac sans nom (69-11N, 105-24O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3166,7 +3620,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>67</td>
-<td>Lac sans nom (69-12N, 103-50O)</td>
+<td>Lac sans nom (69-12N, 103-50O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3174,7 +3630,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>68</td>
-<td>Lac sans nom (69-12N, 104-44O)</td>
+<td>Lac sans nom (69-12N, 104-44O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3182,7 +3640,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>69</td>
-<td>Lac sans nom (69-14N, 103-31O)</td>
+<td>Lac sans nom (69-14N, 103-31O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3190,7 +3650,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>70</td>
-<td>Lac sans nom (69-14N, 104-05O)</td>
+<td>Lac sans nom (69-14N, 104-05O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3198,7 +3660,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>71</td>
-<td>Lac sans nom (69-14N, 105-18O)</td>
+<td>Lac sans nom (69-14N, 105-18O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3206,7 +3670,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>72</td>
-<td>Lac sans nom (69-15N, 104-35O)</td>
+<td>Lac sans nom (69-15N, 104-35O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3214,7 +3680,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>73</td>
-<td>Lac sans nom (69-15N, 104-44O)</td>
+<td>Lac sans nom (69-15N, 104-44O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3222,7 +3690,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>74</td>
-<td>Lac sans nom (69-15N, 105-07O)</td>
+<td>Lac sans nom (69-15N, 105-07O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3230,7 +3700,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>75</td>
-<td>Lac sans nom (69-17N, 104-05O)</td>
+<td>Lac sans nom (69-17N, 104-05O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3238,7 +3710,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>76</td>
-<td>Lac sans nom (69-16N, 104-06O)</td>
+<td>Lac sans nom (69-16N, 104-06O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3246,7 +3720,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>77</td>
-<td>Lac sans nom (69-16N, 105-05O)</td>
+<td>Lac sans nom (69-16N, 105-05O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3254,7 +3730,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>78</td>
-<td>Lac sans nom (69-17N, 104-42O)</td>
+<td>Lac sans nom (69-17N, 104-42O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3262,7 +3740,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>79</td>
-<td>Lac sans nom (69-18N, 104-52O)</td>
+<td>Lac sans nom (69-18N, 104-52O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3270,7 +3750,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>80</td>
-<td>Lac sans nom (69-17N, 104-45O)</td>
+<td>Lac sans nom (69-17N, 104-45O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3278,7 +3760,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>81</td>
-<td>Lac sans nom (69-19N, 104-57O)</td>
+<td>Lac sans nom (69-19N, 104-57O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3286,7 +3770,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>82</td>
-<td>Lac sans nom (69-22N, 103-10O)</td>
+<td>Lac sans nom (69-22N, 103-10O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3294,7 +3780,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>83</td>
-<td>Lac sans nom (69-22N, 105-05O)</td>
+<td>Lac sans nom (69-22N, 105-05O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3302,7 +3790,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>84</td>
-<td>Lac sans nom (69-23N, 103-49O)</td>
+<td>Lac sans nom (69-23N, 103-49O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3310,7 +3800,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>85</td>
-<td>Lac sans nom (69-23N, 103-57O)</td>
+<td>Lac sans nom (69-23N, 103-57O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3318,7 +3810,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>86</td>
-<td>Lac sans nom (69-24N, 104-01O)</td>
+<td>Lac sans nom (69-24N, 104-01O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3326,7 +3820,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>87</td>
-<td>Lac sans nom (69-28N, 104-06O)</td>
+<td>Lac sans nom (69-28N, 104-06O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3334,7 +3830,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>88</td>
-<td>Lac sans nom (69-29N, 104-02O)</td>
+<td>Lac sans nom (69-29N, 104-02O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3342,7 +3840,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>89</td>
-<td>Lac sans nom (69-31N, 105-47O)</td>
+<td>Lac sans nom (69-31N, 105-47O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3350,7 +3850,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>90</td>
-<td>Lac sans nom (69-32N, 106-01O)</td>
+<td>Lac sans nom (69-32N, 106-01O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3358,7 +3860,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>91</td>
-<td>Lac sans nom (69-33N, 104-05O)</td>
+<td>Lac sans nom (69-33N, 104-05O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3366,7 +3870,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>92</td>
-<td>Lac sans nom (69-33N, 104-35O)</td>
+<td>Lac sans nom (69-33N, 104-35O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3374,7 +3880,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>93</td>
-<td>Lac sans nom (69-33N, 105-37O)</td>
+<td>Lac sans nom (69-33N, 105-37O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3382,7 +3890,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>94</td>
-<td>Lac sans nom (69-33N, 105-46O)</td>
+<td>Lac sans nom (69-33N, 105-46O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3390,7 +3900,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>95</td>
-<td>Lac sans nom (69-33N, 105-50O)</td>
+<td>Lac sans nom (69-33N, 105-50O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3398,7 +3910,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>96</td>
-<td>Lac sans nom (69-33N, 106-58O)</td>
+<td>Lac sans nom (69-33N, 106-58O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>73</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3406,7 +3920,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>97</td>
-<td>Lac sans nom (69-34N, 104-10O)</td>
+<td>Lac sans nom (69-34N, 104-10O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3414,7 +3930,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>98</td>
-<td>Lac sans nom (69-34N, 104-58O)</td>
+<td>Lac sans nom (69-34N, 104-58O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3422,7 +3940,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>99</td>
-<td>Lac sans nom (69-34N, 105-47O)</td>
+<td>Lac sans nom (69-34N, 105-47O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3430,7 +3950,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>100</td>
-<td>Lac sans nom (69-35N, 104-25O)</td>
+<td>Lac sans nom (69-35N, 104-25O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3438,7 +3960,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>101</td>
-<td>Lac sans nom (69-35N, 104-58O)</td>
+<td>Lac sans nom (69-35N, 104-58O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3446,7 +3970,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>102</td>
-<td>Lac sans nom (69-36N, 105-29O)</td>
+<td>Lac sans nom (69-36N, 105-29O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3454,7 +3980,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>103</td>
-<td>Lac sans nom (69-37N, 104-57O)</td>
+<td>Lac sans nom (69-37N, 104-57O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3462,7 +3990,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>104</td>
-<td>Lac sans nom (69-37N, 105-46O)</td>
+<td>Lac sans nom (69-37N, 105-46O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3470,7 +4000,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>105</td>
-<td>Lac sans nom (69-37N, 105-48O)</td>
+<td>Lac sans nom (69-37N, 105-48O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3478,7 +4010,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>106</td>
-<td>Lac sans nom (69-38N, 105-20O)</td>
+<td>Lac sans nom (69-38N, 105-20O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3486,7 +4020,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>107</td>
-<td>Lac sans nom (69-38N, 105-32O)</td>
+<td>Lac sans nom (69-38N, 105-32O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3494,7 +4030,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>108</td>
-<td>Lac sans nom (69-38N, 105-39O)</td>
+<td>Lac sans nom (69-38N, 105-39O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3502,7 +4040,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>109</td>
-<td>Lac sans nom (69-38N, 105-57O)</td>
+<td>Lac sans nom (69-38N, 105-57O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3510,7 +4050,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>110</td>
-<td>Lac sans nom (69-38N, 106-02O)</td>
+<td>Lac sans nom (69-38N, 106-02O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3518,7 +4060,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>111</td>
-<td>Lac sans nom (69-39N, 106-00O)</td>
+<td>Lac sans nom (69-39N, 106-00O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3526,7 +4070,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>112</td>
-<td>Lac sans nom (69-39N, 106-01O)</td>
+<td>Lac sans nom (69-39N, 106-01O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3534,7 +4080,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>113</td>
-<td>Lac sans nom (69-40N, 104-05O)</td>
+<td>Lac sans nom (69-40N, 104-05O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3542,7 +4090,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>114</td>
-<td>Lac sans nom (69-41N, 104-10O)</td>
+<td>Lac sans nom (69-41N, 104-10O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3550,7 +4100,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>115</td>
-<td>Lac sans nom (69-41N, 104-37O)</td>
+<td>Lac sans nom (69-41N, 104-37O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3558,7 +4110,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>116</td>
-<td>Lac sans nom (69-40N, 105-18O)</td>
+<td>Lac sans nom (69-40N, 105-18O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3566,7 +4120,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>117</td>
-<td>Lac sans nom (69-42N, 104-50O)</td>
+<td>Lac sans nom (69-42N, 104-50O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3574,7 +4130,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>118</td>
-<td>Lac sans nom (69-42N, 105-52O)</td>
+<td>Lac sans nom (69-42N, 105-52O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3582,7 +4140,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>118.1</td>
-<td>Lac sans nom (Lac Jones) (69-42N, 106-25O)</td>
+<td>Lac sans nom (Lac Jones) (69-42N, 106-25O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3590,7 +4150,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>119</td>
-<td>Lac sans nom (69-43N, 104-07O)</td>
+<td>Lac sans nom (69-43N, 104-07O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3598,7 +4160,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>120</td>
-<td>Lac sans nom (69-43N, 105-27O)</td>
+<td>Lac sans nom (69-43N, 105-27O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3606,7 +4170,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>121</td>
-<td>Lac sans nom (69-43N, 105-42O)</td>
+<td>Lac sans nom (69-43N, 105-42O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3614,7 +4180,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>122</td>
-<td>Lac sans nom (69-43N, 105-47O)</td>
+<td>Lac sans nom (69-43N, 105-47O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3622,7 +4190,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>123</td>
-<td>Lac sans nom (69-45N, 104-00O)</td>
+<td>Lac sans nom (69-45N, 104-00O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3630,7 +4200,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>124</td>
-<td>Lac sans nom (69-45N, 104-20O)</td>
+<td>Lac sans nom (69-45N, 104-20O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3638,7 +4210,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>125</td>
-<td>Lac sans nom (69-48N, 104-12O)</td>
+<td>Lac sans nom (69-48N, 104-12O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3646,7 +4220,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>126</td>
-<td>Lac sans nom (69-48N, 104-59O)</td>
+<td>Lac sans nom (69-48N, 104-59O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3654,7 +4230,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>127</td>
-<td>Lac sans nom (69-50N, 104-00O)</td>
+<td>Lac sans nom (69-50N, 104-00O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3662,7 +4240,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>128</td>
-<td>Lac sans nom (69-50N, 104-07O)</td>
+<td>Lac sans nom (69-50N, 104-07O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3670,7 +4250,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>129</td>
-<td>Lac sans nom (69-52N, 104-06O)</td>
+<td>Lac sans nom (69-52N, 104-06O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3678,7 +4260,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>130</td>
-<td>Lac sans nom (69-52N, 104-15O)</td>
+<td>Lac sans nom (69-52N, 104-15O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3686,7 +4270,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>131</td>
-<td>Lac sans nom (69-53N, 104-20O)</td>
+<td>Lac sans nom (69-53N, 104-20O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3694,7 +4280,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>132</td>
-<td>Lac sans nom (69-53N, 104-26O)</td>
+<td>Lac sans nom (69-53N, 104-26O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3702,7 +4290,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>133</td>
-<td>Lac sans nom (69-55N, 104-08O)</td>
+<td>Lac sans nom (69-55N, 104-08O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3710,7 +4300,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>134</td>
-<td>Lac sans nom (69-55N, 105-06O)</td>
+<td>Lac sans nom (69-55N, 105-06O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3718,7 +4310,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>135</td>
-<td>Lac sans nom (69-56N, 104-15O)</td>
+<td>Lac sans nom (69-56N, 104-15O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3726,7 +4320,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>136</td>
-<td>Lac sans nom (69-57N, 104-00O)</td>
+<td>Lac sans nom (69-57N, 104-00O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3734,7 +4330,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>137</td>
-<td>Lac sans nom (69-57N, 104-10O)</td>
+<td>Lac sans nom (69-57N, 104-10O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3742,7 +4340,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>138</td>
-<td>Lac sans nom (69-57N, 104-20O)</td>
+<td>Lac sans nom (69-57N, 104-20O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3750,7 +4350,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>139</td>
-<td>Lac sans nom (69-57N, 104-29O)</td>
+<td>Lac sans nom (69-57N, 104-29O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3758,7 +4360,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>140</td>
-<td>Lac sans nom (69-58N, 104-12O)</td>
+<td>Lac sans nom (69-58N, 104-12O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3766,7 +4370,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>141</td>
-<td>Lac sans nom (69-58N, 104-34O)</td>
+<td>Lac sans nom (69-58N, 104-34O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3774,7 +4380,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>142</td>
-<td>Rivière et lac sans nom (69-35N, 112-58O)</td>
+<td>Rivière et lac sans nom (69-35N, 112-58O)
+
+</td>
 <td>omble de l’Arctique (marin) et touladi</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3782,7 +4390,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>143</td>
-<td>Rivière sans nom, secteur du cap Adelaide, Nauyuak (69-16N, 102-00O)</td>
+<td>Rivière sans nom, secteur du cap Adelaide, Nauyuak (69-16N, 102-00O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3790,7 +4400,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>144</td>
-<td>Rivière sans nom péninsule Collinson (69-56N, 101-25O)</td>
+<td>Rivière sans nom péninsule Collinson (69-56N, 101-25O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3801,7 +4413,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>1</td>
-<td>Lac Alda (65-45N, 88-56O)</td>
+<td>Lac Alda (65-45N, 88-56O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3816,7 +4430,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>3</td>
-<td>Lac Baker (64-19N, 96-03O)</td>
+<td>Lac Baker (64-19N, 96-03O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3824,7 +4440,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>4</td>
-<td>Baker Foreland (62-55N, 90-48O)</td>
+<td>Baker Foreland (62-55N, 90-48O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3832,7 +4450,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>5</td>
-<td>Lac Banks (63-10N, 94-25O)</td>
+<td>Lac Banks (63-10N, 94-25O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3840,7 +4460,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>6</td>
-<td>Lac Baralzon (60-00N, 98-00O)</td>
+<td>Lac Baralzon (60-00N, 98-00O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3848,7 +4470,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>7</td>
-<td>Secteur des îles Belcher (56-15N, 78-45O)</td>
+<td>Secteur des îles Belcher (56-15N, 78-45O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3862,7 +4486,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>8</td>
-<td>Baie Bennett, baie Wager (65-55N, 89-40O)</td>
+<td>Baie Bennett, baie Wager (65-55N, 89-40O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3877,7 +4503,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>10</td>
-<td>Lac Blakely (63-18N, 94-55O)</td>
+<td>Lac Blakely (63-18N, 94-55O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3885,7 +4513,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>11</td>
-<td>Lac Boland (61-41N, 99-38O)</td>
+<td>Lac Boland (61-41N, 99-38O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3893,7 +4523,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>12</td>
-<td>Lac Bray (61-29N, 98-04O)</td>
+<td>Lac Bray (61-29N, 98-04O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3901,7 +4533,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>13</td>
-<td>Rivière Brown (65-55N, 90-55O)</td>
+<td>Rivière Brown (65-55N, 90-55O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3909,7 +4543,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>13.1</td>
-<td>Baie Button (Secteur de Churchill) (58-45N, 94-23O)</td>
+<td>Baie Button (Secteur de Churchill) (58-45N, 94-23O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3917,7 +4553,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>14</td>
-<td>Lac Carr (62-05N, 95-45O)</td>
+<td>Lac Carr (62-05N, 95-45O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3925,7 +4563,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>14.1</td>
-<td>Lac Casimir (61-30N, 102-45O)</td>
+<td>Lac Casimir (61-30N, 102-45O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3933,7 +4573,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>15</td>
-<td>Lac Charlie (60-00N, 100-35O)</td>
+<td>Lac Charlie (60-00N, 100-35O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3941,7 +4583,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>16</td>
-<td>Inlet Chesterfield (Baie Fish) (63-19N, 90-45O)</td>
+<td>Inlet Chesterfield (Baie Fish) (63-19N, 90-45O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3949,7 +4593,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>17</td>
-<td>Secteur de la rivière Churchill (58-47N, 94-12O)</td>
+<td>Secteur de la rivière Churchill (58-47N, 94-12O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3969,7 +4615,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>18</td>
-<td>Lac Christie (66-49N, 87-10O)</td>
+<td>Lac Christie (66-49N, 87-10O)
+
+</td>
 <td>corégone, truite et omble de l’Arctique</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3977,7 +4625,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>19</td>
-<td>Rivière Cleveland (65-13N, 84-48O)</td>
+<td>Rivière Cleveland (65-13N, 84-48O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3985,7 +4635,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>20</td>
-<td>Rivière Copperneedle (61-52N, 93-37O)</td>
+<td>Rivière Copperneedle (61-52N, 93-37O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -3993,7 +4645,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>21</td>
-<td>Inlet Corbett (62-28N, 92-20O)</td>
+<td>Inlet Corbett (62-28N, 92-20O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4001,7 +4655,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>22</td>
-<td>Lac Cullaton (61-20N, 98-26O)</td>
+<td>Lac Cullaton (61-20N, 98-26O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4009,7 +4665,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>23</td>
-<td>Lac de Bartok (60-14N, 99-00O)</td>
+<td>Lac de Bartok (60-14N, 99-00O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4017,7 +4675,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>24</td>
-<td>Lac Diana (62-58N, 92-45O)</td>
+<td>Lac Diana (62-58N, 92-45O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4025,7 +4685,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>25</td>
-<td>Lac Dubawnt (63-08N, 101-30O)</td>
+<td>Lac Dubawnt (63-08N, 101-30O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4033,7 +4695,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>26</td>
-<td>East Point (63-44N, 91-56O)</td>
+<td>East Point (63-44N, 91-56O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4041,7 +4705,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>26.1</td>
-<td>Lac Ecklund (62-28N, 102-59O)</td>
+<td>Lac Ecklund (62-28N, 102-59O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4049,7 +4715,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>27</td>
-<td>Lac Elliot (61-05N, 99-27O)</td>
+<td>Lac Elliot (61-05N, 99-27O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4057,7 +4725,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>28</td>
-<td>Secteur Eskimo Point (61-07N, 94-04O)</td>
+<td>Secteur Eskimo Point (61-07N, 94-04O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4065,7 +4735,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>29</td>
-<td>Rivière Ferguson (62-03N, 93-20O)</td>
+<td>Rivière Ferguson (62-03N, 93-20O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4073,7 +4745,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>30</td>
-<td>Lac Flett (60-25N, 104-09O)</td>
+<td>Lac Flett (60-25N, 104-09O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4081,7 +4755,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>31</td>
-<td>Lac Garry (66-00N, 100-00O)</td>
+<td>Lac Garry (66-00N, 100-00O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4096,7 +4772,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>33</td>
-<td>Rivière Gordon (64-31N, 87-49O)</td>
+<td>Rivière Gordon (64-31N, 87-49O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4104,7 +4782,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>34</td>
-<td>Baie Gore (66-19N, 84-24O)</td>
+<td>Baie Gore (66-19N, 84-24O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4112,7 +4792,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>35</td>
-<td>Lac Grant (63-38N, 100-30O)</td>
+<td>Lac Grant (63-38N, 100-30O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4120,7 +4802,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>36</td>
-<td>Rivière Hanway (63-32N, 92-23O)</td>
+<td>Rivière Hanway (63-32N, 92-23O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4128,7 +4812,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>37</td>
-<td>Secteur de la baie Haviland (66-31N, 85-25O)</td>
+<td>Secteur de la baie Haviland (66-31N, 85-25O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4136,7 +4822,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>38</td>
-<td>Lac Jenne (60-31N, 103-36O)</td>
+<td>Lac Jenne (60-31N, 103-36O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4144,7 +4832,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>39</td>
-<td>Rivière Josephine (63-02N, 90-41O)</td>
+<td>Rivière Josephine (63-02N, 90-41O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4152,7 +4842,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>40</td>
-<td>Ruisseau Kamarvik (64-45N, 87-29O)</td>
+<td>Ruisseau Kamarvik (64-45N, 87-29O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4160,7 +4852,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>41</td>
-<td>Lac Kaminak (62-10N, 95-00O)</td>
+<td>Lac Kaminak (62-10N, 95-00O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4168,7 +4862,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>42</td>
-<td>Lac Kaminuriak (62-55N, 95-30O)</td>
+<td>Lac Kaminuriak (62-55N, 95-30O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4176,7 +4872,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>43</td>
-<td>Lac Machum (63-15N, 92-35O)</td>
+<td>Lac Machum (63-15N, 92-35O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4184,7 +4882,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>44</td>
-<td>Lac MacQuoid (63-25N, 94-40O)</td>
+<td>Lac MacQuoid (63-25N, 94-40O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4192,7 +4892,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>45</td>
-<td>Rivière Maguse (61-17N, 94-03O)</td>
+<td>Rivière Maguse (61-17N, 94-03O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4200,7 +4902,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>46</td>
-<td>Lac Mallery (63-55N, 98-25O)</td>
+<td>Lac Mallery (63-55N, 98-25O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4208,7 +4912,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>47</td>
-<td>Lac McAleese (60-19N, 98-38O)</td>
+<td>Lac McAleese (60-19N, 98-38O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4216,7 +4922,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>48</td>
-<td>Merles Harbour (63-42N, 91-24O)</td>
+<td>Merles Harbour (63-42N, 91-24O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4224,7 +4932,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>49</td>
-<td>Baie Mistake (62-10N, 92-57O)</td>
+<td>Baie Mistake (62-10N, 92-57O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4232,7 +4942,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>50</td>
-<td>Lac North Henik (61-45N, 97-40O)</td>
+<td>Lac North Henik (61-45N, 97-40O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4240,7 +4952,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>51</td>
-<td>Rivière North Pole (66-32N, 86-45O)</td>
+<td>Rivière North Pole (66-32N, 86-45O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4248,7 +4962,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>52</td>
-<td>Lac North Pole (66-37N, 86-53O)</td>
+<td>Lac North Pole (66-37N, 86-53O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4256,7 +4972,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>53</td>
-<td>Lac Nueltin (60-30N, 99-30O)</td>
+<td>Lac Nueltin (60-30N, 99-30O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4264,7 +4982,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>54</td>
-<td>Lac O’Neil (62-27N, 95-17O)</td>
+<td>Lac O’Neil (62-27N, 95-17O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4272,7 +4992,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>55</td>
-<td>Lac Parker A (63-30N, 95-15O)</td>
+<td>Lac Parker A (63-30N, 95-15O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4280,7 +5002,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>56</td>
-<td>Lac Parker B (63-17N, 95-15O)</td>
+<td>Lac Parker B (63-17N, 95-15O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4288,7 +5012,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>57</td>
-<td>Lac Peter (63-08N, 92-48O)</td>
+<td>Lac Peter (63-08N, 92-48O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4296,7 +5022,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>58</td>
-<td>Rivière Piksimanik (Havre Douglas) (65-38N, 88-24O)</td>
+<td>Rivière Piksimanik (Havre Douglas) (65-38N, 88-24O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4304,7 +5032,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>59</td>
-<td>Baie du Pistolet (62-28N, 92-44O)</td>
+<td>Baie du Pistolet (62-28N, 92-44O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4312,7 +5042,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>60</td>
-<td>Lac Pitz (64-00N, 96-45O)</td>
+<td>Lac Pitz (64-00N, 96-45O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4320,7 +5052,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>61</td>
-<td>Lac Princess Mary (64-00N, 97-35O)</td>
+<td>Lac Princess Mary (64-00N, 97-35O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4328,7 +5062,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>62</td>
-<td>Lac Quartzite (62-25N, 94-35O)</td>
+<td>Lac Quartzite (62-25N, 94-35O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4336,7 +5072,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>63</td>
-<td>Baie Ranger Seal (63-45N, 91-42O)</td>
+<td>Baie Ranger Seal (63-45N, 91-42O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4344,7 +5082,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>64</td>
-<td>Secteur de l’inlet Rankin (62-45N, 92-05O)</td>
+<td>Secteur de l’inlet Rankin (62-45N, 92-05O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4352,7 +5092,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>65</td>
-<td>Baie Robinhood (63-45N, 92-02O)</td>
+<td>Baie Robinhood (63-45N, 92-02O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4360,7 +5102,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>66</td>
-<td>Pointe Sandy (61-44N, 93-15O)</td>
+<td>Pointe Sandy (61-44N, 93-15O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4368,7 +5112,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>67</td>
-<td>Lac Savage (62-24N, 95-20O)</td>
+<td>Lac Savage (62-24N, 95-20O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4376,7 +5122,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>68</td>
-<td>Lac Schultz (64-45N, 97-30O)</td>
+<td>Lac Schultz (64-45N, 97-30O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4384,7 +5132,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>69</td>
-<td>Rivière Snowbank (65-53N, 86-22O)</td>
+<td>Rivière Snowbank (65-53N, 86-22O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4392,7 +5142,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>70</td>
-<td>Lac South Henik (61-30N, 97-30O)</td>
+<td>Lac South Henik (61-30N, 97-30O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4400,7 +5152,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>71</td>
-<td>Baie Steep Bank (63-36N, 91-37O)</td>
+<td>Baie Steep Bank (63-36N, 91-37O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4408,7 +5162,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>72</td>
-<td>Secteur de la pointe Stoney (63-51N, 92-48O)</td>
+<td>Secteur de la pointe Stoney (63-51N, 92-48O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4416,7 +5172,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>73</td>
-<td>Lac Tebesjuak (63-40N, 99-00O)</td>
+<td>Lac Tebesjuak (63-40N, 99-00O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4424,7 +5182,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>74</td>
-<td>Lac Tehek (64-55N, 95-38O)</td>
+<td>Lac Tehek (64-55N, 95-38O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4432,7 +5192,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>75</td>
-<td>Rivière Thomsen (65-31N, 85-15O)</td>
+<td>Rivière Thomsen (65-31N, 85-15O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4440,7 +5202,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>76</td>
-<td>Rivière Wallace (61-37N, 93-41O)</td>
+<td>Rivière Wallace (61-37N, 93-41O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4455,7 +5219,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>78</td>
-<td>Lac Whitehills (64-35N, 96-00O)</td>
+<td>Lac Whitehills (64-35N, 96-00O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4463,7 +5229,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>79</td>
-<td>Baie Wilson (62-18N, 92-53O)</td>
+<td>Baie Wilson (62-18N, 92-53O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4471,7 +5239,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>80</td>
-<td>Lac Windy (60-20N, 100-02O)</td>
+<td>Lac Windy (60-20N, 100-02O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4479,7 +5249,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>81</td>
-<td>Lac sans nom (61-33N, 93-50O)</td>
+<td>Lac sans nom (61-33N, 93-50O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4487,7 +5259,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>82</td>
-<td>Lac sans nom (61-57N, 93-22O)</td>
+<td>Lac sans nom (61-57N, 93-22O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4495,7 +5269,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>83</td>
-<td>Lac sans nom (63-32N, 92-35O)</td>
+<td>Lac sans nom (63-32N, 92-35O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4503,7 +5279,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>84</td>
-<td>Lac sans nom (63-32N, 92-50O)</td>
+<td>Lac sans nom (63-32N, 92-50O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4511,7 +5289,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>85</td>
-<td>Rivière sans nom (Baie Wager) (65-15N, 87-41O)</td>
+<td>Rivière sans nom (Baie Wager) (65-15N, 87-41O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4519,7 +5299,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>86</td>
-<td>Lac sans nom (Secteur de la baie Repulse) (66-43N, 87-03O)</td>
+<td>Lac sans nom (Secteur de la baie Repulse) (66-43N, 87-03O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4527,7 +5309,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>87</td>
-<td>Lac sans nom (Secteur de la baie Repulse) (66-51N, 87-17O)</td>
+<td>Lac sans nom (Secteur de la baie Repulse) (66-51N, 87-17O)
+
+</td>
 <td>corégone et truite</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4535,7 +5319,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>88</td>
-<td>Rivière sans nom (Rivière Big, baie Barbour) (63-32N, 92-27O)</td>
+<td>Rivière sans nom (Rivière Big, baie Barbour) (63-32N, 92-27O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4543,14 +5329,12 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>RÉGION VI — BAFFIN — HAUT ARCTIQUE</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>1</td>
-<td>Lac et rivière de l’île Adams (71-24N, 73-13O)</td>
+<td>Lac et rivière de l’île Adams (71-24N, 73-13O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4558,7 +5342,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>2</td>
-<td>Lac Amadjuak (65-00N, 71-00O)</td>
+<td>Lac Amadjuak (65-00N, 71-00O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4573,7 +5359,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>4</td>
-<td>Lac Ayr (70-24N, 70-15O)</td>
+<td>Lac Ayr (70-24N, 70-15O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4581,7 +5369,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>5</td>
-<td>Rivière de la baie Blandford (63-35N, 71-11O)</td>
+<td>Rivière de la baie Blandford (63-35N, 71-11O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4596,7 +5386,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>7</td>
-<td>Lac et rivière du cap Adair (71-30N, 71-55O)</td>
+<td>Lac et rivière du cap Adair (71-30N, 71-55O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4604,7 +5396,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>8</td>
-<td>Lac Circle (66-32N, 64-10O)</td>
+<td>Lac Circle (66-32N, 64-10O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4612,7 +5406,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>9</td>
-<td>Inlet Clyde (69-50N, 70-30O)</td>
+<td>Inlet Clyde (69-50N, 70-30O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4620,7 +5416,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>10</td>
-<td>Rivière Cockburn (70-26N, 78-41O)</td>
+<td>Rivière Cockburn (70-26N, 78-41O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4628,7 +5426,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>11</td>
-<td>Secteur de l’inlet Coutts (71-43N, 76-02O)</td>
+<td>Secteur de l’inlet Coutts (71-43N, 76-02O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4643,7 +5443,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>13</td>
-<td>Lac et rivière Duart Fjord Dexterity (71-20N, 72-47O)</td>
+<td>Lac et rivière Duart Fjord Dexterity (71-20N, 72-47O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4651,7 +5453,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>14</td>
-<td>Secteur de la baie Eqe (69-40N, 76-25O)</td>
+<td>Secteur de la baie Eqe (69-40N, 76-25O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4659,7 +5463,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>15</td>
-<td>Lac Erichsen (70-40N, 80-41O)</td>
+<td>Lac Erichsen (70-40N, 80-41O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4667,7 +5473,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>16</td>
-<td>Lac et rivière de la baie Feachem (71-53N, 74-20O)</td>
+<td>Lac et rivière de la baie Feachem (71-53N, 74-20O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4682,7 +5490,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>18</td>
-<td>Rivière Gifford (70-19N, 83-03O)</td>
+<td>Rivière Gifford (70-19N, 83-03O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4690,7 +5500,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>19</td>
-<td>Lac Hall (68-41N, 82-17O)</td>
+<td>Lac Hall (68-41N, 82-17O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4704,7 +5516,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>21.1</td>
-<td>Lac Ijaruvung (66-43N, 67-46O)</td>
+<td>Lac Ijaruvung (66-43N, 67-46O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4712,7 +5526,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>21.2</td>
-<td>Lac Ikaluit (Inlet Robert Peel) (65-02N, 67-07O)</td>
+<td>Lac Ikaluit (Inlet Robert Peel) (65-02N, 67-07O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4720,7 +5536,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>21.3</td>
-<td>Rivière Ikaluit (Détroit Tay) (71-58N, 79-15O)</td>
+<td>Rivière Ikaluit (Détroit Tay) (71-58N, 79-15O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4728,7 +5546,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>21.4</td>
-<td>Lac et rivière Ikalukjuak (66-25N, 66-29O)</td>
+<td>Lac et rivière Ikalukjuak (66-25N, 66-29O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4736,7 +5556,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>21.5</td>
-<td>Lac Ikikeesarjuk (71-12N, 87-22O)</td>
+<td>Lac Ikikeesarjuk (71-12N, 87-22O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4744,7 +5566,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>21.6</td>
-<td>Rivière Ikpik et lac Gillian (69-30N, 75-30O)</td>
+<td>Rivière Ikpik et lac Gillian (69-30N, 75-30O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4752,7 +5576,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>21.7</td>
-<td>Lac Ikpikiturjuaq (70-21N, 78-24O)</td>
+<td>Lac Ikpikiturjuaq (70-21N, 78-24O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4760,7 +5586,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>21.8</td>
-<td>Fjord Iqalujjuaq (65-43N, 64-51O)</td>
+<td>Fjord Iqalujjuaq (65-43N, 64-51O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4768,7 +5596,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>22</td>
-<td>Inlet Irvine Secteur de la rivière McKeand (65-30N, 68-00O)</td>
+<td>Inlet Irvine Secteur de la rivière McKeand (65-30N, 68-00O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4776,7 +5606,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>23</td>
-<td>Rivière Isortoq (70-00N, 76-59O)</td>
+<td>Rivière Isortoq (70-00N, 76-59O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4784,7 +5616,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>23.1</td>
-<td>Lac Kangisuajuq (64-40N, 73-21O)</td>
+<td>Lac Kangisuajuq (64-40N, 73-21O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4792,7 +5626,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>24</td>
-<td>Fiord Kingnait (66-15N, 64-22O)</td>
+<td>Fiord Kingnait (66-15N, 64-22O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4807,7 +5643,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>26</td>
-<td>Rivière Kukaluk (70-13N, 81-57O)</td>
+<td>Rivière Kukaluk (70-13N, 81-57O)
+
+</td>
 <td>omble de l’Arctique (marin ou des lacs)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4815,7 +5653,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>26.1</td>
-<td>Rivière Kuutannak (69-55N, 67-13O)</td>
+<td>Rivière Kuutannak (69-55N, 67-13O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4823,7 +5663,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>27</td>
-<td>Lac et rivière Lethbridge (71-02N, 73-55O)</td>
+<td>Lac et rivière Lethbridge (71-02N, 73-55O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4831,7 +5673,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>27.1</td>
-<td>Rivière Magda (71-39N, 84-37O)</td>
+<td>Rivière Magda (71-39N, 84-37O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4846,7 +5690,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>29</td>
-<td>Lac Neergaard (70-24N, 79-35O)</td>
+<td>Lac Neergaard (70-24N, 79-35O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4854,7 +5700,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>30</td>
-<td>Secteur du fjord Newton (63-07N, 66-07O)</td>
+<td>Secteur du fjord Newton (63-07N, 66-07O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4862,7 +5710,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>31</td>
-<td>Lac Nettilling (66-30N, 70-55O)</td>
+<td>Lac Nettilling (66-30N, 70-55O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4870,7 +5720,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>32</td>
-<td>Fiord Nudlung (68-21N, 67-27O)</td>
+<td>Fiord Nudlung (68-21N, 67-27O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4878,7 +5730,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>33</td>
-<td>Baie Okalik (64-01N, 65-11O)</td>
+<td>Baie Okalik (64-01N, 65-11O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4886,7 +5740,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>33.1</td>
-<td>Lac Opingivik (65-14N, 67-22O)</td>
+<td>Lac Opingivik (65-14N, 67-22O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4901,7 +5757,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>35</td>
-<td>Secteur du fiord Padle (66-47N, 63-47O)</td>
+<td>Secteur du fiord Padle (66-47N, 63-47O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4909,7 +5767,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>36</td>
-<td>Secteur de l’île Padloping (67-03N, 62-45O)</td>
+<td>Secteur de l’île Padloping (67-03N, 62-45O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4917,7 +5777,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>37</td>
-<td>Lac et rivière de la baie Paquet (71-38N, 77-20O)</td>
+<td>Lac et rivière de la baie Paquet (71-38N, 77-20O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4925,7 +5787,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>38</td>
-<td>Ruisseau Phillips (71-53N, 80-58O)</td>
+<td>Ruisseau Phillips (71-53N, 80-58O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4933,7 +5797,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>39</td>
-<td>Lac et rivière Piling (69-00N, 75-00O)</td>
+<td>Lac et rivière Piling (69-00N, 75-00O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4941,7 +5807,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>40</td>
-<td>Secteur du port Burwell (60-25N, 64-50O)</td>
+<td>Secteur du port Burwell (60-25N, 64-50O)
+
+</td>
 <td>morue</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4949,7 +5817,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>41</td>
-<td>Lac Qualluatik (65-45N, 65-07O)</td>
+<td>Lac Qualluatik (65-45N, 65-07O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4957,7 +5827,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>42</td>
-<td>Rivière Ravn (70-28N, 79-30O)</td>
+<td>Rivière Ravn (70-28N, 79-30O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4965,7 +5837,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>43</td>
-<td>Rivière Rowley (70-15N, 77-47O)</td>
+<td>Rivière Rowley (70-15N, 77-47O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4973,7 +5847,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>44</td>
-<td>Secteur du fjord Sam Ford (70-25N, 71-40O)</td>
+<td>Secteur du fjord Sam Ford (70-25N, 71-40O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4981,7 +5857,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>44.1</td>
-<td>Rivière Sapugaarjuk (70-11N, 80-40O)</td>
+<td>Rivière Sapugaarjuk (70-11N, 80-40O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4989,7 +5867,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>45</td>
-<td>Lac et rivière Saputing (70-48N, 84-59O)</td>
+<td>Lac et rivière Saputing (70-48N, 84-59O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -4997,7 +5877,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>45.1</td>
-<td>Lac Tarrionituk (66-20N, 68-00O)</td>
+<td>Lac Tarrionituk (66-20N, 68-00O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -5005,7 +5887,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>46</td>
-<td>Lac et rivière Tarsiujuak Arm (70-35N, 79-03O)</td>
+<td>Lac et rivière Tarsiujuak Arm (70-35N, 79-03O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -5013,7 +5897,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>47</td>
-<td>Lac Tasialojuak (66-40N, 68-46O)</td>
+<td>Lac Tasialojuak (66-40N, 68-46O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -5021,7 +5907,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>47.1</td>
-<td>Lac Tinitonito (64-40N, 73-58O)</td>
+<td>Lac Tinitonito (64-40N, 73-58O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -5029,7 +5917,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>48</td>
-<td>Lac et rivière Tugaat (72-04N, 80-21O)</td>
+<td>Lac et rivière Tugaat (72-04N, 80-21O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -5037,7 +5927,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>49</td>
-<td>Lac Tundra (66-36N, 64-08O)</td>
+<td>Lac Tundra (66-36N, 64-08O)
+
+</td>
 <td>omble de l’Arctique (des lacs)</td>
 <td>63</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -5045,7 +5937,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>50</td>
-<td>Lac et rivière Whyte (70-08N, 84-47O)</td>
+<td>Lac et rivière Whyte (70-08N, 84-47O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -5053,7 +5947,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>51</td>
-<td>Rivière sans nom (63-26N, 71-32O)</td>
+<td>Rivière sans nom (63-26N, 71-32O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -5068,7 +5964,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>53</td>
-<td>Rivière sans nom (NE de l’île Kekertelung) (66-25N, 66-30O)</td>
+<td>Rivière sans nom (NE de l’île Kekertelung) (66-25N, 66-30O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -5079,11 +5977,12 @@ La partie du delta du fleuve Mackenzie bornée :
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr>
 <td>59</td>
-<td>Rivière sans nom (Fiord Dexterity) (72-12N, 73-03O)</td>
+<td>Rivière sans nom (Fiord Dexterity) (72-12N, 73-03O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -5091,7 +5990,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>60</td>
-<td>Lac et rivière sans nom, baie Kentra (71-19N, 74-19O)</td>
+<td>Lac et rivière sans nom, baie Kentra (71-19N, 74-19O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
@@ -5099,7 +6000,9 @@ La partie du delta du fleuve Mackenzie bornée :
 </tr>
 <tr>
 <td>61</td>
-<td>Lac et rivière sans nom (71-21N, 73-42O)</td>
+<td>Lac et rivière sans nom (71-21N, 73-42O)
+
+</td>
 <td>omble de l’Arctique (marin)</td>
 <td>139</td>
 <td>Du 1<sup>er</sup> avril au 31 mars</td>
