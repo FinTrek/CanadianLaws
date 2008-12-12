@@ -10,22 +10,29 @@ Enabling authorities:
 ----------
 
 
+[Repealed, SOR/2008-316, s. 1]
+
+
 
 ## Short Title
+> [Repealed, SOR/2008-316, s. 1]
 
 
-**1** This Order may be cited as the Ministers Designation Order (Canada Corporations Act).
+
+**1** [Repealed, SOR/2008-316, s. 1]
 
 
 
 
 ## Designations
-
-
-**2** The Minister of Energy, Mines and Resources and the Minister of Indian Affairs and Northern Development are hereby designated, pursuant to subsection 5.1(1) of the [Canada Corporations Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20C-32.md), as the Ministers whose concurrence is required in an application to the Minister of Consumer and Corporate Affairs to incorporate a company under Part I of the said Act whose objects are or include the construction or operation of a pipeline extending beyond the limits of a province for the transmission of oil or gas or both as defined in the [National Energy Board Act](/en/Acts/Revised%20Statutes%20of%20Canada/N/N-7.md).
+> [Repealed, SOR/2008-316, s. 1]
 
 
 
-**3** The Minister of Transport and the Minister of Indian Affairs and Northern Development are hereby designated, pursuant to subsection 5.2(1) of the [Canada Corporations Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20C-32.md), as the Ministers whose concurrence is required in an application to the Minister of Consumer and Corporate Affairs to incorporate a company under Part I of the said Act whose objects are or include the construction or operation of a commodity pipeline, as defined in the National Transportation Act, extending beyond the limits of a province.
+**2** [Repealed, SOR/2008-316, s. 1]
+
+
+
+**3** [Repealed, SOR/2008-316, s. 1]
 
 
