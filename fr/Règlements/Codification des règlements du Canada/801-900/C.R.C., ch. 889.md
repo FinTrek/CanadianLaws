@@ -349,18 +349,18 @@ Autorités habilitantes :
 ### Rapports sur les obligations et la garantie
 
 
-**23** Le négociant en grains, l'exploitant d'installation primaire et l'exploitant d'installation de transformation titulaires d'une licence doivent présenter chaque mois à la Commission, selon la formule appropriée fournie ou acceptée par celle-ci, un rapport sur leurs obligations en cours visant le paiement ou la livraison de grain envers les détenteurs de récépissés, d'accusés de réception ou de bons de paiement et sur le montant de la garantie disponible pour satisfaire à ces obligations à la fin du mois précédent.
-> DORS/84-627, art. 2; DORS/89-376, art. 12(F) et 16(F); DORS/89-395, art. 2(F); DORS/96-508, art. 16; DORS/2000-213, art. 2; DORS/2002-255, art. 7.
+**23** Le négociant en grains, l’exploitant d’installation primaire et l’exploitant d’installation de transformation titulaires d’une licence doivent présenter chaque mois à la Commission, sur une formule appropriée fournie par la Commission ou sur tout support électronique accepté par celle-ci, un rapport sur leurs obligations en cours visant le paiement ou la livraison de grain envers les détenteurs de récépissés, d’accusés de réception ou de bons de paiement et sur le montant de la garantie disponible pour satisfaire à ces obligations à la fin du mois précédent.
+> DORS/84-627, art. 2; DORS/89-376, art. 12(F) et 16(F); DORS/89-395, art. 2(F); DORS/96-508, art. 16; DORS/2000-213, art. 2; DORS/2002-255, art. 7; DORS/2008-314, art. 1.
 
 
 
 
 
-### Rapports des négociants en grains titulaires d'une licence
+### Rapports des négociants en grains titulaires d’une licence
 
 
-**24** Le négociant en grains titulaire d'une licence doit présenter chaque mois à la Commission un rapport sur ses opérations du mois précédent, établi selon la formule fournie ou acceptée par la Commission.
-> DORS/84-791, art. 2; DORS/89-376, art. 16(F); DORS/2000-213, art. 2; DORS/2002-255, art. 7; DORS/2004-198, art. 11(A).
+**24** Le négociant en grains titulaire d’une licence doit présenter chaque mois à la Commission un rapport sur ses opérations du mois précédent, sur une formule appropriée fournie par la Commission ou sur tout support électronique accepté par celle-ci.
+> DORS/84-791, art. 2; DORS/89-376, art. 16(F); DORS/2000-213, art. 2; DORS/2002-255, art. 7; DORS/2004-198, art. 11(A); DORS/2008-314, art. 1.
 
 
 
@@ -371,12 +371,10 @@ Autorités habilitantes :
 
 
 ### Rapports sur les installations de transformation
-> [DORS/2001-273, art. 12]
 
 
-
-**25** Le titulaire d'une licence d'exploitation d'une installation de transformation doit présenter chaque semaine à la Commission un rapport sur ses opérations de la semaine précédente, établi selon la formule appropriée fournie ou jugée acceptable par la Commission.
-> DORS/89-376, art. 16(F); DORS/93-25, art. 1; DORS/96-508, art. 17; DORS/2000-213, art. 2.
+**25** Le titulaire d’une licence d’exploitation d’une installation de transformation doit présenter chaque semaine à la Commission un rapport sur ses opérations de la semaine précédente, sur tout support électronique accepté par celle-ci.
+> DORS/89-376, art. 16(F); DORS/93-25, art. 1; DORS/96-508, art. 17; DORS/2000-213, art. 2; DORS/2008-314, art. 1.
 
 
 
@@ -391,10 +389,10 @@ Autorités habilitantes :
 
 
 
-**26** Le titulaire d'une licence d'exploitation d'une installation primaire doit présenter à la Commission :
-- **a)** chaque semaine, un rapport sur ses opérations de la semaine précédente, établi selon la formule appropriée fournie ou jugée acceptable par la Commission;
-- **b)** au plus tard le 15 octobre de chaque campagne agricole, un rapport annuel sur chaque installation primaire qu'il exploite, établi selon la formule appropriée fournie ou jugée acceptable par la Commission.
-> DORS/89-376, art. 14(F) et 16(F); DORS/93-25, art. 2; DORS/96-508, art. 17; DORS/2000-213, art. 2.
+**26** Le titulaire d’une licence d’exploitation d’une installation primaire doit présenter à la Commission :
+- **a)** chaque semaine, un rapport sur ses opérations de la semaine précédente, sur tout support électronique accepté par la Commission;
+- **b)** au plus tard le 15 octobre de chaque campagne agricole, un rapport sur ses opérations au cours de la campagne précédente à chacune des installations primaires qu’il exploite, sur la formule appropriée fournie par la Commission ou sur tout support électronique accepté par celle-ci.
+> DORS/89-376, art. 14(F) et 16(F); DORS/93-25, art. 2; DORS/96-508, art. 17; DORS/2000-213, art. 2; DORS/2008-314, art. 2.
 
 
 
@@ -405,8 +403,8 @@ Autorités habilitantes :
 
 
 
-**27** L'exploitant d'une installation de transbordement doit, à ce titre, présenter chaque jour à la Commission des rapports sur ses opérations du jour précédent, établis selon les formules fournies ou acceptées par la Commission.
-> DORS/84-626, art. 3; DORS/89-376, art. 14(F) et 16(F); DORS/93-25, art. 3; DORS/96-508, art. 17; DORS/2000-213, art. 2; DORS/2002-255, art. 8.
+**27** L’exploitant d’une installation de transbordement doit, à ce titre, présenter chaque jour à la Commission des rapports sur ses opérations du jour précédent, sur tout support électronique accepté par celle-ci.
+> DORS/84-626, art. 3; DORS/89-376, art. 14(F) et 16(F); DORS/93-25, art. 3; DORS/96-508, art. 17; DORS/2000-213, art. 2; DORS/2002-255, art. 8; DORS/2008-314, art. 3.
 
 
 
@@ -481,8 +479,8 @@ Autorités habilitantes :
 ### Échantillonnage à la livraison
 
 
-**34** Pour l'application des articles 35 et 36, lors de la livraison de grain à une installation primaire agréée, une portion pesant un kilogramme de l'échantillon de grain que l'exploitant de l'installation et la personne livrant le grain jugent représentatif est prélevée sur chaque chargement et conservée à l'installation.
-> DORS/2000-213, art. 2; DORS/2002-255, art. 9; DORS/2004-198, art. 14.
+**34** Pour l’application des articles 35 et 36, lors de la livraison de grain à une installation primaire agréée, une portion pesant au moins un kilogramme de l’échantillon de grain que l’exploitant de l’installation et la personne livrant le grain jugent représentatif est prélevée sur chaque chargement et conservée à l’installation.
+> DORS/2000-213, art. 2; DORS/2002-255, art. 9; DORS/2004-198, art. 14; DORS/2008-314, art. 4.
 
 
 
@@ -493,13 +491,13 @@ Autorités habilitantes :
 
 **35** 
 
-- **(1)** L'exploitant d'une installation primaire agréée doit déterminer avec précision les impuretés contenues dans le grain livré à l'installation :
-	- **a)** en prélevant sur l'échantillon visé à l'article 34 une portion représentative pesant 500 g;
-	- **b)** en analysant l'échantillon à l'aide de matériel approuvé par la Commission et en enlevant à la main, au besoin, toute quantité que ce matériel ne peut séparer;
-	- **c)** en arrondissant la quantité d'impuretés à 0,1 % près.
+- **(1)** L’exploitant d’une installation primaire agréée doit déterminer avec précision les impuretés contenues dans le grain livré à l’installation :
+	- **a)** en prélevant sur l’échantillon visé à l’article 34 une portion représentative pesant au moins 750 g;
+	- **b)** en analysant l’échantillon à l’aide de matériel approuvé par la Commission et en enlevant à la main, au besoin, toute quantité que ce matériel ne peut séparer;
+	- **c)** en arrondissant la quantité d’impuretés à 0,1 % près.
 
-- **(2)** Si la personne qui livre du grain à une installation primaire agréée en fait la demande, l'analyse permettant de déterminer les impuretés contenues dans le grain doit avoir lieu en sa présence.
-> DORS/84-626, art. 6; DORS/89-376, art. 14(F) et 16(F); DORS/95-386, art. 5; DORS/96-508, art. 23; DORS/2000-213, art. 2; DORS/2002-255, art. 10.
+- **(2)** Si la personne qui livre du grain à une installation primaire agréée en fait la demande, l’analyse permettant de déterminer les impuretés contenues dans le grain doit avoir lieu en sa présence.
+> DORS/84-626, art. 6; DORS/89-376, art. 14(F) et 16(F); DORS/95-386, art. 5; DORS/96-508, art. 23; DORS/2000-213, art. 2; DORS/2002-255, art. 10; DORS/2008-314, art. 5.
 
 
 
@@ -514,24 +512,24 @@ Autorités habilitantes :
 
 **36** 
 
-- **(1)** Si l'exploitant d'une installation primaire agréée et la personne y livrant du grain ne s'entendent pas sur le classement ou les impuretés du grain livré et qu'un récépissé provisoire d'installation primaire est délivré, l'exploitant, en présence de la personne livrant le grain, doit prélever une portion représentative pesant 750 g sur l'échantillon visé à l'article 34 et doit :
-	- **a)** mettre la portion représentative dans un contenant qui est fourni par l'exploitant ou la personne livrant le grain et que ceux-ci jugent propre à préserver l'intégrité de l'échantillon;
-	- **b)** apposer sur le contenant le nom du propriétaire du grain et le numéro du récépissé provisoire de l'installation primaire;
-	- **c)** inscrire la mention « Sous réserve du classement et de la détermination des impuretés par l'inspecteur » sur le contenant;
-	- **d)** expédier le contenant en port payé au bureau d'inspection régional de la Commission le plus près, accompagné d'une demande écrite de l'exploitant de l'installation ou du propriétaire du grain priant un inspecteur d'examiner la portion représentative et de communiquer aux personnes dont le nom figure sur la demande le grade et les impuretés qu'il attribuerait au grain s'il procédait à l'inspection officielle.
+- **(1)** Si l’exploitant d’une installation primaire agréée et la personne y livrant du grain ne s’entendent pas sur le classement ou les impuretés du grain livré et qu’un récépissé provisoire d’installation primaire est délivré, l’exploitant, en présence de la personne livrant le grain, doit prélever une portion représentative pesant au moins 750 g sur l’échantillon visé à l’article 34 et doit :
+	- **a)** mettre la portion représentative dans un contenant qui est fourni par l’exploitant ou la personne livrant le grain et que ceux-ci jugent propre à préserver l’intégrité de l’échantillon;
+	- **b)** apposer sur le contenant le nom du propriétaire du grain et le numéro du récépissé provisoire de l’installation primaire;
+	- **c)** inscrire la mention « Sous réserve du classement et de la détermination des impuretés par l’inspecteur » sur le contenant;
+	- **d)** expédier le contenant en port payé au bureau d’inspection régional de la Commission le plus près, accompagné d’une demande écrite de l’exploitant de l’installation ou du propriétaire du grain priant un inspecteur d’examiner la portion représentative et de communiquer aux personnes dont le nom figure sur la demande le grade et les impuretés qu’il attribuerait au grain s’il procédait à l’inspection officielle.
 
-- **(2)** Sur réception de la portion représentative, un inspecteur du bureau d'inspection régional de la Commission l'examine et en détermine le grade et les impuretés, et transmet copie de sa décision aux personnes dont le nom figure sur la demande.
+- **(2)** Sur réception de la portion représentative, un inspecteur du bureau d’inspection régional de la Commission l’examine et en détermine le grade et les impuretés, et transmet copie de sa décision aux personnes dont le nom figure sur la demande.
 
-- **(3)** L'intéressé qui conteste la décision de l'inspecteur peut, dans les quinze jours suivant la date de l'examen, demander à l'inspecteur en chef des grains pour le Canada de réexaminer la portion représentative.
+- **(3)** L’intéressé qui conteste la décision de l’inspecteur peut, dans les quinze jours suivant la date de l’examen, demander à l’inspecteur en chef des grains pour le Canada de réexaminer la portion représentative.
 
-- **(4)** Sur réception de la portion représentative, l'inspecteur en chef des grains pour le Canada l'examine et en détermine le grade et les impuretés, et transmet copie de sa décision aux personnes dont le nom figure sur la demande.
+- **(4)** Sur réception de la portion représentative, l’inspecteur en chef des grains pour le Canada l’examine et en détermine le grade et les impuretés, et transmet copie de sa décision aux personnes dont le nom figure sur la demande.
 
-- **(5)** La décision de l'inspecteur en chef des grains pour le Canada est sans appel.
+- **(5)** La décision de l’inspecteur en chef des grains pour le Canada est sans appel.
 
-- **(6)** Sur réception de la décision finale, l'exploitant de l'installation remplace le récépissé provisoire d'installation primaire par le récépissé d'installation primaire approprié ou par un bon de paiement indiquant le grade et les impuretés attribués à la portion représentative conformément au présent article.
+- **(6)** Sur réception de la décision finale, l’exploitant de l’installation remplace le récépissé provisoire d’installation primaire par le récépissé d’installation primaire approprié ou par un bon de paiement indiquant le grade et les impuretés attribués à la portion représentative conformément au présent article.
 
-- **(7)** Il est entendu qu'au présent article le terme « grade » vise également les grades de grain gourd, humide, mouillé et trempé prévus par l'[Arrêté sur les grades de grain défectueux et les grades de criblures](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/801-900/C.R.C.,%20ch.%20890.md).
-> DORS/2000-213, art. 2; DORS/2002-255, art. 11; DORS/2003-284, art. 15; DORS/2004-198, art. 15.
+- **(7)** Il est entendu qu’au présent article le terme « grade » vise également les grades de grain gourd, humide, mouillé et trempé prévus par l’[Arrêté sur les grades de grain défectueux et les grades de criblures](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/801-900/C.R.C.,%20ch.%20890.md).
+> DORS/2000-213, art. 2; DORS/2002-255, art. 11; DORS/2003-284, art. 15; DORS/2004-198, art. 15; DORS/2008-314, art. 6.
 
 
 
@@ -548,17 +546,17 @@ Autorités habilitantes :
 
 **37** 
 
-- **(1)** L'exploitant d'une installation primaire agréée qui accepte l'offre légale de stockage de grain en cellule et la personne livrant le grain doivent :
-	- **a)** mettre un échantillon du grain dans un contenant qui est acceptable pour la Commission, qui préservera l'intégrité de l'échantillon et qui est fourni par l'exploitant ou la personne livrant le grain;
-	- **b)** apposer sur le contenant le nom du propriétaire du grain et le numéro du récépissé pour stockage en cellule de l'installation primaire;
+- **(1)** L’exploitant d’une installation primaire agréée qui accepte l’offre légale de stockage de grain en cellule et la personne livrant le grain doivent :
+	- **a)** mettre un échantillon du grain dans un contenant qui est acceptable pour la Commission, qui préservera l’intégrité de l’échantillon et qui est fourni par l’exploitant ou la personne livrant le grain;
+	- **b)** apposer sur le contenant le nom du propriétaire du grain et le numéro du récépissé pour stockage en cellule à l’installation primaire;
 	- **c)** inscrire la mention « Stockage en cellule » sur le contenant.
 
 - **(2)** La personne livrant du grain à une installation doit verrouiller ou sceller le contenant.
 
-- **(3)** L'exploitant doit garder le contenant dans une armoire ou un entrepôt verrouillés de l'installation pendant au moins trente jours.
+- **(3)** L’exploitant doit garder le contenant dans une armoire ou un entrepôt verrouillés de l’installation pendant au moins trente jours.
 
 - **(4) à (7)** [Abrogés, DORS/2004-198, art. 17]
-> DORS/84-626, art. 8; DORS/89-376, art. 14(F) et 16(F); DORS/95-386, art. 7; DORS/2000-213, art. 2; DORS/2002-255, art. 12; DORS/2003-284, art. 16; DORS/2004-198, art. 17.
+> DORS/84-626, art. 8; DORS/89-376, art. 14(F) et 16(F); DORS/95-386, art. 7; DORS/2000-213, art. 2; DORS/2002-255, art. 12; DORS/2003-284, art. 16; DORS/2004-198, art. 17; DORS/2008-314, art. 7.
 
 
 
@@ -5489,7 +5487,7 @@ Je jure (ou j’affirme) solennellement que je remplirai fidèlement, sans parti
 **(article 9, paragraphes 33(1) et 39(1), article 44, paragraphe 45(2), alinéa 57a), paragraphe 58(1), alinéa 60(1)b) et paragraphe 68(1))**
 ### **FORMULE 1** 
 **(articles 44 et 45)**
-CE GRAPHIQUE N'EST PAS EXPOSÉ, VOIR DORS/93-24, ART. 8; DORS/96-508, ART. 57; DORS/2004-198, ART. 38
+CE GRAPHIQUE N’EST PAS EXPOSÉ, VOIR DORS/93-24, ART. 8; DORS/96-508, ART. 57; DORS/2004-198, ART. 38
 
 
 ### **FORMULE 2** 
@@ -5506,27 +5504,27 @@ CE GRAPHIQUE N'EST PAS EXPOSÉ, VOIR DORS/93-24, ART. 8; DORS/96-508, ART. 57; D
 
 ### **FORMULE 6** 
 **(articles 44 et 45)**
-CE GRAPHIQUE N'EST PAS EXPOSÉ, VOIR DORS/93-24, ART. 8; DORS/96-508, ART. 58; DORS/2004-198, ART. 41
+CE GRAPHIQUE N’EST PAS EXPOSÉ, VOIR DORS/93-24, ART. 8; DORS/96-508, ART. 58; DORS/2004-198, ART. 41
 
 
 ### **FORMULE 7** 
 **(paragraphes 33(1) et 39(1))**
-CE GRAPHIQUE N'EST PAS EXPOSÉ, VOIR DORS/93-24, ART. 8; DORS/2004-198, ART. 41; DORS/2005-361, ART. 14(A); DORS/2006-206, ART. 7(F).
+CE GRAPHIQUE N’EST PAS EXPOSÉ, VOIR DORS/93-24, ART. 8; DORS/2004-198, ART. 41; DORS/2005-361, ART. 14(A); DORS/2006-206, ART. 7(F).
 
 
 ### **FORMULE 8** 
 **(alinéa 60(1)b))**
-CE GRAPHIQUE N'EST PAS EXPOSÉ, VOIR DORS/2000-213, ART. 17; DORS/2001-273, ART. 32; DORS/2004-198, ART. 41
+CE GRAPHIQUE N’EST PAS EXPOSÉ, VOIR DORS/2000-213, ART. 17; DORS/2001-273, ART. 32; DORS/2004-198, ART. 41
 
 
 ### **FORMULE 9** 
 **(paragraphe 58(1))**
-CE GRAPHIQUE N'EST PAS EXPOSÉ, VOIR DORS/78-55, ART. 7; DORS/89-376, ART. 14(F); DORS/89-395, ART. 2(F); DORS/2004-198, ART. 42(A)
+CE GRAPHIQUE N’EST PAS EXPOSÉ, VOIR DORS/78-55, ART. 7; DORS/89-376, ART. 14(F); DORS/89-395, ART. 2(F); DORS/2004-198, ART. 42(A)
 
 
 ### **FORMULE 10** 
 **(paragraphe 58(1))**
-CE GRAPHIQUE N'EST PAS EXPOSÉ, VOIR DORS/93-24, ART. 9; DORS/2004-198, ART. 42(A)
+CE GRAPHIQUE N’EST PAS EXPOSÉ, VOIR DORS/93-24, ART. 9; DORS/2004-198, ART. 42(A)
 
 
 ### **FORMULE 11** 
@@ -5535,12 +5533,12 @@ CE GRAPHIQUE N'EST PAS EXPOSÉ, VOIR DORS/93-24, ART. 9; DORS/2004-198, ART. 42(
 
 ### **FORMULE 12** 
 **(alinéa 9a))**
-CE GRAPHIQUE N'EST PAS EXPOSÉ, VOIR DORS/87-476, ART. 2; DORS/89-395, ART. 2(F); DORS/2004-198, ART. 44
+CE GRAPHIQUE N’EST PAS EXPOSÉ, VOIR DORS/87-476, ART. 2; DORS/89-395, ART. 2(F); DORS/2004-198, ART. 44
 
 
 ### **FORMULE 13** 
 **(alinéa 9b))**
-CE GRAPHIQUE N'EST PAS EXPOSÉ, VOIR DORS/87-476, ART. 2; DORS/89-395, ART. 2(F); DORS/2004-198, ART. 45
+CE GRAPHIQUE N’EST PAS EXPOSÉ, VOIR DORS/87-476, ART. 2; DORS/89-395, ART. 2(F); DORS/2004-198, ART. 45
 
 
 ### **FORMULE 13.1 et 13.2** 
@@ -5549,10 +5547,7 @@ CE GRAPHIQUE N'EST PAS EXPOSÉ, VOIR DORS/87-476, ART. 2; DORS/89-395, ART. 2(F)
 
 ### **FORMULE 14** 
 **(paragraphe 87(1))**
-DEMANDE DU PRODUCTEUR POUR SE PROCURER DES WAGONS
-
-
-CE GRAPHIQUE N'EST PAS EXPOSÉ, VOIR DORS/2001-273, ART. 33; DORS/2005-217, ART. 3
+CE GRAPHIQUE N’EST PAS EXPOSÉ, VOIR DORS/2001-273, ART. 33; DORS/2005-217, ART. 3
 
 
 ### **FORMULE 15** 
@@ -5560,41 +5555,25 @@ CE GRAPHIQUE N'EST PAS EXPOSÉ, VOIR DORS/2001-273, ART. 33; DORS/2005-217, ART.
 À :
 
 
-Conformément à l’article 57 du Règlement sur les grains du Canada, nous acceptons par la présente de vous fournir _________________________
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;(*quantité*)
-
-
-tonnes d’entreposage d’équivalent blé dans notre _________________________ aux fins de stockage en cellule de
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;(*emplacement et désignation de l'installation*)
-
-
-_________________________ .
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;(*type du grain et variété, le cas échéant, ou du produit céréalier*)
+Conformément à l’article 57 du Règlement sur les grains du Canada, nous acceptons par la présente de vous fournir 
+____________________
+(*quantité*) tonnes d’entreposage d’équivalent blé dans notre 
+____________________
+(*emplacement et désignation de l’installation*) aux fins de stockage en cellule de 
+____________________
+(*type du grain et variété, le cas échéant, ou du produit céréalier*).
 
 
 Le grain ou le produit céréalier visé par le présent contrat sera stocké dans :
 
 
-
-<table>
-<tr>
-<td>*Numéros de cellule*</td>
-<td>*Capacité*</td>
-</tr>
-</table>
-
+*Numéros de cellule*&nbsp;&nbsp;&nbsp;&nbsp;*Capacité*
 
 
 Si le grain ou le produit céréalier visé par le présent contrat est transféré à toute autre cellule, pour quelque raison que ce soit, nous nous engageons à communiquer le ou les nouveaux numéros de cellule, par écrit, à vous et à la Commission canadienne des grains. Le contrat sera alors modifié en conséquence.
 
 
-Le présent contrat entre en vigueur le _________________________ et expire le _________________________, date à laquelle tout le grain ou le produit céréalier stocké dans la ou les cellules susmentionnées doit en être enlevé; autrement, ce contrat reste en vigueur jusqu’au jour de l'enlèvement de ce grain ou de ce produit céréalier.
+Le présent contrat entre en vigueur le _________________________ et expire le _________________________, date à laquelle tout le grain ou le produit céréalier stocké dans la ou les cellules susmentionnées doit en être enlevé; autrement, ce contrat reste en vigueur jusqu’au jour de l’enlèvement de ce grain ou de ce produit céréalier.
 
 
 Les frais imposés sont conformes aux tarifs applicables que nous avons déposés auprès de la Commission canadienne des grains.
@@ -5603,20 +5582,13 @@ Les frais imposés sont conformes aux tarifs applicables que nous avons déposé
 ACCEPTÉ PAR :
 
 
-
-<table>
-<tr>
-<td></td>
-<td></td>
-</tr>
-</table>
-
+_________________________&nbsp;&nbsp;&nbsp;&nbsp;_________________________
 
 
 DATE : _________________________
 
 
-> DORS/78-55, art. 7; DORS/82-881, art. 2; DORS/83-628, art. 4; DORS/83-758, art. 4; DORS/84-627, art. 5; DORS/87-476, art. 2; DORS/89-376, art. 10(F), 11(F), 12(F), 14(F), 15(F), 16(F), 17(F), 18(F) ET 20(F); DORS/89-395, art. 2(F); DORS/93-24, art. 8 et 9; DORS/93-25, art. 7; DORS/96-508, art. 57 à 60; DORS/2000-213, art. 9 à 26; DORS/2001-273, art. 32 et 33; DORS/2003-284, art. 35; DORS/2004-198, art. 37 à 41, 42(A), 43 à 46; DORS/2005-217, art. 3; DORS/2005-361, art. 14(A); DORS/2006-206, art. 7(F).
+> DORS/78-55, art. 7; DORS/82-881, art. 2; DORS/83-628, art. 4; DORS/83-758, art. 4; DORS/84-627, art. 5; DORS/87-476, art. 2; DORS/89-376, art. 10 à 12(F), 14 à 18(F) et 20(F); DORS/89-395, art. 2(F); DORS/93-24, art. 8 et 9; DORS/93-25, art. 7; DORS/96-508, art. 57 à 60; DORS/2000-213, art. 9 à 26; DORS/2001-273, art. 32 et 33; DORS/2003-284, art. 35; DORS/2004-198, art. 37 à 41, 42(A), 43 à 46; DORS/2005-217, art. 3; DORS/2005-361, art. 14(A); DORS/2006-206, art. 7(F); DORS/2008-314, art. 8(A).
 
 
 
