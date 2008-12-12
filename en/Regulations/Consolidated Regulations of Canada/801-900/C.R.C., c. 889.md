@@ -349,8 +349,8 @@ Enabling authorities:
 ### Obligation and Security Reports
 
 
-**23** Every month, each licensed grain dealer, primary elevator operator and process elevator operator shall submit to the Commission a report made on the appropriate form supplied by the Commission or accepted by the Commission respecting the licensee's outstanding obligations for the payment of money or the delivery of grain to holders of elevator receipts, grain receipts and cash purchase tickets and the security amount available to meet those obligations at the end of the preceding month.
-> SOR/84-627, s. 2; SOR/89-376, ss. 12(F), 16(F); SOR/89-395, s. 2(F); SOR/96-508, s. 16; SOR/2000-213, s. 2; SOR/2002-255, s. 7.
+**23** Every month, each licensed grain dealer, primary elevator operator and process elevator operator shall submit to the Commission, on the appropriate form supplied by the Commission or in an electronic format acceptable to it, a report respecting the licensee’s outstanding obligations for the payment of money or the delivery of grain to holders of elevator receipts, grain receipts and cash purchase tickets and the security amount available to meet those obligations at the end of the preceding month.
+> SOR/84-627, s. 2; SOR/89-376, ss. 12(F), 16(F); SOR/89-395, s. 2(F); SOR/96-508, s. 16; SOR/2000-213, s. 2; SOR/2002-255, s. 7; SOR/2008-314, s. 1.
 
 
 
@@ -359,8 +359,8 @@ Enabling authorities:
 ### Licensed Grain Dealer Reports
 
 
-**24** Every month, each licensed grain dealer shall submit to the Commission a report made on a form supplied by the Commission or accepted by the Commission respecting the grain dealer's operations during the preceding month.
-> SOR/84-791, s. 2; SOR/89-376, s. 16(F); SOR/2000-213, s. 2; SOR/2002-255, s. 7; SOR/2004-198, s. 11(E).
+**24** Every month, each licensed grain dealer shall submit to the Commission, on a form supplied by the Commission or in an electronic format acceptable to it, a report respecting the grain dealer’s operations during the preceding month.
+> SOR/84-791, s. 2; SOR/89-376, s. 16(F); SOR/2000-213, s. 2; SOR/2002-255, s. 7; SOR/2004-198, s. 11(E); SOR/2008-314, s. 1.
 
 
 
@@ -371,12 +371,10 @@ Enabling authorities:
 
 
 ### Process Elevator Reports
-> SOR/2001-273, s. 12]
 
 
-
-**25** Every week, each process elevator licensee shall submit to the Commission a report made on the appropriate form supplied by the Commission or acceptable to the Commission respecting the licensee's operations during the preceding week.
-> SOR/89-376, s. 16(F); SOR/93-25, s. 1; SOR/96-508, s. 17; SOR/2000-213, s. 2.
+**25** Every week, each process elevator licensee shall submit to the Commission, in an electronic format acceptable to the Commission, a report respecting the licensee’s operations during the preceding week.
+> SOR/89-376, s. 16(F); SOR/93-25, s. 1; SOR/96-508, s. 17; SOR/2000-213, s. 2; SOR/2008-314, s. 1.
 
 
 
@@ -392,9 +390,9 @@ Enabling authorities:
 
 
 **26** Each primary elevator licensee shall submit to the Commission
-- **(a)** every week, a report made on the appropriate form supplied by the Commission or acceptable to the Commission respecting the licensee's operations during the preceding week; and
-- **(b)** not later than October 15 in each crop year, an annual report made on the appropriate form supplied by the Commission or acceptable to the Commission for each primary elevator operated by the licensee.
-> SOR/89-376, ss. 14(F), 16(F); SOR/93-25, s. 2; SOR/96-508, s. 17; SOR/2000-213, s. 2.
+- **(a)** every week, in an electronic format acceptable to the Commission, a report respecting the licensee’s operations during the preceding week; and
+- **(b)** no later than October 15 in each crop year, on the appropriate form supplied by the Commission or in an electronic format acceptable to it, a report respecting the licensee’s operations during the preceding crop year for each primary elevator operated by the licensee.
+> SOR/89-376, ss. 14(F), 16(F); SOR/93-25, s. 2; SOR/96-508, s. 17; SOR/2000-213, s. 2; SOR/2008-314, s. 2.
 
 
 
@@ -405,8 +403,8 @@ Enabling authorities:
 
 
 
-**27** Every day, the operator of a transfer elevator shall submit reports to the Commission made on forms supplied by the Commission or accepted by the Commission respecting the elevator's operations during the preceding day.
-> SOR/84-626, s. 3; SOR/89-376, ss. 14(F), 16(F); SOR/93-25, s. 3; SOR/96-508, s. 17; SOR/2000-213, s. 2; SOR/2002-255, s. 8.
+**27** Every day, the operator of a transfer elevator shall submit to the Commission, in an electronic format acceptable to the Commission, a report respecting the elevator’s operations during the preceding day.
+> SOR/84-626, s. 3; SOR/89-376, ss. 14(F), 16(F); SOR/93-25, s. 3; SOR/96-508, s. 17; SOR/2000-213, s. 2; SOR/2002-255, s. 8; SOR/2008-314, s. 3.
 
 
 
@@ -481,8 +479,8 @@ Enabling authorities:
 ### Sampling on Delivery
 
 
-**34** For the purposes of sections 35 and 36, on the delivery of grain to a licensed primary elevator, a 1 kg portion of a sample of the grain that is considered by the elevator operator and the person delivering the grain to be representative of the grain shall be taken from each load and retained at the elevator.
-> SOR/2000-213, s. 2; SOR/2002-255, s. 9; SOR/2004-198, s. 14.
+**34** For the purposes of sections 35 and 36, on the delivery of grain to a licensed primary elevator, a portion of at least 1 kg from a sample of the grain that is considered by the elevator operator and the person delivering the grain to be representative of the grain shall be taken from each load and retained at the elevator.
+> SOR/2000-213, s. 2; SOR/2002-255, s. 9; SOR/2004-198, s. 14; SOR/2008-314, s. 4.
 
 
 
@@ -494,12 +492,12 @@ Enabling authorities:
 **35** 
 
 - **(1)** The operator of a licensed primary elevator shall make an accurate determination of dockage in grain delivered at the elevator by
-	- **(a)** taking a representative portion of 500 g from the sample referred to in section 34;
+	- **(a)** taking a representative portion of at least 750 g from the sample referred to in section 34;
 	- **(b)** testing the sample with equipment of a type authorized by the Commission and hand-picking, if necessary, any portion that is not separable by that equipment; and
 	- **(c)** computing the dockage to the nearest 0.1%.
 
-- **(2)** If the person delivering grain to a licensed primary elevator so requests, the test to determine the dockage in the grain shall be made in that person's presence.
-> SOR/84-626, s. 6; SOR/89-376, ss. 14(F), 16(F); SOR/95-386, s. 5; SOR/96-508, s. 23; SOR/2000-213, s. 2; SOR/2002-255, s. 10.
+- **(2)** If the person delivering grain to a licensed primary elevator so requests, the test to determine the dockage in the grain shall be made in that person’s presence.
+> SOR/84-626, s. 6; SOR/89-376, ss. 14(F), 16(F); SOR/95-386, s. 5; SOR/96-508, s. 23; SOR/2000-213, s. 2; SOR/2002-255, s. 10; SOR/2008-314, s. 5.
 
 
 
@@ -514,15 +512,15 @@ Enabling authorities:
 
 **36** 
 
-- **(1)** If the operator of a licensed primary elevator and a person delivering grain to the elevator do not agree on the grade of the grain or the dockage in the grain, and an interim primary elevator receipt is issued, the operator, in the presence of the person delivering the grain, shall take a representative portion of 750 g from the sample referred to in section 34 and shall
+- **(1)** If the operator of a licensed primary elevator and a person delivering grain to the elevator do not agree on the grade of the grain or the dockage in the grain, and an interim primary elevator receipt is issued, the operator, in the presence of the person delivering the grain, shall take a representative portion of at least 750 g from the sample referred to in section 34 and shall
 	- **(a)** put the representative portion in a container that is supplied by the operator or the person delivering the grain and that the operator and that person agree will maintain the integrity of the sample;
 	- **(b)** identify the container with the name of the owner of the grain and with the interim primary elevator receipt number;
-	- **(c)** mark the container "Subject to Inspector's Grade and Dockage"; and
+	- **(c)** mark the container “Subject to Inspector’s Grade and Dockage”; and
 	- **(d)** forward the container to the nearest regional inspection office of the Commission, with all shipping charges prepaid, accompanied by a written request from the operator or the owner of the grain that an inspector examine the representative portion and report to the persons named in the request what grade and dockage the inspector would assign to the grain if the examination were an official inspection.
 
 - **(2)** On receipt of the representative portion, an inspector at the regional inspection office of the Commission shall examine it, determine its grade and dockage and transmit a copy of the determination to each person named in the request.
 
-- **(3)** Any person who has an interest in the grain and who is dissatisfied with the determination of the inspector may, within 15 days after the date of the examination, request the chief grain inspector for Canada to re-examine the representative portion.
+- **(3)** Any person who has an interest in the grain and who is dissatisfied with the determination of the inspector may, within 15 days after the date of the examination, request the chief grain inspector for Canada to re-examine the representative portion.
 
 - **(4)** On receipt of the representative portion, the chief grain inspector for Canada shall examine it, determine its grade and dockage and transmit a copy of the determination to each person named in the request.
 
@@ -530,8 +528,8 @@ Enabling authorities:
 
 - **(6)** On receipt of the final determination, the operator of the elevator shall exchange the interim primary elevator receipt for the appropriate primary elevator receipt or cash purchase ticket indicating the grade and dockage assigned to the representative portion in accordance with this section.
 
-- **(7)** For greater certainty, in this section, "grade" includes the tough, damp, moist and wet grades established in the [Off Grades of Grain and Grades of Screenings Order](/en/Regulations/Consolidated%20Regulations%20of%20Canada/801-900/C.R.C.,%20c.%20890.md).
-> SOR/2000-213, s. 2; SOR/2002-255, s. 11; SOR/2003-284, s. 15; SOR/2004-198, s. 15.
+- **(7)** For greater certainty, in this section, “grade” includes the tough, damp, moist and wet grades established in the [Off Grades of Grain and Grades of Screenings Order](/en/Regulations/Consolidated%20Regulations%20of%20Canada/801-900/C.R.C.,%20c.%20890.md).
+> SOR/2000-213, s. 2; SOR/2002-255, s. 11; SOR/2003-284, s. 15; SOR/2004-198, s. 15; SOR/2008-314, s. 6.
 
 
 
@@ -550,15 +548,15 @@ Enabling authorities:
 
 - **(1)** If grain is lawfully offered at a licensed primary elevator for special binning and the operator of the elevator agrees to specially bin the grain, the operator and person delivering the grain shall
 	- **(a)** put a sample of the grain in a container that is of a type acceptable to the Commission, that will maintain the integrity of the sample and that is supplied by the operator or the person delivering the grain;
-	- **(b)** identify the container with the name of the owner of the grain and with the interim primary elevator receipt number; and
-	- **(c)** mark the container "Special Bin".
+	- **(b)** identify the container with the name of the owner of the grain and with the special bin primary elevator receipt number; and
+	- **(c)** mark the container “Special Bin”.
 
 - **(2)** The person delivering the grain to the elevator shall secure the container by means of a lock or seal.
 
 - **(3)** The operator shall keep the container in a locked storage cabinet or storeroom at the elevator, for not less than 30 days.
 
 - **(4) to (7)** [Repealed, SOR/2004-198, s. 17]
-> SOR/84-626, s. 8; SOR/89-376, ss. 14(F), 16(F); SOR/95-386, s. 7; SOR/2000-213, s. 2; SOR/2002-255, s. 12; SOR/2003-284, s. 16; SOR/2004-198, s. 17.
+> SOR/84-626, s. 8; SOR/89-376, ss. 14(F), 16(F); SOR/95-386, s. 7; SOR/2000-213, s. 2; SOR/2002-255, s. 12; SOR/2003-284, s. 16; SOR/2004-198, s. 17; SOR/2008-314, s. 7.
 
 
 
@@ -5733,35 +5731,25 @@ GRAPHIC IS NOT DISPLAYED, SEE SOR/2001-273, S. 33; SOR/2005-217, S. 3
 TO:
 
 
-Pursuant to section 57 of the Canada Grain Regulations, we hereby agree to provide you _________________________ Tonnes Wheat Equivalent
-
-
-space&nbsp;&nbsp;&nbsp;&nbsp;(*quantity*)
-
-
-lent space in our _________________________ for the purpose of special binning _________________________
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;(*location and identity of elevator*)&nbsp;&nbsp;&nbsp;&nbsp; (*type of grain and variety, if applicable, or grain product*)
+In accordance with section 57 of the Canada Grain Regulations, we agree to provide you with 
+____________________
+(*quantity*) tonnes wheat equivalent space in our 
+____________________
+(*location and identity of elevator*) for the purpose of special binning 
+____________________
+(*type of grain and variety, if applicable, or grain product*).
 
 
 The grain or grain product stored pursuant to this Agreement will be stored in:
 
 
-
-<table>
-<tr>
-<td>*Bin Number(s)*</td>
-<td>*Capacity*</td>
-</tr>
-</table>
+*Bin Number(s)*&nbsp;&nbsp;&nbsp;&nbsp;*Capacity*
 
 
+Should the grain or grain product represented by this Agreement be transferred, for any reason, to any other bin(s), we agree to notify you and the Canadian Grain Commission of the new bin number(s), in writing, and to amend this Agreement accordingly.
 
-Should the grain or grain product represented by this Agreement be transferred, for any reason, to any other bin(s), we agree to notify you and the Canadian Grain Commission of the new bin number(s), in writing, and this Agreement will be amended accordingly.
 
-
-This Agreement becomes effective on _________________________ and will terminate on _________________________ when all grain or grain products stored in the above-mentioned bin(s) must be removed therefrom; otherwise, this Agreement remains in effect until the date all such grain or grain products are removed.
+This Agreement becomes effective on _________________________ and will terminate on _________________________ if all grain or grain products stored in the above-mentioned bin(s) are removed on or before that day; otherwise, this Agreement remains in effect until the day on which all the grain or grain product is removed.
 
 
 All charges assessed will be according to the applicable tariff rates filed by us with the Canadian Grain Commission.
@@ -5770,20 +5758,13 @@ All charges assessed will be according to the applicable tariff rates filed by u
 ACCEPTED BY:
 
 
-
-<table>
-<tr>
-<td></td>
-<td></td>
-</tr>
-</table>
-
+_________________________&nbsp;&nbsp;&nbsp;&nbsp;_________________________
 
 
 DATED: _________________________
 
 
-> SOR/78-55, s. 7; SOR/82-881, s. 2; SOR/83-628, s. 4; SOR/83-758, s. 4; SOR/84-627, s. 5; SOR/87-476, s. 2; SOR/89-376, ss. 10(F), 11(F), 12(F), 14(F), 15(F), 16(F), 17(F), 18(F), 20(F); SOR/89-395, s. 2(F); SOR/93-24, ss. 8, 9; SOR/93-25, s. 7; SOR/96-508, ss. 57 to 60; SOR/2000-213, ss. 9 to 26; SOR/2001-273, ss. 32, 33; SOR/2003-284, s. 35; SOR/2004-198, ss. 37 to 41, 42(E), 43 to 46; SOR/2005-217, s. 3; SOR/2005-361, s. 14(E); SOR/2006-206, s. 7(F).
+> SOR/78-55, s. 7; SOR/82-881, s. 2; SOR/83-628, s. 4; SOR/83-758, s. 4; SOR/84-627, s. 5; SOR/87-476, s. 2; SOR/89-376, ss. 10 to 12(F), 14 to 18(F), 20(F); SOR/89-395, s. 2(F); SOR/93-24, ss. 8, 9; SOR/93-25, s. 7; SOR/96-508, ss. 57 to 60; SOR/2000-213, ss. 9 to 26; SOR/2001-273, ss. 32, 33; SOR/2003-284, s. 35; SOR/2004-198, ss. 37 to 41, 42(E), 43 to 46; SOR/2005-217, s. 3; SOR/2005-361, s. 14(E); SOR/2006-206, s. 7(F); SOR/2008-314, s. 8(E).
 
 
 
