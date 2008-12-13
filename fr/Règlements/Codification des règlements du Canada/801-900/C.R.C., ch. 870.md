@@ -1027,7 +1027,7 @@ l’ordre ou le pourcentage, selon le cas, étant basé
 - **(2)** Un ingrédient ou constituant doit figurer dans la liste des ingrédients sous son nom usuel.
 
 - **(3)** Aux fins du paragraphe (2),
-	- **a)** l’ingrédient ou constituant indiqué à l’un des articles du tableau ci-après, dans la colonne I, doit figurer dans la liste d’ingrédients sous le nom usuel indiqué à cet article, dans la colonne II :
+	- **a)** l’ingrédient ou constituant indiqué à l’un des articles du tableau ci-après, dans la colonne I, doit figurer dans la liste d’ingrédients sous le nom usuel indiqué à cet article, dans la colonne II :
 #### TABLEAU
 <table>
 <tr>
@@ -1083,7 +1083,7 @@ l’ordre ou le pourcentage, selon le cas, étant basé
 <tr>
 <td>9</td>
 <td>tout isolat protéique</td>
-<td>l’expression « protéine de » suivie du nom de la source de la protéine ou le nom usuel de l’isolat protéique</td>
+<td>l’expression « protéine de » suivie du nom de la source de la protéine ou le nom usuel de l’isolat protéique</td>
 </tr>
 <tr>
 <td>10</td>
@@ -1118,7 +1118,7 @@ l’ordre ou le pourcentage, selon le cas, étant basé
 <tr>
 <td>16</td>
 <td>huiles ou graisses d’animaux marins hydrogénées ou partiellement hydrogénées</td>
-<td>« huile marine hydrogénée » ou « graisse marine hydrogénée » ou le nom spécifique de l’huile ou de la graisse suivi du terme «hydrogéné»</td>
+<td>« huile marine hydrogénée » ou « graisse marine hydrogénée » ou le nom spécifique de l’huile ou de la graisse suivi du terme « hydrogéné »</td>
 </tr>
 <tr>
 <td>17</td>
@@ -1187,7 +1187,7 @@ l’ordre ou le pourcentage, selon le cas, étant basé
 </tr>
 <tr>
 <td>7.1</td>
-<td>toute forme liquide, concentrée, séchée, congelée ou reconstituée, des produits suivants : lait écrémé à teneur réduite en calcium (obtenu par procédé d’échange d’ions), caséine, caséinates, produits laitiers de culture, protéines lactosériques, lait ultrafiltré, lactosérum (petit-lait), beurre de lactosérum (petit-lait), crème de lactosérum (petit-lait) et tout autre constituant du lait dont l’état chimique a été modifié de façon à différer de celui dans lequel il se trouve dans le lait</td>
+<td>toute forme liquide, concentrée, séchée, congelée ou reconstituée, des produits suivants : lait écrémé à teneur réduite en calcium (obtenu par procédé d’échange d’ions), caséine, caséinates, produits du lait de culture, protéines lactosériques, lait ultrafiltré, lactosérum (petit-lait), beurre de lactosérum (petit-lait), crème de lactosérum (petit-lait) et tout autre constituant du lait dont l’état chimique a été modifié de façon à différer de celui dans lequel il se trouve dans le lait</td>
 <td>substances laitières modifiées</td>
 </tr>
 <tr>
@@ -1283,7 +1283,7 @@ l’ordre ou le pourcentage, selon le cas, étant basé
 	- **b)** leurs constituants sont indiqués
 		- **(i)** immédiatement après le nom de catégorie des ingrédients dont ils sont des constituants de manière à indiquer qu’ils sont des constituants de ces ingrédients, et
 		- **(ii)** par ordre décroissant de leur proportion collective de ces ingrédients.
-> DORS/79-23, art. 7 et 8(F); DORS/79-529, art. 3; DORS/80-632, art. 1; DORS/84-300, art. 4(A) et 5(F); DORS/91-124, art. 2; DORS/92-626, art. 9; DORS/92-725, art. 1; DORS/93-243, art. 2(F); DORS/93-465, art. 2; DORS/95-548, art. 5(F); DORS/97-516, art. 1; DORS/98-458, art. 1 et 7(F) DORS/2005-98, art. 7.
+> DORS/79-23, art. 7 et 8(F); DORS/79-529, art. 3; DORS/80-632, art. 1; DORS/84-300, art. 4(A) et 5(F); DORS/91-124, art. 2; DORS/92-626, art. 9; DORS/92-725, art. 1; DORS/93-243, art. 2(F); DORS/93-465, art. 2; DORS/95-548, art. 5(F); DORS/97-516, art. 1; DORS/98-458, art. 1 et 7(F) DORS/2005-98, art. 7; DORS/2007-302, art. 4(F).
 
 
 
@@ -4958,32 +4958,32 @@ doit figurer sur l’espace principal de l’étiquette d’un simili-produit de
 
 **B.01.500** 
 
-- **(1)** Les définitions qui suivent s'appliquent au présent article et au tableau suivant l'article B.01.513.
+- **(1)** Les définitions qui suivent s’appliquent au présent article et au tableau suivant l’article B.01.513.
 
-***aliment de référence du même groupe alimentaire*** Aliment qui peut être substitué, dans l'alimentation, à l'aliment auquel il est comparé et qui appartient, selon le cas :
-- **a)** au même groupe alimentaire que l'aliment auquel il est comparé, tel que le fromage comme aliment de référence pour le lait, ou le poulet comme aliment de référence pour le tofu;
-- **b)** à la catégorie des autres aliments, si l'aliment auquel il est comparé appartient aussi à cette catégorie, tel que les bretzels comme aliment de référence pour les croustilles;
-- **c)** à la catégorie des aliments composés, si l'aliment auquel il est comparé appartient aussi à cette catégorie, tel que la pizza comme aliment de référence pour la lasagne. (*reference food of the same food group*)
+***aliment de référence du même groupe alimentaire*** Aliment qui peut être substitué, dans l’alimentation, à l’aliment auquel il est comparé et qui appartient, selon le cas :
+- **a)** au même groupe alimentaire que l’aliment auquel il est comparé, tel que le fromage comme aliment de référence pour le lait, ou le poulet comme aliment de référence pour le tofu;
+- **b)** à la catégorie des autres aliments, si l’aliment auquel il est comparé appartient aussi à cette catégorie, tel que les bretzels comme aliment de référence pour les croustilles;
+- **c)** à la catégorie des aliments composés, si l’aliment auquel il est comparé appartient aussi à cette catégorie, tel que la pizza comme aliment de référence pour la lasagne. (*reference food of the same food group*)
 
-***aliment de référence similaire*** Aliment du même type que l'aliment auquel il est comparé et qui n'a pas été transformé, formulé, reformulé ou autrement modifié de manière à augmenter ou à diminuer la valeur énergétique ou la teneur en l'élément nutritif qui fait l'objet de la comparaison, tel que le lait entier comme aliment de référence similaire pour le lait partiellement écrémé, ou les biscuits aux brisures de chocolat ordinaires comme aliment de référence similaire pour les biscuits aux brisures de chocolat à teneur réduite en matières grasses. (*similar reference food*)
+***aliment de référence similaire*** Aliment du même type que l’aliment auquel il est comparé et qui n’a pas été transformé, formulé, reformulé ou autrement modifié de manière à augmenter ou à diminuer la valeur énergétique ou la teneur en l’élément nutritif qui fait l’objet de la comparaison, tel que le lait entier comme aliment de référence similaire pour le lait partiellement écrémé, ou les biscuits aux brisures de chocolat ordinaires comme aliment de référence similaire pour les biscuits aux brisures de chocolat à teneur réduite en matières grasses. (*similar reference food*)
 
-***aliments composés*** Catégorie comprenant les aliments qui contiennent, comme ingrédients, des aliments appartenant à plus d'un groupe alimentaire ou appartenant à un ou plusieurs groupes alimentaires et mélangés avec des aliments provenant de la catégorie des autres aliments, tels que la pizza ou la lasagne. (*combination foods*)
+***aliments composés*** Catégorie comprenant les aliments qui contiennent, comme ingrédients, des aliments appartenant à plus d’un groupe alimentaire ou appartenant à un ou plusieurs groupes alimentaires et mélangés avec des aliments provenant de la catégorie des autres aliments, tels que la pizza ou la lasagne. (*combination foods*)
 
-***autres aliments*** Catégorie comprenant les aliments qui n'appartiennent à aucun des groupes alimentaires, notamment :
-- **a)** les aliments contenant surtout des matières grasses, tels que le beurre, la margarine, l'huile ou le saindoux;
+***autres aliments*** Catégorie comprenant les aliments qui n’appartiennent à aucun des groupes alimentaires, notamment :
+- **a)** les aliments contenant surtout des matières grasses, tels que le beurre, la margarine, l’huile ou le saindoux;
 - **b)** les aliments contenant surtout des sucres, tels que les confitures, le miel, le sirop ou les confiseries;
 - **c)** les grignotines, telles que les croustilles ou les bretzels;
-- **d)** les boissons, telles que l'eau, le thé, le café ou les boissons gazeuses;
-- **e)** les fines herbes, épices et condiments, tels que les marinades, la moutarde ou le ketchup. (*other foods*)
+- **d)** les boissons, telles que l’eau, le thé, le café ou les boissons gazeuses;
+- **e)** les fines herbes, épices et condiments, tels que les marinades, la moutarde ou le ketchup. (*other foods*)
 
-***groupe alimentaire*** L'une des catégories d'aliments suivantes :
-- **a)** les produits laitiers et leurs substituts dont les boissons végétales enrichies;
-- **b)** la viande, la volaille et le poisson ainsi que leurs substituts, dont les légumineuses, les oeufs, le tofu et le beurre d'arachide;
+***groupe alimentaire*** L’une des catégories d’aliments suivantes :
+- **a)** les produits du lait et leurs substituts dont les boissons végétales enrichies;
+- **b)** la viande, la volaille et le poisson ainsi que leurs substituts, dont les légumineuses, les oeufs, le tofu et le beurre d’arachide;
 - **c)** le pain et les produits céréaliers;
-- **d)** les légumes et les fruits. (*food group*)
+- **d)** les légumes et les fruits. (*food group*)
 
-- **(2)** L'aliment de référence similaire visé à la colonne 3 de l'article 45 du tableau suivant l'article B.01.513 en regard du sujet « léger (énergie ou lipides) » figurant à la colonne 1 a une valeur nutritionnelle représentative d'aliments du même type qui n'ont pas été transformés, formulés, reformulés ou autrement modifiés de manière à augmenter la valeur énergétique ou la teneur en lipides.
-> DORS/2003-11, art. 20.
+- **(2)** L’aliment de référence similaire visé à la colonne 3 de l’article 45 du tableau suivant l’article B.01.513 en regard du sujet « léger (énergie ou lipides) » figurant à la colonne 1 a une valeur nutritionnelle représentative d’aliments du même type qui n’ont pas été transformés, formulés, reformulés ou autrement modifiés de manière à augmenter la valeur énergétique ou la teneur en lipides.
+> DORS/2003-11, art. 20; DORS/2007-302, art. 4(F).
 
 
 
@@ -8389,17 +8389,26 @@ la somme des extraits non volatils qui pourraient en être extraits au moyen
 
 
 
-**B.08.001.1** La définition qui suit s'applique au présent titre.
+**B.08.001.1** Les définitions qui suivent s’appliquent au présent titre.
 
 ***produit du lait***
-- **a)** Dans le cas du beurre, du beurre de petit-lait ou du fromage, l'un des produits suivants :
+- **a)** Dans le cas du beurre ou du beurre de petit-lait, l’un ou l’autre des produits suivants :
 	- **(i)** le lait partiellement écrémé, le lait écrémé, la crème, le babeurre ou la crème de petit-lait,
 	- **(ii)** le lait sous forme concentrée, desséchée ou reconstituée ou tout produit visé au sous-alinéa (i) sous forme concentrée, desséchée ou reconstituée;
-- **b)** dans le cas du fromage à la crème à tartiner, du fromage à la crème à tartiner avec l'indication des ingrédients ajoutés, d'une préparation de fromage fondu, d'une préparation de fromage fondu avec l'indication des ingrédients ajoutés, du fromage fondu à tartiner, du fromage fondu à tartiner avec l'indication des ingrédients ajoutés, d'une préparation de fromage conditionné à froid, d'une préparation de fromage conditionné à froid avec l'indication des ingrédients ajoutés, l'un des produits suivants :
+- **b)** dans le cas du fromage, l’un ou l’autre des produits suivants :
+	- **(i)** le lait partiellement écrémé, le lait écrémé, la crème, le babeurre, le petit-lait ou la crème de petit-lait,
+	- **(ii)** le lait sous forme concentrée, desséchée, congelée ou reconstituée ou tout produit visé au sous-alinéa (i) sous forme concentrée, desséchée, congelée ou reconstituée,
+	- **(iii)** le beurre, l’huile de beurre et le beurre de petit-lait,
+	- **(iv)** tout composant du lait — sauf l’eau —, pris seul ou en combinaison avec d’autres,
+	- **(v)** le concentré protéique de petit-lait;
+- **c)** dans le cas du fromage à la crème à tartiner, du fromage à la crème à tartiner avec l’indication des ingrédients ajoutés, d’une préparation de fromage fondu, d’une préparation de fromage fondu avec l’indication des ingrédients ajoutés, du fromage fondu à tartiner, du fromage fondu à tartiner avec l’indication des ingrédients ajoutés, d’une préparation de fromage conditionné à froid, d’une préparation de fromage conditionné à froid avec l’indication des ingrédients ajoutés, l’un ou l’autre des produits suivants :
 	- **(i)** le beurre, le beurre de petit-lait et le petit-lait,
-	- **(ii)** tout produit mentionné au sous-alinéa (i) sous forme concentrée ou desséchée, y compris le concentré protéique de petit-lait;
-- **c)** dans le cas d'un mélange à lait glacé, d'un mélange à crème glacée et du sorbet laitier, les produits visés aux sous-alinéas a)(i) ou (ii) ou b)(i) ou (ii). (*milk product*) 
-> DORS/92-400, art. 1; DORS/97-543, art. 1(F); DORS/98-580, art. 1(F).
+	- **(ii)** le concentré protéique de petit-lait,
+	- **(iii)** tout produit visé au sous-alinéa (i) sous forme concentrée ou desséchée;
+- **d)** dans le cas d’un mélange à lait glacé, d’un mélange à crème glacée et du sorbet laitier, les produits visés aux sous-alinéas a)(i) ou (ii) ou c)(i) ou (ii). (*milk product*)
+
+***ultrafiltré*** Se dit du lait, du lait partiellement écrémé ou du lait écrémé qu’on fait passer à travers une ou plusieurs membranes semi-perméables pour partiellement en soustraire l’eau, le lactose, les minéraux et les vitamines hydrosolubles sans en altérer le rapport protéines de petit-lait à la caséine et qui résulte en un produit liquide. (*ultrafiltered*)
+> DORS/92-400, art. 1; DORS/97-543, art. 1(F); DORS/98-580, art. 1(F); DORS/2007-302, art. 1.
 
 
 
@@ -8804,55 +8813,68 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 
 - **(1)** **[N].** Le **fromage (indication de la variété)** autre que le fromage cheddar, le fromage à la crème, le fromage de petit-lait, le fromage à la crème (avec indication des ingrédients ajoutés), le fromage à la crème à tartiner, le fromage à la crème à tartiner (avec indication des ingrédients ajoutés), le fromage fondu (indication de la variété), le fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés), une préparation de fromage fondu, une préparation de fromage fondu (avec indication des ingrédients ajoutés), le fromage fondu à tartiner, le fromage fondu à tartiner (avec indication des ingrédients ajoutés), le fromage conditionné à froid (indication de la variété), le fromage conditionné à froid (indication de la variété) (avec indication des ingrédients ajoutés), une préparation de fromage conditionné à froid, une préparation de fromage conditionné à froid (avec indication des ingrédients ajoutés), le fromage cottage et le fromage cottage en crème,
 	- **a)** doit
-		- **(i)** être le produit de la coagulation, à l'aide de bactéries, de lait, de produits laitiers ou d'un mélange de ceux-ci, en vue de former, après égouttement du petit-lait, une masse homogène de caillé,
+		- **(i)** être le produit de la coagulation, à l’aide de bactéries, de lait, de produits du lait ou d’un mélange de ceux-ci, en vue de former, après égouttement du petit-lait, une masse homogène de caillé,
+		- **(i.1)** sauf pour le fromage Féta, avoir une teneur en caséine dérivée du lait ou du lait ultrafiltré, du lait partiellement écrémé, du lait partiellement écrémé ultrafiltré, du lait écrémé, du lait écrémé ultrafiltré ou de la crème, plutôt que de tout autre produit du lait, au moins équivalente aux pourcentages ci-après de la teneur totale en protéines du fromage :
+			- **(A)** 63 %, dans le cas du fromage Pizza mozzarella ou Pizza mozzarella partiellement écrémé,
+			- **(B)** 83 %, dans le cas du fromage de lait écrémé, Brick, Brick canadien, Colby, Farmer’s, Jack, Monterey (Monterey Jack), Mozzarella (Scamorza), Mozzarella partiellement écrémé (Scamorza partiellement écrémé), Munster canadien, Pizza partiellement écrémé ou Pizza et des autres variétés de fromage non mentionnées aux divisions (A) ou (C),
+			- **(C)** 95 %, dans le cas des autres variétés de fromage visées au tableau du présent article,
+		- **(i.2)** avoir un rapport protéines de petit-lait à la caséine qui ne dépasse pas celui du lait,
 		- **(ii)** posséder les propriétés physiques, chimiques et organoleptiques typiques de la variété,
-		- **(iii)** s'il s'agit d'une variété de fromage nommée dans le tableau du présent article, ne pas contenir plus que le pourcentage maximal d'humidité indiqué pour cette variété dans la colonne II de ce tableau,
-		- **(iv)** s'il s'agit d'une variété de fromage nommée dans la partie I du tableau du présent article, contenir au moins le pourcentage minimal de matière grasse de lait indiqué pour cette variété dans la colonne III de ce tableau, et
-		- **(v)** s'il s'agit d'une variété de fromage nommée dans la partie II du tableau du présent article, ne pas contenir plus que le pourcentage maximal de matière grasse de lait indiqué pour cette variété dans la colonne III de ce tableau; et
+		- **(iii)** s’il s’agit d’une variété de fromage nommée dans le tableau du présent article, ne pas contenir plus que le pourcentage maximal d’humidité indiqué pour cette variété dans la colonne II de ce tableau,
+		- **(iv)** s’il s’agit d’une variété de fromage nommée dans la partie I du tableau du présent article, contenir au moins le pourcentage minimal de matière grasse de lait indiqué pour cette variété dans la colonne III de ce tableau, et
+		- **(v)** s’il s’agit d’une variété de fromage nommée dans la partie II du tableau du présent article, ne pas contenir plus que le pourcentage maximal de matière grasse de lait indiqué pour cette variété dans la colonne III de ce tableau; et
 	- **b)** peut contenir
 		- **(i)** du sel, des assaisonnements, des condiments et des épices,
 		- **(ii)** des préparations aromatisantes autres que les aromatisants de fromage,
-		- **(iii)** des micro-organismes favorisant l'affinage,
+		- **(iii)** des micro-organismes favorisant l’affinage,
 		- **(iv)** les colorants suivants :
 			- **(A)** en quantité conforme aux bonnes pratiques industrielles, le rocou, le ß-carotène, la chlorophylle, le paprika, la riboflavine, le curcuma,
-			- **(B)** en quantité n'excédant pas 35 parties par million, le ß-apo-8′-caroténal, l'ester éthylique de l'acide ß-apo-8′-caroténoïque ou un mélange de ces produits, et
-			- **(C)** en quantité n'excédant pas 0,10 partie par million, le bleu brillant FCF seulement dans le Feta,
-		- **(v)** du chlorure de calcium comme agent d'affermissement, en quantité n'excédant pas 0,02 pour cent du lait et des produits laitiers utilisés,
+			- **(B)** en quantité n’excédant pas 35 parties par million, le ß-apo-8′-caroténal, l’ester éthylique de l’acide ß-apo-8′-caroténoïque ou un mélange de ces produits, et
+			- **(C)** en quantité n’excédant pas 0,10 partie par million, le bleu brillant FCF seulement dans le Feta,
+		- **(v)** du chlorure de calcium comme agent d’affermissement, en quantité n’excédant pas 0,02 pour cent du lait et des produits du lait utilisés,
 		- **(vi)** de la cire de paraffine comme enrobage, en quantité conforme aux bonnes pratiques industrielles,
-		- **(vii)** en quantité n'excédant pas 50 parties par million, des résidus de nitrate de potassium, de nitrate de sodium ou d'un mélange de ces produits utilisés aux fins et de la manière prévues au paragraphe (2),
+		- **(vii)** en quantité n’excédant pas 50 parties par million, des résidus de nitrate de potassium, de nitrate de sodium ou d’un mélange de ces produits utilisés aux fins et de la manière prévues au paragraphe (2),
 		- **(viii)** de la fumée de bois comme agent de conservation, en quantité conforme aux bonnes pratiques industrielles,
 		- **(ix)** les agents de conservation suivants :
-			- **(A)** l'acide propionique, le propionate de calcium, le propionate de sodium ou un mélange de ces produits, en quantité n'excédant pas 2 000 parties par million, calculée en acide propionique,
-			- **(B)** l'acide sorbique, le sorbate de calcium, le sorbate de potassium, le sorbate de sodium, ou un mélange de ces produits, en quantité n'excédant pas 3 000 parties par million, calculée en acide sorbique,
-			- **(C)** un mélange des agents de conservation visés aux dispositions (A) et (B), en quantité n'excédant pas 3 000 parties par million, calculée respectivement en acide propionique et en acide sorbique, ou
-			- **(D)** la natamycine appliquée à la surface du fromage, en une quantité n'excédant pas 20 parties par million ou, si le fromage est râpé fin ou en filaments, 10 parties par million,
-		- **(x)** s'il est râpé fin ou en filaments, du silicate de calcium, de la cellulose microcristalline, de la cellulose ou un mélange de ces produits, utilisé comme agent anti-agglomérant, en quantité totale n'excédant pas 2,0 pour cent,
+			- **(A)** l’acide propionique, le propionate de calcium, le propionate de sodium ou un mélange de ces produits, en quantité n’excédant pas 2 000 parties par million, calculée en acide propionique,
+			- **(B)** l’acide sorbique, le sorbate de calcium, le sorbate de potassium, le sorbate de sodium, ou un mélange de ces produits, en quantité n’excédant pas 3 000 parties par million, calculée en acide sorbique,
+			- **(C)** un mélange des agents de conservation visés aux dispositions (A) et (B), en quantité n’excédant pas 3 000 parties par million, calculée respectivement en acide propionique et en acide sorbique, ou
+			- **(D)** la natamycine appliquée à la surface du fromage, en une quantité n’excédant pas 20 parties par million ou, si le fromage est râpé fin ou en filaments, 10 parties par million,
+		- **(x)** s’il est râpé fin ou en filaments, du silicate de calcium, de la cellulose microcristalline, de la cellulose ou un mélange de ces produits, utilisé comme agent anti-agglomérant, en quantité totale n’excédant pas 2,0 pour cent,
 		- **(xi)** du dioxyde de carbone comme rajusteur du pH dans le lait pour la fabrication du fromage, en quantité conforme aux bonnes pratiques industrielles.
 
+- **(1.1)** Le fromage d’une variété visée à la colonne I de la partie I du tableau du présent article peut contenir plus que le pourcentage maximal d’humidité indiqué dans la colonne II et moins que le pourcentage minimal de matière grasse du lait indiqué dans la colonne III, si les conditions suivantes sont réunies :
+	- **a)** la mention ou l’allégation figurant à la colonne 4 de l’un des articles 12 à 14, 16, 20, 21 et 45 du tableau suivant l’article B.01.513 est indiquée sur l’étiquette du produit dans le nom usuel de celui-ci;
+	- **b)** le fromage a la saveur et la texture caractéristiques de la variété de fromage visée.
+
+- **(1.2)** La mention « 83 % » dans la division (1)a)(i.1)(B) vaut mention de « 78 % » et la mention « 95 % » dans la division (1)a)(i.1)(C) vaut mention de « 90 % », dans le cas des variétés de fromage visées, si les conditions suivantes sont réunies :
+	- **a)** la mention ou l’allégation figurant à la colonne 4 de l’un des articles 12 à 14, 16, 20, 21 et 45 du tableau suivant l’article B.01.513 est indiquée sur l’étiquette du produit dans le nom usuel de celui-ci;
+	- **b)** le fromage a la saveur et la texture caractéristiques de la variété de fromage visée.
+
 - **(2)** Le nitrate de potassium, le nitrate de sodium ou un mélange de ces produits peuvent être utilisés comme agents de conservation dans le fromage, pourvu que
-	- **a)** la quantité de sel ou le mélange de sels ne dépasse pas 200 parties par million du lait et des produits laitiers utilisés;
+	- **a)** la quantité de sel ou le mélange de sels ne dépasse pas 200 parties par million du lait et des produits du lait utilisés;
 	- **b)** le fromage soit
 		- **(i)** du fromage affiné aux moisissures conservé dans un contenant hermétique, ou
 		- **(ii)** du fromage affiné
-			- **(A)** qui contient au plus 68 pour cent d'humidité à l'état dégraissé, et
+			- **(A)** qui contient au plus 68 pour cent d’humidité à l’état dégraissé, et
 			- **(B)** dont la fermentation lactique et la salaison ont été faites plus de 12 heures après la coagulation du caillé par enzymes; et
-	- **c)** la salaison soit, dans le cas du fromage visé au sous-alinéa b)(ii), appliquée à l'extérieur du fromage sous forme de sel ou de saumure.
+	- **c)** la salaison soit, dans le cas du fromage visé au sous-alinéa b)(ii), appliquée à l’extérieur du fromage sous forme de sel ou de saumure.
 
-- **(3)** Il est interdit d'utiliser un enzyme qui n'est pas compris parmi les suivants :
-	- **a)** les enzymes coagulant le lait qui proviennent de *Rhizomucor miehei* (Cooney et Emerson) (précédemment nommé *mucor miehei* (Cooney et Emerson)), de *Mucor pusillus Lindt* ou de *Aspergillus oryzae* RET-1 (pBoel777), l'aminopeptidase provenant de *Lactococcus lactis*, la chymosine A provenant de *Escherichia coli* K-12, GE81 (pPFZ87A), la chymosine B provenant de *Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR) ou de *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS105), la protéase provenant de *Micrococcus caseolyticus*, la pepsine, la présure et la présure bovine, dans la fabrication d'un fromage visé au paragraphe (1);
-	- **b)** la lipase et les enzymes mentionnés à l'alinéa a), pour la fabrication du fromage Asiago, du fromage Bleu, du fromage Caciocavallo, du fromage Feta et du fromage Provolone;
-	- **c)** l'enzyme coagulant le lait provenant d'*Endothia parasitica* et les enzymes mentionnés à l'alinéa a) dans la fabrication du fromage Emmentaler (Emmenthal, suisse), du fromage Mozzarella (Scamorza) et du fromage Mozzarella partiellement écrémé (Scamorza partiellement écrémé);
-	- **d)** la lipase, l'enzyme coagulant le lait provenant d'*Endothia parasitica* et les enzymes mentionnés à l'alinéa a), pour la fabrication du fromage Parmesan et du fromage Romano;
-	- **e)** la protéase provenant d'*Aspergillus oryzae* pour la fabrication du fromage Colby;
-	- **f)** le lysozyme provenant de blanc d'oeuf.
+- **(3)** Il est interdit d’utiliser un enzyme qui n’est pas compris parmi les suivants :
+	- **a)** les enzymes coagulant le lait qui proviennent de *Rhizomucor miehei* (Cooney et Emerson) (précédemment nommé *mucor miehei* (Cooney et Emerson)), de *Mucor pusillus Lindt* ou de *Aspergillus oryzae* RET-1 (pBoel777), l’aminopeptidase provenant de *Lactococcus lactis*, la chymosine A provenant de *Escherichia coli* K-12, GE81 (pPFZ87A), la chymosine B provenant de *Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR) ou de *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS105), la protéase provenant de *Micrococcus caseolyticus*, la pepsine, la présure et la présure bovine, dans la fabrication d’un fromage visé au paragraphe (1);
+	- **b)** la lipase et les enzymes mentionnés à l’alinéa a), pour la fabrication du fromage Asiago, du fromage Bleu, du fromage Caciocavallo, du fromage Feta et du fromage Provolone;
+	- **c)** l’enzyme coagulant le lait provenant d’*Endothia parasitica* et les enzymes mentionnés à l’alinéa a) dans la fabrication du fromage Emmentaler (Emmenthal, suisse), du fromage Mozzarella (Scamorza) et du fromage Mozzarella partiellement écrémé (Scamorza partiellement écrémé);
+	- **d)** la lipase, l’enzyme coagulant le lait provenant d’*Endothia parasitica* et les enzymes mentionnés à l’alinéa a), pour la fabrication du fromage Parmesan et du fromage Romano;
+	- **e)** la protéase provenant d’*Aspergillus oryzae* pour la fabrication du fromage Colby;
+	- **f)** le lysozyme provenant de blanc d’oeuf.
 
-- **(3.1)** Il est interdit d'utiliser une enzyme visée au paragraphe (3) en quantité supérieure à celle conforme aux bonnes pratiques industrielles.
+- **(3.1)** Il est interdit d’utiliser une enzyme visée au paragraphe (3) en quantité supérieure à celle conforme aux bonnes pratiques industrielles.
 
-- **(4)** Lorsqu'une préparation aromatisante, autre qu'une préparation aromatisante habituellement utilisée dans la variété de fromage, est ajoutée à un fromage conformément au paragraphe (1), l'expression « (avec indication de la préparation aromatisante) » doit être ajoutée au nom usuel sur l'étiquette.
+- **(4)** Lorsqu’une préparation aromatisante, autre qu’une préparation aromatisante habituellement utilisée dans la variété de fromage, est ajoutée à un fromage conformément au paragraphe (1), l’expression « (avec indication de la préparation aromatisante) » doit être ajoutée au nom usuel sur l’étiquette.
 
-- **(5)** L'étiquette d'un fromage ne doit porter le terme « fumé » que si de la fumée de bois a été ajoutée au fromage conformément au paragraphe (1).
+- **(5)** L’étiquette d’un fromage ne doit porter le terme « fumé » que si de la fumée de bois a été ajoutée au fromage conformément au paragraphe (1).
 
-- **(6)** Dans les cas visés au paragraphe (5), le terme « fumé » doit paraître dans l'espace principal de l'étiquette.
+- **(6)** Dans les cas visés au paragraphe (5), le terme « fumé » doit paraître dans l’espace principal de l’étiquette.
 
 ## TABLEAU
 
@@ -8867,7 +8889,7 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 <tr>
 <th>Article</th>
 <th>Variété de fromage</th>
-<th>Pourcentage maximal d'humidité</th>
+<th>Pourcentage maximal d’humidité</th>
 <th>Pourcentage minimal de matière grasse du lait</th>
 </tr>
 <tr>
@@ -8926,7 +8948,7 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 </tr>
 <tr>
 <td>10</td>
-<td>Camembert (Carré de l'est)</td>
+<td>Camembert (Carré de l’est)</td>
 <td>56,0</td>
 <td>22,0</td>
 </tr>
@@ -8980,7 +9002,7 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 </tr>
 <tr>
 <td>19</td>
-<td>Farmer's</td>
+<td>Farmer’s</td>
 <td>44,0</td>
 <td>27,0</td>
 </tr>
@@ -9099,10 +9121,22 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 <td>15,0</td>
 </tr>
 <tr>
+<td>38.1</td>
+<td>Pizza mozzarella partiellement écrémé</td>
+<td>61,0</td>
+<td>11,0</td>
+</tr>
+<tr>
 <td>39</td>
 <td>Pizza</td>
 <td>48,0</td>
 <td>20,0</td>
+</tr>
+<tr>
+<td>39.1</td>
+<td>Pizza mozzarella</td>
+<td>58,0</td>
+<td>15,0</td>
 </tr>
 <tr>
 <td>40</td>
@@ -9159,7 +9193,7 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 <tr>
 <th>Article</th>
 <th>Variété de fromage</th>
-<th>Pourcentage maximal d'humidité</th>
+<th>Pourcentage maximal d’humidité</th>
 <th>Pourcentage maximal de matière grasse du lait</th>
 </tr>
 <tr>
@@ -9176,7 +9210,7 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 </tr>
 </table>
 
-> DORS/79-752, art. 2; DORS/80-632, art. 2; DORS/82-383, art. 2 et 3; DORS/82-566, art. 1; DORS/84-302, art. 1; DORS/86-89, art. 2; DORS/87-640, art. 3; DORS/88-534, art. 2; DORS/89-198, art. 1; DORS/90-469, art. 1; DORS/91-88, art. 1; DORS/92-197, art. 1; DORS/92-400, art. 4; DORS/93-477, art. 1; DORS/94-212, art. 1; DORS/94-417, art. 1; DORS/95-183, art. 1; DORS/97-191, art. 1; DORS/98-458, art. 2; DORS/2000-336, art. 1; DORS/2000-353, art. 4; DORS/2000-417, art. 2; DORS/2001-94, art. 1; DORS/2005-98, art. 7.
+> DORS/79-752, art. 2; DORS/80-632, art. 2; DORS/82-383, art. 2 et 3; DORS/82-566, art. 1; DORS/84-302, art. 1; DORS/86-89, art. 2; DORS/87-640, art. 3; DORS/88-534, art. 2; DORS/89-198, art. 1; DORS/90-469, art. 1; DORS/91-88, art. 1; DORS/92-197, art. 1; DORS/92-400, art. 4; DORS/93-477, art. 1; DORS/94-212, art. 1; DORS/94-417, art. 1; DORS/95-183, art. 1; DORS/97-191, art. 1; DORS/98-458, art. 2; DORS/2000-336, art. 1; DORS/2000-353, art. 4; DORS/2000-417, art. 2; DORS/2001-94, art. 1; DORS/2005-98, art. 7; DORS/2007-302, art. 2 et 4(F).
 
 
 
@@ -9185,41 +9219,52 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 
 - **(1)** **[N].** Le **fromage cheddar**
 	- **a)** doit
-		- **(i)** être le produit de la coagulation, à l'aide de bactéries, du lait, de produits laitiers ou d'un mélange de ceux-ci, en vue de former un caillé soumis par la suite
-			- **(A)** au procédé cheddar, ou
-			- **(B)** à tout procédé autre que le procédé cheddar, qui donne du fromage possédant les mêmes propriétés physiques, chimiques et organoleptiques que le fromage produit par le procédé cheddar, et
+		- **(i)** être le produit de la coagulation — à l’aide de bactéries — du lait, de produits du lait ou d’un mélange de ceux-ci, en vue de former un caillé soumis par la suite soit au procédé cheddar, soit à tout autre procédé qui donne du fromage possédant les mêmes propriétés physiques, chimiques et organoleptiques que le fromage produit par le procédé cheddar,
+		- **(i.1)** avoir une teneur en caséine dérivée du lait ou du lait ultrafiltré, du lait partiellement écrémé, du lait partiellement écrémé ultrafiltré, du lait écrémé, du lait écrémé ultrafiltré ou de la crème, plutôt que de tout autre produit du lait, d’au moins 83 % de la teneur totale en protéines du fromage,
+		- **(i.2)** avoir un rapport protéines de petit-lait à la caséine qui ne dépasse pas celui du lait,
 		- **(ii)** contenir
-			- **(A)** au plus 39 pour cent d'humidité, et
+			- **(A)** au plus 39 pour cent d’humidité, et
 			- **(B)** au moins 31 pour cent de matière grasse de lait, et
 	- **b)** peut contenir
 		- **(i)** du sel,
 		- **(ii)** des préparations aromatisantes autres que les aromatisants de fromage,
-		- **(iii)** des cultures bactériennes favorisant l'affinage,
+		- **(iii)** des cultures bactériennes favorisant l’affinage,
 		- **(iv)** les colorants suivants :
 			- **(A)** en quantité conforme aux bonnes pratiques industrielles, le rocou, le ß-carotène, la chlorophylle, le paprika, la riboflavine, le curcuma, et
-			- **(B)** en quantité n'excédant pas 35 parties par million, le ß-apo-8′-caroténal, l'ester éthylique de l'acide ß-apo-8′-caroténoïque ou un mélange de ces produits,
-		- **(v)** du chlorure de calcium comme agent d'affermissement, en quantité n'excédant pas 0,02 pour cent du lait et des produits laitiers utilisés,
+			- **(B)** en quantité n’excédant pas 35 parties par million, le ß-apo-8′-caroténal, l’ester éthylique de l’acide ß-apo-8′-caroténoïque ou un mélange de ces produits,
+		- **(v)** du chlorure de calcium comme agent d’affermissement, en quantité n’excédant pas 0,02 pour cent du lait et des produits du lait utilisés,
 		- **(vi)** de la fumée de bois comme agent de conservation, en quantité conforme aux bonnes pratiques industrielles,
 		- **(vii)** les agents de conservation suivants :
-			- **(A)** l'acide propionique, le propionate de calcium, le propionate de sodium ou un mélange de ces produits, en quantité n'excédant pas 2 000 parties par million, calculée en acide propionique,
-			- **(B)** l'acide sorbique, le sorbate de calcium, le sorbate de potassium, le sorbate de sodium, ou un mélange de ces produits, en quantité n'excédant pas 3 000 parties par million, calculée en acide sorbique,
-			- **(C)** un mélange des agents de conservation visés aux dispositions (A) et (B), en quantité n'excédant pas 3 000 parties par million, calculée respectivement en acide propionique et en acide sorbique, ou
-			- **(D)** la natamycine appliquée à la surface du fromage, en une quantité n'excédant pas 20 parties par million ou, si le fromage est râpé fin ou en filaments, 10 parties par million,
-		- **(viii)** s'il est râpé fin ou en filaments, du silicate de calcium, de la cellulose microcristalline, de la cellulose ou un mélange de ces produits, utilisé comme agent anti-agglomérant, en quantité totale n'excédant pas 2,0 pour cent.
+			- **(A)** l’acide propionique, le propionate de calcium, le propionate de sodium ou un mélange de ces produits, en quantité n’excédant pas 2 000 parties par million, calculée en acide propionique,
+			- **(B)** l’acide sorbique, le sorbate de calcium, le sorbate de potassium, le sorbate de sodium, ou un mélange de ces produits, en quantité n’excédant pas 3 000 parties par million, calculée en acide sorbique,
+			- **(C)** un mélange des agents de conservation visés aux dispositions (A) et (B), en quantité n’excédant pas 3 000 parties par million, calculée respectivement en acide propionique et en acide sorbique, ou
+			- **(D)** la natamycine appliquée à la surface du fromage, en une quantité n’excédant pas 20 parties par million ou, si le fromage est râpé fin ou en filaments, 10 parties par million,
+		- **(viii)** s’il est râpé fin ou en filaments, du silicate de calcium, de la cellulose microcristalline, de la cellulose ou un mélange de ces produits, utilisé comme agent anti-agglomérant, en quantité totale n’excédant pas 2,0 pour cent.
+	- **c)** ne peut être étiqueté et annoncé comme étant un fromage cheddar qui a été vieilli que s’il remplit les conditions suivantes :
+		- **(i)** il est fait uniquement de lait, de lait ultrafiltré, de lait partiellement écrémé, de lait partiellement écrémé ultrafiltré, de lait écrémé, de lait écrémé ultrafiltré, de crème ou d’un mélange de ceux-ci,
+		- **(ii)** il a été vieilli pendant au moins neuf mois et la période pendant laquelle il a été vieilli est mentionnée sur l’espace principal de l’étiquette ou dans l’annonce.
 
-- **(2)** Dans la fabrication du fromage cheddar, il est interdit d'utiliser une enzyme qui n'est pas comprise parmi les suivantes :
-	- **a)** la lipase, la pepsine, la présure, les enzymes coagulant le lait qui proviennent de *Rhizomucor miehei* (Cooney et Emerson) (précédemment nommé *Mucor miehei* (Cooney et Emerson)), de *Mucor pusillus Lindt* ou de *Aspergillus oryzae* RET-1 (pBoel777), l'aminopeptidase provenant de *Lactococcus lactis*, la chymosine A provenant de *Escherichia coli* K-12, GE81 (pPFZ87A) et la chymosine B provenant de *Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR), ou de *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS105);
-	- **b)** la protéase provenant d'*Aspergillus oryzae*;
-	- **c)** le lysozyme provenant de blanc d'oeuf.
+- **(1.1)** Le fromage cheddar peut contenir plus que le pourcentage maximal d’humidité prévu à la division (1)a)(ii)(A) et moins que le pourcentage minimal de matière grasse de lait prévu à la division (1)a)(ii)(B), si les conditions suivantes sont réunies :
+	- **a)** la mention ou l’allégation figurant à la colonne 4 de l’un des articles 12 à 14, 16, 20, 21 et 45 du tableau suivant l’article B.01.513 est indiquée sur l’étiquette du produit dans le nom usuel de celui-ci;
+	- **b)** le fromage a la saveur et la texture caractéristiques du fromage cheddar.
 
-- **(2.1)** Il est interdit d'utiliser une enzyme visée au paragraphe (2) en quantité supérieure à celle conforme aux bonnes pratiques industrielles.
+- **(1.2)** la mention « 83 % » au sous-alinéa (1)a)(i.1) vaut mention de « 78 % », si les conditions suivantes sont réunies :
+	- **a)** la mention ou l’allégation figurant à la colonne 4 de l’un des articles 12 à 14, 16, 20, 21 et 45 du tableau suivant l’article B.01.513 est indiquée sur l’étiquette du produit dans le nom usuel de celui-ci;
+	- **b)** le fromage a la saveur et la texture caractéristiques du fromage cheddar.
 
-- **(3)** Lorsqu'une préparation aromatisante est ajoutée à un fromage conformément au paragraphe (1), l'expression « (avec indication de la préparation aromatisante) » doit être ajoutée au nom usuel sur l'étiquette.
+- **(2)** Dans la fabrication du fromage cheddar, il est interdit d’utiliser une enzyme qui n’est pas comprise parmi les suivantes :
+	- **a)** la lipase, la pepsine, la présure, les enzymes coagulant le lait qui proviennent de *Rhizomucor miehei* (Cooney et Emerson) (précédemment nommé *Mucor miehei* (Cooney et Emerson)), de *Mucor pusillus Lindt* ou de *Aspergillus oryzae* RET-1 (pBoel777), l’aminopeptidase provenant de *Lactococcus lactis*, la chymosine A provenant de *Escherichia coli* K-12, GE81 (pPFZ87A) et la chymosine B provenant de *Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR), ou de *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS105);
+	- **b)** la protéase provenant d’*Aspergillus oryzae*;
+	- **c)** le lysozyme provenant de blanc d’oeuf.
 
-- **(4)** L'étiquette d'un fromage ne doit porter le terme « fumé » que si de la fumée de bois a été ajoutée au fromage conformément au paragraphe (1).
+- **(2.1)** Il est interdit d’utiliser une enzyme visée au paragraphe (2) en quantité supérieure à celle conforme aux bonnes pratiques industrielles.
 
-- **(5)** Dans les cas visés au paragraphe (4), le terme «fumé» doit paraître dans l'espace principal de l'étiquette.
-> DORS/79-752, art. 2; DORS/82-383, art. 4; DORS/83-617, art. 1; DORS/84-302, art. 2; DORS/84-762, art. 7; DORS/88-534, art. 3; DORS/89-244, art. 1; DORS/90-469, art. 2; DORS/91-88, art. 2; DORS/92-197, art. 2; DORS/93-477, art. 2; DORS/94-212, art. 2; DORS/95-183, art. 2; DORS/97-191, art. 2; DORS/98-458, art. 3; DORS/2000-336, art. 2; DORS/2000-417, art. 3; DORS/2005-98, art. 7.
+- **(3)** Lorsqu’une préparation aromatisante est ajoutée à un fromage conformément au paragraphe (1), l’expression « (avec indication de la préparation aromatisante) » doit être ajoutée au nom usuel sur l’étiquette.
+
+- **(4)** L’étiquette d’un fromage ne doit porter le terme « fumé » que si de la fumée de bois a été ajoutée au fromage conformément au paragraphe (1).
+
+- **(5)** Dans les cas visés au paragraphe (4), le terme « fumé » doit paraître dans l’espace principal de l’étiquette.
+> DORS/79-752, art. 2; DORS/82-383, art. 4; DORS/83-617, art. 1; DORS/84-302, art. 2; DORS/84-762, art. 7; DORS/88-534, art. 3; DORS/89-244, art. 1; DORS/90-469, art. 2; DORS/91-88, art. 2; DORS/92-197, art. 2; DORS/93-477, art. 2; DORS/94-212, art. 2; DORS/95-183, art. 2; DORS/97-191, art. 2; DORS/98-458, art. 3; DORS/2000-336, art. 2; DORS/2000-417, art. 3; DORS/2005-98, art. 7; DORS/2007-302, art. 3 et 4(F).
 
 
 
@@ -9255,14 +9300,14 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 **B.08.036** 
 
 - **(1)** **[N].** Le **fromage de petit-lait** ou le **fromage de petit-lait (indication de la variété)**
-	- **a)** doit être le produit de la coagulation, à l'aide d'une source de chaleur, du petit-lait ou du petit-lait concentré en vue de former un caillé auquel une forme est donnée; et
+	- **a)** doit être le produit de la coagulation, à l’aide d’une source de chaleur, du petit-lait ou du petit-lait concentré en vue de former un caillé auquel une forme est donnée; et
 	- **b)** peut contenir
-		- **(i)** des micro-organismes favorisant l'affinage,
-		- **(ii)** du lait et des produits laitiers ajoutés, et
-		- **(iii)** en quantité conforme aux bonnes pratiques industrielles, de l'acide acétique, du carbonate de calcium, de l'acide citrique, de l'acide lactique, de l'acide malique, de l'acide phosphorique, du bicarbonate de potassium, du carbonate de potassium, du bicarbonate de sodium, du carbonate de sodium et de l'acide tartrique comme rajusteurs du pH.
+		- **(i)** des micro-organismes favorisant l’affinage,
+		- **(ii)** du lait et des produits du lait ajoutés, et
+		- **(iii)** en quantité conforme aux bonnes pratiques industrielles, de l’acide acétique, du carbonate de calcium, de l’acide citrique, de l’acide lactique, de l’acide malique, de l’acide phosphorique, du bicarbonate de potassium, du carbonate de potassium, du bicarbonate de sodium, du carbonate de sodium et de l’acide tartrique comme rajusteurs du pH.
 
-- **(2)** Il est interdit d'utiliser, pour favoriser la coagulation du petit-lait dans la fabrication du fromage de petit-lait, une substance autre que du vinaigre ou du petit-lait sûr.
-> DORS/79-752, art. 2.
+- **(2)** Il est interdit d’utiliser, pour favoriser la coagulation du petit-lait dans la fabrication du fromage de petit-lait, une substance autre que du vinaigre ou du petit-lait sûr.
+> DORS/79-752, art. 2; DORS/2007-302, art. 4(F).
 
 
 
@@ -9308,32 +9353,32 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 
 - **(1)** **[N].** Le **fromage à la crème à tartiner**
 	- **a)** doit
-		- **(i)** être le produit de la coagulation de la crème à l'aide de bactéries, en vue de former, après égouttement du petit-lait, une masse homogène de caillé, et
+		- **(i)** être le produit de la coagulation de la crème à l’aide de bactéries, en vue de former, après égouttement du petit-lait, une masse homogène de caillé, et
 		- **(ii)** contenir
-			- **(A)** du lait et des produits laitiers ajoutés,
+			- **(A)** du lait et des produits du lait ajoutés,
 			- **(B)** au moins 51 pour cent de fromage à la crème,
-			- **(C)** au plus 60 pour cent d'humidité, et
+			- **(C)** au plus 60 pour cent d’humidité, et
 			- **(D)** au moins 24 pour cent de matière grasse de lait; et
 	- **b)** peut contenir
 		- **(i)** de la crème ajoutée pour modifier la teneur en matière grasse de lait,
 		- **(ii)** du sel, du vinaigre et des agents édulcorants,
-		- **(iii)** de l'azote pour améliorer la tartinabilité, en quantité conforme aux bonnes pratiques industrielles,
+		- **(iii)** de l’azote pour améliorer la tartinabilité, en quantité conforme aux bonnes pratiques industrielles,
 		- **(iv)** les colorants suivants :
 			- **(A)** en quantité conforme aux bonnes pratiques industrielles, le rocou, le ß-carotène, la chlorophylle, le paprika, la riboflavine, le curcuma, et
-			- **(B)** en quantité n'excédant pas 35 parties par million, le ß-apo-8′-caroténal, l'ester éthylique de l'acide ß-apo-8′-caroténoïque ou un mélange de ces produits,
+			- **(B)** en quantité n’excédant pas 35 parties par million, le ß-apo-8′-caroténal, l’ester éthylique de l’acide ß-apo-8′-caroténoïque ou un mélange de ces produits,
 		- **(v)** les agents émulsifiants, gélatinisants, stabilisants et épaississants qui suivent :
-			- **(A)** en quantité n'excédant pas 0,5 pour cent, la carragénine d'ammonium, la carragénine de calcium, la gomme de caroube (fève de l'acacia vulgaire ou faux acacia), la carragénine, la gélatine, la gomme de guar, la gélose de mousse d'Irlande, la carragénine de potassium, l'alginate de propylèneglycol, la carboxyméthylcellulose sodique (carboxyméthylcellulose, gomme de cellulose, glycolate sodique de cellulose), la carragénine sodique, la gomme adragante, la gomme xanthane ou un mélange de ces produits, et
-			- **(B)** le phosphate de calcium dibasique, le phosphate de potassium dibasique, le pyrophosphate acide de sodium, le phosphate d'aluminium et de sodium, l'hexamétophosphate de sodium, le phosphate disodique, le phosphate monosodique, le phosphate trisodique, le pyrophosphate tétrasodique, le citrate de calcium, le citrate de potassium, le citrate de sodium, le tartrate double de sodium et de potassium, le tartrate de sodium, le gluconate de sodium ou un mélange de ces produits, en quantité qui, calculée en sels anhydres, ne dépasse pas 3,5 pour cent, dans le cas des sels de phosphate, et 4,0 pour cent en tout,
-		- **(vi)** en quantité conforme aux bonnes pratiques industrielles, de l'acide acétique, du carbonate de calcium, de l'acide citrique, de l'acide lactique, de l'acide malique, de l'acide phosphorique, du bicarbonate de potassium, du carbonate de potassium, du bicarbonate de sodium, du carbonate de sodium et de l'acide tartarique comme rajusteurs du pH, et
+			- **(A)** en quantité n’excédant pas 0,5 pour cent, la carragénine d’ammonium, la carragénine de calcium, la gomme de caroube (fève de l’acacia vulgaire ou faux acacia), la carragénine, la gélatine, la gomme de guar, la gélose de mousse d’Irlande, la carragénine de potassium, l’alginate de propylèneglycol, la carboxyméthylcellulose sodique (carboxyméthylcellulose, gomme de cellulose, glycolate sodique de cellulose), la carragénine sodique, la gomme adragante, la gomme xanthane ou un mélange de ces produits, et
+			- **(B)** le phosphate de calcium dibasique, le phosphate de potassium dibasique, le pyrophosphate acide de sodium, le phosphate d’aluminium et de sodium, l’hexamétophosphate de sodium, le phosphate disodique, le phosphate monosodique, le phosphate trisodique, le pyrophosphate tétrasodique, le citrate de calcium, le citrate de potassium, le citrate de sodium, le tartrate double de sodium et de potassium, le tartrate de sodium, le gluconate de sodium ou un mélange de ces produits, en quantité qui, calculée en sels anhydres, ne dépasse pas 3,5 pour cent, dans le cas des sels de phosphate, et 4,0 pour cent en tout,
+		- **(vi)** en quantité conforme aux bonnes pratiques industrielles, de l’acide acétique, du carbonate de calcium, de l’acide citrique, de l’acide lactique, de l’acide malique, de l’acide phosphorique, du bicarbonate de potassium, du carbonate de potassium, du bicarbonate de sodium, du carbonate de sodium et de l’acide tartarique comme rajusteurs du pH, et
 		- **(vii)** les agents de conservation suivants :
-			- **(A)** l'acide propionique, le propionate de calcium, le propionate de sodium ou un mélange de ces produits, en quantité n'excédant pas 2 000 parties par million, calculée en acide propionique,
-			- **(B)** l'acide sorbique, le sorbate de calcium, le sorbate de potassium, le sorbate de sodium ou un mélange de ces produits, en quantité n'excédant pas 3 000 parties par million, calculée en acide sorbique, ou
-			- **(C)** un mélange des agents de conservation visés aux dispositions (A) et (B), en quantité n'excédant pas 3 000 parties par million, calculée respectivement en acide propionique et en acide sorbique.
+			- **(A)** l’acide propionique, le propionate de calcium, le propionate de sodium ou un mélange de ces produits, en quantité n’excédant pas 2 000 parties par million, calculée en acide propionique,
+			- **(B)** l’acide sorbique, le sorbate de calcium, le sorbate de potassium, le sorbate de sodium ou un mélange de ces produits, en quantité n’excédant pas 3 000 parties par million, calculée en acide sorbique, ou
+			- **(C)** un mélange des agents de conservation visés aux dispositions (A) et (B), en quantité n’excédant pas 3 000 parties par million, calculée respectivement en acide propionique et en acide sorbique.
 
-- **(2)** Il est interdit d'utiliser un enzyme
-	- **a)** autre que la chymosine A provenant de *Escherichia coli* K-12, GE81 (pPFZ87A), la chymosine B provenant de *Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR) ou de *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS 105), la pepsine ou la présure dans la fabrication d'un produit visé au paragraphe (1);
+- **(2)** Il est interdit d’utiliser un enzyme
+	- **a)** autre que la chymosine A provenant de *Escherichia coli* K-12, GE81 (pPFZ87A), la chymosine B provenant de *Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR) ou de *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS 105), la pepsine ou la présure dans la fabrication d’un produit visé au paragraphe (1);
 	- **b)** en quantité supérieure à ce qui est conforme aux bonnes pratiques industrielles.
-> DORS/79-752, art. 2; DORS/92-197, art. 5; DORS/94-212, art. 5; DORS/95-183, art. 5.
+> DORS/79-752, art. 2; DORS/92-197, art. 5; DORS/94-212, art. 5; DORS/95-183, art. 5; DORS/2007-302, art. 4(F).
 
 
 
@@ -9342,7 +9387,7 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 
 - **(1)** **[N].** Le **fromage à la crème à tartiner (avec indication des ingrédients ajoutés)**
 	- **a)** doit
-		- **(i)** être le produit de la coagulation de la crème à l'aide de bactéries, en vue de former une masse homogène de caillé après égouttement du petit-lait,
+		- **(i)** être le produit de la coagulation de la crème à l’aide de bactéries, en vue de former une masse homogène de caillé après égouttement du petit-lait,
 		- **(ii)** contenir, en quantité suffisante pour pouvoir se distinguer du fromage à la crème à tartiner, tout en conservant sa nature fondamentale, les ingrédients ajoutés suivants :
 			- **(A)** du fromage autre que du fromage à la crème,
 			- **(B)** des assaisonnements, des épices, des préparations aromatisantes, des condiments ou du chocolat,
@@ -9350,29 +9395,29 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 			- **(D)** de la viande préparée ou conservée, ou
 			- **(E)** du poisson préparé ou conservé, et
 		- **(iii)** contenir
-			- **(A)** du lait et des produits laitiers ajoutés,
-			- **(B)** au plus 60 pour cent d'humidité, et
+			- **(A)** du lait et des produits du lait ajoutés,
+			- **(B)** au plus 60 pour cent d’humidité, et
 			- **(C)** au moins 24 pour cent de matière grasse de lait; et
 	- **b)** peut contenir
 		- **(i)** de la crème ajoutée pour modifier la teneur en matière grasse de lait,
 		- **(ii)** du sel, du vinaigre et des agents édulcorants,
-		- **(iii)** de l'azote pour améliorer la tartinabilité, en une quantité conforme aux bonnes pratiques industrielles,
+		- **(iii)** de l’azote pour améliorer la tartinabilité, en une quantité conforme aux bonnes pratiques industrielles,
 		- **(iv)** les colorants suivants :
 			- **(A)** en quantité conforme aux bonnes pratiques industrielles, le rocou, le ß-carotène, la chlorophylle, le paprika, la riboflavine, le curcuma, et
-			- **(B)** en quantité n'excédant pas 35 parties par million, le ß-apo-8′-caroténal, l'ester éthylique de l'acide ß-apo-8′-carothénoïque ou un mélange de ces produits,
+			- **(B)** en quantité n’excédant pas 35 parties par million, le ß-apo-8′-caroténal, l’ester éthylique de l’acide ß-apo-8′-carothénoïque ou un mélange de ces produits,
 		- **(v)** les agents émulsifiants, gélatinisants, stalibisants et épaississants qui suivent :
-			- **(A)** en quantité n'excédant pas 0,5 pour cent, la carragénine d'ammonium, la carragénine de calcium, la gomme de caroube (fève de l'acacia vulgaire ou faux acacia), la carragénine, la gélatine, la gomme de guar, la gélose de mousse d'Irlande, la carragénine de potassium, l'alginate de propylèneglycol, la carboxyméthylcellulose sodique (carboxyméthylcellulose, gomme de cellulose, glycolate sodique de cellulose), la carragénine sodique, la gomme adragante, la gomme xanthane ou un mélange de ces produits, et
-			- **(B)** le phosphate de calcium dibasique, le phosphate de potassium dibasique, le pyrophosphate acide de sodium, le phosphate d'aluminium et de sodium, l'hexamétaphosphate de sodium, le phosphate disodique, le phosphate monosodique, le phosphate trisodique, le pyrophosphate tétrasodique, le citrate de calcium, le citrate de potassium, le citrate de sodium, le tartrate double de sodium et de potassium, le tartrate de sodium, le gluconate de sodium ou un mélange de ces produits, en quantité qui, calculée en sels anhydres, ne dépasse pas 3,5 pour cent, dans le cas de sels de phosphate, et 4,0 pour cent en tout,
-		- **(vi)** en quantité conforme aux bonnes pratiques industrielles, de l'acide acétique, du carbonate de calcium, de l'acide citrique, de l'acide lactique, de l'acide malique, de l'acide phosphorique, du bicarbonate de potassium, du carbonate de potassium, du bicarbonate de sodium, du carbonate de sodium et de l'acide tartarique comme rajusteurs du pH, et
+			- **(A)** en quantité n’excédant pas 0,5 pour cent, la carragénine d’ammonium, la carragénine de calcium, la gomme de caroube (fève de l’acacia vulgaire ou faux acacia), la carragénine, la gélatine, la gomme de guar, la gélose de mousse d’Irlande, la carragénine de potassium, l’alginate de propylèneglycol, la carboxyméthylcellulose sodique (carboxyméthylcellulose, gomme de cellulose, glycolate sodique de cellulose), la carragénine sodique, la gomme adragante, la gomme xanthane ou un mélange de ces produits, et
+			- **(B)** le phosphate de calcium dibasique, le phosphate de potassium dibasique, le pyrophosphate acide de sodium, le phosphate d’aluminium et de sodium, l’hexamétaphosphate de sodium, le phosphate disodique, le phosphate monosodique, le phosphate trisodique, le pyrophosphate tétrasodique, le citrate de calcium, le citrate de potassium, le citrate de sodium, le tartrate double de sodium et de potassium, le tartrate de sodium, le gluconate de sodium ou un mélange de ces produits, en quantité qui, calculée en sels anhydres, ne dépasse pas 3,5 pour cent, dans le cas de sels de phosphate, et 4,0 pour cent en tout,
+		- **(vi)** en quantité conforme aux bonnes pratiques industrielles, de l’acide acétique, du carbonate de calcium, de l’acide citrique, de l’acide lactique, de l’acide malique, de l’acide phosphorique, du bicarbonate de potassium, du carbonate de potassium, du bicarbonate de sodium, du carbonate de sodium et de l’acide tartarique comme rajusteurs du pH, et
 		- **(vii)** les agents de conservation suivants :
-			- **(A)** l'acide propionique, le propionate de calcium, le propionate de sodium ou un mélange de ces produits, en quantité n'excédant pas 2 000 parties par million, calculée en acide propionique,
-			- **(B)** l'acide sorbique, le sorbate de calcium, le sorbate de potassium, le sorbate de sodium ou un mélange de ces produits, en quantité n'excédant pas 3 000 parties par million, calculée en acide sorbique, ou
-			- **(C)** un mélange des agents de conservation visés aux dispositions (A) et (B), en quantité n'excédant pas 3 000 parties par million, calculée respectivement en acide propionique et en acide sorbique.
+			- **(A)** l’acide propionique, le propionate de calcium, le propionate de sodium ou un mélange de ces produits, en quantité n’excédant pas 2 000 parties par million, calculée en acide propionique,
+			- **(B)** l’acide sorbique, le sorbate de calcium, le sorbate de potassium, le sorbate de sodium ou un mélange de ces produits, en quantité n’excédant pas 3 000 parties par million, calculée en acide sorbique, ou
+			- **(C)** un mélange des agents de conservation visés aux dispositions (A) et (B), en quantité n’excédant pas 3 000 parties par million, calculée respectivement en acide propionique et en acide sorbique.
 
-- **(2)** Il est interdit d'utiliser un enzyme
-	- **a)** autre que la chymosine A provenant de *Escherichia coli* K-12, GE81 (pPFZ87A), la chymosine B provenant de *Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR) ou de *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS 105), la pepsine ou la présure dans la fabrication d'un produit visé au paragraphe (1);
+- **(2)** Il est interdit d’utiliser un enzyme
+	- **a)** autre que la chymosine A provenant de *Escherichia coli* K-12, GE81 (pPFZ87A), la chymosine B provenant de *Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR) ou de *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS 105), la pepsine ou la présure dans la fabrication d’un produit visé au paragraphe (1);
 	- **b)** en quantité supérieure à ce qui est conforme aux bonnes pratiques industrielles.
-> DORS/79-752, art. 2; DORS/92-197, art. 6; DORS/94-212, art. 6; DORS/95-183, art. 6.
+> DORS/79-752, art. 2; DORS/92-197, art. 6; DORS/94-212, art. 6; DORS/95-183, art. 6; DORS/2007-302, art. 4(F).
 
 
 
@@ -9474,78 +9519,78 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 
 - **(1)** **[N].** Une **préparation de fromage fondu**
 	- **a)** doit
-		- **(i)** être le produit du mélange et du malaxage, à l'aide d'une source de chaleur, d'une ou de plusieurs variétés de fromage, autre que le fromage à la crème, le fromage cottage ou le fromage de petit-lait, en vue de former une masse homogène, et
+		- **(i)** être le produit du mélange et du malaxage, à l’aide d’une source de chaleur, d’une ou de plusieurs variétés de fromage, autre que le fromage à la crème, le fromage cottage ou le fromage de petit-lait, en vue de former une masse homogène, et
 		- **(ii)** contenir
-			- **(A)** du lait ou des produits laitiers ajoutés,
+			- **(A)** du lait ou des produits du lait ajoutés,
 			- **(B)** au moins 51 pour cent de fromage,
-			- **(C)** au plus 46 pour cent d'humidité, et
+			- **(C)** au plus 46 pour cent d’humidité, et
 			- **(D)** au moins 23 pour cent de matière grasse de lait; et
 	- **b)** peut contenir
-		- **(i)** de l'eau ajoutée pour modifier la teneur en humidité,
+		- **(i)** de l’eau ajoutée pour modifier la teneur en humidité,
 		- **(ii)** de la matière grasse de lait ajoutée,
 		- **(iii)** du sel, du vinaigre et des agents édulcorants,
 		- **(iv)** les colorants suivants :
 			- **(A)** en quantité conforme aux bonnes pratiques industrielles, le rocou, le ß-carotène, la chlorophylle, le paprika, la riboflavine, le curcuma, et
-			- **(B)** en quantité n'excédant pas 35 parties par million, le ß-apo-8′-caroténal, l'ester éthylique de l'acide ß-apo-8′-caroténoïque ou d'un mélange de ces produits.
+			- **(B)** en quantité n’excédant pas 35 parties par million, le ß-apo-8′-caroténal, l’ester éthylique de l’acide ß-apo-8′-caroténoïque ou d’un mélange de ces produits.
 		- **(v)** les agents émulsifiants, gélatinisants, stabilisants et épaississants qui suivent :
-			- **(A)** en quantité n'excédant pas 0,5 pour cent, la carboxyméthylcellulose sodique (carboxyméthylcellulose, gomme de cellulose, glycolate sodique de cellulose),
-			- **(B)** le phosphate de calcium dibasique, le phosphate de potassium dibasique, le pyrophosphate acide de sodium, le phosphate d'aluminium et de sodium, l'hexamétaphosphate de sodium, le phosphate disodique, le phosphate monosodique, le phosphate trisodique, le pyrophosphate tétrasodique, le citrate de calcium, le citrate de potassium, le citrate de sodium, le tartrate double de sodium et de potassium, le tartrate de sodium, le gluconate de sodium ou un mélange de ces produits, en quantité qui, calculée en sels anhydres, ne dépasse pas 3,5 pour cent, dans le cas des sels de phosphate, et 4,0 pour cent en tout,
-			- **(C)** de la lécithine, en quantité n'excédant pas 0,2 pour cent, et
+			- **(A)** en quantité n’excédant pas 0,5 pour cent, la carboxyméthylcellulose sodique (carboxyméthylcellulose, gomme de cellulose, glycolate sodique de cellulose),
+			- **(B)** le phosphate de calcium dibasique, le phosphate de potassium dibasique, le pyrophosphate acide de sodium, le phosphate d’aluminium et de sodium, l’hexamétaphosphate de sodium, le phosphate disodique, le phosphate monosodique, le phosphate trisodique, le pyrophosphate tétrasodique, le citrate de calcium, le citrate de potassium, le citrate de sodium, le tartrate double de sodium et de potassium, le tartrate de sodium, le gluconate de sodium ou un mélange de ces produits, en quantité qui, calculée en sels anhydres, ne dépasse pas 3,5 pour cent, dans le cas des sels de phosphate, et 4,0 pour cent en tout,
+			- **(C)** de la lécithine, en quantité n’excédant pas 0,2 pour cent, et
 			- **(D)** en quantité ne dépassant pas 0,5 pour cent, des monoglycérides et des mono- et diglycérides ou un mélange de ces produits,
-		- **(v.1)** du phosphate tricalcique comme agent pour améliorer la couleur, la texture, la consistance et la tartinabilité, en quantité n'excédant pas 1 pour cent,
-		- **(vi)** en quantité conforme aux bonnes pratiques industrielles, de l'acide acétique, du carbonate de calcium, de l'acide citrique, de l'acide lactique, de l'acide malique, de l'acide phosphorique, du bicarbonate de potassium, du carbonate de potassium, du bicarbonate de sodium, du carbonate de sodium et de l'acide tartarique comme rajusteurs du pH,
+		- **(v.1)** du phosphate tricalcique comme agent pour améliorer la couleur, la texture, la consistance et la tartinabilité, en quantité n’excédant pas 1 pour cent,
+		- **(vi)** en quantité conforme aux bonnes pratiques industrielles, de l’acide acétique, du carbonate de calcium, de l’acide citrique, de l’acide lactique, de l’acide malique, de l’acide phosphorique, du bicarbonate de potassium, du carbonate de potassium, du bicarbonate de sodium, du carbonate de sodium et de l’acide tartarique comme rajusteurs du pH,
 		- **(vii)** de la fumée de bois comme agent de conservation, en quantité conforme aux bonnes pratiques industrielles, et
 		- **(viii)** les agents de conservation suivants :
-			- **(A)** l'acide propionique, la propionate de calcium, le propionate de sodium ou un mélange de ces produits, en quantité n'excédant pas 2 000 parties par million, calculée en acide propionique,
-			- **(B)** l'acide sorbique, la sorbate de calcium, le sorbate de potassium, le sorbate de sodium ou un mélange de ces produits, en quantité n'excédant pas 3 000 parties par million, calculée en acide sorbique, ou
-			- **(C)** un mélange des agents de conservation visés aux dispositions (A) et (B), en quantité n'excédant pas 3 000 parties par million, calculée respectivement en acide propionique et en acide sorbique.
+			- **(A)** l’acide propionique, la propionate de calcium, le propionate de sodium ou un mélange de ces produits, en quantité n’excédant pas 2 000 parties par million, calculée en acide propionique,
+			- **(B)** l’acide sorbique, la sorbate de calcium, le sorbate de potassium, le sorbate de sodium ou un mélange de ces produits, en quantité n’excédant pas 3 000 parties par million, calculée en acide sorbique, ou
+			- **(C)** un mélange des agents de conservation visés aux dispositions (A) et (B), en quantité n’excédant pas 3 000 parties par million, calculée respectivement en acide propionique et en acide sorbique.
 
-- **(2)** L'étiquette d'un fromage ne doit porter le terme « fumé » que si de la fumée de bois a été ajoutée au fromage conformément au paragraphe (1).
+- **(2)** L’étiquette d’un fromage ne doit porter le terme « fumé » que si de la fumée de bois a été ajoutée au fromage conformément au paragraphe (1).
 
-- **(3)** Dans les cas visés au paragraphe (2), le terme « fumé » doit paraître dans l'espace principal de l'étiquette.
-> DORS/79-752, art. 2; DORS/91-409, art. 3; DORS/92-400, art. 6.
+- **(3)** Dans les cas visés au paragraphe (2), le terme « fumé » doit paraître dans l’espace principal de l’étiquette.
+> DORS/79-752, art. 2; DORS/91-409, art. 3; DORS/92-400, art. 6; DORS/2007-302, art. 4(F).
 
 
 
 
 **B.08.041.2** 
 
-- **(1)** **[N]**. Une **préparation de fromage fondu (avec indication des ingrédients ajoutés)**
+- **(1)** **[N].** Une **préparation de fromage fondu (avec indication des ingrédients ajoutés)**
 	- **a)** doit
-		- **(i)** être le produit du mélange et du malaxage, à l'aide d'une source de chaleur, d'une ou de plusieurs variétés de fromage, autre que le fromage à la crème, le fromage cottage ou le fromage de petit-lait, en vue de former une masse homogène,
+		- **(i)** être le produit du mélange et du malaxage, à l’aide d’une source de chaleur, d’une ou de plusieurs variétés de fromage, autre que le fromage à la crème, le fromage cottage ou le fromage de petit-lait, en vue de former une masse homogène,
 		- **(ii)** contenir, en quantité suffisante pour pouvoir se distinguer de la préparation de fromage fondu, tout en conservant sa nature fondamentale, les ingrédients suivants :
 			- **(A)** des assaisonnements, des épices, des préparations aromatisantes, des condiments ou du chocolat,
 			- **(B)** des fruits, des légumes, des cornichons, des achards ou des noix,
 			- **(C)** de la viande préparée ou conservée, ou
 			- **(D)** du poisson préparé ou conservé, et
 		- **(iii)** contenir
-			- **(A)** du lait ou des produits laitiers ajoutés,
-			- **(B)** au plus 46 pour cent d'humidité, et
+			- **(A)** du lait ou des produits du lait ajoutés,
+			- **(B)** au plus 46 pour cent d’humidité, et
 			- **(C)** au moins 22 pour cent de matière grasse de lait; et
 	- **b)** peut contenir
-		- **(i)** de l'eau ajoutée pour modifier la teneur en humidité,
+		- **(i)** de l’eau ajoutée pour modifier la teneur en humidité,
 		- **(ii)** de la matière grasse de lait ajoutée,
 		- **(iii)** du sel, du vinaigre et des agents édulcorants,
 		- **(iv)** les colorants suivants :
 			- **(A)** en quantité conforme aux bonnes pratiques industrielles, le rocou, le ß-carotène, la chlorophylle, le paprika, la riboflavine, le curcuma, et
-			- **(B)** en quantité n'excédant pas 35 parties par million, le ß-apo-8′-caroténal, l'ester éthylique de l'acide ß-apo-8′-caroténoïque ou un mélange de ces produits,
+			- **(B)** en quantité n’excédant pas 35 parties par million, le ß-apo-8′-caroténal, l’ester éthylique de l’acide ß-apo-8′-caroténoïque ou un mélange de ces produits,
 		- **(v)** les agents émulsifiants, gélatinisants, stabilisants et épaississants qui suivent :
-			- **(A)** en quantité n'excédant pas 0,5 pour cent, la carboxyméthylcellulose sodique (carboxyméthylcellulose, gomme de cellulose, glycolate sodique de cellulose),
-			- **(B)** le phosphate de calcium dibasique, le phosphate de potassium dibasique, le pyrophosphate acide de sodium, le phosphate d'aluminium et de sodium, l'hexamétaphosphate de sodium, le phosphate disodique, le phosphate monosodique, le phosphate trisodique, le pyrophosphate tétrasodique, le citrate de calcium, le citrate de potassium, le citrate de sodium, le tartrate double de sodium et de potassium, le tartrate de sodium, le gluconate de sodium ou un mélange de ces produits, en quantité qui, calculée en sels anhydres, ne dépasse pas 3,5 pour cent, dans le cas des sels de phosphate, et 4,0 pour cent en tout,
-			- **(C)** de la lécithine, en quantité n'excédant pas 0,2 pour cent, et
+			- **(A)** en quantité n’excédant pas 0,5 pour cent, la carboxyméthylcellulose sodique (carboxyméthylcellulose, gomme de cellulose, glycolate sodique de cellulose),
+			- **(B)** le phosphate de calcium dibasique, le phosphate de potassium dibasique, le pyrophosphate acide de sodium, le phosphate d’aluminium et de sodium, l’hexamétaphosphate de sodium, le phosphate disodique, le phosphate monosodique, le phosphate trisodique, le pyrophosphate tétrasodique, le citrate de calcium, le citrate de potassium, le citrate de sodium, le tartrate double de sodium et de potassium, le tartrate de sodium, le gluconate de sodium ou un mélange de ces produits, en quantité qui, calculée en sels anhydres, ne dépasse pas 3,5 pour cent, dans le cas des sels de phosphate, et 4,0 pour cent en tout,
+			- **(C)** de la lécithine, en quantité n’excédant pas 0,2 pour cent, et
 			- **(D)** en quantité ne dépassant pas 0,5 pour cent, des monoglycérides et des mono- et diglycérides ou un mélange de ces produits,
-		- **(v.1)** du phosphate tricalcique comme agent pour améliorer la couleur, la texture, la consistance et la tartinabilité, en quantité n'excédant pas 1 pour cent,
-		- **(vi)** en quantité conforme aux bonnes pratiques industrielles, de l'acide acétique, du carbonate de calcium, de l'acide citrique, de l'acide lactique, de l'acide malique, de l'acide phosphorique, du bicarbonate de potassium, du carbonate de potassium, du bicarbonate de sodium, du carbonate de sodium et de l'acide tartarique comme rajusteurs du pH,
+		- **(v.1)** du phosphate tricalcique comme agent pour améliorer la couleur, la texture, la consistance et la tartinabilité, en quantité n’excédant pas 1 pour cent,
+		- **(vi)** en quantité conforme aux bonnes pratiques industrielles, de l’acide acétique, du carbonate de calcium, de l’acide citrique, de l’acide lactique, de l’acide malique, de l’acide phosphorique, du bicarbonate de potassium, du carbonate de potassium, du bicarbonate de sodium, du carbonate de sodium et de l’acide tartarique comme rajusteurs du pH,
 		- **(vii)** de la fumée de bois comme agent de conservation, en quantité conforme aux bonnes pratiques industrielles, et
 		- **(viii)** les agents de conservation suivants :
-			- **(A)** l'acide propionique, le propionate de calcium, le propionate de sodium ou un mélange de ces produits, en quantité n'excédant pas 2 000 parties par million, calculée en acide propionique,
-			- **(B)** l'acide sorbique, le sorbate de calcium, le sorbate de potassium, le sorbate de sodium ou un mélange de ces produits, en quantité n'excédant pas 3 000 parties par million, calculée en acide sorbique, ou
-			- **(C)** un mélange des agents de conservation visés aux dispositions (A) et (B), en quantité n'excédant pas 3 000 parties par million, calculée respectivement en acide propionique et en acide sorbique.
+			- **(A)** l’acide propionique, le propionate de calcium, le propionate de sodium ou un mélange de ces produits, en quantité n’excédant pas 2 000 parties par million, calculée en acide propionique,
+			- **(B)** l’acide sorbique, le sorbate de calcium, le sorbate de potassium, le sorbate de sodium ou un mélange de ces produits, en quantité n’excédant pas 3 000 parties par million, calculée en acide sorbique, ou
+			- **(C)** un mélange des agents de conservation visés aux dispositions (A) et (B), en quantité n’excédant pas 3 000 parties par million, calculée respectivement en acide propionique et en acide sorbique.
 
-- **(2)** L'étiquette d'un fromage ne doit porter le terme «fumé» que si de la fumée de bois a été ajoutée au fromage conformément au paragraphe (1).
+- **(2)** L’étiquette d’un fromage ne doit porter le terme « fumé » que si de la fumée de bois a été ajoutée au fromage conformément au paragraphe (1).
 
-- **(3)** Dans les cas visés au paragraphe (2), le terme «fumé» doit paraître dans l'espace principal de l'étiquette.
-> DORS/79-752, art. 2; DORS/91-409, art. 4; DORS/92-400, art. 7.
+- **(3)** Dans les cas visés au paragraphe (2), le terme « fumé » doit paraître dans l’espace principal de l’étiquette.
+> DORS/79-752, art. 2; DORS/91-409, art. 4; DORS/92-400, art. 7; DORS/2007-302, art. 4(F).
 
 
 
@@ -9554,36 +9599,36 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 
 - **(1)** **[N].** Le **fromage fondu à tartiner**
 	- **a)** doit
-		- **(i)** être le produit du mélange et du malaxage, à l'aide d'une source de chaleur, d'une ou de plusieurs variétés de fromage, autre que le fromage à la crème, le fromage cottage ou le fromage de petit-lait, en vue de former une masse homogène, et
+		- **(i)** être le produit du mélange et du malaxage, à l’aide d’une source de chaleur, d’une ou de plusieurs variétés de fromage, autre que le fromage à la crème, le fromage cottage ou le fromage de petit-lait, en vue de former une masse homogène, et
 		- **(ii)** contenir
-			- **(A)** du lait ou des produits laitiers ajoutés,
+			- **(A)** du lait ou des produits du lait ajoutés,
 			- **(B)** au moins 51 pour cent de fromage,
-			- **(C)** au plus 60 pour cent d'humidité, et
+			- **(C)** au plus 60 pour cent d’humidité, et
 			- **(D)** au moins 20 pour cent de matière grasse de lait; et
 	- **b)** peut contenir
-		- **(i)** de l'eau ajoutée pour modifier la teneur en humidité,
+		- **(i)** de l’eau ajoutée pour modifier la teneur en humidité,
 		- **(ii)** de la matière grasse de lait ajoutée,
 		- **(iii)** du sel, du vinaigre et des agents édulcorants,
 		- **(iv)** les colorants suivants :
 			- **(A)** en quantité conforme aux bonnes pratiques industrielles, le rocou, le ß-carotène, la chlorophylle, le paprika, la riboflavine, le curcuma, et
-			- **(B)** en quantité n'excédant pas 35 parties par million, le ß-8po-8′-caroténal, l'ester éthylique de l'acide ß-apo-8′-caroténoïque ou un mélange de ces produits,
+			- **(B)** en quantité n’excédant pas 35 parties par million, le ß-8po-8′-caroténal, l’ester éthylique de l’acide ß-apo-8′-caroténoïque ou un mélange de ces produits,
 		- **(v)** les agents émulsifiants, gélatinisants, stabilisants et épaississants qui suivent :
-			- **(A)** en quantité n'excédant pas 0,5 pour cent, la carraghénine d'ammonium, la carraghénine de calcium, la gomme de caroube (gomme de caroubier), la carraghénine, la gélatine, la gomme de guar, la gélose de mousse d'Irlande, la carraghénine de potassium, l'alginate de propylèneglycol, la carboxyméthylcellulose sodique (carboxyméthylcellulose, gomme de cellulose, glycolate sodique de cellulose), la carraghénine de sodium, la gomme adragante, la gomme xanthane ou un mélange de ces produits,
-			- **(B)** le phosphate de calcium dibasique, le phosphate de potassium dibasique, le pyrophosphate acide de sodium, le phosphate d'aluminium et de sodium, l'hexamétaphosphate de sodium, le phosphate disodique, le phosphate monosodique, le phosphate trisodique, le pyrophosphate tétrasodique, le citrate de calcium, le citrate de potassium, le citrate de sodium, le tartrate double de sodium et de potassium, le tartrate de sodium, le gluconate de sodium ou un mélange de ces produits, en quantité qui, calculée en sels anhydres, ne dépasse pas 3,5 pour cent, dans le cas des sels de phosphate, et 4,0 pour cent en tout,
-			- **(C)** de la lécithine, en quantité n'excédant pas 0,2 pour cent, et
+			- **(A)** en quantité n’excédant pas 0,5 pour cent, la carraghénine d’ammonium, la carraghénine de calcium, la gomme de caroube (gomme de caroubier), la carraghénine, la gélatine, la gomme de guar, la gélose de mousse d’Irlande, la carraghénine de potassium, l’alginate de propylèneglycol, la carboxyméthylcellulose sodique (carboxyméthylcellulose, gomme de cellulose, glycolate sodique de cellulose), la carraghénine de sodium, la gomme adragante, la gomme xanthane ou un mélange de ces produits,
+			- **(B)** le phosphate de calcium dibasique, le phosphate de potassium dibasique, le pyrophosphate acide de sodium, le phosphate d’aluminium et de sodium, l’hexamétaphosphate de sodium, le phosphate disodique, le phosphate monosodique, le phosphate trisodique, le pyrophosphate tétrasodique, le citrate de calcium, le citrate de potassium, le citrate de sodium, le tartrate double de sodium et de potassium, le tartrate de sodium, le gluconate de sodium ou un mélange de ces produits, en quantité qui, calculée en sels anhydres, ne dépasse pas 3,5 pour cent, dans le cas des sels de phosphate, et 4,0 pour cent en tout,
+			- **(C)** de la lécithine, en quantité n’excédant pas 0,2 pour cent, et
 			- **(D)** en quantité ne dépassant pas 0,5 pour cent, des monoglycérides et des mono- et diglycérides ou un mélange de ces produits,
-		- **(v.1)** du phosphate tricalcique comme agent pour améliorer la couleur, la texture, la consistance et la tartinabilité, en quantité n'excédant pas 1 pour cent,
-		- **(vi)** en quantité conforme aux bonnes pratiques industrielles, de l'acide acétique, du carbonate de calcium, de l'acide citrique, de l'acide lactique, de l'acide malique, de l'acide phosphorique, du bicarbonate de potassium, du carbonate de potassium, du bicarbonate de sodium, du carbonate de sodium et de l'acide tartarique comme rajusteurs du pH,
+		- **(v.1)** du phosphate tricalcique comme agent pour améliorer la couleur, la texture, la consistance et la tartinabilité, en quantité n’excédant pas 1 pour cent,
+		- **(vi)** en quantité conforme aux bonnes pratiques industrielles, de l’acide acétique, du carbonate de calcium, de l’acide citrique, de l’acide lactique, de l’acide malique, de l’acide phosphorique, du bicarbonate de potassium, du carbonate de potassium, du bicarbonate de sodium, du carbonate de sodium et de l’acide tartarique comme rajusteurs du pH,
 		- **(vii)** de la fumée de bois comme agent de conservation, en quantité conforme aux bonnes pratiques industrielles, et
 		- **(viii)** les agents de conservation suivants :
-			- **(A)** l'acide propionique, le propionate de calcium, le propionate de sodium ou un mélange de ces produits, en quantité n'exédant pas 2 000 parties par million, calculée en acide propionique,
-			- **(B)** l'acide sorbique, le sorbate de calcium, le sorbate de potassium, le sorbate de sodium ou un mélange de ces produits, en quantité n'excédant pas 3 000 parties par million, calculée en acide sorbique, ou
-			- **(C)** un mélange des agents de conservation visés aux dispositions (A) et (B), en quantité n'excédant pas 3 000 parties par million, calculée respectivement en acide propionique et en acide sorbique.
+			- **(A)** l’acide propionique, le propionate de calcium, le propionate de sodium ou un mélange de ces produits, en quantité n’exédant pas 2 000 parties par million, calculée en acide propionique,
+			- **(B)** l’acide sorbique, le sorbate de calcium, le sorbate de potassium, le sorbate de sodium ou un mélange de ces produits, en quantité n’excédant pas 3 000 parties par million, calculée en acide sorbique, ou
+			- **(C)** un mélange des agents de conservation visés aux dispositions (A) et (B), en quantité n’excédant pas 3 000 parties par million, calculée respectivement en acide propionique et en acide sorbique.
 
-- **(2)** L'étiquette d'un fromage ne doit porter le terme « fumé » que si de la fumée de bois a été ajoutée au fromage conformément au paragraphe (1).
+- **(2)** L’étiquette d’un fromage ne doit porter le terme « fumé » que si de la fumée de bois a été ajoutée au fromage conformément au paragraphe (1).
 
-- **(3)** Dans les cas visés au paragraphe (2), le terme « fumé » doit paraître dans l'espace principal de l'étiquette.
-> DORS/79-752, art. 2; DORS/82-1071, art. 4; DORS/91-409, art. 5.
+- **(3)** Dans les cas visés au paragraphe (2), le terme « fumé » doit paraître dans l’espace principal de l’étiquette.
+> DORS/79-752, art. 2; DORS/82-1071, art. 4; DORS/91-409, art. 5; DORS/2007-302, art. 4(F).
 
 
 
@@ -9599,7 +9644,7 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 			- **(C)** de la viande préparée ou conservée, ou
 			- **(D)** du poisson préparé ou conservé, et
 		- **(iii)** contenir
-			- **(A)** du lait ou des produits laitiers ajoutés,
+			- **(A)** du lait ou des produits du lait ajoutés,
 			- **(B)** au plus 60 pour cent d'humidité, et
 			- **(C)** au moins 20 pour cent de matière grasse de lait; et
 	- **b)** peut contenir
@@ -9625,7 +9670,7 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 - **(2)** L'étiquette d'un fromage ne doit porter le terme « fumé » que si de la fumée de bois a été ajoutée au fromage conformément au paragraphe (1).
 
 - **(3)** Dans les cas visés au paragraphe (2), le terme « fumé » doit paraître dans l'espace principal de l'étiquette.
-> DORS/79-752, art. 2; DORS/82-1071, art. 5; DORS/91-409, art. 6.
+> DORS/79-752, art. 2; DORS/82-1071, art. 5; DORS/91-409, art. 6; DORS/2007-302, art. 4(F).
 
 
 
@@ -9710,7 +9755,7 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 	- **a)** doit
 		- **(i)** être le produit du mélange et du malaxage, sans l'aide d'une source de chaleur, d'une ou de plusieurs variétés de fromage, autre que le fromage à la crème, le fromage cottage ou le fromage de petit-lait, en vue de former une masse homogène,
 		- **(ii)** contenir
-			- **(A)** du lait ou des produits laitiers ajoutés,
+			- **(A)** du lait ou des produits du lait ajoutés,
 			- **(B)** au moins 51 pour cent de fromage,
 			- **(C)** au plus 46 pour cent d'humidité, et
 			- **(D)** au moins 23 pour cent de matière grasse de lait; et
@@ -9734,7 +9779,7 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 - **(2)** L'étiquette d'un fromage ne doit porter le terme « fumé » que si de la fumée de bois a été ajoutée au fromage conformément au paragraphe (1).
 
 - **(3)** Dans les cas visés au paragraphe (2), le terme « fumé » doit paraître dans l'espace principal de l'étiquette.
-> DORS/79-752, art. 2.
+> DORS/79-752, art. 2; DORS/2007-302, art. 4(F).
 
 
 
@@ -9750,7 +9795,7 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 			- **(C)** de la viande préparée ou conservée, ou
 			- **(D)** du poisson préparé ou conservé, et
 		- **(iii)** contenir
-			- **(A)** du lait ou des produits laitiers ajoutés,
+			- **(A)** du lait ou des produits du lait ajoutés,
 			- **(B)** au plus 46 pour cent d'humidité, et
 			- **(C)** au moins 22 pour cent de matière grasse de lait; et
 	- **b)** peut contenir
@@ -9773,7 +9818,7 @@ il doit être indiqué, dans l’espace principal de l’étiquette, le pourcent
 - **(2)** L'étiquette d'un fromage ne doit porter le terme « fumé » que si de la fumée de bois a été ajoutée au fromage conformément au paragraphe (1).
 
 - **(3)** Dans les cas visés au paragraphe (2), le terme « fumé » doit paraître dans l'espace principal de l'étiquette.
-> DORS/79-752, art. 2.
+> DORS/79-752, art. 2; DORS/2007-302, art. 4(F).
 
 
 
@@ -9922,15 +9967,15 @@ par gramme, après analyse selon la méthode officielle MFO-14, « Examen micro
 #### Crème glacée
 
 
-**B.08.061** [N]. Le **mélange pour crème glacée**
-- **a)** est un mélange pasteurisé, mais non congelé, de crème, de lait ou d'autres produits laitiers, édulcoré avec du sucre, du sucre liquide, du sucre inverti, du miel, du dextrose, du glucose, du sirop de maïs, des solides du sirop de maïs ou avec un mélange de n'importe lesquels de ces édulcorants;
+**B.08.061** **[N].** Le **mélange pour crème glacée**
+- **a)** est un mélange pasteurisé, mais non congelé, de crème, de lait ou d’autres produits du lait, édulcoré avec du sucre, du sucre liquide, du sucre inverti, du miel, du dextrose, du glucose, du sirop de maïs, des solides du sirop de maïs ou avec un mélange de n’importe lesquels de ces édulcorants;
 - **b)** peut renfermer
 	- **(i)** des oeufs,
 	- **(ii)** une préparation aromatisante,
 	- **(iii)** du cacao ou du sirop de chocolat,
 	- **(iv)** un colorant pour aliments,
 	- **(v)** des rajusteurs de pH,
-	- **(vi)** de la cellulose microcristalline ou un agent stabilisateur, ou les deux, en quantité telle que la crème glacée, faite du mélange, n'en contiendra pas plus de 0,5 pour cent,
+	- **(vi)** de la cellulose microcristalline ou un agent stabilisateur, ou les deux, en quantité telle que la crème glacée, faite du mélange, n’en contiendra pas plus de 0,5 pour cent,
 	- **(vii)** un chélateur ou agent séquestrant,
 	- **(viii)** du sel,
 	- **(ix)** au plus un pour cent de caséine comestible ou de caséinates comestibles ajoutés,
@@ -9938,7 +9983,7 @@ par gramme, après analyse selon la méthode officielle MFO-14, « Examen micro
 - **c)** doit renfermer au moins
 	- **(i)** 36 pour cent de solides, et
 	- **(ii)** 10 pour cent de gras de lait ou, si du cacao ou du sirop de chocolat ont été ajoutés, huit pour cent de gras de lait.
-> DORS/92-400, art. 11; DORS/97-543, art. 2(F); DORS/2007-75, art. 2.
+> DORS/92-400, art. 11; DORS/97-543, art. 2(F); DORS/2007-75, art. 2; DORS/2007-302, art. 4(F).
 
 
 
@@ -9965,24 +10010,24 @@ déterminés selon la méthode officielle MFO-2, Examen microbiologique de la cr
 
 
 
-**B.08.063** [N]. Le **sorbet laitier**
-- **a)** doit être l'aliment congelé, autre que la crème glacée ou le lait glacé, fabriqué à partir d'un produit laitier;
+**B.08.063** **[N].** Le **sorbet laitier**
+- **a)** doit être l’aliment congelé, autre que la crème glacée ou le lait glacé, fabriqué à partir d’un produit du lait;
 - **b)** peut renfermer
-	- **(i)** de l'eau,
+	- **(i)** de l’eau,
 	- **(ii)** un agent édulcorant,
 	- **(iii)** des fruits ou jus de fruits,
-	- **(iv)** de l'acide citrique ou tartrique,
+	- **(iv)** de l’acide citrique ou tartrique,
 	- **(v)** une préparation aromatisante,
 	- **(vi)** un colorant pour aliments,
-	- **(vii)** au plus 0,75 pour cent d'agent stabilisant,
+	- **(vii)** au plus 0,75 pour cent d’agent stabilisant,
 	- **(viii)** un chélateur ou agent séquestrant,
 	- **(ix)** du lactose,
 	- **(x)** au plus, 0,5 pour cent de cellulose microcristalline,
 	- **(xi)** au plus un pour cent de caséine comestible ou de caséinates comestibles ajoutés;
 - **c)** doit renfermer
 	- **(i)** au plus cinq pour cent de solides du lait, y compris le gras de lait, et
-	- **(ii)** au moins 0,35 pour cent d'acide, déterminé par titration et exprimé en acide lactique.
-> DORS/92-400, art. 13; DORS/97-543, art. 3(F); DORS/98-580, art. 1(F).
+	- **(ii)** au moins 0,35 pour cent d’acide, déterminé par titration et exprimé en acide lactique.
+> DORS/92-400, art. 13; DORS/97-543, art. 3(F); DORS/98-580, art. 1(F); DORS/2007-302, art. 4(F).
 
 
 
@@ -9991,15 +10036,15 @@ déterminés selon la méthode officielle MFO-2, Examen microbiologique de la cr
 #### Lait glacé
 
 
-**B.08.071** [N]. Le **mélange pour lait glacé**
-- **a)** est un mélange pasteurisé, mais non congelé, de crème, de lait ou d'autres produits laitiers, édulcoré avec du sucre, du sucre liquide, du sucre inverti, du miel, du dextrose, du glucose, du sirop de maïs, des solides du sirop de maïs ou avec un mélange de n'importe lesquels de ces édulcorants;
+**B.08.071** **[N].** Le **mélange pour lait glacé**
+- **a)** est un mélange pasteurisé, mais non congelé, de crème, de lait ou d’autres produits du lait, édulcoré avec du sucre, du sucre liquide, du sucre inverti, du miel, du dextrose, du glucose, du sirop de maïs, des solides du sirop de maïs ou avec un mélange de n’importe lesquels de ces édulcorants;
 - **b)** peut renfermer
 	- **(i)** des oeufs,
 	- **(ii)** une préparation aromatisante,
 	- **(iii)** du cacao ou du sirop de chocolat,
 	- **(iv)** un colorant pour aliments,
 	- **(v)** un rajusteur de pH,
-	- **(vi)** un agent stabilisant en quantité telle que la teneur dans le lait glacé sera d'au plus 0,5 pour cent,
+	- **(vi)** un agent stabilisant en quantité telle que la teneur dans le lait glacé sera d’au plus 0,5 pour cent,
 	- **(vii)** un chélateur ou agent séquestrant,
 	- **(viii)** du lactose ajouté,
 	- **(ix)** au plus, 1,5 pour cent de cellulose microcristalline,
@@ -10008,7 +10053,7 @@ déterminés selon la méthode officielle MFO-2, Examen microbiologique de la cr
 - **c)** doit renfermer
 	- **(i)** au moins 33 pour cent de solides, et
 	- **(ii)** au moins trois pour cent et au plus cinq pour cent de gras de lait.
-> DORS/92-400, art. 14; DORS/97-543, art. 4(F).
+> DORS/92-400, art. 14; DORS/97-543, art. 4(F); DORS/2007-302, art. 4(F).
 
 
 
@@ -11414,36 +11459,36 @@ il n’est pas nécessaire de les déclarer dans la liste des ingrédients sur l
 #### Pain
 
 
-**B.13.021** [N]. Le **pain** ou **pain blanc,** doit être l'aliment fabriqué par cuisson d'une pâte à levain, préparée avec de la farine et de l'eau, et il peut renfermer
+**B.13.021** **[N].** Le **pain** ou **pain blanc,** doit être l’aliment fabriqué par cuisson d’une pâte à levain, préparée avec de la farine et de l’eau, et il peut renfermer
 - **a)** du sel;
 - **b)** du shortening, du saindoux, du beurre, ou de la margarine;
-- **c)** du lait ou un produit laitier;
-- **d)** des oeufs, du blanc d'oeuf, du jaune d'oeuf (à l'état frais, en poudre ou congelé);
+- **c)** du lait ou un produit du lait;
+- **d)** des oeufs, du blanc d’oeuf, du jaune d’oeuf (à l’état frais, en poudre ou congelé);
 - **e)** un agent édulcorant;
-- **f)** du sirop de malt, de l'extrait de malt, ou de la farine maltée;
-- **g)** de la levure sèche inactive de l'espèce *Saccharomyces cerevisiae*, en quantité d'au plus deux parties en poids par 100 parties de farine employée;
-- **h)** de l'amylase, de l'amylase maltogène, de la broméline, de la glucoamylase, de la glucose-oxydase, de la lactase, de la lipase, de la lipoxydase, de la pentosanase, de la protéase, de la pullulanase ou de la xylanase;
-- **i)** sous réserve de l'article B.13.029, un ou plusieurs des ingrédients suivants, en quantité d'au plus cinq parties en poids par 100 parties de farine employée : farine de blé complet, farine blé entier, farine Graham, farine de gluten, farine de blé, amidon de blé, farine autre que le blé ou amidon autre que le blé, chacun pouvant être entièrement ou partiellement dextrinisé;
-- **j)** d'autres parties du grain de blé;
-- **k)** de la lécithine ou un glycéride phosphorylé d'ammonium;
+- **f)** du sirop de malt, de l’extrait de malt, ou de la farine maltée;
+- **g)** de la levure sèche inactive de l’espèce *Saccharomyces cerevisiae*, en quantité d’au plus deux parties en poids par 100 parties de farine employée;
+- **h)** de l’amylase, de l’amylase maltogène, de la broméline, de la glucoamylase, de la glucose-oxydase, de la lactase, de la lipase, de la lipoxydase, de la pentosanase, de la protéase, de la pullulanase ou de la xylanase;
+- **i)** sous réserve de l’article B.13.029, un ou plusieurs des ingrédients suivants, en quantité d’au plus cinq parties en poids par 100 parties de farine employée : farine de blé complet, farine blé entier, farine Graham, farine de gluten, farine de blé, amidon de blé, farine autre que le blé ou amidon autre que le blé, chacun pouvant être entièrement ou partiellement dextrinisé;
+- **j)** d’autres parties du grain de blé;
+- **k)** de la lécithine ou un glycéride phosphorylé d’ammonium;
 - **l)** des monoglycérides et des diglycérides des acides gras qui entrent dans la composition des matières grasses;
-- **m)** du chlorure d'ammonium, du sulfate d'ammonium, du carbonate de calcium, du lactate de calcium, du phosphate diammonique, du phosphate dicalcique, du phosphate monoammonique, ou un mélange quelconque desdits, en quantité n'excédant pas, pour l'ensemble des additifs, 0,25 parties en poids par 100 parties de farine employée;
-- **n)** du phosphate monocalcique en quantité d'au plus 0,75 parties en poids par 100 parties de farine employée;
-- **o)** du peroxyde de calcium, du persulfate d'ammonium, du persulfate de potassium ou une combinaison de ces additifs, en quantité n'excédant pas, pour l'ensemble de ces additifs, 0,01 partie en poids pour 100 parties de farine employée;
-- **p)** du peroxyde d'acétone;
+- **m)** du chlorure d’ammonium, du sulfate d’ammonium, du carbonate de calcium, du lactate de calcium, du phosphate diammonique, du phosphate dicalcique, du phosphate monoammonique, ou un mélange quelconque desdits, en quantité n’excédant pas, pour l’ensemble des additifs, 0,25 parties en poids par 100 parties de farine employée;
+- **n)** du phosphate monocalcique en quantité d’au plus 0,75 parties en poids par 100 parties de farine employée;
+- **o)** du peroxyde de calcium, du persulfate d’ammonium, du persulfate de potassium ou une combinaison de ces additifs, en quantité n’excédant pas, pour l’ensemble de ces additifs, 0,01 partie en poids pour 100 parties de farine employée;
+- **p)** du peroxyde d’acétone;
 - **q)** du vinaigre;
 - **r)** un agent de conservation de la catégorie III;
 - **s)** un colorant pour aliments;
-- **t)** du stéaroyl-2-lacylate de calcium ou stéaroyl-2-lactylate de sodium en quantité d'au plus 0,375 partie, en poids, par 100 parties de farine employée;
-- **u)** du l-cystéine (chlorhydrate), en quantité d'au plus 0,009 partie en poids par 100 parties de farine employée;
-- **v)** du sulfate de calcium, en quantité d'au plus 0,5 partie en poids par 100 parties de farine employée;
-- **w)** du stéaryl-fumarate de sodium, en quantité d'au plus 0,5 partie en poids par 100 parties de farine employée;
-- **x)** de l'acide ascorbique, en quantité d'au plus 0,02 partie en poids par 100 parties de farine employée;
-- **y)** de l'acide lactique;
-- **z)** de l'azodicarbonamide en quantité d'au plus 45 parties en poids par million de parties de farine;
-- **aa)** de l'iodate de calcium, de l'iodate de potassium ou un mélange quelconque desdits, en quantité n'excédant pas, pour l'ensemble des additifs 45 parties en poids par million de parties de farine employée; et
-- **bb)** des esters tartriques des mono- et diglycérides acétylés, en une quantité n'excédant pas au poids 0,6 partie par 100 parties de farine employée.
-> DORS/78-402, art. 5; DORS/79-251, art. 2; DORS/82-383, art. 7 et 8; DORS/84-300, art. 43(A); DORS/92-63, art. 3; DORS/92-94, art. 3; DORS/94-227, art. 3; DORS/97-122, art. 3; DORS/97-558, art. 3; DORS/2003-130, art. 3.
+- **t)** du stéaroyl-2-lacylate de calcium ou stéaroyl-2-lactylate de sodium en quantité d’au plus 0,375 partie, en poids, par 100 parties de farine employée;
+- **u)** du l-cystéine (chlorhydrate), en quantité d’au plus 0,009 partie en poids par 100 parties de farine employée;
+- **v)** du sulfate de calcium, en quantité d’au plus 0,5 partie en poids par 100 parties de farine employée;
+- **w)** du stéaryl-fumarate de sodium, en quantité d’au plus 0,5 partie en poids par 100 parties de farine employée;
+- **x)** de l’acide ascorbique, en quantité d’au plus 0,02 partie en poids par 100 parties de farine employée;
+- **y)** de l’acide lactique;
+- **z)** de l’azodicarbonamide en quantité d’au plus 45 parties en poids par million de parties de farine;
+- **aa)** de l’iodate de calcium, de l’iodate de potassium ou un mélange quelconque desdits, en quantité n’excédant pas, pour l’ensemble des additifs 45 parties en poids par million de parties de farine employée; et
+- **bb)** des esters tartriques des mono- et diglycérides acétylés, en une quantité n’excédant pas au poids 0,6 partie par 100 parties de farine employée.
+> DORS/78-402, art. 5; DORS/79-251, art. 2; DORS/82-383, art. 7 et 8; DORS/84-300, art. 43(A); DORS/92-63, art. 3; DORS/92-94, art. 3; DORS/94-227, art. 3; DORS/97-122, art. 3; DORS/97-558, art. 3; DORS/2003-130, art. 3; DORS/2007-302, art. 4(F).
 
 
 
@@ -13407,7 +13452,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 
 
 
-**B.16.100** Est interdite la vente de toute substance comme additif alimentaire, à moins que ledit additif ne soit nommé à l'un ou plusieurs des tableaux ci-après :
+**B.16.100** Est interdite la vente de toute substance comme additif alimentaire, à moins que ledit additif ne soit nommé à l’un ou plusieurs des tableaux ci-après :
 #### TABLEAU I
 <table>
 <h4>ADDITIFS ALIMENTAIRES AUTORISÉS COMME AGENTS ANTI-AGGLOMÉRANTS</h4>
@@ -13425,16 +13470,16 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 <tr>
 <td>C.1</td>
-<td>Silicate double d'aluminium et de calcium</td>
+<td>Silicate double d’aluminium et de calcium</td>
 <td>(1)</td>
 <td>Sel</td>
 <td>(1)</td>
-<td>1,0 % sauf pour le sel à fins 2,0 %, conformément aux exigences de l'alinéa B.17.001(1)a).</td>
+<td>1,0 % sauf pour le sel à fins 2,0 %, conformément aux exigences de l’alinéa B.17.001(1)a).</td>
 </tr>
 <tr>
 <td></td>
 <td>(2)</td>
-<td>Sel d'ail, sel d'oignon</td>
+<td>Sel d’ail, sel d’oignon</td>
 <td>(2)</td>
 <td>2,0 % conformément aux exigences des alinéas B.07.020b) et B.07.02b) respectivement.</td>
 </tr>
@@ -13452,13 +13497,13 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(1)</td>
 <td>Sel</td>
 <td>(1)</td>
-<td>1,0 %, sauf pour le sel à grains fins, 2,0 %, conformément aux exigences de l'alinéa B.17.001(1)a).</td>
+<td>1,0 %, sauf pour le sel à grains fins, 2,0 %, conformément aux exigences de l’alinéa B.17.001(1)a).</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Sel d'ail, sel d'oignon</td>
+<td>Sel d’ail, sel d’oignon</td>
 <td>(2)</td>
 <td>2,0 % conformément aux exigences des alinéas B.07.020b) et B.07.027b) respectivement.</td>
 </tr>
@@ -13482,7 +13527,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(5)</td>
-<td>Rocou soluble dans l'huile</td>
+<td>Rocou soluble dans l’huile</td>
 <td>(5)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -13492,7 +13537,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(6)</td>
 <td>Sucre à glacer</td>
 <td>(6)</td>
-<td>Si on l'emploie seul ou avec du silicate de calcium, du carbonate de magnésium, du silicate de magnésium, du stéarate de magnésium, du dioxyde de silicium ou du silicate double d'aluminium et de sodium, le total ne doit pas dépasser 1,5 %</td>
+<td>Si on l’emploie seul ou avec du silicate de calcium, du carbonate de magnésium, du silicate de magnésium, du stéarate de magnésium, du dioxyde de silicium ou du silicate double d’aluminium et de sodium, le total ne doit pas dépasser 1,5 %</td>
 </tr>
 <tr>
 <td>C.3</td>
@@ -13500,13 +13545,13 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(1)</td>
 <td>Sel</td>
 <td>(1)</td>
-<td>1,0 %, pour le sel à grains fins, 2,0 %, conformément aux exigences de l'alinéa B.17.001(1)a).</td>
+<td>1,0 %, pour le sel à grains fins, 2,0 %, conformément aux exigences de l’alinéa B.17.001(1)a).</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Sel d'ail, sel d'oignon</td>
+<td>Sel d’ail, sel d’oignon</td>
 <td>(2)</td>
 <td>2,0 % conformément aux exigences des alinéas B.07.020b) et B.07.027b) respectivement.</td>
 </tr>
@@ -13540,7 +13585,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(6)</td>
 <td>Sucre à glacer</td>
 <td>(6)</td>
-<td>Si on l'emploie seul ou avec du phosphate tricalcique, du carbonate de magnésium, du silicate de magnésium, du stéarate de magnésium, du dioxyde de silicium ou du silicate double d'aluminium et de sodium, le total ne doit pas dépasser 1,5 %</td>
+<td>Si on l’emploie seul ou avec du phosphate tricalcique, du carbonate de magnésium, du silicate de magnésium, du stéarate de magnésium, du dioxyde de silicium ou du silicate double d’aluminium et de sodium, le total ne doit pas dépasser 1,5 %</td>
 </tr>
 <tr>
 <td></td>
@@ -13556,13 +13601,13 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(8)</td>
 <td>Fromage râpé fin ou en filaments (indication de la variété); fromage cheddar râpé fin ou en filaments; préparations de fromage râpé fin ou en filaments non normalisées</td>
 <td>(8)</td>
-<td>Si on l'emploie seul ou avec la cellulose microcrystalline ou la cellulose, la quantité totale n'excédant pas 2,0 %</td>
+<td>Si on l’emploie seul ou avec la cellulose microcrystalline ou la cellulose, la quantité totale n’excédant pas 2,0 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>(9)</td>
-<td>La poudre d'oeuf entier; la poudre de blanc d'oeuf (poudre d'albumen); la poudre de jaune d'oeuf; le mélange de poudre d'oeuf entier; le mélange de poudre de jaune d'oeuf</td>
+<td>La poudre d’oeuf entier; la poudre de blanc d’oeuf (poudre d’albumen); la poudre de jaune d’oeuf; le mélange de poudre d’oeuf entier; le mélange de poudre de jaune d’oeuf</td>
 <td>(9)</td>
 <td>2,0 %</td>
 </tr>
@@ -13572,13 +13617,13 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(1)</td>
 <td>Sel</td>
 <td>(1)</td>
-<td>1,0 %, sauf pour le sel à grains fins 2,0 %, conformément aux exigences de l'alinéa B.17.001(1)a).</td>
+<td>1,0 %, sauf pour le sel à grains fins 2,0 %, conformément aux exigences de l’alinéa B.17.001(1)a).</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Sel d'ail, sel d'oignon</td>
+<td>Sel d’ail, sel d’oignon</td>
 <td>(2)</td>
 <td>2,0 % conformément aux exigences des alinéas B.07.020b) et B.07.027b) respectivement.</td>
 </tr>
@@ -13596,7 +13641,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td>Fromage râpé fin ou en filaments (indication de la variété); fromage cheddar râpé fin ou en filaments; préparations de fromage râpé fin ou en filaments non normalisées</td>
 <td></td>
-<td>Si on l'emploie seul ou avec le silicate de calcium ou la cellulose microcristalline, la quantité totale n'excédant pas 2,0 %</td>
+<td>Si on l’emploie seul ou avec le silicate de calcium ou la cellulose microcristalline, la quantité totale n’excédant pas 2,0 %</td>
 </tr>
 <tr>
 <td>M.1</td>
@@ -13604,13 +13649,13 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(1)</td>
 <td>Sel (sauf si employé dans les préparations de viande et de sous-produits de viande du Titre 14)</td>
 <td>(1)</td>
-<td>1,0 % pour le sel à grains fins 2,0 %, conformément aux exigences de l'alinéa B.17.001(1)a).</td>
+<td>1,0 % pour le sel à grains fins 2,0 %, conformément aux exigences de l’alinéa B.17.001(1)a).</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Sel d'ail, sel d'oignon (sauf si employé dans les préparations de viande et de sous-produits de viande du Titre 14)</td>
+<td>Sel d’ail, sel d’oignon (sauf si employé dans les préparations de viande et de sous-produits de viande du Titre 14)</td>
 <td>(2)</td>
 <td>2,0 % conformément aux exigences des alinéas B.07.020b) et B.07.027b) respectivement.</td>
 </tr>
@@ -13618,7 +13663,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Mélanges secs non normalisés (sauf lorsqu'il est utilisé dans les préparations de viande et de sous-produits de la viande du Titre 14)</td>
+<td>Mélanges secs non normalisés (sauf lorsqu’il est utilisé dans les préparations de viande et de sous-produits de la viande du Titre 14)</td>
 <td>(3)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -13628,13 +13673,13 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(4)</td>
 <td>Sucre à glacer</td>
 <td>(4)</td>
-<td>Si on l'emploie seul ou avec du phosphate tricalcique, du silicate de calcium, du silicate de magnésium, du stéarate de magnésium, du dioxyde de silicium ou du silicate double d'aluminium et de sodium, le total ne doit pas dépasser 1,5 %</td>
+<td>Si on l’emploie seul ou avec du phosphate tricalcique, du silicate de calcium, du silicate de magnésium, du stéarate de magnésium, du dioxyde de silicium ou du silicate double d’aluminium et de sodium, le total ne doit pas dépasser 1,5 %</td>
 </tr>
 <tr>
 <td>M.2</td>
 <td>Oxyde de magnésium</td>
 <td></td>
-<td>Mélanges secs non normalisés (sauf lorsqu'il est utilisé dans les préparations de viande et de sous-produits de la viande du Titre 14)</td>
+<td>Mélanges secs non normalisés (sauf lorsqu’il est utilisé dans les préparations de viande et de sous-produits de la viande du Titre 14)</td>
 <td></td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -13644,13 +13689,13 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(1)</td>
 <td>Sel</td>
 <td>(1)</td>
-<td>1,0 %, sauf pour le sel à grains fins 2,0 %, conformément aux exigences de l'alinéa B.17.001(1)a).</td>
+<td>1,0 %, sauf pour le sel à grains fins 2,0 %, conformément aux exigences de l’alinéa B.17.001(1)a).</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Sel d'ail et d'oignon</td>
+<td>Sel d’ail et d’oignon</td>
 <td>(2)</td>
 <td>2,0 % conformément aux exigences des alinéas B.07.020b) et B.07.027b) respectivement.</td>
 </tr>
@@ -13668,7 +13713,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(4)</td>
 <td>Sucre à glacer</td>
 <td>(4)</td>
-<td>Si on l'emploie seul ou avec du phosphate tricalcique, du silicate de calcium, du carbonate de magnésium, du stéarate de magnésium, du dioxyde de silicium ou du silicate double d'aluminium et de sodium, le total ne doit pas dépasser 1,5 %</td>
+<td>Si on l’emploie seul ou avec du phosphate tricalcique, du silicate de calcium, du carbonate de magnésium, du stéarate de magnésium, du dioxyde de silicium ou du silicate double d’aluminium et de sodium, le total ne doit pas dépasser 1,5 %</td>
 </tr>
 <tr>
 <td>M.4</td>
@@ -13676,13 +13721,13 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(1)</td>
 <td>Sel</td>
 <td>(1)</td>
-<td>1,0 %, sauf pour le sel à grains fins 2,0 %, conformément aux exigences de l'alinéa B.17.001(1)a).</td>
+<td>1,0 %, sauf pour le sel à grains fins 2,0 %, conformément aux exigences de l’alinéa B.17.001(1)a).</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Sel d'ail, sel d'oignon</td>
+<td>Sel d’ail, sel d’oignon</td>
 <td>(2)</td>
 <td>2,0 % conformément aux exigences des alinéas B.07.020b) et B.07.027b) respectivement.</td>
 </tr>
@@ -13700,7 +13745,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(4)</td>
 <td>Sucre à glacer</td>
 <td>(4)</td>
-<td>Si on l'emploie seul ou avec du phosphate tricalcique, du silicate de calcium, du carbonate de magnésium, du silicate de magnésium, du dioxyde de silicium ou du silicate double d'aluminium et de sodium, le total ne doit pas dépasser 1,5 %</td>
+<td>Si on l’emploie seul ou avec du phosphate tricalcique, du silicate de calcium, du carbonate de magnésium, du silicate de magnésium, du dioxyde de silicium ou du silicate double d’aluminium et de sodium, le total ne doit pas dépasser 1,5 %</td>
 </tr>
 <tr>
 <td>M.5</td>
@@ -13708,7 +13753,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td>Fromage râpé fin ou en filaments (indication de la variété); fromage cheddar râpé fin ou en filaments; préparations de fromage râpé fin ou en filaments non normalisées</td>
 <td></td>
-<td>Si on l'emploie seul ou avec le silicate de calcium ou la cellulose, la quantité totale n'excédant pas 2,0 %</td>
+<td>Si on l’emploie seul ou avec le silicate de calcium ou la cellulose, la quantité totale n’excédant pas 2,0 %</td>
 </tr>
 <tr>
 <td>P.1</td>
@@ -13722,7 +13767,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>S.1</td>
 <td>Bioxyde de silicium</td>
 <td>(1)</td>
-<td>Sel d'ail; sel d'oignon</td>
+<td>Sel d’ail; sel d’oignon</td>
 <td>(1)</td>
 <td>1,0 % conformément aux exigences des alinéas B.07.020b) et B.07.027b) respectivement.</td>
 </tr>
@@ -13748,7 +13793,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(4)</td>
 <td>Sucre à glacer</td>
 <td>(4)</td>
-<td>Si on l'emploie seul ou avec du phosphate tricalcique, du silicate de calcium, du carbonate de magnésium, du silicate de magnésium, du stéarate de magnésium ou du silicate double d'aluminium et de sodium, le total ne doit pas dépasser 1,5 %.</td>
+<td>Si on l’emploie seul ou avec du phosphate tricalcique, du silicate de calcium, du carbonate de magnésium, du silicate de magnésium, du stéarate de magnésium ou du silicate double d’aluminium et de sodium, le total ne doit pas dépasser 1,5 %.</td>
 </tr>
 <tr>
 <td></td>
@@ -13772,15 +13817,15 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(7)</td>
 <td>Sel</td>
 <td>(7)</td>
-<td>1,0 % (sauf pour le sel à grains fins : 2,0 %) conformément aux exigences de l'alinéa B.17.001(1)a)</td>
+<td>1,0 % (sauf pour le sel à grains fins : 2,0 %) conformément aux exigences de l’alinéa B.17.001(1)a)</td>
 </tr>
 <tr>
 <td>S.2</td>
-<td>Silicate double d'aluminium et de sodium</td>
+<td>Silicate double d’aluminium et de sodium</td>
 <td>(1)</td>
 <td>Sel</td>
 <td>(1)</td>
-<td>1,0 %, sauf pour le sel à grains fins 2,0 %, conformément aux exigences de l'alinéa B.17.001(1)a).</td>
+<td>1,0 %, sauf pour le sel à grains fins 2,0 %, conformément aux exigences de l’alinéa B.17.001(1)a).</td>
 </tr>
 <tr>
 <td></td>
@@ -13788,13 +13833,13 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(2)</td>
 <td>Sucre à glacer</td>
 <td>(2)</td>
-<td>Si on l'emploie seul ou avec du phosphate tricalcique, du silicate de calcium, du carbonate de magnésium, du silicate de magnésium, du stéarate de magnésium ou du dioxyde de silicium, le total ne doit pas dépasser 1,5 %.</td>
+<td>Si on l’emploie seul ou avec du phosphate tricalcique, du silicate de calcium, du carbonate de magnésium, du silicate de magnésium, du stéarate de magnésium ou du dioxyde de silicium, le total ne doit pas dépasser 1,5 %.</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>La poudre d'oeuf entier; la poudre de blanc d'oeuf (poudre d'albumen); la poudre de jaune d'oeuf; le mélange de poudre d'oeuf entier, le mélange de poudre de jaune d'oeuf</td>
+<td>La poudre d’oeuf entier; la poudre de blanc d’oeuf (poudre d’albumen); la poudre de jaune d’oeuf; le mélange de poudre d’oeuf entier, le mélange de poudre de jaune d’oeuf</td>
 <td>(3)</td>
 <td>2,0 %</td>
 </tr>
@@ -13802,7 +13847,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(4)</td>
-<td>Sel d'ail, sel d'oignon</td>
+<td>Sel d’ail, sel d’oignon</td>
 <td>(4)</td>
 <td>2,0 %, conformément aux exigences des alinéas B.07.020b) et B.07.027b) respectivement.</td>
 </tr>
@@ -13845,7 +13890,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 <tr>
 <td>A.1</td>
-<td>Peroxyde d'acétone</td>
+<td>Peroxyde d’acétone</td>
 <td>(1)</td>
 <td>Farine; farine de blé entier; pain</td>
 <td>(1)</td>
@@ -13865,7 +13910,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 <tr>
 <td>A.2</td>
-<td>Persulfate d'ammonium</td>
+<td>Persulfate d’ammonium</td>
 <td>(1)</td>
 <td>Farine; farine de blé entier</td>
 <td>(1)</td>
@@ -14134,7 +14179,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>1</td>
 <td>Aluminium métallique</td>
 <td>(1)</td>
-<td>Confiture de pommes (ou de rhubarbe) et de (nom du fruit); pain; beurre; jus de fruit concentré sauf le jus d'orange concentré congelé; marmelade de figues avec pectine; mélange pour crème glacée; mélange pour lait glacé; sucre à glacer; confiture de (nom du fruit) avec pectine; gelée de (nom du fruit) avec pectine; liqueurs et cordiaux alcoolisés; lait (indication de l'arôme); marinades et achards (relish); marmelade d'ananas avec pectine; sorbet laitier; lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait écrémé (indication de l'arôme) additionné de solides du lait; lait partiellement écrémé (indication de l'arôme) additionné de solides du lait; poisson fumé; pâte de homard et oeufs de poisson (caviar); ketchup de tomates; poisson et viande emballés, marinés ou conditionnés à froid par une autre méthode analogue (Titre 21)</td>
+<td>Confiture de pommes (ou de rhubarbe) et de (nom du fruit); pain; beurre; jus de fruit concentré sauf le jus d’orange concentré congelé; marmelade de figues avec pectine; mélange pour crème glacée; mélange pour lait glacé; sucre à glacer; confiture de (nom du fruit) avec pectine; gelée de (nom du fruit) avec pectine; liqueurs et cordiaux alcoolisés; lait (indication de l’arôme); marinades et achards (relish); marmelade d’ananas avec pectine; sorbet laitier; lait écrémé (indication de l’arôme); lait partiellement écrémé (indication de l’arôme); lait écrémé (indication de l’arôme) additionné de solides du lait; lait partiellement écrémé (indication de l’arôme) additionné de solides du lait; poisson fumé; pâte de homard et oeufs de poisson (caviar); ketchup de tomates; poisson et viande emballés, marinés ou conditionnés à froid par une autre méthode analogue (Titre 21)</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -14261,7 +14306,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td>Bioxyde de titane</td>
 <td>(2)</td>
-<td>L'oeuf entier liquide ou congelé, la poudre d'oeuf entier; le jaune d'oeuf liquide ou congelé, la poudre de jaune d'oeuf</td>
+<td>L’oeuf entier liquide ou congelé, la poudre d’oeuf entier; le jaune d’oeuf liquide ou congelé, la poudre de jaune d’oeuf</td>
 <td>(2)</td>
 <td>Bonnes pratiques industrielles selon les alinéas B.22.034b) et B.22.035b)</td>
 </tr>
@@ -14291,7 +14336,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(4)</td>
 <td>Les graisses et huiles végétales</td>
 <td>(4)</td>
-<td>Bonnes pratiques industrielles selon l'article B.09.001</td>
+<td>Bonnes pratiques industrielles selon l’article B.09.001</td>
 </tr>
 <tr>
 <td></td>
@@ -14313,7 +14358,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(7)</td>
-<td>Mélange de poisson et de viande préparés visé à l'alinéa B.21.006n)</td>
+<td>Mélange de poisson et de viande préparés visé à l’alinéa B.21.006n)</td>
 <td>(7)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -14323,7 +14368,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(8)</td>
 <td>Longaniza; Tocino</td>
 <td>(8)</td>
-<td>0,1 % conformément aux exigences de l'alinéa B.14.031i) ou du sous-alinéa B.14.032d)(xvi)</td>
+<td>0,1 % conformément aux exigences de l’alinéa B.14.031i) ou du sous-alinéa B.14.032d)(xvi)</td>
 </tr>
 <tr>
 <td></td>
@@ -14339,7 +14384,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(10)</td>
 <td>Boyaux de saucisse (rocou seulement)</td>
 <td>(10)</td>
-<td>1,0 % (les résidus de rocou dans les saucisses préparées avec ces boyaux ne doivent pas dépasser 100 p.p.m.)</td>
+<td>1,0 % (les résidus de rocou dans les saucisses préparées avec ces boyaux ne doivent pas dépasser 100 p.p.m.)</td>
 </tr>
 <tr>
 <td></td>
@@ -14347,13 +14392,13 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(11)</td>
 <td>Boyaux de saucisse (cochenille seulement)</td>
 <td>(11)</td>
-<td>0,75 % (les résidus de cochenille dans les saucisses préparées avec ces boyaux ne doivent pas dépasser 75 p.p.m.)</td>
+<td>0,75 % (les résidus de cochenille dans les saucisses préparées avec ces boyaux ne doivent pas dépasser 75 p.p.m.)</td>
 </tr>
 <tr>
 <td>1A</td>
-<td>ß-apo-8′- Caroténal Ester éthylique de l'acide* ß*-apo-8′-caroténoique</td>
+<td>ß-apo-8′- Caroténal Ester éthylique de l’acide ß-apo-8′-caroténoique</td>
 <td>(1)</td>
-<td>Confiture de pommes (ou de rhubarbe) et de (nom du fruit); pain; beurre; jus de fruit concentré sauf le jus d'orange concentré congelé; marmelade de figues avec pectine; mélange pour crème glacée; mélange pour lait glacé; sucre à glacer; confiture de (nom du fruit) avec pectine; gelée de (nom du fruit) avec pectine; liqueurs et cordiaux alcooliques; margarine; lait (indication de l'arôme); marinades et achards (relish); marmelade d'ananas avec pectine; sorbet laitier; lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait écrémé (indication de l'arôme) additionné de solides du lait; lait partiellement écrémé (indication de l'arôme) additionné de solides du lait; poisson fumé; pâte de homard et oeufs de poisson (caviar); ketchup de tomates</td>
+<td>Confiture de pommes (ou de rhubarbe) et de (nom du fruit); pain; beurre; jus de fruit concentré sauf le jus d’orange concentré congelé; marmelade de figues avec pectine; mélange pour crème glacée; mélange pour lait glacé; sucre à glacer; confiture de (nom du fruit) avec pectine; gelée de (nom du fruit) avec pectine; liqueurs et cordiaux alcooliques; margarine; lait (indication de l’arôme); marinades et achards (relish); marmelade d’ananas avec pectine; sorbet laitier; lait écrémé (indication de l’arôme); lait partiellement écrémé (indication de l’arôme); lait écrémé (indication de l’arôme) additionné de solides du lait; lait partiellement écrémé (indication de l’arôme) additionné de solides du lait; poisson fumé; pâte de homard et oeufs de poisson (caviar); ketchup de tomates</td>
 <td>(1)</td>
 <td>35 p.p.m.</td>
 </tr>
@@ -14377,7 +14422,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(4)</td>
-<td>Mélange de poisson et de viande préparés visé à l'alinéa B.21.006n)</td>
+<td>Mélange de poisson et de viande préparés visé à l’alinéa B.21.006n)</td>
 <td>(4)</td>
 <td>35 p.p.m.</td>
 </tr>
@@ -14385,7 +14430,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>2</td>
 <td>Caramel</td>
 <td>(1)</td>
-<td>Ale; confiture de pommes (ou de rhubarbe) et de (nom du fruit); bière; eau-de-vie de vin; pain; pain brun; beurre; cidre; vinaigre de cidre; jus de fruit concentré sauf le jus d'orange concentré congelé; marmelade de figues avec pectine; genièvre Hollands; mélange pour crème glacée; mélange pour lait glacé; sucre à glacer; confiture de (nom du fruit) avec pectine; gelée de (nom du fruit) avec pectine; bière légère; liqueurs et cordiaux alcoolisés; liqueur de malt; vinaigre de malt; lait (indication de l'arôme); mincemeat; marinades et achards (relish); marmelade d'ananas avec pectine; porter; rhum; sorbet laitier; lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait écrémé (indication de l'arôme) additionné de solides du lait; lait partiellement écrémé (indication de l'arôme) additionné de solides du lait; poisson fumé; pâte de homard et oeufs de poisson (caviar); stout; ketchup de tomates; whisky; vin; vinaigre de vin; vin de miel</td>
+<td>Ale; confiture de pommes (ou de rhubarbe) et de (nom du fruit); bière; eau-de-vie de vin; pain; pain brun; beurre; cidre; vinaigre de cidre; jus de fruit concentré sauf le jus d’orange concentré congelé; marmelade de figues avec pectine; genièvre Hollands; mélange pour crème glacée; mélange pour lait glacé; sucre à glacer; confiture de (nom du fruit) avec pectine; gelée de (nom du fruit) avec pectine; bière légère; liqueurs et cordiaux alcoolisés; liqueur de malt; vinaigre de malt; lait (indication de l’arôme); mincemeat; marinades et achards (relish); marmelade d’ananas avec pectine; porter; rhum; sorbet laitier; lait écrémé (indication de l’arôme); lait partiellement écrémé (indication de l’arôme); lait écrémé (indication de l’arôme) additionné de solides du lait; lait partiellement écrémé (indication de l’arôme) additionné de solides du lait; poisson fumé; pâte de homard et oeufs de poisson (caviar); stout; ketchup de tomates; whisky; vin; vinaigre de vin; vin de miel</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -14401,7 +14446,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Mélange de poisson et de viande préparés visé à l'alinéa B.21.006n)</td>
+<td>Mélange de poisson et de viande préparés visé à l’alinéa B.21.006n)</td>
 <td>(3)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -14417,9 +14462,9 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>3</td>
 <td>Rouge allura</td>
 <td>(1)</td>
-<td>Confiture de pommes (ou de rhubarbe) et de (nom du fruit); pain; beurre; jus de fruit concentré sauf le jus d'orange concentré congelé; marmelade de figues avec pectine; mélange pour crème glacée; mélange pour lait glacé; sucre à glacer; confiture de (nom du fruit) avec pectine; gelée de (nom du fruit) avec pectine; liqueurs et cordiaux alcoolisés; lait (indication de l'arôme); marinades et achards (relish); marmelade d'ananas avec pectine; sorbet laitier; lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait écrémé (indication de l'arôme) additionné de solides du lait; lait partiellement écrémé (indication de l'arôme) additionné de solides du lait; poisson fumé; pâte de homard et oeufs de poisson (caviar); ketchup de tomates</td>
+<td>Confiture de pommes (ou de rhubarbe) et de (nom du fruit); pain; beurre; jus de fruit concentré sauf le jus d’orange concentré congelé; marmelade de figues avec pectine; mélange pour crème glacée; mélange pour lait glacé; sucre à glacer; confiture de (nom du fruit) avec pectine; gelée de (nom du fruit) avec pectine; liqueurs et cordiaux alcoolisés; lait (indication de l’arôme); marinades et achards (relish); marmelade d’ananas avec pectine; sorbet laitier; lait écrémé (indication de l’arôme); lait partiellement écrémé (indication de l’arôme); lait écrémé (indication de l’arôme) additionné de solides du lait; lait partiellement écrémé (indication de l’arôme) additionné de solides du lait; poisson fumé; pâte de homard et oeufs de poisson (caviar); ketchup de tomates</td>
 <td>(1)</td>
-<td>300 p.p.m., isolément ou en mélange, en conformité de l'article B.06.002</td>
+<td>300 p.p.m., isolément ou en mélange, en conformité de l’article B.06.002</td>
 </tr>
 <tr>
 <td></td>
@@ -14461,15 +14506,15 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(2)</td>
 <td>Aliments non normalisés</td>
 <td>(2)</td>
-<td>300 p.p.m., isolément ou en mélange, en conformité de l'article B.06.002</td>
+<td>300 p.p.m., isolément ou en mélange, en conformité de l’article B.06.002</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Mélange de poisson et de viande préparés visé à l'alinéa B.21.006n)</td>
+<td>Mélange de poisson et de viande préparés visé à l’alinéa B.21.006n)</td>
 <td>(3)</td>
-<td>300 p.p.m., isolément ou en mélange, en conformité avec l'article B.06.002</td>
+<td>300 p.p.m., isolément ou en mélange, en conformité avec l’article B.06.002</td>
 </tr>
 <tr>
 <td></td>
@@ -14477,7 +14522,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(4)</td>
 <td>Anchois salé, chinchard salé et crevette salée</td>
 <td>(4)</td>
-<td>125 p.p.m. conformément aux exigences de l'alinéa B.21.021d)</td>
+<td>125 p.p.m. conformément aux exigences de l’alinéa B.21.021d)</td>
 </tr>
 <tr>
 <td></td>
@@ -14507,9 +14552,9 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>4</td>
 <td>Bleu brillant FCF</td>
 <td>(1)</td>
-<td>Confiture de pommes (ou de rhubarbe) et de (nom du fruit); pain; beurre; jus de fruit concentré sauf le jus d'orange concentré congelé; marmelade de figues avec pectine; mélange pour crème glacée; mélange pour lait glacé; sucre à glacer; confiture de (nom du fruit) avec pectine; gelée de (nom du fruit) avec pectine; liqueurs et cordiaux alcoolisés; lait (indication de l'arôme); marinades et achards (relish); marmelade d'ananas avec pectine; sorbet laitier; lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait écrémé (indication de l'arôme) additionné de solides du lait; lait partiellement écrémé (indication de l'arôme) additionné de solides du lait; poisson fumé; pâte de homard et oeufs de poisson (caviar); ketchup de tomates</td>
+<td>Confiture de pommes (ou de rhubarbe) et de (nom du fruit); pain; beurre; jus de fruit concentré sauf le jus d’orange concentré congelé; marmelade de figues avec pectine; mélange pour crème glacée; mélange pour lait glacé; sucre à glacer; confiture de (nom du fruit) avec pectine; gelée de (nom du fruit) avec pectine; liqueurs et cordiaux alcoolisés; lait (indication de l’arôme); marinades et achards (relish); marmelade d’ananas avec pectine; sorbet laitier; lait écrémé (indication de l’arôme); lait partiellement écrémé (indication de l’arôme); lait écrémé (indication de l’arôme) additionné de solides du lait; lait partiellement écrémé (indication de l’arôme) additionné de solides du lait; poisson fumé; pâte de homard et oeufs de poisson (caviar); ketchup de tomates</td>
 <td>(1)</td>
-<td>100 p.p.m., isolément ou en mélange, en conformité de l'article B.06.002</td>
+<td>100 p.p.m., isolément ou en mélange, en conformité de l’article B.06.002</td>
 </tr>
 <tr>
 <td></td>
@@ -14523,15 +14568,15 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(2)</td>
 <td>Aliments non normalisés</td>
 <td>(2)</td>
-<td>100 p.p.m., isolément ou en mélange, en conformité de l'article B.06.002</td>
+<td>100 p.p.m., isolément ou en mélange, en conformité de l’article B.06.002</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Mélange de poisson et de viande préparés visé à l'alinéa B.21.006n)</td>
+<td>Mélange de poisson et de viande préparés visé à l’alinéa B.21.006n)</td>
 <td>(3)</td>
-<td>100 p.p.m., isolément ou en mélange, en conformité avec l'article B.06.002</td>
+<td>100 p.p.m., isolément ou en mélange, en conformité avec l’article B.06.002</td>
 </tr>
 <tr>
 <td></td>
@@ -14624,7 +14669,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(5)</td>
 <td>Margarine réduite en calories</td>
 <td>(5)</td>
-<td>0,5 % selon les exigences de l'article B.09.017</td>
+<td>0,5 % selon les exigences de l’article B.09.017</td>
 </tr>
 <tr>
 <td></td>
@@ -14660,7 +14705,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <tr>
 <td></td>
 <td>(3)</td>
-<td>Préparations pour nourrissons à base d'acides aminés cristallisés</td>
+<td>Préparations pour nourrissons à base d’acides aminés cristallisés</td>
 <td>(3)</td>
 <td>240 p.p.m. prête à consommer</td>
 </tr>
@@ -14668,7 +14713,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>A.4</td>
 <td>Agar-agar</td>
 <td>(1)</td>
-<td>Fromage de porc; (nom de la volaille) en conserve; crème; fromage de tête ou tête fromagée; gelée de (nom du fruit) avec pectine; liant à viande (quand il est vendu pour servir dans les viandes ou dans les sous-produits de la viande conditionnés dans lesquels un agent gélatinisant est autorisé); sous-produits de la viande en pain; pain de viande; lait (indication de l'arôme); cornichons à la moutarde; viande en pot; sous-produits de la viande en pot; poisson ou viande conditionnés (Titre 21); achards (*relish*); lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait écrémé (indication de l'arôme) additionné de solides du lait; lait partiellement écrémé (indication de l'arôme) additionné de solides du lait; fromage fondu au lait écrémé</td>
+<td>Fromage de porc; (nom de la volaille) en conserve; crème; fromage de tête ou tête fromagée; gelée de (nom du fruit) avec pectine; liant à viande (quand il est vendu pour servir dans les viandes ou dans les sous-produits de la viande conditionnés dans lesquels un agent gélatinisant est autorisé); sous-produits de la viande en pain; pain de viande; lait (indication de l’arôme); cornichons à la moutarde; viande en pot; sous-produits de la viande en pot; poisson ou viande conditionnés (Titre 21); achards (*relish*); lait écrémé (indication de l’arôme); lait partiellement écrémé (indication de l’arôme); lait écrémé (indication de l’arôme) additionné de solides du lait; lait partiellement écrémé (indication de l’arôme) additionné de solides du lait; fromage fondu au lait écrémé</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -14702,13 +14747,13 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(5)</td>
 <td>Margarine réduite en calories</td>
 <td>(5)</td>
-<td>0,5 % selon les exigences de l'article B.09.017</td>
+<td>0,5 % selon les exigences de l’article B.09.017</td>
 </tr>
 <tr>
 <td>A.5</td>
 <td>Algine</td>
 <td>(1)</td>
-<td>Ale; bière; crème; sauce vinaigrette; bière légère; liqueur de malt; lait (indication de l'arôme); cornichons à la moutarde; porter; achards (*relish*); sauce à salade; lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait écrémé (indication de l'arôme) additionné de solides du lait; lait partiellement écrémé (indication de l'arôme) additionné de solides du lait; fromage fondu au lait écrémé; stout</td>
+<td>Ale; bière; crème; sauce vinaigrette; bière légère; liqueur de malt; lait (indication de l’arôme); cornichons à la moutarde; porter; achards (*relish*); sauce à salade; lait écrémé (indication de l’arôme); lait partiellement écrémé (indication de l’arôme); lait écrémé (indication de l’arôme) additionné de solides du lait; lait partiellement écrémé (indication de l’arôme) additionné de solides du lait; fromage fondu au lait écrémé; stout</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -14718,7 +14763,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(2)</td>
 <td>Préparations pour nourrissons</td>
 <td>(2)</td>
-<td>0,03 % de la préparation pour nourrissons prête à consommer. Si l’on emploie aussi la carraghénine ou la gomme de guar, ou les deux, le total ne doit pas dépasser 0,03 %</td>
+<td>0,03 % de la préparation pour nourrissons prête à consommer. Si l’on emploie aussi la carraghénine ou la gomme de guar, ou les deux, le total ne doit pas dépasser 0,03 %</td>
 </tr>
 <tr>
 <td></td>
@@ -14750,7 +14795,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(6)</td>
 <td>Margarine réduite en calories</td>
 <td>(6)</td>
-<td>0,5 % selon les exigences de l'article B.09.017</td>
+<td>0,5 % selon les exigences de l’article B.09.017</td>
 </tr>
 <tr>
 <td></td>
@@ -14774,7 +14819,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(9)</td>
 <td>Préparations pour nourrissons à base d’acides aminés isolés ou d’hydrolysats de protéines, ou des deux</td>
 <td>(9)</td>
-<td>0,1 % de la préparation pour nourrissons prête à consommer. Si l’on emploie aussi la carraghénine ou la gomme de guar, ou les deux, le total ne doit pas dépasser 0,1 %</td>
+<td>0,1 % de la préparation pour nourrissons prête à consommer. Si l’on emploie aussi la carraghénine ou la gomme de guar, ou les deux, le total ne doit pas dépasser 0,1 %</td>
 </tr>
 <tr>
 <td></td>
@@ -14782,23 +14827,23 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(10)</td>
 <td>Préparations pour nourrissons sans lactose, à base de protéines du lait</td>
 <td>(10)</td>
-<td>0,05 % de la préparation pour nourrissons prête à consommer. Si l’on emploie aussi la carraghénine ou la gomme de guar, ou les deux, le total ne doit pas dépasser 0,05 %</td>
+<td>0,05 % de la préparation pour nourrissons prête à consommer. Si l’on emploie aussi la carraghénine ou la gomme de guar, ou les deux, le total ne doit pas dépasser 0,05 %</td>
 </tr>
 <tr>
 <td>A.6</td>
 <td>Acide alginique</td>
 <td></td>
-<td>Mêmes aliments que pour l'algine</td>
+<td>Mêmes aliments que pour l’algine</td>
 <td></td>
-<td>Mêmes limites de tolérance que pour l'algine</td>
+<td>Mêmes limites de tolérance que pour l’algine</td>
 </tr>
 <tr>
 <td>A.7</td>
-<td>Alginate d'ammonium</td>
+<td>Alginate d’ammonium</td>
 <td></td>
-<td>Mêmes aliments que pour l'algine</td>
+<td>Mêmes aliments que pour l’algine</td>
 <td></td>
-<td>Mêmes limites de tolérance que pour l'algine</td>
+<td>Mêmes limites de tolérance que pour l’algine</td>
 </tr>
 <tr>
 <td>A.8</td>
@@ -14810,7 +14855,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 <tr>
 <td>A.9</td>
-<td>Furcelleran d'ammonium</td>
+<td>Furcelleran d’ammonium</td>
 <td></td>
 <td>Mêmes aliments que pour le furcelleran</td>
 <td></td>
@@ -14818,9 +14863,9 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 <tr>
 <td>A.9A</td>
-<td>Sel d'ammonium de glycéride phosphorylé</td>
+<td>Sel d’ammonium de glycéride phosphorylé</td>
 <td>(1)</td>
-<td>Pain; crème; lait (indication de l'arôme); cornichons à la moutarde; achards (*relish*); lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait écrémé (indication de l'arôme) additionné de solides du lait; lait partiellement écrémé (indication de l'arôme) additionné de solides du lait; fromage fondu au lait écrémé</td>
+<td>Pain; crème; lait (indication de l’arôme); cornichons à la moutarde; achards (*relish*); lait écrémé (indication de l’arôme); lait partiellement écrémé (indication de l’arôme); lait écrémé (indication de l’arôme) additionné de solides du lait; lait partiellement écrémé (indication de l’arôme) additionné de solides du lait; fromage fondu au lait écrémé</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -15044,7 +15089,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>C.14</td>
 <td>Gomme de caroube</td>
 <td>(1)</td>
-<td>Crème, sauce vinaigrette; (indication de l'arôme) lait; cornichons à la moutarde; achards (relishes); sauce à salade; (indication de l'arôme) lait écrémé; (indication de l'arôme) lait partiellement écrémé; (indication de l'arôme) lait écrémé additionné de solides du lait; (indication de l'arôme) lait partiellement écrémé additionné de solides du lait; fromage fondu de lait écrémé</td>
+<td>Crème, sauce vinaigrette; (indication de l’arôme) lait; cornichons à la moutarde; achards (relishes); sauce à salade; (indication de l’arôme) lait écrémé; (indication de l’arôme) lait partiellement écrémé; (indication de l’arôme) lait écrémé additionné de solides du lait; (indication de l’arôme) lait partiellement écrémé additionné de solides du lait; fromage fondu de lait écrémé</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles.</td>
 </tr>
@@ -15062,7 +15107,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(3)</td>
 <td>Margarine hypocalorique</td>
 <td>(3)</td>
-<td>0,5 % selon les exigences de l'alinéa B.09.017b)</td>
+<td>0,5 % selon les exigences de l’alinéa B.09.017b)</td>
 </tr>
 <tr>
 <td></td>
@@ -15100,7 +15145,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>C.15</td>
 <td>Carraghénine</td>
 <td>(1)</td>
-<td>Ale; bière; fromage de porc; (nom de la volaille) en conserve; crème; sauce vinaigrette; fromage de tête ou tête fromagée; gelée à (nom du fruit) avec pectine; bière légère; liqueur de malt; liant à viande (quand il est vendu pour servir dans les viandes ou dans les sous-produits de la viande conditionnés dans lesquels un agent gélatinisant est autorisé); sous-produits de la viande en pain; pain de viande; lait (indication de l'arôme); cornichons à la moutarde; porter; viande en pot; sous-produits de la viande en pot; poisson ou viande conditionnés (Titre 21); achards (*relish*); sauce à salade; lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait écrémé (indication de l'arôme) additionné de solides de lait; lait partiellement écrémé (indication de l'arôme) additionné de solides du lait; stout</td>
+<td>Ale; bière; fromage de porc; (nom de la volaille) en conserve; crème; sauce vinaigrette; fromage de tête ou tête fromagée; gelée à (nom du fruit) avec pectine; bière légère; liqueur de malt; liant à viande (quand il est vendu pour servir dans les viandes ou dans les sous-produits de la viande conditionnés dans lesquels un agent gélatinisant est autorisé); sous-produits de la viande en pain; pain de viande; lait (indication de l’arôme); cornichons à la moutarde; porter; viande en pot; sous-produits de la viande en pot; poisson ou viande conditionnés (Titre 21); achards (*relish*); sauce à salade; lait écrémé (indication de l’arôme); lait partiellement écrémé (indication de l’arôme); lait écrémé (indication de l’arôme) additionné de solides de lait; lait partiellement écrémé (indication de l’arôme) additionné de solides du lait; stout</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -15140,9 +15185,9 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(6)</td>
-<td>Préparations pour nourrissons à base d'acides aminés isolés ou d'hydrolysats de protéines, ou les deux</td>
+<td>Préparations pour nourrissons à base d’acides aminés isolés ou d’hydrolysats de protéines, ou les deux</td>
 <td>(6)</td>
-<td>0,1 % de la préparation pour nourrissons prête à consommer. Si l'on emploie aussi l'algine ou la gomme de guar, ou les deux, le total ne doit pas dépasser 0,1 %</td>
+<td>0,1 % de la préparation pour nourrissons prête à consommer. Si l’on emploie aussi l’algine ou la gomme de guar, ou les deux, le total ne doit pas dépasser 0,1 %</td>
 </tr>
 <tr>
 <td></td>
@@ -15150,7 +15195,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(7)</td>
 <td>Préparations pour nourrissons</td>
 <td>(7)</td>
-<td>0,03 % de la préparation pour nourrissons prête à consommer. Si l'on emploie aussi l'algine ou la gomme de guar ou les deux, le total ne doit pas dépasser 0,03 %</td>
+<td>0,03 % de la préparation pour nourrissons prête à consommer. Si l’on emploie aussi l’algine ou la gomme de guar ou les deux, le total ne doit pas dépasser 0,03 %</td>
 </tr>
 <tr>
 <td></td>
@@ -15166,7 +15211,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(9)</td>
 <td>Margarine réduite en calories</td>
 <td>(9)</td>
-<td>0,5 % selon les exigences de l'article B.09.017</td>
+<td>0,5 % selon les exigences de l’article B.09.017</td>
 </tr>
 <tr>
 <td></td>
@@ -15198,7 +15243,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(13)</td>
 <td>Préparations pour nourrissons sans lactose, à base de protéines du lait</td>
 <td>(13)</td>
-<td>0,05 % de la préparation pour nourrissons prête à consommer. Si l’on emploie aussi l’algine ou la gomme de guar, ou les deux, le total ne doit pas dépasser 0,05 %</td>
+<td>0,05 % de la préparation pour nourrissons prête à consommer. Si l’on emploie aussi l’algine ou la gomme de guar, ou les deux, le total ne doit pas dépasser 0,05 %</td>
 </tr>
 <tr>
 <td>C.17</td>
@@ -15230,7 +15275,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(3)</td>
 <td>Margarine réduite en calories</td>
 <td>(3)</td>
-<td>0,5 % selon les exigences de l'article B.09.017</td>
+<td>0,5 % selon les exigences de l’article B.09.017</td>
 </tr>
 <tr>
 <td></td>
@@ -15244,7 +15289,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>G.1</td>
 <td>Gélatine</td>
 <td>(1)</td>
-<td>Fromage de porc; (nom de la volaille) en conserve; crème; fromage de tête ou tête fromagée; gelée de (nom du fruit) avec pectine; liant à viande (quand il est vendu pour servir dans les sous-produits de la viande conditionnés dans lesquels un agent gélatinisant est autorisé); sous-produits de la viande en pain; pain de viande; lait (indication de l'arôme); cornichons à la moutarde; viande en pot; sous-produits de la viande en pot; poisson ou viande conditionnés (Titre 21); jambons, épaules, soc de porc et épaules de porc genre pique-nique préparés; achards (*relish*); lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait écrémé (indication de l'arôme) additionné de solides du lait; lait partiellement écrémé (indication de l'arôme) additionné de solides du lait; fromage fondu au lait écrémé</td>
+<td>Fromage de porc; (nom de la volaille) en conserve; crème; fromage de tête ou tête fromagée; gelée de (nom du fruit) avec pectine; liant à viande (quand il est vendu pour servir dans les sous-produits de la viande conditionnés dans lesquels un agent gélatinisant est autorisé); sous-produits de la viande en pain; pain de viande; lait (indication de l’arôme); cornichons à la moutarde; viande en pot; sous-produits de la viande en pot; poisson ou viande conditionnés (Titre 21); jambons, épaules, soc de porc et épaules de porc genre pique-nique préparés; achards (*relish*); lait écrémé (indication de l’arôme); lait partiellement écrémé (indication de l’arôme); lait écrémé (indication de l’arôme) additionné de solides du lait; lait partiellement écrémé (indication de l’arôme) additionné de solides du lait; fromage fondu au lait écrémé</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -15292,17 +15337,17 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>G.2</td>
 <td>Gomme gellan</td>
 <td>(1)</td>
-<td>Produits de confiserie; produits de givrage; (sauf pour l'un de ces produits visé par une norme dans le présent règlement)</td>
+<td>Produits de confiserie; produits de givrage; (sauf pour l’un de ces produits visé par une norme dans le présent règlement)</td>
 <td>(1)</td>
-<td>0,5 %</td>
+<td>0,5 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Tartinades de fruits; aspics; produits de fruits transformés; (sauf pour l'un de ces produits visé par une norme dans le présent règlement)</td>
+<td>Tartinades de fruits; aspics; produits de fruits transformés; (sauf pour l’un de ces produits visé par une norme dans le présent règlement)</td>
 <td>(2)</td>
-<td>0,3 %</td>
+<td>0,3 %</td>
 </tr>
 <tr>
 <td></td>
@@ -15310,61 +15355,61 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(3)</td>
 <td>Margarine réduite en calories; tartinades réduites en matière grasse</td>
 <td>(3)</td>
-<td>0,25 %</td>
+<td>0,25 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>(4)</td>
-<td>Produits laitiers (sauf pour l'un de ces produits visé par une norme dans le présent règlement)</td>
+<td>Produits laitiers (sauf pour l’un de ces produits visé par une norme dans le présent règlement)</td>
 <td>(4)</td>
-<td>0,15 %</td>
+<td>0,15 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>(5)</td>
-<td>Sauce vinaigrette; sauce à salade; sauces d'assaisonnements (sauf pour l'un de ces produits visé par une norme dans le présent règlement); gélatines; poudings; garnitures</td>
+<td>Sauce vinaigrette; sauce à salade; sauces d’assaisonnements (sauf pour l’un de ces produits visé par une norme dans le présent règlement); gélatines; poudings; garnitures</td>
 <td>(5)</td>
-<td>0,1 %</td>
+<td>0,1 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>(6)</td>
-<td>Mélanges pour pâtisseries; produits de boulangerie; (sauf pour l'un de ces produits visé par une norme dans le présent règlement)</td>
+<td>Mélanges pour pâtisseries; produits de boulangerie; (sauf pour l’un de ces produits visé par une norme dans le présent règlement)</td>
 <td>(6)</td>
-<td>0,1 % du mélange sec</td>
+<td>0,1 % du mélange sec</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>(7)</td>
-<td>Sauces; glaçages; sirops de table; (sauf pour l'un de ces produits visé par une norme dans le présent règlement)</td>
+<td>Sauces; glaçages; sirops de table; (sauf pour l’un de ces produits visé par une norme dans le présent règlement)</td>
 <td>(7)</td>
-<td>0,05 %</td>
+<td>0,05 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>(8)</td>
-<td>Boissons (sauf pour l'un de ces produits visé par une norme dans le présent règlement)</td>
+<td>Boissons (sauf pour l’un de ces produits visé par une norme dans le présent règlement)</td>
 <td>(8)</td>
-<td>0,08 %</td>
+<td>0,08 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>(9)</td>
-<td>Grignotines (sauf pour l'un de ces produits visé par une norme dans le présent règlement)</td>
+<td>Grignotines (sauf pour l’un de ces produits visé par une norme dans le présent règlement)</td>
 <td>(9)</td>
-<td>0,1 %</td>
+<td>0,1 %</td>
 </tr>
 <tr>
 <td>G.3</td>
 <td>Gomme de guar</td>
 <td>(1)</td>
-<td>Crème; sauce vinaigrette; lait (indication de l'arôme); mincemeat; cornichons à la moutarde; achards (*relish*); sauce à salade; lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait écrémé (indication de l'arôme) additionné de solides du lait; lait partiellement écrémé (indication de l'arôme) additionné de solides du lait; fromage fondu au lait écrémé</td>
+<td>Crème; sauce vinaigrette; lait (indication de l’arôme); mincemeat; cornichons à la moutarde; achards (*relish*); sauce à salade; lait écrémé (indication de l’arôme); lait partiellement écrémé (indication de l’arôme); lait écrémé (indication de l’arôme) additionné de solides du lait; lait partiellement écrémé (indication de l’arôme) additionné de solides du lait; fromage fondu au lait écrémé</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -15382,7 +15427,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(3)</td>
 <td>Préparations pour nourrissons</td>
 <td>(3)</td>
-<td>0,03 % de la préparation pour nourrissons prête à consommer. Si l'on emploie aussi l'algine ou la carragénine ou les deux, le total ne doit pas dépasser 0,03 %</td>
+<td>0,03 % de la préparation pour nourrissons prête à consommer. Si l’on emploie aussi l’algine ou la carragénine ou les deux, le total ne doit pas dépasser 0,03 %</td>
 </tr>
 <tr>
 <td></td>
@@ -15406,7 +15451,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(6)</td>
 <td>Margarine réduite en calories</td>
 <td>(6)</td>
-<td>0,5 % selon les exigences de l'article B.09.017</td>
+<td>0,5 % selon les exigences de l’article B.09.017</td>
 </tr>
 <tr>
 <td></td>
@@ -15438,7 +15483,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(10)</td>
 <td>Préparations pour nourrissons à base d’acides aminés isolés ou d’hydrolysats de protéines, ou des deux</td>
 <td>(10)</td>
-<td>0,1 % de la préparation pour nourrissons prête à consommer. Si l’on emploie aussi l’algine ou la carraghénine, ou les deux, le total ne doit pas dépasser 0,1 %</td>
+<td>0,1 % de la préparation pour nourrissons prête à consommer. Si l’on emploie aussi l’algine ou la carraghénine, ou les deux, le total ne doit pas dépasser 0,1 %</td>
 </tr>
 <tr>
 <td></td>
@@ -15446,7 +15491,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(11)</td>
 <td>Préparations pour nourrissons sans lactose, à base de protéines du lait</td>
 <td>(11)</td>
-<td>0,05 % de la préparation pour nourrissons prête à consommer. Si l’on emploie aussi l’algine ou la carraghénine, ou les deux, le total ne doit pas dépasser 0,05 %</td>
+<td>0,05 % de la préparation pour nourrissons prête à consommer. Si l’on emploie aussi l’algine ou la carraghénine, ou les deux, le total ne doit pas dépasser 0,05 %</td>
 </tr>
 <tr>
 <td>G.4</td>
@@ -15484,7 +15529,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>H.2</td>
 <td>Hydroxypropyl méthylcellulose</td>
 <td>(1)</td>
-<td>Sauce vinaigrette; lait (indication de l'arôme); cornichons à la moutarde; achards (*relish*); lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait écrémé (indication de l'arôme) additionné de solides du lait; lait partiellement écrémé (indication de l'arôme) additionné de solides du lait; sauce à salade</td>
+<td>Sauce vinaigrette; lait (indication de l’arôme); cornichons à la moutarde; achards (*relish*); lait écrémé (indication de l’arôme); lait partiellement écrémé (indication de l’arôme); lait écrémé (indication de l’arôme) additionné de solides du lait; lait partiellement écrémé (indication de l’arôme) additionné de solides du lait; sauce à salade</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -15498,7 +15543,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 <tr>
 <td>I.1</td>
-<td>Gélose de mousse d'Irlande</td>
+<td>Gélose de mousse d’Irlande</td>
 <td></td>
 <td>Mêmes aliments que pour la carraghénine</td>
 <td></td>
@@ -15508,7 +15553,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>K.1</td>
 <td>Gomme sterculia (Karaya)</td>
 <td>(1)</td>
-<td>Sauce vinaigrette; lait (indication de l'arôme); cornichons à la moutarde; achards (*relish*); lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait écrémé (indication de l'arôme) additionné de solides du lait; lait partiellement écrémé (indication de l'arôme) additionné de solides du lait</td>
+<td>Sauce vinaigrette; lait (indication de l’arôme); cornichons à la moutarde; achards (*relish*); lait écrémé (indication de l’arôme); lait partiellement écrémé (indication de l’arôme); lait écrémé (indication de l’arôme) additionné de solides du lait; lait partiellement écrémé (indication de l’arôme) additionné de solides du lait</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -15542,7 +15587,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(5)</td>
 <td>Margarine réduite en calories</td>
 <td>(5)</td>
-<td>0,5 % selon les exigences de l'article B.09.017</td>
+<td>0,5 % selon les exigences de l’article B.09.017</td>
 </tr>
 <tr>
 <td>L.1</td>
@@ -15562,7 +15607,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 <tr>
 <td>L.1A</td>
-<td>Esters lactyliques d'acides gras</td>
+<td>Esters lactyliques d’acides gras</td>
 <td></td>
 <td>Aliments non normalisés</td>
 <td></td>
@@ -15572,7 +15617,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>L.2</td>
 <td>Lécithine</td>
 <td>(1)</td>
-<td>Pain; crème; lait (indication de l'arôme); cornichons à la moutarde; achards (*relish*); lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait écrémé (indication de l'arôme) additionné de solides du lait; lait partiellement écrémé (indication de l'arôme) additionné de solides du lait</td>
+<td>Pain; crème; lait (indication de l’arôme); cornichons à la moutarde; achards (*relish*); lait écrémé (indication de l’arôme); lait partiellement écrémé (indication de l’arôme); lait écrémé (indication de l’arôme) additionné de solides du lait; lait partiellement écrémé (indication de l’arôme) additionné de solides du lait</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -15582,7 +15627,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(2)</td>
 <td>Crème glacée; mélange pour crème glacée; lait glacé; mélange pour lait glacé</td>
 <td>(2)</td>
-<td>0,5 %, seul ou en combinaison avec d'autres agents émulsifiants</td>
+<td>0,5 %, seul ou en combinaison avec d’autres agents émulsifiants</td>
 </tr>
 <tr>
 <td></td>
@@ -15884,13 +15929,13 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>M.6</td>
 <td>Sels monosodiques de mono- et diglycérides phosphorylés</td>
 <td>(1)</td>
-<td>Émulsions à base d'huiles végétales comestibles servant d'enduits pour batterie de cuisine</td>
+<td>Émulsions à base d’huiles végétales comestibles servant d’enduits pour batterie de cuisine</td>
 <td>(1)</td>
-<td> 4,0 %</td>
+<td>4,0 %</td>
 </tr>
 <tr>
 <td>O.1</td>
-<td>Gomme d'avoine</td>
+<td>Gomme d’avoine</td>
 <td>(1)</td>
 <td>Aliments non normalisés</td>
 <td>(1)</td>
@@ -15900,7 +15945,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>P.1</td>
 <td>Pectine</td>
 <td>(1)</td>
-<td>Confiture de pommes (ou de rhubarbe) et de (nom du fruit); crème, marmelade de figues; marmelade de figues avec pectine; sauce vinaigrette; confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; gelée de (nom du fruit); gelée de (nom du fruit) avec pectine; marmelade de (nom de l'agrume) avec pectine; lait (indication de l'arôme); mincemeat; cornichons à la moutarde; marmelade d'ananas; marmelade d'ananas avec pectine; achards (*relish*); sauce à salade; lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait écrémé (indication de l'arôme) additionné de solides du lait; lait partiellement écrémé (indication de l'arôme) additionné de solides du lait</td>
+<td>Confiture de pommes (ou de rhubarbe) et de (nom du fruit); crème, marmelade de figues; marmelade de figues avec pectine; sauce vinaigrette; confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; gelée de (nom du fruit); gelée de (nom du fruit) avec pectine; marmelade de (nom de l’agrume) avec pectine; lait (indication de l’arôme); mincemeat; cornichons à la moutarde; marmelade d’ananas; marmelade d’ananas avec pectine; achards (*relish*); sauce à salade; lait écrémé (indication de l’arôme); lait partiellement écrémé (indication de l’arôme); lait écrémé (indication de l’arôme) additionné de solides du lait; lait partiellement écrémé (indication de l’arôme) additionné de solides du lait</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -15938,7 +15983,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 <tr>
 <td>P.1A</td>
-<td>Esters polyglycéroliques d'acides gras</td>
+<td>Esters polyglycéroliques d’acides gras</td>
 <td>(1)</td>
 <td>Aliments non normalisés</td>
 <td>(1)</td>
@@ -15954,11 +15999,11 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(3)</td>
 <td>Margarine réduite en calories</td>
 <td>(3)</td>
-<td>0,2 % conformément aux exigences de l'alinéa B.09.017c)</td>
+<td>0,2 % conformément aux exigences de l’alinéa B.09.017c)</td>
 </tr>
 <tr>
 <td>P.1B</td>
-<td>Esters polyglycériques d'acides gras d'huile de ricin transestérifiés</td>
+<td>Esters polyglycériques d’acides gras d’huile de ricin transestérifiés</td>
 <td>(1)</td>
 <td>Produits de chocolat</td>
 <td>(1)</td>
@@ -15972,7 +16017,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 <tr>
 <td>(3)</td>
-<td>Émulsions à base d'huiles végétales comestibles pour enduire les moules à cuisson</td>
+<td>Émulsions à base d’huiles végétales comestibles pour enduire les moules à cuisson</td>
 <td>(3)</td>
 <td>2,0 %</td>
 </tr>
@@ -15982,7 +16027,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(1)</td>
 <td>Crème glacée; mélange pour crème glacée; lait glacé; mélange pour lait glacé; sorbet laitier</td>
 <td>(1)</td>
-<td>0,1 %. Si l'on emploie le tristéarate polyoxyéthylénique (20) de sorbitan, le total ne doit pas dépasser 0,1 %</td>
+<td>0,1 %. Si l’on emploie le tristéarate polyoxyéthylénique (20) de sorbitan, le total ne doit pas dépasser 0,1 %</td>
 </tr>
 <tr>
 <td></td>
@@ -16006,7 +16051,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(4)</td>
 <td>Bases ou mélanges pour breuvages</td>
 <td>(4)</td>
-<td>0,05 % du breuvage. Si l'on emploie aussi le monostéarate de sorbitan, le total ne doit pas dépasser 0,05 % du breuvage</td>
+<td>0,05 % du breuvage. Si l’on emploie aussi le monostéarate de sorbitan, le total ne doit pas dépasser 0,05 % du breuvage</td>
 </tr>
 <tr>
 <td></td>
@@ -16014,15 +16059,15 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(5)</td>
 <td>Mélange imitation de crème en poudre</td>
 <td>(5)</td>
-<td>0,1 %. Si l'on emploie aussi le monostéarate polyoxyéthylénique (20) de sorbitan, le tristéarate polyoxyéthylénique (20) de sorbitan ou le monostéarate de sorbitan, seuls ou mélangés, le total ne doit pas dépasser 0,4 %</td>
+<td>0,1 %. Si l’on emploie aussi le monostéarate polyoxyéthylénique (20) de sorbitan, le tristéarate polyoxyéthylénique (20) de sorbitan ou le monostéarate de sorbitan, seuls ou mélangés, le total ne doit pas dépasser 0,4 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>(6)</td>
-<td>Garnitures fouettées à l'huile végétale</td>
+<td>Garnitures fouettées à l’huile végétale</td>
 <td>(6)</td>
-<td>0,05 %. Si l'on emploie aussi le monostéarate polyoxyéthylénique (20) de sorbitan, le tristéarate polyoxyéthylénique (20) de sorbitan ou le monostéarate de sorbitan, seuls ou mélangés, le total ne doit pas dépasser 0,4 %</td>
+<td>0,05 %. Si l’on emploie aussi le monostéarate polyoxyéthylénique (20) de sorbitan, le tristéarate polyoxyéthylénique (20) de sorbitan ou le monostéarate de sorbitan, seuls ou mélangés, le total ne doit pas dépasser 0,4 %</td>
 </tr>
 <tr>
 <td></td>
@@ -16030,7 +16075,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(7)</td>
 <td>Glaces à gâteaux; mélanges pour glaces à gâteaux</td>
 <td>(7)</td>
-<td>0,5 % de la glace à gâteau finie. Si l'on emploie aussi le monostéarate polyoxyéthylénique (20) de sorbitan ou le monostéarate de sorbitan, seuls ou mélangés, le total ne doit pas dépasser 0,5 % de la glace à gâteau finie</td>
+<td>0,5 % de la glace à gâteau finie. Si l’on emploie aussi le monostéarate polyoxyéthylénique (20) de sorbitan ou le monostéarate de sorbitan, seuls ou mélangés, le total ne doit pas dépasser 0,5 % de la glace à gâteau finie</td>
 </tr>
 <tr>
 <td></td>
@@ -16052,7 +16097,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(10)</td>
-<td>Produits purifiant l'haleine, sous forme de bonbons, de comprimés ou de gomme à mâcher</td>
+<td>Produits purifiant l’haleine, sous forme de bonbons, de comprimés ou de gomme à mâcher</td>
 <td>(10)</td>
 <td>100 p.p.m.</td>
 </tr>
@@ -16068,7 +16113,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(12)</td>
-<td>Huiles d'épice et oléorésines d'épice utilisées dans le mélange de salaison pour mariner des viandes de salaison ou des sous-produits de viande de salaison (Titre 14)</td>
+<td>Huiles d’épice et oléorésines d’épice utilisées dans le mélange de salaison pour mariner des viandes de salaison ou des sous-produits de viande de salaison (Titre 14)</td>
 <td>(12)</td>
 <td>0,2 % de la marinade</td>
 </tr>
@@ -16118,7 +16163,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(18)</td>
 <td>Arômes de fumée liquide concentrés</td>
 <td>(18)</td>
-<td>Bonne pratiques industrielles. Les résidus de polysorbate 80 ne peuvent dépasser 0,3 % dans le produit fini.</td>
+<td>Bonne pratiques industrielles. Les résidus de polysorbate 80 ne peuvent dépasser 0,3 % dans le produit fini.</td>
 </tr>
 <tr>
 <td></td>
@@ -16132,9 +16177,9 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>P.3</td>
 <td>Monostéarate polyoxyéthylénique (20) de sorbitan Polysorbate 60</td>
 <td>(1)</td>
-<td>Mélange imitation de crème en poudre; agents de crémage à l'huile végétale; garnitures fouettées à l'huile végétale; mélange pour garnitures à l'huile végétale</td>
+<td>Mélange imitation de crème en poudre; agents de crémage à l’huile végétale; garnitures fouettées à l’huile végétale; mélange pour garnitures à l’huile végétale</td>
 <td>(1)</td>
-<td>0,4 %. Si l'on emploie aussi le tristéarate polyoxyéthylénique (20) de sorbitan, le monostéarate de sorbitan, ou le mono-oléate polyoxyéthylénique (20) de sorbitan, soit séparément, soit ensemble, le total ne doit pas dépasser 0,4 %, sauf que, dans les garnitures fouettées renfermant de l'huile végétale, on peut employer une combinaison de polysorbate (60) et de monostéarate de sorbitan de plus de 0,4 %, si la proportion de polysorbate (60) ne dépasse pas 0,77 % et celle du monostéarate de sorbitan ne dépasse pas 0,27 % de la garniture fouettée renfermant de l'huile végétale</td>
+<td>0,4 %. Si l’on emploie aussi le tristéarate polyoxyéthylénique (20) de sorbitan, le monostéarate de sorbitan, ou le mono-oléate polyoxyéthylénique (20) de sorbitan, soit séparément, soit ensemble, le total ne doit pas dépasser 0,4 %, sauf que, dans les garnitures fouettées renfermant de l’huile végétale, on peut employer une combinaison de polysorbate (60) et de monostéarate de sorbitan de plus de 0,4 %, si la proportion de polysorbate (60) ne dépasse pas 0,77 % et celle du monostéarate de sorbitan ne dépasse pas 0,27 % de la garniture fouettée renfermant de l’huile végétale</td>
 </tr>
 <tr>
 <td></td>
@@ -16142,7 +16187,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(2)</td>
 <td>Gâteaux</td>
 <td>(2)</td>
-<td>0,5 % du poids à l'état sec. Si l'on emploie aussi le tristéarate polyoxyéthylénique (20) de sorbitan, le total ne doit pas dépasser 0,5 % du poids sec</td>
+<td>0,5 % du poids à l’état sec. Si l’on emploie aussi le tristéarate polyoxyéthylénique (20) de sorbitan, le total ne doit pas dépasser 0,5 % du poids sec</td>
 </tr>
 <tr>
 <td></td>
@@ -16150,7 +16195,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(3)</td>
 <td>Gâteaux; mélanges à gâteaux</td>
 <td>(3)</td>
-<td>0,5 % du poids à l'état sec. Si l'on emploie aussi le monostéarate de sorbitan, le total ne doit pas dépasser 0,7 % du poids à l'état sec</td>
+<td>0,5 % du poids à l’état sec. Si l’on emploie aussi le monostéarate de sorbitan, le total ne doit pas dépasser 0,7 % du poids à l’état sec</td>
 </tr>
 <tr>
 <td></td>
@@ -16158,7 +16203,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(4)</td>
 <td>Enrobages non normalisés pour produits de confiserie et produits de confiserie moulés non normalisés utilisés comme confiserie ou pour la cuisson.</td>
 <td>(4)</td>
-<td>0,5 %. Si l'on emploie aussi un mélange de l'un quelconque des ingrédients suivants : tristéarate polyoxyéthymique [polyoxyéthylénique] (20) de sorbitan, monostéarate de sorbitan ou tristéarate de sorbitan, le total ne doit pas dépasser 1,0 %</td>
+<td>0,5 %. Si l’on emploie aussi un mélange de l’un quelconque des ingrédients suivants : tristéarate polyoxyéthymique [polyoxyéthylénique] (20) de sorbitan, monostéarate de sorbitan ou tristéarate de sorbitan, le total ne doit pas dépasser 1,0 %</td>
 </tr>
 <tr>
 <td></td>
@@ -16166,7 +16211,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(5)</td>
 <td>Glaces à gâteaux; mélange pour glaces à gâteaux</td>
 <td>(5)</td>
-<td>0,5 % de la glace à gâteau finie. Si l'on emploie aussi le monostéarate de sorbitan ou le mono-oléate polyoxyéthylénique (20) de sorbitan, seuls ou mélangés, le total ne doit pas dépasser 0,5 % de la glace à gâteau finie</td>
+<td>0,5 % de la glace à gâteau finie. Si l’on emploie aussi le monostéarate de sorbitan ou le mono-oléate polyoxyéthylénique (20) de sorbitan, seuls ou mélangés, le total ne doit pas dépasser 0,5 % de la glace à gâteau finie</td>
 </tr>
 <tr>
 <td></td>
@@ -16174,7 +16219,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(6)</td>
 <td>Poudings; garnitures à tarte</td>
 <td>(6)</td>
-<td>0,5 % du poids à l'état sec</td>
+<td>0,5 % du poids à l’état sec</td>
 </tr>
 <tr>
 <td></td>
@@ -16182,7 +16227,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(7)</td>
 <td>Bases ou mélanges pour breuvages</td>
 <td>(7)</td>
-<td>0,05 % du breuvage. Si l'on emploie aussi le monostéarate de sorbitan, le total ne doit pas dépasser 0,05 % du breuvage</td>
+<td>0,05 % du breuvage. Si l’on emploie aussi le monostéarate de sorbitan, le total ne doit pas dépasser 0,05 % du breuvage</td>
 </tr>
 <tr>
 <td></td>
@@ -16204,7 +16249,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(10)</td>
-<td>Base de matière grasse pour l'auto-arrosage de la volaille par injection</td>
+<td>Base de matière grasse pour l’auto-arrosage de la volaille par injection</td>
 <td>(10)</td>
 <td>0,25 %</td>
 </tr>
@@ -16228,7 +16273,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(13)</td>
-<td>Mélange sec de pâte à frire d'enrobage</td>
+<td>Mélange sec de pâte à frire d’enrobage</td>
 <td>(13)</td>
 <td>0,5 % du mélange sec</td>
 </tr>
@@ -16244,7 +16289,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>P.4</td>
 <td>Polyoxyéthylène (20) Tristéarate de sorbitan; Polysorbate 65</td>
 <td>(1)</td>
-<td>Lait (indication de l'arôme); lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait écrémé (indication de l'arôme) additionné de solides du lait; lait partiellement écrémé (indication de l'arôme) additionné de solides du lait</td>
+<td>Lait (indication de l’arôme); lait écrémé (indication de l’arôme); lait partiellement écrémé (indication de l’arôme); lait écrémé (indication de l’arôme) additionné de solides du lait; lait partiellement écrémé (indication de l’arôme) additionné de solides du lait</td>
 <td>(1)</td>
 <td>0,5 %</td>
 </tr>
@@ -16254,7 +16299,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(2)</td>
 <td>Crème glacée; mélange pour crème glacée; lait glacé; mélange pour lait glacé; sorbet laitier</td>
 <td>(2)</td>
-<td>0,1 %. Si l'on emploie aussi le mono-oléate polyoxyéthylénique (20) de sorbitan, le total ne doit pas dépasser 0,1 %</td>
+<td>0,1 %. Si l’on emploie aussi le mono-oléate polyoxyéthylénique (20) de sorbitan, le total ne doit pas dépasser 0,1 %</td>
 </tr>
 <tr>
 <td></td>
@@ -16270,7 +16315,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(4)</td>
 <td>Gâteaux</td>
 <td>(4)</td>
-<td>0,3 % du poids à l'état sec. Si l'on emploie aussi le monostéarate polyoxyéthylénique (20) de sorbitan, le total ne doit pas dépasser 0,5 % du poids sec</td>
+<td>0,3 % du poids à l’état sec. Si l’on emploie aussi le monostéarate polyoxyéthylénique (20) de sorbitan, le total ne doit pas dépasser 0,5 % du poids sec</td>
 </tr>
 <tr>
 <td></td>
@@ -16278,7 +16323,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(5)</td>
 <td>Couvertures à bonbons non normalisés</td>
 <td>(5)</td>
-<td>0,5 %. Si l'on emploie aussi un mélange de l'un quelconque des ingrédients suivants : monostéarate polyoxyéthylénique (20) de sorbitan, monostéarate de sorbitan ou tristéarate de sorbitan, le total ne doit pas dépasser 1,0 %</td>
+<td>0,5 %. Si l’on emploie aussi un mélange de l’un quelconque des ingrédients suivants : monostéarate polyoxyéthylénique (20) de sorbitan, monostéarate de sorbitan ou tristéarate de sorbitan, le total ne doit pas dépasser 1,0 %</td>
 </tr>
 <tr>
 <td></td>
@@ -16286,21 +16331,21 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(6)</td>
 <td>Bases ou mélanges pour breuvages</td>
 <td>(6)</td>
-<td>0,05 % du breuvage. Si l'on emploie aussi le monostéarate de sorbitan, le total ne doit pas dépasser 0,05 % du breuvage</td>
+<td>0,05 % du breuvage. Si l’on emploie aussi le monostéarate de sorbitan, le total ne doit pas dépasser 0,05 % du breuvage</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>(7)</td>
-<td>Mélange imitation de crème en poudre; agents de crémage à l'huile végétale; garnitures fouettées à l'huile végétale; mélange pour garniture à l'huile végétale</td>
+<td>Mélange imitation de crème en poudre; agents de crémage à l’huile végétale; garnitures fouettées à l’huile végétale; mélange pour garniture à l’huile végétale</td>
 <td>(7)</td>
-<td>0,4 %. Si l'on emploie aussi le monostéarate polyoxyéthylénique (20) de sorbitan, le monostéarate de sorbitan ou le mono-oléate polyoxyéthylénique (20) de sorbitan, seuls ou mélangés, le total ne doit pas dépasser 0,4 %</td>
+<td>0,4 %. Si l’on emploie aussi le monostéarate polyoxyéthylénique (20) de sorbitan, le monostéarate de sorbitan ou le mono-oléate polyoxyéthylénique (20) de sorbitan, seuls ou mélangés, le total ne doit pas dépasser 0,4 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>(8)</td>
-<td>Produits purifiant l'haleine, sous forme de bonbons, de comprimés et de gomme à mâcher</td>
+<td>Produits purifiant l’haleine, sous forme de bonbons, de comprimés et de gomme à mâcher</td>
 <td>(8)</td>
 <td>200 p.p.m.</td>
 </tr>
@@ -16318,7 +16363,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td>Mêmes aliments que pour l’algine</td>
 <td></td>
-<td>Mêmes limites de tolérance que pour l'algine</td>
+<td>Mêmes limites de tolérance que pour l’algine</td>
 </tr>
 <tr>
 <td>P.7</td>
@@ -16398,7 +16443,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(5)</td>
 <td>Margarine réduite en calories</td>
 <td>(5)</td>
-<td>0,5 % selon les exigences de l'article B.09.017</td>
+<td>0,5 % selon les exigences de l’article B.09.017</td>
 </tr>
 <tr>
 <td></td>
@@ -16460,9 +16505,9 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>S.2</td>
 <td>Alginate de sodium</td>
 <td>(1)</td>
-<td>Mêmes aliments que pour l'algine</td>
+<td>Mêmes aliments que pour l’algine</td>
 <td>(1)</td>
-<td>Mêmes limites de tolérance que pour l'algine</td>
+<td>Mêmes limites de tolérance que pour l’algine</td>
 </tr>
 <tr>
 <td></td>
@@ -16482,7 +16527,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 <tr>
 <td>S.2A</td>
-<td>Phosphate double d'aluminium et de sodium</td>
+<td>Phosphate double d’aluminium et de sodium</td>
 <td>(1)</td>
 <td>Fromage à la crème à tartiner; fromage à la crème à tartiner avec (indication des ingrédients ajoutés); fromage fondu (indication de la variété); fromage fondu (indication de la variété) (avec indication des ingrédients ajoutés); préparation de fromage fondu; préparation de fromage fondu (avec indication des ingrédients ajoutés); fromage fondu à tartiner; fromage fondu à tartiner (avec indication des ingrédients ajoutés)</td>
 <td>(1)</td>
@@ -16492,7 +16537,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>S.3</td>
 <td>Carboxyméthylcellulose sodique</td>
 <td>(1)</td>
-<td>Crème; sauce vinaigrette; lait (indication de l'arôme); cornichons à la moutarde; achards (*relish*); sauce à salade; lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait écrémé (indication de l'arôme) additionné de solides du lait; lait partiellement écrémé (indication de l'arôme) additionné de solides du lait; fromage fondu au lait écrémé</td>
+<td>Crème; sauce vinaigrette; lait (indication de l’arôme); cornichons à la moutarde; achards (*relish*); sauce à salade; lait écrémé (indication de l’arôme); lait partiellement écrémé (indication de l’arôme); lait écrémé (indication de l’arôme) additionné de solides du lait; lait partiellement écrémé (indication de l’arôme) additionné de solides du lait; fromage fondu au lait écrémé</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -16574,7 +16619,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(2)</td>
 <td>Lait évaporé; lait écrémé évaporé ou lait écrémé concentré; lait évaporé partiellement écrémé ou lait concentré partiellement écrémé</td>
 <td>(2)</td>
-<td>0,1 % seul ou associé à du phosphate disodique</td>
+<td>0,1 % seul ou associé à du phosphate disodique</td>
 </tr>
 <tr>
 <td></td>
@@ -16582,7 +16627,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(3)</td>
 <td>Crème glacée; mélange pour crème glacée; lait glacé; mélange pour lait glacé</td>
 <td>(3)</td>
-<td>0,5 %</td>
+<td>0,5 %</td>
 </tr>
 <tr>
 <td></td>
@@ -16660,7 +16705,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(7)</td>
-<td>Mélange de poisson et de viande préparés visé à l'alinéa B.21.006n)</td>
+<td>Mélange de poisson et de viande préparés visé à l’alinéa B.21.006n)</td>
 <td>(7)</td>
 <td>0,1 %</td>
 </tr>
@@ -16668,7 +16713,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>S.11</td>
 <td>Phosphate disodique</td>
 <td>(1)</td>
-<td>Lait (indication de l'arôme); cornichons à la moutarde; achards (*relish*); lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait écrémé (indication de l'arôme) additionné de solides du lait; lait partiellement écrémé (indication de l'arôme) additionné de solides du lait; fromage fondu au lait écrémé</td>
+<td>Lait (indication de l’arôme); cornichons à la moutarde; achards (*relish*); lait écrémé (indication de l’arôme); lait partiellement écrémé (indication de l’arôme); lait écrémé (indication de l’arôme) additionné de solides du lait; lait partiellement écrémé (indication de l’arôme) additionné de solides du lait; fromage fondu au lait écrémé</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -16780,7 +16825,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Mélange de poisson et de viande préparés visé à l'alinéa B.21.006n)</td>
+<td>Mélange de poisson et de viande préparés visé à l’alinéa B.21.006n)</td>
 <td>(3)</td>
 <td>0,1 %</td>
 </tr>
@@ -16820,7 +16865,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(5)</td>
-<td>Agents de crémage à l'huile végétale</td>
+<td>Agents de crémage à l’huile végétale</td>
 <td>(5)</td>
 <td>2,0 % du poids des ingrédients secs</td>
 </tr>
@@ -16846,7 +16891,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(8)</td>
 <td>Sauce à salade; sauce vinaigrette</td>
 <td>(8)</td>
-<td>0,4 % du produit fini</td>
+<td>0,4 % du produit fini</td>
 </tr>
 <tr>
 <td></td>
@@ -16854,7 +16899,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(9)</td>
 <td>Soupes</td>
 <td>(9)</td>
-<td>0,2 % du produit fini</td>
+<td>0,2 % du produit fini</td>
 </tr>
 <tr>
 <td>S.16</td>
@@ -16868,7 +16913,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>S.16A</td>
 <td>Tripolyphosphate de sodium</td>
 <td></td>
-<td>Mélange de poisson et de viande préparés visé à l'alinéa B.21.006n)</td>
+<td>Mélange de poisson et de viande préparés visé à l’alinéa B.21.006n)</td>
 <td></td>
 <td>0,1 %</td>
 </tr>
@@ -16876,9 +16921,9 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>S.18</td>
 <td>Monostéarate de sorbitan</td>
 <td>(1)</td>
-<td>Mélange imitation de crème en poudre; agents de crémage à l'huile végétale; garnitures fouettées à l'huile végétale; mélange pour garnitures à l'huile végétale</td>
+<td>Mélange imitation de crème en poudre; agents de crémage à l’huile végétale; garnitures fouettées à l’huile végétale; mélange pour garnitures à l’huile végétale</td>
 <td>(1)</td>
-<td>0,4 %. Si l'on emploie aussi le tristéarate polyoxyéthylénique (20) de sorbitan, le polysorbate (60) ou le mono-oléate polyoxyéthylénique (20) de sorbitan, soit séparément, soit ensemble, le total ne doit pas dépasser 0,4 %, sauf que, dans les garnitures fouettées renfermant de l'huile végétale, on peut employer une combinaison de monostéarate de sorbitan et de polysorbate (60) de plus de 0,4 %, si la proportion de monostéarate de sorbitan ne dépasse pas 0,27 % et celle du polysorbate (60) ne dépasse pas 0,77 % du poids de la garniture fouettée renfermant de l'huile végétale</td>
+<td>0,4 %. Si l’on emploie aussi le tristéarate polyoxyéthylénique (20) de sorbitan, le polysorbate (60) ou le mono-oléate polyoxyéthylénique (20) de sorbitan, soit séparément, soit ensemble, le total ne doit pas dépasser 0,4 %, sauf que, dans les garnitures fouettées renfermant de l’huile végétale, on peut employer une combinaison de monostéarate de sorbitan et de polysorbate (60) de plus de 0,4 %, si la proportion de monostéarate de sorbitan ne dépasse pas 0,27 % et celle du polysorbate (60) ne dépasse pas 0,77 % du poids de la garniture fouettée renfermant de l’huile végétale</td>
 </tr>
 <tr>
 <td></td>
@@ -16886,7 +16931,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(2)</td>
 <td>Gâteaux; mélanges à gâteaux</td>
 <td>(2)</td>
-<td>0,6 % du poids à l'état sec. Si l'on emploie aussi le monostéarate polyoxyéthylénique (20) de sorbitan le total ne doit pas dépasser 0,7 % du poids à l'état sec</td>
+<td>0,6 % du poids à l’état sec. Si l’on emploie aussi le monostéarate polyoxyéthylénique (20) de sorbitan le total ne doit pas dépasser 0,7 % du poids à l’état sec</td>
 </tr>
 <tr>
 <td></td>
@@ -16894,7 +16939,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(3)</td>
 <td>Enrobages non normalisés pour produits de confiserie et produits de confiserie moulés non normalisés utilisés comme confiserie ou pour la cuisson.</td>
 <td>(3)</td>
-<td>1,0 %. Si l'on emploie aussi un mélange de l'un quelconque des ingrédients suivants : monostéarate polyoxyéthylénique (20) de sorbitan, tristéarate polyoxyéthylénique (20) de sorbitan ou tristéarate de sorbitan, le total ne doit pas dépasser 1,0 %</td>
+<td>1,0 %. Si l’on emploie aussi un mélange de l’un quelconque des ingrédients suivants : monostéarate polyoxyéthylénique (20) de sorbitan, tristéarate polyoxyéthylénique (20) de sorbitan ou tristéarate de sorbitan, le total ne doit pas dépasser 1,0 %</td>
 </tr>
 <tr>
 <td></td>
@@ -16902,7 +16947,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(4)</td>
 <td>Glaces à gâteaux; mélanges pour glaces à gâteaux</td>
 <td>(4)</td>
-<td>0,5 % de la glace à gâteau finie. Si l'on emploie aussi le mono-oléate polyoxyéthylénique (20) de sorbitan ou le monostéarate polyoxyéthylénique (20) de sorbitan, seuls ou mélangés, le total ne doit pas dépasser 0,5 % de la glace à gâteau finie</td>
+<td>0,5 % de la glace à gâteau finie. Si l’on emploie aussi le mono-oléate polyoxyéthylénique (20) de sorbitan ou le monostéarate polyoxyéthylénique (20) de sorbitan, seuls ou mélangés, le total ne doit pas dépasser 0,5 % de la glace à gâteau finie</td>
 </tr>
 <tr>
 <td></td>
@@ -16910,7 +16955,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(5)</td>
 <td>Bases ou mélanges pour breuvages</td>
 <td>(5)</td>
-<td>0,05 % dans le breuvage. Si l'on emploie aussi le mono-oléate polyoxyéthylénique (20) de sorbitan, le total ne doit pas dépasser 0,05 % dans le breuvage. Si l'on emploie aussi le monostéarate polyoxyéthylénique (20) de sorbitan, le total ne doit pas dépasser 0,05 % dans le breuvage</td>
+<td>0,05 % dans le breuvage. Si l’on emploie aussi le mono-oléate polyoxyéthylénique (20) de sorbitan, le total ne doit pas dépasser 0,05 % dans le breuvage. Si l’on emploie aussi le monostéarate polyoxyéthylénique (20) de sorbitan, le total ne doit pas dépasser 0,05 % dans le breuvage</td>
 </tr>
 <tr>
 <td></td>
@@ -16966,7 +17011,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(2)</td>
 <td>Enrobages non normalisés pour produits de confiserie et produits de confiserie moulés non normalisés utilisés comme confiserie ou pour la cuisson.</td>
 <td>(2)</td>
-<td>1 %, si l'on emploie aussi un mélange de n'importe quel des ingrédients suivants : monostéarate polyoxyéthylénique (20) de sorbitan, tristéarate polyoxyéthylénique (20) de sorbitan ou monostéarate de sorbitan, le total ne doit pas dépasser 1 %</td>
+<td>1 %, si l’on emploie aussi un mélange de n’importe quel des ingrédients suivants : monostéarate polyoxyéthylénique (20) de sorbitan, tristéarate polyoxyéthylénique (20) de sorbitan ou monostéarate de sorbitan, le total ne doit pas dépasser 1 %</td>
 </tr>
 <tr>
 <td></td>
@@ -16994,7 +17039,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 <tr>
 <td>S.20</td>
-<td>Esters saccharosiques d'acides gras</td>
+<td>Esters saccharosiques d’acides gras</td>
 <td></td>
 <td>Préparations colorantes de caroténoïdes</td>
 <td></td>
@@ -17050,7 +17095,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(6)</td>
 <td>Margarine réduite en calories</td>
 <td>(6)</td>
-<td>0,5 % selon les exigences de l'article B.09.017</td>
+<td>0,5 % selon les exigences de l’article B.09.017</td>
 </tr>
 <tr>
 <td></td>
@@ -17082,7 +17127,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(2)</td>
 <td>Fromage cottage; fromage cottage en crème</td>
 <td>(2)</td>
-<td>0,5 %. Si l'on emploie aussi d'autres stabilisants, le total ne doit pas dépasser 0,5 %</td>
+<td>0,5 %. Si l’on emploie aussi d’autres stabilisants, le total ne doit pas dépasser 0,5 %</td>
 </tr>
 <tr>
 <td></td>
@@ -17090,7 +17135,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(3)</td>
 <td>Margarine réduite en calories</td>
 <td>(3)</td>
-<td>0,5 % selon les exigences de l'article B.09.017</td>
+<td>0,5 % selon les exigences de l’article B.09.017</td>
 </tr>
 <tr>
 <td></td>
@@ -17114,7 +17159,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(6)</td>
 <td>Mélange pour crème glacée</td>
 <td>(6)</td>
-<td>0,1 %. Si l'on emploie aussi de la cellulose mycrocristalline et d'autres stabilisants, le total ne doit pas dépasser 0,5 %</td>
+<td>0,1 %. Si l’on emploie aussi de la cellulose mycrocristalline et d’autres stabilisants, le total ne doit pas dépasser 0,5 %</td>
 </tr>
 <tr>
 <td></td>
@@ -17122,7 +17167,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(7)</td>
 <td>Mélange pour lait glacé</td>
 <td>(7)</td>
-<td>0,1 %. Si l'on emploi aussi d'autres stabilisants, le total ne doit pas dépasser 0,5 %</td>
+<td>0,1 %. Si l’on emploi aussi d’autres stabilisants, le total ne doit pas dépasser 0,5 %</td>
 </tr>
 <tr>
 <td></td>
@@ -17130,7 +17175,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(8)</td>
 <td>Sorbet laitier</td>
 <td>(8)</td>
-<td>0,1 %. Si l'on emploie aussi d'autres stabilisants, le total ne doit pas dépasser 0,75 %</td>
+<td>0,1 %. Si l’on emploie aussi d’autres stabilisants, le total ne doit pas dépasser 0,75 %</td>
 </tr>
 <tr>
 <td></td>
@@ -17204,14 +17249,14 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Protéines hydrolysées d'origine animale, végétale ou provenant du lait</td>
+<td>Protéines hydrolysées d’origine animale, végétale ou provenant du lait</td>
 <td>(3)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>A.1</td>
 <td>Amylase</td>
-<td>*Aspergillus niger* var.; *Aspergillus oryzae* var.; *Bacillus subtilis* var.; *Rhizopus oryzae* var.; Malt d'orge</td>
+<td>*Aspergillus niger* var.; *Aspergillus oryzae* var.; *Bacillus subtilis* var.; *Rhizopus oryzae* var.; Malt d’orge</td>
 <td>(1)</td>
 <td>Ale; bière; bière légère; liqueur de malt; porter; stout</td>
 <td>(1)</td>
@@ -17505,7 +17550,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(4)</td>
-<td>Protéine hydrolysée d'origine animale, végétale ou provenant du lait</td>
+<td>Protéine hydrolysée d’origine animale, végétale ou provenant du lait</td>
 <td>(4)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -17534,7 +17579,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(7)</td>
 <td>Marinade employée dans la salaison de parties de boeuf</td>
 <td>(7)</td>
-<td>Bonnes pratiques industrielles selon l'alinéa B.14.009g)</td>
+<td>Bonnes pratiques industrielles selon l’alinéa B.14.009g)</td>
 </tr>
 <tr>
 <td></td>
@@ -17558,7 +17603,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Albumen d'oeuf</td>
+<td>Albumen d’oeuf</td>
 <td>(2)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -17567,7 +17612,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Petit-lait liquide traité au peroxyde d'hydrogène, conformément à l'article H.1, du tableau VIII</td>
+<td>Petit-lait liquide traité au peroxyde d’hydrogène, conformément à l’article H.1, du tableau VIII</td>
 <td>(3)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -17593,7 +17638,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Extraits d'épices; préparations aromatisantes naturelles et colorants</td>
+<td>Extraits d’épices; préparations aromatisantes naturelles et colorants</td>
 <td>(3)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -17686,7 +17731,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Protéine hydrolysée d'origine animale, végétale ou provenant du lait</td>
+<td>Protéine hydrolysée d’origine animale, végétale ou provenant du lait</td>
 <td>(3)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -17715,7 +17760,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(6)</td>
 <td>Marinade employée dans la salaison de parties de boeuf</td>
 <td>(6)</td>
-<td>Bonnes pratiques industrielles selon l'alinéa B.14.009g)</td>
+<td>Bonnes pratiques industrielles selon l’alinéa B.14.009g)</td>
 </tr>
 <tr>
 <td>G.1</td>
@@ -17934,7 +17979,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>L'oeuf entier liquide; le blanc d'oeuf (albumen) et le jaune d'oeuf liquide destiné au séchage</td>
+<td>L’oeuf entier liquide; le blanc d’oeuf (albumen) et le jaune d’oeuf liquide destiné au séchage</td>
 <td>(2)</td>
 <td>Bonnes pratiques industrielles selon les alinéas B.22.034b), B.22.035b) et B.22.036b)</td>
 </tr>
@@ -18051,7 +18096,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(4)</td>
-<td>Lait (indication de l'arôme); lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait malté (indication de l'arôme); lait écrémé additionné de solides du lait (indication de l'arôme); lait partiellement écrémé additionné de solides du lait (indication de l'arôme);</td>
+<td>Lait (indication de l’arôme); lait écrémé (indication de l’arôme); lait partiellement écrémé (indication de l’arôme); lait malté (indication de l’arôme); lait écrémé additionné de solides du lait (indication de l’arôme); lait partiellement écrémé additionné de solides du lait (indication de l’arôme);</td>
 <td>(4)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -18086,7 +18131,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(4)</td>
-<td>Lait (indication de l'arôme); lait écrémé (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); lait malté (indication de l'arôme); lait écrémé additionné de solides du lait (indication de l'arôme); lait partiellement écrémé additionné de solides du lait (indication de l'arôme)</td>
+<td>Lait (indication de l’arôme); lait écrémé (indication de l’arôme); lait partiellement écrémé (indication de l’arôme); lait malté (indication de l’arôme); lait écrémé additionné de solides du lait (indication de l’arôme); lait partiellement écrémé additionné de solides du lait (indication de l’arôme)</td>
 <td>(4)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -18103,7 +18148,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Blanc d'oeuf liquide et séché (albumen liquide et séché)</td>
+<td>Blanc d’oeuf liquide et séché (albumen liquide et séché)</td>
 <td>(2)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -18138,7 +18183,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(6)</td>
-<td>Protéines hydrolysées d'origine animale, végétale ou provenant du lait</td>
+<td>Protéines hydrolysées d’origine animale, végétale ou provenant du lait</td>
 <td>(6)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -18171,7 +18216,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(4)</td>
-<td>Protéines hydrolysées d'origine animale, végétale ou provenant du lait</td>
+<td>Protéines hydrolysées d’origine animale, végétale ou provenant du lait</td>
 <td>(4)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -18196,7 +18241,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <tr>
 <td>L.4</td>
 <td>Lysozyme</td>
-<td>Blanc d'oeuf</td>
+<td>Blanc d’oeuf</td>
 <td></td>
 <td>Fromage</td>
 <td></td>
@@ -18223,7 +18268,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Protéines hydrolysées d'origine animale, végétale ou provenant du lait</td>
+<td>Protéines hydrolysées d’origine animale, végétale ou provenant du lait</td>
 <td>(3)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -18276,7 +18321,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>Pancréatine</td>
 <td>Pancréas de porc (*Sus scrofa*) ou de boeuf (*Bos taurus*)</td>
 <td>(1)</td>
-<td>Blanc d'oeuf liquide et poudre de blanc d'oeuf (albumen liquide et poudre d'albumen)</td>
+<td>Blanc d’oeuf liquide et poudre de blanc d’oeuf (albumen liquide et poudre d’albumen)</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -18302,7 +18347,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(4)</td>
-<td>Protéines hydrolysées d'origine animale ou végétale ou provenant du lait</td>
+<td>Protéines hydrolysées d’origine animale ou végétale ou provenant du lait</td>
 <td>(4)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -18319,7 +18364,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Boeuf avant l'abattage</td>
+<td>Boeuf avant l’abattage</td>
 <td>(2)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -18337,7 +18382,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(4)</td>
-<td>Protéine hydrolysée d'origine animale, végétale ou provenant du lait</td>
+<td>Protéine hydrolysée d’origine animale, végétale ou provenant du lait</td>
 <td>(4)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -18425,7 +18470,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(5)</td>
-<td>Pelures d'agrumes destinées à la fabrication de confiture, de marmelade et de fruits confits</td>
+<td>Pelures d’agrumes destinées à la fabrication de confiture, de marmelade et de fruits confits</td>
 <td>(5)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -18556,7 +18601,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <tr>
 <td>P.5</td>
 <td>Pepsine</td>
-<td>Muqueuse glandulaire de l'estomac de porc</td>
+<td>Muqueuse glandulaire de l’estomac de porc</td>
 <td>(1)</td>
 <td>Ale; bière; bière légère; liqueur de malt; porter; stout</td>
 <td>(1)</td>
@@ -18567,7 +18612,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Fromage; fromage cottage; fromage en crème; fromage en crème avec (nom de l'ingrédient ajouté); fromage en crème à tartiner; fromage en crème à tartiner avec (nom de l'ingrédient ajouté)</td>
+<td>Fromage; fromage cottage; fromage en crème; fromage en crème avec (nom de l’ingrédient ajouté); fromage en crème à tartiner; fromage en crème à tartiner avec (nom de l’ingrédient ajouté)</td>
 <td>(2)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -18594,7 +18639,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(5)</td>
-<td>Protéines hydrolysées d'origine animale ou végétale ou provenant du lait</td>
+<td>Protéines hydrolysées d’origine animale ou végétale ou provenant du lait</td>
 <td>(5)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -18646,7 +18691,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(6)</td>
-<td>Protéines hydrolysées d'origine animale, végétale, ou provenant du lait</td>
+<td>Protéines hydrolysées d’origine animale, végétale, ou provenant du lait</td>
 <td>(6)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -18718,7 +18763,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td>*Bacillus licheniformis* (Cx)</td>
 <td>(1)</td>
-<td>Protéines hydrolysées d'origine animale, végétale ou provenant du lait</td>
+<td>Protéines hydrolysées d’origine animale, végétale ou provenant du lait</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -18786,7 +18831,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <tr>
 <td></td>
 <td></td>
-<td>*Bacillus subtilis *B1-163 (pEB301)</td>
+<td>*Bacillus subtilis* B1-163 (pEB301)</td>
 <td>(1)</td>
 <td>Farine; farine de blé entier; pain</td>
 <td>(1)</td>
@@ -18830,7 +18875,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <tr>
 <td>R.1</td>
 <td>Présure</td>
-<td>Extrait aqueux du 4<sup>e</sup> (véritable) estomac de veaux, de chevreaux ou d'agneaux</td>
+<td>Extrait aqueux du 4<sup>e</sup> (véritable) estomac de veaux, de chevreaux ou d’agneaux</td>
 <td>(1)</td>
 <td>Fromage; fromage cottage; fromage à la crème; fromage à la crème avec (nom des ingrédients ajoutés); fromage à la crème à tartiner; fromage à la crème à tartiner avec (nom des ingrédients ajoutés); crème sure</td>
 <td>(1)</td>
@@ -18912,14 +18957,14 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>Trypsine</td>
 <td>Pancreas de porc (*Sus scrofa*)</td>
 <td>(1)</td>
-<td>Protéines hydrolysées d'origine animale ou végétale ou provenant du lait</td>
+<td>Protéines hydrolysées d’origine animale ou végétale ou provenant du lait</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
 <td>X.1</td>
 <td>Xylanase</td>
-<td>*Aspergillus oryzae * Fa 1-1 (pA2X1TI)</td>
+<td>*Aspergillus oryzae* Fa 1-1 (pA2X1TI)</td>
 <td></td>
 <td>Farine; farine de blé entier; pain</td>
 <td></td>
@@ -18948,7 +18993,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 <tr>
 <td>A.1</td>
-<td>Sulfate d'aluminium</td>
+<td>Sulfate d’aluminium</td>
 <td>(1)</td>
 <td>Crabe; homard; saumon; crevettes et thon en conserve; cornichons et achards (*relish*)</td>
 <td>(1)</td>
@@ -18972,7 +19017,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 <tr>
 <td></td>
-<td>d'aluminium et d'ammonium</td>
+<td>d’aluminium et d’ammonium</td>
 <td>(2)</td>
 <td>Aliments non normalisés</td>
 <td>(2)</td>
@@ -18999,7 +19044,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(3)</td>
 <td>Fromage (indication de la variété); fromage cheddar</td>
 <td>(3)</td>
-<td>0,02 % du lait et des produits laitiers utilisés</td>
+<td>0,02 % du lait et des produits du lait utilisés</td>
 </tr>
 <tr>
 <td></td>
@@ -19147,7 +19192,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 <tr>
 <td>P.1</td>
-<td>Sulfate double d'aluminium et de potassium</td>
+<td>Sulfate double d’aluminium et de potassium</td>
 <td>(1)</td>
 <td>Cornichons et achards (*relish*)</td>
 <td>(1)</td>
@@ -19162,7 +19207,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 <tr>
 <td>S.1</td>
-<td>Sulfate double d'aluminium et de sodium</td>
+<td>Sulfate double d’aluminium et de sodium</td>
 <td>(1)</td>
 <td>Cornichons et achards (*relish*)</td>
 <td>(1)</td>
@@ -19177,7 +19222,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 </table>
 
-> DORS/78-402, art. 7; DORS/79-660, art. 11 et 12; DORS/79-752, art. 7; DORS/93-445, art. 1; DORS/94-689, art. 2(F)..
+> DORS/78-402, art. 7; DORS/79-660, art. 11 et 12; DORS/79-752, art. 7; DORS/93-445, art. 1; DORS/94-689, art. 2(F); DORS/2007-302, art. 4(F)..
 
 
 
@@ -19213,7 +19258,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 <tr>
 <td>B.1</td>
-<td>Cire d'abeilles</td>
+<td>Cire d’abeilles</td>
 <td></td>
 <td>Bonbons et autres produits de confiserie</td>
 <td></td>
@@ -19319,7 +19364,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <th>Article</th>
 <th>Additifs</th>
 <th>Permis dans ou sur</th>
-<th>But de l'emploi</th>
+<th>But de l’emploi</th>
 <th>Limites de tolérance</th>
 </tr>
 <tr>
@@ -19354,17 +19399,17 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 <tr>
 <td>A.1.1</td>
-<td>Sulphate d'aluminium</td>
+<td>Sulphate d’aluminium</td>
 <td></td>
-<td>L'oeuf entier liquide ou congelé, le blanc d'oeuf (albumen) ou le jaune d'oeuf</td>
+<td>L’oeuf entier liquide ou congelé, le blanc d’oeuf (albumen) ou le jaune d’oeuf</td>
 <td></td>
-<td>Pour stabiliser l'albumen durant la pasteurisation</td>
+<td>Pour stabiliser l’albumen durant la pasteurisation</td>
 <td></td>
 <td>0,036 %</td>
 </tr>
 <tr>
 <td>A.2</td>
-<td>Persulfate d'ammoniaque</td>
+<td>Persulfate d’ammoniaque</td>
 <td></td>
 <td>Levure de bière</td>
 <td></td>
@@ -19373,7 +19418,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>0,1 %</td>
 </tr>
 <tr>
-<td>A.3  </td>
+<td>A.3</td>
 <td>[Abrogé, DORS/93-276, art. 4]</td>
 </tr>
 <tr>
@@ -19382,7 +19427,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 <tr>
 <td>B.2</td>
-<td>Cire d'abeilles</td>
+<td>Cire d’abeilles</td>
 <td></td>
 <td>Aliments non normalisés</td>
 <td></td>
@@ -19404,17 +19449,17 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>B.3</td>
 <td>Huile végétale bromée</td>
 <td></td>
-<td>Arôme de (nom de l'arôme) pour utilisation dans les boissons à arôme d'agrumes ou d'épinette</td>
+<td>Arôme de (nom de l’arôme) pour utilisation dans les boissons à arôme d’agrumes ou d’épinette</td>
 <td></td>
 <td>Agent modificateur de la densité</td>
 <td></td>
-<td>15 p.p.m. dans les boissons à arôme d'agrumes ou d'épinette sous leur forme consommable</td>
+<td>15 p.p.m. dans les boissons à arôme d’agrumes ou d’épinette sous leur forme consommable</td>
 </tr>
 <tr>
 <td>B.4</td>
 <td>n-Butane</td>
 <td></td>
-<td>Enduits aux casseroles, à base d'huile végétale comestible, de lécithine ou d'un mélange des deux</td>
+<td>Enduits aux casseroles, à base d’huile végétale comestible, de lécithine ou d’un mélange des deux</td>
 <td></td>
 <td>Agent de propulsion</td>
 <td></td>
@@ -19453,7 +19498,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <tr>
 <td></td>
 <td></td>
-<td>(2) </td>
+<td>(2)</td>
 <td>[Abrogé, DORS/94-227, art. 5]</td>
 </tr>
 <tr>
@@ -19490,7 +19535,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>C.3A</td>
 <td>Lactate de calcium</td>
 <td>(1)</td>
-<td>Albumine de l'oeuf (délysozymisée)</td>
+<td>Albumine de l’oeuf (délysozymisée)</td>
 <td>(1)</td>
 <td>Restauration des propriétés fonctionnelles</td>
 <td>(1)</td>
@@ -19500,7 +19545,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Mélange de poisson et de viande préparés visé à l'alinéa B.21.006n)</td>
+<td>Mélange de poisson et de viande préparés visé à l’alinéa B.21.006n)</td>
 <td>(2)</td>
 <td>Modifier la texture</td>
 <td>(2)</td>
@@ -19512,15 +19557,15 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(1)</td>
 <td>Crustacés et mollusques congelés</td>
 <td>(1)</td>
-<td> Faciliter l'enlèvement des matières étrangères et réduire la déperdition d'humidité pendant la cuisson</td>
+<td>Faciliter l’enlèvement des matières étrangères et réduire la déperdition d’humidité pendant la cuisson</td>
 <td>(1)</td>
-<td>Lorsque employé en combinaison avec le chlorure de sodium (sel) et l'hydroxyde de sodium en solution, l'oxyde de calcium ne doit pas dépasser 30 p.p.m.</td>
+<td>Lorsque employé en combinaison avec le chlorure de sodium (sel) et l’hydroxyde de sodium en solution, l’oxyde de calcium ne doit pas dépasser 30 p.p.m.</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Mélange de poisson et de viande préparés visés à l'alinéa B.21.006n)</td>
+<td>Mélange de poisson et de viande préparés visés à l’alinéa B.21.006n)</td>
 <td>(2)</td>
 <td>Modifier la texture</td>
 <td>(2)</td>
@@ -19582,7 +19627,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>C.7</td>
 <td>Silicate de calcium</td>
 <td></td>
-<td>Rocou soluble dans l'huile</td>
+<td>Rocou soluble dans l’huile</td>
 <td></td>
 <td>Véhicule</td>
 <td></td>
@@ -19602,7 +19647,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>C.9</td>
 <td>Stéaroyl-2- lactylate de calcium</td>
 <td>(1)</td>
-<td>Blancs d'oeufs à l'état liquide et à l'état congelé</td>
+<td>Blancs d’oeufs à l’état liquide et à l’état congelé</td>
 <td>(1)</td>
 <td>Faire monter en neige</td>
 <td>(1)</td>
@@ -19612,7 +19657,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Blancs d'oeufs en poudre</td>
+<td>Blancs d’oeufs en poudre</td>
 <td>(2)</td>
 <td>Faire monter en neige</td>
 <td>(2)</td>
@@ -19636,7 +19681,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(4)</td>
 <td>Agent de conditionnement</td>
 <td>(4)</td>
-<td>0,2 % du poids à l'état sec</td>
+<td>0,2 % du poids à l’état sec</td>
 </tr>
 <tr>
 <td>C.10</td>
@@ -19737,7 +19782,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(4)</td>
-<td>Garniture fouettée à l'huile végétale</td>
+<td>Garniture fouettée à l’huile végétale</td>
 <td>(4)</td>
 <td>Agent épaississant</td>
 <td>(4)</td>
@@ -19781,13 +19826,13 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(8)</td>
 <td>Agent épaississant</td>
 <td>(8)</td>
-<td>0,5 % ou, s'il est utilisé en association avec des agents stabilisateurs, la quantité totale ne doit pas dépasser 0,5 % de la crème glacée</td>
+<td>0,5 % ou, s’il est utilisé en association avec des agents stabilisateurs, la quantité totale ne doit pas dépasser 0,5 % de la crème glacée</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>(9)</td>
-<td>Édulcorant de table sous forme de comprimés, contenant de l'aspartame</td>
+<td>Édulcorant de table sous forme de comprimés, contenant de l’aspartame</td>
 <td>(9)</td>
 <td>Désagrégation des comprimés</td>
 <td>(9)</td>
@@ -19898,7 +19943,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td>Aliments non normalisés</td>
 <td></td>
-<td>Agent pulseur et agent d'aération</td>
+<td>Agent pulseur et agent d’aération</td>
 <td></td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -19926,7 +19971,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>C.16</td>
 <td>Gluconate de cuivre</td>
 <td></td>
-<td>Produits purifiant l'haleine, sous forme de bonbons, de comprimés et de gomme à mâcher</td>
+<td>Produits purifiant l’haleine, sous forme de bonbons, de comprimés et de gomme à mâcher</td>
 <td></td>
 <td>Caractéristique du produit</td>
 <td></td>
@@ -19946,7 +19991,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>D.1</td>
 <td>Formules à base de diméthyl-polysiloxane</td>
 <td>(1)</td>
-<td>Confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; confiture de pommes (ou de rhubarbe) et de (nom du fruit); gelée de (nom du fruit); gelée de (nom du fruit) avec pectine; huiles et graisses; jus de citron reconstitué; jus de lime reconstitué; lait écrémé en poudre; marmelade d'ananas; marmelade d'ananas avec pectine; marmelade de (nom de l'agrume); marmelade de (nom de l'agrume) avec pectine; marmelade de figues; marmelade de figues avec pectine; *shortening*; vin</td>
+<td>Confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; confiture de pommes (ou de rhubarbe) et de (nom du fruit); gelée de (nom du fruit); gelée de (nom du fruit) avec pectine; huiles et graisses; jus de citron reconstitué; jus de lime reconstitué; lait écrémé en poudre; marmelade d’ananas; marmelade d’ananas avec pectine; marmelade de (nom de l’agrume); marmelade de (nom de l’agrume) avec pectine; marmelade de figues; marmelade de figues avec pectine; *shortening*; vin</td>
 <td>(1)</td>
 <td>Agent antimousse</td>
 <td>(1)</td>
@@ -19956,7 +20001,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Jus d'ananas; Mélanges de jus d'ananas avec d'autres jus de fruits; ananas en conserve (lorsque le jus d'ananas est utilisé comme véhicule de conditionnement)</td>
+<td>Jus d’ananas; Mélanges de jus d’ananas avec d’autres jus de fruits; ananas en conserve (lorsque le jus d’ananas est utilisé comme véhicule de conditionnement)</td>
 <td>(2)</td>
 <td>Agent anti-mousse</td>
 <td>(2)</td>
@@ -19970,7 +20015,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(3)</td>
 <td>Agent anticollant</td>
 <td>(3)</td>
-<td>Bonnes pratiques industrielles. (Les résidus de diméthylpolysiloxane dans l'aliment ne doivent pas excéder 10 p.p.m.)</td>
+<td>Bonnes pratiques industrielles. (Les résidus de diméthylpolysiloxane dans l’aliment ne doivent pas excéder 10 p.p.m.)</td>
 </tr>
 <tr>
 <td></td>
@@ -19986,7 +20031,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(5)</td>
-<td>Moût utilisé dans la fabrication d'ale, de bière, de bière légère, de liqueur de malt, de porter et de stout</td>
+<td>Moût utilisé dans la fabrication d’ale, de bière, de bière légère, de liqueur de malt, de porter et de stout</td>
 <td>(5)</td>
 <td>Agent antimousse</td>
 <td>(5)</td>
@@ -19996,7 +20041,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>D.3</td>
 <td>Dioctyl sulfo-succinate sodique</td>
 <td>(1)</td>
-<td>Bases sèches de boissons, acidulées à l'acide fumarique</td>
+<td>Bases sèches de boissons, acidulées à l’acide fumarique</td>
 <td>(1)</td>
 <td>Agent humidifiant</td>
 <td>(1)</td>
@@ -20023,13 +20068,13 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 <tr>
 <td>E.2</td>
-<td>Oxyde d'éthylène</td>
+<td>Oxyde d’éthylène</td>
 <td></td>
 <td>Épices entières ou moulues (sauf les mélanges contenant du sel)</td>
 <td></td>
 <td>Fumigation</td>
 <td></td>
-<td>Bonnes pratiques industrielles (résidus d'éthylène chlorophydrine n'excédant pas 1 500 p.p.m.)</td>
+<td>Bonnes pratiques industrielles (résidus d’éthylène chlorophydrine n’excédant pas 1 500 p.p.m.)</td>
 </tr>
 <tr>
 <td>F.1</td>
@@ -20052,7 +20097,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>Bonnes pratiques industrielles</td>
 </tr>
 <tr>
-<td>G.2 </td>
+<td>G.2</td>
 <td>[Abrogé, DORS/89-175, art. 2]</td>
 </tr>
 <tr>
@@ -20109,7 +20154,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>G.4</td>
 <td>Ester glycérique de la colophane</td>
 <td></td>
-<td>Boissons à arôme d'agrumes ou d'épinette</td>
+<td>Boissons à arôme d’agrumes ou d’épinette</td>
 <td></td>
 <td>Agent modificateur de la densité</td>
 <td></td>
@@ -20117,7 +20162,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 <tr>
 <td>H.1</td>
-<td>Peroxyde d'hydrogène</td>
+<td>Peroxyde d’hydrogène</td>
 <td>(1)</td>
 <td>Moût de bière</td>
 <td>(1)</td>
@@ -20139,7 +20184,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>I</td>
 <td>Isobutane</td>
 <td></td>
-<td>Enduits pour casseroles à base d'huile végétale comestible, de lécithine ou d'un mélange des deux</td>
+<td>Enduits pour casseroles à base d’huile végétale comestible, de lécithine ou d’un mélange des deux</td>
 <td></td>
 <td>Agent de propulsion</td>
 <td></td>
@@ -20147,7 +20192,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 <tr>
 <td>L.1</td>
-<td>Esters lactyliques d'acides gras</td>
+<td>Esters lactyliques d’acides gras</td>
 <td></td>
 <td>Aliments non normalisés</td>
 <td></td>
@@ -20179,7 +20224,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>L.4</td>
 <td>L-Leucine</td>
 <td></td>
-<td>Édulcorant de table contenant de l'aspartame et présenté sous forme de comprimé</td>
+<td>Édulcorant de table contenant de l’aspartame et présenté sous forme de comprimé</td>
 <td></td>
 <td>Lubrifiant utilisé dans la fabrication des comprimés</td>
 <td></td>
@@ -20187,7 +20232,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 <tr>
 <td>M.1</td>
-<td>Silicate d'aluminium et de magnésium</td>
+<td>Silicate d’aluminium et de magnésium</td>
 <td></td>
 <td>Gomme à mâcher</td>
 <td></td>
@@ -20225,7 +20270,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>M.2A</td>
 <td>Chlorure de magnésium</td>
 <td></td>
-<td>Albumine de l'oeuf (délysozymisée)</td>
+<td>Albumine de l’oeuf (délysozymisée)</td>
 <td></td>
 <td>Restauration des propriétés fonctionnelles</td>
 <td></td>
@@ -20285,7 +20330,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>M.4A</td>
 <td>Sulfate de magnésium</td>
 <td></td>
-<td>Albumine de l'oeuf (délysozymisée)</td>
+<td>Albumine de l’oeuf (délysozymisée)</td>
 <td></td>
 <td>Restauration des propriétés fonctionnelles</td>
 <td></td>
@@ -20301,7 +20346,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td>Aliments non normalisés</td>
 <td></td>
-<td>Agent d'aération</td>
+<td>Agent d’aération</td>
 <td></td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -20309,11 +20354,11 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>M.6</td>
 <td>Cellulose micro-cristalline</td>
 <td></td>
-<td>Mêmes aliments qu'à C.13 du présent tableau</td>
+<td>Mêmes aliments qu’à C.13 du présent tableau</td>
 <td></td>
 <td>Agent de remplissage</td>
 <td></td>
-<td>Mêmes limites de tolérance qu'à C.13 du présent tableau</td>
+<td>Mêmes limites de tolérance qu’à C.13 du présent tableau</td>
 </tr>
 <tr>
 <td>M.7</td>
@@ -20323,7 +20368,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(1)</td>
 <td>Agent anticollant</td>
 <td>(1)</td>
-<td>0,3 %, conformément à l'article B.01.047. Si la vaseline est également utilisée dans les produits de boulangerie, comme agent anticollant, la quantité totale de toute combinaison de vaseline et d'huile minérale ne doit pas dépasser 0,15 %</td>
+<td>0,3 %, conformément à l’article B.01.047. Si la vaseline est également utilisée dans les produits de boulangerie, comme agent anticollant, la quantité totale de toute combinaison de vaseline et d’huile minérale ne doit pas dépasser 0,15 %</td>
 </tr>
 <tr>
 <td></td>
@@ -20333,7 +20378,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(2)</td>
 <td>Badigeonner</td>
 <td>(2)</td>
-<td>0,3 % conformément à l'article B.01.047</td>
+<td>0,3 % conformément à l’article B.01.047</td>
 </tr>
 <tr>
 <td></td>
@@ -20343,7 +20388,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(3)</td>
 <td>Lubrifiant</td>
 <td>(3)</td>
-<td>5 % conformément à l'alinéa B.01.047e) (les résidus d'huile minérale dans les saucisses crues préparées avec ces boyaux ne doivent pas dépasser 200 p.p.m.; dans les saucisses cuites, 30 p.p.m.)</td>
+<td>5 % conformément à l’alinéa B.01.047e) (les résidus d’huile minérale dans les saucisses crues préparées avec ces boyaux ne doivent pas dépasser 200 p.p.m.; dans les saucisses cuites, 30 p.p.m.)</td>
 </tr>
 <tr>
 <td></td>
@@ -20353,7 +20398,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(4)</td>
 <td>Agent liant et enrobage protecteur</td>
 <td>(4)</td>
-<td>0,6 %, conformément à l'alinéa B.01.047h)</td>
+<td>0,6 %, conformément à l’alinéa B.01.047h)</td>
 </tr>
 <tr>
 <td>M.8</td>
@@ -20369,7 +20414,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>M.9</td>
 <td>Mono- et diglycérides</td>
 <td>(1)</td>
-<td>Confiture de pommes (ou de rhubarde) et de (nom du fruit); huiles et graisses; marmelade de figues; marmelade de figues avec pectine; confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; gelée de (nom du fruit); gelée de (nom du fruit) avec pectine; marmelade de (nom de l'agrume); marmelade de (nom de l'agrume) avec pectine; marmelade d'ananas; marmelade d'ananas avec pectine</td>
+<td>Confiture de pommes (ou de rhubarde) et de (nom du fruit); huiles et graisses; marmelade de figues; marmelade de figues avec pectine; confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; gelée de (nom du fruit); gelée de (nom du fruit) avec pectine; marmelade de (nom de l’agrume); marmelade de (nom de l’agrume) avec pectine; marmelade d’ananas; marmelade d’ananas avec pectine</td>
 <td>(1)</td>
 <td>Agent antimousse</td>
 <td>(1)</td>
@@ -20427,7 +20472,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 <tr>
 <td>N.2</td>
-<td>Oxyde d'azote</td>
+<td>Oxyde d’azote</td>
 <td></td>
 <td>Aliments non normalisés</td>
 <td></td>
@@ -20441,7 +20486,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td>Aliments non normalisés</td>
 <td></td>
-<td>Agent pulseur et agent d'aération</td>
+<td>Agent pulseur et agent d’aération</td>
 <td></td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -20449,7 +20494,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>O.2</td>
 <td>Oxystéarine</td>
 <td></td>
-<td>Huile de graines de cotonnier; huile d'arachides; huile de soja</td>
+<td>Huile de graines de cotonnier; huile d’arachides; huile de soja</td>
 <td></td>
 <td>Empêcher la formation de cristaux</td>
 <td></td>
@@ -20489,7 +20534,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>P.1</td>
 <td>Extrait de pancréas</td>
 <td></td>
-<td>Cultures bactériennes productrices d'acides</td>
+<td>Cultures bactériennes productrices d’acides</td>
 <td></td>
 <td>Pour enrayer les bactériophages</td>
 <td></td>
@@ -20503,7 +20548,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(1)</td>
 <td>Enrober</td>
 <td>(1)</td>
-<td>0,3 % conformément à l'article B.01.047</td>
+<td>0,3 % conformément à l’article B.01.047</td>
 </tr>
 <tr>
 <td></td>
@@ -20513,7 +20558,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(2)</td>
 <td>Enrober</td>
 <td>(2)</td>
-<td>Bonnes pratiques industrielles conformément à l'article B.01.047</td>
+<td>Bonnes pratiques industrielles conformément à l’article B.01.047</td>
 </tr>
 <tr>
 <td>P.2</td>
@@ -20523,7 +20568,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(1)</td>
 <td>Agent anticollant</td>
 <td>(1)</td>
-<td>0,15 %, conformément à l'article B.01.047. Si on utilise également une huile minérale comme agent anticollant, la quantité totale de toute combinaison de vaseline et d'huile minérale ne doit pas dépasser 0,15 %</td>
+<td>0,15 %, conformément à l’article B.01.047. Si on utilise également une huile minérale comme agent anticollant, la quantité totale de toute combinaison de vaseline et d’huile minérale ne doit pas dépasser 0,15 %</td>
 </tr>
 <tr>
 <td></td>
@@ -20533,7 +20578,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(2)</td>
 <td>Enrober</td>
 <td>(2)</td>
-<td>0,3 %, conformément à l'article B.01.047</td>
+<td>0,3 %, conformément à l’article B.01.047</td>
 </tr>
 <tr>
 <td>P.2A</td>
@@ -20548,7 +20593,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <tr>
 <td></td>
 <td>(2)</td>
-<td>Édulcorant de table sous forme de comprimé contenant de l'aspartame</td>
+<td>Édulcorant de table sous forme de comprimé contenant de l’aspartame</td>
 <td>(2)</td>
 <td>Lubrifiant</td>
 <td>(2)</td>
@@ -20588,7 +20633,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Édulcorant de table sous forme de comprimés, contenant de l'aspartame</td>
+<td>Édulcorant de table sous forme de comprimés, contenant de l’aspartame</td>
 <td>(2)</td>
 <td>Liant pour comprimés</td>
 <td>(2)</td>
@@ -20606,7 +20651,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 <tr>
 <td>P.4</td>
-<td>Sulfate double d'aluminium et de potassium</td>
+<td>Sulfate double d’aluminium et de potassium</td>
 <td></td>
 <td>Farine; farine de blé entier</td>
 <td></td>
@@ -20650,7 +20695,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td>Aliments non normalisés</td>
 <td></td>
-<td>Agent pulseur et agent d'aération</td>
+<td>Agent pulseur et agent d’aération</td>
 <td></td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -20658,7 +20703,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>P.7</td>
 <td>Propylène-glycol</td>
 <td>(1)</td>
-<td>Rocou soluble dans l'huile</td>
+<td>Rocou soluble dans l’huile</td>
 <td>(1)</td>
 <td>Solvant</td>
 <td>(1)</td>
@@ -20698,7 +20743,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>S.1.01</td>
 <td>Dioxyde de silicium</td>
 <td></td>
-<td>Émulsions à base d'huiles végétales comestibles servant d'enduits pour batterie de cuisine</td>
+<td>Émulsions à base d’huiles végétales comestibles servant d’enduits pour batterie de cuisine</td>
 <td></td>
 <td>Agent de suspension</td>
 <td></td>
@@ -20710,13 +20755,13 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td>Filets de poisson congelés; poisson haché congelé; homard congelé; crabe congelé; clams congelés; crevettes congelées</td>
 <td></td>
-<td>Réduire les pertes dues au traitement et la formation d'exsudat lors de la décongélation</td>
+<td>Réduire les pertes dues au traitement et la formation d’exsudat lors de la décongélation</td>
 <td></td>
 <td>Si employé en association avec le tripolyphosphate de sodium et le pyrophosphate tétrasodique, la quantité totale de phosphate ajouté, calculé en phosphate dibasique de sodium, ne doit pas dépasser 0,5 %</td>
 </tr>
 <tr>
 <td>S.2</td>
-<td>Sulfate d'aluminium et de sodium</td>
+<td>Sulfate d’aluminium et de sodium</td>
 <td></td>
 <td>Farine; farine de blé entier</td>
 <td></td>
@@ -20730,7 +20775,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(1)</td>
 <td>Bonbons et autres produits de confiserie</td>
 <td>(1)</td>
-<td>Agent d'aération</td>
+<td>Agent d’aération</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -20740,7 +20785,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(2)</td>
 <td>Sel ordinaire</td>
 <td>(2)</td>
-<td>Stabilisant de l'iodure de potassium</td>
+<td>Stabilisant de l’iodure de potassium</td>
 <td>(2)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -20748,11 +20793,11 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>S.3A</td>
 <td>Carbonate de sodium</td>
 <td></td>
-<td>Mélangé avec l'hexamétaphosphate de sodium, filets de poisson congelés, homard congelé, crabe congelé, clams congelés et crevettes congelées</td>
+<td>Mélangé avec l’hexamétaphosphate de sodium, filets de poisson congelés, homard congelé, crabe congelé, clams congelés et crevettes congelées</td>
 <td></td>
 <td>Pour empêcher de suinter en dégelant</td>
 <td></td>
-<td>15 % du mélange de carbonate de sodium et d'hexamétaphosphate de sodium</td>
+<td>15 % du mélange de carbonate de sodium et d’hexamétaphosphate de sodium</td>
 </tr>
 <tr>
 <td>S.3B</td>
@@ -20760,7 +20805,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td>Boyaux de saucisse</td>
 <td></td>
-<td>Enrobage pour faciliter l'épluchage</td>
+<td>Enrobage pour faciliter l’épluchage</td>
 <td></td>
 <td>0,25 % de boyaux</td>
 </tr>
@@ -20787,7 +20832,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Mélange de poisson et de viande préparés visé à l'alinéa B.21.006n)</td>
+<td>Mélange de poisson et de viande préparés visé à l’alinéa B.21.006n)</td>
 <td>(3)</td>
 <td>Modifier la texture</td>
 <td>(3)</td>
@@ -20838,15 +20883,15 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td>Crustacés et mollusques congelés</td>
 <td></td>
-<td>Faciliter l'enlèvement des matières étrangères et réduire la déperdition d'humidité pendant la cuisson</td>
+<td>Faciliter l’enlèvement des matières étrangères et réduire la déperdition d’humidité pendant la cuisson</td>
 <td></td>
-<td>Lorsque employé en combinaison avec le chlorure de sodium (sel) et l'oxyde de calcium en solution, l'hydroxyde de sodium ne doit pas dépasser 70 p.p.m.</td>
+<td>Lorsque employé en combinaison avec le chlorure de sodium (sel) et l’oxyde de calcium en solution, l’hydroxyde de sodium ne doit pas dépasser 70 p.p.m.</td>
 </tr>
 <tr>
 <td>S.6.1</td>
 <td>Lauryl-sulfate de sodium</td>
 <td>(1)</td>
-<td>La poudre de blanc d'oeuf (poudre d'albumen)</td>
+<td>La poudre de blanc d’oeuf (poudre d’albumen)</td>
 <td>(1)</td>
 <td>Faire monter en neige</td>
 <td>(1)</td>
@@ -20856,7 +20901,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Le blanc d'oeuf liquide (albumen liquide); le blanc d'oeuf congelé (albumen congelé)</td>
+<td>Le blanc d’oeuf liquide (albumen liquide); le blanc d’oeuf congelé (albumen congelé)</td>
 <td>(2)</td>
 <td>Faire monter en neige</td>
 <td>(2)</td>
@@ -20876,7 +20921,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>S.6.2</td>
 <td>Chlorophylline de sodium, potassium et cuivre</td>
 <td></td>
-<td>Produits purifiant l'haleine sous forme de bonbons, de comprimés et de gomme à mâcher</td>
+<td>Produits purifiant l’haleine sous forme de bonbons, de comprimés et de gomme à mâcher</td>
 <td></td>
 <td>Caractéristique du produit</td>
 <td></td>
@@ -20888,7 +20933,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(1)</td>
 <td>Poisson congelé</td>
 <td>(1)</td>
-<td>Empêcher l'éclatement de la glace</td>
+<td>Empêcher l’éclatement de la glace</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -20908,7 +20953,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td>Filets de poisson congelés; poisson haché congelé; homard congelé; crabe congelé; clams congelés; crevettes congelées</td>
 <td></td>
-<td>Réduire les pertes dues au traitement et la formation d'exsudat lors de la décongélation</td>
+<td>Réduire les pertes dues au traitement et la formation d’exsudat lors de la décongélation</td>
 <td></td>
 <td>Si employé en association avec le tripolyphosphate de sodium et le pyrophosphate acide de sodium, la quantité totale de phosphate ajouté, calculé en phosphate dibasique de sodium, ne doit pas dépasser 0,5 %</td>
 </tr>
@@ -20936,7 +20981,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>S.9A</td>
 <td>Stéaroyl-2-lactylate de sodium</td>
 <td>(1)</td>
-<td>Blancs d'oeuf liquide ou congelés</td>
+<td>Blancs d’oeuf liquide ou congelés</td>
 <td>(1)</td>
 <td>Faire monter en neige</td>
 <td>(1)</td>
@@ -20946,7 +20991,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Blancs d'oeuf en poudre</td>
+<td>Blancs d’oeuf en poudre</td>
 <td>(2)</td>
 <td>Faire monter en neige</td>
 <td>(2)</td>
@@ -20956,7 +21001,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Garnitures à l'huile ou mélanges pour garnitures</td>
+<td>Garnitures à l’huile ou mélanges pour garnitures</td>
 <td>(3)</td>
 <td>Faire mousser</td>
 <td>(3)</td>
@@ -20970,7 +21015,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(4)</td>
 <td>Agent de conditionnement</td>
 <td>(4)</td>
-<td>0,2 % du poids à l'état sec</td>
+<td>0,2 % du poids à l’état sec</td>
 </tr>
 <tr>
 <td>S.9B</td>
@@ -20998,7 +21043,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td>Sel</td>
 <td></td>
-<td>Stabilisant de l'iodure de potassium</td>
+<td>Stabilisant de l’iodure de potassium</td>
 <td></td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -21008,7 +21053,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td>Clams congelés; crabe congelé; crevettes congelées; filets de poisson congelés; homard congelé; poisson haché congelé et poisson haché menu congelé</td>
 <td></td>
-<td>Réduire les pertes dues au traitement et la formation d'exsudat lors de la décongélation</td>
+<td>Réduire les pertes dues au traitement et la formation d’exsudat lors de la décongélation</td>
 <td></td>
 <td>Si employé seul ou en association avec le pyrophosphate acide de sodium et le pyrophosphate tétrasodique, la quantité totale de phosphate ajouté, calculé en phosphate dibasique de sodium, ne doit pas dépasser 0,5 %</td>
 </tr>
@@ -21030,7 +21075,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Boissons gazeuses en boîtes; jus de citron; jus de fruit concentré sauf le jus d'orange concentré congelé; jus de lime</td>
+<td>Boissons gazeuses en boîtes; jus de citron; jus de fruit concentré sauf le jus d’orange concentré congelé; jus de lime</td>
 <td>(2)</td>
 <td>Stabiliser la couleur et la saveur</td>
 <td>(2)</td>
@@ -21072,7 +21117,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td>Pectine</td>
 <td></td>
-<td>Aider au conditionnement, comme résultat de la méthylation de la pectine par l'action de l'acide sulfurique et de l'alcool méthylique, le bicarbonate de sodium agissant comme neutralisant</td>
+<td>Aider au conditionnement, comme résultat de la méthylation de la pectine par l’action de l’acide sulfurique et de l’alcool méthylique, le bicarbonate de sodium agissant comme neutralisant</td>
 <td></td>
 <td>0,1 % de pectine</td>
 </tr>
@@ -21084,11 +21129,11 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>S.16</td>
 <td>Acétate isobutyrate de sucrose</td>
 <td></td>
-<td>Arôme de (nom de l'arôme) pour utilisation dans les boissons à arôme d'agrumes ou d'épinette</td>
+<td>Arôme de (nom de l’arôme) pour utilisation dans les boissons à arôme d’agrumes ou d’épinette</td>
 <td></td>
 <td>Agent modificateur de la densité</td>
 <td></td>
-<td>330 p.p.m. dans les boissons à arôme d'agrumes ou d'épinette sous leur forme consommable</td>
+<td>330 p.p.m. dans les boissons à arôme d’agrumes ou d’épinette sous leur forme consommable</td>
 </tr>
 <tr>
 <td>S.17</td>
@@ -21096,7 +21141,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td>Grains de café</td>
 <td></td>
-<td>Améliorer le rendement de l'extraction des solides de café</td>
+<td>Améliorer le rendement de l’extraction des solides de café</td>
 <td></td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -21168,7 +21213,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>T.4</td>
 <td>Triéthylcitrate</td>
 <td></td>
-<td>Le blanc d'oeuf liquide (albumen liquide); le blanc d'oeuf congelé (albumen congelé)</td>
+<td>Le blanc d’oeuf liquide (albumen liquide); le blanc d’oeuf congelé (albumen congelé)</td>
 <td></td>
 <td>Faire monter en neige</td>
 <td></td>
@@ -21213,7 +21258,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(2)</td>
 <td>Boissons gazéifiées</td>
 <td>(2)</td>
-<td>0,025 % dans les boissons, sous leur forme consommable</td>
+<td>0,025 % dans les boissons, sous leur forme consommable</td>
 </tr>
 <tr>
 <td></td>
@@ -21221,7 +21266,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(3)</td>
 <td>Boissons; concentrés de boisson; mélanges pour boisson; boissons laitières; (sauf pour ceux de ces produits visés par une norme dans le présent règlement)</td>
 <td>(3)</td>
-<td>0,05 % dans les boissons, sous leur forme consommable</td>
+<td>0,05 % dans les boissons, sous leur forme consommable</td>
 </tr>
 <tr>
 <td></td>
@@ -21229,15 +21274,15 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(4)</td>
 <td>Desserts; mélanges pour desserts; glaçages; mélanges pour glaçages; garnitures; mélanges pour garnitures; (sauf pour ceux de ces produits visés par une norme dans le présent règlement)</td>
 <td>(4)</td>
-<td>0,1 % dans les produits, sous leur forme consommable</td>
+<td>0,1 % dans les produits, sous leur forme consommable</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>(5)</td>
-<td>Gomme à mâcher; rafraîchisseurs d'haleine</td>
+<td>Gomme à mâcher; rafraîchisseurs d’haleine</td>
 <td>(5)</td>
-<td>0,35 %</td>
+<td>0,35 %</td>
 </tr>
 <tr>
 <td></td>
@@ -21245,7 +21290,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(6)</td>
 <td>Tartinades de fruit (sauf pour ceux de ces produits visés par une norme dans le présent règlement)</td>
 <td>(6)</td>
-<td>0,1 %</td>
+<td>0,1 %</td>
 </tr>
 <tr>
 <td></td>
@@ -21253,7 +21298,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(7)</td>
 <td>Sauces à salade (sauf pour ceux de ces produits visés par une norme dans le présent règlement)</td>
 <td>(7)</td>
-<td>0,05 %</td>
+<td>0,05 %</td>
 </tr>
 <tr>
 <td></td>
@@ -21261,7 +21306,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(8)</td>
 <td>Confiserie</td>
 <td>(8)</td>
-<td>0,25 %</td>
+<td>0,25 %</td>
 </tr>
 <tr>
 <td></td>
@@ -21269,7 +21314,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(9)</td>
 <td>Mélanges pour pâtisseries; produits de boulangerie; (sauf pour ceux de ces produits visés par une norme dans le présent règlement)</td>
 <td>(9)</td>
-<td>0,1 % dans les produits, sous leur forme consommable</td>
+<td>0,1 % dans les produits, sous leur forme consommable</td>
 </tr>
 <tr>
 <td>A.1</td>
@@ -21285,55 +21330,55 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(2)</td>
 <td>Céréales pour petit déjeuner</td>
 <td>(2)</td>
-<td>0,5 %</td>
+<td>0,5 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Boissons; concentrés de boisson; mélanges pour boisson; (sauf pour l'un de ces produits visés par une norme dans le présent règlement)</td>
+<td>Boissons; concentrés de boisson; mélanges pour boisson; (sauf pour l’un de ces produits visés par une norme dans le présent règlement)</td>
 <td>(3)</td>
-<td>0,1 % dans les boissons, sous leur forme consommable</td>
+<td>0,1 % dans les boissons, sous leur forme consommable</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>(4)</td>
-<td>Desserts; mélanges pour desserts; glaçages; mélanges pour glaçages; garnitures; mélanges pour garnitures; (sauf pour l'un de ces produits visés par une norme dans le présent règlement)</td>
+<td>Desserts; mélanges pour desserts; glaçages; mélanges pour glaçages; garnitures; mélanges pour garnitures; (sauf pour l’un de ces produits visés par une norme dans le présent règlement)</td>
 <td>(4)</td>
-<td>0,3 % dans les produits, sous leur forme consommable</td>
+<td>0,3 % dans les produits, sous leur forme consommable</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>(5)</td>
-<td>Gomme à mâcher; rafraîchisseurs d'haleine</td>
+<td>Gomme à mâcher; rafraîchisseurs d’haleine</td>
 <td>(5)</td>
-<td>1,0 %</td>
+<td>1,0 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>(6)</td>
-<td>Tartinades de fruit; purées et sauces; sirops de table; (sauf pour l'un de ces produits visés par une norme dans le présent règlement)</td>
+<td>Tartinades de fruit; purées et sauces; sirops de table; (sauf pour l’un de ces produits visés par une norme dans le présent règlement)</td>
 <td>(6)</td>
-<td>0,2 %</td>
+<td>0,2 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>(7)</td>
-<td>Sauces à salade; tartinades d'arachides et autres tartinades de noix; (sauf pour l'un de ces produits visés par une norme dans le présent règlement)</td>
+<td>Sauces à salade; tartinades d’arachides et autres tartinades de noix; (sauf pour l’un de ces produits visés par une norme dans le présent règlement)</td>
 <td>(7)</td>
-<td>0,05 %</td>
+<td>0,05 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>(8)</td>
-<td>Condiments (sauf pour l'un de ces produits visés par une norme dans le présent règlement)</td>
+<td>Condiments (sauf pour l’un de ces produits visés par une norme dans le présent règlement)</td>
 <td>(8)</td>
-<td>0,2 %</td>
+<td>0,2 %</td>
 </tr>
 <tr>
 <td></td>
@@ -21341,13 +21386,13 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(9)</td>
 <td>Shellacs de confiserie pour les friandises; assaisonnements sucrés ou mélanges pour enrobage des friandises</td>
 <td>(9)</td>
-<td>0,1 %</td>
+<td>0,1 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>(10)</td>
-<td>Confiseries et leurs enrobages (sauf pour l'un de ces produits visés par une norme dans le présent règlement)</td>
+<td>Confiseries et leurs enrobages (sauf pour l’un de ces produits visés par une norme dans le présent règlement)</td>
 <td>(10)</td>
 <td>0,3 %</td>
 </tr>
@@ -21355,9 +21400,9 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>A.2</td>
 <td>Aspartame, en capsules, pour prévenir sa dégradation pendant la cuisson</td>
 <td></td>
-<td>Produits de boulangerie et mélanges pour pâtisseries (sauf pour l'un de ces produits visés par une norme dans le présent règlement)</td>
+<td>Produits de boulangerie et mélanges pour pâtisseries (sauf pour l’un de ces produits visés par une norme dans le présent règlement)</td>
 <td></td>
-<td>0,4 % dans les produits, sous leur forme consommable</td>
+<td>0,4 % dans les produits, sous leur forme consommable</td>
 </tr>
 <tr>
 <td>E.1</td>
@@ -21373,7 +21418,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(2)</td>
 <td>Boissons diététiques</td>
 <td>(2)</td>
-<td>3,5 %</td>
+<td>3,5 %</td>
 </tr>
 <tr>
 <td></td>
@@ -21381,7 +21426,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(3)</td>
 <td>Garnitures et glaçages à la crème faits à base de gras</td>
 <td>(3)</td>
-<td>60 %</td>
+<td>60 %</td>
 </tr>
 <tr>
 <td></td>
@@ -21389,7 +21434,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(4)</td>
 <td>Biscuits et gaufrettes diététiques</td>
 <td>(4)</td>
-<td>7 %</td>
+<td>7 %</td>
 </tr>
 <tr>
 <td></td>
@@ -21397,7 +21442,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(5)</td>
 <td>Bonbons mous</td>
 <td>(5)</td>
-<td>40 %</td>
+<td>40 %</td>
 </tr>
 <tr>
 <td></td>
@@ -21405,7 +21450,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(6)</td>
 <td>Bonbons durs</td>
 <td>(6)</td>
-<td>50 %</td>
+<td>50 %</td>
 </tr>
 <tr>
 <td></td>
@@ -21413,11 +21458,11 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(7)</td>
 <td>Gomme à mâcher</td>
 <td>(7)</td>
-<td>60 %</td>
+<td>60 %</td>
 </tr>
 <tr>
 <td>H.1</td>
-<td>Hydrolysat d'amidon hydrogéné</td>
+<td>Hydrolysat d’amidon hydrogéné</td>
 <td></td>
 <td>Aliments non normalisés</td>
 <td></td>
@@ -21555,7 +21600,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>S.1</td>
 <td>Sorbitol</td>
 <td>(1)</td>
-<td>Mélange de poisson et de viande préparés visé à l'alinéa B.21.006n)</td>
+<td>Mélange de poisson et de viande préparés visé à l’alinéa B.21.006n)</td>
 <td>(1)</td>
 <td>6,0 %</td>
 </tr>
@@ -21589,53 +21634,53 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(2)</td>
 <td>Céréales pour petit déjeuner</td>
 <td>(2)</td>
-<td>0,1 %</td>
+<td>0,1 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Boissons; concentrés de boisson; mélanges pour boisson; boissons laitières; (sauf pour l'un de ces produits visés par une norme dans le présent règlement)</td>
+<td>Boissons; concentrés de boisson; mélanges pour boisson; boissons laitières; (sauf pour l’un de ces produits visés par une norme dans le présent règlement)</td>
 <td>(3)</td>
-<td>0,025 % dans les boissons, sous leur forme consommable</td>
+<td>0,025 % dans les boissons, sous leur forme consommable</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>(4)</td>
-<td>Desserts; mélanges pour desserts; glaçages; mélanges pour glaçages; desserts laitiers; desserts congelés; garnitures; mélanges pour garnitures; (sauf pour l'un de ces produits visés par une norme dans le présent règlement)</td>
+<td>Desserts; mélanges pour desserts; glaçages; mélanges pour glaçages; desserts laitiers; desserts congelés; garnitures; mélanges pour garnitures; (sauf pour l’un de ces produits visés par une norme dans le présent règlement)</td>
 <td>(4)</td>
-<td>0,025 % dans les produits, sous leur forme consommable</td>
+<td>0,025 % dans les produits, sous leur forme consommable</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>(5)</td>
-<td>Gomme à mâcher; rafraîchisseurs d'haleine</td>
+<td>Gomme à mâcher; rafraîchisseurs d’haleine</td>
 <td>(5)</td>
-<td>0,15 %</td>
+<td>0,15 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>(6)</td>
-<td>Tartinades de fruit (sauf pour l'un de ces produits visés par une norme dans le présent règlement)</td>
+<td>Tartinades de fruit (sauf pour l’un de ces produits visés par une norme dans le présent règlement)</td>
 <td>(6)</td>
-<td>0,045 %</td>
+<td>0,045 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>(7)</td>
-<td>Sauces à salade; condiments; (sauf pour l'un de ces produits visés par une norme dans le présent règlement)</td>
+<td>Sauces à salade; condiments; (sauf pour l’un de ces produits visés par une norme dans le présent règlement)</td>
 <td>(7)</td>
-<td>0,04 %</td>
+<td>0,04 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>(8)</td>
-<td>Confiseries et leurs enrobages; shellacs de confiserie pour les friandises; assaisonnements sucrés ou mélanges pour enrobage des friandises; (sauf pour l'un de ces produits visés par une norme dans le présent règlement)</td>
+<td>Confiseries et leurs enrobages; shellacs de confiserie pour les friandises; assaisonnements sucrés ou mélanges pour enrobage des friandises; (sauf pour l’un de ces produits visés par une norme dans le présent règlement)</td>
 <td>(8)</td>
 <td>0,07 %</td>
 </tr>
@@ -21643,25 +21688,25 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(9)</td>
-<td>Mélanges pour pâtisseries; produits de boulangerie; (sauf pour l'un de ces produits visés par une norme dans le présent règlement)</td>
+<td>Mélanges pour pâtisseries; produits de boulangerie; (sauf pour l’un de ces produits visés par une norme dans le présent règlement)</td>
 <td>(9)</td>
-<td>0,065 % dans les produits, sous leur forme consommable</td>
+<td>0,065 % dans les produits, sous leur forme consommable</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>(10)</td>
-<td>Produits de fruits et légumes transformés (sauf pour l'un de ces produits visés par une norme dans le présent règlement)</td>
+<td>Produits de fruits et légumes transformés (sauf pour l’un de ces produits visés par une norme dans le présent règlement)</td>
 <td>(10)</td>
-<td>0,015 %</td>
+<td>0,015 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>(11)</td>
-<td>Boissons alcooliques (sauf pour l'un de ces produits visés par une norme dans le présent règlement)</td>
+<td>Boissons alcooliques (sauf pour l’un de ces produits visés par une norme dans le présent règlement)</td>
 <td>(11)</td>
-<td>0,07 %</td>
+<td>0,07 %</td>
 </tr>
 <tr>
 <td></td>
@@ -21669,21 +21714,21 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(12)</td>
 <td>Poudings; mélanges pour poudings</td>
 <td>(12)</td>
-<td>0,04 % dans les produits, sous leur forme consommable</td>
+<td>0,04 % dans les produits, sous leur forme consommable</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>(13)</td>
-<td>Sirops de table (sauf pour l'un de ces produits visés par une norme dans le présent règlement)</td>
+<td>Sirops de table (sauf pour l’un de ces produits visés par une norme dans le présent règlement)</td>
 <td>(13)</td>
-<td>0,15 %</td>
+<td>0,15 %</td>
 </tr>
 <tr>
 <td>T.1</td>
 <td>Thaumatin</td>
 <td>(1)</td>
-<td>Gommes à mâcher; rafraîchisseurs d'haleine</td>
+<td>Gommes à mâcher; rafraîchisseurs d’haleine</td>
 <td>(1)</td>
 <td>500 p.p.m.</td>
 </tr>
@@ -21699,7 +21744,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Une préparation aromatisante de (nom de l'arôme) visée à l'article B.10.005; préparations aromatisantes non normalisées</td>
+<td>Une préparation aromatisante de (nom de l’arôme) visée à l’article B.10.005; préparations aromatisantes non normalisées</td>
 <td>(3)</td>
 <td>100 p.p.m.</td>
 </tr>
@@ -21719,7 +21764,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 
 #### TABLEAU X
 <table>
-<h4>ADDITIFS ALIMENTAIRES AUTORISÉS COMME RAJUSTEURS DU PH, RÉACTIFS DES ACIDES ET DES AGENTS CORRECTEURS DE L'EAU</h4>
+<h4>ADDITIFS ALIMENTAIRES AUTORISÉS COMME RAJUSTEURS DU PH, RÉACTIFS DES ACIDES ET DES AGENTS CORRECTEURS DE L’EAU</h4>
 <tr>
 <th></th>
 <th>Colonne I</th>
@@ -21774,7 +21819,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 <tr>
 <td>A.3</td>
-<td>Sulfate double d'aluminium et d'ammonium</td>
+<td>Sulfate double d’aluminium et d’ammonium</td>
 <td>(1)</td>
 <td>Poudre à pâte</td>
 <td>(1)</td>
@@ -21789,11 +21834,11 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 <tr>
 <td>A.4</td>
-<td>Bicarbonate d'ammonium</td>
+<td>Bicarbonate d’ammonium</td>
 <td>(1)</td>
 <td>Produits du cacao</td>
 <td>(1)</td>
-<td>En quantité suffisante pour traiter les produits du cacao conformément à l'article B.04.005</td>
+<td>En quantité suffisante pour traiter les produits du cacao conformément à l’article B.04.005</td>
 </tr>
 <tr>
 <td></td>
@@ -21805,11 +21850,11 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 <tr>
 <td>A.5</td>
-<td>Carbonate d'ammonium</td>
+<td>Carbonate d’ammonium</td>
 <td>(1)</td>
 <td>Produits du cacao</td>
 <td>(1)</td>
-<td>En quantité suffisante pour traiter les produits du cacao conformément à l'article B.04.005</td>
+<td>En quantité suffisante pour traiter les produits du cacao conformément à l’article B.04.005</td>
 </tr>
 <tr>
 <td></td>
@@ -21821,7 +21866,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 <tr>
 <td>A.6</td>
-<td>Citrate d'ammonium dibasique</td>
+<td>Citrate d’ammonium dibasique</td>
 <td></td>
 <td>Aliments non normalisés</td>
 <td></td>
@@ -21829,7 +21874,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 <tr>
 <td>A.7</td>
-<td>Citrate d'ammonium monobasique</td>
+<td>Citrate d’ammonium monobasique</td>
 <td></td>
 <td>Aliments non normalisés</td>
 <td></td>
@@ -21837,11 +21882,11 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 <tr>
 <td>A.8</td>
-<td>Hydroxyde d'ammonium</td>
+<td>Hydroxyde d’ammonium</td>
 <td>(1)</td>
 <td>Produits du cacao</td>
 <td>(1)</td>
-<td>En quantité suffisante pour traiter les produits du cacao conformément à l'article B.04.005</td>
+<td>En quantité suffisante pour traiter les produits du cacao conformément à l’article B.04.005</td>
 </tr>
 <tr>
 <td></td>
@@ -21861,7 +21906,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 <tr>
 <td>A.9</td>
-<td>Phosphate d'ammonium dibasique</td>
+<td>Phosphate d’ammonium dibasique</td>
 <td>(1)</td>
 <td>Ale; cultures bactériennes; poudre à pâte; bière; bière légère; liqueur de malt; porter; stout</td>
 <td>(1)</td>
@@ -21877,7 +21922,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 <tr>
 <td>A.10</td>
-<td>Phosphate d'ammonium monobasique</td>
+<td>Phosphate d’ammonium monobasique</td>
 <td>(1)</td>
 <td>Ale; cultures bactériennes; poudre à pâte; bière; bière légère; liqueur de malt; porter; stout</td>
 <td>(1)</td>
@@ -21953,7 +21998,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(5)</td>
 <td>Produits du cacao</td>
 <td>(5)</td>
-<td>En quantité suffisante pour traiter les produits du cacao conformément à l'article B.04.005</td>
+<td>En quantité suffisante pour traiter les produits du cacao conformément à l’article B.04.005</td>
 </tr>
 <tr>
 <td>C.3</td>
@@ -22125,7 +22170,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>C.14</td>
 <td>Acide citrique</td>
 <td>(1)</td>
-<td>Ale; artichauts en conserve; asperges en conserve; bière; bière légère; blanc d'oeuf (albumen) et jaune d'oeuf; champignons en conserve; cidre; confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; confiture de pommes (ou de rhubarbe) et de (nom du fruit); crevettes cuites congelées; fromage cottage; fromage cottage en crème; gélatine; gelée de (nom du fruit); gelée de (nom du fruit) avec pectine; germes de haricots en conserve; jus de raisin; liqueur de malt; maquereau de printemps en conserve; marmelade d'ananas; marmelade d'ananas avec pectine; marmelade de (nom de l'agrume); marmelade de (nom de l'agrume) avec pectine; marmelade de figues; marmelade de figues avec pectine; mayonnaise; mélange pour crème glacée; mélange pour lait glacé; mincemeat; mollusques en conserve; nectar d'abricot; nectar de pêche; nectar de poire; (nom du fruit) congelé; oeuf entier à l'état liquide; en poudre ou congelé; oignons en conserve; olives; piments forts en conserve; poires en conserve; porter; sauce à salade; sauce vinaigrette; sorbet laitier; stout; tomates; vin de miel</td>
+<td>Ale; artichauts en conserve; asperges en conserve; bière; bière légère; blanc d’oeuf (albumen) et jaune d’oeuf; champignons en conserve; cidre; confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; confiture de pommes (ou de rhubarbe) et de (nom du fruit); crevettes cuites congelées; fromage cottage; fromage cottage en crème; gélatine; gelée de (nom du fruit); gelée de (nom du fruit) avec pectine; germes de haricots en conserve; jus de raisin; liqueur de malt; maquereau de printemps en conserve; marmelade d’ananas; marmelade d’ananas avec pectine; marmelade de (nom de l’agrume); marmelade de (nom de l’agrume) avec pectine; marmelade de figues; marmelade de figues avec pectine; mayonnaise; mélange pour crème glacée; mélange pour lait glacé; mincemeat; mollusques en conserve; nectar d’abricot; nectar de pêche; nectar de poire; (nom du fruit) congelé; oeuf entier à l’état liquide; en poudre ou congelé; oignons en conserve; olives; piments forts en conserve; poires en conserve; porter; sauce à salade; sauce vinaigrette; sorbet laitier; stout; tomates; vin de miel</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -22175,7 +22220,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(7)</td>
 <td>Produits du cacao</td>
 <td>(7)</td>
-<td>1,0 %, seul ou en combinaison avec de l'acide tartarique, sans matières grasses</td>
+<td>1,0 %, seul ou en combinaison avec de l’acide tartarique, sans matières grasses</td>
 </tr>
 <tr>
 <td>C.15</td>
@@ -22244,7 +22289,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>L.1</td>
 <td>Acide lactique</td>
 <td>(1)</td>
-<td>Ale; poudre à pâte; bière; pain; cidre; fromage cottage; fromage cottage à la crème; blanc d'oeuf (albumen) et jaune d'oeuf; oeuf entier liquide ou congelé, poudre d'oeuf entier; sauce vinaigrette; mélange pour crème glacée; mélange à lait glacé; bière légère; liqueur de malt; mayonnaise; olives; cornichons et achards (*relish*); porter; sauce à salade; sorbet laitier; stout</td>
+<td>Ale; poudre à pâte; bière; pain; cidre; fromage cottage; fromage cottage à la crème; blanc d’oeuf (albumen) et jaune d’oeuf; oeuf entier liquide ou congelé, poudre d’oeuf entier; sauce vinaigrette; mélange pour crème glacée; mélange à lait glacé; bière légère; liqueur de malt; mayonnaise; olives; cornichons et achards (*relish*); porter; sauce à salade; sorbet laitier; stout</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -22294,7 +22339,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(1)</td>
 <td>Produits du cacao</td>
 <td>(1)</td>
-<td>En quantité suffisante pour traiter les produits du cacao conformément à l'article B.04.005</td>
+<td>En quantité suffisante pour traiter les produits du cacao conformément à l’article B.04.005</td>
 </tr>
 <tr>
 <td></td>
@@ -22341,7 +22386,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(2)</td>
 <td>Produits du cacao</td>
 <td>(2)</td>
-<td>En quantité suffisante pour traiter les produits du cacao conformément à l'article B.04.005</td>
+<td>En quantité suffisante pour traiter les produits du cacao conformément à l’article B.04.005</td>
 </tr>
 <tr>
 <td></td>
@@ -22395,7 +22440,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>M.8</td>
 <td>Acide malique</td>
 <td>(1)</td>
-<td>Asperges en conserve; confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; confiture de pommes (ou de rhubarbe) et de (nom du fruit); gelée de (nom du fruit); gelée de (nom du fruit) avec pectine; marmelade d'ananas; marmelade d'ananas avec pectine; marmelade de (nom de l'agrume); marmelade de (nom de l'agrume) avec pectine; marmelade de figues; marmelade de figues avec pectine; nectar d'abricot; nectar de pêche; nectar de poire; (nom du fruit) congelé</td>
+<td>Asperges en conserve; confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; confiture de pommes (ou de rhubarbe) et de (nom du fruit); gelée de (nom du fruit); gelée de (nom du fruit) avec pectine; marmelade d’ananas; marmelade d’ananas avec pectine; marmelade de (nom de l’agrume); marmelade de (nom de l’agrume) avec pectine; marmelade de figues; marmelade de figues avec pectine; nectar d’abricot; nectar de pêche; nectar de poire; (nom du fruit) congelé</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -22512,9 +22557,9 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 <tr>
 <td>P.3</td>
-<td>Sulfate double d'aluminium et de potassium</td>
+<td>Sulfate double d’aluminium et de potassium</td>
 <td>(1)</td>
-<td>Ale; poudre à pâte; bière; bière légère; liqueur de malt; rocou soluble dans l'huile; porter; stout</td>
+<td>Ale; poudre à pâte; bière; bière légère; liqueur de malt; rocou soluble dans l’huile; porter; stout</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -22540,7 +22585,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(2)</td>
 <td>Produits du cacao</td>
 <td>(2)</td>
-<td>En quantité suffisante pour traiter les produits du cacao conformément à l'article B.04.005</td>
+<td>En quantité suffisante pour traiter les produits du cacao conformément à l’article B.04.005</td>
 </tr>
 <tr>
 <td></td>
@@ -22588,7 +22633,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(1)</td>
 <td>Produits du cacao</td>
 <td>(1)</td>
-<td>En quantité suffisante pour traiter les produits du cacao conformément à l'article B.04.005</td>
+<td>En quantité suffisante pour traiter les produits du cacao conformément à l’article B.04.005</td>
 </tr>
 <tr>
 <td></td>
@@ -22618,7 +22663,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(5)</td>
-<td>Mélange de poisson et de viande préparés visé à l'alinéa B.21.006n)</td>
+<td>Mélange de poisson et de viande préparés visé à l’alinéa B.21.006n)</td>
 <td>(5)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -22681,7 +22726,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>P.9</td>
 <td>Hydroxyde de potassium</td>
 <td>(1)</td>
-<td>Rocou soluble dans l'huile</td>
+<td>Rocou soluble dans l’huile</td>
 <td>(1)</td>
 <td>1,0 %</td>
 </tr>
@@ -22690,7 +22735,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(2)</td>
 <td>Produits du cacao</td>
 <td>(2)</td>
-<td>En quantité suffisante pour traiter les produits du cacao conformément à l'article B.04.005</td>
+<td>En quantité suffisante pour traiter les produits du cacao conformément à l’article B.04.005</td>
 </tr>
 <tr>
 <td></td>
@@ -22797,7 +22842,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 <tr>
 <td>S.4</td>
-<td>Phosphate d'aluminium et de sodium</td>
+<td>Phosphate d’aluminium et de sodium</td>
 <td></td>
 <td>Aliments non normalisés</td>
 <td></td>
@@ -22805,7 +22850,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 <tr>
 <td>S.5</td>
-<td>Sulfate double d'aluminium et de sodium</td>
+<td>Sulfate double d’aluminium et de sodium</td>
 <td>(1)</td>
 <td>Poudre à pâte</td>
 <td>(1)</td>
@@ -22822,7 +22867,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>S.6</td>
 <td>Bicarbonate de sodium</td>
 <td>(1)</td>
-<td>Blanc d'oeuf (albumen) et jaune d'oeuf; confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; confiture de pommes (ou de rhubarbe) et de (nom du fruit); gelée de (nom du fruit); gelée de (nom du fruit) avec pectine; marinade; marmelade d'ananas ou de figues; marmelade d'ananas ou de figues avec pectine; marmelade de (nom de l'agrume); marmelade de (nom de l'agrume) avec pectine; mélange pour crème glacée; mélange pour lait glacé; oeuf entier liquide, en poudre ou congelé; poudre à pâte; poudre de lait malté; rocou soluble dans l'huile; saumure et mélange de salaison à sec employés dans le conditionnement des viandes de salaison (titre 14) ou des sous-produits de la viande de salaison</td>
+<td>Blanc d’oeuf (albumen) et jaune d’oeuf; confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; confiture de pommes (ou de rhubarbe) et de (nom du fruit); gelée de (nom du fruit); gelée de (nom du fruit) avec pectine; marinade; marmelade d’ananas ou de figues; marmelade d’ananas ou de figues avec pectine; marmelade de (nom de l’agrume); marmelade de (nom de l’agrume) avec pectine; mélange pour crème glacée; mélange pour lait glacé; oeuf entier liquide, en poudre ou congelé; poudre à pâte; poudre de lait malté; rocou soluble dans l’huile; saumure et mélange de salaison à sec employés dans le conditionnement des viandes de salaison (titre 14) ou des sous-produits de la viande de salaison</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -22832,7 +22877,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(2)</td>
 <td>Produits du cacao</td>
 <td>(2)</td>
-<td>En quantité suffisante pour traiter les produits du cacao conformément à l'alinéa B.04.005</td>
+<td>En quantité suffisante pour traiter les produits du cacao conformément à l’alinéa B.04.005</td>
 </tr>
 <tr>
 <td></td>
@@ -22886,7 +22931,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>S.8</td>
 <td>Carbonate de sodium</td>
 <td>(1)</td>
-<td>Blanc d'oeuf (albumen) et jaune d'oeuf; confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; confiture de pommes (ou de rhubarbe) et de (nom du fruit); gélatine; gelée de (nom du fruit); gelée de (nom du fruit) avec pectine; liant à viande pour la viande de salaison et les sous-produits de la viande de salaison (titre 14 seulement); marmelade d'ananas ou de figues; marmelade d'ananas ou de figues avec pectine; marmelade de (nom de l'agrume); marmelade (nom de l'agrume) avec pectine; mélange pour crème glacée; mélange pour lait glacé, oeuf entier liquide; en poudre ou congelé;</td>
+<td>Blanc d’oeuf (albumen) et jaune d’oeuf; confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; confiture de pommes (ou de rhubarbe) et de (nom du fruit); gélatine; gelée de (nom du fruit); gelée de (nom du fruit) avec pectine; liant à viande pour la viande de salaison et les sous-produits de la viande de salaison (titre 14 seulement); marmelade d’ananas ou de figues; marmelade d’ananas ou de figues avec pectine; marmelade de (nom de l’agrume); marmelade (nom de l’agrume) avec pectine; mélange pour crème glacée; mélange pour lait glacé, oeuf entier liquide; en poudre ou congelé;</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -22896,7 +22941,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(2)</td>
 <td>Produits du cacao</td>
 <td>(2)</td>
-<td>En quantité suffisante pour traiter les produits du cacao conformément à l'article B.04.005</td>
+<td>En quantité suffisante pour traiter les produits du cacao conformément à l’article B.04.005</td>
 </tr>
 <tr>
 <td></td>
@@ -22926,7 +22971,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>S.9</td>
 <td>Citrate de sodium</td>
 <td>(1)</td>
-<td>Confitures de (nom du fruit); confitures de (nom du fruit) avec pectine; confitures de pommes (ou de rhubarbe) et de (nom du fruit); crème; fromage cottage; fromage cottage à la crème; gelée de (nom du fruit); gelée de (nom du fruit) avec pectine; marmelade d'ananas ou de figues; marmelade d'ananas ou de figues avec pectine; marmelade de (nom des agrumes); marmelade de (nom des agrumes) avec pectine; mélange pour crème glacée; mélange pour lait glacé; sorbet laitier</td>
+<td>Confitures de (nom du fruit); confitures de (nom du fruit) avec pectine; confitures de pommes (ou de rhubarbe) et de (nom du fruit); crème; fromage cottage; fromage cottage à la crème; gelée de (nom du fruit); gelée de (nom du fruit) avec pectine; marmelade d’ananas ou de figues; marmelade d’ananas ou de figues avec pectine; marmelade de (nom des agrumes); marmelade de (nom des agrumes) avec pectine; mélange pour crème glacée; mélange pour lait glacé; sorbet laitier</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -22984,13 +23029,13 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(1)</td>
 <td>Produits du cacao</td>
 <td>(1)</td>
-<td>En quantité suffisante pour traiter les produits du cacao conformément à l'article B.04.005</td>
+<td>En quantité suffisante pour traiter les produits du cacao conformément à l’article B.04.005</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Gélatine; lait écrémé; (indication de l'arôme); lait partiellement écrémé (indication de l'arôme); marinade; mélange pour crème glacée; mélange pour lait glacé; saumure et mélange de salaison à sec employés dans le conditionnement des viandes de salaison ou des sous-produits de la viande de salaison (titre 14 seulement)</td>
+<td>Gélatine; lait écrémé; (indication de l’arôme); lait partiellement écrémé (indication de l’arôme); marinade; mélange pour crème glacée; mélange pour lait glacé; saumure et mélange de salaison à sec employés dans le conditionnement des viandes de salaison ou des sous-produits de la viande de salaison (titre 14 seulement)</td>
 <td>(2)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -23085,7 +23130,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>S.20</td>
 <td>Tartrate double de sodium et de potassium</td>
 <td>(1)</td>
-<td>Confitures de pommes (ou de rhubarbe) et de (nom du fruit); confitures de (nom du fruit) avec pectine; gelée de (nom du fruit); gelée de (nom du fruit) avec pectine; marmelade de (nom des agrumes); marmelade de (nom des agrumes) avec pectine; marmelade d'ananas ou de figues; marmelade d'ananas ou de figues avec pectine</td>
+<td>Confitures de pommes (ou de rhubarbe) et de (nom du fruit); confitures de (nom du fruit) avec pectine; gelée de (nom du fruit); gelée de (nom du fruit) avec pectine; marmelade de (nom des agrumes); marmelade de (nom des agrumes) avec pectine; marmelade d’ananas ou de figues; marmelade d’ananas ou de figues avec pectine</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -23141,7 +23186,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>T.1</td>
 <td>Acide tartrique</td>
 <td>(1)</td>
-<td>Ale; asperges en conserve; bière; bière légère; cidre; confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; confitures de pommes (ou de rhubarbe) et de (nom de fruit); gelée de (nom du fruit); gelée de (nom du fruit) avec pectine; liqueur de malt; marmelade d'ananas; marmelade d'ananas avec pectine; marmelade de (nom de l'agrume); marmelade de (nom de l'agrume) avec pectine; marmelade de figues; marmelade de figues avec pectine; mayonnaise; mélange pour crème glacée; mélange pour lait glacé; porter; poudre à pâte; sauce à salade; sauce vinaigrette; sorbet laitier; stout; vin; vin de miel;</td>
+<td>Ale; asperges en conserve; bière; bière légère; cidre; confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; confitures de pommes (ou de rhubarbe) et de (nom de fruit); gelée de (nom du fruit); gelée de (nom du fruit) avec pectine; liqueur de malt; marmelade d’ananas; marmelade d’ananas avec pectine; marmelade de (nom de l’agrume); marmelade de (nom de l’agrume) avec pectine; marmelade de figues; marmelade de figues avec pectine; mayonnaise; mélange pour crème glacée; mélange pour lait glacé; porter; poudre à pâte; sauce à salade; sauce vinaigrette; sorbet laitier; stout; vin; vin de miel;</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -23183,7 +23228,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(6)</td>
 <td>Produits du cacao</td>
 <td>(6)</td>
-<td>1,0 %, seul ou en combinaison avec de l'acide citrique, sans matières grasses</td>
+<td>1,0 %, seul ou en combinaison avec de l’acide citrique, sans matières grasses</td>
 </tr>
 </table>
 
@@ -23213,7 +23258,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>A.1</td>
 <td>Acide acétique</td>
 <td>(1)</td>
-<td>Poisson de salaison; viandes de salaison; sous-produits de viande de salaison; viande de volaille de salaison; sous-produits de viande de volaille de salaison; marinade; saumure et mélange de salaison à sec, employés dans l'apprêt des viandes de salaison ou des sous-produits de viande de salaison</td>
+<td>Poisson de salaison; viandes de salaison; sous-produits de viande de salaison; viande de volaille de salaison; sous-produits de viande de volaille de salaison; marinade; saumure et mélange de salaison à sec, employés dans l’apprêt des viandes de salaison ou des sous-produits de viande de salaison</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -23239,7 +23284,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(2)</td>
 <td>Compote de pommes en conserve</td>
 <td>(2)</td>
-<td>S'il est utilisé seul ou en combinaison avec l'acide isoascorbique, la quantité totale n'excède pas 150 p.p.m.</td>
+<td>S’il est utilisé seul ou en combinaison avec l’acide isoascorbique, la quantité totale n’excède pas 150 p.p.m.</td>
 </tr>
 <tr>
 <td></td>
@@ -23261,9 +23306,9 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>C.1</td>
 <td>Ascorbate de calcium</td>
 <td></td>
-<td>Mêmes aliments que pour l'acide ascorbique</td>
+<td>Mêmes aliments que pour l’acide ascorbique</td>
 <td></td>
-<td>Mêmes limites de tolérance que pour l'acide ascorbique</td>
+<td>Mêmes limites de tolérance que pour l’acide ascorbique</td>
 </tr>
 <tr>
 <td>E.1</td>
@@ -23279,7 +23324,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(2)</td>
 <td>Compote de pommes en conserve</td>
 <td>(2)</td>
-<td>S'il est utilisé seul ou en combinaison avec l'acide ascorbique, la quantité totale n'excède pas 150 p.p.m.</td>
+<td>S’il est utilisé seul ou en combinaison avec l’acide ascorbique, la quantité totale n’excède pas 150 p.p.m.</td>
 </tr>
 <tr>
 <td></td>
@@ -23293,9 +23338,9 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>I.1</td>
 <td>Acide isoascorbique</td>
 <td></td>
-<td>Mêmes aliments que pour l'acide érythorbique</td>
+<td>Mêmes aliments que pour l’acide érythorbique</td>
 <td></td>
-<td>Mêmes limites de tolérance que pour l'acide érythorbique</td>
+<td>Mêmes limites de tolérance que pour l’acide érythorbique</td>
 </tr>
 <tr>
 <td>P.1</td>
@@ -23303,7 +23348,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(1)</td>
 <td>Liant à viande pour saucisse séchée; saucisse semi-séchée; viande conservée et sous-produits de viande conservée, préparés selon des méthodes de salaison lente (Titre 14)</td>
 <td>(1)</td>
-<td>Si le liant à viande est utilisé selon le mode d'emploi donné sur l'étiquette, que le nitrate de potassium soit ajouté seul ou avec du nitrate de sodium, la quantité totale de tels nitrates ainsi ajoutée à chaque lot de saucisse séchée, de saucisse semi-séchée, de viande conservée, ou de sous-produits de viande conservée ne doit pas excéder 0,32 once par 100 livres ou 200 parties par million, calculée avant que le produit ne soit fumé, cuit ou fermenté.</td>
+<td>Si le liant à viande est utilisé selon le mode d’emploi donné sur l’étiquette, que le nitrate de potassium soit ajouté seul ou avec du nitrate de sodium, la quantité totale de tels nitrates ainsi ajoutée à chaque lot de saucisse séchée, de saucisse semi-séchée, de viande conservée, ou de sous-produits de viande conservée ne doit pas excéder 0,32 once par 100 livres ou 200 parties par million, calculée avant que le produit ne soit fumé, cuit ou fermenté.</td>
 </tr>
 <tr>
 <td></td>
@@ -23311,7 +23356,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(2)</td>
 <td>Saumure et mélange de salaison à sec employés dans le marinage des viandes conservées et des sous-produits de viande conservée, préparés selon des méthodes de salaison lente (Titre 14)</td>
 <td>(2)</td>
-<td>Si la saumure ou le mélange de salaison à sec est utilisé selon le mode d'emploi donné sur l'étiquette, que le nitrate de potassium soit ajouté seul ou avec du nitrate de sodium, la quantité totale de tels nitrates ainsi ajouté à chaque lot de viande conservée ou de sous-produits de viande conservée ne doit pas excéder 0,32 once par 100 livres ou 200 parties par million, calculée avant que le produit ne soit fumé, cuit ou fermenté.</td>
+<td>Si la saumure ou le mélange de salaison à sec est utilisé selon le mode d’emploi donné sur l’étiquette, que le nitrate de potassium soit ajouté seul ou avec du nitrate de sodium, la quantité totale de tels nitrates ainsi ajouté à chaque lot de viande conservée ou de sous-produits de viande conservée ne doit pas excéder 0,32 once par 100 livres ou 200 parties par million, calculée avant que le produit ne soit fumé, cuit ou fermenté.</td>
 </tr>
 <tr>
 <td></td>
@@ -23325,9 +23370,9 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(4)</td>
-<td>Fromage mûri, ne contenant pas plus de 68 % d'humidité calculée sur la matière non-grasse, et dans la fabrication duquel la fermentation de l'acide lactique et le salage sont complétés plus de 12 heures après la coagulation de la caillebotte par des enzymes alimentaires, et à l'extérieur duquel on applique du sel, soit à l'état sec ou sous forme de saumure</td>
+<td>Fromage mûri, ne contenant pas plus de 68 % d’humidité calculée sur la matière non-grasse, et dans la fabrication duquel la fermentation de l’acide lactique et le salage sont complétés plus de 12 heures après la coagulation de la caillebotte par des enzymes alimentaires, et à l’extérieur duquel on applique du sel, soit à l’état sec ou sous forme de saumure</td>
 <td>(4)</td>
-<td>S'il est utilisé seul ou avec du nitrate de sodium, le produit contiendra une quantité maximale de 200 p.p.m. (basée sur le lait). Le résidu dans le fromage fini ne devra pas excéder 50 p.p.m.</td>
+<td>S’il est utilisé seul ou avec du nitrate de sodium, le produit contiendra une quantité maximale de 200 p.p.m. (basée sur le lait). Le résidu dans le fromage fini ne devra pas excéder 50 p.p.m.</td>
 </tr>
 <tr>
 <td></td>
@@ -23335,7 +23380,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(5)</td>
 <td>Fromage mûri; moulé; empaqueté à vide</td>
 <td>(5)</td>
-<td>S'il est utilisé seul ou avec du nitrate de sodium, le produit contiendra une quantité maximale de 200 p.p.m. (basée sur le lait). Le résidu dans le fromage fini ne devra pas excéder 50 p.p.m.</td>
+<td>S’il est utilisé seul ou avec du nitrate de sodium, le produit contiendra une quantité maximale de 200 p.p.m. (basée sur le lait). Le résidu dans le fromage fini ne devra pas excéder 50 p.p.m.</td>
 </tr>
 <tr>
 <td>P.2</td>
@@ -23343,7 +23388,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(1)</td>
 <td>Liant à viande; marinade; saumure et mélange de salaison à sec, utilisés dans le marinage de la viande conservée et des sous-produits de viande conservée (Titre 14)</td>
 <td>(1)</td>
-<td>Si le liant à viande, la saumure ou le mélange de salaison à sec est utilisé selon le mode d'emploi donné sur l'étiquette, que le nitrite de potassium soit ajouté seul ou avec du nitrite de sodium, la quantité totale de tels nitrites ajoutée à chaque lot de viande conservée ou de sous-produits de viande conservée ne doit pas excéder 0,32 once par 100 livres ou 200 parties par million, calculée avant que le produit ne soit fumé, cuit ou fermenté.</td>
+<td>Si le liant à viande, la saumure ou le mélange de salaison à sec est utilisé selon le mode d’emploi donné sur l’étiquette, que le nitrite de potassium soit ajouté seul ou avec du nitrite de sodium, la quantité totale de tels nitrites ajoutée à chaque lot de viande conservée ou de sous-produits de viande conservée ne doit pas excéder 0,32 once par 100 livres ou 200 parties par million, calculée avant que le produit ne soit fumé, cuit ou fermenté.</td>
 </tr>
 <tr>
 <td></td>
@@ -23373,17 +23418,17 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>S.1</td>
 <td>Ascorbate de sodium</td>
 <td></td>
-<td>Mêmes aliments que pour l'acide ascorbique</td>
+<td>Mêmes aliments que pour l’acide ascorbique</td>
 <td></td>
-<td>Mêmes limites de tolérance que pour l'acide ascorbique</td>
+<td>Mêmes limites de tolérance que pour l’acide ascorbique</td>
 </tr>
 <tr>
 <td>S.2</td>
 <td>Erythorbate de sodium</td>
 <td>(1)</td>
-<td>Mêmes aliments que pour l'acide érythorbique</td>
+<td>Mêmes aliments que pour l’acide érythorbique</td>
 <td>(1)</td>
-<td>Mêmes limites de tolérance que pour l'acide érythorbique</td>
+<td>Mêmes limites de tolérance que pour l’acide érythorbique</td>
 </tr>
 <tr>
 <td></td>
@@ -23397,9 +23442,9 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>S.3</td>
 <td>Iso-ascorbate de sodium</td>
 <td></td>
-<td>Mêmes aliments que pour l'acide érythorbique</td>
+<td>Mêmes aliments que pour l’acide érythorbique</td>
 <td></td>
-<td>Mêmes limites de tolérance que pour l'acide érythorbique</td>
+<td>Mêmes limites de tolérance que pour l’acide érythorbique</td>
 </tr>
 <tr>
 <td>S.4</td>
@@ -23407,7 +23452,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(1)</td>
 <td>Liant à viande pour saucisse séchée; saucisse semi-séchée; viande conservée et sous-produits de viande conservée, préparés selon des méthodes de salaison lente (Titre 14)</td>
 <td>(1)</td>
-<td>Si le liant à viande est utilisé selon le mode d'emploi donné sur l'étiquette, que le nitrate de sodium soit ajouté seul ou avec du nitrate de potassium, la quantité totale de tels nitrates ainsi ajoutée à chaque lot de saucisse séchée, de saucisse semi-séchée, de viande conservée ou de sous-produits de viande conservée, ne doit pas excéder 0,32 once par 100 livres ou 200 parties par million, calculée avant que le produit ne soit fumé, cuit ou fermenté.</td>
+<td>Si le liant à viande est utilisé selon le mode d’emploi donné sur l’étiquette, que le nitrate de sodium soit ajouté seul ou avec du nitrate de potassium, la quantité totale de tels nitrates ainsi ajoutée à chaque lot de saucisse séchée, de saucisse semi-séchée, de viande conservée ou de sous-produits de viande conservée, ne doit pas excéder 0,32 once par 100 livres ou 200 parties par million, calculée avant que le produit ne soit fumé, cuit ou fermenté.</td>
 </tr>
 <tr>
 <td></td>
@@ -23415,7 +23460,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(2)</td>
 <td>Saumure et mélange de salaison à sec utilisés dans le marinage de viande conservée et de sous-produits de viande conservée, préparés selon des méthodes de salaison lente (Titre 14)</td>
 <td>(2)</td>
-<td>Si la saumure ou le mélange de salaison à sec est utilisé selon le mode d'emploi donné sur l'étiquette, que le nitrate de sodium soit ajouté seul ou avec du nitrate de potassium, la quantité totale de tels nitrates ainsi ajoutée à chaque lot de viande conservée ou de sous-produits de viande conservée ne doit pas excéder 0,32 once par 100 livres ou 200 parties par million, calculée avant que le produit ne soit fumé, cuit ou fermenté.</td>
+<td>Si la saumure ou le mélange de salaison à sec est utilisé selon le mode d’emploi donné sur l’étiquette, que le nitrate de sodium soit ajouté seul ou avec du nitrate de potassium, la quantité totale de tels nitrates ainsi ajoutée à chaque lot de viande conservée ou de sous-produits de viande conservée ne doit pas excéder 0,32 once par 100 livres ou 200 parties par million, calculée avant que le produit ne soit fumé, cuit ou fermenté.</td>
 </tr>
 <tr>
 <td></td>
@@ -23429,9 +23474,9 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(4)</td>
-<td>Fromage mûri, ne contenant pas plus de 68 % d'humidité calculée sur la matière non-grasse, et dans la fabrication duquel la fermentation de l'acide lactique et le salage sont complétés plus de 12 heures après la coagulation de la caillebotte par des enzymes alimentaires et à l'exception duquel on applique du sel, soit à l'état sec ou sous forme de saumure</td>
+<td>Fromage mûri, ne contenant pas plus de 68 % d’humidité calculée sur la matière non-grasse, et dans la fabrication duquel la fermentation de l’acide lactique et le salage sont complétés plus de 12 heures après la coagulation de la caillebotte par des enzymes alimentaires et à l’exception duquel on applique du sel, soit à l’état sec ou sous forme de saumure</td>
 <td>(4)</td>
-<td>S'il est utilisé seul ou avec du nitrate de potassium, le produit contiendra une quantité maximale de 200 p.p.m. (basée sur le lait). Le résidu dans le fromage fini ne devra pas excéder 50 p.p.m.</td>
+<td>S’il est utilisé seul ou avec du nitrate de potassium, le produit contiendra une quantité maximale de 200 p.p.m. (basée sur le lait). Le résidu dans le fromage fini ne devra pas excéder 50 p.p.m.</td>
 </tr>
 <tr>
 <td></td>
@@ -23439,7 +23484,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(5)</td>
 <td>Fromage mûri; moulé; empaqueté à vide</td>
 <td>(5)</td>
-<td>S'il est utilisé seul ou avec du nitrate de potassium, le produit contiendra une quantité maximale de 200 p.p.m. (basée sur le lait). Le résidu dans le fromage fini ne devra pas excéder 50 p.p.m.</td>
+<td>S’il est utilisé seul ou avec du nitrate de potassium, le produit contiendra une quantité maximale de 200 p.p.m. (basée sur le lait). Le résidu dans le fromage fini ne devra pas excéder 50 p.p.m.</td>
 </tr>
 <tr>
 <td>S.5</td>
@@ -23447,7 +23492,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(1)</td>
 <td>Liant à viande; marinade; saumure et mélange de salaison à sec utilisés pour le marinage de viande conservée et de sous-produits de viande conservée (Titre 14)</td>
 <td>(1)</td>
-<td>Si le liant à viande, la marinade, la saumure ou le mélange de salaison à sec est utilisé selon le mode d'emploi donné sur l'étiquette, que le nitrite de sodium soit ajouté seul ou avec du nitrite de potassium, la quantité totale de tels nitrites ainsi ajoutée à chaque lot de viande conservée ou de sous-produits de viande conservée ne doit pas excéder 0,32 once par 100 livres ou 200 parties par million, calculée avant que le produit ne soit fumé, cuit ou fermenté.</td>
+<td>Si le liant à viande, la marinade, la saumure ou le mélange de salaison à sec est utilisé selon le mode d’emploi donné sur l’étiquette, que le nitrite de sodium soit ajouté seul ou avec du nitrite de potassium, la quantité totale de tels nitrites ainsi ajoutée à chaque lot de viande conservée ou de sous-produits de viande conservée ne doit pas excéder 0,32 once par 100 livres ou 200 parties par million, calculée avant que le produit ne soit fumé, cuit ou fermenté.</td>
 </tr>
 <tr>
 <td></td>
@@ -23518,7 +23563,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>B.1</td>
 <td>Acide benzoïque</td>
 <td>(1)</td>
-<td>Confiture de pommes (ou de rhubarbe) et de (nom du fruit); marmelade de figues avec pectine; jus de fruit sauf le jus d'orange concentré congelé; confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; gelée de (nom du fruit) avec pectine; poisson et viande emballés, marinés ou conditionnés à froid par une autre méthode analogue (Titre 21); marmelade de (nom de l'agrume) avec pectine; mincemeat; cornichons et achards (relish); marmelade d'ananas avec pectine; ketchup de tomates; pâte de tomates; pulpe de tomates; purée de tomates</td>
+<td>Confiture de pommes (ou de rhubarbe) et de (nom du fruit); marmelade de figues avec pectine; jus de fruit sauf le jus d’orange concentré congelé; confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; gelée de (nom du fruit) avec pectine; poisson et viande emballés, marinés ou conditionnés à froid par une autre méthode analogue (Titre 21); marmelade de (nom de l’agrume) avec pectine; mincemeat; cornichons et achards (relish); marmelade d’ananas avec pectine; ketchup de tomates; pâte de tomates; pulpe de tomates; purée de tomates</td>
 <td>(1)</td>
 <td>1 000 p.p.m.</td>
 </tr>
@@ -23526,7 +23571,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Aliments non normalisés, [à l'exception des préparations non normalisées de</td>
+<td>Aliments non normalisés, [à l’exception des préparations non normalisées de</td>
 <td>(2)</td>
 <td>1 000 p.p.m.</td>
 </tr>
@@ -23560,15 +23605,15 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(3)</td>
 <td>Margarine</td>
 <td>(3)</td>
-<td>Si utilisé seul ou en association avec de l'acide sorbique; la quantité totale ne doit pas excéder 1 000 p.p.m.</td>
+<td>Si utilisé seul ou en association avec de l’acide sorbique; la quantité totale ne doit pas excéder 1 000 p.p.m.</td>
 </tr>
 <tr>
 <td>C.1</td>
 <td>Sorbate de calcium</td>
 <td></td>
-<td>Mêmes aliments que pour l'acide sorbique</td>
+<td>Mêmes aliments que pour l’acide sorbique</td>
 <td></td>
-<td>Mêmes limites de tolérance que pour l'acide sorbique</td>
+<td>Mêmes limites de tolérance que pour l’acide sorbique</td>
 </tr>
 <tr>
 <td>H.1</td>
@@ -23582,7 +23627,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>M.1</td>
 <td>Benzoate de p-hydroxyméthyle</td>
 <td>(1)</td>
-<td>Confiture de pommes (ou de rhubarbe) et de (nom du fruit); marmelade de figues avec pectine; jus de fruit sauf le jus d'orange concentré congelé; confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; gelée de (nom du fruit) avec pectine; poisson et viande emballés, marinés ou conditionnés à froid par une autre méthode analogue (Titre 21); marmelade de (nom de l'agrume) avec pectine; mincemeat; cornichons et achards (relish); marmelade d'ananas avec pectine; ketchup de tomates; pâte de tomates; pulpe de tomates; purée de tomates</td>
+<td>Confiture de pommes (ou de rhubarbe) et de (nom du fruit); marmelade de figues avec pectine; jus de fruit sauf le jus d’orange concentré congelé; confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; gelée de (nom du fruit) avec pectine; poisson et viande emballés, marinés ou conditionnés à froid par une autre méthode analogue (Titre 21); marmelade de (nom de l’agrume) avec pectine; mincemeat; cornichons et achards (relish); marmelade d’ananas avec pectine; ketchup de tomates; pâte de tomates; pulpe de tomates; purée de tomates</td>
 <td>(1)</td>
 <td>1 000 p.p.m.</td>
 </tr>
@@ -23590,7 +23635,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Aliments non normalisés, [à l'exception des préparations non normalisées de</td>
+<td>Aliments non normalisés, [à l’exception des préparations non normalisées de</td>
 <td>(2)</td>
 <td>1 000 p.p.m.</td>
 </tr>
@@ -23630,7 +23675,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>P.1</td>
 <td>Benzoate de potassium</td>
 <td></td>
-<td>Mêmes aliments que pour l'acide benzoïque</td>
+<td>Mêmes aliments que pour l’acide benzoïque</td>
 <td></td>
 <td>1 000 p.p.m., calculé en acide benzoïque</td>
 </tr>
@@ -23638,31 +23683,31 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>P.2</td>
 <td>Bisulfite de potassium</td>
 <td></td>
-<td>Mêmes aliments que pour l'anhydride sulfureux</td>
+<td>Mêmes aliments que pour l’anhydride sulfureux</td>
 <td></td>
-<td>Mêmes limites de tolérance que pour l'anhydride sulfureux</td>
+<td>Mêmes limites de tolérance que pour l’anhydride sulfureux</td>
 </tr>
 <tr>
 <td>P.3</td>
 <td>Métabisulfite de potassium</td>
 <td></td>
-<td>Mêmes aliments que pour l'anhydride sulfureux</td>
+<td>Mêmes aliments que pour l’anhydride sulfureux</td>
 <td></td>
-<td>Mêmes limites de tolérance que pour l'anhydride sulfureux</td>
+<td>Mêmes limites de tolérance que pour l’anhydride sulfureux</td>
 </tr>
 <tr>
 <td>P.4</td>
 <td>Sorbate de potassium</td>
 <td></td>
-<td>Mêmes aliments que pour l'acide sorbique</td>
+<td>Mêmes aliments que pour l’acide sorbique</td>
 <td></td>
-<td>Mêmes limites de tolérance que pour l'acide sorbique</td>
+<td>Mêmes limites de tolérance que pour l’acide sorbique</td>
 </tr>
 <tr>
 <td>P.5</td>
 <td>Benzoate de p-hydroxypropyle</td>
 <td>(1)</td>
-<td>Confiture de pommes (ou de rhubarbe) et de (nom du fruit); marmelade de figues avec pectine; jus de fruit sauf le jus d'orange concentré congelé; confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; gelée de (nom du fruit) avec pectine; poisson et viande emballés, marinés ou conditionnés à froid par une autre méthode analogue (Titre 21); marmelade de (nom de l'agrume) avec pectine; mincemeat; cornichons et achards (relish); marmelade d'ananas avec pectine; ketchup de tomates; pâte de tomates; pulpe de tomates; purée de tomates</td>
+<td>Confiture de pommes (ou de rhubarbe) et de (nom du fruit); marmelade de figues avec pectine; jus de fruit sauf le jus d’orange concentré congelé; confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; gelée de (nom du fruit) avec pectine; poisson et viande emballés, marinés ou conditionnés à froid par une autre méthode analogue (Titre 21); marmelade de (nom de l’agrume) avec pectine; mincemeat; cornichons et achards (relish); marmelade d’ananas avec pectine; ketchup de tomates; pâte de tomates; pulpe de tomates; purée de tomates</td>
 <td>(1)</td>
 <td>1 000 p.p.m.</td>
 </tr>
@@ -23670,7 +23715,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Aliments non normalisés, [à l'exception des préparations non normalisées de</td>
+<td>Aliments non normalisés, [à l’exception des préparations non normalisées de</td>
 <td>(2)</td>
 <td>1 000 p.p.m.</td>
 </tr>
@@ -23710,7 +23755,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>S.1</td>
 <td>Benzoate de sodium</td>
 <td></td>
-<td>Mêmes aliments que pour l'acide benzoïque</td>
+<td>Mêmes aliments que pour l’acide benzoïque</td>
 <td></td>
 <td>1 000 p.p.m., calculé en acide benzoïque</td>
 </tr>
@@ -23718,21 +23763,21 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>S.2</td>
 <td>Bisulfite de sodium</td>
 <td></td>
-<td>Mêmes aliments que pour l'anhydride sulfureux</td>
+<td>Mêmes aliments que pour l’anhydride sulfureux</td>
 <td></td>
-<td>Mêmes limites de tolérance que pour l'anhydride sulfureux</td>
+<td>Mêmes limites de tolérance que pour l’anhydride sulfureux</td>
 </tr>
 <tr>
 <td>S.3</td>
 <td>Métabisulfite de sodium</td>
 <td></td>
-<td>Mêmes aliments que pour l'anhydride sulfureux</td>
+<td>Mêmes aliments que pour l’anhydride sulfureux</td>
 <td></td>
-<td>Mêmes limites de tolérance que pour l'anhydride sulfureux</td>
+<td>Mêmes limites de tolérance que pour l’anhydride sulfureux</td>
 </tr>
 <tr>
 <td>S.4</td>
-<td>Sel sodique de l'acide p-hydroxyméthyl benzoïque</td>
+<td>Sel sodique de l’acide p-hydroxyméthyl benzoïque</td>
 <td></td>
 <td>Mêmes aliments que pour le benzoate de p-hydroxyméthyle</td>
 <td></td>
@@ -23740,7 +23785,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 <tr>
 <td>S.5</td>
-<td>Sel sodique de l'acide p-hydroxypropyl</td>
+<td>Sel sodique de l’acide p-hydroxypropyl</td>
 <td></td>
 <td>Mêmes aliments que pour le benzoate de p-hydroxypropyle</td>
 <td></td>
@@ -23750,31 +23795,31 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>S.6</td>
 <td>Sorbate de sodium</td>
 <td></td>
-<td>Mêmes aliments que pour l'acide sorbique</td>
+<td>Mêmes aliments que pour l’acide sorbique</td>
 <td></td>
-<td>Mêmes limites de tolérance que pour l'acide sorbique</td>
+<td>Mêmes limites de tolérance que pour l’acide sorbique</td>
 </tr>
 <tr>
 <td>S.7</td>
 <td>Sulfite de sodium</td>
 <td></td>
-<td>Mêmes aliments que pour l'anhydride sulfureux</td>
+<td>Mêmes aliments que pour l’anhydride sulfureux</td>
 <td></td>
-<td>Mêmes limites de tolérance que pour l'anhydride sulfureux</td>
+<td>Mêmes limites de tolérance que pour l’anhydride sulfureux</td>
 </tr>
 <tr>
 <td>S.8</td>
 <td>Dithionite de sodium</td>
 <td></td>
-<td>Mêmes aliments que pour l'anhydride sulfureux</td>
+<td>Mêmes aliments que pour l’anhydride sulfureux</td>
 <td></td>
-<td>Mêmes limites de tolérance que pour l'anhydride sulfureux</td>
+<td>Mêmes limites de tolérance que pour l’anhydride sulfureux</td>
 </tr>
 <tr>
 <td>S.9</td>
 <td>Acide sorbique</td>
 <td>(1)</td>
-<td>Confiture de pommes (ou de rhubarbe) et de (nom du fruit); marmelade de figues avec pectine; jus de fruit sauf le jus d'orange concentré congelé; confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; gelée de (nom du fruit) avec pectine; marmelade de (nom de l'agrume) avec pectine; mincemeat; marinades et achards (relish); marmelade d'ananas avec pectine; poisson desséché, fumé ou salé; pâte de poisson fumé ou salé; sirop (nom de la source de glucose); ketchup de tomates; pâte de tomates; pulpe de tomates; purée de tomates</td>
+<td>Confiture de pommes (ou de rhubarbe) et de (nom du fruit); marmelade de figues avec pectine; jus de fruit sauf le jus d’orange concentré congelé; confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; gelée de (nom du fruit) avec pectine; marmelade de (nom de l’agrume) avec pectine; mincemeat; marinades et achards (relish); marmelade d’ananas avec pectine; poisson desséché, fumé ou salé; pâte de poisson fumé ou salé; sirop (nom de la source de glucose); ketchup de tomates; pâte de tomates; pulpe de tomates; purée de tomates</td>
 <td>(1)</td>
 <td>1 000 p.p.m.</td>
 </tr>
@@ -23782,7 +23827,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Aliments non normalisés [à l'exception des préparations non normalisées de</td>
+<td>Aliments non normalisés [à l’exception des préparations non normalisées de</td>
 <td>(2)</td>
 <td>1 000 p.p.m.</td>
 </tr>
@@ -23814,7 +23859,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Saumure d'olive</td>
+<td>Saumure d’olive</td>
 <td>(3)</td>
 <td>300 p.p.m.</td>
 </tr>
@@ -23824,7 +23869,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(4)</td>
 <td>Margarine</td>
 <td>(4)</td>
-<td>Si utilisé seul ou en association avec de l'acide benzoïque, la quantité totale ne doit pas excéder 1 000 p.p.m.</td>
+<td>Si utilisé seul ou en association avec de l’acide benzoïque, la quantité totale ne doit pas excéder 1 000 p.p.m.</td>
 </tr>
 <tr>
 <td></td>
@@ -23840,7 +23885,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(1)</td>
 <td>Cidre; vin de miel; vin</td>
 <td>(1)</td>
-<td>70 p.p.m. à l'état libre, ou 350 p.p.m. en combinaison, calculé en anhydride sulfureux</td>
+<td>70 p.p.m. à l’état libre, ou 350 p.p.m. en combinaison, calculé en anhydride sulfureux</td>
 </tr>
 <tr>
 <td></td>
@@ -23854,7 +23899,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Confiture de pommes (ou de rhubarbe) et de (nom du fruit); mélasse qualité fantaisie; marmelade de figues avec pectine; pommes tranchées et congelées; jus de fruit sauf le jus d'orange concentré congelé; gélatine; confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; gelée de (nom du fruit) avec pectine; marmelade de (nom de l'agrume) avec pectine; mincemeat; cornichons et achards (relish); marmelade d'ananas avec pectine; sirop (nom de la source de glucose); mélasse de raffinerie; mélasse de table; ketchup de tomates; pâte de tomates; pulpe de tomates; purée de tomates</td>
+<td>Confiture de pommes (ou de rhubarbe) et de (nom du fruit); mélasse qualité fantaisie; marmelade de figues avec pectine; pommes tranchées et congelées; jus de fruit sauf le jus d’orange concentré congelé; gélatine; confiture de (nom du fruit); confiture de (nom du fruit) avec pectine; gelée de (nom du fruit) avec pectine; marmelade de (nom de l’agrume) avec pectine; mincemeat; cornichons et achards (relish); marmelade d’ananas avec pectine; sirop (nom de la source de glucose); mélasse de raffinerie; mélasse de table; ketchup de tomates; pâte de tomates; pulpe de tomates; purée de tomates</td>
 <td>(3)</td>
 <td>500 p.p.m., calculé en anhydride sulfureux</td>
 </tr>
@@ -23878,7 +23923,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(6)</td>
-<td>Aliments non normalisés, [à l'exception des aliments reconnus comme sources de thiamine et des préparations non normalisées de</td>
+<td>Aliments non normalisés, [à l’exception des aliments reconnus comme sources de thiamine et des préparations non normalisées de</td>
 <td>(6)</td>
 <td>500 p.p.m., calculé en anhydride sulfureux</td>
 </tr>
@@ -23967,7 +24012,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>C.1</td>
 <td>Propionate de calcium</td>
 <td>(1)</td>
-<td>Mêmes aliments que pour l'acide propionique</td>
+<td>Mêmes aliments que pour l’acide propionique</td>
 <td>(1)</td>
 <td>2 000 p.p.m., calculé sous forme d’acide propionique</td>
 </tr>
@@ -23983,9 +24028,9 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>C.2</td>
 <td>Sorbate de calcium</td>
 <td></td>
-<td>Mêmes aliments que pour l'acide sorbique</td>
+<td>Mêmes aliments que pour l’acide sorbique</td>
 <td></td>
-<td>Mêmes limites de tolérance que pour l'acide sorbique</td>
+<td>Mêmes limites de tolérance que pour l’acide sorbique</td>
 </tr>
 <tr>
 <td>N.1</td>
@@ -24007,9 +24052,9 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>P.1</td>
 <td>Sorbate de potassium</td>
 <td>(1)</td>
-<td>Mêmes aliments que pour l'acide sorbique</td>
+<td>Mêmes aliments que pour l’acide sorbique</td>
 <td>(1)</td>
-<td>Mêmes limites de tolérance que pour l'acide sorbique</td>
+<td>Mêmes limites de tolérance que pour l’acide sorbique</td>
 </tr>
 <tr>
 <td></td>
@@ -24039,7 +24084,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Aliments non normalisés, à l'exception des préparations non normalisées</td>
+<td>Aliments non normalisés, à l’exception des préparations non normalisées</td>
 <td>(3)</td>
 <td>2 000 p.p.m.</td>
 </tr>
@@ -24079,7 +24124,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Aliments non normalisés, [à l'exception des préparations non normalisées de</td>
+<td>Aliments non normalisés, [à l’exception des préparations non normalisées de</td>
 <td>(2)</td>
 <td>3 000 p.p.m.</td>
 </tr>
@@ -24111,7 +24156,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>S.2</td>
 <td>Propionate de sodium</td>
 <td></td>
-<td>Mêmes aliments que pour l'acide propionique</td>
+<td>Mêmes aliments que pour l’acide propionique</td>
 <td></td>
 <td>2 000 p.p.m., calculé en acide propionique</td>
 </tr>
@@ -24119,9 +24164,9 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>S.3</td>
 <td>Sorbate de sodium</td>
 <td></td>
-<td>Mêmes aliments que pour l'acide sorbique</td>
+<td>Mêmes aliments que pour l’acide sorbique</td>
 <td></td>
-<td>Mêmes limites de tolérance que pour l'acide sorbique</td>
+<td>Mêmes limites de tolérance que pour l’acide sorbique</td>
 </tr>
 <tr>
 <td>S.4</td>
@@ -24151,7 +24196,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(4)</td>
-<td>Aliments non normalisés, à l'exception des préparations non normalisées</td>
+<td>Aliments non normalisés, à l’exception des préparations non normalisées</td>
 <td>(4)</td>
 <td>1 000 p.p.m.</td>
 </tr>
@@ -24214,7 +24259,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 <tr>
 <td>A.2</td>
-<td>Palmitate d'ascorbyle</td>
+<td>Palmitate d’ascorbyle</td>
 <td>(1)</td>
 <td>Huiles et graisses; saindoux; monoglycérides et diglycérides; *shortening*</td>
 <td>(1)</td>
@@ -24224,7 +24269,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Aliments non normalisés, [à l'exception des préparations non normalisées de</td>
+<td>Aliments non normalisés, [à l’exception des préparations non normalisées de</td>
 <td>(2)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -24258,11 +24303,11 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(3)</td>
 <td>Margarine</td>
 <td>(3)</td>
-<td>0,02 % de la teneur en gras. Si on emploie aussi le stéarate d'ascorbyle, la quantité totale ne doit pas excéder 0,02 % de la teneur en gras</td>
+<td>0,02 % de la teneur en gras. Si on emploie aussi le stéarate d’ascorbyle, la quantité totale ne doit pas excéder 0,02 % de la teneur en gras</td>
 </tr>
 <tr>
 <td>A.3</td>
-<td>Stéarate d'ascorbyle</td>
+<td>Stéarate d’ascorbyle</td>
 <td>(1)</td>
 <td>Graisses et huiles; saindoux; monoglycérides et diglycérides; *shortening*</td>
 <td>(1)</td>
@@ -24274,7 +24319,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(2)</td>
 <td>Margarine</td>
 <td>(2)</td>
-<td>0,02 % de la teneur en gras. Si on emploie aussi le palmitate d'ascorbyle, la quantité totale ne doit pas excéder 0,02 % de la teneur en gras</td>
+<td>0,02 % de la teneur en gras. Si on emploie aussi le palmitate d’ascorbyle, la quantité totale ne doit pas excéder 0,02 % de la teneur en gras</td>
 </tr>
 <tr>
 <td>B.1</td>
@@ -24282,7 +24327,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(1)</td>
 <td>Graisses et huiles, saindoux, shortening</td>
 <td>(1)</td>
-<td>0,02 %. Si on emploie aussi l'hydroxytoluène butylé, l'hydroquinone de butyle tertiaire ou le gallate de propyle, la quantité totale ne doit pas dépasser 0,02 %</td>
+<td>0,02 %. Si on emploie aussi l’hydroxytoluène butylé, l’hydroquinone de butyle tertiaire ou le gallate de propyle, la quantité totale ne doit pas dépasser 0,02 %</td>
 </tr>
 <tr>
 <td></td>
@@ -24290,7 +24335,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(2)</td>
 <td>Céréales à déjeuner sèches; produits déshydratés de pommes de terre</td>
 <td>(2)</td>
-<td>0,005 %. Si on emploie aussi l'hydroxytoluène butylé ou le gallate de propyle, la quantité ne doit pas en dépasser 0,005 %</td>
+<td>0,005 %. Si on emploie aussi l’hydroxytoluène butylé ou le gallate de propyle, la quantité ne doit pas en dépasser 0,005 %</td>
 </tr>
 <tr>
 <td></td>
@@ -24298,23 +24343,23 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(3)</td>
 <td>Gomme à mâcher</td>
 <td>(3)</td>
-<td>0,02 %. Si on emploie aussi l'hydroxytoluène butylé ou le gallate de propyle, la quantité ne doit pas en dépasser 0,02 %</td>
+<td>0,02 %. Si on emploie aussi l’hydroxytoluène butylé ou le gallate de propyle, la quantité ne doit pas en dépasser 0,02 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>(4)</td>
-<td>Huiles essentielles; essences à base d'huile d'agrumes; substances aromatiques sèches</td>
+<td>Huiles essentielles; essences à base d’huile d’agrumes; substances aromatiques sèches</td>
 <td>(4)</td>
-<td>0,125 %. Si on emploie aussi l'hydroxytoluène butylé ou le gallate de propyle, la quantité ne doit pas en dépasser 0,125 %</td>
+<td>0,125 %. Si on emploie aussi l’hydroxytoluène butylé ou le gallate de propyle, la quantité ne doit pas en dépasser 0,125 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>(5)</td>
-<td>Huiles d'agrumes</td>
+<td>Huiles d’agrumes</td>
 <td>(5)</td>
-<td>0,5 %. Si on emploie aussi l'hydroxytoluène butylé ou le gallate de propyle, la quantité ne doit pas en dépasser 0,5 %</td>
+<td>0,5 %. Si on emploie aussi l’hydroxytoluène butylé ou le gallate de propyle, la quantité ne doit pas en dépasser 0,5 %</td>
 </tr>
 <tr>
 <td></td>
@@ -24322,13 +24367,13 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(6)</td>
 <td>Tissus gras de porc ou de boeuf partiellement dégraissés</td>
 <td>(6)</td>
-<td>0,0065 %. Si on emploie aussi l'hydroxytoluène butylé, la quantité ne doit pas en dépasser 0,0065 %</td>
+<td>0,0065 %. Si on emploie aussi l’hydroxytoluène butylé, la quantité ne doit pas en dépasser 0,0065 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>(7)</td>
-<td>Liquides renfermant de la vitamine A et devant servir d'additifs alimentaires</td>
+<td>Liquides renfermant de la vitamine A et devant servir d’additifs alimentaires</td>
 <td>(7)</td>
 <td>5 mg/1 000 000 unités internationales</td>
 </tr>
@@ -24352,9 +24397,9 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(10)</td>
-<td>Autres aliments non normalisés, [à l'exception des préparations non normalisées de</td>
+<td>Autres aliments non normalisés, [à l’exception des préparations non normalisées de</td>
 <td>(10)</td>
-<td>0,02 % de la teneur de l'aliment en gras ou en huile. Si on emploie aussi l'hydroxytoluène butylé ou le gallate de propyle, la quantité ne doit pas en dépasser 0,02 % de la teneur de l'aliment en gras ou en huile</td>
+<td>0,02 % de la teneur de l’aliment en gras ou en huile. Si on emploie aussi l’hydroxytoluène butylé ou le gallate de propyle, la quantité ne doit pas en dépasser 0,02 % de la teneur de l’aliment en gras ou en huile</td>
 </tr>
 <tr>
 <td></td>
@@ -24393,7 +24438,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(12)</td>
 <td>Margarine</td>
 <td>(12)</td>
-<td>0,01 % de la teneur en gras. Si on emploie aussi l'hydroxytoluène butylé ou le gallate de propyle ou les deux, la quantité totale ne doit pas excéder 0,01 % de la teneur en gras</td>
+<td>0,01 % de la teneur en gras. Si on emploie aussi l’hydroxytoluène butylé ou le gallate de propyle ou les deux, la quantité totale ne doit pas excéder 0,01 % de la teneur en gras</td>
 </tr>
 <tr>
 <td></td>
@@ -24401,7 +24446,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(13)</td>
 <td>Viande de volaille cuite et séchée</td>
 <td>(13)</td>
-<td>0,015 % de la teneur en gras. Si on emploie aussi le gallate de propyle ou l'acide citrique, ou les deux, la quantité totale ne doit pas excéder 0,015 % de la teneur en gras.</td>
+<td>0,015 % de la teneur en gras. Si on emploie aussi le gallate de propyle ou l’acide citrique, ou les deux, la quantité totale ne doit pas excéder 0,015 % de la teneur en gras.</td>
 </tr>
 <tr>
 <td>B.2</td>
@@ -24409,7 +24454,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(1)</td>
 <td>Graisses et huiles, saindoux, shortening</td>
 <td>(1)</td>
-<td>0,02 %. Si on emploie aussi l'hydroxyanisole butylée, l'hydroquinone de butyle tertiaire ou le gallate de propyle, la quantité totale ne doit pas dépasser 0,02 %</td>
+<td>0,02 %. Si on emploie aussi l’hydroxyanisole butylée, l’hydroquinone de butyle tertiaire ou le gallate de propyle, la quantité totale ne doit pas dépasser 0,02 %</td>
 </tr>
 <tr>
 <td></td>
@@ -24417,7 +24462,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(2)</td>
 <td>Céréales à déjeuner sèches; produits de pommes de terre déshydratés</td>
 <td>(2)</td>
-<td>0,005 %. Si on emploie aussi l'hydroxyanisole butylé ou le gallate de propyle, la quantité ne doit pas en dépasser 0,005 %</td>
+<td>0,005 %. Si on emploie aussi l’hydroxyanisole butylé ou le gallate de propyle, la quantité ne doit pas en dépasser 0,005 %</td>
 </tr>
 <tr>
 <td></td>
@@ -24425,23 +24470,23 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(3)</td>
 <td>Gomme à mâcher</td>
 <td>(3)</td>
-<td>0,02 %. Si on emploie aussi l'hydroxyanisole butylé ou le gallate de propyle, la quantité ne doit pas en dépasser 0,02 %</td>
+<td>0,02 %. Si on emploie aussi l’hydroxyanisole butylé ou le gallate de propyle, la quantité ne doit pas en dépasser 0,02 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>(4)</td>
-<td>Huiles essentielles; essences à base d'huiles d'agrumes; substances aromatiques sèches</td>
+<td>Huiles essentielles; essences à base d’huiles d’agrumes; substances aromatiques sèches</td>
 <td>(4)</td>
-<td>0,125 %. Si on emploie aussi l'hydroxyanisole butylé, ou le gallate de propyle, la quantité ne doit pas en dépasser 0,125 %</td>
+<td>0,125 %. Si on emploie aussi l’hydroxyanisole butylé, ou le gallate de propyle, la quantité ne doit pas en dépasser 0,125 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>(5)</td>
-<td>Huiles d'agrumes</td>
+<td>Huiles d’agrumes</td>
 <td>(5)</td>
-<td>0,5 %. Si on emploie aussi l'hydroxyanisole butylé ou le gallate de propyle, la quantité ne doit pas en dépasser 0,5 %</td>
+<td>0,5 %. Si on emploie aussi l’hydroxyanisole butylé ou le gallate de propyle, la quantité ne doit pas en dépasser 0,5 %</td>
 </tr>
 <tr>
 <td></td>
@@ -24449,13 +24494,13 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(6)</td>
 <td>Tissus gras de porc ou de boeuf, partiellement dégraissés</td>
 <td>(6)</td>
-<td>0,0065 %. Si on emploie aussi l'hydroxyanisole butylé, la quantité ne doit pas en dépasser 0,0065 %</td>
+<td>0,0065 %. Si on emploie aussi l’hydroxyanisole butylé, la quantité ne doit pas en dépasser 0,0065 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>(7)</td>
-<td>Liquides renfermant de la vitamine A et devant servir d'additifs alimentaires</td>
+<td>Liquides renfermant de la vitamine A et devant servir d’additifs alimentaires</td>
 <td>(7)</td>
 <td>5 mg/1 000 000 unités internationales</td>
 </tr>
@@ -24471,9 +24516,9 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(9)</td>
-<td>Autres aliments non normalisés, [à l'exception des préparations non normalisées de</td>
+<td>Autres aliments non normalisés, [à l’exception des préparations non normalisées de</td>
 <td>(9)</td>
-<td>0,02 % de la teneur des aliments en gras ou en huile. Si on emploie aussi l'hydroxyanisole butylé ou le gallate de propyle, la quantité ne doit pas en dépasser 0,02 % de la teneur de l'aliment en gras ou en huile</td>
+<td>0,02 % de la teneur des aliments en gras ou en huile. Si on emploie aussi l’hydroxyanisole butylé ou le gallate de propyle, la quantité ne doit pas en dépasser 0,02 % de la teneur de l’aliment en gras ou en huile</td>
 </tr>
 <tr>
 <td></td>
@@ -24512,7 +24557,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(11)</td>
 <td>Margarine</td>
 <td>(11)</td>
-<td>0,01 % de la teneur en gras. Si on emploie aussi l'hydroxyanisole butylé ou le gallate de propyle ou les deux, la quantité totale ne doit pas excéder 0,01 % de la teneur en gras</td>
+<td>0,01 % de la teneur en gras. Si on emploie aussi l’hydroxyanisole butylé ou le gallate de propyle ou les deux, la quantité totale ne doit pas excéder 0,01 % de la teneur en gras</td>
 </tr>
 <tr>
 <td>C.1</td>
@@ -24526,7 +24571,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Aliments non normalisés, [à l'exception des préparations non normalisées de</td>
+<td>Aliments non normalisés, [à l’exception des préparations non normalisées de</td>
 <td>(2)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -24560,13 +24605,13 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(3)</td>
 <td>Viande de volaille cuite et séchée</td>
 <td>(3)</td>
-<td>0,015 % de la teneur en gras. Si on emploie aussi l'hydroxyanisole butylé ou le gallate de propyle, ou les deux, la quantité totale ne doit pas excéder 0,015 % de la teneur en gras.</td>
+<td>0,015 % de la teneur en gras. Si on emploie aussi l’hydroxyanisole butylé ou le gallate de propyle, ou les deux, la quantité totale ne doit pas excéder 0,015 % de la teneur en gras.</td>
 </tr>
 <tr>
 <td>C.1.1</td>
 <td>L-cystéine</td>
 <td></td>
-<td>Suppléments nutritifs conformes à l'article B.24.201</td>
+<td>Suppléments nutritifs conformes à l’article B.24.201</td>
 <td></td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -24590,7 +24635,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Aliments non normalisés, [à l'exception des préparations non normalisées de</td>
+<td>Aliments non normalisés, [à l’exception des préparations non normalisées de</td>
 <td>(2)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -24630,7 +24675,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Aliments non normalisés, [à l'exception des préparations non normalisées de</td>
+<td>Aliments non normalisés, [à l’exception des préparations non normalisées de</td>
 <td>(2)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -24670,7 +24715,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Aliments non normalisés, [à l'exception des préparations non normalisées de</td>
+<td>Aliments non normalisés, [à l’exception des préparations non normalisées de</td>
 <td>(2)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -24710,7 +24755,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Aliments non normalisés, [à l'exception des préparations non normalisées de</td>
+<td>Aliments non normalisés, [à l’exception des préparations non normalisées de</td>
 <td>(2)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -24758,7 +24803,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Aliments non normalisés, [à l'exception des préparations non normalisées de</td>
+<td>Aliments non normalisés, [à l’exception des préparations non normalisées de</td>
 <td>(2)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -24800,7 +24845,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(1)</td>
 <td>Graisses et huiles, saindoux, shortening</td>
 <td>(1)</td>
-<td>0,02 %. Si on emploie aussi l'hydroxyanisole butylée, l'hydroxytoluène butylé, l'hydroquinone de butyle tertiaire, la quantité totale ne doit pas dépasser 0,02 %</td>
+<td>0,02 %. Si on emploie aussi l’hydroxyanisole butylée, l’hydroxytoluène butylé, l’hydroquinone de butyle tertiaire, la quantité totale ne doit pas dépasser 0,02 %</td>
 </tr>
 <tr>
 <td></td>
@@ -24808,7 +24853,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(2)</td>
 <td>Céréales à déjeuner sèches; produits déshydratés de pommes de terre</td>
 <td>(2)</td>
-<td>0,005 %. Si on emploie aussi l'hydroxyanisole butylé ou l'hydroxytoluène butylé, la quantité ne doit pas en dépasser 0,005 %</td>
+<td>0,005 %. Si on emploie aussi l’hydroxyanisole butylé ou l’hydroxytoluène butylé, la quantité ne doit pas en dépasser 0,005 %</td>
 </tr>
 <tr>
 <td></td>
@@ -24816,7 +24861,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(3)</td>
 <td>Gomme à mâcher</td>
 <td>(3)</td>
-<td>0,02 %. Si on emploie aussi l'hydroxyanisole butylé ou l'hydroxytoluène butylé, la quantité ne doit pas en dépasser 0,02 %</td>
+<td>0,02 %. Si on emploie aussi l’hydroxyanisole butylé ou l’hydroxytoluène butylé, la quantité ne doit pas en dépasser 0,02 %</td>
 </tr>
 <tr>
 <td></td>
@@ -24824,23 +24869,23 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(4)</td>
 <td>Huiles essentielles; substances aromatiques sèches</td>
 <td>(4)</td>
-<td>0,125 %. Si on emploie aussi l'hydroxyanisole butylé ou l'hydroxytoluène butylé la quantité ne doit pas en dépasser 0,125 %</td>
+<td>0,125 %. Si on emploie aussi l’hydroxyanisole butylé ou l’hydroxytoluène butylé la quantité ne doit pas en dépasser 0,125 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>(5)</td>
-<td>Huiles d'agrumes</td>
+<td>Huiles d’agrumes</td>
 <td>(5)</td>
-<td>0,5 %. Si on emploie aussi l'hydroxyanisole butylé ou l'hydroxytoluène butylé, la quantité ne doit pas en dépasser 0,5 %</td>
+<td>0,5 %. Si on emploie aussi l’hydroxyanisole butylé ou l’hydroxytoluène butylé, la quantité ne doit pas en dépasser 0,5 %</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>(6)</td>
-<td>Autres aliments non normalisés, [à l'exception des préparations non normalisées de</td>
+<td>Autres aliments non normalisés, [à l’exception des préparations non normalisées de</td>
 <td>(6)</td>
-<td>0,02 % de la teneur de l'aliment en gras ou en huile. Si on emploie aussi l'hydroxyanisole butylé ou l'hydroxytoluène butylé, la quantité ne doit pas en dépasser 0,02 % de la teneur de l'aliment en gras ou en huile.</td>
+<td>0,02 % de la teneur de l’aliment en gras ou en huile. Si on emploie aussi l’hydroxyanisole butylé ou l’hydroxytoluène butylé, la quantité ne doit pas en dépasser 0,02 % de la teneur de l’aliment en gras ou en huile.</td>
 </tr>
 <tr>
 <td></td>
@@ -24871,7 +24916,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(7)</td>
 <td>Margarine</td>
 <td>(7)</td>
-<td>0,01 % de la teneur en gras. Si on emploie aussi l'hydroxyanisole butylé ou l'hydroxytoluène butylé ou les deux, la quantité totale ne doit pas excéder 0,01 % de la teneur en gras</td>
+<td>0,01 % de la teneur en gras. Si on emploie aussi l’hydroxyanisole butylé ou l’hydroxytoluène butylé ou les deux, la quantité totale ne doit pas excéder 0,01 % de la teneur en gras</td>
 </tr>
 <tr>
 <td></td>
@@ -24879,7 +24924,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(8)</td>
 <td>Viande de volaille cuite et séchée</td>
 <td>(8)</td>
-<td>0,015 % de la teneur en gras. Si on emploie aussi l'hydroxyanisole butylé ou l'acide citrique, ou les deux, la quantité totale ne doit pas excéder 0,015 % de la teneur en gras.</td>
+<td>0,015 % de la teneur en gras. Si on emploie aussi l’hydroxyanisole butylé ou l’acide citrique, ou les deux, la quantité totale ne doit pas excéder 0,015 % de la teneur en gras.</td>
 </tr>
 <tr>
 <td>T.1</td>
@@ -24893,7 +24938,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Aliments non normalisés, [à l'exception des préparations non normalisées de</td>
+<td>Aliments non normalisés, [à l’exception des préparations non normalisées de</td>
 <td>(2)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -24927,7 +24972,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td>Graisses et huiles, saindoux, shortening</td>
 <td></td>
-<td>0,02 %. Si on emploie aussi l'hydroxyanisole butylée, l'hydroxytoluène butylé ou le gallate de propyle, la quantité totale ne doit pas dépasser 0,02 %</td>
+<td>0,02 %. Si on emploie aussi l’hydroxyanisole butylée, l’hydroxytoluène butylé ou le gallate de propyle, la quantité totale ne doit pas dépasser 0,02 %</td>
 </tr>
 <tr>
 <td>T.2</td>
@@ -24941,7 +24986,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Aliments non normalisés, [à l'exception des préparations non normalisées de</td>
+<td>Aliments non normalisés, [à l’exception des préparations non normalisées de</td>
 <td>(2)</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -25209,7 +25254,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(5)</td>
 <td>Préparation de colorant laque en suspension aqueuse pour utilisation dans l’enrobage de tablettes de confiseries</td>
 <td>(5)</td>
-<td>1 % de la préparation de colorant</td>
+<td>1 % de la préparation de colorant</td>
 </tr>
 <tr>
 <td></td>
@@ -25295,7 +25340,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(1)</td>
 <td>Fruits de mer en conserve</td>
 <td>(1)</td>
-<td>Si employé seul ou en association avec le hexamétaphosphate de sodium ou le tripolyphosphate de sodium, ou les deux, la quantité totale de phosphate ajouté, calculé sous forme de phosphate dibasique de sodium, ne doit pas dépasser 0,5 %</td>
+<td>Si employé seul ou en association avec le hexamétaphosphate de sodium ou le tripolyphosphate de sodium, ou les deux, la quantité totale de phosphate ajouté, calculé sous forme de phosphate dibasique de sodium, ne doit pas dépasser 0,5 %</td>
 </tr>
 <tr>
 <td></td>
@@ -25309,7 +25354,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Solution d'injection ou d'immersion servant à la salaison de la volaille ou de la viande de volaille</td>
+<td>Solution d’injection ou d’immersion servant à la salaison de la volaille ou de la viande de volaille</td>
 <td>(3)</td>
 <td>Bonnes pratiques industrielles et conformément à B.22.021e)</td>
 </tr>
@@ -25317,7 +25362,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(4)</td>
-<td>Marinade servant à la salaison de coupes de porc, de boeuf ou d'agneau</td>
+<td>Marinade servant à la salaison de coupes de porc, de boeuf ou d’agneau</td>
 <td>(4)</td>
 <td>Bonnes pratiques industrielles et conformément à B.14.009f) et B.14.031h)</td>
 </tr>
@@ -25359,7 +25404,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(1)</td>
 <td>Fruits de mer en conserve</td>
 <td>(1)</td>
-<td>Si employé seul ou en association avec le pyrophosphate acide de sodium ou le tripolyphosphate de sodium, ou les deux, la quantité totale de phosphate ajouté, calculé sous forme de phosphate dibasique de sodium, ne doit pas dépasser 0,5 %</td>
+<td>Si employé seul ou en association avec le pyrophosphate acide de sodium ou le tripolyphosphate de sodium, ou les deux, la quantité totale de phosphate ajouté, calculé sous forme de phosphate dibasique de sodium, ne doit pas dépasser 0,5 %</td>
 </tr>
 <tr>
 <td></td>
@@ -25373,7 +25418,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Solution d'injection ou d'immersion servant à la salaison de la volaille ou de la viande de volaille</td>
+<td>Solution d’injection ou d’immersion servant à la salaison de la volaille ou de la viande de volaille</td>
 <td>(3)</td>
 <td>Bonnes pratiques industrielles et conformément à B.22.021e)</td>
 </tr>
@@ -25381,7 +25426,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(4)</td>
-<td>Marinade servant à la salaison de coupes de porc, de boeuf ou d'agneau</td>
+<td>Marinade servant à la salaison de coupes de porc, de boeuf ou d’agneau</td>
 <td>(4)</td>
 <td>Bonnes pratiques industrielles et conformément à B.14.009f) et B.14.031h)</td>
 </tr>
@@ -25413,7 +25458,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Solution d'injection ou d'immersion servant à la salaison de la volaille ou de la viande de volaille</td>
+<td>Solution d’injection ou d’immersion servant à la salaison de la volaille ou de la viande de volaille</td>
 <td>(2)</td>
 <td>Bonnes pratiques industrielles et conformément à B.22.021e)</td>
 </tr>
@@ -25421,7 +25466,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Marinade servant à la salaison de coupes de porc, de boeuf ou d'agneau</td>
+<td>Marinade servant à la salaison de coupes de porc, de boeuf ou d’agneau</td>
 <td>(3)</td>
 <td>Bonnes pratiques industrielles et conformément à B.14.009f) et B.14.031h)</td>
 </tr>
@@ -25452,7 +25497,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <tr>
 <td></td>
 <td>(2)</td>
-<td>Solution d'injection ou d'immersion servant à la salaison de la volaille ou de la viande de volaille</td>
+<td>Solution d’injection ou d’immersion servant à la salaison de la volaille ou de la viande de volaille</td>
 <td>(2)</td>
 <td>Bonnes pratiques industrielles et conformément à B.22.021e)</td>
 </tr>
@@ -25460,7 +25505,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Marinade servant à la salaison de coupes de porc, de boeuf ou d'agneau</td>
+<td>Marinade servant à la salaison de coupes de porc, de boeuf ou d’agneau</td>
 <td>(3)</td>
 <td>Bonnes pratiques industrielles et conformément à B.14.009f) et B.14.031h)</td>
 </tr>
@@ -25499,7 +25544,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Solution d'injection ou d'immersion servant à la salaison de la volaille ou de la viande de volaille</td>
+<td>Solution d’injection ou d’immersion servant à la salaison de la volaille ou de la viande de volaille</td>
 <td>(3)</td>
 <td>Bonnes pratiques industrielles et conformément à B.22.021e)</td>
 </tr>
@@ -25507,7 +25552,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(4)</td>
-<td>Marinade servant à la salaison de coupes de porc, de boeuf ou d'agneau</td>
+<td>Marinade servant à la salaison de coupes de porc, de boeuf ou d’agneau</td>
 <td>(4)</td>
 <td>Bonnes pratiques industrielles et conformément à B.14.009f) et B.14.031h)</td>
 </tr>
@@ -25531,7 +25576,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>S.7</td>
 <td>Tripolyphosphate de sodium</td>
 <td>(1)</td>
-<td>Solution d'injection ou d'immersion servant à la salaison de la volaille ou de la viande de volaille</td>
+<td>Solution d’injection ou d’immersion servant à la salaison de la volaille ou de la viande de volaille</td>
 <td>(1)</td>
 <td>Bonnes pratiques industrielles et conformément à B.22.021e)</td>
 </tr>
@@ -25547,7 +25592,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(3)</td>
-<td>Marinade servant à la salaison de coupes de porc, de boeuf ou d'agneau</td>
+<td>Marinade servant à la salaison de coupes de porc, de boeuf ou d’agneau</td>
 <td>(3)</td>
 <td>Bonnes pratiques industrielles et conformément à B.14.009f) et B.14.031h)</td>
 </tr>
@@ -25573,7 +25618,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(6)</td>
 <td>Fruits de mer en conserve</td>
 <td>(6)</td>
-<td>Si employé seul ou en association avec le pyrophosphate acide de sodium ou le hexamétaphosphate de sodium, ou les deux, la quantité totale de phosphate ajouté, calculé sous forme de phosphate dibasique de sodium, ne doit pas dépasser 0,5 %</td>
+<td>Si employé seul ou en association avec le pyrophosphate acide de sodium ou le hexamétaphosphate de sodium, ou les deux, la quantité totale de phosphate ajouté, calculé sous forme de phosphate dibasique de sodium, ne doit pas dépasser 0,5 %</td>
 </tr>
 <tr>
 <td>S.8</td>
@@ -25591,7 +25636,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 
 #### TABLEAU XIII
 <table>
-<h4>ADDITIFS ALIMENTAIRES AUTORISÉS COMME AGENTS MODIFIANTS DE L'AMIDON</h4>
+<h4>ADDITIFS ALIMENTAIRES AUTORISÉS COMME AGENTS MODIFIANTS DE L’AMIDON</h4>
 <tr>
 <th></th>
 <th>Colonne I</th>
@@ -25618,7 +25663,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 <tr>
 <td>A.3</td>
-<td>Sulfate d'aluminium</td>
+<td>Sulfate d’aluminium</td>
 <td>Amidon</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -25636,7 +25681,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 <tr>
 <td>H.2</td>
-<td>Peroxyde d'hydrogène</td>
+<td>Peroxyde d’hydrogène</td>
 <td>Amidon</td>
 <td>Bonnes pratiques industrielles</td>
 </tr>
@@ -25765,7 +25810,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 <tr>
 <td>A.1</td>
-<td>Chlorure d'ammonium</td>
+<td>Chlorure d’ammonium</td>
 <td>(1)</td>
 <td>Farine; farine de blé entier</td>
 <td>(1)</td>
@@ -25776,7 +25821,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(2)</td>
 <td>Pain</td>
 <td>(2)</td>
-<td>2 500 p.p.m. de farine. Pour les mélanges, voir l'alinéa B.13.021m)</td>
+<td>2 500 p.p.m. de farine. Pour les mélanges, voir l’alinéa B.13.021m)</td>
 </tr>
 <tr>
 <td></td>
@@ -25792,7 +25837,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(1)</td>
 <td>Pain</td>
 <td>(1)</td>
-<td>2 500 p.p.m. de farine. Pour les mélanges, voir l'alinéa B.13.021m)</td>
+<td>2 500 p.p.m. de farine. Pour les mélanges, voir l’alinéa B.13.021m)</td>
 </tr>
 <tr>
 <td></td>
@@ -25815,7 +25860,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(1)</td>
 <td>Pain</td>
 <td>(1)</td>
-<td>2 500 p.p.m. de farine. Pour les mélanges, voir l'alinéa B.13.021m)</td>
+<td>2 500 p.p.m. de farine. Pour les mélanges, voir l’alinéa B.13.021m)</td>
 </tr>
 <tr>
 <td></td>
@@ -25834,11 +25879,11 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 <tr>
 <td>A.4</td>
-<td>Sulfate d'ammonium</td>
+<td>Sulfate d’ammonium</td>
 <td>(1)</td>
 <td>Pain</td>
 <td>(1)</td>
-<td>2 500 p.p.m. de farine. Pour les mélanges, voir l'alinéa B.13.021m)</td>
+<td>2 500 p.p.m. de farine. Pour les mélanges, voir l’alinéa B.13.021m)</td>
 </tr>
 <tr>
 <td></td>
@@ -25862,7 +25907,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(1)</td>
 <td>Pain</td>
 <td>(1)</td>
-<td>2 500 p.p.m. de farine. Pour les mélanges, voir l'alinéa B.13.021m)</td>
+<td>2 500 p.p.m. de farine. Pour les mélanges, voir l’alinéa B.13.021m)</td>
 </tr>
 <tr>
 <td></td>
@@ -25894,7 +25939,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(1)</td>
 <td>Pain</td>
 <td>(1)</td>
-<td>2 500 p.p.m. de farine. Pour les mélanges, voir l'alinéa B.13.021m)</td>
+<td>2 500 p.p.m. de farine. Pour les mélanges, voir l’alinéa B.13.021m)</td>
 </tr>
 <tr>
 <td></td>
@@ -25910,7 +25955,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(1)</td>
 <td>Pain</td>
 <td>(1)</td>
-<td>2 500 p.p.m. de farine. Pour les mélanges, voir l'alinéa B.13.021m)</td>
+<td>2 500 p.p.m. de farine. Pour les mélanges, voir l’alinéa B.13.021m)</td>
 </tr>
 <tr>
 <td></td>
@@ -25926,7 +25971,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(1)</td>
 <td>Pain</td>
 <td>(1)</td>
-<td>7 500 p.p.m. de farine. Pour les mélanges, voir l'alinéa B.13.021m)</td>
+<td>7 500 p.p.m. de farine. Pour les mélanges, voir l’alinéa B.13.021m)</td>
 </tr>
 <tr>
 <td></td>
@@ -26066,7 +26111,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 
 #### TABLEAU XV
 <table>
-<h4>ADDITIFS ALIMENTAIRES AUTORISÉS COMME SOLVANTS DE SUPPORT OU D'EXTRACTION</h4>
+<h4>ADDITIFS ALIMENTAIRES AUTORISÉS COMME SOLVANTS DE SUPPORT OU D’EXTRACTION</h4>
 <tr>
 <th></th>
 <th>Colonne I</th>
@@ -26085,7 +26130,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>1</td>
 <td>Acétone</td>
 <td>(1)</td>
-<td>Extraits d'épices; extractifs naturels</td>
+<td>Extraits d’épices; extractifs naturels</td>
 <td>(1)</td>
 <td>30 p.p.m.</td>
 <td></td>
@@ -26105,7 +26150,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>2</td>
 <td>Alcool benzylique</td>
 <td>(1)</td>
-<td>Préparation aromatisante de (nom de l'arôme) (Titre 10)</td>
+<td>Préparation aromatisante de (nom de l’arôme) (Titre 10)</td>
 <td></td>
 <td></td>
 <td>(1)</td>
@@ -26125,7 +26170,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>3</td>
 <td>1,3-Butylène- glycol</td>
 <td>(1)</td>
-<td>Préparation aromatisante de (nom de l'arôme) (Titre 10)</td>
+<td>Préparation aromatisante de (nom de l’arôme) (Titre 10)</td>
 <td></td>
 <td></td>
 <td>(1)</td>
@@ -26155,7 +26200,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Extraits d'épices; extractifs naturels; préparation aromatisante de (nom de l'arôme) (titre 10); extrait de houblon, conformément au sous-alinéa B.02.130b)(v) et à l'alinéa B.02.133b); extrait de houblon pré-isomérisé, conformément au sous-alinéa B.02.134(1)a)(ii)</td>
+<td>Extraits d’épices; extractifs naturels; préparation aromatisante de (nom de l’arôme) (titre 10); extrait de houblon, conformément au sous-alinéa B.02.130b)(v) et à l’alinéa B.02.133b); extrait de houblon pré-isomérisé, conformément au sous-alinéa B.02.134(1)a)(ii)</td>
 <td></td>
 <td></td>
 <td>(2)</td>
@@ -26185,7 +26230,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>4</td>
 <td>Huile de ricin</td>
 <td></td>
-<td>Rocou soluble dans l'huile; rocou, colorant pour le beurre; rocou, colorant pour la margarine</td>
+<td>Rocou soluble dans l’huile; rocou, colorant pour le beurre; rocou, colorant pour la margarine</td>
 <td></td>
 <td></td>
 <td></td>
@@ -26193,9 +26238,9 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 <tr>
 <td>5</td>
-<td>Acétate d'éthyle</td>
+<td>Acétate d’éthyle</td>
 <td>(1)</td>
-<td>Extraits d'épices; extractifs naturels; préparation aromatisante de (nom de l'arôme) (Titre 10)</td>
+<td>Extraits d’épices; extractifs naturels; préparation aromatisante de (nom de l’arôme) (Titre 10)</td>
 <td></td>
 <td></td>
 <td>(1)</td>
@@ -26235,7 +26280,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>6</td>
 <td>Alcool éthylique (éthanol)</td>
 <td>(1)</td>
-<td>Extraits d'épices; extractifs naturels; préparation aromatisante de (nom de l'arôme) (Titre 10)</td>
+<td>Extraits d’épices; extractifs naturels; préparation aromatisante de (nom de l’arôme) (Titre 10)</td>
 <td></td>
 <td></td>
 <td>(1)</td>
@@ -26275,7 +26320,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(5)</td>
-<td>Préparations d'additifs alimentaires</td>
+<td>Préparations d’additifs alimentaires</td>
 <td></td>
 <td></td>
 <td>(5)</td>
@@ -26285,7 +26330,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(6)</td>
-<td>Extrait de houblon, conformément au sous-alinéa B.02.130b)(v) et à l'alinéa B.02.133b); extrait de houblon pré-isomérisé, conformément au sous-alinéa B.02.134(1)a)(iii)</td>
+<td>Extrait de houblon, conformément au sous-alinéa B.02.130b)(v) et à l’alinéa B.02.133b); extrait de houblon pré-isomérisé, conformément au sous-alinéa B.02.134(1)a)(iii)</td>
 <td></td>
 <td></td>
 <td>(6)</td>
@@ -26309,7 +26354,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>8</td>
 <td>Glycérol (glycérine)</td>
 <td>(1)</td>
-<td>Extrait de (nom de l'arôme); essence de (nom de l'arôme); préparation aromatisante de (nom de l'arôme) (Titre 10)</td>
+<td>Extrait de (nom de l’arôme); essence de (nom de l’arôme); préparation aromatisante de (nom de l’arôme) (Titre 10)</td>
 <td></td>
 <td></td>
 <td>(1)</td>
@@ -26339,7 +26384,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(4)</td>
-<td>Préparations d'additifs alimentaires</td>
+<td>Préparations d’additifs alimentaires</td>
 <td></td>
 <td></td>
 <td>(4)</td>
@@ -26349,7 +26394,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>9</td>
 <td>Diacétate de glycéryle</td>
 <td>(1)</td>
-<td>Préparation aromatisante de (nom de l'arôme) (Titre 10)</td>
+<td>Préparation aromatisante de (nom de l’arôme) (Titre 10)</td>
 <td></td>
 <td></td>
 <td>(1)</td>
@@ -26369,7 +26414,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>10</td>
 <td>Triacétate de glycéryle (triacétine)</td>
 <td>(1)</td>
-<td>Préparation aromatisante de (nom de l'arôme) (Titre 10)</td>
+<td>Préparation aromatisante de (nom de l’arôme) (Titre 10)</td>
 <td></td>
 <td></td>
 <td>(1)</td>
@@ -26389,7 +26434,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>11</td>
 <td>Tributyrate de glycéryle (tributyrine)</td>
 <td>(1)</td>
-<td>Préparation aromatisante de (nom de l'arôme) (Titre 10)</td>
+<td>Préparation aromatisante de (nom de l’arôme) (Titre 10)</td>
 <td></td>
 <td></td>
 <td>(1)</td>
@@ -26409,7 +26454,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>12</td>
 <td>Hexane</td>
 <td>(1)</td>
-<td>Extraits d'épices; extractifs naturels</td>
+<td>Extraits d’épices; extractifs naturels</td>
 <td>(1)</td>
 <td>25 p.p.m.</td>
 <td></td>
@@ -26419,7 +26464,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Extrait de houblon, conformément au sous-alinéa B.02.130b)(v) et à l'alinéa B.02.133a)</td>
+<td>Extrait de houblon, conformément au sous-alinéa B.02.130b)(v) et à l’alinéa B.02.133a)</td>
 <td>(2)</td>
 <td>2,2 %</td>
 <td></td>
@@ -26451,7 +26496,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>(5)</td>
 <td>Extrait de houblon pré-isomérisé, conformément au sous-alinéa B.02.134(1)a)(i) et au paragraphe B.02.134(2)</td>
 <td>(5)</td>
-<td>1,5 p.p.m., par rapport à la teneur, exprimée en pourcentage, d'acide iso-alpha dans l'extrait de houblon pré-isomérisé.</td>
+<td>1,5 p.p.m., par rapport à la teneur, exprimée en pourcentage, d’acide iso-alpha dans l’extrait de houblon pré-isomérisé.</td>
 <td></td>
 <td></td>
 </tr>
@@ -26459,7 +26504,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>13</td>
 <td>Alcool isopropylique) (Isopropanol)</td>
 <td>(1)</td>
-<td>Extraits d'épices; extractifs naturels</td>
+<td>Extraits d’épices; extractifs naturels</td>
 <td>(1)</td>
 <td>50 p.p.m.</td>
 <td></td>
@@ -26477,7 +26522,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <tr>
 <td></td>
 <td>(3)</td>
-<td>Préparation aromatisante de (nom de l'arôme) (Titre 10)</td>
+<td>Préparation aromatisante de (nom de l’arôme) (Titre 10)</td>
 <td></td>
 <td></td>
 <td>(3)</td>
@@ -26507,7 +26552,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>14</td>
 <td>Alcool méthylique (méthanol)</td>
 <td>(1)</td>
-<td>Extraits d'épices; extractifs naturels</td>
+<td>Extraits d’épices; extractifs naturels</td>
 <td>(1)</td>
 <td>50 p.p.m.</td>
 <td></td>
@@ -26516,7 +26561,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <tr>
 <td></td>
 <td>(2)</td>
-<td>Extrait de houblon, conformément au sous-alinéa B.02.130b)(v) et à l'alinéa B.02.133a)</td>
+<td>Extrait de houblon, conformément au sous-alinéa B.02.130b)(v) et à l’alinéa B.02.133a)</td>
 <td>(2)</td>
 <td>2,2 %</td>
 <td></td>
@@ -26536,7 +26581,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>14.1</td>
 <td>Méthyléthyl-cétone (2-Butanone)</td>
 <td></td>
-<td>Extraits d'épices; extractifs naturels</td>
+<td>Extraits d’épices; extractifs naturels</td>
 <td></td>
 <td>50 p.p.m.</td>
 <td></td>
@@ -26546,7 +26591,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>15</td>
 <td>Chlorure de méthylène (Dichloro-méthane)</td>
 <td>(1)</td>
-<td>Extraits d'épices; extractifs naturels</td>
+<td>Extraits d’épices; extractifs naturels</td>
 <td>(1)</td>
 <td>30 p.p.m.</td>
 <td></td>
@@ -26555,9 +26600,9 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <tr>
 <td></td>
 <td>(2)</td>
-<td>Extrait de houblon, conformément au sous-alinéa B.02.130b)(v) et à l'alinéa B.02.133a)</td>
+<td>Extrait de houblon, conformément au sous-alinéa B.02.130b)(v) et à l’alinéa B.02.133a)</td>
 <td>(2)</td>
-<td>2,2 % dans l'extrait de houblon</td>
+<td>2,2 % dans l’extrait de houblon</td>
 <td></td>
 <td></td>
 </tr>
@@ -26575,7 +26620,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>16</td>
 <td>Monoglycérides et diglycérides</td>
 <td>(1)</td>
-<td>Préparation aromatisante de (nom de l'arôme) (Titre 10)</td>
+<td>Préparation aromatisante de (nom de l’arôme) (Titre 10)</td>
 <td></td>
 <td></td>
 <td>(1)</td>
@@ -26585,7 +26630,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Rocou soluble dans l'huile; rocou, colorant pour le beurre; rocou, colorant pour la margarine</td>
+<td>Rocou soluble dans l’huile; rocou, colorant pour le beurre; rocou, colorant pour la margarine</td>
 <td></td>
 <td></td>
 <td>(2)</td>
@@ -26605,7 +26650,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(4)</td>
-<td>Préparations d'additifs alimentaires</td>
+<td>Préparations d’additifs alimentaires</td>
 <td></td>
 <td></td>
 <td>(4)</td>
@@ -26615,7 +26660,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>17</td>
 <td>Citrate de monoglycérides</td>
 <td>(1)</td>
-<td>Extraits d'épices; extractifs naturels</td>
+<td>Extraits d’épices; extractifs naturels</td>
 <td></td>
 <td></td>
 <td>(1)</td>
@@ -26644,7 +26689,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>19</td>
 <td>1,2-Propylène-glycol (1,2-propanédiol)</td>
 <td>(1)</td>
-<td>Extrait de (nom de l'arôme); essence de (nom de l'arôme); préparation aromatisante de (nom de l'arôme) (Titre 10)</td>
+<td>Extrait de (nom de l’arôme); essence de (nom de l’arôme); préparation aromatisante de (nom de l’arôme) (Titre 10)</td>
 <td></td>
 <td></td>
 <td>(1)</td>
@@ -26654,7 +26699,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(2)</td>
-<td>Rocou soluble dans l'huile; rocou, colorant pour le beurre; rocou, colorant pour la margarine</td>
+<td>Rocou soluble dans l’huile; rocou, colorant pour le beurre; rocou, colorant pour la margarine</td>
 <td></td>
 <td></td>
 <td>(2)</td>
@@ -26684,7 +26729,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td></td>
 <td></td>
 <td>(5)</td>
-<td>Préparations d'additifs alimentaires</td>
+<td>Préparations d’additifs alimentaires</td>
 <td></td>
 <td></td>
 <td>(5)</td>
@@ -26692,9 +26737,9 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 </tr>
 <tr>
 <td>20</td>
-<td>Mono et diesters de propylène-glycol et d'acides gras lipogènes</td>
+<td>Mono et diesters de propylène-glycol et d’acides gras lipogènes</td>
 <td></td>
-<td>Rocou soluble dans l'huile; rocou, colorant pour le beurre; rocou, colorant pour la margarine</td>
+<td>Rocou soluble dans l’huile; rocou, colorant pour le beurre; rocou, colorant pour la margarine</td>
 <td></td>
 <td></td>
 <td></td>
@@ -26704,7 +26749,7 @@ et, aux fins du présent article, la peau de tête et le groin sont considérés
 <td>21</td>
 <td>Citrate de triéthyle</td>
 <td>(1)</td>
-<td>Préparation aromatisante de (nom de l'arôme) (Titre 10)</td>
+<td>Préparation aromatisante de (nom de l’arôme) (Titre 10)</td>
 <td></td>
 <td></td>
 <td>(1)</td>
