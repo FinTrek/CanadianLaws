@@ -1283,7 +1283,7 @@ the order or percentage, as the case may be, being based
 	- **(b)** their components are shown
 		- **(i)** immediately after the class name of the ingredients of which they are components, in such a manner as to indicate that they are components of the ingredients, and
 		- **(ii)** in descending order of their collective proportion of those ingredients. 
-> SOR/79-23, ss. 7, 8(F); SOR/79-529, s. 3; SOR/80-632, s. 1; SOR/84-300, ss. 4(E), 5(F); SOR/91-124, s. 2; SOR/92-626, s. 9; SOR/92-725, s. 1; SOR/93-243, s. 2(F); SOR/93-465, s. 2; SOR/95-548, s. 5(F); SOR/97-516, s. 1; SOR/98-458, ss. 1, 7(F); SOR/2005-98, s. 7.
+> SOR/79-23, ss. 7, 8(F); SOR/79-529, s. 3; SOR/80-632, s. 1; SOR/84-300, ss. 4(E), 5(F); SOR/91-124, s. 2; SOR/92-626, s. 9; SOR/92-725, s. 1; SOR/93-243, s. 2(F); SOR/93-465, s. 2; SOR/95-548, s. 5(F); SOR/97-516, s. 1; SOR/98-458, ss. 1, 7(F); SOR/2005-98, s. 7; SOR/2007-302, s. 4(F).
 
 
 
@@ -4960,30 +4960,30 @@ shall be shown on the principal display panel of the label of a simulated meat p
 
 - **(1)** The following definitions apply in this section and in the table following section B.01.513.
 
-***combination foods*** means the category of food to which belong foods that contain as ingredients foods from more than one food group, or foods from one or more food groups mixed with foods from the category of other foods, such as pizza or lasagna. (*aliments composés*)
+***combination foods*** means the category of food to which belong foods that contain as ingredients foods from more than one food group, or foods from one or more food groups mixed with foods from the category of other foods, such as pizza or lasagna. (*aliments composés*)
 
-***food group*** means one of the following categories of foods:
+***food group*** means one of the following categories of foods:
 - **(a)** milk products, and milk product alternatives such as fortified plant-based beverages;
 - **(b)** meat, poultry and fish, and alternatives such as legumes, eggs, tofu or peanut butter;
 - **(c)** bread and grain products; or
-- **(d)** vegetables and fruit. (*groupe alimentaire*)
+- **(d)** vegetables and fruit. (*groupe alimentaire*)
 
-***other foods*** means the category of food to which belong foods that are not part of any food group, including
+***other foods*** means the category of food to which belong foods that are not part of any food group, including
 - **(a)** foods that are mostly fats, such as butter, margarine, oil or lard;
 - **(b)** foods that are mostly sugars, such as jam, honey, syrup or confectionery;
 - **(c)** snack foods, such as potato chips or pretzels;
 - **(d)** beverages, such as water, tea, coffee or soft drinks; and
-- **(e)** herbs, spices and condiments, such as pickles, mustard or ketchup. (*autres aliments*)
+- **(e)** herbs, spices and condiments, such as pickles, mustard or ketchup. (*autres aliments*)
 
-***reference food of the same food group*** means a food that can be substituted in the diet for the food to which it is compared and that belongs to
+***reference food of the same food group*** means a food that can be substituted in the diet for the food to which it is compared and that belongs to
 - **(a)** the same food group as the food to which it is compared, such as cheese as a reference food for milk, or chicken as a reference food for tofu;
 - **(b)** the category of other foods, if the food to which it is compared also belongs to that category, such as pretzels as a reference food for potato chips; or
-- **(c)** the category of combination foods, if the food to which it is compared also belongs to that category, such as pizza as a reference food for lasagna. (*aliment de référence du même groupe alimentaire*)
+- **(c)** the category of combination foods, if the food to which it is compared also belongs to that category, such as pizza as a reference food for lasagna. (*aliment de référence du même groupe alimentaire*)
 
-***similar reference food*** means a food of the same type as the food to which it is compared and that has not been processed, formulated, reformulated or otherwise modified in a manner that increases or decreases the energy value or the amount of a nutrient that is the subject of the comparison, such as whole milk as a similar reference food for partly skimmed milk or regular chocolate chip cookies as a similar reference food for fat-reduced chocolate chip cookies. (*aliment de référence similaire*)
+***similar reference food*** means a food of the same type as the food to which it is compared and that has not been processed, formulated, reformulated or otherwise modified in a manner that increases or decreases the energy value or the amount of a nutrient that is the subject of the comparison, such as whole milk as a similar reference food for partly skimmed milk or regular chocolate chip cookies as a similar reference food for fat-reduced chocolate chip cookies. (*aliment de référence similaire*)
 
-- **(2)** The similar reference food referred to in column 3 of item 45 of the table following section B.01.513, with respect to the subject “light in energy or fat” set out in column 1, shall have a nutrient value that is representative of foods of that type that have not been processed, formulated, reformulated or otherwise modified in a manner that increases the energy value or the amount of fat. 
-> SOR/2003-11, s. 20.
+- **(2)** The similar reference food referred to in column 3 of item 45 of the table following section B.01.513, with respect to the subject “light in energy or fat” set out in column 1, shall have a nutrient value that is representative of foods of that type that have not been processed, formulated, reformulated or otherwise modified in a manner that increases the energy value or the amount of fat.
+> SOR/2003-11, s. 20; SOR/2007-302, s. 4(F).
 
 
 
@@ -8401,15 +8401,26 @@ and the total non-volatile extracts obtainable therefrom by
 
 
 
-**B.08.001.1** In this Division, ***milk product*** means
-- **(a)** with respect to butter, whey butter or cheese, any of the following products, namely,
+**B.08.001.1** The following definitions apply in this Division.
+
+***milk product*** means
+- **(a)** with respect to butter or whey butter, any of the following products, namely,
 	- **(i)** partly skimmed milk, skim milk, cream, buttermilk and whey cream, and
-	- **(ii)** milk in concentrated, dried or reconstituted form and any product referred to in subparagraph (i) in concentrated, dried or reconstituted form,
-- **(b)** with respect to cream cheese spread, cream cheese spread with named added ingredients, processed cheese food, processed cheese food with named added ingredients, processed cheese spread, processed cheese spread with named added ingredients, cold-pack cheese food or cold-pack cheese food with named added ingredients, any of the following products, namely,
-	- **(i)** butter, whey butter and whey, and
-	- **(ii)** any product referred to in subparagraph (i) in concentrated or dried form, including whey protein concentrate, and
-- **(c)** with respect to ice milk mix, ice cream mix or sherbet, any of the products referred to in subparagraph (a)(i) or (ii) or (b)(i) or (ii). (*produit du lait*) 
-> SOR/92-400, s. 1. SOR/97-543, s. 1(F); SOR/98-580, s. 1(F).
+	- **(ii)** milk in concentrated, dried or reconstituted form and any product referred to in subparagraph (i) in concentrated, dried or reconstituted form;
+- **(b)** with respect to cheese, any of the following products, namely,
+	- **(i)** partly skimmed milk, skim milk, cream, buttermilk, whey and whey cream,
+	- **(ii)** milk in concentrated, dried, frozen or reconstituted form and any product referred to in subparagraph (i) in concentrated, dried, frozen or reconstituted form,
+	- **(iii)** butter, butter oil and whey butter,
+	- **(iv)** any constituent of milk — other than water — singly or in combination with other constituents of milk, and
+	- **(v)** whey protein concentrate;
+- **(c)** with respect to cream cheese spread, cream cheese spread with named added ingredients, processed cheese food, processed cheese food with named added ingredients, processed cheese spread, processed cheese spread with named added ingredients, cold-pack cheese food or cold-pack cheese food with named added ingredients, any of the following products, namely,
+	- **(i)** butter, whey butter and whey,
+	- **(ii)** whey protein concentrate, and
+	- **(iii)** any product referred to in subparagraph (i) in concentrated or dried form; and
+- **(d)** with respect to ice milk mix, ice cream mix or sherbet, any of the products referred to in subparagraph (a)(i) or (ii) or (c)(i) or (ii). (*produit du lait*)
+
+***ultrafiltered***, in relation to milk, partly skimmed milk or skim milk, means that the milk, partly skimmed milk or skim milk has been subjected to a process in which it is passed over one or more semi-permeable membranes to partially remove water, lactose, minerals and water-soluble vitamins without altering the whey protein to casein ratio and that results in a liquid product. (*ultrafiltré*)
+> SOR/92-400, s. 1. SOR/97-543, s. 1(F); SOR/98-580, s. 1(F); SOR/2007-302, s. 1.
 
 
 
@@ -8814,6 +8825,11 @@ shall be labelled to show on the principal display panel a statement of the perc
 - **(1)** **[S]. (Naming the variety) Cheese**, other than cheddar cheese, cream cheese, whey cheese, cream cheese with (named added ingredients), cream cheese spread, cream cheese spread with (named added ingredients), processed (named variety) cheese, processed (named variety) cheese with (named added ingredients), processed cheese food, processed cheese food with (named added ingredients), processed cheese spread, processed cheese spread with (named added ingredients), cold-pack (named variety) cheese, cold-pack (named variety) cheese with (named added ingredients), cold-pack cheese food, cold-pack cheese food with (named added ingredients), cottage cheese and creamed cottage cheese,
 	- **(a)** shall
 		- **(i)** be the product made by coagulating milk, milk products or a combination thereof with the aid of bacteria to form a curd and forming the curd into a homogeneous mass after draining the whey,
+		- **(i.1)** except for feta cheese, have a casein content that is derived from milk or from ultrafiltered milk, partly skimmed milk, ultrafiltered partly skimmed milk, skim milk, ultrafiltered skim milk or cream, rather than from other milk products,that is at least the following percentage of the total protein content of the cheese, namely,
+			- **(A)** 63 per cent in the case of Pizza Mozzarella cheese and Part Skim Pizza Mozzarella cheese,
+			- **(B)** 83 per cent, in the case of Brick cheese, Canadian Style Brick cheese, Canadian Style Munster cheese, Colby cheese, Farmer’s cheese, Jack cheese, Monterey (Monterey Jack) cheese, Mozzarella (Scamorza) cheese, Part Skim Mozzarella (Part Skim Scamorza) cheese, Part Skim Pizza cheese, Pizza cheese, Skim milk cheese and any other variety of cheese not referred to in clause (A) or (C), and
+			- **(C)** 95 per cent, in the case of any other variety of cheese named in the table to this section,
+		- **(i.2)** have a whey protein to casein ratio that does not exceed the whey protein to casein ratio of milk,
 		- **(ii)** possess the physical, chemical and organoleptic properties typical for the variety,
 		- **(iii)** where it is a cheese of variety named in the table to this section, contain no more than the maximum percentage of moisture shown in Column II thereof for that variety,
 		- **(iv)** where it is a cheese of a variety named in Part I of the table to this section, contain no less than the minimum percentage of milk fat shown in Column III for that variety, and
@@ -8838,6 +8854,14 @@ shall be labelled to show on the principal display panel a statement of the perc
 		- **(x)** in the case of grated or shredded cheese, calcium silicate, microcrystalline cellulose or cellulose, or a combination of them, as an anticaking agent, the total amount not to exceed 2.0 per cent, and
 		- **(xi)** carbon dioxide as a pH adjusting agent in milk for cheese production, in an amount consistent with good manufacturing practice.
 
+- **(1.1)** A cheese of a variety set out in column I of Part I of the table to this section may contain more than the maximum percentage of moisture set out in column II and less than the minimum percentage of milk fat set out in column III if
+	- **(a)** a statement or claim set out in column 4 of any of items 12 to 14, 16, 20, 21 and 45 of the table following section B.01.513 is shown on the label of the product as part of the common name; and
+	- **(b)** the cheese has the characteristic flavour and texture of the named variety of cheese.
+
+- **(1.2)** The reference to “83 per cent” in clause (1)(a)(i.1)(B) shall be read as “78 per cent”, and the reference to “95 per cent” in clause (1)(a)(i.1)(C) shall be read as “90 per cent”, with respect to the named variety of cheese if
+	- **(a)** a statement or claim set out in column 4 of any of items 12 to 14, 16, 20, 21 and 45 of the table following section B.01.513 is shown on the label of the product as part of the common name; and
+	- **(b)** the cheese has the characteristic flavour and texture of the named variety of cheese.
+
 - **(2)** Potassium nitrate, sodium nitrate or a combination thereof may be used as a preservative in cheese providing the following requirements are met:
 	- **(a)** the amount of the salt or combination of salts does not exceed 200 parts per million of the milk and milk products used to make the cheese;
 	- **(b)** the cheese in which the preservative is used is
@@ -8848,7 +8872,7 @@ shall be labelled to show on the principal display panel a statement of the perc
 	- **(c)** the salting is, in the case of the cheese described in subparagraph (b)(ii), applied externally as a dry salt or in the form of a brine.
 
 - **(3)** No person shall use an enzyme other than
-	- **(a)** milk coagulating enzymes derived from *Rhizomucor miehei * (Cooney and Emerson) (previous name: *Mucor miehei* (Cooney and Emerson)), *Mucor pusillus Lindt* or *Aspergillus oryzae* RET-1 (pBoel777), aminopeptidase derived from *Lactococcus lactis*, Chymosin A derived from *Escherichia coli* K-12, GE81 (pPFZ87A), Chymosin B derived from *Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR) or from *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS105), protease derived from *Micrococcus caseolyticus*, pepsin, rennet or bovine rennet, in the manufacture of any cheese to which subsection (1) applies;
+	- **(a)** milk coagulating enzymes derived from *Rhizomucor miehei* (Cooney and Emerson) (previous name: *Mucor miehei* (Cooney and Emerson)), *Mucor pusillus Lindt* or *Aspergillus oryzae* RET-1 (pBoel777), aminopeptidase derived from *Lactococcus lactis*, Chymosin A derived from *Escherichia coli* K-12, GE81 (pPFZ87A), Chymosin B derived from *Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR) or from *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS105), protease derived from *Micrococcus caseolyticus*, pepsin, rennet or bovine rennet, in the manufacture of any cheese to which subsection (1) applies;
 	- **(b)** lipase and enzymes described in paragraph (a), in the manufacture of Asiago cheese, Blue cheese, Caciocavallo cheese, Feta cheese and Provolone cheese;
 	- **(c)** a milk coagulating enzyme derived from *Endothia parasitica* and enzymes described in paragraph (a), in the manufacture of Emmentaler (Emmental, Swiss) cheese, Mozzarella (Scamorza) cheese and Part Skim Mozzarella (Part Skim Scamorza) cheese;
 	- **(d)** lipase, a milk coagulating enzyme derived from *Endothia**parasitica* and enzymes described in paragraph (a), in the manufacture of Parmesan cheese and Romano cheese;
@@ -9108,10 +9132,22 @@ shall be labelled to show on the principal display panel a statement of the perc
 <td>15.0</td>
 </tr>
 <tr>
+<td>38.1</td>
+<td>Part Skim Pizza Mozzarella</td>
+<td>61.0</td>
+<td>11.0</td>
+</tr>
+<tr>
 <td>39</td>
 <td>Pizza</td>
 <td>48.0</td>
 <td>20.0</td>
+</tr>
+<tr>
+<td>39.1</td>
+<td>Pizza Mozzarella</td>
+<td>58.0</td>
+<td>15.0</td>
 </tr>
 <tr>
 <td>40</td>
@@ -9185,7 +9221,7 @@ shall be labelled to show on the principal display panel a statement of the perc
 </tr>
 </table>
 
-> SOR/79-752, s. 2; SOR/80-632, s. 2; SOR/82-383, ss. 2,3; SOR/82-566, s. 1; SOR/84-302, s. 1; SOR/86-89, s. 2; SOR/87-640, s. 3; SOR/88-534, s. 2; SOR/89-198, s. 1; SOR/90-469, s. 1; SOR/91-88, s. 1; SOR/92-197, s. 1; SOR/92-400, s. 4; SOR/93-477, s. 1; SOR/94-212, s. 1; SOR/94-417, s. 1; SOR/95-183, s. 1; SOR/97-191, s. 1; SOR/98-458, s. 2; SOR/2000-336, s. 1; SOR/2000-353, s. 4; SOR/2000-417, s. 2; SOR/2001-94, s. 1; SOR/2005-98, s. 7.
+> SOR/79-752, s. 2; SOR/80-632, s. 2; SOR/82-383, ss. 2,3; SOR/82-566, s. 1; SOR/84-302, s. 1; SOR/86-89, s. 2; SOR/87-640, s. 3; SOR/88-534, s. 2; SOR/89-198, s. 1; SOR/90-469, s. 1; SOR/91-88, s. 1; SOR/92-197, s. 1; SOR/92-400, s. 4; SOR/93-477, s. 1; SOR/94-212, s. 1; SOR/94-417, s. 1; SOR/95-183, s. 1; SOR/97-191, s. 1; SOR/98-458, s. 2; SOR/2000-336, s. 1; SOR/2000-353, s. 4; SOR/2000-417, s. 2; SOR/2001-94, s. 1; SOR/2005-98, s. 7; SOR/2007-302, ss. 2, 4(F).
 
 
 
@@ -9194,12 +9230,12 @@ shall be labelled to show on the principal display panel a statement of the perc
 
 - **(1)** **[S]. Cheddar Cheese**
 	- **(a)** shall
-		- **(i)** be the product made by coagulating milk, milk products or a combination thereof with the aid of bacteria to form a curd and subjecting the curd to
-			- **(A)** the cheddar process, or
-			- **(B)** any process other than the cheddar process that produces a cheese having the same physical, chemical and organoleptic properties as those of cheese produced by the cheddar process, and
+		- **(i)** be the product that is made by coagulating milk, milk products or a combination of those things with the aid of bacteria to form a curd and subjecting the curd to the cheddar process or any process other than the cheddar process that produces a cheese having the same physical, chemical and organoleptic properties as those of cheese produced by the cheddar process,
+		- **(i.1)** have a casein content that is derived from milk or from ultrafiltered milk, partly skimmed milk, ultrafiltered partly skimmed milk, skim milk, ultrafiltered skim milk or cream, rather than from other milk products, that is at least 83 per cent of the total protein content of the cheese,
+		- **(i.2)** have a whey protein to casein ratio that does not exceed the whey protein to casein ratio of milk, and
 		- **(ii)** contain
 			- **(A)** not more than 39 per cent moisture, and
-			- **(B)** not less than 31 per cent milk fat; and
+			- **(B)** not less than 31 per cent milk fat;
 	- **(b)** may contain
 		- **(i)** salt,
 		- **(ii)** flavouring preparations other than cheese flavouring,
@@ -9214,7 +9250,18 @@ shall be labelled to show on the principal display panel a statement of the perc
 			- **(B)** sorbic acid, calcium sorbate, potassium sorbate, sodium sorbate or a combination thereof in an amount not exceeding 3,000 parts per million calculated as sorbic acid,
 			- **(C)** any combination of the preservatives named in clauses (A) and (B) in an amount not exceeding 3,000 parts per million calculated as propionic acid and sorbic acid respectively, or
 			- **(D)** natamycin applied to the surface of the cheese in an amount that does not exceed 20 parts per million or, if the cheese is grated or shredded, 10 parts per million, and
-		- **(viii)** in the case of grated or shredded cheddar cheese, calcium silicate, microcrystalline cellulose or cellulose, or a combination of them, as an anticaking agent, the total amount not to exceed 2.0 per cent.
+		- **(viii)** in the case of grated or shredded cheddar cheese, calcium silicate, microcrystalline cellulose or cellulose, or a combination of them, as an anticaking agent, the total amount not to exceed 2.0 per cent; and
+	- **(c)** shall not be labelled or advertised as cheddar cheese that has been aged unless
+		- **(i)** it is made solely with milk, ultrafiltered milk, partly skimmed milk, ultrafiltered partly skimmed milk, skim milk, ultrafiltered skim milk or cream or a combination of those things, and
+		- **(ii)** it has been aged for at least nine months and the period for which it has been aged is specified on the principal display panel of that label or in that advertising.
+
+- **(1.1)** Cheddar cheese may contain more than the maximum percentage of moisture set out in clause (1)(a)(ii)(A) and less than the minimum percentage of milk fat set out in clause (1)(a)(ii)(B) if
+	- **(a)** a statement or claim set out in column 4 of any of items 12 to 14, 16, 20, 21 and 45 of the table following section B.01.513 is shown on the label of the product as part of the common name; and
+	- **(b)** the cheese has the characteristic flavour and texture of cheddar cheese.
+
+- **(1.2)** The reference to “83 per cent” in subparagraph (1)(a)(i.1) shall be read as “78 per cent” if
+	- **(a)** a statement or claim set out in column 4 of any of items 12 to 14, 16, 20, 21 and 45 of the table following section B.01.513 is shown on the label of the product as part of the common name; and
+	- **(b)** the cheese has the characteristic flavour and texture of cheddar cheese.
 
 - **(2)** No person shall, in the manufacture of the cheddar cheese, use any enzyme other than
 	- **(a)** lipase, pepsin, rennet, milk coagulating enzymes derived from *Rhizomucor miehei * (Cooney and Emerson) (previous name: *Mucor miehei* (Cooney and Emerson)), *Mucor pusillus Lindt* or *Aspergillus oryzae* RET-1 (pBoel777), aminopeptidase derived from *Lactococcus lactis*, Chymosin A derived from *Escherichia coli* K-12, GE81 (pPFZ87A) or Chymosin B derived from *Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR) or from *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS105);
@@ -9227,8 +9274,8 @@ shall be labelled to show on the principal display panel a statement of the perc
 
 - **(4)** Only a cheese to which wood smoke has been added as permitted in subsection (1) may be described by the term “smoked” on a label.
 
-- **(5)** Where a cheese is labelled as permitted in subsection (4), the word “smoked” shall be shown on the principal display panel. 
-> SOR/79-752, s. 2; SOR/82-383, s. 4; SOR/83-617, s. 1; SOR/84-302, s. 2; SOR/84-762, s. 7; SOR/88-534, s. 3; SOR/89-244, s. 1; SOR/90-469, s. 2; SOR/91-88, s. 2; SOR/92-197, s. 2; SOR/93-477, s. 2; SOR/94-212, s. 2; SOR/95-183, s. 2; SOR/97-191, s. 2; SOR/98-458, s. 3; SOR/2000-336, s. 2; SOR/2000-417, s. 3; SOR/2005-98, s. 7.
+- **(5)** Where a cheese is labelled as permitted in subsection (4), the word “smoked” shall be shown on the principal display panel.
+> SOR/79-752, s. 2; SOR/82-383, s. 4; SOR/83-617, s. 1; SOR/84-302, s. 2; SOR/84-762, s. 7; SOR/88-534, s. 3; SOR/89-244, s. 1; SOR/90-469, s. 2; SOR/91-88, s. 2; SOR/92-197, s. 2; SOR/93-477, s. 2; SOR/94-212, s. 2; SOR/95-183, s. 2; SOR/97-191, s. 2; SOR/98-458, s. 3; SOR/2000-336, s. 2; SOR/2000-417, s. 3; SOR/2005-98, s. 7; SOR/2007-302, ss. 3, 4(F).
 
 
 
@@ -9271,7 +9318,7 @@ shall be labelled to show on the principal display panel a statement of the perc
 		- **(iii)** acetic acid, calcium carbonate, citric acid, lactic acid, malic acid, phosphoric acid, potassium bicarbonate, potassium carbonate, sodium bicarbonate, sodium carbonate and tartaric acid as pH adjusting agents in an amount consistent with good manufacturing practice.
 
 - **(2)** No person shall use, to aid coagulation of whey in the manufacture of whey cheese, a substance other than vinegar or sour whey. 
-> SOR/79-752, s. 2.
+> SOR/79-752, s. 2; SOR/2007-302, s. 4(F).
 
 
 
@@ -9342,7 +9389,7 @@ shall be labelled to show on the principal display panel a statement of the perc
 - **(2)** No person shall use any enzyme
 	- **(a)** other than Chymosin A derived from *Escherichia coli* K-12, GE81 (pPFZ87A), Chymosin B derived from *Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR) or from *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS 105), pepsin or rennet in the manufacture of a product to which subsection (1) applies; and
 	- **(b)** at a level of use above that consistent with good manufacturing practice. 
-> SOR/79-752, s. 2; SOR/92-197, s. 5; SOR/94-212, s. 5; SOR/95-183, s. 5.
+> SOR/79-752, s. 2; SOR/92-197, s. 5; SOR/94-212, s. 5; SOR/95-183, s. 5; SOR/2007-302, s. 4(F).
 
 
 
@@ -9381,7 +9428,7 @@ shall be labelled to show on the principal display panel a statement of the perc
 - **(2)** No person shall use any enzyme
 	- **(a)** other than Chymosin A derived from *Escherichia coli* K-12, GE81 (pPFZ87A), Chymosin B derived from *Aspergillus niger* var. *awamori*, GCC0349 (pGAMpR) or from *Kluyveromyces marxianus* var. *lactis*, DS1182 (pKS 105), pepsin or rennet in the manufacture of a product to which subsection (1) applies; and
 	- **(b)** at a level of use above that consistent with good manufacturing practice. 
-> SOR/79-752, s. 2; SOR/92-197, s. 6; SOR/94-212, s. 6; SOR/95-183, s. 6.
+> SOR/79-752, s. 2; SOR/92-197, s. 6; SOR/94-212, s. 6; SOR/95-183, s. 6; SOR/2007-302, s. 4(F).
 
 
 
@@ -9512,7 +9559,7 @@ shall be labelled to show on the principal display panel a statement of the perc
 - **(2)** Only a cheese to which wood smoke has been added as permitted in subsection (1) may be described by the term “smoked” on a label.
 
 - **(3)** Where a cheese is labelled as permitted in subsection (2), the word “smoked” shall be shown on the principal display panel. 
-> SOR/79-752, s. 2; SOR/91-409, s. 3; SOR/92-400, s. 6.
+> SOR/79-752, s. 2; SOR/91-409, s. 3; SOR/92-400, s. 6; SOR/2007-302, s. 4(F).
 
 
 
@@ -9554,7 +9601,7 @@ shall be labelled to show on the principal display panel a statement of the perc
 - **(2)** Only a cheese to which wood smoke has been added as permitted in subsection (1) may be described by the term “smoked” on a label.
 
 - **(3)** Where a cheese is labelled as permitted in subsection (2), the word “smoked” shall be shown on the principal display panel. 
-> SOR/79-752, s. 2; SOR/91-409, s. 4; SOR/92-400, s. 7.
+> SOR/79-752, s. 2; SOR/91-409, s. 4; SOR/92-400, s. 7; SOR/2007-302, s. 4(F).
 
 
 
@@ -9592,7 +9639,7 @@ shall be labelled to show on the principal display panel a statement of the perc
 - **(2)** Only a cheese to which wood smoke has been added as permitted in subsection (1) may be described by the term “smoked” on a label.
 
 - **(3)** Where a cheese is labelled as permitted in subsection (2), the word “smoked” shall be shown on the principal display panel. 
-> SOR/79-752, s. 2; SOR/82-1071, s. 4; SOR/91-409, s. 5.
+> SOR/79-752, s. 2; SOR/82-1071, s. 4; SOR/91-409, s. 5; SOR/2007-302, s. 4(F).
 
 
 
@@ -9634,7 +9681,7 @@ shall be labelled to show on the principal display panel a statement of the perc
 - **(2)** Only a cheese to which wood smoke has been added as permitted in subsection (1) may be described by the term “smoked” on a label.
 
 - **(3)** Where a cheese is labelled as permitted in subsection (2), the word “smoked” shall be shown on the principal display panel. 
-> SOR/79-752, s. 2; SOR/82-1071, s. 5; SOR/91-409, s. 6.
+> SOR/79-752, s. 2; SOR/82-1071, s. 5; SOR/91-409, s. 6; SOR/2007-302, s. 4(F).
 
 
 
@@ -9743,7 +9790,7 @@ shall be labelled to show on the principal display panel a statement of the perc
 - **(2)** Only a cheese to which wood smoke has been added as permitted in subsection (1) may be described by the term “smoked” on a label.
 
 - **(3)** Where a cheese is labelled as permitted in subsection (2), the word “smoked” shall be shown on the principal display panel. 
-> SOR/79-752, s. 2.
+> SOR/79-752, s. 2; SOR/2007-302, s. 4(F).
 
 
 
@@ -9782,7 +9829,7 @@ shall be labelled to show on the principal display panel a statement of the perc
 - **(2)** Only a cheese to which wood smoke has been added as permitted in subsection (1) may be described by the term “smoked” on a label.
 
 - **(3)** Where a cheese is labelled as permitted in subsection (2), the word “smoked” shall be shown on the principal display panel. 
-> SOR/79-752, s. 2.
+> SOR/79-752, s. 2; SOR/2007-302, s. 4(F).
 
 
 
@@ -9931,7 +9978,7 @@ per gram, as determined by official method MFO-14, Microbiological Examination o
 #### Ice Cream
 
 
-**B.08.061** [S]. **Ice Cream Mix**
+**B.08.061** **[S]. Ice Cream Mix**
 - **(a)** shall be the unfrozen, pasteurized combination of cream, milk or other milk products, sweetened with sugar, liquid sugar, invert sugar, honey, dextrose, glucose, corn syrup, corn syrup solids or any combination of such sweeteners;
 - **(b)** may contain
 	- **(i)** egg,
@@ -9946,8 +9993,8 @@ per gram, as determined by official method MFO-14, Microbiological Examination o
 	- **(x)** propylene glycol mono fatty acid esters in an amount that will not exceed 0.35 per cent of the ice cream made from the mix and sorbitan tristearate in an amount that will not exceed 0.035 per cent of the ice cream made from the mix; and
 - **(c)** shall contain not less than
 	- **(i)** 36 per cent solids, and
-	- **(ii)** 10 per cent milk fat or, where cocoa or chocolate syrup has been added, eight per cent milk fat. 
-> SOR/92-400, s. 11; SOR/97-543, s. 2(F); SOR/2007-75, s. 2.
+	- **(ii)** 10 per cent milk fat or, where cocoa or chocolate syrup has been added, eight per cent milk fat.
+> SOR/92-400, s. 11; SOR/97-543, s. 2(F); SOR/2007-75, s. 2; SOR/2007-302, s. 4(F).
 
 
 
@@ -9974,7 +10021,7 @@ as determined by official method MFO-2, Microbiological Examination of Ice Cream
 
 
 
-**B.08.063** [S]. **Sherbet**
+**B.08.063** **[S]. Sherbet**
 - **(a)** shall be the frozen food, other than ice cream or ice milk, made from a milk product;
 - **(b)** may contain
 	- **(i)** water,
@@ -9990,8 +10037,8 @@ as determined by official method MFO-2, Microbiological Examination of Ice Cream
 	- **(xi)** not more than one per cent added edible casein or edible caseinates; and
 - **(c)** shall contain
 	- **(i)** not more than five per cent milk solids, including milk fat, and
-	- **(ii)** not less than 0.35 per cent acid determined by titration and expressed as lactic acid. 
-> SOR/92-400, s. 13; SOR/97-543, s. 3(F); SOR/98-580, s. 1(F).
+	- **(ii)** not less than 0.35 per cent acid determined by titration and expressed as lactic acid.
+> SOR/92-400, s. 13; SOR/97-543, s. 3(F); SOR/98-580, s. 1(F); SOR/2007-302, s. 4(F).
 
 
 
@@ -10000,7 +10047,7 @@ as determined by official method MFO-2, Microbiological Examination of Ice Cream
 #### Ice Milk
 
 
-**B.08.071** [S]. **Ice Milk Mix**
+**B.08.071** **[S]. Ice Milk Mix**
 - **(a)** shall be the unfrozen, pasteurized combination of cream, milk or other milk products, sweetened with sugar, liquid sugar, invert sugar, honey, dextrose, glucose, corn syrup, corn syrup solids or any combination of such sweeteners;
 - **(b)** may contain
 	- **(i)** egg,
@@ -10016,8 +10063,8 @@ as determined by official method MFO-2, Microbiological Examination of Ice Cream
 	- **(xi)** not more than one per cent added edible casein or edible caseinates; and
 - **(c)** shall contain
 	- **(i)** not less than 33 per cent solids, and
-	- **(ii)** not less than three per cent and not more than five per cent milk fat. 
-> SOR/92-400, s. 14; SOR/97-543, s. 4(F).
+	- **(ii)** not less than three per cent and not more than five per cent milk fat.
+> SOR/92-400, s. 14; SOR/97-543, s. 4(F); SOR/2007-302, s. 4(F).
 
 
 
@@ -11424,7 +11471,7 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 #### Bread
 
 
-**B.13.021** [S]. **Bread** or **White Bread** shall be the food made by baking a yeast-leavened dough prepared with flour and water and may contain
+**B.13.021** **[S]. Bread** or **White Bread** shall be the food made by baking a yeast-leavened dough prepared with flour and water and may contain
 - **(a)** salt;
 - **(b)** shortening, lard, butter or margarine;
 - **(c)** milk or milk product;
@@ -11452,8 +11499,8 @@ chlorine or any compounds of chlorine need not be shown as ingredients on any pa
 - **(y)** lactic acid;
 - **(z)** azodicarbonamide in an amount not exceeding 45 parts by weight for each one million parts of flour;
 - **(aa)** calcium iodate, potassium iodate or any combination thereof in an amount not greater than 45 parts by weight of all such additives for each one million parts of flour; and
-- **(bb)** acetylated tartaric acid esters of mono- and diglycerides in an amount not greater than 0.6 parts by weight for each 100 parts of flour used. 
-> SOR/78-402, s. 5; SOR/79-251, s. 2; SOR/82-383, ss. 7, 8; SOR/84-300, s. 43(E); SOR/92-63, s. 3; SOR/92-94, s. 3; SOR/94-227, s. 3; SOR/97-122, s. 3; SOR/97-558, s. 3; SOR/2003-130, s. 3.
+- **(bb)** acetylated tartaric acid esters of mono- and diglycerides in an amount not greater than 0.6 parts by weight for each 100 parts of flour used.
+> SOR/78-402, s. 5; SOR/79-251, s. 2; SOR/82-383, ss. 7, 8; SOR/84-300, s. 43(E); SOR/92-63, s. 3; SOR/92-94, s. 3; SOR/94-227, s. 3; SOR/97-122, s. 3; SOR/97-558, s. 3; SOR/2003-130, s. 3; SOR/2007-302, s. 4(F).
 
 
 
@@ -19186,7 +19233,7 @@ and for the purpose of this section scalp and snouts are deemed head meat.
 </tr>
 </table>
 
-> SOR/78-402, s. 7; SOR/79-660, ss. 11, 12; SOR/79-752, s. 7; SOR/93-445, s. 1; SOR/94-689, s. 2(F)..
+> SOR/78-402, s. 7; SOR/79-660, ss. 11, 12; SOR/79-752, s. 7; SOR/93-445, s. 1; SOR/94-689, s. 2(F); SOR/2007-302, s. 4(F)..
 
 
 
