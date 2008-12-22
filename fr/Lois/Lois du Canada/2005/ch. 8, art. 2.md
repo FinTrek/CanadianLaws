@@ -64,7 +64,9 @@ Sanctionnée sur le 23 mars 2005
 
 **Avis**
 
-**6** Le ministre des Finances fait publier dans la Gazette du Canada un avis des dates d’entrée en vigueur et de cessation d’effet de la Convention dans les soixante jours suivant son entrée en vigueur ou sa dénonciation.
+<sup><a href='#nbp_IndC14_hq_6663'>[*]</a></sup>**6** Le ministre des Finances fait publier dans la Gazette du Canada un avis des dates d’entrée en vigueur et de cessation d’effet de la Convention dans les soixante jours suivant son entrée en vigueur ou sa dénonciation.
+
+<a name='nbp_IndC14_hq_6663'><sup>*</sup></a>: [Note : Convention en vigueur le 22 décembre 2008, *voir* Gazette du Canada Partie I, vol. 143, p. 249.]<br />
 
 
 
