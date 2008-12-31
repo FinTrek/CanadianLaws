@@ -22049,18 +22049,18 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 ### **ANNEXE I** 
 **(article 14)**
-## au 31 décembre 2007
+## au 31 décembre 2008
 <table>
 <tr>
 <th>Dénomination sociale de la banque</th>
-<th>Siège</th>
+<th>Siège social</th>
 </tr>
 <tr>
 <td>Banque de Montréal</td>
 <td>Québec</td>
 </tr>
 <tr>
-<td>La Banque de Nouvelle-Écosse</td>
+<td>Banque de Nouvelle-Écosse (La)</td>
 <td>Nouvelle-Écosse</td>
 </tr>
 <tr>
@@ -22112,6 +22112,10 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Alberta</td>
 </tr>
 <tr>
+<td>Jameson Bank</td>
+<td>Ontario</td>
+</tr>
+<tr>
 <td>Banque Laurentienne du Canada</td>
 <td>Québec</td>
 </tr>
@@ -22136,23 +22140,23 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Québec</td>
 </tr>
 <tr>
-<td>La Banque Toronto-Dominion</td>
+<td>Banque Toronto-Dominion (La)</td>
 <td>Ontario</td>
 </tr>
 </table>
 
-> 1991, ch. 46, ann. I; 2005, ch. 54, art. 139; 2007, ch. 6, art. 131(F); Gazette du Canada Partie I, volume 142, page 503.
+> 1991, ch. 46, ann. I; 2005, ch. 54, art. 139; 2007, ch. 6, art. 131(F); Gazette du Canada Partie I, volume 143, page 463.
 
 
 
 
 ### **ANNEXE II** 
 **(article 14)**
-## au 31 décembre 2007
+## au 31 décembre 2008
 <table>
 <tr>
 <th>Dénomination sociale de la banque</th>
-<th>Siège</th>
+<th>Siège social</th>
 </tr>
 <tr>
 <td>Banque ABN AMRO du Canada</td>
@@ -22171,7 +22175,7 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Ontario</td>
 </tr>
 <tr>
-<td>La Banque de l’Asie de l’Est (Canada)</td>
+<td>Banque de l’Asie de l’Est (Canada) (La)</td>
 <td>Ontario</td>
 </tr>
 <tr>
@@ -22185,6 +22189,10 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <tr>
 <td>BNP Paribas (Canada)</td>
 <td>Québec</td>
+</tr>
+<tr>
+<td>Citco Bank Canada</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Citibanque Canada</td>
@@ -22235,6 +22243,10 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Ontario</td>
 </tr>
 <tr>
+<td>Banque Shinhan du Canada</td>
+<td>Ontario</td>
+</tr>
+<tr>
 <td>Société Générale (Canada)</td>
 <td>Québec</td>
 </tr>
@@ -22252,18 +22264,18 @@ Elle lui communique également les renseignements personnels qui les concernent 
 </tr>
 </table>
 
-> 1991, ch. 46, ann. II; 2005, ch. 54, art. 139; 2007, ch. 6, art. 131(F); Gazette du Canada Partie I, volume 142, page 503.
+> 1991, ch. 46, ann. II; 2005, ch. 54, art. 139; 2007, ch. 6, art. 131(F); Gazette du Canada Partie I, volume 143, page 463.
 
 
 
 
 ### **ANNEXE III** 
 **(article 14.1)**
-## au 31 décembre 2007
+## au 31 décembre 2008
 <table>
 <tr>
 <th>Dénomination sociale de la banque étrangère autorisée</th>
-<th>Dénomination sociale sous laquelle elle est autorisée à exercer ses activités au Canada</th>
+<th>Dénomination sous laquelle elle est autorisée à exercer ses activités au Canada</th>
 <th>Genre de succursale de banque étrangère (SBE)<sup><a href='#B-1.01_annIII_f'>[*]</a></sup></th>
 <th>Bureau principal</th>
 </tr>
@@ -22276,19 +22288,31 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <tr>
 <td>Allied Irish Banks, p.l.c.</td>
 <td>Allied Irish Banks, p.l.c.</td>
-<td>Prêt </td>
+<td>Prêt</td>
 <td>Ontario</td>
 </tr>
 <tr>
 <td>AmTrust Bank </td>
 <td>AmTrust Bank, Canadian Branch</td>
-<td>Prêt </td>
+<td>Prêt</td>
 <td>Ontario</td>
 </tr>
 <tr>
 <td>Bank of America, National Association</td>
 <td>Bank of America, National Association</td>
 <td>Services complets</td>
+<td>Ontario</td>
+</tr>
+<tr>
+<td>Bank of New York Mellon (The)</td>
+<td>Bank of New York Mellon (The)</td>
+<td>Services complets</td>
+<td>Ontario</td>
+</tr>
+<tr>
+<td>Bayerische Hypo- und Vereinsbank AG</td>
+<td>Bayerische Hypo- und Vereinsbank AG, succursale canadienne</td>
+<td>Prêt</td>
 <td>Ontario</td>
 </tr>
 <tr>
@@ -22346,6 +22370,12 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Colombie-Britannique</td>
 </tr>
 <tr>
+<td>Glitnir banki hf.</td>
+<td>Banque Glitnir</td>
+<td>Services complets</td>
+<td>Nouvelle-Écosse</td>
+</tr>
+<tr>
 <td>HSBC Bank USA, National Association</td>
 <td>HSBC Bank USA, National Association</td>
 <td>Services complets</td>
@@ -22370,12 +22400,6 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Ontario</td>
 </tr>
 <tr>
-<td>Mellon Bank, N.A.</td>
-<td>Mellon Bank, N.A.</td>
-<td>Services complets</td>
-<td>Ontario</td>
-</tr>
-<tr>
 <td>Merrill Lynch International Bank Limited</td>
 <td>Merrill Lynch International Bank Limited</td>
 <td>Prêt</td>
@@ -22394,8 +22418,8 @@ Elle lui communique également les renseignements personnels qui les concernent 
 <td>Ontario</td>
 </tr>
 <tr>
-<td>The Northern Trust Company</td>
-<td>The Northern Trust Company, Canada Branch</td>
+<td>Northern Trust Company (The)</td>
+<td>Northern Trust Company, Canada Branch (The)</td>
 <td>Services complets</td>
 <td>Ontario</td>
 </tr>
@@ -22445,6 +22469,6 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 
 <a name='B-1.01_annIII_f'><sup>*</sup></a>: Une SBE dont l’ordonnance est assujettie aux restrictions et aux exigences visées au paragraphe 524(2) de la  Loi sur les banques est appelée une succursale de « prêt ».<br />
-> 1999, ch. 28, art. 75; 2005, ch. 54, art. 139; Gazette du Canada Partie I, volume 142, page 503.
+> 1999, ch. 28, art. 75; 2005, ch. 54, art. 139; Gazette du Canada Partie I, volume 143, page 463.
 
 
