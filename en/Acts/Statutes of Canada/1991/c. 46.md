@@ -22448,7 +22448,7 @@ together with such other information about the background, business record and e
 
 ### **SCHEDULE I** 
 **(Section 14)**
-## As at December 31, 2007
+## As at December 31, 2008
 <table>
 <tr>
 <th>Name of Bank</th>
@@ -22459,7 +22459,7 @@ together with such other information about the background, business record and e
 <td>Quebec</td>
 </tr>
 <tr>
-<td>The Bank of Nova Scotia</td>
+<td>Bank of Nova Scotia (The)</td>
 <td>Nova Scotia</td>
 </tr>
 <tr>
@@ -22511,6 +22511,10 @@ together with such other information about the background, business record and e
 <td>Alberta</td>
 </tr>
 <tr>
+<td>Jameson Bank</td>
+<td>Ontario</td>
+</tr>
+<tr>
 <td>Laurentian Bank of Canada</td>
 <td>Quebec</td>
 </tr>
@@ -22535,19 +22539,19 @@ together with such other information about the background, business record and e
 <td>Quebec</td>
 </tr>
 <tr>
-<td>The Toronto-Dominion Bank</td>
+<td>Toronto-Dominion Bank (The)</td>
 <td>Ontario</td>
 </tr>
 </table>
 
-> 1991, c. 46, Sch. I; 2005, c. 54, s. 139; 2007, c. 6, s. 131(F); Canada Gazette Part I, Volume 142, page 503.
+> 1991, c. 46, Sch. I; 2005, c. 54, s. 139; 2007, c. 6, s. 131(F); Canada Gazette Part I, Volume 143, page 463.
 
 
 
 
 ### **SCHEDULE II** 
 **(Section 14)**
-## As at December 31, 2007
+## As at December 31, 2008
 <table>
 <tr>
 <th>Name of Bank</th>
@@ -22570,7 +22574,7 @@ together with such other information about the background, business record and e
 <td>Ontario</td>
 </tr>
 <tr>
-<td>The Bank of East Asia (Canada)</td>
+<td>Bank of East Asia (Canada) (The)</td>
 <td>Ontario</td>
 </tr>
 <tr>
@@ -22584,6 +22588,10 @@ together with such other information about the background, business record and e
 <tr>
 <td>BNP Paribas (Canada)</td>
 <td>Quebec</td>
+</tr>
+<tr>
+<td>Citco Bank Canada</td>
+<td>Ontario</td>
 </tr>
 <tr>
 <td>Citibank Canada</td>
@@ -22634,6 +22642,10 @@ together with such other information about the background, business record and e
 <td>Ontario</td>
 </tr>
 <tr>
+<td>Shinhan Bank Canada</td>
+<td>Ontario</td>
+</tr>
+<tr>
 <td>Société Générale (Canada)</td>
 <td>Quebec</td>
 </tr>
@@ -22651,14 +22663,14 @@ together with such other information about the background, business record and e
 </tr>
 </table>
 
-> 1991, c. 46, Sch. II; 2005, c. 54, s. 139; 2007, c. 6, s. 131(F); Canada Gazette Part I, Volume 142, page 503.
+> 1991, c. 46, Sch. II; 2005, c. 54, s. 139; 2007, c. 6, s. 131(F); Canada Gazette Part I, Volume 143, page 463.
 
 
 
 
 ### **SCHEDULE III** 
 **(Section 14.1)**
-## As at December 31, 2007
+## As at December 31, 2008
 <table>
 <tr>
 <th>Name of Authorized Foreign Bank (FB)</th>
@@ -22688,6 +22700,18 @@ together with such other information about the background, business record and e
 <td>Bank of America, National Association</td>
 <td>Bank of America, National Association</td>
 <td>Full-service</td>
+<td>Ontario</td>
+</tr>
+<tr>
+<td>Bank of New York Mellon (The)</td>
+<td>Bank of New York Mellon (The)</td>
+<td>Full-service</td>
+<td>Ontario</td>
+</tr>
+<tr>
+<td>Bayerische Hypo- und Vereinsbank AG</td>
+<td>Bayerische Hypo- und Vereinsbank AG, Canada Branch</td>
+<td>Lending</td>
 <td>Ontario</td>
 </tr>
 <tr>
@@ -22745,6 +22769,12 @@ together with such other information about the background, business record and e
 <td>British Columbia</td>
 </tr>
 <tr>
+<td>Glitnir banki hf.</td>
+<td>Glitnir Bank</td>
+<td>Full-service</td>
+<td>Nova Scotia</td>
+</tr>
+<tr>
 <td>HSBC Bank USA, National Association</td>
 <td>HSBC Bank USA, National Association</td>
 <td>Full-service</td>
@@ -22769,12 +22799,6 @@ together with such other information about the background, business record and e
 <td>Ontario</td>
 </tr>
 <tr>
-<td>Mellon Bank, N.A.</td>
-<td>Mellon Bank, N.A.</td>
-<td>Full-service</td>
-<td>Ontario</td>
-</tr>
-<tr>
 <td>Merrill Lynch International Bank Limited</td>
 <td>Merrill Lynch International Bank Limited</td>
 <td>Lending</td>
@@ -22793,8 +22817,8 @@ together with such other information about the background, business record and e
 <td>Ontario</td>
 </tr>
 <tr>
-<td>The Northern Trust Company</td>
-<td>The Northern Trust Company, Canada Branch</td>
+<td>Northern Trust Company (The)</td>
+<td>Northern Trust Company, Canada Branch (The)</td>
 <td>Full-service</td>
 <td>Ontario</td>
 </tr>
@@ -22844,6 +22868,6 @@ together with such other information about the background, business record and e
 
 
 <a name='c54_SchIII_e'><sup>*</sup></a>: An FBB, whose order is subject to the restrictions and requirements referred to in subsection 524(2) of the Bank Act, is referred to as a “lending” branch.<br />
-> 1999, c. 28, s. 75; 2005, c. 54, s. 139; Canada Gazette Part I, Volume 142, page 503.
+> 1999, c. 28, s. 75; 2005, c. 54, s. 139; Canada Gazette Part I, Volume 143, page 463.
 
 
