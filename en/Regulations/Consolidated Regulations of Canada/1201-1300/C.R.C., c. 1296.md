@@ -145,7 +145,7 @@ Enabling authorities:
 - **(1)** Registered mailable matter posted in Canada for delivery in Canada may be accepted for insurance against loss, rifling or damage.
 
 - **(2)** When registered mailable matter is accepted for insurance, the Corporation shall give to the sender a receipt in a form approved by the Corporation.
-> SOR/82-25, s. 9; SOR/86-241, s. 6; SOR/87-162, s. 4; SOR/88-441, s. 9; SOR/90-17, s. 9; SOR/91-184, s. 1; SOR/91-628, s. 5; SOR/91-635, s. 5; SOR/95-311, s. 1; SOR/96-210, s. 1; SOR/2003-378, s. 4; SOR/2006-345, s. 1.
+> SOR/82-25, s. 9; SOR/86-241, s. 6; SOR/87-162, s. 4; SOR/88-441, s. 9; SOR/90-17, s. 9; SOR/91-184, s. 1; SOR/91-628, s. 5; SOR/91-635, s. 5; SOR/95-311, s. 1; SOR/96-210, s. 1; SOR/2003-378, s. 4; SOR/2006-345, s. 1; SOR/2008-284, s. 1(F).
 
 
 
@@ -386,7 +386,7 @@ if
 <td>**(a)** delivery
 
 </td>
-<td>$7.25</td>
+<td>$7.50</td>
 </tr>
 <tr>
 <td>**(b)** [Repealed, SOR/2006-345, s. 2]
@@ -471,7 +471,7 @@ if
 </tr>
 </table>
 
-> SOR/88-441, s. 25; SOR/88-621, ss. 4, 5; SOR/90-17, ss. 19 to 21; SOR/90-800, ss. 7 to 9; SOR/91-184, s. 3; SOR/91-628, ss. 9 to 11; SOR/91-635, ss. 6 to 8; SOR/91-642, s. 1; SOR/92-698, ss. 3, 4; SOR/92-704, s. 1; SOR/94-199, ss. 1 to 3; SOR/94-205, s. 1; SOR/95-141, s. 1; SOR/95-308, ss. 1 to 3; SOR/95-311, ss. 5, 6; SOR/96-210, ss. 3, 4; SOR/98-558, s. 2; SOR/98-559, ss. 5 to 7; SOR/2001-448, ss. 1 to 3; SOR/2002-167, s. 6; SOR/2003-378, ss. 12, 13; SOR/2003-382, s. 6(E); SOR/2004-296, ss. 1, 2; SOR/2005-360, s. 3; SOR/2006-344, s. 1; SOR/2006-345, ss. 2, 3; SOR/2007-297, s. 1.
+> SOR/88-441, s. 25; SOR/88-621, ss. 4, 5; SOR/90-17, ss. 19 to 21; SOR/90-800, ss. 7 to 9; SOR/91-184, s. 3; SOR/91-628, ss. 9 to 11; SOR/91-635, ss. 6 to 8; SOR/91-642, s. 1; SOR/92-698, ss. 3, 4; SOR/92-704, s. 1; SOR/94-199, ss. 1 to 3; SOR/94-205, s. 1; SOR/95-141, s. 1; SOR/95-308, ss. 1 to 3; SOR/95-311, ss. 5, 6; SOR/96-210, ss. 3, 4; SOR/98-558, s. 2; SOR/98-559, ss. 5 to 7; SOR/2001-448, ss. 1 to 3; SOR/2002-167, s. 6; SOR/2003-378, ss. 12, 13; SOR/2003-382, s. 6(E); SOR/2004-296, ss. 1, 2; SOR/2005-360, s. 3; SOR/2006-344, s. 1; SOR/2006-345, ss. 2, 3; SOR/2007-297, s. 1; SOR/2008-284, s. 2.
 
 
 
