@@ -2479,6 +2479,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 Bande indienne Adams Lake
 
 
+Première nation Aitchelitz
+
+
 Première nation ?Akisq’nuk
 
 
@@ -2500,6 +2503,9 @@ Première nation Chippewas de Georgina Island
 Première nation Chippewas de Kettle et Stony Point
 
 
+Première nation Elsipogtog
+
+
 Première nation Indian Island
 
 
@@ -2512,7 +2518,7 @@ Première nation Kitselas
 Première nation Kwaw-Kwaw Apilt
 
 
-Première nation Lequ’á:mel
+Première nation Leq’á:mel
 
 
 Bande indienne Lower Kootenay
@@ -2545,6 +2551,9 @@ Bande indienne Neskonlith
 Bande indienne Osoyoos
 
 
+Première nation Popkum
+
+
 Bande Seabird Island
 
 
@@ -2575,6 +2584,9 @@ Première nation Sliammon
 Première nation Songhees
 
 
+Nation Squamish
+
+
 Première nation Squiala
 
 
@@ -2582,6 +2594,9 @@ Première nation St. Mary’s
 
 
 Première nation Sumas
+
+
+Première nation Thunderchild
 
 
 Premières nations Tla-o-qui-aht
@@ -2599,6 +2614,9 @@ Première nation Tsawout
 Première Nation Tsawwassen
 
 
+Nation Tsleil-Waututh (aussi connue sous le nom de Bande indienne Burrard)
+
+
 Première nation Tzeachten
 
 
@@ -2611,6 +2629,6 @@ Première nation White Bear
 Première nation Yakweakwioose
 
 
-> 2005, ch. 9, ann.; DORS/2007-276, art. 1; DORS/2008-264.
+> 2005, ch. 9, ann.; DORS/2007-276, art. 1; DORS/2008-264; DORS/2009-25.
 
 
