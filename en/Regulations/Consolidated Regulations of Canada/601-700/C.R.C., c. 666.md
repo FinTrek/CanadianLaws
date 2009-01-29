@@ -110,9 +110,7 @@ Enabling authorities:
 - **(a)** recommended for use only on household plants, urban gardens, lawns or golf courses or in nurseries or greenhouses, or
 - **(b)** that contains no major plant nutrients and contains lesser plant nutrients other than calcium (Ca), magnesium (Mg) and sulphur (S); (*engrais spécial*)
 
-***specified risk material*** means
-- **(a)** the skull, brain, trigeminal ganglia, eyes, tonsils, spinal cord and dorsal root ganglia of cattle aged 30 months or older, and
-- **(b)** the distal ileum of cattle of all ages; (*matériel à risque spécifié*)
+***specified risk material*** means the skull, brain, trigeminal ganglia, eyes, tonsils, spinal cord and dorsal root ganglia of cattle aged 30 months or older, and the distal ileum of cattle of all ages, but does not include material from a country of origin as defined in section 2 of the [Health of Animals Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/201-300/C.R.C.,%20c.%20296.md), or a part of a country of origin, that is designated under section 7 of those Regulations as posing a negligible risk for Bovine Spongiform Encephalopathy; (*matériel à risque spécifié*)
 
 ***supplement*** includes a supplement derived through biotechnology; (*supplément*)
 
@@ -122,7 +120,7 @@ Enabling authorities:
 	- **(a)** having or that may have an immediate or long-term harmful effect on the environment;
 	- **(b)** constituting or that may constitute a danger to the environment on which human life depends; or
 	- **(c)** constituting or that may constitute a danger in Canada to human life or health.
-> SOR/79-365, s. 1; SOR/85-558, s. 1; SOR/88-353, s. 1; SOR/91-441, s. 1; SOR/93-232, s. 2; SOR/94-683, s. 3; SOR/95-53, s. 1; SOR/95-548, s. 4; SOR/97-7, s. 2; SOR/97-292, s. 25; SOR/2000-184, s. 55; SOR/2003-6, s. 72; SOR/2006-147, s. 6.
+> SOR/79-365, s. 1; SOR/85-558, s. 1; SOR/88-353, s. 1; SOR/91-441, s. 1; SOR/93-232, s. 2; SOR/94-683, s. 3; SOR/95-53, s. 1; SOR/95-548, s. 4; SOR/97-7, s. 2; SOR/97-292, s. 25; SOR/2000-184, s. 55; SOR/2003-6, s. 72; SOR/2006-147, s. 6; SOR/2009-18, s. 2.
 
 
 
