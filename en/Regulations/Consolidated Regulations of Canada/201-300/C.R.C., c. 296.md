@@ -103,7 +103,7 @@ Enabling authorities:
 ***country of origin*** means
 - **(a)** with respect to an animal, the country from which the animal was imported into Canada, where the animal has lived for no less than 60 days in that country in association with other animals of its own species and, in any other case, means the country in which the animal was born,
 - **(b)** with respect to an animal embryo, animal product or animal by-product, the country in which the animal embryo, animal product or animal by-product was taken from an animal, or
-- **(c)** with respect to an animal product or animal by-product other than non-fertilized ova, semen and meat as defined in the [Meat Inspection Regulations, 1990](/en/Regulations/Statutory%20Orders%20and%20Regulations/90/288.md), the country into which the animal product or animal by-product was previously imported for unrestricted use or in which it has undergone processing that would prevent the introduction of any reportable disease or any other serious epizootic disease to which the species that produced the animal product or animal by-product is susceptible and which can be transmitted by the product or by-product in Canada and that results in unrestricted use in that country; (*pays d’origine*)
+- **(c)** with respect to an animal product or animal by-product — other than non-fertilized ova, semen and meat as defined in subsection 2(1) of the [Meat Inspection Regulations, 1990](/en/Regulations/Statutory%20Orders%20and%20Regulations/90/288.md) — that has undergone processing that would prevent the introduction of any reportable disease, any disease referred to in Schedule VII and any serious epizootic disease to which the species from which the product or by-product was derived is susceptible and that can be transmitted by the product or by-product, the country in which the product or by-product underwent that processing; (*pays d’origine*)
 
 ***disease*** means, for the purposes of Parts III and IV, any reportable disease or other serious epizootic disease to which an animal or germplasm is susceptible and which can be transmitted by the animal or germplasm; (*maladie*)
 
@@ -243,7 +243,7 @@ Enabling authorities:
 ***Veterinary Inspection, Operations***[Repealed, SOR/97-85, s. 1]
 
 ***veterinary inspector***[Repealed, SOR/97-85, s. 1]
-> SOR/78-69, s. 1; SOR/78-205, s. 1; SOR/78-597, s. 1; SOR/79-295, s. 1; SOR/79-839, s. 1; SOR/80-516, s. 1; SOR/82-590, s. 1; SOR/82-777, s. 1; SOR/84-139, s. 1(F); SOR/84-828, s. 1; SOR/85-545, s. 1; SOR/86-543, s. 1; SOR/91-525, s. 3; SOR/92-585, s. 2; SOR/93-159, s. 1; SOR/94-491, s. 1; SOR/95-54, ss. 1, 6(F); SOR/95-473, s. 1; SOR/95-475, s. 4; SOR/97-85, s. 1; SOR/97-292, s. 27; SOR/97-478, s. 1; SOR/98-409, s. 1; SOR/2001-210, s. 1; SOR/2002-438, s. 6; SOR/2002-444, s. 1; SOR/2004-80, s. 14; SOR/2005-181, s. 1; SOR/2006-147, s. 11; SOR/2007-24, s. 1.
+> SOR/78-69, s. 1; SOR/78-205, s. 1; SOR/78-597, s. 1; SOR/79-295, s. 1; SOR/79-839, s. 1; SOR/80-516, s. 1; SOR/82-590, s. 1; SOR/82-777, s. 1; SOR/84-139, s. 1(F); SOR/84-828, s. 1; SOR/85-545, s. 1; SOR/86-543, s. 1; SOR/91-525, s. 3; SOR/92-585, s. 2; SOR/93-159, s. 1; SOR/94-491, s. 1; SOR/95-54, ss. 1, 6(F); SOR/95-473, s. 1; SOR/95-475, s. 4; SOR/97-85, s. 1; SOR/97-292, s. 27; SOR/97-478, s. 1; SOR/98-409, s. 1; SOR/2001-210, s. 1; SOR/2002-438, s. 6; SOR/2002-444, s. 1; SOR/2004-80, s. 14; SOR/2005-181, s. 1; SOR/2006-147, s. 11; SOR/2007-24, s. 1; SOR/2009-18, s. 3.
 
 
 
@@ -325,10 +325,8 @@ the inspector may order the person who owns or has possession, care or control o
 ## Specified Risk Material
 
 
-**6.1** In this Part, ***specified risk material*** means
-- **(a)** the skull, brain, trigeminal ganglia, eyes, tonsils, spinal cord and dorsal root ganglia of cattle aged 30 months or older; and
-- **(b)** the distal ileum of cattle of all ages.
-> SOR/2003-264, s. 1.
+**6.1** In this Part , ***specified risk material*** means the skull, brain, trigeminal ganglia, eyes, tonsils, spinal cord and dorsal root ganglia of cattle aged 30 months or older, and the distal ileum of cattle of all ages, but does not include material from a country of origin, or a part of a country of origin, that is designated under section 7 as posing a negligible risk for Bovine Spongiform Encephalopathy.
+> SOR/2003-264, s. 1; SOR/2009-18, s. 4.
 
 
 
@@ -416,8 +414,16 @@ the inspector may order the person who owns or has possession, care or control o
 
 
 
-**6.5** Except in accordance with a permit issued under section 160, no person shall feed to any animal material in any form — whether or not incorporated into another thing — that is derived from specified risk material.
-> SOR/2006-147, s. 13.
+**6.5** 
+
+- **(1)** Except in accordance with a permit issued under section 160, no person shall feed to any animal material in any form — whether or not incorporated into another thing — that is derived from specified risk material.
+
+- **(2)** Subsection (1) does not apply to a person who feeds a pet food, pet chew or pet treat to an animal if
+	- **(a)** the country of origin of that product is the United States;
+	- **(b)** the person, on entry into Canada from the United States, was in possession of the product and was accompanied by the animal to which it is fed;
+	- **(c)** the person legally imported both the product and the animal into Canada; and
+	- **(d)** the product is fed only to the animal that accompanied the person into Canada.
+> SOR/2006-147, s. 13; SOR/2009-18, s. 5.
 
 
 
