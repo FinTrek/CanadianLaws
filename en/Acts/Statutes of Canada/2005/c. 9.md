@@ -2484,6 +2484,9 @@ is guilty of an offence and liable on summary conviction to a fine not exceeding
 Adams Lake Indian Band
 
 
+Aitchelitz First Nation
+
+
 ?Akisq’nuk First Nation
 
 
@@ -2505,6 +2508,9 @@ Chippewas of Georgina Island First Nation
 Chippewas of Kettle and Stony Point First Nation
 
 
+Elsipogtog First Nation
+
+
 Indian Island First Nation
 
 
@@ -2517,7 +2523,7 @@ Kitselas First Nation
 Kwaw-Kwaw-Apilt First Nation
 
 
-Lequ’á:mel First Nation
+Leq’á:mel First Nation
 
 
 Lower Kootenay Indian Band
@@ -2550,6 +2556,9 @@ Neskonlith Indian Band
 Osoyoos Indian Band
 
 
+Popkum First Nation
+
+
 Seabird Island Band
 
 
@@ -2580,6 +2589,9 @@ Sliammon First Nation
 Songhees First Nation
 
 
+Squamish Nation
+
+
 Squiala First Nation
 
 
@@ -2587,6 +2599,9 @@ St. Mary’s First Nation
 
 
 Sumas First Nation
+
+
+Thunderchild First Nation
 
 
 Tla-o-qui-aht First Nations
@@ -2604,6 +2619,9 @@ Tsawout First Nation
 Tsawwassen First Nation
 
 
+Tsleil-Waututh Nation (also known as Burrard Indian Band)
+
+
 Tzeachten First Nation
 
 
@@ -2616,6 +2634,6 @@ White Bear First Nation
 Yakweakwioose First Nation
 
 
-> 2005, c. 9, Sch.; SOR/2007-276, s. 1; SOR/2008-264.
+> 2005, c. 9, Sch.; SOR/2007-276, s. 1; SOR/2008-264; SOR/2009-25.
 
 
