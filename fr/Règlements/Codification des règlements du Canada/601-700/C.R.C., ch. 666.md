@@ -94,9 +94,7 @@ Autorités habilitantes :
 
 ***marque*** signifie toute marque ou tout nom de commerce distinctif, autre que la catégorie ou le nom requis par le présent règlement, donnés par le fabricant, l’inscrit ou le vendeur à un engrais ou à un supplément en vue de le distinguer de tout autre engrais ou complément. (*brand*)
 
-***matériel à risque spécifié***
-- **a)** Crâne, cervelle, ganglions trigéminés, yeux, amygdales, moelle épinière et ganglions de la racine dorsale des bœufs âgés de trente mois ou plus;
-- **b)** iléon distal des bœufs de tous âges. (*specified risk material*)
+***matériel à risque spécifié*** Crâne, cervelle, ganglions trigéminés, yeux, amygdales, moelle épinière et ganglions de la racine dorsale des boeufs âgés de trente mois ou plus et l’iléon distal des boeufs de tous âges. La présente définition exclut le matériel provenant d’un pays d’origine, au sens de l’article 2 du [Règlement sur la santé des animaux](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/201-300/C.R.C.,%20ch.%20296.md), ou d’une partie d’un pays d’origine, qui est désigné, en vertu de l’article 7 de ce règlement, comme posant un risque négligeable d’encéphalopathie spongiforme bovine. (*specified risk material*)
 
 ***matière organique*** s’entend de la substance qui reste après l’enlèvement, d’une substance partiellement humifiée d’origine animale ou végétale, de l’humidité et des fractions totales de cendres. (*organic matter*)
 
@@ -122,7 +120,7 @@ Autorités habilitantes :
 	- **a)** avoir, immédiatement ou à long terme, un effet nocif sur l’environnement;
 	- **b)** mettre en danger l’environnement essentiel pour la vie humaine;
 	- **c)** constituer un danger au Canada pour la vie ou la santé humaine.
-> DORS/79-365, art. 1; DORS/85-558, art. 1; DORS/88-353, art. 1; DORS/91-441, art. 1; DORS/93-232, art. 2; DORS/94-683, art. 3; DORS/95-53, art. 1; DORS/95-548, art. 4; DORS/97-7, art. 2; DORS/97-292, art. 25; DORS/2000-184, art. 55; DORS/2003-6, art. 72; DORS/2006-147, art. 6.
+> DORS/79-365, art. 1; DORS/85-558, art. 1; DORS/88-353, art. 1; DORS/91-441, art. 1; DORS/93-232, art. 2; DORS/94-683, art. 3; DORS/95-53, art. 1; DORS/95-548, art. 4; DORS/97-7, art. 2; DORS/97-292, art. 25; DORS/2000-184, art. 55; DORS/2003-6, art. 72; DORS/2006-147, art. 6; DORS/2009-18, art. 2.
 
 
 
