@@ -28,6 +28,8 @@ Enabling authorities:
 
 ***Act*** means the [Pilotage Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-14.md); (*Loi*)
 
+***arrangement of ships*** means a number of ships travelling together that are joined by lines or other means; (*ensemble de navires*)
+
 ***Authority*** means the Great Lakes Pilotage Authority; (*Administration*)
 
 ***Board of Examiners*** means a Board of Examiners established pursuant to section 14; (*jury d'examen*)
@@ -51,7 +53,7 @@ Enabling authorities:
 ***supervisor*** [Repealed, SOR/2004-215, s. 1]
 
 ***Vice-Chairman*** [Repealed, SOR/2004-215, s. 1]
-> SOR/2004-215, s. 1; SOR/2007-95, s. 3(F).
+> SOR/2004-215, s. 1; SOR/2007-95, s. 3(F); SOR/2009-64, s. 1.
 
 
 
@@ -83,12 +85,12 @@ Enabling authorities:
 
 **4** 
 
-- **(1)** Subject to subsection (2), every ship of more than 300 gross registered tons is subject to compulsory pilotage unless it is
+- **(1)** Subject to subsection (2), a ship of more than 1 500 gross registered tons is subject to compulsory pilotage unless it is
 	- **(a)** a ferry operating on a regular schedule;
 	- **(b)** a tug that is
 		- **(i)** not engaged in towing or pushing another ship or object, or
 		- **(ii)** engaged in towing or pushing a ship that is
-			- **(A)** of less than 79.25 m in length, or
+			- **(A)** of less than 80 m in length, or
 			- **(B)** within a harbour;
 	- **(c)** a ship that
 		- **(i)** is inspected and certified as to safety on behalf of the Board of Steamship Inspection established pursuant to the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md),
@@ -101,8 +103,10 @@ Enabling authorities:
 		- **(i)** navigates only on the Great Lakes or inland waters of Canada except for occasional home-trade voyages, and
 		- **(ii)** is under the conduct of a master or deck watch officer who holds a certificate of competency or similar document issued pursuant to the laws of the United States that authorizes that person to have the conduct of the ship within the compulsory pilotage area in which the ship is navigating.
 
-- **(2)** Where two or more ships are being pushed or towed and the total length of those ships including the length of the towing lines is equal to or exceeds 79.25 m, each of those ships is subject to compulsory pilotage.
-> SOR/79-48, s. 1; SOR/81-63, s. 1; SOR/83-256, s. 1; SOR/2007-95, s. 3(F).
+- **(2)** A tug is subject to compulsory pilotage if it is engaged in towing or pushing two or more ships and the combined length of those ships, including the length of any lines, is 80 m or more.
+
+- **(3)** A tug of 1 500 gross registered tons or less that is outside a harbour is subject to compulsory pilotage if it is part of an arrangement of ships having, in total, a gross tonnage of more than 1 500 gross registered tons.
+> SOR/79-48, s. 1; SOR/81-63, s. 1; SOR/83-256, s. 1; SOR/2007-95, s. 3(F); SOR/2009-64, s. 2.
 
 
 
@@ -199,7 +203,7 @@ Enabling authorities:
 
 
 **9** A pilotage certificate issued by the Authority permits its holder to have the conduct of the ship of whose complement the holder is a regular member in each compulsory pilotage area in respect of which the pilotage certificate was issued.
-> SOR/2004-215, s. 5.
+> SOR/2004-215, s. 5; SOR/2009-64, s. 3(F).
 
 
 
@@ -375,10 +379,10 @@ and a holder of a licence or pilotage certificate was on board the ship at the t
 
 - **(3)** Where a report referred to in subsection (1) cannot be made directly to the Authority, it shall be made to the nearest maritime traffic control centre.
 
-- **(4)** Every person who makes a report referred to in subsection (1) shall, as soon as possible after making the report, attend before an officer of the Authority and make a written report of the incident on a form provided by the officer.
+- **(4)** Every person who makes a report referred to in subsection (1) shall, as soon as possible after making the report, attend before an officer of the Authority and make a written report of the incident on a form provided by the Authority.
 
 - **(5)** Every report made under subsection (1) or (4) shall be confidential and shall not be released by the Authority to any person without the prior consent of the person who made the report.
-> SOR/2004-215, s. 13.
+> SOR/2004-215, s. 13; SOR/2009-64, s. 4.
 
 
 
