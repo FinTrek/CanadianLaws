@@ -28,30 +28,32 @@ Autorités habilitantes :
 
 ***Administration*** L’Administration de pilotage des Grands Lacs. (*Authority*)
 
-***creux*** désigne, dans le cas d'un navire, la distance verticale mesurée en mètres, au milieu du navire, entre le dessus de la tôle de quille et le pont continu le plus élevé qui s'étend de l'avant à l'arrière et d'un côté à l'autre du navire et, aux fins de la présente définition, la continuité d'un pont est censée ne pas être interrompue par la présence d'ouvertures de tonnage, d'espaces de machines ou de baïonnettes dans le pont; (*depth*)
+***creux*** désigne, dans le cas d’un navire, la distance verticale mesurée en mètres, au milieu du navire, entre le dessus de la tôle de quille et le pont continu le plus élevé qui s’étend de l’avant à l’arrière et d’un côté à l’autre du navire et, aux fins de la présente définition, la continuité d’un pont est censée ne pas être interrompue par la présence d’ouvertures de tonnage, d’espaces de machines ou de baïonnettes dans le pont; (*depth*)
 
-***déplacement*** s'entend du déplacement d'un navire d'un endroit à un autre dans les limites d'un port, mais ne comprend pas un déplacement effectué uniquement au moyen des amarres du navire en vue de charger ou de décharger des marchandises ou de dégager un poste pour permettre à un autre navire de s'y amarrer; (*movage*)
+***déplacement*** s’entend du déplacement d’un navire d’un endroit à un autre dans les limites d’un port, mais ne comprend pas un déplacement effectué uniquement au moyen des amarres du navire en vue de charger ou de décharger des marchandises ou de dégager un poste pour permettre à un autre navire de s’y amarrer; (*movage*)
 
-***jury d'examen*** désigne un jury d'examen établi en vertu de l'article 14; (*Board of Examiners*)
+***ensemble de navires*** Plusieurs navires qui voyagent ensemble et qui sont reliés par des amarres ou un autre moyen. (*arrangement of ships*)
 
-***largeur*** désigne, dans le cas d'un navire, la largeur maximale mesurée en mètres entre la face extérieure des bordés extérieurs du navire; (*breadth*)
+***jury d’examen*** désigne un jury d’examen établi en vertu de l’article 14; (*Board of Examiners*)
+
+***largeur*** désigne, dans le cas d’un navire, la largeur maximale mesurée en mètres entre la face extérieure des bordés extérieurs du navire; (*breadth*)
 
 ***Loi*** désigne la [Loi sur le pilotage](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-14.md); (*Act*)
 
-***longueur*** désigne, dans le cas d'un navire, la distance mesurée en mètres entre l'extrémité avant et l'extrémité arrière du navire; (*length*)
+***longueur*** désigne, dans le cas d’un navire, la distance mesurée en mètres entre l’extrémité avant et l’extrémité arrière du navire; (*length*)
 
-***officier de quart à la passerelle*** désigne toute personne, sauf un pilote, directement responsable de la navigation et de la sécurité d'un navire; (*deck watch officer*)
+***officier de quart à la passerelle*** désigne toute personne, sauf un pilote, directement responsable de la navigation et de la sécurité d’un navire; (*deck watch officer*)
 
-***président***[Abrogée, DORS/2004-215, art. 1]
+***président*** [Abrogée, DORS/2004-215, art. 1]
 
-***région*** désigne la région de l'Administration de pilotage des Grands Lacs décrite dans l'annexe de la Loi; (*region*)
+***région*** désigne la région de l’Administration de pilotage des Grands Lacs décrite dans l’annexe de la Loi; (*region*)
 
-***surveillant***[Abrogée, DORS/2004-215, art. 1]
+***surveillant*** [Abrogée, DORS/2004-215, art. 1]
 
-***tonneaux de jauge brute au registre*** s'entend de la jauge brute mentionnée sur le certificat d'immatriculation ou le certificat de jauge d'un navire et, lorsque le navire a plus d'une jauge brute au registre, de la jauge brute au registre la plus forte; (*gross registered tons*)
+***tonneaux de jauge brute au registre*** s’entend de la jauge brute mentionnée sur le certificat d’immatriculation ou le certificat de jauge d’un navire et, lorsque le navire a plus d’une jauge brute au registre, de la jauge brute au registre la plus forte; (*gross registered tons*)
 
-***vice-président***[Abrogée, DORS/2004-215, art. 1]
-> DORS/2004-215, art. 1; DORS/2007-95, art. 3(F).
+***vice-président*** [Abrogée, DORS/2004-215, art. 1]
+> DORS/2004-215, art. 1; DORS/2007-95, art. 3(F); DORS/2009-64, art. 1.
 
 
 
@@ -83,26 +85,28 @@ Autorités habilitantes :
 
 **4** 
 
-- **(1)** Sous réserve du paragraphe (2), est assujetti au pilotage obligatoire tout navire d'une jauge brute de plus de 300 tonneaux, sauf
+- **(1)** Sous réserve du paragraphe (2), est assujetti au pilotage obligatoire tout navire de plus de 1 500 tonneaux de jauge brute au registre, sauf :
 	- **a)** un traversier à horaire régulier;
-	- **b)** un remorqueur
-		- **(i)** qui ne remorque ni ne pousse un autre navire ou objet, ou
-		- **(ii)** qui remorque ou pousse un navire
-			- **(A)** de moins de 79,25 m de longueur, ou
-			- **(B)** dans les limites d'un port;
+	- **b)** un remorqueur :
+		- **(i)** qui ne remorque ni ne pousse un autre navire ou objet,
+		- **(ii)** qui remorque ou pousse un navire qui, selon le cas :
+			- **(A)** a moins de 80 m de longueur,
+			- **(B)** se trouve dans les limites d’un port;
 	- **c)** un navire
-		- **(i)** qui a été inspecté et pour lequel un certificat a été délivré par le Bureau d'inspection des navires à vapeur établi en vertu de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md),
-		- **(ii)** qui navigue uniquement dans les Grands Lacs ou les eaux intérieures du Canada, sauf lors d'occasionnels voyages de cabotage, et
-		- **(iii)** qui est sous le commandement d'un capitaine ou d'un officier de pont
-			- **(A)** qui est un membre régulier de l'équipage du navire,
+		- **(i)** qui a été inspecté et pour lequel un certificat a été délivré par le Bureau d’inspection des navires à vapeur établi en vertu de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md),
+		- **(ii)** qui navigue uniquement dans les Grands Lacs ou les eaux intérieures du Canada, sauf lors d’occasionnels voyages de cabotage, et
+		- **(iii)** qui est sous le commandement d’un capitaine ou d’un officier de pont
+			- **(A)** qui est un membre régulier de l’équipage du navire,
 			- **(B)** qui détient un certificat de capacité de la classe et de la catégorie appropriées, délivré par le ministre des Transports ou reconnu par lui aux fins du paragraphe 130(1) de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md), et
-			- **(C)** qui possède un certificat délivré par le propriétaire du navire au cours des 12 derniers mois, qui atteste que le capitaine ou l'officier de pont a effectué dans la zone de pilotage obligatoire où le navire navigue, au moins 10 voyages d'aller au cours des trois années précédant la date du certificat;
+			- **(C)** qui possède un certificat délivré par le propriétaire du navire au cours des 12 derniers mois, qui atteste que le capitaine ou l’officier de pont a effectué dans la zone de pilotage obligatoire où le navire navigue, au moins 10 voyages d’aller au cours des trois années précédant la date du certificat;
 	- **d)** un navire
-		- **(i)** qui navigue uniquement dans les Grands Lacs ou les eaux intérieures du Canada, sauf lors d'occasionnels voyages de cabotage, et
-		- **(ii)** qui est sous le commandement d'un capitaine ou d'un officier de pont qui détient un certificat de compétence ou un document similaire délivré en vertu des lois des États-Unis, qui l'autorise à avoir le commandement du navire dans la zone de pilotage obligatoire où celui-ci navigue.
+		- **(i)** qui navigue uniquement dans les Grands Lacs ou les eaux intérieures du Canada, sauf lors d’occasionnels voyages de cabotage, et
+		- **(ii)** qui est sous le commandement d’un capitaine ou d’un officier de pont qui détient un certificat de compétence ou un document similaire délivré en vertu des lois des États-Unis, qui l’autorise à avoir le commandement du navire dans la zone de pilotage obligatoire où celui-ci navigue.
 
-- **(2)** Lorsque plusieurs navires sont poussés ou remorqués et que leur longueur totale, y compris celle des câbles de remorque, est de 79,25 mètres ou plus, chacun de ces navires est assujetti au pilotage obligatoire. 
-> DORS/79-48, art. 1; DORS/81-63, art. 1; DORS/83-256, art. 1; DORS/2007-95, art. 3(F).
+- **(2)** Est assujetti au pilotage obligatoire tout remorqueur qui remorque ou pousse deux navires ou plus dont la longueur totale, y compris celle des câbles de remorque, est de 80 m ou plus.
+
+- **(3)** Est assujetti au pilotage obligatoire tout remorqueur de 1 500 tonneaux de jauge brute au registre ou moins qui se trouve à l’extérieur d’un port et qui fait partie d’un ensemble de navires ayant, au total, plus de 1 500 tonneaux de jauge brute au registre.
+> DORS/79-48, art. 1; DORS/81-63, art. 1; DORS/83-256, art. 1; DORS/2007-95, art. 3(F); DORS/2009-64, art. 2.
 
 
 
@@ -198,8 +202,8 @@ Autorités habilitantes :
 ## Certificats de pilotage
 
 
-**9** Un certificat de pilotage attribué par une Administration autorise le titulaire à exercer les fonctions de pilotage à bord du navire où il est un membre régulier de l’effectif et dans toute zone pour laquelle le certificat a été attribué.
-> DORS/2004-215, art. 5.
+**9** Un certificat de pilotage attribué par une Administration autorise le titulaire à exercer les fonctions de pilotage à bord du navire où il est membre régulier de l’effectif à l’égard de toute zone de pilotage obligatoire pour laquelle le certificat a été attribué.
+> DORS/2004-215, art. 5; DORS/2009-64, art. 3(F).
 
 
 
@@ -366,19 +370,19 @@ Autorités habilitantes :
 
 **18** 
 
-- **(1)** Lorsque, par suite d'un accident, un navire qui se trouve dans une zone de pilotage obligatoire
-	- **a)** est la cause de la perte ou de l'endommagement d'un autre navire ou d'une propriété sise dans les eaux ou adjacente aux eaux de la zone, que le navire soit perdu ou avarié ou non, ou
-	- **b)** est avarié, s'échoue, est perdu ou abandonné ou est d'une façon ou d'une autre impliqué dans un accident qui peut directement ou indirectement être la cause de dommages ou de pollution dans l'environnement immédiat,
-et qu'un titulaire de brevet ou de certificat de pilotage se trouvait à bord du navire au moment de l'accident, ce titulaire et toute autre personne qui assurait la conduite du navire à ce moment-là doivent immédiatement faire rapport de l'accident à l'Administration, par le moyen le plus rapide possible.
+- **(1)** Lorsque, par suite d’un accident, un navire qui se trouve dans une zone de pilotage obligatoire
+	- **a)** est la cause de la perte ou de l’endommagement d’un autre navire ou d’une propriété sise dans les eaux ou adjacente aux eaux de la zone, que le navire soit perdu ou avarié ou non, ou
+	- **b)** est avarié, s’échoue, est perdu ou abandonné ou est d’une façon ou d’une autre impliqué dans un accident qui peut directement ou indirectement être la cause de dommages ou de pollution dans l’environnement immédiat,
+et qu’un titulaire de brevet ou de certificat de pilotage se trouvait à bord du navire au moment de l’accident, ce titulaire et toute autre personne qui assurait la conduite du navire à ce moment-là doivent immédiatement faire rapport de l’accident à l’Administration, par le moyen le plus rapide possible.
 
-- **(2)** La personne qui fait un rapport dont il est question au paragraphe (1) doit y donner tous les détails de l'accident qu'elle connaît, y compris toute pollution ou tout danger de pollution.
+- **(2)** La personne qui fait un rapport dont il est question au paragraphe (1) doit y donner tous les détails de l’accident qu’elle connaît, y compris toute pollution ou tout danger de pollution.
 
-- **(3)** S’il ne peut être fait directement à l'Administration, le rapport visé au paragraphe (1) doit être fait au centre de contrôle de la circulation maritime le plus proche.
+- **(3)** S’il ne peut être fait directement à l’Administration, le rapport visé au paragraphe (1) doit être fait au centre de contrôle de la circulation maritime le plus proche.
 
-- **(4)** La personne qui a fait le rapport visé au paragraphe (1) doit, aussitôt que possible après l’avoir fait, se présenter devant un membre de l’Administration pour y rédiger un rapport de l'accident sur le formulaire fourni par le membre.
+- **(4)** La personne qui fait le rapport visé au paragraphe (1) doit, aussitôt que possible après l’avoir fait, se présenter devant un fonctionnaire de l’Administration et rédiger un rapport de l’accident sur le formulaire fourni par l’Administration.
 
-- **(5)** Les rapports visés aux paragraphes (1) ou (4) sont confidentiels et l'Administration ne peut les divulguer sans le consentement préalable de la personne qui les a faits.
-> DORS/2004-215, art. 13.
+- **(5)** Les rapports visés aux paragraphes (1) ou (4) sont confidentiels et l’Administration ne peut les divulguer sans le consentement préalable de la personne qui les a faits.
+> DORS/2004-215, art. 13; DORS/2009-64, art. 4.
 
 
 
