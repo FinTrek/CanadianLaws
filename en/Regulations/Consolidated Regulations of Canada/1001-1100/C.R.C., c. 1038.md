@@ -1135,14 +1135,14 @@ except that the volume of fuel referred to in paragraph (b) does not include any
 
 **10** 
 
-- **(1)** For each vehicle to which the national safety mark is applied, a company shall maintain in writing or in readily readable electronic or optical form the records referred to in paragraph 5(1)(g) of the Act that show that the vehicle conforms to all prescribed standards applicable to it and retain those records for at least five years after the date of manufacture or importation.
+- **(1)** For each vehicle to which the national safety mark is applied or that is imported into Canada, a company shall maintain in writing or in readily readable electronic or optical form the records referred to in paragraph 5(1)(g) of the Act that show that the vehicle conforms to all prescribed standards applicable to it and retain those records for at least five years after the date of manufacture or importation.
 
-- **(2)** Where the records referred to in subsection (1) are maintained on behalf of a company, the company shall keep the name and address of the person who maintains those records.
+- **(2)** Where the records referred to in subsection (1) are maintained on behalf of a company, the company shall keep the name and address of the person who maintains those records.
 
-- **(3)** On request in writing from an inspector, a company shall send to that inspector a copy, in either official language, of the records referred to in subsection (1) within
-	- **(a)** 30 working days after the mailing of the request; or
-	- **(b)** where the records must be translated, 45 working days after the mailing of the request.
-> SOR/79-940, s. 3; SOR/87-450, s. 1; SOR/88-536, s. 1; SOR/95-147, s. 2; SOR/98-524, s. 2; SOR/2008-104, s. 2.
+- **(3)** On request in writing from an inspector, a company shall send to that inspector a copy, in either official language, of the records referred to in subsection (1) within
+	- **(a)** 30 working days after the mailing of the request; or
+	- **(b)** where the records must be translated, 45 working days after the mailing of the request.
+> SOR/79-940, s. 3; SOR/87-450, s. 1; SOR/88-536, s. 1; SOR/95-147, s. 2; SOR/98-524, s. 2; SOR/2008-104, s. 2; SOR/2009-32, s. 1.
 
 
 
@@ -2736,7 +2736,7 @@ Issued in Ottawa on _________________________, 20_________________________
 </tr>
 </table>
 
-> SOR/78-80, s. 1; SOR/78-910, s. 1(F); SOR/79-305, s. 1; SOR/79-306, s. 2; SOR/79-339, s. 2; SOR/79-340, s. 2; SOR/79-374, s. 2; SOR/79-677, s. 2; SOR/79-940, s. 5; SOR/80-160, s. 1; SOR/80-161, s. 2; SOR/80-282, s. 2; SOR/80-439, s. 2; SOR/80-639, s. 1(F); SOR/81-88, s. 2; SOR/81-665, s. 1; SOR/82-656, s. 2; SOR/82-753, s. 2; SOR/82-754, s. 2; SOR/83-138, s. 1; SOR/84-812, s. 2; SOR/86-682, s. 1; SOR/86-683, s. 2; SOR/86-975, s. 1; SOR/87-658, s. 1; SOR/87-660, s. 3; SOR/88-268, s. 4; SOR/89-384, ss. 2(F), 3 to 5; SOR/90-805, s. 4; SOR/91-425, s. 3; SOR/92-173, s. 5. SOR/92-250, s. 2(F); SOR/92-545, s. 2(F);SOR/93-31, s. 2; SOR/93-146, s. 3; SOR/93-561, s. 2; SOR/94-291, s. 2; SOR/94-669, s. 2; SOR/95-60, s. 1; SOR/95-147, ss. 5, 15(F); SOR/95-164, s. 2; SOR/96-89, s. 1; SOR/96-366, s. 4; SOR/96-437, s. 1; SOR/97-14, s. 1; SOR/97-141, s. 3; SOR/97-200, s. 2; SOR/97-201, s. 2; SOR/97-376, s. 4; SOR/97-421, s. 2; SOR/97-463, s. 1; SOR/97-532, ss. 1, 2; SOR/98-160, s. 2; SOR/98-457, s. 2; SOR/98-595, s. 1; SOR/99-357, s. 2; SOR/2000-182, s. 4; SOR/2000-304, s. 4; SOR/2001-35, ss. 2, 3; SOR/2001-353, s. 1; SOR/2001-486, s. 1; SOR/2002-55, s. 12; SOR/2002-205, s. 2; SOR/2003-272, s. 6; SOR/2003-359, ss. 1 to 3; SOR/2004-195, s. 1; SOR/2005-45, s. 2; SOR/2006-94, s. 1; SOR/2007-180, ss. 2 to 4; SOR/2007-246, s. 1; SOR/2008-73, s. 2; SOR/2008-104, ss. 7(F), 8(F); SOR/2008-229, s. 2; SOR/2008-258, ss. 5, 6.
+> SOR/78-80, s. 1; SOR/78-910, s. 1(F); SOR/79-305, s. 1; SOR/79-306, s. 2; SOR/79-339, s. 2; SOR/79-340, s. 2; SOR/79-374, s. 2; SOR/79-677, s. 2; SOR/79-940, s. 5; SOR/80-160, s. 1; SOR/80-161, s. 2; SOR/80-282, s. 2; SOR/80-439, s. 2; SOR/80-639, s. 1(F); SOR/81-88, s. 2; SOR/81-665, s. 1; SOR/82-656, s. 2; SOR/82-753, s. 2; SOR/82-754, s. 2; SOR/83-138, s. 1; SOR/84-812, s. 2; SOR/86-682, s. 1; SOR/86-683, s. 2; SOR/86-975, s. 1; SOR/87-658, s. 1; SOR/87-660, s. 3; SOR/88-268, s. 4; SOR/89-384, ss. 2(F), 3 to 5; SOR/90-805, s. 4; SOR/91-425, s. 3; SOR/92-173, s. 5. SOR/92-250, s. 2(F); SOR/92-545, s. 2(F);SOR/93-31, s. 2; SOR/93-146, s. 3; SOR/93-561, s. 2; SOR/94-291, s. 2; SOR/94-669, s. 2; SOR/95-60, s. 1; SOR/95-147, ss. 5, 15(F); SOR/95-164, s. 2; SOR/96-89, s. 1; SOR/96-366, s. 4; SOR/96-437, s. 1; SOR/97-14, s. 1; SOR/97-141, s. 3; SOR/97-200, s. 2; SOR/97-201, s. 2; SOR/97-376, s. 4; SOR/97-421, s. 2; SOR/97-463, s. 1; SOR/97-532, ss. 1, 2; SOR/98-160, s. 2; SOR/98-457, s. 2; SOR/98-595, s. 1; SOR/99-357, s. 2; SOR/2000-182, s. 4; SOR/2000-304, s. 4; SOR/2001-35, ss. 2, 3; SOR/2001-353, s. 1; SOR/2001-486, s. 1; SOR/2002-55, s. 12; SOR/2002-205, s. 2; SOR/2003-272, s. 6; SOR/2003-359, ss. 1 to 3; SOR/2004-195, s. 1; SOR/2005-45, s. 2; SOR/2006-94, s. 1; SOR/2007-180, ss. 2 to 4; SOR/2007-246, s. 1; SOR/2008-73, s. 2; SOR/2008-104, ss. 7(F), 8(F); SOR/2008-229, s. 2; SOR/2008-258, ss. 5, 6; SOR/2009-33, s. 1(F).
 
 
 
@@ -3450,7 +3450,7 @@ choix du fabricant
 <td>**8** The unit of measurement, if identified, is “km”. Where an electronic odometer display can be switched from “km” to “mi” or from “mi” to “km” independently of the units being displayed by a speedometer, the odometer units must be identified in miles or kilometres as appropriate.
 
 </td>
-<td>**8** L’unité de mesure, si elle est indiquée, est le « km ». Dans le cas d’un affichage électronique de l’odomètre pouvant passer de « km » en « mi » ou de « mi » en « km », indépendamment de l’unité de mesure affichée par l’indicateur de vitesse, l’unité doit être indiquée en milles ou kilomètres, selon le cas.
+<td>**8** L’unité de mesure, si elle est indiquée, est le « km ». Dans le cas d’un affichage électronique de l’odomètre pouvant passer de « km » en « mi » ou de « mi » en « km », indépendamment de l’unité de mesure affichée par l’indicateur de vitesse, l’unité doit être indiquée en milles ou kilomètres, selon le cas.
 
 </td>
 </tr>
@@ -4546,6 +4546,8 @@ COMPARISON CHART
 NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN SUBSECTION 111(2)
 
 
+
+
 > SOR/79-940, s. 7; SOR/80-439, s. 3; SOR/82-918, s. 1; SOR/87-658, s. 2; SOR/88-268, s. 6; SOR/95-147, s. 9; SOR/97-463, s. 2; SOR/2002-55, s. 13; SOR/2002-448, s. 1; SOR/2003-272, s. 14; SOR/2006-94, s. 4(E); SOR/2008-72, s. 2..
 
 
@@ -4586,14 +4588,14 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 
 - **(4)** With the exception of a walk-in van and an emergency vehicle, every passenger car, every three-wheeled vehicle, and every multi-purpose passenger vehicle and truck with a GVWR of 4 536 kg or less shall be equipped with an immobilization system that meets one of the following sets of requirements as modified by subsection (5), (6) or (7):
 	- **(a)** section 3, subsection 4.3, sections 6 to 10 and subsections 12.1, 12.2 and 12.16 of National Standard of Canada CAN/ULC-S338-98, entitled Automobile Theft Deterrent Equipment and Systems: Electronic Immobilization (May 1998), published by the Underwriters’ Laboratories of Canada;
-	- **(b)** the general and particular specifications of an immobilizer that are set out in Part III of ECE Regulation No. 97, entitled Uniform Provisions Concerning the Approval of Vehicle Alarm Systems (VAS) and of Motor Vehicles with Regard to Their Alarm Systems (AS), as revised on October 14, 2002; or
+	- **(b)** the general and particular specifications of an immobilizer that are set out in Part III of ECE Regulation No. 97, entitled Uniform Provisions Concerning the Approval of Vehicle Alarm Systems (VAS) and of Motor Vehicles with Regard to Their Alarm Systems (AS), as revised on August 8, 2007; or
 	- **(c)** the general and particular specifications of an immobilizer that are set out in Part IV of ECE Regulation No. 116, entitled Uniform Technical Prescriptions Concerning the Protection of Motor Vehicles Against Unauthorized Use, as revised on March 6, 2006.
 
 - **(5)** The requirements set out in National Standard of Canada CAN/ULC-S338-98 are modified as follows:
 	- **(a)** the requirements respecting non-OEM systems as defined in section 2, respecting local noise regulations and respecting radio frequency interference immunity do not apply; and
 	- **(b)** a reference to a “manufacturer of an electronic immobilization system” is to be read as a reference to a “manufacturer”.
 
-- **(6)** Compliance with paragraph (2)(c) shall be verified with the vehicle at curb mass plus 91 kg (including the driver), as follows:
+- **(6)** The requirements set out in Part III of ECE Regulation No. 97 are modified as follows:
 	- **(a)** the aftermarket, type approval and radio emission requirements do not apply;
 	- **(b)** for the purposes of section 31.7, the word “rapidly” means less than 5 minutes and the words “time consuming” mean at least 5 minutes;
 	- **(c)** despite any statement to the contrary in sections 31.10 and 31.11, the immobilization system shall not have any impact on the vehicle’s brake system; and
@@ -4610,7 +4612,7 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 	- **(b)** a warning not to leave in the vehicle a device or a combination that disarms or deactivates the system.
 
 - **(9)** The information shall be provided in English, French or both official languages, as requested by the first retail purchaser.
-> SOR/79-940, s. 7; SOR/95-164, s. 6; SOR/97-264, s. 3; SOR/97-421, s. 6; SOR/2005-45, s. 4; SOR/2007-246, s. 3; SOR/2008-104, s. 13..
+> SOR/79-940, s. 7; SOR/95-164, s. 6; SOR/97-264, s. 3; SOR/97-421, s. 6; SOR/2005-45, s. 4; SOR/2007-246, s. 3; SOR/2008-104, s. 13; SOR/2009-32, s. 2..
 
 
 
@@ -4619,7 +4621,7 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 
 **115** 
 
-- **(1)** Every vehicle shall have a vehicle identification number and the identification numbers of any two vehicles manufactured by a manufacturer within a 30-year period shall not be identical.
+- **(1)** Every vehicle shall have a vehicle identification number and that vehicle identification number shall not be the same as the vehicle identification number of a vehicle having a model year of 1980 or later manufactured within the preceding 60 years.
 
 - **(1.1)** A vehicle that is manufactured from an incomplete vehicle shall bear the vehicle identification number assigned by the incomplete vehicle manufacturer.
 
@@ -4631,7 +4633,7 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 		- **(i)** an integral or structural part of the vehicle other than the dash-board pad or dash-board cover,
 		- **(ii)** the dash-board or dash-board cover if it is not designed to be replaced following an air bag deployment, or
 		- **(iii)** a separate plate or label that is permanently affixed in a location referred to in subparagraph (i) or (ii); and
-	- **(c)** in the case of a passenger car, three-wheeled vehicle, multi-purpose passenger vehicle, truck or low-speed vehicle having a GVWR of 4 536 kg or less, be
+	- **(c)** in the case of a low-speed vehicle, multi-purpose passenger vehicle, passenger car, three-wheeled vehicle or truck having a GVWR of 4 536 kg or less, be
 		- **(i)** composed of characters having a minimum height of 4 mm,
 		- **(ii)** located inside the occupant compartment, and
 		- **(iii)** without any part of such vehicle being removed, readable through the vehicle glazing under daylight conditions by an observer having 20/20 vision Snellen whose eyepoint is located outside the vehicle adjacent to the left windshield pillar.
@@ -4656,21 +4658,20 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 	- **(b)** a separate plate or label that is permanently affixed to a part referred to in paragraph (a).
 
 - **(3)** The vehicle identification number of any vehicle shall be alphanumeric and shall be composed of 17 characters as follows:
-	- **(a)** the first three characters shall uniquely identify the manufacturer, make and class of vehicle
-		- **(i)** where the manufacturer manufactures 500 or more vehicles of a prescribed class annually, and
-		- **(ii)** in conjunction with the twelfth to fourteenth characters, inclusive, where the manufacturer manufactures less than 500 vehicles of a prescribed class annually;
+	- **(a)** the first three characters, the third of which shall not be “9”, shall uniquely identify the manufacturer and the class of vehicle, if the manufacturer manufactures 1,000 or more vehicles of a prescribed class annually;
+	- **(a.1)** the first three characters, the third of which shall be “9”, and the twelfth to fourteenth characters shall uniquely identify the manufacturer and the class of vehicle, if the manufacturer manufactures less than 1,000 vehicles of a prescribed class annually;
 	- **(b)** the fourth to eighth characters, inclusive, shall uniquely identify the decipherable information for the vehicle as set out in Column II of Table I, except that
-		- **(i)** the fourth and fifth characters shall be alphabetic and the sixth and seventh characters shall be numeric for a passenger car, three-wheeled vehicle, multi-purpose passenger vehicle, truck or low-speed vehicle having a GVWR of 4 536 kg or less,
+		- **(i)** the seventh character shall be alphabetic for a multi-purpose passenger vehicle, passenger car, three-wheeled vehicle or truck having a GVWR of 4 536 kg or less,
 		- **(ii)** subject to subparagraph (i), the characters and their positioning may be determined by the manufacturer, and
 		- **(iii)** in the case of an incomplete vehicle to be completed as a trailer, the decipherable information required for an incomplete vehicle in column II of Table I shall be that for a trailer;
 	- **(c)** the ninth character shall be the check digit determined in accordance with subsections (7) and (8) after all other characters have been determined by the manufacturer;
-	- **(d)** the tenth character shall be the appropriate vehicle model year code set out opposite the vehicle year in Table II;
+	- **(d)** the tenth character shall be the code that corresponds to the vehicle model year as set out in Table II;
 	- **(e)** the eleventh character shall identify the plant of manufacture of the vehicle;
-	- **(f)** subject to paragraph (h), the twelfth to seventeenth characters, inclusive, shall be sequentially assigned by the manufacturer during the manufacturing process, where the manufacturer manufactures five hundred or more vehicles of a prescribed class annually;
-	- **(g)** subject to paragraph (h), the twelfth to fourteenth characters in conjunction with the first to third characters, inclusive, shall uniquely identify the manufacturer, make and class of vehicle and the fifteenth to seventeenth characters, inclusive, shall be sequentially assigned by the manufacturer during the manufacturing process, where the manufacturer manufactures less than five hundred vehicles of a prescribed class annually; and
-	- **(h)** the fourteenth to seventeenth characters, inclusive, shall be numeric for all vehicles and the thirteenth character shall be numeric if the vehicle is a passenger car, three-wheeled vehicle, multi-purpose passenger vehicle, truck or low-speed vehicle having a GVWR of 4 536 kg or less.
+	- **(f)** the twelfth to seventeenth characters shall be sequentially assigned by the manufacturer during the manufacturing process, if the manufacturer manufactures 1,000 or more vehicles of a prescribed class annually;
+	- **(g)** the fifteenth to seventeenth characters shall be sequentially assigned by the manufacturer during the manufacturing process, if the manufacturer manufactures less than 1,000 vehicles of a prescribed class annually; and
+	- **(h)** the fourteenth to seventeenth characters shall be numeric for all vehicles and the thirteenth character shall be numeric if the vehicle is a multi-purpose passenger vehicle, passenger car, three-wheeled vehicle or truck having a GVWR of 4 536 kg or less.
 
-- **(4)** [SOR/2004-250, s. 3]
+- **(4)** [Repealed, SOR/2004-250, s. 3]
 
 - **(5)** Each character used in a vehicle identification number shall be one of the Arabic numerals or Roman letters specified in Table III.
 
@@ -4686,9 +4687,11 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 
 - **(9)** The Minister may require manufacturers of vehicles in respect of which this section applies to submit to the Minister those characters that uniquely identify a vehicle including, where applicable, the twelfth to fourteenth characters, inclusive, that constitute part of the identifier, for each make and class of vehicle manufactured and, in all cases, the information necessary to decipher the characters in vehicle identification numbers.
 
-- **(10)** Where a character in a vehicle identification number identifies engine net brake power, the engine net brake power represented by that character shall not differ by more than 10 per cent from the actual engine net brake power.
+- **(10)** If a character in a vehicle identification number identifies engine net power, the engine net power represented by that character shall not differ by more than 10 per cent from the actual engine net power.
 
-- **(11)** Manufacturers of vehicles in respect of which this section applies shall apply to the Canadian Vehicle Manufacturers’ Association for the characters referred to in paragraphs 3(a) and (g) that uniquely identify the manufacturer, make and class of vehicle.
+- **(11)** Manufacturers of vehicles in respect of which this section applies shall apply to the Canadian Vehicle Manufacturers’ Association for the characters referred to in paragraphs 3(a) and (a.1) that uniquely identify the manufacturer and class of vehicle.
+
+- **(12)** Despite subsections (1) to (11), every vehicle having a model year of 2009 or earlier shall comply with the requirements of this section as it read on the day before the day on which this subsection came into force.
 
 - 
 #### TABLE I
@@ -4705,48 +4708,53 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 </tr>
 <tr>
 <td>1</td>
-<td>Passenger car, three-wheeled vehicle or low-speed vehicle</td>
-<td>Line, series, body type, engine type and restraint system type</td>
+<td>Passenger car or three-wheeled vehicle</td>
+<td>Make, line, series, body type, engine type and all restraint system types and their location in the vehicle</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Multi-purpose passenger vehicle</td>
-<td>Line, series, body type, engine type and gross vehicle weight rating</td>
+<td>Make, line, series, body type, engine type and gross vehicle weight rating. In addition, for multipurpose passenger vehicles with a GVWR of 4 536 kg or less, all restraint system types and their location in the vehicle.</td>
 </tr>
 <tr>
 <td>3</td>
 <td>Truck</td>
-<td>Model or line, series, chassis, cab type, engine type, brake system and gross vehicle weight rating</td>
+<td>Make, model or line, series, chassis, cab type, engine type, brake system and gross vehicle weight rating. In addition, for trucks with a GVWR of 4 536 kg or less, all restraint system types and their location in the vehicle.</td>
 </tr>
 <tr>
 <td>4</td>
 <td>Bus</td>
-<td>Model or line, series, body type, engine type and brake system</td>
+<td>Make, model or line, series, body type, engine type and brake system</td>
 </tr>
 <tr>
 <td>5</td>
 <td>Trailer</td>
-<td>Type of trailer, body type, length and axle configuration</td>
+<td>Make, type of trailer, body type, length and axle configuration</td>
 </tr>
 <tr>
 <td>6</td>
 <td>Motorcycle or restricted-use motorcycle</td>
-<td>Type of cycle, line, engine type and engine net brake power</td>
+<td>Make, type of cycle, line, engine type and engine net power</td>
 </tr>
 <tr>
 <td>7</td>
 <td>Incomplete vehicle</td>
-<td>Model or line, series, cab type, engine type and brake system</td>
+<td>Make, model or line, series, cab type, engine type and brake system</td>
 </tr>
 <tr>
 <td>8</td>
 <td>Trailer converter dolly</td>
-<td>Series and axle configuration</td>
+<td>Make, series and axle configuration</td>
 </tr>
 <tr>
 <td>9</td>
 <td>Snowmobile</td>
-<td>Type of snowmobile, line, engine type and engine net brake power</td>
+<td>Make, type of snowmobile, line, engine type and engine net power</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Low-speed vehicle</td>
+<td>Make, engine type, brake system, all restraint system types, body type and gross vehicle weight rating</td>
 </tr>
 </table>
 
@@ -4755,173 +4763,127 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 <h4>Model Year Codes</h4>
 <tr>
 <th>Year</th>
-<th></th>
 <th>Code</th>
 </tr>
 <tr>
-<td>1980</td>
-<td></td>
-<td>A</td>
-</tr>
-<tr>
-<td>1981</td>
-<td></td>
-<td>B</td>
-</tr>
-<tr>
-<td>1982</td>
-<td></td>
-<td>C</td>
-</tr>
-<tr>
-<td>1983</td>
-<td></td>
-<td>D</td>
-</tr>
-<tr>
-<td>1984</td>
-<td></td>
-<td>E</td>
-</tr>
-<tr>
-<td>1985</td>
-<td></td>
-<td>F</td>
-</tr>
-<tr>
-<td>1986</td>
-<td></td>
-<td>G</td>
-</tr>
-<tr>
-<td>1987</td>
-<td></td>
-<td>H</td>
-</tr>
-<tr>
-<td>1988</td>
-<td></td>
-<td>J</td>
-</tr>
-<tr>
-<td>1989</td>
-<td></td>
-<td>K</td>
-</tr>
-<tr>
-<td>1990</td>
-<td></td>
-<td>L</td>
-</tr>
-<tr>
-<td>1991</td>
-<td></td>
-<td>M</td>
-</tr>
-<tr>
-<td>1992</td>
-<td></td>
-<td>N</td>
-</tr>
-<tr>
-<td>1993</td>
-<td></td>
-<td>P</td>
-</tr>
-<tr>
-<td>1994</td>
-<td></td>
-<td>R</td>
-</tr>
-<tr>
-<td>1995</td>
-<td></td>
-<td>S</td>
-</tr>
-<tr>
-<td>1996</td>
-<td></td>
-<td>T</td>
-</tr>
-<tr>
-<td>1997</td>
-<td></td>
-<td>V</td>
-</tr>
-<tr>
-<td>1998</td>
-<td></td>
-<td>W</td>
-</tr>
-<tr>
-<td>1999</td>
-<td></td>
-<td>X</td>
-</tr>
-<tr>
-<td>2000</td>
-<td></td>
-<td>Y</td>
-</tr>
-<tr>
-<td>2001</td>
-<td></td>
-<td>1</td>
-</tr>
-<tr>
-<td>2002</td>
-<td></td>
-<td>2</td>
-</tr>
-<tr>
-<td>2003</td>
-<td></td>
-<td>3</td>
-</tr>
-<tr>
-<td>2004</td>
-<td></td>
-<td>4</td>
-</tr>
-<tr>
-<td>2005</td>
-<td></td>
-<td>5</td>
-</tr>
-<tr>
-<td>2006</td>
-<td></td>
-<td>6</td>
-</tr>
-<tr>
-<td>2007</td>
-<td></td>
-<td>7</td>
-</tr>
-<tr>
-<td>2008</td>
-<td></td>
-<td>8</td>
-</tr>
-<tr>
-<td>2009</td>
-<td></td>
-<td>9</td>
-</tr>
-<tr>
 <td>2010</td>
-<td></td>
 <td>A</td>
 </tr>
 <tr>
 <td>2011</td>
-<td></td>
 <td>B</td>
 </tr>
 <tr>
 <td>2012</td>
-<td></td>
 <td>C</td>
+</tr>
+<tr>
+<td>2013</td>
+<td>D</td>
+</tr>
+<tr>
+<td>2014</td>
+<td>E</td>
+</tr>
+<tr>
+<td>2015</td>
+<td>F</td>
+</tr>
+<tr>
+<td>2016</td>
+<td>G</td>
+</tr>
+<tr>
+<td>2017</td>
+<td>H</td>
+</tr>
+<tr>
+<td>2018</td>
+<td>J</td>
+</tr>
+<tr>
+<td>2019</td>
+<td>K</td>
+</tr>
+<tr>
+<td>2020</td>
+<td>L</td>
+</tr>
+<tr>
+<td>2021</td>
+<td>M</td>
+</tr>
+<tr>
+<td>2022</td>
+<td>N</td>
+</tr>
+<tr>
+<td>2023</td>
+<td>P</td>
+</tr>
+<tr>
+<td>2024</td>
+<td>R</td>
+</tr>
+<tr>
+<td>2025</td>
+<td>S</td>
+</tr>
+<tr>
+<td>2026</td>
+<td>T</td>
+</tr>
+<tr>
+<td>2027</td>
+<td>V</td>
+</tr>
+<tr>
+<td>2028</td>
+<td>W</td>
+</tr>
+<tr>
+<td>2029</td>
+<td>X</td>
+</tr>
+<tr>
+<td>2030</td>
+<td>Y</td>
+</tr>
+<tr>
+<td>2031</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2032</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2033</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2034</td>
+<td>4</td>
+</tr>
+<tr>
+<td>2035</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2036</td>
+<td>6</td>
+</tr>
+<tr>
+<td>2037</td>
+<td>7</td>
+</tr>
+<tr>
+<td>2038</td>
+<td>8</td>
+</tr>
+<tr>
+<td>2039</td>
+<td>9</td>
 </tr>
 </table>
 
@@ -5120,7 +5082,7 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 </tr>
 </table>
 
-> SOR/79-940, s. 7; SOR/82-753, s. 3; SOR/87-660, s. 5; SOR/88-268, s. 7; SOR/88-535, s. 1; SOR/92-545, s. 3; SOR/94-670, s. 2(F); SOR/97-532, s. 3; SOR/2000-182, s. 7; SOR/2000-241, s. 1; SOR/2000-304, s. 5; SOR/2002-55, s. 14; SOR/2003-272, s. 15; SOR/2004-250, s. 3; SOR/2006-94, s. 4(E); SOR/2008-72, s. 3(E)..
+> SOR/79-940, s. 7; SOR/82-753, s. 3; SOR/87-660, s. 5; SOR/88-268, s. 7; SOR/88-535, s. 1; SOR/92-545, s. 3; SOR/94-670, s. 2(F); SOR/97-532, s. 3; SOR/2000-182, s. 7; SOR/2000-241, s. 1; SOR/2000-304, s. 5; SOR/2002-55, s. 14; SOR/2003-272, s. 15; SOR/2004-250, s. 3; SOR/2006-94, s. 4(E); SOR/2008-72, s. 3(E); SOR/2009-33, s. 2..
 
 
 
@@ -5625,20 +5587,20 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 
 **206** 
 
-- **(1)** Subject to subsection (2), every enclosed motorcycle, multi-purpose passenger vehicle, three-wheeled vehicle, passenger car and truck that is equipped with side doors or back doors shall be so equipped in accordance with
-	- **(a)** Technical Standards Document No. 206, Door Locks and Door Retention Components, as amended from time to time (hereinafter referred to as TSD 206); or
-	- **(b)** the general requirements, performance requirements and test procedures that are set out in ECE Regulation No. 11, entitled Uniform Provisions Concerning the Approval of Motor Vehicles with regard to Door Locks and Door Retention Components, in the version in effect on June 11, 2007, as amended from time to time by any 03 series of amendments subsequent to that date (hereinafter referred to as ECE Regulation No. 11).
+- **(1)** Subject to subsection (2), every enclosed motorcycle, multi-purpose passenger vehicle, three-wheeled vehicle, passenger car and truck that is equipped with side doors or back doors shall be so equipped in accordance with either
+	- **(a)** the requirements of Technical Standards Document No. 206, Door Locks and Door Retention Components (TSD 206), as amended from time to time; or
+	- **(b)** the general requirements, performance requirements and test procedures set out in ECE Regulation No. 11, entitled Uniform Provisions Concerning the Approval of Vehicles with regard to Door Latches and Door Retention Components, in the version dated June 11, 2007, as amended from time to time after that date by any amendment in the 03 series of amendments.
 
-- **(2)** Subject to subsection (5), until August 31, 2009, every enclosed motorcycle, multi-purpose passenger vehicle, three-wheeled vehicle, passenger car and truck that is equipped with side doors or back doors may be so equipped in accordance with TSD 206 as it read on August 23, 1996, instead of in accordance with subsection (1).
+- **(2)** Subject to subsection (5), until August 31, 2011, every enclosed motorcycle, multi-purpose passenger vehicle, three-wheeled vehicle, passenger car and truck that is equipped with side doors or back doors may be so equipped in accordance with the requirements of TSD 206 as it read on August 23, 1996, instead of in accordance with subsection (1).
 
-- **(3)** Beginning on September 1, 2009, every bus with a GVWR of 4 536 kg or less that is equipped with side doors or back doors shall be so equipped in accordance with subsection (1).
+- **(3)** Beginning on September 1, 2011, every bus with a GVWR of 4 536 kg or less that is equipped with side doors or back doors shall be so equipped in accordance with subsection (1).
 
-- **(4)** For the purposes of paragraph 6.3.2 of ECE Regulation No. 11, the locking device shall be the device referred to in paragraph 6.3.2.1(a) or (b) of that Regulation.
+- **(4)** For the purposes of paragraph 6.3.2 of ECE Regulation No. 11, the locking device shall be the device referred to in paragraph 6.3.2.1(a) or (b) of that Regulation.
 
-- **(5)** Despite sections S5.1.1.2 and S5.4.1.2 of TSD 206 as it read on August 23, 1996, compliance with sections S4.1.1.3 and S4.4.1.4 of that document shall be demonstrated in accordance with paragraph S5.1.1.4(a) or (b) of the document referred to in paragraph (1)(a).
+- **(5)** Despite sections S5.1.1.2 and S5.4.1.2 of TSD 206 as it read on August 23, 1996, compliance with sections S4.1.1.3 and S4.4.1.4 of that document shall be demonstrated in accordance with paragraph S5.1.1.4(a) or (b) of the document referred to in paragraph (1)(a).
 
-- **(6)** This section expires on January 1, 2010.
-> SOR/97-14, s. 2; SOR/2001-116, s. 3; SOR/2002-55, s. 21; SOR/2003-272, s. 23; SOR/2005-42, ss. 7, 8; SOR/2006-94, s. 4(E); SOR/2008-73, s. 3..
+- **(6)** This section expires on June 1, 2013.
+> SOR/97-14, s. 2; SOR/2001-116, s. 3; SOR/2002-55, s. 21; SOR/2003-272, s. 23; SOR/2005-42, ss. 7, 8; SOR/2006-94, s. 4(E); SOR/2008-73, s. 3; SOR/2009-34, s. 1..
 
 
 
