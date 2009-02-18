@@ -1135,14 +1135,14 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 
 **10** 
 
-- **(1)** Pour chaque véhicule sur lequel la marque nationale de sécurité est apposée, l’entreprise tient, par écrit ou sous forme électronique ou optique facilement lisible, les dossiers visés à l’alinéa 5(1)g) de la Loi qui démontrent que le véhicule est conforme aux normes réglementaires qui lui sont applicables, et les conserve pour une période d’au moins cinq ans suivant la date de fabrication ou d’importation.
+- **(1)** Pour chaque véhicule sur lequel la marque nationale de sécurité est apposée ou qui est importé au Canada, l’entreprise tient, par écrit ou sous forme électronique ou optique facilement lisible, les dossiers visés à l’alinéa 5(1)g) de la Loi qui démontrent que le véhicule est conforme aux normes réglementaires qui lui sont applicables et les conserve pour une période d’au moins cinq ans suivant la date de fabrication ou d’importation.
 
-- **(2)** L’entreprise qui fait tenir les dossiers visés au paragraphe (1) par une autre personne conserve le nom et l’adresse de cette personne.
+- **(2)** L’entreprise qui fait tenir les dossiers visés au paragraphe (1) par une autre personne conserve le nom et l’adresse de cette personne.
 
-- **(3)** Sur demande écrite d’un inspecteur, l’entreprise envoie à celui-ci une copie des dossiers visés au paragraphe (1), dans l’une ou l’autre langue officielle :
-	- **a)** dans les 30 jours ouvrables qui suivent la date de mise à la poste de la demande;
-	- **b)** dans le cas où les dossiers doivent être traduits, dans les 45 jours ouvrables qui suivent la date de mise à la poste de la demande.
-> DORS/79-940, art. 3; DORS/87-450, art. 1; DORS/88-536, art. 1; DORS/95-147, art. 2; DORS/98-524, art. 2; DORS/2008-104, art. 2.
+- **(3)** Sur demande écrite d’un inspecteur, l’entreprise envoie à celui-ci une copie des dossiers visés au paragraphe (1), dans l’une ou l’autre langue officielle :
+	- **a)** dans les 30 jours ouvrables qui suivent la date de mise à la poste de la demande;
+	- **b)** dans le cas où les dossiers doivent être traduits, dans les 45 jours ouvrables qui suivent la date de mise à la poste de la demande.
+> DORS/79-940, art. 3; DORS/87-450, art. 1; DORS/88-536, art. 1; DORS/95-147, art. 2; DORS/98-524, art. 2; DORS/2008-104, art. 2; DORS/2009-32, art. 1.
 
 
 
@@ -1732,7 +1732,7 @@ Fait à Ottawa, le _________________________ 20_________________________
 </tr>
 <tr>
 <td>115</td>
-<td>Numéro d’identification de véhicule</td>
+<td>Numéro d’identification du véhicule</td>
 <td>X</td>
 <td>X</td>
 <td>X</td>
@@ -2736,7 +2736,7 @@ Fait à Ottawa, le _________________________ 20_________________________
 </tr>
 </table>
 
-> DORS/78-80, art. 1; DORS/78-910, art. 1(F); DORS/79-305, art. 1; DORS/79-306, art. 2; DORS/79-339, art. 2; DORS/79-340, art. 2; DORS/79-374, art. 2; DORS/79-677, art. 2; DORS/79-940, art. 5; DORS/80-160, art. 1; DORS/80-161, art. 2; DORS/80-282, art. 2; DORS/80-439, art. 2; DORS/80-639, art. 1(F); DORS/81-88, art. 2; DORS/81-665, art. 1; DORS/82-656, art. 2; DORS/82-753, art. 2; DORS/82-754, art. 2; DORS/83-138, art. 1; DORS/84-812, art. 2; DORS/86-682, art. 1; DORS/86-683, art. 2; DORS/86-975, art. 1; DORS/87-658, art. 1; DORS/87-660, art. 3; DORS/88-268, art. 4; DORS/89-384, art. 2(F) et 3 à 5; DORS/90-805, art. 4; DORS/91-425, art. 3; DORS/92-173, art. 5; DORS/92-250, art. 2(F); DORS/92-545, art. 2(F); DORS/93-31, art. 2; DORS/93-146, art. 3; DORS/93-561, art. 2; DORS/94-291, art. 2; DORS/94-669, art. 2; DORS/95-60, art. 1; DORS/95-147, art. 5 et 15(F); DORS/95-164, art. 2; DORS/96-89, art. 1; DORS/96-366, art. 4; DORS/96-437, art. 1; DORS/97-14, art. 1; DORS/97-141, art. 3; DORS/97-200, art. 2; DORS/97-201, art. 2; DORS/97-376, art. 4; DORS/97-421, art. 2; DORS/97-463, art. 1; DORS/97-532, art. 1 et 2; DORS/98-160, art. 2; DORS/98-457, art. 2; DORS/98-595, art. 1; DORS/99-357, art. 2; DORS/2000-182, art. 4; DORS/2000-304, art. 4; DORS/2001-35, art. 2 et 3; DORS/2001-353, art. 1; DORS/2001-486, art. 1; DORS/2002-55, art. 12; DORS/2002-205, art. 2; DORS/2003-272, art. 6; DORS/2003-359, art. 1 à 3; DORS/2004-195, art. 1; DORS/2005-45, art. 2; DORS/2006-94, art. 1; DORS/2007-180, art. 2 à 4; DORS/2007-246, art. 1; DORS/2008-73, art. 2; DORS/2008-104, art. 7(F) et 8(F); DORS/2008-229, art. 2; DORS/2008-258, art. 5 et 6.
+> DORS/78-80, art. 1; DORS/78-910, art. 1(F); DORS/79-305, art. 1; DORS/79-306, art. 2; DORS/79-339, art. 2; DORS/79-340, art. 2; DORS/79-374, art. 2; DORS/79-677, art. 2; DORS/79-940, art. 5; DORS/80-160, art. 1; DORS/80-161, art. 2; DORS/80-282, art. 2; DORS/80-439, art. 2; DORS/80-639, art. 1(F); DORS/81-88, art. 2; DORS/81-665, art. 1; DORS/82-656, art. 2; DORS/82-753, art. 2; DORS/82-754, art. 2; DORS/83-138, art. 1; DORS/84-812, art. 2; DORS/86-682, art. 1; DORS/86-683, art. 2; DORS/86-975, art. 1; DORS/87-658, art. 1; DORS/87-660, art. 3; DORS/88-268, art. 4; DORS/89-384, art. 2(F) et 3 à 5; DORS/90-805, art. 4; DORS/91-425, art. 3; DORS/92-173, art. 5; DORS/92-250, art. 2(F); DORS/92-545, art. 2(F); DORS/93-31, art. 2; DORS/93-146, art. 3; DORS/93-561, art. 2; DORS/94-291, art. 2; DORS/94-669, art. 2; DORS/95-60, art. 1; DORS/95-147, art. 5 et 15(F); DORS/95-164, art. 2; DORS/96-89, art. 1; DORS/96-366, art. 4; DORS/96-437, art. 1; DORS/97-14, art. 1; DORS/97-141, art. 3; DORS/97-200, art. 2; DORS/97-201, art. 2; DORS/97-376, art. 4; DORS/97-421, art. 2; DORS/97-463, art. 1; DORS/97-532, art. 1 et 2; DORS/98-160, art. 2; DORS/98-457, art. 2; DORS/98-595, art. 1; DORS/99-357, art. 2; DORS/2000-182, art. 4; DORS/2000-304, art. 4; DORS/2001-35, art. 2 et 3; DORS/2001-353, art. 1; DORS/2001-486, art. 1; DORS/2002-55, art. 12; DORS/2002-205, art. 2; DORS/2003-272, art. 6; DORS/2003-359, art. 1 à 3; DORS/2004-195, art. 1; DORS/2005-45, art. 2; DORS/2006-94, art. 1; DORS/2007-180, art. 2 à 4; DORS/2007-246, art. 1; DORS/2008-73, art. 2; DORS/2008-104, art. 7(F) et 8(F); DORS/2008-229, art. 2; DORS/2008-258, art. 5 et 6; DORS/2009-33, art. 1(F).
 
 
 
@@ -4574,31 +4574,31 @@ NOTE : LE CALCUL DES DIMENSIONS DES IMAGES DE RÉFÉRENCE SE FAIT AU MOYEN DES F
 
 - **(4)** À l’exception des fourgons à accès en position debout et des véhicules de secours, les voitures de tourisme, les véhicules à trois roues, ainsi que les véhicules de tourisme à usages multiples et les camions ayant un PNBV de moins de 4 536 kg, doivent être munis d’un système d’immobilisation qui est conforme, compte tenu des changements prévus aux paragraphes (5), (6) ou (7), aux exigences de l’un des documents suivants :
 	- **a)** le chapitre 3, la section 4.3, les chapitres 6 à 10 et les sections 12.1, 12.2 et 12.16 de la norme nationale du Canada CAN/ULC-S338-98, intitulée Norme sur les systèmes et les appareillages de prévention du vol de véhicules automobiles : immobilisation électronique (mai 1998) et publiée par les Laboratoires des assureurs du Canada;
-	- **b)** les spécifications générales et particulières visant le dispositif d’immobilisation qui figurent à la troisième partie du règlement n<sup>o</sup> 97 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des systèmes d’alarme pour véhicules (SAV) et des automobiles en ce qui concerne leurs systèmes d’alarme (SA), modifié le 14 octobre 2002;
+	- **b)** les spécifications générales et particulières visant le dispositif d’immobilisation qui figurent à la troisième partie du règlement n<sup>o</sup> 97 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des systèmes d’alarme pour véhicules (SAV) et des automobiles en ce qui concerne leurs systèmes d’alarme (SA), modifié le 8 août 2007;
 	- **c)** les spécifications générales et particulières visant le dispositif d’immobilisation qui figurent à la quatrième partie du règlement n<sup>o</sup> 116 de la CEE, intitulé Prescriptions techniques uniformes relatives à la protection des véhicules automobiles contre une utilisation non autorisée, modifié le 6 mars 2006.
 
 - **(5)** L’application de la norme nationale du Canada CAN/ULC-S338-98 est assujettie aux changements suivants :
 	- **a)** les exigences relatives aux systèmes non-*OEM*, tels qu’ils sont définis au chapitre 2, à la réglementation locale sur le bruit et à l’immunité aux parasites de haute fréquence ne s’appliquent pas;
-	- **b)** la mention « fabricant du système d’immobilisation électronique » vaut mention de « fabricant ».
+	- **b)** la mention « fabricant du système d’immobilisation électronique » vaut mention de « fabricant ».
 
-- **(6)** La conformité à l’alinéa (2)c) est vérifiée avec le véhicule à sa masse à vide plus 91 kg (y compris le conducteur), selon la procédure suivante :
+- **(6)** L’application de la troisième partie du règlement n<sup>o</sup> 97 de la CEE est assujettie aux changements suivants :
 	- **a)** les exigences relatives aux systèmes d’immobilisation installés après la vente, à l’homologation de type et aux émissions radio ne s’appliquent pas;
-	- **b)** pour l’application du paragraphe 31.7, le mot « rapidement » s’entend d’une période de moins de cinq minutes et le mot « longue », d’une période d’au moins cinq minutes;
+	- **b)** pour l’application du paragraphe 31.7, le mot « rapidement » s’entend d’une période de moins de cinq minutes et le mot « longue », d’une période d’au moins cinq minutes;
 	- **c)** malgré toute disposition contraire des paragraphes 31.10 et 31.11, le système d’immobilisation ne doit avoir aucune incidence sur le système de freinage du véhicule;
 	- **d)** pour l’application du paragraphe 32.4.1, l’expression « cinq minutes au maximum » est remplacée par « une minute au maximum ».
 
 - **(7)** L’application de la quatrième partie du règlement n<sup>o</sup> 116 de la CEE est assujettie aux changements suivants :
 	- **a)** les exigences relatives aux systèmes d’immobilisation installés après la vente, à l’homologation de type et aux émissions radio ne s’appliquent pas;
-	- **b)** pour l’application du paragraphe 8.2.7, le mot « rapidement » s’entend d’une période de moins de cinq minutes et le mot « longue », d’une période d’au moins cinq minutes;
+	- **b)** pour l’application du paragraphe 8.2.7, le mot « rapidement » s’entend d’une période de moins de cinq minutes et le mot « longue », d’une période d’au moins cinq minutes;
 	- **c)** malgré toute disposition contraire des paragraphes 8.2.10 et 8.2.11, le système d’immobilisation ne doit avoir aucune incidence sur le système de freinage du véhicule;
-	- **d)** pour l’application du paragraphe 8.3.4.1, l’expression « 5 minutes au maximum » est remplacée par « une minute au maximum ».
+	- **d)** pour l’application du paragraphe 8.3.4.1, l’expression « 5 minutes au maximum » est remplacée par « une minute au maximum ».
 
 - **(8)** Les renseignements ci-après doivent être fournis par écrit et accompagner les véhicules munis d’un système d’immobilisation :
 	- **a)** des instructions concernant l’utilisation et l’entretien du système;
 	- **b)** une mise en garde précisant de ne laisser dans le véhicule ni dispositif ni combinaison permettant de désarmer ou de débrancher le système.
 
 - **(9)** Les renseignements doivent être fournis en français, en anglais ou dans les deux langues officielles, selon la demande du premier usager du véhicule.
-> DORS/79-940, art. 7; DORS/95-164, art. 6; DORS/97-264, art. 3; DORS/97-421, art. 6; DORS/2005-45, art. 4; DORS/2007-246, art. 3; DORS/2008-104, art. 13..
+> DORS/79-940, art. 7; DORS/95-164, art. 6; DORS/97-264, art. 3; DORS/97-421, art. 6; DORS/2005-45, art. 4; DORS/2007-246, art. 3; DORS/2008-104, art. 13; DORS/2009-32, art. 2..
 
 
 
@@ -4607,7 +4607,7 @@ NOTE : LE CALCUL DES DIMENSIONS DES IMAGES DE RÉFÉRENCE SE FAIT AU MOYEN DES F
 
 **115** 
 
-- **(1)** Tout véhicule doit avoir un numéro d’identification et il est interdit à un fabricant d’utiliser le même numéro d’identification pour deux véhicules produits à moins de 30 ans d’intervalle.
+- **(1)** Tout véhicule doit avoir un numéro d’identification du véhicule et celui-ci ne peut être identique à celui d’un véhicule de l’année de modèle 1980 ou d’une année de modèle ultérieure fabriqué dans les 60 ans qui précèdent.
 
 - **(1.1)** Le véhicule construit à partir d’un véhicule incomplet doit porter le numéro d’identification du véhicule attribué par le fabricant de véhicules incomplets.
 
@@ -4619,7 +4619,7 @@ NOTE : LE CALCUL DES DIMENSIONS DES IMAGES DE RÉFÉRENCE SE FAIT AU MOYEN DES F
 		- **(i)** sur une partie intégrante ou structurale du véhicule, sauf le dessus ou le coussin du tablier,
 		- **(ii)** sur le tablier ou le dessus du tablier, s’il n’est pas conçu pour être remplacé à la suite du déploiement du sac gonflable,
 		- **(iii)** sur une plaque ou une étiquette distinctes fixées en permanence à un endroit visé aux sous-alinéas (i) ou (ii);
-	- **c)** dans le cas des voitures de tourisme, véhicules à trois roues, véhicules de tourisme à usages multiples, véhicules à basse vitesse et camions qui ont un PNBV d’au plus 4 536 kg :
+	- **c)** dans le cas des véhicules à basse vitesse, véhicules de tourisme à usages multiples, voitures de tourisme, véhicules à trois roues et camions qui ont un PNBV d’au plus 4 536 kg :
 		- **(i)** être composé de caractères d’une hauteur minimum de 4 mm,
 		- **(ii)** être placé à l’intérieur de l’habitacle, et
 		- **(iii)** être lisible, sans qu’il soit nécessaire de déplacer une partie du véhicule, à travers le vitrage de ce dernier et à la lumière du jour par un observateur qui a une vision de 20/20, échelle Snellen, et dont le point de vision se trouve à l’extérieur du véhicule, à proximité du montant gauche du pare-brise.
@@ -4644,19 +4644,18 @@ NOTE : LE CALCUL DES DIMENSIONS DES IMAGES DE RÉFÉRENCE SE FAIT AU MOYEN DES F
 	- **b)** soit sur une plaque ou une étiquette distinctes fixées en permanence sur une partie du véhicule visée à l’alinéa a).
 
 - **(3)** Le numéro d’identification du véhicule doit être alphanumérique et être composé de 17 caractères dont :
-	- **a)** les trois premiers désignent d’une manière exclusive le fabricant, la marque et la catégorie du véhicule :
-		- **(i)** lorsqu’il s’agit d’un fabricant qui produit annuellement au moins 500 véhicules d’une catégorie prescrite,
-		- **(ii)** en combinaison avec les douzième au quatorzième caractères, lorsqu’il s’agit d’un fabricant qui produit annuellement moins de 500 véhicules d’une catégorie prescrite;
+	- **a)** les trois premiers caractères, dont le troisième ne doit pas être « 9 », désignent d’une manière exclusive le fabricant et la catégorie du véhicule, s’il s’agit d’un fabricant qui produit annuellement 1 000 véhicules ou plus d’une catégorie réglementaire;
+	- **a.1)** les trois premiers caractères, dont le troisième est obligatoirement « 9 », et les douzième au quatorzième caractères désignent d’une manière exclusive le fabricant et la catégorie du véhicule, s’il s’agit d’un fabricant qui produit annuellement moins de 1 000 véhicules d’une catégorie réglementaire;
 	- **b)** les quatrième au huitième caractères désignent de manière exclusive les renseignements déchiffrables sur le véhicule indiqués à la colonne II du tableau I, sauf que :
-		- **(i)** dans le cas des voitures de tourisme, véhicules à trois roues, véhicules de tourisme à usages multiples, véhicules à basse vitesse et camions qui ont un PNBV d’au plus 4 536 kg, les quatrième et cinquième caractères sont alphabétiques et les sixième et septième, numériques,
+		- **(i)** dans le cas des véhicules de tourisme à usages multiples, voitures de tourisme, véhicules à trois roues et camions qui ont un PNBV d’au plus 4 536 kg, le septième caractère est alphabétique,
 		- **(ii)** sous réserve du sous-alinéa (i), le fabricant peut décider des caractères et de leur position,
 		- **(iii)** dans le cas d’un véhicule incomplet à achever sous forme de remorque, les renseignements déchiffrables exigés pour un véhicule incomplet et indiqués à la colonne II du tableau I sont ceux qu’il faut fournir sur une remorque;
 	- **c)** le neuvième caractère est l’unité de contrôle déterminée conformément aux paragraphes (7) et (8) après que tous les autres caractères ont été fixés par le fabricant;
-	- **d)** le dixième caractère désigne le code approprié de l’année de modèle du véhicule tel qu’indiqué au tableau II;
+	- **d)** le dixième caractère désigne le code correspondant à l’année de modèle du véhicule, tel qu’il est indiqué au tableau II;
 	- **e)** le onzième caractère désigne l’usine où le véhicule a été fabriqué;
-	- **f)** sous réserve de l’alinéa h), les douzième au dix-septième caractères désignent le nombre que le fabricant a attribué par ordre séquentiel au cours de la production, s’il s’agit d’un fabricant qui produit annuellement au moins 500 véhicules d’une catégorie prescrite;
-	- **g)** sous réserve de l’alinéa h), s’il s’agit d’un fabricant qui produit annuellement moins de 500 véhicules d’une catégorie prescrite, les douzième au quatorzième caractères en combinaison avec les premier au troisième caractères désignent de manière exclusive le fabricant, la marque et la catégorie du véhicule, et les quinzième au dix-septième caractères désignent le nombre que le fabricant a attribué par ordre séquentiel au cours de la production;
-	- **h)** les quatorzième, quinzième, seizième et dix-septième caractères sont numériques pour tous les véhicules et le treizième caractère est numérique pour les voitures de tourisme, véhicules à trois roues, véhicules de tourisme à usages multiples, véhicules à basse vitesse et camions qui ont un PNBV d’au plus 4 536 kg.
+	- **f)** les douzième au dix-septième caractères désignent le nombre que le fabricant a attribué par ordre séquentiel au cours de la production, s’il s’agit d’un fabricant qui produit annuellement 1 000 véhicules ou plus d’une catégorie réglementaire;
+	- **g)** les quinzième au dix-septième caractères désignent le nombre que le fabricant a attribué par ordre séquentiel au cours de la production, s’il s’agit d’un fabricant qui produit annuellement moins de 1 000 véhicules d’une catégorie réglementaire;
+	- **h)** les quatorzième au dix-septième caractères sont numériques pour tous les véhicules et le treizième caractère est numérique dans le cas des véhicules de tourisme à usages multiples, voitures de tourisme, véhicules à trois roues et camions qui ont un PNBV d’au plus 4 536 kg.
 
 - **(4)** [Abrogé, DORS/2004-250, art. 3]
 
@@ -4674,9 +4673,11 @@ NOTE : LE CALCUL DES DIMENSIONS DES IMAGES DE RÉFÉRENCE SE FAIT AU MOYEN DES F
 
 - **(9)** Le ministre peut exiger des fabricants des véhicules visés par le présent article qu’ils lui soumettent, pour chaque marque et catégorie de véhicules fabriqués, les caractères qui constituent l’identificateur distinctif de chaque véhicule, y compris, le cas échéant, les douzième au quatorzième caractères qui en font partie, ainsi que, dans tous les cas, les renseignements nécessaires pour déchiffrer les caractères des numéros d’identification de véhicule.
 
-- **(10)** Lorsqu’un caractère du numéro d’identification du véhicule représente la puissance de freinage nette du moteur, celle-ci ne doit pas s’écarter de plus de 10 pour cent de la puissance de freinage nette réelle du moteur.
+- **(10)** Lorsqu’un caractère du numéro d’identification du véhicule représente la puissance nette du moteur, celle-ci ne doit pas s’écarter de plus de 10 % par rapport à la puissance nette réelle du moteur.
 
-- **(11)** Les fabricants des véhicules visés par le présent article doivent s’adresser à l’Association canadienne des constructeurs de véhicules pour obtenir les caractères, visés aux alinéas (3)a) et g), qui désignent de manière exclusive le fabricant, la marque et la catégorie du véhicule.
+- **(11)** Les fabricants des véhicules visés par le présent article doivent s’adresser à l’Association canadienne des constructeurs de véhicules pour obtenir les caractères visés aux alinéas (3)a) et *a.1*) qui désignent de manière exclusive le fabricant et la catégorie du véhicule.
+
+- **(12)** Malgré les paragraphes (1) à (11), les véhicules de l’année de modèle 2009 et des années de modèle antérieures doivent être conformes aux exigences du présent article dans sa version antérieure à la date d’entrée en vigueur du présent paragraphe.
 
 - 
 #### TABLEAU I
@@ -4693,223 +4694,182 @@ NOTE : LE CALCUL DES DIMENSIONS DES IMAGES DE RÉFÉRENCE SE FAIT AU MOYEN DES F
 </tr>
 <tr>
 <td>1</td>
-<td>Voiture de tourisme, véhicule à basse vitesse ou véhicule à trois roues</td>
-<td>Ligne, série, type de carrosserie, type de moteur et type de dispositif de retenue.</td>
+<td>Voiture de tourisme ou véhicule à trois roues</td>
+<td>Marque, ligne, série, type de carrosserie, type de moteur et tout type de dispositif de retenue et son emplacement dans le véhicule</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Véhicule de tourisme à usages multiples</td>
-<td>Ligne, série, type de carrosserie, type de moteur et poids nominal brut du véhicule.</td>
+<td>Marque, ligne, série, type de carrosserie, type de moteur et poids nominal brut du véhicule. De plus, pour les véhicules de tourisme à usages multiples dont le PNBV est de 4 536 kg ou moins, tout type de dispositif de retenue et son emplacement dans le véhicule.</td>
 </tr>
 <tr>
 <td>3</td>
 <td>Camion</td>
-<td>Modèle ou ligne, série, châssis, type de cabine, type de moteur, système de freinage et poids nominal brut du véhicule.</td>
+<td>Marque, modèle ou ligne, série, châssis, type de cabine, type de moteur, système de freinage et poids nominal brut du véhicule. De plus, pour les camions dont le PNBV est de 4 536 kg et moins, tout type de dispositif de retenue et son emplacement dans le véhicule.</td>
 </tr>
 <tr>
 <td>4</td>
 <td>Autobus</td>
-<td>Modèle ou ligne, série, type de carrosserie, type de moteur et système de freinage.</td>
+<td>Marque, modèle ou ligne, série, type de carrosserie, type de moteur et système de freinage</td>
 </tr>
 <tr>
 <td>5</td>
 <td>Remorque</td>
-<td>Type de remorque, type de carrosserie, longueur et configuration des essieux.</td>
+<td>Marque, type de remorque, type de carrosserie, longueur et configuration des essieux</td>
 </tr>
 <tr>
 <td>6</td>
-<td>Motocyclette, motocyclette à usage restreint</td>
-<td>Type de cycle, ligne, type de moteur et puissance de freinage nette du moteur.</td>
+<td>Motocyclette ou motocyclette à usage restreint</td>
+<td>Marque, type de cycle, ligne, type de moteur et puissance nette du moteur</td>
 </tr>
 <tr>
 <td>7</td>
 <td>Véhicule incomplet</td>
-<td>Modèle ou ligne, série, type de cabine, type de moteur et système de freinage.</td>
+<td>Marque, modèle ou ligne, série, type de cabine, type de moteur et système de freinage</td>
 </tr>
 <tr>
 <td>8</td>
 <td>Chariot de conversion</td>
-<td>Série et configuration des essieux.</td>
+<td>Marque, série et configuration des essieux</td>
 </tr>
 <tr>
 <td>9</td>
 <td>Motoneige</td>
-<td>Type de motoneige, ligne, type de moteur et puissance de freinage nette du moteur.</td>
+<td>Marque, type de motoneige, ligne, type de moteur et puissance nette du moteur</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Véhicule à basse vitesse</td>
+<td>Marque, type de moteur, système de freinage, tout type de dispositif de retenue, type de carrosserie et poids nominal brut du véhicule</td>
 </tr>
 </table>
 
 #### TABLEAU II
 <table>
-<h4>Code des années de modèle</h4>
+<h4>Codes des années de modèle</h4>
 <tr>
-<th>Années</th>
-<th></th>
-<th>Codes</th>
-</tr>
-<tr>
-<td>1980</td>
-<td></td>
-<td>A</td>
-</tr>
-<tr>
-<td>1981</td>
-<td></td>
-<td>B</td>
-</tr>
-<tr>
-<td>1982</td>
-<td></td>
-<td>C</td>
-</tr>
-<tr>
-<td>1983</td>
-<td></td>
-<td>D</td>
-</tr>
-<tr>
-<td>1984</td>
-<td></td>
-<td>E</td>
-</tr>
-<tr>
-<td>1985</td>
-<td></td>
-<td>F</td>
-</tr>
-<tr>
-<td>1986</td>
-<td></td>
-<td>G</td>
-</tr>
-<tr>
-<td>1987</td>
-<td></td>
-<td>H</td>
-</tr>
-<tr>
-<td>1988</td>
-<td></td>
-<td>J</td>
-</tr>
-<tr>
-<td>1989</td>
-<td></td>
-<td>K</td>
-</tr>
-<tr>
-<td>1990</td>
-<td></td>
-<td>L</td>
-</tr>
-<tr>
-<td>1991</td>
-<td></td>
-<td>M</td>
-</tr>
-<tr>
-<td>1992</td>
-<td></td>
-<td>N</td>
-</tr>
-<tr>
-<td>1993</td>
-<td></td>
-<td>P</td>
-</tr>
-<tr>
-<td>1994</td>
-<td></td>
-<td>R</td>
-</tr>
-<tr>
-<td>1995</td>
-<td></td>
-<td>S</td>
-</tr>
-<tr>
-<td>1996</td>
-<td></td>
-<td>T</td>
-</tr>
-<tr>
-<td>1997</td>
-<td></td>
-<td>V</td>
-</tr>
-<tr>
-<td>1998</td>
-<td></td>
-<td>W</td>
-</tr>
-<tr>
-<td>1999</td>
-<td></td>
-<td>X</td>
-</tr>
-<tr>
-<td>2000</td>
-<td></td>
-<td>Y</td>
-</tr>
-<tr>
-<td>2001</td>
-<td></td>
-<td>1</td>
-</tr>
-<tr>
-<td>2002</td>
-<td></td>
-<td>2</td>
-</tr>
-<tr>
-<td>2003</td>
-<td></td>
-<td>3</td>
-</tr>
-<tr>
-<td>2004</td>
-<td></td>
-<td>4</td>
-</tr>
-<tr>
-<td>2005</td>
-<td></td>
-<td>5</td>
-</tr>
-<tr>
-<td>2006</td>
-<td></td>
-<td>6</td>
-</tr>
-<tr>
-<td>2007</td>
-<td></td>
-<td>7</td>
-</tr>
-<tr>
-<td>2008</td>
-<td></td>
-<td>8</td>
-</tr>
-<tr>
-<td>2009</td>
-<td></td>
-<td>9</td>
+<th>Année</th>
+<th>Code</th>
 </tr>
 <tr>
 <td>2010</td>
-<td></td>
 <td>A</td>
 </tr>
 <tr>
 <td>2011</td>
-<td></td>
 <td>B</td>
 </tr>
 <tr>
 <td>2012</td>
-<td></td>
 <td>C</td>
+</tr>
+<tr>
+<td>2013</td>
+<td>D</td>
+</tr>
+<tr>
+<td>2014</td>
+<td>E</td>
+</tr>
+<tr>
+<td>2015</td>
+<td>F</td>
+</tr>
+<tr>
+<td>2016</td>
+<td>G</td>
+</tr>
+<tr>
+<td>2017</td>
+<td>H</td>
+</tr>
+<tr>
+<td>2018</td>
+<td>J</td>
+</tr>
+<tr>
+<td>2019</td>
+<td>K</td>
+</tr>
+<tr>
+<td>2020</td>
+<td>L</td>
+</tr>
+<tr>
+<td>2021</td>
+<td>M</td>
+</tr>
+<tr>
+<td>2022</td>
+<td>N</td>
+</tr>
+<tr>
+<td>2023</td>
+<td>P</td>
+</tr>
+<tr>
+<td>2024</td>
+<td>R</td>
+</tr>
+<tr>
+<td>2025</td>
+<td>S</td>
+</tr>
+<tr>
+<td>2026</td>
+<td>T</td>
+</tr>
+<tr>
+<td>2027</td>
+<td>V</td>
+</tr>
+<tr>
+<td>2028</td>
+<td>W</td>
+</tr>
+<tr>
+<td>2029</td>
+<td>X</td>
+</tr>
+<tr>
+<td>2030</td>
+<td>Y</td>
+</tr>
+<tr>
+<td>2031</td>
+<td>1</td>
+</tr>
+<tr>
+<td>2032</td>
+<td>2</td>
+</tr>
+<tr>
+<td>2033</td>
+<td>3</td>
+</tr>
+<tr>
+<td>2034</td>
+<td>4</td>
+</tr>
+<tr>
+<td>2035</td>
+<td>5</td>
+</tr>
+<tr>
+<td>2036</td>
+<td>6</td>
+</tr>
+<tr>
+<td>2037</td>
+<td>7</td>
+</tr>
+<tr>
+<td>2038</td>
+<td>8</td>
+</tr>
+<tr>
+<td>2039</td>
+<td>9</td>
 </tr>
 </table>
 
@@ -5108,7 +5068,7 @@ NOTE : LE CALCUL DES DIMENSIONS DES IMAGES DE RÉFÉRENCE SE FAIT AU MOYEN DES F
 </tr>
 </table>
 
-> DORS/79-940, art. 7; DORS/82-753, art. 3; DORS/87-660, art. 5; DORS/88-268, art. 7; DORS/88-535, art. 1; DORS/92-545, art. 3; DORS/94-670, art. 2(F); DORS/97-532, art. 3; DORS/2000-182, art. 7; DORS/2000-241, art. 1; DORS/2000-304, art. 5; DORS/2002-55, art. 14; DORS/2003-272, art. 15; DORS/2004-250, art. 3; DORS/2006-94, art. 4(A); DORS/2008-72, art. 3(A)..
+> DORS/79-940, art. 7; DORS/82-753, art. 3; DORS/87-660, art. 5; DORS/88-268, art. 7; DORS/88-535, art. 1; DORS/92-545, art. 3; DORS/94-670, art. 2(F); DORS/97-532, art. 3; DORS/2000-182, art. 7; DORS/2000-241, art. 1; DORS/2000-304, art. 5; DORS/2002-55, art. 14; DORS/2003-272, art. 15; DORS/2004-250, art. 3; DORS/2006-94, art. 4(A); DORS/2008-72, art. 3(A); DORS/2009-33, art. 2..
 
 
 
@@ -5613,20 +5573,20 @@ NOTE : LE CALCUL DES DIMENSIONS DES IMAGES DE RÉFÉRENCE SE FAIT AU MOYEN DES F
 
 **206** 
 
-- **(1)** Sous réserve du paragraphe (2), les motocyclettes à habitacle fermé, les véhicules de tourisme à usages multiples, les véhicules à trois roues, les voitures de tourisme et les camions qui sont munis de portes latérales ou de portes arrière doivent l’être en conformité avec, selon le cas :
-	- **a)** le Document de normes techniques no 206 — Serrures de porte et composants de retenue de porte, avec ses modifications successives, ci-après appelé « DNT 206 »;
-	- **b)** les spécifications générales, les spécifications d’efficacité et les procédures d’essai qui figurent au règlement n<sup>o</sup> 11 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des véhicules en ce qui concerne les serrures et organes de fixation de portes, dans sa version au 11 juin 2007, tel qu’il est modifié après cette date par tout amendement de la série 03 d’amendements, ci-après appelé « règlement n<sup>o</sup> 11 de la CEE ».
+- **(1)** Sous réserve du paragraphe (2), les motocyclettes à habitacle fermé, les véhicules de tourisme à usages multiples, les véhicules à trois roues, les voitures de tourisme et les camions qui sont munis de portes latérales ou de portes arrière doivent l’être en conformité avec, selon le cas :
+	- **a)** les exigences du Document de normes techniques no 206 — Serrures de porte et composants de retenue de porte (DNT 206), avec ses modifications successives;
+	- **b)** les spécifications générales, les spécifications d’efficacité et les procédures d’essai qui figurent au règlement n<sup>o</sup> 11 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des véhicules en ce qui concerne les serrures et organes de fixation des portes, dans sa version au 11 juin 2007, tel qu’il est modifié après cette date par tout amendement de la série 03 d’amendements.
 
-- **(2)** Sous réserve du paragraphe (5), jusqu’au 31 août 2009, les motocyclettes à habitacle fermé, les véhicules de tourisme à usages multiples, les véhicules à trois roues, les voitures de tourisme et les camions qui sont munis de portes latérales ou de portes arrière peuvent l’être en conformité avec les exigences du DNT 206, dans sa version au 23 août 1996, au lieu de l’être en conformité avec le paragraphe (1).
+- **(2)** Sous réserve du paragraphe (5), jusqu’au 31 août 2011, les motocyclettes à habitacle fermé, les véhicules de tourisme à usages multiples, les véhicules à trois roues, les voitures de tourisme et les camions qui sont munis de portes latérales ou de portes arrière peuvent l’être en conformité avec les exigences du DNT 206, dans sa version au 23 août 1996, au lieu de l’être en conformité avec le paragraphe (1).
 
-- **(3)** À compter du 1<sup>er</sup> septembre 2009, les autobus dont le PNBV est d’au plus 4 536 kg et qui sont munis de portes latérales ou de portes arrière doivent l’être en conformité avec le paragraphe (1).
+- **(3)** À compter du 1<sup>er</sup> septembre 2011, les autobus dont le PNBV est d’au plus 4 536 kg et qui sont munis de portes latérales ou de portes arrière doivent l’être en conformité avec le paragraphe (1).
 
 - **(4)** Pour l’application du paragraphe 6.3.2 du règlement n<sup>o</sup> 11 de la CEE, le dispositif de verrouillage est celui visé aux alinéas 6.3.2.1a) ou b) de ce règlement.
 
 - **(5)** Malgré les dispositions S5.1.1.2 et S5.4.1.2 du DNT 206, dans sa version au 23 août 1996, la conformité à ses dispositions S4.1.1.3 et S4.4.1.4 doit être démontrée conformément aux alinéas S5.1.1.4a) ou b) du document visé à l’alinéa (1)a).
 
-- **(6)** Le présent article cesse d’avoir effet le 1<sup>er</sup> janvier 2010.
-> DORS/97-14, art. 2; DORS/2001-116, art. 3; DORS/2002-55, art. 21; DORS/2003-272, art. 23; DORS/2005-42, art. 7 et 8; DORS/2006-94, art. 4(A); DORS/2008-73, art. 3..
+- **(6)** Le présent article cesse d’avoir effet le 1<sup>er</sup> juin 2013.
+> DORS/97-14, art. 2; DORS/2001-116, art. 3; DORS/2002-55, art. 21; DORS/2003-272, art. 23; DORS/2005-42, art. 7 et 8; DORS/2006-94, art. 4(A); DORS/2008-73, art. 3; DORS/2009-34, art. 1..
 
 
 
