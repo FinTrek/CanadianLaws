@@ -13145,7 +13145,7 @@ but before making a further order the Superintendent shall provide the authorize
 - **(4)** For the purposes of paragraph (1)(a), an authorized foreign bank may
 	- **(a)** accept deposit liabilities or otherwise borrow money from
 		- **(i)** a financial institution other than a foreign bank, or
-		- **(ii)** a foreign bank that meets the conditions described in subparagraphs 521(1.07)(a)(i) and (ii),
+		- **(ii)** a foreign bank described in any of subparagraphs 508(1)(a)(i) to (iii),
 by means of financial instruments that cannot be subsequently sold or traded; or
 	- **(b)** accept deposit liabilities or otherwise borrow money, from prescribed classes of entities referred to in subparagraph (a)(i) or (ii), by means of financial instruments that can be sold to or traded with those classes of entities, in accordance with regulations made pursuant to subsection (6).
 
@@ -13164,7 +13164,7 @@ by means of financial instruments that cannot be subsequently sold or traded; or
 	- **(d)** prescribing the terms and conditions respecting any sale or trade of financial instruments, securities or bills of exchange;
 	- **(d.1)** respecting circumstances in which and the conditions under which an authorized foreign bank that is subject to the restrictions and requirements referred to in subsection 524(2) may act as agent for any person in the taking of deposit liabilities; and
 	- **(e)** respecting such other matters or things as are necessary to carry out the purposes of this section.
-> 1991, c. 46, s. 540; 1996, c. 6, s. 16; 1999, c. 28, s. 35; 2001, c. 9, s. 141.
+> 1991, c. 46, s. 540; 1996, c. 6, s. 16; 1999, c. 28, s. 35; 2001, c. 9, s. 141; 2007, c. 6, s. 83.
 
 
 
