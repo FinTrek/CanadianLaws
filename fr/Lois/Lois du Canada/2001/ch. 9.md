@@ -1,6 +1,6 @@
 > [Aller à la version anglaise](/en/Acts/Statutes%20of%20Canada/2001/c.%209.md)
 
-# Loi sur l'Agence de la consommation en matière financière du Canada
+# Loi sur l’Agence de la consommation en matière financière du Canada
 
 **L.C. 2001, ch. 9**
 
@@ -344,6 +344,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(3)** Le plus tôt possible après la détermination des montants visés au paragraphe (1), le commissaire doit imposer à chaque institution financière une cotisation sur le montant total des dépenses, dans les limites et selon les modalités que peut prévoir, par règlement, le gouverneur en conseil.
 
+**Exception**
+
+- **(3.1)** La cotisation ne peut être établie à l’égard :
+	- **a)** des sociétés régies par la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md) qui étaient soustraites à l’application des alinéas 165(2)f) et g) et des articles 479 à 489.2 de cette loi durant la totalité de l’exercice auquel se rapporte la cotisation;
+	- **b)** des sociétés étrangères régies par cette loi qui étaient soustraites à l’application des articles 598 à 607.1 de cette loi durant la totalité de l’exercice auquel se rapporte la cotisation.
+
 **Cotisations provisoires**
 
 - **(4)** Au cours de l’exercice, le commissaire peut établir une cotisation provisoire pour toute institution financière.
@@ -359,6 +365,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Intérêt**
 
 - **(7)** Toute partie impayée de la cotisation peut être majorée d’un intérêt calculé à un taux supérieur de 2 % au taux en vigueur fixé en vertu de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) sur les montants à payer par le ministre du Revenu national à titre de remboursement de paiements en trop d’impôt en vertu de cette loi.
+> 2001, ch. 9, art. 18; 2007, ch. 6, art. 435.
+
 
 
 
@@ -605,7 +613,21 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 ## Modification de lois relatives aux institutions financières
 
 
-**35 à 571** [Modifications]
+**35 à 140** [Modifications]
+
+
+
+**141** 
+
+- **(1)** [Modification]
+
+- **(2)** [Abrogé, 2007, ch. 6, art. 437]
+
+- **(3)** [Modification]
+
+
+
+**142 à 571** [Modifications]
 
 
 
