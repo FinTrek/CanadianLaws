@@ -12897,7 +12897,7 @@ Il doit toutefois auparavant donner à la banque étrangère autorisée la possi
 - **(4)** La banque étrangère autorisée peut :
 	- **a)** accepter des dépôts ou contracter de quelque autre façon des emprunts :
 		- **(i)** soit d’une institution financière autre qu’une banque étrangère,
-		- **(ii)** soit d’une banque étrangère qui remplit les conditions visées aux sous-alinéas 521(1.07)a)(i) et (ii),
+		- **(ii)** soit d’une banque étrangère visée à l’un ou l’autre des sous-alinéas 508(1)a)(i) à (iii),
 au moyen d’instruments financiers qui ne peuvent être vendus ni négociés par la suite;
 	- **b)** accepter des dépôts ou contracter de quelque autre façon des emprunts des catégories réglementaires d’entités mentionnées aux sous-alinéas a)(i) ou (ii), au moyen d’instruments financiers qui peuvent être vendus ou négociés par la suite auprès de telles catégories d’entités, conformément aux règlements pris en vertu du paragraphe (6).
 
@@ -12916,7 +12916,7 @@ au moyen d’instruments financiers qui ne peuvent être vendus ni négociés pa
 	- **d)** prévoir les modalités et conditions de vente ou de négociation des instruments financiers, titres et lettres de change;
 	- **d.1)** régir les circonstances dans lesquelles les banques étrangères autorisées qui font l’objet des restrictions et exigences visées au paragraphe 524(2) peuvent faire fonction de mandataire pour l’acceptation de dépôts et les modalités auxquelles elles peuvent le faire;
 	- **e)** prévoir toute autre mesure d’application du présent article.
-> 1991, ch. 46, art. 540; 1996, ch. 6, art. 16; 1999, ch. 28, art. 35; 2001, ch. 9, art. 141.
+> 1991, ch. 46, art. 540; 1996, ch. 6, art. 16; 1999, ch. 28, art. 35; 2001, ch. 9, art. 141; 2007, ch. 6, art. 83.
 
 
 
