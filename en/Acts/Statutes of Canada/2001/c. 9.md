@@ -346,6 +346,12 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 - **(3)** As soon as possible after ascertaining the amounts under subsection (1), the Commissioner shall assess a portion of the total amount of expenses against each financial institution to the extent and in the manner that the Governor in Council may, by regulation, prescribe.
 
+**Exception**
+
+- **(3.1)** No assessment is to be made in respect of
+	- **(a)** a company to which the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md) applies that was exempt from the application of paragraphs 165(2)(f) and (g) and sections 479 to 489.2 of that Act during the entire fiscal year to which the assessment relates; or
+	- **(b)** a foreign company to which that Act applies that was exempt from the application of sections 598 to 607.1 of that Act during the entire fiscal year to which the assessment relates.
+
 **Interim assessment**
 
 - **(4)** The Commissioner may, during each fiscal year, prepare an interim assessment against any financial institution.
@@ -361,6 +367,8 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 **Interest**
 
 - **(7)** Interest may be charged on the unpaid amount of an assessment or interim assessment at a rate equal to the rate prescribed under the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) for amounts payable by the Minister of National Revenue as refunds of overpayments of tax under that Act in effect from time to time plus 2%.
+> 2001, c. 9, s. 18; 2007, c. 6, s. 435.
+
 
 
 
@@ -607,7 +615,21 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 ## Amendments to Acts in Relation to Financial Institutions
 
 
-**35 to 571** [Amendments]
+**35 to 140** [Amendments]
+
+
+
+**141** 
+
+- **(1)** [Amendment]
+
+- **(2)** [Repealed, 2007, c. 6, s. 437]
+
+- **(3)** [Amendment]
+
+
+
+**142 to 571** [Amendments]
 
 
 
