@@ -145,7 +145,9 @@ Enabling authorities:
 - **(6)** No person shall fish in any lake that has been stocked with game fish except by angling.
 
 - **(7)** No person shall fish in any waters set out in Column I of an item of Schedule VII for the species of fish set out in Column II of that item by the method set out in Column IV of that item during the close time set out in Column III of that item.
-> SOR/78-519, s. 1; SOR/87-508, s. 1; SOR/93-59, s. 3; SOR/93-340, s. 1.
+
+- **(8)** No person shall fish in the waters of Fish Creek at 67°43′42″ north latitude and 136°15′44″ west longitude, or in the waters of the Big Fish River at 68°39′48″ north latitude and 135°52′35″ west longitude, including all their tributaries, except for educational or scientific purposes under the authority of a licence.
+> SOR/78-519, s. 1; SOR/87-508, s. 1; SOR/93-59, s. 3; SOR/93-340, s. 1; SOR/2009-83, s. 1.
 
 
 
@@ -6384,10 +6386,7 @@ Junction of Satah R.
 </tr>
 <tr>
 <td>3</td>
-<td>Big Fish River (Latitude 68°40′N., Longitude 135°52′W.) and all tributaries thereto</td>
-<td>All species</td>
-<td>April 1 — March 31</td>
-<td>Sport fishing, gillnets, weirs or traps</td>
+<td>[Repealed, SOR/2009-83, s. 2]</td>
 </tr>
 <tr>
 <td>4</td>
@@ -6410,9 +6409,16 @@ Junction of Satah R.
 <td>June 1 — June 30</td>
 <td>Gill nets</td>
 </tr>
+<tr>
+<td>7</td>
+<td>Rat River (Latitude 67°43′35″N., Longitude 136°15′39″W.), Husky Channel between Latitude 67°36′52″N., Longitude 134°51′30″W. and Latitude 68°08′03″N., Longitude 135°16′14″W. and Peel Channel between Latitude 68°07′51″N., Longitude 135°16′9″W. and Latitude 68°13′2″N., Longitude 135°05′35″W.</td>
+<td>All species</td>
+<td>August 7 — September 15</td>
+<td>Sport fishing</td>
+</tr>
 </table>
 
-> SOR/81-119, s. 13; SOR/82-425, s. 1; SOR/87-508, s. 6; SOR/88-256, s. 3; SOR/91-447, s. 3.
+> SOR/81-119, s. 13; SOR/82-425, s. 1; SOR/87-508, s. 6; SOR/88-256, s. 3; SOR/91-447, s. 3; SOR/2009-83, ss. 2, 3.
 
 
 
