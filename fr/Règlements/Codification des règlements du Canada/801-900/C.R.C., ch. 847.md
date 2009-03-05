@@ -145,7 +145,9 @@ Autorités habilitantes :
 - **(6)** Il est interdit de pêcher dans un lac où a été déposé du poisson gibier pour fin de propagation si ce n’est à la pêche à la ligne.
 
 - **(7)** Il est interdit de pêcher, dans les eaux visées à la colonne I de l’annexe VII, les espèces visées à la colonne II en utilisant les méthodes indiquées à la colonne IV durant les périodes de fermeture prévues à la colonne III de cette annexe.
-> DORS/78-519, art. 1; DORS/87-508, art. 1; DORS/93-59, art. 3; DORS/93-340, art. 1.
+
+- **(8)** Il est interdit de pêcher dans les eaux du ruisseau Fish situées à 67°43′42″ de latitude nord et 136°15′44″ de longitude ouest, et dans les eaux de la rivière Big Fish situées à 68°39′48″ de latitude nord et 135°52′35″ de longitude ouest, y compris tous leurs tributaires, à moins d’y être autorisé à des fins scientifiques ou d’enseignement par un permis.
+> DORS/78-519, art. 1; DORS/87-508, art. 1; DORS/93-59, art. 3; DORS/93-340, art. 1; DORS/2009-83, art. 1.
 
 
 
@@ -6387,10 +6389,7 @@ jonction avec la riv. Satah
 </tr>
 <tr>
 <td>3</td>
-<td>Rivière Big Fish (68°40′ de latitude N. et 135°52′ de longitude O.) et tous ses tributaires</td>
-<td>Toutes</td>
-<td>1<sup>er</sup> avril — 31 mars</td>
-<td>Pêche sportive, filets maillants, nasses ou trappes</td>
+<td>[Abrogé, DORS/2009-83, art. 2]</td>
 </tr>
 <tr>
 <td>4</td>
@@ -6413,9 +6412,16 @@ jonction avec la riv. Satah
 <td>1<sup>er</sup> juin — 30 juin</td>
 <td>Filets maillants</td>
 </tr>
+<tr>
+<td>7</td>
+<td>Rivière Rat (67°43′35″ de latitude N., 136°15′39″ de longitude O.), chenal Husky entre 67°36′52″ de latitude N., 134°51′30″ de longitude O. et 68°08′03″ de latitude N., 135°16′14″ de longitude O. et chenal Peel entre 68°07′51″ de latitude N., 135°16′9″ de longitude O. et 68°13′2″ de latitude N., 135°05′35″ de longitude O.</td>
+<td>Toutes</td>
+<td>7 août — 15 septembre</td>
+<td>Pêche sportive</td>
+</tr>
 </table>
 
-> DORS/81-119, art. 13; DORS/82-425, art. 1; DORS/87-508, art. 6; DORS/88-256, art. 3; DORS/91-447, art. 3.
+> DORS/81-119, art. 13; DORS/82-425, art. 1; DORS/87-508, art. 6; DORS/88-256, art. 3; DORS/91-447, art. 3; DORS/2009-83, art. 2 et 3.
 
 
 
