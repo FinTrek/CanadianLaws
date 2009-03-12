@@ -596,7 +596,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**105** [Modification]
+**105** [Abrogé, 2009, ch. 2, art. 368]
 
 
 
