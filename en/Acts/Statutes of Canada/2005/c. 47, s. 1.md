@@ -36,11 +36,17 @@ Assented to on 25 November 2005
 
 
 
-**Meaning of wages**
+**Definitions**
 
 **2** 
 
-- **(1)** In this Act, ***wages*** includes salaries, commissions, compensation for services rendered, vacation pay and any other amounts prescribed by regulation but does not include severance or termination pay.
+- **(1)** The following definitions apply in this Act.
+
+***eligible wages*** means
+- **(a)** wages other than severance pay and termination pay that were earned during the six-month period ending on the date of the bankruptcy or the first day on which there was a receiver in relation to the former employer; and
+- **(b)** severance pay and termination pay that relate to employment that ended during the period referred to in paragraph (a).
+
+***wages*** includes salaries, commissions, compensation for services rendered, vacation pay, severance pay, termination pay and any other amounts prescribed by regulation.
 
 **Employers subject to a receivership**
 
@@ -59,7 +65,7 @@ Assented to on 25 November 2005
 - **(5)** Despite subsection 4(5) of the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md),
 	- **(a)** for the purposes of paragraph 6(d), an individual is considered to deal at arm’s length with a related person if the Minister is satisfied that, having regard to the circumstances — including the terms and conditions of the individual’s employment with the former employer, their remuneration and the duration, nature and importance of the work performed for the former employer — it is reasonable to conclude that the individual would have entered into a substantially similar contract of employment with the former employer if they had been dealing with each other at arm’s length; and
 	- **(b)** for the purposes of subsection 21(4), individuals who are related to each other are, in the absence of evidence to the contrary, deemed not to deal with each other at arm’s length while so related.
-> 2005, c. 47, s. 1 "2"; 2007, c. 36, s. 83.
+> 2005, c. 47, s. 1 “2”; 2007, c. 36, s. 83; 2009, c. 2, s. 342.
 
 
 
@@ -94,11 +100,11 @@ Assented to on 25 November 2005
 **Conditions of eligibility**
 
 **5** An individual is eligible to receive a payment if
-- **(a)** the individual’s employment terminated in the circumstances prescribed by regulation;
-- **(b)** the former employer is bankrupt or subject to a receivership;
-- **(c)** the individual is owed wages by the former employer; and
-- **(d)** the wages that are owed were earned during the six months immediately before the date of the bankruptcy or the first day on which there was a receiver in relation to the former employer.
-> 2005, c. 47, s. 1 "5"; 2007, c. 36, s. 84.
+- **(a)** the individual’s employment ended for a reason prescribed by regulation;
+- **(b)** the former employer is bankrupt or subject to a receivership; and
+- **(c)** the individual is owed eligible wages by the former employer.
+- **(d)** [Repealed, 2009, c. 2, s. 343]
+> 2005, c. 47, s. 1 “5”; 2007, c. 36, s. 84; 2009, c. 2, s. 343.
 
 
 
@@ -106,7 +112,7 @@ Assented to on 25 November 2005
 
 **Exceptions**
 
-**6** An individual is not eligible to receive a payment in respect of any wages earned during a period in which the individual
+**6** An individual is not eligible to receive a payment in respect of any wages earned during, or that otherwise relate to, a period in which the individual
 - **(a)** was an officer or director of the former employer;
 - **(b)** had a controlling interest within the meaning of the regulations in the business of the former employer;
 - **(c)** occupied a managerial position within the meaning of the regulations with the former employer; or
@@ -114,7 +120,7 @@ Assented to on 25 November 2005
 	- **(i)** an officer or director of the former employer,
 	- **(ii)** a person who had a controlling interest within the meaning of the regulations in the business of the former employer, or
 	- **(iii)** an individual who occupied a managerial position within the meaning of the regulations with the former employer.
-> 2005, c. 47, s. 1 "6"; 2007, c. 36, s. 85.
+> 2005, c. 47, s. 1 “6”; 2007, c. 36, s. 85; 2009, c. 2, s. 344.
 
 
 
@@ -128,18 +134,14 @@ Assented to on 25 November 2005
 
 **7** 
 
-- **(1)** The amount that may be paid under this Act to an individual is the amount owing to the individual for wages earned during the six months immediately before the date of the bankruptcy or the first day on which there was a receiver in relation to the former employer, as the case may be, less any amount prescribed by regulation. In the case of a former employer who is both bankrupt and subject to a receivership, the amount owing is the greater of the amount determined in respect of the bankruptcy and the amount determined in respect of the receivership.
-
-**Maximum**
-
-- **(2)** The maximum amount that may be paid to an individual is the greater of the following amounts, less any amount prescribed by regulation:
-	- **(a)** $3,000, and
+- **(1)** The amount that may be paid under this Act to an individual is the amount of eligible wages owing to the individual up to a maximum of the greater of the following amounts, less any amount prescribed by regulation:
+	- **(a)** $3,000; and
 	- **(b)** an amount equal to four times the maximum weekly insurable earnings under the [Employment Insurance Act](/en/Acts/Statutes%20of%20Canada/1996/c.%2023.md).
 
-**Allocation of payments**
+**Bankruptcy and receivership**
 
-- **(3)** Unless otherwise prescribed by regulation, payments made under this Act to an individual are to be allocated to vacation pay only after payments are first allocated to all other components of wages owing to the individual.
-> 2005, c. 47, s. 1 "7"; 2007, c. 36, s. 86.
+- **(2)** If the former employer is both bankrupt and subject to a receivership, the amount that may be paid is the greater of the amount determined in respect of the bankruptcy and the amount determined in respect of the receivership.
+> 2005, c. 47, s. 1 “7”; 2007, c. 36, s. 86; 2009, c. 2, s. 345.
 
 
 
@@ -283,10 +285,10 @@ Assented to on 25 November 2005
 **21** 
 
 - **(1)** For the purposes of this Act, a trustee or a receiver, as the case may be, shall
-	- **(a)** identify each individual who is owed wages that were earned during the six months immediately before the date of the bankruptcy or the first day on which there was a receiver in relation to the individual’s employer, as the case may be;
-	- **(b)** determine the amount of wages owing to each individual in respect of those six months;
+	- **(a)** identify each individual who is owed eligible wages;
+	- **(b)** determine the amount of eligible wages owing to each individual;
 	- **(c)** inform each individual other than one who is in a class prescribed by regulation of the existence of the program established by section 4 and of the conditions under which payments may be made under this Act;
-	- **(d)** provide the Minister and each individual other than one who is in a class prescribed by regulation with the information prescribed by regulation in relation to the individual and with the amount of wages owing to the individual in respect of those six months; and
+	- **(d)** provide the Minister and each individual other than one who is in a class prescribed by regulation with the information prescribed by regulation in relation to the individual and with the amount of eligible wages owing to the individual; and
 	- **(e)** inform the Minister of when the trustee is discharged or the receiver completes their duties, as the case may be.
 
 **Compliance with directions**
@@ -300,7 +302,7 @@ Assented to on 25 November 2005
 **Duty to assist — payroll contractors**
 
 - **(4)** In the case of a person who is dealing at arm’s length with and providing payroll services to a bankrupt or insolvent person, they shall provide a description of the information that they do not have access to, an estimate of the cost of providing the information that they have and an estimate of the cost of providing the information that they only have access to.
-> 2005, c. 47, s. 1 "21"; 2007, c. 36, s. 89.
+> 2005, c. 47, s. 1 “21”; 2007, c. 36, s. 89; 2009, c. 2, s. 346.
 
 
 
@@ -590,17 +592,17 @@ Assented to on 25 November 2005
 
 **41** The Governor in Council may make regulations generally for carrying out the purposes of this Act, including regulations
 - **(a)** prescribing amounts for the purposes of subsection 2(1);
-- **(b)** prescribing the circumstances in which employment terminated for the purposes of paragraph 5(a);
+- **(b)** prescribing reasons for the purposes of paragraph 5(a);
 - **(c)** defining controlling interest and managerial position for the purposes of section 6;
-- **(d)** prescribing amounts for the purposes of subsections 7(1) and (2);
-- **(e)** respecting the allocation of payments to the different components of wages for the purposes of subsection 7(3);
+- **(d)** prescribing an amount for the purposes of subsection 7(1);
+- **(e)** respecting the allocation of payments to the different components of wages;
 - **(f)** respecting the period during which and the manner in which applications for payments are to be made under section 8;
 - **(g)** respecting the period during which and the manner in which a review may be requested under section 11 or an appeal may be made under section 14;
 - **(h)** prescribing the classes of individuals that the trustee or receiver is not required to inform under paragraph 21(1)(c) or to whom they are not required to provide information under paragraph 21(1)(d);
-- **(i)** prescribing the information that is to be provided by trustees and receivers to the Minister and to individuals for the purposes of paragraph 21(1)(d) and the period during which and the manner in which that information is to be provided;
+- **(i)** respecting the information that is to be provided by trustees and receivers to the Minister and to individuals for the purposes of paragraph 21(1)(d) and respecting the period during which and the manner in which that information is to be provided;
 - **(j)** respecting the period during which and the manner in which the information referred to in paragraph 21(1)(c) and subsections 21(3) and (4) is to be provided; and
 - **(k)** prescribing fees and expenses for the purposes of subsection 22(2) and the circumstances in which they are to be paid.
-> 2005, c. 47, s. 1 “41”; 2007, c. 36, s. 94.
+> 2005, c. 47, s. 1 “41”; 2007, c. 36, s. 94; 2009, c. 2, s. 347.
 
 
 
