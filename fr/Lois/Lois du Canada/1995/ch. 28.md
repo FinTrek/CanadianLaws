@@ -447,7 +447,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **23** 
 
-- **(1)** Le capital autorisé de la Banque consiste en un nombre illimité d’actions ordinaires d’une valeur nominale de 100 $ chacune et d’un nombre illimité d’actions privilégiées sans valeur nominale, mais le total du capital versé du surplus d’apport qui s’y rapporte et du produit visé à l’alinéa 30(2)d) ne peut dépasser 1,5 milliard de dollars.
+- **(1)** Le capital autorisé de la Banque consiste en un nombre illimité d’actions ordinaires d’une valeur nominale de 100 $ chacune et en un nombre illimité d’actions privilégiées sans valeur nominale, mais le total du capital versé, du surplus d’apport qui s’y rapporte et du produit visé à l’alinéa 30(2)d) ne peut dépasser trois milliards de dollars.
 
 **Émission des actions**
 
@@ -460,6 +460,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **Versement**
 
 - **(4)** Le montant de la souscription est versé à la Banque sur le Trésor, selon les modalités de temps et de paiement fixées par le conseil.
+> 1995, ch. 28, art. 23; 2009, ch. 2, art. 264.
+
 
 
 
