@@ -9403,10 +9403,12 @@ Le cas échéant, tout actionnaire ou fondateur peut demander au tribunal d’im
 
 **Idem**
 
-- **(2)** Il est entendu que la société peut :
+- **(2)** Il est entendu que la société peut :
 	- **a)** agir à titre d’agent financier, de séquestre ou de liquidateur;
 	- **b)** fournir des services de conseil en placement et de gestion de portefeuille;
-	- **c)** émettre des cartes de paiement, de crédit ou de débit et, conjointement avec d’autres établissements, y compris les institutions financières, utiliser un système de telles cartes.
+	- **c)** émettre des cartes de paiement, de crédit ou de débit et, conjointement avec d’autres établissements, y compris les institutions financières, exploiter un système de telles cartes.
+> 1991, ch. 47, art. 440; 2009, ch. 2, art. 282(F).
+
 
 
 
@@ -10159,6 +10161,17 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 - **(2)** Le paragraphe (1) ne s’applique toutefois pas aux prêts garantis par une hypothèque immobilière, ni à ceux qui sont consentis à des fins commerciales et dont le capital excède cent mille dollars ou tout autre montant fixé par règlement.
 > 1991, ch. 47, art. 488; 1997, ch. 15, art. 262.
+
+
+
+
+
+**Règlements : portée des activités de la société**
+
+**488.1** Le gouverneur en conseil peut, par règlement, régir toute question relative aux relations d’une société ou à celles de ses employés ou représentants avec les clients ou le public, notamment :
+- **a)** prévoir ce que la société peut ou ne peut pas faire dans le cadre de l’exercice des activités visées à l’article 440 ou de la prestation des services visés à cet article et des activités et services accessoires, liés ou connexes;
+- **b)** fixer les modalités — de temps, lieu ou autre — d’exercice de ces activités ou de prestation de ces services.
+> 2009, ch. 2, art. 284.
 
 
 
@@ -13699,6 +13712,17 @@ Sont toutefois exclus du coût d’emprunt les frais qui en sont exclus selon le
 
 - **(2)** Le paragraphe (1) ne s’applique toutefois pas aux prêts garantis par une hypothèque immobilière, ni à ceux qui sont consentis à des fins commerciales et dont le capital excède cent mille dollars ou tout autre montant fixé par règlement.
 > 1991, ch. 47, art. 606; 1997, ch. 15, art. 313.
+
+
+
+
+
+**Règlements : portée des activités de la société étrangère**
+
+**606.1** Le gouverneur en conseil peut, par règlement, régir toute question relative aux relations d’une société étrangère ou à celles de ses employés ou représentants avec les clients ou le public, notamment :
+- **a)** prévoir ce que la société étrangère peut ou ne peut pas faire dans le cadre de l’exercice des activités prévues sous le régime de la présente loi ou de la prestation des services prévus sous ce même régime et des activités et services accessoires, liés ou connexes;
+- **b)** fixer les modalités — de temps, lieu ou autre — d’exercice de ces activités ou de prestation de ces services.
+> 2009, ch. 2, art. 286.
 
 
 
@@ -22194,6 +22218,93 @@ Elle lui communique également les renseignements personnels qui les concernent 
 
 **1016.6** Le surintendant peut, sur demande, soustraire l’auteur ou les auteurs d’une demande d’agrément aux dispositions de la présente loi relatives à la publication d’un avis d’intention concernant les demandes d’agrément et y substituer toute condition qu’il juge appropriée.
 > 2007, ch. 6, art. 330.
+
+
+
+
+
+### Exemption ou adaptation par décret
+
+
+
+**Décret**
+
+**1016.7** 
+
+- **(1)** Sur recommandation du ministre, le gouverneur en conseil peut, par décret :
+	- **a)** prévoir que telle disposition de la présente loi ou de ses règlements ne s’applique pas à une société, à Sa Majesté du chef du Canada ou à l’un de ses mandataires ou organismes ou à toute autre personne autrement assujettie à cette disposition;
+	- **b)** prévoir que telle disposition de la présente loi ou de ses règlements ne s’applique à une société, à Sa Majesté du chef du Canada ou à l’un de ses mandataires ou organismes ou à toute autre personne assujettie à cette disposition que selon les modalités et dans la mesure prévues par le décret et adapter la disposition à cette application.
+
+**Recommandation du ministre**
+
+- **(2)** Le ministre ne peut faire de recommandation en application du paragraphe (1) que s’il est d’avis :
+	- **a)** que le décret sera lié :
+		- **(i)** soit à l’acquisition, à la détention ou à la vente ou toute autre forme de disposition d’actions d’une société par Sa Majesté du chef du Canada ou par l’un de ses mandataires ou organismes, à toute autre forme de commerce par l’un de ceux-ci relativement à de telles actions ou au transfert ou à l’émission de telles actions à l’un de ceux-ci,
+		- **(ii)** soit à la conduite de l’activité commerciale et des affaires internes ou à la réglementation et à la supervision d’une société alors que Sa Majesté du chef du Canada ou l’un de ses mandataires ou organismes acquiert, détient ou vend des actions de cette société, en dispose autrement, en fait autrement le commerce ou en obtient le transfert ou l’émission;
+	- **b)** après avoir envisagé de prendre d’autres mesures que celles prévues à ce paragraphe et consulté le surintendant, le gouverneur de la Banque du Canada et le président de la Société d’assurance-dépôts du Canada, que le décret favorisera la stabilité du système financier au Canada.
+
+**Conditions**
+
+- **(3)** Sur recommandation du ministre, le gouverneur en conseil peut, par décret, prévoir les conditions relatives à l’acquisition des actions d’une société par Sa Majesté du chef du Canada ou par l’un de ses mandataires ou organismes ou au transfert ou à l’émission de telles actions à l’un de ceux-ci.
+
+**Abrogation d’un décret pris en application du paragraphe (1)**
+
+- **(4)** Le ministre peut recommander l’abrogation d’un décret pris en application du paragraphe (1) sans égard au paragraphe (2).
+
+**Conditions et engagements**
+
+- **(5)** Lorsque Sa Majesté du chef du Canada ou l’un de ses mandataires ou organismes fait l’acquisition d’actions d’une société, le ministre peut, par arrêté, imposer à la société les conditions et les engagements qu’il estime indiqués, et ce, à compter du moment de l’acquisition et jusqu’à celui de la vente ou autre disposition des actions, notamment à l’égard de ce qui suit :
+	- **a)** la rémunération de ses cadres dirigeants, au sens de l’article 678.01, et de ses administrateurs;
+	- **b)** la nomination ou la destitution de ses cadres dirigeants, au sens de l’article 678.01, et de ses administrateurs;
+	- **c)** le versement de dividendes par la société;
+	- **d)** les politiques et pratiques de la société relatives aux prêts.
+
+**Acquisition**
+
+- **(6)** Malgré la partie X de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), le ministre ou l’un des mandataires ou organismes de Sa Majesté du chef du Canada peut, selon les conditions fixées en application du paragraphe (3), acquérir et détenir au nom de Sa Majesté, ou en fiducie pour celle-ci, des actions d’une société si, en raison d’un décret pris en application du paragraphe (1), la société peut inscrire à son registre des valeurs mobilières le transfert ou l’émission d’actions à Sa Majesté ou à l’un de ses mandataires ou organismes.
+
+**Prélèvement sur le Trésor**
+
+- **(7)** Sur demande du ministre, peuvent être prélevés sur le Trésor les sommes que le ministre ou que l’un des mandataires ou organismes de Sa Majesté du chef du Canada est tenu de payer pour l’acquisition d’actions conformément au paragraphe (6) et les frais entraînés par leur acquisition, détention, vente ou autre disposition ou commerce.
+
+**Inscription des actions**
+
+- **(8)** Les actions acquises conformément au paragraphe (6) par le ministre ou par l’un des mandataires ou organismes de Sa Majesté du chef du Canada sont inscrites au registre des valeurs mobilières de la société au nom de l’acquéreur si elles peuvent faire l’objet d’une inscription sur ce registre et sont détenues par lui au nom de Sa Majesté, ou en fiducie pour celle-ci.
+
+**Disposition par le ministre**
+
+- **(9)** Le ministre peut, en tout temps, vendre des actions acquises conformément au paragraphe (6) ou en disposer autrement. La [Loi sur les biens de surplus de la Couronne](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-27.md) ainsi que l’article 61 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) ne s’appliquent pas à une telle vente ou disposition.
+
+**Disposition par l’un des mandataires ou organismes de Sa Majesté**
+
+- **(10)** À la demande du ministre, laquelle peut être faite en tout temps, l’un des mandataires ou organismes de Sa Majesté du chef du Canada vend des actions acquises conformément au paragraphe (6) ou en dispose autrement. La [Loi sur les biens de surplus de la Couronne](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-27.md) ainsi que l’article 61 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) ne s’appliquent pas à une telle vente ou disposition.
+
+**Effet de la détention d’actions**
+
+- **(11)** Lorsque le ministre ou l’un des mandataires ou organismes de Sa Majesté du chef du Canada détient des actions d’une société au nom de Sa Majesté, ou en fiducie pour celle-ci, deux ans après leur acquisition, le ministre se penche sur la question de savoir si leur détention continue de favoriser la stabilité du système financier au Canada.
+
+**Disposition obligatoire**
+
+- **(12)** S’il estime, aux termes du paragraphe (11), que la détention d’actions acquises conformément au paragraphe (6) ne favorise plus la stabilité du système financier au Canada, le ministre — ou, à sa demande, l’un des mandataires ou organismes de Sa Majesté du chef du Canada — prend les mesures qu’il juge indiquées dans les circonstances pour vendre les actions ou en disposer autrement. La [Loi sur les biens de surplus de la Couronne](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-27.md) ainsi que l’article 61 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) ne s’appliquent pas à une telle vente ou disposition.
+
+**Pas une société d’État**
+
+- **(13)** Si l’acquisition des actions d’une société conformément au paragraphe (6) en ferait par ailleurs une société d’État, au sens du paragraphe 83(1) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), cette société n’est pas une telle société pour l’application de cette loi.
+
+**[Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
+
+- **(14)** La [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’applique pas aux décrets ou aux arrêtés pris en application du présent article.
+
+**Précision**
+
+- **(15)** Pour l’application du présent article, sont assimilés aux actions :
+	- **a)** les privilèges de conversion ou d’échange et les options ou droits d’achat d’actions;
+	- **b)** s’agissant d’une société, les actions participantes au sens de l’article 83.01.
+
+**Société de portefeuille d’assurances**
+
+- **(16)** Pour l’application du présent article, à l’exception de l’alinéa (15)b), la mention d’une société comprend celle d’une société de portefeuille d’assurances et, s’agissant d’une société de portefeuille d’assurances, le renvoi, aux alinéas (5)a) et b), à l’article 678.01 vaut renvoi à l’article 1005.
+> 2009, ch. 2, art. 287.
 
 
 
