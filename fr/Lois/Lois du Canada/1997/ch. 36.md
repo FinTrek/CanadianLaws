@@ -3173,7 +3173,7 @@ French version only***taux*** Le taux de droits de douane.
 	- **(i)** le délai, postérieur à l’exportation de marchandises, dans lequel celles-ci doivent être retournées au Canada,
 	- **(ii)** les justificatifs nécessaires pour établir l’exportation des marchandises;
 - **b)** définir « accessoire au commerce international des marchandises », « ancien résident », « bagage », « moyen de transport », « résident », « résident temporaire » et « temporairement », pour l’application d’un numéro tarifaire du Chapitre 98 de la liste des dispositions tarifaires;
-- **c)** pour l’application des n<sup>os</sup> tarifaires 9801.10.00, 9801.20.00, 9808.00.00 et 9810.00.00, fixer les conditions de l’importation de marchandises;
+- **c)** pour l’application des n<sup>os</sup> tarifaires 9801.10.10, 9801.10.20, 9801.20.00, 9808.00.00 et 9810.00.00, fixer les conditions de l’importation de marchandises;
 - **d)** pour l’application du n<sup>o</sup> tarifaire 9802.00.00 :
 	- **(i)** fixer les conditions de l’importation des moyens de transport,
 	- **(ii)** limiter le délai pendant lequel un moyen de transport importé peut rester au Canada, ainsi que l’usage qui peut en être fait pendant son séjour au Canada, et autoriser le ministre de la Sécurité publique et de la Protection civile à proroger le délai,
@@ -3203,7 +3203,7 @@ French version only***taux*** Le taux de droits de douane.
 	- **(ii)** fixer les conditions de renonciation à l’obligation de fournir une garantie ou les documents réglementaires,
 	- **(iii)** déterminer la forme, la nature et les conditions de toute garantie que le ministre  de la Sécurité publique et de la Protection civile estime indiquée;
 - **l)** prendre toute autre mesure réglementaire d’application d’un numéro tarifaire visé au présent article.
-> 1997, ch. 36, art. 133; 2001, ch. 28, art. 45; 2005, ch. 38, art. 142 et 145.
+> 1997, ch. 36, art. 133; 2001, ch. 28, art. 45; 2005, ch. 38, art. 142 et 145; 2009, ch. 2, art. 122.
 
 
 
