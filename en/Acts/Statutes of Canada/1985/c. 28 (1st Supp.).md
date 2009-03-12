@@ -29,7 +29,9 @@
 
 **Purpose of Act**
 
-**2** Recognizing that increased capital and technology would benefit Canada, the purpose of this Act is to encourage investment in Canada by Canadians and non-Canadians that contributes to economic growth and employment opportunities and to provide for the review of significant investments in Canada by non-Canadians in order to ensure such benefit to Canada.
+**2** Recognizing that increased capital and technology benefits Canada, and recognizing the importance of protecting national security, the purposes of this Act are to provide for the review of significant investments in Canada by non-Canadians in a manner that encourages investment, economic growth and employment opportunities in Canada and to provide for the review of investments in Canada by non-Canadians that could be injurious to national security.
+> R.S., 1985, c. 28 (1st Supp.), s. 2; 2009, c. 2, s. 445.
+
 
 
 
@@ -54,7 +56,7 @@
 - **(a)** a Canadian citizen,
 - **(b)** a permanent resident within the meaning of subsection 2(1) of the [Immigration and Refugee Protection Act](/en/Acts/Statutes%20of%20Canada/2001/c.%2027.md) who has been ordinarily resident in Canada for not more than one year after the time at which he or she first became eligible to apply for Canadian citizenship,
 - **(c)** a Canadian government, whether federal, provincial or local, or an agency thereof, or
-- **(d)** an entity that is Canadian-controlled, as determined pursuant to subsection 26(1) or (2) and in respect of which no determination or declaration has been made under subsection 26(2.1) or (2.2);
+- **(d)** an entity that is Canadian-controlled, as determined under subsection 26(1) or (2) and in respect of which there has been no determination made under subsection 26(2.1) or (2.11) or declaration made under subsection 26(2.2);
 
 ***Canadian business*** means a business carried on in Canada that has
 - **(a)** a place of business in Canada,
@@ -91,7 +93,7 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations m
 - **(c)** a partnership, trust or joint venture, means an ownership interest in the assets thereof that entitles the owner to receive a share of the profits and to share in the assets on dissolution;
 
 ***voting share*** means a share in the capital of a corporation to which is attached a voting right ordinarily exercisable at meetings of shareholders of the corporation and to which is ordinarily attached a right to receive a share of the profits, or to share in the assets of the corporation on dissolution, or both.
-> R.S., 1985, c. 28 (1st Supp.), s. 3; 1993, c. 35, s. 1; 1995, c. 1, s. 45; 1996, c. 31, s. 88; 2001, c. 27, s. 259.
+> R.S., 1985, c. 28 (1st Supp.), s. 3; 1993, c. 35, s. 1; 1995, c. 1, s. 45; 1996, c. 31, s. 88; 2001, c. 27, s. 259; 2009, c. 2, s. 446.
 
 
 
@@ -162,7 +164,7 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations m
 
 **10** 
 
-- **(1)** This Act does not apply to
+- **(1)** This Act, other than Part IV.1, does not apply in respect of
 	- **(a)** the acquisition of voting shares or other voting interests by any person in the ordinary course of that person’s business as a trader or dealer in securities;
 	- **(b)** the acquisition of voting interests by any person in the ordinary course of a business carried on by that person that consists of providing, in Canada, venture capital on terms and conditions not inconsistent with such terms and conditions as may be fixed by the Minister;
 	- **(c)** the acquisition of control of a Canadian business in connection with the realization of security granted for a loan or other financial assistance and not for any purpose related to the provisions of this Act;
@@ -178,10 +180,22 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations m
 		- **(iii)** a corporation incorporated in Canada, all the issued voting shares of which, other than the qualifying voting shares of directors, are owned by an insurance company described in subparagraph (i), a foreign entity described in subparagraph (ii) or by a corporation controlled directly or indirectly through the ownership of voting shares by such an insurance company or foreign entity, on the condition that, in the case of a foreign entity described in subparagraph (ii), the voting interests of the entity carrying on the Canadian business, or the assets used in carrying on the Canadian business, are vested in trust under Part XIII of the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md); and
 	- **(k)** the acquisition of control of a Canadian business the revenue of which is generated from farming carried out on the real property acquired in the same transaction.
 
-**Where condition not complied with**
+**Exempt transactions — Part IV.1**
 
-- **(2)** Where any condition referred to in paragraph (1)(d) or (j) is not complied with, the exemption under that paragraph does not apply and the transaction referred to in that paragraph is subject to this Act as if it had never been exempt.
-> R.S., 1985, c. 28 (1st Supp.), s. 10; 1991, c. 46, s. 600, c. 47, s. 735; 2001, c. 9, s. 589; 2007, c. 6, s. 439.
+- **(2)** Part IV.1 does not apply in respect of
+	- **(a)** the acquisition of control of a Canadian business in connection with the realization of security granted for a loan or other financial assistance and not for any purpose related to the provisions of this Act, if the acquisition is subject to approval under the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md), the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md), the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md) or the [Trust and Loan Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2045.md);
+	- **(b)** the acquisition of control of a Canadian business by reason of an amalgamation, a merger, a consolidation or a corporate reorganization following which the ultimate direct or indirect control in fact of the Canadian business, through the ownership of voting interests, remains unchanged, if the acquisition is subject to approval under the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md), the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md), the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md) or the [Trust and Loan Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2045.md);
+	- **(c)** the acquisition of control of a Canadian business carried on by an agent of Her Majesty in right of Canada or a province or by a Crown corporation within the meaning of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md);
+	- **(d)** any transaction to which Part XII.01 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md) applies; or
+	- **(e)** the acquisition of control of a Canadian business by any of the following entities, if the acquisition is subject to approval under the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md), the [Cooperative Credit Associations Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2048.md), the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md) or the [Trust and Loan Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2045.md):
+		- **(i)** an insurance company incorporated in Canada that is a company or a provincial company to which the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md) applies, on the condition that the gross investment revenue of the company from the Canadian business is included in computing the income of the company under subsection 138(9) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md),
+		- **(ii)** a foreign entity that has been approved by order of the Superintendent of Financial Institutions under Part XIII of the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md) to insure in Canada risks, on the condition that the gross investment revenue of the company from the Canadian business is included in computing the income of the company under subsection 138(9) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) and the voting interests of the entity carrying on the Canadian business, or the assets used in carrying on the Canadian business, are vested in trust under that Part, or
+		- **(iii)** a corporation incorporated in Canada, all the issued voting shares of which, other than the qualifying voting shares of directors, are owned by an insurance company described in subparagraph (i), by a foreign entity described in subparagraph (ii) or by a corporation controlled directly or indirectly through the ownership of voting shares by such an insurance company or foreign entity, on the condition that, in the case of a foreign entity described in subparagraph (ii), the voting interests of the entity carrying on the Canadian business, or the assets used in carrying on the Canadian business, are vested in trust under Part XIII of the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md).
+
+**If condition not complied with**
+
+- **(3)** If any condition referred to in paragraph (1)(d) or (j) or (2)(e) is not complied with, the exemption under that paragraph does not apply and the transaction referred to in that paragraph is subject to this Act as if it had never been exempt.
+> R.S., 1985, c. 28 (1st Supp.), s. 10; 1991, c. 46, s. 600, c. 47, s. 735; 2001, c. 9, s. 589; 2007, c. 6, s. 439; 2009, c. 2, s. 447.
 
 
 
@@ -295,7 +309,7 @@ is reviewable pursuant to section 14 only where the value, calculated in the man
 ```
 where
 - **“Current Nominal GDP at Market Prices”** means the average of the Nominal Gross Domestic Products at market prices for the most recent four consecutive quarters; and
-- **“Previous Year Nominal GDP at Market Prices”**  means the average of the Nominal Gross Domestic Products at market prices for the four consecutive quarters for the comparable period in the year preceding the year used in calculating the Current Nominal GDP at Market Prices.
+- **“Previous Year Nominal GDP at Market Prices”** means the average of the Nominal Gross Domestic Products at market prices for the four consecutive quarters for the comparable period in the year preceding the year used in calculating the Current Nominal GDP at Market Prices.
 
 **Publication in Canada Gazette**
 
@@ -303,18 +317,13 @@ where
 
 **Investments not reviewable**
 
-- **(4)** Notwithstanding paragraph 14(1)(d), an investment described in that paragraph by
-	- **(a)** a WTO investor, or
-	- **(b)** a non-Canadian, other than a WTO investor, where the Canadian business that is the subject of the investment is, immediately prior to the implementation of the investment, controlled by a WTO investor,
-that is implemented after this section comes into force is not reviewable pursuant to section 14.
+- **(4)** Despite paragraphs 14(1)(c) and (d), an investment described in either paragraph that is implemented after this subsection comes into force is not reviewable under section 14 if it is made by
+	- **(a)** a WTO investor; or
+	- **(b)** a non-Canadian, other than a WTO investor, if the Canadian business that is the subject of the investment is, immediately prior to the implementation of the investment, controlled by a WTO investor.
 
-**Exceptions**
+**Exception**
 
-- **(5)** This section does not apply in respect of an investment to acquire control of a Canadian business that
-	- **(a)** engages in the production of uranium and owns an interest in a producing uranium property in Canada;
-	- **(b)** provides any financial service;
-	- **(c)** provides any transportation service, as that expression may be defined by the regulations; or
-	- **(d)** is a cultural business.
+- **(5)** This section does not apply in respect of an investment to acquire control of a Canadian business that is a cultural business.
 
 **Definitions**
 
@@ -331,9 +340,9 @@ that is implemented after this section comes into force is not reviewable pursua
 - **(d)** the publication, distribution or sale of music in print or machine readable form, or
 - **(e)** radio communication in which the transmissions are intended for direct reception by the general public, any radio, television and cable television broadcasting undertakings and any satellite programming and broadcast network services;
 
-***financial institution*** means any entity authorized to do business under the laws applicable to a WTO Member or any of its political subdivisions relating to financial institutions, as defined by the laws applicable to that WTO Member or any of its political subdivisions, and includes a holding company thereof;
+***financial institution***[Repealed, 2009, c. 2, s. 448]
 
-***financial service*** means a service of a financial nature offered by a financial institution excluding the underwriting and selling of insurance policies;
+***financial service***[Repealed, 2009, c. 2, s. 448]
 
 ***WTO Agreement*** has the meaning given to the word “Agreement” by subsection 2(1) of the [World Trade Organization Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1994/c.%2047.md);
 
@@ -365,7 +374,7 @@ that is implemented after this section comes into force is not reviewable pursua
 		- **(iii)** every reference in those provisions to “Canadian-controlled” shall be read and construed as a reference to “WTO investor-controlled”, and
 		- **(iv)** the reference in subparagraph 27(d)(i) to “Canada” shall be read and construed as a reference to “a WTO Member”; and
 	- **(b)** where two persons, one being a Canadian and the other being a WTO investor, own equally all of the voting shares of a corporation, the corporation is deemed to be WTO investor-controlled.
-> 1988, c. 65, s. 135; 1993, c. 35, s. 3; 1994, c. 47, s. 133.
+> 1988, c. 65, s. 135; 1993, c. 35, s. 3; 1994, c. 47, s. 133; 2009, c. 2, s. 448.
 
 
 
@@ -373,8 +382,8 @@ that is implemented after this section comes into force is not reviewable pursua
 
 **Regulations**
 
-**14.2** The Governor in Council may make such regulations as the Governor in Council deems necessary for carrying out the purposes and provisions of section 14.1, including regulations defining the expression “transportation service” for the purposes of paragraph 14.1(5)(c).
-> 1988, c. 65, s. 135; 1994, c. 47, s. 133.
+**14.2** The Governor in Council may make any regulations that the Governor in Council considers necessary for carrying out the purposes and provisions of section 14.1.
+> 1988, c. 65, s. 135; 1994, c. 47, s. 133; 2009, c. 2, s. 449.
 
 
 
@@ -406,6 +415,12 @@ that is implemented after this section comes into force is not reviewable pursua
 	- **(b)** to an investment made through an acquisition referred to in subparagraph 28(1)(d)(ii); or
 	- **(c)** to an investment reviewable pursuant to section 15.
 
+**Request for notice**
+
+- **(3)** If a non-Canadian makes a written request to the Minister for a notice referred to in paragraph (2)(a), the Minister shall, within 30 days after receiving all the information required for the Minister to decide whether the conditions described in that paragraph exist, advise the non-Canadian whether he or she will issue the notice or not.
+> R.S., 1985, c. 28 (1st Supp.), s. 16; 2009, c. 2, s. 450.
+
+
 
 
 
@@ -421,7 +436,11 @@ that is implemented after this section comes into force is not reviewable pursua
 	- **(a)** subject to paragraph (b), in the case of an investment reviewable pursuant to section 14, at any time prior to the implementation of the investment;
 	- **(b)** in the case of an investment made through an acquisition referred to in subparagraph 28(1)(d)(ii) or an investment with respect to which a notice referred to in paragraph 16(2)(a) has been sent, at any time prior to the implementation of the investment or within thirty days thereafter; or
 	- **(c)** in the case of an investment reviewable pursuant to section 15, forthwith on receipt of a notice for review referred to in subparagraph 15(b)(ii).
-> R.S., 1985, c. 28 (1st Supp.), s. 17; 1995, c. 1, s. 50.
+
+**Additional information**
+
+- **(3)** The non-Canadian making the investment shall, within the time specified by the Director, provide any other information that the Director considers necessary.
+> R.S., 1985, c. 28 (1st Supp.), s. 17; 1995, c. 1, s. 50; 2009, c. 2, s. 451.
 
 
 
@@ -479,30 +498,68 @@ that is implemented after this section comes into force is not reviewable pursua
 
 **21** 
 
-- **(1)** Subject to sections 22 and 23, the Minister shall, within forty-five days after the certified date referred to in subsection 18(1), send a notice to the applicant that the Minister, having taken into account any information, undertakings and representations referred to the Minister by the Director pursuant to section 19 and the relevant factors set out in section 20, is satisfied that the investment is likely to be of net benefit to Canada.
+- **(1)** Subject to subsections (2) to (8) and sections 22 and 23, the Minister shall, within 45 days after the certified date referred to in subsection 18(1), send a notice to the applicant that the Minister, having taken into account any information, undertakings and representations referred to the Minister by the Director under section 19 and the relevant factors set out in section 20, is satisfied that the investment is likely to be of net benefit to Canada.
 
-**Where Minister deemed to be satisfied**
+**Extension**
 
-- **(2)** Subject to sections 22 and 23, where the Minister does not send a notice under subsection (1) within the forty-five day period referred to in that subsection, the Minister is deemed to be satisfied that the investment is likely to be of net benefit to Canada and shall send a notice to that effect to the applicant.
-> R.S., 1985, c. 28 (1st Supp.), s. 21; 1995, c. 1, s. 50.
+- **(2)** Subject to subsection (3), if, before the expiry of the 45-day period referred to in subsection (1), a notice is sent under subsection 25.2(1) in respect of the investment, the period during which the Minister may send the notice referred to in subsection (1) is deemed to expire five days after the expiry of the prescribed period referred to in subsection 25.3(1).
+
+**Extension**
+
+- **(3)** Subject to subsections (4) and (5), if, before the expiry of the 45-day period referred to in subsection (1), a notice is sent under subsection 25.2(1) in respect of the investment and if, in respect of the investment, an order is made under subsection 25.3(1), the period during which the Minister may send the notice referred to in subsection (1) is deemed to expire five days after the expiry of the prescribed period referred to in subsection 25.3(6) or the further period if one was agreed to under that subsection.
+
+**Extension**
+
+- **(4)** If, before the expiry of the 45-day period referred to in subsection (1), a notice is sent under subsection 25.2(1) in respect of the investment and if, in respect of the investment, an order is made under subsection 25.3(1) and a notice is sent under paragraph 25.3(6)(b), the period during which the Minister may send the notice referred to in subsection (1) is deemed to expire five days after the day on which the notice under paragraph 25.3(6)(b) was sent.
+
+**Extension**
+
+- **(5)** If, before the expiry of the 45-day period referred to in subsection (1), a notice is sent under subsection 25.2(1) in respect of the investment and if an order is made under subsection 25.3(1) in respect of the investment and the Minister refers the investment to the Governor in Council under paragraph 25.3(6)(a), the period during which the Minister may send the notice referred to in subsection (1) is deemed to expire five days after the expiry of the earlier of
+	- **(a)** the day on which the Governor in Council takes any measure under subsection 25.4(1) in respect of the investment, and
+	- **(b)** the day on which the prescribed period referred to in subsection 25.4(1) expires.
+
+**Extension**
+
+- **(6)** Subject to subsections (7) and (8), if, before the expiry of the 45-day period referred to in subsection (1), an order is made under subsection 25.3(1) in respect of the investment, the period during which the Minister may send the notice referred to in subsection (1) is deemed to expire five days after the expiry of the prescribed period referred to in subsection 25.3(6) or the further period if one was agreed to under that subsection.
+
+**Extension**
+
+- **(7)** If, before the expiry of the 45-day period referred to in subsection (1), an order is made under subsection 25.3(1) in respect of the investment and if, in respect of the investment, a notice is sent under paragraph 25.3(6)(b), the period during which the Minister may send the notice referred to in subsection (1) is deemed to expire five days after the day on which the notice under paragraph 25.3(6)(b) was sent.
+
+**Extension**
+
+- **(8)** If, before the expiry of the 45-day period referred to in subsection (1), an order is made under subsection 25.3(1) in respect of the investment and if the Minister refers the investment to the Governor in Council under paragraph 25.3(6)(a), the period during which the Minister may send the notice referred to in subsection (1) is deemed to expire five days after the expiry of the earlier of
+	- **(a)** the day on which the Governor in Council takes any measure under subsection 25.4(1) in respect of the investment, and
+	- **(b)** the day on which the prescribed period referred to in subsection 25.4(1) expires.
+
+**Minister deemed to be satisfied**
+
+- **(9)** Subject to sections 22 and 23, if the Minister does not send a notice under subsection (1) within the 45-day period referred to in that subsection or, if any of subsections (2) to (8) apply, within the five-day period referred to in that subsection, the Minister is deemed to be satisfied that the investment is likely to be of net benefit to Canada and shall send a notice to that effect to the applicant.
+> R.S., 1985, c. 28 (1st Supp.), s. 21; 1995, c. 1, s. 50; 2009, c. 2, s. 452.
 
 
 
 
 
-**Extension period**
+**Extension**
 
 **22** 
 
-- **(1)** Where the Minister is unable to complete the consideration of an investment within the forty-five day period referred to in subsection 21(1), the Minister shall, within that period, send a notice to that effect to the applicant and the Minister shall, within thirty days from the date of the sending of the notice or within such further period as may be agreed on by the applicant and the Minister, complete the consideration of the investment.
+- **(1)** If none of subsections 21(2) to (8) apply and the Minister is unable to complete the consideration of an investment within the 45-day period referred to in subsection 21(1), the Minister shall, within that period, send a notice to that effect to the applicant and the Minister shall, subject to subsection (3) within 30 days from the date of the sending of the notice or within any further period that may be agreed on by the applicant and the Minister, complete the consideration of the investment.
 
 **Notice**
 
-- **(2)** If, within the thirty day period referred to in subsection (1) or such further period as is agreed on pursuant to that subsection, the Minister is satisfied that the investment is likely to be of net benefit to Canada, the Minister shall, within that period, send a notice to that effect to the applicant.
+- **(2)** Subject to subsection (3), if, within the 30-day period referred to in subsection (1) or any further period that is agreed on under that subsection, the Minister is satisfied that the investment is likely to be of net benefit to Canada, the Minister shall, within that period, send a notice to that effect to the applicant.
 
-**Where Minister deemed to be satisfied**
+**Extension**
 
-- **(3)** Subject to section 23, where the Minister does not send a notice under subsection (2) within the period referred to in that subsection, the Minister is deemed to be satisfied that the investment is likely to be of net benefit to Canada and shall send a notice to that effect to the applicant.
+- **(3)** Subsections 21(2) to (8) apply to this section as though the 45-day period referred to in those subsections were the 30-day period referred to in subsection (1) or the further period as is agreed on under that subsection.
+
+**Minister deemed to be satisfied**
+
+- **(4)** Subject to section 23, if the Minister does not send a notice under subsection (2) within the period referred to in that subsection, or, if subsection (3) applies, within the five-day period referred to in whichever of subsections 21(2) to (8) applies to this section by reason of subsection (3), the Minister is deemed to be satisfied that the investment is likely to be of net benefit to Canada and shall send a notice to that effect to the applicant.
+> R.S., 1985, c. 28 (1st Supp.), s. 22; 2009, c. 2, s. 452.
+
 
 
 
@@ -511,17 +568,28 @@ that is implemented after this section comes into force is not reviewable pursua
 
 **23** 
 
-- **(1)** Where the Minister is not satisfied, within the forty-five day period referred to in subsection 21(1) or within any extension period referred to in subsection 22(1), that an investment is likely to be of net benefit to Canada, the Minister shall send a notice to that effect to the applicant, advising the applicant of his right to make representations and submit undertakings within thirty days from the date of the notice or within such further period as may be agreed on by the applicant and the Minister.
+- **(1)** If the Minister is not satisfied, within the period provided for in section 21 or 22 to send the notice referred to in subsection 21(1), that an investment is likely to be of net benefit to Canada, the Minister shall send a notice to that effect to the applicant, advising the applicant of their right to make representations and submit undertakings within 30 days from the date of the notice or within any further period that may be agreed on by the applicant and the Minister.
 
 **Representations and undertakings**
 
-- **(2)** Where, after receipt of the notice referred to in subsection (1), the applicant advises the Minister that he wishes to make representations or submit undertakings, the Minister shall afford the applicant a reasonable opportunity, within the period referred to in subsection (1) for so doing, to make representations in person or by an agent and to give undertakings to Her Majesty in right of Canada, as the applicant sees fit.
+- **(2)** If, after receipt of the notice referred to in subsection (1), the applicant advises the Minister that the applicant wishes to make representations or submit undertakings, the Minister shall afford the applicant a reasonable opportunity, within the 30-day period referred to in subsection (1), or within any agreed to further period, to make representations, in person or by a representative, and to give undertakings to Her Majesty in right of Canada, as the applicant sees fit.
 
 **Net benefit**
 
-- **(3)** On the expiration of the period referred to in subsection (1) for making representations and submitting undertakings, the Minister shall, in the light of any such representations and undertakings and having regard to the matters to be taken into account under subsection 21(1), forthwith send a notice to the applicant
+- **(3)** Within a reasonable time after the expiry of the period for making representations and submitting undertakings, the Minister shall, in the light of any such representations and undertakings and having regard to the matters to be taken into account under subsection 21(1), send a notice to the applicant
 	- **(a)** that the Minister is satisfied that the investment is likely to be of net benefit to Canada; or
 	- **(b)** confirming that the Minister is not satisfied that the investment is likely to be of net benefit to Canada.
+> R.S., 1985, c. 28 (1st Supp.), s. 23; 2009, c. 2, s. 452.
+
+
+
+
+
+**Reasons**
+
+**23.1** The Minister shall provide reasons for any decision made under paragraph 23(3)(b) and the Minister may provide reasons for any decision made under subsection 21(1) or 22(2) or paragraph 23(3)(a).
+> 2009, c. 2, s. 452.
+
 
 
 
@@ -595,6 +663,137 @@ that is implemented after this section comes into force is not reviewable pursua
 
 
 
+**PART IV.1** 
+## Investments Injurious to National Security
+
+
+
+**Application**
+
+**25.1** This Part applies in respect of an investment, implemented or proposed, by a non-Canadian
+- **(a)** to establish a new Canadian business;
+- **(b)** to acquire control of a Canadian business in any manner described in subsection 28(1); or
+- **(c)** to acquire, in whole or in part, or to establish an entity carrying on all or any part of its operations in Canada if the entity has
+	- **(i)** a place of operations in Canada,
+	- **(ii)** an individual or individuals in Canada who are employed or self-employed in connection with the entity’s operations, or
+	- **(iii)** assets in Canada used in carrying on the entity’s operations.
+> 2009, c. 2, s. 453.
+
+
+
+
+
+**Notice**
+
+**25.2** 
+
+- **(1)** If the Minister has reasonable grounds to believe that an investment by a non-Canadian could be injurious to national security, the Minister may, within the prescribed period, send to the non-Canadian a notice that an order for the review of the investment may be made under subsection 25.3(1).
+
+**Condition for investment**
+
+- **(2)** If a non-Canadian has not implemented a proposed investment when they receive a notice under subsection (1), they shall not implement the investment unless they receive
+	- **(a)** a notice under paragraph (4)(a) indicating that no order for the review of the investment will be made under subsection 25.3(1);
+	- **(b)** a notice under paragraph 25.3(6)(b) indicating that no further action will be taken in respect of the investment; or
+	- **(c)** a copy of an order made under section 25.4 authorizing the investment to be implemented.
+
+**Requirement to provide information**
+
+- **(3)** The Minister may require the non-Canadian or any person or entity from which the Canadian business or the entity referred to in paragraph 25.1(c) is being acquired to provide, within the time and in the manner specified by the Minister, any prescribed information or any other information that the Minister considers necessary for the purposes of determining whether there are reasonable grounds to believe that an investment by a non-Canadian could be injurious to national security.
+
+**Ministerial action**
+
+- **(4)** The Minister shall, within the prescribed period, send to the non-Canadian
+	- **(a)** a notice indicating that no order for the review of the investment will be made under subsection 25.3(1); or
+	- **(b)** a notice referred to in subsection 25.3(2) indicating that an order for the review of the investment has been made.
+> 2009, c. 2, s. 453.
+
+
+
+
+
+**Reviewable investments**
+
+**25.3** 
+
+- **(1)** An investment is reviewable under this Part if the Minister, after consultation with the Minister of Public Safety and Emergency Preparedness, considers that the investment could be injurious to national security and the Governor in Council, on the recommendation of the Minister, makes an order within the prescribed period for the review of the investment.
+
+**Notice**
+
+- **(2)** The Minister shall, without delay after the order has been made, send to the non-Canadian making the investment and to any person or entity from which the Canadian business or the entity referred to in paragraph 25.1(c) is being acquired, a notice indicating that an order for the review of the investment has been made and advising them of their right to make representations to the Minister.
+
+**Condition for investment**
+
+- **(3)** If a non-Canadian has not implemented a proposed investment when they receive a notice under subsection (2), they shall not implement the investment unless they receive
+	- **(a)** a notice under paragraph (6)(b) indicating that no further action will be taken in respect of the investment; or
+	- **(b)** a copy of an order made under section 25.4 authorizing the investment to be implemented.
+
+**Representations**
+
+- **(4)** If, after receipt of the notice referred to in subsection (2), the non-Canadian or other person or entity advises the Minister that they wish to make representations, the Minister shall afford them a reasonable opportunity to make representations in person or by a representative.
+
+**Requirement to provide information**
+
+- **(5)** The Minister may require the non-Canadian or other person or entity to provide, within the time and in the manner specified by the Minister, any prescribed information or any other information that the Minister considers necessary for the purposes of the review.
+
+**Ministerial action**
+
+- **(6)** After consultation with the Minister of Public Safety and Emergency Preparedness, the Minister shall, within the prescribed period, or any further period that is agreed on by the Minister and the non-Canadian,
+	- **(a)** refer the investment under review to the Governor in Council, together with a report of the Minister’s findings and recommendations on the review, if
+		- **(i)** the Minister is satisfied that the investment would be injurious to national security, or
+		- **(ii)** on the basis of the information available, the Minister is not able to determine whether the investment would be injurious to national security; or
+	- **(b)** send to the non-Canadian a notice indicating that no further action will be taken in respect of the investment if the Minister is satisfied that the investment would not be injurious to national security.
+> 2009, c. 2, s. 453.
+
+
+
+
+
+**Powers of Governor in Council**
+
+**25.4** 
+
+- **(1)** On the referral of an investment under paragraph 25.3(6)(a), the Governor in Council may, by order, within the prescribed period, take any measures in respect of the investment that the Governor in Council considers advisable to protect national security, including
+	- **(a)** directing the non-Canadian not to implement the investment;
+	- **(b)** authorizing the investment on condition that the non-Canadian
+		- **(i)** give any written undertakings to Her Majesty in right of Canada relating to the investment that the Governor in Council considers necessary in the circumstances, or
+		- **(ii)** implement the investment on the terms and conditions contained in the order; or
+	- **(c)** requiring the non-Canadian to divest themselves of control of the Canadian business or of their investment in the entity.
+
+**Copy of order**
+
+- **(2)** The Minister shall send a copy of the order to the non-Canadian or other person or entity to which it is directed without delay after it has been made.
+
+**Requirement to comply with order**
+
+- **(3)** The non-Canadian or other person or entity to which the order is directed shall comply with the order.
+
+**[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply**
+
+- **(4)** The [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply in respect of the order.
+> 2009, c. 2, s. 453.
+
+
+
+
+
+**Information for determination**
+
+**25.5** Non-Canadians or other persons or entities that are subject to an order made under section 25.4 shall submit any information in their possession relating to the investment that is required from time to time by the Director in order to permit the Director to determine whether they are complying with the order.
+> 2009, c. 2, s. 453.
+
+
+
+
+
+**Decisions and orders are final**
+
+**25.6** Decisions and orders of the Governor in Council, and decisions of the Minister, under this Part are final and binding and, except for judicial review under the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md), are not subject to appeal or to review by any court.
+> 2009, c. 2, s. 453.
+
+
+
+
+
 **PART V** 
 ## Rules and Presumptions
 
@@ -608,7 +807,7 @@ that is implemented after this section comes into force is not reviewable pursua
 
 **26** 
 
-- **(1)** Subject to subsections (2.1) and (2.2), for the purposes of this Act,
+- **(1)** Subject to subsections (2.1) to (2.2), for the purposes of this Act,
 	- **(a)** where one Canadian or two or more members of a voting group who are Canadians own a majority of the voting interests of an entity, it is a Canadian-controlled entity;
 	- **(b)** where paragraph (a) does not apply and one non-Canadian or two or more members of a voting group who are non-Canadians own a majority of the voting interests of an entity, it is not a Canadian-controlled entity;
 	- **(c)** where paragraphs (a) and (b) do not apply and a majority of the voting interests of an entity are owned by Canadians and it can be established that the entity is not controlled in fact through the ownership of its voting interests by one non-Canadian or by a voting group in which a member or members who are non-Canadians own one-half or more of those voting interests of the entity owned by the voting group, it is a Canadian-controlled entity; and
@@ -618,15 +817,19 @@ that is implemented after this section comes into force is not reviewable pursua
 
 **Trusts**
 
-- **(2)** Subject to subsections (2.1) and (2.2), where it can be established that a trust is not controlled in fact through the ownership of its voting interests, subsection (1) does not apply and the trust is a Canadian-controlled entity where two-thirds of its trustees are Canadians.
+- **(2)** Subject to subsections (2.1) to (2.2), if it can be established that a trust is not controlled in fact through the ownership of its voting interests, subsection (1) does not apply, and the trust is a Canadian-controlled entity if two-thirds of its trustees are Canadians.
 
 **Minister may determine**
 
 - **(2.1)** Where an entity that carries on or proposes to carry on a specific type of business activity that is prescribed for the purposes of paragraph 15(a) qualifies as a Canadian-controlled entity by virtue of subsection (1) or (2), the Minister may nevertheless determine that the entity is not a Canadian-controlled entity where, after considering any information and evidence submitted by or on behalf of the entity or otherwise made available to the Minister or the Director, the Minister is satisfied that the entity is controlled in fact by one or more non-Canadians.
 
+**Minister may determine**
+
+- **(2.11)** For the purposes of Part IV.1, in the case of an entity that qualifies as a Canadian-controlled entity by virtue of subsection (1) or (2), the Minister may nevertheless determine that the entity is not a Canadian-controlled entity if, after considering any information and evidence submitted by or on behalf of the entity or otherwise made available to the Minister or the Director, the Minister is satisfied that the entity is controlled in fact by one or more non-Canadians.
+
 **Minister may declare**
 
-- **(2.2)** Where an entity referred to in subsection (2.1) has refused or neglected to provide, within a reasonable time, information that the Minister or the Director has requested and that the Minister considers necessary in order to make a decision under that subsection, the Minister may declare that the entity is not a Canadian-controlled entity.
+- **(2.2)** If an entity referred to in subsection (2.1) or (2.11) has refused or neglected to provide, within a reasonable time, information that the Minister or the Director has requested and that the Minister considers necessary in order to make a decision under that subsection, the Minister may declare that the entity is not a Canadian-controlled entity.
 
 **Retroactivity possible**
 
@@ -634,7 +837,7 @@ that is implemented after this section comes into force is not reviewable pursua
 
 **Entity to be informed**
 
-- **(2.4)** The Minister shall forthwith inform the entity concerned, in writing, of any determination made under subsection (2.1) or declaration made under subsection (2.2), and of any date specified under subsection (2.3).
+- **(2.4)** The Minister shall inform the entity concerned, in writing, of any determination made under subsection (2.1) or (2.11) or declaration made under subsection (2.2), and of any date specified under subsection (2.3) without delay after such a determination or declaration is made.
 
 **Where corporation deemed to be Canadian**
 
@@ -647,6 +850,10 @@ that is implemented after this section comes into force is not reviewable pursua
 	- **(f)** the circumstances described in paragraphs (a) to (e) have existed for not less than the twelve month period immediately preceding the submission of the information and evidence,
 the corporation shall be deemed to be a Canadian for the purpose of making any investment described in subsection 14(1), except an investment falling within a prescribed specific type of business activity that, in the opinion of the Governor in Council, is related to Canada’s cultural heritage or national identity, and the Minister shall so notify the corporation.
 
+**Exception**
+
+- **(3.1)** Subsection (3) does not apply to a corporation for the purposes of Part IV.1.
+
 **Proof**
 
 - **(4)** The Minister may accept, as proof of the circumstances described in paragraphs (3)(e) and (f), a written statement by the corporation to that effect, signed by all the members of its board of directors.
@@ -658,7 +865,7 @@ the corporation shall be deemed to be a Canadian for the purpose of making any i
 **Equal ownership**
 
 - **(6)** Where two persons own equally all of the voting shares of a corporation and at least one of them is a non-Canadian, the corporation is not a Canadian-controlled entity.
-> R.S., 1985, c. 28 (1st Supp.), s. 26; 1993, c. 35, s. 4; 1995, c. 1, s. 50.
+> R.S., 1985, c. 28 (1st Supp.), s. 26; 1993, c. 35, s. 4; 1995, c. 1, s. 50; 2009, c. 2, s. 454.
 
 
 
@@ -698,7 +905,7 @@ where there is no acquisition of control of any corporation;
 
 **Rules and presumptions respecting control of entities**
 
-- **(2)** Subject to subsections (4) and (5), for the purposes of this Act,
+- **(2)** Subject to subsections (4) to (5), for the purposes of this Act,
 	- **(a)** where one entity controls another entity, it is deemed to control indirectly any entity or entities controlled directly or indirectly by that other entity;
 	- **(b)** an entity controls another entity directly
 		- **(i)** where the controlling entity owns a majority of the voting interests of the other entity, or
@@ -708,7 +915,7 @@ where there is no acquisition of control of any corporation;
 
 **Presumptions respecting acquisition of control**
 
-- **(3)** Subject to subsections (4) and (5), for the purposes of this Act,
+- **(3)** Subject to subsections (4) to (5), for the purposes of this Act,
 	- **(a)** the acquisition of a majority of the voting interests of an entity or of a majority of the undivided ownership interests in the voting shares of an entity that is a corporation is deemed to be acquisition of control of that entity;
 	- **(b)** the acquisition of less than a majority of the voting interests of an entity other than a corporation is deemed not to be acquisition of control of that entity;
 	- **(c)** the acquisition of less than a majority but one-third or more of the voting shares of a corporation or of an equivalent undivided ownership interest in the voting shares of the corporation is presumed to be acquisition of control of that corporation unless it can be established that, on the acquisition, the corporation is not controlled in fact by the acquirer through the ownership of voting shares; and
@@ -718,9 +925,13 @@ where there is no acquisition of control of any corporation;
 
 - **(4)** In the case of an entity that carries on or proposes to carry on a specific type of business activity that is prescribed for the purposes of paragraph 15(a), the Minister may, notwithstanding subsection (2) or (3), after considering any information and evidence submitted by or on behalf of the entity or otherwise made available to the Minister or the Director, determine that the entity is or is not controlled by another entity or that there has or has not been an acquisition of control of the entity, where the Minister is satisfied that the entity is or is not controlled in fact by that other entity or that there has or has not in fact been an acquisition of control of that entity, as the case may be.
 
+**Minister may determine**
+
+- **(4.1)** For the purposes of Part IV.1, the Minister may, after considering any information and evidence submitted by or on behalf of an entity or otherwise made available to the Minister or the Director, determine that the entity is or is not controlled by another entity or that there has or has not been an acquisition of control of the entity, if the Minister is satisfied that the entity is or is not controlled in fact by that other entity or that there has or has not in fact been an acquisition of control of that entity, as the case may be.
+
 **Minister may declare**
 
-- **(5)** Where an entity referred to in subsection (4) has refused or neglected to provide, within a reasonable time, information that the Minister or the Director has requested and that the Minister considers necessary in order to make a decision under that subsection, the Minister may declare that the entity is or is not controlled by another entity or that there has or has not been an acquisition of control of the entity, as the case may be.
+- **(5)** If an entity referred to in subsection (4) or (4.1) has refused or neglected to provide, within a reasonable time, information that the Minister or the Director has requested and that the Minister considers necessary in order to make a decision under that subsection, the Minister may declare that the entity is or is not controlled by another entity or that there has or has not been an acquisition of control of the entity, as the case may be.
 
 **Retroactivity possible**
 
@@ -728,8 +939,8 @@ where there is no acquisition of control of any corporation;
 
 **Entity to be informed**
 
-- **(7)** The Minister shall forthwith inform the entity concerned, in writing, of any determination made under subsection (4) or declaration made under subsection (5), and of any date specified under subsection (6).
-> R.S., 1985, c. 28 (1st Supp.), s. 28; 1993, c. 35, s. 5; 1995, c. 1, s. 50.
+- **(7)** The Minister shall inform the entity concerned, in writing, of any determination made under subsection (4) or (4.1) or declaration made under subsection (5), and of any date specified under subsection (6) without delay after such a determination or declaration is made.
+> R.S., 1985, c. 28 (1st Supp.), s. 28; 1993, c. 35, s. 5; 1995, c. 1, s. 50; 2009, c. 2, s. 455.
 
 
 
@@ -832,6 +1043,10 @@ where there is no acquisition of control of any corporation;
 	- **(a)** prescribing anything that, pursuant to any provision of this Act, is to be prescribed; and
 	- **(b)** prescribing any other matter or thing necessary for carrying into effect the purposes and provisions of this Act.
 
+**Prescribing periods**
+
+- **(1.1)** Any regulations prescribing a period for the purposes of subsections 25.2(1) and 25.3(1) may provide for a separate period depending on whether it is in respect of an investment referred to in section 11 or 14 or any other investment and, for the purposes of subsection 25.3(1), depending on whether a notice has or has not been issued under subsection 25.2(1).
+
 **Tabling regulations**
 
 - **(2)** Any regulations made for the purposes of section 15 or the definition ***new Canadian business*** in section 3 that prescribe a specific type of business activity that, in the opinion of the Governor in Council, is related to Canada’s cultural heritage or national identity shall be laid before each House of Parliament on any of the first five days on which that House is sitting after they are made and shall not come into force before sixty days after they are made.
@@ -843,6 +1058,8 @@ where there is no acquisition of control of any corporation;
 **Exception**
 
 - **(4)** Subsection (2) does not apply to any regulation referred to in that subsection that comes into force on the day this Act comes into force.
+> R.S., 1985, c. 28 (1st Supp.), s. 35; 2009, c. 2, s. 456.
+
 
 
 
@@ -855,7 +1072,7 @@ where there is no acquisition of control of any corporation;
 
 **36** 
 
-- **(1)** Subject to subsections (3) and (4), all information obtained with respect to a Canadian, a non-Canadian or a business by the Minister or an officer or employee of Her Majesty in the course of the administration or enforcement of this Act is privileged and no one shall knowingly communicate or allow to be communicated any such information or allow anyone to inspect or to have access to any such information.
+- **(1)** Subject to subsections (3) to (4), all information obtained with respect to a Canadian, a non-Canadian, a business or an entity referred to in paragraph 25.1(c) by the Minister or an officer or employee of Her Majesty in the course of the administration or enforcement of this Act is privileged and no one shall knowingly communicate or allow to be communicated any such information or allow anyone to inspect or to have access to any such information.
 
 **Evidentiary privilege**
 
@@ -867,6 +1084,10 @@ where there is no acquisition of control of any corporation;
 	- **(a)** on request in writing to the Director by or on behalf of the Canadian or non-Canadian to which the information relates, be communicated or disclosed to any person or authority named in the request; or
 	- **(b)** for any purpose relating to the administration or enforcement of this Act, be communicated or disclosed to a minister of the Crown in right of Canada or a province or to an officer or employee of Her Majesty in right of Canada or a province.
 
+**Investigative bodies**
+
+- **(3.1)** Information that is privileged under subsection (1) may be communicated or disclosed by the Minister to a prescribed investigative body, or an investigative body of a prescribed class, if the communication or disclosure is for the purposes of the administration or enforcement of Part IV.1 and that body’s lawful investigations. The information may also be communicated or disclosed by that body for the purposes of those investigations.
+
 **Exceptions**
 
 - **(4)** Nothing in this section prohibits the communication or disclosure of
@@ -877,13 +1098,22 @@ where there is no acquisition of control of any corporation;
 	- **(e)** information contained in
 		- **(i)** any receipt sent pursuant to subsection 13(1) relating to an investment that is not reviewable pursuant to subsection 13(3),
 		- **(ii)** any notice sent under subsection 21(1) or (2), 22(2) or (3) or 23(3), or
-		- **(iii)** any demand sent by the Minister under section 39; or
-	- **(f)** information to which a person is otherwise legally entitled.
+		- **(iii)** any demand sent by the Minister under section 39, other than a demand sent for the purposes of the administration or enforcement of Part IV.1;
+	- **(f)** information to which a person is otherwise legally entitled; or 
+	- **(g)** information contained in reasons given by the Minister for any decision taken under subsection 21(1), 22(2) or 23(3).
+
+**Information referred to in par. (4)(g)**
+
+- **(4.1)** The Minister shall inform the Canadian or non-Canadian before communicating or disclosing any financial, commercial, scientific or technical information under paragraph (4)(g) and the Minister shall not communicate or disclose the information if they satisfy the Minister, without delay, that the communication or disclosure would prejudice them.
+
+**Communication or disclosure — application**
+
+- **(4.2)** Despite subsection (1), the Minister may communicate or disclose the fact that an application has been filed under this Act, other than Part IV.1, and at what point the investment to which the application relates is in the review process. The Minister shall inform the non-Canadian and, with their consent, the Canadian business before communicating or disclosing such information and the Minister shall not communicate or disclose the information if either of them satisfy the Minister, without delay, that the communication or disclosure would prejudice them.
 
 **Non-disclosure**
 
 - **(5)** No minister of the Crown and no officer or employee of Her Majesty in right of Canada or a province may be required, in connection with any legal proceedings or otherwise, to give evidence relating to or otherwise to communicate or disclose any information referred to in paragraph (4)(b) where, in the opinion of the Minister or a person designated by the Minister, the communication or disclosure of that information is not necessary for any purpose relating to the administration or enforcement of this Act and would prejudicially affect the non-Canadian that gave the written undertaking referred to in that paragraph in the conduct of the business affairs of that non-Canadian.
-> R.S., 1985, c. 28 (1st Supp.), s. 36; 1995, c. 1, s. 50.
+> R.S., 1985, c. 28 (1st Supp.), s. 36; 1995, c. 1, s. 50; 2009, c. 2, s. 457.
 
 
 
@@ -899,9 +1129,17 @@ where there is no acquisition of control of any corporation;
 
 - **(1)** Where any question arises under this Act as to whether an individual or an entity is a Canadian, the Minister shall, on application by or on behalf of the individual or entity, forthwith consider the application and any information and evidence submitted therewith and, unless the Minister concludes that the information and evidence submitted therewith is not sufficient to enable the Minister to reach an opinion on the question, shall provide the applicant with a written opinion for the guidance of the applicant.
 
+**Time for providing opinion**
+
+- **(1.1)** The Minister shall provide his or her opinion no later than 45 days after the Minister concludes that the information and evidence he or she has received is sufficient to enable him or her to reach an opinion on the question.
+
 **Other opinions**
 
 - **(2)** Anyone may apply to the Minister, with supporting information, for an opinion on the applicability to him of any provision of this Act or the regulations to which subsection (1) does not apply, and the Minister may provide the applicant with a written opinion for the applicant’s guidance.
+
+**Time for providing opinion**
+
+- **(2.1)** If the Minister decides to provide an opinion under subsection (2), he or she shall provide it no later than 45 days after the Minister concludes that the information he or she has received is sufficient to enable him or her to reach an opinion on the question.
 
 **Opinion binding**
 
@@ -910,7 +1148,7 @@ where there is no acquisition of control of any corporation;
 **Authorized opinions**
 
 - **(4)** The Minister may authorize the Director or any person the Minister deems qualified to provide written opinions under this section, and any opinion so provided has the same effect as if it had been provided under this section by the Minister.
-> R.S., 1985, c. 28 (1st Supp.), s. 37; 1988, c. 65, s. 137; 1994, c. 47, s. 135; 1995, c. 1, s. 50.
+> R.S., 1985, c. 28 (1st Supp.), s. 37; 1988, c. 65, s. 137; 1994, c. 47, s. 135; 1995, c. 1, s. 50; 2009, c. 2, s. 458.
 
 
 
@@ -927,6 +1165,19 @@ where there is no acquisition of control of any corporation;
 
 
 
+### Report
+
+
+
+**Annual report**
+
+**38.1** The Director shall, for each fiscal year, submit a report on the administration of this Act, other than Part IV.1, to the Minister and the Minister shall make the report available to the public.
+> 2009, c. 2, s. 459.
+
+
+
+
+
 **PART VII** 
 ## Remedies, Offences and Punishment
 
@@ -938,17 +1189,35 @@ where there is no acquisition of control of any corporation;
 
 - **(1)** Where the Minister believes that a non-Canadian, contrary to this Act,
 	- **(a)** has failed to give a notice under section 12 or file an application under section 17,
-	- **(b)** has implemented an investment the implementation of which is prohibited by section 16 or 24,
+	- **(a.1)** has failed to provide any prescribed information or any information that has been requested by the Minister or Director,
+	- **(b)** has implemented an investment the implementation of which is prohibited by section 16, 24, 25.2 or 25.3,
 	- **(c)** has implemented an investment on terms and conditions that vary materially from those contained in an application filed under section 17 or from any information or evidence provided under this Act in relation to the investment,
 	- **(d)** has failed to divest himself of control of a Canadian business as required by section 24,
+	- **(d.1)** has failed to comply with an undertaking given to Her Majesty in right of Canada in accordance with an order made under section 25.4,
+	- **(d.2)** has failed to comply with an order made under section 25.4,
 	- **(e)** has failed to comply with a written undertaking given to Her Majesty in right of Canada relating to an investment that the Minister is satisfied or is deemed to be satisfied is likely to be of net benefit to Canada,
 	- **(f)** has failed to comply with any other provision of this Act or with the regulations, or
 	- **(g)** has entered into any transaction or arrangement primarily for a purpose related to this Act,
 the Minister may send a demand to the non-Canadian, requiring the non-Canadian, forthwith or within such period as is specified in the demand, to cease the contravention, to remedy the default, to show cause why there is no contravention of the Act or regulations or, in the case of undertakings, to justify any non-compliance therewith.
 
+**Ministerial demand**
+
+- **(2)** If the Minister believes that a person or an entity has, contrary to this Act, failed to comply with a requirement to provide information under subsection 25.2(3) or 25.3(5) or failed to comply with subsection 25.4(3), the Minister may send a demand to the person or entity requiring that they immediately, or within any period that may be specified in the demand, cease the contravention, remedy the default or show cause why there is no contravention of the Act.
+
 **Contents of demand**
 
-- **(2)** A demand under subsection (1) shall indicate the nature of the proceedings that may be taken under this Act against the non-Canadian to whom it is sent in the event that the non-Canadian fails to comply therewith.
+- **(3)** A demand under subsection (1) or (2) shall indicate the nature of the proceedings that may be taken under this Act against the non-Canadian or other person or entity to which it is sent in the event that the non-Canadian, person or entity fails to comply with the demand.
+> R.S., 1985, c. 28 (1st Supp.), s. 39; 2009, c. 2, s. 460.
+
+
+
+
+
+**New undertaking**
+
+**39.1** If the Minister believes that a non-Canadian has failed to comply with a written undertaking given to Her Majesty in right of Canada relating to an investment that the Minister is satisfied or is deemed to be satisfied is likely to be of net benefit to Canada, the Minister may, after the investment has been implemented, accept a new undertaking from the non-Canadian.
+> 2009, c. 2, s. 461.
+
 
 
 
@@ -957,25 +1226,31 @@ the Minister may send a demand to the non-Canadian, requiring the non-Canadian, 
 
 **40** 
 
-- **(1)** Where a non-Canadian fails to comply with a demand under section 39, an application on behalf of the Minister may be made to a superior court for an order under subsection (2).
+- **(1)** If a non-Canadian or any other person or entity fails to comply with a demand under section 39, an application on behalf of the Minister may be made to a superior court for an order under subsection (2) or (2.1).
 
 **Court orders**
 
-- **(2)** Where, at the conclusion of the hearing on an application referred to in subsection (1), the superior court decides that the Minister was justified in sending a demand to the non-Canadian under section 39 and that the non-Canadian has failed to comply therewith, the court may make such order or orders as, in its opinion, the circumstances require, including, without limiting the generality of the foregoing, an order
-	- **(a)** directing the non-Canadian to divest himself of control of the Canadian business on such terms and conditions as the court deems just and reasonable;
+- **(2)** If, at the conclusion of the hearing on an application referred to in subsection (1), the superior court decides that the Minister was justified in sending a demand to the non-Canadian or other person or entity under section 39 and that the non-Canadian or other person or entity has failed to comply with the demand, the court may make any order or orders as, in its opinion, the circumstances require, including, without limiting the generality of the foregoing, an order
+	- **(a)** directing the non-Canadian to divest themselves of control of the Canadian business, or to divest themselves of their investment in the entity, on any terms and conditions that the court considers just and reasonable;
 	- **(b)** enjoining the non-Canadian from taking any action specified in the order in relation to the investment that might prejudice the ability of a superior court, on a subsequent application for an order under paragraph (a), to effectively accomplish the end of such an order;
 	- **(c)** directing the non-Canadian to comply with a written undertaking given to Her Majesty in right of Canada in relation to an investment that the Minister is satisfied or is deemed to be satisfied is likely to be of net benefit to Canada;
+	- **(c.1)** directing the non-Canadian to comply with a written undertaking given to Her Majesty in right of Canada in accordance with an order made under section 25.4;
 	- **(d)** against the non-Canadian imposing a penalty not exceeding ten thousand dollars for each day the non-Canadian is in contravention of this Act or any provision thereof;
-	- **(e)** directing the revocation, or suspension for any period specified in the order, of any rights attached to any voting interests acquired by the non-Canadian or of any right to control any such rights; or
-	- **(f)** directing the disposition by any non-Canadian of any voting interests acquired by the non-Canadian or of any assets acquired by the non-Canadian that are or were used in carrying on a Canadian business.
+	- **(e)** directing the revocation, or suspension for any period specified in the order, of any rights attached to any voting interests acquired by the non-Canadian or of any right to control any such rights;
+	- **(f)** directing the disposition by any non-Canadian of any voting interests acquired by the non-Canadian or of any assets acquired by the non-Canadian that are or were used in carrying on a Canadian business; or
+	- **(g)** directing the non-Canadian or other person or entity to provide information requested by the Minister or Director.
+
+**Court orders — person or entity**
+
+- **(2.1)** If, at the conclusion of the hearing on an application referred to in subsection (1), the superior court decides that the Minister was justified in sending a demand to a person or an entity under section 39 and that the person or entity has failed to comply with it, the court may make any order or orders that, in its opinion, the circumstances require, including, without limiting the generality of the foregoing, an order against the person or entity imposing a penalty not exceeding $10,000 for each day on which the person or entity is in contravention of this Act or any of its provisions.
 
 **Penalties recoverable as debts**
 
-- **(3)** A penalty imposed by an order made under paragraph (2)(d) is a debt due to Her Majesty in right of Canada and is recoverable as such in a superior court.
+- **(3)** A penalty imposed by an order made under paragraph (2)(d) or subsection (2.1) is a debt due to Her Majesty in right of Canada and is recoverable as such in a superior court.
 
 **Contempt of court**
 
-- **(4)** Every one who fails or refuses to comply with an order made by a superior court under subsection (2) that is directed to him may be cited and punished by the court that made the order, as for other contempts of that court.
+- **(4)** Everyone who fails or refuses to comply with an order made by a superior court under subsection (2) or (2.1) that is directed to them may be cited and punished by the court that made the order, as for other contempts of that court.
 
 **Rights of appeal**
 
@@ -983,8 +1258,8 @@ the Minister may send a demand to the non-Canadian, requiring the non-Canadian, 
 
 **Definition of superior court**
 
-- **(6)** In this section, ***superior court*** has the same meaning as in subsection 35(1) of the  [Interpretation Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-21.md)  but does not include the Supreme Court of Canada, the Federal Court of Appeal or the Tax Court of Canada.
-> R.S., 1985, c. 28 (1st Supp.), s. 40; 2002, c. 8, s. 152.
+- **(6)** In this section, ***superior court*** has the same meaning as in subsection 35(1) of the [Interpretation Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-21.md)  but does not include the Supreme Court of Canada, the Federal Court of Appeal or the Tax Court of Canada.
+> R.S., 1985, c. 28 (1st Supp.), s. 40; 2002, c. 8, s. 152; 2009, c. 2, s. 462.
 
 
 
