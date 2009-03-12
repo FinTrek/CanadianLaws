@@ -149,7 +149,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***non-duty-paid***, in respect of packaged alcohol, means that duty, other than special duty, has not been paid on the alcohol.
 
-***officer*** means, except in sections 167, 226 and 296,
+***officer*** means, except in section 167, in the definition ***contact information*** in subsection 211(1) and in sections 226 and 296,
 - **(a)** a person who is appointed or employed in the administration or enforcement of this Act;
 - **(b)** a member of the Royal Canadian Mounted Police or a member of a police force designated under subsection 10(1); and
 - **(c)** with respect to imported goods that have not been released under the [Customs Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(2nd%20Supp.).md), an officer as defined in subsection 2(1) of that Act.
@@ -254,7 +254,7 @@ Version anglaise seulement***prescribed*** means
 - **(c)** a beverage described by paragraph (a) or (b) that is fortified not in excess of 22.9% absolute ethyl alcohol by volume.
 
 ***wine licensee*** means a person who holds a wine licence issued under section 14.
-> 2002, c. 22, s. 2; 2005, c. 38, s. 92; 2007, c. 18, s. 67; 2008, c. 28, s. 50.
+> 2002, c. 22, s. 2; 2005, c. 38, s. 92; 2007, c. 18, s. 67; 2008, c. 28, s. 50; 2009, c. 2, s. 119(E).
 
 
 
@@ -3933,6 +3933,8 @@ and ending on the day on which the refund is paid to the person.
 
 - **(1)** The definitions in this subsection apply in this section.
 
+***aboriginal government*** means an aboriginal government as defined in subsection 2(1) of the [Federal-Provincial Fiscal Arrangements Act](/en/Acts/Statutes%20of%20Canada/1970/c.%20F-6.md).
+
 ***authorized person*** means a person who is engaged or employed, or who was formerly engaged or employed, by or on behalf of Her Majesty to assist in carrying out the provisions of this Act.
 
 ***business number*** means the number (other than a Social Insurance Number) used by the Minister to identify
@@ -3940,27 +3942,59 @@ and ending on the day on which the refund is paid to the person.
 - **(b)** an applicant for a refund under this Act.
 
 ***confidential information*** means information of any kind and in any form that relates to one or more persons and that is
-
 - **(a)** obtained by or on behalf of the Minister for the purposes of this Act; 
 - **(a.1)** obtained by or on behalf of the Minister of Public Safety and Emergency Preparedness for the purposes of section 68; or
 - **(b)** prepared from information referred to in paragraph (a) or (a.1).
 
-It excludes information that does not directly or indirectly reveal the identity of the person to whom it relates.
+It excludes information that does not directly or indirectly reveal the identity of the person to whom it relates and, for the purposes of applying subsections (3), (8) and (9) to a representative of a government entity that is not an official, it includes only the information referred to in paragraph (6)(j).
+
+***contact information***, in respect of a holder of a business number, means the name, address, telephone number, facsimile number and preferred language of communication of the holder, or similar information as specified by the Minister in respect of the holder, and includes such information in respect of one or more
+- **(a)** trustees of the holder, if the holder is a trust;
+- **(b)** members of the holder, if the holder is a partnership;
+- **(c)** officers of the holder, if the holder is a corporation; or
+- **(d)** officers or members of the holder, in any other case.
+
+***corporate information***, in respect of a holder of a business number that is a corporation, means the name (including the number assigned by the incorporating authority), date of incorporation, jurisdiction of incorporation and any information on the dissolution, reorganization, amalgamation, winding-up or revival of the corporation.
 
 ***court of appeal*** has the same meaning as in section 2 of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md).
 
+***government entity*** means
+- **(a)** a department or agency of the government of Canada or of a province;
+- **(b)** a municipality;
+- **(c)** an aboriginal government;
+- **(d)** a corporation all of the shares (except directors’ qualifying shares) of the capital stock of which are owned by one or more persons each of which is
+	- **(i)** Her Majesty,
+	- **(ii)** Her Majesty in right of a province,
+	- **(iii)** a municipality, or
+	- **(iv)** a corporation described in this paragraph; or
+- **(e)** a board or commission, established by Her Majesty or Her Majesty in right of a province, that performs an administrative or regulatory function of government, or by a municipality, that performs an administrative or regulatory function of a municipality.
+
+***municipality*** means an incorporated city, town, village, metropolitan authority, township, district, county or rural municipality or other incorporated municipal body however designated.
+
 ***official*** means a person who is employed in the service of, who occupies a position of responsibility in the service of, or who is engaged by or on behalf of, Her Majesty or Her Majesty in right of a province, or a person who was formerly so employed, who formerly occupied such a position or who formerly was so engaged.
+
+***registration information***, in respect of a holder of a business number, means
+- **(a)** any information pertaining to the legal form of the holder;
+- **(b)** the type of activities carried on or proposed to be carried on by the holder;
+- **(c)** each date on which
+	- **(i)** the business number was issued to the holder,
+	- **(ii)** the holder began activities,
+	- **(iii)** the holder ceased or resumed activities, or
+	- **(iv)** the business number assigned to the holder was changed; and
+- **(d)** the reasons for the cessation, resumption or change referred to in subparagraph (c)(iii) or (iv).
+
+***representative*** of a government entity means a person who is employed in the service of, who occupies a position of responsibility in the service of, or who is engaged by or on behalf of, a government entity, and includes, for the purposes of subsections (2), (3), (8) and (9), a person who was formerly so employed, who formerly occupied such a position or who formerly was so engaged.
 
 **Provision of information**
 
-- **(2)** Except as authorized under this section, no official shall knowingly
+- **(2)** Except as authorized under this section, no official or other representative of a government entity shall knowingly
 	- **(a)** provide, or allow to be provided, to any person any confidential information;
 	- **(b)** allow any person to have access to any confidential information; or
 	- **(c)** use any confidential information other than in the course of the administration or enforcement of this Act.
 
 **Confidential information evidence not compellable**
 
-- **(3)** Despite any other Act of Parliament or other law, no official shall be required, in connection with any legal proceedings, to give or produce evidence relating to any confidential information.
+- **(3)** Despite any other Act of Parliament or other law, no official or other representative of a government entity shall be required, in connection with any legal proceedings, to give or produce evidence relating to any confidential information.
 
 **Communications if proceedings have been commenced**
 
@@ -3993,13 +4027,29 @@ It excludes information that does not directly or indirectly reveal the identity
 	- **(g)** use confidential information to compile information in a form that does not directly or indirectly reveal the identity of the person to whom the information relates;
 	- **(h)** use, or provide any person with, confidential information solely for a purpose relating to the supervision, evaluation or discipline of an authorized person by Her Majesty in respect of a period during which the authorized person was employed by or engaged by or on behalf of Her Majesty to assist in the administration or enforcement of this Act, to the extent that the information is relevant for that purpose;
 	- **(i)** use confidential information relating to a person to provide that person with information;
-	- **(j)** provide the business number, name, address, telephone number and facsimile number of a holder of a business number to an official of a department or agency of the Government of Canada or of a province solely for the purposes of the administration or enforcement of an Act of Parliament or a law of a province, if the holder of the business number is required under that Act or that law to provide the information (other than the business number) to the department or agency;
+	- **(j)** subject to subsection (6.1), provide to a representative of a government entity the business number of, the name of (including any trade name or other name used by), and any contact information, corporate information and registration information in respect of, the holder of a business number, if the information is provided solely for the purpose of the administration or enforcement of
+		- **(i)** an Act of Parliament or of a legislature of a province, or
+		- **(ii)** a by-law of a municipality or a law of an aboriginal government;
 	- **(k)** provide confidential information to a police officer (within the meaning assigned by subsection 462.48(17) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md)) solely for the purpose of investigating whether an offence has been committed under the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md), or the laying of an information or the preferring of an indictment, if
 		- **(i)** the information can reasonably be regarded as being relevant for the purpose of ascertaining the circumstances in which an offence under the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md) may have been committed, or the identity of the person or persons who may have committed an offence, with respect to an official, or with respect to any person related to that official,
 		- **(ii)** the official was or is engaged in the administration or enforcement of this Act, and
 		- **(iii)** the offence can reasonably be considered to be related to that administration or enforcement;
 	- **(l)** provide confidential information, or allow the inspection of or access to confidential information, as the case may be, solely for the purposes of a provision contained in a listed international agreement; or
 	- **(m)** provide confidential information to any person solely for the purpose of enabling the Chief Statistician, within the meaning assigned by section 2 of the [Statistics Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-19.md), to provide to a statistical agency of a province data concerning business activities carried on in the province, if the information is used by the statistical agency solely for research and analysis and the statistical agency is authorized under the law of the province to collect the same or similar information on its own behalf in respect of such activities.
+
+**Restrictions on information sharing**
+
+- **(6.1)** No information may be provided to a representative of a government entity under paragraph (6)(j) in connection with a program, activity or service provided or undertaken by the government entity unless the government entity uses the business number as an identifier in connection with the program, activity or service.
+
+**Public disclosure**
+
+- **(6.2)** The Minister may, in connection with a program, activity or service provided or undertaken by the Minister, make available to the public the business number of, and the name of (including any trade name or other name used by), the holder of a business number.
+
+**Public disclosure by representative of government entity**
+
+- **(6.3)** A representative of a government entity may, in connection with a program, activity or service provided or undertaken by the government entity, make available to the public the business number of, and the name of (including any trade name or other name used by), the holder of a business number, if
+	- **(a)** a representative of the government entity was provided with that information pursuant to paragraph (6)(j); and
+	- **(b)** the government entity uses the business number as an identifier in connection with the program, activity or service.
 
 **Measures to prevent unauthorized use or disclosure**
 
@@ -4011,13 +4061,13 @@ It excludes information that does not directly or indirectly reveal the identity
 
 **Disclosure to person or on consent**
 
-- **(8)** An official may provide confidential information relating to a person
+- **(8)** An official or other representative of a government entity may provide confidential information relating to a person
 	- **(a)** to that person; and
 	- **(b)** with the consent of that person, to any other person.
 
 **Appeal from order or direction**
 
-- **(9)** An order or direction that is made in the course of or in connection with any legal proceedings and that requires an official to give or produce evidence relating to any confidential information may, by notice served on all interested parties, be appealed immediately by the Minister or by the person against whom it is made to
+- **(9)** An order or direction that is made in the course of or in connection with any legal proceedings and that requires an official or other representative of a government entity to give or produce evidence relating to any confidential information may, by notice served on all interested parties, be appealed immediately by the Minister or by the person against whom it is made to
 	- **(a)** the court of appeal of the province in which it is made, in the case of an order or direction made by a court or other tribunal established under the laws of the province, whether that court or tribunal is exercising a jurisdiction conferred by the laws of Canada; or
 	- **(b)** the Federal Court of Appeal, in the case of an order or direction made by a court or other tribunal established under the laws of Canada.
 
@@ -4028,7 +4078,7 @@ It excludes information that does not directly or indirectly reveal the identity
 **Stay**
 
 - **(11)** An appeal shall stay the operation of the order or direction appealed from until judgment is pronounced.
-> 2002, c. 22, s. 211; 2005, c. 38, ss. 97, 145; 2007, c. 18, s. 117.
+> 2002, c. 22, s. 211; 2005, c. 38, ss. 97, 145; 2007, c. 18, s. 117; 2009, c. 2, s. 120.
 
 
 
