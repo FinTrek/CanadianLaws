@@ -212,8 +212,8 @@ Autorités habilitantes :
 
 - **(8)** [Abrogé, DORS/85-558, art. 4]
 
-- **(9)** Un certificat d’enregistrement délivré après le 30 juin 1978 expire le 30 juin de l’année qui y figure, soit à une date ne dépassant pas de deux ans celle de l’enregistrement, à moins que cet enregistrement ne soit annulé plus tôt.
-> DORS/79-365, art. 5; DORS/85-558, art. 4; DORS/85-688, art. 1; DORS/92-721, art. 1; DORS/96-424, art. 1; DORS/2000-184, art. 57; DORS/2004-80, art. 11; DORS/2006-147, art. 7.
+- **(9)** Tout certificat d’enregistrement expire trente-six mois après l’attribution d’un numéro d’enregistrement à l’engrais ou au supplément.
+> DORS/79-365, art. 5; DORS/85-558, art. 4; DORS/85-688, art. 1; DORS/92-721, art. 1; DORS/96-424, art. 1; DORS/2000-184, art. 57; DORS/2004-80, art. 11; DORS/2006-147, art. 7; DORS/2009-91, art. 1.
 
 
 
@@ -1169,15 +1169,11 @@ lorsque ces composants sont intentionnellement ajoutés à cet engrais ou censé
 
 
 
-### **ANNEXE III** 
-**(paragraphe 5(2))**
-FORMULAIRE : DEMANDE D’ENREGISTREMENT D’ENGRAIS OU DE SUPPLÉMENT
+### SCHEDULE III** / ANNEXE III** 
+***(Subsection 5(2))* / (paragraphe 5(2))**
+> Image: Formulaire de demande d’enregistrement d’engrais ou de supplément
 
-
-CE GRAPHIQUE N’EST PAS EXPOSÉ, VOIR DORS/2003-6, ART. 77
-
-
-> DORS/79-365, art. 19; DORS/85-558, art. 15; DORS/88-353, art. 7; DORS/94-683, art. 3; DORS/95-548, art. 4; DORS/97-292, art. 26; DORS/2003-6, art. 77.
+> DORS/79-365, art. 19; DORS/85-558, art. 15; DORS/88-353, art. 7; DORS/94-683, art. 3; DORS/95-548, art. 4; DORS/97-292, art. 26; DORS/2003-6, art. 77; DORS/2009-91, art. 2.
 
 
 
