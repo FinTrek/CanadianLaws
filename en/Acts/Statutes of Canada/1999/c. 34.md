@@ -85,12 +85,12 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **[Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md)**
 
-- **(6)** Part X of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), except for sections 132 to 147 and 154.01, does not apply to the Board. For the purposes of those sections, any reference to section 131 of that Act shall be read as a reference to section 35 of this Act.
+- **(6)** Part X of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), except for sections 113.1, 132 to 147 and 154.01, does not apply to the Board. For the purposes of those sections, any reference to section 131 of that Act shall be read as a reference to section 35 of this Act.
 
 **Reports and special examination**
 
 - **(7)** Any report or information in respect of the Board that is provided to the Minister under sections 132 to 147 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) shall also be provided to the Minister of National Defence and the Minister of Public Safety and Emergency Preparedness. The Minister may only require a special examination under subsection 138(2) of that Act if the Minister has consulted with those Ministers.
-> 1999, c. 34, s. 3; 2003, c. 22, s. 224(E); 2005, c. 30, ss. 47, 50; 2006, c. 9, s. 295.
+> 1999, c. 34, s. 3; 2003, c. 22, s. 224(E); 2005, c. 30, ss. 47, 50; 2006, c. 9, s. 295; 2009, c. 2, s. 381.
 
 
 
@@ -186,6 +186,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 	- **(b)** a person who is of unsound mind and has been so found by a court in Canada or elsewhere;
 	- **(c)** a person who has the status of a bankrupt;
 	- **(d)** a person who is not a natural person;
+	- **(d.1)** a person who is an employee of the Board;
 	- **(e)** a person who is an agent or employee of Her Majesty in right of Canada;
 	- **(f)** a person who is a member of the Senate or House of Commons of Canada or a member of a provincial legislature;
 	- **(g)** a person who
@@ -194,6 +195,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 		- **(iii)** is subject to a superannuation or pension fund or plan under which he or she may become entitled to a benefit referred to in subparagraph (i) or (ii);
 	- **(h)** a person who is an agent or employee of the government of a foreign country or any political subdivision of a foreign country; and
 	- **(i)** a person who is not a resident of Canada.
+> 1999, c. 34, s. 6; 2009, c. 2, s. 382.
+
 
 
 
