@@ -29,7 +29,9 @@
 
 **Objet de la loi**
 
-**2** Reconnaissant qu’une augmentation du capital et que le développement de la technologie apporteraient des avantages au Canada, la présente loi vise à encourager les investissements au Canada par des Canadiens et des non-Canadiens qui contribueront à la croissance de l’économie et à la création d’emplois ainsi qu’à instaurer l’examen des investissements importants effectués au Canada par des non-Canadiens afin de garantir ces avantages.
+**2** Étant donné les avantages que retire le Canada d’une augmentation du capital et de l’essor de la technologie et compte tenu de l’importance de préserver la sécurité nationale, la présente loi vise à instituer un mécanisme d’examen des investissements importants effectués au Canada par des non-Canadiens de manière à encourager les investissements au Canada et à contribuer à la croissance de l’économie et à la création d’emplois, de même qu’un mécanisme d’examen des investissements effectués au Canada par des non-Canadiens et susceptibles de porter atteinte à la sécurité nationale.
+> L.R. (1985), ch. 28 (1<sup>er</sup> suppl.), art. 2; 2009, ch. 2, art. 445.
+
 
 
 
@@ -54,7 +56,7 @@
 - **a)** Un citoyen canadien;
 - **b)** un résident permanent au sens du paragraphe 2(1) de la [Loi sur l’immigration et la protection des réfugiés](/fr/Lois/Lois%20du%20Canada/2001/ch.%2027.md) qui a résidé habituellement au Canada pendant une période maximale de un an à compter de la date où il est devenu pour la première fois admissible à demander la citoyenneté canadienne;
 - **c)** un gouvernement canadien, fédéral ou provincial, une administration locale ou l’un de leurs organismes;
-- **d)** une unité sous contrôle canadien visée aux paragraphes 26(1) ou (2) et n’ayant pas fait l’objet d’une décision au titre du paragraphe 26(2.1) ou d’une déclaration au titre du paragraphe 26(2.2).
+- **d)** une unité qui est sous contrôle canadien aux termes des paragraphes 26(1) ou (2) et qui n’a pas fait l’objet d’une décision au titre des paragraphes 26(2.1) ou (2.11) ou d’une déclaration au titre du paragraphe 26(2.2).
 
 ***coentreprise*** Association de plusieurs personnes ou unités dans le cas où leurs rapports ne constituent pas, en vertu des lois canadiennes, une personne morale, une société de personnes ou une fiducie et si, dans le cas d’un investissement visé par la présente loi, les droits de participation indivise à la propriété des actifs de l’entreprise canadienne ou des intérêts avec droit de vote de l’unité visée par l’investissement appartiennent ou appartiendront à celles-ci.
 
@@ -89,7 +91,7 @@
 ***propriétaire*** Le véritable propriétaire.
 
 ***unité*** Personne morale, société de personnes, fiducie ou coentreprise.
-> L.R. (1985), ch. 28 (1<sup>er</sup> suppl.), art. 3; 1993, ch. 35, art. 1; 1995, ch. 1, art. 45; 1996, ch. 31, art. 88; 2001, ch. 27, art. 259.
+> L.R. (1985), ch. 28 (1<sup>er</sup> suppl.), art. 3; 1993, ch. 35, art. 1; 1995, ch. 1, art. 45; 1996, ch. 31, art. 88; 2001, ch. 27, art. 259; 2009, ch. 2, art. 446.
 
 
 
@@ -160,7 +162,7 @@
 
 **10** 
 
-- **(1)** La présente loi ne s’applique pas aux opérations suivantes :
+- **(1)** La présente loi, sauf la partie IV.1, ne s’applique pas aux opérations suivantes :
 	- **a)** l’acquisition d’intérêts — actions ou autres — avec droit de vote par une personne dans le cadre de son activité commerciale normale à titre de courtier en valeurs mobilières;
 	- **b)** l’acquisition d’intérêts avec droit de vote par une personne dans le cadre de son activité commerciale normale à titre de fournisseur au Canada de capital de risque d’une manière conforme aux modalités que peut fixer le ministre;
 	- **c)** l’acquisition du contrôle d’une entreprise canadienne dans le cadre de la réalisation d’une garantie accordée à l’égard d’un prêt ou d’un autre mode d’assistance financière si l’acquisition n’est pas faite dans un but lié à la présente loi;
@@ -172,14 +174,26 @@
 	- **i)** l’acquisition involontaire du contrôle d’une entreprise canadienne dans le cadre d’une succession ou à la suite de l’application d’une règle de droit;
 	- **j)** l’acquisition du contrôle d’une entreprise canadienne :
 		- **(i)** soit par une compagnie d’assurance constituée au Canada qui est une société ou une société provinciale régie par la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md) à condition que le revenu brut d’investissement qu’elle retire de l’entreprise canadienne soit ajouté au calcul de son revenu pour l’application du paragraphe 138(9) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md),
-		- **(ii)** soit par une entité étrangère à laquelle le surintendant des institutions financières a délivré un agrément l’autorisant à garantir au Canada des risques aux termes de la partie XIII de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md) à condition que le revenu brut d’investissement qu’elle retire de l’entreprise canadienne soit ajouté au calcul de son revenu pour l’application du paragraphe 138(9) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) et que les intérêts avec droit de vote de l’unité qui exploite l’entreprise canadienne, ou que les actifs utilisés dans son exploitation, soient placés en fiducie au titre de cette partie,
-		- **(iii)** soit par une personne morale constituée au Canada dont toutes les actions avec droit de vote émises, à l’exception de celles qui sont nécessaires pour conférer à une personne la qualité d’administrateur, sont détenues par une compagnie d’assurance visée au sous-alinéa (i) ou une entité étrangère visée au sous-alinéa (ii), ou par une personne morale que l’une ou l’autre contrôle directement ou indirectement en ayant la propriété des actions avec droit de vote, à condition, dans le cas d’une entité étrangère visée au sous-alinéa (ii), que les intérêts avec droit de vote de l’unité qui exploite l’entreprise canadienne, ou les actifs utilisés dans son exploitation, soient placés en fiducie au titre de la partie XIII de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md);
+		- **(ii)** soit par l’unité qui est une entité étrangère à laquelle le surintendant des institutions financières a délivré un agrément l’autorisant à garantir au Canada des risques aux termes de la partie XIII de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md), à condition que le revenu brut d’investissement qu’elle retire de l’entreprise canadienne soit ajouté au calcul de son revenu pour l’application du paragraphe 138(9) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) et que les intérêts avec droit de vote de l’unité qui exploite l’entreprise canadienne ou les actifs utilisés dans son exploitation soient placés en fiducie au titre de cette partie,
+		- **(iii)** soit par une personne morale constituée au Canada dont toutes les actions avec droit de vote émises, à l’exception de celles qui sont nécessaires pour conférer à une personne la qualité d’administrateur, sont la propriété d’une compagnie d’assurance visée au sous-alinéa (i) ou d’une entité étrangère visée au sous-alinéa (ii), ou d’une personne morale que l’une ou l’autre contrôle directement ou indirectement en ayant la propriété des actions avec droit de vote, à condition, dans le cas d’une entité étrangère visée au sous-alinéa (ii), que les intérêts avec droit de vote de l’unité qui exploite l’entreprise canadienne ou les actifs utilisés dans son exploitation soient placés en fiducie au titre de la partie XIII de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md);
 	- **k)** l’acquisition du contrôle d’une entreprise canadienne dont le revenu provient de l’exploitation agricole de terres acquises dans le cadre de la même opération.
+
+**Opérations exemptées — partie IV.1**
+
+- **(2)** La partie IV.1 ne s’applique pas aux opérations suivantes :
+	- **a)** l’acquisition du contrôle d’une entreprise canadienne dans le cadre de la réalisation d’une garantie accordée à l’égard d’un prêt ou d’un autre mode d’assistance financière, si l’acquisition n’est pas faite dans un but lié à la présente loi et si elle est assujettie à une approbation en vertu de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md), de la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md), de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md) ou de la [Loi sur les associations coopératives de crédit](/fr/Lois/Lois%20du%20Canada/1991/ch.%2048.md);
+	- **b)** l’acquisition du contrôle d’une entreprise canadienne dans le cadre d’une consolidation, d’une fusion, d’un regroupement ou d’une réorganisation, si le contrôle ultime en fait, direct ou indirect — exercé par la propriété d’intérêts avec droit de vote — de l’entreprise canadienne demeure inchangé et si l’acquisition est assujettie à une approbation en vertu de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md), de la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md), de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md) ou de la [Loi sur les associations coopératives de crédit](/fr/Lois/Lois%20du%20Canada/1991/ch.%2048.md);
+	- **c)** l’acquisition du contrôle d’une entreprise canadienne exploitée par un mandataire de Sa Majesté du chef du Canada ou d’une province ou par une société d’État au sens de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md);
+	- **d)** celles visées par la partie XII.01 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md);
+	- **e)** l’acquisition du contrôle d’une entreprise canadienne par l’une des unités ci-après, si l’acquisition est assujettie à une approbation en vertu de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md), de la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md), de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md) ou de la [Loi sur les associations coopératives de crédit](/fr/Lois/Lois%20du%20Canada/1991/ch.%2048.md) :
+		- **(i)** la compagnie d’assurance constituée au Canada qui est une société ou une société provinciale régie par la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md), à condition que le revenu brut d’investissement qu’elle retire de l’entreprise canadienne soit ajouté au calcul de son revenu pour l’application du paragraphe 138(9) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md),
+		- **(ii)** l’entité étrangère à laquelle le surintendant des institutions financières a délivré un agrément l’autorisant à garantir au Canada des risques aux termes de la partie XIII de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md), à condition que le revenu brut d’investissement qu’elle retire de l’entreprise canadienne soit ajouté au calcul de son revenu pour l’application du paragraphe 138(9) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) et que les intérêts avec droit de vote de l’unité qui exploite l’entreprise canadienne ou les actifs utilisés dans son exploitation soient placés en fiducie au titre de cette partie,
+		- **(iii)** la personne morale constituée au Canada dont toutes les actions avec droit de vote émises, à l’exception de celles qui sont nécessaires pour conférer à une personne la qualité d’administrateur, sont la propriété d’une compagnie d’assurance visée au sous-alinéa (i) ou d’une entité étrangère visée au sous-alinéa (ii), ou d’une personne morale que l’une ou l’autre contrôle directement ou indirectement en ayant la propriété des actions avec droit de vote, à condition, dans le cas d’une entité étrangère visée au sous-alinéa (ii), que les intérêts avec droit de vote de l’unité qui exploite l’entreprise canadienne ou les actifs utilisés dans son exploitation soient placés en fiducie au titre de la partie XIII de la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md).
 
 **Défaut d’observation des conditions**
 
-- **(2)** Si les conditions mentionnées à l’alinéa (1)d) ou j) ne sont pas remplies, l’exemption ne s’applique pas et l’opération demeure assujettie à la présente loi.
-> L.R. (1985), ch. 28 (1<sup>er</sup> suppl.), art. 10; 1991, ch. 46, art. 600, ch. 47, art. 735; 2001, ch. 9, art. 589; 2007, ch. 6, art. 439.
+- **(3)** Si les conditions mentionnées aux alinéas (1)d) ou j) ou (2)e) ne sont pas remplies, l’exemption ne s’applique pas et l’opération demeure assujettie à la présente loi.
+> L.R. (1985), ch. 28 (1<sup>er</sup> suppl.), art. 10; 1991, ch. 46, art. 600, ch. 47, art. 735; 2001, ch. 9, art. 589; 2007, ch. 6, art. 439; 2009, ch. 2, art. 447.
 
 
 
@@ -283,11 +297,13 @@
 
 **Calcul du montant**
 
-- **(2)** Pour l’application du paragraphe (1), le montant, pour chaque année, est le résultat, calculé par le ministre au mois de janvier de l’année en question et arrondi au million le plus proche, de la formule suivante :(PIB nominal actuel aux prix du marché / PIB nominal de l’année précédente aux prix du marché) × montant de l’année précédente
+- **(2)** Pour l’application du paragraphe (1), le montant, pour chaque année, est le résultat, calculé par le ministre au mois de janvier de l’année en question et arrondi au million le plus proche, de la formule suivante :
+```
+(PIB nominal actuel aux prix du marché / PIB nominal de l’année précédente aux prix du marché) × montant de l’année précédente
+```
 
-
-	- **a)** le PIB nominal actuel aux prix du marché étant la moyenne du produit intérieur brut nominal aux prix du marché pour les quatre trimestres consécutifs les plus récents;
-	- **b)** le PIB nominal de l’année précédente aux prix du marché étant la moyenne du produit intérieur brut nominal aux prix du marché, pour les mêmes quatre trimestres consécutifs de l’année précédant l’année utilisée pour le calcul du PIB nominal actuel aux prix du marché.
+- **a)** le PIB nominal actuel aux prix du marché étant la moyenne du produit intérieur brut nominal aux prix du marché pour les quatre trimestres consécutifs les plus récents;
+- **b)** le PIB nominal de l’année précédente aux prix du marché étant la moyenne du produit intérieur brut nominal aux prix du marché, pour les mêmes quatre trimestres consécutifs de l’année précédant l’année utilisée pour le calcul du PIB nominal actuel aux prix du marché.
 
 **Publication dans la Gazette du Canada**
 
@@ -295,15 +311,11 @@
 
 **Investissements soustraits à l’examen**
 
-- **(4)** Par dérogation à l’alinéa 14(1)d), l’investissement visé à cet alinéa qui est effectué, après l’entrée en vigueur du présent article, soit par un investisseur OMC, soit, dans le cas où l’entreprise canadienne qui en fait l’objet est, avant qu’il ne soit effectué, sous le contrôle d’un investisseur OMC, par un non-Canadien — autre qu’un investisseur OMC — n’est pas sujet à l’examen prévu à l’article 14.
+- **(4)** Malgré les alinéas 14(1)c) et d), l’investissement visé à l’un ou l’autre de ces alinéas qui est effectué, après l’entrée en vigueur du présent paragraphe, soit par un investisseur OMC, soit, dans le cas où l’entreprise canadienne qui en fait l’objet est, avant qu’il ne soit effectué, sous le contrôle d’un investisseur OMC, par un non-Canadien — autre qu’un investisseur OMC — n’est pas sujet à l’examen prévu à l’article 14.
 
-**Exceptions**
+**Exception**
 
-- **(5)** Le présent article ne s’applique pas à l’investissement visant l’acquisition du contrôle d’une entreprise canadienne qui, selon le cas :
-	- **a)** exerce des activités de production d’uranium et est propriétaire d’un droit sur un terrain uranifère exploité au Canada;
-	- **b)** offre des services financiers;
-	- **c)** offre des services de transport, au sens de l’éventuelle définition réglementaire;
-	- **d)** est une entreprise culturelle.
+- **(5)** Le présent article ne s’applique pas à l’investissement visant l’acquisition du contrôle d’une entreprise canadienne qui est une entreprise culturelle.
 
 **Définitions**
 
@@ -318,7 +330,7 @@
 - **d)** l’édition, la distribution ou la vente de compositions musicales sous forme imprimée ou assimilable par une machine;
 - **e)** les radiocommunications dont les transmissions sont destinées à être captées directement par le grand public, notamment les activités de radiodiffusion, de télédiffusion et de câblodistribution et les services de programmation et de diffusion par satellite.
 
-***institution financière*** Unité autorisée à exercer des activités en vertu de la législation sur les institutions financières, soit d’un membre de l’OMC, soit d’une de ses subdivisions politiques, selon la définition que donne cette législation des institutions financières, ou société de portefeuille la contrôlant.
+***institution financière***[Abrogée, 2009, ch. 2, art. 448]
 
 ***investisseur OMC***
 - **a)** Le particulier — autre qu’un Canadien — qui est un ressortissant d’un membre de l’OMC ou qui a le droit d’établir sa résidence permanente chez ce membre;
@@ -330,7 +342,7 @@
 
 ***membre de l’OMC*** Membre de l’Organisation mondiale du commerce instituée par l’article I de l’Accord sur l’OMC.
 
-***service financier*** Service de nature financière offert par une institution financière, à l’exclusion de la vente de polices d’assurance et de la souscription à de telles polices.
+***service financier***[Abrogée, 2009, ch. 2, art. 448]
 
 ***sous le contrôle d’un investisseur OMC*** Par dérogation au paragraphe 28(2), s’entend, à l’égard d’une entreprise canadienne :
 - **a)** soit du contrôle ultime de fait, direct ou indirect, de celle-ci par un investisseur OMC au moyen de la propriété d’intérêts avec droit de vote;
@@ -341,7 +353,7 @@
 - **(7)** Pour l’application de l’alinéa c) de la définition de ***investisseur OMC***, au paragraphe (6), la détermination du statut de l’unité sous contrôle d’un investisseur OMC est à effectuer selon les règles suivantes :
 	- **a)** les paragraphes 26(1) et (2) et l’article 27 s’appliquent et, à cette fin, les mentions, dans ces dispositions, de « Canadien », de « Canadiens », de « non-Canadien », de « non-Canadiens » et des adjectifs correspondants, ainsi que de « sous contrôle canadien » et de « Canada », valent respectivement mention de « investisseur OMC », de « investisseurs OMC », de « non-Canadien — autre qu’un investisseur OMC — », de « non-Canadiens — autres que des investisseurs OMC — », des adjectifs correspondants, de « sous contrôle d’un investisseur OMC » et de « membre de l’OMC » — à l’exception de l’adjectif « non canadiens », au sous-alinéa 27d)(ii), qui vaut mention de « n’étant pas des investisseurs OMC »;
 	- **b)** lorsque deux personnes — un Canadien et un investisseur OMC — possèdent à part égale toutes les actions avec droit de vote d’une personne morale, celle-ci est censée être sous contrôle d’un investisseur OMC.
-> 1988, ch. 65, art. 135; 1993, ch. 35, art. 3; 1994, ch. 47, art. 133.
+> 1988, ch. 65, art. 135; 1993, ch. 35, art. 3; 1994, ch. 47, art. 133; 2009, ch. 2, art. 448.
 
 
 
@@ -349,8 +361,8 @@
 
 **Règlements**
 
-**14.2** Le gouverneur en conseil peut prendre les règlements qu’il juge nécessaires pour la mise en oeuvre de l’article 14.1, notamment des règlements définissant le terme « services de transport » pour l’application de l’alinéa 14.1(5)c).
-> 1988, ch. 65, art. 135; 1994, ch. 47, art. 133.
+**14.2** Le gouverneur en conseil peut prendre les règlements qu’il juge nécessaires pour la mise en oeuvre de l’article 14.1.
+> 1988, ch. 65, art. 135; 1994, ch. 47, art. 133; 2009, ch. 2, art. 449.
 
 
 
@@ -377,10 +389,16 @@
 
 **Exceptions**
 
-- **(2)** Le paragraphe (1) ne s’applique pas aux cas suivants :
+- **(2)** Le paragraphe (1) ne s’applique pas aux cas suivants :
 	- **a)** le ministre envoie à un non-Canadien qui se propose de faire un investissement un avis l’informant qu’il estime qu’un délai dans la mise en oeuvre d’un investissement causerait un préjudice injustifié au non-Canadien ou mettrait en danger les opérations de l’entreprise canadienne qui fait l’objet de l’investissement;
 	- **b)** il s’agit d’un investissement fait dans le cadre d’une acquisition visée au sous-alinéa 28(1)d)(ii);
 	- **c)** il s’agit d’un investissement sujet à l’examen au titre de l’article 15.
+
+**Délai**
+
+- **(3)** Dans le cas où un non-Canadien présente au ministre une demande écrite visant à obtenir l’avis prévu à l’alinéa (2)a), le ministre informe le demandeur, au plus tard trente jours après avoir reçu tous les renseignements nécessaires à l’évaluation de la demande, s’il fait droit à la demande ou non.
+> L.R. (1985), ch. 28 (1<sup>er</sup> suppl.), art. 16; 2009, ch. 2, art. 450.
+
 
 
 
@@ -393,11 +411,15 @@
 
 **Délais**
 
-- **(2)** La demande visée au paragraphe (1) est déposée, selon le cas :
+- **(2)** La demande visée au paragraphe (1) est déposée, selon le cas :
 	- **a)** sous réserve de l’alinéa b), dans le cas d’un investissement sujet à l’examen au titre de l’article 14, avant qu’il ne soit effectué;
 	- **b)** dans le cas d’un investissement fait dans le cadre d’une acquisition visée au sous-alinéa 28(1)d)(ii) ou à l’égard duquel l’avis mentionné à l’alinéa 16(2)a) a été envoyé, avant qu’il ne soit effectué ou dans les trente jours qui suivent;
 	- **c)** dans le cas d’un investissement sujet à l’examen au titre de l’article 15, sur réception de l’avis d’examen mentionné au sous-alinéa 15b)(ii).
-> L.R. (1985), ch. 28 (1<sup>er</sup> suppl.), art. 17; 1995, ch. 1, art. 50.
+
+**Complément d’information**
+
+- **(3)** L’investisseur non canadien fournit, dans le délai prévu par le directeur, tout autre renseignement que celui-ci estime nécessaire.
+> L.R. (1985), ch. 28 (1<sup>er</sup> suppl.), art. 17; 1995, ch. 1, art. 50; 2009, ch. 2, art. 451.
 
 
 
@@ -455,12 +477,44 @@
 
 **21** 
 
-- **(1)** Sous réserve des articles 22 et 23, dans les quarante-cinq jours suivant la date de réception visée au paragraphe 18(1), le ministre envoie au demandeur un avis l’informant qu’après avoir pris en considération les renseignements, engagements et observations qui lui ont été remis par le directeur en conformité avec l’article 19 et qu’à la lumière des facteurs énumérés à l’article 20 qui s’appliquent, il est d’avis que l’investissement sera vraisemblablement à l’avantage net du Canada.
+- **(1)** Sous réserve des paragraphes (2) à (8) et des articles 22 et 23, dans les quarante-cinq jours suivant la date de réception visée au paragraphe 18(1), le ministre envoie au demandeur un avis l’informant que, après avoir pris en considération les renseignements, engagements et observations qui lui ont été remis par le directeur en conformité avec l’article 19 et les facteurs énumérés à l’article 20 qui s’appliquent, il est d’avis que l’investissement sera vraisemblablement à l’avantage net du Canada.
+
+**Prolongation**
+
+- **(2)** Sous réserve du paragraphe (3), si, avant l’expiration du délai de quarante-cinq jours visé au paragraphe (1), l’avis prévu au paragraphe 25.2(1) est envoyé relativement à l’investissement, le délai pendant lequel le ministre peut envoyer l’avis prévu au paragraphe (1) est réputé expirer cinq jours après l’expiration du délai réglementaire visé au paragraphe 25.3(1).
+
+**Prolongation**
+
+- **(3)** Sous réserve des paragraphes (4) et (5), si, avant l’expiration du délai de quarante-cinq jours visé au paragraphe (1), l’avis prévu au paragraphe 25.2(1) est envoyé relativement à l’investissement et si le décret visé au paragraphe 25.3(1) est pris relativement à celui-ci, le délai pendant lequel le ministre peut envoyer l’avis prévu au paragraphe (1) est réputé expirer cinq jours après l’expiration du délai réglementaire ou du délai supplémentaire visés au paragraphe 25.3(6).
+
+**Prolongation**
+
+- **(4)** Si, avant l’expiration du délai de quarante-cinq jours visé au paragraphe (1), l’avis prévu au paragraphe 25.2(1) est envoyé relativement à l’investissement et si, relativement à celui-ci, le décret visé au paragraphe 25.3(1) est pris et l’avis prévu à l’alinéa 25.3(6)b) est envoyé, le délai pendant lequel le ministre peut envoyer l’avis prévu au paragraphe (1) est réputé expirer cinq jours après la date d’envoi de l’avis prévu à l’alinéa 25.3(6)b).
+
+**Prolongation**
+
+- **(5)** Si, avant l’expiration du délai de quarante-cinq jours visé au paragraphe (1), l’avis prévu au paragraphe 25.2(1) est envoyé relativement à l’investissement et si le décret visé au paragraphe 25.3(1) est pris relativement à celui-ci et que le ministre renvoie la question au gouverneur en conseil en application de l’alinéa 25.3(6)a), le délai pendant lequel le ministre peut envoyer l’avis prévu au paragraphe (1) est réputé expirer cinq jours après celle des dates ci-après qui est antérieure à l’autre :
+	- **a)** la date où le gouverneur en conseil prend une mesure relative à l’investissement en vertu du paragraphe 25.4(1);
+	- **b)** la date où expire le délai réglementaire visé à ce paragraphe.
+
+**Prolongation**
+
+- **(6)** Sous réserve des paragraphes (7) et (8), si, avant l’expiration du délai de quarante-cinq jours visé au paragraphe (1), le décret visé au paragraphe 25.3(1) est pris relativement à l’investissement, le délai pendant lequel le ministre peut envoyer l’avis prévu au paragraphe (1) est réputé expirer cinq jours après l’expiration du délai réglementaire ou du délai supplémentaire visés au paragraphe 25.3(6).
+
+**Prolongation**
+
+- **(7)** Si, avant l’expiration du délai de quarante-cinq jours visé au paragraphe (1), le décret visé au paragraphe 25.3(1) est pris relativement à l’investissement et si l’avis prévu à l’alinéa 25.3(6)b) est envoyé relativement à celui-ci, le délai pendant lequel le ministre peut envoyer l’avis prévu au paragraphe (1) est réputé expirer cinq jours après la date d’envoi de l’avis prévu à l’alinéa 25.3(6)b).
+
+**Prolongation**
+
+- **(8)** Si, avant l’expiration du délai de quarante-cinq jours visé au paragraphe (1), le décret visé au paragraphe 25.3(1) est pris relativement à l’investissement et si le ministre renvoie la question au gouverneur en conseil en application de l’alinéa 25.3(6)a), le délai pendant lequel le ministre peut envoyer l’avis prévu au paragraphe (1) est réputé expirer cinq jours après celle des dates ci-après qui est antérieure à l’autre :
+	- **a)** la date où le gouverneur en conseil prend une mesure relative à l’investissement en vertu du paragraphe 25.4(1);
+	- **b)** la date où expire le délai réglementaire visé à ce paragraphe.
 
 **Présomption**
 
-- **(2)** Sous réserve des articles 22 et 23, si le ministre n’envoie pas l’avis dans le délai visé au paragraphe (1), il est réputé être d’avis que l’investissement sera vraisemblablement à l’avantage net du Canada; il envoie au demandeur un avis à cet effet.
-> L.R. (1985), ch. 28 (1<sup>er</sup> suppl.), art. 21; 1995, ch. 1, art. 50.
+- **(9)** Sous réserve des articles 22 et 23, s’il n’envoie pas l’avis dans le délai de quarante-cinq jours visé au paragraphe (1) ou si l’un des paragraphes (2) à (8) s’applique, le ministre est réputé, dans le délai de cinq jours qui est prévu à ce paragraphe, être d’avis que l’investissement sera vraisemblablement à l’avantage net du Canada; il envoie au demandeur un avis à cet effet.
+> L.R. (1985), ch. 28 (1<sup>er</sup> suppl.), art. 21; 1995, ch. 1, art. 50; 2009, ch. 2, art. 452.
 
 
 
@@ -470,15 +524,21 @@
 
 **22** 
 
-- **(1)** Si le ministre ne peut terminer l’examen de l’investissement dans le délai mentionné au paragraphe 21(1), il doit, à l’intérieur de ce même délai, faire parvenir un avis à cet effet au demandeur; le ministre dispose alors de trente jours, ou de tout délai supplémentaire sur lequel le demandeur et lui-même s’entendent, à partir de la date de ce dernier avis, pour terminer l’examen.
+- **(1)** Si aucun des paragraphes 21(2) à (8) ne s’applique et qu’il ne peut terminer l’examen de l’investissement dans le délai visé au paragraphe 21(1), le ministre, à l’intérieur de ce même délai, fait parvenir un avis à cet effet au demandeur; sous réserve du paragraphe (3), il dispose alors de trente jours, ou de tout délai supplémentaire sur lequel le demandeur et lui-même s’entendent, à partir de la date de cet avis, pour terminer l’examen.
 
 **Avis**
 
-- **(2)** Si dans le délai de trente jours ou le délai supplémentaire visés au paragraphe (1), le ministre est d’avis que l’investissement sera vraisemblablement à l’avantage net du Canada, il en avise le demandeur à l’intérieur du même délai.
+- **(2)** Sous réserve du paragraphe (3), si, dans le délai de trente jours ou le délai supplémentaire visés au paragraphe (1), il est d’avis que l’investissement sera vraisemblablement à l’avantage net du Canada, le ministre en avise le demandeur à l’intérieur du même délai.
+
+**Prolongation**
+
+- **(3)** Les paragraphes 21(2) à (8) s’appliquent au présent article; toutefois, pour l’application de celui-ci, la mention du délai de quarante-cinq jours vaut mention du délai de trente jours ou du délai supplémentaire visés au paragraphe (1).
 
 **Présomption**
 
-- **(3)** Sous réserve de l’article 23, si le ministre n’envoie pas l’avis mentionné au paragraphe (2) à l’intérieur du délai visé à ce paragraphe, il est réputé être d’avis que l’investissement sera vraisemblablement à l’avantage net du Canada; il envoie au demandeur un avis à cet effet.
+- **(4)** Sous réserve de l’article 23, s’il n’envoie pas l’avis prévu au paragraphe (2) dans le délai visé à ce paragraphe ou, si le paragraphe (3) s’applique, dans le délai de cinq jours prévu à celui des paragraphes 21(2) à (8) qui s’applique au présent article par application du paragraphe (3), le ministre est réputé être d’avis que l’investissement sera vraisemblablement à l’avantage net du Canada; il envoie au demandeur un avis à cet effet.
+> L.R. (1985), ch. 28 (1<sup>er</sup> suppl.), art. 22; 2009, ch. 2, art. 452.
+
 
 
 
@@ -487,17 +547,28 @@
 
 **23** 
 
-- **(1)** Si dans les quarante-cinq jours visés au paragraphe 21(1) ou à l’intérieur de toute prolongation visée au paragraphe 22(1), le ministre n’est pas d’avis que l’investissement sera vraisemblablement à l’avantage net du Canada, il en avise le demandeur; cet avis informe le demandeur de son droit de présenter des observations au ministre et de prendre des engagements dans les trente jours suivant la date de cet avis ou à l’intérieur de tout délai supplémentaire sur lequel le ministre et lui-même s’entendent.
+- **(1)** Si, dans le délai dont il dispose au titre des articles 21 ou 22 pour envoyer l’avis prévu au paragraphe 21(1), il n’en arrive pas à l’avis que l’investissement sera vraisemblablement à l’avantage net du Canada, le ministre en avise le demandeur; cet avis informe celui-ci de son droit de présenter des observations au ministre et de prendre des engagements dans les trente jours suivant la date de cet avis ou dans tout délai supplémentaire sur lequel le ministre et lui-même s’entendent.
 
 **Observations et engagements**
 
-- **(2)** Le demandeur qui, après avoir reçu l’avis mentionné au paragraphe (1), fait part au ministre de son intention de lui présenter des observations ou de prendre des engagements se voit accorder la possibilité, à l’intérieur du délai visé au paragraphe (1), de les lui présenter en personne ou par l’intermédiaire d’un représentant et de prendre des engagements envers Sa Majesté du chef du Canada, selon qu’il le juge à propos.
+- **(2)** Le demandeur qui, après avoir reçu l’avis prévu au paragraphe (1), fait part au ministre de son intention de lui présenter des observations ou de prendre des engagements se voit accorder la possibilité, dans le délai de trente jours ou le délai supplémentaire visés à ce paragraphe, de les lui présenter en personne ou par l’intermédiaire d’un représentant et de prendre des engagements envers Sa Majesté du chef du Canada, selon qu’il le juge à propos.
 
 **Avantage net**
 
-- **(3)** À l’expiration du délai mentionné au paragraphe (1) pour présenter des observations ou prendre des engagements, le ministre, après avoir pris en considération les observations et les engagements ainsi que les éléments qu’il doit étudier en conformité avec le paragraphe 21(1), envoie immédiatement un avis au demandeur :
+- **(3)** Dès que possible suivant l’expiration du délai pour présenter des observations ou prendre des engagements, le ministre, après avoir pris en considération les observations et les engagements ainsi que les éléments qu’il doit étudier en conformité avec le paragraphe 21(1), envoie un avis au demandeur :
 	- **a)** soit l’informant qu’il est d’avis que l’investissement sera vraisemblablement à l’avantage net du Canada;
 	- **b)** soit confirmant qu’il n’est pas d’avis que l’investissement sera vraisemblablement à l’avantage net du Canada.
+> L.R. (1985), ch. 28 (1<sup>er</sup> suppl.), art. 23; 2009, ch. 2, art. 452.
+
+
+
+
+
+**Motifs**
+
+**23.1** Le ministre est tenu de fournir les motifs à l’appui de toute décision prise au titre de l’alinéa 23(3)b); il peut choisir de le faire dans le cas de celle prise au titre des paragraphes 21(1) ou 22(2) ou de l’alinéa 23(3)a).
+> 2009, ch. 2, art. 452.
+
 
 
 
@@ -558,6 +629,137 @@
 
 
 
+**PARTIE IV.1** 
+## Investissements portant atteinte à la sécurité nationale
+
+
+
+**Champ d’application**
+
+**25.1** La présente partie s’applique à l’investissement effectué ou envisagé par un non-Canadien dans l’un des buts suivants :
+- **a)** la constitution d’une nouvelle entreprise canadienne;
+- **b)** l’acquisition du contrôle d’une entreprise canadienne de l’une des manières visées au paragraphe 28(1);
+- **c)** l’acquisition, en tout ou en partie, ou la constitution d’une unité exploitée en tout ou en partie au Canada qui, selon le cas :
+	- **(i)** possède un établissement au Canada,
+	- **(ii)** emploie au Canada au moins un individu travaillant à son compte ou contre rémunération dans le cadre de son exploitation,
+	- **(iii)** dispose d’actifs au Canada pour son exploitation.
+> 2009, ch. 2, art. 453.
+
+
+
+
+
+**Avis**
+
+**25.2** 
+
+- **(1)** S’il a des motifs raisonnables de croire que l’investissement pourrait porter atteinte à la sécurité nationale, le ministre peut, dans le délai réglementaire, aviser l’investisseur non canadien de la possibilité que l’investissement fasse l’objet d’un décret d’examen en application du paragraphe 25.3(1).
+
+**Investissement conditionnel**
+
+- **(2)** Si l’investisseur non canadien n’a pas encore effectué l’investissement au moment où il reçoit l’avis prévu au paragraphe (1), il ne peut l’effectuer que dans les cas suivants :
+	- **a)** il reçoit un avis en application de l’alinéa (4)a) l’informant qu’aucun décret d’examen ne sera pris au titre du paragraphe 25.3(1);
+	- **b)** il reçoit un avis en application de l’alinéa 25.3(6)b) l’informant qu’aucune mesure supplémentaire ne sera prise à l’égard de l’investissement;
+	- **c)** il reçoit une copie du décret pris en vertu de l’article 25.4 l’autorisant à effectuer l’investissement.
+
+**Obligation de fournir des renseignements**
+
+- **(3)** Le ministre peut exiger que l’investisseur non canadien ou toute personne ou unité de qui l’entreprise canadienne ou l’unité visée à l’alinéa 25.1c) est acquise fournisse, selon les modalités de temps et de forme qu’il précise, tout renseignement réglementaire ou tout autre renseignement qu’il estime nécessaire pour décider s’il y a des motifs raisonnables de croire que l’investissement pourrait porter atteinte à la sécurité nationale.
+
+**Obligation du ministre**
+
+- **(4)** Le ministre fait parvenir à l’investisseur non canadien, dans le délai réglementaire :
+	- **a)** soit un avis l’informant qu’aucun décret d’examen ne sera pris en application du paragraphe 25.3(1);
+	- **b)** soit l’avis prévu au paragraphe 25.3(2) l’informant de la prise du décret ordonnant l’examen de l’investissement.
+> 2009, ch. 2, art. 453.
+
+
+
+
+
+**Investissements sujets à examen**
+
+**25.3** 
+
+- **(1)** L’investissement est sujet à l’examen au titre de la présente partie si le ministre, après consultation du ministre de la Sécurité publique et de la Protection civile, est d’avis que l’investissement pourrait porter atteinte à la sécurité nationale et que le gouverneur en conseil prend, sur recommandation du ministre et dans le délai réglementaire, un décret ordonnant l’examen de l’investissement.
+
+**Avis**
+
+- **(2)** Le ministre fait parvenir, sans délai, à l’investisseur non canadien et à toute personne ou unité de qui l’entreprise canadienne ou l’unité visée à l’alinéa 25.1c) est acquise un avis les informant de la prise du décret ordonnant l’examen de l’investissement et de leur droit de lui présenter des observations.
+
+**Investissement conditionnel**
+
+- **(3)** S’il n’a pas encore effectué l’investissement au moment où il reçoit l’avis prévu au paragraphe (2), l’investisseur non canadien ne peut l’effectuer que dans les cas suivants :
+	- **a)** il reçoit un avis au titre de l’alinéa (6)b) l’informant qu’aucune mesure supplémentaire ne sera prise à l’égard de l’investissement;
+	- **b)** il reçoit une copie du décret pris en vertu de l’article 25.4 l’autorisant à effectuer l’investissement.
+
+**Observations**
+
+- **(4)** Si, après réception de l’avis prévu au paragraphe (2), l’investisseur non canadien, la personne ou l’unité informe le ministre de son désir de présenter des observations, ce dernier lui accorde la possibilité de le faire en personne ou par l’intermédiaire d’un représentant.
+
+**Obligation de fournir des renseignements**
+
+- **(5)** Le ministre peut exiger que l’investisseur non canadien, la personne ou l’unité fournisse, selon les modalités de temps et de forme qu’il précise, tout renseignement réglementaire ou tout autre renseignement qu’il estime nécessaire à l’examen.
+
+**Obligation du ministre**
+
+- **(6)** Après consultation du ministre de la Sécurité publique et de la Protection civile, le ministre est tenu, dans le délai réglementaire ou tout délai supplémentaire sur lequel lui-même et l’investisseur non canadien s’entendent :
+	- **a)** de renvoyer la question au gouverneur en conseil et de lui présenter ses conclusions et recommandations, si, selon le cas :
+		- **(i)** il est convaincu que l’investissement porterait atteinte à la sécurité nationale,
+		- **(ii)** il n’est pas en mesure d’établir, sur le fondement des renseignements disponibles, si l’investissement porterait atteinte à la sécurité nationale;
+	- **b)** de faire parvenir à l’investisseur non canadien un avis l’informant qu’aucune mesure supplémentaire ne sera prise à l’égard de l’investissement, s’il est convaincu que celui-ci ne porterait pas atteinte à la sécurité nationale.
+> 2009, ch. 2, art. 453.
+
+
+
+
+
+**Pouvoirs du gouverneur en conseil**
+
+**25.4** 
+
+- **(1)** S’il est saisi de la question en application de l’alinéa 25.3(6)a), le gouverneur en conseil peut, dans le délai réglementaire, prendre par décret toute mesure relative à l’investissement qu’il estime indiquée pour préserver la sécurité nationale, notamment :
+	- **a)** ordonner à l’investisseur non canadien de ne pas effectuer l’investissement;
+	- **b)** autoriser l’investisseur non canadien à effectuer l’investissement à la condition :
+		- **(i)** d’une part, de prendre envers Sa Majesté du chef du Canada les engagements écrits à l’égard de l’investissement qu’il estime nécessaires dans les circonstances,
+		- **(ii)** d’autre part, de l’effectuer selon les modalités précisées dans le décret;
+	- **c)** exiger que l’investisseur non canadien se départisse du contrôle de l’entreprise canadienne ou de son investissement dans l’unité.
+
+**Copie du décret**
+
+- **(2)** Le ministre fait parvenir, sans délai, une copie du décret aux investisseurs non canadiens, personnes ou unités qui y sont assujettis.
+
+**Obligation de se conformer au décret**
+
+- **(3)** Les investisseurs non canadiens, personnes ou unités assujettis au décret sont tenus de s’y conformer.
+
+**Non-application de la [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md)**
+
+- **(4)** La [Loi sur les textes réglementaires](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-22.md) ne s’applique pas au décret.
+> 2009, ch. 2, art. 453.
+
+
+
+
+
+**Renseignements en vue du contrôle**
+
+**25.5** Les investisseurs non canadiens, personnes ou unités qui sont assujettis à un décret pris en vertu de l’article 25.4 remettent au directeur les renseignements en leur possession que celui-ci exige pour être en mesure d’établir s’ils se conforment au décret.
+> 2009, ch. 2, art. 453.
+
+
+
+
+
+**Décisions et décrets définitifs**
+
+**25.6** Les décisions du gouverneur en conseil et du ministre et les décrets visés à la présente partie sont définitifs et exécutoires et, sous réserve du contrôle judiciaire prévu par la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md), ne sont pas susceptibles d’appel ou de révision en justice.
+> 2009, ch. 2, art. 453.
+
+
+
+
+
 **PARTIE V** 
 ## Règles et présomptions
 
@@ -571,7 +773,7 @@
 
 **26** 
 
-- **(1)** Sous réserve des paragraphes (2.1) et (2.2) et pour l’application de la présente loi :
+- **(1)** Sous réserve des paragraphes (2.1) à (2.2) et pour l’application de la présente loi :
 	- **a)** une unité est sous contrôle canadien si un Canadien ou plusieurs membres d’un groupement de votants qui sont canadiens sont propriétaires de la majorité de ses intérêts avec droit de vote;
 	- **b)** si l’alinéa a) ne s’applique pas, une unité n’est pas sous contrôle canadien si un non-Canadien ou plusieurs membres d’un groupe- ment de votants qui sont non canadiens sont propriétaires de la majorité de ses intérêts avec droit de vote;
 	- **c)** si les alinéas a) et b) ne s’appliquent pas et si la majorité des intérêts avec droit de vote de l’unité appartient à des Canadiens, celle-ci est sous contrôle canadien s’il peut être démontré qu’elle n’est pas contrôlée en fait par un non-Canadien par la propriété de ses intérêts avec droit de vote ou par un groupement de votants dont les membres non canadiens possèdent la moitié ou plus de ses intérêts avec droit de vote possédés par le groupement;
@@ -581,15 +783,19 @@
 
 **Fiducie**
 
-- **(2)** Sous réserve des paragraphes (2.1) et (2.2), le paragraphe (1) ne s’applique pas à une fiducie s’il peut être démontré qu’elle n’est pas contrôlée en fait par la propriété de ses intérêts avec droit de vote et elle est sous contrôle canadien si deux tiers de ses fiduciaires sont des Canadiens.
+- **(2)** Sous réserve des paragraphes (2.1) à (2.2), le paragraphe (1) ne s’applique pas à une fiducie s’il peut être démontré qu’elle n’est pas contrôlée en fait par la propriété de ses intérêts avec droit de vote; la fiducie est sous contrôle canadien si deux tiers de ses fiduciaires sont des Canadiens.
 
 **Décision du ministre**
 
 - **(2.1)** Le ministre peut, après examen des renseignements et des éléments de preuve qui soit lui sont fournis par ou pour une unité exerçant ou projetant d’exercer un type d’activité désigné par règlement aux fins de l’alinéa 15a), soit sont par ailleurs mis à sa disposition ou à celle du directeur, décider que l’unité, même si elle remplit les conditions mentionnées aux paragraphes (1) ou (2), n’est pas sous contrôle canadien s’il estime que celle-ci est contrôlée en fait par un ou plusieurs non-Canadiens.
 
+**Décision du ministre**
+
+- **(2.11)** Pour l’application de la partie IV.1, si une unité est sous contrôle canadien aux termes des paragraphes (1) ou (2), le ministre peut néanmoins, après examen des renseignements et des éléments de preuve qui soit lui sont fournis par ou pour l’unité, soit sont par ailleurs mis à sa disposition ou à celle du directeur, décider qu’elle n’est pas sous contrôle canadien s’il estime qu’elle est contrôlée en fait par un ou plusieurs non-Canadiens.
+
 **Déclaration**
 
-- **(2.2)** Le ministre peut aussi déclarer que cette unité n’est pas sous contrôle canadien dans les cas où celle-ci omet de fournir, dans un délai raisonnable, les renseignements que lui-même ou le directeur demande et qu’il juge nécessaires à la prise de sa décision.
+- **(2.2)** Le ministre peut aussi déclarer que l’unité visée aux paragraphes (2.1) ou (2.11) n’est pas sous contrôle canadien dans les cas où celle-ci omet de fournir, dans un délai raisonnable, les renseignements que lui-même ou le directeur demande et qu’il juge nécessaires à la prise de sa décision.
 
 **Effet rétroactif**
 
@@ -597,7 +803,7 @@
 
 **Notification**
 
-- **(2.4)** Le ministre notifie sans délai à l’unité intéressée sa décision ou sa déclaration ainsi que, le cas échéant, la date fixée au titre du paragraphe (2.3).
+- **(2.4)** Le ministre notifie par écrit, sans délai, à l’unité intéressée sa décision ou sa déclaration ainsi que, le cas échéant, la date fixée au titre du paragraphe (2.3).
 
 **Présomption**
 
@@ -608,6 +814,10 @@
 	- **d)** le lieu de ses activités principales est situé au Canada;
 	- **e)** le conseil d’administration gère les activités de la personne morale d’une façon autonome sans recevoir d’instructions d’un actionnaire sauf par l’intermédiaire de l’exercice normal du droit de vote lors des assemblées des actionnaires;
 	- **f)** les circonstances mentionnées aux alinéas a) à e) s’appliquent depuis au moins les douze mois qui précèdent la soumission des renseignements et éléments de preuve.
+
+**Exception**
+
+- **(3.1)** Le paragraphe (3) ne vise pas les personnes morales pour l’application de la partie IV.1.
 
 **Preuve**
 
@@ -620,7 +830,7 @@
 **Participation égale**
 
 - **(6)** Si deux personnes possèdent à part égale toutes les actions avec droit de vote d’une personne morale et qu’au moins une d’elles est non canadienne, la personne morale n’est pas sous contrôle canadien.
-> L.R. (1985), ch. 28 (1<sup>er</sup> suppl.), art. 26; 1993, ch. 35, art. 4; 1995, ch. 1, art. 50.
+> L.R. (1985), ch. 28 (1<sup>er</sup> suppl.), art. 26; 1993, ch. 35, art. 4; 1995, ch. 1, art. 50; 2009, ch. 2, art. 454.
 
 
 
@@ -659,7 +869,7 @@
 
 **Règles et présomptions à l’égard du contrôle d’une unité**
 
-- **(2)** Sous réserve des paragraphes (4) et (5) et pour l’application de la présente loi :
+- **(2)** Sous réserve des paragraphes (4) à (5) et pour l’application de la présente loi :
 	- **a)** l’unité qui en contrôle une autre est réputée contrôler indirectement celles que la seconde contrôle directement ou indirectement;
 	- **b)** une unité en contrôle une autre directement si, selon le cas :
 		- **(i)** l’unité exerçant le contrôle est propriétaire de la majorité des intérêts avec droit de vote de l’autre unité,
@@ -669,7 +879,7 @@
 
 **Présomptions à l’égard de l’acquisition du contrôle**
 
-- **(3)** Sous réserve des paragraphes (4) et (5) et pour l’application de la présente loi :
+- **(3)** Sous réserve des paragraphes (4) à (5) et pour l’application de la présente loi :
 	- **a)** l’acquisition de la majorité des intérêts avec droit de vote d’une unité ou de la majorité des droits de participation indivise à la propriété des actions avec droit de vote d’une unité qui est une personne morale est réputée constituer l’acquisition du contrôle de cette unité;
 	- **b)** l’acquisition de moins que la majorité des intérêts avec droit de vote d’une unité qui n’est pas une personne morale est réputée ne pas constituer l’acquisition du contrôle de cette unité;
 	- **c)** l’acquisition de moins que la majorité mais du tiers ou de plus du tiers des actions avec droit de vote d’une personne morale ou de droits équivalents de participation indivise à la propriété de telles actions est réputée être l’acquisition du contrôle de cette personne morale sauf s’il peut être démontré que, lors de l’acquisition, la personne morale n’est pas contrôlée en fait par l’acquéreur, par la propriété d’actions avec droit de vote;
@@ -679,9 +889,13 @@
 
 - **(4)** Le ministre peut, après examen des renseignements et des éléments de preuve qui soit lui sont fournis par ou pour une unité exerçant ou projetant d’exercer un type d’activité désigné par règlement aux fins de l’alinéa 15a), soit sont par ailleurs mis à sa disposition ou à celle du directeur, décider que l’unité est contrôlée ou non par une autre, ou que son contrôle a été acquis ou non, s’il estime qu’elle est contrôlée ou non en fait par celle-ci ou qu’il y a ou non acquisition dans les faits.
 
+**Décision du ministre**
+
+- **(4.1)** Pour l’application de la partie IV.1, le ministre peut, après examen des renseignements et des éléments de preuve qui soit lui sont fournis par ou pour une unité, soit sont par ailleurs mis à sa disposition ou à celle du directeur, décider que l’unité est contrôlée ou non par une autre, ou que son contrôle a été acquis ou non, s’il estime, selon le cas, qu’elle est contrôlée ou non en fait par celle-ci ou qu’il y a ou non acquisition dans les faits.
+
 **Déclaration**
 
-- **(5)** Le ministre peut aussi déclarer que l’unité est contrôlée ou non par une autre, ou que son contrôle a été acquis ou non, dans les cas où elle omet de fournir, dans un délai raisonnable, les renseignements que lui-même ou le directeur demande et qu’il juge nécessaires à la prise de sa décision.
+- **(5)** Le ministre peut aussi déclarer que l’unité visée aux paragraphes (4) ou (4.1) est contrôlée ou non par une autre, ou que son contrôle a été acquis ou non, dans les cas où elle omet de fournir, dans un délai raisonnable, les renseignements que lui-même ou le directeur demande et qu’il juge nécessaires à la prise de sa décision.
 
 **Effet rétroactif**
 
@@ -689,8 +903,8 @@
 
 **Notification**
 
-- **(7)** Le ministre notifie sans délai à l’unité intéressée sa décision ou sa déclaration ainsi que, le cas échéant, la date fixée au titre du paragraphe (6).
-> L.R. (1985), ch. 28 (1<sup>er</sup> suppl.), art. 28; 1993, ch. 35, art. 5; 1995, ch. 1, art. 50.
+- **(7)** Le ministre notifie par écrit, sans délai, à l’unité intéressée sa décision ou sa déclaration ainsi que, le cas échéant, la date fixée au titre du paragraphe (6).
+> L.R. (1985), ch. 28 (1<sup>er</sup> suppl.), art. 28; 1993, ch. 35, art. 5; 1995, ch. 1, art. 50; 2009, ch. 2, art. 455.
 
 
 
@@ -793,6 +1007,10 @@
 	- **a)** prendre toute mesure d’ordre réglementaire prévue par la présente loi;
 	- **b)** prendre toute autre mesure d’application de la présente loi.
 
+**Délais**
+
+- **(1.1)** Le règlement fixant les délais pour l’application des paragraphes 25.2(1) et 25.3(1) peut prévoir des délais différents selon qu’il s’agisse d’un investissement visé aux articles 11 ou 14 ou de tout autre investissement et, s’agissant du paragraphe 25.3(1), selon qu’un avis a été déposé ou non au titre du paragraphe 25.2(1).
+
 **Dépôt au Parlement**
 
 - **(2)** Sont déposés devant chaque chambre du Parlement dans les cinq premiers jours de séance de celle-ci qui suivent leur prise et n’entrent en vigueur que soixante jours après celle-ci, les règlements qui désignent, pour l’application de l’article 15 ou de la définition de ***nouvelle entreprise canadienne*** à l’article 3, un type précis d’activité commerciale qui, de l’avis du gouverneur en conseil, est lié au patrimoine culturel du Canada ou à l’identité nationale.
@@ -804,6 +1022,8 @@
 **Exception**
 
 - **(4)** Le paragraphe (2) ne s’applique pas à un règlement mentionné dans ce paragraphe qui entre en vigueur le jour de l’entrée en vigueur de la présente loi.
+> L.R. (1985), ch. 28 (1<sup>er</sup> suppl.), art. 35; 2009, ch. 2, art. 456.
+
 
 
 
@@ -816,7 +1036,7 @@
 
 **36** 
 
-- **(1)** Sous réserve des paragraphes (3) et (4), les renseignements obtenus à l’égard d’un Canadien, d’un non-Canadien ou d’une entreprise par le ministre ou un fonctionnaire ou employé de Sa Majesté dans le cadre de l’application de la présente loi sont confidentiels; il est interdit de les communiquer sciemment, de permettre qu’ils le soient ou de permettre à qui que ce soit d’en prendre connaissance ou d’y avoir accès.
+- **(1)** Sous réserve des paragraphes (3) à (4), les renseignements obtenus à l’égard d’un Canadien, d’un non-Canadien, d’une entreprise ou d’une unité visée à l’alinéa 25.1c) par le ministre ou un fonctionnaire ou employé de Sa Majesté dans le cadre de l’application de la présente loi sont confidentiels; nul ne peut sciemment les communiquer, permettre qu’ils le soient ou permettre à qui que ce soit d’en prendre connaissance ou d’y avoir accès.
 
 **Privilège**
 
@@ -824,9 +1044,13 @@
 
 **Communication des renseignements**
 
-- **(3)** Les renseignements privilégiés visés au paragraphe (1) peuvent, selon les modalités déterminées par le ministre, selon le cas :
+- **(3)** Les renseignements confidentiels visés au paragraphe (1) peuvent, selon les modalités déterminées par le ministre, selon le cas :
 	- **a)** à la demande, faite par écrit, au directeur présentée par le Canadien ou le non-Canadien visé par les renseignements ou en son nom, être communiqués à toute personne ou autorité mentionnée dans la demande;
 	- **b)** être communiqués à un ministre fédéral ou provincial ou à un fonctionnaire ou employé de Sa Majesté du chef du Canada ou d’une province pour l’application de la présente loi.
+
+**Organismes d’enquête**
+
+- **(3.1)** Les renseignements confidentiels visés au paragraphe (1) peuvent, pour l’application de la partie IV.1, être communiqués par le ministre à tout organisme d’enquête prévu par règlement — ou appartenant à une catégorie prévue par règlement — dans le cadre de toute enquête licite menée par celui-ci. De plus, ces renseignements peuvent être communiqués par un tel organisme dans le cadre d’une telle enquête.
 
 **Exception**
 
@@ -838,13 +1062,22 @@
 	- **e)** renseignements contenus dans l’un des documents suivants :
 		- **(i)** accusé de réception envoyé en conformité avec le paragraphe 13(1) à l’égard d’un investissement qui n’est pas sujet à examen en vertu du paragraphe 13(3),
 		- **(ii)** avis mentionné au paragraphe 21(1) ou (2), 22(2) ou (3) ou 23(3),
-		- **(iii)** mise en demeure envoyée par le ministre en vertu de l’article 39;
-	- **f)** renseignements auxquels une personne a autrement droit.
+		- **(iii)** mise en demeure délivrée aux termes de l’article 39, autre que celle délivrée dans le cadre de l’application de la partie IV.1;
+	- **f)** renseignements auxquels une personne a autrement droit;
+	- **g)** renseignements contenus dans les motifs fournis, en application de l’article 23.1, à l’appui de toute décision prise au titre des paragraphes 21(1), 22(2) ou 23(3).
+
+**Renseignements visés à l’alinéa (4)g)**
+
+- **(4.1)** Le ministre avise le Canadien ou le non-Canadien avant de communiquer des renseignements financiers, commerciaux, scientifiques ou techniques au titre de l’alinéa (4)g). Il ne peut les communiquer si le Canadien ou le non-Canadien le convainc, sans délai, que la communication lui serait préjudiciable.
+
+**Communication permise — demande d’examen**
+
+- **(4.2)** Malgré le paragraphe (1), le ministre peut communiquer le fait qu’il a reçu une demande d’examen au titre de la présente loi, sauf la partie IV.1, et où il en est rendu dans l’examen de l’investissement visé par la demande. Il avise le non-Canadien et, avec le consentement de celui-ci, l’entreprise canadienne avant de communiquer ces renseignements et il ne peut les communiquer si l’un ou l’autre le convainc, sans délai, que la communication lui serait préjudiciable.
 
 **Privilège**
 
 - **(5)** Nul ministre ou fonctionnaire ou employé de Sa Majesté du chef du Canada ou d’une province n’est tenu, notamment dans le cadre de procédures judiciaires, de témoigner à l’égard de renseignements visés à l’alinéa (4)b) ou de les communiquer d’une autre façon si, de l’avis du ministre ou de son délégué, la communication de ces renseignements n’est pas nécessaire pour l’application de la présente loi et risquerait de nuire aux activités commerciales du non-Canadien qui a pris l’engagement écrit mentionné dans cet alinéa.
-> L.R. (1985), ch. 28 (1<sup>er</sup> suppl.), art. 36; 1995, ch. 1, art. 50.
+> L.R. (1985), ch. 28 (1<sup>er</sup> suppl.), art. 36; 1995, ch. 1, art. 50; 2009, ch. 2, art. 457.
 
 
 
@@ -860,9 +1093,17 @@
 
 - **(1)** Lorsque dans le cadre de la présente loi se pose la question de savoir si un individu ou une unité est un Canadien, le ministre prend en considération immédiatement la demande qui lui est faite par l’individu ou l’unité ou en leur nom et étudie les renseignements et les éléments de preuve qui lui sont présentés; sauf s’il en vient à la conclusion que ces renseignements et éléments de preuve ne sont pas suffisants pour lui permettre de se faire une opinion sur la question, il donne au demandeur une opinion écrite à titre d’information.
 
+**Délai**
+
+- **(1.1)** Le ministre remet l’opinion au plus tard quarante-cinq jours après en être venu à la conclusion que les renseignements et éléments de preuve fournis sont suffisants pour lui permettre de se faire une opinion sur la question.
+
 **Autres opinions**
 
 - **(2)** Quiconque peut, en fournissant les renseignements nécessaires, demander au ministre de lui remettre une opinion sur l’applicabilité dans son cas d’une disposition de la présente loi ou des règlements, autre que celles que vise le paragraphe (1); le ministre peut remettre au demandeur une opinion écrite à titre d’information.
+
+**Délai**
+
+- **(2.1)** S’il décide de remettre l’opinion demandée au titre du paragraphe (2), le ministre le fait au plus tard quarante-cinq jours après en être venu à la conclusion que les renseignements qui lui ont été fournis sont suffisants pour lui permettre de se faire une opinion sur la question.
 
 **Valeur de l’opinion**
 
@@ -871,7 +1112,7 @@
 **Opinions autorisées**
 
 - **(4)** Le ministre peut autoriser le directeur ou une personne qu’il juge qualifiée à donner des opinions écrites sous le régime du présent article; dans ce cas, les opinions qu’ils donnent ont la même valeur que si elles avaient été données par le ministre sous le régime du présent article.
-> L.R. (1985), ch. 28 (1<sup>er</sup> suppl.), art. 37; 1988, ch. 65, art. 137; 1994, ch. 47, art. 135; 1995, ch. 1, art. 50.
+> L.R. (1985), ch. 28 (1<sup>er</sup> suppl.), art. 37; 1988, ch. 65, art. 137; 1994, ch. 47, art. 135; 1995, ch. 1, art. 50; 2009, ch. 2, art. 458.
 
 
 
@@ -888,6 +1129,19 @@
 
 
 
+### Rapport
+
+
+
+**Établissement et dépôt**
+
+**38.1** Le directeur présente au ministre, pour chaque exercice, un rapport sur l’application de la présente loi, sauf la partie IV.1; le ministre rend le rapport public.
+> 2009, ch. 2, art. 459.
+
+
+
+
+
 **PARTIE VII** 
 ## Sanctions, infractions et peines
 
@@ -897,19 +1151,37 @@
 
 **39** 
 
-- **(1)** Le ministre peut faire émettre une mise en demeure à l’intention d’un non-Canadien qui, selon lui, a, contrairement à la présente loi, selon le cas :
+- **(1)** Le ministre peut faire émettre une mise en demeure à l’intention d’un non-Canadien qui, selon lui, a, contrairement à la présente loi, selon le cas :
 	- **a)** fait défaut de déposer l’avis mentionné à l’article 12 ou la demande d’examen mentionnée à l’article 17;
-	- **b)** effectué un investissement en contravention avec l’article 16 ou 24;
+	- **a.1)** omis de fournir les renseignements prévus par règlement ou ceux exigés par le ministre ou le directeur;
+	- **b)** effectué un investissement en contravention avec les articles 16, 24, 25.2 ou 25.3;
 	- **c)** effectué un investissement selon des modalités qui sont substantiellement différentes de celles que contenait la demande d’examen déposée en conformité avec l’article 17 ou des autres renseignements ou éléments de preuve fournis en conformité avec la présente loi à l’égard de l’investissement;
 	- **d)** fait défaut de se départir du contrôle d’une entreprise canadienne comme l’exige l’article 24;
+	- **d.1)** omis de se conformer à tout engagement pris envers Sa Majesté du chef du Canada conformément au décret pris en vertu de l’article 25.4;
+	- **d.2)** omis de se conformer au décret pris en vertu de l’article 25.4;
 	- **e)** fait défaut de se conformer à l’engagement écrit envers Sa Majesté du chef du Canada qu’il a pris à l’égard de l’investissement au sujet duquel le ministre est d’avis ou est réputé être d’avis qu’il sera vraisemblablement à l’avantage net du Canada;
 	- **f)** fait défaut de se conformer à une autre disposition de la présente loi ou des règlements;
 	- **g)** procédé à une opération ou à un arrangement dans un but lié à la présente loi.
 La mise en demeure exige du non-Canadien, de mettre fin, immédiatement ou à l’intérieur du délai qu’elle précise, à la contravention, de se conformer à la loi ou aux règlements, ou de démontrer qu’ils n’ont pas été violés ou, dans le cas d’un engagement, de justifier le défaut.
 
+**Mise en demeure**
+
+- **(2)** S’il estime qu’une personne ou une unité a, contrairement à la présente loi, omis de se conformer soit à une demande de renseignements faite en vertu des paragraphes 25.2(3) ou 25.3(5), soit au paragraphe 25.4(3), le ministre peut envoyer une mise en demeure exigeant de la personne ou de l’unité que, sans délai ou dans le délai imparti, elle mette fin à la contravention, elle se conforme à la présente loi ou elle démontre que celle-ci n’a pas été violée.
+
 **Contenu de la mise en demeure**
 
-- **(2)** La mise en demeure fait état de la nature des poursuites judiciaires qui peuvent être instituées en vertu de la présente loi contre le non-Canadien s’il fait défaut de s’y conformer.
+- **(3)** La mise en demeure fait état de la nature des poursuites judiciaires qui peuvent être instituées en vertu de la présente loi contre le non-Canadien, la personne ou l’unité à qui elle est adressée s’il omet de s’y conformer.
+> L.R. (1985), ch. 28 (1<sup>er</sup> suppl.), art. 39; 2009, ch. 2, art. 460.
+
+
+
+
+
+**Nouvel engagement**
+
+**39.1** S’il est d’avis que le non-Canadien a omis de se conformer à l’engagement écrit pris envers Sa Majesté du chef du Canada à l’égard de l’investissement au sujet duquel il est d’avis ou est réputé être d’avis qu’il sera vraisemblablement à l’avantage net du Canada, le ministre peut, une fois l’investissement effectué, accepter un nouvel engagement du non-Canadien.
+> 2009, ch. 2, art. 461.
+
 
 
 
@@ -918,25 +1190,31 @@ La mise en demeure exige du non-Canadien, de mettre fin, immédiatement ou à l�
 
 **40** 
 
-- **(1)** Une demande d’ordonnance judiciaire peut être présentée au nom du ministre à une cour supérieure si le non-Canadien ne se conforme pas à la mise en demeure qu’il reçoit sous le régime de l’article 39.
+- **(1)** Une demande d’ordonnance judiciaire peut être présentée au nom du ministre à une cour supérieure si le non-Canadien, la personne ou l’unité ne se conforme pas à la mise en demeure reçue en application de l’article 39.
 
 **Ordonnance judiciaire**
 
-- **(2)** Après audition de la demande visée au paragraphe (1), la cour supérieure qui décide que le ministre a agi à bon droit et constate le défaut du non-Canadien peut rendre l’ordonnance que justifient les circonstances; elle peut notamment rendre une ou plusieurs des ordonnances suivantes :
-	- **a)** ordonnance enjoignant au non-Canadien de se départir du contrôle de l’entreprise canadienne selon les modalités que la cour estime justes et raisonnables;
+- **(2)** Après audition de la demande visée au paragraphe (1), la cour supérieure qui décide que le ministre a agi à bon droit et constate le défaut du non-Canadien, de la personne ou de l’unité peut rendre l’ordonnance que justifient les circonstances; elle peut notamment rendre une ou plusieurs des ordonnances suivantes :
+	- **a)** ordonnance enjoignant au non-Canadien de se départir soit du contrôle de l’entreprise canadienne, soit de son investissement dans l’unité, selon les modalités que la cour estime justes et raisonnables;
 	- **b)** ordonnance enjoignant au non-Canadien de ne pas prendre les mesures mentionnées dans l’ordonnance à l’égard de l’investissement qui pourraient empêcher une cour supérieure, dans le cadre d’une autre demande pour une ordonnance visée à l’alinéa a), de rendre une ordonnance efficace;
 	- **c)** ordonnance enjoignant au non-Canadien de se conformer à l’engagement écrit envers Sa Majesté du chef du Canada pris à l’égard d’un investissement au sujet duquel le ministre est d’avis ou est réputé être d’avis qu’il sera vraisemblablement à l’avantage net du Canada;
+	- **c.1)** ordonnance enjoignant au non-Canadien de se conformer à l’engagement écrit pris envers Sa Majesté du chef du Canada conformément au décret pris en vertu de l’article 25.4;
 	- **d)** ordonnance infligeant au non-Canadien une pénalité maximale de dix mille dollars pour chacun des jours au cours desquels se commet ou se continue la contravention;
 	- **e)** ordonnance de révocation ou de suspension, pour une période qu’elle précise, des droits afférents aux intérêts avec droit de vote qu’a acquis le non-Canadien ou du droit de contrôle de ces droits;
-	- **f)** ordonnance enjoignant au non-Canadien de se départir des intérêts avec droit de vote qu’il a acquis ou des actifs qu’il a acquis et qui sont ou ont été utilisés dans l’exploitation de l’entreprise canadienne.
+	- **f)** ordonnance enjoignant au non-Canadien de se départir des intérêts avec droit de vote qu’il a acquis ou des actifs qu’il a acquis et qui sont ou ont été utilisés dans l’exploitation de l’entreprise canadienne;
+	- **g)** ordonnance enjoignant au non-Canadien, à la personne ou à l’unité de fournir les renseignements exigés par le ministre ou le directeur.
+
+**Ordonnance judiciaire — personne ou unité**
+
+- **(2.1)** Après audition de la demande visée au paragraphe (1), la cour supérieure qui décide que le ministre a agi à bon droit et constate le défaut de conformité peut rendre l’ordonnance que justifient, à son avis, les circonstances, et notamment infliger à la personne ou à l’unité en défaut une pénalité maximale de 10 000 $ pour chacun des jours au cours desquels se commet ou se continue la contravention.
 
 **Créance de Sa Majesté**
 
-- **(3)** Les pénalités infligées en vertu de l’alinéa (2) d) sont des créances de Sa Majesté du chef du Canada, dont le recouvrement peut être poursuivi à ce titre devant une cour supérieure.
+- **(3)** Les pénalités infligées en vertu de l’alinéa (2)d) ou du paragraphe (2.1) sont des créances de Sa Majesté du chef du Canada dont le recouvrement peut être poursuivi à ce titre devant une cour supérieure.
 
 **Outrage**
 
-- **(4)** Quiconque refuse ou fait défaut de se conformer aux ordonnances visées au paragraphe (2) peut être puni pour outrage au tribunal par la cour qui a rendu l’ordonnance.
+- **(4)** Quiconque refuse ou omet de se conformer aux ordonnances visées aux paragraphes (2) ou (2.1) peut être puni pour outrage au tribunal par la cour qui a rendu l’ordonnance.
 
 **Appel**
 
@@ -944,8 +1222,8 @@ La mise en demeure exige du non-Canadien, de mettre fin, immédiatement ou à l�
 
 **Définition de cour supérieure**
 
-- **(6)** Au présent article, ***cour supérieure*** a le sens que lui donne le paragraphe 35(1) de la [Loi d’interprétation](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-21.md) mais ne vise pas la Cour suprême du Canada, la Cour d'appel fédérale et la Cour canadienne de l'impôt.
-> L.R. (1985), ch. 28 (1<sup>er</sup> suppl.), art. 40; 2002, ch. 8, art. 152.
+- **(6)** Au présent article, ***cour supérieure*** a le sens que lui donne le paragraphe 35(1) de la [Loi d’interprétation](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-21.md) mais ne vise pas la Cour suprême du Canada, la Cour d’appel fédérale et la Cour canadienne de l’impôt.
+> L.R. (1985), ch. 28 (1<sup>er</sup> suppl.), art. 40; 2002, ch. 8, art. 152; 2009, ch. 2, art. 462.
 
 
 
