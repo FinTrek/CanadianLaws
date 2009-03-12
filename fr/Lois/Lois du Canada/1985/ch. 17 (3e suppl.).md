@@ -97,9 +97,9 @@
 
 **4** 
 
-- **(1)** Sous réserve des paragraphes (2) à (4) et de l’article 5, la [Loi sur la concurrence](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-34.md) ne s’applique pas à un accord intra-conférence ni à un accord mixte dans la mesure où, selon le cas :
+- **(1)** Sous réserve des paragraphes (2) à (4) et de l’article 5, la [Loi sur la concurrence](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-34.md) ne s’applique pas à un accord intra-conférence ni à un accord mixte dans la mesure où, selon le cas :
 	- **a)** l’un ou l’autre accord impose l’usage d’un tarif à un membre d’une conférence;
-	- **b)** l’un ou l’autre accord impose à un membre d’une conférence l’exécution d’un contrat d’exclusivité qui, à la fois :
+	- **b)** l’un ou l’autre accord impose à un membre d’une conférence l’exécution d’un contrat d’exclusivité qui, à la fois :
 		- **(i)** prévoit la faculté pour une partie de le résilier sur préavis écrit de quatre-vingt-dix jours adressé à l’autre partie,
 		- **(ii)** prévoit l’application aux marchandises de l’expéditeur de tarifs comportant un double régime de taux de fret dans lequel le taux de fret contractuel applicable à des marchandises ne peut être inférieur à quatre-vingt-cinq pour cent du taux de fret non contractuel applicable à celles-ci,
 		- **(iii)** ne contient aucune disposition prévoyant le paiement par un membre d’une conférence d’une ristourne sur le taux de fret appliqué au transport des marchandises de l’expéditeur,
@@ -116,7 +116,7 @@
 
 **Cas des mesures distinctes**
 
-- **(3)** Le paragraphe (1) ne s’applique à un accord intra-conférence que si celui-ci comporte les dispositions suivantes :
+- **(3)** Le paragraphe (1) ne s’applique à un accord intra-conférence que si celui-ci comporte les dispositions suivantes :
 	- **a)** un membre de la conférence peut prendre une mesure distincte en donnant aux autres membres un préavis écrit de cinq jours ou le préavis inférieur éventuellement fixé dans l’accord;
 	- **b)** tout destinataire du préavis peut, dès que la mesure notifiée a pris effet, prendre à son tour la même mesure sur préavis écrit aux autres membres;
 	- **c)** les membres de la conférence doivent, dans les cinq jours suivant la date de réception du préavis, publier ou faire publier le nouveau poste de taux de fret ou de service dans un tarif.
@@ -127,8 +127,8 @@
 
 **Pratiques relevant de la prévarication**
 
-- **(4)** Le paragraphe (1) n’a pas pour effet de soustraire à l’application de la [Loi sur la concurrence](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-34.md) le membre de la conférence qui se livre ou qui conspire, se coalise, s’entend ou s’arrange avec une autre personne pour se livrer à une politique visée à l’alinéa 50(1)c) de cette loi.
-> L.R. (1985), ch. 17 (3<sup>e</sup> suppl.), art. 4; 1992, ch. 1, art. 124 et 128; 2001, ch. 26, art. 326.
+- **(4)** Le paragraphe (1) n’a pas pour effet de soustraire à l’application de la [Loi sur la concurrence](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-34.md) le membre de la conférence qui se livre ou qui conspire, s’entend ou s’arrange avec une autre personne pour se livrer à une pratique de vente de produits à des prix déraisonnablement bas, cette pratique ayant pour effet de sensiblement réduire la concurrence ou d’éliminer un concurrent ou ayant tendance à le faire ou étant destinée à avoir un semblable effet, et constituant une pratique d’agissements anti-concurrentiels visée à l’alinéa 79(1)b) de cette loi.
+> L.R. (1985), ch. 17 (3<sup>e</sup> suppl.), art. 4; 1992, ch. 1, art. 124 et 128; 2001, ch. 26, art. 326; 2009, ch. 2, art. 443.
 
 
 
