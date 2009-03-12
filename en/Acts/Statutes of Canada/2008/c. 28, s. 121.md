@@ -205,10 +205,13 @@ Version anglaise seulement***by-law*** means a by-law of the Board.
 	- **(c)** a person who has the status of a bankrupt;
 	- **(d)** a person who is not a natural person;
 	- **(e)** a member of the nominating committee established under subsection 10(1);
+	- **(e.1)** a person who is an employee of the Board;
 	- **(f)** a person who is an agent, mandatary or employee of Her Majesty in right of Canada or in right of a province;
 	- **(g)** a person who is a member of the Senate or House of Commons of Canada or a member of a provincial legislature;
 	- **(h)** a person who is an agent, mandatary or employee of the government of a foreign country or any political subdivision of a foreign country; and
 	- **(i)** a person who is not a resident of Canada.
+> 2008, c. 28, s. 121 “9”; 2009, c. 2, s. 377.
+
 
 
 
