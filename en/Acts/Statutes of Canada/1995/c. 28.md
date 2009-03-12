@@ -458,7 +458,7 @@ Version anglaise seulement***Crown*** means Her Majesty in right of Canada;
 
 **23** 
 
-- **(1)** The authorized capital of the Bank consists of an unlimited number of common shares with a par value of $100 each and an unlimited number of preferred shares without par value, but the paid-in capital of the Bank, together with any contributed surplus relating to it and any proceeds referred to in paragraph 30(2)(d) that have been prescribed as equity, must not at any time exceed $1.5 billion.
+- **(1)** The authorized capital of the Bank consists of an unlimited number of common shares with a par value of $100 each and an unlimited number of preferred shares without par value, but the paid-in capital of the Bank, together with any contributed surplus relating to it and any proceeds referred to in paragraph 30(2)(d) that have been prescribed as equity, must not at any time exceed $3,000,000,000.
 
 **Issuance of shares**
 
@@ -471,6 +471,8 @@ Version anglaise seulement***Crown*** means Her Majesty in right of Canada;
 **Payment out of Consolidated Revenue Fund**
 
 - **(4)** The amount of the subscription is to be paid to the Bank out of the Consolidated Revenue Fund at any time and in any amount that the Board may require.
+> 1995, c. 28, s. 23; 2009, c. 2, s. 264.
+
 
 
 
