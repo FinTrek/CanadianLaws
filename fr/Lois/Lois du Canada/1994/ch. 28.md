@@ -1,6 +1,6 @@
 > [Aller à la version anglaise](/en/Acts/Statutes%20of%20Canada/1994/c.%2028.md)
 
-# Loi fédérale sur l'aide financière aux étudiants
+# Loi fédérale sur l’aide financière aux étudiants
 
 **L.C. 1994, ch. 28**
 
@@ -111,8 +111,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Teneur**
 
-**5** Le ministre peut, s’il le juge à propos, avec l’agrément du ministre des Finances, conclure un accord avec un prêteur en vue de l’octroi par celui-ci de prêts d’études ou d’autres formes d’aide financière aux étudiants. L’accord peut notamment prévoir :
-- **a)** le paiement, en tout ou en partie, par le ministre au prêteur :
+**5** Le ministre peut, s’il le juge à propos, avec l’agrément du ministre des Finances, conclure un accord avec un prêteur en vue de l’octroi par celui-ci de prêts d’études ou d’autres formes d’aide financière aux étudiants. L’accord peut notamment prévoir :
+- **a)** le paiement, en tout ou en partie, par le ministre au prêteur :
 	- **(i)** d’une somme correspondant à l’intérêt sur les prêts d’études à l’égard de la période visée au paragraphe 7(1),
 	- **(ii)** d’une somme correspondant à l’intérêt sur les prêts d’études dans le cas d’une exemption accordée en application d’un règlement pris en vertu de l’alinéa 15(1)n),
 	- **(iii)** du principal et de l’intérêt dans les cas prévus par les articles 10 ou 11,
@@ -120,7 +120,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **(v)** d’une prime contre les risques liés aux prêts d’études octroyés par celui-ci,
 	- **(vi)** des montants nécessaires au rachat de créances correspondant aux prêts d’études échus pour lesquels il n’y a eu aucun versement en vue du remboursement pendant au moins un an, ainsi que d’un certain pourcentage des sommes recouvrées par lui à l’égard de ces créances,
 	- **(vii)** des montants correspondant au rajustement du principal et de l’intérêt en cas d’erreur, commise par inadvertance, sur le taux d’intérêt ou le montant à rembourser dans le contrat de prêt consolidé ou dans le contrat de prêt simple,
-	- **(viii)** de sommes pour les pertes occasionnées par un prêt d’études à un étudiant à temps plein qui, avant le mois suivant celui où il a cessé de l’être, selon le cas :
+	- **(viii)** de sommes pour les pertes occasionnées par un prêt d’études à un étudiant à temps plein qui, avant le mois suivant celui où il a cessé de l’être, selon le cas :
 		- **(A)** sous le régime de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md), soit a fait une cession qui a été déposée et n’a pas été annulée, soit est réputé, en raison de circonstances survenues avant ce même mois, en avoir fait une, soit a fait l’objet d’une ordonnance de faillite,
 		- **(B)** a déposé, en application des sections I ou II de la partie III de cette loi, une proposition qui a été acceptée ou réputée acceptée par un tribunal,
 		- **(C)** a fait l’objet d’une ordonnance de fusion en vertu de la partie X de cette loi,
@@ -134,7 +134,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **g)** la procédure à suivre par le prêteur en ce qui concerne les prêts d’études, notamment en matière d’octroi et de recouvrement;
 - **h)** l’établissement de rapports au ministre concernant les prêts d’études;
 - **i)** les conditions et modalités relatives aux obligations contractuelles du ministre et du prêteur.
-> 1994, ch. 28, art. 5; 2004, ch. 25, art. 191; 2008, ch. 28, art. 102 et 110
+> 1994, ch. 28, art. 5; 2004, ch. 25, art. 191; 2008, ch. 28, art. 102 et 110; 2009, ch. 2, art. 358(A)
 
 
 
@@ -157,10 +157,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Sous réserve du paragraphe (2), le ministre, ou toute personne qu’il autorise par arrêté à agir en son nom, peut conclure un accord avec un étudiant admissible en vue de lui consentir un prêt.
 
-**Conditions et modalités de l’accord**
+**Conditions et modalités**
 
-- **(2)** L’accord doit respecter les conditions et modalités approuvées par le gouverneur en conseil sur la recommandation du ministre, à laquelle doit souscrire le ministre des Finances.
-> 2000, ch. 14, art. 17
+- **(2)** Les conditions et modalités de l’accord pouvant avoir une incidence financière pour Sa Majesté du chef du Canada doivent être approuvées au préalable par le gouverneur en conseil sur la recommandation du ministre, à laquelle doit souscrire le ministre des Finances.
+> 2000, ch. 14, art. 17; 2009, ch. 2, art. 359
 
 
 
@@ -198,6 +198,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **6.3** Malgré le paragraphe 41(1) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md), le ministre peut conclure avec une institution financière, telle que définie par règlement, un accord concernant le versement de prêts d’études.
 > 2000, ch. 14, art. 17
+
+
+
+
+
+**Refus ou suspension de l’aide financière**
+
+**6.4** Le ministre peut refuser ou suspendre l’octroi d’aide financière à l’ensemble des étudiants admissibles relativement à un établissement agréé s’il est convaincu qu’il existe des motifs impérieux de croire qu’un tel octroi faciliterait la perpétration par cet établissement d’une infraction à la présente loi ou à toute autre loi fédérale ou exposerait ces étudiants ou Sa Majesté du chef du Canada à un risque financier important.
+> 2009, ch. 2, art. 360
 
 
 
@@ -261,7 +270,15 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Cas de décès**
 
-**10** Dans le cas d’un prêt d’études visé par les règlements pris en vertu de l’alinéa 15j) et consenti à un étudiant à temps plein, les droits du prêteur à l’égard de l’emprunteur s’éteignent lorsque celui-ci décède avant le mois suivant celui où il aurait cessé d’être étudiant à temps plein; le ministre effectue alors le paiement visé au sous-alinéa 5a)(iii).
+**10** 
+
+- **(1)** Dans le cas d’un prêt d’études visé par les règlements pris en vertu de l’alinéa 15(1)j), les obligations de l’emprunteur s’éteignent au décès de celui-ci, auquel cas le ministre effectue le paiement visé au sous-alinéa 5a)(iii).
+
+**Décès antérieur à l’entrée en vigueur du présent paragraphe**
+
+- **(2)** Toutefois, si le décès de l’emprunteur survient avant la date d’entrée en vigueur du présent paragraphe, les obligations de l’emprunteur s’éteignent à cette date.
+> 1994, ch. 28, art. 10; 2009, ch. 2, art. 361
+
 
 
 
@@ -629,15 +646,72 @@ où :
 
 
 
+**Fourniture de renseignements ou production de documents**
+
+**16.3** 
+
+- **(1)** Le ministre peut, dans le but de vérifier le respect de la présente loi ou d’en prévenir le non-respect, exiger de toute personne ayant reçu de l’aide financière, par avis signifié à personne ou transmis par un service de messagerie qui fournit une preuve de livraison, qu’elle lui fournisse, dans le délai et de la manière que précise l’avis, des renseignements ou des documents dont elle dispose ou auxquels elle peut normalement avoir accès.
+
+**Copies**
+
+- **(2)** Il peut faire ou faire faire une ou plusieurs copies certifiées des documents fournis, lesquelles font foi de la nature et du contenu des documents originaux et ont la même force probante qu’auraient ceux-ci si leur authenticité était prouvée de la façon usuelle.
+> 2009, ch. 2, art. 362
+
+
+
+
+
 **Fausses déclarations**
 
 **17** 
 
-- **(1)** Quiconque, à propos d’un prêt d’études ou d’une autre forme d’aide financière, fait sciemment une déclaration fausse ou erronée dans une demande ou un autre document, ou fournit délibérément un renseignement faux ou trompeur, commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de mille dollars.
+- **(1)** Quiconque, à propos d’un prêt d’études ou d’une autre forme d’aide financière, fait sciemment une déclaration fausse ou erronée dans une demande ou un autre document, notamment par omission, ou fournit délibérément un renseignement faux ou trompeur, notamment par omission, commet une infraction et encourt, sur déclaration de culpabilité par procédure sommaire, une amende maximale de mille dollars.
 
 **Prescription**
 
 - **(2)** Les poursuites visant une infraction à la présente loi se prescrivent par six ans à compter de sa perpétration.
+> 1994, ch. 28, art. 17; 2009, ch. 2, art. 363
+
+
+
+
+
+**Mesures administratives**
+
+**17.1** 
+
+- **(1)** Si une personne, à propos d’un prêt d’études ou d’une autre forme d’aide financière, fait sciemment une déclaration fausse ou erronée dans une demande ou un autre document, notamment par omission, ou fournit sciemment un renseignement faux ou trompeur, notamment par omission, le ministre peut :
+	- **a)** lui refuser, pour la période réglementaire, une aide financière ou un certificat d’admissibilité;
+	- **b)** lui refuser, pour la période réglementaire, l’exemption d’intérêt prévue au paragraphe 7(1), ou y mettre fin;
+	- **c)** lui refuser, pour la période réglementaire, le report de paiement du principal ou des intérêts prévu à l’article 8, ou y mettre fin;
+	- **d)** lui refuser, pour la période réglementaire, les paiements d’intérêts prévus au paragraphe 9(2), ou y mettre fin;
+	- **e)** lui refuser le remboursement visé à l’alinéa 15(1)l);
+	- **f)** lui refuser, pour la période réglementaire, les périodes spéciales d’exemption totale ou partielle de paiement d’intérêts visées à l’alinéa 15(1)n), ou y mettre fin;
+	- **g)** lui refuser, pour la période réglementaire, le remboursement du prêt d’études en fonction du revenu visé à l’alinéa 15(1)o), ou y mettre fin;
+	- **h)** exiger qu’elle rembourse sans délai la partie impayée des prêts d’études qu’elle a reçus en raison de cette déclaration ou de ce renseignement;
+	- **i)** exiger qu’elle rembourse sans délai les bourses qu’elle a reçues en raison de cette déclaration ou de ce renseignement.
+
+**Prêts d’étude impayés**
+
+- **(2)** Le ministre peut également prendre les mesures énoncées aux alinéas (1)a) à h) si une personne, à propos d’un prêt d’études impayé à la date d’entrée en vigueur du présent article, a fait sciemment, avant cette date, une déclaration fausse ou erronée dans une demande ou un autre document, notamment par omission, ou a fourni sciemment un renseignement faux ou trompeur, notamment par omission.
+
+**Avis**
+
+- **(3)** Il ne peut toutefois prendre une de ces mesures que s’il a donné à la personne visée un avis de soixante jours de son intention.
+
+**Observations**
+
+- **(4)** La personne visée peut présenter au ministre des observations à l’égard de la mesure.
+
+**Modification ou annulation de la mesure**
+
+- **(5)** Le ministre peut modifier la mesure ou l’annuler si des faits nouveaux lui sont présentés ou si, à son avis, la mesure a été prise avant que soit connu un fait essentiel ou a été prise sur le fondement d’une erreur relative à un tel fait.
+
+**Prescription**
+
+- **(6)** Le ministre ne peut prendre aucune mesure plus de cinq ans après la date à laquelle il a pris connaissance de la déclaration fausse ou erronée ou du renseignement faux ou trompeur.
+> 2009, ch. 2, art. 363
+
 
 
 
@@ -657,6 +731,32 @@ où :
 
 **19** Les paiements qui incombent au ministre aux termes de la présente loi, des règlements ou des accords ou arrangements conclus en vertu de la présente loi, notamment les prêts d’études qu’il consent, sont faits sur le Trésor.
 > 1994, ch. 28, art. 19; 2000, ch. 14, art. 21.
+
+
+
+
+
+**Premier rapport de l’actuaire en chef**
+
+**19.1** 
+
+- **(1)** Au plus tard le 31 juillet 2009, l’actuaire en chef du Bureau du surintendant des institutions financières établit et remet au ministre un rapport portant sur l’aide financière octroyée en vertu de la présente loi au cours de l’année de prêt qui s’est terminée le 31 juillet 2008.
+
+**Rapports subséquents**
+
+- **(2)** Par la suite, il établit et remet au ministre, au plus tard trois ans après la fin de toute année de prêt au cours de laquelle un rapport a été remis à ce dernier, un nouveau rapport portant sur l’aide financière octroyée en vertu de la présente loi au cours de la période commençant par l’année de prêt qui suit la plus récente année de prêt visée par le rapport précédent et se terminant par l’année de prêt précédant celle de la remise du nouveau rapport.
+
+**Contenu du rapport**
+
+- **(3)** Dans son rapport, l’actuaire en chef fournit notamment :
+	- **a)** une estimation actuarielle des coûts actuels de l’aide financière octroyée en vertu de la présente loi, et des revenus en découlant;
+	- **b)** une prévision actuarielle des coûts de l’aide financière à octroyer en vertu de la présente loi pendant la période de vingt-cinq ans qui suit la dernière année de prêt visée par le rapport, et des revenus en découlant;
+	- **c)** une explication de l’ensemble des hypothèses économiques et actuarielles et des méthodes actuarielles employées.
+
+**Dépôt du rapport au Parlement**
+
+- **(4)** Le ministre fait déposer le rapport devant chaque chambre du Parlement le lendemain de sa réception ou, si elle ne siège pas, dans ses quinze premiers jours de séance ultérieurs.
+> 2009, ch. 2, art. 364
 
 
 
