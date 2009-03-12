@@ -251,7 +251,7 @@ French version only***règlement*** Y sont assimilées les règles prévues par 
 - **c)** boisson visée aux alinéas a) ou b) qui est fortifiée jusqu’à concurrence de 22,9 % d’alcool éthylique absolu par volume.
 
 ***vinerie libre-service*** Local d’un exploitant autorisé de vinerie libre-service que le ministre a désigné à titre de vinerie libre-service de l’exploitant.
-> 2002, ch. 22, art. 2; 2005, ch. 38, art. 92; 2007, ch. 18, art. 67; 2008, ch. 28, art. 50.
+> 2002, ch. 22, art. 2; 2005, ch. 38, art. 92; 2007, ch. 18, art. 67; 2008, ch. 28, art. 50; 2009, ch. 2, art. 119(A).
 
 
 
@@ -3899,9 +3899,30 @@ comme si la personne avait versé, le jour postérieur visé au sous-alinéa (ii
 
 - **(1)** Les définitions qui suivent s’appliquent au présent article.
 
+***coordonnées*** En ce qui concerne le détenteur d’un numéro d’entreprise, ses nom, adresse, numéro de téléphone, numéro de télécopieur et langue de communication préférée, ou tous renseignements semblables le concernant déterminés par le ministre, y compris les renseignements de cet ordre concernant l’une ou plusieurs des entités suivantes :
+- **a)** ses fiduciaires, si le détenteur est une fiducie;
+- **b)** ses associés, s’il est une société de personnes;
+- **c)** ses cadres, s’il est une personne morale;
+- **d)** ses cadres ou membres, dans les autres cas.
+
 ***cour d’appel*** S’entend au sens de l’article 2 du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md).
 
+***entité gouvernementale***
+- **a)** Ministère ou agence du gouvernement du Canada ou d’une province;
+- **b)** municipalité;
+- **c)** gouvernement autochtone;
+- **d)** personne morale dont l’ensemble des actions du capital-actions, à l’exception des actions conférant l’admissibilité aux postes d’administrateurs, appartiennent à une ou plusieurs des personnes suivantes :
+	- **(i)** Sa Majesté,
+	- **(ii)** Sa Majesté du chef d’une province,
+	- **(iii)** une municipalité,
+	- **(iv)** une personne morale visée au présent alinéa;
+- **e)** conseil ou commission, établi par Sa Majesté ou Sa Majesté du chef d’une province ou par une municipalité, qui exerce une fonction gouvernementale ou municipale, selon le cas, d’ordre administratif ou réglementaire.
+
 ***fonctionnaire*** Personne qui est ou a été employée par Sa Majesté ou Sa Majesté du chef d’une province, qui occupe ou a occupé une fonction de responsabilité à son service ou qui est ou a été engagée par elle ou en son nom.
+
+***gouvernement autochtone*** S’entend au sens du paragraphe 2(1) de la [Loi sur les arrangements fiscaux entre le gouvernement fédéral et les provinces](/fr/Lois/Lois%20du%20Canada/1970/ch.%20F-6.md).
+
+***municipalité*** Administration métropolitaine, ville, village, canton, district, comté ou municipalité rurale constitués en personne morale ou autre organisme municipal ainsi constitué quelle qu’en soit la désignation.
 
 ***numéro d’entreprise*** Le numéro, sauf le numéro d’assurance sociale, utilisé par le ministre pour identifier :
 - **a)** un titulaire de licence, d’agrément ou d’autorisation pour l’application de la présente loi;
@@ -3914,18 +3935,32 @@ comme si la personne avait versé, le jour postérieur visé au sous-alinéa (ii
 - **a.1)** est obtenu par le ministre de la Sécurité publique et de la Protection civile ou en son nom pour l’application de l’article 68;
 - **b)** est tiré d’un renseignement visé à l’alinéa a) ou a.1).
 
-N’est pas un renseignement confidentiel le renseignement qui ne révèle pas, même indirectement, l’identité de la personne en cause.
+N’est pas un renseignement confidentiel le renseignement qui ne révèle pas, même indirectement, l’identité de la personne en cause. Par ailleurs, pour l’application des paragraphes (3), (8) et (9) au représentant d’une entité gouvernementale qui n’est pas un fonctionnaire, le terme ne vise que les renseignements mentionnés à l’alinéa (6)j).
+
+***renseignements d’entreprise*** En ce qui concerne le détenteur d’un numéro d’entreprise qui est une personne morale, sa dénomination sociale (y compris le numéro attribué par l’autorité constitutive), la date et le lieu de sa constitution ainsi que tout renseignement concernant sa dissolution, réorganisation, fusion, liquidation ou reconstitution.
+
+***renseignements relatifs à l’inscription*** En ce qui concerne le détenteur d’un numéro d’entreprise :
+- **a)** tout renseignement concernant sa forme juridique;
+- **b)** le type d’activités qu’il exerce ou se propose d’exercer;
+- **c)** la date de chacun des événements suivants :
+	- **(i)** l’attribution de son numéro d’entreprise,
+	- **(ii)** le début de ses activités,
+	- **(iii)** la cessation ou la reprise de ses activités,
+	- **(iv)** le remplacement de son numéro d’entreprise;
+- **d)** la raison de la cessation, de la reprise ou du remplacement visés aux sous-alinéas c)(iii) ou (iv).
+
+***représentant*** Est représentant d’une entité gouvernementale toute personne qui est employée par l’entité, qui occupe une fonction de responsabilité à son service ou qui est engagée par elle ou en son nom, y compris, pour l’application des paragraphes (2), (3), (8) et (9), toute personne qui a déjà été ainsi employée, a déjà occupé une telle fonction ou a déjà été ainsi engagée.
 
 **Communication de renseignements**
 
-- **(2)** Sauf autorisation prévue au présent article, il est interdit à un fonctionnaire :
+- **(2)** Sauf autorisation prévue au présent article, il est interdit à un fonctionnaire ou autre représentant d’une entité gouvernementale :
 	- **a)** de fournir sciemment à quiconque un renseignement confidentiel ou d’en permettre sciemment la fourniture;
 	- **b)** de permettre sciemment à quiconque d’avoir accès à un renseignement confidentiel;
 	- **c)** d’utiliser sciemment un renseignement confidentiel en dehors du cadre de l’exécution ou du contrôle d’application de la présente loi.
 
 **Communication de renseignements dans le cadre d’une procédure judiciaire**
 
-- **(3)** Malgré toute autre loi fédérale et toute règle de droit, nul fonctionnaire ne peut être requis, dans le cadre d’une procédure judiciaire, de témoigner, ou de produire quoi que ce soit, relativement à un renseignement confidentiel.
+- **(3)** Malgré toute autre loi fédérale et toute règle de droit, nul fonctionnaire ou autre représentant d’une entité gouvernementale ne peut être requis, dans le cadre d’une procédure judiciaire, de témoigner, ou de produire quoi que ce soit, relativement à un renseignement confidentiel.
 
 **Communication de renseignements en cours de procédures**
 
@@ -3958,13 +3993,29 @@ N’est pas un renseignement confidentiel le renseignement qui ne révèle pas, 
 	- **g)** utiliser un renseignement confidentiel en vue de compiler des renseignements sous une forme qui ne révèle pas, même indirectement, l’identité de la personne en cause;
 	- **h)** utiliser ou fournir un renseignement confidentiel, mais uniquement à une fin liée à la surveillance ou à l’évaluation d’une personne autorisée, ou à des mesures disciplinaires prises à son endroit, par Sa Majesté relativement à une période au cours de laquelle la personne autorisée était soit employée par Sa Majesté, soit engagée par elle ou en son nom, pour aider à l’exécution ou au contrôle d’application de la présente loi, dans la mesure où le renseignement a rapport à cette fin;
 	- **i)** utiliser un renseignement confidentiel concernant une personne en vue de lui fournir un renseignement;
-	- **j)** fournir, à un fonctionnaire d’un ministère ou organisme fédéral ou provincial, le numéro d’entreprise, le nom, l’adresse et les numéros de téléphone et de télécopieur d’un détenteur d’un numéro d’entreprise, mais uniquement en vue de l’exécution ou du contrôle d’application d’une loi fédérale ou provinciale, à condition que le détenteur du numéro d’entreprise soit tenu en vertu de cette loi de fournir l’information, sauf le numéro d’entreprise, au ministère ou à l’organisme;
+	- **j)** sous réserve du paragraphe (6.1), fournir au représentant d’une entité gouvernementale le numéro d’entreprise d’un détenteur de numéro d’entreprise, le nom de celui-ci (y compris tout nom commercial ou autre nom qu’il utilise) ainsi que les coordonnées, renseignements d’entreprise et renseignements relatifs à l’inscription le concernant, pourvu que les renseignements soient fournis uniquement en vue de l’exécution ou du contrôle d’application :
+		- **(i)** d’une loi fédérale ou provinciale,
+		- **(ii)** d’un règlement d’une municipalité ou d’un texte législatif d’un gouvernement autochtone;
 	- **k)** fournir un renseignement confidentiel à un policier, au sens du paragraphe 462.48(17) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md), mais uniquement en vue de déterminer si une infraction visée à cette loi a été commise ou en vue du dépôt d’une dénonciation ou d’un acte d’accusation, si, à la fois :
 		- **(i)** il est raisonnable de considérer que le renseignement est nécessaire pour confirmer les circonstances dans lesquelles une infraction au [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md) peut avoir été commise, ou l’identité d’une personne pouvant avoir commis une infraction, à l’égard d’un fonctionnaire ou de toute personne qui lui est liée,
 		- **(ii)** le fonctionnaire est ou était chargé de l’application ou de l’exécution de la présente loi,
 		- **(iii)** il est raisonnable de considérer que l’infraction est liée à l’application ou à l’exécution de la présente loi;
 	- **l)** fournir un renseignement confidentiel, ou en permettre l’examen ou l’accès, mais uniquement pour l’application d’une disposition figurant dans un accord international désigné;
 	- **m)** fournir un renseignement confidentiel à toute personne, mais uniquement en vue de permettre au statisticien en chef, au sens de l’article 2 de la [Loi sur la statistique](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-19.md), de fournir à un organisme de la statistique d’une province des données portant sur les activités d’entreprise exercées dans la province, à condition que le renseignement soit utilisé par l’organisme uniquement aux fins de recherche et d’analyse et que l’organisme soit autorisé en vertu des lois de la province à recueillir, pour son propre compte, le même renseignement ou un renseignement semblable relativement à ces activités.
+
+**Restriction — partage des renseignements**
+
+- **(6.1)** Un renseignement ne peut être fourni au représentant d’une entité gouvernementale en conformité avec l’alinéa (6)j) relativement à un programme, à une activité ou à un service offert ou entrepris par l’entité que si celle-ci utilise le numéro d’entreprise comme identificateur du programme, de l’activité ou du service.
+
+**Communication au public**
+
+- **(6.2)** Le ministre peut mettre à la disposition du public, relativement à un programme, à une activité ou à un service qu’il offre ou entreprend, le numéro d’entreprise et le nom d’un détenteur de numéro d’entreprise (y compris tout nom commercial ou autre nom qu’il utilise).
+
+**Communication au public par le représentant d’une entité gouvernementale**
+
+- **(6.3)** Le représentant d’une entité gouvernementale peut mettre à la disposition du public, relativement à un programme, à une activité ou à un service offert ou entrepris par l’entité, le numéro d’entreprise et le nom d’un détenteur de numéro d’entreprise (y compris tout nom commercial ou autre nom qu’il utilise) si, à la fois :
+	- **a)** ces renseignements ont été fournis à un représentant de l’entité en conformité avec l’alinéa (6)j);
+	- **b)** l’entité utilise le numéro d’entreprise comme identificateur du programme, de l’activité ou du service.
 
 **Mesures visant à prévenir l’utilisation ou la divulgation non autorisées d’un renseignement**
 
@@ -3976,13 +4027,13 @@ N’est pas un renseignement confidentiel le renseignement qui ne révèle pas, 
 
 **Divulgation d’un renseignement confidentiel**
 
-- **(8)** Un fonctionnaire peut fournir un renseignement confidentiel :
+- **(8)** Un fonctionnaire ou autre représentant d’une entité gouvernementale peut fournir un renseignement confidentiel :
 	- **a)** à la personne en cause;
 	- **b)** à toute autre personne, avec le consentement de la personne en cause.
 
 **Appel d’une ordonnance ou d’une directive**
 
-- **(9)** Le ministre ou la personne contre laquelle une ordonnance est rendue, ou à l’égard de laquelle une directive est donnée, dans le cadre ou à l’occasion d’une procédure judiciaire enjoignant à un fonctionnaire de témoigner, ou de produire quoi que ce soit, relativement à un renseignement confidentiel peut sans délai, par avis signifié aux parties intéressées, interjeter appel de l’ordonnance ou de la directive devant :
+- **(9)** Le ministre ou la personne contre laquelle une ordonnance est rendue, ou à l’égard de laquelle une directive est donnée, dans le cadre ou à l’occasion d’une procédure judiciaire enjoignant à un fonctionnaire ou autre représentant d’une entité gouvernementale de témoigner, ou de produire quoi que ce soit, relativement à un renseignement confidentiel peut sans délai, par avis signifié aux parties intéressées, interjeter appel de l’ordonnance ou de la directive devant :
 	- **a)** la cour d’appel de la province dans laquelle l’ordonnance est rendue ou la directive donnée, s’il s’agit d’une ordonnance ou d’une directive émanant d’une cour ou d’un autre tribunal établi en application des lois de la province, que ce tribunal exerce ou non une compétence conférée par les lois fédérales;
 	- **b)** la Cour d’appel fédérale, s’il s’agit d’une ordonnance ou d’une directive émanant d’une cour ou d’un autre tribunal établi en application des lois fédérales.
 
@@ -3993,7 +4044,7 @@ N’est pas un renseignement confidentiel le renseignement qui ne révèle pas, 
 **Sursis**
 
 - **(11)** L’application de l’ordonnance ou de la directive objet d’un appel est différée jusqu’au prononcé du jugement.
-> 2002, ch. 22, art. 211; 2005, ch. 38, art. 97 et 145; 2007, ch. 18, art. 117.
+> 2002, ch. 22, art. 211; 2005, ch. 38, art. 97 et 145; 2007, ch. 18, art. 117; 2009, ch. 2, art. 120.
 
 
 
