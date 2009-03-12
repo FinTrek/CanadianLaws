@@ -254,12 +254,12 @@
 
 **11** 
 
-- **(1)** The Chairman of the Tribunal, sitting alone, or a judicial member designated by the Chairman, sitting alone, may hear and dispose of applications under subsection 4.1(2) or (4) or 100(1), section 103.1 or 103.3 or subsection 104(1) or 104.1(7) of the [Competition Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-34.md) and any related matters.
+- **(1)** The Chairman of the Tribunal, sitting alone, or a judicial member designated by the Chairman, sitting alone, may hear and dispose of applications under subsection 100(1), section 103.1 or 103.3 or subsection 104(1) or 123.1(1) of the [Competition Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-34.md) and any related matters.
 
 **Administrative remedies**
 
 - **(2)** Applications for orders under Part VII.1 of the [Competition Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-34.md) and any related matters shall be heard and disposed of by the Chairman of the Tribunal, sitting alone, or by a judicial member designated by the Chairman, sitting alone.
-> R.S., 1985, c. 19 (2nd Supp.), s. 11; 1999, c. 2, s. 43; 2000, c. 15, s. 16; 2002, c. 16, s. 19.
+> R.S., 1985, c. 19 (2nd Supp.), s. 11; 1999, c. 2, s. 43; 2000, c. 15, s. 16; 2002, c. 16, s. 19; 2009, c. 2, s. 441.
 
 
 
