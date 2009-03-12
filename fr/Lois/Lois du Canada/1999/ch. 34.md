@@ -81,12 +81,12 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **[Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md)**
 
-- **(6)** Exception faite des articles 132 à 147 et 154.01, les dispositions de la partie X de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) ne s’appliquent pas à l’Office. Pour l’application de ces articles, toute mention de l’article 131 de cette loi vaut mention de l’article 35 de la présente loi.
+- **(6)** Exception faite des articles 113.1, 132 à 147 et 154.01, les dispositions de la partie X de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) ne s’appliquent pas à l’Office. Pour l’application de ces articles, toute mention de l’article 131 de cette loi vaut mention de l’article 35 de la présente loi.
 
 **Rapports et examens spéciaux**
 
 - **(7)** Les rapports et renseignements concernant l’Office qui sont fournis au ministre au titre des articles 132 à 147 de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md) doivent l’être également au ministre de la Défense nationale et au ministre de la Sécurité publique et de la Protection civile. Le ministre ne peut exiger un examen spécial au titre du paragraphe 138(2) de cette loi qu’après consultation de ceux-ci.
-> 1999, ch. 34, art. 3; 2003, ch. 22, art. 224(A); 2005, ch. 30, art. 47 et 50; 2006, ch. 9, art. 295.
+> 1999, ch. 34, art. 3; 2003, ch. 22, art. 224(A); 2005, ch. 30, art. 47 et 50; 2006, ch. 9, art. 295; 2009, ch. 2, art. 381.
 
 
 
@@ -182,6 +182,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 	- **b)** dont les facultés mentales ont été jugées altérées par un tribunal, même étranger;
 	- **c)** qui a le statut de failli;
 	- **d)** qui n’est pas une personne physique;
+	- **d.1)** qui est un employé de l’Office;
 	- **e)** qui est mandataire ou employée de Sa Majesté du chef du Canada;
 	- **f)** qui est membre du Sénat ou de la Chambre des communes, ou d’une législature provinciale;
 	- **g)** qui, selon le cas :
@@ -190,6 +191,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 		- **(iii)** est assujettie à un fonds ou à un régime de retraite ou de pension aux termes duquel elle peut devenir admissible à une prestation visée aux sous-alinéas (i) ou (ii);
 	- **h)** qui est employée d’un gouvernement d’un pays étranger ou de l’une de ses subdivisions politiques ou en est le mandataire;
 	- **i)** qui n’est pas résidente du Canada.
+> 1999, ch. 34, art. 6; 2009, ch. 2, art. 382.
+
 
 
 
