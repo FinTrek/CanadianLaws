@@ -7438,7 +7438,7 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 
 **DIVISION I** 
-### Definitions And Interpretation
+### Definitions and Interpretation
 
 
 
@@ -7503,7 +7503,7 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 
 
 **DIVISION II** 
-### Ownership Of Banks
+### Ownership of Banks
 
 
 
@@ -8373,6 +8373,8 @@ a shareholder or incorporator may apply to the court for an order requiring the 
 	- **(b)** acting as a financial agent;
 	- **(c)** providing investment counselling services and portfolio management services; and
 	- **(d)** issuing payment, credit or charge cards and, in cooperation with others including other financial institutions, operating a payment, credit or charge card plan.
+> 1991, c. 46, s. 409; 2009, c. 2, s. 269(F).
+
 
 
 
@@ -9820,6 +9822,17 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 
 **458.2** The Governor in Council may make regulations respecting the maximum period during which a bank may hold funds in respect of specified classes of cheques or other instruments that are deposited into an account at a branch or prescribed point of service in Canada before permitting the customer in whose name the account is kept to access the funds.
 > 2007, c. 6, s. 34.
+
+
+
+
+
+**Regulations — activities**
+
+**458.3** The Governor in Council may make regulations respecting any matters involving a bank’s dealings, or its employees’ or representatives’ dealings, with customers or the public, including
+- **(a)** what a bank may or may not do in carrying out any of the activities in which it is permitted to engage, or in providing any of the services that it may provide, under section 409 and any ancillary, related or incidental activities or services; and
+- **(b)** the time, place and manner in which any of those activities are to be carried out or any of those services are to be provided.
+> 2009, c. 2, s. 271.
 
 
 
@@ -11301,7 +11314,7 @@ would exceed 50 per cent of the regulatory capital of the bank.
 
 
 **DIVISION 1** 
-### Interpretation And Application
+### Interpretation and Application
 
 
 
@@ -11567,7 +11580,7 @@ where
 
 
 **DIVISION 2** 
-### General Prohibitions And Exceptions
+### General Prohibitions and Exceptions
 
 
 
@@ -11946,7 +11959,7 @@ maintain representative offices in Canada that are registered with the Superinte
 
 
 **DIVISION 3** 
-### No Financial Establishment In Canada
+### No Financial Establishment in Canada
 
 
 
@@ -11997,7 +12010,7 @@ may in Canada engage in the activities of a leasing entity so long as it does no
 
 
 **DIVISION 4** 
-### Financial Establishment In Canada
+### Financial Establishment in Canada
 
 
 
@@ -12452,8 +12465,7 @@ and that indirect acquisition is disclosed to the Minister in writing before the
 
 
 **DIVISION 7** 
-> [Repealed, 2007, c. 6, s. 72]
-
+### [Repealed, 2007, c. 6, s. 72]
 
 
 **522.28** [Repealed, 2007, c. 6, s. 72]
@@ -13057,7 +13069,7 @@ but before making a further order the Superintendent shall provide the authorize
 	- **(b)** acting as a financial agent;
 	- **(c)** providing investment counselling services and portfolio management services; and
 	- **(d)** issuing payment, credit or charge cards and, in cooperation with others including other financial institutions, operating a payment, credit or charge card plan.
-> 1991, c. 46, s. 538; 1996, c. 6, s. 15; 1997, c. 15, s. 88; 1999, c. 28, s. 35.
+> 1991, c. 46, s. 538; 1996, c. 6, s. 15; 1997, c. 15, s. 88; 1999, c. 28, s. 35; 2009, c. 2, s. 272(F).
 
 
 
@@ -13918,6 +13930,17 @@ For those purposes, however, ***cost of borrowing*** does not include any charge
 	- **(a)** compensation for services performed by the authorized foreign bank for the Government of Canada; or
 	- **(b)** interest to be paid on any or all deposits of the Government of Canada with the authorized foreign bank.
 > 1991, c. 46, s. 575; 1999, c. 28, s. 35; 2001, c. 34, s. 6(F).
+
+
+
+
+
+**Regulations — activities**
+
+**575.1** The Governor in Council may make regulations respecting any matters involving an authorized foreign bank’s dealings, or its employees’ or representatives’ dealings, with customers or the public, including
+- **(a)** what an authorized foreign bank may or may not do in carrying out any of the activities in which it is permitted to engage, or in providing any of the services that it may provide, under section 538 and any ancillary, related or incidental activities or services; and
+- **(b)** the time, place and manner in which any of those activities are to be carried out or any of those services are to be provided.
+> 2009, c. 2, s. 274.
 
 
 
@@ -15696,7 +15719,7 @@ together with such other information about the background, business record and e
 
 
 **DIVISION 2** 
-### Status And Powers
+### Status and Powers
 
 
 
@@ -15799,7 +15822,7 @@ together with such other information about the background, business record and e
 
 
 **DIVISION 3** 
-### Incorporation And Continuance
+### Incorporation and Continuance
 
 
 
@@ -16264,7 +16287,7 @@ that is prohibited by section 693 or 695, the Superintendent may, by order, dire
 
 
 **DIVISION 4** 
-### Organization And Commencement
+### Organization and Commencement
 
 
 
@@ -20600,7 +20623,7 @@ as are, in the opinion of the auditor, necessary to enable the auditor to perfor
 
 
 **DIVISION 8** 
-### Business And Powers
+### Business and Powers
 
 
 
@@ -21323,7 +21346,7 @@ But if the loan or investment would be precluded or limited by this Division, th
 
 
 **DIVISION 10** 
-### Adequacy Of Capital And Liquidity
+### Adequacy of Capital and Liquidity
 
 
 
@@ -21356,7 +21379,7 @@ and shall comply with any regulations in relation thereto.
 
 
 **DIVISION 11** 
-### Regulation Of Bank Holding Companies
+### Regulation of Bank Holding Companies
 
 
 
@@ -21947,6 +21970,91 @@ together with such other information about the background, business record and e
 
 - **(2)** If section 516 or 517 applies in respect of a foreign bank or an entity associated with a foreign bank, the Minister may only make an order under subsection (1) to the extent that the aggregate of the period that applied under that section and the period specified in the order under subsection (1) does not exceed twelve months.
 > 2001, c. 9, s. 183.
+
+
+
+
+
+### Orders to Exempt or Adapt
+
+
+
+**Order**
+
+**973.2** 
+
+- **(1)** On the recommendation of the Minister, the Governor in Council may, by order,
+	- **(a)** provide that any provision of this Act or the regulations shall not apply to a bank, to Her Majesty in right of Canada or an agent or agency of Her Majesty or to any other person otherwise subject to the provision; and
+	- **(b)** provide that any provision of this Act or the regulations applies to a bank, to Her Majesty in right of Canada or Her Majesty’s agent or agency or to any other person subject to the provision only in the manner and to the extent provided for in the order, and adapt the provision for the purposes of that application.
+
+**Minister’s recommendation**
+
+- **(2)** The Minister may make a recommendation under subsection (1) only if the Minister
+	- **(a)** is of the opinion that the order would relate to
+		- **(i)** the acquisition, holding, sale or other disposition of, or other dealing with, shares of a bank by, or the transfer or issue of shares of a bank to, Her Majesty in right of Canada or Her Majesty’s agent or agency, or
+		- **(ii)** the management of the business and affairs or the regulation and supervision of a bank during the time that Her Majesty or Her Majesty’s agent or agency is acquiring, holding, selling or otherwise disposing of, or otherwise dealing with, shares of the bank, or during the time that shares of the bank are transferred or issued to Her Majesty or Her Majesty’s agent or agency; and
+	- **(b)** is of the opinion — after considering measures other than an order under that subsection and after consulting with the Superintendent, the Governor of the Bank of Canada and the Chairperson of the Canada Deposit Insurance Corporation — that the order will promote the stability of the financial system in Canada.
+
+**Terms and conditions**
+
+- **(3)** On the recommendation of the Minister, the Governor in Council may, by order, impose any terms and conditions relating to the acquisition of shares of a bank by, or transfer or issue of shares of a bank to, Her Majesty in right of Canada or Her Majesty’s agent or agency.
+
+**Repeal of order under subsection (1)**
+
+- **(4)** The Minister may recommend the repeal of an order made under subsection (1) without regard to subsection (2).
+
+**Terms, conditions and undertakings**
+
+- **(5)** From the time that Her Majesty in right of Canada or an agent or agency of Her Majesty acquires shares of a bank to the time that the shares are sold or otherwise disposed of, the Minister may, by order, impose any terms and conditions on — or require any undertaking from — the bank that the Minister considers appropriate, including any terms and conditions or undertakings relating to
+	- **(a)** the remuneration of the bank’s senior officers, as defined in section 646.1, and directors;
+	- **(b)** the appointment or removal of the bank’s senior officers, as defined in section 646.1, and directors;
+	- **(c)** the payment of dividends by the bank; and
+	- **(d)** the bank’s lending policies and practices.
+
+**Acquisition**
+
+- **(6)** Despite Part X of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), the Minister or an agent or agency of Her Majesty in right of Canada may, on any terms and conditions imposed under subsection (3), acquire and hold shares of a bank on behalf of or in trust for Her Majesty if, as a result of an order under subsection (1), the bank may record in its securities register the transfer or issue of shares to Her Majesty or an agent or agency of Her Majesty.
+
+**Payment out of C.R.F.**
+
+- **(7)** On the requisition of the Minister, there may be paid out of the Consolidated Revenue Fund the amount that the Minister or an agent or agency of Her Majesty in right of Canada is required to pay for the acquisition of shares under subsection (6) and any costs and expenses incurred in connection with the acquisition, holding, sale or other disposition of, or other dealing with, the shares.
+
+**Registration of shares**
+
+- **(8)** Shares acquired under subsection (6) by the Minister or an agent or agency of Her Majesty in right of Canada shall be registered in the name of the Minister, agent or agency, as the case may be, in the bank’s securities register if they are capable of being registered in it, and the shares shall be held by the Minister, agent or agency, as the case may be, on behalf of or in trust for Her Majesty.
+
+**Disposition by Minister**
+
+- **(9)** The Minister may, at any time, sell or otherwise dispose of shares acquired under subsection (6). The [Surplus Crown Assets Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-27.md) and section 61 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) do not apply to the sale or disposition.
+
+**Disposition by agent or agency**
+
+- **(10)** An agent or agency of Her Majesty in right of Canada — at the request of the Minister, which may be made at any time — shall sell or otherwise dispose of shares acquired under subsection (6). The [Surplus Crown Assets Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-27.md) and section 61 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) do not apply to the sale or disposition.
+
+**Consideration by Minister**
+
+- **(11)** If the Minister or an agent or agency of Her Majesty in right of Canada is holding shares of a bank on behalf of or in trust for Her Majesty on the day that is two years after the day on which the shares were acquired, the Minister shall consider whether holding the shares continues to promote the stability of the financial system in Canada.
+
+**Mandatory disposition**
+
+- **(12)** If the Minister, under subsection (11), considers that holding shares acquired under subsection (6) no longer continues to promote the stability of the financial system in Canada, the Minister — or, at the request of the Minister, the agent or agency of Her Majesty in right of Canada — shall take the measures that the Minister considers practicable in the circumstances to sell or otherwise dispose of the shares. The [Surplus Crown Assets Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-27.md) and section 61 of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md) do not apply to the sale or disposition.
+
+**Not a Crown corporation**
+
+- **(13)** Even if the acquisition of a bank’s shares under subsection (6) would otherwise cause the bank to be a Crown corporation, as defined in subsection 83(1) of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), the bank is not a Crown corporation for the purposes of that Act.
+
+**[Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md)**
+
+- **(14)** The [Statutory Instruments Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-22.md) does not apply to an order made under this section.
+
+**Definition of shares**
+
+- **(15)** For the purposes of this section, ***shares*** includes any conversion or exchange privilege, option or right to acquire shares.
+
+**Bank holding company**
+
+- **(16)** For the purposes of this section, a reference to a “bank” includes a reference to a “bank holding company”, and the references to “section 646.1” in paragraphs (5)(a) and (b) are to be read, in relation to a bank holding company, as references to “section 962”.
+> 2009, c. 2, s. 275.
 
 
 
