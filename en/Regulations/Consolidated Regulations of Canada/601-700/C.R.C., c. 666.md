@@ -212,8 +212,8 @@ Enabling authorities:
 
 - **(8)** [Repealed, SOR/85-558, s. 4]
 
-- **(9)** Every certificate of registration issued after June 30, 1978 expires on June 30 in the year specified in the certificate that is not later than two years from the date of registration unless the registration is sooner cancelled.
-> SOR/79-365, s. 5; SOR/85-558, s. 4; SOR/85-688, s. 1; SOR/92-721, s. 1; SOR/96-424, s. 1; SOR/2000-184, s. 57; SOR/2004-80, s. 11; SOR/2006-147, s. 7.
+- **(9)** Every certificate of registration expires 36 months after the day on which a registration number is assigned to the fertilizer or supplement.
+> SOR/79-365, s. 5; SOR/85-558, s. 4; SOR/85-688, s. 1; SOR/92-721, s. 1; SOR/96-424, s. 1; SOR/2000-184, s. 57; SOR/2004-80, s. 11; SOR/2006-147, s. 7; SOR/2009-91, s. 1.
 
 
 
@@ -1188,15 +1188,11 @@ where such ingredients are intentionally incorporated in that fertilizer or repr
 
 
 
-### **SCHEDULE III** 
-**(Subsection 5(2))**
-FORM: FERTILIZER OR SUPPLEMENT REGISTRATION APPLICATION
+### **SCHEDULE III / ** ANNEXE III
+**(Subsection 5(2)) / *(paragraphe 5(2))***
+> Image: Fertilizer or Supplement Registration Application form
 
-
-GRAPHIC IS NOT DISPLAYED, SEE SOR/2003-6, S. 77.
-
-
-> SOR/79-365, s. 19; SOR/85-558, s. 15; SOR/88-353, s. 7; SOR/94-683, s. 3; SOR/95-548, s. 4; SOR/97-292, s. 26; SOR/2003-6, s. 77.
+> SOR/79-365, s. 19; SOR/85-558, s. 15; SOR/88-353, s. 7; SOR/94-683, s. 3; SOR/95-548, s. 4; SOR/97-292, s. 26; SOR/2003-6, s. 77; SOR/2009-91, s. 2.
 
 
 
