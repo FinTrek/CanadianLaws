@@ -254,12 +254,12 @@
 
 **11** 
 
-- **(1)** Le président, siégeant seul, ou un juge désigné par le président et siégeant seul, peut statuer sur les demandes d’ordonnance présentées en application des paragraphes 4.1(2) ou (4) ou 100(1), des articles 103.1 ou 103.3 ou des paragraphes 104(1) ou 104.1(7) de la [Loi sur la concurrence](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-34.md) ainsi que sur toute question afférente.
+- **(1)** Le président, siégeant seul, ou un juge désigné par le président et siégeant seul, peut statuer sur les demandes d’ordonnance présentées en application du paragraphe 100(1), des articles 103.1 ou 103.3 ou des paragraphes 104(1) ou 123.1(1) de la [Loi sur la concurrence](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-34.md) ainsi que sur toute question afférente.
 
 **Recours administratifs**
 
 - **(2)** Il est statué sur les demandes d’ordonnance prévues à la partie VII.1 de la [Loi sur la concurrence](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-34.md), ainsi que sur toute question s’y rattachant, par le président, siégeant seul, ou par un juge désigné par le président et siégeant seul.
-> L.R. (1985), ch. 19 (2<sup>e</sup> suppl.), art. 11; 1999, ch. 2, art. 43; 2000, ch. 15, art. 16; 2002, ch. 16, art. 19.
+> L.R. (1985), ch. 19 (2<sup>e</sup> suppl.), art. 11; 1999, ch. 2, art. 43; 2000, ch. 15, art. 16; 2002, ch. 16, art. 19; 2009, ch. 2, art. 441.
 
 
 
