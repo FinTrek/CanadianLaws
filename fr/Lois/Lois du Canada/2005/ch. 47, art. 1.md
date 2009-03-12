@@ -36,11 +36,17 @@ Sanctionnée sur le 25 novembre 2005
 
 
 
-**Sens de salaire**
+**Définitions**
 
 **2** 
 
-- **(1)** Dans la présente loi, sont assimilés au salaire les gages, la commission, la rémunération pour services fournis, l’indemnité de vacances et toute autre somme prévue par règlement. Est toutefois exclue l’indemnité de départ ou de cessation d’emploi.
+- **(1)** Les définitions qui suivent s’appliquent à la présente loi.
+
+***salaire*** Sont assimilés au salaire les gages, la commission, la rémunération pour services fournis, l’indemnité de vacances, l’indemnité de départ, l’indemnité de préavis et toute autre somme prévue par règlement.
+
+***salaire admissible***
+- **a)** Le salaire — autre que l’indemnité de départ et l’indemnité de préavis — qui a été gagné au cours de la période de six mois se terminant à la date de la faillite ou à celle de l’entrée en fonctions du séquestre;
+- **b)** l’indemnité de départ et l’indemnité de préavis se rapportant à l’emploi qui a pris fin au cours de la période mentionnée à l’alinéa a).
 
 **Employeur faisant l’objet d’une mise sous séquestre**
 
@@ -59,7 +65,7 @@ Sanctionnée sur le 25 novembre 2005
 - **(5)** Malgré le paragraphe 4(5) de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md) :
 	- **a)** pour l’application de l’alinéa 6d), il est réputé n’exister aucun lien de dépendance si le ministre est convaincu, compte tenu des circonstances, notamment des modalités d’emploi de la personne auprès de son ancien employeur, de sa rétribution, ainsi que de la durée, la nature et l’importance du travail accompli, qu’il est raisonnable de conclure que celle-ci a conclu avec lui un contrat de travail en substance pareil à celui qu’elle aurait conclu n’eût été le lien de dépendance;
 	- **b)** pour l’application du paragraphe 21(4), les personnes physiques liées entre elles sont, sauf preuve contraire, réputées avoir un lien de dépendance tant qu’elles sont ainsi liées.
-> 2005, ch. 47, art. 1 « 2 »; 2007, ch. 36, art. 83.
+> 2005, ch. 47, art. 1 « 2 »; 2007, ch. 36, art. 83; 2009, ch. 2, art. 342.
 
 
 
@@ -94,11 +100,11 @@ Sanctionnée sur le 25 novembre 2005
 **Conditions d’admissibilité**
 
 **5** Toute personne physique est admissible au versement de prestations si les conditions suivantes sont réunies :
-- **a)** son emploi auprès d’un employeur a pris fin dans les circonstances réglementaires;
+- **a)** son emploi auprès d’un employeur a pris fin pour un motif prévu par règlement;
 - **b)** son ancien employeur est en faillite ou fait l’objet d’une mise sous séquestre;
-- **c)** elle est titulaire d’une créance salariale sur son ancien employeur;
-- **d)** le salaire qui lui est dû a été gagné au cours de la période de six mois précédant la date de la faillite ou celle à laquelle le séquestre commence à agir.
-> 2005, ch. 47, art. 1 « 5 »; 2007, ch. 36, art. 84.
+- **c)** elle est titulaire d’une créance au titre du salaire admissible sur son ancien employeur.
+- **d)** [Abrogé, 2009, ch. 2, art. 343]
+> 2005, ch. 47, art. 1 « 5 »; 2007, ch. 36, art. 84; 2009, ch. 2, art. 343.
 
 
 
@@ -106,12 +112,12 @@ Sanctionnée sur le 25 novembre 2005
 
 **Exceptions**
 
-**6** La personne n’est pas admissible au versement de prestations à l’égard des salaires gagnés au cours d’une période durant laquelle, selon le cas :
+**6** La personne n’est pas admissible au versement de prestations à l’égard de tout salaire gagné au cours d’une période — ou qui s’y rapporte autrement — durant laquelle, selon le cas :
 - **a)** elle occupait un poste de dirigeant ou d’administrateur auprès de son ancien employeur;
 - **b)** elle avait une participation lui assurant le contrôle, au sens des règlements, dans les affaires de son ancien employeur;
 - **c)** elle occupait un poste de cadre, au sens des règlements, auprès de son ancien employeur;
 - **d)** elle avait un lien de dépendance avec une personne physique occupant un poste de dirigeant ou d’administrateur auprès de son ancien employeur, ou de cadre auprès de celui-ci au sens des règlements, ou avec une personne qui avait une participation lui assurant le contrôle, au sens des règlements, dans les affaires de son ancien employeur.
-> 2005, ch. 47, art. 1 « 6 »; 2007, ch. 36, art. 85.
+> 2005, ch. 47, art. 1 « 6 »; 2007, ch. 36, art. 85; 2009, ch. 2, art. 344.
 
 
 
@@ -125,18 +131,14 @@ Sanctionnée sur le 25 novembre 2005
 
 **7** 
 
-- **(1)** Le montant des prestations à verser à une personne au titre de la présente loi est égal au salaire qui lui est dû et a été gagné au cours de la période de six mois précédant la date de la faillite ou celle à laquelle le séquestre entre en fonctions, selon le cas, défalcation faite de la somme réglementaire. S’agissant d’un ancien employeur qui à la fois est en faillite et fait l’objet d’une mise sous séquestre, le salaire à retenir est le salaire le plus élevé de celui qui est déterminé dans le cas de la faillite et de celui qui est déterminé dans le cas de la mise sous séquestre.
-
-**Plafond**
-
-- **(2)** Le plafond du montant des prestations à verser à une personne est égal à la plus élevée des sommes ci-après, défalcation faite de la somme réglementaire :
-	- **a)** 3 000 $;
+- **(1)** Le montant des prestations à verser à une personne au titre de la présente loi est égal au salaire admissible qui lui est dû jusqu’à concurrence de la plus élevée des sommes ci-après, défalcation faite de toute somme réglementaire :
+	- **a)** 3 000 $;
 	- **b)** la somme correspondant à quatre fois le maximum de la rémunération hebdomadaire assurable, au sens de la [Loi sur l’assurance-emploi](/fr/Lois/Lois%20du%20Canada/1996/ch.%2023.md).
 
-**Affectation des prestations**
+**Faillite et mise sous séquestre**
 
-- **(3)** Sauf disposition réglementaire contraire, les prestations versées au titre de la présente loi ne sont affectées à l’indemnité de vacances qu’après affectation à tous les autres éléments du salaire.
-> 2005, ch. 47, art. 1 « 7 »; 2007, ch. 36, art. 86.
+- **(2)** Si l’ancien employeur à la fois est en faillite et fait l’objet d’une mise sous séquestre, le montant à verser est le plus élevé de celui qui est déterminé dans le cas de la faillite et de celui qui est déterminé dans le cas de la mise sous séquestre.
+> 2005, ch. 47, art. 1 « 7 »; 2007, ch. 36, art. 86; 2009, ch. 2, art. 345.
 
 
 
@@ -280,10 +282,10 @@ Sanctionnée sur le 25 novembre 2005
 **21** 
 
 - **(1)** Pour l’application de la présente loi, il incombe au syndic ou au séquestre, selon le cas :
-	- **a)** d’identifier chaque personne qui est titulaire d’une créance, au titre du salaire gagné au cours de la période de six mois précédant la date de la faillite ou celle à laquelle le séquestre entre en fonctions;
-	- **b)** de déterminer, pour chaque personne, le montant du salaire qui lui est dû à l’égard de la période de six mois;
+	- **a)** d’identifier chaque personne qui est titulaire d’une créance au titre du salaire admissible;
+	- **b)** de déterminer le montant du salaire admissible qui est dû à chaque personne;
 	- **c)** d’informer chaque personne, sauf celle qui fait partie d’une catégorie réglementaire, de l’existence du programme établi à l’article 4 et des conditions auxquelles les prestations peuvent être versées au titre de la présente loi;
-	- **d)** de transmettre au ministre et à chaque personne, sauf celle qui fait partie d’une catégorie réglementaire, les renseignements réglementaires la concernant et le montant du salaire qui lui est dû à l’égard de la période de six mois;
+	- **d)** de transmettre au ministre et à chaque personne, sauf celle qui fait partie d’une catégorie réglementaire, les renseignements réglementaires la concernant et le montant du salaire admissible qui lui est dû;
 	- **e)** d’informer le ministre lorsque le syndic est libéré ou que le séquestre a complété l’exécution des fonctions dont il a été chargé.
 
 **Obligation de se conformer aux instructions**
@@ -297,7 +299,7 @@ Sanctionnée sur le 25 novembre 2005
 **Obligation d’assistance — service de la paie**
 
 - **(4)** Sur demande, toute personne qui est en possession de renseignements visés à l’alinéa (1)d) ou a accès à de tels renseignements et qui fournit un service de la paie à un failli ou à une personne insolvable avec qui elle n’a aucun lien de dépendance est tenue d’indiquer au syndic ou au séquestre, selon le cas, les renseignements auxquels elle n’a pas accès et de lui fournir une estimation des frais liés à la fourniture des renseignements qu’elle a en sa possession et une estimation des frais liés à la fourniture de ceux auxquels elle a accès.
-> 2005, ch. 47, art. 1 « 21 »; 2007, ch. 36, art. 89.
+> 2005, ch. 47, art. 1 « 21 »; 2007, ch. 36, art. 89; 2009, ch. 2, art. 346.
 
 
 
@@ -583,17 +585,17 @@ Sanctionnée sur le 25 novembre 2005
 
 **41** Le gouverneur en conseil peut prendre des règlements pour l’application de la présente loi, notamment pour :
 - **a)** prévoir des sommes pour l’application du paragraphe 2(1);
-- **b)** régir les circonstances dans lesquelles un emploi prend fin pour l’application de l’alinéa 5a);
+- **b)** prévoir les motifs pour l’application de l’alinéa 5a);
 - **c)** définir les termes participation assurant le contrôle et poste de cadre pour l’application de l’article 6;
-- **d)** prévoir des sommes à défalquer pour l’application des paragraphes 7(1) et (2);
-- **e)** régir l’affectation des prestations versées aux différents éléments du salaire pour l’application du paragraphe 7(3);
+- **d)** prévoir les sommes à défalquer pour l’application du paragraphe 7(1);
+- **e)** régir l’affectation des prestations versées aux différents éléments du salaire;
 - **f)** régir les modalités — de temps et autres — applicables à la présentation des demandes de prestations visée à l’article 8;
 - **g)** régir les modalités — de temps et autres — applicables aux demandes de révision visées à l’article 11 et à la formation des appels visés à l’article 14;
 - **h)** prévoir les catégories de personnes que le syndic ou le séquestre est dispensé d’informer en application de l’alinéa 21(1)c) et celles à qui il est dispensé de transmettre les renseignements visés à l’alinéa 21(1)d);
-- **i)** préciser les renseignements que le syndic ou le séquestre est tenu de transmettre au ministre et à la personne pour l’application de l’alinéa 21(1)d), ainsi que régir les modalités — de temps et autres — applicables à leur fourniture;
+- **i)** régir les renseignements que le syndic ou le séquestre est tenu de transmettre au ministre et à la personne pour l’application de l’alinéa 21(1)d), ainsi que régir les modalités — de temps et autres — applicables à leur fourniture;
 - **j)** régir les modalités — de temps et autres — applicables à la fourniture des renseignements visés à l’alinéa 21(1)c) et aux paragraphes 21(3) et (4);
 - **k)** prévoir les honoraires et dépenses visés au paragraphe 22(2) et les circonstances dans lesquelles ils doivent être acquittés.
-> 2005, ch. 47, art. 1 « 41 »; 2007, ch. 36, art. 94.
+> 2005, ch. 47, art. 1 « 41 »; 2007, ch. 36, art. 94; 2009, ch. 2, art. 347.
 
 
 
