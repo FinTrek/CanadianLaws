@@ -680,7 +680,7 @@ shall, in addition to any other return required by the Act or these Regulations,
 	- **(e)** a payment under a deferred profit sharing plan or a plan referred to in subsection 147(15) of the Act as a revoked plan,
 	- **(f)** a payment under an income-averaging annuity contract, any proceeds of the surrender, cancellation, redemption, sale or other disposition of an income-averaging annuity contract, or any amount deemed by subsection 61.1(1) of the Act to have been received by the non-resident person as proceeds of the disposition of an income-averaging annuity contract,
 	- **(g)** an annuity payment not described in any other paragraph of this subsection or subsection (1),
-	- **(h)** a payment or a portion thereof, to which paragraph 212(1)(p) of the Act applies, out of or under a fund, plan, or trust that was on December 31, 1985 a registered home ownership savings plan (within the meaning assigned by paragraph 146.2(1)(h) of the Act as it read in its application to the 1985 taxation year),
+	- **(h)** a payment to which paragraph 212(1)(p) of the Act applies,
 	- **(i)** a payment out of or under a registered retirement income fund,
 	- **(j)** a payment that is or that would be, if paragraph 212(1)(r) of the Act were read without reference to subparagraph 212(1)(r)(ii), a payment described in that paragraph in respect of a registered education savings plan,
 	- **(k)** a grant under a program prescribed for the purposes of paragraph 212(1)(s) of the Act,
@@ -701,7 +701,7 @@ shall, in addition to any other return required by the Act or these Regulations,
 - **(7)** Subject to subsection (8), an information return required under this section shall be filed on or before March 31 and shall be in respect of the preceding calendar year.
 
 - **(8)** Where an amount referred to in subsection (1) or (2) is income of or from an estate or trust, the information return required under this section in respect thereof shall be filed within 90 days from the end of the taxation year of the estate or trust in which the amount was paid or credited and shall be in respect of that taxation year.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-487, s. 1; SOR/80-382, ss. 3, 4; SOR/81-936, s. 2; SOR/83-866, s. 3; SOR/86-522, s. 1; SOR/88-165, ss. 1, 31(F); SOR/88-395, s. 1; SOR/93-527, s. 2; SOR/94-686, ss. 50(F), 78(F); SOR/99-22, s. 4; SOR/2000-13, s. 1; SOR/2001-216, s. 10(F); SOR/2003-5, s. 2; SOR/2005-123, s. 1.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-487, s. 1; SOR/80-382, ss. 3, 4; SOR/81-936, s. 2; SOR/83-866, s. 3; SOR/86-522, s. 1; SOR/88-165, ss. 1, 31(F); SOR/88-395, s. 1; SOR/93-527, s. 2; SOR/94-686, ss. 50(F), 78(F); SOR/99-22, s. 4; SOR/2000-13, s. 1; SOR/2001-216, s. 10(F); SOR/2003-5, s. 2; SOR/2005-123, s. 1; 2009, c. 2, s. 83.
 
 
 
@@ -727,9 +727,10 @@ shall, in addition to any other return required by the Act or these Regulations,
 	- **(b)** governed by an employees profit sharing plan;
 	- **(c)** a registered charity;
 	- **(d)** governed by an eligible funeral arrangement;
-	- **(d.1)** a cemetery care trust; or
-	- **(e)** governed by a registered education savings plan.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/88-165, s. 31(F); SOR/94-686, s. 51(F); SOR/96-283, s. 2; SOR/99-22, s. 5; SOR/2000-13, s. 2; SOR/2001-216, s. 10(F).
+	- **(d.1)** a cemetery care trust;
+	- **(e)** governed by a registered education savings plan; or
+	- **(f)** governed by a TFSA or by an arrangement that is deemed by paragraph 146.2(9)(a) of the Act to be a TFSA.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/88-165, s. 31(F); SOR/94-686, s. 51(F); SOR/96-283, s. 2; SOR/99-22, s. 5; SOR/2000-13, s. 2; SOR/2001-216, s. 10(F); 2009, c. 2, s. 84.
 
 
 
@@ -836,14 +837,14 @@ shall, in addition to any other return required by the Act or these Regulations,
 
 **209** 
 
-- **(1)** Every person who is required by section 200, 201, 202, 204, 208, 212, 214, 215, 217, 218, 223, 226, 227, 228, 229, 230, 232, 233 or 234 to make an information return shall forward to each taxpayer to whom the return relates two copies of the portion of the return that relates to that taxpayer.
+- **(1)** A person who is required by section 200, 201, 202, 204, 208, 212, 214, 215, 217 or 218, subsection 223(2) or section 228, 229, 230, 232, 233 or 234 to make an information return shall forward to each taxpayer to whom the return relates two copies of the portion of the return that relates to that taxpayer.
 
 - **(2)** The copies referred to in subsection (1) shall be sent to the taxpayer at his last known address or delivered to him in person, on or before the date the return is required to be filed with the Minister.
 
 - **(3)** A person may send a document, as required under subsection (1), in an electronic format if the person has received the express consent of the taxpayer, and in that case, the person shall send a single copy to the taxpayer, on or before the date on which the return referred to in subsection (1) is to be filed with the Minister.
 
 - **(4)** In subsection (3), ***express consent*** means consent given in writing or in an electronic format.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/85-160, s. 1; SOR/87-512, s. 1; SOR/89-519, s. 1; SOR/92-455, s. 1; SOR/93-527, s. 3; SOR/2003-5, s. 4.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/85-160, s. 1; SOR/87-512, s. 1; SOR/89-519, s. 1; SOR/92-455, s. 1; SOR/93-527, s. 3; SOR/2003-5, s. 4; 2009, c. 2, s. 85.
 
 
 
@@ -922,10 +923,10 @@ shall, in addition to any other return required by the Act or these Regulations,
 
 - **(5)** If a payment or transfer of property to which paragraph 146(16)(b) of the Act applies is made from a plan, the issuer of the plan shall make an information return in prescribed form in respect of the payment or transfer.
 
-- **(6)** [Repealed, SOR/2003-5, s. 5]
+- **(6)** Where an amount may be deducted under subsection 146(8.92) of the Act in computing the income of a deceased annuitant under a registered retirement savings plan, the issuer of the plan shall make an information return in prescribed form in respect of the amount.
 
 - **(7)** In this section, ***annuitant*** and ***issuer*** have the meanings assigned by subsection 146(1) of the Act.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/80-502, s. 3; SOR/83-866, s. 5; SOR/88-165, s. 31(F); SOR/92-51, s. 3; SOR/2001-188, s. 2; SOR/2003-5, s. 5; SOR/2005-264, s. 1.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/80-502, s. 3; SOR/83-866, s. 5; SOR/88-165, s. 31(F); SOR/92-51, s. 3; SOR/2001-188, s. 2; SOR/2003-5, s. 5; SOR/2005-264, s. 1; 2009, c. 2, s. 86.
 
 
 
@@ -965,7 +966,9 @@ shall, in addition to any other return required by the Act or these Regulations,
 - **(4)** Where an amount is deemed under subsection 146.3(6) or (12) of the Act to be received by an annuitant out of or under a registered retirement income fund, the carrier of the fund shall make an information return in prescribed form in respect of the amount.
 
 - **(5)** If a transfer of an amount to which subsection 146.3(14) of the Act applies is made from a fund, the carrier of the fund shall make an information return in prescribed form in respect of the transfer.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/84-948, s. 1; SOR/84-967, s. 1; SOR/88-165, s. 31(F); SOR/2003-5, s. 6; SOR/2005-264, s. 2.
+
+- **(6)** Where an amount may be deducted under subsection 146.3(6.3) of the Act in computing the income of a deceased annuitant under a registered retirement income fund, the carrier of the fund shall make an information return in prescribed form in respect of the amount.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/84-948, s. 1; SOR/84-967, s. 1; SOR/88-165, s. 31(F); SOR/2003-5, s. 6; SOR/2005-264, s. 2; 2009, c. 2, s. 87.
 
 
 
@@ -1058,10 +1061,10 @@ shall, in addition to any other return required by the Act or these Regulations,
 	- **(h)** a small business investment trust (within the meaning assigned by subsection 5103(1)).
 	- **(i)** [Repealed, SOR/2005-264, s. 4]
 
-- **(2)** Where in any taxation year a reporting person (other than a registered investment) claims that a share of its capital stock issued by it, or an interest as a beneficiary under it, is a qualified investment under section 146, 146.1, 146.3, 204 or 205 of the Act, the reporting person shall, in respect of the year and within 90 days after the end of the year, make an information return in prescribed form.
+- **(2)** Where in any taxation year a reporting person (other than a registered investment) claims that a share of its capital stock issued by it, or an interest as a beneficiary under it, is a qualified investment under section 146, 146.1, 146.3, 204, 205 or 207.01 of the Act, the reporting person shall, in respect of the year and within 90 days after the end of the year, make an information return in prescribed form.
 
 - **(3)** [Repealed, SOR/2005-264, s. 4]
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/85-160, s. 2; SOR/88-165, s. 31(F); SOR/94-686, s. 79(F); SOR/2000-62, s. 1; SOR/2001-216, s. 1; SOR/2005-264, s. 4; 2007, c. 35, s. 125.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/85-160, s. 2; SOR/88-165, s. 31(F); SOR/94-686, s. 79(F); SOR/2000-62, s. 1; SOR/2001-216, s. 1; SOR/2005-264, s. 4; 2007, c. 35, s. 125; 2009, c. 2, s. 88.
 
 
 
@@ -1073,31 +1076,19 @@ shall, in addition to any other return required by the Act or these Regulations,
 
 
 
-### Registered Home Ownership Savings Plans
+### TFSAs
 
 
 **223** 
 
-- **(1)** Every person who, before May 23, 1985, pays an amount out of or under a registered home ownership savings plan to a resident of Canada as a beneficiary under the plan shall make an information return in prescribed form.
+- **(1)** An issuer of a TFSA shall make an information return for each calendar year in prescribed form in respect of the TFSA.
 
-- **(2)** Every trustee or depositary that is party to a registered home ownership savings plan the registration of which is revoked during a taxation year pursuant to subsection 146.2(7) or (7.1) of the Act shall make an information return in prescribed form with respect to any amount that is deemed by subsection 146.2(8) of the Act to have been received by the beneficiary of that plan.
+- **(2)** An issuer of a TFSA who makes a payment of an amount that is required because of paragraph 146.2(9)(b) of the Act to be included in computing the income of a taxpayer for a taxation year shall make an information return in prescribed form.
 
-- **(3)** Every trustee or depositary that is party to a registered home ownership savings plan, the beneficiary of which is a resident of Canada and has been deemed by subsection 146.2(9) of the Act to have received an amount during a taxation year and before May 23, 1985, shall make an information return in prescribed form.
-
-- **(3.1)** Every trustee or depositary that, after May 22, 1985 and before 1986, was a party to a registered home ownership savings plan, any of the income of which is required by subsection 146.2(22) of the Act to be included in computing the income of a taxpayer for the 1985 taxation year, shall make an information return in prescribed form.
-
-- **(4)** Every trustee of a trust governed by a registered home ownership savings plan shall make an information return in prescribed form, where in a taxation year a taxpayer who is a beneficiary under the plan
-	- **(a)** is required pursuant to subsection 146.2(12) or (15) of the Act to include an amount in computing his income; or
-	- **(b)** is allowed pursuant to subsection 146.2(13) or (16) of the Act to deduct an amount in computing his income.
-
-- **(5)** In this section,
-
-***beneficiary*** has the meaning assigned by paragraph 146.2(1)(a) of the Act as it read in its application to the 1985 taxation year; (*bénéficiaire*)
-
-***depositary*** has the meaning assigned by subparagraph 146.2(1)(d)(ii) of the Act as it read in its application to the 1985 taxation year; (*dépositaire*)
-
-***registered home ownership savings plan*** has the meaning assigned by paragraph 146.2(1)(h) of the Act as it read in its application to the 1985 taxation year. (*régime enregistré d’épargne-logement*)
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/83-866, s. 6; SOR/86-522, s. 2; SOR/88-165, s. 31(F).
+- **(3)** An issuer of a TFSA that governs a trust shall notify the holder of the TFSA in prescribed form and manner before March of a calendar year if, at any time during the preceding calendar year,
+	- **(a)** the trust acquires or disposes of property that is a non-qualified investment for the trust; or
+	- **(b)** property held by the trust becomes or ceases to be a non-qualified investment for the trust.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/83-866, s. 6; SOR/86-522, s. 2; SOR/88-165, s. 31(F); 2009, c. 2, s. 89.
 
 
 
@@ -1648,7 +1639,7 @@ is of
 **304** 
 
 - **(1)** For the purposes of this Part and subsections 12.2(1), (3) and (4) and paragraph 148(2)(b) of the Act, prescribed annuity contract for a taxation year means
-	- **(a)** an annuity contract purchased pursuant to a registered pension plan, a registered retirement savings plan, a deferred profit sharing plan or a plan referred to in subsection 147(15) of the Act as a revoked plan;
+	- **(a)** an annuity contract that is, or is issued pursuant to, an arrangement described in any of paragraphs 148(1)(a) to (b.2) and (d) of the Act;
 	- **(b)** an annuity contract described in paragraph 148(1)(c) or (e) of the Act; and
 	- **(c)** an annuity contract
 		- **(i)** under which annuity payments have commenced in the taxation year or a preceding taxation year,
@@ -1689,7 +1680,7 @@ is of
 - **(4)** In this section, ***annuitant*** under an annuity contract, at any time, means a person who, at that time, is entitled to receive annuity payments under the contract.
 
 - **(5)** For the purpose of this section, ***spouse*** and ***former spouse*** of a particular individual include another individual who is a party to a void or voidable marriage with the particular individual.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/82-499, s. 3; SOR/83-865, s. 5; SOR/86-488, s. 1; SOR/88-165, s. 2; SOR/88-319, s. 1; SOR/94-415, s. 1; SOR/94-686, s. 2(F); SOR/2001-188, s. 3; SOR/2001-216, s. 10(F); SOR/2007-116, s. 1.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/82-499, s. 3; SOR/83-865, s. 5; SOR/86-488, s. 1; SOR/88-165, s. 2; SOR/88-319, s. 1; SOR/94-415, s. 1; SOR/94-686, s. 2(F); SOR/2001-188, s. 3; SOR/2001-216, s. 10(F); SOR/2007-116, s. 1; 2009, c. 2, s. 90.
 
 
 
@@ -1922,7 +1913,19 @@ unless any part of such increase is attributable to a prescribed premium paid in
 
 **400** 
 
-- **(1)** For the purposes of paragraph 124(4)(a) of the Act, a corporation’s ***taxable income earned in the year in a province*** means the aggregate of the taxable incomes of the corporation earned in the year in each of the provinces.
+- **(1)** In applying the definition ***taxable income earned in the year in a province*** in subsection 124(4) of the Act for a corporation’s taxation year
+	- **(a)** the prescribed rules referred to in that definition are the rules in this Part; and
+	- **(b)** the amount determined under those prescribed rules means the total of all amounts each of which is the taxable income of the corporation earned in the taxation year in a particular province as determined under this Part.
+
+- **(1.1)** In this Part, a corporation’s taxable income for a taxation year is equal to the total of
+	- **(a)** the corporation’s taxable income for the taxation year (determined without reference to this subsection) or the corporation’s taxable income earned in Canada for the taxation year, as the case may be, and
+	- **(b)** the positive or negative amount determined by the formula
+```
+A – B
+```
+where
+- **A** is the total of all amounts that are, because of the application of section 33.1 of the Act, not required to be added in computing the corporation’s income for the taxation year, and
+- **B** is the total of all amounts that are, because of the application of section 33.1 of the Act, not allowed to be deducted in computing the corporation’s income for the taxation year.
 
 - **(2)** For the purposes of this Part, ***permanent establishment*** in respect of a corporation means a fixed place of business of the corporation, including an office, a branch, a mine, an oil well, a farm, a timberland, a factory, a workshop or a warehouse, and
 	- **(a)** where the corporation does not have any fixed place of business it means the principal place in which the corporation’s business is conducted;
@@ -1930,9 +1933,10 @@ unless any part of such increase is attributable to a prescribed premium paid in
 	- **(c)** an insurance corporation is deemed to have a permanent establishment in each province and country in which the corporation is registered or licensed to do business;
 	- **(d)** where a corporation, otherwise having a permanent establishment in Canada, owns land in a province, such land shall be deemed to be a permanent establishment;
 	- **(e)** where a corporation uses substantial machinery or equipment in a particular place at any time in a taxation year it shall be deemed to have a permanent establishment in that place;
+	- **(e.1)** if, but for this paragraph, a corporation would not have a permanent establishment, the corporation is deemed to have a permanent establishment at the place designated in its incorporating documents or bylaws as its head office or registered office;
 	- **(f)** the fact that a corporation has business dealings through a commission agent, broker or other independent agent or maintains an office solely for the purchase of merchandise shall not of itself be held to mean that the corporation has a permanent establishment; and
 	- **(g)** the fact that a corporation has a subsidiary controlled corporation in a place or a subsidiary controlled corporation engaged in trade or business in a place shall not of itself be held to mean that the corporation is operating a permanent establishment in that place.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-772, s. 1; SOR/81-267, s. 1; SOR/86-390, s. 1; SOR/94-140, s. 1; SOR/94-686, ss. 4(F), 57(F), 79(F).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-772, s. 1; SOR/81-267, s. 1; SOR/86-390, s. 1; SOR/94-140, s. 1; SOR/94-686, ss. 4(F), 57(F), 79(F); 2009, c. 2, s. 91.
 
 
 
@@ -1941,8 +1945,8 @@ unless any part of such increase is attributable to a prescribed premium paid in
 ### Computation of Taxable Income
 
 
-**401** The amount of taxable income of a corporation earned in a year in a particular province shall be determined in accordance with the provisions of this Part.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-686, s. 79(F).
+**401** This Part applies to determine the amount of taxable income of a corporation earned in a taxation year in a particular province.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-686, s. 79(F); 2009, c. 2, s. 92.
 
 
 
@@ -2023,21 +2027,37 @@ is of
 
 
 
-### Transitional — Taxable Income Earned in the 1978 Taxation Year in the Northwest Territories
+### Central Paymaster
 
 
-**402.1** Where in its 1978 taxation year a corporation had a permanent establishment in the Northwest Territories, its taxable income earned in the year in the Northwest Territories is that proportion of the amount thereof otherwise determined in accordance with this Part that the number of days in that portion of the 1978 taxation year of the corporation that is in 1978 is of the number of days in the whole of that taxation year.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-772, s. 2; SOR/94-686, s. 79(F).
+**402.1** 
+
+- **(1)** In this Part, if an individual (referred to in this section as the “employee”) is employed by a person (referred to in this section as the “employer”) and performs a service in a particular province for the benefit of or on behalf of a corporation that is not the employer, an amount that may reasonably be regarded as equal to the amount of salary or wages earned by the employee for the service (referred to in this section as the “particular salary”) is deemed to be salary paid by the corporation to an employee of the corporation in the corporation’s taxation year in which the particular salary is paid if
+	- **(a)** at the time the service is performed,
+		- **(i)** the corporation and the employer do not deal at arm’s length, and
+		- **(ii)** the corporation has a permanent establishment in the particular province;
+	- **(b)** the service
+		- **(i)** is performed by the employee in the normal course of the employee’s employment by the employer,
+		- **(ii)** is performed for the benefit of or on behalf of the corporation in the ordinary course of a business carried on by the corporation, and
+		- **(iii)** is of a type that could reasonably be expected to be performed by employees of the corporation in the ordinary course of the business referred to in subparagraph (ii); and
+	- **(c)** the amount is not otherwise included in the aggregate, determined for the purposes of this Part, of the salaries and wages paid by the corporation.
+
+- **(2)** In this Part, an amount deemed under subsection (1) to be salary paid by a corporation to an employee of the corporation for a service performed in a particular province is deemed to have been paid,
+	- **(a)** if the service was performed at one or more permanent establishments of the corporation in the particular province, to an employee of the permanent establishment or establishments; or
+	- **(b)** if paragraph (a) does not apply, to an employee of any other permanent establishment (as is reasonably determined in the circumstances) of the corporation in the particular province.
+
+- **(3)** In determining under this Part the amount of salaries and wages paid in a year by an employer, there shall be deducted the total of all amounts each of which is a particular salary paid by the employer in the year.
+
+- **(4)** Despite subparagraph (1)(a)(i), this section applies to a corporation and an employer that deal at arm’s length if the Minister determines that the corporation and the employer have entered into an arrangement the purpose of which is to reduce, through the provision of services as described in subsection (1), the total amount of income tax payable by the corporation under a law of the particular province referred to in subsection (1).
+
+- **(5)** For the purposes of this section, a partnership is deemed to be a corporation and the corporation’s taxation year is deemed to be the partnership’s fiscal period.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-772, s. 2; SOR/94-686, s. 79(F); 2009, c. 2, s. 93.
 
 
 
 
-
-### Transitional — Taxable Income Earned in the 1980 Taxation Year in the Yukon Territory
-
-
-**402.2** Where in its 1980 taxation year a corporation had a permanent establishment in the Yukon Territory, its taxable income earned in the year in the Yukon Territory is that proportion of the amount thereof otherwise determined in accordance with this Part that the number of days in that portion of the 1980 taxation year of the corporation that is in 1980 is of the number of days in the whole of that taxation year.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-267, s. 2; SOR/94-686, s. 79(F).
+**402.2** [Repealed, 2009, c. 2, s. 93]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-267, s. 2; SOR/94-686, s. 79(F); 2009, c. 2, s. 93.
 
 
 
@@ -2062,7 +2082,9 @@ by the corporation.
 - **(3)** For the purposes of subsection (1), where an insurance corporation had no permanent establishment in a taxation year in a particular province,
 	- **(a)** each net premium for that year in respect of insurance on property situated in the particular province shall be deemed to be a net premium in respect of insurance on property situated in the province in which the permanent establishment of the corporation to which the net premium is reasonably attributable is situated; and
 	- **(b)** each net premium for that year in respect of insurance, other than on property, from contracts with persons resident in the particular province shall be deemed to be a net premium in respect of insurance, other than on property, from contracts with persons resident in the province in which the permanent establishment of the corporation to which the net premium is reasonably attributable is situated.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-686, ss. 5(F), 57(F).
+
+- **(4)** For the purposes of subsection (1), if in a taxation year an insurance corporation has no permanent establishment in a particular country other than Canada, but provides insurance on property in the particular country or has a contract for insurance, other than on property, with a person resident in the particular country, each net premium for the taxation year in respect of the insurance is deemed to be a net premium in respect of insurance on property situated in, or from contracts with persons resident in, as the case may be, the province in Canada or country other than Canada in which is situated the permanent establishment of the corporation to which the net premium is reasonably attributable in the circumstances.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-686, ss. 5(F), 57(F); 2009, c. 2, s. 94.
 
 
 
@@ -2245,26 +2267,93 @@ in that place.
 
 **413** 
 
-- **(1)** For the purposes of this Part, where a corporation is not resident in Canada, “salaries and wages paid in the year” by the corporation does not include salaries and wages paid to employees of a permanent establishment outside Canada and “taxable income” shall be deemed to refer to taxable income earned in Canada as determined under section 115 of the Act.
+- **(1)** In this Part, if a corporation is not resident in Canada, “salaries and wages paid in the year” by the corporation does not include salaries and wages paid to employees of a permanent establishment outside Canada.
 
 - **(2)** For the purposes of paragraph 402(3)(a), where a corporation is not resident in Canada, “total gross revenue for the year” of the corporation does not include gross revenue reasonably attributable to a permanent establishment outside Canada.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-686, s. 79(F).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-686, s. 79(F); 2009, c. 2, s. 95.
 
 
 
 
 
-### Nova Scotia Offshore Area
+### International Banking Centre Exception
 
 
-**414** For the purpose of subsection 123(2) of the Act, the ***amount taxable earned by the corporation in the year in the Nova Scotia offshore area***, in respect of a corporation for a taxation year, means the amount of taxable income of the corporation earned in the year that would be allocated under this Part to the Nova Scotia offshore area if the reference to the word “province” in this Part were read as “Nova Scotia offshore area”.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/85-741, s. 1; SOR/94-686, s. 79(F).
+**413.1** Despite any other provision in this Part, a corporation’s taxable income earned in a taxation year in a particular province is equal to the total of
+- **(a)** the corporation’s taxable income earned in the taxation year in the particular province (determined without reference to this section), and
+- **(b)** the positive or negative amount determined by the formula
+```
+A – B
+```
+where
+- **A** is the total of all amounts that are, because of the application of section 33.1 of the Act to a business carried on in a branch or office situated in the particular province, not allowed to be deducted in computing the corporation’s income for the taxation year, and
+- **B** is the total of all amounts that are, because of the application of section 33.1 of the Act to a business carried on in a branch or office situated in the particular province, not required to be added in computing the corporation’s income for the taxation year.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; 2009, c. 2, s. 96.
 
 
 
 
-**415** For the purposes of this Part and subsection 123(2) of the Act, ***Nova Scotia offshore area*** has the meaning assigned to the expression “offshore area” by subsection 63(1) of the Canada-Nova Scotia Oil and Gas Agreement Act.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/85-741, s. 1.
+
+### Provincial SIFT Tax Rate
+
+
+**414** 
+
+- **(1)** The following definitions apply in this section.
+
+***general corporate income tax rate***, in a province for a taxation year, means
+- **(a)** for Quebec, 0%;
+- **(b)** for the Newfoundland offshore area, the highest percentage rate of tax imposed under the laws of Newfoundland and Labrador on the taxable income of a public corporation earned in the taxation year in Newfoundland and Labrador;
+- **(c)** for the Nova Scotia offshore area, the highest percentage rate of tax imposed under the laws of Nova Scotia on the taxable income of a public corporation earned in the taxation year in Nova Scotia; and
+- **(d)** for each other province, the highest percentage rate of tax imposed under the laws of the province on the taxable income of a public corporation earned in the taxation year in the province. (*taux général d’imposition du revenu des sociétés*)
+
+***province*** includes the Newfoundland offshore area and the Nova Scotia offshore area. (*province*)
+
+***taxable SIFT distributions***, for a taxation year, means
+- **(a)** in the case of a SIFT trust, its non-deductible distributions amount for the taxation year; and
+- **(b)** in the case of a SIFT partnership, its taxable non-portfolio earnings for the taxation year. (*montant des distributions imposables*)
+
+- **(2)** In determining the amount of a SIFT trust’s or SIFT partnership’s taxable SIFT distributions for a taxation year earned in a province
+	- **(a)** except as provided in paragraph (b), this Part applies in respect of the SIFT trust or SIFT partnership as though
+		- **(i)** each reference to “corporation” (other than in the expression “subsidiary controlled corporation”) were read as a reference to “SIFT trust” or “SIFT partnership”, as the case may be,
+		- **(ii)** each reference to “taxable income” were read as a reference to “taxable SIFT distributions”,
+		- **(iii)** each reference to “its incorporating documents or bylaws” were read as a reference to “the agreement governing the SIFT trust” or “the agreement governing the SIFT partnership”, as the case may be, and
+		- **(iv)** “subsidiary controlled corporation” in respect of a SIFT trust or a SIFT partnership meant a corporation more than 50% of the issued share capital of which (having full voting rights under all circumstances) belongs to the SIFT trust or SIFT partnership, as the case may be; and
+	- **(b)** subsection 400(1), section 401, subsections 402(1) and (2) and sections 403 to 413 do not apply.
+
+- **(3)** Subject to subsection (4), in applying the definition ***provincial SIFT tax rate*** in subsection 248(1) of the Act in respect of a SIFT trust or SIFT partnership for a taxation year, the prescribed amount determined in respect of the SIFT trust or SIFT partnership for the taxation year is
+	- **(a)** if the SIFT trust or SIFT partnership has no permanent establishment in a province in the taxation year, 0.10;
+	- **(b)** if the SIFT trust or SIFT partnership has a permanent establishment in a province in the taxation year and has no permanent establishment outside that province in the taxation year, the decimal fraction equivalent of the general corporate income tax rate in the province for the taxation year; and
+	- **(c)** if the SIFT trust or SIFT partnership has a permanent establishment in the taxation year in a province, and has a permanent establishment outside that province in the taxation year, the amount, expressed as a decimal fraction, determined by the formula
+```
+A + B
+```
+where
+- **A** is the total of all amounts, if any, each of which is in respect of a province in which the SIFT trust or SIFT partnership has a permanent establishment in the taxation year and is determined by the formula
+```
+C/D × E
+```
+where
+- **C** is its taxable SIFT distributions for the taxation year earned in the province,
+- **D** is its total taxable SIFT distributions for the taxation year, and
+- **E** is the decimal fraction equivalent of the general corporate income tax rate in the province for the taxation year, and
+- **B** is the amount determined by the formula
+```
+(1 – F/D) × 0.1
+```
+where
+- **F** is the total of all amounts each of which is an amount determined under the description of C in the description of A in respect of a province in which the SIFT trust or SIFT partnership has a permanent establishment in the taxation year.
+
+- **(4)** If a SIFT trust or a SIFT partnership has a permanent establishment in Quebec in a taxation year, paragraph (a) of the definition ***general corporate income tax rate*** in subsection (1) does not apply in determining the prescribed amount under subsection (3) in respect of the SIFT trust or the SIFT partnership for the taxation year for the purposes of applying the definition ***provincial SIFT tax rate*** in determining:
+	- **(a)** in the case of the SIFT partnership, the amount of a dividend deemed by paragraph 96(1.11)(b) of the Act to have been received by it in the taxation year; and
+	- **(b)** in the case of the SIFT trust, the amount of its taxable SIFT trust distributions for the taxation year.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/85-741, s. 1; SOR/94-686, s. 79(F); 2009, c. 2, s. 97.
+
+
+
+
+**415** [Repealed, 2009, c. 2, s. 97]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/85-741, s. 1; 2009, c. 2, s. 97.
 
 
 
@@ -5689,7 +5778,9 @@ where
 
 
 **DIVISION 2** 
-### Policy Reserves for Pre-1996 Policies
+### Amounts Determined
+> [[NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ]
+
 
 
 
@@ -5700,10 +5791,10 @@ where
 
 **1401** 
 
-- **(1)** For the purpose of subparagraph 138(3)(a)(i) of the Act, in computing a life insurer’s income for a taxation year from carrying on its life insurance business in Canada, there may be deducted in respect of
-	- **(a)** deposit administration fund policies, such amount as the insurer may claim that is a reasonable amount in respect of the aggregate of the insurer’s liabilities under the policies as at the end of the year and does not exceed the aggregate of the insurer’s liabilities under those policies calculated in the manner required for the purposes of the insurer’s annual report to the relevant authority for the year or, where the insurer was throughout the year subject to the supervision of the relevant authority but was not required to file an annual report with the relevant authority for the year, in its financial statements for the year;
-	- **(b)** a group term life insurance policy that provides coverage for a period not exceeding 12 months, such amount as the insurer may claim not exceeding the unearned portion of the premium paid by the policyholder for the policy at the end of the year determined by apportioning the premium paid by the policyholder equally over the period to which that premium pertains;
-	- **(c)** a life insurance policy, other than a policy referred to in paragraph (a) or (b), such amount as the insurer may claim not exceeding the greater of
+- **(1)** For the purposes of section 307 of the Regulations and subsection 211.1(3) of the Act, the amounts determined under this subsection are,
+	- **(a)** in respect of deposit administration fund policies, the aggregate of the insurer’s liabilities under those policies calculated in the manner required for the purposes of the insurer’s annual report to the relevant authority for the year or, where the insurer was throughout the year subject to the supervision of the relevant authority but was not required to file an annual report with the relevant authority for the year, in its financial statements for the year;
+	- **(b)** in respect of a group term life insurance policy that provides coverage for a period not exceeding 12 months, the unearned portion of the premium paid by the policyholder for the policy at the end of the year determined by apportioning the premium paid by the policyholder equally over the period to which that premium pertains;
+	- **(c)** in respect of a life insurance policy, other than a policy referred to in paragraph (a) or (b), the greater of
 		- **(i)** the amount, if any, by which
 			- **(A)** the cash surrender value of the policy at the end of the yearexceeds
 			- **(B)** the aggregate of all amounts each of which is an amount payable in respect of a policy loan outstanding at the end of the year in respect of the policy or the interest thereon that has accrued to the insurer at the end of the year, and
@@ -5711,13 +5802,13 @@ where
 			- **(A)** the present value at the end of the year of the future benefits provided by the policyexceeds the aggregate of
 			- **(B)** the present value at the end of the year of any future modified net premiums in respect of the policy, and
 			- **(C)** the aggregate of all amounts each of which is an amount payable in respect of a policy loan outstanding at the end of the year in respect of the policy or the interest thereon that has accrued to the insurer at the end of the year;
-	- **(c.1)** a group life insurance policy, such amount as the insurer may claim as an amount (other than an amount in respect of which a deduction may be claimed by the insurer pursuant to subsection 140(1) of the Act by reason of subparagraph 138(3)(a)(v) of the Act in computing its income for the year) in respect of a dividend, refund of premiums or refund of premium deposits provided for under the terms of the policy that will be used by the insurer to reduce or eliminate a future adverse claims experience under the policy or that will be paid or unconditionally credited to the policyholder by the insurer or applied in discharge, in whole or in part, of a liability of the policyholder to pay premiums to the insurer, not exceeding the least of
+	- **(c.1)** in respect of a group life insurance policy, the amount (other than an amount in respect of which a deduction may be claimed by the insurer pursuant to subsection 140(1) of the Act because of subparagraph 138(3)(a)(v) of the Act in computing its income for the year) in respect of a dividend, refund of premiums or refund of premium deposits provided for under the terms of the policy that will be used by the insurer to reduce or eliminate a future adverse claims experience under the policy or that will be paid or unconditionally credited to the policyholder by the insurer or applied in discharge, in whole or in part, of a liability of the policyholder to pay premiums to the insurer, which is the least of
 		- **(i)** a reasonable amount in respect of such a dividend, refund of premiums or refund of premium deposits,
 		- **(ii)** 25 per cent of the amount of the premium payable under the terms of the policy for the 12-month period ending
 			- **(A)** if the policy is terminated in the year, on the day the policy is terminated, and
 			- **(B)** in any other case, at the end of the year, and
-		- **(iii)** the amount of the reserve or liability in respect of such a dividend, refund of premiums or refund of premium deposits reported by the insurer in its annual report for the year to the relevant authority or, where the insurer was throughout the year subject to the supervision of the relevant authority for the year but was not required to file an annual report with the relevant authority for the year, in its financial statements for the year;
-	- **(d)** a policy, other than a policy referred to in paragraph (a), such amount as the insurer may claim in respect of a benefit, risk or guarantee that is
+		- **(iii)** the amount of the reserve or liability in respect of such a dividend, refund of premiums or refund of premium deposits reported by the insurer in its annual report for the year to the relevant authority or, where the insurer was throughout the year subject to the supervision of the relevant authority for the year but was not required to file an annual report with the relevant authority for the year, in its financial statements for the year; and
+	- **(d)** in respect of a policy, other than a policy referred to in paragraph (a), in respect of a benefit, risk or guarantee that is
 		- **(i)** an accidental death benefit,
 		- **(ii)** a disability benefit,
 		- **(iii)** an additional risk as a result of insuring a substandard life,
@@ -5728,38 +5819,17 @@ where
 		- **(viii)** any other benefit that is ancillary to the policy, subject to the prior approval of the Minister on the advice of the Superintendent of Insurance for Canada,
 but is not
 		- **(ix)** a benefit, risk or guarantee in respect of which an amount has been claimed under any other paragraph of this subsection, other than paragraphs (d.1) and (d.2), by the insurer as a deduction in computing its income for the year,
-not exceeding the lesser of
+equal to the lesser of
 		- **(x)** a reasonable amount in respect of the benefit, risk or guarantee, and
-		- **(xi)** the reserve in respect of the benefit, risk or guarantee, reported by the insurer in its annual report to the relevant authority for the year or, where the insurer was throughout the year subject to the supervision of the relevant authority but was not required to file an annual report with the relevant authority for the year, in its financial statements for the year;
-	- **(d.1)** a policy referred to in paragraph (b) where, after the end of the year, a claim under the policy is made in respect of a death that occurred before the end of the year, such amount as the insurer may claim, not exceeding the lesser of
-		- **(i)** the present value, at the end of the year, of the payments to be made in respect of the claim made under the policy or such estimate of such payments to be made in respect of the claim as is reasonable in the circumstances, and
-		- **(ii)** 95 per cent of the amount of the reserve in respect of the claim reported by the insurer in its annual report to the relevant authority for the year or, where the insurer was throughout the year subject to the supervision of the relevant authority for the year but was not required to file an annual report with the relevant authority for the year, in its financial statements for the year;
-	- **(d.2)** a policy referred to in paragraph (c) where, after the end of the year, a claim under the policy is made in respect of a death that occurred before the end of the year, such amount as the insurer may claim, not exceeding the lesser of
-		- **(i)** the amount, if any, by which
-			- **(A)** the present value, at the end of the year, of the payments to be made in respect of the claim made under the policy or such estimate of such payments to be made in respect of the claim as is reasonable in the circumstancesexceeds
-			- **(B)** the maximum amounts that may be claimed by the insurer for the year in respect of the policy under paragraph (c) or (d), and
-		- **(ii)** 95 per cent of the amount of the reserve in respect of the claim reported by the insurer in its annual report to the relevant authority for the year or, where the insurer was throughout the year subject to the supervision of the relevant authority but was not required to file an annual report with the relevant authority for the year, in its financial statements for the year; and
-	- **(e)** a qualified annuity, such amount as the insurer may claim not exceeding the amount, if any, by which
-		- **(i)** the amount that would have been determined pursuant to paragraph (c) for the year if the rate of interest used (or deemed by section 1403 to have been used) by the insurer in determining the premium for the annuity were reduced by one-half of one percentage point,
-exceeds
-		- **(ii)** the maximum amount that may be claimed by the insurer in respect of the annuity under paragraph (c).
+		- **(xi)** the reserve in respect of the benefit, risk or guarantee, reported by the insurer in its annual report to the relevant authority for the year or, where the insurer was throughout the year subject to the supervision of the relevant authority but was not required to file an annual report with the relevant authority for the year, in its financial statements for the year.
+	- **(d.1) to (e)** [Repealed, 2009, c. 2, s. 99]
 
-- **(1.1)** An amount may be deducted under subsection (1) only in respect of a life insurance policy in Canada that is a pre-1996 life insurance policy.
+- **(1.1)** [Repealed, 2009, c. 2, s. 99]
 
 - **(2)** For the purposes of subsection (1), (except in respect of subparagraph (d)(vii) thereof), any amount claimed by an insurer for the year shall not include an amount in respect of a liability of a segregated fund (within the meaning assigned ***segregated fund*** by section 138.1 of the Act).
 
-- **(3)** In computing the amount that a life insurer may deduct under subparagraph 138(3)(a)(i) of the Act in computing its taxable income for a taxation year, there shall be deducted from the aggregate of the amounts determined under subsection (1), the aggregate of all amounts each of which is the lesser of the following amounts determined in respect of a life insurance policy referred to in paragraph (1)(c):
-	- **(a)** the amount, if any, by which
-		- **(i)** the amount that would be determined under clause (1)(c)(i)(B) in respect of the policy
-exceeds
-		- **(ii)** the amount that would be determined under clause (1)(c)(i)(A) in respect of the policy, and
-	- **(b)** the amount, if any, by which
-		- **(i)** the aggregate of the amounts that would be determined under clauses (1)(c)(ii)(B) and (C) in respect of the policy
-exceeds
-		- **(ii)** the amount that would be determined under clause (1)(c)(ii)(A) in respect of the policy.
-
-- **(4)** For the purpose of subparagraph 138(3)(a)(ii) of the Act, there may be deducted, in computing a life insurer’s income for a taxation year, the amount it claims as a reserve in respect of unpaid claims received by it before the end of the year under life insurance policies in Canada that are pre-1996 life insurance policies, not exceeding the present value at the end of the year, computed using a rate of interest that is reasonable in the circumstances, of a reasonable amount in respect of those unpaid claims.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-425, s. 1; SOR/80-618, s. 3; SOR/84-948, s. 8; SOR/86-1136, s. 2; SOR/90-661, s. 3; SOR/92-681, s. 3(F); SOR/94-415, s. 5; SOR/94-686, s. 13(F); SOR/99-269, s. 4; SOR/2002-123, s. 1.
+- **(3) and (4)** [Repealed, 2009, c. 2, s. 99]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-425, s. 1; SOR/80-618, s. 3; SOR/84-948, s. 8; SOR/86-1136, s. 2; SOR/90-661, s. 3; SOR/92-681, s. 3(F); SOR/94-415, s. 5; SOR/94-686, s. 13(F); SOR/99-269, s. 4; SOR/2002-123, s. 1; 2009, c. 2, s. 99.
 
 
 
@@ -5844,59 +5914,58 @@ the Minister, on the request of the insurer and with the advice of the relevant 
 
 
 **DIVISION 4** 
-### Policy Reserves For Post-1995 Policies
-
-
-
-#### Life Insurance Business
+### Life Insurance Policy Reserves
 
 
 **1404** 
 
-- **(1)** For the purpose of subparagraph 138(3)(a)(i) of the Act, there may be deducted, in computing a life insurer’s income from carrying on its life insurance business in Canada for a taxation year in respect of its life insurance policies in Canada that are post-1995 life insurance policies, the amount the insurer claims, not exceeding
-	- **(a)** the amount determined under subsection (3) in respect of the insurer for the year, where that amount is greater than nil, and
+- **(1)** For the purpose of subparagraph 138(3)(a)(i) of the Act, there may be deducted, in computing a life insurer’s income from carrying on its life insurance business in Canada for a taxation year in respect of its life insurance policies in Canada, the amount the insurer claims, not exceeding
+	- **(a)** the amount determined under subsection (3) in respect of the insurer for the year, where that amount is greater than nil; and
 	- **(b)** nil, in any other case.
 
-- **(2)** For the purpose of paragraph 138(4)(b) of the Act, the amount prescribed in respect of an insurer for a taxation year, in respect of its life insurance policies in Canada that are post-1995 life insurance policies, is
-	- **(a)** the absolute value of the amount determined under subsection (3) in respect of the insurer for the year, where that amount is less than nil, and
+- **(2)** For the purpose of paragraph 138(4)(b) of the Act, the amount prescribed in respect of an insurer for a taxation year, in respect of its life insurance policies in Canada, is
+	- **(a)** the absolute value of the amount determined under subsection (3) in respect of the insurer for the year, where that amount is less than nil; and
 	- **(b)** nil, in any other case.
 
-- **(3)** For the purposes of paragraphs (1)(a) and (2)(a), the amount determined under this subsection in respect of an insurer for a taxation year, in respect of its life insurance policies in Canada that are post-1995 life insurance policies, is the amount, which may be positive or negative, determined by the formula
+- **(3)** For the purposes of paragraphs (1)(a) and (2)(a), the amount determined under this subsection in respect of an insurer for a taxation year, in respect of its life insurance policies in Canada, is the amount, which may be positive or negative, determined by the formula
 ```
-A + B + C + D - M
+A + B + C + D – M
 ```
 where
-- **A** is the amount (except to the extent the amount is determined in respect of a claim, premium, dividend or refund in respect of which an amount is included in determining the value of B, C or D), in respect of the insurer’s life insurance policies in Canada that are post-1995 life insurance policies, equal to the lesser of
+- **A** is the amount (except to the extent the amount is determined in respect of a claim, premium, dividend or refund in respect of which an amount is included in determining the value of B, C or D), in respect of the insurer’s life insurance policies in Canada, equal to the lesser of
 - **(a)** the total of the reported reserves of the insurer at the end of the year in respect of those policies, and
 - **(b)** the total of the policy liabilities of the insurer at the end of the year in respect of those policies;
-- **B** is the amount, in respect of the insurer’s life insurance policies in Canada that are post-1995 life insurance policies under which there may be claims incurred before the end of the year that have not been reported to the insurer before the end of the year, equal to 95% of the lesser of
+- **B** is the amount, in respect of the insurer’s life insurance policies in Canada under which there may be claims incurred before the end of the year that have not been reported to the insurer before the end of the year, equal to 95% of the lesser of
 - **(a)** the total of the reported reserves of the insurer at the end of the year in respect of the possibility that there are such claims, and
 - **(b)** the total of the policy liabilities of the insurer at the end of the year in respect of the possibility that there are such claims;
-- **C** Cis the total of all amounts each of which is the unearned portion at the end of the year of the premium paid by the policyholder for the policy where the policy is a group term life insurance policy that
-- **(a)** provides coverage for a period that does not exceed 12 months,
-- **(b)** is a life insurance policy in Canada, and
-- **(c)** is a post-1995 life insurance policy,determined by apportioning the premium paid by the policyholder equally over the period to which that premium relates;
-- **D** is the total of all amounts (other than an amount deductible under subparagraph 138(3)(a)(v) of the Act) each of which is the amount, which is the least of P, Q and R, in respect of a dividend, refund of premiums or refund of premium deposits provided for under the terms of a group life insurance policy that is a life insurance policy in Canada that is a post-1995 life insurance policy that will be
+- **C** is the total of all amounts each of which is the unearned portion at the end of the year of the premium paid by the policyholder for the policy, determined by apportioning the premium paid by the policyholder equally over the period to which that premium relates, where the policy is a group term life insurance policy that
+- **(a)** provides coverage for a period that does not exceed 12 months, and
+- **(b)** is a life insurance policy in Canada;
+- **D** is the total of all amounts (other than an amount deductible under subparagraph 138(3)(a)(v) of the Act) each of which is the amount, which is the least of P, Q and R, in respect of a dividend, refund of premiums or refund of premium deposits provided for under the terms of a group life insurance policy that is a life insurance policy in Canada that will be
 - **(a)** used by the insurer to reduce or eliminate a future adverse claims experience under the policy,
 - **(b)** paid or unconditionally credited to the policyholder by the insurer, or
 - **(c)** applied in discharge, in whole or in part, of a liability of the policyholder to pay premiums to the insurer under the policy,where
+```
+
+```
+
 - **P** is a reasonable amount as a reserve determined as at the end of the year in respect of the dividend, refund of premiums or refund of premium deposits provided for under the terms of the policy,
 - **Q** is 25% of the amount of the premium under the terms of the policy for the 12-month period ending
-- **(i)** on the day the policy is terminated, if the policy is terminated in the year, and
-- **(ii)** at the end of the year, in any other case, and
+- **(a)** on the day the policy is terminated, if the policy is terminated in the year, and
+- **(b)** at the end of the year, in any other case, and
 - **R** is the amount of the reported reserve of the insurer at the end of the year in respect of the dividend, refund of premiums or refund of premium deposits provided for under the terms of the policy; and
-- **M** is the total of all amounts determined in respect of a life insurance policy in Canada that is a post-1995 life insurance policy each of which is (a) an amount payable in respect of a policy loan under the policy, or (b) interest that has accrued to the insurer to the end of the year in respect of a policy loan under the policy.
-
-- **(4)** [Repealed, SOR/2002-123, s. 4]
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ;  SOR/79-425, s. 1; SOR/80-419, s. 3; SOR/83-865, s. 6; SOR/84-948, s. 9; SOR/88-165, ss. 9, 30(F); SOR/90-661, s. 5; SOR/92-51, s. 8; SOR/93-564, s. 1; SOR/94-415, s. 7; SOR/94-686, ss. 55(F), 56(F), 79(F); SOR/96-443, s. 2; SOR/99-269, s. 6; SOR/2002-123, ss. 3, 4.
-
-
+- **M** is the total of all amounts determined in respect of a life insurance policy in Canada each of which is
+- **(a)** an amount payable in respect of a policy loan under the policy, or
+- **(b)** interest that has accrued to the insurer to the end of the year in respect of a policy loan under the policy.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ;  SOR/79-425, s. 1; SOR/80-419, s. 3; SOR/83-865, s. 6; SOR/84-948, s. 9; SOR/88-165, ss. 9, 30(F); SOR/90-661, s. 5; SOR/92-51, s. 8; SOR/93-564, s. 1; SOR/94-415, s. 7; SOR/94-686, ss. 55(F), 56(F), 79(F); SOR/96-443, s. 2; SOR/99-269, s. 6; SOR/2002-123, ss. 3, 4; 2009, c. 2, s. 100.
 
 
-**1405** For the purpose of subparagraph 138(3)(a)(ii) of the Act, there may be deducted in computing a life insurer’s income for a taxation year the amount it claims as a reserve in respect of an unpaid claim received by the insurer before the end of the year under a life insurance policy in Canada that is a post-1995 life insurance policy, not exceeding the lesser of
+
+
+**1405** For the purpose of subparagraph 138(3)(a)(ii) of the Act, there may be deducted, in computing a life insurer’s income for a taxation year, the amount it claims as a reserve in respect of an unpaid claim received by the insurer before the end of the year under a life insurance policy in Canada, not exceeding the lesser of
 - **(a)** the reported reserve of the insurer at the end of the year in respect of the claim, and
 - **(b)** the policy liability of the insurer at the end of the year in respect of the claim.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-425, s. 1; SOR/94-686, s. 79(F); SOR/99-269, s. 6.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-425, s. 1; SOR/94-686, s. 79(F); SOR/99-269, s. 6; 2009, c. 2, s. 100.
 
 
 
@@ -5967,7 +6036,9 @@ exceeds
 
 ***lapse-supported policy*** means a life insurance policy that would require materially higher premiums if premiums were determined using policy lapse rates that are zero after the fifth policy year. (*police fondée sur les déchéances*)
 
-***life insurance policy in Canada*** means a life insurance policy issued or effected by an insurer on the life of a person resident in Canada at the time the policy was issued or effected. (*police d’assurance-vie au Canada*)
+***life insurance policy*** has the same meaning as defined in subsection 138(12) of the Act. (*police d’assurance-vie*)
+
+***life insurance policy in Canada*** has the same meaning as defined in subsection 138(12) of the Act. (*police d’assurance-vie au Canada*)
 
 ***modified net premium***, in respect of a premium under a policy (other than a prepaid premium under a policy that cannot be refunded except on termination of the policy), means
 - **(a)** where all benefits (other than policy dividends) and premiums (other than the frequency of payment of premiums) in respect of the policy are determined at the date of issue of the policy, the amount determined by the formula
@@ -6073,7 +6144,7 @@ exceeds
 	- **(g)** a change in the amount of a benefit under the policy that is granted by the insurer on a class basis, where
 		- **(i)** no consideration was payable by the policyholder or any other person for the change, and
 		- **(ii)** the change was not made because of the terms or conditions of the policy or any other policy or contract to which the insurer is a party.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/99-269, s. 6; SOR/2002-123, ss. 2, 3.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/99-269, s. 6; SOR/2002-123, ss. 2, 3; 2009, c. 2, s. 101.
 
 
 
@@ -7211,7 +7282,12 @@ exceeds
 
 
 - **(7)** For greater certainty, a particular property or a particular proportion of a property shall not, directly or indirectly, be used or included more than once in determining, for a particular taxation year, the Canadian equity property or the equity property of a person or partnership.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-670, s. 4; SOR/88-392, s. 4; SOR/90-661, s. 6; SOR/94-686, ss. 55(F), 62, 79(F); SOR/2000-413, s. 2.
+
+### Transition Year
+
+
+- **(8)** A computation that is required to be made under this Part in respect of an insurer’s taxation year that included September 30, 2006 and that is relevant to a computation (in this subsection referred to as the “transition year computation”) that is required to be made under this Part in respect of the insurer’s first taxation year that begins after that date shall, for the purposes only of the transition year computation, be made using the same definitions, rules and methodologies that are used in the transition year computation.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-670, s. 4; SOR/88-392, s. 4; SOR/90-661, s. 6; SOR/94-686, ss. 55(F), 62, 79(F); SOR/2000-413, s. 2; 2009, c. 2, s. 102.
 
 
 
@@ -7980,7 +8056,9 @@ on every amount of tax payable within that range;
 
 **2600** 
 
-- **(1)** For the purposes of paragraph 120(4)(a) of the Act, ***income earned in the year in a province*** by an individual means the aggregate of his incomes earned in the taxation year in each province as determined in accordance with this Part.
+- **(1)** In applying the definition ***income earned in the year in a province*** in subsection 120(4) of the Act for an individual’s taxation year
+	- **(a)** the prescribed rules referred to in that definition are the rules in this Part; and
+	- **(b)** the amount determined under those prescribed rules means the total of all amounts each of which is the individual’s income earned in the taxation year in a particular province as determined under this Part.
 
 - **(2)** In this Part, ***permanent establishment*** means a fixed place of business of the individual, including an office, a branch, a mine, an oil well, a farm, a timberland, a factory, a workshop or a warehouse, and
 	- **(a)** where an individual carries on business through an employee or agent, established in a particular place, who has general authority to contract for his employer or principal or who has a stock of merchandise owned by his employer or principal from which he regularly fills orders which he receives, the individual shall be deemed to have a permanent establishment in that place;
@@ -7988,7 +8066,7 @@ on every amount of tax payable within that range;
 	- **(c)** the fact that an individual has business dealings through a commission agent, broker or other independent agent or maintains an office solely for the purchase of merchandise, shall not of itself be held to mean that the individual has a permanent establishment.
 
 - **(3)** [Repealed, SOR/81-267, s. 3]
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-772, s. 3; SOR/81-267, s. 3; SOR/94-686, s. 20(F).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-772, s. 3; SOR/81-267, s. 3; SOR/94-686, s. 20(F); 2009, c. 2, s. 103.
 
 
 
@@ -8719,6 +8797,41 @@ section 3501 shall not apply and the copy of the portion of the return, relating
 - **(a)** Friends of the Nature Conservancy of Canada, Inc., a charity established in the United States; and
 - **(b)** The Nature Conservancy, a charity established in the United States.
 > [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/86-488, s. 6; SOR/94-140, s. 11; SOR/94-686, s. 51(F); SOR/2007-74, s. 2.
+
+
+
+
+
+### Conditions
+
+
+**3505** 
+
+- **(1)** The following conditions are prescribed in respect of a donee for the purposes of paragraph 110.1(8)(e) of the Act:
+	- **(a)** the donee has applied to the Minister for International Cooperation (or, if there is no such Minister, the Minister responsible for the Canadian International Development Agency) for a determination that the conditions described in this section have been met;
+	- **(b)** medicines received by the donee for use in charitable activities outside Canada are
+		- **(i)** delivered outside Canada by the donee for use in its charitable activities, or
+		- **(ii)** transferred to another registered charity that would meet the conditions contained in this section if that registered charity were a donee described in subsection 110.1(8) of the Act;
+	- **(c)** in the course of delivering medicines outside Canada for use in its charitable activities, the donee acts in a manner consistent with the principles and objectives of the inter-agency Guidelines for Drug Donations issued by the World Health Organization, as amended from time to time, (referred to in this section as “the WHO Guidelines”);
+	- **(d)** the donee has sufficient expertise in delivering medicines for use in charitable activities carried on outside Canada;
+	- **(e)** the donee carries on a program that includes delivering medicines for use in charitable activities carried on outside Canada and that is
+		- **(i)** an international development assistance program, or
+		- **(ii)** an international humanitarian assistance program, responding to situations of international humanitarian crisis (resulting from either natural disaster or complex emergency); and
+	- **(f)** the donee has sufficient expertise to design, implement and monitor each program described in subparagraph (e)(i) or (ii) that it carries on, unless the donee has declared that it will not deliver medicines in that program.
+
+- **(2)** Without limiting the application of the WHO Guidelines, for the purposes of paragraph (1)(c), a donee does not act in a manner consistent with the principles and objectives of those guidelines if the donee’s directors, trustees, officers or like officials have not
+	- **(a)** approved a policy and procedural framework, under which the donee is required to act in a manner consistent with the WHO Guidelines; and
+	- **(b)** declared that the donee acts in compliance with that policy and procedural framework.
+
+- **(3)** A donee is considered not to have sufficient expertise for the purpose of a program to which paragraph (1)(d) or (e) applies if
+	- **(a)** the program does not address the specific and differentiated needs, interests and vulnerabilities of affected women and men, girls and boys;
+	- **(b)** the program does not incorporate, in the design of projects under the program, consideration for environmental effects of those projects; or
+	- **(c)** the donee does not have policies and practices for the design, implementation and monitoring of the program.
+
+- **(4)** The Minister referred to in subsection (1) may
+	- **(a)** rely on any information or evidence in making a determination under subsection (1); and
+	- **(b)** require the donee to provide any other information or evidence that that Minister considers relevant and sufficient for the purpose of this section.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; 2009, c. 2, s. 104.
 
 
 
@@ -9520,7 +9633,7 @@ that group shall, subject to subsection (4), be deemed to be one person for the 
 
 **4900** 
 
-- **(1)** For the purposes of paragraph (d) of the definition ***qualified investment*** in subsection 146(1) of the Act, paragraph (e) of the definition ***qualified investment*** in subsection 146.1(1) of the Act, paragraph (c) of the definition ***qualified investment*** in subsection 146.3(1) of the Act, paragraph (h) of the definition ***qualified investment*** in section 204 of the Act and paragraph (d) of the definition ***qualified investment*** in subsection 205(1) of the Act, each of the following investments is prescribed as a qualified investment for a plan trust at a particular time if at that time it is
+- **(1)** For the purposes of paragraph (d) of the definition ***qualified investment*** in subsection 146(1) of the Act, paragraph (e) of the definition ***qualified investment*** in subsection 146.1(1) of the Act, paragraph (c) of the definition ***qualified investment*** in subsection 146.3(1) of the Act, paragraph (h) of the definition ***qualified investment*** in section 204 of the Act, paragraph (d) of the definition ***qualified investment*** in subsection 205(1) of the Act and paragraph (c) of the definition ***qualified investment*** in subsection 207.01(1) of the Act, each of the following investments is prescribed as a qualified investment for a plan trust at a particular time if at that time it is
 	- **(a)** an interest in a trust or a share of the capital stock of a corporation that was a registered investment for the plan trust during the calendar year in which the particular time occurs or the immediately preceding year;
 	- **(b)** a share of the capital stock of a public corporation other than a mortgage investment corporation;
 	- **(c)** a share of the capital stock of a mortgage investment corporation that does not hold as part of its property at any time during the calendar year in which the particular time occurs any indebtedness, whether by way of mortgage or otherwise, of a person who is a connected person under the governing plan of the plan trust;
@@ -9638,10 +9751,11 @@ and a credit union shall be deemed to have granted a benefit or privilege to a p
 		- **(i)** that is of a minimum fineness of 995 parts per 1000 in the case of gold and 999 parts per 1000 in the case of silver,
 		- **(ii)** that was produced by a metal refiner included in the London Bullion Market Association’s good delivery list of acceptable refiners for gold or silver, as the case may be,
 		- **(iii)** that bears the hallmark of the metal refiner that produced it and a stamp indicating its fineness and its weight, and
-		- **(iv)** that is acquired by the plan trust either directly from the metal refiner that produced it or from a specified corporation; or
+		- **(iv)** that is acquired by the plan trust either directly from the metal refiner that produced it or from a specified corporation;
 	- **(v)** a certificate issued by a specified corporation or the Royal Canadian Mint representing a claim of the holder of the certificate to property held by the issuer of the certificate, where
 		- **(i)** the property would be property described in paragraph (t) or (u) if those paragraphs were read without reference to subparagraphs (t)(iv) and (u)(iv), respectively, and
-		- **(ii)** the certificate is acquired by the plan trust directly from the issuer of the certificate or from a specified corporation.
+		- **(ii)** the certificate is acquired by the plan trust directly from the issuer of the certificate or from a specified corporation; or
+	- **(w)** an American Depositary Receipt where the property represented by the receipt is listed on a designated stock exchange.
 
 - **(2)** For the purposes of paragraph (c.1) of the definition ***qualified investment*** in section 204 of the Act, each of the following is a prescribed credit rating agency:
 	- **(a)** A.M. Best Company, Inc.;
@@ -9654,7 +9768,7 @@ and a credit union shall be deemed to have granted a benefit or privilege to a p
 
 - **(4)** [Repealed, SOR/2001-216, s. 6]
 
-- **(5)** For the purposes of paragraph (e) of the definition ***qualified investment*** in subsection 146.1(1) of the Act and paragraph (d) of the definition ***qualified investment*** in subsection 205(1) of the Act, a property is prescribed as a qualified investment for a trust governed by a registered education savings plan or a trust governed by a registered disability savings plan at any time if at that time the property is an interest in a trust or a share of the capital stock of a corporation that was a registered investment for a trust governed by a registered retirement savings plan during the calendar year in which that time occurs or during the preceding year.
+- **(5)** For the purposes of paragraph (e) of the definition ***qualified investment*** in subsection 146.1(1) of the Act, paragraph (d) of the definition ***qualified investment*** in subsection 205(1) of the Act and paragraph (c) of the definition ***qualified investment*** in subsection 207.01(1) of the Act, a property is prescribed as a qualified investment for a trust governed by a registered disability savings plan, a registered education savings plan or a TFSA at any time if at that time the property is an interest in a trust or a share of the capital stock of a corporation that was a registered investment for a trust governed by a registered retirement savings plan during the calendar year in which that time occurs or during the preceding year.
 
 - **(6)** Subject to subsections (8) and (9), for the purposes of paragraph (d) of the definition ***qualified investment*** in subsection 146(1) of the Act, paragraph (e) of the definition ***qualified investment*** in subsection 146.1(1) of the Act and paragraph (c) of the definition ***qualified investment*** in subsection 146.3(1) of the Act, a property is prescribed as a qualified investment for a trust governed by a registered retirement savings plan, a registered education savings plan and a registered retirement income fund at any time if at that time the property is
 	- **(a)** a share of the capital stock of an eligible corporation (within the meaning assigned by subsection 5100(1)), unless a person who is an annuitant, a beneficiary or a subscriber under the plan or fund is a designated shareholder of the corporation;
@@ -9700,7 +9814,7 @@ that holds a small business security of a corporation,
 the interest referred to in subparagraphs (a)(i) and (ii) shall not be a qualified investment for the trust referred to in paragraph (a).
 
 - **(12)** For the purposes of paragraph (d) of the definition ***qualified investment*** in subsection 146(1) of the Act, paragraph (e) of the definition ***qualified investment*** in subsection 146.1(1) of the Act and paragraph (c) of the definition ***qualified investment*** in subsection 146.3(1) of the Act, a property is prescribed as a qualified investment for a trust governed by a registered retirement savings plan, a registered education savings plan or a registered retirement income fund at any time if, at the time the property was acquired by the trust,
-	- **(a)** the property was a share of the capital stock of a corporation (other than a cooperative corporation) that would, at that time or at the end of the last taxation year of the corporation ending before that time, be a small business corporation if the expression “Canadian-controlled private corporation” in the definition ***small business corporation*** in subsection 248(1) of the Act were read as “Canadian corporation (other than a corporation controlled at that time, directly or indirectly in any manner whatever, by one or more non-resident persons)”,
+	- **(a)** the property was a share of the capital stock of a specified small business corporation,
 	- **(b)** the property was a share of the capital stock of a venture capital corporation described in any of sections 6700, 6700.1 or 6700.2, or
 	- **(c)** the property was a qualifying share in respect of a specified cooperative corporation and the plan or fund
 and, immediately after the time the property was acquired by the trust, each person who is an annuitant, a beneficiary or a subscriber under the plan or fund at that time was not a connected shareholder of the corporation.
@@ -9717,7 +9831,14 @@ the issuer of the share or a person related to that issuer,
 		- **(i)** on account of, or in lieu or in satisfaction of, payment for the services to or for the issuer or the person related to the issuer, or
 		- **(ii)** in respect of the acquisition of the goods from, or the services provided by, the issuer or the person related to the issuer,
 the share shall, immediately before the amount is received, cease to be and shall not thereafter be a qualified investment for the trust.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-725, s. 4; SOR/83-819, s. 1; SOR/85-202, s. 1; SOR/86-390, s. 2; SOR/86-1092, s. 12(F); SOR/88-165, s. 24(F); SOR/92-660, s. 2; SOR/94-471, s. 1; SOR/94-472, s. 1; SOR/94-686, ss. 26(F), 72(F), 74(F), 75(F), 78(F), 79(F); SOR/95-513, s. 1; SOR/96-450, s. 1; SOR/98-250, s. 1; SOR/99-9, s. 1; SOR/99-81, s. 1; SOR/99-102, s. 1; SOR/2001-216, ss. 6, 10(F),11(F); SOR/2001-289, s. 8(E); SOR/2005-264, s. 6; 2007, c. 29, s. 32, c. 35, ss. 89, 126; SOR/2007-212, s. 2.
+
+- **(14)** For the purposes of paragraph (c) of the definition ***qualified investment*** in subsection 207.01(1) of the Act, a property is prescribed as a qualified investment for a trust governed by a TFSA at any time if, at the time the property was acquired by the trust, the property
+	- **(a)** was
+		- **(i)** a share of the capital stock of a specified small business corporation,
+		- **(ii)** a share of the capital stock of a venture capital corporation described in any of sections 6700 to 6700.2, or
+		- **(iii)** a qualifying share in respect of a specified cooperative corporation and the TFSA; and
+	- **(b)** was not a prohibited investment for the trust.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-725, s. 4; SOR/83-819, s. 1; SOR/85-202, s. 1; SOR/86-390, s. 2; SOR/86-1092, s. 12(F); SOR/88-165, s. 24(F); SOR/92-660, s. 2; SOR/94-471, s. 1; SOR/94-472, s. 1; SOR/94-686, ss. 26(F), 72(F), 74(F), 75(F), 78(F), 79(F); SOR/95-513, s. 1; SOR/96-450, s. 1; SOR/98-250, s. 1; SOR/99-9, s. 1; SOR/99-81, s. 1; SOR/99-102, s. 1; SOR/2001-216, ss. 6, 10(F),11(F); SOR/2001-289, s. 8(E); SOR/2005-264, s. 6; 2007, c. 29, s. 32, c. 35, ss. 89, 126; SOR/2007-212, s. 2; 2009, c. 2, s. 105.
 
 
 
@@ -9734,46 +9855,48 @@ the share shall, immediately before the amount is received, cease to be and shal
 
 - **(2)** In this Part,
 
-***allocation in proportion to patronage*** has the meaning assigned by subsection 135(4) of the Act; (*répartition proportionnelle à l’apport commercial*)
+***allocation in proportion to patronage*** has the meaning assigned by subsection 135(4) of the Act; (*répartition proportionnelle à l’apport commercial*)
 
-***connected person***, in relation to a governing plan of a plan trust, means a person who is an annuitant, a beneficiary, an employer or a subscriber under, or a holder of, the governing plan and any person who does not deal at arms’s length with that person; (*personne rattachée*)
+***connected person*** under a governing plan of a plan trust means a person who is an annuitant, a beneficiary, an employer or a subscriber under, or a holder of, the governing plan and any person who does not deal at arm’s length with that person; (*personne rattachée*)
 
-***connected shareholder*** of a corporation at any time is a person (other than an exempt person in respect of the corporation) who owns, directly or indirectly, at that time, not less than 10% of the issued shares of any class of the capital stock of the corporation or of any other corporation that is related to the corporation and, for the purposes of this definition,
+***connected shareholder*** of a corporation at any time is a person (other than an exempt person in respect of the corporation) who owns, directly or indirectly, at that time, not less than 10% of the issued shares of any class of the capital stock of the corporation or of any other corporation that is related to the corporation and, for the purposes of this definition,
 - **(a)** paragraphs (a) to (e) of the definition ***specified shareholder*** in subsection 248(1) of the Act apply, and
-- **(b)** an exempt person in respect of a corporation is a person who deals at arm’s length with the corporation where the total of all amounts, each of which is the cost amount of any share of the capital stock of the corporation, or of any other corporation that is related to it, that the person owns or is deemed to own for the purposes of the definition ***specified shareholder*** in subsection 248(1) of the Act, is less than $25,000; (*actionnaire rattaché*)
+- **(b)** an exempt person in respect of a corporation is a person who deals at arm’s length with the corporation where the total of all amounts, each of which is the cost amount of any share of the capital stock of the corporation, or of any other corporation that is related to it, that the person owns or is deemed to own for the purposes of the definition ***specified shareholder*** in subsection 248(1) of the Act, is less than $25,000; (*actionnaire rattaché*)
 
-***consumer goods or services*** has the meaning assigned by subsection 135(4) of the Act; (*marchandises de consommation ou services*)
+***consumer goods or services*** has the meaning assigned by subsection 135(4) of the Act; (*marchandises de consommation ou services*)
 
-***designated shareholder*** of a corporation at any time means a taxpayer who at that time
+***designated shareholder*** of a corporation at any time means a taxpayer who at that time
 - **(a)** is, or is related to, a person (other than an exempt person) who owns, directly or indirectly, not less than 10% of the issued shares of any class of the capital stock of the corporation or of any other corporation that is related to the corporation and, for the purposes of this definition,
 	- **(i)** paragraphs (a) to (e) of the definition ***specified shareholder*** in subsection 248(1) of the Act apply, and
 	- **(ii)** an exempt person in respect of a corporation is a person who deals at arm’s length with the corporation where the total of all amounts, each of which is the cost amount of any share of the capital stock of the corporation, or of any other corporation that is related to it, that the person owns or is deemed to own for the purposes of the definition ***specified shareholder*** in subsection 248(1) of the Act, is less than $25,000,
 - **(b)** is or is related to a member of a partnership that controls the corporation,
 - **(c)** is or is related to a beneficiary under a trust that controls the corporation,
 - **(d)** is or is related to an employee of the corporation or a corporation related thereto, where any group of employees of the corporation or of the corporation related thereto, as the case may be, controls the corporation, except where the group of employees includes a person or a related group that controls the corporation, or
-- **(e)** does not deal at arm’s length with the corporation; (*actionnaire désigné*)
+- **(e)** does not deal at arm’s length with the corporation; (*actionnaire désigné*)
 
-***governing plan*** means a registered retirement savings plan, a registered education savings plan, a registered retirement income fund, a registered disability savings plan, a deferred profit sharing plan or a revoked plan; (*régime d’encadrement*)
+***governing plan*** means a deferred profit sharing plan or a revoked plan, a registered disability savings plan, a registered education savings plan, a registered retirement income fund, a registered retirement savings plan or a TFSA; (*régime d’encadrement*)
 
-***plan trust*** means a trust governed by a governing plan; (*fiducie de régime*)
+***plan trust*** means a trust governed by a governing plan; (*fiducie de régime*)
 
-***qualifying share***, in respect of a specified cooperative corporation and a registered retirement savings plan, registered education savings plan or registered retirement income fund, means a share of the capital or capital stock of the corporation where
+***qualifying share***, in respect of a specified cooperative corporation and a governing plan, means a share of the capital or capital stock of the corporation where
 - **(a)** ownership of the share or a share identical to the share is not a condition of membership in the corporation, or
-- **(b)** a person who is an annuitant, a beneficiary or a subscriber under the plan or fund (or any other person related to that person)
-	- **(i)** has not received a payment from the corporation after November 29, 1994 pursuant to an allocation in proportion to patronage in respect of consumer goods or services, and
-	- **(ii)** can reasonably be expected not to receive a payment, after the acquisition of the share by the trust governed by the plan or fund, from the corporation pursuant to an allocation in proportion to patronage in respect of consumer goods or services; (*part admissible*)
+- **(b)** a connected person under the governing plan
+	- **(i)** has not received a payment from the corporation pursuant to an allocation in proportion to patronage in respect of consumer goods or services, and
+	- **(ii)** can reasonably be expected not to receive a payment, after the acquisition of the share by the plan trust, from the corporation pursuant to an allocation in proportion to patronage in respect of consumer goods or services; (*part admissible*)
 
-***revoked plan*** has the meaning assigned by section 204 of the Act; (*régime dont l’agrément est retiré*)
+***revoked plan*** has the meaning assigned by section 204 of the Act; (*régime dont l’agrément est retiré*)
 
-***small business investment limited partnership*** has the meaning assigned by subsection 5102(1); (*société de personnes en commandite de placement dans des petites entreprises*)
+***small business investment limited partnership*** has the meaning assigned by subsection 5102(1); (*société de personnes en commandite de placement dans des petites entreprises*)
 
-***small business investment trust*** has the meaning assigned by subsection 5103(1); (*fiducie de placement dans des petites entreprises*)
+***small business investment trust*** has the meaning assigned by subsection 5103(1); (*fiducie de placement dans des petites entreprises*)
 
-***small business security*** has the meaning assigned by subsection 5100(2); (*titre de petite entreprise*)
+***small business security*** has the meaning assigned by subsection 5100(2); (*titre de petite entreprise*)
 
-***specified cooperative corporation*** means
+***specified cooperative corporation*** means
 - **(a)** a cooperative corporation within the meaning assigned by subsection 136(2) of the Act, or
-- **(b)** a corporation that would be a cooperative corporation within the meaning assigned by subsection 136(2) of the Act if the purpose described in that subsection were the purpose of providing employment to the corporation’s members or customers. (*coopérative déterminée*)
+- **(b)** a corporation that would be a cooperative corporation within the meaning assigned by subsection 136(2) of the Act if the purpose described in that subsection were the purpose of providing employment to the corporation’s members or customers; (*coopérative déterminée*)
+
+***specified small business corporation***, at any time, means a corporation (other than a cooperative corporation) that would, at that time or at the end of the last taxation year of the corporation that ended before that time, be a small business corporation if the expression “Canadian-controlled private corporation” in the definition ***small business corporation*** in subsection 248(1) of the Act were read as “Canadian corporation (other than a corporation controlled at that time, directly or indirectly in any manner whatever, by one or more non-resident persons)”. (*société déterminée exploitant une petite entreprise*)
 
 - **(2.1)** For the purposes of the definition ***connected shareholder*** in subsection (2) and of subsection (2.2), each share of the capital of a specified cooperative corporation and all other shares of the capital of the corporation that have attributes identical to the attributes of that share shall be deemed to be shares of a class of the capital stock of the corporation.
 
@@ -9785,22 +9908,33 @@ the share shall, immediately before the amount is received, cease to be and shal
 - **(2.3)** For the purpose of this Part, a person is deemed to be a designated shareholder of a corporation at any time if the person would be a designated shareholder of the corporation at that time if, at that time, paragraphs (2.2)(a) to (c) applied in respect of that person.
 
 - **(3)** [Repealed, SOR/2005-264, s. 7]
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-725, s. 4; SOR/86-390, s. 3; SOR/86-1092, s. 13(E); SOR/90-606, s. 1; SOR/94-471, s. 2; SOR/94-686, ss. 27(F), 58(F), 78(F), 79(F); SOR/95-513, s. 2; SOR/2001-216, ss. 7, 11(F); SOR/2005-264, s. 7; 2007, c. 35, s. 127.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-725, s. 4; SOR/86-390, s. 3; SOR/86-1092, s. 13(E); SOR/90-606, s. 1; SOR/94-471, s. 2; SOR/94-686, ss. 27(F), 58(F), 78(F), 79(F); SOR/95-513, s. 2; SOR/2001-216, ss. 7, 11(F); SOR/2005-264, s. 7; 2007, c. 35, s. 127; 2009, c. 2, s. 106.
 
 
 
 
 
 **PART L** 
-> [Repealed, SOR/2005-264, s. 9]
+## Tax-free Savings Accounts — Prohibited Investments
+> 
 
 
 
-**5000** [Repealed, SOR/2005-264, s. 9]
+
+**Investment not prohibited**
+
+**5000** For the purpose of the portion of the definition ***prohibited investment*** in subsection 207.01(1) of the Act before paragraph (a), property described in paragraph 4900(1)(j.1) is prescribed property.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2005-264, s. 9; 2009, c. 2, s. 107.
 
 
 
-**5001** [Repealed, SOR/2005-264, s. 9]
+
+
+**Prohibited investment**
+
+**5001** For the purpose of paragraph (d) of the definition ***prohibited investment*** in subsection 207.01(1) of the Act, property that is a qualified investment for a trust governed by a TFSA solely because of subsection 4900(14) is prescribed property for the trust at any time if, at that time, it is not described in any of subparagraphs 4900(14)(a)(i) to (iii).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2005-264, s. 9; 2009, c. 2, s. 107.
+
 
 
 
@@ -10532,7 +10666,9 @@ at the time the debt or obligation was settled or extinguished.
 
 
 **PART LVII** 
-## Medical Devices and Equipment
+## Medical Expense Tax Credit
+> [[NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ]
+
 
 
 **5700** For the purposes of paragraph 118.2(2)(m) of the Act, a device or equipment is prescribed if it is a
@@ -10565,9 +10701,22 @@ at the time the debt or obligation was settled or extinguished.
 - **(v)** inductive coupling osteogenesis stimulator for treating non-union of fractures or aiding in bone fusion; 
 - **(w)** talking textbook for use by an individual with a perceptual disability in connection with the individual’s enrolment at an educational institution in Canada, or a designated educational institution;
 - **(x)** Bliss symbol board, or similar device, designed to be used to help an individual who has a speech impairment communicate by selecting the symbols or spelling out words;
-- **(y)** Braille note-taker designed to be used by a blind individual to allow them to take notes (that can be read back to them or printed or displayed in Braille) with the help of a keyboard; and
-- **(z)** page turner, designed to be used by an individual who has a severe and prolonged impairment that markedly restricts their ability to use their arms or hands to turn the pages of a book or other bound document.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/80-948, s. 1; SOR/85-696, s. 17; SOR/87-716, s. 1; SOR/90-809, s. 1; SOR/94-189, s. 1; SOR/99-387, s. 1; SOR/2001-4, s. 1; SOR/2007-212, s. 3.
+- **(y)** Braille note-taker designed to be used by a blind individual to allow them to take notes (that can be read back to them or printed or displayed in Braille) with the help of a keyboard;
+- **(z)** page turner, designed to be used by an individual who has a severe and prolonged impairment that markedly restricts their ability to use their arms or hands to turn the pages of a book or other bound document;
+- **(z.1)** altered auditory feedback device designed to be used by an individual who has a speech impairment;
+- **(z.2)** electrotherapy device designed to be used by an individual with a medical condition or by an individual who has a severe mobility impairment;
+- **(z.3)** standing device designed to be used by an individual who has a severe mobility impairment to undertake standing therapy; and
+- **(z.4)** pressure pulse therapy device designed to be used by an individual who has a balance disorder.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/80-948, s. 1; SOR/85-696, s. 17; SOR/87-716, s. 1; SOR/90-809, s. 1; SOR/94-189, s. 1; SOR/99-387, s. 1; SOR/2001-4, s. 1; SOR/2007-212, s. 3; 2009, c. 2, s. 109.
+
+
+
+
+**5701** For the purpose of subparagraph 118.2(2)(n)(ii) of the Act, a drug, medicament or other preparation or substance is prescribed if it
+- **(a)** is manufactured, sold or represented for use in the diagnosis, treatment or prevention of a disease, disorder or abnormal physical state, or its symptoms, or in restoring, correcting or modifying an organic function;
+- **(b)** is prescribed for a patient by a medical practitioner; and
+- **(c)** may, in the jurisdiction in which it is acquired, be lawfully acquired for use by the patient only with the intervention of a medical practitioner.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; 2009, c. 2, s. 110.
 
 
 
@@ -10919,8 +11068,10 @@ and, for the purposes of this subsection, ***equity percentage*** has the meanin
 	- **(a)** in a country other than Canada only to the extent that such business is carried on through a permanent establishment situated therein; and
 	- **(b)** in Canada only to the extent that its income therefrom is subject to tax under Part I of the Act.
 
-- **(2)** Where the Government of Canada has concluded an agreement or convention with the government of another country for the avoidance of double taxation that has the force of law in Canada and in which the expression “permanent establishment” is given a particular meaning, for the purposes of subsection (1), that expression has that meaning with respect to a business carried on in that country and, in any other case, has the meaning assigned by subsection 400(2).
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-686, s. 79(F).
+- **(2)** For the purposes of subsection (1), the expression “permanent establishment” has:
+	- **(a)** if the expression is given a particular meaning in a tax treaty with a country, the meaning assigned by that tax treaty with respect to a business carried on in that country; and
+	- **(b)** in any other case, the meaning that would be assigned by subsection 400(2) if that subsection were read without reference to its paragraph (e.1).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-686, s. 79(F); 2009, c. 2, s. 111.
 
 
 
@@ -11365,9 +11516,11 @@ shall, notwithstanding paragraph 5900(1)(d), be equal to the amount determined u
 	- **(c)** the affiliate qualified for such exemption from or reduction of tax in respect of an investment made by it in that country before January 1, 1976 or in respect of an investment made by it or a project undertaken by it in that country pursuant to an agreement in writing entered into before January 1, 1976,
 for the purposes of this Part, such net earnings or net loss shall be included in the affiliate’s exempt earnings or exempt loss, as the case may be, for the year and not in the affiliate’s taxable earnings or taxable loss, as the case may be, for the year.
 
-- **(11)** For the purpose of this Part, a country is a “designated treaty country” for a taxation year of a foreign affiliate of a corporation where Canada and that country have entered into a comprehensive agreement or convention for the elimination of double taxation on income that has entered into force and has effect for that taxation year of the affiliate, but any territory, possession, department, dependency or area of that country to which that agreement or convention does not apply is not included in that designated treaty country.
+- **(11)** For the purposes of this Part, a sovereign state or other jurisdiction is a ***designated treaty country*** for a taxation year of a foreign affiliate of a corporation if Canada has entered into a comprehensive agreement or convention for the elimination of double taxation on income, or a comprehensive tax information exchange agreement, in respect of that sovereign state or jurisdiction, that has entered into force and has effect for that taxation year, but any territory, possession, department, depend- ency or area of that sovereign state or jurisdiction to which that agreement or convention does not apply is not considered to be part of that sovereign state or jurisdiction for the purpose of determining whether it is a designated treaty country.
 
 - **(11.1)** For the purpose of subsection (11), where a comprehensive agreement or convention between Canada and another country for the elimination of double taxation on income has entered into force, that convention or agreement is deemed to have entered into force and have effect in respect of a taxation year of a foreign affiliate of a corporation any day of which is in the period that begins on the day on which the agreement or convention was signed and that ends on the last day of the last taxation year of the affiliate for which the agreement or convention is effective.
+
+- **(11.11)** For the purpose of applying subsection (11) in respect of a foreign affiliate of a corporation, where a comprehensive tax information exchange agreement enters into force on a particular day, the agreement is deemed to enter into force and to come into effect on the first day of the foreign affiliate’s taxation year that includes the particular day.
 
 - **(11.2)** For the purposes of this Part, a foreign affiliate of a corporation is, at any time, deemed not to be resident in a country with which Canada has entered into a comprehensive agreement or convention for the elimination of double taxation on income unless
 	- **(a)** the affiliate is, at that time, a resident of that country for the purpose of the agreement or convention;
@@ -11405,7 +11558,7 @@ where
 		- **(i)** the total of all amounts required by paragraph 92(1)(a) of the Act to be added at any time in a preceding taxation year in computing the adjusted cost base to the taxpayer of the shares of the affiliate owned by the taxpayer at the end of the year
 exceeds
 		- **(ii)** the total of all amounts required by paragraph 92(1)(b) of the Act to be deducted at any time in a preceding taxation year in computing the adjusted cost base to the taxpayer of the shares of the affiliate owned by the taxpayer at the end of the year.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-211, s. 1; SOR/78-913, s. 2; SOR/80-141, s. 5; SOR/85-176, s. 4; SOR/88-165, s. 29(F); SOR/89-135, s. 3; SOR/94-686, ss. 31(F), 58(F); 69(F), 70(F), 78(F), 79(F); SOR/96-228, s. 2; SOR/97-505, s. 8.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-211, s. 1; SOR/78-913, s. 2; SOR/80-141, s. 5; SOR/85-176, s. 4; SOR/88-165, s. 29(F); SOR/89-135, s. 3; SOR/94-686, ss. 31(F), 58(F); 69(F), 70(F), 78(F), 79(F); SOR/96-228, s. 2; SOR/97-505, s. 8; 2009, c. 2, s. 112.
 
 
 
@@ -12660,18 +12813,18 @@ and the purpose of the corporation is to provide loans, loan guarantees, bridge 
 
 
 **7305.1** For the purpose of subparagraph (v) of the description of A in paragraph 6(1)(k) of the Act, the amount prescribed for a taxation year is
-- **(a)** if a taxpayer is employed in a taxation year by a particular person principally in selling or leasing automobiles and an automobile is made available in the year to the taxpayer or a person related to the taxpayer by the particular person or a person related to the particular person, 19 cents; and
-- **(b)** in any other case, 22 cents.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/95-244, s. 6; SOR/99-239, s. 1; SOR/2000-326, s. 1; SOR/2001-253, s. 1; SOR/2003-266, s. 1; SOR/2005-265, s. 1; SOR/2006-250, s. 1.
+- **(a)** if a taxpayer is employed in a taxation year by a particular person principally in selling or leasing automobiles and an automobile is made available in the year to the taxpayer or a person related to the taxpayer by the particular person or a person related to the particular person, 21 cents; and
+- **(b)** in any other case, 24 cents.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/95-244, s. 6; SOR/99-239, s. 1; SOR/2000-326, s. 1; SOR/2001-253, s. 1; SOR/2003-266, s. 1; SOR/2005-265, s. 1; SOR/2006-250, s. 1; 2009, c. 2, s. 113.
 
 
 
 
 **7306** For the purposes of paragraph 18(1)(r) of the Act, the amount in respect of the use of one or more automobiles in a taxation year by an individual for kilometres driven in the year for the purpose of earning income of the individual is the total of
-- **(a)** the product of 44 cents multiplied by the number of those kilometres;
+- **(a)** the product of 46 cents multiplied by the number of those kilometres;
 - **(b)** the product of 6 cents multiplied by the lesser of 5,000 and the number of those kilometres; and
 - **(c)** the product of 4 cents multiplied by the number of those kilometres driven in the Yukon Territory, the Northwest Territories or Nunavut.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/91-673, s. 4; SOR/99-239, s. 2; SOR/2000-326, s. 2; SOR/2001-253, s. 2; SOR/2003-266, s. 2; SOR/2005-265, s. 2; SOR/2006-250, s. 2.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/91-673, s. 4; SOR/99-239, s. 2; SOR/2000-326, s. 2; SOR/2001-253, s. 2; SOR/2003-266, s. 2; SOR/2005-265, s. 2; SOR/2006-250, s. 2; 2009, c. 2, s. 114.
 
 
 
@@ -14482,6 +14635,13 @@ the lesser of
 		- **(v)** the amount, if any, by which 18% of the individual’s resident compensation from the employer for the year exceeds the PA offset for the year, and
 		- **(vi)** the amount by which the money purchase limit for the year exceeds the PA offset for the year.
 
+#### Pension Credit — Tax Treaty
+
+
+- **(2.1)** For the purposes of applying subsection (2) in determining an individual’s pension credit for a calendar year with respect to an employer under a foreign plan, if any contributions made to, or benefits accruing under, the plan in respect of the individual and the calendar year benefit from the application of paragraph 8 of Article XVIII of the Canada-United States Tax Convention signed at Washington on September 26, 1980, or from the application of a similar provision in another tax treaty,
+	- **(a)** subparagraph (2)(b)(ii) shall be read without reference to the words “was resident in Canada and”; and
+	- **(b)** the portion of subsection (2) after subparagraph (b)(iv) shall be read as “the lesser of the money purchase limit for the year and 18% of the individual’s resident compensation from the employer for the year”.
+
 #### Pension Credit — Alternative Determination
 
 
@@ -14521,7 +14681,7 @@ exceeds the total of all amounts each of which is
 
 
 - **(6)** Where the Minister has, on the written application of an employer, approved in writing a method for determining the foreign plan PSPA of an individual with respect to the employer associated with a modification of the individual’s benefits under a foreign plan, the individual’s foreign plan PSPA shall be determined in accordance with that method.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/96-311, s. 8; SOR/99-9, s. 10; SOR/2005-264, s. 20.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/96-311, s. 8; SOR/99-9, s. 10; SOR/2005-264, s. 20; 2009, c. 2, s. 115.
 
 
 
@@ -14536,23 +14696,20 @@ exceeds the total of all amounts each of which is
 
 **8308.2** 
 
-- **(1)** Where
-	- **(a)** throughout a period in a particular calendar year after 1992 an individual resident in Canada rendered services to an employer, other than services that were primarily services rendered in Canada or services rendered in connection with a business carried on by the employer in Canada, or a combination of those services,
-	- **(b)** the individual became entitled in the particular year, either absolutely or contingently, to benefits under a pension plan that is a foreign plan (as defined in subsection 8308.1(1)) in respect of the services, and
-	- **(c)** the individual continued to be entitled at the end of the particular year, either absolutely or contingently, to all or part of the benefits,
-subject to subsection (2), there is prescribed in respect of the individual for the year following the particular year, for the purposes of the descriptions of B in the definitions ***RRSP deduction limit*** and ***unused RRSP deduction room*** in subsection 146(1) of the Act and the description of B in paragraph 204.2(1.1)(b) of the Act, the lesser of
-	- **(d)** the amount by which the money purchase limit for the particular year exceeds the PA offset for the particular year, and
-	- **(e)** 10% of the portion of the individual’s resident compensation from the employer for the particular year that is attributable to services rendered by the individual to the employer in periods throughout which the individual rendered services described in paragraph (a).
+- **(1)** For the purposes of the descriptions of B in the definitions ***RRSP deduction limit*** and ***unused RRSP deduction room*** in subsection 146(1) of the Act and the description of B in paragraph 204.2(1.1)(b) of the Act, there is prescribed in respect of an individual for a calendar year the lesser of the money purchase limit for the preceding calendar year (in this section referred to as the “service year”) and the amount determined by subsection (2), if the individual
+	- **(a)** rendered services to an employer (excluding services that were primarily services rendered in Canada or services rendered in connection with a business carried on by the employer in Canada, or a combination of those services) throughout a period in the service year in which the individual was resident in Canada;
+	- **(b)** became entitled, either absolutely or contingently, in the service year to benefits under a foreign plan (as defined in subsection 8308.1(1)) in respect of the services; and
+	- **(c)** continued to be entitled at the end of the service year, either absolutely or contingently, to all or part of the benefits.
 
-#### Prescribed Amounts – 1997 to 2003
-
-
-- **(2)** For the purpose of determining the amount prescribed under subsection (1) in respect of an individual for a calendar year after 1996 and before 2004, paragraph (d) of that subsection shall be read as:
-
-- **“(d)** the money purchase limit for the particular year, and”
-
-
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/96-311, s. 8; SOR/99-9, s. 11; SOR/2005-264, s. 21.
+- **(2)** The amount determined for the purpose of subsection (1) is,
+	- **(a)** if the only benefits to which the individ- ual became entitled in the service year under the foreign plan were provided under one or more money purchase provisions of the foreign plan, the total of all amounts each of which is the individual’s pension credit for the service year with respect to the employer under a money purchase provision of the foreign plan, determined
+		- **(i)** as though the foreign plan were a registered pension plan,
+		- **(ii)** without regard to any contributions made by the individual, and
+		- **(iii)** if, under the laws of the country in which the foreign plan is established, any contributions made after the end of the service year are treated as having been made in the service year, as though those contributions were made in the service year and not when the contributions were actually made; and
+	- **(b)** in any other case, the greater of
+		- **(i)** the total that would be determined under paragraph (a) if the individual had not become entitled in the service year to any benefits under a defined benefit provision of the foreign plan, and
+		- **(ii)** 10% of the portion of the individual’s resident compensation from the employer for the service year that is attributable to services rendered to the employer and included under paragraph (1)(a).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/96-311, s. 8; SOR/99-9, s. 11; SOR/2005-264, s. 21; 2009, c. 2, s. 116.
 
 
 
@@ -16330,12 +16487,14 @@ where
 	- **(a)** the determination is to be made in a manner that reasonably reflects the fair market value of the property held in connection with the account at the beginning of the current year, including an estimate of the portion of any unallocated earnings of the plan that arose in the preceding calendar year and that can reasonably be expected to be allocated to the account in the current year; and
 	- **(b)** if retirement benefits (other than benefits permissible under paragraph (1)(e.1)) provided under the provision with respect to the member had commenced to be paid before the current year and continue to be payable in the current year, the determination is to be made without regard to the value of any property held in connection with those benefits.
 
-#### When Minimum Amount is Nil
+#### Special Rules for Minimum Amount
 
 
-- **(7)** The minimum amount for a member’s account under a money purchase provision of a registered pension plan for a calendar year is nil if
-	- **(a)** an individual, who is either the member or the specified beneficiary of the member for the year in relation to the provision, is alive at the beginning of the year; and
-	- **(b)** that individual had not attained 71 years of age at the end of the preceding calendar year.
+- **(7)** The minimum amount for a member’s account under a money purchase provision of a registered pension plan for a calendar year is
+	- **(a)** nil, if an individual who is either the member or the specified beneficiary of the member for the year in relation to the provision
+		- **(i)** is alive at the beginning of the year, and
+		- **(ii)** had not attained 71 years of age at the end of the preceding calendar year; and
+	- **(b)** if paragraph (a) does not apply and the year is 2008, 75 per cent of the amount that would, in the absence of this subsection, be the minimum amount for the account for the year.
 
 #### Specified Beneficiary
 
@@ -16344,7 +16503,32 @@ where
 	- **(a)** the member died before the beginning of the year;
 	- **(b)** the individual is a beneficiary of the member and was, immediately before the member’s death, the member’s spouse or common-law partner; and
 	- **(c)** the member or the member’s legal representative had, before the beginning of the year, provided the administrator of the plan with a written designation of the individual (and of no other individual) as the specified beneficiary of the member for the calendar year in relation to the provision.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 13; SOR/99-9, s. 23; SOR/2001-188, ss. 14, 15; SOR/2005-264, s. 28; 2007, c. 29, s. 36.
+
+#### Recontribution — Adjusted Minimum Amount for 2008
+
+
+- **(9)** If a contribution made by a member of a registered pension plan and credited to the member’s account under a money purchase provision of the plan complies with the conditions in subsection (10), the contribution
+	- **(a)** is deemed to have been made in accord- ance with the plan as registered;
+	- **(b)** is to be disregarded for the purposes of paragraph (2)(c.1); and
+	- **(c)** is deemed to be an excluded contribution for the purposes of paragraph 8301(4)(a).
+
+#### Conditions Referred to in Subsection (9)
+
+
+- **(10)** The conditions referred to in subsection (9) are as follows:
+	- **(a)** the contribution is made in 2008;
+	- **(b)** the contribution is designated for the purposes of this subsection in a manner acceptable to the Minister; and
+	- **(c)** the amount of the contribution does not exceed the amount determined by the formula
+```
+A – B – C
+```
+where
+- **A** is the lesser of
+	- **(i)** the total of all amounts each of which is the amount of a retirement benefit (other than a retirement benefit permissible under any of paragraphs (1)(a) to (e)) paid from the plan in 2008 in respect of the account and included, because of paragraph 56(1)(a) of the Act, in computing the taxpayer’s income for the taxation year, and
+	- **(ii)** the amount that would, in the absence of paragraph (7)(b), be the minimum amount for the account for 2008,
+- **B** is the minimum amount for the account for 2008, and
+- **C** is the total of all other contributions made by the member under the money purchase provision at or before the time of the contribution and designated for the purposes of this subsection.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/92-51, s. 7; SOR/95-64, s. 13; SOR/99-9, s. 23; SOR/2001-188, ss. 14, 15; SOR/2005-264, s. 28; 2007, c. 29, s. 36; 2009, c. 2, s. 117.
 
 
 
@@ -17578,11 +17762,116 @@ exceeds
 
 
 **PART XC** 
-## Financial Institutions — Prescribed Entities
+## Financial Institutions — Prescribed Entities and Properties
 
 
-**9004** For the purpose of the definition ***specified debt obligation*** in subsection 142.2(1) of the Act, a property is a prescribed property throughout a taxation year if the property is a direct financing lease, or any other financing arrangement, of a taxpayer that is reported as a loan in the taxpayer’s financial statement for the year prepared in accordance with generally accepted accounting principles and an amount is deductible under paragraph 20(1)(a) of the Act in respect of the property that is the subject of the lease or arrangement in computing the taxpayer’s income for the year.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/99-91, s. 8.
+
+### Prescribed Trust not a Financial Institution
+
+
+**9000** For the purpose of paragraph (e) of the definition ***financial institution*** in subsection 142.2(1) of the Act, a trust is, at any particular time, a prescribed person if the following conditions are satisfied at that particular time:
+- **(a)** the trust is a related segregated fund trust (within the meaning assigned by paragraph 138.1(1)(a) of the Act);
+- **(b)** the trust is deemed, under paragraph 138.1(1)(a) of the Act, to have been created at a time that is not more than two years before that particular time; and
+- **(c)** the cost of the trustee’s interest (as determined by paragraph 138.1(1)(c) and (d) of the Act) in the trust does not exceed $5,000,000.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; 2009, c. 2, s. 118.
+
+
+
+
+
+### Prescribed Property not Mark-to-Market Property
+
+
+**9001** 
+
+- **(1)** In this section, ***qualified small business corporation***, at any time, means a corporation in respect of which the following conditions are satisfied at that time:
+	- **(a)** the corporation is a Canadian-controlled private corporation;
+	- **(b)** the corporation either is an eligible corporation (as defined in subsection 5100(1)) or would be an eligible corporation if the definition ***eligible corporation*** in subsection 5100(1) were read without reference to its paragraph (e);
+	- **(c)** the carrying value of the total assets of the corporation and all corporations related to it (determined in accordance with generally accepted accounting principles on a consolidated or combined basis, where applicable) does not exceed $50,000,000; and
+	- **(d)** the number of employees of the corporation and all corporations related to it does not exceed 500.
+
+- **(2)** For the purpose of paragraph (e) of the definition ***excluded property*** in subsection 142.2(1) of the Act, a share of the capital stock of a corporation is a prescribed property of a taxpayer if
+	- **(a)** immediately after the time at which the taxpayer acquired the share, the corporation was a qualified small business corporation, and
+		- **(i)** the corporation continued to be a qualified small business corporation for one year after that time, or
+		- **(ii)** the taxpayer could not reasonably expect at that time that the corporation would cease to be a qualified small business corporation within one year after that time; or
+	- **(b)** the share was issued to the taxpayer in exchange for one or more shares of the capital stock of the corporation that were, at the time of the exchange, prescribed property of the taxpayer under this subsection.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; 2009, c. 2, s. 118.
+
+
+
+
+
+### Prescribed Property not Mark-to-Market Property
+
+
+**9002** 
+
+- **(1)** For the purposes of paragraph (e) of the definition ***excluded property*** in subsection 142.2(1) of the Act, and of subparagraph 142.6(4)(a)(ii) of the Act, a debt obligation held by a bank is a prescribed property of the bank if the obligation is
+	- **(a)** an exposure to a designated country (within the meaning assigned by section 8006);
+	- **(b)** a United Mexican States Collateralized Par Bond due 2019; or
+	- **(c)** a United Mexican States Collateralized Discount Bond due 2019.
+
+- **(2)** For the purpose of paragraph (e) of the definition ***excluded property*** in subsection 142.2(1) of the Act, a share is a prescribed property of a taxpayer for a taxation year if
+	- **(a)** the share is a lending asset of the taxpayer in the year; or
+	- **(b)** the share was, immediately after its issuance, a share described in paragraph (e) of the definition ***term preferred share*** in subsection 248(1) of the Act, and the share would, at any time in the year, be a term preferred share if
+		- **(i)** that definition were read without ref- erence to the portion following paragraph (b), and
+		- **(ii)** where the share was issued or acquired on or before June 28, 1982, it were issued or acquired after that day.
+
+- **(3)** For the purpose of paragraph (e) of the definition ***excluded property*** in subsection 142.2(1) of the Act, a share of the capital stock of a corporation that is held by a credit union is a prescribed property of the credit union for a taxation year if, throughout the period (referred to in this subsection as the “holding period”) in that taxation year during which the credit union holds the share
+	- **(a)** the corporation is a credit union; or
+	- **(b)** the following conditions are satisfied:
+		- **(i)** credit unions hold shares of the corporation that
+			- **(A)** give those credit unions at least 50% of the votes that could be cast under all circumstances at an annual meeting of shareholders of the corporation, and
+			- **(B)** have a fair market value of at least 50% of the fair market value of all the issued shares of the corporation,
+		- **(ii)** the corporation is not controlled, directly or indirectly in any manner whatever, by any person that is not a credit union, and
+		- **(iii)** the corporation would not be controlled by a person that is not a credit union if each share of the corporation that is not owned at any time in the holding period by a credit union were owned, at that time, by the person.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; 2009, c. 2, s. 118.
+
+
+
+
+
+### Prescribed Payment Card Corporation Share not Mark-to-Market Property
+
+
+**9002.1** For the purpose of paragraph (b) of the definition ***excluded property*** in subsection 142.2(1) of the Act, a prescribed payment card corporation share of a taxpayer at any time means a share of the capital stock of a particular corporation if, at that time,
+- **(a)** the particular corporation is any one of the following
+	- **(i)** MasterCard International Incorporated,
+	- **(ii)** MasterCard Incorporated, or
+	- **(iii)** Visa Inc.; and
+- **(b)** the share
+	- **(i)** is of a class of shares that is not listed on a stock exchange,
+	- **(ii)** is not convertible into or exchangeable for a share of the class of the capital stock of a corporation that is listed on a stock exchange, and
+	- **(iii)** was issued by the particular corporation to the taxpayer or to a person related to the taxpayer.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; 2009, c. 2, s. 118.
+
+
+
+
+**9002.2** [Repealed, 2009, c. 2, s. 118]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; 2009, c. 2, s. 118.
+
+
+
+
+
+### Significant Interest in a Corporation
+
+
+**9003** For the purpose of paragraph 142.2(3)(c) of the Act, a share described in paragraph 9002(2)(b) is prescribed in respect of all taxpayers.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; 2009, c. 2, s. 118.
+
+
+
+
+
+### Financing Arrangement not a Specified Debt Obligation
+
+
+**9004** For the purpose of paragraph (c) of the definition ***specified debt obligation*** in subsection 142.2(1) of the Act, a property is a prescribed property throughout a taxation year if
+- **(a)** the property is a direct financing lease, or any other financing arrangement, of a taxpayer that is reported as a loan in the taxpayer’s financial statements for the year prepared in accordance with generally accepted accounting principles; and
+- **(b)** in computing the taxpayer’s income for the year, an amount is deductible under paragraph 20(1)(a) of the Act in respect of the property that is the subject of the arrangement.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/99-91, s. 8; 2009, c. 2, s. 118.
 
 
 
