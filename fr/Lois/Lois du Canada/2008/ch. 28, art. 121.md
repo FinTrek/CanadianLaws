@@ -203,10 +203,13 @@ Sanctionnée sur le 18 juin 2008
 	- **c)** qui a le statut de failli;
 	- **d)** qui n’est pas une personne physique;
 	- **e)** qui est membre du comité constitué au titre du paragraphe 10(1);
+	- **e.1)** qui est un employé de l’Office;
 	- **f)** qui est mandataire ou employé de Sa Majesté du chef du Canada ou d’une province;
 	- **g)** qui est membre du Sénat ou de la Chambre des communes, ou d’une législature provinciale;
 	- **h)** qui travaille pour le gouvernement d’un pays étranger ou de l’une de ses subdivisions politiques ou en est le mandataire;
 	- **i)** qui n’est pas résidente du Canada.
+> 2008, ch. 28, art. 121 « 9 »; 2009, ch. 2, art. 377.
+
 
 
 
