@@ -594,7 +594,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 
 
-**105** [Amendment]
+**105** [Repealed, 2009, c. 2, s. 368]
 
 
 
