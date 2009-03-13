@@ -9678,15 +9678,7 @@ and a credit union shall be deemed to have granted a benefit or privilege to a p
 	- **(i.11)** a share of the capital stock of a Canadian corporation that is registered under section 11 of the Equity Tax Credit Act, chapter 3 of the Statutes of Nova Scotia, 1993, the registration of which has not been revoked under that Act;
 	- **(i.12)** a share of the capital stock of a Canadian corporation that is registered under section 39 of the Risk Capital Investment Tax Credits Act, chapter 22 of the Statutes of the Northwest Territories, 1998, the registration of which has not been revoked under that Act;
 	- **(i.2)** indebtedness of a Canadian corporation (other than a corporation that is a connected person under the governing plan of the plan trust) represented by a bankers’ acceptance;
-	- **(i.3)** a debt obligation issued by a Canadian corporation or a trust resident in Canada, where
-		- **(i)** the principal purpose of the corporation or trust is to derive income from, or from the disposition of, property that is
-			- **(A)** a debt obligation, or a lease, that arose in the ordinary course of business between parties dealing with each other at arm’s length,
-			- **(B)** a property described by this paragraph, or
-			- **(C)** an interest, or for civil law a right, in property described in clause (A) or (B),
-		- **(ii)** the debt obligation has, at the time of its acquisition by the plan trust, an investment grade rating with a bond rating agency that rates debt in the ordinary course of its business, and
-		- **(iii)** either
-			- **(A)** the debt obligation is issued as part of a single issue of debt by the corporation or trust for a total amount of at least $25 million, or
-			- **(B)** at the time the debt obligation is issued, the corporation or trust has issued and outstanding debt of at least $25 million;
+	- **(i.3)** [Repealed, 2009, c. 2, s. 105]
 	- **(j)** a debt obligation of a debtor, or an interest, or for civil law a right, in that debt obligation, where
 		- **(i)** the debt obligation is fully secured by a mortgage, charge, hypothec or similar instrument in respect of real or immovable property situated in Canada, or would be fully secured were it not for a decline in the fair market value of the property after the debt obligation was issued, and
 		- **(ii)** the debtor (and any partnership that does not deal at arm’s length with the debtor) is not a connected person under the governing plan of the plan trust;
@@ -9699,23 +9691,11 @@ and a credit union shall be deemed to have granted a benefit or privilege to a p
 		- **(i)** all or substantially all of the fair market value of the certificate is attributable to property that is, or is incidental to, a debt obligation secured by
 			- **(A)** a mortgage, charge, hypothec or similar instrument in respect of real or immovable property situated in Canada, or
 			- **(B)** property described in paragraph (a) or (b) of the definition ***qualified investment*** in section 204 of the Act that was substituted for the security referred to in clause (A) under the terms of the debt obligation,
-		- **(ii)** the certificate has, at the time of its acquisition by the plan trust, an investment grade rating with a bond rating agency that rates debt in the ordinary course of its business, and
+		- **(ii)** the certificate has, at the time of acquisition by the plan trust, an investment grade rating with a credit rating agency referred to in subsection (2), and
 		- **(iii)** the certificate is issued as part of an issue of certificates by the issuer for a total amount of at least $25 million;
-	- **(k)** an investment, other than a qualified investment described in paragraphs (a) to (j), that
-		- **(i)** was, at the end of 1980, a qualified investment for a trust pursuant to subparagraph 204(e)(v) of the Act or section 1502, this Part or section 5800, as the case may be, as those provisions read at that time,
-		- **(ii)** was held on December 31, 1980 and continuously thereafter by the trust until the particular time,
-		- **(iii)** would have continued to be a qualified investment of the trust from December 31, 1980 until the particular time had the provisions referred to in subparagraph (i) been in force throughout that period of time, and
-		- **(iv)** was not, at any time before the particular time, an interest in a registered investment;
-	- **(l)** a bond, debenture, note or similar obligation issued or guaranted by
-		- **(i)** the International Bank for Reconstruction and Development,
-		- **(i.1)** the International Finance Corporation,
-		- **(ii)** the Inter-American Development Bank,
-		- **(iii)** the Asian Development Bank,
-		- **(iv)** the Caribbean Development Bank,
-		- **(v)** the European Bank for Reconstruction and Development, or
-		- **(vi)** the African Development Bank;
+	- **(k) and (l)** [Repealed, 2009, c. 2, s. 105]
 	- **(m) to (n.1)** [Repealed, 2007, c. 29, s. 32]
-	- **(o)** a bond, debenture, note or similar obligation issued by the government of a country other than Canada and that had, at the time of purchase, an investment grade rating with a bond rating agency that in the ordinary course of its business rates the debt obligations issued by that government;
+	- **(o)** [Repealed, 2009, c. 2, s. 105]
 	- **(p) and (p.1)** [Repealed, 2007, c. 29, s. 32]
 	- **(q)** a debt issued by a Canadian corporation (other than a corporation with share capital or a corporation that is a connected person under the governing plan of the plan trust) where
 		- **(i)** the taxable income of the corporation is exempt from tax under Part I of the Act because of paragraph 149(1)(l) of the Act, and
@@ -9729,16 +9709,7 @@ and a credit union shall be deemed to have granted a benefit or privilege to a p
 		- **(ii)** either
 			- **(A)** the debt is issued by the corporation as part of an issue of debt by the corporation for an amount of at least $25 million, or
 			- **(B)** at the time of the acquisition of the debt by the plan trust, the corporation had issued debt as part of a single issue for an amount of at least $25 million;
-	- **(s)** where the particular time is before 2002, a security of a corporation (other than a corporation that does not deal at arm’s length with a person who is an annuitant, a beneficiary, an employer or a subscriber under the governing plan of the plan trust)
-		- **(i)** that
-			- **(A)** was last acquired by the plan trust before September 2000, and
-			- **(B)** either
-				- **(I)** at the time of that acquisition was quoted on the OTC Bulletin Board quotation service operated by Nasdaq Stock Market, Inc. or on the OTC quotation service operated by Pink Sheets LLC, or
-				- **(II)** at the time of that acquisition was a qualified investment for the plan trust and at any time in the period that began at the time of that acquisition and ended before September 2000 was quoted on the OTC Bulletin Board quotation service operated by Nasdaq Stock Market, Inc. or on the OTC quotation service operated by Pink Sheets LLC, or
-		- **(ii)** that
-			- **(A)** was acquired by the plan trust after August 2000 from another plan trust under which the annuitant or beneficiary is also the annuitant or beneficiary under the plan trust,
-			- **(B)** immediately before its acquisition by the plan trust was a qualified investment for the other plan trust, and
-			- **(C)** would be a qualified investment for the plan trust because of this paragraph if this paragraph were read without reference to this subparagraph and the plan trust had acquired the security before September 2000;
+	- **(s)** [Repealed, 2009, c. 2, s. 105]
 	- **(t)** a gold or silver legal tender bullion coin
 		- **(i)** that is of a minimum fineness of 995 parts per 1000 in the case of gold and 999 parts per 1000 in the case of silver,
 		- **(ii)** that was produced by the Royal Canadian Mint,
