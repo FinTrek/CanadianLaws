@@ -9600,7 +9600,7 @@ ce groupe doit être, sous réserve du paragraphe (4), réputé être une person
 	- **d.2)** d’une unité d’une fiducie, dans le cas où, à la fois :
 		- **(i)** la fiducie serait une fiducie de fonds commun de placement si la partie XLVIII s’appliquait compte non tenu de l’alinéa 4801a),
 		- **(ii)** des unités de la fiducie ont fait l’objet d’un appel public légal à l’épargne dans une province, et un prospectus, une déclaration d’enregistrement ou un document semblable relatif à cet appel n’avait pas à être produit selon la législation provinciale;
-	- **e)** d’une option, d’un droit de souscription ou d’un droit semblable (appelés «titre» au présent alinéa) émis par une personne ou une société de personnes (appelées «émetteur» au présent alinéa) qui confère au détenteur le droit soit d’acquérir, immédiatement ou ultérieurement, des biens qui constituent chacun un placement admissible pour la fiducie de régime, soit de recevoir, en remplacement de la livraison de ces biens, un règlement en espèces si, à la fois :
+	- **e)** d’une option, d’un droit de souscription ou d’un droit semblable (appelés « titre » au présent alinéa) émis par une personne ou une société de personnes (appelées « émetteur » au présent alinéa) qui confère au détenteur le droit soit d’acquérir, immédiatement ou ultérieurement, des biens qui constituent chacun un placement admissible pour la fiducie de régime, soit de recevoir, en remplacement de la livraison de ces biens, un règlement en espèces si, à la fois :
 		- **(i)** le bien est, selon le cas :
 			- **(A)** une action du capital-actions, une unité ou une créance de l’émetteur ou d’une autre personne ou société de personnes qui, au moment de l’émission du titre, a un lien de dépendance avec l’émetteur,
 			- **(B)** un droit de souscription émis par l’émetteur ou par une autre personne ou société de personnes qui, au moment de l’émission du titre, a un lien de dépendance avec l’émetteur, lequel droit confère au détenteur le droit d’acquérir des actions ou unités visées à la division (A),
@@ -9608,11 +9608,11 @@ ce groupe doit être, sous réserve du paragraphe (4), réputé être une person
 	- **e.01)** [Abrogé, 2007, ch. 29, art. 32]
 	- **e.1)** un dépôt auprès d’une société d’entraide économique ou une action de son capital-actions;
 	- **f)** d’une action d’une caisse de crédit ou d’un intérêt dans une caisse de crédit;
-	- **g)** d’une obligation, d’un billet ou d’un autre titre semblable (appelé « titre » au présent alinéa) émis par une caisse de crédit, ou d’un dépôt auprès d’une caisse de crédit, qui, sauf si la fiducie de régime est régie par un régime enregistré d’épargne-études, n’a accordé, à aucun moment de l’année civile qui comprend la date donnée, d’avantage ou de privilège à une personne qui est une personne rattachée en vertu du régime d’encadrement de la fiducie de régime, du fait :
+	- **g)** d’une obligation, d’un billet ou d’un autre titre semblable (appelé « titre » au présent alinéa) émis par une caisse de crédit, ou d’un dépôt auprès d’une caisse de crédit, qui, sauf si la fiducie de régime est régie par un régime enregistré d’épargne-études, n’a accordé, à aucun moment de l’année civile qui comprend la date donnée, d’avantage ou de privilège à une personne qui est une personne rattachée en vertu du régime d’encadrement de la fiducie de régime, du fait :
 		- **(i)** que la fiducie de régime possède une action ou un titre de la caisse de crédit, ou a un dépôt auprès de la caisse de crédit, ou
 		- **(ii)** qu’un placement enregistré possède une action ou un titre de la caisse de crédit, ou un dépôt auprès de la caisse de crédit, si la fiducie de régime a investi dans ce placement enregistré,
 et une caisse de crédit est réputée avoir accordé un avantage ou un privilège à une personne au cours d’une année si, à une date quelconque de cette année, cette personne continue de bénéficier d’un avantage ou d’un privilège qui lui avait été accordé au cours d’une année antérieure;
-	- **h)** d’une obligation, d’un billet ou d’un autre titre semblable (appelé dans le présent alinéa le «titre») émis par une société coopérative (au sens que lui attribue le paragraphe 136(2) de la Loi)
+	- **h)** d’une obligation, d’un billet ou d’un autre titre semblable (appelé dans le présent alinéa le « titre ») émis par une société coopérative (au sens que lui attribue le paragraphe 136(2) de la Loi)
 		- **(i)** qui, durant toute l’année d’imposition de la société coopérative précédant immédiatement l’année au cours de laquelle la fiducie de régime a acquis le titre, ne comptait pas moins de 100 actionnaires ou, si tous ses actionnaires étaient des sociétés, pas moins de 50 actionnaires,
 		- **(ii)** dont les titres étaient, à la fin de chaque mois de
 			- **(A)** la dernière année d’imposition de la société coopérative, s’il en est, avant la date à laquelle la fiducie de régime a acquis le titre, ou
@@ -9620,7 +9620,7 @@ et une caisse de crédit est réputée avoir accordé un avantage ou un privilè
 		- **(iii)** qui, sauf si la fiducie de régime est régie par un régime enregistré d’épargne-études, n’a accordé, à aucun moment de l’année civile qui comprend la date donnée, d’avantage ou de privilège à une personne qui est une personne rattachée en vertu du régime d’encadrement de la fiducie de régime, du fait :
 			- **(A)** que la fiducie de régime possède une action ou un titre de la société coopérative, ou
 			- **(B)** qu’un placement enregistré possède une action ou un titre de la société coopérative si la fiducie de régime a investi dans ce placement enregistré,et une société coopérative est réputée avoir accordé un avantage ou un privilège à une personne au cours d’une année si, à une date quelconque de cette année, cette personne continue de bénéficier d’un avantage ou d’un privilège qui lui avait été accordé au cours d’une année antérieure;
-	- **i)** d’une obligation, d’un billet ou d’un titre semblable (appelé dans le présent alinéa le «titre») d’une société canadienne
+	- **i)** d’une obligation, d’un billet ou d’un titre semblable (appelé dans le présent alinéa le « titre ») d’une société canadienne
 		- **(i)** si le paiement du principal du titre et de l’intérêt sur celui-ci est garanti par une société ou une fiducie de fonds commun de placement dont les actions ou les unités, selon le cas, sont cotées sur une bourse de valeurs désignée située au Canada,
 		- **(ii)** si la société est contrôlée directement ou indirectement par :
 			- **(A)** une ou plusieurs sociétés dont les actions sont cotées sur une bourse de valeurs désignée située au Canada,
@@ -9635,15 +9635,7 @@ et une caisse de crédit est réputée avoir accordé un avantage ou un privilè
 	- **i.11)** d’une action du capital-actions d’une société canadienne qui est agréée en vertu de l’article 11 de la loi intitulée Equity Tax Credit Act, chapitre 3 des Statutes of Nova Scotia, 1993, et dont l’agrément n’a pas été retiré en vertu de cette loi;
 	- **i.12)** d’une action du capital-actions d’une société canadienne qui est inscrite aux termes de l’article 39 de la Loi sur les crédits d’impôt pour investissement de capital de risque, chapitre 22 des Lois des Territoires du Nord-Ouest de 1998, et dont l’inscription n’a pas été révoquée en vertu de cette loi;
 	- **i.2)** d’une dette d’une société canadienne (sauf une société qui est une personne rattachée en vertu du régime d’encadrement de la fiducie de régime), attestée par une acceptation de banque;
-	- **i.3)** d’un titre de créance émis par une société canadienne ou par une fiducie résidant au Canada si, à la fois :
-		- **(i)** la société ou la fiducie a pour principal objet de tirer un revenu d’un bien, ou de la disposition d’un bien, qui est :
-			- **(A)** soit un titre de créance ou un bail qui a pris naissance dans le cours normal des activités d’une entreprise entre des parties sans lien de dépendance,
-			- **(B)** soit un bien visé au présent alinéa,
-			- **(C)** soit un intérêt ou, pour l’application du droit civil, un droit sur un bien visé aux divisions (A) ou (B),
-		- **(ii)** le titre de créance était classé, au moment de son acquisition par la fiducie de régime, dans une catégorie d’évaluation supérieure par une agence d’évaluation qui évalue des titres de créance dans le cours normal des activités de son entreprise,
-		- **(iii)** selon le cas :
-			- **(A)** le titre de créance est émis par la société ou la fiducie dans le cadre d’une émission unique d’au moins 25 000 000 $,
-			- **(B)** au moment de l’émission du titre de créance, les créances émises et en circulation de la société ou de la fiducie s’élèvent à au moins 25 000 000 $;
+	- **i.3)** [Abrogé, 2009, ch. 2, art. 105]
 	- **j)** d’un titre de créance d’un débiteur, ou d’un intérêt ou, pour l’application du droit civil, un droit sur ce titre, dans le cas où, à la fois :
 		- **(i)** le titre de créance est entièrement garanti par une hypothèque, une sûreté ou un instrument semblable relatif à un bien immeuble ou réel situé au Canada, ou le serait n’était une diminution de la juste valeur marchande du bien qui s’est opérée après l’émission du titre de créance,
 		- **(ii)** le débiteur (et toute société de personnes avec laquelle il a un lien de dépendance) n’est pas une personne rattachée en vertu du régime d’encadrement de la fiducie de régime;
@@ -9656,23 +9648,11 @@ et une caisse de crédit est réputée avoir accordé un avantage ou un privilè
 		- **(i)** la totalité ou la presque totalité de la juste valeur marchande du certificat est attribuable à un bien qui est un titre de créance garanti par l’un des biens ci-après, ou qui est accessoire à un tel titre :
 			- **(A)** une hypothèque, une sûreté ou un instrument semblable relatif à un bien immeuble ou réel situé au Canada,
 			- **(B)** un bien visé aux alinéas a) ou b) de la définition de ***placement admissible*** , à l’article 204 de la Loi, qui a été substitué au bien visé à la division (A) conformément aux modalités du titre de créance,
-		- **(ii)** le certificat était classé, au moment de son acquisition par la fiducie de régime, dans une catégorie d’évaluation supérieure par une agence d’évaluation qui évalue des titres de créance dans le cours normal des activités de son entreprise,
+		- **(ii)** le certificat a, au moment de son acquisition par la fiducie de régime, une cote d’évaluation supérieure attribuée par une agence de notation visée au paragraphe (2),
 		- **(iii)** le certificat est émis par l’émetteur dans le cadre d’une émission de certificats d’au moins 25 000 000 $;
-	- **k)** d’un placement, autre qu’un placement admissible décrit aux alinéas a) à j), qui
-		- **(i)** était à la fin de 1980, un placement admissible pour une fiducie en vertu du sous-alinéa 204e)(v) de la Loi ou de l’article 1502, de la présente partie ou de l’article 5800, selon le cas, d’après le libellé de ces dispositions d’alors,
-		- **(ii)** était détenu par la fiducie au 31 décembre 1980 et continuellement par la suite jusqu’à la date donnée, et
-		- **(iii)** aurait continué d’être un placement admissible de la fiducie à compter du 31 décembre 1980 jusqu’à la date donnée si les dispositions visées au sous-alinéa (i) avaient été en vigueur pendant toute cette période, et
-		- **(iv)** n’a été, à aucun temps avant la date donnée, un intérêt dans un placement enregistré;
-	- **l)** de quelque obligation, billet ou titre semblable émis ou garanti par l’une ou l’autre des banques suivantes :
-		- **(i)** la Banque internationale pour la reconstruction et le développement,
-		- **(i.1)** la Société financière internationale,
-		- **(ii)** la Banque interaméricaine de développement,
-		- **(iii)** la Banque de développement asiatique,
-		- **(iv)** la Banque de développement des Caraïbes,
-		- **(v)** la Banque européenne pour la reconstruction et le développement,
-		- **(vi)** la Banque africaine de développement;
+	- **k) et l)** [Abrogés, 2009, ch. 2, art. 105]
 	- **m) à n.1)** [Abrogés, 2007, ch. 29, art. 32]
-	- **o)** d’une obligation, d’un billet ou d’un titre semblable émis par le gouvernement d’un pays étranger, qui, au moment de l’achat, était assorti d’une cote élevée de solvabilité attribuée par une agence de cotation des titres qui, dans le cours normal des activités de son entreprise, évalue la cote des titres de créance émis par ce gouvernement;
+	- **o)** [Abrogé, 2009, ch. 2, art. 105]
 	- **p) et p.1)** [Abrogés, 2007, ch. 29, art. 32]
 	- **q)** d’un titre de créance émis par une société canadienne (sauf une société à capital-actions ou une société qui est une personne rattachée en vertu du régime d’encadrement de la fiducie de régime), si les conditions suivantes sont réunies :
 		- **(i)** le revenu imposable de la société est exonéré de l’impôt prévu à la partie I de la Loi par l’effet de l’alinéa 149(1)l) de la Loi,
@@ -9686,21 +9666,12 @@ et une caisse de crédit est réputée avoir accordé un avantage ou un privilè
 		- **(ii)** l’un ou l’autre des faits suivants se vérifie :
 			- **(A)** le titre de créance est émis par la société dans le cadre d’une émission de titres de créance de la société d’un montant d’au moins 25 000 000 $,
 			- **(B)** au moment de l’acquisition du titre de créance par la fiducie de régime, la société avait émis des titres de créance dans le cadre d’une émission unique d’un montant d’au moins 25 000 000 $;
-	- **s)** si la date donnée est antérieure à 2002, d’un titre d’une société (sauf celle qui a un lien de dépendance avec une personne qui est un rentier, un bénéficiaire, un employeur ou un souscripteur en vertu du régime d’encadrement de la fiducie de régime) qui, selon le cas :
-		- **(i)** remplit les conditions suivantes :
-			- **(A)** sa dernière acquisition par la fiducie de régime remonte à un moment antérieur à septembre 2000,
-			- **(B)** selon le cas :
-				- **(I)** au moment de cette acquisition, il était inscrit soit au tableau hors cote intitulé *OTC Bulletin Board* exploité par Nasdaq Stock Market Inc., soit au tableau hors cote exploité par Pink Sheets LLC,
-				- **(II)** au moment de cette acquisition, il était un placement admissible pour la fiducie de régime et, au cours de la période ayant commencé au moment de cette acquisition et s’étant terminée avant septembre 2000, était inscrit soit au tableau hors cote intitulé *OTC Bulletin Board* exploité par Nasdaq Stock Market Inc., soit au tableau hors cote exploité par Pink Sheets LLC,
-		- **(ii)** remplit les conditions suivantes :
-			- **(A)** il a été acquis par la fiducie de régime après août 2000 d’une autre fiducie de régime dont le rentier ou le bénéficiaire est également le rentier ou le bénéficiaire de la fiducie de régime,
-			- **(B)** immédiatement avant son acquisition par la fiducie de régime, il était un placement admissible de l’autre fiducie de régime,
-			- **(C)** il serait un placement admissible de la fiducie de régime par l’effet du présent alinéa s’il n’était pas tenu compte du présent sous-alinéa, et il a été acquis par la fiducie de régime avant septembre 2000;
+	- **s)** [Abrogé, 2009, ch. 2, art. 105]
 	- **t)** d’une pièce d’or ou d’argent ayant cours légal qui, à la fois :
 		- **(i)** a un titre minimal de 995 parties par mille, dans le cas de l’or, et de 999 parties par mille, dans le cas de l’argent,
 		- **(ii)** a été produite par la Monnaie royale canadienne,
 		- **(iii)** a une juste valeur marchande à la date donnée n’excédant pas 110 % de la juste valeur marchande de son contenu en or ou en argent,
-		- **(iv)** est acquise par la fiducie de régime directement de la Monnaie royale canadienne ou d’une société (appelée «société déterminée» aux alinéas u) et v)) qui, à la fois :
+		- **(iv)** est acquise par la fiducie de régime directement de la Monnaie royale canadienne ou d’une société (appelée « société déterminée » aux alinéas u) et v)) qui, à la fois :
 			- **(A)** est une banque, une société de fiducie, une caisse de crédit, une compagnie d’assurance ou un courtier en valeurs mobilières inscrit,
 			- **(B)** réside au Canada,
 			- **(C)** est une société dont les activités d’entreprise sont légalement sous la surveillance d’un organisme de réglementation au Canada, à savoir le surintendant des institutions financières ou un organisme provincial semblable;
@@ -9748,7 +9719,7 @@ le bien visé aux sous-alinéas a)(i), (ii) ou (iii) et détenu par le régime o
 	- **a)** une fiducie régie par un régime enregistré d’épargne-retraite, un régime enregistré d’épargne-études ou un fonds enregistré de revenu de retraite détient :
 		- **(i)** soit un intérêt dans une société de personnes en commandite de placement dans des petites entreprises,
 		- **(ii)** soit une participation dans une fiducie de placement dans des petites entreprises,
-qui détient un titre de petite entreprise (appelé «titre déterminé» dans le présent paragraphe) d’une société;
+qui détient un titre de petite entreprise (appelé « titre déterminé » dans le présent paragraphe) d’une société;
 	- **b)** une personne qui est un rentier, un bénéficiaire ou un souscripteur en vertu du régime ou du fonds est un actionnaire désigné de la société,
 l’intérêt dans la société de personnes ou la participation dans la fiducie n’est pas un placement admissible pour la fiducie régie par le régime ou fonds, sauf :
 	- **c)** si le titre déterminé est une action du capital-actions d’une société admissible;
