@@ -3855,20 +3855,20 @@ choix du fabricant
 
 **105** 
 
-- **(1)** Subject to section 135, every motor vehicle shall conform to Technical Standards Document No. 105, Hydraulic and Electric Brake Systems (TSD 105), as amended from time to time.
+- **(1)** Subject to section 135, every motor vehicle shall conform to the requirements of Technical Standards Document No. 105, Hydraulic and Electric Brake Systems (TSD 105), as amended from time to time.
 
-- **(2)** Despite section S5.3 and paragraph S5.3.5(b) of TSD 105, if a common indicator is used, the indicator shall display the symbol referred to in subsection 101(9) of this Schedule for brake system malfunction.
+- **(2)** Despite S5.3 and S5.3.5(b) of TSD 105, if a common indicator is used, the indicator shall display the symbol referred to in subsection 101(9) of this Schedule for brake system malfunction.
 
-- **(3)** Despite section S5.3 of TSD 105, the words required to be displayed under section S5.3.5 of TSD 105
-	- **(a)** in the cases referred to in paragraphs S5.3.5(c)(1)(A), (B) and (D), may be replaced or accompanied by a symbol that conforms to the colour requirements of subsection 101(9.1) of this Schedule; and
+- **(3)** Despite S5.3 of TSD 105, the words required to be displayed under S5.3.5 of TSD 105
+	- **(a)** in the cases referred to in S5.3.5(c)(1)(A), (B) and (D) of TSD 105, may be replaced or accompanied by a symbol that conforms to the colour requirements of subsection 101(9.1) of this Schedule; and
 	- **(b)** shall be displayed in both official languages, if not accompanied by a symbol.
 
-- **(4)** Despite section S5.3 and paragraph S5.3.5(c)(1)(C) of TSD 105, if a separate indicator is used to indicate a malfunction in an antilock brake system, the indicator shall display the corresponding symbol shown in Table II to section 101 of this Schedule.
+- **(4)** Despite S5.3 and S5.3.5(c)(1)(C) of TSD 105, if a separate indicator is used to indicate a malfunction in an antilock brake system, the indicator shall display the corresponding symbol shown in Table II to section 101 of this Schedule.
 
-- **(5)** The statement set out in section S5.4.3 of TSD 105 may be replaced by another statement to the same effect.
+- **(5)** The statement set out in S5.4.3 of TSD 105 may be replaced by another statement to the same effect.
 
-- **(6)** This section expires on January 1, 2010.
-> SOR/79-374, s. 3; SOR/80-637, s. 1; SOR/86-683, s. 3; SOR/86-976, s. 3; SOR/91-144, s. 1; SOR/96-89, s. 2; SOR/97-200, ss. 4, 6; SOR/97-421, s. 5; SOR/98-524, s. 4(F); SOR/99-357, s. 3; SOR/2001-35, s. 4; SOR/2005-42, s. 13; SOR/2008-104, s. 11..
+- **(6)** This section expires on June 1, 2013.
+> SOR/79-374, s. 3; SOR/80-637, s. 1; SOR/86-683, s. 3; SOR/86-976, s. 3; SOR/91-144, s. 1; SOR/96-89, s. 2; SOR/97-200, ss. 4, 6; SOR/97-421, s. 5; SOR/98-524, s. 4(F); SOR/99-357, s. 3; SOR/2001-35, s. 4; SOR/2005-42, s. 13; SOR/2008-104, s. 11; SOR/2009-79, s. 1..
 
 
 
@@ -4326,28 +4326,16 @@ choix du fabricant
 
 - **(10)** This section expires on August 1, 2013.
 > Image: Symbol showing a Vehicle Tire and Loading Information Placard, Unilingual English Example with descriptions and measurements as per MVSR S110(2)(b).
-Figure 1 — Vehicle Placard, Unilingual English Example
-
 
 > Image: Symbol showing a Vehicle Tire and Loading Information Placard, Unilingual French Example with descriptions and measurements as per MVSR S110(2)(b).
-Figure 2 — Vehicle Placard, Unilingual French Example
-
 
 > Image: Symbol showing a Vehicle Tire and Loading Information Placard, Bilingual Example with descriptions and measurements as per MVSR S110(2)(b).
-Figure 3 — Vehicle Placard, Bilingual Example
-
 
 > Image: Symbol showing Tire Inflation Pressure Label, Unilingual English Example with descriptions and measurements as per MVSR S110(2)(b).
-Figure 4 — Tire Inflation Pressure Label, Unilingual English Example
-
 
 > Image: Symbol showing Tire Inflation Pressure Label, Unilingual French Example with descriptions and measurements as per MVSR S110(2)(b).
-Figure 5 — Tire Inflation Pressure Label, Unilingual French Example
-
 
 > Image: Symbol showing Tire Inflation Pressure Label, Bilingual Example with descriptions and measurements as per MVSR S110(2)(b).
-Figure 6 — Tire Inflation Pressure Label, Bilingual Example
-
 
 > SOR/79-339, s. 3; SOR/79-940, s. 7; SOR/87-448, s. 1; SOR/2003-272, s. 12; SOR/2008-258, s. 8..
 
@@ -4529,23 +4517,9 @@ where
 
 - 
 > Image: Diagram showing Fields of View of System A and System B Mirrors with descriptions.
-FIGURE 1
-
-FIELDS OF VIEW OF SYSTEM A AND SYSTEM B MIRRORS
-
-
-
 
 > Image: Diagram showing a comparison chart between 3 and 9 minutes of arc.
-FIGURE 2
-
-COMPARISON CHART
-
-
-
 NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN SUBSECTION 111(2)
-
-
 
 
 > SOR/79-940, s. 7; SOR/80-439, s. 3; SOR/82-918, s. 1; SOR/87-658, s. 2; SOR/88-268, s. 6; SOR/95-147, s. 9; SOR/97-463, s. 2; SOR/2002-55, s. 13; SOR/2002-448, s. 1; SOR/2003-272, s. 14; SOR/2006-94, s. 4(E); SOR/2008-72, s. 2..
@@ -5221,18 +5195,18 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 
 **121** 
 
-- **(1)** Every motor vehicle that is equipped with an air brake system and to which Technical Standards Document No. 121, Air Brake Systems (TSD 121) applies shall conform to TSD 121, as amended from time to time.
+- **(1)** Every motor vehicle that is equipped with an air brake system and to which Technical Standards Document No. 121, Air Brake Systems (TSD 121) applies shall conform to the requirements of TSD 121, as amended from time to time.
 
 - **(2)** When a truck or bus is equipped with a front brake pressure limiting valve, that valve shall be automatic and shall operate while the service brakes are applied.
 
-- **(3)** Every antilock brake system malfunction indicator referred to in section S5.1.6.2 of TSD 121 shall display the corresponding symbol shown for this indicator in Table II to section 101 of this Schedule, and all words accompanying the symbols shall be displayed in both official languages.
+- **(3)** Every antilock brake system malfunction indicator referred to in S5.1.6.2 of TSD 121 shall display the corresponding symbol shown for this indicator in Table II to section 101 of this Schedule, and all words accompanying the symbols shall be displayed in both official languages.
 
-- **(4)** Despite paragraph S5.2.3.3(a) of TSD 121, in addition to meeting the requirements of section S5.2.3.2 of TSD 121, each trailer and each trailer converter dolly manufactured before March 1, 2010 shall be equipped with an external antilock brake system malfunction indicator lamp that meets the requirements of paragraphs S5.2.3.3(b) to (d) of TSD 121.
+- **(4)** Despite S5.2.3.3(a) of TSD 121, in addition to conforming to the requirements of S5.2.3.2 of TSD 121, each trailer and each trailer converter dolly manufactured before March 1, 2010 shall be equipped with an external antilock brake system malfunction indicator lamp that conforms to the requirements of S5.2.3.3(b) to (d) of TSD 121.
 
-- **(5)** The test of the parking brake static retardation force that is referred to in section S5.6.1 of TSD 121 must be conducted in both the forward and rearward directions.
+- **(5)** The test of the parking brake static retardation force that is referred to in S5.6.1 of TSD 121 shall be conducted in both the forward and rearward directions.
 
-- **(6)** This section expires on January 1, 2010.
-> SOR/78-351, s. 2; SOR/79-547, s. 1; SOR/79-940, s. 7; SOR/80-638, s. 2; SOR/92-250, s. 4; SOR/94-374, s. 5(F), SOR/94-670, s. 2(F); SOR/95-147, s. 15(F); SOR/96-89, ss. 3, 4(F); SOR/97-200, s. 6; SOR/97-421, ss. 9(E), 22(F); SOR/98-524, s. 4(F); SOR/99-357, s. 4; SOR/2002-55, s. 21; SOR/2005-42, s. 13; SOR/2008-104, s. 14..
+- **(6)** This section expires on June 1, 2013.
+> SOR/78-351, s. 2; SOR/79-547, s. 1; SOR/79-940, s. 7; SOR/80-638, s. 2; SOR/92-250, s. 4; SOR/94-374, s. 5(F), SOR/94-670, s. 2(F); SOR/95-147, s. 15(F); SOR/96-89, ss. 3, 4(F); SOR/97-200, s. 6; SOR/97-421, ss. 9(E), 22(F); SOR/98-524, s. 4(F); SOR/99-357, s. 4; SOR/2002-55, s. 21; SOR/2005-42, s. 13; SOR/2008-104, s. 14; SOR/2009-79, s. 2..
 
 
 
@@ -5336,12 +5310,12 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 
 **131** 
 
-- **(1)** Subject to subsection (2), every school bus shall be equipped with one or two stop signal arms that conform to the requirements of Technical Standards Document No. 131, School Bus Pedestrian Safety Devices, as amended from time to time.
+- **(1)** Subject to subsection (2), every school bus shall be equipped with one or two stop signal arms that conform to the requirements of Technical Standards Document No. 131, School Bus Pedestrian Safety Devices (TSD 131), as amended from time to time.
 
-- **(2)** The word “ARRÊT” may appear instead of, or together with, the word “STOP” in the manner specified with respect to the word “STOP” in section S5.2.2 of Technical Standards Document No 131, School Bus Pedestrian Safety Devices, as amended from time to time.
+- **(2)** The word “ARRÊT” may appear instead of, or together with, the word “STOP” in the manner specified with respect to the word “STOP” in S5.2.2 of TSD 131.
 
-- **(3)** This section expires on January 1, 2010.
-> SOR/96-366, s. 9; SOR/2001-116, s. 2; SOR/2005-42, ss. 5, 6..
+- **(3)** This section expires on June 1, 2013.
+> SOR/96-366, s. 9; SOR/2001-116, s. 2; SOR/2005-42, ss. 5, 6; SOR/2009-79, s. 3..
 
 
 
@@ -5352,22 +5326,22 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 
 **135** 
 
-- **(1)** Every passenger car, every three-wheeled vehicle, and every multi-purpose passenger vehicle, truck and bus with a gross vehicle weight rating of 3 500 kg or less shall conform to Technical Standards Document No. 135, Light Vehicle Brake Systems (TSD 135), as amended from time to time.
+- **(1)** Every passenger car, every three-wheeled vehicle and every multi-purpose passenger vehicle, truck and bus with a GVWR of 3 500 kg or less shall conform to the requirements of Technical Standards Document No. 135, Light Vehicle Brake Systems (TSD 135), as amended from time to time.
 
-- **(2)** The statement set out in section S5.4.3 of TSD 135 may be replaced by another statement to the same effect.
+- **(2)** The statement set out in S5.4.3 of TSD 135 may be replaced by another statement to the same effect.
 
-- **(3)** Despite section S5.5 and paragraph S5.5.5(b) of TSD 135, if a common indicator is used, the indicator shall display the symbol for brake system malfunction referred to in subsection 101(9) of this Schedule.
+- **(3)** Despite S5.5 and S5.5.5(b) of TSD 135, if a common indicator is used, the indicator shall display the symbol for brake system malfunction referred to in subsection 101(9) of this Schedule.
 
-- **(4)** Despite section S5.5 of TSD 135, the words required to be displayed under section S5.5.5 of TSD 135
-	- **(a)** may be replaced or accompanied by a symbol that conforms to the colour requirements of subsection 101(9.1) of this Schedule in the cases referred to in paragraphs S5.5.5(d)(1), (2), (4) and (5) and in the case of the variable brake proportioning system indicator referred to in paragraph S5.5.5(d)(3); and
+- **(4)** Despite S5.5 of TSD 135, the words required to be displayed under S5.5.5 of TSD 135
+	- **(a)** in the cases referred to in S5.5.5(d)(1), (2), (4) and (5) of TSD 135 and in the case of the variable brake proportioning system indicator referred to in S5.5.5(d)(3) of TSD 135, may be replaced or accompanied by a symbol that conforms to the colour requirements of subsection 101(9.1) of this Schedule; and
 	- **(b)** shall be displayed in both official languages, if not accompanied by a symbol.
 
-- **(5)** Despite section S5.5 and paragraph S5.5.5(d)(3) of TSD 135, if a separate indicator is used to indicate an electrical functional failure in an antilock brake system, the indicator shall display the corresponding symbol shown in Table II to section 101 of this Schedule.
+- **(5)** Despite S5.5 and S5.5.5(d)(3) of TSD 135, if a separate indicator is used to indicate an electrical functional failure in an antilock brake system, the indicator shall display the corresponding symbol shown in Table II to section 101 of this Schedule.
 
-- **(6)** The word “car” used in sections S6.3.6 and S6.3.7 of the English version of TSD 135 shall be read as “vehicle”.
+- **(6)** The word “car” used in S6.3.6 and S6.3.7 of the English version of TSD 135 shall be read as “vehicle”.
 
-- **(7)** This section expires on January 1, 2010.
-> SOR/97-200, s. 5; SOR/99-357, s. 5; SOR/2001-35, s. 6; SOR/2003-272, s. 20; SOR/2005-42. s. 13; SOR/2006-94, s. 4(E); SOR/2008-104, s. 15..
+- **(7)** This section expires on June 1, 2013.
+> SOR/97-200, s. 5; SOR/99-357, s. 5; SOR/2001-35, s. 6; SOR/2003-272, s. 20; SOR/2005-42. s. 13; SOR/2006-94, s. 4(E); SOR/2008-104, s. 15; SOR/2009-79, s. 4..
 
 
 
@@ -6078,119 +6052,267 @@ to the nearest contact point of the belt with the seat belt anchorage shall exte
 - **(12)** The strength requirement tests shall be conducted with the vehicle seat adjusted to its full rearward and full downward position and the seat back in its most upright position.
 
 - 
+<table>
+<tr>
+<td>
 > Image: Diagram showing Interface Profile of Tether Strap Hook with measurements and descriptions.
-Notes
+</td>
+</tr>
+<tr>
+<td>Notes</td>
+</tr>
+<tr>
+<td>1. Dimensions in mm, except where otherwise indicated</td>
+</tr>
+<tr>
+<td>2. Drawing not to scale</td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td>Figure 1 — Interface Profile of Tether Strap Hook</td>
+</tr>
+</table>
 
-**1** Dimensions in mm, except where otherwise indicated
-
-**2** Drawing not to scale
-
-Figure 1 — Interface Profile of Tether Strap Hook
-
-
+<table>
+<tr>
+<td>
 > Image: Diagram showing Symbol Used to Identify the Location of a User-ready Tether Anchorage That Is under a Cover with a symbol of a child in a child seat and an anchor attached to the top of the child seat.
-Notes
+</td>
+</tr>
+<tr>
+<td>Notes</td>
+</tr>
+<tr>
+<td>1. Dimensions in mm</td>
+</tr>
+<tr>
+<td>2. Drawing not to scale</td>
+</tr>
+<tr>
+<td>3. Symbol may be embossed</td>
+</tr>
+<tr>
+<td>4. Colour of the symbol is at the option of the manufacturer</td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td>Figure 2 -- Symbol Used to Identify the Location of a User-ready Tether Anchorage That Is under a Cover</td>
+</tr>
+</table>
 
-**1** Dimensions in mm
-
-**2** Drawing not to scale
-
-**3** Symbol may be embossed
-
-**4** Colour of the symbol is at the option of the manufacturer
-
-Figure 2 -- Symbol Used to Identify the Location of a User-ready Tether Anchorage That Is under a Cover
-
-
+<table>
+<tr>
+<td>
 > Image: Diagram of the Side View, User-ready Tether Anchorage Location with measurements and descriptions.
-Notes
+</td>
+</tr>
+<tr>
+<td>Notes</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Dimensions in mm, except where otherwise indicated</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Portion of user-ready tether anchorage that is designed to bind with the tether strap hook to be located within shaded zone</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Drawing not to scale</td>
+</tr>
+<tr>
+<td>4</td>
+<td>“R” Point: Shoulder reference point</td>
+</tr>
+<tr>
+<td>5</td>
+<td>“V” Point: V-reference point, 350 mm vertically above and 175 mm horizontally back from H-point</td>
+</tr>
+<tr>
+<td>6</td>
+<td>“W” Point: W-reference point, 50 mm vertically below and 50 mm horizontally back from “R” Point</td>
+</tr>
+<tr>
+<td>7</td>
+<td>“M” Plane: M-reference plane, 1 000 mm horizontally back from “R” Point</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Figure 3 -- Side View, User-ready Tether Anchorage Location</td>
+</tr>
+</table>
 
-**1** Dimensions in mm, except where otherwise indicated
-
-**2** Portion of user-ready tether anchorage that is designed to bind with the tether strap hook to be located within shaded zone
-
-**3** Drawing not to scale
-
-**4** “R” Point: Shoulder reference point
-
-**5** “V” Point: V-reference point, 350 mm vertically above and 175 mm horizontally back from H-point
-
-**6** “W” Point: W-reference point, 50 mm vertically below and 50 mm horizontally back from “R” Point
-
-**7** “M” Plane: M-reference plane, 1 000 mm horizontally back from “R” Point
-
-Figure 3 -- Side View, User-ready Tether Anchorage Location
-
-
+<table>
+<tr>
+<td>
 > Image: Diagram showing Enlarged Side View of Strap Wrap-around Area, User-ready Tether Anchorage Location with measurements and descriptions.
-Notes
+</td>
+</tr>
+<tr>
+<td>Notes</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Dimensions in mm, except where otherwise indicated</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Portion of user-ready tether anchorage that is designed to bind with the tether strap hook to be located within shaded zone</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Drawing not to scale</td>
+</tr>
+<tr>
+<td>4</td>
+<td>“R” Point: Shoulder reference point</td>
+</tr>
+<tr>
+<td>5</td>
+<td>“V”: V-reference point, 350 mm vertically above and 175 mm horizontally back from H-point</td>
+</tr>
+<tr>
+<td>6</td>
+<td>“W” Point: W-reference point, 50 mm vertically below and 50 mm horizontally back from “R” Point</td>
+</tr>
+<tr>
+<td>7</td>
+<td>“M” Plane: M-reference plane, 1 000 mm horizontally back from “R” Point</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Figure 4 — Enlarged Side View of Strap Wrap-around Area, User-ready Tether Anchorage Location</td>
+</tr>
+</table>
 
-**1** Dimensions in mm, except where otherwise indicated
-
-**2** Portion of user-ready tether anchorage that is designed to bind with the tether strap hook to be located within shaded zone
-
-**3** Drawing not to scale
-
-**4** “R” Point: Shoulder reference point
-
-**5** “V”: V-reference point, 350 mm vertically above and 175 mm horizontally back from H-point
-
-**6** “W” Point: W-reference point, 50 mm vertically below and 50 mm horizontally back from “R” Point
-
-**7** “M” Plane: M-reference plane, 1 000 mm horizontally back from “R” Point
-
-Figure 4 — Enlarged Side View of Strap Wrap-around Area, User-ready Tether Anchorage Location
-
-
+<table>
+<tr>
+<td>
 > Image: Diagram showing Plan View (R-plane Cross Section), User-ready Tether Anchorage Location with measurements and descriptions.
-Notes
+</td>
+</tr>
+<tr>
+<td>Notes</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Dimensions in mm, except where otherwise indicated</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Portion of user-ready tether anchorage that is designed to bind with the tether strap hook to be located within shaded zone</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Drawing not to scale</td>
+</tr>
+<tr>
+<td>4</td>
+<td>“R” Point: Shoulder reference point</td>
+</tr>
+<tr>
+<td>5</td>
+<td>“V” Point: V-reference point, 350 mm vertically above and 175 mm horizontally back from H-point</td>
+</tr>
+<tr>
+<td>6</td>
+<td>“W” Point: W-reference point, 50 mm vertically below and 50 mm horizontally back from “R” Point</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Figure 5 — Plan View (R-plane Cross Section), User-ready Tether Anchorage Location</td>
+</tr>
+</table>
 
-**1** Dimensions in mm, except where otherwise indicated
-
-**2** Portion of user-ready tether anchorage that is designed to bind with the tether strap hook to be located within shaded zone
-
-**3** Drawing not to scale
-
-**4** “R” Point: Shoulder reference point
-
-**5** “V” Point: V-reference point, 350 mm vertically above and 175 mm horizontally back from H-point
-
-**6** “W” Point: W-reference point, 50 mm vertically below and 50 mm horizontally back from “R” Point
-
-Figure 5 — Plan View (R-plane Cross Section), User-ready Tether Anchorage Location
-
-
+<table>
+<tr>
+<td>
 > Image: Diagram showing Front View, User-ready Tether Anchorage Location with measurements and descriptions.
-Notes
+</td>
+</tr>
+<tr>
+<td>Notes</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Portion of user-ready tether anchorage that is designed to bind with the tether strap hook to be located within shaded zone</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Drawing not to scale</td>
+</tr>
+<tr>
+<td>3</td>
+<td>“R” Point: Shoulder reference point</td>
+</tr>
+<tr>
+<td>4</td>
+<td>“V” Point: V-reference point, 350 mm vertically above and 175 mm horizontally back from H-point</td>
+</tr>
+<tr>
+<td>5</td>
+<td>“W” Point: W-reference point, 50 mm vertically below and 50 mm horizontally back from “R” Point</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Figure 6 — Front View, User-ready Tether Anchorage Location</td>
+</tr>
+</table>
 
-**1** Portion of user-ready tether anchorage that is designed to bind with the tether strap hook to be located within shaded zone
-
-**2** Drawing not to scale
-
-**3** “R” Point: Shoulder reference point
-
-**4** “V” Point: V-reference point, 350 mm vertically above and 175 mm horizontally back from H-point
-
-**5** “W” Point: W-reference point, 50 mm vertically below and 50 mm horizontally back from “R” Point
-
-Figure 6 — Front View, User-ready Tether Anchorage Location
-
-
+<table>
+<tr>
+<td>
 > Image: Diagram showing Three-dimensional Schematic View of User-ready Tether Anchorage Location with measurements and descriptions.
-Notes
-
-**1** Portion of user-ready tether anchorage that is designed to bind with the tether strap hook to be located within shaded zone
-
-**2** Drawing not to scale
-
-**3** “R” Point: Shoulder reference point
-
-**4** “V” Point: V-reference point, 350 mm vertically above and 175 mm horizontally back from H-point
-
-**5** “W” Point: W-reference point, 50 mm vertically below and 50 mm horizontally back from “R” Point
-
-Figure 7 — Three-dimensional Schematic View of User-ready Tether Anchorage Location
-
+</td>
+</tr>
+<tr>
+<td>Notes</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Portion of user-ready tether anchorage that is designed to bind with the tether strap hook to be located within shaded zone</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Drawing not to scale</td>
+</tr>
+<tr>
+<td>3</td>
+<td>“R” Point: Shoulder reference point</td>
+</tr>
+<tr>
+<td>4</td>
+<td>“V” Point: V-reference point, 350 mm vertically above and 175 mm horizontally back from H-point</td>
+</tr>
+<tr>
+<td>5</td>
+<td>“W” Point: W-reference point, 50 mm vertically below and 50 mm horizontally back from “R” Point</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Figure 7 — Three-dimensional Schematic View of User-ready Tether Anchorage Location</td>
+</tr>
+</table>
 Figures 8 to 11 [Repealed, SOR/2008-72, s. 8]
 
 
@@ -7295,27 +7417,16 @@ Figure 3 — Load Application Test
 
 ### Fuel System Integrity (Standard 301)
 
-
-#### General
-
 **301** 
 
-- **(1)** Every passenger car and every multi-purpose passenger vehicle, truck and bus with a GVWR of 4 536 kg or less that is equipped with a fuel system that uses a fuel with a boiling point of 0°C or higher as a source of energy for its propulsion shall meet the requirements of Technical Standards Document No. 301, Fuel System Integrity, as amended from time to time (hereinafter referred to as TSD 301).
+- **(1)** Every passenger car and every multi-purpose passenger vehicle, truck and bus with a GVWR of 4 536 kg or less that is equipped with a fuel system that uses a fuel with a boiling point of 0°C or higher as a source of energy for its propulsion shall conform to the requirements of Technical Standards Document No. 301, Fuel System Integrity (TSD 301), as amended from time to time.
 
-- **(2)** A school bus with a GVWR of more than 4 536 kg that is equipped with a fuel system that uses a fuel with a boiling point of 0°C or higher as a source of energy for its propulsion shall meet the requirements of TSD 301.
+- **(2)** A school bus with a GVWR of more than 4 536 kg that is equipped with a fuel system that uses a fuel with a boiling point of 0°C or higher as a source of energy for its propulsion shall conform to the requirements of TSD 301.
 
-#### Technical Standards Document No. 301
+- **(3)** Instead of being tested in accordance with S6.2(a) and S6.3(a) of TSD 301, a vehicle referred to in subsection (1) may, at the option of the manufacturer, be tested in accordance with S6.2(b) and S6.3(b) of TSD 301 before September 1, 2009.
 
-
-- **(3)** Instead of being tested in accordance with paragraphs S6.2(a) and S6.3(a) of TSD 301, a vehicle referred to in subsection (1) may, at the option of the manufacturer, be tested in accordance with paragraphs S6.2(b) and S6.3(b) of TSD 301 before September 1, 2009.
-
-- **(4)** [Repealed, SOR/2008-258, s. 10]
-
-#### Expiry Date
-
-
-- **(5)** This section expires on February 28, 2009.
-> SOR/80-158, s. 1; SOR/97-421, s. 17; SOR/2001-152, s. 2; SOR/2004-89, s. 1; SOR/2006-94, s. 4(E); SOR/2008-258, s. 10..
+- **(4)** This section expires on June 1, 2013.
+> SOR/80-158, s. 1; SOR/97-421, s. 17; SOR/2001-152, s. 2; SOR/2004-89, s. 1; SOR/2006-94, s. 4(E); SOR/2008-258, s. 10; SOR/2009-79, s. 5..
 
 
 
