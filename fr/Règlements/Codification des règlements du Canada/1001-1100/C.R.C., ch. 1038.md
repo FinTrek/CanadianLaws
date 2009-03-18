@@ -3840,20 +3840,20 @@ choix du fabricant
 
 **105** 
 
-- **(1)** Sous réserve de l’article 135, les véhicules automobiles doivent être conformes au Document de normes techniques no 105 — Systèmes de freinage hydraulique et électrique (DNT 105), avec ses modifications successives.
+- **(1)** Sous réserve de l’article 135, les véhicules automobiles doivent être conformes aux exigences du Document de normes techniques no 105 — Systèmes de freinage hydraulique et électrique (DNT 105), avec ses modifications successives.
 
 - **(2)** Malgré les dispositions S5.3 et S5.3.5b) du DNT 105, si un indicateur commun est utilisé, celui-ci doit afficher le symbole visé au paragraphe 101(9) de la présente annexe pour le mauvais fonctionnement du système de freinage.
 
 - **(3)** Malgré la disposition S5.3 du DNT 105, les mots dont l’affichage est exigé par la disposition S5.3.5 du DNT 105 :
-	- **a)** dans les cas visés aux dispositions S5.3.5c)1)A), B) et D), peuvent être remplacés par un symbole conforme aux couleurs exigées par le paragraphe 101(9.1) de la présente annexe ou accompagnés de celui-ci;
+	- **a)** dans les cas visés aux dispositions S5.3.5c)1)A), B) et D) du DNT 105, peuvent être remplacés par un symbole conforme aux couleurs exigées par le paragraphe 101(9.1) de la présente annexe ou accompagnés de celui-ci;
 	- **b)** s’ils n’accompagnent pas un symbole, doivent être dans les deux langues officielles.
 
 - **(4)** Malgré les dispositions S5.3 et S5.3.5c)1)C) du DNT 105, si un indicateur distinct est utilisé pour signaler le mauvais fonctionnement d’un dispositif de frein anti-blocage, celui-ci doit afficher le symbole correspondant qui figure au tableau II de l’article 101 de la présente annexe.
 
 - **(5)** La mention figurant dans la disposition S5.4.3 du DNT 105 peut être remplacée par une autre mention au même effet.
 
-- **(6)** Le présent article cesse d’avoir effet le 1<sup>er</sup> janvier 2010.
-> DORS/79-374, art. 3; DORS/80-637, art. 1; DORS/86-683, art. 3; DORS/86-976, art. 3; DORS/91-144, art. 1; DORS/96-89, art. 2; DORS/97-200, art. 4 et 6; DORS/97-421, art. 5; DORS/98-524, art. 4(F); DORS/99-357, art. 3; DORS/2001-35, art. 4; DORS/2005-42, art. 13; DORS/2008-104, art. 11..
+- **(6)** Le présent article cesse d’avoir effet le 1<sup>er</sup> juin 2013.
+> DORS/79-374, art. 3; DORS/80-637, art. 1; DORS/86-683, art. 3; DORS/86-976, art. 3; DORS/91-144, art. 1; DORS/96-89, art. 2; DORS/97-200, art. 4 et 6; DORS/97-421, art. 5; DORS/98-524, art. 4(F); DORS/99-357, art. 3; DORS/2001-35, art. 4; DORS/2005-42, art. 13; DORS/2008-104, art. 11; DORS/2009-79, art. 1..
 
 
 
@@ -4312,28 +4312,16 @@ choix du fabricant
 
 - **(10)** Le présent article cesse d’avoir effet le 1<sup>er</sup> août 2013.
 > Image: Symbole montrant la plaque du véhicule, exemple unilingue anglais avec mesures et descriptions selon RVSA S110(2)(b).
-Figure 1 — Plaque du véhicule : Exemple unilingue français
-
 
 > Image: Symbole montrant la plaque du véhicule, exemple unilingue français avec mesures et descriptions selon RVSA S110(2)(b).
-Figure 2 — Plaque du véhicule : Exemple unilingue anglais
-
 
 > Image: Symbole montrant la plaque du véhicule, exemple bilingue avec mesures et descriptions selon RVSA S110(2)(b).
-Figure 3 — Plaque du véhicule : Exemple bilingue
-
 
 > Image: Symbole montrant une étiquette de pression de gonflage des pneus, exemple unilingue anglais avec mesures et descriptions selon RVSA S110(2)(b).
-Figure 4 — Étiquette de pression de gonflage des pneus : Exemple unilingue français
-
 
 > Image: Symbole montrant une étiquette de pression de gonflage des pneus, exemple unilingue français avec mesures et descriptions selon RVSA S110(2)(b).
-Figure 5 — Étiquette de pression de gonflage des pneus : Exemple unilingue anglais
-
 
 > Image: Symbole montrant une étiquette de pression de gonflage des pneus, exemple bilingue avec mesures et descriptions selon RVSA S110(2)(b).
-Figure 6 — Étiquette de pression de gonflage des pneus : Exemple bilingue
-
 
 > DORS/79-339, art. 3; DORS/79-940, art. 7; DORS/87-448, art. 1; DORS/2003-272, art. 12; DORS/2008-258, art. 8..
 
@@ -4515,23 +4503,9 @@ où :
 
 - 
 > Image: Diagramme montrant les champs de vision des miroirs du système A et du système B avec descriptions.
-FIGURE 1
-
-CHAMPS DE VISIBILITÉ DES MIROIRS DU SYSTÈME A ET DU SYSTÈME B
-
-
-
 
 > Image: Diagramme montrant un tableau de comparaison entre 3 et 9 minutes d’arc.
-FIGURE 2
-
-TABLEAU DE COMPARAISON
-
 NOTE : LE CALCUL DES DIMENSIONS DES IMAGES DE RÉFÉRENCE SE FAIT AU MOYEN DES FORMULES VISÉES AU PARAGRAPHE 111(22)
-
-
-
-
 
 
 > DORS/79-940, art. 7; DORS/80-439, art. 3; DORS/82-918, art. 1; DORS/87-658, art. 2; DORS/88-268, art. 6; DORS/95-147, art. 9; DORS/97-463, art. 2; DORS/2002-55, art. 13; DORS/2002-448, art. 1; DORS/2003-272, art. 14; DORS/2006-94, art. 4(A); DORS/2008-72, art. 2..
@@ -5207,18 +5181,18 @@ NOTE : LE CALCUL DES DIMENSIONS DES IMAGES DE RÉFÉRENCE SE FAIT AU MOYEN DES F
 
 **121** 
 
-- **(1)** Les véhicules automobiles qui sont munis d’un système de freinage à air comprimé et auxquels s’applique le Document de normes techniques no 121 — Systèmes de freinage à air comprimé (DNT 121) doivent être conformes au DNT 121, avec ses modifications successives.
+- **(1)** Les véhicules automobiles qui sont munis d’un système de freinage à air comprimé et auxquels s’applique le Document de normes techniques no 121 — Systèmes de freinage à air comprimé (DNT 121) doivent être conformes aux exigences du DNT 121, avec ses modifications successives.
 
 - **(2)** Lorsqu’un camion ou un autobus est muni d’une soupape de limitation de pression dans les freins avant, celle-ci doit être automatique et fonctionner pendant le serrage des freins de service.
 
-- **(3)** Les indicateurs du mauvais fonctionnement du dispositif de frein anti-blocage visés à la disposition S5.1.6.2 du DNT 121 doivent afficher le symbole correspondant qui figure au tableau II de l’article 101 de la présente annexe, et les mots qui accompagnent les symboles doivent être dans les deux langues officielles.
+- **(3)** Les indicateurs du mauvais fonctionnement du dispositif de frein anti-blocage visés à la disposition S5.1.6.2 du DNT 121 doivent afficher le symbole correspondant qui figure au tableau II de l’article 101 de la présente annexe, et les mots qui accompagnent les symboles doivent être dans les deux langues officielles.
 
 - **(4)** Malgré la disposition S5.2.3.3a) du DNT 121, les remorques et les chariots de conversion construits avant le 1<sup>er</sup> mars 2010 doivent, en plus d’être conformes aux exigences de la disposition S5.2.3.2 de ce DNT, être munis d’un indicateur externe du mauvais fonctionnement du dispositif de frein anti-blocage qui est conforme aux exigences prévues aux dispositions S5.2.3.3b) à d) du DNT 121.
 
-- **(5)** L’essai concernant la force de freinage statique sur les freins de stationnement, auquel il est fait référence à la disposition S5.6.1 du DNT 121, doit être effectué dans les deux directions, soit vers l’avant et vers l’arrière.
+- **(5)** L’essai qui concerne la force de freinage statique sur les freins de stationnement et auquel il est fait référence à la disposition S5.6.1 du DNT 121 doit être effectué dans les deux directions, soit vers l’avant et vers l’arrière.
 
-- **(6)** Le présent article cesse d’avoir effet le 1<sup>er</sup> janvier 2010.
-> DORS/78-351, art. 2; DORS/79-547, art. 1; DORS/79-940, art. 7; DORS/80-638, art. 2; DORS/92-250, art. 4; DORS/94-374, art. 5(F); DORS/94-670, art. 2(F); DORS/95-147, art. 15(F); DORS/96-89, art. 3 et 4(F); DORS/97-200, art. 6; DORS/97-421, art. 9(A) et 22(F); DORS/98-524, art. 4(F); DORS/99-357, art. 4; DORS/2002-55, art. 21; DORS/2005-42, art. 13; DORS/2008-104, art. 14..
+- **(6)** Le présent article cesse d’avoir effet le 1<sup>er</sup> juin 2013.
+> DORS/78-351, art. 2; DORS/79-547, art. 1; DORS/79-940, art. 7; DORS/80-638, art. 2; DORS/92-250, art. 4; DORS/94-374, art. 5(F); DORS/94-670, art. 2(F); DORS/95-147, art. 15(F); DORS/96-89, art. 3 et 4(F); DORS/97-200, art. 6; DORS/97-421, art. 9(A) et 22(F); DORS/98-524, art. 4(F); DORS/99-357, art. 4; DORS/2002-55, art. 21; DORS/2005-42, art. 13; DORS/2008-104, art. 14; DORS/2009-79, art. 2..
 
 
 
@@ -5322,12 +5296,12 @@ NOTE : LE CALCUL DES DIMENSIONS DES IMAGES DE RÉFÉRENCE SE FAIT AU MOYEN DES F
 
 **131** 
 
-- **(1)** Sous réserve du paragraphe (2), chaque autobus scolaire doit être muni d’un ou de deux signaux d’arrêt escamotables qui sont conformes aux exigences du Document de normes techniques no 131 — Dispositifs de sécurité pour les piétons à proximité des autobus scolaires, avec ses modifications successives.
+- **(1)** Sous réserve du paragraphe (2), les autobus scolaires doivent être munis d’un ou de deux signaux d’arrêt escamotables qui sont conformes aux exigences du Document de normes techniques no 131 — Dispositifs de sécurité pour les piétons à proximité des autobus scolaires (DNT 131), avec ses modifications successives.
 
-- **(2)** Le mot « ARRÊT » peut apparaître à la place du mot « STOP » ou avec celui ci, de la manière prescrite pour le mot « STOP » à la disposition S5.2.2 du Document de normes techniques no 131 — Dispositifs de sécurité pour les piétons à proximité des autobus scolaires, avec ses modifications successives.
+- **(2)** Le mot « ARRÊT » peut figurer à la place du mot « STOP » ou avec celui ci, de la manière précisée pour le mot « STOP » à la disposition S5.2.2 du DNT 131.
 
-- **(3)** Le présent article cesse d’avoir effet le 1<sup>er</sup> janvier 2010.
-> DORS/96-366, art. 9; DORS/2001-116, art. 2; DORS/2005-42, art. 5 et 6..
+- **(3)** Le présent article cesse d’avoir effet le 1<sup>er</sup> juin 2013.
+> DORS/96-366, art. 9; DORS/2001-116, art. 2; DORS/2005-42, art. 5 et 6; DORS/2009-79, art. 3..
 
 
 
@@ -5338,22 +5312,22 @@ NOTE : LE CALCUL DES DIMENSIONS DES IMAGES DE RÉFÉRENCE SE FAIT AU MOYEN DES F
 
 **135** 
 
-- **(1)** Les voitures de tourisme, les véhicules à trois roues, ainsi que les véhicules de tourisme à usages multiples, camions et autobus dont le poids nominal brut est de 3 500 kg ou moins, doivent être conformes au Document de normes techniques no 135 — Systèmes de freinage de véhicules légers (DNT 135), avec ses modifications successives.
+- **(1)** Les voitures de tourisme, les véhicules à trois roues ainsi que les véhicules de tourisme à usages multiples, camions et autobus dont le PNBV est de 3 500 kg ou moins doivent être conformes aux exigences du Document de normes techniques no 135 — Systèmes de freinage de véhicules légers (DNT 135), avec ses modifications successives.
 
 - **(2)** La mention figurant à la disposition S5.4.3 du DNT 135 peut être remplacée par une autre mention au même effet.
 
 - **(3)** Malgré les dispositions S5.5 et S5.5.5b) du DNT 135, si un indicateur commun est utilisé, celui-ci doit afficher le symbole visé au paragraphe 101(9) de la présente annexe pour le mauvais fonctionnement du système de freinage.
 
 - **(4)** Malgré la disposition S5.5 du DNT 135, les mots dont l’affichage est exigé par la disposition S5.5.5 du DNT 135 :
-	- **a)** dans les cas visés aux dispositions S5.5.5d)1), 2), 4) et 5) et dans le cas de l’indicateur du compensateur de freinage visé à la disposition S5.5.5d)3), peuvent être remplacés par un symbole conforme aux couleurs exigées par le paragraphe 101(9.1) de la présente annexe ou accompagnés de celui-ci;
+	- **a)** dans les cas visés aux dispositions S5.5.5d)1), 2), 4) et 5) du DNT 135 et dans le cas de l’indicateur du compensateur de freinage visé à la disposition S5.5.5d)3) du DNT 135, peuvent être remplacés par un symbole conforme aux couleurs exigées par le paragraphe 101(9.1) de la présente annexe ou accompagnés de celui-ci;
 	- **b)** s’ils n’accompagnent pas un symbole, doivent être dans les deux langues officielles.
 
-- **(5)** Malgré les dispositions S5.5 et S5.5.5d)3) du DNT 135, si un indicateur distinct est utilisé pour signaler une défaillance du fonctionnement électrique d’un dispositif de frein anti-blocage, celui-ci doit afficher le symbole correspondant qui figure au tableau II de l’article 101 de la présente annexe.
+- **(5)** Malgré les dispositions S5.5 et S5.5.5d)3) du DNT 135, si un indicateur distinct est utilisé pour signaler une défaillance du fonctionnement électrique d’un dispositif de frein anti-blocage, il doit afficher le symbole correspondant qui figure au tableau II de l’article 101 de la présente annexe.
 
-- **(6)** Le mot « car » employé dans les dispositions S6.3.6 et S6.3.7 de la version anglaise du DNT 135 vaut mention de « vehicle ».
+- **(6)** Le mot « car » employé dans les dispositions S6.3.6 et S6.3.7 de la version anglaise du DNT 135 vaut mention de « vehicle ».
 
-- **(7)** Le présent article cesse d’avoir effet le 1<sup>er</sup> janvier 2010.
-> DORS/97-200, art. 5; DORS/99-357, art. 5; DORS/2001-35, art. 6; DORS/2003-272, art. 20; DORS/2005-42, art. 13; DORS/2006-94, art. 4(A); DORS/2008-104, art. 15..
+- **(7)** Le présent article cesse d’avoir effet le 1<sup>er</sup> juin 2013.
+> DORS/97-200, art. 5; DORS/99-357, art. 5; DORS/2001-35, art. 6; DORS/2003-272, art. 20; DORS/2005-42, art. 13; DORS/2006-94, art. 4(A); DORS/2008-104, art. 15; DORS/2009-79, art. 4..
 
 
 
@@ -6063,119 +6037,267 @@ où :
 - **(12)** Les essais de résistance doivent être effectués avec le siège ajusté dans sa position la plus reculée et la plus basse et le dossier, dans sa position la plus droite.
 
 - 
+<table>
+<tr>
+<td>
 > Image: Diagramme montrant le profil d’interface du crochet de la courroie d’attache avec mesures et descriptions.
-Remarques :
+</td>
+</tr>
+<tr>
+<td>Remarques :</td>
+</tr>
+<tr>
+<td>1. Les dimensions sont exprimées en mm, sauf indication contraire.</td>
+</tr>
+<tr>
+<td>2. Le dessin n’est pas à l’échelle.</td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td>Figure 1 — Profil d’interface du crochet de la courroie d’attache</td>
+</tr>
+</table>
 
-**1** Les dimensions sont exprimées en mm, sauf indication contraire.
-
-**2** Le dessin n’est pas à l’échelle.
-
-Figure 1 — Profil d’interface du crochet de la courroie d’attache
-
-
+<table>
+<tr>
+<td>
 > Image: Diagramme montrant un symbole servant à indiquer l’emplacement d’un ancrage d’attache prêt à utiliser qui est recouvert, avec une photo représentant une personne assise et comportant le système d’ancrage de la ceinture.
-Remarques :
+</td>
+</tr>
+<tr>
+<td>Remarques :</td>
+</tr>
+<tr>
+<td>1. Les dimensions sont exprimées en mm.</td>
+</tr>
+<tr>
+<td>2. Le dessin n’est pas à l’échelle.</td>
+</tr>
+<tr>
+<td>3. Le symbole peut être en relief.</td>
+</tr>
+<tr>
+<td>4. La couleur du symbole est laissée au choix du fabricant.</td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td>Figure 2 -- Symbole servant à indiquer l’emplacement d’un ancrage d’attache prêt à utiliser qui est recouvert</td>
+</tr>
+</table>
 
-**1** Les dimensions sont exprimées en mm.
-
-**2** Le dessin n’est pas à l’échelle.
-
-**3** Le symbole peut être en relief.
-
-**4** La couleur du symbole est laissée au choix du fabricant.
-
-Figure 2 -- Symbole servant à indiquer l’emplacement d’un ancrage d’attache prêt à utiliser qui est recouvert
-
-
+<table>
+<tr>
+<td>
 > Image: Diagramme montrant la vue de côté, positionnement de l’ancrage d’attache prêt à utiliser avec mesures et descriptions.
-Remarques :
+</td>
+</tr>
+<tr>
+<td>Remarques :</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Les dimensions sont exprimées en mm, sauf indication contraire.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>La partie de l’ancrage d’attache prêt à utiliser qui est conçue pour s’unir au crochet de la courroie d’attache doit être située dans les limites de la zone ombrée.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Le dessin n’est pas à l’échelle.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Point « R » : point de référence de l’épaule</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Point « V » : point de référence V, à 350 mm verticalement vers le haut et à 175 mm horizontalement vers l’arrière par rapport au point « H »</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Point « W » : point de référence W, à 50 mm verticalement vers le bas et à 50 mm horizontalement vers l’arrière par rapport au point « R »</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Plan « M » : plan de référence M, à 1 000 mm horizontalement vers l’arrière par rapport au point « R »</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Figure 3 -- Vue de côté, positionnement de l’ancrage d’attache prêt à utiliser</td>
+</tr>
+</table>
 
-**1** Les dimensions sont exprimées en mm, sauf indication contraire.
-
-**2** La partie de l’ancrage d’attache prêt à utiliser qui est conçue pour s’unir au crochet de la courroie d’attache doit être située dans les limites de la zone ombrée.
-
-**3** Le dessin n’est pas à l’échelle.
-
-**4** Point « R » : point de référence de l’épaule
-
-**5** Point « V » : point de référence V, à 350 mm verticalement vers le haut et à 175 mm horizontalement vers l’arrière par rapport au point « H »
-
-**6** Point « W » : point de référence W, à 50 mm verticalement vers le bas et à 50 mm horizontalement vers l’arrière par rapport au point « R »
-
-**7** Plan « M » : plan de référence M, à 1 000 mm horizontalement vers l’arrière par rapport au point « R »
-
-Figure 3 -- Vue de côté, positionnement de l’ancrage d’attache prêt à utiliser
-
-
+<table>
+<tr>
+<td>
 > Image: Diagramme montrant la vue de côté agrandie de la zone d’enroulement de la courroie, positionnement de l’ancrage d’attache prêt à utiliser avec mesures et descriptions.
-Remarques :
+</td>
+</tr>
+<tr>
+<td>Remarques :</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Les dimensions sont exprimées en mm, sauf indication contraire.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>La partie de l’ancrage d’attache prêt à utiliser qui est conçue pour s’unir au crochet de la courroie d’attache doit être située dans les limites de la zone ombrée.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Le dessin n’est pas à l’échelle.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Point « R » : point de référence de l’épaule.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Point « V » : point de référence V, à 350 mm verticalement vers le haut et à 175 mm horizontalement vers l’arrière par rapport au point « H ».</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Point « W » : point de référence W, à 50 mm verticalement vers le bas et à 50 mm horizontalement vers l’arrière par rapport au point « R ».</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Plan « M » : plan de référence M, à 1 000 mm horizontalement vers l’arrière par rapport au point « R ».</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Figure 4 — Vue de côté agrandie de la zone d’enroulement de la courroie, positionnement de l’ancrage d’attache prêt à utiliser</td>
+</tr>
+</table>
 
-**1** Les dimensions sont exprimées en mm, sauf indication contraire.
-
-**2** La partie de l’ancrage d’attache prêt à utiliser qui est conçue pour s’unir au crochet de la courroie d’attache doit être située dans les limites de la zone ombrée.
-
-**3** Le dessin n’est pas à l’échelle.
-
-**4** Point « R » : point de référence de l’épaule.
-
-**5** Point « V » : point de référence V, à 350 mm verticalement vers le haut et à 175 mm horizontalement vers l’arrière par rapport au point « H ».
-
-**6** Point « W » : point de référence W, à 50 mm verticalement vers le bas et à 50 mm horizontalement vers l’arrière par rapport au point « R ».
-
-**7** Plan « M » : plan de référence M, à 1 000 mm horizontalement vers l’arrière par rapport au point « R ».
-
-Figure 4 — Vue de côté agrandie de la zone d’enroulement de la courroie, positionnement de l’ancrage d’attache prêt à utiliser
-
-
+<table>
+<tr>
+<td>
 > Image: Diagramme montrant la vue en plan (coupe transversale du plan « R »), positionnement de l’ancrage d’attache prêt à utiliser avec mesures et descriptions.
-Remarques :
+</td>
+</tr>
+<tr>
+<td>Remarques :</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Les dimensions sont exprimées en mm, sauf indication contraire.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>La partie de l’ancrage d’attache prêt à utiliser qui est conçue pour s’unir au crochet de la courroie d’attache doit être située dans les limites de la zone ombrée.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Le dessin n’est pas à l’échelle.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Point « R » : point de référence de l’épaule.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Point « V » : point de référence V, à 350 mm verticalement vers le haut et à 175 mm horizontalement vers l’arrière par rapport au point « H ».</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Point « W » : point de référence W, à 50 mm verticalement vers le bas et à 50 mm horizontalement vers l’arrière par rapport au point « R ».</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Figure 5 — Vue en plan (coupe transversale du plan « R »), positionnement de l’ancrage d’attache prêt à utiliser</td>
+</tr>
+</table>
 
-**1** Les dimensions sont exprimées en mm, sauf indication contraire.
-
-**2** La partie de l’ancrage d’attache prêt à utiliser qui est conçue pour s’unir au crochet de la courroie d’attache doit être située dans les limites de la zone ombrée.
-
-**3** Le dessin n’est pas à l’échelle.
-
-**4** Point « R » : point de référence de l’épaule.
-
-**5** Point « V » : point de référence V, à 350 mm verticalement vers le haut et à 175 mm horizontalement vers l’arrière par rapport au point « H ».
-
-**6** Point « W » : point de référence W, à 50 mm verticalement vers le bas et à 50 mm horizontalement vers l’arrière par rapport au point « R ».
-
-Figure 5 — Vue en plan (coupe transversale du plan « R »), positionnement de l’ancrage d’attache prêt à utiliser
-
-
+<table>
+<tr>
+<td>
 > Image: Diagramme montrant la vue de face, positionnement de l’ancrage d’attache prêt à utiliser avec mesures et descriptions.
-Remarques :
+</td>
+</tr>
+<tr>
+<td>Remarques :</td>
+</tr>
+<tr>
+<td>1</td>
+<td>La partie de l’ancrage d’attache prêt à utiliser qui est conçue pour s’unir au crochet de la courroie d’attache doit être située dans les limites de la zone ombrée.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Le dessin n’est pas à l’échelle.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Point « R » : point de référence de l’épaule.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Point « V » : point de référence V, à 350 mm verticalement vers le haut et à 175 mm horizontalement vers l’arrière par rapport au point « H ».</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Point « W » : point de référence W, à 50 mm verticalement vers le bas et à 50 mm horizontalement vers l’arrière par rapport au point « R ».</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Figure 6 — Vue de face, positionnement de l’ancrage d’attache prêt à utiliser</td>
+</tr>
+</table>
 
-**1** La partie de l’ancrage d’attache prêt à utiliser qui est conçue pour s’unir au crochet de la courroie d’attache doit être située dans les limites de la zone ombrée.
-
-**2** Le dessin n’est pas à l’échelle.
-
-**3** Point « R » : point de référence de l’épaule.
-
-**4** Point « V » : point de référence V, à 350 mm verticalement vers le haut et à 175 mm horizontalement vers l’arrière par rapport au point « H ».
-
-**5** Point « W » : point de référence W, à 50 mm verticalement vers le bas et à 50 mm horizontalement vers l’arrière par rapport au point « R ».
-
-Figure 6 — Vue de face, positionnement de l’ancrage d’attache prêt à utiliser
-
-
+<table>
+<tr>
+<td>
 > Image: Diagramme montrant la vue schématique tridimensionnelle du positionnement de l’ancrage d’attache prêt à utiliser avec mesures et descriptions.
-Remarques :
-
-**1** La partie de l’ancrage d’attache prêt à utiliser qui est conçue pour s’unir au crochet de la courroie d’attache doit être située dans les limites de la zone ombrée.
-
-**2** Le dessin n’est pas à l’échelle.
-
-**3** Point « R » : point de référence de l’épaule.
-
-**4** Point « V » : point de référence V, à 350 mm verticalement vers le haut et à 175 mm horizontalement vers l’arrière par rapport au point « H ».
-
-**5** Point « W » : point de référence W, à 50 mm verticalement vers le bas et à 50 mm horizontalement vers l’arrière par rapport au point « R ».
-
-Figure 7 — Vue schématique tridimensionnelle du positionnement de l’ancrage d’attache prêt à utiliser
-
+</td>
+</tr>
+<tr>
+<td>Remarques :</td>
+</tr>
+<tr>
+<td>1</td>
+<td>La partie de l’ancrage d’attache prêt à utiliser qui est conçue pour s’unir au crochet de la courroie d’attache doit être située dans les limites de la zone ombrée.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Le dessin n’est pas à l’échelle.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Point « R » : point de référence de l’épaule.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Point « V » : point de référence V, à 350 mm verticalement vers le haut et à 175 mm horizontalement vers l’arrière par rapport au point « H ».</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Point « W » : point de référence W, à 50 mm verticalement vers le bas et à 50 mm horizontalement vers l’arrière par rapport au point « R ».</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Figure 7 — Vue schématique tridimensionnelle du positionnement de l’ancrage d’attache prêt à utiliser</td>
+</tr>
+</table>
 Figures 8 à 11 [Abrogées, DORS/2008-72, art. 8]
 
 
@@ -7280,27 +7402,16 @@ Figure 3 — Application d’une charge d’essai
 
 ### Étanchéité du circuit d’alimentation en carburant (Norme 301)
 
-
-#### Dispositions générales
-
 **301** 
 
-- **(1)** Toute voiture de tourisme ainsi que tout autobus, camion et véhicule de tourisme à usages multiples qui a un PNBV d’au plus 4 536 kg et qui est muni d’un circuit d’alimentation en carburant utilisant comme source d’énergie pour sa propulsion un carburant dont le point d’ébullition est de 0° C ou plus doivent être conformes aux exigences du Document de normes techniques no 301 — Étanchéité du circuit d’alimentation en carburant, avec ses modifications successives, ci-après appelé « DNT 301 ».
+- **(1)** Les voitures de tourisme ainsi que les véhicules de tourisme à usages multiples, camions et autobus qui ont un PNBV d’au plus 4 536 kg et qui sont munis d’un circuit d’alimentation en carburant utilisant comme source d’énergie pour sa propulsion un carburant dont le point d’ébullition est de 0° C ou plus doivent être conformes aux exigences du Document de normes techniques no 301 — Étanchéité du circuit d’alimentation en carburant (DNT 301), avec ses modifications successives.
 
-- **(2)** Tout autobus scolaire d’un PNBV de plus de 4 536 kg qui est muni d’un circuit d’alimentation en carburant utilisant comme source d’énergie pour sa propulsion un carburant dont le point d’ébullition est de 0° C ou plus doit être conforme aux exigences du DNT 301.
+- **(2)** Les autobus scolaires d’un PNBV de plus de 4 536 kg qui sont munis d’un circuit d’alimentation en carburant utilisant comme source d’énergie pour sa propulsion un carburant dont le point d’ébullition est de 0° C ou plus doivent être conformes aux exigences du DNT 301.
 
-#### Document de normes techniques n<sup>o</sup> 301
+- **(3)** Au lieu d’être soumis à un essai conformément aux dispositions S6.2a) et S6.3a) du DNT 301, le véhicule visé au paragraphe (1) peut, au choix du fabricant, être soumis à un essai conformément aux dispositions S6.2b) et S6.3b) du DNT 301 avant le 1<sup>er</sup> septembre 2009.
 
-
-- **(3)** Au lieu d’être soumis à l’essai conformément aux dispositions S6.2(a) et S6.3(a) du DNT 301, le véhicule visé au paragraphe (1) peut, au choix du fabricant, être soumis à un essai conformément aux dispositions S6.2(b) et S6.3(b) du DNT 301 avant le 1<sup>er</sup> septembre 2009.
-
-- **(4)** [Abrogé, DORS/2008-258, art. 10]
-
-#### Cessation d’effet
-
-
-- **(5)** Le présent article cesse d’avoir effet le 28 février 2009.
-> DORS/80-158, art. 1; DORS/97-421, art. 17; DORS/2001-152, art. 2; DORS/2004-89, art. 1; DORS/2006-94, art. 4(A); DORS/2008-258, art. 10..
+- **(4)** Le présent article cesse d’avoir effet le 1<sup>er</sup> juin 2013.
+> DORS/80-158, art. 1; DORS/97-421, art. 17; DORS/2001-152, art. 2; DORS/2004-89, art. 1; DORS/2006-94, art. 4(A); DORS/2008-258, art. 10; DORS/2009-79, art. 5..
 
 
 
