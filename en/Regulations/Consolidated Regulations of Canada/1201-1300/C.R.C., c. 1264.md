@@ -50,7 +50,9 @@ Enabling authorities:
 ## Compulsory Pilotage Areas
 
 
-**3** The areas described in the schedule are hereby established as the compulsory pilotage areas within the region of the Authority.
+**3** The areas described in the schedule are hereby established as compulsory pilotage areas within the region of the Authority.
+> SOR/2009-78, s. 1(E).
+
 
 
 
@@ -99,6 +101,36 @@ Enabling authorities:
 	- **(b)** unusual conditions on board the ship; or
 	- **(c)** weather conditions, tides, currents or ice.
 > SOR/82-52, s. 1; SOR/82-527, s. 1; SOR/86-685, s. 1; SOR/87-722, s. 1(F); SOR/90-576, s. 1; SOR/99-153, s. 1; SOR/2000-338, s. 1; SOR/2006-73, s. 2; SOR/2008-29, s. 1.
+
+
+
+
+
+## Extension of the Saint John Compulsory Pilotage Area for Tankers and Liquid Natural Gas Carriers
+
+
+**4.1** 
+
+- **(1)** For the purposes of section 4.2, the following area within the region of the Authority is established as the Saint John compulsory pilotage area: the area described in section 3 of Part I of the schedule plus all the navigable waters within a line drawn from a position at Latitude 45°10.7′ N, Longitude 66°02.64′ W, thence to a position at Latitude 45°08.8′ N, Longitude 66°03.65′ W, thence to a position at Latitude 45°09.5′ N, Longitude 66°05.8′ W, thence to a position at Latitude 45°11.38′ N, Longitude 66°04.58′ W.
+
+- **(2)** For the purposes of sections 4.2 and 4.3, ***Canaport marine facilities*** means the Canaport marine facilities — both offshore and onshore — at Mispec, New Brunswick.
+> SOR/2009-78, s. 2.
+
+
+
+
+**4.2** Tankers and liquid natural gas carriers that are proceeding to the Canaport marine facilities are subject to compulsory pilotage within the Saint John compulsory pilotage area.
+> SOR/2009-78, s. 2.
+
+
+
+
+**4.3** 
+
+- **(1)** A tanker or liquid natural gas carrier that is proceeding to the Canaport marine facilities shall embark a licensed pilot at a pilot boarding station at a position on a line bearing 295° (True) from a position at Latitude 45°08.8′ N, Longitude 66°03.65′ W to a position at Latitude 45°09.5′ N, Longitude 66°05.8′ W.
+
+- **(2)** A tanker or liquid natural gas carrier that is departing from the Canaport marine facilities shall disembark a licensed pilot at a pilot disembarking station at a position at Latitude 45°10′48″ N, Longitude 66°03′42″ W.
+> SOR/2009-78, s. 2.
 
 
 
@@ -252,9 +284,9 @@ Enabling authorities:
 **14** 
 
 - **(1)** The holder of a licence or pilotage certificate shall meet the following qualifications:
-	- **(a)** have obtained a mark of at least 70% in any examination with respect to the holder's qualifications conducted by the Board of Examiners;
+	- **(a)** have obtained a mark of at least 70% in any examination with respect to the holder’s qualifications conducted by the Board of Examiners;
 	- **(b)** not less than 14 days and not more than 60 days prior to the examination referred to in paragraph (a), have been declared medically fit to perform pilotage duties;
-	- **(c)** be the holder of a Restricted Radiotelephone Operator's certificate;
+	- **(c)** be the holder of a Restricted Radiotelephone Operator’s certificate;
 	- **(d)** be the holder of a certificate indicating that the holder has attended and successfully completed a radar simulator course, except that holders of licences or pilotage certificates issued after January 1, 1987 shall have attended and successfully completed SEN (Simulated Electronic Navigation) and MED (Marine Emergency Duties) courses;
 	- **(e)** subject to paragraph (e.1), be the holder of a certificate of competency not lower than master, intermediate voyage, that is unlimited as to tonnage, or the equivalent, and, where the holder is to perform pilotage duties in the Saint John compulsory pilotage area of New Brunswick, in the St. John’s, Holyrood or Placentia Bay compulsory pilotage areas of Newfoundland and Labrador, or in the Halifax or Cape Breton compulsory pilotage areas of Nova Scotia, have served, within the five-year period immediately preceding the date of application to become the holder of a licence or pilotage certificate, on voyages in the relevant compulsory pilotage area for a period of at least
 		- **(i)** 18 months as master,
@@ -268,7 +300,7 @@ Enabling authorities:
 		- **(i)** hold a certificate of competency as master, ship of not more than 350 tons, gross tonnage, or tug, local voyage, or the equivalent, and
 		- **(ii)** undergo further training in accordance with a program approved by the Authority in order to ensure competency in the performance of pilotage duties in that area;
 	- **(f)** [Repealed, SOR/90-576, s. 5]
-	- **(g)** be able to speak and write English to the extent necessary to carry out the holder's pilotage duties;
+	- **(g)** be able to speak and write English to the extent necessary to carry out the holder’s pilotage duties;
 	- **(h)** hold in a valid and subsisting condition every certificate that the holder was required to hold in order to obtain the licence or pilotage certificate;
 	- **(i)** meet the health qualifications set out in the [General Pilotage Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2000/132.md), and shall undergo medical examinations at intervals of not more than twelve months;
 	- **(j)** have local knowledge of the pilotage area in which the holder is to perform pilotage duties, including knowledge of the tides, currents, depths of water, anchorages and aids-to-navigation;
@@ -279,11 +311,11 @@ Enabling authorities:
 	- **(l)** have a good record of ship handling and navigation.
 
 - **(2)** In addition to the qualifications required under subsection (1), the holder of a pilotage certificate shall, while having the conduct of a ship, complete every two years at least
-	- **(a)** 12 one-way trips in each of the compulsory pilotage areas in which the holder performs pilotage duties, if the compulsory pilotage area is Miramichi, Restigouche or Saint John in New Brunswick, Holyrood, Placentia Bay, St. John's or Stephenville in Newfoundland and Labrador, Cape Breton, Halifax or Pugwash in Nova Scotia or Charlottetown in Prince Edward Island; and
+	- **(a)** 12 one-way trips in each of the compulsory pilotage areas in which the holder performs pilotage duties, if the compulsory pilotage area is Miramichi, Restigouche or Saint John in New Brunswick, Holyrood, Placentia Bay, St. John’s or Stephenville in Newfoundland and Labrador, Cape Breton, Halifax or Pugwash in Nova Scotia or Charlottetown in Prince Edward Island; and
 	- **(b)** four one-way trips in each of the compulsory pilotage areas in which the holder performs pilotage duties, if the compulsory pilotage area is Bay of Exploits or Humber Arm in Newfoundland and Labrador or Confederation Bridge in Prince Edward Island.
 
 - **(3)** The holder of a pilotage certificate shall provide the Authority, on request, with documents confirming that the holder meets the requirements of subsection (2).
-> SOR/82-52, s. 2; SOR/83-741, s. 1; SOR/90-576, s. 5; SOR/92-679, s. 1; SOR/95-430, s. 1; SOR/98-326, s. 1; SOR/2006-73, ss. 9, 16, 17(F).
+> SOR/82-52, s. 2; SOR/83-741, s. 1; SOR/90-576, s. 5; SOR/92-679, s. 1; SOR/95-430, s. 1; SOR/98-326, s. 1; SOR/2006-73, ss. 9, 16, 17(F); SOR/2009-78, s. 5(F).
 
 
 
@@ -339,7 +371,7 @@ Enabling authorities:
 		- **(ii)** each of the applicant’s two most recent employers, if the applicant was employed by the most recent employer for less than two years.
 
 - **(2)** In addition to providing the information required under subsection (1), an applicant for a pilotage certificate shall have completed, within the two years before the date of the application, while being on the bridge of a ship, at least
-	- **(a)** 12 one-way trips in each of the compulsory pilotage areas in which the applicant is to perform pilotage duties, if the compulsory pilotage area is Miramichi, Restigouche or Saint John in New Brunswick, Holyrood, Placentia Bay, St. John's or Stephenville in Newfoundland and Labrador, Cape Breton, Halifax or Pugwash in Nova Scotia or Charlottetown in Prince Edward Island; and
+	- **(a)** 12 one-way trips in each of the compulsory pilotage areas in which the applicant is to perform pilotage duties, if the compulsory pilotage area is Miramichi, Restigouche or Saint John in New Brunswick, Holyrood, Placentia Bay, St. John’s or Stephenville in Newfoundland and Labrador, Cape Breton, Halifax or Pugwash in Nova Scotia or Charlottetown in Prince Edward Island; and
 	- **(b)** four one-way trips in each of the compulsory pilotage areas in which the applicant is to perform pilotage duties, if the compulsory pilotage area is Bay of Exploits or Humber Arm in Newfoundland and Labrador or Confederation Bridge in Prince Edward Island.
 
 - **(3)** An applicant for a pilotage certificate shall provide the Board of Examiners with documents confirming that the applicant meets the requirements of subsection (2).
@@ -347,7 +379,7 @@ Enabling authorities:
 - **(4)** An applicant for a pilotage certificate in respect of an area that is established as a compulsory pilotage area need not comply with subsection (2) if
 	- **(a)** the application is submitted within six months of the area being established as a compulsory pilotage area; and
 	- **(b)** the applicant provides the Board of Examiners with documents establishing that the applicant was in the area, on the bridge of a ship that is subject to compulsory pilotage under section 4, within the five years prior to the area being established as a compulsory pilotage area.
-> SOR/98-326, s. 2; SOR/2006-73, ss. 12, 16, 17(F).
+> SOR/98-326, s. 2; SOR/2006-73, ss. 12, 16, 17(F); SOR/2009-78, s. 5(F).
 
 
 
@@ -440,7 +472,7 @@ every holder of a licence or pilotage certificate who was performing pilotage du
 
 
 ### **SCHEDULE** 
-**(Section 3 and subsections 4(2.1), (2.2), (2.4) and (2.5))**
+**(Section 3 and subsections 4(2.1), (2.2), (2.4), (2.5) and 4.1(1))**
 
 **PART I** 
 ## Compulsory Pilotage Areas of New Brunswick
@@ -497,7 +529,7 @@ every holder of a licence or pilotage certificate who was performing pilotage du
 
 ### Humber Arm Compulsory Pilotage Area
 
-**5** The Humber Arm compulsory pilotage area consists of all the navigable waters east of a line drawn from Frenchman's Head to McIver Point.
+**5** The Humber Arm compulsory pilotage area consists of all the navigable waters east of a line drawn from Frenchman’s Head to McIver Point.
 
 
 
@@ -505,16 +537,16 @@ every holder of a licence or pilotage certificate who was performing pilotage du
 > [SOR/90-576, s. 8(F)]
 
 
-**6** The Placentia Bay compulsory pilotage area consists of all the navigable waters north of a line drawn from St. Croix Point to the most southerly point of Merchant Island, thence along a line to a position of Latitude 47°20′ N., Longitude 54°06.5′ W., thence to Ragged Point (the most southerly point of Red Island), thence to Eastern Head.
+**6** The Placentia Bay compulsory pilotage area consists of all the navigable waters north of a line drawn from Long Harbour Head to Fox Island, thence along a line to a position of Latitude 47°20′ N, Longitude 54°06.5′ W, thence to Ragged Point (the most southerly point of Red Island), thence to Eastern Head.
 
 
 **7** [Repealed, SOR/82-52, s. 5]
 
 
 
-### St. John's Compulsory Pilotage Area
+### St. John’s Compulsory Pilotage Area
 
-**8** The St. John's compulsory pilotage area consists of all the navigable waters of the Harbour of St. John's west of a line drawn from North Head to South Head and all the navigable waters seaward of that line within a radius of two nautical miles.
+**8** The St. John’s compulsory pilotage area consists of all the navigable waters of the Harbour of St. John’s west of a line drawn from North Head to South Head and all the navigable waters seaward of that line within a radius of two nautical miles.
 
 
 
@@ -532,10 +564,10 @@ every holder of a licence or pilotage certificate who was performing pilotage du
 
 **1** The Cape Breton compulsory pilotage area is composed of four areas, namely:
 - **(a)** Cape Breton compulsory pilotage area (Zone A Sydney) which consists of all the navigable waters within a line drawn from Swivel Point to McGillivray Point and a line six nautical miles seaward thereof drawn parallel thereto;
-- **(b)** Cape Breton compulsory pilotage area (Zone B-1 and B-2 Bras D'Or Lakes) which has two subareas, namely:
+- **(b)** Cape Breton compulsory pilotage area (Zone B-1 and B-2 Bras D’Or Lakes) which has two subareas, namely:
 	- **(i)** Zone B-1, which consists of all the navigable waters within a line drawn from Cape Dauphin to Point Aconi and a line drawn from Uniacke Point to Kelly Point, and
 	- **(ii)** Zone B-2, which consists of all the navigable waters
-		- **(A)** within a line drawn from McIvor's Point to Cow Point and from Cow Point to the head of Whycocomagh Bay, and
+		- **(A)** within a line drawn from McIvor’s Point to Cow Point and from Cow Point to the head of Whycocomagh Bay, and
 		- **(B)** within a line drawn from Uniacke Point to Kelly Point and a line drawn from Green Island to Michaud Point;
 - **(c)** Cape Breton compulsory pilotage area (Zone C Strait of Canso), which consists of all the navigable waters within a line drawn from Red Head to Crichton I. Lt. and a line drawn from North Canso Light to Heffernan Point; and
 - **(d)** Cape Breton compulsory pilotage area (Zone D Strait of Canso), which consists of all the navigable waters within a line drawn from Fox Island to Green Island in Chedabucto Bay and a line drawn from Red Head to Crichton I. Lt.
@@ -569,6 +601,6 @@ every holder of a licence or pilotage certificate who was performing pilotage du
 **2** The Confederation Bridge compulsory pilotage area consists of all the navigable waters within a quadrilateral commencing at a point at Latitude 46°11′00″ N, Longitude 63°47′00″ W, thence on a bearing of 340° (True) for a distance of 4.4 nautical miles to a position at Latitude 46°15′12″ N, Longitude 63°49′12″ W, thence on a bearing of 107° (True) for a distance of 4.1 nautical miles to a position at Latitude 46°14′00″ N, Longitude 63°43′30″ W, thence on a bearing of 157° (True) for a distance of 3.75 nautical miles to a position at Latitude 46°10′30″ N, Longitude 63°41′30″ W, thence on a bearing of 277° (True) for a distance of 3.9 nautical miles to the point of commencement.
 
 
->  SOR/82-52, ss. 3 to 7; SOR/82-953, s. 1; SOR/90-576, ss. 8(F), 9, 10(F); SOR/97-355, s. 1; SOR/97-452, s. 1; SOR/98-113, s. 1; SOR/2000-338, s. 2; SOR/2006-73, ss. 16, 17(F); SOR/2008-29, ss. 2, 3.
+>  SOR/82-52, ss. 3 to 7; SOR/82-953, s. 1; SOR/90-576, ss. 8(F), 9, 10(F); SOR/97-355, s. 1; SOR/97-452, s. 1; SOR/98-113, s. 1; SOR/2000-338, s. 2; SOR/2006-73, ss. 16, 17(F); SOR/2008-29, ss. 2, 3; SOR/2009-78, ss. 3, 4, 5(F).
 
 
