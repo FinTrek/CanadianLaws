@@ -50,7 +50,9 @@ Autorités habilitantes :
 ## Zones de pilotage obligatoire
 
 
-**3** Les zones décrites dans l'annexe sont établies comme zones de pilotage obligatoire dans la région de l'Administration.
+**3** Les zones décrites dans l’annexe sont établies comme zones de pilotage obligatoire dans la région de l’Administration.
+> DORS/2009-78, art. 1(A).
+
 
 
 
@@ -99,6 +101,36 @@ Autorités habilitantes :
 	- **b)** de circonstances exceptionnelles à bord du navire;
 	- **c)** des conditions météorologiques, des marées, des courants ou de l’état des glaces.
 > DORS/82-52, art. 1; DORS/82-527, art. 1; DORS/86-685, art. 1; DORS/87-722, art. 1(F); DORS/90-576, art. 1; DORS/99-153, art. 1; DORS/2000-338, art. 1; DORS/2006-73, art. 2; DORS/2008-29, art. 1.
+
+
+
+
+
+## Agrandissement de la zone de pilotage obligatoire de saint john dans le cas des navires-citernes et des méthaniers
+
+
+**4.1** 
+
+- **(1)** Pour l’application de l’article 4.2, la zone ci-après dans la région de l’Administration est établie comme zone de pilotage obligatoire de Saint John : la zone délimitée à l’article 3 de la partie I de l’annexe, en plus de la totalité des eaux navigables en deçà d’une ligne tirée à partir d’un point situé par 45°10,7′ de latitude N., 66°02,64′ de longitude O., de là, jusqu’à un point situé par 45°08,8′ de latitude N., 66°03,65′ de longitude O., de là, jusqu’à un point situé par 45°09,5′ de latitude N., 66°05,8′ de longitude O., de là, jusqu’à un point situé par 45°11,38′ de latitude N., 66°04,58′ de longitude O.
+
+- **(2)** Pour l’application des articles 4.2 et 4.3, « installations maritimes de Canaport » s’entend des installations maritimes de Canaport, au large et sur la rive, à Mispec, au Nouveau-Brunswick.
+> DORS/2009-78, art. 2.
+
+
+
+
+**4.2** Les navires-citernes et les méthaniers qui poursuivent leur route vers les installations maritimes de Canaport sont assujettis au pilotage obligatoire dans la zone de pilotage obligatoire de Saint John.
+> DORS/2009-78, art. 2.
+
+
+
+
+**4.3** 
+
+- **(1)** Les navires‑citernes et les méthaniers qui poursuivent leur route vers les installations maritimes de Canaport doivent y embarquer un pilote breveté à un poste d’embarquement qui se trouve à un point sur un relèvement de 295° (V) à partir d’un point situé par 45°08,8′ de latitude N., 66°03,65′ de longitude O. jusqu’à un point situé par 45°09,5′ de latitude N., 66°05,8′ de longitude O.
+
+- **(2)** Les navires‑citernes et les méthaniers qui quittent les installations maritimes de Canaport doivent débarquer un pilote breveté à un poste de débarquement qui se trouve à un point situé par 45°10′48″ de latitude N., 66°03′42″ de longitude O.
+> DORS/2009-78, art. 2.
 
 
 
@@ -251,40 +283,40 @@ Autorités habilitantes :
 
 **14** 
 
-- **(1)** Le titulaire d'un brevet ou d'un certificat de pilotage doit remplir les conditions suivantes :
-	- **a)** il doit avoir obtenu une note de passage d'au moins 70 pour cent à un examen de compétence tenu par le jury d'examen;
-	- **b)** au moins 14 jours et au plus 60 jours avant l'examen dont il est fait mention à l'alinéa a), il doit avoir été déclaré médicalement apte à exercer les fonctions de pilote;
-	- **c)** il doit être titulaire d'un certificat restreint de radiotéléphoniste;
-	- **d)** il doit être titulaire d'un certificat attestant qu'il a terminé avec succès un cours d'entraînement au simulateur radar ou, si son brevet ou certificat de pilotage lui a été délivré après le 1<sup>er</sup> janvier 1987, il doit avoir terminé avec succès le cours de navigation électronique simulée et le cours des fonctions d'urgence maritime;
+- **(1)** Le titulaire d’un brevet ou d’un certificat de pilotage doit remplir les conditions suivantes :
+	- **a)** il doit avoir obtenu une note de passage d’au moins 70 pour cent à un examen de compétence tenu par le jury d’examen;
+	- **b)** au moins 14 jours et au plus 60 jours avant l’examen dont il est fait mention à l’alinéa a), il doit avoir été déclaré médicalement apte à exercer les fonctions de pilote;
+	- **c)** il doit être titulaire d’un certificat restreint de radiotéléphoniste;
+	- **d)** il doit être titulaire d’un certificat attestant qu’il a terminé avec succès un cours d’entraînement au simulateur radar ou, si son brevet ou certificat de pilotage lui a été délivré après le 1<sup>er</sup> janvier 1987, il doit avoir terminé avec succès le cours de navigation électronique simulée et le cours des fonctions d’urgence maritime;
 	- **e)** sous réserve de l’alinéa e.1), il doit être titulaire d’un certificat de capacité non inférieur à celui de capitaine, voyage intermédiaire, sans limite de jauge, ou d’un certificat équivalent et, s’il a à exercer les fonctions de pilote dans la zone de pilotage obligatoire de Saint John, au Nouveau-Brunswick, dans les zones de pilotage obligatoire de St. John’s, de Holyrood ou de la baie Placentia, à Terre-Neuve-et-Labrador, ou dans les zones de pilotage obligatoire de Halifax ou du Cap-Breton, en Nouvelle-Écosse, il doit, au cours de la période de cinq ans précédant la date de sa demande de brevet ou de certificat de pilotage, lors de voyages dans la zone de pilotage obligatoire applicable, avoir servi pendant :
 		- **(i)** soit au moins 18 mois en qualité de capitaine,
-		- **(ii)** soit au moins un an en qualité d'officier de quart à la passerelle et au moins un an en qualité de capitaine,
-		- **(iii)** soit au moins trois ans en qualité d'officier de quart à la passerelle;
-	- **e.01)** comme période de service en mer équivalente à celle prévue aux sous-alinéas e)(i), (ii) ou (iii), il doit avoir effectué, au cours de la période de cinq ans et dans la zone de pilotage applicable visées à l'alinéa e) :
+		- **(ii)** soit au moins un an en qualité d’officier de quart à la passerelle et au moins un an en qualité de capitaine,
+		- **(iii)** soit au moins trois ans en qualité d’officier de quart à la passerelle;
+	- **e.01)** comme période de service en mer équivalente à celle prévue aux sous-alinéas e)(i), (ii) ou (iii), il doit avoir effectué, au cours de la période de cinq ans et dans la zone de pilotage applicable visées à l’alinéa e) :
 		- **(i)** soit 30 voyages simples en qualité de capitaine,
-		- **(ii)** soit 20 voyages simples en qualité de capitaine et 20 voyages simples en qualité d'officier de quart à la passerelle,
-		- **(iii)** soit 60 voyages simples en qualité d'officier de quart à la passerelle;
-	- **e.1)** il doit, s'il a à exercer des fonctions de pilote dans toute zone autre qu'une zone de pilotage obligatoire mentionnée à l'alinéa e) :
+		- **(ii)** soit 20 voyages simples en qualité de capitaine et 20 voyages simples en qualité d’officier de quart à la passerelle,
+		- **(iii)** soit 60 voyages simples en qualité d’officier de quart à la passerelle;
+	- **e.1)** il doit, s’il a à exercer des fonctions de pilote dans toute zone autre qu’une zone de pilotage obligatoire mentionnée à l’alinéa e) :
 		- **(i)** être titulaire d’un certificat de capacité de capitaine, navire d’au plus 350 tonneaux de jauge brute ou remorqueur, voyage local, ou d’un certificat équivalent,
-		- **(ii)** suivre d'autres cours de formation conformément au programme approuvé par l'Administration, afin d'être apte à exercer les fonctions de pilote dans cette zone;
+		- **(ii)** suivre d’autres cours de formation conformément au programme approuvé par l’Administration, afin d’être apte à exercer les fonctions de pilote dans cette zone;
 	- **f)** [Abrogé, DORS/90-576, art. 5]
-	- **g)** il doit être capable de parler et d'écrire l'anglais assez bien pour exercer les fonctions de pilote;
+	- **g)** il doit être capable de parler et d’écrire l’anglais assez bien pour exercer les fonctions de pilote;
 	- **h)** tout certificat dont il devrait être titulaire pour obtenir le brevet ou le certificat de pilotage doit être en état de validité;
-	- **i)** il doit remplir les conditions quant à l'état de santé prévues par le [Règlement général sur le pilotage](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2000/132.md) et doit subir des examens médicaux au moins une fois tous les 12 mois;
+	- **i)** il doit remplir les conditions quant à l’état de santé prévues par le [Règlement général sur le pilotage](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2000/132.md) et doit subir des examens médicaux au moins une fois tous les 12 mois;
 	- **j)** il doit connaître les lieux de la zone de pilotage où il doit exercer les fonctions de pilote, y compris les marées, courants, profondeurs, mouillages et aides à la navigation;
-	- **k)** il doit se tenir au courant des règlements sur les ports et des autres règlements de la marine qui s'appliquent dans la zone de pilotage où il doit exercer les fonctions de pilote, y compris
+	- **k)** il doit se tenir au courant des règlements sur les ports et des autres règlements de la marine qui s’appliquent dans la zone de pilotage où il doit exercer les fonctions de pilote, y compris
 		- **(i)** le [Règlement sur les abordages](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1401-1500/C.R.C.,%20ch.%201416.md),
 		- **(ii)** le [Règlement sur la quarantaine](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1301-1400/C.R.C.,%20ch.%201368.md), et
-		- **(iii)** la Loi et ses règlements d'application
-dans la mesure où ils s'appliquent dans cette zone de pilotage; et
+		- **(iii)** la Loi et ses règlements d’application
+dans la mesure où ils s’appliquent dans cette zone de pilotage; et
 	- **l)** il doit avoir un dossier favorable concernant la manœuvre et la navigation de navires.
 
-- **(2)** Outre qu'il satisfait aux conditions visées au paragraphe (1), le titulaire d'un certificat de pilotage doit, alors qu'il assure la conduite d'un navire, effectuer tous les deux ans au moins :
-	- **a)** 12 voyages simples dans chacune des zones de pilotage obligatoire à l'intérieur desquelles il exerce les fonctions de pilote, si la zone de pilotage obligatoire est celle de Miramichi, de Restigouche ou de Saint-John au Nouveau-Brunswick, de Holyrood, de la baie Placentia, de St. John's ou de Stephenville à Terre-Neuve-et-Labrador, du Cap-Breton, de Halifax ou de Pugwash en Nouvelle-Écosse ou de Charlottetown à l'Île-du-Prince-Édouard;
-	- **b)** 4 voyages simples dans chacune des zones de pilotage obligatoire à l'intérieur desquelles il exerce les fonctions de pilote, si la zone de pilotage obligatoire est celle de la baie des Exploits ou de Humber Arm à Terre-Neuve-et-Labrador ou du pont de la Confédération à l'Île-du-Prince-Édouard.
+- **(2)** Outre qu’il satisfait aux conditions visées au paragraphe (1), le titulaire d’un certificat de pilotage doit, alors qu’il assure la conduite d’un navire, effectuer tous les deux ans au moins :
+	- **a)** 12 voyages simples dans chacune des zones de pilotage obligatoire à l’intérieur desquelles il exerce les fonctions de pilote, si la zone de pilotage obligatoire est celle de Miramichi, de Restigouche ou de Saint John au Nouveau-Brunswick, de Holyrood, de la baie Placentia, de St. John’s ou de Stephenville à Terre-Neuve-et-Labrador, du Cap-Breton, de Halifax ou de Pugwash en Nouvelle-Écosse ou de Charlottetown à l’Île-du-Prince-Édouard;
+	- **b)** 4 voyages simples dans chacune des zones de pilotage obligatoire à l’intérieur desquelles il exerce les fonctions de pilote, si la zone de pilotage obligatoire est celle de la baie des Exploits ou de Humber Arm à Terre-Neuve-et-Labrador ou du pont de la Confédération à l’Île-du-Prince-Édouard.
 
-- **(3)** Le titulaire d'un certificat de pilotage doit, sur demande, fournir à l'Administration des documents confirmant qu'il satisfait aux exigences du paragraphe (2).
-> DORS/82-52, art. 2; DORS/83-741, art. 1; DORS/90-576, art. 5; DORS/92-679, art. 1; DORS/95-430, art. 1; DORS/98-326, art. 1; DORS/2006-73, art. 9, 16 et 17(F).
+- **(3)** Le titulaire d’un certificat de pilotage doit, sur demande, fournir à l’Administration des documents confirmant qu’il satisfait aux exigences du paragraphe (2).
+> DORS/82-52, art. 2; DORS/83-741, art. 1; DORS/90-576, art. 5; DORS/92-679, art. 1; DORS/95-430, art. 1; DORS/98-326, art. 1; DORS/2006-73, art. 9, 16 et 17(F); DORS/2009-78, art. 5(F).
 
 
 
@@ -339,16 +371,16 @@ dans la mesure où ils s'appliquent dans cette zone de pilotage; et
 		- **(i)** soit de son dernier employeur, s’il a travaillé pour cet employeur plus de deux ans,
 		- **(ii)** soit de ses deux derniers employeurs, s’il a travaillé pour son dernier employeur moins de deux ans.
 
-- **(2)** Outre qu'il fournit les renseignements visés au paragraphe (1), le demandeur d'un certificat de pilotage doit avoir effectué, au cours des deux années précédant la date de sa demande, alors qu'il était sur la passerelle d'un navire, au moins :
-	- **a)** 12 voyages simples dans chacune des zones de pilotage obligatoire à l'intérieur desquelles il exercera les fonctions de pilote, si la zone de pilotage obligatoire est celle de Miramichi, de Restigouche ou de Saint-John au Nouveau-Brunswick, de Holyrood, de la baie Placentia, de St. John's ou de Stephenville à Terre-Neuve-et-Labrador, du Cap-Breton, de Halifax ou de Pugwash en Nouvelle-Écosse ou de Charlottetown à l'Île-du-Prince-Édouard;
-	- **b)** 4 voyages simples dans chacune des zones de pilotage obligatoire à l'intérieur desquelles il exercera les fonctions de pilote, si la zone de pilotage obligatoire est celle de la baie des Exploits ou de Humber Arm à Terre-Neuve-et-Labrador ou du pont de la Confédération à l'Île-du-Prince-Édouard.
+- **(2)** Outre qu’il fournit les renseignements visés au paragraphe (1), le demandeur d’un certificat de pilotage doit avoir effectué, au cours des deux années précédant la date de sa demande, alors qu’il était sur la passerelle d’un navire, au moins :
+	- **a)** 12 voyages simples dans chacune des zones de pilotage obligatoire à l’intérieur desquelles il exercera les fonctions de pilote, si la zone de pilotage obligatoire est celle de Miramichi, de Restigouche ou de Saint John au Nouveau-Brunswick, de Holyrood, de la baie Placentia, de St. John’s ou de Stephenville à Terre-Neuve-et-Labrador, du Cap-Breton, de Halifax ou de Pugwash en Nouvelle-Écosse ou de Charlottetown à l’Île-du-Prince-Édouard;
+	- **b)** 4 voyages simples dans chacune des zones de pilotage obligatoire à l’intérieur desquelles il exercera les fonctions de pilote, si la zone de pilotage obligatoire est celle de la baie des Exploits ou de Humber Arm à Terre-Neuve-et-Labrador ou du pont de la Confédération à l’Île-du-Prince-Édouard.
 
-- **(3)** Le demandeur d'un certificat de pilotage doit fournir au jury d'examen des documents confirmant qu'il satisfait aux exigences du paragraphe (2).
+- **(3)** Le demandeur d’un certificat de pilotage doit fournir au jury d’examen des documents confirmant qu’il satisfait aux exigences du paragraphe (2).
 
-- **(4)** Le demandeur d'un certificat de pilotage pour une zone ayant été établie zone de pilotage obligatoire n'a pas à se conformer au paragraphe (2) si les conditions suivantes sont réunies :
+- **(4)** Le demandeur d’un certificat de pilotage pour une zone ayant été établie zone de pilotage obligatoire n’a pas à se conformer au paragraphe (2) si les conditions suivantes sont réunies :
 	- **a)** il présente sa candidature dans les six mois suivant la date à laquelle la zone a été établie zone de pilotage obligatoire;
-	- **b)** il fournit au jury d'examen des documents établissant qu'il a été dans cette zone, sur la passerelle d'un navire assujetti au pilotage obligatoire en vertu de l'article 4, au cours des cinq années précédant la date à laquelle la zone a été établie zone de pilotage obligatoire.
-> DORS/98-326, art. 2; DORS/2006-73, art. 12, 16 et 17(F).
+	- **b)** il fournit au jury d’examen des documents établissant qu’il a été dans cette zone, sur la passerelle d’un navire assujetti au pilotage obligatoire en vertu de l’article 4, au cours des cinq années précédant la date à laquelle la zone a été établie zone de pilotage obligatoire.
+> DORS/98-326, art. 2; DORS/2006-73, art. 12, 16 et 17(F); DORS/2009-78, art. 5(F).
 
 
 
@@ -445,7 +477,7 @@ tout titulaire d'un brevet ou d'un certificat de pilotage qui remplissait les fo
 
 
 ### **ANNEXE** 
-**(article 3 et paragraphes 4(2.1), (2.2), (2.4) et (2.5))**
+**(article 3 et paragraphes 4(2.1), (2.2), (2.4), (2.5) et 4.1(1))**
 
 **PARTIE I** 
 ## Zones de pilotage obligatoire du nouveau-brunswick
@@ -465,9 +497,9 @@ tout titulaire d'un brevet ou d'un certificat de pilotage qui remplissait les fo
 
 
 
-### Zone de pilotage obligatoire de Saint-John
+### Zone de pilotage obligatoire de Saint John
 
-**3** La zone de pilotage obligatoire de Saint-John comprend toutes les eaux navigables en deçà d’une ligne tirée en travers du port de Saint-John à partir d’un point situé par 45°15′48″ de latitude N et de 66°04′48″ de longitude O, sur un relèvement de 136° (V) jusqu’à un point situé par 45°15′42″ de latitude N et de 66°04′36,8″ de longitude O, ainsi que toutes les eaux navigables en deçà d’une ligne tirée sur un relèvement de 180° (V) à partir du cap Spencer sur une distance de 1,6 mille marin, et de là, sur un relèvement de 270° (V) sur une distance de 4,16 milles marins, et de là, sur un relèvement de 295° (V) sur une distance de 5,3 milles marins jusqu’au littoral.
+**3** La zone de pilotage obligatoire de Saint John comprend toutes les eaux navigables en deçà d’une ligne tirée en travers du port de Saint John à partir d’un point situé par 45°15′48″ de latitude N et de 66°04′48″ de longitude O, sur un relèvement de 136° (V) jusqu’à un point situé par 45°15′42″ de latitude N et de 66°04′36,8″ de longitude O, ainsi que toutes les eaux navigables en deçà d’une ligne tirée sur un relèvement de 180° (V) à partir du cap Spencer sur une distance de 1,6 mille marin, et de là, sur un relèvement de 270° (V) sur une distance de 4,16 milles marins, et de là, sur un relèvement de 295° (V) sur une distance de 5,3 milles marins jusqu’au littoral.
 
 
 
@@ -510,7 +542,7 @@ tout titulaire d'un brevet ou d'un certificat de pilotage qui remplissait les fo
 > [DORS/90-576, art. 8(F)]
 
 
-**6** La zone de pilotage obligatoire de la baie Placentia comprend toutes les eaux navigables au nord d’une ligne tirée de la pointe St. Croix jusqu’au point le plus au sud de l’île Merchant, de là, le long d’une ligne jusqu’à un point situé par 47°20′ de latitude N. et 54°06,5′ de longitude O., de là, jusqu’à la pointe Ragged (le point le plus au sud de l’île Red), de là, jusqu’au promontoire Eastern.
+**6** La zone de pilotage obligatoire de la baie Placentia comprend la totalité des eaux navigables au nord d’une ligne tirée du cap Long Harbour Head jusqu’à l’île Fox, de là, le long d’une ligne jusqu’à un point situé par 47°20′ de latitude N., 54°06,5′ de longitude O., de là, jusqu’au cap Ragged Point (le point le plus au sud de l’île Red), de là, jusqu’au cap Eastern Head.
 
 
 **7** [Abrogé, DORS/82-52, art. 5]
@@ -574,6 +606,6 @@ tout titulaire d'un brevet ou d'un certificat de pilotage qui remplissait les fo
 **2** La zone de pilotage obligatoire du pont de la Confédération comprend toutes les eaux navigables situées à l’intérieur d’un quadrilatère commençant à un point situé par 46°11′00″ de latitude N. et 63°47′00″ de longitude O., de là, sur un relèvement de 340° (V) sur une distance de 4,4 milles marins jusqu’à un point situé par 46°15′12″ de latitude N. et 63°49′12″ de longitude O., de là, sur un relèvement de 107° (V) sur une distance de 4,1 milles marins jusqu’à un point situé par 46°14′00″ de latitude N. et 63°43′30″ de longitude O., de là, sur un relèvement de 157° (V) sur une distance de 3,75 milles marins jusqu’à un point situé par 46°10′30″ de latitude N. et 63°41′30″ de longitude O., de là, sur un relèvement de 277° (V) sur une distance de 3,9 milles marins jusqu’au point de commencement.
 
 
->  DORS/82-52, art. 3 à 7; DORS/82-953, art. 1; DORS/90-576, art. 8(F), 9 et 10(F); DORS/97-355, art. 1; DORS/97-452, art. 1; DORS/98-113, art. 1; DORS/2000-338, art. 2; DORS/2006-73, art. 16 et 17(F); DORS/2008-29, art. 2 et 3.
+>  DORS/82-52, art. 3 à 7; DORS/82-953, art. 1; DORS/90-576, art. 8(F), 9 et 10(F); DORS/97-355, art. 1; DORS/97-452, art. 1; DORS/98-113, art. 1; DORS/2000-338, art. 2; DORS/2006-73, art. 16 et 17(F); DORS/2008-29, art. 2 et 3; DORS/2009-78, art. 3, 4 et 5(F).
 
 
