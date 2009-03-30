@@ -639,6 +639,10 @@ Australie
 
 
 
+Bangladesh
+
+
+
 Bélarus
 
 
@@ -648,10 +652,6 @@ Botswana
 
 
 Brésil
-
-
-
-Bulgarie
 
 
 
@@ -671,10 +671,6 @@ Corée du Sud
 
 
 
-Côte d’Ivoire
-
-
-
 Croatie
 
 
@@ -683,7 +679,7 @@ Croatie
 
 
 
-États-Unis
+États-Unis d’Amérique
 
 
 
@@ -695,7 +691,7 @@ Guinée
 
 
 
-Guyana
+Guyane
 
 
 
@@ -727,11 +723,19 @@ Liban
 
 
 
+Liberia
+
+
+
 Malaisie
 
 
 
 Maurice
+
+
+
+Mexique
 
 
 
@@ -743,6 +747,10 @@ Norvège
 
 
 
+Nouvelle-Zélande
+
+
+
 République centrafricaine
 
 
@@ -751,7 +759,7 @@ République démocratique du Congo
 
 
 
-Roumanie
+République du Congo
 
 
 
@@ -791,11 +799,11 @@ Togo
 
 
 
+Turquie
+
+
+
 Ukraine
-
-
-
-Venezuela
 
 
 
@@ -806,6 +814,6 @@ Vietnam
 Zimbabwe
 
 
-> 2002, ch. 25, ann.; DORS/2003-16, 25, 166, 335; DORS/2004-194; DORS/2006-177.
+> 2002, ch. 25, ann.; DORS/2003-16, 25, 166, 335; DORS/2004-194; DORS/2006-177; DORS/2009-107.
 
 
