@@ -741,7 +741,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#fn_Ind258B_hq_3786'>[*]</a></sup>**143** This Part comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind258B_hq_3786'><sup>*</sup></a>: [Note: Part 7 not in force.]<br />
+<a name='fn_Ind258B_hq_3786'><sup>*</sup></a>: [Note: Part 7 in force March 31, 2009, *see* SI/2009-25.]<br />
 
 
 
