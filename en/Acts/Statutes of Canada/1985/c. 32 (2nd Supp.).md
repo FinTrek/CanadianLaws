@@ -830,6 +830,61 @@ whether or not those adjustments are provided for under the plan.
 
 
 
+### Phased Retirement Benefit
+
+
+
+**Definitions**
+
+**16.1** 
+
+- **(1)** The following definitions apply in this section.
+
+***phased retirement benefit*** means a pension benefit that is equal to a portion of the immediate pension benefit to which a person is entitled under subsection 16(1) or which they are eligible to receive under subsection 16(2).
+
+***phased retirement period*** means the period in respect of which the phased retirement benefit is to be paid.
+
+**Phased retirement benefit**
+
+- **(2)** A pension plan may provide for the payment of a phased retirement benefit.
+
+**Conditions**
+
+- **(3)** A phased retirement benefit is only to be paid to a person if
+	- **(a)** the person enters into a written agreement with an employer who contributes to the pension plan from which the phased retirement benefit is to be paid, or with a prescribed administrator, that evidences their consent to its payment;
+	- **(b)** in the case of a person who was receiving a joint and survivor pension benefit prior to the phased retirement period, the person’s spouse or common-law partner who would receive that joint and survivor pension benefit on the death of the person consents in writing to the cessation of the payment of the joint and survivor pension benefit;
+	- **(c)** the employer provides a copy of the agreement referred to in paragraph (a) to the administrator of the pension plan from which the phased retirement benefit is to be paid;
+	- **(d)** the person accrues a pension benefit during the phased retirement period under circumstances to which subsection 8503(19) of the [Income Tax Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/901-1000/C.R.C.,%20c.%20945.md) applies; and
+	- **(e)** the pension plan from which the phased retirement benefit is to be paid has not been terminated.
+
+**Rules — during phased retirement period**
+
+- **(4)** During a phased retirement period
+	- **(a)** the person is deemed to be a member;
+	- **(b)** subsection 2(3) does not apply and the person is deemed not to be receiving an immediate pension benefit;
+	- **(c)** the administrator of the pension plan from which the phased retirement benefit is to be paid shall not pay the immediate pension benefit to which the person would otherwise be entitled under subsection 16(1) or which they would otherwise be eligible to receive under subsection 16(2);
+	- **(d)** paragraph 18(1)(b) and subsections 36(1) and (4) do not apply to an agreement or arrangement that may be entered into for the payment of the phased retirement benefit;
+	- **(e)** section 21 does not apply to the calculation of the phased retirement benefit;
+	- **(f)** section 22 does not apply to the phased retirement benefit; and
+	- **(g)** in the case of a person who, prior to the phased retirement period, was receiving an immediate pension benefit from the pension plan from which the phased retirement benefit is to be paid, the administrator of that pension plan shall not pay the immediate pension benefit and an election that was made under subsection 22(5) is void unless it was made under provincial property law within the meaning of subsection 25(1).
+
+**Rules — after phased retirement period**
+
+- **(5)** At the end of a phased retirement period
+	- **(a)** the pension benefit accrued during the phased retirement period is to be treated as vested without regard to conditions as to age, period of membership in the pension plan or period of employment;
+	- **(b)** the immediate pension benefit to which the person is entitled under subsection 16(1) or which they are eligible to receive under subsection 16(2) is, unless otherwise prescribed, to be calculated without regard to the amount of the phased retirement benefit received;
+	- **(c)** an election under subsection 22(5) that is void under paragraph (4)(g) remains void;
+	- **(d)** subsection 26(2) applies as if it contained no reference to “but before the commencement of payment of a pension benefit”; and
+	- **(e)** in the case of a phased retirement period that ends as a result of the death of a person,
+		- **(i)** the person is deemed to have retired for purposes of the survivor benefit,
+		- **(ii)** the person is deemed to have been entitled to the joint and survivor pension benefit payable pursuant to section 22, without regard to subsection 22(5), in respect of the immediate pension benefit to which the person would otherwise be entitled under subsection 16(1) or which they would otherwise be eligible to receive under subsection 16(2), and
+		- **(iii)** subsections 23(5) to (7) apply.
+> 2007, c. 35, s. 141.
+
+
+
+
+
 ### Vesting of Benefits
 
 
@@ -1632,6 +1687,7 @@ is guilty of an offence.
 - **(j)** respecting the distribution of the assets of a pension plan that is being wound up;
 - **(j.1)** respecting the manner in which the administrator of a pension plan shall deal with complaints or inquiries from members of the pension plan, former members and any other persons entitled to pension benefits or refunds under the plan;
 - **(k)** exempting any employee or pension plan, any class of employee or pension plan or any benefit or kind of benefit under a pension plan from the application of this Act or any provision thereof;
+- **(k.1)** respecting phased retirement benefits;
 - **(l)** defining the term ***disability***;
 - **(m)** respecting the meaning of ***impair the solvency*** for the purposes of subsection 26(4);
 - **(n)** respecting the integration of
@@ -1640,7 +1696,7 @@ with
 	- **(ii)** the payment of any pension or contribution payable under the [Old Age Security Act](/en/Acts/Revised%20Statutes%20of%20Canada/O/O-9.md), the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md), or any provincial pension plan as defined in section 3 of the [Canada Pension Plan](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-8.md);
 - **(o)** prescribing anything that by this Act is to be prescribed; and
 - **(p)** generally for carrying out the purposes and provisions of this Act.
-> R.S., 1985, c. 32 (2nd Supp.), s. 39; 1998, c. 12, s. 26; 2001, c. 34, s. 76.
+> R.S., 1985, c. 32 (2nd Supp.), s. 39; 1998, c. 12, s. 26; 2001, c. 34, s. 76; 2007, c. 35, s. 142.
 
 
 
