@@ -741,7 +741,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_Ind4921_hq_3795'>[*]</a></sup>**143** La présente partie entre en vigueur à la date fixée par décret.
 
-<a name='fn_Ind4921_hq_3795'><sup>*</sup></a>: [Note : Partie 7 non en vigueur.]<br />
+<a name='fn_Ind4921_hq_3795'><sup>*</sup></a>: [Note : Partie 7 en vigueur le 31 mars 2009, *voir* TR/2009-25.]<br />
 
 
 
