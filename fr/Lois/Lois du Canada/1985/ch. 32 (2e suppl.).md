@@ -805,6 +805,61 @@ L’employeur en informe le surintendant et les personnes faisant partie des gro
 
 
 
+### Prestation de retraite progressive
+
+
+
+**Définitions**
+
+**16.1** 
+
+- **(1)** Les définitions qui suivent s’appliquent au présent article.
+
+***période de retraite progressive*** Période pour laquelle la prestation de retraite progressive est à verser.
+
+***prestation de retraite progressive*** Prestation de pension dont le montant correspond à une partie du montant de la prestation de pension immédiate à laquelle une personne a droit au titre des paragraphes 16(1) ou (2).
+
+**Prestation de retraite progressive**
+
+- **(2)** Le régime de pension peut prévoir le versement de prestations de retraite progressive.
+
+**Conditions**
+
+- **(3)** Il ne peut être versé de prestation de retraite progressive que si les conditions ci-après sont remplies :
+	- **a)** la personne conclut, par écrit, une entente faisant état du consentement au versement de la prestation de retraite progressive avec l’employeur versant des cotisations au régime de pension au titre duquel la prestation est à verser ou avec un administrateur visé par règlement;
+	- **b)** dans le cas où elle reçoit une prestation réversible avant le début de la période de retraite progressive, son époux ou conjoint de fait qui recevrait une telle prestation à son décès consent par écrit à la cessation du versement de la prestation réversible;
+	- **c)** l’employeur fournit copie de l’entente visée à l’alinéa a) à l’administrateur du régime de pension au titre duquel la prestation de retraite progressive est à verser;
+	- **d)** la personne accumule, au cours de la période de retraite progressive, des prestations de pension dans les circonstances où le paragraphe 8503(19) du [Règlement de l’impôt sur le revenu](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/901-1000/C.R.C.,%20ch.%20945.md) s’applique;
+	- **e)** il n’y a pas eu cessation du régime de pension au titre duquel la prestation de retraite progressive est à verser.
+
+**Règles applicables pendant la période de retraite progressive**
+
+- **(4)** Les règles ci-après s’appliquent pendant la période de retraite progressive :
+	- **a)** la personne est réputée avoir le statut de participant;
+	- **b)** le paragraphe 2(3) ne s’applique pas et elle est réputée ne pas recevoir de prestation de pension immédiate;
+	- **c)** l’administrateur du régime de pension au titre duquel la prestation de retraite progressive est à verser ne peut pas verser la prestation de pension immédiate à laquelle la personne aurait droit au titre des paragraphes 16(1) ou (2);
+	- **d)** l’alinéa 18(1)b) et les paragraphes 36(1) et (4) ne s’appliquent pas à l’entente ou à l’arrangement concernant le versement de la prestation de retraite progressive;
+	- **e)** l’article 21 ne s’applique pas au calcul de la prestation de retraite progressive;
+	- **f)** l’article 22 ne s’applique pas à la prestation de retraite progressive;
+	- **g)** dans le cas où la personne reçoit, avant le début de cette période, une prestation de pension immédiate aux termes du régime de pension au titre duquel la prestation de retraite progressive est à verser, l’administrateur de ce régime ne peut pas verser la prestation de pension immédiate, et tout choix fait antérieurement au titre du paragraphe 22(5) est nul sauf s’il a été effectué au titre du droit provincial des biens au sens du paragraphe 25(1).
+
+**Règles applicables après la période de retraite progressive**
+
+- **(5)** Les règles ci-après s’appliquent dès que prend fin la période de retraite progressive :
+	- **a)** les prestations de pension acquises pendant cette période sont tenues comme telles, indépendamment de l’âge, de la durée de la participation ou de la période d’emploi;
+	- **b)** le montant de la prestation de pension immédiate à laquelle la personne a droit au titre des paragraphes 16(1) ou (2) est calculé, sauf disposition contraire des règlements, sans qu’il soit tenu compte de toute somme versée à titre de prestation de retraite progressive;
+	- **c)** tout choix fait au titre du paragraphe 22(5) qui est nul aux termes de l’alinéa (4)g) le demeure;
+	- **d)** le paragraphe 26(2) s’applique, abstraction faite du passage « mais avant le début du service de la prestation de pension »;
+	- **e)** si la période prend fin pour cause de décès :
+		- **(i)** la personne est réputée avoir pris sa retraite pour ce qui est de la prestation au survivant,
+		- **(ii)** elle est réputée être admissible à la prestation réversible au titre de l’article 22, indépendamment du paragraphe 22(5), à l’égard de la prestation de pension immédiate à laquelle elle aurait droit au titre des paragraphes 16(1) ou (2),
+		- **(iii)** les paragraphes 23(5) à (7) s’appliquent.
+> 2007, ch. 35, art. 141.
+
+
+
+
+
 ### Acquisition du droit aux prestations
 
 
@@ -1575,6 +1630,7 @@ L’administrateur prend sans délai les mesures voulues pour donner effet à l�
 - **j)** prévoir la répartition des actifs d’un régime en liquidation;
 - **j.1)** régir la façon, pour l’administrateur, de traiter les plaintes ou demandes des participants, actuels ou anciens, et de toute autre personne qui a droit à une prestation de pension ou à un remboursement au titre du régime de pension;
 - **k)** exclure tout salarié, tout régime de pension, toute catégorie de salariés ou de régimes de pension ou toute prestation prévue par un régime de pension de l’application de la présente loi ou de telle de ses dispositions;
+- **k.1)** régir les prestations de retraite progressive;
 - **l)** définir le mot ***incapacité***;
 - **m)** prévoir le sens de l’expression ***risque de porter atteinte à la solvabilité*** pour l’application du paragraphe 26(4);
 - **n)** prévoir la coordination des paiements suivants :
@@ -1582,7 +1638,7 @@ L’administrateur prend sans délai les mesures voulues pour donner effet à l�
 	- **(ii)** le paiement de toute prestation de pension ou cotisation, prévue par la [Loi sur la sécurité de la vieillesse](/fr/Lois/Lois%20révisées%20du%20Canada/O/O-9.md), le [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md) ou tout régime provincial de pensions au sens de l’article 3 du [Régime de pensions du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-8.md);
 - **o)** prendre toute autre mesure d’ordre réglementaire prévue par la présente loi;
 - **p)** prendre toute autre mesure d’application de la présente loi.
-> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 39; 1998, ch. 12, art. 26; 2001, ch. 34, art. 76.
+> L.R. (1985), ch. 32 (2<sup>e</sup> suppl.), art. 39; 1998, ch. 12, art. 26; 2001, ch. 34, art. 76; 2007, ch. 35, art. 142.
 
 
 
