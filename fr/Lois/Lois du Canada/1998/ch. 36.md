@@ -104,11 +104,14 @@ Sont exclues de la présente définition les entreprises à vocation religieuse 
 
 - **(2)** Est admissible à un prêt l’emprunteur qui, au moment de l’octroi du prêt, répond aux conditions suivantes :
 	- **a)** il satisfait aux critères d’admissibilité réglementaires;
-	- **b)** le prêt impayé le concernant est d’un montant qui n’excède pas 250 000 $ ou tout montant réglementaire inférieur.
+	- **b)** dans le cas d’un prêt consenti avant le 1<sup>er</sup> avril 2009, le prêt impayé le concernant est d’un montant qui n’excède pas 250 000 $ ou tout montant réglementaire inférieur;
+	- **c)** dans le cas d’un prêt consenti après le 31 mars 2009, le prêt impayé le concernant est d’un montant qui n’excède pas 500 000 $ ou tout montant réglementaire inférieur, dont un montant maximal de 350 000 $ ou tout montant réglementaire inférieur est consenti à des fins autres que l’achat ou l’amélioration d’immeubles ou biens réels dont il est ou deviendra propriétaire.
 
 **Montants inclus dans le prêt maximal**
 
-- **(3)** Le montant du prêt impayé visé à l’alinéa (2)b) correspond à la somme du montant du prêt demandé et de l’ensemble du principal impayé des prêts ou des prêts garantis consentis respectivement sous le régime de la présente loi ou sous le régime de la Loi sur les prêts aux petites entreprises à l’emprunteur et aux emprunteurs qui lui sont liés selon les critères réglementaires.
+- **(3)** Le montant du prêt impayé visé aux alinéas (2)b) ou c) correspond à la somme du montant du prêt demandé et de l’ensemble du principal impayé des prêts ou des prêts garantis consentis respectivement sous le régime de la présente loi ou sous le régime de la Loi sur les prêts aux petites entreprises à l’emprunteur et aux emprunteurs qui lui sont liés selon les critères réglementaires.
+> 1998, ch. 36, art. 4; 2009, ch. 2, art. 265.
+
 
 
 
@@ -142,10 +145,13 @@ Sont exclues de la présente définition les entreprises à vocation religieuse 
 
 **Plafond de responsabilité particulière**
 
-- **(2)** Il n’est tenu d’indemniser le prêteur des pertes occasionnées à celui-ci par l’octroi de prêts enregistrés par le ministre, pour chacune des périodes quinquennales consécutives, la première débutant le 1<sup>er</sup> avril 1999, qu’à concurrence d’un montant qui n’excède pas le total de ce qui suit :
-	- **a)** 90 % — ou tout pourcentage réglementaire inférieur — de la tranche de principal allant jusqu’à 250 000 $;
-	- **b)** 50 % — ou tout pourcentage réglementaire inférieur — de la tranche de principal allant de 250 000 $ à 500 000 $;
-	- **c)** 10 % — ou tout pourcentage réglementaire inférieur — de la tranche de principal dépassant 500 000 $.
+- **(2)** Il n’est tenu d’indemniser le prêteur des pertes occasionnées à celui-ci par l’octroi de prêts enregistrés par le ministre, pour chacune des périodes quinquennales consécutives, la première débutant le 1<sup>er</sup> avril 1999, qu’à concurrence d’un montant qui n’excède pas le total de ce qui suit :
+	- **a)** 90 % — ou tout pourcentage réglementaire inférieur — de la tranche de principal allant jusqu’à 250 000 $;
+	- **b)** 50 % — ou tout pourcentage réglementaire inférieur — de la tranche de principal allant de 250 000 $ à 500 000 $;
+	- **c)** 10 % — ou tout pourcentage réglementaire inférieur — de la tranche de principal des prêts consentis avant le 1<sup>er</sup> avril 2009 qui excède 500 000 $;
+	- **d)** 12 % — ou tout pourcentage réglementaire inférieur — de la tranche de principal des prêts consentis après le 31 mars 2009 qui excède 500 000 $.
+> 1998, ch. 36, art. 6; 2009, ch. 2, art. 266.
+
 
 
 
@@ -154,11 +160,15 @@ Sont exclues de la présente définition les entreprises à vocation religieuse 
 
 **7** 
 
-- **(1)** Le ministre n’est pas tenu d’indemniser le prêteur de toute perte résultant d’un prêt consenti par celui-ci à un emprunteur dans le cas où le prêt impayé concernant ce dernier est d’un montant — mentionné au prêteur ou dont celui-ci avait effectivement connaissance — qui excède 250 000 $ ou tout montant réglementaire inférieur.
+- **(1)** Le ministre n’est pas tenu d’indemniser le prêteur de toute perte résultant d’un prêt consenti par celui-ci à un emprunteur dans le cas où le prêt impayé concernant ce dernier est d’un montant — mentionné au prêteur ou dont celui-ci avait effectivement connaissance — qui excède :
+	- **a)** dans le cas d’un prêt consenti avant le 1<sup>er</sup> avril 2009, 250 000 $ ou tout montant réglementaire inférieur;
+	- **b)** dans le cas d’un prêt consenti après le 31 mars 2009, 500 000 $ ou tout montant réglementaire inférieur, dont un montant maximal de 350 000 $ ou tout montant réglementaire inférieur est consenti à des fins autres que l’achat ou l’amélioration d’immeubles ou biens réels dont l’emprunteur est ou deviendra propriétaire.
 
 **Montants inclus dans le prêt maximal**
 
 - **(2)** Le montant du prêt impayé visé au paragraphe (1) correspond à la somme du montant du prêt demandé et de l’ensemble du principal impayé, au moment de l’octroi du prêt, des prêts ou des prêts garantis consentis respectivement sous le régime de la présente loi ou sous le régime de la Loi sur les prêts aux petites entreprises à l’emprunteur et aux emprunteurs qui lui sont liés selon les critères réglementaires.
+> 1998, ch. 36, art. 7; 2009, ch. 2, art. 267.
+
 
 
 
