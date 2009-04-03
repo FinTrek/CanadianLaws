@@ -1022,7 +1022,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **23** Pavilion
 
 
-**24** Tsawwassen
+**24** [Abrogé, 2008, ch. 32, art. 27]
 
 
 **25** Tsawout
@@ -1127,6 +1127,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **58** Skawahlook
 
 
-> 1999, ch. 24, ann.; DORS/2003-178; DORS/2006-216; DORS/2008-51, 267.
+> 1999, ch. 24, ann.; DORS/2003-178; DORS/2006-216; 2008, ch. 32, art. 27; DORS/2008-51, 267.
 
 
