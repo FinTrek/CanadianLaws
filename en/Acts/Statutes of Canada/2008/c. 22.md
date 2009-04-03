@@ -835,6 +835,8 @@ Sechelt Indian Band Self-Government Act<br />- <i>Loi sur l’autonomie gouverne
 
 Tlicho Land Claims and Self-Government Act<br />- <i>Loi sur les revendications territoriales et l’autonomie gouvernementale du peuple tlicho</i>
 
+Tsawwassen First Nation Final Agreement Act<br />- <i>Loi sur l’accord définitif concernant la Première Nation de Tsawwassen</i>
+
 Westbank First Nation Self-Government Act<br />- <i>Loi sur l’autonomie gouvernementale de la première nation de Westbank </i>
 
 Yukon First Nations Self-Government Act<br />- <i>Loi sur l’autonomie gouvernementale des premières nations du Yukon</i>
@@ -869,5 +871,7 @@ Tr’ondek Hwech’in Self-Government Agreement<br />- <i>Entente sur l’autono
 
 Vuntut Gwitchin First Nation Self-Government Agreement<br />- <i>Entente sur l’autonomie gouvernementale de la première nation des Gwitchin Vuntut</i>
 
+
+> 2008, c. 22, Sch.; 2008, c. 32, s. 31.
 
 
