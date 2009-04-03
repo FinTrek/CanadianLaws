@@ -1029,7 +1029,7 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **23** Pavilion
 
 
-**24** Tsawwassen
+**24** [Repealed, 2008, c. 32, s. 27]
 
 
 **25** Tsawout
@@ -1134,6 +1134,6 @@ NOW, THEREFORE, Her Majesty, by and with the advice and consent of the Senate an
 **58** Skawahlook
 
 
-> 1999, c. 24, Sch.; SOR/2003-178; SOR/2006-216; SOR/2008-51, 267.
+> 1999, c. 24, Sch.; SOR/2003-178; SOR/2006-216; 2008, c. 32, s. 27; SOR/2008-51, 267.
 
 
