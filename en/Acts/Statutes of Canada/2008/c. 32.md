@@ -56,13 +56,13 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 - **(1)** The following definitions apply in this Act.
 
-***Agreement*** means the Tsawwassen First Nation Final Agreement, between the Tsawwassen First Nation, Her Majesty in right of Canada and Her Majesty in right of British Columbia, including any amendments made to it.
+***Agreement*** means the Tsawwassen First Nation Final Agreement, between the Tsawwassen First Nation, Her Majesty in right of Canada and Her Majesty in right of British Columbia, including any amendments made to it. (*accord*)
 
-***Tax Treatment Agreement*** means the Tsawwassen Tax Treatment Agreement referred to in clause 22 of Chapter 20 of the Agreement, including any amendments made to it.
+***Tax Treatment Agreement*** means the Tsawwassen Tax Treatment Agreement referred to in clause 22 of Chapter 20 of the Agreement, including any amendments made to it. (*accord sur le traitement fiscal*)
 
 **Definitions in the Agreement**
 
-- **(2)** In this Act, ***Former Tsawwassen Reserve***, ***Tsawwassen Corporation***, ***Tsawwassen First Nation***, ***Tsawwassen Government***, ***Tsawwassen Lands***, ***Tsawwassen Law***, ***Tsawwassen Member***, ***Tsawwassen Public Institution*** and ***Tsawwassen Territory*** have the same meanings as in Chapter 1 of the Agreement.
+- **(2)** In this Act, Former Tsawwassen Reserve, Tsawwassen Corporation, Tsawwassen First Nation, Tsawwassen Government, Tsawwassen Lands, Tsawwassen Law, Tsawwassen Member, Tsawwassen Public Institution and Tsawwassen Territory have the same meanings as in Chapter 1 of the Agreement.
 
 
 
@@ -401,6 +401,6 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 <sup><a href='#fn_Ind2897_hq_4980'>[*]</a></sup>**33** This Act, other than sections 19, 31 and 32, comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind2897_hq_4980'><sup>*</sup></a>: [Note: Sections 19, 31 and 32 in force on assent June 26, 2008.]<br />
+<a name='fn_Ind2897_hq_4980'><sup>*</sup></a>: [Note: Sections 19, 31 and 32 in force on assent June 26, 2008; Act, other than sections 19, 31 and 32, in force April 3, 2009, *see* SI/2008-147.]<br />
 
 
