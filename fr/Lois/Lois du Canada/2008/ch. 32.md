@@ -58,13 +58,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***accord*** L’accord définitif concernant la Première Nation de Tsawwassen conclu entre celle-ci, Sa Majesté du chef du Canada et Sa Majesté du chef de la Colombie-Britannique, avec ses modifications éventuelles.
+***accord*** L’accord définitif concernant la Première Nation de Tsawwassen conclu entre celle-ci, Sa Majesté du chef du Canada et Sa Majesté du chef de la Colombie-Britannique, avec ses modifications éventuelles. (*Agreement*)
 
-***accord sur le traitement fiscal*** L’accord sur le traitement fiscal visé à l’article 22 du chapitre 20 de l’accord, avec ses modifications éventuelles.
+***accord sur le traitement fiscal*** L’accord sur le traitement fiscal visé à l’article 22 du chapitre 20 de l’accord, avec ses modifications éventuelles. (*Tax Treatment Agreement*)
 
 **Définitions de l’accord**
 
-- **(2)** Dans la présente loi, ***ancienne réserve de Tsawwassen***, ***gouvernement tsawwassen***, ***institution publique tsawwassenne***, ***loi tsawwassenne***, ***membre tsawwassen***, ***Première Nation de Tsawwassen***, ***société tsawwassenne***, ***terres tsawwassennes*** et ***territoire tsawwassen*** s’entendent au sens du chapitre 1 de l’accord.
+- **(2)** Dans la présente loi, ancienne réserve de Tsawwassen, gouvernement tsawwassen, institution publique tsawwassenne, loi tsawwassenne, membre tsawwassen, Première Nation de Tsawwassen, société tsawwassenne, terres tsawwassennes et territoire tsawwassen s’entendent au sens du chapitre 1 de l’accord.
 
 
 
@@ -336,7 +336,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-### Loi sur l’accès à l’information
+### [Loi sur l’accès à l’information](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-1.md)
 
 
 **26** [Modification]
@@ -344,7 +344,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-### Loi sur la gestion des terres des premières nations
+### [Loi sur la gestion des terres des premières nations](/fr/Lois/Lois%20du%20Canada/1999/ch.%2024.md)
 
 
 **27** [Modification]
@@ -352,7 +352,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-### Loi sur les pêches
+### [Loi sur les pêches](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-14.md)
 
 
 **28** [Modification]
@@ -360,7 +360,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-### Loi sur les paiements versés en remplacement d’impôts
+### [Loi sur les paiements versés en remplacement d’impôts](/fr/Lois/Lois%20révisées%20du%20Canada/M/M-13.md)
 
 
 **29** [Modification]
@@ -368,7 +368,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-### Loi sur la protection des renseignements personnels
+### [Loi sur la protection des renseignements personnels](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-21.md)
 
 
 **30** [Modification]
@@ -396,6 +396,6 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_Ind9FC0_hq_4977'>[*]</a></sup>**33** La présente loi, à l’exception des articles 19, 31 et 32, entre en vigueur à la date fixée par décret.
 
-<a name='fn_Ind9FC0_hq_4977'><sup>*</sup></a>: [Note : Articles 19, 31 et 32 en vigueur à la sanction le 26 juin 2008.]<br />
+<a name='fn_Ind9FC0_hq_4977'><sup>*</sup></a>: [Note : Articles 19, 31 et 32 en vigueur à la sanction le 26 juin 2008; loi, à l’exception des articles 19, 31 et 32, en vigueur le 3 avril 2009, *voir* TR/2008-147.]<br />
 
 
