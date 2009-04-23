@@ -40610,6 +40610,8 @@ Alfuzosin and its salts<br />- <i>Alfuzosine et ses sels</i>
 
 Alglucosidase alfa<br />- <i>Alglucosidase alfa</i>
 
+Aliskiren and its salts<br />- <i>Aliskirène et ses sels</i>
+
 Alkyl nitrites<br />- <i>Alkyle (nitrites d’)</i>
 
 Allopurinol<br />- <i>Allopurinol</i>
@@ -40690,11 +40692,15 @@ Anastrozole<br />- <i>Anastrozole</i>
 
 Ancestim<br />- <i>Ancestim</i>
 
+Anidulafungin<br />- <i>Anidulafungine</i>
+
 Anti-thymocyte globulin<br />- <i>Sérum antithymocytes</i>
 
 Apiol, oil of<br />- <i>Apiol (huile d’)</i>
 
 Apraclonidine and its salts<br />- <i>Apraclonidine et ses sels</i>
+
+Aprepitant and its derivatives<br />- <i>Aprépitant et ses dérivés</i>
 
 Aprotinin<br />- <i>Aprotinine</i>
 
@@ -41048,15 +41054,21 @@ Dantrolene and its salts<br />- <i>Dantrolène et ses sels</i>
 
 Dapiprazole and its salts<br />- <i>Dapiprazole et ses sels</i>
 
+Daptomycin<br />- <i>Daptomycine</i>
+
 Darifenacin and its salts<br />- <i>Darifénacine et ses sels</i>
 
 Darunavir<br />- <i>Darunavir</i>
+
+Dasatinib<br />- <i>Dasatinib</i>
 
 Daunorubicin and its salts<br />- <i>Daunorubicine et ses sels</i>
 
 Deanol, and its salts and derivatives<br />- <i>Déanol, ses sels et dérivés</i>
 
 Debrisoquin and its salts<br />- <i>Debrisoquine et ses sels</i>
+
+Deferasirox<br />- <i>Déférasirox</i>
 
 Deferoxamine and its salts<br />- <i>Déféroxamine et ses sels</i>
 
@@ -41167,6 +41179,8 @@ Doxylamine and its salts, when sold or recommended for use in the nausea or vomi
 Droperidol and its salts<br />- <i>Dropéridol et ses sels</i>
 
 Drotrecogin<br />- <i>Drotrécogine</i>
+
+Duloxetine and its salts<br />- <i>Duloxétine et ses sels</i>
 
 Dutasteride<br />- <i>Dutastéride</i>
 
@@ -41506,6 +41520,8 @@ Lamivudine and its salts<br />- <i>Lamivudine et ses sels</i>
 
 Lamotrigine and its salts<br />- <i>Lamotrigue et ses sels</i>
 
+Lanreotide and its salts<br />- <i>Lanréotide et ses sels</i>
+
 Lansoprazole and its salts<br />- <i>Lansoprazole et ses sels</i>
 
 Lanthanum salts, when sold for the treatment of hyperphosphatemia<br />- <i>Sels de lanthane vendus pour le traitement de l’hyperphosphatémie</i>
@@ -41515,6 +41531,8 @@ Laronidase<br />- <i>Laronidase</i>
 Latanoprost<br />- <i>Latanoprost</i>
 
 Leflunomide and its salts<br />- <i>Léflunomide et ses sels</i>
+
+Lenalidomide<br />- <i>Lénalidomide</i>
 
 Letrozole<br />- <i>Létrozole</i>
 
@@ -41556,11 +41574,15 @@ Lovastatin<br />- <i>Lovastatine</i>
 
 Loxapine and its salts<br />- <i>Loxapine et ses sels</i>
 
+Lumiracoxib<br />- <i>Lumiracoxib</i>
+
 Lutropin alfa<br />- <i>Lutropine alfa</i>
 
 Magnesium glutamate hydrobromide<br />- <i>Bromhydrate de glutamate de magnésium</i>
 
 Maprotiline and its salts<br />- <i>Maprotiline et ses sels</i>
+
+Maraviroc<br />- <i>Maraviroc</i>
 
 Marbofloxacin and its salts and derivatives<br />- <i>Marbofloxacine et ses sels et dérivés</i>
 
@@ -41712,7 +41734,7 @@ Naloxone and its salts<br />- <i>Naloxone et ses sels</i>
 
 Naltrexone and its salts<br />- <i>Naltrexone et ses sels</i>
 
-Naproxen and its salts<br />- <i>Naproxène et ses sels</i>
+Naproxen and its salts, except when sold for oral use with a daily dosage of 440 mg<br />- <i>Naproxène et ses sels,sauf lorsque vendu pour administration par voie orale en dose quotidienne de 440 mg</i>
 
 Naratriptan and its salts<br />- <i>Naratriptan et ses sels</i>
 
@@ -41888,6 +41910,8 @@ Paclitaxel and its derivatives<br />- <i>Paclitaxel et ses dérivés</i>
 
 Palifermin<br />- <i>Palifermine</i>
 
+Paliperidone and its salts and derivatives<br />- <i>Palipéridone, ses sels et ses dérivés</i>
+
 Palivizumab<br />- <i>Palivizumab</i>
 
 Pamidronic acid and its salts<br />- <i>Pamidronique (acide) et ses sels</i>
@@ -42036,6 +42060,8 @@ Poractant alfa<br />- <i>Poractant alfa</i>
 
 Porfimer and its salts<br />- <i>Porfimère et ses sels</i>
 
+Posaconazole<br />- <i>Posaconazole</i>
+
 Potassium bromide<br />- <i>Bromure de potassium</i>
 
 Potassium gluconate, when sold or recommended for administration to cats<br />- <i>Potassium (gluconate de), lorsqu’il est vendu ou recommandé pour administration aux chats</i>
@@ -42109,6 +42135,8 @@ Quinupristin and its salts<br />- <i>Quinupristine et ses sels</i>
 Rabeprazole and its salts<br />- <i>Rabéprazole et ses sels</i>
 
 Raloxifene and its salts<br />- <i>Raloxifène et ses sels</i>
+
+Raltegravir and its salts<br />- <i>Raltégravir et ses sels</i>
 
 Raltitrexed and its salts and derivatives<br />- <i>Raltitrexed, ses sels et dérivés</i>
 
@@ -42267,6 +42295,8 @@ Teflubenzuron<br />- <i>Teflubenzuron</i>
 Tegafur and its salts<br />- <i>Tégafur et ses sels</i>
 
 Tegaserod and its salts<br />- <i>Tégasérod et ses sels</i>
+
+Telbivudine<br />- <i>Telbivudine</i>
 
 Telithromycin and its salts and derivatives<br />- <i>Télithromycine et ses sels et dérivés</i>
 
@@ -42519,6 +42549,8 @@ Zalcitabine and its salts<br />- <i>Zalcitabine et ses sels</i>
 Zanamivir and its salts and derivatives<br />- <i>Zanamivir et ses sels et dérivés</i>
 
 Zidovudine<br />- <i>Zidovudine</i>
+
+Ziprasidone and its salts<br />- <i>Ziprasidone et ses sels</i>
 
 Zoledronic acid and its salts and derivatives<br />- <i>Acide zolédronique et ses sels et dérivés</i>
 
@@ -42820,7 +42852,7 @@ Vitamin K, except Vitamin K1 and Vitamin K2 sold
 
 
 
-> SOR/78-423, s. 5; SOR/78-427, s. 11; SOR/79-754, s. 1; SOR/80-279, s. 1; SOR/81-334, s. 6; SOR/81-358, s. 2; SOR/82-1072, s. 1; SOR/85-551, s. 2; SOR/86-91, s. 5; SOR/86-955, s. 1; SOR/87-332, s. 1; SOR/87-447, s. 1; SOR/87-496, ss. 1 to 18; SOR/87-669, ss. 1, 2; SOR/88-351, ss. 1 to 11; SOR/88-511, ss. 1 to 11; SOR/89-195, s. 1; SOR/89-454, ss. 1 to 4; SOR/89-504, ss. 1 to 4; SOR/89-572, ss. 1 to 45; SOR/90-119, ss. 1 to 10; SOR/90-173, s. 2(F); SOR/90-443, ss. 1(F) to 4 (F), 5, 6(F) to 15(F); SOR/90-585, ss. 1 to 5; SOR/91-197, ss. 1, 2(F); SOR/91-521, ss. 1 to 15; SOR/92-95, ss. 1 to 9; SOR/92-386, ss. 4 to 8; SOR/92-591, s. 2; SOR/92-647, ss. 1 to 15; SOR/92-724, s. 1; SOR/93-110, ss. 1 to 3, 4(E), 5(E), 6 to 11; SOR/93-243, s. 2; SOR/93-435, ss. 1 to 38; SOR/94-166, ss. 1 to 17, 18(E), 19 to 30; SOR/94-286, ss. 1, 2; SOR/94-458, ss. 1 to 13; SOR/94-462, s. 1; SOR/94-557, ss. 1 to 9; SOR/94-461, s. 1; SOR/95-59, s. 1; SOR/95-172, s. 2; SOR/95-201, s. 1; SOR/95-546, s. 1; SOR/96-253, ss. 1, 2; SOR/96-306, s. 1; SOR/97-140, s. 1; SOR/97-407, s. 1; SOR/97-410, ss. 1, 2; SOR/97-414, s. 1; SOR/97-543, ss. 8, 9; SOR/97-544, s. 1; SOR/97-567, s. 1; SOR/98-291, ss. 1 to 7; SOR/98-292, s. 1; SOR/98-293, s. 1; SOR/98-294, s. 1; SOR/99-370, ss. 1, 2(F), 3, 4(F); SOR/99-373, s. 1; SOR/99-374, ss. 1(F), 2; SOR/99-412, s. 1; SOR/2000-119, s. 1; SOR/2000-124, s. 1; SOR/2000-197, ss. 1, 2; SOR/2000-219, s. 2; SOR/2000-403, ss. 1, 2; SOR/2001-95, s. 1; SOR/2001-531, s. 1; SOR/2002-53, s. 1; SOR/2002-418, s. 1; SOR/2003-34, ss. 6 to 8; SOR/2003-36, s. 1; SOR/2003-80, ss. 1, 2; SOR/2003-248, s. 1; SOR/2003-327, s. 1; SOR/2004-108, ss. 1 to 6; SOR/2005-105, s. 1; SOR/2005-167, s. 1; SOR/2005-270, s. 1; SOR/2005-307, s. 1; SOR/2006-143, s. 1; SOR/2006-144, ss. 1, 2; SOR/2006-211, s. 1; SOR/2006-212, s. 1; SOR/2006-213, s. 1; SOR/2006-214, s. 1; SOR/2006-215, s. 1; SOR/2006-251, s. 1; SOR/2007-36, s. 1; SOR/2007-37, s. 1; SOR/2007-38, s. 1; SOR/2007-39, s. 1; SOR/2007-40, s. 1; SOR/2007-41, s. 1; SOR/2007-42, ss. 1, 2; SOR/2007-83, s. 1; SOR/2007-224, s. 1; SOR/2007-234, s. 1; SOR/2008-35, s. 1; SOR/2008-100, s. 1; SOR/2008-101, ss. 1, 2; SOR/2008-108, s. 1; SOR/2008-204, s. 1; SOR/2008-205, s. 1; SOR/2008-206, s. 1; SOR/2008-207, s. 1; SOR/2008-260, s. 1.
+> SOR/78-423, s. 5; SOR/78-427, s. 11; SOR/79-754, s. 1; SOR/80-279, s. 1; SOR/81-334, s. 6; SOR/81-358, s. 2; SOR/82-1072, s. 1; SOR/85-551, s. 2; SOR/86-91, s. 5; SOR/86-955, s. 1; SOR/87-332, s. 1; SOR/87-447, s. 1; SOR/87-496, ss. 1 to 18; SOR/87-669, ss. 1, 2; SOR/88-351, ss. 1 to 11; SOR/88-511, ss. 1 to 11; SOR/89-195, s. 1; SOR/89-454, ss. 1 to 4; SOR/89-504, ss. 1 to 4; SOR/89-572, ss. 1 to 45; SOR/90-119, ss. 1 to 10; SOR/90-173, s. 2(F); SOR/90-443, ss. 1(F) to 4 (F), 5, 6(F) to 15(F); SOR/90-585, ss. 1 to 5; SOR/91-197, ss. 1, 2(F); SOR/91-521, ss. 1 to 15; SOR/92-95, ss. 1 to 9; SOR/92-386, ss. 4 to 8; SOR/92-591, s. 2; SOR/92-647, ss. 1 to 15; SOR/92-724, s. 1; SOR/93-110, ss. 1 to 3, 4(E), 5(E), 6 to 11; SOR/93-243, s. 2; SOR/93-435, ss. 1 to 38; SOR/94-166, ss. 1 to 17, 18(E), 19 to 30; SOR/94-286, ss. 1, 2; SOR/94-458, ss. 1 to 13; SOR/94-462, s. 1; SOR/94-557, ss. 1 to 9; SOR/94-461, s. 1; SOR/95-59, s. 1; SOR/95-172, s. 2; SOR/95-201, s. 1; SOR/95-546, s. 1; SOR/96-253, ss. 1, 2; SOR/96-306, s. 1; SOR/97-140, s. 1; SOR/97-407, s. 1; SOR/97-410, ss. 1, 2; SOR/97-414, s. 1; SOR/97-543, ss. 8, 9; SOR/97-544, s. 1; SOR/97-567, s. 1; SOR/98-291, ss. 1 to 7; SOR/98-292, s. 1; SOR/98-293, s. 1; SOR/98-294, s. 1; SOR/99-370, ss. 1, 2(F), 3, 4(F); SOR/99-373, s. 1; SOR/99-374, ss. 1(F), 2; SOR/99-412, s. 1; SOR/2000-119, s. 1; SOR/2000-124, s. 1; SOR/2000-197, ss. 1, 2; SOR/2000-219, s. 2; SOR/2000-403, ss. 1, 2; SOR/2001-95, s. 1; SOR/2001-531, s. 1; SOR/2002-53, s. 1; SOR/2002-418, s. 1; SOR/2003-34, ss. 6 to 8; SOR/2003-36, s. 1; SOR/2003-80, ss. 1, 2; SOR/2003-248, s. 1; SOR/2003-327, s. 1; SOR/2004-108, ss. 1 to 6; SOR/2005-105, s. 1; SOR/2005-167, s. 1; SOR/2005-270, s. 1; SOR/2005-307, s. 1; SOR/2006-143, s. 1; SOR/2006-144, ss. 1, 2; SOR/2006-211, s. 1; SOR/2006-212, s. 1; SOR/2006-213, s. 1; SOR/2006-214, s. 1; SOR/2006-215, s. 1; SOR/2006-251, s. 1; SOR/2007-36, s. 1; SOR/2007-37, s. 1; SOR/2007-38, s. 1; SOR/2007-39, s. 1; SOR/2007-40, s. 1; SOR/2007-41, s. 1; SOR/2007-42, ss. 1, 2; SOR/2007-83, s. 1; SOR/2007-224, s. 1; SOR/2007-234, s. 1; SOR/2008-35, s. 1; SOR/2008-100, s. 1; SOR/2008-101, ss. 1, 2; SOR/2008-108, s. 1; SOR/2008-204, s. 1; SOR/2008-205, s. 1; SOR/2008-206, s. 1; SOR/2008-207, s. 1; SOR/2008-260, s. 1; SOR/2009-116, s. 1; SOR/2009-117, s. 1; SOR/2009-118, s. 1; SOR/2009-119, s. 1; SOR/2009-120, s. 1.
 
 
 
