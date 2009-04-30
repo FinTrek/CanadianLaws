@@ -2900,6 +2900,7 @@ est déclaré être un bien exclu.
 		- **(xxxv)** de la catégorie 49, 8 pour cent,
 		- **(xxxvi)** de la catégorie 50, 55 pour cent,
 		- **(xxxvii)** de la catégorie 51, 6 pour cent,
+		- **(xxxviii)** de la catégorie 52, 100 pour cent,
 de la fraction non amortie du coût en capital, pour lui, des biens de la catégorie, à la fin de l’année d’imposition (avant toute déduction en vertu du présent paragraphe pour l’année d’imposition);
 
 #### Catégorie 1
@@ -3197,7 +3198,7 @@ Il est entendu que les biens incorporels, y compris les logiciels et les biens v
 - **(1.13)** Les règles suivantes s’appliquent au présent article :
 	- **a)** ***biens exclus*** s’entend des biens suivants :
 		- **(i)** le mobilier et l’équipement de bureau de nature générale inclus dans la catégorie 8 de l’annexe II (y compris l’équipement mobile tel les téléphones cellulaires et les téléavertisseurs) ainsi que le matériel électronique universel de traitement de l’information et le matériel auxiliaire visé à l’alinéa f) de la catégorie 10 de l’annexe II, à l’exclusion de toute pièce de ceux-ci dont le coût en capital, pour le contribuable, dépasse 1 000 000 $,
-		- **(i.1)** le matériel électronique universel de traitement de l’information et le matériel auxiliaire de traitement de l’information, compris dans les catégories 45 ou 50 de l’annexe II, à l’exclusion de toute pièce de ceux-ci dont le coût en capital pour le contribuable excède 1 000 000 $,
+		- **(i.1)** le matériel électronique universel de traitement de l’information et le matériel auxiliaire de traitement de l’information, compris dans les catégories 45, 50 ou 52 de l’annexe II, à l’exclusion de toute pièce de ceux-ci dont le coût en capital pour le contribuable excède 1 000 000 $,
 		- **(ii)** le mobilier, les appareils ménagers, les postes récepteurs de télévision et de radio, les téléphones, les chaudières, les chauffe-eau et autres biens semblables, destinés à un usage résidentiel,
 		- **(iii)** un bien qui est un véhicule à moteur principalement conçu ou aménagé pour le transport de particuliers sur les routes et dans les rues et comptant au maximum neuf places assises — y compris celle du conducteur — ou un véhicule à moteur de type pick-up ou fourgonnette ou d’un type analogue,
 		- **(iv)** un camion ou un tracteur conçus pour le transport routier de marchandises,
@@ -3251,22 +3252,19 @@ les règles suivantes s’appliquent :
 #### Biens acquis dans l’année
 
 
-- **(2)** Lorsque, à la fin d’une année d’imposition d’un contribuable
-	- **a)** le total des montants dont chacun représente une somme ajoutée :
-		- **(i)** en vertu du sous-alinéa 13(21)f)(i) de la Loi, au titre d’un bien acquis au cours de l’année ou devenu prêt à être mis en service par le contribuable au cours de l’année,
-		- **(ii)** en vertu des sous-alinéas 13(21)f)(ii.1) ou (ii.2) de la Loi, au titre d’un montant remboursé au cours de l’année,
-à la fraction non amortie du coût en capital, pour lui, des biens d’une catégorie de l’annexe II, sauf les biens suivants :
+- **(2)** La somme qu’un contribuable peut déduire pour une année d’imposition en application du paragraphe (1) au titre de biens d’une catégorie de l’annexe II est déterminée comme si la fraction non amortie du coût en capital, pour lui, à la fin de l’année (avant d’effectuer toute déduction en application du paragraphe (1) pour l’année) des biens de la catégorie était diminuée d’une somme égale à 50 pour cent de l’excédent de la somme visée à l’alinéa a) sur celle visée à l’alinéa b) :
+	- **a)** le total des sommes dont chacune représente une somme qui est ajoutée à la fraction non amortie du coût en capital, pour le contribuable, des biens d’une catégorie de l’annexe II par l’effet, selon le cas :
+		- **(i)** de l’élément A de la formule figurant à la définition de ***fraction non amortie du coût en capital*** au paragraphe 13(21) de la Loi, au titre d’un bien acquis au cours de l’année ou devenu prêt à être mis en service par le contribuable au cours de l’année,
+		- **(ii)** des éléments C ou D de la formule figurant à la définition de ***fraction non amortie du coût en capital*** au paragraphe 13(21) de la Loi, au titre d’une somme remboursée au cours de l’année,
+à l’exception des biens suivants :
 		- **(iii)** ceux visés à l’alinéa (1)v), à l’alinéa w) de la catégorie 10 ou à l’un des alinéas a) à c), e) à i), k), l) et p) à s) de la catégorie 12,
-		- **(iv)** ceux compris dans l’une des catégories 13, 14, 15, 23, 24, 27, 29 et 34,
+		- **(iv)** ceux compris dans l’une des catégories 13, 14, 15, 23, 24, 27, 29, 34 et 52,
 		- **(v)** dans le cas où le contribuable est une société visée au paragraphe (16) tout au long de l’année, ceux qui constituent des biens de location déterminés du contribuable à ce moment,
 		- **(vi)** ceux qui sont réputés acquis par le contribuable au cours d’une année d’imposition antérieure en application de l’alinéa 16.1(1)b) de la Loi relativement à un bail dont les biens faisaient l’objet immédiatement avant le moment auquel le contribuable les a acquis pour la dernière fois,
 		- **(vii)** ceux qui sont considérés comme devenus prêts à être mis en service par le contribuable au cours de l’année par l’effet des alinéas 13(27)b) ou (28)c) de la Loi;
-dépasse
-	- **b)** le total de tous les montants, dont chacun représente une somme déduite
-		- **(i)** en vertu du sous-alinéa 13(21)f)(iv) ou (v) de la Loi, à l’égard de biens qui ont fait l’objet d’une disposition dans l’année, ou
-		- **(ii)** en vertu du sous-alinéa 13(21)f)(viii) de la Loi, à l’égard d’une somme que le contribuable a reçue ou était en droit de recevoir dans l’année,
-de la fraction non amortie du coût en capital, pour lui, des biens de la catégorie,
-le montant que le contribuable peut déduire pour l’année en vertu du paragraphe (1) à l’égard de biens de la catégorie, est établi comme si la fraction non amortie du coût en capital, pour lui, à la fin de l’année (avant d’effectuer toute déduction en vertu du paragraphe (1) pour l’année) des biens de la catégorie avait été diminuée d’un montant égal à 50 pour cent de l’excédent du total déterminé à l’alinéa a) sur le total déterminé à l’alinéa b).
+	- **b)** le total des sommes dont chacune représente une somme qui est déduite de la fraction non amortie du coût en capital, pour le contribuable, des biens de la catégorie par l’effet, selon le cas :
+		- **(i)** des éléments F ou G de la formule figurant à la définition de ***fraction non amortie du coût en capital*** au paragraphe 13(21) de la Loi, au titre de biens qui ont fait l’objet d’une disposition au cours de l’année,
+		- **(ii)** de l’élément J de la formule figurant à la définition de ***fraction non amortie du coût en capital*** au paragraphe 13(21) de la Loi, au titre d’une somme que le contribuable a reçue ou avait le droit de recevoir au cours de l’année.
 
 - **(2.1)** Lorsque le contribuable a, après le 12 novembre 1981 et avant 1983, acquis un bien d’une catégorie de l’annexe II ou contracté un coût en capital à l’égard d’un tel bien et
 	- **a)** qu’il était tenu d’acquérir le bien en vertu des modalités d’une entente écrite conclue avant le 13 novembre 1981 (ou, lorsque le bien est un bien visé à la catégorie 31 de l’annexe II, avant 1982),
@@ -3461,7 +3459,7 @@ qui serait par ailleurs un bien donné en location à bail, possédé par le con
 		- **(i)** la perte du contribuable résultant d’une entreprise dans le cadre de laquelle un produit informatique déterminé lui appartenant est utilisé, calculée compte non tenu des déductions opérées en application du paragraphe (1) relativement à ce produit,
 		- **(ii)** la perte d’une société de personnes résultant d’une entreprise dans le cadre de laquelle un produit informatique déterminé de la société de personnes est utilisé, jusqu’à concurrence de la part de cette perte qui est incluse dans le calcul du revenu du contribuable pour l’année.
 
-- **(20.2)** Pour l’application de la présente partie, est un produit informatique déterminé tout logiciel, et tout bien visé à la catégorie 50 de l’annexe II, qui est un bien amortissable d’une catégorie prescrite d’une personne ou d’une société de personnes si, selon le cas :
+- **(20.2)** Pour l’application de la présente partie, est un produit informatique déterminé d’une personne ou d’une société de personnes tout bien amortissable d’une catégorie de l’annexe II qui est un logiciel ou un bien visé aux catégories 50 ou 52 si, selon le cas :
 	- **a)** la part de la personne ou de la société de personnes dans le bien constitue un abri fiscal déterminé au sens du paragraphe 143.2(1) de la Loi, déterminé compte non tenu du paragraphe (20.1);
 	- **b)** une participation dans la personne ou la société de personnes constitue un abri fiscal déterminé au sens du paragraphe 143.2(1) de la Loi, déterminé compte non tenu du paragraphe (20.1).
 
@@ -3558,7 +3556,7 @@ lorsque le propriétaire est :
 	- **b)** soit d’une personne avec laquelle le contribuable avait un lien de dépendance, sauf en vertu d’un droit visé à l’alinéa 251(5)b) de la Loi, au moment de l’acquisition du bien.
 
 - **(29)** Un bien acquis par un contribuable ou une société de personnes qui est un bien de remplacement, au sens du paragraphe 13(4) de la Loi, et qui serait par ailleurs un bien énergétique déterminé du contribuable ou de la société de personnes est réputé ne pas être un tel bien si l’ancien bien, visé aux alinéas 13(4)a) ou b) de la Loi, n’était pas, par application des paragraphes (27) ou (28) ou du présent paragraphe, un bien énergétique déterminé du contribuable ou de la société de personnes avant que l’un ou l’autre en dispose.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 1; DORS/78-377, art. 3 à 6; DORS/78-948, art. 1; DORS/79-427, art. 1; DORS/80-942, art. 1; DORS/81-470, art. 1; DORS/82-265, art. 1; DORS/83-340, art. 1; DORS/83-432, art. 1; DORS/84-454, art. 1; DORS/84-948, art. 5; DORS/85-13, art. 1; DORS/85-174, art. 1; DORS/86-254, art. 1; DORS/86-1092, art. 3(F) et 4(F); DORS/86-1136, art. 1; DORS/88-392, art. 1; DORS/89-27, art. 1; DORS/90-22, art. 1; DORS/90-257, art. 1; DORS/90-670, art. 1; DORS/91-196, art. 1; DORS/91-673, art. 1; DORS/92-681, art. 3; DORS/94-128, art. 1; DORS/94-140, art. 2; DORS/94-169, art. 1; DORS/94-170, art. 1; DORS/94-686, art. 9(F), 48, 58(F), 78(F), 79(F) et 81(F); DORS/95-244, art. 1; DORS/97-377, art. 1; DORS/99-179, art. 1; DORS/2000-248, art. 2; DORS/2005-126, art. 1; DORS/2005-371, art. 1; DORS/2005-414, art. 1; DORS/2006-117, art. 1; DORS/2007-19, art. 1; DORS/2009-115, art. 1.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 1; DORS/78-377, art. 3 à 6; DORS/78-948, art. 1; DORS/79-427, art. 1; DORS/80-942, art. 1; DORS/81-470, art. 1; DORS/82-265, art. 1; DORS/83-340, art. 1; DORS/83-432, art. 1; DORS/84-454, art. 1; DORS/84-948, art. 5; DORS/85-13, art. 1; DORS/85-174, art. 1; DORS/86-254, art. 1; DORS/86-1092, art. 3(F) et 4(F); DORS/86-1136, art. 1; DORS/88-392, art. 1; DORS/89-27, art. 1; DORS/90-22, art. 1; DORS/90-257, art. 1; DORS/90-670, art. 1; DORS/91-196, art. 1; DORS/91-673, art. 1; DORS/92-681, art. 3; DORS/94-128, art. 1; DORS/94-140, art. 2; DORS/94-169, art. 1; DORS/94-170, art. 1; DORS/94-686, art. 9(F), 48, 58(F), 78(F), 79(F) et 81(F); DORS/95-244, art. 1; DORS/97-377, art. 1; DORS/99-179, art. 1; DORS/2000-248, art. 2; DORS/2005-126, art. 1; DORS/2005-371, art. 1; DORS/2005-414, art. 1; DORS/2006-117, art. 1; DORS/2007-19, art. 1; DORS/2009-115, art. 1; DORS/2009-126, art. 1.
 
 
 
@@ -3863,7 +3861,7 @@ une catégorie distincte est prescrite pour les biens,
 #### Matériel lié aux pipelines de transport
 
 
-- **(5u)** Une catégorie distincte est prescrite pour un ou plusieurs biens d’un contribuable qui sont des biens compris dans la catégorie 7 de l’annexe II par l’effet de son alinéa j) et à l’égard desquels le contribuable a fait un choix pour que le présent paragraphe s’applique. Ce choix est fait dans une lettre jointe à la déclaration de revenu qu’il présente au ministre conformément à l’article 150 de la Loi pour l’année d’imposition au cours de laquelle le ou les biens ont été acquis.
+- **(5u)** Sont compris dans une catégorie distincte un ou plusieurs biens d’un contribuable qui sont des biens compris dans la catégorie 7 de l’annexe II par l’effet de ses alinéas j) ou k) et à l’égard desquels le contribuable a choisi de se prévaloir du présent paragraphe. Ce choix est fait dans une lettre jointe à la déclaration de revenu qu’il présente au ministre conformément à l’article 150 de la Loi pour l’année d’imposition dans laquelle le ou les biens ont été acquis.
 
 #### Pipelines de transport
 
@@ -3874,7 +3872,7 @@ une catégorie distincte est prescrite pour les biens,
 
 
 - **(6)** Dans la présente partie, un renvoi à une catégorie de l’annexe II comprend un renvoi aux catégories distinctes correspondantes qui sont prescrites par le présent article.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 2; DORS/79-426, art. 2; DORS/79-670, art. 1; DORS/80-618, art. 1; DORS/81-244, art. 1; DORS/82-265, art. 2; DORS/84-454, art. 2; DORS/84-948, art. 6; DORS/86-156, art. 1; DORS/88-392, art. 2; DORS/89-27, art. 2; DORS/90-22, art. 2; DORS/90-257, art. 2; DORS/91-196, art. 2; DORS/91-673, art. 2; DORS/94-140, art. 3; DORS/94-170, art. 2; DORS/94-686, art. 58(F),  78(F) et 79(F); DORS/98-97, art. 1; DORS/2000-248, art. 3; DORS/2005-126, art. 2; DORS/2005-371, art. 2; DORS/2005-414, art. 2; DORS/2006-117, art. 2; DORS/2009-115, art. 2 et 13.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 2; DORS/79-426, art. 2; DORS/79-670, art. 1; DORS/80-618, art. 1; DORS/81-244, art. 1; DORS/82-265, art. 2; DORS/84-454, art. 2; DORS/84-948, art. 6; DORS/86-156, art. 1; DORS/88-392, art. 2; DORS/89-27, art. 2; DORS/90-22, art. 2; DORS/90-257, art. 2; DORS/91-196, art. 2; DORS/91-673, art. 2; DORS/94-140, art. 3; DORS/94-170, art. 2; DORS/94-686, art. 58(F),  78(F) et 79(F); DORS/98-97, art. 1; DORS/2000-248, art. 3; DORS/2005-126, art. 2; DORS/2005-371, art. 2; DORS/2005-414, art. 2; DORS/2006-117, art. 2; DORS/2009-115, art. 2 et 13; DORS/2009-126, art. 2.
 
 
 
@@ -3929,7 +3927,7 @@ une catégorie distincte est prescrite pour les biens,
 #### Amélioration ou modification à des biens loués
 
 
-- **(4)** Sous réserve du paragraphe (5), «coût en capital» aux fins de l’alinéa 1100(1)b) comprend tout montant dépensé par un contribuable en vue d’apporter des améliorations ou des modifications à des biens loués.
+- **(4)** Sous réserve du paragraphe (5), « coût en capital » aux fins de l’alinéa 1100(1)b) comprend tout montant dépensé par un contribuable en vue d’apporter des améliorations ou des modifications à des biens loués.
 
 #### Bâtiments érigés sur des terrains loués
 
@@ -3983,7 +3981,7 @@ en prenant la période qui est postérieure à l’autre, les biens sont compris
 			- **(C)** qui sont des machines ou de l’équipement constituant une partie fixe et intégrante d’un bâtiment, d’une structure, d’une installation d’usine ou d’un autre bien dont la construction par le contribuable ou pour son compte était commencée le 18 juin 1987;
 	- **d)** dans la catégorie 41 de l’annexe II, dans les autres cas, sauf dans le cas où les biens seraient autrement compris dans les catégories 43.1 ou 43.2 de cette annexe et où le contribuable choisit de les inclure dans l’une de ces catégories dans une lettre annexée à la déclaration de revenu qu’il produit auprès du ministre en conformité avec l’article 150 de la Loi pour l’année d’imposition au cours de laquelle les biens ont été acquis.
 
-- **(9.1)** Dans leur application à du matériel et à des installations de production ou de distribution (y compris leurs structures) acquis par le contribuable avant le 8 novembre 1969, les paragraphes (8) et (9) doivent s’interpréter en faisant abstraction du mot «affinerie».
+- **(9.1)** Dans leur application à du matériel et à des installations de production ou de distribution (y compris leurs structures) acquis par le contribuable avant le 8 novembre 1969, les paragraphes (8) et (9) doivent s’interpréter en faisant abstraction du mot « affinerie ».
 
 - **(9.2)** Lorsqu’un contribuable acquiert des biens, après le 7 novembre 1969, d’une personne avec laquelle il avait un lien de dépendance et que ces biens sont désignés au paragraphe (8) ou (9), par dérogation à ces paragraphes, ces biens ne doivent pas être inclus, par le contribuable, dans la catégorie 10 de l’annexe II, à moins d’avoir été inclus dans cette catégorie par la personne de qui ces biens ont été acquis, en vertu desdits paragraphes tels qu’ils s’interprétaient lorsqu’ils étaient appliqués avant le 8 novembre 1969.
 
@@ -4001,7 +3999,7 @@ en prenant la période qui est postérieure à l’autre, les biens sont compris
 
 ***coût pour le contribuable*** d’une automobile signifie, sauf disposition des paragraphes (12) et (13),
 - **a)** sauf dans tout cas relevant de l’alinéa b) ou c), le coût en capital de l’automobile pour le contribuable,
-- **b)** sauf dans tout cas relevant de l’alinéa c), lorsque l’automobile a été acquise par une personne (dans le présent article appelée le «propriétaire initial») après le 13 juin 1963 et est dévolue au contribuable à la suite d’une ou plusieurs opérations entre personnes ne traitant pas entre elles à distance, le plus élevé
+- **b)** sauf dans tout cas relevant de l’alinéa c), lorsque l’automobile a été acquise par une personne (dans le présent article appelée le « propriétaire initial ») après le 13 juin 1963 et est dévolue au contribuable à la suite d’une ou plusieurs opérations entre personnes ne traitant pas entre elles à distance, le plus élevé
 	- **(i)** du coût réel pour le contribuable, ou
 	- **(ii)** du coût réel pour le propriétaire initial, et
 - **c)** lorsque l’automobile a été acquise par le contribuable à l’extérieur du Canada pour servir relativement à un établissement stable, telle que définie aux fins de la partie IV ou de la partie XXVI, à l’extérieur du Canada, le moindre
@@ -4023,7 +4021,7 @@ jusqu’au lieu d’affaires du négociant; (*initial transportation charges*)
 
 ***taxe de vente au détail*** à l’égard d’une automobile signifie l’ensemble des taxes municipales et provinciales de vente au détail frappant l’achat de l’automobile par le contribuable. (*retail sales tax*)
 
-- **(12)** Aux fins de l’alinéa (1)h), lorsqu’une automobile appartient à deux ou plusieurs personnes ou à des associés, la mention du «coût pour le contribuable» est censée être la mention de l’ensemble du coût, défini au paragraphe (11), à la charge de chacune desdits personnes ou associés.
+- **(12)** Aux fins de l’alinéa (1)h), lorsqu’une automobile appartient à deux ou plusieurs personnes ou à des associés, la mention du « coût pour le contribuable » est censée être la mention de l’ensemble du coût, défini au paragraphe (11), à la charge de chacune desdits personnes ou associés.
 
 - **(13)** Dans la détermination du coût pour un contribuable aux fins de l’alinéa (1)h), le paragraphe 13(7) de la Loi, ne s’applique pas, à moins que l’automobile n’ait été acquise par voie de donation.
 
@@ -4037,7 +4035,7 @@ jusqu’au lieu d’affaires du négociant; (*initial transportation charges*)
 	- **e)** [Abrogé, DORS/90-22, art. 3]
 les biens, immédiatement avant leur acquisition par le contribuable, étaient des biens d’une catégorie prescrite ou d’une catégorie prescrite distincte de la personne de qui ils ont été acquis, les biens sont réputés être des biens de la même catégorie prescrite ou de la même catégorie prescrite distincte, selon le cas, du contribuable.
 
-- **(14.1)** Pour l’application de la présente partie et de l’annexe II, lorsqu’un contribuable a acquis, après le 25 mai 1976, un bien d’une catégorie de l’annexe II (appelée «catégorie actuelle» au présent paragraphe) qui, avant le 26 mai 1976, lui avait appartenu ou appartenait à une personne avec laquelle il avait un lien de dépendance — sauf en vertu d’un droit visé à l’alinéa 251(5)b) de la Loi — à la date d’acquisition du bien, et, qu’à la date où le bien appartenait ainsi au contribuable ou à cette personne, le bien était un bien d’une autre catégorie de l’annexe II (appelée «ancienne catégorie» au présent paragraphe), le bien est réputé être un bien de l’ancienne catégorie et non de la catégorie actuelle.
+- **(14.1)** Pour l’application de la présente partie et de l’annexe II, lorsqu’un contribuable a acquis, après le 25 mai 1976, un bien d’une catégorie de l’annexe II (appelée « catégorie actuelle » au présent paragraphe) qui, avant le 26 mai 1976, lui avait appartenu ou appartenait à une personne avec laquelle il avait un lien de dépendance — sauf en vertu d’un droit visé à l’alinéa 251(5)b) de la Loi — à la date d’acquisition du bien, et, qu’à la date où le bien appartenait ainsi au contribuable ou à cette personne, le bien était un bien d’une autre catégorie de l’annexe II (appelée « ancienne catégorie » au présent paragraphe), le bien est réputé être un bien de l’ancienne catégorie et non de la catégorie actuelle.
 
 #### Coûts de lotissement
 
@@ -4079,7 +4077,7 @@ en prenant celui de ces deux exercices qui survient en dernier, les recettes que
 #### Choix visant le matériel de fabrication ou de transformation
 
 
-- **(16.1)** Le contribuable qui acquiert, après le 18 mars 2007 et avant 2009, un bien qui est une machine ou du matériel de fabrication ou de transformation peut choisir, dans une lettre à cet effet jointe à sa déclaration de revenu visant l’année d’imposition dans laquelle le bien est acquis, d’inclure le bien dans la catégorie 29 de l’annexe II dans le cas où le bien, à la fois :
+- **(16.1)** Le contribuable qui acquiert, après le 18 mars 2007 et avant 2012, un bien qui est une machine ou du matériel de fabrication ou de transformation peut choisir, dans une lettre à cet effet jointe à la déclaration de revenu qu’il présente au ministre conformément à l’article 150 de la Loi pour l’année d’imposition dans laquelle le bien est acquis, d’inclure le bien dans la catégorie 29 de l’annexe II dans le cas où le bien, à la fois :
 	- **a)** serait compris par ailleurs dans la catégorie 43.1 ou 43.2 de l’annexe II;
 	- **b)** serait compris dans la catégorie 29 de cette annexe en l’absence des catégories 43.1 et 43.2.
 
@@ -4098,11 +4096,17 @@ en prenant celui de ces deux exercices qui survient en dernier, les recettes que
 
 
 - **(19)** Aux fins de la présente Partie et de l’annexe II,
-	- **a)** lorsqu’un contribuable a acquis des biens d’une catégorie prévue à l’annexe II (ci-après appelée «catégorie réelle»),
+	- **a)** lorsqu’un contribuable a acquis des biens d’une catégorie prévue à l’annexe II (ci-après appelée « catégorie réelle »),
 	- **b)** qu’il acquiert des biens qui constituent un rajout ou une modification à des biens visés à l’alinéa a),
 	- **c)** que les biens qui sont un rajout ou une modification visés à l’alinéa b) auraient été des biens de la catégorie réelle s’ils avaient été acquis par lui en même temps que ceux visés à l’alinéa a), et
-	- **d)** que les biens visés à l’alinéa a), s’ils avaient été acquis par lui au moment où le rajout ou la modification a été apporté, auraient été des biens d’une catégorie prévue à l’annexe II (ci-après appelée «catégorie actuelle») différente de la catégorie réelle,
+	- **d)** que les biens visés à l’alinéa a), s’ils avaient été acquis par lui au moment où le rajout ou la modification a été apporté, auraient été des biens d’une catégorie prévue à l’annexe II (ci-après appelée « catégorie actuelle ») différente de la catégorie réelle,
 ce rajout ou cette modification sont réputés, à moins d’indication contraire dans la présente Partie ou à l’annexe II, être des biens de la catégorie actuelle acquis par le contribuable.
+
+- **(19.1)** Pour l’application de la présente partie et de l’annexe II, si le paragraphe (19.2) s’applique à la remise en état ou à la remise à neuf d’une locomotive de chemin de fer d’un contribuable, tout bien qu’il acquiert après le 25 février 2008 et qui est incorporé à la locomotive lors de la remise en état ou de la remise à neuf est réputé, sauf disposition contraire énoncée dans la présente partie ou à l’annexe II, être visé à l’alinéa y) de la catégorie 10 de l’annexe II.
+
+- **(19.2)** Le présent paragraphe s’applique à la remise en état ou à la remise à neuf de la locomotive de chemin de fer d’un contribuable qui, à la fois :
+	- **a)** est comprise dans une catégorie de l’annexe II autre que la catégorie 10;
+	- **b)** serait comprise dans la catégorie 10 de l’annexe II si elle n’avait pas été utilisée ni acquise en vue d’être utilisée par un contribuable avant le 26 février 2008.
 
 #### Absence réputée de lien de dépendance
 
@@ -4128,7 +4132,7 @@ ce rajout ou cette modification sont réputés, à moins d’indication contrair
 
 
 - **(25)** Pour l’application de la présente partie et de l’annexe II, si le bâtiment non résidentiel admissible d’un contribuable était en construction le 19 mars 2007, la partie de son coût en capital que le contribuable a engagée avant cette date est réputée avoir été engagée par lui le 19 mars 2007 sauf s’il choisit de soustraire ce coût à l’application du présent paragraphe dans une lettre à cet effet jointe à la déclaration de revenu qu’il présente au ministre conformément à l’article 150 de la Loi pour l’année d’imposition dans laquelle le bâtiment est acquis.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-377, art. 8; DORS/78-502, art. 1; DORS/78-949, art. 1; DORS/79-670, art. 2; DORS/83-340, art. 2; DORS/84-948, art. 7; DORS/86-1092, art. 5(F); DORS/88-392, art. 3; DORS/90-22, art. 3; DORS/94-140, art. 4; DORS/94-686, art. 10(F), 49(F), 58(F), 66(F), 78(F), 79(F) et 81(F); DORS/97-377, art. 2; DORS/99-179, art. 2; DORS/2000-327, art. 1; DORS/2006-117, art. 3; DORS/2009-115, art. 3 et 13.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-377, art. 8; DORS/78-502, art. 1; DORS/78-949, art. 1; DORS/79-670, art. 2; DORS/83-340, art. 2; DORS/84-948, art. 7; DORS/86-1092, art. 5(F); DORS/88-392, art. 3; DORS/90-22, art. 3; DORS/94-140, art. 4; DORS/94-686, art. 10(F), 49(F), 58(F), 66(F), 78(F), 79(F) et 81(F); DORS/97-377, art. 2; DORS/99-179, art. 2; DORS/2000-327, art. 1; DORS/2006-117, art. 3; DORS/2009-115, art. 3 et 13; DORS/2009-126, art. 3.
 
 
 
@@ -4296,7 +4300,7 @@ mais ne comprend pas
 - **b)** le matériel de réseau radioélectrique qui sert de soutien à des applications de télécommunications sans fil, sauf s’il permet la transmission numérique sur une bande d’ondes;
 - **c)** le matériel de réseau unidirectionnel qui sert de soutien à des applications de télécommunications de diffusion;
 - **d)** le matériel de réseau qui consiste en matériel d’utilisateur final, y compris les appareils téléphoniques, les assistants numériques personnels et les télécopieurs;
-- **e)** le matériel visé aux alinéas f.2) ou v) de la catégorie 10 de l’annexe II ou compris dans les catégories 45 ou 50 de cette annexe;
+- **e)** le matériel visé aux alinéas f.2) ou v) de la catégorie 10 de l’annexe II ou compris dans l’une des catégories 45, 50 et 52 de cette annexe;
 - **f)** les fils, câbles et biens semblables;
 - **g)** les constructions. (*data network infrastructure equipment*)
 
@@ -4557,7 +4561,7 @@ et un certificat annulé est nul et non avenu depuis la date de sa délivrance.
 	- **d)** au moment où le système du contribuable est devenu opérationnel pour la première fois, le contribuable ne pouvait vraisemblablement pas prévoir que le défaut, la défectuosité ou l’arrêt de fonctionnement du bien se produirait dans les cinq ans suivant ce moment.
 
 - **(16)** Pour l’application du paragraphe (14), un réseau énergétique de quartier est réputé remplir les exigences énoncées à l’alinéa c) de la catégorie 43.1 de l’annexe II ou à l’alinéa a) de la catégorie 43.2 de cette annexe si le matériel de cogénération électrique qui produit l’énergie thermique utilisée par le réseau est réputé, selon le paragraphe (14), remplir les exigences énoncées à l’alinéa c) de la catégorie 43.1 de l’annexe II ou à l’alinéa a) de la catégorie 43.2 de cette annexe.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 3; DORS/78-502, art. 2; DORS/78-948, art. 2 et 3; DORS/79-426, art. 3; DORS/79-670, art. 3; DORS/80-418, art. 1; DORS/80-618, art. 2(F); DORS/80-926, art. 1; DORS/80-935, art. 1; DORS/80-942, art. 2; DORS/81-974, art. 1; DORS/81-1026, art. 1; DORS/82-265, art. 4; DORS/83-855, art. 1; DORS/84-265, art. 1; DORS/85-174, art. 2; DORS/86-254, art. 2; DORS/86-1092, art. 6(F); DORS/89-27, art. 3; DORS/90-22, art. 5; DORS/91-79, art. 1; DORS/94-169, art. 2; DORS/94-686, art. 11(F), 62 et 81(F); DORS/95-244, art. 2; DORS/96-200, art. 1; DORS/96-451, art. 1; DORS/97-377, art. 4; DORS/98-97, art. 2; DORS/99-179, art. 3; DORS/2000-327, art. 2; DORS/2001-295, art. 2(A); DORS/2005-371, art. 4; DORS/2005-414, art. 3; DORS/2005-415, art. 1; DORS/2006-117, art. 4; DORS/2006-249, art. 1; DORS/2007-19, art. 2; DORS/2009-115, art. 4.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-137, art. 3; DORS/78-502, art. 2; DORS/78-948, art. 2 et 3; DORS/79-426, art. 3; DORS/79-670, art. 3; DORS/80-418, art. 1; DORS/80-618, art. 2(F); DORS/80-926, art. 1; DORS/80-935, art. 1; DORS/80-942, art. 2; DORS/81-974, art. 1; DORS/81-1026, art. 1; DORS/82-265, art. 4; DORS/83-855, art. 1; DORS/84-265, art. 1; DORS/85-174, art. 2; DORS/86-254, art. 2; DORS/86-1092, art. 6(F); DORS/89-27, art. 3; DORS/90-22, art. 5; DORS/91-79, art. 1; DORS/94-169, art. 2; DORS/94-686, art. 11(F), 62 et 81(F); DORS/95-244, art. 2; DORS/96-200, art. 1; DORS/96-451, art. 1; DORS/97-377, art. 4; DORS/98-97, art. 2; DORS/99-179, art. 3; DORS/2000-327, art. 2; DORS/2001-295, art. 2(A); DORS/2005-371, art. 4; DORS/2005-414, art. 3; DORS/2005-415, art. 1; DORS/2006-117, art. 4; DORS/2006-249, art. 1; DORS/2007-19, art. 2; DORS/2009-115, art. 4; DORS/2009-126, art. 4.
 
 
 
@@ -18338,14 +18342,14 @@ l’installation de la semelle de l’édifice ou d’un autre genre d’appui e
 
 
 
-**j)** une locomotive de chemin de fer acquise après le 25 mai 1976, mais non une voiture de chemin de fer automobile; ou
+**j)** une locomotive de chemin de fer qui est acquise après le 25 mai 1976 et avant le 26 février 2008 et qui n’est pas une voiture de chemin de fer automobile;
 
 
 
 **k)** un rajout ou une modification fait après 1978 à un édifice compris dans la présente catégorie selon le sous-alinéa a)(viii), pourvu que le coût total de ces rajouts ou modifications ne dépasse pas 100 000 $.
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/78-949, art. 3; DORS/94-140, art. 18..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/78-949, art. 3; DORS/94-140, art. 18; DORS/2009-126, art. 5..
 
 
 
@@ -18403,7 +18407,7 @@ Les biens constitués par
 
 
 
-**i)** un bien acquis après le 27 février 2000 qui est une locomotive, mais non une voiture de chemin de fer automobile;
+**i)** un bien acquis après le 27 février 2000 (sauf un bien visé à l’alinéa y) de la catégorie 10) qui est une locomotive de chemin de fer, mais non une voiture de chemin de fer automobile;
 
 
 
@@ -18417,12 +18421,16 @@ Les biens constitués par
 
 
 
-**(iii)** soit jusqu’à un pipeline de transport à partir d’une installation de stockage.
+**(iii)** soit jusqu’à un pipeline de transport à partir d’une installation de stockage;
 
 
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/90-22, art. 13; DORS/2005-371, art. 8; DORS/2006-117, art. 9..
+
+**k)** le matériel de pompage ou de compression acquis après le 25 février 2008, y compris ses appareils auxiliaires, qui fait partie d’un pipeline et qui sert à pomper ou à comprimer le dioxyde de carbone en vue de son transport au moyen du pipeline.
+
+
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/90-22, art. 13; DORS/2005-371, art. 8; DORS/2006-117, art. 9; DORS/2009-126, art. 6..
 
 
 
@@ -18916,10 +18924,14 @@ autres que les biens compris dans une catégorie distincte prescrite par le para
 
 
 
-**x)** une production cinématographique ou magnétoscopique canadienne.
+**x)** une production cinématographique ou magnétoscopique canadienne;
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/78-137, art. 6; DORS/79-426, art. 4; DORS/80-99, art. 1 et 2; DORS/80-926, art. 4; DORS/81-974, art. 14; DORS/86-1136, art. 13; DORS/89-27, art. 4; DORS/90-22, art. 15; DORS/94-140, art. 20; DORS/94-169, art. 9; DORS/2005-126, art. 6; DORS/2005-414, art. 5..
+
+**y)** une locomotive de chemin de fer qui n’est pas une voiture de chemin de fer automobile et qui n’a pas été utilisée ni acquise en vue d’être utilisée par un contribuable avant le 26 février 2008.
+
+
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/78-137, art. 6; DORS/79-426, art. 4; DORS/80-99, art. 1 et 2; DORS/80-926, art. 4; DORS/81-974, art. 14; DORS/86-1136, art. 13; DORS/89-27, art. 4; DORS/90-22, art. 15; DORS/94-140, art. 20; DORS/94-169, art. 9; DORS/2005-126, art. 6; DORS/2005-414, art. 5; DORS/2009-126, art. 7..
 
 
 
@@ -19958,7 +19970,15 @@ ou groupe une ou plusieurs des activités qui précèdent, à moins que l’util
 
 
 
-**(v)** les biens décrits à l’alinéa b) ou f) de la catégorie 10;
+**(v)** les biens visés aux alinéas b) ou f) de la catégorie 10,
+
+
+
+**(vi)** les biens qui seraient visés à l’alinéa f) de la catégorie 10 si le passage de cet alinéa précédant le sous-alinéa (i) avait le libellé suivant :
+
+**“f)** du matériel électronique universel de traitement de l’information et les logiciels de systèmes connexes, y compris le matériel auxiliaire de traitement de l’information, acquis après le 18 mars 2007 et avant le 28 janvier 2009, mais à l’exclusion des biens qui se composent principalement ou servent principalement :”
+
+
 
 
 
@@ -19986,20 +20006,20 @@ ou groupe une ou plusieurs des activités qui précèdent, à moins que l’util
 
 
 
-**(iii)** soit après le 18 mars 2007 et avant 2009 qui sont des machines, ou du matériel, qui remplissent les conditions suivantes :
+**(iii)** soit après le 18 mars 2007 et avant 2012 qui sont des machines, ou du matériel, qui rencontrent les conditions suivantes :
 
 **(A)** ils seraient visés à l’alinéa a) en l’absence du passage « de ses activités de traitement préliminaire au Canada ou » au sous-alinéa a)(ii),
 
 
 
-**(B)** ils sont visés à l’un des sous-alinéas b)(i) à (iii).
+**(B)** ils sont visés à l’un des sous-alinéas b)(i) à (iii) et (vi).
 
 
 
 
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/90-22, art. 19; DORS/94-686, art. 46(F) et 66(F); DORS/99-179, art. 14; DORS/2009-115, art. 5..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/90-22, art. 19; DORS/94-686, art. 46(F) et 66(F); DORS/99-179, art. 14; DORS/2009-115, art. 5; DORS/2009-126, art. 8..
 
 
 
@@ -21105,31 +21125,47 @@ Les biens acquis après le 22 février 2005 qui constituent des turbines de comb
 
 **CATÉGORIE 49** 
 
-Les biens acquis après le 22 février 2005 qui constituent un pipeline, y compris les compteurs, jauges, valves et autres dispositifs de contrôle et de surveillance et les autres appareils auxiliaires du pipeline, servant au transport (mais non à la distribution) de pétrole, de gaz naturel ou d’hydrocarbures connexes, à l’exclusion :
+Les biens qui constituent un pipeline, y compris les appareils de contrôle et de surveillance, les valves et les autres appareils auxiliaires du pipeline qui, selon le cas :
 
-**a)** d’un pipeline visé au sous-alinéa l)(ii) de la catégorie 1;
+**a)** sont acquis après le 22 février 2005 et servent au transport (mais non à la distribution) de pétrole, de gaz naturel ou d’hydrocarbures connexes, à l’exclusion :
 
-
-
-**b)** d’un bien qui a été utilisé ou acquis pour être utilisé à une fin quelconque par un contribuable avant le 23 février 2005;
+**(i)** d’un pipeline visé au sous-alinéa l)(ii) de la catégorie 1,
 
 
 
-**c)** du matériel compris dans la catégorie 7 par l’effet de son alinéa j);
+**(ii)** d’un bien qui a été utilisé ou acquis en vue d’être utilisé par un contribuable avant le 23 février 2005,
 
 
 
-**d)** d’un bâtiment ou d’une autre construction.
+**(iii)** du matériel compris dans la catégorie 7 par l’effet de son alinéa j),
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/2006-117, art. 14..
+
+**(iv)** d’un bâtiment ou d’une autre construction;
+
+
+
+
+
+**b)** sont acquis après le 25 février 2008 et servent au transport de dioxyde de carbone, à l’exclusion :
+
+**(i)** du matériel compris dans la catégorie 7 par l’effet de son alinéa k),
+
+
+
+**(ii)** d’un bâtiment ou d’une autre construction.
+
+
+
+
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/2006-117, art. 14; DORS/2009-126, art. 9..
 
 
 
 
 **CATÉGORIE 50** 
 
-Les biens acquis après le 18 mars 2007 qui sont constitués par du matériel électronique universel de traitement de l’information et des logiciels de systèmes connexes, y compris le matériel auxiliaire de traitement de l’information, mais à l’exclusion des biens qui se composent principalement ou servent principalement :
+Les biens acquis après le 18 mars 2007 qui sont constitués par du matériel électronique universel de traitement de l’information et des logiciels de systèmes connexes, y compris le matériel auxiliaire de traitement de l’information, mais à l’exclusion des biens qui sont compris dans la catégorie 52 ou qui se composent principalement ou servent principalement :
 
 **a)** d’équipement de contrôle ou de surveillance du processus électronique;
 
@@ -21146,7 +21182,7 @@ Les biens acquis après le 18 mars 2007 qui sont constitués par du matériel é
 **d)** de matériel de traitement de l’information, à moins qu’il ne s’ajoute au matériel électronique universel de traitement de l’information.
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/2009-115, art. 11..
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/2009-115, art. 11; DORS/2009-126, art. 10..
 
 
 
@@ -21166,7 +21202,55 @@ Les biens acquis après le 18 mars 2007 qui sont constitués par des pipelines, 
 **c)** les bâtiments et autres constructions.
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2009-115, art. 11.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] DORS/2009-115, art. 11..
+
+
+
+
+**CATÉGORIE 52** 
+
+Les biens acquis par un contribuable après le 27 janvier 2009 et avant février 2010 qui, à la fois :
+
+**a)** sont constitués par du matériel électronique universel de traitement de l’information et des logiciels de systèmes connexes, y compris le matériel auxiliaire de traitement de l’information, mais à l’exclusion des biens qui se composent principalement ou servent principalement :
+
+**(i)** d’équipement de contrôle ou de surveillance du processus électronique,
+
+
+
+**(ii)** d’équipement de contrôle des communications électroniques,
+
+
+
+**(iii)** de logiciels de systèmes pour un bien visé aux sous-alinéas (i) ou (ii),
+
+
+
+**(iv)** de matériel de traitement de l’information (sauf s’il s’ajoute à du matériel électronique universel de traitement de l’information);
+
+
+
+
+
+**b)** sont situés au Canada;
+
+
+
+**c)** n’ont pas été utilisés, ni acquis en vue d’être utilisés, à quelque fin que ce soit avant d’être acquis par le contribuable;
+
+
+
+**d)** sont acquis par le contribuable :
+
+**(i)** soit pour être utilisés dans le cadre d’une entreprise qu’il exploite au Canada ou pour tirer un revenu d’un bien situé au Canada,
+
+
+
+**(ii)** soit pour être loués par lui à un locataire, lequel les utilise dans le cadre d’une entreprise qu’il exploite au Canada ou pour tirer un revenu d’un bien situé au Canada.
+
+
+
+
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2009-126, art. 11.
 
 
 
