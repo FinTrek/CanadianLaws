@@ -2904,8 +2904,9 @@ in respect of which the election is made;
 		- **(xxxiii)** of Class 47, 8 per cent,
 		- **(xxxiv)** of Class 48, 15 per cent,
 		- **(xxxv)** of Class 49, 8 per cent,
-		- **(xxxvi)** of Class 50, 55 per cent, and
-		- **(xxxvii)** of Class 51, 6 per cent,
+		- **(xxxvi)** of Class 50, 55 per cent,
+		- **(xxxvii)** of Class 51, 6 per cent, and
+		- **(xxxviii)** of Class 52, 100 per cent,
 of the undepreciated capital cost to the taxpayer as of the end of the taxation year (before making any deduction under this subsection for the taxation year) of property of the class;
 
 #### Class 1
@@ -3207,7 +3208,7 @@ but, for greater certainty, does not include intangible property (including syst
 - **(1.13)** For the purposes of this section,
 	- **(a)** ***exempt property*** means
 		- **(i)** general purpose office furniture or office equipment included in Class 8 in Schedule II (including, for greater certainty, mobile office equipment such as cellular telephones and pagers) or general purpose electronic data processing equipment and ancillary data processing equipment, included in paragraph (f) of Class 10 in Schedule II, other than any individual piece thereof having a capital cost to the taxpayer in excess of $1,000,000,
-		- **(i.1)** general-purpose electronic data processing equipment and ancillary data processing equipment, included in Class 45 or 50 in Schedule II, other than any individual item of that type of equipment having a capital cost to the taxpayer in excess of $1,000,000,
+		- **(i.1)** general-purpose electronic data processing equipment and ancillary data processing equipment, included in Class 45, 50 or 52 in Schedule II, other than any individual item of that type of equipment having a capital cost to the taxpayer in excess of $1,000,000,
 		- **(ii)** furniture, appliances, television receivers, radio receivers, telephones, furnaces, hot-water heaters and other similar properties, designed for residential use,
 		- **(iii)** a property that is a motor vehicle that is designed or adapted primarily to carry individuals on highways and streets and that has a seating capacity for not more than the driver and eight passengers, or a motor vehicle of a type commonly called a van or pick-up truck, or a similar vehicle,
 		- **(iv)** a truck or tractor that is designed for hauling freight on highways,
@@ -3261,22 +3262,20 @@ the following rules apply:
 #### Property Acquired in the Year
 
 
-- **(2)** Where at the end of a taxation year of a taxpayer
-	- **(a)** the aggregate of all amounts, each of which is an amount added
-		- **(i)** by reason of subparagraph 13(21)(f)(i) of the Act in respect of a property acquired in the year or that became available for use by the taxpayer in the year, or
-		- **(ii)** by reason of subparagraph 13(21)(f)(ii.1) or (ii.2) of the Act in respect of an amount repaid in the year
+- **(2)** The amount that a taxpayer may deduct for a taxation year under subsection (1) in respect of property of a class in Schedule II is to be determined as if the undepreciated capital cost to the taxpayer at the end of the taxation year (before making any deduction under subsection (1) for the taxation year) of property of the class were reduced by an amount equal to 50 per cent of the amount, if any, by which
+	- **(a)** the total of all amounts, each of which is an amount added
+		- **(i)** because of element A in the definition ***undepreciated capital cost*** in subsection 13(21) of the Act in respect of property that was acquired in the year or that became available for use by the taxpayer in the year, or
+		- **(ii)** because of element C or D in the definition ***undepreciated capital cost*** in subsection 13(21) of the Act in respect of an amount that was repaid in the year,
 to the undepreciated capital cost to the taxpayer of property of a class in Schedule II, other than
-		- **(iii)** property included in paragraph (1)(v), paragraph (w) of Class 10 or any of paragraphs (a) to (c), (e) to (i), (k), (l) and (p) to (s) of Class 12,
-		- **(iv)** property included in any of Classes 13, 14, 15, 23, 24, 27, 29 and 34,
+		- **(iii)** property included in paragraph (1)(v), in paragraph (w) of Class 10 or in any of paragraphs (a) to (c), (e) to (i), (k), (l) and (p) to (s) of Class 12,
+		- **(iv)** property included in any of Classes 13, 14, 15, 23, 24, 27, 29, 34 and 52,
 		- **(v)** where the taxpayer was a corporation described in subsection (16) throughout the year, property that was specified leasing property of the taxpayer at that time,
 		- **(vi)** property that was deemed to have been acquired by the taxpayer in a preceding taxation year by reason of the application of paragraph 16.1(1)(b) of the Act in respect of a lease to which the property was subject immediately before the time at which the taxpayer last acquired the property, and
 		- **(vii)** property considered to have become available for use by the taxpayer in the year by reason of paragraph 13(27)(b) or (28)(c) of the Act
 exceeds
-	- **(b)** the aggregate of all amounts, each of which is an amount deducted
-		- **(i)** by virtue of subparagraph 13(21)(f)(iv) or (v) of the Act in respect of property disposed of in the year, or
-		- **(ii)** by virtue of subparagraph 13(21)(f)(viii) of the Act in respect of an amount the taxpayer received or was entitled to receive in the year
-from the undepreciated capital cost to him of property of the class,
-the amount that the taxpayer may deduct for the year under subsection (1) in respect of property of the class shall be determined as if the undepreciated capital cost to him as of the end of the year (before making any deduction under subsection (1) for the year) of property of the class were reduced by an amount equal to 50 per cent of the amount by which the aggregate determined under paragraph (a) exceeds the aggregate determined under paragraph (b).
+	- **(b)** the total of all amounts, each of which is an amount deducted from the undepreciated capital cost to the taxpayer of property of the class
+		- **(i)** because of element F or G in the definition ***undepreciated capital cost*** in subsection 13(21) of the Act in respect of property disposed of in the year, or
+		- **(ii)** because of element J in the definition ***undepreciated capital cost*** in subsection 13(21) of the Act in respect of an amount the taxpayer received or was entitled to receive in the year.
 
 - **(2.1)** Where a taxpayer has, after November 12, 1981 and before 1983, acquired or incurred a capital cost in respect of a property of a class in Schedule II and
 	- **(a)** he was obligated to acquire the property under the terms of an agreement in writing entered into before November 13, 1981 (or, where the property is a property described in Class 31 in Schedule II, before 1982),
@@ -3474,7 +3473,7 @@ exceeds
 		- **(i)** a loss of the taxpayer from a business in which computer tax shelter property owned by the taxpayer is used, computed without reference to any deduction under subsection (1) in respect of such property, or
 		- **(ii)** a loss of a partnership from a business in which computer tax shelter property of the partnership is used, to the extent of the share of such loss that is included in computing the taxpayer’s income for the year.
 
-- **(20.2)** For the purpose of this Part, computer tax shelter property is computer software, and property described in Class 50 in Schedule II, that is depreciable property of a prescribed class of a person or partnership where
+- **(20.2)** For the purpose of this Part, computer tax shelter property of a person or partnership is depreciable property of a prescribed class in Schedule II that is computer software or property described in Class 50 or 52 where
 	- **(a)** the person’s or partnership’s interest in the property is a tax shelter investment (as defined by subsection 143.2(1) of the Act) determined without reference to subsection (20.1); or
 	- **(b)** an interest in the person or partnership is a tax shelter investment (as defined by subsection 143.2(1) of the Act) determined without reference to subsection (20.1).
 
@@ -3572,7 +3571,7 @@ where the owner was
 that would otherwise be specified energy property of the taxpayer shall be deemed not to be specified energy property of the taxpayer if, immediately before it was so acquired by the taxpayer, it was not, by virtue of subsection (27), this subsection or subsection (29), specified energy property of the person from whom the property was so acquired.
 
 - **(29)** A property acquired by a taxpayer or partnership that is a replacement property (within the meaning assigned by subsection 13(4) of the Act), that would otherwise be specified energy property of the taxpayer or partnership, shall be deemed not to be specified energy property of the taxpayer or partnership if the property replaced, referred to in paragraph 13(4)(a) or (b) of the Act, was, by virtue of subsection (27), (28) or this subsection, not specified energy property of the taxpayer or partnership immediately before it was disposed of by the taxpayer or partnership.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 1; SOR/78-377, ss. 3 to 6; SOR/78-948, s. 1; SOR/79-427, s. 1; SOR/80-942, s. 1; SOR/81-470, s. 1; SOR/82-265, s. 1; SOR/83-340, s. 1; SOR/83-432, s. 1; SOR/84-454, s. 1; SOR/84-948, s. 5; SOR/85-13, s. 1; SOR/85-174, s. 1; SOR/86-254, s. 1; SOR/86-1092, ss. 3(F), 4(F); SOR/86-1136, s. 1; SOR/88-392, s. 1; SOR/89-27, s. 1; SOR/90-22, s. 1; SOR/90-257, s. 1; SOR/90-670, s. 1; SOR/91-196, s. 1; SOR/91-673, s. 1; SOR/92-681, s. 3; SOR/94-128, s. 1; SOR/94-140, s. 2; SOR/94-169, s. 1; SOR/94-170, s. 1; SOR/94-686, ss. 9(F), 48, 58(F), 78(F), 79(F), 81(F); SOR/95-244, s. 1; SOR/97-377, s. 1; SOR/99-179, s. 1; SOR/2000-248, s. 2; SOR/2005-126, s. 1; SOR/2005-371, s. 1; SOR/2005-414, s. 1; SOR/2006-117, s. 1; SOR/2007-19, s. 1; SOR/2009-115, s. 1.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 1; SOR/78-377, ss. 3 to 6; SOR/78-948, s. 1; SOR/79-427, s. 1; SOR/80-942, s. 1; SOR/81-470, s. 1; SOR/82-265, s. 1; SOR/83-340, s. 1; SOR/83-432, s. 1; SOR/84-454, s. 1; SOR/84-948, s. 5; SOR/85-13, s. 1; SOR/85-174, s. 1; SOR/86-254, s. 1; SOR/86-1092, ss. 3(F), 4(F); SOR/86-1136, s. 1; SOR/88-392, s. 1; SOR/89-27, s. 1; SOR/90-22, s. 1; SOR/90-257, s. 1; SOR/90-670, s. 1; SOR/91-196, s. 1; SOR/91-673, s. 1; SOR/92-681, s. 3; SOR/94-128, s. 1; SOR/94-140, s. 2; SOR/94-169, s. 1; SOR/94-170, s. 1; SOR/94-686, ss. 9(F), 48, 58(F), 78(F), 79(F), 81(F); SOR/95-244, s. 1; SOR/97-377, s. 1; SOR/99-179, s. 1; SOR/2000-248, s. 2; SOR/2005-126, s. 1; SOR/2005-371, s. 1; SOR/2005-414, s. 1; SOR/2006-117, s. 1; SOR/2007-19, s. 1; SOR/2009-115, s. 1; SOR/2009-126, s. 1.
 
 
 
@@ -3877,7 +3876,7 @@ for properties that are described in paragraph (b) and that would otherwise be i
 #### Equipment Related to Transmission Pipelines
 
 
-- **(5u)** A separate class is prescribed for one or more properties of a taxpayer that is property included in Class 7 in Schedule II because of paragraph (j) of that Class if the taxpayer has (by letter attached to the taxpayer’s return of income filed with the Minister in accordance with section 150 of the Act for the taxation year in which the property or properties were acquired) elected that this subsection apply to the property or properties.
+- **(5u)** A separate class is prescribed for one or more properties of a taxpayer that is property included in Class 7 in Schedule II because of paragraph (j) or (k) of that Class if the taxpayer has (by letter attached to the taxpayer’s return of income filed with the Minister in accordance with section 150 of the Act for the taxation year in which the property or properties were acquired) elected that this subsection apply to the property or properties.
 
 #### Transmission Pipelines
 
@@ -3888,7 +3887,7 @@ for properties that are described in paragraph (b) and that would otherwise be i
 
 
 - **(6)** A reference in this Part to a class in Schedule II includes a reference to the corresponding separate classes prescribed by this section.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 2; SOR/79-426, s. 2; SOR/79-670, s. 1; SOR/80-618, s. 1; SOR/81-244, s. 1; SOR/82-265, s. 2; SOR/84-454, s. 2; SOR/84-948, s. 6; SOR/86-156, s. 1; SOR/88-392, s. 2; SOR/89-27, s. 2; SOR/90-22, s. 2; SOR/90-257, s. 2; SOR/91-196, s. 2; SOR/91-673, s. 2; SOR/94-140, s. 3; SOR/94-170, s. 2; SOR/94-686, ss. 58(F), 78(F), 79(F); SOR/98-97, s. 1; SOR/2000-248, s. 3; SOR/2005-126, s. 2; SOR/2005-371, s. 2; SOR/2005-414, s. 2; SOR/2006-117, s. 2; SOR/2009-115, ss. 2, 13.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 2; SOR/79-426, s. 2; SOR/79-670, s. 1; SOR/80-618, s. 1; SOR/81-244, s. 1; SOR/82-265, s. 2; SOR/84-454, s. 2; SOR/84-948, s. 6; SOR/86-156, s. 1; SOR/88-392, s. 2; SOR/89-27, s. 2; SOR/90-22, s. 2; SOR/90-257, s. 2; SOR/91-196, s. 2; SOR/91-673, s. 2; SOR/94-140, s. 3; SOR/94-170, s. 2; SOR/94-686, ss. 58(F), 78(F), 79(F); SOR/98-97, s. 1; SOR/2000-248, s. 3; SOR/2005-126, s. 2; SOR/2005-371, s. 2; SOR/2005-414, s. 2; SOR/2006-117, s. 2; SOR/2009-115, ss. 2, 13; SOR/2009-126, s. 2.
 
 
 
@@ -4093,7 +4092,7 @@ was not less than 2/3 of the revenue of the business for the period.
 #### Election for Certain Manufacturing or Processing Equipments
 
 
-- **(16.1)** A taxpayer that acquires a property after March 18, 2007 and before 2009 that is manufacturing or processing machinery or equipment may (by letter attached to the return of income for the taxation year in which the property is acquired) elect to include the property in Class 29 in Schedule II if
+- **(16.1)** A taxpayer who acquires a property after March 18, 2007 and before 2012 that is manufacturing or processing machinery or equipment may (by letter attached to the return of income of the taxpayer filed with the Minister in accordance with section 150 of the Act for the taxation year in which the property is acquired) elect to include the property in Class 29 in Schedule II if
 	- **(a)** Class 43.1 or 43.2 in Schedule II would otherwise apply to the property; and
 	- **(b)** Class 29 in Schedule II would apply to the property if that schedule were read without reference to Classes 43.1 and 43.2.
 
@@ -4117,6 +4116,12 @@ was not less than 2/3 of the revenue of the business for the period.
 	- **(c)** the property that is the addition or alteration referred to in paragraph (b) would have been property of the actual class if it had been acquired by the taxpayer at the time he acquired the property referred to in paragraph (a), and
 	- **(d)** the property referred to in paragraph (a) would have been property of a class in Schedule II (in this subsection referred to as the “present class”) that is different from the actual class if it had been acquired by the taxpayer at the time he acquired the addition or alteration referred to in paragraph (b),
 the addition or alteration referred to in paragraph (b) shall, except as otherwise provided in this Part or in Schedule II, be deemed to be an acquisition by the taxpayer of property of the present class.
+
+- **(19.1)** For the purposes of this Part and Schedule II, if subsection (19.2) applies to the refurbishment or reconditioning of a railway locomotive of a taxpayer, any property acquired by the taxpayer after February 25, 2008 that is incorporated into the locomotive in the course of the refurbishment or reconditioning is, except as otherwise provided in this Part or in Schedule II, deemed to be included in paragraph (y) of Class 10 in Schedule II.
+
+- **(19.2)** This subsection applies to the refurbishment or reconditioning of a railway locomotive, of a taxpayer, that
+	- **(a)** is included in a class in Schedule II other than Class 10; and
+	- **(b)** would be included in Class 10 in Schedule II if it had not been used or acquired for use for any purpose by any taxpayer before February 26, 2008.
 
 #### Non-arm’s Length Exception
 
@@ -4142,7 +4147,7 @@ the addition or alteration referred to in paragraph (b) shall, except as otherwi
 
 
 - **(25)** For the purposes of this Part and Schedule II, if an eligible non-residential building of a taxpayer was under construction on March 19, 2007, the portion, if any, of the capital cost of the building that was incurred by the taxpayer before March 19, 2007 is deemed to have been incurred by the taxpayer on March 19, 2007 unless the taxpayer elects (by letter attached to the taxpayer’s return of income filed with the Minister in accordance with section 150 of the Act for the taxation year in which the building was acquired) that this subsection not apply to that cost.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-377, s. 8; SOR/78-502, s. 1; SOR/78-949, s. 1; SOR/79-670, s. 2; SOR/83-340, s. 2; SOR/84-948, s. 7; SOR/86-1092, s. 5(F); SOR/88-392, s. 3; SOR/90-22, s. 3; SOR/94-140, s. 4; SOR/94-686, ss. 10(F), 49(F), 58(F), 66(F), 78(F), 79(F), 81(F); SOR/97-377, s. 2; SOR/99-179, s. 2; SOR/2000-327, s. 1; SOR/2006-117, s. 3; SOR/2009-115, ss. 3, 13.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-377, s. 8; SOR/78-502, s. 1; SOR/78-949, s. 1; SOR/79-670, s. 2; SOR/83-340, s. 2; SOR/84-948, s. 7; SOR/86-1092, s. 5(F); SOR/88-392, s. 3; SOR/90-22, s. 3; SOR/94-140, s. 4; SOR/94-686, ss. 10(F), 49(F), 58(F), 66(F), 78(F), 79(F), 81(F); SOR/97-377, s. 2; SOR/99-179, s. 2; SOR/2000-327, s. 1; SOR/2006-117, s. 3; SOR/2009-115, ss. 3, 13; SOR/2009-126, s. 3.
 
 
 
@@ -4314,7 +4319,7 @@ and, for the purposes of the application of this definition,
 - **(b)** radio network equipment that operates in support of wireless telecommunications applications unless the equipment supports digital transmission on a radio channel,
 - **(c)** network equipment that operates in support of broadcast telecommunications applications and that is unidirectional,
 - **(d)** network equipment that is end-user equipment, including telephone sets, personal digital assistants and facsimile transmission devices,
-- **(e)** equipment that is described in paragraph (f.2) or (v) of Class 10 or in Class 45 or 50, in Schedule II,
+- **(e)** equipment that is described in paragraph (f.2) or (v) of Class 10, or in any of Classes 45, 50 and 52, in Schedule II,
 - **(f)** wires or cables, or similar property, and
 - **(g)** structures; (*matériel d’infrastructure pour réseaux de données*)
 
@@ -4571,7 +4576,7 @@ and a certificate that has been so revoked shall be void from the time of its is
 	- **(d)** at the time that the taxpayer’s system first became operational, the deficiency, failing or shutdown in the operation of the property could not reasonably have been anticipated by the taxpayer to occur within five years after that time.
 
 - **(16)** For the purpose of subsection (14), a district energy system is deemed to satisfy the requirements of paragraph (c) of Class 43.1, or paragraph (a) of Class 43.2, in Schedule II, as the case may be, if the electrical cogeneration equipment that produces the thermal energy used by the system is deemed by subsection (14) to meet the requirements of paragraph (c) of Class 43.1, or paragraph (a) of Class 43.2, in Schedule II, as the case may be.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 3; SOR/78-502, s. 2; SOR/78-948, ss. 2, 3; SOR/79-426, s. 3; SOR/79-670, s. 3; SOR/80-418, s. 1; SOR/80-618, s. 2(F); SOR/80-926, s. 1; SOR/80-935, s. 1; SOR/80-942, s. 2; SOR/81-974, s. 1; SOR/81-1026, s. 1; SOR/82-265, s. 4; SOR/83-855, s. 1; SOR/84-265, s. 1; SOR/85-174, s. 2; SOR/86-254, s. 2; SOR/86-1092, s. 6(F); SOR/89-27, s. 3; SOR/90-22, s. 5; SOR/91-79, s. 1; SOR/94-169, s. 2; SOR/94-686, ss. 11(F), 62, 81(F); SOR/95-244, s. 2; SOR/96-200, s. 1; SOR/96-451, s. 1; SOR/97-377, s. 4; SOR/98-97, s. 2; SOR/99-179, s. 3; SOR/2000-327, s. 2; SOR/2001-295, s. 2(E); SOR/2005-371, s. 4; SOR/2005-414, s. 3; SOR/2005-415, s. 1; SOR/2006-117, s. 4; SOR/2006-249, s. 1; SOR/2007-19, s. 2; SOR/2009-115, s. 4.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-137, s. 3; SOR/78-502, s. 2; SOR/78-948, ss. 2, 3; SOR/79-426, s. 3; SOR/79-670, s. 3; SOR/80-418, s. 1; SOR/80-618, s. 2(F); SOR/80-926, s. 1; SOR/80-935, s. 1; SOR/80-942, s. 2; SOR/81-974, s. 1; SOR/81-1026, s. 1; SOR/82-265, s. 4; SOR/83-855, s. 1; SOR/84-265, s. 1; SOR/85-174, s. 2; SOR/86-254, s. 2; SOR/86-1092, s. 6(F); SOR/89-27, s. 3; SOR/90-22, s. 5; SOR/91-79, s. 1; SOR/94-169, s. 2; SOR/94-686, ss. 11(F), 62, 81(F); SOR/95-244, s. 2; SOR/96-200, s. 1; SOR/96-451, s. 1; SOR/97-377, s. 4; SOR/98-97, s. 2; SOR/99-179, s. 3; SOR/2000-327, s. 2; SOR/2001-295, s. 2(E); SOR/2005-371, s. 4; SOR/2005-414, s. 3; SOR/2005-415, s. 1; SOR/2006-117, s. 4; SOR/2006-249, s. 1; SOR/2007-19, s. 2; SOR/2009-115, s. 4; SOR/2009-126, s. 4.
 
 
 
@@ -18490,14 +18495,14 @@ to a building that would have been included in this class during that period but
 
 
 
-**(j)** a railway locomotive acquired after May 25, 1976, but not including an automotive railway car; or
+**(j)** a railway locomotive that is acquired after May 25, 1976 and before February 26, 2008 and that is not an automotive railway car;
 
 
 
 **(k)** an addition or alteration, made after 1978 to a building included in this class by virtue of subparagraph (a)(viii), to the extent that the aggregate cost of all such additions and alterations to the building does not exceed $100,000.
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/78-949, s. 3; SOR/94-140, s. 18..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/78-949, s. 3; SOR/94-140, s. 18; SOR/2009-126, s. 5..
 
 
 
@@ -18555,7 +18560,7 @@ Property that is
 
 
 
-**(i)** property acquired after February 27, 2000 that is a railway locomotive, but not including an automotive railway car; or
+**(i)** property that is acquired after February 27, 2000 (other than property included in paragraph (y) of Class 10), that is a railway locomotive and that is not an automotive railway car;
 
 
 
@@ -18569,12 +18574,16 @@ Property that is
 
 
 
-**(iii)** to a transmission pipeline from a storage facility.
+**(iii)** to a transmission pipeline from a storage facility; or
 
 
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/90-22, s. 13; SOR/2005-371, s. 8; SOR/2006-117, s. 9..
+
+**(k)** pumping or compression equipment that is acquired after February 25, 2008, including equipment ancillary to pumping and compression equipment, that is on a pipeline and that pumps or compresses carbon dioxide for the purpose of moving it through the pipeline.
+
+
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/90-22, s. 13; SOR/2005-371, s. 8; SOR/2006-117, s. 9; SOR/2009-126, s. 6..
 
 
 
@@ -19064,14 +19073,18 @@ except a property included in a separate class prescribed by subsection 1101(2b)
 
 
 
-**(w)** a certified production acquired after 1987 and before March 1996; or
+**(w)** a certified production acquired after 1987 and before March 1996;
 
 
 
-**(x)** a Canadian film or video production.
+**(x)** a Canadian film or video production; or
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/78-137, s. 6; SOR/79-426, s. 4; SOR/80-99, ss. 1, 2; SOR/80-926, s. 4; SOR/81-974, s. 14; SOR/86-1136, s. 13; SOR/89-27, s. 4; SOR/90-22, s. 15; SOR/94-140, s. 20; SOR/94-169, s. 9; SOR/2005-126, s. 6; SOR/2005-414, s. 5..
+
+**(y)** a railway locomotive that is not an automotive railway car and that was not used or acquired for use for any purpose by any taxpayer before February 26, 2008.
+
+
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/78-137, s. 6; SOR/79-426, s. 4; SOR/80-99, ss. 1, 2; SOR/80-926, s. 4; SOR/81-974, s. 14; SOR/86-1136, s. 13; SOR/89-27, s. 4; SOR/90-22, s. 15; SOR/94-140, s. 20; SOR/94-169, s. 9; SOR/2005-126, s. 6; SOR/2005-414, s. 5; SOR/2009-126, s. 7..
 
 
 
@@ -20110,11 +20123,19 @@ or any combination thereof, unless use of the property by the lessee commenced b
 
 
 
-**(iv)** electrical generating equipment described in Class 9, or
+**(iv)** electrical generating equipment described in Class 9,
 
 
 
-**(v)** property described in paragraph (b) or (f) of Class 10; and
+**(v)** property that is described in paragraph (b) or (f) of Class 10, or
+
+
+
+**(vi)** property that would be described in paragraph (f) of Class 10 if the portion of that paragraph before subparagraph (i) read as follows:
+
+**“(f)** general-purpose electronic data processing equipment and systems software for that equipment, including ancillary data processing equipment, acquired after March 18, 2007 and before January 28, 2009, but not including property that is principally or is used principally as”; and
+
+
 
 
 
@@ -20142,20 +20163,20 @@ or any combination thereof, unless use of the property by the lessee commenced b
 
 
 
-**(iii)** after March 18, 2007 and before 2009 if the property is machinery, or equipment,
+**(iii)** after March 18, 2007 and before 2012 if the property is machinery, or equipment,
 
 **(A)** that would be described in paragraph (a) if subparagraph (a)(ii) were read without reference to “in Canadian field processing carried on by the lessee or,”, and
 
 
 
-**(B)** that is described in any of subparagraphs (b)(i) to (iii).
+**(B)** that is described in any of subparagraphs (b)(i) to (iii) and (vi).
 
 
 
 
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/90-22, s. 19; SOR/94-686, ss. 46(F), 66(F); SOR/99-179, s. 14; SOR/2009-115, s. 5..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/90-22, s. 19; SOR/94-686, ss. 46(F), 66(F); SOR/99-179, s. 14; SOR/2009-115, s. 5; SOR/2009-126, s. 8..
 
 
 
@@ -21273,31 +21294,47 @@ Property acquired after February 22, 2005 that is a combustion turbine (includin
 
 **CLASS 49** 
 
-Property acquired after February 22, 2005 that is a pipeline, including control and monitoring devices, valves and other equipment ancillary to the pipeline, used for the transmission (but not the distribution) of petroleum, natural gas or related hydrocarbons, other than
+Property that is a pipeline, including control and monitoring devices, valves and other equipment ancillary to the pipeline, that
 
-**(a)** a pipeline described in subparagraph (l)(ii) of Class 1;
+**(a)** is acquired after February 22, 2005, is used for the transmission (but not the distribution) of petroleum, natural gas or related hydrocarbons, and is not
 
-
-
-**(b)** property that has been used or acquired for use for any purpose by any taxpayer before February 23, 2005;
+**(i)** a pipeline described in subparagraph (l)(ii) of Class 1,
 
 
 
-**(c)** equipment included in Class 7 because of paragraph (j) of that Class; and
+**(ii)** property that has been used or acquired for use for any purpose by any taxpayer before February 23, 2005,
 
 
 
-**(d)** a building or other structure.
+**(iii)** equipment included in Class 7 because of paragraph (j) of that Class, or
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/2006-117, s. 14..
+
+**(iv)** a building or other structure; or
+
+
+
+
+
+**(b)** is acquired after February 25, 2008, is used for the transmission of carbon dioxide, and is not
+
+**(i)** equipment included in Class 7 because of paragraph (k) of that Class, or
+
+
+
+**(ii)** a building or other structure.
+
+
+
+
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/2006-117, s. 14; SOR/2009-126, s. 9..
 
 
 
 
 **CLASS 50** 
 
-Property acquired after March 18, 2007 that is general-purpose electronic data processing equipment and systems software for that equipment, including ancillary data processing equipment, but not including property that is principally or is used principally as
+Property acquired after March 18, 2007 that is general-purpose electronic data processing equipment and systems software for that equipment, including ancillary data processing equipment, but not including property that is included in Class 52 or that is principally or is used principally as
 
 **(a)** electronic process control or monitor equipment;
 
@@ -21314,7 +21351,7 @@ Property acquired after March 18, 2007 that is general-purpose electronic data p
 **(d)** data handling equipment (other than data handling equipment that is ancillary to general-purpose electronic data processing equipment).
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/2009-115, s. 11..
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/2009-115, s. 11; SOR/2009-126, s. 10..
 
 
 
@@ -21334,7 +21371,55 @@ Property acquired after March 18, 2007 that is a pipeline, including control and
 **(c)** a building or other structure.
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2009-115, s. 11.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] SOR/2009-115, s. 11..
+
+
+
+
+**CLASS 52** 
+
+Property acquired by a taxpayer after January 27, 2009 and before February 2010 that
+
+**(a)** is general-purpose electronic data processing equipment and systems software for that equipment, including ancillary data processing equipment, but not including property that is principally or is used principally as
+
+**(i)** electronic process control or monitor equipment,
+
+
+
+**(ii)** electronic communications control equipment,
+
+
+
+**(iii)** systems software for equipment referred to in paragraph (i) or (ii), or
+
+
+
+**(iv)** data handling equipment (other than data handling equipment that is ancillary to general-purpose electronic data processing equipment);
+
+
+
+
+
+**(b)** is situated in Canada;
+
+
+
+**(c)** has not been used, or acquired for use, for any purpose whatever before it is acquired by the taxpayer; and
+
+
+
+**(d)** is acquired by the taxpayer
+
+**(i)** for use in a business carried on by the taxpayer in Canada or for the purpose of earning income from property situated in Canada, or
+
+
+
+**(ii)** for lease by the taxpayer to a lessee for use by the lessee in a business carried on by the lessee in Canada or for the purpose of earning income from property situated in Canada.
+
+
+
+
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2009-126, s. 11.
 
 
 
