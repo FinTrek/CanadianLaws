@@ -1469,7 +1469,7 @@ Fait à Ottawa, le _________________________ 20_________________________
 <th>Autobus</th>
 <th>Camion</th>
 <th>Motocyclette</th>
-<th>Motocyclette à usage restreint</th>
+<th>Motocy-clette à usage restreint</th>
 <th>Motoneige</th>
 <th>Traîneau de motoneige</th>
 <th>Chariot de conversion</th>
@@ -1972,7 +1972,7 @@ Fait à Ottawa, le _________________________ 20_________________________
 </tr>
 <tr>
 <td>203</td>
-<td>Protection du conducteur contre l’impact</td>
+<td>Protection du conducteur contre l’impact et système de commande de direction</td>
 <td>X</td>
 <td>X</td>
 <td></td>
@@ -2736,7 +2736,7 @@ Fait à Ottawa, le _________________________ 20_________________________
 </tr>
 </table>
 
-> DORS/78-80, art. 1; DORS/78-910, art. 1(F); DORS/79-305, art. 1; DORS/79-306, art. 2; DORS/79-339, art. 2; DORS/79-340, art. 2; DORS/79-374, art. 2; DORS/79-677, art. 2; DORS/79-940, art. 5; DORS/80-160, art. 1; DORS/80-161, art. 2; DORS/80-282, art. 2; DORS/80-439, art. 2; DORS/80-639, art. 1(F); DORS/81-88, art. 2; DORS/81-665, art. 1; DORS/82-656, art. 2; DORS/82-753, art. 2; DORS/82-754, art. 2; DORS/83-138, art. 1; DORS/84-812, art. 2; DORS/86-682, art. 1; DORS/86-683, art. 2; DORS/86-975, art. 1; DORS/87-658, art. 1; DORS/87-660, art. 3; DORS/88-268, art. 4; DORS/89-384, art. 2(F) et 3 à 5; DORS/90-805, art. 4; DORS/91-425, art. 3; DORS/92-173, art. 5; DORS/92-250, art. 2(F); DORS/92-545, art. 2(F); DORS/93-31, art. 2; DORS/93-146, art. 3; DORS/93-561, art. 2; DORS/94-291, art. 2; DORS/94-669, art. 2; DORS/95-60, art. 1; DORS/95-147, art. 5 et 15(F); DORS/95-164, art. 2; DORS/96-89, art. 1; DORS/96-366, art. 4; DORS/96-437, art. 1; DORS/97-14, art. 1; DORS/97-141, art. 3; DORS/97-200, art. 2; DORS/97-201, art. 2; DORS/97-376, art. 4; DORS/97-421, art. 2; DORS/97-463, art. 1; DORS/97-532, art. 1 et 2; DORS/98-160, art. 2; DORS/98-457, art. 2; DORS/98-595, art. 1; DORS/99-357, art. 2; DORS/2000-182, art. 4; DORS/2000-304, art. 4; DORS/2001-35, art. 2 et 3; DORS/2001-353, art. 1; DORS/2001-486, art. 1; DORS/2002-55, art. 12; DORS/2002-205, art. 2; DORS/2003-272, art. 6; DORS/2003-359, art. 1 à 3; DORS/2004-195, art. 1; DORS/2005-45, art. 2; DORS/2006-94, art. 1; DORS/2007-180, art. 2 à 4; DORS/2007-246, art. 1; DORS/2008-73, art. 2; DORS/2008-104, art. 7(F) et 8(F); DORS/2008-229, art. 2; DORS/2008-258, art. 5 et 6; DORS/2009-33, art. 1(F).
+> DORS/78-80, art. 1; DORS/78-910, art. 1(F); DORS/79-305, art. 1; DORS/79-306, art. 2; DORS/79-339, art. 2; DORS/79-340, art. 2; DORS/79-374, art. 2; DORS/79-677, art. 2; DORS/79-940, art. 5; DORS/80-160, art. 1; DORS/80-161, art. 2; DORS/80-282, art. 2; DORS/80-439, art. 2; DORS/80-639, art. 1(F); DORS/81-88, art. 2; DORS/81-665, art. 1; DORS/82-656, art. 2; DORS/82-753, art. 2; DORS/82-754, art. 2; DORS/83-138, art. 1; DORS/84-812, art. 2; DORS/86-682, art. 1; DORS/86-683, art. 2; DORS/86-975, art. 1; DORS/87-658, art. 1; DORS/87-660, art. 3; DORS/88-268, art. 4; DORS/89-384, art. 2(F) et 3 à 5; DORS/90-805, art. 4; DORS/91-425, art. 3; DORS/92-173, art. 5; DORS/92-250, art. 2(F); DORS/92-545, art. 2(F); DORS/93-31, art. 2; DORS/93-146, art. 3; DORS/93-561, art. 2; DORS/94-291, art. 2; DORS/94-669, art. 2; DORS/95-60, art. 1; DORS/95-147, art. 5 et 15(F); DORS/95-164, art. 2; DORS/96-89, art. 1; DORS/96-366, art. 4; DORS/96-437, art. 1; DORS/97-14, art. 1; DORS/97-141, art. 3; DORS/97-200, art. 2; DORS/97-201, art. 2; DORS/97-376, art. 4; DORS/97-421, art. 2; DORS/97-463, art. 1; DORS/97-532, art. 1 et 2; DORS/98-160, art. 2; DORS/98-457, art. 2; DORS/98-595, art. 1; DORS/99-357, art. 2; DORS/2000-182, art. 4; DORS/2000-304, art. 4; DORS/2001-35, art. 2 et 3; DORS/2001-353, art. 1; DORS/2001-486, art. 1; DORS/2002-55, art. 12; DORS/2002-205, art. 2; DORS/2003-272, art. 6; DORS/2003-359, art. 1 à 3; DORS/2004-195, art. 1; DORS/2005-45, art. 2; DORS/2006-94, art. 1; DORS/2007-180, art. 2 à 4; DORS/2007-246, art. 1; DORS/2008-73, art. 2; DORS/2008-104, art. 7(F) et 8(F); DORS/2008-229, art. 2; DORS/2008-258, art. 5 et 6; DORS/2009-33, art. 1(F); DORS/2009-121, art. 1.
 
 
 
@@ -5428,50 +5428,30 @@ NOTE : LE CALCUL DES DIMENSIONS DES IMAGES DE RÉFÉRENCE SE FAIT AU MOYEN DES F
 
 **202** 
 
-- **(1)** Dans le présent article, « gabarit point H » et « machine point H » s’entendent respectivement de « H-point template » et « H-point machine » figurant dans la norme J826 de la SAE intitulée Devices for Use in Defining and Measuring Vehicle Safety Accommodation (juillet 1995).
+- **(1)** Sous réserve du paragraphe (2), tout véhicule de tourisme à usages multiples, autobus ou camion ayant un PNBV d’au plus 4 536 kg, toute voiture de tourisme et tout véhicule à trois roues doivent être conformes aux exigences du Document de normes techniques no 202 — Appuie-tête (DNT 202), avec ses modifications successives.
 
-- **(2)** Chaque place assise désignée extérieure avant d’un véhicule de tourisme à usages multiples, autobus ou camion ayant un PNBV d’au plus 4 536 kg, d’une voiture de tourisme et d’un véhicule à trois roues doit être munie d’un appuie-tête qui :
-	- **a)** soit, lorsque le bâti du siège est soumis à un essai comportant une accélération avant d’au moins 8 g, limite le mouvement angulaire vers l’arrière de la ligne de référence de la tête à 45° par rapport à la ligne de référence du torse;
-	- **b)** soit, lorsqu’il est placé dans sa position la plus haute :
-		- **(i)** a une hauteur hors tout d’au moins 700 mm, mesurée perpendiculairement à une ligne qui passe par le point de référence de position assise et est perpendiculaire à la ligne du torse,
-		- **(ii)** a une largeur latérale d’au moins 250 mm dans le cas d’une banquette et d’au moins 170 mm dans le cas de sièges individuels, la mesure étant prise à 63 mm au-dessous du sommet de l’appuie-tête ou à 635 mm au-dessus du point de référence de position assise,
-		- **(iii)** ne permet pas à la partie postérieure de la tête factice de se déplacer vers l’arrière de plus de 102 mm perpendiculairement au prolongement de la ligne de référence du torse déplacée pendant l’application de la force à l’essai,
-		- **(iv)** supporte une force croissante jusqu’à la dislocation du siège ou du dossier du siège ou jusqu’à ce que la force atteigne 890 N.
+- **(2)** Jusqu’au 31 août 2012, les véhicules visés au paragraphe (1) peuvent être conformes aux exigences du présent article dans sa version antérieure à la date d’entrée en vigueur du présent article.
 
-- **(3)** L’essai visé à l’alinéa (2)a) doit être effectué comme suit :
-	- **a)** l’appuie-tête doit être dans sa position la plus haute;
-	- **b)** les lignes de référence doivent être établies sur le profil extérieur de la tête et du torse d’une forme humaine ou d’un dispositif d’essai équivalent approuvé :
-		- **(i)** en plaçant le dos de la forme humaine sur une surface horizontale plane, les articulations lombaires en ligne droite,
-		- **(ii)** en faisant pivoter la tête de la forme humaine vers l’arrière jusqu’à ce que la partie postérieure de celle-ci touche la surface mentionnée au sous-alinéa (i),
-		- **(iii)** en plaçant le dos d’un gabarit point H contre la surface mentionnée au sous-alinéa (i), côte à côte avec la forme humaine de façon que les points H des deux soient alignés,
-		- **(iv)** en établissant la ligne de torse du gabarit point H en tant que ligne parallèle au bas du dos du gabarit et passant par le point H,
-		- **(v)** en établissant la ligne de référence du torse de la forme humaine par la superposition de la ligne de torse du point H sur le torse de la forme humaine,
-		- **(vi)** en établissant la ligne de référence de la tête par le prolongement de la ligne de référence du torse de la forme humaine jusqu’à la tête;
-	- **c)** la forme humaine mentionnée à l’alinéa b) doit avoir le poids et la hauteur en position assise du 95<sup>e</sup> percentile adulte du sexe masculin et être munie d’un dispositif articulé approuvé représentant le cou;
-	- **d)** à chaque place assise désignée munie d’un appuie-tête, la forme humaine doit être placée dans la position assise recommandée par le fabricant et bien attachée au moyen d’une ceinture de sécurité de type 1 ou de type 2 qui est conforme aux exigences de l’article 209;
-	- **e)** une accélération avant doit être appliquée au bâti du siège de sorte que, lorsqu’elle est représentée graphiquement, l’ampleur de la courbe d’accélération soit comprise entre une demi-sinusoïde d’amplitude 8 g et d’une durée de 80 millisecondes et une demi-sinusoïde d’amplitude 9,6 g et d’une durée de 96 millisecondes;
-	- **f)** mouvement angulaire maximal vers l’arrière de la ligne de référence de la tête doit être mesuré à partir de la ligne de référence du torse de la forme humaine.
-
-- **(4)** L’essai visé à l’alinéa (2)b) doit être effectué comme suit :
-	- **a)** placer une machine point H et l’axe du détecteur de hauteur libre complètement à l’arrière à la position assise recommandée par le fabricant;
-	- **b)** établir la ligne de référence du torse déplacée par l’application vers l’arrière d’un couple de 373 N•m centré au point de référence de position assise au dossier du siège par l’intermédiaire de la partie postérieure du crâne du dispositif d’essai ainsi placé;
-	- **c)** enlever la partie postérieure du crâne et, à l’aide d’une tête factice sphérique de 165 mm de diamètre ou d’une tête factice cylindrique de 165 mm de diamètre en plan et de 153 mm de hauteur de profil, appliquer une charge initiale vers l’arrière perpendiculairement à la ligne de référence déplacée du torse, à 65 mm au-dessous du sommet de l’appuie-tête, de façon à produire un couple de 373 N•m centré au point de référence de position assise;
-	- **d)** augmenter graduellement la charge initiale à 890 N ou jusqu’à ce que le siège ou le dossier du siège se disloque, selon la première de ces éventualités à se produire.
-> DORS/95-60, art. 2; DORS/2003-272, art. 21; DORS/2006-94, art. 4(A); DORS/2007-180, art. 11; DORS/2008-72, art. 4(F)..
+- **(3)** Le présent article cesse d’avoir effet le 1<sup>er</sup> mars 2014.
+> DORS/95-60, art. 2; DORS/2003-272, art. 21; DORS/2006-94, art. 4(A); DORS/2007-180, art. 11; DORS/2008-72, art. 4(F); DORS/2009-122, art. 1..
 
 
 
 
-### Protection du conducteur contre l’impact
+### Protection du conducteur contre l’impact et système de commande de direction
 
 **203** 
 
-- **(1)** Sous réserve du paragraphe (2), lors des essais effectués pour mesurer l’impact à une vitesse relative de 24,1 km/h, conformément à la Pratique recommandée J944 de la SAE, Steering Control System — Passenger Car — Laboratory Test Procedure (juin 1980), la force exercée sur la poitrine d’un dispositif anthropomorphe heurtant le système de commande de direction ne doit pas dépasser 11,1 kN, sauf pendant des intervalles d’une durée globale d’au plus trois millisecondes.
+- **(1)** Le système de commande de direction d’un véhicule doit être construit de façon que ni ses composantes ni ses pièces, notamment la commande de l’avertisseur, ne puissent retenir, lors des manoeuvres normales de conduite, ni les vêtements du conducteur ni ses bijoux, tels qu’une montre, une bague ou un bracelet, autre qu’un bracelet comportant des pièces lâches ou pendantes.
 
-- **(2)** Le paragraphe (1) ne s’applique pas aux véhicules qui satisfont aux exigences de l’article 208 relatives aux collisions frontales par d’autres moyens que des ceintures de sécurité, ni aux camions, aux véhicules de tourisme à usages multiples ou aux autobus d’un PNBV supérieur à 4 536 kg (10 000 lb) ou aux fourgons à accès en position debout.
+- **(2)** Sous réserve du paragraphe (4), le système de commande de direction des voitures de tourisme, des véhicules à trois roues, ainsi que des véhicules de tourisme à usages multiples, autobus et camions, à l’exception des fourgons à accès en position debout, ayant un PNBV d’au plus 4 536 kg,  doit être mis à l’essai conformément à la pratique recommandée J944 de la SAE, intitulée Steering Control System — Passenger Car — Laboratory Test Procedure (juin 1980).
 
-- **(3)** Le système de commande de direction, ses pièces, celles qui lui sont rattachées, ainsi que la commande de l’avertisseur et les pièces décoratives doivent être construites de façon à ne pas retenir, lors des manoeuvres normales de conduite, les vêtements, la montre, les bagues, les bracelets (sauf les bracelets comportant des pièces lâches ou pendantes) et autres bijoux du conducteur.
-> DORS/79-719, art. 2; DORS/83-138, art. 3; DORS/90-387, art. 3; DORS/94-291, art. 4; DORS/94-692, art. 2; DORS/97-201, art. 5; DORS/97-421, art. 17; DORS/2006-94, art. 4(A)..
+- **(3)** Les exigences ci-après relatives au système de commande de direction doivent être respectées durant la mise à l’essai visée au paragraphe (2) :
+	- **a)** le système subit un impact exercé par un bloc corporel à une vitesse relative de 24 km/h;
+	- **b)** la force d’impact exercée sur la poitrine du bloc corporel et transmise au système n’excède pas 11 120 N, sauf pendant des intervalles d’une durée cumulative d’au plus 3 ms.
+
+- **(4)** Les paragraphes (2) et (3) ne s’appliquent pas aux véhicules conformes aux exigences prévues aux paragraphes 208(22) et (23).
+> DORS/79-719, art. 2; DORS/83-138, art. 3; DORS/90-387, art. 3; DORS/94-291, art. 4; DORS/94-692, art. 2; DORS/97-201, art. 5; DORS/97-421, art. 17; DORS/2006-94, art. 4(A); DORS/2009-121, art. 2..
 
 
 
@@ -5480,24 +5460,12 @@ NOTE : LE CALCUL DES DIMENSIONS DES IMAGES DE RÉFÉRENCE SE FAIT AU MOYEN DES F
 
 **204** 
 
-- **(1)** Le présent article ne s’applique pas :
-	- **a)** aux fourgons à accès en position debout;
-	- **b)** aux camions, véhicules de tourisme à usages multiples et autobus qui ont, selon le cas :
-		- **(i)** un poids nominal brut du véhicule supérieur à 4 536 kg,
-		- **(ii)** une masse du véhicule sans charge supérieure à 2 500 kg.
+- **(1)** Les voitures de tourisme, les véhicules à trois roues, ainsi que les autobus, véhicules de tourisme à usages multiples et camions, à l’exception des fourgons à accès en position debout, ayant un PNBV d’au plus 4 536 kg et une masse du véhicule sans charge d’au plus 2 495 kg, doivent être mis à l’essai de la façon suivante :  
+	- **a)** en se déplaçant longitudinalement vers l’avant à une vitesse d’au plus 48 km/h, ils heurtent une barrière fixe pour essais de collision formant un angle de 90° ± 5° avec l’axe de leur déplacement;
+	- **b)** la mise à l’essai est effectuée conformément aux exigences prévues aux alinéas 208(23)a) et c).
 
-- **(2)** Lorsqu’un véhicule est projeté vers l’avant, à une vitesse longitudinale de 48 km/h, perpendiculairement contre une barrière fixe pour essai de collision, l’extrémité supérieure de la colonne de direction et de l’arbre de direction ne doit pas, par rapport à un point resté fixe dans le véhicule, s’être déplacée de plus de 127 mm horizontalement vers l’arrière et parallèlement à l’axe longitudinal du véhicule.
-
-- **(3)** Lorsqu’un véhicule est projeté de la façon décrite au paragraphe (2) à une vitesse de plus de 48 km/h mais ne dépassant pas 53 km/h, la distance de recul de la colonne de direction et de l’arbre de direction peut être rajustée à la vitesse de 48 km/h par la multiplication de cette distance par le rapport inversé du carré des vitesses.
-
-- **(4)** L’essai de collision visé au paragraphe (2) doit être exécuté dans les conditions suivantes :
-	- **a)** le poids du véhicule, y compris le matériel d’essai, est égal au poids du véhicule sans charge, sauf que le réservoir d’essence du véhicule est rempli à au moins 90 et au plus 95 pour cent de sa capacité;
-	- **b)** dans le cas d’un volant ajustable, la commande d’inclinaison est réglée pour que le moyeu du volant inclinable soit au point milieu de la ligne de points qu’il décrit lorsqu’il est déplacé sur la gamme complète des positions de conduite, et la commande de direction télescopique est placée au point milieu entre la première position avant et la dernière position arrière;
-	- **c)** les décapotables et les véhicules de type ouvert ont la capote, s’ils en ont une, correctement installée de façon qu’ils aient la configuration d’un habitacle fermé;
-	- **d)** les portes sont fermées dans la position de blocage complet mais ne sont pas verrouillées;
-	- **e)** le frein de stationnement est desserré et la boîte de vitesses est au point mort;
-	- **f)** les pneus sont gonflés à la pression indiquée par le fabricant du véhicule.
-> DORS/80-440, art. 2; DORS/83-138, art. 4; DORS/90-387, art. 1; DORS/94-692, art. 2(F); DORS/97-201, art. 5; DORS/97-421, art. 22(F); DORS/2006-94, art. 4(A); DORS/2008-72, art. 5..
+- **(2)** Lors de la mise à l’essai visée au paragraphe (1), l’extrémité supérieure de la colonne de direction et de l’arbre de direction ne doit pas s’être déplacée, par rapport à un point resté fixe dans le véhicule, de plus de 127 mm horizontalement vers l’arrière et parallèlement à l’axe longitudinal du véhicule. Le déplacement doit correspondre au maximum du mouvement dynamique de l’extrémité supérieure de la colonne de direction et de l’arbre de direction au cours de l’essai.
+> DORS/80-440, art. 2; DORS/83-138, art. 4; DORS/90-387, art. 1; DORS/94-692, art. 2(F); DORS/97-201, art. 5; DORS/97-421, art. 22(F); DORS/2006-94, art. 4(A); DORS/2008-72, art. 5; DORS/2009-121, art. 2..
 
 
 
@@ -6302,112 +6270,208 @@ Figures 8 à 11 [Abrogées, DORS/2008-72, art. 8]
 
 
 > Image: Diagramme montrant la vue schématique tridimensionnelle du dispositif d’essai d’application de la force statique avec mesures et descriptions.
-Figure 12 -- Vue schématique tridimensionnelle du dispositif d’essai d’application de la force statique
 
-
+<table>
+<tr>
+<td>
 > Image: Diagramme montrant la vue de côté du dispositif d’essai d’application de la force statique avec mesures et descriptions.
-Remarques :
+</td>
+</tr>
+<tr>
+<td>Remarques :</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Matériau : Aluminum 6061-T6-910</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Les dimensions sont exprimées en mm, sauf indication contraire.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Le dessin n’est pas à l’échelle.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Arrondir toutes les saillies extérieures</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Figure 13 -- Vue de côté du dispositif d’essai d’application de la force statique</td>
+</tr>
+</table>
 
-**1** Matériau : Aluminum 6061-T6-910
-
-**2** Les dimensions sont exprimées en mm, sauf indication contraire.
-
-**3** Le dessin n’est pas à l’échelle.
-
-**4** Arrondir toutes les saillies extérieures
-
-Figure 13 -- Vue de côté du dispositif d’essai d’application de la force statique
-
-
+<table>
+<tr>
+<td>
 > Image: Diagramme montrant la vue en plan du dispositif d’essai d’application de la force statique avec mesures et descriptions.
-Remarques :
+</td>
+</tr>
+<tr>
+<td>Remarques :</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Matériau : Aluminium 6061-T6-910</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Les dimensions sont exprimées en mm, sauf indication contraire.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Le dessin n’est pas à l’échelle.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Arrondir toutes les saillies extérieures et le pourtour des trous d’environ 1,5 mm</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Arrondir le pourtour des trous d’acheminement de la ceinture de sécurité du véhicule d’au moins 4 mm</td>
+</tr>
+<tr>
+<td>6</td>
+<td>« B » = environ 0,8 mm</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Figure 14 -- Vue en plan du dispositif d’essai d’application de la force statique</td>
+</tr>
+</table>
 
-**1** Matériau : Aluminium 6061-T6-910
-
-**2** Les dimensions sont exprimées en mm, sauf indication contraire.
-
-**3** Le dessin n’est pas à l’échelle.
-
-**4** Arrondir toutes les saillies extérieures et le pourtour des trous d’environ 1,5 mm
-
-**5** Arrondir le pourtour des trous d’acheminement de la ceinture de sécurité du véhicule d’au moins 4 mm
-
-**6** « B » = environ 0,8 mm
-
-Figure 14 -- Vue en plan du dispositif d’essai d’application de la force statique
-
-
+<table>
+<tr>
+<td>
 > Image: Diagramme montrant la vue de face du dispositif d’essai d’application de la force statique avec mesures et descriptions.
-Remarques :
+</td>
+</tr>
+<tr>
+<td>Remarques :</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Matériau : Aluminium 6061-T6-910</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Les dimensions sont exprimées en mm, sauf indication contraire.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Le dessin n’est pas à l’échelle.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>« B » = environ 0,8 mm</td>
+</tr>
+<tr>
+<td>5</td>
+<td>« C » = environ 3,2 mm</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Figure 15 -- Vue de face du dispositif d’essai d’application de la force statique</td>
+</tr>
+</table>
 
-**1** Matériau : Aluminium 6061-T6-910
-
-**2** Les dimensions sont exprimées en mm, sauf indication contraire.
-
-**3** Le dessin n’est pas à l’échelle.
-
-**4** « B » = environ 0,8 mm
-
-**5** « C » = environ 3,2 mm
-
-Figure 15 -- Vue de face du dispositif d’essai d’application de la force statique
-
-
+<table>
+<tr>
+<td>
 > Image: Diagramme montrant la barre transversale du dispositif d’essai d’application de la force statique avec mesures et descriptions.
-Remarques :
-
-**1** Matériau : Acier
-
-**2** Les dimensions sont exprimées en mm, sauf indication contraire.
-
-**3** Le dessin n’est pas à l’échelle.
-
-**4** Arrondir toutes les saillies extérieures d’environ 1,5 mm
-
-**5** Les surfaces et les saillies ne doivent pas être usinées à moins que ce ne soit précisé à des fins de tolérance.
-
-**6** Matériau scié ou d’usage courant, si possible
-
-**7** Les pièces doivent être solidement soudées.
-
-Figure 16 -- Barre transversale du dispositif d’essai d’application de la force statique
-
+</td>
+</tr>
+<tr>
+<td>Remarques :</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Matériau : Acier</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Les dimensions sont exprimées en mm, sauf indication contraire.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Le dessin n’est pas à l’échelle.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Arrondir toutes les saillies extérieures d’environ 1,5 mm</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Les surfaces et les saillies ne doivent pas être usinées à moins que ce ne soit précisé à des fins de tolérance.</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Matériau scié ou d’usage courant, si possible</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Les pièces doivent être solidement soudées.</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Figure 16 -- Barre transversale du dispositif d’essai d’application de la force statique</td>
+</tr>
+</table>
 Figures 17 et 18 [Abrogées, DORS/2002-205, art. 3]
 
 Figure 19 [Abrogée, DORS/2008-72, art. 8]
 
 
+<table>
+<tr>
+<td>
 > Image: Diagramme montrant la mesure de la distance entre les places assises désignées adjacentes à utiliser pour la mise à l’essai simultanée avec mesures et descriptions.
-**Légende :**
-
-**d = Distance d’axe en axe entre les barres du dispositif universel d’ancrages d’attaches inférieurs pour une place assise donnée (distance nominale de 280 mm)**
-
-
-
-**D = Distance entre les plans longitudinaux verticaux situés à mi-chemin entre les barres du dispositif universel d’ancrages d’attaches inférieurs pour une place assise donnée**
-
-
-
-**PRPA = Point de référence de position assise**
-
-
-
-**Remarques :**
-
-**1. Le dessin n’est pas à l’échelle.**
-
-
-
-**2. Le point milieu de la place assise désignée se trouve dans le plan vertical longitudinal situé à égale distance entre les plans verticaux longitudinaux passant par le centre géométrique de chacune des deux barres du dispositif universel d’ancrages d’attaches inférieurs installé à la place assise. Pour les places assises désignées qui n’ont pas des barres du dispositif universel d’ancrages d’attaches inférieurs, le point milieu de la place assise désignée doit se trouver dans le plan vertical longitudinal passant par le PRPA de la place assise.**
-
-
-
-**3. La distance doit être mesurée la distance entre les plans verticaux longitudinaux passant par les points milieu des places assises désignées adjacentes le long d’une ligne perpendiculaire aux plans.**
-
-
-
-**Figure 20 — Mesure de la distance entre les places assises désignées adjacentes à utiliser pour la mise à l’essai simultanée**
-
+</td>
+</tr>
+<tr>
+<td>**Légende :**</td>
+</tr>
+<tr>
+<td>**d = Distance d’axe en axe entre les barres du dispositif universel d’ancrages d’attaches inférieurs pour une place assise donnée (distance nominale de 280 mm)**</td>
+</tr>
+<tr>
+<td>**D = Distance entre les plans longitudinaux verticaux situés à mi-chemin entre les barres du dispositif universel d’ancrages d’attaches inférieurs pour une place assise donnée**</td>
+</tr>
+<tr>
+<td>**PRPA = Point de référence de position assise**</td>
+</tr>
+<tr>
+<td>**Remarques :**</td>
+</tr>
+<tr>
+<td>**1. Le dessin n’est pas à l’échelle.**</td>
+</tr>
+<tr>
+<td>**2. Le point milieu de la place assise désignée se trouve dans le plan vertical longitudinal situé à égale distance entre les plans verticaux longitudinaux passant par le centre géométrique de chacune des deux barres du dispositif universel d’ancrages d’attaches inférieurs installé à la place assise. Pour les places assises désignées qui n’ont pas des barres du dispositif universel d’ancrages d’attaches inférieurs, le point milieu de la place assise désignée doit se trouver dans le plan vertical longitudinal passant par le PRPA de la place assise.**</td>
+</tr>
+<tr>
+<td>**3. La distance doit être mesurée la distance entre les plans verticaux longitudinaux passant par les points milieu des places assises désignées adjacentes le long d’une ligne perpendiculaire aux plans.**</td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td>**Figure 20 — Mesure de la distance entre les places assises désignées adjacentes à utiliser pour la mise à l’essai simultanée**</td>
+</tr>
+</table>
 
 > DORS/86-975, art. 2; DORS/92-545, art. 5; DORS/94-669, art. 3; DORS/95-536, art. 7; DORS/98-457, art. 3; DORS/2000-44, art. 1 à 3; DORS/2002-205, art. 3; DORS/2003-272, art. 26; DORS/2006-94, art. 2 et 4(A); DORS/2007-180, art. 15; DORS/2008-72, art. 8..
 
@@ -6546,153 +6610,328 @@ Figure 19 [Abrogée, DORS/2008-72, art. 8]
 	- **f)** lorsque le véhicule compte plus d’une rangée de places assises désignées, la mention que les enfants et les bébés sont plus en sécurité lorsqu’ils sont retenus correctement dans des ensembles de retenue pour enfant, ou des ensembles de retenue pour bébé, assujettis à une place assise arrière.
 
 - 
+<table>
+<tr>
+<td>
 > Image: Diagramme montrant le positionnement du dispositif universel d’ancrages d’attaches inférieurs avec mesures et descriptions.
-Remarques :
-
-**1** Les dimensions sont exprimées en mm, sauf indication contraire.
-
-**2** Le dessin n’est pas à l’échelle.
-
-Figure 1 — Positionnement du dispositif universel d’ancrages d’attaches inférieurs
-
+</td>
+</tr>
+<tr>
+<td>Remarques :</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Les dimensions sont exprimées en mm, sauf indication contraire.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Le dessin n’est pas à l’échelle.</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Figure 1 — Positionnement du dispositif universel d’ancrages d’attaches inférieurs</td>
+</tr>
+</table>
 
 > Image: Diagramme montrant les vues schématiques tridimensionnelles du dispositif de retenue pour enfant.
-Figure 2 — Vues schématiques tridimensionnelles du dispositif de retenue pour enfant
 
-
+<table>
+<tr>
+<td>
 > Image: Diagramme montrant les vues de côté, de l’arrière et de dessus du dispositif de retenue pour enfant avec mesures et descriptions.
-Remarques :
+</td>
+</tr>
+<tr>
+<td>Remarques :</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Les dimensions sont exprimées en mm, sauf indication contraire.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Le dessin n’est pas à l’échelle.</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Figure 3 — Vues de côté, de l’arrière et de dessus du dispositif de retenue pour enfant</td>
+</tr>
+</table>
 
-**1** Les dimensions sont exprimées en mm, sauf indication contraire.
-
-**2** Le dessin n’est pas à l’échelle.
-
-Figure 3 — Vues de côté, de l’arrière et de dessus du dispositif de retenue pour enfant
-
-
+<table>
+<tr>
+<td>
 > Image: Diagramme montrant les vues schématiques tridimensionnelles du dispositif de retenue pour enfant sans le dessus et sans les côtés avec mesures et descriptions.
-Remarques :
+</td>
+</tr>
+<tr>
+<td>Remarques :</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Les dimensions sont exprimées en mm, sauf indication contraire.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Le dessin n’est pas à l’échelle.</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Figure 4 — Vues schématiques tridimensionnelles du dispositif de retenue pour enfant sans le dessus et sans les côtés</td>
+</tr>
+</table>
 
-**1** Les dimensions sont exprimées en mm, sauf indication contraire.
-
-**2** Le dessin n’est pas à l’échelle.
-
-Figure 4 — Vues schématiques tridimensionnelles du dispositif de retenue pour enfant sans le dessus et sans les côtés
-
-
+<table>
+<tr>
+<td>
 > Image: Diagramme montrant la vue de l’arrière et de côté du dispositif de contrôle pour le dispositif universel d’ancrages d’attaches inférieurs — Dimensions de l’enveloppe avec mesures et descriptions.
-Remarques :
+</td>
+</tr>
+<tr>
+<td>Remarques :</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Les dimensions sont exprimées en mm, sauf indication contraire.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Le dessin n’est pas à l’échelle.</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Figure 5 — Vue de l’arrière et de côté du dispositif de contrôle pour le dispositif universel d’ancrages d’attaches inférieurs — Dimensions de l’enveloppe</td>
+</tr>
+</table>
 
-**1** Les dimensions sont exprimées en mm, sauf indication contraire.
-
-**2** Le dessin n’est pas à l’échelle.
-
-Figure 5 — Vue de l’arrière et de côté du dispositif de contrôle pour le dispositif universel d’ancrages d’attaches inférieurs — Dimensions de l’enveloppe
-
-
+<table>
+<tr>
+<td>
 > Image: Diagramme montrant la distance entre les rangées de places assises désignées avec mesures.
-Légende :
+</td>
+</tr>
+<tr>
+<td>Légende :</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Point le plus élevé du coussin du siège arrière dans le plan longitudinal vertical passant par le centre du coussin du siège du conducteur, si le véhicule est muni de sièges-baquets avant, ou par le centre de la jante du volant, si le véhicule est muni d’une banquette avant</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Ligne longitudinale horizontale tangente au point 1, se prolongeant entre les points 3 et 4. La longueur de la ligne 2 correspond à L<sub>CR</sub>.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Surface arrière du dossier du siège avant le long de la ligne 2</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Surface avant du dossier du siège arrière le long de la ligne 2</td>
+</tr>
+<tr>
+<td>5</td>
+<td>L<sub>CR</sub> — La distance entre la surface arrière du dossier du siège avant et la surface avant du dossier du siège arrière</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Notes</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Les sièges réglables sont dans la position de réglage à mi-distance entre la position la plus à l’avant et la position la plus à l’arrière; s’ils sont réglables individuellement vers le haut, ils sont dans la position la plus basse. S’il n’y a pas de position de réglage à midistance entre la position la plus à l’avant et la position la plus à l’arrière, la position la plus près de l’arrière par rapport au point milieu est utilisée.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Placer les dossiers réglables des sièges dans la position assise nominale recommandée par le fabricant, de la manière indiquée par celui-ci. Placer tout ancrage réglable dans la position nominale recommandée par le fabricant pour un occupant du 50<sup>e</sup> percentile adulte de sexe masculin. Placer chaque appuie-tête réglable dans la position la plus haute. Les supports lombaires réglables sont placés de façon que le support lombaire soit dans la position la moins rigide.</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Figure 6 — Distance entre les rangées de places assises désignées</td>
+</tr>
+</table>
 
-**1** Point le plus élevé du coussin du siège arrière dans le plan longitudinal vertical passant par le centre du coussin du siège du conducteur, si le véhicule est muni de sièges-baquets avant, ou par le centre de la jante du volant, si le véhicule est muni d’une banquette avant
-
-**2** Ligne longitudinale horizontale tangente au point 1, se prolongeant entre les points 3 et 4. La longueur de la ligne 2 correspond à L<sub>CR</sub>.
-
-**3** Surface arrière du dossier du siège avant le long de la ligne 2
-
-**4** Surface avant du dossier du siège arrière le long de la ligne 2
-
-**5** L<sub>CR</sub> — La distance entre la surface arrière du dossier du siège avant et la surface avant du dossier du siège arrière
-
-Remarques :
-
-**1** Les sièges réglables sont dans la position de réglage à mi-distance entre la position la plus à l’avant et la position la plus à l’arrière; s’ils sont réglables individuellement vers le haut, ils sont dans la position la plus basse. S’il n’y a pas de position de réglage à midistance entre la position la plus à l’avant et la position la plus à l’arrière, la position la plus près de l’arrière par rapport au point milieu est utilisée.
-
-**2** Placer les dossiers réglables des sièges dans la position assise nominale recommandée par le fabricant, de la manière indiquée par celui-ci. Placer tout ancrage réglable dans la position nominale recommandée par le fabricant pour un occupant du 50<sup>e</sup> percentile adulte de sexe masculin. Placer chaque appuie-tête réglable dans la position la plus haute. Les supports lombaires réglables sont placés de façon que le support lombaire soit dans la position la moins rigide.
-
-Figure 6 — Distance entre les rangées de places assises désignées
-
-
+<table>
+<tr>
+<td>
 > Image: Diagramme montrant les vues de côté, de l’arrière et de dessous du dispositif d’essai d’application de la force statique pour l’essai de résistance avec mesures et descriptions.
-Remarques :
-
-**1** Les dimensions sont exprimées en mm, sauf indication contraire.
-
-**2** Le dessin n’est pas à l’échelle.
-
-**3** Matériau : à moins d’indication contraire, acier, tube rectangulaire de 50 mm sur 75 mm en acier doux d’une épaisseur nominale de 3 mm, doté d’une plaque d’application de charge d’une épaisseur de 6 mm.
-
-**4** Les pièces doivent être solidement soudées.
-
-**5** Dimensions de la cheville : hauteur hors tout, 16 mm, hauteur du diamètre le plus petit, 6,75 mm, grand diamètre, 10 mm, petit diamètre, 8 mm.
-
-Figure 7 — Vues de côté, de l’arrière et de dessous du dispositif d’essai d’application de la force statique pour l’essai de résistance
-
+</td>
+</tr>
+<tr>
+<td>Remarques :</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Les dimensions sont exprimées en mm, sauf indication contraire.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Le dessin n’est pas à l’échelle.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Matériau : à moins d’indication contraire, acier, tube rectangulaire de 50 mm sur 75 mm en acier doux d’une épaisseur nominale de 3 mm, doté d’une plaque d’application de charge d’une épaisseur de 6 mm.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Les pièces doivent être solidement soudées.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Dimensions de la cheville : hauteur hors tout, 16 mm, hauteur du diamètre le plus petit, 6,75 mm, grand diamètre, 10 mm, petit diamètre, 8 mm.</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Figure 7 — Vues de côté, de l’arrière et de dessous du dispositif d’essai d’application de la force statique pour l’essai de résistance</td>
+</tr>
+</table>
 
 > Image: Diagramme montrant les vues schématiques tridimensionnelles du dispositif d’essai d’application de la force statique pour l’essai de résistance.
-Figure 8 — Vues schématiques tridimensionnelles du dispositif d’essai d’application de la force statique pour l’essai de résistance
 
-
+<table>
+<tr>
+<td>
 > Image: Diagramme montrant la mesure de la distance entre les places assises désignées adjacentes à utiliser pour la mise à l’essai simultanée avec mesures et descriptions.
-**Légende :**
+</td>
+</tr>
+<tr>
+<td>Légende :</td>
+</tr>
+<tr>
+<td>d = Distance d’axe en axe entre les barres du dispositif universel d’ancrages d’attaches inférieurs pour une place assise donnée (distance nominale de 280 mm)</td>
+</tr>
+<tr>
+<td>D = Distance entre les plans longitudinaux verticaux situés à mi-chemin entre les barres du dispositif universel d’ancrages d’attaches inférieurs pour une place assise donnée</td>
+</tr>
+<tr>
+<td>PRPA = Point de référence de position assise</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Remarques :</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Le dessin n’est pas à l’échelle.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Le point milieu de la place assise désignée se trouve dans le plan vertical longitudinal situé à égale distance entre les plans verticaux longitudinaux passant par le centre géométrique de chacune des deux barres du dispositif universel d’ancrages d’attaches inférieurs installé à la place assise. Pour les places assises désignées qui n’ont pas des barres du dispositif universel d’ancrages d’attaches inférieurs, le point milieu de la place assise désignée doit se trouver dans le plan vertical longitudinal passant par le PRPA de la place assise.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>La distance doit être mesurée la distance entre les plans verticaux longitudinaux passant par les points milieu des places assises désignées adjacentes le long d’une ligne perpendiculaire aux plans.</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Figure 9 — Mesure de la distance entre les places assises désignées adjacentes à utiliser pour la mise à l’essai simultanée</td>
+</tr>
+</table>
 
-**d = Distance d’axe en axe entre les barres du dispositif universel d’ancrages d’attaches inférieurs pour une place assise donnée (distance nominale de 280 mm)**
-
-
-
-**D = Distance entre les plans longitudinaux verticaux situés à mi-chemin entre les barres du dispositif universel d’ancrages d’attaches inférieurs pour une place assise donnée**
-
-
-
-**PRPA = Point de référence de position assise**
-
-
-
-**Remarques :**
-
-**1. Le dessin n’est pas à l’échelle.**
-
-
-
-**2. Le point milieu de la place assise désignée se trouve dans le plan vertical longitudinal situé à égale distance entre les plans verticaux longitudinaux passant par le centre géométrique de chacune des deux barres du dispositif universel d’ancrages d’attaches inférieurs installé à la place assise. Pour les places assises désignées qui n’ont pas des barres du dispositif universel d’ancrages d’attaches inférieurs, le point milieu de la place assise désignée doit se trouver dans le plan vertical longitudinal passant par le PRPA de la place assise.**
-
-
-
-**3. La distance doit être mesurée la distance entre les plans verticaux longitudinaux passant par les points milieu des places assises désignées adjacentes le long d’une ligne perpendiculaire aux plans.**
-
-
-
-**Figure 9 — Mesure de la distance entre les places assises désignées adjacentes à utiliser pour la mise à l’essai simultanée**
-
-
+<table>
+<tr>
+<td>
 > Image: Diagramme montrant un symbole du dispositif universel d’ancrages d’attaches inférieurs avec mesures.
-Remarques :
+</td>
+</tr>
+<tr>
+<td>Remarques :</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Le dessin n’est pas à l’échelle.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>L’image symétrique du symbole peut être utilisée.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>La couleur du symbole est laissée au choix du fabricant.</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Figure 10 — Symbole du dispositif universel d’ancrages d’attaches inférieurs</td>
+</tr>
+</table>
 
-**1** Le dessin n’est pas à l’échelle.
-
-**2** L’image symétrique du symbole peut être utilisée.
-
-**3** La couleur du symbole est laissée au choix du fabricant.
-
-Figure 10 — Symbole du dispositif universel d’ancrages d’attaches inférieurs
-
-
+<table>
+<tr>
+<td>
 > Image: Diagramme montrant l’emplacement du symbole sur le dossier et le coussin du siège du véhicule avec mesures et descriptions.
-Remarques :
+</td>
+</tr>
+<tr>
+<td>Remarques :</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Le dessin n’est pas à l’échelle.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>50 mm ≤ a ≤ 100 mm.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>b = 100 mm ± 25 mm.</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Figure 11 — Emplacement du symbole sur le dossier et le coussin du siège du véhicule</td>
+</tr>
+</table>
 
-**1** Le dessin n’est pas à l’échelle.
-
-**2** 50 mm ≤ a ≤ 100 mm.
-
-**3** b = 100 mm ± 25 mm.
-
-Figure 11 — Emplacement du symbole sur le dossier et le coussin du siège du véhicule
-
-
+<table>
+<tr>
+<td>
 > Image: Diagramme montrant la largeur de la barre du dispositif universel d’ancrages d’attaches inférieurs, vue de dessus, avec mesures.
-**Remarque : Le dessin n’est pas à l’échelle.**
-
-**Figure 12 — Largeur de la barre du dispositif universel d’ancrages d’attaches inférieurs, vue de dessus**
-
+</td>
+</tr>
+<tr>
+<td>Remarque : Le dessin n’est pas à l’échelle.</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Figure 12 — Largeur de la barre du dispositif universel d’ancrages d’attaches inférieurs, vue de dessus</td>
+</tr>
+</table>
 
 > DORS/2002-205, art. 4; DORS/2003-272, art. 27; DORS/2005-342, art. 4; DORS/2006-94, art. 3 et 4(A); DORS/2008-72, art. 9; DORS/2008-104, art. 17..
 
@@ -6707,32 +6946,21 @@ Figure 11 — Emplacement du symbole sur le dossier et le coussin du siège du v
 **212** 
 
 - **(1)** Le présent article ne s’applique pas
-	- **a)** aux véhicules d’un PNBV supérieur à 4 536 kg (10 000 lb); ou
+	- **a)** aux camions, véhicules de tourisme à usages multiples et autobus d’un PNBV supérieur à 4 536 kg;
 	- **b)** aux véhicules à cabine avancée, aux fourgons à accès en position debout ou aux véhicules de type ouvert à pare-brise rabattable ou amovible.
 
-- **(2)** Lorsqu’un véhicule, préparé et chargé selon les paragraphes (5) à (7), qui avance en ligne droite à une vitesse d’au plus 48 km/h (30 mi/h), percute une barrière fixe pour essais de collision perpendiculaire à son axe de déplacement, le cadre de son pare-brise doit, lorsqu’il est mis à l’essai conformément au paragraphe (8), retenir au moins la périphérie de pare-brise minimale prévue aux paragraphes (3) ou (4).
+- **(2)** Tout véhicule auquel le présent article s’applique doit être mis à l’essai de la façon suivante :
+	- **a)** en se déplaçant longitudinalement vers l’avant à une vitesse d’au plus 48 km/h, il heurte une barrière fixe pour essais de collision formant un angle de 90° ± 5° avec son axe de déplacement;
+	- **b)** la mise à l’essai est effectuée conformément aux exigences prévues aux alinéas 208(23)a) et c).
 
-- **(3)** Pour l’application du paragraphe (2), tout véhicule qui satisfait aux exigences de l’article 208 et qui est muni, à une place assise désignée avant, d’un sac gonflable doit retenir au moins 50 pour cent de la périphérie du pare-brise, de chaque côté de l’axe longitudinal du véhicule.
+- **(3)** Lors de la mise à l’essai visée au paragraphe (2), le véhicule doit retenir :
+	- **a)** s’il est muni d’un sac gonflable à une place assise désignée avant, au moins 50 % de la périphérie du pare-brise, de chaque côté de l’axe longitudinal du véhicule;
+	- **b)** s’il n’est pas muni d’un sac gonflable à une place assise désignée avant, au moins 75 % de la périphérie du pare-brise.
 
-- **(4)** Pour l’application du paragraphe (2), tout véhicule qui satisfait aux exigences de l’article 208, mais qui n’est pas muni, à une place assise désignée avant, d’un sac gonflable doit retenir au moins 75 pour cent de la périphérie du pare-brise.
+- **(4)** La mise à l’essai visée au paragraphe (2) doit être effectuée sur le cadre du pare-brise et toutes les pièces du véhicule en contact direct avec le cadre, à une température qui est d’au moins –9 °C mais d’au plus 43 °C.
 
-- **(5)** Une voiture de tourisme dont le circuit d’alimentation est rempli conformément au paragraphe (6), doit être chargée de façon que sa masse soit égale à sa masse sans charge, appareils et instruments d’essai compris, et
-	- **a)** la masse du chargement de marchandises et de bagages doit être assujettie dans le compartiment à bagages; et
-	- **b)** les dispositifs anthropomorphes d’essai dont le nombre est prévu à l’alinéa (7)a), doivent être retenus seulement par les dispositifs de protection installés à leurs places assises.
-
-- **(5.1)** La masse d’un véhicule de tourisme à usages multiples, d’un camion ou d’un autobus, les appareils et instruments d’essai étant compris et le réservoir de carburant étant rempli conformément au paragraphe (6), doit être égale à la masse du véhicule sans charge ou à 2 500 kg (5 500 lb), soit la moindre de ces deux masses, abstraction faite de la masse de tout accessoire effectuant un travail, et il doit être ajouté à la charge :
-	- **a)** la masse nominale du chargement de marchandises et de bagages du véhicule ou 140 kg (300 lb), soit la moindre de ces deux masses, assujettie au véhicule et répartie de façon que la masse sur chaque essieu, mesurée au point de contact pneu-sol, soit proportionnelle au PNBE, sauf que si dans un véhicule dont la masse est égale à la masse du véhicule sans charge plus celle des dispositifs anthropomorphes d’essai, la masse supportée par un essieu est supérieure à la masse d’essai proportionnelle, la masse excédentaire doit être répartie de façon à corriger la situation; et
-	- **b)** le nombre de dispositifs anthropomorphes d’essai prescrit à l’alinéa (7)a), retenus seulement par les dispositifs de protection installés à leurs places assises.
-
-- **(6)** Le réservoir du carburant du véhicule visé au paragraphe (5) doit être rempli dans une proportion de 90 à 95 pour cent de solvant Stoddard ayant les propriétés physiques et chimiques d’un solvant de type 1 selon le tableau 1 de la norme D484-71 de la American Society for Testing and Materials intitulée « Standard Specifications for Hydrocarbon Dry Cleaning Solvents ».
-
-- **(7)** Pour l’essai visé au paragraphe (2),
-	- **a)** un dispositif anthropomorphe d’essai représentant le 50<sup>e</sup> percentile adulte de sexe masculin doit être placé à chaque place assise désignée « extérieur–avant » et aux autres places assises dont le système de protection doit être mis à l’essai conformément à la disposition de l’article 208 ayant trait à la protection contre les collisions frontales;
-	- **b)** le frein de stationnement doit être desserré et la boîte de vitesses doit être au point mort; et
-	- **c)** les pneus doivent être gonglés à la pression indiquée par le fabricant.
-
-- **(8)** Pour l’essai visé au paragraphe (2), la température du cadre du pare-brise et de tous les éléments du véhicule en contact direct avec le cadre doit se situer entre -9 °C (15 °F) et 43 °C (110 °F).
-> DORS/80-282, art. 3; DORS/82-274, art. 1; DORS/90-387, art. 2(F); DORS/93-5, art. 6; DORS/94-692, art. 2(F); DORS/95-536, art. 7(F); DORS/97-201, art. 5; DORS/97-421, art. 17 et 22(F); DORS/2003-57, art. 2; DORS/2008-72, art. 10(F)..
+- **(5) à (8)** [Abrogés, DORS/2009-121, art. 3]
+> DORS/80-282, art. 3; DORS/82-274, art. 1; DORS/90-387, art. 2(F); DORS/93-5, art. 6; DORS/94-692, art. 2(F); DORS/95-536, art. 7(F); DORS/97-201, art. 5; DORS/97-421, art. 17 et 22(F); DORS/2003-57, art. 2; DORS/2008-72, art. 10(F); DORS/2009-121, art. 3..
 
 
 
@@ -6870,8 +7098,6 @@ Figure 11 — Emplacement du symbole sur le dossier et le coussin du siège du v
 
 - 
 > Image: Diagramme montrant l’écart autour de la porte avec mesures et descriptions.
-FIGURE — ÉCART AUTOUR DE LA PORTE
-
 
 > DORS/82-275, art. 1; DORS/97-201, art. 3; DORS/2003-272, art. 28; DORS/2006-94, art. 4(A); DORS/2007-180, art. 17..
 
@@ -7020,42 +7246,14 @@ celle de ces deux distances qui place le plus haut ces bords inférieurs, étant
 
 - 
 > Image: Diagramme montrant la zone d’accès (force modérée) pour les issues de secours avec sièges adjacents avec mesures et descriptions.
-FIGURE 1
-
-ZONE D’ACCÈS (FORCE MODÉRÉE) POUR LES ISSUES DE SECOURS AVEC SIÈGES ADJACENTS
-
-
-
 
 > Image: Diagramme montrant la zone d’accès (grande force) pour les issues de secours avec sièges adjacents avec mesures et descriptions.
-FIGURE 2
 
-ZONE D’ACCÈS (GRANDE FORCE) POUR LES ISSUES DE SECOURS AVEC SIÈGES ADJACENTS
-
-
-
-
-> Image: Diagramme montrant une issue de secours aménagée dans le toit avec mesures et descriptions.
-
-> Image: Diagramme montrant une issue de secours latérale avec mesures et descriptions.
+> Image: Diagramme montrant une issue de secours aménagée dans le toit et une issue de secours latérale avec mesures et descriptions.
 
 > Image: Diagramme montrant une issue de secours arrière avec obstacle arrière avec mesures et descriptions.
 
-> Image: Diagramme montrant une issue de secours arrière sans obstacle arrière avec mesures et descriptions.
-FIGURE 3
-
-ZONES D’ACCÈS (FORCE MODÉRÉE ET GRANDE FORCE) POUR LES ISSUES DE SECOURS SANS SIÈGE ADJACENT
-
-
-
-
 > Image: Diagramme montrant une forme de tête avec mesures et descriptions.
-FIGURE 4
-
-FORME DE TÊTE
-
-
-
 
 > DORS/80-159, art. 1; DORS/86-978, art. 1; DORS/87-176, art. 1; DORS/92-122, art. 1; DORS/94-374, art. 5; DORS/94-692, art. 2; DORS/98-524, art. 4(F); DORS/99-215, art. 1(F)..
 
@@ -7066,61 +7264,51 @@ FORME DE TÊTE
 
 **219** 
 
-- **(1)** Dans le présent article,
+- **(1)** Les définitions qui suivent s’applique au présent article.
 
-***gabarit de zone protégée*** désigne un gabarit de styrofoam de type DB à cellules ouvertes, qui a les dimensions de la zone protégée; (*protected zone template*) 
+***gabarit de zone protégée*** Gabarit de styrofoam de type DB à cellules ouvertes, qui a les dimensions de la zone protégée. (*protected zone template*) 
 
-***ouverture de jour*** ou ***OJ*** désigne l’ouverture libre maximale de la surface vitrée, y compris les moulures d’encadrement ou de décoration adjacentes, mesurée parallèlement à la surface extérieure du vitrage; (*daylight opening*or*DLO*) 
+***ouverture de jour*** ou ***OJ*** L’ouverture libre maximale de la surface vitrée, y compris les moulures d’encadrement ou de décoration adjacentes, mesurée parallèlement à la surface extérieure du vitrage. (*daylight opening*ou*DLO*) 
 
-***zone protégée*** désigne l’espace illustré à la Figure 1 du présent article et délimité conformément au paragraphe (5). (*protected zone*) 
+***zone protégée*** L’espace illustré à la figure du présent article et délimité conformément au paragraphe (6). (*protected zone*) 
 
 - **(2)** Le présent article ne s’applique pas aux véhicules suivants :
-	- **a)** les véhicules ayant un PNBV de plus de 4 536 kg;
+	- **a)** aux camions, véhicules de tourisme à usages multiples et autobus d’un PNBV supérieur à 4 536 kg;
 	- **b)** les véhicules de type à commande avancée, les fourgons à accès en position debout et les véhicules de type ouvert pourvus d’un pare-brise rabattable ou amovible.
 
-- **(3)** Lorsqu’un véhicule préparé conformément au paragraphe (6) et se déplaçant longitudinalement vers l’avant à une vitesse d’au plus 48 km/h (30 mi/h), heurte une barrière de collision fixe et perpendiculaire à sa ligne de déplacement, aucune de ses parties extérieures à l’habitacle, à l’exception des moulures du pare-brise ou autres composantes conçues pour être normalement en contact avec le pare-brise, ne doit pas pénétrer :
-	- **a)** soit le gabarit de zone protégée jusqu’à une profondeur supérieure à 6 mm (1/4 po);
-	- **b)** soit la surface interne de la partie du pare-brise qui se trouve dans l’OJ, au-dessous de la zone protégée.
+- **(3)** Tout véhicule auquel le présent article s’applique doit être mis à l’essai de la façon suivante :
+	- **a)** en se déplaçant longitudinalement vers l’avant à une vitesse d’au plus 48 km/h, il heurte une barrière fixe pour essais de collision formant un angle de 90° ± 5° avec son axe de déplacement;
+	- **b)** la mise à l’essai est effectuée conformément aux exigences prévues aux alinéas 208(23)a) et c).
 
-- **(4)** Le bord inférieur de la zone protégée illustré à la Figure 1 du présent article est déterminé de la manière suivante :
-	- **a)** placer une sphère rigide qui a un diamètre de 165 mm (6,5 po) et une masse de 6,8 kg (15 lb) de telle manière qu’elle touche à la fois la surface intérieure du vitrage du pare-brise et la surface du tableau de bord, y compris toute matelassure; si des commandes de direction ou d’autres accessoires ou dispositifs empêchent cette mise en place de la sphère, on peut les enlever pendant qu’on fait le travail;
-	- **b)** tirer la ligne des points où la sphère, déplacée d’un côté à l’autre du tableau de bord, entre en contact avec la surface intérieure du pare-brise, et, à partir des points limites, prolonger la ligne horizontalement jusqu’aux bords du vitrage;
-	- **c)** tirer une ligne sur la surface intérieure du pare-brise, à 13 mm (1/2 po) au-dessous de la ligne tirée conformément à l’alinéa b); et
-	- **d)** projeter longitudinalement la ligne tirée conformément à l’alinéa c) sur la surface extérieure du pare-brise; cette projection constitue le bord inférieur de la zone protégée.
+- **(4)** Lors de la mise à l’essai visée au paragraphe (3), aucune des parties extérieures à l’habitacle du véhicule, à l’exception des moulures du pare-brise ou autres composantes conçues pour être normalement en contact avec le vitrage du pare-brise, ne doit pénétrer :
+	- **a)** le gabarit de la zone protégée du pare-brise au-delà de 6 mm de profondeur;
+	- **b)** la surface intérieure de la partie du vitrage du pare-brise qui se trouve dans l’OJ, au-dessous de la zone protégée du pare-brise.
 
-- **(5)** La zone protégée illustrée à la Figure 1 du présent article est l’espace délimité par
-	- **a)** la surface extérieure du pare-brise;
-	- **b)** le lieu des points extérieurs des perpendiculaires menées de chaque point de la surface extérieure du pare-brise, ces points extérieurs étant situés à 76 mm (3 po) de cette dernière; et
-	- **c)** le lieu des lignes formant un angle de 45 degrés avec la surface extérieure du pare-brise en chaque point des bords supérieurs et latéraux de cette dernière et en chaque point du bord inférieur de la zone protégée déterminé selon le paragraphe (4), dans le plan perpendiculaire au bord en ce point.
+- **(5)** La limite inférieure de la zone protégée du pare-brise illustrée à la figure du présent article est déterminée de la manière suivante :
+	- **a)** une sphère rigide d’un diamètre de 165 mm et d’une masse de 6,8 kg est placée de manière à toucher à la fois la surface intérieure du vitrage du pare-brise et la surface du tableau de bord, y compris tout rembourrage; si les commandes de direction ou les autres accessoires et dispositifs empêchent la mise en place de la sphère, ils peuvent être enlevés pendant celle-ci;
+	- **b)** la ligne des points où la sphère, déplacée d’un côté à l’autre du tableau de bord, entre en contact avec la surface intérieure du vitrage du pare-brise est tirée et, à partir des points de contact les plus à l’extérieur, la ligne est prolongée horizontalement jusqu’aux bords du vitrage;
+	- **c)** une ligne sur la surface intérieure du vitrage du pare-brise est tirée à 13 mm au-dessous de la ligne tirée conformément à l’alinéa b);
+	- **d)** la ligne tirée conformément à l’alinéa c) est projetée longitudinalement sur la surface extérieure du vitrage du pare-brise, cette projection constituant la limite inférieure de la zone protégée du pare-brise.
 
-- **(6)** Avant la collision visée au paragraphe (3), le véhicule doit être chargé conformément au paragraphe (7) ou (8), et préparé de telle manière
-	- **a)** que le gabarit de la zone protégée soit attaché au pare-brise de façon à délimiter la zone protégée et à ne pas se détacher au cours de l’essai de collision;
-	- **b)** que le capot, les attaches du capot et tout autre élément de fixation de ce dernier soient en prise;
-	- **c)** que les dessus de capot réglables ou les autres panneaux réglables placés à l’avant du pare-brise soient dans la position normale de conduite lorsque les essuie-glace ne fonctionnent pas;
-	- **d)** que le frein de stationnement soit desserré et que la boîte de vitesses soit au point mort;
-	- **e)** que les pneus soient gonflés à la pression indiquée par le fabricant du véhicule; et
-	- **f)** que le réservoir de carburant soit rempli de 90 à 95 pour cent de sa capacité de solvant Stoddard, ayant les propriétés physiques et chimiques d’un solvant de type 1 exposées au tableau 1 de la norme D.484-71 de l’American Society for Testing and Materials, intitulée « Standards Specification for Hydrocarbon Dry Cleaning Solvents ».
+- **(6)** La zone protégée du pare-brise illustrée à la figure du présent article correspond à l’espace délimité par les éléments suivants :
+	- **a)** la surface extérieure du vitrage du pare-brise;
+	- **b)** le lieu des points extérieurs des perpendiculaires menées de chaque point de la surface extérieure du vitrage du pare-brise, ces points extérieurs étant situés à 76 mm de cette dernière;
+	- **c)** le lieu des lignes formant un angle de 45° avec la surface extérieure du vitrage du pare-brise à chaque point le long des bords supérieurs et latéraux de cette dernière et à chaque point de la limite inférieure de la zone protégée du pare-brise qui est déterminée selon le paragraphe (5), dans le plan perpendiculaire au bord en ce point.
 
-- **(7)** Aux fins du paragraphe (6), la masse d’une voiture de tourisme, les appareils et instruments d’essai étant compris et le réservoir de carburant étant rempli conformément à l’alinéa (6)f), doit être égale à la masse du véhicule sans charge, et il doit être ajouté à la charge :
-	- **a)** la masse nominale du chargement de marchandises et de bagages du véhicule, assujettie dans le compartiment à bagages; et
-	- **b)** le nombre de dispositifs anthropomorphes d’essai prescrit au paragraphe (9), retenus uniquement par les attaches installées dans le véhicule pour la protection des occupants.
-
-- **(8)** Aux fins du paragraphe (6), la masse d’un véhicule de tourisme à usages multiples, d’un camion ou d’un autobus, les appareils et instruments d’essai étant compris et le réservoir de carburant étant rempli conformément à l’alinéa (6)f), doit être égale à la masse du véhicule sans charge ou à 2 500 kg (5 500 lb), soit la moindre de ces deux masses, abstraction faite de la masse de tout accessoire effectuant un travail, et il doit être ajouté à la charge :
-	- **a)** la masse nominale du chargement de marchandises et de bagages du véhicule ou 140 kg (300 lb), soit la moindre de ces deux masses, assujettie au véhicule et répartie de façon que la masse sur chaque essieu, mesurée au point de contact pneu-sol, soit proportionnelle au PNBE, sauf que si la masse sur l’un des essieux, dans le cas où la masse du véhicule correspond à la masse du véhicule sans charge plus celle des dispositifs anthropomorphes d’essai, excède la proportion de la masse d’essai que devrait normalement supporter cet essieu, la charge excédentaire doit être répartie de façon à corriger la situation; et
-	- **b)** le nombre de dispositifs anthropomorphes d’essai prescrit au paragraphe (9), retenus uniquement par les dispositifs installés dans le véhicule pour la protection des occupants.
-
-- **(9)** Un dispositif anthropomorphe d’essai représentant un 50<sup>e</sup> percentile adulte de sexe masculin doit être installé à chaque place assise désignée extérieure avant et à toute autre place dont le système de protection doit être mis à l’épreuve au moyen d’un tel dispositif en vertu de l’article 208 de la présente annexe.
+- **(7)** Pour l’application du paragraphe (6), l’expression « surface extérieure du vitrage du pare-brise » s’entend de sa configuration avant la mise à l’essai visée au paragraphe (3).
 
 - 
+<table>
+<tr>
+<td>
 > Image: Diagramme montrant la zone protégée du pare-brise avec mesures et descriptions.
-FIGURE 1
+Remarque : Le dessin n’est pas à l’échelle
 
-ZONE PROTÉGÉE DU PARE-BRISE
+</td>
+</tr>
+</table>
 
-
-
-
-> DORS/81-665, art. 2; DORS/97-201, art. 4; DORS/97-421, art. 17 et 22(F); DORS/2008-72, art. 12(F)..
+> DORS/81-665, art. 2; DORS/97-201, art. 4; DORS/97-421, art. 17 et 22(F); DORS/2008-72, art. 12(F); DORS/2009-121, art. 4..
 
 
 
@@ -7271,12 +7459,6 @@ ne doit pas dépasser 1 000, « a » étant l’accélération axiale exprim�
 
 - 
 > Image: Diagramme montrant la force/zone de déformation.
-FIGURE 1
-
-FORCE/ZONE DE DÉFORMATION
-
-
-
 
 > DORS/80-161, art. 4; DORS/86-453, art. 3; DORS/91-593, art. 1..
 
@@ -7368,29 +7550,71 @@ FORCE/ZONE DE DÉFORMATION
 	- **c)** avoir une garde au sol d’au plus 560 mm, mesurée à chaque support auquel la pièce horizontale est fixée, comme l’indique la figure 3, après que l’essai d’absorption d’énergie est terminé ou, si cet essai n’est pas exigé, après que l’essai de charge uniforme est terminé.
 
 - 
+<table>
+<tr>
+<td>
 > Image: Diagramme montrant une vue latérale de la remorque avec mesures et descriptions.
-Remarque :
+</td>
+</tr>
+<tr>
+<td>Remarque :</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Le dessin n’est pas à l’échelle.</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Figure 1 — Vue latérale de la remorque</td>
+</tr>
+</table>
 
-**1** Le dessin n’est pas à l’échelle.
-
-Figure 1 — Vue latérale de la remorque
-
-
+<table>
+<tr>
+<td>
 > Image: Diagramme montrant une vue arrière de la remorque avec mesures et descriptions.
-Remarque :
+</td>
+</tr>
+<tr>
+<td>Remarque :</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Le dessin n’est pas à l’échelle.</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Figure 2 — Vue arrière de la remorque</td>
+</tr>
+</table>
 
-**1** Le dessin n’est pas à l’échelle.
-
-Figure 2 — Vue arrière de la remorque
-
-
+<table>
+<tr>
+<td>
 > Image: Diagramme montrant l’application d’une charge d’essai avec descriptions.
-Remarque :
-
-**1** Le dessin n’est pas à l’échelle.
-
-Figure 3 — Application d’une charge d’essai
-
+</td>
+</tr>
+<tr>
+<td>Remarque :</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Le dessin n’est pas à l’échelle.</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Figure 3 — Application d’une charge d’essai</td>
+</tr>
+</table>
 
 > DORS/2004-195, art. 2; DORS/2008-104, art. 19..
 
@@ -7630,29 +7854,59 @@ où :
 - **(7)** Les tricycles à moteur construits avant le 1<sup>er</sup> septembre 2004 n’ont pas à être conformes au présent article.
 
 - 
+<table>
+<tr>
+<td>
 > Image: Diagramme montrant une vue de côté d’un tricycle à moteur avec mesures et descriptions.
-Légende
+</td>
+</tr>
+<tr>
+<td>Légende</td>
+</tr>
+<tr>
+<td>h est la hauteur du centre de masse,</td>
+</tr>
+<tr>
+<td>L est la distance longitudinale qui sépare le centre de masse du centre de l’essieu avant,</td>
+</tr>
+<tr>
+<td>W est l’empattement.</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Figure 1 — Vue de côté</td>
+</tr>
+</table>
 
-h est la hauteur du centre de masse,
-
-L est la distance longitudinale qui sépare le centre de masse du centre de l’essieu avant,
-
-W est l’empattement.
-
-Figure 1 — Vue de côté
-
-
+<table>
+<tr>
+<td>
 > Image: Diagramme montrant une vue de dessus d’un tricycle à moteur avec mesures et descriptions.
-Légende
-
-d est la distance horizontale entre le centre de masse et l’axe de roulis le plus proche,
-
-t est la distance entre les deux pneus sur l’essieu avant ou arrière,
-
-W est l’empattement.
-
-Figure 2 — Vue de dessus
-
+</td>
+</tr>
+<tr>
+<td>Légende</td>
+</tr>
+<tr>
+<td>d est la distance horizontale entre le centre de masse et l’axe de roulis le plus proche,</td>
+</tr>
+<tr>
+<td>t est la distance entre les deux pneus sur l’essieu avant ou arrière,</td>
+</tr>
+<tr>
+<td>W est l’empattement.</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Figure 2 — Vue de dessus</td>
+</tr>
+</table>
 
 > DORS/2003-272, art. 33; DORS/2007-180, art. 20..
 
