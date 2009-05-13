@@ -1972,7 +1972,7 @@ Issued in Ottawa on _________________________, 20_________________________
 </tr>
 <tr>
 <td>203</td>
-<td>Driver Impact Protection</td>
+<td>Driver Impact Protection and Steering Control System</td>
 <td>X</td>
 <td></td>
 <td></td>
@@ -2736,7 +2736,7 @@ Issued in Ottawa on _________________________, 20_________________________
 </tr>
 </table>
 
-> SOR/78-80, s. 1; SOR/78-910, s. 1(F); SOR/79-305, s. 1; SOR/79-306, s. 2; SOR/79-339, s. 2; SOR/79-340, s. 2; SOR/79-374, s. 2; SOR/79-677, s. 2; SOR/79-940, s. 5; SOR/80-160, s. 1; SOR/80-161, s. 2; SOR/80-282, s. 2; SOR/80-439, s. 2; SOR/80-639, s. 1(F); SOR/81-88, s. 2; SOR/81-665, s. 1; SOR/82-656, s. 2; SOR/82-753, s. 2; SOR/82-754, s. 2; SOR/83-138, s. 1; SOR/84-812, s. 2; SOR/86-682, s. 1; SOR/86-683, s. 2; SOR/86-975, s. 1; SOR/87-658, s. 1; SOR/87-660, s. 3; SOR/88-268, s. 4; SOR/89-384, ss. 2(F), 3 to 5; SOR/90-805, s. 4; SOR/91-425, s. 3; SOR/92-173, s. 5. SOR/92-250, s. 2(F); SOR/92-545, s. 2(F);SOR/93-31, s. 2; SOR/93-146, s. 3; SOR/93-561, s. 2; SOR/94-291, s. 2; SOR/94-669, s. 2; SOR/95-60, s. 1; SOR/95-147, ss. 5, 15(F); SOR/95-164, s. 2; SOR/96-89, s. 1; SOR/96-366, s. 4; SOR/96-437, s. 1; SOR/97-14, s. 1; SOR/97-141, s. 3; SOR/97-200, s. 2; SOR/97-201, s. 2; SOR/97-376, s. 4; SOR/97-421, s. 2; SOR/97-463, s. 1; SOR/97-532, ss. 1, 2; SOR/98-160, s. 2; SOR/98-457, s. 2; SOR/98-595, s. 1; SOR/99-357, s. 2; SOR/2000-182, s. 4; SOR/2000-304, s. 4; SOR/2001-35, ss. 2, 3; SOR/2001-353, s. 1; SOR/2001-486, s. 1; SOR/2002-55, s. 12; SOR/2002-205, s. 2; SOR/2003-272, s. 6; SOR/2003-359, ss. 1 to 3; SOR/2004-195, s. 1; SOR/2005-45, s. 2; SOR/2006-94, s. 1; SOR/2007-180, ss. 2 to 4; SOR/2007-246, s. 1; SOR/2008-73, s. 2; SOR/2008-104, ss. 7(F), 8(F); SOR/2008-229, s. 2; SOR/2008-258, ss. 5, 6; SOR/2009-33, s. 1(F).
+> SOR/78-80, s. 1; SOR/78-910, s. 1(F); SOR/79-305, s. 1; SOR/79-306, s. 2; SOR/79-339, s. 2; SOR/79-340, s. 2; SOR/79-374, s. 2; SOR/79-677, s. 2; SOR/79-940, s. 5; SOR/80-160, s. 1; SOR/80-161, s. 2; SOR/80-282, s. 2; SOR/80-439, s. 2; SOR/80-639, s. 1(F); SOR/81-88, s. 2; SOR/81-665, s. 1; SOR/82-656, s. 2; SOR/82-753, s. 2; SOR/82-754, s. 2; SOR/83-138, s. 1; SOR/84-812, s. 2; SOR/86-682, s. 1; SOR/86-683, s. 2; SOR/86-975, s. 1; SOR/87-658, s. 1; SOR/87-660, s. 3; SOR/88-268, s. 4; SOR/89-384, ss. 2(F), 3 to 5; SOR/90-805, s. 4; SOR/91-425, s. 3; SOR/92-173, s. 5. SOR/92-250, s. 2(F); SOR/92-545, s. 2(F);SOR/93-31, s. 2; SOR/93-146, s. 3; SOR/93-561, s. 2; SOR/94-291, s. 2; SOR/94-669, s. 2; SOR/95-60, s. 1; SOR/95-147, ss. 5, 15(F); SOR/95-164, s. 2; SOR/96-89, s. 1; SOR/96-366, s. 4; SOR/96-437, s. 1; SOR/97-14, s. 1; SOR/97-141, s. 3; SOR/97-200, s. 2; SOR/97-201, s. 2; SOR/97-376, s. 4; SOR/97-421, s. 2; SOR/97-463, s. 1; SOR/97-532, ss. 1, 2; SOR/98-160, s. 2; SOR/98-457, s. 2; SOR/98-595, s. 1; SOR/99-357, s. 2; SOR/2000-182, s. 4; SOR/2000-304, s. 4; SOR/2001-35, ss. 2, 3; SOR/2001-353, s. 1; SOR/2001-486, s. 1; SOR/2002-55, s. 12; SOR/2002-205, s. 2; SOR/2003-272, s. 6; SOR/2003-359, ss. 1 to 3; SOR/2004-195, s. 1; SOR/2005-45, s. 2; SOR/2006-94, s. 1; SOR/2007-180, ss. 2 to 4; SOR/2007-246, s. 1; SOR/2008-73, s. 2; SOR/2008-104, ss. 7(F), 8(F); SOR/2008-229, s. 2; SOR/2008-258, ss. 5, 6; SOR/2009-33, s. 1(F); SOR/2009-121, s. 1.
 
 
 
@@ -5442,50 +5442,30 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 
 **202** 
 
-- **(1)** In this section, ***H-point machine*** and ***H-point template*** have the same meaning as in SAE Standard J826, Devices for Use in Defining and Measuring Vehicle Seating Accommodation (July 1995).
+- **(1)** Subject to subsection (2), every multi-purpose passenger vehicle, bus or truck with a GVWR of 4 536 kg or less, every passenger car and every three-wheeled vehicle shall conform to the requirements of Technical Standards Document No. 202, Head Restraints (TSD 202), as amended from time to time.
 
-- **(2)** A head restraint shall be provided at each front outboard designated seating position in a multi-purpose passenger vehicle, bus or truck with a GVWR of 4 536 kg or less, a three-wheeled vehicle and a passenger car that
-	- **(a)** when tested during a forward acceleration of not less than 8 g on the seat supporting structure, limits rearward angular displacement of the head reference line to 45° from the torso reference line; or
-	- **(b)** when adjusted to its fully extended design position,
-		- **(i)** has an overall height of not less than 700 mm when measured perpendicularly to a line that passes through the seating reference point and is perpendicular to the torso line,
-		- **(ii)** has a lateral width of not less than 250 mm in the case of a bench-type seat or 170 mm in the case of an individual seat, when measured either 63 mm below the top of the head restraint or 635 mm above the seating reference point,
-		- **(iii)** does not allow the rearmost portion of the head form to be displaced more than 102 mm perpendicularly rearward of the extended displaced torso reference line during the application of the test load, and
-		- **(iv)** withstands an increasing load until either failure of the seat or seat back occurs or the load so increased is equal to 890 N.
+- **(2)** Until August 31, 2012, a vehicle referred to in subsection (1) may conform to the requirements of this section as it read on the day before the day on which this version of the section came into force.
 
-- **(3)** The test referred to in paragraph (2)(a) shall be carried out as follows:
-	- **(a)** the head restraint shall be in its fully extended design position;
-	- **(b)** reference lines shall be established on the exterior profile of the head and torso of a dummy or an approved equivalent test device by
-		- **(i)** positioning the dummy’s back on a horizontal flat surface with the lumbar joints in a straight line,
-		- **(ii)** rotating the head of the dummy rearward until the back of the head contacts the surface referred to in subparagraph (i),
-		- **(iii)** positioning the back of an H-point template against the surface referred to in subparagraph (i) and alongside the dummy in such a manner that the H-point of the template is aligned with the H-point of the dummy,
-		- **(iv)** establishing the torso line of the H-point template as the line parallel to the small of the back of the template and extending through the H-point,
-		- **(v)** establishing the dummy torso reference line by superimposing the torso line of the H-point template on the torso of the dummy, and
-		- **(vi)** establishing the head reference line by extending the dummy torso reference line to the head;
-	- **(c)** the dummy referred to in paragraph (b) shall have the weight and seated height of a 95th percentile adult male and an approved representation of a human articulated neck structure;
-	- **(d)** at each designated seating position having a head restraint, the dummy shall be placed in the manufacturer’s recommended design seated position and snugly restrained by a Type 1 or Type 2 seat belt assembly that meets the requirements of section 209;
-	- **(e)** a forward acceleration shall be applied to the structure supporting the seat in such a manner that, when graphically depicted, the magnitude of the acceleration curve shall not be less than that of a half-sine wave having an amplitude of 8 g and a duration of 80 milliseconds and not more than that of a half-sine wave having an amplitude of 9.6 g and a duration of 96 milliseconds; and
-	- **(f)** the maximum rearward angular displacement of the head reference line from the dummy torso reference line shall be measured.
-
-- **(4)** The test referred to in paragraph (2)(b) shall be carried out as follows:
-	- **(a)** an H-point machine with the centreline of the head-room probe in the full back position shall be placed at the manufacturer’s recommended design seated position;
-	- **(b)** the displaced torso reference line shall be established by applying a rearward moment of 373 N·m about the seating reference point to the seat back through the back pan of the test device so placed;
-	- **(c)** the back pan shall be removed and, using a 165 mm diameter spherical head form or a cylindrical head form having a 165 mm diameter in plan view and a 153 mm height in profile view, a rearward initial load shall be applied perpendicular to the displaced torso reference line and 65 mm below the top of the head restraint sufficient to produce a 373 N·m moment about the seating reference point; and
-	- **(d)** the initial load shall be gradually increased to 890 N or until the seat or seat back fails, whichever occurs first.
-> SOR/95-60, s. 2; SOR/2003-272, s. 21; SOR/2006-94, s. 4(E); SOR/2007-180, s. 11; SOR/2008-72, s. 4(F)..
+- **(3)** This section expires on March 1, 2014.
+> SOR/95-60, s. 2; SOR/2003-272, s. 21; SOR/2006-94, s. 4(E); SOR/2007-180, s. 11; SOR/2008-72, s. 4(F); SOR/2009-122, s. 1..
 
 
 
 
-### Driver Impact Protection
+### Driver Impact Protection and Steering Control System
 
 **203** 
 
-- **(1)** Subject to subsection (2), when the steering control system of a vehicle is impacted by a body block in accordance with SAE Recommended Practice J944, Steering Control System — Passenger Car — Laboratory Test Procedure (June 1980), at a relative velocity of 24.1 km/h, the impact force developed on the chest of the body block and transmitted to the steering control system shall not exceed 11.1 kN, except for intervals with a cumulative duration that does not exceed three milliseconds.
+- **(1)** The steering control system of a vehicle shall be constructed in such a manner that no component or attachment — including any horn actuating mechanism — is capable, during normal driving manoeuvres, of catching the driver’s clothing or the driver’s jewellery, such as a watch, a ring or a bracelet other than a bracelet with loosely attached or dangling members.
 
-- **(2)** Subsection (1) does not apply to vehicles that meet the frontal crash requirements of section 208 by means other than seat belt assemblies or to trucks, multi-purpose passenger vehicles or buses with a GVWR greater than 4 536 kg (10,000 pounds) or to walk-in vans.
+- **(2)** Subject to subsection (4), the steering control system of every passenger car and three-wheeled vehicle and every multi-purpose passenger vehicle, bus and truck — other than a walk-in van — with a GVWR of 4 536  kg or less shall be tested in accordance with SAE Recommended Practice J944, Steering Control System — Passenger Car — Laboratory Test Procedure (June 1980).
 
-- **(3)** The steering control system of a vehicle shall be constructed in such a manner that, during normal driving manoeuvres, no component or attachment, including any horn actuating mechanism and trim hardware, is capable of catching the clothing, watch, rings, bracelets, other than bracelets with loosely attached or dangling members, or other jewellery of the driver.
-> SOR/79-719, s. 2; SOR/83-138, s. 3; SOR/90-387, s. 3; SOR/94-291, s. 4; SOR/94-692, s. 2; SOR/97-201, s. 5; SOR/97-421, s. 17; SOR/2006-94, s. 4(E)..
+- **(3)** The following requirements with respect to the steering control system shall be met during the test referred to in subsection (2):
+	- **(a)** the system shall be impacted by a body block at a relative velocity of 24 km/h;
+	- **(b)** the impact force developed on the chest of the body block and transmitted to the system shall not exceed 11 120 N, except for intervals with a cumulative duration of not more than 3 ms.
+
+- **(4)** Subsections (2) and (3) do not apply to a vehicle that complies with the requirements set out in subsections 208(22) and (23).
+> SOR/79-719, s. 2; SOR/83-138, s. 3; SOR/90-387, s. 3; SOR/94-291, s. 4; SOR/94-692, s. 2; SOR/97-201, s. 5; SOR/97-421, s. 17; SOR/2006-94, s. 4(E); SOR/2009-121, s. 2..
 
 
 
@@ -5494,24 +5474,12 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 
 **204** 
 
-- **(1)** This section does not apply in respect of
-	- **(a)** any walk-in van; and
-	- **(b)** any truck, multi-purpose passenger vehicle or bus
-		- **(i)** with a gross vehicle weight rating that is greater than 4 536 kg, or
-		- **(ii)** with an unloaded vehicle mass that is greater than 2 500 kg.
+- **(1)** Every passenger car and three-wheeled vehicle and every multi-purpose passenger vehicle, bus and truck — other than a walk-in van — with a GVWR of 4 536 kg or less and an unloaded vehicle mass of 2 495 kg or less shall be tested
+	- **(a)** by impacting a fixed collision barrier that is at 90° ± 5° to the line of travel of the vehicle while the vehicle is travelling longitudinally forward at any speed up to and including 48 km/h; and
+	- **(b)** in accordance with the requirements set out in paragraphs 208(23)(a) and (c).
 
-- **(2)** Where, for the purpose of conducting a collision test, a vehicle is impacted perpendicularly into a fixed collision barrier at a forward longitudinal velocity of 48 km/h, the upper end of the steering column and steering shaft shall not be displaced more than 127 mm horizontally rearward parallel to the longitudinal axis of the vehicle in relation to an undisturbed point of the vehicle.
-
-- **(3)** Where a vehicle is impacted as described in subsection (2) at a forward longitudinal velocity of not less than 48 km/h and not more than 53 km/h, the displacement of the steering column and steering shaft may be adjusted to 48 km/h by multiplying the displacement by the inverse ratio of the square of the velocity.
-
-- **(4)** The test described in subsection (2) shall be carried out under the following conditions:
-	- **(a)** the weight of the vehicle including test materials equals the unloaded vehicle weight, except that the vehicle fuel tank is filled to not less than 90 per cent and not more than 95 per cent of the vehicle fuel tank capacity;
-	- **(b)** where applicable, adjustable steering controls are adjusted so that the tilting steering wheel hub is at the geometric centre of the locus it describes when it is moved through its full range of driving positions and the telescoping steering control is set at the adjustment position midway between the forwardmost and rearwardmost position;
-	- **(c)** convertible and open-body type vehicles have the top, if any, correctly in place in the configuration of a closed occupant compartment;
-	- **(d)** the doors are closed in the fully latched position but not locked;
-	- **(e)** the parking brake is disengaged and the transmission is in neutral; and
-	- **(f)** the tires are inflated to the vehicle manufacturer’s specification.
-> SOR/80-440, s. 2; SOR/83-138, s. 4; SOR/90-387, s. 1; SOR/94-692, s. 2(F); SOR/97-201, s. 5; SOR/97-421, s. 22(F); SOR/2006-94, s. 4(E); SOR/2008-72, s. 5..
+- **(2)** During the test referred to in subsection (1), the upper end of the steering column and steering shaft shall not be displaced more than 127 mm in a horizontal rearward direction parallel to the longitudinal axis of the vehicle in relation to an undisturbed point in the vehicle. The displacement shall be equivalent to the maximum dynamic movement of the upper end of the steering column and steering shaft during the test.
+> SOR/80-440, s. 2; SOR/83-138, s. 4; SOR/90-387, s. 1; SOR/94-692, s. 2(F); SOR/97-201, s. 5; SOR/97-421, s. 22(F); SOR/2006-94, s. 4(E); SOR/2008-72, s. 5; SOR/2009-121, s. 2..
 
 
 
@@ -6317,112 +6285,208 @@ Figures 8 to 11 [Repealed, SOR/2008-72, s. 8]
 
 
 > Image: Diagram showing Three-dimensional Schematic View of the Static Force Application Test Device.
-Figure 12 -- Three-dimensional Schematic View of the Static Force Application Test Device
 
-
+<table>
+<tr>
+<td>
 > Image: Diagram showing Side View, Static Force Application Test Device with measurements and descriptions.
-Notes
+</td>
+</tr>
+<tr>
+<td>Notes</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Material: 6061-T6-910 Aluminum</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Dimensions in mm, except where otherwise indicated</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Drawing not to scale</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Break all outside corners</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Figure 13 -- Side View, Static Force Application Test Device</td>
+</tr>
+</table>
 
-**1** Material: 6061-T6-910 Aluminum
-
-**2** Dimensions in mm, except where otherwise indicated
-
-**3** Drawing not to scale
-
-**4** Break all outside corners
-
-Figure 13 -- Side View, Static Force Application Test Device
-
-
+<table>
+<tr>
+<td>
 > Image: Diagram showing Plan View, Static Force Application Test Device with measurements and descriptions.
-Notes
+</td>
+</tr>
+<tr>
+<td>Notes</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Material: 6061-T6-910 Aluminum</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Dimensions in mm, except where otherwise indicated</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Drawing not to scale</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Break all outside corners and lightning hole edges approximately 1.5 mm</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Break edges of vehicle seat belt path holes at least 44 mm</td>
+</tr>
+<tr>
+<td>6</td>
+<td>“B” = approximately 0.8 mm</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Figure 14 -- Plan View, Static Force Application Test Device</td>
+</tr>
+</table>
 
-**1** Material: 6061-T6-910 Aluminum
-
-**2** Dimensions in mm, except where otherwise indicated
-
-**3** Drawing not to scale
-
-**4** Break all outside corners and lightning hole edges approximately 1.5 mm
-
-**5** Break edges of vehicle seat belt path holes at least 44 mm
-
-**6** “B” = approximately 0.8 mm
-
-Figure 14 -- Plan View, Static Force Application Test Device
-
-
+<table>
+<tr>
+<td>
 > Image: Diagram showing Front View, Static Force Application Test Device with measurements and descriptions.
-Notes
+</td>
+</tr>
+<tr>
+<td>Notes</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Material: 6061-T6-910 Aluminum</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Dimensions in mm, except where otherwise indicated</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Drawing not to scale</td>
+</tr>
+<tr>
+<td>4</td>
+<td>“B” = approximately 0.8 mm</td>
+</tr>
+<tr>
+<td>5</td>
+<td>“C” = approximately 3.2 mm</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Figure 15 -- Front View, Static Force Application Test Device</td>
+</tr>
+</table>
 
-**1** Material: 6061-T6-910 Aluminum
-
-**2** Dimensions in mm, except where otherwise indicated
-
-**3** Drawing not to scale
-
-**4** “B” = approximately 0.8 mm
-
-**5** “C” = approximately 3.2 mm
-
-Figure 15 -- Front View, Static Force Application Test Device
-
-
+<table>
+<tr>
+<td>
 > Image: Diagram showing Cross Bar, Static Force Application Test Device with measurements and descriptions.
-Notes
-
-**1** Material: Steel
-
-**2** Dimensions in mm, except where otherwise indicated
-
-**3** Drawing not to scale
-
-**4** Break all outside corners approximately 1.5 mm
-
-**5** Surfaces and edges are not to be machined unless otherwise specified for tolerance
-
-**6** Saw-cut or stock size material whenever possible
-
-**7** Construction to be securely welded
-
-Figure 16 -- Cross Bar, Static Force Application Test Device
-
+</td>
+</tr>
+<tr>
+<td>Notes</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Material: Steel</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Dimensions in mm, except where otherwise indicated</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Drawing not to scale</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Break all outside corners approximately 1.5 mm</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Surfaces and edges are not to be machined unless otherwise specified for tolerance</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Saw-cut or stock size material whenever possible</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Construction to be securely welded</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Figure 16 -- Cross Bar, Static Force Application Test Device</td>
+</tr>
+</table>
 Figures 17 and 18 [Repealed, SOR/2002-205, s. 3]
 
 Figure 19 [Repealed, SOR/2008-72, s. 8]
 
 
+<table>
+<tr>
+<td>
 > Image: Diagram showing Measurement of Distance Between Adjacent Designated Seating Positions for Use in Simultaneous Testing with measurements and descriptions.
-**Legend:**
-
-**d = centre to centre distance between the bars of a lower universal anchorage system for a given seating position (nominal distance of 280 mm)**
-
-
-
-**D = distance between vertical longitudinal planes located midway between the bars of a lower universal anchorage system for a given seating position**
-
-
-
-**SgRP = seating reference point**
-
-
-
-**Notes:**
-
-**1. Drawing not to scale**
-
-
-
-**2. The midpoint of a designated seating position lies in the vertical longitudinal plane that is equidistant from the vertical longitudinal planes through the geometric centre of each of the two bars of the lower universal anchorage system installed at the seating position. For those designated seating positions that do not have the lower universal anchorage system bars, the midpoint of a designated seating position lies in the vertical longitudinal plane that passes through the SgRP of the seating position**
-
-
-
-**3. The distance shall be measured between the vertical longitudinal planes passing through the midpoints of adjacent designated seating positions along a line perpendicular to the planes**
-
-
-
-**Figure 20 - Measurement of Distance Between Adjacent Designated Seating Positions for Use in Simultaneous Testing**
-
+</td>
+</tr>
+<tr>
+<td>**Legend:**</td>
+</tr>
+<tr>
+<td>**d = centre to centre distance between the bars of a lower universal anchorage system for a given seating position (nominal distance of 280 mm)**</td>
+</tr>
+<tr>
+<td>**D = distance between vertical longitudinal planes located midway between the bars of a lower universal anchorage system for a given seating position**</td>
+</tr>
+<tr>
+<td>**SgRP = seating reference point**</td>
+</tr>
+<tr>
+<td>**Notes:**</td>
+</tr>
+<tr>
+<td>**1. Drawing not to scale**</td>
+</tr>
+<tr>
+<td>**2. The midpoint of a designated seating position lies in the vertical longitudinal plane that is equidistant from the vertical longitudinal planes through the geometric centre of each of the two bars of the lower universal anchorage system installed at the seating position. For those designated seating positions that do not have the lower universal anchorage system bars, the midpoint of a designated seating position lies in the vertical longitudinal plane that passes through the SgRP of the seating position**</td>
+</tr>
+<tr>
+<td>**3. The distance shall be measured between the vertical longitudinal planes passing through the midpoints of adjacent designated seating positions along a line perpendicular to the planes**</td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td>**Figure 20 - Measurement of Distance Between Adjacent Designated Seating Positions for Use in Simultaneous Testing**</td>
+</tr>
+</table>
 
 > SOR/86-975, s. 2; SOR/92-545, s. 5; SOR/94-669, s. 3; SOR/95-536, s. 7; SOR/98-457, s. 3; SOR/2000-44, ss. 1 to 3; SOR/2002-205, s. 3; SOR/2003-272, s. 26; SOR/2006-94, ss. 2, 4(E); SOR/2007-180, s. 15; SOR/2008-72, s. 8..
 
@@ -6561,153 +6625,328 @@ Figure 19 [Repealed, SOR/2008-72, s. 8]
 	- **(f)** if the vehicle has more than one row of designated seating positions, a statement that children and infants are safer when properly restrained in a child restraint system or infant restraint system secured in a rear seating position.
 
 - 
+<table>
+<tr>
+<td>
 > Image: Diagram showing Lower Universal Anchorage System Positioning with measurements and description.
-Notes
-
-**1** Dimensions in mm, except where otherwise indicated
-
-**2** Drawing not to scale
-
-Figure 1 — Lower Universal Anchorage System Positioning
-
+</td>
+</tr>
+<tr>
+<td>Notes</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Dimensions in mm, except where otherwise indicated</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Drawing not to scale</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Figure 1 — Lower Universal Anchorage System Positioning</td>
+</tr>
+</table>
 
 > Image: Diagram showing Three-dimensional Schematic Views of Child Restraint Fixture.
-Figure 2 — Three-dimensional Schematic Views of Child Restraint Fixture
 
-
+<table>
+<tr>
+<td>
 > Image: Diagram showing Side, Back and Top Views of Child Restraint Fixture with measurements and description.
-Notes
+</td>
+</tr>
+<tr>
+<td>Notes</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Dimensions in mm, except where otherwise indicated</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Drawing not to scale</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Figure 3 — Side, Back and Top Views of Child Restraint Fixture</td>
+</tr>
+</table>
 
-**1** Dimensions in mm, except where otherwise indicated
-
-**2** Drawing not to scale
-
-Figure 3 — Side, Back and Top Views of Child Restraint Fixture
-
-
+<table>
+<tr>
+<td>
 > Image: Diagram showing Three-dimensional Schematic Views of Child Restraint Fixture with Side and Top Portions Removed with measurements and description.
-Notes
+</td>
+</tr>
+<tr>
+<td>Notes</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Dimensions in mm, except where otherwise indicated</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Drawing not to scale</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Figure 4 — Three-dimensional Schematic Views of Child Restraint Fixture with Side and Top Portions Removed</td>
+</tr>
+</table>
 
-**1** Dimensions in mm, except where otherwise indicated
-
-**2** Drawing not to scale
-
-Figure 4 — Three-dimensional Schematic Views of Child Restraint Fixture with Side and Top Portions Removed
-
-
+<table>
+<tr>
+<td>
 > Image: Diagram showing Rear and Side View of Checking Device for Lower Universal Anchorage System — Envelope Dimensions with measurements and description.
-Notes:
+</td>
+</tr>
+<tr>
+<td>Notes:</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Dimensions in mm, except where otherwise indicated</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Drawing not to scale</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Figure 5 — Rear and Side View of Checking Device for Lower Universal Anchorage System — Envelope Dimensions</td>
+</tr>
+</table>
 
-**1** Dimensions in mm, except where otherwise indicated
-
-**2** Drawing not to scale
-
-Figure 5 — Rear and Side View of Checking Device for Lower Universal Anchorage System — Envelope Dimensions
-
-
+<table>
+<tr>
+<td>
 > Image: Diagram showing Distance Between Rows of Designated Seating Positions with measurements.
-Legend
+</td>
+</tr>
+<tr>
+<td>Legend</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Highest point of the rear seat cushion in the vertical longitudinal plane that passes through the centre of the driver’s seat cushion, if the vehicle is equipped with front bucket seats, or through the centre of the steering wheel rim, if the vehicle is equipped with a front bench seat</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Longitudinal horizontal line tangent to point 1, extending between point 3 and point 4. The length of line 2 is defined as L<sub>CR</sub></td>
+</tr>
+<tr>
+<td>3</td>
+<td>Rearward surface of the front seat back along line 2</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Forward surface of the rear seat back along line 2</td>
+</tr>
+<tr>
+<td>5</td>
+<td>L<sub>CR</sub> - The distance between the rearward surface of the front seat back and the forward surface of the rear seat back</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Notes</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Adjustable seats are in the adjustment position midway between the forwardmost and rearmost positions and, if separately adjustable in a vertical direction, are at the lowest position. If an adjustment position does not exist midway between the forwardmost and rearmost positions, the closest adjustment position to the rear of the midpoint is used.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Place adjustable seat backs in the nominal design riding position as recommended by the manufacturer, in the manner specified by the manufacturer. Place adjustable anchorages in the nominal design riding position recommended by the manufacturer for a 50th percentile adult male occupant. Place each adjustable head restraint in its highest adjustment position. Adjustable lumbar supports are positioned so that the lumbar support is in its least firm adjustment position.</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Figure 6 — Distance Between Rows of Designated Seating Positions</td>
+</tr>
+</table>
 
-**1** Highest point of the rear seat cushion in the vertical longitudinal plane that passes through the centre of the driver’s seat cushion, if the vehicle is equipped with front bucket seats, or through the centre of the steering wheel rim, if the vehicle is equipped with a front bench seat
-
-**2** Longitudinal horizontal line tangent to point 1, extending between point 3 and point 4. The length of line 2 is defined as L<sub>CR</sub>
-
-**3** Rearward surface of the front seat back along line 2
-
-**4** Forward surface of the rear seat back along line 2
-
-**5** L<sub>CR</sub> - The distance between the rearward surface of the front seat back and the forward surface of the rear seat back
-
-Notes
-
-**1** Adjustable seats are in the adjustment position midway between the forwardmost and rearmost positions and, if separately adjustable in a vertical direction, are at the lowest position. If an adjustment position does not exist midway between the forwardmost and rearmost positions, the closest adjustment position to the rear of the midpoint is used.
-
-**2** Place adjustable seat backs in the nominal design riding position as recommended by the manufacturer, in the manner specified by the manufacturer. Place adjustable anchorages in the nominal design riding position recommended by the manufacturer for a 50th percentile adult male occupant. Place each adjustable head restraint in its highest adjustment position. Adjustable lumbar supports are positioned so that the lumbar support is in its least firm adjustment position.
-
-Figure 6 — Distance Between Rows of Designated Seating Positions
-
-
+<table>
+<tr>
+<td>
 > Image: Diagram showing Side, Back and Bottom View of the Static Force Application Test Device for Strength Requirements Test with measurements and descriptions.
-Notes
-
-**1** Dimensions in mm, except where otherwise indicated.
-
-**2** Drawing not to scale.
-
-**3** Material: Unless otherwise indicated, steel, mild steel rectangular tubing 50 mm by 75 mm of 3 mm nominal thickness, with 6 mm thick force application test device attachment point plate.
-
-**4** Securely welded construction.
-
-**5** Pin dimensions: overall height: 16 mm; small diameter height: 6.75 mm; large diameter: 10 mm; small diameter: 8 mm.
-
-Figure 7 — Side, Back and Bottom View of the Static Force Application Test Device for Strength Requirements Test
-
+</td>
+</tr>
+<tr>
+<td>Notes</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Dimensions in mm, except where otherwise indicated.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Drawing not to scale.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Material: Unless otherwise indicated, steel, mild steel rectangular tubing 50 mm by 75 mm of 3 mm nominal thickness, with 6 mm thick force application test device attachment point plate.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Securely welded construction.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Pin dimensions: overall height: 16 mm; small diameter height: 6.75 mm; large diameter: 10 mm; small diameter: 8 mm.</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Figure 7 — Side, Back and Bottom View of the Static Force Application Test Device for Strength Requirements Test</td>
+</tr>
+</table>
 
 > Image: Diagram showing Three-dimensional Schematic Views of the Static Force Application Test Device for Strength Requirements Test.
-Figure 8 — Three-dimensional Schematic Views of the Static Force Application Test Device for Strength Requirements Test
 
-
+<table>
+<tr>
+<td>
 > Image: Diagram showing Measurement of Distance Between Adjacent Designated Seating Positions for Use in Simultaneous Testing with measurements and descriptions.
-**Legend:**
+</td>
+</tr>
+<tr>
+<td>Legend:</td>
+</tr>
+<tr>
+<td>d = centre to centre distance between the bars of a lower universal anchorage system for a given seating position (nominal distance of 280 mm)</td>
+</tr>
+<tr>
+<td>D = distance between vertical longitudinal planes located midway between the bars of a lower universal anchorage system for a given seating position</td>
+</tr>
+<tr>
+<td>SgRP = seating reference point</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Notes:</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Drawing not to scale</td>
+</tr>
+<tr>
+<td>2</td>
+<td>The midpoint of a designated seating position lies in the vertical longitudinal plane that is equidistant from the vertical longitudinal planes through the geometric centre of each of the two bars of the lower universal anchorage system installed at the seating position. For those designated seating positions that do not have the lower universal anchorage system bars, the midpoint of a designated seating position lies in the vertical longitudinal plane that passes through the SgRP of the seating position</td>
+</tr>
+<tr>
+<td>3</td>
+<td>The distance shall be measured between the vertical longitudinal planes passing through the midpoints of adjacent designated seating positions along a line perpendicular to the planes</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Figure 9 - Measurement of Distance Between Adjacent Designated Seating Positions for Use in Simultaneous Testing</td>
+</tr>
+</table>
 
-**d = centre to centre distance between the bars of a lower universal anchorage system for a given seating position (nominal distance of 280 mm)**
-
-
-
-**D = distance between vertical longitudinal planes located midway between the bars of a lower universal anchorage system for a given seating position**
-
-
-
-**SgRP = seating reference point**
-
-
-
-**Notes:**
-
-**1. Drawing not to scale**
-
-
-
-**2. The midpoint of a designated seating position lies in the vertical longitudinal plane that is equidistant from the vertical longitudinal planes through the geometric centre of each of the two bars of the lower universal anchorage system installed at the seating position. For those designated seating positions that do not have the lower universal anchorage system bars, the midpoint of a designated seating position lies in the vertical longitudinal plane that passes through the SgRP of the seating position**
-
-
-
-**3. The distance shall be measured between the vertical longitudinal planes passing through the midpoints of adjacent designated seating positions along a line perpendicular to the planes**
-
-
-
-**Figure 9 - Measurement of Distance Between Adjacent Designated Seating Positions for Use in Simultaneous Testing**
-
-
+<table>
+<tr>
+<td>
 > Image: Diagram showing Lower Universal Anchorage System Symbol with measurements.
-Notes
+</td>
+</tr>
+<tr>
+<td>Notes</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Drawing not to scale.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Symbol may be shown in mirror image.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Colour of the symbol at choice of manufacturer.</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Figure 10 — Lower Universal Anchorage System Symbol</td>
+</tr>
+</table>
 
-**1** Drawing not to scale.
-
-**2** Symbol may be shown in mirror image.
-
-**3** Colour of the symbol at choice of manufacturer.
-
-Figure 10 — Lower Universal Anchorage System Symbol
-
-
+<table>
+<tr>
+<td>
 > Image: Diagram showing Placement of Symbol on the Seat Back and Seat Cushion of a Vehicle with measurements and descriptions.
-Notes
+</td>
+</tr>
+<tr>
+<td>Notes</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Drawing not to scale.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>50 mm ≤ a ≤ 100 mm.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>b = 100 mm ± 25 mm.</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Figure 11 — Placement of Symbol on the Seat Back and Seat Cushion of a Vehicle</td>
+</tr>
+</table>
 
-**1** Drawing not to scale.
-
-**2** 50 mm ≤ a ≤ 100 mm.
-
-**3** b = 100 mm ± 25 mm.
-
-Figure 11 — Placement of Symbol on the Seat Back and Seat Cushion of a Vehicle
-
-
+<table>
+<tr>
+<td>
 > Image: Diagram showing Width of Lower Universal Anchorage Bar, Top View with measurement.
-**Note: Drawing not to scale**
-
-**Figure 12 — Width of Lower Universal Anchorage Bar, Top View**
-
+</td>
+</tr>
+<tr>
+<td>Note: Drawing not to scale</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Figure 12 — Width of Lower Universal Anchorage Bar, Top View</td>
+</tr>
+</table>
 
 > SOR/2002-205, s. 4; SOR/2003-272, s. 27; SOR/2005-342, s. 4; SOR/2006-94, ss. 3, 4(E); SOR/2008-72, s. 9; SOR/2008-104, s. 17..
 
@@ -6722,32 +6961,21 @@ Figure 11 — Placement of Symbol on the Seat Back and Seat Cushion of a Vehicle
 **212** 
 
 - **(1)** This section does not apply to
-	- **(a)** any vehicle with a GVWR in excess of 4 536 kg (10,000 lbs.); or
+	- **(a)** a truck, multi-purpose passenger vehicle or bus with a GVWR greater than 4 536  kg; or
 	- **(b)** forward control configuration vehicles, walk-in vans or open-body type vehicles with fold down or removable windshields.
 
-- **(2)** When a vehicle, prepared and loaded in accordance with subsections (5) to (7), travelling longitudinally forward at any speed up to and including 48 km/h (30 mph), impacts a fixed collision barrier perpendicular to the line of travel of the vehicle, the windshield mounting of the vehicle shall, when tested in accordance with subsection (8), retain not less than the minimum portion of the windshield periphery specified in subsection (3) or (4), whichever is applicable.
+- **(2)** A vehicle to which this section applies shall be tested
+	- **(a)** by impacting a fixed collision barrier that is at 90° ± 5° to the line of travel of the vehicle while the vehicle is travelling longitudinally forward at any speed up to and including 48 km/h; and
+	- **(b)** in accordance with the requirements set out in paragraphs 208(23)(a) and (c).
 
-- **(3)** For the purposes of subsection (2), a vehicle that meets the requirements of section 208 and is equipped with an air bag at a front designated seating position shall retain not less than 50 per cent of the windshield periphery on each side of the vehicle longitudinal centre line.
+- **(3)** During the test referred to in subsection (2), the vehicle shall retain
+	- **(a)** not less than 50 per cent of the windshield periphery on each side of the vehicle longitudinal centre line, if equipped with an air bag at a front designated seating position; and
+	- **(b)** not less than 75 per cent of the windshield periphery, if not equipped with an air bag at a front designated seating position.
 
-- **(4)** For the purposes of subsection (2), a vehicle that meets the requirements of section 208 but is not equipped with an air bag at a front designated seating position shall retain not less than 75 per cent of the windshield periphery.
+- **(4)** The test referred to in subsection (2) shall be conducted on the windshield mounting material and on all vehicle components in direct contact with the mounting material at a temperature that is not less than –9°C and not more than 43°C.
 
-- **(5)** A passenger car shall be loaded to its unloaded vehicle mass, which shall include the test devices and instrumentation mass, except for the fuel system, which shall be filled as specified in subsection (6) and, in addition, the vehicle shall have
-	- **(a)** the vehicle cargo and luggage capacity mass secured in the luggage area; and
-	- **(b)** the appropriate number of anthropomorphic test devices, as specified in paragraph (7)(a), restrained only by means that are installed in the vehicle for protection at their seating positions.
-
-- **(5.1)** A multi-purpose passenger vehicle, truck or bus, with the test devices and instrumentation included in its unloaded vehicle mass and the fuel tank filled as specified in subsection (6), shall be loaded to its unloaded vehicle mass or 2 500 kg (5,500 lbs), whichever is the lesser, except that the mass shall not include the mass of any work-performing accessories but the following shall be added to the load:
-	- **(a)** the vehicle rated cargo and luggage capacity mass or 140 kg (300 lbs), whichever is the lesser, secured to the vehicle and distributed so that the mass on each axle as measured at the tire-ground interface is in proportion to its GAWR, except that if the mass on any axle when the vehicle is loaded to its unloaded vehicle mass plus the anthropomorphic test device mass exceeds the axle’s proportional share of the test mass, the remaining mass shall be placed so that the mass on that axle remains the same; and
-	- **(b)** the appropriate number of anthropomorphic test devices, as specified in paragraph (7)(a), restrained only by means that are installed in the vehicle for protection at their seating positions.
-
-- **(6)** The fuel tank of a vehicle referred to in subsection (5) shall be filled to any level from 90 to 95 per cent of capacity with Stoddard solvent, having the physical and chemical properties of type 1 solvent, Table 1 American Society for Testing and Materials Standard D484-71, Standard Specifications for Hydrocarbon Dry Cleaning Solvents.
-
-- **(7)** For the purposes of subsection (2),
-	- **(a)** a 50th percentile adult male anthropomorphic test device shall be provided at each front outboard seating position and at any other seating position whose protection system is required to be tested using an anthropomorphic test device under the frontal impact protection provision of section 208;
-	- **(b)** the parking brake shall be disengaged and the transmission shall be in neutral; and
-	- **(c)** the tires shall be inflated to the manufacturer’s specifications.
-
-- **(8)** For the purposes of subsection (2), the test shall be conducted on the windshield mounting material and all vehicle components in direct contact with the mounting material at any temperature between -9°C (15°F) and 43°C (110°F).
-> SOR/80-282, s. 3; SOR/82-274, s. 1; SOR/90-387, s. 2(F); SOR/93-5, s. 6; SOR/94-692, s. 2(F); SOR/95-536, s. 7(F); SOR/97-201, s. 5; SOR/97-421, ss. 17, 22(F); SOR/2003-57, s. 2; SOR/2008-72, s. 10(F)..
+- **(5) to (8)** [Repealed, SOR/2009-121, s. 3]
+> SOR/80-282, s. 3; SOR/82-274, s. 1; SOR/90-387, s. 2(F); SOR/93-5, s. 6; SOR/94-692, s. 2(F); SOR/95-536, s. 7(F); SOR/97-201, s. 5; SOR/97-421, ss. 17, 22(F); SOR/2003-57, s. 2; SOR/2008-72, s. 10(F); SOR/2009-121, s. 3..
 
 
 
@@ -6885,8 +7113,6 @@ Figure 11 — Placement of Symbol on the Seat Back and Seat Cushion of a Vehicle
 
 - 
 > Image: Diagram showing the Door Clearance with measurements and descriptions.
-FIGURE — DOOR CLEARANCE
-
 
 > SOR/82-275, s. 1; SOR/97-201, s. 3; SOR/2003-272, s. 28; SOR/2006-94, s. 4(E); SOR/2007-180, s. 17..
 
@@ -7035,42 +7261,14 @@ whichever is the higher.
 
 - 
 > Image: Diagram showing Low-Force Access Region for Emergency Exists having Adjacent Seats with measurements and descriptions.
-FIGURE 1
-
-LOW-FORCE ACCESS REGION FOR EMERGENCY EXITS HAVING ADJACENT SEATS
-
-
-
 
 > Image: Diagram showing High-Force Access Region for Emergency Exists having Adjacent Seats with measurements and descriptions.
-FIGURE 2
 
-HIGH-FORCE ACCESS REGIONS FOR EMERGENCY EXITS HAVING ADJACENT SEATS
+> Image: Diagram showing the Roof Emergency Exit and Side Emergency Exit with measurements and descriptions.
 
-
-
-
-> Image: Diagram showing the Roof Emergency Exit with measurements and descriptions.
-
-> Image: Diagram showing the Side Emergency Exit with measurements and descriptions.
-
-> Image: Diagram showing the Rear Emergency Exit with Rear Obstruction with measurements and descriptions.
-
-> Image: Diagram showing the Rear Emergency Exit without Rear Obstruction with measurements and descriptions.
-FIGURE 3
-
-LOW AND HIGH-FORCE ACCESS REGIONS FOR EMERGENCY EXITS WITHOUT ADJACENT SEATS
-
-
-
+> Image: Diagram showing the Rear Emergency Exit with and without Rear Obstruction with measurements and descriptions.
 
 > Image: Diagram showing the Head Form with measurements and descriptions.
-FIGURE 4
-
-HEAD FORM
-
-
-
 
 > SOR/80-159, s. 1; SOR/86-978, s. 1; SOR/87-176, s. 1; SOR/92-122, s. 1; SOR/94-374, s. 5; SOR/94-692, s. 2; SOR/98-524, s. 4(F); SOR/99-215, s. 1(F)..
 
@@ -7081,61 +7279,51 @@ HEAD FORM
 
 **219** 
 
-- **(1)** In this section,
+- **(1)** The following definitions apply in this section.
 
-***daylight opening*** or ***DLO*** means the maximum unobstructed opening through the glazing surface including reveal or garnish mouldings adjoining the surface, as measured parallel to the outer surface of the glazing material; (*ouverture de jour*) or (*OJ*) 
+***daylight opening*** or ***DLO*** means the maximum unobstructed opening through the glazing surface including reveal or garnish mouldings adjoining the surface, as measured parallel to the outer surface of the glazing material. (***ouverture de jour***or***OJ***)
 
-***protected zone*** means the space displayed in Figure 1 to this section and enclosed as set out in subsection (5); (*zone protégée*) 
+***protected zone*** means the space displayed in the figure to this section and enclosed as set out in subsection (6). (*zone protégée*)
 
-***protected zone template*** means a template cut or formed from type DB, cut cell styrofoam to the dimensions of the protected zone. (*gabarit de zone protégée*) 
+***protected zone template*** means a template cut or formed from type DB, cut cell styrofoam to the dimensions of the protected zone. (*gabarit de zone protégée*)
 
 - **(2)** This section does not apply in respect of
-	- **(a)** any vehicle with a GVWR in excess of 4 536 kg; or
+	- **(a)** a truck, multi-purpose passenger vehicle or bus with a GVWR greater than 4 536 kg; or
 	- **(b)** a vehicle having a forward control configuration, a walk-in van or an open-body type vehicle with a fold-down or removable windshield.
 
-- **(3)** Where a vehicle that is prepared in accordance with subsection (6) is travelling longitudinally forward at any speed up to and including 48 km/h (30 mph) and impacts a fixed collision barrier that is perpendicular to the line of travel of the vehicle, there shall be no penetration
-	- **(a)** of the protected zone template to any depth in excess of 6 mm (1/4 inch) by any part of the vehicle outside the occupant compartment, other than windshield mouldings or other components designed to be normally in contact with the windshield; or
-	- **(b)** of the inner surface of that portion of the windshield within the DLO below the protected zone by any part of the vehicle outside the occupant compartment, other than windshield mouldings or other components designed to be normally in contact with the windshield.
+- **(3)** A vehicle to which this section applies shall be tested
+	- **(a)** by impacting a fixed collision barrier that is at 90° ± 5° to the line of travel of the vehicle while the vehicle is travelling longitudinally forward at any speed up to and including 48 km/h; and
+	- **(b)** in accordance with the requirements set out in paragraphs 208(23)(a) and (c).
 
-- **(4)** The lower edge of the protected zone displayed in Figure 1 to this section shall be determined as follows:
-	- **(a)** place a 165 mm (6.5 inches) diameter rigid sphere having a mass of 6.8 kg (15 lbs.) in such a position that it simultaneously contacts the inner surface of the windshield glazing and the surface of the instrument panel, including any padding, and if the positioning of the sphere is obstructed by steering controls or other accessories or equipment, such accessories or equipment may be removed while the sphere is being positioned;
-	- **(b)** draw the locus of points on the inner surface of the windshield contacted by the sphere across the width of the instrument panel and from the outermost of those points and extend the locus line horizontally to the edges of the glazing material;
-	- **(c)** draw a line on the inner surface of the windshield below and at a distance of 13 mm (1/2 inch) from the locus line drawn in accordance with paragraph (b); and
-	- **(d)** project the line drawn in accordance with paragraph (c) longitudinally on the outer surface of the windshield and the resulting line is the lower edge of the protected zone.
+- **(4)** During the test referred to in subsection (3), no part of the vehicle outside the occupant compartment, other than the windshield mouldings or other components designed to be normally in contact with the windshield glazing, shall penetrate
+	- **(a)** the windshield protected zone template to any depth in excess of 6 mm; or
+	- **(b)** the inner surface of the portion of the windshield glazing that is within the DLO below the windshield protected zone.
 
-- **(5)** The protected zone displayed in Figure 1 to this section is the space enclosed by
-	- **(a)** the outer surface of the windshield;
-	- **(b)** the locus of points 76 mm (three inches) outward along perpendiculars drawn to each point on the outer surface of the windshield; and
-	- **(c)** the locus of lines forming a 45 degree angle with the outer surface of the windshield at each point along the top and side edges of the outer surface of the windshield and the lower edge of the protected zone determined by subsection (4) in the plane perpendicular to the edge at that point.
+- **(5)** The lower boundary of the windshield protected zone displayed in the figure to this section shall be determined as follows:
+	- **(a)** place a rigid sphere having a diameter of 165 mm and a mass of 6.8 kg in such a position that it simultaneously contacts the inner surface of the windshield glazing and the surface of the instrument panel, including any padding, and if the positioning of the sphere is obstructed by steering controls or other accessories or equipment, the accessories or equipment may be removed while the sphere is being positioned;
+	- **(b)** draw the locus of points on the inner surface of the windshield glazing contacted by the sphere across the width of the instrument panel, and, from the outermost of those points of contact, extend the locus line horizontally to the edges of the glazing material;
+	- **(c)** draw a line on the inner surface of the windshield glazing below and at a distance of 13 mm from the locus line drawn in accordance with paragraph (b);
+	- **(d)** project the line drawn in accordance with paragraph (c) longitudinally on the outer surface of the windshield glazing and the resulting line is the lower boundary of the windshield protected zone.
 
-- **(6)** Every vehicle shall, prior to the impact described in subsection (3), be loaded in accordance with subsection (7) or (8), whichever is applicable, and prepared in such a way that
-	- **(a)** the protected zone template is affixed to the windshield so that it delineates the protected zone and remains affixed throughout the crash test;
-	- **(b)** the hood, hood latches and any other hood retention components are engaged;
-	- **(c)** adjustable cowl tops or other adjustable panels in front of the windshield are in the position used under normal operating conditions when the windshield wiping system is not in use;
-	- **(d)** the parking brake is disengaged and the transmission is in neutral;
-	- **(e)** the tires are inflated to the vehicle manufacturer’s specifications; and
-	- **(f)** the fuel tank is filled to any level from 90 to 95 per cent of capacity with Stoddard solvent, having the physical and chemical properties of type 1 solvent, as set out in Table 1 of the American Society for Testing and Materials Standard D.484-71 Standards Specification for Hydrocarbon Dry Cleaning Solvents.
+- **(6)** The windshield protected zone displayed in the figure to this section is the space enclosed by
+	- **(a)** the outer surface of the windshield glazing;
+	- **(b)** the locus of points 76 mm outward along perpendiculars drawn to each point on the outer surface of the windshield glazing; and
+	- **(c)** the locus of lines forming a 45-degree angle with the outer surface of the windshield glazing at each point along the top and side edges of the outer surface of the windshield glazing and the lower boundary of the windshield protected zone determined in accordance with subsection (5) in the plane perpendicular to the edge at that point.
 
-- **(7)** For the purpose of subsection (6), a passenger car with test devices and instrumentation shall be loaded to the unloaded vehicle mass with the fuel tank filled as specified in paragraph (6)(f) and the following shall be added to the load:
-	- **(a)** the vehicle rated cargo and luggage capacity mass, secured in the luggage area; and
-	- **(b)** the appropriate number of anthropomorphic test devices, as specified in subsection (9), restrained only by means that are installed in the vehicle for protection at their seating positions.
-
-- **(8)** For the purpose of subsection (6), a multi-purpose passenger vehicle, truck or bus, with test devices and instrumentation and the fuel tank filled as specified in paragraph (6)(f) shall be loaded to the unloaded vehicle mass or 2 500 kg (5,500 lbs.), whichever is the lesser, except that this mass shall not include the mass of any work performing accessories, and the following shall be added to the load:
-	- **(a)** the vehicle rated cargo and luggage capacity mass or 140 kg (300 lbs.), whichever is the lesser, secured to the vehicle and distributed so that the mass on each axle as measured at the tireground interface is in proportion to its GAWR, except that if the mass on any axle, when the vehicle is loaded to the unloaded vehicle mass plus anthropomorphic test device mass, exceeds the axle’s proportional share of the test mass, the remaining mass shall be placed so that the mass on that axle remains the same; and
-	- **(b)** the appropriate number of anthropomorphic test devices, as specified in subsection (9), restrained only by means that are installed in the vehicle for protection at their seating positions.
-
-- **(9)** A 50th percentile male anthropomorphic test device shall be provided at each front outboard designated seating position and at any other position whose protection system is required to be tested using an anthropomorphic test device in accordance with the provisions of section 208 of this schedule.
+- **(7)** For the purposes of subsection (6), ***outer surface of the windshield glazing*** means the outer surface of the windshield glazing as configured before the test referred to in subsection (3).
 
 - 
+<table>
+<tr>
+<td>
 > Image: Diagram of the Windshield Protected Zone with measurements and descriptions.
-FIGURE 1
+Note: Drawing not to scale
 
-WINDSHIELD PROTECTED ZONE
+</td>
+</tr>
+</table>
 
-
-
-
-> SOR/81-665, s. 2; SOR/97-201, s. 4; SOR/97-421, ss. 17, 22(F); SOR/2008-72, s. 12(F)..
+> SOR/81-665, s. 2; SOR/97-201, s. 4; SOR/97-421, ss. 17, 22(F); SOR/2008-72, s. 12(F); SOR/2009-121, s. 4..
 
 
 
@@ -7286,12 +7474,6 @@ shall not exceed 1,000, where “a” is the axial acceleration expressed as a m
 
 - 
 > Image: Diagram showing the Force / Deflection Zone.
-FIGURE 1
-
-FORCE/DEFLECTION ZONE
-
-
-
 
 > SOR/80-161, s. 4; SOR/86-4 53, s. 3; SOR/91-593, s. 1..
 
@@ -7383,29 +7565,71 @@ FORCE/DEFLECTION ZONE
 	- **(c)** have a ground clearance not exceeding 560 mm, measured at each support to which the horizontal member is attached, as shown in Figure 3, after completion of the energy absorption test or, if that test is not required, after completion of the uniform load test.
 
 - 
+<table>
+<tr>
+<td>
 > Image: Diagram showing a side view of a trailer with measurements and descriptions.
-Note:
+</td>
+</tr>
+<tr>
+<td>Note:</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Drawing not to scale</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Figure 1 — Side View of Trailer</td>
+</tr>
+</table>
 
-**1** Drawing not to scale
-
-Figure 1 — Side View of Trailer
-
-
+<table>
+<tr>
+<td>
 > Image: Diagram showing a rear view of a trailer with measurements and descriptions.
-Note:
+</td>
+</tr>
+<tr>
+<td>Note:</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Drawing not to scale</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Figure 2 — Rear View of Trailer</td>
+</tr>
+</table>
 
-**1** Drawing not to scale
-
-Figure 2 — Rear View of Trailer
-
-
+<table>
+<tr>
+<td>
 > Image: Diagram showing the Load Application Test for a trailer with descriptions.
-Note:
-
-**1** Drawing not to scale
-
-Figure 3 — Load Application Test
-
+</td>
+</tr>
+<tr>
+<td>Note:</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Drawing not to scale</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Figure 3 — Load Application Test</td>
+</tr>
+</table>
 
 > SOR/2004-195, s. 2; SOR/2008-104, s. 19..
 
@@ -7645,29 +7869,59 @@ where
 - **(7)** Motor tricycles manufactured before September 1, 2004 need not comply with this section.
 
 - 
+<table>
+<tr>
+<td>
 > Image: Diagram showing the Side View of a Motor Tricycle with measurements and descriptions.
-Legend
+</td>
+</tr>
+<tr>
+<td>Legend</td>
+</tr>
+<tr>
+<td>h is the height of the centre of mass</td>
+</tr>
+<tr>
+<td>L is the longitudinal distance between the centre of mass and the centre of the front axle</td>
+</tr>
+<tr>
+<td>W is the wheelbase</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Figure 1 — Side View</td>
+</tr>
+</table>
 
-h is the height of the centre of mass
-
-L is the longitudinal distance between the centre of mass and the centre of the front axle
-
-W is the wheelbase
-
-Figure 1 — Side View
-
-
+<table>
+<tr>
+<td>
 > Image: Diagram showing the Top View of a Motor Tricycle with measurements and descriptions.
-Legend
-
-d is the horizontal distance from the centre of mass to the nearest roll axis
-
-t is the width of the wheel track of the front or rear axle
-
-W is the wheelbase
-
-Figure 2 — Top View
-
+</td>
+</tr>
+<tr>
+<td>Legend</td>
+</tr>
+<tr>
+<td>d is the horizontal distance from the centre of mass to the nearest roll axis</td>
+</tr>
+<tr>
+<td>t is the width of the wheel track of the front or rear axle</td>
+</tr>
+<tr>
+<td>W is the wheelbase</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Figure 2 — Top View</td>
+</tr>
+</table>
 
 > SOR/2003-272, s. 33; SOR/2007-180, s. 20..
 
