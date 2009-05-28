@@ -5417,100 +5417,109 @@ Le ministre fixe les modalités de présentation de la demande de déplacement e
 ### **ANNEXE 1** 
 **(articles 2 et 21, paragraphe 29(1), articles 30 et 31, alinéa 35(1)d) et paragraphes 108(2), 110(1) et 227(1))**
 ## Conventions et protocoles internationaux — ministre des Transports
-1. Convention sur l’âge minimum (travail maritime), 1920
+**1** Convention sur l’âge minimum (travail maritime), 1920
 
 
-2. Convention sur les indemnités de chômage (naufrage), 1920
+**2** Convention sur les indemnités de chômage (naufrage), 1920
 
 
-3. Convention sur l’examen médical des jeunes gens (travail maritime), 1921
+**3** Convention sur l’examen médical des jeunes gens (travail maritime), 1921
 
 
-4. Convention sur l’âge minimum (soutiers et chauffeurs), 1921
+**4** Convention sur l’âge minimum (soutiers et chauffeurs), 1921
 
 
-5. Convention sur l’indication du poids sur les colis transportés par bateau, 1926
+**5** Convention sur l’indication du poids sur les colis transportés par bateau, 1926
 
 
-6. Convention sur le contrat d’engagement des marins, 1926
+**6** Convention sur le contrat d’engagement des marins, 1926
 
 
-7. Convention sur la protection des dockers contre les accidents (révisée), 1932
+**7** Convention sur la protection des dockers contre les accidents (révisée), 1932
 
 
-8. Convention (révisée) sur l’âge minimum (travail maritime), 1936
+**8** Convention (révisée) sur l’âge minimum (travail maritime), 1936
 
 
-9. Convention sur les certificats de capacité de matelot qualifié, 1946
+**9** Convention sur les certificats de capacité de matelot qualifié, 1946
 
 
-10. Convention sur le diplôme de capacité des cuisiniers de navire, 1946
+**10** Convention sur le diplôme de capacité des cuisiniers de navire, 1946
 
 
-11. Convention sur l’alimentation et le service de table (équipage des navires), 1946
+**11** Convention sur l’alimentation et le service de table (équipage des navires), 1946
 
 
-12. Convention sur l’examen médical des gens de mer, 1946
+**12** Convention sur l’examen médical des gens de mer, 1946
 
 
-13. Convention sur les pièces d’identité des gens de mer, 1958
+**13** Convention sur les pièces d’identité des gens de mer, 1958
 
 
-14. Convention de 1965 visant à faciliter le trafic maritime international
+**14** Convention de 1965 visant à faciliter le trafic maritime international
 
 
-15. Convention internationale de 1966 sur les lignes de charge
+**15** Convention internationale de 1966 sur les lignes de charge
 
 
-16. Convention internationale de 1969 sur le jaugeage des navires
+**16** Convention internationale de 1969 sur le jaugeage des navires
 
 
-17. Convention sur le Règlement international de 1972 pour prévenir les abordages en mer
+**17** Convention sur le Règlement international de 1972 pour prévenir les abordages en mer
 
 
-18. Convention internationale de 1973 pour la prévention de la pollution par les navires
+**18** Convention internationale de 1973 pour la prévention de la pollution par les navires
 
 
-19. Convention internationale de 1974 pour la sauvegarde de la vie humaine en mer
+**19** Convention internationale de 1974 pour la sauvegarde de la vie humaine en mer
 
 
-20. Convention portant création de l’Organisation internationale de télécommunications maritimes par satellites (INMARSAT), 1976
+**20** Convention portant création de l’Organisation internationale de télécommunications maritimes par satellites (INMARSAT), 1976
 
 
-21. Convention sur la marine marchande (normes minimales), 1976
+**21** Convention sur la marine marchande (normes minimales), 1976
 
 
-22. Convention internationale de 1978 sur les normes de formation des gens de mer, de délivrance des brevets et de veille
+**22** Convention internationale de 1978 sur les normes de formation des gens de mer, de délivrance des brevets et de veille
 
 
-23. Protocole de 1978 relatif à la Convention internationale de 1973 pour la prévention de la pollution par les navires
+**23** Protocole de 1978 relatif à la Convention internationale de 1973 pour la prévention de la pollution par les navires
 
 
-24. Protocole de 1978 relatif à la Convention internationale de 1974 pour la sauvegarde de la vie humaine en mer
+**24** Protocole de 1978 relatif à la Convention internationale de 1974 pour la sauvegarde de la vie humaine en mer
 
 
-25. Convention pour la répression d’actes illicites contre la sécurité de la navigation maritime
+**24.1** Accord de 1978 relatif à la qualité de l’eau dans les Grands Lacs
 
 
-26. Protocole de 1988 relatif à la Convention internationale de 1974 pour la sauvegarde de la vie humaine en mer
+**25** Convention pour la répression d’actes illicites contre la sécurité de la navigation maritime
 
 
-27. Protocole pour la répression d’actes illicites contre la sécurité des plates-formes fixes situées sur le plateau continental
+**26** Protocole de 1988 relatif à la Convention internationale de 1974 pour la sauvegarde de la vie humaine en mer
 
 
-28. Protocole de 1988 relatif à la Convention internationale de 1966 sur les lignes de charge
+**27** Protocole pour la répression d’actes illicites contre la sécurité des plates-formes fixes situées sur le plateau continental
 
 
-29. Convention internationale de 1990 sur la préparation, la lutte et la coopération en matière de pollution par les hydrocarbures
+**28** Protocole de 1988 relatif à la Convention internationale de 1966 sur les lignes de charge
 
 
-30. Protocole de 1997 relatif à la Convention internationale de 1973 pour la prévention de la pollution par les navires
+**29** Convention internationale de 1990 sur la préparation, la lutte et la coopération en matière de pollution par les hydrocarbures
 
 
-31. Convention du travail maritime, 2006
+**30** Protocole de 1997 relatif à la Convention internationale de 1973 pour la prévention de la pollution par les navires
 
 
-> 2001, ch. 26, ann. 1; DORS/2007-109.
+**30.1** Convention internationale de 2001 sur le contrôle des systèmes antisalissure nuisibles sur les navires
+
+
+**30.2** Convention internationale de 2004 pour le contrôle et la gestion des eaux de ballast et sédiments des navires
+
+
+**31** Convention du travail maritime, 2006
+
+
+> 2001, ch. 26, ann. 1; DORS/2007-109; DORS/2009-154.
 
 
 
