@@ -21378,7 +21378,7 @@ Property acquired after March 18, 2007 that is a pipeline, including control and
 
 **CLASS 52** 
 
-Property acquired by a taxpayer after January 27, 2009 and before February 2010 that
+Property acquired by a taxpayer after January 27, 2009 and before February 2011 that
 
 **(a)** is general-purpose electronic data processing equipment and systems software for that equipment, including ancillary data processing equipment, but not including property that is principally or is used principally as
 
@@ -21419,7 +21419,7 @@ Property acquired by a taxpayer after January 27, 2009 and before February 2010 
 
 
 
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2009-126, s. 11.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2009-126, s. 11; SOR/2009-155, s. 1.
 
 
 
