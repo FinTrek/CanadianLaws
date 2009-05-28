@@ -21209,7 +21209,7 @@ Les biens acquis après le 18 mars 2007 qui sont constitués par des pipelines, 
 
 **CATÉGORIE 52** 
 
-Les biens acquis par un contribuable après le 27 janvier 2009 et avant février 2010 qui, à la fois :
+Les biens acquis par un contribuable après le 27 janvier 2009 et avant février 2011 qui, à la fois :
 
 **a)** sont constitués par du matériel électronique universel de traitement de l’information et des logiciels de systèmes connexes, y compris le matériel auxiliaire de traitement de l’information, mais à l’exclusion des biens qui se composent principalement ou servent principalement :
 
@@ -21250,7 +21250,7 @@ Les biens acquis par un contribuable après le 27 janvier 2009 et avant février
 
 
 
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2009-126, art. 11.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2009-126, art. 11; DORS/2009-155, art. 1.
 
 
 
