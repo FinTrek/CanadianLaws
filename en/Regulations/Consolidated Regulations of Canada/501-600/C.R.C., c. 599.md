@@ -28,11 +28,19 @@ Enabling authorities:
 
 ***authorized explosive*** means any explosive that is declared by the Chief Inspector to be an authorized explosive pursuant to section 22; (*explosif autorisé*)
 
+***automotive explosive*** means an automotive safety device that the competent authority of the country of origin has classified as a Class 9 explosive under the UN Model Regulations on the Transport of Dangerous Goods, 2005, published by the United Nations, as amended from time to time; (*explosif pour automobile*)
+
 ***Chief Inspector*** means a person appointed as Chief Inspector of Explosives in the manner authorized by law or a person authorized by the Minister to carry on the duties of the Chief Inspector of Explosives in his absence; (*inspecteur en chef*)
 
 ***Department*** means the Department of Energy, Mines and Resources; (*ministère*)
 
-***explosive*** means a substance that is made, manufactured or used to produce an explosion or detonation or a pyrotechnic effect and includes gunpowder, propellant powders, blasting agents, dynamite, detonating cord, lead azide, detonators, ammunition of all descriptions, rockets, fireworks, fireworks compositions, safety flares and other signals; (*explosif*)
+***detonator magazine*** means a magazine for storing initiation systems; (*poudrière de détonateurs*)
+
+***explosive***[Repealed, SOR/2009-125, s. 1]
+
+***explosive article*** means an article that contains one or more explosive substances; (*objet explosif*) 
+
+***explosive substance*** means a solid or liquid substance — or a mixture of solid and liquid substances — that is capable by chemical reaction of producing a gas at a temperature, pressure and speed that could cause damage to the surrounding structures and infrastructure and includes a pyrotechnic substance even if the pyrotechnic substance does not produce a gas; (*matière explosive*)
 
 ***factory*** means any building, structure, premises or land in or upon which the manufacture or any part of the process of manufacture of an explosive is carried on, the site on which such building, structure or premises are situated, and all other buildings, structures or premises within such site; (*fabrique*)
 
@@ -57,16 +65,30 @@ Enabling authorities:
 
 ***Minister*** means the Minister of Energy, Mines and Resources or such other Minister as the Governor in Council may from time to time designate; (*ministre*)
 
+***mobile process unit*** means a process vehicle or a portable unit in which explosives are manufactured; (*unité de fabrication mobile*)
+
+***NEQ*** means net explosives quantity; (*QNE*)
+
 ***operator*** includes the owner, manager or person in charge; (*exploitant*)
 
-***process unit*** means, in respect of a factory, any building, room or place in which a manufacturing process or activity relating to explosives is carried out and for which a maximum personnel limit and a maximum explosives limit are specified in the factory licence; (*unité de fabrication*)
+***process unit*** means any building, structure, room or place where explosives are manufactured at a factory site. (*unité de fabrication*)
 
-***process vehicle*** means, in respect of a factory, a vehicle on which a manufacturing process or activity relating to explosives is carried out; (*véhicule de fabrication*)
+***process vehicle***[Repealed, SOR/2009-125, s. 1]
 
 ***safety cartridge*** means a cartridge for any shotgun, gun, rifle, pistol, revolver and industrial gun the case of which can be extracted after firing and that is so closed as to prevent any explosion in one cartridge being communicated to another cartridge but does not include tracer, incendiary, high explosive or other similar military type cartridges; (*cartouche de sûreté*);
 
+***satellite site*** means a site, away from a factory, where bulk explosives are stored and distributed and includes any storage facilities for raw material and parking facilities for mobile process units; (*site satellite*)
+
+***user magazine zone licence*** means a user magazine licence that authorizes the holder to move any licensed magazine to which it relates to another site; (*licence de poudrière (utilisateur - zone)*)
+
 ***vehicle*** means any truck, automobile or other conveyance for use on land but does not include any vehicle running only upon rails to which the Railway Act applies. (*véhicule*) 
-> SOR/86-422, s. 1.
+
+***vulnerable place*** means
+- **(a)** any building in which people live, work or are likely to assemble,
+- **(b)** any public road and any railway or other means of transportation,
+- **(c)** pipelines and energy transmission lines, and
+- **(d)** any place where a substance that creates a risk of fire or explosion may be stored. (*lieu vulnérable*)
+> SOR/86-422, s. 1; SOR/2009-125, s. 1.
 
 
 
@@ -259,18 +281,56 @@ while acting as such an inspector.
 ## Authorization and Testing
 
 
-**15** Any person may apply for an explosive to be declared an authorized explosive by submitting an application therefor to the Chief Inspector.
+**15** 
+
+- **(1)** Only the manufacturer or importer of an explosive may apply for it to be declared an authorized explosive.
+
+- **(2)** An application for an authorization shall be submitted to the Chief Inspector of Explosives.
+
+- **(3)** An authorization may be given for an indefinite period, for a specified period for the purpose of a tour, event or international competition or for a specified period for the purpose of another activity.
+> SOR/2009-125, s. 2.
 
 
 
-**16** Any application submitted pursuant to section 15 shall be in writing and give the particulars of
-- **(a)** the nature and composition of the explosive;
-- **(b)** the limiting percentages of each ingredient of the explosive;
-- **(c)** any substitute or substitutes it may be desired to have approved for any specified ingredient;
-- **(d)** in the case of a new explosive to be manufactured in Canada, the process by which it is proposed to carry out its manufacture;
-- **(e)** where an explosive is enclosed in a case or other contrivance, the dimensions of the case or other contrivance, the quantity, nature and brand of explosive contained therein, the method of function and performance characteristics of the explosive and instructions governing the use of the case or other contrivance;
-- **(f)** the box, wrapping or other container in which the explosive will be handled, used or displayed or otherwise distributed, including the markings thereon; and
-- **(g)** the package in which the explosive will be transported and stored, including the markings thereon.
+
+**16** 
+
+- **(1)** An application for the authorization of an explosive for an indefinite period shall include the following information and documents:
+	- **(a)** the name, mailing address and other contact information of the applicant and, if applicable, of the applicant’s contact person;
+	- **(b)** if the application is made by an authorized representative of the applicant,
+		- **(i)** a letter from the applicant confirming that the representative acts on their behalf, and
+		- **(ii)** the name, mailing address and other contact information of the authorized representative and, if applicable, of their contact person;
+	- **(c)** a list of the explosive articles and explosive substances for which authorization is requested that sets out the trade name of each article and substance and, in the case of an explosive article, its part number, if any;
+	- **(d)** the specifications of each explosive article or explosive substance, including
+		- **(i)** the chemical name and composition of the explosive and its tolerances,
+		- **(ii)** a technical drawing of each explosive article that indicates its dimensions and its tolerances,
+		- **(iii)** the gross weight of each explosive article,
+		- **(iv)** the weight of the explosive charge in each explosive article and its tolerances,
+		- **(v)** if a component of an explosive article is to be purchased from another manufacturer, the name and contact information of the other manufacturer, and
+		- **(vi)** how each explosive article and explosive substance is to be destroyed or otherwise disposed of; and
+	- **(e)** the intended use of each explosive article and explosive substance and, in the case of an explosive article, its method of functioning.
+
+- **(2)** The application for authorization for an indefinite period shall be accompanied by the following packaging and labelling information:
+	- **(a)** a drawing or description of the internal and external packaging to be used in transporting the explosive article or explosive substance;
+	- **(b)** a copy, drawing or description of the labelling as it will appear on the internal and external packaging of the article or substance; and
+	- **(c)** a copy of the precautions and instructions for use to be included with the packaging or inscribed on the article.
+
+- **(3)** The application for authorization for an indefinite period shall be accompanied by an application for a UN hazard classification for transport that includes the following:
+	- **(a)** the class requested and the basis for that classification;
+	- **(b)** if a class has been designated for the explosive by the competent authority of a foreign state, a letter or certificate from the authority attesting to the classification and explaining its basis;
+	- **(c)** if a class number of 1.4, 1.5 or 1.6 is requested, the results of any testing conducted by a competent authority of a foreign state; and
+	- **(d)** a signed statement indicating that the applicant consents to the Explosives Regulatory Division, Department of Natural Resources, conducting any tests required for the classification.
+
+- **(4)** An application for the authorization of an explosive for a specified period, whether for the purpose of a tour, event or international competition or for the purpose of another activity, shall include the following information:
+	- **(a)** the name, mailing address and other contact information of the applicant and, if applicable, of the applicant’s contact person;
+	- **(b)** if the application is made by an authorized representative of the applicant,
+		- **(i)** a letter from the applicant confirming that the representative acts on their behalf, and
+		- **(ii)** the name, mailing address and other contact information of the authorized representative and, if applicable, of their contact person;
+	- **(c)** a list of the explosive articles and explosive substances for which authorization is requested that sets out the trade name of each article and substance and, in the case of an explosive article, its part number, if any;
+	- **(d)** the period for which the authorization is requested; and
+	- **(e)** if the application is for the authorization of an explosive for the purpose of a tour, event or international competition, the number of fireworks displays in which the explosive will be used.
+> SOR/2009-125, s. 2.
+
 
 
 
@@ -350,45 +410,258 @@ while acting as such an inspector.
 
 **25** 
 
-- **(1)** The following forms, as set forth in Schedule II, are prescribed for use in connection with the applications for, and granting of, licences for factories and magazines and permits for the purchase, possession and importation of explosives and for vehicles used for the transportation of explosives, namely,
-	- **(a)** form of application for a licence for a factory or magazine for explosives, as set forth in Form 1;
-	- **(b)** form of factory licence, which includes a factory licence (fireworks) issued for a factory that exclusively manufactures fireworks, as set forth in Form 2;
-	- **(c)** Form 4 to accompany an application for a licence for a factory or magazine, on which shall be entered a description of the construction of the buildings, mounds or works forming part of the factory or magazine;
-	- **(d)** Form 5 to accompany an application for a licence for a factory or magazine, on which shall be entered the designation of the authorized explosives that may be manufactured or kept in the factory or stored in the magazine;
-	- **(e)** Form 6 to accompany an application for a licence for a factory, on which shall be entered particulars relating to the process or processes that may be carried on in, or the use that may be made of, each building, room or place in the factory, together with the nature and quantity of the explosive, or explosives, or ingredients thereof, or other articles in respect of which like information may be required, that may be allowed in each building, room or place, and also the maximum number of persons to be in any such building, room or place at any one time;
-	- **(f)** Form 7 to accompany an application for a licence for a factory or magazine, on which shall be specified the distances that shall be maintained between any one building or place forming part of the factory or magazine, and any other building or resort, whether within or without the factory or magazine, the classification of such buildings or resorts being as set forth in the form;
-	- **(g)** form of magazine licence, which includes a magazine licence (propellants) issued for a magazine that exclusively stores propellants and percussion caps for safety cartridges, as set forth in Form 8;
-	- **(h)** form of application for a licence for a temporary magazine for explosives, as set forth in Form 10;
-	- **(i)** form of licence for a temporary magazine, as set forth in Form 11;
-	- **(j)** form of application for general or annual explosives importation permit, as set forth in Form 13;
-	- **(k)** form of General Explosives Importation Permit, as set out in Form 14;
-	- **(l)** Importers Transmission Schedule, as set forth in Form 16;
-	- **(m)** form of Annual Explosives Importation Permit, as set out in Form 17, with Importers Transmission Schedule on reverse side thereof;
-	- **(n)** form of application and permit to transport explosives as set forth in Form 18;
-	- **(o)** form of application and licence for a fireworks magazine, as set forth in Form 19;
-	- **(p)** form of Blasting Explosives Purchase and Possession Permit, as set out in Form 20.
+- **(1)** An application for a factory licence or a manufacturing certificate shall include the following information:
+	- **(a)** the name, mailing address and other contact information of the applicant and, if applicable, of the applicant’s contact person;
+	- **(b)** in the case of an application for a factory licence, the types of explosives to be manufactured;
+	- **(c)** in the case of an application for a manufacturing certificate, the types of explosives to be manufactured, the operations for which the certificate is requested and the day on which the operations are to begin and end;
+	- **(d)** the address of the site of the proposed factory or operations; and
+	- **(e)** the name, mailing address and other contact information of the contact person at the site.
 
-- **(2)** The terms and conditions of a licence for a factory, magazine or temporary magazine, a General Explosives Importation Permit, an Annual Explosives Importation Permit and an Explosives Transportation Permit shall be the terms and conditions set out in the following forms:
-	- **(a)** Form 3, terms of a licence for a factory;
-	- **(b)** Form 9, terms of a licence for a magazine;
-	- **(c)** Form 12, terms of a licence for a temporary magazine;
-	- **(d)** Form 15, terms of a general importation permit;
-	- **(e)** Form 17, terms of annual importation permit;
-	- **(f)** Form 18, terms of explosives transportation permit.
+- **(2)** The application shall be accompanied by the following:
+	- **(a)** a site plan that shows
+		- **(i)** the topography of the proposed site,
+		- **(ii)** the location of every process unit and magazine, and every building or structure that contains a process unit or magazine, on the site,
+		- **(iii)** the location of every other building or structure on the site, and
+		- **(iv)** the distance in metres between each process unit, magazine, building and structure on the site;
+	- **(b)** an area plan that shows
+		- **(i)** the location of each process unit and magazine on the site,
+		- **(ii)** the area surrounding the site that is exposed to the risk of fire or explosion because of the explosives to be manufactured or stored on the site,
+		- **(iii)** each vulnerable place in the area of risk, and
+		- **(iv)** the distance in metres between each process unit and magazine and each vulnerable place in the area of risk; and
+	- **(c)** layout sketches or other drawings that show
+		- **(i)** the work place areas, storage areas and emergency exits of every process unit and magazine, and every building or structure that contains a process unit or magazine, on the site,
+		- **(ii)** the equipment to be used on the site, including piping and instrumentation drawings and equipment layout drawings, and
+		- **(iii)** the operations to be carried out on the site, including process flow sheets and process schematic drawings.
 
-- **(3)** A magazine licence issued pursuant to section 6 of the Act shall be issued for one magazine or more than one magazine within a site.
+- **(3)** The application shall be accompanied by a site description that
+	- **(a)** specifies the geographical coordinates of the site;
+	- **(b)** specifies the size of and construction materials used for each building on the site and describes, if applicable, its lighting, heating, ventilation and air conditioning systems, electrical installations, grounding and measures for protection from fire and lightning;
+	- **(c)** describes all site and building security measures, such as fencing, gates and warning signs;
+	- **(d)** describes the principal manufacturing equipment and its safety features;
+	- **(e)** describes each mobile process unit to be used;
+	- **(f)** describes any other mobile equipment to be used and how it is powered; and
+	- **(g)** describes any special safety features on the site, such as diking, sumps, blowout panels, blast containment, barriers, alarms and pressure relief and control systems.
 
-- **(4)** A magazine licence (propellants) and a licence for a fireworks magazine issued pursuant to section 6 of the Act shall be issued for one magazine or more than one magazine within a site.
+- **(4)** The application shall be accompanied by a description of the explosives to be manufactured and stored on the site that includes,
+	- **(a)** for each explosive,
+		- **(i)** its name and its UN proper shipping name,
+		- **(ii)** the day on which the explosive was authorized or its authorization file number,
+		- **(iii)** its UN number, and
+		- **(iv)** its UN hazard class; and
+	- **(b)** for each explosive to be stored,
+		- **(i)** its UN proper shipping name,
+		- **(ii)** its UN number, and
+		- **(iii)** its UN hazard class.
 
-- **(5)** A licence for a temporary magazine issued pursuant to section 6 of the Act shall be issued for one temporary magazine or more than one temporary magazine within a limited operational zone.
-> SOR/86-422, s. 2; SOR/90-571, s. 1; SOR/93-439, s. 1.
+- **(5)** The application shall be accompanied by a manufacturing operations description that
+	- **(a)** describes the operations to be carried out in each process unit and magazine on the site;
+	- **(b)** describes the explosives, explosive ingredients and any other thing that is flammable, liable to spontaneous ignition or otherwise dangerous that are to be kept in each process unit, magazine, building or structure on the site;
+	- **(c)** states the maximum quantity of explosives and explosive ingredients that may be kept in each process unit, magazine, building or structure at any one time;
+	- **(d)** states the maximum number of persons who may be in each process unit and magazine at any one time; and
+	- **(e)** states the minimum distance in metres that shall be maintained between each process unit and magazine on the site and each vulnerable place shown on the area plan, as determined by the Quantity Distance Principles — User’s Manual, 1995, published by the Explosives Regulatory Division, Department of Natural Resources.
+
+- **(6)** If the manufacture of explosives is to be carried out at the site of a client, the application shall be accompanied by the following information:
+	- **(a)** the name, mailing address and other contact information of a contact person for the client at whose site manufacturing operations are to be carried out;
+	- **(b)** a description of the client’s site;
+	- **(c)** the distance in kilometres between the factory site and the client’s site; and
+	- **(d)** the distance in kilometres between the satellite site, if any, and the client’s site.
+
+- **(7)** The application shall be accompanied by a list of the following documents, along with their date of production and, if applicable, their date of amendment:
+	- **(a)** the environmental assessment of the site and of the operations to be carried out on the site;
+	- **(b)** the documents setting out the rules, procedures and protocols designed to ensure compliance with the Act, these Regulations and the licence, including
+		- **(i)** operational procedures,
+		- **(ii)** maintenance procedures,
+		- **(iii)** an emergency response plan,
+		- **(iv)** a spill contingency plan, and
+		- **(v)** staff training manuals;
+	- **(c)** if the manufacturing operations are to be carried out in a quarry, a letter of understanding with the quarry operator about the safety measures to be complied with on the site;
+	- **(d)** if hazardous activities are permitted on the site, such as smoking or welding, the rules governing those activities; and
+	- **(e)** if explosives are to be destroyed or otherwise disposed of on the site, the methods for their destruction or disposition.
+
+- **(8)** Every process unit, magazine, building and structure that is shown on a site plan and every vulnerable place that is shown on an area plan shall be identified by a number, letter or distinctive name which shall be used to identify it in any drawing, sketch or description that accompanies the application.
+
+- **(9)** Each plan and drawing shall be drawn to scale or reasonable facsimile and include a legend that explains the information that it contains.
+> SOR/86-422, s. 2; SOR/90-571, s. 1; SOR/93-439, s. 1; SOR/2009-125, s. 3.
+
+
+
+
+**25.01** Every factory licence shall include the following terms:
+- **(a)** copies of the most recent version of the documents listed in subsection 25(7) shall be accessible to all persons on the site;
+- **(b)** a means of escape shall be provided and maintained from any building, structure or room in which explosives or explosive ingredients may be present;
+- **(c)** a report in writing of any theft or attempted theft of an explosive and any accident at the site involving explosives shall, without delay, be submitted to the Chief Inspector of Explosives; and
+- **(d)** copies of the licence and other documents approved by the Minister shall be kept at the site.
+> SOR/2009-125, s. 3.
+
+
+
+
+**25.02** 
+
+- **(1)** An application for a magazine licence, whether a vendor magazine licence, a user magazine licence or a user magazine zone licence, shall include the following information:
+	- **(a)** the name, mailing address and other contact information of the applicant and, if applicable, of the applicant’s contact person;
+	- **(b)** the address and geographical coordinates of the proposed magazine site;
+	- **(c)** the name and contact information of the person responsible for the site;
+	- **(d)** the number of magazines for which the licence is requested;
+	- **(e)** the types of explosives to be stored in each magazine;
+	- **(f)** if the application is for a vendor magazine licence, whether the site is for retail sales or for distribution; and
+	- **(g)** if the site is for distribution, whether explosives will be repackaged there.
+
+- **(2)** The application shall be accompanied by the following documents:
+	- **(a)** a site plan that shows
+		- **(i)** the location of each magazine, building, structure and vulnerable place on the site, and
+		- **(ii)** the distance in metres between each magazine, building, structure and vulnerable place on the site; and
+	- **(b)** if a magazine is located within a building, a drawing of the building that shows its location on the site, the location of all entrances to and exits from any area to which the public has access and the location of any open flames, flammable materials or potential sources of ignition.
+
+- **(3)** The application shall be accompanied by a magazine and site description that
+	- **(a)** describes the proposed use of the site and the proposed use of each building and structure on the site;
+	- **(b)** sets out the distance in metres between each magazine and any flammable material on the site;
+	- **(c)** describes the security measures on the site, including signage, fencing, barriers, mounds, alarm systems and guards; and
+	- **(d)** sets out, for each magazine on the site,
+		- **(i)** the tag number, if any, issued by the Explosives Regulatory Division, Department of Natural Resources,
+		- **(ii)** the construction type number to which it conforms, as set out in the Storage Standards for Industrial Explosives, May 2001, published by the Explosives Regulatory Division, Department of Natural Resources, or, if the magazine does not conform to a standard type, the specifications of the magazine, including its construction materials and its safety features,
+		- **(iii)** its internal dimensions (length, width and height) in metres to the nearest 0.1 metre,
+		- **(iv)** the types of explosives to be stored, and
+		- **(v)** the quantity of each type, expressed by number, if applicable, or as gross weight in kilograms.
+
+- **(4)** Every magazine, building, structure and vulnerable place that is shown on a site plan shall be identified by a number, letter or distinctive name which shall be used to identify it in any drawing, sketch or description that accompanies the application.
+
+- **(5)** Each plan and drawing shall be drawn to scale or reasonable facsimile and include a legend that explains the information that it contains.
+> SOR/2009-125, s. 3.
+
+
+
+
+**25.03** Every magazine licence shall include the following terms:
+- **(a)** detonators shall be stored in a separate magazine;
+- **(b)** after a fire or explosion on the site, the licence holder shall,
+	- **(i)** without delay, submit a report in writing to the Chief Inspector of Explosions that sets out the date, time and place of the incident, the explosives involved, any evacuations that occurred and any injuries, fatalities or damage to property that occurred, and
+	- **(ii)** as soon as possible, submit a report in writing to the Chief Inspector of Explosions that describes the results of the investigation undertaken and any remedial measures put in place;
+- **(c)** after any theft or attempted theft of explosives from a magazine, the licence holder shall,
+	- **(i)** without delay, submit a report in writing to the Chief Inspector of Explosives that describes the date, time and place of the incident, the quantity and type of explosives stolen, and how access to the explosives was obtained, and
+	- **(ii)** as soon as possible, submit a report in writing to the Chief Inspector of Explosions that describes the results of the investigation undertaken and any remedial measures put in place;
+- **(d)** the licence holder shall take all measures necessary to
+	- **(i)** prevent any unauthorized person from obtaining access to a magazine,
+	- **(ii)** prevent the introduction into a magazine of any iron or steel tools, matches, oiled waste or anything that is capable of spontaneous ignition,
+	- **(iii)** prevent the use in the vicinity of a detonator of any device capable of accidentally initiating it,
+	- **(iv)** maintain the interior of each magazine in a clean condition free of grit, and
+	- **(v)** establish procedures to monitor access to the site and to ensure that persons who are in or near a magazine are safe and exercise care to prevent any fire or explosion; and
+- **(e)** in the case of a user magazine zone licence, the holder shall receive the approval of the Minister before moving a magazine to another site.
+> SOR/2009-125, s. 3.
+
+
+
+
+**25.04** An application for a permit to import explosives, whether a general import permit or an annual import permit, shall include the following information:
+- **(a)** the name, mailing address and other contact information of the applicant and, if applicable, of the applicant’s contact person;
+- **(b)** if the application is made by a customs broker, the name, mailing address and other contact information of the broker and, if applicable, of the broker’s contact person;
+- **(c)** the purpose of the importation;
+- **(d)** the trade name of each explosive, its UN number and the name of its manufacturer;
+- **(e)** the quantity of each explosive to be imported or, in the case of an annual import permit, the estimated maximum quantity of each explosive to be imported during the year expressed
+	- **(i)** in rounds for ammunition,
+	- **(ii)** in units for detonators, and
+	- **(iii)** as gross weight in kilograms for other explosives;
+- **(f)** in the case of a general import permit, the point of entry into Canada, the approximate date of arrival and the province of destination;
+- **(g)** the means of transport that will be used to import the explosives;
+- **(h)** the country of origin of each explosive;
+- **(i)** the address of the facility in which the explosives will be stored;
+- **(j)** if the explosives will be stored in a licensed magazine, the authorized capacity of the magazine, the licence number and its expiry date;
+- **(k)** if the explosives will be stored in a facility other than a licensed magazine, a description of the facility; and
+- **(l)** if the explosives will be in transit through Canada, the country from which they will be imported, the country and place to which they will be shipped and the address of any facility in which they will be stored while in Canada.
+> SOR/2009-125, s. 3.
+
+
+
+
+**25.05** Every holder of a general import permit shall comply with the following terms:
+- **(a)** only the explosives authorized by the permit shall be imported;
+- **(b)** the quantity of explosives imported shall not exceed the quantity authorized by the permit; and
+- **(c)** after the theft of any explosives, a report in writing that describes when the theft occurred, the explosives that were stolen and how access to the explosives was obtained shall, without delay, be submitted to the Chief Inspector of Explosives.
+> SOR/2009-125, s. 3.
+
+
+
+
+**25.06** Every holder of an annual import permit shall comply with the following terms:
+- **(a)** only the explosives authorized by the permit shall be imported;
+- **(b)** the quantity of explosives imported shall not exceed the authorized capacity of the facility in which the explosives will be stored;
+- **(c)** for each importation, the permit holder shall, within 30 days after the day of importation, submit a report in writing to the Chief Inspector of Explosives that includes the following information:
+	- **(i)** the name, mailing address and other contact information of the permit holder and, if applicable, of the holder’s contact person,
+	- **(ii)** the permit number and its expiry date,
+	- **(iii)** the country from which the explosives were imported, the date of departure, the date of arrival in Canada and the province into which the explosives were imported,
+	- **(iv)** the means of transport used to import the explosives,
+	- **(v)** the date of delivery of the explosives to the facility used to store them and, if the facility is a licensed magazine, its licence number,
+	- **(vi)** the trade name of each explosive, its UN number and the name of its manufacturer,
+	- **(vii)** the quantity of explosives imported, expressed in rounds for ammunition, in units for detonators and as gross weight in kilograms for other explosives, and
+	- **(viii)** the purpose for which the explosives were or will be used; and
+- **(d)** after the theft of any explosives, a report in writing that describes when the theft occurred, the explosives that were stolen and how access to the explosives was obtained shall, without delay, be submitted to the Chief Inspector of Explosives.
+> SOR/2009-125, s. 3.
+
+
+
+
+**25.07** An application for a purchase and possession permit shall contain the information set out in Form 20 in Schedule II.
+> SOR/2009-125, s. 3.
+
+
+
+
+**25.08** An application for a fireworks certificate with a display apprentice endorsement or a pyrotechnician endorsement shall include the following:
+- **(a)** the applicant’s name, date of birth, mailing address and other contact information;
+- **(b)** the name of any fireworks organization to which the applicant belongs;
+- **(c)** two photos (3 cm x 2.5 cm) of the applicant taken within the previous 12 months; and
+- **(d)** proof that the applicant has successfully completed one of the following courses offered by the Explosives Regulatory Division, Natural Resources Canada:
+	- **(i)** the display fireworks safety and legal awareness course, if the application is for a display apprentice endorsement, or
+	- **(ii)** the pyrotechnics safety and legal awareness course, if the application is for a pyrotechnician endorsement.
+> SOR/2009-125, s. 3.
+
+
+
+
+**25.09** 
+
+- **(1)** An application for a senior pyrotechnician endorsement, a special effects pyrotechnician endorsement or a display supervisor endorsement shall include the following:
+	- **(a)** the applicant’s name, date of birth, mailing address and other contact information;
+	- **(b)** the name of any fireworks organization to which the applicant belongs;
+	- **(c)** the number and expiry date of the applicant’s fireworks certificate and the endorsements the applicant has;
+	- **(d)** two photos (3 cm x 2.5 cm) of the applicant taken within the previous 12 months;
+	- **(e)** a copy of the applicant’s work journal that sets out
+		- **(i)** the date and place of each fireworks display at which the applicant has worked and the types of explosive used,
+		- **(ii)** the capacity in which the applicant acted at each fireworks display, and
+		- **(iii)** the name of the applicant’s supervisor at each fireworks display;
+	- **(f)** if the application is for a senior pyrotechnician endorsement or a special effects pyrotechnician endorsement, three letters of recommendation; and
+	- **(g)** if the application is for a display supervisor endorsement, one letter of recommendation.
+
+- **(2)** In an application for one of the following endorsements, in addition to providing the information and documents referred to in subsection (1), the applicant shall
+	- **(a)** for a senior pyrotechnician endorsement, establish that the applicant has acted as a pyrotechnician for at least two years and submit a letter from a supervisor attesting that the applicant can safely use all authorized fireworks articles and powders;
+	- **(b)** for a special effects pyrotechnician endorsement, establish the applicant has acted as a senior pyrotechnician for at least two years and submit a letter from a supervisor attesting that the applicant can safely use all authorized fireworks articles and powders;
+	- **(c)** for a display supervisor endorsement, establish that the applicant has acted as an apprentice in at least three fireworks displays within the five years after the day on which the applicant completed the display fireworks safety and legal awareness course;
+	- **(d)** for a display supervisor — large shell endorsement, establish that the applicant has a display supervisor endorsement and submit a letter from a supervisor attesting that the applicant can safely use large shells;
+	- **(e)** for a display supervisor — nautical effects endorsement, establish that the applicant has a display supervisor endorsement and submit a letter from a supervisor attesting that the applicant can safely use nautical effects;
+	- **(f)** for a display supervisor — flying saucer endorsement, establish that the applicant has a display supervisor endorsement and submit a letter from a supervisor attesting that the applicant can safely use flying saucers;
+	- **(g)** for a display supervisor — rooftop, bridge and flatbed firing sites endorsement, establish that the applicant has a display supervisor endorsement and submit a letter from a supervisor attesting that the applicant can safely use those sites;
+	- **(h)** for a display supervisor — barge firing site endorsement, establish that the applicant has a display supervisor endorsement and submit a letter from a supervisor attesting that the applicant can safely use that site; and
+	- **(i)** for a special effects pyrotechnician — det cord endorsement, establish that the applicant has a special effects pyrotechnician endorsement and submit a letter from a supervisor attesting that the applicant can safely use initiation systems and detonating cords.
+> SOR/2009-125, s. 3.
+
+
+
+
+**25.1** An application for a fireworks certificate with a display — visitor endorsement or a pyrotechnician — visitor endorsement shall include the following:
+- **(a)** the applicant’s name, date of birth, mailing address and other contact information;
+- **(b)** the name of any fireworks organization to which the applicant belongs;
+- **(c)** two photos (3 cm x 2.5 cm) of the applicant taken within the previous12 months;
+- **(d)** a copy of the applicant’s work resume setting out the persons and organizations for which they have worked and the fireworks displays in which they have used fireworks;
+- **(e)** a list of the planned fireworks displays in Canada and their dates; and
+- **(f)** the name, contact information and fireworks certificate number of the Canadian supervisor in charge at each fireworks display.
+> SOR/2009-125, s. 3.
 
 
 
 
 **26** 
 
-- **(1)** Subject to subsection (2), the Minister may issue a licence or permit referred to in these Regulations for a period of not less than nine and not more than 15 months.
+- **(1)** [Repealed, SOR/2009-125, s. 4]
 
 - **(2)** An Explosives Purchase and Possession Permit is valid for 90 days from its date of issue.
 
@@ -397,7 +670,23 @@ while acting as such an inspector.
 	- **(b)** completes the activities permitted by the licence or permit;
 	- **(c)** carries on a practice in connection with the licence or permit that constitutes a special danger; or
 	- **(d)** contravenes the Act or these Regulations.
-> SOR/84-597, s. 1; SOR/89-169, s. 2.
+> SOR/84-597, s. 1; SOR/89-169, s. 2; SOR/2009-125, s. 4.
+
+
+
+
+**26.1** 
+
+- **(1)** An application for a renewal of a licence, permit or certificate shall be made by letter sent to the Minister and contain the following information:
+	- **(a)** the name, mailing address and other contact information of the applicant and, if applicable, of the applicant’s contact person; and
+	- **(b)** the number of the applicant’s existing licence, permit or certificate.
+
+- **(2)** An application for an amendment of a licence, permit or certificate or for a renewal with amendment shall contain the following information and documentation:
+	- **(a)** the name, mailing address and other contact information of the applicant and, if applicable, of the applicant’s contact person;
+	- **(b)** the number of the applicant’s existing licence, permit or certificate;
+	- **(c)** a description of the proposed changes; and
+	- **(d)** any information or documentation that differs from that provided in the previous application.
+> SOR/2009-125, s. 5.
 
 
 
@@ -429,21 +718,198 @@ while acting as such an inspector.
 
 
 
+
+**PART III.1** 
+## Fees
+
+
 **31** 
 
-- **(1)** The fees to be paid for a licence or permit issued for a period of 12 months are as follows:
-	- **(a)** for each licence for a factory other than a licence referred to in paragraph (b), $180 per process unit, per process vehicle and per magazine, subject to a minimum fee of $900 and a maximum fee of $25,000;
-	- **(b)** for each licence for a factory (fireworks), $90 per process unit and per magazine, subject to a minimum fee of $200 and a maximum fee of $4,000;
-	- **(c)** for each licence for a magazine other than a magazine referred to in paragraphs (d), (e), and (f), $90 for each of the first two magazines and $180 for each additional magazine within a site;
-	- **(d)** for each licence for a magazine (propellants), $90;
-	- **(e)** for each licence for a temporary magazine, $90;
-	- **(f)** for each licence for a fireworks magazine, $50;
-	- **(g)** for each General Explosives Importation Permit, $30;
-	- **(h)** for each Annual Explosives Importation Permit, $100; and
-	- **(i)** for each Explosives Transportation Permit, $30.
+- **(1)** The fees to be paid for the authorizations, licences, permits and certificates set out in column 1 are set out in column 2.
 
-- **(2)** Where the period of validity of a licence or permit other than a General Explosives Importation Permit is less or more than 12 months, the fee payable therefor shall be prorated.
-> SOR/84-597, s. 2; SOR/86-422, s. 3; SOR/90-26, s. 1; SOR/93-439, s. 2.
+- **(2)** The fees are payable at the time the application is submitted. However, the fees referred to in sections 1 and 3 of the table are payable within 30 days after the date of the invoice from the Department of Natural Resources.
+#### TABLE
+<table>
+<tr>
+<th>Item</th>
+<th>Column 1</th>
+<th>Column 2</th>
+</tr>
+<tr>
+<th>Authorization, Licence, Permit or Certificate</th>
+<th>Fee</th>
+</tr>
+<tr>
+<td></td>
+<td>Authorization of explosives:</td>
+<td></td>
+</tr>
+<tr>
+<td>1</td>
+<td>Authorization for an indefinite period</td>
+<td>$12 for each explosive substance and each explosive article, subject to a minimum fee per application of $125 and a maximum fee of $2,500 per year, plus**(a)** for explosives manufactured in Canada, $4 per year for each explosive substance and each group of explosive articles having the same design and construction (regardless of differences in size or colour effects), subject to a minimum fee per manufacturer of $125 and a maximum fee per manufacturer of $1,250 per year; and
+
+**(b)** for explosives manufactured outside Canada, $15 per year for each explosive substance and each group of explosive articles having the same design and construction (regardless of differences in size or colour effects), subject to a minimum fee per manufacturer of $125 per year and a maximum fee per manufacturer of $2,500 per year
+
+</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Authorization for a specified period for the purpose of an activity other than a tour, event or international competition in which fireworks are used</td>
+<td>$150</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Authorization for a specified period for the purpose of a tour, event or international competition in which fireworks are used</td>
+<td>$500 for each fireworks display, subject to a maximum fee of $2,500 for displays that are part of the same tour, event or international competition</td>
+</tr>
+<tr>
+<td></td>
+<td>Permit to import explosives:</td>
+<td></td>
+</tr>
+<tr>
+<td>4</td>
+<td>General import permit</td>
+<td>$160</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Annual import permit</td>
+<td>With the exception of automotive explosives, and subject to a maximum fee of $1,300, $160 plus $20 for each 1 000 kg NEQ imported, calculated**(a)** on the basis of the estimated maximum quantity to be imported during the year, for an initial application; and
+
+**(b)** on the basis of the quantity imported during the most recent year, for any subsequent application
+
+</td>
+</tr>
+<tr>
+<td></td>
+<td>Factory licence:</td>
+<td></td>
+</tr>
+<tr>
+<td>6</td>
+<td>Initial factory licence to manufacture blasting, bulk or defence explosives.</td>
+<td>Subject to a minimum fee of $3,000 and a maximum fee of $30,000, the total of**(a)** $800 for each process unit;
+
+**(b)** $800 for each mobile process unit,
+
+**(c)** $17 per 1 000 kg NEQ storage limit increment of each magazine other than a detonator magazine; and
+
+**(d)** $225 for each detonator magazine
+
+</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Renewal of a factory licence to manufacture blasting, bulk or defence explosives</td>
+<td>Subject to a minimum fee of $3,000 and a maximum fee of $30,000, the total of**(a)** $575 for each process unit;
+
+**(b)** $575 for each mobile process unit;
+
+**(c)** $17 for each 1 000 kg NEQ storage limit increment of each magazine other than a detonator magazine; and
+
+**(d)** $225 for each detonator magazine
+
+</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Any other factory licence</td>
+<td>Subject to a minimum fee of $800 and a maximum fee of $3,000, the total of**(a)** $800 for each process unit; and
+
+**(b)** $17 for each 1 000 kg NEQ storage limit increment, for any quantity greater than 250 kg NEQ
+
+</td>
+</tr>
+<tr>
+<td></td>
+<td>Vendor magazine licence:</td>
+<td></td>
+</tr>
+<tr>
+<td>9</td>
+<td>Vendor magazine licence to store high explosives or initiation systems</td>
+<td>The total of**(a)** $25 for each 1 000 kg NEQ of storage limit increment of each magazine other than a detonator magazine; and
+
+**(b)** $275 for each detonator magazine
+
+</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Vendor magazine licence to store any other explosives</td>
+<td>**(a)** $140 for each retail outlet;
+
+**(b)** $350 for each distributor establishment; and
+
+**(c)** $700 for each distributor establishment that repackages explosives
+
+</td>
+</tr>
+<tr>
+<td></td>
+<td>User magazine licence:</td>
+<td></td>
+</tr>
+<tr>
+<td>11</td>
+<td>User magazine licence to store high explosives or initiation systems</td>
+<td>$140 per magazine, subject to a minimum fee of $280</td>
+</tr>
+<tr>
+<td>12</td>
+<td>User magazine zone licence to store high explosives or initiation systems</td>
+<td>$200 per magazine, subject to a minimum fee of $400</td>
+</tr>
+<tr>
+<td>13</td>
+<td>User magazine licence to store any other explosives, with the exception of explosives stored by law enforcement agencies</td>
+<td>$70</td>
+</tr>
+<tr>
+<td></td>
+<td>Manufacturing certificate:</td>
+<td></td>
+</tr>
+<tr>
+<td>14</td>
+<td>Certificate to manufacture blasting explosives</td>
+<td>$200 per month, subject to a minimum fee of $800 and a maximum fee of $1,600</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Certificate to mechanically blend ammonium nitrate and fuel oil for immediate use at the place of blending</td>
+<td>$800</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Any other manufacturing certificate</td>
+<td>$75</td>
+</tr>
+<tr>
+<td></td>
+<td>Fireworks certificate</td>
+<td></td>
+</tr>
+<tr>
+<td>17</td>
+<td>Initial certificate</td>
+<td>$150</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Modification of certificate</td>
+<td>$100</td>
+</tr>
+<tr>
+<td>19</td>
+<td>Renewal of certificate</td>
+<td>$100</td>
+</tr>
+</table>
+
+> SOR/84-597, s. 2; SOR/86-422, s. 3; SOR/90-26, s. 1; SOR/93-439, s. 2; SOR/2009-125, s. 6.
 
 
 
@@ -1886,1661 +2352,38 @@ which building, or bin is
 
 
 ### **SCHEDULE II** 
-**(Sections 25, 53 and 145)**
-ENERGY, MINES AND RESOURCES CANADAFORM 1
+**(Sections 25.07, 53 and 117.1)**
+### **FORMS 1 TO 17** 
+[Repealed, SOR/2009-125, s. 8]
 
-
-
-
-## Explosives Branch
-## Ottawa, Canada
-## K1A 0E4
-
-
-
-#### FORM OF APPLICATION FOR A LICENCE FOR A <sup><a href='#footnote1_e'>[*]</a></sup>FACTORY OR <sup><a href='#footnote1_e'>[*]</a></sup>MAGAZINE FOR EXPLOSIVES
-<table>
-<tr>
-<th></th>
-<th></th>
-<th>THE REPLIES TO BE WRITTEN IN THIS COLUMN</th>
-</tr>
-<tr>
-<th></th>
-</tr>
-<tr>
-<td>1</td>
-<td>Applicant’s Name</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Applicant’s Address</td>
-<td></td>
-</tr>
-<tr>
-<td>NOTE — In cases where the application is made on behalf of a Company, the name, business, and address of the Company, and the name of the Secretary, should be given.
-
-</td>
-<td></td>
-</tr>
-<tr>
-<td>2</td>
-<td>Situation of the proposed Factory or Magazine.</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Province</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>County</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Township</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Town or City</td>
-<td></td>
-</tr>
-<tr>
-<td>3</td>
-<td>Explosive proposed to be stored or manufactured.</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Class</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Division (if any)</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Name and Description</td>
-<td></td>
-</tr>
-<tr>
-<td>NOTE — The class and division (if any) stated, should be in accordance with Part I of the Explosives Regulations, made under the Act.
-
-</td>
-<td></td>
-</tr>
-<tr>
-<td>4</td>
-<td>A draft licence must be attached to this application and be accompanied (as far as applicable) by:</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>**(a)** a plan, satisfactory to the Minister, drawn to scale, of the proposed factory or magazine and of the site on which such factory or magazine is situated and of all buildings or structures thereon or proposed to be erected thereon and also of the lands adjacent thereto and all buildings or structures thereon with a statement of the uses to which such site, buildings or structures are or are to be put and the exact distances between the several buildings or structures marked thereon;
-
-**(b)** a description of the situation, character and construction of all buildings and works connected with the factory or magazine and the maximum amount of explosive to be kept in each building;
-
-**(c)** a statement of the maximum number of persons to be employed in each building in the factory or magazine;
-
-**(d)** in the case of an application for a factory licence, a statement of the maximum amount of explosive, and of ingredients thereof wholly or partially mixed to be allowed at any one time in any building, machine, or process of the manufacture, or within the distance from such building or machine which is limited by regulation;
-
-**(e)** in the case of an application for a factory licence, a statement of the nature of the processes to be carried on in the factory and each part thereof, and the place at which each process of the manufacture, and each description of work connected with the factory, is to be carried on, and the places in the factory at which explosives and anything liable to spontaneous ignition, or inflammable or otherwise dangerous, are to be kept; and
-
-**(f)** any other information or evidence which the Minister may require.
-
-</td>
-<td></td>
-</tr>
-<tr>
-<td>5</td>
-<td>Remarks</td>
-<td></td>
-</tr>
-<tr>
-<td>Signature of Applicant </td>
-</tr>
-<tr>
-<td>Postal Address of Applicant </td>
-</tr>
-<tr>
-<td>Date of Application </td>
-<td>Telephone No.: </td>
-</tr>
-<tr>
-<td></td>
-<td>(Area Code)</td>
-</tr>
-</table>
-
-
-
-<a name='footnote1_e'><sup>*</sup></a>: If application is for a factory licence strike out the word “magazine” and vice versa.<br />
-
-
-EXPLOSIVES DIVISIONFORM 2
-
-
-
-
-## Department of Energy, Mines and Resources
-
-
-
-#### FACTORY LICENCE
-<table>
-<tr>
-<td>No</td>
-<td></td>
-</tr>
-<tr>
-<td>Registry No.</td>
-<td></td>
-</tr>
-<tr>
-<td>Licensee’s Name</td>
-<td></td>
-</tr>
-<tr>
-<td>      “         Calling</td>
-<td></td>
-</tr>
-<tr>
-<td>      ”         Address</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td><sup><a href='#footnote2_e'>[*]</a></sup>Province</td>
-</tr>
-<tr>
-<td>Situation of the Factory</td>
-<td><sup><a href='#footnote2_e'>[*]</a></sup>County</td>
-</tr>
-<tr>
-<td><sup><a href='#footnote2_e'>[*]</a></sup>Township</td>
-</tr>
-<tr>
-<td></td>
-<td><sup><a href='#footnote2_e'>[*]</a></sup>City or Town</td>
-</tr>
-<tr>
-<td>
-
-<a name='footnote2_e'><sup>*</sup></a>: Small graphic is not displayed.<br />
-
-IN PURSUANCE of the [Explosives Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-17.md), the Factory at the above-named situation is hereby licensed for the manufacture of explosives subject to the provisions of the said Act, and of any Orders in Council, regulations, and rules made and to be made thereunder, and in force for the time being, and subject also to the terms hereunto annexed, and to such other terms, conditions and requirements as may be imposed from time to time by the Minister.
-
-Issued by the Minister of Energy, Mines and Resources
-
-</td>
-</tr>
-<tr>
-<td></td>
-<td>____________</td>
-</tr>
-<tr>
-<td></td>
-<td>Minister of Energy, Mines and Resources</td>
-</tr>
-<tr>
-<td>Ottawa
-
-</td>
-</tr>
-<tr>
-<td>&nbsp;&nbsp;&nbsp;&nbsp; day of 
-
-</td>
-</tr>
-</table>
-
-EXPLOSIVES DIVISIONFORM 3
-
-
-
-
-## Department of Energy, Mines and Resources
-## Terms of Licence
-## (Explosives Factory)
-
-
-
-The following are the terms annexed to the Licence No.____________ dated____________ for an Explosives Factory.
-
-
-**1** The site of the Factory shall be that shown on the plan, signed by an Inspector, and attached hereto.
-
-
-**2** The mounds, buildings, and works on or connected with the Factory shall be on the sites shown on said plan ____________ and their construction shall be as set forth in Form 4 attached hereto.
-
-
-**3** If the distance between any danger building and any building of the Factory is less than that shown on the said plan, the quantity of Explosives present in such danger building shall be Nil, or such quantity as an Inspector may from time to time prescribe in writing, notwithstanding anything contained in any other term of the Licence.
-
-
-**4** The Explosives for which authority to manufacture is given under this Licence are detailed in Form 5 attached hereto.
-
-
-**5** The processes to be carried out in each part of the Factory, and the place at which each such process is to be carried on, shall be those set forth in Form 6 attached hereto, but the occupier of the Factory may in a case of emergency, temporarily use one building or part of a building in which any process of the manufacture is, under the terms of the Licence, carried on, for another process of the manufacture, if he does not carry on in such building or part more than one process at the same time, and if the quantity of explosives or ingredients thereof in such building or part does not exceed the quantity to be therein, or any less quantity allowed to be in the building or part of the building in which such other process is usually carried on; but immediately upon such use being commenced, he shall send notice of such use to an Inspector of Explosives, and he shall immediately discontinue such use if the Inspector so requires.
-
-
-**6** The limitations and applications set forth in Form 6 attached hereto shall be duly observed, except that the limitation of the number of persons specified in the said Form does not include those who in the course of their duties may require to visit the building.
-
-
-**7** The distances to be maintained between the buildings of the factory and such buildings and works outside the factory as are specified in Form 7 attached hereto, shall be those set forth in the said Form.
-
-
-**8** Any conditions or restrictions imposed by the Minister under section 73 of the Explosives Regulations shall be posted in suitable places for the information of all concerned.
-
-
-**9** Special Rules drawn up by the occupier, designed to secure the observance of the provisions of the Act and of conditions of safety, and the maintenance of proper discipline in the Factory, shall be submitted for the approval of the Chief Inspector of Explosives, and shall thereafter be posted in suitable places for the information of all concerned.
-
-
-**10** Good and sufficient means of escape for all persons employed in any danger building or in any building in which any wholly or partially manufactured explosive is present or is liable so to be, shall be provided and maintained in connection with each such building.
-
-
-**11** Reports shall be rendered to the Chief Inspector of Explosives immediately on the occurrence of any accidents which may arise in the factory and which involve the ignition of any explosive material whether or not accompanied by injury to personnel or damage to material.
-
-
-These reports should not be delayed for investigation as to cause, but it is essential that immediate advice be given of the actual occurrence of any such accident.
-
-
-**12** If for any reason the operation of the factory be discontinued, temporarily or otherwise, the licensee shall notify the Chief Inspector of Explosives in writing, of such discontinuance, and if such discontinuance be other than of a temporary nature permitting the period of cessation to be stated, notification shall similarly be made of intention to resume operations prior to effect being given thereto, and when possible not less than two weeks before the commencement of manufacturing operations.
-
-
-**13** This Licence shall not be valid after 
-
-
-**14** This Licence is also subject to such other terms, conditions and requirements as may be imposed from time to time by the Minister and which shall have been communicated in writing to the licensee.
-
-
-EXPLOSIVES DIVISIONFORM 4
-
-
-#### DEPARTMENT OF ENERGY, MINES AND RESOURCES
-<table>
-<tr>
-<th>Distinguishing number, letter, or name of building, mound or work on plan attached to licence</th>
-<th>Nature of construction of building, mound or work, and in the case of each building or work, the means adopted for protection from lightning</th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>NOTE — A brief description should be given of the system of lighting adopted in the buildings, the latter being taken collectively, or in groups, or singly, as convenient.
-
-</td>
-</tr>
-</table>
-
-EXPLOSIVES DIVISIONFORM 5
-
-
-#### DEPARTMENT OF ENERGY, MINES AND RESOURCES
-<table>
-<tr>
-<th>Any of the following Authorized Explosives:</th>
-</tr>
-<tr>
-<th></th>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-</table>
-
-EXPLOSIVES DIVISIONFORM 6
-
-
-#### DEPARTMENT OF ENERGY, MINES AND RESOURCES
-<table>
-<tr>
-<th>Distinguishing number, letter, or name of building, room, or place on plan attached to licence</th>
-<th>Application of building, room, or place, or process to be carried on therein</th>
-<th>Explosives allowed, or ingredients, or articles liable to spontaneous ignition or inflammable or otherwise dangerous, and limitation of quantity to be in each building, room or place</th>
-<th>Limitation of number of persons to be in each building, room, or place</th>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-ENERGY, MINES AND RESOURCES CANADAFORM 7
-
-
-
-
-## Explosives Branch
-
-
-
-
-
-
-####  DISTANCES TO BE MAINTAINED BETWEEN THE BUILDINGS OF THE <sup><a href='#footnote3_e'>[*]</a></sup>FACTORY AND OTHER BUILDINGS AND WORKS OUTSIDE THE <sup><a href='#footnote3_e'>[*]</a></sup>FACTORY
-<table>
-<tr>
-<th>Designation of Building on Plan</th>
-<th>Public Highway, canal or other navigable water, open place of resort where people may assemble</th>
-<th>Public Railway</th>
-<th>Dwelling House, retail shop, church, school, factory or other building where people may assemble, building or works used for the storage in bulk of petroleum spirit, gasoline or other flammable substances</th>
-<th>Magazine Containing Explosives</th>
-<th>Process Building (Explosives Factory)</th>
-</tr>
-<tr>
-<th></th>
-<th>Metres</th>
-<th>Metres</th>
-<th>Metres</th>
-<th>Metres</th>
-<th>Metres</th>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-
-
-<a name='footnote3_e'><sup>*</sup></a>: To be deleted and word “MAGAZINE” inserted when the schedule is used in connection with a Licence for a Magazine for explosives or application therefor.<br />
-
-
-EXPLOSIVES DIVISIONFORM 8
-
-
-
-
-## Department of Energy, Mines and Resources
-
-
-
-#### MAGAZINE LICENCE
-<table>
-<tr>
-<td>No</td>
-<td></td>
-</tr>
-<tr>
-<td>Registry No.</td>
-<td></td>
-</tr>
-<tr>
-<td>Licensee’s Name</td>
-<td></td>
-</tr>
-<tr>
-<td>      “         Calling</td>
-<td></td>
-</tr>
-<tr>
-<td>      ”         Address</td>
-<td></td>
-</tr>
-<tr>
-<td>Situation of the Factory</td>
-<td><sup><a href='#footnote4_e'>[*]</a></sup>Province</td>
-</tr>
-<tr>
-<td><sup><a href='#footnote4_e'>[*]</a></sup>County</td>
-</tr>
-<tr>
-<td><sup><a href='#footnote4_e'>[*]</a></sup>Township</td>
-</tr>
-<tr>
-<td><sup><a href='#footnote4_e'>[*]</a></sup>City or Town</td>
-</tr>
-<tr>
-<td>
-
-<a name='footnote4_e'><sup>*</sup></a>: Small graphic is not displayed.<br />
-
-</td>
-</tr>
-<tr>
-<td>IN PURSUANCE of the [Explosives Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-17.md), the Magazine at the above-named situation is hereby licensed for the storage of explosives subject to the provisions of the said Act, and of any Orders in Council, regulations, and rules made and to be made thereunder, and in force for the time being, and subject also to the terms hereunto annexed, and to such other terms, conditions and requirements as may be imposed from time to time by the Minister.
-
-</td>
-</tr>
-<tr>
-<td>Issued by the Minister of Energy, Mines and Resources
-
-</td>
-</tr>
-<tr>
-<td></td>
-<td>____________</td>
-</tr>
-<tr>
-<td></td>
-<td>Minister of Energy, Mines and Resources</td>
-</tr>
-<tr>
-<td>Ottawa
-
-</td>
-</tr>
-<tr>
-<td>&nbsp;&nbsp;&nbsp;&nbsp; day of 
-
-</td>
-</tr>
-</table>
-
-EXPLOSIVES DIVISIONFORM 9
-
-
-
-
-## Department of Energy, Mines and Resources
-
-
-### TERMS OF LICENCE
-
-
-### (EXPLOSIVES MAGAZINE)
-
-
-
-The following are the terms annexed to Licence No. ____________ dated ____________ for Explosives Magazine:
-
-
-**1** The site of the magazine shall be that shown on the plan signed by an Inspector, and attached hereto.
-
-
-**2** The mounds, buildings, and works, on or connected with the magazine, shall be on the sites shown on the said plan____________, and their construction shall be set forth in the Form 4.
-
-
-**3** The explosives for which authority to store in the magazine is given in the licence are detailed in Form 5 attached hereto.
-
-
-**4** The distances to be maintained between the buildings and works in or connected with the magazine, and between these and such buildings and works outside the magazine as are specified in Form 7 attached hereto, shall be those set forth in the said Form.
-
-
-**5** For a magazine licence other than a magazine licence (propellants),
-
-
-**(a)** no blasting explosives shall at any time be present in the portion of the magazine(s) marked
-
-
-
-
-
-on the said plan and no detonators shall at any time be present in the portion of the magazine(s) marked 
-
-
-
-
-
-on the same plan ; and
-
-
-**(b)** the quantity of blasting explosives in the magazine(s) shall not at any time exceed (list each magazine and its limit) 
-
-
- kg
-
-
-and the number of detonators shall not exceed (list each magazine and its limit) 
-
-
-
-
-
-**6** For a magazine licence (propellants),
-
-
-**(a)** no propellant shall at any time be present in the portion of the magazine(s) marked 
-
-
-on the said plan and no percussion caps shall at any time be present in the portion of the magazine(s) marked 
-
-
-on the same plan; and
-
-
-**(b)** the quantity of propellants in the magazine(s) shall not at any time exceed (list each magazine and its limit)
-
-
- kg
-
-
-and the number of percussion caps shall not exceed (list each magazine and its limit) 
-
-
-
-
-
-**7** A report in writing shall be rendered to the Chief Inspector of Explosives, immediately on its occurrence, of any fire affecting the magazine, or of any accident which may take place in the magazine involving the ignition or explosion of any explosive material.
-
-
-**8** A report in writing shall be rendered to the Chief Inspector of Explosives in the event of the magazine being broken into, or of any theft of explosives from the magazine.
-
-
-**9** This Licence shall not be valid after 
-
-
-ENERGY, MINES AND RESOURCES CANADAFORM 10
-
-
-
-
-## Explosives Branch
-## Ottawa, Canada
-## K1A 0E4
-
-
-
-#### FORM OF APPLICATION FOR A LICENCE FOR A TEMPORARY MAGAZINE FOR EXPLOSIVES
-<table>
-<tr>
-<th></th>
-<th></th>
-<th>THE REPLIES TO BE WRITTEN IN THIS COLUMN</th>
-</tr>
-<tr>
-<th></th>
-</tr>
-<tr>
-<td>1</td>
-<td>Applicant’s Name.</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>       “         Calling.</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>       “         Address.</td>
-<td></td>
-</tr>
-<tr>
-<td>NOTE. — In cases where the application is made on behalf of a Company, the name, business and address of the Company and the name of the Secretary should be given.
-
-</td>
-<td></td>
-</tr>
-<tr>
-<td>2</td>
-<td>Situation of the proposed magazine buildings.</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Province.
-
-</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>County.
-
-</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Township.
-
-</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>City or Town.
-
-</td>
-<td></td>
-</tr>
-<tr>
-<td>3</td>
-<td>Explosives proposed to be stored (giving trade names).</td>
-<td></td>
-</tr>
-<tr>
-<td>4</td>
-<td>Maximum quantity of blasting explosives (dynamite) to be stored at one time (in kilograms).</td>
-<td></td>
-</tr>
-<tr>
-<td>5</td>
-<td>Maximum number of detonators to be stored at one time, in a separate magazine from blasting explosives.</td>
-<td></td>
-</tr>
-<tr>
-<td>NOTE. — When more than one magazine is maintained for the storage of Blasting Explosives, give maximum quantity for each.</td>
-<td></td>
-</tr>
-<tr>
-<td>6</td>
-<td>Minimum distance that will be observed between dynamite magazine and the following vulnerable points — :</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>**(a)** Highway or open place of resort.
-
-</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>**(b)** Public railway.
-
-</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>**(c)** Dwelling house, church, school, or other building in which people may assemble.
-
-</td>
-<td></td>
-</tr>
-<tr>
-<td>NOTE. — The following is a guide to what is required for distances: —
-
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-<table>
-<tr>
-<th>Quantity</th>
-<th>Highway, railway</th>
-<th>Houses, etc.</th>
-</tr>
-<tr>
-<th></th>
-</tr>
-<tr>
-<td>250 kg</td>
-<td>30 m</td>
-<td>60 m</td>
-</tr>
-<tr>
-<td>2 000 kg</td>
-<td>120 m</td>
-<td>240 m</td>
-</tr>
-<tr>
-<td>5 000 kg</td>
-<td>190 m</td>
-<td>300 m</td>
-</tr>
-<tr>
-<td>20 000 kg</td>
-<td>300 m</td>
-<td>600 m</td>
-</tr>
-</table>
-
-
-</td>
-<td></td>
-</tr>
-<tr>
-<td>7</td>
-<td>Extent of the ground to be maintained clear of bush around the magazines.</td>
-<td></td>
-</tr>
-<tr>
-<td>8</td>
-<td>Nature of construction of magazine buildings, giving alternative description if permission to adopt more than one form is desired.</td>
-<td></td>
-</tr>
-<tr>
-<td>9</td>
-<td>Nature of protection to be afforded from action by malicious persons, whether by erection of fences, provision of watchmen, or both.</td>
-<td></td>
-</tr>
-<tr>
-<td>10</td>
-<td>Means of protection to be given against lightning where there is no adequate natural protection.</td>
-<td></td>
-</tr>
-</table>
-
-Signature of Applicant 
-
-
-Postal address of Applicant 
-
-
-Date of Application ____________ Telephone No: 
-
-
-(*Area Code*)
-
-
-EXPLOSIVES DIVISIONFORM 11
-
-
-
-
-## Department of Energy, Mines and Resources
-
-
-
-#### MAGAZINE LICENCE
-<table>
-<tr>
-<td>No</td>
-<td></td>
-</tr>
-<tr>
-<td>Registry No.</td>
-<td></td>
-</tr>
-<tr>
-<td>Licensee’s Name</td>
-<td></td>
-</tr>
-<tr>
-<td>      “         Calling</td>
-<td></td>
-</tr>
-<tr>
-<td>      ”         Address</td>
-<td></td>
-</tr>
-<tr>
-<td>Situation of the Factory</td>
-<td><sup><a href='#footnote5_e'>[*]</a></sup>Province</td>
-</tr>
-<tr>
-<td><sup><a href='#footnote5_e'>[*]</a></sup>County</td>
-</tr>
-<tr>
-<td><sup><a href='#footnote5_e'>[*]</a></sup>Township</td>
-</tr>
-<tr>
-<td><sup><a href='#footnote5_e'>[*]</a></sup>City or Town</td>
-</tr>
-<tr>
-<td>
-
-<a name='footnote5_e'><sup>*</sup></a>: Small graphic is not displayed.<br />
-
-</td>
-</tr>
-<tr>
-<td>IN PURSUANCE of the [Explosives Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-17.md), the Magazine at the above-named situation is hereby licensed for the storage of explosives subject to the provisions of the said Act, and of any Orders in Council, regulations and rules, made and to be made thereunder, and in force for the time being, and subject also to the terms hereunto annexed, and to such other terms, conditions and requirements as may be imposed from time to time by the Minister.
-
-</td>
-</tr>
-<tr>
-<td>Issued by the Minister of Energy, Mines and Resources
-
-</td>
-</tr>
-<tr>
-<td></td>
-<td>____________</td>
-</tr>
-<tr>
-<td></td>
-<td>Minister of Energy, Mines and Resources</td>
-</tr>
-<tr>
-<td>Ottawa
-
-</td>
-</tr>
-<tr>
-<td>&nbsp;&nbsp;&nbsp;&nbsp; day of 
-
-</td>
-</tr>
-</table>
-
-EXPLOSIVES DIVISIONFORM 12
-
-
-
-
-## Department of Energy, Mines and Resources
-## Terms of Licence for a Temporary Magazine
-
-
-
-The following are the terms annexed to Licence No ____________ dated ____________ for a temporary magazine for explosives.
-
-
-**1** The location of the magazine, the nature of its construction, the nature and quantity of explosive which may be stored in it, shall be approved in the form of application and countersigned by one of the Inspectors, and all the undertakings given in the form of application shall be duly observed.
-
-
-**2** Different explosives of Classes<sup><a href='#footnote6_e'>[*]</a></sup> 1, 2, 3 and 4 (which include all authorized explosives in general use for blasting), safety fuses belonging to Division 1 of Class 6, and such of the various explosives of Division 2 of Class 6 as do not contain any exposed iron or steel, may be kept in the same temporary magazine without intervening partition, but these explosives may not be so kept with those of any other class or division.
-
-
-
-
-<a name='footnote6_e'><sup>*</sup></a>: The classification of explosives is given in Part I of the Explosives Regulations.<br />
-
-
-**3** The various explosives of Division 1 of Class 6, or those of Division 2 of Class 6 as contain any exposed iron or steel, or those of Division 3 of Class 6 (detonators), <sup><a href='#footnote7_e'>[**]</a></sup>or those of Class 7 may be kept with each other, but not those of any one of these Divisions or Classes with those of any of the others.
-
-
-
-
-<a name='footnote7_e'><sup>**</sup></a>: It will be noted that detonators are to be stored in separate magazines from blasting explosives, and in such a manner that the explosion of the detonators would not be communicated to the other explosives.<br />
-
-
-**4** No explosives of Class 5 (fulminate) will be kept in the same temporary magazine with any other explosive
-
-
-**5** The Licensee shall take measures to:
-
-
-**(a)** prevent the entry of the magazine by any unauthorized person;
-
-
-**(b)** prevent the taking into the magazine of any matches, charcoal, oiled waste or any other article liable to spontaneous ignition, or of any iron or steel tools;
-
-
-**(c)** ensure the maintenance of the interior of the magazine in a clean condition and free from grit; and
-
-
-**(d)** in general, ensure the observance of proper discipline and the exercise of proper care on the part of those persons whose duties require them at any time to be in or near the magazine, as well as to prevent trespassing or interference on the part of unauthorized persons.
-
-
-**6** This Licence shall not be valid after 
-
-
-**7** This Licence is also subject to such other terms, conditions and requirements as may be imposed from time to time by the Minister and which shall have been communicated in writing to the licensee.
-
-
-EXPLOSIVES DIVISIONFORM 13
-
-
-
-
-## Department of Energy, Mines and Resources
-
-
-
-#### FORM OF APPLICATION FOR <sup><a href='#footnote8_e'>[*]</a></sup>GENERAL OR <sup><a href='#footnote8_e'>[*]</a></sup>ANNUAL EXPLOSIVES IMPORTATION PERMIT
-<table>
-<tr>
-<td></td>
-<td></td>
-<td>THE REPLIES TO BE WRITTEN IN THIS COLUMN</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Applicant’s Name.</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>       “         Calling</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>       ”         Address</td>
-<td></td>
-</tr>
-<tr>
-<td>NOTE. — In cases where the application is made on behalf of a Company, the name, business and address of the Company, and the name of the Secretary should be given.
-
-</td>
-<td></td>
-</tr>
-<tr>
-<td>2</td>
-<td>Name and description of the explosive proposed to be imported.</td>
-<td></td>
-</tr>
-<tr>
-<td>3</td>
-<td>Amount proposed to be imported at one time.</td>
-<td></td>
-</tr>
-<tr>
-<td>4</td>
-<td>Place of the proposed importation.</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Province.
-
-</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Port or Harbour.
-
-</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Place of unshipment or trans-shipment.
-
-</td>
-<td></td>
-</tr>
-<tr>
-<td>5</td>
-<td>Where proposed to be stored, or how otherwise disposed of.</td>
-<td></td>
-</tr>
-<tr>
-<td>NOTE. — In the event of the applicant not having a licence for magazines or stores capable of receiving the whole amount to be imported, the application must be accompanied by a certificate from some occupier of a licensed magazine to the effect that he is prepared to receive this amount and store the same. This certificate is required also when the consignment is intended for immediate trans-shipment.
-
-</td>
-<td></td>
-</tr>
-<tr>
-<td>6</td>
-<td>Name and address of the manufacturer of the explosive proposed to be imported.</td>
-<td></td>
-</tr>
-<tr>
-<td>7</td>
-<td>From what foreign port or place shipment is expected to be made.</td>
-<td></td>
-</tr>
-<tr>
-<td>8</td>
-<td>Name and address of the consignor of the explosive.</td>
-<td></td>
-</tr>
-<tr>
-<td>9</td>
-<td>Name of the ship or boat in which the importation is to be made.</td>
-<td></td>
-</tr>
-<tr>
-<td>NOTE. — The information should be given when practicable; where impracticable, state name of importing vessel “not known”.
-
-</td>
-<td></td>
-</tr>
-<tr>
-<td>10</td>
-<td>Approximate date of arrival of explosive at place of importation.</td>
-<td></td>
-</tr>
-<tr>
-<td>11</td>
-<td>Remarks.</td>
-<td></td>
-</tr>
-<tr>
-<td>Signature of Applicant </td>
-</tr>
-<tr>
-<td>Postal Address of Applicant </td>
-</tr>
-<tr>
-<td>Date of Application </td>
-</tr>
-</table>
-
-
-<a name='footnote8_e'><sup>*</sup></a>: If application is for annual permit strike out the word “general” and vice versa.<br />
-
-
-
-ENERGY, MINES AND RESOURCES CANADAFORM 14
-
-
-
-
-## Explosives Branch
-## Ottawa, Canada
-## K1A 0E4
-
-
-
-Permit No. ____________
-
-
-File No. ____________
-
-
-
-
-## General Explosives Importation Permit
-
-
-
-Permittee’s Name 
-
-
-Permittee’s Address 
-
-
-Place of Importation 
-
-
-IN PURSUANCE of the [Explosives Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-17.md), the person above named is hereby authorized to import explosives, subject to the provisions of the said Act and of any Orders in Council, regulations and rules made and to be made thereunder, and in force for the time being, and subject also to the terms hereunto annexed.
-
-
-This Permit is valid for one importation only during the 12-month period commencing on the ____________ day of ____________
-
-
-_________________________
-
-
-Minister of Energy, Mines and Resources
-
-
-EXPLOSIVES DIVISIONFORM 15
-
-
-
-
-## Department of Energy, Mines and Resources
-## Terms of General Importation Permit
-
-
-
-The following are the terms annexed to Importation Permit No. ____________ dated ____________.
-
-
-**1** No explosive shall be imported under this Permit other than the following:
-
-
-**2** The quantity of explosive so imported shall not exceed: 
-
-
-**3** All explosives imported under this Permit shall be packed in accordance with the regulations for the Transportation of Explosives as issued by the Board of Transport Commissioners for Canada, unless the shipment has been made from the United Kingdom and the explosive is packed in conformity with the laws of the United Kingdom.
-
-
-**4** No ship or boat containing explosive imported in virtue of this Permit shall bring to or moor, and no such explosive shall be unloaded or transhipped from any ship or boat, except at such port or part of the place of importation as may be appointed or authorized for that purpose by the Local Authority having jurisdiction over such place of importation.
-
-
-**5** The Importer and also — if the explosive is imported by ship or boat — the Owner and Master of any such ship or boat in which any explosive is being imported in virtue of this Permit, shall, when required by an Inspector, or by an Officer appointed by the Local Authority, having jurisdiction over the place of importation, or by any officer of the Commissioner of Customs, produce to him this permit and furnish such Inspector or Officer with the means necessary to enable him to ascertain whether the conditions of the same are complied with; and shall, when required by any Inspector or Officer as aforesaid, open, or cause to be opened, any case or package imported under this Permit for the purpose of examination or for the taking of samples by such Inspector or Officer, and shall repack, or cause to be repacked, every case so opened, using all due care and precautions in the opening and repacking of the same for the prevention of accidents.
-
-
-**6** The Importer and also — if the explosive is imported by ship or boat — the Owner and Master of the ship or boat in which any explosive is being imported in virtue of this Permit, shall, if and when required by an Inspector, or by any officer appointed by the Local Authority having jurisdiction over the place of importation, or by any officer of the Commissioner of Customs, allow such Inspector or Officer to take for examination small samples of any explosive so imported.
-
-
-**7. to 10** [Revoked, SOR/84-597, s. 6]
-
-
-ENERGY, MINES AND RESOURCES CANADAFORM 16
-
-
-
-
-## Explosives Branch
-## Ottawa, Canada
-## K1A 0E4
-## Importers Transmission Schedule
-
-
-
-This form to be filled up as soon as the Importation of Explosive is effected, and returned with the Permit, forthwith, to the Chief Inspector of Explosives, Department of Energy, Mines and Resources, Ottawa
-
-
-<table>
-<tr>
-<td>Permit under which the importation is made </td>
-<td>Port or Place of importation</td>
-<td>If by Water, Name of Ship or Boat in which Importation is made</td>
-<td>Date of Arrival at Port or Place of Importation</td>
-<td>Name and Address of</td>
-<td>Port or Place from which the Explosive was Forwarded</td>
-<td>Nature of the Explosive Imported and Marks on Cases</td>
-<td>Amount of the Explosive Imported (Gross Weight, kg)</td>
-<td>Where the Explosive has been taken into Store<sup><a href='#footnote9_e'>[*]</a></sup></td>
-</tr>
-<tr>
-<td> No.  Date</td>
-<td>Consignor  Manufacturer</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Signature of Importer </td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Address of Importer </td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Date </td>
-</tr>
-</table>
-
-
-<a name='footnote9_e'><sup>*</sup></a>: Where the explosive has been imported for immediate trans-shipment abroad, particulars of the route (name of ship is by sea) by which the exportation is made, and date of despatch should be given in this column.<br />
-ENERGY, MINES AND RESOURCES CANADAFORM 17
-
-
-
-
-## Explosives Branch
-
-
-
-Permit No. ____________
-
-
-
-
-## Annual Explosives Importation Permit
-
-
-
-Permittee’s Name 
-
-
-Permittee’s Calling 
-
-
-Permittee’s Address 
-
-
-Place of Importation 
-
-
-
-
-
-
-
-
-IN PURSUANCE of the [Explosives Act](/en/Acts/Revised%20Statutes%20of%20Canada/E/E-17.md), the person above-named is hereby authorized to import explosives at the above-named place, subject to the provisions of the said Act, and of any Orders in Council, regulations, and rules made, and to be made thereunder, and in force for the time being, and subject also to the terms hereunder given.
-
-
-**1** The explosives which may be imported under this authority are 
-
-
-**2** The quantity of these explosives which may be imported in any one consignment shall not exceed 
-
-
-**3** The two duplicate copies of this Annual Permit shall be handed to the Customs officer, for his use and retention; the original copy shall be held by the importer for use as described in paragraph 4 below.
-
-
-**4** The number of importations shall be unlimited, but the date of each importation, the Customs Entry number, the consignor’s name and the quantity imported shall be entered on the form at the back of this permit endorsed by the proper officer of Customs, and the permit so completed shall be returned to the Chief Inspector of Explosives, Department of Energy, Mines and Resources, Ottawa, immediately on the expiry of the period for which it is valid.
-
-
-**5** This permit shall not be valid after 
-
-
-____________ day of ____________
-
-
-Issued by the Minister of Energy, Mines and Resources
-
-
-____________
-
-
-for the Minister of Energy, Mines and Resources
-
-
-(Reverse Side of Form 17)
-
-
-
-
-## Department of Energy, Mines and Resources
-## Explosives Branch
-
-
-
-
-
-### CANADA
-### IMPORTERS TRANSMISSION SCHEDULE
-
-
-
-This form should be filled up as each Importation is effected, and returned immediately on the close of the period for which the Annual Permit is valid, to the Chief Inspector of Explosives, Department of Energy, Mines and Resources, Ottawa.
-
-
-<table>
-<tr>
-<th>Port or Place of Importation</th>
-<th>If by Water, Name of Ship or Boat in which the Importation is made</th>
-<th>Date of Arrival at Port or Place of Importation</th>
-<th>Name and Address of</th>
-<th>Port or Place from which the Explosive was forwarded</th>
-<th>Nature of the Explosive Imported</th>
-<th>Amount of the Explosive Imported (Gross weight, kg)</th>
-<th>Purpose of which the Explosive has been or is being used</th>
-<th>Customs Entry No.</th>
-<th>Signature of Customs Officer</th>
-</tr>
-<tr>
-<th>Consignor Manufacturer</th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Signature of Importer </td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Address of Importer </td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Date </td>
-</tr>
-</table>
 
 FORM 18
 
-
 APPLICATION AND PERMIT TO TRANSPORT EXPLOSIVES
+
 
 
 GRAPHIC IS NOT DISPLAYED, SEE C.R.C., C. 599, PP. 4023 AND 4024
 
 
-FORM 19
 
 
-APPLICATION AND LICENCE FOR A FIREWORKS MAGAZINE
-
-
-GRAPHIC IS NOT DISPLAYED, SEE C.R.C., C. 599, P. 4025
+### **FORM 19** 
+[Repealed, SOR/2009-125, s. 8]
 
 
 FORM 20
 
-
 BLASTING EXPLOSIVES PURCHASE AND POSSESSION PERMIT
+
 
 
 GRAPHIC IS NOT DISPLAYED, SEE SOR/90-571, S. 3
 
 
->  SOR/84-597, ss. 3 to 7; SOR/86-422, s. 4; SOR/90-571, s. 3.
+
+
+> SOR/84-597, ss. 3 to 7; SOR/86-422, s. 4; SOR/90-571, s. 3; SOR/2009-125, ss. 7, 8.
 
 
 
