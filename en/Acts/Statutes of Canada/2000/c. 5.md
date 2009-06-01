@@ -1076,7 +1076,7 @@ If a report is not to be prepared, the Commissioner shall inform the complainant
 - **(a)** in the case of Parts 1 and 2 or any provision of those Parts, the Minister of Industry; and
 - **(b)** in the case of Parts 3 to 5 or any provision of those Parts, the Minister of Justice.
 
-<a name='P-8.6_en_7'><sup>*</sup></a>: [Note: Parts 2, 3 and 4 in force May 1, 2000, Part 1 in force January 1, 2001, *see* SI/2000-29.]<br />
+<a name='P-8.6_en_7'><sup>*</sup></a>: [Note: Parts 2, 3 and 4 in force May 1, 2000; Part 1 in force January 1, 2001, *see* SI/2000-29; Part 5 in force June 1, 2009, *see* SI/2009-42.]<br />
 
 
 
