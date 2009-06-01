@@ -1060,7 +1060,7 @@ Le cas échéant, il en informe le plaignant et l’organisation, motifs à l’
 - **a)** dans le cas des parties 1 et 2 ou de telle de leurs dispositions, du ministre de l’Industrie;
 - **b)** dans le cas des parties 3 à 5 ou de telle de leurs dispositions, du ministre de la Justice.
 
-<a name='P-8.6_fr_7'><sup>*</sup></a>: [Note : Parties 2, 3 et 4 en vigueur le 1<sup>er</sup> mai 2000, partie 1 en vigueur le 1<sup>er</sup> janvier 2001, *voir* TR/2000-29.]<br />
+<a name='P-8.6_fr_7'><sup>*</sup></a>: [Note : Parties 2, 3 et 4 en vigueur le 1<sup>er</sup> mai 2000; partie 1 en vigueur le 1<sup>er</sup> janvier 2001, *voir* TR/2000-29; partie 5 en vigueur le 1<sup>er</sup> juin 2009, *voir* TR/2009-42.]<br />
 
 
 
