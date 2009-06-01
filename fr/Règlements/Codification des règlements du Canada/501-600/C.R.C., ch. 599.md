@@ -28,11 +28,13 @@ Autorités habilitantes :
 
 ***composition pyrotechnique*** désigne tout composé chimique ou toute préparation mélangée mécaniquement, de nature explosive ou inflammable, qui sert à la fabrication de toute pièce pyrotechnique et n’appartient pas à une autre classe d’explosifs, et comprend une étoile et une composition de feux de couleur qui ne sont pas des pièces pyrotechniques fabriquées; (*fireworks composition*)
 
-***explosif*** désigne toute substance qui est faite, fabriquée ou employée à dessein de produire soit une explosion ou détonation, soit un effet pyrotechnique et comprend de la poudre à canon, les poudres propulsives, les agents de sautage, la dynamite, le cordeau détonant, l’azoture de plomb, les détonateurs, les munitions de toute sorte, les fusées, les pièces pyrotechniques, les compositions pyrotechniques, les fusées éclairantes et autres signaux; (*explosive*)
+***exploitant*** comprend le propriétaire, le gérant ou la personne en charge; (*operator*)
+
+***explosif***[Abrogée, DORS/2009-125, art. 1]
 
 ***explosif autorisé*** désigne un explosif que l’inspecteur en chef a déclaré être un explosif autorisé en vertu de l’article 22; (*authorized explosive*)
 
-***exploitant*** comprend le propriétaire, le gérant ou la personne en charge; (*operator*)
+***explosif pour automobile*** Dispositif de sécurité pour automobiles que l’autorité compétente du pays d’origine a classé comme explosif de classe 9 aux termes du Règlement type de l’ONU pour le transport des marchandises dangereuses, 2005, publié par les Nations Unies, avec ses modifications successives. (*automotive explosive*)
 
 ***fabrique*** signifie tout bâtiment, ouvrage, local ou terrain dans ou sur lequel s’effectue la fabrication d’un explosif ou toute partie du procédé de fabrication d’un explosif, l’endroit sur lequel est situé ce bâtiment, ouvrage ou local à l’intérieur de cet endroit; (*factory*)
 
@@ -42,11 +44,23 @@ Autorités habilitantes :
 
 ***inspecteur en chef*** signifie une personne nommée inspecteur en chef des explosifs en la manière permise par la Loi ou une personne autorisée par le ministre à remplir les fonctions de l’inspecteur en chef des explosifs en l’absence de celui-ci; (*Chief Inspector*)
 
+***licence de poudrière (utilisateur- zone)*** Licence de poudrière qui autorise son titulaire à déplacer la poudrière agréée vers un autre site. (*user magazine zone licence*)
+
+***lieu vulnérable*** S’entend :
+- **a)** des bâtiments où des personnes vivent, travaillent ou sont susceptibles de se rassembler;
+- **b)** des chemins publics, des chemins de fer ou de tout autre moyen de transport;
+- **c)** de pipelines ou des lignes de transport d’énergie;
+- **d)** de tout lieu où une substance qui présente un risque d’incendie ou d’explosion peut être stockée. (*vulnerable place*)
+
 ***Loi*** désigne la [Loi sur les explosifs](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-17.md); (*Act*)
+
+***matière explosive*** Matière solide ou liquide — ou mélange de matières solides et liquides — pouvant, par réaction chimique, dégager des gaz à une température, une pression et une vitesse susceptibles de causer des dommages aux constructions et infrastructures environnantes. Est également visée par la présente définition toute matière pyrotechnique, même lorsqu’elle ne produit pas de gaz. (*explosive substance*)
 
 ***ministère*** signifie le ministère de l’Énergie, des Mines et des Ressources; (*Department*)
 
 ***ministre*** signifie le ministre de l’Énergie, des Mines et des Ressources ou tout autre ministre que le gouverneur en conseil peut à l’occasion désigner; (*Minister*)
+
+***objet explosif*** Objet qui contient une ou plusieurs matières explosives. (*explosive article*)
 
 ***pièces pyrotechniques*** comprend les compositions pyrotechniques et les pièces pyrotechniques fabriquées; (*fireworks*)
 
@@ -61,12 +75,20 @@ Autorités habilitantes :
 
 ***poudrière autorisée*** signifie une poudrière à l’égard de laquelle une licence émise en vertu de l’article 6 de la Loi est en vigueur; (*licensed magazine*)
 
-***unité de fabrication*** dans le cas d’une fabrique, désigne tout bâtiment, pièce ou endroit dans lequel s’effectue un procédé ou une activité de fabrication d’explosifs et pour lequel des limites maximales de personnel et d’explosifs sont spécifiées sur la licence pour fabrique; (*process unit*)
+***poudrière de détonateurs*** Poudrière pour le stockage des systèmes d’amorçage. (*detonator magazine*)
+
+***QNE*** Quantité nette d’explosifs. (*NEQ*)
+
+***site satellite*** Site situé à l’extérieur d’une fabrique, où des explosifs en vrac sont stockés et distribués. Il comprend notamment les unités de stockage des matières premières et les installations de stationnement pour les unités de fabrication mobiles. (*satellite site*)
+
+***unité de fabrication*** Tout bâtiment, construction, local ou lieu sur l’emplacement d’une fabrique où s’effectue la fabrication d’explosifs. (*process unit*)
+
+***unité de fabrication mobile*** Véhicule de fabrication ou machine portative où s’effectue la fabrication d’explosifs. (*mobile process unit*)
 
 ***véhicule*** désigne tout camion, voiture automobile ou autre moyen de transport terrestre, mais ne comprend aucun véhicule se déplaçant uniquement sur des rails auquel s’applique la Loi sur les chemins de fer; (*vehicle*)
 
-***véhicule de fabrication*** dans le cas d’une fabrique, désigne un véhicule sur lequel s’effectue un procédé ou une activité de fabrication d’explosifs. (*process vehicle*) 
-> DORS/86-422, art. 1.
+***véhicule de fabrication***[Abrogée, DORS/2009-125, art. 1]
+> DORS/86-422, art. 1; DORS/2009-125, art. 1.
 
 
 
@@ -266,18 +288,56 @@ Classe 7. — Pièces pyrotechniques.
 ## Autorisation et essais
 
 
-**15** Quiconque peut demander qu’un explosif soit déclaré explosif autorisé en présentant une demande à l’inspecteur en chef.
+**15** 
+
+- **(1)** Seuls le fabricant et l’importateur d’un explosif peuvent demander que celui-ci soit déclaré explosif autorisé.
+
+- **(2)** La demande d’autorisation est présentée à l’inspecteur en chef des explosifs.
+
+- **(3)** L’autorisation peut être accordée pour une période indéterminée, ou une période déterminée en vue d’une activité particulière notamment une tournée, un événement ou un concours international.
+> DORS/2009-125, art. 2.
 
 
 
-**16** Une demande présentée en vertu de l’article 15 doit être faite par écrit et comporter des précisions concernant
-- **a)** la nature et la composition de l’explosif;
-- **b)** les proportions maximum et minimum de chaque composant de l’explosif;
-- **c)** la ou les substances qu’on veut faire approuver pour remplacer un composant déterminé;
-- **d)** s’il s’agit d’un nouvel explosif qui doit être fabriqué au Canada, le procédé de fabrication qu’on veut adopter;
-- **e)** quand un explosif est renfermé dans une enveloppe ou dans un autre dispositif, les dimensions de l’enveloppe ou de l’autre dispositif, la quantité, le genre et la marque de fabrique d’explosif qu’il renferme, la méthode de fonctionnement, l’action caractéristique de l’explosif et les renseignements quant à l’emploi de l’enveloppe ou de l’autre dispositif;
-- **f)** la boîte, l’emballage ou autre contenant dans lequel l’explosif sera manipulé, employé ou étalé ou autrement distribué, y compris les marques qu’il porte; et
-- **g)** le contenant dans lequel l’explosif sera transporté et emmagasiné, y compris les marques qu’il porte.
+
+**16** 
+
+- **(1)** Toute demande d’autorisation d’un explosif pour une période indéterminée comporte les renseignements et documents suivants :
+	- **a)** les nom, adresse postale et autres coordonnées du demandeur et, s’il y a lieu, de sa personne-ressource;
+	- **b)** dans le cas où la demande est présentée par le représentant autorisé du demandeur :
+		- **(i)** une lettre du demandeur qui atteste que le représentant agit en son nom,
+		- **(ii)** les nom, adresse postale et autres coordonnées du représentant autorisé et, s’il y a lieu de sa personne-ressource;
+	- **c)** la liste des matières ou objets explosifs pour lesquels l’autorisation est demandée qui indique, pour chaque matière ou objet, son nom commercial et, dans le cas d’un objet explosif, son numéro de pièce;
+	- **d)** les spécifications de chaque matière ou objet explosif, notamment :
+		- **(i)** le nom chimique de l’explosif, sa composition et ses tolérances,
+		- **(ii)** le dessin technique de chaque objet explosif qui indique ses dimensions et ses tolérances,
+		- **(iii)** le poids brut de chaque objet explosif,
+		- **(iv)** le poids de la charge explosive de chaque objet explosif et ses tolérances,
+		- **(v)** dans le cas où des composants d’un objet explosif seront achetés d’un autre fabricant, les noms et coordonnées de ce dernier,
+		- **(vi)** la façon dont il faut détruire la matière ou objet explosif ou autrement en disposer;
+	- **e)** l’usage auquel chaque matière ou objet explosif est destiné et, dans le cas d’un objet explosif, son mode de fonctionnement.
+
+- **(2)** La demande comporte en outre les renseignements ci-après concernant l’emballage et l’étiquetage de la matière ou objet explosif :
+	- **a)** le dessin ou la description de l’emballage intérieur et extérieur qui seront utilisés pour son transport;
+	- **b)** une copie, un dessin ou une description de l’étiquetage tel qu’il apparaîtra sur son emballage extérieur et intérieur;
+	- **c)** un exemplaire des mises en garde et instructions d’utilisation qui seront incluses dans son emballage ou inscrites sur l’objet explosif.
+
+- **(3)** La demande est également accompagnée d’une demande de classification de risque ONU de l’explosif en vue de son transport et comporte les renseignements suivants :
+	- **a)** la classe demandée et le bien-fondé d’une telle classification;
+	- **b)** si une classe a été attribuée à un explosif par une autorité compétente d’un État étranger, une lettre ou un certificat de cette autorité qui atteste de la classification et du bien-fondé d’une telle classification;
+	- **c)** si le numéro de classe 1.4, 1.5 ou 1.6 est demandé, les résultats des épreuves effectuées par l’autorité compétente d’un État étranger;
+	- **d)** une déclaration signée portant que le demandeur consent à ce que la Division de la réglementation des explosifs du ministère des Ressources naturelles effectue les épreuves nécessaires pour établir la classification.
+
+- **(4)** Toute demande d’autorisation d’un explosif pour une période déterminée en vue d’une activité particulière notamment une tournée, un événement ou un concours international comporte les renseignements suivants :
+	- **a)** les nom, adresse postale et autres coordonnées du demandeur et, s’il y a lieu, de sa personne-ressource;
+	- **b)** dans le cas où la demande est présentée par le représentant autorisé du demandeur :
+		- **(i)** une lettre du demandeur qui atteste que le représentant agit en son nom,
+		- **(ii)** les nom, adresse postale et autres coordonnées du représentant autorisé et, s’il y a lieu, de sa personne-ressource;
+	- **c)** la liste des matières ou objets explosifs pour lesquels l’autorisation est demandée qui indique, pour chaque matière ou objet, son nom commercial et, dans le cas d’un objet explosif, son numéro de pièce;
+	- **d)** la période pour laquelle l’autorisation est demandée;
+	- **e)** dans le cas d’une demande d’autorisation en vue d’une tournée ou d’un événement ou d’un concours international, le nombre de spectacles pyrotechniques projetés.
+> DORS/2009-125, art. 2.
+
 
 
 
@@ -357,45 +417,258 @@ Classe 7. — Pièces pyrotechniques.
 
 **25** 
 
-- **(1)** Les formules suivantes consignées à l’annexe II sont prescrites pour demander et émettre des licences pour fabriques et poudrières et des permis pour l’achat, la possession et l’importation d’explosifs et pour les véhicules employés pour le transport d’explosifs :
-	- **a)** demande de licence pour fabrique ou pour poudrière, formule 1;
-	- **b)** licence pour fabrique d’explosifs, y compris une licence pour fabrique (pièces pyrotechniques) émise à une fabrique qui produit exclusivement des pièces pyrotechniques, formule 2;
-	- **c)** formule 4, à joindre à la demande de licence pour fabrique ou pour poudrière et sur laquelle on doit décrire la construction des bâtiments, tertres ou ateliers qui font partie de la fabrique ou de la poudrière;
-	- **d)** formule 5, à joindre à la demande de licence pour fabrique ou pour poudrière et sur laquelle on doit mentionner le nom des explosifs autorisés qui peuvent être fabriqués ou gardés dans la fabrique ou emmagasinés dans la poudrière;
-	- **e)** formule 6, à joindre à la demande de licence pour fabrique et sur laquelle on doit consigner des précisions sur le procédé ou les procédés qui peuvent être mis en oeuvre dans chaque bâtiment, pièce ou endroit de la fabrique; l’usage auquel sont affectés ces bâtiments, pièces ou endroits; la nature et la quantité de l’explosif ou des explosifs, ou des composants de ces derniers, ou des autres objets à l’égard desquels de tels renseignements peuvent être requis, et qu’on peut permettre de placer dans chaque bâtiment, pièce ou endroit; et le nombre maximum de personnes qui peuvent se trouver dans chacun de ces bâtiments, pièces ou endroits à un moment donné;
-	- **f)** formule 7, à joindre à la demande de licence pour fabrique ou pour poudrière et sur laquelle on doit consigner des précisions sur les distances à garder entre tout bâtiment ou endroit qui fait partie de la fabrique ou poudrière et tout autre bâtiment ou endroit public fréquenté, soit à l’intérieur, soit à l’extérieur de la fabrique ou de la poudrière, ces bâtiments ou endroits publics fréquentés étant énumérés dans la formule;
-	- **g)** licence pour poudrière ou dépôt d’explosifs, y compris une licence pour poudrière (poudres propulsives) émise pour l’emmagasinage exclusif de poudres propulsives et d’amorces à percussion pour les cartouches de sûreté, formule 8;
-	- **h)** demande de licence pour dépôt temporaire d’explosifs, formule 10;
-	- **i)** licence pour dépôt temporaire d’explosifs, formule 11;
-	- **j)** demande de permis général ou annuel d’importation d’explosifs, formule 13;
-	- **k)** permis général d’importation d’explosifs, formule 14;
-	- **l)** nomenclature de transmission à l’usage des importateurs, formule 16;
-	- **m)** permis annuel d’importation d’explosifs, formule 17; elle porte au verso la nomenclature de transmission à l’usage des importateurs;
-	- **n)** formule de demande et permis de transport d’explosifs, formule 18;
-	- **o)** demande et licence pour dépôt de pièces pyrotechniques, formule 19;
-	- **p)** permis d’achat et de possession d’explosifs de sautage, formule 20.
+- **(1)** Toute demande de licence de fabrique ou de certificat de fabrication comporte les renseignements suivants :
+	- **a)** les nom, adresse postale et autres coordonnées du demandeur et, s’il y a lieu, de sa personne-ressource;
+	- **b)** dans le cas d’une demande de licence de fabrique, les types d’explosifs qui y seront fabriqués;
+	- **c)** dans le cas d’une demande de certificat de fabrication, les types d’explosifs qui seront fabriqués et les activités pour lesquelles le certificat est demandé, ainsi que les dates prévues du début et de la fin des activités;
+	- **d)** l’adresse du site de la fabrique ou des activités projetées;
+	- **e)** les nom, adresse postale et autres coordonnées de la personne-ressource sur le site.
 
-- **(2)** Les conditions d’une licence pour fabrique, poudrière ou poudrière temporaire, d’un permis général d’importation d’explosifs, d’un permis annuel d’importation d’explosifs et d’un permis de transport d’explosifs sont celles consignées dans les formules suivantes :
-	- **a)** formule 3, conditions d’une licence pour fabrique;
-	- **b)** formule 9, conditions d’une licence pour poudrière;
-	- **c)** formule 12, conditions d’une licence pour dépôt temporaire;
-	- **d)** formule 15, conditions d’un permis général d’importation;
-	- **e)** formule 17, conditions d’un permis annuel d’importation;
-	- **f)** formule 18, conditions d’un permis de transport d’explosifs.
+- **(2)** Toute demande est accompagnée :
+	- **a)** d’un plan du site qui indique :
+		- **(i)** la topographie du site projeté,
+		- **(ii)** l’emplacement de chaque unité de fabrication et poudrière ainsi que de chaque bâtiment et construction qui contient une unité de fabrication ou une poudrière sur le site,
+		- **(iii)** l’emplacement de tout autre bâtiment ou construction sur le site,
+		- **(iv)** la distance en mètres entre les unités de fabrication, les poudrières, les bâtiments et constructions sur le site;
+	- **b)** d’un plan de la zone qui indique :
+		- **(i)** l’emplacement de chaque unité de fabrication et poudrière sur le site,
+		- **(ii)** le secteur qui se trouve aux environs du site qui est exposé au risque d’incendie ou d’explosion, en raison des explosifs qui seront fabriqués ou stockés sur le site,
+		- **(iii)** les lieux vulnérables qui se trouvent dans le secteur de risque,
+		- **(iv)** la distance en mètres entre chaque unité de fabrication et poudrière et chaque lieu vulnérable dans le secteur de risque;
+	- **c)** des croquis ou d’autres dessins qui indiquent :
+		- **(i)** l’emplacement des espaces de travail, lieux de stockage et sorties d’urgence de chaque unité de fabrication et poudrière ainsi que de chaque bâtiment et construction qui contient une unité de fabrication ou une poudrière sur le site,
+		- **(ii)** l’emplacement et la disposition des équipements qui seront utilisés sur le site, y compris celui de la tuyauterie et des instruments,
+		- **(iii)** les activités qui seront exécutées sur le site, y compris les diagrammes et schémas des procédés.
 
-- **(3)** Une licence pour poudrière émise en vertu de l’article 6 de la Loi est valable pour une ou plusieurs poudrières situées au même endroit.
+- **(3)** Y est également jointe une description du site qui :
+	- **a)** précise les coordonnées géographiques du site;
+	- **b)** précise les dimensions et les matériaux de construction de chaque bâtiment sur le site et, le cas échéant, son système d’éclairage, de chauffage, de ventilation et de conditionnement d’air, les installations électriques, la mise à la terre et les mesures de protection contre les incendies et contre la foudre;
+	- **c)** décrit les mesures de sécurité sur le site et dans les bâtiments, par exemple, les clôtures, les barrières et les panneaux d’avertissement;
+	- **d)** décrit des principaux équipements de fabrication et leurs dispositifs de sécurité;
+	- **e)** décrit chaque unité de fabrication mobile qui sera utilisée;
+	- **f)** décrit tout autre équipement mobile qui sera utilisé ainsi que sa source d’alimentation;
+	- **g)** décrit les dispositifs de sécurité spéciaux sur le site, notamment les digues, les puisards, les panneaux de surpression, les dispositifs de confinement des explosifs, les barrières, les alarmes, les limiteurs de pression et les systèmes de contrôle.
 
-- **(4)** Une licence pour poudrière (poudres propulsives) et une licence de dépôt de pièces pyrotechniques émises en vertu de l’article 6 de la Loi sont valables pour une ou plusieurs poudrières situées au même endroit.
+- **(4)** La demande est accompagnée de la description des explosifs qui seront fabriqués et stockés sur le site :
+	- **a)** pour chaque explosif  :
+		- **(i)** le nom de l’explosif et la désignation officielle de transport ONU;
+		- **(ii)** la date de son autorisation ou son numéro de dossier d’autorisation,
+		- **(iii)** le numéro ONU,
+		- **(iv)** la classe de risque ONU;
+	- **b)** pour chaque explosif qui y sera stocké :
+		- **(i)** la désignation officielle de transport ONU,
+		- **(ii)** le numéro ONU,
+		- **(iii)** la classe de risque ONU.
 
-- **(5)** Une licence de dépôt temporaire d’explosifs émise en vertu de l’article 6 de la Loi est valable pour une ou plusieurs poudrières temporaires situées dans une zone d’exploitation limitée.
-> DORS/86-422, art. 2; DORS/90-571, art. 1; DORS/93-439, art. 1.
+- **(5)** La demande est accompagnée des renseignements ci-après sur les activités de fabrication :
+	- **a)** la description des activités qui seront exécutées dans chaque unité de fabrication et poudrière sur le site;
+	- **b)** la description des explosifs, des ingrédients d’explosifs ou de toute chose susceptible de s’enflammer, spontanément ou non, ou pouvant autrement constituer un danger et qui seront gardés dans chaque unité de fabrication, poudrière, bâtiment ou construction sur le site;
+	- **c)** la quantité maximale d’explosifs et d’ingrédients d’explosifs pouvant être stockés en même temps dans chaque unité de fabrication, poudrière, bâtiment ou construction;
+	- **d)** le nombre maximal de personnes pouvant se trouver en même temps dans chaque unité de fabrication et poudrière;
+	- **e)** les distances minimales en mètres à maintenir entre chaque unité de fabrication et poudrière sur le site et chaque lieu vulnérable indiqué sur le plan de la zone, déterminées conformément au Principe de distances de sécurité — Manuel de l’utilisateur, publié en 1995 par la Division de la réglementation des explosifs du ministère de Ressources naturelles.
+
+- **(6)** Si la fabrication des explosifs doit se faire sur le site du client, la demande est accompagnée des renseignements suivants :
+	- **a)** les nom, adresse postale et autres coordonnées de la personne-ressource du client dont le site sera utilisé pour les activités de fabrication;
+	- **b)** la description du site du client;
+	- **c)** la distance entre le site de la fabrique et le site du client en kilomètres;
+	- **d)** s’il y a lieu, la distance entre le site satellite et le site du client en kilomètres;
+
+- **(7)** La demande est accompagnée d’une liste des documents ci-après, dont on donne également la date de production et, le cas échéant, la date de modification :
+	- **a)** l’examen environnemental du site et des activités qui s’y dérouleront;
+	- **b)** les documents établissant les règles, les marches à suivre et les protocoles visant à assurer le respect de la Loi, du présent règlement et de la licence, y compris :
+		- **(i)** les procédures d’exploitation,
+		- **(ii)** les méthodes d’entretien,
+		- **(iii)** le plan d’intervention en cas d’urgence,
+		- **(iv)** le plan d’intervention en cas de déversement,
+		- **(v)** les manuels de formation du personnel;
+	- **c)** si les activités de fabrication doivent avoir lieu dans une carrière, un protocole d’accord avec l’exploitant de la carrière sur les mesures de sécurité à respecter sur le site;
+	- **d)** si des activités dangereuses sont autorisées sur le site, telles que fumer ou faire de la soudure, les règles qui régissent ces activités;
+	- **e)** si des explosifs doivent être détruits ou qu’on doive en disposer autrement sur le site, les méthodes de destruction ou de disposition.
+
+- **(8)** Chaque unité de fabrication, poudrière, bâtiment et installation indiqué sur le plan du site ainsi que chaque lieu vulnérable indiqué sur le plan de la zone est identifié par un numéro, une lettre ou un nom distinctif qui est utilisé pour les désigner sur tout dessin, croquis ou toute description accompagnant la demande.
+
+- **(9)** Tout plan ou dessin est à l’échelle ou s’en rapproche et comporte une légende qui explique les renseignements qui y sont indiqués.
+> DORS/86-422, art. 2; DORS/90-571, art. 1; DORS/93-439, art. 1; DORS/2009-125, art. 3.
+
+
+
+
+**25.01** Chaque licence de fabrique prévoit notamment les conditions suivantes :
+- **a)** les copies des documents à jour visés au paragraphe 25(7) sont accessibles à toutes les personnes sur le site;
+- **b)** des moyens d’évacuation sont aménagés et entretenus, dans tout bâtiment, construction ou local où peuvent se trouver des explosifs ou ingrédients d’explosifs;
+- **c)** un rapport écrit est présenté à l’inspecteur en chef des explosifs dès que se produit sur le site un vol ou une tentative de vol d’explosif ou un accident mettant en cause un explosif;
+- **d)** des copies de la licence et documents approuvés par le ministre sont gardés sur le site.
+> DORS/2009-125, art. 3.
+
+
+
+
+**25.02** 
+
+- **(1)** Toute demande de licence de poudrière (vendeur, utilisateur ou utilisateur-zone) comporte les renseignements suivants :
+	- **a)** les nom, adresse postale et autres coordonnées du demandeur et, s’il y a lieu, de sa personne-ressource;
+	- **b)** l’adresse et les coordonnées géographiques du site envisagé pour la poudrière;
+	- **c)** le nom et coordonnées de la personne responsable du site;
+	- **d)** le nombre de poudrières pour lesquelles la licence est demandée;
+	- **e)** le type d’explosifs qui sera stocké dans chaque poudrière;
+	- **f)** dans le cas d’une demande de licence de poudrière (vendeur), une mention indiquant si le site servira à la vente au détail ou à la distribution;
+	- **g)** dans le cas où le site sert à la distribution, une mention indiquant s’il est prévu de remballer les explosifs sur le site.
+
+- **(2)** La demande doit être accompagnée des documents suivants :
+	- **a)** le plan du site qui indique :
+		- **(i)** l’emplacement de chaque poudrière, bâtiment et construction et de chaque lieu vulnérable sur le site,
+		- **(ii)** les distances en mètres entre chaque poudrière, bâtiment, construction et lieu vulnérable sur le site;
+	- **b)** si la poudrière est située dans un bâtiment, un dessin de ce bâtiment qui indique son emplacement sur le site, celui des entrées et des sorties de tout endroit où le public a accès et celui de chaque flamme nue, des matériaux inflammables et des sources potentielles d’allumage.
+
+- **(3)** La demande est accompagnée d’une description de la poudrière et du site qui indique :
+	- **a)** l’utilisation prévue du site et de chacun des bâtiments et des constructions qui s’y trouvent;
+	- **b)** la distance en mètres entre chaque poudrière et tout matériau inflammable sur le site;
+	- **c)** les mesures de sécurité sur le site, notamment la présence d’affiches, de clôtures, de barrières, naturelles ou érigées, de systèmes d’alarme et de gardiens;
+	- **d)** pour chaque poudrière sur le site :
+		- **(i)** s’il y a lieu, son numéro d’identification délivré par la Division de la réglementation des explosifs du ministère des Ressources naturelles,
+		- **(ii)** le numéro de type de construction auquel elle se conforme, selon les Normes relatives aux dépôts d’explosifs industriels, mai 2001, publiées par la Division de la réglementation des explosifs du ministère des Ressources naturelles ou, si la poudrière n’est pas conforme à un type standard, ses spécifications, notamment celles de ses matériaux de construction et de ses caractéristiques de sécurité,
+		- **(iii)** ses dimensions internes en mètres (longueur, largeur, hauteur) à 0,1 m près,
+		- **(iv)** les types d’explosifs qui y seront stockés,
+		- **(v)** la quantité de chaque type d’explosif, en kilogrammes bruts ou en nombre, selon le cas.
+
+- **(4)** Chaque poudrière, bâtiment, construction et lieu vulnérable indiqué sur le plan du site est identifié par un numéro, une lettre ou un nom distinctif qui est utilisé pour les désigner sur tout dessin ou toute description accompagnant la demande.
+
+- **(5)** Tout plan ou dessin est à l’échelle ou s’en rapproche et comporte une légende qui explique les renseignements qui y sont indiqués.
+> DORS/2009-125, art. 3.
+
+
+
+
+**25.03** Toute licence de poudrière prévoit notamment les conditions suivantes  :
+- **a)** les détonateurs sont stockés dans une poudrière distincte;
+- **b)** dès que survient un incendie ou une explosion sur le site, le titulaire de licence présente par écrit à l’inspecteur en chef des explosifs :
+	- **(i)** sans délai, un rapport indiquant les date, lieu et heure de l’incident, les explosifs en cause et faisant état de toute évacuation ainsi que des décès, blessures et dommages matériels causés par l’incident,
+	- **(ii)** aussitôt que possible, un rapport sur le résultat et sur les mesures correctives mises en place.
+- **c)** en cas de vol ou de tentative de vol d’explosifs dans une poudrière, le titulaire de licence présente par écrit à l’inspecteur en chef des explosifs :
+	- **(i)** sans délai, un rapport indiquant les date, lieu et heure de l’incident, la quantité et le type d’explosifs volés et la façon dont le voleur a eu accès aux explosifs,
+	- **(ii)** aussitôt que possible, un rapport sur le résultat de l’enquête et sur les mesures correctives mises en place;
+- **d)** le titulaire d’une licence prend les mesures nécessaires pour :
+	- **(i)** empêcher toute personne non autorisée d’accéder à la poudrière,
+	- **(ii)** empêcher l’introduction dans la poudrière d’outil de fer ou d’acier, d’allumettes, de tout déchet imprégné d’huile ou de toute autre chose susceptible de s’enflammer spontanément,
+	- **(iii)** éviter à proximité d’un détonateur des appareils susceptibles de l’activer accidentellement,
+	- **(iv)** maintenir l’intérieur de la poudrière propre et exempte de matières abrasives,
+	- **(v)** mettre en place les procédures visant à contrôler l’accès au site et s’assurer que les personnes dans la poudrière ou près de celle-ci agissent prudemment de manière à prévenir tout risque d’incendie ou d’explosion;
+- **e)** dans le cas d’une licence de poudrière (utilisateur-zone), le titulaire doit obtenir l’approbation du ministre avant de déplacer une poudrière sur un autre site.
+> DORS/2009-125, art. 3.
+
+
+
+
+**25.04** Toute demande de permis d’importation d’explosifs — général ou annuel — comporte les renseignements suivants :
+- **a)** les nom, adresse postale et autres coordonnées du demandeur et, s’il y a lieu, de sa personne-ressource;
+- **b)** si la demande est présentée par un courtier en douane, ses nom, adresse postale et autres coordonnées et, s’il y a lieu, celles de sa personne-ressource;
+- **c)** le but de l’importation;
+- **d)** pour chaque explosif, son nom commercial, son numéro ONU et le nom de son fabricant;
+- **e)** la quantité de chaque explosif qui sera importée ou, dans les cas d’un permis annuel, la quantité maximale estimative d’explosifs qui seront importés pendant l’année, exprimée :
+	- **(i)** en cartouches, pour les munitions,
+	- **(ii)** en unités, pour les détonateurs,
+	- **(iii)** en kilogrammes (poids brut), pour les autres explosifs;
+- **f)** si la demande vise un permis général, le point d’entrée au Canada, la date approximative d’arrivée et la province de destination;
+- **g)** les moyens de transport qui seront utilisés pour importer les explosifs;
+- **h)** le pays d’origine de chaque explosif;
+- **i)** l’adresse des installations où les explosifs seront stockés;
+- **j)** si les explosifs doivent être stockés dans une poudrière agréée, la capacité autorisée de la poudrière, son numéro de licence et la date d’expiration de celle-ci;
+- **k)** si les explosifs doivent être stockés dans une autre installation qu’une poudrière agréée, la description de cette dernière;
+- **l)** dans les cas où les explosifs transitent par le Canada, le pays d’où les explosifs seront importés, le pays et le lieu où les explosifs seront expédiés ainsi que l’adresse de chaque installation où ces explosifs seront stockés au Canada.
+> DORS/2009-125, art. 3.
+
+
+
+
+**25.05** Tout titulaire d’un permis général d’importation se conforme aux conditions suivantes :
+- **a)** il n’importe que les explosifs autorisés par le permis;
+- **b)** il n’importe que la quantité d’explosifs autorisés;
+- **c)** en cas de vol d’explosifs, il présente sans délai un rapport écrit à l’inspecteur en chef des explosifs où il indique quand le vol a eu lieu, quels explosifs ont été volés et comment le voleur a eu accès aux explosifs.
+> DORS/2009-125, art. 3.
+
+
+
+
+**25.06** Tout titulaire de permis annuel d’importation se conforme aux conditions suivantes :
+- **a)** il n’importe que les explosifs autorisés par le permis;
+- **b)** il n’importe que la quantité d’explosifs ne dépassant pas la capacité autorisée pour l’installation dans laquelle les explosifs seront stockés;
+- **c)** pour chaque importation, le titulaire présente à l’inspecteur en chef des explosifs dans les trente jours suivant la date d’importation un rapport écrit contenant les renseignements suivants :
+	- **(i)** les nom, adresse postale et autres coordonnées du titulaire et, s’il y a lieu, de sa personne-ressource,
+	- **(ii)** le numéro du permis et sa date d’expiration,
+	- **(iii)** le pays d’où les explosifs ont été importés, la date à laquelle ils en sont partis, la province de destination et la date d’arrivée au Canada,
+	- **(iv)** les moyens de transport utilisés pour importer les explosifs;
+	- **(v)** la date de livraison des explosifs à l’installation utilisée pour leur stockage et, s’il s’agit d’une poudrière agréée, son numéro de licence,
+	- **(vi)** le nom commercial de chaque explosif, son numéro ONU et le nom de son fabricant,
+	- **(vii)** la quantité d’explosifs importée exprimée en cartouches pour les munitions, en unités pour les détonateurs et en kilogrammes bruts pour les autres explosifs,
+	- **(viii)** les fins auxquelles les explosifs ont été ou seront utilisées;
+- **d)** en cas de vol d’explosifs, un rapport écrit doit être présenté sans délai à l’inspecteur en chef des explosifs qui expose quand le vol a eu lieu, quels explosifs ont été volés et comment le voleur a eu accès aux explosifs.
+> DORS/2009-125, art. 3.
+
+
+
+
+**25.07** Toute demande de permis d’achat et de possession d’explosifs comporte les renseignements visés à la formule 20 de l’annexe II.
+> DORS/2009-125, art. 3.
+
+
+
+
+**25.08** Toute demande de certificat en pyrotechnie portant la mention « apprenti artificier » ou « pyrotechnicien » comporte les renseignements suivants :
+- **a)** les nom, date de naissance, adresse postale et autres coordonnées du demandeur;
+- **b)** s’il y a lieu, le nom de l’organisation pyrotechnique dont il est membre;
+- **c)** deux photos (3 cm x 2,5 cm) de lui prises au cours des douze derniers mois;
+- **d)** la preuve qu’il a terminé avec succès un des cours ci-après offerts par la Division de la réglementation des explosifs du ministère des Ressources naturelles :
+	- **(i)** pour la mention d’apprenti artificier, le cours de sensibilisation à la sécurité et aux aspects légaux entourant les feux d’artifices,
+	- **(ii)** pour la mention de pyrotechnicien, le cours de sensibilisation à la sécurité et aux aspects légaux soulevés par l’utilisation des pièces pyrotechniques.
+> DORS/2009-125, art. 3.
+
+
+
+
+**25.09** 
+
+- **(1)** Toute demande de mention « pyrotechnicien principal », « pyrotechnicien d’effets spéciaux » ou « artificier » comporte les élements suivants :
+	- **a)** les nom, date de naissance, adresse postale et autres coordonnées du demandeur;
+	- **b)** s’il y a lieu, le nom de l’organisation pyrotechnique dont il est membre ;
+	- **c)** les numéro et date d’expiration de son certificat en pyrotechnie et les mentions qui y sont incluses;
+	- **d)** deux photos (3 cm x 2.5 cm ) de lui prises au cours des douze derniers mois;
+	- **e)** une copie de son journal de travail qui indique :
+		- **(i)** les date et lieu de chaque spectacle pyrotechnique pour lequel il a travaillé et les types d’explosifs utilisés,
+		- **(ii)** la qualité en laquelle il a agi lors de ces spectacles,
+		- **(iii)** le nom de son superviseur à chacun de ceux-ci;
+	- **f)** dans le cas où la mention « pyrotechnicien principal » ou « pyrotechnicien d’effets spéciaux » est demandée, trois lettres de recommandation sont jointes à la demande;
+	- **g)** dans le cas où la mention « artificier » est demandée, une lettre de recommandation suffit.
+
+- **(2)** En plus des renseignements et documents visés au paragraphe (1), le demandeur établit ce qui suit, selon la mention qu’il demande sur le certificat :
+	- **a)** pour le pyrotechnicien principal, qu’il a agi pendant au moins deux ans comme pyrotechnicien; il fournit une lettre de son superviseur attestant qu’il peut utiliser tous les objets et poudres pyrotechniques autorisés en toute sécurité;
+	- **b)** pour le pyrotechnicien d’effets spéciaux, qu’il a agi comme pyrotechnicien principal pendant au moins deux ans; il fournit une lettre de son superviseur attestant qu’il peut utiliser tous les objets et poudres pyrotechniques autorisés en toute sécurité;
+	- **c)** pour l’artificier, qu’il a agi comme apprenti dans au moins trois spectacles pyrotechniques au cours des cinq années suivant la date à laquelle il a terminé le cours de sensibilisation à la sécurité et aux aspects légaux entourant les feux d’artifices;
+	- **d)** pour l’artificier de bombes de grand calibre, que son certificat porte la mention d’artificier; il fournit une lettre de son superviseur attestant qu’il peut utiliser des bombes de grand calibre en toute sécurité;
+	- **e)** pour l’artificier d’effets nautiques, que son certificat porte la mention d’artificier; il fournit une lettre de son superviseur attestant qu’il peut utiliser les effets nautiques en toute sécurité;
+	- **f)** pour l’artificier de soucoupes volantes, que son certificat porte la mention d’artificier; il fournit une lettre de son superviseur attestant qu’il peut utiliser les soucoupes volantes en toute sécurité;
+	- **g)** pour l’artificier pouvant travailler à partir d’un toit, d’un pont ou d’une plateforme de remorque, que son certificat porte la mention d’artificier; il fournit une lettre de son superviseur attestant que le demandeur peut utiliser ces sites en toute sécurité;
+	- **h)** pour l’artificier pouvant travailler sur une péniche, que son certificat porte la mention d’artificier; il fournit une lettre de son superviseur attestant qu’il peut utiliser ce site en toute sécurité;
+	- **i)** pour le pyrotechnicien d’effets spéciaux pour cordeaux détonants, que son certificat porte la mention de pyrotechnicien d’effets spéciaux; il fournit une lettre de son superviseur attestant qu’il peut utiliser les systèmes d’amorçage et des cordeaux détonants en toute sécurité.
+> DORS/2009-125, art. 3.
+
+
+
+
+**25.1** Toute demande de certificat en pyrotechnie portant la mention « artificier visiteur » ou « pyrotechnicien visiteur » comporte les éléments suivants :
+- **a)** les nom, date de naissance, adresse postale et autres coordonnées du demandeur;
+- **b)** le nom de l’organisation pyrotechnique dont il est membre;
+- **c)** deux photos (3 cm x 2,5 cm) de lui prises au cours des douze derniers mois;
+- **d)** son *curriculum vitae* mentionnant les personnes ou organismes avec qui il a travaillé et les spectacles pyrotechniques dans lesquels il a utilisé des pièces pyrotechniques;
+- **e)** une liste d’événements pyrotechniques à venir au Canada ainsi que leurs dates;
+- **f)** les nom, coordonnées et numéro de certificat en pyrotechnie du superviseur canadien responsable lors de chacun de ceux-ci.
+> DORS/2009-125, art. 3.
 
 
 
 
 **26** 
 
-- **(1)** Sous réserve du paragraphe (2), tout permis ou licence délivré par le ministre en vertu du présent règlement est valide pour une période d’au moins neuf mois et d’au plus 15 mois.
+- **(1)** [Abrogé, DORS/2009-125, art. 4]
 
 - **(2)** Un permis d’achat et de possession d’explosifs est valide pour une période de 90 jours à compter de la date de sa délivrance.
 
@@ -404,7 +677,23 @@ Classe 7. — Pièces pyrotechniques.
 	- **b)** termine l’activité autorisée par le permis ou la licence;
 	- **c)** fait quoi que ce soit, relativement au permis ou à la licence, qui présente un danger particulier; ou
 	- **d)** ne respecte pas la Loi ou le présent règlement.
-> DORS/84-597, art. 1; DORS/89-169, art. 2.
+> DORS/84-597, art. 1; DORS/89-169, art. 2; DORS/2009-125, art. 4.
+
+
+
+
+**26.1** 
+
+- **(1)** Toute demande de renouvellement d’une licence, d’un permis ou d’un certificat est faite par lettre au ministre et comporte les renseignements suivants :
+	- **a)** les nom, adresse postale et autres coordonnées du demandeur et, s’il y a lieu, de sa personne-ressource;
+	- **b)** le numéro de la licence, du permis ou du certificat en cause.
+
+- **(2)** Toute demande de modification d’une licence, d’un permis ou d’un certificat ou de son renouvellement avec des changements comporte les renseignements suivants :
+	- **a)** les nom, adresse postale et autres coordonnées du demandeur et, s’il y a lieu, de la personne-ressource;
+	- **b)** le numéro de la licence, du permis ou du certificat en cause;
+	- **c)** les changements proposés;
+	- **d)** les renseignements et les documents qui diffèrent de ceux fournis lors de la dernière demande.
+> DORS/2009-125, art. 5.
 
 
 
@@ -436,21 +725,198 @@ Classe 7. — Pièces pyrotechniques.
 
 
 
+
+**PARTIE III.1** 
+## Droits
+
+
 **31** 
 
-- **(1)** Les droits à payer pour une licence ou un permis délivrés pour une période de 12 mois sont les suivants :
-	- **a)** pour chaque licence pour fabrique autre que celle visée à l’alinéa b), 180 $ par unité de fabrication, par véhicule de fabrication et par poudrière, le minimum des droits étant de 900 $ et le maximum de 25 000 $;
-	- **b)** pour chaque licence pour fabrique (pièces pyrotechniques), 90 $ par unité de fabrication et par poudrière, le minimum des droits étant de 200 $ et le maximum de 4 000 $;
-	- **c)** pour chaque licence pour poudrière, sauf les poudrières ou dépôts visés aux alinéas d), e) et f), 90 $ pour chacune des deux premières poudrières et 180 $ pour chaque poudrière additionnelle situées sur le même emplacement;
-	- **d)** pour chaque licence pour poudrière (poudres propulsives), 90 $;
-	- **e)** pour chaque licence pour dépôt temporaire d’explosifs, 90 $;
-	- **f)** pour chaque licence pour dépôt de pièces pyrotechniques, 50 $;
-	- **g)** pour chaque permis général d’importation d’explosifs, 30 $;
-	- **h)** pour chaque permis annuel d’importation d’explosifs, 100 $;
-	- **i)** pour chaque permis de transport d’explosifs, 30 $.
+- **(1)** Les droits à payer pour l’obtention des autorisations, licences, permis ou certificats visés à la colonne 1 du tableau du présent article sont prévus à la colonne 2.
 
-- **(2)** Lorsque la durée de validité d’une licence ou d’un permis, autre qu’un permis général d’importation d’explosifs, est inférieure ou supérieure à 12 mois, les droits à payer pour la licence ou le permis sont calculés au prorata.
-> DORS/84-597, art. 2; DORS/86-422, art. 3; DORS/90-26, art. 1; DORS/93-439, art. 2.
+- **(2)** Les droits sont exigibles au moment de la présentation de la demande. Toutefois, les droits visés aux articles 1 et 3 du tableau doivent être payés dans les trente jours suivant la date de facturation du ministère des Ressources naturelles.
+#### TABLEAU
+<table>
+<tr>
+<th>Article</th>
+<th>Colonne 1</th>
+<th>Colonne 2</th>
+</tr>
+<tr>
+<th>Autorisation, licence, permis ou certificat</th>
+<th>Droits</th>
+</tr>
+<tr>
+<td></td>
+<td>Autorisation visant des explosifs</td>
+<td></td>
+</tr>
+<tr>
+<td>1</td>
+<td>Autorisation pour une période indéterminée</td>
+<td>12 $ pour chaque matière ou objet explosif, le minimum étant de 125 $ par demande et le maximum de 2 500 $ par année, plus les droits suivants :**a)** pour les explosifs fabriqués au Canada, 4 $ par année par matière explosive ou groupe d’objets explosifs de la même conception et construction quels que soient leurs dimensions et effets de couleurs, le minimum étant de 125 $ et le maximum de 1 250 $, par année et par fabricant;
+
+**b)** pour les explosifs fabriqués à l’extérieur du Canada, 15 $ par année par matière explosive ou groupe d’objets explosifs qui comprend les objets explosifs de la même construction quels que soient leurs dimensions et effets de couleurs, le minimum étant de 125 $ et le maximum de 2 500 $, par année et par fabricant
+
+</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Autorisation d’un explosif pour une période déterminée, en vue d’une activité autre qu’une tournée, un événement ou un concours international où des pièces pyrotechniques sont utilisées</td>
+<td>150 $</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Autorisation d’un explosif pour une période déterminée en vue d’une tournée, d’un événement ou d’un concours international où des pièces pyrotechniques sont utilisées</td>
+<td>500 $ par spectacle pyrotechnique, le maximum étant de 2 500 $ pour les spectacles faisant partie de la même tournée, du même événement ou du même concours international</td>
+</tr>
+<tr>
+<td></td>
+<td>Permis d’importation</td>
+<td></td>
+</tr>
+<tr>
+<td>4</td>
+<td>Permis d’importation général</td>
+<td>160 $</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Permis d’importation annuel</td>
+<td>160 $, plus 20 $ par tranche de 1 000 kg de QNE importés pour tous les explosifs, autres que les explosifs pour automobile, le droit maximum étant de 1 300 $, calculé :**a)** pour une demande initiale, d’après la quantité maximale estimative d’explosifs à importer pour l’année;
+
+**b)** pour les demandes subséquentes, d’après la quantité d’explosifs importés, selon l’année d’importation la plus récente
+
+</td>
+</tr>
+<tr>
+<td></td>
+<td>Licence de fabrique</td>
+<td></td>
+</tr>
+<tr>
+<td>6</td>
+<td>Première licence de fabrique en vue de fabriquer des explosifs de sautage, des explosifs en vrac et des explosifs de défense</td>
+<td>Total des sommes ci-après, le minimum étant de 3 000 $ et le maximum de 30 000 $ :**a)** 800 $ par unité de fabrication;
+
+**b)** 800 $ par unité de fabrication mobile;
+
+**c)** 17 $ par tranche de 1 000 kg de QNE jusqu’à concurrence de la quantité maximale autorisée par poudrière, autre qu’une poudrière de détonateurs;
+
+**d)** 225 $ par poudrière de détonateurs
+
+</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Renouvellement d’une licence de fabrique en vue de fabriquer des explosifs de sautage, des explosifs en vrac et des explosifs de défense</td>
+<td>Total des sommes ci- après, le minimum étant de 3 000 $ et le maximum de 30 000 $ :**a)** 575 $ par unité de fabrication;
+
+**b)** 575 $ par unité de fabrication mobile;
+
+**c)** 17 $ par tranche de 1 000 kg de QNE jusqu’à concurrence de la quantité maximale autorisée par poudrière, autre qu’une poudrière de détonateurs;
+
+**d)** 225 $ par poudrière de détonateurs.
+
+</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Toute autre licence de fabrique</td>
+<td>Total des sommes ci- après, le minimum étant de 800 $ et le maximum de 3 000 $ :**a)** 800 $ par unité de fabrication;
+
+**b)** pour toute quantité supérieure à 250 kg de QNE, 17 $ par tranche de 1 000 kg de QNE jusqu’à concurrence de la quantité maximale autorisée par poudrière
+
+</td>
+</tr>
+<tr>
+<td></td>
+<td>Licence de poudrière (vendeur)</td>
+<td></td>
+</tr>
+<tr>
+<td>9</td>
+<td>Licence de poudrière (vendeur) en vue de stocker des explosifs détonants et des systèmes d’amorçage</td>
+<td>Le total des sommes suivantes :**a)** 25 $ par tranche de 1 000 kg de QNE jusqu’à concurrence de la quantité maximale autorisée par poudrière, autre qu’une poudrière de détonateurs;
+
+**b)** 275 $ par poudrière de détonateurs
+
+</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Toute autre licence de poudrière (vendeur)</td>
+<td>**a)** 140 $ par établissement de vente au détail;
+
+**b)** 350 $ par établissement de distribution;
+
+**c)** 700 $ par établissement de distribution qui remballe les explosifs
+
+</td>
+</tr>
+<tr>
+<td></td>
+<td>Licence de poudrière (utilisateur)</td>
+<td></td>
+</tr>
+<tr>
+<td>11</td>
+<td>Licence de poudrière (utilisateur) en vue de stocker des explosifs détonants ou des systèmes d’amorçage</td>
+<td>140 $ par poudrière, le minimum étant de 280$</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Licence de poudrière (utilisateur-zone) en vue de stocker des explosifs détonants ou des systèmes d’amorçage</td>
+<td>200 $ par poudrière, le minimum étant de 400 $</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Tout autre licence de poudrière (utilisateur) autres que les explosifs stockés par des organismes d’application de la loi</td>
+<td>70 $</td>
+</tr>
+<tr>
+<td></td>
+<td>Certificat de fabrication</td>
+<td></td>
+</tr>
+<tr>
+<td>14</td>
+<td>Certificat de fabrication pour la fabrication des explosifs de sautage</td>
+<td>200 $ par mois, le minimum étant de 800 $ et le maximum de 1 600 $</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Certificat de fabrication délivré en vue de mélanger mécaniquement du nitrate d’ammonium et du mazout pour usage immédiat au lieu d’utilisation</td>
+<td>800 $</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Tout autre certificat de fabrication</td>
+<td>75 $</td>
+</tr>
+<tr>
+<td></td>
+<td>Certificat en pyrotechnie</td>
+<td></td>
+</tr>
+<tr>
+<td>17</td>
+<td>Premier certificat</td>
+<td>150 $</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Changement de mention</td>
+<td>100 $</td>
+</tr>
+<tr>
+<td>19</td>
+<td>Renouvellement de certificat</td>
+<td>100 $</td>
+</tr>
+</table>
+
+> DORS/84-597, art. 2; DORS/86-422, art. 3; DORS/90-26, art. 1; DORS/93-439, art. 2; DORS/2009-125, art. 6.
 
 
 
@@ -1893,1622 +2359,38 @@ immeuble ou compartiment qui est
 
 
 ### **ANNEXE II** 
-**(articles 25, 53 et 145)**
-ÉNERGIE, MINES ET RESSOURCES CANADAFORMULE 1
+**(articles 25.07, 53 et 117.1)**
+### **FORMULES 1 À 17** 
+[Abrogées, DORS/2009-125, art. 8]
 
-
-
-
-## Direction des explosifs
-## Ottawa, Canada
-## K1A 0E4
-
-
-
-#### FORMULE DE DEMANDE DE LICENCE POUR UNE <sup><a href='#footnote1_f'>[*]</a></sup>FABRIQUE OU UNE <sup><a href='#footnote1_f'>[*]</a></sup>POUDRIÈRE (DÉPÔT D’EXPLOSIFS)
-<table>
-<tr>
-<th></th>
-<th></th>
-<th>LES RÉPONSES DOIVENT ÊTRE ÉCRITES DANS CETTE COLONNE</th>
-</tr>
-<tr>
-<th></th>
-</tr>
-<tr>
-<td>1</td>
-<td>Nom du demandeur</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Adresse du demandeur</td>
-<td></td>
-</tr>
-<tr>
-<td>REMARQUE — Lorsque la demande est faite au nom d’une compagnie, le nom, le genre d’entreprise, et l’adresse de la compagnie, ainsi que le nom du secrétaire, doivent être donnés.
-
-</td>
-<td></td>
-</tr>
-<tr>
-<td>2</td>
-<td>Lieu où sera située la fabrique ou la poudrière projetée.</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Province</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Comté</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Canton</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Ville ou village</td>
-<td></td>
-</tr>
-<tr>
-<td>3</td>
-<td>Explosifs qu’on se propose d’emmagasiner ou de fabriquer.</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Classe</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Division (s’il y a lieu)</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Nom et désignation</td>
-<td></td>
-</tr>
-<tr>
-<td>REMARQUE — La classe et la division (s’il y a lieu) devront être conformes à la partie I du Règlement sur les explosifs établi en vertu de la Loi.
-
-</td>
-<td></td>
-</tr>
-<tr>
-<td>4</td>
-<td>Un projet de licence doit être annexé à cette demande et accompagné (dans la mesure du possible) par :</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>**a)** un plan agréé par le ministre et dressé à l’échelle, de la fabrique ou de la poudrière projetées ainsi que du terrain où cette fabrique ou cette poudrière sont situées et de tous les bâtiments y construits ou dont on projette la construction et aussi des terrains y adjacents et des bâtiments qui y sont érigés, avec un énoncé des usages auxquels sont affectés ces terrains et bâtiments. Ce plan doit en outre indiquer les distances exactes entre les divers bâtiments qu’y sont marqués;
-
-**b)** une description de l’emplacement, du genre et de la construction de tous les bâtiments et usines connexes à la fabrique ou à la poudrière et une déclaration de la quantité maximum d’explosifs qui peut être gardée dans chaque bâtiment;
-
-**c)** un relevé du nombre maximum de personnes qui doivent être employées dans chaque bâtiment de la fabrique ou de la poudrière;
-
-**d)** quand la demande se rapporte à une licence de fabrique, une déclaration de la quantité maximale d’explosifs et de composants entièrement ou partiellement mélangés à ces explosifs, qui pourra se trouver à un moment donné dans tout bâtiment, machine ou pendant le procédé de fabrication ou à la distance de ces bâtiments ou machines qui est limitée par règlement;
-
-**e)** quand la demande se rapporte à une licence de fabrique, un exposé de la nature des procédés qui seront suivis dans la fabrique et chaque partie de la fabrique, l’indication de l’endroit où chaque procédé de fabrication et chaque sorte d’opération se rattachant à la fabrique doivent se faire; l’indication des endroits, dans la fabrique, où doivent être gardés les explosifs et toute chose susceptible de combustion spontanée, ou de nature inflammable ou autrement dangereuse; et
-
-**f)** tout autre renseignement ou preuve que le ministre peut exiger.
-
-</td>
-<td></td>
-</tr>
-<tr>
-<td>5</td>
-<td>Remarques</td>
-<td></td>
-</tr>
-<tr>
-<td>Signature du demandeur </td>
-</tr>
-<tr>
-<td>Adresse postale du demandeur </td>
-</tr>
-<tr>
-<td>Date de la demande </td>
-<td>Téléphone </td>
-</tr>
-<tr>
-<td></td>
-<td>(Indicatif régional)</td>
-</tr>
-</table>
-
-
-
-<a name='footnote1_f'><sup>*</sup></a>: Si la demande a trait à une licence de fabrique, rayez le mot «poudrière» et vice versa.<br />
-
-
-DIRECTION DES EXPLOSIFSFORMULE 2
-
-
-
-
-## Ministère de l’énergie, des mines et des ressources
-
-
-
-#### LICENCE POUR FABRIQUE D’EXPLOSIFS
-<table>
-<tr>
-<td>N<sup>o</sup></td>
-<td></td>
-</tr>
-<tr>
-<td>N<sup>o</sup> d’enregistrement</td>
-<td></td>
-</tr>
-<tr>
-<td>Nom du titulaire de la licence</td>
-<td></td>
-</tr>
-<tr>
-<td>Occupation du titulaire de la licence</td>
-<td></td>
-</tr>
-<tr>
-<td>Adresse du titulaire de la licence</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td><sup><a href='#footnote2_f'>[*]</a></sup>Province</td>
-</tr>
-<tr>
-<td>Lieu où est située la fabrique</td>
-<td><sup><a href='#footnote2_f'>[*]</a></sup>Comté</td>
-</tr>
-<tr>
-<td><sup><a href='#footnote2_f'>[*]</a></sup>Canton</td>
-</tr>
-<tr>
-<td></td>
-<td><sup><a href='#footnote2_f'>[*]</a></sup>Ville ou village</td>
-</tr>
-<tr>
-<td>
-
-<a name='footnote2_f'><sup>*</sup></a>: Ce petit graphique n’est pas exposé.<br />
-
-EN EXÉCUTION de la [Loi sur les explosifs](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-17.md), la fabrique sise à l’endroit susmentionné est par la présente autorisée à fabriquer des explosifs, sous réserve des dispositions de ladite Loi ainsi que des décrets du Conseil, règlements et ordonnances déjà adoptés ou qui pourront l’être en vertu de ladite Loi et en vigueur pour le moment, sous réserve aussi des conditions y annexées et autres termes, conditions et prescriptions que le ministre peut imposer à l’occasion.
-
-Délivré par le ministre de l’Énergie, des Mines et des Ressources
-
-</td>
-</tr>
-<tr>
-<td></td>
-<td>____________</td>
-</tr>
-<tr>
-<td></td>
-<td>Ministre de l’Énergie, des Mines et des Ressources.</td>
-</tr>
-<tr>
-<td>Ottawa
-
-</td>
-</tr>
-<tr>
-<td>&nbsp;&nbsp;&nbsp;&nbsp;jour de
-
-</td>
-</tr>
-</table>
-
-DIRECTION DES EXPLOSIFSFORMULE 3
-
-
-
-
-## Ministère de l’énergie, des mines et des ressources
-## Conditions d’une licence
-## (Fabrique d’explosifs)
-
-
-
-Suivent les conditions annexées à la licence n<sup>o</sup>____________ en date du ____________ pour une fabrique d’explosifs :
-
-
-**1** L’emplacement doit être celui qui est indiqué sur le plan ci-joint signé par un inspecteur.
-
-
-**2** Les tertres, bâtiments et ateliers situés sur le terrain de la fabrique ou s’y rattachant doivent occuper les emplacements indiqués sur ledit plan ____________ et leur construction doit se conformer aux dispositions de la formule 4 ci-jointe.
-
-
-**3** Nonobstant la teneur de quelque autre condition de la licence, si la distance entre tout bâtiment dangereux et tout bâtiment de la fabrique est moindre que celle indiquée sur ledit plan, la quantité d’explosifs que peut renfermer ledit bâtiment dangereux doit être nulle ou celle qu’un inspecteur peut à l’occasion fixer par écrit.
-
-
-**4** Les explosifs dont la fabrication est autorisée en vertu de la présente licence sont énumérés à la formule 5 ci-jointe.
-
-
-**5** Les opérations pouvant être exécutées dans chaque partie de la fabrique et l’endroit où chacune de ces opérations peut être exécutée sont ceux qu’indique la formule 6 ci-jointe, mais, en cas d’urgence, l’occupant de la fabrique peut affecter provisoirement à une autre opération un bâtiment ou une partie de bâtiment destiné, aux termes de la licence, à une opération donnée, à condition de ne pas procéder en même temps dans tel bâtiment ou partie de bâtiment à plus d’une opération à la fois et pourvu que la quantité d’explosifs ou de composants d’explosifs se trouvant dans tel bâtiment ou partie de bâtiment ne dépasse pas celle qui est autorisée ou toute quantité moindre dont la présence peut être permise dans le bâtiment ou la partie du bâtiment où s’exécute d’ordinaire cette autre opération. Toutefois, dès que commence cette nouvelle affectation, il doit en donner avis à un inspecteur des explosifs et cesser immédiatement telle affectation si l’inspecteur le lui ordonne.
-
-
-**6** Les restrictions et applications énumérées à la formule 6 ci-jointe doivent être fidèlement observées. Toutefois, les restrictions touchant le nombre de personnes mentionnées dans ladite formule ne s’appliquent pas aux personnes qui, dans l’exécution de leurs fonctions, peuvent être appelées à faire des tournées dans le bâtiment.
-
-
-**7** Les distances à maintenir entre les bâtiments de la fabrique et tels immeubles et ateliers en dehors de la fabrique que mentionne la formule 7 ci-jointe sont celles qu’expose ladite formule.
-
-
-**8** Toute condition ou restriction imposée par le ministre en vertu de l’article 73 du Règlement sur les explosifs doit être affichée à des endroits appropriés pour la gouverne de tous les intéressés.
-
-
-**9** Les règles spéciales rédigées par l’occupant en vue de faire observer les dispositions de la Loi, d’assurer la sécurité ainsi que le maintien de la discipline au sein de la fabrique doivent être soumises à l’inspecteur en chef des explosifs, et, par la suite, affichées à des endroits appropriés pour la gouverne de tous les intéressés.
-
-
-**10** Il est prescrit d’aménager et d’entretenir dans chaque bâtiment dangereux, ainsi que dans tout bâtiment où se trouvent ou peuvent se trouver des explosifs partiellement ou complètement fabriqués, des moyens efficaces et suffisants de sortie pour les employés.
-
-
-**11** Un rapport doit être soumis à l’inspecteur en chef des explosifs dès que se produit dans une fabrique un accident comportant l’inflammation d’une matière explosive, que l’accident soit ou non accompagné de blessures aux employés ou de dommage au matériel.
-
-
-On évitera de retarder la présentation de ces rapports sous prétexte de faire enquête sur la cause de l’accident; il est au contraire essentiel de rapporter immédiatement tout accident de ce genre.
-
-
-**12** Si pour quelque raison, l’exploitation de la fabrique est interrompue, provisoirement ou autrement, le titulaire de la licence doit en avertir par écrit l’inspecteur en chef des explosifs et, lorsque cette interruption n’est pas d’une nature provisoire permettant d’indiquer quand seront repris les travaux, avis doit être aussi donné de l’intention de recommencer l’exploitation avant la mise à exécution de cette intention et, si possible, au moins deux semaines avant la reprise des travaux.
-
-
-**13** La présente licence expire le 
-
-
-**14** La présente licence est de plus subordonnée aux autres termes, conditions et prescriptions que le ministre peut imposer à l’occasion et qui doivent avoir été communiqués par écrit au titulaire de la licence.
-
-
-DIRECTION DES EXPLOSIFSFORMULE 4
-
-
-#### MINISTÈRE DE L’ÉNERGIE, DES MINES ET DES RESSOURCES
-<table>
-<tr>
-<th>Numéro, lettre ou nom du bâtiment, du tertre ou de l’atelier, permettant de distinguer ces derniers sur le plan annexé à la licence</th>
-<th>Nature de la construction du bâtiment, du tertre ou de l’atelier, et mesures prises pour protéger chaque bâtiment ou atelier contre la foudre</th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>REMARQUE — Une courte description doit être donnée du mode d’éclairage employé dans les bâtiments, pris en bloc ou par groupes, ou individuellement, comme cela conviendra
-
-</td>
-</tr>
-</table>
-
-DIRECTION DES EXPLOSIFSFORMULE 5
-
-
-#### MINISTÈRE DE L’ÉNERGIE, DES MINES ET DES RESSOURCES
-<table>
-<tr>
-<th>L’un quelconque des explosifs autorisés suivants :</th>
-</tr>
-<tr>
-<th></th>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-<tr>
-<td></td>
-</tr>
-</table>
-
-DIRECTION DES EXPLOSIFSFORMULE 6
-
-
-#### MINISTÈRE DE L’ÉNERGIE, DES MINES ET DES RESSOURCES
-<table>
-<tr>
-<th>Numéro, lettre ou nom du bâtiment, de la pièce ou de l’endroit, permettant de distinguer ces derniers sur le plan annexé à la licence.</th>
-<th>Usage auquel est affecté le bâtiment, la pièce ou l’endroit, ou opération à y mettre en oeuvre.</th>
-<th>Nature et quantité maximum des explosifs, composants de ces derniers ou articles susceptibles de combustion spontanée, ou de nature inflammable ou autrement dangereux qui se trouveront dans chaque bâtiment, pièce ou endroit.</th>
-<th>Nombre maximum de personnes qui se trouveront dans chaque bâtiment, pièce ou endroit.</th>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-ÉNERGIE, MINES ET RESSOURCES CANADAFORMULE 7
-
-
-
-
-## Direction des explosifs
-
-
-
-#### DISTANCE À MAINTENIR ENTRE LES BÂTIMENTS DE LA FABRIQUE<sup><a href='#footnote3_f'>[*]</a></sup> ET D’AUTRES BÂTIMENTS OU OUVRAGES À L’EXTÉRIEUR DE LA FABRIQUE <sup><a href='#footnote3_f'>[*]</a></sup>
-<table>
-<tr>
-<th>Désignation du bâtiment sur le plan</th>
-<th>Route publique, canal ou autre voie navigable, place fréquentée par le public, qui peut s’y réunir</th>
-<th>Chemin de fer public</th>
-<th>Maison d’habitation, magasin de détaillant, église, école, fabrique ou autre bâtiment où des gens peuvent se réunir; bâtiment ou ouvrage servant à emmagasiner en quantité de l’essence de pétrole, de la gazoline ou d’autres substances inflammables.</th>
-<th>Poudrière contenant des explosifs</th>
-<th>Bâtiment d’opération de transformation (fabrique d’explosifs)</th>
-</tr>
-<tr>
-<th></th>
-<th>mètres</th>
-<th>mètres</th>
-<th>mètres</th>
-<th>mètres</th>
-<th>mètres</th>
-</tr>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</table>
-
-
-
-<a name='footnote3_f'><sup>*</sup></a>: Mot à remplacer par «DÉPÔT» quand la formule se rapporte à une licence pour poudrière (dépôt d’explosifs) ou à une demande s’y rattachant.<br />
-
-
-DIRECTION DES EXPLOSIFSFORMULE 8
-
-
-
-
-## Ministère de l’énergie, des mines et des ressources
-
-
-
-#### LICENCE POUR POUDRIÈRE OU DÉPÔT D’EXPLOSIFS
-<table>
-<tr>
-<td>N<sup>o</sup> d’enregistrement</td>
-<td></td>
-</tr>
-<tr>
-<td>Nom du titulaire de la licence</td>
-<td></td>
-</tr>
-<tr>
-<td>Occupation du titulaire de la licence</td>
-<td></td>
-</tr>
-<tr>
-<td>Adresse du titulaire de la licence</td>
-<td></td>
-</tr>
-<tr>
-<td>Lieu où est située la poudrière</td>
-<td><sup><a href='#footnote4_f'>[*]</a></sup>Province</td>
-</tr>
-<tr>
-<td><sup><a href='#footnote4_f'>[*]</a></sup>Comté</td>
-</tr>
-<tr>
-<td><sup><a href='#footnote4_f'>[*]</a></sup>Canton</td>
-</tr>
-<tr>
-<td><sup><a href='#footnote4_f'>[*]</a></sup>Ville ou village</td>
-</tr>
-<tr>
-<td>
-
-<a name='footnote4_f'><sup>*</sup></a>: Ce petit graphique n’est pas exposé.<br />
-
-</td>
-</tr>
-<tr>
-<td>EN EXÉCUTION de la [Loi sur les explosifs](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-17.md), la poudrière sise à l’endroit susmentionné est par la présente autorisée à emmagasiner des explosifs, sous réserve des dispositions de ladite Loi ainsi que des décrets du Conseil, règlements et ordonnances déjà adoptés ou qui pourront l’être en vertu de ladite Loi et en vigueur pour le moment, sous réserve aussi des conditions y annexées et des autres termes, conditions et prescriptions que le ministre peut imposer à l’occasion.
-
-</td>
-</tr>
-<tr>
-<td>Délivré par le ministre de l’Énergie, des Mines et des Ressources
-
-</td>
-</tr>
-<tr>
-<td></td>
-<td>____________</td>
-</tr>
-<tr>
-<td></td>
-<td>Ministre de l’Énergie, des Mines et des Ressources</td>
-</tr>
-<tr>
-<td>Ottawa
-
-</td>
-</tr>
-<tr>
-<td>&nbsp;&nbsp;&nbsp;&nbsp;jour de
-
-</td>
-</tr>
-</table>
-
-DIRECTION DES EXPLOSIFSFORMULE 9
-
-
-
-
-## Ministère de l’énergie, des mines et des ressources
-
-
-### CONDITIONS D’UNE LICENCE
-
-
-### (POUDRIÈRE OU DÉPÔT D’EXPLOSIFS)
-
-
-
-Suivent les conditions annexées à la licence n<sup>o</sup>____________ en date du ____________ pour un dépôt d’explosifs :
-
-
-**1** L’emplacement du dépôt doit être celui qui est indiqué sur le plan ci-joint signé par un inspecteur.
-
-
-**2** Les tertres, bâtiments et ateliers situés sur le terrain du dépôt ou s’y rattachant doivent occuper les emplacements indiqués sur le plan en question ____________et leurs modes de construction doivent être indiqués dans la formule 4.
-
-
-**3** Les explosifs dont l’emmagasinage dans le dépôt est autorisé par la licence sont énumérés dans la formule 5 ci-jointe.
-
-
-**4** Les distances à maintenir entre les bâtiments et ateliers sur le terrain du dépôt ou s’y rattachant et entre eux et tels bâtiments et ouvrages situés en dehors du dépôt et mentionnés dans la formule 7 ci-jointe sont les distances fixées dans ladite formule.
-
-
-**5** Pour une licence pour poudrière autre qu’une licence pour poudrière (poudres propulsives) :
-
-
-**a)** aucun explosif de sautage ne doit à aucun moment se trouver dans la partie du dépôt (des dépôts) désignée ____________ sur ledit plan et aucun détonateur ne doit à aucun moment se trouver dans la partie du dépôt (des dépôts) désignée ____________ sur le même plan;
-
-
-**b)** à aucun moment la quantité d’explosifs de sautage dans le dépôt (les dépôts) ne doit dépasser (indiquer chaque dépôt et la quantité permise) kg
-
-
-et le nombre de détonateurs ne doit pas dépasser (indiquer chaque dépôt et le nombre de détonateurs permis) 
-
-
-**6** Pour une licence pour poudrière (poudres propulsives) :
-
-
-**a)** aucune poudre propulsive ne doit à aucun moment se trouver dans la partie du dépôt (des dépôts) désignée ____________ sur ledit plan et aucune amorce à percussion ne doit à aucun moment se trouver dans la partie du dépôt (des dépôts) désignée ____________ sur le même plan;
-
-
-**b)** à aucun moment la quantité de poudres propulsives dans le dépôt (les dépôts) ne doit dépasser (indiquer chaque dépôt et la quantité permise) ____________ kg et le nombre d’amorces à percussion ne doit pas dépasser (indiquer chaque dépôt et le nombre d’amorces à percussion permis) 
-
-
-**7** Un rapport par écrit doit être présenté sans retard à l’inspecteur en chef des explosifs dès qu’un incendie atteint le dépôt ou que survient un accident entraînant l’inflammation ou l’explosion d’une matière explosive.
-
-
-**8** Un rapport par écrit doit être présenté sans retard à l’inspecteur en chef des explosifs en cas d’effraction ou de vol d’explosifs du dépôt.
-
-
-**9** La présente licence expire le 
-
-
-ÉNERGIE, MINES ET RESSOURCES CANADAFORMULE 10
-
-
-
-
-## Direction des explosifs
-## Ottawa, Canada
-## K1A 0E4
-
-
-
-#### FORMULE DE DEMANDE DE LICENCE POUR DÉPÔT TEMPORAIRE D’EXPLOSIFS
-<table>
-<tr>
-<th></th>
-<th></th>
-<th>LES RÉPONSES DOIVENT ÊTRE ÉCRITES DANS CETTE COLONNE</th>
-</tr>
-<tr>
-<th></th>
-</tr>
-<tr>
-<td>1</td>
-<td>Nom du demandeur</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Occupation du demandeur</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Adresse du demandeur</td>
-<td></td>
-</tr>
-<tr>
-<td>REMARQUE. — Si la demande est faite au nom d’une compagnie, le nom, le genre d’entreprise et l’adresse de la compagnie, et le nom du secrétaire doivent être donnés.
-
-</td>
-<td></td>
-</tr>
-<tr>
-<td>2</td>
-<td>Lieu où sont situés les bâtiments du dépôt projeté.</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Province
-
-</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Comté
-
-</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Canton
-
-</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Ville ou village
-
-</td>
-<td></td>
-</tr>
-<tr>
-<td>3</td>
-<td>Explosifs à être emmagasinés (donner leurs noms commerciaux).</td>
-<td></td>
-</tr>
-<tr>
-<td>4</td>
-<td>Quantité maximale d’explosifs de sautage (dynamite) à être emmagasinés à un moment donné (en kilogrammes).</td>
-<td></td>
-</tr>
-<tr>
-<td>5</td>
-<td>Nombre maximal de détonateurs à être emmagasinés à un moment donné, dans un dépôt distinct de celui des explosifs de mine.</td>
-<td></td>
-</tr>
-<tr>
-<td>REMARQUE. — Quand on se sert de plus d’un dépôt pour l’emmagasinage d’explosifs de sautage, on donnera la quantité maximum d’explosifs qui est gardée dans chacun d’eux.</td>
-<td></td>
-</tr>
-<tr>
-<td>6</td>
-<td>Distance minimale qui sera maintenue entre le dépôt à dynamite et les endroits suivants, pour lesquels il pourrait constituer un danger :</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>**a)** Voie publique ou lieu fréquenté par le public.
-
-</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>**b)** Chemin de fer public.
-
-</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>**c)** Habitation familale, église, école ou autre immeuble où le public peut se trouver assemblé..
-
-</td>
-<td></td>
-</tr>
-<tr>
-<td>REMARQUE. — Voici quelques indications sur les distances exigées :
-
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-<table>
-<tr>
-<th>Quantité</th>
-<th>Route, voie ferrée</th>
-<th>Maisons, etc</th>
-</tr>
-<tr>
-<th></th>
-</tr>
-<tr>
-<td>250 kg</td>
-<td>30 m</td>
-<td>60 m</td>
-</tr>
-<tr>
-<td>2 000 kg</td>
-<td>120 m</td>
-<td>240 m</td>
-</tr>
-<tr>
-<td>5 000 kg</td>
-<td>190 m</td>
-<td>300 m</td>
-</tr>
-<tr>
-<td>20 000 kg</td>
-<td>300 m</td>
-<td>600 m</td>
-</tr>
-</table>
-
-
-</td>
-<td></td>
-</tr>
-<tr>
-<td>7</td>
-<td>Étendue du terrain qui sera gardé débroussaillé autour du dépôt.</td>
-<td></td>
-</tr>
-<tr>
-<td>8</td>
-<td>Nature de la construction des bâtiments ou des excavations du dépôt, en donnant une seconde description si l’on demande la permission d’adopter plus d’un genre.</td>
-<td></td>
-</tr>
-<tr>
-<td>9</td>
-<td>Nature de la protection qui sera fournie contre les actes délictueux, soit sous forme de clôtures, ou sous celle de gardiens, ou des deux manières.</td>
-<td></td>
-</tr>
-<tr>
-<td>10</td>
-<td>Moyens de protection contre la foudre, là où il n’existe pas de protection naturelle suffisante.</td>
-<td></td>
-</tr>
-</table>
-
-Signature du demandeur 
-
-
-Adresse postale du demandeur 
-
-
-Date de la demande ____________ Téléphone : 
-
-
-(*Indicatif régional*)
-
-
-DIRECTION DES EXPLOSIFSFORMULE 11
-
-
-
-
-## Ministère de l’énergie, des mines et des ressources
-
-
-
-#### LICENCE DESTINÉE À UN DÉPÔT TEMPORAIRE D’EXPLOSIFS
-<table>
-<tr>
-<td>N<sup>o</sup></td>
-<td></td>
-</tr>
-<tr>
-<td>N<sup>o</sup> d’enregistrement</td>
-<td></td>
-</tr>
-<tr>
-<td>Nom du titulaire de la licence</td>
-<td></td>
-</tr>
-<tr>
-<td>Occupation du titulaire de la licence</td>
-<td></td>
-</tr>
-<tr>
-<td>Adresse du titulaire de la licence</td>
-<td></td>
-</tr>
-<tr>
-<td>Lieu où est situé le dépôt</td>
-<td><sup><a href='#footnote5_f'>[*]</a></sup>Province</td>
-</tr>
-<tr>
-<td><sup><a href='#footnote5_f'>[*]</a></sup>Comté</td>
-</tr>
-<tr>
-<td><sup><a href='#footnote5_f'>[*]</a></sup>Canton</td>
-</tr>
-<tr>
-<td><sup><a href='#footnote5_f'>[*]</a></sup>Ville ou village</td>
-</tr>
-<tr>
-<td>
-
-<a name='footnote5_f'><sup>*</sup></a>: Ce petit graphique n’est pas exposé.<br />
-
-</td>
-</tr>
-<tr>
-<td>EN EXÉCUTION de la [Loi sur les explosifs](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-17.md), le dépôt sis à l’endroit susmentionné est par la présente autorisé à emmagasiner des explosifs, sous réserve des dispositions de ladite Loi, ainsi que des décrets du Conseil, règlements et ordonnances déjà adoptés ou devant l’être en vertu de ladite Loi et en vigueur pour le moment, sous réserve aussi des conditions y annexées et des autres termes, conditions et prescriptions que le ministre peut imposer à l’occasion.
-
-</td>
-</tr>
-<tr>
-<td>Délivré par le ministre de l’Énergie, des Mines et des Ressources
-
-</td>
-</tr>
-<tr>
-<td></td>
-<td>____________</td>
-</tr>
-<tr>
-<td></td>
-<td>Ministre de l’Énergie, des Mines et des Ressources</td>
-</tr>
-<tr>
-<td>Ottawa
-
-</td>
-</tr>
-<tr>
-<td>&nbsp;&nbsp;&nbsp;&nbsp;jour de
-
-</td>
-</tr>
-</table>
-
-DIRECTION DES EXPLOSIFSFORMULE 12
-
-
-
-
-## Ministère de l’énergie, des mines et des ressources
-## Conditions d’une licence pour dépôt temporaire d’explosifs
-
-
-
-Suivent les conditions annexées à la licence n<sup>o</sup>____________ en date du ____________ pour un dépôt temporaire d’explosifs.
-
-
-**1** L’emplacement du dépôt, la nature de sa construction, la nature et la quantité d’explosifs qui peuvent y être emmagasinés doivent être approuvés dans la formule de demande et contresignés par l’un des inspecteurs et tous les engagements pris dans la formule de demande doivent être dûment remplis.
-
-
-**2** Les différents explosifs des classes<sup><a href='#footnote6_f'>[*]</a></sup> 1, 2, 3 et 4 (comprennent tous les explosifs autorisés généralement employés pour les travaux de sautage), les mèches de sûreté appartenant à la division 1 de la classe 6, et les divers explosifs de la division 2 de la classe 6 qui ne contiennent ni fer ni acier à découvert, peuvent être gardés dans le même dépôt temporaire, sans cloison intermédiaire; mais ils ne doivent pas être gardés avec les explosifs d’uneautre classe ou division.
-
-
-
-
-<a name='footnote6_f'><sup>*</sup></a>: Pour la classification des explosifs, voir la partie I du Règlement sur les explosifs.<br />
-
-
-**3** Les divers explosifs de la division 1 de la classe 6, ceux de la division 2 de la classe 6 qui contiennent du fer ou de l’acier à découvert, ceux de la division 3 de la classe 6 (détonateurs) <sup><a href='#footnote7_f'>[**]</a></sup>ou ceux de la classe 7, peuvent être gardés ensemble, mais pas ceux de l’une quelconque de ces divisions ou classes avec ceux des autres classes ou divisions.
-
-
-
-
-<a name='footnote7_f'><sup>**</sup></a>: Il est à remarquer que les détonateurs doivent être emmagasinés dans des dépôts distincts de ceux des explosifs de sautage et de façon à ce que l’explosion des détonateurs ne puisse se communiquer aux autres explosifs.<br />
-
-
-**4** Le titulaire d’une licence doit prendre les mesures voulues pour
-
-
-**5** The Licensee shall take measures to :
-
-
-**a)** fermer l’accès du dépôt à toute personne non autorisée;
-
-
-**b)** empêcher l’introduction dans le dépôt de tout charbon de bois, allumettes, déchets imprégnés d’huile ou tout autre article sujet à la combustion spontanée, ou de tout outil de fer ou en acier;
-
-
-**c)** assurer à l’intérieur du dépôt la propreté et l’absence de matières rugueuses; et
-
-
-**d)** en général, assurer le maintien d’une discipline et de précautions convenables de la part des personnes appelées par leurs fonctions à se trouver près du ou dans le dépôt et aussi empêcher l’entrée illicite ou l’ingérence de personnes non autorisées.
-
-
-**6** La présente licence n’aura aucune valeur après 
-
-
-**7** La présente licence est de plus subordonnée aux termes, conditions et prescriptions que le ministre peut imposer à l’occasion et qui doivent avoir été communiqués par écrit au titulaire de la licence.
-
-
-DIRECTION DES EXPLOSIFSFORMULE 13
-
-
-
-
-## Ministère de l’énergie, des mines et des ressources
-
-
-
-#### FORMULE DE DEMANDE DE PERMIS GÉNÉRAL<sup><a href='#footnote8_f'>[*]</a></sup> OU ANNUEL <sup><a href='#footnote8_f'>[*]</a></sup>D’IMPORTATION D’EXPLOSIFS
-<table>
-<tr>
-<td></td>
-<td></td>
-<td>LES RÉPONSES DOIVENT ÊTRE ÉCRITES DANS CETTE COLONNE</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Nom du demandeur</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Occupation du demandeur</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Adresse du demandeur</td>
-<td></td>
-</tr>
-<tr>
-<td>REMARQUE. — Si la demande est faite au nom d’une compagnie, le nom, le genre d’entreprise et l’adresse de la compagnie, et le nom du secrétaire doivent être indiqués.
-
-</td>
-<td></td>
-</tr>
-<tr>
-<td>2</td>
-<td>Nom et genre de l’explosif qu’on se propose d’importer.</td>
-<td></td>
-</tr>
-<tr>
-<td>3</td>
-<td>Quantité qu’on se propose d’importer en une fois.</td>
-<td></td>
-</tr>
-<tr>
-<td>4</td>
-<td>Endroit où se fera l’importation projetée.</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Province.
-
-</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Port ou havre
-
-</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td>Endroit de déchargement ou transbordement.
-
-</td>
-<td></td>
-</tr>
-<tr>
-<td>5</td>
-<td>Endroit où l’explosif doit être emmagasiné ou autre mode d’en disposer.</td>
-<td></td>
-</tr>
-<tr>
-<td>REMARQUE. — Si le demandeur n’a pas de licence de dépôts ou magasins propres à recevoir la quantité totale importée, la demande doit être accompagnée d’un certificat fourni par une personne occupant un dépôt autorisé et portant qu’elle est prête à recevoir ladite quantité d’explosifs et à l’emmagasiner. Ce certificat est également exigible si l’arrivage doit être immédiatement transbordé.
-
-</td>
-<td></td>
-</tr>
-<tr>
-<td>6</td>
-<td>Nom et adresse du fabricant de l’explosif qu’on se propose d’importer.</td>
-<td></td>
-</tr>
-<tr>
-<td>7</td>
-<td>Port étranger ou endroit d’où la marchandise doit être expédiée.</td>
-<td></td>
-</tr>
-<tr>
-<td>8</td>
-<td>Nom et adresse du consignateur de l’explosif.</td>
-<td></td>
-</tr>
-<tr>
-<td>9</td>
-<td>Nom du navire ou du bateau dans lequel l’importation doit se faire.</td>
-<td></td>
-</tr>
-<tr>
-<td>REMARQUE. — Ce renseignement sera fourni quand c’est possible; dans le cas contraire, inscrire «Nom inconnu» pour le vaisseau qui transporte l’explosif.
-
-</td>
-<td></td>
-</tr>
-<tr>
-<td>10</td>
-<td>Date approximative de l’arrivée de l’explosif au lieu d’importation.</td>
-<td></td>
-</tr>
-<tr>
-<td>11</td>
-<td>Observations.</td>
-<td></td>
-</tr>
-<tr>
-<td>Signature du demandeur  </td>
-</tr>
-<tr>
-<td>Adresse postale du demandeur </td>
-</tr>
-<tr>
-<td></td>
-</tr>
-</table>
-
-
-<a name='footnote8_f'><sup>*</sup></a>: Si la demande a trait à un permis annuel, rayez le mot «général» et vice versa.<br />
-
-
-
-ÉNERGIE, MINES ET RESSOURCES CANADAFORMULE 14
-
-
-
-
-## Direction des explosifs
-## Ottawa, Canada
-## K1A 0E4
-
-
-
-N<sup>o</sup> du permis ____________
-
-
-N<sup>o</sup> du dossier ____________
-
-
-
-
-## Permis général d’importation d’explosifs
-
-
-
-Nom du titulaire du permis 
-
-
-Adresse du titulaire du permis 
-
-
-Lieu de l’importation 
-
-
-En vertu de la [Loi sur les explosifs](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-17.md), la personne susnommée est par les présentes autorisée à importer des explosifs, sous réserve des dispositions de ladite loi et de ses textes d’application ainsi que des conditions ci-annexées.
-
-
-Le présent permis est valide pour une seule importation durant une période de 12 mois, à compter du ____________ day of ____________
-
-
-_________________________
-
-
-Le ministre de l’Énergie, des Mines et des Ressources
-
-
-DIRECTION DES EXPLOSIFSFORMULE 15
-
-
-
-
-## Ministère de l’énergie, des mines et des ressources
-## Conditions d’un permis général d’importation
-
-
-
-Suivant les conditions annexées au permis d’importation n<sup>o</sup>____________ en date du ____________.
-
-
-**1** Les seuls explosifs qu’il est licite d’importer en vertu du présent permis sont les suivants :
-
-
-**2** La quantité d’explosifs ainsi importés ne doit pas dépasser : 
-
-
-**3** Tous les explosifs importés en vertu du présent permis doivent être emballés conformément aux règlements relatifs au transport des explosifs, publiés par l’Office national des transports du Canada, à moins qu’ils ne soient expédiés du Royaume-Uni et emballés conformément aux lois du Royaume-Uni
-
-
-**4** Les seuls ports ou seules parties d’un lieu d’importation où il est permis qu’un navire ou un bateau renfermant des explosifs importés en vertu du présent permis aborde ou mouille et qu’on en décharge ou transborde ces explosifs sont ceux que l’administration locale dont relève le lieu d’importation peut désigner ou autoriser à cette fin.
-
-
-**5** L’importateur ainsi que (si ces moyens de transport sont utilisés) l’armateur et le capitaine de tout navire ou bateau transportant au Canada quelque explosif en vertu du présent permis, doivent, sur l’ordre d’un inspecteur ou d’un fonctionnaire nommé par l’administration locale dont relève le lieu d’importation ou d’un douanier du commissaire de la douane, lui montrer le présent permis et lui fournir les moyens de s’assurer que les conditions du permis sont observées; ils doivent en outre, sur l’ordre de l’inspecteur ou du fonctionnaire précité, ouvrir ou faire ouvrir toute caisse ou tout paquet importés en vertu du présent permis, pour que lesdits inspecteur ou fonctionnaire puissent en faire la visite et en prélever des échantillons; ils doivent emballer ou faire emballer de nouveau chaque caisse ainsi ouverte, en exécutant toutes ces opérations avec tous les soins et toutes les précautions requis pour empêcher qu’un accident ne se produise.
-
-
-**6** L’importateur ainsi que (si ces moyens de transport sont utilisés) l’armateur et le capitaine du navire ou du bateau transportant au Canada quelque explosif en vertu du présent permis, doivent, sur l’ordre d’un inspecteur ou d’un fonctionnaire nommé par l’administration locale dont relève le lieu d’importation ou d’un douanier du commissaire de la douane, permettre auxdits inspecteur ou fonctionnaire de prélever pour fins d’examen de petits échantillons de quelque explosif ainsi importé.
-
-
-**7. à 10** [Abrogés, DORS/84-597, art. 6]
-
-
-ÉNERGIE, MINES ET RESSOURCES CANADAFORMULE 16
-
-
-
-
-## Direction des explosifs
-## Ottawa, Canada
-## K1A 0E4
-## Nomenclature de transmission à l’usage des importateurs
-
-
-
-Cette formule doit être remplie dès que l’explosif est importé et retournée, avec le permis, sans délai, à l’inspecteur en chef des explosifs, ministère de l’Énergie, des Mines et des Ressources, Ottawa.
-
-
-<table>
-<tr>
-<td>Permis en vertu duquel l’importation est faite</td>
-<td>Port ou lieu d’importation</td>
-<td>Nom du vaisseau ou du bateau lorsque l’importation se fait par voie maritime</td>
-<td>Date de l’arrivée au port ou au lieu de l’importation</td>
-<td>Nom et adresse</td>
-<td>Port ou lieu d’expédition</td>
-<td>Nature de l’explosif importé et inscriptions sur les caisses</td>
-<td>Quantité d’explosif importée (Poids brut, en kg)</td>
-<td>Endroit où l’explosif a été emmagasiné<sup><a href='#footnote9_f'>[*]</a></sup></td>
-</tr>
-<tr>
-<td>N<sup>o</sup>  Date</td>
-<td>De&nbsp;&nbsp;&nbsp;&nbsp;Du l’expéditeur fabricant</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Signature de l’importateur </td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Adresse de l’importateur </td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Date </td>
-</tr>
-</table>
-
-
-<a name='footnote9_f'><sup>*</sup></a>: Là où l’explosif a été importé pour un transbordement immédiat pour l’étranger, les détails touchant la route (nom du vaisseau si c’est par mer) par laquelle l’exportation est faite et la date de l’expédition doivent être donnés dans cette colonne.<br />
-ÉNERGIE, MINES ET RESSOURCES CANADAFORMULE 17
-
-
-
-
-## Direction des explosifs
-
-
-
-Permis n<sup>o</sup>____________
-
-
-
-
-## Permis annuel d’importation d’explosifs
-
-
-
-Nom du titulaire du permis 
-
-
-Occupation du titulaire du permis 
-
-
-Adresse du titulaire du permis 
-
-
-Lieu d’importation 
-
-
-
-
-
-
-
-
-EN VERTU de la [Loi sur les explosifs](/fr/Lois/Lois%20révisées%20du%20Canada/E/E-17.md), la personne susdésignée est autorisée par le présent permis à importer des explosifs au lieu susmentionné, sous réserve des dispositions de ladite Loi et de tous décrets, ordonnances, règles et règlements édictés ou devant être édictés sous son empire et en vigueur à l’heure actuelle et sous réserve aussi des conditions ci-après énumérées :
-
-
-**1** Les explosifs pouvant être importés en vertu de la présente autorisation sont 
-
-
-**2** La quantité de ces explosifs pouvant être importés à la fois ne doit pas dépasser 
-
-
-**3** Les deux copies du présent permis annuel doivent être remises au préposé des douanes qui doit s’en servir et les conserver; l’original doit être conservé par l’importateur qui s’en servira de la manière indiquée à l’article 4 qui suit.
-
-
-**4** Le nombre des importations est illimité, mais la date de chacune, le numéro de la déclaration d’entrée, le nom de l’expéditeur et la quantité d’explosifs importée doivent être inscrits sur la formule apparaissant au verso du présent permis et attestés par le préposé compétent des douanes. À son expiration, le permis ainsi rempli doit être retourné immédiatement à l’inspecteur en chef des explosifs, ministère de l’Énergie, des Mines et des Ressources, Ottawa.
-
-
-**5** La présente licence expire le 
-
-
-Le ____________ jour d____________
-
-
-Délivré par le ministre de l’Énergie, des Mines et des Ressources.
-
-
-____________
-
-
-pour le ministre de l’Énergie, des Mines et des Ressources.
-
-
-(*Verso de la Formule 17*)
-
-
-
-
-## Ministère de l’énergie, des mines et des ressources
-## Permis annuel d’importation d’explosifs
-
-
-
-
-
-### CANADA
-### NOMENCLATURE DE TRANSMISSION À L’USAGE DES IMPORTATEURS
-
-
-
-Cette formule doit être mise à jour chaque fois qu’il y a importation et retournée sans délai, à l’expiration du permis annuel, à l’inspecteur en chef des explosifs, ministère de l’Énergie, des Mines et des Ressources, Ottawa
-
-
-<table>
-<tr>
-<th>Port ou lieu d’importation</th>
-<th>Nom du vaisseau ou du bateau lorsque l’importation se fait par voie maritime</th>
-<th>Date de l’arrivée au port ou au lieu de l’importation</th>
-<th>Nom et adresse</th>
-<th>Port ou lieu d’expédition</th>
-<th>Nature de l’explosif importé</th>
-<th>Quantité d’explosif importée (poids brut, en kg)</th>
-<th>But auquel l’explosif a été ou est affecté</th>
-<th>Déclaration d’entrée n<sup>o</sup></th>
-<th>Signature du fonctionnaire de la douane</th>
-</tr>
-<tr>
-<th>de l’expéditeur</th>
-<th>du fabricant</th>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Signature de l’importateur </td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Adresse de l’importateur </td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Date </td>
-</tr>
-</table>
 
 FORMULE 18
 
-
 DEMANDE ET PERMIS DE TRANSPORT D’EXPLOSIFS
+
 
 
 CE GRAPHIQUE N’EST PAS EXPOSÉ, VOIR C.R.C., CH. 599, PP. 4023 ET 4024
 
 
-FORMULE 19
 
 
-DEMANDE ET LICENCE POUR DÉPÔT DE PIÈCES PYROTECHNIQUES
-
-
-CE GRAPHIQUE N’EST PAS EXPOSÉ, VOIR C.R.C., CH. 599, P. 4025
+### **FORMULE 19** 
+[Abrogée, DORS/2009-125, art. 8]
 
 
 FORMULE 20
 
-
 PERMIS D’ACHAT ET DE POSSESSION D’EXPLOSIFS DE SAUTAGE
+
 
 
 CE GRAPHIQUE N’EST PAS EXPOSÉ, VOIR DORS/90-571, ART. 3
 
 
->  DORS/84-597, art. 3 à 7; DORS/86-422, art. 4; DORS/90-571, art. 3.
+
+
+> DORS/84-597, art. 3 à 7; DORS/86-422, art. 4; DORS/90-571, art. 3; DORS/2009-125, art. 7 et 8.
 
 
 
