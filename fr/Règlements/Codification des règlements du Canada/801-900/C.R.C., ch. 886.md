@@ -701,14 +701,14 @@ le directeur d’un aéroport peut, aux frais de l’exploitant de l’aéronef,
 ## Aéroports internationaux
 - **1** Calgary
 - **2** Edmonton
-- **3** Halifax
+- **3** Halifax (Robert L. Stanfield)
 - **4** Montréal (Pierre-Elliott-Trudeau)
 - **5** Montréal (Mirabel)
 - **6** Ottawa
 - **7** Toronto
 - **8** Vancouver
-- **9** Winnipeg
-> DORS/92-120, art. 8; DORS/2004-29, art. 11.
+- **9** Winnipeg (James Armstrong Richardson)
+> DORS/92-120, art. 8; DORS/2004-29, art. 11; DORS/2009-167, art. 6.
 
 
 
