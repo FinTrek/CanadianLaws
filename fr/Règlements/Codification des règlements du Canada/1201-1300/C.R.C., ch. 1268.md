@@ -775,12 +775,8 @@ dans la mesure où ils s’appliquent dans cette circonscription;
 ## Droits
 
 
-**41** 
-
-- **(1)** Les droits relatifs aux brevets et aux certificats de pilotage et les droits d’examen pour les candidats aux brevets ou aux certificats de pilotage sont prévus à l’annexe III.
-
-- **(2)** Les droits prévus à la colonne II de l’annexe III sont majorés, le 1<sup>er</sup> février de chaque année, d’un montant qui représente l’augmentation moyenne de l’indice des prix à la consommation de l’année précédente pour la province de Québec, publié par Statistique Canada.
-> DORS/2002-346, art. 18.
+**41** Sont prévus à l’annexe III les droits relatifs aux brevets, aux certificats de pilotage et aux permis d’apprenti pilote, ainsi qu’aux examens et aux tests des candidats aux brevets, aux certificats de pilotage ou aux permis d’apprenti pilote.
+> DORS/2002-346, art. 18; DORS/2009-168, art. 1.
 
 
 
@@ -835,65 +831,70 @@ La zone de pilotage obligatoire comprend :
 
 ### **ANNEXE III** 
 **(article 41)**
-#### DROITS D’EXAMEN ET DROITS À PAYER POUR LA DÉLIVRANCE DE BREVETS ET CERTIFICATS DE PILOTAGE
+#### DROITS RELATIFS AUX EXAMENS ET AUX TESTS ET DROITS RELATIFS À LA DÉLIVRANCE DE BREVETS, DE CERTIFICATS DE PILOTAGE ET DE PERMIS D’APPRENTI PILOTE
 <table>
 <tr>
 <th></th>
-<th>Colonne I</th>
-<th>Colonne II</th>
+<th>Colonne 1</th>
+<th>Colonne 2</th>
 </tr>
 <tr>
 <th>Article</th>
-<th>Brevet ou certificat</th>
+<th>Brevet, certificat, examen ou test</th>
 <th>Droits ($)</th>
 </tr>
 <tr>
 <td>1</td>
-<td>Examen par l’Administration des documents visés aux articles 21 ou 26.3 pour la délivrance d’un certificat de pilotage ou d’un permis d’apprenti pilote de classe D</td>
-<td>50</td>
+<td>Examen par l’Administration des documents visés aux articles 21 ou 26.3 pour la délivrance d’un certificat de pilotage ou d’un permis d’apprenti pilote de classe D</td>
+<td>100</td>
 </tr>
 <tr>
 <td>2</td>
-<td>Délivrance d’un permis d’apprenti pilote de classe D</td>
-<td>300</td>
+<td>Chaque test linguistique tenu en application des alinéas 26.1a), 26.2a) ou 28(3)c)</td>
+<td>100</td>
 </tr>
 <tr>
 <td>3</td>
-<td>Chaque test écrit pour la délivrance d’un brevet ou d’un certificat de pilotage</td>
-<td>200</td>
+<td>Délivrance d’un permis d’apprenti pilote de classe D</td>
+<td>355</td>
 </tr>
 <tr>
 <td>4</td>
-<td>Chaque test oral pour la délivrance d’un brevet ou d’un certificat de pilotage</td>
-<td>400</td>
+<td>Chaque test écrit pour la délivrance d’un brevet, d’un certificat de pilotage ou d’un permis d’apprenti pilote de classe D</td>
+<td>473</td>
 </tr>
 <tr>
 <td>5</td>
-<td>Délivrance d’un brevet ou d’un certificat de pilotage à un candidat qui a réussi l’examen pour obtenir le brevet ou le certificat</td>
-<td>400</td>
+<td>Chaque test oral pour la délivrance d’un brevet ou d’un certificat de pilotage</td>
+<td>473</td>
 </tr>
 <tr>
 <td>6</td>
-<td>Délivrance d’un certificat de pilotage d’une classe différente de celle que détient le titulaire</td>
-<td>300</td>
+<td>Délivrance d’un brevet ou d’un certificat de pilotage à un candidat qui a réussi l’examen pour obtenir le brevet ou le certificat</td>
+<td>473</td>
 </tr>
 <tr>
 <td>7</td>
-<td>Délivrance d’un brevet de classe B</td>
-<td>300</td>
+<td>Délivrance d’un certificat de pilotage d’une classe différente de celle que détient le titulaire</td>
+<td>355</td>
 </tr>
 <tr>
 <td>8</td>
-<td>Délivrance d’un brevet de classe A</td>
-<td>300</td>
+<td>Délivrance d’un brevet de classe B</td>
+<td>355</td>
 </tr>
 <tr>
 <td>9</td>
-<td>Délivrance d’un brevet, d’un certificat de pilotage ou d’un permis d’apprenti pilote de classe D en remplacement de celui qui a été perdu</td>
-<td>100</td>
+<td>Délivrance d’un brevet de classe A</td>
+<td>355</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Délivrance d’un brevet, d’un certificat de pilotage ou d’un permis d’apprenti pilote de classe D en remplacement de celui qui a été perdu</td>
+<td>119</td>
 </tr>
 </table>
 
-> DORS/92-680, art. 8; DORS/2002-346, art. 19.
+> DORS/92-680, art. 8; DORS/2002-346, art. 19; DORS/2009-168, art. 2.
 
 
