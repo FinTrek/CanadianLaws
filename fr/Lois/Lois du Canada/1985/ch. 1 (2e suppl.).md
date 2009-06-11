@@ -222,7 +222,7 @@
 
 **Délégation**
 
-- **(4)** Le ministre peut autoriser un fonctionnaire ou une catégorie de fonctionnaires à exercer les pouvoirs et fonctions, y compris les pouvoirs et fonctions judiciaires ou quasi-judiciaires, qui lui sont conférés en vertu de la présente loi.
+- **(4)** Le ministre peut autoriser un agent ou une catégorie d’agents à exercer les pouvoirs et fonctions, y compris les pouvoirs et fonctions judiciaires ou quasi judiciaires, qui lui sont conférés en vertu de la présente loi.
 
 **Délégation par le ministre**
 
@@ -231,7 +231,7 @@
 **Délégation par le ministre du Revenu national**
 
 - **(6)** Le ministre du Revenu national peut autoriser toute personne employée par l’Agence du revenu du Canada ou par l’Agence, nommément ou au titre de son appartenance à une catégorie donnée, à exercer les pouvoirs et fonctions, y compris les pouvoirs et fonctions judiciaires ou quasi-judiciaires, qui lui sont conférés en vertu de la présente loi.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 2, ch. 41 (3<sup>e</sup> suppl.), art. 118; 1988, ch. 65, art. 66; 1990, ch. 45, art. 19; 1992, ch. 28, art. 1; 1993, ch. 25, art. 68, ch. 27, art. 213, ch. 44, art. 81; 1994, ch. 13, art. 7; 1995, ch. 15, art. 24, ch. 41, art. 1; 1996, ch. 31, art. 73, ch. 33, art. 28; 1997, ch. 14, art. 35, ch. 36, art. 147; 1998, ch. 19, art. 262; 1999, ch. 17, art. 123; 2001, ch. 25, art. 1, ch. 28, art. 26; 2002, ch. 22, art. 328; 2005, ch. 38, art. 60 et 145; 2007, ch. 18, art. 135.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 2, ch. 41 (3<sup>e</sup> suppl.), art. 118; 1988, ch. 65, art. 66; 1990, ch. 45, art. 19; 1992, ch. 28, art. 1; 1993, ch. 25, art. 68, ch. 27, art. 213, ch. 44, art. 81; 1994, ch. 13, art. 7; 1995, ch. 15, art. 24, ch. 41, art. 1; 1996, ch. 31, art. 73, ch. 33, art. 28; 1997, ch. 14, art. 35, ch. 36, art. 147; 1998, ch. 19, art. 262; 1999, ch. 17, art. 123; 2001, ch. 25, art. 1, ch. 28, art. 26; 2002, ch. 22, art. 328; 2005, ch. 38, art. 60 et 145; 2007, ch. 18, art. 135; 2009, ch. 10, art. 1(F).
 
 
 
@@ -642,30 +642,41 @@ Nul ne peut entraver l’exercice du droit ainsi conféré.
 
 **Accès interdit**
 
-**11.3** Il est interdit au propriétaire ou à l’exploitant d’une installation où est située une zone de contrôle des douanes de permettre, directement ou indirectement, à une autre personne l’accès à cette zone sauf si celle-ci, selon le cas :
-- **a)** est autorisée par le ministre conformément aux règlements pris en vertu de l’article 11.5;
-- **b)** est une personne prévue par règlement ou un membre d’une catégorie de personnes réglementaire.
-> 2001, ch. 25, art. 11.
+**11.3** 
+
+- **(1)** Il est interdit au propriétaire ou à l’exploitant d’une installation où est située une zone de contrôle des douanes de permettre, directement ou indirectement, à une autre personne l’accès à cette zone sauf si celle-ci, selon le cas :
+	- **a)** est autorisée par le ministre;
+	- **b)** est une personne prévue par règlement ou un membre d’une catégorie de personnes réglementaire.
+
+**Modification, suspension, etc.**
+
+- **(2)** Le ministre peut modifier, suspendre, renouveler, annuler ou rétablir une autorisation.
+> 2001, ch. 25, art. 11; 2009, ch. 10, art. 2.
 
 
 
 
 
-**Présentation et déclaration**
+**Présentation et déclaration — en quittant une zone de contrôle des douanes**
 
 **11.4** 
 
-- **(1)** Sous réserve du paragraphe (2), toute personne qui quitte une zone de contrôle des douanes, à une fin autre que pour embarquer sur un vol à destination de l’étranger, doit :
+- **(1)** Sous réserve du paragraphe (2), la personne qui quitte une zone de contrôle des douanes doit, à la demande de tout agent :
 	- **a)** se présenter à un agent de la manière réglementaire et s’identifier;
-	- **b)** déclarer à l’agent de la manière réglementaire les marchandises acquises par tout moyen dans la zone de contrôle des douanes et lui en donner accès;
-	- **c)** répondre véridiquement aux questions que lui pose l’agent dans l’exercice des fonctions que lui confère la présente loi ou une autre loi fédérale.
+	- **b)** déclarer de la manière réglementaire les marchandises acquises par tout moyen dans la zone de contrôle des douanes;
+	- **b.1)** présenter ces marchandises et les déballer, décharger les moyens de transport ou en ouvrir les parties, ou encore ouvrir ou défaire les colis et autres contenants qu’un agent veut examiner;
+	- **c)** répondre véridiquement aux questions que lui pose un agent dans l’exercice des fonctions que lui confère la présente loi ou une autre loi fédérale.
 
-**Non-application du paragraphe (1)**
+**Présentation et déclaration — dans une zone de contrôle des douanes**
 
-- **(2)** Le paragraphe (1) ne s’applique pas :
-	- **a)** aux personnes qui doivent se présenter en vertu de l’article 11 ou déclarer des marchandises en vertu de l’article 12;
-	- **b)** aux personnes prévues par règlement ou aux personnes membres d’une catégorie de personnes réglementaire, dans les circonstances réglementaires.
-> 2001, ch. 25, art. 11.
+- **(1.1)** À la demande de tout agent, la personne qui se trouve dans une zone de contrôle des douanes doit :
+	- **a)** se présenter à un agent de la manière réglementaire et s’identifier;
+	- **b)** répondre véridiquement aux questions que lui pose un agent dans l’exercice des fonctions que lui confère la présente loi ou une autre loi fédérale.
+
+**Non-application des paragraphes (1) et (1.1)**
+
+- **(2)** Les paragraphes (1) et (1.1) ne s’appliquent pas aux personnes qui doivent se présenter en vertu de l’article 11 ou déclarer des marchandises en vertu de l’article 12.
+> 2001, ch. 25, art. 11; 2009, ch. 10, art. 3.
 
 
 
@@ -674,12 +685,10 @@ Nul ne peut entraver l’exercice du droit ainsi conféré.
 **Règlements**
 
 **11.5** Le gouverneur en conseil peut prendre des règlements :
-- **a)** concernant l’autorisation des personnes pour l’application de l’alinéa 11.3a);
-- **b)** désignant les personnes ou les catégories de personnes dont l’accès à une zone de contrôle des douanes peut être approuvé en vertu de l’alinéa 11.3b);
-- **c)** concernant la modification, la suspension, le renouvellement, la révocation ou le rétablissement d’une autorisation accordée en vertu de l’alinéa 11.3a);
-- **d)** concernant la manière selon laquelle une personne doit se présenter en vertu de l’alinéa 11.4(1)a) et déclarer des marchandises en vertu de l’alinéa 11.4(1)b);
-- **e)** désignant, pour l’application de l’alinéa 11.4(2)b), les personnes et les catégories de personnes qui sont exemptées des exigences imposées par le paragraphe 11.4(1) et les circonstances d’exemption.
-> 2001, ch. 25, art. 11.
+- **a)** désignant les personnes ou les catégories de personnes dont l’accès à une zone de contrôle des douanes peut être approuvé en vertu de l’alinéa 11.3(1)b);
+- **b)** concernant la manière dont une personne doit se présenter en vertu des alinéas 11.4(1)a) et (1.1)a) et déclarer des marchandises en vertu de l’alinéa 11.4(1)b).
+- **c) à e)** [Abrogés, 2009, ch. 10, art. 4]
+> 2001, ch. 25, art. 11; 2009, ch. 10, art. 4.
 
 
 
@@ -730,6 +739,20 @@ Nul ne peut entraver l’exercice du droit ainsi conféré.
 	- **b)** elles ne sont pas passibles de droits;
 	- **c)** leur importation n’est pas prohibée par le [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md), ni prohibée, contrôlée ou réglementée sous le régime d’une loi fédérale autre que la présente loi ou le [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
 > L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 12, ch. 41 (3<sup>e</sup> suppl.), art. 119; 1992, ch. 28, art. 3; 1996, ch. 31, art. 75; 1997, ch. 36, art. 149; 2001, ch. 25, art. 12.
+
+
+
+
+
+**Renseignements préalables**
+
+**12.1** Le gouverneur en conseil peut prendre des règlements :
+- **a)** exigeant la fourniture, avant l’arrivée au Canada d’un moyen de transport, de renseignements relatifs à celui-ci et aux marchandises et personnes à bord;
+- **b)** concernant les renseignements à fournir;
+- **c)** désignant les personnes ou catégories de personnes tenues de fournir les renseignements;
+- **d)** prévoyant les circonstances dans lesquelles les renseignements doivent être fournis;
+- **e)** concernant les délais et modalités de fourniture des renseignements.
+> 2009, ch. 10, art. 6.
 
 
 
@@ -1891,7 +1914,7 @@ Sont exclues de la présente définition les marchandises importées qui incorpo
 		- **(ii)** soit limite la zone où les marchandises peuvent être revendues,
 		- **(iii)** soit n’a pas d’effet notable sur la valeur des marchandises;
 	- **b)** la vente des marchandises ou le prix payé ou à payer pour celles-ci n’est pas subordonné à des conditions ou à des prestations dont la valeur n’est pas déterminable en ce qui concerne les marchandises;
-	- **c)** aucune partie du produit de toute revente, cession ou utilisation ultérieure des marchandises par l’acheteur ne revient directement ou indirectement au vendeur, sauf s’il a été tenu compte de cette ristourne dans le prix payé ou à payer ou si ce prix est ajusté conformément au sous-alinéa (5)a)(v);
+	- **c)** aucune partie du produit de toute revente, cession ou utilisation ultérieure des marchandises par l’acheteur ne revient directement ou indirectement au vendeur, sauf s’il a été tenu compte de cette ristourne dans le prix payé ou à payer ou si ce prix est ajusté conformément à l’alinéa (5)a);
 	- **d)** l’acheteur et le vendeur ne sont pas liés au moment de la vente des marchandises pour exportation ou, s’ils le sont :
 		- **(i)** ou bien le lien qui les unit n’a pas influé sur le prix payé ou à payer,
 		- **(ii)** ou bien l’importateur démontre que la valeur transactionnelle des marchandises à apprécier répond aux exigences visées au paragraphe (3).
@@ -1939,7 +1962,7 @@ Sont exclues de la présente définition les marchandises importées qui incorpo
 **Inexactitude des renseignements**
 
 - **(7)** L’agent qui, lors de l’appréciation de la valeur en douane de marchandises, a des motifs raisonnables de douter de l’exactitude des renseignements sur lesquels est fondée la détermination de la valeur transactionnelle des marchandises prévue au paragraphe (4) détermine, conformément à la procédure réglementaire, que le présent article ne peut s’appliquer à l’appréciation de la valeur en douane des marchandises.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 48; 1994, ch. 47, art. 71; 1995, ch. 41, art. 18; 2002, ch. 22, art. 336.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 48; 1994, ch. 47, art. 71; 1995, ch. 41, art. 18; 2002, ch. 22, art. 336; 2009, ch. 10, art. 7.
 
 
 
@@ -1953,20 +1976,20 @@ Sont exclues de la présente définition les marchandises importées qui incorpo
 
 **49** 
 
-- **(1)** Sous réserve des paragraphes (2) à (5), la valeur en douane des marchandises, dans les cas où elle n’est pas déterminée par application de l’article 48, est, si elle est déterminable, la valeur transactionnelle de marchandises identiques vendues pour exportation au Canada et exportées au même moment ou à peu près au même moment que les marchandises à apprécier, pourvu que cette valeur transactionnelle soit la valeur en douane des marchandises identiques et que la vente de celles-ci et la vente des marchandises à apprécier réunissent les conditions suivantes :
-	- **a)** elles sont réalisées approximativement au même niveau commercial;
-	- **b)** elles portent sur une quantité égale ou sensiblement égale.
+- **(1)** Sous réserve des paragraphes (2) à (5), la valeur en douane des marchandises, dans les cas où elle n’est pas déterminée par application de l’article 48, est, si elle est déterminable, la valeur transactionnelle de marchandises identiques vendues pour exportation au Canada et exportées au même moment ou à peu près au même moment que les marchandises à apprécier, pourvu que cette valeur transactionnelle soit la valeur en douane des marchandises identiques vendues :
+	- **a)** au même niveau commercial ou approximativement au même niveau commercial que les marchandises à apprécier;
+	- **b)** en une quantité égale ou sensiblement égale à celle des marchandises à apprécier.
 
 **Cas de marchandises identiques vendues dans des conditions différentes**
 
-- **(2)** En l’absence d’une vente de marchandises identiques répondant aux conditions fixées aux alinéas (1)a) et b), la valeur en douane des marchandises est, pour l’application du paragraphe (1), déterminée par référence à des marchandises identiques dont la vente est, par rapport à celle des marchandises à apprécier, réalisée :
+- **(2)** En l’absence d’une vente de marchandises identiques répondant aux conditions fixées aux alinéas (1)a) et b), la valeur en douane des marchandises est, pour l’application du paragraphe (1), déterminée par référence à des marchandises identiques dont la vente est, par rapport à celle des marchandises à apprécier, réalisée :
 	- **a)** soit au même niveau commercial ou approximativement au même niveau commercial, mais pour une quantité différente;
 	- **b)** soit à un niveau commercial différent, mais pour une quantité égale ou sensiblement égale;
 	- **c)** soit à un niveau commercial différent pour une quantité différente.
 
 **Ajustement de la valeur transactionnelle de marchandises identiques**
 
-- **(3)** Pour l’application du paragraphe (1), la valeur transactionnelle de marchandises identiques est ajustée en y ajoutant ou en en retranchant, selon le cas, les montants représentant, à la fois :
+- **(3)** Pour l’application du paragraphe (1), la valeur transactionnelle de marchandises identiques est ajustée en y ajoutant ou en en retranchant, selon le cas, les montants représentant, à la fois :
 	- **a)** les différences, notables du point de vue commercial, découlant de différences dans les distances et les modes de transport, entre les marchandises identiques et les marchandises à apprécier en ce qui concerne les coûts et frais visés au sous-alinéa 48(5)a)(vi);
 	- **b)** les différences entre les marchandises identiques et les marchandises à apprécier découlant, dans les situations visées aux alinéas (2)a) à c), soit du facteur niveau commercial, soit du facteur quantité, soit de l’un et l’autre facteurs.
 
@@ -1977,6 +2000,8 @@ Sont exclues de la présente définition les marchandises importées qui incorpo
 **Choix de la moindre valeur transactionnelle de marchandises identiques**
 
 - **(5)** Lorsqu’il existe, dans l’appréciation des marchandises, plusieurs valeurs transactionnelles afférentes soit à des marchandises identiques qui remplissent les conditions visées aux paragraphes (1) et (3), soit, à défaut, à des marchandises identiques qui remplissent l’une des conditions visées aux alinéas (2)a) à c) en plus des autres exigences prévues par le présent article et applicables en vertu du paragraphe (2), la valeur en douane des marchandises à apprécier se fonde sur la moindre de ces valeurs transactionnelles.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 49; 2009, ch. 10, art. 8.
+
 
 
 
@@ -1989,13 +2014,15 @@ Sont exclues de la présente définition les marchandises importées qui incorpo
 
 **50** 
 
-- **(1)** Sous réserve des paragraphes (2) et 49(2) à (5), la valeur en douane des marchandises, dans les cas où elle n’est pas déterminée par application de l’article 48 ou 49, est, si elle est déterminable, la valeur transactionnelle de marchandises semblables vendues pour exportation au Canada et exportées au même moment ou à peu près au même moment que les marchandises à apprécier, pourvu que cette valeur transactionnelle soit la valeur en douane des marchandises semblables et que la vente de celles-ci et la vente des marchandises à apprécier réunissent les conditions suivantes :
-	- **a)** elles sont réalisées au même niveau commercial ou approximativement au même niveau commercial;
-	- **b)** elles portent sur une quantité égale ou sensiblement égale.
+- **(1)** Sous réserve des paragraphes (2) et 49(2) à (5), la valeur en douane des marchandises, dans les cas où elle n’est pas déterminée par application de l’article 48 ou 49, est, si elle est déterminable, la valeur transactionnelle de marchandises semblables vendues pour exportation au Canada et exportées au même moment ou à peu près au même moment que les marchandises à apprécier, pourvu que cette valeur transactionnelle soit la valeur en douane des marchandises semblables vendues :
+	- **a)** au même niveau commercial ou approximativement au même niveau commercial que les marchandises à apprécier;
+	- **b)** en une quantité égale ou sensiblement égale à celle des marchandises à apprécier.
 
 **Applicabilité de l’article 49**
 
 - **(2)** Les paragraphes 49(2) à (5) s’appliquent aux situations prévues au présent article et, en ce qui a trait aux marchandises semblables, l’expression « marchandises identiques » figurant à ces paragraphes désigne alors des marchandises semblables.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 50; 2009, ch. 10, art. 9.
+
 
 
 
@@ -4028,11 +4055,11 @@ En cas d’application de l’alinéa a), l’appel ne peut être interjeté qu�
 
 **99.2** 
 
-- **(1)** Un agent peut fouiller toute personne qui quitte une zone de contrôle des douanes, autre qu’une personne visée par règlement ou une personne qui est membre d’une catégorie de personnes réglementaire qui peut être fouillée en vertu du paragraphe (2), s’il soupçonne, pour des motifs raisonnables, qu’elle dissimule sur elle ou près d’elle tout objet d’infraction, effective ou éventuelle, à la présente loi ou à ses règlements d’application, tout objet permettant d’établir une pareille infraction ou toute marchandise d’importation ou d’exportation prohibée, contrôlée ou réglementée en vertu de la présente loi ou de toute autre loi fédérale.
+- **(1)** L’agent peut fouiller toute personne qui se trouve dans une zone de contrôle des douanes ou quitte une telle zone, autre qu’une personne visée par règlement ou une personne qui est membre d’une catégorie de personnes réglementaire qui peut être fouillée en vertu du paragraphe (2), s’il soupçonne, pour des motifs raisonnables, qu’elle dissimule sur elle ou près d’elle tout objet d’infraction, effective ou éventuelle, à la présente loi ou à ses règlements d’application, tout objet permettant d’établir une pareille infraction ou toute marchandise d’importation ou d’exportation prohibée, contrôlée ou réglementée en vertu de la présente loi ou de toute autre loi fédérale.
 
-**Fouille — personnes réglementaires**
+**Fouille — personnes visées par règlement**
 
-- **(2)** Un agent peut, conformément aux règlements, fouiller une personne visée par règlement ou une personne qui est membre d’une catégorie de personnes réglementaire si cette personne quitte une zone de contrôle des douanes.
+- **(2)** L’agent peut, conformément aux règlements, fouiller une personne visée par règlement ou une personne qui est membre d’une catégorie de personnes réglementaire si cette personne se trouve dans une zone de contrôle des douanes ou quitte une telle zone.
 
 **Conduite devant l’agent principal**
 
@@ -4045,7 +4072,7 @@ En cas d’application de l’alinéa a), l’appel ne peut être interjeté qu�
 **Fouille — restrictions**
 
 - **(5)** L’agent ne peut fouiller une personne de sexe opposé. Faute de collègue du même sexe que celle-ci sur le lieu où la fouille sera effectuée, il peut autoriser toute personne de ce sexe présentant les qualités voulues à y procéder.
-> 2001, ch. 25, art. 60.
+> 2001, ch. 25, art. 60; 2009, ch. 10, art. 10.
 
 
 
@@ -4055,16 +4082,16 @@ En cas d’application de l’alinéa a), l’appel ne peut être interjeté qu�
 
 **99.3** 
 
-- **(1)** Dans les cas prévus par règlement, l’agent peut, sans soupçon précis, procéder à l’examen discret de marchandises en la garde ou la possession d’une personne qui quitte une zone de contrôle des douanes.
+- **(1)** L’agent peut, conformément aux règlements et sans soupçon précis, procéder à l’examen discret de marchandises en la garde ou la possession d’une personne qui se trouve dans une zone de contrôle des douanes ou quitte une telle zone.
 
 **Autre examen de marchandises**
 
-- **(2)** L’agent peut examiner les marchandises en la garde ou la possession d’une personne qui quitte une zone de contrôle des douanes et dont il soupçonne, pour des motifs raisonnables, qu’elles ont donné ou pourraient donner lieu à une infraction soit à la présente loi, soit à toute autre loi fédérale à l’égard de laquelle il a des fonctions d’exécution ou de contrôle d’application, soit aux règlements d’application de ces lois, ainsi qu’en ouvrir ou faire ouvrir tout bagage, colis ou contenant ou en prendre des échantillons en quantités raisonnables.
+- **(2)** L’agent peut examiner les marchandises en la garde ou la possession d’une personne qui se trouve dans une zone de contrôle des douanes ou quitte une telle zone et dont il soupçonne, pour des motifs raisonnables, qu’elles ont donné ou pourraient donner lieu à une infraction soit à la présente loi, soit à toute autre loi fédérale à l’égard de laquelle il a des fonctions d’exécution ou de contrôle d’application, soit aux règlements d’application de ces lois, ou en prendre des échantillons en quantités raisonnables. Il peut aussi ouvrir ou faire ouvrir tout bagage, colis ou contenant.
 
-**Examen de marchandises abandonnées**
+**Examen de marchandises**
 
-- **(3)** Un agent peut, en tout temps, ouvrir ou faire ouvrir, inspecter et détenir tout bagage, colis ou contenant abandonné dans une zone de contrôle des douanes.
-> 2001, ch. 25, art. 60.
+- **(3)** L’agent peut, en tout temps, ouvrir ou faire ouvrir, examiner et retenir toute marchandise ou tout bagage, colis ou contenant abandonné dans une zone de contrôle des douanes ou qui n’est en la possession de personne dans une telle zone.
+> 2001, ch. 25, art. 60; 2009, ch. 10, art. 11.
 
 
 
@@ -4317,12 +4344,12 @@ En cas d’application de l’alinéa a), l’appel ne peut être interjeté qu�
 
 **107.1** 
 
-- **(1)** Le ministre peut, dans les circonstances et conditions prévues par règlement, exiger de toute personne ou catégorie de personnes visée par règlement qu’elle fournisse des renseignements réglementaires sur toute personne à bord d’un moyen de transport ou y donne accès, avant l’arrivée au Canada du moyen de transport ou dans un délai raisonnable après son arrivée.
+- **(1)** Le ministre peut, dans les circonstances et conditions prévues par règlement, exiger de toute personne ou catégorie de personnes visée par règlement qu’elle fournisse les renseignements réglementaires sur toute personne à bord d’un moyen de transport ou y donne accès, et ce dans le délai et selon les modalités réglementaires.
 
 **Communication malgré une interdiction**
 
 - **(2)** La personne qui doit fournir des renseignements réglementaires ou y donner accès en vertu du paragraphe (1) doit le faire malgré toute exception prévue par la [Loi sur l’aéronautique](/fr/Lois/Lois%20révisées%20du%20Canada/A/A-2.md) à l’égard de la communication de tels renseignements.
-> 2001, ch. 25, art. 61.
+> 2001, ch. 25, art. 61; 2009, ch. 10, art. 12.
 
 
 
@@ -4792,15 +4819,13 @@ Il n’est besoin de nul acte ni de nulle procédure postérieurs à l’infract
 **127.1** 
 
 - **(1)** Le ministre ou l’agent que le président désigne pour l’application du présent article peut annuler une saisie faite en vertu de l’article 110, annuler ou réduire une pénalité établie en vertu de l’article 109.3 ou une somme réclamée en vertu de l’article 124 ou rembourser un montant reçu en vertu de l’un des articles 117 à 119, dans les trente jours suivant la saisie ou l’établissement de la pénalité ou la réclamation dans les cas suivants :
-	- **a)
-** le ministre est convaincu qu’aucune infraction n’a été commise;
-	- **b)
-** il y a eu infraction, mais le ministre est d’avis qu’une erreur a été commise concernant la somme établie, versée ou réclamée et que celle-ci doit être réduite.
+	- **a)** le ministre est convaincu qu’aucune infraction n’a été commise;
+	- **b)** il y a eu infraction, mais le ministre est d’avis qu’une erreur a été commise concernant la somme établie, versée ou réclamée en garantie et que celle-ci doit être réduite.
 
 **Intérêt**
 
 - **(2)** La somme qui est remboursée à une personne en vertu de l’alinéa (1)a) est majorée des intérêts au taux réglementaire, calculés à compter du lendemain du jour du paiement de la somme par cette personne jusqu’à celui de son remboursement.
-> 2001, ch. 25, art. 68; 2005, ch. 38, art. 81.
+> 2001, ch. 25, art. 68; 2005, ch. 38, art. 81; 2009, ch. 10, art. 13(F).
 
 
 
@@ -5130,7 +5155,7 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 
 **Signification au ministre**
 
-- **(4)** Au plus tard le quinzième jour précédant la date d’audition de la requête, le requérant signifie au ministre, ou au fonctionnaire que celui-ci désigne pour l’application du présent article, un avis de la requête et de l’audition.
+- **(4)** Au plus tard le quinzième jour précédant la date d’audition de la requête, le requérant signifie au ministre, ou à l’agent que celui-ci désigne pour l’application du présent article, un avis de la requête et de l’audition.
 
 **Courrier recommandé**
 
@@ -5142,7 +5167,7 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 	- **a)** le requérant a acquis son droit de bonne foi avant l’infraction ou l’utilisation;
 	- **b)** il est innocent de toute complicité ou collusion dans l’infraction ou l’utilisation;
 	- **c)** il a pris les précautions voulues pour se convaincre que l’objet saisi ou détenu ne risquait pas d’être utilisé en infraction par toute personne admise à sa possession, ou par le débiteur dans le cas d’une hypothèque ou d’un privilège.
-> 2001, ch. 25, art. 75; 2002, ch. 7, art. 272.
+> 2001, ch. 25, art. 75; 2002, ch. 7, art. 272; 2009, ch. 10, art. 14(F).
 
 
 
@@ -5361,8 +5386,8 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 
 **Preuve de l’absence d’appel**
 
-**149.1** Constitue la preuve des énonciations qui y sont renfermées l’affidavit d’un fonctionnaire de l’Agence ou de l’Agence du revenu du Canada — souscrit en présence d’un commissaire ou d’une autre personne autorisée à le recevoir — indiquant qu’il a la charge des registres pertinents, qu’il a connaissance de la pratique de l’Agence ou de l’Agence du revenu du Canada, selon le cas, qu’un examen des registres démontre qu’un avis de cotisation prévu à la partie V.1 a été posté ou autrement envoyé à une personne un jour donné, en application de la présente loi, et que, après avoir fait un examen attentif des registres et y avoir pratiqué des recherches, il lui a été impossible de constater qu’un avis d’opposition ou d’appel concernant la cotisation a été reçu dans le délai imparti à cette fin.
-> 2001, ch. 25, art. 80; 2005, ch. 38, art. 82.
+**149.1** Constitue la preuve des énonciations qui y sont renfermées l’affidavit d’un agent — souscrit en présence d’un commissaire ou d’une autre personne autorisée à le recevoir — indiquant qu’il a la charge des registres pertinents, qu’il a connaissance de la pratique de l’Agence ou de l’Agence du revenu du Canada, selon le cas, qu’un examen des registres démontre qu’un avis de cotisation prévu à la partie V.1 a été posté ou autrement envoyé à une personne un jour donné, en application de la présente loi, et que, après avoir fait un examen attentif des registres et y avoir pratiqué des recherches, il lui a été impossible de constater qu’un avis d’opposition ou d’appel concernant la cotisation a été reçu dans le délai imparti à cette fin.
+> 2001, ch. 25, art. 80; 2005, ch. 38, art. 82; 2009, ch. 10, art. 15(F).
 
 
 
@@ -5622,7 +5647,7 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 
 - **(1)** Le gouverneur en conseil peut, par règlement :
 	- **a)** [Abrogé, 1998, ch. 19, art. 264]
-	- **b)** imposer aux propriétaires ou responsables d’un moyen de transport l’obligation de donner préavis du moment et du lieu de son arrivée au Canada et de fournir tous autres renseignements relatifs à ses passagers et ses marchandises ou à ses mouvements à l’intérieur ou à l’extérieur du Canada, déterminer les circonstances de l’obligation et fixer la nature des renseignements, ainsi que préciser le délai et les modalités du préavis;
+	- **b)** [Abrogé, 2009, ch. 10, art. 16]
 	- **c)** exiger le paiement des frais engagés par le ministre pour l’inspection de documents conservés dans un lieu situé à l’étranger et régir le mode de détermination de ces frais et les modalités et le délai de paiement de ceux-ci.
 	- **d)** autoriser la collecte de renseignements ou d’éléments de preuve permettant de déterminer si des droits sont exigibles ou susceptibles de le devenir sur des marchandises importées et d’établir le montant de ces droits;
 	- **e)** fixer les conditions à remplir, notamment en matière de cautions ou autres garanties, par les non-résidents pour pouvoir importer des marchandises, définir ***non-résident*** pour l’application du présent alinéa et exempter toutes personnes ou marchandises, ou leurs catégories, de ces conditions;
@@ -5651,7 +5676,16 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 - **(2)** Le gouverneur en conseil peut, par règlement et sur recommandation du ministre des Finances, fixer un taux d’intérêt ou établir des règles de fixation d’un taux d’intérêt pour l’application d’une disposition de la présente loi.
 
 - **(3) et (4)** [Abrogés, 2001, ch. 25, art. 85]
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 164; 1988, ch. 65, art. 81; 1992, ch. 28, art. 30, ch. 31, art. 22; 1993, ch. 44, art. 108; 1994, ch. 47, art. 72; 1995, ch. 41, art. 36; 1996, ch. 33, art. 40; 1997, ch. 14, art. 47; 1998, ch. 19, art. 264; 2001, ch. 25, art. 85, ch. 28, art. 30; 2007, ch. 18, art. 141.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 164; 1988, ch. 65, art. 81; 1992, ch. 28, art. 30, ch. 31, art. 22; 1993, ch. 44, art. 108; 1994, ch. 47, art. 72; 1995, ch. 41, art. 36; 1996, ch. 33, art. 40; 1997, ch. 14, art. 47; 1998, ch. 19, art. 264; 2001, ch. 25, art. 85, ch. 28, art. 30; 2007, ch. 18, art. 141; 2009, ch. 10, art. 16.
+
+
+
+
+
+**Incorporation par renvoi**
+
+**164.1** Peut être incorporé par renvoi dans un règlement tout document — quelle que soit sa provenance —, soit dans sa version à une date donnée, soit avec ses modifications successives.
+> 2009, ch. 10, art. 17.
 
 
 
