@@ -231,7 +231,7 @@
 **Delegation by Minister of National Revenue**
 
 - **(6)** The Minister of National Revenue may authorize a person employed by the Canada Revenue Agency or the Agency, or a class of those persons, to exercise powers or perform duties of that Minister, including any judicial or quasi-judicial powers or duties of that Minister, under this Act.
-> R.S., 1985, c. 1 (2nd Supp.), s. 2, c. 41 (3rd Supp.), s. 118; 1988, c. 65, s. 66; 1990, c. 45, s. 19; 1992, c. 28, s. 1; 1993, c. 25, s. 68, c. 27, s. 213, c. 44, s. 81; 1994, c. 13, s. 7; 1995, c. 15, s. 24, c. 41, s. 1; 1996, c. 31, s. 73, c. 33, s. 28; 1997, c. 14, s. 35, c. 36, s. 147; 1998, c. 19, s. 262; 1999, c. 17, s. 123; 2001, c. 25, s. 1, c. 28, s. 26; 2002, c. 22, s. 328; 2005, c. 38, ss. 60, 145; 2007, c. 18, s. 135.
+> R.S., 1985, c. 1 (2nd Supp.), s. 2, c. 41 (3rd Supp.), s. 118; 1988, c. 65, s. 66; 1990, c. 45, s. 19; 1992, c. 28, s. 1; 1993, c. 25, s. 68, c. 27, s. 213, c. 44, s. 81; 1994, c. 13, s. 7; 1995, c. 15, s. 24, c. 41, s. 1; 1996, c. 31, s. 73, c. 33, s. 28; 1997, c. 14, s. 35, c. 36, s. 147; 1998, c. 19, s. 262; 1999, c. 17, s. 123; 2001, c. 25, s. 1, c. 28, s. 26; 2002, c. 22, s. 328; 2005, c. 38, ss. 60, 145; 2007, c. 18, s. 135; 2009, c. 10, s. 1(F).
 
 
 
@@ -647,30 +647,41 @@ and no person shall interfere with any of the rights set out in this subsection.
 
 **Entry prohibited**
 
-**11.3** No owner or operator of a facility where a customs controlled area is located shall grant or allow to be granted access to the customs controlled area to any person unless the person
-- **(a)** has been authorized by the Minister in accordance with regulations made under section 11.5; or
-- **(b)** is a prescribed person or a member of a prescribed class of persons.
-> 2001, c. 25, s. 11.
+**11.3** 
+
+- **(1)** No owner or operator of a facility where a customs controlled area is located shall grant or allow to be granted access to the customs controlled area to any person unless the person
+	- **(a)** has been authorized by the Minister; or
+	- **(b)** is a prescribed person or a member of a prescribed class of persons.
+
+**Amendment, etc., of authorization**
+
+- **(2)** The Minister may amend, suspend, renew, cancel or reinstate an authorization.
+> 2001, c. 25, s. 11; 2009, c. 10, s. 2.
 
 
 
 
 
-**Presentation and reporting**
+**Presentation and reporting — when leaving customs controlled area**
 
 **11.4** 
 
-- **(1)** Subject to subsection (2), every person leaving a customs controlled area, other than for the purpose of boarding a flight with a destination outside Canada, shall
+- **(1)** Subject to subsection (2), every person who is leaving a customs controlled area shall, if requested to do so by an officer,
 	- **(a)** present himself or herself in the prescribed manner to an officer and identify himself or herself;
-	- **(b)** report in the prescribed manner and make available to the officer any goods that he or she has acquired through any means while in the customs controlled area; and
+	- **(b)** report in the prescribed manner any goods that he or she has acquired through any means while in the customs controlled area;
+	- **(b.1)** present those goods and remove any covering from them, unload any conveyance or open any part of it, or open or unpack any package or container that an officer wishes to examine; and
 	- **(c)** answer truthfully any questions asked by an officer in the performance of his or her duties under this or any other Act of Parliament.
 
-**Non-application of subsection (1)**
+**Presentation and reporting — within customs controlled area**
 
-- **(2)** Subsection (1) does not apply to
-	- **(a)** persons who are required to present themselves under section 11 or report goods under section 12; or
-	- **(b)** prescribed persons or members of prescribed classes of persons in prescribed circumstances.
-> 2001, c. 25, s. 11.
+- **(1.1)** Every person who is in a customs controlled area shall, if requested to do so by an officer,
+	- **(a)** present himself or herself in the prescribed manner to an officer and identify himself or herself; and
+	- **(b)** answer truthfully any questions asked by an officer in the performance of his or her duties under this or any other Act of Parliament.
+
+**Non-application of subsections (1) and (1.1)**
+
+- **(2)** Subsections (1) and (1.1) do not apply to persons who are required to present themselves under section 11 or report goods under section 12.
+> 2001, c. 25, s. 11; 2009, c. 10, s. 3.
 
 
 
@@ -679,12 +690,10 @@ and no person shall interfere with any of the rights set out in this subsection.
 **Regulations**
 
 **11.5** The Governor in Council may make regulations
-- **(a)** respecting the authorization of persons under paragraph 11.3(a);
-- **(b)** prescribing persons or classes of persons who may be granted access under paragraph 11.3(b);
-- **(c)** respecting the circumstances in which an authorization under paragraph 11.3(a) may be amended, suspended, renewed, cancelled or reinstated;
-- **(d)** respecting the manner in which a person must present himself or herself under paragraph 11.4(1)(a) and report goods under paragraph 11.4(1)(b); and
-- **(e)** prescribing for the purposes of paragraph 11.4(2)(b) persons or classes of persons who are exempt from the requirements imposed by subsection 11.4(1) and the circumstances in which they are exempted.
-> 2001, c. 25, s. 11.
+- **(a)** prescribing the persons or classes of persons who may be granted access under paragraph 11.3(1)(b); and
+- **(b)** respecting the manner in which a person must present himself or herself under paragraphs 11.4(1)(a) and (1.1)(a) and report goods under paragraph 11.4(1)(b).
+- **(c) to (e)** [Repealed, 2009, c. 10, s. 4]
+> 2001, c. 25, s. 11; 2009, c. 10, s. 4.
 
 
 
@@ -736,6 +745,20 @@ and no person shall interfere with any of the rights set out in this subsection.
 	- **(c)** the importation of which is not prohibited under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) or prohibited, controlled or regulated under any Act of Parliament other than this Act or the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md)
 may not be seized as forfeit under this Act by reason only that they were not reported under this section.
 > R.S., 1985, c. 1 (2nd Supp.), s. 12, c. 41 (3rd Supp.), s. 119; 1992, c. 28, s. 3; 1996, c. 31, s. 75; 1997, c. 36, s. 149; 2001, c. 25, s. 12.
+
+
+
+
+
+**Advance information**
+
+**12.1** The Governor in Council may make regulations
+- **(a)** requiring persons to give, before a conveyance’s arrival in Canada, information about the conveyance and the persons and the goods on board the conveyance;
+- **(b)** respecting the information that must be given;
+- **(c)** prescribing the persons or classes of persons who must give the information;
+- **(d)** prescribing the circumstances in which the information must be given; and
+- **(e)** respecting the time within which and the manner in which the information must be given.
+> 2009, c. 10, s. 6.
 
 
 
@@ -1901,7 +1924,7 @@ but does not include imported goods where engineering, development work, art wor
 		- **(ii)** limit the geographical area in which the goods may be resold, or
 		- **(iii)** do not substantially affect the value of the goods;
 	- **(b)** the sale of the goods by the vendor to the purchaser or the price paid or payable for the goods is not subject to some condition or consideration, with respect to the goods, in respect of which a value cannot be determined;
-	- **(c)** where any part of the proceeds of any subsequent resale, disposal or use of the goods by the purchaser thereof is to accrue, directly or indirectly, to the vendor, the price paid or payable for the goods includes the value of that part of the proceeds or such price is adjusted in accordance with subparagraph (5)(a)(v); and
+	- **(c)** when any part of the proceeds of any subsequent resale, disposal or use of the goods by the purchaser is to accrue, directly or indirectly, to the vendor, the price paid or payable for the goods includes the value of that part of the proceeds or the price is adjusted in accordance with paragraph (5)(a); and
 	- **(d)** the purchaser and the vendor of the goods are not related to each other at the time the goods are sold for export or, where the purchaser and the vendor are related to each other at that time,
 		- **(i)** their relationship did not influence the price paid or payable for the goods, or
 		- **(ii)** the importer of the goods demonstrates that the transaction value of the goods meets the requirement set out in subsection (3).
@@ -1949,7 +1972,7 @@ but does not include imported goods where engineering, development work, art wor
 **Where information inaccurate**
 
 - **(7)** Where an officer who is appraising the value for duty of goods believes on reasonable grounds that the information submitted in support of the transaction value of the goods as determined under subsection (4) is inaccurate, the officer shall determine, in accordance with the prescribed procedure, that the value for duty of the goods shall not be appraised under this section.
-> R.S., 1985, c. 1 (2nd Supp.), s. 48; 1994, c. 47, s. 71; 1995, c. 41, s. 18; 2002, c. 22, s. 336.
+> R.S., 1985, c. 1 (2nd Supp.), s. 48; 1994, c. 47, s. 71; 1995, c. 41, s. 18; 2002, c. 22, s. 336; 2009, c. 10, s. 7.
 
 
 
@@ -1964,21 +1987,21 @@ but does not include imported goods where engineering, development work, art wor
 **49** 
 
 - **(1)** Subject to subsections (2) to (5), where the value for duty of goods is not appraised under section 48, the value for duty of the goods is, if it can be determined, the transaction value of identical goods, in a sale of those goods for export to Canada, if that transaction value is the value for duty of the identical goods and the identical goods were exported at the same or substantially the same time as the goods being appraised and were sold under the following conditions:
-	- **(a)** to a purchaser at the same or substantially the same trade level as the purchaser of the goods being appraised; and
+	- **(a)** at the same or substantially the same trade level as the goods being appraised; and
 	- **(b)** in the same or substantially the same quantities as the goods being appraised.
 
 **Where identical goods sold under different conditions**
 
 - **(2)** Where the value for duty of goods being appraised cannot be determined under subsection (1) because identical goods were not sold under the conditions described in paragraphs (1)(a) and (b), there shall be substituted therefor, in the application of subsection (1), identical goods sold under any of the following conditions:
-	- **(a)** to a purchaser at the same or substantially the same trade level as the purchaser of the goods being appraised but in quantities different from the quantities in which those goods were sold;
-	- **(b)** to a purchaser at a trade level different from that of the purchaser of the goods being appraised but in the same or substantially the same quantities as the quantities in which those goods were sold; or
-	- **(c)** to a purchaser at a trade level different from that of the purchaser of the goods being appraised and in quantities different from the quantities in which those goods were sold.
+	- **(a)** at the same or substantially the same trade level as the goods being appraised but in different quantities;
+	- **(b)** at a trade level different from that of the goods being appraised but in the same or substantially the same quantities; or
+	- **(c)** at a trade level different from that of the goods being appraised and in different quantities.
 
 **Adjustment of transaction value of identical goods**
 
 - **(3)** For the purposes of determining the value for duty of goods being appraised under subsection (1), the transaction value of identical goods shall be adjusted by adding thereto or deducting therefrom, as the case may be, amounts to account for
 	- **(a)** commercially significant differences between the costs, charges and expenses referred to in subparagraph 48(5)(a)(vi) in respect of the identical goods and those costs, charges and expenses in respect of the goods being appraised that are attributable to differences in distances and modes of transport; and
-	- **(b)** where the transaction value is in respect of identical goods sold under the conditions described in any of paragraphs (2)(a) to (c), differences in the trade levels of the purchasers of the identical goods and the goods being appraised or the quantities in which the identical goods and the goods being appraised were sold or both, as the case may be.
+	- **(b)** if the transaction value is in respect of identical goods sold under the conditions described in any of paragraphs (2)(a) to (c), differences in the trade levels of the identical goods and the goods being appraised or the quantities in which the identical goods were sold and the goods being appraised were imported or both, as the case may be.
 
 **Effect of absence of sufficient information**
 
@@ -1987,6 +2010,8 @@ but does not include imported goods where engineering, development work, art wor
 **Selection of lowest transaction value of identical goods**
 
 - **(5)** Where, in relation to goods being appraised, there are two or more transaction values of identical goods that meet all the requirements set out in subsections (1) and (3) or, where there is no such transaction value but there are two or more transaction values of identical goods sold under the conditions described in any of paragraphs (2)(a) to (c) that meet all the requirements set out in this section that are applicable by virtue of subsection (2), the value for duty of the goods being appraised shall be determined on the basis of the lowest such transaction value.
+> R.S., 1985, c. 1 (2nd Supp.), s. 49; 2009, c. 10, s. 8.
+
 
 
 
@@ -2000,12 +2025,14 @@ but does not include imported goods where engineering, development work, art wor
 **50** 
 
 - **(1)** Subject to subsections (2) and 49(2) to (5), where the value for duty of goods is not appraised under section 48 or 49, the value for duty of the goods is, if it can be determined, the transaction value of similar goods, in a sale of those goods for export to Canada, if that transaction value is the value for duty of the similar goods and the similar goods were exported at the same or substantially the same time as the goods being appraised and were sold under the following conditions:
-	- **(a)** to a purchaser at the same or substantially the same trade level as the purchaser of the goods being appraised; and
+	- **(a)** at the same or substantially the same trade level as the goods being appraised; and
 	- **(b)** in the same or substantially the same quantities as the goods being appraised.
 
 **Application of section 49**
 
 - **(2)** Subsections 49(2) to (5) apply to this section in respect of similar goods and wherever in those subsections the expression “identical goods” is referred to, there shall be substituted therefor the expression “similar goods”.
+> R.S., 1985, c. 1 (2nd Supp.), s. 50; 2009, c. 10, s. 9.
+
 
 
 
@@ -4042,11 +4069,11 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 
 **99.2** 
 
-- **(1)** An officer may search any person leaving a customs controlled area, other than a prescribed person or a member of a prescribed class of persons who may be searched under subsection (2), if the officer suspects on reasonable grounds that the person has secreted on or about their person anything in respect of which this Act or the regulations have been or might be contravened, anything that would afford evidence with respect to a contravention of this Act or the regulations or any goods the importation or exportation of which is prohibited, controlled or regulated under this or any other Act of Parliament.
+- **(1)** An officer may search any person who is in or is leaving a customs controlled area, other than a prescribed person or a member of a prescribed class of persons who may be searched under subsection (2), if the officer suspects on reasonable grounds that the person has secreted on or about their person anything in respect of which this Act or the regulations have been or might be contravened, anything that would afford evidence with respect to a contravention of this Act or the regulations or any goods the importation or exportation of which is prohibited, controlled or regulated under this or any other Act of Parliament.
 
 **Search of prescribed persons**
 
-- **(2)** An officer may, in accordance with the regulations, search any prescribed person or member of a prescribed class of persons leaving a customs controlled area.
+- **(2)** An officer may, in accordance with the regulations, search any prescribed person or member of a prescribed class of persons who is in or is leaving a customs controlled area.
 
 **Person taken before senior officer**
 
@@ -4059,7 +4086,7 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 **Limitations on searches**
 
 - **(5)** No person may be searched by an officer who is not of the same sex and, if there is no officer of the same sex at the place at which the search is to be conducted, an officer may authorize any suitable person of the same sex to conduct the search.
-> 2001, c. 25, s. 60.
+> 2001, c. 25, s. 60; 2009, c. 10, s. 10.
 
 
 
@@ -4069,16 +4096,16 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 
 **99.3** 
 
-- **(1)** An officer may, in accordance with the regulations and without individualized suspicion, conduct a non-intrusive examination of goods in the custody or possession of a person leaving a customs controlled area.
+- **(1)** An officer may, in accordance with the regulations and without individualized suspicion, conduct a non-intrusive examination of goods in the custody or possession of a person who is in or is leaving a customs controlled area.
 
 **Other examination of goods**
 
-- **(2)** An officer may examine any goods in the custody or possession of a person leaving a customs controlled area and open or cause to be opened any baggage, package or container and take samples of the goods in reasonable amounts, if the officer suspects on reasonable grounds that this Act or any other Act of Parliament administered or enforced by the officer or any regulations made under it have been or might be contravened in respect of the goods.
+- **(2)** An officer may examine any goods in the custody or possession of a person who is in or is leaving a customs controlled area and open or cause to be opened any baggage, package or container and take samples of the goods in reasonable amounts, if the officer suspects on reasonable grounds that this Act or any other Act of Parliament administered or enforced by the officer or any regulations made under it have been or might be contravened in respect of the goods.
 
 **Examination of abandoned goods**
 
-- **(3)** An officer may, at any time, open or cause to be opened, inspect and detain any baggage, package or container found abandoned in a customs controlled area.
-> 2001, c. 25, s. 60.
+- **(3)** An officer may, at any time, open or cause to be opened, examine and detain any goods, baggage, package or container that is found abandoned or that is not in the possession of any person in a customs controlled area.
+> 2001, c. 25, s. 60; 2009, c. 10, s. 11.
 
 
 
@@ -4331,12 +4358,12 @@ if the officer suspects on reasonable grounds that the person has secreted on or
 
 **107.1** 
 
-- **(1)** The Minister may, under prescribed circumstances and conditions, require any prescribed person or prescribed class of persons to provide, or provide access to, prescribed information about any person on board a conveyance in advance of the arrival of the conveyance in Canada or within a reasonable time after that arrival.
+- **(1)** The Minister may, under prescribed circumstances and conditions, require any prescribed person or prescribed class of persons to provide, or to provide access to, within the prescribed time and in the prescribed manner, prescribed information about any person on board a conveyance.
 
 **Disclosure**
 
 - **(2)** Any person who is required under subsection (1) to provide, or provide access to, prescribed information shall do so despite any restriction under the [Aeronautics Act](/en/Acts/Revised%20Statutes%20of%20Canada/A/A-2.md) on the disclosure of such information.
-> 2001, c. 25, s. 61.
+> 2001, c. 25, s. 61; 2009, c. 10, s. 12.
 
 
 
@@ -4813,7 +4840,7 @@ and no act or proceeding subsequent to the contravention or use is necessary to 
 **Interest**
 
 - **(2)** If an amount is returned to a person under paragraph (1)(a), the person shall be given interest on that amount at the prescribed rate for the period beginning on the day after the amount was originally paid by that person and ending on the day it was returned.
-> 2001, c. 25, s. 68; 2005, c. 38, s. 81.
+> 2001, c. 25, s. 68; 2005, c. 38, s. 81; 2009, c. 10, s. 13(F).
 
 
 
@@ -5127,7 +5154,7 @@ If an additional amount is demanded, the total of the amount assessed and the ad
 
 - **(1)** A person who makes an application under section 138 may, within ninety days after being notified of the decision, apply for an order under this section by giving notice in writing to the court.
 
-**Meaning of “court”**
+**Meaning of court**
 
 - **(2)** In this section, ***court*** means
 	- **(a)** in the Province of Ontario, the Superior Court of Justice;
@@ -5155,7 +5182,7 @@ If an additional amount is demanded, the total of the amount assessed and the ad
 	- **(a)** acquired the interest in good faith prior to the contravention or use;
 	- **(b)** is innocent of any complicity or collusion in the contravention or use; and
 	- **(c)** exercised all reasonable care in respect of any person permitted to obtain possession of the goods or conveyance in order to satisfy the applicant that it was not likely to be used in a contravention or, if the applicant is a mortgagee, hypothecary creditor or lien-holder, that the applicant exercised that care in relation to the mortgagor, hypothecary debtor or lien-giver.
-> 2001, c. 25, s. 75; 2002, c. 7, s. 272.
+> 2001, c. 25, s. 75; 2002, c. 7, s. 272; 2009, c. 10, s. 14(F).
 
 
 
@@ -5379,7 +5406,7 @@ shall be received, in the absence of evidence to the contrary, as proof of the p
 **Proof of no appeal**
 
 **149.1** An affidavit of an officer, sworn before a commissioner or other person authorized to take affidavits, setting out that the officer has charge of the appropriate records and has knowledge of the practice of the Agency or the Canada Revenue Agency, as the case may be, and that an examination of the records shows that a notice of assessment under Part V.1 was mailed or otherwise sent to a person under this Act and that, after careful examination and search of the records, the officer has been unable to find that a notice of objection or of appeal from the assessment was received within the time allowed for the notice, is evidence of the statements contained in the affidavit.
-> 2001, c. 25, s. 80; 2005, c. 38, s. 82.
+> 2001, c. 25, s. 80; 2005, c. 38, s. 82; 2009, c. 10, s. 15(F).
 
 
 
@@ -5642,7 +5669,7 @@ lies on the person, other than Her Majesty, who is a party to the proceeding or 
 
 - **(1)** The Governor in Council may make regulations
 	- **(a)** [Repealed, 1998, c. 19, s. 264]
-	- **(b)** requiring, in any circumstances that may be prescribed, the owner or person in charge of a conveyance to give advance notice of the time and place of its arrival in Canada and any other information relating to its passengers and goods or its movement inside or outside Canada that may be prescribed, and prescribing the time within which and the manner in which the notice is to be given;
+	- **(b)** [Repealed, 2009, c. 10, s. 16]
 	- **(c)** requiring the payment of costs incurred for the inspection of records held in a place outside of Canada and respecting the manner of determining those costs and the time and manner in which the costs must be paid;
 	- **(d)** authorizing the collection of information or evidence in order to facilitate the determination of whether any duties are owing or may become owing on imported goods and the amount of such duties;
 	- **(e)** prescribing the conditions under which non-residents may import goods, including the bonds or other security that may be required, defining the term ***non-residents*** for the purpose of this paragraph and exempting any person or class of persons or any goods or class of goods from the application of such conditions;
@@ -5671,7 +5698,16 @@ lies on the person, other than Her Majesty, who is a party to the proceeding or 
 - **(2)** The Governor in Council may, on the recommendation of the Minister of Finance, make regulations prescribing a rate of interest or rules for determining a rate of interest for the purposes of any provision of this Act.
 
 - **(3) and (4)** [Repealed, 2001, c. 25, s. 85]
-> R.S., 1985, c. 1 (2nd Supp.), s. 164; 1988, c. 65, s. 81; 1992, c. 28, s. 30, c. 31, s. 22; 1993, c. 44, s. 108; 1994, c. 47, s. 72; 1995, c. 41, s. 36; 1996, c. 33, s. 40; 1997, c. 14, s. 47; 1998, c. 19, s. 264; 2001, c. 25, s. 85, c. 28, s. 30; 2007, c. 18, s. 141.
+> R.S., 1985, c. 1 (2nd Supp.), s. 164; 1988, c. 65, s. 81; 1992, c. 28, s. 30, c. 31, s. 22; 1993, c. 44, s. 108; 1994, c. 47, s. 72; 1995, c. 41, s. 36; 1996, c. 33, s. 40; 1997, c. 14, s. 47; 1998, c. 19, s. 264; 2001, c. 25, s. 85, c. 28, s. 30; 2007, c. 18, s. 141; 2009, c. 10, s. 16.
+
+
+
+
+
+**Incorporation by reference**
+
+**164.1** A regulation made under this Act may incorporate by reference any material regardless of its source and either as it exists on a particular date or as amended from time to time.
+> 2009, c. 10, s. 17.
 
 
 
