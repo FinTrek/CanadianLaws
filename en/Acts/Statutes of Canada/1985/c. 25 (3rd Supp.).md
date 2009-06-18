@@ -1,6 +1,6 @@
 > [Go to French version](/fr/Lois/Lois%20du%20Canada/1985/ch.%2025%20(3rd%20Supp.).md)
 
-# Farm Improvement and Marketing Cooperatives Loans Act
+# Canadian Agricultural Loans Act
 
 **S.C. 1985, c. 25 (3rd Supp.)**
 
@@ -18,7 +18,9 @@
 
 **Short title**
 
-**1** This Act may be cited as the Farm Improvement and Marketing Cooperatives Loans Act.
+**1** This Act may be cited as the Canadian Agricultural Loans Act.
+> R.S., 1985, c. 25 (3rd Supp.), s. 1; 2009, c. 15, s. 2.
+
 
 
 
@@ -31,24 +33,25 @@
 
 **2** In this Act,
 
-***farm products marketing cooperative*** means a cooperative association incorporated under the laws of Canada or a province for the purpose of processing, distributing or marketing on a cooperative basis the products of farming, each member or shareholder of which is a farmer;
+***farmer*** means any individual, partnership, corporation or cooperative association that is or intends to be engaged in farming in Canada;  (*agriculteur*)
 
-***farmer*** means any individual, partnership, corporation or cooperative association that is engaged in farming in Canada;
+***farming*** means the production of field-grown crops, cultivated and uncultivated, and horticultural crops, the raising of livestock, poultry and fur-bearing animals, the production of eggs, milk, honey, maple syrup, tobacco, fibre, wood from woodlots and fodder crops and the production or raising of any other prescribed thing or animal; (*agriculture*)
 
-***farming*** means the production of field-grown crops, cultivated and uncultivated, and horticultural crops, the raising of livestock, poultry and fur-bearing animals, the production of eggs, milk, honey, maple syrup, tobacco, fibre, wood from woodlots and fodder crops and the production or raising of any other prescribed thing or animal;
+***farm products marketing cooperative*** means a cooperative association, incorporated under the laws of Canada or a province for the purpose of processing, distributing or marketing on a cooperative basis the products of farming, with a majority of 50 per cent plus one of members or shareholders that are farmers; (*coopérative de commercialisation des produits agricoles*)
 
-***lender*** means
+***lender*** means
 - **(a)** a bank or an authorized foreign bank within the meaning of section 2 of the [Bank Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2046.md),
 - **(b)** a credit union, caisse populaire or other cooperative credit society that is designated by the Minister on the application of that society as a lender for the purposes of this Act,
-- **(c)** a company within the meaning of the [Trust and Loan Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2045.md), or a company, society or provincial company within the meaning of the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md), that is designated by the Minister on the application of that company, society or provincial company as a lender for the purposes of this Act, or
-- **(d)** a Province of Alberta Treasury Branch established pursuant to the Treasury Branches Act, chapter T-7 of the Revised Statutes of Alberta 1980;
+- **(c)** a company within the meaning of the [Trust and Loan Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2045.md), or a company, society or provincial company within the meaning of the [Insurance Companies Act](/en/Acts/Statutes%20of%20Canada/1991/c.%2047.md), that is designated by the Minister on the application of that company, society or provincial company as a lender for the purposes of this Act,
+- **(d)** a Province of Alberta Treasury Branch established pursuant to the Treasury Branches Act, chapter T-7 of the Revised Statutes of Alberta 1980, or
+- **(e)** any other organization that is designated by the Minister, with the approval of the Minister of Finance, on the application of that organization as a lender for the purposes of this Act; (*prêteur*)
 
-***loan*** means a loan in respect of which this Act applies by virtue of section 3;
+***loan*** means a loan in respect of which this Act applies by virtue of section 3; (*prêt*)
 
-***Minister*** means the Minister of Agriculture and Agri-Food;
+***Minister*** means the Minister of Agriculture and Agri-Food; (*ministre*)
 
-Version anglaise seulement***prescribed*** means prescribed by regulation.
-> R.S., 1985, c. 25 (3rd Supp.), s. 2; 1991, c. 47, s. 727; 1994, c. 38, s. 25; 1999, c. 28, s. 162.
+***prescribed*** means prescribed by regulation. (***Version anglaise seulement***)
+> R.S., 1985, c. 25 (3rd Supp.), s. 2; 1991, c. 47, s. 727; 1994, c. 38, s. 25; 1999, c. 28, s. 162; 2009, c. 15, s. 3.
 
 
 
@@ -67,7 +70,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 
 
-## Guaranteed Farm Improvement Loans
+## Guaranteed Farm Loans
 
 
 
@@ -75,12 +78,12 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 **4** 
 
-- **(1)** Subject to this Act and, in particular, to the conditions set out in subsection (3), the Minister is liable to pay to a lender ninety-five per cent of any loss sustained by it as a result of a loan made by it to a farmer for any of the following purposes in relation to farming in Canada:
+- **(1)** Subject to this Act and, in particular, to the conditions set out in subsection (3), the Minister is liable to pay to a lender 95 per cent — or if another percentage of not more than 95 per cent has been fixed by the regulations for the purpose of this subsection, that other percentage — of any loss sustained by it as a result of a loan made by it to a farmer for any of the following purposes in relation to farming in Canada:
 	- **(a)** the purchase of, major repair to or major overhaul of tools, implements, apparatus and machines of any kind not usually affixed to real property;
 	- **(b)** the purchase or installation of, major repair to or major overhaul of
 		- **(i)** implements, apparatus and machinery of any kind usually affixed to real property, or
 		- **(ii)** machinery and apparatus for the generation or distribution of electricity, whether or not affixed to real property;
-	- **(c)** the purchase of livestock, including
+	- **(c)** subject to the regulations, if any, the purchase of livestock, including
 		- **(i)** horses and other equines,
 		- **(ii)** cattle, sheep, goats and other ruminants,
 		- **(iii)** swine, poultry, bees and fur-bearing animals, and
@@ -88,20 +91,25 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 	- **(d)** the alteration or improvement of machinery and apparatus for the generation or distribution of electricity, whether or not affixed to real property;
 	- **(e)** the erection or construction of fencing or works for drainage;
 	- **(f)** the construction, repair or alteration of, or making of additions to, any building or structure on a farm;
-	- **(g)** the purchase of additional land;
+	- **(g)** the purchase of land;
+	- **(g.1)** the purchase of shares in a corporation, of an interest in a partnership, or of a share or membership in a cooperative, if 90 per cent or more of the fair market value of the property of the corporation, the partnership, or the cooperative was attributable to property referred to in this subsection that was used principally in the course of carrying on the business of farming in Canada;
+	- **(g.2)** the purchase of shares in a corporation, of an interest in a partnership or of a share or membership in a cooperative, if 90 per cent or more of the fair market value of the property of the corporation, the partnership, or the cooperative was attributable to shares, an interest in a partnership or memberships in a corporation, partnership or cooperative referred to in paragraph (g.1) or to property referred to in this subsection that was used principally in the course of carrying on the business of farming in Canada;
+	- **(g.3)** the purchase of shares in a corporation, of an interest in a partnership or of a share or membership in a cooperative, if 90 per cent or more of the fair market value of the property of the corporation, the partnership, or the cooperative was attributable to shares, an interest in a partnership or memberships in a corporation, partnership or cooperative referred to in paragraph (g.2) or to property referred to in this subsection that was used principally in the course of carrying on the business of farming in Canada;
 	- **(h)** any other purpose that is prescribed; or
 	- **(i)** the consolidation or refinancing of the debts of the farmer incurred for such purpose described in any of paragraphs (a) to (h) as is prescribed.
 
 **Exclusion of home improvements**
 
-- **(2)** Subsection (1) does not apply in respect of a loan made for the purpose of financing improvements to a private dwelling.
+- **(2)** Subsection (1) does not apply in respect of a loan made for the purpose of financing the construction of or improvements to a private dwelling.
 
 **Conditions**
 
 - **(3)** The conditions referred to in subsection (1) are as follows:
 	- **(a)** the loan was made pursuant to an application signed by the farmer in the form established or approved by the Minister, stating the purpose for which the proceeds of the loan were to be expended;
-	- **(b)** the application stated that the farmer held an interest in the farming operation of the nature prescribed for loans made for that purpose;
-	- **(c)** the principal amount of the loan did not at the time of the making of the loan, together with the amount owing in respect of other loans under this Act and guaranteed farm improvement loans under the [Farm Improvement Loans Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-3.md) previously made to the farmer and disclosed in the farmer’s application, or of which the lender has knowledge, exceed two hundred and fifty thousand dollars;
+	- **(b)** if the loan is with respect to property and the regulations prescribe an interest or right that the farmer must hold or intends to hold in that property, the application stated the nature of that interest or right;
+	- **(c)** the principal amount of the loan did not at the time of the making of the loan, together with the amount owing in respect of other loans under this Act previously made to the farmer and disclosed in the farmer’s application or of which the lender has knowledge, exceed
+		- **(i)** for all the purposes set out in subsection (1), an aggregate amount of $500,000 or, if another amount has been fixed by the regulations, that other amount, and
+		- **(ii)** for all the purposes set out in paragraphs (1)(a) to (e) and (g.1) to (i), an amount of $350,000 or, if another amount has been fixed by the regulations, that other amount;
 	- **(d)** the loan was repayable in full by the terms thereof
 		- **(i)** in the case of a loan made for the purpose described in paragraph (1)(g), in not more than fifteen years, and
 		- **(ii)** in the case of a loan made for any other purpose, in not more than ten years;
@@ -112,6 +120,8 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 	- **(f)** the repayment of the loan was secured in the prescribed manner;
 	- **(g)** the loan was made on such terms and in accordance with such conditions, in addition to those specified in paragraphs (a) to (f), as were prescribed for loans made for that purpose; and
 	- **(h)** the lender exercised the same care and prudence in granting and administering the loan as it exercises in granting and administering, in the ordinary course of its business, loans in respect of which this Act does not apply.
+> R.S., 1985, c. 25 (3rd Supp.), s. 4; 2009, c. 15, s. 5.
+
 
 
 
@@ -120,11 +130,13 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 **5** 
 
-- **(1)** For the purposes of paragraph 4(3)(c), the principal amount of a loan shall, where the loan was made jointly to two or more farmers each of whom held a prescribed interest in a separate farm, and the principal amount of the loan did not exceed two hundred and fifty thousand dollars, be deemed to be, in respect of each of those farmers, an amount equal to the amount obtained by dividing the principal amount of the loan by the number of farmers.
+- **(1)** For the purposes of paragraph 4(3)(c), the principal amount of a loan shall, where the loan was made jointly to two or more farmers each of whom held a prescribed interest in a separate farm, be deemed to be, in respect of each of those farmers, an amount equal to the amount obtained by dividing the principal amount of the loan by the number of farmers.
 
 **Amount owing where joint borrowers**
 
 - **(2)** For the purposes of paragraph 4(3)(c), the amount owing in respect of any loan previously made to a farmer shall, where the loan was made jointly to that farmer and one or more other farmers each of whom held a prescribed interest in a separate farm, be deemed to be an amount equal to the amount obtained by dividing the amount owing in respect of that loan by the number of farmers.
+> R.S., 1985, c. 25 (3rd Supp.), s. 5; 2009, c. 15, s. 6.
+
 
 
 
@@ -137,7 +149,7 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 **6** 
 
-- **(1)** Subject to this Act and, in particular, to the conditions set out in subsection (2), the Minister is liable to pay to a lender ninety-five per cent of any loss sustained by it as a result of a loan made by it to a farm products marketing cooperative for any of the following purposes in relation to the processing, distribution or marketing in Canada of the products of farming:
+- **(1)** Subject to this Act and, in particular, to the conditions set out in subsection (2), the Minister is liable to pay to a lender 95 per cent — or if another percentage of not more than 95 per cent has been fixed by the regulations for the purpose of this subsection, that other percentage — of any loss sustained by it as a result of a loan made by it to a farm products marketing cooperative for any of the following purposes in relation to the processing, distribution or marketing in Canada of the products of farming:
 	- **(a)** the purchase of land;
 	- **(b)** the purchase or construction of any building or structure;
 	- **(c)** the repair or alteration of, or making of additions to, any building or structure;
@@ -148,8 +160,10 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 - **(2)** The conditions referred to in subsection (1) are as follows:
 	- **(a)** the loan was made pursuant to an application signed by the farm products marketing cooperative in the form established or approved by the Minister stating the purpose for which the proceeds of the loan were to be expended;
-	- **(b)** the application stated that all of the members or shareholders, as the case may be, of the farm products marketing cooperative are farmers and that the cooperative held an interest in the marketing cooperative operation of the nature prescribed for loans made for that purpose;
-	- **(c)** the principal amount of the loan did not at the time of the making of the loan, together with the amount owing in respect of other loans previously made to the farm products marketing cooperative and disclosed in the application of the cooperative or of which the lender has knowledge, exceed two hundred and fifty thousand dollars or such greater amount as is approved by the Minister pursuant to subsection (3);
+	- **(b)** the application stated that 50 per cent plus one of the members or shareholders, as the case may be, of the farm products marketing cooperative are farmers and, if the loan is with respect to property and the regulations prescribe an interest or right that the cooperative must hold in that property, the application stated the nature of that interest or right;
+	- **(c)** the principal amount of the loan did not at the time of the making of the loan, together with the amount owing in respect of other loans previously made to the farm products marketing cooperative and disclosed in the cooperative’s application or of which the lender has knowledge, exceed
+		- **(i)** for all the purposes set out in subsection (1), an aggregate amount of $500,000 or, if another amount has been fixed by the regulations or any greater amount approved by the Minister pursuant to subsection (3), that other amount, and
+		- **(ii)** for all the purposes set out in paragraphs (1)(d) and (e), an amount of $350,000 or, if another amount has been fixed by the regulations or any greater amount approved by the Minister pursuant to subsection (3), that other amount;
 	- **(d)** the loan was repayable in full by the terms thereof
 		- **(i)** in the case of a loan made for the purpose described in paragraph (1)(a) or (b), in not more than twenty years, and
 		- **(ii)** in the case of a loan made for any other purpose, in not more than ten years;
@@ -161,9 +175,11 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 	- **(g)** the loan was made on such terms and in accordance with such conditions, in addition to those specified in paragraphs (a) to (f), as were prescribed for loans made for that purpose; and
 	- **(h)** the lender exercised the same care and prudence in granting and administering the loan as it exercises in granting and administering, in the ordinary course of its business, loans in respect of which this Act does not apply.
 
-**Minister may increase limit**
+**Minister may increase limits**
 
-- **(3)** The Minister may, on the application of a lender made prior to the granting of a loan, approve an increase in the monetary limit referred to in paragraph (2)(c) to an amount not exceeding three million dollars.
+- **(3)** The Minister may, on the application of a lender made before the granting of a loan, approve an increase in each of the monetary limits referred to in paragraph (2)(c) to an aggregate amount not exceeding $3 million or, if another amount has been fixed by the regulations for the purpose of this subsection, that other amount.
+> R.S., 1985, c. 25 (3rd Supp.), s. 6; 2009, c. 15, s. 7.
+
 
 
 
@@ -174,8 +190,8 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 **Aggregate limit**
 
-**7** The Minister is not liable under this Act to make any payment to a lender in respect of loss sustained by it as a result of a loan made by it during a fiscal year after the aggregate principal amount of the loans under this Act and of the guaranteed farm improvement loans under the [Farm Improvement Loans Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-3.md) made during that fiscal year and the four preceding fiscal years by all lenders exceeds three billion dollars.
-> R.S., 1985, c. 25 (3rd Supp.), s. 7; 1995, c. 13, s. 1.
+**7** The Minister is not liable under this Act to make any payment to a lender in respect of any loss sustained by it as a result of a loan made by it during a fiscal year after the aggregate principal amount of the loans under this Act made during that fiscal year and the four preceding fiscal years by all lenders exceeds $3 billion, or if another amount has been fixed by the regulations for the purpose of this section, that other amount.
+> R.S., 1985, c. 25 (3rd Supp.), s. 7; 1995, c. 13, s. 1; 2009, c. 15, s. 8.
 
 
 
@@ -193,18 +209,15 @@ Version anglaise seulement***prescribed*** means prescribed by regulation.
 
 **Limit re appraised value**
 
-**9** The Minister is not liable under this Act to make any payment to a lender in respect of that portion of the loss sustained by it as a result of a loan that exceeds eighty per cent of the appraised value, determined as of the day the loan is made, of the property in respect of which the loan is made.
+**9** The Minister is not liable under this Act to make any payment to a lender in respect of that portion of the loss sustained by it as a result of a loan that exceeds
+- **(a)** in the case of a farmer who, on the date of a loan application referred to in paragraph 4(3)(b) or 6(2)(b), intends to be or has been engaged in farming in Canada for less than six years, 90 per cent — or if another percentage of not more than 90 per cent has been fixed by the regulations for the purpose of this paragraph, that other percentage — of the appraised value, determined as of the day the loan is made, of the property in respect of which the loan is made; and
+- **(b)** in the case of any other farmer, 80 per cent — or if another percentage of not more than 80 per cent has been fixed by the regulations for the purpose of this paragraph, that other percentage — of that value.
+> R.S., 1985, c. 25 (3rd Supp.), s. 9; 2009, c. 15, s. 9.
 
 
 
 
-**Limit re loans over $100,000**
-
-**10** The Minister is not liable under this Act to make any payment to a lender in respect of loss sustained by it as a result of a loan made to a farmer where, at the time of the making of the loan, the proportion that
-- **(a)** the aggregate of all of the lender’s outstanding loans to farmers, the principal amount of which exceeds one hundred thousand dollars
-is of
-- **(b)** the aggregate of the principal of all its outstanding loans to farmers
-exceeds the prescribed proportion.
+**10** [Repealed, 2009, c. 15, s. 9]
 
 
 
@@ -233,7 +246,9 @@ exceeds the prescribed proportion.
 
 **Legal fees**
 
-**13** The Minister is not liable to pay the portion of a loss sustained by a lender that is attributable to legal fees, costs or disbursements incurred by the lender unless those fees, costs or disbursements are assessed and allowed by the Deputy Minister of Justice.
+**13** The Minister is not liable to pay the portion of a loss sustained by a lender that is attributable to legal fees, costs or disbursements incurred by the lender unless those fees, costs or disbursements are assessed in accordance with the rates established by the Minister in consultation with the Minister of Justice.
+> R.S., 1985, c. 25 (3rd Supp.), s. 13; 2009, c. 15, s. 10.
+
 
 
 
@@ -265,19 +280,20 @@ exceeds the prescribed proportion.
 		- **(i)** the security to be taken by the lender for the repayment of loans made for that purpose,
 		- **(ii)** the terms of repayment and other terms, including provisions in respect of insurance, on which loans made for that purpose are to be made, and
 		- **(iii)** the maximum rate of interest payable by a farmer or farm products marketing cooperative or the manner of determining that maximum rate;
+	- **(b.1)** prescribing, for the purposes of paragraph 4(1)(c), the purpose for which the livestock is kept or the minimum period that the livestock must remain in the possession of the farmer;
+	- **(b.2)** fixing percentages for the purposes of subsections 4(1) and 6(1) and paragraphs 9(a) and (b);
+	- **(b.3)** fixing amounts for the purposes of paragraphs 4(3)(c) and 6(2)(c), subsection 6(3) and section 7;
 	- **(c)** prescribing that in the event of actual or impending default in the repayment of a loan the lender may, with the approval of the Minister and the farmer or farm products marketing cooperative, alter or revise by way of an extension of time or otherwise any of the terms of the loan, or any agreement in connection therewith, and that an alteration or revision shall not discharge the liability of the Minister in respect thereof under this Act;
 	- **(d)** prescribing, in the event of default in the repayment of a loan, the legal or other measures to be taken by the lender and the procedure to be followed for the collection of the amount of the loan outstanding and the disposal or realization of any security for the repayment thereof held by the lender;
 	- **(e)** prescribing the method of determination of the amount of loss sustained by a lender as a result of a loan;
 	- **(f)** prescribing the procedure to be followed by a lender in making a claim for any loss sustained by it as a result of a loan;
 	- **(g)** prescribing the steps to be taken by a lender to effect collection on behalf of the Minister of any loan in respect of which any payment has been made by the Minister to the lender under this Act and providing that, in the event of neglect by the lender to take such steps, the amount of the payment may be recovered by the Minister;
-	- **(h)** requiring reports to be made periodically to the Minister by a lender in respect of loans made by it;
+	- **(h)** prescribing the information to be furnished to the Minister by a lender in respect of loans made by it and the time when the information is to be furnished;
 	- **(i)** prescribing any thing that is by this Act to be prescribed; and
 	- **(j)** generally for carrying out the purposes and provisions of this Act.
 
-**Amendment of section 4 or 6**
-
-- **(2)** The Governor in Council may, by order made on the recommendation of the Minister and the Minister of Finance, amend subsections 4(1) and 6(1) by striking out the percentage set out therein and by substituting therefor another percentage not exceeding ninety-five per cent.
-> R.S., 1985, c. 25 (3rd Supp.), s. 15; 1992, c. 1, s. 67.
+- **(2)** [Repealed, 2009, c. 15, s. 11]
+> R.S., 1985, c. 25 (3rd Supp.), s. 15; 1992, c. 1, s. 67; 2009, c. 15, s. 11.
 
 
 
@@ -362,15 +378,24 @@ exceeds the prescribed proportion.
 
 **Annual report**
 
-**22** 
+**22** The Minister shall, not later than June 30 in each year, prepare a report with respect to the administration of this Act during the fiscal year that ended on the preceding March 31 and shall cause a copy of the report to be laid before each House of Parliament on any of the first 15 days on which that House is sitting after the day the Minister completes it.
+> R.S., 1985, c. 25 (3rd Supp.), s. 22; 2009, c. 15, s. 12.
 
-- **(1)** The Minister shall, not later than June 30 in each year, prepare a report with respect to the administration of this Act and the [Farm Improvement Loans Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-3.md) during the fiscal year that ended on the preceding March 31 and shall cause a copy of the report to be laid before each House of Parliament on any of the first fifteen days on which that House is sitting after the day the Minister completes it.
 
-**First report**
 
-- **(2)** The report to be prepared not later than June 30, 1988 shall cover
-	- **(a)** the administration of this Act during the period that begins on the day on which sections 2 to 21 come into force and ends on March 31, 1988; and
-	- **(b)** the administration of the [Farm Improvement Loans Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-3.md) during the period that began on January 1, 1987 and ends on March 31, 1988.
+
+
+**Five-year review**
+
+**22.1** 
+
+- **(1)** Every five years after the coming into force of this subsection, the Minister shall review the provisions and administration of this Act in consultation with the Minister of Finance.
+
+**Tabling of report**
+
+- **(2)** The Minister shall cause a copy of the report on the review to be laid before each House of Parliament on any of the first 30 days on which that House is sitting after the report is completed.
+> 2009, c. 15, s. 12.
+
 
 
 
