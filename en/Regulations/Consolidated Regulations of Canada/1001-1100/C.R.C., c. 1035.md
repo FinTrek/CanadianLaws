@@ -267,14 +267,14 @@ hunt migratory game birds without a migratory game bird hunting permit.
 
 - **(10)** Subsections 5(1) and (3) do not apply to an Indian or Inuk.
 
-- **(11)** Despite subsections (1) and (3), a minor may hunt the migratory birds referred to in column I.1 of Table I of any Part of Schedule I without a permit only during the days that are set out in that column, referred to in Table I as “Waterfowler Heritage Days”, if the person
+- **(11)** Despite subsections (1) and (3), a minor may hunt the migratory birds referred to in column 2 or column II, as the case may be, of Table I of any Part of Schedule I without a permit only during the days that are set out in that column, referred to in Table I as “Waterfowler Heritage Days”, if the person
 	- **(a)** is lawfully able to hunt in the province or territory where the hunting will occur; and
 	- **(b)** is accompanied by a migratory game bird hunting permit holder who is not a minor.
 
 - **(12)** The permit holder referred to in paragraph (11)(b) must not, during the days set out in column I.1 referred to in paragraph (11)
 	- **(a)** have in their possession or use a firearm while accompanying the minor; and
 	- **(b)** accompany more than two minors at one time.
-> SOR/78-490, s. 2; SOR/79-544, s. 2; SOR/80-577, s. 3; SOR/81-641, s. 1(F); SOR/82-703, s. 3; SOR/94-684, s. 5; SOR/99-147, s. 2; SOR/2000-331, s. 1; SOR/2000-347, s. 2; SOR/2001-234, s. 1; SOR/2005-186, s. 3(E).
+> SOR/78-490, s. 2; SOR/79-544, s. 2; SOR/80-577, s. 3; SOR/81-641, s. 1(F); SOR/82-703, s. 3; SOR/94-684, s. 5; SOR/99-147, s. 2; SOR/2000-331, s. 1; SOR/2000-347, s. 2; SOR/2001-234, s. 1; SOR/2005-186, s. 3(E); SOR/2009-190, s. 1.
 
 
 
@@ -1189,16 +1189,18 @@ to kill on the airport migratory birds that are considered by such manager, comm
 <h4>Open Seasons in Prince Edward Island</h4>
 <tr>
 <th></th>
-<th>Column I</th>
-<th>Column II</th>
-<th>Column III</th>
-<th>Column IV</th>
+<th>Column 1</th>
+<th>Column 2</th>
+<th>Column 3</th>
+<th>Column 4</th>
+<th>Column 5</th>
 </tr>
 <tr>
 <th>Item</th>
 <th>Area</th>
 <th>Ducks (Other Than Harlequin Ducks) and Geese</th>
-<th>Ducks (Other Than Harlequin Ducks), Snipe and Geese</th>
+<th>Ducks (Other Than Common and Red-breasted Mergansers, Long-tailed Ducks, Harlequin Ducks, Eiders and Scoters), Snipe and Geese</th>
+<th>Common and Red-breasted Mergansers, Long-tailed Ducks, Eiders and Scoters</th>
 <th>Woodcock</th>
 </tr>
 <tr>
@@ -1206,6 +1208,7 @@ to kill on the airport migratory birds that are considered by such manager, comm
 <td>Throughout Prince Edward Island</td>
 <td>Third Saturday of September (Waterfowler Heritage Day)</td>
 <td>First Monday of October to second Saturday of December</td>
+<td>First Monday of October to December 31</td>
 <td>Last Monday of September to second Saturday of December</td>
 </tr>
 </table>
@@ -1227,7 +1230,8 @@ TABLE I.1
 <h4>Bag and Possession Limits in Prince Edward Island</h4>
 <tr>
 <th>Limits</th>
-<th>Ducks (other thanHarlequin Ducks)</th>
+<th>Ducks (Other Than Common and Red-breasted Mergansers, Long-tailed Ducks, Harlequin Ducks, Eiders and Scoters)</th>
+<th>Common and Red-breasted Mergansers, Long-tailed Ducks, Eiders and Scoters</th>
 <th>Geese</th>
 <th>Woodcock</th>
 <th>Snipe</th>
@@ -1235,6 +1239,7 @@ TABLE I.1
 <tr>
 <td>Daily Bags</td>
 <td>6(a)</td>
+<td>6(c)</td>
 <td>5</td>
 <td>8</td>
 <td>10</td>
@@ -1242,6 +1247,7 @@ TABLE I.1
 <tr>
 <td>Possession</td>
 <td>12(b)</td>
+<td>12(d)</td>
 <td>10</td>
 <td>16</td>
 <td>20</td>
@@ -1256,6 +1262,16 @@ TABLE I.1
 </tr>
 <tr>
 <td>**(b)** Not more than eight may be Mallard-American Black Duck hybrids or American Black Ducks and not more than two may be Barrow’s Goldeneye.
+
+</td>
+</tr>
+<tr>
+<td>**(c)** Not more than four may be Scoters.
+
+</td>
+</tr>
+<tr>
+<td>**(d)** Not more than eight may be Scoters.
 
 </td>
 </tr>
@@ -1796,7 +1812,7 @@ Parcel VI and the part of lot 456 that appear on Public Works Canada map AM-92-7
 
 
 
-**(e)** Lac St-Pierre (Nicolet): This sector is located in the St. Lawrence River to the northwest of the National Defense territory near the town of Nicolet, Province of Quebec, at approximately 46°12′ latitude and 72°42′ longitude. This sector includes open water and marshes inside a line between the battery #5 and the Longue Pointe called OP-6 on the National Defense property, to the limit of the Nicolet Migratory Bird Sanctuary;
+**(e)** Lac St-Pierre (Nicolet): This sector is located in the St. Lawrence River to the northwest of the National Defence territory near the town of Nicolet, Province of Quebec. It includes open water and marshes inside a line between the battery #5 (46.225083 N and -72.670778 W) and the Longue Pointe called OP-6 (46.177528 N and -72.754333 W) on the National Defence property, to the limit of the Nicolet Migratory Bird Sanctuary;
 
 
 
@@ -1903,7 +1919,7 @@ TABLE I.1
 </td>
 </tr>
 <tr>
-<td>**(b)** In District F, no person shall hunt south of the St. Lawrence River and north of the road right-of-way of Route 132 between Forgues Street at Berthier-sur-Mer and the eastern limit of Cap-Saint-Ignace municipality.
+<td>**(b)** In District F, no person shall hunt south of the St. Lawrence River and north of the road right-of-way of Route 132 between the western limit of Montmagny municipality and the eastern limit of Cap-Saint-Ignace municipality.
 
 </td>
 </tr>
@@ -1988,7 +2004,7 @@ TABLE I.1
 </td>
 </tr>
 <tr>
-<td>**(d)** Not more than 10 Canada Geese or Cackling Geese can be taken daily from September 1 to September 25.
+<td>**(d)** Not more than 10 geese (Canada Geese or Cackling Geese, or any combination of them) can be taken daily from September 1 to September 25.
 
 </td>
 </tr>
@@ -2174,11 +2190,7 @@ TABLE I.1
 
 **4** In this Part, the open seasons set out in Table I do not apply to the following areas:
 
-**(a)** that portion of the Township of Norfolk in the Regional Municipality of Haldimand-Norfolk shown as the Big Creek National Wildlife Area and shown as Part I on the designated Plan R.17 deposited in the Registry Division of Norfolk;
-
-
-
-**(b)** that portion of the Township of Dover West in the County of Kent consisting of Lots 1 to 3 inclusive in the Fourth Concession of the said Township of Dover West;
+**(a) and b)** [Repealed, SOR/2009-190, s. 8]
 
 
 
@@ -2489,7 +2501,7 @@ TABLE I.1
 
 
 
-**2** In this Part, the open season for hunting geese by non-residents in Game Bird Hunting Zone No. 4, Provincial Game Hunting Areas Nos. 13A, 14 and 14A, all that portion of Game Hunting Area 16 south of the north limit of Township 33, Game Hunting Areas 18, 18A, 18B, 18C, 19, 19A, 19B, 20, 21A, 23A and 25 as described in the Hunting Areas and Zones Regulation, 220/86, of the Province of Manitoba, made pursuant to The Wildlife Act, C.C.S.M., c. W130 includes only that part of each day from one-half hour before sunrise to 12:00 noon, local time, from the opening date up to and including the second Sunday of October, and after that period, geese may be hunted from one-half hour before sunrise until one-half hour after sunset.
+**2** In this Part, the open season for hunting geese by non-residents of Canada in Game Bird Hunting Zone No. 4, Provincial Game Hunting Areas Nos. 13A, 14 and 14A, all that portion of Game Hunting Area 16 south of the north limit of Township 33, Game Hunting Areas 18, 18A, 18B, 18C, 19, 19A, 19B, 20, 21A, 23A and 25 as described in the Hunting Areas and Zones Regulation, 220/86, of the Province of Manitoba, made under The Wildlife Act, C.C.S.M., c. W130 includes only that part of each day from one-half hour before sunrise to 12:00 noon, local time, from the opening date up to and including the second Sunday of October, and after that period, geese may be hunted from one-half hour before sunrise until one-half hour after sunset. However, during the first week of the open season for hunting Snow and Ross Geese by non-residents of Canada, which begins on the third Monday of September, these species may be hunted from one-half hour before sunrise until one-half hour after sunset.
 
 
 
@@ -2634,7 +2646,7 @@ TABLE III
 </td>
 </tr>
 <tr>
-<td>**(d)** Snow Goose call recordings may be used but, if used with decoys, the decoys may only represent white phase snow geese.
+<td>**(d)** Snow Goose call recordings may be used but, if used with decoys, the decoys may only represent white phase Snow Geese or blue phase Snow Geese, or any combination of them.
 
 </td>
 </tr>
@@ -2788,86 +2800,102 @@ TABLE I.1
 <table>
 <h4>Open Seasons in Alberta</h4>
 <tr>
-<th>Column I</th>
-<th>Column II</th>
-<th>Column III</th>
-<th>Column IV</th>
-<th>Column V</th>
-<th>Column VI</th>
+<th></th>
+<th>Column 1</th>
+<th>Column 2</th>
+<th>Column 3</th>
+<th>Column 4</th>
+<th>Column 5</th>
+<th>Column 6</th>
 </tr>
 <tr>
+<th>Item</th>
 <th>Area</th>
-<th>Ducks</th>
+<th>Ducks, Coots and Snipe</th>
 <th>White Geese (Snow and Ross’s Geese) (b)</th>
 <th>Dark Geese (Canada and White-fronted Geese)</th>
-<th>Coots and snipe</th>
-<th>Falconry season for ducks, coots and snipe</th>
+<th>Waterfowler Heritage days</th>
+<th>Falconry Season for Ducks, Coots and Snipe</th>
 </tr>
 <tr>
-<td>1. Zone No. 1(a)</td>
+<td>1</td>
+<td>Zone No. 1(a)</td>
 <td>September 1 to December 16</td>
 <td>September 1 to December 16</td>
 <td>September 1 to December 16</td>
-<td>September 1 to December 16</td>
-<td>September 1 to December 16</td>
-</tr>
-<tr>
-<td>2. Zone No. 2</td>
-<td>September 1 to December 16</td>
-<td>September 1 to December 16</td>
-<td>September 1 to December 16</td>
-<td>September 1 to December 16</td>
+<td></td>
 <td>September 1 to December 16</td>
 </tr>
 <tr>
-<td>3. Zone No. 3</td>
+<td>2</td>
+<td>Zone No. 2</td>
 <td>September 1 to December 16</td>
 <td>September 1 to December 16</td>
 <td>September 1 to December 16</td>
-<td>September 1 to December 16</td>
-<td>September 1 to December 16</td>
-</tr>
-<tr>
-<td>4. Zone No. 4</td>
-<td>September 1 to December 16</td>
-<td>September 1 to December 16</td>
-<td>September 1 to December 16</td>
-<td>September 1 to December 16</td>
+<td></td>
 <td>September 1 to December 16</td>
 </tr>
 <tr>
-<td>5. Zone No. 5</td>
-<td>September 8 to December 23</td>
-<td>September 8 to December 23</td>
-<td>September 8 to December 23</td>
-<td>September 8 to December 23</td>
-<td>September 8 to December 23</td>
-</tr>
-<tr>
-<td>6. Zone No. 6</td>
-<td>September 8 to December 23</td>
-<td>September 8 to December 23</td>
-<td>September 8 to December 23</td>
-<td>September 8 to December 23</td>
-<td>September 8 to December 23</td>
-</tr>
-<tr>
-<td>7. Zone No. 7</td>
-<td>September 8 to December 23</td>
-<td>September 8 to December 23</td>
-<td>September 8 to December 23</td>
-<td>September 8 to December 23</td>
-<td>September 8 to December 23</td>
-</tr>
-<tr>
-<td>8. Zone No. 8</td>
+<td>3</td>
+<td>Zone No. 3</td>
 <td>September 1 to December 16</td>
 <td>September 1 to December 16</td>
 <td>September 1 to December 16</td>
-<td>September 1 to December 16</td>
+<td></td>
 <td>September 1 to December 16</td>
 </tr>
 <tr>
+<td>4</td>
+<td>Zone No. 4</td>
+<td>September 1 to December 16</td>
+<td>September 1 to December 16</td>
+<td>September 1 to December 16</td>
+<td></td>
+<td>September 1 to December 16</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Zone No. 5</td>
+<td>September 8 to December 21</td>
+<td>September 8 to December 21</td>
+<td>September 8 to December 21</td>
+<td>First weekend of September</td>
+<td>September 8 to December 21</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Zone No. 6</td>
+<td>September 8 to December 21</td>
+<td>September 8 to December 21</td>
+<td>September 8 to December 21</td>
+<td>First weekend of September</td>
+<td>September 8 to December 21</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Zone No. 7</td>
+<td>September 8 to December 21</td>
+<td>September 8 to December 21</td>
+<td>September 8 to December 21</td>
+<td>First weekend of September</td>
+<td>September 8 to December 21</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Zone No. 8</td>
+<td>September 1 to December 16</td>
+<td>September 1 to December 16</td>
+<td>September 1 to December 16</td>
+<td></td>
+<td>September 1 to December 16</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -3542,34 +3570,43 @@ TABLE I.1
 <h4>Open Seasons in the Yukon Territory</h4>
 <tr>
 <th></th>
-<th>Column I</th>
-<th>Column II</th>
-<th>Column III</th>
-<th>Column IV</th>
-<th>Column V</th>
-<th>Column VI</th>
+<th>Column 1</th>
+<th>Column 2</th>
+<th>Column 3</th>
+<th>Column 4</th>
+<th>Column 5</th>
+<th>Column 6</th>
 </tr>
 <tr>
-<th></th>
+<th>Item</th>
 <th>Area</th>
 <th>Ducks</th>
 <th>Geese</th>
 <th>Sandhill Cranes</th>
-<th>Rails and coots</th>
+<th>Rails and Coots</th>
 <th>Snipe</th>
 </tr>
 <tr>
 <td>1</td>
 <td>Northern Yukon Territory</td>
-<td>September 1 to October 31</td>
-<td>September 1 to October 31</td>
+<td>August 15 to October 31 for residents of the Yukon Territory; September 1 to October 31 for non-residents of the Yukon Territory</td>
+<td>August 15 to October 31 for residents of the Yukon Territory; September 1 to October 31 for non-residents of the Yukon Territory</td>
 <td>No open season</td>
-<td>September 1 to October 31</td>
-<td>September 1 to October 31</td>
+<td>August 15 to October 31 for residents of the Yukon Territory; September 1 to October 31 for non-residents of the Yukon Territory</td>
+<td>August 15 to October 31 for residents of the Yukon Territory; September 1 to October 31 for non-residents of the Yukon Territory</td>
 </tr>
 <tr>
 <td>2</td>
-<td>Southern Yukon Territory</td>
+<td>Central Yukon Territory</td>
+<td>August 15 to October 31 for residents of the Yukon Territory; September 1 to October 31 for non-residents of the Yukon Territory</td>
+<td>August 15 to October 31 for residents of the Yukon Territory; September 1 to October 31 for non-residents of the Yukon Territory</td>
+<td>August 15 to October 31 for residents of the Yukon Territory; September 1 to October 31 for non-residents of the Yukon Territory</td>
+<td>August 15 to October 31 for residents of the Yukon Territory; September 1 to October 31 for non-residents of the Yukon Territory</td>
+<td>August 15 to October 31 for residents of the Yukon Territory; September 1 to October 31 for non-residents of the Yukon Territory</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Southern Yukon Territory </td>
 <td>September 1 to October 31</td>
 <td>September 1 to October 31</td>
 <td>September 1 to October 31</td>
@@ -3583,11 +3620,15 @@ TABLE I.1
 
 **1** In this Part,
 
-**(a)** ***Northern Yukon Territory*** means all that portion of the Yukon Territory lying north of latitude 66°; and
+**(a)** ***Northern Yukon Territory*** means all that portion of the Yukon Territory lying north of latitude 66°N;
 
 
 
-**(b)** ***Southern Yukon Territory*** means all that portion of the Yukon Territory lying south of latitude 66°.
+**(b)** ***Central Yukon Territory*** means all that portion of the Yukon Territory lying between latitude 62° and 66°N; and
+
+
+
+**(c)** ***Southern Yukon Territory*** means all that portion of the Yukon Territory lying south of latitude 62°N.
 
 
 
@@ -3645,7 +3686,7 @@ TABLE I.1
 <td></td>
 </tr>
 <tr>
-<td>**(a)** Except in the Northern Yukon Territory 17 additional ducks may be taken per day, with no possession limit.
+<td>**(a)** Except that in the Northern Yukon Territory 17 additional ducks may be taken per day, with no possession limit.
 
 </td>
 </tr>
@@ -3695,7 +3736,7 @@ TABLE I.1
 <td></td>
 </tr>
 <tr>
-<td>**(a)** Snow Goose call recordings may be used but, if used with decoys, the decoys may only represent white phase snow geese.
+<td>**(a)** Snow Goose call recordings may be used but, if used with decoys, the decoys may only represent white phase Snow Geese or blue phase Snow Geese, or any combination of them.
 
 </td>
 </tr>
@@ -3727,6 +3768,12 @@ TABLE I.1
 <td>Recorded bird calls (a), (b)</td>
 </tr>
 <tr>
+<td>2</td>
+<td>Throughout Nunavut</td>
+<td>August 15 - August 31</td>
+<td>Recorded bird calls (a), (b)</td>
+</tr>
+<tr>
 <td></td>
 </tr>
 <tr>
@@ -3735,7 +3782,7 @@ TABLE I.1
 </td>
 </tr>
 <tr>
-<td>**(b)** If using decoys when hunting with recorded bird calls, decoys must be white.
+<td>**(b)** Snow Goose call recordings may be used but, if used with decoys, the decoys may only represent white phase Snow Geese or blue phase Snow Geese, or any combination of them.
 
 </td>
 </tr>
@@ -3750,34 +3797,20 @@ TABLE I.1
 <h4>Bag and Possession Limits in Nunavut</h4>
 <tr>
 <th>Limits</th>
-<th>Ducks RESIDENTS OF CANADA
-
-</th>
-<th>Ducks NON-RESIDENTS OF CANADA
-
-</th>
-<th>Geese RESIDENTS OF CANADA
-
-</th>
-<th>Geese NON-RESIDENTS OF CANADA
-
-</th>
-<th>Coots RESIDENTS OF CANADA AND NON-RESIDENTS OF CANADA
-
-</th>
-<th>Snipe RESIDENTS OF CANADA
-
-</th>
-<th>Snipe NON-RESIDENTS OF CANADA
-
-</th>
+<th>Ducks RESIDENTS OF CANADA</th>
+<th>Ducks NON-RESIDENTS OF CANADA</th>
+<th>Geese RESIDENTS OF CANADA</th>
+<th>Geese NON-RESIDENTS OF CANADA</th>
+<th>Coots RESIDENTS OF CANADA AND NON-RESI  DENTS OF CANADA</th>
+<th>Snipe RESIDENTS OF CANADA</th>
+<th>Snipe NON-RESIDENTS OF CANADA</th>
 </tr>
 <tr>
 <td>Daily Bag</td>
 <td>25(c)(g)</td>
 <td>8(c)(g)</td>
-<td>15(b)(e)</td>
-<td>5(a)(b)(e)</td>
+<td>15(b)(e)(i)</td>
+<td>5(a)(b)(e)(i)</td>
 <td>25</td>
 <td>10</td>
 <td>10</td>
@@ -3787,12 +3820,19 @@ TABLE I.1
 <td>No limit(d)(h)</td>
 <td>16(d)(h)</td>
 <td>No limit(b)(f)</td>
-<td>10(a)(b)(f)</td>
+<td>10(a)(b)(f)(j)</td>
 <td>No limit</td>
 <td>No limit</td>
 <td>20</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
@@ -3801,37 +3841,47 @@ TABLE I.1
 </td>
 </tr>
 <tr>
-<td>**(b)** Except that on Akimiski Island and in its adjacent waters in James Bay, not more than a total of three Canada Geese or Cackling Geese, or any combination of these, may be taken daily, and not more than a total of 10 Canada Geese or Cackling Geese, or any combination of these, may be possessed.
+<td>**(b)** Except that on Akimiski Island and in its adjacent waters in James Bay, not more than a total of three Canada Geese or Cackling Geese, or any combination of them, may be taken daily, and not more than a total of 24 Canada Geese or Cackling Geese, or any combination of them, may be possessed.
 
 </td>
 </tr>
 <tr>
-<td>**(c)** Except that on Akimiski Island and in its adjacent waters in James Bay, the daily bag limit for ducks is six, with not more than two American Black Ducks.
+<td>**(c)** Except that on Akimiski Island and in its adjacent waters in James Bay, the daily bag limit for ducks is six, with not more than two American Black Ducks and one Barrow’s Goldeneye.
 
 </td>
 </tr>
 <tr>
-<td>**(d)** Except that on Akimiski Island and in its adjacent waters in James Bay, the possession limit for ducks is 12, with not more than four American Black Ducks.
+<td>**(d)** Except that on Akimiski Island and in its adjacent waters in James Bay, the possession limit for ducks is 12, with not more than four American Black Ducks and two Barrow’s Goldeneye.
 
 </td>
 </tr>
 <tr>
-<td>**(e)** Except that on the islands in James Bay east of 80°15′W longitude and south of 55°N latitude, or in their surrounding waters, the daily bag limit is 20 Snow Geese, not more than a total of five Canada Geese or Cackling Geese in any combination, and five other geese.
+<td>**(e)** Except that on the islands in James Bay east of 80°15′ W longitude and south of 55°N latitude, or in their surrounding waters, the daily bag limit is 20 Snow Geese and a total of five other geese.
 
 </td>
 </tr>
 <tr>
-<td>**(f)** Except that on the islands in James Bay east of 80°15′W longitude and south of 55°N latitude, or in their surrounding waters, the possession limit is 60 Snow Geese, not more than a total of 10 Canada Geese or Cackling Geese in any combination, and 10 other geese.
+<td>**(f)** Except that on the islands in James Bay east of 80°15′ W longitude and south of 55°N latitude, or in their surrounding waters, the possession limit is 60 Snow Geese and a total of 20 other geese.
 
 </td>
 </tr>
 <tr>
-<td>**(g)** Except that on the islands in James Bay east of 80°15′W longitude and south of 55°N latitude, or in their surrounding waters, the daily bag limit for ducks is six, with not more than four American Black Ducks and two Blue-winged Teal.
+<td>**(g)** Except that on the islands in James Bay east of 80°15′ W longitude and south of 55°N latitude, or in their surrounding waters, the daily bag limit for ducks is six, with not more than four American Black Ducks, one Barrow’s Goldeneye and one Blue-winged Teal.
 
 </td>
 </tr>
 <tr>
-<td>**(h)** Except that on the islands in James Bay east of 80°15′W longitude and south of 55°N latitude, or in their surrounding waters, the possession limit for ducks is 12, with not more than eight American Black Ducks, and four Blue-winged Teal.
+<td>**(h)** Except that on the islands in James Bay east of 80°15′ W longitude and south of 55°N latitude, or in their surrounding waters, the possession limit for ducks is 12, with not more than eight American Black Ducks, two Barrow’s Goldeneye and two Blue-winged Teal.
+
+</td>
+</tr>
+<tr>
+<td>**(i)** Except that the daily bag limit for Snow Geese is 20.
+
+</td>
+</tr>
+<tr>
+<td>**(j)** Except that the possession limit for Snow Geese by non-residents is 80.
 
 </td>
 </tr>
@@ -3839,7 +3889,7 @@ TABLE I.1
 
 
 
-> SOR/78-579, s. 1; SOR/79-544, s. 10; SOR/79-621, s. 1; SOR/80-577, ss. 11 to 19; SOR/81-641, ss. 7 to 16; SOR/82-703, ss. 8 to 17; SOR/82-826, s. 1; SOR/83-594, ss. 2 to 11; SOR/84-561, ss. 2 to 11; SOR/84-947, ss. 1 to 3; SOR/85-694, ss. 6 to 14; SOR/86-834, ss. 1 to 10; SOR/87-464, ss. 1 to 10; SOR/88-374, ss. 1 to 9; SOR/88-457, ss. 1, 2; SOR/89-343, ss. 1 to 10; SOR/89-389, ss. 1(E), 2, 3(F); SOR/89-472, ss. 1, 2; SOR/90-424, ss. 1 to 8, 10 to 12; SOR/90-425, s. 1; SOR/90-623, ss. 2 to 5; SOR/91-492, ss. 1 to 10; SOR/92-532, ss. 1 to 12; SOR/93-344, ss. 1, 2(F), 3 to 13; SOR/93-438, ss. 1 to 8; SOR/94-449, ss. 1 to 15, 16(F), 17 to 24; SOR/95-296, ss. 1 to 28, 29(F); SOR/96-308, ss. 1 to 41; SOR/97-364, ss. 1 to 31; SOR/97-400, s. 3; SOR/98-343, ss. 1 to 4, 5(E), 6 to 29, 30(F), 31 to 35; SOR/99-147, ss. 6 to 8; SOR/99-263, ss. 1 to 5 (F), 6, 7, 8(F), 9, 10, 11(F), 12 to 14, 15(F), 16 to 26, 27(F), 28 to 54, 55(F), 56 to 64; err., Vol. 133, No. 16; SOR/2000-88, ss. 6 to 13; SOR/2000-240, ss. 1 to 20; SOR/2000-331, s. 4; SOR/2000-347, ss. 3, 4, 6, 7; SOR/2001-90, ss. 1 to 4; SOR/2001-215, ss. 1 to 24; SOR/2002-80, ss. 2 to 5; SOR/2002-212, ss. 1 to 25; SOR/2002-394, s. 1; SOR/2003-84, ss. 2, 3; SOR/2003-221, ss. 1 to 17; SOR/2004-37, ss. 1 to 3; SOR/2004-138, ss. 2(F), 3(F), 4 to 21, 22(F), 23(F), 24 to 31, 32(F), 33 to 35, 36(F), 37, 38, 39(F), 40 to 42; SOR/2005-64, ss. 1 to 3; SOR/2005-186, ss. 5 to 15, 16(E), 17 to 26; SOR/2006-52, s. 1; SOR/2006-136, ss. 2 to 10, 11(E), 12, 13(E), 14 to 30; SOR/2006-284, s. 1; SOR/2007-140, ss. 2 to 12, 13(E), 14 to 32; SOR/2008-149, s. 1; SOR/2008-217, ss. 2 to 18, 19(F), 20 to 33, 34(E); SOR/2009-75, s. 1.
+> SOR/78-579, s. 1; SOR/79-544, s. 10; SOR/79-621, s. 1; SOR/80-577, ss. 11 to 19; SOR/81-641, ss. 7 to 16; SOR/82-703, ss. 8 to 17; SOR/82-826, s. 1; SOR/83-594, ss. 2 to 11; SOR/84-561, ss. 2 to 11; SOR/84-947, ss. 1 to 3; SOR/85-694, ss. 6 to 14; SOR/86-834, ss. 1 to 10; SOR/87-464, ss. 1 to 10; SOR/88-374, ss. 1 to 9; SOR/88-457, ss. 1, 2; SOR/89-343, ss. 1 to 10; SOR/89-389, ss. 1(E), 2, 3(F); SOR/89-472, ss. 1, 2; SOR/90-424, ss. 1 to 8, 10 to 12; SOR/90-425, s. 1; SOR/90-623, ss. 2 to 5; SOR/91-492, ss. 1 to 10; SOR/92-532, ss. 1 to 12; SOR/93-344, ss. 1, 2(F), 3 to 13; SOR/93-438, ss. 1 to 8; SOR/94-449, ss. 1 to 15, 16(F), 17 to 24; SOR/95-296, ss. 1 to 28, 29(F); SOR/96-308, ss. 1 to 41; SOR/97-364, ss. 1 to 31; SOR/97-400, s. 3; SOR/98-343, ss. 1 to 4, 5(E), 6 to 29, 30(F), 31 to 35; SOR/99-147, ss. 6 to 8; SOR/99-263, ss. 1 to 5 (F), 6, 7, 8(F), 9, 10, 11(F), 12 to 14, 15(F), 16 to 26, 27(F), 28 to 54, 55(F), 56 to 64; err., Vol. 133, No. 16; SOR/2000-88, ss. 6 to 13; SOR/2000-240, ss. 1 to 20; SOR/2000-331, s. 4; SOR/2000-347, ss. 3, 4, 6, 7; SOR/2001-90, ss. 1 to 4; SOR/2001-215, ss. 1 to 24; SOR/2002-80, ss. 2 to 5; SOR/2002-212, ss. 1 to 25; SOR/2002-394, s. 1; SOR/2003-84, ss. 2, 3; SOR/2003-221, ss. 1 to 17; SOR/2004-37, ss. 1 to 3; SOR/2004-138, ss. 2(F), 3(F), 4 to 21, 22(F), 23(F), 24 to 31, 32(F), 33 to 35, 36(F), 37, 38, 39(F), 40 to 42; SOR/2005-64, ss. 1 to 3; SOR/2005-186, ss. 5 to 15, 16(E), 17 to 26; SOR/2006-52, s. 1; SOR/2006-136, ss. 2 to 10, 11(E), 12, 13(E), 14 to 30; SOR/2006-284, s. 1; SOR/2007-140, ss. 2 to 12, 13(E), 14 to 32; SOR/2008-149, s. 1; SOR/2008-217, ss. 2 to 18, 19(F), 20 to 33, 34(E); SOR/2009-75, s. 1; SOR/2009-190, ss. 2 to 19.
 
 
 
