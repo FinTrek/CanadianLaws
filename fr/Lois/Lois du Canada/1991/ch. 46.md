@@ -8813,15 +8813,15 @@ il a été procédé à l’enregistrement ou au dépôt au bureau d’enregistr
 		- **(ii)** la modification ou l’amélioration d’installations électriques aquicoles,
 		- **(iii)** l’érection ou la construction de clôtures ou d’ouvrages de drainage sur l’exploitation aquicole pour la conservation, l’élevage, la culture ou la protection d’organismes animaux et végétaux aquatiques ou pour leur alimentation en eau et l’évacuation des eaux,
 		- **(iv)** la construction, la réparation, la modification ou l’agrandissement de tout édifice ou bâtiment de l’exploitation aquicole,
-		- **(v)** toute entreprise en vue de l’amélioration ou de la mise en valeur d’une exploitation aquicole pouvant faire l’objet d’un prêt au sens de la [Loi sur le financement des petites entreprises du Canada](/fr/Lois/Lois%20du%20Canada/1998/ch.%2036.md), de la Loi sur les prêts aux petites entreprises ou de la [Loi sur les prêts destinés aux améliorations agricoles](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-3.md),
+		- **(v)** toute entreprise en vue de l’amélioration ou de la mise en valeur d’une exploitation aquicole pouvant faire l’objet d’un prêt au sens de la [Loi sur le financement des petites entreprises du Canada](/fr/Lois/Lois%20du%20Canada/1998/ch.%2036.md) ou de la Loi sur les prêts aux petites entreprises,
 moyennant garantie portant sur le matériel aquicole mobilier ou immobilier, étant entendu que la garantie prise en vertu du présent alinéa n’est pas valable en ce qui concerne le matériel qui est, au moment où la garantie est prise et en vertu d’une loi en vigueur à ce moment, insaisissable par voie de bref d’exécution et exclu des biens qui peuvent être donnés en garantie d’un emprunt par cet aquiculteur;
 	- **n)** à tout agriculteur pour :
 		- **(i)** la réparation ou la révision de matériel agricole mobilier ou immobilier ou d’installation électrique de ferme,
 		- **(ii)** la modification ou l’amélioration d’installations électriques de ferme,
 		- **(iii)** l’érection ou la construction de clôtures ou d’ouvrages de drainage de la ferme,
 		- **(iv)** la construction, la réparation, la modification ou l’agrandissement de tout édifice ou bâtiment de la ferme,
-		- **(v)** toute entreprise en vue de l’amélioration ou de la mise en valeur d’une ferme pouvant faire l’objet d’un prêt au sens de la [Loi sur les prêts destinés aux améliorations agricoles](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-3.md),
-		- **(vi)** toute fin pouvant faire l’objet d’un prêt au sens de la Loi sur les prêts destinés aux améliorations agricoles et à la commercialisation selon la formule coopérative,
+		- **(v)** [Abrogé, 2009, ch. 15, art. 13]
+		- **(vi)** toute fin pouvant faire l’objet d’un prêt au sens de la [Loi canadienne sur les prêts agricoles](/fr/Lois/Lois%20du%20Canada/1985/ch.%2025%20(3e%20suppl.).md),
 moyennant garantie portant sur le matériel agricole mobilier ou immobilier, étant entendu que la garantie prise en vertu du présent alinéa n’est pas valable en ce qui concerne le matériel qui est, au moment où la garantie est prise et en vertu d’une loi en vigueur à ce moment, insaisissable par voie de bref d’exécution et exclu des biens qui peuvent être donnés en garantie d’un emprunt par cet agriculteur;
 	- **o)** à tout pêcheur, moyennant garantie portant sur des bateaux ou engins de pêche ou des produits aquatiques, étant entendu que la garantie prise en vertu du présent alinéa n’est pas valable en ce qui concerne les biens qui sont, au moment où la garantie est prise et en vertu d’une loi en vigueur à ce moment, insaisissables par voie de bref d’exécution et exclus des biens qui peuvent être donnés en garantie d’un emprunt par ce pêcheur;
 	- **p)** à tout sylviculteur, moyennant garantie portant sur des engrais, insecticides, matériel sylvicole mobilier ou immobilier ou des produits forestiers, étant entendu que la garantie prise en vertu du présent alinéa n’est pas valable en ce qui concerne les biens de ce genre qui sont, au moment où la garantie est prise et en vertu d’une loi en vigueur à ce moment, insaisissables par voie de bref d’exécution et exclus des biens qui peuvent être donnés en garantie d’un emprunt par ce sylviculteur.
@@ -8868,19 +8868,19 @@ tous les pouvoirs — en sus et sans préjudice des autres pouvoirs qui lui sont
 
 - **(5)** Les définitions qui suivent s’appliquent aux paragraphes (4) et (6).
 
-***agence*** Dans une province, le bureau de la Banque du Canada ou de son représentant autorisé, à l’exception de son bureau d’Ottawa; au Yukon, dans les Territoires du Nord-Ouest et au Nunavut, le bureau du greffier du tribunal de chacun de ces territoires respectivement.
+***agence*** Dans une province, le bureau de la Banque du Canada ou de son représentant autorisé, à l’exception de son bureau d’Ottawa; au Yukon, dans les Territoires du Nord-Ouest et au Nunavut, le bureau du greffier du tribunal de chacun de ces territoires respectivement. (*agency*)
 
-***agence appropriée*** Agence de la province où est situé l’établissement de la personne par ou pour qui est signé le préavis ou, si cette personne a plusieurs établissements au Canada qui se trouvent dans plusieurs provinces, l’agence de la province où elle a son principal établissement ou, à défaut d’établissement, l’agence de la province où elle réside; en ce qui concerne un préavis enregistré avant la date d’entrée en vigueur de la présente partie, ***agence appropriée*** désigne le bureau où l’enregistrement devait être effectué d’après la loi en vigueur à l’époque.
+***agence appropriée*** Agence de la province où est situé l’établissement de la personne par ou pour qui est signé le préavis ou, si cette personne a plusieurs établissements au Canada qui se trouvent dans plusieurs provinces, l’agence de la province où elle a son principal établissement ou, à défaut d’établissement, l’agence de la province où elle réside; en ce qui concerne un préavis enregistré avant la date d’entrée en vigueur de la présente partie, ***agence appropriée*** désigne le bureau où l’enregistrement devait être effectué d’après la loi en vigueur à l’époque. (*appropriate agency*)
 
-***agent*** Préposé qui a la charge d’une agence ainsi que toute personne agissant pour ce préposé.
+***agent*** Préposé qui a la charge d’une agence ainsi que toute personne agissant pour ce préposé. (*agent*)
 
-***archives*** Registres et autres dossiers dont la tenue est exigée en vertu du paragraphe (4), étant entendu qu’ils peuvent être tenus au moyen de feuillets reliés ou non, sur pellicule photographique ou en utilisant un système mécanique ou électronique de traitement de l’information ou tout autre procédé de stockage de données permettant d’obtenir les renseignements nécessaires en clair et après un délai d’attente satisfaisant.
+***archives*** Registres et autres dossiers dont la tenue est exigée en vertu du paragraphe (4), étant entendu qu’ils peuvent être tenus au moyen de feuillets reliés ou non, sur pellicule photographique ou en utilisant un système mécanique ou électronique de traitement de l’information ou tout autre procédé de stockage de données permettant d’obtenir les renseignements nécessaires en clair et après un délai d’attente satisfaisant. (*system of registration*)
 
-***préavis*** Préavis en forme réglementaire ou en forme comparable et, en outre, le préavis dont l’enregistrement, effectué avant la date d’entrée en vigueur de la présente partie, et la forme répondent aux modalités fixées par la loi en vigueur à l’époque.
+***préavis*** Préavis en forme réglementaire ou en forme comparable et, en outre, le préavis dont l’enregistrement, effectué avant la date d’entrée en vigueur de la présente partie, et la forme répondent aux modalités fixées par la loi en vigueur à l’époque. (*notice of intention*)
 
 ***principal établissement***
 - **a)** Dans le cas d’une personne morale constituée sous le régime d’une loi fédérale ou provinciale, le lieu au Canada où, d’après la charte, l’acte constitutif ou les règlements administratifs de la personne morale, est situé son siège;
-- **b)** dans le cas de toute autre personne morale, le lieu où les actes de procédure en matière civile peuvent lui être signifiés dans la province où des prêts ou avances ont été consentis.
+- **b)** dans le cas de toute autre personne morale, le lieu où les actes de procédure en matière civile peuvent lui être signifiés dans la province où des prêts ou avances ont été consentis. (*principal place of business*)
 
 **Règlements**
 
@@ -8899,7 +8899,7 @@ tous les pouvoirs — en sus et sans préjudice des autres pouvoirs qui lui sont
 priment les droits de la banque découlant d’une garantie reçue aux termes du présent article, selon l’ordre dans lequel elles sont mentionnées au présent paragraphe; la banque, qui prend possession ou réalise les biens affectés à la garantie, est responsable des créances jusqu’à concurrence du produit net de la réalisation, déduction faite des frais de réalisation, et est subrogée dans tous les droits des titulaires de ces créances jusqu’à concurrence des sommes qu’elle leur a payées.
 
 - **(8)** [Abrogé, 1997, ch. 15, art. 47]
-> 1991, ch. 46, art. 427; 1992, ch. 27, art. 90; 1993, ch. 6, art. 6(A), ch. 28, art. 78; 1997, ch. 15, art. 47; 1998, ch. 36, art. 21; 2002, ch. 7, art. 82(A); 2004, ch. 25, art. 185.
+> 1991, ch. 46, art. 427; 1992, ch. 27, art. 90; 1993, ch. 6, art. 6(A), ch. 28, art. 78; 1997, ch. 15, art. 47; 1998, ch. 36, art. 21; 2002, ch. 7, art. 82(A); 2004, ch. 25, art. 185; 2009, ch. 15, art. 13.
 
 
 
