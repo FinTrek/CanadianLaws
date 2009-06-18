@@ -8962,15 +8962,15 @@ there has been registered or filed in the proper land registry or land titles of
 		- **(ii)** the alteration or improvement of an aquacultural electric system,
 		- **(iii)** the erection or construction of fencing or works for drainage in an aquaculture operation for the holding, rearing or protection of aquatic plants and animals or for the supply of water to such plants and animals or the disposal of effluent from them,
 		- **(iv)** the construction, repair or alteration of or making of additions to any building or structure in an aquaculture operation, and
-		- **(v)** any works for the improvement or development of an aquaculture operation for which a loan, as defined in the [Canada Small Business Financing Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2036.md), a business improvement loan, as defined in the Small Business Loans Act, or a farm improvement loan, as defined in the [Farm Improvement Loans Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-3.md), may be made,
+		- **(v)** any works for the improvement or development of an aquaculture operation for which a loan, as defined in the [Canada Small Business Financing Act](/en/Acts/Statutes%20of%20Canada/1998/c.%2036.md), or a business improvement loan, as defined in the Small Business Loans Act, may be made,
 on the security of aquacultural equipment or aquacultural implements, but security taken under this paragraph is not effective in respect of aquacultural equipment or aquacultural implements that, at the time the security is taken, by any statutory law that is then in force, are exempt from seizure under writs of execution and the aquaculturist is prevented from giving as security for money lent to the aquaculturist,
 	- **(n)** to any farmer for
 		- **(i)** the repair or overhaul of an agricultural implement, agricultural equipment or a farm electric system,
 		- **(ii)** the alteration or improvement of a farm electric system,
 		- **(iii)** the erection or construction of fencing or works for drainage on a farm,
 		- **(iv)** the construction, repair or alteration of or making of additions to any building or structure on a farm,
-		- **(v)** any works for the improvement or development of a farm for which a farm improvement loan as defined in the [Farm Improvement Loans Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-3.md) may be made, and
-		- **(vi)** any purpose for which a loan as defined in the Farm Improvement and Marketing Cooperatives Loans Act may be made,
+		- **(v)** [Repealed, 2009, c. 15, s. 13]
+		- **(vi)** any purpose for which a loan as defined in the [Canadian Agricultural Loans Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2025%20(3rd%20Supp.).md) may be made,
 on the security of agricultural equipment or agricultural implements, but security taken under this paragraph is not effective in respect of agricultural equipment or agricultural implements that, at the time the security is taken, by any statutory law that is then in force, are exempt from seizure under writs of execution and the farmer is prevented from giving as security for money lent to the farmer,
 	- **(o)** to any fisherman, on the security of fishing vessels, fishing equipment and supplies or products of the sea, lakes and rivers, but security taken under this paragraph is not effective in respect of any such property that, at the time the security is taken, by any statutory law that is then in force, is exempt from seizure under writs of execution and the fisherman is prevented from giving as security for money lent to the fisherman, and
 	- **(p)** to any forestry producer, on the security of fertilizer, pesticide, forestry equipment, forestry implements or products of the forest, but security taken under this paragraph is not effective in respect of any such property that, at the time the security is taken, by any statutory law that is then in force, is exempt from seizure under writs of execution and the forestry producer is prevented from giving as security for money lent to the forestry producer,
@@ -9017,24 +9017,24 @@ to take possession of or seize the property covered by the security, and in the 
 
 - **(5)** In subsections (4) and (6),
 
-***agency*** means, in a province, the office of the Bank of Canada or its authorized representative but does not include its Ottawa office, and in Yukon, the Northwest Territories and Nunavut means the office of the clerk of the court of each of those territories respectively;
+***agency*** means, in a province, the office of the Bank of Canada or its authorized representative but does not include its Ottawa office, and in Yukon, the Northwest Territories and Nunavut means the office of the clerk of the court of each of those territories respectively; (*agence*)
 
-***agent*** means the officer in charge of an agency, and includes any person acting for that officer;
+***agent*** means the officer in charge of an agency, and includes any person acting for that officer; (*agent*)
 
-***appropriate agency*** means
+***appropriate agency*** means
 - **(a)** the agency for the province in which is located the place of business of the person by whom or on whose behalf a notice of intention is signed,
 - **(b)** if that person has more than one place of business in Canada and the places of business are not in the same province, the agency for the province in which is located the principal place of business of that person, or
 - **(c)** if that person has no place of business, the agency for the province in which the person resides,
 
-and in respect of any notice of intention registered before the day this Part comes into force, means the office in which registration was required to be made by the law in force at the time of such registration;
+and in respect of any notice of intention registered before the day this Part comes into force, means the office in which registration was required to be made by the law in force at the time of such registration; (*agence appropriée*)
 
-***notice of intention*** means a notice of intention in the prescribed form or in a form to the like effect, and includes a notice of intention registered before the day this Part comes into force, in the form and registered in the manner required by the law in force at the time of the registration of the notice of intention;
+***notice of intention*** means a notice of intention in the prescribed form or in a form to the like effect, and includes a notice of intention registered before the day this Part comes into force, in the form and registered in the manner required by the law in force at the time of the registration of the notice of intention; (*préavis*)
 
-***principal place of business*** means
+***principal place of business*** means
 - **(a)** in the case of a body corporate incorporated by or under an Act of Parliament or the legislature of a province, the place where, according to the body corporate’s charter, memorandum of association or by-laws, the head office of the body corporate in Canada is situated, and
-- **(b)** in the case of any other body corporate, the place at which a civil process in the province in which the loans or advances will be made can be served on the body corporate;
+- **(b)** in the case of any other body corporate, the place at which a civil process in the province in which the loans or advances will be made can be served on the body corporate; (*principal établissement*)
 
-***system of registration*** means all registers and other records required by subsection (4) to be prepared and maintained and any such system may be in a bound or loose-leaf form or in a photographic film form, or may be entered or recorded by any system of mechanical or electronic data processing or any other information storage device that is capable of reproducing any required information in intelligible written form within a reasonable time.
+***system of registration*** means all registers and other records required by subsection (4) to be prepared and maintained and any such system may be in a bound or loose-leaf form or in a photographic film form, or may be entered or recorded by any system of mechanical or electronic data processing or any other information storage device that is capable of reproducing any required information in intelligible written form within a reasonable time. (*archives*)
 
 **Regulations**
 
@@ -9053,7 +9053,7 @@ and in respect of any notice of intention registered before the day this Part co
 have priority over the rights of the bank in a security given to the bank under this section, in the order in which they are mentioned in this subsection, and if the bank takes possession or in any way disposes of the property covered by the security, the bank is liable for those claims to the extent of the net amount realized on the disposition of the property, after deducting the cost of realization, and the bank is subrogated in and to all the rights of the claimants to the extent of the amounts paid to them by the bank.
 
 - **(8)** [Repealed, 1997, c. 15, s. 47]
-> 1991, c. 46, s. 427; 1992, c. 27, s. 90; 1993, c. 6, s. 6(E), c. 28, s. 78; 1997, c. 15, s. 47; 1998, c. 36, s. 21; 2002, c. 7, s. 82(E); 2004, c. 25, s. 185.
+> 1991, c. 46, s. 427; 1992, c. 27, s. 90; 1993, c. 6, s. 6(E), c. 28, s. 78; 1997, c. 15, s. 47; 1998, c. 36, s. 21; 2002, c. 7, s. 82(E); 2004, c. 25, s. 185; 2009, c. 15, s. 13.
 
 
 
