@@ -1,6 +1,6 @@
 > [Aller à la version anglaise](/en/Acts/Statutes%20of%20Canada/1985/c.%2025%20(3e%20suppl.).md)
 
-# Loi sur les prêts destinés aux améliorations agricoles et à la commercialisation selon la formule coopérative
+# Loi canadienne sur les prêts agricoles
 
 **L.C. 1985, ch. 25 (3e suppl.)**
 
@@ -18,7 +18,9 @@
 
 **Titre abrégé**
 
-**1** Loi sur les prêts destinés aux améliorations agricoles et à la commercialisation selon la formule coopérative.
+**1** Loi canadienne sur les prêts agricoles.
+> L.R. (1985), ch. 25 (3<sup>e</sup> suppl.), art. 1; 2009, ch. 15, art. 2.
+
 
 
 
@@ -31,22 +33,23 @@
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***agriculteur*** Personne, physique ou morale, coopérative ou société de personnes exerçant une activité agricole au Canada.
+***agriculteur*** Personne, physique ou morale, coopérative ou société de personnes qui exerce une activité agricole au Canada ou qui a l’intention d’y exercer une telle activité. (*farmer*)
 
-***agriculture*** S’entend de la production des végétaux de plein champ, cultivés ou non, et des plantes horticoles, de l’élevage du bétail, de la volaille et des animaux à fourrure, de la production des oeufs, du lait, du miel, du sirop d’érable, du tabac, du bois provenant de lots boisés, de la laine et des plantes textiles et fourragères, de même que de tout autre élevage ou de toute autre production prévus par règlement.
+***agriculture*** S’entend de la production des végétaux de plein champ, cultivés ou non, et des plantes horticoles, de l’élevage du bétail, de la volaille et des animaux à fourrure, de la production des oeufs, du lait, du miel, du sirop d’érable, du tabac, du bois provenant de lots boisés, de la laine et des plantes textiles et fourragères, de même que de tout autre élevage ou de toute autre production prévus par règlement. (*farming*)
 
-***coopérative de commercialisation des produits agricoles*** Coopérative constituée en personne morale en application des lois du Canada ou d’une province dans le but d’oeuvrer à la transformation, à la distribution ou à la commercialisation des produits agricoles selon la formule coopérative, chacun des membres ou actionnaires de cette coopérative étant agriculteur.
+***coopérative de commercialisation des produits agricoles*** Coopérative constituée en personne morale en application des lois du Canada ou d’une province dans le but d’oeuvrer à la transformation, à la distribution ou à la commercialisation des produits agricoles selon la formule coopérative et dont plus de cinquante pour cent des membres ou actionnaires sont des agriculteurs. (*farm products marketing cooperative*)
 
-***ministre*** Le ministre de l’Agriculture et de l’Agroalimentaire.
+***ministre*** Le ministre de l’Agriculture et de l’Agroalimentaire. (*Minister*)
 
-***prêt*** Prêt régi par la présente loi en vertu de l’article 3.
+***prêt*** Prêt régi par la présente loi en vertu de l’article 3. (*loan*)
 
 ***prêteur***
 - **a)** Banque ou banque étrangère autorisée, au sens de l’article 2 de la [Loi sur les banques](/fr/Lois/Lois%20du%20Canada/1991/ch.%2046.md);
 - **b)** caisse populaire ou autre coopérative de crédit ayant été, à sa demande, agréée comme prêteur par le ministre pour l’application de la présente loi;
 - **c)** société régie par la [Loi sur les sociétés de fiducie et de prêt](/fr/Lois/Lois%20du%20Canada/1991/ch.%2045.md) ou société, société de secours ou société provinciale régie par la [Loi sur les sociétés d’assurances](/fr/Lois/Lois%20du%20Canada/1991/ch.%2047.md) et ayant été, à sa demande, agréée comme prêteur par le ministre pour l’application de la présente loi;
-- **d)** tout bureau du Trésor de l’Alberta constitué aux termes de la loi intitulée Treasury Branches Act, chapitre T-7 des *Revised Statutes of Alberta 1980*.
-> L.R. (1985), ch. 25 (3<sup>e</sup> suppl.), art. 2; 1991, ch. 47, art. 727; 1994, ch. 38, art. 25; 1999, ch. 28, art. 162.
+- **d)** tout bureau du Trésor de l’Alberta constitué aux termes de la loi intitulée Treasury Branches Act, chapitre T-7 des *Revised Statutes of Alberta 1980*;
+- **e)** tout autre organisme ayant été, à sa demande, agréé comme prêteur par le ministre, avec l’approbation du ministre des Finances, pour l’application de la présente loi. (*lender*)
+> L.R. (1985), ch. 25 (3<sup>e</sup> suppl.), art. 2; 1991, ch. 47, art. 727; 1994, ch. 38, art. 25; 1999, ch. 28, art. 162; 2009, ch. 15, art. 3.
 
 
 
@@ -65,7 +68,7 @@
 
 
 
-## Prêts garantis pour améliorations agricoles
+## Prêts agricoles garantis
 
 
 
@@ -73,12 +76,12 @@
 
 **4** 
 
-- **(1)** Sous réserve des autres dispositions de la présente loi et notamment des conditions prévues au paragraphe (3), le ministre indemnise le prêteur à concurrence de quatre-vingt-quinze pour cent du montant de toute perte occasionnée à celui-ci par l’octroi d’un prêt consenti à un agriculteur et destiné à l’une des opérations suivantes en rapport avec l’agriculture au Canada :
+- **(1)** Sous réserve des autres dispositions de la présente loi et notamment des conditions prévues au paragraphe (3), le ministre indemnise le prêteur à concurrence du pourcentage, d’au plus quatre-vingt-quinze pour cent, prévu par règlement — ou, à défaut, de quatre-vingt-quinze pour cent — du montant de toute perte occasionnée à celui-ci par l’octroi d’un prêt consenti à un agriculteur et destiné à l’une des opérations suivantes en rapport avec l’agriculture au Canada :
 	- **a)** achat d’outils, d’instruments, d’appareils et de machines, de toute sorte, non habituellement fixés à des biens immeubles, ou travaux majeurs de réparation ou de révision de ceux-ci;
-	- **b)** achat ou installation du matériel suivant, ou travaux majeurs de réparation ou de révision de celui-ci :
+	- **b)** achat ou installation du matériel suivant, ou travaux majeurs de réparation ou de révision de celui-ci :
 		- **(i)** instruments, appareils et machinerie, de toute sorte, habituellement fixés à des biens immeubles,
 		- **(ii)** machinerie et appareils destinés à la production ou à la distribution d’électricité, que ceux-ci soient ou non fixés à des biens immeubles;
-	- **c)** achat de bétail, y compris de :
+	- **c)** sous réserve des règlements éventuels, achat de bétail, y compris de :
 		- **(i)** chevaux et autres animaux de la race chevaline,
 		- **(ii)** bovins, ovins, chèvres et autres ruminants,
 		- **(iii)** porcs, volaille, abeilles et animaux à fourrure,
@@ -86,30 +89,37 @@
 	- **d)** modification ou amélioration de la machinerie et des appareils destinés à la production et à la distribution d’électricité, que ceux-ci soient ou non fixés à des biens immeubles;
 	- **e)** installation de clôtures ou travaux de drainage;
 	- **f)** construction, réparation ou modification d’un bâtiment ou d’un ouvrage d’une exploitation agricole ou tout ajout à ceux-ci;
-	- **g)** achat de nouvelles terres;
+	- **g)** achat de terres;
+	- **g.1)** achat d’actions d’une personne morale, de droits d’une société de personnes ou d’actions ou de droits de participation d’une coopérative, dont au moins quatre-vingt-dix pour cent de la juste valeur marchande de l’actif est attribuable à des biens visés au présent paragraphe utilisés principalement dans l’exploitation d’une entreprise agricole au Canada;
+	- **g.2)** achat d’actions d’une personne morale, de droits d’une société de personnes ou d’actions ou de droits de participation d’une coopérative, dont au moins quatre-vingt-dix pour cent de la juste valeur marchande de l’actif est attribuable à des actions, droits ou droits de participation d’une personne morale, société de personnes ou coopérative visées à l’alinéa g.1) ou à des biens visés au présent paragraphe utilisés principalement dans l’exploitation d’une entreprise agricole au Canada;
+	- **g.3)** achat d’actions d’une personne morale, de droits d’une société de personnes ou d’actions ou de droits de participation d’une coopérative, dont au moins quatre-vingt-dix pour cent de la juste valeur marchande de l’actif est attribuable à des actions, droits ou droits de participation d’une personne morale, société de personnes ou coopérative visées à l’alinéa g.2) ou à des biens visés au présent paragraphe utilisés principalement dans l’exploitation d’une entreprise agricole au Canada;
 	- **h)** toute autre opération prévue par règlement;
 	- **i)** consolidation ou refinancement de dettes contractées pour l’une des opérations visées aux alinéas a) à h), selon ce que les règlements prévoient à cet égard.
 
 **Exclusion des améliorations aux résidences privées**
 
-- **(2)** Le paragraphe (1) ne s’applique pas aux prêts consentis pour le financement d’améliorations à une résidence privée.
+- **(2)** Le paragraphe (1) ne s’applique pas aux prêts consentis pour le financement de la construction d’une résidence privée ou d’améliorations à celle-ci.
 
 **Conditions**
 
-- **(3)** Les conditions visées au paragraphe (1) sont les suivantes :
+- **(3)** Les conditions visées au paragraphe (1) sont les suivantes :
 	- **a)** la demande de prêt, signée par l’agriculteur, a été faite en la forme établie ou approuvée par le ministre et précisait l’opération à laquelle le prêt était destiné;
-	- **b)** la nature — précisée dans la demande — du droit de l’agriculteur sur l’exploitation agricole était prévue par règlement pour l’opération en cause;
-	- **c)** la somme du principal du prêt et du montant impayé de prêts antérieurs — prêts consentis en application de la présente loi et prêts garantis consentis en application de la [Loi sur les prêts destinés aux améliorations agricoles](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-3.md), mentionnés par l’agriculteur dans sa demande ou dont le prêteur avait connaissance — n’excédait pas, au moment de l’octroi du prêt, deux cent cinquante mille dollars;
-	- **d)** le contrat de prêt prévoyait le remboursement intégral :
+	- **b)** dans le cas où l’opération visée par le prêt porte sur un bien et que les règlements prévoient le droit ou l’intérêt que l’agriculteur doit détenir ou acquérir à l’égard du bien, la nature — précisée dans la demande — du droit ou de l’intérêt de l’agriculteur sur le bien, ou, s’il n’en a aucun au moment de la demande, de celui qu’il entend acquérir, était prévue par les règlements pour l’opération en cause;
+	- **c)** la somme du principal du prêt et du montant impayé de prêts antérieurs — prêts consentis en application de la présente loi mentionnés par l’agriculteur dans sa demande ou dont le prêteur avait connaissance — n’excédait pas, au moment de l’octroi du prêt :
+		- **(i)** d’une part, à l’égard de l’ensemble des opérations mentionnées au paragraphe (1), la somme réglementaire ou, à défaut, cinq cent mille dollars,
+		- **(ii)** d’autre part, à l’égard de l’ensemble des opérations mentionnées aux alinéas (1)a) à e) et g.1) à i), la somme réglementaire ou, à défaut, trois cent cinquante mille dollars;
+	- **d)** le contrat de prêt prévoyait le remboursement intégral :
 		- **(i)** s’agissant d’un prêt destiné à l’opération visée à l’alinéa (1)g), dans un délai maximal de quinze ans,
 		- **(ii)** s’agissant d’un prêt destiné à une autre opération, dans un délai maximal de dix ans;
-	- **e)** les seuls frais afférents au prêt tant que l’agriculteur n’était pas en défaut étaient :
+	- **e)** les seuls frais afférents au prêt tant que l’agriculteur n’était pas en défaut étaient :
 		- **(i)** les droits ou frais prévus par règlement,
 		- **(ii)** des frais ne dépassant pas le montant des droits payables par le prêteur conformément à l’alinéa 12(1)b),
 		- **(iii)** les intérêts à un taux ne dépassant pas le taux réglementaire ou le taux déterminé selon la ou les formules prévues par règlement;
 	- **f)** la sûreté fournie pour le remboursement du prêt était conforme aux règlements;
 	- **g)** le prêt a été consenti aux autres conditions réglementaires applicables aux prêts destinés à l’opération en cause;
 	- **h)** le prêteur a, tant lors de l’octroi du prêt que dans son suivi, fait preuve de la même prudence et pris les mêmes précautions que s’il s’agissait d’un prêt non régi par la présente loi et consenti dans le cours normal de son activité.
+> L.R. (1985), ch. 25 (3<sup>e</sup> suppl.), art. 4; 2009, ch. 15, art. 5.
+
 
 
 
@@ -118,11 +128,13 @@
 
 **5** 
 
-- **(1)** Pour l’application de l’alinéa 4(3)c), le principal d’un prêt ne dépassant pas deux cent cinquante mille dollars et consenti conjointement à plusieurs agriculteurs détenant chacun, sur une exploitation agricole distincte, un droit de nature réglementaire est réputé réparti également entre les agriculteurs.
+- **(1)** Pour l’application de l’alinéa 4(3)c), le principal d’un prêt consenti conjointement à plusieurs agriculteurs détenant chacun, sur une exploitation agricole distincte, un droit de nature réglementaire est réputé réparti également entre les agriculteurs.
 
 **Prêt antérieur à des coemprunteurs**
 
 - **(2)** Pour l’application de l’alinéa 4(3)c), le montant impayé d’un prêt antérieurement consenti conjointement à plusieurs agriculteurs détenant chacun, sur une exploitation agricole distincte, un droit de nature réglementaire est réputé réparti également entre les agriculteurs.
+> L.R. (1985), ch. 25 (3<sup>e</sup> suppl.), art. 5; 2009, ch. 15, art. 6.
+
 
 
 
@@ -135,7 +147,7 @@
 
 **6** 
 
-- **(1)** Sous réserve des autres dispositions de la présente loi et notamment des conditions prévues au paragraphe (2), le ministre indemnise le prêteur à concurrence de quatre-vingt-quinze pour cent du montant de toute perte occasionnée à celui-ci par l’octroi d’un prêt consenti à une coopérative de commercialisation des produits agricoles et destiné à l’une des opérations suivantes, en rapport avec la transformation, la distribution ou la commercialisation des produits agricoles au Canada :
+- **(1)** Sous réserve des autres dispositions de la présente loi et notamment des conditions prévues au paragraphe (2), le ministre indemnise le prêteur à concurrence du pourcentage, d’au plus quatre-vingt-quinze pour cent, prévu par règlement — ou, à défaut, de quatre-vingt-quinze pour cent — du montant de toute perte occasionnée à celui-ci par l’octroi d’un prêt consenti à une coopérative de commercialisation des produits agricoles et destiné à l’une des opérations ci-après, en rapport avec la transformation, la distribution ou la commercialisation des produits agricoles au Canada :
 	- **a)** achat de terres;
 	- **b)** achat ou construction d’un bâtiment ou d’un ouvrage;
 	- **c)** réparation ou modification d’un bâtiment ou d’un ouvrage ou ajout à ceux-ci;
@@ -144,14 +156,16 @@
 
 **Conditions**
 
-- **(2)** Les conditions visées au paragraphe (1) sont les suivantes :
+- **(2)** Les conditions visées au paragraphe (1) sont les suivantes :
 	- **a)** la demande de prêt, signée par la coopérative de commercialisation des produits agricoles, était en la forme établie ou approuvée par le ministre et précisait l’opération à laquelle le prêt était destiné;
-	- **b)** la demande énonçait que tous les membres ou actionnaires, selon le cas, de la coopérative de commercialisation des produits agricoles étaient des agriculteurs et la nature du droit — précisée dans la demande — de la coopérative sur l’exploitation de l’entreprise de commercialisation était prévue par les règlements pour l’opération en cause;
-	- **c)** la somme du principal du prêt et du montant impayé de prêts antérieurs — mentionnés par la coopérative dans sa demande ou dont le prêteur avait connaissance — n’excédait pas, au moment de l’octroi du prêt, deux cent cinquante mille dollars ou le montant plus élevé approuvé par le ministre en application du paragraphe (3);
-	- **d)** le contrat de prêt prévoyait le remboursement intégral :
+	- **b)** la demande énonçait que plus de cinquante pour cent des membres ou actionnaires, selon le cas, de la coopérative de commercialisation des produits agricoles étaient des agriculteurs et, dans le cas où l’opération visée par le prêt porte sur un bien et que les règlements prévoient le droit ou l’intérêt que la coopérative doit détenir à l’égard du bien, la nature du droit ou de l’intérêt — précisée dans la demande — de la coopérative sur le bien était prévue par les règlements pour l’opération en cause;
+	- **c)** la somme du principal du prêt et du montant impayé de prêts antérieurs — mentionnés par la coopérative dans sa demande ou dont le prêteur avait connaissance — n’excédait pas, au moment de l’octroi du prêt :
+		- **(i)** d’une part, à l’égard de l’ensemble des opérations mentionnées au paragraphe (1), la somme réglementaire — ou, à défaut, cinq cent mille dollars — ou la somme plus élevée approuvée par le ministre en vertu du paragraphe (3),
+		- **(ii)** d’autre part, à l’égard de l’ensemble des opérations mentionnées aux alinéas (1)d) et e), la somme réglementaire — ou, à défaut, trois cent cinquante mille dollars — ou la somme plus élevée approuvée par le ministre en vertu du paragraphe (3);
+	- **d)** le contrat de prêt prévoyait le remboursement intégral :
 		- **(i)** s’agissant d’un prêt destiné à l’opération visée aux alinéas (1)a) ou b), dans un délai maximal de vingt ans,
 		- **(ii)** s’agissant d’un prêt destiné à une autre opération, dans un délai maximal de dix ans;
-	- **e)** les seuls frais afférents au prêt tant que la coopérative n’était pas en défaut étaient :
+	- **e)** les seuls frais afférents au prêt tant que la coopérative n’était pas en défaut étaient :
 		- **(i)** les droits ou frais prévus par règlement,
 		- **(ii)** des frais ne dépassant pas le montant des droits payables par le prêteur conformément à l’alinéa 12(1)b),
 		- **(iii)** les intérêts à un taux ne dépassant pas le taux réglementaire ou le taux déterminé selon la ou les formules prévues par règlement;
@@ -161,7 +175,9 @@
 
 **Augmentation de la limite par le ministre**
 
-- **(3)** Le ministre peut, à la demande d’un prêteur présentée avant l’octroi d’un prêt, approuver une augmentation du montant de la limite prévue à l’alinéa (2)c) jusqu’à concurrence de trois millions de dollars.
+- **(3)** Le ministre peut, à la demande d’un prêteur présentée avant l’octroi d’un prêt, approuver une augmentation des sommes mentionnées aux sous-alinéas (2)c)(i) et (ii) jusqu’à concurrence de la somme totale prévue par règlement ou, à défaut, de trois millions de dollars.
+> L.R. (1985), ch. 25 (3<sup>e</sup> suppl.), art. 6; 2009, ch. 15, art. 7.
+
 
 
 
@@ -172,8 +188,8 @@
 
 **Plafond total**
 
-**7** Le ministre n’est pas tenu d’indemniser les prêteurs des pertes subies par suite des prêts consentis au cours d’un exercice donné une fois atteint, pour le principal des prêts consentis conformément à la présente loi et des prêts garantis consentis conformément à la [Loi sur les prêts destinés aux améliorations agricoles](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-3.md), au cours de l’exercice et des quatre exercices précédents, le plafond de trois milliards de dollars.
-> L.R. (1985), ch. 25 (3<sup>e</sup> suppl.), art. 7; 1995, ch. 13, art. 1.
+**7** Le ministre n’est pas tenu d’indemniser les prêteurs des pertes subies par suite des prêts consentis au cours d’un exercice donné une fois atteint, pour le principal des prêts consentis conformément à la présente loi, au cours de l’exercice et des quatre exercices précédents, le plafond de la somme prévue par règlement ou, à défaut, de trois milliards de dollars.
+> L.R. (1985), ch. 25 (3<sup>e</sup> suppl.), art. 7; 1995, ch. 13, art. 1; 2009, ch. 15, art. 8.
 
 
 
@@ -189,18 +205,17 @@
 
 
 
-**Valeur estimée : limite**
+**Valeur estimée : limite**
 
-**9** Le ministre n’est tenu d’indemniser le prêteur de la perte occasionnée à celui-ci par l’octroi d’un prêt qu’à concurrence de quatre-vingts pour cent de la valeur estimée du bien qui fait l’objet du prêt, selon l’estimation qui en est faite à la date où le prêt est consenti.
+**9** Le ministre n’est tenu d’indemniser le prêteur de la perte occasionnée à celui-ci par l’octroi d’un prêt qu’à concurrence des pourcentages suivants :
+- **a)** dans le cas où l’emprunteur est un agriculteur qui, à la date de la demande visée aux alinéas 4(3)b) ou 6(2)b), n’exerçait pas d’activité agricole au Canada ou y exerçait une telle activité depuis moins de six ans, le pourcentage prévu par règlement — ou, à défaut, quatre-vingt-dix pour cent — de la valeur estimée du bien qui fait l’objet du prêt, selon l’estimation qui en est faite à la date où le prêt est consenti;
+- **b)** dans les autres cas, le pourcentage prévu par règlement — ou, à défaut, quatre-vingts pour cent — de cette valeur.
+> L.R. (1985), ch. 25 (3<sup>e</sup> suppl.), art. 9; 2009, ch. 15, art. 9.
 
 
 
 
-**Limite pour les prêts supérieurs à 100 000 $**
-
-**10** Le ministre n’est pas tenu d’indemniser le prêteur des pertes occasionnées à celui-ci par l’octroi d’un prêt dans le cas où, au moment où le prêt est consenti, le rapport entre les éléments suivants est supérieur à celui que prévoient les règlements :
-- **a)** la somme de tous les prêts non remboursés, consentis à des agriculteurs et dont le principal est supérieur à cent mille dollars;
-- **b)** la somme du principal de tous les prêts non remboursés et consentis à des agriculteurs.
+**10** [Abrogé, 2009, ch. 15, art. 9]
 
 
 
@@ -229,7 +244,9 @@
 
 **Frais juridiques**
 
-**13** Le ministre n’est tenu d’indemniser le prêteur des frais juridiques, coûts ou débours engagés que si ceux-ci ont été évalués et permis par le sous-ministre de la Justice.
+**13** Le ministre n’est tenu d’indemniser le prêteur des frais juridiques, coûts ou débours engagés que si ceux-ci ont été déclarés conformes au barême établi par lui après consultation du ministre de la Justice.
+> L.R. (1985), ch. 25 (3<sup>e</sup> suppl.), art. 13; 2009, ch. 15, art. 10.
+
 
 
 
@@ -255,25 +272,26 @@
 
 **15** 
 
-- **(1)** Le gouverneur en conseil peut, sur recommandation du ministre et du ministre des Finances et par règlement :
+- **(1)** Le gouverneur en conseil peut, sur recommandation du ministre et du ministre des Finances et par règlement :
 	- **a)** définir, pour l’application de la présente loi, « réparation », « modification » et « ajout », « majeur », quand ce terme qualifie des travaux de réparation ou de révision, ainsi que « travaux de drainage »;
-	- **b)** prévoir à l’égard des prêts destinés à une opération donnée :
+	- **b)** prévoir à l’égard des prêts destinés à une opération donnée :
 		- **(i)** la sûreté que le prêteur doit exiger,
 		- **(ii)** les conditions du prêt, notamment quant à son remboursement et à son assurance,
 		- **(iii)** le taux d’intérêt maximal payable par un agriculteur ou par une coopérative de commercialisation des produits agricoles ou la manière de le calculer;
+	- **b.1)** préciser, pour l’application de l’alinéa 4(1)c), la période minimale pendant laquelle le bétail doit demeurer en la possession de l’agriculteur qui contracte l’emprunt ou le but dans lequel il en fait l’acquisition;
+	- **b.2)** prévoir des pourcentages pour l’application des paragraphes 4(1) et 6(1) et des alinéas 9a) et b);
+	- **b.3)** prévoir des sommes pour l’application des alinéas 4(3)c) et 6(2)c), du paragraphe 6(3) et de l’article 7;
 	- **c)** prévoir la possibilité pour les prêteurs, en cas de défaut de remboursement — ou si la défaillance est imminente — , de modifier ou de réviser, avec le consentement du ministre et de l’agriculteur ou de la coopérative de commercialisation des produits agricoles, les conditions du prêt ou d’un contrat connexe, notamment par un report d’échéance, sans que soit limitée pour autant la responsabilité du ministre;
 	- **d)** prévoir les mesures d’ordre légal, judiciaire ou autre, à prendre par les prêteurs en cas de défaillance de l’emprunteur, ainsi que la procédure à suivre pour le recouvrement du montant impayé du prêt et pour l’aliénation ou la réalisation des sûretés qu’ils détiennent à titre de garantie de remboursement;
 	- **e)** établir le mode de calcul du montant de la perte occasionnée à un prêteur par un prêt;
 	- **f)** fixer les formalités à remplir par les prêteurs pour se faire indemniser des pertes qui leur sont occasionnées par un prêt;
 	- **g)** prévoir les mesures à prendre par les prêteurs pour recouvrer, au nom du ministre, l’indemnité que celui-ci leur a versée sous le régime de la présente loi et prévoir la possibilité de recouvrement par le ministre lui-même en cas de négligence de la part du prêteur;
-	- **h)** obliger les prêteurs à fournir au ministre des relevés périodiques portant sur les prêts qu’ils ont consentis;
+	- **h)** préciser les renseignements que les prêteurs doivent fournir au ministre relativement aux prêts qu’ils ont consentis et le moment de leur fourniture;
 	- **i)** prendre toute mesure d’ordre réglementaire prévue par la présente loi;
 	- **j)** prendre toute autre mesure d’application de la présente loi.
 
-**Modification de l’article 4 ou 6**
-
-- **(2)** Le gouverneur en conseil peut, par décret pris sur recommandation du ministre et du ministre des Finances, modifier les paragraphes 4(1) et 6(1) par substitution d’un autre pourcentage à celui qui y apparaît déjà, pourvu que cet autre pourcentage ne dépasse pas quatre-vingt-quinze pour cent.
-> L.R. (1985), ch. 25 (3<sup>e</sup> suppl.), art. 15; 1992, ch. 1, art. 67.
+- **(2)** [Abrogé, 2009, ch. 15, art. 11]
+> L.R. (1985), ch. 25 (3<sup>e</sup> suppl.), art. 15; 1992, ch. 1, art. 67; 2009, ch. 15, art. 11.
 
 
 
@@ -358,15 +376,24 @@
 
 **Rapport annuel**
 
-**22** 
+**22** Au plus tard le 30 juin de chaque année, le ministre établit un rapport sur l’application de la présente loi au cours de l’exercice ayant pris fin le 31 mars précédent et il fait déposer une copie de ce rapport devant chaque chambre du Parlement dans les quinze premiers jours de séance de cette chambre suivant son établissement.
+> L.R. (1985), ch. 25 (3<sup>e</sup> suppl.), art. 22; 2009, ch. 15, art. 12.
 
-- **(1)** Au plus tard le 30 juin de chaque année, le ministre établit un rapport sur l’application de la présente loi et de la [Loi sur les prêts destinés aux améliorations agricoles](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-3.md) au cours de l’exercice ayant pris fin le 31 mars précédent et il fait déposer une copie de ce rapport devant chaque chambre du Parlement dans les quinze premiers jours de séance de cette chambre suivant son achèvement.
 
-**Premier rapport**
 
-- **(2)** Le rapport à établir au plus tard le 30 juin 1988 couvre :
-	- **a)** l’application de la présente loi pour la période commençant à la date de l’entrée en vigueur des articles 2 à 21 et se terminant le 31 mars 1988;
-	- **b)** l’application de la [Loi sur les prêts destinés aux améliorations agricoles](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-3.md) pour la période commençant le 1<sup>er</sup> janvier 1987 et se terminant le 31 mars 1988.
+
+
+**Examen complet**
+
+**22.1** 
+
+- **(1)** Tous les cinq ans après l’entrée en vigueur du présent paragraphe, le ministre procède à l’examen des dispositions et de l’application de la présente loi en consultation avec le ministre des Finances.
+
+**Dépôt du rapport**
+
+- **(2)** Le ministre fait déposer devant chaque chambre du Parlement, dans les trente premiers jours de séance de celle-ci suivant l’établissement du rapport de l’examen, une copie de celui-ci.
+> 2009, ch. 15, art. 12.
+
 
 
 
