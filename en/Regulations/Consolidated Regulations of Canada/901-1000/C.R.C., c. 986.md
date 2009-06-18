@@ -317,8 +317,8 @@ the hours of work of each of those employees in a day and in a week may be calcu
 	- **(a)** the association has set up and administers a central pay office to record the employment of the employees of the employers who are members of the association and to pay wages to such employees on behalf of their employers; and
 	- **(b)** the Minister is satisfied that the central pay office so set up by the association of employers is authorized to collect from each of the members of the association and pay out on their behalf to their employees the pay required to be paid to those employees pursuant to this section.
 
-- **(6)** For the purposes of section 206, subsections 210(2), 230(1) and 235(1) and paragraphs 239(1)(a) and 240(1)(a) of the Act, where an employee is engaged in multi-employer employment, that employee shall be deemed to be continuously employed.
-> SOR/78-560, s. 3; SOR/81-473, s. 1; SOR/91-461, s. 18; SOR/2002-113, s. 5.
+- **(6)** For the purposes of section 206, subsections 210(2), 230(1) and 235(1), paragraphs 239(1)(a) and 240(1)(a) and section 247.5 of the Act, if an employee is engaged in multi-employer employment, that employee is deemed to be continuously employed.
+> SOR/78-560, s. 3; SOR/81-473, s. 1; SOR/91-461, s. 18; SOR/2002-113, s. 5; SOR/2009-194, s. 1.
 
 
 
@@ -395,14 +395,19 @@ the hours of work of each of those employees in a day and in a week may be calcu
 	- **(g)** the dates of commencement and termination of annual vacations, and the year of employment in respect of which each such vacation is given;
 	- **(g.1)** any written agreement between the employer and the employee to postpone or waive the employee’s entitlement to annual vacation pursuant to subsection 14(1);
 	- **(g.2)** where the employer determines a year of employment pursuant to paragraph (b) of the definition “year of employment” in section 183 of the Act, any notice provided to employees pursuant to section 12;
-	- **(h)** the dates of commencement and termination of any leave granted to the employee under Division VII of the Act, a copy of any notice concerning the leave and any medical certificate submitted by the employee in respect of that leave ;
+	- **(h)** the dates of commencement and termination of any leave granted to the employee under Division VII of the Act, a copy of any notice concerning the leave and any medical certificate submitted by the employee in respect of that leave;
 	- **(h.1)** the dates of commencement and termination of any job modification or reassignment of the employee provided pursuant to Division VII of the Act and a copy of any notice provided by the employer concerning the job modification or reassignment;
 	- **(i)** any general holiday or other holiday with pay granted to the employee pursuant to Division V of the Act, any notice of substitution of a general holiday required to be posted pursuant to section 195 of the Act, and, in respect of employees not subject to a collective agreement, proof of agreement for the substitution of a general holiday by at least 70 per cent of affected employees;
 	- **(j)** where hours of work are averaged pursuant to section 6, any notice concerning the averaging of hours of work, details of any reductions in the standard and maximum hours of work made pursuant to subsections 6(7), (8) and (9), and the number of hours for which the employee was entitled to be paid at the overtime rate of wages established by section 174 of the Act;
 	- **(k)** the employer’s pay periods;
 	- **(l)** a copy of any medical certificate provided in respect of sick leave and any request made for the certificate by the employer in accordance with paragraph 239(1)(c) of the Act, and any notice of termination of employment or intention to terminate employment given in accordance with Division IX or X of the Act;
-	- **(m)** the dates of any bereavement leave granted to an employee pursuant to Division VIII of the Act; and
-	- **(n)** any notice of a work schedule that is required to be posted by subsection 170(3) or 172(3) of the Act, and proof of agreement to the work schedule by at least 70 per cent of the affected employees.
+	- **(m)** the dates of any bereavement leave granted to an employee pursuant to Division VIII of the Act;
+	- **(n)** any notice of a work schedule that is required to be posted by subsection 170(3) or 172(3) of the Act, and proof of agreement to the work schedule by at least 70 per cent of the affected employees; and
+	- **(o)** with respect to leave granted under Division XV.2 of the Act to an employee who is a member of the reserve force,
+		- **(i)** the dates of commencement and termination of the leave and a copy of any notice concerning the leave,
+		- **(ii)** a copy of any medical certificate submitted by the employee in respect of that leave,
+		- **(iii)** a copy of any document provided under section 247.7 of the Act, and
+		- **(iv)** a copy of any notice issued under subsection 247.8(1) or 247.95(2) of the Act.
 
 - **(3)** Any method of reporting absences from employment or overtime hours of work that discloses the particulars required by subsection (2), including regular daily hours of work, shall be a sufficient record for the purposes of these Regulations.
 
@@ -412,7 +417,7 @@ the hours of work of each of those employees in a day and in a week may be calcu
 	- **(c)** the date the employee returned to work, or a copy of any notification from the employer to the employee and any trade union representing the employee that return to work was not reasonably practicable and the reasons why it was not.
 
 - **(5)** An employer shall preserve the confidentiality of any certificate of a qualified medical practitioner provided to the employer concerning an employee.
-> SOR/78-560, s. 4; SOR/91-461, s. 21; SOR/94-668, s. 7.
+> SOR/78-560, s. 4; SOR/91-461, s. 21; SOR/94-668, s. 7; SOR/2009-194, s. 2.
 
 
 
@@ -484,10 +489,10 @@ the hours of work of each of those employees in a day and in a week may be calcu
 
 
 
-**29** For the purposes of Divisions IV, VII, VIII, X, XI, XIII and XIV of the Act, the absence of an employee from employment shall be deemed not to have interrupted continuity of employment where
+**29** For the purposes of Divisions IV, VII, VIII, X, XI, XIII, XIV and XV.2 of the Act, the absence of an employee from employment is deemed not to have interrupted continuity of employment if
 - **(a)** the employee is absent from employment as a result of a lay-off that is not a termination under these Regulations; or
 - **(b)** the employer permits or condones the employee’s absence from employment.
-> SOR/91-461, s. 29.
+> SOR/91-461, s. 29; SOR/2009-194, s. 3.
 
 
 
@@ -4808,64 +4813,64 @@ These provisions include standards relating to the following:
 <table>
 <tr>
 <td>**Hours of work**</td>
-<td></td>
 <td>**Minimum wages**</td>
 </tr>
 <tr>
 <td>**General holidays**</td>
-<td></td>
 <td>**Annual vacations**</td>
 </tr>
 <tr>
 <td>**Multi-employer employment**</td>
-<td></td>
 <td>**Equal wages**</td>
 </tr>
 <tr>
 <td>**Maternity leave**</td>
-<td></td>
 <td>**Parental leave**</td>
 </tr>
 <tr>
 <td>**Maternity-related reassignment and leave**</td>
-<td></td>
 <td>**Work-related illness and injury**</td>
 </tr>
 <tr>
 <td>**Sick leave**</td>
-<td></td>
 <td>**Bereavement leave**</td>
 </tr>
 <tr>
 <td>**Compassionate care leave**</td>
-</tr>
-<tr>
-<td>**Group termination of employment**</td>
-<td></td>
 <td>**Individual termination of employment**</td>
 </tr>
 <tr>
-<td>**Severance pay**</td>
-<td></td>
+<td>**Group termination of employment**</td>
 <td>**Unjust dismissal**</td>
+</tr>
+<tr>
+<td>**Severance pay**</td>
+<td>**Garnishment of wages**</td>
 </tr>
 <tr>
 <td>**Sexual harassment**</td>
 <td></td>
-<td>**Garnishment of wages**</td>
 </tr>
 <tr>
 <td>**Payment of wages**</td>
+<td></td>
+</tr>
+<tr>
+<td>**Leave of Absence for Members of the Reserve Force**</td>
+<td></td>
 </tr>
 </table>
 
-For more information concerning these provisions, please contact your nearest Labour Program office of the Department of Human Resources and Skills Development or visit the Web site address: http://www.hrsdc.gc.ca/en/gateways/topics/lxn-gxr.shtml
+For more information concerning these provisions, please contact your nearest Labour Program office of the Department of Human Resources and Skills Development or visit the Web site address:
+
+
+http://www.hrsdc.gc.ca/en/gateways/topics/lxn-gxr.shtml
 
 
 All inquiries will be treated confidentially.
 
 
-> SOR/91-461, s. 36; SOR/94-668, s. 14; SOR/2006-231, s. 5.
+> SOR/91-461, s. 36; SOR/94-668, s. 14; SOR/2006-231, s. 5; SOR/2009-194, s. 4.
 
 
 
