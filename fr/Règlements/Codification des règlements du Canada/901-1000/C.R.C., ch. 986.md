@@ -318,8 +318,8 @@ Autorités habilitantes :
 	- **a)** l’association a institué et administre un bureau central de paie chargé de conserver les dossiers d’emploi des employés au service des employeurs qui sont membres de l’association et de verser le salaire auxdits employés au nom de leurs employeurs; et si
 	- **b)** le ministre est convaincu que le bureau central de paie ainsi institué par l’association d’employeurs est autorisé à recueillir de chacun de ses membres et à verser en leur nom à leurs employés le salaire qu’ils sont tenus de leur verser conformément au présent article.
 
-- **(6)** Pour l’application de l’article 206, des paragraphes 210(2), 230(1) et 235(1) et des alinéas 239(1)a) et 240(1)a) de la Loi, l’employé qui travaille au service de plusieurs employeurs est réputé être en service continu.
-> DORS/78-560, art. 3; DORS/81-473, art. 1; DORS/91-461, art. 18; DORS/2002-113, art. 5.
+- **(6)** Pour l’application de l’article 206, des paragraphes 210(2), 230(1) et 235(1), des alinéas 239(1)a) et 240(1)a) et de l’article 247.5 de la Loi, l’employé au service de plusieurs employeurs est réputé être en service continu.
+> DORS/78-560, art. 3; DORS/81-473, art. 1; DORS/91-461, art. 18; DORS/2002-113, art. 5; DORS/2009-194, art. 1.
 
 
 
@@ -403,7 +403,12 @@ Autorités habilitantes :
 	- **k)** les périodes de paie adoptées par l’employeur;
 	- **l)** un exemplaire de chaque certificat médical fourni à l’égard d’un congé de maladie et de chaque demande de certificat présentée par l’employeur conformément à l’alinéa 239(1)c) de la Loi, et tout avis ou préavis de licenciement donné conformément aux sections IX ou X de la Loi;
 	- **m)** la date de tout congé de décès accordé à l’employé en vertu de la section VIII de la Loi;
-	- **n)** tout avis concernant un horaire de travail dont l’affichage est exigé par les paragraphes 170(3) ou 172(3) de la Loi et la preuve de l’approbation de cet horaire par au moins 70 pour cent des employés concernés.
+	- **n)** tout avis concernant un horaire de travail dont l’affichage est exigé par les paragraphes 170(3) ou 172(3) de la Loi et la preuve de l’approbation de cet horaire par au moins 70 pour cent des employés concernés;
+	- **o)** à l’égard de tout congé accordé à l’employé membre de la force de réserve aux termes de la section XV.2 de la Loi :
+		- **(i)** la date de début et de fin du congé et un exemplaire de tout avis relatif au congé,
+		- **(ii)** un exemplaire de tout certificat médical fourni par l’employé à l’égard du congé,
+		- **(iii)** un exemplaire de tout document fourni conformément à l’article 247.7 de la Loi,
+		- **(iv)** un exemplaire de tout avis donné aux termes des paragraphes 247.8(1) ou 247.95(2) de la Loi.
 
 - **(3)** Tout mode de déclaration des absences du travail ou des heures de travail supplémentaires qui permet d’obtenir les détails requis au paragraphe (2), y compris les heures normales de travail par jour, répond aux exigences du présent règlement en matière de tenue de registres.
 
@@ -413,7 +418,7 @@ Autorités habilitantes :
 	- **c)** la date du retour de l’employé au travail, ou un exemplaire de l’avis de l’employeur informant l’employé et le syndicat le représentant de l’impossibilité de le réintégrer, motifs à l’appui.
 
 - **(5)** L’employeur doit garder confidentiel tout certificat d’un médecin qualifié qu’il reçoit à l’égard d’un employé.
-> DORS/78-560, art. 4; DORS/91-461, art. 21; DORS/94-668, art. 7.
+> DORS/78-560, art. 4; DORS/91-461, art. 21; DORS/94-668, art. 7; DORS/2009-194, art. 2.
 
 
 
@@ -485,10 +490,10 @@ Autorités habilitantes :
 
 
 
-**29** Pour l’application des sections IV, VII, VIII, X, XI, XIII et XIV de la Loi, n’est pas réputée avoir interrompu la continuité de l’emploi l’absence d’un employé qui est :
+**29** Pour l’application des sections IV, VII, VIII, X, XI, XIII, XIV et XV.2 de la Loi, n’est pas réputée avoir interrompu la continuité de l’emploi l’absence d’un employé qui est :
 - **a)** soit attribuable à une mise à pied qui n’est pas un licenciement aux termes du présent règlement;
 - **b)** soit autorisée ou acceptée par l’employeur.
-> DORS/91-461, art. 29.
+> DORS/91-461, art. 29; DORS/2009-194, art. 3.
 
 
 
@@ -4738,64 +4743,64 @@ Ces normes visent notamment les questions suivantes :
 <table>
 <tr>
 <td>**La durée du travail**</td>
-<td></td>
 <td>**Le salaire minimum**</td>
 </tr>
 <tr>
 <td>**Les jours fériés**</td>
-<td></td>
 <td>**Les congés annuels**</td>
 </tr>
 <tr>
 <td>**Le travail au service de plusieurs employeurs**</td>
-<td></td>
 <td>**L’égalité des salaires**</td>
 </tr>
 <tr>
 <td>**Le congé de maternité**</td>
-<td></td>
 <td>**Le congé parental**</td>
 </tr>
 <tr>
 <td>**La réaffectation et le congé liés à la maternité**</td>
-<td></td>
 <td>**Les accidents et les maladies professionnels**</td>
 </tr>
 <tr>
 <td>**Les congés de maladie**</td>
-<td></td>
 <td>**Les congés de décès**</td>
 </tr>
 <tr>
 <td>**Le congé de soignant**</td>
-</tr>
-<tr>
-<td>**Les licenciements collectifs**</td>
-<td></td>
 <td>**Les licenciements individuels**</td>
 </tr>
 <tr>
-<td>**L’indemnité de départ**</td>
-<td></td>
+<td>**Les licenciements collectifs**</td>
 <td>**Le congédiement injuste**</td>
+</tr>
+<tr>
+<td>**L’indemnité de départ**</td>
+<td>**La saisie-arrêt**</td>
 </tr>
 <tr>
 <td>**Le harcèlement sexuel**</td>
 <td></td>
-<td>**La saisie-arrêt**</td>
 </tr>
 <tr>
 <td>**Le paiement du salaire**</td>
+<td></td>
+</tr>
+<tr>
+<td>**Le congé pour les membres de la force de réserve**</td>
+<td></td>
 </tr>
 </table>
 
-Pour de plus amples renseignements sur ces normes, veuillez communiquer avec le bureau du Programme du travail, Ministère des Ressources humaines et du Développement des compétences, ou consultez le site Web http://www.rhdcc.gc.ca/fr/passerelles/topiques/lxn-gxr.shtml
+Pour de plus amples renseignements sur ces normes, veuillez communiquer avec le bureau du Programme du travail, Ministère des Ressources humaines et du Développement des compétences, ou consultez le site Web
+
+
+http://www.rhdcc.gc.ca/fr/passerelles/topiques/lxn-gxr.shtml
 
 
 Les demandes de renseignements seront traitées de façon confidentielle.
 
 
-> DORS/91-461, art. 36; DORS/94-668, art. 14; DORS/2006-231, art. 5.
+> DORS/91-461, art. 36; DORS/94-668, art. 14; DORS/2006-231, art. 5; DORS/2009-194, art. 4.
 
 
 
