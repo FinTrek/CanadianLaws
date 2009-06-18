@@ -2344,7 +2344,7 @@ NOTE
 
 ***certificat d’enregistrement*** Certificat délivré par le registraire attestant que la variété qui y est nommée est enregistrée en vertu du présent règlement. (*Certificate of Registration*)
 
-***comité de recommandation*** Comité provincial, régional ou national qui possède la compétence voulue pour administrer les essais sur la valeur des variétés et que le ministre a désigné en vue de faire des recommandations d’enregistrement à cet égard. (*recommending committee*)
+***comité de recommandation*** Comité que le ministre approuve conformément à l’article 65.1. (*recommending committee*)
 
 ***demandeur*** Personne :
 - **a)** qui réside en permanence au Canada;
@@ -2361,8 +2361,8 @@ NOTE
 
 ***titulaire*** Personne à qui est délivré un certificat d’enregistrement. (*registrant*)
 
-***valeur*** S’applique à une variété qui est égale ou supérieure aux variétés témoins applicables en ce qui a trait aux caractéristiques qui en rendent l’utilisation avantageuse à des fins particulières à un lieu donné au Canada. (*merit*) 
-> DORS/86-849, art. 8; DORS/96-252, art. 3; DORS/2000-184, art. 86.
+***valeur*** S’applique à une variété qui est égale ou supérieure aux variétés témoins applicables en ce qui a trait à une seule caractéristique ou à une combinaison de caractéristiques qui en rend l’utilisation avantageuse à des fins particulières sur un territoire donné au Canada. (*merit*)
+> DORS/86-849, art. 8; DORS/96-252, art. 3; DORS/2000-184, art. 86; DORS/2009-186, art. 1.
 
 
 
@@ -2383,6 +2383,36 @@ NOTE
 
 **65** Toutes les variétés, autres que celles d’une espèce, d’une sorte ou d’un type énumérés à l’annexe III, sont soustraites à l’interdiction énoncée à l’alinéa 3(1)b) de la Loi.
 > DORS/86-849, art. 8; DORS/93-162, art. 9; DORS/96-252, art. 3; DORS/97-199, art. 1.
+
+
+
+
+
+### Comités de recommandation
+
+
+**65.1** 
+
+- **(1)** Le ministre approuve, pour le Canada ou une région du Canada, un comité créé pour établir et administrer les protocoles en matière d’essai des variétés d’une espèce, d’une sorte ou d’un type énuméré à la partie I de l’annexe III, pour estimer la valeur de ces variétés et pour formuler des recommandations concernant leur enregistrement, si les conditions suivantes sont réunies :
+	- **a)** les membres du comité possèdent les connaissances et l’expertise nécessaires pour établir et administrer des protocoles d’essai des variétés de cette espèce, de cette sorte ou de ce type de culture;
+	- **b)** les membres du comité possèdent les connaissances et l’expertise nécessaires pour estimer la valeur des variétés de cette espèce, de cette sorte ou de ce type de culture;
+	- **c)** les protocoles d’essai établis par le comité sont appropriés pour l’espèce, la sorte ou le type de culture, sont pratiques et s’appuient sur des principes scientifiques;
+	- **d)** les procédures établies par le comité pour estimer la valeur des variétés de cette espèce, de cette sorte ou de ce type sont appropriées à cette fin et s’appuient sur des principes scientifiques;
+	- **e)** les procédures opérationnelles établies par le comité garantiront que celui-ci fonctionne de façon transparente et que les variétés seront traitées de manière juste et uniforme;
+	- **f)** aucun autre comité de recommandation n’est approuvé pour cette espèce, cette sorte ou ce type de culture, pour le Canada ou pour la région.
+
+- **(2)** Le ministre approuve, pour le Canada ou une région du Canada, un comité créé pour établir et administrer les protocoles en matière d’essai des variétés d’une espèce, d’une sorte ou d’un type énuméré à la partie II de l’annexe III et pour formuler des recommandations concernant leur enregistrement, si les conditions suivantes sont réunies :
+	- **a)** les membres du comité possèdent les connaissances et l’expertise nécessaires pour établir et administrer des protocoles d’essai des variétés de cette espèce, de cette sorte ou de ce type de culture;
+	- **b)** les protocoles d’essai établis par le comité sont appropriés pour l’espèce, la sorte ou le type de culture, sont pratiques et s’appuient sur des principes scientifiques;
+	- **c)** les procédures opérationnelles établies par le comité garantiront que celui-ci fonctionne de façon transparente et que les variétés seront traitées de manière juste et uniforme;
+	- **d)** aucun autre comité de recommandation n’est approuvé pour cette espèce, cette sorte ou ce type de culture, pour le Canada ou pour la région.
+
+- **(3)** Dans l’exécution de ses fonctions, le comité de recommandation applique les protocoles d’essai qu’il a établis, agit conformément à ses procédures opérationnelles et, dans le cas d’un comité approuvé en vertu du paragraphe (1), estime la valeur des variétés conformément aux procédures qu’il a établies.
+
+- **(4)** Pour l’application des paragraphes 67(1) et 67.1(1), la recommandation d’un comité de recommandation s’appuie sur les éléments suivants :
+	- **a)** dans le cas d’une espèce, d’une sorte ou d’un type de culture énuméré à la partie I de l’annexe III, les essais sur la variété qui ont été effectués conformément aux protocoles d’essai pertinents et la valeur de la variété a été établie;
+	- **b)** dans le cas d’une espèce, d’une sorte ou d’un type de culture énuméré à la partie II de l’annexe III, les essais sur la variété qui ont été effectués conformément aux protocoles d’essai pertinents.
+> DORS/2009-186, art. 2.
 
 
 
@@ -2409,20 +2439,51 @@ NOTE
 		- **(ii)** les noms scientifique et commun de la sorte ou de l’espèce à laquelle appartient la variété,
 		- **(iii)** une description de la généalogie, de l’origine, de l’historique et des méthodes de sélection de la variété,
 		- **(iv)** une description détaillée de la variété, y compris, le cas échéant, ses caractéristiques morphologiques, agronomiques, pathologiques, physiologiques et biochimiques,
-		- **(v)** les résultats d’essais expérimentaux effectués par le comité de recommandation afin de comparer la variété en cause aux variétés témoins applicables,
-		- **(vi)** une recommandation d’enregistrement ou de non- enregistrement de la variété formulée par le comité de recommandation qui remonte à au plus deux ans ou, dans le cas d’une variété de plante fourragère, à au plus quatre ans,
+		- **(v)** une recommandation d’enregistrement ou de non-enregistrement de la variété formulée par le comité de recommandation qui remonte à au plus deux ans ou, dans le cas d’une variété de plante fourragère, à au plus quatre ans,
+		- **(vi)** les résultats des essais sur lesquels s’appuie la recommandation,
 		- **(vii)** une déclaration indiquant si la variété est vendue dans d’autres pays et, le cas échéant, sous quels noms,
 		- **(viii)** le détail des mesures permettant de maintenir les semences souches,
 		- **(ix)** les nom et adresse du représentant canadien de la variété;
 	- **b)** être accompagnée :
 		- **(i)** lorsque le demandeur est une personne autre que le sélectionneur ou le propriétaire de la variété, d’une déclaration signée par le sélectionneur ou le propriétaire portant que le demandeur est autorisé par lui à demander l’enregistrement de la variété au Canada,
 		- **(ii)** dans le cas de toutes les variétés autres que les variétés de pommes de terre, d’un échantillon de référence représentatif de la semence,
-		- **(iii)** dans le cas des pommes de terre, d’une série de diapositives détaillées sur la morphologie de la plante.
+		- **(iii)** dans le cas des pommes de terre, d’une série de diapositives ou d’images numériques détaillées sur la morphologie de la plante.
+
+- **(1.1)** Les sous-alinéas (1)a)(v) et (vi) ne s’appliquent pas à l’égard d’une espèce, d’une sorte ou d’un type de culture énuméré à la partie III de l’annexe III.
 
 - **(2)** Outre les renseignements visés au paragraphe (1), le registraire peut exiger du demandeur tout renseignement supplémentaire qui s’impose pour déterminer la valeur et l’identité de la variété.
 
 - **(3)** Le demandeur ou le titulaire, selon le cas, est tenu de fournir au registraire, dès qu’il le reçoit, tout renseignement relatif à la pureté génétique ou à l’utilité d’une variété qui diffère de quelque façon que ce soit des renseignements fournis à l’appui de la demande.
-> DORS/86-849, art. 8; DORS/96-252, art. 3.
+> DORS/86-849, art. 8; DORS/96-252, art. 3; DORS/2009-186, art. 3.
+
+
+
+
+
+### Conditions d’admissibilité des variétés à l’enregistrement
+
+
+**67.1** 
+
+- **(1)** Toute variété d’une espèce, d’une sorte ou d’un type de culture énuméré à la partie I de l’annexe III est admissible à l’enregistrement, si les conditions suivantes sont réunies :
+	- **a)** la variété a de la valeur;
+	- **b)** la variété a fait l’objet d’essais conformément aux protocoles d’essai d’un comité de recommandation;
+	- **c)** le comité de recommandation a fait une recommandation en ce qui concerne l’enregistrement de la variété;
+	- **d)** la variété ou sa descendance ne nuit pas à l’environnement ou à la santé et à la sécurité des personnes ou des animaux lorsqu’elle est cultivée et utilisée de la manière projetée;
+	- **e)** l’échantillon de référence représentatif de la variété ne contient pas de hors types ou d’impuretés qui excèdent les normes de pureté variétale de l’Association;
+	- **f)** la variété satisfait aux normes de pureté variétale établies par l’Association ou par le présent règlement pour une variété de cette espèce, de cette sorte ou de ce type;
+	- **g)** la variété se distingue de toutes les autres variétés qui ont été enregistrées au Canada ou le sont présentement;
+	- **h)** le nom de la variété n’est pas une marque de commerce déposée à l’égard de la variété;
+	- **i)** le nom de la variété ne peut vraisemblablement induire l’acheteur en erreur quant à la composition, l’origine génétique ou l’utilité de la variété;
+	- **j)** le nom de la variété ne peut vraisemblablement être confondu avec celui d’une variété qui a été enregistrée ou qui l’est présentement;
+	- **k)** le nom de la variété ne peut vraisemblablement offenser le public;
+	- **l)** aucun faux document ou fausse déclaration et aucun renseignement erroné ou trompeur n’ont été présentés à l’appui de la demande;
+	- **m)** les renseignements fournis au registraire sont suffisants pour que la variété soit évaluée.
+
+- **(2)** Toute variété d’une espèce, d’une sorte ou d’un type de culture énuméré à la partie II de l’annexe III est admissible à l’enregistrement si les conditions d’admissibilité mentionnées aux alinéas (1)b) à m) sont réunies.
+
+- **(3)** Toute variété d’une espèce, d’une sorte ou d’un type de culture énuméré à la partie III de l’annexe III est admissible à l’enregistrement si les conditions d’admissibilité mentionnées aux alinéas (1)d) à m) sont réunies.
+> DORS/2009-186, art. 4.
 
 
 
@@ -2433,7 +2494,7 @@ NOTE
 
 **68** 
 
-- **(1)** Sous réserve des paragraphes (2) et (3) et de l’article 72, lorsqu’une variété a de la valeur et que la demande satisfait aux exigences de l’article 67, le registraire :
+- **(1)** Sous réserve des paragraphes (2) et (3), si les conditions prévues aux articles 67 et 67.1 sont remplies, le registraire :
 	- **a)** enregistre la variété en inscrivant dans le registre des variétés :
 		- **(i)** le nom de variété de la semence,
 		- **(ii)** la sorte ou l’espèce de la semence,
@@ -2443,7 +2504,7 @@ NOTE
 	- **b)** délivre au demandeur un certificat d’enregistrement.
 
 - **(2)** Le registraire subordonne, le cas échéant, l’enregistrement d’une variété aux conditions suivantes :
-	- **a)** lorsque au moins un an d’évaluation par des essais expérimentaux démontre que la variété peut avoir de la valeur, mais qu’une évaluation plus poussée s’impose avant qu’une décision définitive puisse être prise, l’enregistrement se limite à une période initiale d’au plus trois ans qui doit être prolongée sur demande écrite du demandeur lorsque la valeur potentielle de la variété continue à être démontrée, mais la durée totale de l’enregistrement ne doit en aucun cas dépasser cinq ans;
+	- **a)** pour les variétés d’une espèce, d’une sorte ou d’un type énuméré à la partie I ou à la partie II de l’annexe III, lorsque au moins un an d’essais démontre que la variété peut être admissible à l’enregistrement, mais que des essais plus poussés s’imposent avant qu’une décision définitive puisse être prise, l’enregistrement se limite à une période initiale d’au plus trois ans qui doit être prolongée sur demande écrite du demandeur lorsque l’admissibilité à l’enregistrement continue à être démontrée, mais la durée totale de l’enregistrement ne doit en aucun cas dépasser cinq ans;
 	- **b)** lorsque le potentiel de transmission de maladie ou la qualité inférieure de la variété risquent de nuire, dans une région donnée, à l’identité d’autres variétés enregistrées pour cette région ou lorsque la variété ou sa descendance peut, dans une région donnée, nuire à l’environnement ou à la santé et la sécurité des personnes ou des animaux, l’enregistrement de la variété ne vaut au Canada qu’à l’extérieur de cette région;
 	- **c)** lorsque les caractéristiques biochimiques ou biophysiques d’une variété la distinguent de la majorité des variétés enregistrées de même sorte ou espèce et que cette spécificité risque de nuire à l’identité de ces variétés, le titulaire doit :
 		- **(i)** établir et maintenir un système qualité pour gérer tout effet nocif possible de la variété, y compris la responsabilité de gestion, la revue des contrats, l’identification et la retraçabilité de produits, l’inspection, les essais, le contrôle des produits non conformes, les mesures préventives et correctives, les livres et la formation du personnel,
@@ -2456,7 +2517,7 @@ NOTE
 	- **b)** lorsque la variété ne se distingue pas visuellement des variétés enregistrées pour lesquelles la Commission canadienne des grains a établi, par règlement, des catégories et des dénominations de catégorie officielles expressément caractérisées, mais ne correspond pas à ces caractéristiques officielles, des livres doivent être tenus relativement à la production, à la cueillette et à la livraison de la récolte afin que toute la semence et sa descendance puissent être documentées.
 
 - **(4)** Une fois l’an, le registraire publie la liste des variétés enregistrées en vertu de la présente partie.
-> DORS/86-849, art. 8; DORS/96-252, art. 3.
+> DORS/86-849, art. 8; DORS/96-252, art. 3; DORS/2009-186, art. 5.
 
 
 
@@ -2491,26 +2552,7 @@ NOTE
 
 
 
-
-### Refus d’enregistrement
-
-
-**72** Le registraire refuse d’enregistrer une variété lorsque, selon le cas :
-- **a)** le nom de variété pourrait induire l’acheteur en erreur quant à la composition, à l’origine génétique ou à l’utilité de la variété;
-- **b)** le nom de variété peut vraisemblablement être confondu avec celui d’une variété déjà enregistrée;
-- **c)** la valeur de la variété par rapport aux fins indiquées n’est pas établie dans la demande;
-- **d)** la variété ne satisfait pas aux normes de pureté variétale établies par l’Association ou par le présent règlement pour une variété de la sorte ou de l’espèce en cause;
-- **e)** la variété ou sa descendance peut nuire à l’environnement ou à la santé et la sécurité des personnes ou des animaux lorsqu’elle est cultivée et utilisée de la manière projetée;
-- **f)** de faux documents ou de fausses déclarations ont été présentés à l’appui de la demande;
-- **g)** les renseignements fournis au registraire ne sont pas suffisants pour que la variété soit évaluée;
-- **h)** la variété appartient à une sorte ou espèce visée à l’article 65 ou est une variété visée à ce paragraphe;
-- **i)** des renseignements erronés ou trompeurs ont été soumis à l’appui de la demande;
-- **j)** la variété ne se distingue pas d’une variété déjà enregistrée ou connue;
-- **k)** le nom de la variété peut vraisemblablement offenser le public;
-- **l)** l’échantillon de référence représentatif contient des hors types ou des impuretés qui excèdent les normes de pureté variétale de l’Association;
-- **m)** le nom de variété est une marque de commerce déposée à l’égard de la variété.
-> DORS/96-252, art. 3.
-
+**72** [Abrogé, DORS/2009-186, art. 6]
 
 
 
@@ -2562,12 +2604,12 @@ NOTE
 
 - **(4)** Le registraire annule l’enregistrement d’une variété dans les cas suivants :
 	- **a)** la variété a subi des modifications telles qu’elle a été transformée en une variété déjà enregistrée sous un autre nom;
-	- **b)** il a été conclu que la variété ne se distingue pas d’une autre variété déjà enregistrée ou connue;
+	- **b)** il a été conclu que la variété ne se distingue pas d’une autre variété qui a été enregistrée au Canada ou qui l’est présentement;
 	- **c)** le titulaire n’a pas établi que les motifs de suspension de l’enregistrement ne sont plus valables, dans les deux ans suivant la date de la suspension;
 	- **d)** la variété n’est plus assujettie aux exigences d’enregistrement.
 
 - **(5)** Sous réserve du paragraphe 75(1), le registraire suspend ou annule l’enregistrement d’une variété à la demande du titulaire.
-> DORS/86-849, art. 8; DORS/96-252, art. 3.
+> DORS/86-849, art. 8; DORS/96-252, art. 3; DORS/2009-186, art. 7.
 
 
 
@@ -7035,27 +7077,30 @@ NOTE
 
 
 ### **ANNEXE III** 
-**(article 65)**
-## Espèces, sortes ou types dont les variétés doivent être enregistrées
+**(art. 65, par. 65.1(1), (2) et (4) et 67(1.1), art. 67.1 et al. 68(2)a))**
+#### ESPÈCES, SORTES OU TYPES DONT LES VARIÉTÉS DOIVENT ÊTRE ENREGISTRÉES
 <table>
 <tr>
 <th>Espèce, sorte ou type</th>
 <th>Nom scientifique</th>
 </tr>
 <tr>
+<td>PARTIE I</td>
+</tr>
+<tr>
 <td>Agropyre à crête</td>
 <td>*Agropyron cristatum* (L.) Gaertn. ou</td>
 </tr>
 <tr>
-<td>*A. desertorum* (Fisch. ex Link) Schult.</td>
+<td></td>
 </tr>
 <tr>
 <td>Agropyre de l’Ouest</td>
-<td>*Pascopyrum smithii* (Rydb.) Á. Löve (= *Agropyron smithii* Rydb.)</td>
+<td>*A. desertorum* (Fisch. ex Link) Schult. *Pascopyrum smithii* (Rydb.) Á. Löve (= *Agropyron smithii* Rydb.)</td>
 </tr>
 <tr>
 <td>Agropyre de Sibérie</td>
-<td>*Agropyron fragile* (Roth) P. Candargy subsp. *sibiricum* (Willd.) Melderis (= *Agropyron**sibiricum* (Willd.) Beauv.)</td>
+<td>*Agropyron fragile* (Roth) P. Candargy subsp. *sibiricum* (Willd.) Melderis (= *Agropyron sibiricum* (Willd.) Beauv.)</td>
 </tr>
 <tr>
 <td>Agropyre des rives</td>
@@ -7063,7 +7108,7 @@ NOTE
 </tr>
 <tr>
 <td>Agropyre du Nord</td>
-<td>*Elymus lanceolatus* (Scribn. & J.G. Sm.) Gould subsp. *lanceolatus* (= *Agropyron dasystachyum*(Hook.) Scribn.)</td>
+<td>*Elymus lanceolatus* (Scribn. & J.G. Sm.) Gould subsp. *lanceolatus* (= *Agropyron dasystachyum* (Hook.) Scribn.)</td>
 </tr>
 <tr>
 <td>Agropyre élevé</td>
@@ -7075,10 +7120,10 @@ NOTE
 </tr>
 <tr>
 <td>Agropyre inerme</td>
-<td>*Pseudoroegneria spicata* (Pursh) Á. Löve</td>
+<td>*Pseudoroegneria spicata* (Pursh) Á. Löve (= *Agropyron spicatum* (Pursh) Scribn. & J. G. Smith f. *inerme* (Scribn. & J.G. Smith) Beetle)</td>
 </tr>
 <tr>
-<td>(= *Agropyron spicatum* (Pursh) Scribn. & J. G. Smith f. *inerme* (Scribn. & J.G. Smith) Beetle)</td>
+<td></td>
 </tr>
 <tr>
 <td>Agropyre intermédiaire</td>
@@ -7118,17 +7163,13 @@ NOTE
 </tr>
 <tr>
 <td>Canola, colza oléagineux, colza</td>
-<td>*Brassica rapa* L. subsp. *campestris* (L.)</td>
+<td>*Brassica rapa* L. subsp. *campestris* (L.) A.R. Clapham ou *B. napus* L. var. *napus* (= *B. napus* L. var. *oleifera* Delile) ou *B. juncea* (L.) Czern.</td>
 </tr>
 <tr>
-<td>A.R. Clapham ou *B. napus* L. var. *napus*</td>
+<td></td>
 </tr>
 <tr>
-<td>(= *B. napus* L. var. *oleifera* Delile) ou *B. juncea* (L.) Czern.</td>
-</tr>
-<tr>
-<td>Carthame des teinturiers</td>
-<td>*Carthamus tinctorius* L.</td>
+<td></td>
 </tr>
 <tr>
 <td>Dactyle pelotonné</td>
@@ -7148,10 +7189,10 @@ NOTE
 </tr>
 <tr>
 <td>Épeautre</td>
-<td>*Triticum aestivum* L. subsp. *spelta* (L.) Thell.</td>
+<td>*Triticum aestivum* L. subsp. *spelta* (L.) Thell. (= *T. spelta* L.)</td>
 </tr>
 <tr>
-<td>(= *T. spelta* L.)</td>
+<td></td>
 </tr>
 <tr>
 <td>Fétuque des prés (type fourrager)</td>
@@ -7222,10 +7263,6 @@ NOTE
 <td>*Pisum sativum* L.</td>
 </tr>
 <tr>
-<td>Pomme de terre (production commerciale)</td>
-<td>*Solanum tuberosum* L.</td>
-</tr>
-<tr>
 <td>Ray-grass annuel (type fourrager)</td>
 <td>*Lolium multiflorum* Lam.</td>
 </tr>
@@ -7250,10 +7287,6 @@ NOTE
 <td>*Nicotiana tabacum* L.</td>
 </tr>
 <tr>
-<td>Tournesol (non ornemental)</td>
-<td>*Helianthus annuus* L.</td>
-</tr>
-<tr>
 <td>Trèfle Alsike</td>
 <td>*Trifolium hybridum* L.</td>
 </tr>
@@ -7267,11 +7300,29 @@ NOTE
 </tr>
 <tr>
 <td>Triticale (type grainier)</td>
-<td>× *Triticosecale* spp.</td>
+<td>× *Triticosecale* Wittm. ex A. Camus</td>
+</tr>
+<tr>
+<td>PARTIE II</td>
+</tr>
+<tr>
+<td>Carthame des teinturiers</td>
+<td>*Carthamus tinctorius* L.</td>
+</tr>
+<tr>
+<td>PARTIE III</td>
+</tr>
+<tr>
+<td>Pomme de terre (production commerciale)</td>
+<td>*Solanum tuberosum* L.</td>
+</tr>
+<tr>
+<td>Tournesol (non ornemental)</td>
+<td>*Helianthus annuus* L.</td>
 </tr>
 </table>
 
-> DORS/97-199, art. 2; DORS/2007-223, art. 25.
+> DORS/97-199, art. 2; DORS/2007-223, art. 25; DORS/2009-186, art. 8.
 
 
 
