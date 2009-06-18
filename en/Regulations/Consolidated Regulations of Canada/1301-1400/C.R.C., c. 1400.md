@@ -2357,9 +2357,9 @@ Inspection for the purpose of certification was made either visually or through 
 
 ***list of experts*** means a list established pursuant to section 71; (*liste d’experts*)
 
-***merit*** means, with respect to a variety, that the variety is equal or superior to appropriate reference varieties with regard to characteristics that render the variety beneficial for a particular use in a specific area of Canada; (*valeur*)
+***merit*** means, with respect to a variety, that the variety is equal or superior to appropriate reference varieties with regard to any single characteristic or combination of characteristics that renders the variety beneficial for a particular use in a specific area of Canada; (*valeur*)
 
-***recommending committee*** means a provincial, regional or national committee that has the necessary expertise to administer the testing of varieties for merit and that is designated by the Minister to make recommendations as to merit in respect of the registration of varieties; (*comité de recommandation*)
+***recommending committee*** means a committee that is approved by the Minister under section 65.1; (*comité de recommandation*)
 
 ***region*** means a province, a group of provinces, the Canadian Wheat Board Area or that part of Canada outside the Canadian Wheat Board Area; (*région*)
 
@@ -2368,7 +2368,7 @@ Inspection for the purpose of certification was made either visually or through 
 ***Registrar*** means the person designated by the President to register varieties; (*registraire*)
 
 ***representative reference sample*** means a sample of seed that is submitted in support of registration of a variety and guaranteed by the owner or breeder of the variety as truly representing the variety. (*échantillon de référence représentatif*) 
-> SOR/86-849, s. 8; SOR/96-252, s. 3; SOR/2000-184, s. 86.
+> SOR/86-849, s. 8; SOR/96-252, s. 3; SOR/2000-184, s. 86; SOR/2009-186, s. 1.
 
 
 
@@ -2389,6 +2389,36 @@ Inspection for the purpose of certification was made either visually or through 
 
 **65** Every variety, other than a variety of a species, kind or type listed in Schedule III, is exempted from the prohibition set out in paragraph 3(1)(b) of the Act.
 > SOR/86-849, s. 8; SOR/93-162, s. 9; SOR/96-252, s. 3; SOR/97-199, s. 1.
+
+
+
+
+
+### Recommending Committees
+
+
+**65.1** 
+
+- **(1)** The Minister shall approve, for Canada or a region of Canada, a committee to establish and administer protocols for testing the varieties of a species, kind or type of crop listed in Part I of Schedule III, to determine the merit of the varieties and to make recommendations respecting their registration if
+	- **(a)** the members of the committee have the knowledge and expertise required to establish and administer testing protocols for varieties of that species, kind or type of crop;
+	- **(b)** the members of the committee have the knowledge and expertise required to determine the merit of the varieties of that species, kind or type of crop;
+	- **(c)** the testing protocols established by the committee are appropriate for that species, kind or type of crop, are practical and are based on scientific principles;
+	- **(d)** the procedures established by the committee for determining the merit of varieties of that species, kind or type of crop are appropriate for that purpose and are based on scientific principles;
+	- **(e)** the operating procedures established by the committee will ensure that its functioning is transparent and that varieties are dealt with in a fair and consistent manner; and
+	- **(f)** no other committee is approved as a recommending committee for that species, kind or type of crop for Canada or the region.
+
+- **(2)** The Minister shall approve, for Canada or a region of Canada, a committee to establish and administer protocols for testing the varieties of a species, kind or type of crop listed in Part II of Schedule III and to make recommendations respecting their registration if
+	- **(a)** the members of the committee have the knowledge and expertise required to establish and administer testing protocols for varieties of that species, kind or type of crop;
+	- **(b)** the testing protocols established by the committee are appropriate for that species, kind or type of crop, are practical and are based on scientific principles;
+	- **(c)** the operating procedures established by the committee will ensure that its functioning is transparent and that varieties are dealt with in a fair and consistent manner; and
+	- **(d)** no other committee is approved as a recommending committee for that species, kind or type of crop for Canada or the region.
+
+- **(3)** In carrying out its functions, a recommending committee must apply the testing protocols it has established, act in accordance with its operating procedures and, in the case of a committee approved under subsection (1), apply the procedures it has established to determine the merit of varieties.
+
+- **(4)** For the purposes of subsections 67(1) and 67.1(1), the recommendation of a recommending committee must be based on the following:
+	- **(a)** in the case of a species, kind or type of crop that is listed in Part I of Schedule III, the results of testing the variety in accordance with the relevant testing protocols and a determination of whether the variety has merit; and
+	- **(b)** in the case of a species, kind or type of crop that is listed in Part II of Schedule III, the results of testing the variety in accordance with the relevant testing protocols.
+> SOR/2009-186, s. 2.
 
 
 
@@ -2415,20 +2445,51 @@ Inspection for the purpose of certification was made either visually or through 
 		- **(ii)** the scientific and common names of the kind or species to which the variety belongs,
 		- **(iii)** a description of the pedigree, origin, history and methods of development of the variety,
 		- **(iv)** a detailed description of the variety including, where applicable, morphological, agronomic, pathological, physiological and biochemical characteristics,
-		- **(v)** results of experimental trials administered by a recommending committee that compare the variety to appropriate reference varieties,
-		- **(vi)** a recommendation, that is not more than two years old or, in the case of a forage variety, not more than four years old, from a recommending committee as to whether or not the variety should be registered,
+		- **(v)** a recommendation that is not more than two years old or, in the case of a forage variety, not more than four years old, from a recommending committee stating whether the variety should be registered,
+		- **(vi)** the results of the testing on which the recommendation is based,
 		- **(vii)** a statement as to whether the variety is sold in other countries and, if so, the name or names under which it is sold,
 		- **(viii)** particulars of the arrangements for the maintenance of seed stocks, and
 		- **(ix)** the name and address of the Canadian representative of the variety; and
 	- **(b)** be accompanied by
 		- **(i)** where the applicant is a person other than the breeder or owner of the variety, a signed statement from the breeder or owner of the variety indicating that the applicant has been authorized by the breeder or owner of the variety to apply for the registration of the variety in Canada,
 		- **(ii)** for every variety except varieties of potatoes, a representative reference sample of seed of that variety, and
-		- **(iii)** for potatoes, a set of photographic slides detailing plant morphology.
+		- **(iii)** for potatoes, a set of photographic slides or digital images that detail plant morphology.
+
+- **(1.1)** Subparagraphs (1)(a)(v) and (vi) do not apply in respect of a species, kind or type of crop that is listed in Part III of Schedule III.
 
 - **(2)** The Registrar may, in addition to the information referred to in subsection (1), require that the applicant provide such further information as may be necessary to determine the merit and identity of the variety.
 
 - **(3)** The applicant or the registrant, as the case may be, shall provide the Registrar with any information pertaining to the genetic purity or the utility of a variety which differs in any way from the information supplied in support of the application for registration, forthwith upon receiving the information.
-> SOR/86-849, s. 8; SOR/96-252, s. 3.
+> SOR/86-849, s. 8; SOR/96-252, s. 3; SOR/2009-186, s. 3.
+
+
+
+
+
+### Eligibility Requirements for Variety Registration
+
+
+**67.1** 
+
+- **(1)** A variety of a species, kind or type of crop that is listed in Part I of Schedule III is eligible for registration if
+	- **(a)** the variety has merit;
+	- **(b)** the variety has been tested in accordance with the testing protocols of a recommending committee;
+	- **(c)** the recommending committee has made a recommendation respecting registration of the variety;
+	- **(d)** the variety or its progeny is not detrimental to human or animal health and safety or the environment when grown and used as intended;
+	- **(e)** the representative reference sample of the variety does not contain off-types or impurities in excess of the Association’s standards for varietal purity;
+	- **(f)** the variety meets the standards for varietal purity established by the Association or these Regulations for a variety of that species, kind or type;
+	- **(g)** the variety is distinguishable from all other varieties that were or currently are registered in Canada;
+	- **(h)** the variety name is not a registered trademark in respect of the variety;
+	- **(i)** the variety name is not likely to mislead a purchaser with respect to the composition, genetic origin or utility of the variety;
+	- **(j)** the variety name is not likely to be confused with the name of a variety that was or currently is registered;
+	- **(k)** the variety name is not likely to offend the public;
+	- **(l)** no false statement or falsified document and no misleading or incorrect information have been submitted in support of the application for registration; and
+	- **(m)** the information provided to the Registrar is sufficient to enable the variety to be evaluated.
+
+- **(2)** A variety of a species, kind or type of crop that is listed in Part II of Schedule III is eligible for registration if the requirements for eligibility set out in paragraphs (1)(b) to (m) are met.
+
+- **(3)** A variety of a species, kind or type of crop that is listed in Part III of Schedule III is eligible for registration if the requirements for eligibility set out in paragraphs (1)(d) to (m) are met.
+> SOR/2009-186, s. 4.
 
 
 
@@ -2439,7 +2500,7 @@ Inspection for the purpose of certification was made either visually or through 
 
 **68** 
 
-- **(1)** Subject to subsections (2) and (3) and section 72, where a variety has merit and the application meets the requirements set out in section 67, the Registrar shall
+- **(1)** Subject to subsections (2) and (3), if the requirements set out in sections 67 and 67.1 are met, the Registrar shall
 	- **(a)** register the variety by entering in the Register of Varieties
 		- **(i)** the variety name of the seed,
 		- **(ii)** the kind or species of seed,
@@ -2449,7 +2510,7 @@ Inspection for the purpose of certification was made either visually or through 
 	- **(b)** issue a Certificate of Registration to the applicant.
 
 - **(2)** The Registrar shall make the registration of a variety subject to the following terms and conditions, where applicable:
-	- **(a)** where a minimum of one year of evaluation in variety registration trials demonstrates that the variety may have merit but further evaluation is required before a final decision can be rendered, the registration shall be limited to an initial period of not more than three years that shall be extended on written request by the applicant where the variety continues to demonstrate that it may have merit, but under no circumstances shall the total duration of such registration exceed five years;
+	- **(a)** in the case of a variety of a species, kind or type of crop that is listed in Part I or II of Schedule III, if a minimum of one year of testing demonstrates that the variety may be eligible for registration but that further testing is required before a final decision can be rendered, the registration shall be limited to an initial period of not more than three years that shall be extended on written request by the applicant if eligibility for registration continues to be demonstrated, but under no circumstances shall the total duration of the registration exceed five years;
 	- **(b)** where the disease susceptibility or inferior quality characteristics of the variety may have an adverse effect in a particular region on the identity of other varieties registered for that region or where in a particular region the variety or progeny thereof may be detrimental to human or animal health and safety or the environment, the registration of the variety shall be restricted to that part of Canada outside that region; and
 	- **(c)** where the biochemical or biophysical characteristics of a variety distinguish it from the majority of registered varieties of the same kind or species and it may have an adverse effect on the identity of those registered varieties, the registrant shall
 		- **(i)** establish and maintain a quality control system for the management of potentially adverse effects of the variety, including management responsibility, contract review, product identification and traceability, inspection, testing, control of nonconforming product, corrective and preventive actions, records and training of personnel,
@@ -2462,7 +2523,7 @@ Inspection for the purpose of certification was made either visually or through 
 	- **(b)** where the variety is visually indistinguishable from registered varieties for which the Canadian Grain Commission has established by regulation official grades and grade names with designated specifications, but the variety does not meet those specifications, the production, harvest and delivery of the crop shall be documented to ensure that all of the seed and its progeny can be accounted for.
 
 - **(4)** The Registrar shall publish a list of all varieties registered under this Part once a year.
-> SOR/86-849, s. 8; SOR/96-252, s. 3.
+> SOR/86-849, s. 8; SOR/96-252, s. 3; SOR/2009-186, s. 5.
 
 
 
@@ -2497,26 +2558,7 @@ Inspection for the purpose of certification was made either visually or through 
 
 
 
-
-### Refusal to Register
-
-
-**72** The Registrar shall refuse to register a variety if
-- **(a)** the variety name could deceive or mislead a purchaser with respect to the composition, genetic origin or utility of the variety;
-- **(b)** the variety name is likely to be confused with the name of a variety that is already registered;
-- **(c)** the application fails to establish that the variety has merit for the purposes claimed therein;
-- **(d)** the variety does not meet the standards for varietal purity established by the Association or these Regulations for a variety of that kind or species;
-- **(e)** the variety or its progeny may be detrimental to human or animal health and safety or the environment when grown and used as intended;
-- **(f)** false statements or falsified documents have been submitted in support of the application for registration;
-- **(g)** the information provided to the Registrar is insufficient to enable the variety to be evaluated;
-- **(h)** the variety is of a kind or species referred to in section 65 or is a variety referred to in that section;
-- **(i)** misleading or incorrect information was submitted in support of the application for registration;
-- **(j)** the variety is indistinguishable from a variety already registered or known to exist;
-- **(k)** the variety name is likely to offend the public;
-- **(l)** the representative reference sample contains off-types or impurities in excess of the Association’s standards for varietal purity; or
-- **(m)** the variety name is a registered trademark in respect of that variety.
-> SOR/96-252, s. 3.
-
+**72** [Repealed, SOR/2009-186, s. 6]
 
 
 
@@ -2568,12 +2610,12 @@ Inspection for the purpose of certification was made either visually or through 
 
 - **(4)** The Registrar shall cancel the registration of a variety where
 	- **(a)** the variety has been altered in such a manner as to convert it to a variety that is registered under a different name;
-	- **(b)** the variety has been found to be indistinguishable from another variety already registered or known to exist;
+	- **(b)** the variety has been found to be indistinguishable from another variety that was or currently is registered in Canada;
 	- **(c)** the registrant has not established within two years after the day on which the registration of a variety was suspended that the reasons for the suspension are no longer valid; or
 	- **(d)** the variety is no longer subject to the variety registration requirements.
 
 - **(5)** Subject to subsection 75(1), the Registrar shall suspend or cancel, as the case may be, the registration of a variety on request of the registrant.
-> SOR/86-849, s. 8; SOR/96-252, s. 3.
+> SOR/86-849, s. 8; SOR/96-252, s. 3; SOR/2009-186, s. 7.
 
 
 
@@ -6972,12 +7014,15 @@ Inspection for the purpose of certification was made either visually or through 
 
 
 ### **SCHEDULE III** 
-**(Section 65)**
-## Species, Kinds or Types of Crops Subject to Variety Registration
+**(Section 65, subsections 65.1(1), (2) and (4) and 67(1.1), section 67.1 and paragraph 68(2)(a))**
+#### SPECIES, KINDS OR TYPES OF CROPS SUBJECT TO VARIETY REGISTRATION
 <table>
 <tr>
 <th>Species, Kind or Type</th>
 <th>Scientific Name</th>
+</tr>
+<tr>
+<td>PART I</td>
 </tr>
 <tr>
 <td>Alfalfa (forage type)</td>
@@ -7012,16 +7057,16 @@ Inspection for the purpose of certification was made either visually or through 
 <td>*Fagopyrum esculentum* Moench</td>
 </tr>
 <tr>
-<td>Canola, oilseed rape, rapeseed</td>
-<td>*Brassica rapa* L. subsp. *campestris* (L.) A.R. Clapham or *B. napus* L. var. *napus*(= *B. napus* L. var. *oleifera* Delile) or *B. juncea* (L.) Czern.</td>
-</tr>
-<tr>
 <td>Canarygrass, annual</td>
 <td>*Phalaris canariensis* L.</td>
 </tr>
 <tr>
 <td>Canarygrass, reed</td>
 <td>*Phalaris arundinacea* L.</td>
+</tr>
+<tr>
+<td>Canola, oilseed rape, rapeseed</td>
+<td>*Brassica rapa* L. subsp. *campestris* (L.) A.R. Clapham or *B. napus* L. var. *napus*(= *B. napus* L. var. *oleifera* Delile) or *B. juncea* (L.) Czern.</td>
 </tr>
 <tr>
 <td>Clover, alsike</td>
@@ -7088,10 +7133,6 @@ Inspection for the purpose of certification was made either visually or through 
 <td>*Pisum sativum* L.</td>
 </tr>
 <tr>
-<td>Potato (commercial production)</td>
-<td>*Solanum tuberosum* L.</td>
-</tr>
-<tr>
 <td>Rye (grain type)</td>
 <td>*Secale cereale* L.</td>
 </tr>
@@ -7104,16 +7145,8 @@ Inspection for the purpose of certification was made either visually or through 
 <td>*Lolium perenne* L.</td>
 </tr>
 <tr>
-<td>Safflower</td>
-<td>*Carthamus tinctorius* L.</td>
-</tr>
-<tr>
 <td>Soybean (oilseed)</td>
 <td>*Glycine max* (L.) Merr.</td>
-</tr>
-<tr>
-<td>Sunflower (non-ornamental)</td>
-<td>*Helianthus annuus* L.</td>
 </tr>
 <tr>
 <td>Timothy, common (forage type)</td>
@@ -7125,7 +7158,7 @@ Inspection for the purpose of certification was made either visually or through 
 </tr>
 <tr>
 <td>Triticale (grain type)</td>
-<td>× *Triticosecale* spp.</td>
+<td>x *Triticosecale* Wittm. ex A. Camus</td>
 </tr>
 <tr>
 <td>Wheat, common</td>
@@ -7141,7 +7174,7 @@ Inspection for the purpose of certification was made either visually or through 
 </tr>
 <tr>
 <td>Wheatgrass, beardless</td>
-<td>*Pseudoroegneria spicata* (Pursh) Á. Löve (= *Agropyron spicatum* (Pursh) Scribn. & J. G. Smith f. *inerme* (Scribn. & J.G. Smith) Beetle)</td>
+<td>*Pseudoroegneria spicata* (Pursh) Á. Löve (= *Agropyron spicatum* (Pursh) Scribn. & J.G. Smith f. *inerme* (Scribn. & J.G. Smith) Beetle)</td>
 </tr>
 <tr>
 <td>Wheatgrass, crested</td>
@@ -7149,7 +7182,7 @@ Inspection for the purpose of certification was made either visually or through 
 </tr>
 <tr>
 <td>Wheatgrass, intermediate</td>
-<td>*Elytrigia intermedia* (Host) Nevski subsp. *intermedia*(= *Agropyron intermedium* (Host) Beauv.)</td>
+<td>*Elytrigia intermedia* (Host) Nevski subsp. *intermedia* (= *Agropyron intermedium* (Host) Beauv.)</td>
 </tr>
 <tr>
 <td>Wheatgrass, northern</td>
@@ -7157,11 +7190,11 @@ Inspection for the purpose of certification was made either visually or through 
 </tr>
 <tr>
 <td>Wheatgrass, pubescent</td>
-<td>*Elytrigia intermedia* (Host) Nevski subsp. *intermedia*(= *Agropyron trichophorum* (Link) Richter)</td>
+<td>*Elytrigia intermedia* (Host) Nevski subsp. *intermedia* (= *Agropyron trichophorum* (Link) Richter)</td>
 </tr>
 <tr>
 <td>Wheatgrass, Siberian</td>
-<td>*Agropyron fragile* (Roth) P. Candargy subsp. *sibiricum* (Willd.) Melderis (= *Agropyron* sibiricum (Willd.) Beauv.)</td>
+<td>*Agropyron fragile* (Roth) P. Candargy subsp. *sibiricum* (Willd.) Melderis (= *Agropyron**sibiricum* (Willd.) Beauv.)</td>
 </tr>
 <tr>
 <td>Wheatgrass, slender</td>
@@ -7191,9 +7224,27 @@ Inspection for the purpose of certification was made either visually or through 
 <td>Wildrye, Russian</td>
 <td>*Psathyrostachys juncea* (Fisch.) Nevski (= *Elymus junceus* Fisch.)</td>
 </tr>
+<tr>
+<td>PART II</td>
+</tr>
+<tr>
+<td>Safflower</td>
+<td>*Carthamus tinctorius* L.</td>
+</tr>
+<tr>
+<td>PART III</td>
+</tr>
+<tr>
+<td>Potato (commercial production)</td>
+<td>*Solanum tuberosum* L.</td>
+</tr>
+<tr>
+<td>Sunflower (non-ornamental)</td>
+<td>*Helianthus annuus* L.</td>
+</tr>
 </table>
 
-> SOR/97-199, s. 2; SOR/2007-223, s. 25.
+> SOR/97-199, s. 2; SOR/2007-223, s. 25; SOR/2009-186, s. 8.
 
 
 
