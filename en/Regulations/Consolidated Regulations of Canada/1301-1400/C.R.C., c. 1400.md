@@ -6678,7 +6678,7 @@ Inspection for the purpose of certification was made either visually or through 
 </tr>
 </table>
 
-> SOR/78-314, s. 2; SOR/79-917, s. 1; SOR/82-437, ss. 8 to 10; SOR/86-850, s. 17; SOR/89-368, ss. 3, 4(F); SOR/91-609, s. 4; SOR/93-162, s. 12; SOR/96-252, ss. 4, 5, 6(F), 7 to 9; SOR/2007-223, s. 25.
+> SOR/78-314, s. 2; SOR/79-917, s. 1; SOR/82-437, ss. 8 to 10; SOR/86-850, s. 17; SOR/89-368, ss. 3, 4(F); SOR/91-609, s. 4; SOR/93-162, s. 12; SOR/96-252, ss. 4, 5, 6(F), 7 to 9; SOR/2007-223, s. 25, err., Vol. 143, No. 13.
 
 
 
