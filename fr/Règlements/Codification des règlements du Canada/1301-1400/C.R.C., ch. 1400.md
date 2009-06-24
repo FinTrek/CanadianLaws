@@ -6720,7 +6720,7 @@ NOTE
 </tr>
 </table>
 
-> DORS/78-314, art. 2; DORS/79-917, art. 1; DORS/82-437, art. 8 à 10; DORS/86-850, art. 17; DORS/89-368, art. 3 et 4(F); DORS/91-609, art. 4; DORS/93-162, art. 12; DORS/96-252, art. 4, 5, 6(F) et 7 à 9; DORS/2007-223, art. 25.
+> DORS/78-314, art. 2; DORS/79-917, art. 1; DORS/82-437, art. 8 à 10; DORS/86-850, art. 17; DORS/89-368, art. 3 et 4(F); DORS/91-609, art. 4; DORS/93-162, art. 12; DORS/96-252, art. 4, 5, 6(F) et 7 à 9; DORS/2007-223, art. 25, err., Vol. 143, n<sup>o</sup>o 13.
 
 
 
