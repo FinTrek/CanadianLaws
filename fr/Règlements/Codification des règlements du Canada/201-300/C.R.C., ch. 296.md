@@ -687,24 +687,25 @@ conformément à l’ordonnance qui précise la manière, le lieu, les condition
 
 **41** 
 
-- **(1)** Il est permis d’importer des États-Unis un sous-produit animal, du fumier ou une chose contenant un sous-produit animal, autre qu’une chose visée aux articles 45, 46, 47.1, 49, 50, 51, 51.2 et 53, si Revenu Canada, Douanes détermine que le pays d’origine de la chose est les États-Unis.
+- **(1)** Il est permis d’importer un sous-produit animal, du fumier ou une chose contenant un sous-produit animal ou du fumier autres que ceux visés aux articles 45, 46, 47, 47.1, 49, 50, 51, 51.2 et 53, si l’une des conditions suivantes est remplie :
+	- **a)** le pays d’origine est les États-Unis et le sous-produit, le fumier ou la chose ne provient pas d’un animal de la sous-famille *Bovinae* ou *Caprinae*;
+	- **b)** le pays d’origine, ou la partie de ce pays d’origine, est désigné, en vertu de l’article 7, comme étant exempt ou comme posant un risque négligeable de toute maladie déclarable, de toute maladie mentionnée à l’annexe VII et de toute épizootie grave que l’espèce de laquelle provient le sous-produit, le fumier ou la chose est susceptible de contracter et qui peut être transmise par eux, auquel cas l’importateur présente un certificat d’origine signé par un fonctionnaire du gouvernement de ce pays attestant de cette origine;
+	- **c)** le sous-produit, le fumier ou la chose a été recueilli, traité, préparé, transformé, entreposé et manipulé de manière à prévenir l’introduction de toute maladie déclarable, de toute maladie mentionnée à l’annexe VII et de toute épizootie grave que l’espèce de laquelle il provient est susceptible de contracter et qui peut être transmise par lui, auquel cas l’importateur présente un certificat signé par un fonctionnaire du gouvernement du pays d’origine qui :
+		- **(i)** atteste que le sous-produit, le fumier ou la chose a été recueilli, traité, préparé, transformé, entreposé et manipulé de cette manière,
+		- **(ii)** expose en détail comment il a été recueilli, traité, préparé, transformé, entreposé et manipulé.
 
-- **(2)** Il est permis d’importer un sous-produit animal, du fumier ou une chose contenant un sous-produit animal, autre qu’une chose visée aux articles 45, 46, 47, 47.1, 49, 50, 51, 51.2 et 53, d’un pays autre que les États-Unis, ou d’une partie d’un tel pays, si :
-	- **a)** d’une part, le pays d’origine ou la partie de pays est désigné comme étant exempt de toute maladie déclarable ou de toute autre épizootie grave que l’espèce de laquelle provient la chose est susceptible de contracter et qui peut être transmise au Canada par la chose;
-	- **b)** d’autre part, l’importateur présente un certificat signé par un fonctionnaire du gouvernement du pays d’origine de la chose attestant que le pays d’origine ou la partie de ce pays est celui visé à l’alinéa a).
-> DORS/78-69, art. 23(F); DORS/80-428, art. 4; DORS/82-590, art. 2; DORS/97-85, art. 34.
+- **(2)** Le paragraphe (1) ne s’applique pas au fumier se trouvant dans ou sur un véhicule en provenance des États-Unis, s’il provient d’animaux, autres que des porcs, qui sont transportés à bord du véhicule.
+> DORS/78-69, art. 23(F); DORS/80-428, art. 4; DORS/82-590, art. 2; DORS/97-85, art. 34; DORS/2009-18, art. 6.
 
 
 
 
 **41.1** 
 
-- **(1)** Malgré l’article 41, il est permis d’importer un sous-produit animal ou une chose contenant un sous-produit animal, autre qu’une chose visée aux articles 45, 46, 47, 47.1, 49, 50, 51, 51.2 et 53, si l’une ou l’autre des conditions suivantes est réalisée :
-	- **a)** un inspecteur est convaincu, en se fondant sur des motifs raisonnables, que le sous-produit animal a été traité de manière à prévenir l’introduction de toute maladie déclarable ou de toute autre épizootie grave que l’espèce de laquelle il provient est susceptible de contracter et qui peut être transmise au Canada par lui, pourvu que le sous-produit animal ou la chose contenant un sous-produit animal ne soit pas destiné à servir d’aliments pour animaux ou d’ingrédient pour de tels aliments;
-	- **b)** [Abrogé, DORS/97-362, art. 1]
+- **(1)** Malgré l’article 41, il est permis d’importer un sous-produit animal ou une chose contenant un sous-produit animal, autres que ceux visés aux articles 45, 46, 47, 47.1, 49, 50, 51, 51.2 et 53, si l’inspecteur a des motifs raisonnables de croire que l’importation du sous-produit ou de la chose, par sa nature, sa destination ou sa transformation, n’entraînera pas — ou qu’il est peu probable qu’elle entraîne — l’introduction de toute maladie déclarable, de toute maladie mentionnée à l’annexe VII et de toute épizootie grave que l’espèce de laquelle il provient est susceptible de contracter et qui peut être transmise par lui, pourvu que le sous-produit ou la chose ne soit pas destiné à servir d’aliments pour animaux ou d’ingrédient pour de tels aliments.
 
 - **(2)** Il est interdit d’utiliser ou de faire en sorte que soit utilisé un sous-produit animal ou une chose contenant un sous-produit animal importé conformément au paragraphe (1) comme aliments pour animaux ou comme ingrédient pour de tels aliments.
-> DORS/97-85, art. 34; DORS/97-362, art. 1.
+> DORS/97-85, art. 34; DORS/97-362, art. 1; DORS/2009-18, art. 7.
 
 
 
@@ -732,10 +733,10 @@ conformément à l’ordonnance qui précise la manière, le lieu, les condition
 
 - **(1)** Il est permis d’importer des glandes et organes d’animaux, dans leur forme brute, d’un pays non visé à l’article 41, ou d’une partie d’un tel pays, s’ils sont transportés, sous le sceau d’un inspecteur, directement du point d’entrée à un établissement approuvé par le ministre en vue d’être traités conformément au paragraphe (2).
 
-- **(2)** L’établissement visé au paragraphe (1) doit traiter les glandes et organes d’animaux dans leur forme brute de manière à prévenir l’introduction de toute maladie déclarable ou de toute autre épizootie grave que l’espèce de laquelle ils proviennent est susceptible de contracter et qui peut être transmise au Canada par eux.
+- **(2)** L’établissement visé au paragraphe (1) doit traiter les glandes et organes d’animaux dans leur forme brute de manière à prévenir l’introduction de toute maladie déclarable, de toute maladie mentionnée à l’annexe VII et de toute épizootie grave que l’espèce de laquelle ils proviennent est susceptible de contracter et qui peut être transmise par eux.
 
 - **(3)** Il est interdit à l’importateur de glandes et organes d’animaux de transporter ou de faire transporter ceux-ci ailleurs qu’à un établissement visé au paragraphe (1), jusqu’à ce qu’ils soient traités conformément au paragraphe (2).
-> DORS/97-85, art. 34.
+> DORS/97-85, art. 34; DORS/2009-18, art. 8.
 
 
 
@@ -767,33 +768,24 @@ conformément à l’ordonnance qui précise la manière, le lieu, les condition
 	- **a)** les conditions visées à l’article 41 sont respectées;
 	- **b)** l’importateur transporte la carnasse directement du point d’entrée à un établissement approuvé par le ministre afin de la traiter conformément au paragraphe (2).
 
-- **(2)** L’établissement visé au paragraphe (1) doit traiter la carnasse de manière à prévenir l’introduction de toute maladie déclarable ou de toute autre épizootie grave que l’espèce de laquelle elle provient est susceptible de contracter et qui peut être transmise au Canada par elle.
+- **(2)** L’établissement visé à l’alinéa (1)b) doit traiter la carnasse de manière à prévenir l’introduction de toute maladie déclarable, de toute maladie mentionnée à l’annexe VII et de toute épizootie grave que l’espèce de laquelle elle provient est susceptible de contracter et qui peut être transmise par elle.
 
 - **(3)** Il est interdit à un importateur de carnasse de transporter ou de faire transporter celle-ci ailleurs qu’à un établissement visé au paragraphe (1), jusqu’à ce qu’elle soit traitée conformément au paragraphe (2).
-> DORS/97-85, art. 36.
+> DORS/97-85, art. 36; DORS/2009-18, art. 9.
 
 
 
 
 
-### Farine de viande et d’os, farine d’os, farine de sang, résidus de graisse, farine de plumes, farine de poisson, produit d’une usine de traitement, fumier, déchets et rebuts de navires
-> [DORS/2006-147, art. 14]
+### Farine de viande et d’os, farine d’os, farine de sang, résidus de graisse, farine de plumes, farine de poisson, produit d’une usine de traitement, fumier animal, déchets et rebuts de navires
+> [DORS/2006-147, art. 14; DORS/2009-18, art. 10(F)]
 
 
 
-**46** 
-
-- **(1)** Il est interdit d’importer de la farine de viande et d’os, de la farine d’os, de la farine de sang, des résidus de graisse (farine de viande), de la farine de plumes, de la farine de poisson ou tout autre produit d’une usine de traitement, ou du fumier, à moins :
-	- **a)** que les conditions visées aux articles 166 à 171 soient respectées;
-	- **b)** que le pays d’origine du produit soit :
-		- **(i)** les États-Unis, selon Revenu Canada, Douanes;
-		- **(ii)** un pays autre que les États-Unis et que les conditions suivantes soient réunies :
-			- **(A)** ce pays ou la partie de ce pays duquel provient le produit est désigné comme étant exempt de toute maladie déclarable ou de toute autre épizootie grave que l’espèce de laquelle est tiré le produit est susceptible de contracter et qui peut être transmise par le produit,
-			- **(B)** l’importateur présente un certificat signé par un fonctionnaire du gouvernement du pays d’origine attestant que ce pays ou la partie de ce pays duquel provient le produit est celui visé à la division (A);
-	- **c)** qu’un inspecteur soit convaincu que le produit est transformé de manière à empêcher l’introduction de toute maladie déclarable ou de toute autre épizootie grave que l’espèce de laquelle est tiré le produit est susceptible de contracter et qui peut être transmise par le produit au Canada.
-
-- **(2)** Le paragraphe (1) ne s’applique pas au fumier se trouvant dans un véhicule qui provient des États-Unis et qui a servi au transport d’animaux, autres que des porcs, lorsque le fumier provient de ces animaux.
-> DORS/78-69, art. 25; DORS/80-428, art. 5; DORS/92-708, art. 2; DORS/97-85, art. 36; DORS/97-362, art. 2; DORS/2006-147, art. 15.
+**46** Il est interdit d’importer de la farine de viande et d’os, de la farine d’os, de la farine de sang, des résidus de graisse (farine de viande), de la farine de plumes, de la farine de poisson ou tout autre produit d’une usine de traitement, à moins que, en plus des exigences des articles 166 à 171, les conditions suivantes ne soient réunies :
+- **a)** le pays d’origine, ou la partie de ce pays d’origine, est désigné, en vertu de l’article 7, comme étant exempt ou comme posant un risque négligeable de toute maladie déclarable, de toute maladie mentionnée à l’annexe VII et de toute épizootie grave que l’espèce de laquelle provient le produit est susceptible de contracter et qui peut être transmise par lui, auquel cas l’importateur présente un certificat d’origine signé par un fonctionnaire du gouvernement de ce pays attestant de cette origine;
+- **b)** l’inspecteur a des motifs raisonnables de croire que le produit a été traité de manière à prévenir l’introduction de toute maladie déclarable, de toute maladie mentionnée à l’annexe VII et de toute épizootie grave que l’espèce de laquelle il provient est susceptible de contracter et qui peut être transmise par lui.
+> DORS/78-69, art. 25; DORS/80-428, art. 5; DORS/92-708, art. 2; DORS/97-85, art. 36; DORS/97-362, art. 2; DORS/2006-147, art. 15; DORS/2009-18, art. 11.
 
 
 
@@ -810,11 +802,13 @@ conformément à l’ordonnance qui précise la manière, le lieu, les condition
 
 ***déchets d’aéronef*** Déchets renfermant ou soupçonnés de renfermer un produit animal ou un sous-produit animal et provenant d’aliments qui ont été apportés à bord d’un aéronef et qui ont été servis ou destinés à être servis aux passagers ou à l’équipage pendant que l’aéronef fait route vers le Canada. (*aircraft garbage*)
 
-***fumier*** Fumier produit par les animaux à bord d’un navire ou d’un aéronef pendant qu’il fait route vers le Canada ou après son arrivée au Canada. (*animal manure*)
+***fumier***[Abrogée, DORS/2009-18, art. 12]
+
+***fumier animal*** Fumier produit par des animaux à bord d’un navire ou d’un aéronef pendant que celui-ci fait route vers le Canada ou après son arrivée au Canada. (*animal manure*)
 
 ***rebuts de navire*** Rebuts renfermant ou soupçonnés de renfermer un produit animal ou un sous-produit animal et provenant d’aliments qui ont été apportés à bord d’un navire et qui ont été servis ou destinés à être servis aux passagers ou à l’équipage pendant que le navire fait route vers le Canada. (*ship’s refuse*)
 
-- **(2)** Sous réserve des paragraphes (6) et (7), il est interdit de décharger au Canada des rebuts de navire ou du fumier provenant de tout pays autre que les États-Unis, à moins qu’ils ne soient déchargés dans un conteneur fermé et étanche au premier point d’entrée ou, s’il y a lieu, à tout autre endroit approuvé par le ministre, sous la surveillance de l’inspecteur ou d’une manière que celui-ci juge satisfaisante, de sorte qu’il n’en résulte qu’un risque négligeable d’introduction ou de propagation au Canada d’un vecteur, d’une maladie ou d’une substance toxique, et à moins qu’ils ne soient sans délai :
+- **(2)** Sous réserve des paragraphes (6) et (7), il est interdit de décharger au Canada des rebuts de navire ou du fumier animal provenant de tout pays autre que les États-Unis, à moins qu’ils ne soient déchargés dans un conteneur fermé et étanche au premier point d’entrée ou, s’il y a lieu, à tout autre endroit approuvé par le ministre, sous la surveillance de l’inspecteur ou d’une manière que celui-ci juge satisfaisante, de sorte qu’il n’en résulte qu’un risque négligeable d’introduction ou de propagation au Canada d’un vecteur, d’une maladie ou d’une substance toxique, et à moins qu’ils ne soient sans délai :
 	- **a)** ou bien incinérés;
 	- **b)** ou bien soumis à un traitement thermique en profondeur à une température d’au moins 100 °C pendant une période d’au moins 30 minutes et déposés dans une décharge contrôlée approuvée par le ministre, sous la surveillance de l’inspecteur ou d’une manière que celui-ci juge satisfaisante, de sorte qu’il n’en résulte qu’un risque négligeable d’introduction ou de propagation au Canada d’un vecteur, d’une maladie ou d’une substance toxique;
 	- **c)** ou bien transportés dans une décharge contrôlée approuvée par le ministre et enfouis avec un remblai d’au moins 1,8 m, sous la surveillance de l’inspecteur ou d’une manière que celui-ci juge satisfaisante, de sorte qu’il n’en résulte qu’un risque négligeable d’introduction ou de propagation au Canada d’un vecteur, d’une maladie ou d’une substance toxique.
@@ -827,22 +821,22 @@ conformément à l’ordonnance qui précise la manière, le lieu, les condition
 	- **a)** traités et éliminés conformément au paragraphe (2);
 	- **b)** transportés sans délai, sous la surveillance de l’inspecteur ou d’une manière que celui-ci juge satisfaisante, de sorte qu’il n’en résulte qu’un risque négligeable d’introduction ou de propagation au Canada d’un vecteur, d’une maladie ou d’une substance toxique, vers une décharge contrôlée approuvée par le ministre et déposés à cet endroit.
 
-- **(5)** Sous réserve des paragraphes (6) et (7), il est interdit de décharger les rebuts de navire et le fumier visés au paragraphe (2), les rebuts de navire visés au paragraphe (3) et les déchets d’aéronef et les rebuts de navire visés au paragraphe (4), provenant d’un aéronef ou d’un navire, selon le cas, à un endroit où il n’est pas possible de les traiter et de les éliminer conformément au présent article.
+- **(5)** Sous réserve des paragraphes (6) et (7), il est interdit de décharger les rebuts de navire et le fumier animal visés au paragraphe (2), les rebuts de navire visés au paragraphe (3) et les déchets d’aéronef et les rebuts de navire visés au paragraphe (4), provenant d’un aéronef ou d’un navire, selon le cas, à un endroit où il n’est pas possible de les traiter et de les éliminer conformément au présent article.
 
-- **(6)** Les déchets d’aéronef, les rebuts de navire et le fumier peuvent être déchargés à un endroit où il n’est pas possible de les traiter et de les éliminer conformément au présent article, à la condition qu’ils soient :
+- **(6)** Les déchets d’aéronef, les rebuts de navire et le fumier animal peuvent être déchargés à un endroit où il n’est pas possible de les traiter et de les éliminer conformément au présent article, à la condition qu’ils soient :
 	- **a)** d’une part, transportés sans délai à un autre endroit approuvé par le ministre, puis traités et éliminés à cet endroit conformément au présent article;
 	- **b)** d’autre part, manipulés, transportés et gardés sous la surveillance de l’inspecteur ou d’une manière que celui-ci juge satisfaisante, de sorte qu’il n’en résulte qu’un risque négligeable d’introduction ou de propagation au Canada d’un vecteur, d’une maladie ou d’une substance toxique.
 
-- **(7)** Le ministre peut autoriser une personne à décharger des déchets d’aéronef, des rebuts de navire et du fumier à un endroit où ils ne peuvent immédiatement être traités et éliminés conformément au présent article, si les conditions suivantes sont réunies :
+- **(7)** Le ministre peut autoriser une personne à décharger des déchets d’aéronef, des rebuts de navire et du fumier animal à un endroit où ils ne peuvent immédiatement être traités et éliminés conformément au présent article, si les conditions suivantes sont réunies :
 	- **a)** le ministre est convaincu, d’après les circonstances, qu’ils seront subséquemment traités et éliminés conformément au présent article;
 	- **b)** ils sont entre-temps entreposés à cet endroit conformément aux prescriptions de l’inspecteur pour ce qui est de la manière et du délai d’entreposage, de façon à prévenir l’introduction ou la propagation au Canada d’un vecteur, d’une maladie ou d’une substance toxique.
 
-- **(8)** Quiconque transporte des déchets d’aéronef, des rebuts de navire ou du fumier conformément au paragraphe (6) ou les entrepose conformément au paragraphe (7) doit se conformer aux prescriptions de l’inspecteur formulées en application de ces paragraphes.
+- **(8)** Quiconque transporte des déchets d’aéronef, des rebuts de navire ou du fumier animal conformément au paragraphe (6) ou les entrepose conformément au paragraphe (7) doit se conformer aux prescriptions de l’inspecteur formulées en application de ces paragraphes.
 
 - **(9)** [Abrogé, DORS/97-85, art. 37]
 
 - **(10)** Le propriétaire ou la personne responsable d’un navire ou d’un aéronef visé par le présent article doit veiller à ce que les dispositions de celui-ci soient respectées.
-> DORS/90-349, art. 1; DORS/92-708, art. 3; DORS/97-85, art. 37; DORS/97-151, art. 28; DORS/2000-184, art. 66.
+> DORS/90-349, art. 1; DORS/92-708, art. 3; DORS/97-85, art. 37; DORS/97-151, art. 28; DORS/2000-184, art. 66; DORS/2009-18, art. 12 et 19(F).
 
 
 
@@ -864,11 +858,11 @@ conformément à l’ordonnance qui précise la manière, le lieu, les condition
 **49** 
 
 - **(1)** Il est interdit d’importer une carcasse de gibier, à moins que les conditions suivantes ne soient réunies :
-	- **a)** la condition visée au paragraphe 41(1) est respectée;
+	- **a)** l’Agence des services frontaliers du Canada a conclu en vertu du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) que la carcasse provient des États-Unis;
 	- **b)** l’importateur détient un permis de chasse pour ce gibier délivré en vertu des lois applicables des États-Unis ou de l’un de ses États.
 
 - **(2)** Le nombre de carcasses qui peuvent être importées est celui indiqué dans les lois visées à l’alinéa (1)b).
-> DORS/78-69, art. 28(F); DORS/97-85, art. 38.
+> DORS/78-69, art. 28(F); DORS/97-85, art. 38; DORS/2009-18, art. 13.
 
 
 
@@ -879,8 +873,8 @@ conformément à l’ordonnance qui précise la manière, le lieu, les condition
 
 **50** Il est interdit d’importer :
 - **a)** de la laine, du poil et des soies crottés ou souillés de sang;
-- **b)** du fumier ou un sous-produit animal provenant ou prélevé d’un animal atteint de la fièvre charbonneuse, de la fièvre aphteuse, de la peste bovine ou de l’encéphalopathie spongiforme bovine, ou de toute maladie déclarable ou de toute autre épizootie grave que l’espèce de laquelle provient le fumier ou le sous-produit est susceptible de contracter et qui peut être transmise par eux.
-> DORS/97-85, art. 39.
+- **b)** du fumier ou un sous-produit animal provenant d’un animal atteint de la fièvre charbonneuse, de la fièvre aphteuse, de la peste bovine ou de l’encéphalopathie spongiforme bovine, ou de toute maladie déclarable, de toute maladie mentionnée à l’annexe VII et de toute épizootie grave que l’espèce de laquelle il provient est susceptible de contracter et qui peut être transmise par lui.
+> DORS/97-85, art. 39; DORS/2009-18, art. 14.
 
 
 
@@ -910,12 +904,15 @@ conformément à l’ordonnance qui précise la manière, le lieu, les condition
 
 **51.2** 
 
-- **(1)** Il est permis d’importer du sang animal ou du sérum animal, autre qu’un produit vétérinaire biologique, si le sang ou le sérum ne contient ni pathogène animal ni élément constituant d’un tel pathogène et si, selon le cas :
-	- **a)** le pays d’origine du sang ou du sérum est les États-Unis, selon Revenu Canada, Douanes;
-	- **b)** le pays d’origine du sang ou du sérum ou une partie de ce pays est désigné comme étant exempt de toute maladie déclarable ou de toute autre épizootie grave que l’espèce de laquelle provient le sang ou le sérum est susceptible de contracter et qui peut être transmise par celui-ci, auquel cas l’importateur doit présenter un certificat signé par un fonctionnaire du gouvernement du pays d’origine attestant ce fait.
+- **(1)** Il est permis d’importer du sang animal ou du sérum animal autre qu’un produit vétérinaire biologique, si le sang ou le sérum ne contient ni pathogène animal ni élément constituant d’un tel pathogène et si l’une des conditions suivantes est remplie :
+	- **a)** le pays d’origine est les États-Unis et le sang ou le sérum ne provient pas d’un animal de la sous-famille *Bovinae* ou *Caprinae*;
+	- **b)** le pays d’origine, ou la partie de ce pays d’origine, est désigné, en vertu de l’article 7, comme étant exempt ou comme posant un risque négligeable de toute maladie déclarable, de toute maladie mentionnée à l’annexe VII et de toute épizootie grave que l’espèce de laquelle provient le sang ou le sérum est susceptible de contracter et qui peut être transmise par eux, auquel cas l’importateur présente un certificat d’origine signé par un fonctionnaire du gouvernement de ce pays attestant de cette origine;
+	- **c)** le sang ou le sérum a été recueilli, traité, préparé, transformé, entreposé et manipulé de manière à prévenir l’introduction de toute maladie déclarable, de toute maladie mentionnée à l’annexe VII et de toute épizootie grave que l’espèce de laquelle il provient est susceptible de contracter et qui peut être transmise par lui, auquel cas l’importateur présente un certificat signé par un fonctionnaire du gouvernement du pays d’origine qui :
+		- **(i)** atteste que le sang ou le sérum animal a été recueilli, traité, préparé, transformé, entreposé et manipulé de cette manière,
+		- **(ii)** expose en détail comment il a été recueilli, traité, préparé, transformé, entreposé et manipulé.
 
 - **(2)** Il est interdit d’exposer à un animal vivant ou d’utiliser dans un animal vivant du sang animal ou du sérum animal importé en vertu du paragraphe (1), de quelque manière que ce soit.
-> DORS/97-85, art. 41; DORS/97-478, art. 12.
+> DORS/97-85, art. 41; DORS/97-478, art. 12; DORS/2009-18, art. 15.
 
 
 
@@ -926,12 +923,12 @@ conformément à l’ordonnance qui précise la manière, le lieu, les condition
 
 **52** 
 
-- **(1)** Malgré toute autre disposition de la présente partie, il est permis d’importer un sous-produit animal si l’importateur présente un document qui expose en détail le traitement qu’a subi le sous-produit et si l’inspecteur est convaincu, d’après la provenance du document, les renseignements qui y figurent et tout autre renseignement pertinent dont il dispose, ainsi que les résultats de l’inspection du sous-produit, si elle est jugée nécessaire, que l’importation de celui-ci n’entraînera pas — ou qu’il est peu probable qu’elle entraîne — l’introduction ou la propagation au Canada d’un vecteur, d’une maladie ou d’une substance toxique.
+- **(1)** Malgré toute autre disposition de la présente partie, il est permis d’importer un sous-produit animal si l’importateur présente un document qui expose en détail le traitement qu’a subi le sous-produit et que l’inspecteur a des motifs raisonnables de croire, d’après la provenance du document, les renseignements qui y figurent et tout autre renseignement pertinent dont il dispose, ainsi que les résultats de l’inspection du sous-produit, au besoin, que l’importation de celui-ci n’entraînera pas — ou qu’il est peu probable qu’elle entraîne — l’introduction ou la propagation d’un vecteur, d’une maladie ou d’une substance toxique.
 
 - **(2)** Malgré toute autre disposition de la présente partie, il est permis d’importer un sous-produit animal aux termes d’un permis délivré par le ministre en vertu de l’article 160.
 
 - **(3)** [Abrogé, DORS/2000-184, art. 67]
-> DORS/92-650, art. 3; DORS/95-475, art. 4(F); DORS/97-85, art. 42; DORS/2000-184, art. 67.
+> DORS/92-650, art. 3; DORS/95-475, art. 4(F); DORS/97-85, art. 42; DORS/2000-184, art. 67; DORS/2009-18, art. 16.
 
 
 
@@ -940,17 +937,16 @@ conformément à l’ordonnance qui précise la manière, le lieu, les condition
 ### Aliments pour animaux
 
 
-**53** Il est interdit d’importer des aliments pour animaux renfermant un produit animal ou un sous-produit animal, ou tout produit animal ou sous-produit animal destiné à servir d’aliments pour animaux ou d’ingrédient pour de tels aliments, à moins :
-- **a)** selon le cas :
-	- **(i)** leur pays d’origine est les États-Unis, selon Revenu Canada, Douanes,
-	- **(ii)** leur pays d’origine ou une partie de ce pays est désigné comme étant exempt de toute maladie déclarable ou de toute autre épizootie grave que l’espèce de laquelle provient le produit animal ou le sous-produit animal est susceptible de contracter et qui peut être transmise par ceux-ci, auquel cas l’importateur doit présenter un certificat signé par un fonctionnaire du gouvernement du pays d’origine attestant ce fait;
-- **b)** que le pays d’origine du produit soit :
-	- **(i)** les États-Unis, selon Revenu Canada, Douanes;
-	- **(ii)** un pays autre que les États-Unis et que les conditions suivantes soient réunies :
-		- **(A)** ce pays ou la partie de ce pays duquel provient le produit est désigné comme étant exempt de toute maladie déclarable ou de toute autre épizootie grave que l’espèce de laquelle est tiré le produit est susceptible de contracter et qui peut être transmise par le produit,
-		- **(B)** l’importateur présente un certificat signé par un fonctionnaire du gouvernement du pays d’origine attestant que ce pays ou la partie de ce pays duquel provient le produit est celui visé à la division (A);
-- **c)** que, dans le cas des aliments pour animaux transportés par navire, le capitaine atteste qu’aucun ruminant ou porc ne satisfaisant pas aux exigences d’un permis d’importation délivré aux termes du présent règlement n’a été pris à bord du navire.
-> DORS/78-69, art. 29; DORS/97-85, art. 43; DORS/97-362, art. 3; DORS/97-478, art. 13; DORS/2002-438, art. 7(F).
+**53** 
+
+- **(1)** Il est interdit d’importer un aliment pour animaux renfermant un produit animal ou un sous-produit animal, à moins que les conditions suivantes ne soient réunies :
+	- **a)** selon le cas :
+		- **(i)** le pays d’origine est les États-Unis et l’aliment pour animaux ne provient pas d’un animal de la sous-famille *Bovinae* ou *Caprinae*;
+		- **(ii)** le pays d’origine de l’aliment et de chaque produit animal ou sous-produit animal qu’il renferme, ou la partie de ce pays d’origine, est désigné, en vertu de l’article 7, comme étant exempt ou comme posant un risque négligeable de toute maladie déclarable, de toute maladie mentionnée à l’annexe VII et de toute épizootie grave que l’espèce de laquelle provient l’aliment, le produit ou le sous-produit est susceptible de contracter et qui peut être transmise par lui, auquel cas l’importateur présente un certificat d’origine signé par un fonctionnaire du gouvernement de ce pays attestant de cette origine;
+	- **b)** dans le cas d’aliments pour animaux transportés à bord d’un navire, le capitaine atteste qu’aucun ruminant ou porc — autres que ceux importés conformément à un permis délivré en vertu de l’article 160 — n’ont été chargés à bord du navire.
+
+- **(2)** Il est interdit d’importer tout produit animal ou sous-produit animal destiné à servir d’aliment pour animaux ou d’ingrédient pour un tel aliment, à moins que le pays d’origine, ou la partie de ce pays d’origine, soit désigné, en vertu de l’article 7, comme étant exempt ou comme posant un risque négligeable de toute maladie déclarable, de toute maladie mentionnée à l’annexe VII et de toute épizootie grave que l’espèce de laquelle provient le produit ou le sous-produit est susceptible de contracter et qui peut être transmise par lui, auquel cas l’importateur présente un certificat d’origine signé par un fonctionnaire du gouvernement de ce pays attestant de cette origine.
+> DORS/78-69, art. 29; DORS/97-85, art. 43; DORS/97-362, art. 3; DORS/97-478, art. 13; DORS/2002-438, art. 7(F); DORS/2009-18, art. 17.
 
 
 
@@ -1741,8 +1737,8 @@ de nettoyer et désinfecter ce bâtiment, cette étable, ce parc, cet autre lieu
 
 - **(2)** [Abrogé, DORS/98-409, art. 12]
 
-- **(3)** Le propriétaire ou le responsable de conteneurs dont ont été déchargés, en application de l’article 47.1, du fumier, des déchets d’aéronef ou des rebuts de navire, au sens du paragraphe 47.1(1), doit les nettoyer et les désinfecter avant de les réutiliser.
-> DORS/98-409, art. 12; DORS/2003-6, art. 80.
+- **(3)** Le propriétaire ou le responsable de conteneurs dont ont été déchargés, en application de l’article 47.1, du fumier animal, des déchets d’aéronef ou des rebuts de navire, au sens du paragraphe 47.1(1), doit les nettoyer et les désinfecter avant de les réutiliser.
+> DORS/98-409, art. 12; DORS/2003-6, art. 80; DORS/2009-18, art. 19(F).
 
 
 
@@ -2959,7 +2955,9 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 	- **d)** la date de préparation de l’engrais ou du supplément d’engrais;
 	- **e)** tout renseignement permettant d’identifier chaque lot de l’engrais ou du supplément d’engrais;
 	- **f)** les nom et adresse de toute personne à qui un engrais ou un supplément d’engrais est distribué ou vendu, ainsi qu’une description de l’engrais ou du supplément d’engrais, notamment le nom et la quantité.
-> DORS/2006-147, art. 28.
+
+- **(3)** Au présent article, ***matériel à risque spécifié*** s’entend au sens de l’article 6.1.
+> DORS/2006-147, art. 28; DORS/2009-18, art. 18.
 
 
 
