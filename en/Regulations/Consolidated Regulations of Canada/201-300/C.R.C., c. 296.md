@@ -689,24 +689,25 @@ the inspector may order the person who owns or has possession, care or control o
 
 **41** 
 
-- **(1)** A person may import into Canada from the United States an animal by-product, manure or a thing containing an animal by-product or manure, other than a thing described in section 45, 46, 47.1, 49, 50, 51, 51.2 or 53, if Revenue Canada, Customs determines that the country of origin is the United States.
+- **(1)** A person may import into Canada an animal by-product, manure or a thing containing an animal by-product or manure, other than one described in section 45, 46, 47, 47.1, 49, 50, 51, 51.2 or 53, if
+	- **(a)** the country of origin is the United States and the by-product, manure or thing is not derived from an animal of the subfamily *Bovinae* or *Caprinae*;
+	- **(b)** the country of origin, or the part of that country, is designated under section 7 as being free of, or as posing a negligible risk for, any reportable disease, any disease referred to in Schedule VII and any serious epizootic disease to which the species from which the by-product, manure or thing was derived is susceptible and that can be transmitted by the by-product, manure or thing, and the person produces a certificate of origin signed by an official of the government of that country attesting to that origin; or
+	- **(c)** the by-product, manure or thing has been collected, treated, prepared, processed, stored and handled in a manner that would prevent the introduction into Canada of any reportable disease, any disease referred to in Schedule VII and any serious epizootic disease to which the species from which the by-product, manure or thing was derived is susceptible and that can be transmitted by the by-product, manure or thing, and the person produces a certificate signed by an official of the government of the country of origin that
+		- **(i)** attests that the by-product, manure or thing has been collected, treated, prepared, processed, stored and handled in that manner, and
+		- **(ii)** shows the details of how it was collected, treated, prepared, processed, stored and handled.
 
-- **(2)** A person may import into Canada from a country or a part of a country that is not the United States an animal by-product, manure or a thing containing an animal by-product or manure, other than a thing described in section 45, 46, 47, 47.1, 49, 50, 51, 51.2 or 53, if
-	- **(a)** the country of origin or part of such a country is designated as free of any reportable disease or any other serious epizootic disease to which the species that produced the thing is susceptible and which can be transmitted by the thing; and
-	- **(b)** the person produces a certificate signed by an official of the government of the country of origin that shows that the country of origin or part of such a country is the designated country or part thereof referred to in paragraph (a).
-> SOR/78-69, s. 23(F); SOR/80-428, s. 4; SOR/82-590, s. 2; SOR/97-85, s. 34.
+- **(2)** Subsection (1) does not apply in respect of manure found in or on a vehicle that is entering Canada from the United States if the manure was produced by animals, other than swine, that are being transported by the vehicle.
+> SOR/78-69, s. 23(F); SOR/80-428, s. 4; SOR/82-590, s. 2; SOR/97-85, s. 34; SOR/2009-18, s. 6.
 
 
 
 
 **41.1** 
 
-- **(1)** Notwithstanding section 41, a person may import into Canada an animal by-product or a thing containing an animal by-product, other than a thing described in section 45, 46, 47, 47.1, 49, 50, 51, 51.2 or 53, if
-	- **(a)** an inspector is satisfied on reasonable grounds that the animal by-product is processed in a manner which would prevent the introduction into Canada of any reportable disease or any other serious epizootic disease to which the species that produced the animal by-product is susceptible and which can be transmitted by the animal by-product, provided that the animal by-product or the thing containing the animal by-product is not intended for use as animal food or as an ingredient in animal food;
-	- **(b)** [Repealed, SOR/97-362, s. 1]
+- **(1)** Despite section 41, a person may import into Canada an animal by-product or a thing containing an animal by-product, other than one described in section 45, 46, 47, 47.1, 49, 50, 51, 51.2 or 53, if an inspector has reasonable grounds to believe that the importation of the by-product or thing, by its nature, end use or the manner in which it has been processed, would not, or would not be likely to, result in the introduction into Canada of any reportable disease, any disease referred to in Schedule VII and any serious epizootic disease to which the species from which the by-product was derived is susceptible and that can be transmitted by the by-product, and the by-product or thing is not intended for use as animal food or as an ingredient in animal food.
 
 - **(2)** No person shall, in respect of any animal by-product or thing containing an animal by-product that has been imported in accordance with subsection (1), use or cause it to be used as animal food or as an ingredient in animal food.
-> SOR/97-85, s. 34; SOR/97-362, s. 1.
+> SOR/97-85, s. 34; SOR/97-362, s. 1; SOR/2009-18, s. 7.
 
 
 
@@ -734,10 +735,10 @@ the inspector may order the person who owns or has possession, care or control o
 
 - **(1)** A person may import raw animal glands and animal organs into Canada from a country or a part of a country not referred to in section 41 if the glands and organs are transported under seal of an inspector directly from the place of entry to an establishment approved by the Minister for the purposes of processing in accordance with subsection (2).
 
-- **(2)** An establishment referred to in subsection (1) shall process the raw glands and organs in a manner that would prevent the introduction of any reportable disease or any other serious epizootic disease to which the species that produced the glands and organs is susceptible and which can be transmitted by the glands and organs.
+- **(2)** An establishment referred to in subsection (1) shall process the raw glands and organs in a manner that would prevent the introduction of any reportable disease, any disease referred to in Schedule VII and any serious epizootic disease to which the species from which the glands and organs was taken is susceptible and that can be transmitted by the glands and organs.
 
 - **(3)** A person who imports raw animal glands or animal organs into Canada shall not transport them or cause them to be transported to any place other than an establishment referred to in subsection (1) until after they have been processed in accordance with subsection (2).
-> SOR/97-85, s. 34.
+> SOR/97-85, s. 34; SOR/2009-18, s. 8.
 
 
 
@@ -769,33 +770,24 @@ the inspector may order the person who owns or has possession, care or control o
 	- **(a)** the conditions referred to in section 41 are met; and
 	- **(b)** the person importing it transports it directly from the place of entry to an establishment approved by the Minister for purposes of processing the gluestock in accordance with subsection (2).
 
-- **(2)** An establishment referred to in paragraph (1)(b) shall process the gluestock in a manner that would prevent the introduction of any reportable disease or any other serious epizootic disease to which the species that produced the gluestock is susceptible and which could be transmitted by the gluestock in Canada.
+- **(2)** An establishment referred to in paragraph (1)(b) shall process the gluestock in a manner that would prevent the introduction of any reportable disease, any disease referred to in Schedule VII and any serious epizootic disease to which the species from which the gluestock was derived is susceptible and that can be transmitted by the gluestock.
 
 - **(3)** A person who imports gluestock into Canada shall not transport it or cause it to be transported to any place other than the establishment referred to in subsection (1) until it has been processed in accordance with subsection (2).
-> SOR/97-85, s. 36.
+> SOR/97-85, s. 36; SOR/2009-18, s. 9.
 
 
 
 
 
 ### Meat and Bone Meal, Bone Meal, Blood Meal, Tankage, Feather Meal, Fish Meal, Rendering Plant Products, Animal Manure, Garbage and Ship’s Refuse
-> [SOR/2006-147, s. 14]
+> [SOR/2006-147, s. 14; SOR/2009-18, s. 10(F)]
 
 
 
-**46** 
-
-- **(1)** No person shall import meat and bone meal, bone meal, blood meal, tankage (meat meal), feather meal, fish meal or any other product of a rendering plant or manure into Canada unless
-	- **(a)** the person meets the conditions set out in sections 166 to 171;
-	- **(b)** the product originated
-		- **(i)** in the United States as determined by Revenue Canada, Customs, or
-		- **(ii)** in a country other than the United States and
-			- **(A)** the country of origin, or the part of that country from which the product originated, is designated as free from any reportable disease or other serious epizootic disease to which the species that produced the product is susceptible and that can be transmitted by the product, and
-			- **(B)** the person produces a certificate signed by an official of the government of the country of origin that shows that the country of origin, or the part of that country from which the product originated, is the designated country or part referred to in clause (A); and
-	- **(c)** an inspector is satisfied that it is processed in a manner that would prevent the introduction of any reportable disease or other serious epizootic disease to which the species that produced the product is susceptible and that can be transmitted by the product in Canada.
-
-- **(2)** Subsection (1) does not apply to manure found on a vehicle that is entering Canada from the United States and that has been used to transport animals, other than swine, where the manure was produced by those animals.
-> SOR/78-69, s. 25; SOR/80-428, s. 5; SOR/92-708, s. 2; SOR/97-85, s. 36; SOR/97-362, s. 2; SOR/2006-147, s. 15.
+**46** No person shall import into Canada meat and bone meal, bone meal, blood meal, tankage (meat meal), feather meal, fish meal or any other product of a rendering plant unless, in addition to the requirements of sections 166 to 171,
+- **(a)** the country of origin, or the part of that country, is designated under section 7 as being free of, or as posing a negligible risk for, any reportable disease, any disease referred to in Schedule VII and any serious epizootic disease to which the species from which the product was derived is susceptible and that can be transmitted by the product, and the person produces a certificate of origin signed by an official of the government of that country attesting to that origin; and
+- **(b)** an inspector has reasonable grounds to believe that the product has been processed in a manner that would prevent the introduction of any reportable disease, any disease referred to in Schedule VII and any serious epizootic disease to which the species from which the product was derived is susceptible and that can be transmitted by the product.
+> SOR/78-69, s. 25; SOR/80-428, s. 5; SOR/92-708, s. 2; SOR/97-85, s. 36; SOR/97-362, s. 2; SOR/2006-147, s. 15; SOR/2009-18, s. 11.
 
 
 
@@ -812,7 +804,7 @@ the inspector may order the person who owns or has possession, care or control o
 
 ***aircraft garbage*** means garbage that contains or is suspected to contain an animal product or an animal by-product and that originated in food that was taken on board an aircraft and was served or intended to be served for consumption on the aircraft by the passengers or crew of the aircraft en route to Canada; (*déchets d’aéronef*)
 
-***animal manure*** means manure that is produced by animals on board a ship or aircraft while *en route* to or after arrival in Canada; (*fumier*)
+***animal manure*** means manure that is produced by animals on board a ship or aircraft while *en route* to or after arrival in Canada; (*fumier animal*)
 
 ***ship’s refuse*** means refuse that contains or is suspected to contain an animal product or an animal by-product and that originated in food that was taken on board a vessel and was served or intended to be served for consumption on the vessel by the passengers or crew of the vessel en route to Canada; (*rebuts de navire*)
 
@@ -844,7 +836,7 @@ the inspector may order the person who owns or has possession, care or control o
 - **(9)** [Repealed, SOR/97-85, s. 37]
 
 - **(10)** The owner or person in charge of a vessel or aircraft referred to in this section shall ensure that the requirements of this section are complied with.
-> SOR/90-349, s. 1; SOR/92-708, s. 3; SOR/97-85, s. 37; SOR/97-151, s. 28; SOR/2000-184, s. 66.
+> SOR/90-349, s. 1; SOR/92-708, s. 3; SOR/97-85, s. 37; SOR/97-151, s. 28; SOR/2000-184, s. 66; SOR/2009-18, ss. 12, 19(F).
 
 
 
@@ -866,11 +858,11 @@ the inspector may order the person who owns or has possession, care or control o
 **49** 
 
 - **(1)** No person shall import the carcass of a game animal unless
-	- **(a)** the condition referred to in subsection 41(1) is met; and
+	- **(a)** the Canada Border Services Agency has determined under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) that the carcass originated in the United States; and
 	- **(b)** the person importing the carcass holds a permit for that game animal issued pursuant to the applicable legislation of the United States or a state thereof.
 
 - **(2)** The number of carcasses that a person may import into Canada shall be the number established by the applicable legislation referred to in paragraph (1)(b).
-> SOR/78-69, s. 28(F); SOR/97-85, s. 38.
+> SOR/78-69, s. 28(F); SOR/97-85, s. 38; SOR/2009-18, s. 13.
 
 
 
@@ -881,8 +873,8 @@ the inspector may order the person who owns or has possession, care or control o
 
 **50** No person shall import into Canada
 - **(a)** matted or blood-stained wool, hair or bristles; or
-- **(b)** any animal by-product or manure that was taken or removed from an animal affected with anthrax, foot-and-mouth disease, rinderpest or Bovine Spongiform Encephalopathy or any reportable disease or any other serious epizootic disease to which the species that produced the animal by-product or manure is susceptible and which can be transmitted by the animal by-product.
-> SOR/97-85, s. 39.
+- **(b)** any animal by-product or manure that was derived from an animal affected with anthrax, foot-and-mouth disease, rinderpest or Bovine Spongiform Encephalopathy or any reportable disease, any disease referred to in Schedule VII and any serious epizootic disease to which the species from which the by-product or manure was derived is susceptible and that can be transmitted by the by-product or manure.
+> SOR/97-85, s. 39; SOR/2009-18, s. 14.
 
 
 
@@ -913,11 +905,14 @@ the inspector may order the person who owns or has possession, care or control o
 **51.2** 
 
 - **(1)** A person may import into Canada animal blood or animal serum, other than a veterinary biologic, if it does not contain an animal pathogen or part of one and
-	- **(a)** the country of origin is determined by Revenue Canada, Customs, to be the United States; or
-	- **(b)** the country of origin or part of it is designated as free from any reportable disease or any other serious epizootic disease to which the species that produced the blood or serum is susceptible and that can be transmitted by the blood or serum, and the person who imports the blood or serum produces a certificate signed by an official of the government of the country of origin that shows that the country of origin or part of it is the designated country or part.
+	- **(a)** the country of origin is the United States and the blood or serum is not derived from an animal of the subfamily *Bovinae* or *Caprinae*;
+	- **(b)** the country of origin, or the part of that country, is designated under section 7 as being free of, or as posing a negligible risk for, any reportable disease, any disease referred to in Schedule VII and any serious epizootic disease to which the species from which the blood or serum was derived is susceptible and that can be transmitted by the blood or serum, and the person produces a certificate of origin signed by an official of the government of that country attesting to that origin; or
+	- **(c)** the blood or serum has been collected, treated, prepared, processed, stored and handled in a manner that would prevent the introduction into Canada of any reportable disease, any disease referred to in Schedule VII and any serious epizootic disease to which the species from which the blood or serum was derived is susceptible and that can be transmitted by the blood or serum, and the person produces a certificate signed by an official of the government of the country of origin that
+		- **(i)** attests that the blood or serum has been collected, treated, prepared, processed, stored and handled in that manner, and
+		- **(ii)** shows the details of how the blood or serum was collected, treated, prepared, processed, stored and handled.
 
 - **(2)** No person shall in any manner expose to or use in a live animal, animal blood or animal serum imported in accordance with subsection (1).
-> SOR/97-85, s. 41; SOR/97-478, s. 12.
+> SOR/97-85, s. 41; SOR/97-478, s. 12; SOR/2009-18, s. 15.
 
 
 
@@ -928,12 +923,12 @@ the inspector may order the person who owns or has possession, care or control o
 
 **52** 
 
-- **(1)** Notwithstanding anything in this Part, a person may import an animal by-product if the person produces a document that shows the details of the treatment of the animal by-product and the inspector is satisfied, based on the source of the document, the information contained in the document and any other relevant information available to the inspector and, where necessary, on an inspection of the animal by-product, that the importation of the animal by-product into Canada would not, or would not be likely to, result in the introduction into Canada, or the spread within Canada, of a vector, disease or toxic substance.
+- **(1)** Despite anything in this Part, a person may import into Canada an animal by-product if the person produces a document that shows the details of the treatment of the by-product and an inspector has reasonable grounds to believe — based on the source of the document, the information contained in the document and any other relevant information available to the inspector and, if necessary, on an inspection of the by-product — that the importation of the by-product would not, or would not be likely to, result in the introduction into Canada, or the spread within Canada, of a vector, disease or toxic substance.
 
 - **(2)** Notwithstanding anything in this Part, a person may import an animal by-product under and in accordance with a permit issued by the Minister under section 160.
 
 - **(3)** [Repealed, SOR/2000-184, s. 67]
-> SOR/92-650, s. 3; SOR/95-475, s. 4(F); SOR/97-85, s. 42; SOR/2000-184, s. 67.
+> SOR/92-650, s. 3; SOR/95-475, s. 4(F); SOR/97-85, s. 42; SOR/2000-184, s. 67; SOR/2009-18, s. 16.
 
 
 
@@ -942,17 +937,16 @@ the inspector may order the person who owns or has possession, care or control o
 ### Animal Food
 
 
-**53** No person shall import into Canada any animal food that contains an animal product or animal by-product, or an animal product or animal by-product that is to be used as animal food or as an ingredient in animal food, unless
-- **(a)** either
-	- **(i)** the country of origin is determined by Revenue Canada, Customs, to be the United States, or
-	- **(ii)** the country of origin or part of it is designated as free from any reportable disease or any other serious epizootic disease to which the species that produced the animal product or animal by-product is susceptible and that can be transmitted by the product or by-product, and the person who imports the animal food produces a certificate signed by an official of the government of the country of origin that shows that the country of origin or part of it is the designated country or part; and
-- **(b)** the product originated
-	- **(i)** in the United States as determined by Revenue Canada, Customs, or
-	- **(ii)** in a country other than the United States and
-		- **(A)** the country of origin, or the part of that country from which the product originated, is designated as free from any reportable disease or other serious epizootic disease to which the species that produced the product is susceptible and that can be transmitted by the product, and
-		- **(B)** the person produces a certificate signed by an official of the government of the country of origin that shows that the country of origin, or the part of that country from which the product originated, is the designated country or part referred to in clause (A); and
-- **(c)** in the case of animal food carried on board a vessel, the master of the vessel certifies that no ruminants or swine were taken on board the vessel, except animals that meet the requirements of an import permit issued under these Regulations.
-> SOR/78-69, s. 29; SOR/97-85, s. 43; SOR/97-362, s. 3; SOR/97-478, s. 13; SOR/2002-438, s. 7(F).
+**53** 
+
+- **(1)** No person shall import into Canada any animal food that contains an animal product or animal by-product unless
+	- **(a)** the country of origin
+		- **(i)** of the animal food is the United States and the animal food is not derived from an animal of the subfamily *Bovinae* or *Caprinae*; or
+		- **(ii)** or the part of that country of the animal food — and each animal product and animal by-product contained in that food — is designated under section 7 as being free of, or as posing a negligible risk for, any reportable disease, any disease referred to in Schedule VII and any serious epizootic disease to which the species from which the food, product or by-product was derived is susceptible and that can be transmitted by the food, product or by-product, and the person produces a certificate of origin signed by an official of the government of that country attesting to that origin; and
+	- **(b)** in the case of animal food that is carried on board a vessel, the master of the vessel certifies that no ruminants or swine, other than those imported in accordance with a permit issued under section 160, were taken on board the vessel.
+
+- **(2)** No person shall import into Canada any animal product or animal by-product that is to be used as animal food or as an ingredient in animal food unless the country of origin, or the part of that country, is designated under section 7 as being free of, or as posing a negligible risk for, any reportable disease, any disease referred to in Schedule VII and any serious epizootic disease to which the species from which the product or by-product was derived is susceptible and that can be transmitted by the product or by-product, and the person produces a certificate of origin signed by an official of the government of that country attesting to that origin.
+> SOR/78-69, s. 29; SOR/97-85, s. 43; SOR/97-362, s. 3; SOR/97-478, s. 13; SOR/2002-438, s. 7(F); SOR/2009-18, s. 17.
 
 
 
@@ -1744,7 +1738,7 @@ to clean and disinfect such outhouse, stable, yard or other place or such aircra
 - **(2)** [Repealed, SOR/98-409, s. 12]
 
 - **(3)** Every owner or person in charge of a container from which animal manure, aircraft garbage or ship’s refuse, as those terms are defined in subsection 47.1(1), has been discharged under section 47.1 shall clean and disinfect it before it is used again.
-> SOR/98-409, s. 12; SOR/2003-6, s. 80.
+> SOR/98-409, s. 12; SOR/2003-6, s. 80; SOR/2009-18, s. 19(F).
 
 
 
@@ -2958,7 +2952,9 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 	- **(d)** the date of preparation of the fertilizer or fertilizer supplement;
 	- **(e)** any information used to identify each lot of the fertilizer or fertilizer supplement; and
 	- **(f)** the name and address of any person to whom any of the fertilizer or fertilizer supplement is sold or distributed and a description of the fertilizer or fertilizer supplement, including the name and quantity.
-> SOR/2006-147, s. 28.
+
+- **(3)** In this section, ***specified risk material*** has the same meaning as in section 6.1.
+> SOR/2006-147, s. 28; SOR/2009-18, s. 18.
 
 
 
