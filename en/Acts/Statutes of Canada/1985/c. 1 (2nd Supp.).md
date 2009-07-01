@@ -45,6 +45,8 @@
 
 ***CCRFTA*** has the same meaning as “Agreement” in subsection 2(1) of the Canada — Costa Rica Free Trade Agreement Implementation Act;
 
+***CEFTA*** has the same meaning as ***Agreement*** in subsection 2(1) of the [Canada–EFTA Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/2009/c.%206.md);
+
 ***Certificate of Origin*** means the proof of origin form for goods for which preferential tariff treatment under a free trade agreement is claimed, prescribed under subsection 35.1(1) and subject to the regulations made pursuant to paragraph 35.1(4)(b);
 
 ***Chile*** has the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
@@ -85,19 +87,24 @@
 
 ***duty free shop*** means a place licensed as a duty free shop by the Minister under section 24;
 
+***EFTA state*** has the same meaning as in subsection 2(1) of the [Canada–EFTA Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/2009/c.%206.md);
+
 ***export*** means export from Canada;
 
 ***forfeit*** means forfeit to Her Majesty in right of Canada;
 
-***free trade agreement*** means NAFTA, CCFTA, CCRFTA or CIFTA;
+***free trade agreement*** means NAFTA, CCFTA, CCRFTA, CEFTA or CIFTA;
 
 ***free trade partner*** means 
 - **(a)** a NAFTA country,
 - **(b)** Chile,
-- **(c)** Costa Rica, or
-- **(d)** Israel or another CIFTA beneficiary;
+- **(c)** Costa Rica,
+- **(d)** Israel or another CIFTA beneficiary, or
+- **(e)** an EFTA state;
 
 ***goods***, for greater certainty, includes conveyances, animals and any document in any form;
+
+***Iceland*** has the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
 
 ***import*** means import into Canada;
 
@@ -113,6 +120,8 @@
 
 ***licensed user*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md);
 
+***Liechtenstein*** has the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
+
  ou ***mail*** has the meaning set out in section 2 of the [Canada Post Corporation Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-10.md);
 
 ***manufactured tobacco***[Repealed, 2002, c. 22, s. 328]
@@ -123,6 +132,8 @@
 
 ***NAFTA country*** has the meaning assigned to that expression by subsection 2(1) of the [North American Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2044.md);
 
+***Norway*** has the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
+
  ou ***officer*** means a person employed in the administration or enforcement of this Act, the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) or the [Special Import Measures Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-15.md) and includes any member of the Royal Canadian Mounted Police;
 
 ***person*** means an individual, a partnership, a corporation, a trust, the estate of a deceased individual or a body that is a society, a union, a club, an association, a commission or other organization of any kind;
@@ -130,6 +141,11 @@
 ***preferential tariff treatment under CCFTA*** means, in respect of goods, entitlement to the Chile Tariff rates of customs duty under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
 
 ***preferential tariff treatment under CCRFTA*** means, in respect of goods, entitlement to the Costa Rica Tariff rates of customs duty under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
+
+***preferential tariff treatment under CEFTA*** means, in respect of goods, entitlement to the rates of customs duty under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) in respect of one of the following tariffs: 
+- **(a)** the Iceland Tariff,
+- **(b)** the Norway Tariff, or
+- **(c)** the Switzerland–Liechtenstein Tariff;
 
 ***preferential tariff treatment under CIFTA*** means, in respect of goods, entitlement to the Canada–Israel Agreement Tariff rates of customs duty under the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
 
@@ -163,6 +179,8 @@
 ***spirits licensee*** has the same meaning as in section 2 of the [Excise Act, 2001](/en/Acts/Statutes%20of%20Canada/2002/c.%2022.md);
 
 ***sufferance warehouse*** means a place licensed as a sufferance warehouse by the Minister under section 24;
+
+***Switzerland*** has the same meaning as in subsection 2(1) of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
 
 ***tariff classification*** means the classification of imported goods under a tariff item in the List of Tariff Provisions set out in the schedule to the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md);
 
@@ -205,8 +223,9 @@
 - **(1.2)** For the purposes of this Act, a reference to preferential tariff treatment under a free trade agreement shall be read as a reference to whichever of the following is applicable in the circumstances:
 	- **(a)** preferential tariff treatment under NAFTA;
 	- **(b)** preferential tariff treatment under CCFTA;
-	- **(c)** preferential tariff treatment under CCRFTA; or
-	- **(d)** preferential tariff treatment under CIFTA.
+	- **(c)** preferential tariff treatment under CCRFTA;
+	- **(d)** preferential tariff treatment under CIFTA; or
+	- **(e)** preferential tariff treatment under CEFTA.
 
 **Electronic records**
 
@@ -231,7 +250,7 @@
 **Delegation by Minister of National Revenue**
 
 - **(6)** The Minister of National Revenue may authorize a person employed by the Canada Revenue Agency or the Agency, or a class of those persons, to exercise powers or perform duties of that Minister, including any judicial or quasi-judicial powers or duties of that Minister, under this Act.
-> R.S., 1985, c. 1 (2nd Supp.), s. 2, c. 41 (3rd Supp.), s. 118; 1988, c. 65, s. 66; 1990, c. 45, s. 19; 1992, c. 28, s. 1; 1993, c. 25, s. 68, c. 27, s. 213, c. 44, s. 81; 1994, c. 13, s. 7; 1995, c. 15, s. 24, c. 41, s. 1; 1996, c. 31, s. 73, c. 33, s. 28; 1997, c. 14, s. 35, c. 36, s. 147; 1998, c. 19, s. 262; 1999, c. 17, s. 123; 2001, c. 25, s. 1, c. 28, s. 26; 2002, c. 22, s. 328; 2005, c. 38, ss. 60, 145; 2007, c. 18, s. 135; 2009, c. 10, s. 1(F).
+> R.S., 1985, c. 1 (2nd Supp.), s. 2, c. 41 (3rd Supp.), s. 118; 1988, c. 65, s. 66; 1990, c. 45, s. 19; 1992, c. 28, s. 1; 1993, c. 25, s. 68, c. 27, s. 213, c. 44, s. 81; 1994, c. 13, s. 7; 1995, c. 15, s. 24, c. 41, s. 1; 1996, c. 31, s. 73, c. 33, s. 28; 1997, c. 14, s. 35, c. 36, s. 147; 1998, c. 19, s. 262; 1999, c. 17, s. 123; 2001, c. 25, s. 1, c. 28, s. 26; 2002, c. 22, s. 328; 2005, c. 38, ss. 60, 145; 2007, c. 18, s. 135; 2009, c. 6, s. 23, c. 10, s. 1(F).
 
 
 
@@ -1641,17 +1660,28 @@ and may specify in the licence any restriction as to the classes of goods that m
 **42.1** 
 
 - **(1)** Any officer, or any officer within a class of officers, designated by the President for the purposes of this section, or any person, or any person within a class of persons, designated by the President to act on behalf of such an officer, may, subject to the prescribed conditions,
-	- **(a)** conduct a verification of origin of goods for which preferential tariff treatment under a free trade agreement is claimed
+	- **(a)** conduct a verification of origin of goods for which preferential tariff treatment under a free trade agreement, other than CEFTA, is claimed
 		- **(i)** by entering any prescribed premises or place at any reasonable time, or
 		- **(ii)** in the prescribed manner; or
 	- **(b)** enter any prescribed premises or place at any reasonable time to verify the amount, if any, of
 		- **(i)** a relief under section 89 of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) from the payment of any duties payable in respect of imported goods that are subsequently exported to a NAFTA country, or
 		- **(ii)** a drawback under section 113 of the [Customs Tariff](/en/Acts/Statutes%20of%20Canada/1997/c.%2036.md) of duties paid in respect of imported goods that are subsequently exported to a NAFTA country.
 
+**Method of verification under CEFTA**
+
+- **(1.1)** Any officer, or any officer within a class of officers, designated by the President for the purposes of this section, or any person, or any person within a class of persons, designated by the President to act on behalf of such an officer, may, subject to any prescribed conditions, conduct a verification of origin of goods for which preferential tariff treatment under CEFTA is claimed by requesting in writing that the customs administration of the EFTA state of export conduct a verification and provide an opinion as to whether the goods are originating within the meaning of Annex C of CEFTA.
+
 **Withdrawal of preferential tariff treatment**
 
-- **(2)** If an exporter or producer of goods that are subject to a verification of origin under paragraph (1)(a) fails to comply with the prescribed requirements or, in the case of a verification of origin under subparagraph (1)(a)(i), does not consent to the verification of origin in the prescribed manner and within the prescribed time, preferential tariff treatment under a free trade agreement may be denied or withdrawn from the goods.
-> 1993, c. 44, s. 86; 1995, c. 41, s. 16; 1997, c. 14, s. 38, c. 36, s. 161; 2005, c. 38, s. 70.
+- **(2)** If an exporter or producer of goods that are subject to a verification of origin under paragraph (1)(a) fails to comply with the prescribed requirements or, in the case of a verification of origin under subparagraph (1)(a)(i), does not consent to the verification of origin in the prescribed manner and within the prescribed time, preferential tariff treatment under a free trade agreement, other than CEFTA, may be denied or withdrawn from the goods.
+
+**Withdrawal of preferential tariff treatment under CEFTA**
+
+- **(3)** Preferential tariff treatment under CEFTA may be denied or withdrawn from the goods
+	- **(a)** if the EFTA state of export fails to conduct a verification or provide an opinion as to whether the goods are originating;
+	- **(b)** if an officer or other person designated under subsection (1.1) is unable to determine whether the goods are originating; or
+	- **(c)** in any other prescribed circumstances.
+> 1993, c. 44, s. 86; 1995, c. 41, s. 16; 1997, c. 14, s. 38, c. 36, s. 161; 2005, c. 38, s. 70; 2009, c. 6, s. 24.
 
 
 
@@ -1680,11 +1710,11 @@ and may specify in the licence any restriction as to the classes of goods that m
 
 
 
-**Definition of “customs administration”**
+**Definition of customs administration**
 
 **42.3** 
 
-- **(1)** In this section,***customs administration*** has the meaning assigned to that expression by Article 514 of NAFTA, Article E-14 of CCFTA or Article V.14 of CCRFTA, as the case may be.
+- **(1)** In this section, ***customs administration*** has the meaning assigned to that expression by Article 514 of NAFTA, Article E-14 of CCFTA or Article V.14 of CCRFTA, as the case may be.
 
 **Effective date of redetermination or further redetermination of origin of goods**
 
@@ -1701,7 +1731,11 @@ and may specify in the licence any restriction as to the classes of goods that m
 **Postponement of effective date**
 
 - **(4)** The date on which a redetermination or further redetermination of origin referred to in subsection (2) takes effect shall be postponed for a period not exceeding ninety days if the importer of the goods that are the subject of the redetermination or further redetermination or any person who completed and signed a Certificate of Origin for the goods establishes to the satisfaction of the Minister that the importer or the person, as the case may be, has relied in good faith, to the detriment of the importer or person, on the tariff classification or value applied to the materials referred to in that subsection by the customs administration of the NAFTA country from which the goods were exported, of Chile or of Costa Rica, as the case may be.
-> 1993, c. 44, s. 86; 1997, c. 14, s. 38, c. 36, s. 163; 2001, c. 25, s. 34(F), c. 28, s. 27.
+
+**Effect of detrimental reliance under CEFTA**
+
+- **(5)** If an exporter of goods from an EFTA state demonstrates, to the satisfaction of the Minister, that it has relied, in good faith and to its detriment, on a ruling made by the Agency or the customs administration of an EFTA state with respect to the tariff classification or value of a non-originating material used in the production of goods, a redetermination of origin by the Agency in respect of goods for which preferential tariff treatment under CEFTA is claimed shall apply only to importations of the goods made after the date of the redetermination.
+> 1993, c. 44, s. 86; 1997, c. 14, s. 38, c. 36, s. 163; 2001, c. 25, s. 34(F), c. 28, s. 27; 2009, c. 6, s. 25.
 
 
 
@@ -1763,7 +1797,7 @@ and may specify in the licence any restriction as to the classes of goods that m
 
 - **(1)** Any officer, or any officer within a class of officers, designated by the President for the purposes of this section shall, before goods are imported, on application by any member of a prescribed class that is made within the prescribed time, in the prescribed manner and in the prescribed form containing the prescribed information, give an advance ruling with respect to
 	- **(a)** whether the goods qualify as originating goods and are entitled to the benefit of preferential tariff treatment under a free trade agreement;
-	- **(b)** in the case of goods exported from a NAFTA country, from Chile or from Costa Rica, any other matter concerning those goods that is set out in paragraph 1 of Article 509 of NAFTA, in paragraph 1 of Article E-09 of CCFTA or in paragraph 1 of Article V.9 or paragraph 10 of Article IX.2 of CCRFTA, as the case may be; and
+	- **(b)** in the case of goods exported from a NAFTA country, from Chile, from Costa Rica or from an EFTA state, any other matter concerning those goods that is set out in paragraph 1 of Article 509 of NAFTA, in paragraph 1 of Article E-09 of CCFTA, in paragraph 1 of Article V.9 or paragraph 10 of Article IX.2 of CCRFTA or in Article 28(2) of Annex C of CEFTA, as the case may be; and
 	- **(c)** the tariff classification of the goods.
 
 **Regulations**
@@ -1773,7 +1807,7 @@ and may specify in the licence any restriction as to the classes of goods that m
 	- **(b)** the modification or revocation of an advance ruling, including whether the modification or revocation applies retroactively;
 	- **(c)** the authority to request supplementary information in respect of an application for an advance ruling; and
 	- **(d)** the circumstances in which the issuance of advance rulings may be declined or postponed.
-> 1993, c. 44, s. 87; 1996, c. 33, s. 33; 1997, c. 14, s. 39; 2001, c. 25, s. 36, c. 28, s. 28; 2004, c. 16, s. 6(F); 2005, c. 38, s. 71.
+> 1993, c. 44, s. 87; 1996, c. 33, s. 33; 1997, c. 14, s. 39; 2001, c. 25, s. 36, c. 28, s. 28; 2004, c. 16, s. 6(F); 2005, c. 38, s. 71; 2009, c. 6, s. 26.
 
 
 
@@ -2647,7 +2681,7 @@ may, within ninety days after the date a decision is made under section 67, appe
 	- **(b)** the quantity released is less than the quantity in respect of which duties were paid;
 	- **(c)** they are of a quality inferior to that in respect of which duties were paid;
 	- **(c.1)** the goods were exported from a NAFTA country or from Chile but no claim for preferential tariff treatment under NAFTA or no claim for preferential tariff treatment under CCFTA, as the case may be, was made in respect of those goods at the time they were accounted for under subsection 32(1), (3) or (5);
-	- **(c.11)** the goods were imported from Costa Rica or from Israel or another CIFTA beneficiary but no claim for preferential tariff treatment under CCRFTA or CIFTA, as the case may be, was made in respect of those goods at the time they were accounted for under subsection 32(1), (3) or (5);
+	- **(c.11)** the goods were imported from Costa Rica, from an EFTA state or from Israel or another CIFTA beneficiary but no claim for preferential tariff treatment under CCRFTA, CEFTA or CIFTA, as the case may be, was made in respect of those goods at the time they were accounted for under subsection 32(1), (3) or (5);
 	- **(c.2)** [Repealed, 1997, c. 14, s. 43]
 	- **(d)** the calculation of duties owing was based on a clerical, typographical or similar error;
 	- **(e)** the duties were paid or overpaid as a result of an error in the determination under subsection 58(2) of origin (other than in the circumstances described in paragraph (c.1) or (c.11)), tariff classification or value for duty in respect of the goods and the determination has not been the subject of a decision under any of sections 59 to 61;
@@ -2699,7 +2733,7 @@ may, within ninety days after the date a decision is made under section 67, appe
 **Application of refund**
 
 - **(8)** A person of a prescribed class may apply, within four years after goods are accounted for under subsection 32(1), (3) or (5), in prescribed circumstances and under prescribed conditions, the amount of any refund to which they are entitled under this section to the payment of any amount for which they are liable or may become liable under this Act.
-> R.S., 1985, c. 1 (2nd Supp.), s. 74; 1988, c. 65, s. 72; 1993, c. 44, s. 98; 1996, c. 33, s. 36; 1997, c. 14, s. 43, c. 36, s. 175; 1999, c. 31, s. 71(F); 2001, c. 25, s. 51, c. 28, s. 29; 2002, c. 22, s. 337.
+> R.S., 1985, c. 1 (2nd Supp.), s. 74; 1988, c. 65, s. 72; 1993, c. 44, s. 98; 1996, c. 33, s. 36; 1997, c. 14, s. 43, c. 36, s. 175; 1999, c. 31, s. 71(F); 2001, c. 25, s. 51, c. 28, s. 29; 2002, c. 22, s. 337; 2009, c. 6, s. 27.
 
 
 
@@ -2918,6 +2952,37 @@ may, within ninety days after the date a decision is made under section 67, appe
 
 - **(2)** Subsection 40(2) and sections 42 and 43 apply, with such modifications as the circumstances require, to a person required to keep records pursuant to subsection (1).
 > 1988, c. 65, s. 78; 1993, c. 44, s. 104; 1996, c. 33, s. 38; 1997, c. 14, s. 45; 2001, c. 25, s. 57.
+
+
+
+
+
+**Verification of origin on behalf of an EFTA state**
+
+**97.201** 
+
+- **(1)** The customs administration of an EFTA state to which goods were exported may request in writing that the Agency conduct a verification and provide an opinion as to whether those goods are originating within the meaning of Annex C of CEFTA.
+
+**Methods of verification**
+
+- **(2)** Any officer, or any officer within a class of officers, designated by the President for the purposes of this section, or any person, or any person within a class of persons, designated by the President to act on behalf of such an officer, may, subject to any prescribed conditions, conduct a verification of origin of goods referred to in subsection (1)
+	- **(a)** by entering any prescribed premises or place at any reasonable time; or
+	- **(b)** in any other prescribed manner.
+
+**Statement of origin**
+
+- **(3)** On completion of a verification of origin requested under subsection (1), an officer or other person designated under subsection (2) shall
+	- **(a)** provide, in the prescribed manner, the customs administration of an EFTA state referred to in subsection (1) with the opinion requested under that subsection and any relevant supporting documents that may be requested by that customs administration; and
+	- **(b)** determine whether the goods are originating within the meaning of Annex C of CEFTA.
+
+**Notice requirement**
+
+- **(4)** The President shall without delay give notice of a decision made under paragraph (3)(b), including the rationale on which the decision is made, to the exporter or producer of the goods, as the case may be, subject to the verification of origin.
+
+**Determination treated as re-determination**
+
+- **(5)** A determination made under paragraph (3)(b) is to be treated for the purposes of this Act as if it were a re-determination under paragraph 59(1)(a).
+> 2009, c. 6, s. 28.
 
 
 
@@ -5693,12 +5758,16 @@ lies on the person, other than Her Majesty, who is a party to the proceeding or 
 
 - **(1.3)** The Governor in Council may, on the recommendation of the Minister, make regulations for the purpose of the uniform interpretation, application and administration of Chapters III and V of CCRFTA and any other matters that may be agreed on from time to time by the parties to CCRFTA.
 
+**Regulations: CEFTA**
+
+- **(1.4)** The Governor in Council may, on the recommendation of the Minister, make regulations for the purpose of the uniform interpretation, application and administration of Chapter II and Annex C of CEFTA and any other matters that may be agreed on from time to time by the parties to CEFTA.
+
 **Regulations prescribing rate of interest**
 
 - **(2)** The Governor in Council may, on the recommendation of the Minister of Finance, make regulations prescribing a rate of interest or rules for determining a rate of interest for the purposes of any provision of this Act.
 
 - **(3) and (4)** [Repealed, 2001, c. 25, s. 85]
-> R.S., 1985, c. 1 (2nd Supp.), s. 164; 1988, c. 65, s. 81; 1992, c. 28, s. 30, c. 31, s. 22; 1993, c. 44, s. 108; 1994, c. 47, s. 72; 1995, c. 41, s. 36; 1996, c. 33, s. 40; 1997, c. 14, s. 47; 1998, c. 19, s. 264; 2001, c. 25, s. 85, c. 28, s. 30; 2007, c. 18, s. 141; 2009, c. 10, s. 16.
+> R.S., 1985, c. 1 (2nd Supp.), s. 164; 1988, c. 65, s. 81; 1992, c. 28, s. 30, c. 31, s. 22; 1993, c. 44, s. 108; 1994, c. 47, s. 72; 1995, c. 41, s. 36; 1996, c. 33, s. 40; 1997, c. 14, s. 47; 1998, c. 19, s. 264; 2001, c. 25, s. 85, c. 28, s. 30; 2007, c. 18, s. 141; 2009, c. 6, s. 29, c. 10, s. 16.
 
 
 
