@@ -48,6 +48,8 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***Canada — Costa Rica Free Trade Agreement*** has the same meaning as “Agreement” in subsection 2(1) of the Canada — Costa Rica Free Trade Agreement Implementation Act;
 
+***Canada–EFTA Free Trade Agreement*** has the same meaning as ***Agreement*** in subsection 2(1) of the Canada–EFTA Agreement Implementation Act.
+
 ***Canada–Israel Free Trade Agreement*** has the same meaning as “Agreement” in subsection 2(1) of the Canada–Israel Free Trade Agreement Implementation Act.
 
 ***Canada–United States Free Trade Agreement*** has the same meaning as “Agreement” in subsection 2(1) of the Canada–United States Free Trade Agreement Implementation Act.
@@ -73,11 +75,17 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***heading***, in respect of goods, means a description in the List of Tariff Provisions accompanied by a four-digit number and includes all subheadings or tariff items the first four digits of which correspond to that number.
 
+***Iceland*** means 
+- **(a)** the land territory, air space, internal waters and territorial sea of Iceland; and
+- **(b)** the exclusive economic zone and continental shelf of Iceland.
+
 ***imported from Israel or another CIFTA beneficiary*** has the meaning assigned by regulation.
 
 ***initial rate*** means the rate of customs duty that applies before any reductions are made under this Act.
 
 ***Israel or another CIFTA beneficiary*** has the meaning assigned by regulation.
+
+***Liechtenstein*** means the land territory and air space of Liechtenstein.
 
 ***List of Countries*** means the List of Countries and Applicable Tariff Treatments set out in the schedule.
 
@@ -98,6 +106,10 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 ***North American Free Trade Agreement*** has the same meaning as “Agreement” in subsection 2(1) of the [North American Free Trade Agreement Implementation Act](/en/Acts/Statutes%20of%20Canada/1993/c.%2044.md).
 
+***Norway*** means 
+- **(a)** the land territory, air space, internal waters and territorial sea of Norway; and
+- **(b)** the exclusive economic zone and continental shelf of Norway.
+
 Version anglaise seulement***prescribed*** means
 - **(a)** in respect of a form, the information to be provided on or with a form, or the manner of filing a form, prescribed by the Minister of Public Safety and Emergency Preparedness; and
 - **(b)** in any other case, prescribed by regulation or determined in accordance with rules prescribed by regulation.
@@ -111,6 +123,8 @@ Version anglaise seulement***prescribed*** means
 ***specified rate*** means the rate of interest, expressed as a percentage per year, equal to six per cent per year plus the prescribed rate.
 
 ***subheading***, in respect of goods, means a description in the List of Tariff Provisions accompanied by a six-digit number and includes all tariff items the first six digits of which correspond to that number.
+
+***Switzerland*** means the land territory and air space of Switzerland.
 
 ***tariff item*** means a description of goods in the List of Tariff Provisions and the rates of customs duty and the accompanying eight-digit number in that List and, if applicable, in the “F” Staging List.
 
@@ -128,7 +142,7 @@ Version anglaise seulement***prescribed*** means
 **Territories**
 
 - **(2)** A territory prescribed by regulation for the purposes of the definition “country” in subsection (1) is not, by virtue of being so prescribed, recognized as a country for purposes other than this Act.
-> 1997, c. 36, s. 2; 2001, c. 28, s. 31; 2005, c. 38, ss. 143(E), 145.
+> 1997, c. 36, s. 2; 2001, c. 28, s. 31; 2005, c. 38, ss. 143(E), 145; 2009, c. 6, s. 30.
 
 
 
@@ -148,10 +162,17 @@ Version anglaise seulement***prescribed*** means
 
 
 
-**Goods imported from a NAFTA country, Chile or Costa Rica**
+**Goods imported from an EFTA state, a NAFTA country, Chile or Costa Rica**
 
-**5** For the purposes of this Act, goods are imported from a NAFTA country, from Chile or from Costa Rica if they are shipped directly to Canada from the NAFTA country, from Chile or from Costa Rica, as the case may be.
-> 1997, c. 36, s. 5; 2001, c. 28, s. 32.
+**5** For the purposes of this Act, goods are imported from one of the following countries if they are shipped directly to Canada from that country:
+- **(a)** a NAFTA country;
+- **(b)** Chile;
+- **(c)** Costa Rica;
+- **(d)** Iceland;
+- **(e)** Liechtenstein;
+- **(f)** Norway; or
+- **(g)** Switzerland.
+> 1997, c. 36, s. 5; 2001, c. 28, s. 32; 2009, c. 6, s. 31.
 
 
 
@@ -541,8 +562,8 @@ Version anglaise seulement***prescribed*** means
 
 **Abbreviations**
 
-**27** For the purposes of the List of Tariff Provisions and the “F” Staging List, the abbreviations “UST”, “MT”, “MUST”, “CT”, “CRT”, “CIAT”, “GPT”, “LDCT”, “CCCT”, “AUT” and “NZT” refer, respectively, to “United States Tariff”, “Mexico Tariff”, “Mexico — United States Tariff”, “Chile Tariff”, “Costa Rica Tariff”, “Canada — Israel Agreement Tariff”, “General Preferential Tariff”, “Least Developed Country Tariff”, “Commonwealth Caribbean Countries Tariff”, “Australia Tariff” and “New Zealand Tariff”.
-> 1997, c. 36, s. 27; 2001, c. 28, s. 36.
+**27** For the purposes of the List of Tariff Provisions and the “F” Staging List, the abbreviations “UST”, “MT”, “MUST”, “CT”, “CRT”, “CIAT”, “GPT”, “LDCT”, “CCCT”, “AUT”, “NZT”, “IT”, “NT” and “SLT” refer, respectively, to “United States Tariff”, “Mexico Tariff”, “Mexico–United States Tariff”, “Chile Tariff”, “Costa Rica Tariff”, “Canada–Israel Agreement Tariff”, “General Preferential Tariff”, “Least Developed Country Tariff”, “Commonwealth Caribbean Countries Tariff”, “Australia Tariff”, “New Zealand Tariff”, “Iceland Tariff”, “Norway Tariff” and “Switzerland–Liechtenstein Tariff”.
+> 1997, c. 36, s. 27; 2001, c. 28, s. 36; 2009, c. 6, s. 32.
 
 
 
@@ -1260,6 +1281,192 @@ Version anglaise seulement***prescribed*** means
 
 
 
+#### Iceland Tariff
+
+
+
+**Application of IT**
+
+**52.1** 
+
+- **(1)** Subject to section 24, goods that are entitled to the Iceland Tariff are entitled to the Iceland Tariff rates of customs duty.
+
+**“A” final rate**
+
+- **(2)** If “A” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “IT” in relation to goods entitled to the Iceland Tariff, the Iceland Tariff rate of customs duty that applies to those goods is the final rate.
+
+**“F” staging for IT**
+
+- **(3)** If “F” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “IT” in relation to goods entitled to the Iceland Tariff, the Iceland Tariff rate of customs duty that applies to those goods is the initial rate, reduced as provided in the “F” Staging List.
+
+**Staging for IT**
+
+- **(4)** If “Q1” or “Q2” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “IT” in relation to goods entitled to the Iceland Tariff, the Iceland Tariff rate of customs duty that applies to those goods is the initial rate, reduced
+	- **(a)** if “Q1” is set out,
+		- **(i)** effective on the day that is three years after the day on which this subsection comes into force, to seven eighths of the initial rate,
+		- **(ii)** effective on the day that is four years after the day on which this subsection comes into force, to six eighths of the initial rate,
+		- **(iii)** effective on the day that is five years after the day on which this subsection comes into force, to five eighths of the initial rate,
+		- **(iv)** effective on the day that is six years after the day on which this subsection comes into force, to four eighths of the initial rate,
+		- **(v)** effective on the day that is seven years after the day on which this subsection comes into force, to three eighths of the initial rate,
+		- **(vi)** effective on the day that is eight years after the day on which this subsection comes into force, to two eighths of the initial rate,
+		- **(vii)** effective on the day that is nine years after the day on which this subsection comes into force, to one eighth of the initial rate, and
+		- **(viii)** effective on the day that is 10 years after the day on which this subsection comes into force, to the final rate of “Free”; and
+	- **(b)** if “Q2” is set out,
+		- **(i)** effective on the day that is three years after the day on which this subsection comes into force, to twelve thirteenths of the initial rate,
+		- **(ii)** effective on the day that is four years after the day on which this subsection comes into force, to eleven thirteenths of the initial rate,
+		- **(iii)** effective on the day that is five years after the day on which this subsection comes into force, to ten thirteenths of the initial rate,
+		- **(iv)** effective on the day that is six years after the day on which this subsection comes into force, to nine thirteenths of the initial rate,
+		- **(v)** effective on the day that is seven years after the day on which this subsection comes into force, to eight thirteenths of the initial rate,
+		- **(vi)** effective on the day that is eight years after the day on which this subsection comes into force, to seven thirteenths of the initial rate,
+		- **(vii)** effective on the day that is nine years after the day on which this subsection comes into force, to six thirteenths of the initial rate,
+		- **(viii)** effective on the day that is 10 years after the day on which this subsection comes into force, to five thirteenths of the initial rate,
+		- **(ix)** effective on the day that is 11 years after the day on which this subsection comes into force, to four thirteenths of the initial rate,
+		- **(x)** effective on the day that is 12 years after the day on which this subsection comes into force, to three thirteenths of the initial rate,
+		- **(xi)** effective on the day that is 13 years after the day on which this subsection comes into force, to two thirteenths of the initial rate,
+		- **(xii)** effective on the day that is 14 years after the day on which this subsection comes into force, to one thirteenth of the initial rate, and
+		- **(xiii)** effective on the day that is 15 years after the day on which this subsection comes into force, to the final rate of “Free”.
+
+**Rounding of specific rates**
+
+- **(5)** If a reduction under subsection (3) or (4) results in a specific rate of customs duty that includes a fraction of one tenth of a cent, the rate shall be rounded down to the nearest one tenth of a cent.
+
+**Rounding of amounts**
+
+- **(6)** If a reduction under subsection (3) or (4) results in a rate of customs duty that includes a fraction of one per cent other than 0.5, the resulting percentage shall be rounded down to the nearest percentage that divides evenly by 0.5.
+
+**Elimination of rates of less than two per cent**
+
+- **(7)** If a reduction under subsection (3) or (4) results in a rate of customs duty that is a percentage of less than two per cent, the rate shall be further reduced to “Free” immediately.
+> 2009, c. 6, s. 33.
+
+
+
+
+
+#### Norway Tariff
+
+
+
+**Application of NT**
+
+**52.2** 
+
+- **(1)** Subject to section 24, goods that are entitled to the Norway Tariff are entitled to the Norway Tariff rates of customs duty.
+
+**“A” final rate**
+
+- **(2)** If “A” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “NT” in relation to goods entitled to the Norway Tariff, the Norway Tariff rate of customs duty that applies to those goods is the final rate.
+
+**“F” staging for NT**
+
+- **(3)** If “F” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “NT” in relation to goods entitled to the Norway Tariff, the Norway Tariff rate of customs duty that applies to those goods is the initial rate, reduced as provided in the “F” Staging List.
+
+**Staging for NT**
+
+- **(4)** If “Q1” or “Q2” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “NT” in relation to goods entitled to the Norway Tariff, the Norway Tariff rate of customs duty that applies to those goods is the initial rate, reduced
+	- **(a)** if “Q1” is set out,
+		- **(i)** effective on the day that is three years after the day on which this subsection comes into force, to seven eighths of the initial rate,
+		- **(ii)** effective on the day that is four years after the day on which this subsection comes into force, to six eighths of the initial rate,
+		- **(iii)** effective on the day that is five years after the day on which this subsection comes into force, to five eighths of the initial rate,
+		- **(iv)** effective on the day that is six years after the day on which this subsection comes into force, to four eighths of the initial rate,
+		- **(v)** effective on the day that is seven years after the day on which this subsection comes into force, to three eighths of the initial rate,
+		- **(vi)** effective on the day that is eight years after the day on which this subsection comes into force, to two eighths of the initial rate,
+		- **(vii)** effective on the day that is nine years after the day on which this subsection comes into force, to one eighth of the initial rate, and
+		- **(viii)** effective on the day that is 10 years after the day on which this subsection comes into force, to the final rate of “Free”; and
+	- **(b)** if “Q2” is set out,
+		- **(i)** effective on the day that is three years after the day on which this subsection comes into force, to twelve thirteenths of the initial rate,
+		- **(ii)** effective on the day that is four years after the day on which this subsection comes into force, to eleven thirteenths of the initial rate,
+		- **(iii)** effective on the day that is five years after the day on which this subsection comes into force, to ten thirteenths of the initial rate,
+		- **(iv)** effective on the day that is six years after the day on which this subsection comes into force, to nine thirteenths of the initial rate,
+		- **(v)** effective on the day that is seven years after the day on which this subsection comes into force, to eight thirteenths of the initial rate,
+		- **(vi)** effective on the day that is eight years after the day on which this subsection comes into force, to seven thirteenths of the initial rate,
+		- **(vii)** effective on the day that is nine years after the day on which this subsection comes into force, to six thirteenths of the initial rate,
+		- **(viii)** effective on the day that is 10 years after the day on which this subsection comes into force, to five thirteenths of the initial rate,
+		- **(ix)** effective on the day that is 11 years after the day on which this subsection comes into force, to four thirteenths of the initial rate,
+		- **(x)** effective on the day that is 12 years after the day on which this subsection comes into force, to three thirteenths of the initial rate,
+		- **(xi)** effective on the day that is 13 years after the day on which this subsection comes into force, to two thirteenths of the initial rate,
+		- **(xii)** effective on the day that is 14 years after the day on which this subsection comes into force, to one thirteenth of the initial rate, and
+		- **(xiii)** effective on the day that is 15 years after the day on which this subsection comes into force, to the final rate of “Free”.
+
+**Rounding of specific rates**
+
+- **(5)** If a reduction under subsection (3) or (4) results in a specific rate of customs duty that includes a fraction of one tenth of a cent, the rate shall be rounded down to the nearest one tenth of a cent.
+
+**Rounding of amounts**
+
+- **(6)** If a reduction under subsection (3) or (4) results in a rate of customs duty that includes a fraction of one per cent other than 0.5, the resulting percentage shall be rounded down to the nearest percentage that divides evenly by 0.5.
+
+**Elimination of rates of less than two per cent**
+
+- **(7)** If a reduction under subsection (3) or (4) results in a rate of customs duty that is a percentage of less than two per cent, the rate shall be further reduced to “Free” immediately.
+> 2009, c. 6, s. 33.
+
+
+
+
+
+#### Switzerland–Liechtenstein Tariff
+
+
+
+**Application of SLT**
+
+**52.3** 
+
+- **(1)** Subject to section 24, goods that are entitled to the Switzerland–Liechtenstein Tariff are entitled to the Switzerland–Liechtenstein Tariff rates of customs duty.
+
+**“A” final rate**
+
+- **(2)** If “A” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “SLT” in relation to goods entitled to the Switzerland–Liechtenstein Tariff, the Switzerland–Liechtenstein Tariff rate of customs duty that applies to those goods is the final rate.
+
+**“F” staging for SLT**
+
+- **(3)** If “F” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “SLT” in relation to goods entitled to the Switzerland–Liechtenstein Tariff, the Switzerland–Liechtenstein Tariff rate of customs duty that applies to those goods is the initial rate, reduced as provided in the “F” Staging List.
+
+**Staging for SLT**
+
+- **(4)** If “Q1” or “Q2” is set out in the column entitled “Preferential Tariff” in the List of Tariff Provisions following the abbreviation “SLT” in relation to goods entitled to the Switzerland–Liechtenstein Tariff, the Switzerland–Liechtenstein Tariff rate of customs duty that applies to those goods is the initial rate, reduced
+	- **(a)** if “Q1” is set out,
+		- **(i)** effective on the day that is three years after the day on which this subsection comes into force, to seven eighths of the initial rate,
+		- **(ii)** effective on the day that is four years after the day on which this subsection comes into force, to six eighths of the initial rate,
+		- **(iii)** effective on the day that is five years after the day on which this subsection comes into force, to five eighths of the initial rate,
+		- **(iv)** effective on the day that is six years after the day on which this subsection comes into force, to four eighths of the initial rate,
+		- **(v)** effective on the day that is seven years after the day on which this subsection comes into force, to three eighths of the initial rate,
+		- **(vi)** effective on the day that is eight years after the day on which this subsection comes into force, to two eighths of the initial rate,
+		- **(vii)** effective on the day that is nine years after the day on which this subsection comes into force, to one eighth of the initial rate, and
+		- **(viii)** effective on the day that is 10 years after the day on which this subsection comes into force, to the final rate of “Free”; and
+	- **(b)** if “Q2” is set out,
+		- **(i)** effective on the day that is three years after the day on which this subsection comes into force, to twelve thirteenths of the initial rate,
+		- **(ii)** effective on the day that is four years after the day on which this subsection comes into force, to eleven thirteenths of the initial rate,
+		- **(iii)** effective on the day that is five years after the day on which this subsection comes into force, to ten thirteenths of the initial rate,
+		- **(iv)** effective on the day that is six years after the day on which this subsection comes into force, to nine thirteenths of the initial rate,
+		- **(v)** effective on the day that is seven years after the day on which this subsection comes into force, to eight thirteenths of the initial rate,
+		- **(vi)** effective on the day that is eight years after the day on which this subsection comes into force, to seven thirteenths of the initial rate,
+		- **(vii)** effective on the day that is nine years after the day on which this subsection comes into force, to six thirteenths of the initial rate,
+		- **(viii)** effective on the day that is 10 years after the day on which this subsection comes into force, to five thirteenths of the initial rate,
+		- **(ix)** effective on the day that is 11 years after the day on which this subsection comes into force, to four thirteenths of the initial rate,
+		- **(x)** effective on the day that is 12 years after the day on which this subsection comes into force, to three thirteenths of the initial rate,
+		- **(xi)** effective on the day that is 13 years after the day on which this subsection comes into force, to two thirteenths of the initial rate,
+		- **(xii)** effective on the day that is 14 years after the day on which this subsection comes into force, to one thirteenth of the initial rate, and
+		- **(xiii)** effective on the day that is 15 years after the day on which this subsection comes into force, to the final rate of “Free”.
+
+**Rounding of specific rates**
+
+- **(5)** If a reduction under subsection (3) or (4) results in a specific rate of customs duty that includes a fraction of one tenth of a cent, the rate shall be rounded down to the nearest one tenth of a cent.
+
+**Rounding of amounts**
+
+- **(6)** If a reduction under subsection (3) or (4) results in a rate of customs duty that includes a fraction of one per cent other than 0.5, the resulting percentage shall be rounded down to the nearest percentage that divides evenly by 0.5.
+
+**Elimination of rates of less than two per cent**
+
+- **(7)** If a reduction under subsection (3) or (4) results in a rate of customs duty that is a percentage of less than two per cent, the rate shall be further reduced to “Free” immediately.
+> 2009, c. 6, s. 33.
+
+
+
+
+
 **DIVISION 4** 
 ### Special Measures, Emergency Measures and  Safeguards
 
@@ -1758,6 +1965,172 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 	- **(a)** in respect of a fresh vegetable, the rate of customs duty applicable to that vegetable set out in the applicable tariff item referred to in Supplementary Note 2(b) in Chapter 7 of the List of Tariff Provisions; and
 	- **(b)** in respect of a fresh fruit, the rate of customs duty applicable to that fruit set out in the applicable tariff item referred to in Supplementary Note 4(b) in Chapter 8 of the List of Tariff Provisions.
 > 2001, c. 28, s. 38.
+
+
+
+
+
+#### Bilateral Emergency Measures — Iceland
+
+
+
+**Orders by Governor in Council**
+
+**71.2** 
+
+- **(1)** Subject to subsections (2) to (4), if at any time it appears to the satisfaction of the Governor in Council, as a result of an inquiry made by the Canadian International Trade Tribunal under subsection 19.014(2) of the [Canadian International Trade Tribunal Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2047%20(4th%20Supp.).md) or further to a complaint filed under subsection 23(1.09) of that Act, that goods that are entitled to the Iceland Tariff are, as a result of that entitlement, being imported in such increased quantities and under such conditions as to alone constitute a principal cause of serious injury, or a threat of serious injury, to domestic producers of like or directly competitive goods, the Governor in Council may, on the recommendation of the Minister, by order
+	- **(a)** suspend, during the period that the order is in effect, any reduction of the rate of customs duty with respect to those goods that would otherwise be made after that time by virtue of section 52.1;
+	- **(b)** in respect of goods on which a customs duty is imposed on a seasonal basis, make those goods subject to a temporary duty, in addition to any other duty specified in this Act or in any other Act of Parliament relating to customs, at a rate set out in the order, but that rate, when added to the rate of customs duty set out in the List of Tariff Provisions that is in effect in respect of those goods at that time, may not exceed the Most-Favoured-Nation Tariff rate of customs duty that was in effect in respect of those goods immediately before the coming into force of this subsection; and
+	- **(c)** in respect of goods other than goods referred to in paragraph (b), make those goods subject to a temporary duty, in addition to any other duty specified in this Act or in any other Act of Parliament relating to customs, at a rate set out in the order, but that rate, when added to the rate of customs duty specified in the Iceland Tariff that is in effect in respect of those goods at that time, may not exceed the lesser of
+		- **(i)** the Most-Favoured-Nation Tariff rate of customs duty that was in effect in respect of those goods immediately before the coming into force of this subsection, and
+		- **(ii)** the Most-Favoured-Nation Tariff rate of customs duty that is in effect in respect of those goods at the time the order is made.
+
+**Terms and conditions**
+
+- **(2)** An order under subsection (1)
+	- **(a)** may not, other than for tariff items referred to in subsection (3), be made more than once during the period beginning on the day on which this subsection comes into force and ending on the day before the day that is five years after the day on which this subsection comes into force in respect of goods of a particular kind and, if made during that period, remains in effect for the period, not exceeding three years, specified in the order; and
+	- **(b)** may, other than for tariff items referred to in subsection (3), be made after the expiry of the period referred to in paragraph (a) only if it is based on an agreement between the Government of Canada and the Government of the Republic of Iceland relating to the application of subsection (1).
+
+**Certain tariff items**
+
+- **(3)** An order under subsection (1)
+	- **(a)** may not, in the case of tariff item Nos. 8901.20.90, 8902.00.10, 8905.20.10, 8905.20.20, 8905.90.10 and 8906.90.99, be made more than once during the period beginning on the day that is three years after the day on which this subsection comes into force and ending on the day before the day that is 10 years after the day on which this subsection comes into force in respect of goods of a particular kind and, if made during that period, remains in effect for the period, not exceeding three years, specified in the order; and
+	- **(b)** may not, in the case of tariff item Nos. 8901.10.90, 8901.90.99, 8904.00.00, 8905.10.00 and 8905.90.90, be made more than once during the period beginning on the day that is three years after the day on which this subsection comes into force and ending on the day before the day that is 15 years after the day on which this subsection comes into force in respect of goods of a particular kind and, if made during that period, remains in effect for the period, not exceeding three years, specified in the order.
+
+**Rate of duty when order ceases to have effect**
+
+- **(4)** If an order made under subsection (1) ceases to have effect in a particular calendar year,
+	- **(a)** the rate of customs duty applicable to the goods after the order ceases to have effect and until December 31 of that year is the rate that would otherwise have been applicable one year after the making of the order, as reduced in accordance with section 52.1; and
+	- **(b)** the rate of customs duty applicable to the goods beginning on January 1 of the following year is the rate specified by the Minister under subsection (5).
+
+**Specification of applicable rate**
+
+- **(5)** For the purposes of subsection (4), the Minister shall, by order, specify that the rate referred to in paragraph (4)(b) is
+	- **(a)** the rate of customs duty that would have been applicable on January 1 of the year following the year in which the order ceases to have effect, if the rate of customs duty had been reduced in accordance with section 52.1, reduced for subsequent years in accordance with that section; or
+	- **(b)** the rate of customs duty that would have been applicable one year after the making of the order, reduced in equal annual stages beginning on January 1 of the year following the year in which the order ceases to have effect and ending on the day on which the rate of customs duty for the goods would otherwise be reduced to the final rate in accordance with section 52.1.
+
+**Definition of principal cause**
+
+- **(6)** In this section, ***principal cause*** means, in respect of a serious injury or threat of serious injury, an important cause that is not less important than any other cause of the serious injury or threat.
+
+**Reference to customs duty in effect**
+
+- **(7)** For the purposes of paragraph (1)(b), the Most-Favoured-Nation Tariff rate of customs duty in effect in respect of a fresh fruit or vegetable is
+	- **(a)** in respect of a fresh vegetable, the rate of customs duty applicable to that vegetable set out in the applicable tariff item referred to in Supplementary Note 2(b) in Chapter 7 of the List of Tariff Provisions; and
+	- **(b)** in respect of a fresh fruit, the rate of customs duty applicable to that fruit set out in the applicable tariff item referred to in Supplementary Note 4(b) in Chapter 8 of the List of Tariff Provisions.
+> 2009, c. 6, s. 34.
+
+
+
+
+
+#### Bilateral Emergency Measures — Norway
+
+
+
+**Orders by Governor in Council**
+
+**71.3** 
+
+- **(1)** Subject to subsections (2) to (4), if at any time it appears to the satisfaction of the Governor in Council, as a result of an inquiry made by the Canadian International Trade Tribunal under subsection 19.015(2) of the [Canadian International Trade Tribunal Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2047%20(4th%20Supp.).md) or further to a complaint filed under subsection 23(1.091) of that Act, that goods that are entitled to the Norway Tariff are, as a result of that entitlement, being imported in such increased quantities and under such conditions as to alone constitute a principal cause of serious injury, or a threat of serious injury, to domestic producers of like or directly competitive goods, the Governor in Council may, on the recommendation of the Minister, by order
+	- **(a)** suspend, during the period that the order is in effect, any reduction of the rate of customs duty with respect to those goods that would otherwise be made after that time by virtue of section 52.2;
+	- **(b)** in respect of goods on which a customs duty is imposed on a seasonal basis, make those goods subject to a temporary duty, in addition to any other duty specified in this Act or in any other Act of Parliament relating to customs, at a rate set out in the order, but that rate, when added to the rate of customs duty set out in the List of Tariff Provisions that is in effect in respect of those goods at that time, may not exceed the Most-Favoured-Nation Tariff rate of customs duty that was in effect in respect of those goods immediately before the coming into force of this subsection; and
+	- **(c)** in respect of goods other than goods referred to in paragraph (b), make those goods subject to a temporary duty, in addition to any other duty specified in this Act or in any other Act of Parliament relating to customs, at a rate set out in the order, but that rate, when added to the rate of customs duty specified in the Norway Tariff that is in effect in respect of those goods at that time, may not exceed the lesser of
+		- **(i)** the Most-Favoured-Nation Tariff rate of customs duty that was in effect in respect of those goods immediately before the coming into force of this subsection, and
+		- **(ii)** the Most-Favoured-Nation Tariff rate of customs duty that is in effect in respect of those goods at the time the order is made.
+
+**Terms and conditions**
+
+- **(2)** An order under subsection (1)
+	- **(a)** may not, other than for tariff items referred to in subsection (3), be made more than once during the period beginning on the day on which this subsection comes into force and ending on the day before the day that is five years after the day on which this subsection comes into force in respect of goods of a particular kind and, if made during that period, remains in effect for the period, not exceeding three years, specified in the order; and
+	- **(b)** may, other than for tariff items referred to in subsection (3), be made after the expiry of the period referred to in paragraph (a) only if it is based on an agreement between the Government of Canada and the Government of the Kingdom of Norway relating to the application of subsection (1).
+
+**Certain tariff items**
+
+- **(3)** An order under subsection (1)
+	- **(a)** may not, in the case of tariff item Nos. 8901.20.90, 8902.00.10, 8905.20.10, 8905.20.20, 8905.90.10 and 8906.90.99, be made more than once during the period beginning on the day that is three years after the day on which this subsection comes into force and ending on the day before the day that is 10 years after the day on which this subsection comes into force in respect of goods of a particular kind and, if made during that period, remains in effect for the period, not exceeding three years, specified in the order; and
+	- **(b)** may not, in the case of tariff item Nos. 8901.10.90, 8901.90.99, 8904.00.00, 8905.10.00 and 8905.90.90, be made more than once during the period beginning on the day that is three years after the day on which this subsection comes into force and ending on the day before the day that is 15 years after the day on which this subsection comes into force in respect of goods of a particular kind and, if made during that period, remains in effect for the period, not exceeding three years, specified in the order.
+
+**Rate of duty when order ceases to have effect**
+
+- **(4)** If an order made under subsection (1) ceases to have effect in a particular calendar year,
+	- **(a)** the rate of customs duty applicable to the goods after the order ceases to have effect and until December 31 of that year is the rate that would otherwise have been applicable one year after the making of the order, as reduced in accordance with section 52.2; and
+	- **(b)** the rate of customs duty applicable to the goods beginning on January 1 of the following year is the rate specified by the Minister under subsection (5).
+
+**Specification of applicable rate**
+
+- **(5)** For the purposes of subsection (4), the Minister shall, by order, specify that the rate referred to in paragraph (4)(b) is
+	- **(a)** the rate of customs duty that would have been applicable on January 1 of the year following the year in which the order ceases to have effect, if the rate of customs duty had been reduced in accordance with section 52.2, reduced for subsequent years in accordance with that section; or
+	- **(b)** the rate of customs duty that would have been applicable one year after the making of the order, reduced in equal annual stages beginning on January 1 of the year following the year in which the order ceases to have effect and ending on the day on which the rate of customs duty for the goods would otherwise be reduced to the final rate in accordance with section 52.2.
+
+**Definition of principal cause**
+
+- **(6)** In this section, ***principal cause*** means, in respect of a serious injury or threat of serious injury, an important cause that is not less important than any other cause of the serious injury or threat.
+
+**Reference to customs duty in effect**
+
+- **(7)** For the purposes of paragraph (1)(b), the Most-Favoured-Nation Tariff rate of customs duty in effect in respect of a fresh fruit or vegetable is
+	- **(a)** in respect of a fresh vegetable, the rate of customs duty applicable to that vegetable set out in the applicable tariff item referred to in Supplementary Note 2(b) in Chapter 7 of the List of Tariff Provisions; and
+	- **(b)** in respect of a fresh fruit, the rate of customs duty applicable to that fruit set out in the applicable tariff item referred to in Supplementary Note 4(b) in Chapter 8 of the List of Tariff Provisions.
+
+**Non-application**
+
+- **(8)** This section does not apply in respect of goods of the territory of Svalbard.
+> 2009, c. 6, s. 34.
+
+
+
+
+
+#### Bilateral Emergency Measures — Switzerland–Liechtenstein
+
+
+
+**Orders by Governor in Council**
+
+**71.4** 
+
+- **(1)** Subject to subsections (2) to (4), if at any time it appears to the satisfaction of the Governor in Council, as a result of an inquiry made by the Canadian International Trade Tribunal under subsection 19.016(2) of the [Canadian International Trade Tribunal Act](/en/Acts/Statutes%20of%20Canada/1985/c.%2047%20(4th%20Supp.).md) or further to a complaint filed under subsection 23(1.092) of that Act, that goods that are entitled to the Switzerland–Liechtenstein Tariff are, as a result of that entitlement, being imported in such increased quantities and under such conditions as to alone constitute a principal cause of serious injury, or a threat of serious injury, to domestic producers of like or directly competitive goods, the Governor in Council may, on the recommendation of the Minister, by order
+	- **(a)** suspend, during the period that the order is in effect, any reduction of the rate of customs duty with respect to those goods that would otherwise be made after that time by virtue of section 52.3;
+	- **(b)** in respect of goods on which a customs duty is imposed on a seasonal basis, make those goods subject to a temporary duty, in addition to any other duty specified in this Act or in any other Act of Parliament relating to customs, at a rate set out in the order, but that rate, when added to the rate of customs duty set out in the List of Tariff Provisions that is in effect in respect of those goods at that time, may not exceed the Most-Favoured-Nation Tariff rate of customs duty that was in effect in respect of those goods immediately before the coming into force of this subsection; and
+	- **(c)** in respect of goods other than goods referred to in paragraph (b), make those goods subject to a temporary duty, in addition to any other duty specified in this Act or in any other Act of Parliament relating to customs, at a rate set out in the order, but that rate, when added to the rate of customs duty specified in the Switzerland–Liechtenstein Tariff that is in effect in respect of those goods at that time, may not exceed the lesser of
+		- **(i)** the Most-Favoured-Nation Tariff rate of customs duty that was in effect in respect of those goods immediately before the coming into force of this subsection, and
+		- **(ii)** the Most-Favoured-Nation Tariff rate of customs duty that is in effect in respect of those goods at the time the order is made.
+
+**Terms and conditions**
+
+- **(2)** An order under subsection (1)
+	- **(a)** may not, other than for tariff items referred to in subsection (3), be made more than once during the period beginning on the day on which this subsection comes into force and ending on the day before the day that is five years after the day on which this subsection comes into force in respect of goods of a particular kind and, if made during that period, remains in effect for the period, not exceeding three years, specified in the order; and
+	- **(b)** may, other than for tariff items referred to in subsection (3), be made after the expiry of the period referred to in paragraph (a) only if it is based on an agreement between the Government of Canada and the Government of the Swiss Confederation relating to the application of subsection (1).
+
+**Certain tariff items**
+
+- **(3)** An order under subsection (1)
+	- **(a)** may not, in the case of tariff item Nos. 8901.20.90, 8902.00.10, 8905.20.10, 8905.20.20, 8905.90.10 and 8906.90.99, be made more than once during the period beginning on the day that is three years after the day on which this subsection comes into force and ending on the day before the day that is 10 years after the day on which this subsection comes into force in respect of goods of a particular kind and, if made during that period, remains in effect for the period, not exceeding three years, specified in the order; and
+	- **(b)** may not, in the case of tariff item Nos. 8901.10.90, 8901.90.99, 8904.00.00, 8905.10.00 and 8905.90.90, be made more than once during the period beginning on the day that is three years after the day on which this subsection comes into force and ending on the day before the day that is 15 years after the day on which this subsection comes into force in respect of goods of a particular kind and, if made during that period, remains in effect for the period, not exceeding three years, specified in the order.
+
+**Rate of duty when order ceases to have effect**
+
+- **(4)** If an order made under subsection (1) ceases to have effect in a particular calendar year,
+	- **(a)** the rate of customs duty applicable to the goods after the order ceases to have effect and until December 31 of that year is the rate that would otherwise have been applicable one year after the making of the order, as reduced in accordance with section 52.3; and
+	- **(b)** the rate of customs duty applicable to the goods beginning on January 1 of the following year is the rate specified by the Minister under subsection (5).
+
+**Specification of applicable rate**
+
+- **(5)** For the purposes of subsection (4), the Minister shall, by order, specify that the rate referred to in paragraph (4)(b) is
+	- **(a)** the rate of customs duty that would have been applicable on January 1 of the year following the year in which the order ceases to have effect, if the rate of customs duty had been reduced in accordance with section 52.3, reduced for subsequent years in accordance with that section; or
+	- **(b)** the rate of customs duty that would have been applicable one year after the making of the order, reduced in equal annual stages beginning on January 1 of the year following the year in which the order ceases to have effect and ending on the day on which the rate of customs duty for the goods would otherwise be reduced to the final rate in accordance with section 52.3.
+
+**Definition of principal cause**
+
+- **(6)** In this section, ***principal cause*** means, in respect of a serious injury or threat of serious injury, an important cause that is not less important than any other cause of the serious injury or threat.
+
+**Reference to customs duty in effect**
+
+- **(7)** For the purposes of paragraph (1)(b), the Most-Favoured-Nation Tariff rate of customs duty in effect in respect of a fresh fruit or vegetable is
+	- **(a)** in respect of a fresh vegetable, the rate of customs duty applicable to that vegetable set out in the applicable tariff item referred to in Supplementary Note 2(b) in Chapter 7 of the List of Tariff Provisions; and
+	- **(b)** in respect of a fresh fruit, the rate of customs duty applicable to that fruit set out in the applicable tariff item referred to in Supplementary Note 4(b) in Chapter 8 of the List of Tariff Provisions.
+> 2009, c. 6, s. 34.
 
 
 
@@ -2359,13 +2732,13 @@ the Minister shall cause a notice to that effect to be published in the Canada G
 
 **87** 
 
-- **(1)** Notwithstanding subsection 20(2), the value for duty of goods of tariff item No. 9971.00.00
-	- **(a)** that are entitled to the Mexico Tariff is the value of the repairs or alterations made to those goods in Mexico; and
-	- **(b)** that are entitled to the Mexico–United States Tariff is the value of the repairs or alterations made to those goods in one or more NAFTA countries.
+- **(1)** Despite subsection 20(2), the value for duty of goods of tariff item No. 9971.00.00 that are entitled to the Iceland Tariff, the Norway Tariff or the Switzerland–Liechtenstein Tariff is the value of the repairs or alterations made to those goods in Iceland, Norway, Switzerland or Liechtenstein, as the case may be.
 
 **Limitation**
 
-- **(2)** Subsection (1) ceases to have effect on December 31, 2002.
+- **(2)** Subsection (1) ceases to have effect on the day before the day that is 15 years after the day on which this subsection comes into force.
+> 1997, c. 36, s. 87; 2009, c. 6, s. 35.
+
 
 
 
@@ -3269,13 +3642,14 @@ less
 	- **(i)** defining the expressions “issue”, “periodical” and “special edition”,
 	- **(ii)** prescribing conditions under which an issue of a periodical will be found to be an issue of a special edition that contained an advertisement that was primarily directed to a market in Canada and that did not appear in identical form in all editions of that issue of a periodical that were distributed in the country of origin, and
 	- **(iii)** prescribing conditions under which an issue of a periodical will be found to be an issue more than five per cent of the advertising space in which consisted of space used for advertisements that indicated specific sources of availability in Canada, or specific conditions relating to the sale or provision in Canada, of any goods or services;
-- **(j)** for the purpose of tariff item No. 9971.00.00 or 9992.00.00, prescribing conditions under which goods that have been exported to a NAFTA country, Chile, Costa Rica, Israel or another CIFTA beneficiary for repair or alteration may be imported;
+- **(j)** for the purpose of tariff item No. 9971.00.00, prescribing conditions under which goods that have been exported to a NAFTA country, Chile, Costa Rica, Israel or another CIFTA beneficiary, Iceland, Norway, Switzerland or Liechtenstein for repair or alteration may be imported;
+- **(j.1)** for the purpose of tariff item No. 9992.00.00, prescribing conditions under which goods that have been exported to a NAFTA country, Chile, Costa Rica, Israel or another CIFTA beneficiary for repair or alteration may be imported;
 - **(k)** for the purposes of tariff item No. 9993.00.00,
 	- **(i)** extending any period that the goods imported under that tariff item may remain in Canada, if it is impracticable or impossible for the importer to export the goods,
 	- **(ii)** setting out the conditions under which the requirement for security or for prescribed documents may be waived, and
 	- **(iii)** prescribing the form, nature and conditions of any security satisfactory to the Minister of Public Safety and Emergency Preparedness; and
 - **(l)** prescribing any other thing that is to be prescribed for the purposes of a tariff item referred to in this section.
-> 1997, c. 36, s. 133; 2001, c. 28, s. 45; 2005, c. 38, ss. 142, 145; 2009, c. 2, s. 122.
+> 1997, c. 36, s. 133; 2001, c. 28, s. 45; 2005, c. 38, ss. 142, 145; 2009, c. 2, s. 122, c. 6, s. 36.
 
 
 
