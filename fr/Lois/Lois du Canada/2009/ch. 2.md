@@ -1203,7 +1203,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les dispositions de la présente section, à l’exception des articles 235 et 254 et du paragraphe 257(1), entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='fn_IndB789_hq_7111'><sup>*</sup></a>: [Note : Article 235 et paragraphe 257(1) en vigueur à la sanction le 12 mars 2009.]<br />
+<a name='fn_IndB789_hq_7111'><sup>*</sup></a>: [Note : Article 235 et paragraphe 257(1) en vigueur à la sanction le 12 mars 2009; articles 233, 234 et 236 à 244, paragraphes 245(1) à (6), articles 246 à 253, 255 et 256, paragraphe 257(2) et article 258 en vigueur le 1<sup>er</sup> juillet 2009, *voir* TR/2009-57.]<br />
 
 **Rétroactivité**
 
