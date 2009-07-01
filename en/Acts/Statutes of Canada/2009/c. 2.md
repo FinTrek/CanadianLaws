@@ -1203,7 +1203,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** The provisions of this Division, except for sections 235 and 254 and subsection 257(1), come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind15AE_hq_7100'><sup>*</sup></a>: [Note: Section 235 and subsection 257(1) in force on assent March 12, 2009.]<br />
+<a name='fn_Ind15AE_hq_7100'><sup>*</sup></a>: [Note: Section 235 and subsection 257(1) in force on assent March 12, 2009; sections 233, 234, 236 to 244, subsections 245(1) to (6), sections 246 to 253, 255, 256, subsection 257(2) and section 258 in force on July 1, 2009, *see* SI/2009-57.]<br />
 
 **Retroactivity**
 
