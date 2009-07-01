@@ -39,24 +39,24 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***Accord*** L’Accord de libre-échange entre le Canada et les États de l’Association européenne de libre-échange (Islande, Liechtenstein, Norvège et Suisse), signé le 26 janvier 2008.
+***Accord*** L’Accord de libre-échange entre le Canada et les États de l’Association européenne de libre-échange (Islande, Liechtenstein, Norvège et Suisse), signé le 26 janvier 2008. (*Agreement*)
 
-***accord bilatéral*** L’un ou l’autre des accords suivants :
+***accord bilatéral*** L’un ou l’autre des accords suivants :
 - **a)** l’Accord sur l’agriculture entre le Canada et la République d’Islande, signé le 26 janvier 2008;
 - **b)** l’Accord sur l’agriculture entre le Canada et le Royaume de Norvège, signé le 26 janvier 2008;
-- **c)** l’Accord sur l’agriculture entre le Canada et la Confédération suisse, signé le 26 janvier 2008.
+- **c)** l’Accord sur l’agriculture entre le Canada et la Confédération suisse, signé le 26 janvier 2008. (*bilateral agreement*)
 
-***comité mixte*** Le comité mixte constitué en application de l’article 26 de l’Accord.
+***comité mixte*** Le comité mixte constitué en application de l’article 26 de l’Accord. (*Joint Committee*)
 
-***État de l’AELÉ*** L’un ou l’autre des États membres de l’Association européenne de libre-échange, soit : 
+***État de l’AELÉ*** L’un ou l’autre des États membres de l’Association européenne de libre-échange, soit :
 - **a)** la République d’Islande;
 - **b)** la Principauté de Liechtenstein;
 - **c)** le Royaume de Norvège;
-- **d)** la Confédération suisse.
+- **d)** la Confédération suisse. (*EFTA state*)
 
-***ministre*** Le ministre du Commerce international.
+***ministre*** Le ministre du Commerce international. (*Minister*)
 
-***texte législatif fédéral*** Tout ou partie d’une loi fédérale ou d’un règlement, décret ou autre texte pris dans l’exercice d’un pouvoir conféré sous le régime d’une loi fédérale.
+***texte législatif fédéral*** Tout ou partie d’une loi fédérale ou d’un règlement, décret ou autre texte pris dans l’exercice d’un pouvoir conféré sous le régime d’une loi fédérale. (*federal law*)
 
 **Publication de l’Accord et des accords bilatéraux**
 
@@ -326,7 +326,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_Ind22F1_hq_7405'>[*]</a></sup>**38** Les dispositions de la présente loi entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='fn_Ind22F1_hq_7405'><sup>*</sup></a>: [Note : Loi non en vigueur.]<br />
+<a name='fn_Ind22F1_hq_7405'><sup>*</sup></a>: [Note : Loi en vigueur le 1<sup>er</sup> juillet 2009, *voir* TR/2009-38.]<br />
 
 
 
