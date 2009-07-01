@@ -33,7 +33,7 @@
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***accord de libre-échange*** L’ALÉNA, l’ALÉCC, l’ALÉCCR ou l’ALÉCI.
+***accord de libre-échange*** L’ALÉNA, l’ALÉCC, l’ALÉCCR, l’ALÉCA ou l’ALÉCI.
 
 ***Accord de libre-échange Canada — États-Unis***[Abrogée, 1997, ch. 14, art. 35]
 
@@ -42,6 +42,8 @@
  ou ***agent*** ou ***agent des douanes*** Toute personne affectée à l’exécution ou au contrôle d’application de la présente loi, du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md) ou de la [Loi sur les mesures spéciales d’importation](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-15.md); la présente définition s’applique aux membres de la Gendarmerie royale du Canada.
 
 ***alcool spécialement dénaturé*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md).
+
+***ALÉCA*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada–AELÉ](/fr/Lois/Lois%20du%20Canada/2009/ch.%206.md).
 
 ***ALÉCC*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada — Chili](/fr/Lois/Lois%20du%20Canada/1997/ch.%2014.md).
 
@@ -93,6 +95,8 @@
 
  ou ***envois*** ou ***courrier*** S’entend au sens de l’article 2 de la [Loi sur la Société canadienne des postes](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-10.md).
 
+***État de l’AELÉ*** S’entend au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada–AELÉ](/fr/Lois/Lois%20du%20Canada/2009/ch.%206.md).
+
 ***États-Unis***[Abrogée, 1997, ch. 14, art. 35]
 
 ***exporter*** Exporter hors du Canada.
@@ -101,7 +105,11 @@
 
 ***importer*** Importer au Canada.
 
+***Islande*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
+
 ***Israël ou autre bénéficiaire de l’ALÉCI*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
+
+***Liechtenstein*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
 
 ***marchandises*** Leur sont assimilés, selon le contexte, les moyens de transport et les animaux, ainsi que tout document, quel que soit son support.
 
@@ -127,11 +135,14 @@
 
 ***moyen de transport*** Tout véhicule, aéronef, navire ou autre moyen servant au transport des personnes ou des marchandises.
 
+***Norvège*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
+
 ***partenaire de libre-échange*** Selon le cas : 
 - **a)** un pays ALÉNA;
 - **b)** le Chili;
 - **c)** le Costa Rica;
-- **d)** Israël ou autre bénéficiaire de l’ALÉCI.
+- **d)** Israël ou autre bénéficiaire de l’ALÉCI;
+- **e)** un État de l’AELÉ.
 
 ***pays ALÉNA*** S’entend au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange nord-américain](/fr/Lois/Lois%20du%20Canada/1993/ch.%2044.md).
 
@@ -154,6 +165,8 @@
 
 ***spiritueux*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md).
 
+***Suisse*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
+
 ***tabac en feuilles*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md).
 
 ***tabac fabriqué***[Abrogée, 2002, ch. 22, art. 328]
@@ -165,6 +178,8 @@
 ***titulaire de licence de tabac*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md).
 
 ***titulaire de licence de vin*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md).
+
+***traitement tarifaire préférentiel de l’ALÉCA*** Le bénéfice des taux de droits de douane du tarif de l’Islande, du tarif de la Norvège ou du tarif de Suisse-Liechtenstein, selon le cas, au titre du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
 
 ***traitement tarifaire préférentiel de l’ALÉCC*** Le bénéfice des taux de droits de douane du tarif du Chili au titre du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
 
@@ -206,7 +221,8 @@
 	- **a)** du traitement tarifaire préférentiel de l’ALÉNA;
 	- **b)** du traitement tarifaire préférentiel de l’ALÉCC;
 	- **c)** du traitement tarifaire préférentiel de l’ALÉCCR;
-	- **d)** du traitement tarifaire préférentiel de l’ALÉCI.
+	- **d)** du traitement tarifaire préférentiel de l’ALÉCI;
+	- **e)** du traitement tarifaire préférentiel de l’ALÉCA.
 
 **Documents électroniques**
 
@@ -231,7 +247,7 @@
 **Délégation par le ministre du Revenu national**
 
 - **(6)** Le ministre du Revenu national peut autoriser toute personne employée par l’Agence du revenu du Canada ou par l’Agence, nommément ou au titre de son appartenance à une catégorie donnée, à exercer les pouvoirs et fonctions, y compris les pouvoirs et fonctions judiciaires ou quasi-judiciaires, qui lui sont conférés en vertu de la présente loi.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 2, ch. 41 (3<sup>e</sup> suppl.), art. 118; 1988, ch. 65, art. 66; 1990, ch. 45, art. 19; 1992, ch. 28, art. 1; 1993, ch. 25, art. 68, ch. 27, art. 213, ch. 44, art. 81; 1994, ch. 13, art. 7; 1995, ch. 15, art. 24, ch. 41, art. 1; 1996, ch. 31, art. 73, ch. 33, art. 28; 1997, ch. 14, art. 35, ch. 36, art. 147; 1998, ch. 19, art. 262; 1999, ch. 17, art. 123; 2001, ch. 25, art. 1, ch. 28, art. 26; 2002, ch. 22, art. 328; 2005, ch. 38, art. 60 et 145; 2007, ch. 18, art. 135; 2009, ch. 10, art. 1(F).
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 2, ch. 41 (3<sup>e</sup> suppl.), art. 118; 1988, ch. 65, art. 66; 1990, ch. 45, art. 19; 1992, ch. 28, art. 1; 1993, ch. 25, art. 68, ch. 27, art. 213, ch. 44, art. 81; 1994, ch. 13, art. 7; 1995, ch. 15, art. 24, ch. 41, art. 1; 1996, ch. 31, art. 73, ch. 33, art. 28; 1997, ch. 14, art. 35, ch. 36, art. 147; 1998, ch. 19, art. 262; 1999, ch. 17, art. 123; 2001, ch. 25, art. 1, ch. 28, art. 26; 2002, ch. 22, art. 328; 2005, ch. 38, art. 60 et 145; 2007, ch. 18, art. 135; 2009, ch. 6, art. 23, ch. 10, art. 1(F).
 
 
 
@@ -1633,17 +1649,28 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 **42.1** 
 
 - **(1)** L’agent chargé par le président, individuellement ou au titre de son appartenance à une catégorie d’agents, de l’application du présent article ou la personne désignée par le président, individuellement ou au titre de son appartenance à une catégorie, pour agir pour le compte d’un tel agent peut, sous réserve des conditions réglementaires :
-	- **a)** vérifier l’origine des marchandises faisant l’objet d’une demande de traitement tarifaire préférentiel découlant d’un accord de libre-échange :
+	- **a)** vérifier l’origine des marchandises faisant l’objet d’une demande de traitement tarifaire préférentiel découlant d’un accord de libre-échange autre que l’ALÉCA :
 		- **(i)** soit en pénétrant, à toute heure raisonnable, dans un lieu faisant partie d’une catégorie réglementaire,
 		- **(ii)** soit de toute autre manière prévue par règlement;
 	- **b)** pénétrer dans un lieu faisant partie d’une catégorie réglementaire à toute heure raisonnable pour vérifier, à l’égard de marchandises importées et ultérieurement exportées vers un pays ALÉNA, le montant :
 		- **(i)** soit d’une exonération de droits éventuelle aux termes de l’article 89 du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md),
 		- **(ii)** soit d’un drawback de droits éventuel aux termes de l’article 113 de cette loi.
 
+**Méthodes de vérification en vertu de l’ALÉCA**
+
+- **(1.1)** L’agent chargé par le président, individuellement ou au titre de son appartenance à une catégorie d’agents, de l’application du présent article ou la personne désignée par le président, individuellement ou au titre de son appartenance à une catégorie, pour agir pour le compte d’un tel agent peut, sous réserve des conditions réglementaires, vérifier l’origine des marchandises faisant l’objet d’une demande de traitement tarifaire préférentiel de l’ALÉCA en demandant par écrit à l’administration douanière de l’État d’exportation de l’AELÉ qu’elle effectue une vérification et fournisse un avis indiquant si les marchandises sont originaires au sens de l’annexe C de l’ALÉCA.
+
 **Retrait du traitement tarifaire préférentiel**
 
-- **(2)** Dans le cas où l’exportateur ou le producteur ne se conforme pas aux exigences réglementaires de la vérification prévue à l’alinéa (1)a) ou, s’agissant d’une visite prévue au sous-alinéa (1)a)(i), n’y consent pas suivant les modalités — de temps et autres — réglementaires, le traitement tarifaire préférentiel demandé peut être refusé ou retiré aux marchandises en cause.
-> 1993, ch. 44, art. 86; 1995, ch. 41, art. 16; 1997, ch. 14, art. 38, ch. 36, art. 161; 2005, ch. 38, art. 70.
+- **(2)** Dans le cas où l’exportateur ou le producteur ne se conforme pas aux exigences réglementaires de la vérification prévue à l’alinéa (1)a) ou, s’agissant d’une visite prévue au sous-alinéa (1)a)(i), n’y consent pas suivant les modalités — de temps et autres — réglementaires, le traitement tarifaire préférentiel demandé en vertu d’un accord de libre-échange autre que l’ALÉCA peut être refusé ou retiré aux marchandises en cause.
+
+**Retrait du traitement tarifaire préférentiel de l’ALÉCA**
+
+- **(3)** Le traitement tarifaire préférentiel de l’ALÉCA peut être refusé ou retiré à des marchandises dans les cas suivants :
+	- **a)** l’État d’exportation de l’AELÉ omet d’effectuer une vérification ou de fournir un avis indiquant si les marchandises sont originaires;
+	- **b)** l’agent ou l’autre personne visé au paragraphe (1.1) n’est pas en mesure d’établir si les marchandises sont originaires;
+	- **c)** tout autre cas prévu par règlement.
+> 1993, ch. 44, art. 86; 1995, ch. 41, art. 16; 1997, ch. 14, art. 38, ch. 36, art. 161; 2005, ch. 38, art. 70; 2009, ch. 6, art. 24.
 
 
 
@@ -1691,7 +1718,11 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 **Report de la date de prise d’effet**
 
 - **(4)** La date de prise d’effet de la révision ou du réexamen de l’origine visé au paragraphe (2) est reportée pour une période maximale de quatre-vingt-dix jours, si le ministre est convaincu que l’importateur des marchandises ou l’auteur de tout certificat d’origine de celles-ci a démontré qu’il s’est fondé de bonne foi, à son détriment, sur le classement tarifaire ou la détermination de la valeur des matières ou matériels visés à ce paragraphe effectués par l’administration douanière du pays ALÉNA d’exportation des marchandises, du Chili ou du Costa Rica, selon le cas.
-> 1993, ch. 44, art. 86; 1997, ch. 14, art. 38, ch. 36, art. 163; 2001, ch. 25, art. 34(F), ch. 28, art. 27.
+
+**Information préjudiciable en vertu de l’ALÉCA**
+
+- **(5)** Lorsque l’exportateur de marchandises d’un État de l’AELÉ convainc le ministre qu’il s’est fondé de bonne foi, à son détriment, sur une décision de l’Agence ou de l’administration douanière d’un État de l’AELÉ concernant le classement tarifaire ou la valeur d’une matière non originaire utilisée dans la production de marchandises, la révision de l’origine rendue par l’Agence en ce qui concerne les marchandises pour lesquelles le traitement tarifaire préférentiel est réclamé en vertu de l’ALÉCA ne s’appliquera qu’à des importations de marchandises effectuées après la date de la révision.
+> 1993, ch. 44, art. 86; 1997, ch. 14, art. 38, ch. 36, art. 163; 2001, ch. 25, art. 34(F), ch. 28, art. 27; 2009, ch. 6, art. 25.
 
 
 
@@ -1753,7 +1784,7 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 
 - **(1)** L’agent chargé par le président, individuellement ou au titre de son appartenance à une catégorie d’agents, de l’application du présent article est tenu, sur demande d’un membre d’une catégorie réglementaire présentée dans le délai réglementaire, selon les modalités réglementaires, en la forme et avec les renseignements déterminés par le ministre, de rendre, avant l’importation de marchandises, une décision anticipée :
 	- **a)** sur l’origine des marchandises et l’application à leur égard du traitement tarifaire préférentiel découlant d’un accord de libre-échange;
-	- **b)** s’agissant de marchandises exportées d’un pays ALÉNA, du Chili ou du Costa Rica, sur toute autre question portant sur l’application à celles-ci du paragraphe 1 de l’article 509 de l’ALÉNA, du paragraphe 1 de l’article E-09 de l’ALÉCC ou du paragraphe 1 de l’article V.9 ou du paragraphe 10 de l’article IX.2 de l’ALÉCCR, selon le cas;
+	- **b)** s’agissant de marchandises exportées d’un pays ALÉNA, du Chili, du Costa Rica ou d’un État de l’AELÉ, sur toute autre question portant sur l’application à celles-ci du paragraphe 1 de l’article 509 de l’ALÉNA, du paragraphe 1 de l’article E-09 de l’ALÉCC ou du paragraphe 1 de l’article V.9 ou du paragraphe 10 de l’article IX.2 de l’ALÉCCR ou du paragraphe 28(2) de l’annexe C de l’ALÉCA, selon le cas;
 	- **c)** sur le classement tarifaire des marchandises.
 
 **Règlements**
@@ -1763,7 +1794,7 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 	- **b)** leur modification ou annulation, y compris la prise d’effet rétroactive de la modification ou de l’annulation;
 	- **c)** le pouvoir de l’agent d’exiger, dans le cadre d’une demande de décision anticipée, des renseignements supplémentaires;
 	- **d)** les cas où peut être reporté ou refusé le prononcé d’une décision anticipée.
-> 1993, ch. 44, art. 87; 1996, ch. 33, art. 33; 1997, ch. 14, art. 39; 2001, ch. 25, art. 36, ch. 28, art. 28; 2004, ch. 16, art. 6(F); 2005, ch. 38, art. 71.
+> 1993, ch. 44, art. 87; 1996, ch. 33, art. 33; 1997, ch. 14, art. 39; 2001, ch. 25, art. 36, ch. 28, art. 28; 2004, ch. 16, art. 6(F); 2005, ch. 38, art. 71; 2009, ch. 6, art. 26.
 
 
 
@@ -2634,7 +2665,7 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 	- **b)** elles ont été dédouanées en quantité inférieure à celle pour laquelle les droits ont été payés;
 	- **c)** elles sont de qualité inférieure à celle pour laquelle les droits ont été payés;
 	- **c.1)** les marchandises ont été exportées d’un pays ALÉNA ou du Chili mais n’ont pas fait l’objet d’une demande visant l’obtention du traitement tarifaire préférentiel de l’ALÉNA ou de celui de l’ALÉCC au moment de leur déclaration en détail en application du paragraphe 32(1), (3) ou (5);
-	- **c.11)** les marchandises ont été importées du Costa Rica, d’Israël ou d’un autre bénéficiaire de l’ALÉCI, mais n’ont pas fait l’objet d’une demande visant l’obtention du traitement tarifaire préférentiel de l’ALÉCCR ou de l’ALÉCI au moment de leur déclaration en détail en application des paragraphes 32(1), (3) ou (5);
+	- **c.11)** les marchandises ont été importées du Costa Rica, d’un État de l’AELÉ, d’Israël ou d’un autre bénéficiaire de l’ALÉCI, mais n’ont pas fait l’objet d’une demande visant l’obtention du traitement tarifaire préférentiel de l’ALÉCCR, de l’ALÉCA ou de l’ALÉCI au moment de leur déclaration en détail en application des paragraphes 32(1), (3) ou (5);
 	- **c.2)** [Abrogé, 1997, ch. 14, art. 43]
 	- **d)** le calcul des droits dus sur les marchandises est fondé sur une erreur d’écriture ou de typographie, ou sur une autre erreur de même nature;
 	- **e)** les marchandises ont fait l’objet d’un paiement de droits excédentaire ou erroné résultant d’une erreur de détermination, en application du paragraphe 58(2), de leur origine — dans des cas autres que ceux prévus aux alinéas c.1) ou c.11) — , de leur classement tarifaire ou de leur valeur en douane et elles n’ont pas fait l’objet de la décision prévue à l’un ou l’autre des articles 59 à 61;
@@ -2686,7 +2717,7 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 **Affectation du remboursement**
 
 - **(8)** Une personne d’une catégorie réglementaire peut, dans les quatre ans suivant la déclaration en détail prévue aux paragraphes 32(1), (3) ou (5), dans les cas et aux conditions réglementaires, affecter le montant d’un remboursement auquel elle a droit en vertu du présent article au paiement d’une somme dont elle est redevable ou dont elle peut devenir redevable au titre de la présente loi.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 74; 1988, ch. 65, art. 72; 1993, ch. 44, art. 98; 1996, ch. 33, art. 36; 1997, ch. 14, art. 43, ch. 36, art. 175; 1999, ch. 31, art. 71(F); 2001, ch. 25, art. 51, ch. 28, art. 29; 2002, ch. 22, art. 337.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 74; 1988, ch. 65, art. 72; 1993, ch. 44, art. 98; 1996, ch. 33, art. 36; 1997, ch. 14, art. 43, ch. 36, art. 175; 1999, ch. 31, art. 71(F); 2001, ch. 25, art. 51, ch. 28, art. 29; 2002, ch. 22, art. 337; 2009, ch. 6, art. 27.
 
 
 
@@ -2905,6 +2936,37 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 
 - **(2)** Le paragraphe 40(2) et les articles 42 et 43 s’appliquent, compte tenu des adaptations de circonstance, à la personne tenue de conserver des documents en vertu du paragraphe (1).
 > 1988, ch. 65, art. 78; 1993, ch. 44, art. 104; 1996, ch. 33, art. 38; 1997, ch. 14, art. 45; 2001, ch. 25, art. 57.
+
+
+
+
+
+**Vérification de l’origine des marchandises pour le compte d’un État de l’AELÉ**
+
+**97.201** 
+
+- **(1)** L’administration douanière d’un État de l’AELÉ vers lequel des marchandises sont exportées peut demander par écrit à l’Agence qu’elle effectue une vérification et fournisse un avis indiquant si les marchandises sont originaires au sens de l’annexe C de l’ALÉCA.
+
+**Méthodes de vérification**
+
+- **(2)** L’agent chargé par le président, individuellement ou au titre de son appartenance à une catégorie d’agents, de l’application du présent article ou la personne désignée par le président, individuellement ou au titre de son appartenance à une catégorie, pour agir pour le compte d’un tel agent peut, sous réserve des conditions réglementaires, vérifier l’origine des marchandises mentionnées au paragraphe (1):
+	- **a)** soit en pénétrant, à toute heure raisonnable, dans un lieu faisant partie d’une catégorie réglementaire;
+	- **b)** soit de toute autre manière prévue par règlement.
+
+**Déclaration de l’origine**
+
+- **(3)** Dès l’achèvement de la vérification de l’origine demandée en vertu du paragraphe (1), l’agent ou l’autre personne visé au paragraphe (2) :
+	- **a)** fournit à l’administration douanière de l’État de l’AELÉ, de la façon prévue par règlement, l’avis demandé ainsi que tout document à l’appui de celui-ci que peut exiger cette administration douanière;
+	- **b)** décide si les marchandises sont originaires au sens de l’annexe C de l’ALÉCA.
+
+**Avis de la décision**
+
+- **(4)** Le président donne sans délai avis de la décision prise en vertu de l’alinéa (3)b), motifs à l’appui, à l’exportateur ou au producteur des marchandises, selon le cas.
+
+**Décision assimilée à la révision**
+
+- **(5)** Pour l’application de la présente loi, la décision prise en application de l’alinéa (3)b) est assimilée à la révision prévue à l’alinéa 59(1)a).
+> 2009, ch. 6, art. 28.
 
 
 
@@ -5671,12 +5733,16 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 
 - **(1.3)** Sur recommandation du ministre, le gouverneur en conseil peut prendre des règlements en vue de l’interprétation, de l’application et de l’exécution uniformes des chapitres III et V de l’ALÉCCR ou pour toute autre question dont peuvent convenir les parties à celui-ci.
 
+**Règlements : ALÉCA**
+
+- **(1.4)** Sur recommandation du ministre, le gouverneur en conseil peut prendre des règlements en vue de l’interprétation, de l’application et de l’exécution uniformes du chapitre II et de l’annexe C de l’ALÉCA ou pour toute autre question dont peuvent convenir les parties à celui-ci.
+
 **Règlement fixant un taux d’intérêt**
 
 - **(2)** Le gouverneur en conseil peut, par règlement et sur recommandation du ministre des Finances, fixer un taux d’intérêt ou établir des règles de fixation d’un taux d’intérêt pour l’application d’une disposition de la présente loi.
 
 - **(3) et (4)** [Abrogés, 2001, ch. 25, art. 85]
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 164; 1988, ch. 65, art. 81; 1992, ch. 28, art. 30, ch. 31, art. 22; 1993, ch. 44, art. 108; 1994, ch. 47, art. 72; 1995, ch. 41, art. 36; 1996, ch. 33, art. 40; 1997, ch. 14, art. 47; 1998, ch. 19, art. 264; 2001, ch. 25, art. 85, ch. 28, art. 30; 2007, ch. 18, art. 141; 2009, ch. 10, art. 16.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 164; 1988, ch. 65, art. 81; 1992, ch. 28, art. 30, ch. 31, art. 22; 1993, ch. 44, art. 108; 1994, ch. 47, art. 72; 1995, ch. 41, art. 36; 1996, ch. 33, art. 40; 1997, ch. 14, art. 47; 1998, ch. 19, art. 264; 2001, ch. 25, art. 85, ch. 28, art. 30; 2007, ch. 18, art. 141; 2009, ch. 6, art. 29, ch. 10, art. 16.
 
 
 
