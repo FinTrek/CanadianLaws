@@ -39,24 +39,24 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(1)** The definitions in this subsection apply in this Act.
 
-***Agreement*** means the Free Trade Agreement between Canada and the States of the European Free Trade Association (Iceland, Liechtenstein, Norway, Switzerland), signed on January 26, 2008.
+***Agreement*** means the Free Trade Agreement between Canada and the States of the European Free Trade Association (Iceland, Liechtenstein, Norway, Switzerland), signed on January 26, 2008. (*Accord*)
 
-***bilateral agreement*** means
+***bilateral agreement*** means
 - **(a)** the Agreement on Agriculture between Canada and the Republic of Iceland, signed on January 26, 2008;
 - **(b)** the Agreement on Agriculture between Canada and the Kingdom of Norway, signed on January 26, 2008; or
-- **(c)** the Agreement on Agriculture between Canada and the Swiss Confederation, signed on January 26, 2008.
+- **(c)** the Agreement on Agriculture between Canada and the Swiss Confederation, signed on January 26, 2008. (*accord bilatéral*)
 
-***EFTA state*** means a member state of the European Free Trade Association, namely:
+***EFTA state*** means a member state of the European Free Trade Association, namely:
 - **(a)** the Republic of Iceland;
 - **(b)** the Principality of Liechtenstein;
 - **(c)** the Kingdom of Norway; or
-- **(d)** the Swiss Confederation.
+- **(d)** the Swiss Confederation. (*État de l’AELÉ*)
 
-***federal law*** means the whole or any portion of an Act of Parliament or a regulation, order or other instrument issued, made or established in the exercise of a power conferred by or under an Act of Parliament.
+***federal law*** means the whole or any portion of an Act of Parliament or a regulation, order or other instrument issued, made or established in the exercise of a power conferred by or under an Act of Parliament. (*texte législatif fédéral*)
 
-***Joint Committee*** means the committee established pursuant to Article 26 of the Agreement.
+***Joint Committee*** means the committee established pursuant to Article 26 of the Agreement. (*comité mixte*)
 
-***Minister*** means the Minister for International Trade.
+***Minister*** means the Minister for International Trade. (*ministre*)
 
 **Publication of agreements**
 
@@ -326,7 +326,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#fn_Ind1E52_hq_7404'>[*]</a></sup>**38** The provisions of this Act come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind1E52_hq_7404'><sup>*</sup></a>: [Note: Act not in force.]<br />
+<a name='fn_Ind1E52_hq_7404'><sup>*</sup></a>: [Note: Act in force July 1, 2009, *see* SI/2009-38.]<br />
 
 
 
