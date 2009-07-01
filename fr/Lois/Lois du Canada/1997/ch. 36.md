@@ -44,6 +44,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
+***Accord de libre-échange Canada–AELÉ*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada–AELÉ](/fr/Lois/Lois%20du%20Canada/2009/ch.%206.md).
+
 ***Accord de libre-échange Canada — Chili*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada — Chili](/fr/Lois/Lois%20du%20Canada/1997/ch.%2014.md).
 
 ***Accord de libre-échange Canada — Costa Rica*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada — Costa Rica](/fr/Lois/Lois%20du%20Canada/2001/ch.%2028.md).
@@ -75,7 +77,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***importé d’Israël ou d’un autre bénéficiaire de l’ALÉCI*** S’entend au sens des règlements.
 
+***Islande***
+- **a) ** Territoire terrestre, espace aérien, eaux intérieures et mer territoriale de l’Islande;
+- **b) ** zone économique exclusive et plateau continental de l’Islande.
+
 ***Israël ou autre bénéficiaire de l’ALÉCI*** S’entend au sens des règlements.
+
+***Liechtenstein*** Territoire terrestre et espace aérien du Liechtenstein.
 
 ***liste des dispositions tarifaires*** La Liste des dispositions tarifaires figurant à l’annexe.
 
@@ -91,6 +99,10 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 - **g)** des régions qui s’étendent au-delà des eaux territoriales du Mexique et qui, en conformité avec le droit international, y compris la Convention des Nations Unies sur le droit de la mer, et aux lois du Mexique, sont des régions à l’égard desquelles le Mexique est habilité à exercer des droits pour ce qui concerne les fonds marins et leur sous-sol ainsi que leurs ressources naturelles.
 
 ***ministre*** Le ministre des Finances.
+
+***Norvège***
+- **a)** Territoire terrestre, espace aérien, eaux intérieures et mer territoriale de la Norvège;
+- **b)** zone économique exclusive et plateau continental de la Norvège.
 
 ***numéro tarifaire*** Dénomination de marchandises, figurant sur la liste des dispositions tarifaires, marquée d’un numéro à huit chiffres et les taux figurant sur cette liste et, le cas échéant, au tableau des échelonnements.
 
@@ -111,6 +123,8 @@ French version only***réglementaire*** Prévu par règlement ou déterminé en 
 
 ***sous-position*** Dénomination de marchandises de la liste des dispositions tarifaires accompagnée d’un numéro à six chiffres, y compris la dénomination des marchandises des numéros tarifaires dont le numéro commence par les six chiffres du numéro de sous-position.
 
+***Suisse*** Territoire terrestre et espace aérien de la Suisse.
+
 ***tableau des échelonnements*** La Liste des taux intermédiaires et des taux finals pour les numéros tarifaires de la catégorie d’échelonnement « F » figurant à l’annexe.
 
 ***tableau des traitements tarifaires*** La Liste des pays — avec les traitements tarifaires qui leur sont accordés — figurant à l’annexe.
@@ -128,7 +142,7 @@ French version only***taux*** Le taux de droits de douane.
 **Territoires**
 
 - **(2)** Les territoires prévus par règlement, pour l’application de la définition de « pays », ne sont reconnus comme pays que pour l’application de la présente loi.
-> 1997, ch. 36, art. 2; 2001, ch. 28, art. 31; 2005, ch. 38, art. 143(A) et 145.
+> 1997, ch. 36, art. 2; 2001, ch. 28, art. 31; 2005, ch. 38, art. 143(A) et 145; 2009, ch. 6, art. 30.
 
 
 
@@ -148,10 +162,10 @@ French version only***taux*** Le taux de droits de douane.
 
 
 
-**Marchandises importées d’un pays ALÉNA, du Chili ou du Costa Rica**
+**Marchandises importées d’un pays ALÉNA, du Chili, du Costa Rica ou d’un État de l’AELÉ**
 
-**5** Pour l’application de la présente loi, les marchandises qui sont expédiées directement au Canada à partir d’un pays ALÉNA, du Chili ou du Costa Rica sont des marchandises importées d’un pays ALÉNA, du Chili ou du Costa Rica, selon le cas.
-> 1997, ch. 36, art. 5; 2001, ch. 28, art. 32.
+**5** Pour l’application de la présente loi, les marchandises qui sont expédiées directement au Canada à partir d’un pays ALÉNA, du Chili, du Costa Rica, de l’Islande, du Liechtenstein, de la Norvège ou de la Suisse sont des marchandises importées de ce pays, selon le cas.
+> 1997, ch. 36, art. 5; 2001, ch. 28, art. 32; 2009, ch. 6, art. 31.
 
 
 
@@ -539,8 +553,8 @@ French version only***taux*** Le taux de droits de douane.
 
 **Abréviations**
 
-**27** Pour l’application de la liste des dispositions tarifaires et du tableau des échelonnements, les abréviations « TÉU », « TM », « TMÉU », « TC », « TCR », « TACI », « TPG », « TPMD », « TPAC », « TAU » et « TNZ » désignent respectivement « Tarif des États-Unis », « Tarif du Mexique », « Tarif Mexique — États-Unis », « Tarif du Chili », « Tarif du Costa Rica », « Tarif de l’accord Canada — Israël », « Tarif de préférence général », « Tarif des pays les moins développés », « Tarif des pays antillais du Commonwealth », « Tarif de l’Australie » et « Tarif de la Nouvelle-Zélande ».
-> 1997, ch. 36, art. 27; 2001, ch. 28, art. 36.
+**27** Pour l’application de la liste des dispositions tarifaires et du tableau des échelonnements, les abréviations « TÉU », « TM », « TMÉU », « TC », « TCR », « TACI », « TPG », « TPMD », « TPAC », « TAU », « TNZ », « TI », « TN » et « TSL » désignent respectivement « Tarif des États-Unis », « Tarif du Mexique », « Tarif Mexique — États-Unis », « Tarif du Chili », « Tarif du Costa Rica », « Tarif de l’accord Canada–Israël », « Tarif de préférence général », « Tarif des pays les moins développés », « Tarif des pays antillais du Commonwealth », « Tarif de l’Australie », « Tarif de la Nouvelle-Zélande », « Tarif de l’Islande », « Tarif de la Norvège » et « Tarif de Suisse-Liechtenstein ».
+> 1997, ch. 36, art. 27; 2001, ch. 28, art. 36; 2009, ch. 6, art. 32.
 
 
 
@@ -1258,6 +1272,192 @@ French version only***taux*** Le taux de droits de douane.
 
 
 
+#### Tarif de l’Islande
+
+
+
+**Application du TI**
+
+**52.1** 
+
+- **(1)** Sous réserve de l’article 24, les marchandises bénéficiant du tarif de l’Islande bénéficient des taux du tarif de l’Islande.
+
+**Taux final « A » pour le TI**
+
+- **(2)** Dans les cas où « A » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TI » pour des marchandises qui bénéficient du tarif de l’Islande, le taux final s’applique.
+
+**Échelonnement « F » pour le TI**
+
+- **(3)** Dans les cas où « F » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TI » pour des marchandises qui bénéficient du tarif de l’Islande, le taux initial s’applique, réduit par étapes selon le tableau des échelonnements.
+
+**Échelonnements pour le TI**
+
+- **(4)** Dans les cas où « Q1 » ou « Q2 » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TI » pour des marchandises qui bénéficient du tarif de l’Islande, le taux initial s’applique, réduit par étapes de la façon suivante :
+	- **a)** dans le cas de « Q1 » :
+		- **(i)** à compter de la date du troisième anniversaire de l’entrée en vigueur du présent paragraphe, aux sept huitièmes du taux initial,
+		- **(ii)** à compter de la date du quatrième anniversaire de l’entrée en vigueur du présent paragraphe, aux six huitièmes du taux initial,
+		- **(iii)** à compter de la date du cinquième anniversaire de l’entrée en vigueur du présent paragraphe, aux cinq huitièmes du taux initial,
+		- **(iv)** à compter de la date du sixième anniversaire de l’entrée en vigueur du présent paragraphe, aux quatre huitièmes du taux initial,
+		- **(v)** à compter de la date du septième anniversaire de l’entrée en vigueur du présent paragraphe, aux trois huitièmes du taux initial,
+		- **(vi)** à compter de la date du huitième anniversaire de l’entrée en vigueur du présent paragraphe, aux deux huitièmes du taux initial,
+		- **(vii)** à compter de la date du neuvième anniversaire de l’entrée en vigueur du présent paragraphe, au huitième du taux initial,
+		- **(viii)** à compter de la date du dixième anniversaire de l’entrée en vigueur du présent paragraphe, au taux final, la franchise en douane;
+	- **b)** dans le cas de « Q2 » :
+		- **(i)** à compter de la date du troisième anniversaire de l’entrée en vigueur du présent paragraphe, aux douze treizièmes du taux initial,
+		- **(ii)** à compter de la date du quatrième anniversaire de l’entrée en vigueur du présent paragraphe, aux onze treizièmes du taux initial,
+		- **(iii)** à compter de la date du cinquième anniversaire de l’entrée en vigueur du présent paragraphe, aux dix treizièmes du taux initial,
+		- **(iv)** à compter de la date du sixième anniversaire de l’entrée en vigueur du présent paragraphe, aux neuf treizièmes du taux initial,
+		- **(v)** à compter de la date du septième anniversaire de l’entrée en vigueur du présent paragraphe, aux huit treizièmes du taux initial,
+		- **(vi)** à compter de la date du huitième anniversaire de l’entrée en vigueur du présent paragraphe, aux sept treizièmes du taux initial,
+		- **(vii)** à compter de la date du neuvième anniversaire de l’entrée en vigueur du présent paragraphe, aux six treizièmes du taux initial,
+		- **(viii)** à compter de la date du dixième anniversaire de l’entrée en vigueur du présent paragraphe, aux cinq treizièmes du taux initial,
+		- **(ix)** à compter de la date du onzième anniversaire de l’entrée en vigueur du présent paragraphe, aux quatre treizièmes du taux initial,
+		- **(x)** à compter de la date du douzième anniversaire de l’entrée en vigueur du présent paragraphe, aux trois treizièmes du taux initial,
+		- **(xi)** à compter de la date du treizième anniversaire de l’entrée en vigueur du présent paragraphe, aux deux treizièmes du taux initial,
+		- **(xii)** à compter de la date du quatorzième anniversaire de l’entrée en vigueur du présent paragraphe, au treizième du taux initial,
+		- **(xiii)** à compter de la date du quinzième anniversaire de l’entrée en vigueur du présent paragraphe, au taux final, la franchise en douane.
+
+**Arrondissement des taux spécifiques**
+
+- **(5)** Dans le cas où le taux spécifique réduit en application des paragraphes (3) ou (4) comporte une fraction de un dixième de cent, il est arrondi au dixième de cent inférieur.
+
+**Arrondissement : fraction autre que 0,5**
+
+- **(6)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) comporte une fraction de un pour cent autre que 0,5, il est arrondi au multiple de 0,5 pour cent inférieur.
+
+**Suppression des taux inférieurs à deux pour cent**
+
+- **(7)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) est inférieur à deux pour cent, la franchise en douane s’applique immédiatement.
+> 2009, ch. 6, art. 33.
+
+
+
+
+
+#### Tarif de la Norvège
+
+
+
+**Application du TN**
+
+**52.2** 
+
+- **(1)** Sous réserve de l’article 24, les marchandises bénéficiant du tarif de la Norvège bénéficient des taux du tarif de la Norvège.
+
+**Taux final « A » pour le TN**
+
+- **(2)** Dans les cas où « A » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TN » pour des marchandises qui bénéficient du tarif de la Norvège, le taux final s’applique.
+
+**Échelonnement « F » pour le TN**
+
+- **(3)** Dans les cas où « F » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TN » pour des marchandises qui bénéficient du tarif de la Norvège, le taux initial s’applique, réduit par étapes selon le tableau des échelonnements.
+
+**Échelonnements pour le TN**
+
+- **(4)** Dans les cas où « Q1 » ou « Q2 » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TN » pour des marchandises qui bénéficient du tarif de la Norvège, le taux initial s’applique, réduit par étapes de la façon suivante :
+	- **a)** dans le cas de « Q1 » :
+		- **(i)** à compter de la date du troisième anniversaire de l’entrée en vigueur du présent paragraphe, aux sept huitièmes du taux initial,
+		- **(ii)** à compter de la date du quatrième anniversaire de l’entrée en vigueur du présent paragraphe, aux six huitièmes du taux initial,
+		- **(iii)** à compter de la date du cinquième anniversaire de l’entrée en vigueur du présent paragraphe, aux cinq huitièmes du taux initial,
+		- **(iv)** à compter de la date du sixième anniversaire de l’entrée en vigueur du présent paragraphe, aux quatre huitièmes du taux initial,
+		- **(v)** à compter de la date du septième anniversaire de l’entrée en vigueur du présent paragraphe, aux trois huitièmes du taux initial,
+		- **(vi)** à compter de la date du huitième anniversaire de l’entrée en vigueur du présent paragraphe, aux deux huitièmes du taux initial,
+		- **(vii)** à compter de la date du neuvième anniversaire de l’entrée en vigueur du présent paragraphe, au huitième du taux initial,
+		- **(viii)** à compter de la date du dixième anniversaire de l’entrée en vigueur du présent paragraphe, au taux final, la franchise en douane;
+	- **b)** dans le cas de « Q2 » :
+		- **(i)** à compter de la date du troisième anniversaire de l’entrée en vigueur du présent paragraphe, aux douze treizièmes du taux initial,
+		- **(ii)** à compter de la date du quatrième anniversaire de l’entrée en vigueur du présent paragraphe, aux onze treizièmes du taux initial,
+		- **(iii)** à compter de la date du cinquième anniversaire de l’entrée en vigueur du présent paragraphe, aux dix treizièmes du taux initial,
+		- **(iv)** à compter de la date du sixième anniversaire de l’entrée en vigueur du présent paragraphe, aux neuf treizièmes du taux initial,
+		- **(v)** à compter de la date du septième anniversaire de l’entrée en vigueur du présent paragraphe, aux huit treizièmes du taux initial,
+		- **(vi)** à compter de la date du huitième anniversaire de l’entrée en vigueur du présent paragraphe, aux sept treizièmes du taux initial,
+		- **(vii)** à compter de la date du neuvième anniversaire de l’entrée en vigueur du présent paragraphe, aux six treizièmes du taux initial,
+		- **(viii)** à compter de la date du dixième anniversaire de l’entrée en vigueur du présent paragraphe, aux cinq treizièmes du taux initial,
+		- **(ix)** à compter de la date du onzième anniversaire de l’entrée en vigueur du présent paragraphe, aux quatre treizièmes du taux initial,
+		- **(x)** à compter de la date du douzième anniversaire de l’entrée en vigueur du présent paragraphe, aux trois treizièmes du taux initial,
+		- **(xi)** à compter de la date du treizième anniversaire de l’entrée en vigueur du présent paragraphe, aux deux treizièmes du taux initial,
+		- **(xii)** à compter de la date du quatorzième anniversaire de l’entrée en vigueur du présent paragraphe, au treizième du taux initial,
+		- **(xiii)** à compter de la date du quinzième anniversaire de l’entrée en vigueur du présent paragraphe, au taux final, la franchise en douane.
+
+**Arrondissement des taux spécifiques**
+
+- **(5)** Dans le cas où le taux spécifique réduit en application des paragraphes (3) ou (4) comporte une fraction de un dixième de cent, il est arrondi au dixième de cent inférieur.
+
+**Arrondissement : fraction autre que 0,5**
+
+- **(6)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) comporte une fraction de un pour cent autre que 0,5, il est arrondi au multiple de 0,5 pour cent inférieur.
+
+**Suppression des taux inférieurs à deux pour cent**
+
+- **(7)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) est inférieur à deux pour cent, la franchise en douane s’applique immédiatement.
+> 2009, ch. 6, art. 33.
+
+
+
+
+
+#### Tarif de Suisse-Liechtenstein
+
+
+
+**Application du TSL**
+
+**52.3** 
+
+- **(1)** Sous réserve de l’article 24, les marchandises bénéficiant du tarif de Suisse-Liechtenstein bénéficient des taux du tarif de Suisse-Liechtenstein.
+
+**Taux final « A » pour le TSL**
+
+- **(2)** Dans les cas où « A » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TSL » pour des marchandises qui bénéficient du tarif de Suisse-Liechtenstein, le taux final s’applique.
+
+**Échelonnement « F » pour le TSL**
+
+- **(3)** Dans les cas où « F » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TSL » pour des marchandises qui bénéficient du tarif de Suisse-Liechtenstein, le taux initial s’applique, réduit par étapes selon le tableau des échelonnements.
+
+**Échelonnements pour le TSL**
+
+- **(4)** Dans les cas où « Q1 » ou « Q2 » figure dans la colonne « Tarif de préférence » de la liste des dispositions tarifaires après l’abréviation « TSL » pour des marchandises qui bénéficient du tarif de Suisse-Liechtenstein, le taux initial s’applique, réduit par étapes de la façon suivante :
+	- **a)** dans le cas de « Q1 » :
+		- **(i)** à compter de la date du troisième anniversaire de l’entrée en vigueur du présent paragraphe, aux sept huitièmes du taux initial,
+		- **(ii)** à compter de la date du quatrième anniversaire de l’entrée en vigueur du présent paragraphe, aux six huitièmes du taux initial,
+		- **(iii)** à compter de la date du cinquième anniversaire de l’entrée en vigueur du présent paragraphe, aux cinq huitièmes du taux initial,
+		- **(iv)** à compter de la date du sixième anniversaire de l’entrée en vigueur du présent paragraphe, aux quatre huitièmes du taux initial,
+		- **(v)** à compter de la date du septième anniversaire de l’entrée en vigueur du présent paragraphe, aux trois huitièmes du taux initial,
+		- **(vi)** à compter de la date du huitième anniversaire de l’entrée en vigueur du présent paragraphe, aux deux huitièmes du taux initial,
+		- **(vii)** à compter de la date du neuvième anniversaire de l’entrée en vigueur du présent paragraphe, au huitième du taux initial,
+		- **(viii)** à compter de la date du dixième anniversaire de l’entrée en vigueur du présent paragraphe, au taux final, la franchise en douane;
+	- **b)** dans le cas de « Q2 » :
+		- **(i)** à compter de la date du troisième anniversaire de l’entrée en vigueur du présent paragraphe, aux douze treizièmes du taux initial,
+		- **(ii)** à compter de la date du quatrième anniversaire de l’entrée en vigueur du présent paragraphe, aux onze treizièmes du taux initial,
+		- **(iii)** à compter de la date du cinquième anniversaire de l’entrée en vigueur du présent paragraphe, aux dix treizièmes du taux initial,
+		- **(iv)** à compter de la date du sixième anniversaire de l’entrée en vigueur du présent paragraphe, aux neuf treizièmes du taux initial,
+		- **(v)** à compter de la date du septième anniversaire de l’entrée en vigueur du présent paragraphe, aux huit treizièmes du taux initial,
+		- **(vi)** à compter de la date du huitième anniversaire de l’entrée en vigueur du présent paragraphe, aux sept treizièmes du taux initial,
+		- **(vii)** à compter de la date du neuvième anniversaire de l’entrée en vigueur du présent paragraphe, aux six treizièmes du taux initial,
+		- **(viii)** à compter de la date du dixième anniversaire de l’entrée en vigueur du présent paragraphe, aux cinq treizièmes du taux initial,
+		- **(ix)** à compter de la date du onzième anniversaire de l’entrée en vigueur du présent paragraphe, aux quatre treizièmes du taux initial,
+		- **(x)** à compter de la date du douzième anniversaire de l’entrée en vigueur du présent paragraphe, aux trois treizièmes du taux initial,
+		- **(xi)** à compter de la date du treizième anniversaire de l’entrée en vigueur du présent paragraphe, aux deux treizièmes du taux initial,
+		- **(xii)** à compter de la date du quatorzième anniversaire de l’entrée en vigueur du présent paragraphe, au treizième du taux initial,
+		- **(xiii)** à compter de la date du quinzième anniversaire de l’entrée en vigueur du présent paragraphe, au taux final, la franchise en douane.
+
+**Arrondissement des taux spécifiques**
+
+- **(5)** Dans le cas où le taux spécifique réduit en application des paragraphes (3) ou (4) comporte une fraction de un dixième de cent, il est arrondi au dixième de cent inférieur.
+
+**Arrondissement : fraction autre que 0,5**
+
+- **(6)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) comporte une fraction de un pour cent autre que 0,5, il est arrondi au multiple de 0,5 pour cent inférieur.
+
+**Suppression des taux inférieurs à deux pour cent**
+
+- **(7)** Dans le cas où le taux réduit en application des paragraphes (3) ou (4) est inférieur à deux pour cent, la franchise en douane s’applique immédiatement.
+> 2009, ch. 6, art. 33.
+
+
+
+
+
 **SECTION 4** 
 ### Mesures spéciales, mesures d’urgence et mesures de sauvegarde
 
@@ -1716,6 +1916,166 @@ French version only***taux*** Le taux de droits de douane.
 	- **a)** pour les premiers, le taux — spécifié au numéro tarifaire mentionné à la Note supplémentaire 2b) du Chapitre 7 de la liste des dispositions tarifaires — qui leur est applicable;
 	- **b)** pour les seconds, le taux — spécifié au numéro tarifaire mentionné à la Note supplémentaire 4b) du Chapitre 8 de la liste des dispositions tarifaires — qui leur est applicable.
 > 2001, ch. 28, art. 38.
+
+
+
+
+
+#### Mesures d’urgence bilatérales : Islande
+
+
+
+**Décrets de mesures temporaires**
+
+**71.2** 
+
+- **(1)** Sous réserve des paragraphes (2) à (4), si, à un moment donné, le gouverneur en conseil est convaincu, sur le fondement d’une enquête menée par le Tribunal canadien du commerce extérieur en vertu du paragraphe 19.014(2) de la [Loi sur le Tribunal canadien du commerce extérieur](/fr/Lois/Lois%20du%20Canada/1985/ch.%2047%20(4e%20suppl.).md) ou en vertu d’une plainte déposée en vertu du paragraphe 23(1.09) de cette loi, que des marchandises sont, du fait qu’elles bénéficient du tarif de l’Islande, importées en quantité tellement accrue et dans des conditions telles que leur importation constitue à elle seule une cause principale du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes, ou de la menace d’un tel dommage, il peut, sur recommandation du ministre, par décret :
+	- **a)** suspendre, pendant la période de validité du décret, toute réduction du taux qui aurait pu être accordée ultérieurement à l’égard de ces marchandises au titre de l’article 52.1;
+	- **b)** s’agissant de marchandises sur lesquelles est imposé un droit de douane sur une base saisonnière, les assujettir à un droit temporaire, en plus des autres droits prévus par la présente loi ou toute autre loi fédérale en matière douanière, au taux précisé, lequel ne peut toutefois, quand il s’ajoute au taux de droits de douane de la liste des dispositions tarifaires en vigueur à leur égard, excéder le taux de droits de douane du tarif de la nation la plus favorisée en vigueur à leur égard la veille de la date d’entrée en vigueur du présent paragraphe;
+	- **c)** s’agissant de marchandises autres que celles mentionnées à l’alinéa b), les assujettir à un droit temporaire, en plus des autres droits prévus par la présente loi ou par toute autre loi fédérale en matière douanière, au taux précisé, lequel ne peut toutefois, quand il s’ajoute au taux de droits de douane de la liste des dispositions tarifaires en vigueur à leur égard, excéder le taux de droits de douane du tarif de la nation la plus favorisée applicable à leur égard la veille de la date d’entrée en vigueur du présent paragraphe, ou, s’il est inférieur, celui qui l’est à la date de la prise du décret.
+
+**Modalités**
+
+- **(2)** Le décret :
+	- **a)** ne peut, sauf pour l’application du paragraphe (3), être pris qu’une fois à l’égard des marchandises d’une nature donnée au cours de la période commençant à la date de l’entrée en vigueur du présent paragraphe et se terminant la veille de la date du cinquième anniversaire de cette entrée en vigueur et, le cas échéant, demeure en vigueur pendant la période — d’au plus trois ans — qui y est spécifiée;
+	- **b)** ne peut, sauf pour l’application du paragraphe (3), être pris, après l’expiration du délai visé à l’alinéa a), qu’aux termes d’un accord conclu par le gouvernement du Canada et celui de la République d’Islande portant sur l’application du paragraphe (1).
+
+**Certains numéros tarifaires**
+
+- **(3)** Le décret :
+	- **a)** ne peut, dans le cas des n<sup>os</sup> tarifaires 8901.20.90, 8902.00.10, 8905.20.10, 8905.20.20, 8905.90.10 et 8906.90.99, être pris qu’une fois à l’égard des marchandises d’une nature donnée au cours de la période commençant à la date du troisième anniversaire de l’entrée en vigueur du présent paragraphe et se terminant la veille de la date du dixième anniversaire de cette entrée en vigueur et, le cas échéant, demeure en vigueur pendant la période — d’au plus trois ans — qui y est spécifiée;
+	- **b)** ne peut, dans le cas des n<sup>os</sup> tarifaires 8901.10.90, 8901.90.99, 8904.00.00, 8905.10.00 et  8905.90.90,  être pris qu’une fois à l’égard des marchandises d’une nature donnée au cours de la période commençant à la date du troisième anniversaire de l’entrée en vigueur du présent paragraphe et  se terminant la veille de la date du quinzième anniversaire de cette entrée en vigueur et, le cas échéant, demeure en vigueur pendant la période — d’au plus trois ans — qui y est spécifiée.
+
+**Taux à la cessation d’effet**
+
+- **(4)** En cas de cessation d’effet du décret :
+	- **a)** le taux applicable aux marchandises est, jusqu’au 31 décembre de l’année en cours, celui qui aurait été applicable un an après la prise du décret, réduit en conformité avec l’article 52.1;
+	- **b)** à compter du 1<sup>er</sup> janvier suivant, le taux applicable est celui que le ministre spécifie en vertu du paragraphe (5).
+
+**Taux précisé par arrêté**
+
+- **(5)** Pour l’application du paragraphe (4), le ministre spécifie, par arrêté, que le taux visé à l’alinéa (4)b) est :
+	- **a)** soit celui qui aurait été applicable le 1<sup>er</sup> janvier suivant la cessation d’effet du décret s’il avait été réduit en conformité avec l’article 52.1, lequel est réduit en conformité avec cet article pour les années suivantes;
+	- **b)** soit celui qui aurait été applicable un an après la prise du décret et qui est, pendant la période commençant le 1<sup>er</sup> janvier suivant la cessation d’effet du décret et se terminant le jour où le taux aurait été réduit en conformité avec l’article 52.1, réduit par tranches annuelles égales pour atteindre le taux final.
+
+**Définition de cause principale**
+
+- **(6)** Dans le présent article, ***cause principale*** s’entend de toute cause sérieuse dont l’importance est égale ou supérieure à celle des autres causes du dommage grave ou de la menace d’un tel dommage.
+
+**Mention du taux en vigueur**
+
+- **(7)** Pour l’application de l’alinéa (1)b), le taux du tarif de la nation la plus favorisée en vigueur à l’égard des légumes ou fruits frais est :
+	- **a)** pour les premiers, le taux — spécifié au numéro tarifaire mentionné à la Note supplémentaire 2b) du Chapitre 7 de la liste des dispositions tarifaires — qui leur est applicable;
+	- **b)** pour les seconds, le taux — spécifié au numéro tarifaire mentionné à la Note supplémentaire 4b) du Chapitre 8 de la liste des dispositions tarifaires — qui leur est applicable.
+> 2009, ch. 6, art. 34.
+
+
+
+
+
+#### Mesures d’urgence bilatérales : Norvège
+
+
+
+**Décrets de mesures temporaires**
+
+**71.3** 
+
+- **(1)** Sous réserve des paragraphes (2) à (4), si, à un moment donné, le gouverneur en conseil est convaincu, sur le fondement d’une enquête menée par le Tribunal canadien du commerce extérieur en vertu du paragraphe 19.015(2) de la [Loi sur le Tribunal canadien du commerce extérieur](/fr/Lois/Lois%20du%20Canada/1985/ch.%2047%20(4e%20suppl.).md) ou en vertu d’une plainte déposée en vertu du paragraphe 23(1.091) de cette loi, que des marchandises sont, du fait qu’elles bénéficient du tarif de la Norvège, importées en quantité tellement accrue et dans des conditions telles que leur importation constitue à elle seule une cause principale du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes, ou de la menace d’un tel dommage, il peut, sur recommandation du ministre, par décret :
+	- **a)** suspendre, pendant la période de validité du décret, toute réduction du taux qui aurait pu être accordée ultérieurement à l’égard de ces marchandises au titre de l’article 52.2;
+	- **b)** s’agissant de marchandises sur lesquelles est imposé un droit de douane sur une base saisonnière, les assujettir à un droit temporaire, en plus des autres droits prévus par la présente loi ou toute autre loi fédérale en matière douanière, au taux précisé, lequel ne peut toutefois, quand il s’ajoute au taux de droits de douane de la liste des dispositions tarifaires en vigueur à leur égard, excéder le taux de droits de douane du tarif de la nation la plus favorisée en vigueur à leur égard la veille de la date d’entrée en vigueur du présent paragraphe;
+	- **c)** s’agissant de marchandises autres que celles mentionnées à l’alinéa b), les assujettir à un droit temporaire, en plus des autres droits prévus par la présente loi ou par toute autre loi fédérale en matière douanière, au taux précisé, lequel ne peut toutefois, quand il s’ajoute au taux de droits de douane de la liste des dispositions tarifaires en vigueur à leur égard, excéder le taux de droits de douane du tarif de la nation la plus favorisée applicable à leur égard la veille de la date d’entrée en vigueur du présent paragraphe, ou, s’il est inférieur, celui qui l’est à la date de la prise du décret.
+
+**Modalités**
+
+- **(2)** Le décret :
+	- **a)** ne peut, sauf pour l’application du paragraphe (3), être pris qu’une fois à l’égard des marchandises d’une nature donnée au cours de la période commençant à la date de l’entrée en vigueur du présent paragraphe et se terminant la veille de la date du cinquième anniversaire de cette entrée en vigueur et, le cas échéant, demeure en vigueur pendant la période — d’au plus trois ans — qui y est spécifiée;
+	- **b)** ne peut, sauf pour l’application du paragraphe (3), être pris, après l’expiration du délai visé à l’alinéa a), qu’aux termes d’un accord conclu par le gouvernement du Canada et celui du Royaume de Norvège portant sur l’application du paragraphe (1).
+
+**Certains numéros tarifaires**
+
+- **(3)** Le décret :
+	- **a)** ne peut, dans le cas des n<sup>os</sup> tarifaires 8901.20.90, 8902.00.10, 8905.20.10, 8905.20.20, 8905.90.10 et 8906.90.99, être pris qu’une fois à l’égard des marchandises d’une nature donnée au cours de la période commençant à la date du troisième anniversaire de l’entrée en vigueur du présent paragraphe et se terminant la veille de la date du dixième anniversaire de cette entrée en vigueur et, le cas échéant, demeure en vigueur pendant la période — d’au plus trois ans — qui y est spécifiée;
+	- **b)** ne peut, dans le cas des n<sup>os</sup> tarifaires 8901.10.90, 8901.90.99, 8904.00.00, 8905.10.00 et  8905.90.90,  être pris qu’une fois à l’égard des marchandises d’une nature donnée au cours de la période commençant à la date du troisième anniversaire de l’entrée en vigueur du présent paragraphe et  se terminant la veille de la date du quinzième anniversaire de cette entrée en vigueur et, le cas échéant, demeure en vigueur pendant la période — d’au plus trois ans — qui y est spécifiée.
+
+**Taux à la cessation d’effet**
+
+- **(4)** En cas de cessation d’effet du décret :
+	- **a)** le taux applicable aux marchandises est, jusqu’au 31 décembre de l’année en cours, celui qui aurait été applicable un an après la prise du décret, réduit en conformité avec l’article 52.2;
+	- **b)** à compter du 1<sup>er</sup> janvier suivant, le taux applicable est celui que le ministre spécifie en vertu du paragraphe (5).
+
+**Taux précisé par arrêté**
+
+- **(5)** Pour l’application du paragraphe (4), le ministre spécifie, par arrêté, que le taux visé à l’alinéa (4)b) est :
+	- **a)** soit celui qui aurait été applicable le 1<sup>er</sup> janvier suivant la cessation d’effet du décret s’il avait été réduit en conformité avec l’article 52.2, lequel est réduit en conformité avec cet article pour les années suivantes;
+	- **b)** soit celui qui aurait été applicable un an après la prise du décret et qui est, pendant la période commençant le 1<sup>er</sup> janvier suivant la cessation d’effet du décret et se terminant le jour où le taux aurait été réduit en conformité avec l’article 52.2, réduit par tranches annuelles égales pour atteindre le taux final.
+
+**Définition de cause principale**
+
+- **(6)** Dans le présent article, ***cause principale*** s’entend de toute cause sérieuse dont l’importance est égale ou supérieure à celle des autres causes du dommage grave ou de la menace d’un tel dommage.
+
+**Mention du taux en vigueur**
+
+- **(7)** Pour l’application de l’alinéa (1)b), le taux du tarif de la nation la plus favorisée en vigueur à l’égard des légumes ou fruits frais est :
+	- **a)** pour les premiers, le taux — spécifié au numéro tarifaire mentionné à la Note supplémentaire 2b) du Chapitre 7 de la liste des dispositions tarifaires — qui leur est applicable;
+	- **b)** pour les seconds, le taux — spécifié au numéro tarifaire mentionné à la Note supplémentaire 4b) du Chapitre 8 de la liste des dispositions tarifaires — qui leur est applicable.
+
+**Non application**
+
+- **(8)** Cet article ne s’applique pas aux marchandises du territoire de Svalbard.
+> 2009, ch. 6, art. 34.
+
+
+
+
+
+#### Mesures d’urgence bilatérales : Suisse-Liechtenstein
+
+
+
+**Décrets de mesures temporaires**
+
+**71.4** 
+
+- **(1)** Sous réserve des paragraphes (2) à (4), si, à un moment donné, le gouverneur en conseil est convaincu, sur le fondement d’une enquête menée par le Tribunal canadien du commerce extérieur en vertu du paragraphe 19.016(2) de la [Loi sur le Tribunal canadien du commerce extérieur](/fr/Lois/Lois%20du%20Canada/1985/ch.%2047%20(4e%20suppl.).md) ou en vertu d’une plainte déposée en vertu du paragraphe 23(1.092) de cette loi, que des marchandises sont, du fait qu’elles bénéficient du tarif de Suisse-Liechtenstein, importées en quantité tellement accrue et dans des conditions telles que leur importation constitue à elle seule une cause principale du dommage grave porté aux producteurs nationaux de marchandises similaires ou directement concurrentes, ou de la menace d’un tel dommage, il peut, sur recommandation du ministre, par décret :
+	- **a)** suspendre, pendant la période de validité du décret, toute réduction du taux qui aurait pu être accordée ultérieurement à l’égard de ces marchandises au titre de l’article 52.3;
+	- **b)** s’agissant de marchandises sur lesquelles est imposé un droit de douane sur une base saisonnière, les assujettir à un droit temporaire, en plus des autres droits prévus par la présente loi ou toute autre loi fédérale en matière douanière, au taux précisé, lequel ne peut toutefois, quand il s’ajoute au taux de droits de douane de la liste des dispositions tarifaires en vigueur à leur égard, excéder le taux de droits de douane du tarif de la nation la plus favorisée en vigueur à leur égard la veille de la date d’entrée en vigueur du présent paragraphe;
+	- **c)** s’agissant de marchandises autres que celles mentionnées à l’alinéa b), les assujettir à un droit temporaire, en plus des autres droits prévus par la présente loi ou par toute autre loi fédérale en matière douanière, au taux précisé, lequel ne peut toutefois, quand il s’ajoute au taux de droits de douane de la liste des dispositions tarifaires en vigueur à leur égard, excéder le taux de droits de douane du tarif de la nation la plus favorisée applicable à leur égard la veille de la date d’entrée en vigueur du présent paragraphe, ou, s’il est inférieur, celui qui l’est à la date de la prise du décret.
+
+**Modalités**
+
+- **(2)** Le décret :
+	- **a)** ne peut, sauf pour l’application du paragraphe (3), être pris qu’une fois à l’égard des marchandises d’une nature donnée au cours de la période commençant à la date de l’entrée en vigueur du présent paragraphe et se terminant la veille de la date du cinquième anniversaire de cette entrée en vigueur et, le cas échéant, demeure en vigueur pendant la période — d’au plus trois ans — qui y est spécifiée;
+	- **b)** ne peut, sauf pour l’application du paragraphe (3), être pris, après l’expiration du délai visé à l’alinéa a), qu’aux termes d’un accord conclu par le gouvernement du Canada et celui de la Confédération suisse portant sur l’application du paragraphe (1).
+
+**Certains numéros tarifaires**
+
+- **(3)** Le décret :
+	- **a)** ne peut, dans le cas des n<sup>os</sup> tarifaires 8901.20.90, 8902.00.10, 8905.20.10, 8905.20.20, 8905.90.10 et 8906.90.99, être pris qu’une fois à l’égard des marchandises d’une nature donnée au cours de la période commençant à la date du troisième anniversaire de l’entrée en vigueur du présent paragraphe et se terminant la veille de la date du dixième anniversaire de cette entrée en vigueur et, le cas échéant, demeure en vigueur pendant la période — d’au plus trois ans — qui y est spécifiée;
+	- **b)** ne peut, dans le cas des n<sup>os</sup> tarifaires 8901.10.90, 8901.90.99, 8904.00.00, 8905.10.00 et  8905.90.90,  être pris qu’une fois à l’égard des marchandises d’une nature donnée au cours de la période commençant à la date du troisième anniversaire de l’entrée en vigueur du présent paragraphe et  se terminant la veille de la date du quinzième anniversaire de cette entrée en vigueur et, le cas échéant, demeure en vigueur pendant la période — d’au plus trois ans — qui y est spécifiée.
+
+**Taux à la cessation d’effet**
+
+- **(4)** En cas de cessation d’effet du décret :
+	- **a)** le taux applicable aux marchandises est, jusqu’au 31 décembre de l’année en cours, celui qui aurait été applicable un an après la prise du décret, réduit en conformité avec l’article 52.3;
+	- **b)** à compter du 1<sup>er</sup> janvier suivant, le taux applicable est celui que le ministre spécifie en vertu du paragraphe (5).
+
+**Taux précisé par arrêté**
+
+- **(5)** Pour l’application du paragraphe (4), le ministre spécifie, par arrêté, que le taux visé à l’alinéa (4)b) est :
+	- **a)** soit celui qui aurait été applicable le 1<sup>er</sup> janvier suivant la cessation d’effet du décret s’il avait été réduit en conformité avec l’article 52.3, lequel est réduit en conformité avec cet article pour les années suivantes;
+	- **b)** soit celui qui aurait été applicable un an après la prise du décret et qui est, pendant la période commençant le 1<sup>er</sup> janvier suivant la cessation d’effet du décret et se terminant le jour où le taux aurait été réduit en conformité avec l’article 52.3, réduit par tranches annuelles égales pour atteindre le taux final.
+
+**Définition de cause principale**
+
+- **(6)** Dans le présent article, ***cause principale*** s’entend de toute cause sérieuse dont l’importance est égale ou supérieure à celle des autres causes du dommage grave ou de la menace d’un tel dommage.
+
+**Mention du taux en vigueur**
+
+- **(7)** Pour l’application de l’alinéa (1)b), le taux du tarif de la nation la plus favorisée en vigueur à l’égard des légumes ou fruits frais est :
+	- **a)** pour les premiers, le taux — spécifié au numéro tarifaire mentionné à la Note supplémentaire 2b) du Chapitre 7 de la liste des dispositions tarifaires — qui leur est applicable;
+	- **b)** pour les seconds, le taux — spécifié au numéro tarifaire mentionné à la Note supplémentaire 4b) du Chapitre 8 de la liste des dispositions tarifaires — qui leur est applicable.
+> 2009, ch. 6, art. 34.
 
 
 
@@ -2298,13 +2658,13 @@ French version only***taux*** Le taux de droits de douane.
 
 **87** 
 
-- **(1)** Par dérogation au paragraphe 20(2), la valeur en douane de marchandises du n<sup>o</sup> tarifaire 9971.00.00 qui bénéficient du :
-	- **a)** tarif du Mexique est la valeur des réparations ou modifications dont elles ont fait l’objet au Mexique;
-	- **b)** tarif Mexique — États-Unis est la valeur des réparations ou modifications dont elles ont fait l’objet dans un ou plusieurs pays ALÉNA.
+- **(1)** Par dérogation au paragraphe 20(2), la valeur en douane des marchandises du n<sup>o</sup> tarifaire 9971.00.00 qui bénéficient du tarif de l’Islande, du tarif de la Norvège ou du tarif de Suisse-Liechtenstein est la valeur des réparations ou modifications dont elles ont fait l’objet en Islande, en Norvège, en Suisse ou au Liechtenstein, selon le cas.
 
 **Cessation d’effet**
 
-- **(2)** Le paragraphe (1) cesse d’avoir effet le 31 décembre 2002.
+- **(2)** Le paragraphe (1) cesse d’avoir effet la veille de la date du quinzième anniversaire de l’entrée en vigueur du présent paragraphe.
+> 1997, ch. 36, art. 87; 2009, ch. 6, art. 35.
+
 
 
 
@@ -3197,13 +3557,14 @@ French version only***taux*** Le taux de droits de douane.
 	- **(i)** définir « numéro », « périodique » et « édition spéciale »,
 	- **(ii)** fixer les conditions auxquelles un numéro d’un périodique sera considéré comme un numéro d’une édition spéciale dans laquelle figurait une annonce qui s’adressait principalement à un marché au Canada et qui n’a pas paru sous une forme identique dans toutes les éditions de ce numéro de ce périodique diffusées dans le pays d’origine,
 	- **(iii)** fixer les conditions auxquelles un numéro d’un périodique sera considéré comme un numéro dont plus de cinq pour cent de l’espace publicitaire présentait des annonces qui précisaient soit les sources où l’on pouvait obtenir au Canada les marchandises ou services en cause, soit les conditions de vente ou fourniture au Canada;
-- **j)** pour l’application des n<sup>os</sup> tarifaires 9971.00.00 ou 9992.00.00, fixer les conditions de l’importation des marchandises qui ont été exportées vers un pays ALÉNA, le Chili, le Costa Rica, Israël ou autre bénéficiaire de l’ALÉCI pour réparation ou modification;
+- **j)** pour l’application du n<sup>o</sup> tarifaire 9971.00.00, fixer les conditions de l’importation des marchandises qui ont été exportées vers un pays ALÉNA, le Chili, le Costa Rica, Israël ou autre bénéficiaire de l’ALÉCI, l’Islande, la Norvège, la Suisse ou le Liechtenstein pour réparation ou modification;
+- **j.1)** pour l’application du n<sup>o</sup> tarifaire 9992.00.00, fixer les conditions de l’importation des marchandises qui ont été exportées vers un pays ALÉNA, le Chili, le Costa Rica, Israël ou autre bénéficiaire de l’ALÉCI pour réparation ou modification;
 - **k)** pour l’application du n<sup>o</sup> tarifaire 9993.00.00 :
 	- **(i)** proroger la période pendant laquelle les marchandises importées au titre de ce numéro tarifaire peuvent rester au Canada, dans le cas où il est incommode ou impossible pour l’importateur d’exporter les marchandises,
 	- **(ii)** fixer les conditions de renonciation à l’obligation de fournir une garantie ou les documents réglementaires,
 	- **(iii)** déterminer la forme, la nature et les conditions de toute garantie que le ministre  de la Sécurité publique et de la Protection civile estime indiquée;
 - **l)** prendre toute autre mesure réglementaire d’application d’un numéro tarifaire visé au présent article.
-> 1997, ch. 36, art. 133; 2001, ch. 28, art. 45; 2005, ch. 38, art. 142 et 145; 2009, ch. 2, art. 122.
+> 1997, ch. 36, art. 133; 2001, ch. 28, art. 45; 2005, ch. 38, art. 142 et 145; 2009, ch. 2, art. 122, ch. 6, art. 36.
 
 
 
