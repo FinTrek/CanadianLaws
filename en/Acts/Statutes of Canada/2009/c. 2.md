@@ -1477,7 +1477,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 <sup><a href='#fn_Ind174C_hq_7103'>[*]</a></sup>**299** Section 297 comes into force on a day to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind174C_hq_7103'><sup>*</sup></a>: [Note: Section 297 not in force.]<br />
+<a name='fn_Ind174C_hq_7103'><sup>*</sup></a>: [Note: Section 297 in force July 13, 2009, *see* SI/2009-60.]<br />
 
 
 
