@@ -8,7 +8,7 @@
 Assented to on 12 March 2009
 
 ```
-[Enacted by section 297 of chapter 2 of the Statutes of Canada, 2009, not in force.]
+[Enacted by section 297 of chapter 2 of the Statutes of Canada, 2009, in force July 13, 2009, see SI/2009-60.]
 ```
 ----------
 
@@ -40,13 +40,13 @@ Assented to on 12 March 2009
 
 **2** The following definitions apply in this Act.
 
-***Advisory Committee*** means the advisory committee of participating provinces and territories established under section 5.
+***Advisory Committee*** means the advisory committee of participating provinces and territories established under section 5. (*comité consultatif*)
 
-***Minister*** means the Minister of Finance.
+***Minister*** means the Minister of Finance. (*ministre*)
 
-***participating province or territory*** means any province or territory that informs the Minister of its willingness to participate in the establishment of a Canadian securities regulation regime and a Canadian regulatory authority.
+***participating province or territory*** means any province or territory that informs the Minister of its willingness to participate in the establishment of a Canadian securities regulation regime and a Canadian regulatory authority. (*province ou territoire participant*)
 
-***Transition Office*** means the Canadian Securities Regulation Regime Transition Office established under section 3.
+***Transition Office*** means the Canadian Securities Regulation Regime Transition Office established under section 3. (*Bureau de transition*)
 
 
 
