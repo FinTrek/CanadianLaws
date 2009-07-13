@@ -8,7 +8,7 @@
 Sanctionnée sur le 12 mars 2009
 
 ```
-[Édictée par l’article 297 du chapitre 2 des Lois du Canada (2009), non en vigueur.]
+[Édictée par l’article 297 du chapitre 2 des Lois du Canada (2009), en vigueur le 13 juillet 2009, voir TR/2009-60.]
 ```
 ----------
 
@@ -40,13 +40,13 @@ Sanctionnée sur le 12 mars 2009
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***Bureau de transition*** Le Bureau de transition vers un régime canadien de réglementation des valeurs mobilières, constitué par l’article 3.
+***Bureau de transition*** Le Bureau de transition vers un régime canadien de réglementation des valeurs mobilières, constitué par l’article 3. (*Transition Office*)
 
-***comité consultatif*** Le comité consultatif des provinces et territoires participants, constitué par l’article 5.
+***comité consultatif*** Le comité consultatif des provinces et territoires participants, constitué par l’article 5. (*Advisory Committee*)
 
-***ministre*** Le ministre des Finances.
+***ministre*** Le ministre des Finances. (*Minister*)
 
-***province ou territoire participant*** Toute province ou tout territoire ayant informé le ministre de sa volonté de participer à l’établissement d’un régime canadien de réglementation des valeurs mobilières et à la constitution d’une autorité administrative canadienne.
+***province ou territoire participant*** Toute province ou tout territoire ayant informé le ministre de sa volonté de participer à l’établissement d’un régime canadien de réglementation des valeurs mobilières et à la constitution d’une autorité administrative canadienne. (*participating province or territory*)
 
 
 
