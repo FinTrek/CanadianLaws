@@ -1477,7 +1477,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_IndB3DE_hq_7123'>[*]</a></sup>**299** L’article 297 entre en vigueur à la date fixée par décret.
 
-<a name='fn_IndB3DE_hq_7123'><sup>*</sup></a>: [Note : Article 297 non en vigueur.]<br />
+<a name='fn_IndB3DE_hq_7123'><sup>*</sup></a>: [Note : Article 297 en vigueur le 13 juillet 2009, *voir* TR/2009-60.]<br />
 
 
 
