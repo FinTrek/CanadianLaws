@@ -1880,8 +1880,8 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <tr>
 <td>CW Feed</td>
 <td>65</td>
-<td>Any class or variety of wheat excluding amber durum</td>
-<td>Reasonably sweet, excluded from higher grades of wheat on account of damaged kernels</td>
+<td>Any class or variety of wheat excluding amber durum and general purpose wheat</td>
+<td>Reasonably sweet, excluded from other grades of wheat on account of damaged kernels</td>
 <td>1</td>
 <td>10</td>
 <td>10</td>
@@ -2096,7 +2096,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 </table>
 
 
-<a name='fn_Ind2B4F_hq_18071'><sup>*</sup></a>: Not included in total damage.<br />
+<a name='fn_Ind8F95_hq_18070'><sup>*</sup></a>: Not included in total damage.<br />
 #### TABLE 8
 <table>
 <h4>Barley, Canada Western Malting (CW)</h4>
@@ -4031,7 +4031,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 </tr>
 <tr>
 <td>No. 1 CW</td>
-<td>Good, natural colour</td>
+<td>Good natural colour</td>
 <td>0.5</td>
 <td>1</td>
 <td>0.5</td>
@@ -4308,6 +4308,8 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th></th>
 <th>Standard of Quality</th>
 <th>Maximum Limits of</th>
+<th></th>
+<th></th>
 </tr>
 <tr>
 <th></th>
@@ -4315,6 +4317,8 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th></th>
 <th></th>
 <th>Foreign Material</th>
+<th></th>
+<th></th>
 </tr>
 <tr>
 <th></th>
@@ -5551,6 +5555,16 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 <th></th>
 <th>Standard of Quality</th>
 <th>Maximum Limits of Foreign Material</th>
+<th></th>
+</tr>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
 </tr>
 <tr>
 <th></th>
@@ -5654,7 +5668,7 @@ I do solemnly swear (or affirm) that I will faithfully and impartially perform m
 </tr>
 </table>
 
-> SOR/78-55, s. 5; SOR/79-543, s. 2; SOR/80-575, ss. 1, 2; SOR/81-559, s. 1; SOR/82-740, s. 1; SOR/83-628, s. 3; SOR/85-677, s. 8; SOR/87-391, s. 1; SOR/88-506, s. 1; SOR/89-364, s. 1; SOR/89-395, s. 2(F); SOR/90-324, ss. 1(F), 2(F), 3 to 5; SOR/91-282, ss. 1 to 4; SOR/92-172, ss. 1, 2(F), 3(F), 4, 5, 6(F); SOR/93-362, ss. 1 to 10; SOR/94-507, ss. 1 to 3; SOR/95-336, ss. 1 to 5; SOR/95-403, s. 1; SOR/96-300, ss. 1 to 3; SOR/97-285, ss. 1 to 4; SOR/97-356, s. 1; SOR/98-333, ss. 1 to 5; SOR/99-303, ss. 1 to 7; SOR/2000-213, s. 8; SOR/2000-276, ss. 1 to 6; SOR/2001-242, ss. 1 to 4; SOR/2002-286, ss. 1 to 4, 5(E), 6, 7(E), 8, 9(F), 10(E), 11(F), 12(F), 13(F), 14 to 16, 17(F); SOR/2003-285, ss. 2 to 4, 5(F), 6, 7(F), 8(F); SOR/2004-169, ss. 1, 2, 3(F), 4, 5(F), 6 to 9, 10(F), 11, 12, 13(F), 14; SOR/2005-225, ss. 1(F), 2(F), 3(F), 4, 5: SOR/2005-330, s. 1(E); SOR/2006-146, s. 1; SOR/2007-162, ss. 1, 2; SOR/2008-219, ss. 1, 2(F), 3(F), 4(E), 5, 6(F), 7(E), 8(F), 9(E), 10, 11(E), 12, 13(E), 14, 15(F), 16(E), 17, 18(E), 19, 20(F), 21 to 23, 24(F), 25(E), 26, 27, err., Vol. 142, No. 15.
+> SOR/78-55, s. 5; SOR/79-543, s. 2; SOR/80-575, ss. 1, 2; SOR/81-559, s. 1; SOR/82-740, s. 1; SOR/83-628, s. 3; SOR/85-677, s. 8; SOR/87-391, s. 1; SOR/88-506, s. 1; SOR/89-364, s. 1; SOR/89-395, s. 2(F); SOR/90-324, ss. 1(F), 2(F), 3 to 5; SOR/91-282, ss. 1 to 4; SOR/92-172, ss. 1, 2(F), 3(F), 4, 5, 6(F); SOR/93-362, ss. 1 to 10; SOR/94-507, ss. 1 to 3; SOR/95-336, ss. 1 to 5; SOR/95-403, s. 1; SOR/96-300, ss. 1 to 3; SOR/97-285, ss. 1 to 4; SOR/97-356, s. 1; SOR/98-333, ss. 1 to 5; SOR/99-303, ss. 1 to 7; SOR/2000-213, s. 8; SOR/2000-276, ss. 1 to 6; SOR/2001-242, ss. 1 to 4; SOR/2002-286, ss. 1 to 4, 5(E), 6, 7(E), 8, 9(F), 10(E), 11 to 13(F), 14 to 16, 17(F); SOR/2003-285, ss. 2 to 4, 5(F), 6, 7(F), 8(F); SOR/2004-169, ss. 1, 2, 3(F), 4, 5(F), 6 to 9, 10(F), 11, 12, 13(F), 14; SOR/2005-225, ss. 1 to 3(F), 4, 5: SOR/2005-330, s. 1(E); SOR/2006-146, s. 1; SOR/2007-162, ss. 1, 2; SOR/2008-219, ss. 1, 2(F), 3(F), 4(E), 5, 6(F), 7(E), 8(F), 9(E), 10, 11(E), 12, 13(E), 14, 15(F), 16(E), 17, 18(E), 19, 20(F), 21 to 23, 24(F), 25(E), 26, 27, err., Vol. 142, No. 15; SOR/2009-209, ss. 1(E), 2 to 4(F), 5(E), 6, 7(F), 8.
 
 
 
