@@ -1643,7 +1643,12 @@ is of
 	- **(b)** an annuity contract described in paragraph 148(1)(c) or (e) of the Act; and
 	- **(c)** an annuity contract
 		- **(i)** under which annuity payments have commenced in the taxation year or a preceding taxation year,
-		- **(ii)** issued by a corporation described in any of paragraphs 39(5)(b) to (d) or clause 146(1)(j)(ii)(B) of the Act, a life insurance corporation, a registered charity or a corporation (other than a mutual fund corporation or a mortgage investment corporation) the principal business of which is the making of loans (which corporation or charity is in this section referred to as an “issuer”),
+		- **(ii)** issued by any one of the following (referred to in this section as the “issuer”):
+			- **(A)** a life insurance corporation,
+			- **(B)** a registered charity,
+			- **(C)** a corporation referred to in any of paragraphs (a) to (c) of the definition ***specified financial institution*** in subsection 248(1) of the Act,
+			- **(D)** a corporation referred to in subparagraph (b)(ii) of the definition ***retirement savings plan*** in subsection 146(1) of the Act, and
+			- **(E)** a corporation (other than a mutual fund corporation or a mortgage investment corporation) the principal business of which is the making of loans,
 		- **(iii)** each holder of which
 			- **(A)** is an individual, other than a trust that is neither a trust described in paragraph 104(4)(a) of the Act (in this paragraph referred to as a “specified trust”) nor a testamentary trust,
 			- **(B)** is an annuitant under the contract, and
@@ -1680,7 +1685,7 @@ is of
 - **(4)** In this section, ***annuitant*** under an annuity contract, at any time, means a person who, at that time, is entitled to receive annuity payments under the contract.
 
 - **(5)** For the purpose of this section, ***spouse*** and ***former spouse*** of a particular individual include another individual who is a party to a void or voidable marriage with the particular individual.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/82-499, s. 3; SOR/83-865, s. 5; SOR/86-488, s. 1; SOR/88-165, s. 2; SOR/88-319, s. 1; SOR/94-415, s. 1; SOR/94-686, s. 2(F); SOR/2001-188, s. 3; SOR/2001-216, s. 10(F); SOR/2007-116, s. 1; 2009, c. 2, s. 90.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/82-499, s. 3; SOR/83-865, s. 5; SOR/86-488, s. 1; SOR/88-165, s. 2; SOR/88-319, s. 1; SOR/94-415, s. 1; SOR/94-686, s. 2(F); SOR/2001-188, s. 3; SOR/2001-216, s. 10(F); SOR/2007-116, s. 1; 2009, c. 2, s. 90; SOR/2009-222, s. 1.
 
 
 
@@ -7425,32 +7430,45 @@ is of
 	- **(ii)** the aggregate of amounts, each of which is
 		- **(A)** the insurer’s mean maximum tax actuarial reserve for the year in respect of a class of life insurance policies in Canada, or
 		- **(B)** the mean amount on deposit with the insurer for the year in respect of a class of policies described in clause (A);
+- **(a.1)** there shall be included the amount determined by the formula
+```
+(A + B) × C/D
+```
+where
+- **A** is the amount required by subsection 142.5(5) of the Act to be included in computing the insurer’s income for the year,
+- **B** is the amount deemed by subsection 142.5(7) of the Act to be a taxable capital gain of the insurer for the year from the disposition of property,
+- **C** is the amount determined under subparagraph (a)(i) for the taxation year of the insurer that includes October 31, 1994, and
+- **D** is the amount determined under subparagraph (a)(ii) for the taxation year of the insurer that includes October 31, 1994;
 - **(b)** there shall be included
 	- **(i)** the amount deducted by the insurer under subparagraph 138(3)(a)(iv) of the Act in computing its income for the immediately preceding taxation year,
-	- **(ii)** the insurer’s maximum tax actuarial reserve for the immediately preceding taxation year in respect of participating life insurance policies in Canada,
-	- **(iii)** the maximum amount deductible by the insurer under subparagraph 138(3)(a)(ii) of the Act in computing its income for the immediately preceding taxation year in respect of participating life insurance policies in Canada, and
-	- **(iv)** that proportion of the amount included in income by the insurer for the year under section 12.3 that
-		- **(A)** the amount determined under clause (f)(iii)(A) for its first taxation year that begins after June 17, 1987 and ends after 1987is of
-		- **(B)** the amount determined under clause (f)(iii)(B) for its first taxation year that begins after June 17, 1987 and ends after 1987;
+	- **(ii)** the insurer’s maximum tax actuarial reserve for the immediately preceding taxation year in respect of participating life insurance policies in Canada, and
+	- **(iii)** the maximum amount deductible by the insurer under subparagraph 138(3)(a)(ii) of the Act in computing its income for the immediately preceding taxation year in respect of participating life insurance policies in Canada;
+	- **(iv)** [Repealed, SOR/2009-222, s. 2]
 - **(c)** there shall not be included any amount in respect of the insurer’s participating life insurance policies in Canada that was deducted under subparagraph 138(3)(a)(i) or (ii) of the Act in computing its income for the immediately preceding taxation year;
 - **(d)** except as otherwise provided in paragraph (a), there shall not be included any amount as a reserve that was deducted under paragraph 20(1)(l) of the Act in computing the insurer’s income for the immediately preceding taxation year;
-- **(e)** except as otherwise provided in paragraph (a), there shall not be included
-	- **(i)** any amount that was included in income for the year by the insurer pursuant to paragraph 138(4)(b) or (c) of the Act, or
-	- **(ii)** any amount that was included in computing the insurer’s gains or taxable capital gains for the year from the disposition of property;
+- **(e)** except as provided in paragraph (a), there shall not be included any amount that was included in determining the insurer’s gross Canadian life investment income for the year;
+- **(e.1)** except as provided in paragraph (a.1), there shall not be included the amounts referred to in the descriptions of A and B in that paragraph;
+- **(e.2)** if the year includes October 31, 1994, there shall be deducted the amount determined by the formula
+```
+(A + B) × C/D
+```
+where
+- **A** is the amount deducted under subsection 142.5(4) of the Act in computing the insurer’s income for the year,
+- **B** is the amount deemed by subsection 142.5(6) of the Act to be an allowable capital loss of the insurer for the year from the disposition of property,
+- **C** is the amount determined under subparagraph (a)(i) for the year, and
+- **D** is the amount determined under subparagraph (a)(ii) for the year;
 - **(f)** there shall be deducted
-	- **(i)** the insurer’s maximum tax actuarial reserve for the year in respect of participating life insurance policies in Canada,
-	- **(ii)** the maximum amount deductible by the insurer under subparagraph 138(3)(a)(ii) of the Act in computing its income for the year in respect of participating life insurance policies in Canada, and
-	- **(iii)** that proportion of the amount deducted from income by the insurer for the year under subsection 20(26) that
-		- **(A)** the amount determined in respect of the insurer for the year under subparagraph (a)(i)is of
-		- **(B)** the amount determined in respect of the insurer for the year under subparagraph (a)(ii);
+	- **(i)** the insurer’s maximum tax actuarial reserve for the year in respect of participating life insurance policies in Canada, and
+	- **(ii)** the maximum amount deductible by the insurer under subparagraph 138(3)(a)(ii) of the Act in computing its income for the year in respect of participating life insurance policies in Canada;
+	- **(iii)** [Repealed, SOR/2009-222, s. 2]
 - **(g)** no deduction shall be made in respect of any amount deductible under subparagraph 138(3)(a)(iii) or (iv) of the Act in computing the insurer’s income for the year;
-- **(h)** except as otherwise provided in paragraph (a), no deduction shall be made in respect of
-	- **(i)** any amount deductible under paragraph 138(3)(b) or (d) of the Act in computing the insurer’s income for the year,
-	- **(ii)** any amount deductible as a reserve under paragraph 20(1)(l) of the Act in computing the insurer’s income for the year, or
-	- **(iii)** any amount included in computing the insurer’s losses or allowable capital losses for the year from the disposition of property;
+- **(h)** except as provided in paragraph (a), no deduction shall be made in respect of
+	- **(i)** any amount taken into account in determining the insurer’s gross Canadian life investment income for the year, or
+	- **(ii)** any amount deductible under paragraph 20(1)(l) of the Act in computing the insurer’s income for the year;
+- **(h.1)** except as provided in paragraph (e.2), no deduction shall be made in respect of the amounts referred to in the descriptions of A and B in that paragraph;
 - **(i)** except as otherwise provided in paragraph (f), no deduction shall be made in respect of a reserve deductible under subparagraph 138(3)(a)(i) or (ii) of the Act in computing the insurer’s income for the year; and
 - **(j)** except as otherwise provided in this section, the provisions of the Act relating to the computation of income from a source shall apply.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-670, s. 4; SOR/83-865, s. 7; SOR/90-661, s. 7.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-670, s. 4; SOR/83-865, s. 7; SOR/90-661, s. 7; SOR/2009-222, s. 2.
 
 
 
@@ -7501,6 +7519,10 @@ is of
 ***attributed surplus for the year***, for a taxation year in respect of a non-resident insurer, means the aggregate of
 - **(a)** its property and casualty surplus for the year, and
 - **(b)** an amount equal to the percentage (that is the life surplus factor for the year) of the amount for the year determined under clause (a)(i)(B) of the definition ***life surplus factor*** in this subsection; (*surplus attribué pour l’année*)
+
+***Canadian business property*** of an insurer for a taxation year in respect of an insurance business means
+- **(a)** if the insurer was resident in Canada throughout the year and either did not carry on a life insurance business in the year or did not carry on an insurance business outside Canada in the year, the property used or held by it in the year in the course of carrying on the business in Canada, and
+- **(b)** in any other case, the property designated under subsection 2400(1) for the year in respect of the business; (*bien d’entreprise canadien*)
 
 ***Canadian equity property*** means
 - **(a)** a share of the capital stock of, or an income bond, income debenture, small business development bond or small business bond issued by, a person (other than a designated corporation) or partnership, as the case may be, resident in Canada, or
@@ -7593,19 +7615,20 @@ is of
 ***foreign policy loan*** means an amount advanced at a particular time by an insurer to a policyholder in accordance with the terms and conditions of a life insurance policy, other than a life insurance policy in Canada; (*avance sur police étrangère*)
 
 ***gross Canadian life investment income*** of a life insurer for a taxation year means the amount, if any, by which the aggregate of
-- **(a)** the insurer’s gross investment revenue for the year to the extent that that revenue is from non-segregated property of the insurer used by it in the year in, or held by it in the year in the course of, carrying on its life insurance business in Canada,
+- **(a)** the insurer’s gross investment revenue for the year, to the extent that the revenue is from Canadian business property of the insurer for the year in respect of the insurer’s life insurance business,
 - **(b)** the amount included in computing the insurer’s income for the year under paragraph 138(9)(b) of the Act,
-- **(c)** the amounts included in computing the insurer’s income for the year under paragraphs 138(4)(b) and (c) of the Act,
-- **(d)** that portion of the amount included in computing the insurer’s income for the year under paragraph 12(1)(d) of the Act in respect of amounts deducted in computing the insurer’s income under paragraph 20(1)(l) of the Act in the immediately preceding taxation year in respect of a Canada security (within the meaning assigned by paragraph 138(12)(c) of the Act) owned by the insurer,
-- **(e)** the amount included in computing the insurer’s gains for the year from the disposition of property (other than a Canada security or capital property),
-- **(f)** the amount included in computing the insurer’s taxable capital gains for the year from the disposition of property, and
-- **(g)** the amount deducted in computing the insurer’s income for the immediately preceding taxation year under paragraph 138(3)(c) of the Act (as it read in its application to taxation years commencing before June 17, 1987 or ending before 1988),
+- **(c)** [Repealed, SOR/2009-222, s. 3]
+- **(d)** the portion of the amount deducted under paragraph 20(1)(l) of the Act in computing the insurer’s income for the preceding taxation year that was in respect of Canadian business property of the insurer for that year in respect of the insurer’s life insurance business,
+- **(d.1)** the total of all amounts each of which is an amount included under section 142.4 of the Act in the insurer’s income for the year in respect of a property disposed of by the insurer that was, in the taxation year of disposition, a Canadian business property of the insurer for that year in respect of the insurer’s life insurance business,
+- **(e)** the total of all amounts each of which is the insurer’s gain for the year from the disposition of a Canadian business property of the insurer for the year in respect of the insurer’s life insurance business, other than a capital property or a property in respect of which section 142.4 of the Act applies, and
+- **(f)** the total of all amounts each of which is the insurer’s taxable capital gain for the year from the disposition of a Canadian business property of the insurer for the year in respect of the insurer’s life insurance business,
+- **(g) and (h)** [Repealed, SOR/2009-222, s. 3]
 
 exceeds the aggregate of
-- **(h)** the amounts deducted in computing the insurer’s income for the year under paragraphs 138(3)(b) and (d) of the Act,
-- **(i)** the amount deducted in computing the insurer’s income for the year under paragraph 20(1)(l) of the Act in respect of a Canada security (within the meaning assigned by paragraph 138(12)(c) of the Act) owned by the insurer,
-- **(j)** the amount included in computing the insurer’s losses for the year from the disposition of property (other than a Canada security or capital property), and
-- **(k)** the amount included in computing the insurer’s allowable capital losses for the year from the disposition of property; (*revenus bruts de placements en assurance-vie au Canada*)
+- **(i)** the portion of the amount deducted under paragraph 20(1)(l) of the Act in computing the insurer’s income for the year that is in respect of debt obligations that are Canadian business property of the insurer for the year in respect of the insurer’s life insurance business,
+- **(i.1)** the total of all amounts each of which is an amount deductible under section 142.4 of the Act in computing the insurer’s income for the year in respect of a property disposed of by the insurer that was, in the taxation year of disposition, a Canadian business property of the insurer for that year in respect of the insurer’s life insurance business,
+- **(j)** the total of all amounts each of which is the insurer’s loss for the year from the disposition of a Canadian business property of the insurer for the year in respect of the insurer’s life insurance business, other than a capital property or a property in respect of which section 142.4 of the Act applies, and
+- **(k)** the total of all amounts each of which is the insurer’s allowable capital loss for the year from the disposition of a Canadian business property of the insurer for the year in respect of the insurer’s life insurance business; (*revenus bruts de placements en assurance-vie au Canada*)
 
 ***insurance policy in Canada***, in respect of an insurer, means, in the case of
 - **(a)** a life insurance policy, a life insurance policy in Canada,
@@ -7749,8 +7772,10 @@ is of
 	- **(i)** the valuation of the property as at the end of the year, and
 	- **(ii)** the valuation of the property as at the end of the immediately preceding taxation year. (*valeur pour l’année*)
 
-- **(4)** For the purposes of the definition in subsection (3), “Canadian investment fund” in respect of a life insurer resident in Canada, notwithstanding the definitions ***Canadian reserve liabilities*** and ***total reserve liabilities*** in that subsection, the insurer shall determine its liabilities and reserves in respect of its insurance policies outside Canada in a manner consistent with that used in determining its liabilities and reserves in respect of its insurance policies in Canada.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-89, s. 1; SOR/79-670, s. 4; SOR/80-419, s. 4; SOR/80-618, s. 6; SOR/81-632, s. 2; SOR/90-661, s. 8; SOR/92-681, s. 3; SOR/94-686, ss. 55, 62, 69(F), 78(F), 79(F).
+- **(4)** For the purposes of the definition in subsection (3), ***Canadian investment fund*** in respect of a life insurer resident in Canada, notwithstanding the definitions ***Canadian reserve liabilities*** and ***total reserve liabilities*** in that subsection, the insurer shall determine its liabilities and reserves in respect of its insurance policies outside Canada in a manner consistent with that used in determining its liabilities and reserves in respect of its insurance policies in Canada.
+
+- **(5)** For the purposes of subsection (3), the cost of a property shall be determined without regard to subsection 142.5(2) of the Act.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-89, s. 1; SOR/79-670, s. 4; SOR/80-419, s. 4; SOR/80-618, s. 6; SOR/81-632, s. 2; SOR/90-661, s. 8; SOR/92-681, s. 3; SOR/94-686, ss. 55, 62, 69(F), 78(F), 79(F); SOR/2009-222, s. 3.
 
 
 
@@ -7914,7 +7939,7 @@ or
 
 where
 - **A** is the positive or negative amount, as the case may be, determined in respect of the insurer for the year under subsection (4) in respect of Canadian investment property (other than Canadian equity property) owned by the insurer at any time in the year;
-- **A.1** is the positive or negative amount, as the case may be, determined in respect of the insurer for the year under subsection (4.1) in respect of Canadian investment property (other than Canadian equity property) disposed of by the insurer in the year or preceding year;
+- **A.1** is the positive or negative amount, as the case may be, determined in respect of the insurer for the year under subsection (4.1) in respect of Canadian investment property (other than Canadian equity property) disposed of by the insurer in the year or a preceding taxation year;
 - **B** is the total value for the year of Canadian investment property (other than Canadian equity property and any property described in paragraph (i) of the definition ***Canadian investment property*** in subsection 2400(1)) owned by the insurer at any time in the year;
 - **C** is the total value for the year of the insurer’s Canadian investment property for the year (other than Canadian equity property and any property described in paragraph (i) of the definition ***Canadian investment property*** in subsection 2400(1)) that is designated insurance property of the insurer for the year;
 - **D** is the positive or negative amount, as the case may be, determined in respect of the insurer for the year under subsection (4) in respect of Canadian investment property that is Canadian equity property owned by the insurer at any time in the year;
@@ -7932,18 +7957,20 @@ A - B
 where
 - **A** is the total of the following amounts determined in respect of the property for the year, or that would be determined in respect of the property for the year if the property were designated insurance property of the insurer in respect of an insurance business in Canada for each taxation year in which the property was held by the insurer:
 - **(a)** the insurer’s gross investment revenue for the year (other than taxable dividends that were or would be deductible in computing the insurer’s taxable income for the year under section 112 or subsection 138(6) of the Act) derived from the property,
-- **(b)** all amounts that were or would be included in computing the insurer’s income for the year under paragraphs 138(4)(b) and (c) of the Act in respect of the property,
+- **(b)** [Repealed, SOR/2009-222, s. 4]
 - **(c)** all amounts that were or would be included in computing the insurer’s taxable capital gains for the year from the disposition of the property,
-- **(d)** all amounts that were or would be included in computing the insurer’s gains for the year from the disposition of the property (other than a Canada security or capital property),
+- **(c.1)** all amounts that were or would be included under paragraph 142.4(5)(e) of the Act in respect of the property in computing the insurer’s income for the year,
+- **(d)** all amounts that were or would be included in computing the insurer’s income for the year as gains from the disposition of such of the property as is not capital property or a specified debt obligation (as defined in subsection 142.2(1) of the Act),
 - **(e)** all amounts that were or would be included in computing the insurer’s income for the year under subsection 13(1) of the Act in respect of the property,
 - **(f)** all amounts that were or would be included in computing the insurer’s income for the year under paragraph 12(1)(d), (d.1) or (i) of the Act in respect of the property,
 - **(g)** all amounts that were or would be included in computing the insurer’s income for the year under subsection 59(3.2) or (3.3) of the Act in respect of the property,
 - **(h)** all amounts that were or would be included in computing the insurer’s income for the year under subsection 14(1) of the Act in respect of the property, and
-- **(i)** all other amounts that were or would be included in computing the insurer’s income for the year in respect of the property; and
-- **B** is the aggregate of the following amounts determined in respect of the property for the year or that would be determined in respect of the property for the year if it were insurance property of the insurer for the year in respect of an insurance business in Canada:
+- **(i)** all other amounts that were or would be included in computing the insurer’s income for the year in respect of the property otherwise than because of subsection 142.4(4) of the Act; and
+- **B** is the total of the following amounts determined in respect of the property for the year, or that would be determined in respect of the property for the year if the property were designated insurance property of the insurer in respect of an insurance business in Canada for each taxation year in which the property was held by the insurer:
 - **(a)** all amounts that were or would be included in computing the insurer’s allowable capital losses for the year from the disposition of the property,
-- **(b)** all amounts that were or would be included in computing the insurer’s losses for the year from the disposition of the property (other than a Canada security or capital property),
-- **(c)** all amounts that were or would be deductible in computing the insurer’s income for the year under paragraphs 138(3)(b) and (d) of the Act in respect of the property,
+- **(a.1)** all amounts that were or would be deductible under paragraph 142.4(5)(f) of the Act in respect of the property in computing the insurer’s income for the year,
+- **(b)** all amounts that were or would be deductible in computing the insurer’s income for the year as losses from the disposition of such of the property as is not capital property or a specified debt obligation (as defined in subsection 142.2(1) of the Act),
+- **(c)** [Repealed, SOR/2009-222, s. 4]
 - **(d)** all amounts that were or would be deductible in computing the insurer’s income for the year under paragraph 20(1)(a) of the Act in respect of the capital cost of the property or under paragraphs 20(1)(c) and (d) of the Act in respect of interest paid or payable on borrowed money used to acquire the property,
 - **(e)** where any such property is rental property or leasing property (within the meaning assigned by subsections 1100(14) and (17), respectively), all amounts that were or would be deductible in computing the insurer’s income for the year in respect of expenses directly related to the earning of rental income derived from the property,
 - **(f)** all amounts that were or would be deductible by the insurer in computing the insurer’s income for the year under paragraph 20(1)(l), (l.1) or (p) of the Act as a reserve or bad debt in respect of the property,
@@ -7959,7 +7986,7 @@ where
 - **A** is the total of the amounts included under paragraphs 142.4(4)(a) and (c) of the Act in the insurer’s income for the year in respect of the property, or that would be so included if the property were designated insurance property of the insurer in respect of an insurance business in Canada for each taxation year in which it was held by the insurer; and
 - **B** is the total of the amounts deductible under paragraphs 142.4(4)(b) and (d) of the Act in respect of the property in computing the insurer’s income for the year, or that would be so deductible if the property were designated insurance property of the insurer in respect of an insurance business in Canada for each taxation year in which it was held by the insurer.
 
-- **(5)** For the purposes of subsection (4), a property that has not been designated by the insurer for the year pursuant to subsection 2400(1) as investment property used by it in the year in, or held by it in the year in the course of, carrying on an insurance business in Canada shall be deemed to be a property used by it in the year in, or held by it in the year in the course of, carrying on that insurance business in respect of which the property has been reported by the insurer in its annual report for the year to the relevant authority or, where the insurer was throughout the year subject to the supervision of the relevant authority but was not required to file an annual report with the relevant authority for the year, that insurance business in respect of which the property would have been reported by the insurer in an annual report for the year if it had been so required by the relevant authority.
+- **(5)** [Repealed, SOR/2009-222, s. 4]
 
 - **(6)** For the purposes of subsection (1), the balance of an insurer’s cumulative excess account at the end of a taxation year shall be determined as the amount, if any, by which
 	- **(a)** the aggregate of all amounts each of which is a positive amount, if any, determined in respect of each of such of its seven immediately preceding taxation years that began after June 17, 1987 and ended after 1987 by the formula
@@ -7974,7 +8001,7 @@ exceeds
 - **(7)** [Repealed, SOR/2000-413, s. 6]
 
 - **(8)** For the purposes of this section, ***foreign investment property*** of an insurer means investment property of the insurer (unless the insurer is a non-resident insurer and it is established by the insurer that the investment property is not effectively connected with its Canadian insurance businesses) that is not Canadian investment property of the insurer.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/90-661, s. 10; SOR/92-681, s. 3(F); SOR/94-686, ss. 19(F), 69(F); SOR/2000-413, s. 6; SOR/2005-393, s. 1.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/90-661, s. 10; SOR/92-681, s. 3(F); SOR/94-686, ss. 19(F), 69(F); SOR/2000-413, s. 6; SOR/2005-393, s. 1; SOR/2009-222, s. 4.
 
 
 
@@ -12051,10 +12078,10 @@ where all the consideration receivable upon a conversion or exchange of the obli
 **6209** For the purposes of the definition ***lending asset*** in subsection 248(1) of the Act,
 - **(a)** a share owned by a bank is a prescribed share for a taxation year where it is a preferred share of the capital stock of a corporation that is dealing at arm’s length with the bank that may reasonably be considered to be, and is reported as, a substitute or alternative for a loan to the corporation, or another corporation with whom the corporation does not deal at arm’s length, in the bank’s annual report for the year to the relevant authority or, where the bank was throughout the year subject to the supervision of the relevant authority but was not required to file an annual report for the year with the relevant authority, in its financial statements for the year; and
 - **(b)** a property is a prescribed property for a taxation year where
-	- **(i)** in the case of a security held by a bank, the security is reported as part of the bank’s trading account in its annual report for the year to the relevant authority or, where the bank was throughout the year subject to the supervision of the relevant authority but was not required to file an annual report for the year with the relevant authority, in its financial statements for the year,
-	- **(ii)** in the case of a security held by a taxpayer other than a bank, the security is at any time in the year a property described in an inventory of the taxpayer, or
+	- **(i)** the security is a mark-to-market property (as defined in subsection 142.2(1) of the Act) for the year of a financial institution (as defined in subsection 142.2(1) of the Act),
+	- **(ii)** the security is at any time in the year a property described in an inventory of a taxpayer, or
 	- **(iii)** the property is a direct financing lease, or is any other financing arrangement, of a taxpayer that is reported as a loan in the taxpayer’s financial statement for the year prepared in accordance with generally accepted accounting principles and an amount is deductible under paragraph 20(1)(a) of the Act in respect of the property that is the subject of the lease or arrangement in computing the taxpayer’s income for the year.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/91-78, s. 3; SOR/94-686, ss. 35(F), 79(F); SOR/99-91, s. 1.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/91-78, s. 3; SOR/94-686, ss. 35(F), 79(F); SOR/99-91, s. 1; SOR/2009-222, s. 5.
 
 
 
@@ -13375,7 +13402,117 @@ exceeds
 
 
 
-**8102. to 8105** [Repealed, SOR/96-443, s. 3]
+
+### Mark-to-Market — Transition Deduction
+
+
+**8102** 
+
+- **(1)** In this section, ***excluded property***, of a taxpayer, means a mark-to-market property used in a business of the taxpayer in its taxation year that includes October 31, 1994 where it is reasonable to expect that the property would have been valued at its fair market value for the purpose of computing the taxpayer’s income from the business for the year if
+	- **(a)** the Act were read without reference to subsection 142.5(2); and
+	- **(b)** the property were held at the end of the year.
+
+- **(2)** For the purpose of subsection 142.5(4) of the Act, the prescribed amount for a taxpayer’s taxation year that includes October 31, 1994 is the amount, if any, by which
+	- **(a)** the total of all amounts each of which is the taxpayer’s profit from the disposition in the year, because of subsection 142.5(2) of the Act, of a property other than a capital property or an excluded property
+exceeds the total of
+	- **(b)** the total of all amounts each of which is the taxpayer’s loss from the disposition in the year, because of subsection 142.5(2) of the Act, of a property other than a capital property or an excluded property, and
+	- **(c)** the amount, if any, by which
+		- **(i)** the total of all amounts each of which is the taxpayer’s loss from the disposition in the year of a mark-to-market property (other than a capital property, an excluded property or a property disposed of because of subsection 142.5(2) of the Act)
+exceeds
+		- **(ii)** the total of all amounts each of which is the taxpayer’s profit from the disposition in the year of a mark-to-market property (other than a capital property, an excluded property or a property disposed of because of subsection 142.5(2) of the Act).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/96-443, s. 3; SOR/2009-222, s. 6.
+
+
+
+
+
+### Mark-to-Market — Transition Inclusion
+
+
+**8103** 
+
+- **(1)** In this section, ***transition deduction***, of a taxpayer, means the amount deducted under subsection 142.5(4) of the Act in computing the taxpayer’s income for its taxation year that includes October 31, 1994.
+
+- **(2)** Subject to subsections (3), (5) and (7), there is prescribed for the purpose of subsection 142.5(5) of the Act in respect of a taxpayer for a taxation year that ends after October 30, 1994 the amount determined by the formula
+```
+A × B/1825
+```
+where
+- **A** is the number of days (other than February 29) in the year that are before the day that is five years after the first day of the taxation year of the taxpayer that includes October 31, 1994; and
+- **B** is the taxpayer’s transition deduction minus the amount, if any, required by subsection (4) or paragraph (6)(b) to be subtracted.
+
+- **(3)** If subsection 88(1) of the Act has applied to the winding-up of a taxpayer (in this subsection referred to as the “subsidiary”),
+	- **(a)** the value of A in subsection (2) shall be determined in respect of the subsidiary without including any days that are after the day on which the subsidiary’s assets were distributed to its parent on the winding-up; and
+	- **(b)** there is prescribed for the purpose of subsection 142.5(5) of the Act in respect of the parent for its taxation year that includes the day referred to in paragraph (a) the total of
+		- **(i)** the amount that would be determined under subsection (2) in respect of the parent for the year if the parent’s transition deduction did not include the subsidiary’s transition deduction, and
+		- **(ii)** the amount that would be determined under subsection (2) in respect of the parent for the year if
+			- **(A)** the value of A in that subsection were determined without including the day referred to in paragraph (a) and any days before that day, and
+			- **(B)** the value of B in that subsection were equal to the subsidiary’s transition deduction.
+
+- **(4)** If subsection 138(11.5) or (11.94) of the Act has applied to the transfer of an insurance business by an insurer, there shall be subtracted, in determining the value of B in subsection (2) in respect of the insurer for a taxation year that ends after the insurer ceased to carry on all or substantially all of the business, the part of the insurer’s transition deduction that is included, because of paragraph 138(11.5)(k) of the Act, in the transition deduction of the person to whom the business was transferred.
+
+- **(5)** If subsection 98(6) of the Act deems a partnership (in this subsection referred to as the “new partnership”) to be a continuation of another partnership (in this subsection referred to as the “predecessor partnership”),
+	- **(a)** the value of A in subsection (2) shall be determined in respect of the predecessor partnership without including any days that are after the day on which the predecessor partnership’s property was transferred to the new partnership; and
+	- **(b)** there is prescribed for the purpose of subsection 142.5(5) of the Act in respect of the new partnership for its taxation year that includes the day referred to in paragraph (a) the total of
+		- **(i)** the amount that would be determined under subsection (2) in respect of the new partnership for the year if its transition deduction did not include the predecessor partnership’s transition deduction, and
+		- **(ii)** the amount that would be determined under subsection (2) in respect of the new partnership for the year if
+			- **(A)** the value of A in that subsection were determined without including the day referred to in paragraph (a) and any days before that day, and
+			- **(B)** the value of B in that subsection were equal to the predecessor partnership’s transition deduction.
+
+- **(6)** If a taxpayer ceases to carry on all or substantially all of a business, otherwise than as a result of a merger to which subsection 87(2) of the Act applies, a winding-up to which subsection 88(1) of the Act applies or a transfer of the business to which subsection 98(6) or 138(11.5) or (11.94) of the Act applies,
+	- **(a)** there is prescribed for the purpose of subsection 142.5(5) of the Act in respect of the taxpayer for its taxation year in which the cessation of business occurs, in addition to the amount prescribed by subsection (2), the amount, if any, by which
+		- **(i)** the part of the taxpayer’s transition deduction that can reasonably be attributed to the business
+exceeds
+		- **(ii)** that part of the total of the amounts included under subsection 142.5(5) of the Act in computing the income of the taxpayer for preceding taxation years that can reasonably be considered to be in respect of the amount determined under subparagraph (i); and
+	- **(b)** there shall be subtracted, in determining the value of B in subsection (2) in respect of the taxpayer for the year or a subsequent taxation year, the amount determined under subparagraph (a)(i).
+
+- **(7)** If a taxpayer ceases at any time to be a financial institution otherwise than because it ceases to carry on a business,
+	- **(a)** there is prescribed for the purpose of subsection 142.5(5) of the Act in respect of the taxpayer for its taxation year that ended immediately before that time, the amount, if any, by which
+		- **(i)** the taxpayer’s transition deduction
+exceeds
+		- **(ii)** the total of the amounts included under subsection 142.5(5) of the Act in computing the taxpayer’s income for preceding taxation years; and
+	- **(b)** the amount prescribed for the purpose of subsection 142.5(5) of the Act in respect of the taxpayer for taxation years after the taxation year referred to in paragraph (a) is nil.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/96-443, s. 3; SOR/2009-222, s. 6.
+
+
+
+
+
+### Mark-to-Market — Transition Capital Loss
+
+
+**8104** 
+
+- **(1)** In this section, ***excluded property***, of a taxpayer, means a mark-to-market property of the taxpayer for its taxation year that includes October 31, 1994 if
+	- **(a)** the taxpayer had a taxable capital gain or an allowable capital loss for the year from the disposition of the property to which section 142 of the Act applied; or
+	- **(b)** in the case of a taxpayer that was non-resident in the year, the property was a capital property other than a taxable Canadian property.
+
+- **(2)** For the purpose of subsection 142.5(6) of the Act, the prescribed amount for a taxpayer’s taxation year that includes October 31, 1994 is the amount, if any, by which
+	- **(a)** the total of all amounts each of which is the taxable capital gain of the taxpayer for the year from the disposition, because of subsection 142.5(2) of the Act, of a property other than an excluded property
+exceeds the total of
+	- **(b)** the total of all amounts each of which is the allowable capital loss of the taxpayer for the year from the disposition, because of subsection 142.5(2) of the Act, of a property other than an excluded property, and
+	- **(c)** the amount, if any, by which
+		- **(i)** the total of all amounts each of which is the allowable capital loss of the taxpayer for the year from the disposition of a mark-to-market property (other than an excluded property or a property disposed of because of subsection 142.5(2) of the Act)
+exceeds
+		- **(ii)** the total of all amounts each of which is the taxable capital gain of the taxpayer for the year from the disposition of a mark-to-market property (other than an excluded property or a property disposed of because of subsection 142.5(2) of the Act).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/96-443, s. 3; SOR/2009-222, s. 6.
+
+
+
+
+
+### Mark-to-Market — Transition Capital Gains
+
+
+**8105** 
+
+- **(1)** In this section, ***transition loss***, of a taxpayer, means the amount elected by the taxpayer under subsection 142.5(6) of the Act to be an allowable capital loss of the taxpayer for its taxation year that includes October 31, 1994.
+
+- **(2)** There is prescribed for the purpose of subsection 142.5(7) of the Act in respect of a taxpayer for a taxation year that ends after October 30, 1994 the amounts that would be prescribed in respect of the taxpayer for the year by section 8103 if the references in subsections 8103(2) to (7) to
+	- **(a)** “subsection 142.5(5)” were read as “subsection 142.5(7)”; and
+	- **(b)** “transition deduction” were read as “transition loss (as defined in subsection 8105(1))”.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/96-443, s. 3; SOR/2009-222, s. 6.
+
 
 
 
@@ -17893,6 +18030,417 @@ exceeds
 - **(a)** the property is a direct financing lease, or any other financing arrangement, of a taxpayer that is reported as a loan in the taxpayer’s financial statements for the year prepared in accordance with generally accepted accounting principles; and
 - **(b)** in computing the taxpayer’s income for the year, an amount is deductible under paragraph 20(1)(a) of the Act in respect of the property that is the subject of the arrangement.
 > [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/99-91, s. 8; 2009, c. 2, s. 118.
+
+
+
+
+
+**PART XCI** 
+## Financial Institutions — Income from Specified Debt Obligations
+
+
+
+### Interpretation
+
+
+
+**Definitions**
+
+**9100** The following definitions apply in this Part.
+
+***fixed payment obligation***, of a taxpayer, means a specified debt obligation under which
+- **(a)** the amount and timing of each payment (other than a fee or similar payment or an amount payable because of a default by the debtor) to be made by the debtor were fixed when the taxpayer acquired the obligation and have not been changed; and
+- **(b)** all payments are to be made in the same currency. (*titre à paiements fixes*)
+
+***primary currency***, of a specified debt obligation, means
+- **(a)** the currency with which the obligation is primarily connected; and
+- **(b)** if there is no such currency, Canadian currency. (*monnaie principale*)
+
+***tax basis***, of a specified debt obligation at any time to a taxpayer, has the meaning assigned by subsection 142.4(1) of the Act. (*montant de base*)
+
+***total return***, of a taxpayer from a fixed payment obligation, means the amount, measured in the primary currency of the obligation, by which
+- **(a)** the total of all amounts each of which is the amount of a payment (other than a fee or similar payment) required to be made by the debtor under the obligation after its acquisition by the taxpayer
+
+exceeds
+- **(b)** the cost to the taxpayer of the obligation. (*rendement total*)
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2009-222, s. 7.
+
+
+
+
+
+### Prescribed Inclusions and Deductions
+
+
+
+**Inclusion**
+
+**9101** 
+
+- **(1)** For the purpose of paragraph 142.3(1)(a) of the Act, where a taxpayer holds a specified debt obligation at any time in a taxation year, the amount prescribed in respect of the obligation for the year is the total of
+	- **(a)** the taxpayer’s accrued return from the obligation for the year,
+	- **(b)** if the taxpayer’s accrual adjustment determined under section 9102 in respect of the obligation for the year is greater than nil, the amount of the adjustment, and
+	- **(c)** if a foreign exchange adjustment is determined under section 9104 in respect of the obligation for the year and is greater than nil, the amount of the adjustment.
+
+**Deduction**
+
+- **(2)** For the purpose of paragraph 142.3(1)(b) of the Act, where a taxpayer holds a specified debt obligation at any time in a taxation year, the amount prescribed in respect of the obligation is the total of
+	- **(a)** if the taxpayer’s accrual adjustment determined under section 9102 in respect of the obligation for the year is less than nil, the absolute value of the amount of the adjustment, and
+	- **(b)** if a foreign exchange adjustment is determined under section 9104 in respect of the obligation for the year and is less than nil, the absolute value of the amount of the adjustment.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2009-222, s. 7.
+
+
+
+
+
+### General Accrual Rules
+
+
+
+**Fixed payment obligation not in default**
+
+**9102** 
+
+- **(1)** For the purpose of paragraph 9101(1)(a), a taxpayer’s accrued return for a taxation year from a fixed payment obligation, under which each payment required to be made before the end of the year was made by the debtor when it was required to be made, shall be determined in accordance with the following rules:
+	- **(a)** determine, in the primary currency of the obligation, the portion of the taxpayer’s total return from the obligation that is allocated to each day in the year using
+		- **(i)** the level-yield method described in subsection (2), or
+		- **(ii)** any other reasonable method that is substantially similar to the level-yield method;
+	- **(b)** if the primary currency of the obligation is not Canadian currency, translate to Canadian currency the amount allocated to each day in the year, using a reasonable method of translation; and
+	- **(c)** determine the total of all amounts each of which is the Canadian currency amount allocated to a day, in the year, at the beginning of which the taxpayer holds the obligation.
+
+**Level-yield method**
+
+- **(2)** For the purpose of subsection (1), the level-yield method for allocating a taxpayer’s total return from a fixed payment obligation is the method that allocates, to each particular day in the period that begins on the day following the day on which the taxpayer acquired the obligation and that ends on the day on which the obligation matures, the amount determined by the formula
+```
+(A + B - C) × D
+```
+where
+- **A** is the cost of the obligation to the taxpayer (expressed in the primary currency of the obligation);
+- **B** is the total of all amounts each of which is the portion of the taxpayer’s total return from the obligation that is allocated to a day before the particular day;
+- **C** is the total of all payments required to be made under the obligation after it was acquired by the taxpayer and before the particular day; and
+- **D** is the rate of interest per day that, if used in computing the present value (as of the end of the day on which the taxpayer acquired the obligation and based on daily compounding) of all payments to be made under the obligation after it was acquired by the taxpayer, produces a present value equal to the cost to the taxpayer of the obligation (expressed in the primary currency of the obligation).
+
+**Other specified debt obligations**
+
+- **(3)** For the purpose of paragraph 9101(1)(a), a taxpayer’s accrued return for a taxation year from a specified debt obligation, other than an obligation to which subsection (1) applies, shall be determined
+	- **(a)** using a reasonable method that,
+		- **(i)** taking into account the extent to which the obligation differs from fixed payment obligations, is consistent with the principles implicit in the methods that can be used under subsection (1) for fixed payment obligations, and
+		- **(ii)** is in accordance with generally accepted accounting practice for the measurement of profit from debt obligations; and
+	- **(b)** on the basis of reasonable assumptions with respect to the timing and amount of any payments to be made by the debtor under the obligation that are not fixed in their timing or amount (expressed in the primary currency of the obligation).
+
+**Accrual adjustment nil**
+
+- **(4)** For the purposes of paragraphs 9101(1)(b) and (2)(a), if subsection 142.3(1) of the Act applies to a taxpayer for a particular taxation year in respect of a specified debt obligation and either the subsection did not apply in respect of the obligation for the taxpayer’s immediately preceding taxation year or the taxpayer did not own the obligation at the end of that immediately preceding taxation year, the taxpayer’s accrual adjustment in respect of the obligation for the particular taxation year is nil.
+
+**Accrual adjustment**
+
+- **(5)** For the purposes of paragraphs 9101(1)(b) and (2)(a), if subsection (4) does not apply to determine a taxpayer’s accrual adjustment in respect of a specified debt obligation for a particular taxation year, the taxpayer’s accrual adjustment is the positive or negative amount determined by the formula
+```
+A - B
+```
+where
+- **A** is the total of all amounts each of which is the amount that would be the taxpayer’s accrued return from the obligation for a taxation year, before the particular taxation year, for which subsection 142.3(1) of the Act applied to the taxpayer in respect of the obligation if the accrued return were redetermined on the basis of
+- **(a)** the information available at the end of the particular taxation year, and
+- **(b)** the assumptions, if any, with respect to the timing and amount of payments to be made under the obligation after the particular taxation year that were used for the purpose of determining the taxpayer’s accrued return from the obligation for the particular taxation year; and
+- **B** is the total of
+- **(a)** the amount included under paragraph 9101(1)(a) as the taxpayer’s accrued return from the obligation for the taxation year immediately preceding the particular taxation year, and
+- **(b)** if the taxpayer’s accrual adjustment in respect of the obligation for that immediately preceding taxation year was determined under this subsection, the value of A for the purpose of determining that accrual adjustment.
+
+**Special cases and transition**
+
+- **(6)** The rules in this section for determining accrued returns and accrual adjustments are subject to section 9103.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2009-222, s. 7.
+
+
+
+
+
+### Accrual Rules — Special Cases and Transition
+
+
+
+**Convertible obligation**
+
+**9103** 
+
+- **(1)** For the purposes of section 9102, if the terms of a specified debt obligation of a taxpayer give the taxpayer the right to exchange the obligation for shares of the debtor or of a corporation related to the debtor
+	- **(a)** subject to paragraph (b), the right shall be disregarded (whether it has been exercised or not); and
+	- **(b)** if 5% or more of the cost of the obligation to the taxpayer is attributable to the right, the cost is deemed to equal the amount by which the cost exceeds the portion of the cost attributable to the right.
+
+- **(2)** [Repealed, SOR/2009-222, s. 7]
+
+**Amendment of obligation**
+
+- **(3)** If the terms of a specified debt obligation of a taxpayer are amended at any time in a taxation year of the taxpayer to change the timing or amount of any payment to be made, at or after that time, under the obligation, the taxpayer’s accrued returns for the taxation year and for each subsequent taxation year are to be redetermined under section 9102 using a reasonable method that fully gives effect, in those accrued returns, to the alteration to the payments under the obligation.
+
+**Obligations acquired before financial institution rules apply**
+
+- **(4)** If a taxpayer held a specified debt obligation at the beginning of the taxpayer’s first taxation year (in this subsection referred to as the “initial year”) for which subsection 142.3(1) of the Act applied to the taxpayer in respect of the obligation, the following rules apply:
+	- **(a)** the taxpayer’s accrued return from the obligation for the initial year or a subsequent taxation year shall not include an amount to the extent that the amount was included in computing the taxpayer’s income for a taxation year preceding the initial year; and
+	- **(b)** if interest on the obligation in respect of a period before the initial year becomes receivable or is received by the taxpayer in a particular taxation year that is the initial year or a subsequent taxation year, and all or part of the interest would not, but for this paragraph, be included in computing the taxpayer’s income for any taxation year, there shall be included in determining the taxpayer’s accrued return from the obligation for the particular taxation year the amount, if any, by which
+		- **(i)** the portion of the interest that would not otherwise be included in computing the taxpayer’s income for any taxation year
+exceeds
+		- **(ii)** the portion of the cost of the obligation to the taxpayer that is reasonably attributable to that portion of the interest.
+
+**Prepaid interest — transition rule**
+
+- **(5)** If, before November 1994 and in a taxation year that ended after February 22, 1994, a taxpayer received an amount under a specified debt obligation in satisfaction, in whole or in part, of the debtor’s obligation to pay interest in respect of a period after the taxation year,
+	- **(a)** the amount may, at the election of the taxpayer, be included in determining the taxpayer’s accrued return for the taxation year from the obligation; and
+	- **(b)** if the amount is so included, the taxpayer’s accrued returns for subsequent taxation years from the obligation shall not include any amount in respect of interest that, because of the payment of the amount, the debtor is no longer required to pay.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2009-222, s. 7.
+
+
+
+
+
+### Foreign Exchange Adjustment
+
+
+
+**Obligations held at end of taxation year**
+
+**9104** 
+
+- **(1)** For the purposes of paragraphs 9101(1)(c) and (2)(b), if, at the end of a taxation year, a taxpayer holds a specified debt obligation the primary currency of which is not Canadian currency, the taxpayer’s foreign exchange adjustment in respect of the obligation for the taxation year is the positive or negative amount determined by the formula
+```
+(A × B) - C
+```
+where
+- **A** is the amount that would be the tax basis of the obligation to the taxpayer at the end of the year if
+- **(a)** the tax basis were determined using the primary currency of the obligation as the currency in which all amounts are expressed,
+- **(b)** the definition ***tax basis*** in subsection 142.4(1) of the Act were read without reference to paragraphs (f), (h), (o) and (q), and
+- **(c)** the taxpayer’s foreign exchange adjustment in respect of the obligation for each year were nil;
+- **B** is the rate of exchange at the end of the year of the primary currency of the obligation into Canadian currency; and
+- **C** is the amount that would be the tax basis of the obligation to the taxpayer at the end of the year if
+- **(a)** the definition ***tax basis*** in subsection 142.4(1) of the Act were read without reference to paragraphs (h) and (q), and
+- **(b)** the taxpayer’s foreign exchange adjustment in respect of the obligation for the year were nil.
+
+**Disposition of obligation**
+
+- **(2)** If a taxpayer disposes of a specified debt obligation the primary currency of which is not Canadian currency, the taxpayer’s foreign exchange adjustment in respect of the obligation for the taxation year in which the disposition occurs is the amount that would be the foreign exchange adjustment if the taxation year had ended immediately before the disposition.
+
+**Disposition of obligation before 1996**
+
+- **(3)** At the election of a taxpayer, subsection (2) does not apply to specified debt obligations disposed of by the taxpayer before 1996.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2009-222, s. 7.
+
+
+
+
+
+**PART XCII** 
+## Financial Institutions — Disposition of Specified Debt Obligations
+
+
+
+### Interpretation
+
+
+
+**Definitions**
+
+**9200** 
+
+- **(1)** The following definitions apply in this Part.
+
+***gain***, of a taxpayer from the disposition of a specified debt obligation, means the gain from the disposition determined under paragraph 142.4(6)(a) of the Act. (*gain*)
+
+***loss***, of a taxpayer from the disposition of a specified debt obligation, means the loss from the disposition determined under paragraph 142.4(6)(b) of the Act. (*perte*)
+
+***residual portion***, of a taxpayer’s gain or loss from the disposition of a specified debt obligation, means the amount determined under subsection 142.4(8) of the Act in respect of the disposition. (*partie résiduelle*)
+
+**Amortization date**
+
+- **(2)** For the purposes of this Part, the amortization date for a specified debt obligation disposed of by a taxpayer is the day determined as follows:
+	- **(a)** subject to paragraphs (b) to (d), the amortization date is the later of the day of disposition and the day on which the debtor is required to make the final payment under the obligation, determined without regard to any option respecting the timing of payments under the obligation (other than an option that was exercised before the disposition);
+	- **(b)** subject to paragraphs (c) and (d), the amortization date is the day of disposition if the day on which the debtor is required to make the final payment under the obligation is not determinable for the purpose of paragraph (a);
+	- **(c)** subject to paragraph (d), the amortization date is the first day, if any, after the disposition on which the interest rate could change, if the obligation is one in respect of which the following conditions are satisfied:
+		- **(i)** the obligation provides for stipulated interest payments,
+		- **(ii)** the rate of interest for one or more periods after the issuance of the obligation was not fixed on the day of issue, and
+		- **(iii)** when the obligation was issued, it was reasonable to expect that the interest rate for each period would equal or approximate a reasonable market rate of interest for that period; and
+	- **(d)** if, for purposes of its financial statements, the taxpayer had a gain or loss from the disposition that is being amortized to profit, the amortization date is the last day of the amortization period.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2009-222, s. 7.
+
+
+
+
+
+**Transition amount**
+
+**9201** For the purpose of subsection 142.4(1) of the Act, ***transition amount***, of a taxpayer in respect of the disposition of a specified debt obligation, means,
+- **(a)** if neither paragraph (b) nor (c) applies, nil;
+- **(b)** if
+	- **(i)** the taxpayer acquired the obligation before its taxation year that includes February 23, 1994,
+	- **(ii)** neither paragraph 7000(2)(a) nor (b) has applied to the obligation, and
+	- **(iii)** the principal amount of the obligation exceeds the cost of the obligation to the taxpayer (which excess is referred to in this paragraph as the “discount”),
+the amount determined by the formula
+```
+A - B
+```
+where
+- **A** is the total of all amounts each of which is the amount included in respect of the discount in computing the taxpayer’s profit for a taxation year that ended before February 23, 1994, and
+- **B** is the total of all amounts each of which is the amount included in respect of the discount in computing the taxpayer’s income for a taxation year that ended before February 23, 1994; and
+- **(c)** where
+	- **(i)** the conditions in subparagraphs (b)(i) and (ii) are satisfied, and
+	- **(ii)** the cost of the obligation to the taxpayer exceeds the principal amount of the obligation (which excess is referred to in this paragraph as the “premium”),
+the negative of the amount determined by the formula
+```
+A - B
+```
+where
+- **A** is the total of all amounts each of which is the amount deducted in respect of the premium in computing the taxpayer’s profit for a taxation year that ended before February 23, 1994, and
+- **B** is the total of all amounts each of which is the amount deducted in respect of the premium in computing the taxpayer’s income for a taxation year that ended before February 23, 1994.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2009-222, s. 7.
+
+
+
+
+
+### Prescribed Debt Obligations
+
+
+
+**Application of related election**
+
+**9202** 
+
+- **(1)** The following rules apply with respect to an election made under subsection (3) or (4) by a taxpayer:
+	- **(a)** the election applies only if
+		- **(i)** it is in writing,
+		- **(ii)** it specifies the first taxation year (in this subsection referred to as the “initial year”) of the taxpayer to which it is to apply, and
+		- **(iii)** either it is received by the Minister within six months after the end of the initial year, or the Minister has expressly accepted the later filing of the election;
+	- **(b)** subject to paragraph (c), the election applies to dispositions of specified debt obligations in the initial year and subsequent taxation years; and
+	- **(c)** if the Minister has approved, on written application by the taxpayer, the revocation of the election, the election does not apply to dispositions of specified debt obligations in the taxation year specified in the application and in subsequent taxation years.
+
+**Prescribed specified debt obligation**
+
+- **(2)** For the purpose of subparagraph 142.4(5)(a)(ii) of the Act, a specified debt obligation disposed of by a taxpayer in a taxation year is prescribed in respect of the taxpayer if the amortization date for the obligation is not more than two years after the end of the taxation year.
+
+**Prescribed specified debt obligation — exception**
+
+- **(3)** Subsection (2) does not apply in respect of a taxpayer for a taxation year if
+	- **(a)** generally accepted accounting principles require that the taxpayer’s gains and losses arising on the disposition of a class of debt obligations be amortized to profit for the purpose of the taxpayer’s financial statements;
+	- **(b)** the taxpayer has elected not to have subsection (2) apply; and
+	- **(c)** the election applies to dispositions in the year.
+
+**Prescribed specified debt obligation**
+
+- **(4)** For the purpose of subparagraph 142.4(5)(a)(ii) of the Act, a specified debt obligation disposed of by a taxpayer in a taxation year is prescribed in respect of the taxpayer if
+	- **(a)** the taxpayer has elected to have this subsection apply;
+	- **(b)** the election applies to dispositions in the year; and
+	- **(c)** the absolute value of the positive or negative amount determined by the formula (A - B) does not exceed the lesser of $5,000 and the amount, if any, specified in the election, where
+- **A** is the total of all amounts each of which is the residual portion of the taxpayer’s gain from the disposition of the obligation or any other specified debt obligation disposed of in the same transaction, and
+- **B** is the total of all amounts each of which is the residual portion of the taxpayer’s loss from the disposition of the obligation or any other specified debt obligation disposed of in the same transaction.
+
+**Prescribed specified debt obligation**
+
+- **(5)** For the purpose of subparagraph 142.4(5)(a)(ii) of the Act, a specified debt obligation disposed of by a taxpayer in a taxation year is prescribed in respect of the taxpayer if
+	- **(a)** the disposition resulted in an extinguishment of the obligation, other than an extinguishment that occurred because of a purchase of the obligation by the debtor in the open market;
+	- **(b)** the taxpayer had the right to require the obligation to be settled at any time; or
+	- **(c)** the debtor had the right to settle the obligation at any time.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2009-222, s. 7.
+
+
+
+
+
+### Residual Portion of Gain or Loss
+
+
+
+**Allocation of residual portion**
+
+**9203** 
+
+- **(1)** Subject to section 9204, if subsection 142.4(4) of the Act applies to the disposition of a specified debt obligation by a taxpayer, the amount allocated to each taxation year in respect of the residual portion of the gain or loss from the disposition shall be determined, for the purpose of that subsection,
+	- **(a)** by a method that complies with, or is substantially similar to a method that complies with, subsection (2); or
+	- **(b)** if gains and losses from the disposition of debt obligations are amortized to profit for the purpose of the taxpayer’s financial statements, by the method used for the purpose of the taxpayer’s financial statements.
+
+**Proration method**
+
+- **(2)** For the purpose of subsection (1), a method for allocating to taxation years the residual portion of a taxpayer’s gain or loss from the disposition of a specified debt obligation complies with this subsection if the amount allocated to each taxation year is determined by the formula
+```
+A × B/C
+```
+where
+- **A** is the residual portion of the taxpayer’s gain or loss;
+- **B** is the number of days in the taxation year that are in the period referred to in the description of C; and
+- **C** is the number of days in the period that,
+- **(a)** where subsection (3) applies in respect of the obligation, is determined under that subsection, and
+- **(b)** in any other case,
+- **(i)** begins on the day on which the taxpayer disposed of the obligation, and
+- **(ii)** ends on the earlier of
+- **(A)** the amortization date for the obligation, and
+- **(B)** the day that is 20 years after the day on which the taxpayer disposed of the obligation.
+
+**Single proration period**
+
+- **(3)** This subsection applies in respect of specified debt obligations disposed of by a taxpayer in a transaction in a taxation year, and the period determined under this subsection in respect of the obligations is the period that begins on the day of disposition and ends on the weighted average amortization date for those obligations so disposed of to which subsection 142.4(4) of the Act applies, if
+	- **(a)** the taxpayer has elected in its return of income for the taxation year to have this subsection apply in respect of the obligations so disposed of;
+	- **(b)** all the obligations so disposed of were disposed of at the same time; and
+	- **(c)** the number of the obligations so disposed of to which subsection 142.4(4) of the Act applies is at least 50.
+
+**Weighted average amortization date**
+
+- **(4)** For the purpose of subsection (3), the weighted average amortization date for a group of specified debt obligations disposed of on the same day by a taxpayer is,
+	- **(a)** if paragraph (b) does not apply, the day that is the number of days after the day of disposition equal to the total of the number of days determined in respect of each obligation by the formula
+```
+A × B/C
+```
+where
+- **A** is the number of days from the day of disposition to the amortization date for the obligation,
+- **B** is the residual portion of the gain or loss from the disposition of the obligation, and
+- **C** is the total of all amounts each of which is the residual portion of the gain or loss from the disposition of an obligation in the group; and
+	- **(b)** the day that the taxpayer determines using a reasonable method for estimating the day determined under paragraph (a).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2009-222, s. 7.
+
+
+
+
+
+### Special Rules for Residual Portion of Gain or Loss
+
+
+
+**Application**
+
+**9204** 
+
+- **(1)** This section applies for the purposes of subparagraphs 142.4(4)(c)(ii) and (d)(ii) of the Act.
+
+**Winding-up**
+
+- **(2)** If subsection 88(1) of the Act has applied to the winding-up of a taxpayer (in this subsection referred to as the “subsidiary”), the following rules apply in respect of the residual portion of a gain or loss of the subsidiary from the disposition of a specified debt obligation to which subsection 142.4(4) of the Act applies:
+	- **(a)** the amount of that residual portion allocated to the taxation year of the subsidiary in which its assets were distributed to its parent on the winding-up shall be determined on the assumption that the taxation year ended when the assets were distributed to its parent;
+	- **(b)** no amount shall be allocated in respect of that residual portion to any taxation year of the subsidiary after its taxation year in which its assets were distributed to its parent; and
+	- **(c)** the amount of that residual portion allocated to the taxation year of the parent in which the subsidiary’s assets were distributed to it shall be determined on the assumption that the taxation year began when the assets were distributed to it.
+
+**Transfer of an insurance business**
+
+- **(3)** No amount in respect of the residual portion of a gain or loss of an insurer from the disposition of a specified debt obligation to which subsection 142.4(4) of the Act applies shall be allocated to any taxation year of the insurer that ends after the insurer ceased to carry on all or substantially all of an insurance business, if
+	- **(a)** subsection 138(11.5) or (11.94) of the Act has applied to the transfer of that business; and
+	- **(b)** the person to whom that business was transferred is considered, because of paragraph 138(11.5)(k) of the Act, to be the same person as the insurer in respect of that residual portion.
+
+**Transfer to new partnership**
+
+- **(4)** If subsection 98(6) of the Act deems a partnership (in this subsection referred to as the “new partnership”) to be a continuation of another partnership (in this subsection referred to as the “predecessor partnership”), the following rules apply in respect of the residual portion of a gain or loss of the predecessor partnership from the disposition of a specified debt obligation to which subsection 142.4(4) of the Act applies:
+	- **(a)** the amount of that residual portion allocated to the taxation year of the predecessor partnership in which its property was transferred to the new partnership shall be determined on the assumption that the taxation year ended when the property was transferred;
+	- **(b)** no amount shall be allocated in respect of that residual portion to any taxation year of the predecessor partnership after its taxation year in which its property was transferred to the new partnership; and
+	- **(c)** the amount of that residual portion allocated to the taxation year of the new partnership in which the predecessor partnership’s property was transferred to it shall be determined on the assumption that the taxation year began when the property was transferred to it.
+
+**Ceasing to carry on business**
+
+- **(5)** There shall be allocated to a particular taxation year of a taxpayer the part, if any, of the residual portion of the taxpayer’s gain or loss that is from a disposition of a specified debt obligation to which subsection 142.4(4) of the Act applies and that was not allocated to a preceding taxation year, if
+	- **(a)** at any time in the particular taxation year the taxpayer ceases to carry on all or substantially all of a business, otherwise than as a result of a merger to which subsection 87(2) of the Act applies, a winding-up to which subsection 88(1) of the Act applies or a transfer of the business to which subsection 98(6) or 138(11.5) or (11.94) of the Act applies;
+	- **(b)** the disposition occurred before that time; and
+	- **(c)** the specified debt obligation was property used in the business.
+
+**Ceasing to be a financial institution**
+
+- **(6)** There shall be allocated to a particular taxation year of a taxpayer the part, if any, of the residual portion of the taxpayer’s gain or loss that is from a disposition of a specified debt obligation to which subsection 142.4(4) of the Act applies and that was not allocated to a preceding taxation year, if
+	- **(a)** the particular taxation year ends immediately before the time at which the taxpayer ceases to be a financial institution, otherwise than because it has ceased to carry on a business; and
+	- **(b)** the disposition occurred before that time.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2009-222, s. 7.
 
 
 
