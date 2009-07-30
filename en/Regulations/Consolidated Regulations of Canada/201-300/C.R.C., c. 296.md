@@ -341,11 +341,11 @@ the inspector may order the person who owns or has possession, care or control o
 
 - **(1)** Every person who slaughters, cuts up or debones cattle for human consumption as food shall ensure that, immediately after removal of the specified risk material, the specified risk material is stained with a conspicuous and indelible dye and collected in a dedicated container that is marked with a statement in both official languages indicating that the contents are specified risk material.
 
-- **(2)** Subsection (1) does not apply in the case of
-	- **(a)** cattle that are slaughtered, cut up or deboned on a farm or ranch, as defined in section 172, if the specified risk material from the carcasses of those cattle is not removed from the farm or ranch;
-	- **(b)** cattle that are slaughtered, cut up or deboned at an abattoir if no parts of the carcass of any animal, other than those that are for human consumption as food, are removed from the premises of the abattoir; or
+- **(2)** Subsection (1) does not apply in respect of
+	- **(a)** cattle that are slaughtered, cut up or deboned on a farm or ranch, as defined in section 172, if the specified risk material from the carcasses of those cattle is not removed from the farm or ranch except for submission to a level 2 containment laboratory;
+	- **(b)** cattle that are slaughtered, cut up or deboned at an abattoir if no parts of the carcass of any animal are removed from the premises of the abattoir, other than those parts that are for human consumption as food or samples that are submitted to a level 2 containment laboratory; or
 	- **(c)** samples of specified risk material, or carcasses — or parts of carcasses — of cattle from which the specified risk material has not been removed, that are submitted to a level 2 containment laboratory.
-> SOR/2006-147, s. 12.
+> SOR/2006-147, s. 12; SOR/2009-220, s. 3.
 
 
 
@@ -2843,8 +2843,8 @@ and shall be marked with the words “For veterinary use only” or “*Pour usa
 ### Importation or Sale of Products of Rendering Plants
 
 
-**167** No person who imports or has the possession, care or control of a product of a rendering plant shall sell or distribute the product unless the documentation required by these Regulations relating to the product and any label on any packaging or container containing the product is marked conspicuously, legibly and indelibly with the statement referred to in subsection 165(3).
-> SOR/97-362, s. 4.
+**167** No person who imports or has the possession, care or control of a product of a rendering plant shall sell or distribute the product unless the documentation required by these Regulations relating to the product and any label on any packaging or container containing the product is marked conspicuously, legibly and indelibly with the statement referred to in subsection 165(4).
+> SOR/97-362, s. 4; SOR/2009-220, s. 4.
 
 
 
