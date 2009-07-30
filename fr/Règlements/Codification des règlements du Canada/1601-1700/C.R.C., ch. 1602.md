@@ -116,7 +116,7 @@ Autorités habilitantes :
 **7** Pour établir la qualité d’époux ou de conjoint de fait du requérant, le ministre peut accepter :
 - **a)** un acte ou un certificat de mariage ou tout autre document établissant la qualité d’époux du requérant;
 - **b)** toute preuve de la qualité de conjoint de fait du requérant.
-> DORS/84-784, art. 4; DORS/2004-68, art. 6.
+> DORS/84-784, art. 4; DORS/2004-68, art. 6; DORS/2009-225, art. 21(A).
 
 
 
@@ -222,8 +222,8 @@ Autorités habilitantes :
 
 - **(1)** L’allocataire doit immédiatement aviser le ministre de tout changement de sa situation ou de celle de son époux ou conjoint de fait, selon le cas, qui entraîne un changement de la catégorie de bénéficiaire ou du facteur revenu figurant respectivement aux colonnes I et II de l’annexe de la Loi.
 
-- **(2)** Un allocataire qui, sans motif raisonnable, enfreint les dispositions du paragraphe (1) est passible, sur déclaration sommaire de culpabilité, d’une amende d’au plus 15 $ ou d’un emprisonnement d’au plus un mois.
-> DORS/84-784, art. 8; DORS/86-391, art. 5; DORS/90-415, art. 2; DORS/2004-68, art. 12.
+- **(2)** [Abrogé, DORS/2009-225, art. 22]
+> DORS/84-784, art. 8; DORS/86-391, art. 5; DORS/90-415, art. 2; DORS/2004-68, art. 12; DORS/2009-225, art. 22.
 
 
 
@@ -267,7 +267,7 @@ Autorités habilitantes :
 - **(3)** L’ancien combattant et son époux ou conjoint de fait ou le survivant ou l’orphelin de l’ancien combattant qui seraient admissibles à une allocation s’ils ne touchaient pas une prestation de sécurité de la vieillesse, qui veulent établir leur résidence hors du Canada pour une période de plus de six mois, et dont la prestation de sécurité de la vieillesse, ou toute partie de celle-ci, cesserait dès leur départ du Canada peuvent, à compter du premier jour du troisième mois précédant celui dans lequel est comprise la date de départ prévue, choisir par écrit de renoncer, en tout ou en partie, à cette prestation afin de devenir allocataires avant leur départ.
 
 - **(4)** La prestation de sécurité de la vieillesse — ou, le cas échéant, toute partie de celle-ci — faisant l’objet de la renonciation mentionnée au paragraphe (3) n’est pas considérée comme un avantage mensuel réputé être payable aux termes du sous-alinéa 4(3)c)(i) de la Loi.
-> DORS/84-784, art. 9; DORS/86-632, art. 1; DORS/90-415, art. 3; DORS/91-308, art. 2; DORS/2004-68, art. 14.
+> DORS/84-784, art. 9; DORS/86-632, art. 1; DORS/90-415, art. 3; DORS/91-308, art. 2; DORS/2004-68, art. 14; DORS/2009-225, art. 23(A).
 
 
 
@@ -279,7 +279,7 @@ Autorités habilitantes :
 **15** Pour l’application du paragraphe 4(8) de la Loi, les raisons pour lesquelles le demandeur ou le bénéficiaire et son époux ou conjoint de fait ne cohabitent pas sont les suivantes :
 - **a)** l’état physique ou émotif du demandeur ou du bénéficiaire, de son époux ou conjoint de fait ou d’un enfant à charge de ceux-ci les en empêche;
 - **b)** le demandeur ou le bénéficiaire et son époux ou conjoint de fait ne peuvent cohabiter pour des raisons indépendantes de leur volonté et sont qualifiés de célibataires aux fins de versement de toute prestation de sécurité de la vieillesse.
-> DORS/79-50, art. 2; DORS/80-470, art. 1; DORS/80-569, art. 2; DORS/83-233, art. 2; DORS/84-510, art. 6; DORS/86-221, art. 3(F); DORS/91-308, art. 3; DORS/2004-68, art. 14.
+> DORS/79-50, art. 2; DORS/80-470, art. 1; DORS/80-569, art. 2; DORS/83-233, art. 2; DORS/84-510, art. 6; DORS/86-221, art. 3(F); DORS/91-308, art. 3; DORS/2004-68, art. 14; DORS/2009-225, art. 24(A).
 
 
 
