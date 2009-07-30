@@ -113,10 +113,10 @@ Enabling authorities:
 ## Status of Spouse or Common-law Partner
 
 
-**7** For the purpose of determining the applicant’s status as a spouse or common-law partner, the Minister may accept
+**7** For the purpose of determining the applicant’s status as a spouse or common-law partner, the Minister shall accept
 - **(a)** a marriage certificate or any other document that establishes the applicant’s status as a spouse; or
 - **(b)** any evidence that establishes the applicant’s status as a common-law partner.
-> SOR/84-784, s. 4; SOR/2004-68, s. 6.
+> SOR/84-784, s. 4; SOR/2004-68, s. 6; SOR/2009-225, s. 21(E).
 
 
 
@@ -223,8 +223,8 @@ exceeds
 
 - **(1)** Every recipient shall immediately notify the Minister of any change in the circumstances of the recipient or the recipient’s spouse or common-law partner, as the case may be, that results in a change in the class of the recipient as set out in column I of the schedule to the Act or the income factor of the recipient as set out in column II of that schedule.
 
-- **(2)** A recipient who fails without reasonable excuse to comply with subsection (1) is liable on summary conviction to a fine not exceeding $15 or to imprisonment for a term not exceeding one month.
-> SOR/84-784, s. 8; SOR/86-391, s. 5; SOR/90-415, s. 2; SOR/2004-68, s. 12.
+- **(2)** [Repealed, SOR/2009-225, s. 22]
+> SOR/84-784, s. 8; SOR/86-391, s. 5; SOR/90-415, s. 2; SOR/2004-68, s. 12; SOR/2009-225, s. 22.
 
 
 
@@ -261,14 +261,14 @@ exceeds
 
 **14** 
 
-- **(1)** Subject to subsection (2), where a veteran and the veteran’s spouse or common-law partner, or the veteran’s survivor or orphan, as the case may be, has applied for or is in receipt of an allowance and would also be eligible for an old age security benefit if they applied for one, the current monthly benefit deemed to be payable for the purposes of subparagraph 4(3)(c)(i) of the Act, shall be the amount of the old age security benefit that they would be eligible to receive, starting in the fourth month after the old age security benefit became payable.
+- **(1)** Subject to subsection (2), where a veteran and the veteran’s spouse or common-law partner, or the veteran’s survivor or orphan, as the case may be, has applied for or is in receipt of an allowance and would also be eligible for an old age security benefit if they applied for one, the current monthly benefit deemed to be payable, for the purposes of subparagraph 4(3)(c)(i) of the Act, shall be the amount of the old age security benefit that they would be eligible to receive, starting in the fourth month after the old age security benefit became payable.
 
 - **(2)** Where a veteran and the veteran’s spouse or common-law partner, or the veteran’s survivor or orphan, as the case may be, has duly applied for an old age security benefit and receipt of it is delayed by circumstances beyond their control, the Minister shall assess the old age security benefit as a current monthly benefit payable for the purposes of subparagraph 4(3)(c)(i) of the Act effective the first day of the month in which payment of it is received.
 
 - **(3)** Where a veteran and the veteran’s spouse or common-law partner, or the veteran’s survivor or orphan, as the case may be, who would be eligible for an allowance if they were not receiving an old age security benefit, wishes to take up residence outside Canada for a period longer than six months and the old age security benefit, in whole or in part, would be discontinued following departure from Canada, they may, as of the first day of the month that is three months prior to the anticipated date of departure, elect in writing to forego the old age security benefit, in whole or in part, in order to be in receipt of an allowance prior to leaving Canada.
 
 - **(4)** The old age security benefit, or the part of it, that is foregone under subsection (3) shall not be regarded as a current monthly benefit deemed to be payable for the purposes of subparagraph 4(3)(c)(i) of the Act.
-> SOR/84-784, s. 9; SOR/86-632, s. 1; SOR/90-415, s. 3; SOR/91-308, s. 2; SOR/2004-68, s. 14.
+> SOR/84-784, s. 9; SOR/86-632, s. 1; SOR/90-415, s. 3; SOR/91-308, s. 2; SOR/2004-68, s. 14; SOR/2009-225, s. 23(E).
 
 
 
@@ -279,8 +279,8 @@ exceeds
 
 **15** For the purposes of subsection 4(8) of the Act, an applicant or recipient and their spouse or common-law partner are not residing together if
 - **(a)** as the result of a physical or emotional condition of the applicant or recipient or their spouse or common-law partner, or of a dependent child, the couple is unable to reside together; or
-- **(b)** the applicant or recipient and their spouse or common-law partner are unable to reside together as the result of circumstances beyond their control and, the couple has been classified as recipients of any old age security benefit at the single rate.
-> SOR/79-50, s. 2; SOR/80-470, s. 1; SOR/80-569, s. 2; SOR/83-233, s. 2; SOR/84-510, s. 6; SOR/86-221, s. 3(F); SOR/91-308, s. 3; SOR/2004-68, s. 14.
+- **(b)** the applicant or recipient and their spouse or common-law partner are unable to reside together as the result of circumstances beyond their control and the couple has been classified as recipients of any old age security benefit at the single rate.
+> SOR/79-50, s. 2; SOR/80-470, s. 1; SOR/80-569, s. 2; SOR/83-233, s. 2; SOR/84-510, s. 6; SOR/86-221, s. 3(F); SOR/91-308, s. 3; SOR/2004-68, s. 14; SOR/2009-225, s. 24(E).
 
 
 
