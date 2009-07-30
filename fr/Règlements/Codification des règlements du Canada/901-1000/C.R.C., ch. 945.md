@@ -1639,7 +1639,12 @@ sur
 	- **b)** le contrat de rente visé aux alinéas 148(1)c) ou e) de la Loi;
 	- **c)** le contrat de rente :
 		- **(i)** en vertu duquel des versements de rente ont commencé à être faits au cours de cette année d’imposition ou d’une année d’imposition antérieure,
-		- **(ii)** émis par un émetteur qui est soit une société visée à l’un des alinéas 39(5)b) à d) ou au sous-alinéa b)(ii) de la définition de ***régime d’épargne-retraite*** au paragraphe 146(1) de la Loi, soit une compagnie d’assurance-vie, soit un organisme de bienfaisance enregistré, soit une société — à l’exception d’une société de placement à capital variable et d’une société de placement hypothécaire — dont l’activité principale consiste à consentir des prêts,
+		- **(ii)** émis par l’une des personnes suivantes (appelée « émetteur » au présent article) :
+			- **(A)** une compagnie d’assurance-vie,
+			- **(B)** un organisme de bienfaisance enregistré,
+			- **(C)** une société visée à l’un des alinéas a) à c) de la définition de ***institution financière déterminée*** au paragraphe 248(1) de la Loi,
+			- **(D)** une société visée au sous-alinéa b)(ii) de la définition de ***régime d’épargne-retraite*** au paragraphe 146(1) de la Loi,
+			- **(E)** une société, sauf une société de placement à capital variable ou une société de placement hypothécaire, dont l’activité principale consiste à consentir des prêts,
 		- **(iii)** dont chaque détenteur :
 			- **(A)** est un particulier, à l’exception d’une fiducie qui n’est ni une fiducie visée à l’alinéa 104(4)a) de la Loi (appelée « la fiducie déterminée » dans le présent alinéa), ni une fiducie testamentaire,
 			- **(B)** est rentier en vertu du contrat, et
@@ -1676,7 +1681,7 @@ sur
 - **(4)** Pour l’application du présent article, est rentier en vertu d’un contrat de rente à un moment donné la personne qui est en droit de recevoir des versements en vertu du contrat à ce moment.
 
 - **(5)** Pour l’application du présent article, est assimilé à l’époux ou à l’ex-époux d’un particulier donné le particulier qui est partie, avec lui, à un mariage nul ou annulable.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/82-499, art. 3; DORS/83-865, art. 5; DORS/86-488, art. 1; DORS/88-165, art. 2; DORS/88-319, art. 1; DORS/94-415, art. 1; DORS/94-686, art. 2(F); DORS/2001-188, art. 3; DORS/2001-216, art. 10(F); DORS/2007-116, art. 1; 2009, ch. 2, art. 90.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/82-499, art. 3; DORS/83-865, art. 5; DORS/86-488, art. 1; DORS/88-165, art. 2; DORS/88-319, art. 1; DORS/94-415, art. 1; DORS/94-686, art. 2(F); DORS/2001-188, art. 3; DORS/2001-216, art. 10(F); DORS/2007-116, art. 1; 2009, ch. 2, art. 90; DORS/2009-222, art. 1.
 
 
 
@@ -7390,32 +7395,45 @@ représente par rapport
 	- **(ii)** au total des montants suivants :
 		- **(A)** sa réserve actuarielle maximale moyenne aux fins de l’impôt, pour l’année, à l’égard d’une catégorie de polices d’assurance-vie au Canada, et
 		- **(B)** le montant moyen en dépôt auprès de lui pour l’année à l’égard d’une catégorie de polices visées à la disposition (A);
+- **a.1)** inclure la somme obtenue par la formule suivante :
+```
+(A + B) × C/D
+```
+où :
+- **A** représente la somme à inclure en application du paragraphe 142.5(5) de la Loi dans le calcul de son revenu pour l’année,
+- **B** la somme qui est réputée, en vertu du paragraphe 142.5(7) de la Loi, être son gain en capital imposable pour l’année provenant de la disposition d’un bien,
+- **C** le total déterminé selon le sous-alinéa a)(i) pour son année d’imposition qui comprend le 31 octobre 1994,
+- **D** le total déterminé selon le sous-alinéa a)(ii) pour son année d’imposition qui comprend le 31 octobre 1994;
 - **b)** inclure
 	- **(i)** le montant qu’il a déduit en vertu du sous-alinéa 138(3)a)(iv) de la Loi dans le calcul de son revenu pour l’année d’imposition précédente,
 	- **(ii)** le montant de sa réserve actuarielle maximale aux fins de l’impôt pour l’année d’imposition précédente, à l’égard des polices d’assurance-vie avec participation au Canada,
-	- **(iii)** la somme maximale qu’il peut déduire en application du sous-alinéa 138(3)a)(ii) de la Loi dans le calcul de son revenu pour l’année d’imposition précédente, à l’égard des polices d’assurance-vie avec participation au Canada,
-	- **(iv)** le produit obtenu en multipliant le montant qu’il a inclus dans son revenu pour l’année en application de l’article 12.3 de la Loi par le rapport entre le montant visé à la division (A) et le montant visé à la division (B) :
-		- **(A)** le montant calculé selon la division f)(iii)(A) pour sa première année d’imposition commençant après le 17 juin 1987 et se terminant après 1987,
-		- **(B)** le montant calculé selon la division f)(iii)(B) pour sa première année d’imposition commençant après le 17 juin 1987 et se terminant après 1987;
+	- **(iii)** la somme maximale qu’il peut déduire en application du sous-alinéa 138(3)a)(ii) de la Loi dans le calcul de son revenu pour l’année d’imposition précédente, à l’égard des polices d’assurance-vie avec participation au Canada;
+	- **(iv)** [Abrogé, DORS/2009-222, art. 2]
 - **c)** n’inclure aucune somme à l’égard de ses polices d’assurance-vie avec participation au Canada, qu’il a déduite en application du sous-alinéa 138(3)a)(i) ou (ii) de la Loi dans le calcul de son revenu pour l’année d’imposition précédente;
 - **d)** sauf disposition contraire à l’alinéa a), n’inclure aucun montant, à titre de provision, qu’il a déduit en application de l’alinéa 20(1)l) de la Loi dans le calcul de son revenu pour l’année d’imposition précédente;
-- **e)** sauf disposition contraire à l’alinéa a), n’inclure aucun des montants suivants :
-	- **(i)** un montant qu’il a inclus en application de l’alinéa 138(4)b) ou c) de la Loi dans son revenu pour l’année,
-	- **(ii)** un montant qu’il inclut dans le calcul de ses gains ou de ses gains en capital imposables pour l’année provenant de la disposition de biens;
+- **e)** sauf disposition contraire énoncée à l’alinéa a), n’inclure aucune somme qu’il a incluse dans le calcul de ses revenus bruts de placements en assurance-vie au Canada pour l’année;
+- **e.1)** sauf disposition contraire énoncée à l’alinéa a.1), n’inclure aucune des sommes représentées par les éléments A et B de la formule figurant à cet alinéa;
+- **e.2)** si l’année comprend le 31 octobre 1994, déduire la somme obtenue par la formule suivante :
+```
+(A + B) × C/D
+```
+où :
+- **A** représente la somme déduite en application du paragraphe 142.5(4) de la Loi dans le calcul de son revenu pour l’année,
+- **B** la somme qui est réputée, en vertu du paragraphe 142.5(6) de la Loi, être sa perte en capital déductible pour l’année résultant de la disposition d’un bien,
+- **C** le total déterminé selon le sous-alinéa a)(i) pour l’année,
+- **D** le total déterminé selon le sous-alinéa a)(ii) pour l’année;
 - **f)** déduire, à la fois :
 	- **(i)** sa réserve actuarielle maximale aux fins de l’impôt pour l’année, à l’égard des polices d’assurance-vie avec participation au Canada,
-	- **(ii)** la somme maximale qu’il peut déduire en application du sous-alinéa 138(3)a)(ii) de la Loi dans le calcul de son revenu pour l’année, à l’égard des polices d’assurance-vie avec participation au Canada,
-	- **(iii)** le produit obtenu en multipliant le montant qu’il a déduit de son revenu pour l’année en application du paragraphe 20(26) par le rapport entre le montant visé à la division (A) et le montant visé à la division (B) :
-		- **(A)** le montant calculé à son égard pour l’année selon le sous-alinéa a)(i),
-		- **(B)** le montant calculé à son égard pour l’année selon le sous-alinéa a)(ii);
+	- **(ii)** la somme maximale qu’il peut déduire en application du sous-alinéa 138(3)a)(ii) de la Loi dans le calcul de son revenu pour l’année, à l’égard des polices d’assurance-vie avec participation au Canada;
+	- **(iii)** [Abrogé, DORS/2009-222, art. 2]
 - **g)** n’opérer aucune déduction permise en vertu du sous-alinéa 138(3)a)(iii) ou (iv) de la Loi dans le calcul de son revenu pour l’année;
-- **h)** sauf disposition contraire à l’alinéa a), n’opérer aucune déduction au titre des montants suivants :
-	- **(i)** un montant déductible en application de l’alinéa 138(3)b) ou d) de la Loi dans le calcul de son revenu pour l’année,
-	- **(ii)** un montant déductible à titre de provision en application de l’alinéa 20(1)l) de la Loi dans le calcul de son revenu pour l’année,
-	- **(iii)** un montant inclus dans le calcul de ses pertes ou de ses pertes en capital déductibles pour l’année résultant de la disposition de biens;
+- **h)** sauf disposition contraire énoncée à l’alinéa a), n’opérer aucune déduction au titre des sommes suivantes :
+	- **(i)** une somme prise en compte dans le calcul de ses revenus bruts de placements en assurance-vie au Canada pour l’année,
+	- **(ii)** une somme déductible en application de l’alinéa 20(1)l) de la Loi dans le calcul de son revenu pour l’année;
+- **h.1)** sauf disposition contraire énoncée à l’alinéa e.2), n’opérer aucune déduction au titre des sommes représentées par les éléments A et B de la formule figurant à cet alinéa;
 - **i)** sauf disposition contraire à l’alinéa f), n’opérer aucune déduction au titre d’une réserve déductible en application du sous-alinéa 138(3)a)(i) ou (ii) de la Loi dans le calcul de son revenu pour l’année;
 - **j)** sauf disposition contraire dans le présent article, se conformer aux dispositions de la Loi concernant le calcul du revenu tiré d’une source donnée.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-670, art. 4; DORS/83-865, art. 7; DORS/90-661, art. 7.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-670, art. 4; DORS/83-865, art. 7; DORS/90-661, art. 7; DORS/2009-222, art. 2.
 
 
 
@@ -7455,11 +7473,11 @@ représente par rapport
 **2405** 
 
 - **(1)** Dans la présente partie,
-	- **a)** «amortissement total» a le sens que lui prête l’alinéa 13(21)e) de la Loi;
-	- **b)** «avance sur police», «biens non réservés», «déficit accumulé pour 1968», «fonds excédentaire résultant de l’activité», «montant payable», «police d’assurance-vie», «police d’assurance-vie au Canada», «police d’assurance-vie avec participation», «réserve actuarielle maximale aux fins de l’impôt» et «revenus bruts de placements» ont le sens que leur prête le paragraphe 138(12) de la Loi; et
-	- **c)** «fonds réservé» et «polices à fonds réservé» ont le sens que leur prête le paragraphe 138.1(1) de la Loi.
+	- **a)** ***amortissement total*** a le sens que lui prête l’alinéa 13(21)e) de la Loi;
+	- **b)** ***avance sur police***, ***biens non réservés***, ***déficit accumulé pour 1968***, ***fonds excédentaire résultant de l’activité***, ***montant payable***, ***police d’assurance-vie***, ***police d’assurance-vie au Canada***, ***police d’assurance-vie avec participation***, ***réserve actuarielle maximale aux fins de l’impôt*** et ***revenus bruts de placements*** ont le sens que leur prête le paragraphe 138(12) de la Loi; et
+	- **c)** ***fonds réservé*** et ***polices à fonds réservé*** ont le sens que leur prête le paragraphe 138.1(1) de la Loi.
 
-- **(2)** Aux fins du paragraphe 138(14) de la Loi, les expressions «fonds de placement canadien pour une année d’imposition», «actifs canadiens déterminés» et «valeur pour l’année d’imposition» ont le sens que leur prête le paragraphe 2404(1) tel qu’il s’appliquait à l’année d’imposition 1977.
+- **(2)** Aux fins du paragraphe 138(14) de la Loi, les expressions ***fonds de placement canadien pour une année d’imposition***, ***actifs canadiens déterminés*** et ***valeur pour l’année d’imposition*** ont le sens que leur prête le paragraphe 2404(1) tel qu’il s’appliquait à l’année d’imposition 1977.
 
 - **(3)** Dans la présente partie et aux fins de l’alinéa 219(7)a) de la Loi,
 
@@ -7481,7 +7499,9 @@ représente par rapport
 	- **(i)** d’une part, la valeur globale pour l’année des avoirs canadiens dont la société désignée, la société de personnes ou la fiducie, selon le cas, est propriétaire,
 	- **(ii)** d’autre part, la valeur globale pour l’année des biens dont la société désignée, la société de personnes ou la fiducie, selon le cas, est propriétaire. (*Canadian equity property*)
 
-***biens de l’assureur en voie d’aménagement***[Abrogée, DORS/90-661, art. 8]
+***bien d’entreprise canadien*** Est un bien d’entreprise canadien d’un assureur pour une année d’imposition relativement à une entreprise d’assurance :
+- **a)** le bien qu’il utilise ou détient pendant l’année dans le cadre de l’exploitation de l’entreprise au Canada, s’il a résidé au Canada tout au long de l’année sans exploiter d’entreprise d’assurance-vie au cours de l’année et sans exploiter d’entreprise d’assurance à l’étranger au cours de l’année;
+- **b)** le bien désigné en application du paragraphe 2400(1) pour l’année relativement à l’entreprise, dans les autres cas. (*Canadian business property*)
 
 ***bien de placement*** d’un assureur pour une année d’imposition désigne un bien non réservé
 - **a)** qui est acquis par lui en vue de gagner des revenus bruts de placements, à l’exclusion
@@ -7528,6 +7548,8 @@ en présumant, aux fins des sous-alinéas (iv) et (v), que la définition de ***
 	- **(ii)** soit une participation dans une société de personnes,
 	- **(iii)** soit une participation dans une fiducie qui réside au Canada,
 à condition que les biens visés aux alinéas a) à f) comptent pour au moins 75 pour cent de la valeur globale, pour l’année, de tous les biens de la société, de la société de personnes ou de la fiducie, selon le cas. (*Canadian investment property*)
+
+***biens de l’assureur en voie d’aménagement***[Abrogée, DORS/90-661, art. 8]
 
 ***excédent provenant d’assurance de biens et de risques divers*** d’un assureur, pour une année d’imposition, désigne la somme des montants suivants :
 - **a)** 15 pour cent de la moitié du total
@@ -7630,7 +7652,7 @@ sur le total
 - **b)** lorsque l’assureur n’exerce pas le choix visé à l’alinéa a) pour l’année, mais
 	- **(i)** l’a exercé pour l’une des quatre années d’imposition précédentes, et
 	- **(ii)** que son facteur d’excédent d’assurance-vie pour l’année n’est pas calculé conformément à l’alinéa c) de la définition de ***facteur d’excédent d’assurance-vie*** au présent paragraphe,
-le montant qui aurait constitué le plafond de ses avoirs pour l’année s’il avait été un assureur sur la vie résidant au Canada et enregistré en vertu de la Loi sur les compagnies d’assurance canadiennes et britanniques afin d’exploiter une entreprise d’assurance au Canada et qu’il n’avait exploité aucune entreprise d’assurance-vie autre qu’une entreprise d’assurance contre les accidents et la maladie, qui est égal au montant du dernier choix exercé pour une année d’imposition, calculé conformément au sous-alinéa a)(i) de la définition, au présent paragraphe, du «plafond des avoirs pour l’année», et
+le montant qui aurait constitué le plafond de ses avoirs pour l’année s’il avait été un assureur sur la vie résidant au Canada et enregistré en vertu de la Loi sur les compagnies d’assurance canadiennes et britanniques afin d’exploiter une entreprise d’assurance au Canada et qu’il n’avait exploité aucune entreprise d’assurance-vie autre qu’une entreprise d’assurance contre les accidents et la maladie, qui est égal au montant du dernier choix exercé pour une année d’imposition, calculé conformément au sous-alinéa a)(i) de la définition, au présent paragraphe, du « plafond des avoirs pour l’année », et
 - **c)** dans les autres cas, le montant correspondant à 8 pour cent du fonds de placement canadien pour l’année de l’assureur; (*Life equity limit*)
 
 ***plafond des avoirs pour l’année*** S’entend des montants suivants pour une année d’imposition :
@@ -7658,19 +7680,20 @@ le montant qui aurait constitué le plafond de ses avoirs pour l’année s’il
 - **b)** de sa réserve actuarielle maximale aux fins de l’impôt à l’égard de cette catégorie de polices pour l’année d’imposition précédente; (*mean maximum tax actuarial reserve*)
 
 ***revenus bruts de placements en assurance-vie au Canada*** d’un assureur sur la vie pour une année d’imposition, s’entend de l’excédent éventuel du total des montants suivants :
-- **a)** les revenus bruts de placements de l’assureur pour l’année, dans la mesure où ils proviennent de biens non réservés que l’assureur utilise ou détient dans l’année dans le cadre de l’exploitation de son entreprise d’assurance-vie au Canada,
+- **a)** ses revenus bruts de placements pour l’année, dans la mesure où ils proviennent de ses biens d’entreprise canadiens pour l’année relativement à son entreprise d’assurance-vie,
 - **b)** le montant inclus en application de l’alinéa 138(9)b) de la Loi dans le calcul de son revenu pour l’année,
-- **c)** les montants inclus en application des alinéas 138(4)b) et c) de la Loi dans le calcul de son revenu pour l’année,
-- **d)** la partie du montant inclus en application de l’alinéa 12(1)d) de la Loi dans le calcul de son revenu pour l’année au titre de montants déduits en application de l’alinéa 20(1)l) de la Loi dans le calcul de son revenu pour l’année d’imposition précédente relativement à un titre du Canada, au sens de l’alinéa 138(12)c) de la Loi, dont il est propriétaire,
-- **e)** le montant inclus dans le calcul de ses gains pour l’année provenant de la disposition de biens (à l’exception de titres du Canada et d’immobilisations),
-- **f)** le montant inclus dans le calcul de ses gains en capital imposables pour l’année provenant de la disposition de biens,
-- **g)** le montant déduit en application de l’alinéa 138(3)c) de la Loi (dans sa version applicable aux années d’imposition commençant avant le 17 juin 1987 ou se terminant avant 1988) dans le calcul de son revenu pour l’année d’imposition précédente,
+- **c)** [Abrogé, DORS/2009-222, art. 3]
+- **d)** la partie de la somme déduite en application de l’alinéa 20(1)l) de la Loi dans le calcul de son revenu pour l’année d’imposition précédente au titre de ses biens d’entreprise canadiens pour cette année relativement à son entreprise d’assurance-vie,
+- **d.1)** le total des sommes représentant chacune une somme incluse en application de l’article 142.4 de la Loi dans son revenu pour l’année au titre d’un bien dont il a disposé et qui, au cours de l’année d’imposition de la disposition, faisait partie de ses biens d’entreprise canadiens pour cette année relativement à son entreprise d’assurance-vie,
+- **e)** le total des sommes représentant chacune son gain pour l’année provenant de la disposition d’un de ses biens d’entreprise canadiens pour l’année relativement à son entreprise d’assurance-vie, à l’exception d’une immobilisation et d’un bien auquel s’applique l’article 142.4 de la Loi,
+- **f)** le total des sommes représentant chacune son gain en capital imposable pour l’année provenant de la disposition d’un de ses biens d’entreprise canadiens pour l’année relativement à son entreprise d’assurance-vie,
+- **g) et h) ** [Abrogés, DORS/2009-222, art. 3]
 
 sur le total des montants suivants :
-- **h)** les montants déduits en application des alinéas 138(3)b) et d) de la Loi dans le calcul de son revenu pour l’année;
-- **i)** le montant déduit en application de l’alinéa 20(1)l) de la Loi dans le calcul de son revenu pour l’année relativement à un titre du Canada, au sens de l’alinéa 138(12)c) de la Loi, dont il est propriétaire;
-- **j)** le montant inclus dans le calcul de ses pertes pour l’année résultant de la disposition de biens (à l’exception de titres du Canada et d’immobilisations);
-- **k)** le montant inclus dans le calcul de ses pertes en capital déductibles pour l’année résultant de la disposition de biens. (*gross Canadian life investment income*)
+- **i)** la partie de la somme déduite en application de l’alinéa 20(1)l) de la Loi dans le calcul de son revenu pour l’année relativement à des titres de créance qui font partie de ses biens d’entreprise canadiens pour l’année relativement à son entreprise d’assurance-vie,
+- **i.1)** le total des sommes représentant chacune une somme déductible en application de l’article 142.4 de la Loi dans le calcul de son revenu pour l’année relativement à un bien dont il a disposé et qui, au cours de l’année d’imposition de la disposition, faisait partie de ses biens d’entreprise canadiens pour cette année relativement à son entreprise d’assurance-vie,
+- **j)** le total des sommes représentant chacune sa perte pour l’année résultant de la disposition d’un de ses biens d’entreprise canadiens pour l’année relativement à son entreprise d’assurance-vie, à l’exception d’une immobilisation et d’un bien auquel s’applique l’article 142.4 de la Loi,
+- **k)** le total des sommes représentant chacune sa perte en capital déductible pour l’année résultant de la disposition d’un de ses biens d’entreprise canadiens pour l’année relativement à son entreprise d’assurance-vie. (*gross Canadian life investment income*)
 
 ***société désignée*** S’entend, en ce qui concerne un assureur à un moment d’une année d’imposition, d’une société dans laquelle l’assureur ou l’assureur et des personnes ou sociétés de personnes avec lesquelles il a un lien de dépendance détiennent, à un moment de l’année, des actions qui représentent au moins 30 pour cent des actions ordinaires de la société en circulation à ce moment. (*designated corporation*)
 
@@ -7712,8 +7735,10 @@ par rapport
 	- **(i)** de la valeur du bien à la fin de l’année, et
 	- **(ii)** de la valeur du bien à la fin de l’année d’imposition précédente. (*value for the year*)
 
-- **(4)** Aux fins de la définition, au paragraphe (3), de «fonds de placement canadien» d’un assureur sur la vie résidant au Canada, et nonobstant les définitions de «passif de réserve canadienne» et «total du passif de réserve» au même paragraphe, l’assureur doit déterminer son passif et ses réserves à l’égard de ses polices d’assurance hors du Canada selon une méthode compatible avec celle qu’il a utilisée pour déterminer son passif et ses réserves à l’égard de ses polices d’assurance au Canada.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-89, art. 1; DORS/79-670, art. 4; DORS/80-419, art. 4; DORS/80-618, art. 6; DORS/81-632, art. 2; DORS/90-661, art. 8; DORS/92-681, art. 3; DORS/94-686, art. 55(F), 62, 69(F), 78(F) et 79(F).
+- **(4)** Aux fins de la définition, au paragraphe (3), de ***fonds de placement canadien*** d’un assureur sur la vie résidant au Canada, et nonobstant les définitions de ***passif de réserve canadienne*** et ***total du passif de réserve*** au même paragraphe, l’assureur doit déterminer son passif et ses réserves à l’égard de ses polices d’assurance hors du Canada selon une méthode compatible avec celle qu’il a utilisée pour déterminer son passif et ses réserves à l’égard de ses polices d’assurance au Canada.
+
+- **(5)** Pour l’application du paragraphe (3), le coût d’un bien est déterminé compte non tenu du paragraphe 142.5(2) de la Loi.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-89, art. 1; DORS/79-670, art. 4; DORS/80-419, art. 4; DORS/80-618, art. 6; DORS/81-632, art. 2; DORS/90-661, art. 8; DORS/92-681, art. 3; DORS/94-686, art. 55(F), 62, 69(F), 78(F) et 79(F); DORS/2009-222, art. 3.
 
 
 
@@ -7894,18 +7919,20 @@ A - B
 où 
 - **A** représente le total des montants suivants qui sont déterminés relativement au bien pour l’année, ou qui le seraient si le bien était un bien d’assurance désigné de l’assureur relativement à une entreprise d’assurance au Canada pour chaque année d’imposition pendant laquelle il l’a détenu :
 - **a)** les revenus bruts de placements de l’assureur pour l’année provenant du bien, à l’exception des dividendes imposables qui sont ou seraient déductibles en application de l’article 112 ou du paragraphe 138(6) de la Loi dans le calcul de son revenu imposable pour l’année,
-- **b)** les montants qui sont ou seraient inclus en application des alinéas 138(4)b) et c) de la Loi dans le calcul du revenu de l’assureur pour l’année au titre du bien,
+- **b)** [Abrogé, DORS/2009-222, art. 4]
 - **c)** les montants qui sont ou seraient inclus dans le calcul des gains en capital imposables de l’assureur pour l’année provenant de la disposition du bien,
-- **d)** les montants qui sont ou seraient inclus dans le calcul des gains de l’assureur pour l’année provenant de la disposition du bien, à l’exception d’un titre du Canada et d’une immobilisation,
+- **c.1) ** les sommes qui sont ou seraient incluses en application de l’alinéa 142.4(5)e) de la Loi au titre du bien dans le calcul du revenu de l’assureur pour l’année,
+- **d) ** les sommes qui sont ou seraient incluses dans le calcul du revenu de l’assureur pour l’année au titre des gains provenant de la disposition du bien, sauf s’il s’agit d’une immobilisation ou d’un titre de créance déterminé, au sens du paragraphe 142.2(1) de la Loi,
 - **e)** les montants qui sont ou seraient inclus en application du paragraphe 13(1) de la Loi dans le calcul du revenu de l’assureur pour l’année au titre du bien,
 - **f)** les montants qui sont ou seraient inclus en application de l’alinéa 12(1)d), d.1) ou i) de la Loi dans le calcul du revenu de l’assureur pour l’année au titre du bien,
 - **g)** les montants qui sont ou seraient inclus en application du paragraphe 59(3.2) ou (3.3) de la Loi dans le calcul du revenu de l’assureur pour l’année au titre du bien,
 - **h)** les montants qui sont ou seraient inclus en application du paragraphe 14(1) de la Loi dans le calcul du revenu de l’assureur pour l’année au titre du bien,
-- **i)** les autres montants qui sont ou seraient inclus dans le calcul du revenu de l’assureur pour l’année au titre du bien;
-- **B** le total des montants suivants calculés relativement au bien pour l’année, ou qui le seraient s’il s’agissait d’un bien d’assurance de l’assureur pour l’année au titre d’une entreprise d’assurance au Canada :
+- **i) ** les autres sommes qui sont ou seraient incluses dans le calcul du revenu de l’assureur pour l’année au titre du bien, autrement que par l’effet du paragraphe 142.4(4) de la Loi;
+- **B** le total des sommes ci-après qui sont calculées relativement au bien pour l’année ou qui le seraient si le bien était un bien d’assurance désigné de l’assureur relativement à une entreprise d’assurance au Canada pour chaque année d’imposition pendant laquelle il l’a détenu :
 - **a)** les montants qui sont ou seraient inclus dans le calcul des pertes en capital déductibles de l’assureur pour l’année résultant de la disposition du bien,
-- **b)** les montants qui sont ou seraient inclus dans le calcul des pertes de l’assureur pour l’année résultant de la disposition du bien, à l’exception d’un titre du Canada et d’une immobilisation,
-- **c)** les montants qui sont ou seraient déductibles en application des alinéas 138(3)b) et d) de la Loi dans le calcul du revenu de l’assureur pour l’année au titre du bien,
+- **a.1) ** les sommes qui sont ou seraient déductibles en application de l’alinéa 142.4(5)f) de la Loi au titre du bien dans le calcul du revenu de l’assureur pour l’année,
+- **b) ** les sommes qui sont ou seraient déductibles dans le calcul du revenu de l’assureur pour l’année au titre des pertes résultant de la disposition du bien, sauf s’il s’agit d’une immobilisation ou d’un titre de créance déterminé, au sens du paragraphe 142.2(1) de la Loi,
+- **c)** [Abrogé, DORS/2009-222, art. 4]
 - **d)** les montants qui sont ou seraient déductibles dans le calcul du revenu de l’assureur pour l’année en application de l’alinéa 20(1)a) de la Loi au titre du coût en capital du bien ou en application des alinéas 20(1)c) et d) de la Loi au titre des intérêts payés ou payables sur de l’argent emprunté et utilisé pour acquérir le bien,
 - **e)** si le bien est un bien locatif ou un bien donné en location à bail, au sens des paragraphes 1100(14) et (17) respectivement, les montants qui sont ou seraient déductibles dans le calcul du revenu de l’assureur pour l’année au titre des dépenses qui sont directement liées au fait de tirer un revenu de location du bien,
 - **f)** les montants qui sont ou seraient déductibles en application des alinéas 20(1)l), l.1) ou p) de la Loi dans le calcul du revenu de l’assureur pour l’année au titre d’une provision ou d’une créance irrécouvrable relativement au bien,
@@ -7921,7 +7948,7 @@ où
 - **A** représente le total des montants qui sont inclus en application des alinéas 142.4(4)a) et c) de la Loi relativement au bien dans le revenu de l’assureur pour l’année, ou qui le seraient si le bien était un bien d’assurance désigné de l’assureur relativement à une entreprise d’assurance au Canada pour chaque année d’imposition pendant laquelle il l’a détenu;
 - **B** le total des montants qui sont déductibles en application des alinéas 142.4(4)b) et d) de la Loi relativement au bien dans le calcul du revenu de l’assureur pour l’année, ou qui le seraient si le bien était un bien d’assurance désigné de l’assureur relativement à une entreprise d’assurance au Canada pour chaque année d’imposition pendant laquelle il l’a détenu.
 
-- **(5)** Pour l’application du paragraphe (4), le bien que l’assureur ne désigne pas pour l’année en application du paragraphe 2400(1) comme bien de placement qu’il utilise ou détient dans l’année dans le cadre de l’exploitation d’une entreprise d’assurance au Canada est réputé être un bien qu’il utilise ou détient dans l’année dans le cadre de l’exploitation de l’entreprise d’assurance pour laquelle il a indiqué le bien dans son rapport annuel pour l’année à l’autorité compétente. Si l’assureur a été tout au long de l’année sous la surveillance de l’autorité compétente sans être obligé de produire de rapport annuel auprès d’elle pour l’année, le bien est réputé être un bien qu’il utilise ou détient dans l’année dans le cadre de l’exploitation de l’entreprise d’assurance pour laquelle il aurait indiqué le bien dans un rapport annuel pour l’année si l’autorité compétente l’avait exigé.
+- **(5)** [Abrogé, DORS/2009-222, art. 4]
 
 - **(6)** Pour l’application du paragraphe (1), le solde du compte d’excédent cumulatif de l’assureur à la fin d’une année d’imposition correspond à l’excédent éventuel du total visé à l’alinéa a) sur le total visé à l’alinéa b) :
 	- **a)** le total des montants dont chacun représente un montant positif éventuel calculé selon la formule suivante pour chacune de celles de ses sept années d’imposition précédentes commençant après le 17 juin 1987 et se terminant après 1987 :
@@ -7935,7 +7962,7 @@ où les éléments A et B correspondent aux montants calculés selon le paragrap
 - **(7)** [Abrogé, DORS/2000-413, art. 6]
 
 - **(8)** Pour l’application du présent article, les biens de placement étrangers d’un assureur, sauf s’il s’agit d’un assureur non résidant qui a établi que les biens de placement ne sont pas réellement rattachés à ses entreprises d’assurance au Canada, sont ceux de ses biens de placement qui ne constituent pas des biens de placement canadiens.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/90-661, art. 10; DORS/92-681, art. 3(F); DORS/94-686, art. 19(F) et 69(F); DORS/2000-413, art. 6; DORS/2005-393, art. 1.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/90-661, art. 10; DORS/92-681, art. 3(F); DORS/94-686, art. 19(F) et 69(F); DORS/2000-413, art. 6; DORS/2005-393, art. 1; DORS/2009-222, art. 4.
 
 
 
@@ -11956,13 +11983,13 @@ si la contrepartie totale à recevoir à la conversion ou à l’échange du tit
 
 
 
-**6209** Pour l’application de la définition de ***titre de crédit*** au paragraphe 248(1) de la Loi :
+**6209** Pour l’application de la définition de ***titre de crédit*** au paragraphe 248(1) de la Loi :
 - **a)** est une action visée pour une année d’imposition l’action appartenant à une banque qui est une action privilégiée du capital-actions d’une société n’ayant aucun lien de dépendance avec la banque, qu’il est raisonnable de considérer comme tenant lieu d’un prêt consenti à la société ou à une autre société avec laquelle celle-ci a un lien de dépendance et qui est déclarée comme telle dans le rapport annuel de la banque pour l’année présenté à l’autorité compétente ou dans ses états financiers pour l’année si elle a été tout au long de celle-ci sous la surveillance de l’autorité compétente sans être tenue de lui présenter un rapport annuel pour l’année;
-- **b)** est un bien visé pour une année d’imposition le bien qui :
-	- **(i)** s’il est détenu par une banque, est déclaré comme un élément de son compte de négociation dans son rapport annuel pour l’année présenté à l’autorité compétente ou dans ses états financiers pour l’année si elle a été tout au long de celle-ci sous la surveillance de l’autorité compétente sans être tenue de lui présenter un rapport annuel pour l’année,
-	- **(ii)** s’il est détenu par un contribuable autre qu’une banque, est un bien figurant à l’un des inventaires du contribuable à un moment donné de l’année,
+- **b)** est un bien visé pour une année d’imposition le bien qui, selon le cas :
+	- **(i)** est un bien évalué à la valeur du marché, au sens du paragraphe 142.2(1) de la Loi, pour l’année appartenant à une institution financière, au sens de ce paragraphe,
+	- **(ii)** est un bien figurant à l’un des inventaires d’un contribuable au cours de l’année,
 	- **(iii)** est un contrat de location-financement, ou tout autre accord de financement, d’un contribuable déclaré à titre de prêt dans ses états financiers pour l’année, établis en conformité avec les principes comptables généralement reconnus, dans le cas où un montant au titre du bien faisant l’objet du contrat ou de l’accord est déductible en application de l’alinéa 20(1)a) de la Loi dans le calcul du revenu du contribuable pour l’année.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/91-78, art. 3; DORS/94-686, art. 35(F) et 79(F); DORS/99-91, art. 1.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/91-78, art. 3; DORS/94-686, art. 35(F) et 79(F); DORS/99-91, art. 1; DORS/2009-222, art. 5.
 
 
 
@@ -13275,7 +13302,111 @@ où
 
 
 
-**8102. à 8105** [Abrogés, DORS/96-443, art. 3]
+
+### Évaluation à la valeur du marché — Déduction transitoire
+
+
+**8102** 
+
+- **(1)** Pour l’application du présent article, ***bien exclu***, quant à un contribuable, s’entend de tout bien évalué à la valeur du marché qu’il utilise dans le cadre de son entreprise au cours de son année d’imposition qui comprend le 31 octobre 1994, dans le cas où le bien serait vraisemblablement évalué à sa juste valeur marchande en vue du calcul du revenu du contribuable tiré de l’entreprise pour l’année si, à la fois :
+	- **a)** il n’était pas tenu compte du paragraphe 142.5(2) de la Loi;
+	- **b)** le bien était détenu à la fin de l’année.
+
+- **(2)** Pour l’application du paragraphe 142.5(4) de la Loi, le montant à déterminer pour l’année d’imposition d’un contribuable qui comprend le 31 octobre 1994 correspond à l’excédent de la somme visée à l’alinéa a) sur le total des sommes visées aux alinéas b) et c) :
+	- **a)** le total des sommes représentant chacune le bénéfice du contribuable provenant de la disposition d’un bien, sauf une immobilisation ou un bien exclu, dont il est réputé, en vertu du paragraphe 142.5(2) de la Loi, avoir disposé au cours de l’année;
+	- **b)** le total des sommes représentant chacune la perte du contribuable résultant de la disposition d’un bien, sauf une immobilisation ou un bien exclu, dont il est réputé, en vertu du paragraphe 142.5(2) de la Loi, avoir disposé au cours de l’année;
+	- **c)** l’excédent du total visé au sous-alinéa (i) sur le total visé au sous-alinéa (ii) :
+		- **(i)** le total des sommes représentant chacune la perte du contribuable résultant de la disposition, effectuée au cours de l’année, d’un bien évalué à la valeur du marché, à l’exception d’une immobilisation, d’un bien exclu et d’un bien dont il est réputé, en vertu du paragraphe 142.5(2) de la Loi, avoir disposé,
+		- **(ii)** le total des sommes représentant chacune le bénéfice du contribuable provenant de la disposition, effectuée au cours de l’année, d’un bien évalué à la valeur du marché, à l’exception d’une immobilisation, d’un bien exclu et d’un bien dont il est réputé, en vertu du paragraphe 142.5(2) de la Loi, avoir disposé.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/96-443, art. 3; DORS/2009-222, art. 6.
+
+
+
+
+
+### Évaluation à la valeur du marché — Inclusion transitoire
+
+
+**8103** 
+
+- **(1)** Pour l’application du présent article, ***déduction transitoire***, quant à un contribuable, s’entend du montant qu’il déduit en application du paragraphe 142.5(4) de la Loi dans le calcul de son revenu pour son année d’imposition qui comprend le 31 octobre 1994.
+
+- **(2)** Sous réserve des paragraphes (3), (5) et (7), le montant à déterminer, pour l’application du paragraphe 142.5(5) de la Loi, relativement à un contribuable pour une année d’imposition qui se termine après le 30 octobre 1994 correspond à la somme obtenue par la formule suivante :
+```
+A × B/1825
+```
+où :
+- **A** représente le nombre de jours de l’année, exception faite du 29 février, antérieurs au jour qui suit de cinq ans le premier jour de l’année d’imposition du contribuable qui comprend le 31 octobre 1994;
+- **B** la déduction transitoire du contribuable moins la somme à soustraire en application du paragraphe (4) ou de l’alinéa (6)b).
+
+- **(3)** Dans le cas où le paragraphe 88(1) de la Loi s’applique à la liquidation d’un contribuable (appelé « filiale » au présent paragraphe), les règles suivantes s’appliquent :
+	- **a)** la valeur de l’élément A de la formule figurant au paragraphe (2) est déterminée relativement à la filiale compte non tenu des jours postérieurs au jour où ses actifs sont passés à sa société mère lors de la liquidation;
+	- **b)** le montant à déterminer pour l’application du paragraphe 142.5(5) de la Loi relativement à la société mère pour son année d’imposition qui comprend le jour visé à l’alinéa a) correspond au total des sommes suivantes :
+		- **(i)** la somme qui serait déterminée selon le paragraphe (2) relativement à la société mère pour l’année si sa déduction transitoire ne comprenait pas celle de la filiale,
+		- **(ii)** la somme qui serait déterminée selon le paragraphe (2) relativement à la société mère pour l’année si, à la fois :
+			- **(A)** la valeur de l’élément A de la formule figurant à ce paragraphe était déterminée compte non tenu du jour visé à l’alinéa a) et des jours qui lui sont antérieurs,
+			- **(B)** la valeur de l’élément B de la formule figurant à ce paragraphe correspondait à la déduction transitoire de la filiale.
+
+- **(4)** Dans le cas où le paragraphe 138(11.5) ou (11.94) de la Loi s’est appliqué au transfert d’une entreprise d’assurance par un assureur, est à soustraire, dans le calcul de la valeur de l’élément B de la formule figurant au paragraphe (2) relativement à l’assureur pour une année d’imposition qui se termine après qu’il a cessé d’exploiter la totalité ou la presque totalité de l’entreprise, la partie de sa déduction transitoire qui est incluse, par l’effet de l’alinéa 138(11.5)k) de la Loi, dans la déduction transitoire du bénéficiaire du transfert.
+
+- **(5)** Dans le cas où une société de personnes (appelée « nouvelle société de personnes » au présent paragraphe) est réputée, en vertu du paragraphe 98(6) de la Loi, être la continuation d’une autre société de personnes (appelée « société de personnes remplacée » au présent paragraphe), les règles suivantes s’appliquent :
+	- **a)** la valeur de l’élément A de la formule figurant au paragraphe (2) est déterminée relativement à la société de personnes remplacée compte non tenu des jours postérieurs au jour où ses biens sont transférés à la nouvelle société de personnes;
+	- **b)** le montant à déterminer en application du paragraphe 142.5(5) de la Loi relativement à la nouvelle société de personnes pour son année d’imposition qui comprend le jour visé à l’alinéa a) correspond au total des sommes suivantes :
+		- **(i)** la somme qui serait déterminée selon le paragraphe (2) relativement à la nouvelle société de personnes pour l’année si sa déduction transitoire ne comprenait pas celle de la société de personnes remplacée,
+		- **(ii)** la somme qui serait déterminée selon le paragraphe (2) relativement à la nouvelle société de personnes pour l’année si, à la fois :
+			- **(A)** la valeur de l’élément A de la formule figurant à ce paragraphe était déterminée compte non tenu du jour visé à l’alinéa a) et des jours qui lui sont antérieurs,
+			- **(B)** la valeur de l’élément B de la formule figurant à ce paragraphe correspondait à la déduction transitoire de la société de personnes remplacée.
+
+- **(6)** Dans le cas où un contribuable cesse d’exploiter la totalité ou la presque totalité d’une entreprise autrement que par suite d’une unification à laquelle s’applique le paragraphe 87(2) de la Loi, d’une liquidation à laquelle s’applique le paragraphe 88(1) de la Loi ou d’un transfert de l’entreprise auquel s’appliquent les paragraphes 98(6) ou 138(11.5) ou (11.94) de la Loi, les règles suivantes s’appliquent :
+	- **a)** outre la somme visée au paragraphe (2), est à déterminer pour l’application du paragraphe 142.5(5) de la Loi relativement au contribuable pour son année d’imposition au cours de laquelle il cesse d’exploiter l’entreprise l’excédent de la somme visée au sous-alinéa (i) sur la somme visée au sous-alinéa (ii) :
+		- **(i)** la partie de la déduction transitoire du contribuable qu’il est raisonnable d’attribuer à l’entreprise,
+		- **(ii)** la partie du total des sommes incluses en application du paragraphe 142.5(5) de la Loi dans le calcul du revenu du contribuable pour les années d’imposition antérieures qu’il est raisonnable de considérer comme se rapportant à la somme déterminée selon le sous-alinéa (i);
+	- **b)** la somme déterminée selon le sous-alinéa a)(i) est à soustraire dans le calcul de la valeur de l’élément B de la formule figurant au paragraphe (2) relativement au contribuable pour l’année ou pour une année d’imposition postérieure.
+
+- **(7)** Dans le cas où un contribuable cesse d’être une institution financière à un moment donné autrement que pour avoir cessé d’exploiter une entreprise, les règles suivantes s’appliquent :
+	- **a)** le montant à déterminer pour l’application du paragraphe 142.5(5) de la Loi relativement au contribuable pour son année d’imposition qui a pris fin immédiatement avant ce moment correspond à l’excédent de la somme visée au sous-alinéa (i) sur le total visé au sous-alinéa (ii) :
+		- **(i)** la déduction transitoire du contribuable,
+		- **(ii)** le total des sommes incluses en application du paragraphe 142.5(5) de la Loi dans le calcul du revenu du contribuable pour les années d’imposition antérieures;
+	- **b)** le montant à déterminer pour l’application du paragraphe 142.5(5) de la Loi relativement au contribuable pour les années d’imposition postérieures à l’année d’imposition visée à l’alinéa a) est nul.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/96-443, art. 3; DORS/2009-222, art. 6.
+
+
+
+
+
+### Évaluation à la valeur du marché — Perte en capital transitoire
+
+
+**8104** 
+
+- **(1)** Pour l’application du présent article, ***bien exclu***, quant à un contribuable, s’entend de tout bien évalué à la valeur du marché du contribuable pour son année d’imposition qui comprend le 31 octobre 1994 si, selon le cas :
+	- **a)** le contribuable avait un gain en capital imposable ou une perte en capital déductible pour l’année provenant de la disposition des biens auxquels s’applique l’article 142 de la Loi;
+	- **b)** le contribuable est un non-résident au cours de l’année et le bien est une immobilisation autre qu’un bien canadien imposable.
+
+- **(2)** Pour l’application du paragraphe 142.5(6) de la Loi, le montant à déterminer pour l’année d’imposition d’un contribuable qui comprend le 31 octobre 1994 correspond à l’excédent de la somme visée à l’alinéa a) sur le total des sommes visées aux alinéas b) et c) :
+	- **a)** le total des sommes représentant chacune le gain en capital imposable du contribuable pour l’année provenant de la disposition d’un bien, sauf un bien exclu, dont il est réputé, en vertu du paragraphe 142.5(2) de la Loi, avoir disposé;
+	- **b)** le total des sommes représentant chacune la perte en capital déductible du contribuable pour l’année résultant de la disposition d’un bien, sauf un bien exclu, dont il est réputé, en vertu du paragraphe 142.5(2) de la Loi, avoir disposé;
+	- **c)** l’excédent du total visé au sous-alinéa (i) sur le total visé au sous-alinéa (ii) :
+		- **(i)** le total des sommes représentant chacune la perte en capital déductible du contribuable pour l’année résultant de la disposition d’un bien évalué à la valeur du marché, à l’exception d’un bien exclu et d’un bien dont il est réputé, en vertu du paragraphe 142.5(2) de la Loi, avoir disposé,
+		- **(ii)** le total des sommes représentant chacune le gain en capital imposable du contribuable pour l’année provenant de la disposition d’un bien évalué à la valeur du marché, à l’exception d’un bien exclu et d’un bien dont il est réputé, en vertu du paragraphe 142.5(2) de la Loi, avoir disposé.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/96-443, art. 3; DORS/2009-222, art. 6.
+
+
+
+
+
+### Évaluation à la valeur du marché — Gain en capital transitoire
+
+
+**8105** 
+
+- **(1)** Pour l’application du présent article, ***perte transitoire***, quant à un contribuable, s’entend du montant qui, en raison du choix qu’il fait en application du paragraphe 142.5(6) de la Loi, constitue sa perte en capital déductible pour son année d’imposition qui comprend le 31 octobre 1994.
+
+- **(2)** Pour l’application du paragraphe 142.5(7) de la Loi, sont à déterminer relativement à un contribuable pour une année d’imposition qui prend fin après le 30 octobre 1994 les sommes qui seraient déterminées à son égard pour l’année selon l’article 8103 si, à la fois :
+	- **a)** les renvois au paragraphe 142.5(5) de la Loi, figurant aux paragraphes 8103(2) à (7), étaient remplacés par des renvois au paragraphe 142.5(7) de la Loi;
+	- **b)** le terme « déduction transitoire », aux paragraphes 8103(2) à (7), était remplacé par « perte transitoire, au sens du paragraphe 8105(1), ».
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/96-443, art. 3; DORS/2009-222, art. 6.
+
 
 
 
@@ -17740,6 +17871,416 @@ sur le total des montants représentant chacun :
 - **a)** le bien est un contrat de location-financement, ou tout autre accord de financement, d’un contribuable déclaré à titre de prêt dans ses états financiers pour l’année, établis en conformité avec les principes comptables généralement reconnus;
 - **b)** une somme au titre du bien faisant l’objet de l’accord est déductible en application de l’alinéa 20(1)a) de la Loi dans le calcul du revenu du contribuable pour l’année.
 > [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/99-91, art. 8; 2009, ch. 2, art. 118.
+
+
+
+
+
+**PARTIE XCI** 
+## Institutions financières — revenu provenant de titres de créance déterminés
+
+
+
+### Définitions
+
+
+
+**Définitions**
+
+**9100** Les définitions qui suivent s’appliquent à la présente partie.
+
+***monnaie principale*** Quant à un titre de créance déterminé :
+- **a)** monnaie à laquelle le titre est principalement rattaché;
+- **b)** à défaut, le dollar canadien. (*primary currency*)
+
+***montant de base*** Quant à un titre de créance déterminé pour un contribuable à un moment donné, s’entend au sens du paragraphe 142.4(1) de la Loi. (*tax basis*)
+
+***rendement total*** Le rendement total d’un titre à paiements fixes pour un contribuable correspond à l’excédent, exprimé dans la monnaie principale du titre, du total visé à l’alinéa a) sur la somme visée à l’alinéa b) :
+- **a)** le total des sommes représentant chacune un paiement (exception faite des frais et paiements semblables) que le débiteur est tenu de faire dans le cadre du titre après son acquisition par le contribuable;
+- **b)** le coût du titre pour le contribuable. (*total return*)
+
+***titre à paiements fixes*** Titre de créance déterminé d’un contribuable dans le cadre duquel, à la fois :
+- **a)** le montant et l’échéance de chaque paiement (exception faite des frais et paiements semblables et des sommes à payer en raison d’un manquement du débiteur) que le débiteur est tenu de faire ont été fixés au moment où le contribuable a acquis le titre et n’ont pas été changés;
+- **b)** tous les paiements doivent être faits dans la même monnaie. (*fixed payment obligation*)
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2009-222, art. 7.
+
+
+
+
+
+### Sommes à inclure ou à déduire dans le calcul du revenu
+
+
+
+**Inclusions**
+
+**9101** 
+
+- **(1)** Pour l’application de l’alinéa 142.3(1)a) de la Loi, le montant à déterminer pour une année d’imposition relativement au titre de créance déterminé qu’un contribuable détient au cours de l’année correspond au total des sommes suivantes :
+	- **a)** le rendement couru du titre pour l’année relativement au contribuable;
+	- **b)** si le montant de régularisation du contribuable, déterminé selon l’article 9102 relativement au titre pour l’année, est positif, ce montant;
+	- **c)** si un montant d’ajustement sur change est déterminé selon l’article 9104 relativement au titre pour l’année et est positif, ce montant.
+
+**Déductions**
+
+- **(2)** Pour l’application de l’alinéa 142.3(1)b) de la Loi, le montant à déterminer relativement au titre de créance déterminé qu’un contribuable détient au cours d’une année d’imposition correspond au total des sommes suivantes :
+	- **a)** si le montant de régularisation du contribuable, déterminé selon l’article 9102 relativement au titre pour l’année, est négatif, la valeur absolue de ce montant;
+	- **b)** si un montant d’ajustement sur change est déterminé selon l’article 9104 relativement au titre pour l’année et est négatif, la valeur absolue de ce montant.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2009-222, art. 7.
+
+
+
+
+
+### Règles générales de régularisation
+
+
+
+**Titres à paiements fixes non échus**
+
+**9102** 
+
+- **(1)** Pour l’application de l’alinéa 9101(1)a), le rendement couru, pour une année d’imposition relativement à un contribuable, d’un titre à paiements fixes dans le cadre duquel chaque paiement à faire avant la fin de l’année a été fait par le débiteur à l’échéance est déterminé selon les règles suivantes :
+	- **a)** la partie du rendement total du titre pour le contribuable qui est attribuée à chaque jour de l’année, exprimée dans la monnaie principale du titre, est déterminée selon l’une des méthodes suivantes :
+		- **(i)** la méthode du rendement nivelé visée au paragraphe (2),
+		- **(ii)** toute autre méthode raisonnable qui est semblable, quant à ses éléments essentiels, à la méthode du rendement nivelé;
+	- **b)** si la monnaie principale du titre n’est pas le dollar canadien, la somme attribuée à chaque jour de l’année est convertie en dollars canadiens selon une méthode raisonnable de conversion;
+	- **c)** le total des sommes représentant chacune la somme en dollars canadiens qui est attribuée à un jour de l’année au début duquel le contribuable détient le titre est déterminé.
+
+**Méthode du rendement nivelé**
+
+- **(2)** Pour l’application du paragraphe (1), la méthode du rendement nivelé qui sert à l’attribution du rendement total d’un titre à paiements fixes pour un contribuable est la méthode par laquelle la somme obtenue par la formule ci-après est attribuée à chaque jour donné de la période commençant le lendemain du jour où le contribuable a acquis le titre et se terminant le jour de l’échéance du titre :
+```
+(A + B - C) × D
+```
+où :
+- **A** représente le coût du titre pour le contribuable, exprimé dans la monnaie principale du titre;
+- **B** le total des sommes représentant chacune la partie du rendement total du titre pour le contribuable qui est attribuée à un jour antérieur au jour donné;
+- **C** le total des paiements à faire dans le cadre du titre après son acquisition par le contribuable et avant le jour donné;
+- **D** le taux d’intérêt quotidien qui, s’il entre dans le calcul de la valeur actualisée (déterminée à la fin du jour où le contribuable a acquis le titre et fondée sur la capitalisation quotidienne) de l’ensemble des paiements à faire dans le cadre du titre après son acquisition par le contribuable, produit une valeur actualisée égale au coût du titre pour le contribuable, exprimé dans la monnaie principale du titre.
+
+**Autres titres**
+
+- **(3)** Pour l’application de l’alinéa 9101(1)a), le rendement couru d’un titre de créance déterminé pour une année d’imposition relativement à un contribuable, à l’exception d’un titre auquel s’applique le paragraphe (1), est déterminé, à la fois :
+	- **a)** selon une méthode raisonnable qui est conforme aux principes et pratiques suivants :
+		- **(i)** compte tenu de la mesure dans laquelle le titre diffère d’un titre à paiements fixes, les principes implicites aux méthodes que le paragraphe (1) permet d’appliquer aux titres à paiements fixes,
+		- **(ii)** les pratiques comptables généralement reconnues applicables au calcul des bénéfices provenant de titres de créance;
+	- **b)** selon des hypothèses raisonnables concernant l’échéance et le montant des paiements à faire par le débiteur dans le cadre du titre, mais dont l’échéance ou le montant (exprimé dans la monnaie principale du titre) n’est pas fixe.
+
+**Montant de régularisation nul**
+
+- **(4)** Pour l’application des alinéas 9101(1)b) et (2)a), si le paragraphe 142.3(1) de la Loi s’applique à un contribuable pour une année d’imposition donnée relativement à un titre de créance déterminé, et que, selon le cas, ce paragraphe ne s’appliquait pas relativement au titre pour l’année d’imposition précédente du contribuable ou le titre n’appartenait pas au contribuable à la fin de cette année précédente, le montant de régularisation du contribuable relativement au titre pour l’année donnée est nul.
+
+**Montant de régularisation**
+
+- **(5)** Pour l’application des alinéas 9101(1)b) et (2)a), si le paragraphe (4) ne s’applique pas au calcul du montant de régularisation d’un contribuable relativement à un titre de créance déterminé pour une année d’imposition donnée, le montant de régularisation du contribuable correspond à la somme positive ou négative obtenue par la formule suivante :
+```
+A - B
+```
+où :
+- **A** représente le total des sommes représentant chacune la somme qui correspondrait au rendement couru du titre, relativement au contribuable, pour une année d’imposition qui est antérieure à l’année donnée et pour laquelle le paragraphe 142.3(1) de la Loi s’est appliqué au contribuable relativement au titre, si ce rendement était déterminé de nouveau en fonction de ce qui suit :
+- **a)** les données disponibles à la fin de l’année donnée;
+- **b)** les hypothèses concernant l’échéance et le montant des paiements à faire dans le cadre du titre après l’année donnée, qui ont servi à déterminer le rendement couru du titre pour l’année donnée relativement au contribuable;
+- **B** le total des sommes suivantes :
+- **a)** la somme visée à l’alinéa 9101(1)a) qui représente le rendement couru du titre, relativement au contribuable, pour l’année d’imposition précédant l’année donnée;
+- **b)** si le montant de régularisation du contribuable relativement au titre pour l’année d’imposition précédente visée à l’alinéa a) est déterminé selon le présent paragraphe, la valeur de l’élément A pour ce qui est du calcul de ce montant de régularisation.
+
+**Cas spéciaux et transition**
+
+- **(6)** Les règles énoncées au présent article concernant le calcul du rendement couru et du montant de régularisation s’appliquent sous réserve de l’article 9103.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2009-222, art. 7.
+
+
+
+
+
+### Règles de régularisation — Cas spéciaux et transition
+
+
+
+**Titre convertible**
+
+**9103** 
+
+- **(1)** Pour l’application de l’article 9102, si les modalités d’un titre de créance déterminé d’un contribuable confèrent à celui-ci le droit d’échanger le titre contre des actions du débiteur ou d’une société liée à ce dernier, les règles suivantes s’appliquent :
+	- **a)** sous réserve de l’alinéa b), il n’est pas tenu compte du droit, qu’il ait été exercé ou non;
+	- **b)** si au moins 5 % du coût du titre pour le contribuable est attribuable au droit, ce coût est réputé être égal à l’excédent du coût sur sa partie qui est attribuable au droit.
+
+- **(2)** [Abrogé, DORS/2009-222, art. 7]
+
+**Modification du titre**
+
+- **(3)** Si les modalités d’un titre de créance déterminé d’un contribuable sont modifiées à un moment donné d’une année d’imposition en vue de changer l’échéance ou le montant d’un paiement à faire dans le cadre du titre à ce moment ou par la suite, les rendements courus, relativement au contribuable, pour l’année et pour chacune des années d’imposition postérieures sont déterminés de nouveau en vertu de l’article 9102 au moyen d’une méthode raisonnable qui tient pleinement compte, dans le calcul de ces rendements, de tout changement apporté aux paiements à faire dans le cadre du titre.
+
+**Titres acquis avant l’application des règles sur les institutions financières**
+
+- **(4)** Dans le cas où un contribuable détenait un titre de créance déterminé au début de sa première année d’imposition (appelée « année initiale » au présent paragraphe) pour laquelle le paragraphe 142.3(1) de la Loi s’est appliqué à lui relativement au titre, les règles suivantes s’appliquent :
+	- **a)** le rendement couru du titre, relativement au contribuable, pour l’année initiale ou pour une année d’imposition postérieure ne comprend pas une somme dans la mesure où elle a été incluse dans le calcul du revenu du contribuable pour une année d’imposition antérieure à l’année initiale;
+	- **b)** dans le cas où des intérêts sur le titre pour une période antérieure à l’année initiale deviennent à recevoir ou sont reçus par le contribuable au cours d’une année d’imposition donnée qui correspond à l’année initiale ou à une année d’imposition postérieure et où tout ou partie de ces intérêts ne seraient pas inclus dans le calcul du revenu du contribuable pour une année d’imposition en l’absence du présent alinéa, l’excédent de la somme visée au sous-alinéa (i) sur celle visée au sous-alinéa (ii) est inclus dans le calcul du rendement couru du titre pour l’année donnée relativement au contribuable :
+		- **(i)** la partie des intérêts qui ne serait pas incluse par ailleurs dans le calcul du revenu du contribuable pour une année d’imposition,
+		- **(ii)** la partie du coût du titre pour le contribuable qu’il est raisonnable d’attribuer à la partie d’intérêts visée au sous-alinéa (i).
+
+**Intérêts payés d’avance — règle transitoire**
+
+- **(5)** Dans le cas où, avant novembre 1994 et au cours d’une année d’imposition s’étant terminée après le 22 février 1994, un contribuable a reçu une somme dans le cadre d’un titre de créance déterminé en règlement total ou partiel de l’obligation du débiteur de verser des intérêts pour une période postérieure à l’année, les règles suivantes s’appliquent :
+	- **a)** la somme peut, au choix du contribuable, être incluse dans le calcul du rendement couru du titre pour l’année relativement au contribuable;
+	- **b)** si la somme est ainsi incluse, les rendements courus du titre pour les années d’imposition postérieures relativement au contribuable ne comprennent aucun montant au titre des intérêts que le débiteur n’est plus tenu de payer en raison du paiement de la somme.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2009-222, art. 7.
+
+
+
+
+
+### Montant d’ajustement sur change
+
+
+
+**Obligations détenues à la fin d’une année d’imposition**
+
+**9104** 
+
+- **(1)** Pour l’application des alinéas 9101(1)c) et (2)b), si, à la fin d’une année d’imposition, un contribuable détient un titre de créance déterminé dont la monnaie principale n’est pas le dollar canadien, le montant d’ajustement sur change du contribuable relativement au titre pour l’année correspond à la somme positive ou négative obtenue par la formule suivante :
+```
+(A × B) - C
+```
+où :
+- **A** représente la somme qui constituerait le montant de base du titre pour le contribuable à la fin de l’année si, à la fois :
+- **a)** les sommes qui entrent dans le calcul du montant de base étaient déterminées dans la monnaie principale du titre;
+- **b)** il n’était pas tenu compte des alinéas f), h), o) et q) de la définition de ***montant de base*** au paragraphe 142.4(1) de la Loi;
+- **c)** le montant d’ajustement sur change du contribuable relativement au titre pour chaque année était nul;
+- **B** le taux de change, à la fin de l’année, de la monnaie principale du titre par rapport au dollar canadien;
+- **C** la somme qui constituerait le montant de base du titre pour le contribuable à la fin de l’année si, à la fois :
+- **a)** il n’était pas tenu compte des alinéas h) et q) de la définition de ***montant de base*** au paragraphe 142.4(1) de la Loi;
+- **b)** le montant d’ajustement sur change du contribuable relativement au titre pour l’année était nul.
+
+**Disposition d’un titre**
+
+- **(2)** Dans le cas où un contribuable dispose d’un titre de créance déterminé dont la monnaie principale n’est pas le dollar canadien, le montant d’ajustement sur change du contribuable relativement au titre pour l’année d’imposition de la disposition correspond à la somme qui serait son montant d’ajustement sur change si l’année s’était terminée immédiatement avant la disposition.
+
+**Disposition d’un titre avant 1996**
+
+- **(3)** Un contribuable peut faire un choix pour que le paragraphe (2) ne s’applique pas aux titres de créance déterminés dont il a disposé avant 1996.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2009-222, art. 7.
+
+
+
+
+
+**PARTIE XCII** 
+## Institutions financières — disposition de titres de créance déterminés
+
+
+
+### Définitions et interprétation
+
+
+
+**Définitions**
+
+**9200** 
+
+- **(1)** Les définitions qui suivent s’appliquent à la présente partie.
+
+***gain*** Gain d’un contribuable résultant de la disposition d’un titre de créance déterminé, calculé selon l’alinéa 142.4(6)a) de la Loi. (*gain*)
+
+***partie résiduelle*** Quant au gain ou à la perte d’un contribuable résultant de la disposition d’un titre de créance déterminé, somme calculée selon le paragraphe 142.4(8) de la Loi relativement à la disposition. (*residual portion*)
+
+***perte*** Perte d’un contribuable résultant de la disposition d’un titre de créance déterminé, calculée selon l’alinéa 142.4(6)b) de la Loi. (*loss*)
+
+**Date d’amortissement**
+
+- **(2)** Pour l’application de la présente partie, la date d’amortissement applicable à un titre de créance déterminé dont un contribuable a disposé correspond à celui des jours suivants qui est applicable :
+	- **a)** sous réserve des alinéas b) à d), le jour de la disposition ou, s’il est postérieur, le jour où le débiteur est tenu de faire le dernier paiement prévu par le titre, déterminé compte non tenu d’une option relative à l’échéance des paiements prévus par le titre, à l’exception d’une option qui a été exercée avant la disposition;
+	- **b)** sous réserve des alinéas c) et d), le jour de la disposition si le jour où le débiteur est tenu de faire le dernier paiement prévu par le titre ne peut être déterminé pour l’application de l’alinéa a);
+	- **c)** sous réserve de l’alinéa d), le premier jour postérieur à la disposition où le taux d’intérêt pourrait changer, s’il s’agit d’un titre à l’égard duquel les conditions suivantes sont réunies :
+		- **(i)** le titre prévoit des paiements d’intérêts stipulés,
+		- **(ii)** le taux d’intérêt pour une ou plusieurs périodes postérieures à l’émission du titre n’était pas fixé le jour de l’émission,
+		- **(iii)** au moment de l’émission du titre, il était raisonnable de s’attendre à ce que le taux d’intérêt pour chaque période soit égal ou à peu près égal à un taux d’intérêt raisonnable du marché pour cette période;
+	- **d)** si le contribuable avait un gain ou une perte résultant de la disposition qui est amorti sur les bénéfices dans les états financiers, le dernier jour de la période d’amortissement.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2009-222, art. 7.
+
+
+
+
+
+**Montant de transition**
+
+**9201** Pour l’application du paragraphe 142.4(1) de la Loi, le montant de transition d’un contribuable relativement à la disposition d’un titre de créance déterminé correspond à celle des sommes suivantes qui est applicable :
+- **a)** si ni l’alinéa b) ni l’alinéa c) ne s’appliquent, zéro;
+- **b)** si les conditions ci-après sont réunies, la somme obtenue par la formule ci-après :
+	- **(i)** le contribuable a acquis le titre avant son année d’imposition qui comprend le 23 février 1994,
+	- **(ii)** les alinéas 7000(2)a) et b) ne se sont pas appliqués au titre,
+	- **(iii)** le principal du titre excède son coût pour le contribuable, lequel excédent est appelé « escompte » au présent alinéa,
+```
+A - B
+```
+où :
+- **A** représente le total des sommes représentant chacune la somme incluse au titre de l’escompte dans le calcul du bénéfice du contribuable pour une année d’imposition s’étant terminée avant le 23 février 1994;
+- **B** le total des sommes représentant chacune la somme incluse au titre de l’escompte dans le calcul du revenu du contribuable pour une année d’imposition s’étant terminée avant le 23 février 1994;
+- **c)** si les conditions ci-après sont réunies, le montant négatif de la somme obtenue par la formule ci-après :
+	- **(i)** les conditions énoncées aux sous-alinéas b)(i) et (ii) sont remplies,
+	- **(ii)** le coût du titre pour le contribuable excède son principal, lequel excédent est appelé « prime » au présent alinéa,
+```
+A - B
+```
+où :
+- **A** représente le total des sommes représentant chacune la somme déduite au titre de la prime dans le calcul du bénéfice du contribuable pour une année d’imposition s’étant terminée avant le 23 février 1994;
+- **B** le total des sommes représentant chacune la somme déduite au titre de la prime dans le calcul du revenu du contribuable pour une année d’imposition s’étant terminée avant le 23 février 1994.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2009-222, art. 7.
+
+
+
+
+
+### Titres de créance visés
+
+
+
+**Validité et application du choix**
+
+**9202** 
+
+- **(1)** Les règles ci-après s’appliquent au choix qu’un contribuable fait en application des paragraphes (3) ou (4) :
+	- **a)** le choix n’est valable que s’il remplit les conditions suivantes :
+		- **(i)** il est fait par écrit,
+		- **(ii)** l’écrit le concernant précise la première année d’imposition (appelée « année initiale » au présent paragraphe) du contribuable à laquelle le choix s’applique,
+		- **(iii)** le ministre reçoit l’écrit le concernant dans les six mois suivant la fin de l’année initiale ou accepte expressément que cet écrit soit produit à un moment ultérieur;
+	- **b)** sous réserve de l’alinéa c), le choix s’applique aux dispositions de titres de créance déterminés effectuées au cours de l’année initiale et des années d’imposition postérieures;
+	- **c)** si le ministre a approuvé la révocation du choix sur demande écrite du contribuable, le choix ne s’applique pas aux dispositions de titres de créance déterminés effectuées au cours de l’année d’imposition précisée dans la demande et des années d’imposition postérieures.
+
+**Titre de créance visé**
+
+- **(2)** Pour l’application du sous-alinéa 142.4(5)a)(ii) de la Loi, le titre de créance déterminé dont un contribuable a disposé au cours d’une année d’imposition est un titre de créance visé quant au contribuable si la date d’amortissement applicable au titre suit d’au plus deux ans la fin de l’année.
+
+**Titre de créance visé — exception**
+
+- **(3)** Le paragraphe (2) ne s’applique pas à un contribuable pour une année d’imposition si, à la fois :
+	- **a)** selon les principes comptables généralement reconnus, les gains et les pertes du contribuable résultant de la disposition d’une catégorie de titres de créance doivent être amortis sur les bénéfices dans les états financiers;
+	- **b)** le contribuable a choisi de ne pas se prévaloir du paragraphe (2);
+	- **c)** le choix s’applique aux dispositions effectuées au cours de l’année.
+
+**Titre de créance visé**
+
+- **(4)** Pour l’application du sous-alinéa 142.4(5)a)(ii) de la Loi, le titre de créance déterminé dont un contribuable a disposé au cours d’une année d’imposition est un titre de créance visé quant au contribuable si, à la fois :
+	- **a)** le contribuable a choisi de se prévaloir du présent paragraphe;
+	- **b)** le choix s’applique aux dispositions effectuées au cours de l’année;
+	- **c)** la valeur absolue de la somme positive ou négative obtenue par la formule ci-après ne dépasse pas 5 000 $ ou, si elle est moins élevée, la somme précisée dans l’écrit concernant le choix :
+```
+A - B
+```
+où :
+- **A** représente le total des sommes représentant chacune la partie résiduelle du gain du contribuable résultant de la disposition du titre ou d’un autre titre de créance déterminé dont il a été disposé dans le cadre de la même opération,
+- **B** le total des sommes représentant chacune la partie résiduelle de la perte du contribuable résultant de la disposition du titre ou d’un autre titre de créance déterminé dont il a été disposé dans le cadre de la même opération.
+
+**Titre de créance visé**
+
+- **(5)** Pour l’application du sous-alinéa 142.4(5)a)(ii) de la Loi, le titre de créance déterminé dont un contribuable a disposé au cours d’une année d’imposition est un titre de créance visé quant au contribuable si, selon le cas :
+	- **a)** la disposition a entraîné l’extinction de l’obligation constatée par le titre, sauf si l’extinction fait suite à l’achat du titre par le débiteur sur le marché libre;
+	- **b)** le contribuable avait le droit d’exiger le règlement du titre en tout temps;
+	- **c)** le débiteur avait le droit de régler le titre en tout temps.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2009-222, art. 7.
+
+
+
+
+
+### Partie résiduelle d’un gain ou d’une perte
+
+
+
+**Attribution de la partie résiduelle**
+
+**9203** 
+
+- **(1)** Sous réserve de l’article 9204, si le paragraphe 142.4(4) de la Loi s’applique à la disposition d’un titre de créance déterminé par un contribuable, la somme attribuée à chaque année d’imposition au titre de la partie résiduelle du gain ou de la perte résultant de la disposition est déterminée, pour l’application de ce paragraphe, selon l’une des méthodes suivantes :
+	- **a)** une méthode conforme au paragraphe (2) ou semblable, quant à ses éléments essentiels, à cette méthode;
+	- **b)** si les gains et les pertes résultant de la disposition de titres de créance sont amortis sur les bénéfices dans les états financiers du contribuable, la méthode utilisée par le contribuable dans l’établissement de ses états financiers.
+
+**Méthode de l’attribution proportionnelle**
+
+- **(2)** Pour l’application du paragraphe (1), une méthode d’attribution à des années d’imposition de la partie résiduelle du gain ou de la perte d’un contribuable résultant de la disposition d’un titre de créance déterminé est conforme au présent paragraphe si la somme attribuée à chaque année d’imposition est déterminée selon la formule suivante :
+```
+A × B/C
+```
+où :
+- **A** représente la partie résiduelle du gain ou de la perte du contribuable;
+- **B** le nombre de jours de l’année qui font partie de la période visée à l’élément C;
+- **C** le nombre de jours de celle des périodes suivantes qui est applicable :
+- **a)** si le paragraphe (3) s’applique au titre, la période déterminée selon ce paragraphe;
+- **b)** sinon, la période qui, à la fois :
+- **(i)** commence le jour où le contribuable a disposé du titre,
+- **(ii)** prend fin au premier en date des jours suivants :
+- **(A)** la date d’amortissement applicable au titre,
+- **(B)** le jour qui suit de 20 ans le jour où le contribuable a disposé du titre.
+
+**Période d’attribution proportionnelle unique**
+
+- **(3)** Le présent paragraphe s’applique relativement aux titres de créance déterminés dont un contribuable dispose dans le cadre d’une opération conclue au cours d’une année d’imposition et la période déterminée selon le présent paragraphe relativement aux titres correspond à la période commençant à la date de la disposition et se terminant à la date d’amortissement pondérée applicable aux titres dont il a été ainsi disposé et auxquels s’applique le paragraphe 142.4(4) de la Loi, si les conditions suivantes sont réunies :
+	- **a)** le contribuable a fait, dans sa déclaration de revenu pour l’année, un choix pour que le présent paragraphe s’applique aux titres dont il a été ainsi disposé;
+	- **b)** il a été disposé des titres en cause au même moment;
+	- **c)** le nombre de titres dont il a été ainsi disposé et auxquels s’applique le paragraphe 142.4(4) de la Loi s’élève à au moins 50.
+
+**Date d’amortissement pondérée**
+
+- **(4)** Pour l’application du paragraphe (3), la date d’amortissement pondérée applicable à un groupe de titres de créance déterminés dont un contribuable a disposé le même jour correspond à celui des jours suivants qui est applicable :
+	- **a)** si l’alinéa b) ne s’applique pas, le jour qui suit le jour de la disposition d’un nombre de jours égal au total du nombre de jours déterminé selon la formule suivante relativement à chaque titre :
+```
+A × B/C
+```
+où :
+- **A** représente le nombre de jours allant du jour de la disposition jusqu’à la date d’amortissement applicable au titre;
+- **B** la partie résiduelle du gain ou de la perte résultant de la disposition du titre;
+- **C** le total des sommes représentant chacune la partie résiduelle du gain ou de la perte résultant de la disposition d’un titre du groupe;
+	- **b)** le jour que le contribuable détermine au moyen d’une méthode raisonnable d’estimation du jour déterminé selon l’alinéa a).
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2009-222, art. 7.
+
+
+
+
+
+### Règles spéciales applicables à la partie résiduelle d’un gain ou d’une perte
+
+
+
+**Champ d’application**
+
+**9204** 
+
+- **(1)** Le présent article s’applique dans le cadre des sous-alinéas 142.4(4)c)(ii) et d)(ii) de la Loi.
+
+**Liquidation**
+
+- **(2)** Dans le cas où le paragraphe 88(1) de la Loi s’applique à la liquidation d’un contribuable (appelé « filiale » au présent paragraphe), les règles ci-après s’appliquent à la partie résiduelle d’un gain ou d’une perte de la filiale résultant de la disposition d’un titre de créance déterminé auquel s’applique le paragraphe 142.4(4) de la Loi :
+	- **a)** la fraction de la partie résiduelle qui est attribuée à l’année d’imposition de la filiale au cours de laquelle ses actifs sont passés à sa société mère lors de la liquidation est déterminée selon l’hypothèse que cette année d’imposition s’est terminée au moment de ce passage;
+	- **b)** aucune somme relative à la partie résiduelle n’est attribuée à une année d’imposition de la filiale qui est postérieure à son année d’imposition au cours de laquelle ses actifs sont passés à sa société mère;
+	- **c)** la fraction de la partie résiduelle qui est attribuée à l’année d’imposition de la société mère de la filiale au cours de laquelle les actifs de cette dernière sont passés à la société mère est déterminée selon l’hypothèse que cette année d’imposition a commencé au moment de ce passage.
+
+**Transfert d’une entreprise d’assurance**
+
+- **(3)** Aucune somme relative à la partie résiduelle d’un gain ou d’une perte d’un assureur résultant de la disposition d’un titre de créance déterminé auquel s’applique le paragraphe 142.4(4) de la Loi n’est attribuée à une année d’imposition de l’assureur se terminant après qu’il a cessé d’exploiter la totalité ou la presque totalité d’une entreprise d’assurance, si les conditions suivantes sont réunies :
+	- **a)** les paragraphes 138(11.5) ou (11.94) de la Loi s’appliquent au transfert de l’entreprise;
+	- **b)** le bénéficiaire du transfert est réputé, par l’effet de l’alinéa 138(11.5)k) de la Loi, être la même personne que l’assureur pour ce qui est de la partie résiduelle.
+
+**Transfert à une nouvelle société de personnes**
+
+- **(4)** Dans le cas où une société de personnes (appelée « nouvelle société de personnes » au présent paragraphe) est réputée, en vertu du paragraphe 98(6) de la Loi, être la continuation d’une autre société de personnes (appelée « société de personnes remplacée » au présent paragraphe), les règles ci-après s’appliquent à la partie résiduelle d’un gain ou d’une perte de la société de personnes remplacée résultant de la disposition d’un titre de créance déterminé auquel s’applique le paragraphe 142.4(4) de la Loi :
+	- **a)** la fraction de la partie résiduelle qui est attribuée à l’année d’imposition de la société de personnes remplacée au cours de laquelle ses biens ont été transférés à la nouvelle société de personnes est déterminée selon l’hypothèse que cette année d’imposition s’est terminée au moment de ce transfert;
+	- **b)** aucune somme relative à la partie résiduelle n’est attribuée à une année d’imposition de la société de personnes remplacée qui est postérieure à son année d’imposition au cours de laquelle ses biens ont été transférés à la nouvelle société de personnes;
+	- **c)** la fraction de la partie résiduelle qui est attribuée à l’année d’imposition de la nouvelle société de personnes au cours de laquelle les biens de la société de personnes remplacée lui ont été transférés est déterminée selon l’hypothèse que cette année d’imposition a commencé au moment de ce transfert.
+
+**Contribuable qui cesse d’exploiter une entreprise**
+
+- **(5)** Est attribuée à l’année d’imposition donnée d’un contribuable la fraction éventuelle de la partie résiduelle de son gain ou de sa perte résultant de la disposition d’un titre de créance déterminée auquel s’applique le paragraphe 142.4(4) de la Loi et qui n’a pas été attribuée à une année d’imposition antérieure, si les conditions suivantes sont réunies :
+	- **a)** au cours de l’année donnée, le contribuable cesse d’exploiter une entreprise en totalité ou en presque totalité, autrement que par suite d’une fusion à laquelle s’applique le paragraphe 87(2) de la Loi, d’une liquidation à laquelle s’applique le paragraphe 88(1) de la Loi ou d’un transfert de l’entreprise auquel s’appliquent les paragraphes 98(6) ou 138(11.5) ou (11.94) de la Loi;
+	- **b)** la disposition a été effectuée avant la cessation;
+	- **c)** le titre était un bien utilisé dans le cadre de l’entreprise.
+
+**Contribuable qui cesse d’être une institution financière**
+
+- **(6)** Est attribuée à l’année d’imposition donnée d’un contribuable la fraction éventuelle de la partie résiduelle de son gain ou de sa perte résultant de la disposition d’un titre de créance déterminée auquel s’applique le paragraphe 142.4(4) de la Loi et qui n’a pas été attribuée à une année d’imposition précédente, si les conditions suivantes sont réunies :
+	- **a)** l’année donnée prend fin immédiatement avant le moment auquel le contribuable cesse d’être une institution financière autrement que pour avoir cessé d’exploiter une entreprise;
+	- **b)** la disposition a été effectuée avant la cessation.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2009-222, art. 7.
 
 
 
