@@ -340,11 +340,11 @@ conformément à l’ordonnance qui précise la manière, le lieu, les condition
 
 - **(1)** Quiconque abat, découpe ou désosse un bœuf pour la consommation alimentaire humaine doit veiller à ce que le matériel à risque spécifié soit, dès son enlèvement de l’animal, badigeonné d’une teinture voyante et indélébile, et recueilli dans un contenant désigné portant, dans les deux langues officielles, la mention qu’il renferme du matériel à risque spécifié.
 
-- **(2)** Le paragraphe (1) ne s’applique pas dans les cas suivants :
-	- **a)** le bœuf est abattu, découpé ou désossé dans une ferme ou un ranch, au sens de l’article 172, et le matériel à risque spécifié provenant de sa carcasse ne sort pas de la ferme ou du ranch;
-	- **b)** le bœuf est abattu, découpé ou désossé dans un abattoir, et aucune partie de la carcasse de quelque animal que ce soit, sauf les parties qui sont destinées à l’alimentation humaine, ne sort du site de l’abattoir;
-	- **c)** des échantillons de matériel à risque spécifié ou de carcasses — ou parties de carcasse — de bœuf dont le matériel à risque spécifié n’a pas été retiré sont envoyés à un laboratoire de niveau de confinement 2.
-> DORS/2006-147, art. 12.
+- **(2)** Le paragraphe (1) ne s’applique pas :
+	- **a)** au bœuf qui est abattu, découpé ou désossé dans une ferme ou un ranch, au sens de l’article 172, si le matériel à risque spécifié provenant de sa carcasse ne sort pas de la ferme ou du ranch, sauf pour être envoyé à un laboratoire de niveau de confinement 2;
+	- **b)** au bœuf qui est abattu, découpé ou désossé dans un abattoir, dans le cas où aucune partie de la carcasse de quelque animal que ce soit, sauf les parties qui sont destinées à l’alimentation humaine ou les échantillons qui sont envoyés à un laboratoire de niveau de confinement 2, ne sort du site de l’abattoir;
+	- **c)** aux échantillons de matériel à risque spécifié ou aux carcasses — ou parties de carcasse — de bœuf dont le matériel à risque spécifié n’a pas été retiré, qui sont envoyés à un laboratoire de niveau de confinement 2.
+> DORS/2006-147, art. 12; DORS/2009-220, art. 3.
 
 
 
@@ -2846,8 +2846,8 @@ et porte la mention « Pour usage vétérinaire seulement » ou « *For veter
 ### Importation ou vente de produits d’usines de traitement
 
 
-**167** Il est interdit à quiconque importe un produit d’une usine de traitement ou à quiconque en a la possession, la responsabilité ou la charge des soins, de distribuer ou de vendre le produit, à moins que la documentation relative au produit exigée par le présent règlement et l’étiquette sur tout emballage ou contenant renfermant le produit portent bien en vue la mention visée au paragraphe 165(3), inscrite lisiblement et de façon indélébile.
-> DORS/97-362, art. 4.
+**167** Il est interdit à quiconque importe un produit d’une usine de traitement ou à quiconque en a la possession, la responsabilité ou la charge des soins, de distribuer ou de vendre le produit, à moins que la documentation relative au produit exigée par le présent règlement et l’étiquette sur tout emballage ou contenant renfermant le produit ne portent la mention indélébile visée au paragraphe 165(4), inscrite lisiblement et bien en vue.
+> DORS/97-362, art. 4; DORS/2009-220, art. 4.
 
 
 
