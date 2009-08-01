@@ -647,7 +647,7 @@ Now, therefore, Her Majesty, by and with the advice and consent of the Senate an
 
 <sup><a href='#fn_Ind1A5E_hq_4903'>[*]</a></sup>**115** Subsection 101(1) and sections 104 to 106 and 112 come into force on a day or days to be fixed by order of the Governor in Council.
 
-<a name='fn_Ind1A5E_hq_4903'><sup>*</sup></a>: [Note: Subsection 101(1) and sections 104 to 106 and 112 not in force.]<br />
+<a name='fn_Ind1A5E_hq_4903'><sup>*</sup></a>: [Note: Section 104 in force August 1, 2009, *see* SI/2009-59; subsection 101(1) and sections 106 and 112 in force August 1, 2009, *see* SI/2009-66.]<br />
 
 
 
