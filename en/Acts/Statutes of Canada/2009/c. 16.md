@@ -37,17 +37,17 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **2** The definitions in this section apply in this Act.
 
-***Agreement*** means the Free Trade Agreement between Canada and the Republic of Peru, signed on May 29, 2008.
+***Agreement*** means the Free Trade Agreement between Canada and the Republic of Peru, signed on May 29, 2008. (*Accord*)
 
-***federal law*** means the whole or any portion of an Act of Parliament or a regulation, order or other instrument issued, made or established in the exercise of a power conferred by or under an Act of Parliament.
+***federal law*** means the whole or any portion of an Act of Parliament or a regulation, order or other instrument issued, made or established in the exercise of a power conferred by or under an Act of Parliament. (*texte législatif fédéral*)
 
-***Joint Commission*** means the Joint Commission established under Article 2001 of the Agreement.
+***Joint Commission*** means the Joint Commission established under Article 2001 of the Agreement. (*Commission mixte*)
 
-***Minister*** means the Minister for International Trade.
+***Minister*** means the Minister for International Trade. (*ministre*)
 
-***related agreement*** means
+***related agreement*** means
 - **(a)** the Agreement on the Environment between Canada and the Republic of Peru, signed on May 29, 2008; or
-- **(b)** the Agreement on Labour Cooperation between Canada and the Republic of Peru, signed on May 29, 2008.
+- **(b)** the Agreement on Labour Cooperation between Canada and the Republic of Peru, signed on May 29, 2008. (*accord connexe*)
 
 
 
@@ -429,7 +429,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 - **(2)** No order may be made under subsection (1) unless the Governor in Council is satisfied that the Government of the Republic of Peru has taken satisfactory steps to implement the Agreement and the related agreements.
 
-<a name='fn_Ind1127_hq_7682'><sup>*</sup></a>: [Note: Section 56 in force on assent June 18, 2009.]<br />
+<a name='fn_Ind1127_hq_7682'><sup>*</sup></a>: [Note: Section 56 in force on assent June 18, 2009; Act, other than section 56, in force August 1, 2009, *see* SI/2009-67.]<br />
 
 
 
