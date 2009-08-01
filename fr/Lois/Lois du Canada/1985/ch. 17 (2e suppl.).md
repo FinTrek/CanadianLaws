@@ -88,8 +88,9 @@
 
 - **(4)** Il est entendu que le terme ***arbitrage commercial***, à l’article 1-1 du Code, vise :
 	- **a)** les plaintes prévues aux articles 1116 et 1117 de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange nord-américain](/fr/Lois/Lois%20du%20Canada/1993/ch.%2044.md);
-	- **b)** les plaintes prévues aux articles G-17 et G-18 de l’Accord au sens de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada — Chili](/fr/Lois/Lois%20du%20Canada/1997/ch.%2014.md).
-> L.R. (1985), ch. 17 (2<sup>e</sup> suppl.), art. 5, ch. 1 (4<sup>e</sup> suppl.), art. 9; 1993, ch. 44, art. 50; 1997, ch. 14, art. 32.
+	- **b)** les plaintes prévues aux articles G-17 et G-18 de l’Accord au sens de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada — Chili](/fr/Lois/Lois%20du%20Canada/1997/ch.%2014.md);
+	- **c)** les plaintes prévues aux articles 819 et 820 de l’Accord au sens de l’article 2 de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada-Pérou](/fr/Lois/Lois%20du%20Canada/2009/ch.%2016.md).
+> L.R. (1985), ch. 17 (2<sup>e</sup> suppl.), art. 5, ch. 1 (4<sup>e</sup> suppl.), art. 9; 1993, ch. 44, art. 50; 1997, ch. 14, art. 32; 2009, ch. 16, art. 23.
 
 
 
