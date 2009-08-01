@@ -37,17 +37,17 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **2** Les définitions qui suivent s’appliquent à la présente loi.
 
-***Accord*** L’Accord de libre-échange entre le Canada et la République du Pérou, signé le 29 mai 2008.
+***Accord*** L’Accord de libre-échange entre le Canada et la République du Pérou, signé le 29 mai 2008. (*Agreement*)
 
-***accord connexe*** L’un ou l’autre des accords suivants : 
+***accord connexe*** L’un ou l’autre des accords suivants : 
 - **a)** l’Accord sur l’environnement entre le Canada et la République du Pérou, signé le 29 mai 2008;
-- **b)** l’Accord de coopération dans le domaine du travail entre le Canada et la République du Pérou, signé le 29 mai 2008.
+- **b)** l’Accord de coopération dans le domaine du travail entre le Canada et la République du Pérou, signé le 29 mai 2008. (*related agreement*)
 
-***Commission mixte*** La commission mixte établie aux termes de l’article 2001 de l’Accord.
+***Commission mixte*** La commission mixte établie aux termes de l’article 2001 de l’Accord. (*Joint Commission*)
 
-***ministre*** Le ministre du Commerce international.
+***ministre*** Le ministre du Commerce international. (*Minister*)
 
-***texte législatif fédéral*** Tout ou partie d’une loi fédérale ou d’un règlement, décret ou autre texte pris dans l’exercice d’un pouvoir conféré sous le régime d’une loi fédérale.
+***texte législatif fédéral*** Tout ou partie d’une loi fédérale ou d’un règlement, décret ou autre texte pris dans l’exercice d’un pouvoir conféré sous le régime d’une loi fédérale. (*federal law*)
 
 
 
@@ -429,7 +429,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 - **(2)** Le gouverneur en conseil ne prend de décret en vertu du paragraphe (1) que s’il est convaincu que le gouvernement de la République du Pérou a pris les mesures nécessaires à la mise en oeuvre de l’Accord et des accords connexes.
 
-<a name='fn_Ind10C1_hq_7705'><sup>*</sup></a>: [Note : Article 56 en vigueur à la sanction le 18 juin 2009.]<br />
+<a name='fn_Ind10C1_hq_7705'><sup>*</sup></a>: [Note : Article 56 en vigueur à la sanction le 18 juin 2009; loi, à l’exception de l’article 56, en vigueur le 1<sup>er</sup> août 2009, *voir* TR/2009-67.]<br />
 
 
 
