@@ -275,6 +275,29 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
+**Crediting to Labour Cooperation Treaties Account**
+
+**19.1** 
+
+- **(1)** All moneys received by Her Majesty as a result of a monetary assessment by a panel determination under any treaty respecting labour cooperation referred to in the schedule shall be paid into the Consolidated Revenue Fund and credited to a special account in the accounts of Canada to be known as the Labour Cooperation Treaties Account.
+
+**Additional credits to the Account**
+
+- **(2)** If an amount is assessed against Canada by a panel determination under a treaty respecting labour cooperation referred to in the schedule, an amount equal to that amount shall be credited to the Account if the Account has been designated for the purposes of the treaty in accordance with its provisions.
+
+**Interest**
+
+- **(3)** On April 1 of every year there shall be credited to the Account an amount representing interest, at the rate fixed for the purposes of subsection 21(2) of the [Financial Administration Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-11.md), on the balance to the credit of the Account.
+
+**Payment of moneys**
+
+- **(4)** One or more amounts not exceeding in total the amount standing in the Account in relation to a treaty, including interest, may, on the requisition of the Minister of Labour, be paid out of the Consolidated Revenue Fund in accordance with the provisions of the treaty. The amount of all such payments is to be charged to the Account.
+> 2009, c. 16, s. 50.
+
+
+
+
+
 **PART 3** 
 ## Canada Employment Insurance Commission
 
@@ -654,8 +677,7 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 **PART 5** 
-> [Repealed, 2005, c. 34, s. 83]
-
+## [Repealed, 2005, c. 34. s. 83]
 
 
 
@@ -938,5 +960,16 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 ***85** This Act, other than sections 82 and 83, comes into force on a day to be fixed by order of the Governor in Council, provided that that day is the same as that fixed under section 70 of the  [Department of Social Development Act](/en/Acts/Statutes%20of%20Canada/2005/c.%2035.md).
 
 <a name='H-5.7_E_85'><sup>*</sup></a>: [Note: Sections 82 and 83 in force on assent July 20, 2005; Act, other than sections 82 and 83, in force October 5, 2005, *see* SI/2005-99.]<br />
+
+
+
+
+### **SCHEDULE** 
+**(Subsections 19.1(1) and (2))**
+## Treaties
+**1** The Agreement on Labour Cooperation between Canada and the Republic of Peru, signed on May 29, 2008, as amended from time to time in accordance with Article 30 of that Agreement.
+
+
+> 2009, c. 16, s. 51.
 
 
