@@ -285,39 +285,39 @@ Enabling authorities:
 
 **26** 
 
-- **(1)** The sum certain that the Corporation is required to pay producers on a per tonne basis under paragraph 32(1)(b) of the Act in respect of the base grade of wheat sold and delivered to the Corporation during the pool period ending on July 31, 2009 and known as No. 1 Canada Western Red Spring (12.5% protein content) is
-	- **(a)** $263.00 for straight wheat;
-	- **(b)** $255.00 for tough wheat;
-	- **(c)** $247.50 for damp wheat;
-	- **(d)** $255.00 for straight wheat, rejected on account of stones;
-	- **(e)** $247.00 for tough wheat, rejected on account of stones; and
-	- **(f)** $239.50 for damp wheat, rejected on account of stones.
+- **(1)** The sum certain that the Corporation is required to pay producers on a per tonne basis under paragraph 32(1)(*b*) of the Act in respect of the base grade of wheat sold and delivered to the Corporation during the pool period beginning on August 1, 2009 and ending on July 31, 2010 and known as No. 1 Canada Western Red Spring (12.5% protein content) is
+	- **(a)** $178.00 for straight wheat;
+	- **(b)** $170.00 for tough wheat;
+	- **(c)** $162.50 for damp wheat;
+	- **(d)** $170.00 for straight wheat, rejected on account of stones;
+	- **(e)** $162.00 for tough wheat, rejected on account of stones; and
+	- **(f)** $154.50 for damp wheat, rejected on account of stones.
 
-- **(2)** The sum certain that the Corporation is required to pay producers on a per tonne basis under paragraph 32(1)(b) of the Act in respect of the base grade of wheat sold and delivered to the Corporation during the pool period ending on July 31, 2009 and known as No. 1 Canada Western Amber Durum (12.5% protein content) is
-	- **(a)** $330.80 for straight wheat;
-	- **(b)** $322.80 for tough wheat;
-	- **(c)** $315.30 for damp wheat;
-	- **(d)** $322.80 for straight wheat, rejected on account of stones;
-	- **(e)** $314.80 for tough wheat, rejected on account of stones; and
-	- **(f)** $307.30 for damp wheat, rejected on account of stones.
+- **(2)** The sum certain that the Corporation is required to pay producers on a per tonne basis under paragraph 32(1)(b) of the Act in respect of the base grade of wheat sold and delivered to the Corporation during the pool period beginning on August 1, 2009 and ending on July 31, 2010 and known as No. 1 Canada Western Amber Durum (12.5% protein content) is
+	- **(a)** $183.00 for straight wheat;
+	- **(b)** $175.00 for tough wheat;
+	- **(c)** $167.50 for damp wheat;
+	- **(d)** $175.00 for straight wheat, rejected on account of stones;
+	- **(e)** $167.00 for tough wheat, rejected on account of stones; and
+	- **(f)** $159.50 for damp wheat, rejected on account of stones.
 
-- **(3)** The sum certain that the Corporation is required to pay producers on a per tonne basis under paragraph 32(1)(b) and section 47 of the Act in respect of the base grade of barley sold and delivered to the Corporation during the pool period beginning on February 1, 2009 and ending on July 31, 2009 and known as No. 1 Canada Western is
-	- **(a)** $103.50 for straight barley;
-	- **(b)** $96.50 for tough barley;
-	- **(c)** $90.00 for damp barley;
-	- **(d)** $98.50 for straight barley, rejected on account of stones;
-	- **(e)** $91.50 for tough barley, rejected on account of stones; and
-	- **(f)** $85.00 for damp barley, rejected on account of stones.
+- **(3)** The sum certain that the Corporation is required to pay producers on a per tonne basis under paragraph 32(1)(b) and section 47 of the Act in respect of the base grade of barley sold and delivered to the Corporation during the pool period beginning on August 1, 2009 and ending on January 31, 2010 and known as No. 1 Canada Western is
+	- **(a)** $101.00 for straight barley;
+	- **(b)** $94.00 for tough barley;
+	- **(c)** $87.50 for damp barley;
+	- **(d)** $96.00 for straight barley, rejected on account of stones;
+	- **(e)** $89.00 for tough barley, rejected on account of stones; and
+	- **(f)** $82.50 for damp barley, rejected on account of stones.
 
-- **(4)** The sum certain that the Corporation is required to pay producers on a per tonne basis under paragraph 32(1)(b) and section 47 of the Act in respect of the base grade of barley sold and delivered to the Corporation during the pool period ending on July 31, 2009 and known as Select Canada Western Two-Row selected and accepted for use in the production of barley flour, barley malt or pot or pearled barley is
-	- **(a)** $293.00 for straight barley;
-	- **(b)** $286.00 for tough barley; and
-	- **(c)** $279.50 for damp barley.
+- **(4)** The sum certain that the Corporation is required to pay producers on a per tonne basis under paragraph 32(1)(b) and section 47 of the Act in respect of the base grade of barley sold and delivered to the Corporation during the pool period beginning on August 1, 2009 and ending on July 31, 2010 and known as Select Canada Western Two-Row selected and accepted for use in the production of barley flour, barley malt or pot or pearled barley is
+	- **(a)** $160.00 for straight barley;
+	- **(b)** $153.00 for tough barley; and
+	- **(c)** $146.50 for damp barley.
 
 - **(5)** Where wheat or barley is delivered to an elevator or railway car by a person, other than a producer, who has been granted permission by the Corporation to deliver grain to an elevator, pursuant to subsection 24(1) of the Act, the Corporation shall pay to that person, without issuing a producer's certificate, the sum certain per tonne fixed by these Regulations for wheat or barley of the same grade pursuant to paragraph 32(1)(b) of the Act.
 
 - **(6) and (7)** [Repealed, SOR/90-442, s. 1]
-> SOR/78-76, s. 1; SOR/78-571, s. 1; SOR/79-239, s. 1; SOR/79-536, s. 1; SOR/79-723, s. 1; SOR/80-602, s. 1; SOR/80-884, s. 1; SOR/81-94, s. 1; SOR/81-579, s. 1; SOR/82-752, s. 1; SOR/83-630, s. 1; SOR/83-811, s. 1; SOR/84-174, s. 1; SOR/84-495, s. 1; SOR/84-642, s. 1; SOR/84-908, s. 1; SOR/85-413, s. 1; SOR/86-480, s. 1; SOR/87-454, s. 1; SOR/87-610, s. 1; SOR/88-226, s. 1; SOR/88-373, s. 1; SOR/88-587, s. 1; SOR/89-139, s. 1; SOR/89-281, s. 8; SOR/89-362, s. 1; SOR/89-476, s. 1; SOR/90-71, s. 1; SOR/90-442, s. 1; SOR/91-9, s. 1; SOR/91-467, s. 1; SOR/91-684, s. 1; SOR/92-55, s. 1; SOR/92-212, s. 1; SOR/92-470, s. 1; SOR/92-617, s. 1; SOR/93-32, s. 1; SOR/93-278, s. 1; SOR/93-390, s. 6; SOR/93-406, s. 1; SOR/93-519, s. 1; SOR/94-26, s. 1; SOR/94-230, s. 1; SOR/94-244, s. 1; SOR/94-412, s. 1; SOR/94-521, s. 1; SOR/94-522, s. 1; SOR/94-644, s. 1; SOR/94-756, s. 1; SOR/95-61, s. 1; SOR/95-88, s. 1; SOR/95-224, s. 1; SOR/95-324, s. 1; SOR/95-383, s. 1; SOR/95-480, s. 1; SOR/95-481, s. 1; SOR/95-511, s. 1; SOR/95-554, s. 1; SOR/95-555, s. 1; SOR/96-157, s. 1; SOR/96-264, s. 1; SOR/96-382, s. 1; SOR/96-392, s. 1; SOR/97-113, s. 1; SOR/97-223, s. 1; SOR/97-315, s. 1; SOR/97-361, s. 1; SOR/97-396, s. 1; SOR/97-431, s. 1; SOR/98-14, s. 1; SOR/98-109, s. 1; SOR/98-263, s. 1; SOR/98-384, s. 1; SOR/98-404, s. 1; SOR/99-24, s. 1; SOR/99-36, s. 1; SOR/99-104, s. 1; SOR/99-307, s. 1; SOR/99-341, s. 1; SOR/99-391, s. 1(E); SOR/99-430, s. 1; SOR/2000-23, s. 1; SOR/2000-64, s. 1; SOR/2000-171, s. 1; SOR/2000-295, s. 1; SOR/2000-321, s. 1; SOR/2001-21, s. 1; SOR/2001-137, s. 1; SOR/2001-151, s. 1; SOR/2001-240, s. 1; SOR/2001-267, s. 1; SOR/2001-333, s. 1; SOR/2001-488, s. 1; SOR/2002-28, s. 1; SOR/2002-139, s. 1; SOR/2002-248, s. 1; SOR/2002-285, s. 1; SOR/2002-328, s. 1; SOR/2002-433, s. 1; SOR/2003-287, s. 1; SOR/2003-418, s. 1; SOR/2004-41, s. 1; SOR/2004-134, s. 1; SOR/2004-173, s. 1; SOR/2005-21, s. 1; SOR/2005-36, s. 1; SOR/2005-140, s. 1; SOR/2005-233, s. 1; SOR/2005-349, s. 1; SOR/2006-22, s. 1;  SOR/2006-55, s. 1; SOR/2006-171, s. 1; SOR/2006-172, s. 1; SOR/2006-263, s. 1; SOR/2006-346, s. 1; SOR/2007-21, s. 1; SOR/2007-56, s. 1; SOR/2007-132, s. 1; SOR/2007-167, s. 1; SOR/2007-183, s. 1; SOR/2007-184, s. 1; SOR/2007-217, s. 1; SOR/2007-265, s. 1; SOR/2008-32, s. 1; SOR/2008-40, s. 1; SOR/2008-107, s. 1; SOR/2008-224, s. 1; SOR/2008-232, s. 1; SOR/2009-26, s. 1; SOR/2009-65, s. 1; SOR/2009-196, s. 1.
+> SOR/78-76, s. 1; SOR/78-571, s. 1; SOR/79-239, s. 1; SOR/79-536, s. 1; SOR/79-723, s. 1; SOR/80-602, s. 1; SOR/80-884, s. 1; SOR/81-94, s. 1; SOR/81-579, s. 1; SOR/82-752, s. 1; SOR/83-630, s. 1; SOR/83-811, s. 1; SOR/84-174, s. 1; SOR/84-495, s. 1; SOR/84-642, s. 1; SOR/84-908, s. 1; SOR/85-413, s. 1; SOR/86-480, s. 1; SOR/87-454, s. 1; SOR/87-610, s. 1; SOR/88-226, s. 1; SOR/88-373, s. 1; SOR/88-587, s. 1; SOR/89-139, s. 1; SOR/89-281, s. 8; SOR/89-362, s. 1; SOR/89-476, s. 1; SOR/90-71, s. 1; SOR/90-442, s. 1; SOR/91-9, s. 1; SOR/91-467, s. 1; SOR/91-684, s. 1; SOR/92-55, s. 1; SOR/92-212, s. 1; SOR/92-470, s. 1; SOR/92-617, s. 1; SOR/93-32, s. 1; SOR/93-278, s. 1; SOR/93-390, s. 6; SOR/93-406, s. 1; SOR/93-519, s. 1; SOR/94-26, s. 1; SOR/94-230, s. 1; SOR/94-244, s. 1; SOR/94-412, s. 1; SOR/94-521, s. 1; SOR/94-522, s. 1; SOR/94-644, s. 1; SOR/94-756, s. 1; SOR/95-61, s. 1; SOR/95-88, s. 1; SOR/95-224, s. 1; SOR/95-324, s. 1; SOR/95-383, s. 1; SOR/95-480, s. 1; SOR/95-481, s. 1; SOR/95-511, s. 1; SOR/95-554, s. 1; SOR/95-555, s. 1; SOR/96-157, s. 1; SOR/96-264, s. 1; SOR/96-382, s. 1; SOR/96-392, s. 1; SOR/97-113, s. 1; SOR/97-223, s. 1; SOR/97-315, s. 1; SOR/97-361, s. 1; SOR/97-396, s. 1; SOR/97-431, s. 1; SOR/98-14, s. 1; SOR/98-109, s. 1; SOR/98-263, s. 1; SOR/98-384, s. 1; SOR/98-404, s. 1; SOR/99-24, s. 1; SOR/99-36, s. 1; SOR/99-104, s. 1; SOR/99-307, s. 1; SOR/99-341, s. 1; SOR/99-391, s. 1(E); SOR/99-430, s. 1; SOR/2000-23, s. 1; SOR/2000-64, s. 1; SOR/2000-171, s. 1; SOR/2000-295, s. 1; SOR/2000-321, s. 1; SOR/2001-21, s. 1; SOR/2001-137, s. 1; SOR/2001-151, s. 1; SOR/2001-240, s. 1; SOR/2001-267, s. 1; SOR/2001-333, s. 1; SOR/2001-488, s. 1; SOR/2002-28, s. 1; SOR/2002-139, s. 1; SOR/2002-248, s. 1; SOR/2002-285, s. 1; SOR/2002-328, s. 1; SOR/2002-433, s. 1; SOR/2003-287, s. 1; SOR/2003-418, s. 1; SOR/2004-41, s. 1; SOR/2004-134, s. 1; SOR/2004-173, s. 1; SOR/2005-21, s. 1; SOR/2005-36, s. 1; SOR/2005-140, s. 1; SOR/2005-233, s. 1; SOR/2005-349, s. 1; SOR/2006-22, s. 1;  SOR/2006-55, s. 1; SOR/2006-171, s. 1; SOR/2006-172, s. 1; SOR/2006-263, s. 1; SOR/2006-346, s. 1; SOR/2007-21, s. 1; SOR/2007-56, s. 1; SOR/2007-132, s. 1; SOR/2007-167, s. 1; SOR/2007-183, s. 1; SOR/2007-184, s. 1; SOR/2007-217, s. 1; SOR/2007-265, s. 1; SOR/2008-32, s. 1; SOR/2008-40, s. 1; SOR/2008-107, s. 1; SOR/2008-224, s. 1; SOR/2008-232, s. 1; SOR/2009-26, s. 1; SOR/2009-65, s. 1; SOR/2009-196, s. 1; SOR/2009-226, s. 1.
 
 
 
