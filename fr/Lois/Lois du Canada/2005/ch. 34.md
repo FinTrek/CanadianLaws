@@ -275,6 +275,29 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+**Crédits — compte sur les traités sur le travail**
+
+**19.1** 
+
+- **(1)** Les sommes reçues par Sa Majesté à titre de compensations monétaires versées par suite de la décision d’un groupe spécial rendue en vertu d’un traité sur le travail mentionné à l’annexe sont versées au Trésor et portées au crédit du compte spécial intitulé « compte sur les traités sur le travail », ouvert parmi les comptes du Canada.
+
+**Crédits additionnels**
+
+- **(2)** Sont portées au crédit du compte les sommes correspondant à celles que le Canada est tenu de payer à titre de compensations monétaires par suite de la décision d’un groupe spécial rendue en vertu d’un traité sur le travail mentionné à l’annexe si ce compte a été désigné pour l’application du traité et en conformité avec ses dispositions.
+
+**Intérêts**
+
+- **(3)** Le 1<sup>er</sup> avril de chaque année, sont portés au crédit du compte les intérêts calculés sur son solde, au taux fixé pour l’application du paragraphe 21(2) de la [Loi sur la gestion des finances publiques](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-11.md).
+
+**Débit**
+
+- **(4)** À la demande du ministre du Travail, peuvent être prélevées sur le Trésor, en conformité avec les dispositions d’un traité, une ou plusieurs sommes dont le total n’excède pas la somme portée au crédit du compte, y compris les intérêts, relativement au traité. Ces sommes sont alors affectées au compte.
+> 2009, ch. 16, art. 50.
+
+
+
+
+
 **PARTIE 3** 
 ## Commission de l’assurance-emploi du Canada
 
@@ -650,8 +673,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 **PARTIE 5** 
-> [Abrogée, 2005, ch. 34, art. 83]
-
+## [Abrogée, 2005, ch. 34. art. 83]
 
 
 
@@ -934,5 +956,16 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 <sup><a href='#H-5.7_s85_f'>[*]</a></sup>**85. ** La présente loi, à l’exception des articles 82 et 83, entre en vigueur à la date fixée par décret, mais cette date doit être la même que celle fixée en vertu de l’article 70 de la  [Loi sur le ministère du Développement social](/fr/Lois/Lois%20du%20Canada/2005/ch.%2035.md).
 
 <a name='H-5.7_s85_f'><sup>*</sup></a>: [Note : Articles 82 et 83 en vigueur à la sanction le 20 juillet 2005; loi, à l'exception des articles 82 et 83, en vigueur le 5 octobre 2005, *voir* TR/2005-99.<br />
+
+
+
+
+### **ANNEXE** 
+**(paragraphes 19.1(1) et (2))**
+## Traités
+**1** L’Accord de coopération dans le domaine du travail entre le Canada et la République du Pérou, signé le 29 mai 2008, y compris les modifications éventuelles apportées en conformité avec son article 30.
+
+
+> 2009, ch. 16, art. 51.
 
 
