@@ -56,7 +56,7 @@ Version anglaise seulement***prescribed***, in the case of a form or the informa
 
 **Other definitions**
 
-- **(2)** In this Act, the words and expressions “borrower”, “consolidated student loan agreement”, “course”, “family income”, “financial assistance”, “full-time student”, “loan year”, “part-time student”, “period of studies”, “permanent disability”, “post-secondary school level”, “program of studies”, “student loan” and “student loan agreement” have the meanings assigned by the regulations.
+- **(2)** In this Act, the words and expressions “borrower”, “consolidated student loan agreement”, “course”, “family income”, “financial assistance”, “full-time student”, “loan year”, “part-time student”, “period of studies”, “post-secondary school level”, “program of studies”, “severe permanent disability”, “student loan” and “student loan agreement” have the meanings assigned by the regulations.
 
 **Words and expressions in relation to previous loan years**
 
@@ -237,8 +237,14 @@ Version anglaise seulement***prescribed***, in the case of a form or the informa
 
 **Payment deferred for full-time students**
 
-**8** Subject to the regulations, no amount on account of principal or interest in respect of a student loan prescribed by regulations made under paragraph 15(1)(j) that is made to a full-time student is required to be paid by the borrower until the last day of the seventh month after the month in which the borrower ceases to be a full-time student.
-> 1994, c. 28, s. 8; 2008, c. 28, s. 110
+**8** 
+
+- **(1)** Subject to the regulations, no amount on account of principal or interest in respect of a student loan prescribed by regulations made under paragraph 15(1)(j) that is made to a full-time student is required to be paid by the borrower until the last day of the seventh month after the month in which the borrower ceases to be a full-time student.
+
+**Payment deferred for part-time students**
+
+- **(2)** Subject to the regulations, no amount on account of principal or interest in respect of a student loan that is made to a part-time student is required to be paid by the borrower until the last day of the seventh month after the month in which the borrower ceases to be a student, whether a part-time or full-time student.
+> 1994, c. 28, s. 8; 2008, c. 28, ss. 104, 110
 
 
 
@@ -302,25 +308,19 @@ Version anglaise seulement***prescribed***, in the case of a form or the informa
 
 
 
-**Permanent disability of borrower**
+**Severe permanent disability**
 
-**11** 
-
-- **(1)** All rights of the lender against a borrower in respect of a student loan prescribed by regulations made under paragraph 15(j) terminate if the Minister is satisfied, on the basis of information specified by the Minister and provided to the Minister by or on behalf of the borrower, that the borrower, by reason of the borrower’s permanent disability, is or will be unable to repay the student loan without exceptional hardship, taking into account the borrower’s family income, and in that event the Minister shall pay to the lender the amounts referred to in subparagraph 5(a)(iii).
-
-**Time of disability**
-
-- **(2)** For the purposes of subsection (1), the permanent disability must occur
-	- **(a)** in the case of a full-time student, before the first day of the seventh month after the month in which the borrower ceases to be a full-time student; and
-	- **(b)** in the case of a part-time student, before the day on which the lender and the borrower enter into the student loan agreement.
+**11** All rights of the lender against a borrower in respect of a student loan prescribed by regulations made under paragraph 15(1)(j) terminate if the Minister is satisfied, on the basis of information specified by the Minister and provided by or on behalf of the borrower, that the borrower, by reason of the borrower’s severe permanent disability, is unable to repay the student loan and will never be able to repay it, and in that event the Minister shall pay to the lender the amounts referred to in subparagraph 5(a)(iii).
+> 1994, c. 28, s. 11; 2008, c. 28, s. 106
 
 
 
 
-**Permanent disability of borrower — section 6.1 loan**
 
-**11.1** All obligations of a borrower in respect of a loan made under an agreement entered into under section 6.1 terminate if the Minister is satisfied, on the basis of information specified by the Minister and provided to the Minister by or on behalf of the borrower, that the borrower, by reason of the borrower’s permanent disability, is or will be unable to repay the loan without exceptional hardship, taking into account the borrower’s family income.
-> 2005, c. 30, s. 111
+**Severe permanent disability — section 6.1 loan**
+
+**11.1** All obligations of a borrower in respect of a loan made under an agreement entered into under section 6.1 terminate if the Minister is satisfied, on the basis of information specified by the Minister and provided by or on behalf of the borrower, that the borrower, by reason of the borrower’s severe permanent disability, is unable to repay the loan and will never be able to repay it.
+> 2005, c. 30, s. 111; 2008, c. 28, s. 106
 
 
 
