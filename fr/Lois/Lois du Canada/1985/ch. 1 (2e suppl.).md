@@ -33,7 +33,7 @@
 
 - **(1)** Les définitions qui suivent s’appliquent à la présente loi.
 
-***accord de libre-échange*** L’ALÉNA, l’ALÉCC, l’ALÉCCR, l’ALÉCA ou l’ALÉCI.
+***accord de libre-échange*** L’ALÉNA, l’ALÉCC, l’ALÉCCR, l’ALÉCA, l’ALÉCI ou l’ALÉCP.
 
 ***Accord de libre-échange Canada — États-Unis***[Abrogée, 1997, ch. 14, art. 35]
 
@@ -50,6 +50,8 @@
 ***ALÉCCR*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada — Costa Rica](/fr/Lois/Lois%20du%20Canada/2001/ch.%2028.md).
 
 ***ALÉCI*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada — Israël](/fr/Lois/Lois%20du%20Canada/1996/ch.%2033.md).
+
+***ALÉCP*** S’entend de l’Accord au sens de l’article 2 de la [Loi de mise en oeuvre de l’Accord de libre-échange Canada-Pérou](/fr/Lois/Lois%20du%20Canada/2009/ch.%2016.md).
 
 ***ALÉNA*** S’entend de l’Accord au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange nord-américain](/fr/Lois/Lois%20du%20Canada/1993/ch.%2044.md).
 
@@ -142,9 +144,12 @@
 - **b)** le Chili;
 - **c)** le Costa Rica;
 - **d)** Israël ou autre bénéficiaire de l’ALÉCI;
-- **e)** un État de l’AELÉ.
+- **e)** un État de l’AELÉ;
+- **f)** le Pérou.
 
 ***pays ALÉNA*** S’entend au sens du paragraphe 2(1) de la [Loi de mise en oeuvre de l’Accord de libre-échange nord-américain](/fr/Lois/Lois%20du%20Canada/1993/ch.%2044.md).
+
+***Pérou*** S’entend au sens du paragraphe 2(1) du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
 
 ***personne*** Particulier, société de personnes, personne morale, fiducie ou succession, ainsi que l’organisme qui est un syndicat, un club, une association, une commission ou autre organisation, ces notions étant visées dans des formulations générales, impersonnelles ou comportant des pronoms ou adjectifs indéfinis.
 
@@ -187,6 +192,8 @@
 
 ***traitement tarifaire préférentiel de l’ALÉCI*** Le bénéfice des taux de droits de douane du tarif de l’Accord Canada — Israël au titre du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
 
+***traitement tarifaire préférentiel de l’ALÉCP*** Le bénéfice des taux de droits de douane du tarif du Pérou au titre du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
+
 ***traitement tarifaire préférentiel de l’ALÉNA*** Le bénéfice des taux de droits de douane du tarif des États-Unis, du tarif du Mexique ou du taux du tarif Mexique — États-Unis au titre du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md).
 
 ***utilisateur agréé*** S’entend au sens de l’article 2 de la [Loi de 2001 sur l’accise](/fr/Lois/Lois%20du%20Canada/2002/ch.%2022.md).
@@ -222,7 +229,8 @@
 	- **b)** du traitement tarifaire préférentiel de l’ALÉCC;
 	- **c)** du traitement tarifaire préférentiel de l’ALÉCCR;
 	- **d)** du traitement tarifaire préférentiel de l’ALÉCI;
-	- **e)** du traitement tarifaire préférentiel de l’ALÉCA.
+	- **e)** du traitement tarifaire préférentiel de l’ALÉCA;
+	- **f)** du traitement tarifaire préférentiel de l’ALÉCP.
 
 **Documents électroniques**
 
@@ -247,7 +255,7 @@
 **Délégation par le ministre du Revenu national**
 
 - **(6)** Le ministre du Revenu national peut autoriser toute personne employée par l’Agence du revenu du Canada ou par l’Agence, nommément ou au titre de son appartenance à une catégorie donnée, à exercer les pouvoirs et fonctions, y compris les pouvoirs et fonctions judiciaires ou quasi-judiciaires, qui lui sont conférés en vertu de la présente loi.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 2, ch. 41 (3<sup>e</sup> suppl.), art. 118; 1988, ch. 65, art. 66; 1990, ch. 45, art. 19; 1992, ch. 28, art. 1; 1993, ch. 25, art. 68, ch. 27, art. 213, ch. 44, art. 81; 1994, ch. 13, art. 7; 1995, ch. 15, art. 24, ch. 41, art. 1; 1996, ch. 31, art. 73, ch. 33, art. 28; 1997, ch. 14, art. 35, ch. 36, art. 147; 1998, ch. 19, art. 262; 1999, ch. 17, art. 123; 2001, ch. 25, art. 1, ch. 28, art. 26; 2002, ch. 22, art. 328; 2005, ch. 38, art. 60 et 145; 2007, ch. 18, art. 135; 2009, ch. 6, art. 23, ch. 10, art. 1(F).
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 2, ch. 41 (3<sup>e</sup> suppl.), art. 118; 1988, ch. 65, art. 66; 1990, ch. 45, art. 19; 1992, ch. 28, art. 1; 1993, ch. 25, art. 68, ch. 27, art. 213, ch. 44, art. 81; 1994, ch. 13, art. 7; 1995, ch. 15, art. 24, ch. 41, art. 1; 1996, ch. 31, art. 73, ch. 33, art. 28; 1997, ch. 14, art. 35, ch. 36, art. 147; 1998, ch. 19, art. 262; 1999, ch. 17, art. 123; 2001, ch. 25, art. 1, ch. 28, art. 26; 2002, ch. 22, art. 328; 2005, ch. 38, art. 60 et 145; 2007, ch. 18, art. 135; 2009, ch. 6, art. 23, ch. 10, art. 1(F), ch. 16, art. 31 et 56.
 
 
 
@@ -1728,7 +1736,7 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 
 
 
-#### Refus ou retrait du traitement tarifaire préférentiel de l’ALÉNA, de l’ALÉCC ou de l’ALÉCCR
+#### Refus ou retrait du traitement tarifaire préférentiel de l’ALÉNA, de l’ALÉCC, de l’ALÉCCR ou de l’ALÉCP
 
 
 
@@ -1736,12 +1744,12 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 
 **42.4** 
 
-- **(1)** Au présent article, ***marchandises identiques*** s’entend, selon le cas, au sens de l’article 514 de l’ALÉNA, à celui de l’article E-14 de l’ALÉCC ou à celui de l’article V.14 de l’ALÉCCR.
+- **(1)** Au présent article, ***marchandises identiques*** s’entend, selon le cas, au sens de l’article 514 de l’ALÉNA, à celui de l’article E-14 de l’ALÉCC ou à celui de l’article V.14 de l’ALÉCCR ou de produits identiques au sens de l’article 423 de l’ALÉCP.
 
-**Refus ou retrait : pays ALÉNA, Chili ou Costa Rica**
+**Refus ou retrait : pays ALÉNA, Chili, Costa Rica ou Pérou**
 
-- **(2)** Par dérogation à l’article 24 du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md), le ministre peut refuser ou retirer, sous réserve des conditions réglementaires, le traitement tarifaire préférentiel de l’ALÉNA, celui de l’ALÉCC ou celui de l’ALÉCCR à des marchandises pour lesquelles ce traitement est demandé dans le cas où l’exportateur ou le producteur des marchandises a fait de fausses déclarations sur l’application de ce traitement à des marchandises identiques exportées ou produites par lui et pour lesquelles avait été demandé ce traitement.
-> 1993, ch. 44, art. 86; 1997, ch. 14, art. 38, ch. 36, art. 164; 2001, ch. 28, art. 27.
+- **(2)** Par dérogation à l’article 24 du [Tarif des douanes](/fr/Lois/Lois%20du%20Canada/1997/ch.%2036.md), le ministre peut refuser ou retirer, sous réserve des conditions réglementaires, le traitement tarifaire préférentiel de l’ALÉNA, de l’ALÉCC, de l’ALÉCCR ou de l’ALÉCP à des marchandises pour lesquelles ce traitement est demandé dans le cas où l’exportateur ou le producteur des marchandises a fait de fausses déclarations sur l’application de ce traitement à des marchandises identiques exportées ou produites par lui et pour lesquelles avait été demandé ce traitement.
+> 1993, ch. 44, art. 86; 1997, ch. 14, art. 38, ch. 36, art. 164; 2001, ch. 28, art. 27; 2009, ch. 16, art. 32.
 
 
 
@@ -1784,7 +1792,7 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 
 - **(1)** L’agent chargé par le président, individuellement ou au titre de son appartenance à une catégorie d’agents, de l’application du présent article est tenu, sur demande d’un membre d’une catégorie réglementaire présentée dans le délai réglementaire, selon les modalités réglementaires, en la forme et avec les renseignements déterminés par le ministre, de rendre, avant l’importation de marchandises, une décision anticipée :
 	- **a)** sur l’origine des marchandises et l’application à leur égard du traitement tarifaire préférentiel découlant d’un accord de libre-échange;
-	- **b)** s’agissant de marchandises exportées d’un pays ALÉNA, du Chili, du Costa Rica ou d’un État de l’AELÉ, sur toute autre question portant sur l’application à celles-ci du paragraphe 1 de l’article 509 de l’ALÉNA, du paragraphe 1 de l’article E-09 de l’ALÉCC ou du paragraphe 1 de l’article V.9 ou du paragraphe 10 de l’article IX.2 de l’ALÉCCR ou du paragraphe 28(2) de l’annexe C de l’ALÉCA, selon le cas;
+	- **b)** s’agissant de marchandises exportées d’un pays ALÉNA, du Chili, du Costa Rica, d’un État de l’AELÉ ou du Pérou, sur des questions — autres que celles visées aux alinéas a) et c) — portant sur l’application aux marchandises du paragraphe 1 de l’article 509 de l’ALÉNA, du paragraphe 1 de l’article E-09 de l’ALÉCC, du paragraphe 1 de l’article V.9 ou du paragraphe 10 de l’article IX.2 de l’ALÉCCR, du paragraphe 28(2) de l’annexe C de l’ALÉCA ou du paragraphe 1 de l’article 419 de l’ALÉCP, selon le cas;
 	- **c)** sur le classement tarifaire des marchandises.
 
 **Règlements**
@@ -1794,7 +1802,7 @@ Il peut en outre préciser, dans l’agrément, les limites et les circonstances
 	- **b)** leur modification ou annulation, y compris la prise d’effet rétroactive de la modification ou de l’annulation;
 	- **c)** le pouvoir de l’agent d’exiger, dans le cadre d’une demande de décision anticipée, des renseignements supplémentaires;
 	- **d)** les cas où peut être reporté ou refusé le prononcé d’une décision anticipée.
-> 1993, ch. 44, art. 87; 1996, ch. 33, art. 33; 1997, ch. 14, art. 39; 2001, ch. 25, art. 36, ch. 28, art. 28; 2004, ch. 16, art. 6(F); 2005, ch. 38, art. 71; 2009, ch. 6, art. 26.
+> 1993, ch. 44, art. 87; 1996, ch. 33, art. 33; 1997, ch. 14, art. 39; 2001, ch. 25, art. 36, ch. 28, art. 28; 2004, ch. 16, art. 6(F); 2005, ch. 38, art. 71; 2009, ch. 6, art. 26, ch. 16, art. 33 et 56.
 
 
 
@@ -2665,7 +2673,7 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 	- **b)** elles ont été dédouanées en quantité inférieure à celle pour laquelle les droits ont été payés;
 	- **c)** elles sont de qualité inférieure à celle pour laquelle les droits ont été payés;
 	- **c.1)** les marchandises ont été exportées d’un pays ALÉNA ou du Chili mais n’ont pas fait l’objet d’une demande visant l’obtention du traitement tarifaire préférentiel de l’ALÉNA ou de celui de l’ALÉCC au moment de leur déclaration en détail en application du paragraphe 32(1), (3) ou (5);
-	- **c.11)** les marchandises ont été importées du Costa Rica, d’un État de l’AELÉ, d’Israël ou d’un autre bénéficiaire de l’ALÉCI, mais n’ont pas fait l’objet d’une demande visant l’obtention du traitement tarifaire préférentiel de l’ALÉCCR, de l’ALÉCA ou de l’ALÉCI au moment de leur déclaration en détail en application des paragraphes 32(1), (3) ou (5);
+	- **c.11)** les marchandises ont été importées du Costa Rica, d’un État de l’AELÉ, d’Israël ou autre bénéficiaire de l’ALÉCI ou du Pérou, mais n’ont pas fait l’objet d’une demande visant l’obtention du traitement tarifaire préférentiel de l’ALÉCCR, de l’ALÉCA, de l’ALÉCI ou de l’ALÉCP, selon le cas, au moment de leur déclaration en détail en application des paragraphes 32(1), (3) ou (5);
 	- **c.2)** [Abrogé, 1997, ch. 14, art. 43]
 	- **d)** le calcul des droits dus sur les marchandises est fondé sur une erreur d’écriture ou de typographie, ou sur une autre erreur de même nature;
 	- **e)** les marchandises ont fait l’objet d’un paiement de droits excédentaire ou erroné résultant d’une erreur de détermination, en application du paragraphe 58(2), de leur origine — dans des cas autres que ceux prévus aux alinéas c.1) ou c.11) — , de leur classement tarifaire ou de leur valeur en douane et elles n’ont pas fait l’objet de la décision prévue à l’un ou l’autre des articles 59 à 61;
@@ -2717,7 +2725,7 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 **Affectation du remboursement**
 
 - **(8)** Une personne d’une catégorie réglementaire peut, dans les quatre ans suivant la déclaration en détail prévue aux paragraphes 32(1), (3) ou (5), dans les cas et aux conditions réglementaires, affecter le montant d’un remboursement auquel elle a droit en vertu du présent article au paiement d’une somme dont elle est redevable ou dont elle peut devenir redevable au titre de la présente loi.
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 74; 1988, ch. 65, art. 72; 1993, ch. 44, art. 98; 1996, ch. 33, art. 36; 1997, ch. 14, art. 43, ch. 36, art. 175; 1999, ch. 31, art. 71(F); 2001, ch. 25, art. 51, ch. 28, art. 29; 2002, ch. 22, art. 337; 2009, ch. 6, art. 27.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 74; 1988, ch. 65, art. 72; 1993, ch. 44, art. 98; 1996, ch. 33, art. 36; 1997, ch. 14, art. 43, ch. 36, art. 175; 1999, ch. 31, art. 71(F); 2001, ch. 25, art. 51, ch. 28, art. 29; 2002, ch. 22, art. 337; 2009, ch. 6, art. 27, ch. 16, art. 34 et 56.
 
 
 
@@ -2829,7 +2837,15 @@ La demande fondée sur l’alinéa a) est présentée dans les quatre-vingt-dix 
 
 
 
-**88 à 94** [Abrogés, 1997, ch. 36, art. 181]
+**88 à 91** [Abrogés, 1997, ch. 36, art. 181]
+
+
+
+**92** [Abrogé, 1995, ch. 41, art. 24]
+
+
+
+**93 et 94** [Abrogés, 1997, ch. 36, art. 181]
 
 
 
@@ -5737,12 +5753,16 @@ Toutefois, la totalité de celle-ci et de la somme établie ne doit pas dépasse
 
 - **(1.4)** Sur recommandation du ministre, le gouverneur en conseil peut prendre des règlements en vue de l’interprétation, de l’application et de l’exécution uniformes du chapitre II et de l’annexe C de l’ALÉCA ou pour toute autre question dont peuvent convenir les parties à celui-ci.
 
+**Règlements : ALÉCP**
+
+- **(1.5)** Sur recommandation du ministre, le gouverneur en conseil peut prendre des règlements en vue de l’interprétation, de l’application et de l’exécution uniformes du chapitre quatre de l’ALÉCP ou pour toute autre question dont peuvent convenir les parties à celui-ci.
+
 **Règlement fixant un taux d’intérêt**
 
 - **(2)** Le gouverneur en conseil peut, par règlement et sur recommandation du ministre des Finances, fixer un taux d’intérêt ou établir des règles de fixation d’un taux d’intérêt pour l’application d’une disposition de la présente loi.
 
 - **(3) et (4)** [Abrogés, 2001, ch. 25, art. 85]
-> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 164; 1988, ch. 65, art. 81; 1992, ch. 28, art. 30, ch. 31, art. 22; 1993, ch. 44, art. 108; 1994, ch. 47, art. 72; 1995, ch. 41, art. 36; 1996, ch. 33, art. 40; 1997, ch. 14, art. 47; 1998, ch. 19, art. 264; 2001, ch. 25, art. 85, ch. 28, art. 30; 2007, ch. 18, art. 141; 2009, ch. 6, art. 29, ch. 10, art. 16.
+> L.R. (1985), ch. 1 (2<sup>e</sup> suppl.), art. 164; 1988, ch. 65, art. 81; 1992, ch. 28, art. 30, ch. 31, art. 22; 1993, ch. 44, art. 108; 1994, ch. 47, art. 72; 1995, ch. 41, art. 36; 1996, ch. 33, art. 40; 1997, ch. 14, art. 47; 1998, ch. 19, art. 264; 2001, ch. 25, art. 85, ch. 28, art. 30; 2007, ch. 18, art. 141; 2009, ch. 6, art. 29, ch. 10, art. 16, ch. 16, art. 35 et 56.
 
 
 
