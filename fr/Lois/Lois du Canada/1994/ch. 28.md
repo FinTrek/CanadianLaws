@@ -54,7 +54,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Autres définitions**
 
-- **(2)** Dans la présente loi, les termes « aide financière », « année de prêt », « contrat de prêt consolidé », « contrat de prêt simple », « cours », « emprunteur », « étudiant à temps partiel », « étudiant à temps plein », « invalidité permanente », « niveau postsecondaire », « période d’études », « prêt d’études », « programme d’études » et « revenu familial » s’entendent au sens des règlements.
+- **(2)** Dans la présente loi, les termes « aide financière », « année de prêt », « contrat de prêt consolidé », « contrat de prêt simple », « cours », « emprunteur », « étudiant à temps partiel », « étudiant à temps plein », « invalidité grave et permanente », « niveau post­secondaire », « période d’études », « prêt d’études », « programme d’études » et « revenu familial » s’entendent au sens des règlements.
 
 **Expressions employées à l’égard d’années de prêt antérieures**
 
@@ -233,8 +233,14 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Report de paiement**
 
-**8** Sous réserve des règlements, le paiement du principal ou des intérêts d’un prêt d’études visé par les règlements pris en vertu de l’alinéa 15(1)j) et consenti à un étudiant à temps plein peut être différé jusqu’au dernier jour du septième mois suivant celui où l’emprunteur cesse d’être étudiant à temps plein.
-> 1994, ch. 28, art. 8; 2008, ch. 28, art. 110
+**8** 
+
+- **(1)** Sous réserve des règlements, le paiement du principal ou des intérêts d’un prêt d’études visé par les règlements pris en vertu de l’alinéa 15(1)j) et consenti à un étudiant à temps plein peut être différé jusqu’au dernier jour du septième mois suivant celui où l’emprunteur cesse d’être étudiant à temps plein.
+
+**Report de paiement — étudiant à temps partiel**
+
+- **(2)** Sous réserve des règlements, le paiement du principal ou des intérêts d’un prêt d’études consenti à un étudiant à temps partiel peut être différé jusqu’au dernier jour du septième mois suivant celui où l’emprunteur cesse d’être étudiant, tant à temps partiel qu’à temps plein.
+> 1994, ch. 28, art. 8; 2008, ch. 28, art. 104 et 110
 
 
 
@@ -298,25 +304,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Invalidité**
+**Invalidité grave et permanente**
 
-**11** 
-
-- **(1)** Dans le cas d’un prêt d’études visé par les règlements pris en vertu de l’alinéa 15j), les droits du prêteur à l’égard de l’emprunteur s’éteignent lorsque, sur communication par celui-ci — ou en son nom — des renseignements qu’il détermine, le ministre est convaincu que ce dernier, en raison d’une invalidité permanente et compte tenu du revenu familial, ne peut ou ne pourra rembourser son prêt sans privations excessives; le ministre effectue alors le paiement visé au sous-alinéa 5a)(iii).
-
-**Conditions de l’extinction et du paiement**
-
-- **(2)** Pour l’application du paragraphe (1), l’extinction des droits ne se réalise que si l’invalidité permanente survient :
-	- **a)** dans le cas d’un prêt consenti à un étudiant à temps plein, avant le premier jour du septième mois suivant celui où il a cessé de l’être;
-	- **b)** dans le cas d’un prêt consenti à un étudiant à temps partiel, avant la conclusion du contrat de prêt simple.
+**11** Dans le cas d’un prêt d’études visé par les règlements pris en vertu de l’alinéa 15(1)j), les droits du prêteur à l’égard de l’emprunteur s’éteignent lorsque, sur communication par celui-ci — ou en son nom — des renseignements qu’il détermine, le ministre est convaincu que ce dernier, en raison d’une invalidité grave et permanente, ne peut et ne pourra jamais rembourser son prêt; le ministre effectue alors le paiement visé au sous-alinéa 5a)(iii).
+> 1994, ch. 28, art. 11; 2008, ch. 28, art. 106
 
 
 
 
-**Invalidité : prêt consenti sous le régime de l’article 6.1**
 
-**11.1** Dans le cas d’un prêt consenti sous le régime de l’article 6.1, les obligations de l’emprunteur s’éteignent lorsque, sur communication par celui-ci — ou en son nom — des renseignements que le ministre détermine, le ministre est convaincu que, en raison d’une invalidité permanente et compte tenu du revenu familial, l’emprunteur ne peut ou ne pourra rembourser son prêt sans privations excessives.
-> 2005, ch. 30, art. 111
+**Invalidité grave et permanente : prêt consenti sous le régime de l’article 6.1**
+
+**11.1** Dans le cas d’un prêt consenti sous le régime de l’article 6.1, les obligations de l’emprunteur s’éteignent lorsque, sur communication par celui-ci — ou en son nom — des renseignements qu’il détermine, le ministre est convaincu que ce dernier, en raison d’une invalidité grave et permanente, ne peut et ne pourra jamais rembourser son prêt.
+> 2005, ch. 30, art. 111; 2008, ch. 28, art. 106
 
 
 
