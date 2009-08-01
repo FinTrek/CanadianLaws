@@ -649,7 +649,7 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 <sup><a href='#fn_Ind7A7E_hq_4904'>[*]</a></sup>**115** Le paragraphe 101(1) et les articles 104 à 106 et 112 entrent en vigueur à la date ou aux dates fixées par décret.
 
-<a name='fn_Ind7A7E_hq_4904'><sup>*</sup></a>: [Note : Paragraphe 101(1) et articles 104 à 106 et 112 non en vigueur.]<br />
+<a name='fn_Ind7A7E_hq_4904'><sup>*</sup></a>: [Note : Article 104 en vigueur le 1<sup>er</sup> août 2009, *voir* TR/2009-59; paragraphe 101(1) et articles 106 et 112 en vigueur le 1<sup>er</sup> août  2009, *voir* TR/2009-66.]<br />
 
 
 
