@@ -7823,7 +7823,15 @@ where
 
 - **(1)** Every low-speed vehicle shall conform to the requirements of Technical Standards Document No. 500, Low-speed Vehicles (TSD 500), as amended from time to time.
 
-- **(2) to (5)** [Not in force]
+- **(2)** Every low-speed vehicle shall be permanently marked with a slow-moving vehicle identification emblem (SMV emblem) that conforms to section 6 of American National Standard Slow Moving Vehicle Identification Emblem (SMV Emblem), ANSI/ASAE S276.6, published in January 2005 by the American Society of Agricultural Engineers.
+
+- **(3)** However, section 6 of ANSI/ASAE S276.6 is modified as follows:
+	- **(a)** the dimensions of the SMV emblem may be greater than those specified in Figure 1 as long as each dimension is increased so that it has the same relation to the other dimensions as the dimensions specified in the Figure have to each other; and
+	- **(b)** the recommendation in paragraph 6.2.6 is mandatory.
+
+- **(4)** The SMV emblem shall be mounted in accordance with paragraphs 7.1.1 and 7.1.2 of ANSI/ASAE S276.6. It shall be mounted on the centreline or as near to the left of the centreline of the vehicle as practicable, not less than 500 mm but not more than 1 500 mm above the surface of the roadway.
+
+- **(5)** The SMV emblem shall be affixed so that the view of the emblem is not obscured or obstructed by any part of the vehicle or any attachment designed for the vehicle.
 
 - **(6)** This section expires on June 1, 2013.
 > SOR/2000-304, s. 6; SOR/2005-42, ss. 11, 12; SOR/2008-229, s. 3..
