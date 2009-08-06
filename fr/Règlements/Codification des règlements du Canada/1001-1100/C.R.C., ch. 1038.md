@@ -7808,7 +7808,15 @@ où :
 
 - **(1)** Tout véhicule à basse vitesse doit être conforme aux exigences du Document de normes techniques no 500 — Véhicules à basse vitesse (DNT 500), avec ses modifications successives.
 
-- **(2) à (5)** [Non en vigueur]
+- **(2)** Tout véhicule à basse vitesse doit être marqué de façon permanente d’un panneau indicateur de véhicule lent qui est conforme à l’article 6 de l’American National Standard ANSI/ASAE S276.6, intitulée Slow Moving Vehicle Identification Emblem (SMV Emblem) et publiée en janvier 2005 par l’American Society of Agricultural Engineers.
+
+- **(3)** Toutefois, l’article 6 de la norme ANSI/ASAE S276.6 est modifié de la façon suivante :
+	- **a)** les dimensions du panneau peuvent dépasser celles qui sont indiquées à la figure 1 si elle sont augmentées proportionnellement pour qu’elles gardent entre elles le même rapport que celui des dimensions indiquées à la figure;
+	- **b)** la recommandation figurant au paragraphe 6.2.6 est de force obligatoire.
+
+- **(4)** Le panneau doit être installé conformément aux paragraphes 7.1.1 et 7.1.2 de la norme ANSI/ASAE S276.6. Il doit être installé dans l’axe du véhicule ou le plus près possible de cet axe, à gauche, à au moins 500 mm mais à au plus 1 500 mm de la chaussée.
+
+- **(5)** Le panneau doit être apposé de sorte qu’il ne soit ni masqué ni obstrué par une partie du véhicule ou une pièce conçue pour y être attachée.
 
 - **(6)** Le présent article cesse d’avoir effect le 1<sup>er</sup> juin 2013.
 > DORS/2000-304, art. 6; DORS/2005-42, art. 11 et 12; DORS/2008-229, art. 3..
