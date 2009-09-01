@@ -3929,7 +3929,7 @@ choix du fabricant
 
 - **(7)** Pour l’application du présent article, dans le cadre du DNT 108, la mention « vélomoteur » vaut mention de « motocyclette à vitesse limitée ».
 
-### Document de normes techniques n<sup>o</sup>108
+### Document de normes techniques n<sup>o</sup> 108
 
 
 #### Dispositifs d’éclairage obligatoires — S5.1 du DNT 108
@@ -5284,7 +5284,7 @@ NOTE : LE CALCUL DES DIMENSIONS DES IMAGES DE RÉFÉRENCE SE FAIT AU MOYEN DES F
 
 **124** 
 
-- **(1)** Les voitures de tourisme, véhicules de tourisme à usages multiples, véhicules à trois roues, camions et autobus doivent être conformes aux exigences du Document de normes techniques no124 — Systèmes de commande d’accélération, avec ses modifications successives.
+- **(1)** Les voitures de tourisme, véhicules de tourisme à usages multiples, véhicules à trois roues, camions et autobus doivent être conformes aux exigences du Document de normes techniques no 124 — Systèmes de commande d’accélération, avec ses modifications successives.
 
 - **(2)** Le présent article cesse d’avoir effet le 1<sup>er</sup> janvier 2012.
 > DORS/79-940, art. 7; DORS/2007-180, art. 10..
@@ -6607,7 +6607,8 @@ Figure 19 [Abrogée, DORS/2008-72, art. 8]
 	- **c)** l’indication, au moyen du symbole illustré à la figure 10 ou de toute autre marque utilisée pour indiquer la présence du dispositif universel d’ancrages d’attaches inférieurs, selon le cas, des places assises désignées munies de ce dispositif;
 	- **d)** lorsqu’il s’agit d’un dispositif repliable, des instructions sur la marche à suivre pour le déplier;
 	- **e)** lorsque des appuie-tête sont installés aux places assises munies d’un dispositif universel d’ancrages d’attaches inférieurs, des instructions sur la bonne façon de les régler pour permettre leur utilisation avec les ancrages d’attache prêts à utiliser;
-	- **f)** lorsque le véhicule compte plus d’une rangée de places assises désignées, la mention que les enfants et les bébés sont plus en sécurité lorsqu’ils sont retenus correctement dans des ensembles de retenue pour enfant, ou des ensembles de retenue pour bébé, assujettis à une place assise arrière.
+	- **f)** lorsque le véhicule compte plus d’une rangée de places assises désignées, la mention que les enfants et les bébés sont plus en sécurité lorsqu’ils sont retenus correctement dans des ensembles de retenue pour enfant, ou des ensembles de retenue pour bébé, assujettis à une place assise arrière;
+	- **g)** si les décapotables ou les véhicules de type ouvert n’ont pas de place assise désignée munie d’un ancrage d’attache prêt à utiliser, la mention que ni un ensemble de retenue d’enfant ni un coussin d’appoint exigeant l’utilisation d’une courroie d’attache ne peuvent être convenablement assujettis à bord de ces véhicules.
 
 - 
 <table>
