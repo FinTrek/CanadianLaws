@@ -6621,8 +6621,9 @@ Figure 19 [Repealed, SOR/2008-72, s. 8]
 	- **(b)** [Repealed, SOR/2008-72, s. 9]
 	- **(c)** an identification, by means of the symbol shown in Figure 10 or any other mark used to indicate the presence of a lower universal anchorage system, as applicable, of the designated seating positions that are equipped with a lower universal anchorage system;
 	- **(d)** if the vehicle is equipped with a foldable system, instructions on how to deploy the system;
-	- **(e)** if the vehicle is equipped with head restraints at the seating positions equipped with a lower universal anchorage system, instructions on the correct manner of adjusting the head restraints for use with user-ready tether anchorages; and
-	- **(f)** if the vehicle has more than one row of designated seating positions, a statement that children and infants are safer when properly restrained in a child restraint system or infant restraint system secured in a rear seating position.
+	- **(e)** if the vehicle is equipped with head restraints at the seating positions equipped with a lower universal anchorage system, instructions on the correct manner of adjusting the head restraints for use with user-ready tether anchorages;
+	- **(f)** if the vehicle has more than one row of designated seating positions, a statement that children and infants are safer when properly restrained in a child restraint system or infant restraint system secured in a rear seating position; and
+	- **(g)** if a convertible or an open-body type vehicle has no designated seating position equipped with a user-ready tether anchorage, a statement that neither a child restraint system nor a booster cushion requiring the use of a tether strap can be properly secured in the vehicle.
 
 - 
 <table>
