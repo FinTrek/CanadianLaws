@@ -455,6 +455,15 @@ shall not be regarded as a place where bait has been deposited.
 
 - **(1.1)** Notwithstanding subsection 2(3) and paragraph (1)(e), a person referred to in subsection 5(2) may hunt murres from a power boat.
 
+- **(1.2)** Notwithstanding paragraph (1)(e), a mobility-impaired person may hunt from an aircraft, a sailboat, a powerboat or a vehicle referred to in that paragraph if it is stationary and if the person
+	- **(a)** is authorized, under the laws of the province where the hunting occurs, to hunt in a manner described in that paragraph, if those laws provide for such an authorization; and
+	- **(b)** has a medical certificate referred to in subsection (1.3), in any other case.
+
+- **(1.3)** The medical certificate must
+	- **(a)** be signed by a medical practitioner lawfully entitled to practise medicine in any province;
+	- **(b)** attest to the person’s impairment of mobility because of a condition that is not temporary in nature and that severely limits the use of their legs, including being paraplegic, being hemiplegic, being dependent on a wheelchair to move about, having prostheses on both legs and having a leg amputated above the knee; and
+	- **(c)** attest that the practitioner is not aware of any medical reason to believe that the person is not capable of operating, in a competent manner, the weapon that they use to hunt.
+
 - **(2)** No person shall, while hunting migratory birds, have with him for his own use more than one shotgun at any one time unless each shotgun in excess of one is unloaded and disassembled or unloaded and cased.
 
 - **(3)** Subject to subsections (4) and (5), no person shall hunt a migratory bird by the use of a rifle or a shotgun loaded with a single bullet.
@@ -470,7 +479,7 @@ shall not be regarded as a place where bait has been deposited.
 - **(6)** Notwithstanding paragraph (1)(a), migratory game birds may be hunted with the aid of raptors in any area of a province that is designated by the province as an area in which persons may hunt with the aid of raptors.
 
 - **(7)** [Repealed, SOR/99-147, s. 4]
-> SOR/79-544, s. 7; SOR/82-703, s. 5; SOR/85-694, s. 4; SOR/93-431, s. 3; SOR/98-527, s. 1; SOR/99-147, s. 4; SOR/2000-331, ss. 2, 3; SOR/2002-80, s. 1; SOR/2008-217, s. 1.
+> SOR/79-544, s. 7; SOR/82-703, s. 5; SOR/85-694, s. 4; SOR/93-431, s. 3; SOR/98-527, s. 1; SOR/99-147, s. 4; SOR/2000-331, ss. 2, 3; SOR/2002-80, s. 1; SOR/2008-217, s. 1; SOR/2009-255, s. 1.
 
 
 
