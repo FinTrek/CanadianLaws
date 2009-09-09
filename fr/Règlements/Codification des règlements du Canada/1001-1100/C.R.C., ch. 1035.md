@@ -455,6 +455,15 @@ n’est pas considérée comme un endroit où un appât a été placé.
 
 - **(1.1)** Malgré le paragraphe 2(3) et l’alinéa (1)e), les personnes visées au paragraphe 5(2) peuvent chasser la marmette à partir d’un bateau à moteur.
 
+- **(1.2)** Malgré l’alinéa (1)e), une personne à mobilité réduite peut chasser au moyen de l’aéronef, du bateau ou du véhicule visé par cet alinéa s’il est à l’arrêt et si cette personne :
+	- **a)** est autorisée par les lois de la province où a lieu la chasse à chasser d’une façon décrite à cet alinéa, dans le cas où ces lois prévoient une telle autorisation;
+	- **b)** possède le certificat médical visé au paragraphe (1.3), dans tous les autres cas.
+
+- **(1.3)** Le certificat médical :
+	- **a)** est signé par un médecin légalement autorisé à exercer dans une province;
+	- **b)** atteste que la mobilité de la personne est réduite en raison d’une condition non temporaire qui la limite gravement dans l’usage de ses jambes, notamment la paraplégie, l’hémiplégie, la dépendance à l’égard d’un fauteuil roulant pour se déplacer, l’utilisation de prothèses aux deux jambes ou l’amputation d’une jambe au dessus du genou;
+	- **c)** atteste qu’il n’y a pas de raison médicale de croire que la personne est incapable de manipuler correctement son arme de chasse.
+
 - **(2)** Il est interdit à quiconque chasse des oiseaux migrateurs d’avoir, pour son propre usage, plus d’un fusil de chasse à la fois, à moins que chaque fusil en excédent ne soit déchargé et démonté ou déchargé et dans un étui.
 
 - **(3)** Sous réserve des paragraphes (4) et (5), il est interdit de chasser un oiseau migrateur en se servant d’une carabine ou d’un fusil de chasse chargé d’une seule balle.
@@ -470,7 +479,7 @@ n’est pas considérée comme un endroit où un appât a été placé.
 - **(6)** Nonobstant l’alinéa (1)a), les oiseaux migrateurs considérés comme gibier peuvent être chassés à l’aide d’oiseaux rapaces dans toute zone désignée par une province comme zone où il est permis de chasser avec de tels oiseaux.
 
 - **(7)** [Abrogé, DORS/99-147, art. 4]
-> DORS/79-544, art. 7; DORS/82-703, art. 5; DORS/85-694, art. 4; DORS/93-431, art. 3; DORS/98-527, art. 1; DORS/99-147, art. 4; DORS/2000-331, art. 2 et 3; DORS/2002-80, art. 1; DORS/2008-217, art. 1.
+> DORS/79-544, art. 7; DORS/82-703, art. 5; DORS/85-694, art. 4; DORS/93-431, art. 3; DORS/98-527, art. 1; DORS/99-147, art. 4; DORS/2000-331, art. 2 et 3; DORS/2002-80, art. 1; DORS/2008-217, art. 1; DORS/2009-255, art. 1.
 
 
 
