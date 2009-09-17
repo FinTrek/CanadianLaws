@@ -1873,7 +1873,7 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 </tr>
 <tr>
 <td>35</td>
-<td>Si la signification s’effectue à plus de 2 milles du bureau ou du lieu d’affaires le plus rapproché de l’avocat effectuant la signification, par mille, en plus de 2, chaque trajet </td>
+<td>Si la signification s’effectue à plus de 2 milles du bureau ou du lieu d’affaires le plus rapproché de l’avocat effectuant la signification, par mille, en plus de 2, chaque trajet </td>
 <td>0,30</td>
 </tr>
 <tr>
@@ -2000,7 +2000,6 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 <td>5,00</td>
 </tr>
 <tr>
-<td></td>
 <td>Peut être réduit ou augmenté à la discrétion de l’officier taxateur.</td>
 <td></td>
 </tr>
@@ -2074,7 +2073,7 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 <tr>
 <td>63</td>
 <td>Vacation pour rédiger la minute par heure, au plus </td>
-<td>0,00</td>
+<td>10,00</td>
 </tr>
 <tr>
 <td>64</td>
@@ -2119,7 +2118,7 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 <td>2,00</td>
 </tr>
 <tr>
-<td>f) Vacation pour déposer ou obtenir un chèque de retrait </td>
+<td>f) Vacation pour déposer ou obtenir un chèque de retrait  </td>
 <td>2,00</td>
 </tr>
 <tr>
@@ -2257,6 +2256,10 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 <td>80</td>
 <td>Sur requête ou motion *ex parte* devant le registraire </td>
 <td>15,00</td>
+</tr>
+<tr>
+<td>Les deux honoraires susdits peuvent être augmentés à la discrétion de l’officier taxateur.</td>
+<td></td>
 </tr>
 <tr>
 <td>81</td>
@@ -2442,7 +2445,7 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 <td>150 $</td>
 </tr>
 <tr>
-<td>**b)** dans le cas de l’administrateur, pour tous les services judiciaires fournis dans le cadre d’une proposition de consommateur (section II de la partie III de la Loi), un droit unique de 
+<td>**b)** dans le cas de l’administrateur, pour tous les services judiciaires fournis dans le cadre d’une proposition de consommateur (section II de la partie III de la Loi), un droit unique de 
 
 </td>
 <td>50 $</td>
@@ -2471,7 +2474,7 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 <td>50 $</td>
 </tr>
 <tr>
-<td>**c)** requête ou motion selon les articles 248 ou 249 de la Loi 
+<td>**c)** requête ou motion selon les articles 248 ou 249 de la Loi 
 
 </td>
 <td>50 $</td>
@@ -2489,13 +2492,13 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 <td></td>
 </tr>
 <tr>
-<td>**(i)** dans une faillite ordinaire ou une proposition visée à la section I de la partie III de la Loi 
+<td>**(i)** dans une faillite ordinaire ou une proposition visée à la section I de la partie III de la Loi 
 
 </td>
 <td>50 $</td>
 </tr>
 <tr>
-<td>**(ii)** dans une faillite sommaire ou une proposition visée à la section II de la partie III de la Loi 
+<td>**(ii)** dans une faillite sommaire ou une proposition visée à la section II de la partie III de la Loi 
 
 </td>
 <td>10 $</td>
@@ -2507,7 +2510,7 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 <td>50 $</td>
 </tr>
 <tr>
-<td>**g)** taxation des comptes du séquestre selon le paragraphe 248(2) de la Loi 
+<td>**g)** taxation des comptes du séquestre selon le paragraphe 248(2) de la Loi 
 
 </td>
 <td>50 $</td>
@@ -2653,6 +2656,8 @@ Lorsqu’un fonctionnaire du tribunal rend un service pour lequel aucun honorair
 
 Aucun déboursé n’est payable aux syndics à l’égard
 
+
+
 **a)** des avis de perception,
 
 
@@ -2680,9 +2685,7 @@ Aucun déboursé n’est payable aux syndics à l’égard
 
 
 
-
-
-> DORS/78-389, art. 6; DORS/96-473, art. 2 à 4; DORS/98-240, art. 2; DORS/2007-61, art. 35 à 39, 40(F), 41, 42, 43(F), 44(F), 45, 46(F), 47(F), 48, 49(A), 50(A), 51 à 53, 54(F), 55 à 58, 59(A), 60 à 62, 63(A), 64, 66(F) et 67.
+> DORS/78-389, art. 6; DORS/96-473, art. 2 à 4; DORS/98-240, art. 2; DORS/2007-61, art. 35 à 39, 40(F), 41, 42, 43(F), 44(F), 45, 46(F), 47(F), 48, 49(A), 50(A), 51 à 53, 54(F), 55 à 58, 59(A), 60 à 62, 63(A), 64, 66(F) et 67; DORS/2009-270, art. 1.
 
 
 
