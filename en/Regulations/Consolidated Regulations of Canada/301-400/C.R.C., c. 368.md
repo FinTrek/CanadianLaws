@@ -1874,7 +1874,7 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 </tr>
 <tr>
 <td>35</td>
-<td>If served at over 2 miles from nearest place of business or office of barrister or solicitor or, in the Province of Quebec, advocate serving same, for each mile beyond 2, each way </td>
+<td>If served at over 2 miles from nearest place of business or office of barrister or solicitor or, in the Province of Quebec, advocate serving same, for each mile beyond 2, each way </td>
 <td>0.30</td>
 </tr>
 <tr>
@@ -1896,12 +1896,12 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 <tr>
 <td>38</td>
 <td>Drawing brief </td>
-<td>   5.00</td>
+<td>5.00</td>
 </tr>
 <tr>
 <td>39</td>
 <td>Every additional folio over five </td>
-<td>   0.20</td>
+<td>0.20</td>
 </tr>
 </table>
 
@@ -1912,7 +1912,7 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 <tr>
 <td>40</td>
 <td>Copies of bankruptcy applications, pleadings, notices, demands, minutes, orders, judgments, appointments, subpoenas and any other document when no other provision is made and copies are properly allowable, per folio, for each copy </td>
-<td>   0.10</td>
+<td>0.10</td>
 </tr>
 </table>
 
@@ -2256,8 +2256,12 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 </tr>
 <tr>
 <td>80</td>
-<td>Both of above items may be increased in the discretion of the taxing officer </td>
+<td>On *ex parte* application or motion to registrar </td>
 <td>15.00</td>
+</tr>
+<tr>
+<td>Both of above items may be increased in the discretion of the taxing officer.</td>
+<td></td>
 </tr>
 <tr>
 <td>81</td>
@@ -2472,7 +2476,7 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 <td>$50</td>
 </tr>
 <tr>
-<td>**(c)** a motion made under section 248 or 249 of the Act 
+<td>**(c)** a motion made under section 248 or 249 of the Act 
 
 </td>
 <td>$50</td>
@@ -2490,13 +2494,13 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 <td></td>
 </tr>
 <tr>
-<td>**(i)** in an ordinary bankruptcy or a proposal under Division I of Part III of the Act 
+<td>**(i)** in an ordinary bankruptcy or a proposal under Division I of Part III of the Act 
 
 </td>
 <td>$50</td>
 </tr>
 <tr>
-<td>**(ii)** in a summary bankruptcy or a proposal under Division II of Part III of the Act 
+<td>**(ii)** in a summary bankruptcy or a proposal under Division II of Part III of the Act 
 
 </td>
 <td>$10</td>
@@ -2508,7 +2512,7 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 <td>$50</td>
 </tr>
 <tr>
-<td>**(g)** taxing a receiver’s accounts under subsection 248(2) of the Act 
+<td>**(g)** taxing a receiver’s accounts under subsection 248(2) of the Act 
 
 </td>
 <td>$50</td>
@@ -2624,15 +2628,15 @@ the cost of printing plus postage or if it is less,
 
 
 
-**(l)** on the first 100 notices and other documents, $0.07 per folio,
+**(l)** on the first 100 notices and other documents, $0.07 per folio,
 
 
 
-**(m)** on the next 200 notices and other documents, $0.05 per folio,
+**(m)** on the next 200 notices and other documents, $0.05 per folio,
 
 
 
-**(n)** on any excess over 300 notices and other documents, $0.02 per folio,
+**(n)** on any excess over 300 notices and other documents, $0.02 per folio,
 
 
 
@@ -2662,7 +2666,7 @@ No disbursements are payable to trustees in respect of
 
 
 
-**(c)** notices under section 120,
+**(c)** notices under section 120,
 
 
 
@@ -2683,7 +2687,7 @@ No disbursements are payable to trustees in respect of
 
 
 
-> SOR/78-389, s. 6; SOR/96-473, ss. 2 to 4; SOR/98-240, s. 2; SOR/2007-61, ss. 35 to 39, 40(F), 41, 42, 43 to 44(F), 45, 46 to 47(F), 48, 49 to 50(E), 51 to 53, 54(F), 55 to 58, 59(E), 60 to 62, 63(E), 64, 66(F), 67.
+> SOR/78-389, s. 6; SOR/96-473, ss. 2 to 4; SOR/98-240, s. 2; SOR/2007-61, ss. 35 to 39, 40(F), 41, 42, 43 to 44(F), 45, 46 to 47(F), 48, 49 to 50(E), 51 to 53, 54(F), 55 to 58, 59(E), 60 to 62, 63(E), 64, 66(F), 67; SOR/2009-270, s. 1.
 
 
 
