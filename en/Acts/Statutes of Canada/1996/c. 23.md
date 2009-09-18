@@ -3089,8 +3089,8 @@ in excess of the amount that should have been refunded or applied, the excess am
 
 **99** Section 160, subsections 161(11) and 220(3.1), sections 221.1 and 224 to 224.3 and subsections 227(9.1) and (10) and 248(7) and (11) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) apply to all premiums, interest, penalties and other amounts payable by a person under this Part, with such modifications as the circumstances require, and for the purposes of this section,
 - **(a)** the reference in subsection 224(1.2) of that Act to “subsection 227(10.1) or a similar provision” shall be read as a reference to "section 85 of the Employment Insurance Act"; and
-- **(b)** subsection 224(1.2) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) shall apply to employer’s premiums, employee’s premiums, and related interest, penalties or other amounts, subject to subsections 69(1) and 69.1(1) of the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md) and section 11.4 of the [Companies’ Creditors Arrangement Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-36.md).
-> 1996, c. 23, s. 99; 2000, c. 30, s. 167.
+- **(b)** subsection 224(1.2) of the [Income Tax Act](/en/Acts/Statutes%20of%20Canada/1985/c.%201%20(5th%20Supp.).md) shall apply to employer’s premiums, employee’s premiums, and related interest, penalties or other amounts, subject to subsections 69(1) and 69.1(1) of the [Bankruptcy and Insolvency Act](/en/Acts/Revised%20Statutes%20of%20Canada/B/B-3.md) and section 11.09 of the [Companies’ Creditors Arrangement Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-36.md).
+> 1996, c. 23, s. 99; 2000, c. 30, s. 167; 2005, c. 47, s. 138; 2007, c. 36, s. 108.
 
 
 
