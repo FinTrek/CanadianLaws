@@ -38,6 +38,12 @@ Autorités habilitantes :
 
 
 
+**1.1** Pour l’application de la définition de ***fiducie de revenu*** à l’article 2 de la Loi, est visée toute bourse de valeurs mobilières régie par une loi fédérale ou provinciale.
+> DORS/2009-218, art. 1.
+
+
+
+
 
 ## Dispositions générales
 
@@ -207,12 +213,8 @@ Autorités habilitantes :
 ## Frais et taxation
 
 
-**18** 
-
-- **(1)** Sous réserve du paragraphe (2), les mémoires de frais pour services juridiques sont taxés par le fonctionnaire taxateur.
-
-- **(2)** Le syndic peut payer, sans taxation, les mémoires de frais pour services juridiques si le total de tels frais n’excède pas 1 000 $, abstraction faite des taxes fédérales et provinciales applicables.
-> DORS/98-240, art. 1.
+**18** Les mémoires de frais pour services juridiques, sauf ceux dont le montant total ne dépasse pas 2 500 $ — abstraction faite des taxes fédérales et provinciales applicables — sont taxés par le fonctionnaire taxateur.
+> DORS/98-240, art. 1; DORS/2009-218, art. 2.
 
 
 
@@ -224,10 +226,10 @@ Autorités habilitantes :
 
 
 **20** Un mémoire de frais ne peut être taxé que si le syndic est représenté lors de la taxation ou a joint au mémoire une déclaration signée par lui indiquant :
-- **a)** qu’il a examiné le mémoire;
+- **a)** [Abrogé, DORS/2009-218, art. 3]
 - **b)** que les services ont été dûment autorisés et rendus;
 - **c)** qu’à son avis les frais sont raisonnables.
-> DORS/98-240, art. 1.
+> DORS/98-240, art. 1; DORS/2009-218, art. 3.
 
 
 
@@ -274,13 +276,7 @@ Autorités habilitantes :
 
 
 
-**26** 
-
-- **(1)** Une fois le mémoire de frais taxé, le syndic refuse d’en payer une partie s’il croit que le réclamant n’y a pas droit par l’effet des paragraphes 197(7) ou (8) de la Loi.
-
-- **(2)** Si le syndic estime que les montants taxés par le fonctionnaire taxateur sont trop élevés, il demande au tribunal, après avoir donné à la partie adverse un préavis de 10 jours, la révision de la taxation du mémoire de frais.
-> DORS/98-240, art. 1; DORS/2007-61, art. 63(A).
-
+**26** [Abrogé, DORS/2009-218, art. 4]
 
 
 
@@ -551,19 +547,27 @@ Toutefois, le tribunal peut rendre une ordonnance dispensant de l’envoi d’un
 
 - **(1)** Sauf ordonnance contraire du tribunal, la rémunération du syndic est censée englober tous les services rendus par lui, ses associés et ses employés.
 
-- **(2)** Lors de la taxation des comptes du syndic conformément à l’article 152 de la Loi, le fonctionnaire taxateur taxe les débours aux taux prévus au tarif.
+- **(2)** Lors de la taxation des comptes du syndic conformément à l’article 152 de la Loi, le fonctionnaire taxateur taxe les débours aux taux prévus au tarif.
 
 - **(3)** Les débours du syndic ne peuvent comprendre les coûts indirects de ses installations et équipements.
 
-- **(4)** Les frais engagés par le syndic pour les services d’un interprète prévus à l’article 57 et au paragraphe 108(3) sont calculés, lors de la taxation, au taux que le fonctionnaire taxateur estime raisonnable.
+- **(4)** Les frais engagés par le syndic pour les services d’un interprète prévus à l’article 57 et au paragraphe 108(2) sont calculés, lors de la taxation, au taux que le fonctionnaire taxateur estime raisonnable.
 
 - **(5)** Le fonctionnaire taxateur qui établit le montant du remboursement auquel le syndic a droit pour ses débours le fait conformément au présent article.
-> DORS/98-240, art. 1; DORS/2005-284, art. 5.
+> DORS/98-240, art. 1; DORS/2005-284, art. 5; DORS/2009-218, art. 5.
 
 
 
 
-**58.1** [Abrogé, DORS/98-240, art. 1]
+**58.1** 
+
+- **(1)** Pour l’application de l’article 156.1 de la Loi, la somme dont l’accord prévoit le paiement n’excède pas 1 800 $.
+
+- **(2)** Sous réserve de l’article 136 de la Loi, les sommes qui se trouvent à l’actif de la faillite sont appliquées au paiement de la somme prévue à l’accord.
+
+- **(3)** Le syndic transmet au surintendant et au failli une copie signée de l’accord dès sa conclusion.
+> DORS/2009-218, art. 6.
+
 
 
 
@@ -588,8 +592,8 @@ Toutefois, le tribunal peut rendre une ordonnance dispensant de l’envoi d’un
 
 
 **59.1** Tout régime de pension qui est régi par une loi fédérale ou provinciale est un régime de pension prescrit pour l’application des dispositions suivantes :
-- **a)** [Non en vigueur]
-- **b)** les articles 81.5 et 81.6 de la Loi.
+- **a)** le paragraphe 60(1.5) de la Loi;
+- **b)** les articles 81.5 et 81.6 de la Loi.
 > DORS/2008-223, art. 1.
 
 
@@ -628,16 +632,16 @@ Toutefois, le tribunal peut rendre une ordonnance dispensant de l’envoi d’un
 - **(2)** Au moment de sa libération, le syndic démontre au tribunal qu’il a rempli les conditions suivantes :
 	- **a)** les déclarations relatives à sa libération sont vraies;
 	- **b)** l’état définitif des recettes et des débours constitue un état exact et fidèle de l’administration de l’actif et a été approuvé par les inspecteurs et taxé par le tribunal;
-	- **c)** les débours indiqués dans cet état sont exacts et justifiables;
+	- **c)** [Abrogé, DORS/2009-218, art. 7]
 	- **d)** les biens du failli dont il était responsable ont été vendus, réalisés ou disposés de la manière indiquée dans cet état;
 	- **e)** les réclamations ayant fait l’objet d’un dividende ont été dûment examinées et :
 		- **(i)** pour autant qu’il sache, le bordereau de dividende soumis au tribunal donne une liste véridique et fidèle des réclamations des créanciers ayant droit à une partie de l’actif,
 		- **(ii)** les paiements mentionnés dans ce bordereau ont été dûment effectués,
-		- **(iii)** il a fait parvenir les dividendes non réclamés et les fonds non distribués au surintendant conformément au paragraphe 154(1) de la Loi;
+		- **(iii)** il a fait parvenir les dividendes non réclamés et les fonds non distribués au surintendant conformément au paragraphe 154(1) de la Loi;
 	- **f)** il n’a reçu ni ne compte recevoir et il ne lui a été promis aucune rémunération ou rétribution autre que celle figurant sur l’état définitif des recettes et des débours;
-	- **g)** il s’est conformé au paragraphe 170(2) de la Loi;
+	- **g)** il s’est conformé au paragraphe 170(2) de la Loi;
 	- **h)** l’état définitif des recettes et des débours, le bordereau de dividende et l’avis de demande de libération du syndic ont été envoyés au registraire, au bureau de division, au failli et à chaque créancier dont la réclamation a été prouvée.
-> DORS/98-240, art. 1; DORS/2005-284, art. 6(F).
+> DORS/98-240, art. 1; DORS/2005-284, art. 6(F); DORS/2009-218, art. 7.
 
 
 
@@ -648,9 +652,9 @@ Toutefois, le tribunal peut rendre une ordonnance dispensant de l’envoi d’un
 
 **62** Le syndic de l’actif d’un failli, dans le cadre de l’administration sommaire de cet actif, demande la taxation de ses comptes et sa libération en envoyant au bureau de division les documents suivants :
 - **a)** l’état définitif des recettes et des débours, établi en la forme prescrite;
-- **b)** le bordereau de dividende indiquant les dividendes payés ou à payer aux créanciers du failli;
-- **c)** dans le cas où des inspecteurs ont été nommés par les créanciers, l’état définitif des recettes et des débours établi par le syndic, sur lequel figure la signature des inspecteurs faisant foi de leur approbation ou, à défaut de celle-ci, les raisons de leur désapprobation.
-> DORS/98-240, art. 1; DORS/2007-61, art. 12(A).
+- **b)** le bordereau de dividende indiquant les dividendes payés ou à payer aux créanciers du failli.
+- **c)** [Abrogé, DORS/2009-218, art. 8]
+> DORS/98-240, art. 1; DORS/2007-61, art. 12(A); DORS/2009-218, art. 8.
 
 
 
@@ -683,21 +687,21 @@ Toutefois, le tribunal peut rendre une ordonnance dispensant de l’envoi d’un
 
 **65** 
 
-- **(1)** Si le syndic ne reçoit aucun avis d’opposition dans le délai prévu au paragraphe 64(2), il prend les mesures suivantes :
+- **(1)** Si le syndic ne reçoit aucun avis d’opposition dans le délai prévu au paragraphe 64(2), il prend les mesures suivantes :
 	- **a)** à l’expiration du délai, il prélève ses honoraires;
 	- **b)** à l’expiration du délai, s’il ne l’a pas déjà fait, il envoie à chaque créancier qui y a droit son dividende définitif;
-	- **c)** dans les trois mois suivant la date d’envoi de l’avis visé au paragraphe 64(1), il prend les mesures suivantes :
+	- **c)** dans les trois mois suivant la date d’envoi de l’avis visé au paragraphe 64(1), il prend les mesures suivantes :
 		- **(i)** il ferme le compte en banque ayant servi à l’administration de l’actif du failli s’il ne s’agit pas d’un compte consolidé ou, dans le cas contraire, il vérifie que tous les fonds de l’actif du failli ont été retirés du compte consolidé,
 		- **(ii)** il remet au surintendant les dividendes non réclamés et les fonds non distribués,
 		- **(iii)** il envoie au bureau de division un certificat de conformité et de libération présumée, établi en la forme prescrite.
 
-- **(2)** Le syndic est réputé libéré dès qu’il a pris les mesures visées aux alinéas (1)b) et c).
+- **(2)** Le syndic est réputé libéré dès qu’il a pris les mesures visées aux alinéas (1)b) et c).
 
-- **(3)** Si le syndic reçoit un avis d’opposition dans le délai prévu au paragraphe 64(2) :
-	- **a)** il en avise le bureau de division;
+- **(3)** Si le syndic reçoit un avis d’opposition dans le délai prévu au paragraphe 64(2) :
+	- **a)** [Abrogé, DORS/2009-218, art. 9]
 	- **b)** il obtient du registraire une date d’audition;
-	- **c)** dans les 30 jours suivant la date de réception de l’avis d’opposition, il envoie au créancier qui s’oppose un avis d’audition. Cet avis, établi en la forme prescrite, est envoyé au moins 30 jours avant la date d’audition.
-> DORS/81-646, art. 4; DORS/98-240, art. 1; DORS/2007-61, art. 63(A).
+	- **c)** dans les 30 jours suivant la date de réception de l’avis d’opposition, il envoie au créancier qui s’oppose un avis d’audition. Cet avis, établi en la forme prescrite, est envoyé au moins 30 jours avant la date d’audition.
+> DORS/81-646, art. 4; DORS/98-240, art. 1; DORS/2007-61, art. 63(A); DORS/2009-218, art. 9.
 
 
 
@@ -779,14 +783,14 @@ Toutefois, le tribunal peut rendre une ordonnance dispensant de l’envoi d’un
 
 **70** 
 
-- **(1)** Un avis indiquant les date, heure et lieu de l’audition de la requête en faillite ainsi qu’une copie certifiée conforme de cette requête et de l’affidavit visé au paragraphe 43(3) de la Loi sont signifiés au débiteur, au syndic nommé dans la requête et au bureau de division au moins dix jours avant l’audition, ou dans le délai plus court fixé par le tribunal.
+- **(1)** Un avis indiquant les date, heure et lieu de l’audition de la requête en faillite ainsi qu’une copie certifiée conforme de cette requête et de l’affidavit visé au paragraphe 43(3) de la Loi sont signifiés au débiteur, au syndic nommé dans la requête et au bureau de division au moins dix jours avant l’audition, ou dans le délai plus court fixé par le tribunal.
 
-- **(2)** Une copie de la requête en faillite est déposée sans délai, une fois signifiée conformément au présent article, au bureau du registraire et au bureau de division.
+- **(2)** Une fois la requête signifiée conformément au présent article, une copie en est déposée sans délai au bureau du registraire.
 
-- **(3)** Sous réserve de l’article 71, la signification au débiteur se fait par signification à personne.
+- **(3)** Sous réserve de l’article 71, la signification au débiteur se fait par signification à personne.
 
-- **(4)** Pour l’application du paragraphe 256(3) de la Loi, la période prescrite est de 10 jours.
-> DORS/98-240, art. 1; DORS/2007-61, art. 15.
+- **(4)** Pour l’application du paragraphe 256(3) de la Loi, la période prescrite est de 10 jours.
+> DORS/98-240, art. 1; DORS/2007-61, art. 15; DORS/2009-218, art. 10.
 
 
 
@@ -839,9 +843,7 @@ Toutefois, le tribunal peut rendre une ordonnance dispensant de l’envoi d’un
 ## Séquestre intérimaire
 
 
-**77** L’ordonnance visant à nommer un séquestre intérimaire peut être rendue, aux termes des articles 46, 47 ou 47.1 ou du paragraphe 271(3) de la Loi, sur demande *ex parte*; toutefois, le tribunal peut remettre l’audition de la demande et ordonner qu’un avis d’audition soit donné aux personnes qu’il juge indiquées.
-> DORS/98-240, art. 1.
-
+**77** [Abrogé, DORS/2009-218, art. 11]
 
 
 
@@ -942,16 +944,11 @@ Toutefois, le tribunal peut rendre une ordonnance dispensant de l’envoi d’un
 
 
 
-**87** 
-
-- **(1)** Sous réserve du paragraphe (2), le syndic dépose auprès du tribunal, avant la première assemblée des créanciers du failli ou aussitôt après celle-ci, une copie des documents suivants :
-	- **a)** la cession déposée auprès du séquestre officiel conformément au paragraphe 49(3) de la Loi;
-	- **b)** le bilan préliminaire joint à la cession déposée auprès du séquestre officiel, si un tel bilan a été établi;
-	- **c)** le bilan déposé auprès du séquestre officiel;
-	- **d)** le procès-verbal de la première assemblée des créanciers.
-
-- **(2)** Dans le cas où l’actif du failli fait l’objet d’une administration sommaire, le syndic n’est pas tenu de déposer auprès du tribunal les documents visés aux alinéas (1)a) à d), à moins que celui-ci ne lui ordonne de le faire.
-> DORS/92-579, art. 20; DORS/98-240, art. 1; DORS/2007-61, art. 20(A).
+**87** Le tribunal peut ordonner au syndic de déposer auprès du tribunal, avant la première assemblée des créanciers ou aussitôt après celle-ci, une copie des documents suivants :
+- **a)** la cession déposée auprès du séquestre officiel;
+- **b)** le bilan déposé auprès du séquestre officiel;
+- **c)** le procès-verbal de la première assemblée des créanciers.
+> DORS/92-579, art. 20; DORS/98-240, art. 1; DORS/2007-61, art. 20(A); DORS/2009-218, art. 12.
 
 
 
@@ -1030,16 +1027,22 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 
 
 
-**94** Le séquestre officiel qui, conformément aux alinéas 57b) ou 61(2)b) ou au paragraphe 63(6) de la Loi, délivre un certificat de cession :
+**94** Le séquestre officiel qui, conformément aux alinéas 57b.1) ou 61(2)b.1) ou au paragraphe 63(6) de la Loi, délivre un certificat de cession :
 - **a)** en envoie sans délai une copie au syndic agissant relativement à la proposition;
 - **b)** en dépose sans délai une copie auprès du tribunal.
-> DORS/98-240, art. 1; DORS/2007-61, art. 21(A).
+> DORS/98-240, art. 1; DORS/2007-61, art. 21(A); DORS/2009-218, art. 13.
 
 
 
 
-**95** Le préavis de résiliation du bail que donne la personne insolvable au locateur conformément au paragraphe 65.2(1) de la Loi est établi en la forme prescrite et est communiqué de la manière indiquée dans le bail ou, à défaut d’une telle indication, est soit signifié, soit envoyé par courrier recommandé ou par service de messagerie.
-> DORS/98-240, art. 1; DORS/2007-61, art. 22(A).
+**94.1** Le préavis de résiliation de contrat que donne le débiteur conformément au paragraphe 65.11(1) de la Loi est soit signifié, soit envoyé par courrier recommandé, par service de messagerie ou, si le destinataire y consent, par voie électronique.
+> DORS/2009-218, art. 14.
+
+
+
+
+**95** Le préavis de résiliation du bail que donne la personne insolvable conformément au paragraphe 65.2(1) de la Loi est soit signifié, soit envoyé par courrier recommandé, par service de messagerie ou, si le destinataire y consent, par voie électronique.
+> DORS/98-240, art. 1; DORS/2007-61, art. 22(A); DORS/2009-218, art. 14.
 
 
 
@@ -1099,19 +1102,19 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 
 **101** 
 
-- **(1)** Si l’administrateur ne reçoit aucun avis d’opposition dans le délai prévu au paragraphe 100(2), il prend les mesures suivantes dans les trois mois suivant la date d’envoi de l’avis visé au paragraphe 100(1) :
+- **(1)** Si l’administrateur ne reçoit aucun avis d’opposition dans le délai prévu au paragraphe 100(2), il prend les mesures suivantes dans les trois mois suivant la date d’envoi de l’avis visé au paragraphe 100(1) :
 	- **a)** s’il ne l’a pas déjà fait, il envoie à chaque créancier qui y a droit son dividende définitif;
 	- **b)** il ferme le compte en banque ayant servi à l’administration de la proposition de consommateur s’il ne s’agit pas d’un compte consolidé ou, dans le cas contraire, il vérifie que tous les fonds régis par cette proposition ont été retirés du compte consolidé;
 	- **c)** il remet au surintendant les dividendes non réclamés et les fonds non distribués;
 	- **d)** il envoie au bureau de division le certificat de conformité et de libération présumée, établi en la forme prescrite.
 
-- **(2)** L’administrateur est réputé libéré dès qu’il a pris les mesures visées au paragraphe (1).
+- **(2)** L’administrateur est réputé libéré dès qu’il a pris les mesures visées au paragraphe (1).
 
 - **(3)** Si l’administrateur reçoit un avis d’opposition dans le délai prévu au paragraphe 100(2) :
-	- **a)** il en avise le bureau de division;
+	- **a)** [Abrogé, DORS/2009-218, art. 15]
 	- **b)** il obtient du registraire une date d’audition;
-	- **c)** dans les 30 jours suivant la date de réception de l’avis d’opposition, il envoie au créancier qui s’oppose un avis d’audition. Cet avis, établi en la forme prescrite, est envoyé au moins 30 jours avant la date d’audition.
-> DORS/78-389, art. 5; DORS/98-240, art. 1; DORS/2007-61, art. 63(A).
+	- **c)** dans les 30 jours suivant la date de réception de l’avis d’opposition, il envoie au créancier qui s’oppose un avis d’audition. Cet avis, établi en la forme prescrite, est envoyé au moins 30 jours avant la date d’audition.
+> DORS/78-389, art. 5; DORS/98-240, art. 1; DORS/2007-61, art. 63(A); DORS/2009-218, art. 15.
 
 
 
@@ -1160,6 +1163,16 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 
 
 
+## Organismes administratifs
+
+
+**103.1** Pour l’application de l’article 69.6 de la Loi, sont des organismes administratifs l’Organisme canadien de réglementation du commerce des valeurs mobilières, l’Association canadienne des courtiers de fonds mutuels et toute bourse de valeurs mobilières régie par une loi fédérale ou provinciale.
+> DORS/2009-218, art. 16.
+
+
+
+
+
 ## Contributaires
 
 
@@ -1187,59 +1200,59 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 
 **105** 
 
-- **(1)** Pour l’application des paragraphes 68(8) et 170.1(6) de la Loi, la procédure de médiation est celle établie au présent article.
+- **(1)** Pour l’application des paragraphes 68(8) et 170.1(2) de la Loi, la procédure de médiation est celle établie au présent article.
 
 - **(2)** Pour l’application du présent article :
 	- **a)** le failli et le syndic sont obligatoirement parties à la médiation;
 	- **b)** le syndic peut se représenter lui-même ou se faire représenter;
-	- **c)** l’opposition faite par un créancier ou le syndic, visée au paragraphe 170.1(5) de la Loi, est réputée être une demande de médiation;
+	- **c)** l’opposition faite par un créancier ou le syndic, visée au paragraphe 170.1(1) de la Loi, est réputée être une demande de médiation;
 	- **d)** le créancier qui demande la médiation est partie à celle-ci.
 
 - **(3)** Pour la conduite d’une médiation, le surintendant désigne à titre de médiateur :
 	- **a)** soit un employé d’un bureau de division, y compris un bureau de division autre que celui de la division de faillite dans laquelle les procédures ont été intentées;
 	- **b)** soit une autre personne qui a reçu une formation ou possède de l’expérience en médiation et que le surintendant juge qualifiée.
 
-- **(4)** Sur réception d’une demande de médiation d’un syndic conformément aux paragraphes 68(6) ou (7) ou 170.1(5) de la Loi, accompagnée de l’état des revenus et dépenses le plus récent établi par le failli en la forme prescrite, le séquestre officiel confie le dossier au médiateur qui fixe les date, heure et lieu de la médiation. La médiation a lieu dans les 45 jours suivant la réception par le séquestre officiel de la demande de médiation.
+- **(4)** Sur réception d’une demande de médiation d’un syndic conformément aux paragraphes 68(6) ou (7) ou 170.1(1) de la Loi, accompagnée de l’état des revenus et dépenses le plus récent établi par le failli en la forme prescrite, le séquestre officiel confie le dossier au médiateur qui fixe les date, heure et lieu de la médiation. La médiation a lieu dans les 45 jours suivant la réception par le séquestre officiel de la demande de médiation.
 
 - **(5)** Le médiateur tient la médiation en présence des parties, sauf s’il décide de le faire par conférence téléphonique ou par un autre moyen de communication qui permet à toutes les personnes participant à la médiation de communiquer entre elles.
 
 - **(6)** La médiation est tenue soit au bureau de division, soit en tout autre lieu désigné par le médiateur ou, si elle est tenue autrement qu’en présence de toutes les parties, dans toute combinaison de lieux nécessaire à cette fin.
 
-- **(7)** Le médiateur envoie une copie de l’avis de médiation, établi en la forme prescrite, au failli, au syndic ainsi qu’aux créanciers qui ont demandé la médiation, le cas échéant, au moins 15 jours avant la date prévue de celle-ci ou dans le délai plus court dont conviennent les parties.
+- **(7)** Le médiateur envoie une copie de l’avis de médiation, établi en la forme prescrite, au failli, au syndic ainsi qu’aux créanciers qui ont demandé la médiation, le cas échéant, au moins 15 jours avant la date prévue de celle-ci ou dans le délai plus court dont conviennent les parties.
 
 - **(8)** Si, avant la médiation, le médiateur a des motifs raisonnables de croire que la médiation ne peut être tenue à la date prévue, il la reporte et fixe à nouveau les date, heure et lieu de celle-ci.
 
-- **(9)** Sauf dans le cas où cela constituerait un second ajournement et sous réserve du paragraphe (13), le médiateur ajourne la médiation pendant qu’elle est en cours, dans l’une ou l’autre des situations suivantes :
+- **(9)** Sauf dans le cas où cela constituerait un second ajournement et sous réserve du paragraphe (13), le médiateur ajourne la médiation pendant qu’elle est en cours, dans l’une ou l’autre des situations suivantes :
 	- **a)** une partie demande l’ajournement et le médiateur a des motifs raisonnables de croire que des négociations ou des renseignements supplémentaires pourraient aider à la médiation;
-	- **b)** le médiateur a des motifs raisonnables de croire que l’une des parties, autre que le syndic dans le cas d’une demande de médiation faite par un créancier en vertu du paragraphe 170.1(5) de la Loi, ne peut poursuivre la médiation pendant une période déterminée;
-	- **c)** l’ensemble des créanciers qui ont été informés de la médiation conformément aux paragraphes (7) ou (11) ne s’y présentent pas et le médiateur a des motifs raisonnables de croire, à l’égard d’au moins l’un d’entre eux, qu’il ne s’agit pas là d’une manoeuvre dilatoire ou d’une manoeuvre visant à discréditer le processus;
-	- **d)** dans le cas d’une demande de médiation faite par un créancier en vertu du paragraphe 170.1(5) de la Loi, l’une des parties, autre que le syndic, qui a été informée de la médiation conformément aux paragraphes (7) ou (11) ne s’y présente pas et le médiateur a des motifs raisonnables de croire qu’il ne s’agit pas là d’une manoeuvre dilatoire ou d’une manoeuvre visant à discréditer le processus;
-	- **e)** dans tout cas autre que celui visé à l’alinéa d), l’une des parties, autre qu’un créancier, qui a été informée de la médiation conformément aux paragraphes (7) ou (11) ne s’y présente pas et le médiateur a des motifs raisonnables de croire qu’il ne s’agit pas là d’une manoeuvre dilatoire ou d’une manoeuvre visant à discréditer le processus.
+	- **b)** le médiateur a des motifs raisonnables de croire que l’une des parties, autre que le syndic dans le cas d’une demande de médiation faite par un créancier en vertu du paragraphe 170.1(1) de la Loi, ne peut poursuivre la médiation pendant une période déterminée;
+	- **c)** l’ensemble des créanciers qui ont été informés de la médiation conformément aux paragraphes (7) ou (11) ne s’y présentent pas et le médiateur a des motifs raisonnables de croire, à l’égard d’au moins l’un d’entre eux, qu’il ne s’agit pas là d’une manoeuvre dilatoire ou d’une manoeuvre visant à discréditer le processus;
+	- **d)** dans le cas d’une demande de médiation faite par un créancier en vertu du paragraphe 170.1(1) de la Loi, l’une des parties, autre que le syndic, qui a été informée de la médiation conformément aux paragraphes (7) ou (11) ne s’y présente pas et le médiateur a des motifs raisonnables de croire qu’il ne s’agit pas là d’une manoeuvre dilatoire ou d’une manoeuvre visant à discréditer le processus;
+	- **e)** dans tout cas autre que celui visé à l’alinéa d), l’une des parties, autre qu’un créancier, qui a été informée de la médiation conformément aux paragraphes (7) ou (11) ne s’y présente pas et le médiateur a des motifs raisonnables de croire qu’il ne s’agit pas là d’une manoeuvre dilatoire ou d’une manoeuvre visant à discréditer le processus.
 
-- **(10)** En cas de report ou d’ajournement de la médiation, la nouvelle date se situe dans les 10 jours suivant celui où la médiation a été reportée ou ajournée.
+- **(10)** En cas de report ou d’ajournement de la médiation, la nouvelle date se situe dans les 10 jours suivant celui où la médiation a été reportée ou ajournée.
 
 - **(11)** Lorsque la médiation est reportée ou ajournée, le médiateur informe les parties des date, heure et lieu de reprise de la médiation.
 
-- **(12)** Sous réserve du paragraphe (13), le médiateur annule la médiation pendant qu’elle est en cours, dans l’une ou l’autre des situations suivantes :
-	- **a)** une opposition à la libération du failli est pendante, laquelle a été faite par un créancier ou le syndic pour l’un des motifs visés aux alinéas 173(1)a) à l) ou o) de la Loi;
+- **(12)** Sous réserve du paragraphe (13), le médiateur annule la médiation pendant qu’elle est en cours, dans l’une ou l’autre des situations suivantes :
+	- **a)** une opposition à la libération du failli est pendante, laquelle a été faite par un créancier ou le syndic pour l’un des motifs visés aux alinéas 173(1)a) à l) ou o) de la Loi;
 	- **b)** le médiateur a des motifs raisonnables de croire qu’il y a abus de la procédure de report par l’une des parties;
 	- **c)** il y a déjà eu un ajournement et :
-		- **(i)** ou bien une demande d’ajournement est faite selon l’alinéa (9)a),
-		- **(ii)** ou bien l’une des situations visées aux alinéas (9)b) à e) survient;
-	- **d)** le médiateur a des motifs raisonnables de croire que l’une des parties, autre que le syndic dans le cas d’une demande de médiation faite par un créancier en vertu du paragraphe 170.1(5) de la Loi, ne peut plus poursuivre la médiation;
-	- **e)** l’ensemble des créanciers qui ont été informés de la médiation conformément aux paragraphes (7) ou (11) ne s’y présentent pas et le médiateur a des motifs raisonnables de croire, à l’égard de tous ces créanciers, qu’il s’agit là d’une manoeuvre dilatoire ou d’une manoeuvre visant à discréditer le processus;
-	- **f)** dans le cas d’une demande de médiation faite par un créancier en vertu du paragraphe 170.1(5) de la Loi, l’une des parties, autre que le syndic, qui a été informée de la médiation conformément aux paragraphes (7) ou (11) ne s’y présente pas et le médiateur a des motifs raisonnables de croire qu’il s’agit là d’une manoeuvre dilatoire ou d’une manoeuvre visant à discréditer le processus;
-	- **g)** dans tout cas autre que celui visé à l’alinéa f), l’une des parties, autre qu’un créancier, qui a été informée de la médiation conformément aux paragraphes (7) ou (11) ne s’y présente pas et le médiateur a des motifs raisonnables de croire qu’il s’agit là d’une manoeuvre dilatoire ou d’une manoeuvre visant à discréditer le processus.
+		- **(i)** ou bien une demande d’ajournement est faite selon l’alinéa (9)a),
+		- **(ii)** ou bien l’une des situations visées aux alinéas (9)b) à e) survient;
+	- **d)** le médiateur a des motifs raisonnables de croire que l’une des parties, autre que le syndic dans le cas d’une demande de médiation faite par un créancier en vertu du paragraphe 170.1(1) de la Loi, ne peut plus poursuivre la médiation;
+	- **e)** l’ensemble des créanciers qui ont été informés de la médiation conformément aux paragraphes (7) ou (11) ne s’y présentent pas et le médiateur a des motifs raisonnables de croire, à l’égard de tous ces créanciers, qu’il s’agit là d’une manoeuvre dilatoire ou d’une manoeuvre visant à discréditer le processus;
+	- **f)** dans le cas d’une demande de médiation faite par un créancier en vertu du paragraphe 170.1(1) de la Loi, l’une des parties, autre que le syndic, qui a été informée de la médiation conformément aux paragraphes (7) ou (11) ne s’y présente pas et le médiateur a des motifs raisonnables de croire qu’il s’agit là d’une manoeuvre dilatoire ou d’une manoeuvre visant à discréditer le processus;
+	- **g)** dans tout cas autre que celui visé à l’alinéa f), l’une des parties, autre qu’un créancier, qui a été informée de la médiation conformément aux paragraphes (7) ou (11) ne s’y présente pas et le médiateur a des motifs raisonnables de croire qu’il s’agit là d’une manoeuvre dilatoire ou d’une manoeuvre visant à discréditer le processus.
 
-- **(13)** Malgré les alinéas (9)b) et d) et (12)d) et f), l’absence d’un ou de plusieurs créanciers qui ont demandé la médiation ou l’impossibilité pour l’un ou plusieurs d’entre eux de poursuivre la médiation ne peut être considérée comme un motif d’ajournement ou d’annulation de celle-ci, si au moins un des créanciers qui a demandé la médiation y est présent ou est en mesure de la poursuivre.
+- **(13)** Malgré les alinéas (9)b) et d) et (12)d) et f), l’absence d’un ou de plusieurs créanciers qui ont demandé la médiation ou l’impossibilité pour l’un ou plusieurs d’entre eux de poursuivre la médiation ne peut être considérée comme un motif d’ajournement ou d’annulation de celle-ci, si au moins un des créanciers qui a demandé la médiation y est présent ou est en mesure de la poursuivre.
 
-- **(14)** Dans le cas d’une médiation au titre de l’article 170.1 de la Loi, lorsque celle-ci est annulée en application de l’alinéa (12)e) en raison de l’absence de l’ensemble des créanciers qui l’ont demandée :
-	- **a)** l’opposition à la libération du failli faite par chacun de ces créanciers pour les motifs mentionnés aux alinéas 173(1)m) ou n) de la Loi est réputée retirée;
-	- **b)** il est réputé y avoir entente sur les questions en cause dans la médiation pour l’application du paragraphe 170.1(7) de la Loi.
+- **(14)** Dans le cas d’une médiation au titre de l’article 170.1 de la Loi, lorsque celle-ci est annulée en application de l’alinéa (12)e) en raison de l’absence de l’ensemble des créanciers qui l’ont demandée :
+	- **a)** l’opposition à la libération du failli faite par chacun de ces créanciers pour les motifs mentionnés aux alinéas 173(1)m) ou n) de la Loi est réputée retirée;
+	- **b)** il est réputé y avoir entente sur les questions en cause dans la médiation pour l’application du paragraphe 170.1(3) de la Loi.
 
-- **(15)** Il est entendu que la médiation est réputée avoir échoué pour l’application des paragraphes 68(10) ou 170.1(7) de la Loi si :
-	- **a)** dans le cas d’une médiation au titre de l’article 68 de la Loi, elle est annulée en application de l’un des alinéas (12)a) à g);
-	- **b)** dans le cas d’une médiation au titre de l’article 170.1 de la Loi, elle est annulée autrement qu’en application de l’alinéa (12)e).
+- **(15)** Il est entendu que la médiation est réputée avoir échoué pour l’application des paragraphes 68(10) ou 170.1(3) de la Loi si :
+	- **a)** dans le cas d’une médiation au titre de l’article 68 de la Loi, elle est annulée en application de l’un des alinéas (12)a) à g);
+	- **b)** dans le cas d’une médiation au titre de l’article 170.1 de la Loi, elle est annulée autrement qu’en application de l’alinéa (12)e).
 
 - **(16)** En cas d’annulation de la médiation, le médiateur envoie au bureau de division et aux parties un avis motivé à cet effet, établi en la forme prescrite.
 
@@ -1251,8 +1264,8 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 
 - **(19)** Les paiements faits par un failli dans le cadre d’une entente de médiation sont versés au syndic et déposés dans le compte de l’actif.
 
-- **(20)** Si les parties ne parviennent pas à une entente dans le cadre de la médiation, le médiateur émet un avis, en la forme prescrite, portant que la médiation demandée pour l’application des paragraphes 68(6) ou (7) ou 170.1(5) de la Loi a échoué, et envoie cet avis au bureau de division et aux parties.
-> DORS/98-240, art. 1; DORS/2007-61, art. 25(A).
+- **(20)** Si les parties ne parviennent pas à une entente dans le cadre de la médiation, le médiateur émet un avis, en la forme prescrite, portant que la médiation demandée pour l’application des paragraphes 68(6) ou (7) ou 170.1(1) de la Loi a échoué, et envoie cet avis au bureau de division et aux parties.
+> DORS/98-240, art. 1; DORS/2007-61, art. 25(A); DORS/2009-218, art. 17.
 
 
 
@@ -1276,13 +1289,15 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 
 
 
-## Dispositions et traitement préférentiel
+## Traitement préférentiel et opérations sous-évaluées
+> [DORS/2009-218, art. 18]
+
 
 
 **107** Le registraire peut :
-- **a)** dans la province de Québec, lorsqu’un immeuble ou un droit s’y rattachant font l’objet d’un litige aux termes des articles 91 à 100 de la Loi, autoriser, sur dépôt auprès du tribunal d’une copie de la demande signée par l’avocat du demandeur, le demandeur à requérir l’inscription d’un avis de préinscription au registre approprié;
-- **b)** dans les autres provinces, lorsqu’un bien réel ou un intérêt s’y rattachant font l’objet d’un litige aux termes des articles 91 à 100 de la Loi, délivrer un certificat de litispendance sur dépôt auprès du tribunal d’une copie de la demande signée par l’avocat du demandeur et, en cas de rejet partiel ou total de la demande, délivrer un certificat de rejet.
-> DORS/98-240, art. 1; DORS/2007-61, art. 26.
+- **a)** dans la province de Québec, lorsqu’un immeuble ou un droit s’y rattachant font l’objet d’un litige aux termes des articles 91 à 99 de la Loi, autoriser, sur dépôt auprès du tribunal d’une copie de la demande signée par l’avocat du demandeur, le demandeur à requérir l’inscription d’un avis de préinscription au registre approprié;
+- **b)** dans les autres provinces, lorsqu’un bien réel ou un intérêt s’y rattachant font l’objet d’un litige aux termes des articles 91 à 99 de la Loi, délivrer un certificat de litispendance sur dépôt auprès du tribunal d’une copie de la demande signée par l’avocat du demandeur et, en cas de rejet partiel ou total de la demande, délivrer un certificat de rejet.
+> DORS/98-240, art. 1; DORS/2007-61, art. 26; DORS/2009-218, art. 19.
 
 
 
@@ -1293,12 +1308,10 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 
 **108** 
 
-- **(1)** Pour l’application du paragraphe 102(1) de la Loi, l’avis est envoyé par courrier, par service de messagerie, par télécopieur ou par transmission électronique.
+- **(1)** Pour l’application de l’alinéa 155d.1) de la Loi, l’avis de la première assemblée des créanciers est envoyé aux personnes visées au paragraphe 102(1) de la Loi au moins dix jours avant la date de l’assemblée.
 
-- **(2)** Pour l’application de l’alinéa 155d.1) de la Loi, un avis est envoyé aux personnes indiquées au paragraphe 102(1) de la Loi au moins 10 jours avant la date de la première assemblée des créanciers par courrier, par service de messagerie, par télécopieur ou par transmission électronique.
-
-- **(3)** Lorsque le failli ne peut parler couramment celle des langues officielles dans laquelle se déroule l’assemblée des créanciers, le syndic retient pour l’assemblée les services d’un interprète agréé par le président de celle-ci.
-> DORS/98-240, art. 1; DORS/2007-61, art. 63(A).
+- **(2)** Lorsque le failli ne peut parler couramment celle des langues officielles dans laquelle se déroule l’assemblée des créanciers, le syndic retient pour l’assemblée les services d’un interprète agréé par le président de celle-ci.
+> DORS/98-240, art. 1; DORS/2007-61, art. 63(A); DORS/2009-218, art. 20.
 
 
 
@@ -1422,6 +1435,31 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 
 **121** Le failli qui demande au tribunal de modifier l’ordonnance de libération en application du paragraphe 172(3) de la Loi envoie au syndic, au bureau de division et à chaque créancier ayant prouvé sa réclamation, à sa dernière adresse connue, un avis indiquant les date, heure et lieu de l’audition de la demande, au moins 10 jours avant la date de celle-ci.
 > DORS/92-579, art. 30; DORS/98-240, art. 1; DORS/2007-61, art. 63(A).
+
+
+
+
+
+## Rapport du syndic
+
+
+**121.1** 
+
+- **(1)** Pour l’application du paragraphe 170(1) de la Loi, les circonstances dans lesquelles le syndic prépare un rapport sont les suivantes :
+	- **a)** le failli dispose d’un revenu excédentaire;
+	- **b)** il y a eu opposition à la libération du failli;
+	- **c)** le failli a déjà fait faillite sous le régime du droit canadien ou de tout pays prescrit;
+	- **d)** le tribunal doit tenir une audience sur la libération.
+
+- **(2)** Le rapport est préparé :
+	- **a)** s’il vise un particulier admissible à une libération d’office qui fait faillite pour la première fois sous le régime du droit canadien ou de tout pays prescrit :
+		- **(i)** soit au cours du huitième mois qui suit la date de la faillite,
+		- **(ii)** soit au cours du vingtième mois qui suit la date de la faillite, s’il est tenu de faire des versements au titre de l’article 68 de la Loi;
+	- **b)** s’il vise un particulier admissible à une libération d’office qui a déjà fait faillite une fois sous le régime du droit canadien ou de tout pays prescrit :
+		- **(i)** soit au cours du vingt-troisième mois qui suit la date de la faillite,
+		- **(ii)** soit au cours du trente-cinquième mois qui suit la date de la faillite, s’il est tenu de faire des versements au titre de l’article 68 de la Loi;
+	- **c)** s’il vise un particulier qui n’est pas admissible à une libération d’office, au plus tôt le soixantième jour et au plus tard le dixième jour qui précède la date d’audition de la demande de libération.
+> DORS/2009-218, art. 21.
 
 
 
@@ -1565,8 +1603,8 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 ## Application de dispositions relatives à l’administration sommaire
 
 
-**130** Pour l’application des paragraphes 49(6) et (8) de la Loi, le montant prescrit est de 10 000 $.
-> DORS/98-240, art. 1.
+**130** Pour l’application des paragraphes 49(6) et (8) de la Loi, le montant est de 15 000 $.
+> DORS/98-240, art. 1; DORS/2009-218, art. 22.
 
 
 
@@ -1649,6 +1687,25 @@ Les projections ont été établies exclusivement aux fins mentionnées dans la 
 
 **137** Pour l’application des alinéas 136(1)h) et j) de la Loi, la date prescrite est le 30 novembre 1992.
 > DORS/98-240, art. 1.
+
+
+
+
+
+## Avis concernant la reconnaissance d’une instance étrangère
+
+
+**138** Pour l’application de l’alinéa 276b) de la Loi, les renseignements que doit contenir l’avis sont les suivants :
+- **a)** le nom et les coordonnées du représentant étranger;
+- **b)** le nom du débiteur et, s’il y a lieu, le nom sous lequel il fait affaires au Canada;
+- **c)** relativement à l’ordonnance :
+	- **(i)** le nom du tribunal qui l’a rendue,
+	- **(ii)** la disposition législative en vertu de laquelle elle a été rendue,
+	- **(iii)** la date à laquelle elle a été rendue;
+- **d)** le pays dans lequel l’instance étrangère est déposée;
+- **e)** une indication du caractère principal ou secondaire de l’instance étrangère;
+- **f)** le nom et les coordonnées du conseiller juridique du représentant étranger.
+> DORS/2009-218, art. 23.
 
 
 
