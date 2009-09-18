@@ -3110,8 +3110,8 @@ où :
 
 **99** L’article 160, les paragraphes 161(11) et 220(3.1), les articles 221.1 et 224 à 224.3 et les paragraphes 227(9.1) et (10) et 248(7) et (11) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) s’appliquent, avec les adaptations nécessaires, aux cotisations, intérêts, pénalités et autres sommes payables par une personne en vertu de la présente partie. Pour l’application du présent article :
 - **a)** le passage « du paragraphe 227(10.1) ou d’une disposition semblable » au paragraphe 224(1.2) de cette loi vaut mention de « de l’article 85 de la Loi sur l’assurance-emploi »;
-- **b)** le paragraphe 224(1.2) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) s’applique aux cotisations patronales, aux cotisations ouvrières et aux intérêts, pénalités ou autres montants y afférents, sous réserve des paragraphes 69(1) et 69.1(1) de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md) et de l’article 11.4 de la [Loi sur les arrangements avec les créanciers des compagnies](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-36.md).
-> 1996, ch. 23, art. 99; 2000, ch. 30, art. 167.
+- **b)** le paragraphe 224(1.2) de la [Loi de l’impôt sur le revenu](/fr/Lois/Lois%20du%20Canada/1985/ch.%201%20(5e%20suppl.).md) s’applique aux cotisations patronales, aux cotisations ouvrières et aux intérêts, pénalités ou autres sommes afférents, sous réserve des paragraphes 69(1) et 69.1(1) de la [Loi sur la faillite et l’insolvabilité](/fr/Lois/Lois%20révisées%20du%20Canada/B/B-3.md) et de l’article 11.09 de la [Loi sur les arrangements avec les créanciers des compagnies](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-36.md).
+> 1996, ch. 23, art. 99; 2000, ch. 30, art. 167; 2005, ch. 47, art. 138; 2007, ch. 36, art. 108.
 
 
 
