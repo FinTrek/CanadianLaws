@@ -38,6 +38,12 @@ Enabling authorities:
 
 
 
+**1.1** A stock exchange that is regulated by an Act of Parliament or of the legislature of a province is prescribed for the purposes of the definition ***income trust*** in section 2 of the Act.
+> SOR/2009-218, s. 1.
+
+
+
+
 
 ## General
 
@@ -207,12 +213,8 @@ Enabling authorities:
 ## Costs and Taxation
 
 
-**18** 
-
-- **(1)** Subject to subsection (2), all bills of costs for legal services must be taxed by the taxing officer.
-
-- **(2)** Bills of costs for legal services may be paid by the trustee without being taxed if they do not exceed in aggregate $1,000, excluding applicable federal and provincial taxes.
-> SOR/98-240, s. 1.
+**18** All bills of costs for legal services – other than those that do not exceed $2,500 in aggregate, excluding applicable federal and provincial taxes – must be taxed by the taxing officer.
+> SOR/98-240, s. 1; SOR/2009-218, s. 2.
 
 
 
@@ -224,10 +226,10 @@ Enabling authorities:
 
 
 **20** The bill of costs shall not be taxed unless the trustee is represented at the taxation or the bill of costs has attached to it a declaration, signed by the trustee, stating that
-- **(a)** the trustee has examined the bill;
+- **(a)** [Repealed, SOR/2009-218, s. 3]
 - **(b)** the services have been duly authorized and duly rendered; and
 - **(c)** the charges are reasonable in the trustee’s opinion.
-> SOR/98-240, s. 1.
+> SOR/98-240, s. 1; SOR/2009-218, s. 3.
 
 
 
@@ -274,13 +276,7 @@ Enabling authorities:
 
 
 
-**26** 
-
-- **(1)** If a trustee believes that, by reason of subsection 197(7) or (8) of the Act, the claimant is not entitled to a part of a bill of costs that has been taxed, the trustee shall withhold payment of that part.
-
-- **(2)** If it appears to the trustee that the amount approved by the taxing officer is excessive, the trustee shall, on giving 10 days notice to the opposite party, apply to the court to have the taxation of the bill of costs reviewed.
-> SOR/98-240, s. 1; SOR/2007-61, s. 63(E).
-
+**26** [Repealed, SOR/2009-218, s. 4]
 
 
 
@@ -551,19 +547,27 @@ However, the court may order that the notice is not required to be given to the 
 
 - **(1)** Unless the court orders otherwise, the remuneration of a trustee is deemed to take into account all services performed by the trustee and by the trustee’s partners and employees.
 
-- **(2)** In taxing the accounts of a trustee pursuant to section 152 of the Act, the taxing officer shall tax disbursements at the rates provided by the tariff.
+- **(2)** In taxing the accounts of a trustee pursuant to section 152 of the Act, the taxing officer shall tax disbursements at the rates provided by the tariff.
 
 - **(3)** A trustee’s disbursements do not include the indirect costs of the trustee’s facilities or premises.
 
-- **(4)** The expenses incurred by a trustee for the services of an interpreter referred to in section 57 and subsection 108(3) are calculated, at the time of taxation, at a rate that the taxing officer deems reasonable.
+- **(4)** The expenses incurred by a trustee for the services of an interpreter referred to in section 57 and subsection 108(2) are calculated, at the time of taxation, at a rate that the taxing officer deems reasonable.
 
 - **(5)** The taxing officer shall determine the disbursements for which the trustee is entitled to be repaid in accordance with this section.
-> SOR/98-240, s. 1; SOR/2005-284, s. 5.
+> SOR/98-240, s. 1; SOR/2005-284, s. 5; SOR/2009-218, s. 5.
 
 
 
 
-**58.1** [Repealed, SOR/98-240, s. 1]
+**58.1** 
+
+- **(1)** For the purposes of section 156.1 of the Act, the amount required to be paid under the agreement must not be more than $1,800.
+
+- **(2)** Subject to section 136 of the Act, money from the estate of the bankrupt shall be applied to satisfy the amount to be paid under the agreement.
+
+- **(3)** The trustee shall provide the Superintendent and the bankrupt with a signed copy of the agreement immediately after it is entered into.
+> SOR/2009-218, s. 6.
+
 
 
 
@@ -588,8 +592,8 @@ However, the court may order that the notice is not required to be given to the 
 
 
 **59.1** A pension plan regulated by an Act of Parliament or of the legislature of a province is prescribed for the purposes of
-- **(a)** [Not in force]
-- **(b)** sections 81.5 and 81.6 of the Act.
+- **(a)** subsection 60(1.5) of the Act; and
+- **(b)** sections 81.5 and 81.6 of the Act.
 > SOR/2008-223, s. 1.
 
 
@@ -628,16 +632,16 @@ However, the court may order that the notice is not required to be given to the 
 - **(2)** At the time of discharge, the trustee must satisfy the court that
 	- **(a)** the statements made in connection with the discharge are true;
 	- **(b)** the final statement of receipts and disbursements is an accurate and correct statement of the administration of the estate, and has been approved by the inspectors and taxed by the court;
-	- **(c)** every disbursement included in the final statement of receipts and disbursements is accurate and proper;
+	- **(c)** [Repealed, SOR/2009-218, s. 7]
 	- **(d)** all the property of the bankrupt for which the trustee was accountable has been sold, realized or disposed of in the manner described in the final statement of receipts and disbursements;
 	- **(e)** every claim subject to a dividend was properly examined and that
 		- **(i)** to the best of the trustee’s knowledge, the dividend sheet presented to the court contains a true and correct list of the claims of creditors entitled to share in the estate,
 		- **(ii)** all payments shown on the dividend sheet have been duly made, and
-		- **(iii)** unclaimed dividends and undistributed funds have been forwarded to the Superintendent by the trustee in accordance with subsection 154(1) of the Act;
+		- **(iii)** unclaimed dividends and undistributed funds have been forwarded to the Superintendent by the trustee in accordance with subsection 154(1) of the Act;
 	- **(f)** the trustee has not received, does not expect to receive, and has not been promised, any remuneration or consideration other than as shown in the final statement of receipts and disbursements;
-	- **(g)** the trustee has complied with subsection 170(2) of the Act; and
+	- **(g)** the trustee has complied with subsection 170(2) of the Act; and
 	- **(h)** the final statement of receipts and disbursements, the dividend sheet and the notice of application for discharge of trustee have been sent to the registrar, the Division Office, the bankrupt and every creditor whose claim has been proved.
-> SOR/98-240, s. 1; SOR/2005-284, s. 6(F).
+> SOR/98-240, s. 1; SOR/2005-284, s. 6(F); SOR/2009-218, s. 7.
 
 
 
@@ -647,10 +651,10 @@ However, the court may order that the notice is not required to be given to the 
 
 
 **62** The trustee of the estate of a bankrupt under summary administration shall apply for taxation of the trustee’s accounts and for the discharge of the trustee by sending to the Division Office
-- **(a)** the trustee’s final statement of receipts and disbursements, in prescribed form;
-- **(b)** the dividend sheet, showing the dividends paid or to be paid to the creditors of the bankrupt; and
-- **(c)** if inspectors have been appointed by the creditors, the trustee’s final statement of receipts and disbursements showing approval by the inspectors’ signature or, if there is no approval, showing the reasons for the non-approval.
-> SOR/98-240, s. 1; SOR/2007-61, s. 12(E).
+- **(a)** the trustee’s final statement of receipts and disbursements, in prescribed form; and
+- **(b)** the dividend sheet, showing the dividends paid or to be paid to the creditors of the bankrupt.
+- **(c)** [Repealed, SOR/2009-218, s. 8]
+> SOR/98-240, s. 1; SOR/2007-61, s. 12(E); SOR/2009-218, s. 8.
 
 
 
@@ -683,21 +687,21 @@ However, the court may order that the notice is not required to be given to the 
 
 **65** 
 
-- **(1)** If a trustee receives no notice of objection within the time limit set out in subsection 64(2), the trustee shall
+- **(1)** If a trustee receives no notice of objection within the time limit set out in subsection 64(2), the trustee shall
 	- **(a)** at the expiration of that time limit, take the trustee’s fee;
 	- **(b)** at the expiration of that time limit, if the trustee has not already done so, send a final dividend to each creditor to whom one is owed; and
-	- **(c)** within three months after the day on which the notice referred to in subsection 64(1) is sent,
+	- **(c)** within three months after the day on which the notice referred to in subsection 64(1) is sent,
 		- **(i)** close the bank account used in administering the estate of the bankrupt, if that account is not a consolidated account, or, if the account is a consolidated account, ensure that all estate funds have been withdrawn from it,
 		- **(ii)** remit any unclaimed dividends and undistributed funds to the Superintendent, and
 		- **(iii)** send to the Division Office a certificate of compliance and deemed discharge, in prescribed form.
 
-- **(2)** A trustee is deemed to be discharged on meeting the requirements of paragraphs (1)(b) and (c).
+- **(2)** A trustee is deemed to be discharged on meeting the requirements of paragraphs (1)(b) and (c).
 
-- **(3)** If a trustee receives a notice of objection within the time limit set out in subsection 64(2), the trustee shall
-	- **(a)** advise the Division Office of the objection;
+- **(3)** If a trustee receives a notice of objection within the time limit set out in subsection 64(2), the trustee shall
+	- **(a)** [Repealed, SOR/2009-218, s. 9]
 	- **(b)** obtain a hearing date from the registrar; and
 	- **(c)** within 30 days after the day on which the notice of objection is received, send the objecting creditor a notice of hearing, which notice must be sent at least 30 days before the date of the hearing and must be in prescribed form.
-> SOR/81-646, s. 4; SOR/98-240, s. 1; SOR/2007-61, s. 63(E).
+> SOR/81-646, s. 4; SOR/98-240, s. 1; SOR/2007-61, s. 63(E); SOR/2009-218, s. 9.
 
 
 
@@ -779,14 +783,14 @@ However, the court may order that the notice is not required to be given to the 
 
 **70** 
 
-- **(1)** A notice indicating the time and place of the hearing of the bankruptcy application, together with a certified copy of the application and of the affidavit referred to in subsection 43(3) of the Act, must be served on the debtor, on the trustee named in the application and on the Division Office at least 10 days, or any shorter period that the court may order, before the hearing.
+- **(1)** A notice indicating the time and place of the hearing of the bankruptcy application, together with a certified copy of the application and of the affidavit referred to in subsection 43(3) of the Act, must be served on the debtor, on the trustee named in the application and on the Division Office at least 10 days, or any shorter period that the court may order, before the hearing.
 
-- **(2)** A copy of every bankruptcy application served in accordance with this section must immediately be filed at the office of the registrar and at the Division Office.
+- **(2)** After service of an application in accordance with this section, a copy of that application must immediately be filed at the office of the registrar.
 
-- **(3)** Subject to section 71, service on the debtor under subsection (1) must be effected by personal service.
+- **(3)** Subject to section 71, service on the debtor under subsection (1) must be effected by personal service.
 
-- **(4)** For the purposes of paragraph 256(3)(c) of the Act, the interval is 10 days.
-> SOR/98-240, s. 1; SOR/2007-61, s. 15.
+- **(4)** For the purposes of paragraph 256(3)(c) of the Act, the interval is 10 days.
+> SOR/98-240, s. 1; SOR/2007-61, s. 15; SOR/2009-218, s. 10.
 
 
 
@@ -839,9 +843,7 @@ However, the court may order that the notice is not required to be given to the 
 ## Interim Receiver
 
 
-**77** An order appointing an interim receiver may be made, under section 46, 47 or 47.1 or subsection 271(3) of the Act, on an *ex parte* application, but the court may adjourn the hearing of the application and direct that a notice of the hearing be given to whomever the court sees fit.
-> SOR/98-240, s. 1.
-
+**77** [Repealed, SOR/2009-218, s. 11]
 
 
 
@@ -942,16 +944,11 @@ However, the court may order that the notice is not required to be given to the 
 
 
 
-**87** 
-
-- **(1)** Subject to subsection (2), the trustee shall file with the court, before or immediately after the first meeting of the creditors of a bankrupt, a copy of the following documents:
-	- **(a)** the assignment that was filed with the official receiver pursuant to subsection 49(3) of the Act;
-	- **(b)** the preliminary statement of affairs that accompanied the assignment when it was filed with the official receiver, if a preliminary statement of affairs was prepared;
-	- **(c)** the statement of affairs that was filed with the official receiver; and
-	- **(d)** the minutes of the first meeting of creditors.
-
-- **(2)** In the case of the estate of a bankrupt under summary administration, the trustee is not required to file with the court the documents referred to in paragraphs (1)(a) to (d) unless the court orders the trustee to do so.
-> SOR/92-579, s. 20; SOR/98-240, s. 1; SOR/2007-61, s. 20(E).
+**87** The court may order the trustee to file with the court, before or immediately after the first meeting of the creditors, a copy of the following documents:
+- **(a)** the assignment that was filed with the official receiver;
+- **(b)** the statement of affairs that was filed with the official receiver; and
+- **(c)** the minutes of the first meeting of creditors.
+> SOR/92-579, s. 20; SOR/98-240, s. 1; SOR/2007-61, s. 20(E); SOR/2009-218, s. 12.
 
 
 
@@ -1030,16 +1027,22 @@ The projection has been prepared solely for the purpose described in Note ______
 
 
 
-**94** If an official receiver, under paragraph 57(b) or 61(2)(b) or subsection 63(6) of the Act, issues a certificate of assignment, the official receiver shall immediately
+**94** If an official receiver, under paragraph 57(b.1) or 61(2)(b.1) or subsection 63(6) of the Act, issues a certificate of assignment, the official receiver shall immediately
 - **(a)** send a copy of it to the trustee acting with respect to the proposal; and
 - **(b)** file it with the court.
-> SOR/98-240, s. 1; SOR/2007-61, s. 21(E).
+> SOR/98-240, s. 1; SOR/2007-61, s. 21(E); SOR/2009-218, s. 13.
 
 
 
 
-**95** The notice to disclaim or resiliate a lease that is given by an insolvent person to a lessor under subsection 65.2(1) of the Act must be in prescribed form and must be given in the manner provided for in the lease or, in the absence of such a provision in the lease, must be served or be sent by registered mail or courier.
-> SOR/98-240, s. 1; SOR/2007-61, s. 22(E).
+**94.1** The notice to disclaim or resiliate an agreement that is given by the debtor under subsection 65.11(1) of the Act must be served or be sent by registered mail, by courier or, if the recipient agrees, by electronic transmission.
+> SOR/2009-218, s. 14.
+
+
+
+
+**95** The notice to disclaim or resiliate a lease that is given by an insolvent person under subsection 65.2(1) of the Act must be served or be sent by registered mail, by courier or, if the recipient agrees, by electronic transmission.
+> SOR/98-240, s. 1; SOR/2007-61, s. 22(E); SOR/2009-218, s. 14.
 
 
 
@@ -1099,19 +1102,19 @@ The projection has been prepared solely for the purpose described in Note ______
 
 **101** 
 
-- **(1)** If the administrator receives no notice of objection within the time limit set out in subsection 100(2), the administrator shall, within three months after the day on which the notice referred to in subsection 100(1) is sent,
+- **(1)** If the administrator receives no notice of objection within the time limit set out in subsection 100(2), the administrator shall, within three months after the day on which the notice referred to in subsection 100(1) is sent,
 	- **(a)** if the administrator has not already done so, send each creditor the final dividend that is owed to them;
 	- **(b)** close the bank account used in administering the consumer proposal, if that account is not a consolidated account, or, if the account is a consolidated account, ensure that all funds governed by the consumer proposal have been withdrawn from it;
 	- **(c)** remit any unclaimed dividends and undistributed funds to the Superintendent; and
 	- **(d)** send to the Division Office a certificate of compliance and deemed discharge, in prescribed form.
 
-- **(2)** The administrator is deemed to be discharged on meeting the requirements of subsection (1).
+- **(2)** The administrator is deemed to be discharged on meeting the requirements of subsection (1).
 
-- **(3)** If the administrator receives a notice of objection within the time limit set out in subsection 100(2), the administrator shall
-	- **(a)** advise the Division Office of the objection;
+- **(3)** If the administrator receives a notice of objection within the time limit set out in subsection 100(2), the administrator shall
+	- **(a)** [Repealed, SOR/2009-218, s. 15]
 	- **(b)** obtain a hearing date from the registrar; and
-	- **(c)** within 30 days after the day on which the notice of objection is received, send the objecting creditor a notice of hearing, which notice must be sent at least 30 days before the date of the hearing and must be in prescribed form.
-> SOR/78-389, s. 5; SOR/98-240, s. 1; SOR/2007-61, s. 63(E).
+	- **(c)** within 30 days after the day on which the notice of objection is received, send the objecting creditor a notice of hearing, which notice must be sent at least 30 days before the date of the hearing and must be in prescribed form.
+> SOR/78-389, s. 5; SOR/98-240, s. 1; SOR/2007-61, s. 63(E); SOR/2009-218, s. 15.
 
 
 
@@ -1160,6 +1163,16 @@ The projection has been prepared solely for the purpose described in Note ______
 
 
 
+## Prescribed Regulatory Body
+
+
+**103.1** A stock exchange that is regulated by an Act of Parliament or of the legislature of a province, the Investment Industry Regulatory Organization of Canada and the Mutual Fund Dealers Association of Canada are prescribed for the purposes of section 69.6 of the Act.
+> SOR/2009-218, s. 16.
+
+
+
+
+
 ## Contributories
 
 
@@ -1187,60 +1200,60 @@ The projection has been prepared solely for the purpose described in Note ______
 
 **105** 
 
-- **(1)** For the purposes of subsections 68(8) and 170.1(6) of the Act, the procedures governing a mediation are as set out in this section.
+- **(1)** For the purposes of subsections 68(8) and 170.1(2) of the Act, the procedures governing a mediation are as set out in this section.
 
 - **(2)** For the purposes of this section,
 	- **(a)** the bankrupt and the trustee are always parties to the mediation;
 	- **(b)** the trustee may act either personally or through a representative;
-	- **(c)** an opposition to discharge made by a creditor or the trustee, referred to in subsection 170.1(5) of the Act, is deemed to be a request by the creditor or the trustee, as the case may be, for mediation; and
+	- **(c)** an opposition to discharge made by a creditor or the trustee, referred to in subsection 170.1(1) of the Act, is deemed to be a request by the creditor or the trustee, as the case may be, for mediation; and
 	- **(d)** a creditor who requests mediation is a party to the mediation.
 
 - **(3)** For the purpose of conducting a particular mediation, the Superintendent shall designate as mediator
 	- **(a)** an employee of a Division Office, including Division Offices other than the one for the bankruptcy division in which the proceedings were commenced; or
 	- **(b)** any other person with training or experience in mediation and whom the Superintendent considers qualified.
 
-- **(4)** On receipt of a request for mediation from a trustee under subsection 68(6) or (7) or 170.1(5) of the Act, accompanied by the most recent income and expense statement in prescribed form completed by the bankrupt, the official receiver shall refer the matter to the mediator, who shall set the time and place for the mediation. The time set for the mediation must be within 45 days after the official receiver received the request for mediation.
+- **(4)** On receipt of a request for mediation from a trustee under subsection 68(6) or (7) or 170.1(1) of the Act, accompanied by the most recent income and expense statement in prescribed form completed by the bankrupt, the official receiver shall refer the matter to the mediator, who shall set the time and place for the mediation. The time set for the mediation must be within 45 days after the official receiver received the request for mediation.
 
 - **(5)** The mediator shall conduct the mediation with all parties physically present, unless the mediator decides to conduct the mediation by telephone conference call or by means of any other communication facilities that permit all persons participating in the mediation to communicate with each other.
 
 - **(6)** The mediation must be held at the Division Office, at any other place that is designated by the mediator, or, if the mediation is conducted otherwise than with all parties physically present, at any combination of places necessary for that purpose.
 
-- **(7)** The mediator shall send a copy of the notice of the mediation, in prescribed form, to the bankrupt, to the trustee and to any creditor who requested mediation, at least 15 days, or any shorter period that may be agreed to by all the parties concerned, before the date set for the mediation.
+- **(7)** The mediator shall send a copy of the notice of the mediation, in prescribed form, to the bankrupt, to the trustee and to any creditor who requested mediation, at least 15 days, or any shorter period that may be agreed to by all the parties concerned, before the date set for the mediation.
 
 - **(8)** If, at any time before the mediation has started, the mediator believes on reasonable grounds that the mediation cannot proceed at the time scheduled, the mediator shall reschedule it, setting a new time and place.
 
-- **(9)** Except when it would constitute a second adjournment, the mediator shall, subject to subsection (13), adjourn the mediation at any time during the mediation if
+- **(9)** Except when it would constitute a second adjournment, the mediator shall, subject to subsection (13), adjourn the mediation at any time during the mediation if
 	- **(a)** a party requests an adjournment and the mediator believes on reasonable grounds that the mediation would benefit from further negotiations or the provision of additional information;
-	- **(b)** the mediator believes on reasonable grounds that one of the parties, other than the trustee in the case of a mediation requested by a creditor under subsection 170.1(5) of the Act, cannot continue the mediation for a certain period of time;
-	- **(c)** all the creditors who were informed of the mediation in accordance with subsection (7) or (11) fail to appear at the mediation and the mediator believes on reasonable grounds, with respect to at least one of those creditors, that the non-appearance is neither a delaying tactic nor intended to bring the mediation into disrepute;
-	- **(d)** in the case of a mediation requested by a creditor under subsection 170.1(5) of the Act, a party, other than the trustee, who was informed of the mediation in accordance with subsection (7) or (11) fails to appear at the mediation and the mediator believes on reasonable grounds that the non-appearance is neither a delaying tactic nor intended to bring the mediation into disrepute; or
-	- **(e)** in any case other than the one referred to in paragraph (d), a party, other than a creditor, who was informed of the mediation in accordance with subsection (7) or (11) fails to appear at the mediation and the mediator believes on reasonable grounds that the non-appearance is neither a delaying tactic nor intended to bring the mediation into disrepute.
+	- **(b)** the mediator believes on reasonable grounds that one of the parties, other than the trustee in the case of a mediation requested by a creditor under subsection 170.1(1) of the Act, cannot continue the mediation for a certain period of time;
+	- **(c)** all the creditors who were informed of the mediation in accordance with subsection (7) or (11) fail to appear at the mediation and the mediator believes on reasonable grounds, with respect to at least one of those creditors, that the non-appearance is neither a delaying tactic nor intended to bring the mediation into disrepute;
+	- **(d)** in the case of a mediation requested by a creditor under subsection 170.1(1) of the Act, a party, other than the trustee, who was informed of the mediation in accordance with subsection (7) or (11) fails to appear at the mediation and the mediator believes on reasonable grounds that the non-appearance is neither a delaying tactic nor intended to bring the mediation into disrepute; or
+	- **(e)** in any case other than the one referred to in paragraph (d), a party, other than a creditor, who was informed of the mediation in accordance with subsection (7) or (11) fails to appear at the mediation and the mediator believes on reasonable grounds that the non-appearance is neither a delaying tactic nor intended to bring the mediation into disrepute.
 
-- **(10)** If a mediation is rescheduled or adjourned, the new date set must be within 10 days after the date on which the rescheduling or adjournment occurs.
+- **(10)** If a mediation is rescheduled or adjourned, the new date set must be within 10 days after the date on which the rescheduling or adjournment occurs.
 
 - **(11)** If a mediation is rescheduled or adjourned, the mediator shall inform the parties of the new time and place.
 
-- **(12)** At any time during the mediation, the mediator shall, subject to subsection (13), cancel the mediation if
-	- **(a)** there is an outstanding opposition to the discharge of the bankrupt by a creditor or the trustee on a ground referred to in paragraphs 173(1)(a) to (l) or (o) of the Act;
+- **(12)** At any time during the mediation, the mediator shall, subject to subsection (13), cancel the mediation if
+	- **(a)** there is an outstanding opposition to the discharge of the bankrupt by a creditor or the trustee on a ground referred to in paragraphs 173(1)(a) to (l) or (o) of the Act;
 	- **(b)** the mediator believes on reasonable grounds that a party is abusing the rescheduling procedures;
 	- **(c)** there has already been an adjournment and
-		- **(i)** there is a request for adjournment under paragraph (9)(a), or
-		- **(ii)** one of the circumstances referred to in paragraphs (9)(b) to (e) occurs;
-	- **(d)** the mediator believes on reasonable grounds that one of the parties, other than the trustee in the case of a mediation requested by a creditor under subsection 170.1(5) of the Act, cannot continue the mediation at all;
-	- **(e)** all the creditors who were informed of the mediation in accordance with subsection (7) or (11) fail to appear at the mediation and the mediator believes on reasonable grounds, with respect to all of those creditors, that the non-appearance is a delaying tactic or is intended to bring the mediation into disrepute;
-	- **(f)** in the case of a mediation requested by a creditor under subsection 170.1(5) of the Act, a party, other than the trustee, who was informed of the mediation in accordance with subsection (7) or (11) fails to appear at the mediation and the mediator believes on reasonable grounds that the non-appearance is a delaying tactic or is intended to bring the mediation into disrepute; or
-	- **(g)** in any case other than the one referred to in paragraph (f), a party, other than a creditor, who was informed of the mediation in accordance with subsection (7) or (11) fails to appear at the mediation and the mediator believes on reasonable grounds that the non-appearance is a delaying tactic or is intended to bring the mediation into disrepute.
+		- **(i)** there is a request for adjournment under paragraph (9)(a), or
+		- **(ii)** one of the circumstances referred to in paragraphs (9)(b) to (e) occurs;
+	- **(d)** the mediator believes on reasonable grounds that one of the parties, other than the trustee in the case of a mediation requested by a creditor under subsection 170.1(1) of the Act, cannot continue the mediation at all;
+	- **(e)** all the creditors who were informed of the mediation in accordance with subsection (7) or (11) fail to appear at the mediation and the mediator believes on reasonable grounds, with respect to all of those creditors, that the non-appearance is a delaying tactic or is intended to bring the mediation into disrepute;
+	- **(f)** in the case of a mediation requested by a creditor under subsection 170.1(1) of the Act, a party, other than the trustee, who was informed of the mediation in accordance with subsection (7) or (11) fails to appear at the mediation and the mediator believes on reasonable grounds that the non-appearance is a delaying tactic or is intended to bring the mediation into disrepute; or
+	- **(g)** in any case other than the one referred to in paragraph (f), a party, other than a creditor, who was informed of the mediation in accordance with subsection (7) or (11) fails to appear at the mediation and the mediator believes on reasonable grounds that the non-appearance is a delaying tactic or is intended to bring the mediation into disrepute.
 
-- **(13)** Despite paragraphs (9)(b) and (d) and (12)(d) and (f), the absence of one or more creditors who requested mediation, or the inability of one or more creditors who requested mediation to continue the mediation, is not a ground for adjourning or cancelling the mediation if at least one creditor who requested mediation is present at the mediation, or is able to continue the mediation, as the case may be.
+- **(13)** Despite paragraphs (9)(b) and (d) and (12)(d) and (f), the absence of one or more creditors who requested mediation, or the inability of one or more creditors who requested mediation to continue the mediation, is not a ground for adjourning or cancelling the mediation if at least one creditor who requested mediation is present at the mediation, or is able to continue the mediation, as the case may be.
 
-- **(14)** In the case of a mediation under section 170.1 of the Act, if all of the creditors who requested the mediation cause the cancellation of the mediation under paragraph (12)(e),
-	- **(a)** the opposition to discharge on the part of each of those creditors on a ground referred to in paragraph 173(1)(m) or (n) of the Act is deemed withdrawn; and
-	- **(b)** the issues submitted to mediation are deemed to have been thereby resolved for the purposes of subsection 170.1(7) of the Act.
+- **(14)** In the case of a mediation under section 170.1 of the Act, if all of the creditors who requested the mediation cause the cancellation of the mediation under paragraph (12)(e),
+	- **(a)** the opposition to discharge on the part of each of those creditors on a ground referred to in paragraph 173(1)(m) or (n) of the Act is deemed withdrawn; and
+	- **(b)** the issues submitted to mediation are deemed to have been thereby resolved for the purposes of subsection 170.1(3) of the Act.
 
 - **(15)** For greater certainty, if
-	- **(a)** a mediation under section 68 of the Act is cancelled under any of paragraphs (12)(a) to (g), or
-	- **(b)** a mediation under section 170.1 of the Act is cancelled otherwise than under paragraph (12)(e),
-the issues submitted to mediation are deemed to have not been thereby resolved for the purposes of subsection 68(10) or 170.1(7), as the case may be, of the Act.
+	- **(a)** a mediation under section 68 of the Act is cancelled under any of paragraphs (12)(a) to (g), or
+	- **(b)** a mediation under section 170.1 of the Act is cancelled otherwise than under paragraph (12)(e),
+the issues submitted to mediation are deemed to have not been thereby resolved for the purposes of subsection 68(10) or 170.1(3), as the case may be, of the Act.
 
 - **(16)** If a mediation is cancelled, the mediator shall send to the Division Office and the parties a notice of the cancellation, in prescribed form, setting out the grounds for the cancellation.
 
@@ -1252,8 +1265,8 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 
 - **(19)** All payments made by a bankrupt under a mediation settlement agreement must be made to the trustee and deposited into the estate account.
 
-- **(20)** If the parties fail to reach agreement at the mediation, the mediator shall issue a notice in prescribed form to the effect that the issues submitted to mediation under subsection 68(6) or (7) or 170.1(5), as the case may be, of the Act were not resolved, and shall send that notice to the Division Office and the parties.
-> SOR/98-240, s. 1; SOR/2007-61, s. 25(E).
+- **(20)** If the parties fail to reach agreement at the mediation, the mediator shall issue a notice in prescribed form to the effect that the issues submitted to mediation under subsection 68(6) or (7) or 170.1(1), as the case may be, of the Act were not resolved, and shall send that notice to the Division Office and the parties.
+> SOR/98-240, s. 1; SOR/2007-61, s. 25(E); SOR/2009-218, s. 17.
 
 
 
@@ -1277,13 +1290,15 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 
 
 
-## Settlements and Preferences
+## Preferences and Transfers at Undervalue
+> [SOR/2009-218, s. 18]
+
 
 
 **107** The registrar may
-- **(a)** in the Province of Quebec, if an immovable or any right relating to it is the object of litigation under sections 91 to 100 of the Act, authorize the plaintiff to apply for the registration of a notice of advance registration in the appropriate register after a copy of the demand signed by the plaintiff’s advocate is filed with the court; and
-- **(b)** in any other province, if real property or any interest relating to it is the object of litigation under sections 91 to 100 of the Act, issue a certificate of *lis pendens* after a copy of the statement of claim signed by the plaintiff’s barrister or solicitor is filed with the court, and, if the plaintiff is unsuccessful in whole or in part, issue a certificate of disallowance.
-> SOR/98-240, s. 1; SOR/2007-61, s. 26.
+- **(a)** in the Province of Quebec, if an immovable or any right relating to it is the object of litigation under sections 91 to 99 of the Act, authorize the plaintiff to apply for the registration of a notice of advance registration in the appropriate register after a copy of the demand signed by the plaintiff’s advocate is filed with the court; and
+- **(b)** in any other province, if real property or any interest relating to it is the object of litigation under sections 91 to 99 of the Act, issue a certificate of *lis pendens* after a copy of the statement of claim signed by the plaintiff’s barrister or solicitor is filed with the court, and, if the plaintiff is unsuccessful in whole or in part, issue a certificate of disallowance.
+> SOR/98-240, s. 1; SOR/2007-61, s. 26; SOR/2009-218, s. 19.
 
 
 
@@ -1294,12 +1309,10 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 
 **108** 
 
-- **(1)** For the purposes of subsection 102(1) of the Act, the notice must be sent by mail, courier, facsimile or electronic transmission.
+- **(1)** For the purposes of paragraph 155(d.1) of the Act, the notice of the first meeting of creditors must be sent to the persons referred to in subsection 102(1) of the Act at least 10 days before the day of the meeting.
 
-- **(2)** For the purposes of subparagraph 155(d.1)(ii) of the Act, a notice must be sent by mail, courier, facsimile or electronic transmission to the persons referred to in subsection 102(1) of the Act at least 10 days before the day of the first meeting of creditors.
-
-- **(3)** If a bankrupt cannot speak fluently in the official language in which the meeting of creditors is being conducted, the trustee shall arrange for the services of an interpreter approved by the chairperson of the meeting.
-> SOR/98-240, s. 1; SOR/2007-61, s. 63(E).
+- **(2)** If a bankrupt cannot speak fluently in the official language in which the meeting of creditors is being conducted, the trustee shall arrange for the services of an interpreter approved by the chairperson of the meeting.
+> SOR/98-240, s. 1; SOR/2007-61, s. 63(E); SOR/2009-218, s. 20.
 
 
 
@@ -1423,6 +1436,31 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 
 **121** If a bankrupt applies to the court to modify the terms of an order of discharge pursuant to subsection 172(3) of the Act, the bankrupt shall send a notice of the time and place of the hearing of the application, at least 10 days before the day of the hearing, to the trustee, the Division Office and every creditor who has proved their claim, at their latest known address.
 > SOR/92-579, s. 30; SOR/98-240, s. 1; SOR/2007-61, s. 63(E).
+
+
+
+
+
+## Trustee Report
+
+
+**121.1** 
+
+- **(1)** For the purposes of subsection 170(1) of the Act, the circumstances in which the trustee shall prepare a report are the following:
+	- **(a)** the bankrupt has surplus income;
+	- **(b)** an opposition to the discharge of the bankrupt has been made;
+	- **(c)** the bankrupt has been bankrupt on a previous occasion under the laws of Canada or any prescribed jurisdiction; or
+	- **(d)** a court hearing of the discharge is required.
+
+- **(2)** The report shall be prepared
+	- **(a)** in the case of an individual who is eligible for an automatic discharge and who has never before been bankrupt under the laws of Canada or any prescribed jurisdiction,
+		- **(i)** during the eighth month after the date of the bankruptcy, or
+		- **(ii)** during the twentieth month after the date of the bankruptcy, if the individual is required to make payments under section 68 of the Act;
+	- **(b)** in the case of an individual who is eligible for an automatic discharge and who has been bankrupt once before under the laws of Canada or any prescribed jurisdiction,
+		- **(i)** during the twenty-third month after the date of the bankruptcy, or
+		- **(ii)** during the thirty-fifth month after the date of the bankruptcy, if the individual is required to make payments under section 68 of the Act; and
+	- **(c)** in the case of an individual who is not eligible for an automatic discharge, not less than 10 days and not more than 60 days before the date of the hearing of the application for discharge.
+> SOR/2009-218, s. 21.
 
 
 
@@ -1566,8 +1604,8 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 ## Application of Summary Administration Provisions
 
 
-**130** For the purposes of subsections 49(6) and (8) of the Act, the prescribed amount is $10,000.
-> SOR/98-240, s. 1.
+**130** For the purposes of subsections 49(6) and (8) of the Act, the amount is $15,000.
+> SOR/98-240, s. 1; SOR/2009-218, s. 22.
 
 
 
@@ -1650,6 +1688,25 @@ the issues submitted to mediation are deemed to have not been thereby resolved f
 
 **137** For the purposes of paragraphs 136(1)(h) and (j) of the Act, the prescribed date is November 30, 1992.
 > SOR/98-240, s. 1.
+
+
+
+
+
+## Notice Related to Foreign Proceeding
+
+
+**138** For the purposes of paragraph 276(b) of the Act, the notice must contain the following information:
+- **(a)** the name and contact information of the foreign representative;
+- **(b)** the name of the debtor and the name under which the debtor carries on business in Canada, if any;
+- **(c)** the following information respecting the order, namely
+	- **(i)** the name of the court that made it,
+	- **(ii)** the legislative provision under which it was made, and
+	- **(iii)** the date on which it was made;
+- **(d)** the country in which the foreign proceeding is filed;
+- **(e)** whether the proceeding is a foreign main or foreign non-main proceeding; and
+- **(f)** the name and contact information of legal counsel for the foreign representative.
+> SOR/2009-218, s. 23.
 
 
 
