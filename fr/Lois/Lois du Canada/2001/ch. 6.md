@@ -324,11 +324,21 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **24** Les définitions qui suivent s’appliquent à la présente partie.
 
-***Convention*** La Convention de 1976 sur la limitation de la responsabilité en matière de créances maritimes conclue à Londres le 19 novembre 1976 — dans sa version modifiée par le Protocole — dont les articles 1 à 15 figurent à la partie 1 de l’annexe 1 et l’article 18 figure à la partie 2 de cette annexe.
+***Convention*** La Convention de 1976 sur la limitation de la responsabilité en matière de créances maritimes conclue à Londres le 19 novembre 1976 — dans sa version modifiée par le Protocole — dont les articles 1 à 15 figurent à la partie 1 de l’annexe 1 et l’article 18 figure à la partie 2 de cette annexe. (*Convention*)
 
-***créance maritime*** Créance maritime visée à l’article 2 de la Convention contre toute personne visée à l’article 1 de la Convention.
+***créance maritime*** Créance maritime visée à l’article 2 de la Convention contre toute personne visée à l’article 1 de la Convention. (*maritime claim*)
 
-***Protocole*** Le Protocole de 1996 modifiant la Convention de 1976 sur la limitation de la responsabilité en matière de créances maritimes conclu à Londres le 2 mai 1996, dont les articles 8 et 9 figurent à la partie 2 de l’annexe 1.
+***passager*** S’entend des personnes suivantes :
+- **a)** la personne transportée à bord d’un navire dans les cas prévus aux alinéas a) et b) du paragraphe 2 de l’article 7 de la Convention;
+- **b)** le participant à une activité de tourisme d’aventure visée au paragraphe 37.1(1);
+- **c)** la personne transportée à bord d’un bâtiment utilisé à des fins commerciales ou publiques et propulsé manuellement à l’aide de pagaies ou d’avirons;
+- **d)** le stagiaire en navigation à voile. (*passenger*)
+
+***Protocole*** Le Protocole de 1996 modifiant la Convention de 1976 sur la limitation de la responsabilité en matière de créances maritimes conclu à Londres le 2 mai 1996, dont les articles 8 et 9 figurent à la partie 2 de l’annexe 1. (*Protocol*)
+
+***unités de compte*** S’entend des droits de tirage spéciaux émis par le Fonds monétaire international. (*unit of account*)
+> 2001, ch. 6, art. 24; 2009, ch. 21, art. 1.
+
 
 
 
@@ -355,7 +365,19 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Force de loi**
 
-**26** Sous réserve des autres dispositions de la présente partie, les articles 1 à 15 de la Convention ont force de loi au Canada.
+**26** 
+
+- **(1)** Sous réserve des autres dispositions de la présente partie, les articles 1 à 15 et 18 de la Convention et les articles 8 et 9 du Protocole ont force de loi au Canada.
+
+**Modification de la partie 3 de l’annexe 1**
+
+- **(2)** Le gouverneur en conseil peut, par règlement, modifier la partie 3 de l’annexe 1 pour y ajouter ou en supprimer toute réserve faite par le Canada au titre de l’article 18 de la Convention.
+
+**Exclusions**
+
+- **(3)** La présente partie ne s’applique pas à la créance qui fait l’objet d’une réserve faite par le Canada.
+> 2001, ch. 6, art. 26; 2009, ch. 21, art. 2.
+
 
 
 
@@ -367,51 +389,53 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Navires d’une jauge inférieure à 300 tonneaux**
+**Créances de passagers**
 
 **28** 
 
-- **(1)** La limite de responsabilité pour les créances maritimes — autres que celles mentionnées à l’article 29 — nées d’un même événement impliquant un navire jaugeant moins de 300 tonneaux est fixée à :
-	- **a)** 1 000 000 $ pour les créances pour décès ou blessures corporelles;
-	- **b)** 500 000 $ pour les autres créances.
+- **(1)** La limite de responsabilité pour les créances maritimes nées d’un même événement impliquant un navire d’une jauge brute inférieure à 300, en cas de décès ou de blessures corporelles causés à des passagers du navire, est fixée à la plus élevée des sommes suivantes :
+	- **a)** 2 000 000 d’unités de compte;
+	- **b)** le produit de 175 000 unités de compte par :
+		- **(i)** le nombre de passagers que peut transporter le navire aux termes de tout document maritime canadien requis au titre de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md),
+		- **(ii)** le nombre de passagers à bord du navire, si aucun document maritime canadien n’est requis au titre de cette loi.
 
-**Jauge du navire**
+**Créances — sans contrat de transport**
 
-- **(2)** Pour l’application du paragraphe (1), la jauge brute du navire est calculée conformément aux règles de jaugeage prévues à l’annexe I de la Convention internationale de 1969 sur le jaugeage des navires, conclue à Londres le 23 juin 1969, y compris les modifications dont les annexes ou l’appendice de cette convention peuvent faire l’objet, indépendamment du moment où elles sont apportées.
-
-
-
-
-**Créances de passagers — navire sans certificat**
-
-**29** 
-
-- **(1)** La limite de responsabilité pour les créances maritimes nées d’un même événement impliquant un navire pour lequel aucun document maritime canadien n’est requis au titre de la partie 4 de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md), en cas de décès ou de blessures corporelles causés à des passagers du navire, est fixée au plus élevé des montants suivants :
-	- **a)** 2 000 000 d’unités de compte;
-	- **b)** le produit de 175 000 unités de compte par le nombre de passagers à bord du navire.
-
-**Créances de passagers sans contrat de transport**
-
-- **(2)** Malgré l’article 6 de la Convention, la limite de responsabilité pour les créances maritimes nées d’un même événement, en cas de décès ou de blessures corporelles causés à des personnes transportées sur un navire autrement que sous le régime d’un contrat de transport de passagers, est fixée au plus élevé des montants suivants :
-	- **a)** 2 000 000 d’unités de compte;
-	- **b)** le produit de 175 000 unités de compte par :
-		- **(i)** le nombre de passagers que peut transporter le navire aux termes du certificat requis au titre de la partie 4 de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md),
-		- **(ii)** le nombre de personnes à bord du navire, si aucun certificat n’est requis au titre de cette partie.
+- **(2)** La limite de responsabilité pour les créances maritimes nées d’un même événement, en cas de décès ou de blessures corporelles causés à des personnes transportées à bord d’un navire d’une jauge brute inférieure à 300 autrement que sous le régime d’un contrat de transport de passagers, est fixée à la plus élevée des sommes suivantes :
+	- **a)** 2 000 000 d’unités de compte;
+	- **b)** le produit de 175 000 unités de compte par :
+		- **(i)** le nombre de passagers que peut transporter le navire aux termes de tout document maritime canadien requis au titre de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md),
+		- **(ii)** le nombre de personnes à bord du navire, si aucun document maritime canadien n’est requis au titre de cette loi.
 
 **Exception**
 
-- **(3)** Le paragraphe (2) ne s’applique pas :
-	- **a)** dans le cas du capitaine d’un navire, d’un membre de l’équipage et de toute autre personne employée ou occupée à bord, en quelque qualité que ce soit, pour les affaires de ce navire;
-	- **b)** dans le cas d’une personne transportée à bord d’un navire autre qu’un navire utilisé à des fins commerciales ou publiques.
+- **(3)** Le paragraphe (2) ne s’applique pas dans le cas où la personne transportée :
+	- **a)** est le capitaine d’un navire, un membre de l’équipage ou toute autre personne employée ou occupée à bord, en quelque qualité que ce soit, pour les affaires de ce navire;
+	- **b)** est à bord d’un navire autre qu’un navire utilisé à des fins commerciales ou publiques;
+	- **c)** est à bord d’un navire soit en exécution de l’obligation qui incombe au capitaine de transporter des naufragés, des personnes en détresse ou d’autres personnes, soit par suite de circonstances que ni le capitaine ni le propriétaire ne pouvaient empêcher;
+	- **c.1)** est un passager clandestin, un intrus ou toute autre personne ayant monté à bord d’un navire sans le consentement ou à l’insu du capitaine ou du propriétaire;
+	- **d)** appartient à une catégorie prévue en vertu de l’alinéa 34.1a).
+> 2001, ch. 6, art. 28; 2009, ch. 21, art. 3.
 
-**Définition de « passager »**
 
-- **(4)** Au paragraphe (1), ***passager*** s’entend de toute personne transportée sur le navire dans les cas prévus aux alinéas a) et b) du paragraphe 2 de l’article 7 de la Convention.
 
-**Définition de « unités de compte »**
 
-- **(5)** Aux paragraphes (1) et (2), ***unités de compte*** s’entend des droits de tirage spéciaux émis par le Fonds monétaire international.
-> 2001, ch. 6, art. 29, ch. 26, art. 324.
+
+**Autres créances**
+
+**29** La limite de responsabilité pour les créances maritimes — autres que celles mentionnées à l’article 28 — nées d’un même événement impliquant un navire d’une jauge brute inférieure à 300 est fixée à :
+- **a)** 1 000 000 $ pour les créances pour décès ou blessures corporelles;
+- **b)** 500 000 $ pour les autres créances.
+> 2001, ch. 6, art. 29, ch. 26, art. 324; 2009, ch. 21, art. 3.
+
+
+
+
+
+**Jauge brute du navire**
+
+**29.1** Pour l’application des articles 28 et 29, la jauge brute du navire est calculée conformément aux règles de jaugeage prévues à l’annexe I de la Convention internationale de 1969 sur le jaugeage des navires, conclue à Londres le 23 juin 1969, y compris les modifications dont les annexes ou l’appendice de cette convention peuvent faire l’objet, indépendamment du moment où elles sont apportées.
+> 2009, ch. 21, art. 3.
 
 
 
@@ -425,13 +449,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **30** 
 
-- **(1)** La limite de responsabilité du propriétaire d’un dock, d’un canal ou d’un port ou de la personne qui engage ainsi la responsabilité de ce dernier, en cas de perte causée à un navire, à sa cargaison ou aux autres biens à bord, pour les créances nées d’un même événement, est fixée au plus élevé des montants suivants :
-	- **a)** 2 000 000 $;
-	- **b)** le produit de 1 000 $ par le nombre de tonneaux de jauge brute du plus grand navire à s’être trouvé, au moment de la perte ou au cours des cinq années précédentes, dans la zone où est situé le dock, le canal ou le port.
+- **(1)** La limite de responsabilité du propriétaire d’un dock, d’un canal ou d’un port ou de la personne qui engage ainsi la responsabilité de ce dernier, en cas de perte causée à un navire, à sa cargaison ou aux autres biens à bord, pour les créances nées d’un même événement, est fixée au plus élevé des montants suivants :
+	- **a)** 2 000 000 $;
+	- **b)** le produit de 1 000 $ par le nombre de tonneaux de jauge brute du plus grand navire à s’être trouvé, au moment de la perte ou au cours des cinq années précédentes, dans la zone où est situé le dock, le canal ou le port.
 
 **Jauge brute du navire**
 
-- **(2)** Pour l’application du paragraphe (1), la jauge brute du navire est calculée de la façon prévue au paragraphe 28(2).
+- **(2)** Pour l’application du paragraphe (1), la jauge brute du navire est calculée de la façon prévue à l’article 29.1.
 
 **Application**
 
@@ -443,9 +467,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Assimilation**
 
-- **(5)** Pour l’application du présent article :
+- **(5)** Pour l’application du présent article :
 	- **a)** sont assimilés aux docks les bassins à flot et darses, les bassins d’échouage et bassins de marée, les écluses, les tranchées, les entrées, les cales sèches, les bassins de carénage, les bassins de radoub, les grils de carénage, les cales de halage, les appontements, les quais, les jetées, les embarcadères, les pontons d’embarquement, les môles et les syncrolifts;
 	- **b)** sont assimilés au propriétaire d’un dock, d’un canal ou d’un port toute personne ou toute autorité ayant la régie ou la gestion d’un dock, d’un canal ou d’un port ainsi que tout réparateur de navires qui s’en sert.
+> 2001, ch. 6, art. 30; 2009, ch. 21, art. 4.
+
 
 
 
@@ -458,11 +484,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **31** 
 
-- **(1)** Le gouverneur en conseil peut, par décret, donner force de loi au Canada à toute modification, faite en conformité avec l’article 8 du Protocole, des limites de responsabilité prévues au paragraphe 1 des articles 6 ou 7 de la Convention.
+- **(1)** Le gouverneur en conseil peut, par règlement, modifier l’annexe 1 pour mettre en oeuvre toute modification, faite en conformité avec l’article 8 du Protocole, des limites de responsabilité prévues au paragraphe 1 des articles 6 ou 7 de la Convention.
 
 **Modification des articles 28, 29 et 30**
 
-- **(2)** Le gouverneur en conseil peut, par décret, modifier les limites de responsabilité prévues aux articles 28, 29 et 30.
+- **(2)** Le gouverneur en conseil peut, par règlement, modifier les limites de responsabilité prévues aux articles 28, 29 et 30.
+> 2001, ch. 6, art. 31; 2009, ch. 21, art. 5.
+
 
 
 
@@ -527,6 +555,21 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
+### Règlements
+
+
+
+**Gouverneur en conseil**
+
+**34.1** Le gouverneur en conseil peut, par règlement :
+- **a)** prévoir des catégories de personnes pour l’application de l’alinéa 28(3)d);
+- **b)** d’une façon générale, prendre toute autre mesure d’application de la présente partie.
+> 2009, ch. 21, art. 6.
+
+
+
+
+
 **PARTIE 4** 
 ## Responsabilité en matière de transport de passagers par eau
 
@@ -552,12 +595,18 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 **36** 
 
 - **(1)** Pour l’application de la présente partie et des articles 1 à 22 de la Convention :
-	- **a)** la définition de ***navire***, à l’article 1 de la Convention, vise notamment un bâtiment ou une embarcation — de mer ou non — conçus, utilisés ou utilisables, exclusivement ou non, pour la navigation, indépendamment de leur mode de propulsion ou de l’absence de propulsion, à l’exclusion des aéroglisseurs;
+	- **a)** la définition de ***navire***, à l’article 1 de la Convention, vise notamment un bâtiment ou une embarcation — de mer ou non — conçus, utilisés ou utilisables, exclusivement ou non, pour la navigation, à l’exclusion des bâtiments propulsés manuellement à l’aide de pagaies ou d’avirons et des aéroglisseurs;
 	- **b)** dans la définition de ***contrat de transport***, à l’article 1 de la Convention, la mention de « transport par mer » vaut mention de « transport par eau ».
 
 **Propriétaires de navires**
 
 - **(2)** Pour l’application de la Convention à l’égard de la présente partie, il est entendu que l’article 19 de la Convention s’applique au propriétaire d’un navire, de mer ou non.
+
+**Incompatibilité**
+
+- **(3)** Le présent article et les articles 35 et 37 à 40 l’emportent sur les dispositions incompatibles des articles 1 à 22 de la Convention.
+> 2001, ch. 6, art. 36; 2009, ch. 21, art. 7.
+
 
 
 
@@ -574,11 +623,35 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Application étendue**
 
-- **(2)** Les articles 1 à 22 de la Convention s’appliquent également :
+- **(2)** Les articles 1 à 22 de la Convention s’appliquent également :
 	- **a)** au transport par eau — prévu par un contrat de transport — de passagers ou de passagers et de leurs bagages d’un lieu au Canada à tout lieu au Canada, directement ou en passant par un lieu situé à l’extérieur du Canada;
-	- **b)** faute de contrat de transport, au transport par eau de personnes ou de personnes et de leurs bagages sur un navire, à l’exception :
+	- **b)** faute de contrat de transport, au transport par eau de personnes ou de personnes et de leurs bagages sur un navire, à l’exception :
 		- **(i)** du capitaine du navire, de tout membre de l’équipage et de toute autre personne employée ou occupée à bord, en quelque qualité que ce soit, pour les affaires de ce navire,
-		- **(ii)** d’une personne transportée à bord d’un navire autre qu’un navire utilisé à des fins commerciales ou publiques.
+		- **(ii)** d’une personne transportée à bord d’un navire autre qu’un navire utilisé à des fins commerciales ou publiques,
+		- **(iii)** d’une personne transportée à bord d’un navire soit en exécution de l’obligation qui incombe au capitaine de transporter des naufragés, des personnes en détresse ou d’autres personnes, soit par suite de circonstances que ni le capitaine ni le propriétaire ne pouvaient empêcher,
+		- **(iv)** d’un passager clandestin, d’un intrus ou de toute autre personne ayant monté à bord d’un navire sans le consentement ou à l’insu du capitaine ou du propriétaire.
+> 2001, ch. 6, art. 37; 2009, ch. 21, art. 8.
+
+
+
+
+
+**Exclusion — tourisme d’aventure**
+
+**37.1** 
+
+- **(1)** La présente partie ne s’applique pas à l’activité de tourisme d’aventure qui réunit les conditions suivantes :
+	- **a)** l’activité met les participants en contact avec le milieu aquatique;
+	- **b)** l’activité exige normalement des procédures et de l’équipement de sécurité qui vont au-delà de ce qui est normalement prévu dans le cadre d’activités de transport de passagers;
+	- **c)** les participants sont exposés à de plus grands risques que ceux auxquels les passagers sont normalement exposés dans le cadre d’activités de transport de passagers;
+	- **d)** les risques ont été présentés aux participants et ceux-ci les ont acceptés par écrit;
+	- **e)** il est satisfait à toute condition prévue au titre de l’alinéa 39c).
+
+**Exclusion — personnes**
+
+- **(2)** La présente partie ne s’applique pas dans le cas du transport d’un stagiaire en navigation à voile ou d’une personne appartenant à une catégorie prévue au titre de l’alinéa 39d).
+> 2009, ch. 21, art. 9.
+
 
 
 
@@ -594,16 +667,25 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Pouvoir de réglementer**
+**Gouverneur en conseil**
 
-**39** Le gouverneur en conseil peut, par règlement, prévoir l’obligation de contracter une assurance ou autre garantie financière pour couvrir la responsabilité visée à la présente partie à l’égard des passagers.
+**39** Le gouverneur en conseil peut prendre des règlements :
+- **a)** concernant l’assurance ou autre garantie financière à contracter à l’égard des catégories de transports, de navires ou de personnes pour couvrir la responsabilité visée à la présente partie jusqu’à concurrence du montant qui y est fixé;
+- **b)** concernant les modalités de présentation de la preuve de l’assurance ou autre garantie financière;
+- **c)** prévoyant les conditions pour l’application du paragraphe 37.1(1);
+- **d)** prévoyant des catégories de personnes pour l’application du paragraphe 37.1(2);
+- **e)** d’une façon générale, en vue de toute autre mesure d’application de la présente partie.
+> 2001, ch. 6, art. 39; 2009, ch. 21, art. 10.
 
 
 
 
-**Décrets**
 
-**40** Le gouverneur en conseil peut, par décret, déclarer qu’a force de loi au Canada toute modification, faite en conformité avec l’article VIII du Protocole, des limites de responsabilité prévues au paragraphe 1 de l’article 7 et à l’article 8 de la Convention, notamment de la franchise visée à ce dernier article.
+**Modification des limites de responsabilité**
+
+**40** Le gouverneur en conseil peut, par règlement, modifier l’annexe 2 pour mettre en oeuvre toute modification, faite en conformité avec l’article VIII du Protocole, des limites de responsabilité prévues au paragraphe 1 de l’article 7 et à l’article 8 de la Convention, notamment de la franchise visée à ce dernier article.
+> 2001, ch. 6, art. 40; 2009, ch. 21, art. 10.
+
 
 
 
@@ -1976,9 +2058,61 @@ L’avis de l’administrateur doit dans tous les cas être fondé sur des motif
 
 
 
+**132. à 138** [Non en vigueur]
+
+
+
+
+### Privilège maritime
+
+
+
+**Définition de bâtiment étranger**
+
+**139** 
+
+- **(1)** Au présent article, ***bâtiment étranger*** s’entend au sens de l’article 2 de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md).
+
+**Privilège maritime**
+
+- **(2)** La personne qui exploite une entreprise au Canada a un privilège maritime à l’égard du bâtiment étranger sur lequel elle a l’une ou l’autre des créances suivantes :
+	- **a)** celle résultant de la fourniture — au Canada ou à l’étranger — au bâtiment étranger de marchandises, de matériel ou de services pour son fonctionnement ou son entretien, notamment en ce qui concerne l’acconage et le gabarage;
+	- **b)** celle fondée sur un contrat de réparation ou d’équipement du bâtiment étranger.
+
+**Service demandé par le propriétaire**
+
+- **(2.1)** Sous réserve de l’article 251 de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md) et pour l’application de l’alinéa (2)a), dans le cas de l’acconage et du gabarage, le service doit avoir été fourni à la demande du propriétaire du bâtiment étranger ou de la personne agissant en son nom.
+
+**Exceptions**
+
+- **(3)** Le privilège maritime peut être exercé en matière réelle à l’égard du bâtiment étranger qui n’est pas :
+	- **a)** un navire de guerre, un garde-côte ou un bateau de police;
+	- **b)** un navire accomplissant exclusivement une mission non commerciale au moment où a été formulée la demande ou a été intentée l’action le concernant.
+
+**[Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md)**
+
+- **(4)** Le paragraphe 43(3) de la [Loi sur les Cours fédérales](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-7.md) ne s’applique pas aux créances garanties par un privilège maritime au titre du présent article.
+> 2009, ch. 21, art. 12.
+
+
+
+
+
+### Prescription
+
+
+
+**Action se rapportant au droit maritime**
+
+**140** Sauf disposition contraire de la présente loi ou de toute autre loi fédérale, toute action se rapportant au droit maritime canadien relativement à la navigation et la marine marchande se prescrit par trois ans à compter du fait générateur du litige.
+> 2009, ch. 21, art. 12.
+
+
+
+
 
 ### **ANNEXE 1** 
-**(article 24)**
+**(article 24 et paragraphes 26(2) et 31(1))**
 
 **PARTIE 1** 
 
@@ -2257,9 +2391,9 @@ pour chaque tonneau au-dessus de 70 000 tonneaux, 3 000 unités monétaires; e
 
 **c)** en ce qui concerne le paragraphe 1 de l’article 7, à un montant de 2 625 000 unités monétaires multiplié par le nombre de passagers que le navire est autorisé à transporter conformément à son certificat.
 
+
+
 Les paragraphes 2 et 3 de l’article 6 s’appliquent en conséquence aux alinéas a) et b) du présent paragraphe.
-
-
 
 
 
@@ -2410,9 +2544,9 @@ Sous réserve des dispositions du présent chapitre, les règles relatives à la
 
 **b)** des navires d’une jauge inférieure à 300 tonneaux.
 
+
+
 Un État Partie qui fait usage de la faculté prévue au présent paragraphe notifie au dépositaire les limites de la responsabilité adoptées dans sa législation nationale ou le fait que de telles limites ne sont pas prévues.
-
-
 
 
 
@@ -2434,9 +2568,9 @@ Un État Partie qui fait usage de la faculté prévue au présent paragraphe not
 
 **b)** lorsque cet État est devenu Partie à une convention internationale qui fixe le régime de responsabilité applicable à ces navires.
 
+
+
 Dans le cas où s’applique l’alinéa a) ci-dessus, cet État en informe le dépositaire.
-
-
 
 
 
@@ -2473,9 +2607,9 @@ Texte de l’article 18 de la Convention de 1976 sur la limitation de la respons
 
 **b)** d’exclure les créances pour dommages au sens de la Convention internationale de 1996 sur la responsabilité et l’indemnisation pour les dommages liés au transport par mer de substances nocives et potentiellement dangereuses ou de tout amendement ou Protocole y relatif.
 
+
+
 Aucune autre réserve portant sur une question de fond de la présente Convention n’est recevable.
-
-
 
 
 
@@ -2560,10 +2694,23 @@ Aucune autre réserve portant sur une question de fond de la présente Conventio
 
 
 
+**PARTIE 3** 
+
+
+Texte des réserves faites au titre de l’article 18 de la Convention de 1976 sur la limitation de la responsabilité en matière de créances maritimes telle que modifiée par le Protocole de 1996 modifiant la Convention de 1976 sur la limitation de la responsabilité en matière de créances maritimes
+
+
+
+**1** Créances pour avoir renfloué, enlevé, détruit ou rendu inoffensif un navire coulé, naufragé, échoué ou abandonné, y compris tout ce qui se trouve ou s’est trouvé à bord.
+
+
+> 2001, ch. 6, ann. 1; 2009, ch. 21, art. 14 et 15.
+
+
 
 
 ### **ANNEXE 2** 
-**(article 35)**
+**(articles 35 et 40)**
 
 **PARTIE 1** 
 
@@ -3048,6 +3195,8 @@ Texte des articles III et VIII du Protocole de 1990 modifiant la Convention d’
 
 **10** Lorsqu’un amendement a été adopté mais que le délai d’acceptation de dix-huit mois n’a pas encore expiré, tout État devenant État contractant durant cette période est lié par l’amendement si celui-ci entre en vigueur. Un État qui devient État contractant après expiration de ce délai est lié par tout amendement qui a été accepté conformément au paragraphe 7. Dans les cas visés par le présent paragraphe, un État est lié par un amendement à compter de la date d’entrée en vigueur de l’amendement ou de la date d’entrée en vigueur du présent Protocole pour cet État, si cette dernière date est postérieure.
 
+
+> 2001, ch. 6, ann. 2; 2009, ch. 21, art. 16.
 
 
 
