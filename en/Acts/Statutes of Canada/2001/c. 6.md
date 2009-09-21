@@ -324,11 +324,21 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **24** The definitions in this section apply in this Part.
 
-***Convention*** means the Convention on Limitation of Liability for Maritime Claims, 1976, concluded at London on November 19, 1976, as amended by the Protocol, Articles 1 to 15 of which Convention are set out in Part 1 of Schedule 1 and Article 18 of which is set out in Part 2 of that Schedule.
+***Convention*** means the Convention on Limitation of Liability for Maritime Claims, 1976, concluded at London on November 19, 1976, as amended by the Protocol, Articles 1 to 15 of which Convention are set out in Part 1 of Schedule 1 and Article 18 of which is set out in Part 2 of that Schedule. (*Convention*)
 
-***maritime claim*** means a claim described in Article 2 of the Convention for which a person referred to in Article 1 of the Convention is entitled to limitation of liability.
+***maritime claim*** means a claim described in Article 2 of the Convention for which a person referred to in Article 1 of the Convention is entitled to limitation of liability. (*créance maritime*)
 
-***Protocol*** means the Protocol of 1996 to amend the Convention on Limitation of Liability for Maritime Claims, 1976, concluded at London on May 2, 1996, Articles 8 and 9 of which are set out in Part 2 of Schedule 1.
+***passenger*** means
+- **(a)** a person carried on board a ship in circumstances described in paragraph 2(a) or (b) of Article 7 of the Convention;
+- **(b)** a participant in an adventure tourism activity referred to in subsection 37.1(1);
+- **(c)** a person carried on board a vessel propelled manually by paddles or oars and operated for a commercial or public purpose; and
+- **(d)** a sail trainee. (*passager*)
+
+***Protocol*** means the Protocol of 1996 to amend the Convention on Limitation of Liability for Maritime Claims, 1976, concluded at London on May 2, 1996, Articles 8 and 9 of which are set out in Part 2 of Schedule 1. (*Protocole*)
+
+***unit of account*** means a special drawing right issued by the International Monetary Fund. (*unités de compte*)
+> 2001, c. 6, s. 24; 2009, c. 21, s. 1.
+
 
 
 
@@ -358,7 +368,19 @@ but does not include an air cushion vehicle or a floating platform constructed f
 
 **Force of law**
 
-**26** Subject to the other provisions of this Part, Articles 1 to 15 of the Convention have the force of law in Canada.
+**26** 
+
+- **(1)** Subject to the other provisions of this Part, Articles 1 to 15 and 18 of the Convention and Articles 8 and 9 of the Protocol have the force of law in Canada.
+
+**Amendments to Part 3 of Schedule 1**
+
+- **(2)** The Governor in Council may, by regulation, amend Part 3 of Schedule 1 to add or delete a reservation made by Canada under Article 18 of the Convention.
+
+**Exceptions**
+
+- **(3)** This Part does not apply to a claim that is the subject of a reservation made by Canada.
+> 2001, c. 6, s. 26; 2009, c. 21, s. 2.
+
 
 
 
@@ -370,51 +392,53 @@ but does not include an air cushion vehicle or a floating platform constructed f
 
 
 
-**Liability for ships under 300 tons**
+**Passenger claims**
 
 **28** 
 
-- **(1)** The maximum liability for maritime claims that arise on any distinct occasion involving a ship with a gross tonnage of less than 300 tons, other than claims mentioned in section 29, is
-	- **(a)** $1,000,000 in respect of claims for loss of life or personal injury; and
-	- **(b)** $500,000 in respect of any other claims.
+- **(1)** The maximum liability for maritime claims that arise on any distinct occasion for loss of life or personal injury to passengers of a ship of less than 300 gross tonnage is the greater of
+	- **(a)** 2 000 000 units of account, and
+	- **(b)** 175 000 units of account multiplied by
+		- **(i)** the number of passengers that the ship is authorized to carry according to any Canadian maritime document required under the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md), or
+		- **(ii)** the number of passengers on board the ship, if no Canadian maritime document is required under that Act.
 
-**Calculation of tonnage**
+**Claims — no contract of carriage**
 
-- **(2)** For the purposes of subsection (1), a ship’s gross tonnage shall be calculated in accordance with the tonnage measurement rules contained in Annex I of the International Convention on Tonnage Measurement of Ships, 1969, concluded at London on June 23, 1969, including any amendments, whenever made, to the Annexes or Appendix to that Convention.
-
-
-
-
-**Passenger claims, no Canadian maritime document**
-
-**29** 
-
-- **(1)** The maximum liability for maritime claims that arise on any distinct occasion for loss of life or personal injury to passengers of a ship for which no Canadian maritime document is required under Part 4 of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md) is the greater of
-	- **(a)** 2,000,000 units of account, and
-	- **(b)** the number of units of account calculated by multiplying 175,000 units of account by the number of passengers on board the ship.
-
-**Passenger claims, no contract of carriage**
-
-- **(2)** Notwithstanding Article 6 of the Convention, the maximum liability for maritime claims that arise on any distinct occasion for loss of life or personal injury to persons carried on a ship otherwise than under a contract of passenger carriage is the greater of
-	- **(a)** 2,000,000 units of account, and
-	- **(b)** 175,000 units of account multiplied by
-		- **(i)** the number of passengers that the ship is authorized to carry according to its certificate under Part 4 of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md), or
-		- **(ii)** if no certificate is required under that Part, the number of persons on board the ship.
+- **(2)** The maximum liability for maritime claims that arise on any distinct occasion for loss of life or personal injury to persons carried on board a ship of less than 300 gross tonnage otherwise than under a contract of passenger carriage is the greater of
+	- **(a)** 2 000 000 units of account, and
+	- **(b)** 175 000 units of account multiplied by
+		- **(i)** the number of passengers that the ship is authorized to carry according to any Canadian maritime document required under the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md), or
+		- **(ii)** the number of persons on board the ship, if no Canadian maritime document is required under that Act.
 
 **Exception**
 
 - **(3)** Subsection (2) does not apply in respect of
-	- **(a)** the master of a ship, a member of a ship’s crew or any other person employed or engaged in any capacity on board a ship on the business of a ship; or
-	- **(b)** a person carried on board a ship other than a ship operated for a commercial or public purpose.
+	- **(a)** the master of a ship, a member of a ship’s crew — or any other person employed or engaged in any capacity on the business of a ship — when they are carried on board the ship;
+	- **(b)** a person carried on board a ship other than a ship operated for a commercial or public purpose;
+	- **(c)** a person carried on board a ship in pursuance of the obligation on the master to carry shipwrecked, distressed or other persons or by reason of any circumstances that neither the master nor the owner could have prevented;
+	- **(c.1)** a stowaway, a trespasser or any other person who boards a ship without the consent or knowledge of the master or the owner; or
+	- **(d)** a person who is a member of a class of persons prescribed under paragraph 34.1(a).
+> 2001, c. 6, s. 28; 2009, c. 21, s. 3.
 
-**Definition of “passenger”**
 
-- **(4)** In subsection (1), ***passenger*** means a person carried on a ship in circumstances described in paragraph 2(a) or (b) of Article 7 of the Convention.
 
-**Definition of “unit of account”**
 
-- **(5)** In subsections (1) and (2), ***unit of account*** means a special drawing right issued by the International Monetary Fund.
-> 2001, c. 6, s. 29, c. 26, s. 324.
+
+**Other claims**
+
+**29** The maximum liability for maritime claims that arise on any distinct occasion involving a ship of less than 300 gross tonnage, other than claims referred to in section 28, is
+- **(a)** $1,000,000 in respect of claims for loss of life or personal injury; and
+- **(b)** $500,000 in respect of any other claims.
+> 2001, c. 6, s. 29, c. 26, s. 324; 2009, c. 21, s. 3.
+
+
+
+
+
+**Calculation of tonnage**
+
+**29.1** For the purposes of sections 28 and 29, a ship’s gross tonnage shall be calculated in accordance with the tonnage measurement rules contained in Annex I of the International Convention on Tonnage Measurement of Ships, 1969, concluded at London on June 23, 1969, including any amendments, whenever they are made, to the Annexes or Appendix to that Convention.
+> 2009, c. 21, s. 3.
 
 
 
@@ -434,7 +458,7 @@ but does not include an air cushion vehicle or a floating platform constructed f
 
 **Calculation of tonnage**
 
-- **(2)** For the purposes of subsection (1), a ship’s gross tonnage shall be calculated in the manner described in subsection 28(2).
+- **(2)** For the purposes of subsection (1), a ship’s gross tonnage shall be calculated in the manner described in section 29.1.
 
 **Application**
 
@@ -449,6 +473,8 @@ but does not include an air cushion vehicle or a floating platform constructed f
 - **(5)** For the purposes of this section,
 	- **(a)** “dock” includes wet docks and basins, tidal-docks and basins, locks, cuts, entrances, dry docks, graving docks, gridirons, slips, quays, wharfs, piers, stages, landing places, jetties and synchrolifts; and
 	- **(b)** “owner of a dock, canal or port” includes any person or authority having the control or management of the dock, canal or port and any ship repairer using the dock, canal or port.
+> 2001, c. 6, s. 30; 2009, c. 21, s. 4.
+
 
 
 
@@ -461,11 +487,13 @@ but does not include an air cushion vehicle or a floating platform constructed f
 
 **31** 
 
-- **(1)** The Governor in Council may, by order, declare that an amendment made in accordance with Article 8 of the Protocol to any of the limits of liability specified in paragraph 1 of Article 6 or paragraph 1 of Article 7 of the Convention has the force of law in Canada.
+- **(1)** The Governor in Council may, by regulation, amend Schedule 1 to implement an amendment that is made in accordance with Article 8 of the Protocol to any of the limits of liability that are specified in paragraph 1 of Article 6 or paragraph 1 of Article 7 of the Convention.
 
 **Amendment of sections 28, 29 and 30**
 
-- **(2)** The Governor in Council may, by order, amend the limits of liability set out in sections 28, 29 and 30.
+- **(2)** The Governor in Council may, by regulation, amend the limits of liability set out in sections 28, 29 and 30.
+> 2001, c. 6, s. 31; 2009, c. 21, s. 5.
+
 
 
 
@@ -530,6 +558,21 @@ but does not include an air cushion vehicle or a floating platform constructed f
 
 
 
+### Regulations
+
+
+
+**Governor in Council**
+
+**34.1** The Governor in Council may make regulations
+- **(a)** prescribing classes of persons for the purpose of paragraph 28(3)(d); and
+- **(b)** generally for carrying out the purposes and provisions of this Part.
+> 2009, c. 21, s. 6.
+
+
+
+
+
 **PART 4** 
 ## Liability for Carriage of Passengers by Water
 
@@ -555,12 +598,18 @@ but does not include an air cushion vehicle or a floating platform constructed f
 **36** 
 
 - **(1)** For the purposes of this Part and Articles 1 to 22 of the Convention,
-	- **(a)** the definition ***ship*** in Article 1 of the Convention shall be read as including any vessel or craft designed, used or capable of being used solely or partly for navigation, without regard to method or lack of propulsion and whether seagoing or not, but not including an air cushion vehicle; and
+	- **(a)** the definition ***ship*** in Article 1 of the Convention shall be read as including any vessel or craft designed, used or capable of being used solely or partly for navigation, whether seagoing or not, but not including an air cushion vehicle or a vessel propelled manually by paddles or oars; and
 	- **(b)** in the definition ***contract of carriage*** in Article 1 of the Convention, the expression “carriage by sea” shall be read as “carriage by water”.
 
 **Owners of ships**
 
 - **(2)** For greater certainty, in the application of the Convention under this Part, Article 19 of the Convention applies to owners of all ships, whether seagoing or not.
+
+**Inconsistency**
+
+- **(3)** In the event of any inconsistency between this section and sections 35 and 37 to 40 of this Act and Articles 1 to 22 of the Convention, those sections prevail to the extent of the inconsistency.
+> 2001, c. 6, s. 36; 2009, c. 21, s. 7.
+
 
 
 
@@ -580,8 +629,32 @@ but does not include an air cushion vehicle or a floating platform constructed f
 - **(2)** Articles 1 to 22 of the Convention also apply in respect of
 	- **(a)** the carriage by water, under a contract of carriage, of passengers or of passengers and their luggage from one place in Canada to the same or another place in Canada, either directly or by way of a place outside Canada; and
 	- **(b)** the carriage by water, otherwise than under a contract of carriage, of persons or of persons and their luggage, excluding
-		- **(i)** the master of a ship, a member of a ship’s crew or any other person employed or engaged in any capacity on board a ship on the business of the ship, and
-		- **(ii)** a person carried on board a ship other than a ship operated for a commercial or public purpose.
+		- **(i)** the master of a ship, a member of a ship’s crew or any other person employed or engaged in any capacity on board a ship on the business of the ship,
+		- **(ii)** a person carried on board a ship other than a ship operated for a commercial or public purpose,
+		- **(iii)** a person carried on board a ship in pursuance of the obligation on the master to carry shipwrecked, distressed or other persons or by reason of any circumstances that neither the master nor the owner could have prevented, and
+		- **(iv)** a stowaway, a trespasser or any other person who boards a ship without the consent or knowledge of the master or the owner.
+> 2001, c. 6, s. 37; 2009, c. 21, s. 8.
+
+
+
+
+
+**Exception — adventure tourism activities**
+
+**37.1** 
+
+- **(1)** This Part does not apply to an adventure tourism activity that meets the following conditions:
+	- **(a)** it exposes participants to an aquatic environment;
+	- **(b)** it normally requires safety equipment and procedures beyond those normally used in the carriage of passengers;
+	- **(c)** participants are exposed to greater risks than passengers are normally exposed to in the carriage of passengers;
+	- **(d)** its risks have been presented to the participants and they have accepted in writing to be exposed to them; and
+	- **(e)** any condition prescribed under paragraph 39(c).
+
+**Exception — persons**
+
+- **(2)** This Part does not apply to the carriage of a sail trainee or a person who is a member of a class of persons prescribed under paragraph 39(d).
+> 2009, c. 21, s. 9.
+
 
 
 
@@ -597,16 +670,25 @@ but does not include an air cushion vehicle or a floating platform constructed f
 
 
 
-**Regulations**
+**Governor in Council**
 
-**39** The Governor in Council may make regulations requiring insurance or other financial security to be maintained to cover liability to passengers under this Part.
+**39** The Governor in Council may make regulations
+- **(a)** respecting insurance or other financial security to be maintained in respect of classes of carriage, ships or persons to cover liability under this Part up to the maximum amount set out in it;
+- **(b)** respecting the form and manner in which proof of insurance or other financial security is provided;
+- **(c)** prescribing any condition for the purpose of subsection 37.1(1);
+- **(d)** prescribing classes of persons for the purpose of subsection 37.1(2); and
+- **(e)** generally for carrying out the purposes and provisions of this Part.
+> 2001, c. 6, s. 39; 2009, c. 21, s. 10.
+
 
 
 
 
 **Amendment of limits**
 
-**40** The Governor in Council may, by order, declare that an amendment made in accordance with Article VIII of the Protocol to any of the limits of liability specified in paragraph 1 of Article 7 or in Article 8 of the Convention, including the deductibles referred to in Article 8, has the force of law in Canada.
+**40** The Governor in Council may, by regulation, amend Schedule 2 to implement an amendment that is made in accordance with Article VIII of the Protocol to any of the limits of liability that are specified in paragraph 1 of Article 7 or in Article 8 of the Convention, including the deductibles referred to in that Article 8.
+> 2001, c. 6, s. 40; 2009, c. 21, s. 10.
+
 
 
 
@@ -2002,9 +2084,61 @@ unless a certificate described in Article VII of the Civil Liability Convention 
 
 
 
+**132. to 138** [Not in force]
+
+
+
+
+### Maritime Lien
+
+
+
+**Definition of foreign vessel**
+
+**139** 
+
+- **(1)** In this section, ***foreign vessel*** has the same meaning as in section 2 of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md).
+
+**Maritime lien**
+
+- **(2)** A person, carrying on business in Canada, has a maritime lien against a foreign vessel for claims that arise
+	- **(a)** in respect of goods, materials or services wherever supplied to the foreign vessel for its operation or maintenance, including, without restricting the generality of the foregoing, stevedoring and lighterage; or
+	- **(b)** out of a contract relating to the repair or equipping of the foreign vessel.
+
+**Services requested by owner**
+
+- **(2.1)** Subject to section 251 of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md), for the purposes of paragraph (2)(a), with respect to stevedoring or lighterage, the services must have been provided at the request of the owner of the foreign vessel or a person acting on the owner’s behalf.
+
+**Exception**
+
+- **(3)** A maritime lien against a foreign vessel may be enforced by an action *in rem* against a foreign vessel unless
+	- **(a)** the vessel is a warship, coast guard ship or police vessel; or
+	- **(b)** at the time the claim arises or the action is commenced, the vessel is being used exclusively for non-commercial governmental purposes.
+
+**[Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md)**
+
+- **(4)** Subsection 43(3) of the [Federal Courts Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-7.md) does not apply to a claim secured by a maritime lien under this section.
+> 2009, c. 21, s. 12.
+
+
+
+
+
+### Limitation Period
+
+
+
+**Proceedings under maritime law**
+
+**140** Except as otherwise provided in this Act or in any other Act of Parliament, no proceedings under Canadian maritime law in relation to any matter coming within the class of navigation and shipping may be commenced later than three years after the day on which the cause of action arises.
+> 2009, c. 21, s. 12.
+
+
+
+
 
 ### **SCHEDULE 1** 
-**(Section 24)**
+**(Section 24 and subsections 26(2) and 31(1))**
 
 **PART 1** 
 
@@ -2590,10 +2724,23 @@ No other reservations shall be admissible to the substantive provisions of this 
 
 
 
+**PART 3** 
+
+
+Text of reservations made under Article 18 of the Convention on Limitation of Liability for Maritime Claims, 1976, as amended by the Protocol of 1996 to amend the Convention on Limitation of Liability for Maritime Claims, 1976
+
+
+
+**1** Claims in respect of the raising, removal, destruction or rendering harmless of a ship that is sunk, wrecked, stranded or abandoned, including anything that is or has been on board that ship.
+
+
+> 2001, c. 6, Sch. 1; 2009, c. 21, ss. 14, 15.
+
+
 
 
 ### **SCHEDULE 2** 
-**(Section 35)**
+**(Sections 35 and 40)**
 
 **PART 1** 
 
@@ -2609,8 +2756,6 @@ Text of Articles 1 to 22 of the Athens Convention relating to the Carriage of Pa
 In this Convention the following expressions have the meaning hereby assigned to them:
 
 **1. (a)** ***carrier*** means a person by or on behalf of whom a contract of carriage has been concluded, whether the carriage is actually performed by him or by a performing carrier;
-
-
 
 **(b)** ***performing carrier*** means a person other than the carrier, being the owner, charterer or operator of a ship, who actually performs the whole or a part of the carriage;
 
@@ -2679,6 +2824,8 @@ In this Convention the following expressions have the meaning hereby assigned to
 
 
 **10** ***Organization*** means the International Maritime Organization.
+
+
 
 
 
@@ -3086,6 +3233,8 @@ Text of Articles III and VIII of the Protocol of 1990 to amend the Athens Conven
 
 **10** When an amendment has been adopted but the eighteen-month period for its acceptance has not yet expired, a State which becomes a Contracting State during that period shall be bound by the amendment if it enters into force. A State which becomes a Contracting State after that period shall be bound by an amendment which has been accepted in accordance with paragraph 7. In the cases referred to in this paragraph, a State becomes bound by an amendment when that amendment enters into force, or when this Protocol enters into force for that State, if later.
 
+
+> 2001, c. 6, Sch. 2; 2009, c. 21, s. 16.
 
 
 
