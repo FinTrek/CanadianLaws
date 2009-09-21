@@ -59,6 +59,15 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
+**Meaning of class**
+
+**2.1** For greater certainty, a reference in this Act to a ***class*** in relation to energy-using products includes classes based on common energy-consuming characteristics, the intended use of the products or the conditions under which the products are normally used.
+> 2009, c. 8, s. 1.
+
+
+
+
+
 ## Her Majesty
 
 
@@ -83,9 +92,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **4** 
 
-- **(1)** No dealer shall, for the purpose of sale or lease, ship an energy-using product from the province in which it was manufactured to another province, or import an energy-using product into Canada, unless
+- **(1)** No dealer shall, for the purpose of sale or lease, ship an energy-using product from one province to another province, or import an energy-using product into Canada, unless
 	- **(a)** the product complies with the energy efficiency standard; and
-	- **(b)** the product or its package is labelled in the prescribed form and manner, if any.
+	- **(b)** the product or its package is labelled in accordance with the regulations, if any.
 
 **Tampering with label**
 
@@ -94,21 +103,25 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 **Savings**
 
 - **(3)** A dealer does not contravene paragraph (1)(b) if the requirements of that paragraph are met before the energy-using product leaves the possession of the dealer or the dealer’s consignee.
+> 1992, c. 36, s. 4; 2009, c. 8, s. 2.
 
 
 
 
-**Report on energy-using products**
+
+**Information to be provided by dealers**
 
 **5** 
 
-- **(1)** Every dealer who ships or imports energy-using products as described in subsection 4(1) shall file with the Minister, in the prescribed form and manner and at the prescribed time, a report setting out prescribed information respecting the energy efficiency of those products.
+- **(1)** Every dealer who ships or imports energy-using products as described in subsection 4(1) shall provide the Minister, in the prescribed form and manner and at the prescribed time, with prescribed information respecting those products, including their energy efficiency, their shipment or their importation.
 
 **Exceptions**
 
-- **(2)** A dealer is not required to file a report under subsection (1) in respect of any particular energy-using products if the Minister is satisfied that
-	- **(a)** a report in respect of those products has previously been filed under that subsection by another dealer; or
-	- **(b)** a report in respect of energy-using products that differ from those products only in a manner that does not affect their energy efficiency has previously been filed under that subsection by that dealer or another dealer.
+- **(2)** A dealer is not required to provide prescribed information in respect of the energy efficiency of any particular energy-using products if the Minister is satisfied that
+	- **(a)** the information has previously been provided under subsection (1); or
+	- **(b)** information has previously been provided under subsection (1) in respect of the energy efficiency of comparable energy-using products that differ from those products only in a manner that does not relate to energy efficiency.
+> 1992, c. 36, s. 5; 2009, c. 8, s. 3.
+
 
 
 
@@ -152,16 +165,20 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 
 
-**Documents and records**
+**Retention of documents and records**
 
-**7** Every dealer required by section 5 to file a report with the Minister shall keep documents and records at the dealer’s place of business or other prescribed place in Canada in such form and containing such information as will enable the Minister to verify the accuracy and completeness of the information contained in the report.
+**7** Every dealer required by section 5 to provide the Minister with prescribed information shall keep, at the dealer’s place of business or other prescribed place in Canada, documents and records sufficient to enable the Minister to verify the accuracy and completeness of the information provided.
+> 1992, c. 36, s. 7; 2009, c. 8, s. 4.
 
 
 
 
-**Disposal of records**
 
-**8** Every dealer required by section 7 to keep documents and records shall, unless authorized by the Minister, retain every such document or record until the expiration of six years after the day on which the report was filed with the Minister.
+**Period of retention**
+
+**8** Every dealer required by section 7 to keep documents and records shall, unless authorized by the Minister, retain each one of those documents or records until the expiry of six years after the day on which the Minister is provided with the prescribed information.
+> 1992, c. 36, s. 8; 2009, c. 8, s. 4.
+
 
 
 
@@ -365,9 +382,9 @@ the justice of the peace may issue a warrant authorizing the inspector named the
 **20** 
 
 - **(1)** The Governor in Council may make regulations
-	- **(a)** prescribing as an energy-using product any manufactured product designed to operate using electricity, oil, natural gas or any other form or source of energy or to be used as a door system or window system;
-	- **(b)** prescribing energy efficiency standards for energy-using products or prescribed classes of energy-using products;
-	- **(c)** prescribing the form and manner of labelling energy-using products or their packages or prescribed classes of energy-using products or their packages with respect to the products’ energy efficiency;
+	- **(a)** prescribing as an energy-using product any manufactured product, or class of manufactured products, that is designed to operate using electricity, oil, natural gas or any other form or source of energy or that affects or controls energy consumption;
+	- **(b)** prescribing energy efficiency standards for energy-using products or classes of energy-using products;
+	- **(c)** respecting the labelling of energy-using products or their packages, or classes of energy-using products or their packages;
 	- **(d)** providing for the testing of energy-using products to determine their energy efficiency;
 	- **(e)** respecting the detention of things seized and detained under subsection 6(4) or 11(1); and
 	- **(f)** respecting the disposition or destruction of anything forfeited under section 15, 16 or 17.
@@ -375,6 +392,8 @@ the justice of the peace may issue a warrant authorizing the inspector named the
 **Incorporation by reference**
 
 - **(2)** A regulation made under paragraph (1)(b) or (d) incorporating standards by reference may incorporate the standards as amended from time to time.
+> 1992, c. 36, s. 20; 2009, c. 8, s. 5.
+
 
 
 
@@ -613,15 +632,24 @@ the justice of the peace may issue a warrant authorizing the inspector named the
 
 **Annual report**
 
-**36** The Minister shall, as soon as possible after the end of each fiscal year, prepare and cause to be laid before each House of Parliament a report on the administration and enforcement of this Act for that year.
+**36** 
+
+- **(1)** The Minister shall, as soon as possible after the end of each fiscal year, prepare and cause to be laid before each House of Parliament a report on the administration and enforcement of this Act for that year.
+
+**Comparison of energy efficiency standards**
+
+- **(2)** Once every three years, in the report referred to in subsection (1), the Minister shall demonstrate the extent to which the energy efficiency standards prescribed under this Act are as stringent as comparable standards established by a province, the United Mexican States, the United States of America or a state of the United States of America.
+> 1992, c. 36, s. 36; 2009, c. 8, s. 6.
 
 
 
 
-## Consequential Amendment
 
+**Report on extent energy efficiency standards established**
 
-**37** [Amendment]
+**37** Within four years after the day on which this section comes into force, the Minister shall, in the report referred to in subsection 36(1), demonstrate the extent to which energy efficiency standards have been prescribed under this Act for all energy-using products whose use has a significant impact on energy consumption in Canada.
+> 1992, c. 36, s. 37; 2009, c. 8, s. 7.
+
 
 
 
