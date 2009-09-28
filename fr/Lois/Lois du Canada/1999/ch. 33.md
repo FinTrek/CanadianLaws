@@ -3145,11 +3145,14 @@ Sont toutefois exclus :
 
 **Exceptions**
 
-- **(2)** Le paragraphe (1) ne vise pas le combustible :
-	- **a)** qui est en transit au Canada, en provenance et à destination d’un lieu en dehors du Canada, et est accompagné d’une preuve attestant qu’il est en transit;
-	- **b)** qui est produit ou vendu pour exportation et est accompagné d’une preuve attestant qu’il sera exporté;
-	- **c)** qui, sauf disposition contraire du règlement, est importé et est accompagné d’une preuve attestant qu’il sera conforme aux normes avant son utilisation ou sa vente;
-	- **d)** qui, sauf disposition contraire du règlement, est importé dans le réservoir qui sert à alimenter le moteur d’un moyen de transport terrestre, aérien ou par eau.
+- **(2)** Nul ne contrevient au paragraphe (1) dans les cas suivants :
+	- **a)** le combustible est en transit au Canada, en provenance et à destination d’un lieu situé à l’extérieur du Canada, et des éléments de preuve écrits attestent qu’il est en transit;
+	- **b)** le combustible est produit ou vendu pour exportation, des éléments de preuve écrits attestent qu’il sera exporté et les règlements ne sont pas à l’effet contraire;
+	- **c)** le combustible est produit ou importé alors que des éléments de preuve écrits attestent qu’il sera conforme aux normes réglementaires avant son utilisation ou sa vente et les règlements ne sont pas à l’effet contraire;
+	- **d)** le combustible est importé dans le réservoir qui sert à alimenter le moteur d’un moyen de transport terrestre, aérien ou par eau et les règlements ne sont pas à l’effet contraire;
+	- **e)** l’intéressé est soustrait à l’application de ce paragraphe par un règlement pris au titre du paragraphe 140(3).
+> 1999, ch. 33, art. 139; 2008, ch. 31, art. 1.
+
 
 
 
@@ -3158,31 +3161,33 @@ Sont toutefois exclus :
 
 **140** 
 
-- **(1)** Sur recommandation du ministre, le gouverneur en conseil peut prendre tout règlement d’application de l’article 139 et régir notamment :
+- **(1)** Sur recommandation du ministre, le gouverneur en conseil peut prendre tout règlement d’application de l’article 139 et, par règlement, régir :
 	- **a)** la quantité ou la concentration de tout élément, composant ou additif dans un combustible;
 	- **b)** les propriétés physiques ou chimiques du combustible;
 	- **c)** les caractéristiques du combustible établies conformément à une formule liée à ses propriétés ou à ses conditions d’utilisation;
+	- **c.1)** le mélange de combustibles;
 	- **d)** les méthodes de transfert et de manutention du combustible;
-	- **e)** la tenue des livres et registres par les producteurs, importateurs ou vendeurs de combustibles;
+	- **e)** la tenue des livres et registres par les producteurs, importateurs, vendeurs ou mélangeurs de combustible;
 	- **f)** la vérification des livres et registres et la remise de rapports de vérification et de copies des livres et registres;
-	- **g)** la transmission par les producteurs, importateurs ou vendeurs de combustible de renseignements concernant :
+	- **g)** la transmission par les producteurs, importateurs, vendeurs ou mélangeurs de combustible de renseignements concernant :
 		- **(i)** le combustible et tout élément, composant ou additif présent dans le combustible,
 		- **(ii)** les propriétés physiques et chimiques du combustible ou de toute autre substance devant y servir d’additif,
-		- **(iii)** les effets nocifs de l’utilisation du combustible sur l’environnement ou sur la vie ou la santé humaines, ainsi que sur les technologies de combustion ou les dispositifs de contrôle des émissions,
+		- **(iii)** les effets nocifs de l’utilisation du combustible, ou de tout additif présent dans celui-ci, sur l’environnement ou sur la vie ou la santé humaines, ainsi que sur les technologies de combustion ou les dispositifs de contrôle des émissions,
 		- **(iv)** les techniques de détection et de mesure des éléments, composants et additifs et des propriétés physiques et chimiques;
 	- **h)** l’échantillonnage, l’analyse, l’essai, la mesure ou la surveillance du combustible et d’additifs et la transmission des résultats;
 	- **i)** la transmission des échantillons;
-	- **j)** les conditions, procédures d’essai et pratiques de laboratoire auxquelles il faut se conformer pour l’échantillonnage, l’analyse, l’essai, la mesure ou la surveillance.
+	- **j)** les conditions, procédures d’essai et pratiques de laboratoire auxquelles il faut se conformer pour l’échantillonnage, l’analyse, l’essai, la mesure ou la surveillance;
+	- **k)** la présentation de rapports concernant la quantité de combustible produit, importé ou vendu pour exportation.
 
 **Contribution sensible**
 
-- **(2)** Le gouverneur en conseil peut prendre un règlement au titre des alinéas (1)a) à d) s’il estime qu’il pourrait contribuer sensiblement à prévenir ou à réduire la pollution atmosphérique résultant :
+- **(2)** Le gouverneur en conseil peut prendre un règlement au titre des alinéas (1)a) à d) s’il estime qu’il pourrait contribuer sensiblement à prévenir ou à réduire la pollution atmosphérique résultant :
 	- **a)** directement ou indirectement, du combustible ou d’un de ses composants;
 	- **b)** des effets du combustible sur le fonctionnement, la performance ou l’implantation de technologies de combustion ou d’autres types de moteur ou de dispositifs de contrôle des émissions.
 
-**Variations**
+**Exemption**
 
-- **(3)** Le règlement peut traiter les combustibles différemment selon leur appellation commerciale, leurs propriétés physiques ou chimiques, leur source, leur catégorie, les conditions de leur utilisation, leur lieu d’utilisation et la période de l’année pendant laquelle ils sont utilisés.
+- **(3)** Sur recommandation du ministre, le gouverneur en conseil peut, par règlement, soustraire à l’application du paragraphe 139(1) un producteur ou un importateur en ce qui concerne tout combustible qu’il produit ou importe, selon le cas, dans une quantité inférieure à 400 mètres cubes par an.
 
 **Consultation**
 
@@ -3191,6 +3196,16 @@ Sont toutefois exclus :
 **Délai**
 
 - **(5)** Après les soixante jours suivant la date de la proposition de consultation faite en application du paragraphe (4), le ministre peut recommander au gouverneur en conseil la prise d’un règlement conformément au paragraphe (1) si le gouvernement d’une province ou les membres du comité qui sont des représentants de gouvernements autochtones n’acceptent pas l’offre.
+
+**Examen**
+
+- **(6)** Il y aurait lieu, dans l’année suivant l’entrée en vigueur du présent paragraphe et par la suite tous les deux ans, que le comité soit du Sénat, soit de la Chambre des communes, soit mixte, que le Parlement ou la chambre en question, selon le cas, désigne ou constitue à cette fin, procède à un examen approfondi des aspects environnementaux et économiques de la production de biocombustibles au Canada.
+
+**Rapport**
+
+- **(7)** Il y aurait lieu, dans l’année suivant le début de son examen, que le comité visé au paragraphe (6) présente au Parlement un rapport où sont consignées ses conclusions ainsi que ses recommandations quant à la production de biocombustibles au Canada.
+> 1999, ch. 33, art. 140; 2008, ch. 31, art. 2.
+
 
 
 
@@ -3271,10 +3286,7 @@ Sont toutefois exclus :
 
 
 
-
-**Variations**
-
-**146** Le règlement peut traiter les combustibles différemment selon leur appellation commerciale, leurs propriétés physiques ou chimiques, leur source, leur catégorie, les conditions de leur utilisation, leur lieu d’utilisation et la période de l’année pendant laquelle ils sont utilisés.
+**146** [Abrogé, 2008, ch. 31, art. 3]
 
 
 
@@ -4932,7 +4944,7 @@ Sont toutefois exclus :
 
 - **(1)** Pour l’application de la présente loi et de ses règlements, l’agent de l’autorité peut, sous réserve du paragraphe (2), à toute heure convenable, inspecter un lieu s’il a des motifs raisonnables de croire, selon le cas :
 	- **a)** qu’il s’y trouve soit une substance visée par la présente loi, soit un produit contenant une telle substance;
-	- **b)** qu’on y produit ou y a produit ou qu’il s’y trouve un combustible visé par la présente loi;
+	- **b)** qu’on y produit ou y a produit, qu’on y mélange ou y a mélangé ou qu’il s’y trouve tout combustible visé par la présente loi;
 	- **c)** qu’on y fabrique ou y a fabriqué ou qu’il s’y trouve un produit de nettoyage ou un conditionneur d’eau, au sens de l’article 116;
 	- **d)** que le lieu est régi par des règlements d’application de l’article 209;
 	- **e)** que le lieu est une source visée par des règlements d’application des articles 167 ou 177 ou un lieu régi par des règlements d’application de l’article 200;
@@ -5024,7 +5036,7 @@ L’avis de l’agent de l’autorité doit être fondé sur des motifs raisonna
 **Aucun consentement requis**
 
 - **(17)** Il est entendu que l’exercice des pouvoirs prévus au présent article à l’égard d’un navire autre qu’un navire canadien n’est pas subordonné au consentement du procureur général du Canada.
-> 1999, ch. 33, art. 218; 2005, ch. 23, art. 31.
+> 1999, ch. 33, art. 218; 2005, ch. 23, art. 31; 2008, ch. 31, art. 4.
 
 
 
@@ -6872,9 +6884,28 @@ L’avis de l’agent de l’autorité doit être fondé sur des motifs raisonna
 
 - **(3.1)** Les règlements pris au titre des articles 93, 140, 167 ou 177 peuvent être applicables à une ou plusieurs parties du Canada afin de protéger l’environnement ou la diversité biologique de celui-ci ou la santé humaine.
 
+**Variations**
+
+- **(3.2)** Les règlements pris au titre des articles 93, 140, 145, 167, 177 ou 326 peuvent traiter différemment les catégories de personnes, d’ouvrages, d’entreprises, d’activités ou de substances, notamment de combustibles, qu’ils établissent en fonction de tout critère, notamment ceux qui suivent :
+	- **a)** la quantité de rejet;
+	- **b)** la capacité de production;
+	- **c)** les techniques ou processus de fabrication employés;
+	- **d)** les matières premières employées;
+	- **e)** la date du début de l’exploitation des ouvrages ou entreprises ou celle de l’achèvement de travaux importants;
+	- **f)** les sources des substances ou combustibles;
+	- **g)** l’appellation commerciale des substances ou combustibles;
+	- **h)** les propriétés physiques ou chimiques des substances ou combustibles;
+	- **i)** les conditions, lieux ou périodes d’utilisation des substances ou combustibles.
+
+**Partie 7**
+
+- **(3.3)** La partie 7 n’a pas pour effet d’empêcher la prise de règlements au titre de la partie 5.
+
 **Communication ou signification**
 
 - **(4)** Le ministre peut, par règlement, prévoir le mode de communication ou de signification des ordres ou arrêtés, — ou copies de ceux-ci —, avis et autres documents à fournir en application de la présente loi.
+> 1999, ch. 33, art. 330; 2008, ch. 31, art. 5.
+
 
 
 
