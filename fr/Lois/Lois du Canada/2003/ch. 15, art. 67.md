@@ -793,6 +793,28 @@ où :
 </td>
 </tr>
 <tr>
+<td>Nation crie de Little Red River
+
+</td>
+<td>Conseil de la Nation crie de Little Red River
+
+</td>
+<td>Réserves de la Nation crie de Little Red River
+
+</td>
+</tr>
+<tr>
+<td>Nation crie Peter Ballantyne
+
+</td>
+<td>Conseil de la Nation crie Peter Ballantyne
+
+</td>
+<td>Réserves de la Nation crie Peter Ballantyne
+
+</td>
+</tr>
+<tr>
 <td>Nation Nisga’a, au sens de l’Accord définitif nisga’a tel que ce terme est défini dans la [Loi sur l’Accord définitif nisga’a](/fr/Lois/Lois%20du%20Canada/2000/ch.%207.md), L.C. 2000, ch. 7
 
 </td>
@@ -826,6 +848,17 @@ où :
 </td>
 </tr>
 <tr>
+<td>Première Nation de Duncan
+
+</td>
+<td>Conseil de la Première Nation de Duncan
+
+</td>
+<td>Réserves de la Première Nation de Duncan
+
+</td>
+</tr>
+<tr>
 <td>Première nation de Kluane
 
 </td>
@@ -844,6 +877,17 @@ où :
 
 </td>
 <td>Terres visées par le règlement, au sens de l’accord définitif de la première nation de Little Salmon/Carmacks, et appelées « terres désignées » dans la [Loi sur le règlement des revendications territoriales des premières nations du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2034.md), L.C. 1994, ch. 34
+
+</td>
+</tr>
+<tr>
+<td>Première Nation de Mosquito, Grizzly Bear’s Head, Lean Man
+
+</td>
+<td>Conseil de la Première Nation de Mosquito, Grizzly Bear’s Head, Lean Man
+
+</td>
+<td>Réserves de la Première Nation de Mosquito, Grizzly Bear’s Head, Lean Man
 
 </td>
 </tr>
@@ -888,6 +932,17 @@ où :
 
 </td>
 <td>Terres visées par le règlement, au sens de l’accord définitif de la première nation des Nacho Nyak Dun, et appelées « terres désignées » dans la [Loi sur le règlement des revendications territoriales des premières nations du Yukon](/fr/Lois/Lois%20du%20Canada/1994/ch.%2034.md), L.C. 1994, ch. 34
+
+</td>
+</tr>
+<tr>
+<td>Première Nation de Westbank
+
+</td>
+<td>Conseil de la Première Nation de Westbank
+
+</td>
+<td>Réserve de la Première Nation de Westbank
 
 </td>
 </tr>
@@ -1035,6 +1090,17 @@ où :
 </td>
 </tr>
 <tr>
+<td>White Bear
+
+</td>
+<td>Conseil de White Bear
+
+</td>
+<td>Toute réserve de White Bear non partagée avec une autre bande
+
+</td>
+</tr>
+<tr>
 <td>Whitecap Dakota First Nation
 
 </td>
@@ -1047,7 +1113,7 @@ où :
 </tr>
 </table>
 
-> 2003, ch. 15, s. 67 « ann. »; DORS/2004-281; 2005, ch. 19, art. 11; DORS/2005-363; DORS/2006-201, 294; DORS/2007-111; DORS/2007-185, art. 1 et 2; DORS/2008-103, 234, 235.
+> 2003, ch. 15, s. 67 « ann. »; DORS/2004-281; 2005, ch. 19, art. 11; DORS/2005-363; DORS/2006-201, 294; DORS/2007-111; DORS/2007-185, art. 1 et 2; DORS/2008-103, 234, 235; DORS/2009-281.
 
 
 
@@ -1075,6 +1141,234 @@ où :
 <td>Québec</td>
 </tr>
 <tr>
+<td>Kahkewistahaw</td>
+<td>Conseil de Kahkewistahaw</td>
+<td>Toute réserve de Kahkewistahaw non partagée avec une autre bande</td>
+<td>Saskatchewan</td>
+</tr>
+<tr>
+<td>Nation crie de Chemawawin</td>
+<td>Conseil de la Nation crie de Chemawawin</td>
+<td>Réserves de la Nation crie de Chemawawin</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Nation crie de Nisichawayasihk</td>
+<td>Conseil de la Nation crie de Nisichawayasihk</td>
+<td>Réserves de la Nation crie de Nisichawayasihk</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Nation crie de Sapotaweyak</td>
+<td>Conseil de la Nation crie de Sapotaweyak</td>
+<td>Toute réserve de la Nation crie de Sapotaweyak non partagée avec une autre bande</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Nation crie de Tataskweyak</td>
+<td>Conseil de la Nation crie de Tataskweyak</td>
+<td>Réserves de la Nation crie de Tataskweyak</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Nation crie Peter Ballantyne</td>
+<td>Conseil de la Nation crie Peter Ballantyne</td>
+<td>Réserves de la Nation crie Peter Ballantyne</td>
+<td>Saskatchewan</td>
+</tr>
+<tr>
+<td>Nation dakota de Sioux Valley</td>
+<td>Conseil de la Nation dakota de Sioux Valley</td>
+<td>Toute réserve de la Nation dakota de Sioux Valley non partagée avec une autre bande</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Première Nation anishinabe de Roseau River</td>
+<td>Conseil de la Première Nation anishinabe de Roseau River</td>
+<td>Réserves de la Première Nation anishinabe de Roseau River</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Première Nation de Barren Lands</td>
+<td>Conseil de la Première Nation de Barren Lands</td>
+<td>Réserve de la Première Nation de Barren Lands</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Première Nation de Berens River</td>
+<td>Conseil de la Première Nation de Berens River</td>
+<td>Réserves de la Première Nation de Berens River</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Première Nation de Cross Lake</td>
+<td>Conseil de la Première Nation de Cross Lake</td>
+<td>Réserves de la Première Nation de Cross Lake</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Première Nation de Fisher River</td>
+<td>Conseil de la Première Nation de Fisher River</td>
+<td>Réserves de la Première Nation de Fisher River</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Première Nation de Garden Hill</td>
+<td>Conseil de la Première Nation de Garden Hill</td>
+<td>Réserves de la Première Nation de Garden Hill</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Première Nation de God’s Lake</td>
+<td>Conseil de la Première Nation de God’s Lake</td>
+<td>Réserves de la Première Nation de God’s Lake</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Première Nation de Grand Rapids</td>
+<td>Conseil de la Première Nation de Grand Rapids</td>
+<td>Réserve de la Première Nation de Grand Rapids</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Première Nation de Hollow Water</td>
+<td>Conseil de la Première Nation de Hollow Water</td>
+<td>Réserve de la Première Nation de Hollow Water</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Première Nation de Lake Manitoba</td>
+<td>Conseil de la Première Nation de Lake Manitoba</td>
+<td>Réserve de la Première Nation de Lake Manitoba</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Première Nation de Little Black River</td>
+<td>Conseil de la Première Nation de Little Black River</td>
+<td>Réserve de la Première Nation de Little Black River</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Première Nation de Little Grand Rapids</td>
+<td>Conseil de la Première Nation de Little Grand Rapids</td>
+<td>Réserve de la Première Nation de Little Grand Rapids</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Première Nation de Little Saskatchewan</td>
+<td>Conseil de la Première Nation de Little Saskatchewan</td>
+<td>Réserves de la Première Nation de Little Saskatchewan</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Première Nation de Long Plain</td>
+<td>Conseil de la Première Nation de Long Plain</td>
+<td>Réserve de la Première Nation de Long Plain</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Première Nation de Mosquito, Grizzly Bear’s Head, Lean Man</td>
+<td>Conseil de la Première Nation de Mosquito, Grizzly Bear’s Head, Lean Man</td>
+<td>Réserves de la Première Nation de Mosquito, Grizzly Bear’s Head, Lean Man</td>
+<td>Saskatchewan</td>
+</tr>
+<tr>
+<td>Première Nation dénée de Northlands</td>
+<td>Conseil de la Première Nation dénée de Northlands</td>
+<td>Réserve de la Première Nation dénée de Northlands</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Première Nation de Pauingassi</td>
+<td>Conseil de la Première Nation de Pauingassi</td>
+<td>Réserve de la Première Nation de Pauingassi</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Première Nation de Poplar River</td>
+<td>Conseil de la Première Nation de Poplar River</td>
+<td>Réserve de la Première Nation de Poplar River</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Première Nation de Red Sucker Lake</td>
+<td>Conseil de la Première Nation de Red Sucker Lake</td>
+<td>Réserves de la Première Nation de Red Sucker Lake</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Première Nation de Rolling River</td>
+<td>Conseil de la Première Nation de Rolling River</td>
+<td>Toute réserve de la Première Nation de Rolling River non partagée avec une autre bande</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Première Nation de Sandy Bay</td>
+<td>Conseil de la Première Nation de Sandy Bay</td>
+<td>Réserve de la Première Nation de Sandy Bay</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Première Nation de Skownan</td>
+<td>Conseil de la Première Nation de Skownan</td>
+<td>Réserve de la Première Nation de Skownan</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Première Nation des Sioux de Birdtail</td>
+<td>Conseil de la Première Nation des Sioux de Birdtail</td>
+<td>Toute réserve de la Première Nation des Sioux de Birdtail non partagée avec une autre bande</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Première Nation de St. Theresa Point</td>
+<td>Conseil de la Première Nation de St. Theresa Point</td>
+<td>Réserves de la Première Nation de St. Theresa Point</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Première Nation de Swan Lake</td>
+<td>Conseil de la Première Nation de Swan Lake</td>
+<td>Réserves de la Première Nation de Swan Lake</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Première Nation de Wasagamack</td>
+<td>Conseil de la Première Nation de Wasagamack</td>
+<td>Réserves de la Première Nation de Wasagamack</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Première Nation de Waywayseecappo Treaty Four - 1874</td>
+<td>Conseil de la Première Nation de Waywayseecappo Treaty Four - 1874</td>
+<td>Toute réserve de la Première Nation de Waywayseecappo Treaty Four - 1874 non partagée avec une autre bande</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Première Nation de Wuskwi Sipihk</td>
+<td>Conseil de la Première Nation de Wuskwi Sipihk</td>
+<td>Toute réserve de la Première Nation de Wuskwi Sipihk non partagée avec une autre bande</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Première Nation d’O-Chi-Chak-Ko-Sipi</td>
+<td>Conseil de la Première Nation d’O-Chi-Chak-Ko-Sipi</td>
+<td>Réserve de la Première Nation d’O-Chi-Chak-Ko-Sipi</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Première Nation Mathias Colomb</td>
+<td>Conseil de la Première Nation Mathias Colomb</td>
+<td>Réserves de la Première Nation Mathias Colomb</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>White Bear</td>
+<td>Conseil de White Bear</td>
+<td>Toute réserve de White Bear non partagée avec une autre bande</td>
+<td>Saskatchewan</td>
+</tr>
+<tr>
 <td>Whitecap Dakota First Nation</td>
 <td>Council of the Whitecap Dakota First Nation</td>
 <td>Réserve de Whitecap Dakota First Nation</td>
@@ -1082,6 +1376,6 @@ où :
 </tr>
 </table>
 
-> 2005, ch. 19, art. 12; 2006, ch. 4, art. 97; DORS/2007-185, art. 3 et 4.
+> 2005, ch. 19, art. 12; 2006, ch. 4, art. 97; DORS/2007-185, art. 3 et 4; DORS/2009-282, 283.
 
 
