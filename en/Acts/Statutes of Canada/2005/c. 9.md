@@ -2493,6 +2493,9 @@ Aitchelitz First Nation
 Alexander First Nation
 
 
+Beaver Lake Cree Nation
+
+
 Chawathil First Nation
 
 
@@ -2511,7 +2514,13 @@ Chippewas of Kettle and Stony Point First Nation
 Elsipogtog First Nation
 
 
+Gitsegukla First Nation
+
+
 Indian Island First Nation
+
+
+Kahkewistahaw First Nation
 
 
 Kamloops Indian Band
@@ -2634,6 +2643,6 @@ White Bear First Nation
 Yakweakwioose First Nation
 
 
-> 2005, c. 9, Sch.; SOR/2007-276, s. 1; SOR/2008-264; SOR/2009-25.
+> 2005, c. 9, Sch.; SOR/2007-276, s. 1; SOR/2008-264; SOR/2009-25, 284.
 
 
