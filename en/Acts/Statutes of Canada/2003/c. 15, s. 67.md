@@ -728,6 +728,17 @@ where
 </td>
 </tr>
 <tr>
+<td>Duncan’s First Nation
+
+</td>
+<td>Council of the Duncan’s First Nation
+
+</td>
+<td>Reserves of the Duncan’s First Nation
+
+</td>
+</tr>
+<tr>
 <td>Enoch Cree Nation #440
 
 </td>
@@ -816,6 +827,17 @@ where
 </td>
 </tr>
 <tr>
+<td>Little Red River Cree Nation
+
+</td>
+<td>Council of the Little Red River Cree Nation
+
+</td>
+<td>Reserves of the Little Red River Cree Nation
+
+</td>
+</tr>
+<tr>
 <td>Little Salmon/Carmacks First Nation
 
 </td>
@@ -838,6 +860,17 @@ where
 </td>
 </tr>
 <tr>
+<td>Mosquito, Grizzly Bear’s Head, Lean Man First Nation
+
+</td>
+<td>Council of the Mosquito, Grizzly Bear’s Head, Lean Man First Nation
+
+</td>
+<td>Reserves of the Mosquito, Grizzly Bear’s Head, Lean Man First Nation
+
+</td>
+</tr>
+<tr>
 <td>Muskeg Lake
 
 </td>
@@ -856,6 +889,17 @@ where
 
 </td>
 <td>Nisga’a Lands, within the meaning assigned by the Nisga’a Final Agreement, as defined in the [Nisga’a Final Agreement Act](/en/Acts/Statutes%20of%20Canada/2000/c.%207.md), S.C. 2000, c. 7
+
+</td>
+</tr>
+<tr>
+<td>Peter Ballantyne Cree Nation
+
+</td>
+<td>Council of the Peter Ballantyne Cree Nation
+
+</td>
+<td>Reserves of the Peter Ballantyne Cree Nation
 
 </td>
 </tr>
@@ -1025,6 +1069,17 @@ where
 </td>
 </tr>
 <tr>
+<td>Westbank First Nation
+
+</td>
+<td>Council of the Westbank First Nation
+
+</td>
+<td>Reserve of the Westbank First Nation
+
+</td>
+</tr>
+<tr>
 <td>West Moberly First Nations
 
 </td>
@@ -1032,6 +1087,17 @@ where
 
 </td>
 <td>Reserve of the West Moberly First Nations
+
+</td>
+</tr>
+<tr>
+<td>White Bear
+
+</td>
+<td>Council of White Bear
+
+</td>
+<td>Each reserve of White Bear that is not shared with another band
 
 </td>
 </tr>
@@ -1048,7 +1114,7 @@ where
 </tr>
 </table>
 
-> 2003, c. 15, s. 67 “Sch.”; SOR/2004-281; 2005, c. 19, s. 11; SOR/2005-363; SOR/2006-201, 294; SOR/2007-111; SOR/2007-185, ss. 1, 2; SOR/2008-103, 234, 235.
+> 2003, c. 15, s. 67 “Sch.”; SOR/2004-281; 2005, c. 19, s. 11; SOR/2005-363; SOR/2006-201, 294; SOR/2007-111; SOR/2007-185, ss. 1, 2; SOR/2008-103, 234, 235; SOR/2009-281.
 
 
 
@@ -1070,10 +1136,232 @@ where
 <th>Specified Province</th>
 </tr>
 <tr>
+<td>Barren Lands First Nation</td>
+<td>Council of the Barren Lands First Nation</td>
+<td>Reserve of the Barren Lands First Nation</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Berens River First Nation</td>
+<td>Council of the Berens River First Nation</td>
+<td>Reserves of the Berens River First Nation</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Birdtail Sioux First Nation</td>
+<td>Council of the Birdtail Sioux First Nation</td>
+<td>Each reserve of  the Birdtail Sioux First Nation that is not shared with another band</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Chemawawin Cree Nation</td>
+<td>Council of the Chemawawin Cree Nation  </td>
+<td>Reserves of the Chemawawin Cree Nation</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Cross Lake First Nation</td>
+<td>Council of the Cross Lake First Nation</td>
+<td>Reserves of the Cross Lake First Nation</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Fisher River First Nation</td>
+<td>Council of the Fisher River First Nation</td>
+<td>Reserves of the Fisher River First Nation</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Garden Hill First Nation</td>
+<td>Council of the Garden Hill First Nation</td>
+<td>Reserves of the Garden Hill First Nation</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>God’s Lake First Nation</td>
+<td>Council of the God’s Lake First Nation</td>
+<td>Reserves of the God’s Lake First Nation</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Grand Rapids First Nation</td>
+<td>Council of the Grand Rapids First Nation</td>
+<td>Reserve of the Grand Rapids First Nation</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Hollow Water First Nation</td>
+<td>Council of the Hollow Water First Nation</td>
+<td>Reserve of the Hollow Water First Nation</td>
+<td>Manitoba</td>
+</tr>
+<tr>
 <td>Innue Essipit</td>
 <td>Conseil de la Première Nation des Innus Essipit</td>
 <td>Innue Essipit Reserve</td>
 <td>Quebec</td>
+</tr>
+<tr>
+<td>Kahkewistahaw</td>
+<td>Council of Kahkewistahaw</td>
+<td>Each reserve of Kahkewistahaw that is not shared with another band</td>
+<td>Saskatchewan</td>
+</tr>
+<tr>
+<td>Lake Manitoba First Nation</td>
+<td>Council of the Lake Manitoba First Nation</td>
+<td>Reserve of the Lake Manitoba First Nation</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Little Black River First Nation</td>
+<td>Council of the Little Black River First Nation</td>
+<td>Reserve of the Little Black River First Nation</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Little Grand Rapids First Nation</td>
+<td>Council of the Little Grand Rapids First Nation</td>
+<td>Reserve of the Little Grand Rapids First Nation</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Little Saskatchewan First Nation</td>
+<td>Council of the Little Saskatchewan First Nation</td>
+<td>Reserves of the Little Saskatchewan First Nation</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Long Plain First Nation</td>
+<td>Council of the Long Plain First Nation</td>
+<td>Reserve of the Long Plain First Nation</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Mathias Colomb First Nation</td>
+<td>Council of the Mathias Colomb First Nation</td>
+<td>Reserves of the Mathias Colomb First Nation</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Mosquito, Grizzly Bear’s Head, Lean Man First Nation</td>
+<td>Council of the Mosquito, Grizzly Bear’s Head, Lean Man First Nation</td>
+<td>Reserves of the Mosquito, Grizzly Bear’s Head, Lean Man First Nation</td>
+<td>Saskatchewan</td>
+</tr>
+<tr>
+<td>Nisichawayasihk Cree Nation</td>
+<td>Council of the Nisichawayasihk Cree Nation</td>
+<td>Reserves of the Nisichawayasihk Cree Nation</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Northlands Dene First Nation</td>
+<td>Council of the Northlands Dene First Nation</td>
+<td>Reserve of the Northlands Dene First Nation</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>O-Chi-Chak-Ko-Sipi First Nation</td>
+<td>Council of the O-Chi-Chak-Ko-Sipi First Nation</td>
+<td>Reserve of the O-Chi-Chak-Ko-Sipi First Nation</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Pauingassi First Nation</td>
+<td>Council of the Pauingassi First Nation</td>
+<td>Reserve of the Pauingassi First Nation</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Peter Ballantyne Cree Nation</td>
+<td>Council of the Peter Ballantyne Cree Nation</td>
+<td>Reserves of the Peter Ballantyne Cree Nation</td>
+<td>Saskatchewan</td>
+</tr>
+<tr>
+<td>Poplar River First Nation</td>
+<td>Council of the Poplar River First Nation</td>
+<td>Reserve of the Poplar River First Nation</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Red Sucker Lake First Nation</td>
+<td>Council of the Red Sucker Lake First Nation</td>
+<td>Reserves of the Red Sucker Lake First Nation</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Rolling River First Nation</td>
+<td>Council of the Rolling River First Nation</td>
+<td>Each reserve of  the Rolling River First Nation that is not shared with another band</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Roseau River Anishinabe First Nation</td>
+<td>Council of the Roseau River Anishinabe First Nation</td>
+<td>Reserves of the Roseau River Anishinabe First Nation</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Sandy Bay First Nation</td>
+<td>Council of the Sandy Bay First Nation</td>
+<td>Reserve of the Sandy Bay First Nation</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Sapotaweyak Cree Nation</td>
+<td>Council of the Sapotaweyak Cree Nation</td>
+<td>Each reserve of  the Sapotaweyak Cree Nation that is not shared with another band</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Sioux Valley Dakota Nation</td>
+<td>Council of the Sioux Valley Dakota Nation</td>
+<td>Each reserve of  the Sioux Valley Dakota Nation that is not shared with another band</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Skownan First Nation</td>
+<td>Council of the Skownan First Nation</td>
+<td>Reserve of the Skownan First Nation</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>St. Theresa Point First Nation </td>
+<td>Council of the St. Theresa Point First Nation </td>
+<td>Reserves of the St. Theresa Point First Nation </td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Swan Lake First Nation</td>
+<td>Council of the Swan Lake First Nation</td>
+<td>Reserves of the Swan Lake First Nation</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Tataskweyak Cree Nation</td>
+<td>Council of the Tataskweyak Cree Nation</td>
+<td>Reserves of the Tataskweyak Cree Nation</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Wasagamack First Nation</td>
+<td>Council of the Wasagamack First Nation</td>
+<td>Reserves of the Wasagamack First Nation</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>Waywayseecappo First Nation Treaty Four - 1874</td>
+<td>Council of the Waywayseecappo First Nation Treaty Four - 1874</td>
+<td>Each reserve of  the Waywayseecappo First Nation Treaty Four - 1874 that is not shared with another band</td>
+<td>Manitoba</td>
+</tr>
+<tr>
+<td>White Bear</td>
+<td>Council of White Bear</td>
+<td>Each reserve of White Bear that is not shared with another band</td>
+<td>Saskatchewan</td>
 </tr>
 <tr>
 <td>Whitecap Dakota First Nation</td>
@@ -1081,8 +1369,14 @@ where
 <td>Reserve of the Whitecap Dakota First Nation</td>
 <td>Saskatchewan</td>
 </tr>
+<tr>
+<td>Wuskwi Sipihk First Nation</td>
+<td>Council of the Wuskwi Sipihk First Nation</td>
+<td>Each reserve of  the Wuskwi Sipihk First Nation that is not shared with another band</td>
+<td>Manitoba</td>
+</tr>
 </table>
 
-> 2005, c. 19, s. 12; 2006, c. 4, s. 97; SOR/2007-185, ss. 3, 4.
+> 2005, c. 19, s. 12; 2006, c. 4, s. 97; SOR/2007-185, ss. 3, 4; SOR/2009-282, 283.
 
 
