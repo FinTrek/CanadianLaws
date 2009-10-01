@@ -2488,6 +2488,9 @@ Première nation ?Akisq’nuk
 Première nation Alexander
 
 
+Nation crie Beaver Lake
+
+
 Première nation Chawathil
 
 
@@ -2506,7 +2509,13 @@ Première nation Chippewas de Kettle et Stony Point
 Première nation Elsipogtog
 
 
+Première nation Gitsegukla
+
+
 Première nation Indian Island
+
+
+Première nation Kahkewistahaw
 
 
 Bande indienne Kamloops
@@ -2629,6 +2638,6 @@ Première nation White Bear
 Première nation Yakweakwioose
 
 
-> 2005, ch. 9, ann.; DORS/2007-276, art. 1; DORS/2008-264; DORS/2009-25.
+> 2005, ch. 9, ann.; DORS/2007-276, art. 1; DORS/2008-264; DORS/2009-25, 284.
 
 
