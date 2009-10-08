@@ -110,21 +110,33 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Fabricant — renseignements**
 
-**6** Le fabricant est tenu de transmettre au ministre, dans les délais et selon les modalités réglementaires, les renseignements exigés par les règlements en ce qui touche le produit et ses émissions.
+**6** 
+
+- **(1)** Le fabricant est tenu de transmettre au ministre, dans les délais et selon les modalités réglementaires, les renseignements exigés par les règlements en ce qui touche les produits du tabac, en vente ou non, leurs émissions et la recherche et le développement liés à ces produits et à ces émissions.
+
+**Demandes de renseignements supplémentaires**
+
+- **(2)** Le ministre peut, sous réserve des règlements, demander des renseignements supplémentaires portant sur les mêmes sujets. Le fabricant est tenu de les lui transmettre.
+> 1997, ch. 13, art. 6; 2009, ch. 27, art. 6.
+
 
 
 
 
 **Règlements**
 
-**7** Le gouverneur en conseil peut, par règlement :
-- **a)** établir des normes applicables aux produits du tabac, notamment :
-	- **(i)** pour régir les quantités des substances que peuvent contenir les produits et leurs émissions,
-	- **(ii)** pour désigner les substances qui ne peuvent être ajoutées aux produits;
-- **b)** prévoir des méthodes d’essai, notamment en ce qui touche la conformité des produits du tabac aux normes;
-- **c)** prévoir les renseignements que le fabricant doit transmettre au ministre relativement aux produits du tabac et à leurs émissions, notamment des données sur la vente et des renseignements sur la composition, les ingrédients, les propriétés dangereuses et les éléments de marque de ces produits;
-- **d)** prévoir les modalités de transmission des renseignements visés à l’alinéa c), notamment sous forme électronique;
-- **e)** prendre, de façon générale, les mesures nécessaires à l’application de la présente partie.
+**7** Le gouverneur en conseil peut prendre des règlements :
+- **a)** établissant des normes applicables aux produits du tabac, notamment pour régir les quantités des substances que peuvent contenir les produits et leurs émissions;
+- **b)** concernant les méthodes d’essai, notamment en ce qui touche la conformité des produits du tabac aux normes;
+- **c)** prévoyant les renseignements que le fabricant doit transmettre au ministre relativement aux produits du tabac et à leurs émissions, notamment des données sur la vente et des renseignements sur les études de marché et sur la composition, les ingrédients, les effets sur la santé, les propriétés dangereuses et les éléments de marque de ces produits;
+- **c.1)** prévoyant les renseignements que le fabricant doit transmettre au ministre relativement à la recherche et au développement liés aux produits du tabac et à leurs émissions, notamment des renseignements sur les études de marché et sur la composition, les ingrédients, les effets sur la santé, les propriétés dangereuses et les éléments de marque de ces produits;
+- **c.2)** concernant les demandes de renseignements supplémentaires visées au paragraphe 6(2);
+- **c.3)** concernant l’interdiction prévue à l’article 6.1, notamment en ce qui concerne la suspension de la fabrication et de la vente du produit du tabac en cause;
+- **d)** prévoyant les modalités de transmission des renseignements visés aux alinéas c) à c.2), notamment sous forme électronique;
+- **d.1)** prévoyant toute autre mesure réglementaire prévue par la présente partie;
+- **e)** prévoyant toute autre mesure nécessaire à l’application de la présente partie.
+> 1997, ch. 13, art. 7; 2009, ch. 27, art. 8.
+
 
 
 
@@ -309,9 +321,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Exception**
 
-- **(2)** Il est possible, sous réserve des règlements, de faire la publicité — publicité informative ou préférentielle — d’un produit du tabac :
+- **(2)** Il est possible, sous réserve des règlements, de faire la publicité — publicité informative ou préférentielle — d’un produit du tabac :
 	- **a)** dans les publications qui sont expédiées par le courrier et qui sont adressées à un adulte désigné par son nom;
-	- **b)** dans les publications dont au moins quatre-vingt-cinq pour cent des lecteurs sont des adultes;
+	- **b)** [Abrogé, 2009, ch. 27, art. 11]
 	- **c)** sur des affiches placées dans des endroits dont l’accès est interdit aux jeunes par la loi.
 
 **Publicité de style de vie**
@@ -324,11 +336,13 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 ***publicité de style de vie*** Publicité qui associe un produit avec une façon de vivre, tels le prestige, les loisirs, l’enthousiasme, la vitalité, le risque ou l’audace ou qui évoque une émotion ou une image, positive ou négative, au sujet d’une telle façon de vivre.
 
-***publicité informative*** Publicité qui donne au consommateur des renseignements factuels et qui porte :
+***publicité informative*** Publicité qui donne au consommateur des renseignements factuels et qui porte :
 - **a)** sur un produit ou ses caractéristiques;
 - **b)** sur la possibilité de se procurer un produit ou une marque d’un produit ou sur le prix du produit ou de la marque.
 
 ***publicité préférentielle*** Publicité qui fait la promotion d’un produit du tabac en se fondant sur les caractéristiques de sa marque.
+> 1997, ch. 13, art. 22; 2009, ch. 27, art. 11.
+
 
 
 
@@ -366,7 +380,9 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Promotion**
 
-- **(2)** Il est interdit de faire la promotion d’accessoires sur lesquels figure un élément de marque d’un produit du tabac sauf selon les modalités réglementaires et dans les publications ou les endroits mentionnés aux alinéas 22(2)a) à c).
+- **(2)** Il est interdit de faire la promotion d’accessoires sur lesquels figure un élément de marque d’un produit du tabac sauf selon les modalités réglementaires et dans les publications ou les endroits mentionnés aux alinéas 22(2)a) et c).
+> 1997, ch. 13, art. 26; 2009, ch. 27, art. 13.
+
 
 
 
@@ -677,7 +693,9 @@ L’avis de l’inspecteur doit être fondé sur des motifs raisonnables.
 
 **Infractions — procédure sommaire**
 
-**44** Quiconque contrevient à l’article 6, aux paragraphes 10(1) ou (2), 26(1) ou (2) ou 31(1) ou (3), à l’article 32 ou aux paragraphes 38(1) ou (2) commet une infraction et est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 50 000 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines.
+**44** Quiconque contrevient aux paragraphes 6(1) ou (2), 10(1) ou (2), 26(1) ou (2) ou 31(1) ou (3), à l’article 32 ou aux paragraphes 38(1) ou (2) commet une infraction et est passible, sur déclaration de culpabilité par procédure sommaire, d’une amende maximale de 50 000 $ et d’un emprisonnement maximal de six mois, ou de l’une de ces peines.
+> 1997, ch. 13, art. 44; 2009, ch. 27, art. 15.
+
 
 
 
