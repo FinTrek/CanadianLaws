@@ -7,6 +7,8 @@
 Autorités habilitantes : 
 - LOI DES SUBSIDES NO 1, 1961
 
+- LOI DES SUBSIDES NO 5, 1961
+
 - [LOIS DE CRÉDITS](/fr/Lois/Lois%20révisées%20du%20Canada/Z/Z-01.md)
 
 ----------
