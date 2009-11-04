@@ -7,6 +7,8 @@
 Enabling authorities: 
 - APPROPRIATION ACT NO. 1, 1961
 
+- APPROPRIATION ACT NO. 5, 1961
+
 - [APPROPRIATION ACTS](/en/Acts/Revised%20Statutes%20of%20Canada/Z/Z-01.md)
 
 ----------
