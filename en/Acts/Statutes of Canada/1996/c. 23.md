@@ -648,7 +648,13 @@ Version anglaise seulement***prescribed*** means prescribed by the regulations o
 
 **Length of benefit period**
 
-- **(2)** The length of a benefit period is 52 weeks, except as otherwise provided in subsections (10) to (15) and section 24.
+- **(2)** Except as otherwise provided in subsections (10) to (15) and section 24, the length of a benefit period is 52 weeks, unless
+	- **(a)** the number of weeks of benefits set out in the table in Schedule I that applies in respect of a claimant is increased as a result of the application of any of subsections 12(2.1) to (2.4), in which case
+		- **(i)** in respect of a benefit period established for the claimant on or after January 4, 2009 that has not ended on the day on which this subsection is deemed to have come into force, the length of the claimant’s benefit period is increased by the number of weeks by which the number of weeks of benefits set out in the table in Schedule I that applies in respect of the claimant is increased as a result of the application of any of subsections 12(2.1) to (2.4), and
+		- **(ii)** in respect of a benefit period established for the claimant during the period that begins on the day on which this subsection is deemed to have come into force and ends on September 11, 2010, if the maximum number of weeks during which benefits may be paid to the claimant under subsection 12(2) is equal to or greater than 51 weeks as a result of the application of any of subsections 12(2.1) to (2.4), the length of the claimant’s benefit period is that maximum number of weeks increased by two weeks; or
+	- **(b)** the number of weeks of benefits set out in Schedule 10 to the [Budget Implementation Act, 2009](/en/Acts/Statutes%20of%20Canada/2009/c.%202.md) that applies in respect of a claimant is increased as a result of the application of any of sections 3 to 6 of An Act to amend the Employment Insurance Act and to increase benefits, introduced in the second session of the fortieth Parliament as Bill C-50, in which case
+		- **(i)** in respect of a benefit period established for the claimant on or after January 4, 2009 that has not ended on the day on which this subsection is deemed to have come into force, the length of the claimant’s benefit period is increased by the number of weeks by which the number of weeks of benefits set out in that Schedule 10 that applies in respect of the claimant is increased as a result of the application of any of those sections 3 to 6, and
+		- **(ii)** in respect of a benefit period established for the claimant during the period that begins on the day on which this subsection is deemed to have come into force and ends on September 11, 2010, if the maximum number of weeks during which benefits may be paid to the claimant under that Schedule 10 is equal to or greater than 51 weeks as a result of the application of any of those sections 3 to 6, the length of the claimant’s benefit period is that maximum number of weeks increased by two weeks.
 
 **Prior benefit period**
 
@@ -754,7 +760,7 @@ the benefit period is extended so that benefits may be paid up to the maximum nu
 	- **(a)** no extension under subsection (13) may result in a benefit period of more than 67 weeks;
 	- **(b)** no extension under subsection (13.1) or (13.2) may result in a benefit period of more than 58 weeks; and
 	- **(c)** no extension under subsection (13.3) may result in a benefit period of more than 73 weeks.
-> 1996, c. 23, s. 10; 2002, c. 9, s. 12; 2003, c. 15, s. 16.
+> 1996, c. 23, s. 10; 2002, c. 9, s. 12; 2003, c. 15, s. 16; 2009, c. 30, s. 1.
 
 
 
@@ -798,7 +804,40 @@ the benefit period is extended so that benefits may be paid up to the maximum nu
 
 **General maximum**
 
-- **(2)** The maximum number of weeks for which benefits may be paid in a benefit period because of a reason other than those mentioned in subsection (3) shall be determined in accordance with the table in Schedule I by reference to the regional rate of unemployment that applies to the claimant and the number of hours of insurable employment of the claimant in their qualifying period.
+- **(2)** Subject to subsections (2.1) to (2.4), the maximum number of weeks for which benefits may be paid in a benefit period because of a reason other than those mentioned in subsection (3) shall be determined in accordance with the table in Schedule I by reference to the regional rate of unemployment that applies to the claimant and the number of hours of insurable employment of the claimant in their qualifying period.
+
+**Higher number of weeks — certain claimants**
+
+- **(2.1)** If a claimant was paid less than 36 weeks of regular benefits in the 260 weeks before the beginning of the claimant’s benefit period and that benefit period was established during the period that begins on January 4, 2009 and ends on June 5, 2010, the number of weeks of benefits set out in the table in Schedule I that applies in respect of the claimant is deemed to be the number of weeks that would otherwise apply in respect of the claimant but for this subsection increased by
+	- **(a)** 5 weeks, if the claimant contributed at least 30% of the maximum annual employee’s premium in 7 of the 10 years before the beginning of the claimant’s benefit period;
+	- **(b)** 8 weeks, if the claimant contributed at least 30% of the maximum annual employee’s premium in 8 of the 11 years before the beginning of the claimant’s benefit period;
+	- **(c)** 11 weeks, if the claimant contributed at least 30% of the maximum annual employee’s premium in 9 of the 12 years before the beginning of the claimant’s benefit period;
+	- **(d)** 14 weeks, if the claimant contributed at least 30% of the maximum annual employee’s premium in 10 of the 13 years before the beginning of the claimant’s benefit period;
+	- **(e)** 17 weeks, if the claimant contributed at least 30% of the maximum annual employee’s premium in 11 of the 14 years before the beginning of the claimant’s benefit period; or
+	- **(f)** 20 weeks, if the claimant contributed at least 30% of the maximum annual employee’s premium in at least 12 of the 15 years before the beginning of the claimant’s benefit period.
+
+**Higher number of weeks — certain claimants**
+
+- **(2.2)** If a claimant was paid less than 36 weeks of regular benefits in the 260 weeks before the beginning of the claimant’s benefit period and that benefit period was established during the period that begins on June 6, 2010 and ends on July 10, 2010, the number of weeks of benefits set out in the table in Schedule I that applies in respect of the claimant is deemed to be the number of weeks that would otherwise apply in respect of the claimant but for this subsection increased by
+	- **(a)** 3 weeks, if the claimant contributed at least 30% of the maximum annual employee’s premium in 8 of the 11 years before the beginning of the claimant’s benefit period;
+	- **(b)** 6 weeks, if the claimant contributed at least 30% of the maximum annual employee’s premium in 9 of the 12 years before the beginning of the claimant’s benefit period;
+	- **(c)** 9 weeks, if the claimant contributed at least 30% of the maximum annual employee’s premium in 10 of the 13 years before the beginning of the claimant’s benefit period;
+	- **(d)** 12 weeks, if the claimant contributed at least 30% of the maximum annual employee’s premium in 11 of the 14 years before the beginning of the claimant’s benefit period; or
+	- **(e)** 15 weeks, if the claimant contributed at least 30% of the maximum annual employee’s premium in at least 12 of the 15 years before the beginning of the claimant’s benefit period.
+
+**Higher number of weeks — certain claimants**
+
+- **(2.3)** If a claimant was paid less than 36 weeks of regular benefits in the 260 weeks before the beginning of the claimant’s benefit period and that benefit period was established during the period that begins on July 11, 2010 and ends on August 7, 2010, the number of weeks of benefits set out in the table in Schedule I that applies in respect of the claimant is deemed to be the number of weeks that would otherwise apply in respect of the claimant but for this subsection increased by
+	- **(a)** 1 week, if the claimant contributed at least 30% of the maximum annual employee’s premium in 9 of the 12 years before the beginning of the claimant’s benefit period;
+	- **(b)** 4 weeks, if the claimant contributed at least 30% of the maximum annual employee’s premium in 10 of the 13 years before the beginning of the claimant’s benefit period;
+	- **(c)** 7 weeks, if the claimant contributed at least 30% of the maximum annual employee’s premium in 11 of the 14 years before the beginning of the claimant’s benefit period; or
+	- **(d)** 10 weeks, if the claimant contributed at least 30% of the maximum annual employee’s premium in at least 12 of the 15 years before the beginning of the claimant’s benefit period.
+
+**Higher number of weeks — certain claimants**
+
+- **(2.4)** If a claimant was paid less than 36 weeks of regular benefits in the 260 weeks before the beginning of the claimant’s benefit period and that benefit period was established during the period that begins on August 8, 2010 and ends on September 11, 2010, the number of weeks of benefits set out in the table in Schedule I that applies in respect of the claimant is deemed to be the number of weeks that would otherwise apply in respect of the claimant but for this subsection increased by
+	- **(a)** 2 weeks, if the claimant contributed at least 30% of the maximum annual employee’s premium in 11 of the 14 years before the beginning of the claimant’s benefit period; or
+	- **(b)** 5 weeks, if the claimant contributed at least 30% of the maximum annual employee’s premium in at least 12 of the 15 years before the beginning of the claimant’s benefit period.
 
 **Maximum — special benefits**
 
@@ -835,14 +874,14 @@ the benefit period is extended so that benefits may be paid up to the maximum nu
 
 **Combined weeks of benefits**
 
-- **(6)** In a claimant’s benefit period, the claimant may, subject to the applicable maximums, combine weeks of benefits to which the claimant is entitled because of a reason mentioned in subsections (2) and (3), but the total number of weeks of benefits shall not exceed 50.
+- **(6)** In a claimant’s benefit period, the claimant may, subject to the applicable maximums, combine weeks of benefits to which the claimant is entitled because of a reason mentioned in subsections (2) and (3), but the total number of weeks of benefits shall not exceed 50 or, if the maximum number of weeks during which benefits may be paid to a claimant under subsection (2) is greater than 50 weeks as a result of the application of any of subsections (2.1) to (2.4), the number that corresponds to that maximum number of weeks.
 
 - **(7)** [Repealed, 2000, c. 14, s. 3]
 
 **Adoption**
 
 - **(8)** For the purposes of this section, the placement with a major attachment claimant, at the same or substantially the same time, of two or more children for the purpose of adoption is a single placement of a child or children for the purpose of adoption.
-> 1996, c. 23, s. 12; 2000, c. 14, s. 3; 2002, c. 9, s. 13; 2003, c. 15, s. 17.
+> 1996, c. 23, s. 12; 2000, c. 14, s. 3; 2002, c. 9, s. 13; 2003, c. 15, s. 17; 2009, c. 30, s. 2.
 
 
 
