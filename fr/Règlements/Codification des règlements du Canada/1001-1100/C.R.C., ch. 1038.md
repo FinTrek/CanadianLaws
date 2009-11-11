@@ -155,7 +155,7 @@ Le volume de carburant visé à l’alinéa b) ne comprend pas le volume de carb
 
 ***chariot dérouleur*** désigne un véhicule conçu pour être traîné par un autre véhicule et utilisé exclusivement pour le transport d’un tambour ou d’une bobine d’enroulement de câble; (*cable reel trailer*)
 
-***châssis-cabine***[Abrogée, DORS/2002-55, art. 1]
+***châssis-cabine*** Véhicule incomplet, autre qu’une remorque incomplète, ayant un habitacle complet qui nécessite seulement l’ajout d’une surface de chargement, d’un équipement de travail ou d’un élément porteur pour remplir ses fonctions caractéristiques. (*chassis-cab*)
 
 ***châssis tronqué*** Véhicule incomplet muni d’une cabine dont l’arrière est découpé exprès pour l’installation d’une structure permettant de passer du poste de conduite à l’arrière du véhicule. (*cutaway chassis*)
 
@@ -741,7 +741,7 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 ***95<sup>e</sup> percentile adulte du sexe masculin*** Personne ayant pour caractéristiques physiques une masse de 97,5 kg, une taille de 1 849 mm, une hauteur en position assise droite de 965 mm, une hauteur en position assise normale de 930 mm, une largeur de hanches en position assise de 419 mm, un tour de hanches en position assise de 1 199 mm, un tour de ceinture en position assise de 1 080 mm, une profondeur de poitrine de 267 mm, un tour de poitrine de 1 130 mm, une hauteur de genoux de 594 mm, une hauteur de jarret de 490 mm, une hauteur de coude en position assise de 295 mm, une épaisseur de cuisses de 175 mm, une distance fesse-genou de 640 mm, une distance fesse-jarret de 549 mm, un écart entre les coudes de 506 mm et une largeur de siège de 404 mm. (*95th percentile adult male*)
 
 - **(2)** Dans le cas d’une banquette unie ou divisée offrant plus de 1 270 mm au niveau des hanches, valeur mesurée conformément aux articles 6.1.34, 6.2.31 et 6.4.27 de la pratique recommandée J1100 de la SAE intitulée *Motor Vehicle Dimensions* (février 2001), dans une voiture de tourisme, un camion ou un véhicule de tourisme à usages multiples qui ont un PNBV inférieur à 4 536 kg, la banquette est censée comprendre au moins trois places assises désignées, à moins que la conception de la banquette ou du véhicule soit telle que l’espace central ne peut servir de place assise.
-> DORS/78-257, art. 1; DORS/78-351, art. 1; DORS/78-525, art. 1; DORS/79-306, art. 1; DORS/79-339, art. 1; DORS/79-340, art. 1; DORS/79-374, art. 1; DORS/79-677, art. 1; DORS/79-719, art. 1; DORS/79-940, art. 1; DORS/80-161, art. 1; DORS/80-282, art. 1; DORS/80-439, art. 1; DORS/80-440, art. 1; DORS/80-636, art. 1; DORS/80-638, art. 1; DORS/80-782, art. 1; DORS/81-88, art. 1; DORS/81-1033, art. 1; DORS/82-569, art. 1; DORS/82-656, art. 1; DORS/82-753, art. 1; DORS/82-754, art. 1; DORS/83-176, art. 1; DORS/83-859, art. 1; DORS/84-374, art. 1; DORS/84-812, art. 1; DORS/86-161, art. 1; DORS/86-683, art. 1; DORS/86-976, art. 1; DORS/86-977, art. 1; DORS/87-154, art. 1; DORS/87-497, art. 1; DORS/87-578, art. 1; DORS/87-660, art. 1; DORS/88-268, art. 1; DORS/89-384, art. 1; DORS/90-588, art. 1; DORS/90-805, art. 1; DORS/91-425, art. 1; DORS/91-692, art. 1; DORS/92-173, art. 1; DORS/92-250, art. 1; DORS/92-545, art. 1; DORS/93-5, art. 1; DORS/93-31, art. 1; DORS/93-146, art. 1; DORS/93-561, art. 1; DORS/94-291, art. 1; DORS/94-669, art. 1; DORS/94-670, art. 2(F); DORS/94-692, art. 2(F); DORS/94-717, art. 1; DORS/95-147, art. 1; DORS/95-164, art. 1; DORS/95-536, art. 7; DORS/96-366, art. 1; DORS/97-141, art. 1; DORS/97-200, art. 1; DORS/97-201, art. 1; DORS/97-421, art. 1, 17 et 22(F); DORS/97-447, art. 1; DORS/98-125, art. 1; DORS/98-160, art. 1; DORS/98-457, art. 1; DORS/98-524, art. 1(F); DORS/99-357, art. 1; DORS/2000-182, art. 1; DORS/2000-304, art. 1; DORS/2001-35, art. 1; DORS/2001-117, art. 1; DORS/2001-152, art. 1; DORS/2002-15, art. 25(F); DORS/2002-55, art. 1; DORS/2002-187, art. 1; DORS/2002-205, art. 1; DORS/2003-57, art. 3(F); DORS/2003-272, art. 1; DORS/2004-250, art. 1; DORS/2005-45, art. 1; DORS/2006-94, art. 4(A); DORS/2007-180, art. 1; DORS/2008-72, art. 1; DORS/2008-73, art. 1; DORS/2008-104, art. 1; DORS/2008-229, art. 1; DORS/2008-258, art. 1.
+> DORS/78-257, art. 1; DORS/78-351, art. 1; DORS/78-525, art. 1; DORS/79-306, art. 1; DORS/79-339, art. 1; DORS/79-340, art. 1; DORS/79-374, art. 1; DORS/79-677, art. 1; DORS/79-719, art. 1; DORS/79-940, art. 1; DORS/80-161, art. 1; DORS/80-282, art. 1; DORS/80-439, art. 1; DORS/80-440, art. 1; DORS/80-636, art. 1; DORS/80-638, art. 1; DORS/80-782, art. 1; DORS/81-88, art. 1; DORS/81-1033, art. 1; DORS/82-569, art. 1; DORS/82-656, art. 1; DORS/82-753, art. 1; DORS/82-754, art. 1; DORS/83-176, art. 1; DORS/83-859, art. 1; DORS/84-374, art. 1; DORS/84-812, art. 1; DORS/86-161, art. 1; DORS/86-683, art. 1; DORS/86-976, art. 1; DORS/86-977, art. 1; DORS/87-154, art. 1; DORS/87-497, art. 1; DORS/87-578, art. 1; DORS/87-660, art. 1; DORS/88-268, art. 1; DORS/89-384, art. 1; DORS/90-588, art. 1; DORS/90-805, art. 1; DORS/91-425, art. 1; DORS/91-692, art. 1; DORS/92-173, art. 1; DORS/92-250, art. 1; DORS/92-545, art. 1; DORS/93-5, art. 1; DORS/93-31, art. 1; DORS/93-146, art. 1; DORS/93-561, art. 1; DORS/94-291, art. 1; DORS/94-669, art. 1; DORS/94-670, art. 2(F); DORS/94-692, art. 2(F); DORS/94-717, art. 1; DORS/95-147, art. 1; DORS/95-164, art. 1; DORS/95-536, art. 7; DORS/96-366, art. 1; DORS/97-141, art. 1; DORS/97-200, art. 1; DORS/97-201, art. 1; DORS/97-421, art. 1, 17 et 22(F); DORS/97-447, art. 1; DORS/98-125, art. 1; DORS/98-160, art. 1; DORS/98-457, art. 1; DORS/98-524, art. 1(F); DORS/99-357, art. 1; DORS/2000-182, art. 1; DORS/2000-304, art. 1; DORS/2001-35, art. 1; DORS/2001-117, art. 1; DORS/2001-152, art. 1; DORS/2002-15, art. 25(F); DORS/2002-55, art. 1; DORS/2002-187, art. 1; DORS/2002-205, art. 1; DORS/2003-57, art. 3(F); DORS/2003-272, art. 1; DORS/2004-250, art. 1; DORS/2005-45, art. 1; DORS/2006-94, art. 4(A); DORS/2007-180, art. 1; DORS/2008-72, art. 1; DORS/2008-73, art. 1; DORS/2008-104, art. 1; DORS/2008-229, art. 1; DORS/2008-258, art. 1; DORS/2009-291, art. 1.
 
 
 
@@ -2252,7 +2252,7 @@ Fait à Ottawa, le _________________________ 20_________________________
 </tr>
 <tr>
 <td>216</td>
-<td>Résistance du pavillon à la pénétration</td>
+<td>Résistance du toit à l’écrasement</td>
 <td>X</td>
 <td>X</td>
 <td></td>
@@ -2314,6 +2314,7 @@ Fait à Ottawa, le _________________________ 20_________________________
 <td>220</td>
 <td>Protection contre les tonneaux</td>
 <td>X</td>
+<td>X</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2323,9 +2324,8 @@ Fait à Ottawa, le _________________________ 20_________________________
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>X</td>
+<td>X</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2736,7 +2736,7 @@ Fait à Ottawa, le _________________________ 20_________________________
 </tr>
 </table>
 
-> DORS/78-80, art. 1; DORS/78-910, art. 1(F); DORS/79-305, art. 1; DORS/79-306, art. 2; DORS/79-339, art. 2; DORS/79-340, art. 2; DORS/79-374, art. 2; DORS/79-677, art. 2; DORS/79-940, art. 5; DORS/80-160, art. 1; DORS/80-161, art. 2; DORS/80-282, art. 2; DORS/80-439, art. 2; DORS/80-639, art. 1(F); DORS/81-88, art. 2; DORS/81-665, art. 1; DORS/82-656, art. 2; DORS/82-753, art. 2; DORS/82-754, art. 2; DORS/83-138, art. 1; DORS/84-812, art. 2; DORS/86-682, art. 1; DORS/86-683, art. 2; DORS/86-975, art. 1; DORS/87-658, art. 1; DORS/87-660, art. 3; DORS/88-268, art. 4; DORS/89-384, art. 2(F) et 3 à 5; DORS/90-805, art. 4; DORS/91-425, art. 3; DORS/92-173, art. 5; DORS/92-250, art. 2(F); DORS/92-545, art. 2(F); DORS/93-31, art. 2; DORS/93-146, art. 3; DORS/93-561, art. 2; DORS/94-291, art. 2; DORS/94-669, art. 2; DORS/95-60, art. 1; DORS/95-147, art. 5 et 15(F); DORS/95-164, art. 2; DORS/96-89, art. 1; DORS/96-366, art. 4; DORS/96-437, art. 1; DORS/97-14, art. 1; DORS/97-141, art. 3; DORS/97-200, art. 2; DORS/97-201, art. 2; DORS/97-376, art. 4; DORS/97-421, art. 2; DORS/97-463, art. 1; DORS/97-532, art. 1 et 2; DORS/98-160, art. 2; DORS/98-457, art. 2; DORS/98-595, art. 1; DORS/99-357, art. 2; DORS/2000-182, art. 4; DORS/2000-304, art. 4; DORS/2001-35, art. 2 et 3; DORS/2001-353, art. 1; DORS/2001-486, art. 1; DORS/2002-55, art. 12; DORS/2002-205, art. 2; DORS/2003-272, art. 6; DORS/2003-359, art. 1 à 3; DORS/2004-195, art. 1; DORS/2005-45, art. 2; DORS/2006-94, art. 1; DORS/2007-180, art. 2 à 4; DORS/2007-246, art. 1; DORS/2008-73, art. 2; DORS/2008-104, art. 7(F) et 8(F); DORS/2008-229, art. 2; DORS/2008-258, art. 5 et 6; DORS/2009-33, art. 1(F); DORS/2009-121, art. 1.
+> DORS/78-80, art. 1; DORS/78-910, art. 1(F); DORS/79-305, art. 1; DORS/79-306, art. 2; DORS/79-339, art. 2; DORS/79-340, art. 2; DORS/79-374, art. 2; DORS/79-677, art. 2; DORS/79-940, art. 5; DORS/80-160, art. 1; DORS/80-161, art. 2; DORS/80-282, art. 2; DORS/80-439, art. 2; DORS/80-639, art. 1(F); DORS/81-88, art. 2; DORS/81-665, art. 1; DORS/82-656, art. 2; DORS/82-753, art. 2; DORS/82-754, art. 2; DORS/83-138, art. 1; DORS/84-812, art. 2; DORS/86-682, art. 1; DORS/86-683, art. 2; DORS/86-975, art. 1; DORS/87-658, art. 1; DORS/87-660, art. 3; DORS/88-268, art. 4; DORS/89-384, art. 2(F) et 3 à 5; DORS/90-805, art. 4; DORS/91-425, art. 3; DORS/92-173, art. 5; DORS/92-250, art. 2(F); DORS/92-545, art. 2(F); DORS/93-31, art. 2; DORS/93-146, art. 3; DORS/93-561, art. 2; DORS/94-291, art. 2; DORS/94-669, art. 2; DORS/95-60, art. 1; DORS/95-147, art. 5 et 15(F); DORS/95-164, art. 2; DORS/96-89, art. 1; DORS/96-366, art. 4; DORS/96-437, art. 1; DORS/97-14, art. 1; DORS/97-141, art. 3; DORS/97-200, art. 2; DORS/97-201, art. 2; DORS/97-376, art. 4; DORS/97-421, art. 2; DORS/97-463, art. 1; DORS/97-532, art. 1 et 2; DORS/98-160, art. 2; DORS/98-457, art. 2; DORS/98-595, art. 1; DORS/99-357, art. 2; DORS/2000-182, art. 4; DORS/2000-304, art. 4; DORS/2001-35, art. 2 et 3; DORS/2001-353, art. 1; DORS/2001-486, art. 1; DORS/2002-55, art. 12; DORS/2002-205, art. 2; DORS/2003-272, art. 6; DORS/2003-359, art. 1 à 3; DORS/2004-195, art. 1; DORS/2005-45, art. 2; DORS/2006-94, art. 1; DORS/2007-180, art. 2 à 4; DORS/2007-246, art. 1; DORS/2008-73, art. 2; DORS/2008-104, art. 7(F) et 8(F); DORS/2008-229, art. 2; DORS/2008-258, art. 5 et 6; DORS/2009-33, art. 1(F); DORS/2009-121, art. 1; DORS/2009-291, art. 2 et 3.
 
 
 
@@ -3581,7 +3581,7 @@ choix du fabricant
 - 
 #### TABLEAU I
 <table>
-<h4>Voitures de tourisme et véhicules à trois roues d’une largeur hors tout de moins de 1 520 mm</h4>
+<h4>Voitures de tourisme et véhicules à trois roues d’une largeur hors tout de moins de 1 520 mm</h4>
 <tr>
 <th>Colonne I</th>
 <th>Colonne II</th>
@@ -7121,10 +7121,18 @@ Figure 19 [Abrogée, DORS/2008-72, art. 8]
 
 
 
-### Résistance du pavillon à la pénétration
+### Résistance du toit à l’écrasement (Norme 216)
 
-**216** Les camions, les véhicules de tourisme à usages multiples et les autobus, sauf les autobus scolaires, ayant chacun un poids nominal brut de véhicule d’au plus 2 722 kg et les voitures de tourisme, sauf les véhicules décapotables, lorsqu’ils sont soumis à l’essai sur le côté gauche et le côté droit du pavillon conformément à la Méthode d’essai 216 — Résistance du pavillon à la pénétration, dans sa version du 15 septembre 2000, ne doivent pas présenter de pénétration du pavillon d’une profondeur supérieure à 127 mm, mesurée conformément au paragraphe 3.8.4 de cette méthode d’essai.
-> DORS/94-291, art. 5; DORS/2000-402, art. 1; DORS/2006-94, art. 4(A)..
+**216** 
+
+- **(1)** Les voitures de tourisme, véhicules de tourisme à usages multiples, camions et autobus qui ont un PNBV d’au plus 4 536 kg, à l’exception des camions fabriqués à partir d’un châssis tronqué qui ont un PNBV de plus de 2 722 kg, des autobus scolaires et des décapotables, doivent être conformes aux exigences du Document de normes techniques no 216 — Résistance du toit à l’écrasement (DNT 216), avec ses modifications successives.
+
+- **(2)** Les voitures de tourisme, véhicules de tourisme à usages multiples, camions et autobus fabriqués en deux étapes ou plus, qui ne sont pas fabriqués à partir d’un châssis-cabine et qui ont un PNBV d’au plus 4 536 kg et les voitures de tourisme, véhicules de tourisme à usages multiples, camions et autobus qui ont un PNBV de plus de 2 722 kg et d’au plus 4 536 kg et qui sont munis d’un toit modifié doivent être conformes aux exigences du DNT 216 ou du DNT 220, lequel est mentionné à l’article 220 de la présente annexe.
+
+- **(3)** Les véhicules visés aux paragraphes (1) et (2) peuvent être conformes aux exigences du présent article dans sa version antérieure à la date à laquelle la présente version de l’article entre en vigueur.
+
+- **(4)** Le présent article cesse d’avoir effet le 1<sup>er</sup> janvier 2014.
+> DORS/94-291, art. 5; DORS/2000-402, art. 1; DORS/2006-94, art. 4(A); DORS/2009-291, art. 4..
 
 
 
@@ -7314,18 +7322,16 @@ Remarque : Le dessin n’est pas à l’échelle
 
 
 
-### Protection contre les tonneaux
+### Protection contre les tonneaux (Norme 220)
 
 **220** 
 
-- **(1)** Cet article ne s’applique qu’aux autobus scolaires.
+- **(1)** Les autobus scolaires doivent être conformes aux exigences du Document de normes techniques no 220 — Protection contre les tonneaux (DNT 220), avec ses modifications successives.
 
-- **(2)** Sous réserve du paragraphe (3), lorsqu’une force égale à 1 1/2 fois le poids du véhicule sans charge est exercée sur le toit de son châssis à l’aide d’une plaque d’application tel que stipulé aux Méthodes d’essai de sécurité des véhicules automobiles, article 220, approuvé le 19 juillet 1976,
-	- **a)** le mouvement vertical vers le bas en tout point de la plaque ne peut être supérieur à 130 mm (5 1/8 pouces); et
-	- **b)** toute issue exigée par l’article 217, à l’exception d’une issue de secours ménagée dans le toit, doit se conformer audit article en matière d’ouverture des issues de secours, pendant et après l’application de la force.
+- **(2)** Les voitures de tourisme, véhicules de tourisme à usages multiples, camions et autobus fabriqués en deux étapes ou plus, qui ne sont pas fabriqués à partir d’un châssis-cabine et qui ont un PNBV d’au plus 4 536 kg et les voitures de tourisme, véhicules de tourisme à usages multiples, camions et autobus qui ont un PNBV de plus de 2 722 kg et d’au plus 4 536 kg et qui sont munis d’un toit modifié doivent être conformes aux exigences du DNT 220 ou du DNT 216, lequel est mentionné à l’article 216 de la présente annexe.
 
-- **(3)** Il n’est pas nécessaire qu’une issue visée à l’article 217, à l’exception d’une issue de secours ménagée dans le toit, et s’y conformant avec l’utilisation de la force selon le paragraphe (2), et de la même manière, rencontre les exigences d’ouverture lorsque la force a cessé d’être appliquée.
-> DORS/79-940, art. 9..
+- **(3)** Le présent article cesse d’avoir effet le 1<sup>er</sup> janvier 2014.
+> DORS/79-940, art. 9; DORS/2009-291, art. 5..
 
 
 
