@@ -395,8 +395,11 @@ of such payment in lieu of the amount determined under section 102.
 
 - **(1)** Every person paying to a non-resident person a fee, commission or other amount in respect of services rendered in Canada, of any nature whatever, shall deduct or withhold 15 per cent of such payment.
 
-- **(2)** Subsection (1) does not apply to a payment described in the definition ***remuneration*** in subsection 100(1).
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ;  SOR/94-686, s. 49(F).
+- **(2)** Subsection (1) does not apply to a payment
+	- **(a)** described in the definition ***remuneration*** in subsection 100(1);
+	- **(b)** made to a registered non-resident insurer (within the meaning assigned by section 804); or
+	- **(c)** made to an authorized foreign bank in respect of its Canadian banking business.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-686, s. 49(F); SOR/2009-302, s. 1.
 
 
 
@@ -2095,12 +2098,14 @@ by the corporation.
 
 
 
-### Chartered Banks
+### Banks
+> [[NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ]
+
 
 
 **404** 
 
-- **(1)** Notwithstanding subsections 402(3) and (4), the amount of taxable income that shall be deemed to have been earned by a chartered bank in a taxation year in a province in which it had a permanent establishment is 1/3 of the aggregate of
+- **(1)** Notwithstanding subsections 402(3) and (4), the amount of taxable income that is deemed to have been earned by a bank in a taxation year in a province in which it had a permanent establishment is 1/3 of the total of
 	- **(a)** that proportion of its taxable income for the year that the aggregate of the salaries and wages paid in the year by the bank to employees of its permanent establishment in the province is of the aggregate of all salaries and wages paid in the year by the bank; and
 	- **(b)** twice that proportion of its taxable income for the year that the aggregate amount of loans and deposits of its permanent establishment in the province for the year is of the aggregate amount of all loans and deposits of the bank for the year.
 
@@ -2109,7 +2114,7 @@ by the corporation.
 - **(3)** For the purposes of subsection (1), the amount of deposits for a taxation year is 1/12 of the aggregate of the amounts on deposit with the bank at the close of business on the last day of each month in the year.
 
 - **(4)** For the purposes of subsections (2) and (3), loans and deposits do not include bonds, stocks, debentures, items in transit and deposits in favour of Her Majesty in right of Canada.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/80-949, s. 2.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/80-949, s. 2; SOR/2009-302, s. 3.
 
 
 
@@ -2275,7 +2280,9 @@ in that place.
 - **(1)** In this Part, if a corporation is not resident in Canada, “salaries and wages paid in the year” by the corporation does not include salaries and wages paid to employees of a permanent establishment outside Canada.
 
 - **(2)** For the purposes of paragraph 402(3)(a), where a corporation is not resident in Canada, “total gross revenue for the year” of the corporation does not include gross revenue reasonably attributable to a permanent establishment outside Canada.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-686, s. 79(F); 2009, c. 2, s. 95.
+
+- **(3)** For the purpose of paragraph 404(1)(b), in the case of an authorized foreign bank, “all loans and deposits of the bank for the year” is to be read as a reference to “all loans and deposits of the bank for the year in respect of its Canadian banking business”.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-686, s. 79(F); 2009, c. 2, s. 95; SOR/2009-302, s. 4.
 
 
 
@@ -2490,18 +2497,18 @@ are each declared to be a tax of general application on income from logging oper
 ### Registered Non-Resident Insurers
 
 
-**800** For the purposes of subsection 215(4) of the Act, subsections 215(1), (2) and (3) of the Act do not apply to amounts paid or credited to a registered non-resident insurer.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-424, s. 1.
+**800** Subsections 215(1), (2) and (3) of the Act do not apply to amounts paid or credited to a registered non-resident insurer.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-424, s. 1; SOR/2009-302, s. 5.
 
 
 
 
 
-### Filing of Returns by Non-Resident Insurers
+### Filing of Returns by Registered Non-Resident Insurers
 
 
-**801** For the purposes of subsection 215(4) of the Act, where a taxpayer is a registered non-resident insurer in a taxation year, the taxpayer shall file a return in respect thereof in prescribed form with the Minister within the six month period immediately following the end of the year.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-424, s. 1; SOR/88-165, s. 31(F); SOR/90-661, s. 1.
+**801** A taxpayer that is a registered non-resident insurer in a taxation year shall file a return for the taxation year in prescribed form with the Minister on or before its filing-due date for the taxation year.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-424, s. 1; SOR/88-165, s. 31(F); SOR/90-661, s. 1; SOR/2009-302, ss. 5, 14.
 
 
 
@@ -2510,18 +2517,24 @@ are each declared to be a tax of general application on income from logging oper
 ### Amounts Taxable
 
 
-**802** For the purposes of paragraph 214(13)(c) of the Act, the amounts taxable under Part XIII of the Act in a relevant taxation year of a taxpayer are amounts paid or credited to the taxpayer in the relevant taxation year other than amounts included pursuant to Part I of the Act in computing the taxpayer’s income from a business carried on by it in Canada.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-424, s. 1.
+**802** The amounts that are taxable under Part XIII of the Act in a taxation year of a taxpayer that is a registered non-resident insurer in the taxation year are amounts paid or credited to the taxpayer in the taxation year other than amounts included under Part I of the Act in computing the taxpayer’s income from a business carried on by it in Canada.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-424, s. 1; SOR/2009-302, s. 5.
 
 
 
 
 
-### Payment of Tax by Non-Resident Insurers
+### Payment of Tax by Registered Non-Resident Insurers
 
 
-**803** For the purposes of subsection 215(4) of the Act, a taxpayer shall pay to the Receiver General, on or before the last day on which the return in respect of a relevant taxation year is required to be filed pursuant to section 801, the tax payable by the taxpayer under Part XIII of the Act on amounts referred to in section 802 in respect of the relevant taxation year.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-424, s. 1.
+**803** A taxpayer that is a registered non-resident insurer in a taxation year shall pay to the Receiver General, on or before its filing-due date for the taxation year, the tax payable by it under Part XIII of the Act in the taxation year.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/79-424, s. 1; SOR/2009-302, ss. 5, 14.
+
+
+
+
+**803.1** [Repealed, SOR/2009-302, s. 5]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2009-302, s. 5.
 
 
 
@@ -2542,16 +2555,20 @@ are each declared to be a tax of general application on income from logging oper
 
 
 
-**805** 
+**805** Subject to section 802, every non-resident person who carries on business in Canada is taxable under Part XIII of the Act on all amounts otherwise taxable under that Part except those amounts that
+- **(a)** may reasonably be attributed to the business carried on by the person through a permanent establishment (within the meaning assigned by section 8201) in Canada; or
+- **(b)** are required by subparagraph 115(1)(a)(iii.3) of the Act to be included in computing the person’s taxable income earned in Canada for the year.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-656, s. 1; SOR/84-948, s. 3; SOR/88-165, s. 3; SOR/94-686, ss. 50(F), 79(F); SOR/2009-302, s. 6.
 
-- **(1)** Every non-resident person who carries on business in Canada shall be taxable under Part XIII of the Act on all amounts otherwise taxable under that Part except those amounts that
-	- **(a)** may reasonably be attributed to the business carried on by him through a permanent establishment (within the meaning assigned by subsection 400(2) or that would be assigned by that subsection if he were a corporation) in Canada; or
-	- **(b)** are required by subparagraph 115(1)(a)(iii.3) of the Act to be included in computing his taxable income earned in the year in Canada.
 
-- **(2)** Where the Minister is satisfied that under subsection (1) an amount is not taxable under Part XIII of the Act, he may permit payment to be made to the non-resident person without any deduction being made under section 215 of the Act.
 
-- **(3)** Subsections (1) and (2) do not apply in respect of amounts upon which tax under Part XIII of the Act is payable in a relevant taxation year by a taxpayer required by section 801 to file the return described in that section in respect of that year.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-656, s. 1; SOR/84-948, s. 3; SOR/88-165, s. 3; SOR/94-686, ss. 50(F), 79(F).
+
+
+### Payee Certificate
+
+
+**805.1** If a person (in this section referred to as the “payee”) files an application under this section with the Minister in respect of the anticipated payment or crediting of an amount to the payee, and the Minister determines that the amount is an amount described in paragraph 805(a) or (b), the Minister shall issue to the payee a certificate that records that determination.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2009-302, s. 6.
 
 
 
@@ -2604,12 +2621,14 @@ are each declared to be a tax of general application on income from logging oper
 
 **808** 
 
-- **(1)** For the purposes of paragraph 219(1)(h) of the Act, a corporation’s allowance for a taxation year in respect of its investment in property in Canada is hereby prescribed to be the amount, if any, by which
+- **(1)** For the purposes of paragraph 219(1)(j) of the Act, the allowance of a corporation (other than an authorized foreign bank) for a taxation year in respect of its investment in property in Canada is prescribed to be the amount, if any, by which
 	- **(a)** the corporation’s qualified investment in property in Canada at the end of the year,
 exceeds
 	- **(b)** the aggregate of
 		- **(i)** all allowances computed under this section as it read in its application to each of the taxation years of the corporation that ended before 1972 to the extent that for those taxation years such allowances reduced the amount on which the corporation was taxable under subsection 110B(1) of the Act as it read in its application to those taxation years, and
 		- **(ii)** the capital investment of the corporation in property in Canada at the end of the corporation’s 1960 taxation year, determined under this section as it read in its application to the 1961 taxation year.
+
+- **(1.1)** Notwithstanding subsections (1) and (8), for the purpose of paragraph 219(1)(j) of the Act, the allowance of a corporation that becomes resident in Canada at any time is, in respect of its investment in property in Canada for its last taxation year that ends before that time, prescribed to be nil.
 
 - **(2)** For the purposes of subsection (1), where, at the end of a taxation year, a corporation is not a member of a partnership that was carrying on business in Canada at any time in the year, the corporation’s “qualified investment in property in Canada at the end of the year” is the amount, if any, by which the aggregate of
 	- **(a)** the cost amount to the corporation, at the end of the year, of land in Canada owned by it at that time for the purpose of gaining or producing income from a business carried on by it in Canada, other than land that is
@@ -2619,27 +2638,24 @@ exceeds
 		- **(iv)** land the cost of which is or was deductible in computing the corporation’s income,
 	- **(b)** an amount equal to the aggregate of the cost amount to the corporation, immediately after the end of the year, of each depreciable property in Canada owned by it for the purpose of gaining or producing income from a business carried on by it in Canada,
 	- **(c)** an amount equal to 4/3 of the cumulative eligible capital of the corporation immediately after the end of the year in respect of each business carried on by it in Canada,
-	- **(d)** where the corporation is not a principal-business corporation, within the meaning assigned by paragraph 66(15)(h) of the Act, an amount equal to the aggregate of the corporation’s
-		- **(i)** Canadian exploration and development expenses, within the meaning assigned by paragraph 66(15)(b) of the Act, incurred by the corporation before the end of the year except to the extent that such expenses were deducted by the corporation in computing its income for the year or for a previous taxation year, and
-		- **(ii)** cumulative Canadian exploration expense, within the meaning assigned by paragraph 66.1(6)(b) of the Act, at the end of the year minus any deduction under subsection 66.1(3) of the Act in computing the corporation’s income for the year,
-	- **(d.1)** an amount equal to the corporation’s cumulative Canadian development expense, within the meaning assigned by paragraph 66.2(5)(b) of the Act, at the end of the year minus any deduction under subsection 66.2(2) of the Act in computing the corporation’s income for the year,
-	- **(d.2)** an amount equal to the corporation’s cumulative Canadian oil and gas property expense, within the meaning assigned by paragraph 66.4(5)(b) of the Act, at the end of the year minus any deduction under subsection 66.4(2) of the Act in computing the corporation’s income for the year,
+	- **(d)** where the corporation is not a principal-business corporation, within the meaning assigned by subsection 66(15) of the Act, an amount equal to the total of the corporation’s
+		- **(i)** Canadian exploration and development expenses incurred by the corporation before the end of the year, except to the extent that those expenses were deducted in computing the corporation’s income for the year or for a previous taxation year, and
+		- **(ii)** cumulative Canadian exploration expense, within the meaning assigned by subsection 66.1(6) of the Act, at the end of the year minus any deduction under subsection 66.1(3) of the Act in computing the corporation’s income for the year,
+	- **(d.1)** an amount equal to the corporation’s cumulative Canadian development expense, within the meaning assigned by subsection 66.2(5) of the Act, at the end of the year minus any deduction under subsection 66.2(2) of the Act in computing the corporation’s income for the year,
+	- **(d.2)** an amount equal to the corporation’s cumulative Canadian oil and gas property expense, within the meaning assigned by subsection 66.4(5) of the Act, at the end of the year minus any deduction under subsection 66.4(2) of the Act in computing the corporation’s income for the year,
 	- **(e)** an amount equal to the aggregate of the cost amount to the corporation at the end of the year of each debt owing to it, or any other right of the corporation to receive an amount, that was outstanding as a result of the disposition by it of property in respect of which an amount would be included, by virtue of paragraph (a), (b), (c) or (h), in its qualified investment in property in Canada at the end of the year if the property had not been disposed of by it before the end of that year,
 	- **(f)** an amount equal to the aggregate of the cost amount to the corporation at the end of the year of each property, other than a Canadian resource property, that was described in the corporation’s inventory in respect of a business carried on by it in Canada,
 	- **(g)** an amount equal to the aggregate of the cost amount to the corporation at the end of the year of each debt (other than a debt referred to in paragraph (e) or a debt the amount of which was deducted under paragraph 20(1)(p) of the Act in computing the corporation’s income for the year) owing to it
 		- **(i)** in respect of any transaction by virtue of which an amount has been included in computing its income for the year or for a previous year from a business carried on by it in Canada, or
-		- **(ii)** where any part of its ordinary business carried on in Canada was the lending of money, in respect of a loan made by the corporation in the ordinary course of that part of its business,
-	- **(h)** where the corporation was resident in Canada at any time in the year, an amount equal to the aggregate of the cost amount to the corporation at the end of the year of any property in Canada owned by it
-		- **(i)** the cost amount of which is not included in its qualified investment in property in Canada at the end of the year by virtue of paragraph (a) or (b) or subparagraph (g)(i), but would be so included if those provisions were read without the phrase “from a business carried on by it in Canada”,
-		- **(ii)** that is a share of the capital stock of a corporation that was not described in the corporation’s inventory in respect of a business carried on by it in Canada, or
-		- **(iii)** that is a bond, debenture, bill, note, mortgage or similar obligation that was not described in the corporation’s inventory in respect of a business carried on by it in Canada (other than an obligation referred to in subparagraph (3)(a)(iii), a debt referred to in paragraph (e) or (g) or a debt the amount of which was deducted under paragraph 20(1)(p) of the Act in computing the corporation’s income for the year), and
+		- **(ii)** where any part of its ordinary business carried on in Canada was the lending of money, in respect of a loan made by the corporation in the ordinary course of that part of its business, and
+	- **(h)** [Repealed, SOR/2009-302, s. 7]
 	- **(i)** an amount equal to the allowable liquid assets of the corporation at the end of the year,
 exceeds the aggregate of
 	- **(j)** an amount equal to the aggregate of each amount deducted by the corporation under paragraph 20(1)(l), (l.1) or (n) or subsection 64(1), (1.1) or (1.2) of the Act in computing its income for the year from a business carried on by it in Canada,
 	- **(k)** an amount equal to the aggregate of all amounts each of which is an amount deducted by the corporation in the year under subparagraph 40(1)(a)(iii) or 44(1)(e)(iii) of the Act in respect of a debt referred to in paragraph (e);
 	- **(l)** an amount equal to the aggregate of each amount owing by the corporation at the end of the year on account of
-		- **(i)** the purchase price of property that is referred to in paragraph (a), (b), (f) or (h) or that would be so referred to but for the fact that it has been disposed of before the end of the year,
-		- **(ii)** Canadian exploration and development expenses, Canadian exploration expense, Canadian development expense or Canadian oil and gas property expense, within the meanings assigned by paragraphs 66(15)(b), 66.1(6)(a), 66.2(5)(a) and 66.4(5)(a) of the Act, respectively,
+		- **(i)** the purchase price of property that is referred to in paragraph (a), (b) or (f) or that would be so referred to but for the fact that it has been disposed of before the end of the year,
+		- **(ii)** Canadian exploration and development expenses, Canadian exploration expense, Canadian development expense or Canadian oil and gas property expense,
 		- **(iii)** an eligible capital expenditure made or incurred by the corporation before the end of the year in respect of a business carried on by it in Canada, or
 		- **(iv)** any other outlay or expense made or incurred by the corporation to the extent that it was deducted in computing its income for the year or for a previous taxation year from a business carried on by it in Canada;
 	- **(m)** an amount equal to the aggregate of all amounts each of which is an amount equal to that proportion of the amount owing (other than an amount owing on account of an outlay or expense referred to in paragraph (l)) by the corporation at the end of the year on account of an obligation outstanding at any time in the year in respect of which interest is stipulated to be payable by it that
@@ -2649,25 +2665,18 @@ is of
 	- **(n)** the amount, if any, by which
 		- **(i)** the amount (referred to in this paragraph as “Part I liability”), if any, by which the tax payable for the year by the corporation under Part I of the Act exceeds the amount, if any, paid by the corporation before the end of the year on account thereof,
 exceeds
-		- **(ii)** where the corporation was, throughout the year, not resident in Canada, that proportion of the Part I liability that the amount, if any, determined under paragraph 219(1)(d) of the Act in respect of the corporation for the year is of the corporation’s amount taxable (within the meaning given to that expression in section 123 of the Act) for the year, or
-		- **(iii)** in any other case, nil;
+		- **(ii)** that proportion of the Part I liability that the amount, if any, in respect of the corporation for the year that is the lesser of
+			- **(A)** the amount, if any, by which the total of all amounts each of which is a taxable capital gain of the corporation for the year from a disposition of a taxable Canadian property that was not used or held by it in the year in the course of carrying on business in Canada exceeds the total of all amounts each of which is an allowable capital loss of the corporation for the year from a disposition of such a property, and
+			- **(B)** the amount that would be determined under clause (A) for the year if it were read without reference to the expression “that was not used or held by it in the year in the course of carrying on business in Canada”,is of the corporation’s taxable income earned in Canada for the year; and
+		- **(iii)** [Repealed, SOR/2009-302, s. 7]
 	- **(o)** the amount, if any, by which
 		- **(i)** the amount (referred to in this paragraph as “provincial tax liability”), if any, by which any income taxes payable for the year by the corporation to the government of a province (to the extent that such taxes were not deductible under Part I of the Act in computing the corporation’s income for the year from a business carried on by it in Canada) exceeds the amount, if any, paid by the corporation before the end of the year on account thereof,
 exceeds
-		- **(ii)** where the corporation was, throughout the year, not resident in Canada, that proportion of the provincial tax liability that the amount, if any, determined under paragraph 219(1)(d) of the Act in respect of the corporation for the year is of the corporation’s amount taxable (within the meaning given to that expression in section 123 of the Act) for the year, or
-		- **(iii)** in any other case, nil; and
-	- **(p)** where the corporation was resident in Canada at any time in the year, an amount equal to the aggregate of
-		- **(i)** an amount equal to the aggregate of each amount deducted by the corporation in the year under paragraph 20(1)(l) or (l.1) or subsection 64(1), (1.1) or (1.2) of the Act in computing its income for the year from a source other than
-			- **(A)** a business carried on by it in Canada, or
-			- **(B)** a property situated outside Canada,
-		- **(ii)** an amount equal to the aggregate of each amount owing by the corporation at the end of the year on account of any outlay or expense made or incurred by the corporation to the extent that it was deducted in computing its income for the year or for a previous taxation year from a source other than
-			- **(A)** a business carried on by it in Canada, or
-			- **(B)** a property situated outside Canada, and
-		- **(iii)** an amount equal to the aggregate of all amounts each of which is an amount equal to that proportion of the amount owing (other than an amount owing on account of an outlay or expense referred to in subparagraph (ii) or paragraph (l)) by the corporation at the end of the year on account of an obligation outstanding at any time in the year in respect of which interest is stipulated to be payable by it that
-			- **(A)** the interest paid or payable on the obligation by the corporation in respect of the year that is deductible, or would be deductible but for subsection 18(2), (3.1) or (4) or section 21 of the Act, in computing its income for the year from a source other than
-				- **(I)** a business carried on by it in Canada, or
-				- **(II)** a property situated outside Canada,is of
-			- **(B)** the interest paid or payable on the obligation by the corporation in respect of the year.
+		- **(ii)** that proportion of the provincial tax liability that the amount, if any, in respect of the corporation for the year that is the lesser of
+			- **(A)** the amount, if any, by which the total of all amounts each of which is a taxable capital gain of the corporation for the year from a disposition of a taxable Canadian property that was not used or held by it in the year in the course of carrying on business in Canada exceeds the total of all amounts each of which is an allowable capital loss of the corporation for the year from a disposition of such a property, and
+			- **(B)** the amount that would be determined under clause (A) for the year if it were read without reference to the expression “that was not used or held by it in the year in the course of carrying on business in Canada”,is of the corporation’s taxable income earned in Canada for the year.
+		- **(iii)** [Repealed, SOR/2009-302, s. 7]
+	- **(p)** [Repealed, SOR/2009-302, s. 7]
 
 - **(3)** For the purposes of paragraph (2)(i), the “allowable liquid assets of the corporation at the end of the year” is an amount equal to the lesser of
 	- **(a)** the aggregate of
@@ -2706,7 +2715,7 @@ exceeds the aggregate of
 	- **(i)** an amount equal to the aggregate of all amounts each of which is an amount deducted by the partnership in the fiscal period under subparagraph 40(1)(a)(iii) or 44(1)(e)(iii) of the Act in respect of a debt referred to in paragraph (d);
 	- **(j)** an amount equal to the aggregate of each amount owing by the partnership at the end of the fiscal period on account of
 		- **(i)** the purchase price of property that is referred to in paragraph (a), (b) or (e) or that would be so referred to but for the fact that it has been disposed of before the end of the fiscal period,
-		- **(ii)** Canadian exploration and development expenses, Canadian exploration expense, Canadian development expense or Canadian oil and gas property expense, within the meanings assigned by paragraphs 66(15)(b), 66.1(6)(a), 66.2(5)(a) and 66.4(5)(a) of the Act, respectively,
+		- **(ii)** Canadian exploration and development expenses, Canadian exploration expense, Canadian development expense or Canadian oil and gas property expense,
 		- **(iii)** an eligible capital expenditure made or incurred by the partnership before the end of the fiscal period in respect of a business carried on by it in Canada, or
 		- **(iv)** any other outlay or expense made or incurred by the partnership to the extent that it was deducted in computing its income for the fiscal period or for a previous fiscal period, or in computing the income of a member of the partnership for a previous taxation year, from a business carried on in Canada by the partnership; and
 	- **(k)** an amount equal to the aggregate of all amounts each of which is an amount equal to that proportion of the amount owing (other than an amount owing on account of an outlay or expense referred to in paragraph (j)) by the partnership at the end of the fiscal period on account of an obligation outstanding at any time in the period in respect of which interest is stipulated to be payable by it that
@@ -2715,7 +2724,7 @@ is of
 		- **(ii)** the interest paid or payable on the obligation by the partnership in respect of the fiscal period.
 
 - **(6)** For the purposes of paragraph (5)(g), the “allowable liquid assets of the partnership at the end of the fiscal period” is an amount equal to the lesser of
-	- **(a)** the aggregate of
+	- **(a)** the total of the following amounts (to the extent that those amounts are attributable to the profits of the partnership from carrying on a business in Canada, or are used or held by the partnership in the year in the course of carrying on a business in Canada):
 		- **(i)** the amount of Canadian currency owned by the partnership at the end of that fiscal period,
 		- **(ii)** the balance standing to the credit of the partnership at the end of that fiscal period as or on account of amounts deposited with a branch or other office in Canada of
 			- **(A)** a bank,
@@ -2728,7 +2737,29 @@ by
 		- **(ii)** the number of months in that fiscal period.
 
 - **(7)** Subsections (4) to (6) shall be read and construed as if each of the assumptions in paragraphs 96(1)(a) to (g) of the Act were made.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-656, s. 2; SOR/84-948, s. 4; SOR/90-258, s. 1; SOR/91-78, s. 2; SOR/93-395, s. 1; SOR/94-686, ss. 8(F), 47, 58(F) to 61(F), 62, 63(F) to 65(F), 78(F), 79(F), 81(F).
+
+- **(8)** For the purpose of paragraph 219(1)(j) of the Act, the allowance of an authorized foreign bank for a taxation year in respect of its investment in property in Canada is prescribed to be the amount, if any, by which
+	- **(a)** the average of all amounts, each of which is the amount for a calculation period (within the meaning assigned by subsection 20.2(1) of the Act) of the bank for the year that is the greater of
+		- **(i)** the amount determined by the formula
+```
+0.05 × A
+```
+where
+- **A** is the amount of the element A in the formulae in subsection 20.2(3) of the Act for the period, and
+		- **(ii)** the amount by which
+			- **(A)** the total of the cost amount to the bank, at the end of the period (or, in the case of depreciable property or eligible capital property, immediately after the end of the year), of each asset in respect of the bank’s Canadian banking business that is an asset recorded in the books of account of the business in a manner consistent with the manner in which it is required to be treated for the purpose of the branch financial statements (within the meaning assigned by subsection 20.2(1) of the Act) for the yearexceeds
+			- **(B)** the amount equal to the total of
+				- **(I)** the amount determined by the formula
+```
+L + BA
+```
+where
+- **L** is the amount of the element L in the formulae in subsection 20.2(3) of the Act for the period, and
+- **BA** is the amount of the element BA in the formulae in subsection 20.2(3) of the Act for the period, and
+				- **(II)** the amount claimed by the bank under clause 20.2(3)(b)(ii)(A) of the Act
+exceeds
+	- **(b)** the total of all amounts each of which is an amount that would be determined under paragraph (2)(j), (k), (n) or (o) if that provision applied to the bank for the year, except to the extent that the amount reflects a liability of the bank that has been included in the element L in the formulae in subsection 20.2(3) of the Act for the bank’s last calculation period for the year.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/81-656, s. 2; SOR/84-948, s. 4; SOR/90-258, s. 1; SOR/91-78, s. 2; SOR/93-395, s. 1; SOR/94-686, ss. 8(F), 47, 58(F) to 61(F), 62, 63(F) to 65(F), 78(F), 79(F), 81(F); SOR/2009-302, s. 7.
 
 
 
@@ -2767,24 +2798,8 @@ and the product obtained under paragraph (d) is the amount by which the amount r
 
 
 
-
-### Excluded Property of Non-Resident Persons
-> [[NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ]
-
-
-
-**810** 
-
-- **(1)** For the purposes of paragraph 116(6)(e) of the Act, any property that is
-	- **(a)** property of a non-resident insurer that is a qualified insurance corporation,
-	- **(b)** an option in respect of property referred to in any of paragraphs 116(6)(a) to (d) of the Act and paragraph (a) whether or not such property is in existence, or
-	- **(c)** an interest in property referred to in paragraph 116(6)(a), (c) or (d) of the Act or paragraph (a) or (b),
-is prescribed to be excluded property.
-
-- **(2)** For the purposes of this section, a non-resident insurer is a “qualified insurance corporation” throughout the period during which it
-	- **(a)** was licenced or otherwise authorized under the laws of Canada or a province to carry on an insurance business in Canada; and
-	- **(b)** carried on an insurance business, within the meaning of subsection 138(1) of the Act, in Canada.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-686, s. 57(F).
+**810** [Repealed, SOR/2009-302, s. 8]
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/94-686, s. 57(F); SOR/2009-302, s. 8.
 
 
 
@@ -8254,18 +8269,27 @@ exceeds
 
 **2606** 
 
-- **(1)** Where, in the case of an individual to whom section 2601 applies, the aggregate of the amounts otherwise determined as his income for the taxation year from carrying on business earned in all provinces and countries other than Canada is greater than his income for the year, his income for the year from carrying on business earned in a particular province or country shall be deemed to be that proportion of his income for the year that
-	- **(a)** his income for the year from carrying on business in the province or country as otherwise determined,
+- **(1)** If, in the case of an individual to whom section 2601 applies, the total of the amounts otherwise determined to be the individual’s income for a taxation year from carrying on business that is earned in all provinces and countries other than Canada is greater than the individual’s income for the year, the individual’s income for the year from carrying on business earned in a particular province or country other than Canada is deemed to be that proportion of the individual’s income for the year that
+	- **(a)** the individual’s income for the year from carrying on business in the particular province or country as otherwise determined
 is of
-	- **(b)** that aggregate.
+	- **(b)** that total.
 
-- **(2)** Where section 114 of the Act is applicable for the purpose of determining the taxable income of an individual for the taxation year, a reference in subsection (1) to “his income for the taxation year” shall be construed as a reference to the amount of his income as determined for the purposes of section 114 of the Act and, for the purposes of this Part, his income for the taxation year from carrying on a business in any place shall be computed by reference only to a business the income from which is included in computing his taxable income for the purposes of section 114 of the Act.
+- **(2)** If section 114 of the Act applies in respect of an individual for a taxation year, the following rules apply:
+	- **(a)** the portion of subsection (1) before paragraph (a) is to be read as follows in respect of the individual for the year:
+**2606** 
+
+	- **(1)** If, in the case of an individual to whom section 2601 applies, the total of the amounts otherwise determined to be the individual’s income for a taxation year from carrying on business that is earned in all provinces and countries other than Canada is greater than the individual’s taxable income for the year, the individual’s income for the year from carrying on business earned in a particular province or country other than Canada is deemed to be that proportion of the individual’s taxable income for the year that
+
+
+	- **(b)** for the purpose of this Part, the individual’s income for the year from carrying on a business in any place shall be computed by reference only to the income from that business that is included in computing the individual’s taxable income for the year.
 
 - **(3)** For the purposes of sections 2603 to 2605, where an individual’s taxable income for the taxation year is computed in accordance with section 115 of the Act,
 	- **(a)** a reference to a “business” shall be deemed to refer only to a business that was wholly or partly carried on in Canada;
 	- **(b)** a reference to “income for the year from carrying on business” shall be deemed to refer only to income for the year from carrying on a business in Canada, as determined for the purposes of section 115 of the Act;
 	- **(c)** a reference to “salaries and wages paid in the year” shall be deemed to be a reference to salaries and wages paid to employees of his permanent establishments in Canada; and
 	- **(d)** a reference to “total gross revenue for the year” from the business shall be deemed to be a reference to total gross revenue reasonably attributable to his permanent establishments in Canada.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2009-302, s. 9.
+
 
 
 
@@ -10559,7 +10583,7 @@ exceeds
 
 - **(1)** Subject to subsections (6) and (8), for the purposes of subsections 157(4) and 161(9) of the Act, the first instalment base of a corporation for a particular taxation year means the product obtained when the aggregate of
 	- **(a)** the tax payable under Part I of the Act by the corporation for its taxation year preceding the particular year, and
-	- **(b)** the total of the taxes payable by the corporation under Parts I.3, VI and VI.1 of the Act for its taxation year preceding the particular year
+	- **(b)** the total of the taxes payable by the corporation under Parts VI, VI.1 and XIII.1 of the Act for its taxation year preceding the particular year
 is multiplied by the ratio that 365 is of the number of days in that preceding year.
 
 - **(2)** Subject to subsections (6) and (8), for the purposes of subsections 157(4) and 161(9) of the Act, the ***second instalment base*** of a corporation for a particular taxation year means the amount of the first instalment base of the corporation for the taxation year immediately preceding the particular year.
@@ -10572,7 +10596,7 @@ is multiplied by the ratio that 365 is of the number of days in that preceding y
 	- **(a)** where a particular taxation year of a new corporation that was formed as a result of an amalgamation (within the meaning assigned by section 87 of the Act) is its first taxation year,
 		- **(i)** its ***first instalment base*** for the particular year means the total of all amounts each of which is equal to the product obtained when the total of
 			- **(A)** the tax payable under Part I of the Act, and
-			- **(B)** the total of the taxes payable under Parts I.3, VI and VI.1 of the Actby a predecessor corporation (as defined in section 87 of the Act) for its last taxation year is multiplied by the ratio that 365 is to the number of days in that year, and
+			- **(B)** the total of the taxes payable under Parts VI, VI.1 and XIII.1 of the Actby a predecessor corporation (as defined in section 87 of the Act) for its last taxation year is multiplied by the ratio that 365 is to the number of days in that year, and
 		- **(ii)** its ***second instalment base*** for the particular year means the aggregate of all amounts each of which is an amount equal to the amount of the first instalment base of a predecessor corporation for its last taxation year; and
 	- **(b)** where a particular taxation year of a new corporation referred to in paragraph (a) is its second taxation year,
 		- **(i)** its ***first instalment base*** for the particular year means
@@ -10595,7 +10619,7 @@ is of
 
 - **(7)** The amount of an instalment of tax for the taxation year referred to in paragraphs (6)(a) and (b) that a parent is deemed under subsection 161(4.1) of the Act to have been liable to pay before the particular time referred to in subsection (6) shall be determined as if subsection (6) were not applicable in respect of a distribution of property described in that subsection occurring after the day on or before which the instalment was required to be paid.
 
-- **(8)** Subject to subsection (9), where at a particular time a corporation (in this subsection referred to as the “transferor”) has disposed of all or substantially all of its property to another corporation with which it was not dealing at arm’s length (in this subsection and subsection (9) referred to as the “transferee”) and subsection 85(1) or (2) of the Act applied in respect of the disposition of any of the property, the following rules apply:
+- **(8)** Subject to subsection (9), if at a particular time a corporation (in this subsection referred as the “transferor”) has disposed of all or substantially all of its property to another corporation with which it was not dealing at arm’s length (in this subsection and subsection (9) referred to as the “transferee”) and subsection 85(1), (2) or 142.7(3) of the Act applied in respect of the disposition of any of the property, the following rules apply:
 	- **(a)** there shall be added to the amount of the transferee’s first instalment base for its taxation year that includes the particular time the amount of the transferor’s first instalment base for its taxation year that includes the particular time;
 	- **(b)** there shall be added to the amount of the transferee’s second instalment base for its taxation year that includes the particular time the amount of the transferor’s second instalment base for its taxation year that includes the particular time;
 	- **(c)** there shall be added to the amount of the transferee’s first instalment base for its taxation year immediately following its taxation year referred to in paragraph (a) the amount that is the proportion of the transferor’s first instalment base for its taxation year referred to in paragraph (a) that
@@ -10606,8 +10630,8 @@ is of
 
 - **(9)** The amount of an instalment of tax for the taxation year referred to in paragraphs (8)(a) and (b) that a transferee is deemed under subsection 161(4.1) of the Act to have been liable to pay before the particular time referred to in subsection (8) shall be determined as if subsection (8) were not applicable in respect of a disposition of property described in that subsection occurring after the day on or before which the instalment was required to be paid.
 
-- **(10)** For the purpose of this section, tax payable under Part I, I.3 or VI of the Act by a corporation for a taxation year means the corporation’s tax payable for the year under the relevant Part, determined before taking into consideration the specified future tax consequences for the year.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-325, s. 2; SOR/81-855, s. 1; SOR/84-948, s. 14; SOR/85-696, s. 16; SOR/88-165, s. 27; SOR/89-409, s. 3; SOR/94-298, s. 1; SOR/94-686, s. 79(F); SOR/99-92, s. 2.
+- **(10)** For the purpose of this section, tax payable under Part I, VI or XIII.1 of the Act by a corporation for a taxation year means the corporation’s tax payable for the year under the relevant Part, determined before taking into consideration the specified future tax consequences for the year.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/78-325, s. 2; SOR/81-855, s. 1; SOR/84-948, s. 14; SOR/85-696, s. 16; SOR/88-165, s. 27; SOR/89-409, s. 3; SOR/94-298, s. 1; SOR/94-686, s. 79(F); SOR/99-92, s. 2; SOR/2009-302, s. 10.
 
 
 
@@ -13232,10 +13256,14 @@ where
 ## Prescribed Financial Institutions
 
 
-**7900** For the purposes of section 33.1, paragraph 95(2)(a.3), clause 212(1)(b)(iii)(D) and subparagraph 212(1)(b)(xi) of the Act, ***prescribed financial institution*** means
-- **(a)** a corporation that is a member of the Canadian Payments Association; or
-- **(b)** a credit union that is a shareholder or member of a body corporate or organization that is a central for the purposes of the Canadian Payments Association Act.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/90-285, s. 2; SOR/94-686, s. 79(F); SOR/97-505, s. 10.
+**7900** 
+
+- **(1)** For the purposes of section 33.1 and the definitions ***excluded income*** and ***excluded revenue*** and ***specified deposit*** in subsection 95(2.5) of the Act, each of the following is a prescribed financial institution:
+	- **(a)** a member of the Canadian Payments Association, other than an authorized foreign bank; and
+	- **(b)** a credit union that is a shareholder or member of a body corporate or organization that is a central for the purposes of the [Canadian Payments Act](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-21.md).
+
+- **(2)** For the purposes of the definitions ***excluded income*** and ***excluded revenue*** and ***specified deposit*** in subsection 95(2.5) of the Act, an authorized foreign bank is a prescribed financial institution.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/90-285, s. 2; SOR/94-686, s. 79(F); SOR/97-505, s. 10; SOR/2009-302, s. 11.
 
 
 
@@ -18415,6 +18443,8 @@ where
 	- **(b)** no amount shall be allocated in respect of that residual portion to any taxation year of the subsidiary after its taxation year in which its assets were distributed to its parent; and
 	- **(c)** the amount of that residual portion allocated to the taxation year of the parent in which the subsidiary’s assets were distributed to it shall be determined on the assumption that the taxation year began when the assets were distributed to it.
 
+- **(2.1)** [Repealed, SOR/2009-302, s. 12]
+
 **Transfer of an insurance business**
 
 - **(3)** No amount in respect of the residual portion of a gain or loss of an insurer from the disposition of a specified debt obligation to which subsection 142.4(4) of the Act applies shall be allocated to any taxation year of the insurer that ends after the insurer ceased to carry on all or substantially all of an insurance business, if
@@ -18435,12 +18465,16 @@ where
 	- **(b)** the disposition occurred before that time; and
 	- **(c)** the specified debt obligation was property used in the business.
 
+**Non-resident taxpayer**
+
+- **(5.1)** For the purpose of subsection (5), a non-resident taxpayer is considered to cease to carry on all or substantially all of a business if the taxpayer ceases to carry on, or ceases to carry on in Canada, all or substantially all of the part of the business that was carried on in Canada.
+
 **Ceasing to be a financial institution**
 
 - **(6)** There shall be allocated to a particular taxation year of a taxpayer the part, if any, of the residual portion of the taxpayer’s gain or loss that is from a disposition of a specified debt obligation to which subsection 142.4(4) of the Act applies and that was not allocated to a preceding taxation year, if
 	- **(a)** the particular taxation year ends immediately before the time at which the taxpayer ceases to be a financial institution, otherwise than because it has ceased to carry on a business; and
 	- **(b)** the disposition occurred before that time.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2009-222, s. 7.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2009-222, s. 7; SOR/2009-302, s. 12.
 
 
 
