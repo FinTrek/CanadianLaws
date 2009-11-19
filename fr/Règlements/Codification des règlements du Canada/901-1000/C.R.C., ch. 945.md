@@ -394,8 +394,11 @@ de ce paiement au lieu du montant déterminé en vertu de l’article 102.
 
 - **(1)** Quiconque verse à une personne non-résidente un honoraire, commission ou autre montant à l’égard de services rendus au Canada, de quelque nature que ce soit, doit déduire ou retrancher 15 pour cent de ce versement.
 
-- **(2)** Le paragraphe (1) ne s’applique pas aux paiements mentionnés dans la définition ***rémunération*** figurant au paragraphe 100(1).
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-686, art. 49(F).
+- **(2)** Le paragraphe (1) ne s’applique pas aux paiements :
+	- **a)** visés à la définition de ***rémunération*** au paragraphe 100(1);
+	- **b)** faits à un assureur non-résident enregistré, au sens de l’article 804;
+	- **c)** faits à une banque étrangère autorisée en ce qui a trait à son entreprise bancaire canadienne.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-686, art. 49(F); DORS/2009-302, art. 1.
 
 
 
@@ -2091,12 +2094,14 @@ par la compagnie.
 
 
 
-### Banques à charte
+### Banques
+> [[NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ]
+
 
 
 **404** 
 
-- **(1)** Nonobstant les paragraphes 402(3) et (4), le revenu imposable qu’une banque à charte est censée avoir gagné dans une année d’imposition dans une province où elle avait un établissement stable est 1/3 de l’ensemble
+- **(1)** Malgré les paragraphes 402(3) et (4), le montant de revenu imposable qu’une banque est réputée avoir gagné au cours d’une année d’imposition dans une province où elle avait un établissement stable correspond au tiers de la somme :
 	- **a)** de la proportion de son revenu imposable pour l’année que l’ensemble des traitements et salaires versés pendant l’année par la banque aux employés de son établissement stable dans la province représente par rapport à l’ensemble des traitements et salaires versés pendant l’année par la banque; et
 	- **b)** de deux fois la proportion de son revenu imposable pour l’année que l’ensemble des prêts et dépôts de son établissement stable dans la province pour l’année représente par rapport au total des prêts et dépôts de la banque pour l’année.
 
@@ -2105,7 +2110,7 @@ par la compagnie.
 - **(3)** Aux fins du paragraphe (1), le montant des dépôts pour une année d’imposition est 1/12 de l’ensemble des montants en dépôt à la banque à la clôture des affaires le dernier jour de chaque mois de l’année.
 
 - **(4)** Aux fins des paragraphes (2) et (3), les prêts et dépôts ne comprennent pas les obligations, actions, valeurs en transit et dépôts pour le compte de Sa Majesté du chef du Canada.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/80-949, art. 2.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/80-949, art. 2; DORS/2009-302, art. 3.
 
 
 
@@ -2268,10 +2273,12 @@ dans cet endroit.
 
 **413** 
 
-- **(1)** Pour l’application de la présente partie, lorsqu’une société ne réside pas au Canada, « les traitements et salaires versés pendant l’année » par la société ne comprennent pas les traitements et salaires versés aux employés d’un établissement stable situé à l’étranger.
+- **(1)** Pour l’application de la présente partie, lorsqu’une société ne réside pas au Canada, « les traitements et salaires versés pendant l’année » par la société ne comprennent pas les traitements et salaires versés aux employés d’un établissement stable situé à l’étranger.
 
-- **(2)** Aux fins de l’alinéa 402(3)a), lorsqu’une société ne réside pas au Canada la «totalité des recettes brutes de l’année» de la société ne comprend pas les recettes brutes raisonnablement attribuables à un établissement stable hors du Canada.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-686, art. 79(F); 2009, ch. 2, art. 95.
+- **(2)** Aux fins de l’alinéa 402(3)a), lorsqu’une société ne réside pas au Canada la « totalité des recettes brutes de l’année » de la société ne comprend pas les recettes brutes raisonnablement attribuables à un établissement stable hors du Canada.
+
+- **(3)** Pour l’application de l’alinéa 404(1)b), le passage « au total des prêts et dépôts de la banque pour l’année » est remplacé, dans le cas d’une banque étrangère autorisée, par « au total des prêts et dépôts de la banque pour l’année relatifs à son entreprise bancaire canadienne ».
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-686, art. 79(F); 2009, ch. 2, art. 95; DORS/2009-302, art. 4.
 
 
 
@@ -2486,18 +2493,18 @@ sont chacun déclaré un impôt d’application générale sur le revenu tiré d
 ### Assureurs non résidants enregistrés
 
 
-**800** Aux fins du paragraphe 215(4) de la Loi, les paragraphes 215(1), (2) et (3) de la Loi ne s’appliquent pas aux montants versés ou crédités à un assureur non résidant enregistré.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-424, art. 1.
+**800** Les paragraphes 215(1), (2) et (3) de la Loi ne s’appliquent pas aux sommes versées aux assureurs non-résidents enregistrés ou portées à leur crédit.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-424, art. 1; DORS/2009-302, art. 5.
 
 
 
 
 
-### Production de déclarations par les assureurs non résidants
+### Production de déclarations par des assureurs non-résidents enregistrés
 
 
-**801** Pour l’application du paragraphe 215(4) de la Loi, le contribuable qui est un assureur non résidant enregistré au cours d’une année d’imposition doit produire au ministre une déclaration à cet égard sur le formulaire prescrit dans les six mois suivant la fin de l’année.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-424, art. 1; DORS/88-165, art. 31(F); DORS/90-661, art. 1.
+**801** Le contribuable qui est un assureur non-résident enregistré au cours d’une année d’imposition est tenu de produire une déclaration pour l’année, sur le formulaire prescrit, et de la présenter au ministre au plus tard à la date d’échéance de production qui lui est applicable pour l’année.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-424, art. 1; DORS/88-165, art. 31(F); DORS/90-661, art. 1; DORS/2009-302, art. 5 et 14.
 
 
 
@@ -2506,18 +2513,24 @@ sont chacun déclaré un impôt d’application générale sur le revenu tiré d
 ### Sommes imposables
 
 
-**802** Aux fins de l’alinéa 214(13)c) de la Loi, les sommes imposables en vertu de la Partie XIII de la Loi pour une année d’imposition pertinente d’un contribuable sont celles qui ont été versées ou créditées au contribuable pendant l’année d’imposition pertinente, autres que les sommes comprises, en vertu de la Partie I de la Loi, dans le calcul du revenu du contribuable découlant d’une entreprise qu’il a exploitée au Canada.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-424, art. 1.
+**802** Les sommes qui sont imposables en vertu de la partie XIII de la Loi au cours d’une année d’imposition du contribuable qui est un assureur non-résident enregistré au cours de l’année sont celles qui ont été versées au contribuable, ou portées à son crédit, au cours de l’année, à l’exception de celles qui ont été incluses en vertu de la partie I de la Loi dans le calcul du revenu du contribuable provenant d’une entreprise qu’il exploite au Canada.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-424, art. 1; DORS/2009-302, art. 5.
 
 
 
 
 
-### Paiement d’impôt par les assureurs non résidants
+### Paiement de l’impôt par les assureurs non-résidents enregistrés
 
 
-**803** Aux fins du paragraphe 215(4) de la Loi, un contribuable doit payer au Receveur général, au plus tard le dernier jour où la déclaration à l’égard d’une année d’imposition pertinente doit être produite en vertu de l’article 801, l’impôt payable par le contribuable en vertu de la Partie XIII de la Loi sur les sommes visées à l’article 802 à l’égard de l’année d’imposition pertinente.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-424, art. 1.
+**803** Le contribuable qui est un assureur non-résident enregistré au cours d’une année d’imposition est tenu de payer au receveur général, au plus tard à la date d’échéance de production qui lui est applicable pour l’année, le montant d’impôt à payer par lui pour l’année en vertu de la partie XIII de la Loi.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/79-424, art. 1; DORS/2009-302, art. 5 et 14.
+
+
+
+
+**803.1** [Abrogé, DORS/2009-302, art. 5]
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2009-302, art. 5.
 
 
 
@@ -2538,16 +2551,20 @@ sont chacun déclaré un impôt d’application générale sur le revenu tiré d
 
 
 
-**805** 
+**805** Sous réserve de l’article 802, toute personne non-résidente qui exploite une entreprise au Canada est assujettie à l’impôt prévu à la partie XIII de la Loi sur les sommes imposables par ailleurs en vertu de cette partie, sauf les suivantes :
+- **a)** les sommes qu’il est raisonnable d’attribuer à l’entreprise que la personne exploite par l’intermédiaire d’un établissement stable, au sens de l’article 8201, au Canada;
+- **b)** les sommes qui sont à inclure, en application du sous-alinéa 115(1)a)(iii.3) de la Loi, dans le calcul du revenu imposable de la personne gagné au Canada pour l’année.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/81-656, art. 1; DORS/84-948, art. 3; DORS/88-165, art. 3; DORS/94-686, art. 50(F) et 79(F); DORS/2009-302, art. 6.
 
-- **(1)** Toute personne non-résidente qui exploite une entreprise au Canada est imposable en vertu de la partie XIII de la Loi sur tous les montants par ailleurs imposables en vertu de cette partie, sauf les montants qui
-	- **a)** peuvent raisonnablement être attribués à l’entreprise qu’elle exploite par l’entremise d’un établissement stable — qui s’entend au sens du paragraphe 400(2) ou s’y entendrait si la personne était une société — situé au Canada; ou
-	- **b)** doivent, en vertu du sous-alinéa 115(1)a)(iii.3) de la Loi, être inclus dans le calcul de son revenu imposable gagné dans l’année au Canada.
 
-- **(2)** Lorsque le ministre est convaincu qu’aux termes du paragraphe (1), un montant n’est pas imposable en vertu de la partie XIII de la Loi, il peut permettre que le paiement soit effectué à la personne non-résidente sans qu’il ne soit fait aucune déduction en vertu de l’article 215 de la Loi.
 
-- **(3)** Les paragraphes (1) et (2) ne s’appliquent pas à l’égard des montants sur lesquels l’impôt en vertu de la partie XIII de la Loi est payable dans une année d’imposition pertinente par un contribuable tenu, en vertu de l’article 801, de produire la déclaration mentionnée audit article à l’égard de cette année-là.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/81-656, art. 1; DORS/84-948, art. 3; DORS/88-165, art. 3; DORS/94-686, art. 50(F) et 79(F).
+
+
+### Certificat
+
+
+**805.1** Si une personne présente au ministre en vertu du présent article une demande concernant le paiement prévu d’une somme à la personne, ou l’inscription prévue d’une somme à son crédit, et que le ministre établit que la somme est visée aux alinéas 805a) ou b), le ministre délivre à la personne un certificat confirmant que la somme est ainsi visée.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2009-302, art. 6.
 
 
 
@@ -2600,12 +2617,13 @@ sont chacun déclaré un impôt d’application générale sur le revenu tiré d
 
 **808** 
 
-- **(1)** Aux fins de l’alinéa 219 (1)h) de la Loi, l’allocation d’une société pour une année d’imposition à l’égard de ses investissements dans des biens situés au Canada est fixée à toute partie du montant
-	- **a)** des investissements admissibles de la société dans des biens situés au Canada à la fin de l’année,
-qui est en sus
-	- **b)** du total obtenu en additionnant
+- **(1)** Pour l’application de l’alinéa 219(1)j) de la Loi, l’allocation d’une société (sauf une banque étrangère autorisée) pour une année d’imposition à l’égard de ses investissements dans des biens situés au Canada correspond à l’excédent de la somme visée à l’alinéa a) sur celle visée à l’alinéa b) :
+	- **a)** les investissements admissibles de la société dans des biens situés au Canada à la fin de l’année;
+	- **b)** le total des sommes suivantes :
 		- **(i)** toutes les allocations calculées en vertu du présent article, tel qu’il s’appliquait à chacune des années d’imposition de la société se terminant avant 1972, dans la mesure où, pour ces années d’imposition, ces allocations ont réduit le montant sur lequel la société était imposable en application du paragraphe 110B(1) de la Loi, tel qu’il s’appliquait à ces années d’imposition, et
 		- **(ii)** le capital investi par la société dans des biens situés au Canada à la fin de l’année d’imposition 1960 de la société, fixé en vertu du présent article tel qu’il s’appliquait à l’année d’imposition 1961.
+
+- **(1.1)** Malgré les paragraphes (1) et (8), pour l’application de l’alinéa 219(1)j) de la Loi, l’allocation d’une société à l’égard de ses investissements dans des biens situés au Canada, pour sa dernière année d’imposition se terminant avant le moment où elle devient un résident du Canada, est nulle.
 
 - **(2)** Aux fins du paragraphe (1), lorsque, à la fin d’une année d’imposition, une société n’est pas associé d’une société de personnes qui exploitait une entreprise au Canada à une date quelconque de l’année, pour la société, «l’investissement admissible dans des biens situés au Canada à la fin de l’année» est la partie, s’il en est, du total obtenu en additionnant
 	- **a)** le coût indiqué, pour la société, à la fin de l’année, des terrains qu’elle possède au Canada à ce moment afin de tirer un revenu d’une entreprise exploitée par elle au Canada, ou de lui faire produire un revenu, autres que les terrains qui sont
@@ -2615,27 +2633,24 @@ qui est en sus
 		- **(iv)** des terrains dont le coût est ou a été déductible lors du calcul du revenu de la société,
 	- **b)** un montant égal au total du coût indiqué, pour la société, immédiatement après la fin de l’année, de chaque bien amortissable qu’elle possède au Canada afin de tirer un revenu d’une entreprise exploitée par elle au Canada, ou de lui faire produire un revenu,
 	- **c)** un montant égal aux 4/3 du montant cumulatif des immobilisations admissibles de la société, immédiatement après la fin de l’année, au titre de chaque entreprise qu’elle exploite au Canada,
-	- **d)** lorsque la société n’est pas une société exploitant une entreprise principale, au sens de l’alinéa 66(15)h) de la Loi, un montant égal au total
-		- **(i)** des frais d’exploration ou d’aménagement au Canada, au sens de l’alinéa 66(15)b) de la Loi, supportés par la société avant la fin de l’année, dans la mesure où ils n’ont pas été déduits par la société lors du calcul de son revenu pour l’année ou pour une année d’imposition antérieure, et
-		- **(ii)** des frais cumulatifs d’exploration au Canada, au sens de l’alinéa 66.1(6)b) de la Loi, à la fin de l’année moins toute déduction en vertu du paragraphe 66.1(3) de la Loi dans le calcul du revenu de la société pour l’année,
-	- **d.1)** un montant égal aux frais cumulatifs d’aménagement au Canada de la société, au sens de l’alinéa 66.2(5)b) de la Loi, à la fin de l’année moins toute déduction en vertu du paragraphe 66.2(2) de la Loi dans le calcul du revenu de la société pour l’année,
-	- **d.2)** un montant égal aux frais cumulatifs à l’égard de biens canadiens relatifs au pétrole et au gaz de la société, au sens de l’alinéa 66.4(5)b) de la Loi, à la fin de l’année, moins toute déduction permise en vertu du paragraphe 66.4(2) de la Loi dans le calcul du revenu de la société pour l’année,
+	- **d)** lorsque la société n’est pas une société exploitant une entreprise principale, au sens du paragraphe 66(15) de la Loi, une somme égale au total des frais suivants :
+		- **(i)** les frais d’exploration et d’aménagement au Canada engagés par la société avant la fin de l’année, dans la mesure où ils n’ont pas été déduits dans le calcul du revenu de la société pour l’année ou pour une année d’imposition antérieure,
+		- **(ii)** les frais cumulatifs d’exploration au Canada, au sens du paragraphe 66.1(6) de la Loi, à la fin de l’année, moins toute somme déduite en application du paragraphe 66.1(3) de la Loi dans le calcul du revenu de la société pour l’année;
+	- **d.1)** une somme égale aux frais cumulatifs d’aménagement au Canada de la société, au sens du paragraphe 66.2(5) de la Loi, à la fin de l’année, moins toute somme déduite en application du paragraphe 66.2(2) de la Loi dans le calcul du revenu de la société pour l’année;
+	- **d.2)** une somme égale aux frais cumulatifs à l’égard de biens canadiens relatifs au pétrole et au gaz de la société, au sens du paragraphe 66.4(5) de la Loi, à la fin de l’année, moins toute somme déduite en application du paragraphe 66.4(2) de la Loi dans le calcul du revenu de la société pour l’année;
 	- **e)** un montant égal au total du coût indiqué, pour la société à la fin de l’année, de chaque créance à recouvrer par elle, ou de tout autre droit de la société de recevoir un montant, qui était impayé par la suite de la disposition par elle de biens à l’égard desquels un montant serait inclus, en vertu de l’alinéa a), b), c) ou h) dans ses investissements admissibles dans des biens situés au Canada, à la fin de l’année si les biens n’avaient pas fait l’objet d’une disposition par elle avant la fin de l’année,
 	- **f)** un montant égal au total du coût indiqué, pour la société, à la fin de l’année, de chaque bien, autre que des avoirs miniers canadiens, qui figurait à l’inventaire de la société à l’égard d’une entreprise exploitée par elle au Canada,
 	- **g)** un montant égal au total du coût indiqué, pour la société, à la fin de l’année, de chaque créance (autre qu’une créance visée à l’alinéa e) ou une créance dont le montant a été déduit en vertu de l’alinéa 20(1)p) de la Loi lors du calcul du revenu de la société pour l’année) à recouvrer par elle
 		- **(i)** à l’égard de toute transaction en vertu de laquelle un montant a été inclus lors du calcul de son revenu pour l’année ou pour une année antérieure, d’une entreprise exploitée par elle au Canada, ou
 		- **(ii)** lorsqu’une partie quelconque de ses activités habituelles exercées au Canada consistait à prêter de l’argent, à l’égard d’un prêt consenti par la société dans le cours normal des activités de cette partie de son entreprise,
-	- **h)** lorsqu’une société résidait au Canada à un moment quelconque de l’année, un montant égal au total du coût indiqué, pour la société, à la fin de l’année, de tout bien situé au Canada lui appartenant et
-		- **(i)** dont le coût indiqué, pour elle, n’est pas inclus, en vertu de l’alinéa a) ou b) ou du sous-alinéa g)(i), dans ses investissements admissibles dans les biens situés au Canada à la fin de l’année, mais y serait inclus si ces dispositions faisaient abstraction de l’expression «d’une entreprise exploitée par elle au Canada»,
-		- **(ii)** qui est une action du capital-actions d’une société qui ne figurait pas à l’inventaire de la société à l’égard d’une entreprise exploitée par elle au Canada, ou
-		- **(iii)** qui est une obligation, une débenture, une lettre de change, un billet, une hypothèque ou un titre semblable qui ne figurait pas à l’inventaire de la société à l’égard d’une entreprise exploitée par elle au Canada (autre qu’un titre visé au sous-alinéa (3)a)(iii), une créance visée aux alinéas e) ou g) ou une créance dont le montant a été déduit, en vertu de l’alinéa 20(1)p) de la Loi, lors du calcul du revenu de la société pour l’année), et
+	- **h)** [Abrogé, DORS/2009-302, art. 7]
 	- **i)** un montant égal aux avoirs liquides admissibles de la société à la fin de l’année,
 qui est en sus du total obtenu en additionnant
 	- **j)** un montant égal au total des montants que la société a déduits en application des alinéas 20(1)l), l.1) ou n) ou des paragraphes 64(1), (1.1) ou (1.2) de la Loi dans le calcul de son revenu pour l’année provenant d’une entreprise qu’elle exploite au Canada;
 	- **k)** un montant égal au total de tous les montants dont chacun est un montant déduit par la société dans l’année, en vertu du sous-alinéa 40(1)a)(iii) ou 44(1)e)(iii) de la Loi, à l’égard d’une créance visée à l’alinéa e);
 	- **l)** un montant égal au total de chaque montant que doit la société à la fin de l’année au titre
-		- **(i)** du prix d’achat de biens visés à l’alinéa a), b), f) ou h) ou qui seraient ainsi visés s’ils n’avaient fait l’objet d’une disposition avant la fin de l’année,
-		- **(ii)** de frais d’exploration et d’aménagement au Canada, de frais d’exploration au Canada, de frais d’aménagement au Canada ou de frais à l’égard de biens canadiens relatifs au pétrole et au gaz, au sens des alinéas 66(15)b), 66.1(6)a), 66.2(5)a) et 66.4(5)a) de la Loi, respectivement,
+		- **(i)** du prix d’achat de biens qui sont visés aux alinéas a), b) ou f) ou qui le seraient s’ils n’avaient pas fait l’objet d’une disposition avant la fin de l’année,
+		- **(ii)** de frais d’exploration et d’aménagement au Canada, de frais d’exploration au Canada, de frais d’aménagement au Canada ou de frais à l’égard de biens canadiens relatifs au pétrole et au gaz,
 		- **(iii)** de dépenses en capital admissible faite ou supportée par la société avant la fin de l’année à l’égard d’une entreprise exploitée par elle au Canada, ou
 		- **(iv)** de toute autre dépense engagée ou effectuée par la société dans la mesure où elle a été déduite lors du calcul de son revenu pour l’année ou pour une année d’imposition antérieure, tiré d’une entreprise exploitée par elle au Canada;
 	- **m)** un montant égal au total de tous les montants dont chacun est égal à la proportion du montant dû (sauf un montant dû au titre de dépenses visées à l’alinéa l)) par la société à la fin de l’année au titre d’un engagement en cours à un moment quelconque de l’année à l’égard duquel il est stipulé qu’elle doit payer l’intérêt qui équivaut au rapport entre
@@ -2644,25 +2659,18 @@ qui est en sus du total obtenu en additionnant
 	- **n)** la fraction, s’il en est,
 		- **(i)** de la partie (appelée dans le présent alinéa «montant à payer selon la partie I»), s’il en est, de l’impôt payable pour l’année par la société, en vertu de la partie I de la Loi, qui est en sus du montant, s’il en est, payé par la société avant la fin de l’année à ce titre,
 qui est en sus,
-		- **(ii)** lorsque la société, au cours de l’année, ne résidait pas au Canada, de la proportion du montant à payer selon la partie I qui équivaut au rapport entre le montant, s’il en est, déterminé en vertu de l’alinéa 219(1)d) de la Loi à l’égard de la société pour l’année et le montant imposable de la société (au sens que donne à cette expression l’article 123 de la Loi) pour l’année, ou
-		- **(iii)** dans tous les autres cas, d’un montant nul;
+		- **(ii)** de la proportion du montant d’impôt à payer en vertu de la partie I que représente le rapport entre la moins élevée des sommes ci-après, relativement à la société pour l’année, et le revenu imposable de la société gagné au Canada pour l’année :
+			- **(A)** l’excédent du total des sommes dont chacune représente un gain en capital imposable de la société pour l’année provenant de la disposition d’un bien canadien imposable qu’elle n’utilisait pas ni ne détenait au cours de l’année dans le cadre de l’exploitation d’une entreprise au Canada sur le total des sommes dont chacune représente une perte en capital déductible de la société pour l’année résultant de la disposition d’un tel bien,
+			- **(B)** la somme qui serait déterminée pour l’année selon la division (A) s’il n’était pas tenu compte du passage « qu’elle n’utilisait pas ni ne détenait au cours de l’année dans le cadre de l’exploitation d’une entreprise au Canada »;
+		- **(iii)** [Abrogé, DORS/2009-302, art. 7]
 	- **o)** la fraction, s’il en est,
 		- **(i)** de la partie (appelée dans le présent alinéa «montant d’impôt provincial à payer»), s’il en est, de tout impôt sur le revenu payable pour l’année par la société au gouvernement d’une province (dans la mesure où cet impôt n’était pas déductible en vertu de la partie I de la Loi lors du calcul du revenu de la société tiré d’une entreprise exploitée par elle au Canada) qui est en sus du montant, s’il en est, payé par la société avant la fin de l’année à ce titre,
 qui est en sus,
-		- **(ii)** lorsque la société, au cours de l’année, ne résidait pas au Canada, de la proportion du montant d’impôt provincial à payer qui équivaut au rapport entre le montant, s’il en est, déterminé en vertu de l’alinéa 219(1)d) de la Loi à l’égard de la société pour l’année et le montant imposable de la société (au sens que donne à cette expression l’article 123 de la Loi) pour l’année, ou
-		- **(iii)** dans tous les autres cas, d’un montant nul; et,
-	- **p)** lorsque la société résidait au Canada à un moment quelconque de l’année, un montant égal au total obtenu en additionnant
-		- **(i)** un montant égal au total des montants que la société a déduits au cours de l’année en application des alinéas 20(1)l) ou l.1) ou des paragraphes 64(1), (1.1) ou (1.2) de la Loi dans le calcul de son revenu pour l’année provenant d’une autre source
-			- **(A)** qu’une entreprise exploitée par elle au Canada, ou
-			- **(B)** qu’un bien situé hors du Canada,
-		- **(ii)** un montant égal au total de tous les montants que doit la société à la fin de l’année au titre des dépenses engagées ou effectuées par la société dans la mesure où elles ont été déduites lors du calcul de son revenu pour l’année ou pour une année d’imposition antérieure, tiré d’une autre source
-			- **(A)** qu’une entreprise exploitée par elle au Canada, ou
-			- **(B)** qu’un bien situé hors du Canada, et
-		- **(iii)** un montant égal au total de tous les montants dont chacun est égal à la proportion du montant dû (sauf un montant dû au titre de dépenses visées au sous-alinéa (ii) ou à l’alinéa l)), par la société à la fin de l’année, au titre d’un engagement en cours à un moment quelconque de l’année, à l’égard duquel il est stipulé qu’elle doit payer l’intérêt, qui équivaut au rapport entre
-			- **(A)** l’intérêt payé ou payable par la société sur l’engagement pour l’année et qui est déductible, ou le serait si ce n’était du paragraphe 18(2), (3.1) ou (4) de l’article 21 de la Loi, dans le calcul de son revenu pour l’année tiré d’une autre source
-				- **(I)** qu’une entreprise exploitée par elle au Canada, ou
-				- **(II)** qu’un bien situé hors du Canada,et
-			- **(B)** l’intérêt payé ou payable par la société sur l’engagement pour l’année.
+		- **(ii)** de la proportion du montant d’impôt provincial à payer que représente le rapport entre la moins élevée des sommes ci-après, relativement à la société pour l’année, et le revenu imposable de la société gagné au Canada pour l’année :
+			- **(A)** l’excédent du total des sommes dont chacune représente un gain en capital imposable de la société pour l’année provenant de la disposition d’un bien canadien imposable qu’elle n’utilisait pas ni ne détenait au cours de l’année dans le cadre de l’exploitation d’une entreprise au Canada sur le total des sommes dont chacune représente une perte en capital déductible de la société pour l’année résultant de la disposition d’un tel bien,
+			- **(B)** la somme qui serait déterminée pour l’année selon la division (A) s’il n’était pas tenu compte du passage « qu’elle n’utilisait pas ni ne détenait au cours de l’année dans le cadre de l’exploitation d’une entreprise au Canada ».
+		- **(iii)** [Abrogé, DORS/2009-302, art. 7]
+	- **p)** [Abrogé, DORS/2009-302, art. 7]
 
 - **(3)** Aux fins de l’alinéa (2)i), les «avoirs liquides admissibles de la société à la fin de l’année» constituent une somme égale au plus petit des montants suivants :
 	- **a)** le total obtenu en additionnant
@@ -2701,7 +2709,7 @@ qui est en sus du total obtenu en additionnant
 	- **i)** un montant égal au total de tous les montants dont chacun est un montant déduit par la société de personnes au cours de son exercice, en vertu du sous-alinéa 40(1)a)(iii) ou 44(1)e)(iii) de la Loi, à l’égard d’une créance visée à l’alinéa d);
 	- **j)** un montant égal au total de chaque montant que doit la société de personnes à la fin de l’exercice au titre
 		- **(i)** du prix d’achat de biens visés à l’alinéa a), b) ou e), ou qui seraient ainsi visés s’ils n’avaient fait l’objet d’une disposition avant la fin de l’exercice,
-		- **(ii)** de frais d’exploration et d’aménagement au Canada, de frais d’exploration au Canada, de frais d’aménagement au Canada ou de frais à l’égard de biens canadiens relatifs au pétrole et au gaz, au sens des alinéas 66(15)b), 66.1(6)a), 66.2(5)a) et 66.4(5)a) de la Loi, respectivement,
+		- **(ii)** de frais d’exploration et d’aménagement au Canada, de frais d’exploration au Canada, de frais d’aménagement au Canada ou de frais à l’égard de biens canadiens relatifs au pétrole et au gaz,
 		- **(iii)** de dépense en capital admissible faite ou supportée par la société de personnes avant la fin de l’exercice à l’égard d’une entreprise exploitée par elle au Canada, ou
 		- **(iv)** de toute autre dépense engagée ou effectuée par la société de personnes dans la mesure où elle a été déduite lors du calcul de son revenu pour l’exercice ou pour un exercice précédent, ou lors du calcul du revenu d’un associé de la société de personnes, pour une année d’imposition antérieure, tiré d’une entreprise exploitée au Canada par la société de personnes; et
 	- **k)** un montant égal au total de tous les montants dont chacun est égal à la proportion du montant dû (sauf un montant dû au titre de dépenses visées à l’alinéa j)) par la société de personnes à la fin de l’exercice au titre d’un engagement en cours à un moment quelconque de l’exercice, à l’égard duquel il est stipulé qu’elle doit payer l’intérêt, qui équivaut au rapport entre
@@ -2710,7 +2718,7 @@ et
 		- **(ii)** l’intérêt payé ou payable par la société de personnes sur l’engagement à l’égard de l’exercice.
 
 - **(6)** Aux fins de l’alinéa (5)g), les «avoirs liquides admissibles de la société de personnes à la fin de l’exercice» constituent une somme égale au plus petit des montants suivants :
-	- **a)** le total obtenu en additionnant
+	- **a)** la total des sommes ci-après (dans la mesure où elles sont attribuables aux bénéfices de la société de personnes tirés de l’exploitation d’une entreprise au Canada ou sont utilisées ou détenues par la société de personnes au cours de l’année dans le cadre de l’exploitation d’une entreprise au Canada) :
 		- **(i)** le montant en monnaie canadienne que détient la société de personnes à la fin de cet exercice,
 		- **(ii)** le solde porté au crédit de la société de personnes à la fin de cet exercice au titre des montants déposés dans une succursale ou un autre bureau au Canada
 			- **(A)** d’une banque,
@@ -2723,7 +2731,28 @@ par
 		- **(ii)** le nombre de mois de cet exercice.
 
 - **(7)** Les paragraphes (4) à (6) seront interprétés comme si chacune des suppositions des alinéas 96(1)a) à g) de la Loi y étaient faites.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/81-656, art. 2; DORS/84-948, art. 4; DORS/90-258, art. 1; DORS/91-78, art. 2; DORS/93-395, art. 1; DORS/94-686, art. 8(F), 47, 58(F) à 61(F), 62, 63(F) à 65(F), 78(F), 79(F) et 81(F).
+
+- **(8)** Pour l’application de l’alinéa 219(1)j) de la Loi, l’allocation d’une banque étrangère autorisée pour une année d’imposition à l’égard de ses investissements dans des biens situés au Canada correspond à l’excédent de la somme visée à l’alinéa a) sur celle visée à l’alinéa b) :
+	- **a)** la moyenne des sommes représentant chacune la plus élevée des sommes ci-après pour une période de calcul (au sens du paragraphe 20.2(1) de la Loi) de la banque pour l’année :
+		- **(i)** la somme obtenue par la formule suivante :
+```
+0,05 × A
+```
+où :
+- **A** représente la valeur de l’élément A des formules figurant au paragraphe 20.2(3) de la Loi pour la période,
+		- **(ii)** l’excédent de la somme visée à la division (A) sur celle visée à la division (B) :
+			- **(A)** le total des coûts indiqués pour la banque, à la fin de la période ou, s’il s’agit d’un bien amortissable ou d’une immobilisation admissible, immédiatement après la fin de l’année, de chaque élément d’actif se rapportant à l’entreprise bancaire canadienne de la banque qui est inscrit dans les documents comptables de l’entreprise de la manière dont il doit être traité aux fins d’établissement des états financiers de succursale, au sens du paragraphe 20.2(1) de la Loi, pour l’année,
+			- **(B)** le total des sommes suivantes :
+				- **(I)** la somme obtenue par la formule suivante :
+```
+D + AS
+```
+où :
+- **D** représente la valeur de l’élément D des formules figurant au paragraphe 20.2(3) de la Loi pour la période,
+- **AS** la valeur de l’élément AS des formules figurant au paragraphe 20.2(3) de la Loi pour la période,
+				- **(II)** la somme demandée par la banque selon la division 20.2(3)b)(ii)(A) de la Loi;
+	- **b)** le total des sommes représentant chacune une somme qui serait déterminée selon les alinéas (2)j), k), n) ou o) si ces dispositions s’appliquaient à la banque pour l’année, sauf dans la mesure où le montant correspond à une dette de la banque qui est incluse à l’élément D des formules figurant au paragraphe 20.2(3) de la Loi pour la dernière période de calcul de la banque pour l’année.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/81-656, art. 2; DORS/84-948, art. 4; DORS/90-258, art. 1; DORS/91-78, art. 2; DORS/93-395, art. 1; DORS/94-686, art. 8(F), 47, 58 à 61(F), 62, 63 à 65(F), 78(F), 79(F) et 81(F); DORS/2009-302, art. 7.
 
 
 
@@ -2762,24 +2791,8 @@ et le produit de la multiplication faite aux termes de l’alinéa d) est le mon
 
 
 
-
-### Biens exclus de personnes non-résidentes
-> [[NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ]
-
-
-
-**810** 
-
-- **(1)** Aux fins de l’alinéa 116(6)e) de la Loi, tout bien qui est
-	- **a)** un bien d’un assureur non résidant qui est une compagnie agréée d’assurance,
-	- **b)** une option portant sur un bien visé à l’un des alinéas 116(6)a) à d) de la Loi et à l’alinéa a), que ce bien existe ou non, ou
-	- **c)** une participation dans un bien visé a l’alinéa 116(6)a), c) ou d) de la Loi ou a l’alinéa a) ou b),
-est déclaré être un bien exclu.
-
-- **(2)** Aux fins du présent article, un assureur non résidant est une «compagnie agréée d’assurance» durant la période où
-	- **a)** il était autorisé, par voie de permis ou autrement, en vertu des lois du Canada ou d’une province, à exploiter au Canada une entreprise d’assurance; et où
-	- **b)** il a exploité au Canada une entreprise d’assurance, au sens que donne à cette expression le paragraphe 138(1) de la Loi.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-686, art. 57(F).
+**810** [Abrogé, DORS/2009-302, art. 8]
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/94-686, art. 57(F); DORS/2009-302, art. 8.
 
 
 
@@ -8214,18 +8227,26 @@ dépasse
 
 **2606** 
 
-- **(1)** Lorsque, dans le cas d’un particulier auquel l’article 2601 s’applique, l’ensemble des montants autrement établis comme étant son revenu pour l’année d’imposition provenant de l’exercice d’une entreprise, gagné dans toutes les provinces et dans tous les pays autres que le Canada, est supérieur à son revenu pour l’année, son revenu pour l’année provenant de l’exercice d’une entreprise, gagné dans une province particulière ou dans un pays particulier, est censé être la proportion de son revenu pour l’année que
-	- **a)** son revenu pour l’année provenant de l’exercice d’une entreprise dans la province ou dans le pays, tel qu’il est autrement établi,
-représente par rapport
-	- **b)** à cet ensemble.
+- **(1)** S’agissant d’un particulier auquel l’article 2601 s’applique, si le total des sommes, déterminées par ailleurs, qui représentent son revenu pour une année d’imposition tiré de l’exploitation d’une entreprise, gagné dans toutes les provinces et dans tous les pays étrangers, est supérieur à son revenu pour l’année, son revenu pour l’année tiré de l’exploitation d’une entreprise, gagné dans une province donnée ou dans un pays étranger donné, est réputé correspondre à la proportion de son revenu pour l’année que représente le rapport entre :
+	- **a)** d’une part, son revenu pour l’année tiré de l’exploitation d’une entreprise dans la province ou le pays en cause, déterminé par ailleurs;
+	- **b)** d’autre part, ce total.
 
-- **(2)** Lorsque l’article 114 de la Loi s’applique aux fins d’établir le revenu imposable d’un particulier pour l’année d’imposition, la mention au paragraphe (1) de «son revenu pour l’année d’imposition» doit s’interpréter comme étant une mention du montant de son revenu tel qu’il est établi aux fins de l’article 114 de la Loi et, aux fins de la présente partie, son revenu pour l’année d’imposition provenant de l’exercice d’une entreprise à tout endroit est calculé par rapport seulement à une entreprise dont le revenu est compris dans le calcul de son revenu imposable aux fins de l’article 114 de la Loi.
+- **(2)** Si l’article 114 de la Loi s’applique relativement à un particulier pour une année d’imposition, les règles suivantes s’appliquent :
+	- **a)** le passage du paragraphe (1) précédant l’alinéa a) est réputé avoir le libellé ci-après en ce qui concerne le particulier pour l’année :
+**2606** 
+
+	- **(1)** S’agissant d’un particulier auquel l’article 2601 s’applique, si le total des sommes, déterminées par ailleurs, qui représentent son revenu pour une année d’imposition tiré de l’exploitation d’une entreprise, gagné dans toutes les provinces et dans tous les pays étrangers, est supérieur à son revenu imposable pour l’année, son revenu pour l’année tiré de l’exploitation d’une entreprise, gagné dans une province donnée ou dans un pays étranger donné, est réputé correspondre à la proportion de son revenu imposable pour l’année que représente le rapport entre :
+
+
+	- **b)** pour l’application de la présente partie, le revenu du particulier pour l’année tiré de l’exploitation d’une entreprise à un endroit quelconque n’est calculé que par rapport au revenu tiré de cette entreprise qui est inclus dans le calcul du revenu imposable du particulier pour l’année.
 
 - **(3)** Aux fins des articles 2603 à 2605, lorsque le revenu imposable d’un particulier pour l’année d’imposition est calculé en conformité de l’article 115 de la Loi,
-	- **a)** la mention d’une «entreprise» est censée se rapporter uniquement à une entreprise qui était exercée en totalité ou en partie au Canada;
-	- **b)** la mention du «revenu pour l’année provenant de l’exercice d’une entreprise» est censée se rapporter uniquement au revenu pour l’année provenant de l’exercice d’une entreprise au Canada, tel qu’il est établi aux fins de l’article 115 de la Loi;
-	- **c)** la mention des «traitements et salaires versés dans l’année» est censée se rapporter aux traitements et salaires versés aux employés de ses établissements stables au Canada; et
-	- **d)** la mention des «recettes brutes totales pour l’année» provenant de l’entreprise est censée se rapporter aux recettes brutes totales qui peuvent raisonnablement être attribuées à ses établissements stables au Canada.
+	- **a)** la mention d’une « entreprise » est censée se rapporter uniquement à une entreprise qui était exercée en totalité ou en partie au Canada;
+	- **b)** la mention du « revenu pour l’année provenant de l’exercice d’une entreprise » est censée se rapporter uniquement au revenu pour l’année provenant de l’exercice d’une entreprise au Canada, tel qu’il est établi aux fins de l’article 115 de la Loi;
+	- **c)** la mention des « traitements et salaires versés dans l’année » est censée se rapporter aux traitements et salaires versés aux employés de ses établissements stables au Canada; et
+	- **d)** la mention des « recettes brutes totales pour l’année » provenant de l’entreprise est censée se rapporter aux recettes brutes totales qui peuvent raisonnablement être attribuées à ses établissements stables au Canada.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2009-302, art. 9.
+
 
 
 
@@ -10514,33 +10535,33 @@ mais le montant ainsi calculé ne doit pas dépasser le coût en main-d’oeuvre
 
 **5301** 
 
-- **(1)** Sous réserve des paragraphes (6) et (8), pour l’application des paragraphes 157(4) et 161(9) de la Loi, la première base des acomptes provisionnels d’une société pour une année d’imposition donnée est le produit du total des montants suivants par le rapport entre 365 et le nombre de jours de l’année d’imposition précédente :
+- **(1)** Sous réserve des paragraphes (6) et (8), pour l’application des paragraphes 157(4) et 161(9) de la Loi, la première base des acomptes provisionnels d’une société pour une année d’imposition donnée est le produit du total des montants suivants par le rapport entre 365 et le nombre de jours de l’année d’imposition précédente :
 	- **a)** l’impôt payable par la société aux termes de la partie I de la Loi pour l’année d’imposition précédente;
-	- **b)** le total de l’impôt payable par la société aux termes des parties I.3, VI et VI.1 de la Loi pour l’année d’imposition précédente.
+	- **b)** le total de l’impôt à payer par la société en vertu des parties VI, VI.1 et XIII.1 de la Loi pour l’année d’imposition précédente.
 
-- **(2)** Sous réserve des paragraphes (6) et (8) et aux fins des paragraphes 157(4) et 161(9) de la Loi, la «deuxième base des acomptes provisionnels» d’une société pour une année d’imposition donnée désigne le montant de la première base des acomptes provisionnels de la société pour l’année d’imposition qui précède immédiatement l’année d’imposition donnée.
+- **(2)** Sous réserve des paragraphes (6) et (8) et aux fins des paragraphes 157(4) et 161(9) de la Loi, la ***deuxième base des acomptes provisionnels*** d’une société pour une année d’imposition donnée désigne le montant de la première base des acomptes provisionnels de la société pour l’année d’imposition qui précède immédiatement l’année d’imposition donnée.
 
-- **(3)** Aux fins du paragraphe (1), lorsque le nombre de jours dans l’année d’imposition d’une société qui précède immédiatement l’année d’imposition donnée dont il est question dans ledit paragraphe est inférieur à 183 jours, le montant établi pour la société en vertu dudit paragraphe doit être le plus élevé des deux montants suivants :
+- **(3)** Aux fins du paragraphe (1), lorsque le nombre de jours dans l’année d’imposition d’une société qui précède immédiatement l’année d’imposition donnée dont il est question dans ledit paragraphe est inférieur à 183 jours, le montant établi pour la société en vertu dudit paragraphe doit être le plus élevé des deux montants suivants :
 	- **a)** le montant par ailleurs établi à son égard en vertu du paragraphe (1); et
-	- **b)** le montant qui serait établi à son égard aux termes du paragraphe (1) si la mention « l’année d’imposition précédente » était remplacée par « sa dernière année d’imposition, précédant l’année donnée, où le nombre de jours excède 182 ».
+	- **b)** le montant qui serait établi à son égard aux termes du paragraphe (1) si la mention « l’année d’imposition précédente » était remplacée par « sa dernière année d’imposition, précédant l’année donnée, où le nombre de jours excède 182 ».
 
 - **(4)** Par dérogation aux paragraphes (1) et (2), aux fins des paragraphes 157(4) et 161(9) de la Loi,
 	- **a)** lorsqu’une année d’imposition donnée d’une nouvelle société qui a été créée par suite d’une fusion (au sens de l’article 87 de la Loi) est sa première année d’imposition,
-		- **(i)** sa « première base des acomptes provisionnels » pour cette année s’entend du total des montants dont chacun représente le produit de la multiplication du total des montants suivants payables par une société remplacée, au sens de l’article 87 de la Loi, pour sa dernière année d’imposition, par le rapport entre 365 et le nombre de jours de cette année :
+		- **(i)** sa ***première base des acomptes provisionnels*** pour cette année s’entend du total des montants dont chacun représente le produit de la multiplication du total des montants suivants payables par une société remplacée, au sens de l’article 87 de la Loi, pour sa dernière année d’imposition, par le rapport entre 365 et le nombre de jours de cette année :
 			- **(A)** l’impôt payable aux termes de la partie I de la Loi,
-			- **(B)** le total de l’impôt payable aux termes des parties I.3, VI et VI.1 de la Loi,
-		- **(ii)** sa «deuxième base des acomptes provisionnels» pour une année donnée désigne le total de tous les montants dont chacun est un montant égal au montant de la première base des acomptes provisionnels d’une société remplacée pour sa dernière année d’imposition; et
+			- **(B)** le total de l’impôt à payer en vertu des parties VI, VI.1 et XIII.1 de la Loi,
+		- **(ii)** sa ***deuxième base des acomptes provisionnels*** pour une année donnée désigne le total de tous les montants dont chacun est un montant égal au montant de la première base des acomptes provisionnels d’une société remplacée pour sa dernière année d’imposition; et
 	- **b)** lorsqu’une année d’imposition donnée d’une nouvelle société visée à l’alinéa a) est sa deuxième année d’imposition,
-		- **(i)** sa «première base des acomptes provisionnels» pour l’année donnée désigne
+		- **(i)** sa ***première base des acomptes provisionnels*** pour l’année donnée désigne
 			- **(A)** lorsque le nombre de jours dans sa première année d’imposition est supérieur à 182, le montant qui, si ce n’était de ce paragraphe, serait établi en vertu du paragraphe (1) pour l’année, et
 			- **(B)** dans tout autre cas, le plus élevé du montant qui serait, si ce n’était de ce paragraphe, établi en vertu du paragraphe (1) pour l’année et sa première base des acomptes provisionnels pour sa première année d’imposition, et
-		- **(ii)** sa «deuxième base des acomptes provisionnels» pour cette année-là désigne le montant de la première base des acomptes provisionnels de la nouvelle société pour sa première année d’imposition.
+		- **(ii)** sa ***deuxième base des acomptes provisionnels*** pour cette année-là désigne le montant de la première base des acomptes provisionnels de la nouvelle société pour sa première année d’imposition.
 
-- **(5)** Aux fins du paragraphe (4), lorsque le nombre de jours dans la dernière année d’imposition d’une société remplacée est inférieur à 183, le montant calculé en vertu du sous-alinéa (4)a)(i) à l’égard de la société remplacée doit être le plus élevé des montants suivants :
+- **(5)** Aux fins du paragraphe (4), lorsque le nombre de jours dans la dernière année d’imposition d’une société remplacée est inférieur à 183, le montant calculé en vertu du sous-alinéa (4)a)(i) à l’égard de la société remplacée doit être le plus élevé des montants suivants :
 	- **a)** le montant qui serait par ailleurs établi en vertu du sous-alinéa (4)a)(i) à l’égard de la société remplacée; et
 	- **b)** le montant de la première base des acomptes provisionnels de la société remplacée pour sa dernière année d’imposition.
 
-- **(6)** Sous réserve du paragraphe (7), lorsqu’une filiale, au sens qu’en donne le paragraphe 88(1) de la Loi, est liquidée et que, à une date donnée au cours de la liquidation, la totalité ou la presque totalité des biens de la filiale a été attribuée à une société mère, au sens qu’en donne le paragraphe 88(1) de la Loi, les règles suivantes s’appliquent :
+- **(6)** Sous réserve du paragraphe (7), lorsqu’une filiale, au sens qu’en donne le paragraphe 88(1) de la Loi, est liquidée et que, à une date donnée au cours de la liquidation, la totalité ou la presque totalité des biens de la filiale a été attribuée à une société mère, au sens qu’en donne le paragraphe 88(1) de la Loi, les règles suivantes s’appliquent :
 	- **a)** au montant de la première base des acomptes provisionnels de la société mère pour son année d’imposition où tombe la date donnée doit s’ajouter le montant de la première base des acomptes provisionnels de la filiale pour son année d’imposition où tombe la date donnée;
 	- **b)** au montant de la deuxième base des acomptes provisionnels de la société mère pour son année d’imposition où tombe la date donnée doit s’ajouter le montant de la deuxième base des acomptes provisionnels de la filiale pour son année d’imposition où tombe la date donnée;
 	- **c)** au montant de la première base des acomptes provisionnels de la société mère pour son année d’imposition qui suit immédiatement son année d’imposition mentionnée à l’alinéa a) doit s’ajouter le montant qui est la fraction de la première base des acomptes provisionnels de la filiale pour son année d’imposition mentionnée à l’alinéa a) que représente
@@ -10551,7 +10572,7 @@ sur
 
 - **(7)** Le montant d’un acompte provisionnel d’impôt, qu’une société mère est réputée, en vertu du paragraphe 161(4.1) de la Loi, avoir été tenue de payer pour l’année d’imposition mentionnée aux alinéas (6)a) et b), avant la date donnée visée au paragraphe (6), doit être calculé comme si le paragraphe (6) ne s’appliquait pas à une attribution de biens mentionnée à ce paragraphe qui tombe après la date où l’acompte provisionnel devait au plus tard être versé.
 
-- **(8)** Sous réserve du paragraphe (9), lorsqu’une société (désignée comme «le cédant» dans le présent paragraphe) a cédé à une date donnée la totalité ou la presque totalité de ses biens à une autre société avec laquelle elle avait un lien de dépendance (désignée dans le présent paragraphe et dans le paragraphe (9) comme le «cessionnaire») et lorsque le paragraphe 85(1) ou (2) de la Loi s’appliquait à la disposition de n’importe quel de ces biens, les règles suivantes s’appliquent :
+- **(8)** Sous réserve du paragraphe (9), lorsqu’une société (appelée « cédant » au présent paragraphe) a disposé à une date donnée de la totalité ou de la presque totalité de ses biens en faveur d’une autre société avec laquelle elle avait un lien de dépendance (appelée « cessionnaire » au présent paragraphe et au paragraphe (9)) et que les paragraphes 85(1) ou (2) ou 142.7(3) de la Loi s’appliquaient à la disposition de l’un ou plusieurs de ces biens, les règles suivantes s’appliquent :
 	- **a)** au montant de la première base des acomptes provisionnels du cessionnaire pour son année d’imposition où tombe la date donnée doit s’ajouter le montant de la première base des acomptes provisionnels du cédant pour son année d’imposition où tombe la date donnée;
 	- **b)** au montant de la deuxième base des acomptes provisionnels du cessionnaire pour son année d’imposition où tombe la date donnée doit s’ajouter le montant de la deuxième base des acomptes provisionnels du cédant pour son année d’imposition où tombe la date donnée;
 	- **c)** au montant de la première base des acomptes provisionnels du cessionnaire pour son année d’imposition qui suit immédiatement son année d’imposition mentionnée à l’alinéa a) doit s’ajouter le montant qui est la fraction de la première base des acomptes provisionnels du cédant pour son année d’imposition mentionnée à l’alinéa a) que représente
@@ -10562,8 +10583,8 @@ sur
 
 - **(9)** Le montant d’un acompte provisionnel d’impôt, qu’un cessionnaire est réputé, en vertu du paragraphe 161(4.1) de la Loi, avoir été tenu de payer pour l’année d’imposition mentionnée aux alinéas (8)a) et b), avant la date donnée visée au paragraphe (8) doit être calculé comme si le paragraphe (8) ne s’appliquait pas à une disposition de biens mentionnée à ce paragraphe qui tombe le ou avant le jour où l’acompte provisionnel doit être payé.
 
-- **(10)** Pour l’application du présent article, l’impôt payable par une société aux termes des parties I, I.3 ou VI de la Loi pour une année d’imposition s’entend de son impôt payable pour l’année aux termes d’une de ces parties, déterminé avant la prise en compte des conséquences fiscales futures déterminées pour l’année.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-325, art. 2; DORS/81-855, art. 1; DORS/84-948, art. 14; DORS/85-696, art. 16; DORS/88-165, art. 27; DORS/89-409, art. 3; DORS/94-298, art. 1; DORS/94-686, art. 79(F); DORS/99-92, art. 2.
+- **(10)** Pour l’application du présent article, l’impôt à payer par une société en vertu des parties I, VI ou XIII.1 de la Loi pour une année d’imposition s’entend de son impôt à payer pour l’année en vertu de la partie pertinente, déterminé avant la prise en compte des conséquences fiscales futures déterminées pour l’année.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/78-325, art. 2; DORS/81-855, art. 1; DORS/84-948, art. 14; DORS/85-696, art. 16; DORS/88-165, art. 27; DORS/89-409, art. 3; DORS/94-298, art. 1; DORS/94-686, art. 79(F); DORS/99-92, art. 2; DORS/2009-302, art. 10.
 
 
 
@@ -13133,10 +13154,14 @@ où
 ## Institutions financières visées
 
 
-**7900** Les institutions financières suivantes sont visées pour l’application de l’article 33.1, de l’alinéa 95(2)a.3), de la division 212(1)b)(iii)(D) et du sous-alinéa 212(1)b)(xi) de la Loi :
-- **a)** les sociétés membres de l’Association canadienne des paiements;
-- **b)** les caisses de crédit qui sont des actionnaires ou des membres d’une personne morale ou d’une organisation qui est une centrale pour l’application de la Loi sur l’Association canadienne des paiements.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/90-285, art. 2; DORS/94-686, art. 79(F); DORS/97-505, art. 10.
+**7900** 
+
+- **(1)** Les institutions financières ci-après sont visées pour l’application de l’article 33.1 et des définitions de ***dépôt déterminé*** et ***revenu exclu*** au paragraphe 95(2.5) de la Loi :
+	- **a)** les membres de l’Association canadienne des paiements, à l’exclusion des banques étrangères autorisées;
+	- **b)** les caisses de crédit qui sont actionnaires ou membres d’une personne morale ou d’une organisation qui est une centrale pour l’application de la [Loi canadienne sur les paiements](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-21.md).
+
+- **(2)** Les banques étrangères autorisées sont des institutions financières visées pour l’application des définitions de ***dépôt déterminé*** et ***revenu exclu*** au paragraphe 95(2.5) de la Loi.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/90-285, art. 2; DORS/94-686, art. 79(F); DORS/97-505, art. 10; DORS/2009-302, art. 11.
 
 
 
@@ -18255,6 +18280,8 @@ où :
 	- **b)** aucune somme relative à la partie résiduelle n’est attribuée à une année d’imposition de la filiale qui est postérieure à son année d’imposition au cours de laquelle ses actifs sont passés à sa société mère;
 	- **c)** la fraction de la partie résiduelle qui est attribuée à l’année d’imposition de la société mère de la filiale au cours de laquelle les actifs de cette dernière sont passés à la société mère est déterminée selon l’hypothèse que cette année d’imposition a commencé au moment de ce passage.
 
+- **(2.1)** [Abrogé, DORS/2009-302, art. 12]
+
 **Transfert d’une entreprise d’assurance**
 
 - **(3)** Aucune somme relative à la partie résiduelle d’un gain ou d’une perte d’un assureur résultant de la disposition d’un titre de créance déterminé auquel s’applique le paragraphe 142.4(4) de la Loi n’est attribuée à une année d’imposition de l’assureur se terminant après qu’il a cessé d’exploiter la totalité ou la presque totalité d’une entreprise d’assurance, si les conditions suivantes sont réunies :
@@ -18275,12 +18302,16 @@ où :
 	- **b)** la disposition a été effectuée avant la cessation;
 	- **c)** le titre était un bien utilisé dans le cadre de l’entreprise.
 
+**Contribuable non-résident**
+
+- **(5.1)** Pour l’application du paragraphe (5), il est considéré qu’un contribuable non-résident cesse d’exploiter la totalité ou la presque totalité d’une entreprise s’il cesse d’exploiter, ou cesse d’exploiter au Canada, la totalité ou la presque totalité de la partie de l’entreprise qui était exploitée au Canada.
+
 **Contribuable qui cesse d’être une institution financière**
 
 - **(6)** Est attribuée à l’année d’imposition donnée d’un contribuable la fraction éventuelle de la partie résiduelle de son gain ou de sa perte résultant de la disposition d’un titre de créance déterminée auquel s’applique le paragraphe 142.4(4) de la Loi et qui n’a pas été attribuée à une année d’imposition précédente, si les conditions suivantes sont réunies :
 	- **a)** l’année donnée prend fin immédiatement avant le moment auquel le contribuable cesse d’être une institution financière autrement que pour avoir cessé d’exploiter une entreprise;
 	- **b)** la disposition a été effectuée avant la cessation.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2009-222, art. 7.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2009-222, art. 7; DORS/2009-302, art. 12.
 
 
 
