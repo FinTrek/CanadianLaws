@@ -86,11 +86,9 @@ Enabling authorities:
 
 and from which all internal organs, head, fins, bones, except intramuscular or lateral bones, and all discoloured flesh have been removed; (*filets*)
 
-***finfish*** means all species of the class *Osteichthyes*;(*poisson osseux*)
+***finfish***[Repealed, SOR/2009-314, s. 1]
 
-***fish export licence*** means a licence issued under subsection 15.1(1) that authorizes the holder to
-- **(a)** mechanically screen canned fish; and
-- **(b)** export live finfish that have been raised in an aquaculture operation.(*permis d’exportation de poisson*)
+***fish export licence*** means a licence issued under section 15.1; (*permis d’exportation de poisson*)
 
 ***fisher-packer*** means a fisher who is licenced to catch fish under the [Fisheries Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-14.md) and who processes their catch as whole or dressed unfrozen fish or as salted or pickled fish
 - **(a)** on board their vessel; or
@@ -202,7 +200,7 @@ and from which all internal organs, head, fins, bones, except intramuscular or l
 ***unwholesome***, with respect to fish, means fish that has in or upon it bacteria of public health significance or substances toxic or aesthetically offensive to man; (*malsain*)
 
 ***whitefish*** means fish of the species *Coregonus clupeaformis, Coregonus nasus or Prosopium cylindraceum*. (*poisson blanc*) 
-> SOR/80-360, s. 1; SOR/82-829, s. 1; SOR/82-845, s. 1; SOR/86-213, s. 1; SOR/92-75, s. 1; SOR/96-364, s. 1; SOR/98-2, s. 1; SOR/99-169, s. 1; SOR/2000-184, ss. 58, 59; SOR/2000-317, s. 16(F); SOR/2002-124, s. 1; SOR/2002-354, s. 18.
+> SOR/80-360, s. 1; SOR/82-829, s. 1; SOR/82-845, s. 1; SOR/86-213, s. 1; SOR/92-75, s. 1; SOR/96-364, s. 1; SOR/98-2, s. 1; SOR/99-169, s. 1; SOR/2000-184, ss. 58, 59; SOR/2000-317, s. 16(F); SOR/2002-124, s. 1; SOR/2002-354, s. 18; SOR/2009-314, s. 1.
 
 
 
@@ -216,7 +214,7 @@ and from which all internal organs, head, fins, bones, except intramuscular or l
 
 - **(1)** Subject to subsection (2), these Regulations apply only in respect of fish and containers intended for export or import.
 
-- **(2)** Subject to subsection 6(4), these Regulations do not apply to
+- **(2)** Subject to subsections (3) and 6(4), these Regulations do not apply to
 	- **(a)** fish that is imported or exported for personal consumption or use; or
 	- **(b)** a food that meets the following specifications, namely,
 		- **(i)** the food is a mixture of a fish product and a meat product,
@@ -227,7 +225,9 @@ and from which all internal organs, head, fins, bones, except intramuscular or l
 			- **(D)** the historical recognition of the food as a meat product,
 		- **(iii)** the food is processed in an establishment registered in accordance with the [Meat Inspection Regulations, 1990](/en/Regulations/Statutory%20Orders%20and%20Regulations/90/288.md) or a foreign establishment authorized to export meat products to Canada in accordance with those Regulations, and
 		- **(iv)** the fish product used in the preparation of the food originates from an establishment registered in accordance with these Regulations or the fish product has been imported into Canada in compliance with these Regulations.
-> SOR/86-213, s. 2; SOR/98-2, s. 2; SOR/2002-435, s. 1.
+
+- **(3)** Section 9.1 applies to fish that has been caught in accordance with a recreational or sport fishing licence issued under the [Fisheries Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-14.md) and that is to be exported for personal consumption or use to an importing country that requires that the fish be accompanied by an inspection certificate issued by the exporting country.
+> SOR/86-213, s. 2; SOR/98-2, s. 2; SOR/2002-435, s. 1; SOR/2009-314, s. 2.
 
 
 
@@ -530,8 +530,8 @@ and from which all internal organs, head, fins, bones, except intramuscular or l
 
 
 
-**6.6** No person who is the holder of a quality management import licence shall use a laboratory for the purpose of implementing and complying with their quality manangement program unless it has been recognized by the President of the Agency as being competent to conduct those services or has been accredited by the Standards Council of Canada.
-> SOR/98-2, s. 10.
+**6.6** No person who is the holder of a quality management import licence shall use a laboratory for the purpose of implementing and complying with their quality management program unless it has been recognized by the President of the Agency as being competent to conduct those services or has been accredited by the Standards Council of Canada.
+> SOR/98-2, s. 10; SOR/2009-314, s. 3(E).
 
 
 
@@ -567,8 +567,9 @@ and from which all internal organs, head, fins, bones, except intramuscular or l
 
 **9** 
 
-- **(1)** Where a person requests an inspection certificate for fish, an inspector shall
-	- **(a)** where the person operates the establishment in which the fish was processed, evaluate the request for certification based on a review of the establishment’s compliance with its quality management program, the Act and these Regulations to determine whether an inspection of the fish is required and, if it is required, inspect the fish; and
+- **(1)** Subject to section 9.1, if a person requests an inspection certificate for fish, an inspector shall
+	- **(a)** if the person operates a registered establishment and the fish was processed in that establishment, evaluate, based on a review of the establishment’s compliance with its quality management program, the Act and these Regulations, whether an inspection of the fish is required and, if it is required, inspect the fish;
+	- **(a.1)** if the person holds a fish export licence, evaluate, based on a review of the person’s compliance with the conditions of the licence, the Act and these Regulations, whether an inspection of the fish is required and, if it is required, inspect the fish; and
 	- **(b)** in any other case, inspect the fish.
 
 - **(2)** An inspector shall issue an inspection certificate for fish where
@@ -578,7 +579,20 @@ and from which all internal organs, head, fins, bones, except intramuscular or l
 - **(3)** A person who requests an inspection certificate for fish shall pay the applicable inspection service fee fixed by the Canadian Food Inspection Agency Fees Notice.
 
 - **(4)** [Repealed, SOR/2002-124, s. 6]
-> SOR/96-364, s. 4; SOR/2002-124, s. 6.
+> SOR/96-364, s. 4; SOR/2002-124, s. 6; SOR/2009-314, s. 4.
+
+
+
+
+**9.1** If an inspection certificate is requested for fish that has been caught in accordance with a recreational or sport fishing licence issued under the [Fisheries Act](/en/Acts/Revised%20Statutes%20of%20Canada/F/F-14.md) and that is to be exported for personal consumption or use to an importing country that requires that the fish be accompanied by an inspection certificate issued by the exporting country, an inspector shall issue the inspection certificate for the fish if
+- **(a)** the fish was not prepared for export in a registered establishment or by a person who holds a fish export licence; and
+- **(b)** the applicant provides the following information and documents:
+	- **(i)** a copy of the fishing licence or the fishing licence number,
+	- **(ii)** a description of the fish, including the species of the fish and its weight,
+	- **(iii)** the date on which the fish was caught,
+	- **(iv)** the business name and address of the establishment where the fish was prepared for export or the name and address of the person who prepared the fish for export, and
+	- **(v)** evidence to substantiate that the fish was eviscerated and packaged under sanitary conditions.
+> SOR/2009-314, s. 5.
 
 
 
@@ -642,26 +656,26 @@ and from which all internal organs, head, fins, bones, except intramuscular or l
 
 **14** 
 
-- **(1)** No person shall export fish, process fish for export or store fish for export unless the processing or storing of that fish is carried out in a registered establishment.
-
-- **(2)** Subsection (1) does not apply in respect of
-	- **(a)** fish imported into Canada by a holder of an import licence and that are intended for direct sale to consumers without further processing; or
-	- **(b)** final products produced in a registered establishment that, before being marketed, exported or made available to consumers, are temporarily stored in a cold-storage warehouse or other location that is not a registered establishment.
-
-- **(3)** For the purpose of subsection (1), “processing” does not include any of the following:
+- **(1)** For the purposes of this section, processing does not include
 	- **(a)** the washing, icing or boxing of live, whole or dressed unfrozen fish other than
 		- **(i)** shellfish and echinoderms,
 		- **(ii)** fish raised in an aquaculture operation, or
 		- **(iii)** crustaceans, excluding live lobster or live crab;
-	- **(b)** the freezing on board a vessel of whole or dressed fish that are destined for further processing in a registered establishment, other than shellfish, echinoderms or crustaceans excluding shrimp;
+	- **(b)** the freezing on board a vessel of whole or dressed fish that are destined for further processing in a registered establishment, other than shellfish, echinoderms or crustaceans, excluding shrimp;
 	- **(c)** the shucking of scallops to remove adductor muscles with or without roe attached, if carried out on board a vessel;
-	- **(d)** the processing of whole or dressed unfrozen fish, or the salting or pickling of whole, split or dressed unfrozen fish by fisher packers other than shellfish, echinoderms or crustaceans;
-	- **(e)** actions taken by fishers or processors at the time or point of catching, unloading, handling, holding or transporting fish to preserve its quality and safety before delivery to a registered establishment for the purpose of processing, storage or inspection before export, if such actions are done in accordance with these Regulations.
+	- **(d)** the evisceration of whole unfrozen fish or the salting or pickling of whole, split or dressed unfrozen fish, by fisher-packers, other than shellfish, echinoderms or crustaceans; or
+	- **(e)** actions taken by fishers or processors at the time or point of catching, unloading, handling, holding or transporting fish to preserve its quality and safety before delivery to a registered establishment for the purpose of processing, storage or inspection before export, if those actions are taken in accordance with these Regulations.
 
-- **(4)** If the President of the Agency, in writing, informs a fisher-packer who carries out an activity described in paragraph (3)(d) that there is serious contamination on board the vessel or onshore in the establishment where that activity is conducted:
-	- **(a)** no person shall process any fish on board that vessel or onshore in that establishment; and
-	- **(b)** no person shall export or attempt to export any fish that has been processed in that vessel or establishment.
-> SOR/89-218, s. 1; SOR/92-75, s. 2(F); SOR/94-58, s. 1; SOR/99-169, s. 3.
+- **(2)** Any person who processes or stores fish for export must do so in a registered establishment unless the person holds a fish export licence.
+
+- **(3)** No person shall export fish unless
+	- **(a)** all the processing and storage of the fish is carried out in a registered establishment; or
+	- **(b)** the person holds a fish export licence.
+
+- **(4)** Subsection (3) does not apply in respect of
+	- **(a)** fish that are imported into Canada by a holder of an import licence and that are intended for direct sale to consumers without further processing; or
+	- **(b)** final products that are produced in a registered establishment and that, before being marketed, exported or made available to consumers, are temporarily stored in a cold-storage warehouse or other location that is not a registered establishment.
+> SOR/89-218, s. 1; SOR/92-75, s. 2(F); SOR/94-58, s. 1; SOR/99-169, s. 3; SOR/2009-314, s. 6.
 
 
 
@@ -686,15 +700,15 @@ and from which all internal organs, head, fins, bones, except intramuscular or l
 
 
 
-**14.4** No person shall mechanically screen canned fish unless the operation is carried out in a registered establishment or by the holder of a fish export licence.
-> SOR/99-169, s. 3.
+**14.4** If the President of the Agency, in writing, informs a fisher-packer who carries out an activity described in paragraph 14(1)(d) that there is serious contamination in the place where the activity is carried out, whether on board the vessel or onshore in the establishment where that activity is carried out, no person shall
+- **(a)** process any fish on board that vessel or onshore in that establishment; or
+- **(b)** export or attempt to export any fish that has been processed on board that vessel or in that establishment.
+> SOR/99-169, s. 3; SOR/2009-314, s. 7.
 
 
 
 
-**14.5** No person shall export live finfish raised in an aquaculture operation unless all preparation of the finfish is carried out in a registered establishment or by the holder of a fish export licence.
-> SOR/99-169, s. 3.
-
+**14.5** [Repealed, SOR/2009-314, s. 8]
 
 
 
@@ -708,7 +722,7 @@ and from which all internal organs, head, fins, bones, except intramuscular or l
 	- **(e)** a process flow diagram that identifies each step in the process operation for each type of fish product; and
 	- **(f)** a detailed diagram of the establishment.
 
-- **(2)** The President of the Agency may exempt an applicant from providing the information referred to in paragraphs (1)(c) to (f) if it has been previously submitted to the Agency and there has been no change to the information.
+- **(2)** The applicant is not required to include in the application the information referred to in paragraphs (1)(c) to (f) if the applicant has previously provided the President of the Agency with that information, there has been no change to the information and there is a mention to that effect in the application.
 
 - **(3) to (5)** [Repealed, SOR/2002-124, s. 8]
 
@@ -779,47 +793,29 @@ and from which all internal organs, head, fins, bones, except intramuscular or l
 	- **(j)** in respect of every person responsible for supervising the development or implementation of the quality management program or performing or supervising a product preservation process, documentary evidence of their training, qualifications or job experience in fish or food processing or quality control; and
 	- **(k)** a list of all amendments made to the quality management program.
 
-### TABLES 1 TO 3
-[Repealed, SOR/2002-124, s. 8]
+**TABLES 1 TO 3** 
+### [Repealed, SOR/2002-124, s. 8]
 
-
-> SOR/83-110, s. 1; SOR/92-75, s. 3; SOR/96-364, s. 7; SOR/99-169, s. 3; SOR/2000-317, s. 17; SOR/2002-124, s. 8; SOR/2002-437, s. 1(E).
+> SOR/83-110, s. 1; SOR/92-75, s. 3; SOR/96-364, s. 7; SOR/99-169, s. 3; SOR/2000-317, s. 17; SOR/2002-124, s. 8; SOR/2002-437, s. 1(E); SOR/2009-314, s. 9.
 
 
 
 
 **15.1** 
 
-- **(1)** The President of the Agency, at no charge, shall issue a fish export licence to any person who is not an operator of a registered establishment if
-	- **(a)** an application is received that contains
-		- **(i)** the full business name, business address and business telephone number of the applicant and, if applicable, the full names of the partners or officers of the company,
-		- **(ii)** a description of the operations that the applicant intends to conduct, and
-		- **(iii)** a product description for each product intended to be exported, and
-		- **(iv)** if applicable, a detailed diagram of the establishment to which the application pertains;
-	- **(b)** the applicant demonstrates that they are able to meet the applicable requirements set out in the Facilities Manual; and
-	- **(c)** the President of the Agency has no reasonable grounds to believe that the applicant will not comply with the Act or these Regulations.
+- **(1)** The President of the Agency, at no charge, shall issue a fish export licence to any person who operates an establishment, other than a registered establishment, authorizing the person to be engaged as a principal or agent in the export of fish if
+	- **(a)** the person submits an application to the President, on a form provided by the Agency, that contains
+		- **(i)** the legal name and business name of the applicant, as well as the name, address, telephone number, fax number and email address of the applicant’s establishment that is referred to in the application,
+		- **(ii)** a detailed diagram of the establishment,
+		- **(iii)** a description of the activities to be carried out at the establishment,
+		- **(iv)** a description of the controls to be implemented to ensure compliance with the Act and these Regulations, and
+		- **(v)** a declaration from the applicant confirming that the information provided in subparagraphs (i) to (iv) is complete and true;
+	- **(b)** it is reasonable to expect that the implementation of those controls will be adequate to maintain compliance with the Act and these Regulations in the establishment;
+	- **(c)** the establishment is free from serious contamination; and
+	- **(d)** the information provided by the applicant is complete and true and there are no reasonable grounds to believe that the applicant will not comply with the Act and these Regulations.
 
-- **(2)** The President of the Agency may exempt an applicant from providing the information referred to in paragraph (1)(a) if it has been previously submitted to the Agency and there has been no change to the information.
-
-- **(3)** A holder of a fish export licence shall
-	- **(a)** meet the applicable requirements set out in the Facilities Manual;
-	- **(b)** adhere to any conditions attached to the licence; and
-	- **(c)** make available to an inspector in a readily available location the records set out in subsection (4).
-
-- **(4)** A holder of a fish export licence shall maintain, at an address in Canada and for not less than three years, a record in English or French of
-	- **(a)** the name, business address, business telephone number and title of the person responsible for ensuring that all operations and fish exported meet the applicable requirements of these Regulations;
-	- **(b)** a description of the system used to trace fish to their first shipping destination;
-	- **(c)** in respect of each shipment of fish,
-		- **(i)** the name and address of the person to whom each shipment was sent,
-		- **(ii)** the type of fish,
-		- **(iii)** the quantity of fish,
-		- **(iv)** the method of transportation including manifest and container numbers or other information that is sufficient to identify or trace the location of the fish,
-		- **(v)** the date on which the fish was shipped, and
-		- **(vi)** the date on which the fish were mechanically screened or the finfish were removed from the aquaculture site;
-	- **(d)** the date and time when the holder of the fish export licence received information that questions the safety of fish stored or exported by the holder;
-	- **(e)** if the information referred to in paragraph (d) is validated on investigation, a description of the information, the date and time when it was received, the time and date the information is validated, the name, address and telephone number of the informant, the method of investigation and the results obtained, the corrective actions taken and the time and date on which the Agency was notified under to subsection 6.01(2); and
-	- **(f)** if applicable, in respect of every person responsible for supervising the development or implementation of the quality management program or performing or supervising a product preservation process, documentary evidence of their training or qualifications in fish or food processing or quality control.
-> SOR/99-169, s. 3; SOR/2002-437, s. 2.
+- **(2)** The applicant is not required to include in the application the information referred to in subparagraphs (1)(a)(ii) and (iv) if the applicant has previously provided the President of the Agency with that information, there has been no change to the information and there is a mention to that effect in the application.
+> SOR/99-169, s. 3; SOR/2002-437, s. 2; SOR/2009-314, s. 10.
 
 
 
@@ -864,8 +860,8 @@ and from which all internal organs, head, fins, bones, except intramuscular or l
 
 **16.4** 
 
-- **(1)** The President of the Agency may, on application, issue a temporary certificate of registration in respect of an establishment the operator of which is subject to a receivorship or has made an assignment in bankruptcy if all of the following conditions are met:
-	- **(a)** the applicant for the certificate is the authorized receivor or trustee in bankruptcy of the operator of the establishment;
+- **(1)** The President of the Agency may, on application, issue a temporary certificate of registration in respect of an establishment whose operator is subject to a receivership or has made an assignment in bankruptcy if all of the following conditions are met:
+	- **(a)** the applicant for the certificate is the authorized receiver or trustee in bankruptcy of the operator of the establishment;
 	- **(b)** the application contains the information required by subsection 15(1); and
 	- **(c)** the establishment meets the requirements of the Act and these Regulations.
 
@@ -874,7 +870,7 @@ and from which all internal organs, head, fins, bones, except intramuscular or l
 	- **(b)** the day stated on the temporary certificate or on any amendments made thereto.
 
 - **(3)** No fees are payable in respect of the application for, or the issuance of a temporary certificate of registration.
-> SOR/99-169, s. 3.
+> SOR/99-169, s. 3; SOR/2009-314, s. 11(E).
 
 
 
@@ -2193,7 +2189,7 @@ and from which all internal organs, head, fins, bones, except intramuscular or l
 	- **(d)** any other designation that
 		- **(i)** is distinctive from those set out in paragraphs (a) to (c), and
 		- **(ii)** meets the requirements of these Regulations.
-> SOR/2007-18, s. 2.
+> SOR/2007-18, s. 2; SOR/2009-314, s. 12(F).
 
 
 
@@ -2399,7 +2395,7 @@ and from which all internal organs, head, fins, bones, except intramuscular or l
 **14** 
 
 - **(1)** Adequate supplies of water that meet one of the following requirements shall be provided in every establishment under a minimum operating pressure of 140 kPa for fish processing, establishment cleaning and disinfection, ice making, employee sanitation and personal hygiene and the operation of toilets:
-	- **(a)** the water has a coliform bacteria count, determined by a method acceptable to the President of the Agency, of not more than 2 per 100 millitres; or
+	- **(a)** the water has a coliform bacteria count, determined by a method acceptable to the President of the Agency, of not more than 2 per 100 millilitres; or
 	- **(b)** the water is derived from a source approved by the President of the Agency.
 
 - **(2)** For the purpose of providing a safe and sanitary supply of water to an establishment, an inspector may require that water supply sources be chlorinated or otherwise treated.
@@ -2410,7 +2406,7 @@ and from which all internal organs, head, fins, bones, except intramuscular or l
 
 - **(4)** Steam
 	- **(a)** directly in contact with fish shall not contain any substance that is a hazard; and
-	- **(b)** shall be supplied in adequate quantites for retorting and any other purpose as specified in the establishment’s quality management program.
+	- **(b)** shall be supplied in adequate quantities for retorting and any other purpose as specified in the establishment’s quality management program.
 
 - **(5)** Ice making or ice storage facilities shall
 	- **(a)** be operated in a manner that minimizes frost build-up;
@@ -2520,7 +2516,7 @@ and from which all internal organs, head, fins, bones, except intramuscular or l
 - **(g)** marine type toilet facilities or other sanitary facilities acceptable to an inspector.
 
 
-> SOR/81-374, ss. 18 to 21; SOR/83-110, s. 4; SOR/99-169, s. 10; SOR/2002-437, ss. 3, 4, 5(F), 6(A), 7(F), 8(F).
+> SOR/81-374, ss. 18 to 21; SOR/83-110, s. 4; SOR/99-169, s. 10; SOR/2002-437, ss. 3, 4, 5(F), 6(A), 7(F), 8(F); SOR/2009-314, s. 13(E).
 
 
 
