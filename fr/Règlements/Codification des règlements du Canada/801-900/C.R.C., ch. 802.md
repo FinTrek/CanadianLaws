@@ -120,7 +120,7 @@ qui ont été débarrassées des entrailles, de la tête, des nageoires, des ar�
 
 ***ministère***[Abrogée, DORS/2000-184, art. 58]
 
-***mollusques*** Les espèces de mollusques bivalves de la classe *Bivalvia* et les espèces de mollusques carnivores d’origine marine et de la classe *Gastropoda*, écaillés ou non, entiers ou non, sauf le muscle adducteur des pétoncles et la chair des panopes. (*shellfish*)
+***mollusques*** Les espèces de mollusques bivalves de la classe *Bivalvia* et les espèces carnivores d’origine marine de la classe *Gastropoda*, écaillés ou non, entiers ou non, sauf le muscle adducteur des pétoncles et la chair des panopes. (*shellfish*) 
 
 ***opération de transformation*** Les opérations de transformation du poisson suivantes :
 - **a)** mise en conserve du poisson;
@@ -135,9 +135,7 @@ qui ont été débarrassées des entrailles, de la tête, des nageoires, des ar�
 - **a)** soit à bord de son navire;
 - **b)** soit sur terre dans un établissement dont il est propriétaire ou qu’il loue, sans l’aide de quiconque n’a pas participé à la prise du poisson. (*fisher-packer*)
 
-***permis d’exportation de poisson*** Permis délivré en vertu du paragraphe 15.1(1) qui autorise son titulaire à effectuer les opérations suivantes :
-- **a)** tri mécanique de boîtes de conserve de poisson;
-- **b)** exportation de poisson osseux vivant élevé dans une entreprise aquicole. (*fish export licence*)
+***permis d’exportation de poisson*** Permis délivré en vertu de l’article 15.1. (*fish export licence*)
 
 ***permis d’importation*** Permis d’importation de poisson ou permis d’importation avec programme de gestion de la qualité délivré en vertu du présent règlement. (*import licence*)
 
@@ -171,7 +169,7 @@ qui ont été débarrassées des entrailles, de la tête, des nageoires, des ar�
 
 ***poisson haché fin***[Abrogée, DORS/82-845, art. 1]
 
-***poisson osseux*** Toute espèce de la classe *Osteichthyes*. (*finfish*)
+***poisson osseux***[Abrogée, DORS/2009-314, art. 1]
 
 ***poisson pané*** désigne du poisson ou de la chair de poisson enrobés de pâte à frire et de panure; (*breaded fish*)
 
@@ -202,7 +200,7 @@ qui ont été débarrassées des entrailles, de la tête, des nageoires, des ar�
 ***tri mécanique*** Procédé mécanique permettant d’inspecter les boîtes de conserve de poisson afin de s’assurer que leurs joints hermétiques sont bien formés. (*mechanical screening*)
 
 ***véhicule*** Navire, aéronef, train, véhicule automobile, conteneur, remorque ou autre moyen de transport de poisson ou de contenants de poisson. (*conveyance*) 
-> DORS/80-360, art. 1; DORS/82-829, art. 1; DORS/82-845, art. 1; DORS/86-213, art. 1; DORS/92-75, art. 1; DORS/96-364, art. 1; DORS/98-2, art. 1; DORS/99-169, art. 1; DORS/2000-184, art. 58 et 59; DORS/2000-317, art. 16(F); DORS/2002-124, art. 1; DORS/2002-354, art. 18.
+> DORS/80-360, art. 1; DORS/82-829, art. 1; DORS/82-845, art. 1; DORS/86-213, art. 1; DORS/92-75, art. 1; DORS/96-364, art. 1; DORS/98-2, art. 1; DORS/99-169, art. 1; DORS/2000-184, art. 58 et 59; DORS/2000-317, art. 16(F); DORS/2002-124, art. 1; DORS/2002-354, art. 18; DORS/2009-314, art. 1.
 
 
 
@@ -216,7 +214,7 @@ qui ont été débarrassées des entrailles, de la tête, des nageoires, des ar�
 
 - **(1)** Sous réserve du paragraphe (2), le présent règlement ne s’applique qu’aux poissons et aux récipients destinés à l’exportation ou à l’importation.
 
-- **(2)** Sous réserve du paragraphe 6(4), le présent règlement ne s’applique pas :
+- **(2)** Sous réserve des paragraphes (3) et 6(4), le présent règlement ne s’applique pas :
 	- **a)** au poisson qui est importé ou exporté pour consommation ou usage personnels;
 	- **b)** à l’aliment qui possède les caractéristiques suivantes :
 		- **(i)** il résulte du mélange d’un produit de poisson et d’un produit de viande,
@@ -226,8 +224,10 @@ qui ont été débarrassées des entrailles, de la tête, des nageoires, des ar�
 			- **(C)** du procédé de transformation du poisson et de la viande,
 			- **(D)** du fait qu’il a toujours été reconnu comme un produit de viande,
 		- **(iii)** il est transformé dans un établissement agréé en vertu du [Règlement de 1990 sur l’inspection des viandes](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/90/288.md) ou un établissement étranger autorisé à exporter des produits de viande vers le Canada conformément à ce règlement,
-		- **(iv)** le produit de poisson du poisson utilisé dans sa transformation provient d’un établissement agréé en vertu du présent règlement ou a été importé au Canada conformément au présent règlement.
-> DORS/86-213, art. 2; DORS/98-2, art. 2; DORS/2002-435, art. 1.
+		- **(iv)** le produit de poisson utilisé dans sa transformation provient d’un établissement agréé en vertu du présent règlement ou a été importé au Canada conformément au présent règlement.
+
+- **(3)** L’article 9.1 s’applique au poisson qui a été pêché en vertu d’un permis de pêche récréative ou sportive délivré en vertu de la [Loi sur les pêches](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-14.md) et qui est destiné à l’exportation pour consommation ou usage personnels vers un pays d’importation exigeant qu’il soit accompagné d’un certificat d’inspection délivré par le pays d’exportation.
+> DORS/86-213, art. 2; DORS/98-2, art. 2; DORS/2002-435, art. 1; DORS/2009-314, art. 2.
 
 
 
@@ -531,7 +531,7 @@ qui ont été débarrassées des entrailles, de la tête, des nageoires, des ar�
 
 
 **6.6** Le titulaire d’un permis d’importation avec programme de gestion de la qualité ne peut avoir recours, pour implanter son programme de gestion de la qualité et s’y conformer, qu’à un laboratoire reconnu par le président de l’Agence comme ayant la compétence voulue pour fournir de tels services ou accrédité par le *Conseil canadien des normes*.
-> DORS/98-2, art. 10.
+> DORS/98-2, art. 10; DORS/2009-314, art. 3(A).
 
 
 
@@ -567,8 +567,9 @@ qui ont été débarrassées des entrailles, de la tête, des nageoires, des ar�
 
 **9** 
 
-- **(1)** Lorsqu’un certificat d’inspection de poisson est demandé, l’inspecteur :
-	- **a)** dans le cas où le demandeur exploite l’établissement où le poisson a été transformé, évalue la demande de certificat en fonction d’un examen mené pour voir si l’établissement observe son programme de gestion de la qualité, la Loi ainsi que le présent règlement, pour déterminer si une inspection du poisson est requise et au besoin effectue l’inspection;
+- **(1)** Sous réserve de l’article 9.1, si un certificat d’inspection de poisson est demandé, l’inspecteur :
+	- **a)** dans le cas où le demandeur exploite un établissement agréé et que le poisson y a été transformé, évalue la nécessité d’une inspection du poisson en fonction du respect par l’établissement de son programme de gestion de la qualité, de la Loi et du présent règlement et, au besoin, effectue l’inspection;
+	- **a.1)** dans le cas où le demandeur est titulaire d’un permis d’exportation de poisson, évalue la nécessité d’une inspection du poisson en fonction du respect par le demandeur des conditions de son permis, de la Loi et du présent règlement et, au besoin, effectue l’inspection;
 	- **b)** dans les autres cas, effectue l’inspection du poisson.
 
 - **(2)** L’inspecteur délivre un certificat d’inspection de poisson dans les cas suivants :
@@ -578,7 +579,20 @@ qui ont été débarrassées des entrailles, de la tête, des nageoires, des ar�
 - **(3)** Quiconque demande un certificat d’inspection de poisson doit payer, pour les services d’inspection, le prix applicable prévu dans l'*Avis sur les prix de l’Agence canadienne d’inspection des aliments*.
 
 - **(4)** [Abrogé, DORS/2002-124, art. 6]
-> DORS/96-364, art. 4; DORS/2002-124, art. 6.
+> DORS/96-364, art. 4; DORS/2002-124, art. 6; DORS/2009-314, art. 4.
+
+
+
+
+**9.1** Si un certificat d’inspection est demandé à l’égard du poisson qui a été pêché en vertu d’un permis de pêche récréative ou sportive délivré en vertu de la [Loi sur les pêches](/fr/Lois/Lois%20révisées%20du%20Canada/F/F-14.md) et qui est destiné à l’exportation pour consommation ou usage personnels vers un pays d’importation exigeant qu’il soit accompagné d’un certificat d’inspection délivré par le pays d’exportation, l’inspecteur délivre le certificat d’inspection si les conditions suivantes sont réunies :
+- **a)** le poisson n’a pas été préparé pour son exportation dans un établissement agréé ou par un titulaire de permis d’exportation de poisson;
+- **b)** le demandeur fournit les renseignements et documents suivants :
+	- **(i)** une copie du permis de pêche ou le numéro de celui-ci,
+	- **(ii)** une description du poisson, notamment l’espèce à laquelle il appartient et son poids,
+	- **(iii)** la date de prise,
+	- **(iv)** le nom commercial et l’adresse de l’établissement où le poisson a été préparé pour son exportation ou les nom et adresse de la personne qui l’a ainsi préparé,
+	- **(v)** une preuve établissant que le poisson a été éviscéré et emballé dans des conditions hygiéniques.
+> DORS/2009-314, art. 5.
 
 
 
@@ -642,26 +656,26 @@ qui ont été débarrassées des entrailles, de la tête, des nageoires, des ar�
 
 **14** 
 
-- **(1)** Il est interdit d’exporter du poisson, ou d’en transformer ou d’en entreposer en vue de l’exporter, sauf si la transformation ou l’entreposage du poisson est effectué dans un établissement agréé.
-
-- **(2)** Le paragraphe (1) ne s’applique pas aux produits suivants :
-	- **a)** le poisson qui est importé au Canada par le titulaire d’un permis d’importation et qui est destiné à être vendu directement aux consommateurs, sans subir de transformation ultérieure;
-	- **b)** les produits finis qui ont été produits dans un établissement agréé et qui, avant d’être commercialisés, exportés ou mis à la disposition des consommateurs, sont temporairement entreposés dans un entrepôt frigorifique ou dans un endroit autre qu’un établissement agréé.
-
-- **(3)** Pour l’application du paragraphe (1), la transformation ne comprend pas les activités suivantes :
-	- **a)** le lavage, le glaçage ou la mise en boîte de poisson vivant ou de poisson non congelé entier ou habillé, à l’exception :
+- **(1)** Pour l’application du présent article, ne constituent pas une transformation les opérations suivantes :
+	- **a)** le lavage, le glaçage ou la mise en bac de poisson vivant ou de poisson non congelé entier ou habillé, à l’exception :
 		- **(i)** des mollusques et des échinodermes,
 		- **(ii)** du poisson provenant d’une entreprise aquicole,
 		- **(iii)** des crustacés autres que le homard et le crabe vivants;
 	- **b)** la congélation à bord d’un navire de poisson entier ou habillé destiné à subir une transformation ultérieure dans un établissement agréé, à l’exception des mollusques, des échinodermes et des crustacés autres que les crevettes;
 	- **c)** l’écaillage de pétoncles, à bord d’un navire, pour en retirer le muscle adducteur, avec ou sans les oeufs;
-	- **d)** la transformation de poisson non congelé entier ou habillé, ou le salage ou saumurage de poisson non congelé entier, fendu ou habillé, à l’exception des mollusques, échinodermes et crustacés, effectués par les pêcheurs emballeurs;
-	- **e)** les activités exercées par les pêcheurs ou les transformateurs au moment ou au lieu de la prise, du déchargement, de la manutention, de la garde ou du transport du poisson pour en conserver la qualité et l’innocuité, avant que celui-ci soit livré à un établissement agréé pour y être transformé, entreposé ou inspecté avant l’exportation, si ces activités sont exercées conformément au présent règlement.
+	- **d)** l’éviscération de poisson non congelé entier ou le salage ou saumurage de poisson non congelé entier, fendu ou habillé — à l’exception des mollusques, des échinodermes et des crustacés — effectués par les pêcheurs emballeurs;
+	- **e)** si elles sont exercées conformément au présent règlement, les opérations exercées par les pêcheurs ou les transformateurs au moment ou au lieu de la prise, du déchargement, de la manutention, de la garde ou du transport du poisson pour en conserver la qualité et l’innocuité, avant que celui-ci soit livré à un établissement agréé pour y être transformé, entreposé ou inspecté avant l’exportation.
 
-- **(4)** Si le pêcheur emballeur qui exerce une activité visée à l’alinéa (3)d) reçoit du président de l’Agence un avis écrit l’informant qu’il y a contamination grave à bord du navire ou sur terre dans l’établissement où il exerce cette activité :
-	- **a)** nul ne peut transformer du poisson à bord de ce navire ou dans cet établissement;
-	- **b)** nul ne peut exporter ou tenter d’exporter du poisson qui y a été transformé.
-> DORS/89-218, art. 1; DORS/92-75, art. 2(F); DORS/94-58, art. 1; DORS/99-169, art. 3.
+- **(2)** À moins d’être titulaire d’un permis d’exportation de poisson, quiconque transforme ou entrepose du poisson pour son exportation doit le faire dans un établissement agréé.
+
+- **(3)** Il est interdit d’exporter du poisson, à moins, selon le cas :
+	- **a)** que le poisson ait été transformé et entreposé dans un établissement agréé;
+	- **b)** d’être titulaire d’un permis d’exportation de poisson.
+
+- **(4)** Le paragraphe (3) ne s’applique pas aux produits suivants :
+	- **a)** le poisson qui est importé au Canada par le titulaire d’un permis d’importation et qui est destiné à être vendu directement aux consommateurs, sans subir de transformation ultérieure;
+	- **b)** les produits finis qui ont été produits dans un établissement agréé et qui, avant d’être commercialisés, exportés ou mis à la disposition des consommateurs, sont temporairement entreposés dans un entrepôt frigorifique ou dans un endroit autre qu’un établissement agréé.
+> DORS/89-218, art. 1; DORS/92-75, art. 2(F); DORS/94-58, art. 1; DORS/99-169, art. 3; DORS/2009-314, art. 6.
 
 
 
@@ -686,15 +700,15 @@ qui ont été débarrassées des entrailles, de la tête, des nageoires, des ar�
 
 
 
-**14.4** Il est interdit d’effectuer un tri mécanique, à moins que cette opération soit effectuée soit dans un établissement agréé, soit par le titulaire d’un permis d’exportation de poisson.
-> DORS/99-169, art. 3.
+**14.4** Si le pêcheur emballeur qui exerce une activité visée à l’alinéa 14(1)d) reçoit du président de l’Agence un avis écrit l’informant qu’il y a contamination grave à l’endroit où il exerce cette activité — à bord d’un navire ou sur terre dans un établissement — il est interdit :
+- **a)** de transformer du poisson à bord de ce navire ou dans cet établissement;
+- **b)** d’exporter ou de tenter d’exporter du poisson qui y a été transformé.
+> DORS/99-169, art. 3; DORS/2009-314, art. 7.
 
 
 
 
-**14.5** Il est interdit d’exporter du poisson osseux vivant provenant d’une entreprise aquicole, à moins qu’il n’ait été préparé dans un établissement agréé ou par un titulaire de permis d’exportation de poisson.
-> DORS/99-169, art. 3.
-
+**14.5** [Abrogé, DORS/2009-314, art. 8]
 
 
 
@@ -708,7 +722,7 @@ qui ont été débarrassées des entrailles, de la tête, des nageoires, des ar�
 	- **e)** le diagramme de fabrication indiquant toutes les étapes des opérations de transformation pour chaque type de produit du poisson;
 	- **f)** un plan détaillé de l’établissement.
 
-- **(2)** Le président de l’Agence peut soustraire le demandeur à l’obligation de fournir les renseignements visés aux alinéas (1)c) à e) et f) si ceux-ci ont déjà été fournis et demeurent inchangés.
+- **(2)** Le demandeur n’est pas tenu d’inclure dans sa demande les renseignements visés aux alinéas (1)c) à f) s’ils ont déjà été fournis au président de l’Agence, qu’ils demeurent inchangés et qu’une mention à cet effet est indiquée dans sa demande.
 
 - **(3) à (5)** [Abrogés, DORS/2002-124, art. 8]
 
@@ -782,43 +796,26 @@ qui ont été débarrassées des entrailles, de la tête, des nageoires, des ar�
 **TABLEAUX 1 À 3** 
 ### [Abrogés, DORS/2002-124, art. 8]
 
-> DORS/83-110, art. 1; DORS/92-75, art. 3; DORS/96-364, art. 7; DORS/99-169, art. 3; DORS/2000-317, art. 17; DORS/2002-124, art. 8; DORS/2002-437, art. 1(A).
+> DORS/83-110, art. 1; DORS/92-75, art. 3; DORS/96-364, art. 7; DORS/99-169, art. 3; DORS/2000-317, art. 17; DORS/2002-124, art. 8; DORS/2002-437, art. 1(A); DORS/2009-314, art. 9.
 
 
 
 
 **15.1** 
 
-- **(1)** Le président de l’Agence délivre sans frais un permis d’exportation de poisson à toute personne autre que l’exploitant d’un établissement agréé, si les conditions suivantes sont réunies :
-	- **a)** le président reçoit une demande de permis contenant les renseignements suivants :
-		- **(i)** la dénomination sociale complète du demandeur, son adresse commerciale, son numéro de téléphone commercial et, s’il y a lieu, les noms au complet de ses associés ou des dirigeants de la société,
-		- **(ii)** une description des opérations que le demandeur entend effectuer,
-		- **(iii)** une description du produit pour chaque type de produit que le demandeur entend exporter,
-		- **(iv)** s’il y a lieu, un plan détaillé de l’établissement visé par la demande;
-	- **b)** le demandeur démontre qu’il est capable de se conformer aux exigences applicables du Manuel des installations;
-	- **c)** le président de l’Agence n’a aucun motif raisonnable de croire que le demandeur ne se conformera pas à la Loi ou au présent règlement.
+- **(1)** Le président de l’Agence délivre sans frais un permis d’exportation de poisson — autorisant l’exportation du poisson à titre de commettant ou de mandataire — à toute personne qui exploite un établissement autre qu’un établissement agréé, si les conditions suivantes sont réunies :
+	- **a)** une demande contenant les renseignements ci-après lui est présentée par la personne sur le formulaire fourni par l’Agence :
+		- **(i)** les nom et nom commercial du demandeur ainsi que les adresse, numéro de téléphone, numéro de télécopieur et adresse électronique de l’établissement visé par la demande,
+		- **(ii)** un plan détaillé de l’établissement,
+		- **(iii)** une description des activités qui seront menées dans l’établissement,
+		- **(iv)** une description des mesures de contrôles qui seront mises en œuvre pour s’assurer du respect de la Loi et du présent règlement,
+		- **(v)** une déclaration du demandeur selon laquelle les renseignements fournis conformément aux sous-alinéas (i) à (iv) sont complets et exacts;
+	- **b)** il est raisonnable de croire que la mise en œuvre de ces mesures de contrôle assureront le respect de la Loi et du présent règlement;
+	- **c)** l’établissement est exempt de contamination grave;
+	- **d)** les renseignements fournis par le demandeur sont complets et exacts et il n’existe aucun motif raisonnable de croire que le demandeur ne se conformera pas à la Loi ou au présent règlement.
 
-- **(2)** Le président de l’Agence peut soustraire le demandeur à l’obligation de fournir les renseignements visés à l’alinéa (1)a) si ceux-ci ont déjà été fournis et demeurent inchangés.
-
-- **(3)** Le titulaire d’un permis d’exportation de poisson est tenu :
-	- **a)** de se conformer aux exigences applicables du Manuel des installations;
-	- **b)** de respecter toutes les conditions du permis;
-	- **c)** à la demande d’un inspecteur, de mettre à la disposition de celui-ci, dans un endroit facilement accessible, les registres visés au paragraphe (4).
-
-- **(4)** Le titulaire d’un permis d’exportation de poisson doit tenir, à une adresse située au Canada et pendant au moins trois ans, des registres en français ou en anglais contenant les renseignements suivants :
-	- **a)** les nom, adresse commerciale, numéro de téléphone commercial et titre de la personne chargée de s’assurer que les opérations se déroulent conformément aux exigences applicables du présent règlement et que le poisson exporté répond à ces exigences;
-	- **b)** une description du système utilisé pour retrouver la première destination du poisson;
-	- **c)** pour chaque envoi de poisson :
-		- **(i)** les nom et adresse du destinataire,
-		- **(ii)** le type de poisson expédié,
-		- **(iii)** la quantité de poisson expédiée,
-		- **(iv)** le mode de transport utilisé, y compris le numéro des manifestes et des conteneurs ou tout autre renseignement qui peut permettre d’identifier ou de retrouver l’endroit où le poisson est expédié,
-		- **(v)** la date d’expédition,
-		- **(vi)** la date du tri mécanique ou la date à laquelle le poisson osseux a été retiré du milieu aquicole;
-	- **d)** la date et l’heure auxquelles il a reçu des renseignements mettant en doute l’innocuité du poisson qu’il a entreposé ou exporté;
-	- **e)** si les résultats de l’enquête visée à l’alinéa d) ont montré que les renseignements reçus étaient bien fondés, une mention des renseignements, la date et l’heure auxquelles ils ont été reçus, les nom, adresse et numéro de téléphone de la personne qui les a fournis, le type d’enquête menée, y compris ses résultats, les mesures correctives prises et la date et l’heure auxquelles l’Agence a été avisée conformément au paragraphe 6.01(2);
-	- **f)** s’il y a lieu, pour chaque personne chargée de superviser l’élaboration ou l’implantation du programme de gestion de la qualité et chaque personne qui emploie ou supervise un procédé de conservation, une preuve documentaire de leur formation et de leurs qualifications en matière de transformation de poisson ou d’aliments ou de contrôle de la qualité.
-> DORS/99-169, art. 3; DORS/2002-437, art. 2.
+- **(2)** Le demandeur n’est pas tenu d’inclure dans sa demande les renseignements visés aux sous-alinéas (1)a)(ii) et (iv) s’ils ont déjà été fournis au président de l’Agence, qu’ils demeurent inchangés et qu’une mention à cet effet est indiquée dans sa demande.
+> DORS/99-169, art. 3; DORS/2002-437, art. 2; DORS/2009-314, art. 10.
 
 
 
@@ -873,7 +870,7 @@ qui ont été débarrassées des entrailles, de la tête, des nageoires, des ar�
 	- **b)** le jour indiqué sur le certificat temporaire original ou modifié.
 
 - **(3)** Aucun droit n’est exigé pour la demande ou la délivrance d’un certificat d’agrément temporaire.
-> DORS/99-169, art. 3.
+> DORS/99-169, art. 3; DORS/2009-314, art. 11(A).
 
 
 
@@ -2187,13 +2184,13 @@ qui ont été débarrassées des entrailles, de la tête, des nageoires, des ar�
 - **(1)** Il est interdit d’indiquer la désignation d’un produit sur l’étiquette apposée sur un contenant de poisson salé à moins que cette désignation précède ou suive immédiatement le nom commun du produit, sans qu’aucun texte imprimé ou écrit ni aucun signe graphique ne soit intercalé, et qu’elle soit indiquée conformément au paragraphe (2).
 
 - **(2)** La désignation d’un poisson salé doit être indiquée de la manière suivante :
-	- **a)** « poisson fendu » dans le cas du poisson fendu dont plus des deux tiers de l’extrémité antérieure de la colonne vertébrale ont été enlevés;
+	- **a)** « poisson fendu » dans le cas du poisson fendu dont au moins les deux tiers de l’extrémité antérieure de la colonne vertébrale ont été enlevés;
 	- **b)** « poisson fendu avec colonne vertébrale entière » dans le cas du poisson fendu dont la colonne vertébrale n’a pas été enlevée;
 	- **c)** « filets » dans le cas de filets au sens où l’entend l’article 2;
 	- **d)** toute autre désignation qui, à la fois :
 		- **(i)** se distingue des désignations visées aux alinéas a) à c),
 		- **(ii)** est conforme aux exigences du présent règlement.
-> DORS/2007-18, art. 2.
+> DORS/2007-18, art. 2; DORS/2009-314, art. 12(F).
 
 
 
@@ -2518,9 +2515,9 @@ qui ont été débarrassées des entrailles, de la tête, des nageoires, des ar�
 - **e)** de parois et de plafonds, ainsi que de planchers antidérapants, faciles à nettoyer, surtout aux endroits où sont situés des tuyaux, des chaînes ou des conduites électriques;
 - **f)** de systèmes hydrauliques installés ou protégés de telle sorte que le risque de contamination du poisson par une fuite de liquide soit réduit au minimum;
 - **g)** d’installations sanitaires marines ou de toute autre installation jugée acceptable par l’inspecteur.
->  DORS/81-374, art. 18 à 21; DORS/83-110, art. 4; DORS/99-169, art. 10; DORS/2002-437, art. 3, 4, 5(F), 6(A), 7(F) et 8(F).
 
 
+> DORS/81-374, art. 18 à 21; DORS/83-110, art. 4; DORS/99-169, art. 10; DORS/2002-437, art. 3, 4, 5(F), 6(A), 7(F) et 8(F); DORS/2009-314, art. 13(A).
 
 
 
