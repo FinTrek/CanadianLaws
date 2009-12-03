@@ -22,62 +22,62 @@ Enabling authorities:
 
 **2** In these Regulations,
 
-***Act*** means the [Canada National Parks Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2032.md); (*Loi*)
+***Act*** means the [Canada National Parks Act](/en/Acts/Statutes%20of%20Canada/2000/c.%2032.md); (*Loi*)
 
-***angling*** means fishing with a hook and line held in the hand or with a hook, line and rod held in the hand but does not include fishing with a set line; (*pêche à la ligne*)
+***angling*** means fishing with a hook and line held in the hand or with a hook, line and rod held in the hand but does not include fishing with a set line; (*pêche à la ligne*)
 
-***artificial fly*** means a single or double hook on a common shank, dressed with silk, tinsel, wool, fur, feathers or other material, or any combination thereof, without a spinning device whether attached to the hook or line; (*mouche artificielle*)
+***artificial fly*** means a single or double hook on a common shank, dressed with silk, tinsel, wool, fur, feathers or other material, or any combination thereof, without a spinning device whether attached to the hook or line; (*mouche artificielle*)
 
-***chemical attractant*** means a chemical or scented substance that is applied inside or onto a lure in order to attract fish; (*attractif chimique*)
+***chemical attractant*** means a chemical or scented substance that is applied inside or onto a lure in order to attract fish; (*attractif chimique*)
 
 ***Director***[Repealed, SOR/96-245, s. 1]
 
-***fillet*** includes any piece of fish from which the internal organs, the head, the fins and the bones, except intramuscular or lateral bones, have been removed; (*filet*)
+***fillet*** includes any piece of fish from which the internal organs, the head, the fins and the bones, except intramuscular or lateral bones, have been removed; (*filet*)
 
-***fish*** includes a soft-shell clam (*Mya arenaria*); (*poisson*)
+***fish*** includes a soft-shell clam (*Mya arenaria*); (*poisson*)
 
-***fish finder*** means a sonar device for detecting fish; (*détecteur de poissons*)
+***fish finder*** means a sonar device for detecting fish; (*détecteur de poissons*)
 
-***fishing permit*** means a fishing permit that is issued pursuant to paragraph 4(a); (*permis de pêche*)
+***fishing permit*** means a fishing permit that is issued pursuant to paragraph 4(a); (*permis de pêche*)
 
-***foul hooking*** means fishing with a hook or hooks attached to a line manipulated in such a manner as to pierce a fish in any part of its body other than its mouth; (*hameçon illicite*)
+***foul hooking*** means fishing with a hook or hooks attached to a line manipulated in such a manner as to pierce a fish in any part of its body other than its mouth; (*hameçon illicite*)
 
-***gaff-hook*** means any hook attached directly to the end of a rod or pole for the purpose of landing a fish or piercing a fish in any part of its body; (*gaffeau*)
+***gaff-hook*** means any hook attached directly to the end of a rod or pole for the purpose of landing a fish or piercing a fish in any part of its body; (*gaffeau*)
 
-***game fish*** means any of the species of fish set out in Schedule I; (*poisson de sport*)
+***game fish*** means any of the species of fish set out in Schedule I; (*poisson de sport*)
 
-***gang-hook*** means a combination of two or more hooks used as a unit; (*hameçon multiple*)
+***gang-hook*** means a combination of two or more hooks used as a unit; (*hameçon multiple*)
 
-***lake trout endorsement*** means an endorsement to fish for lake trout in the waters of Prince Albert National Park of Canada, issued pursuant to section 4.1; (*autorisation de pêcher le touladi*)
+***lake trout endorsement*** means an endorsement to fish for lake trout in the waters of Prince Albert National Park of Canada, issued pursuant to section 4.1; (*autorisation de pêcher le touladi*)
 
-***lead jig*** means one or more weighted hooks that contain more than 1.0 per cent lead by weight and that are tied to a fishing line and used for catching fish; (*turlutte plombée*)
+***lead jig*** means one or more weighted hooks that contain more than 1.0 per cent lead by weight and that are tied to a fishing line and used for catching fish; (*turlutte plombée*)
 
-***lead sinker*** means an object that contains more than 1.0 per cent lead by weight and that can be used to sink a fishing line by attachment of the object to the fishing line; (*lest en plomb*)
+***lead sinker*** means an object that contains more than 1.0 per cent lead by weight and that can be used to sink a fishing line by attachment of the object to the fishing line; (*lest en plomb*)
 
 ***Minister***[Repealed, SOR/96-245, s. 1]
 
-***natural bait*** means any material used to attract fish that is partly or wholly composed of plants, animals or plant and animal products, but does not include an artificial fly or a wooden plug; (*appât naturel*)
+***natural bait*** means any material used to attract fish that is partly or wholly composed of plants, animals or plant and animal products, but does not include an artificial fly or a wooden plug; (*appât naturel*)
 
-***open season***, with respect to any species of fish, means the period of each year during which fishing for that species is permitted in any park waters; (*saison de pêche*)
+***open season***, with respect to any species of fish, means the period of each year during which fishing for that species is permitted in any park waters; (*saison de pêche*)
 
-***overall length*** with respect to a fish, means the distance measured from the tip of the nose to the fork of the tail or, where there is no fork, to the tip of the tail; (*longueur totale*)
+***overall length***, with respect to a fish other than a soft-shell clam, means the distance measured from the tip of the nose to the fork of the tail or, if there is no fork, to the tip of the tail and, in respect of a soft-shell clam, means the distance measured in a straight line through the longest part of the shell; (*longueur totale*)
 
 ***park***[Repealed, SOR/93-33, s. 1]
 
 ***park officer***[Repealed, SOR/99-352, s. 1]
 
-***possession*** has the same meaning as in subsection 4(3) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md); (*possession*)
+***possession*** has the same meaning as in subsection 4(3) of the [Criminal Code](/en/Acts/Revised%20Statutes%20of%20Canada/C/C-46.md); (*possession*)
 
-***salmon licence*** means a salmon licence that is issued pursuant to paragraph 4(b); (*permis de pêche du saumon*)
+***salmon licence*** means a salmon licence that is issued pursuant to paragraph 4(b); (*permis de pêche du saumon*)
 
-***soft-shell clam permit*** means a permit that is issued for recreational clam fishing under paragraph 4(c); (*permis de pêche de la mye*)
+***soft-shell clam permit*** means a permit that is issued for recreational clam fishing under paragraph 4(c); (*permis de pêche de la mye*)
 
 ***Superintendent***[Repealed, SOR/90-4, s. 1]
 
-***tailer*** means a device consisting of a wire, cord or rope arranged on a rod or pole in such a manner as to form a noose or snare for the purpose of landing or catching a fish; (*serre-queue*)
+***tailer*** means a device consisting of a wire, cord or rope arranged on a rod or pole in such a manner as to form a noose or snare for the purpose of landing or catching a fish; (*serre-queue*)
 
-***year*** means the 12-month period commencing on April 1st in any calendar year and terminating on March 31st in the calendar year next following. (*année*) 
-> SOR/81-689, s. 1; SOR/86-378, s. 1; SOR/90-4, ss. 1, 38(F); SOR/93-33, ss. 1, 34(E); SOR/94-314, s. 1; SOR/96-245, s. 1; SOR/97-111, s. 1; SOR/98-268, s. 1; SOR/99-352, s. 1; SOR/2003-54, ss. 4, 67.
+***year*** means the 12-month period commencing on April 1st in any calendar year and terminating on March 31st in the calendar year next following. (*année*) 
+> SOR/81-689, s. 1; SOR/86-378, s. 1; SOR/90-4, ss. 1, 38(F); SOR/93-33, ss. 1, 34(E); SOR/94-314, s. 1; SOR/96-245, s. 1; SOR/97-111, s. 1; SOR/98-268, s. 1; SOR/99-352, s. 1; SOR/2003-54, ss. 4, 67; SOR/2009-322, s. 1.
 
 
 
@@ -226,8 +226,8 @@ Enabling authorities:
 	- **(a)** a salmon tag has been affixed to the salmon in accordance with subsection (1); or
 	- **(b)** in the case of salmon caught or taken outside the waters described in subsection (1), the person has possession of the salmon in accordance with the laws of the province within which the park is situated.
 
-- **(5)** No person, other than a person under 16 years of age referred to in subsection 3(3), shall affix a salmon tag issued to that person under paragraph 4(b) to a salmon that is caught by another person.
-> SOR/86-378, s. 6; SOR/90-4, s. 5; SOR/93-33, s. 4; SOR/96-245, s. 6; SOR/99-352, s. 8; SOR/2003-54, s. 12; SOR/2005-206, s. 2.
+- **(5)** No person shall affix a salmon tag issued to the person under paragraph 4(b) to a salmon that is caught by another person unless that other person is a person who is under 16 years of age and referred to in subsection 3(3).
+> SOR/86-378, s. 6; SOR/90-4, s. 5; SOR/93-33, s. 4; SOR/96-245, s. 6; SOR/99-352, s. 8; SOR/2003-54, s. 12; SOR/2005-206, s. 2; SOR/2009-322, s. 2.
 
 
 
@@ -256,11 +256,11 @@ Enabling authorities:
 - **(3)** No person shall remove a lake trout tag from a lake trout except at the time the lake trout is prepared for consumption.
 
 - **(4)** No person shall be in possession of lake trout in Prince Albert National Park of Canada unless
-	- **(a)** in the case of lake trout caught or taken outside Prince Albert National Park of Canada, the person has possession of the lake trout in accordance with the laws of the Province of Saskatchewan and has declared possession of the lake trout on entering Prince Albert National Park of Canada in the prescribed form; and
+	- **(a)** in the case of lake trout caught or taken outside Prince Albert National Park of Canada, the person has possession of the lake trout in accordance with the laws of Saskatchewan and has declared possession of the lake trout on entering Prince Albert National Park of Canada in the form provided by the superintendent; and
 	- **(b)** in any other case, a lake trout tag has been affixed to the lake trout in accordance with subsection (1).
 
-- **(5)** No person, other than a person under 16 years of age referred to in subsection 3(4), shall affix a lake trout tag issued to that person under section 4.1 to a lake trout that is caught by another person.
-> SOR/99-352, s. 9; SOR/2003-54, s. 67.
+- **(5)** No person shall affix a lake trout tag issued to the person under section 4.1 to a lake trout that is caught by another person unless that other person is a person who is under 16 years of age and referred to in subsection 3(4).
+> SOR/99-352, s. 9; SOR/2003-54, s. 67; SOR/2009-322, s. 3.
 
 
 
@@ -411,12 +411,12 @@ Enabling authorities:
 
 
 
-**15.1** No person shall remove
+**15.1** No person shall catch and retain
 - **(a)** subject to paragraph (b), invertebrates from the marine portion of Forillon National Park of Canada unless the person is the holder of a fishing permit, issued by the superintendent, authorizing their removal for scientific or park management purposes;
 - **(b)** for commercial purposes, lobster or fish used as lobster bait, from the marine part of Forillon National Park of Canada unless the person is the holder of a licence, issued under the National Parks Businesses Regulations, 1998, to carry on that business;
-- **(c)** for commercial purposes, soft-shell clams from Kouchibouguac National Park of Canada unless the person is the holder of a licence, issued under the National Parks Businesses Regulations, 1998, to carry on that business; or
-- **(d)** invertebrates from Kouchibouguac National Park of Canada unless the person is the holder of a fishing permit, issued by the superintendent, authorizing their removal for scientific or park management purposes.
-> SOR/96-245, s. 12; SOR/2003-54, s. 17.
+- **(c)** subject to paragraph (d), invertebrates from Kouchibouguac National Park of Canada unless the person is the holder of a fishing permit, issued by the superintendent, authorizing their removal for scientific or park management purposes; or
+- **(d)** for commercial purposes, soft-shell clams from Kouchibouguac National Park of Canada unless the person is the holder of a licence that authorizes that activity and that is issued under the [National Parks of Canada Businesses Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/98/455.md).
+> SOR/96-245, s. 12; SOR/2003-54, s. 17; SOR/2009-322, s. 4.
 
 
 
@@ -437,7 +437,7 @@ Enabling authorities:
 	- **(iii)** one single hook and one gang-hook;
 - **(g)** a gang-hook having more than three hooks; or
 - **(h)** a lead sinker or lead jig that weighs less than 50 g.
-> SOR/97-111, s. 2.
+> SOR/97-111, s. 2; SOR/2009-322, s. 5(F).
 
 
 
@@ -921,7 +921,7 @@ Enabling authorities:
 </tr>
 </table>
 
-> SOR/83-280, s. 2(E); SOR/86-378, s. 16; SOR/90-4, s. 17; SOR/94-314, s. 10.
+> SOR/83-280, s. 2(E); SOR/86-378, s. 16; SOR/90-4, s. 17; SOR/94-314, s. 10; SOR/2009-322, s. 9(F).
 
 
 
@@ -1511,7 +1511,7 @@ Enabling authorities:
 </tr>
 </table>
 
-> SOR/78-562, ss. 1 to 3; SOR/79-333, s. 2; SOR/80-51, s. 10; SOR/80-403, s. 1; SOR/81-689, s. 4; SOR/82-523, s. 1; SOR/83-280, s. 3; SOR/86-378, s. 17; SOR/90-4, ss. 18 to 24; SOR/91-402, ss. 3 to 6; SOR/93-33, ss. 15(F), 16 and 17; SOR/94-314, ss. 11, 12, 19; SOR/96-245, ss. 20 to 29; SOR/98-268, ss. 7 to 12; SOR/99-352, ss. 19 to 22; SOR/2003-54, ss. 27 to 44, 67, 68, 70 to 79; SOR/2005-206, s. 5.
+> SOR/78-562, ss. 1 to 3; SOR/79-333, s. 2; SOR/80-51, s. 10; SOR/80-403, s. 1; SOR/81-689, s. 4; SOR/82-523, s. 1; SOR/83-280, s. 3; SOR/86-378, s. 17; SOR/90-4, ss. 18 to 24; SOR/91-402, ss. 3 to 6; SOR/93-33, ss. 15(F), 16 and 17; SOR/94-314, ss. 11, 12, 19; SOR/96-245, ss. 20 to 29; SOR/98-268, ss. 7 to 12; SOR/99-352, ss. 19 to 22; SOR/2003-54, ss. 27 to 44, 67, 68, 70 to 79; SOR/2005-206, s. 5; SOR/2009-322, ss. 6(F), 8(F).
 
 
 
@@ -2415,7 +2415,7 @@ Enabling authorities:
 <tr>
 <td>12</td>
 <td>Kluane and Kluane National Park Reserve of Canada</td>
-<td>**(a)** All species
+<td>**(a)** All species of game fish
 
 </td>
 <td>6</td>
@@ -2552,7 +2552,7 @@ Enabling authorities:
 </tr>
 </table>
 
-> SOR/79-333, s. 3; SOR/80-51, s. 11; SOR/82-523, s. 2; SOR/83-280, s. 4; SOR/86-378, s. 18; SOR/90-4, ss. 25 to 34; SOR/91-402, ss. 7 to 17; SOR/93-33, ss. 18 to 30; SOR/94-314, ss. 13 to 16, 20(E), 21(F); SOR/96-245, s. 30; SOR/98-268, ss. 13 to 26; SOR/99-352, ss. 23(F), 24 to 28; SOR/2003-54, ss. 45 to 56; SOR/2005-206, ss. 6, 7.
+> SOR/79-333, s. 3; SOR/80-51, s. 11; SOR/82-523, s. 2; SOR/83-280, s. 4; SOR/86-378, s. 18; SOR/90-4, ss. 25 to 34; SOR/91-402, ss. 7 to 17; SOR/93-33, ss. 18 to 30; SOR/94-314, ss. 13 to 16, 20(E), 21(F); SOR/96-245, s. 30; SOR/98-268, ss. 13 to 26; SOR/99-352, ss. 23(F), 24 to 28; SOR/2003-54, ss. 45 to 56; SOR/2005-206, ss. 6, 7; SOR/2009-322, ss. 7(E), 9(F).
 
 
 
@@ -2837,7 +2837,11 @@ All waters
 <tr>
 <td>2</td>
 <td>All other species</td>
-<td>**(a)** Terra Nova National Park of Canada All brooks and streams
+<td>**(a)** Terra Nova National Park of Canada
+
+All brooks and streams
+
+
 
 **(b)** Fundy National Park of Canada
 
@@ -2905,7 +2909,7 @@ The Maligne River from a point 420 m downstream from the Maligne Lake Outlet br
 </tr>
 </table>
 
-> SOR/79-333, s. 4; SOR/80-51, s. 12; SOR/81-689, s. 5; SOR/82-523, s. 4; SOR/86-378, s. 20; SOR/90-4, s. 37; SOR/93-33, s. 33; SOR/96-245, ss. 37 to 39; SOR/98-268, s. 30; SOR/99-352, s. 30; SOR/2003-54, ss. 61 to 63, 68, 71, 77 to 79: SOR/2005-206, ss. 9, 10.
+> SOR/79-333, s. 4; SOR/80-51, s. 12; SOR/81-689, s. 5; SOR/82-523, s. 4; SOR/86-378, s. 20; SOR/90-4, s. 37; SOR/93-33, s. 33; SOR/96-245, ss. 37 to 39; SOR/98-268, s. 30; SOR/99-352, s. 30; SOR/2003-54, ss. 61 to 63, 68, 71, 77 to 79: SOR/2005-206, ss. 9, 10; SOR/2009-322, s. 8(F).
 
 
 
