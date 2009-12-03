@@ -386,10 +386,8 @@ Enabling authorities:
 
 - **(1)** No person shall drive a motor vehicle on a highway at a rate of speed in excess of the speed limit prescribed by a traffic sign for the highway.
 
-- **(2)** For the purposes of subsection 8(1) of the National Parks Act, the maximum fine to which a person who contravenes subsection (1) is liable on summary conviction is the lesser of
-	- **(a)** the fine prescribed by the highway traffic laws of the province in which the contravention is committed, and
-	- **(b)** $2000.
-> SOR/96-169, s. 5.
+- **(2)** [Repealed, SOR/2009-322, s. 10]
+> SOR/96-169, s. 5; SOR/2009-322, s. 10.
 
 
 
