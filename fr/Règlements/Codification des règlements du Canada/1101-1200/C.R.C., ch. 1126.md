@@ -386,10 +386,8 @@ Autorités habilitantes :
 
 - **(1)** Il est interdit de conduire un véhicule automobile sur une route à une vitesse supérieure à la limite de vitesse prescrite pour cette route et indiquée au moyen d’un signal de route.
 
-- **(2)** Pour l’application du paragraphe 8(1) de la Loi sur les parcs nationaux, l’amende maximale pour quiconque contrevient au paragraphe (1) est, sur déclaration de culpabilité par procédure sommaire, égale au moins élevé des montants suivants :
-	- **a)** l’amende prescrite par les lois sur la circulation routière de la province où l’infraction a été commise;
-	- **b)** 2 000 $.
-> DORS/96-169, art. 5.
+- **(2)** [Abrogé, DORS/2009-322, art. 10]
+> DORS/96-169, art. 5; DORS/2009-322, art. 10.
 
 
 
