@@ -22,64 +22,64 @@ Autorités habilitantes :
 
 **2** Les définitions qui suivent s’appliquent au présent règlement.
 
-***année*** Période de 12 mois commençant le 1<sup>er</sup> avril d’une année et finissant le 31 mars de l’année suivante. (*year*)
+***année*** Période de 12 mois commençant le 1<sup>er</sup> avril d’une année et finissant le 31 mars de l’année suivante. (*year*)
 
-***appât naturel*** Toute matière utilisée pour attirer le poisson qui est formée, en totalité ou en partie, de végétaux ou d’animaux ou de produits végétaux ou animaux. Sont exclus de la présente définition la mouche artificielle et le bouchon de bois. (*natural bait*)
+***appât naturel*** Toute matière utilisée pour attirer le poisson qui est formée, en totalité ou en partie, de végétaux ou d’animaux ou de produits végétaux ou animaux. Sont exclus de la présente définition la mouche artificielle et le bouchon de bois. (*natural bait*)
 
-***attractif chimique*** Toute substance chimique ou odoriférante placée dans un leurre ou déposée sur celui-ci dans le but d’attirer le poisson. (*chemical attractant*)
+***attractif chimique*** Toute substance chimique ou odoriférante placée dans un leurre ou déposée sur celui-ci dans le but d’attirer le poisson. (*chemical attractant*)
 
-***autorisation de pêcher le touladi*** Autorisation de pêcher le touladi dans les eaux du parc national de Prince Albert du Canada, accordée aux termes de l’article 4.1. (*lake trout endorsement*)
+***autorisation de pêcher le touladi*** Autorisation de pêcher le touladi dans les eaux du parc national de Prince Albert du Canada, accordée aux termes de l’article 4.1. (*lake trout endorsement*)
 
-***détecteur de poissons*** Appareil sonar pour détecter le poisson. (*fish finder*)
+***détecteur de poissons*** Appareil sonar pour détecter le poisson. (*fish finder*)
 
 ***directeur***[Abrogée, DORS/96-245, art. 1]
 
-***filet*** S’entend également de toute partie de poisson dont les organes internes, la tête, les nageoires et les arêtes, sauf les arêtes intramusculaires ou latérales, ont été enlevés. (*fillet*)
+***filet*** S’entend également de toute partie de poisson dont les organes internes, la tête, les nageoires et les arêtes, sauf les arêtes intramusculaires ou latérales, ont été enlevés. (*fillet*)
 
 ***fonctionnaire de parc***[Abrogée, DORS/99-352, art. 1]
 
-***gaffeau*** Crochet attaché à l’extrémité d’une baguette ou d’une perche et destiné à sortir un poisson de l’eau ou à le transpercer en n’importe quelle partie du corps. (*gaff-hook*)
+***gaffeau*** Crochet attaché à l’extrémité d’une baguette ou d’une perche et destiné à sortir un poisson de l’eau ou à le transpercer en n’importe quelle partie du corps. (*gaff-hook*)
 
-***hameçon illicite*** Hameçon attaché à une ligne et manipulé de manière à percer un poisson ailleurs que par la bouche. (*foul hooking*)
+***hameçon illicite*** Hameçon attaché à une ligne et manipulé de manière à percer un poisson ailleurs que par la bouche. (*foul hooking*)
 
-***hameçon multiple*** Assemblage de deux ou plusieurs hameçons utilisés comme un seul. (*gang-hook*)
+***hameçon multiple*** Assemblage de deux ou plusieurs hameçons utilisés comme un seul. (*gang-hook*)
 
-***lest en plomb*** Objet dont la teneur en plomb est supérieure à 1,0 pour cent en poids et qui, attaché à une ligne de pêche, peut servir à la faire couler. (*lead sinker*)
+***lest en plomb*** Objet dont la teneur en plomb est supérieure à 1,0 pour cent en poids et qui, attaché à une ligne de pêche, peut servir à la faire couler. (*lead sinker*)
 
-***Loi*** La [Loi sur les parcs nationaux du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%2032.md). (*Act*)
+***Loi*** La [Loi sur les parcs nationaux du Canada](/fr/Lois/Lois%20du%20Canada/2000/ch.%2032.md). (*Act*)
 
-***longueur totale*** Dans le cas d’un poisson, la distance séparant le bout du museau et la fourche caudale ou, lorsqu’il n’y a pas de fourche, le bout de la queue. (*overall length*)
+***longueur totale*** Dans le cas d’un poisson, autre que la mye, la distance séparant le bout du museau et la fourche caudale ou, lorsqu’il n’y a pas de fourche, le bout de la queue; dans le cas des myes, la distance mesurée en ligne droite sur la partie la plus longue de la coquille. (*overall length*)
 
 ***ministre***[Abrogée, DORS/96-245, art. 1]
 
-***mouche artificielle*** Hameçon simple ou double d’une hampe mitoyenne, garni de fils de soie, de paillettes, de laine, de fourrure, de plumes ou autre matière, ou d’une combinaison de ces matières, sans amorce tournante fixée à l’hameçon ou à la ligne. (*artificial fly*)
+***mouche artificielle*** Hameçon simple ou double d’une hampe mitoyenne, garni de fils de soie, de paillettes, de laine, de fourrure, de plumes ou autre matière, ou d’une combinaison de ces matières, sans amorce tournante fixée à l’hameçon ou à la ligne. (*artificial fly*)
 
 ***parc***[Abrogée, DORS/93-33, art. 1]
 
-***pêche à la ligne*** Pêche à l’aide d’une ligne garnie d’un hameçon et tenue à la main, ou à l’aide d’une canne munie d’une ligne et d’un hameçon, à l’exclusion de la pêche à l’aide d’une ligne fixe. (*angling*)
+***pêche à la ligne*** Pêche à l’aide d’une ligne garnie d’un hameçon et tenue à la main, ou à l’aide d’une canne munie d’une ligne et d’un hameçon, à l’exclusion de la pêche à l’aide d’une ligne fixe. (*angling*)
 
 ***pêcher***[Abrogée, DORS/90-4, art. 1]
 
-***permis de pêche*** Permis délivré aux termes de l’alinéa 4a). (*fishing permit*)
+***permis de pêche*** Permis délivré aux termes de l’alinéa 4a). (*fishing permit*)
 
-***permis de pêche de la mye*** Permis de pêche récréative de la mye délivré en application de l’alinéa 4c). (*soft-shell clam permit*)
+***permis de pêche de la mye*** Permis de pêche récréative de la mye délivré en application de l’alinéa 4c). (*soft-shell clam permit*)
 
-***permis de pêche du saumon*** Permis délivré aux termes de l’alinéa 4b). (*salmon licence*)
+***permis de pêche du saumon*** Permis délivré aux termes de l’alinéa 4b). (*salmon licence*)
 
-***poisson*** Sont assimilées à des poissons les myes (*Mya arenaria*). (*fish*)
+***poisson*** Sont assimilées à des poissons les myes (*Mya arenaria*). (*fish*)
 
-***poisson de sport*** Espèce de poissons visée à l’annexe I. (*game fish*)
+***poisson de sport*** Espèce de poissons visée à l’annexe I. (*game fish*)
 
-***possession*** s’entend au sens du paragraphe 4(3) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md); (*possession*)
+***possession*** s’entend au sens du paragraphe 4(3) du [Code criminel](/fr/Lois/Lois%20révisées%20du%20Canada/C/C-46.md); (*possession*)
 
-***saison de pêche*** Période de l’année au cours de laquelle la pêche d’une espèce de poissons est permise dans les eaux d’un parc. (*open season*)
+***saison de pêche*** Période de l’année au cours de laquelle la pêche d’une espèce de poissons est permise dans les eaux d’un parc. (*open season*)
 
-***serre-queue*** Fil, ficelle ou corde fixé à une baguette ou à une perche pour former un lacet ou une attrape dans le but de sortir un poisson de l’eau. (*tailer*)
+***serre-queue*** Fil, ficelle ou corde fixé à une baguette ou à une perche pour former un lacet ou une attrape dans le but de sortir un poisson de l’eau. (*tailer*)
 
 ***surintendant***[Abrogée, DORS/90-4, art. 1]
 
-***turlutte plombée*** Un ou plusieurs hameçons lestés dont la teneur en plomb est supérieure à 1,0 pour cent en poids et qui sont attachés à une ligne de pêche et servent à prendre du poisson. (*lead jig*) 
-> DORS/81-689, art. 1; DORS/86-378, art. 1; DORS/90-4, art. 1 et 38(F); DORS/93-33, art. 1 et 34(A); DORS/94-314, art. 1; DORS/96-245, art. 1; DORS/97-111, art. 1; DORS/98-268, art. 1; DORS/99-352, art. 1; DORS/2003-54, art. 4 et 67.
+***turlutte plombée*** Un ou plusieurs hameçons lestés dont la teneur en plomb est supérieure à 1,0 pour cent en poids et qui sont attachés à une ligne de pêche et servent à prendre du poisson. (*lead jig*) 
+> DORS/81-689, art. 1; DORS/86-378, art. 1; DORS/90-4, art. 1 et 38(F); DORS/93-33, art. 1 et 34(A); DORS/94-314, art. 1; DORS/96-245, art. 1; DORS/97-111, art. 1; DORS/98-268, art. 1; DORS/99-352, art. 1; DORS/2003-54, art. 4 et 67; DORS/2009-322, art. 1.
 
 
 
@@ -228,8 +228,8 @@ Autorités habilitantes :
 	- **a)** qu’une étiquette n’ait été fixée sur ce saumon conformément au paragraphe (1); ou
 	- **b)** que cette possession ne soit en conformité avec les lois de la province où le parc est situé, si ce saumon a été capturé dans des eaux autres que celles décrites au paragraphe (1).
 
-- **(5)** Il est interdit à quiconque, sauf la personne âgée de moins de 16 ans visée au paragraphe 3(3), de fixer une étiquette à saumon qu’il a obtenue en application de l’alinéa 4b) à un saumon pris par une autre personne.
-> DORS/86-378 art. 6; DORS/90-4, art. 5; DORS/93-33, art. 4; DORS/96-245, art. 6; DORS/99-352, art. 8; DORS/2003-54, art. 12; DORS/2005-206, art. 2.
+- **(5)** Il est interdit à quiconque a obtenu une étiquette à saumon en application de l’alinéa 4b) de la fixer à un saumon pris par une autre personne à moins que celle-ci ne soit une personne âgée de moins de 16 ans visée au paragraphe 3(3).
+> DORS/86-378 art. 6; DORS/90-4, art. 5; DORS/93-33, art. 4; DORS/96-245, art. 6; DORS/99-352, art. 8; DORS/2003-54, art. 12; DORS/2005-206, art. 2; DORS/2009-322, art. 2.
 
 
 
@@ -258,11 +258,11 @@ Autorités habilitantes :
 - **(3)** L’étiquette fixée à un touladi ne peut être enlevée qu’au moment où le touladi est préparé en vue d’être consommé.
 
 - **(4)** Il est interdit d’avoir du touladi en sa possession dans le parc national de Prince Albert du Canada, sauf si, selon le cas :
-	- **a)** cette possession est conforme aux lois de la province de la Saskatchewan dans le cas où le touladi est capturé dans des eaux autres que celles du parc;
+	- **a)** cette possession est conforme aux lois de la province de la Saskatchewan et a fait l’objet d’une déclaration sur un formulaire fourni par le directeur à l’arrivée de la personne dans le parc, dans le cas où celle-ci a capturé ou pris le touladi en dehors du parc;
 	- **b)** une étiquette à touladi est fixée au touladi aux termes du paragraphe (1).
 
-- **(5)** Il est interdit à quiconque a obtenu une étiquette à touladi en application de l’article 4.1, sauf la personne âgée de moins de 16 ans visée au paragraphe 3(4), de fixer l’étiquette à un touladi pris par une autre personne.
-> DORS/99-352, art. 9; DORS/2003-54, art. 67.
+- **(5)** Il est interdit à quiconque a obtenu une étiquette à touladi en application de l’article 4.1 de la fixer à un touladi pris par une autre personne, à moins que celle-ci ne soit une personne âgée de moins de 16 ans visée au paragraphe 3(4).
+> DORS/99-352, art. 9; DORS/2003-54, art. 67; DORS/2009-322, art. 3.
 
 
 
@@ -416,9 +416,9 @@ Autorités habilitantes :
 **15.1** Il est interdit de prendre et de garder :
 - **a)** sous réserve de l’alinéa b), des invertébrés dans la partie marine du parc national Forillon du Canada, à moins de détenir un permis de pêche délivré par le directeur qui autorise la prise à des fins scientifiques ou de gestion du parc;
 - **b)** à des fins commerciales, des homards ou du poisson servant d’appât à homards, dans la partie marine du parc national Forillon du Canada, à moins de détenir un permis autorisant cette activité qui a été délivré en vertu du Règlement de 1998 sur l’exploitation de commerces dans les parcs nationaux;
-- **c)** à des fins commerciales, de la mye dans le parc national Kouchibouguac du Canada, à moins de détenir un permis autorisant cette activité qui a été délivré en vertu du Règlement de 1998 sur l’exploitation de commerces dans les parcs nationaux;
-- **d)** des invertébrés dans le parc national Kouchibouguac du Canada, à moins de détenir un permis de pêche délivré par le directeur qui autorise la prise à des fins scientifiques ou de gestion du parc.
-> DORS/96-245, art. 12; DORS/2003-54, art. 17.
+- **c)** sous réserve de l’alinéa d), des invertébrés dans le parc national Kouchibouguac du Canada, à moins de détenir un permis de pêche délivré par le directeur qui autorise la prise à des fins scientifiques ou de gestion du parc;
+- **d)** à des fins commerciales, de la mye dans le parc national Kouchibouguac du Canada, à moins de détenir un permis qui autorise cette activité et qui a été délivré en vertu du [Règlement sur l’exploitation de commerces dans les parcs nationaux du Canada](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/98/455.md).
+> DORS/96-245, art. 12; DORS/2003-54, art. 17; DORS/2009-322, art. 4.
 
 
 
@@ -433,13 +433,13 @@ Autorités habilitantes :
 - **c)** une ligne de pêche munie d’une mouche artificielle à laquelle est attachée un appât naturel vif ou mort;
 - **d)** une ligne de pêche munie d’une combinaison d’hameçons capables de prendre plus d’un poisson à la fois;
 - **e)** une ligne de pêche munie de plus d’un genre de leurre;
-- **f)** une leurre ayant plus de
+- **f)** un leurre ayant, selon le cas, plus de :
 	- **(i)** deux hameçons simples,
-	- **(ii)** deux hameçons multiples, ou
-	- **(iii)** un hameçon simple et un hameçon multiple; ou
+	- **(ii)** deux hameçons multiples,
+	- **(iii)** un hameçon simple et un hameçon multiple;
 - **g)** un hameçon multiple muni de plus de trois hameçons;
 - **h)** un lest en plomb ou une turlutte plombée pesant moins de 50 g.
-> DORS/97-111, art. 2.
+> DORS/97-111, art. 2; DORS/2009-322, art. 5(F).
 
 
 
@@ -897,7 +897,7 @@ Autorités habilitantes :
 </tr>
 <tr>
 <td>8</td>
-<td>Doré</td>
+<td>Doré jaune</td>
 <td>*Stizostedion vitreum*</td>
 </tr>
 <tr>
@@ -923,7 +923,7 @@ Autorités habilitantes :
 </tr>
 </table>
 
-> DORS/83-280, art. 2(A); DORS/86-378, art. 16; DORS/90-4, art. 17; DORS/94-314, art. 10.
+> DORS/83-280, art. 2(A); DORS/86-378, art. 16; DORS/90-4, art. 17; DORS/94-314, art. 10; DORS/2009-322, art. 9(F).
 
 
 
@@ -1305,7 +1305,7 @@ Autorités habilitantes :
 </tr>
 <tr>
 <td>32.3</td>
-<td>Le ruisseau Clyburn, de la limite du parc au détroit de Cabot jusqu’à l’extrémité inférieure du bassin A Frame </td>
+<td>Le ruisseau Clyburn, de la limite du parc au détroit de Cabot jusqu’à l’extrémité aval du bassin A Frame </td>
 <td>Toutes espèces, sauf le saumon</td>
 <td>Du 15 avril au 30 septembre</td>
 </tr>
@@ -1315,7 +1315,7 @@ Autorités habilitantes :
 </tr>
 <tr>
 <td>32.4</td>
-<td>Le ruisseau Clyburn et ses affluents en amont à partir de l’extrémité inférieure du bassin A Frame </td>
+<td>Le ruisseau Clyburn et ses affluents en amont à partir de l’extrémité aval du bassin A Frame </td>
 <td>Toutes espèces, sauf le saumon</td>
 <td>De la fête de Victoria au 30 septembre</td>
 </tr>
@@ -1429,7 +1429,6 @@ Autorités habilitantes :
 <td>Du 1<sup>er</sup> décembre au 31 août</td>
 </tr>
 <tr>
-<td>Toutes les eaux </td>
 <td>Anguille d’Amérique (avec engins de pêche à la ligne)</td>
 <td>Du 15 avril au 15 septembre</td>
 </tr>
@@ -1514,7 +1513,7 @@ Autorités habilitantes :
 </tr>
 </table>
 
-> DORS/78-562, art. 1 à 3; DORS/79-333, art. 2; DORS/80-51, art. 10; DORS/80-403, art. 1; DORS/81-689, art. 4; DORS/82-523, art. 1; DORS/83-280, art. 3; DORS/86-378, art. 17; DORS/90-4, art. 18 à 24; DORS/91-402, art. 3 à 6; DORS/93-33, art. 15(F), 16 et 17; DORS/94-314, art. 11, 12 et 19; DORS/96-245, art. 20 à 29; DORS/98-268, art. 7 à 12; DORS/99-352, art. 19 à 22; DORS/2003-54, art. 27 à 44, 67, 68 et 70 à 79; DORS/2005-206, art. 5.
+> DORS/78-562, art. 1 à 3; DORS/79-333, art. 2; DORS/80-51, art. 10; DORS/80-403, art. 1; DORS/81-689, art. 4; DORS/82-523, art. 1; DORS/83-280, art. 3; DORS/86-378, art. 17; DORS/90-4, art. 18 à 24; DORS/91-402, art. 3 à 6; DORS/93-33, art. 15(F), 16 et 17; DORS/94-314, art. 11, 12 et 19; DORS/96-245, art. 20 à 29; DORS/98-268, art. 7 à 12; DORS/99-352, art. 19 à 22; DORS/2003-54, art. 27 à 44, 67, 68 et 70 à 79; DORS/2005-206, art. 5; DORS/2009-322, art. 6(F) et 8(F).
 
 
 
@@ -1769,7 +1768,7 @@ Autorités habilitantes :
 <td>1</td>
 </tr>
 <tr>
-<td>**c)** Doré
+<td>**c)** Doré jaune
 
 </td>
 <td>2</td>
@@ -1801,7 +1800,7 @@ Autorités habilitantes :
 <td>3</td>
 </tr>
 <tr>
-<td>**c)** Doré
+<td>**c)** Doré jaune
 
 </td>
 <td>2</td>
@@ -2555,7 +2554,7 @@ Autorités habilitantes :
 </tr>
 </table>
 
-> DORS/79-333, art. 3; DORS/80-51, art. 11; DORS/82-523, art. 2; DORS/83-280, art. 4; DORS/86-378, art. 18; DORS/90-4, art. 25 à 34; DORS/91-402, art. 7 à 17; DORS/93-33, art. 18 à 30; DORS/94-314, art. 13 à 16, 20(A) et 21(F); DORS/96-245, art. 30; DORS/98-268, art. 13 à 26; DORS/99-352, art. 23(F) et 24 à 28; DORS/2003-54, art. 45 à 56; DORS/2005-206, art. 6 et 7.
+> DORS/79-333, art. 3; DORS/80-51, art. 11; DORS/82-523, art. 2; DORS/83-280, art. 4; DORS/86-378, art. 18; DORS/90-4, art. 25 à 34; DORS/91-402, art. 7 à 17; DORS/93-33, art. 18 à 30; DORS/94-314, art. 13 à 16, 20(A) et 21(F); DORS/96-245, art. 30; DORS/98-268, art. 13 à 26; DORS/99-352, art. 23(F) et 24 à 28; DORS/2003-54, art. 45 à 56; DORS/2005-206, art. 6 et 7; DORS/2009-322, art. 7(A) et 9(F).
 
 
 
@@ -2862,7 +2861,7 @@ Toutes les eaux
 
 
 
-**(iii)** le ruisseau Clyburn et ses affluents en amont de l’extrémité inférieure du secteur connu sous le nom de bassin A Frame
+**(iii)** le ruisseau Clyburn et ses affluents en amont de l’extrémité aval du secteur connu sous le nom de bassin A Frame
 
 
 
@@ -2908,7 +2907,7 @@ La rivière Maligne, à partir d’un point situé à 420 m en aval du pont de 
 </tr>
 </table>
 
-> DORS/79-333, art. 4; DORS/80-51, art. 12; DORS/81-689, art. 5; DORS/82-523, art. 4; DORS/86-378, art. 20; DORS/90-4, art. 37; DORS/93-33, art. 33; DORS/96-245, art. 37 à 39; DORS/98-268, art. 30; DORS/99-352, art. 30; DORS/2003-54, art. 61 à 63, 68, 71 et 77 à 79; DORS/2005-206, art. 9 et 10.
+> DORS/79-333, art. 4; DORS/80-51, art. 12; DORS/81-689, art. 5; DORS/82-523, art. 4; DORS/86-378, art. 20; DORS/90-4, art. 37; DORS/93-33, art. 33; DORS/96-245, art. 37 à 39; DORS/98-268, art. 30; DORS/99-352, art. 30; DORS/2003-54, art. 61 à 63, 68, 71 et 77 à 79; DORS/2005-206, art. 9 et 10; DORS/2009-322, art. 8(F).
 
 
 
