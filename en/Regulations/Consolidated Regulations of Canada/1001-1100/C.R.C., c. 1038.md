@@ -63,7 +63,7 @@ Enabling authorities:
 ***antilock brake system*** or ***ABS*** means the portion of a service brake system that automatically controls the degree of rotational wheel slip during braking by
 - **(a)** sensing the rate of angular rotation of the wheels,
 - **(b)** transmitting signals regarding the rate of wheel angular rotation to one or more controlling devices that interpret those signals and generate responsive controlling output signals, and
-- **(c)** transmitting those controlling signals to one or more modulators that adjust brake actuating forces in response to those signals; (*dispositif de frein anti-blocage*ou*ABS*)
+- **(c)** transmitting those controlling signals to one or more modulators that adjust brake actuating forces in response to those signals; (*dispositif de frein antiblocage** ou **ABS*)
 
 ***antilock system***[Repealed, SOR/97-200, s. 1]
 
@@ -228,7 +228,7 @@ Enabling authorities:
 
 ***engine coolant temperature tell-tale*** means a signal that, when alight, indicates that the temperature of the engine coolant is above the normal engine running temperature prescribed by the manufacturer; (*témoin de température du liquide de refroidissement*)
 
-***engine type*** means a power source distinguished by the fuel utilized, number of cylinders, displacement, net brake horsepower or other characteristics; (*type de moteur*)
+***engine type*** means a power source distinguished by the fuel utilized, number of cylinders, displacement, net power or other characteristics; (*type de moteur*)
 
 ***ERBP***[Repealed, SOR/2007-180, s. 1]
 
@@ -268,9 +268,9 @@ Enabling authorities:
 
 ***grade***[Repealed, SOR/2007-180, s. 1]
 
-***gross axle weight rating*** or ***GAWR*** means the value specified by the vehicle manufacturer as the load-carrying capacity of a single axle system, as measured at the tire-ground interfaces; (*poids nominal brut sur l’essieu*or*PNBE*)
+***gross axle weight rating*** or ***GAWR*** means the value specified by the vehicle manufacturer as the load-carrying capacity of a single axle system, as measured at the tire-ground interfaces; (*poids nominal brut sur l’essieu** or **PNBE*)
 
-***gross vehicle weight rating*** or ***GVWR*** means the value specified by the vehicle manufacturer as the loaded weight of a single vehicle; (*poids nominal brut du véhicule*or*PNBV*)
+***gross vehicle weight rating*** or ***GVWR*** means the value specified by the vehicle manufacturer as the loaded weight of a single vehicle; (*poids nominal brut du véhicule** or **PNBV*)
 
 ***H-point*** means the mechanically hinged hip point of a manikin that simulates the actual pivot centre of the human torso and thigh, described in SAE Standard J826, Devices for Use in Defining and Measuring Vehicle Seating Accommodation (July 1995); (*point H*)
 
@@ -356,7 +356,7 @@ Enabling authorities:
 
 ***line*** means the name that a manufacturer applies to a family of vehicles within a make that have a degree of commonality of body, chassis, cab type or other features of construction; (*ligne*)
 
-***liquefied petroleum gas*** or ***LPG*** means a hydrocarbon product that meets National Standard of Canada CAN/CGSB-3.14-M88, Liquefied Petroleum Gas (Propane) (August 1988). (*gaz de pétrole liquéfié*ou*GPL*)
+***liquefied petroleum gas*** or ***LPG*** means a hydrocarbon product that meets National Standard of Canada CAN/CGSB-3.14-M88, Liquefied Petroleum Gas (Propane) (August 1988). (*gaz de pétrole liquéfié** ou **GPL*)
 
 ***load divider dolly*** means a trailer that consists of a trailer chassis and one or more axles, with no solid bed, body or container attached, and that is designed exclusively to support a portion of the load on a trailer or truck excluded from all the requirements of Technical Standards Document No. 121, Air Brake Systems; (*chariot de répartition de charge*)
 
@@ -740,20 +740,54 @@ except that the volume of fuel referred to in paragraph (b) does not include any
 
 ***95th percentile adult male*** means a person having as physical characteristics a mass of 97.5 kg, height of 1849 mm, erect sitting height of 965 mm, normal sitting height of 930 mm, hip sitting breadth of 419 mm, hip sitting circumference of 1199 mm, waist sitting circumference of 1080 mm, chest depth of 267 mm, chest circumference of 1130 mm, knee height of 594 mm, popliteal height of 490 mm, elbow rest height of 295 mm, thigh clearance height of 175 mm, buttock-to-knee length of 640 mm, buttock-to-poples length of 549 mm, elbow-to-elbow breadth of 506 mm and seat breadth of 404 mm. (*95<sup>e</sup> percentile adulte du sexe masculin*)
 
-- **(2)** In the case of any bench or split-bench seat having more than 1 270 mm of hip room, as measured in accordance with sections 6.1.34, 6.2.31 and 6.4.27 of SAE Recommended Practice J1100, Motor Vehicle Dimensions (February 2001), in a passenger car, truck or multi-purpose passenger vehicle having a GVWR of less than 4 536 kg, the seat shall be deemed to contain not less than three designated seating positions unless the seat design or vehicle design is such that the centre position is not capable of being used as a seating position.
-> SOR/78-257, s. 1; SOR/78-351, s. 1; SOR/78-525, s. 1; SOR/79-306, s. 1; SOR/79-339, s. 1; SOR/79-340, s. 1; SOR/79-374, s. 1; SOR/79-677, s. 1; SOR/79-719, s. 1; SOR/79-940, s. 1; SOR/80-161, s. 1; SOR/80-282, s. 1; SOR/80-439, s. 1; SOR/80-440, s. 1; SOR/80-636, s. 1; SOR/80-638, s. 1; SOR/80-782, s. 1; SOR/81-88, s. 1; SOR/81-1033, s. 1; SOR/82-569, s. 1; SOR/82-656, s. 1; SOR/82-753, s. 1; SOR/82-754, s. 1; SOR/83-176, s. 1; SOR/83-859, s. 1; SOR/84-374, s. 1; SOR/84-812, s. 1; SOR/86-161, s. 1; SOR/86-683, s. 1; SOR/86-976, s. 1; SOR/86-977, s. 1; SOR/87-154, s. 1; SOR/87-497, s. 1; SOR/87-578, s. 1; SOR/87-660, s. 1; SOR/88-268, s. 1; SOR/89-384, s. 1; SOR/90-588, s. 1; SOR/90-805, s. 1; SOR/91-425, s. 1; SOR/91-692, s. 1; SOR/92-173, s. 1; SOR/92-250, s. 1; SOR/92-545, s. 1; SOR/93-5, s. 1; SOR/93-31, s. 1; SOR/93-146, s. 1; SOR/93-561, s. 1; SOR/94-291, s. 1; SOR/94-669, s. 1; SOR/94-670, s. 2(F); SOR/94-692, s. 2(F); SOR/94-717, s. 1; SOR/95-147, s. 1; SOR/95-164, s. 1; SOR/95-536, s. 7; SOR/96-366, s. 1; SOR/97-141, s. 1; SOR/97-200, s. 1; SOR/97-201, s. 1; SOR/97-421, ss. 1, 17, 22(F); SOR/97-447, s. 1; SOR/98-125, s. 1; SOR/98-160, s. 1; SOR/98-457, s. 1; SOR/98-524, s. 1(F); SOR/99-357, s. 1; SOR/2000-182, s. 1; SOR/2000-304, s. 1; SOR/2001-35, s. 1; SOR/2001-117, s. 1; SOR/2001-152, s. 1; SOR/2002-15, s. 25(F); SOR/2002-55, s. 1; SOR/2002-187, s. 1; SOR/2002-205, s. 1; SOR/2003-57, s. 3(F); SOR/2003-272, s. 1; SOR/2004-250, s. 1; SOR/2005-45, s. 1; SOR/2006-94, s. 4(E); SOR/2007-180, s. 1; SOR/2008-72, s. 1; SOR/2008-73, s. 1; SOR/2008-104, s. 1; SOR/2008-229, s. 1; SOR/2008-258, s. 1; SOR/2009-291, s. 1.
+- **(2)** [Repealed, SOR/2009-318, s. 1]
+> SOR/78-257, s. 1; SOR/78-351, s. 1; SOR/78-525, s. 1; SOR/79-306, s. 1; SOR/79-339, s. 1; SOR/79-340, s. 1; SOR/79-374, s. 1; SOR/79-677, s. 1; SOR/79-719, s. 1; SOR/79-940, s. 1; SOR/80-161, s. 1; SOR/80-282, s. 1; SOR/80-439, s. 1; SOR/80-440, s. 1; SOR/80-636, s. 1; SOR/80-638, s. 1; SOR/80-782, s. 1; SOR/81-88, s. 1; SOR/81-1033, s. 1; SOR/82-569, s. 1; SOR/82-656, s. 1; SOR/82-753, s. 1; SOR/82-754, s. 1; SOR/83-176, s. 1; SOR/83-859, s. 1; SOR/84-374, s. 1; SOR/84-812, s. 1; SOR/86-161, s. 1; SOR/86-683, s. 1; SOR/86-976, s. 1; SOR/86-977, s. 1; SOR/87-154, s. 1; SOR/87-497, s. 1; SOR/87-578, s. 1; SOR/87-660, s. 1; SOR/88-268, s. 1; SOR/89-384, s. 1; SOR/90-588, s. 1; SOR/90-805, s. 1; SOR/91-425, s. 1; SOR/91-692, s. 1; SOR/92-173, s. 1; SOR/92-250, s. 1; SOR/92-545, s. 1; SOR/93-5, s. 1; SOR/93-31, s. 1; SOR/93-146, s. 1; SOR/93-561, s. 1; SOR/94-291, s. 1; SOR/94-669, s. 1; SOR/94-670, s. 2(F); SOR/94-692, s. 2(F); SOR/94-717, s. 1; SOR/95-147, s. 1; SOR/95-164, s. 1; SOR/95-536, s. 7; SOR/96-366, s. 1; SOR/97-141, s. 1; SOR/97-200, s. 1; SOR/97-201, s. 1; SOR/97-421, ss. 1, 17, 22(F); SOR/97-447, s. 1; SOR/98-125, s. 1; SOR/98-160, s. 1; SOR/98-457, s. 1; SOR/98-524, s. 1(F); SOR/99-357, s. 1; SOR/2000-182, s. 1; SOR/2000-304, s. 1; SOR/2001-35, s. 1; SOR/2001-117, s. 1; SOR/2001-152, s. 1; SOR/2002-15, s. 25(F); SOR/2002-55, s. 1; SOR/2002-187, s. 1; SOR/2002-205, s. 1; SOR/2003-57, s. 3(F); SOR/2003-272, s. 1; SOR/2004-250, s. 1; SOR/2005-45, s. 1; SOR/2006-94, s. 4(E); SOR/2007-180, s. 1; SOR/2008-72, s. 1; SOR/2008-73, s. 1; SOR/2008-104, s. 1; SOR/2008-229, s. 1; SOR/2008-258, s. 1; SOR/2009-291, s. 1; SOR/2009-318, s. 1.
 
 
 
 
-**2.1** Where, in the application to a vehicle of a portion of a section of these Regulations or a portion of a provision of a technical standards document, either the metric or the imperial system of measurement is used, the same system of measurement shall be used in the application to the vehicle of any other portion of the section or provision.
-> SOR/79-263, s. 1; SOR/82-482, s. 1; SOR/96-366, s. 2.
+
+## Metric or Imperial System
+
+
+**2.1** If, in the application to a vehicle of a portion of a section of these Regulations or a portion of a provision of a technical standards document, either the metric or the imperial system of measurement is used, the same system of measurement shall be used in the application to the vehicle of any other portion of the section or provision.
+> SOR/79-263, s. 1; SOR/82-482, s. 1; SOR/96-366, s. 2; SOR/2009-318, s. 2.
 
 
 
 
-**2.2** For the purpose of determining the number of wheels on a vehicle, two wheels are considered to be one wheel if they are mounted on the same axle and the distance between the centres of their areas of contact with the ground is less than 460 mm.
-> SOR/2003-272, s. 2.
+
+## Number of Wheels
+
+
+**2.2** Two wheels are considered to be one wheel if they are mounted on the same axle and the distance between the centres of their areas of contact with the ground is less than 460 mm.
+> SOR/2003-272, s. 2; SOR/2009-318, s. 2.
+
+
+
+
+
+## Designated Seating Capacity
+
+
+**2.3** In the case of any bench or split-bench seat having more than 1 270 mm of hip room, as measured in accordance with sections 6.1.34, 6.2.31 and 6.4.27 of SAE Recommended Practice J1100, Motor Vehicle Dimensions (February 2001), in a passenger car, truck or multi-purpose passenger vehicle having a GVWR of less than 4 536 kg, the seat shall be deemed to contain not less than three designated seating positions unless the seat design or vehicle design is such that the central space is not capable of being used as a seating position.
+> SOR/2009-318, s. 2.
+
+
+
+
+
+## Prescribed Class of a Vehicle
+
+
+**2.4** 
+
+- **(1)** In order to determine the prescribed class of a vehicle, any space in the vehicle designed for use by a person in a wheelchair is deemed to contain four designated seating positions for the purpose of determining the designated seating capacity if
+	- **(a)** the vehicle was designed to have a designated seating capacity of more than 10; and
+	- **(b)** any of the intended designated seating positions are replaced by a space designed for use by a person in a wheelchair.
+
+- **(2)** In order to determine the prescribed class of a vehicle resulting from the alteration of a bus by the replacement of any designated seating position with a space designed for use by a person in a wheelchair, the space may, at the option of the manufacturer, be considered to be equivalent to four designated seating positions for the purpose of calculating the designated seating capacity.
+> SOR/2009-318, s. 2.
 
 
 
@@ -1338,25 +1372,25 @@ except that the volume of fuel referred to in paragraph (b) does not include any
 
 **15** 
 
-- **(1)** The notice of defect referred to in subsections 10(1) and (3) of the Act shall be given in writing and shall indicate
+- **(1)** The notice of defect referred to in subsections 10(1) and (3) of the Act shall be given in writing and shall indicate
 	- **(a)** the name of the company giving the notice;
-	- **(b)** the identifying classification of each vehicle in respect of which the notice is given, including its make, model, model year, vehicle identification number and the period during which it was manufactured;
+	- **(b)** the prescribed class of each vehicle in respect of which the notice is given and the vehicle’s make, model, model year and vehicle identification number, the period during which it was manufactured and any other information necessary to permit its identification;
 	- **(c)** the estimated percentage of the potentially affected vehicles that contain the defect;
 	- **(d)** a description of the defect;
 	- **(e)** an evaluation of the safety risk arising from the defect; and
 	- **(f)** a statement of the measures to be taken to correct the defect.
 
-- **(2)** A company shall, within 60 days after it has given a notice of defect, submit to the Minister a report referred to in subsection 10(6) of the Act containing, in addition to the information required by subsection (1), the following information:
-	- **(a)** the total number of vehicles affected by the notice of defect and the number of such vehicles in each identifying classification;
+- **(2)** A company shall, within 60 days after it has given a notice of defect, submit to the Minister a report referred to in subsection 10(6) of the Act containing, in addition to the information required by subsection (1), the following information:
+	- **(a)** the number of vehicles affected by the notice of defect and the number of those vehicles in each prescribed class;
 	- **(b)** a chronology of all principal events that led to the determination of the existence of the defect; and
 	- **(c)** copies of all notices, bulletins and other circulars issued by the company in respect of the defect, including a detailed description of the nature and physical location of the defect with diagrams and other illustrations as necessary.
 
-- **(3)** For the purposes of subsection 10(6) of the Act, the quarterly reports to be submitted following the report referred to in subsection (2) shall contain the following information:
+- **(3)** For the purposes of subsection 10(6) of the Act, the quarterly reports to be submitted following the report referred to in subsection (2) shall contain the following information:
 	- **(a)** the number, title or other identification assigned by the company to the notice of defect;
 	- **(b)** the revised number of vehicles affected by the notice of defect, if applicable;
 	- **(c)** the date that notices of defect were given to the current owners of the affected vehicles; and
 	- **(d)** the total number or percentage of vehicles repaired, including vehicles requiring inspection only.
-> SOR/95-147, s. 2; SOR/98-524, s. 3; SOR/2008-104, s. 3.
+> SOR/95-147, s. 2; SOR/98-524, s. 3; SOR/2008-104, s. 3; SOR/2009-318, s. 3.
 
 
 
@@ -1471,8 +1505,8 @@ Issued in Ottawa on _________________________, 20_________________________
 <th>Restricted-use Motorcycle</th>
 <th>Multi-purpose Passenger Vehicle</th>
 <th>Passenger Car</th>
-<th>Snow-mobile</th>
-<th>Snow-mobile Cutter</th>
+<th>Snow­mobile</th>
+<th>Snow­mobile Cutter</th>
 <th>Trailer</th>
 <th>Trailer Converter Dolly</th>
 <th>Truck</th>
@@ -1481,8 +1515,8 @@ Issued in Ottawa on _________________________, 20_________________________
 <th>Three-wheeled Vehicle</th>
 </tr>
 <tr>
-<th>Enclosed Motor- cycle</th>
-<th>Open Motor-cycle</th>
+<th>Enclosed Motor­cycle</th>
+<th>Open Motor­cycle</th>
 <th>Limited-speed Motorcycle</th>
 <th>Motor Tricycle</th>
 <th>Vehicle Imported Temporarily for Special Purposes</th>
@@ -1752,7 +1786,7 @@ Issued in Ottawa on _________________________, 20_________________________
 </tr>
 <tr>
 <td>116</td>
-<td>Hydraulic Brake Fluids</td>
+<td>Motor Vehicle Brake Fluids</td>
 <td>X</td>
 <td>X</td>
 <td>X</td>
@@ -1852,7 +1886,7 @@ Issued in Ottawa on _________________________, 20_________________________
 </tr>
 <tr>
 <td>123</td>
-<td>Controls and Displays — Motorcycles</td>
+<td>Motorcycle Controls and Displays</td>
 <td></td>
 <td>X</td>
 <td>X</td>
@@ -2736,7 +2770,7 @@ Issued in Ottawa on _________________________, 20_________________________
 </tr>
 </table>
 
-> SOR/78-80, s. 1; SOR/78-910, s. 1(F); SOR/79-305, s. 1; SOR/79-306, s. 2; SOR/79-339, s. 2; SOR/79-340, s. 2; SOR/79-374, s. 2; SOR/79-677, s. 2; SOR/79-940, s. 5; SOR/80-160, s. 1; SOR/80-161, s. 2; SOR/80-282, s. 2; SOR/80-439, s. 2; SOR/80-639, s. 1(F); SOR/81-88, s. 2; SOR/81-665, s. 1; SOR/82-656, s. 2; SOR/82-753, s. 2; SOR/82-754, s. 2; SOR/83-138, s. 1; SOR/84-812, s. 2; SOR/86-682, s. 1; SOR/86-683, s. 2; SOR/86-975, s. 1; SOR/87-658, s. 1; SOR/87-660, s. 3; SOR/88-268, s. 4; SOR/89-384, ss. 2(F), 3 to 5; SOR/90-805, s. 4; SOR/91-425, s. 3; SOR/92-173, s. 5. SOR/92-250, s. 2(F); SOR/92-545, s. 2(F);SOR/93-31, s. 2; SOR/93-146, s. 3; SOR/93-561, s. 2; SOR/94-291, s. 2; SOR/94-669, s. 2; SOR/95-60, s. 1; SOR/95-147, ss. 5, 15(F); SOR/95-164, s. 2; SOR/96-89, s. 1; SOR/96-366, s. 4; SOR/96-437, s. 1; SOR/97-14, s. 1; SOR/97-141, s. 3; SOR/97-200, s. 2; SOR/97-201, s. 2; SOR/97-376, s. 4; SOR/97-421, s. 2; SOR/97-463, s. 1; SOR/97-532, ss. 1, 2; SOR/98-160, s. 2; SOR/98-457, s. 2; SOR/98-595, s. 1; SOR/99-357, s. 2; SOR/2000-182, s. 4; SOR/2000-304, s. 4; SOR/2001-35, ss. 2, 3; SOR/2001-353, s. 1; SOR/2001-486, s. 1; SOR/2002-55, s. 12; SOR/2002-205, s. 2; SOR/2003-272, s. 6; SOR/2003-359, ss. 1 to 3; SOR/2004-195, s. 1; SOR/2005-45, s. 2; SOR/2006-94, s. 1; SOR/2007-180, ss. 2 to 4; SOR/2007-246, s. 1; SOR/2008-73, s. 2; SOR/2008-104, ss. 7(F), 8(F); SOR/2008-229, s. 2; SOR/2008-258, ss. 5, 6; SOR/2009-33, s. 1(F); SOR/2009-121, s. 1; SOR/2009-291, ss. 2, 3.
+> SOR/78-80, s. 1; SOR/78-910, s. 1(F); SOR/79-305, s. 1; SOR/79-306, s. 2; SOR/79-339, s. 2; SOR/79-340, s. 2; SOR/79-374, s. 2; SOR/79-677, s. 2; SOR/79-940, s. 5; SOR/80-160, s. 1; SOR/80-161, s. 2; SOR/80-282, s. 2; SOR/80-439, s. 2; SOR/80-639, s. 1(F); SOR/81-88, s. 2; SOR/81-665, s. 1; SOR/82-656, s. 2; SOR/82-753, s. 2; SOR/82-754, s. 2; SOR/83-138, s. 1; SOR/84-812, s. 2; SOR/86-682, s. 1; SOR/86-683, s. 2; SOR/86-975, s. 1; SOR/87-658, s. 1; SOR/87-660, s. 3; SOR/88-268, s. 4; SOR/89-384, ss. 2(F), 3 to 5; SOR/90-805, s. 4; SOR/91-425, s. 3; SOR/92-173, s. 5. SOR/92-250, s. 2(F); SOR/92-545, s. 2(F);SOR/93-31, s. 2; SOR/93-146, s. 3; SOR/93-561, s. 2; SOR/94-291, s. 2; SOR/94-669, s. 2; SOR/95-60, s. 1; SOR/95-147, ss. 5, 15(F); SOR/95-164, s. 2; SOR/96-89, s. 1; SOR/96-366, s. 4; SOR/96-437, s. 1; SOR/97-14, s. 1; SOR/97-141, s. 3; SOR/97-200, s. 2; SOR/97-201, s. 2; SOR/97-376, s. 4; SOR/97-421, s. 2; SOR/97-463, s. 1; SOR/97-532, ss. 1, 2; SOR/98-160, s. 2; SOR/98-457, s. 2; SOR/98-595, s. 1; SOR/99-357, s. 2; SOR/2000-182, s. 4; SOR/2000-304, s. 4; SOR/2001-35, ss. 2, 3; SOR/2001-353, s. 1; SOR/2001-486, s. 1; SOR/2002-55, s. 12; SOR/2002-205, s. 2; SOR/2003-272, s. 6; SOR/2003-359, ss. 1 to 3; SOR/2004-195, s. 1; SOR/2005-45, s. 2; SOR/2006-94, s. 1; SOR/2007-180, ss. 2 to 4; SOR/2007-246, s. 1; SOR/2008-73, s. 2; SOR/2008-104, ss. 7(F), 8(F); SOR/2008-229, s. 2; SOR/2008-258, ss. 5, 6; SOR/2009-33, s. 1(F); SOR/2009-121, s. 1; SOR/2009-291, ss. 2, 3; SOR/2009-318, ss. 4, 5(E), 6(F), 7(F).
 
 
 
@@ -3235,7 +3269,7 @@ marque optionnelle
 <td></td>
 <td>JAUNE</td>
 <td></td>
-<td>Mauvais fonctionnement du dispositif de frein anti-blocage</td>
+<td>Mauvais fonctionnement du dispositif de frein antiblocage</td>
 </tr>
 <tr>
 <td>Variable brake proportioning system malfunction <sup>6</sup></td>
@@ -3456,7 +3490,7 @@ choix du fabricant
 </tr>
 </table>
 
-> SOR/78-257, s. 2; SOR/86-976, s. 2; SOR/93-31, s. 3; SOR/94-374, s. 5; SOR/95-147, s. 7; SOR/95-164, s. 3; SOR/97-200, s. 3; SOR/97-421, ss. 18(E), 19(F), 20(F); SOR/2003-272, s. 7; SOR/2007-180, s. 22(F); SOR/2008-258, s. 7..
+> SOR/78-257, s. 2; SOR/86-976, s. 2; SOR/93-31, s. 3; SOR/94-374, s. 5; SOR/95-147, s. 7; SOR/95-164, s. 3; SOR/97-200, s. 3; SOR/97-421, ss. 18(E), 19(F), 20(F); SOR/2003-272, s. 7; SOR/2007-180, s. 22(F); SOR/2008-258, s. 7; SOR/2009-318, s. 19(F)..
 
 
 
@@ -3868,7 +3902,7 @@ choix du fabricant
 - **(5)** The statement set out in S5.4.3 of TSD 105 may be replaced by another statement to the same effect.
 
 - **(6)** This section expires on June 1, 2013.
-> SOR/79-374, s. 3; SOR/80-637, s. 1; SOR/86-683, s. 3; SOR/86-976, s. 3; SOR/91-144, s. 1; SOR/96-89, s. 2; SOR/97-200, ss. 4, 6; SOR/97-421, s. 5; SOR/98-524, s. 4(F); SOR/99-357, s. 3; SOR/2001-35, s. 4; SOR/2005-42, s. 13; SOR/2008-104, s. 11; SOR/2009-79, s. 1..
+> SOR/79-374, s. 3; SOR/80-637, s. 1; SOR/86-683, s. 3; SOR/86-976, s. 3; SOR/91-144, s. 1; SOR/96-89, s. 2; SOR/97-200, ss. 4, 6; SOR/97-421, s. 5; SOR/98-524, s. 4(F); SOR/99-357, s. 3; SOR/2001-35, s. 4; SOR/2005-42, s. 13; SOR/2008-104, s. 11; SOR/2009-79, s. 1; SOR/2009-318, s. 19(F)..
 
 
 
@@ -3891,24 +3925,39 @@ choix du fabricant
 </tr>
 <tr>
 <td>1</td>
-<td>ASTM B 117 – 64, Salt Spray (Fog) Testing</td>
 <td>ASTM B 117 – 03, Standard Practice for Operating Salt Spray (Fog) Apparatus</td>
+<td>ASTM B 117 – 07a, Standard Practice for Operating Salt Spray (Fog) Apparatus</td>
 </tr>
 <tr>
 <td>2</td>
-<td>ASTM D 471 – 64, Method of Test for Change in Properties of Elastomeric Vulcanizers Resulting From Immersion in Liquids</td>
-<td>ASTM D 471 – 06, Standard Test Method for Rubber Property — Effect of Liquids</td>
+<td>ASTM D 471 – 98<sup>ε1</sup>, Standard Test Method for Rubber Property — Effect of Liquids</td>
+<td>ASTM D 471 – 06<sup>ε1</sup>, Standard Test Method for Rubber Property — Effect of Liquids</td>
 </tr>
 <tr>
 <td>3</td>
-<td>ASTM E 4 – 64, Methods of Verification of Testing Machines</td>
-<td>ASTM E 4 – 07, Standard Practices for Force Verification of Testing Machines</td>
+<td>ASTM D 4329 – 99, Standard Practice for Fluorescent UV Exposure of Plastics</td>
+<td>ASTM D 4329 – 05, Standard Practice for Fluorescent UV Exposure of Plastics</td>
+</tr>
+<tr>
+<td>4</td>
+<td>ASTM E 4 – 03, Standard Practices for Force Verification of Testing Machines</td>
+<td>ASTM E 4 – 08, Standard Practices for Force Verification of Testing Machines</td>
+</tr>
+<tr>
+<td>5</td>
+<td>ASTM G 151 – 97, Standard Practice for Exposing Nonmetallic Materials in Accelerated Test Devices that Use Laboratory Light Sources</td>
+<td>ASTM G 151 – 06, Standard Practice for Exposing Nonmetallic Materials in Accelerated Test Devices that Use Laboratory Light Sources</td>
+</tr>
+<tr>
+<td>6</td>
+<td>ASTM G 154 – 00, Standard Practice for Operating Fluorescent Light Apparatus for UV Exposure of Nonmetallic Materials</td>
+<td>ASTM G 154 – 06, Standard Practice for Operating Fluorescent Light Apparatus for UV Exposure of Nonmetallic Materials</td>
 </tr>
 </table>
 
 
 - **(3)** This section expires on January 1, 2012.
-> SOR/79-677, s. 3; SOR/79-907, s. 1; SOR/93-561, s. 4; SOR/97-421, s. 16; SOR/2007-180, s. 6..
+> SOR/79-677, s. 3; SOR/79-907, s. 1; SOR/93-561, s. 4; SOR/97-421, s. 16; SOR/2007-180, s. 6; SOR/2009-318, s. 8..
 
 
 
@@ -5095,7 +5144,7 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 <tr>
 <td>4</td>
 <td>ASTM D 1193 – 70, Standard Specifications for Reagent Water</td>
-<td>ASTM D 1193 – 99<sup>ε1</sup>, Standard Specification for Reagent Water</td>
+<td>ASTM D 1193 – 06, Standard Specification for Reagent Water</td>
 </tr>
 <tr>
 <td>5</td>
@@ -5105,7 +5154,7 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 <tr>
 <td>6</td>
 <td>ASTM D 2515 – 66, Standard Specification for Kinematic Glass Viscometers</td>
-<td>ASTM D 446 – 06, Standard Specifications and Operating Instructions for Glass Capillary Kinematic Viscometers</td>
+<td>ASTM D 446 – 07, Standard Specifications and Operating Instructions for Glass Capillary Kinematic Viscometers</td>
 </tr>
 <tr>
 <td>7</td>
@@ -5126,7 +5175,7 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 
 
 - **(3)** This section expires on January 1, 2012.
-> SOR/79-940, s. 7; SOR/93-561, s. 6; SOR/97-421, s. 21(F); SOR/2007-180, s. 7..
+> SOR/79-940, s. 7; SOR/93-561, s. 6; SOR/97-421, s. 21(F); SOR/2007-180, s. 7; SOR/2009-318, ss. 9, 10..
 
 
 
@@ -5206,7 +5255,7 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 - **(5)** The test of the parking brake static retardation force that is referred to in S5.6.1 of TSD 121 shall be conducted in both the forward and rearward directions.
 
 - **(6)** This section expires on June 1, 2013.
-> SOR/78-351, s. 2; SOR/79-547, s. 1; SOR/79-940, s. 7; SOR/80-638, s. 2; SOR/92-250, s. 4; SOR/94-374, s. 5(F), SOR/94-670, s. 2(F); SOR/95-147, s. 15(F); SOR/96-89, ss. 3, 4(F); SOR/97-200, s. 6; SOR/97-421, ss. 9(E), 22(F); SOR/98-524, s. 4(F); SOR/99-357, s. 4; SOR/2002-55, s. 21; SOR/2005-42, s. 13; SOR/2008-104, s. 14; SOR/2009-79, s. 2..
+> SOR/78-351, s. 2; SOR/79-547, s. 1; SOR/79-940, s. 7; SOR/80-638, s. 2; SOR/92-250, s. 4; SOR/94-374, s. 5(F), SOR/94-670, s. 2(F); SOR/95-147, s. 15(F); SOR/96-89, ss. 3, 4(F); SOR/97-200, s. 6; SOR/97-421, ss. 9(E), 22(F); SOR/98-524, s. 4(F); SOR/99-357, s. 4; SOR/2002-55, s. 21; SOR/2005-42, s. 13; SOR/2008-104, s. 14; SOR/2009-79, s. 2; SOR/2009-318, s. 19(F)..
 
 
 
@@ -5284,12 +5333,12 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 
 - **(13)** Section S5.2.4 of TSD 123 does not apply to motor tricycles.
 
-- **(14)** Despite section S5.2.5 of TSD 123, it is not necessary for the footrest for a passenger on a motor tricycle to fold rearward and upward when not in use.
+- **(14)** Despite S5.2.5 of TSD 123, it is not necessary for a footrest for a passenger on a motorcycle to fold rearward and upward when not in use.
 
 - **(15)** A turn signal lamp display fitted on a motorcycle shall be green or yellow.
 
 - **(16)** This section expires on January 1, 2012.
-> SOR/79-306, s. 5; SOR/79-940, s. 7; SOR/82-656, s. 3; SOR/88-268, s. 10; SOR/93-31, s. 5; SOR/94-374, s. 5(F); SOR/95-536, s. 7; SOR/96-366, s. 8; SOR/97-421, ss. 10, 11(F), 12(F), 22(F); SOR/98-524, s. 4(F); SOR/2003-272, s. 19; SOR/2007-180, s. 10..
+> SOR/79-306, s. 5; SOR/79-940, s. 7; SOR/82-656, s. 3; SOR/88-268, s. 10; SOR/93-31, s. 5; SOR/94-374, s. 5(F); SOR/95-536, s. 7; SOR/96-366, s. 8; SOR/97-421, ss. 10, 11(F), 12(F), 22(F); SOR/98-524, s. 4(F); SOR/2003-272, s. 19; SOR/2007-180, s. 10; SOR/2009-318, s. 11..
 
 
 
@@ -5341,7 +5390,7 @@ NOTE: CALCULATE THE DIMENSIONS OF THE REFERENCES USING THE EQUATIONS SET OUT IN 
 - **(6)** The word “car” used in S6.3.6 and S6.3.7 of the English version of TSD 135 shall be read as “vehicle”.
 
 - **(7)** This section expires on June 1, 2013.
-> SOR/97-200, s. 5; SOR/99-357, s. 5; SOR/2001-35, s. 6; SOR/2003-272, s. 20; SOR/2005-42. s. 13; SOR/2006-94, s. 4(E); SOR/2008-104, s. 15; SOR/2009-79, s. 4..
+> SOR/97-200, s. 5; SOR/99-357, s. 5; SOR/2001-35, s. 6; SOR/2003-272, s. 20; SOR/2005-42. s. 13; SOR/2006-94, s. 4(E); SOR/2008-104, s. 15; SOR/2009-79, s. 4; SOR/2009-318, s. 19(F)..
 
 
 
@@ -5858,7 +5907,7 @@ does not exceed 700, where
 <tr>
 <td>6</td>
 <td>ASTM G 23 – 81, Standard Practice for Operating Light-Exposure Apparatus (Carbon-Arc Type) With and Without Water for Exposure of Nonmetallic Materials</td>
-<td>ASTM G 152 – 00a<sup>ε1</sup>, Standard Practice for Operating Open Flame Carbon Arc Light Apparatus for Exposure of Nonmetallic Materials</td>
+<td>ASTM G 152 – 06, Standard Practice for Operating Open Flame Carbon Arc Light Apparatus for Exposure of Nonmetallic Materials</td>
 </tr>
 </table>
 
@@ -5874,7 +5923,7 @@ does not exceed 700, where
 - **(12)** A Type 1 or Type 2 seat belt assembly that includes a load-limiter and that does not meet the elongation requirements of sections S4.2(c), S4.4(a)(2) or S4.4(b)(4) or (5) of TSD 209 may be installed only at a front outboard seating position that is equipped with a frontal air bag.
 
 - **(13)** This section expires on January 1, 2012.
-> SOR/78-910, s. 2; SOR/87-154, s. 3; SOR/92-545, s. 4; SOR/97-447, s. 6; SOR/2007-180, s. 13..
+> SOR/78-910, s. 2; SOR/87-154, s. 3; SOR/92-545, s. 4; SOR/97-447, s. 6; SOR/2007-180, s. 13; SOR/2009-318, s. 12..
 
 
 
@@ -7789,21 +7838,23 @@ where
 
 
 ### Electrolyte Spillage and Electrical Shock Protection (Standard 305)
+> [SOR/2009-318, s. 13(F)]
+
 
 **305** 
 
-- **(1)** Every passenger car, and every multi-purpose passenger vehicle, truck and bus with a GVWR of 4 536 kg or less, that uses more than 48 nominal volts of electricity as propulsion power and that has an attainable speed in 1.6 km of more than 40 km/h on a paved level surface shall conform to Technical Standards Document No. 305, Electrolyte Spillage and Electrical Shock Protection, as amended from time to time.
+- **(1)** Every passenger car and three-wheeled vehicle, and every multi-purpose passenger vehicle, truck and bus with a GVWR of 4 536 kg or less, that uses a nominal voltage of more than 60 volts direct current (VDC) or more than 30 volts alternating current (VAC) for its propulsion and that has an attainable speed of more than 40 km/h over a distance of 1.6 km on a paved level surface shall conform to the requirements of Technical Standards Document No. 305, Electrolyte Spillage and Electrical Shock Protection (TSD 305), as amended from time to time.
 
-- **(1.1)** Every three-wheeled vehicle that uses more than 48 volts of electricity as propulsion power and that has an attainable speed in 1.6 km of more than 40 km/h on a paved level surface shall comply with the requirements of Technical Standards Document No. 305, Electrolyte Spillage and Electrical Shock Protection, except sections S6.2, S6.3, S.7.4 and S7.5, as amended from time to time (hereinafter referred to as TSD No. 305).
+- **(2)** S6.2, S6.3, S7.4 and S7.5 of TSD 305 do not apply to a three-wheeled vehicle.
 
-- **(1.2)** Instead of complying with section S7.2.3 of TSD No. 305, a three-wheeled vehicle, including test devices and instrumentation, shall be loaded to its unloaded vehicle weight, except that the vehicle fuel tank shall be filled to not less than 90 per cent and not more than 95 per cent of the vehicle fuel tank capacity.
+- **(3)** Instead of complying with S7.2.3 of TSD 305, a three-wheeled vehicle, including test devices and instrumentation, shall be loaded to its unloaded vehicle weight, except that the vehicle fuel tank shall be filled to not less than 90 per cent and not more than 95 per cent of the vehicle fuel tank capacity.
 
-- **(1.3)** Instead of being tested in accordance with section S6.2 of TSD 305, a vehicle referred to in subsection (1) may be tested in accordance with section S6.2(b) of TSD 301, except the fuel spillage requirements, under the applicable conditions set out in section S7.3(b) of TSD 301.
+- **(4)** Instead of being tested in accordance with S6.2 of TSD 305, a vehicle referred to in subsection (1), other than a three-wheeled vehicle, may be tested in accordance with the requirements of S6.2(b) of TSD 301, except the fuel spillage requirements, under the applicable conditions set out in S7.3(b) of TSD 301.
 
-- **(1.4)** A vehicle tested in accordance with subsection (1.3) shall meet the requirements of sections S5.1, S5.2 and S5.3 of TSD 305.
+- **(5)** A vehicle tested in accordance with subsection (4) shall conform to the requirements of S5.1, S5.2 and S5.3 of TSD 305.
 
-- **(2)** This section expires on January 1, 2010.
-> SOR/2001-486, s. 2; SOR/2003-272, s. 32; SOR/2004-89, s. 4; SOR/2004-250, s. 5; SOR/2005-42, ss. 9, 10; SOR/2006-94, s. 4(E)..
+- **(6)** This section expires on June 1, 2013.
+> SOR/2001-486, s. 2; SOR/2003-272, s. 32; SOR/2004-89, s. 4; SOR/2004-250, s. 5; SOR/2005-42, ss. 9, 10; SOR/2006-94, s. 4(E); SOR/2009-318, s. 13..
 
 
 
@@ -7816,10 +7867,10 @@ where
 
 - **(2)** However, vehicles manufactured before September 1, 2010, need not be equipped with an interior trunk release.
 
-- **(3)** This section does not apply to vehicles equipped with a back door, as defined in subsection 2(1) of these Regulations.
+- **(3)** This section does not apply to vehicles equipped with a back door. For the purposes of this subsection, ***back door*** has the same meaning as in TSD 401.
 
 - **(4)** This section expires on January 1, 2012.
-> SOR/2007-180, s. 19; SOR/2008-73, s. 4..
+> SOR/2007-180, s. 19; SOR/2008-73, s. 4; SOR/2009-318, s. 14..
 
 
 
@@ -8137,7 +8188,7 @@ where
 
 ***dBA*** means the A-weighted sound level in decibels, measured using a sound level meter or a sound data acquisition system referred to in Appendix A of Test Method 1106 — Noise Emission Tests (August 2005) that uses the values set out in Table 1 of that Appendix. (*dBA*)
 
-***decibel*** or ***dB*** means 20 times the logarithm to the base 10 of the ratio of the measured sound pressure relative to a reference sound pressure of 20 µPa. (*décibel** ou **dB*)
+***decibel*** or ***dB*** means 20 times the logarithm to the base 10 of the ratio of the measured sound pressure relative to a reference sound pressure of 20 µPa. (*décibel** ou **dB*)
 
 ***rated engine speed*** or ***maximum rated engine speed*** means the rotational speed of an engine in revolutions per minute (RPM) at which the maximum horsepower of the engine is attained. (*régime maximal nominal, rated engine speed** ou **maximum rated engine speed*)
 
@@ -8152,38 +8203,40 @@ where
 **2** Every vehicle, other than a motorcycle or a vehicle referred to in section 4, shall be so constructed that
 - **(a)** where tested in accordance with Annex 3 to ECE Regulation No. 51, Uniform Provisions concerning the Approval of Motor Vehicles Having at Least Four Wheels with regard to Their Noise Emissions, dated March 11, 1996, excluding the requirements of paragraph 3.2 of that Annex, the vehicle conforms to section 6 of that Regulation; or
 - **(b)** where tested in accordance with
-	- **(i)** section 3 of Test Method 1106 — Noise Emission Tests (August 2005), the exterior sound level does not exceed 83 dBA when a value of 2 dBA is subtracted from the highest average sound level recorded during the test, in the case of a bus with a GVWR of more than 4 536 kg (10,000 lb.),
-	- **(ii)** SAE Recommended Practice J986, Sound Level for Passenger Cars and Light Trucks (August 1994), or SAE Standard J1470, Measurement of Noise Emitted by Accelerating Highway Vehicles (March 1992), the exterior sound level does not exceed 83 dBA when a value of 2 dBA is subtracted from the highest average sound level recorded during the test, in the case of a heavy-duty vehicle with a GVWR of 4 536 kg (10,000 lb.) or less, and
-	- **(iii)** SAE Recommended Practice J986, Sound Level for Passenger Cars and Light Trucks (August 1994), or SAE Standard J1470, Measurement of Noise Emitted by Accelerating Highway Vehicles (March 1992), the exterior sound level does not exceed 80 dBA when a value of 2 dBA is subtracted from the highest average sound level recorded during the test, in the case of a light-duty vehicle.
-> SOR/2005-342, s. 6..
+	- **(i)** section 3 of Test Method 1106 — Noise Emission Tests (August 2005), the exterior sound level does not exceed 83 dBA when a value of 2 dBA is subtracted from the highest average sound level recorded during the test, in the case of a bus with a GVWR of more than 4 536 kg,
+	- **(ii)** SAE Recommended Practice J986, Sound Level for Passenger Cars and Light Trucks (August 1994), or SAE Standard J1470, Measurement of Noise Emitted by Accelerating Highway Vehicles (March 1992), the exterior sound level does not exceed 83 dBA when a value of 2 dBA is subtracted from the highest average sound level recorded during the test, in the case of a bus, multi-purpose passenger vehicle, truck or incomplete vehicle fitted with a cab with a GVWR of more than 2 722 kg and not more than 4 536 kg, and
+	- **(iii)** SAE Recommended Practice J986, Sound Level for Passenger Cars and Light Trucks (August 1994), or SAE Standard J1470, Measurement of Noise Emitted by Accelerating Highway Vehicles (March 1992), the exterior sound level does not exceed 80 dBA when a value of 2 dBA is subtracted from the highest average sound level recorded during the test, in the case of a passenger car regardless of its GVWR or any other vehicle with a GVWR of 2 722 kg or less.
+> SOR/2005-342, s. 6; SOR/2009-318, s. 15..
 
 
 
 **3** Every motorcycle shall be so constructed that
 - **(a)** where tested in accordance with Annex 3 to ECE Regulation No. 41, Uniform Provisions concerning the Approval of Motor Cycles with regard to Noise, dated January 19, 1981, as amended September 14, 1984, excluding the requirements of paragraph 3.2 of that Annex, the exterior sound level does not exceed
-	- **(i)** 77 dBA, in the case of a motorcycle with an engine displacement not exceeding 80 cm<sup>3</sup>,
-	- **(ii)** 80 dBA, in the case of a motorcycle with an engine displacement exceeding 80 cm<sup>3</sup> and not exceeding 175 cm<sup>3</sup>, and
-	- **(iii)** 82 dBA, in the case of a motorcycle with an engine displacement exceeding 175 cm<sup>3</sup>; or
+	- **(i)** 77 dBA, in the case of a motorcycle with an engine displacement not exceeding 80 cm<sup>3</sup>,
+	- **(ii)** 80 dBA, in the case of a motorcycle with an engine displacement exceeding 80 cm<sup>3</sup> and not exceeding 175 cm<sup>3</sup>, and
+	- **(iii)** 82 dBA, in the case of a motorcycle with an engine displacement exceeding 175 cm<sup>3</sup>; or
 - **(b)** where tested in accordance with
-	- **(i)** Appendix I-2 to subparts D and E, part 205, chapter I, title 40 of the United States Code of Federal Regulations, as amended by Vol. 45, No. 252 of the Federal Register of the United States published on December 31, 1980, at pages 86727 and 86728, the exterior sound level does not exceed 70 dBA, in the case of a motorcycle with an engine displacement not exceeding 50 cm<sup>3</sup> and a maximum attainable speed of 48 km/h on a level paved surface, and
-	- **(ii)** Appendix I-1 to subparts D and E, part 205, chapter I, title 40 of the United States Code of Federal Regulations, as amended by Vol. 45, No. 252 of the Federal Register of the United States published on December 31, 1980, at pages 86726 and 86727, the exterior sound level does not exceed 80 dBA, in any other case.
+	- **(i)** Appendix I-2 to subparts D and E, part 205, chapter I, title 40 of the United States Code of Federal Regulations, as amended by Vol. 45, No. 252 of the Federal Register of the United States published on December 31, 1980, at pages 86727 and 86728, the exterior sound level does not exceed 70 dBA, in the case of a motorcycle with an engine displacement not exceeding 50 cm<sup>3</sup> and a maximum attainable speed of 48 km/h on a level paved surface, and
+	- **(ii)** Appendix I-1 to subparts D and E, part 205, chapter I, title 40 of the United States Code of Federal Regulations, as amended by Vol. 45, No. 252 of the Federal Register of the United States published on December 31, 1980, at pages 86726 and 86727, the exterior sound level does not exceed 80 dBA, in any other case.
+> SOR/2009-318, s. 16(F)..
 
 
-**4** Every truck or incomplete vehicle fitted with a cab, with a GVWR of more than 4 536 kg (10,000 lb.) shall be so constructed that
+
+**4** Every multi-purpose passenger vehicle, truck or incomplete vehicle fitted with a cab, with a GVWR of more than 4 536 kg, shall be constructed so that
 - **(a)** where the vehicle is tested in accordance with Annex 3 to ECE Regulation No. 51, Uniform Provisions concerning the Approval of Motor Vehicles Having at Least Four Wheels with regard to Their Noise Emissions, dated March 11, 1996, excluding the requirements of paragraph 3.2 of that Annex, the exterior sound level does not exceed
-	- **(i)** 81 dBA, in the case of a heavy-duty truck with an engine that produces less than 75 kW,
-	- **(ii)** 83 dBA, in the case of a heavy-duty truck with an engine that produces at least 75 kW but less than 150 kW, and
-	- **(iii)** 84 dBA, in the case of a heavy-duty truck with an engine that produces 150 kW or more; or
-- **(b)** where the vehicle is tested in accordance with the low speed sound emission test procedures set out in section 205.54-1 of subpart B, part 205, chapter I, title 40 of the United States Code of Federal Regulations (revised as of July 1, 1995), the exterior sound level does not exceed 80 dBA.
-> SOR/2002-55, s. 20..
+	- **(i)** 81 dBA, in the case of a vehicle with an engine that produces less than 75 kW,
+	- **(ii)** 83 dBA, in the case of a vehicle with an engine that produces at least 75 kW but less than 150 kW, and
+	- **(iii)** 84 dBA, in the case of a vehicle with an engine that produces 150 kW or more; or
+- **(b)** where the vehicle is tested in accordance with the low speed sound emission test procedures set out in section 205.54-1, subpart B, part 205, chapter I, title 40 of the United States Code of Federal Regulations (revised as of December 5, 1977), the exterior sound level does not exceed 80 dBA.
+> SOR/2002-55, s. 20; SOR/2009-318, s. 17..
 
 
 
 
 #### Interior Sound Level
 
-**5** Every truck or bus with a GVWR of more than 4 536 kg (10,000 lb.) shall be so constructed that, where tested in accordance with section 4 of Test Method 1106 — Noise Emission Tests (August 2005), the interior sound level at the driver’s seating position does not exceed 90 dBA when a value of 2 dBA is subtracted from the average sound level obtained in accordance with the test.
-> SOR/2005-342, s. 6.
+**5** Every truck or bus with a GVWR of more than 4 536 kg shall be so constructed that, where tested in accordance with section 4 of Test Method 1106 — Noise Emission Tests (August 2005), the interior sound level at the driver’s seating position does not exceed 90 dBA when a value of 2 dBA is subtracted from the average sound level obtained in accordance with the test.
+> SOR/2005-342, s. 6; SOR/2009-318, s. 18.
 
 
 
