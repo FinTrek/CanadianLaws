@@ -66,7 +66,7 @@ Autorités habilitantes :
 
 ***autobus*** Véhicule ayant un nombre désigné de places assises supérieur à 10. Sont exclus de la présente définition les remorques et les véhicules importés temporairement à des fins spéciales. (*bus*)
 
-***autobus scolaire*** désigne un autobus conçu ou équipé principalement pour le transport aller-retour des écoliers à leur école; (*school bus*)
+***autobus scolaire*** Autobus conçu ou équipé principalement pour le transport des élèves pour aller à l’école et en revenir. (*school bus*)
 
 ***autocaravane*** Véhicule de tourisme à usages multiples conçu pour servir de local d’habitation temporaire comme en témoigne la présence d’au moins quatre des éléments suivants :
 - **a)** une installation qui permet de faire la cuisine;
@@ -211,10 +211,12 @@ Le volume de carburant visé à l’alinéa b) ne comprend pas le volume de carb
 
 ***dispositif de dosage du carburant*** désigne le carburateur, l’injecteur de carburant, le distributeur de carburant ou la pompe d’injection; (*fuel metering device*)
 
-***dispositif de frein anti-blocage*** ou ***ABS*** S’entend de la partie d’un système de frein de service qui contrôle automatiquement le niveau de glissement d’une ou de plusieurs roues lors du freinage de la manière suivante :
+***dispositif de frein anti-blocage*** ou ***ABS***[Abrogée, DORS/2009-318, art. 1]
+
+***dispositif de frein antiblocage*** ou ***ABS*** S’entend de la partie d’un système de frein de service qui contrôle automatiquement le niveau de glissement d’une ou de plusieurs roues lors du freinage de la manière suivante : 
 - **a)** en détectant la vitesse angulaire de rotation des roues;
 - **b)** en transmettant des signaux relatifs à la vitesse angulaire de rotation des roues à un ou plusieurs dispositifs de commande qui interprètent ces signaux et produisent en réaction des signaux de commande;
-- **c)** en transmettant ces signaux de commande à un ou plusieurs modulateurs qui règlent l’énergie nécessaire pour activer les freins en réaction à ces signaux. (*antilock brake system*ou*ABS*)
+- **c)** en transmettant ces signaux de commande à un ou plusieurs modulateurs qui règlent l’énergie nécessaire pour activer les freins en réaction à ces signaux. (*antilock brake system** or **ABS*)
 
 ***dispositif de maintien du dossier***[Abrogée, DORS/2007-180, art. 1]
 
@@ -367,7 +369,7 @@ Le volume de carburant visé à l’alinéa b) ne comprend pas le volume de carb
 
 ***masse des articles facultatifs de production courante***[Abrogée, DORS/2008-258, art. 1]
 
-***masse du véhicule sans charge*** désigne la masse à vide d’un véhicule lorsque ses réservoirs sont totalement remplis des liquides nécessaires à son fonctionnement; (*unloaded vehicle mass*)
+***masse du véhicule sans charge*** Masse d’un véhicule dont les réservoirs sont remplis à capacité des liquides nécessaires à son fonctionnement, mais sans chargement ni occupant. (*unloaded vehicle mass*)
 
 ***masse maximale de véhicule chargé***[Abrogée, DORS/2008-258, art. 1]
 
@@ -651,7 +653,7 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 
 ***type de carrosserie*** désigne la configuration ou forme générale d’un véhicule distingué par le nombre de portières ou de fenêtres, sa capacité de transport de marchandises, le profil du toit (p. ex., berline, *fastback*, *minibreak*) ou d’autres caractéristiques; (*body type*)
 
-***type de moteur*** désigne une source d’énergie distinguée par le carburant utilisé, le nombre de cylindres, la cylindrée, la puissance au frein nette ou d’autres caractéristiques; (*engine type*)
+***type de moteur*** Source d’énergie distinguée par le carburant utilisé, le nombre de cylindres, la cylindrée, la puissance nette ou d’autres caractéristiques. (*engine type*)
 
 ***unité d’assistance de frein*** Dispositif monté sur un système de freinage hydraulique qui permet au conducteur d’exercer un effort musculaire moindre sur la commande de frein au moment du freinage mais qui, s’il est inopérant, n’empêche pas le conducteur d’arrêter le véhicule en exerçant un effort musculaire constant sur la commande de frein de service. (*brake power assist unit*)
 
@@ -740,20 +742,54 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 
 ***95<sup>e</sup> percentile adulte du sexe masculin*** Personne ayant pour caractéristiques physiques une masse de 97,5 kg, une taille de 1 849 mm, une hauteur en position assise droite de 965 mm, une hauteur en position assise normale de 930 mm, une largeur de hanches en position assise de 419 mm, un tour de hanches en position assise de 1 199 mm, un tour de ceinture en position assise de 1 080 mm, une profondeur de poitrine de 267 mm, un tour de poitrine de 1 130 mm, une hauteur de genoux de 594 mm, une hauteur de jarret de 490 mm, une hauteur de coude en position assise de 295 mm, une épaisseur de cuisses de 175 mm, une distance fesse-genou de 640 mm, une distance fesse-jarret de 549 mm, un écart entre les coudes de 506 mm et une largeur de siège de 404 mm. (*95th percentile adult male*)
 
-- **(2)** Dans le cas d’une banquette unie ou divisée offrant plus de 1 270 mm au niveau des hanches, valeur mesurée conformément aux articles 6.1.34, 6.2.31 et 6.4.27 de la pratique recommandée J1100 de la SAE intitulée *Motor Vehicle Dimensions* (février 2001), dans une voiture de tourisme, un camion ou un véhicule de tourisme à usages multiples qui ont un PNBV inférieur à 4 536 kg, la banquette est censée comprendre au moins trois places assises désignées, à moins que la conception de la banquette ou du véhicule soit telle que l’espace central ne peut servir de place assise.
-> DORS/78-257, art. 1; DORS/78-351, art. 1; DORS/78-525, art. 1; DORS/79-306, art. 1; DORS/79-339, art. 1; DORS/79-340, art. 1; DORS/79-374, art. 1; DORS/79-677, art. 1; DORS/79-719, art. 1; DORS/79-940, art. 1; DORS/80-161, art. 1; DORS/80-282, art. 1; DORS/80-439, art. 1; DORS/80-440, art. 1; DORS/80-636, art. 1; DORS/80-638, art. 1; DORS/80-782, art. 1; DORS/81-88, art. 1; DORS/81-1033, art. 1; DORS/82-569, art. 1; DORS/82-656, art. 1; DORS/82-753, art. 1; DORS/82-754, art. 1; DORS/83-176, art. 1; DORS/83-859, art. 1; DORS/84-374, art. 1; DORS/84-812, art. 1; DORS/86-161, art. 1; DORS/86-683, art. 1; DORS/86-976, art. 1; DORS/86-977, art. 1; DORS/87-154, art. 1; DORS/87-497, art. 1; DORS/87-578, art. 1; DORS/87-660, art. 1; DORS/88-268, art. 1; DORS/89-384, art. 1; DORS/90-588, art. 1; DORS/90-805, art. 1; DORS/91-425, art. 1; DORS/91-692, art. 1; DORS/92-173, art. 1; DORS/92-250, art. 1; DORS/92-545, art. 1; DORS/93-5, art. 1; DORS/93-31, art. 1; DORS/93-146, art. 1; DORS/93-561, art. 1; DORS/94-291, art. 1; DORS/94-669, art. 1; DORS/94-670, art. 2(F); DORS/94-692, art. 2(F); DORS/94-717, art. 1; DORS/95-147, art. 1; DORS/95-164, art. 1; DORS/95-536, art. 7; DORS/96-366, art. 1; DORS/97-141, art. 1; DORS/97-200, art. 1; DORS/97-201, art. 1; DORS/97-421, art. 1, 17 et 22(F); DORS/97-447, art. 1; DORS/98-125, art. 1; DORS/98-160, art. 1; DORS/98-457, art. 1; DORS/98-524, art. 1(F); DORS/99-357, art. 1; DORS/2000-182, art. 1; DORS/2000-304, art. 1; DORS/2001-35, art. 1; DORS/2001-117, art. 1; DORS/2001-152, art. 1; DORS/2002-15, art. 25(F); DORS/2002-55, art. 1; DORS/2002-187, art. 1; DORS/2002-205, art. 1; DORS/2003-57, art. 3(F); DORS/2003-272, art. 1; DORS/2004-250, art. 1; DORS/2005-45, art. 1; DORS/2006-94, art. 4(A); DORS/2007-180, art. 1; DORS/2008-72, art. 1; DORS/2008-73, art. 1; DORS/2008-104, art. 1; DORS/2008-229, art. 1; DORS/2008-258, art. 1; DORS/2009-291, art. 1.
+- **(2)** [Abrogé, DORS/2009-318, art. 1]
+> DORS/78-257, art. 1; DORS/78-351, art. 1; DORS/78-525, art. 1; DORS/79-306, art. 1; DORS/79-339, art. 1; DORS/79-340, art. 1; DORS/79-374, art. 1; DORS/79-677, art. 1; DORS/79-719, art. 1; DORS/79-940, art. 1; DORS/80-161, art. 1; DORS/80-282, art. 1; DORS/80-439, art. 1; DORS/80-440, art. 1; DORS/80-636, art. 1; DORS/80-638, art. 1; DORS/80-782, art. 1; DORS/81-88, art. 1; DORS/81-1033, art. 1; DORS/82-569, art. 1; DORS/82-656, art. 1; DORS/82-753, art. 1; DORS/82-754, art. 1; DORS/83-176, art. 1; DORS/83-859, art. 1; DORS/84-374, art. 1; DORS/84-812, art. 1; DORS/86-161, art. 1; DORS/86-683, art. 1; DORS/86-976, art. 1; DORS/86-977, art. 1; DORS/87-154, art. 1; DORS/87-497, art. 1; DORS/87-578, art. 1; DORS/87-660, art. 1; DORS/88-268, art. 1; DORS/89-384, art. 1; DORS/90-588, art. 1; DORS/90-805, art. 1; DORS/91-425, art. 1; DORS/91-692, art. 1; DORS/92-173, art. 1; DORS/92-250, art. 1; DORS/92-545, art. 1; DORS/93-5, art. 1; DORS/93-31, art. 1; DORS/93-146, art. 1; DORS/93-561, art. 1; DORS/94-291, art. 1; DORS/94-669, art. 1; DORS/94-670, art. 2(F); DORS/94-692, art. 2(F); DORS/94-717, art. 1; DORS/95-147, art. 1; DORS/95-164, art. 1; DORS/95-536, art. 7; DORS/96-366, art. 1; DORS/97-141, art. 1; DORS/97-200, art. 1; DORS/97-201, art. 1; DORS/97-421, art. 1, 17 et 22(F); DORS/97-447, art. 1; DORS/98-125, art. 1; DORS/98-160, art. 1; DORS/98-457, art. 1; DORS/98-524, art. 1(F); DORS/99-357, art. 1; DORS/2000-182, art. 1; DORS/2000-304, art. 1; DORS/2001-35, art. 1; DORS/2001-117, art. 1; DORS/2001-152, art. 1; DORS/2002-15, art. 25(F); DORS/2002-55, art. 1; DORS/2002-187, art. 1; DORS/2002-205, art. 1; DORS/2003-57, art. 3(F); DORS/2003-272, art. 1; DORS/2004-250, art. 1; DORS/2005-45, art. 1; DORS/2006-94, art. 4(A); DORS/2007-180, art. 1; DORS/2008-72, art. 1; DORS/2008-73, art. 1; DORS/2008-104, art. 1; DORS/2008-229, art. 1; DORS/2008-258, art. 1; DORS/2009-291, art. 1; DORS/2009-318, art. 1.
 
 
 
 
-**2.1** Lorsque le système métrique ou impérial est utilisé pour l’application, à l’égard d’un véhicule donné, d’une partie d’un article du présent règlement ou d’une partie d’une disposition d’un document de normes techniques, le même système doit être utilisé pour l’application de toute autre partie de cet article ou de cette disposition au véhicule.
-> DORS/79-263, art. 1; DORS/82-482, art. 1; DORS/96-366, art. 2.
+
+## Système métrique ou impérial
+
+
+**2.1** Lorsque le système métrique ou impérial est utilisé pour l’application, à l’égard d’un véhicule donné, d’une partie d’un article du présent règlement ou d’une partie d’une disposition d’un document de normes techniques, le même système doit être utilisé pour l’application au véhicule de toute autre partie de cet article ou de cette disposition.
+> DORS/79-263, art. 1; DORS/82-482, art. 1; DORS/96-366, art. 2; DORS/2009-318, art. 2.
 
 
 
 
-**2.2** Lorsqu’il s’agit de déterminer le nombre de roues d’un véhicule, deux roues montées sur le même essieu sont assimilées à une roue si la distance entre le centre de leur surface de contact avec le sol est inférieure à 460 mm.
-> DORS/2003-272, art. 2.
+
+## Nombre de roues
+
+
+**2.2** Deux roues montées sur le même essieu sont assimilées à une roue si la distance entre le centre de leur surface de contact avec le sol est inférieure à 460 mm.
+> DORS/2003-272, art. 2; DORS/2009-318, art. 2.
+
+
+
+
+
+## Nombre désigné de places assises
+
+
+**2.3** Dans le cas d’une banquette unie ou divisée offrant plus de 1 270 mm au niveau des hanches, valeur mesurée conformément aux articles 6.1.34, 6.2.31 et 6.4.27 de la pratique recommandée J1100 de la SAE, intitulée Motor Vehicle Dimensions (février 2001), dans une voiture de tourisme, un camion ou un véhicule de tourisme à usages multiples qui ont un PNBV inférieur à 4 536 kg, la banquette est censée avoir au moins trois places assises désignées, à moins que la conception de la banquette ou du véhicule ne soit telle que l’espace central ne peut servir de place assise.
+> DORS/2009-318, art. 2.
+
+
+
+
+
+## Catégorie réglementaire d’un véhicule
+
+
+**2.4** 
+
+- **(1)** Aux fins d’établissement de la catégorie réglementaire d’un véhicule, tout espace dans le véhicule conçu pour être utilisé par des personnes en fauteuil roulant est censé avoir quatre places assises désignées pour le calcul du nombre désigné de places assises si, à la fois :
+	- **a)** le véhicule a été conçu pour avoir un nombre désigné de places assises supérieur à dix;
+	- **b)** des places assises désignées prévues sont remplacées par des espaces conçus pour être utilisés par des personnes en fauteuil roulant.
+
+- **(2)** Aux fins d’établissement de la catégorie réglementaire d’un véhicule qui résulte de la modification d’un autobus par le remplacement de places assises désignées par des espaces conçus pour être utilisés par des personnes en fauteuil roulant, chacun de ces espaces peut, au choix du fabricant, être considéré comme étant équivalent à quatre places assises désignées pour le calcul du nombre désigné de places assises.
+> DORS/2009-318, art. 2.
 
 
 
@@ -1338,25 +1374,25 @@ Sont exclus de la présente définition les bicyclettes assistées, les motocycl
 
 **15** 
 
-- **(1)** L’avis de défaut visé aux paragraphes 10(1) et (3) de la Loi est donné par écrit et comprend :
+- **(1)** L’avis de défaut visé aux paragraphes 10(1) et (3) de la Loi est donné par écrit et comprend :
 	- **a)** le nom de l’entreprise qui donne l’avis de défaut;
-	- **b)** la catégorie de chaque véhicule pour lequel l’avis est donné, y compris la marque, le modèle, l’année du modèle, le numéro d’identification du véhicule et la période de sa fabrication;
+	- **b)** la catégorie réglementaire de chaque véhicule pour lequel l’avis est donné, la marque, le modèle, l’année de modèle, le numéro d’identification du véhicule, la période de sa fabrication et tout autre renseignement nécessaire pour en permettre l’identification;
 	- **c)** le pourcentage estimatif des véhicules susceptibles d’être défectueux;
 	- **d)** une description du défaut;
 	- **e)** une estimation du risque correspondant;
 	- **f)** un exposé des mesures à prendre pour corriger le défaut.
 
-- **(2)** Dans les 60 jours après avoir donné un avis de défaut, l’entreprise présente au ministre le rapport visé au paragraphe 10(6) de la Loi, lequel contient, en plus des renseignements visés au paragraphe (1), les renseignements suivants :
-	- **a)** le nombre de véhicules visés par l’avis de défaut ainsi que le nombre de ces véhicules qui appartiennent à chaque catégorie;
+- **(2)** Dans les 60 jours après avoir donné un avis de défaut, l’entreprise présente au ministre le rapport visé au paragraphe 10(6) de la Loi, lequel contient, en plus des renseignements visés au paragraphe (1), les renseignements suivants :
+	- **a)** le nombre de véhicules visés par l’avis de défaut, ainsi que le nombre de ces véhicules qui appartiennent à chaque catégorie réglementaire;
 	- **b)** la chronologie des principaux événements qui ont permis de déterminer l’existence du défaut;
 	- **c)** des exemplaires des avis, bulletins et autres circulaires publiés par l’entreprise au sujet du défaut, y compris une description détaillée de la nature du défaut et de l’endroit où il se trouve, ainsi que les schémas et autres illustrations nécessaires.
 
-- **(3)** Pour l’application du paragraphe 10(6) de la Loi, les rapports trimestriels à présenter, à la suite du rapport visé au paragraphe (2) contiennent les renseignements suivants :
+- **(3)** Pour l’application du paragraphe 10(6) de la Loi, les rapports trimestriels à présenter, à la suite du rapport visé au paragraphe (2) contiennent les renseignements suivants :
 	- **a)** le numéro, le titre ou la désignation attribués à l’avis de défaut par l’entreprise;
 	- **b)** le nombre révisé de véhicules visés par l’avis de défaut, le cas échéant;
 	- **c)** les dates auxquelles les avis de défaut ont été donnés aux propriétaires actuels des véhicules;
 	- **d)** le nombre ou le pourcentage des véhicules corrigés, y compris ceux qui n’ont nécessité qu’une inspection.
-> DORS/95-147, art. 2; DORS/98-524, art. 3; DORS/2008-104, art. 3.
+> DORS/95-147, art. 2; DORS/98-524, art. 3; DORS/2008-104, art. 3; DORS/2009-318, art. 3.
 
 
 
@@ -1485,7 +1521,7 @@ Fait à Ottawa, le _________________________ 20_________________________
 <th>Motocyclette sans habitacle fermé</th>
 <th>Motocyclette à vitesse limitée</th>
 <th>Tricycle à moteur</th>
-<th>Véhicule importé temporairement à des fins spéciales</th>
+<th>Véhicule importé temporaire­ment à des fins spéciales</th>
 </tr>
 <tr>
 <th></th>
@@ -1752,7 +1788,7 @@ Fait à Ottawa, le _________________________ 20_________________________
 </tr>
 <tr>
 <td>116</td>
-<td>Liquides pour freins hydrauliques</td>
+<td>Liquides de freins pour véhicules automobiles</td>
 <td>X</td>
 <td>X</td>
 <td>X</td>
@@ -2492,7 +2528,7 @@ Fait à Ottawa, le _________________________ 20_________________________
 </tr>
 <tr>
 <td>305</td>
-<td>Déversement d’électrolyte et protection contre les chocs électriques</td>
+<td>Déversement d’électrolyte et protection contre les décharges électriques</td>
 <td>X</td>
 <td>X</td>
 <td></td>
@@ -2512,7 +2548,7 @@ Fait à Ottawa, le _________________________ 20_________________________
 </tr>
 <tr>
 <td>401</td>
-<td>Mécanisme de déverrouillage du coffre interne</td>
+<td>Mécanisme de déverrouillage interne du coffre</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2736,7 +2772,7 @@ Fait à Ottawa, le _________________________ 20_________________________
 </tr>
 </table>
 
-> DORS/78-80, art. 1; DORS/78-910, art. 1(F); DORS/79-305, art. 1; DORS/79-306, art. 2; DORS/79-339, art. 2; DORS/79-340, art. 2; DORS/79-374, art. 2; DORS/79-677, art. 2; DORS/79-940, art. 5; DORS/80-160, art. 1; DORS/80-161, art. 2; DORS/80-282, art. 2; DORS/80-439, art. 2; DORS/80-639, art. 1(F); DORS/81-88, art. 2; DORS/81-665, art. 1; DORS/82-656, art. 2; DORS/82-753, art. 2; DORS/82-754, art. 2; DORS/83-138, art. 1; DORS/84-812, art. 2; DORS/86-682, art. 1; DORS/86-683, art. 2; DORS/86-975, art. 1; DORS/87-658, art. 1; DORS/87-660, art. 3; DORS/88-268, art. 4; DORS/89-384, art. 2(F) et 3 à 5; DORS/90-805, art. 4; DORS/91-425, art. 3; DORS/92-173, art. 5; DORS/92-250, art. 2(F); DORS/92-545, art. 2(F); DORS/93-31, art. 2; DORS/93-146, art. 3; DORS/93-561, art. 2; DORS/94-291, art. 2; DORS/94-669, art. 2; DORS/95-60, art. 1; DORS/95-147, art. 5 et 15(F); DORS/95-164, art. 2; DORS/96-89, art. 1; DORS/96-366, art. 4; DORS/96-437, art. 1; DORS/97-14, art. 1; DORS/97-141, art. 3; DORS/97-200, art. 2; DORS/97-201, art. 2; DORS/97-376, art. 4; DORS/97-421, art. 2; DORS/97-463, art. 1; DORS/97-532, art. 1 et 2; DORS/98-160, art. 2; DORS/98-457, art. 2; DORS/98-595, art. 1; DORS/99-357, art. 2; DORS/2000-182, art. 4; DORS/2000-304, art. 4; DORS/2001-35, art. 2 et 3; DORS/2001-353, art. 1; DORS/2001-486, art. 1; DORS/2002-55, art. 12; DORS/2002-205, art. 2; DORS/2003-272, art. 6; DORS/2003-359, art. 1 à 3; DORS/2004-195, art. 1; DORS/2005-45, art. 2; DORS/2006-94, art. 1; DORS/2007-180, art. 2 à 4; DORS/2007-246, art. 1; DORS/2008-73, art. 2; DORS/2008-104, art. 7(F) et 8(F); DORS/2008-229, art. 2; DORS/2008-258, art. 5 et 6; DORS/2009-33, art. 1(F); DORS/2009-121, art. 1; DORS/2009-291, art. 2 et 3.
+> DORS/78-80, art. 1; DORS/78-910, art. 1(F); DORS/79-305, art. 1; DORS/79-306, art. 2; DORS/79-339, art. 2; DORS/79-340, art. 2; DORS/79-374, art. 2; DORS/79-677, art. 2; DORS/79-940, art. 5; DORS/80-160, art. 1; DORS/80-161, art. 2; DORS/80-282, art. 2; DORS/80-439, art. 2; DORS/80-639, art. 1(F); DORS/81-88, art. 2; DORS/81-665, art. 1; DORS/82-656, art. 2; DORS/82-753, art. 2; DORS/82-754, art. 2; DORS/83-138, art. 1; DORS/84-812, art. 2; DORS/86-682, art. 1; DORS/86-683, art. 2; DORS/86-975, art. 1; DORS/87-658, art. 1; DORS/87-660, art. 3; DORS/88-268, art. 4; DORS/89-384, art. 2(F) et 3 à 5; DORS/90-805, art. 4; DORS/91-425, art. 3; DORS/92-173, art. 5; DORS/92-250, art. 2(F); DORS/92-545, art. 2(F); DORS/93-31, art. 2; DORS/93-146, art. 3; DORS/93-561, art. 2; DORS/94-291, art. 2; DORS/94-669, art. 2; DORS/95-60, art. 1; DORS/95-147, art. 5 et 15(F); DORS/95-164, art. 2; DORS/96-89, art. 1; DORS/96-366, art. 4; DORS/96-437, art. 1; DORS/97-14, art. 1; DORS/97-141, art. 3; DORS/97-200, art. 2; DORS/97-201, art. 2; DORS/97-376, art. 4; DORS/97-421, art. 2; DORS/97-463, art. 1; DORS/97-532, art. 1 et 2; DORS/98-160, art. 2; DORS/98-457, art. 2; DORS/98-595, art. 1; DORS/99-357, art. 2; DORS/2000-182, art. 4; DORS/2000-304, art. 4; DORS/2001-35, art. 2 et 3; DORS/2001-353, art. 1; DORS/2001-486, art. 1; DORS/2002-55, art. 12; DORS/2002-205, art. 2; DORS/2003-272, art. 6; DORS/2003-359, art. 1 à 3; DORS/2004-195, art. 1; DORS/2005-45, art. 2; DORS/2006-94, art. 1; DORS/2007-180, art. 2 à 4; DORS/2007-246, art. 1; DORS/2008-73, art. 2; DORS/2008-104, art. 7(F) et 8(F); DORS/2008-229, art. 2; DORS/2008-258, art. 5 et 6; DORS/2009-33, art. 1(F); DORS/2009-121, art. 1; DORS/2009-291, art. 2 et 3; DORS/2009-318, art. 4, 5(A), 6(F) et 7(F).
 
 
 
@@ -2795,7 +2831,7 @@ Fait à Ottawa, le _________________________ 20_________________________
 	- **h)** la charge de la batterie;
 	- **i)** le mauvais fonctionnement du système de freinage;
 	- **j)** la basse pression des freins à air comprimé;
-	- **k)** le mauvais fonctionnement du dispositif de frein anti-blocage;
+	- **k)** le mauvais fonctionnement du dispositif de frein antiblocage;
 	- **l)** le mauvais fonctionnement du compensateur de freinage;
 	- **m)** le frein de stationnement appliqué;
 	- **n)** le bas niveau du liquide de frein;
@@ -2854,7 +2890,7 @@ Fait à Ottawa, le _________________________ 20_________________________
 	- **g)** l’indicateur ou le témoin de température du liquide de refroidissement;
 	- **h)** l’indicateur ou le témoin de charge de la batterie;
 	- **i)** le témoin de mauvais fonctionnement du système de freinage;
-	- **j)** le témoin de mauvais fonctionnement du dispositif de frein anti-blocage;
+	- **j)** le témoin de mauvais fonctionnement du dispositif de frein antiblocage;
 	- **k)** l’indicateur de vitesse;
 	- **l)** l’odomètre;
 	- **m)** le témoin de faible pression des pneus qui n’indique pas dans quel pneu la pression est faible;
@@ -3235,7 +3271,7 @@ marque optionnelle
 <td></td>
 <td>JAUNE</td>
 <td></td>
-<td>Mauvais fonctionnement du dispositif de frein anti-blocage</td>
+<td>Mauvais fonctionnement du dispositif de frein antiblocage</td>
 </tr>
 <tr>
 <td>Variable brake proportioning system malfunction <sup>6</sup></td>
@@ -3453,7 +3489,7 @@ choix du fabricant
 </tr>
 </table>
 
-> DORS/78-257, art. 2; DORS/86-976, art. 2; DORS/93-31, art. 3; DORS/94-374, art. 5; DORS/95-147, art. 7; DORS/95-164, art. 3; DORS/97-200, art. 3; DORS/97-421, art. 18(A), 19(F) et 20(F); DORS/2003-272, art. 7; DORS/2007-180, art. 22(F); DORS/2008-258, art. 7..
+> DORS/78-257, art. 2; DORS/86-976, art. 2; DORS/93-31, art. 3; DORS/94-374, art. 5; DORS/95-147, art. 7; DORS/95-164, art. 3; DORS/97-200, art. 3; DORS/97-421, art. 18(A), 19(F) et 20(F); DORS/2003-272, art. 7; DORS/2007-180, art. 22(F); DORS/2008-258, art. 7; DORS/2009-318, art. 19(F)..
 
 
 
@@ -3848,12 +3884,12 @@ choix du fabricant
 	- **a)** dans les cas visés aux dispositions S5.3.5c)1)A), B) et D) du DNT 105, peuvent être remplacés par un symbole conforme aux couleurs exigées par le paragraphe 101(9.1) de la présente annexe ou accompagnés de celui-ci;
 	- **b)** s’ils n’accompagnent pas un symbole, doivent être dans les deux langues officielles.
 
-- **(4)** Malgré les dispositions S5.3 et S5.3.5c)1)C) du DNT 105, si un indicateur distinct est utilisé pour signaler le mauvais fonctionnement d’un dispositif de frein anti-blocage, celui-ci doit afficher le symbole correspondant qui figure au tableau II de l’article 101 de la présente annexe.
+- **(4)** Malgré les dispositions S5.3 et S5.3.5c)1)C) du DNT 105, si un indicateur distinct est utilisé pour signaler le mauvais fonctionnement d’un dispositif de frein antiblocage, celui-ci doit afficher le symbole correspondant qui figure au tableau II de l’article 101 de la présente annexe.
 
 - **(5)** La mention figurant dans la disposition S5.4.3 du DNT 105 peut être remplacée par une autre mention au même effet.
 
 - **(6)** Le présent article cesse d’avoir effet le 1<sup>er</sup> juin 2013.
-> DORS/79-374, art. 3; DORS/80-637, art. 1; DORS/86-683, art. 3; DORS/86-976, art. 3; DORS/91-144, art. 1; DORS/96-89, art. 2; DORS/97-200, art. 4 et 6; DORS/97-421, art. 5; DORS/98-524, art. 4(F); DORS/99-357, art. 3; DORS/2001-35, art. 4; DORS/2005-42, art. 13; DORS/2008-104, art. 11; DORS/2009-79, art. 1..
+> DORS/79-374, art. 3; DORS/80-637, art. 1; DORS/86-683, art. 3; DORS/86-976, art. 3; DORS/91-144, art. 1; DORS/96-89, art. 2; DORS/97-200, art. 4 et 6; DORS/97-421, art. 5; DORS/98-524, art. 4(F); DORS/99-357, art. 3; DORS/2001-35, art. 4; DORS/2005-42, art. 13; DORS/2008-104, art. 11; DORS/2009-79, art. 1; DORS/2009-318, art. 19(F)..
 
 
 
@@ -3871,29 +3907,44 @@ choix du fabricant
 <table>
 <tr>
 <th>Article</th>
-<th>Colonne 1</th>
-<th>Colonne 2</th>
+<th>Colonne 1</th>
+<th>Colonne 2</th>
 </tr>
 <tr>
 <td>1</td>
-<td>Norme B 117 – 64 de l’ASTM, Salt Spray (Fog) Testing</td>
-<td>Norme B 117 – 03 de l’ASTM, Standard Practice for Operating Salt Spray (Fog) Apparatus</td>
+<td>Norme B 117 – 03 de l’ASTM, Standard Practice for Operating Salt Spray (Fog) Apparatus</td>
+<td>Norme B 117 – 07a de l’ASTM, Standard Practice for Operating Salt Spray (Fog) Apparatus</td>
 </tr>
 <tr>
 <td>2</td>
-<td>Norme D 471 – 64 de l’ASTM, Method of Test for Change in Properties of Elastomeric Vulcanizers Resulting From Immersion in Liquids</td>
-<td>Norme D 471 – 06 de l’ASTM, Standard Test Method for Rubber Property  —  Effect of Liquids</td>
+<td>Norme D 471 – 98<sup>ε1</sup>de l’ASTM, Standard Test Method for Rubber Property — Effect of Liquids</td>
+<td>Norme D 471 – 06<sup>ε1</sup> de l’ASTM, Standard Test Method for Rubber Property — Effect of Liquids</td>
 </tr>
 <tr>
 <td>3</td>
-<td>Norme E 4 – 64 de l’ASTM, Methods of Verification of Testing Machines</td>
-<td>Norme E 4 – 07 de l’ASTM, Standard Practices for Force Verification of Testing Machines</td>
+<td>Norme D 4329 – 99 de l’ASTM, Standard Practice for Fluorescent UV Exposure of Plastics</td>
+<td>Norme D 4329 – 05 de l’ASTM, Standard Practice for Fluorescent UV Exposure of Plastics</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Norme E 4 – 03 de l’ASTM, Standard Practices for Force Verification of Testing Machines</td>
+<td>Norme E 4 – 08 de l’ASTM, Standard Practices for Force Verification of Testing Machines</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Norme G 151 – 97 de l’ASTM, Standard Practice for Exposing Nonmetallic Materials in Accelerated Test Devices that Use Laboratory Light Sources</td>
+<td>Norme G 151 – 06 de l’ASTM, Standard Practice for Exposing Nonmetallic Materials in Accelerated Test Devices that Use Laboratory Light Sources</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Norme G 154 – 00 de l’ASTM, Standard Practice for Operating Fluorescent Light Apparatus for UV Exposure of Nonmetallic Materials</td>
+<td>Norme G 154 – 06 de l’ASTM, Standard Practice for Operating Fluorescent Light Apparatus for UV Exposure of Nonmetallic Materials</td>
 </tr>
 </table>
 
 
 - **(3)** Le présent article cesse d’avoir effet le 1<sup>er</sup> janvier 2012.
-> DORS/79-677, art. 3; DORS/79-907, art. 1; DORS/93-561, art. 4; DORS/97-421, art. 16; DORS/2007-180, art. 6..
+> DORS/79-677, art. 3; DORS/79-907, art. 1; DORS/93-561, art. 4; DORS/97-421, art. 16; DORS/2007-180, art. 6; DORS/2009-318, art. 8..
 
 
 
@@ -5081,7 +5132,7 @@ NOTE : LE CALCUL DES DIMENSIONS DES IMAGES DE RÉFÉRENCE SE FAIT AU MOYEN DES F
 <tr>
 <td>4</td>
 <td>Norme D 1193 – 70 de l’ASTM, Standard Specifications for Reagent Water</td>
-<td>Norme D 1193 – 99<sup>ε1</sup> de l’ASTM, Standard Specification for Reagent Water</td>
+<td>Norme D 1193 – 06 de l’ASTM, Standard Specification for Reagent Water</td>
 </tr>
 <tr>
 <td>5</td>
@@ -5091,7 +5142,7 @@ NOTE : LE CALCUL DES DIMENSIONS DES IMAGES DE RÉFÉRENCE SE FAIT AU MOYEN DES F
 <tr>
 <td>6</td>
 <td>Norme D 2515 – 66 de l’ASTM, Standard Specification for Kinematic Glass Viscometers</td>
-<td>Norme D 446 – 06 de l’ASTM, Standard Specifications and Operating Instructions for Glass Capillary Kinematic Viscometers</td>
+<td>Norme D 446 – 07 de l’ASTM, Standard Specifications and Operating Instructions for Glass Capillary Kinematic Viscometers</td>
 </tr>
 <tr>
 <td>7</td>
@@ -5112,7 +5163,7 @@ NOTE : LE CALCUL DES DIMENSIONS DES IMAGES DE RÉFÉRENCE SE FAIT AU MOYEN DES F
 
 
 - **(3)** Le présent article cesse d’avoir effet le 1<sup>er</sup> janvier 2012.
-> DORS/79-940, art. 7; DORS/93-561, art. 6; DORS/97-421, art. 21(F); DORS/2007-180, art. 7..
+> DORS/79-940, art. 7; DORS/93-561, art. 6; DORS/97-421, art. 21(F); DORS/2007-180, art. 7; DORS/2009-318, art. 9 et 10..
 
 
 
@@ -5185,14 +5236,14 @@ NOTE : LE CALCUL DES DIMENSIONS DES IMAGES DE RÉFÉRENCE SE FAIT AU MOYEN DES F
 
 - **(2)** Lorsqu’un camion ou un autobus est muni d’une soupape de limitation de pression dans les freins avant, celle-ci doit être automatique et fonctionner pendant le serrage des freins de service.
 
-- **(3)** Les indicateurs du mauvais fonctionnement du dispositif de frein anti-blocage visés à la disposition S5.1.6.2 du DNT 121 doivent afficher le symbole correspondant qui figure au tableau II de l’article 101 de la présente annexe, et les mots qui accompagnent les symboles doivent être dans les deux langues officielles.
+- **(3)** Les indicateurs du mauvais fonctionnement du dispositif de frein antiblocage visés à la disposition S5.1.6.2 du DNT 121 doivent afficher le symbole correspondant qui figure au tableau II de l’article 101 de la présente annexe, et les mots qui accompagnent les symboles doivent être dans les deux langues officielles.
 
-- **(4)** Malgré la disposition S5.2.3.3a) du DNT 121, les remorques et les chariots de conversion construits avant le 1<sup>er</sup> mars 2010 doivent, en plus d’être conformes aux exigences de la disposition S5.2.3.2 de ce DNT, être munis d’un indicateur externe du mauvais fonctionnement du dispositif de frein anti-blocage qui est conforme aux exigences prévues aux dispositions S5.2.3.3b) à d) du DNT 121.
+- **(4)** Malgré la disposition S5.2.3.3a) du DNT 121, les remorques et les chariots de conversion construits avant le 1<sup>er</sup> mars 2010 doivent, en plus d’être conformes aux exigences de la disposition S5.2.3.2 de ce DNT, être munis d’un indicateur externe du mauvais fonctionnement du dispositif de frein antiblocage qui est conforme aux exigences prévues aux dispositions S5.2.3.3b) à d) du DNT 121.
 
 - **(5)** L’essai qui concerne la force de freinage statique sur les freins de stationnement et auquel il est fait référence à la disposition S5.6.1 du DNT 121 doit être effectué dans les deux directions, soit vers l’avant et vers l’arrière.
 
 - **(6)** Le présent article cesse d’avoir effet le 1<sup>er</sup> juin 2013.
-> DORS/78-351, art. 2; DORS/79-547, art. 1; DORS/79-940, art. 7; DORS/80-638, art. 2; DORS/92-250, art. 4; DORS/94-374, art. 5(F); DORS/94-670, art. 2(F); DORS/95-147, art. 15(F); DORS/96-89, art. 3 et 4(F); DORS/97-200, art. 6; DORS/97-421, art. 9(A) et 22(F); DORS/98-524, art. 4(F); DORS/99-357, art. 4; DORS/2002-55, art. 21; DORS/2005-42, art. 13; DORS/2008-104, art. 14; DORS/2009-79, art. 2..
+> DORS/78-351, art. 2; DORS/79-547, art. 1; DORS/79-940, art. 7; DORS/80-638, art. 2; DORS/92-250, art. 4; DORS/94-374, art. 5(F); DORS/94-670, art. 2(F); DORS/95-147, art. 15(F); DORS/96-89, art. 3 et 4(F); DORS/97-200, art. 6; DORS/97-421, art. 9(A) et 22(F); DORS/98-524, art. 4(F); DORS/99-357, art. 4; DORS/2002-55, art. 21; DORS/2005-42, art. 13; DORS/2008-104, art. 14; DORS/2009-79, art. 2; DORS/2009-318, art. 19(F)..
 
 
 
@@ -5270,12 +5321,12 @@ NOTE : LE CALCUL DES DIMENSIONS DES IMAGES DE RÉFÉRENCE SE FAIT AU MOYEN DES F
 
 - **(13)** La disposition S5.2.4 du DNT 123 ne s’applique pas aux tricycles à moteur.
 
-- **(14)** Malgré la disposition S5.2.5 du DNT 123, il n’est pas nécessaire, sur un tricycle à moteur, que le cale-pied prévu pour un passager se rabatte vers l’arrière et vers le haut lorsqu’il n’est pas utilisé.
+- **(14)** Malgré la disposition S5.2.5 du DNT 123, il n’est pas nécessaire qu’un cale-pied pour le passager sur une motocyclette se rabatte vers l’arrière et vers le haut lorsqu’il n’est pas utilisé.
 
 - **(15)** L’affichage des feux de changement de direction d’une motocyclette doit être vert ou jaune.
 
 - **(16)** Le présent article cesse d’avoir effet le 1<sup>er</sup> janvier 2012.
-> DORS/79-306, art. 5; DORS/79-940, art. 7; DORS/82-656, art. 3; DORS/88-268, art. 10; DORS/93-31, art. 5; DORS/94-374, art. 5(F); DORS/95-536, art. 7; DORS/96-366, art. 8; DORS/97-421, art. 10, 11(F), 12(F) et 22(F); DORS/98-524, art. 4(F); DORS/2003-272, art. 19; DORS/2007-180, art. 10..
+> DORS/79-306, art. 5; DORS/79-940, art. 7; DORS/82-656, art. 3; DORS/88-268, art. 10; DORS/93-31, art. 5; DORS/94-374, art. 5(F); DORS/95-536, art. 7; DORS/96-366, art. 8; DORS/97-421, art. 10, 11(F), 12(F) et 22(F); DORS/98-524, art. 4(F); DORS/2003-272, art. 19; DORS/2007-180, art. 10; DORS/2009-318, art. 11..
 
 
 
@@ -5322,12 +5373,12 @@ NOTE : LE CALCUL DES DIMENSIONS DES IMAGES DE RÉFÉRENCE SE FAIT AU MOYEN DES F
 	- **a)** dans les cas visés aux dispositions S5.5.5d)1), 2), 4) et 5) du DNT 135 et dans le cas de l’indicateur du compensateur de freinage visé à la disposition S5.5.5d)3) du DNT 135, peuvent être remplacés par un symbole conforme aux couleurs exigées par le paragraphe 101(9.1) de la présente annexe ou accompagnés de celui-ci;
 	- **b)** s’ils n’accompagnent pas un symbole, doivent être dans les deux langues officielles.
 
-- **(5)** Malgré les dispositions S5.5 et S5.5.5d)3) du DNT 135, si un indicateur distinct est utilisé pour signaler une défaillance du fonctionnement électrique d’un dispositif de frein anti-blocage, il doit afficher le symbole correspondant qui figure au tableau II de l’article 101 de la présente annexe.
+- **(5)** Malgré les dispositions S5.5 et S5.5.5d)3) du DNT 135, si un indicateur distinct est utilisé pour signaler une défaillance du fonctionnement électrique d’un dispositif de frein antiblocage, il doit afficher le symbole correspondant qui figure au tableau II de l’article 101 de la présente annexe.
 
 - **(6)** Le mot « car » employé dans les dispositions S6.3.6 et S6.3.7 de la version anglaise du DNT 135 vaut mention de « vehicle ».
 
 - **(7)** Le présent article cesse d’avoir effet le 1<sup>er</sup> juin 2013.
-> DORS/97-200, art. 5; DORS/99-357, art. 5; DORS/2001-35, art. 6; DORS/2003-272, art. 20; DORS/2005-42, art. 13; DORS/2006-94, art. 4(A); DORS/2008-104, art. 15; DORS/2009-79, art. 4..
+> DORS/97-200, art. 5; DORS/99-357, art. 5; DORS/2001-35, art. 6; DORS/2003-272, art. 20; DORS/2005-42, art. 13; DORS/2006-94, art. 4(A); DORS/2008-104, art. 15; DORS/2009-79, art. 4; DORS/2009-318, art. 19(F)..
 
 
 
@@ -5844,7 +5895,7 @@ où :
 <tr>
 <td>6</td>
 <td>Norme G 23 – 81 de l’ASTM,Standard Practice for Operating Light-Exposure Apparatus (Carbon-Arc Type) With and Without Water for Exposure of Nonmetallic Materials</td>
-<td>Norme G 152 – 00a<sup>ε1</sup> de l’ASTM,Standard Practice for Operating Open Flame Carbon Arc Light Apparatus for Exposure of Nonmetallic Materials</td>
+<td>Norme G 152 – 06 de l’ASTM, Standard Practice for Operating Open Flame Carbon Arc Light Apparatus for Exposure of Nonmetallic Materials</td>
 </tr>
 </table>
 
@@ -5860,7 +5911,7 @@ où :
 - **(12)** La ceinture de sécurité de type 1 ou de type 2 qui comporte un limiteur de charge et n’est pas conforme aux exigences en matière d’allongement qui sont prévues aux dispositions S4.2c), S4.4a)(2) ou S4.4b)(4) ou (5) du DNT 209 ne peut être installée qu’à une place assise désignée extérieure avant qui est munie d’un sac gonflable frontal.
 
 - **(13)** Le présent article cesse d’avoir effet le 1<sup>er</sup> janvier 2012.
-> DORS/78-910, art. 2; DORS/87-154, art. 3; DORS/92-545, art. 4; DORS/97-447, art. 6; DORS/2007-180, art. 13..
+> DORS/78-910, art. 2; DORS/87-154, art. 3; DORS/92-545, art. 4; DORS/97-447, art. 6; DORS/2007-180, art. 13; DORS/2009-318, art. 12..
 
 
 
@@ -7773,22 +7824,24 @@ où :
 
 
 
-### Déversement d’électrolyte et protection contre les chocs électriques (Norme 305)
+### Déversement d’électrolyte et protection contre les décharges électriques (Norme 305)
+> [DORS/2009-318, art. 13(F)]
+
 
 **305** 
 
-- **(1)** Les voitures de tourisme, ainsi que les véhicules de tourisme à usages multiples, camions et autobus ayant un PNBV d’au plus 4 536 kg, qui utilisent pour leur propulsion plus de 48 volts nominal d’électricité et peuvent atteindre une vitesse supérieure à 40 km/h sur une distance de 1,6 km sur une surface plane asphaltée doivent être conformes aux exigences du Document de normes techniques n° 305 — Déversement d’électrolyte et protection contre les chocs électriques, avec ses modifications successives.
+- **(1)** Les véhicules à trois roues, les voitures de tourisme, ainsi que les véhicules de tourisme à usages multiples, camions et autobus d’un PNBV d’au plus 4 536 kg, qui utilisent pour leur propulsion une tension nominale de plus de 60 volts en courant continu (VCC) ou plus de 30 volts en courant alternatif (VCA) et qui peuvent atteindre une vitesse supérieure à 40 km/h sur une distance de 1,6 km sur une surface asphaltée de niveau doivent être conformes aux exigences du Document de normes techniques n° 305 — Déversement d’électrolyte et protection contre les décharges électriques (DNT 305), avec ses modifications successives.
 
-- **(1.1)** Les véhicules à trois roues qui utilisent pour leur propulsion plus de 48 volts d’électricité et peuvent atteindre une vitesse supérieure à 40 km/h sur une distance de 1,6 km sur une surface asphaltée au niveau doivent être conformes aux exigences du Document de normes techniques n° 305 — Déversement d’électrolyte et protection contre les chocs électriques, sauf les dispositions S6.2, S6.3, S7.4 et S7.5, avec ses modifications successives, ci-après appelé le « DNT 305 ».
+- **(2)** Les dispositions S6.2, S6.3, S7.4 et S7.5 du DNT 305 ne s’appliquent pas aux véhicules à trois roues.
 
-- **(1.2)** Au lieu d’être conforme à la disposition S7.2.3 du DNT 305, la charge du véhicule à trois roues, y compris les dispositifs et les instruments d’essai, doit être celle du poids du véhicule sans charge, sauf que le réservoir d’essence du véhicule est rempli à au moins 90 et au plus 95 pour cent de sa capacité.
+- **(3)** Au lieu d’être conforme à la disposition S7.2.3 du DNT 305, la charge d’un véhicule à trois roues, y compris les dispositifs et les instruments d’essai, doit être celle du poids du véhicule sans charge, sauf que le réservoir d’essence du véhicule est rempli à au moins 90 % mais à au plus 95 % de sa capacité.
 
-- **(1.3)** Au lieu d’être soumis à un essai conformément à la disposition S6.2 du DNT 305, le véhicule visé au paragraphe (1) peut être soumis à un essai conformément à la disposition S6.2(b) du DNT 301, sauf les exigences relatives à l’écoulement de carburant, dans les conditions applicables visées à la disposition S7.3(b) du DNT 301.
+- **(4)** Au lieu d’être soumis à un essai conformément à la disposition S6.2 du DNT 305, tout véhicule visé au paragraphe (1), à l’exception d’un véhicule à trois roues, peut être soumis à un essai conformément aux exigences de la disposition S6.2(b) du DNT 301, sauf les exigences relatives à l’écoulement de carburant, dans les conditions applicables prévues à la disposition S7.3(b) du DNT 301.
 
-- **(1.4)** Le véhicule qui est soumis à un essai conformément au paragraphe (1.3) doit être conforme aux exigences des dispositions S5.1, S5.2 et S5.3 du DNT 305.
+- **(5)** Les véhicules qui sont soumis à un essai conformément au paragraphe (4) doivent être conformes aux exigences des dispositions S5.1, S5.2 et S5.3 du DNT 305.
 
-- **(2)** Le présent article cesse d’avoir effet le 1<sup>er</sup> janvier 2010.
-> DORS/2001-486, art. 2; DORS/2003-272, art. 32; DORS/2004-89, art. 4; DORS/2004-250, art. 5; DORS/2005-42, art. 9 et 10; DORS/2006-94, art. 4(A)..
+- **(6)** Le présent article cesse d’avoir effet le 1<sup>er</sup> juin 2013.
+> DORS/2001-486, art. 2; DORS/2003-272, art. 32; DORS/2004-89, art. 4; DORS/2004-250, art. 5; DORS/2005-42, art. 9 et 10; DORS/2006-94, art. 4(A); DORS/2009-318, art. 13..
 
 
 
@@ -7801,10 +7854,10 @@ où :
 
 - **(2)** Cependant, les véhicules construits avant le 1<sup>er</sup> septembre 2010 n’ont pas à être munis d’un mécanisme de déverrouillage interne du coffre.
 
-- **(3)** Le présent article ne s’applique pas aux véhicules munis d’une porte arrière au sens du paragraphe 2(1) du présent règlement.
+- **(3)** Le présent article ne s’applique pas aux véhicules munis d’une porte arrière. Pour l’application du présent paragraphe, « porte arrière » s’entend au sens du DNT 401.
 
 - **(4)** Le présent article cesse d’avoir effet le 1<sup>er</sup> janvier 2012.
-> DORS/2007-180, art. 19; DORS/2008-73, art. 4..
+> DORS/2007-180, art. 19; DORS/2008-73, art. 4; DORS/2009-318, art. 14..
 
 
 
@@ -8122,7 +8175,7 @@ où :
 
 ***dBA*** Les niveaux sonores mesurés en décibels dans la gamme de pondération A qui sont obtenus au moyen d’un sonomètre ou de l’appareillage d’acquisition de données sur les pressions sonores visé à l’annexe A de la Méthode d’essai 1106 — Essais relatifs à l’émission de bruit, dans sa version de août 2005, lequel appareillage utilise les données indiquées au tableau 1 de cette annexe. (*dBA*)
 
-***décibel*** ou ***dB*** Mesure qui correspond à 20 fois le logarithme décimal du rapport entre la pression sonore et la pression de référence de 20 µPa. (*decibel** ou **dB*)
+***décibel*** ou ***dB*** Mesure qui correspond à 20 fois le logarithme décimal du rapport entre la pression sonore et la pression de référence de 20 µPa. (*decibel** ou **dB*)
 
 ***niveau sonore*** Moyenne quadratique des valeurs, mesurées en dBA, qui sont enregistrées durant les essais effectués en application du présent article. (*sound level*)
 
@@ -8137,38 +8190,40 @@ où :
 **2** Les véhicules, sauf les motocyclettes et les véhicules visés à l’article 4, doivent être construits de façon à satisfaire à l’une des exigences suivantes :
 - **a)** lorsqu’ils sont soumis aux essais prévus à l’annexe 3 du règlement n<sup>o</sup> 51 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des automobiles ayant au moins quatre roues, en ce qui concerne le bruit, dans sa version du 11 mars 1996, à l’exclusion des exigences du paragraphe 3.2, ils sont conformes à l’article 6 de ce règlement;
 - **b)** lorsqu’ils sont soumis :
-	- **(i)** aux essais prévus à l’article 3 de la Méthode d’essai 1106 — Essais relatifs à l’émission de bruit, dans sa version de août 2005, le niveau sonore extérieur est d’au plus 83 dBA après soustraction d’une valeur de 2 dBA du niveau sonore moyen le plus élevé enregistré au cours des essais, dans le cas des autobus d’un PNBV supérieur à 4 536 kg (10 000 lb),
-	- **(ii)** aux essais prévus à la pratique recommandée J986 de la SAE, intitulée *Sound Level for Passenger Cars and Light Trucks*, (août 1994) ou à la norme J1470 de la SAE, intitulée *Measurement of Noise Emitted by Accelerating Highway Vehicles*, (mars 1992), le niveau sonore extérieur est d’au plus 83 dBA après soustraction d’une valeur de 2 dBA du niveau sonore moyen le plus élevé enregistré au cours des essais, dans le cas des véhicules lourds d’un PNBV d’au plus 4 536 kg (10 000 lb),
-	- **(iii)** aux essais prévus à la pratique recommandée J986 de la SAE, intitulée Sound Level for Passenger Cars and Light Trucks, (août 1994) ou à la norme J1470 de la SAE, intitulée Measurement of Noise Emitted by Accelerating Highway Vehicles, (mars 1992), le niveau sonore extérieur est d’au plus 80 dBA après soustraction d’une valeur de 2 dBA du niveau sonore moyen le plus élevé enregistré au cours des essais, dans le cas des véhicules légers.
-> DORS/2005-342, art. 6..
+	- **(i)** aux essais prévus à l’article 3 de la Méthode d’essai 1106 — Essais relatifs à l’émission de bruit (août 2005), le niveau sonore extérieur est d’au plus 83 dBA après soustraction d’une valeur de 2 dBA du niveau sonore moyen le plus élevé enregistré au cours des essais, dans le cas d’un autobus d’un PNBV supérieur à 4 536 kg,
+	- **(ii)** aux essais prévus à la pratique recommandée J986 de la SAE, intitulée *Sound Level for Passenger Cars and Light Trucks* (août 1994), ou à la norme J1470 de la SAE, intitulée *Measurement of Noise Emitted by Accelerating Highway Vehicles* (mars 1992), le niveau sonore extérieur est d’au plus 83 dBA après soustraction d’une valeur de 2 dBA du niveau sonore moyen le plus élevé enregistré au cours des essais, dans le cas d’un autobus, d’un véhicule de tourisme à usages multiples, d’un camion ou d’un véhicule incomplet sur lequel une cabine est installée qui ont un PNBV de plus de 2 722 kg mais d’au plus 4 536 kg,
+	- **(iii)** aux essais prévus à la pratique recommandée J986 de la SAE, intitulée *Sound Level for Passenger Cars and Light Trucks* (août 1994), ou à la norme J1470 de la SAE, intitulée *Measurement of Noise Emitted by Accelerating Highway Vehicles* (mars 1992), le niveau sonore extérieur est d’au plus 80 dBA après soustraction d’une valeur de 2 dBA du niveau sonore moyen le plus élevé enregistré au cours des essais, dans le cas d’une voiture de tourisme sans égard à son PNBV ou de tout autre véhicule d’un PNBV de 2 722 kg ou moins.
+> DORS/2005-342, art. 6; DORS/2009-318, art. 15..
 
 
 
 **3** Les motocyclettes doivent être construites de façon à satisfaire à l’une des exigences suivantes :
 - **a)** lorsqu’elles sont soumises aux essais prévus à l’annexe 3 du règlement n<sup>o</sup> 41 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des motocyclettes en ce qui concerne le bruit, daté du 14 mai 1980 et modifié le 14 septembre 1984, à l’exclusion des exigences du paragraphe 3.2, le niveau sonore extérieur :
-	- **(i)** dans le cas d’une motocyclette avec une cylindrée d’au plus 80 cm<sup>3</sup>, n’est pas supérieur à 77 dBA,
-	- **(ii)** dans le cas d’une motocyclette avec une cylindrée de plus de 80 cm<sup>3</sup> mais d’au plus 175 cm<sup>3</sup>, n’est pas supérieur à 80 dBA,
-	- **(iii)** dans le cas d’une motocyclette avec une cylindrée de plus de 175 cm<sup>3</sup>, n’est pas supérieur à 82 dBA;
+	- **(i)** dans le cas d’une motocyclette avec une cylindrée d’au plus 80 cm<sup>3</sup>, n’est pas supérieur à 77 dBA,
+	- **(ii)** dans le cas d’une motocyclette avec une cylindrée de plus de 80 cm<sup>3</sup> mais d’au plus 175 cm<sup>3</sup>, n’est pas supérieur à 80 dBA,
+	- **(iii)** dans le cas d’une motocyclette avec une cylindrée de plus de 175 cm<sup>3</sup>, n’est pas supérieur à 82 dBA;
 - **b)** lorsqu’elles sont soumises :
-	- **(i)** aux essais prévus à l’**appendix I-2, subparts D et E, part 205, chapter I, title 40** de la publication des États-Unis intitulée *Code of Federal Regulations*, tel qu’il a été modifié par le Vol. 45, n<sup>o</sup> 252 du *Federal Register* des États-Unis, publié le 31 décembre 1980, aux pages 86727 et 86728, le niveau sonore extérieur n’est pas supérieur à 70 dBA dans le cas d’une motocyclette avec une cylindrée d’au plus 50 cm<sup>3</sup> et une vitesse maximale de 48 km/h sur une surface asphaltée plane,
-	- **(ii)** aux essais prévus à l’**appendix I-1, subparts D et E, part 205, chapter I, title 40** de la publication des États-Unis intitulée *Code of Federal Regulations*, qu’il a été modifié par le Vol. 45, n<sup>o</sup> 252 du *Federal Register* des États-Unis, publié le 31 décembre 1980, aux pages 86726 et 86727, le niveau sonore extérieur n’est pas supérieur à 80 dBA, dans les autres cas.
+	- **(i)** aux essais prévus à l’appendice I-2, sous-parties D et E, partie 205, chapitre I, titre 40 du *Code of Federal Regulations* des États-Unis, tel qu’il a été modifié par le vol. 45, n<sup>o</sup> 252, du *Federal Register* des États-Unis, publié le 31 décembre 1980, pages 86727 et 86728, le niveau sonore extérieur n’est pas supérieur à 70 dBA, dans le cas d’une motocyclette avec une cylindrée d’au plus 50 cm<sup>3</sup> et une vitesse maximale de 48 km/h sur une surface asphaltée plane,
+	- **(ii)** aux essais prévus à l’appendice I-1, sous-parties D et E, partie 205, chapitre I, titre 40 du *Code of Federal Regulations* des États-Unis, tel qu’il a été modifié par le vol. 45, n<sup>o</sup> 252, du *Federal Register* des États-Unis, publié le 31 décembre 1980, pages 86726 et 86727, le niveau sonore extérieur n’est pas supérieur à 80 dBA, dans les autres cas.
+> DORS/2009-318, art. 16(F)..
 
 
-**4** Tout camion ou véhicule incomplet sur lequel une cabine est installée, dont le PNBV est supérieur à 4 536 kg (10 000 lb), doit être construit de façon à satisfaire à l’une des exigences suivantes :
+
+**4** Tout véhicule de tourisme à usages multiples, camion ou véhicule incomplet sur lequel une cabine est installée, dont le PNBV est supérieur à 4 536 kg, doit être construit de façon à être conforme à l’une des exigences suivantes :
 - **a)** lorsqu’il est soumis aux essais prévus à l’annexe 3 du règlement n<sup>o</sup> 51 de la CEE, intitulé Prescriptions uniformes relatives à l’homologation des automobiles ayant au moins quatre roues, en ce qui concerne le bruit, dans sa version du 11 mars 1996, à l’exclusion des exigences du paragraphe 3.2, le niveau sonore extérieur :
-	- **(i)** dans le cas d’un camion lourd dont le moteur produit moins de 75 kW, n’est pas supérieur à 81 dBA,
-	- **(ii)** dans le cas d’un camion lourd dont le moteur produit au moins 75 kW et moins de 150 kW, n’est pas supérieur à 83 dBA,
-	- **(iii)** dans le cas d’un camion lourd dont le moteur produit 150 kW ou plus, n’est pas supérieur à 84 dBA;
-- **b)** lorsqu’il est soumis à l’essai d’émission de bruit à basse vitesse prévu à l’article 205.54-1 de la **subpart B, part 205, chapter I, title 40** de la publication des États-Unis intitulée *Code of Federal Regulations*, dans sa version du 1<sup>er</sup> juillet 1995, le niveau sonore extérieur n’est pas supérieur à 80 dBA.
-> DORS/2002-55, art. 20..
+	- **(i)** n’est pas supérieur à 81 dBA, dans le cas d’un véhicule dont le moteur produit moins de 75 kW,
+	- **(ii)** n’est pas supérieur à 83 dBA, dans le cas d’un véhicule dont le moteur produit au moins 75 kW mais moins de 150 kW,
+	- **(iii)** n’est pas supérieur à 84 dBA, dans le cas d’un véhicule dont le moteur produit 150 kW ou plus;
+- **b)** lorsqu’il est soumis à l’essai d’émission de bruit à basse vitesse prévu à l’article 205.54-1 de la sous-partie B, partie 205, chapitre I, titre 40 du *Code of Federal Regulations* des États-Unis, dans sa version du 5 décembre 1977, le niveau sonore extérieur n’est pas supérieur à 80 dBA.
+> DORS/2002-55, art. 20; DORS/2009-318, art. 17..
 
 
 
 
 #### Niveau sonore intérieur
 
-**5** Les camions et autobus d’un PNBV supérieur à 4 536 kg (10 000 lb) doivent être construits de façon que, lorsqu’ils sont soumis aux essais prévus à l’article 4 de la Méthode d’essai 1106 — Essais relatifs à l’émission de bruit, dans sa version de août 2005, le niveau sonore intérieur à la place assise du conducteur soit d’au plus 90 dBA après soustraction d’une valeur de 2 dBA du niveau sonore moyen obtenu selon l’essai.
-> DORS/2005-342, art. 6.
+**5** Les camions et autobus d’un PNBV supérieur à 4 536 kg doivent être construits de façon que, lorsqu’ils sont soumis aux essais prévus à l’article 4 de la Méthode d’essai 1106 — Essais relatifs à l’émission de bruit (août 2005), le niveau sonore intérieur à la place assise du conducteur soit d’au plus 90 dBA après soustraction d’une valeur de 2 dBA du niveau sonore moyen obtenu selon l’essai.
+> DORS/2005-342, art. 6; DORS/2009-318, art. 18.
 
 
 
