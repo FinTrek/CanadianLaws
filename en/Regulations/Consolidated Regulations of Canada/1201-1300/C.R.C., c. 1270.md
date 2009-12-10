@@ -32,7 +32,7 @@ Enabling authorities:
 
 ***Authority*** means the Pacific Pilotage Authority; (*Administration*)
 
-***certificate of competency*** means a Canadian certificate of competency or a certificate of competency that entitles the holder thereof to serve on a ship of Canadian registry in the capacity for which the certificate is issued; (*certificat de capacité*)
+***certificate of competency***[Repealed, SOR/2009-329, s. 1]
 
 ***coastal trade*** means the regular employment and operation of ships in the waters of the region, the waters of Puget Sound, the Strait of Juan de Fuca and the coastal waters of the State of Alaska not west of Cook Inlet; (*cabotage*)
 
@@ -46,9 +46,11 @@ Enabling authorities:
 
 ***deck watch officer***[Repealed, SOR/2003-224, s. 1]
 
+***familiarization trip*** means a voyage in a compulsory pilotage area on board a ship during which an applicant for a licence or pilotage certificate observes the licensed pilot assigned to the ship; (*voyage d’entraînement*)
+
 ***ferry*** means a ship or an arrangement of ships that carries passengers or goods according to a fixed schedule between terminals; (*traversier*)
 
-***gross tons*** means gross tonnage as defined in the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md); (*tonneaux de jauge brute*)
+***gross tons*** means gross tonnage as defined in section 2 of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md); (*tonneaux de jauge brute*)
 
 ***marine occurrence*** has the meaning assigned by section 2 of the [Canadian Transportation Accident Investigation and Safety Board Act](/en/Acts/Statutes%20of%20Canada/1989/c.%203.md); (*accident maritime*)
 
@@ -57,6 +59,8 @@ Enabling authorities:
 ***person in charge of the deck watch*** means a person who has immediate charge of the navigation, manoeuvring, operation or safety of a ship, but does not include a pilot; (*personne responsable du quart à la passerelle*)
 
 ***pilot boarding station*** means a place used for the purpose of embarking or disembarking pilots; (*station d’embarquement de pilotes*)
+
+***pleasure craft*** has the meaning assigned by section 2 of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md); (*embarcation de plaisance*)
 
 ***region*** means all Canadian waters in and around the Province of British Columbia; (*région*)
 
@@ -71,7 +75,7 @@ Enabling authorities:
 ***voyage*** includes a passage or trip of a ship and any movement of a ship from one place to another but does not include a movage. (*voyage*)
 
 ***warping*** means the moving of a ship from one berth to another solely by means of mooring lines; (*halage*) 
-> SOR/2003-224, s. 1.
+> SOR/2003-224, s. 1; SOR/2009-329, s. 1.
 
 
 
@@ -97,21 +101,38 @@ Enabling authorities:
 
 **4** 
 
-- **(1)** In this section, the required days of service must have been served in the region by the holder of a certificate of a master, ship of not more than 350 tons, gross tonnage, or tug, local voyage or a certificate that entitles its holder to not less than the same rights and privileges as that certificate on a ship of 25 gross tons or more that is engaged in the coastal trade or in catching, processing or transporting fish.
+- **(1)** An applicant for a licence or pilotage certificate shall hold a certificate of competency not lower than Master 500 Gross Tonnage, Near Coastal and
+	- **(a)** have served not less than 700 days of service in the region as master of a ship of 25 gross tons or more in the region, and have completed 10 familiarization trips as an observer in the Familiarization Program prior to the date of application;
+	- **(b)** have served not less than 365 days of service in the region as master of a ship of 25 gross tons or more, and have completed not less than 547 additional days in the region as a deck officer on a ship of 25 gross tons or more while holding a Watchkeeping Mate certificate of competency, and have completed 15 familiarization trips as an observer in the Familiarization Program prior to the date of application;
+	- **(c)** have served not less than 1000 days of service in the region as a deck officer on a ship of 25 gross tons or more while holding a Watchkeeping Mate certificate of competency, and have completed not less than 20 familiarization trips as an observer in the Familiarization Program prior to the date of application; or
+	- **(d)** have served not less than 635 days of service in the region as master or as a deck officer while holding a Watchkeeping Mate certificate of competency and
+		- **(i)** have served not less than 365 days of service outside the region as master or as a deck officer while holding a Watchkeeping Mate certificate of competency on a ship of 100 gross tons or more, and have completed 30 familiarization trips as an observer in the Familiarization Program prior to the date of application, or
+		- **(ii)** have served not less than 365 days of service in the region while holding a Fishing Master, Third Class certificate of competency on a ship of 25 gross tons or more, and have completed 30 familiarization trips as an observer in the Familiarization Program prior to the date of application.
 
-- **(2)** The Authority may approve familiarization trips that consist of voyages in compulsory pilotage areas on board a ship on which an applicant for a licence or pilotage certificate is accompanied by a licensed pilot.
+- **(2)** A minimum of 100 of the days of service required by subsection (1) must have been served within the 24 months before the date of application.
 
-- **(3)** An applicant for a licence or pilotage certificate shall have served
-	- **(a)** as master of a ship for not less than 730 days of service;
-	- **(b)** as master of a ship for not less than 365 days of service and as a person in charge of the deck watch on board a ship for not less than 547 additional days of service; or
-	- **(c)** as a person in charge of the deck watch on board a ship for not less than 1095 days of service and shall have completed not less than 20 familiarization trips within the 24 months before the date of application.
+- **(3)** An applicant for a licence or pilotage certificate for Area 1 must have served a minimum of 250 of the days of service required by subsection (1) in Area 1.
 
-- **(4)** A minimum of 100 of the days of service required by subsection (3) must have been served within the 24 months before the date of application.
+- **(4)** An applicant for a licence for Areas 2 to 5 must have served the days of service required by subsection (1) in at least two of those Areas.
 
-- **(5)** An applicant for a licence or pilotage certificate for Area 1 must have served a minimum of 250 of the days of service required by subsection (3) in Area 1.
+- **(5)** An applicant for a pilotage certificate for Area 2, 3, 4 or 5 must have served at least 250 of the days of service required by subsection (1) in the Area being applied for.
+> SOR/78-839, s. 1; SOR/83-401, s. 1; SOR/84-415, s. 1; SOR/89-415, s. 1; SOR/2003-224, s. 2; SOR/2009-329, s. 2.
 
-- **(6)** An applicant for a licence or pilotage certificate for Areas 2 to 5 must have served the days of service required by subsection (3) in at least two of those Areas.
-> SOR/78-839, s. 1; SOR/83-401, s. 1; SOR/84-415, s. 1; SOR/89-415, s. 1; SOR/2003-224, s. 2.
+
+
+
+
+## Familiarization Program
+
+
+**4.1** 
+
+- **(1)** A person may apply to the Authority for entry into the Familiarization Program.
+
+- **(2)** The Authority shall approve familiarization trips if
+	- **(a)** in the case of 10 familiarization trips or less, the applicant has served at least 50% of the days of service required by any of paragraphs (4)(1)(a) to (d); and
+	- **(b)** in the case of more than 10 familiarization trips, the applicant has served at least 75% of the days of service required by any of paragraphs 4(1)(b) to (d).
+> SOR/2009-329, s. 2.
 
 
 
@@ -120,18 +141,10 @@ Enabling authorities:
 ## Certificates
 
 
-**5** 
-
-- **(1)** The Authority shall prepare and maintain a list of recognized marine training institutions that have, taking into account the established practices and requirements of the domestic and international marine industry, the curriculum and personnel necessary to enable an applicant for a licence or pilotage certificate to obtain the certificates referred to in subparagraphs (2)(b)(i) to (iv).
-
-- **(2)** In addition to the certificates required by subsection 10(4) and section 11 of the General Pilotage Regulations, an applicant or a holder of a licence or a pilotage certificate shall hold
-	- **(a)** a continued proficiency certificate issued in accordance with section 58 of the [Marine Certification Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/97/391.md); and
-	- **(b)** a training certificate indicating that they have successfully completed, at a recognized marine training institution, a course
-		- **(i)** in marine emergency duties for senior officers,
-		- **(ii)** in bridge resource management,
-		- **(iii)** in simulated electronic navigation, level 2, and
-		- **(iv)** in automatic radar plotting aids after September 1, 1989.
-> SOR/2003-224, s. 2.
+**5** In addition to the certificates required by subsection 10(4) and section 11 of the [General Pilotage Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2000/132.md), an applicant for or a holder of a licence or a pilotage certificate shall hold a training certificate indicating that they have successfully completed a course approved in accordance with section 114 of the [Marine Personnel Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2007/115.md)
+- **(a)** in simulated electronic navigation, level 2; and
+- **(b)** in automatic radar plotting aids.
+> SOR/2003-224, s. 2; SOR/2009-329, s. 3.
 
 
 
@@ -169,14 +182,15 @@ Enabling authorities:
 
 **9** 
 
-- **(1)** Every ship over 350 gross tons is subject to compulsory pilotage.
+- **(1)** Every ship over 350 gross tons that is not a pleasure craft and every pleasure craft over 500 gross tons is subject to compulsory pilotage.
 
 - **(2)** For the purposes of subsection (1), if a ship is part of an arrangement of ships, then the combined tonnage of all the ships in the arrangement of ships is taken into consideration in determining whether the ship is subject to compulsory pilotage.
 
 - **(3)** Subsection (1) does not apply in respect of
-	- **(a)** a government ship as defined in section 2 of the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md); or
-	- **(b)** a ferry.
-> SOR/83-23, s. 1; SOR/85-256, s. 1(F); SOR/2003-224, s. 3.
+	- **(a)** a government vessel as defined in section 2 of the [Canada Shipping Act, 2001](/en/Acts/Statutes%20of%20Canada/2001/c.%2026.md);
+	- **(b)** a ferry; or
+	- **(c)** a United States government ship under 10 000 gross tons.
+> SOR/83-23, s. 1; SOR/85-256, s. 1(F); SOR/2003-224, s. 3; SOR/2009-329, s. 4.
 
 
 
@@ -202,21 +216,21 @@ Enabling authorities:
 	- **(b)** leave the compulsory pilotage area after a licensed pilot has been disembarked at the pilot boarding station.
 
 - **(3)** Subject to subsections (4) to (6), the Authority may waive compulsory pilotage in respect of a ship under 10 000 gross tons if all persons in charge of the deck watch
-	- **(a)** hold certificates of competency of the proper class and category of voyage for the ship that are required by Part 1 or 2 of the [Crewing Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/97/390.md);
+	- **(a)** hold certificates of competency of the proper class and category of voyage for the ship that are required by Part 2 of the [Marine Personnel Regulations](/en/Regulations/Statutory%20Orders%20and%20Regulations/2007/115.md);
 	- **(b)** have served either 150 days of service in the preceding 18 months or 365 days of service in the preceding 60 months, of which 60 days must have been served in the preceding 24 months, at sea as a person in charge of the deck watch on one or more ships on voyages in the region or engaged in the coastal trade; and
 	- **(c)** have served as persons in charge of the deck watch in the compulsory pilotage area for which the waiver is sought on one or more occasions during the preceding 24 months.
 
-- **(4)** The Authority may waive compulsory pilotage in respect of a ship under 10 000 gross tons travelling in the portion of Area 1 below the New Westminster railway bridge if all persons in charge of the deck watch
-	- **(a)** meet the conditions set out in subsection (3); and
-	- **(b)** have completed five return voyages with a licensed pilot through that portion of Area 1 within the 24 months before the application.
+- **(4)** The Authority may waive compulsory pilotage in respect of a ship under 10 000 gross tons travelling in the portion of Area 1 below the New Westminster railway bridge if all persons in charge of the deck watch meet the conditions set out in subsection (3) and have completed five return voyages through that portion of Area 1 within the 24 months before the application
+	- **(a)** with a licensed pilot; or
+	- **(b)** with a person in charge of the deck watch who has completed five return voyages through that portion of Area 1 with a licensed pilot, if the Authority is given prior notice of each voyage.
 
-- **(5)** The Authority may waive compulsory pilotage in respect of a ship under 10 000 gross tons travelling in the portion of Area 1 above the New Westminster railway bridge if all persons in charge of the deck watch
-	- **(a)** meet the conditions set out in subsection (3); and
-	- **(b)** have completed 10 return voyages with a licensed pilot through that portion of Area 1 within the 24 months before the application.
+- **(5)** The Authority may waive compulsory pilotage in respect of a ship under 10 000 gross tons travelling in the portion of Area 1 above the New Westminster railway bridge if all persons in charge of the deck watch meet the conditions set out in subsection (3) and have completed 10 return voyages through that portion of Area 1 within the 24 months before the application
+	- **(a)** with a licensed pilot; or
+	- **(b)** with a person in charge of the deck watch who has completed 10 return voyages through that portion of Area 1 with a licensed pilot, if the Authority is given prior notice of each voyage.
 
-- **(6)** The Authority may waive compulsory pilotage in respect of a ship under 10 000 gross tons carrying dangerous goods and travelling in the Second Narrows Movement Restriction Area if all persons in charge of the deck watch
-	- **(a)** meet the conditions set out in subsection (3); and
-	- **(b)** have completed six return voyages with a licensed pilot through that Area, one of which was completed within the 24 months before the application.
+- **(6)** The Authority may waive compulsory pilotage in respect of a ship under 10 000 gross tons carrying dangerous goods and travelling in the Second Narrows Movement Restriction Area if all persons in charge of the deck watch meet the conditions set out in subsection (3) and have completed six return voyages through that Area, one of which was completed within the 24 months before the application
+	- **(a)** with a licensed pilot; or
+	- **(b)** with a person in charge of the deck watch who has completed six return voyages through that Area with a licensed pilot, if the Authority is given prior notice of each voyage.
 
 - **(7)** For the purposes of subsections (3) to (6), if a ship is part of an arrangement of ships, then the combined tonnage of all the ships in the arrangement of ships is taken into consideration in determining whether the ship qualifies for a waiver of compulsory pilotage.
 
@@ -228,7 +242,7 @@ Enabling authorities:
 - **(9)** An application for a waiver of compulsory pilotage other than an application made under a circumstance described in subsection (1) or (2) shall be made in writing.
 
 - **(10)** At the request of the Authority, the persons in charge of the deck watch referred to in subsections (1) to (6) shall produce evidence that the conditions set out in this section continue to be met.
-> SOR/83-23, s. 1; SOR/83-255, s. 1; SOR/2003-224, s. 3.
+> SOR/83-23, s. 1; SOR/83-255, s. 1; SOR/2003-224, s. 3; SOR/2009-329, s. 5.
 
 
 
@@ -241,10 +255,10 @@ Enabling authorities:
 - **(a)** at Fairway Buoy, off Brotchie Ledge near Victoria;
 - **(b)** off Cape Beale, at the entrance to Trevor Channel in Barkley Sound;
 - **(c)** off Triple Island, near Prince Rupert;
-- **(d)** off Pine Island, between May 1 and October 1 of each year;
+- **(d)** off Pine Island, near Port Hardy;
 - **(e)** off Sand Heads, at the mouth of the Fraser River, for Area 1 pilot transfers; and
 - **(f)** at any point or place in the region that the Authority considers necessary to ensure a safe and efficient pilotage service.
-> SOR/2003-224, s. 3.
+> SOR/2003-224, s. 3; SOR/2009-329, s. 6.
 
 
 
@@ -260,7 +274,7 @@ Enabling authorities:
 - **(b)** with respect to any of the pilot boarding stations referred to in paragraphs 11(b) to (f),
 	- **(i)** provide notice to the Authority of the estimated time of the ship’s arrival, Coordinated Universal Time, at least 48 hours before arrival, and
 	- **(ii)** confirm or correct the estimated time of the ship’s arrival at least 12 hours prior to arrival.
-> SOR/2003-224, s. 3.
+> SOR/2003-224, s. 3; SOR/2009-329, s. 7(F).
 
 
 
@@ -272,8 +286,8 @@ Enabling authorities:
 **13** The notice referred to in section 12 shall include
 - **(a)** the pilotage service to be performed;
 - **(b)** the name, nationality, length, breadth, deepest draft and gross tons of the ship; and
-- **(c)** any other information required by the Authority to ensure safe navigation.
-> SOR/2003-224, s. 3.
+- **(c)** any other information about the ship that affects its speed, manoeuvrability or the safety of navigation.
+> SOR/2003-224, s. 3; SOR/2009-329, s. 8.
 
 
 
@@ -330,14 +344,13 @@ Enabling authorities:
 
 - **(1)** The classes of licences that may be issued by the Authority are Class I and Class II licences.
 
-- **(2)** A licence issued by the Authority shall have an endorsement thereon stating
-	- **(a)** the size and type of ship that the holder of the licence may pilot, and
-	- **(b)** the compulsory pilotage areas in which the holder may pilot,
-and may have an endorsement thereon setting out any requirements or restrictions applicable to the holder.
+- **(2)** A licence issued by the Authority shall have an endorsement on it that states what class of licence it is as well as the compulsory pilotage areas in which the holder may pilot.
 
-- **(3)** The holder of a Class II licence is entitled to receive a Class I licence after he has, in the opinion of the Authority, served satisfactorily as the holder of a Class II licence for a period of one year.
+- **(3)** The holder of a Class II licence is entitled to receive a Class I licence after having served satisfactorily as the holder of a Class II licence for a period of one year.
 
 - **(4)** An apprentice pilot who meets the qualifications for a licence, shall be issued a Class II licence.
+> SOR/2009-329, s. 9.
+
 
 
 
@@ -405,29 +418,35 @@ and may have an endorsement thereon setting out any requirements or restrictions
 
 
 
-**23** Examinations held by a committee of examiners shall be in such form as the Authority may determine and shall consist of, but not be limited to, questions on the following subjects:
-- **(a)** local knowledge of every area to which the application, licence or pilotage certificate relates including
-	- **(i)** tides and currents,
-	- **(ii)** dredged channel widths and depths,
-	- **(iii)** depth of water,
-	- **(iv)** important and essential cable areas and prohibited anchorage areas,
-	- **(v)** anchorage areas and depths,
-	- **(vi)** aides to navigation, and
-	- **(vii)** bridge signals and clearances;
-- **(b)** knowledge of
-	- **(i)** the [Collision Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1401-1500/C.R.C.,%20c.%201416.md),
-	- **(ii)** regulations under the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md) respecting harbours and ports,
-	- **(iii)** the [Pilotage Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-14.md) and regulations thereunder, and
-	- **(iv)** the [Quarantine Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1301-1400/C.R.C.,%20c.%201368.md);
-- **(c)** seamanship and ship handling;
-- **(d)** docking problems and the use of tug boats and anchors;
-- **(e)** general chart work, including the correction of courses and compass errors;
-- **(f)** communications;
-- **(g)** International Code of Signals, including the use of one and two flag signals;
-- **(h)** duties of a pilot;
-- **(i)** use of navigational and bridge instruments;
-- **(j)** practical knowledge of the interpretation and operation of radar; and
-- **(k)** such other subjects as the committee of examiners may consider necessary.
+**23** 
+
+- **(1)** Examinations held by a committee of examiners shall be in such form as the Authority may determine and shall consist of, but not be limited to, questions on the following subjects:
+	- **(a)** local knowledge of every area to which the application, licence or pilotage certificate relates including
+		- **(i)** tides and currents,
+		- **(ii)** dredged channel widths and depths,
+		- **(iii)** depth of water,
+		- **(iv)** important and essential cable areas and prohibited anchorage areas,
+		- **(v)** anchorage areas and depths,
+		- **(vi)** aides to navigation, and
+		- **(vii)** bridge signals and clearances;
+	- **(b)** knowledge of
+		- **(i)** the [Collision Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1401-1500/C.R.C.,%20c.%201416.md),
+		- **(ii)** regulations under the [Canada Shipping Act](/en/Acts/Revised%20Statutes%20of%20Canada/S/S-9.md) respecting harbours and ports,
+		- **(iii)** the [Pilotage Act](/en/Acts/Revised%20Statutes%20of%20Canada/P/P-14.md) and regulations thereunder, and
+		- **(iv)** the [Quarantine Regulations](/en/Regulations/Consolidated%20Regulations%20of%20Canada/1301-1400/C.R.C.,%20c.%201368.md);
+	- **(c)** seamanship and ship handling;
+	- **(d)** docking problems and the use of tug boats and anchors;
+	- **(e)** general chart work, including the correction of courses and compass errors;
+	- **(f)** communications;
+	- **(g)** International Code of Signals, including the use of one and two flag signals;
+	- **(h)** duties of a pilot;
+	- **(i)** use of navigational and bridge instruments;
+	- **(j)** practical knowledge of the interpretation and operation of radar; and
+	- **(k)** such other subjects as the committee of examiners may consider necessary.
+
+- **(2)** A candidate has a maximum of six attempts at the examination referred to in subsection (1).
+> SOR/2009-329, s. 10.
+
 
 
 
@@ -439,8 +458,10 @@ and may have an endorsement thereon setting out any requirements or restrictions
 
 - **(1)** Examinations conducted by the committee of examiners shall be held at such place as the Authority may from time to time prescribe in a notice given by the Authority to the persons who will take the examinations.
 
-- **(2)** The fee for an examination is $250, payable in advance, $150 of which must be refunded to a candidate who fails the written portion of the examination.
-> SOR/2003-224, s. 4.
+- **(2)** The fees payable for the examination are the following:
+	- **(a)** $150 for the written portion; and
+	- **(b)** $100 for the oral portion.
+> SOR/2003-224, s. 4; SOR/2009-329, s. 11.
 
 
 
@@ -484,16 +505,16 @@ and may have an endorsement thereon setting out any requirements or restrictions
 **27** 
 
 - **(1)** An apprentice pilot shall
-	- **(a)** to qualify for a licence for Area 1, serve as an apprentice for a period of not less than three months in that Area, during which period he shall complete not less than 50 assignments in that Area with a licensed pilot; or
-	- **(b)** to qualify for a licence for Areas 2, 3, 4 and 5,
-		- **(i)** serve as an apprentice for a period of not less than six months and not more than 12 months in those Areas or such longer period as is specified by the committee of examiners and approved by the Authority, and
-		- **(ii)** during the period served as required by subparagraph (i), complete not less than 80 assignments with a licensed pilot.
+	- **(a)** to qualify for a licence for Area 1, serve as an apprentice for a period of not less than three months in that Area and complete during that period not less than 50 assignments in the Area with a licensed pilot; or
+	- **(b)** to qualify for a licence for Areas 2 to 5,
+		- **(i)** serve as an apprentice for a period of not less than six months and not more than 24 months in those Areas, and
+		- **(ii)** during the period served as required by subparagraph (i), complete not less than 90 assignments with a licensed pilot.
 
 - **(2)** A person shall cease to be an apprentice pilot when he
 	- **(a)** is granted a licence;
 	- **(b)** withdraws from the apprenticeship system; or
 	- **(c)** is discharged from the apprenticeship system by the Authority.
-> SOR/78-839, s. 2.
+> SOR/78-839, s. 2; SOR/2009-329, s. 12.
 
 
 
