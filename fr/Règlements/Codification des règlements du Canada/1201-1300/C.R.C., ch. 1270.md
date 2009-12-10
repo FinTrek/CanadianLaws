@@ -32,11 +32,13 @@ Autorités habilitantes :
 
 ***cabotage*** désigne l’action d’utiliser régulièrement et d’exploiter des navires dans les eaux de la région, les eaux de Puget Sound, le détroit de Juan de Fuca et les eaux côtières de l’État d’Alaska qui ne sont pas sises à l’ouest de Cook Inlet; (*coastal trade*)
 
-***certificat de capacité*** désigne un certificat de capacité canadien ou un autre certificat de capacité qui habilite le titulaire à servir à bord d’un navire immatriculé au Canada en la qualité pour laquelle le certificat a été attribué; (*certificate of competency*)
+***certificat de capacité***[Abrogée, DORS/2009-329, art. 1]
 
 ***commission d’examen*** désigne une commission d’examen nommée conformément à l’article 21 pour faire passer des examens pour l’obtention des brevets ou des certificats de pilotage de toute classe ou pour le système d’apprentissage; (*committee of examiners*)
 
 ***déplacement*** désigne l’action de déplacer un navire entièrement dans les limites d’un havre ou d’un port, d’un point de mouillage ou d’amarrage à un autre, ou de le déplacer d’un tel point et de l’y ramener, mais non l’action de haler un navire d’un poste à un autre uniquement à l’aide d’amarres, sauf si un pilote est employé. L’expression désigne aussi l’action d’ancrer un navire à cause du mauvais temps, de la marée, de la sécurité du navire ou de l’équipage, pendant qu’il fait route entre un havre, un port ou une station d’embarquement de pilote et un autre havre, port ou station d’embarquement de pilote, ou le fait d’attendre avant de pouvoir occuper un poste ou de s’immobiliser à cause de petites réparations à faire aux machines ou à l’équipement par le personnel du navire et qui sont considérées comme des travaux d’entretien raisonnables; (*movage*)
+
+***embarcation de plaisance*** S’entend au sens de l’article 2 de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md). (*pleasure craft*)
 
 ***ensemble de navires*** Plusieurs navires qui voyagent ensemble et qui sont reliés par des amarres ou un autre moyen. (*arrangement of ships*)
 
@@ -64,14 +66,16 @@ Autorités habilitantes :
 
 ***station d’embarquement de pilotes*** désigne un lieu servant à l’embarquement ou au débarquement des pilotes; (*pilot boarding station*)
 
-***tonneaux de jauge brute*** s’entend de la jauge brute définie dans la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md); (*gross tons*)
+***tonneaux de jauge brute*** S’entend de la jauge brute au sens de l’article 2 de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md). (*gross tons*)
 
 ***traversier*** Navire, ou ensemble de navires, qui transporte des passagers ou des marchandises selon un horaire régulier entre des terminaux. (*ferry*)
 
 ***voyage*** comprend un passage ou une excursion d’un navire et tout mouvement d’un navire d’un lieu à un autre, à l’exclusion d’un déplacement; (*voyage*)
 
+***voyage d’entraînement*** Voyage effectué à bord d’un navire dans une zone de pilotage obligatoire au cours duquel le demandeur d’un brevet ou d’un certificat de pilotage observe le pilote breveté affecté au navire. (*familiarization trip*)
+
 ***zone de pilotage obligatoire*** désigne une zone de navigation dans laquelle les navires sont assujettis au pilotage obligatoire. (*compulsory pilotage area*) 
-> DORS/2003-224, art. 1.
+> DORS/2003-224, art. 1; DORS/2009-329, art. 1.
 
 
 
@@ -97,21 +101,38 @@ Autorités habilitantes :
 
 **4** 
 
-- **(1)** Dans le présent article, les jours de service exigés doivent avoir été effectués dans la région par le titulaire d’un brevet de capitaine, navire d’au plus 350 tonneaux de jauge brute ou remorqueur, voyage local, ou d’un certificat ou brevet qui confère au titulaire, à bord d’un navire d’au moins 25 tonneaux de jauge brute servant au cabotage ou à la prise, à la transformation ou au transport du poisson, au moins les mêmes droits et privilèges que ce brevet de capitaine.
+- **(1)** Le demandeur d’un brevet ou d’un certificat de pilotage doit être titulaire d’au moins un brevet de capitaine, jauge brute de 500, à proximité du littoral et avoir effectué, selon le cas :
+	- **a)** au moins 700 jours de service dans la région à titre de capitaine d’un navire de 25 ou plus de tonneaux de jauge brute et 10 voyages d’entraînement à titre d’observateur dans le programme d’entraînement précédant la date de la demande;
+	- **b)** au moins 365 jours de service dans la région à titre de capitaine d’un navire de 25 ou plus de tonneaux de jauge brute et au moins 547 jours supplémentaires dans la région à titre d’officier de pont à bord d’un navire de 25 ou plus de tonneaux de jauge brute pendant qu’il est titulaire d’un brevet d’officier de pont de quart et 15 voyages d’entraînement à titre d’observateur dans le programme d’entraînement précédant la date de la demande;
+	- **c)** au moins 1 000 jours de service dans la région à titre d’officier de pont d’un navire de 25 ou plus de tonneaux de jauge brute pendant qu’il est titulaire d’un brevet d’officier de pont de quart et au moins 20 voyages d’entraînement à titre d’observateur dans le programme d’entraînement précédant la date de la demande;
+	- **d)** au moins 635 jours de service dans la région à titre de capitaine ou d’officier de pont pendant qu’il est titulaire d’un brevet d’officier de pont de quart et, selon le cas :
+		- **(i)** au moins 365 jours de service à l’extérieur de la région à titre de capitaine ou d’officier de pont pendant qu’il est titulaire d’un brevet d’officier de pont de quart d’un navire de 100 ou plus de tonneaux de jauge brute et 30 voyages d’entraînement à titre d’observateur dans le programme d’entraînement précédant la date de la demande,
+		- **(ii)** au moins 365 jours de service dans la région pendant qu’il est titulaire d’un brevet de capitaine de bâtiment pêche, troisième classe, d’un navire de 25 ou plus de tonneaux de jauge brute et 30 voyages d’entraînement à titre d’observateur dans le programme d’entraînement précédant la date de la demande.
 
-- **(2)** L’Administration peut approuver les voyages d’entraînement qui sont des voyages effectués dans des zones de pilotage obligatoire à bord d’un navire sur lequel le demandeur d’un brevet ou d’un certificat de pilotage est accompagné d’un pilote breveté.
+- **(2)** Au moins 100 des jours de service exigés au paragraphe (1) doivent avoir été effectués au cours des 24 mois précédant la date de la demande.
 
-- **(3)** Le demandeur d’un brevet ou d’un certificat de pilotage doit avoir servi, selon le cas :
-	- **a)** à titre de capitaine d’un navire pendant au moins 730 jours de service;
-	- **b)** à titre de capitaine d’un navire pendant au moins 365 jours de service et à titre de personne responsable du quart à la passerelle d’un navire pendant au moins 547 jours de service supplémentaires;
-	- **c)** à titre de personne responsable du quart à la passerelle d’un navire pendant au moins 1 095 jours de service et effectué au moins 20 voyages d’entraînement au cours des 24 mois précédant la date de la demande.
+- **(3)** Le demandeur d’un brevet ou d’un certificat de pilotage pour la zone 1 doit avoir effectué au moins 250 des jours de services exigés au paragraphe (1) dans cette zone.
 
-- **(4)** Au moins 100 des jours de service exigés par le paragraphe (3) doivent avoir été effectués au cours des 24 mois précédant la date de la demande.
+- **(4)** Le demandeur d’un brevet pour les zones 2 à 5 doit avoir effectué les jours de service exigés au paragraphe (1) dans au moins deux de ces zones.
 
-- **(5)** Le demandeur d’un brevet ou d’un certificat de pilotage pour la zone 1 doit avoir effectué au moins 250 des jours de service exigés par le paragraphe (3) dans cette zone.
+- **(5)** Le demandeur d’un certificat de pilotage pour les zones 2, 3, 4 ou 5 doit avoir effectué au moins 250 des jours de service exigés au paragraphe (1) dans la zone pour laquelle il présente une demande.
+> DORS/78-839, art. 1; DORS/83-401, art. 1; DORS/84-415, art. 1; DORS/89-415, art. 1; DORS/2003-224, art. 2; DORS/2009-329, art. 2.
 
-- **(6)** Le demandeur d’un brevet ou d’un certificat de pilotage pour les zones 2 à 5 doit avoir effectué les jours de service exigés par le paragraphe (3) dans au moins deux de ces zones.
-> DORS/78-839, art. 1; DORS/83-401, art. 1; DORS/84-415, art. 1; DORS/89-415, art. 1; DORS/2003-224, art. 2.
+
+
+
+
+## Programme d’entraînement
+
+
+**4.1** 
+
+- **(1)** Une personne peut présenter une demande à l’Administration pour être admissible au programme d’entraînement.
+
+- **(2)** L’Administration doit approuver les voyages d’entraînement si, à la fois :
+	- **a)** le demandeur a effectué au moins 50 % des jours de service exigés à l’un des alinéas 4(1)a) à d), dans le cas de 10 voyages d’entraînement ou moins;
+	- **b)** le demandeur a effectué au moins 75 % des jours de service exigés à l’un des alinéas 4(1)b) à d), dans le cas de plus de 10 voyages d’entraînement.
+> DORS/2009-329, art. 2.
 
 
 
@@ -120,18 +141,10 @@ Autorités habilitantes :
 ## Certificats
 
 
-**5** 
-
-- **(1)** L’Administration doit établir et tenir une liste d’établissements de formation maritime reconnus qui sont, compte tenu des pratiques et exigences établies de l’industrie maritime à l’échelle nationale et internationale, dotés d’un programme de formation et du personnel nécessaires pour permettre à un demandeur de brevet ou de certificat de pilotage d’obtenir les certificats visés aux sous-alinéas (2)b)(i) à (iv).
-
-- **(2)** En plus des certificats et des brevets exigés par le paragraphe 10(4) et l’article 11 du [Règlement général sur le pilotage](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2000/132.md), le demandeur ou le titulaire d’un brevet ou d’un certificat de pilotage doit être titulaire des certificats suivants :
-	- **a)** un certificat de maintien des compétences délivré conformément à l’article 58 du [Règlement sur la délivrance des brevets et certificats (marine)](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/97/391.md);
-	- **b)** un certificat de cours de formation attestant qu’il a suivi avec succès, dans un établissement de formation maritime reconnu, les cours portant sur les aspects suivants :
-		- **(i)** les fonctions d’urgence en mer pour les officiers supérieurs,
-		- **(ii)** la gestion des ressources à la passerelle,
-		- **(iii)** la navigation électronique simulée, niveau 2,
-		- **(iv)** les aides au pointage de radar automatiques après le 1<sup>er</sup> septembre 1989.
-> DORS/2003-224, art. 2.
+**5** En plus des certificats et des brevets exigés au paragraphe 10(4) et l’article 11 du [Règlement général sur le pilotage](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2000/132.md), le demandeur ou le titulaire d’un brevet ou d’un certificat de pilotage doit être titulaire d’un certificat de cours de formation attestant qu’il a suivi avec succès un cours approuvé conformément à l’article 114 du [Règlement sur le personnel maritime](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2007/115.md) portant sur les aspects suivants :
+- **a)** la navigation électronique simulée, niveau 2;
+- **b)** les aides au pointage de radar automatiques.
+> DORS/2003-224, art. 2; DORS/2009-329, art. 3.
 
 
 
@@ -169,14 +182,15 @@ Autorités habilitantes :
 
 **9** 
 
-- **(1)** Tout navire d’une jauge brute supérieure à 350 tonneaux est assujetti au pilotage obligatoire.
+- **(1)** Tout navire de plus de 350 tonneaux de jauge brute qui n’est pas une embarcation de plaisance et toute embarcation de plaisance de plus de 500 tonneaux de jauge brute sont assujettis au pilotage obligatoire.
 
 - **(2)** Pour l’application du paragraphe (1), si un navire fait partie d’un ensemble de navires, il est tenu compte de la jauge combinée de tous les navires composant l’ensemble de navires pour décider si le navire est assujetti au pilotage obligatoire.
 
 - **(3)** Le paragraphe (1) ne s’applique pas à l’égard des navires suivants :
-	- **a)** les navires d’État au sens de l’article 2 de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md);
-	- **b)** les traversiers.
-> DORS/83-23, art. 1; DORS/85-256, art. 1(F); DORS/2003-224, art. 3.
+	- **a)** les bâtiments d’État au sens de l’article 2 de la [Loi de 2001 sur la marine marchande du Canada](/fr/Lois/Lois%20du%20Canada/2001/ch.%2026.md);
+	- **b)** les traversiers;
+	- **c)** les navires de moins de 10 000 tonneaux de jauge brute qui appartiennent au gouvernement des États-Unis.
+> DORS/83-23, art. 1; DORS/85-256, art. 1(F); DORS/2003-224, art. 3; DORS/2009-329, art. 4.
 
 
 
@@ -202,21 +216,21 @@ Autorités habilitantes :
 	- **b)** de quitter la zone de pilotage obligatoire après le débarquement d’un pilote breveté à la station d’embarquement de pilotes.
 
 - **(3)** Sous réserve des paragraphes (4) à (6), l’Administration peut accorder une dispense de pilotage obligatoire à l’égard d’un navire d’une jauge brute inférieure à 10 000 tonneaux si les personnes responsables du quart à la passerelle satisfont aux conditions suivantes :
-	- **a)** elles sont titulaires d’un certificat de capacité exigé par les parties 1 ou 2 du [Règlement sur l’armement en équipage des navires](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/97/390.md) de la classe et de la catégorie de voyage appropriées pour le navire;
+	- **a)** elles sont titulaires d’un brevet exigé à la partie 2 du [Règlement sur le personnel maritime](/fr/Règlements/Décrets,%20ordonnances%20et%20règlements%20statutaires/2007/115.md) de la classe et de la catégorie de voyage appropriées pour le navire;
 	- **b)** elles ont, à titre de personne responsable du quart à la passerelle à bord d’un ou de plusieurs navires effectuant des voyages dans la région ou servant au cabotage, effectué en mer 150 jours de service au cours des 18 mois précédents ou 365 jours de service au cours des 60 mois précédents, dont 60 jours de service doivent avoir été effectués au cours des 24 mois précédents;
 	- **c)** elles ont servi à titre de personne responsable du quart à la passerelle dans la zone de pilotage obligatoire pour laquelle la dispense est demandée à une ou plusieurs occasions au cours des 24 mois précédents.
 
-- **(4)** L’Administration peut accorder une dispense de pilotage obligatoire à l’égard d’un navire d’une jauge brute inférieure à 10 000 tonneaux qui se déplace dans la partie de la zone 1 en aval du pont ferroviaire de New Westminster si les personnes responsables du quart à la passerelle, à la fois :
-	- **a)** satisfont aux conditions prévues au paragraphe (3);
-	- **b)** ont effectué, en compagnie d’un pilote breveté, cinq voyages aller-retour en passant par cette partie de la zone 1 au cours des 24 mois précédant la demande.
+- **(4)** L’Administration peut accorder une dispense de pilotage obligatoire à l’égard d’un navire de moins de 10 000 tonneaux de jauge brute qui se déplace dans la partie de la zone 1 en aval du pont ferroviaire de New Westminster si les personnes responsables du quart à la passerelle satisfont aux conditions prévues au paragraphe (3) et ont effectué cinq voyages aller-retour en passant par cette partie de la zone 1 au cours des 24 mois précédant la demande en compagnie, selon le cas :
+	- **a)** d’un pilote breveté;
+	- **b)** de la personne responsable du quart à la passerelle qui a effectué cinq voyages aller-retour en passant par cette partie de la zone 1 avec un pilote breveté, lorsque l’Administration reçoit un avis précédant chacun des voyages.
 
-- **(5)** L’Administration peut accorder une dispense de pilotage obligatoire à l’égard d’un navire d’une jauge brute inférieure à 10 000 tonneaux qui se déplace dans la partie de la zone 1 en amont du pont ferroviaire de New Westminster si les personnes responsables du quart à la passerelle, à la fois :
-	- **a)** satisfont aux conditions prévues au paragraphe (3);
-	- **b)** ont effectué, en compagnie d’un pilote breveté, 10 voyages aller-retour en passant par cette partie de la zone 1 au cours des 24 mois précédant la demande.
+- **(5)** L’Administration peut accorder une dispense de pilotage obligatoire à l’égard d’un navire de moins de 10 000 tonneaux de jauge brute qui se déplace dans la partie de la zone 1 en amont du pont ferroviaire de New Westminster si les personnes responsables du quart à la passerelle satisfont aux conditions prévues au paragraphe (3) et ont effectué 10 voyages aller-retour en passant par cette partie de la zone 1 au cours des 24 mois précédant la demande en compagnie, selon le cas :
+	- **a)** d’un pilote breveté;
+	- **b)** de la personne responsable du quart à la passerelle qui a effectué 10 voyages aller-retour en passant par cette partie de la zone 1 avec un pilote breveté, lorsque l’Administration reçoit un avis précédant chacun des voyages.
 
-- **(6)** L’Administration peut accorder une dispense de pilotage obligatoire à l’égard d’un navire d’une jauge brute inférieure à 10 000 tonneaux qui transporte des marchandises dangereuses et qui se déplace dans le périmètre de déplacement restreint de Second Narrows si les personnes responsables du quart à la passerelle, à la fois :
-	- **a)** satisfont aux conditions prévues au paragraphe (3);
-	- **b)** ont effectué, en compagnie d’un pilote breveté, six voyages aller-retour en passant par le périmètre, dont un voyage a été effectué au cours des 24 mois précédant la demande.
+- **(6)** L’Administration peut accorder une dispense de pilotage obligatoire à l’égard d’un navire de moins de 10 000 tonneaux de jauge brute qui transporte des marchandises dangereuses et qui se déplace dans le périmètre de déplacement restreint de Second Narrows si les personnes responsables du quart à la passerelle satisfont aux conditions prévues au paragraphe (3) et ont effectué six voyages aller-retour en passant par le périmètre au cours des 24 mois précédant la demande en compagnie, selon le cas :
+	- **a)** d’un pilote breveté;
+	- **b)** de la personne responsable du quart à la passerelle qui a effectué six voyages aller-retour en passant par ce périmètre avec un pilote breveté, lorsque l’Administration reçoit un avis précédant chacun des voyages.
 
 - **(7)** Pour l’application des paragraphes (3) à (6), lorsqu’un navire fait partie d’un ensemble de navires, il est tenu compte de la jauge combinée de tous les navires composant l’ensemble de navires pour décider si le navire peut être dispensé du pilotage obligatoire.
 
@@ -228,7 +242,7 @@ Autorités habilitantes :
 - **(9)** Toute demande de dispense de pilotage obligatoire, autre qu’une demande présentée dans une circonstance décrite aux paragraphes (1) ou (2), doit être faite par écrit.
 
 - **(10)** Les personnes responsables du quart à la passerelle visées aux paragraphes (1) à (6) doivent, à la demande de l’Administration, présenter une preuve établissant que les conditions prévues au présent article continuent d’être respectées.
-> DORS/83-23, art. 1; DORS/83-255, art. 1; DORS/2003-224, art. 3.
+> DORS/83-23, art. 1; DORS/83-255, art. 1; DORS/2003-224, art. 3; DORS/2009-329, art. 5.
 
 
 
@@ -241,10 +255,10 @@ Autorités habilitantes :
 - **a)** à la bouée de Fairway, au large du haut-fond Brotchie, près de Victoria;
 - **b)** au large du cap Beale, à l’entrée du chenal Trevor dans le chenal Barkley;
 - **c)** au large de l’île Triple, près de Prince Rupert;
-- **d)** au large de l’île Pine, entre le 1<sup>er</sup> mai et le 1<sup>er</sup> octobre de chaque année;
+- **d)** au large de l’île Pine, près de Port Hardy;
 - **e)** au large du cap Sand Heads, à l’embouchure du fleuve Fraser, pour la mise à bord de pilotes dans le cas de la zone 1;
 - **f)** à tout autre point ou endroit dans la région que l’Administration estime nécessaire pour assurer un service de pilotage efficient et sécuritaire.
-> DORS/2003-224, art. 3.
+> DORS/2003-224, art. 3; DORS/2009-329, art. 6.
 
 
 
@@ -253,14 +267,14 @@ Autorités habilitantes :
 ## Avis pour obtenir les services de pilotes
 
 
-**12** (1) Le capitaine, le propriétaire ou l’agent d’un navire qui est assujetti au pilotage obligatoire et qui requiert les services d’un pilote breveté doit :
+**12** Le capitaine, le propriétaire ou l’agent d’un navire qui est assujetti au pilotage obligatoire et qui requiert les services d’un pilote breveté doit :
 - **a)** dans le cas de la station d’embarquement de pilotes visée à l’alinéa 11a) :
 	- **(i)** donner avis à l’Administration de l’heure prévue d’arrivée (temps universel coordonné) du navire au moins 12 heures avant l’arrivée,
 	- **(ii)** confirmer ou corriger l’heure prévue d’arrivée du navire quatre heures avant l’arrivée;
 - **b)** dans le cas des stations d’embarquement de pilotes visées aux alinéas 11b) à f) :
 	- **(i)** donner avis à l’Administration de l’heure prévue d’arrivée (temps universel coordonné) du navire au moins 48 heures avant l’arrivée,
 	- **(ii)** confirmer ou corriger l’heure prévue d’arrivée du navire au moins 12 heures avant l’arrivée.
-> DORS/2003-224, art. 3.
+> DORS/2003-224, art. 3; DORS/2009-329, art. 7(F).
 
 
 
@@ -272,8 +286,8 @@ Autorités habilitantes :
 **13** L’avis mentionné à l’article 12 doit indiquer les renseignements suivants :
 - **a)** le service de pilotage à effectuer;
 - **b)** le nom, la nationalité, la longueur, la largeur, le plus fort tirant d’eau et la jauge brute du navire;
-- **c)** tout autre renseignement exigé par l’Administration pour assurer la sécurité de la navigation.
-> DORS/2003-224, art. 3.
+- **c)** tout autre renseignement au sujet du navire ayant une incidence sur sa vitesse, sa manoeuvrabilité ou la sécurité de la navigation.
+> DORS/2003-224, art. 3; DORS/2009-329, art. 8.
 
 
 
@@ -330,14 +344,13 @@ Autorités habilitantes :
 
 - **(1)** L’Administration peut attribuer des brevets de classe I et de classe II.
 
-- **(2)** Tout brevet attribué par l’Administration doit porter une inscription indiquant
-	- **a)** les dimensions du navire et le type de navire que le titulaire du brevet peut piloter, et
-	- **b)** les zones de pilotage obligatoires dans lesquelles le titulaire peut piloter un navire,
-et ledit brevet peut porter aussi une inscription indiquant toute exigence ou restriction applicable au titulaire.
+- **(2)** Un brevet attribué par l’Administration porte une inscription précisant sa classe ainsi que les zones de pilotage obligatoires dans lesquelles le titulaire peut piloter.
 
-- **(3)** Toute personne qui, de l’avis de l’Administration, a servi de façon satisfaisante en qualité de titulaire d’un brevet de classe II durant un an a le droit de recevoir un brevet de classe I.
+- **(3)** Le titulaire d’un brevet de classe II est habilité à recevoir un brevet de classe I après avoir effectué de façon satisfaisante une année de service à titre de titulaire d’un brevet de classe II.
 
 - **(4)** Il convient d’attribuer un brevet de classe II à tout apprenti pilote qui remplit les conditions pour l’obtention d’un brevet.
+> DORS/2009-329, art. 9.
+
 
 
 
@@ -405,29 +418,35 @@ et ledit certificat peut porter aussi une inscription indiquant toute exigence o
 
 
 
-**23** Les examens que tient une commission d’examen doivent prendre la forme que l’Administration peut déterminer et doivent comprendre, sans s’y limiter, des questions sur les sujets suivants :
-- **a)** connaissances sur toute zone à laquelle la demande, le brevet ou le certificat de pilotage a trait, notamment
-	- **(i)** les marées et les courants,
-	- **(ii)** la largeur et la profondeur des chenaux dragués,
-	- **(iii)** la profondeur des fonds,
-	- **(iv)** les zones où il y a des câbles importants et essentiels et les aires où il est interdit de mouiller,
-	- **(v)** les mouillages et leurs profondeurs,
-	- **(vi)** les aides à la navigation, et
-	- **(vii)** les signaux et les espaces libres des ponts;
-- **b)** connaissance
-	- **(i)** des Règlements sur les abordages,
-	- **(ii)** des règlements établis en vertu de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md), au sujet des havres et des ports,
-	- **(iii)** de la [Loi sur le pilotage](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-14.md) et de ses règlements d’application, et
-	- **(iv)** du [Règlement sur la quarantaine](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1301-1400/C.R.C.,%20ch.%201368.md);
-- **c)** matelotage et manoeuvre des navires;
-- **d)** problèmes d’entrée aux bassins et l’utilisation des remorqueurs et des ancres;
-- **e)** usage général des cartes, y compris la correction des routes et des erreurs de compas;
-- **f)** moyens de communications;
-- **g)** Code international de signaux, notamment l’emploi des signes flottants d’une lettre et de deux lettres;
-- **h)** fonctions d’un pilote;
-- **i)** instruments de navigation et de la passerelle;
-- **j)** pratique de l’interprétation et du fonctionnement du radar; et
-- **k)** tout autre sujet que la commission d’examen peut juger nécessaire.
+**23** 
+
+- **(1)** Les examens que tient une commission d’examen doivent prendre la forme que l’Administration peut déterminer et doivent comprendre, sans s’y limiter, des questions sur les sujets suivants :
+	- **a)** connaissances sur toute zone à laquelle la demande, le brevet ou le certificat de pilotage a trait, notamment
+		- **(i)** les marées et les courants,
+		- **(ii)** la largeur et la profondeur des chenaux dragués,
+		- **(iii)** la profondeur des fonds,
+		- **(iv)** les zones où il y a des câbles importants et essentiels et les aires où il est interdit de mouiller,
+		- **(v)** les mouillages et leurs profondeurs,
+		- **(vi)** les aides à la navigation, et
+		- **(vii)** les signaux et les espaces libres des ponts;
+	- **b)** connaissance
+		- **(i)** des Règlements sur les abordages,
+		- **(ii)** des règlements établis en vertu de la [Loi sur la marine marchande du Canada](/fr/Lois/Lois%20révisées%20du%20Canada/S/S-9.md), au sujet des havres et des ports,
+		- **(iii)** de la [Loi sur le pilotage](/fr/Lois/Lois%20révisées%20du%20Canada/P/P-14.md) et de ses règlements d’application, et
+		- **(iv)** du [Règlement sur la quarantaine](/fr/Règlements/Codification%20des%20règlements%20du%20Canada/1301-1400/C.R.C.,%20ch.%201368.md);
+	- **c)** matelotage et manoeuvre des navires;
+	- **d)** problèmes d’entrée aux bassins et l’utilisation des remorqueurs et des ancres;
+	- **e)** usage général des cartes, y compris la correction des routes et des erreurs de compas;
+	- **f)** moyens de communications;
+	- **g)** Code international de signaux, notamment l’emploi des signes flottants d’une lettre et de deux lettres;
+	- **h)** fonctions d’un pilote;
+	- **i)** instruments de navigation et de la passerelle;
+	- **j)** pratique de l’interprétation et du fonctionnement du radar; et
+	- **k)** tout autre sujet que la commission d’examen peut juger nécessaire.
+
+- **(2)** Un candidat peut se présenter au plus six fois aux examens visés au paragraphe (1).
+> DORS/2009-329, art. 10.
+
 
 
 
@@ -439,8 +458,10 @@ et ledit certificat peut porter aussi une inscription indiquant toute exigence o
 
 - **(1)** Les examens que fait passer la commission d’examen doivent être tenus aux endroits que l’Administration peut de temps à autre prescrire dans un avis qu’elle fait parvenir aux personnes qui se présenteront aux examens.
 
-- **(2)** Le droit d’examen est de 250 $, payable à l’avance, et le candidat qui échoue à la partie écrite de l’examen reçoit un remboursement de 150 $.
-> DORS/2003-224, art. 4.
+- **(2)** Les droits d’examen à payer correspondent aux éléments suivants :
+	- **a)** 150 $ pour la partie écrite;
+	- **b)** 100 $ pour la partie orale.
+> DORS/2003-224, art. 4; DORS/2009-329, art. 11.
 
 
 
@@ -483,15 +504,17 @@ et ledit certificat peut porter aussi une inscription indiquant toute exigence o
 
 **27** 
 
-- **(1)** Un apprenti pilote doit, en cette qualité,
-	- **a)** pour avoir droit à un brevet pour la zone 1, avoir accompli dans cette zone au moins 50 affectations avec un pilote breveté durant au moins trois mois; ou
-	- **b)** pour avoir droit à un brevet pour les zones 2, 3, 4 et 5, avoir accompli dans ces zones au moins 80 affectations avec un pilote breveté durant au moins six et au plus 12 mois, sauf si la commission d’examen permet avec l’approbation de l’Administration, une période plus longue.
+- **(1)** Un apprenti pilote doit, selon le cas :
+	- **a)** pour avoir droit à un brevet pour la zone 1, avoir accompli comme apprenti dans cette zone au moins 50 affectations avec un pilote breveté pendant au moins trois mois;
+	- **b)** pour avoir droit à un brevet pour les zones 2 à 5, avoir, à la fois :
+		- **(i)** servi à titre d’apprenti dans ces zones durant au moins six mois et au plus 24 mois,
+		- **(ii)** accompli au moins 90 affectations avec un pilote breveté durant la période de service exigée au sous-alinéa (i).
 
 - **(2)** Une personne cesse d’être apprenti pilote lorsqu’elle
 	- **a)** reçoit un brevet;
 	- **b)** abandonne le système d’apprentissage; ou
 	- **c)** est exclue du système d’apprentissage par l’Administration.
-> DORS/78-839, art. 2.
+> DORS/78-839, art. 2; DORS/2009-329, art. 12.
 
 
 
