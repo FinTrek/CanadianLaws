@@ -393,8 +393,28 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 <td>le 31 décembre 2010</td>
 </tr>
 <tr>
+<td>9.1</td>
+<td>Miga</td>
+<td>le 31 décembre 2010</td>
+</tr>
+<tr>
+<td>9.2</td>
+<td>Mukmuk</td>
+<td>le 31 décembre 2010</td>
+</tr>
+<tr>
+<td>9.3</td>
+<td>Quatchi</td>
+<td>le 31 décembre 2010</td>
+</tr>
+<tr>
 <td>10</td>
 <td>Sea to Sky Games</td>
+<td>le 31 décembre 2010</td>
+</tr>
+<tr>
+<td>10.1</td>
+<td>Sumi</td>
 <td>le 31 décembre 2010</td>
 </tr>
 <tr>
@@ -446,7 +466,247 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 </td>
 <td>le 31 décembre 2010</td>
 </tr>
+<tr>
+<td>20</td>
+<td>
+> Image: Marque de l’olympiade culturelle de Vancouver 2010
+</td>
+<td>le 31 décembre 2010</td>
+</tr>
+<tr>
+<td>21</td>
+<td>
+> Image: Miga - petite ourse de mer mythique, moitié épaulard et moitié ours
+</td>
+<td>le 31 décembre 2010</td>
+</tr>
+<tr>
+<td>22</td>
+<td>
+> Image: Mukmuk - marmotte de l’Île de Vancouver
+</td>
+<td>le 31 décembre 2010</td>
+</tr>
+<tr>
+<td>23</td>
+<td>
+> Image: Médaille d’or olympique de Vancouver 2010
+</td>
+<td>le 31 décembre 2010</td>
+</tr>
+<tr>
+<td>24</td>
+<td>
+> Image: Emblème du relais du flambeau olympique de Vancouver 2010
+</td>
+<td>le 31 décembre 2010</td>
+</tr>
+<tr>
+<td>25</td>
+<td>
+> Image: Médaille d’or paralympique de Vancouver 2010
+</td>
+<td>le 31 décembre 2010</td>
+</tr>
+<tr>
+<td>26</td>
+<td>
+> Image: Emblème du relais du flambeau paralympique de Vancouver 2010
+</td>
+<td>le 31 décembre 2010</td>
+</tr>
+<tr>
+<td>27</td>
+<td>
+> Image: Quatchi - jeune sasquatch, moitié homme et moitié singe
+</td>
+<td>le 31 décembre 2010</td>
+</tr>
+<tr>
+<td>28</td>
+<td>
+> Image: Sumi - esprit gardien aminal qui a les ailes d’un oiseau-tonnerre et les pattes d’un ours noir et qui porte le chapeau d’un épaulard
+</td>
+<td>le 31 décembre 2010</td>
+</tr>
+<tr>
+<td>29</td>
+<td>
+> Image: Marque du flambeau olympique
+</td>
+<td>le 31 décembre 2010</td>
+</tr>
+<tr>
+<td>30</td>
+<td>
+> Image: Marque affichant un athlète compétitionnant à l’épreuve de ski alpin
+</td>
+<td>le 31 décembre 2010</td>
+</tr>
+<tr>
+<td>31</td>
+<td>
+> Image: Marque affichant un athlète debout avec une carabine et des skis compétitionnant à l’épreuve biathlon
+</td>
+<td>le 31 décembre 2010</td>
+</tr>
+<tr>
+<td>32</td>
+<td>
+> Image: Marque affichant deux athlètes compétitionnant à l’épreuve de bobsleigh
+</td>
+<td>le 31 décembre 2010</td>
+</tr>
+<tr>
+<td>33</td>
+<td>
+> Image: Marque affichant un athlète compétitionnant à l’épreuve de ski de fond
+</td>
+<td>le 31 décembre 2010</td>
+</tr>
+<tr>
+<td>34</td>
+<td>
+> Image: Marque affichant un athlète compétitionnant à l’épreuve de curling
+</td>
+<td>le 31 décembre 2010</td>
+</tr>
+<tr>
+<td>35</td>
+<td>
+> Image: Marque affichant un athlète compétitionnant à l’épreuve de patinage artistique
+</td>
+<td>le 31 décembre 2010</td>
+</tr>
+<tr>
+<td>36</td>
+<td>
+> Image: Marque affichant un athlète compétitionnant à l’épreuve de ski acrobatique (saut)
+</td>
+<td>le 31 décembre 2010</td>
+</tr>
+<tr>
+<td>37</td>
+<td>
+> Image: Marque affichant un athlète compétitionnant à l’épreuve de ski acrobatique (bosses)
+</td>
+<td>le 31 décembre 2010</td>
+</tr>
+<tr>
+<td>38</td>
+<td>
+> Image: Marque affichant deux athlètes compétitionnant à l’épreuve de ski acrobatique (ski cross)
+</td>
+<td>le 31 décembre 2010</td>
+</tr>
+<tr>
+<td>39</td>
+<td>
+> Image: Marque affichant un athlète compétitionnant à l’épreuve de hockey sur glace
+</td>
+<td>le 31 décembre 2010</td>
+</tr>
+<tr>
+<td>40</td>
+<td>
+> Image: Marque affichant un athlète compétitionnant à l’épreuve de luge
+</td>
+<td>le 31 décembre 2010</td>
+</tr>
+<tr>
+<td>41</td>
+<td>
+> Image: Marque affichant deux athlètes compétitionnant à l’épreuve du combiné nordique
+</td>
+<td>le 31 décembre 2010</td>
+</tr>
+<tr>
+<td>42</td>
+<td>
+> Image: Marque affichant deux athlètes compétitionnant à l’épreuve de patinage de vitesse sur piste courte
+</td>
+<td>le 31 décembre 2010</td>
+</tr>
+<tr>
+<td>43</td>
+<td>
+> Image: Marque affichant un athlète compétitionnant à l’épreuve de luge (skeleton)
+</td>
+<td>le 31 décembre 2010</td>
+</tr>
+<tr>
+<td>44</td>
+<td>
+> Image: Marque affichant un athlète compétitionnant à l’épreuve de saut en ski
+</td>
+<td>le 31 décembre 2010</td>
+</tr>
+<tr>
+<td>45</td>
+<td>
+> Image: Marque affichant deux athlètes compétitionnant à l’épreuve surf des neiges (snowboard cross)
+</td>
+<td>le 31 décembre 2010</td>
+</tr>
+<tr>
+<td>46</td>
+<td>
+> Image: Marque affichant un athlète compétitionnant à l’épreuve surf des neiges slalom géant parallèle (snowboard)
+</td>
+<td>le 31 décembre 2010</td>
+</tr>
+<tr>
+<td>47</td>
+<td>
+> Image: Marque affichant un athlète compétitionnant à l’épreuve surf des neiges half-pipe (snowboard)
+</td>
+<td>le 31 décembre 2010</td>
+</tr>
+<tr>
+<td>48</td>
+<td>
+> Image: Marque affichant un athlète compétitionnant à l’épreuve de patinage de vitesse
+</td>
+<td>le 31 décembre 2010</td>
+</tr>
+<tr>
+<td>49</td>
+<td>
+> Image: Marque affichant un athlète compétitionnant à l’épreuve de ski alpin
+</td>
+<td>le 31 décembre 2010</td>
+</tr>
+<tr>
+<td>50</td>
+<td>
+> Image: Marque affichant un athlète couché avec une carabine et des skis compétitionnant à l’épreuve biathlon
+</td>
+<td>le 31 décembre 2010</td>
+</tr>
+<tr>
+<td>51</td>
+<td>
+> Image: Marque affichant un athlète compétitionnant à l’épreuve de ski de fond
+</td>
+<td>le 31 décembre 2010</td>
+</tr>
+<tr>
+<td>52</td>
+<td>
+> Image: Marque affichant un athlète sur une luge compétitionnant à l’épreuve de hockey sur glace
+</td>
+<td>le 31 décembre 2010</td>
+</tr>
+<tr>
+<td>53</td>
+<td>
+> Image: Marque affichant un athlète en chaise roulante compétitionnant à l’épreuve de curling
+</td>
+<td>le 31 décembre 2010</td>
+</tr>
 </table>
+
+> 2007, ch. 25, ann. 2; DORS/2009-332.
 
 
 
