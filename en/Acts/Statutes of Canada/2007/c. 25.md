@@ -395,8 +395,28 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 <td>December 31, 2010</td>
 </tr>
 <tr>
+<td>9.1</td>
+<td>Miga</td>
+<td>December 31, 2010</td>
+</tr>
+<tr>
+<td>9.2</td>
+<td>Mukmuk</td>
+<td>December 31, 2010</td>
+</tr>
+<tr>
+<td>9.3</td>
+<td>Quatchi</td>
+<td>December 31, 2010</td>
+</tr>
+<tr>
 <td>10</td>
 <td>Sea to Sky Games</td>
+<td>December 31, 2010</td>
+</tr>
+<tr>
+<td>10.1</td>
+<td>Sumi</td>
 <td>December 31, 2010</td>
 </tr>
 <tr>
@@ -448,7 +468,247 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 </td>
 <td>December 31, 2010</td>
 </tr>
+<tr>
+<td>20</td>
+<td>
+> Image: Cultural Olympiad Vancouver 2010 mark
+</td>
+<td>December 31, 2010</td>
+</tr>
+<tr>
+<td>21</td>
+<td>
+> Image: Miga - a mythical sea bear, part orca and part kermode bear
+</td>
+<td>December 31, 2010</td>
+</tr>
+<tr>
+<td>22</td>
+<td>
+> Image: Mukmuk - a Vancouver Island marmot
+</td>
+<td>December 31, 2010</td>
+</tr>
+<tr>
+<td>23</td>
+<td>
+> Image: Vancouver 2010 Olympic gold medal
+</td>
+<td>December 31, 2010</td>
+</tr>
+<tr>
+<td>24</td>
+<td>
+> Image: Vancouver 2010 Olympic Torch Relay emblem
+</td>
+<td>December 31, 2010</td>
+</tr>
+<tr>
+<td>25</td>
+<td>
+> Image: Vancouver 2010 Paralympic gold medal
+</td>
+<td>December 31, 2010</td>
+</tr>
+<tr>
+<td>26</td>
+<td>
+> Image: Vancouver 2010 Paralympic Torch Relay Emblem
+</td>
+<td>December 31, 2010</td>
+</tr>
+<tr>
+<td>27</td>
+<td>
+> Image: Quatchi - a young sasquatch, part man and part monkey
+</td>
+<td>December 31, 2010</td>
+</tr>
+<tr>
+<td>28</td>
+<td>
+> Image: Sumi - an animal guardian spirit who wears the hat of the orca whale, has the wings of the Thunderbird and the legs of the black bear
+</td>
+<td>December 31, 2010</td>
+</tr>
+<tr>
+<td>29</td>
+<td>
+> Image: Mark displaying the Olympic torch
+</td>
+<td>December 31, 2010</td>
+</tr>
+<tr>
+<td>30</td>
+<td>
+> Image: Mark displaying an athlete alpine skiing
+</td>
+<td>December 31, 2010</td>
+</tr>
+<tr>
+<td>31</td>
+<td>
+> Image: Mark displaying an athlete with gun and skis competing in biathlon
+</td>
+<td>December 31, 2010</td>
+</tr>
+<tr>
+<td>32</td>
+<td>
+> Image: Mark displaying two athletes and a bobsleigh
+</td>
+<td>December 31, 2010</td>
+</tr>
+<tr>
+<td>33</td>
+<td>
+> Image: Mark displaying an athlete cross-country skiing
+</td>
+<td>December 31, 2010</td>
+</tr>
+<tr>
+<td>34</td>
+<td>
+> Image: Mark displaying an athlete curling
+</td>
+<td>December 31, 2010</td>
+</tr>
+<tr>
+<td>35</td>
+<td>
+> Image: Mark displaying an athlete figure skating
+</td>
+<td>December 31, 2010</td>
+</tr>
+<tr>
+<td>36</td>
+<td>
+> Image: Mark displaying an athlete with skis competing in aerials
+</td>
+<td>December 31, 2010</td>
+</tr>
+<tr>
+<td>37</td>
+<td>
+> Image: Mark displaying an athlete with skis competing in moguls
+</td>
+<td>December 31, 2010</td>
+</tr>
+<tr>
+<td>38</td>
+<td>
+> Image: Mark displaying two athletes with skis competing in ski cross
+</td>
+<td>December 31, 2010</td>
+</tr>
+<tr>
+<td>39</td>
+<td>
+> Image: Mark displaying an athlete playing ice hockey
+</td>
+<td>December 31, 2010</td>
+</tr>
+<tr>
+<td>40</td>
+<td>
+> Image: Mark displaying an athlete on luge sled
+</td>
+<td>December 31, 2010</td>
+</tr>
+<tr>
+<td>41</td>
+<td>
+> Image: Mark displaying two athletes with skis competing in Nordic combined
+</td>
+<td>December 31, 2010</td>
+</tr>
+<tr>
+<td>42</td>
+<td>
+> Image: Mark displaying two athletes with skates competing in short track
+</td>
+<td>December 31, 2010</td>
+</tr>
+<tr>
+<td>43</td>
+<td>
+> Image: Mark displaying an athlete on skeleton sled
+</td>
+<td>December 31, 2010</td>
+</tr>
+<tr>
+<td>44</td>
+<td>
+> Image: Mark displaying an athlete with skis competing in ski jumping
+</td>
+<td>December 31, 2010</td>
+</tr>
+<tr>
+<td>45</td>
+<td>
+> Image: Mark displaying two athletes on snowboards competing in snowboard cross
+</td>
+<td>December 31, 2010</td>
+</tr>
+<tr>
+<td>46</td>
+<td>
+> Image: Mark displaying an athlete on snowboard competing in parallel giant slalom
+</td>
+<td>December 31, 2010</td>
+</tr>
+<tr>
+<td>47</td>
+<td>
+> Image: Mark displaying an athlete on snowboard competing in halfpipe
+</td>
+<td>December 31, 2010</td>
+</tr>
+<tr>
+<td>48</td>
+<td>
+> Image: Mark displaying an athlete with skates speed skating
+</td>
+<td>December 31, 2010</td>
+</tr>
+<tr>
+<td>49</td>
+<td>
+> Image: Mark displaying an athlete alpine skiing
+</td>
+<td>December 31, 2010</td>
+</tr>
+<tr>
+<td>50</td>
+<td>
+> Image: Mark displaying an athlete with gun and skis competing in biathlon
+</td>
+<td>December 31, 2010</td>
+</tr>
+<tr>
+<td>51</td>
+<td>
+> Image: Mark displaying an athlete cross-country skiing
+</td>
+<td>December 31, 2010</td>
+</tr>
+<tr>
+<td>52</td>
+<td>
+> Image: Mark displaying an athlete playing ice sledge hockey
+</td>
+<td>December 31, 2010</td>
+</tr>
+<tr>
+<td>53</td>
+<td>
+> Image: Mark displaying an athlete wheelchair curling
+</td>
+<td>December 31, 2010</td>
+</tr>
 </table>
+
+> 2007, c. 25, Sch. 2; SOR/2009-332.
 
 
 
