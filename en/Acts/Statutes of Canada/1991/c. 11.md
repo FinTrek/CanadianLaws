@@ -1061,9 +1061,9 @@ to be published in the Canada Gazette and in one or more newspapers of general c
 **Total indebtedness**
 
 - **(3)** The total indebtedness outstanding in respect of borrowings under subsections (1) and (2) shall not exceed
-	- **(a)** $25,000,000; or
+	- **(a)** $220,000,000; or
 	- **(b)** such greater amount as may be authorized for the purposes of this subsection by Parliament under an appropriation Act.
-> 1994, c. 18, s. 18.
+> 1994, c. 18, s. 18; 2009, c. 31, s. 23.
 
 
 
