@@ -1574,9 +1574,11 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 
 
-**Paiement maximal de 1 000 000 000 $**
+**Paiement maximal de 1 000 000 000 $**
 
-**309** À la demande du ministre de l’Industrie et selon les modalités approuvées par le Conseil du Trésor, il peut être payé sur le Trésor une somme n’excédant pas un milliard de dollars pour l’accélération des travaux de réparation et d’entretien dans les établissements d’enseignement postsecondaire.
+**309** À la demande du ministre de l’Industrie et selon les modalités approuvées par le Conseil du Trésor, il peut être payé sur le Trésor une somme n’excédant pas un milliard de dollars pour la construction, la rénovation, la remise à neuf ou la réparation d’établissements d’enseignement postsecondaire.
+> 2009, ch. 2, art. 309, ch. 31, art. 24.
+
 
 
 
