@@ -2733,7 +2733,7 @@ French version only***renseignements*** Tous éléments d’information ainsi qu
 
 
 
-### Sécurité des activités
+#### Sécurité des activités
 
 
 
@@ -2746,7 +2746,7 @@ French version only***renseignements*** Tous éléments d’information ainsi qu
 
 
 
-### Responsabilité financière
+#### Responsabilité financière
 
 
 
@@ -2759,7 +2759,7 @@ French version only***renseignements*** Tous éléments d’information ainsi qu
 
 
 
-### Autorisation de plans de mise en valeur
+#### Autorisation de plans de mise en valeur
 
 
 
@@ -2794,7 +2794,7 @@ French version only***renseignements*** Tous éléments d’information ainsi qu
 
 
 
-### Déclarations
+#### Déclarations
 
 
 
@@ -2825,7 +2825,7 @@ French version only***renseignements*** Tous éléments d’information ainsi qu
 
 
 
-### Certificats
+#### Certificats
 
 
 
@@ -4866,7 +4866,7 @@ sur
 
 ***coût d’emprunt annuel moyen*** Le coût annuel moyen, exprimé sous forme de taux selon le règlement, qui serait engagé par la province sur ses emprunts s’ils étaient faits dans les douze mois précédant la date d’établissement du taux mentionné au paragraphe 247(2).
 
-***loi précédente*** La Loi sur l’Accord entre le Canada et la Nouvelle-Écosse sur la gestion des ressources pétrolières et gazières, (chapitre 29 des Lois du Canada de 1984) dans sa version antérieure à l’entrée en vigueur du paragraphe 266(1).
+***loi précédente***[Abrogée, 2009, ch. 31, art. 47]
 
 French version only***potentiel*** Potentiel fiscal par habitant.
 
@@ -4875,6 +4875,8 @@ French version only***potentiel*** Potentiel fiscal par habitant.
 **Détermination**
 
 - **(2)** Pour l’application de la présente partie, le potentiel de la province et la moyenne nationale pour un exercice sont déterminés conformément à l’article 226.
+> 1988, ch. 28, art. 246; 2009, ch. 31, art. 47.
+
 
 
 
@@ -4887,38 +4889,55 @@ French version only***potentiel*** Potentiel fiscal par habitant.
 
 **247** 
 
-- **(1)** Sous réserve des autres dispositions du présent article, le ministre fédéral peut, pour le compte de Sa Majesté du chef du Canada, payer à Sa Majesté du chef de la province le montant des profits, évalué selon le règlement, que celle-ci aurait reçu en cas d’acquisition, au titre de l’article 17 de la loi précédente, d’une fraction d’une part de la Couronne dans le cadre d’un projet.
+- **(1)** Sous réserve des autres dispositions du présent article, le ministre fédéral peut, pour le compte de Sa Majesté du chef du Canada, payer à Sa Majesté du chef de la province le montant correspondant à soixante-quinze pour cent des profits réalisés dans le cadre du projet à compter du 1<sup>er</sup> avril 2010 et déterminés selon le règlement.
 
 **Seuil**
 
 - **(2)** Il ne peut être effectué de versement pour un projet que si le ministre provincial prouve à son homologue fédéral que si Sa Majesté du chef de la province avait pu acquérir une telle fraction, le taux de rendement obtenu pour celle-ci dans le cadre du projet et calculé selon le règlement aurait été au moins égal à un taux annuel de rendement sur l’investissement en capital correspondant au moindre de vingt pour cent et du total de sept pour cent et du coût d’emprunt annuel moyen.
 
+**Exceptions**
+
+- **(2.1)** Le paragraphe (2) ne s’applique pas à l’égard du projet d’exploitation des ressources énergétiques au large de l’île de Sable et du projet de mise en valeur du gisement de gaz extracôtier Deep Panuke.
+
 **Réduction**
 
-- **(3)** Le montant total des versements est diminué du montant total, déterminé selon le règlement, de tous encouragements fiscaux ou subventions accordés sous le régime d’une loi fédérale et établis par règlement pour l’application de la présente partie, compte non tenu de ceux accordés généralement au Canada.
+- **(3)** Le montant total des versements est diminué du montant total, déterminé selon le règlement, de tous encouragements fiscaux et subventions qui sont, à la fois :
+	- **a)** prévus sous le régime d’une loi fédérale;
+	- **b)** établis par règlement ou approuvés selon les modalités réglementaires, pour l’application de la présente partie;
+	- **c)** versés dans le cadre du projet.
+
+**Exception**
+
+- **(3.1)** Le paragraphe (3) ne s’applique pas aux encouragements fiscaux et subventions accordés généralement au Canada.
 
 **Paiement**
 
-- **(4)** Les versements sont à effectuer dans les six mois suivant la fin de chaque exercice.
+- **(4)** Sous réserve des règlements, les versements sont à effectuer dans les six mois suivant la fin de chaque exercice.
 
 **Exception**
 
 - **(5)** Aucun versement ne peut être effectué si le potentiel de la province est au moins égal à la moyenne nationale pour un exercice.
 
-**Précision**
-
-- **(6)** Aucun versement ne peut être effectué avant que le montant total, déterminé selon le règlement, des recettes auxquelles Sa Majesté du chef du Canada a droit pour la production d’hydrocarbures extracôtiers corresponde à deux cents millions de dollars.
-
+- **(6)** [Abrogé, 2009, ch. 31, art. 48]
+> 1988, ch. 28, art. 247; 2009, ch. 31, art. 48.
 
 
 
-### Règlement
+
+
+### Règlements
 
 
 
-**Règlement**
+**Règlements**
 
-**248** Sous réserve de l’article 6, le gouverneur en conseil peut, sur recommandation du ministre fédéral, prendre toute mesure réglementaire d’application de la présente partie.
+**248** Sous réserve de l’article 6, le gouverneur en conseil peut, sur recommandation du ministre fédéral, prendre des règlements :
+- **a)** prévoyant, pour l’application de l’article 247, les renseignements à fournir au ministre fédéral pour déterminer les profits réalisés dans le cadre d’un projet;
+- **b)** concernant le versement de toute somme due au titre du paragraphe 247(1) si le ministre établit qu’il a omis de verser une somme au titre de ce paragraphe;
+- **c)** concernant le recouvrement de tout paiement en trop versé au titre du paragraphe 247(1);
+- **d)** en vue de toute mesure réglementaire prévue par la présente partie.
+> 1988, ch. 28, art. 248; 2009, ch. 31, art. 50.
+
 
 
 
