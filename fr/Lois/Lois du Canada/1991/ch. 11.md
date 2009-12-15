@@ -1026,8 +1026,8 @@ Sa Majesté, sur l’avis et avec le consentement du Sénat et de la Chambre des
 
 **Plafond**
 
-- **(3)** Le passif réel de la Société résultant des prêts qui lui ont été consentis sous le régime des paragraphes (1) et (2) ne peut dépasser 25 000 000 $, ce montant pouvant toutefois être augmenté par une loi de crédits.
-> 1994, ch. 18, art. 18.
+- **(3)** Le passif réel de la Société résultant des prêts qui lui ont été consentis sous le régime des paragraphes (1) et (2) ne peut dépasser 220 000 000 $, ce montant pouvant toutefois être augmenté par une loi de crédits.
+> 1994, ch. 18, art. 18; 2009, ch. 31, art. 23.
 
 
 
