@@ -532,7 +532,7 @@ the other employer shall be deemed to be a corporation associated with the parti
 
 
 
-### Elections To Increase Deductions
+### Elections to Increase Deductions
 
 
 **109** 
@@ -12867,19 +12867,47 @@ and the purpose of the corporation is to provide loans, loan guarantees, bridge 
 	- **(iv)** in Alberta, the Counties of Athabasca, Barrhead, Birch Hills, Brazeau, Cardston, Clearwater, Grande Prairie, Kneehill, Lac Ste. Anne, Lacombe, Lakeland, Leduc, Mountain View, Northern Sunrise, Parkland, Ponoka, Red Deer, Saddle Hills, Starland, Thorhild, Wetaskiwin, Woodlands and Yellowhead, the improvement districts of Banff, Jasper Park, Kananaskis, Waterton and Wilmore Wilderness, the municipal districts of Acadia, Big Lakes, Bighorn, Bonnyville, Clear Hills, Fairview, Greenview, MacKenzie, Northern Lights, Peace, Pincher Creek, Ranchland, Smoky River, Spirit River and Willow Creek, the municipalities of Crowsnest Pass and Jasper, and special areas 3 and 4;
 - **(i)** in the 2004 calendar year are
 	- **(i)** in British Columbia, the Regional District of Fort Nelson-Liard, and
-	- **(ii)** in Alberta, the Counties of Beaver, Camrose, Flagstaff, Paintearth, Starland and Stettler, the Municipal Districts of Acadia, Clear Hills, Fairview, Mackenzie and Northern Lights, and Special Areas 2, 3 and 4; and
+	- **(ii)** in Alberta, the Counties of Beaver, Camrose, Flagstaff, Paintearth, Starland and Stettler, the Municipal Districts of Acadia, Clear Hills, Fairview, Mackenzie and Northern Lights, and Special Areas 2, 3 and 4;
 - **(j)** the 2006 calendar year are
 	- **(i)** in Ontario, the Territorial Districts of Algoma, Kenora, Manitoulin, Rainy River and Thunder Bay,
 	- **(ii)** in British Columbia, the Regional Districts of Bulkley-Nechako, Cariboo, Fraser-Fort George, Kitimat-Stikine and Peace River,
 	- **(iii)** in Saskatchewan, the Rural Municipalities of Arlington, Auvergne, Bengough, Big Stick, Bone Creek, Carmichael, Clinworth, Frontier, Glen McPherson, Grassy Creek, Gull Lake, Happy Valley, Hart Butte, Lac Pelletier, Lake Alma, Laurier, Lone Tree, Mankota, Maple Creek, Miry Creek, Old Post, Piapot, Pittville, Poplar Valley, Reno, Surprise Valley, The Gap, Val Marie, Waverley, Webb, Whiska Creek, White Valley, Willow Bunch and Wise Creek, and
-	- **(iv)** in Alberta, the Counties of Clear Hills, Grande Prairie and Saddle Hills and the Municipal Districts of Greenview and Northern Lights.
-> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/91-195, s. 1; SOR/92-732, s. 1; SOR/93-300, s. 1; SOR/99-240, s. 1; SOR/2001-3, s. 1; SOR/2001-288, s. 1; SOR/2002-312, s. 1; SOR/2004-45, s. 1; SOR/2004-260, s. 1; SOR/2005-292, s. 1; SOR/2007-213, s. 1.
+	- **(iv)** in Alberta, the Counties of Clear Hills, Grande Prairie and Saddle Hills and the Municipal Districts of Greenview and Northern Lights;
+- **(k)** the 2007 calendar year are
+	- **(i)** in Ontario, the Cities of Hamilton, Kawartha Lakes and Toronto, the Counties of Brant, Bruce, Dufferin, Elgin, Essex, Frontenac, Grey, Haldimand, Hastings, Huron, Lambton, Lennox and Addington, Middlesex, Northumberland, Norfolk, Oxford, Perth, Peterborough, Prince Edward, Simcoe and Wellington, the Municipality of Chatham-Kent, the Regional Municipalities of Durham, Halton, Niagara, Peel, Waterloo and York, the Territorial Districts of Algoma, Manitoulin and Thunder Bay and the United Counties of Leeds and Grenville,
+	- **(ii)** in British Columbia, the Regional Districts of Central Kootenay, East Kootenay, Kootenay Boundary and Okanagan-Similkameen,
+	- **(iii)** in Saskatchewan, the Rural Municipalities of Arlington, Auvergne, Bengough, Big Stick, Bone Creek, Carmichael, Coulee, Excel, Excelsior, Frontier, Glen Bain, Glen McPherson, Grassy Creek, Gull Lake, Happy Valley, Hart Butte, Lac Pelletier, Lake of the Rivers, Lawtonia, Lone Tree, Mankota, Maple Creek, Miry Creek, Morse, Old Post, Piapot, Pinto Creek, Pittville, Poplar Valley, Reno, Riverside, Saskatchewan Landing, Stonehenge, Swift Current, Val Marie, Waverley, Webb, Whiska Creek, White Valley, Willow Bunch, Wise Creek and Wood River, and
+	- **(iv)** in Alberta, the Counties of Cardston, Cypress, Forty Mile, Lethbridge and Warner, the Municipal Districts of Pincher Creek, Ranchland, Taber and Willow Creek and the Municipality of Crowsnest Pass;
+- **(l)** the 2008 calendar year are
+	- **(i)** in Manitoba, the Municipality of Killarney-Turtle Mountain and the Rural Municipalities of Albert, Arthur, Brenda, Cameron, Edward, Glenwood, Morton, Pipestone, Riverside, Sifton, Whitewater and Winchester,
+	- **(ii)** in British Columbia, the Regional Districts of Central Kootenay, East Kootenay, Kootenay Boundary and Peace River,
+	- **(iii)** in Saskatchewan, the Rural Municipalities of Argyle, Arlington, Auvergne, Baildon, Bengough, Benson, Bone Creek, Bratt’s Lake, Brokenshell, Browning, Caledonia, Cambria, Caron, Coalfields, Cymri, Elmsthorpe, Enniskillen, Estevan, Excel, Francis, Frontier, Glen Bain, Glen McPherson, Grassy Creek, Gravelbourg, Griffin, Hillsborough, Happy Valley, Hart Butte, Key West, Lac Pelletier, Lajord, Lake Alma, Lake Johnston, Lake of the Rivers, Laurier, Lomond, Lone Tree, Mankota, Marquis, Moose Creek, Moose Jaw, Mount Pleasant, Norton, Old Post, Pense, Pinto Creek, Poplar Valley, Redburn, Reciprocity, Rodgers, Scott, Shamrock, Sherwood, Souris Valley, Surprise Valley, Stonehenge, Storthoaks, Sutton, Tecumseh, Terrell, The Gap, Val Marie, Waverley, Wellington, Weyburn, Whiska Creek, White Valley, Willow Bunch, Wise Creek and Wood River, and
+	- **(iv)** in Alberta, the Counties of Birch Hills, Clear Hills, Grande Prairie and Saddle Hills and the Municipal Districts of Fairview and Spirit River; and
+- **(m)** the 2009 calendar year are
+	- **(i)** in British Columbia, the Census Subdivisions Cariboo D, E, G and K, Central Kootenay A to E, G, H, J and K, Central Okanagan, Central Okanagan J, Columbia-Shuswap C to F, Kootenay Boundary B to E, North Okanagan B and D to F, Okanagan-Similkameen A to H, Spallumcheen, Squamish-Lillooet A to C and Thompson-Nicola E (Bonaparte Plateau), I (Blue Sky Country), J (Copper Desert Country), L, M, N, O (Lower North Thompson) and P (Rivers and the Peaks), as these subdivisions were developed by Statistics Canada for the 2006 Census,
+	- **(ii)** in Saskatchewan, the Rural Municipalities of Antelope Park, Auvergne, Battle River, Biggar, Bone Creek, Britannia, Buffalo, Canaan, Chaplin, Chesterfield, Clinworth, Coteau, Coulee, Cut Knife, Deer Forks, Eagle Creek, Eldon, Enfield, Excelsior, Eye Hill, Fertile Valley, Glen Bain, Glen McPherson, Glenside, Grandview, Grass Lake, Grassy Creek, Gravelbourg, Happyland, Harris, Heart’s Hill, Hillsdale, Kindersley, King George, Lacadena, Lac Pelletier, Lawtonia, Lone Tree, Loreburn, Manitou Lake, Mankota, Maple Bush, Mariposa, Marriott, Milden, Milton, Miry Creek, Monet, Montrose, Morse, Mountain View, Newcombe, Oakdale, Paynton, Perdue, Pinto Creek, Pittville, Pleasant Valley, Prairiedale, Progress, Reford, Riverside, Rosedale, Rosemount, Round Valley, Rudy, Saskatchewan Landing, Senlac, Shamrock, Snipe Lake, St. Andrews, Swift Current, Tramping Lake, Turtle River, Val Marie, Vanscoy, Victory, Waverley, Webb, Whiska Creek, Wilton, Winslow, Wise Creek and Wood River, and
+	- **(iii)** in Alberta, the Cities of Calgary and Edmonton, the Counties of Athabasca, Barrhead, Beaver, Birch Hills, Brazeau, Camrose, Clear Hills, Clearwater, Flagstaff, Kneehill, Lac La Biche, Lacombe, Lac Ste. Anne, Lamont, Leduc, Minburn, Mountain View, Paintearth, Parkland, Ponoka, Red Deer, Rocky View, Smoky Lake, St. Paul, Starland, Stettler, Strathcona, Sturgeon, Thorhild, Two Hills, Vermilion River, Westlock, Wetaskiwin, Wheatland and Woodlands, Improvement District No. 13, the Municipal Districts of Acadia, Big Lakes, Bonnyville, Fairview, Greenview, Lesser Slave River, Northern Lights, Peace, Provost, Smoky River, Spirit River and Wainwright, Special Areas No. 2, 3 and 4 and the Town of Drumheller.
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/91-195, s. 1; SOR/92-732, s. 1; SOR/93-300, s. 1; SOR/99-240, s. 1; SOR/2001-3, s. 1; SOR/2001-288, s. 1; SOR/2002-312, s. 1; SOR/2004-45, s. 1; SOR/2004-260, s. 1; SOR/2005-292, s. 1; SOR/2007-213, s. 1; 2009, c. 31, s. 16.
 
 
 
 
 **7305.01** For the purposes of subsection 80.3(4) of the Act, the prescribed drought regions in respect of a year include any particular area that is surrounded by a region or regions prescribed under section 7305 in respect of the year.
 > [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; SOR/2001-3, s. 2.
+
+
+
+
+**7305.02** 
+
+- **(1)** For the purposes of subsection 80.3(4) of the Act, the following regions are prescribed regions of flood or excessive moisture:
+	- **(a)** in respect of the 2008 calendar year, in Manitoba,
+		- **(i)** the rural municipalities of Alonsa, Armstrong, Bifrost, Coldwell, Dauphin, Eriksdale, Ethelbert, Fisher, Gimli, Glenella, Grahamdale, Lakeview, Lawrence, McCreary, Mossey River, Mountain South, Ochre River, Rockwood, Siglunes, St. Andrews, St. Laurent, Ste. Rose and Woodlands, and
+		- **(ii)** any reserve that is contiguous to a rural municipality referred to in subparagraph (i), or that is part of a series of contiguous reserves one of which is contiguous to a rural municipality referred to in subparagraph (i), of the bands designated as Dauphin River, Ebb and Flow, Fisher River, Kinonjeoshtegon First Nation, Lake Manitoba First Nation, Lake St. Martin, Little Saskatchewan, O-Chi-Chak-Ko-Sipi First Nation, Peguis, Pinaymootang First Nation, Sandy Bay and Skownan First Nation; and
+	- **(b)** in respect of the 2009 calendar year, in Manitoba, the rural municipalities of Armstrong, Bifrost, Fisher and Gimli.
+
+- **(2)** For the purpose of this section, ***band*** and ***reserve*** have the same meaning as assigned by the [Indian Act](/en/Acts/Revised%20Statutes%20of%20Canada/I/I-5.md).
+> [NOTE: Application provisions are not included in the consolidated text; see relevant amending Acts and regulations.] ; 2009, c. 31, s. 17.
 
 
 
