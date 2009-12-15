@@ -1576,7 +1576,9 @@ Her Majesty, by and with the advice and consent of the Senate and House of Commo
 
 **Maximum payment of $1,000,000,000**
 
-**309** There may be paid out of the Consolidated Revenue Fund, on the requisition of the Minister of Industry, in accordance with terms and conditions approved by the Treasury Board, a sum not exceeding one billion dollars to accelerate repairs and maintenance at post-secondary institutions.
+**309** There may be paid out of the Consolidated Revenue Fund, on the requisition of the Minister of Industry, in accordance with terms and conditions approved by the Treasury Board, a sum not exceeding one billion dollars for the construction, renovation, refurbishment or repair of buildings and facilities at post-secondary institutions.
+> 2009, c. 2, s. 309, c. 31, s. 24.
+
 
 
 
