@@ -3730,7 +3730,7 @@ less
 	- **(i)** the period after the exportation of goods within which the goods must be returned to Canada, and
 	- **(ii)** what constitutes satisfactory evidence of exportation of the goods;
 - **(b)** defining the expressions “baggage”, “conveyance”, “former resident”, “incidental to the international traffic of the goods”, “resident”, “temporarily” and “temporary resident” for the purposes of a tariff item of Chapter 98 of the List of Tariff Provisions;
-- **(c)** for the purposes of tariff item No. 9801.10.10, 9801.10.20, 9801.20.00, 9808.00.00 or 9810.00.00, prescribing conditions under which goods may be imported;
+- **(c)** for the purposes of tariff item No. 9801.10.10, 9801.10.20, 9801.10.30, 9801.20.00, 9808.00.00 or 9810.00.00, prescribing conditions under which goods may be imported;
 - **(d)** for the purposes of tariff item No. 9802.00.00,
 	- **(i)** prescribing conditions under which conveyances may be imported,
 	- **(ii)** limiting the length of time that any imported conveyance may remain in Canada and the use that may be made of the conveyance while it remains in Canada, and authorizing the Minister of Public Safety and Emergency Preparedness to extend those limits,
@@ -3761,7 +3761,7 @@ less
 	- **(ii)** setting out the conditions under which the requirement for security or for prescribed documents may be waived, and
 	- **(iii)** prescribing the form, nature and conditions of any security satisfactory to the Minister of Public Safety and Emergency Preparedness; and
 - **(l)** prescribing any other thing that is to be prescribed for the purposes of a tariff item referred to in this section.
-> 1997, c. 36, s. 133; 2001, c. 28, s. 45; 2005, c. 38, ss. 142, 145; 2009, c. 2, s. 122, c. 6, s. 36, c. 16, ss. 48, 56.
+> 1997, c. 36, s. 133; 2001, c. 28, s. 45; 2005, c. 38, ss. 142, 145; 2009, c. 2, s. 122, c. 6, s. 36, c. 16, ss. 48, 56, c. 31, s. 51.
 
 
 
