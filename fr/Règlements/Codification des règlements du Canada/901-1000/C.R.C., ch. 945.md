@@ -12770,14 +12770,42 @@ Ne sont pas des paiements exclus les paiements prévus par un titre de créance 
 	- **(i)** en Ontario, les districts territoriaux de Algoma, Kenora, Manitoulin, Rainy River et Thunder Bay,
 	- **(ii)** en Colombie-Britannique, les districts régionaux de Bulkley-Nechako, Cariboo, Fraser-Fort George, Kitimat-Stikine et Peace River,
 	- **(iii)** en Saskatchewan, les municipalités rurales de Arlington, Auvergne, Bengough, Big Stick, Bone Creek, Carmichael, Clinworth, Frontier, Glen McPherson, Grassy Creek, Gull Lake, Happy Valley, Hart Butte, Lac Pelletier, Lake Alma, Laurier, Lone Tree, Mankota, Maple Creek, Miry Creek, Old Post, Piapot, Pittville, Poplar Valley, Reno, Surprise Valley, The Gap, Val Marie, Waverley, Webb, Whiska Creek, White Valley, Willow Bunch et Wise Creek,
-	- **(iv)** en Alberta, les comtés de Clear Hills, Grande Prairie et Saddle Hills et les districts municipaux de Greenview et Northern Lights.
-> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/91-195, art. 1; DORS/92-732, art. 1; DORS/93-300, art. 1; DORS/99-240, art. 1; DORS/2001-3, art. 1; DORS/2001-288, art. 1; DORS/2002-312, art. 1; DORS/2004-45, art. 1; DORS/2004-260, art. 1; DORS/2005-292, art. 1; DORS/2007-213, art. 1.
+	- **(iv)** en Alberta, les comtés de Clear Hills, Grande Prairie et Saddle Hills et les districts municipaux de Greenview et Northern Lights;
+- **k)** pour l’année civile 2007 :
+	- **(i)** en Ontario, les villes de Hamilton, Kawartha Lakes et Toronto, les comtés de Brant, Bruce, Dufferin, Elgin, Essex, Frontenac, Grey, Haldimand, Hastings, Huron, Lambton, Lennox et Addington, Middlesex, Northumberland, Norfolk, Oxford, Perth, Peterborough, Prince Edward, *Simcoe* et Wellington, la municipalité de Chatham-Kent, les municipalités régionales de Durham, Halton, Niagara, Peel, Waterloo et York, les districts territoriaux de Algoma, Manitoulin et Thunder Bay et les comtés unis de Leeds et Grenville,
+	- **(ii)** en Colombie-Britannique, les districts régionaux de Central Kootenay, East Kootenay, Kootenay Boundary et Okanagan-Similkameen,
+	- **(iii)** en Saskatchewan, les municipalités rurales de Arlington, Auvergne, Bengough, Big Stick, Bone Creek, Carmichael, Coulee, Excel, Excelsior, Frontier, Glen Bain, Glen McPherson, Grassy Creek, Gull Lake, Happy Valley, Hart Butte, Lac Pelletier, Lake of the Rivers, Lawtonia, Lone Tree, Mankota, Maple Creek, Miry Creek, Morse, Old Post, Piapot, Pinto Creek, Pittville, Poplar Valley, Reno, Riverside, Saskatchewan Landing, Stonehenge, Swift Current, Val Marie, Waverley, Webb, Whiska Creek, White Valley, Willow Bunch, Wise Creek et Wood River,
+	- **(iv)** en Alberta, les comtés de Cardston, Cypress, Forty Mile, Lethbridge et Warner, les districts municipaux de Pincher Creek, Ranchland, Taber et Willow Creek et la municipalité de Crowsnest Pass;
+- **l)** pour l’année civile 2008 :
+	- **(i)** au Manitoba, la municipalité de Killarney-Turtle Mountain et les municipalités rurales de Albert, Arthur, Brenda, Cameron, Edward, Glenwood, Morton, Pipe­stone, Riverside, Sifton, Whitewater et Winchester,
+	- **(ii)** en Colombie-Britannique, les districts régionaux de Central Kootenay, East Kootenay, Kootenay Boundary et Peace River,
+	- **(iii)** en Saskatchewan, les municipalités rurales de Argyle, Arlington, Auvergne, Baildon, Bengough, Benson, Bone Creek, Bratt’s Lake, Brokenshell, Browning, Caledonia, Cambria, Caron, Coalfields, Cymri, Elmsthorpe, Enniskillen, Estevan, Excel, Francis, Frontier, Glen Bain, Glen McPherson, Grassy Creek, Gravelbourg, Griffin, Hillsborough, Happy Valley, Hart Butte, Key West, Lac Pelletier, Lajord, Lake Alma, Lake Johnston, Lake of the Rivers, Laurier, Lomond, Lone Tree, Mankota, Marquis, Moose Creek, Moose Jaw, Mount Pleasant, Norton, Old Post, Pense, Pinto Creek, Poplar Valley, Redburn, Reciprocity, Rodgers, Scott, Shamrock, Sherwood, Souris Valley, Surprise Valley, Stonehenge, Storthoaks, Sutton, Tecumseh, Terrell, The Gap, Val Marie, Waverley, Wellington, Weyburn, Whiska Creek, White Valley, Willow Bunch, Wise Creek et Wood River,
+	- **(iv)** en Alberta, les comtés de Birch Hills, Clear Hills, Grande Prairie et Saddle Hills et les districts municipaux de Fairview et Spirit River;
+- **m)** pour l’année civile 2009 :
+	- **(i)** en Colombie-Britannique, les subdivisions de recensement Cariboo D, E, G et K, Central Kootenay A à E, G, H, J et K, Central Okanagan, Central Okanagan J, Columbia-Shuswap C à F, Kootenay Boundary B à E, North Okanagan B et D à F, Okanagan-Similkameen A à H, Spallumcheen, *Squamish-Lillooet* A à C et Thompson-Nicola E (Bonaparte Plateau), I (Blue Sky Country), J (Copper Desert Country), L, M, N, O (Lower North Thompson) et P (Rivers and the Peaks), subdivisions créées par Statistique Canada pour les besoins du recensement de 2006,
+	- **(ii)** en Saskatchewan, les municipalités rurales de Antelope Park, Auvergne, Battle River, Biggar, Bone Creek, Britannia, Buffalo, Canaan, Chaplin, Chesterfield, Clinworth, Coteau, Coulee, Cut Knife, Deer Forks, Eagle Creek, Eldon, Enfield, Excelsior, Eye Hill, Fertile Valley, Glen Bain, Glen McPherson, Glenside, Grandview, Grass Lake, Grassy Creek, Gravelbourg, Happyland, Harris, Heart’s Hill, Hillsdale, Kindersley, King George, Lacadena, Lac Pelletier, Lawtonia, Lone Tree, Loreburn, Manitou Lake, Mankota, Maple Bush, Mariposa, Marriott, Milden, Milton, Miry Creek, Monet, Montrose, Morse, Mountain View, Newcombe, Oakdale, Paynton, Perdue, Pinto Creek, Pittville, Pleasant Valley, Prairiedale, Progress, Reford, Riverside, Rosedale, Rosemount, Round Valley, Rudy, Saskatchewan Landing, Senlac, Shamrock, Snipe Lake, St. Andrews, Swift Current, Tramping Lake, Turtle River, Val Marie, Vanscoy, Victory, Waverley, Webb, Whiska Creek, Wilton, Winslow, Wise Creek et Wood River,
+	- **(iii)** en Alberta, les villes de Calgary, Drumheller et Edmonton, les comtés de Athabasca, Barrhead, Beaver, Birch Hills, Brazeau, Camrose, Clear Hills, Clearwater, Flagstaff, Kneehill, Lac La Biche, Lacombe, Lac Ste. Anne, Lamont, Leduc, Minburn, Mountain View, Paintearth, Parkland, Ponoka, Red Deer, Rocky View, Smoky Lake, St. Paul, Starland, Stettler, Strathcona, Sturgeon, Thorhild, Two Hills, Vermilion River, Westlock, Wetaskiwin, Wheatland et Woodlands, le district en voie d’organisation numéro 13, les districts municipaux de Acadia, Big Lakes, Bonnyville, Fairview, Greenview, Lesser Slave River, Northern Lights, Peace, Provost, Smoky River, Spirit River et Wainwright et les zones spéciales 2, 3 et 4.
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/91-195, art. 1; DORS/92-732, art. 1; DORS/93-300, art. 1; DORS/99-240, art. 1; DORS/2001-3, art. 1; DORS/2001-288, art. 1; DORS/2002-312, art. 1; DORS/2004-45, art. 1; DORS/2004-260, art. 1; DORS/2005-292, art. 1; DORS/2007-213, art. 1; 2009, ch. 31, art. 16.
 
 
 
 
 **7305.01** Pour l’application du paragraphe 80.3(4) de la Loi, est compris parmi les régions frappées de sécheresse pour une année tout endroit entouré d’une ou de plusieurs régions visées à l’article 7305 pour l’année.
 > [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; DORS/2001-3, art. 2.
+
+
+
+
+**7305.02** 
+
+- **(1)** Pour l’application du paragraphe 80.3(4) de la Loi, les régions ci-après constituent des régions frappées d’inondations ou de conditions d’humidité excessive :
+	- **a)** pour l’année civile 2008, au Manitoba :
+		- **(i)** les municipalités rurales de Alonsa, Armstrong, Bifrost, Coldwell, Dauphin, Eriksdale, Ethelbert, Fisher, Gimli, Glenella, Grahamdale, Lakeview, Lawrence, McCreary, Mossey River, Mountain South, Ochre River, Rockwood, Sainte-Rose, Saint-Laurent, Siglunes, St. Andrews et Woodlands,
+		- **(ii)** toute réserve, contiguë à une municipalité rurale mentionnée au sous-alinéa (i) ou faisant partie d’une série de réserves contiguës dont une est contiguë à une telle municipalité rurale, des bandes désignées sous les vocables de Dauphin River, Ebb and Flow, Fisher River, Première Nation de Kinonjeoshtegon, Première Nation de Lake Manitoba, Lake St. Martin, Little Saskatchewan, Première Nation d’O-Chi-Chak-Ko-Sipi, Peguis, Première Nation de Pinaymootang, Sandy Bay et Première Nation de Skownan;
+	- **b)** pour l’année civile 2009, au Manitoba, les municipalités rurales de Armstrong, Bifrost, Fisher et Gimli.
+
+- **(2)** Pour l’application du présent article, ***bande*** et ***réserve*** s’entendent au sens de la [Loi sur les Indiens](/fr/Lois/Lois%20révisées%20du%20Canada/I/I-5.md).
+> [NOTE : Les dispositions d’application ne sont pas incluses dans la présente codification; voir les lois et règlements modificatifs appropriés.] ; 2009, ch. 31, art. 17.
 
 
 
